@@ -1,0 +1,870 @@
+# NOU 2020: 17, del 14 av 22 (side 159–168)
+
+- Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2020/9dfffdcf-nou-2020-17.md
+- Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2020-17/id2791522/
+- Original-PDF: https://www.regjeringen.no/contentassets/5f3dc96de14f443f869795a19088926a/no/pdfs/nou202020200017000dddpdfs.pdf
+- Tekst: hentet fra PDF. OBS: 5 figurer. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+
+---
+
+[Side 159]
+
+NOU 2020: 17
+Varslede drap?
+
+For det femte fremstod krisesentrenes journalføring til dels mangelfull. Krisesentrene har ingen
+lovpålagt journalplikt. I Bufdir sin veileder anbefales det likevel å føre journal. Det fremgår blant
+annet av veilederen at journalføring er nødvendig
+for å sikre den enkelte brukeren systematisk kartlegging og god oppfølging. Systematisk journalføring kan bidra til at voldens omfang blir mer tydelig både for krisesenteret og samarbeidspartnere i
+hjelpeapparatet. God dokumentasjon kan også ha
+stor betydning i forbindelse med for eksempel
+straffesak mot voldsutøver, rettssak om samvær
+og omsorg for barn, søknad om voldsoffererstatning og søknad om opphold i Norge. Utvalget så
+flere eksempler på manglende journal eller manglende opplysninger i journal. Det var blant annet
+ingen journalførte opplysninger om at krisesenteret hadde gjennomført en systematisk kartlegging av volden eller en strukturert risikovurdering. Utvalget så heller ingen eksempler på journalføring av at det var utarbeidet sikkerhetsplan i
+samarbeid med brukeren. Mangelen på dokumentasjon gjorde at utvalget ikke kunne konstatere
+om disse virkemidlene ble brukt.
+
+12.6 Barnevern
+12.6.1 Om kontakten
+Gjerningsperson og offer hadde enten felles barn,
+særkullsbarn eller begge deler, i samtlige gjennomgåtte saker, se punkt 10.3. Blant disse var det
+hjemmeboende mindreårige barn på drapstidspunktet i 15 saker. I ytterligere 3 saker hadde
+paret tidligere hatt mindreårige hjemmeboende
+barn.
+Det var kontakt med barnevernet i totalt 10 av
+de 19 gjennomgåtte sakene. Blant disse hadde
+paret på drapstidspunktet mindreårige barn i 7
+saker, både mindreårige og voksne barn i 2 saker
+og bare voksne barn i én sak.505
+Kontakten med barnevernet ble i de aller
+fleste sakene opprettet ved at en offentlig instans
+sendte bekymringsmelding til barneverntjenesten. Det var tilfellet i 10 saker. Blant disse ble
+det, i henhold til straffesaksdokumentene, sendt
+to eller flere bekymringsmeldinger i 5 saker. Det
+ble, så vidt utvalget har registrert, ikke sendt
+bekymringsmelding i aktiv barnevernssak. Det
+kan ikke utelukkes at det ble sendt flere bekymringsmeldinger i sakene. I én sak hadde for
+eksempel gjerningspersonen mistet omsorgen for
+505
+
+Denne opptellingen inkluderer både fellesbarn og særkullsbarn.
+
+157
+
+Kapittel 12
+
+tre barn. Saken inneholdt imidlertid bare opplysninger om én bekymringsmelding. De offentlige
+instansene som sendte bekymringsmelding til
+barneverntjenesten var politiet, krisesenter, helsetjenesten (lege, legevakt, AMK), skole og asylmottak. I én sak tok barnet selv kontakt med barneverntjenesten.
+Grunnlaget for at det ble sendt bekymringsmelding til barneverntjenesten var kunnskap om
+partnervold i omtrent halvparten av sakene. I de
+resterende sakene handlet bekymringen om at
+barn ble utsatt for vold eller andre bekymringsverdige forhold i familien, for eksempel rus eller psykisk sykdom.
+Det varierte hvor lang tid før drapet barneverntjenesten var i kontakt med familiene. I én av
+sakene hvor barna var voksne på drapstidspunktet, ble kontakten både opprettet og avsluttet
+mange år før drapet. I de sakene hvor familiene
+hadde både mindreårige og voksne barn, var det
+kontakt med barnevernet i mange år, og det var
+fortsatt kontakt på drapstidspunktet. I de 8 sakene
+hvor barna var mindreårige, ble kontakt med barneverntjenesten opprettet alt fra omtrent seks år
+før drapet til tre måneder før drapet. I 5 av disse
+sakene var kontakten med barneverntjenesten
+avsluttet på drapstidspunktet. I én av sakene
+skjedde drapet mens undersøkelsessaken pågikk.
+Det var få saker hvor barneverntjenesten
+iverksatte tvangstiltak og var tungt inne i saken
+over lenger tid. I de fleste sakene ble undersøkelsessaken avsluttet etter noen uker eller måneder.
+
+12.6.2
+
+Om sakene hvor det ikke var kontakt
+med barneverntjenesten
+Det var 6 saker med mindreårige hjemmeboende
+barn på drapstidspunktet hvor det ikke var kontakt med barneverntjenesten.506 Barna levde med
+vold i alle disse sakene. I 3 av disse sakene ble
+barna utsatt for direkte fysisk vold. Se mer om
+disse sakene i punkt 12.6.4.8.
+Det var i tillegg 2 saker med tidligere hjemmeboende mindreårige barn hvor det ikke syntes å
+ha vært kontakt med barneverntjenesten. Det
+forekom partnervold i disse sakene også. I én av
+sakene var det også opplysninger om at barna
+levde med vold før de ble voksne og flyttet ut. I
+506
+
+I én av disse sakene var det kontakt med barneverntjenesten i en annen kommune vedrørende et særkullsbarn.
+Utvalget har utelukket denne saken fra oversikten over
+antall saker hvor det var kontakt med barneverntjenesten
+fordi kontakten med barneverntjenesten altså ikke gjaldt
+forholdene knyttet til parets hjemmeboende barn i tiden før
+drapet.
+
+[Side 160]
+
+158
+
+NOU 2020: 17
+
+Kapittel 12
+
+Varslede drap?
+
+den andre saken ga ikke straffesaksdokumentene
+svar på om barna levde med vold da de var mindreårige og hjemmeboende.
+Det var totalt 7 eller 8 av 19 saker hvor det
+ikke var kontakt med barneverntjenesten til tross
+for at mindreårige barn levde med vold, og hvor
+andre offentlige instanser hadde kunnskap om
+vold i familien. Blant disse var barna også utsatt
+for direkte fysisk vold i minst 3 saker.
+
+12.6.3
+
+Om barneverntjenestens håndtering
+av sakene
+
+12.6.3.1 Dokumentasjon
+Straffesaksdokumentene inneholdt dokumentasjon fra barneverntjenesten i 8 av de 10 sakene
+hvor det var kontakt med barneverntjenesten. I én
+av disse sakene lå kontakten med barneverntjenesten langt tilbake i tid. I de 2 sakene hvor straffesakdokumentene ikke inneholdt dokumentasjon
+fra barneverntjenesten, var det opplysninger om
+kontakt fra andre dokumenter, for eksempel vitneavhør. I den ene saken fremgikk det i avhør av
+ansatte i barneverntjenesten en del informasjon
+om håndteringen av saken, og saken er derfor
+inkludert her. I den andre saken ga ikke straffesaksdokumentene opplysninger om selve håndteringen av saken, og saken er derfor ikke inkludert her. Som følge av flere usikkerhetsmomenter
+tar utvalget forbehold med hensyn til opptellingene som er gjort for å belyse barneverntjenestenes håndtering av sakene.
+
+12.6.3.2 Undersøkelsessak
+Barneverntjenesten opprettet undersøkelsessak i
+alle de 10 sakene hvor de mottok bekymringsmelding. Det var opplysninger om at det ble innhentet
+dokumentasjon eller informasjon fra andre offentlige instanser etter barnevernloven § 6-4 annet
+ledd i de fleste sakene.507 Det varierte imidlertid
+hvor mange, og hvilke, instanser barneverntjenesten innhentet opplysninger fra. I enkelte saker
+innhentet barneverntjenesten opplysninger fra
+flere relevante instanser. I én sak ble det for
+eksempel innhentet opplysninger fra både skole,
+PPT, fastlege og politiet, og i en annen sak ble det
+innhentet opplysninger fra politiet, helsestasjon
+og krisesenter. I de fleste sakene ble det innhentet
+opplysninger fra færre instanser, for eksempel
+507
+
+I én sak var det ingen opplysninger om dette.
+
+bare fra skole. I én sak ble opplysninger fra skole
+innhentet ved en telefonsamtale med skolens rektor. Informasjonen kom dermed ikke fra læreren
+som hadde observert barnet. Opplysninger fra
+fastlege ble innhentet i én sak. I én sak fikk ikke
+barneverntjenesten samtykke fra foreldrene til å
+innhente opplysninger fra andre instanser, og det
+syntes som om det medførte at barneverntjenesten ikke innhentet slike opplysninger.
+I 2 saker ble det, i løpet av undersøkelsesperioden, avholdt samarbeidsmøter mellom relevante
+instanser. Det syntes som om hensikten med
+møtene var avklaring av familiens situasjon og
+grunnlaget for bekymringsmeldingen.
+Det ble, i løpet av undersøkelsesperioden,
+gjennomført ett eller flere hjemmebesøk i nesten
+alle sakene. I én sak var det ingen opplysninger
+om at det ble gjennomført hjemmebesøk, og i en
+annen sak var det opplysninger om at det bare ble
+gjennomført hjemmebesøk i én av 2 undersøkelsessaker.
+Det ble videre gjennomført samtaler med et
+eller flere familiemedlemmer i alle sakene. Det
+varierte imidlertid hvor mange samtaler som ble
+gjennomført, og hvem det ble gjennomført aleneeller fellessamtaler med. Barneverntjenesten
+snakket med begge foreldrene i de fleste sakene. I
+én sak var den voldsutsatte forelderen bortreist da
+undersøkelsessaken pågikk, og barneverntjenesten snakket derfor ikke med vedkommende. I
+en annen sak snakket barneverntjenesten bare
+med voldsutsatt forelder, ikke med voldsutøver. I
+noen saker gjennomførte barneverntjenesten
+separate alenesamtaler med begge foreldrene,
+mens i andre saker ble alle samtalene gjennomført med begge foreldre til stede. I én sak nektet
+far i utgangspunktet barneverntjenesten å snakke
+alene med mor. Barneverntjenesten opplevde
+dette som krevende. På den ene siden måtte mor
+og barn ivaretas, og på den andre siden ville alenesamtaler med mor potensielt medføre en mer konfliktfylt situasjon. Barneverntjenesten gjennomførte likevel alenesamtale med mor.
+Dokumentene viste videre at barneverntjenesten snakket alene med barna i et mindretall av
+sakene. Blant de sakene hvor barneverntjenesten
+snakket med barna, ble samtalen i et par saker
+gjort på hjemmebesøk. I disse tilfellene syntes det
+som om samtalene nærmest oppstod tilfeldig da
+barnet var i et annet rom enn foreldrene og det
+passet å slå av en prat. Det var også to eksempler
+på at barneverntjenesten bare snakket med ett av
+flere barn i familien.
+
+[Side 161]
+
+159
+
+NOU 2020: 17
+Varslede drap?
+
+12.6.3.3 Vedtak og tiltak
+I 2 saker ledet undersøkelsessaken til vedtak om
+tvangstiltak med hjemmel i barnevernloven. I
+begge disse sakene ble ett eller flere barn plassert
+i fosterhjem. I 2 andre saker ledet undersøkelsen
+til vedtak om hjelpetiltak med hjemmel i barnevernloven § 4-4. I begge sakene inkluderte dette
+råd og veiledning til foreldrene. I den ene saken
+ble det også vedtatt tiltak om koordinering av
+involverte instanser. Dette vedtaket ble fulgt opp
+med et samarbeidsmøte før drapet skjedde. Dette
+ble avholdt noen måneder etter at vedtaket ble fattet. I 4 saker ble undersøkelsessaken henlagt uten
+tiltak. I én av disse sakene ble det opprettet to
+undersøkelsessaker, og begge ble henlagt uten tiltak. Det siste vedtaket ble fattet et par måneder
+før drapet skjedde. I én sak skjedde drapet før
+undersøkelsessaken ble avsluttet. Barneverntjenesten vurderte imidlertid hjemmet som trygt for
+barna etter hjemmebesøket, og det var ingenting
+som tydet på at barneverntjenesten var i ferd med
+å fatte vedtak om tvangstiltak.
+I de fleste sakene ønsket ikke foreldrene hjelpetiltak eller videre kontakt med barneverntjenesten. Det var bare i 2 saker hvor én eller begge
+foreldrene uttrykte et ønske om oppfølging. I
+disse sakene ble det også fattet vedtak om hjelpetiltak. Det var i tillegg én sak hvor forelderen ba
+om hjelp, men avslo hjelpen da barneverntjenesten stilte krav til vedkommende. Det syntes
+som om forelderen ønsket hjelp så lenge det virket formålstjenlig for egne interesser.
+Foreldrenes manglende ønske om barneverntjenestens involvering var tilsynelatende bakgrunnen for at flere undersøkelsessaker ble henlagt
+uten tiltak. Det var flere eksempler på at barneverntjenesten enten i vedtaket om henleggelse,
+eller i andre dokumenter i saken, skrev at saken
+måtte henlegges så lenge familien ikke ønsket
+mer kontakt eller oppfølging. I én sak sendte for
+eksempel krisesenter bekymringsmelding til barneverntjenesten da mor og barn bodde på krisesenteret. Mor sa til barneverntjenesten at det ikke
+lenger var noen misforståelser mellom foreldrene,
+og at hun ivaretok barna på en god måte. Foreldrene ga tydelig uttrykk for at de ikke forstod
+hvorfor barneverntjenesten var involvert, og at de
+ikke ønsket kontakt med dem. Saken etterlot et
+inntrykk av at barneverntjenesten var bekymret
+for familien. Undersøkelsessaken ble likevel henlagt under henvisning til at foreldrene benektet
+vold og avviste behov for hjelp. Barneverntjenesten sendte kopi av vedtaket til flere andre
+
+Kapittel 12
+
+instanser, men ikke til politiet. Politiet ble heller
+ikke varslet på annen måte i saken.
+I én sak ble undersøkelsessaken henlagt uten
+at det fremgikk noe om foreldrene ønsket kontakt. Det var krisesenteret som hadde sendt
+bekymringsmelding i saken. Det ble verken gjennomført hjemmebesøk eller samtaler med barna.
+Det ble heller ikke formelt innhentet opplysninger
+fra andre instanser utover en telefonsamtale med
+skolen. Begrunnelsen for henleggelsen var tilsynelatende at mor/voldsutsatt syntes å håndtere
+krisesituasjonen på en god måte, og at hun selv
+mente at hun var i stand til å ivareta barna. Det
+syntes også å ha hatt stor betydning at mor ønsket
+skilsmisse, og at far hadde flyttet ut da vedtaket
+ble fattet. Far flyttet imidlertid inn igjen etter kort
+tid.
+
+12.6.4
+
+Utfordringer
+
+12.6.4.1 Hovedinntrykk og forebyggingspotensial
+Det var en stor andel av de gjennomgåtte partnerdrapssakene hvor det var kontakt med barneverntjenesten. Barneverntjenesten var dermed en av
+de instansene som gjerningsperson og offer
+hadde mest kontakt med før drapet.
+Sakene viste at barneverntjenesten har et
+unikt innblikk i familier og hjemmeforhold, se
+punkt 7.5.1. Utvalgets hovedinntrykk fra saksgjennomgangen var at det finnes et ubenyttet forebyggingspotensial i barneverntjenestens arbeid med
+familier. Forebyggingspotensialet knytter seg
+både til sakene hvor det var kontakt med barneverntjenesten før drapet, og til sakene hvor det
+ikke var kontakt med barneverntjenesten før drapet. Felles for alle disse sakene, var at de etterlot
+et inntrykk av at det var noen – enten barneverntjenesten eller andre instanser – som ikke oppfattet risikoen, eller alvoret, i saken.
+Hva gjelder sakene hvor det var kontakt med
+barneverntjenesten, etterlot de et inntrykk av at
+sakene ble dårlig dokumentert, at undersøkelsene
+var lite grundige, at det i liten grad ble samarbeidet med andre instanser og utvekslet informasjon,
+og at det i liten grad ble iverksatt treffende tiltak. I
+tillegg var det en stor utfordring at de involverte
+parter syntes å ha lite tillit til, eller frykt for, barneverntjenesten. Utvalget så også flere eksempler på
+at andre offentlige instanser i for liten grad varslet
+barneverntjenesten ved bekymring for barn.
+Dette gjaldt både i sakene hvor barneverntjenesten var involvert, og i sakene hvor de ikke var
+det.
+
+[Side 162]
+
+160
+
+Kapittel 12
+
+NOU 2020: 17
+Varslede drap?
+
+12.6.4.2 Lite grundige undersøkelser
+Utvalget mener at sakene gjennomgående var preget av for lite grundige undersøkelser. Etter utvalgets syn, ble det i for liten grad innhentet opplysninger fra andre instanser. Videre ble det gjennomført for få alenesamtaler med familiemedlemmer, og for få samarbeidsmøter mellom instanser.
+Dette henger nært sammen med punkt 12.6.4.3
+om manglende avdekking av vold og oppfatning
+av risiko.
+Utvalget så noen eksempler på at barneverntjenesten i undersøkelsen innhentet opplysninger
+fra flere instanser. Barneverntjenesten burde
+imidlertid gjennomgående innhentet opplysninger fra flere instanser. Det var for eksempel problematisk at opplysninger fra fastlege bare ble innhentet i én sak, og at det i 2 saker bare ble innhentet opplysninger fra skole. Som nevnt under punkt
+12.6.3.2, ble opplysningene i én av disse sakene
+innhentet gjennom en telefonsamtale med en rektor som ikke kjente barnet selv. I denne saken
+fremstod dette særlig problematisk fordi barneverntjenesten la stor vekt på skolens oppfatning av
+barnet. Det fremgikk av dokumentene at hvis skolen var enig i barneverntjenestens oppfatning av
+saken, ville saken henlegges. Barneverntjenesten
+gjennomførte verken hjemmebesøk eller samtaler
+med barna i denne saken, og saken ble henlagt
+uten tiltak. En grundigere undersøkelse kunne
+avdekket at både mor og barn ble utsatt for omfattende mishandling.
+I en annen sak ble det ikke innhentet noen
+opplysninger fra andre instanser. Begrunnelsen
+for dette var at foreldrene ikke samtykket til innhentingen. Utvalget vil i denne forbindelse understreke at barneverntjenesten, etter reglene om
+opplysningsplikt ved pålegg i barnevernloven § 64 annet ledd, kan innhente opplysninger uavhengig av foreldrenes samtykke, se punkt 8.3.3.3. Barneverntjenesten gjennomførte heller ikke samtaler med barna i denne saken. Dette til tross for at
+bekymringsmeldingen som utløste undersøkelsen
+var den andre i rekken i løpet av relativt kort tid,
+og at barneverntjenesten var tydelig bekymret for
+det høye konfliktnivået i familien.
+Utvalget så videre flere eksempler på at det
+ikke ble gjennomført samtaler med familiemedlemmer. I noen saker hadde barneverntjenesten
+snakket med hele familien på en eller annen måte,
+for eksempel på hjemmebesøk. Det som manglet i
+noen av disse sakene, var alenesamtaler. I andre
+saker hadde ikke barneverntjenesten snakket
+med alle familiemedlemmene. Utvalget anser
+samtaler med familiemedlemmene, og særlig ale-
+
+nesamtaler, som vesentlig for å få innsikt i familien
+og forståelse av risikoen i saken. Se også boks 7.7
+i punkt 7.5.3.3 om Klemetsrudmodellen. Utvalget
+mener derfor det er svært problematisk at det i
+flere saker manglet slike samtaler. Som nevnt i
+punkt 12.6.3.2, var det for eksempel én sak hvor
+barneverntjenesten ikke snakket med voldsutsatt
+mor i saken, og en annen sak hvor barneverntjenesten ikke snakket med voldsutøvende stefar.
+Det var også eksempler på at barneverntjenesten
+ikke snakket med barnet/a – verken sammen
+med foreldrene eller alene. I saken hvor barneverntjenesten ikke snakket med mor, vurderte
+barneverntjenesten hjemmet som trygt tre måneder før drapet skjedde.
+I én sak hadde både mor og barn tilbakelagt et
+opphold på krisesenter som følge av partnervold.
+I denne saken ble også barna utsatt for direkte
+fysisk vold. Barneverntjenesten oppfattet mor
+som troverdig i sin beskrivelse av hvordan hun
+kunne ivareta og beskytte barna, og mor ønsket
+skilsmisse. Barneverntjenesten vurderte det slik
+at det ikke var behov for hjelpetiltak i saken. De
+snakket imidlertid ikke med barna. Alenesamtaler
+med barna kunne potensielt nyansert bildet av
+situasjonen.
+I en annen sak snakket barneverntjenesten
+med både foreldre og barn på hjemmebesøk.
+Barna hadde fortalt om vold mot dem til en annen
+instans. I løpet av hjemmebesøket ga foreldrene
+en annen versjon av de aktuelle episodene enn de
+barna hadde gitt tidligere. Det ble konstatert at
+barnet ikke sa imot det foreldrene fortalte, uten at
+barneverntjenesten foreslo separate samtaler. Alenesamtaler med barna kunne også i denne saken
+potensielt gitt grunnlag for et mer nyansert bilde
+av situasjonen.
+Utvalget vil understreke at barn og foreldre
+kan oppleve volden forskjellig. De kan også ha
+ulike motiver for å dele og til eventuelt å tilbakeholde informasjon. Det er derfor viktig at barneverntjenesten ser på barnas opplevelse av sin livssituasjon i et voldelig hjem som selvstendig.508
+Generelt vil barn kunne gi en mer riktig beskrivelse av hjemmesituasjonen i alenesamtaler med
+barneverntjenesten.
+Utvalgets klare inntrykk er at barneverntjenestens lite grundige undersøkelser kan ha
+bidratt til manglende avdekking av vold, og manglende oppfatning av hvor farlig situasjonen i
+enkelte saker var, og at dette igjen bidro til manglende oppfølging, se under.
+508
+
+Øverlien (2012) s. 99–145.
+
+[Side 163]
+
+NOU 2020: 17
+Varslede drap?
+
+12.6.4.3 Manglende avdekking av vold i nære
+relasjoner og forståelse av risiko
+Utvalget mener at barneverntjenesten i flere
+saker overså signaler på vold – både hos voldsutsatt forelder og voldsutsatte barn. I én sak ble for
+eksempel barnet kroppslig urolig når han snakket
+om voldsutøvende forelder, og barnet ønsket ikke
+å snakke mer om ham. Grunnlaget for bekymringsmeldingen var partnervold, og barneverntjenesten hadde dermed kunnskap om at det var
+vold i familien. Barneverntjenesten snakket likevel ikke med voldsutøvende forelder, og det syntes ikke som om de stilte spørsmål ved om også
+barnet ble utsatt for vold. Det var opplysninger i
+saken om at gjerningspersonen utsatte både offer
+og barn for vold.
+I en annen sak, hvor grunnlaget for bekymringsmeldingen blant annet var vold mot barn, fortalte mor nokså utfyllende til barneverntjenesten
+om hvordan partneren kontrollerte økonomien
+ned i minste detalj. Hun brukte også betegnelser
+på partneren sin som tilsa at han ellers også var
+svært kontrollerende. Hun ønsket seg ut av forholdet, og det syntes som om barneverntjenesten
+først og fremst oppfattet dette som at hun var ferdig med ekteskapet. Hun ble av barneverntjenesten omtalt som en sterk person som visste hva
+hun ville. I tillegg merket barneverntjenesten seg
+at far fremstod som fraværende, og at han ikke
+kom barna i møte. Til tross for flere tydelige signaler, stilte ikke barneverntjenesten spørsmål om
+offeret ble utsatt for vold. Barna hadde fortalt på
+skolen at de ble utsatt for vold fra foreldrene. Det
+syntes likevel som om barneverntjenesten festet
+størst lit til foreldrenes forklaring på disse episodene.
+Utvalget mener videre at barneverntjenesten i
+flere saker ikke oppfattet alvoret i situasjonen. I én
+sak hadde for eksempel både mor og barn blitt
+mishandlet i mange år. Grunnlaget for bekymringsmeldingen var partnervold. Far benektet i
+utgangspunktet vold, men erkjente både sinneproblemer og risting av barn. Barna fortalte om vold
+og sa til barneverntjenesten at far kanskje kunne
+komme til å drepe mor. Også mor fortalte om
+svært kontrollerende atferd fra far. Barneverntjenesten stilte spørsmål til barn i familien om hvordan foreldrenes kulturbakgrunn påvirket parforholdet, og dette kunne tyde på at barneverntjenesten i alle fall delvis så volden i lys av kulturell
+bakgrunn.
+I noen saker syntes det som om barneverntjenestens fokus nærmest utelukkende var rettet
+mot barnas atferdsutfordringer og foreldrenes
+
+161
+
+Kapittel 12
+
+utfordringer med oppdragelse – ikke potensielt
+underliggende problemer som vold i nære relasjoner. Disse sakene ga inntrykk av at mistanke om
+partnervold ble oversett eller nedprioritert, eller
+av andre grunner ikke ble tatt tak i. Oppmerksomheten ble i stedet rettet mot de mer konkrete
+utfordringene knyttet til barnet. I én sak, hvor
+grunnlaget for bekymringsmeldingen var kunnskap om vold mot barn, hadde barneverntjenesten også registrert et høyt konfliktnivå mellom
+foreldrene og drapstrusler. Barneverntjenesten
+stilte likevel ikke spørsmål om partnervold, og tilbød ikke alenesamtaler med foreldrene. Det fremgikk at barneverntjenesten planla å følge opp
+eventuell familievold etter sommeren, men drapet
+skjedde i mellomtiden.
+
+12.6.4.4 Vedtak og tiltak
+Når det ikke er grunnlag for tvangstiltak, er barneverntjenesten avhengig av foreldrenes tillit og
+samarbeidsvilje for å kunne gjennomføre hjelpetiltak, se også punkt 7.5.2. Siden 1. april 2016 kan
+foreldrene også pålegges enkelte hjelpetiltak, jf.
+barnevernloven § 4-4 tredje og fjerde ledd.
+Bestemmelsen om pålegg om hjelpetiltak var tilsynelatende bare aktuell i én av sakene hvor undersøkelsessaken ble henlagt uten tiltak. I denne
+saken var barneverntjenesten bekymret for familien, men saken måtte henlegges så lenge foreldrene ikke ønsket tiltak. Barneverntjenesten mottok bekymringsmeldingen etter 1. april 2016, og
+barneverntjenesten kunne derfor fremmet begjæring om pålegg om hjelpetiltak etter barnevernloven § 4-4 tredje og fjerde ledd. Det var ingen opplysninger om at dette ble vurdert.
+Det syntes som om manglende ønske om samarbeid og veiledning fra foreldrenes side var en
+viktig årsak til at flere saker ble henlagt. I flere
+saker fremgikk det av vedtaket om henleggelse,
+eller av andre dokumenter, at saken måtte henlegges da tiden for undersøkelsessaken utløp, «så
+lenge familien ikke ønsket mer kontakt eller oppfølging». I 2 saker syntes det også å ha spilt en
+betydelig rolle at offeret ønsket skilsmisse, og at
+det var avtalt at gjerningspersonen skulle flytte ut.
+I begge sakene flyttet gjerningspersonen inn
+igjen.
+Det fremstod endelig som en utfordring at barneverntjenesten i en del tilfeller fulgte sakene i et
+kort tidsrom. I én sak, hvor undersøkelsessaken
+ble henlagt med bekymring, fremgikk det av vedtaket at barneverntjenesten anmodet andre
+instanser om å følge opp familien og eventuelt
+sende ny bekymringsmelding. Henleggelsen fra
+
+[Side 164]
+
+162
+
+Kapittel 12
+
+NOU 2020: 17
+Varslede drap?
+
+barneverntjenestens side gjorde likevel at familien ble «sluppet» av hjelpeapparatet. Drapet
+skjedde få måneder senere. Det kan stilles spørsmål ved om barneverntjenesten i slike tilfeller
+burde hatt mulighet til å følge familien videre, til
+tross for at saken i utgangspunktet henlegges
+uten tiltak.
+
+12.6.4.5 Manglende informasjonsutveksling
+Det ble gjennomført samarbeidsmøter i løpet av
+undersøkelsessaken i 2 saker, se punkt 12.6.3.2.
+Dokumentene ga ingen opplysninger om dette ble
+vurdert i andre saker. Se også punkt 12.3.4.2 om
+kontakten mellom politiet og barneverntjenesten.
+Utvalget vil understreke viktigheten av samhandling om slike saker som dette. Opplysninger
+om en sak kan forstås på ulike måter, og ulike
+instanser kan ha forskjellig innblikk i familien –
+krisesenter kjenner noen forhold, mens lærere
+kjenner andre forhold. Når flere instanser møtes
+for å avklare innholdet i en bekymringsmelding,
+kan dette bidra til at flere sider av saken opplyses,
+og at risikoen i større grad blir oppfattet. På denne
+måten kan barneverntjenesten få et bedre og mer
+nyansert grunnlag for å undersøke saken videre,
+og for å fatte et vedtak.
+12.6.4.6 Dokumentasjon og profesjonalitet
+Etter utvalgets syn, var det en utfordring at dokumentasjonen fra barneverntjenesten var «tynn»
+eller mangelfull. Det syntes blant annet å mangle
+referater fra møter og nedtegninger av telefonsamtaler. Barneverntjenesten dokumenterte også i
+svært liten grad de barnefaglige vurderingene og
+andre vurderinger i sakene. Det fremgikk for
+eksempel lite om hvordan barneverntjenesten vurderte risikoen i sakene. Det var også få opplysninger som bidro til å forklare hvorfor barneverntjenesten håndterte saken slik de gjorde, for eksempel i tilfeller hvor det ikke ble gjennomført hjemmebesøk, samtaler med barna eller andre familiemedlemmer, eller hvor det ikke ble innhentet
+informasjon fra andre instanser. Begrunnelsene
+for vedtakene i sakene var også ofte svært korte.
+Utvalget registrerte i tillegg enkelte eksempler på at barneverntjenesten opptrådte svært
+uprofesjonelt. I én sak stilte barneverntjenesten
+for eksempel spørsmål til familiens mindreårige
+barn om familien hadde behov for barnevernets
+tjenester. Da barnet svarte avkreftende på dette,
+ble barnet informert om muligheten til å søke
+hjelp hos familievernet. Saken ble deretter henlagt.
+
+12.6.4.7 Manglende tillit til barneverntjenesten
+Utvalget så flere eksempler på at foreldrene
+hadde liten tillit til barneverntjenesten. Dette kom
+i flere saker frem som at foreldrene fryktet innblanding fra barnevernet, og at kontakt med barneverntjenesten ble oppfattet som nærmest ensbetydende med å miste barna. De fleste virkemidlene barneverntjenesten har er basert på frivillighet, se punkt 7.5. I tilfellene hvor foreldrene ikke
+ønsket videre kontakt og samarbeid med barneverntjenesten, hadde barneverntjenesten i realiteten lite handlingsrom. Foreldrenes manglende
+ønske om kontakt med barneverntjenesten ledet
+også i flere saker til at barneverntjenesten henla
+saken, se punkt 12.6.3.3.
+Frykt for, og manglende tillit til, barneverntjenesten fremstod som et hinder for samarbeid, og
+dermed også som et hinder for å iverksette forebyggende tiltak. I flere saker fremgikk det at frykten for å miste barna også bidro til at familien heller ikke kontaktet andre deler av hjelpeapparatet
+ved behov. Dette viser at manglende tillit til barneverntjenesten representerer en utfordring for hele
+hjelpeapparatet i arbeidet med å forebygge vold i
+nære relasjoner og partnerdrap. Dette syntes særlig å være en utfordring i møtet med minoritetsfamilier, men også i andre saker. Se mer om kommunikasjon med, og tillit til, hjelpeapparatet i
+punkt 14.3.
+12.6.4.8 Særlig om manglende bekymringsmelding til barneverntjenesten
+Utvalget så flere eksempler på brudd på opplysningsplikten til barneverntjenesten. Dette gjaldt
+både i saker hvor barneverntjenesten allerede var
+involvert, og i saker hvor barneverntjenesten ikke
+var involvert i saken.
+Det var 6 saker med mindreårige hjemmeboende barn på drapstidspunktet hvor det ikke var
+kontakt med barneverntjenesten, se punkt 12.6.2.
+I disse sakene var det tilsynelatende ingen som
+meldte fra til barneverntjenesten om bekymring
+for barna eller familiene, og familiene tok heller
+ikke kontakt med barneverntjenesten selv.
+Blant de sakene hvor barneverntjenesten var
+involvert, var det eksempler i minst 6 saker på at
+offentlige instanser ikke sendte bekymringsmelding til barneverntjenesten til tross for bekymring. I én sak mistenkte både barnehagen, sykehuset og fastlegen familievold. Barnehagen fikk
+benektende svar på direkte spørsmål om vold,
+men de hadde fortsatt sterk mistanke. Det var
+likevel ingen instanser som meldte fra om bekym-
+
+[Side 165]
+
+NOU 2020: 17
+Varslede drap?
+
+ring. I en annen sak var det opplysninger om at
+skolen registrerte en rekke forhold som ga
+grunnlag for bekymring, blant annet et blåmerke i
+ansiktet som barnet ikke kunne redegjøre for. I en
+tredje sak var skolen kjent med partnervold, i tillegg til at de var kjent med at barnet vegret seg
+mot å være hjemme alene med voldsutøver. Skolen meldte ikke fra om bekymring i noen av disse
+sakene. I en fjerde sak hadde politiet iverksatt
+flere beskyttelsestiltak som følge av at offeret
+hadde anmeldt gjerningspersonen for vold. Politiet sendte likevel ikke bekymringsmelding til barneverntjenesten.
+Manglende bekymringsmelding til barneverntjenesten fører til at barneverntjenesten ikke har
+noen foranledning til å foreta undersøkelser i
+familiene. Brudd på opplysningsplikten er, etter
+utvalgets syn, like alvorlig i saker hvor barneverntjenesten allerede er involvert som i saker hvor
+barneverntjenesten ikke er involvert. Bekymringsmeldinger fra flere instanser kan bidra til at
+barneverntjenesten får et mer fullstendig og riktig
+bildet av saken. Skolen kan ha observert noen forhold, mens fastlegen kan ha observert andre forhold. Til sammen vil flere bekymringsmeldinger
+sette barneverntjenesten bedre i stand til å foreta
+grundige vurderinger av et barns situasjon i familien. Utvalget vil derfor understreke viktigheten
+av å etterleve opplysningsplikten til barneverntjenesten, også i tilfeller hvor barneverntjenesten
+allerede er involvert.
+Flere saker etterlot et inntrykk av at de offentlig ansatte unnlot å melde fra om bekymringen
+som følge av en opplevelse av ikke å ha nok kunnskap om situasjonen, eller som følge av en frykt
+for å ta feil. I 2 av sakene var offer/mor ansatt ved
+barnets skole/barnehage. Det kan være nærliggende å tro at ansettelsesforholdet bidro til en
+nærhet til barnas mor som gjorde det vanskelig
+og ubehagelig for skolen/barnehagen å sende
+bekymringsmelding.509
+
+12.7 Familievern
+12.7.1 Om kontakten
+Det var opplysninger om kontakt med familievernet i 8 av de 19 gjennomgåtte partnerdrapssakene.510 I de fleste av disse sakene var det enten
+509
+
+Utvalgets inntrykk i disse sakene samsvarer langt på vei
+med det Bendiksen og Haugli skriver om dette, se punkt
+8.3.3.
+510
+Det var i tillegg kontakt med et familiesenter i én sak, se
+punkt 12.4.2.4.
+
+163
+
+Kapittel 12
+
+en advokat eller en offentlig instans som henviste
+gjerningsperson eller offer til familievernet. I
+enkelte saker var det privatpersoner som oppfordret offeret til å ta kontakt med familievernet.
+I 6 av de 8 sakene syntes anledningen for kontakten å ha vært mekling i forbindelse med separasjon/skilsmisse. I én sak gjaldt kontakten utfordringer med grensesetting for barn. I den siste
+saken gjaldt kontakten et ønske om parterapi. I
+alle de 8 sakene fant kontakten med familievernet
+sted relativt kort tid før drapet – fra noen måneder
+til noen få uker.
+I 6 av de 8 sakene inneholdt straffesaksdokumentene svært få opplysninger om kontakten
+med familievernet. I disse sakene ble det bare
+bestilt time for, eller gjennomført, mekling. Det
+var ellers ingen opplysninger om kontakten. Som
+følge av manglende opplysninger, har det bare
+vært mulig vurdere familievernets håndtering i 2
+av de 8 sakene.
+
+12.7.2 Om tilbudet
+Det var dokumentasjon om kontakten med familievernet i 2 av de 8 sakene hvor det var kontakt
+før drapet. I den ene saken hadde politiet innhentet dokumenter fra familievernkontoret. I den
+andre saken bestod dokumentasjonen av avhør
+med familievernterapeuten og en flyktningkonsulent som deltok på møtene mellom paret og familievernet.
+I den ene saken ble det gjennomført én konsultasjon med parterapi mellom offer og gjerningsperson. Paret fortalte om mye krangling, og
+straffesaksdokumentene viste at det i konsultasjonen kom frem konkrete opplysninger om både
+psykisk og fysisk vold. Parterapeuten oppfordret
+paret til å la volden opphøre slik at de kunne fortsette å arbeide videre med parforholdet. Paret ble
+ikke tilbudt separate samtaler. Da paret uteble fra
+de neste konsultasjonene, ble saken avsluttet.
+I den andre saken ble det gjennomført én
+separat mekling og et par individuelle samtaler
+med offer og gjerningsperson. Paret kontaktet
+familievernkontoret som følge av konflikter i familien. Gjerningspersonen uttrykte ønske om skilsmisse, og familievernkontoret informerte paret
+om hvordan det er å bli skilt i Norge. Familievernet anbefalte paret å vente med å sende inn separasjonspapirer til offeret hadde fått permanent
+oppholdstillatelse i Norge. Gjerningspersonen
+ønsket ikke lenger å bo sammen med offeret og
+ville helst gjennomføre skilsmisse raskt. Familievernkontoret fikk likevel overtalt gjerningspersonen til å vente. Drapet skjedde i mellomtiden. Det
+
+[Side 166]
+
+164
+
+Kapittel 12
+
+NOU 2020: 17
+Varslede drap?
+
+syntes som om grunnlaget for familievernkontorets anbefaling var utlendingslovens § 62.511 Offeret hadde fått opphold i Norge i familiegjenforening med ektefelle/gjerningsperson. Etter
+utlendingsloven § 62 kan en utlending med midlertidig oppholdstillatelse få permanent oppholdstillatelse etter tre år. Ett av vilkårene for permanent oppholdstillatelse etter denne bestemmelsen, er at utlendingen etter tre år fortsatt oppfyller
+vilkårene for den midlertidige oppholdstillatelsen,
+jf. § 62 første ledd bokstav b. For å kunne søke om
+permanent oppholdstillatelse, måtte offeret i
+utgangspunktet dermed fortsatt være gift med
+gjerningspersonen. Etter utlendingsloven § 53 første ledd bokstav b, skal utlendingen gis oppholdstillatelse på selvstendig grunnlag når «samlivet er opphørt, og det er grunn til å anta at utlendingen eller eventuelle barn har blitt mishandlet i
+samlivsforholdet». Oppholdstillatelse på selvstendig grunnlag kan, etter denne bestemmelsen,
+altså gis før det har gått tre år. Det var ingen opplysninger som tilsa at familievernet kjente til
+denne unntaksbestemmelsen da rådet om å vente
+med skilsmissen ble gitt. Familievernet henviste
+heller ikke til advokat.
+
+12.7.3 Informasjonsutveksling
+Det var ingen opplysninger om at familievernet
+kontaktet politiet i de 2 sakene.
+I den ene saken var det kontakt mellom familievernet, flyktningetjenesten og barneverntjenesten. Det syntes som om de to førstnevnte
+instansene hadde relativt tett kontakt om familien.
+Flyktningkonsulenten var også til stede under
+konsultasjoner med familievernet, og det syntes
+som om familievernet rådførte seg med flyktningkonsulenten, som allerede kjente familien godt. I
+tillegg var barneverntjenenesten involvert i saken,
+og det var også noe kontakt mellom barneverntjenesten og familievernkontoret.
+Utvalget så noen eksempler på at andre instanser henviste til familievernkontoret. I noen tilfeller
+var dette relevante henvisninger. I andre tilfeller
+var henvisningen mindre relevant. I én sak henviste for eksempel politiet et par til familievernkontoret i forbindelse med et hjemmebesøk. Både
+gjerningspersonen og offeret hadde alkoholproblemer, og begge parter utøvde vold mot hverandre. Gjerningspersonen tilkalte politiet for å få
+hjelp til det vedkommende opplevde som en vedvarende vanskelig situasjon. Det fremgikk av politirapporten, som ble skrevet noen måneder
+511
+
+Se også utlendingsloven § 40.
+
+senere, at politiet anbefalte paret å kontakte familievernkontoret hvis de hadde kommunikasjonsproblemer. Det var ingen opplysninger som tilsa
+at politiet visste at paret utøvde vold, eller at det
+var tegn til at det var blitt utøvd vold da politiet var
+til stede. Omstendighetene ved hjemmebesøket
+var likevel slik at henvisningen fremsto lite treffende. Slik utvalget oppfattet saken, ankom politiet
+en situasjon hvor det var grunn til å stille flere
+spørsmål – også direkte spørsmål om vold.
+
+12.7.4 Utfordringer
+Utvalget understreker at 2 saker er et snevert
+materiale for å vurdere familievernets håndtering
+av sakene. Det var i tillegg relativt lite kontakt i
+disse 2 sakene. Utvalget vil likevel trekke frem to
+utfordringer.
+For det første syntes det som om familievernet
+ikke i tilstrekkelig grad oppfattet risikoen i
+sakene, og at dette ledet til mangelfull håndtering.
+I den saken hvor paret gjennomførte en konsultasjon med parterapi, kom det under samtalen frem
+at både gjerningsperson og offer brukte fysisk
+vold mot hverandre i konfliktsituasjoner. Det var
+svært problematisk at familievernterapeuten tilsynelatende ikke stilte oppfølgingsspørsmål til dette,
+eller for øvrig forsøkte å kartlegge situasjonen.
+Terapeuten burde tilbudt enesamtaler til begge
+partene. Separate samtaler kunne bidratt til at
+både offer og gjerningsperson fikk snakke mer
+fritt. Dette kunne igjen bidratt til at familievernterapeuten fikk et tydeligere bilde av risikoen. Familievernet burde også kontaktet politiet da det kom
+frem konkrete opplysninger om vold. Det kunne
+imidlertid neppe konstateres brudd på avvergeplikten etter straffeloven § 196. Barneverntjenesten var også involvert i denne saken, og familievernet kunne med fordel informert dem om at
+saken ble avsluttet, og at det ikke ble et terapeutisk løp i saken.
+Saken etterlot et inntrykk av at familievernet
+oppfattet kvinnen som «hard», mens mannen ble
+oppfattet som fortvilet. Det var etter utvalgets syn,
+grunn til å stille spørsmål ved om familievernet
+undervurderte risikoen i saken fordi begge parter
+fortalte at de utøvde vold, og fordi kvinnen fremstod som den overlegne i parforholdet. Familievernet fokuserte tilsynelatende først og fremst på
+kommunikasjonsutfordringene i forholdet, og
+nedprioriterte volden.
+I den andre saken var det særlig to hovedutfordringer som syntes å bidra til at familievernet
+undervurderte risikoen for vold. For det første
+stilte familievernet tilsynelatende ingen spørsmål
+
+[Side 167]
+
+NOU 2020: 17
+Varslede drap?
+
+om vold til tross for at paret hadde et konfliktfylt
+forhold, og til tross for at de familievernansatte
+oppfattet gjerningspersonen som både aggressiv,
+kald og uten empati og omsorg. Det fremgikk at
+familievernterapeuten var urolig for paret. Terapeuten uttrykte blant annet tvil ved om det som
+kom frem under samtalene kunne tilskrives kultur, eller om det måtte tilskrives gjerningspersonens personlighet og at det dermed representerte
+en risiko for vold. Terapeuten oppfattet også offeret som beskjeden, og som en annen person i fellessamtalene enn i de individuelle samtalene.
+Direkte spørsmål om vold i alenesamtale med
+offeret kunne bidratt til å kartlegge risikobildet,
+og eventuelt ledet til varsling til politiet, anmeldelse og iverksettelse av beskyttelsestiltak.
+For det andre manglet tilsynelatende familievernet kunnskap om unntaksbestemmelsen i
+utlendingsloven § 53 første ledd bokstav b. Ettersom offeret ble utsatt for partnervold, er det nærliggende å anta at offeret kunne fått opphold på
+selvstendig grunnlag, se også punkt 12.8.2. Familievernet overtalte likevel gjerningspersonen til å
+vente med å sende inn separasjonspapirer til offeret hadde oppholdt seg tre år i Norge, og dermed
+kunne få permanent opphold på selvstendig
+grunnlag. Det kan ikke forventes at familievernet
+har inngående kunnskap om utlendingsretten.
+Det kan heller ikke forventes at familievernet skal
+vurdere om det i aktuelle saker er grunnlag for
+opphold på selvstendig grunnlag etter denne unntaksbestemmelsen. Familievernet bør imidlertid
+ha kjennskap til denne regelen slik at familievernet for eksempel kan henvise til advokat. Konfliktfylte samlivsbrudd er i kjernen av familievernets
+oppgaver, og unntaksregelen i utlendingsloven er
+en svært viktig regel i bruddsituasjoner hvor den
+ene parten har midlertidig oppholdstillatelse i
+Norge. De to hovedutfordringene henger sammen;
+hvis familievernet hadde stilt spørsmål om partnervold, eller fått kunnskap om volden på annen
+måte, kan det tenkes at unntaksregelen for selvstendig opphold på grunn av vold ville blitt vurdert.
+
+12.8 NAV og sosialtjenesten
+12.8.1 Relevans og dokumentasjon
+Mange har på en eller annen måte kontakt med
+NAV i løpet av livet, for eksempel i forbindelse
+med familieytelser, sykepenger eller dagpenger.
+Prosessen knyttet til mange ytelser etter for
+eksempel folketrygdloven er i stor grad rutinemessig og digitalisert. Når en for eksempel søker
+
+165
+
+Kapittel 12
+
+om barnetrygd, kommer en i utgangspunktet ikke
+i kontakt med en saksbehandler. Kontakten gir da
+normalt ikke grunnlag for å avdekke vold eller
+fange opp andre faktorer som kan bidra til forhøyet risiko for partnervold eller partnerdrap.
+Andre ytelser og tjenester som NAV forvalter,
+for eksempel arbeidsrettede tiltak, uføretrygd og
+økonomisk stønad (sosialhjelp), vil på sin side
+bero på konkrete og individuelle vurderinger.
+Kontakten om slike tjenester og ytelser vil ofte
+bety kontakt med en fast saksbehandler over tid.
+Vedvarende kontakt om ulike livsutfordringer vil
+kunne sette saksbehandlere i posisjon til å
+avdekke vold og andre bekymringsverdige forhold.
+Politiet innhentet ikke dokumentasjon fra NAV
+eller den kommunale sosialtjenesten i noen av de
+gjennomgåtte sakene. Det var heller ingen opplysninger om kontakten med NAV og den kommunale sosialtjenesten i andre dokumenter, og saksgjennomgangen ga derfor ikke grunnlag for å vurdere hvordan sakene ble håndtert.
+I lys av opplysninger i straffesaksdokumentene om ofrene og gjerningspersonene sine livssituasjoner, er det for øvrig nærliggende å tro at det
+var mer kontakt med NAV og den kommunale
+sosialtjenesten enn det straffesaksdokumentene
+tilsa.
+
+12.8.2 Om kontakten
+Det var opplysninger i 18 av de 19 gjennomgåtte
+sakene som tilsa at offer og/eller gjerningsperson
+var i en eller annen form for kontakt med NAV før
+drapet. I den siste saken var offeret i arbeid, og
+gjerningspersonen oppholdt seg i Norge uten lovlig opphold. Ingen av partene hadde barn i Norge.
+I 4 saker var det opplysninger om at offer og/
+eller gjerningsperson var uføretrygdet. I 3 av
+disse sakene tydet opplysningene på at både offer
+og gjerningsperson hadde vært uføretrygdet over
+lenger tid. Det er nærliggende å tro at det i disse
+sakene var en del kontakt med NAV og oppfølging
+av en saksbehandler over tid.
+I 3 saker var det opplysninger om at familien i
+perioder mottok sosialhjelp. I ytterligere én sak
+var det opplysninger som tydet på at offeret søkte
+om slik stønad kort tid før drapet. Også i disse
+sakene må det ha vært en del oppfølging av en
+saksbehandler i den kommunale sosialtjenesten.
+I 4 saker var det opplysninger som tilsa at familien mottok en form for bostøtte. Det var i de fleste
+sakene uklart hvilken offentlig bostøtteordning
+det var.
+
+[Side 168]
+
+166
+
+Kapittel 12
+
+NOU 2020: 17
+Varslede drap?
+
+I 4 saker var det opplysninger som tilsa at offer
+og/eller gjerningsperson mottok dagpenger fra
+NAV, og i én sak var det opplysninger om at offer
+og gjerningsperson mottok arbeidsavklaringspenger på drapstidspunktet. I én sak var det opplysninger om at gjerningspersonen deltok på et jobbsøkerkurs i regi av NAV, i en annen sak var det
+opplysninger om at gjerningspersonen i perioder
+arbeidet på en vernet bedrift, og i atter en annen
+sak var det opplysninger om at paret i en periode
+hadde en praksisplass gjennom NAV.
+I 15 saker hadde paret hjemmeboende mindreårige barn på drapstidspunktet. I ytterligere 3
+saker hadde paret tidligere hatt mindreårige
+hjemmeboende barn. Det legges til grunn at disse
+familiene rutinemessig på drapstidspunktet, eller
+tidligere, mottok familieytelser fra NAV.
+Straffesaksdokumentene ga i utgangspunktet
+ingen opplysninger om informasjonsutveksling
+mellom NAV og andre offentlige instanser. I minst
+2 saker var det likevel dokumentert at en offentlig
+instans henviste offeret til NAV.
+
+12.9 Asylmottak, flyktningetjenesten
+og voksenopplæring
+12.9.1 Innledning
+Ofrene og/eller gjerningspersonene hadde bakgrunn som flyktninger i 9 saker, se punkt 10.3. I 3
+saker kom offer og gjerningsperson sammen som
+asylsøkere til Norge. I én sak kom både offer og
+gjerningsperson til Norge som asylsøkere, men
+ikke som en familie. I 4 saker kom gjerningspersonen som asylsøker til Norge, mens offeret kom
+i familiegjenforening noen år senere. I én sak
+hadde bare gjerningspersonen bakgrunn som
+asylsøker.
+I disse sakene var det en del opplysninger om
+kontakt med asylmottak, flyktningetjenesten og
+voksenopplæring (introduksjonsprogram). Offentlige ansatte i disse tjenestene har ofte tett og langvarig kontakt med flyktningene. De ansatte vil
+dermed kunne komme i posisjon til å avdekke
+vold i nære relasjoner og andre faktorer som kan
+bidra til forhøyet risiko for partnerdrap.
+Politiet innhentet ikke dokumentasjon fra asylmottak, flyktningetjenesten eller voksenopplæringen i noen av sakene. Grunnlaget for fremstillingen er derfor andre dokumenter, for eksempel
+dommer og avhør av gjerningsperson, privatpersoner og ansatte i instansene.
+
+12.9.2 Asylmottak
+De aller fleste flyktninger bor på asylmottak mens
+de venter på at Utlendingsdirektoratet (UDI) skal
+behandle søknaden deres, og deretter på at Inkluderings- og mangfoldsdirektoratet (IMDi) skal
+finne en kommune de skal bo i. Det var trolig kontakt med asylmottak i alle de 9 sakene hvor gjerningspersonen og/eller offeret kom til Norge som
+flyktninger. Det var først og fremst kontakten i
+sakene hvor offer og gjerningsperson bodde på
+asylmottak som et par/familie som var relevant
+for forebygging. Dette var tilfellet i 3 saker, og
+fremstillingen avgrenses til disse 3 sakene, se
+punkt 12.9.1. I 2 av de 3 sakene inneholdt straffesaksdokumentene en del opplysninger om kontakten med asylmottaket.512
+I den første saken var det opplysninger om at
+gjerningspersonen utsatte offeret for både fysisk
+og psykisk vold da de bodde på asylmottak. Gjerningspersonen kontrollerte offeret både økonomisk og sosialt. Det var også opplysninger om at
+offeret utøvde vold mot gjerningspersonen, og at
+begge foreldrene utsatte barna for vold. Det syntes som om de ansatte på mottaket verken var
+kjent med, eller mistenkte, vold i familien.
+En tid før drapet ga offeret, overfor en veiledningstjeneste utenfor asylmottaket, uttrykk for at
+hun var bekymret for gjerningspersonen som
+følge av endret atferd, og mye irritabilitet og frustrasjon. Dette ble videreformidlet til asylmottaket,
+og en ansatt på mottaket gjennomførte da en alenesamtale med gjerningspersonen. Gjerningspersonen ga ikke uttrykk for at noe var galt, og det
+ble tilsynelatende ikke tatt opp spørsmål om partnervold i samtalen. Gjerningspersonen hadde
+flere år tidligere blitt anmeldt for partnervold mot
+sin tidligere samboer, men dette hadde ikke asylmottaket kunnskap om.
+I den andre saken utøvde gjerningspersonen
+vold mot både offer og barn da familien bodde på
+asylmottak. Dette var kjent for flere privatpersoner.
+I forbindelse med en voldshendelse, skal barnet ha
+fortalt ansatte på asylmottaket at det var gjerningspersonen som utøvde volden. Opplysninger i saken
+tydet på at asylmottaket sendte bekymringsmelding til barneverntjenesten. Det var uklart hvordan
+saken ble fulgt opp, og det var ingen dokumentasjon fra barneverntjenesten om denne bekymringsmeldingen. Asylmottakets ansatte stilte tilsy512 Straffesaksdokumentene inneholdt en del opplysninger om
+
+kontakten med asylmottaket i én sak til, men opplysningene i denne saken var først og fremst fra tiden etter at
+familien bodde der, da paret hadde praksisplass på mottaket. Denne saken omtales ikke her.

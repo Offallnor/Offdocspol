@@ -1,0 +1,882 @@
+# Prop. 146 L (2020–2021), del 3 av 18 (side 31–40)
+
+- Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2021/453140c0-prop-146-l-20202021.md
+- Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-146-l-20202021/id2842936/
+- Original-PDF: https://www.regjeringen.no/contentassets/31813156b60a47eeb3c2aff703c50db4/no/pdfs/prp202020210146000dddpdfs.pdf
+- Tekst: hentet fra PDF. OBS: 1 tabell, 21 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+
+---
+
+[Side 31]
+
+2020–2021
+
+Prop. 146 L
+Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
+
+anken er henvist til ankeforhandling. Fra samme
+tidspunkt slettes dokumentene i straffesaker som
+er digitale. Ønsker forberedende dommer å
+beholde dokumentene, bør det sikres notoritet
+om dette, se Keiserud m.fl., Straffeprosessloven,
+2020 side 1101.
+Rettens tilgang til dokumenter som ikke har
+vært fremlagt eller dokumentert, har vært tema i
+enkelte nyere avgjørelser fra Høyesterett. I HR2016-612-U var spørsmålet om opplysninger i et
+dokumentutdrag som ikke har vært ført som
+bevis, må fjernes fra utdraget etter at forhandlingen er avsluttet. Høyesteretts ankeutvalg uttalte at
+det ikke er i strid med loven eller med det overordnede prinsipp om rettferdig rettergang, herunder retten til kontradiksjon, om dommerne har
+tilgang til dokumenter som ikke har vært ført som
+bevis i retten, se avsnitt 12. Rettergangen må
+bedømmes samlet, og det må vurderes konkret ut
+fra domsgrunnene og eventuelt andre opplysninger om dommerne i strid med regelen i straffeprosessloven § 305 kan ha lagt vekt på bevis som ikke
+er ført i retten, og om det i tilfelle kan ha virket inn
+på avgjørelsens innhold.
+I HR-2020-2157 ble det ikke ansett som en
+saksbehandlingsfeil at lagmannsretten under
+domskonferansene og domsskrivingen hadde hatt
+tilgang til hele det faktiske utdraget, som var på
+7000 sider og inneholdt materiale som ikke var
+dokumentert. I avsnitt 77 fremhever ankeutvalget
+at rettens adgang til slike dokumenter ikke er
+direkte regulert i straffeprosessloven, men at
+§ 305 innebærer «at det ikke er en ubegrenset
+adgang til å anvende et dokumentutdrag uavhengig av hvor mange og hvilke udokumenterte
+dokumenter utdraget inneholder», se avsnitt 77.
+Ankeutvalget viser i denne forbindelse til at § 305
+bygger på tiltaltes rett til å forsvare seg mot tiltalen, hvor det kontradiktoriske prinsipp er sentralt.
+Etter å ha gjennomgått tidligere avgjørelser hvor
+spørsmålet har vært behandlet, foretar ankeutvalget i avsnitt 87–88 følgende oppsummering:
+«Disse avgjørelsene viser at det ikke kan oppstilles et generelt forbud mot at retten under
+arbeidet med dommen disponerer et faktisk
+utdrag selv om det inneholder udokumenterte
+bevis. Ved den konkrete vurderingen står hensynet til det kontradiktoriske prinsipp sentralt.
+Det er dermed særlig dersom utdraget inneholder vitneforklaringer – ikke minst dersom
+vitnet/vitnene ikke har forklart seg for retten –
+at det lett vil kunne være i strid med det kontradiktoriske prinsipp om retten disponerer utdraget. Men også andre udokumenterte bevis kan
+
+29
+
+etter omstendighetene tilsi at hensynet til det
+kontradiktoriske prinsipp medfører at utdraget
+ikke kan overleveres retten.
+Hensynet til det kontradiktoriske prinsipp
+må avveies mot at rettssikkerhetsmessige hensyn, særlig i mer omfattende straffesaker, kan
+tilsi at det er behov for at retten disponerer
+utdraget. Erfaringsmessig er det slik at man
+ved forberedelsen av en sak tar flere dokumenter inn i utdraget enn det blir aktuelt å dokumentere under rettsforhandlingen. Dersom
+retten da under arbeidet med dommen ikke
+skulle kunne anvende et slikt utdrag, ville det
+både kunne vanskeliggjøre dommerarbeidet
+betydelig, og dessuten kunne føre til at retten
+legger feil faktum til grunn. Men av hensyn til
+det kontradiktoriske prinsipp er det viktig at
+påtalemyndigheten ved utarbeidelsen av utdraget nøye vurderer hvilke bevis som tas inn i
+utdraget.»
+Ankeutvalget kom ved den konkrete vurderingen
+til at den aktuelle saken hadde betydelige likhetstrekk med saksforholdet i HR-2016-612-U. Det faktiske utdraget i saken var på 7000 sider og inneholdt primært utskrifter fra beslag, dokumentasjon for overføringer, privatforbruksregninger mv.
+Det var ikke påvist et eneste eksempel på at lagmannsretten hadde brutt det kontradiktoriske
+prinsipp ved å begrunne dommen i udokumenterte dokumenter. Det var derfor ikke begått noen
+saksbehandlingsfeil ved at lagmannsretten disponerte dokumentutdraget under domskonferansen og domsskrivingen, jf. avsnitt 90.
+Det er omdiskutert hvorvidt politiforklaringer
+som leses opp under forhandlingene, kan fremlegges for retten i forbindelse med opplesningen.
+Loven inneholder ingen uttrykkelig regulering av
+dette spørsmålet. Det har i juridisk teori vært hevdet at dommeren er henvist til å bygge på egne
+notater fra opplesningen, og at retten ellers vil
+kunne legge uforholdsmessig stor vekt på den
+skriftlige forklaringen, se Keiserud m.fl., Straffeprosessloven, 2020 side 1224 og NOU 2016: 24
+punkt 17.4.1 side 388. Det motsatte standpunktet
+inntas av Kjelby, som mener spørsmålet er løst i
+Rt. 1981 side 377 (på side 378), se Gert Johan
+Kjelby, «Bevisrettens grunnprinsipper og hovedregler i straffesaker», kapittel 3 i boken: «Bevis i
+straffesaker. Utvalgte emner», Ragna Aarli, MaryAnn Hedlund og Sverre Erik Jebens (red.), Gyldendal 2015 side 143 til 144. Kjelby mener den
+aktuelle fremgangsmåten også benyttes for bevisopptak og dommeravhør i alle saker, og at det
+neppe er grunn til å ha en mer begrenset adgang
+
+[Side 32]
+
+30
+
+Prop. 146 L
+Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
+
+til politiforklaringer som etter loven kan leses opp.
+Tor Langbach: Straffesaksbehandling i tingrettene (2. utgave, Oslo 2016) side 328 inntar samme
+standpunkt.
+Et beslektet spørsmål er hvilken tilgang retten
+har til dialogutskrifter og lignende, typisk dialogutskrifter av tilrettelagte avhør, se straffeprosessloven §§ 239 og 298 samt forskrift nr. 1098/
+2015 § 14. Selv om ikke utskriftene anses som
+dokumentbevis i medhold av § 302, er det blitt
+ansett som akseptabelt at dialogutskrift av tilrettelagte avhør deles ut til rettens medlemmer for at
+de lettere vil kunne følge med under avspillingen,
+jf. Keiserud m.fl., Straffeprosessloven, 2020 side
+1212. Retten vil imidlertid ikke kunne ha tilgang
+til utskriften under domskonferansen og når dom
+skrives, se HR-2020-1150-U.
+Når en politiforklaring fra et ikke møtende
+vitne begjæres opplest under hovedforhandlingen i medhold av straffeprosessloven § 297, må
+retten ofte ta stilling til om en eventuell domfellelse bare eller i avgjørende grad vil være basert
+på politiforklaringen, se Rt. 2013 side 1412 avsnitt
+21 og 22. Den praktiske fremgangsmåten er i dag
+at retten venter med å ta stilling til opplesningsspørsmålet til den øvrige bevisføringen er ferdig,
+blant annet fordi vurderingen påvirkes av styrken
+på de øvrige bevis i saken. Aktor og forsvarer bes
+også uttale seg om forklaringens betydning. Retten har imidlertid i meddomsrettssakene ikke
+anledning til å gjøre seg kjent med innholdet i forklaringen før den har tatt stilling til opplesningsspørsmålet, se Rt. 1995 side 1453. Selv om tilgang
+vil gi retten et best mulig faktisk grunnlag for
+avgjørelsen om avskjæring, er det ansett som
+åpenbart uheldig at «den rett som skal dømme i
+saken, gjennom avgjørelse om bevisførselens
+omfang får fullstendig kjennskap til bevis som den
+deretter kanskje finner at den må avskjære av hensyn til siktedes rettigheter» (side 1456). Betenkelighetene ved en slik ordning var etter Høyesteretts oppfatning umiddelbart avgjørende i meddomsrettssaker, hvor alle rettens medlemmer deltar i avgjørelsen av prosessuelle spørsmål og i
+avgjørelsen av skyldspørsmålet og straffutmålingen.
+Løsningen i Rt. 1995 side 1453 gjelder bare
+situasjonen der spørsmålet kommer opp under
+hovedforhandlingen. Hvis avskjæringsspørsmålet
+kommer opp under saksforberedelsen, kan forberedende dommer i prinsippet gjøre seg kjent med
+innholdet i forklaringen. Etter straffeprosessloven
+§ 269, jf. § 262, skal begjæring om opplesning
+varsles i bevisoppgaven. Retten har da mulighet til
+å avgjøre spørsmålet under saksforberedelsen og
+
+2020–2021
+
+holde rettsmøte til forhandling om dette, jf. § 272
+første ledd bokstav c. Retten kan imidlertid også
+velge å utsette avgjørelsen til hovedforhandlingen, jf. § 272 tredje ledd, for eksempel der den
+øvrige umiddelbare bevisføring vil ha betydning
+for opplesningsadgangen. Se punkt 7.6.1 nedenfor. Deltar fagdommeren senere i den dømmende
+rett, kan vedkommende ikke legge vekt på andre
+bevis enn de som er ført under hovedforhandlingen, jf. straffeprosessloven § 305, sml. HR-2016612-U.
+
+6.2
+
+Straffeprosessutvalgets forslag
+
+Et samlet utvalg ønsker å videreføre regelen om
+at sakens dokumenter er en del av rettens avgjørelsesgrunnlag utenfor hoved- og ankeforhandling, se NOU 2016: 24 punkt 17.4.2 side 388–391.
+Ved spørsmålet om retten skal ha tilgang til
+sakens dokumenter under forberedelsen til
+hovedforhandling og den videre behandlingen av
+saken, har utvalget delt seg i et flertall og et
+mindretall.
+Flertallet (åtte utvalgsmedlemmer) mener retten prinsipielt bør ha ubegrenset tilgang til sakens
+opplysninger, både til bruk under saksforberedelsen og i den videre behandlingen av saken. Flertallet åpner dermed for at retten helt eller delvis
+vil kunne ha tilgang under hovedforhandlingen,
+under domskonferansen og når dom skrives.
+Utvalget viser til at saken generelt vil bli best opplyst med bredest mulig tilgang til informasjon om
+de temaer som søkes belyst. Retten har også et
+ansvar for å opplyse saken og for å ivareta mistenktes rettigheter. Det kreves derfor en særlig
+begrunnelse hvis den skal ha dårligere informasjonstilgang enn partene. Uten tilgang til sakens
+opplysninger vil retten kunne mangle forutsetninger for å ta stilling til partenes forslag til saksopplegg, herunder vurdere om partenes bevistilbud
+er tilstrekkelig, relevant og forholdsmessig. Dette
+kan gå ut over hensynene til konsentrasjon og
+effektivitet.
+Flertallet mener faren for at retten danner seg
+en uheldig forhåndsoppfatning på grunnlag av
+politiforklaringer eller andre opplysninger, lett
+kan overdrives. Det er snarere grunn til å anta at
+en viss forhåndskunnskap vil styrke rettens forutsetninger for å oppfatte hvilke deler av bevisføringen som står sentralt. Også i dag vil dommeren i
+en straffesak kunne ha hatt befatning med saksdokumentene, for eksempel fordi retten har avgjort
+et spørsmål om tvangsmidler. Flertallets standpunkt innebærer ingen endringer i prinsippet om
+
+[Side 33]
+
+2020–2021
+
+Prop. 146 L
+Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
+
+at retten bare skal kunne bygge avgjørelsen på
+opplysninger som har vært gjenstand for behandling under hoved- og ankeforhandling, jf. straffeprosessloven § 305. Det må kunne forutsettes at
+profesjonelle dommere er i stand til å håndheve et
+slikt skille, og situasjonen er på dette punkt sammenlignbar med sivile saker, jf. tvisteloven § 11-1
+første ledd.
+Når det gjelder argumentet om at tilgang til
+saksdokumentene vil medføre en ubalanse mellom fagdommere og meddommere, påpeker flertallet at det etter forslaget er den samlede rett som
+skal ha tilgang til opplysningene, selv om det rent
+faktisk vil være den saksforberedende dommeren
+som har tilgang under saksforberedelsen. Det må
+imidlertid i denne sammenheng fremheves at
+dommerne har forskjellige roller når saken er til
+behandling, selv om de er sidestilte når avgjørelser skal treffes. Det er fagdommerne som har
+ansvaret for å administrere saken, og for å utføre
+denne oppgaven er det nyttig med en viss forhåndskjennskap til saken. Det er vanskelig å se at
+tilgang til sakens opplysninger vil føre til en ubalanse utover det som allerede følger av fagdommerens ansvar som administrator. I den grad det er
+behov for det, kan meddommerne orienteres om
+viktig informasjon som er fremkommet under
+saksforberedelsen, og gis direkte tilgang til dokumenter når det er hensiktsmessig. Dette vil for
+eksempel kunne gjøres under en konferanse som
+holdes forut for hovedforhandlingen.
+Flertallet mener retten bør ha tilgang til politiforklaringer som leses opp under forhandlingene.
+Risikoen for at tilgang til forklaringene bevisst
+eller ubevisst blir tillagt for stor vekt, lar seg vanskelig bevise empirisk. Dommerne vil uansett
+kunne skrive ned det som leses opp, og det er vanskelig å se at det er noen reell fare for at politiforklaringene tillegges for stor vekt kun fordi de foreligger i skriftlig form. Det er også en viss fare for
+at retten vil tillegge forklaringen for lite vekt holdt
+opp mot mer håndfaste bevis (som teledata, SMS
+mv.). Det er grunn til å tro at partene vil påpeke
+feil og unøyaktigheter i politiforklaringer der dette
+forekommer, og at retten vil håndtere betydningen av slike forhold rasjonelt i bevisbedømmelsen.
+Flertallet mener rettens faktiske tilgang og
+bruk av opplysningene bør styres ut fra de behov
+som gjør seg gjeldende i den enkelte sak. Utvalgets forslag bygger således ikke på at alle opplysninger automatisk må oversendes til retten, eller
+at det alltid må kreves at retten setter seg inn i
+materialet. Bruken av opplysningene må
+bedømmes ut fra sakens karakter og den informa-
+
+31
+
+sjon partene har gitt. I enkle og oversiktlige saker
+vil retten som regel ikke ha behov for annet enn
+opplysningene det skal føres bevis om.
+Konkret foreslår flertallet at påtalemyndighetens og forsvarerens oversendelser til retten
+under saksforberedelsen skal inneholde «utdrag
+av sakens opplysninger av betydning for bevisføringen», se utvalgets lovutkast §§ 34-1 første ledd
+bokstav c og 34-4 annet ledd siste punktum. Utvalget uttaler på side 391:
+«Dette omfatter bevis som skal fremlegges for
+retten, herunder politiforklaringer det kan
+være aktuelt å gjengi under hovedforhandlingen. Ellers skal opplysninger vedlegges i den
+utstrekning det er behov for det. Er det for
+eksempel ved oversendelsen klart at partene
+er uenige om behovet for å høre forklaringen
+fra et bestemt vitne, skal eventuelle politiforklaringer vedkommende har avgitt, vedlegges slik
+at retten får et best mulig grunnlag for å
+avgjøre spørsmålet.»
+Ved behov for ytterligere opplysninger kan retten
+i medhold av lovutkastet § 34-8 gis tilgang når og i
+den utstrekning den finner behov for det av hensyn til saksforberedelsen eller sakens videre
+behandling. Flertallet mener at det ikke er grunn
+til å begrense rettens tilgang under rådslagningen. Siden dommen bare skal bygge på de opplysninger som er ført i rettsmøte, jf. straffeprosessloven § 305, vil ikke retten ha interesse av å lese
+saksopplysninger som ikke har vært tematisert.
+Mindretallet (fire utvalgsmedlemmer) mener
+retten i det vesentlige ikke bør ha tilgang til saksopplysninger i større utstrekning enn det som følger av gjeldende rett. Mindretallet mener hensynene til å sikre tilliten til domstolene og rettens
+objektivitet, og til å motvirke ubalanse mellom fagdommer og meddommere, bør tillegges avgjørende vekt. Ifølge mindretallet vil flertallets forslag innebære en risiko for at retten bevisst eller
+ubevisst vektlegger opplysninger som ikke har
+vært gjenstand for kontradiksjon, og for at en slik
+forhåndsoppfatning legger føringer for den videre
+forståelsen og bedømmelsen av sakens bevis. Det
+har i denne sammenheng betydning at opplysninger i dokumentene først blir gjenstand for kontradiksjon under hovedforhandlingen. Dette skiller
+seg fra ordningen i sivile saker der det utveksles
+prosesskriv i forkant av forhandlingen.
+Mindretallet mener at det er særlig problematisk å gi retten tilgang til avhør av mistenkte og
+vitner. Det som er nedtegnet i rapportene, gir ikke
+alltid et dekkende bilde av det som har foregått i
+
+[Side 34]
+
+32
+
+Prop. 146 L
+Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
+
+avhøret, og det er både urealistisk og lite hensiktsmessig tidsbruk å legge opp til at retten skal gjennomgå eventuelle lyd- og bildeopptak av det
+samme avhøret. Retten bør heller ikke gis tilgang
+til politiforklaringer som leses opp under hovedforhandlingen, ettersom dette medfører en risiko
+for at de tillegges uforholdsmessig stor betydning.
+Mindretallet stiller spørsmål om tilgang til
+sakens opplysninger i tråd med flertallets forslag
+vil påføre dommerne unødig merarbeid som vil
+innebære at domstolene må tilføres ressurser.
+Mindretallet mener at det som oversendes retten i medhold av lovutkastet § 34-1 bokstav c, utelukkende bør være «utdrag av skriftlige bevis som
+skal føres». Videre bør utkastet § 34-8 lyde slik for
+å markere at utlån utelukkende skal skje til bruk
+for saksforberedelsen: «Retten skal gis tilgang til
+sakens opplysninger når den finner behov for det
+av hensyn til saksforberedelsen».
+
+6.3
+6.3.1
+
+Høringsinstansenes syn
+
+I hvilken utstrekning bør retten kunne
+innhente og bruke sakens
+dokumenter?
+Flertallet av høringsinstansene støtter flertallets
+forslag om at retten etter eget tiltak bør kunne
+innhente og bruke sakens dokumenter på alle
+trinn av saken, også under hovedforhandlingen og
+rådslagningen. Dette gjelder Agder lagmannsrett,
+Borgarting lagmannsrett, Det nasjonale statsadvokatembetet, Domstoladministrasjonen, Dommerforeningen, Gulating lagmannsrett, Hordaland
+statsadvokatembeter, Innlandet politidistrikt, Jæren
+tingrett, Nordland statsadvokatembeter, Politidirektoratet, Riksadvokaten, Rogaland statsadvokatembeter, Sør-Øst politidistrikt, Økokrim og Øst politidistrikt.
+Borgarting lagmannsrett mener at tilgang til
+sakens dokumenter er en forutsetning for god og
+effektiv saksstyring, og at en viss forhåndskunnskap er nødvendig for å kunne ta stilling til partenes saksopplegg. Lagmannsretten er også enig
+med utvalgets flertall i at det ikke er grunn til å
+begrense rettens tilgang til sakens dokumenter
+under rådslagningen, og viser i denne forbindelse
+til at retten kun kan bygge på opplysninger som er
+behandlet i retten. Borgarting lagmannsrett antar
+at rettens leder under rådslagningen vil sørge for
+at drøftelsene bare knytter seg til det som er kommet frem i ankeforhandlingen, og til dokumentene som har vært behandlet i retten. Det kan likevel vurderes å fjerne enkelte typer dokumenter fra
+dokumentutdraget:
+
+2020–2021
+
+«Likevel har lagmannsretten forståelse for
+argumenter om at det kan fremstå som lite tillitvekkende at retten under rådslagningen har
+tilgang til saksdokumenter som det ikke har
+vært prosessuell adgang til å føre som bevis,
+for eksempel fordi beviset blir avskåret under
+ankeforhandlingen. Selv om realiteten er at rettens medlemmer under rådslagningen kun vil
+drøfte bevisene som har vært behandlet i retten, kan det vurderes om bevis som blir avskåret under ankeforhandlingen, bør tas ut av
+utdraget og leveres tilbake til aktor.»
+Hordaland statsadvokatembeter uttaler at flertallets forslag vil sette retten i stand til «faktisk å
+gjennomføre en aktiv og sakstilpasset saksforberedelse og administrering av hele saken». Det
+uttales videre:
+«Vi kan ikke se at dette representerer noen
+trussel mot prinsippene om muntlighet og
+bevisumiddelbarhet eller kravene til kontradiksjon. At meddommere ikke vil ha den samme
+tid, mulighet eller erfaring som fagdommere til
+å sette seg inn i sakens opplysninger underveis, mener vi heller ikke er noe som i seg selv
+bør stenge for en slik bestemmelse. Vi antar at
+retten vil be om slikt innsyn i de tilfellene det
+ligger eller kommer frem noe i saken som gir
+grunn til det, slik at det ikke vil skje i alle saker.
+Formålet med bestemmelsen oppfatter vi er at
+retten faktisk skal bli i stand til å forberede,
+lede og styre den rettslige behandlingen, ikke
+at retten skal ha denne muligheten for å få et
+bredere materielt avgjørelsesgrunnlag.»
+Advokatforeningen, Jussbuss, Kristiansand tingrett,
+Møre og Romsdal, Sogn og Fjordane statsadvokatembeter, Oslo statsadvokatembeter, Rettspolitisk
+forening og Trøndelag statsadvokatembeter støtter
+mindretallets forslag om at tilgangen til saksdokumentene skal være begrenset til saksforberedelsen. Ingen av høringsinstansene går inn for å oppheve den gjeldende adgangen til å be om utlån,
+men flere er kritiske til flertallets generelle synspunkter om bruk av saksdokumentene.
+Kristiansand tingrett ønsker ikke at adgangen
+til å få dokumentene utlevert skal brukes i en
+annen utstrekning enn i dag, og mener at en
+rekke vektige argumenter taler for å videreføre
+dagens ordning:
+«Det viktigste er at dagens ordning sikrer at
+rettens medlemmer møter saken med et åpent
+sinn, og også gir grunn til tillit til at dette fak-
+
+[Side 35]
+
+2020–2021
+
+Prop. 146 L
+Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
+
+tisk skjer. Dommerrollen innebærer ofte gjennomgang av saksdokumenter, der gjennomgangen ofte skjer med det for øye at man skal
+ta en avgjørelse i saken, og det vil derfor kunne
+være krevende å lese dokumenter uten at man
+i det minste ubevisst danner seg oppfatninger,
+eller mistenkes for dette. […] Straffesaker kan
+ikke sammenlignes med sivile saker, da straffesaksdokumentene er et produkt av den ene
+parts undersøkelser i saken, og tilsvarer derfor
+ikke stevning og tilsvar i en sivil sak. Det foreligger videre ikke utskrift av parts- og vitneforklaringer i sivile saker. De rettssikkerhetsmessige hensynene kommer også i en annen stilling. Dagens ordning innebærer videre at
+rettens leder ikke sitter med andre opplysninger enn meddommerne. Det vil kunne virke
+reduserende på meddommernes rolle om fagdommeren sitter med fulle opplysninger om
+vitneforklaringer mv., uten at meddommerne
+har tilsvarende opplysninger.»
+Advokatforeningen mener at flertallets argumentasjon gir uttrykk for en naivistisk holdning til politiets etterforskingsdokumenter, og mener tilgang
+til disse kan påvirke dommernes objektivitet:
+«Det forhåndsbildet som skapes gjennom
+etterforskningsdokumentene kan […] både
+mangle helt vesentlige bevis og inneholde
+bevis som fremstilles gjennom det syn politiet
+har inntatt, og eventuelt har søkt å få bekreftet
+gjennom etterforskningen. Dersom retten danner seg en forhåndsoppfatning basert på dette,
+vil det kunne være mye vanskeligere for den
+mistenkte å føre motbevis og eventuelt underbygge slik tvil som skal danne grunnlaget for
+en frifinnelse.
+Etter Advokatforeningens syn er det både
+ut fra erfaring med etterforskning og rettslig
+behandling av straffesaker sterke grunner til å
+forebygge at standpunkter til viktige bevisspørsmål blir tatt for tidlig, og at en for tidlig
+oppfatning stenger for senere motforestillinger
+og kontradiksjon.»
+Advokatforeningen tror også at flertallets forslag
+vil skape en ytterligere ubalanse mellom fagdommerne og lekdommerne. Siden fagdommerne vil
+kunne danne seg en oppfatning av saken basert på
+dokumentene, vil lekdommerne lett kunne oppfatte at fagdommeren vet mer om saken og kjenner dokumentene bedre enn dem. Ifølge
+høringsinstansen vil dette sannsynligvis forsterke
+fagdommerens autoritet og innflytelse, både
+
+33
+
+under bevisføringen i rettssalen og på dommerrommet under rådslagningen.
+
+6.3.2
+
+Bør noen saksdokumenter vedlegges
+påtalemyndighetens oversendelse til
+retten?
+Høringsinstansene har delte oppfatninger om
+utvalgsflertallets forslag om at påtalemyndighetens oversendelse til retten skal inneholde
+«utdrag av sakens opplysninger av betydning for
+bevisføringen». Om politiforklaringer skal vedlegges eller ikke, er særlig omstridt.
+Flertallets forslag støttes av Borgarting lagmannsrett, Dommerforeningen, Domstoladministrasjonen, Innlandet politidistrikt, Kripos, Nordland
+statsadvokatembeter, Politidirektoratet, Rogaland
+statsadvokatembeter, Sør-Øst politidistrikt, Økokrim
+og Øst politidistrikt.
+En rekke høringsinstanser går imot flertallets
+forslag og mener at politiforklaringer ikke bør
+oversendes domstolen. Dette gjelder Advokatforeningen, Asker og Bærum tingrett, Det nasjonale
+statsadvokatembeter, Eidsivating lagmannsrett,
+Hordaland statsadvokatembeter, Jussbuss, Kristiansand tingrett, Nordland politidistrikt, Oslo statsadvokatembeter, Rettspolitisk forening og Riksadvokaten.
+Høringsinstansene tolker lovutkastets formulering «utdrag av sakens opplysninger av betydning for bevisføringen» på ulike måter. Det
+samme gjelder merknaden om at påtalemyndigheten skal oversende «politiforklaringer det kan
+være aktuelt å gjengi under hovedforhandlingen».
+For eksempel synes både Dommerforeningen og
+Borgarting lagmannsrett å forstå forslaget slik at
+påtalemyndighetens oversendelse alltid skal
+inkludere politiforklaringene til samtlige vitner
+som vil bli påberopt. Politidirektoratet og Øst politidistrikt legger på den annen side til grunn en
+snevrere tolkning som åpner for at kun dokumentbevisene oversendes i en ordinær sak. Sistnevnte
+uttaler:
+«Før hovedforhandling vet man sjelden om en
+politiforklaring helt eller delvis skal leses opp,
+så det normale vil være oversendelse kun av de
+skriftlige dokumentbevisene. I de vanlige
+sakene vil dette være noen få dokumenter. Øst
+pd er av den oppfatning at i «normalsakene» vil
+ikke dette medføre mye merarbeid verken på
+påtalesiden eller dommersiden idet dokumentmengden normalt ikke er særlig stor. Retten vil
+likevel få noe bedre innsikt i saken enn i dag og
+i noe større grad være bedre rustet til å lede
+
+[Side 36]
+
+34
+
+Prop. 146 L
+Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
+
+forhandlingene på en effektiv, konsentrert og
+forsvarlig måte. Videre er bestemmelsen i forslaget fleksibel slik at behovet kan tilpasses
+den enkelte sak. Øst pd er derfor enige med
+flertallets begrunnelse og argumentasjon.»
+Hordaland statsadvokatembeter, Nordland politidistrikt og Oslo statsadvokatembeter mener ordlyden
+og spesialmerknadene gir liten veiledning når det
+gjelder hvilke dokumenter som skal oversendes.
+Noen av høringsinstansene som er negative til
+flertallets forslag, mener endringen vil medføre
+merarbeid og tidkrevende prosessuelle tvister.
+For eksempel antar Oslo statsadvokatembeter at
+forsvarer ofte vil bestride utvelgelsen av dokumenter, noe som lett vil medføre prosesser som
+«vil stjele mye tid og bringe aktors oppmerksomhet bort fra det som det er grunn til å fokusere
+på». Det uttales videre:
+«Oslo statsadvokatembeter er bekymret for at
+dersom politiforklaringer gjøres tilgjengelige
+for dommerne, vil faren for at retten vil fortape
+seg i uvesentlige detaljer bli betraktelig større.
+Dette vil føre til tidkrevende avklaringer og diskusjoner, og – ikke minst – at retten ikke vil
+konsentrere seg om de vesentlige delene av
+politiforklaringene. Dagens ordning, hvor retten ikke har tilgang til politiforklaringene, gir
+en større mulighet for at bevisførselen konsentreres om det som er relevant. Et viktig
+moment i denne forbindelse, som ikke synes å
+være drøftet av utvalget, er at politiforklaringene blir til under etterforskningen og av den
+grunn nødvendigvis vil inneholde en god del
+informasjon som senere viser seg å være irrelevant for det retten skal ta stilling til.»
+Eidsivating lagmannsrett, Nordland politidistrikt
+og Riksadvokaten støtter mindretallets forslag om
+at dokumentutdraget kun skal inneholde «utdrag
+av skriftlige bevis som skal føres». Riksadvokaten
+er imidlertid negativ til at det skal være obligatorisk å utarbeide et dokumentutdrag under saksforberedelsen, og mener at det bør overlates til
+retten å vurdere om det er behov for å få oversendt dette:
+«Utarbeidelse av dette allerede på tiltalestadiet
+vil utvilsomt medføre merarbeid for påtalemyndigheten, samtidig som det for retten i de fleste
+straffesaker ikke vil være behov for å sette seg
+inn i bevisene på forhånd utover den presentasjon som gis i bevisoppgaven og tilsvar fra forsvarer. I omfangsrike saker, særlig de med
+
+2020–2021
+
+store dokumentmengder, vil det dessuten
+kunne by problemer å gjøre ferdig et dokumentutdrag allerede på tiltalestadiet. Når det gjelder utdragets innhold, bør det være begrenset
+til de dokumentbevis som skal føres for retten.
+Det er vanskelig å se noe praktisk behov for at
+politiforklaringer det kan være aktuelt å gjengi,
+skal sendes til retten på forhånd. Det er også en
+fare for at en slik ordning, hvor retten kun mottar et utvalg av forklaringene, kan gi retten et
+skjevt bilde av saken under saksforberedelsen.»
+Asker og Bærum tingrett er kritisk til en omfattende oversendelsesplikt, men mener påtalemyndigheten med fordel kan sende enkelte dokumenter, slik som rettspsykiatriske rapporter, på forhånd. Retten bør også få tilsendt de opprinnelige
+dommene i saker om forlengelse av og prøveløslatelse fra forvaring.
+Kripos påpeker at det allerede på tiltalestadiet
+vil kunne være problematisk å oversende et dokumentutdrag i store og kompliserte saker, og at det
+bør være anledning til å sende det på et senere
+tidspunkt, for eksempel etter en frist satt av retten.
+Advokatforeningen mener § 34-1 første ledd
+bokstav c om utdrag bør erstattes med en bestemmelse om at påtalemyndigheten plikter å gi en
+redegjørelse for eventuelle rettsforhold av betydning for straffbarheten.
+
+6.3.3
+
+Bør retten gis kopi av politiforklaringer
+som leses opp?
+Utvalget har foreslått at retten skal ha tilgang til
+politiforklaringer som leses opp under forhandlingene. Retten vil etter forslaget dermed presumptivt også ha adgang til de oppleste forklaringene
+under domskonferansen og når dom skrives. Et
+klart flertall av høringsinstansene som har uttalt
+seg om spørsmålet, er positive til forslaget. Dette
+gjelder Agder lagmannsrett, Asker og Bærum tingrett, Borgarting lagmannsrett, Det nasjonale statsadvokatembetet, Dommerforeningen, Jæren tingrett,
+Oslo statsadvokatembeter, Oslo tingrett, Trøndelag
+statsadvokatembeter, Vestfold og Telemark statsadvokatembeter og Øst politidistrikt.
+De fleste høringsinstansene trekker frem at
+det vil effektivisere rettens arbeid om den slipper
+å notere fra opplesningen. Vestfold og Telemark
+statsadvokatembeter mener at det «kan bringe tankene hen på anstaltmakeri at en opplesning av en
+politiforklaring må skje på en måte som gjør at rettens medlemmer må notere (for den del ordrett)
+
+[Side 37]
+
+2020–2021
+
+Prop. 146 L
+Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
+
+hva som står i forklaringen». Oslo tingrett beskriver dagens ordning som «en lite hensiktsmessig
+arbeidsmetode».
+Dommerforeningen uttaler at også hensynet til
+sakens opplysning taler for forslaget:
+«Under hovedforhandlingen er dagens system
+hvor rettens medlemmer må notere når politiforklaringen leses opp, svært lite tilfredsstillende. Det er krevende å følge med når politiforklaringen kun leses opp. Risikoen for misforståelser er klart til stede, og viktig
+informasjon kan gå tapt og lede til at disse bevisene tillegges mindre vekt ved den samlede
+bevisbedømmelsen enn de etter sitt innhold
+fortjener.»
+Agder lagmannsrett mener partenes opplesning av
+ulike avsnitt i en politiforklaring ikke sjelden blir
+så fragmentarisk og springende at det er vanskelig å tilegne seg en klar forståelse av innholdet av
+forklaringen når den leses i sammenheng.
+Trøndelag statsadvokatembeter mener dagens
+ordning fremstår som meningsløs i tilfeller hvor
+en politiforklaring må leses opp i sin helhet, for
+eksempel fordi tiltalte eller vitnet nekter å avgi forklaring. Høringsinstansen viser til at slike forklaringer ikke sjelden er omfattende.
+Øst politidistrikt er kritisk til mindretallets
+begrunnelse for å nekte retten tilgang til kopi av
+politiforklaringer som leses opp i retten, og viser
+til at retten kan foreta en stenografisk nedtegning
+og ta denne med til rådslagningen og domsskrivingen. Høringsinstansen mener det «ikke [er]
+lett å få grep om hva som gjør at det er fare for at
+en fotokopi av politiforklaringen i rettens hånd
+skal gis uforholdsmessig stor vekt, mens en nøyaktig nedtegning eller en lydversjon av den
+samme opplesning ikke vil gjøre det».
+Advokatforeningen støtter mindretallets forslag
+og begrunnelse:
+«I dag er det viktig at oppleste forklaringer ikke
+legges fram for retten for å unngå at ikke disse
+gis et særlig gjennomslag i forhold til forklaringer som er avgitt muntlig. Men selv om alle forklaringer skal kunne legges fram og ulikheten
+derved faller bort, kan det ikke være tvil om at
+dette vil forandre straffeprosessen på en temmelig grunnleggende måte. Rettens medlemmer vil da selv kunne forsøke å utlede sitt syn
+fra ordlyden i forklaringer som ikke er belyst
+muntlig i retten. Det er også fare for at dette
+kan svekke rettens oppmerksomhet om forklaringene under rettsforhandlingene. Det vil
+
+35
+
+ikke da være samme behov for å notere som i
+dag, og nettopp behovet for å notere og huske
+bevisførselen er viktig for å skjerpe konsentrasjonen.»
+
+6.4
+6.4.1
+
+Departementets vurdering
+
+I hvilken utstrekning bør retten kunne
+innhente og bruke sakens
+dokumenter?
+Departementet går inn for å videreføre ordningen
+i straffeprosessloven § 262 første ledd fjerde punktum om at retten kan kreve å få oversendt sakens
+dokumenter. Anvendelsesområdet bør imidlertid
+utvides i tråd med utvalgets lovutkast § 34-8. Det
+foreslås også at bestemmelsen gis en mer fremskutt plassering i straffeprosessloven, se forslaget
+til ny § 274 a i kapittel 21. Se også forslaget til henvisningsbestemmelse i § 295 i kapittel 22.
+Prinsipielt sett mener departementet at retten
+bør ha tilgang til sakens dokumenter på alle trinn
+av saken, også under hovedforhandlingen og rådslagningen. Departementet kan her i det vesentlige slutte seg til utvalgsflertallets argumentasjon,
+se utredningen punkt 17.4.2. side 389–391. Det
+kan vanskelig i seg selv anses for å være i strid
+med prinsippet om rettferdig rettergang at retten
+under hovedforhandlingen, domskonferansen og
+domsskrivingen har tilgang til dokumenter som
+ikke har vært ført som bevis. I likhet med utvalgsflertallet mener departementet at det må kunne
+forventes «at profesjonelle dommere er i stand til
+å håndheve et skille mellom hva man har tilgang
+til av informasjon, og hva man bygge på av den
+informasjonen man har tilgang til», se utredningen punkt 17.4.2 side 390. Norske dommere er
+vant med å håndtere et slikt skille. For straffesakene medfører regelen i straffeprosessloven § 305
+at retten kun kan bygge på bevis som er ført
+under hovedforhandlingen. Bevis som tiltalte ikke
+har anledning til å imøtegå, skal dermed ikke tas i
+betraktning. Et tilsvarende skille gjelder i sivile
+saker, se tvisteloven § 11-1 første ledd. Reglene er
+begrunnet i det kontradiktoriske prinsipp.
+Etter departementets syn bør den blotte tilgang til udokumenterte opplysninger under
+domskonferansen og domsskrivingen ikke
+utgjøre en saksbehandlingsfeil. Siden dommen i
+tråd med § 305 bare skal bygge på bevis som er
+ført, vil retten på dette stadiet uansett ikke ha
+interesse av å lese saksdokumenter som ikke har
+vært tematisert, se utredningen punkt 17.4.2 side
+391. Det prinsipielle utgangspunktet om at tilgang
+til opplysninger ikke i seg selv er betenkelig, bør
+
+[Side 38]
+
+36
+
+Prop. 146 L
+Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
+
+også gjelde for vitneforklaringer som er inntatt i
+saksdokumentene, også når vitnene ikke har forklart seg for retten. Sistnevnte medfører en viss
+kursendring sammenlignet med ankeutvalgets
+avgjørelse i HR-2020-2157-U, hvor det i avsnitt 87
+fremheves at slik tilgang «lett vil kunne være i
+strid med det kontradiktoriske prinsipp», se punkt
+6.1 foran. Utgangspunktet vil i stedet være at det
+må vurderes konkret om domstolen i strid med
+§ 305 har lagt vekt på vitneforklaringer som ikke
+er ført for retten, samt om det kan ha virket inn på
+avgjørelsens innhold, sml. HR-2016-612-U avsnitt
+12. Spørsmålet må vurderes ut fra domsgrunnene
+og eventuelle andre opplysninger.
+Den foreslåtte løsningen har praktiske fordeler. Som fremhevet i HR-2016-612-U avsnitt 8 er
+det knyttet særlige utfordringer til å renske omfattende elektroniske utdrag for udokumenterte
+dokumenter eller deler av dokumenter, se også
+HR-2020-2157-U avsnitt 88. Og hvis retten innhenter etterforskingsdokumentene, må de som
+utgangspunkt ikke returneres eller slettes etter at
+saken er tatt opp til doms. Forslaget stenger likevel ikke for at retten i spesielle tilfeller kan
+beslutte at dommerne ikke skal ha tilgang til
+enkelte dokumenter under rådslagningen og
+domsskrivingen. Dette kan etter omstendighetene være aktuelt i tilknytning til bevis som det
+ikke er prosessuell adgang til å føre, og hvor det
+faktum at beviset er i rettens besittelse, gir anledning til sterk mistro og kan svekke tilliten til domstolen.
+At retten prinsipielt sett skal ha tilgang til saksdokumentene på ethvert trinn av saken, tilsier
+ikke at samtlige dokumenter rutinemessig bør
+oversendes til retten sammen med tiltalebeslutningen og bevisoppgaven. I punkt 6.4.2 foreslås
+det at påtalemyndighetens oversendelse alltid skal
+inkludere dokumentbevis som skal føres etter
+§ 302. I små saker er det normalt ikke behov for
+mer enn dette. Det er altså behovet for å sette seg
+inn i sakens øvrige dokumenter, særlig relevante
+politiforklaringer, som vil bli ivaretatt av den nye
+regelen. Et slikt behov vil nok først og fremst
+melde seg i saker av noen størrelse. Etter forslaget til ny § 274 a, jf. § 295, skal retten kunne gjøre
+seg kjent med dokumentene når og i den utstrekning den finner behov for det av hensyn til saksforberedelsen eller sakens videre behandling.
+Den faktiske bruken skal bero på de behov som
+gjør seg gjeldende i den enkelte sak. Relevante
+momenter er sakens art og omfang samt de opplysninger partene har formidlet, se utredningen
+punkt 17.4.2 side 390. Retten har ikke plikt til å
+gjennomgå alle dokumenter den har tilgang til.
+
+2020–2021
+
+Tilgang til saksdokumentene vil i prinsippet
+kunne bidra til dommeren får bedre oversikt over
+sakens sentrale tvistepunkter, slik at det blir lettere å ta stilling til partenes saksopplegg og kontrollere bevisføringen. Retten kan dermed styre
+saksforberedelsen og hovedforhandlingen mer
+effektivt. Samtidig må det tas i betraktning at
+saksdokumentene i større saker ofte er svært
+omfattende og lite oversiktlige. Dokumentene vil
+også kunne inneholde mye informasjon som er
+lite relevant for domstolsbehandlingen. Nytteverdien av en fullstendig gjennomgang for å oppnå en
+bedre oversikt over saken vil derfor normalt ikke
+forsvare den betydelige tidsbruken som vil
+medgå. Mangelen på kontradiksjon forbundet
+med en slik gjennomgang gir også grunnlag for
+betenkeligheter.
+En avgrenset og målrettet bruk av saksdokumentene kan likevel etter forholdene bidra til en
+mer effektiv straffesaksbehandling. Tilgang vil
+særlig kunne være hensiktsmessig når retten skal
+avgjøre prosessuelle tvister under saksforberedelsen, for eksempel knyttet til bevisføringen. Andre
+eksempler på situasjoner der bruk av saksdokumentene kan være aktuelt, er nevnt i punkt 6.1. I
+motsetning til i dag – hvor hjemmelen i nåværende § 262 første ledd fjerde punktum i praksis
+benyttes svært lite – mener departementet at det
+ikke bør være noe uvanlig ved at retten benytter
+seg av adgangen til å gjøre seg kjent med sakens
+dokumenter.
+I likhet med dagens lovbestemmelse åpner
+lovforslaget for at retten kan be påtalemyndigheten om å få overlevert nærmere spesifiserte
+enkeltdokumenter. Dette kan i mange tilfeller
+være mer formålstjenlig enn å innhente samtlige
+dokumenter. Et eksempel er at retten ved avgjørelsen av en tvist om bevisføring under saksforberedelsen ber om å få oversendt de dokumenter
+som er relevante for spørsmålet. Et annet er at retten ber påtalemyndigheten om å få oversendt et
+utdrag av politiforklaringer fra vitner som er ført
+opp i bevisoppgaven.
+Retten kan selvsagt også tilføres sakkunnskap
+på andre måter enn ved at den innhenter og gjør
+seg kjent med politidokumentene. Et pålegg fra
+retten om at påtalemyndigheten skal utarbeide en
+skriftlig redegjørelse for saken, vil ofte kunne
+være mer betryggende enn at dommeren på egenhånd setter seg inn i etterforskingsdokumentene.
+Hensynet til kontradiksjon er ivaretatt gjennom at
+tiltalte og forsvarer gis mulighet til å kommentere
+redegjørelsen. Andre alternativer er at det avholdes et saksforberedende møte, eller at retten fastsetter en frist for inngivelse av sluttinnlegg.
+
+[Side 39]
+
+2020–2021
+
+Prop. 146 L
+Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
+
+Dagens ordning bygger på at tingretten må be
+påtalemyndigheten om å få oversendt etterforskingsdokumentene. Utvalgets lovutkast § 34-8
+bestemmer tilsvarende at retten skal «gis tilgang»
+når den finner behov for det. Etter departementets oppfatning bør ordlyden ikke stenge for en
+mulig digital løsning som gir retten umiddelbar tilgang til dokumentene uten å måtte gå veien om en
+forespørsel til påtalemyndigheten, som uansett
+ikke har adgang til å nekte å etterkomme utlånsbegjæringen. For departementet er det vanskelig
+å se noen vektige grunner som taler mot en slik
+ordning såfremt det sikres tilstrekkelig notoritet.
+Det foreslås derfor at retten kan «gjøre seg kjent»
+med dokumentene, selv om den praktiske fremgangsmåten inntil videre fortsatt vil være at tingretten må rette en forespørsel til påtalemyndigheten. En slik ordlyd passer også bedre med situasjonen der forberedende dommer i lagmannsretten vil beholde saksdokumentene etter at saken er
+henvist til ankeforhandling, se punkt 6.1 foran.
+Det er kunstig å be påtalemyndigheten om tilgang
+til saksdokumenter man allerede besitter. En
+annen sak er at det bør sikres notoritet om hva
+lagmannsretten beslutter.
+På samme måte som utvalgsflertallet mener
+departementet at lovforslaget ikke vil bidra til
+større ubalanse mellom fagdommere og lekdommere utover det som allerede følger av dagens
+system. Som utvalget fremhever i utredningen
+punkt 17.4.2 side 390, er rollefordelingen mellom
+fagdommere og lekdommere forskjellig. Fagdommerne har et særlig ansvar med hensyn til å forberede og administrere saken, noe som medfører at
+en viss forhåndskjennskap til saken er verdifullt.
+Under saksforberedelsen er det uansett kun saksforberedende dommer som har tilgang. Skulle det
+oppstå behov for at meddommerne gjøres kjent
+med viktig informasjon som er fremkommet
+under saksforberedelsen, vil det kunne gjøres på
+en hensiktsmessig måte, for eksempel i konferansen som normalt holdes før hovedforhandlingen.
+Dette kan det etter gjeldende rett være behov for
+også ellers.
+Selv om det i prinsippet er den samlede rett
+som har tilgang til saksdokumenter som innhentes, er det på grunn av den nevnte rollefordelingen normalt ikke nødvendig at samtlige av rettens
+medlemmer har dokumentene tilgjengelig under
+hovedforhandlingen og rådslagningen. I praksis
+må det i stor grad være opp til administrator å
+bedømme i hvilken grad det er hensiktsmessig at
+meddommerne gis direkte tilgang til dokumentene. Skal retten avgjøre en prosessuell tvist
+under hovedforhandlingen hvor innholdet i doku-
+
+37
+
+mentene har betydning, må likevel utgangspunktet være at samtlige av rettens medlemmer gis tilgang. I meddomsrettssaker deltar alle rettens
+medlemmer i avgjørelsen av prosessuelle spørsmål. Videre skal selvsagt alle dommerne gis tilgang til bevis som føres etter § 302, jf. § 305. For å
+sikre en ensartet praksis er det ønskelig at Domstoladministrasjonen gir nærmere retningslinjer
+om lekdommeres dokumenttilgang under hovedog ankeforhandlingen.
+Det foreslås ingen endringer i ordningen om
+at den dømmende rett ikke kan gjøre seg kjent
+med innholdet i en politiforklaring før den har
+avgjort om det er adgang til opplesning i medhold
+av straffeprosessloven § 297, se punkt 6.1 foran.
+På den ene siden vil utvilsomt retten få et best
+mulig grunnlag for avgjørelsen av avskjæringsspørsmålet hvis den kjenner politiforklaringens
+innhold, idet et sentralt spørsmål er «om en eventuell domfellelse bare eller i avgjørende grad vil
+være basert på politiforklaringen», se Rt. 2013
+side 1412 avsnitt 21 og 22. På den annen side støter en slik ordning på «åpenbare motforestillinger», se Rt. 1995 side 1453 (på side 1456). Departementet er enig i at det er betenkelig med en ordning som legger opp til at rettens medlemmer
+under hovedforhandlingen gis fullstendig kjennskap til innholdet av et bevis som retten kanskje
+deretter må avskjære av hensyn til siktedes rettigheter. Departementet nevner for øvrig at slike
+spørsmål bør søkes avgjort under saksforberedelsen så langt det er hensiktsmessig, se punkt 7.6.4
+og lovforslaget § 273. Den forberedende dommeren vil da kunne gjøre seg kjent med forklaringens innhold. Forberedende dommer vil ikke nødvendigvis være dommer under hovedforhandlingen, og det ligger uansett i rollen som forberedende dommer at denne dommeren ofte vil få en
+annen forhåndskunnskap om saken enn dommerne i den dømmende rett. Dette vil særlig
+gjelde når det legges opp til mer aktiv dommerstyring under saksforberedelsen. Deltar fagdommeren senere under hovedforhandlingen, kan ikke
+vedkommende legge vekt på andre bevis enn de
+som er ført under hovedforhandlingen, jf. straffeprosessloven § 305, sml. HR-2016-612-U.
+
+6.4.2
+
+Bør noen saksdokumenter vedlegges
+påtalemyndighetens oversendelse til
+retten?
+
+Departementet foreslår å følge opp mindretallets
+forslag om at påtalemyndigheten kun skal oversende skriftlige bevis (dokumentutdraget) som
+skal føres for retten. Dermed vil retten allerede
+
+[Side 40]
+
+38
+
+Prop. 146 L
+Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
+
+under saksforberedelsen gis tilgang til sakkyndige rapporter og andre dokumentbevis som skal
+føres i medhold av straffeprosessloven § 302.
+Dette vil kunne gi retten et bedre overblikk over
+saken og i noen grad styrke dens forutsetninger
+for å drive aktiv saksstyring. Denne løsningen gir
+også en rettsteknisk god regel. Se lovforslaget
+§ 262 første ledd bokstav c.
+Det å få dokumentutdraget på forhånd vil
+neppe i seg selv gjøre saksforberedende dommer
+i stand til å drive aktiv saksstyring. Forslaget må
+på dette punkt imidlertid ses i sammenheng med
+andre tiltak som er ment å gi retten bedre forutsetninger for dommerstyring, slik som en mer
+informativ bevisoppgave, tilsvar fra forsvarer og
+en eventuell skriftlig redegjørelse fra påtalemyndigheten. Forslaget vil på denne måten særlig
+kunne få betydning i større straffesaker som reiser kompliserte faktiske og rettslige problemstillinger. I de enkle og oversiktlige sakene vil forslaget neppe føre til noen større besparelser, men
+departementet kan ikke se noen vesentlige ulemper med at domstolene også i disse sakene får
+dokumentutdraget i forkant.
+Selv om forslaget medfører at retten får tilsendt de skriftlige bevisene samtidig med tiltalebeslutningen og bevisoppgaven, forventes det
+ikke at saksforberedende dommer som en ren
+rutine skal gjennomgå samtlige dokumentbevis
+på dette stadiet av saken. Bruken av dokumentene
+under saksforberedelsen må styres ut fra de
+behov som gjør seg gjeldende i den konkrete
+saken. Siden forventningene til lekdommere er
+andre enn til fagdommere, som har ansvar for å
+forberede og administrere saken, antar departementet at det normalt ikke er nødvendig at dokumentbevisene sendes ut til meddommerne i forkant av hoved- eller ankeforhandlingen samtidig
+med tiltalebeslutningen og bevisoppgaven, se
+punkt 6.4.1 foran. Departementet forutsetter at
+Domstoladministrasjonen gir nærmere retningslinjer om hvilke dokumenter lekdommere skal ha
+tilgang til og når. Dette vil sikre en enhetlig
+behandling av disse spørsmålene i domstolene.
+At dokumentutdraget etter lovforslaget skal
+oversendes samtidig med tiltalebeslutningen og
+bevisoppgaven, vil neppe føre til nevneverdig merarbeid for påtalemyndigheten. Siden stadig flere
+straffesaker er digitale, foreligger dokumentbevisene normalt elektronisk. Med dagens teknologi
+er det svært enkelt å produsere digitale utdrag. Et
+utdrag må uansett utarbeides på et eller annet
+tidspunkt, og forslaget fører dermed bare til at
+tidspunktet for fremleggelse flyttes frem i tid. At
+påtalemyndigheten allerede på påtalestadiet må
+
+2020–2021
+
+gjøre en grundigere jobb med å gjennomgå og
+sammenstille aktuelle dokumentbevis, kan tvert
+imot spare tid og arbeid. Utarbeidelsen av dokumentutdraget vil ofte ta mer tid når saken ikke lenger er friskt i minne. Foretas et aktorbytte før
+hovedforhandlingen, vil det være en fordel at
+utdraget allerede er utarbeidet.
+Departementet ønsker ikke å følge opp flertallets forslag om at påtalemyndigheten skal oversende et utdrag av politiforklaringene. Generelt vil
+det i enkle og oversiktlige saker som regel ikke
+være behov for at retten gis forklaringene på forhånd, ettersom utsiktene til en mer effektiv og
+konsentrert gjennomføring av hovedforhandling
+som regel er beskjedne. Tvert imot vil saksavviklingen samlet sett kunne bli mer ressurskrevende,
+blant annet fordi det vil kunne oppstå tvister om
+hvilke forklaringer som skal inkluderes i utdraget.
+Dessuten inneholder politiforklaringene ofte mye
+informasjon som ikke er relevant for den aktuelle
+straffesaken. Siden retten til enhver tid kan gjøre
+seg kjent med forklaringene i medhold av forslaget til ny § 274 a, er behovet for flertallets ordning
+uansett ikke stort.
+Det vil ikke alltid være mulig å ferdigstille et
+endelig dokumentutdrag før påtalemyndigheten
+oversender saken til retten. Det kan for eksempel
+skyldes at saken er svært omfattende, eller at det
+gjenstår visse etterforskingsskritt. Påtalemyndigheten vil i slike tilfeller kunne utarbeide en foreløpig versjon og foreta senere suppleringer ved
+behov. Det er ikke meningen at regelen om oversendelse av dokumentutdrag skal ha preklusive
+virkninger.
+Se merknadene til § 262 for nærmere veiledning om hva dokumentutdraget skal inneholde.
+
+6.4.3
+
+Bør retten gis kopi av politiforklaringer
+som leses opp?
+Departementet mener i likhet med utvalgets flertall at retten bør kunne gis tilgang til politiforklaringer som leses opp under forhandlingene. Dette
+er også oppfatningen til de aller fleste høringsinstansene. Forslaget til ny § 274 a, jf. § 295, gir
+hjemmel for overlevering i slike tilfeller. Regelen
+åpner også for at retten har tilgang til de oppleste
+forklaringene under domskonferansen og når
+dom skrives.
+Forslaget vil gjøre det enklere for retten å
+følge med på innholdet av det som leses opp, og
+gir retten en bedre mulighet til å kontrollere om
+lovens vilkår for opplesning er oppfylt. At dommeren må skrive ned det som leses opp, er unødig
+tungvint, tar tid og medfører en risiko for at dom-

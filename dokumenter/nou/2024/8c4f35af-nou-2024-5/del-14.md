@@ -1,0 +1,814 @@
+# NOU 2024: 5, del 14 av 18 (side 167–175)
+
+- Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/8c4f35af-nou-2024-5.md
+- Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-5/id3030205/
+- Original-PDF: https://www.regjeringen.no/contentassets/0123c8c5812d48819318d5b6f8990a53/no/pdfs/nou202420240005000dddpdfs.pdf
+- Tekst: hentet fra PDF. OBS: 5 tabeller, 14 figurer, 159 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+
+---
+
+[Side 167]
+
+NOU 2024: 5
+Maktens ansikt
+
+Der det kan påvises «tungtveiende grunner»
+og anses «forsvarlig», bør adgangen til å bruke
+tjenestenummer gjelde for alle ansatte i politiet og
+ikke bare spesifikke stillingskategorier.
+Kravet om «tungtveiende grunner» er inspirert av formuleringen i Forvaltningslovutvalgets
+forslag til ny forvaltningslov § 47 om vedtak, og
+høringsinnspillene til dette forslaget.9 Ordlyden
+innebærer at terskelen skal være høy, og at skjerming bare skal kunne skje hvis det er grunn til å
+frykte at den ansatte eller dennes nærmeste vil
+utsettes for voldelige reaksjoner, trusler, grov sjikane eller utilbørlig press hvis navnet blir kjent.
+Det er ikke tilstrekkelig med en generell mulighet
+eller subjektiv frykt for dette – det kreves konkrete holdepunkter i den enkelte sak. Slike holdepunkter kan være omstendighetene i saken eller
+historikken til den eller de som vil få innsyn i
+dokumentet, for eksempel at vedkommende har
+fremsatt trusler i den aktuelle saken, at vedkommende tidligere er dømt for vold eller trusler mot
+offentlig tjenesteperson eller at vedkommende
+har tilknytning til organiserte kriminelle miljøer
+med voldspotensial.
+Utvalget foreslår i tillegg at det må fremstå
+som «forsvarlig» å bruke tjenestenummer. Behovet for bruk av tjenestenummer må avveies mot
+hensynet til åpenhet, rettssikkerhet og kontroll,
+se tidligere redegjørelse i utredningens punkt
+16.2 til 16.4. Utvalget vil understreke at selv om
+rapporter og andre saksdokumenter ikke er
+bestemmende for rettighetene og pliktene til
+enkeltpersoner, kan slike dokumenter for eksempel danne grunnlag for senere beslutninger eller
+vedtak. En parts mulighet til kontradiksjon og å
+fremme inhabilitetsinnsigelser er dermed relevante hensyn i forsvarlighetsvurderingen.
+Beslutningen om å erstatte navn med tjenestenummer må treffes av den ansattes overordnede.
+At beslutningsmyndigheten ligger hos den overordnede, vil, etter utvalgets oppfatning, sikre at
+det foretas en objektiv og saklig vurdering av om
+det foreligger tungtveiende grunner og anses forsvarlig å bruke tjenestenummer. Som utvalget har
+påpekt i punkt 17.3, kan ikke hensynet til de ansattes subjektive (opplevde) sikkerhet i seg selv
+begrunne identitetsskjerming.
+Muligheten til å føre kontroll og sikre etterprøvbarhet tilsier at begrunnelsen for beslutningen og hvem som har truffet den, nedtegnes i et
+internt notat, se forslaget til politiloven § 29 b
+9
+
+Se de generelle merknadene og spesialmerknadene til
+utkast til ny forvaltningslov § 47 i NOU 2019: 5 på henholdsvis s. 350 og 603.
+
+165
+
+Kapittel 17
+
+andre ledd. Notatet vil dessuten skape en større
+bevissthet rundt vurderingene som må foretas, og
+dermed sikre forsvarlige avgjørelser. Utvalget
+foreslår videre at det skal føres et register over
+hvem som har benyttet et bestemt tjenestenummer, og at Kongen kan gi nærmere regler om
+slik registerføring, se forslaget til politiloven
+§ 29 b fjerde ledd. Det må dessuten sørges for
+bytte av tjenestenummer der identiteten bak et
+bestemt nummer har blitt eksponert. Den praktiske gjennomføringen av dette vil ligge til den
+som er ansvarlig for registerføringen.
+Videre mener utvalget at det bør innføres
+adgang til å gi særskilte ansatte en generell mulighet til å bruke tjenestenummer i stedet for navn
+dersom det er påkrevd av hensyn til de ansattes
+sikkerhet. For eksempel vil ansatte som jobber
+opp mot organiserte kriminelle miljøer med
+voldspotensial, som utgjør en konstant trussel
+mot de ansatte, ha et generelt behov for å være
+skjermet. Behovet for skjerming må vurderes ut
+fra risikoen ved arbeidets art og karakter. Utvalget foreslår derfor at Kongen gis adgang til å gi
+regler som åpner for at særskilte ansatte kan
+benytte tjenestenummer på generelt grunnlag når
+det er påkrevd av hensyn til blant annet de ansattes sikkerhet, se forslaget til politiloven § 29 b
+tredje ledd. For en nærmere vurdering av behovet
+for en slik hjemmel og vilkåret om at det må være
+påkrevd, vises det til vurderingene i punkt 17.4.2.
+Ansatte i kriminalomsorgen har allerede en
+generell adgang til å benytte tjenestenummer i
+stedet for navn i forbindelse med skriving av rapporter, notat og vedlegg til sak mv. Det følger av
+Kriminalomsorgsdirektoratets rundskriv KDI2020-11. Overfor utvalget har Kriminalomsorgsdirektoratet opplyst at bruken av tjenestenummer i
+samsvar med KDI-2020-11 varierer fra sted til
+sted. Etter utvalgets syn bør denne adgangen
+videreføres og lovfestes slik at reglene blir mer tilgjengelige. Utvalgets forslag bygger på reguleringen i KDI-2020-11, men etter utvalgets oppfatning
+bør den generelle adgangen til å erstatte navn
+med tjenestenummer kun omfatte ansatte i fengsel eller overgangsbolig, ettersom de må anses å
+være utsatt for større risiko enn andre ansatte i
+kriminalomsorgen.
+Når det skrives rapporter, vil dette ofte være i
+forbindelse med hendelser eller vedtak som har
+betydning for de innsattes/domfeltes situasjon.
+Dersom rapporten ikke støtter den innsattes/
+domfeltes sak, vil det også i enkelte situasjoner
+kunne lede til forhøyet risiko for vold eller trusler.
+Denne risikoen reduseres dersom den innsatte/
+domfelte ikke får kunnskap om rapportskrivers
+
+[Side 168]
+
+166
+
+Kapittel 17
+
+NOU 2024: 5
+Maktens ansikt
+
+navn. Samtidig vil den innsatte/domfelte normalt
+kunne imøtegå innholdet i rapporten, også uten
+kunnskap om navnet til den ansatte. Utvalget
+mener derfor at ansatte som daglig omgås eller
+jobber tett på innsatte/domfelte, bør gis adgang til
+å skjerme identiteten ved rapportskriving av hensyn til deres egen og nærståendes sikkerhet, liv
+og helse. For ansatte i kriminalomsorgen som
+arbeider i fengsel eller overgangsbolig, foreslår
+utvalget derfor en generell adgang til å benytte
+tjenestenummer i stedet for navn ved rapportskriving og utarbeidelse av andre saksdokumenter, se
+forslaget til straffegjennomføringsloven § 7 c første ledd.
+Med ansatte i «fengsel eller overgangsbolig»
+menes fengselsbetjenter og andre ansatte som
+daglig omgås eller jobber tett på innsatte/domfelte, og øvrige ansatte som jobber i institusjonene, som for eksempel jurister.
+Mens Kriminalomsorgsdirektoratets rundskriv KDI-2020-11 tillater bruk av tjenestenummer
+i «rapporter, notat og vedlegg mv.», mener utvalget at begrepet «saksdokumenter» er mer dekkende og i større grad ivaretar sammenhengen i
+regelverket. Utvalget viser til at både forvaltningsloven og offentleglova bruker begrepet «saksdokumenter», og at det skal forstås på samme
+måte her, se offentleglova § 4 andre ledd. Det er
+de dokumentene som kan være gjenstand for innsyn, hvor behovet for skjerming aktualiseres.
+Etter utvalgets syn er det bare forsvarlig å operere med en generell adgang til bruk av tjenestenummer for ansatte i fengsler og overgangsboliger så lenge den innsatte/domfelte har krav på å
+få vite den ansattes navn hvis det er nødvendig for
+at vedkommende skal kunne ivareta sine interesser. Utvalget foreslår derfor at den innsatte/domfelte skal ha krav på innsyn i den ansattes navn i
+slike tilfeller, se forslag til ny straffeprosesslov
+§ 7 c femte ledd siste punktum.
+Utvalget foreslår videre at øvrige ansatte i kriminalomsorgen på visse vilkår skal gis adgang til
+å bruke tjenestenummer i stedet for navn i rapporter og andre saksdokumenter, men at hovedregelen er at det skal opplyses om navn, se forslaget til
+straffegjennomføringsloven § 7 c andre ledd.
+Utvalget viser til at ansatte som arbeider utenfor
+fengsler og overgangsboliger, ikke daglig omgås
+innsatte/domfelte som er frihetsberøvet. De blir
+dermed ikke utsatt for den samme konstante risikoen for vold og trusler som ansatte i fengsler og
+overgangsboliger står overfor. Utvalget mener
+imidlertid at i de tilfellene hvor det kan påvises
+fare for liv og helse, bør også øvrige ansatte i kriminalomsorgen gis adgang til å bruke tjeneste-
+
+nummer. Utvalget foreslår at bruk av tjenestenummer i stedet for navn i rapporter og andre saksdokumenter kan besluttes av den ansattes overordnede der det foreligger tungtveiende grunner
+og anses forsvarlig, se forslaget til straffegjennomføringsloven § 7 c andre ledd. Bestemmelsen tilsvarer utvalgets forslag til ny politilov § 29 b første, andre og fjerde ledd, se utvalgets vurderinger
+i avsnittene over.
+
+17.4.1.4 I vedtak
+Når ansatte i politiet og kriminalomsorgen treffer
+skriftlige vedtak, mener utvalget at utgangspunktet
+må være at navnet til den som har truffet vedtaket, skal fremgå. Hensynet til borgernes rettssikkerhet, behovet for åpenhet og kontroll samt
+ansvarliggjøring av offentlige myndigheter er særlig viktig når det er tale om offentlig myndighetsutøvelse som er bestemmende for den enkeltes
+rettsstilling. I tillegg tilsier praksis fra Sivilombudet og etatenes interne praksis at vedtak som
+hovedregel bør undertegnes med navn, se tidligere redegjørelse i punkt 4.2.4 og 5.2.2. Utvalget
+foreslår derfor at skriftlige vedtak som ansatte i
+politiet og kriminalomsorgen treffer, skal være
+signert og opplyse om den ansattes navn, se forslaget til politiloven § 29 c og forslaget til straffegjennomføringsloven § 7 d.
+Etter utvalgets syn bør det likevel også for vedtak være en mulighet til å erstatte navn med den
+ansattes tjenestenummer dersom «tungtveiende
+grunner» taler for det. Vilkåret om tungtveiende
+grunner er, som tidligere nevnt, inspirert av Forvaltningslovutvalgets forslag til ny forvaltningslov
+§ 47. Terskelen for skjerming skal være høy, og
+skjerming bør bare kunne skje hvis det er grunn
+til å frykte at den ansatte eller dennes nærmeste
+vil utsettes for voldelige reaksjoner, trusler, grov
+sjikane eller utilbørlig press hvis navnet blir kjent.
+Det er ikke tilstrekkelig med en generell mulighet
+eller subjektiv frykt for dette – det kreves konkrete holdepunkter i den enkelte sak. Slike holdepunkter kan, som for rapporter og andre saksdokumenter omtalt i punkt 17.4.1.3 over, være
+omstendighetene i saken eller historikken til den
+eller de som vil få innsyn i dokumentet, for eksempel at vedkommende har fremsatt trusler i den
+aktuelle saken, at vedkommende tidligere er dømt
+for vold eller trusler mot offentlig tjenesteperson
+eller at vedkommende har tilknytning til organiserte kriminelle nettverk med voldspotensial.
+I tillegg til at det må foreligge tungtveiende
+grunner som taler for å utelate navn, mener utvalget at det bør presiseres i loven at utelatelse av
+
+[Side 169]
+
+NOU 2024: 5
+Maktens ansikt
+
+navn må anses «forsvarlig». Forsvarlighetsvurderingen innebærer at det må gjøres en vurdering av
+hensynet til åpenhet og etterprøvbarhet mot hensynet til de negative konsekvensene undertegning
+med navn vil kunne få for den ansatte. Begrensninger i en parts mulighet til kontradiksjon og å
+fremme inhabilitetsinnsigelser må dermed vurderes opp mot behovet for skjerming. Det skal imidlertid mer til for at det anses forsvarlig å erstatte
+navn med tjenestenummer i vedtak enn i rapporter og andre saksdokumenter. Dette har sammenheng med at vedtak er bestemmende for en parts
+rettsstilling. Hensynet til åpenhet, kontroll og
+rettssikkerhet gjør seg derfor gjeldende i større
+grad for vedtak enn for rapporter og andre saksdokumenter.
+Hensynet til åpenhet, kontroll og rettssikkerhet tilsier etter utvalgets oppfatning også at beslutningen om å erstatte navn med tjenestenummer,
+må treffes av den overordnede til den som har
+truffet vedtaket, se forslaget til politiloven § 29 c
+første ledd andre punktum og straffegjennomføringsloven § 7 d første ledd andre punktum. Dette
+vil sikre at vurderingen av om det foreligger tungtveiende grunner og anses forsvarlig å bruke tjenestenummer, gjøres på bakgrunn av en objektiv
+og saklig avveiing av de motstående interessene,
+herunder den enkelte ansattes sikkerhet og partens behov for kontradiksjon og kontroll. Som
+utvalget har påpekt i punkt 17.3, kan ikke hensynet til de ansattes opplevde sikkerhet i seg selv
+begrunne en utvidet adgang til identitetsskjerming. I tillegg vil en slik plassering av beslutningsmyndighet sørge for at den overordnede kan kontrollere habiliteten til den som har truffet vedtaket.
+Utvalget foreslår videre at dersom det besluttes bruk av tjenestenummer i stedet for navn, skal
+navnet på den overordnede som har besluttet
+bruk av tjenestenummer, fremgå av vedtaket, se
+forslaget til straffegjennomføringsloven § 7 d første ledd tredje punktum og forslaget til politiloven
+§ 29 c første ledd tredje punktum. Dette ble foreslått i merknadene til Forvaltningslovutvalgets
+forslag til ny forvaltningslov § 47, men utvalget
+mener det bør fremgå av selve lovteksten. Bruk av
+navnet til den overordnede vil bidra til å ansvarliggjøre vedkommende, både når det gjelder innholdet i vedtaket, og når det gjelder beslutningen om
+bruk av tjenestenummer. Utvalget mener at dette
+samlet sett vil være tilstrekkelig for å ivareta en
+parts rettssikkerhet og muligheten til å føre kontroll. Utvalget bemerker at angivelse av den overordnedes navn vil kunne forflytte trusselsituasjonen fra den enkelte ansatte til den overordende.
+
+167
+
+Kapittel 17
+
+Utvalget vurderer imidlertid at behovet for at én
+offentlig ansatt står ansvarlig for vedtaket utad,
+må veie tyngre. Dersom trusselen fremstår som
+svært alvorlig, bør det vurderes om forvaltningsorganets leder, som uansett vil være offentlig
+kjent, bør underskrive vedtaket.
+Også når det gjelder vedtak, skal begrunnelsen for beslutningen om å bruke tjenestenummer
+i stedet for navn og hvem som har truffet beslutningen, nedtegnes i et internt notat, og det må
+føres et register over hvem som har benyttet et
+bestemt tjenestenummer. Videre skal det også for
+vedtak være taushetsplikt om opplysninger som
+kan føre til at identiteten til en ansatt bak et tjenestenummer blir kjent. Utvalget viser til forslaget til
+politiloven § 29 c andre ledd og straffegjennomføringsloven § 7 d andre ledd og vurderingene i
+punkt 17.4.1.3.
+
+17.4.1.5 I rapporter og andre saksdokumenter
+i straffesak
+I likhet med rapporter og andre saksdokumenter
+som utarbeides utenfor straffesaker (se forslaget til
+politiloven § 29 b), mener utvalget at navnet til den
+som har skrevet en rapport eller et saksdokument i
+en straffesak som hovedregel bør fremgå av dokumentet, se forslaget til straffeprosessloven § 230 a
+og forslaget til endringer i påtaleinstruksen § 8-14.
+Etter utvalgets syn kan det imidlertid også i
+straffesaker oppstå behov for å skjerme identiteten til ansatte i politiet som skriver rapporter og
+andre saksdokumenter av hensyn til de ansattes
+og deres familiers liv og helse.
+Utvalget foreslår derfor at politimesteren eller
+visepolitimesteren kan beslutte bruk av tjenestenummer i stedet for navn i en sak, hvis tungtveiende grunner taler for det og det anses forsvarlig, se forslaget til ny § 230 a første ledd i straffeprosessloven.
+Vilkåret «tungtveiende grunner» skal forstås
+på samme måte som i utvalgets forslag til nye
+§§ 29 b og 29 c i politiloven. Dette innebærer at
+terskelen skal være høy, og at skjerming bare bør
+kunne skje hvis det er grunn til å frykte at den
+ansatte eller dennes nærmeste vil utsettes for voldelige reaksjoner, trusler, grov sjikane eller utilbørlig press hvis navnet blir kjent. Det er ikke tilstrekkelig med en generell mulighet eller subjektiv frykt for dette – det kreves konkrete holdepunkter i den enkelte sak. Dette vil for eksempel
+være tilfellet der det foreligger forhold ved mistenkte som gjør den ansatte eller vedkommendes
+familie særlig utsatt, som for eksempel at mistenkte har opptrådt truende i den konkrete saken,
+
+[Side 170]
+
+168
+
+Kapittel 17
+
+NOU 2024: 5
+Maktens ansikt
+
+er tilknyttet et kriminelt miljø med voldspotensial
+eller har en straffehistorikk som omfatter vold
+eller trusler mot offentlige tjenestepersoner.
+Skjerming etter straffeprosessloven § 230 a kan
+også begrunnes i polititaktiske hensyn, se omtalen av dette i punkt 17.4.2.
+I tillegg til at det må foreligge tungtveiende
+grunner som taler for å erstatte den politiansattes
+navn med tjenestenummer, mener utvalget at det
+bør presiseres i loven at bruk av tjenestenummer
+må anses «forsvarlig». Etterforsking av straffbare
+forhold kan innebære et sterkt inngrep i den enkeltes integritet og autonomi, og utløser derfor også
+visse menneskerettslige rettssikkerhetsgarantier
+som følger av Grunnloven § 95 og EMK artikkel 6,
+se tidligere vurderinger i punkt 3.5. Åpenhet, innsyn og mulighet til kontradiksjon er blant disse.
+Forsvarlighetsvurderingen legger dermed opp til
+en avveiing av hensynet til siktedes rett til rettferdig rettergang, åpenhet og kontradiksjon mot
+konsekvensene av at det gis innsyn i den ansattes
+navn. Det må foretas en vurdering av siktedes
+mulighet til å imøtegå anklagene mot seg, forberede sitt forsvar og belyse bevisene i saken. Vurderingen av om det er forsvarlig å erstatte navn med
+tjenestenummer, vil kunne være ulik i og utenfor
+straffesaker, og på forskjellige stadier i etterforskingen. Den vil også kunne variere avhengig av hva
+slags dokument det er tale om.
+Utvalget mener videre at hensynet til siktedes
+rettssikkerhet, tilsier at beslutning om bruk av
+tjenestenummer bør treffes av politimesteren
+eller visepolitimesteren, se forslaget til straffeprosessloven § 230 a første ledd andre punktum.
+Beslutningen om bruk av tjenestenummer vil
+gjelde for alle dokumenter som den ansatte utarbeider i den aktuelle saken.
+Muligheten til å føre kontroll og sikre etterprøvbarhet tilsier at begrunnelsen for beslutningen og hvem som har truffet den, nedtegnes i et
+internt notat, se forslaget til § 230 a andre ledd i
+straffeprosessloven. Notatet vil dessuten skape
+en større bevissthet rundt vurderingene som må
+foretas, og dermed sikre forsvarlige avgjørelser.
+Utvalget foreslår videre at det skal føres et register over hvem som har benyttet et bestemt tjenestenummer, se forslaget til straffeprosessloven
+§ 230 a tredje ledd. Formålet med registeret er å
+sikre notoritet og muliggjøre intern kontroll over
+bruken av tjenestenummer. Det må dessuten sørges for utskifting av tjenestenummer dersom
+identiteten bak et bestemt nummer har blitt
+eksponert. Den praktiske gjennomføringen av
+dette vil ligge til den som er ansvarlig for registerføringen.
+
+I tillegg til adgangen til å skjerme identitet i
+en bestemt sak etter straffeprosessloven § 230 a,
+vil politiansattes identitet kunne skjermes av hensyn til liv og helse i medhold av forslaget til ny
+§ 29 b tredje ledd i politiloven, slik denne er
+omtalt i punkt 17.4.1.3. Forslaget gir Kongen
+adgang til å vedta regler om bruk av tjenestenummer i stedet for navn dersom det er påkrevd av
+blant annet hensynet til de politiansattes sikkerhet. Skjerming etter disse reglene vil også gjelde
+i etterforskingen av straffesaker. Etter utvalget
+syn kan hensynet til politiansattes sikkerhet tilsi
+at personer i enheter som regelmessig arbeider
+med miljøer som anses å utgjøre en konstant
+risiko for de ansattes eller deres nærmestes liv og
+helse, gis adgang til å identifisere seg med
+tjenestenummer. Dette vil for eksempel kunne
+være tilfelle for enheter som driver etterforsking
+knyttet til organiserte kriminelle miljøer med
+voldspotensial. Adgangen er imidlertid ikke
+begrenset til personer eller enheter som jobber
+med organisert kriminalitet, også andre former
+for kriminalitet kan innebære slik konstant risiko.
+Det kreves imidlertid at skjerming skal være
+«påkrevd» av hensyn til den politiansattes sikkerhet. Dette innebærer at det ikke kan finnes andre
+effektive måter å ivareta sikkerheten på. Terskelen for bruk av tjenestenummer etter denne
+bestemmelsen er dermed høyere enn terskelen
+for å beslutte bruk av tjenestenummer i en konkret sak etter ny § 230 a første ledd andre punktum i straffeprosessloven. Behovet for skjerming
+må vurderes ut fra risikoen ved arbeidet, og kan
+være kortvarig eller langvarig. Det må imidlertid
+gå utover behovet for vern i en enkelt sak. I slike
+tilfeller må skjermingsadgangen søkes i straffeprosessloven § 230 a. For nærmere vurdering av
+behovet for en slik hjemmel og vilkåret om at det
+må være påkrevd, vises det til vurderingene i
+punkt 17.4.2.
+Utvalget foreslår også at påtaleinstruksen
+§ 8-14 andre ledd skal gi adgang til bruk av tjenestenummer for den som utarbeider rapport om
+avhør av mistenkte og vitner hvis det er besluttet
+bruk av tjenestenummer i medhold av forslaget til
+ny § 230 a i straffeprosessloven eller § 29 b i politiloven. En slik adgang vil sørge for en systematisk
+og enhetlig regulering, som sikrer at den politiansatte kan skjermes på alle stadier i etterforskingen dersom vilkårene for dette er oppfylt.
+
+17.4.1.6 I politiavhør
+For å sikre at den ansattes skjermingsbehov blir
+ivaretatt på alle stadier i etterforskingen, foreslår
+
+[Side 171]
+
+NOU 2024: 5
+Maktens ansikt
+
+utvalget at retten, etter begjæring fra politimesteren ved kjennelse, kan bestemme anonym vitneførsel ved politiavhør av en ansatt i politiet eller
+kriminalomsorgen hvis tungtveiende grunner
+taler for det og det anses forsvarlig, se forslaget til
+straffeprosessloven § 234 a andre ledd.
+Etter utvalgets syn bør adgangen til skjerming ikke avhenge av om en ansatt i politiet eller
+kriminalomsorgen skriver en rapport som inngår
+i en straffesak eller blir avhørt i et politiavhør.
+For å sikre en enhetlig og systematisk regulering
+av bruk av tjenestenummer under hele etterforskingen bør terskelen for anonymt politiavhør
+derfor være den samme som for bruk av tjenestenummer i rapporter og saksdokumenter, se
+nærmere vurderinger i punkt 17.4.1.5
+For ansatte som ikke tidligere har utarbeidet
+en rapport eller andre saksdokumenter, men som
+innkalles til politiavhør, vil bestemmelsen gi
+adgang til skjerming på samme vilkår som for
+ansatte som har brukt tjenestenummer i rapporter
+eller andre saksdokumenter. For ansatte som tidligere har brukt tjenestenummer i rapporter eller
+andre saksdokumenter (i medhold av forslaget til
+straffeprosessloven § 230 a, politiloven § 29 b første ledd og tredje ledd, og straffegjennomføringsloven § 7 c andre ledd), vil bestemmelsen sikre at
+mistenkte ikke kan få kjennskap til identiteten til
+de ansatte ved å begjære politiavhør av dem.
+Utvalget foreslår at anonymt politiavhør av
+ansatte i politiet og kriminalomsorgen, på samme
+måte som anonym vitneførsel for politiet etter
+straffeprosessloven § 234 a første ledd, skal
+bestemmes av retten ved kjennelse etter begjæring fra politimesteren. Dette gir mulighet til å få
+rettslig prøving av om vilkårene for skjerming av
+identitet er oppfylt.
+Utvalget foreslår dessuten at det innføres et
+nytt alternativ til hva anonym vitneførsel kan gå ut
+på, nemlig at ansatte i politiet og kriminalomsorgen kan oppgi tjenestenummer i stedet for
+navn, se utvalgets forslag til straffeprosessloven
+§ 234 a tredje ledd bokstav c. Utvalget mener
+dette vil gi en systematisk og helhetlig regulering
+av bruk av tjenestenummer, i tillegg til at bruk av
+tjenestenummer synliggjøres som et mindre inngripende alternativ til at det ikke opplyses om
+navn.
+
+17.4.1.7 Innsyn under etterforsking
+Dersom det er besluttet bruk av tjenestenummer i
+rapporter og andre skriftlige dokumenter i medhold av forslaget til ny § 230 a i straffeprosessloven eller § 29 b tredje ledd i politiloven, må også
+
+169
+
+Kapittel 17
+
+adgangen til innsyn i den ansattes navn kunne
+begrenses under hele etterforskingen.
+Muligheten til å bruke tjenestenummer, enten i
+medhold av en beslutning truffet av politimesteren
+eller visepolitimesteren (i forslaget til straffeprosessloven § 230 a) eller i medhold av reglene
+fastsatt av Kongen (i forslaget til politiloven § 29 b
+tredje ledd), vil uthules dersom mistenkte, forsvareren, fornærmede, etterlatte eller bistandsadvokaten vil kunne begjære innsyn i den ansattes
+navn under etterforskingen. For å sørge for en systematisk og enhetlig regulering foreslår utvalget
+derfor at det ikke skal gis innsyn i opplysninger
+som kan føre til at identiteten til den ansatte blir
+kjent, hvis det er brukt tjenestenummer i medhold
+av straffeprosessloven § 230 a eller politiloven
+§ 29 b, se forslaget til endring av straffeprosessloven § 242 første ledd nytt andre punktum.
+I motsetning til de øvrige unntaksreglene i
+straffeprosessloven § 242 innebærer utvalgets forslag at påtalemyndigheten ikke skal foreta en selvstendig vurdering av om det er grunnlag for å
+nekte innsyn i den ansattes navn. Det er politimesterens eller visepolitimesterens beslutning,
+eller regler fastsatt av Kongen i medhold av forslaget til politiloven § 29 b tredje ledd, som skal være
+førende for om det skal gis innsyn. Det er også
+disse som skal vurdere om vilkårene for bruk av
+tjenestenummer fortsatt er oppfylt på tidspunktet
+for innsynsbegjæringen.
+Utvalget bemerker imidlertid at beslutningen
+om å avslå innsyn i medhold av forslaget til endring av straffeprosessloven § 242 første ledd
+andre punktum, kan overprøves av retten ved
+kjennelse, se straffeprosessloven § 242 fjerde
+ledd. Dermed vil retten kunne overprøve om vilkårene for å bruke tjenestenummer i medhold av
+ny § 230 a i straffeprosessloven eller § 29 b i politiloven er oppfylt.
+I tillegg antar utvalget at det må bero på en feil
+at straffeprosessloven § 242 tredje ledd ikke gjør
+unntak for etterlatte i lovbestemt rekkefølge.
+Utvalget foreslår derfor at heller ikke etterlatte i
+lovbestemt rekkefølge kan få innsyn i opplysninger som kan føre til at vitnets identitet blir
+kjent dersom det er begjært anonym vitneførsel
+etter straffeprosessloven §§ 130 a eller 234 a, se
+forslaget til straffeprosessloven § 242 tredje ledd
+første punktum. Dette vil sikre at det ikke gis innsyn i opplysninger som kan føre til at identiteten
+til ansatte i politiet og kriminalomsorgen som forklarer seg anonymt i medhold av straffeprosessloven §§ 130 a eller 234 a blir kjent, men forslaget
+til endring av straffeprosessloven § 130 a vil også
+gjelde for andre anonyme vitner.
+
+[Side 172]
+
+170
+
+Kapittel 17
+
+NOU 2024: 5
+Maktens ansikt
+
+17.4.1.8 Innsyn ved tiltale
+Når tiltale er tatt ut, er hovedregelen at påtalemyndigheten snarest mulig skal sende forsvareren
+sakens dokumenter og materiale som er oversendt
+retten etter § 262, se straffeprosessloven § 264. For
+å sikre en helhetlig og systematisk regulering av
+bruk av tjenestenummer i en straffesak foreslår
+utvalget at hvis det er besluttet bruk av tjenestenummer etter forslaget til straffeprosessloven
+§ 230 a eller politiloven § 29 b tredje ledd, skal verken forsvareren eller tiltalte gis innsyn i opplysninger som kan føre til at identiteten til den ansatte
+blir kjent med mindre vilkårene for bruk av tjenestenummer ikke lenger er oppfylt, se forslaget til
+straffeprosessloven § 264 sjette ledd siste punktum.
+Denne begrensningen gjelder tilsvarende for en tiltalt som ikke har forsvarer, se straffeprosessloven
+§ 267 første ledd siste punktum.
+Utvalget foreslår i tillegg enkelte begrensninger i fornærmede og etterlattes rett til innsyn
+når det er tatt ut tiltale. På samme måte som for
+forsvareren og tiltalte, foreslås det at fornærmede
+og etterlatte ikke gis rett til innsyn i opplysninger
+som kan føre til at identiteten til ansatte som er
+besluttet identifisert med tjenestenummer etter
+straffeprosessloven § 230 a eller politiloven § 29 b
+tredje ledd, blir kjent, se forslaget til straffeprosessloven § 264 a fjerde ledd.
+I tillegg foreslås det inntatt i straffeprosessloven
+§ 264 a nytt femte ledd at fornærmede og etterlatte
+heller ikke har rett til innsyn i opplysninger som
+kan føre til at anonyme vitner blir kjent. Tiltalte har
+krav på innsyn i opplysninger om et vitnes identitet,
+herunder opplysninger om identiteten til ansatte i
+politiet og kriminalomsorgen som vitner, med mindre det er begjært anonym vitneførsel etter straffeprosessloven §§ 130 a eller 234 a, se straffeprosessloven § 264 femte ledd. En tilsvarende begrensning gjelder i dag ikke for fornærmede eller etterlatte i lovbestemt rekkefølge, se straffeprosessloven § 264 a. Utvalget antar at det må bero på en feil
+at bestemmelsen ikke ble justert ved lovendringen
+7. mars 2008, og foreslår derfor at fornærmede
+eller etterlatte i lovbestemt rekkefølge, heller ikke
+kan få innsyn i opplysninger som gjør at vitnets
+identitet blir kjent, dersom det er begjært anonym
+vitneførsel etter straffeprosessloven §§ 130 a eller
+234 a, se forslaget til straffeprosessloven § 264 a
+femte ledd.
+17.4.1.9 I retten
+For å bedre muligheten til å skjerme identiteten til
+ansatte i politiet og kriminalomsorgen ved irettefø-
+
+ringen av straffesaker foreslår utvalget at adgangen
+til anonym vitneførsel utvides noe, se forslaget til
+endringer i straffeprosessloven § 130 a. Slik
+bestemmelsen lyder i dag er det bare adgang til
+anonym vitneførsel i meget alvorlige straffesaker.
+Bakgrunnen for innføringen av adgang til anonym
+vitneførsel i 2000 var at man opplevde at alvorlige
+trusler mot vitner og andre aktører, medførte problemer med å iretteføre enkelte saker.10 Ifølge
+aktørene utvalget har møtt, er bestemmelsen lite
+brukt.11 Dette kan blant annet skyldes de strenge
+vilkårene for anonym vitneførsel.
+Det primære formålet med anonym vitneførsel
+er å beskytte vitner. Fokuset bør derfor ligge på
+hvilken fare et vitne utsettes for, uavhengig av hvilket straffbart forhold det er tale om å iretteføre.
+Faren ved at vitnet utsettes for et alvorlig lovbrudd
+som krenker liv, helse eller frihet, er like alvorlig
+enten tiltalen gjelder promillekjøring, som i dag
+ikke er omfattet av straffeprosessloven § 130 a,
+eller drap, som i dag er opplistet i bestemmelsen.
+Til sammenligning er ikke straffeloven § 157 om
+motarbeiding av rettsvesenet begrenset til vold
+eller trusler som fremsettes i anledning alvorlige
+straffesaker. Det bør ikke være slik at påtalemyndigheten kan tvinges til å henlegge mindre alvorlige saker ved at det fremsettes trusler mot vitner.
+Utvelgelsen av straffebestemmelser som er
+inntatt i straffeprosessloven § 130 a, kan dessuten
+fremstå som tilfeldig. Mishandling i nære relasjoner (straffeloven § 282) er for eksempel ikke
+omfattet. Ved mishandling i nære relasjoner vil
+som regel tiltalte kjenne vitnenes identitet, da de
+som er utsatt for mishandlingen gjerne føres som
+vitner. Men også naboer, bekjente eller andre kan
+være aktuelle vitner i disse sakene, og vil kunne
+utsettes for vold eller trusler av tiltalte eller andre
+som har tilknytning til tiltalte. Forslaget om anonym vitneførsel som nylig er fremlagt i Sverige,
+har ingen oppregning av straffebestemmelser,
+men knytter seg til iretteføring av handlinger som
+kan medføre minst to års fengsel.12 Eventuelle
+begrensninger i bruken av anonym vitneførsel bør
+derfor skje gjennom anvendelse av de øvrige vilkårene i bestemmelsen. På denne bakgrunn har
+utvalget kommet til at oppregning av overtredelse
+av straffebestemmelser hvor anonym vitneførsel
+kan tillates, bør utgå. Det må i stedet fokuseres på
+de potensielle skadevirkningene for vitner.
+
+10
+11
+12
+
+Ot.prp. nr. 40 (1999–2000) s. 14–15.
+Også Metodekontrollutvalgets undersøkelser tydet på
+dette, jf. NOU 2009: 15 s. 327–328.
+SOU 2023: 67.
+
+[Side 173]
+
+NOU 2024: 5
+Maktens ansikt
+
+Utvalget foreslår også å erstatte vilkåret «kan
+være fare» med «grunn til å frykte» for at vitnet
+utsettes for et lovbrudd som krenker vedkommendes eller en nærståendes liv, helse eller frihet.
+Det någjeldende vilkåret «kan være fare» krever
+at det foreligger objektive holdepunkter for at en
+alvorlig forbrytelse kan skje mot vitnet eller noen
+som står vedkommende nær.13 Hvor stor risikoen
+for å bli utsatt for et alvorlig lovbrudd må være, er
+relativ til hvor alvorlig lovbrudd det er fare for.14
+Ved å endre bestemmelsen slik at det blir tilstrekkelig at det er grunn til å frykte et alvorlig lovbrudd som krenker livet, helsen eller friheten til
+vitnet eller en nærstående, vil utvalget senke terskelen noe, slik at bestemmelsen i større grad kan
+tas i bruk som ledd i skjerming av ansatte i politiet
+og kriminalomsorgen. Hensynet til å skjerme og
+beskytte vitner tilsier at terskelen ikke settes
+høyt. De øvrige vilkårene for bruk av anonym
+vitneførsel er mer egnet til å begrense bruken
+fremfor at det opereres med en høyere terskel for
+hvilken risiko vitnene utsettes for.
+I dag kreves det fare for at vitnet utsettes for et
+alvorlig lovbrudd. Utvalget har vurdert om «alvorlig» bør fjernes, men har landet på at vilkåret bør
+beholdes. Uttrykket må ses i en kontekst. Det
+oppstilles ikke krav om at vitnet skal bli utsatt for
+handlinger som rammes av alvorlige straffebestemmelser som straffeloven §§ 272, 273, 274
+eller 275. Det vil alltid være alvorlig når det er
+grunn til å frykte at et vitne vil utsettes for trusler,
+fysisk gjengjeldelse eller lignende. Men også for
+eksempel hensynsløs atferd overfor et vitne kan
+kvalifisere for at vilkårene for anonym vitneførsel
+er oppfylt, jf. straffeloven §§ 266 flg. Mer subtile
+trusler i form av for eksempel blomster på døren,
+at biler med tilknytning til den mistenkte kjører i
+nabolaget, eller at vitnet fotfølges, vil også kunne
+gi grunnlag for å iverksette anonym vitneførsel.
+Når det foreslås å fjerne henvisningene til konkrete straffebestemmelser, gir bestemmelsen slik
+den lyder i dag liten mening. Det er derfor foreslått en generell utforming av bokstav b, samtidig
+som det også åpnes for en videre adgang til å
+skjerme identitet ut fra politiets forebyggende
+eller operative virksomhet.
+Utvalget foreslår dessuten at det innføres et
+nytt alternativ til hva anonym vitneførsel kan gå ut
+på, ved at det inntas en mulighet for at ansatte i
+politiet og kriminalomsorgen kan oppgi tjenestenummer i stedet for navn, se utvalgets forslag til
+straffeprosessloven § 130 a tredje ledd bokstav c.
+13
+14
+
+Ot.prp. nr. 40 (1999–2000) s. 113.
+Ot.prp. nr. 40 (1999–2000) s. 113–114.
+
+171
+
+Kapittel 17
+
+Utvalget mener dette vil gi en systematisk og helhetlig regulering av bruk av tjenestenummer, i tillegg til at bruk av tjenestenummer synliggjøres
+som et mindre inngripende alternativ til at det
+ikke opplyses om navn. Dette alternativet vil
+kunne brukes i kombinasjon med ett eller flere av
+de øvrige alternativene. Det vil særlig være aktuelt å kombinere bruk av tjenestenummer med
+fysiske eller tekniske tiltak for å holde vitnets
+identitet hemmelig. Videooverføring av vitneforklaringer, i kombinasjon med digitale anonymiseringsverktøy, vil i dag kunne bidra til å gjøre
+anonym vitneførsel mer praktikabelt.
+For øvrig foreslås det ingen endringer i
+bestemmelsen.
+Utvalget legger til grunn at endringene av straffeprosessloven § 130 a ikke i seg selv medfører at
+bestemmelsen er i strid med retten til rettferdig rettergang, jf. Grunnloven § 95 og EMK artikkel 6.
+Bestemmelsen må imidlertid anvendes innenfor de
+rammer som EMD har trukket opp i rettspraksis,
+se tidligere redegjørelse i punkt 3.5. Bruken av anonyme vitner må derfor veies opp av tilstrekkelige
+«counterbalancing factors» som kompenserer forsvaret for de ulempene det påføres ved at vitnet
+føres anonymt. Om dette er tilfellet, beror på en
+helhetsvurdering, hvor relevante momenter er i
+hvilken grad en domfellelse vil bygge på forklaringen fra det anonyme vitnet, om det foreligger andre
+bevis, hvilke konkrete «counterbalancing factors»
+som har blitt iverksatt og forsvarets mulighet til å
+imøtegå vitnets troverdighet og pålitelighet. Desto
+viktigere vitnet er, desto mer tungtveiende «counterbalancing factors» må foreligge for at rettssaken
+som helhet kan anses «rettferdig».
+
+17.4.1.10 Adgang til å innstille forfølgningen
+Etter straffeprosessloven § 72 andre punktum
+har påtalemyndigheten adgang til å innstille
+straffeforfølgningen selv om det er falt dom i første instans, der det foreligger en rettskraftig
+avgjørelse om ikke å ta til følge påtalemyndighetens begjæring om unntak fra dokumentinnsyn
+etter §§ 242 a, 264 sjette ledd, 267 første ledd
+tredje punktum, jf. § 264 sjette ledd, eller begjæring om bevisavskjæring etter straffeprosessloven § 292 a. I slike situasjoner vil påtalemyndigheten kunne velge mellom å gi mistekte innsyn i
+de opplysningene som er begjært unntatt innsyn
+eller nektet ført som bevis, eller å innstille forfølgningen. Der påtalemyndigheten mener at
+innsyn i de aktuelle opplysningene vil utsette
+noen for stor fare, skade politiets etterforskingskapasitet eller samarbeid med andre
+
+[Side 174]
+
+172
+
+Kapittel 17
+
+NOU 2024: 5
+Maktens ansikt
+
+lands myndigheter, selv om domstolen ikke er
+enig, vil den dermed kunne avslutte saken.
+Etter utvalgets syn bør påtalemyndigheten ha
+tilsvarende mulighet dersom en begjæring om
+anonym vitneførsel ikke tas til følge etter straffeprosessloven §§ 130 a eller 234 a, se forslaget til
+endringer i straffeprosessloven § 72 andre punktum.
+Avslår retten en begjæring om anonym vitneførsel, følger det av straffeprosessloven §§ 130 a
+fjerde ledd og 264 femte ledd at det ikke skal gis
+opplysning om vitnets navn med mindre det er
+klart at påtalemyndigheten likevel vil føre vitnet
+under full identitet. Dette vil imidlertid ikke være
+mulig når det er forsvareren som har begjært vitnet ført. Dersom forsvareren ønsker et vitne ført,
+påtalemyndigheten ber om at vitnet får forklare
+seg anonymt, og retten ikke tar begjæringen til
+følge, bør påtalemyndigheten etter utvalgets syn
+ha mulighet til å innstille forfølgningen etter § 72,
+se forslaget til endringer i straffeprosessloven
+§ 72 andre punktum.
+
+17.4.1.11 Etter avsluttet straffesak
+For at identiteten til ansatte i politiet og kriminalomsorgen skal kunne holdes skjermet på alle stadier i en staffesak der det er et begrunnet behov
+for det, foreslår utvalget å tilføye et nytt sjette
+punktum i straffeprosessloven § 28 fjerde ledd.
+På samme måte som det ikke kan gis utskrift av
+dokumenter som inneholder opplysninger som kan
+føre til at identiteten til vitner som har forklart seg
+anonymt, jf. straffeprosessloven §§ 130 a eller 234
+a, blir kjent, foreslår utvalget at en tilsvarende
+begrensning skal gjelde for identitetsopplysninger
+om en ansatt som har brukt tjenestenummer i medhold av forslaget til straffeprosessloven § 230 a
+eller politiloven § 29 b tredje ledd. Bestemmelsen
+skal sikre at identiteten til den ansatte kan holdes
+skjermet også etter at straffesaken er avsluttet.
+17.4.2 Skjerming av polititaktiske hensyn
+Etter utvalgets syn kan også andre hensyn enn liv
+og helse tilsi skjerming av ansattes identitetsopplysninger. Som redegjort for i punkt 16.7, kan
+hensynet til politiets bruk av skjulte metoder tilsi at
+enkelte opplysninger om hvordan metodene brukes, skjermes. Hvis kriminelle miljøer får detaljert
+kunnskap om hvordan metodene brukes, vil de
+kunne tilpasse atferden sin slik at metodene blir
+mindre effektive. Hensynet til effektivitet og metodevern kan også tilsi at navn og andre identitetsopplysninger knyttet til de politiansatte som er
+
+involvert i bruken av metodene, holdes skjult. Det
+gjelder særlig spanere og undercover-agenter, som
+i mange tilfeller ikke vil kunne fortsette i disse rollene dersom deres identitet blir offentlig kjent. Det
+kan også gjelde informantbehandlere og personer
+som er ansvarlige for å montere eller betjene teknisk utstyr som brukes til ulike typer informasjonsinnhenting, ettersom de vil kunne ha behov for å
+opptre i det offentlige rom uten å bli gjenkjent.
+Også i andre deler av politiet kan ansatte ha behov
+for å skjerme identiteten sin, slik som for eksempel
+ansatte i Beredskapstroppen som kan ha oppdrag
+der de må tilnærme seg objekter i hemmelighet
+eller uten å pådra seg oppmerksomhet.
+Behovet for at slike fremgangsmåter og metoder skal kunne brukes effektivt, tilsier, etter utvalgets syn, at personer som er involvert i denne
+typen politiarbeid gis mulighet til å skjerme identiteten sin.
+Etter det utvalget har fått opplyst, praktiseres
+det allerede i dag skjerming av identiteten til særskilte grupper ansatte av hensyn til de ansattes
+sikkerhet, politiets operative virksomhet og politiets metodebruk. Dette gjøres på ulike måter, for
+eksempel ved at det benyttes et midlertidig tjenestenummer, eller ved at den ansattes overordnede
+underskriver rapporter og/eller møter i retten, se
+tidligere redegjørelse i punkt 4.3.2 og 4.3.6. Praksisen er imidlertid varierende og avhenger av den
+enkelte ansattes leders vurdering av behovet for
+skjerming. Dette underbygger, slik utvalget ser
+det, behovet for en enhetlig regulering av adgangen til skjerming på dette grunnlaget. Bruk av tjenestenummer eller annen form for skjerming uten
+et rettslig grunnlag og uten at det er satt i system,
+kan svekke hensynene til rettssikkerhet og kontroll, slik disse er beskrevet i punkt 16.3 og 16.4.
+At andre enn de som har vært involvert i en hendelse utarbeider eller undertegner rapporter og
+avgir forklaring i retten, kan svekke hensynet til
+sakens opplysning. Etter utvalgets syn er det
+avgjørende at systemet for skjerming av identitet
+fungerer så godt at de ansatte som faktisk har
+vært involvert i en hendelse eller sitter med relevant informasjon om en sak, selv kan skrive og
+undertegne rapporter og avgi forklaring i retten.
+Utvalgets forslag til bruk av tjenestenummer
+når tungtveiende grunner foreligger og det anses
+forsvarlig i rapporter og andre saksdokumenter i
+straffesaker, vil, i tillegg til å gi adgang til identitetsskjerming av sikkerhetshensyn, åpne for skjerming
+av hensyn til politimetoders effektivitet og politiets
+operative virksomhet i bestemte saker, se forslaget
+til § 230 a første ledd andre punktum i straffeprosessloven og tidligere redegjørelse i punkt
+
+[Side 175]
+
+NOU 2024: 5
+Maktens ansikt
+
+17.4.1.5. Det kan for eksempel foreligge «tungtveiende grunner» dersom en politiansatt, som ikke
+regelmessig deltar i skjult etterforsking eller operativ virksomhet der det er behov for å opptre skjult,
+og dermed ikke er gitt generell adgang til å benytte
+tjenestenummer i medhold av politiloven § 29 b
+tredje ledd (omtalt nærmere nedenfor), likevel deltar i slik virksomhet og derfor har behov for skjerming i en bestemt sak. Det kan også være tilfellet
+dersom utenlandske tjenestepersoner opptrer på
+vegne av norsk politi i enkeltsaker.
+Utvalgets forslag til ny straffeprosesslov § 230
+a første ledd andre punktum krever at det gjøres
+en konkret vurdering av behovet for skjerming i
+den enkelte sak. Behovet for skjerming av polititaktiske hensyn, herunder hensynet til politimetoders effektivitet og politiets operative virksomhet
+og sikkerhet, vil imidlertid for noen ansatte være
+generelt, så lenge de ansatte utøver virksomheten
+som gir opphav til skjermingsbehovet. Dette tilsier at det også bør gis en generell adgang til å
+erstatte navn med tjenestenummer i rapporter og
+andre saksdokumenter for ansatte når de utøver
+funksjoner med slikt skjermingsbehov. Utvalget
+foreslår derfor, som nevnt i punkt 17.4.1.3, at Kongen gis adgang til å gi regler om at særskilte
+ansatte kan benytte tjenestenummer på generelt
+grunnlag når det er påkrevd av hensyn til politiets
+sikkerhet, operative virksomhet eller metodebruk, se forslaget til politiloven § 29 b tredje ledd.
+Etter utvalgets syn kan hensynet til politiansattes sikkerhet tilsi at personer i enheter som
+regelmessig arbeider med miljøer som anses å
+utgjøre en konstant risiko for deres liv og helse,
+gis adgang til å identifisere seg med tjenestenummer, se tidligere redegjørelse i punkt 17.4.1.5.
+Hensynet til politiets metodebruk kan tilsi skjerming av identiteten til de som deltar i gjennomføringen av skjulte politimetoder, som for eksempel
+spanere og undercover-agenter, og ansatte som
+deltar i organiseringen av metodebruken, som for
+eksempel teknisk personell eller informantbehandlere og veiledere. Informasjon om hvem som
+står bak bruken av skjulte tvangsmidler, vil kunne
+hindre den ansattes fremtidige nytteverdi. Det vil
+også kunne svekke politiets etablerte rutiner eller
+fremgangsmåte, eller kreve at politiet må endre
+måten de opererer skjult på. Hensynet til politiets
+operative virksomhet vil kunne begrunne skjerming av ansatte som har særskilt kompetanse for
+å ivareta landets beredskap, slik som for eksempel
+personer som tjenestegjør i Beredskapstroppen.
+Ansatte med særskilt og kritisk kompetanse kan
+være av interesse for fiendtlig etterretning eller
+andre som ønsker å destabilisere særskilte politi-
+
+173
+
+Kapittel 17
+
+styrker. For å sikre at slike ansatte ikke blir kartlagt av personer med fiendtlige intensjoner, bør
+deres identitet kunne skjermes.
+At skjerming må være «påkrevd», innebærer
+at det ikke finnes andre effektive måter å ivareta
+de ansattes sikkerhet, politiets operative virksomhet eller politiets metodebruk på. Skjerming må
+være nødvendig for å ivareta de aktuelle hensynene, og mindre inngripende tiltak må fremstå
+som uegnede. Terskelen for å fastsette regler om
+generell bruk av tjenestenummer er dermed høyere enn terskelen for å beslutte bruk av tjenestenummer i et konkret dokument eller en konkret
+sak etter forslaget til ny § 29 b første ledd andre
+punktum i politiloven og ny § 230 a første ledd
+andre punktum i straffeprosessloven. Behovet for
+skjerming må vurderes ut fra den enkeltes
+arbeidssituasjon, og kan være kortvarig eller langvarig. Det må imidlertid gå utover behovet for
+vern i en enkelt sak. Det kreves ikke at offentlighet rundt identiteten til de ansatte faktisk har fått
+konsekvenser for metodebruken, sikkerheten
+eller den operative virksomheten, men at det må
+antas å ville skje hvis det ikke brukes tjenestenummer i stedet for navn.
+Utvalget mener videre at beslutningsmyndigheten etter politiloven § 29 b tredje ledd i utgangspunktet bør ligge hos Kongen, likevel slik at
+Kongen kan delegere kompetansen til departementet.15 Etter utvalgets oppfatning må reglene sørge
+for at den nødvendige notoriteten blir ivaretatt. Det
+må derfor gis utfyllende bestemmelser om etablering av register over de ansatte bak tjenestenumrene. Det må også fremgå hvilken funksjon de
+ansatte har og begrunnelsen for at det anses
+«påkrevd» å erstatte de ansattes navn med tjenestenummer av hensyn til sikkerhet, operativ virksomhet eller metodebruk. Det må dessuten sørges for
+bytte av tjenestenummer der identiteten bak et
+bestemt nummer har blitt eksponert. Utvalget
+mener videre at det bør gis nærmere regler om
+taushetsplikt og oppbevaring av opplysningene.
+Utvalgets forslag til ny § 29 b tredje ledd i
+politiloven og § 230 a første ledd andre punktum i
+straffeprosessloven innebærer at den mistenkte
+ikke vil ha rett til innsyn i identiteten til de ansatte
+som har brukt et tjenestenummer under etterforskingen, se utvalgets forslag til endring av
+straffeprosessloven § 242 første ledd. Heller ikke
+når tiltale er tatt ut, vil tiltalte (gjennom sin forsvarer) eller fornærmede kunne gjøre seg kjent med
+identiteten til den ansatte, se utvalgets forslag til
+endring i straffeprosessloven §§ 264 sjette ledd og
+15
+
+Justisdepartementets lovavdeling (2000) s. 127.

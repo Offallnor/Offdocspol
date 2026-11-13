@@ -1,0 +1,813 @@
+# NOU 2016: 24, del 9 av 73 (side 106–114)
+
+- Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/1182afc0-nou-2016-24.md
+- Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-24/id2517932/
+- Original-PDF: https://www.regjeringen.no/contentassets/6fe1d875248042b4a09b43b85aa46832/no/pdfs/nou201620160024000dddpdfs.pdf
+- Tekst: hentet fra PDF. OBS: 9 tabeller, 1 figur, 52 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+
+---
+
+[Side 106]
+
+104
+
+NOU 2016: 24
+
+Kapittel 3
+
+Ny straffeprosesslov
+
+slår at retten til innsyn i utgangspunktet skal omfatte alle opplysninger som fremkommer under etterforsking og iretteføring av saken. Det må som
+etter gjeldende rett trekkes en grense mot opplysninger som ikke omfattes av «saken». Blant annet
+kodifiserer utkastet gjeldende praksis om at informantopplysninger mv. som utgangspunkt faller
+utenfor saken og dermed innsynsretten.
+Utkastet regulerer retten til innsyn for de
+ulike aktørene i straffesaken og for allmennheten i separate bestemmelser. Som i dag foreslås
+unntakene fra innsyn knyttet til de ulike stadiene
+i saken. Det foreslås en bestemmelse som åpner
+for noe større tilgang til sakens opplysninger for
+pressen enn etter gjeldende lov. Allmennhetens
+rett til innsyn i lyd- og bildeopptak fra rettsmøter
+skal etter utvalgets forslag være mer begrenset
+enn retten til å gjøre seg kjent med andre opplysninger i straffesaker. For å redusere spredningsfaren går utvalget inn for at det bare unntaksvis
+skal gis tilgang til slike opptak utenfor domstolene.
+3.3.3
+
+Bevis (lovutkastet del 2)
+
+I kapittel 13 drøfter utvalget overordnede spørsmål om bevis (lovutkastet kapittel 7 til 12). Utvalget har både ved lovutkastets innretning og utformingen av bestemmelsene gitt bevisreglene en
+mer fremskutt plass enn i den gjeldende lov.
+Straffesaksbehandlingen består først og fremst i å
+innhente, behandle og vurdere bevis, og det er
+hensiktsmessig at de sentrale og overgripende
+reglene om denne kjerneoppgaven reguleres samlet tidlig i loven.
+Det foreslås flere viktige endringer i bevisreglene. Helt sentralt er det at utkastet i stor grad
+tar sikte på å regulere bevisspørsmål for samtlige
+aktører og alle stadier av saken gjennom generelle regler. Dette har pedagogiske, systematiske
+og rettstekniske fordeler, se nærmere punkt 13.2,
+13.3.3 og 13.3.5.
+Utvalget foreslår å kodifisere sentrale elementer i den alminnelige bevisretten i et eget kapittel,
+se lovutkastet kapittel 7 og drøftelsen i punkt 13.2.
+Utkastet har bestemmelser om behandlingen av
+bevis, herunder om forsvarlig avgjørelsesgrunnlag, kontradiksjon og bevishåndtering, og om
+prinsippet om fri bevisføring, rettens ansvar for
+saksopplysningen og bevisvurdering og beviskrav. Utvalget ser en pedagogisk gevinst i at loven
+gir uttrykk for slike regler fremfor – som i dag – i
+stor grad å ta dem for gitt.
+Utkastet har en uttrykkelig regulering av rettens plikt til å kontrollere at partenes bevisføring
+
+er relevant, og det innføres dessuten en adgang til
+å avskjære uforholdsmessig bevisføring. Irrelevant og uforholdsmessig bevisføring medfører at
+forhandlingene trekker ut uten at kvaliteten øker,
+og forslagene tar sikte på å legge bedre til rette for
+en konsentrert og effektiv straffesaksbehandling,
+se drøftelsen i punkt 13.2.5.1.
+På bakgrunn av påtalemyndighetens bevisbyrde og utvalgets syn på anklageprinsippet foreslås det at rettens ansvar for sakens opplysning, jf.
+straffeprosessloven § 294, bør presiseres slik at
+rettens rolle ikke skal være å utrede saken til mistenktes ugunst, se drøftelsen i punkt 13.2.5.2.
+Utvalgets forslag til regulering av beviskrav
+bygger på at faktiske forhold som skal ligge til
+grunn for en avgjørelse om straffansvar, må være
+bevist utover enhver rimelig tvil. Dette skal gjelde
+for samtlige ansvarsvilkår – også subjektiv skyld
+og tilregnelighet – og som et klart utgangspunkt
+også for momenter av betydning for straffutmålingen. Foreligger rimelig tvil, må det faktum som er
+det mest gunstige for mistenkte, legges til grunn,
+se drøftelsen i punkt 13.2.7.
+I lovutkastet kapittel 8 har bevisforbudene fått
+en ny innretning sammenlignet med gjeldende
+lov. Utvalget har lagt vekt på å utforme reglene i
+tråd med såkalte nøytralitetsprinsipper. Bevisforbudene i lovutkastet gjelder derfor i utgangspunktet uavhengig av sakens stadium, overfor enhver
+aktør, for ethvert bevismiddel og for enhver bruk
+av beviset, se drøftelsen i punkt 13.3.3. En slik
+regulering gjør reglene lettere tilgjengelig og
+begrenser behovet for gjentakelser, og bevisforbudene avklarer allerede ved sin ordlyd en del sentrale tolkningsspørsmål som dagens regler har
+gitt opphav til. Utvalget mener dessuten at nøytralt utformede bevisforbud, i den grad de medfører en justering av gjeldende rett, gir de underliggende hensyn et riktigere gjennomslag i straffesaksbehandlingen. Samtidig har utvalget drøftet
+rekkevidden av enkelte konkrete bevisforbud og
+videreført og utvidet enkelte unntak fra dem,
+blant annet i situasjoner der det er grunn til å tro
+at mistenkte vil bli uriktig domfelt eller straffet
+vesentlig strengere uten beviset.
+Lovutkastet kapittel 9 inneholder regler om
+forklaringsplikt og forklaringsfritak. Utkastet
+innebærer på dette punkt i hovedsak en videreføring av gjeldende rett, med enkelte justeringer.
+Pressen har en uunnværlig funksjon i et demokratisk samfunn, og vernet om den frie presse bør
+styrkes. Utvalget anbefaler derfor å utvide forklaringsfritaket for journalister slik at det ikke bare
+verner mot å oppgi en kildes identitet. Pressens
+fortrolige kommunikasjon med kilder, og innhol-
+
+[Side 107]
+
+105
+
+NOU 2016: 24
+Ny straffeprosesslov
+
+det i denne kommunikasjonen, bør vernes som
+sådan. Videre foreslår utvalget å begrense adgangen til å gjøre inngrep i pressens kildevern sammenlignet med gjeldende rett, se drøftelsen i
+punkt 13.4.3.
+I lovutkastet kapittel 10 har utvalget samlet
+en rekke reguleringer av vitnebeviset, herunder
+regler om innkalling av vitner og mistenkte til
+politiavhør og rettslige avhør, gjennomføringen
+av avhør, avhør av barn og sårbare personer, vitneførsel under hoved- og ankeforhandling, opptak av forklaringer og anonyme vitner. Den viktigste endringen gjelder adgang til bruk av lydog bildeopptak av forklaringer fra tingrettens
+behandling under ankeforhandlingen, jf. punkt
+3.3.1 og 3.3.7. Det foreslås at tilgjengelige opptak
+som regel skal spilles av for helt eller delvis å tre
+i stedet for muntlig avhør når hensynet til forsvarlig saksopplysning ikke taler mot det. Ordningen vil gjøre prosessen mer effektiv uten at
+rettssikkerheten blir skadelidende, se nærmere
+punkt 6.5.4. Utvalget foreslår også at lyd- og bildeopptak skal kunne benyttes i ankesilingsprosessen, se punkt 17.3.4 og 20.4.4, jf. også punkt
+3.3.9.
+Utvalgets generelle utgangspunkt er at mistenktes rett til kontradiksjon bør styrkes og forankres i vår egen lovgivning og tradisjon fremfor
+utelukkende å bero på minimumsrettigheter som
+følger av Den europeiske menneskerettskonvensjon, se drøftelsen i punkt 13.5.2. Utvalget ønsker
+å videreføre ordningen med tilrettelagte avhør i
+sine hovedtrekk, men den bør justeres noe både
+for at reguleringen skal bli mer tilgjengelig, og for
+å ivareta mistenktes rettigheter på en tilfredsstillende måte. Lovutkastet er innrettet slik at reguleringen ikke vil gå utover beskyttelsen av barns
+interesser under straffesaksbehandlingen, se
+punkt 13.5.3.
+Lovutkastet kapittel 11 inneholder regler om
+bruk av sakkyndige i straffesaker, se drøftelsen i
+punkt 13.6. Det er mange og ulike forhold som
+skal belyses i straffesaker, og det kan kreves særlig fagkyndighet å få saken fullgodt opplyst.
+«Sakkyndige» defineres i utkastet som personer
+med særlig kunnskap og erfaring, og det presiseres at kunnskapen skal være «etterprøvbar».
+Dette innebærer at sakkyndige etter loven kun
+skal uttale seg ut fra sine faglige forutsetninger.
+Med det imøtekommes en vesentlig kritikk mot
+sakkyndigbeviset om at sakkyndige også har vært
+gitt i mandat å ta stilling til om rettslige vilkår er
+oppfylt.
+For å bidra til å sikre kvaliteten på uttalelsene
+og tilliten til at sakkyndige uttalelser utelukkende
+
+Kapittel 3
+
+er faglig fundert, skjerpes kravet til uavhengighet
+for sakkyndige. Lovutkastet oppstiller formaliserte prosedyrer for å avklare på et tidlig tidspunkt om den sakkyndige har bindinger av betydning for sakkyndigoppdraget. Utvalget understreker betydningen av at det er bevissthet om utforming av mandat og den videre oppfølging av dette
+under sakens gang.
+Utvalget mener det er grunn til å videreføre
+ordningen med at Den rettsmedisinske kommisjon foretar kontroll av medisinske uttalelser på
+sentrale fagområder, og åpner dessuten for at det
+kan etableres kontrollordninger for andre typer
+sakkyndighet. Utvalget mener utgangspunktet
+fremdeles bør være at mistenkte med sin forsvarer forholder seg til den rettsoppnevnte, eventuelt
+påtaleantatte, sakkyndige og medvirker til at mandatet dekker de punkter forsvaret mener bør belyses. Samtidig mener utvalget at rettsoppnevnte og
+partsantatte sakkyndige i større grad enn i dag
+bør sidestilles, herunder må de privat antatte
+sakkyndige sikres gode arbeidsbetingelser i retten. Påtalemyndighetens bruk av sakkyndige
+tydeliggjøres og formaliseres.
+I punkt 13.7 behandles utvalgets forslag til
+regler om bevissikring i retten, som i det vesentlige viderefører den materielle adgangen til bevisopptak etter gjeldende rett, men i et eget kapittel.
+Bevisopptak med sikte på undersøkelse av ting og
+avhør av personer reguleres samlet, se lovutkastet
+kapittel 12.
+3.3.4
+
+Etterforsking og tvangstiltak
+(lovutkastet del 3)
+
+Kapittel 14 inneholder utvalgets drøftelser av
+reglene om etterforsking og tvangstiltak (lovutkastet kapittel 13 til 23).
+Etterforskingsreglene er ikke særskilt omtalt i
+mandatet, men utvalget foreslår klargjøring på
+flere punkter, herunder hva gjelder etterforskingsbegrepet, ansvarsforhold og vilkår for etterforsking.
+Hva gjelder tvangsmidlene, er utgangspunktet
+at utvalget står fritt til å foreslå endringer, men det
+er forutsatt i mandatet at reguleringen av slike
+inngrep i all hovedsak vil være tilfredsstillende
+etter de siste revisjonene av metodereglene, foretatt uavhengig av Straffeprosessutvalget. På
+denne bakgrunn har ikke utvalget foretatt en nærmere vurdering med tanke på mulige grunnleggende endringer i politiets metodetilgang, men
+enkelte tvangstiltak er behandlet noe mer utførlig.
+Dessuten foreslår utvalget betydelige omstruktureringer og forenkling av regelverket.
+
+[Side 108]
+
+106
+
+Kapittel 3
+
+NOU 2016: 24
+Ny straffeprosesslov
+
+I punkt 14.2 behandles alminnelige regler om
+etterforsking (lovutkastet kapittel 13). Utvalget
+har blant annet vurdert hva som bør være etterforskingsformål etter loven. I tråd med straffeprosessens formål bør utgangspunktet være at etterforskingen skal skaffe til veie opplysninger av betydning for å avgjøre spørsmålet om påtale, forberede
+rettens behandling av skyld- og reaksjonsspørsmål og sikre fullbyrding av straff og andre reaksjoner. Samtidig er det av ulike grunner ønskelig å
+videreføre adgangen til etterforsking også med
+andre formål, herunder med sikte på avverging av
+straffbare handlinger, opplysning av saker om tiltak overfor unge lovbrytere etter barnevernloven
+samt for å avklare hendelsesforløp og årsaksforhold ved brann, ulykker og dødsfall. I tillegg
+åpner utkastet for etterforsking i forsvinningssaker, uaktet om det er grunn til å anta at forsvinningen skyldes en straffbar handling.
+Utkastet viderefører «rimelig grunn» som
+overordnet kriterium for når etterforsking kan og
+skal iverksettes. For å klargjøre at det er tale om
+en skjønnsmessig vurdering og rammene for
+denne, foreslås det i utkastet en angivelse av
+enkelte sentrale momenter som særlig skal tas i
+betraktning. Momentene tar også sikte på å synliggjøre at kriteriet «rimelig grunn» gir rom for
+opportunitetsvurderinger. Se nærmere punkt
+14.2.3.
+Utkastet klargjør at det er påtalemyndigheten
+som har det overordnede ansvaret for etterforskingen. Samtidig presiseres det at ansvaret også
+innebærer en plikt til aktivt å lede etterforskingen
+slik at denne blir formålsrettet og slik at grunnleggende krav til gjennomføringen oppfylles. I tillegg
+til å videreføre gjeldende krav til objektivitet, hensynsfullhet og hurtighet er det i utkastet fremhevet at etterforskingen skal skje planmessig og konsentrert. Dessuten oppstilles et generelt og uttrykkelig krav om at etterforskingen skal dokumenteres, slik at notoritet sikres. Se punkt 14.2.4.
+Punkt 14.3 inneholder alminnelige motiver til
+reglene om tvangsmidler, som i lovforslaget betegnes «tvangstiltak» (lovutkastet kapittel 14 til 23).
+Utvalget foreslår en samlet regulering av
+grunnvilkår og fellesregler for alle tvangstiltak
+(lovutkastet kapittel 14). Dagens regler er preget
+av en rekke like eller lignende reguleringer for de
+ulike tvangsmidler, og det er et klart behov for å
+gjøre reglene mer oversiktlige og lettere tilgjengelige. En samlet regulering av grunnvilkår og fellesregler bidrar dessuten til å skape klarhet om
+utgangspunktene og behovet for unntak.
+Det fastsettes tre grunnvilkår som skal gjelde
+for tvangstiltak med mindre annet er bestemt. For
+
+det første foreslås «skjellig grunn» som alminnelig mistankekrav. For det andre foreslås det at
+mistanken som alminnelig regel må gjelde en
+«straffbar handling». Det innebærer at det ikke
+foreslås noe kvalifisert kriminalitetskrav, og at
+slike kvalifiseringer må angis i tilknytning til det
+enkelte tvangstiltak. For det tredje foreslås det
+som et grunnvilkår at inngrepet må være «nødvendig og forholdsmessig».
+Også adgangen til å benytte tvangstiltak i
+avvergende øyemed er regulert i kapitlet om
+grunnvilkår og fellesregler og angir tilpassede
+mistanke- og kriminalitetskrav for dette. Videre
+foreslås det fellesregler om beslutningsmyndighet, krav til påtalemyndighetens begjæringer og
+beslutninger, gjennomføring, taushetspålegg,
+varighet, rapport og underretning.
+I punkt 14.4 drøfter utvalget tvangstiltak som
+utgjør frihetsinnskrenkninger i form av meldeplikt, pågripelse og fengsling mv. (lovutkastet
+kapittel 15). Bruken av varetektsfengsling er viet
+særlig oppmerksomhet fordi frihetsberøvelse
+forut for dom er et alvorlig inngrep, og fordi fengslingspraksis over lang tid har vært kritisert fra
+både nasjonalt og internasjonal hold. Et hovedsiktemål med utvalgets forslag er å betone minsteinngrepsprinsippet i valget mellom ulike frihetsrestriksjoner, og forholdsmessighetsprinsippets
+betydning generelt og ved fengsling spesielt.
+Fengslingsvilkårene foreslås skjerpet på flere
+punkter. Fengsling begrunnet i unndragelsesfare
+og bevisforspillelsesfare kan etter utvalgets forslag bare besluttes når mistanken gjelder overtredelse av straffebud som etter loven kan medføre
+fengsel i 2 år eller mer. Fengsling kan bare skje
+når faren for bevisforspillelse utgjør en betydelig
+risiko for straffeforfølgningen. Fare for at mistenkte tilpasser sin egen forklaring, kan ikke tas i
+betraktning ved vurderingen. Videre foreslås det
+at bevisforspillelsesfare ikke skal kunne medføre
+fengsling i mer enn 3 måneder. Restriksjoner i
+form av at mistenkte helt nektes samvær med
+andre innsatte, foreslås begrenset til tilfeller der
+det er «av vesentlig betydning for etterforskingen», og kan etter utkastet ikke besluttes for lenger enn 2 uker av gangen og bare «unntaksvis»
+forlenges. For mistenkte under 18 år er isolasjon
+utelukket. Fengsling på grunn av fare for ny straffbar handling kan etter lovforslaget bare besluttes
+for å hindre at mistenkte på ny begår lovbrudd
+som utsetter noens liv, helse eller frihet for fare,
+eller ved gjentatte lovbrudd av samfunnsskadelig
+eller særlig plagsom art.
+Ordningen med kausjon og annen sikkerhetsstillelse foreslås videreført. Ønsket om å unngå
+
+[Side 109]
+
+107
+
+NOU 2016: 24
+Ny straffeprosesslov
+
+«klassejuss» er relevant, men kan etter utvalgets
+syn ikke gis gjennomslag overfor minsteinngrepsprinsippet i mulige tilfeller der sikkerhetsstillelse
+er tilstrekkelig for å ivareta hensynet til straffeforfølgningen. Det foreslås å gi påtalemyndigheten
+kompetanse til å beslutte at det skal gjøres avtale
+om sikkerhetsstillelse. Videre foreslås det å åpne
+for elektronisk kontroll som alternativ ikke minst
+til fengsling.
+I punkt 14.5 behandles reglene om personundersøkelse og psykiatrisk undersøkelse (lovutkastet kapittel 16). Utvalget foreslår å videreføre
+dagens ordning, men samler og forenkler en
+rekke reguleringer som i dag er spredt i loven.
+Utkastet bygger på at påtalemyndigheten skal
+kunne beslutte personundersøkelse i alle tilfeller,
+og utvalget anbefaler at Kriminalomsorgen utfører
+personundersøkelsen i alle saker.
+For psykiatriske undersøkelser har utvalget
+fulgt opp flere av Tilregnelighetsutvalgets anbefalinger i NOU 2014: 10, herunder forslaget om at
+det på dette fagområdet i alminnelighet skal oppnevnes to sakkyndige, hvorav én skal være godkjent som spesialist. Se ellers om de generelle
+reguleringene for bruk av sakkyndige i utkastet
+kapittel 11. Utvalget mener i lys av betydningen av
+slike undersøkelser at det i tillegg til for psykiatriske undersøkelser bør være hjemmel for å
+fremstille mistenkte til prejudisiell undersøkelse
+og personundersøkelse.
+I punkt 14.6 foreslår utvalget å samle reglene
+om kroppsundersøkelse og identifiseringstiltak i et
+eget kapittel (lovutkastet kapittel 17). Reguleringen viderefører i det vesentlige gjeldende rett.
+Utvalget mener imidlertid at det bør gis anledning
+til å innhente DNA uten at det først må etableres
+et sterkt mistankegrunnlag ved bruk av andre
+bevis.
+Punkt 14.7 inneholder utvalgets drøftelser av
+reglene om ransaking og undersøkelse av ting
+(lovutkastet kapittel 18). Gjeldende rett videreføres i det vesentlige, med visse justeringer og
+omstruktureringer, blant annet ved at slike nærmere undersøkelser av ting som i dag reguleres
+av reglene om gransking, reguleres i samme
+kapittel som søk etter ting ved ransaking. Ransaking rettet mot mistenkte og overfor tredjeperson
+er skilt ut i forskjellige paragrafer. Ransaking som
+griper inn i den indre sfære av privatlivet – i form
+av personransaking og ransaking av bolig mv. – er
+på sin side regulert i samme bestemmelse.
+Punkt 14.8 omhandler utvalgets forslag til
+regulering av beslag og utleveringspålegg (lovutkastet kapittel 19). Utvalgets forslag til utforming
+av lovens bevisforbud innebærer at behovet for
+
+Kapittel 3
+
+særskilt regulering av beslagsforbud bortfaller,
+se punkt 13.3.5, jf. 13.3.3 om de nøytralitetsprinsipper som ligger til grunn for lovutkastets bevisforbudsbestemmelser. Store beslag, ikke minst
+av digitalt lagret materiale, har tiltatt. Det innebærer i en del tilfeller praktiske utfordringer for
+rettslig kontroll med beslagsforbud. Utvalget
+vurderer enkelte prinsipielle sider ved spørsmålet og anbefaler at det gis nærmere regler i forskrift om hvordan sakene skal håndteres i praksis.
+Punkt 14.9 omhandler utvalgets forslag til
+regler om inngrep i kommunikasjon mv. (lovutkastet kapittel 20). Kapitlet viderefører i det vesentlige dagens regler om ulike former for kontroll
+med kommunikasjonsanlegg og kommunikasjonskontroll, romavlytting og dataavlesing.
+I punkt 14.10 redegjør utvalget for sine vurderinger knyttet til observerende, kontrollerende og
+påvirkende tiltak (lovutkastet kapittel 21). Forslaget omfatter lovfesting av metoder som i dag
+benyttes på ulovfestet grunnlag. Dette gjelder spaning, infiltrasjon og påvirkning av hendelsesforløp
+og bevisprovokasjon. Den menneskerettslige – og
+til dels nasjonale – utviklingen i retning av et skjerpet hjemmelskrav også på straffeprosessens
+område tilsier at disse metodene lovfestes, om
+enn ikke i detalj. Metodene foreslås regulert
+sammen med de allerede lovfestede metodene
+teknisk sporing, skjult kameraovervåking og
+avlytting og opptak av samtale med samtykke fra
+en samtalepart.
+Punkt 14.11 inneholder utvalgets alminnelige
+motiver til forslaget om inngrep i mistenktes formue (lovutkastet kapittel 22), som samler reglene
+om heftelse og båndlegging i ett kapittel.
+I punkt 14.12 behandles reguleringen av kontakt- og oppholdsforbud (lovutkastet kapittel 23).
+3.3.5
+
+Internasjonalt samarbeid
+(lovutkastet del 4)
+
+I kapittel 15 drøftes utvalgets forslag til en samlet
+regulering av ulike spørsmål om internasjonalt
+samarbeid i straffesaker (lovutkastet kapittel 24 til
+27). Samarbeid med utenlandske myndigheter
+har de senere år blitt en viktig og – på enkelte
+områder – ordinær del straffesaksbehandlingen.
+Utvalget mener dette bør reflekteres i en ny
+straffeprosesslov.
+Internasjonalt samarbeid i straffesaker er
+nokså fragmentarisk internrettslig regulert i gjeldende lover og forskrifter. Dessuten er Norge tilknyttet en rekke internasjonale avtaler om gjensidig hjelp og annet samarbeid i straffesaker, som
+
+[Side 110]
+
+108
+
+NOU 2016: 24
+
+Kapittel 3
+
+Ny straffeprosesslov
+
+også preger og kompliserer tilgjengeligheten av
+reglene på området. Det er således behov for en
+samling og omstrukturering av reglene for å gjøre
+disse tydeligere og lettere tilgjengelige. Etter
+utvalgets syn er det imidlertid i liten grad behov
+for regler om ytterligere samarbeidsmuligheter,
+ettersom dagens regler i betydelig grad åpner for
+samarbeid på tvers av landegrensene. Innholdsmessig svarer derfor utkastet i det vesentlige til
+gjeldende rett. I tillegg til gjensidig hjelp i straffesaker reguleres overføring av straffesaker samt
+mer spesielle regler om samarbeid om bording av
+fartøy og om særskilte operasjoner utenfor norsk
+territorialfarvann mv.
+Reglene om arrest, utlevering og overlevering
+av personer til straffeforfølgning eller straffullbyrding og overføring av domfelte personer har utvalget valgt å holde utenfor utkastet til ny straffeprosesslov, se punkt 15.3.1.
+3.3.6
+
+Påtalevedtak (lovutkastet del 5)
+
+I kapittel 16 behandles utvalgets forslag til regler
+om påtalevedtak (lovutkastet kapittel 28 og 29).
+Utkastet viderefører i stor grad gjeldende rett for
+så vidt gjelder de ulike typer påtalevedtak og vilkårene for disse.
+Utvalget foreslår å lovfeste en relativ frist for
+påtalevedtak, som svarer til kravet om avgjørelse
+innen rimelig tid, jf. Grunnloven § 95 og Den europeiske menneskerettskonvensjonen artikkel 6 nr.
+1. For å sikre mistenkte et effektivt rettsmiddel mot
+brudd på fristen, etablerer lovutkastet en ordning
+med domstolskontroll som innebærer at mistenkte
+etter 1 år og 6 måneder kan bringe spørsmålet om
+hvorvidt saken fremmes med tilstrekkelig hurtighet, inn for retten. Dersom retten finner at videre
+forfølgning – alle forhold tatt i betraktning – vil
+være urimelig, skal retten kunne fastsette en frist
+for avgjørelse av påtalespørsmålet. Fristen kan forlenges etter begjæring. Overholder ikke påtalemyndigheten fristen, skal forfølgningen anses innstilt, og videre forfølgning av samme forhold er
+avskåret. Ett utvalgsmedlem slutter seg ikke til forslaget om rettslig prøvingsadgang, se punkt 16.2.
+Som nevnt i punkt 3.3.2 bør det som utgangspunkt gjelde en sterk presumsjon for at straffbare
+handlinger skal forfølges. Samtidig må en
+erkjenne at en rekke ulike grunner kan medføre
+at forfølgning likevel ikke bør skje i det enkelte tilfellet. Opportunitetsprinsippet og de hensyn dette
+bygger på, innebærer etter utvalgets syn at påtalemyndigheten bør ha en relativt vid skjønnsmessig
+adgang til å vurdere hvorvidt forfølgning er hensiktsmessig.
+
+Reglene i gjeldende lov om påtaleunnlatelse
+foreslås videreført. Videre foreslås en generell
+adgang for påtalemyndigheten til å beslutte henleggelse i tilfeller der forfølgning ikke er i det offentliges interesse. Det fremgår klart av utkastet og
+merknadene at det er fraværet av offentlig straffeforfølgningsinteresse som må påvises. Lovutkastet angir dessuten typetilfeller som gir veiledning
+med hensyn til i hvilke situasjoner det kan være
+aktuelt å unnlate forfølgning, samt hvilke momenter påtalemyndigheten skal ta i betraktning. Det
+er således tale om en skjønnsmessig henleggelsesadgang underlagt klare føringer. Reguleringen
+innebærer også at påtalemyndigheten i noen
+utstrekning kan beslutte henleggelse av kapasitetsgrunner, herunder som ledd i nødvendige ressursprioriteringer.
+I punkt 16.8 drøftes utvalgets forslag til formalisering av den adgang påtalemyndigheten etter
+gjeldende rett har til å gi straffetilsagn, det vil si at
+påtalemyndigheten overfor mistenkte kan forplikte seg til å nedlegge en bestemt straffepåstand
+for domstolene. Etter utkastet skal det være et vilkår for å gi slike tilsagn at mistenkte tilstår eller
+gir andre opplysninger av betydning for egen sak.
+For å sikre mistenkte en viss forutberegnelighet
+foreslås det at retten bare skal kunne gå utover
+den påstand det er gitt tilsagn om dersom det
+«fremstår som klart at reaksjonsfastsettelsen
+ellers vil bli feil». Regelen er ikke til hinder for at
+retten korrigerer feil når den har tilstrekkelig
+grunnlag for det, men retten skal ta hensyn til at
+påtalemyndigheten ofte er nærmest til å vurdere
+betydningen av mistenktes samarbeid. Det foreslås ingen endringer i straffeloven § 78 bokstav f
+om strafferabatt ved tilståelse mv. Utvalget antar
+likevel at en formalisert straffetilsagnsordning i
+seg selv kan bidra til å øke antallet tilståelsessaker
+og mer generelt gi mistenkte oppfordring til å
+bidra med opplysninger som kan forenkle
+behandlingen.
+3.3.7
+
+Generelle regler om rettens
+saksbehandling og avgjørelser
+(lovutkastet del 6)
+
+I kapittel 17 behandles generelle regler om domstolsbehandlingen, herunder om saksstyring,
+forening og oppdeling, rettsmøter, rettens avgjørelser, fravær mv. (lovutkastet kapittel 30 til 33).
+Regler om rettsbøker, lyd- og bildeopptak av rettsforhandlingene og bruk av fjernmøte og fjernavhør foreslås samlet i domstolloven.
+Utvalget mener at retten generelt bør ha et
+overordnet ansvar for saksstyring, særlig med
+
+[Side 111]
+
+NOU 2016: 24
+Ny straffeprosesslov
+
+sikte på å oppnå en forsvarlig, konsentrert og
+effektiv behandling. Utvalget ser ingen prinsipielle grunner til at retten ikke skal ha en slik
+rolle, så lenge saksstyringen ikke skjer på en måte
+som er egnet til å svekke tilliten til rettens uavhengighet eller objektivitet. Som ledd i saksstyringen
+bør retten kunne oppfordre partene til å bidra
+med avklaringer, fastsette frister for partenes innlegg og treffe nødvendige avgjørelser. Utvalgets
+generelle overveielser om rettens ansvar for saksstyringen fremgår i punkt 17.1.3.
+Utkastet har regler om oppdeling av forhandlingene og avgjørelsen. Reglene viderefører i stor
+grad gjeldende rett, men gir samtidig en utvidet
+adgang for retten til å treffe avgjørelse om deler
+av skyldspørsmålet. Det åpnes også for anke over
+delavgjørelser, men bare med rettens samtykke,
+når det er hensiktsmessig av hensyn til den videre
+behandling av saken. Det antas at det særlig kan
+være aktuelt å benytte ankeadgangen i tilfeller der
+saken reiser vanskelige rettsspørsmål som det er
+hensiktsmessig å få avklart i høyere rettsinstanser
+før øvrige sider av saken behandles og avgjøres.
+Etter utkastet skal rettsmøter avholdes når det
+følger av loven, eller retten beslutter det. Utenfor
+hoved- og ankeforhandling og enkelte andre tilfeller der rettsmøte er obligatorisk, vil det således
+være opp til retten å avgjøre om avgjørelser skal
+treffes på grunnlag av skriftlig eller muntlig
+behandling. Utvalget har tatt utgangspunkt i at det
+sentrale som regel ikke er om behandlingen skjer
+skriftlig eller muntlig, men at retten sikrer et forsvarlig avgjørelsesgrunnlag, herunder ved at partenes rett til kontradiksjon ivaretas.
+Adgangen til bruk av fjernmøte og fjernavhør
+foreslås regulert felles for sivile saker og straffesaker i domstolloven. Utvalget mener at lovens
+utgangspunkt bør være at parter, vitner, sakkyndige og andre bør kunne ta del i rettsmøter eller
+avgi forklaring for retten ved bruk av fjernmøteteknikk når dette er hensiktsmessig og forsvarlig.
+Det er unntakene fra dette utgangspunkt som bør
+begrunnes, og som eventuelt må reguleres særskilt. Det er særlig aktuelt å gjøre unntak for så
+vidt gjelder mistenktes tilstedeværelse under
+hoved- og ankeforhandling og i rettsmøte som
+gjelder spørsmål om varetektsfengsling. Det vises
+til utvalgets redegjørelser og vurderinger i punkt
+6.4.5.
+Utvalget foreslår at det i vid utstrekning skal
+tas opptak med lyd- og bilde av forhandlingene i
+rettsmøter, herunder av forklaringer som avgis
+der fra parter, vitner og sakkyndige. Fellesregler
+om dette for sivile saker og straffesaker foreslås
+gitt i domstolloven. Det vises til punkt 6.5.3.
+
+109
+
+Kapittel 3
+
+Adgangen til bruk av opptakene under ankebehandling mv. er nærmere omtalt i punkt 6.5.4, jf.
+også punkt 3.3.1, 3.3.3 og 3.3.9.
+Etter utkastet skal rettens avgjørelser treffes i
+form av dom eller beslutning. Sondringen mellom
+kjennelser og beslutninger i dagens lov foreslås
+ikke videreført. Uansett hvordan en slik inndeling
+i avgjørelseskategorier gjennomføres, vil den bli
+nokså tilfeldig, og kategoriene vil omfatte avgjørelser av svært ulik karakter. Sondringen er dermed lite egnet som kriterium for ulike rettsvirkninger. Spørsmål om avsigelsesmåte, krav til
+avgjørelsens innhold, omgjørings- og overprøvingsadgang mv. kan enkelt reguleres direkte,
+og sondringen mellom kjennelser og beslutninger
+blir da overflødig.
+Gjeldende regler om grunnlaget for rettens
+avgjørelser foreslås i det vesentlige videreført.
+Avgjørelse etter hoved- og ankeforhandling skal
+således treffes på grunnlag av behandlingen i
+rettsmøte, mens øvrige avgjørelser som utgangspunkt kan treffes på grunnlag av sakens opplysninger, etter skriftlig eller muntlig behandling. Fra
+utgangspunktet forslås enkelte unntak for så vidt
+gjelder ankedomstolens adgang til å bygge på faktiske sider ved underinstansens dom som ikke er
+omtvistet, og med hensyn til grunnlaget for å
+nekte fremmet anke over bevisbedømmelsen
+under skyldspørsmålet og over reaksjonsfastsettelsen. Se punkt 17.3.
+Videre foreslår utvalget enkelte endringer i
+reglene om rettens forhold til partenes krav og
+påstander mv., herunder om forholdet mellom tiltalebeslutning og dom. Forslagene har sammenheng med utvalgets syn på hvilket gjennomslag
+anklageprinsippet bør ha i ny straffeprosesslov.
+For så vidt gjelder rettens adgang til å fravike faktum i tiltalen, foreslås ingen endringer. Som etter
+gjeldende lov skal retten ikke kunne pådømme et
+annet forhold enn det tiltalen gjelder, men den er
+ubundet med hensyn til tiltalens nærmere angivelse av tid, sted og andre omstendigheter. Rettens subsumsjonsfrihet foreslås imidlertid begrenset. Utvalgets flertall legger stor vekt på det syn at
+tiltalens angivelse av det faktiske forhold sammen
+med den rettslige karakteristikken er det beste
+mål for hva påtalemyndigheten har valgt å bringe
+inn for retten til pådømmelse. Flertallet finner det
+således best i samsvar med anklageprinsippet, og
+de hensyn dette bygger på, at retten i prinsippet er
+bundet til subsumsjonen i tiltalen, men med
+adgang til å fravike denne såfremt ikke påtalemyndigheten motsetter seg det. Mindretallet mener at
+en slik løsning går på bekostning av prinsippet om
+at retten har selvstendig ansvar for rettsanvendel-
+
+[Side 112]
+
+110
+
+Kapittel 3
+
+NOU 2016: 24
+Ny straffeprosesslov
+
+sen, og foreslår i stedet at det som utgangspunkt
+bør legges til grunn at forholdets identitet endres
+hvis retten må bygge på andre rettsfakta enn dem
+som er beskrevet i grunnlaget i tiltalen, og dessuten hvis den nye subsumsjonen gjør at forholdet
+får en vesentlig annen rettslig karakter enn etter
+tiltalen. Det vises til utvalgets drøftelser i punkt
+17.6.
+Utvalget foreslår videre at retten ikke skal
+kunne pådømme andre krav enn dem som er fremmet av påtalemyndigheten. Dagens ordning, der
+retten står fritt til å idømme inndragning og
+enkelte andre krav uaktet om slike er fremmet,
+bryter etter utvalgets syn med anklageprinsippet,
+og bidrar til å gi prosessen et inkvisitorisk preg.
+Dessuten er det, slik utvalget ser det, ikke noe
+praktisk behov for at retten skal kunne pådømme
+krav av eget tiltak. Se nærmere punkt 17.6.5.
+For øvrig foreslår utvalget som utgangspunkt
+å videreføre prinsippet om at retten er ubundet av
+påtalemyndighetens påstand med hensyn til reaksjonsfastsettelsen. Også her kunne anklageprinsippet tilsi begrensninger i rettens frihet, men utvalget legger avgjørende vekt på hensynet til å sikre
+likebehandling og betydningen av vår tradisjon
+med at Høyesterett har et særlig ansvar for å fastlegge og utvikle straffenivået på ulike områder. En
+viss modifisering av utgangspunktet foreslås for
+tilfeller der påtalemyndighetens påstand bygger
+på et bindende straffetilsagn. Se punkt 16.8.5 og
+17.6.6.2.
+Utvalget mener at gjeldende krav til skriftlige
+begrunnelser for rettslige avgjørelser i det vesentlige bør videreføres. Samtidig gjør de ulike hensyn som skal ivaretas gjennom skriftlig begrunnelse, seg gjeldende i varierende grad avhengig
+av hva slags avgjørelse det er tale om. Utvalget
+mener derfor at kravet til begrunnelse best reguleres gjennom en relativ standard. Det er et mål at
+rettens begrunnelser blir mer konsentrert enn det
+som er praksis i dag. Med lyd- og bildeopptak av
+forhandlingene, slik utvalget foreslår, vil det være
+mindre behov for å bruke domspremissene til å
+sikre notoritet om bevisføringen, og begrunnelsen kan dermed i større grad konsentreres om
+rettens vurderinger av sakens springende punkter. Kravet til begrunnelse bør også i større
+utstrekning reflektere de ulike rettsinstansenes
+rolle og funksjon.
+3.3.8
+
+Tingrettens behandling av straffekravet
+(lovutkastet del 7)
+
+I kapittel 18 presenteres utvalgets forslag til regulering av tingrettens behandling av straffekravet.
+
+Bestemmelsene om dette er samlet i tre kapitler:
+forberedelse til hovedforhandling (lovutkastet
+kapittel 34), hovedforhandling (lovutkastet kapittel 35) og forenklet behandling (lovutkastet kapittel 36).
+De aller fleste straffesaker er små og enkle, og
+etter utvalgets syn bør det derfor som utgangspunkt ikke legges opp til en mer omfattende saksforberedelse enn det som følger av praksis etter
+gjeldende lov. Samtidig må loven ta høyde for
+saker som er mer omfattende eller komplekse, og
+som kan gi grunn til å bruke mer tid og ressurser
+på planlegging og avklaringer før hovedforhandling.
+På denne bakgrunn bygger utkastet på at saksforberedelsen i alminnelige saker som utgangspunkt stort sett skal foregå på samme måte som
+etter gjeldende rett. Det foreslås imidlertid fleksible regler som åpner for ytterligere saksforberedelse ved behov, se lovutkastet kapittel 34.
+En nyvinning er at forsvarer etter å ha mottatt
+påtalemyndighetens oversendelse som regel skal
+inngi tilsvar, som skal angi hvilke deler av sakens
+faktiske og rettslige sider forsvaret anser som
+omtvistet, hvilke bevis forsvaret vil føre, om ytterligere etterforskingsskritt begjæres mv. Formålet
+er å sikre at viktige avklaringer som kan forenkle
+den videre behandlingen, skjer så tidlig som
+mulig. Forsvarers plikt til å gi tilsvar må ses i lys
+av mistenktes vern mot tvungen selvinkriminering og rammene for forsvareroppdraget.
+I enkelte tilfeller, typisk i saker av en viss
+størrelse eller kompleksitet, kan tiltalebeslutningens angivelse av det forhold påtalemyndigheten
+bringer inn for retten, gi mistenkte begrensede
+forutsetninger for å forberede sitt forsvar. Utvalget foreslår likevel ingen endringer i kravene til
+tiltalebeslutningen, fordi det som utgangspunkt
+må anses hensiktsmessig at tiltalen holdes konsentrert og kortfattet. For å imøtekomme mistenktes behov for nærmere opplysninger om
+anklagen foreslås det i stedet en bestemmelse
+om at påtalemyndigheten i visse tilfeller, av eget
+tiltak, skal utarbeide en skriftlig redegjørelse for
+saken.
+Som nevnt i punkt 3.3.7 mener utvalget at retten generelt bør ha et overordnet ansvar for å
+styre saken, blant annet for å sikre en planmessig
+og konsentrert behandling. Behovet for styring
+gjør seg særlig gjeldende under saksforberedelsen, og utvalget foreslår en uttrykkelig regulering
+av rettens saksstyringsplikt på dette stadium, herunder en plikt til å planlegge den videre behandlingen. Kravet til planmessighet bør i prinsippet
+gjelde i alle saker, men i små og enkle saker vil det
+
+[Side 113]
+
+111
+
+NOU 2016: 24
+Ny straffeprosesslov
+
+sjelden være behov for noen formalisert plan.
+Utkastet tar høyde for dette.
+Etter utkastet er retten under saksforberedelsen gitt vid adgang til å treffe nødvendige beslutninger om den videre behandlingen av saken, herunder om forhold av betydning for gjennomføring
+av hovedforhandlingen, slik som omfanget av
+bevisføringen mv. Beslutninger under saksforberedelsen kan etter utkastet treffes på grunnlag av
+skriftlig eller muntlig behandling, avhengig av hva
+retten finner påkrevd for å sikre et forsvarlig
+avgjørelsesgrunnlag, jf. punkt 18.1.6
+Utkastet utstyrer retten med en rekke saksforberedelsesmekanismer, som kan benyttes avhengig av behovet i den enkelte sak. Det foreslås således at retten skal kunne beslutte saksforberedende
+rettsmøte, herunder at slike møter skal kunne
+avholdes utelukkende med de profesjonelle aktører til stede, når tiltaltes, fornærmedes og etterlattes tilstedeværelse ikke er nødvendig. Rettens
+adgang til å pålegge påtalemyndigheten å gi en
+skriftlig redegjørelse for saken foreslås videreført,
+med enkelte mindre justeringer. Dessuten foreslås en adgang for retten til å oppfordre partene til
+å utarbeide en felles saksfremstilling for å avklare
+hvilke deler av sakens faktiske sider som er
+omforent. Retten skal etter forslaget kunne bygge
+på en slik felles saksfremstilling, på linje med
+andre bevis i saken. Retten kan også fastsette frist
+for sluttinnlegg.
+Utvalget har vurdert hvorvidt retten i større
+utstrekning enn etter gjeldende lov bør ha tilgang
+til sakens dokumenter, som i utkastet er omtalt
+som «sakens opplysninger». Utvalgets flertall
+mener retten prinsipielt bør ha ubegrenset tilgang
+til sakens opplysninger, både til bruk under saksforberedelsen og i den videre behandlingen av
+saken. Flertallet mener det er viktig at retten – for
+å ha forutsetninger for saksstyring, saksforberedelse og for å følge med på og kontrollere bevisføringen – ikke har dårligere informasjonstilgang
+enn partene. Flertallets standpunkt innebærer
+ingen endringer i prinsippet om at retten bare skal
+kunne bygge avgjørelsen på opplysninger som
+har vært gjenstand for behandling under hovedog ankeforhandling. Utvalgets mindretall mener
+retten ikke bør ha tilgang til saksopplysninger i
+større utstrekning enn det som følger av gjeldende rett. Mindretallets standpunkt er i første
+rekke begrunnet med det syn at retten ikke bør
+ha tilgang til politiforklaringer og andre opplysninger som ikke er eller vil bli ført som bevis i saken,
+ettersom det i så fall kan være en fare for at retten,
+bevisst eller ubevisst, vektlegger opplysninger
+som ikke har vært gjenstand for bevisføring og
+
+Kapittel 3
+
+kontradiksjon. Se nærmere om spørsmålet i punkt
+17.4.
+Utvalgets forslag til regler om hovedforhandling for tingretten er noe annerledes utformet enn
+de tilsvarende reglene i straffeprosessloven, se
+lovutkastet kapittel 35 og punkt 18.2. Bestemmelsene regulerer først og fremst hovedforhandlingens gang. I tråd med lovutkastets systematikk er
+for eksempel regler om tiltaltes tilstedeværelse,
+opplesning av politiforklaringer og rettens saksopplysningsplikt plassert i andre kapitler. Nytt er
+det også at kapitlet om hovedforhandlingen inneholder en egen bestemmelse om saksstyring og i
+noen grad åpner for skriftlig bevisføring.
+Reglene om tilståelsesdom – etter lovutkastets
+terminologi dom etter «forenklet behandling» – er
+plassert i lovutkastet kapittel 36. Bestemmelsene
+viderefører i hovedsak den gjeldende ordning,
+men med den forskjell at det ikke lenger er et vilkår for slik behandling at mistenkte har samtykket, se drøftelsen i punkt 18.3.
+3.3.9
+
+Anke (lovutkastet del 8)
+
+I kapittel 19 er ulike typer saksbehandlingsfeil og
+virkningen av dem skilt ut til separat drøftelse. I
+kapitlet vurderes blant annet sondringen mellom
+såkalte absolutte og relative feil, som utvalget går
+inn for å beholde, se punkt 19.4.3.
+I kapittel 20 drøfter utvalget generelle spørsmål om anke (lovutkastet kapittel 37 til 39). Det
+foreslås betydelige strukturelle endringer i regelverket. For å legge til rette for en mer konsentrert
+ankebehandling foreslås det strengere krav til
+utforming av ankeerklæring enn etter gjeldende
+rett. Utvalget går videre inn for å endre reglene
+om inngivelse av anke, slik at anken skal sendes
+den rett som har truffet avgjørelsen, og det foreslås regler om frist for støtteskriv i loven.
+Et sentralt reformforslag er å åpne for gjenbruk av bevisføringen fra tingretten. Utvalget foreslår at det i betydelig utstrekning skal tas opptak
+med lyd og bilde av forhandlingene i rettsmøter,
+herunder av forklaringer fra parter, vitner og
+sakkyndige, se nærmere om dette i punkt 6.5.3. I
+lagmannsretten skal det kunne spilles av opptak
+fra tingrettens behandling i stedet for eller som
+supplement til umiddelbar vitneførsel. Se nærmere om adgangen til bruk av opptakene under
+ankebehandling mv. i punkt 6.5.4, jf. også punkt
+3.3.1, 3.3.3 og 3.3.7.
+Utvalget har drøftet om det bør gjelde et
+generelt vilkår for siling av anker til lagmannsretten. Utvalgets flertall går inn for å fjerne den ubetingede retten til ankebehandling i de såkalte
+
+[Side 114]
+
+112
+
+Kapittel 3
+
+NOU 2016: 24
+Ny straffeprosesslov
+
+seksårssakene. Som hovedregel skal alle anker
+til lagmannsretten siles etter et generelt kriterium. Presumsjonen skal være at anke over dom
+skal behandles, men med adgang til å nekte realitetsbehandling av anker som klart ikke kan føre
+frem. Samtykkeordningen for «småsakene» videreføres som i dag. Mindretallet går inn for å
+beholde ordningen med ubetinget rett til ankebehandling i visse saker, i justert form. Se punkt
+20.4.4.3.
+Utvalget har vurdert løsninger som kan bidra
+til å effektivisere og konsentrere ankebehandlingen, uten at det går på bekostning av en forsvarlig
+prøving av saken. Utvalget foreslår at det skal
+åpnes for skriftlig behandling av alle anker over
+dom til lagmannsretten, når partene samtykker
+eller retten finner en slik saksbehandlingsform
+åpenbart hensiktsmessig. Ved muntlig ankeforhandling foreslår utvalget en generell bestemmelse om at den ankende part som hovedregel er
+ansvarlig for å presentere saken for retten. Se
+nærmere punkt 20.4.6.
+Utvalget har kommet til at reglene om Høyesteretts behandling av anker i hovedsak bør være
+som etter gjeldende rett. Det foreslås imidlertid
+enkelte tilpasninger, se punkt 20.4.10.2.
+3.3.10 Fullbyrding og gjenåpning
+(lovutkastet del 9)
+Kapittel 21 inneholder utvalgets generelle vurderinger av reglene om fullbyrding (lovutkastet
+kapittel 40).
+Utvalget foreslår å fjerne ordningen med en
+særskilt ordre om fullbyrding fra påtalemyndigheten etter rettskraftig dom, fordi det da ikke er
+flere påtalemessige oppgaver å ivareta. Innholdet i
+de gjeldende regler foreslås for øvrig i hovedsak
+videreført, men med en annen struktur.
+I kapittel 22 behandles reglene om gjenåpning
+(lovutkastet kapittel 41). Utvalget anbefaler at
+dagens regler om gjenåpning i det vesentlige videreføres etter sitt innhold, og at spørsmålet om
+gjenåpning, som i dag, avgjøres av Kommisjonen
+for gjenopptakelse av straffesaker. Utvalget mener
+imidlertid det er behov for en relativt omfattende
+lovteknisk revisjon for å gjøre reglene om gjenåpning og saksbehandlingen for kommisjonen lettere tilgjengelig.
+Rettsmidlene anke og gjenåpning er i dag dels
+overlappende ved at påtalemyndigheten kan anke
+til gunst for domfelte uavhengig av ankefrist.
+Utvalget mener det er grunn til å rendyrke rettsmidlene, slik at det etter rettskraftig dom kun skal
+være aktuelt med gjenåpning.
+
+Etter lovutkastet skal alle avgjørelser som
+avsies ved dom, kunne gjenåpnes. Dette omfatter
+– i motsetning til etter gjeldende rett – avgjørelser
+som gjelder straffegjennomføringen, fordi man
+ellers kan risikere å stå uten mulighet til å angripe
+avgjørelser som det hefter grunnleggende feil
+ved, og som i ytterste konsekvens kan resultere i
+ulovlig frihetsberøvelse.
+Gjenåpning begrunnet i feil lovanvendelse har
+i dag en noe usikker forankring. I lovutkastet er
+det uttrykkelig fastslått at det skal være adgang til
+å gjenåpne saker begrunnet i uriktig lovanvendelse ved kvalifiserte hjemmelsmangler når det er
+åpenbart at én eller flere sentrale rettskilder er
+oversett, se punkt 22.3.6.3.
+Utvalget mener det ikke bør gjelde noen tidsfrist for gjenåpning, men anbefaler et skjerpet krav
+til gjenåpning for saker som har vært rettskraftig
+avgjort i mer enn 25 år, særlig fordi bevissituasjonen etter så lang tid gjennomgående vil være betydelig svekket. Etter utvalgets forslag skal det for
+gjenåpning i slike saker kreves «at særlige forhold
+gjør det tvilsomt om dommen er riktig».
+Utvalget anbefaler en forsiktig justering av
+intensiteten i domstolens gyldighetskontroll med
+Gjenopptakelseskommisjonens vedtak. Det foreslås at det, i motsetning til etter gjeldende rett,
+skal være anledning til å overprøve kommisjonens
+bevisbedømmelse, men i bare i «særlige tilfeller».
+Forslaget er begrunnet med at temaer som aktualiseres ved behandlingen av gjenåpningsspørsmålet, kan være helt nye i saken, slik at skyldspørsmålet eller straffutmålingen prøves for første gang
+på fullstendig grunnlag for kommisjonen. Tilliten
+til gjenåpningsordningen må antas å bli best ivaretatt ved at gyldigheten av kommisjonens vedtak i
+slike situasjoner kan prøves av domstolene med
+en viss intensitet.
+3.3.11 Militære straffesaker (lovutkastet del 10)
+I kapittel 23 går utvalget inn for å beholde egne
+regler for militære straffesaker i straffeprosessloven (lovutkastet kapittel 42). Det saklige virkeområdet for regelverket foreslås utvidet, og det
+skal som hovedregel ikke skilles mellom krigs- og
+fredstidshandlinger.
+Utvalget foreslår at den militære påtalemyndighet beholdes, direkte underlagt riksadvokaten.
+Generaladvokaten og krigsadvokatene gis samme
+påtalekompetanse i militære saker som statsadvokatene.
+Det foreslås videre at etterforskingen av militære straffesaker skal utføres av en gruppe etterforskere fra militærpolitiet, direkte underlagt
