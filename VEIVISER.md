@@ -128,16 +128,36 @@ Teksten fra PDF-en har et merke, `[Side N]`, der hver side begynner. Lenken til 
 | 2015 | Prop. 79 L (2014-2015) | Proposisjonen inneholder forslag til endringer i politiloven. Formålet med lovforslaget er å oppfylle kravet i Grunnloven § 101 tredje ledd om lovhjemmel for bruk av militær makt mot innbyggerne ved Forsvarets bistand ti | `dokumenter/proposisjoner/2015/80c8e711-prop-79-l-2014-2015.md` |
 | 2015 | Prop. 61 LS (2014-2015) | Regjeringens forslag til reform av politiet. Forslaget tar for seg politi- og lensmannsetatens struktur, oppgaveportefølje og ansvarsdeling og er samtidig en gjennomgang av ledelse og kultur i politiet. | `dokumenter/proposisjoner/2015/3c0ea855-prop-61-ls-2014-2015.md` |
 
-### Tildelingsbrev (140)
+### Tildelingsbrev (158)
 
 Mappe: `dokumenter/tildelingsbrev/<år>/`. Søk i `dokumenter.tsv` (kolonnen `mottakere`) for å finne brevene til én mottaker. Brev og tillegg per mottaker og budsjettår:
 
 | Mottaker | Brev | År |
 |---|---|---|
-| Politiet | 89 | 2020 (1), 2021 (20), 2022 (19), 2023 (14), 2024 (14), 2025 (13), 2026 (8) |
+| Politiet | 93 | 2020 (1), 2021 (20), 2022 (20), 2023 (14), 2024 (14), 2025 (14), 2026 (10) |
 | Politiets sikkerhetstjeneste | 22 | 2021 (5), 2022 (5), 2023 (4), 2024 (3), 2025 (4), 2026 (1) |
 | Riksadvokaten | 22 | 2021 (4), 2022 (4), 2023 (4), 2024 (5), 2025 (4), 2026 (1) |
-| Spesialenheten for politisaker | 7 | 2024 (3), 2025 (3), 2026 (1) |
+| Spesialenheten for politisaker | 21 | 2021 (3), 2022 (4), 2023 (5), 2024 (3), 2025 (3), 2026 (3) |
+
+### Veileder (7)
+
+| År | Tittel | Innhold | Fil |
+|---|---|---|---|
+| 2025 | Veileder for kommune- og politisamarbeid | Veileder laget av Politidirektoratet i samarbeid med Kommunesektorens organisasjon (KS). Veilederen gir råd og anbefalinger for å styrke samarbeidet mellom politi og kommune. | `dokumenter/veiledere/2025/0218c577-veileder-for-kommune-og-politisamarbeid.md` |
+| 2022 | Veileder kriminalitetsforebygging i planprosesser | Veilederen skal bidra til økt kunnskap om politiets rolle og ansvar i planprosesser. | `dokumenter/veiledere/2022/b5740909-veileder-kriminalitetsforebygging-i-planprosesser.md` |
+| 2022 | Utenfor boksen - innenfor lovverket : veileder for god informasjonsflyt | Veilederen er utarbeidet for å forbedre informasjonsflyt og samarbeid mellom aktører som jobber med unge som begår gjentatt kriminalitet. Den gir praktiske retningslinjer for å sikre juridisk korrekt deling av informasjo | `dokumenter/veiledere/2022/feea562b-utenfor-boksen-innenfor-lovverket-veileder-for-god-informasj.md` |
+| 2021 | Rettleiar ved bekymring for radikalisering og valdeleg ekstremisme |  | `dokumenter/veiledere/2021/33eded48-rettleiar-ved-bekymring-for-radikalisering-og-valdeleg-ekstr.md` |
+| 2020 | Delbart? Om ulovlig bildedeling blant ungdommer | Målgruppen for foredraget er barn og unge på mellomtrinnet og ungdomsskolen, samt deres foreldre. Målet er at barn skal få mer kunnskap om konsekvensene av bildedeling. Foredraget kan holdes for alt fra små grupper til s | `dokumenter/veiledere/2020/67e1f7ac-delbart-om-ulovlig-bildedeling-blant-ungdommer.md` |
+| 2017 | Veileder for politiets bekymringssamtale | Formålet med denne veilederen er å legge til rette for god rolle- og ansvarsavklaring, gode rutiner og oppfølgingsmuligheter ved bruk av bekymringssamtalen. Veilederen skal også bidra til å videreutvikle... | `dokumenter/veiledere/2017/682302d5-veileder-for-politiets-bekymringssamtale.md` |
+| 2016 | Veileder for egenevaluering av politiradets arbeid | Veilederen er et tiltak for å støtte det enkelte politiråd i gjennomføring av en egenevaluering. Det anbefales å gjennomføre evalueringen en gang i året og at dette blir en integrert del av politirådets... | `dokumenter/veiledere/2016/deae85d8-veileder-for-egenevaluering-av-politiradets-arbeid.md` |
+
+### Evaluering (3)
+
+| År | Tittel | Innhold | Fil |
+|---|---|---|---|
+| 2026 | Evaluering av støttesenter for kriminalitetsutsatte | Rapporten evaluerer støttesentre for kriminalitetsutsatte som ble etablert i politidistriktene i 2017. Den kartlegger organisering, bemanning, oppgaveutførelse og måloppnåelse basert på intervjuer, statistikk og dokument | `dokumenter/evalueringer/2026/145d16ad-evaluering-av-stottesenter-for-kriminalitetsutsatte.md` |
+| 2022 | Forebyggende tiltak mot ungdomskriminalitet i Oslo kommune | OsloMet, ved Velferdsforskningsinstituttet NOVA og By- og regionsforsknings- instituttet NIBR har gjennomført en følgeforskning og evaluering av tilskudd gitt av Barne-, ungdoms- og familiedirektoratet (Bufdir) til Oslo  | `dokumenter/evalueringer/2022/17ec4d84-forebyggende-tiltak-mot-ungdomskriminalitet-i-oslo-kommune.md` |
+| 2020 | «Omvendt voldsalarm» En evaluering av kontaktforbud med elektronisk kontroll (straffeloven § 57) i saker om vold i nære relasjoner | På oppdrag fra Justis- og beredskapsdepartementet har Velferdsforskningsinstituttet NOVA ved OsloMet – storbyuniversitetet, gjennomført en evaluering av prakti- seringen av straffelovens bestemmelse om kontaktforbud med  | `dokumenter/evalueringer/2020/6608983b-omvendt-voldsalarm-en-evaluering-av-kontaktforbud-med-elektr.md` |
 
 <!-- AUTO-SLUTT -->
 
