@@ -30,7 +30,8 @@
         "Meld. St. 15 (2023–2024)",
         "Meld. St. 9 (2022–2023)",
         "Meld. St. 5 (2020–2021)",
-        "Meld. St. 13 (2015–2016)"
+        "Meld. St. 13 (2015–2016)",
+        "Meld. St. 31 (2024–2025)"
       ]
     },
     "Strategi/plan": {
@@ -51,8 +52,15 @@
         "Regjeringens strategi for bekjempelse av hvitvasking",
         "Handlingsplan mot voldtekt",
         "Justis- og beredskapsdepartementets strategi for å bekjempe IKT-kriminalitet",
-        "Datakrimstrategien"
-      ]
+        "Datakrimstrategien",
+        "I forkant av kriminaliteten",
+        "Mangfold, dialog og tillit",
+        "Politiets virksomhetsstrategi 2026",
+        "Etterretningsdoktrine for politiet",
+        "Redusert tilbakefall til ny kriminalitet",
+        "Handlingsplan for trygg digital oppvekst"
+      ],
+      "eiere": []
     },
     "Proposisjon til Stortinget": {
       "mappe": "proposisjoner",
@@ -103,6 +111,30 @@
         "^Politiets sikkerhetstjeneste$",
         "^Spesialenheten for politisaker$",
         "^Riksadvokaten$"
+      ]
+    },
+    "Veileder": {
+      "mappe": "veiledere",
+      "fra_ar": 2015,
+      "eiere": [],
+      "ta_med_start": [
+        "Veileder for kommune- og politisamarbeid",
+        "Veileder kriminalitetsforebygging i planprosesser",
+        "Veileder for politiets bekymringssamtale",
+        "Veileder for egenevaluering av politiradets arbeid",
+        "Rettleiar ved bekymring for radikalisering",
+        "Utenfor boksen - innenfor lovverket",
+        "Delbart? Om ulovlig bildedeling"
+      ]
+    },
+    "Evaluering": {
+      "mappe": "evalueringer",
+      "fra_ar": 2015,
+      "eiere": [],
+      "ta_med_start": [
+        "Evaluering av støttesenter for kriminalitetsutsatte",
+        "Forebyggende tiltak mot ungdomskriminalitet i Oslo kommune",
+        "«Omvendt voldsalarm»"
       ]
     }
   }
