@@ -38,7 +38,7 @@ Teksten fra PDF-en har et merke, `[Side N]`, der hver side begynner. Lenken til 
 
 ## For redaktører
 
-- Hvilke dokumenter som hentes, står i `dokumenter.json`: per Kudos-type en mappe, første år (`fra_ar`), eiere (tom liste betyr alle) og eventuelt `ta_med` (nøyaktige titler) eller `ta_med_start` (titler som begynner slik). Legg til en tittel der, så hentes dokumentet ved neste kjøring.
+- Hvilke dokumenter som hentes, står i `dokumenter.json`: per Kudos-type en mappe, første år (`fra_ar`), eiere (tom liste betyr alle) og eventuelt `ta_med` (nøyaktige titler) eller `ta_med_start` (titler som begynner slik). Legg til en tittel der, så hentes dokumentet ved neste kjøring. `mottakere` (liste med uttrykk) begrenser en type til dokumenter med en mottaker som passer, slik tildelingsbrevene er begrenset til politiet og etatene rundt.
 - Dokumenter på over 100 000 tegn deles automatisk av `verktoy/deling.py` hver gang de lagres, både ved henting fra Kudos og fra innboksen. `python3 -I verktoy/deling.py` deler alle på nytt etter gjeldende regler.
 - `verktoy/kudos_hent.py` kjøres hver tirsdag og ved behov (`kudos-hent.yml`), og går rett i main. Lagrede dokumenter hentes ikke på nytt. `--liste <type> --fra <år> --sok <regex>` lister kandidater uten å lagre, og `--liste typer` viser hvilke typer Kudos har. Jobben `kudos-liste.yml` (`verktoy/kudos_liste.py`) gjør det samme med lenker til dokumentside og originalfil, og kan kjøre mens hentingen pågår.
 - Bedre tekst for et dokument med rotete tabeller: legg Word-, epub- eller HTML-fila i `innboks/`, se `innboks/README.md`. Jobben `innboks.yml` leser den inn med `verktoy/innboks.py`, og Kudos-hentingen skriver ikke over teksten senere.
