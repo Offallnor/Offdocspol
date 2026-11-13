@@ -60,7 +60,11 @@
         "Redusert tilbakefall til ny kriminalitet",
         "Handlingsplan for trygg digital oppvekst"
       ],
-      "eiere": []
+      "eiere": [
+        "Justis- og beredskapsdepartementet",
+        "Politiet",
+        "Medietilsynet"
+      ]
     },
     "Proposisjon til Stortinget": {
       "mappe": "proposisjoner",
