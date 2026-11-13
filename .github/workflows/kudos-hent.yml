@@ -1,0 +1,84 @@
+name: Hent dokumenter fra Kudos
+
+# Hver uke: henter nye dokumenter (se dokumenter.json) fra DFØs Kudos og lagrer dem som tekst.
+# Se verktoy/kudos_hent.py. Endringene går rett i main.
+on:
+  schedule:
+    - cron: "20 5 * * 2"
+  workflow_dispatch:
+    inputs:
+      maks:
+        description: "Høyst så mange nye dokumenter i denne kjøringen"
+        default: "300"
+      liste:
+        description: "Bare skriv ut alle dokumenter av denne typen (for eksempel «Melding til Stortinget»)"
+        default: ""
+      sok:
+        description: "Bare dokumenter der tittel, sammendrag eller eier passer med dette uttrykket"
+        default: ""
+      fra:
+        description: "Første år for lista"
+        default: "2015"
+      test:
+        description: "Bare lagre tekst med og uten -layout for disse id-ene (KU-…, skilt med mellomrom) i tester/"
+        default: ""
+      ny_tekst:
+        description: "Hent teksten på nytt for dokumenter som mangler sidemerker (tekst fra PDF)"
+        type: boolean
+        default: false
+      diagnose:
+        description: "Bare vis hva eksporten inneholder, lagre ingenting"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: kudos
+  cancel-in-progress: false
+
+jobs:
+  hent:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 0
+
+      - name: Installer pdftotext
+        run: sudo apt-get install -y -qq poppler-utils >/dev/null
+
+      - name: Hent dokumentene
+        env:
+          MAKS: ${{ inputs.maks || '300' }}
+          DIAGNOSE: ${{ inputs.diagnose && '--diagnose' || '' }}
+          LISTE: ${{ inputs.liste }}
+          TEST: ${{ inputs.test }}
+          NY_TEKST: ${{ inputs.ny_tekst && '--ny-tekst' || '' }}
+          FRA: ${{ inputs.fra || '2015' }}
+          SOK: ${{ inputs.sok }}
+        run: |
+          if [ -n "$TEST" ]; then python3 -I verktoy/kudos_hent.py --test "$TEST"
+          elif [ -n "$LISTE" ]; then python3 -I verktoy/kudos_hent.py --liste "$LISTE" --fra "$FRA" --sok "$SOK"
+          else python3 -I verktoy/kudos_hent.py --maks "$MAKS" $DIAGNOSE $NY_TEKST; fi
+
+      - name: Lagre
+        if: success() || failure()
+        run: |
+          melding="$RUNNER_TEMP/melding.txt"
+          if [ -f kudos-rapport.txt ]; then mv kudos-rapport.txt "$melding"; else echo "Dokumenter fra Kudos" > "$melding"; fi
+          git add dokumenter dokumenter.tsv VEIVISER.md
+          if [ -d tester ]; then git add tester; fi
+          if git diff --cached --quiet; then echo "Ingen endringer"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -q -F "$melding"
+          # main kan ha fått nye commits mens jobben kjørte; legg lagringen oppå før push.
+          for i in 1 2 3 4 5; do
+            git pull -q --rebase origin "${GITHUB_REF_NAME}" && git push && exit 0
+            sleep $((i * 10))
+          done
+          exit 1
