@@ -1,6 +1,6 @@
 # Dokumenter om politiet – veiviser
 
-Denne basen har offentlige dokumenter om politiet og forvaltningen rundt politiet: Politidirektoratet, politidistriktene og særorganene, Politiets sikkerhetstjeneste (PST), Spesialenheten for politisaker og tilgrensende deler av justissektoren. Basen har utvalgte NOU-er, stortingsmeldinger, lovproposisjoner, strategier og handlingsplaner, og tildelingsbrev til etatene. Dokumentene er hentet fra Kudos (kudos.dfo.no), DFØs åpne arkiv over statlige dokumenter. Lov og forskrift ligger ikke her.
+Denne basen har offentlige dokumenter om politiet og forvaltningen rundt politiet: Politidirektoratet, politidistriktene og særorganene, Politiets sikkerhetstjeneste (PST), Spesialenheten for politisaker, påtalemyndigheten med Riksadvokaten og tilgrensende deler av justissektoren. Basen har utvalgte NOU-er, stortingsmeldinger, lovproposisjoner, strategier og handlingsplaner, og tildelingsbrev fra 2020 til Politiet (Politidirektoratet), Politiets sikkerhetstjeneste, Spesialenheten for politisaker og Riksadvokaten. Dokumentene er hentet fra Kudos (kudos.dfo.no), DFØs åpne arkiv over statlige dokumenter. Lov og forskrift ligger ikke her.
 
 ## Slik henter du filer
 

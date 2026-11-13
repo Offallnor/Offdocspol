@@ -1,6 +1,6 @@
 # Dokumentbasen for politiet
 
-Denne basen har offentlige dokumenter om politiet og forvaltningen rundt politiet (Politidirektoratet, politidistriktene og særorganene, Politiets sikkerhetstjeneste, Spesialenheten for politisaker og tilgrensende deler av justissektoren): NOU-er, stortingsmeldinger, lovproposisjoner, strategier og tildelingsbrev. Start i `VEIVISER.md`. Den forklarer hvordan filene hentes, hva de inneholder, kjente feller og lista over alle dokumentene.
+Denne basen har offentlige dokumenter om politiet og forvaltningen rundt politiet (Politidirektoratet, politidistriktene og særorganene, Politiets sikkerhetstjeneste, Spesialenheten for politisaker, påtalemyndigheten med Riksadvokaten og tilgrensende deler av justissektoren): NOU-er, stortingsmeldinger, lovproposisjoner, strategier og tildelingsbrev. Start i `VEIVISER.md`. Den forklarer hvordan filene hentes, hva de inneholder, kjente feller og lista over alle dokumentene.
 
 ## Regler for svar
 

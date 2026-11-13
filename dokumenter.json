@@ -2,5 +2,108 @@
   "eiere": [
     "Justis- og beredskapsdepartementet"
   ],
-  "typer": {}
+  "typer": {
+    "NOU": {
+      "mappe": "nou",
+      "fra_ar": 2015,
+      "ta_med": [
+        "NOU 2026: 8",
+        "NOU 2026: 3",
+        "NOU 2024: 24",
+        "NOU 2024: 12",
+        "NOU 2024: 5",
+        "NOU 2024: 4",
+        "NOU 2022: 15",
+        "NOU 2020: 17",
+        "NOU 2017: 11",
+        "NOU 2017: 9",
+        "NOU 2017: 5",
+        "NOU 2016: 24"
+      ]
+    },
+    "Melding til Stortinget": {
+      "mappe": "meldinger",
+      "fra_ar": 2015,
+      "ta_med": [
+        "Meld. St. 29 (2019–2020)",
+        "Meld. St. 34 (2020–2021)",
+        "Meld. St. 15 (2023–2024)",
+        "Meld. St. 9 (2022–2023)",
+        "Meld. St. 5 (2020–2021)",
+        "Meld. St. 13 (2015–2016)"
+      ]
+    },
+    "Strategi/plan": {
+      "mappe": "strategier",
+      "fra_ar": 2015,
+      "ta_med_start": [
+        "Plan for en styrket påtalemyndighet",
+        "Nasjonal strategi for helhetlig grenseforvaltning",
+        "Nasjonal strategi mot menneskehandel (2025",
+        "Rettssikkerhetsløftet",
+        "Handlingsplan mot radikalisering og voldelig ekstremisme",
+        "Trygghet i hverdagen",
+        "Revidering av nasjonal kontraterrorstrategi",
+        "Nasjonal kontraterrorstrategi",
+        "Forebygging og bekjempelse av internettrelaterte overgrep mot barn",
+        "Frihet fra vold",
+        "Strategi mot arbeidslivskriminalitet (2021",
+        "Regjeringens strategi for bekjempelse av hvitvasking",
+        "Handlingsplan mot voldtekt",
+        "Justis- og beredskapsdepartementets strategi for å bekjempe IKT-kriminalitet",
+        "Datakrimstrategien"
+      ]
+    },
+    "Proposisjon til Stortinget": {
+      "mappe": "proposisjoner",
+      "fra_ar": 2015,
+      "ta_med": [
+        "Prop. 4 L (2026–2027)",
+        "Prop. 35 L (2025–2026)",
+        "Prop. 140 L (2024–2025)",
+        "Prop. 123 LS (2024–2025)",
+        "Prop. 112 L (2024–2025)",
+        "Prop. 115 L (2023–2024)",
+        "Prop. 45 L (2023–2024)",
+        "Prop. 128 L (2022–2023)",
+        "Prop. 99 LS (2022–2023)",
+        "Prop. 31 L (2022–2023)",
+        "Prop. 137 L (2021–2022)",
+        "Prop. 229 L (2020–2021)",
+        "Prop. 190 L (2020–2021)",
+        "Prop. 152 L (2020–2021)",
+        "Prop. 139 L (2020–2021)",
+        "Prop. 146 L (2020–2021)",
+        "Prop. 19 L (2020–2021)",
+        "Prop. 66 L (2019–2020)",
+        "Prop. 4 L (2019–2020)",
+        "Prop. 142 L (2018–2019)",
+        "Prop. 70 L (2017–2018)",
+        "Prop. 165 L (2016–2017)",
+        "Prop. 161 L (2016–2017)",
+        "Prop. 156 L (2016–2017)",
+        "Prop. 99 L (2016–2017)",
+        "Prop. 106 L (2016–2017)",
+        "Prop. 61 L (2016–2017)",
+        "Prop. 107 L (2015–2016)",
+        "Prop. 68 L (2015–2016)",
+        "Prop. 60 L (2015–2016)",
+        "Prop. 94 L (2014-2015)",
+        "Prop. 79 L (2014-2015)",
+        "Prop. 61 LS (2014-2015)"
+      ]
+    },
+    "Tildelingsbrev": {
+      "mappe": "tildelingsbrev",
+      "fra_ar": 2020,
+      "ar": "tittel",
+      "layout": true,
+      "mottakere": [
+        "^Politiet$",
+        "^Politiets sikkerhetstjeneste$",
+        "^Spesialenheten for politisaker$",
+        "^Riksadvokaten$"
+      ]
+    }
+  }
 }
