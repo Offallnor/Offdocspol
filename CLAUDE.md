@@ -16,6 +16,7 @@ Denne basen har offentlige dokumenter om politiet og forvaltningen rundt politie
    - De fleste brukere kan ikke endre basen. Si at dokumentet kan bli lagt inn hvis brukeren ber om det, og bruk da den vanlige måten å melde ønsker om basene på («Ønske»). Tilby ikke å legge det inn selv.
    - Bare når du har skrivetilgang til repoet og brukeren ber om det: legg tittelen inn i `dokumenter.json` (se «For redaktører» i `VEIVISER.md`).
 6. Snakk om dokumentene, ikke om basen. Ord som veiviser, AUTO-blokk og filstier skal ikke stå i svaret.
+7. **Spørsmål om hva loven sier**, for eksempel taushetsplikt, informasjonsdeling, bekymringssamtale eller meldeplikt til barnevernet, besvares fra regelverksbasen: https://raw.githubusercontent.com/Offallnor/offdocs/main/CLAUDE.md (politiloven, politiregisterloven, barnevernsloven, helsepersonelloven, forvaltningsloven, offentleglova, personopplysningsloven). Dokumentene her er ikke lov. Bruk dem til bakgrunn og forarbeider.
 
 ## For redaktører
 
