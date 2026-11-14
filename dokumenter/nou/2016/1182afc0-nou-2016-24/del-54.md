@@ -1,908 +1,410 @@
-# NOU 2016: 24, del 54 av 73 (side 581–590)
+# NOU 2016: 24, del 54 av 69
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/1182afc0-nou-2016-24.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-24/id2517932/
 - Original-PDF: https://www.regjeringen.no/contentassets/6fe1d875248042b4a09b43b85aa46832/no/pdfs/nou201620160024000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 9 tabeller, 1 figur, 52 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 581]
+*Første ledd* pålegger påtalemyndigheten å henlegge saken når nødvendige rettslige eller faktiske betingelser for forfølgning ikke er til stede. Rettslige grunner som må føre til henleggelse, kan typisk være at forholdet ikke rammes av straffelovgivningen, men det kan også skyldes prosessuelle hindringer, for eksempel som følge av forbudet mot dobbeltstraff. Som redegjort for i punkt 13.2.7 gjelder det strafferettslige beviskravet også for positive påtalevedtak, og dersom påtalemyndigheten ut fra dette beviskravet ikke finner tilstrekkelig bevis for straffskyld, skal forholdet henlegges av bevismessige grunner. Også når nødvendige bevis ikke er rettslig tilgjengelig, typisk som følge av bevisforbud, må utfallet bli henleggelse, som i så fall skjer dels av rettslige og dels av bevismessige grunner.
 
-NOU 2016: 24
-Ny straffeprosesslov
+Etter *annet ledd* kan påtalemyndigheten beslutte henleggelse etter en skjønnsmessig vurdering når «forfølgning *ikke* er i det offentliges interesse». Det er fraværet av en slik offentlig interesse som må påvises, jf. også utgangspunktet om at overtredelser av straffelovgivningen skal forfølges, jf. utkastet § 2-2 første punktum. Om bakgrunnen for bestemmelsen vises det til punkt 16.4.
 
-og det er således ikke adgang til å pålegge vitnet å
-forklare seg ut fra en vurdering av sakens art,
-behovet for saksopplysning eller virkningene for
-vitnet, se drøftelsen i punkt 13.4.1.
-Uttrykket «straff» i annet ledd bokstav a skal
-forstås og praktiseres i samsvar med det materielle straffebegrep som følger av EMK artikkel 6
-nr. 1. Ved fare for selvinkriminering er det nødvendig av hensyn til våre menneskerettslige forpliktelser, jf. menneskerettsloven § 2 nr. 1 og § 3, jf.
-Grunnloven § 92. Selv om det i situasjoner der det
-er fare for å inkriminere nærstående neppe er
-nødvendig for å overholde våre forpliktelser å
-knytte arten av inkriminering opp til et så vidt
-begrep om sanksjoner, skal straffebegrepet i
-annet ledd bokstav a forstås enhetlig. Det er ikke
-gode grunner til å gi ulikt vern ved å anvende
-straffebegrepet forskjellig i de to sammenhengene det her virker i.
-Unntaket fra forklaringsplikten etter annet
-ledd bokstav b viderefører forklaringsfritaket i
-straffeprosessloven § 123 tredje punktum.
-Til § 9-4. Forklaringsfritak for pressen og kildevern
-Se straffeprosessloven § 125.
-Bestemmelsen må forstås i sammenheng med
-det korresponderende bevisforbudet i utkastet
-§ 8-4. Bestemmelsen verner om innholdet i de
-opplysninger som pressen er betrodd, også upublisert materiale. Det vises til drøftelsen i punkt
-13.4.3. Bestemmelsen ivaretar rettigheter for
-pressen som følger av EMK artikkel 10.
-«Journalistiske virke» i første ledd første punktum omfatter slik virksomhet som i dag faller inn
-under straffeprosessloven § 125. Uttrykket skal
-forstås fleksibelt, slik at vernets virkeområde kan
-fastlegges i tråd med utviklingen i mediebildet og
-fremveksten av nye måter for å formidle nyheter
-og aktuelt stoff.
-Vernet omfatter forklaringer fra den som har
-fått kjennskap til opplysningene eller kilden gjennom arbeid som følger som en naturlig forlengelse av det journalistiske arbeidet, for eksempel
-den aktuelle journalistens kollegaer, redaktøren
-eller ansatte i lokalene der den journalistiske virksomheten bedrives, eller på trykkeriet. Slike personer er imidlertid ikke omfattet av forklaringsfritaket i utkastet § 9-4, men av bevisforbudet i utkastet § 8-4, som verner opplysninger som skriver
-seg fra fortrolig kommunikasjon som en journalist
-har hatt. Dette innebærer at adgangen til å disponere over hvorvidt forklaring skal gis, vil være forbeholdt den som har stått for den fortrolige kommunikasjonen. Tilsvarende gjelder adgangen til å
+Vurderingen etter annet ledd må ta utgangspunkt i straffens begrunnelser, det vil si hensynet til allmennprevensjon, individualprevensjon og sosial (offentlig) ro. I hvilken utstrekning disse hensyn gjør seg gjeldende, vil i stor grad bero på overtredelsens grovhet sammenholdt med hvilke interesser som er krenket ved lovbruddet. Hvorvidt fornærmede, skadelidte eller berørte offentlige myndigheter ønsker at forholdet forfølges strafferettslig, vil være et viktig og etter omstendighetene avgjørende moment.
 
-579
+Selv om visse hensyn taler for forfølgning, kan det gjøre seg gjeldende mothensyn som bør tillegges avgjørende vekt. Dersom lovbruddet vil kunne få andre følbare konsekvenser for gjerningspersonen, for eksempel i form av erstatningskrav, administrativ sanksjon eller lignende, kan dette tilsi at det ikke er behov for å reagere strafferettslig. For unge lovbrytere kan møtet med politiet i seg selv ha en slik avskrekkende virking at individualpreventive hensyn får mindre betydning. Nødvendige ressursprioriteringer og samfunnsøkonomiske betraktninger kan også etter omstendighetene tale for henleggelse. Det kan dessuten foreligge helt spesielle grunner, slik som for eksempel behovet for å beskytte svært sensitive opplysninger mot innsyn mv.
 
-Kapittel 30
+Mistenktes samarbeidsvilje, herunder om vedkommende er villig til å erkjenne straffskyld for andre forhold eller gi opplysninger om lovbrudd begått av andre, kan etter omstendighetene være relevant ved vurderingen av om forfølgning er i det offentliges interesse. Det vises blant annet til merknadene nedenfor til bokstav c om situasjonen på forvaltningsområder der det er etablert ordninger med lempning av ansvar ved samarbeid mv. Bestemmelsen legger imidlertid ikke opp til at avgjørelsen av påtalespørsmålet skal bli gjenstand for forhandlinger mellom påtalemyndigheten og mistenkte, og den restriktive praksis som påtalemyndigheten i så henseende har fulgt under gjeldende lov, skal videreføres.
 
-samtykke til unntak fra bevisforbudet i § 8-4 etter
-§ 8-6 første ledd bokstav e, som er forbeholdt «den
-som er vernet etter» § 9-4, det vil si den som har
-stått for den fortrolige kommunikasjonen. Andre
-personer, som har overhørt den fortrolige kommunikasjonen uten å ha vært en aktivt deltakende
-part, eller som har kommet over opplysninger om
-denne, kan på grunn av bevisforbudet ikke forklare seg om kommunikasjonen eller dens innhold verken for retten eller påtalemyndigheten.
-Her, som i § 8-3 første ledd, er det et avgrensningsspørsmål hva som utgjør «fortrolig kommunikasjon». At flere personer har overhørt kommunikasjonen, fratar den ikke uten videre karakteren
-av fortrolighet. Det vises til merknadene til § 8-3
-første ledd. Etterfølgende opptreden kan videre
-tilsi at vernet er oppgitt ved samtykke, enten
-uttrykkelig uttalt eller ved konkludent adferd, jf.
-§ 8-6 første ledd bokstav e.
-På samme måte som i utkastet § 8-3 første ledd
-annet punktum omfatter forklaringsfritaket også
-materiale som står i «nær sammenheng med den
-fortrolige kommunikasjonen», og dermed er slike
-bevis også omfattet av bevisforbudet i § 8-4 bokstav a, jf. første ledd annet punktum.
-Unntaket fra forklaringsfritaket i annet ledd er
-forbeholdt ekstraordinære tilfeller. Uttrykket
-«unntaksvis» er benyttet for å markere at vilkåret
-for å gjøre unntak er svært strengt, og at adgangen ikke skal benyttes hyppig. Reguleringen gir et
-signal om at adgangen ikke nødvendigvis bør
-påberopes selv om det strengt rettslig kan være
-adgang til det, se nærmere om kildevernets samfunnsmessige betydning i punkt 13.4.3.
-Annet ledd annet punktum angir ikke uttømmende momenter som skal inngå i vurderingen av
-om det foreligger «særlige forhold» som tilsier
-forklaringsplikt etter første punktum.
-Annet ledd annet punktum første strekpunkt
-fremhever at det konkrete bidraget til saksopplysningen skal tas i betraktning. Ethvert bidrag er
-ikke tilstrekkelig, men det er heller ikke krav om
-at forklaringen må være avgjørende for sakens
-opplysning. Når spørsmålet oppstår før hovedforhandlingen og skal forelegges retten, vil det ofte
-være vanskelig å ta stilling til hvilken betydning
-forklaringsplikt kan ha for saksopplysningen,
-ettersom retten ikke har oversikt over det samlede bevisbildet. Heller ikke påtalemyndigheten,
-som kjenner saken, vil alltid vite hvilken betydning de opplysningene pressen sitter på, kan ha.
-Dersom det i lys av det foreliggende etterforskingsmaterialet fremstår som mest sannsynlig at
-sakens oppklaring kan ivaretas på annet vis enn
-ved å gjøre unntak fra forklaringsfritaket, vil det så
+*Annet ledd bokstav a til d* angir typetilfeller som illustrerer vektingen av nevnte hensyn i ulike situasjoner. Typetilfellene er ikke uttømmende, jf. «herunder».
 
-[Side 582]
+Hvorvidt et forhold skal anses «bagatellmessig» etter *annet ledd bokstav a*, må vurderes konkret, men det er grunn til å tro at dette ikke sjelden vil være en treffende karakteristikk for overtredelser med strafferamme i det «nedre sjikt», det vil si fengsel inntil 1 år.
 
-580
+*Annet ledd bokstav b* åpner for henleggelse på grunnlag av prosessøkonomiske overveielser og kapasitetshensyn. Bestemmelsen forutsetter at det skal skje en forholdsmessighetsvurdering. Hva som er rimelig og forholdsmessig tids- og ressursbruk, kan ikke vurderes løsrevet fra de ressurser som faktisk er tilgjengelige. Begrenset saksbehandlingskapasitet gjør prioriteringer nødvendig, og bestemmelsen åpner til en viss grad for kapasitetshenleggelser. Det vises til utvalgets vurderinger om adgangen til kapasitetshenleggelser i punkt 16.5.
 
-Kapittel 30
+*Annet ledd bokstav c* er uttrykk for et skjønnsmessig subsidiaritetsprinsipp i situasjoner der forholdet kan medføre administrativ sanksjon. Påtalemyndigheten må her som ellers sikre et forsvarlig avgjørelsesgrunnlag, og må som ledd i dette ha nødvendig kontakt med vedkommende forvaltningsorgan, blant annet for å avklare hvilke forvaltningsmessige sanksjoner som kan være aktuelle. I slike tilfeller kan påtalemyndigheten – med mindre den administrative behandlingen sperrer for strafferettslig forfølgning – vurdere om det i tillegg er behov for å reagere strafferettslig. Den offentlige interesse i forfølgning må ses i lys av det rettslige regime og de hensyn som gjør seg gjeldende på vedkommende forvaltningsområde, herunder må det vurderes om straffeforfølgning vil kunne undergrave formålet med den forvaltningsmessige behandlingen. Lempningsreglene etter konkurranseloven §§ 30 flg. er ett eksempel på en ordning der det etter omstendighetene kan være grunn til å avstå fra straffeforfølgning for at formålet med reglene skal kunne realiseres.
 
-NOU 2016: 24
-Ny straffeprosesslov
+*Annet ledd bokstav d* åpner for henleggelse når det er nødvendig for å hindre spredning av sensitive opplysninger. Selv om retten ikke tar en begjæring fra statsadvokaten om å nekte innsyn til følge etter utkastet § 6-11, jf. § 6-8, kan saken likevel henlegges når påtalemyndigheten finner at risikoen forbundet med mulig spredning av opplysningene er tilstrekkelig stor. Henleggelsesadgangen står åpen helt frem til det foreligger rettskraftig dom, jf. utkastet § 29-7 annet ledd bokstav c.
 
-å si aldri være adgang til å pålegge journalisten å
-forklare seg. Hvis påtalemyndigheten derimot kan
-gjøre presist rede for hvilke opplysninger det
-søkes etter, dokumenterer omfanget av etterforskingen, påviser at andre etterforskingsskritt som
-kunne ivareta formålet, ikke er tilgjengelige, og
-godtgjør at det er grunn til å tro at pressen sitter
-med viktige opplysninger, kan det være aktuelt
-med unntak.
-Etter annet ledd annet punktum annet strekpunkt er det avgjørende om samfunnets
-interesse i at opplysningen avsløres, gjør seg
-gjeldende med en slik styrke at fritaket og de
-hensyn dette bygger på, bør settes ut av spill
-med de potensielt uheldige virkninger dette kan
-ha for samfunnet. Dersom forholdet som straffeforfølges, ikke er av særlig alvorlig karakter, skal
-det mye til før det bør gjøres unntak. Pressens
-vern skal aldri måtte vike til fordel for oppklaring
-av mindre alvorlig hverdagskriminalitet. Henvisningen i annet ledd annet punktum tredje strekpunkt til den «samfunnsmessige betydningen» av
-pressens arbeid omfatter dessuten også journalistikk som søker å belyse forhold som knytter
-seg til alvorlig kriminalitet. Dette innebærer at
-det ikke nødvendigvis vil være adgang til å gjøre
-unntak selv i alvorlige saker, særlig når det er
-tale om å pålegge pressen å oppgi kilder. Gjelder
-det en alvorlig terrorsak, eller er det utsikt til å
-avverge en forestående alvorlig krenkelse av liv
-eller helse, vil momentet om vektige samfunnsinteresser derimot trekke i retning av at opplysningene bør gis.
-Annet ledd annet punktum tredje strekpunkt
-skal forstås slik at det er den samfunnsrelaterte
-journalistikken som ut fra formålet med bestemmelsen er mest beskyttelsesverdig. Er det konkrete holdepunkter for at arbeidet vil kunne
-komme til å være av stor samfunnsmessig betydning, må det åpenbart veie tungt. Men selv om
-journalistens arbeid i den konkrete saken faller i
-ytterkanten av det som vernes, må det også trekkes inn at forklaringsplikt kan være svært ødeleggende for vedkommendes forhold – og tilgang – til kilder i fremtiden og dermed for journalistens videre arbeid og pressens arbeid mer
-generelt.
-Til § 9-5. Forklaringsfritak for
-forretningshemmeligheter
-Se straffeprosessloven § 124.
-Bestemmelsen viderefører forklaringsfritaket i
-straffeprosessloven § 124 og må tolkes etter
-samme linjer som tvisteloven § 22-10 og forvalt-
+*Tredje ledd* svarer til straffeprosessloven § 71 b første punktum. Barneverntjenestens plikt til å underrette påtalemyndigheten om vedtak i saken foreslås regulert i barnevernloven, se punkt 29.2.6. Forslag til endringer i barnevernloven § 3-5 fremgår av utkastet § 46-3 nr. 3.
 
-ningsloven § 13 første ledd nr. 2. Adgangen til å fravike vernet følger av utformingen av forklaringsfritaket ved at dette ikke gjelder hvis «hensynet til
-sakens opplysning gjør forklaring påkrevet».
-Til kapittel 10. Politiavhør og forklaringer
-i rettsmøte. Anonyme vitner
-Til § 10-1. Møteplikt til politiavhør og rettslig avhør
-Se straffeprosessloven §§ 108, 112, 128 annet ledd
-og 230 tredje ledd.
-Første ledd fastslår utgangspunktet om møteplikt for politiet og retten etter innkalling. Forbeholdet «med mindre annet er bestemt» sikter til
-tilfellene nevnt i annet ledd for politiavhør og
-tredje ledd for politiavhør og rettslig avhør.
-Annet ledd fastslår at det ikke gjelder møteplikt for politiet for den som tydelig har gitt
-uttrykk for ikke å ville forklare seg. Politiet kan
-da heller ikke avhente personen etter bestemmelsene om dette i §§ 15-7 og 15-8. Det stilles ikke
-formkrav til meddelelsen. Formålet er primært å
-unngå at det benyttes unødige ressurser på oppmøter, men også å unngå et eventuelt opplevd forklaringspress i en slik situasjon. Unntaket fra
-møteplikten gjelder ikke personer som har
-forklaringsplikt etter utkastet § 9-2 annet ledd,
-med mindre denne personen har grunnlag for å
-forholde seg taus, for eksempel i kraft av
-forklaringsfritak.
-Til § 10-2. Innkalling til politiavhør
-Se straffeprosessloven § 230 tredje ledd.
-Bestemmelsen gir nærmere regler for innkalling av mistenkte og vitner til politiavhør.
-I første ledd første punktum er det, i motsetning
-til hva som følger av straffeprosessloven § 230
-tredje ledd, presisert at innkallingsmyndigheten
-ligger til påtalemyndigheten. Bestemmelsen er
-ikke til hinder for at tjenestepersoner i politiet
-utenfor påtalemyndigheten kan stå for innkallingen etter fullmakt.
-Første ledd annet punktum innebærer en justering av ordlyden etter straffeprosessloven, men
-forutsetter ikke en endring i politiets innkallingspraksis, i hvert fall slik de gjeldende reglene forutsettes anvendt i Ot.prp. nr. 66 (2001–2002) s. 91
-flg. «[I]kke har adgang» omfatter dem som ikke
-kan forklare seg på grunn av reglene om bevisforbud etter utkastet kapittel 8, mens uttrykket «ikke
-har møteplikt» omfatter dem som uttrykkelig har
-sagt fra at de ikke ønsker å forklare seg, herunder
-både dem som bare nekter å forklare seg for
-politiet, og dem som ønsker å benytte seg av for-
+*Til § 28-3. Påtaleunnlatelse*
 
-[Side 583]
+Se straffeprosessloven §§ 69 og 70.
 
-NOU 2016: 24
-Ny straffeprosesslov
+Bestemmelsen er nærmere omtalt i punkt 16.3, der det blant annet fremgår at adgangen til å stille vilkår om konfliktrådsbehandling ikke foreslås videreført, se også merknadene til utkastet § 28-4. Om adgangen til å stille vilkår om erstatningsbetaling vises det til punkt 25.4.1 og 25.4.4.
 
-klaringsfritak etter reglene i utkastet §§ 9-3 til 9-5,
-se utkastet § 10-1 annet ledd. Innkallingen skal
-fortsatt benyttes for å avklare om vedkommende
-er villig til å forklare seg for politiet.
-Annet ledd stiller krav til innkallingens innhold
-og tilsvarer utkastet § 31-2 fjerde ledd.
-Tredje ledd første punktum gir adgang til å
-unnlate forkynning når det er «åpenbart unødvendig». En tilsvarende adgang til å unnlate
-forkynning følger av utkastet § 10-3 tredje ledd
-første punktum for rettslige avhør, som henviser
-til bestemmelsen her. Forbeholdet dekker
-dagens praksis, som innebærer at innkalling av
-mistenkte og vitner til politiavhør samt forsvarerens innkalling av vitner til rettsmøte ofte skjer
-gjennom uformell kontakt. Unnlates innkalling,
-vil det imidlertid ikke være adgang til tvangstiltak mot vedkommende innkallingen er rettet
-mot, etter utkastet §§ 15-7 og 15-8.
-Tredje ledd annet og tredje punktum regulerer
-innkalling av barn som vitner til politiavhør, sml.
-straffeprosessloven §§ 110 annet ledd og 114 annet
-og tredje ledd. Bestemmelsene gjelder tilsvarende
-ved innkalling av barn til rettslig avhør, jf. utkastet
-§ 10-3 tredje ledd første punktum. Særreglene om
-innkalling av militært personell i straffeprosessloven § 114 første ledd «hører hjemme i en annen
-tid», og er derfor ikke videreført, se NOU 2001: 32
-bind B s. 969. Det samme gjelder regelen i samme
-bestemmelse annet ledd om innkalling av frihetsberøvede personer, som fremstår som unødvendig.
-En plikt for institusjonen til å bidra til at vitnet kan
-møte, og eventuelt gjøre rede for at vedkommende
-har gyldig forfall, for eksempel på grunn av alvorlig
-sinnslidelse, følger som en konsekvens av at møteplikten kan gjennomføres ved tvangstiltak også når
-vitnet er frihetsberøvet.
-Til § 10-3. Innkalling til rettslig avhør
-Se straffeprosessloven §§ 110, 111, 114 tredje og
-fjerde ledd, 126 og 143 tredje ledd.
-Første ledd fastslår hvem som står for innkalling av vitner til rettslig avhør. I utgangspunktet vil
-påtalemyndigheten ta seg av dette, men retten er
-gitt tilsvarende innkallingsadgang. Mistenktes vitner kan innkalles til rettsmøte av forsvarer, jf. første ledd annet punktum. Også fornærmede innkalles etter denne bestemmelsen som vitne. Første
-ledd tredje punktum henviser til reglene om innkalling av mistenkte til rettsmøte i kapittel 31 og har
-ikke selvstendig, men pedagogisk betydning.
-Med «vitner som ikke har adgang til å forklare
-seg», siktes det i annet ledd til forklaringer som vil
-rammes av et bevisforbud. Med «vitner som ikke
+*Til § 28-4. Overføring til konfliktråd*
 
-581
+Se straffeprosessloven § 71 a.
 
-Kapittel 30
+Bestemmelsen regulerer uttømmende påtalemyndighetens adgang til å beslutte overføring til konfliktråd. Adgangen til å stille konfliktrådsbehandling som vilkår for vedtak om påtaleunnlatelse er ikke videreført. Noen realitetsendring av betydning innebærer dette imidlertid ikke, ettersom det kan knyttes de samme vilkår til beslutning om overføring til konfliktråd som til beslutning om påtaleunnlatelse, jf. *tredje ledd*. Det vises til punkt 16.3.
 
-har forklaringsplikt», siktes det til bestemmelsene
-om forklaringsfritak i kapittel 9. Sml. straffeprosessloven § 126, se forøvrig Rt. 2014 s. 1719
-avsnitt 18 flg.
-Forkynning av innkallingen kan unnlates når
-det er «åpenbart unødvendig», og innkalles et
-barn, skal fremgangsmåten i utkastet § 10-2 tredje
-ledd annet eller tredje punktum benyttes, se tredje
-ledds henvisning til § 10-2 tredje ledd og merknadene til denne.
-Til § 10-4. Informasjon før avhør
-Se straffeprosessloven §§ 90, 91, 127, 128 første
-ledd, 232, 233 og 235 og påtaleinstruksen §§ 8-1
-og 8-2.
-Bestemmelsen regulerer hva mistenkte og
-vitner skal varsles om i alle tilfeller, det vil si både
-under politiavhør og når det avgis rettslig forklaring.
-Første ledd gjelder mistenkte og viderefører
-straffeprosessloven §§ 90 og 232.
-Første ledd bokstav c skal sikre mistenkte
-muligheten til å ivareta sine interesser, herunder
-et eventuelt ønske om å bidra til saksopplysningen. Mistenkte skal gjøres kjent med hva som er
-hensikten med avhøret, og kort hvordan det vil
-kunne benyttes i straffesaken.
-Første ledd bokstav e og f legger opp til at mistenkte tidlig skal informeres om betydningen av
-en tilståelse med tanke på straffutmåling og om
-ordningene med forenklet behandling og straffetilsagn i de sakene der dette kan fremstå som
-aktuelt. Siktemålet er å oppnå «nødvendige avklaringer» som kan bidra til at saken kan behandles
-så effektivt som mulig, se også utkastet § 28-7
-annet ledd. Dette innebærer blant annet at det legges til rette for en klargjøring av om saken egner
-seg for forenklet behandling etter reglene i utkastet kapittel 36.
-Informasjon til mistenkte om rettigheter etter
-første ledd må formidles på en måte som gjør vedkommende i stand til effektivt å ivareta sine
-interesser. Av betydning er at mistenkte varsles
-om vernet mot tvungen selvinkriminering, og
-omstendigheter i tilknytning til varselet inngår og
-tillegges stor betydning i vurderingen av om
-rettergangen har vært rettferdig etter EMK artikkel 6 nr. 1, se storkammeravgjørelsen Ibrahim
-mfl. mot Storbritannia (50541/08, 50571/08,
-50573/08 og 40351/09), dom 13.09.16, avsnitt 270
-flg., Aleksandr Zaichenko mot Russland (39660/
-10), dom 18.02.10, avsnitt 52 flg. og nærmere i
-Øyen (2010) s. 190 flg. og Øyen (2016a) s. 321 flg.
-Særlig når mistenkte er mindreårig eller har psy-
+*Til § 28-5. Forelegg*
 
-[Side 584]
+Se straffeprosessloven §§ 51 annet ledd, 255 og 257 første punktum.
 
-582
+Om adgangen til å stille vilkår om erstatningsbetaling vises det til punkt 25.4.1 og 25.4.4 og merknadene til utkastet § 43-1.
 
-Kapittel 30
+Kravet om «signatur» i *annet ledd* utelukker ikke bruk av elektronisk signatur, se punkt 6.2.3.
 
-NOU 2016: 24
-Ny straffeprosesslov
+*Tredje ledd* svarer til straffeprosessloven § 51 annet ledd for så vidt gjelder adgangen til å fremme krav om inndragning på grunnlag av et forhold som er avgjort ved forelegg. Se for øvrig utkastet § 32-13 om krav om inndragning etter rettskraftig dom og merknadene til bestemmelsen.
 
-kiske avvik, skal den som forestår avhøret, etter
-bestemmelsen være omtenksom og ta ekstra hensyn når vedkommende informeres, se også Panovits mot Kypros (4268/04), dom 11.12.08, avsnitt
-74 og NOU 2014: 10 s. 265–266. Etter utkastet er
-det et ubetinget krav at mistenkte skal gjøres oppmerksom på taushetsretten før første avhør. Som
-det klare utgangspunkt vil manglende oppfyllelse
-av informasjonsplikten medføre bevisforbud etter
-utkastet § 8-5.
-I forlengelsen av at informasjonen etter første
-ledd første punktum må formidles på en måte som
-bidrar til at mistenkte kan ivareta sine interesser,
-fastslår første ledd annet punktum at mistenkte
-også etter første avhør skal gjøres oppmerksom
-på forhold som nevnt i bokstavene a til f «når det
-er grunn til det». Selv om mistenkte i et politiavhør allerede er kjent med retten til å forholde seg
-taus, er det naturlig også å opplyse om dette når
-mistenkte skal forklare seg i rettsmøter og ikke
-minst «grunn til» å gjøre dette i hovedforhandlingen. Også slike avklaringer som nevnt i bokstav f
-vil det være naturlig å ta opp i senere avhør, i
-hvert fall fra påtalemyndighetens side. Det kan
-også hende at saken tar en slik vending at den
-som forestår avhøret, bør varsle om retten til forsvarer selv om dette også har blitt gjort på et tidligere tidspunkt. Mistenkte som er mindreårige,
-unge eller har psykiske avvik, vil det ofte være
-«grunn til» å informere flere ganger, etter omstendighetene også under det samme avhør.
-Annet ledd viderefører en varslingsplikt når det
-er grunnlag for ikke å forklare seg, sml. straffeprosessloven §§ 127 og 235. Bestemmelsen
-krever at «enhver» skal varsles, det vil si både
-mistenkte og vitner. For det første skal det gjøres
-oppmerksom på reglene om «forklaringsplikt»
-etter utkastet § 9-2. Dette har først og fremst aktualitet under politiavhør, hvor utgangspunktet er at
-ingen har plikt til å forklare seg med mindre de er
-omfattet av et av unntakene i utkastet § 9-2 annet
-ledd bokstavene a til c.
-For det andre må det gjøres oppmerksom på
-«aktuelle forklaringsforbud», det vil si reglene om
-bevisforbud etter utkastet kapittel 8. Det følger
-direkte av utkastet § 8-1 at det vil være forbudt for
-både politiet og retten å motta slike opplysninger,
-men unntak følger av utkastet § 8-6, herunder ved
-samtykke fra den som er vernet. I situasjoner hvor
-kun deler av vitnets forklaring er omfattet av bevisforbud, må den som forestår avhøret, være nøye
-med hvordan spørsmål stilles, slik at regler om
-bevisforbud ikke krenkes. Det vises til utkastet
-§ 8-6 fjerde ledd, som reiser en lignende problematikk, se merknadene til denne bestemmelsen.
+*Til § 28-6. Tiltale*
 
-For det tredje skal både vitner og mistenkte
-informeres om «aktuelle […] forklaringsfritak».
-Det holder ikke med en generell opplysning om at
-vedkommende har rett til å forholde seg taus. Ut
-fra de konkrete omstendighetene skal det klargjøres hvorfor vedkommende kan la være å forklare
-seg eller besvare spørsmål. Særlig for nærståendefritaket er det viktig med bevissthet om når bestemmelsen skal påberopes, ikke minst fordi dette fritaket regelmessig vil kunne være ukjent blant dem
-som innkalles for å forklare seg, og fordi spørsmålet
-kan oppstå hyppig. Etter utvalgets forslag vil unnlatt varsling av mistenkte om nærståendefritaket
-etter utkastet § 9-4 for et familiemedlem som
-også er mistenkt i saken, i motsetning til rettsstillingen etter Rt. 2010 s. 456, utgjøre en saksbehandlingsfeil og etter omstendighetene kunne
-medføre bevisforbud etter utkastet § 8-5. Reguleringen tar høyde for en utbredt oppfatning i vår kulturkrets, nemlig at det å stå frem med og å erkjenne
-egne ugjerninger bedømmes som moralsk prisverdig, mens den som angir sine nærmeste, vil kunne
-møtes med fordømmelse. Utkastet bygger følgelig
-på den rettsoppfatning som Høyesteretts flertall
-uttrykte i Rt. 2008 s. 657, se særlig avsnittene 35 flg.
-Reglene om varsel om at det ikke gjelder forklaringsplikt ved politiavhør og ved aktuelle forklaringsfritak, gjelder ikke uten unntak. Dersom
-vitnet enten på grunn av alder eller psykisk
-avvikstilstand «ikke har forutsetninger for å ta stilling til om vedkommende bør forklare seg», skal
-det ikke varsles om aktuelle grunnlag for å forholde seg taus. Det vises til drøftelsen i punkt
-13.4.2 om utkastet § 9-3 og opphevelse av 12-årsgrensen for fritaket i straffeprosessloven § 122 og
-unntaket i § 239 a annet ledd annet og tredje punktum fra forklaringsfritakene i §§ 122 og 123. I stedet må den som står for avhøret, foreta en individuell vurdering av den som avhøres.
-Det vil være en presumsjon for at de som
-befinner seg innenfor det området av straffeprosessloven § 122 tredje punktum der begrunnelsen
-gjør seg gjeldende med styrke, også vil være omfattet av unntaket i utkastet § 10-4 annet ledd. Det
-omfatter først og fremst sakene hvor spørsmålet er
-om et barn under 12 år har vært utsatt for seksuelle
-eller andre overgrep fra nærstående. Her er det
-også et sentralt moment at det å informere om forklaringsfritaket kan ødelegge for den kontakten
-som er etablert med barnet under forberedelsen til
-avhøret. Men det kan forekomme at barn nær
-dagens aldersgrense er tilstrekkelig modne til å
-håndtere informasjonen om at det ikke er nødvendig for dem å forklare seg. I en sak der en nær
-slektning mistenktes for et lovbrudd som verken
+Se straffeprosessloven §§ 250 og 251.
 
-[Side 585]
+*Første ledd* bygger på et materielt tiltalebegrep. Tiltalen er påtalemyndighetens beslutning om å fremme krav om straff eller andre strafferettslige reaksjoner for domstolene. Et forelegg vil være uttrykk for en beslutning om tiltale når det oversendes retten for pådømmelse. Det er uten betydning om det skal avholdes hovedforhandling etter utkastet kapittel 35, eller om saken skal behandles forenklet etter utkastet kapittel 36, jf. *annet ledd*. Kravene til tiltalens form og innhold følger av utkastet § 28-8 første, tredje og femte ledd.
 
-NOU 2016: 24
-Ny straffeprosesslov
+Adgangen etter *tredje ledd* til midlertidig utsettelse av tiltaleavgjørelsen suspenderer ikke fristen for påtaleavgjørelse etter utkastet § 28-1 første ledd, men dersom det foreligger hindringer som nevnt i utkastet § 13-8 første ledd, vil det få betydning for «rimelig tid»-vurderingen. Foreligger uoverkommelige hindringer som det ikke er grunn til å anta vil falle bort innen en forsvarlig tidsramme, bør det som et alternativ til utsettelse vurderes om saken skal henlegges.
 
-har krenket barnet, en av foreldrene eller en annen
-nærstående, er det neppe grunn til å la være å informere selv ganske små barn. Ved spørsmålet om
-hvorvidt det skal informeres om fritaket, må man
-ikke tape av syne at forklaringsfritaket er personlig
-og også verner om barnets relasjoner og egen opplevelse av disse, og at det for barn, på samme måte
-som for voksne, både kan være tungt å angi familiemedlemmer og å leve med den mulige belastningen ved å ha gjort dette.
-Av tredje ledd følger det at alle som skal forklare seg, skal oppfordres til å gjøre dette på en
-fullstendig og sannferdig måte. Både mistenkte og
-vitner skal gjøres oppmerksom på ansvaret for
-uriktige anklager etter straffeloven § 222. Vitner
-skal etter annet punktum også informeres om
-ansvaret for uriktig forklaring etter straffeloven
-§ 221. Lovutkastet legger imidlertid ikke opp til å
-videreføre ordningen med vitneforsikring i straffeprosessloven §§ 131 og 132. For å understreke
-alvoret i å forklare seg for retten, er det tilstrekkelig at vitnet oppfordres til å forklare seg sannferdig og informeres om straffansvaret som følger
-ved uriktig anklage og forklaring. I vår tid vil en
-forsikring på «ære og samvittighet» virke fremmed for mange, og i praksis fremstår ordningen
-ofte som en uviktig formalitet.
-Fjerde ledd fastslår at fornærmede og etterlatte
-skal informeres om sine rettigheter i det første
-politiavhøret, se også utkastet § 4-2 første ledd
-bokstav m.
-Til § 10-5. Opplysninger mistenkte og vitner plikter å
-oppgi
-Se straffeprosessloven §§ 90 og 130.
-Etter første ledd første punktum skal mistenkte
-og vitner svare på spørsmål om navn, fødselsdato,
-stilling og bopel. Å bidra med slike opplysninger
-faller dermed utenfor mistenktes taushetsrett.
-Dette fremgår også ved at § 10-5 første ledd etter
-sin ordlyd knytter denne begrensede medvirkningsplikten til et avhørsbegrep som favner
-videre enn lovens begrep om «forklaring», se også
-utkastet § 10-4 første ledd bokstav a, jf. § 9-1. Å
-pålegge mistenkte å avsløre sin identitet utgjør
-neppe et problem gitt våre internasjonale menneskerettsforpliktelser, se nærmere Trechsel (2006)
-s. 354–355, med henvisning til at en plikt til å
-avsløre ens identitet gjelder i krigstid, jf. Den
-tredje Genèvekonvensjon om behandling av krigsfanger artikkel 17.
-Bestemmelsen viderefører dermed elementer
-i straffeprosessloven §§ 90 og 130 første punktum.
-Og det er etter utkastet også presisert at denne
+*Til § 28-7. Tilsagn om straffepåstand*
 
-583
+Bestemmelsen er ny.
 
-Kapittel 30
+Om bakgrunnen for forslaget vises det til punkt 16.8.5.
 
-plikten, som er straffesanksjonert etter straffeloven § 162, både gjelder i første politiavhør og i
-første rettsmøte.
-I annet ledd er unntakene i straffeprosessloven
-§ 130 annet ledd utvidet til også å gjelde mistenkte.
-Tredje ledd viderefører straffeprosessloven
-§ 130 annet punktum og første punktum om
-utspørring av vitner om forholdet til mistenkte og
-fornærmede.
-§ 10-6. Alminnelige regler om gjennomføringen av
-avhør
-Se straffeprosessloven §§ 92 annet ledd, 128 annet
-ledd, 129, 136 og 232 annet ledd annet punktum,
-Grunnloven § 93 annet ledd og EMK artikkel 3.
-Bestemmelsen fastslår generelle regler om
-hvordan avhør skal gjennomføres. De gjelder
-både for politiavhør og ved rettslige forklaringer
-og overfor mistenkte så vel som vitner.
-Første ledd første punktum fastslår den overordnede retningslinjen for gjennomføring av avhør,
-nemlig at avhøret skal være «hensynsfullt» overfor den som forklarer seg, og gjennomføres på en
-måte som sikrer «god kommunikasjon». Flere av
-de øvrige reglene i bestemmelsen kan ses som et
-utslag av denne, herunder første ledd annet og
-tredje punktum, som gir enkelte nærmere regler
-om kommunikasjonen når det avgis forklaring. I
-annet punktum er det presisert at den som gjennomfører avhøret, må være ekstra oppmerksom
-på enkelte forhold som særlig kan svekke kommunikasjonen, og ta hensyn til dette. I tredje
-punktum er det bestemt at personer som ikke
-skjønner eller kun har begrensede ferdigheter i
-norsk, har en ubetinget rett til at det kommuniseres via tolk eller på et språk som er kjent for vedkommende. Dette gjelder også vitner.
-Regler som de som i dag finnes i straffeprosessloven § 133, anses overflødige ved siden av
-grunnregelen om at avhøret skal sikre god kommunikasjon og den overordnede avveiningen det er
-gitt anvisning på i utkastet § 35-2 annet ledd første
-punktum.
-Uttrykket «testing av fysiologiske reaksjoner»
-i annet ledd innebærer blant annet et forbud mot å
-foreta avhør med polygraf («løgndetektor»), jf.
-Rt. 1996 s. 1114, utkastet § 8-5 og merknadene til
-§§ 8-5 og 8-6. Straffeprosessloven § 92 annet ledd
-tredje punktum om at mistenkte «skal gis anledning til å få sedvanlige måltider og nødvendig
-hvile», videreføres i annet ledd annet punktum og
-gis anvendelse for enhver, jf. ordlyden «[a]vhøret
-skal heller ikke trette ut den som avhøres».
+Regelen etter *første ledd* er begrunnet i prosessøkonomiske hensyn og kan anvendes når mistenkte tilstår eller gir opplysninger som bidrar til oppklaring, eller som letter etterforskingen eller iretteføringen. Utenfor tilståelsestilfellene må påtalemyndigheten vurdere særskilt om de opplysninger som gis, er av en slik betydning at det er hensiktsmessig å benytte tilsagnsordningen. Det er et vilkår for å gi tilsagn at mistenkte tilstår eller gir opplysninger «av betydning», forutsetningsvis for *egen sak*. Det er ikke tilstrekkelig at mistenkte utelukkende gir opplysninger om lovbrudd begått av andre.
 
-[Side 586]
+Nivået på straffepåstanden det gis tilsagn om, må bestemmes ut fra de alminnelige materielle straffutmålingsreglene. I denne sammenheng kan påtalemyndigheten ta i betraktning alle relevante straffutmålingsmomenter, herunder om mistenkte i vesentlig grad har bidratt til oppklaring av andre lovbrudd, jf. straffeloven § 78 bokstav f. Mistenkte skal ikke forespeiles en strengere reaksjon enn det er grunnlag for, dersom vedkommende ikke samarbeider.
 
-584
+Det skal sikres notoritet for at mistenkte er gjort kjent med adgangen til og vilkårene for omgjøring av tilsagnet, jf. *annet ledd*.
 
-Kapittel 30
+Krav til utforming av tilsagnet følger av utkastet § 28-8 første og tredje ledd. Tilsagnet kan omgjøres på grunn av uriktige eller bristende forutsetninger, jf. utkastet § 29-8. Betydningen av at tilsagn er gitt for domstolenes reaksjonsfastsettelse, er regulert i første ledd siste punktum i utkastet § 32-3 om rettens forhold til partenes krav og påstander mv.
 
-NOU 2016: 24
-Ny straffeprosesslov
+*Til § 28-8. Utforming av påtalevedtak*
 
-Tredje ledd viderefører § 136 annet ledd med
-det tillegg at også de såkalt kaptiøse eller kaptatoriske spørsmål forbys – spørsmål som er utformet
-for å lure eller lokke frem et svar på noe som det
-ikke spørres direkte om, typisk ved en uuttalt forutsetning som fordres bekreftet ved svar på spørsmålet («Har De sluttet å slå Deres kone?»). Dette
-fremgår ved at spørsmål «som […] forutsetter noe
-som er tvilsomt», ikke må stilles.
-Fjerde ledd fastslår at det som regel skal gis
-anledning for eventuell verge til å være til stede og
-å uttale seg under avhør, sml. straffeprosessloven
-§ 232 tredje ledd, som kun gjelder mistenkte.
-Denne bestemmelsen viderefører dessuten straffeprosessloven § 128 annet ledd.
-Sjette ledd markerer at avhør av mistenkte ikke
-innebærer enveiskommunikasjon, men at vedkommende i tråd med prinsippet i § 7-1 annet ledd
-må gis anledning til kontradiksjon både under
-rettslige avhør og under etterforskingen.
-§ 10-7. Tilrettelagt avhør. Avhør av barn og visse andre
-sårbare personer
-Se straffeprosessloven §§ 239 til 239 f.
-Med «særlig skikket person under ledelse av
-påtalemyndigheten» siktes det i første ledd til personer med særlig kyndighet i avhørssituasjonen
-og kunnskap om vitenskapelig forankrede metoder for pålitelig og objektiv informasjonsinnsamling. I de sakstypene som er nevnt i første ledd første punktum, skal det nesten alltid benyttes tilrettelagt avhør. Men det er tatt inn et forbehold, jf.
-uttrykket «som regel». Forholdene kan nemlig
-ligge slik an at det ikke bør foretas tilrettelagt
-avhør, selv om saken faller innenfor ordningens
-virkeområde. Dette gjelder ikke minst når en
-moden person gir uttrykk for at tilrettelagt avhør
-ikke er ønsket, og tvert imot heller ønsker å
-være til stede og vitne i saken mot den påståtte
-gjerningspersonen. Utenfor de nærmere angitte
-sakene må det foretas en mer konkret vurdering
-av behovet for at denne særskilte avhørsformen
-benyttes, se første ledd annet punktum. Foretas
-det tilrettelagt avhør etter annet punktum, vil vitnet imidlertid ikke være underlagt forklaringsplikt etter utkastet § 9-2 annet ledd bokstav a.
-Uenighet om hvorvidt vitnet skal avhøres etter
-reglene om tilrettelagt avhør, med de konsekvenser det kan ha for den videre prosessen, kan
-bringes inn for retten til avgjørelse.
-Annet ledd første punktum gir en mer åpen retningslinje for når tilrettelagt avhør skal gjennomføres, sammenlignet med det detaljerte fristsystemet som i dag følger av § 239 e. Annet ledd annet
+Se straffeprosessloven §§ 252 og 256 samt påtaleinstruksen §§ 17-3 og 18-7.
 
-og tredje punktum viderefører § 239 d fjerde ledd,
-men adgangen for avhørsleder til å nekte å stille
-de spørsmål som forsvarer ønsker svar på, er
-strengere, noe som er markert i ordlyden. Forsvarer har rett til å være til stede i ethvert avhør etter
-bestemmelsen, se utkastet § 3-7 annet ledd bokstav d.
-Det følger forutsetningsvis av tredje ledd at
-mistenkte skal varsles om avhøret og få konferert
-med sin forsvarer. Mistenkte har rett til forsvarer
-etter utkastet § 3-15, og påtalemyndigheten kan
-oppnevne forsvarer etter utkastet § 3-22 første
-ledd. Dette er særlig viktig for å håndtere spørsmål knyttet til kontradiksjon, som kan reise seg
-igjen senere under hovedforhandlingen, se utkastet § 10-9 fjerde ledd. Vilkåret om at «hensynet til
-etterforskingen» krever unnlatt varsel, skal forstås strengt. Det må kunne påvises konkrete forhold som tilsier dette.
-For at mistenkte skal ha en oppfordring til å
-ivareta sin rett til kontradiksjon, må vedkommende gjøres oppmerksom på hvordan et tilrettelagt avhør kan benyttes i saken, og på retten til
-supplerende avhør, se tredje og fjerde ledd, som
-viderefører § 239 b fjerde ledd annet punktum.
-De nærmere detaljer om gjennomføringen av
-slike avhør bør forskriftsreguleres innenfor de
-rettssikkerhetsmessige garantier som følger av
-loven, se utkastet § 10-11 og punkt 13.5.3.
-§ 10-8. Opptak og nedtegning av forklaringer
-Se straffeprosessloven § 232 femte ledd.
-Første ledd etablerer et utgangspunkt om at
-det skal sikres notoritet for politiavhør ved lyd- og
-bildeopptak. Men bestemmelsen åpner, avhengig
-av sakens karakter, for å nedprioritere dette av
-prosessøkonomiske hensyn. Det er ikke nødvendig å ta opptak for å dokumentere forklaringer i
-bagatellsaker, men forklaringen må da nedtegnes,
-jf. første ledd annet punktum. Det kreves ikke at
-mistenkte signerer nedtegnelsen, men det må på
-en eller annen måte fremgå at den er lest opp, og
-at mistenkte er gitt anledning til å komme med tilføyelser og rettelser.
-Annet ledd oppstiller et ubetinget krav om at det
-skal skrives rapport etter avhør. Særlig viktig er det
-at dette må gjøres «snarest mulig», mens avhøret
-fortsatt er friskt i minne, og at rapporten må inneholde et sammendrag med «opplysninger av betydning for saken», jf. annet ledd bokstav a. En konsentrert avhørsrapport er viktig for den videre fremdriften i etterforskingen og for straffesakens ulike
-aktører, som ikke alltid vil ha anledning til å gå gjennom timevis med opptak. Se også påtaleinstruksen
+Kravene til form og innhold etter *første ledd* gjelder for alle påtalevedtak. Skriftlighetskravet er ikke til hinder for elektronisk behandling og kravet om signatur omfatter elektronisk signatur, se punkt 6.2.3.
 
-[Side 587]
+Kravet til begrunnelse for henleggelsesbeslutninger er ikke strengt, jf. *annet ledd*. Det reelle grunnlaget for henleggelsen må fremgå, men det er tilstrekkelig at dette skjer ved bruk av henleggelseskoder i kombinasjon med en stikkordsmessig angivelse av det rettslige og faktiske grunnlag for avgjørelsen, slik praksis er etter gjeldende lov. Etter omstendighetene kan det være grunn til å gi en nærmere begrunnelse, og dersom henleggelsen påklages, bør den myndighet som har truffet vedtaket, begrunne dette i tråd med det som har vært vanlig praksis. Se riksadvokatens rundskriv nr. 2/2015 punkt VIII, 1.1.
 
-NOU 2016: 24
-Ny straffeprosesslov
+Det bemerkes at forfølgningen kan måtte anses som innstilt selv om det ikke foreligger en formalisert beslutning om henleggelse. Innstilling kan etter omstendighetene reelt også tenkes å skje på andre måter, for eksempel på grunnlag av passivitet, ved konkludent adferd e.l. Spørsmål om henleggelse på grunn av konkludent adferd kan for eksempel oppstå når en forfølgning har omfattet flere mulige straffbare forhold, og det så treffes positivt påtalevedtak for bare ett eller noen av forholdene. I så fall kan det være rimelig å tolke påtalemyndighetens avgjørelse slik at forfølgningen er innstilt for de øvrige forhold forfølgningen har omfattet, selv om dette ikke formaliseres i en uttrykkelig henleggelsesbeslutning. Spørsmålet må avgjøres konkret og vil avhenge av en tolking av det aktuelle positive påtalevedtak, sett i sammenheng med faktum i saken, se Torgersen (2012) s. 219–221.
 
-§ 8-14. De øvrige elementer i bestemmelsen viderefører krav som følger av straffeprosessloven § 230
-femte ledd. Det kreves imidlertid ikke at mistenkte
-signerer rapporten, men som for nedtegnelser etter
-første ledd må det på en eller annen måte fremgå at
-den er lest opp, og at mistenkte er gitt anledning til
-å komme med tilføyelser og rettelser.
-Tredje ledd er en pedagogisk begrunnet henvisning til reglene om rettsbøker og opptak i de
-foreslåtte reglene i domstolloven §§ 134 a, 134 b
-og 134 c.
-§ 10-9. Føring av forklaringer under hoved- og
-ankeforhandling
-Se straffeprosessloven §§ 278, 290, 296 og 297.
-Bestemmelsen gir nærmere regler om hvordan bevismiddelet forklaring skal føres for retten
-under hoved- og ankeforhandlinger og dermed
-kunne legges til grunn for en dom, jf. utkastet
-§ 32-4 annet ledd første punktum.
-Første ledd første punktum fastslår hovedregelen, nemlig at forklaringer skal gis muntlig og
-direkte for den dømmende rett, noe som også i
-utgangspunktet «best sikrer sakens opplysning,
-effektiv saksavvikling og hensynet til offentlighet», se utkastet § 35-2 annet ledd. Se punkt 5.3.4
-og 5.3.5 om henholdsvis bevisumiddelbarhetsprinsippet og muntlighetsprinsippet.
-Første ledd annet punktum uttrykker mistenktes rett til kontradiksjon etter § 7-1 annet ledd ved
-bevisføring i form av forklaringer. Bestemmelsen
-presiserer at dette også omfatter en rett til krysseksaminasjon av vitner. Det avgjørende er at
-mistenkte «gis anledning til å stille spørsmål», se
-punkt 13.5.2.
-Det er en nær sammenheng mellom bevisumiddelbarhetsprinsippet uttrykt i første punktum og
-retten til imøtegåelse i annet punktum, ettersom
-vitnenes oppmøte og direkte forklaring for retten
-legger til rette for krysseksaminasjon. Henvisningen til utkastet § 35-4 tredje og femte ledd, som gir
-uttrykk for den alminnelige retten for partene til
-imøtegåelse av bevisføring under hovedforhandlingen, innebærer at mistenktes rett til krysseksaminasjon som den klare hovedregel skal oppfylles
-ved at vitnene føres for tingretten under hovedforhandlingen. Dette åpner for at mistenkte eller forsvarer gis anledning til å konfrontere vitnet direkte
-ved «å stille spørsmål» og «å føre supplerende
-bevis», jf. § 35-4 tredje ledd.
-I annet ledd åpnes det for utstrakt bruk av lydog bildeopptak innenfor rammene som følger av
-hensynet til sakens opplysning og retten til kontradiksjon. Forutsetningen er at opptaket har
+*Tredje ledd* krever at alle beslutninger om påtalespørsmålet som fra påtalemyndighetens side innebærer konstatering av straffskyld – de såkalte positive påtalevedtak –, skal inneholde en rettslig og faktisk beskrivelse av det forhold beslutningen gjelder, jf. bokstav a og b. Av hensyn til mistenktes forsvar kan det være behov for en nærmere redegjørelse for påtalemyndighetens syn på saken enn det som etter bestemmelsen skal fremgå av tiltalen. Dette hensyn må ivaretas ved at påtalemyndigheten utarbeider en redegjørelse for saken, jf. utkastet § 34-1 annet ledd. Dessuten kan retten pålegge påtalemyndigheten å utarbeide en slik redegjørelse, jf. utkastet § 34-10.
 
-585
+Tilsagn om straffepåstand etter utkastet § 28-7 vil det regelmessig være aktuelt å gi allerede i forbindelse med avhør av mistenkte, og dermed på et stadium der forholdene normalt ikke ligger til rette for at påtalemyndigheten kan ta stilling til spørsmål om straffskyld. Kravene til form og innhold etter første og tredje ledd skal imidlertid sikre notoritet for innholdet i tilsagnet og hvilke(t) forhold tilsagnet knytter seg til.
 
-Kapittel 30
+Selv om det etter *femte ledd* ikke er et krav at påtalemyndighetens straffepåstand angis i tiltalen, er det ikke noe i veien for at dette gjøres dersom det etter forholdene anses hensiktsmessig til veiledning for tiltalte mv.
 
-skjedd i retten eller ved tilrettelagt avhør etter
-utkastet § 10-7, og at det ikke «strider mot mistenktes rett til imøtegåelse», se fjerde ledd.
-Dette innebærer at ankeforhandlingen i stor
-utstrekning vil kunne baseres på opptak av forklaringer tatt opp i tingretten, se drøftelsen i punkt
-6.5.4. Det å bruke opplysningene på nytt i ankeomgangen vil kunne virke effektiviserende ved at
-vitner ikke trenger å møte til ankeforhandling, at
-bevisføringen lett kan konsentreres om «springende punkter», og at partene på forhånd sørger
-for at kun de delene av forklaringen som kan tillates ført etter utkastet § 7-3, blir spilt av.
-Også opptak av tilrettelagte avhør etter utkastet § 10-7 kan tre i stedet for en muntlig forklaring overfor den dømmende rett etter første
-ledd. Dette innebærer en videreføring av straffeprosessloven § 298, men slik at mistenktes rett til
-kontradiksjon etter fjerde ledd er gjort til et ubetinget krav for utelukkende å benytte opptak av
-et slikt politiavhør under hovedforhandlingen, se
-nærmere om kravene til kontradiksjon ved vitnebevis i punkt 13.5.2.4 og 13.5.3. Det er heller ikke
-et ubetinget krav om at et lovformelig og tilfredsstillende tilrettelagt avhør alltid må benyttes i
-stedet for personlig oppmøte. Hvis det er behov
-for det, kan vitnet kalles inn for å forklare seg
-etter utkastet § 10-9 første ledd, jf. uttrykket
-«som regel».
-Bestemmelsen åpner etter sin ordlyd for en
-konkret vurdering, men det klare utgangspunktet
-er at avhør etter utkastet § 10-7 skal spilles av for
-å tre i stedet for vitnets personlige oppmøte. Det
-vil ikke være aktuelt å innkalle små barn for å
-avgi forklaring direkte under hovedforhandlingen. Men for større barn, og spesielt når
-vitnet er fylt 16 år på tidspunktet for hovedforhandlingen, kan den konkrete vurderingen
-medføre personlig oppmøte også i tilfeller der
-det i dag er obligatorisk å avspille tilrettelagte
-avhør. Adgangen til alminnelig vitneførsel etter
-utkastet § 10-9 første ledd skal imidlertid bare
-benyttes unntaksvis og fortrinnsvis bare overfor
-barn i det øvre sjikt av alder og modenhet. Jo
-eldre og mer modent barnet er, desto mindre
-betenkelig vil det være å legge til rette for bedre
-kontradiksjon ved å føre vitnet for retten på vanlig måte når hensynet til sakens opplysning kan
-tilsi det. Dette følger av at inngrepet i retten til
-kontradiksjon og krysseksaminasjon må være
-forholdsmessig.
-Uttrykket «helt eller delvis» innebærer at
-avspilling av opptak med lyd og bilde både kan
-benyttes til erstatning for og i kombinasjon med
-forklaring direkte for retten. Om avspilling skal
+*Til § 28-9. Underretning om påtalevedtak*
 
-[Side 588]
+Se straffeprosessloven §§ 73 annet ledd, 257 annet punktum og 263 samt påtaleinstruksen §§ 17-2, 17-4, 18-3 til 18-7, 18 A-4 og 20-5 til 20-7.
 
-586
+**Til kapittel 29. Omgjøring og overprøving av påtalevedtak mv.**
 
-Kapittel 30
+*Til § 29-1. Generelt om omgjøring av påtalevedtak*
 
-NOU 2016: 24
-Ny straffeprosesslov
+Bestemmelsen er ny.
 
-skje «helt eller delvis», må bestemmes ut fra hva
-som er hensiktsmessig, særlig i lys av hensynene
-til saksopplysning, forklaringens lengde og vitnet.
-Utgangspunktet for vurderingen er den overordnede retningslinje som utkastet § 35-2 annet ledd
-gir anvisning på, nemlig at bevis skal «føres på den
-måte som best sikrer sakens opplysning, effektiv
-saksavvikling og hensynet til offentlighet».
-En kombinasjon av forklaring direkte for retten og avspilling vil særlig være aktuelt når den
-forklaringen det er tale om å spille av, også inneholder elementer som er omstridte. Ved slik «delvis» avspilling oppstår spørsmålet om hvilket
-bevismiddel som bør ha prioritet: Bør den tidligere avgitte forklaringen spilles av først, før vitnet
-forklarer seg for retten, eller bør den motsatte
-fremgangsmåte benyttes, det vil si at opptaket kun
-benyttes til å foreholde vitnet tidligere forklaring
-eller supplere det som forklares, jf. tredje ledd
-bokstav a og b?
-Ved uenighet ligger det til retten å avgjøre
-dette spørsmålet i medhold av ansvaret for saksstyring under hovedforhandlingen, selvfølgelig
-etter innspill fra partene, jf. utkastet § 35-1.
-Av annet ledd annet punktum fremgår det at
-partenes syn, som i praksis særlig vil bety mistenktes syn, skal tillegges betydelig vekt i tvilstilfeller. Det henger sammen med at et av hensynene bak kontradiksjon også er å legge til rette for
-en prosess som innbyr til tillit.
-I tredje og fjerde ledd videreføres rettstilstanden
-under §§ 290, 296 og 297 og EMK artikkel 6, men
-det gjøres enkelte justeringer, det vil si at retten til
-kontradiksjon og krysseksaminasjon skal tillegges
-større betydning etter utvalgets utkast. Det vises
-dessuten til merknadene til utkastet § 7-1 annet
-ledd og drøftelsen i punkt 13.5.2, særlig punkt
-13.5.2.4. Gjengivelse av tidligere avgitt forklaring
-etter tredje ledd omfatter alle bevis om forklaringens innhold. En polititjenestemann kan således
-ikke forklare seg om innholdet i et avhør med
-mindre vilkårene i tredje og fjerde ledd er oppfylt.
-Avgjørelsen av om en forklaring beheftet med
-kontradiksjonssvikt skal tillates gjengitt, bør
-utsettes til avslutningen av bevisføringen under
-hovedforhandlingen. I større saker vil det være
-hensiktsmessig at slik problematikk er varslet alt
-under saksforberedelsen, jf. utkastet §§ 7-2 annet
-ledd bokstav c og 34-7 annet ledd bokstav b. Det
-må være anledning for retten til å få innsyn i opplysningene før avgjørelsen av om beviset skal
-føres. Således vil mistenktes rett til kontradiksjon og krysseksaminasjon ved spørsmål om
-gjengivelse av tidligere avgitte forklaringer både
+Etter *første ledd* er hovedregelen at omgjøring til gunst for mistenkte alltid kan skje. Det er unntak fra denne hovedregelen som krever særskilt regulering. Unntak følger av utkastet §§ 29-6 om opphevelse av vedtatt forelegg og 29-7 annet ledd om frafallelse av tiltalen.
 
-ivaretas som et forbud mot bevisføring og som et
-vektleggingsforbud. I kraft av objektivitetsplikten må det dessuten også ligge til påtalemyndigheten å sørge for at mistenktes rettigheter på
-dette punkt respekteres.
-Fjerde ledd annet punktum utvider adgangen til
-gjengivelse av tidligere forklaring avgitt i anledning saken, herunder for skriftlige erklæringer.
-Utvidelsen gjelder også for andre situasjoner enn
-de som er angitt i tredje ledd bokstav a til d. Også
-påtalemyndigheten kan forhindre gjengivelse ved
-å la være å frafalle retten til kontradiksjon.
-Til § 10-10. Anonyme vitner
-Se straffeprosessloven §§ 130 a og 234 a.
-Med «[t]iltak» i første ledd siktes det til alle
-hensiktsmessige fremgangsmåter for å sikre
-vitnets anonymitet, herunder slike som i dag er
-nevnt i straffeprosessloven § 130 a tredje ledd.
-Om farer som er nevnt i utkastet § 6-8 første ledd
-bokstavene a til e, vises det til denne bestemmelsens merknader. Vilkåret om at tiltaket ikke skal
-medføre «vesentlige betenkeligheter av hensyn
-til mistenktes forsvar», må forstås i lys av retten
-til imøtegåelse i utkastet §§ 7-1 og 10-9 og EMDs
-praksis i tilknytning til EMK artikkel 6 nr. 3 bokstav d. Det er virkningene av det konkrete anonymiserende tiltaket som skal vurderes. Muligheten for reell imøtegåelse av vitnets forklaring
-vil ofte være det som gjør tiltaket betenkelig,
-men det må også tas hensyn til øvrige forhold,
-herunder den konkrete forklaringens betydning
-og de øvrige opplysningene i saken. De anonymiserende tiltakene skal ikke gå utover mistenktes forsvar i større grad enn det som er strengt
-nødvendig for å ivareta hensynet til å beskytte
-vitnets anonymitet. Det vises også til utkastet § 6-8
-annet ledd, som inneholder en tilsvarende
-regulering, og punkt 12.3.6.
-Adgangen i annet ledd annet punktum til hemmelighold for dem som regulært skal holdes
-informert om «vitnets navn og andre forhold av
-betydning for saken», skal kun sjelden benyttes, jf.
-uttrykket «særlig behov».
-Tredje ledd viderefører straffeprosessloven
-§ 130 a fjerde ledd.
-Fjerde ledd knytter seg til reguleringen i annet
-ledd ved at kun de dommerne som er gjort kjent
-med identiteten til vitnet, skal treffe avgjørelse
-om anonymiserende tiltak. Det innebærer at
-lekdommere ikke skal delta hvis opplysningene
-er holdt skjult for dem etter annet ledd annet
-punktum.
+*Annet ledd* får bare anvendelse når beslutningen det er spørsmål om å omgjøre, er rettet mot en mistenkt, jf. «til skade for mistenkte». Dersom forfølgningen innstilles uten at noen har vært mistenkt i saken, kan omgjøring skje uten hensyn til begrensningene i bestemmelsen. Om mistenktebegrepet vises det til utkastet § 3-1 og merknadene til bestemmelsen.
 
-[Side 589]
+Omgjøringsvernet er begrunnet i innrettelseshensyn. Omgjøringsadgangen står derfor åpen så lenge mistenkte ikke er «kjent med avgjørelsen». På hvilken måte mistenkte har blitt kjent med beslutningen, er ikke avgjørende.
 
-NOU 2016: 24
-Ny straffeprosesslov
+*Til § 29-2. Overordnet påtalemyndighets omgjøringsadgang*
 
-Til § 10-11. Forskrifter om tilrettelagt avhør
-Se straffeprosessloven § 239 b femte ledd. Se også
-merknaden til § 10-7 og punkt 13.5.3.
-Til kapittel 11. Sakkyndighet
-Straffesaker opplyses ved at bevis innhentes og
-bedømmes. Hvis sakens aktører ikke har kunnskap til å bedømme bevisene forsvarlig på egen
-hånd, kan de få bistand utenfra. De som gir slik
-bistand, betegnes som sakkyndige. Sakkyndigbeviset avgrenses mot vitnebevis, som er uttalelser
-fra personer som har sett, hørt eller på annen
-måte erfart noe som har betydning for den konkrete saken.
-Det vises til drøftelsen i punkt 13.6.
-Til § 11-1. Bistand fra sakkyndig
-Se straffeprosessloven §§ 138, 148, 149, 151 og
-152, og drøftelsen i punkt 13.6.3.2 og 13.6.3.6.
-Sakkyndige er personer med særlig kunnskap
-på et felt og som skal rettlede de rettslige aktørene til å forstå bevis ved bruk av særskilte teknikker, teorier og erfaringer. Bestemmelsen fastslår i
-tråd med prinsippet om fri bevisføring at det er
-adgang til å benytte sakkyndige under etterforskingen og til å føre sakkyndige etter eget ønske
-under hovedforhandlingen.
-Første ledd fastslår det selvsagte – at den
-sakkyndige skal ha særlig kunnskap på et felt, og
-er en påminnelse om at det nettopp er ekspertisen
-som skal begrunne bruken av den sakkyndige.
-Bruk av sakkyndige er kostnadskrevende og kan
-føre til at saken trekker ut i tid. Selv om det klare
-utgangspunktet er at kravet til saksopplysning i
-straffesaker er strengt, vil man, som for øvrig bevisføring, måtte veie behovet for sakkyndighet opp
-mot de omkostninger bruken medfører. Sakkyndige skal ikke benyttes dersom sakkyndigbeviset ikke er nødvendig for opplysning av saken.
-Bestemmelsen gir hjemmel for informasjonsutveksling. Strengt tatt sier den bare det som uansett vil gjelde, men markerer at bruk av sakkyndige kan ha stor betydning i straffeprosessen.
-Regler om unntak fra taushetsplikt for den som
-søker slik bistand, følger av andre regelsett, se
-blant annet for politi og påtalemyndighet politiregisterloven § 26 og for advokater Advokatlovutvalgets lovutkast til ny advokatlov §§ 27 og 28.
-I praksis er særlig tre typer sakkyndig bistand
-aktuelt. Én er frembringelse av ytterligere informasjon fra allerede innhentet informasjonsmateriale. For eksempel kan det være aktuelt å
+Se straffeprosessloven §§ 75 annet ledd og 59 a fjerde ledd siste punktum.
 
-587
+*Til § 29-3. Omgjøring av vedtak om henleggelse*
 
-Kapittel 30
+Se straffeprosessloven § 74 første ledd.
 
-oversende biologisk materiale til biokjemikere for
-å hente ut en DNA-profil fra materialet.
-Den andre typen sakkyndighet er formidling
-av særskilte erfaringssetninger eller teorier, for
-eksempel ved å uttrykke den statistiske sannsynligheten for at to DNA-prøver stammer fra samme
-menneske ved påvisning av identitet mellom to
-DNA-profiler – typisk ett «funn» og én referanseprøve.
-Den tredje typen sakkyndiguttalelser omhandler tekniske eller vitenskapelige vurderinger. Det
-kan for eksempel være tale om å bedømme om
-det er identitet mellom et fenomen med ukjent
-opphav og et fenomen fra en kjent kilde, samt hvilken betydning identitet har for å fastslå tilknytning mellom fenomenene. Ett eksempel på slike
-vurderinger er en biokjemiker som fastslår likheten mellom tiltaltes DNA og et funn av DNA på
-åstedet, og som deretter tar stilling til hvorvidt det
-er tiltaltes biologiske materiale som er funnet. Et
-annet eksempel er en kjemiker som uttaler seg
-om hvorvidt råstoffene i en glassprøve fra et knust
-vindu funnet på åstedet har den samme sammensetningen som glass funnet på mistenktes klær,
-og om dette er en vanlig eller uvanlig sammensetning, hvilken tidsperiode denne typen glass ble
-produsert, og hvilke produsenter som har produsert slikt glass.
-Sakkyndige skal bistå straffesaksaktørene
-med kunnskap som nevnt. Aktørene er innenfor
-sine roller selv ansvarlige for den konkrete
-bedømmelsen av sakens beviser, herunder skal
-de ta stilling til og avgjøre hvilken betydning
-sakkyndiguttalelser skal tillegges.
-Annet ledd angir de formelle tilknytningene en
-sakkyndig kan ha til saken; den sakkyndige kan
-antas av partene eller fornærmede, eller oppnevnes av retten. Tilknytningsformen angir hvem
-avtaleforholdet består mellom.
-Personer som tar del i en parts virksomhet, er
-ikke å anse som antatt. Det gjelder fast ansatte og
-dessuten andre med sterk tilknytning på grunn av
-regelmessige eller omfattende oppdrag for parten.
-Av betydning er skillet mellom på den ene side
-sakkyndige antatt av påtalemyndigheten og på
-den annen side sakkyndige antatt av mistenkte.
-Til påtalemyndighetens antakelse av sakkyndige
-stilles det – i likhet med for rettsoppnevnte
-sakkyndige – krav til mandat, oppdragsbekreftelse mv. Se nærmere utkastet § 11-2.
-Politi og påtalemyndighet vil benytte sakkyndige under etterforskingen når de ikke selv besitter den nødvendige ekspertise, mens for mistenkte vil siktemålet med å benytte en partsantatt
-sakkyndig typisk være å få etterprøvd uttalelser
+Med «avgjørende bevis» menes i *første punktum* bevis som alene eller sammen med allerede eksisterende bevismateriale er tilstrekkelig til at straffskyld anses bevist.
 
-[Side 590]
+*Til § 29-4. Omgjøring av vedtak om påtaleunnlatelse*
 
-588
+Se straffeprosessloven § 74 annet til fjerde ledd.
 
-Kapittel 30
+*Til § 29-5. Omgjøring av vedtak om overføring til konfliktråd*
 
-NOU 2016: 24
-Ny straffeprosesslov
+Se konfliktrådsloven §§ 21 annet ledd siste punktum, 25 femte ledd siste punktum, 33 tredje ledd tredje punktum, 34 første ledd første punktum og 36 annet og tredje ledd.
 
-fra andre sakkyndige, eller å presentere en annen
-tilnærming enn det som følger av dennes mandat.
-Det gjelder ingen begrensinger for slik bevisføring utover det som følger av de alminnelige
-reglene for bevis.
-Reglene om sakkyndighet gjelder også for fornærmedes innhenting av sakkyndiguttalelser når
-det unntaksvis er aktuelt. Det er videre forutsatt at
-bistandsadvokaten kan pålegges å ta del i mandatutformingen, se utkastet § 11-2 fjerde ledd. Fornærmede har imidlertid ikke selvstendig adgang
-til å føre bevis for retten for å belyse straffekravet,
-men forslagsrett overfor påtalemyndigheten, se
-utkastet § 34-5 annet ledd. Skal fornærmede
-benytte sakkyndig til å utrede helseskader med
-sikte på behandlingen av et sivilt erstatningskrav,
-skjer det etter utkastet § 43-3 første punktum, jf.
-kapittel 11, og § 43-7 annet ledd.
+Forslaget om å regulere omgjøring av vedtak om overføring til konfliktråd i ny straffeprosesslov forutsetter tekniske endringer konfliktrådsloven.
 
-forlengelsen av at mandatet utformes på en måte
-som sørger for klare spørsmålsstillinger etter § 112 annet ledd, er det avgjørende at det besvares på
-en forståelig måte, slik at holdbarheten og betydningen av sakkyndiguttalelsene kan vurderes.
-Uttrykket «særlige forhold» i første ledd annet
-punktum markerer at unntaket fra skriftlighet, i
-likhet med unntaket etter utkastet § 11-2 første
-ledd, er snevert og fortrinnsvis skal benyttes når
-det er stor fare for at etterforskingen vil lide ved
-opphold. I utgangspunktet skal altså den sakkyndige besvare et på forhånd gitt mandat. Det er
-likevel ikke til å unngå at det kan være aktuelt og
-hensiktsmessig å stille den sakkyndige spørsmål
-som går utover mandatet etter at dette er redegjort for, og at det vil være uhensiktsmessig å
-gjøre dette i skriftlig form. Dersom det er større,
-mer omfattende problemstillinger som løftes
-frem, skal den skriftlige hovedregelen følges.
+*Til § 29-6. Opphevelse av vedtatt forelegg*
 
-Til § 11-2. Mandat
-Se straffeprosessloven §§ 142 a og 153. Se drøftelsen i punkt 13.6.3.4.
-Den sakkyndige skal gjennom en erklæring
-besvare spørsmål innenfor de rammer som oppdragsgiveren har satt og formulert i mandatet.
-Det er avgjørende at mandatet utformes på en
-måte som sikrer at det forstås hva som etterspørres. I tillegg til at mandatet fastsetter rammene for
-hva den sakkyndige skal uttale seg om, vil det
-legge til rette for kontradiksjon.
-Kravet til skriftlighet i første ledd første punktum
-skal forstås strengt, og med unntaket for «særlige
-forhold» i første ledd annet punktum siktes det først
-og fremst til situasjoner der det ikke er tid til å
-utforme og overlevere et skriftlig mandat.
-Kravene i annet ledd er ikke til hinder for bruk
-av standardmandater. På enkelte områder finnes
-det standardmandater, og på andre områder kan
-det være hensiktsmessig at slike utvikles. Standardiserte mandater kan bidra til at sentrale problemstillinger med sikkerhet blir tematisert, og til
-effektiv saksbehandling. Bruken må imidlertid
-ikke bli så omfattende at den er til hinder for tilpasning av mandatet til den enkelte sak, slik at
-problemstillinger ikke blir tematisert, eller det
-utredes mer enn nødvendig.
-Til § 11-3. Besvarelse av mandatet. Krav til sakkyndig
-uttalelse
-Se straffeprosessloven §§ 143 annet ledd og 153
-tredje ledd. Se drøftelsen i punkt 13.6.3.7.
-Første ledd skal sikre klar og tydelig kommunikasjon mellom oppdragsgiver og oppdragstaker. I
+Se straffeprosessloven § 258 første ledd.
 
-Til § 11-4. Rettens oppnevning av sakkyndig
-Se straffeprosessloven §§ 237 og 294. Se drøftelsen i punkt 13.6.3.5.
-Første ledd bokstav a pålegger retten en plikt til
-å etterkomme påtalemyndighetens begjæring om
-oppnevning av sakkyndig, foruten i de to nevnte
-situasjoner. Om forholdet «ikke er straffbart»,
-skal, som etter gjeldende rett, avgjøres ut fra påtalemyndighetens oppfatning av sakens faktum.
-Etter at tiltale er reist kan retten også avslå
-begjæringen dersom oppnevning vil være uten
-betydning for saken, se nedenfor om annet ledd.
-Retten skal ikke av eget tiltak gå utenfor
-begjæringen. For begjæringer fremsatt av påtalemyndigheten følger dette av den generelle grensedragningen som er trukket opp for anklageprinsippet, se utvalgets drøftelser i punkt 17.6. For så
-vidt gjelder mistenkte og fornærmede, er det hensynet til deres autonomi og hensynet til uavhengige domstoler som begrunner regelen.
-Første ledd bokstav b regulerer situasjonen der
-påtalemyndigheten ikke finner grunn til å anta
-sakkyndig i tråd med mistenktes ønsker. Avgjørende for om sakkyndig likevel skal oppnevnes,
-vil da være om vedkommendes bistand vil ha
-«betydning for saken». Dette er et vilkår som det
-kan by på utfordringer for retten å ta stilling til,
-ettersom den – i tråd med anklageprinsippet –
-ikke er involvert under etterforskingen. Vilkåret
-bør derfor ikke praktiseres for strengt.
-Situasjonen når det er nødvendig med sakkyndig for å avgjøre fornærmedes erstatningskrav, er
-regulert i kapitlet om sivile krav, se utkastet § 43-7
-annet ledd.
+Det er kun vedtakelsen av «strafferettslig reaksjon» som kan oppheves. Påtalemyndigheten kan følgelig ikke oppheve vedtakelsen for så vidt gjelder eventuelt sivilt krav som er tatt med i forelegget, jf. utkastet § 43-1. Dette er det heller ikke adgang til etter den generelle omgjøringsregelen i utkastet § 29-1 første ledd, ettersom den kun gjelder avgjørelser om påtalespørsmålet og tilsagn om straffepåstand.
+
+*Til § 29-7. Endring av tiltalen. Frafall*
+
+Se straffeprosessloven §§ 72 første ledd, 253 annet ledd, 254 tredje ledd og 322 tredje ledd.
+
+Gjenstanden for positive påtalevedtak, herunder vedtak om tiltale, er et bestemt straffbart forhold. Det følger av dette at *første ledd første punktum* gjelder endring av tiltalen innenfor *samme forhold.* Bestemmelsen gjelder også etter at hovedforhandlingen er påbegynt. Avgrensningen av forholdets identitet skal skje etter de samme kriterier som i utkastet § 32-12 annet ledd om negativ materiell rettskraft. Dette innebærer at identitetsspørsmålet må avgjøres med utgangspunkt i hva som er samme *faktiske* forhold, se punkt 17.8.2.6 og merknadene til utkastet § 32-12 annet ledd. Bakgrunnen for sammenhengen er følgende: Hvis påtalemyndighetens adgang til å endre tiltalen avgrenses snevrere enn omfanget av den negative materielle rettskraft, vil det medføre at bestemmelser påtalemyndigheten ikke har hatt mulighet til å bringe inn i saken under hovedforhandlingen, omfattes av rettskraften, se punkt 17.8.2.6. Ved endringer av tiltalen under hovedforhandlingen kan det av hensyn til tiltaltes forsvar være behov for utsettelse, se utkastet § 31-6.
+
+Påtalemyndigheten står naturligvis fritt til å utferdige tiltale for *andre straffbare forhold*. Det gjelder imidlertid visse begrensninger med hensyn til adgangen til utvidelse av saken etter at hovedforhandling er påbegynt, og under ankebehandling, jf. utkastet § 30-3 annet ledd. Av pedagogiske grunner er det vist til bestemmelsen i *første ledd* *annet punktum*.
+
+*Annet ledd* regulerer påtalemyndighetens adgang til å frafalle tiltalen, som står åpen inntil dom er avsagt i første instans. Etter at det foreligger dom i tingretten, kan tiltalen bare frafalles når vilkårene i *annet ledd bokstav a til c* foreligger. Påtalemyndighetens objektivitetsplikt, sammenholdt med første ledd i utkastet § 28-2 om henleggelse, medfører at tiltalen skal frafalles dersom påtalemyndigheten mener at straff eller strafferettslige reaksjoner ikke kan gjøres gjeldende av rettslige eller bevismessige grunner. Utkastet åpner ikke for at påtalemyndigheten kan nedlegge påstand om frifinnelse uten å frafalle tiltalen. Se punkt 8.3.4. Virkningen av at tiltalen frafalles, er regulert i tredje ledd i utkastet § 32-3 om rettens forhold til partenes krav og påstander mv.
+
+Møtende aktor har kompetanse til å endre tiltalen innenfor samme forhold og til å frafalle tiltalen, jf. utkastet § 2-13 bokstav a og b.
+
+*Til § 29-8. Omgjøring av straffetilsagn*
+
+Bestemmelsen er ny.
+
+Straffetilsagn er ikke bindende for påtalemyndigheten dersom det foreligger bristende eller uriktige forutsetninger som angitt i *første og annet punktum*. For å sikre forutberegnelighet for mistenkte og bidra til at ordningen ikke undergraves, bør imidlertid påtalemyndigheten utvise tilbakeholdenhet med å gå ifra tilsagn som er gitt. Ved vurderingen må det ses hen til om de endrede forutsetningene har negative prosessøkonomiske virkninger av betydning. Etter annet punktum er det bare nye opplysninger som kan begrunne omgjøring. At forholdet, på grunnlag av den opprinnelige bevissituasjonen, vurderes som mer alvorlig på et senere tidspunkt, for eksempel av en annen påtalejurist enn den som har gitt tilsagnet, er uten betydning.
+
+Betydningen for rettens reaksjonsfastsettelse av at tilsagn er gitt, er regulert i første ledd siste punktum i utkastet § 32-3 om rettens forhold til partenes krav og påstander mv.
+
+*Til § 29-9. Klage over påtalevedtak*
+
+Se straffeprosessloven § 59 a.
+
+Bestemmelsen regulerer ikke klage over utferdiget forelegg, ettersom dette er upraktisk, og omgjøring til skade for mistenkte etter vedtakelse er utelukket.
+
+Påtalemyndighetens beslutning om ikke å behandle sivilt krav sammen med straffekravet kan påklages etter utkastet §§ 43-1 annet ledd og 43-7 fjerde ledd.
+
+Bestemmelsen er ikke til hinder for at påtalemyndigheten realitetsbehandler klage over andre beslutninger enn dem som er uttrykkelig nevnt, eller som gjelder saksbehandlingen, herunder saksbehandlingstiden.
+
+*Til § 29-10. Rettslig prøving av vedtak om påtaleunnlatelse*
+
+Se straffeprosessloven § 71.
+
+*Til § 29-11. Anke over vedtatt forelegg*
+
+Se straffeprosessloven §§ 259 og 260.
+
+Anken kan bare rette seg mot selve vedtakelsen. Oppregningen i *annet ledd bokstav b til d* er typetilfeller der forutsetningene for vedtakelsen brister. Straffutmålingen i forelegget kan ikke i seg selv gjøres til gjenstand for anke, men unntaksvis kan den gi grunnlag for å angripe vedtakelsen, for eksempel dersom mistenkte har blitt forledet til å vedta en bot som ligger vesentlig over etablerte bøtenivå for den aktuelle overtredelsen.
+
+*Til § 29-12. Gjenåpning ved vedtatt forelegg*
+
+Se straffeprosessloven § 261.
+
+**Til del 6. Generelle regler om rettens saksbehandling og avgjørelser**
+
+**Til kapittel 30. Saksstyring og veiledning. Virkning av at sak er reist. Forening og oppdeling av straffesaker**
+
+*Til § 30-1. Rettens saksstyring og veiledning*
+
+Bestemmelsen svarer til tvisteloven §§ 11-5 og 11-6 og er et overordnet uttrykk for lovens krav til rettens saksstyring og veiledning. Konkrete utslag av regelen er blant annet utkastet § 34-7 om saksstyring under forberedelse til hovedforhandling og § 35-1 om rettens styring av hovedforhandlingen.
+
+Saksstyring etter *første ledd* skal ikke bryte med den øvrige reguleringen i utkastet om forholdet mellom retten og partene, herunder særlig § 5-1 om forholdet mellom domstolene og straffesakens øvrige aktører, § 7-4 om rettens kontroll med bevisføringen og § 32-3 om rettens forhold til partenes krav og påstander mv. Dette innebærer at saksstyringen som et utgangspunkt må være mer prosessuell enn materiell; den skal i første rekke omhandle *hvordan* forhold skal håndteres, og ikke *at* de skal håndteres, se punkt 17.1.3. Planmessighet er en nødvendig forutsetning for at formålet om en konsentrert og effektiv behandling skal oppnås.
+
+*Annet ledd* angir virkemidler for saksstyring. Aktuelle spørsmål for avklaring kan være partenes syn på behandlingsmåten, hvilke rettslige og faktiske spørsmål partene anser som omtvistet, spørsmål knyttet til partenes bevistilbud mv. Frister skal benyttes til å drive saken fremover. Oversittelse av en fastsatt frist har ikke i seg selv preklusiv virkning, men frister vil bidra til å sikre at partenes rett til kontradiksjon blir ivaretatt og derigjennom at saken blir avgjørelsesmoden, jf. utkastet § 32-1 om tidspunktet for rettens avgjørelser. Retten kan treffe saksstyrende beslutninger av enhver art, jf. «avgjørelser om behandlingen».
+
+*Til § 30-2. Avvisning på grunn av verserende sak. Utsettelse*
+
+Se straffeprosessloven § 17.
+
+*Første ledd* er en kodifisering av gjeldende rett om litispendens i straffesaker, jf. Rt. 2008 s. 907. Det vises til omtalen av litispendensprinsippet i punkt 17.8.2.2. Se også tvisteloven § 18-1.
+
+Uttrykket «krav» omfatter både enkeltstående rettergangsskritt og forhold som bringes inn for domstolene ved tiltale. Hva som ved tiltale er «samme forhold», må fastlegges ut fra kriteriene som gjelder for negativ materiell rettskraft, jf. utkastet § 32-12 annet ledd og punkt 17.8.2.6.
+
+Unntak fra regelen om litispendens kan følge av spesialregulering. En innsynsbegjæring fra forsvarer skal for eksempel ikke stenge for behandling av en begjæring fra påtalemyndigheten om unntak fra rett til innsyn i opplysninger som ikke påberopes som bevis i saken, jf. utkastet § 6-11, jf. § 6-8. Lovens forutsetning er at begjæringen fra påtalemyndigheten, som vil være rettslig utilgjengelig for andre enn aktørene som deltar i behandlingen, jf. § 6-11 fjerde ledd, må behandles selv om spørsmål om innsyn også behandles på annet grunnlag.
+
+At det pågår straffesak i utlandet, er ikke til hinder for parallellbehandling av samme forhold i Norge. Påtalemyndigheten skal imidlertid ta hensyn til den utenlandske forfølgningen ved vurderingen av om nasjonal forfølgning er i det offentliges interesse, jf. utkastet § 28-2 annet ledd.
+
+Utsettelse i påvente av behandling i «høyere instans» etter *annet ledd* kan være aktuelt ved anke over beslutning truffet under hovedforhandlingen, jf. utkastet § 37-2 annet ledd. Rettskraftsvirkningen av beslutninger truffet av overordnet domstol følger av utkastets omgjøringsregler, jf. §§ 32-16 og 30-4 tredje ledd.
+
+Utsettelse kan også skje når det kan påregnes at et omtvistet forhold av betydning vil bli nærmere klarlagt i en «annen sak» for domstolene. Det kreves ikke at spørsmål av betydning blir «avgjort». Utsettelse kan blant annet skje i påvente av en sivil sak dersom forhold med prejudisiell betydning for straffesaken vil få sin avklaring der. Ved vurderingen av om utsettelse skal skje, skal det særlig tas hensyn til om det er grunn til å anta at avgjørelsesgrunnlaget vil bli styrket ved å avvente utfallet i en annen sak. Kan det ikke oppnås et forsvarlig avgjørelsesgrunnlag uten utsettelse, vil retten etter omstendighetene ha plikt til å beslutte utsettelse.
+
+Bestemmelsen gjelder bare utsettelse for å avvente utfallet av en «sak for domstolene» og omfatter ikke saker som behandles av et forvaltningsorgan, utenlandsk domstol mv. Utsettelse i påvente av avgjørelse fra et slikt organ kan skje etter utkastet § 31-6 om utsettelse av rettsmøter, og dersom straffesaken ikke kan bli tilstrekkelig opplyst uten at retten kjenner utfallet, må den avvente å treffe avgjørelse, jf. utkastet § 32-1 første ledd.
+
+Avgjørelsen i en annen sak er ikke bindende ved avgjørelsen av straffesaken som er utsatt.
+
+*Til § 30-3. Forening av saker*
+
+Se straffeprosessloven §§ 13, 254 annet ledd, 331 annet ledd og 353.
+
+Retten avgjør spørsmålet om forening av saker etter *første ledd*. Forutsetningen er imidlertid at påtalemyndigheten vurderer behovet for og hensiktsmessigheten av felles behandling og eventuelt sender begjæring om dette til retten. En tiltale som omfatter flere forhold, eller som retter seg mot flere tiltalte, skal anses som en begjæring om forening, og beslutning om forening kan skje ved at retten berammer hovedforhandling til behandling av slik tiltalebeslutning. Det samme gjelder dersom det berammes rettsmøte til behandling av flere enkeltstående rettergangsskritt. I alminnelighet er det ikke behov verken for ytterligere begrunnelse eller formalisering, med mindre tiltalte eller forsvareren protesterer, jf. utkastet § 32-7 om begrunnelse og § 32-8 om krav til skriftlighet mv. En beslutning om forening kan omgjøres etter utkastet § 32-16 første ledd.
+
+Hvorvidt forening er «hensiktsmessig», må avgjøres særlig ut fra hensynet til sakens opplysning og at behandlingen skal være effektiv, konsentrert og forsvarlig, jf. utkastet § 30-1 første ledd. Vil forening kunne medføre forsinkelse av betydning for enkelte av sakene, kan det tale for oppdeling.
+
+Uttrykket «berørte interesser» tar særlig sikte på tiltaltes interesse i samlet behandling, men det må etter omstendighetene også tas hensyn til belastningen for vitner og andre, for eksempel dersom forening medfører lang reisevei til rettsstedet.
+
+*Annet ledd* gjelder adgangen til forening gjennom utvidelse med «nye straffbare forhold» etter påbegynt hovedforhandling. Ubetenkelighetsvilkåret i *annet ledd* *annet punktum* skal forstås i lys av at slik behandling innebærer at bevisbedømmelsen under skyldspørsmålet kun vil bli behandlet i én instans. Endringer av tiltalen innenfor samme forhold kan skje etter utkastet § 29-7 første ledd.
+
+*Til § 30-4. Oppdeling av forhandlingene eller avgjørelsen*
+
+Se straffeprosessloven §§ 285 til 288.
+
+*Første ledd første punktum* gir hjemmel for å fravike rekkefølgen av de ulike trinn i hovedforhandlingen som følger av kapittel 35. Se til sammenligning tvisteloven § 16-1. For enkeltstående rettergangsskritt stiller ikke loven krav til noen bestemt rekkefølge ved muntlig behandling, og retten står da følgelig fritt til å legge opp forhandlingene slik den finner det hensiktsmessig.
+
+Adgangen til å avgjøre enkelte forhold for seg etter *første ledd annet punktum* forutsetter at retten har et forsvarlig avgjørelsesgrunnlag, jf. utkastet § 32-1 første ledd.
+
+*Annet ledd* *første punktum* åpner for at behandlingen kan konsentreres om ett eller flere bestemte spørsmål, for eksempel om saken skal avvises, om forholdet i tiltalen er foreldet, om tiltalte skal frifinnes på grunn av utilregnelighet mv.
+
+Når det er forhandlet særskilt om ett eller flere spørsmål, kan retten frifinne tiltalte dersom det er grunnlag for det, jf. *annet ledd annet punktum*: «Dersom saken etter slike forhandlinger ikke avgjøres etter § 32-1 \[…\]». Retten kan også avstå fra å treffe noen avgjørelse og fortsette forhandlingene om de øvrige spørsmål saken reiser. Om adgangen til å treffe særskilt beslutning etter annet ledd annet punktum, bestemmelsen i *tredje ledd* om omgjøring av slik beslutning og adgangen til anke, vises det til punkt 17.2.
+
+**Til kapittel 31. Rettsmøter**
+
+*Til § 31-1. Behandling i rettsmøte. Fjernmøte*
+
+Se straffeprosessloven §§ 93 c annet ledd, 248 fjerde ledd og 185 fjerde ledd tredje punktum flg.
+
+*Første ledd* innebærer, sammenholdt med utkastet § 32-4 om det faktiske grunnlaget for rettens avgjørelser, at det med mindre annet er bestemt, er opp til retten hvorvidt avgjørelser skal treffes etter skriftlig eller muntlig behandling. Se til sammenligning tvisteloven § 13-1 første ledd.
+
+Krav om muntlig behandling følger blant annet av utkastet kapittel 35 om hovedforhandling, kapittel 36 om forenklet behandling og § 15-15 om rettens behandling av påtalemyndighetens begjæring om fengsling.
+
+Når muntlig behandling ikke er obligatorisk, skal valg av behandlingsform bero på hva som er hensiktsmessig og forsvarlig i det enkelte tilfellet. Avgjørelsens betydning for partene og deres syn på behandlingsmåten skal tas i betraktning.
+
+Første ledd gir hjemmel for å beramme hovedforhandling før tiltale, såkalt forhåndsberamming, forutsatt at dette er begjært av påtalemyndigheten, jf. utkastet § 5-1 første ledd første punktum. Ved påtalemyndighetens oversendelse av tiltalen etter utkastet § 34-1 er saken brakt inn for domstolene, og lagmannsretten kan fra dette tidspunkt forhåndsberamme ankeforhandling uten særskilt begjæring fra påtalemyndigheten. Forhåndsberamming kan imidlertid reise enkelte prinsipielle spørsmål, og det kan være grunn til å utvise en viss varsomhet med å benytte adgangen, se punkt 18.1.10.
+
+*Annet ledd* gjør unntak fra den foreslåtte regelen i domstolloven § 122 a om fjernavhør og fjernmøte og innebærer et krav om at mistenkte skal være fysisk til stede i visse rettsmøter, eller at mistenktes deltakelse ved fjernmøte bare kan skje på nærmere vilkår. *Annet ledd bokstav a* innebærer at mistenkte ikke kan ta del i rettsmøte om førstegangsfengling ved fjernmøte. *Annet ledd bokstav b* begrenser adgangen til å benytte fjernmøte ved fengslingsforlengelse. Hvorvidt det er «ubetenkelig» å gjennomføre hovedforhandling mv. uten at tiltalte er fysisk til stede, jf. *annet ledd bokstav c*, må vurderes konkret. Kriteriet er strengt, og under hoved- og ankeforhandling kan det bare bli tale om å la tiltalte ta del i forhandlingene via fjernmøte dersom saken er enkel og oversiktlig. Det er i alle tilfeller et vilkår at tiltalte samtykker. Annet ledd gjelder kun mistenktes deltakelse. For øvrige aktører reguleres adgangen til deltakelse gjennom fjernmøte av den foreslåtte bestemmelsen i domstolloven § 122 a. Når mistenkte tar del i rettsmøte ved bruk av fjernmøteteknikk, er det en forutsetning at forsvareren som hovedregel skal være fysisk til stede sammen med mistenkte, og mistenkte og forsvarer skal i alle tilfeller gis mulighet til å kommunisere fortrolig og uforstyrret, jf. utkastet § 3-7 annet ledd bokstav b. Se for øvrig merknadene til den foreslåtte bestemmelsen i domstolloven § 122 a. Om bakgrunnen for forslaget vises det til punkt 6.4.5.3.
+
+*Tredje ledd* svarer til straffeprosessloven § 93 c annet ledd. Reguleringen i forskrift 12. august 2011 nr. 835 om fjernmøter og fjernavhør i straffesaker § 4 er dekket av den generelle reguleringen i utkastet. Det antas således ikke å være behov for en egen hjemmel for nærmere forskriftsregulering.
+
+*Til § 31-2. Innkalling til og varsling om rettsmøte*
+
+Se straffeprosessloven §§ 84 annet ledd, 86, 87, 93 b, 93 e annet ledd siste punktum, 107 c annet ledd første punktum, 185 femte ledd annet punktum, 243, 248 sjette ledd, 271 annet ledd, 275 fjerde og femte ledd, 334 og 335.
+
+Etter bestemmelsen er ansvaret for innkalling til og varsling om rettsmøter prinsipielt lagt til retten. Retten kan imidlertid overlate gjennomføringen til påtalemyndigheten, jf. *femte ledd*.
+
+Spørsmålet om hvorvidt mistenktes deltakelse er «hensiktsmessig» etter *første ledd første punktum* siste alternativ, skal avgjøres ut fra hensynet til sakens opplysning, og spørsmålet er således om det er grunn til å anta at mistenktes deltakelse vil bidra til å styrke rettens avgjørelsesgrunnlag, jf. utkastet § 7-1 første ledd om forsvarlig saksopplysning, § 7-4 om rettens kontroll med bevisføringen og § 32-1 om tidspunktet for rettens avgjørelser.
+
+Unntaket «med mindre annet er bestemt» i *første ledd annet punktum* gjelder når det ut fra sammenhengen klart fremgår at mistenkte ikke skal ta del, herunder ved behandling av spørsmål om bruk av hemmelige tvangsmidler.
+
+Mistenkte vil forutsetningsvis alltid ha verge i situasjoner som nevnt i *første ledd* *tredje punktum*, jf. utkastet § 3-3 annet ledd. Vergen skal varsles selv om dette kan unnlates overfor mistenkte.
+
+Vilkåret «rimelig tid» i *tredje ledd første punktum* skal bedømmes ut fra sakens art og den enkelte aktørs behov for å kunne forberede seg. Mistenkte og forsvareren skal gis nødvendig tid til å forberede forsvaret. Tredagersfristen i *tredje ledd annet punktum* for innkalling til hoved- og ankeforhandling er en minimumsfrist, jf. «har krav på». Fristen kan bare fravikes når det er «ubetenkelig», hvilket det etter omstendighetene kan være i små og enkle saker med oversiktlig bevisbilde. Retten må vurdere konkret om tiltalte vil få tilstrekkelig tid til å forberede sitt forsvar, jf. første punktum. Dersom mistenkte møter frivillig og samtykker til behandlingen, kan hovedforhandling gjennomføres selv om innkalling ikke har skjedd innen fristen. I *tredje ledd tredje punktum* følger det av reservasjonen «så vidt mulig» at overholdelse av 24-timersfristen ikke er en absolutt prosessforutsetning.
+
+*Til § 31-3. Utgiftsdekning og møtegodtgjørelse*
+
+Se straffeprosessloven §§ 89, 93 f, 109 annet ledd og 275 femte ledd annet punktum.
+
+*Annet ledd* inneholder av pedagogiske grunner en henvisning til utkastet § 11-12 om sakkyndiges krav på godtgjørelse og lov 21. juli 1916 nr. 2 om vidners og sakkyndiges godtgjørelse m.v., som også har regler om godtgjørelse til fornærmede, etterlatte mfl. Også vitner som møter for retten uten at innkalling har vært forkynt, jf. utkastet § 10-3 tredje ledd, jf. § 10-2 tredje ledd, skal anses for å møte etter «lovlig innkalling», jf. § 1 første ledd første punktum i lov 21. juli 1916 nr. 2 om vidners og sakkyndiges godtgjørelse m.v.
+
+*Til § 31-4. Mistenktes plikt til å møte og ta del i rettsmøte*
+
+Se straffeprosessloven §§ 85 og 280 første og annet punktum.
+
+*Til § 31-5. Utelukkelse fra rettsmøte*
+
+Se straffeprosessloven §§ 129 første ledd annet punktum, 244 annet ledd, 245, 271 annet ledd første punktum, 284 og 289 a annet ledd annet punktum.
+
+*Til § 31-6. Utsettelse av rettsmøte*
+
+Se straffeprosessloven §§ 38 tredje ledd siste punktum, 285 annet ledd, 288 tredje ledd annet og tredje punktum, 293 annet ledd og 294 annet punktum.
+
+Se til sammenligning tvisteloven §§ 16-2 til 16-4.
+
+**Til kapittel 32. Rettens avgjørelser**
+
+*Til § 32-1. Tidspunktet for rettens avgjørelser*
+
+Se straffeprosessloven §§ 42 første og annet ledd og 184 første ledd annet punktum.
+
+Etter *første ledd* skal retten treffe avgjørelse når saken er avgjørelsesmoden, det vil si når retten har et forsvarlig avgjørelsesgrunnlag, jf. annet ledd og utkastet § 7-1 om forsvarlig saksopplysning mv., § 7-4 om rettens kontroll med bevisføringen og § 32-4 om det faktiske grunnlaget for rettens avgjørelser. Se til sammenligning tvisteloven § 9-17.
+
+Hvordan det skal klargjøres overfor partene at saken tas opp til avgjørelse, beror på en konkret bedømmelse, hvor det særlig skal ses hen til typen avgjørelse. Partenes rett til kontradiksjon skal ivaretas. For hovedforhandling vil saken normalt bli avgjort etter at forhandlingene er avsluttet, jf. også utkastet § 32-6 første ledd om rådslagning og § 35-5 tredje ledd om avslutning av forhandlingene.
+
+Fristen for å treffe avgjørelse er «så snart saken er tilstrekkelig opplyst». Kravet skal forstås i lys av rettens plikt til å styre saken slik at den, innenfor forsvarlige rammer, bringes til avslutning snarest mulig, jf. utkastet § 30-1 om rettens saksstyring og veiledning.
+
+Etter *annet ledd* kan retten blant annet beslutte å gjenoppta – reassumere – muntlige forhandlinger som er avsluttet.
+
+*Til § 32-2. Avgjørelsesform. Dommer og beslutninger*
+
+Se straffeprosessloven § 30.
+
+Rettens avgjørelser treffes ved dom eller beslutning. Med uttrykket «avgjørelse» i *første ledd* menes realitetsavgjørelse. Sivile krav avgjøres ved dom, jf. utkastet § 43-3.
+
+Om bakgrunnen for forslaget, se punkt 17.5.
+
+*Til § 32-3. Rettens forhold til partenes krav og påstander mv.*
+
+Se straffeprosessloven §§ 38, 73 første ledd og 322 tredje ledd.
+
+Bestemmelsen presiserer hvordan retten skal forholde seg til partenes disposisjoner, og er et utslag av bestemmelsen i utkastet § 5-1 om forholdet mellom domstolene og straffesakens øvrige aktører. Se til sammenligning tvisteloven § 11-2. Bestemmelsen er uten betydning for avgjørelser som retten kan eller skal treffe av eget tiltak.
+
+Uttrykket «krav» i *første ledd* *første punktum* har selvstendig materielt innhold. Ved enkeltstående rettergangsskritt kan retten ikke beslutte noe kvalitativt annet enn det begjæringen går ut på. Krav om straff og reaksjoner som nevnt i straffeloven §§ 29 og 30 bokstav a, b og g er i prosessuell forstand ett og samme krav. Krav om overføring til tvungent psykisk helsevern eller tvungen omsorg, inndragning og tap av retten til å føre motorvogn mv., jf. straffeloven § 30 bokstav c, d, e og h utgjør derimot selvstendige krav. Se punkt 17.6.5.
+
+*Første ledd annet punktum* er en presisering av første ledd første punktum: I tillegg til at retten ikke kan avgjøre andre krav enn dem som er fremmet, kan den heller ikke beslutte noe mer enn det som kreves. At et krav fra påtalemyndigheten bare delvis bestrides av mistenkte, binder ikke retten.
+
+*Første ledd tredje punktum* gjelder enhver endring i forhold til subsumsjonen i tiltalen. Det er uten betydning om det er tale om å anvende et annet straffebud i stedet for eller i tillegg til det tiltalen bygger på. Endringer med hensyn til anvendelse av reglene om forsøk og medvirkning er omfattet. Det samme gjelder endringer med hensyn til subjektive vilkår for straff. For straffebud med likestilte straffalternativer eller skyldformer må det, med mindre det klart fremgår, avklares med påtalemyndigheten hvilket alternativ eller hvilken skyldform tiltalen bygger på. Motsetter påtalemyndigheten seg endringen, må retten avgjøre saken ut fra den straffebestemmelse tiltalen bygger på, herunder eventuelt frifinne tiltalte selv om retten mener vedkommende kunne vært domfelt etter et annet straffebud. Se punkt 17.6.4.2, der det også fremgår at et mindretall i utvalget er uenig i forslaget om at retten bare skal kunne fravike subsumsjonen i tiltalen når påtalemyndigheten ikke motsetter seg det.
+
+Selv om retten etter *første ledd* *fjerde punktum* i prinsippet er ubundet av påtalemyndighetens straffepåstand, skal retten utvise tilbakeholdenhet med å idømme strengere straff enn påtalemyndigheten ber om, se punkt 17.6.6.2. For så vidt gjelder inndragning, kan retten ikke gå utenfor påtalemyndighetens påstand.
+
+Vilkåret «fremstår som klart at reaksjonsfastsettelsen ellers vil bli feil» i *første ledd femte punktum* må vurderes i lys av at spørsmålet om hva som er riktig straff, ofte er utpreget skjønnsmessig, og at påtalemyndigheten som regel er nærmest til å vurdere hvilken betydning tiltaltes tilståelse eller samarbeid for øvrig har hatt for avviklingen av saken. Dersom påstanden det er gitt tilsagn om, er basert på et forsvarlig skjønn ut fra de retningslinjer som gjelder for straffutmålingen på vedkommende område, skal domstolene ikke gå utover påstanden. Fremstår det derimot som klart at påstanden det er gitt tilsagn om, bryter med det etablerte straffenivået, hensyntatt mistenktes tilståelse eller øvrige bidrag til sakens opplysning, jf. straffeloven § 78 bokstav f, skal retten fastsette riktig straff. Se punkt 16.8.5.
+
+Med uttrykket «faktisk grunnlag» i *annet ledd* *første punktum* siktes det til rettsstiftende faktiske forhold – rettsfakta. Det er for eksempel ikke anledning for retten til å bygge en avgjørelse om varetektsfengsling på at det foreligger unndragelsesfare, dersom påtalemyndigheten kun har påberopt bevisforspillelsesfare. Se punkt 17.6.3.2.
+
+Etter *annet ledd annet punktum* kan retten bare pådømme det faktiske forhold som er beskrevet i tiltalen, men nærmere detaljer knyttet til hendelsesforløpet står retten fritt til å ta stilling til på grunnlag av bevisføringen. Om hva som skal anses som ett og samme «forhold», se punkt 17.8.2.6. Utenfor skyldspørsmålet kan retten bygge på belastende forhold som er påberopt, men ikke omhandlet i tiltalen, så sant retten til kontradiksjon er ivaretatt. Skal det legges til grunn et belastende faktum, må gjeldende beviskrav være oppfylt.
+
+Utgangspunktet om at saken skal heves når kravet frafalles, jf. *tredje ledd første punktum,* må ses i sammenheng med prinsippet i utkastet § 5-1 første ledd annet punktum om at rettens behandling opphører når en begjæring tas tilbake. Unntak følger av *tredje ledd annet og tredje punktum*, hvoretter det i visse tilfeller skal avsies frifinnelsesdom uten realitetsprøving. Annet punktum gjelder bare når påtalemyndigheten frafaller tiltalen av grunner som nevnt i § 28-2 om henleggelse. Frafalles tiltalen av andre grunner, for eksempel fordi påtalemyndigheten vil avgjøre forholdet med forelegg, påtaleunnlatelse mv., skal saken heves etter første punktum. Frafalles tiltalen etter at det er anket over bevisbedømmelsen under skyldspørsmålet eller på grunn av tiltaltes død, skal det i alle tilfeller avsies frifinnelsesdom, jf. tredje punktum.
+
+*Til § 32-4. Det faktiske grunnlaget for rettens avgjørelser*
+
+Se straffeprosessloven §§ 305 og 331 tredje ledd.
+
+Se for sammenligning tvisteloven §§ 11-1 og 29-16 annet ledd.
+
+*Første ledd* bygger på en forutsetning om at retten i nødvendig utstrekning skal ha tilgang til sakens opplysninger. Se nærmere punkt 17.4.2, der det også fremgår at et mindretall i utvalget er uenig i forutsetningen.
+
+*Annet ledd første punktum* fastslår at retten kun kan bygge avgjørelsen etter hoved- og ankeforhandling på opplysninger som er fremkommet gjennom behandlingen i rettsmøte. Hva som kreves for at opplysningene skal anses «behandlet», er nærmere regulert i utkastet § 35-2 annet ledd, som blant annet i en viss utstrekning åpner for at skriftlige bevis kan føres på annen måte enn ved opplesning. Hvilke opplysninger som har vært «ført», ved opplesning eller på annen måte, vil til en viss grad måtte bero på et skjønn. Se nærmere punkt 17.3.1 og 17.4.2.
+
+*Annet ledd annet punktum* er et utslag av at ankebehandlingen skal konsentreres om det som er tatt opp i anken, og som er omtvistet, jf. utkastet § 39-6 første ledd. Det er ikke krav om at de aktuelle deler av underinstansens dom leses opp eller på annen måte dokumenteres under ankeforhandlingen. Det er imidlertid en forutsetning at det under saksforberedelsen eller hovedforhandlingen er tilstrekkelig klarlagt hvilke deler av dommen som er uomtvistet. Se nærmere punkt 17.3.2.
+
+*Tredje ledd* begrenser bare hvilke opplysninger ankedomstolen kan bygge på *til skade for* domfelte. Til domfeltes gunst kan det også bygges på opplysninger som ikke har vært behandlet under hoved- og ankeforhandlingen. Opptak av forhandlingene i underinstansen inngår som en del av rettsboken, jf. tredje ledd i forslaget til ny § 134 b i domstolloven. Se nærmere punkt 17.3.4.
+
+Kravet «rimelig anledning» i *fjerde ledd* innebærer at partene må ha hatt tilstrekkelig foranledning og mulighet til å uttale seg om det faktiske grunnlaget for avgjørelsen. Kravet skal ses i sammenheng med utkastet § 7-1 annet ledd om partenes rett til å imøtegå bevis.
+
+*Til § 32-5. Det rettslige grunnlaget for rettens avgjørelser*
+
+Se til sammenligning tvisteloven § 11-3.
+
+*Annet ledd* kodifiserer retten til kontradiksjon om rettsanvendelsen og rettslige anførsler og argumentasjon, jf. blant annet HR-2016-593-U.
+
+*Til § 32-6. Rådslagning og avstemning*
+
+Se straffeprosessloven §§ 31 til 37 og 288 fjerde ledd annet punktum.
+
+Se for sammenligning tvisteloven § 19-3.
+
+Rådslagningen er ikke rettsmøte. Andre enn dommerne vil som utgangspunkt ikke ha adgang til å være til stede, men unntak fra dette utgangspunktet følger av *sjette ledd*.
+
+*Til § 32-7. Begrunnelse*
+
+Se straffeprosessloven §§ 39 til 41 og 52.
+
+Se for sammenligning tvisteloven § 19-6.
+
+Om bakgrunnen for bestemmelsen, se punkt 17.7.3.
+
+Ved avgjørelsen av om det er forsvarlig å unnlate begrunnelse etter *første ledd annet punktum*, skal det ses hen til momentene i annet ledd. For så vidt gjelder hvilke beslutninger som skal begrunnes, er bestemmelsen ment å videreføre gjeldende rett, slik den er utviklet i rettspraksis.
+
+*Annet ledd* uttrykker et relativt begrunnelseskrav. Behovet for skriftlig begrunnelse gjør seg gjeldende i varierende grad i ulike situasjoner og skal fastlegges i den enkelte sak med utgangspunkt i de angitte momenter.
+
+Begrunnelsen bør være konsentrert, poengtert og i et lett tilgjengelig språk og ikke gå utover det som er «nødvendig for å forklare avgjørelsen» jf. *tredje ledd*. For dommer vil gjengivelse av tiltalebeslutningen og partenes krav og påstander regelmessig tilfredsstille kravene i *tredje ledd bokstav a og b*. Det er i utgangspunktet tilstrekkelig at partenes anførsler – i tråd med det som er vanlig praksis etter gjeldende lov – kort gjengis der de behandles i premissene. Det er imidlertid ingenting i veien for at det redegjøres nærmere for anførslene, eventuelt i et eget punkt i avgjørelsen, og i mer kompliserte saker kan dette være hensiktsmessig for å bringe klarhet i forutsetningene for rettens bevisvurdering og rettsanvendelse etter *tredje ledd bokstav c*.
+
+Utkastet er ikke til hinder for at ankeinstansen i sin begrunnelse henholder seg til underinstansens avgjørelse, eller for ordningen i Høyesterett med at avgjørelser begrunnes gjennom dommernes stemmegivning.
+
+*Til § 32-8. Skriftlig utforming og innhold*
+
+Se straffeprosessloven §§ 39 til 41 og 52.
+
+Unntaket fra skriftlighetskravet i *første ledd første punktum* innebærer at visse praktiske og administrative spørsmål kan avgjøres formløst, jf. punkt 17.5 og 17.7.3. Det er ikke realistisk eller ønskelig at alle beslutninger skal formaliseres, men terskelen for formalisering skal være lav. Nedtegning bør som regel skje dersom en part krever det eller har innsigelser mot avgjørelsen, eller dersom det er påregnelig av beslutningen kan komme til å bli anket. Kravet om en «nøyaktig angivelse av resultatet» gjelder generelt. Termen «slutning» passer ikke alltid like godt om dette, men det er ingenting i veien for at uttrykket benyttes.
+
+*Første ledd annet punktum* angir opplysninger som skal være med i alle rettsavgjørelser som nedtegnes skriftlig. For beslutninger som treffes i rettsmøte uten å bli utferdiget som selvstendig dokument, vil rettsboken inneholde de opplysninger som kreves, jf. utkastet til ny § 134 a i domstolloven. For beslutninger som treffes utenom rettsmøter, vil opplysningene regulært fremgå av skrivet fra retten.
+
+Det følger av *annet ledd* at det for beslutninger som nedtegnes i rettsboken, er tilstrekkelig at rettsboken underskrives av rettens leder og protokollføreren, jf. utkastet til ny § 134 a i domstolloven. Unntaket fra kravet om at alle rettens medlemmer skal signere avgjørelsen, må ses i sammenheng med utkastet § 32-9 første ledd om avsigelse, hvoretter en avgjørelse er avsagt når den er opplest i rettsmøte med rettens medlemmer til stede.
+
+*Til § 32-9. Avsigelse*
+
+Se straffeprosessloven §§ 32 tredje ledd og 43.
+
+Etter *første ledd* avsies rettens avgjørelser, herunder dommer, enten ved at rettens medlemmer underskriver, eller ved opplesning i rettsmøte. Se til sammenligning tvisteloven § 19-4. Sakens art kan tilsi at avsigelse bør skje i rettsmøte, det gjelder særlig for dom i sak av et visst alvor og i saker som har vekket offentlig interesse. Retten kan i så fall beramme og innkalle til rettsmøte for domsavsigelse etter utkastet § 31-1. Et alternativ er at dommen avsies skriftlig, men forkynnes for tiltalte i rettsmøte, jf. domstolloven § 159 a annet ledd, slik bestemmelsen lyder etter utvalgets endringsforslag, se utkastet § 46-3 nr. 1. Ved slik forkynning er det ikke påkrevd at meddommerne er til stede.
+
+*Til § 32-10. Underretning*
+
+Se straffeprosessloven §§ 43 annet til fjerde ledd, 43 a, 52 annet ledd og 434 femte ledd første punktum.
+
+Se til sammenligning tvisteloven § 19-5.
+
+*Til § 32-11. Virkninger av rettens avgjørelser*
+
+Se straffeprosessloven §§ 43 femte ledd og 50 annet ledd.
+
+Se til sammenligning tvisteloven §§ 19-4 første ledd og 19-15 første ledd.
+
+*Til § 32-12. Rettskraft*
+
+Se straffeprosessloven § 51 første ledd og straffeloven § 8.
+
+Om bakgrunnen for forslaget vises det til punkt 17.8.
+
+Om hva som skal anses som ett og samme «forhold» i bestemmelsens forstand, se punkt 17.8.2.6.

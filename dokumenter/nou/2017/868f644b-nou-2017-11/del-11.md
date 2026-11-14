@@ -1,1625 +1,401 @@
-# NOU 2017: 11, del 11 av 26 (side 124–137)
+# NOU 2017: 11, del 11 av 25
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2017/868f644b-nou-2017-11.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2017-11/id2553617/
 - Original-PDF: https://www.regjeringen.no/contentassets/8e638734347b4e93ab97f597a8ac0bc8/no/pdfs/nou201720170011000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 32 tabeller, 55 figurer, 209 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 124]
-
-124
-
-Kapittel 9
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-Økokrims kompetanseoverføring til politidistriktenes økoteam organiseres på ulike måter og
-på flere arenaer:
-– Bistand i enkeltsaker. Dette er det viktigste elementet for kompetanseoverføring. Økonomisk
-kriminalitet og miljøkriminalitet som blir etterforsket lokalt, inneholder ofte elementer der
-det enkelte økoteam og politidistriktet ikke har
-tilstrekkelig kompetanse. Gjennom bistand settes politidistriktene bedre i stand til å håndtere
-egne saker i etterkant. Økokrims bistandsteam
-bidrar med kompetanseoverføring til politidistriktene gjennom råd, veiledning, konsultasjon
-og annen bistand i straffesaker. Bistanden er av
-varierende lengde og kan bestå av blant annet
-etterforskningsledelse, metodebistand samt
-deltakelse i etterforskningen og under straffeforfølgningen.
-– Fagseminarer. Økokrim avholder en rekke
-årlige fagseminarer for politidistriktenes økoteam (etterforskere og påtalejurister). Det
-samme gjelder på miljøområdet.
-– Økokrims Seksjon for fagstøtte og utvikling har
-ansvar for fag- og metodeutvikling innen etterforskning og straffeforfølgning av økonomisk
-kriminalitet og miljøkriminalitet. Seksjonen
-har utviklet en egen saksbehandlingsbase som
-blant annet omhandler saksstyring, etterforskning og straffeforfølgning av økonomiske
-straffesaker. Seksjonen er tverrfaglig og gir
-råd og veiledning til politidistriktene, i hovedsak innenfor fag- og metodespørsmål.
-– Enheten for finansiell etterretning (EFE) ved
-Økokrim har over tid (2012–2015) gjennomført ulike kompetansehevingstiltak for politidistriktene.
-– Økokrim utgir også en skriftserie som gir
-veiledning i saksarbeid samt fagbladet MILJØKRIM.33 Innen miljøkriminalitetsfeltet har
-Økokrim utgitt skriftserier innenfor kulturminne- og arbeidsmiljøkriminalitet.
-– KO:DE. På politiets nasjonale fagportal for formidling av politiets fag og metode, KO:DE, har
-Økokrim ansvar for temaene økonomisk kriminalitet, finansiell etterretning, inndragning av
-utbytte, miljøkriminalitet, naturkriminalitet, forurensning, arbeidsulykker, kunst- og kulturminnekriminalitet og dyrevelferdskriminalitet.
-– Forelesning. Økokrim bidrar med forelesere i
-studier i økonomisk kriminalitet og miljøkriminalitet ved Politihøgskolens etter- og videreutdanningsstudier.
-33
-
-www.miljøkrim.no
-
-Økokrim har i tillegg ulike hospiteringsordninger.
-I samarbeid med Skatteetaten har Økokrim i
-mange år hatt en ordning der opptil to medarbeidere i Skatteetaten har hospitert i Økokrim i inntil
-et halvt år. I tillegg til dette har Økokrim hatt hospitanter fra Finansdepartementet, Finanstilsynet,
-Oslo Børs, Tolletaten, Miljødirektoratet og Fiskeridirektoratet.
-Økokrim har selv gode erfaringer med hospitantordningene. Økokrim får gjennom ordningen
-kunnskap blant annet om metoder og utfordringer
-i andre organisasjoner og overfører kompetanse
-til blant annet kontrolletatene om sine arbeidsmåter, herunder beviskrav i straffesaker. God kunnskap om politiets arbeidsmåter og utfordringer gir
-kontrolletatene bedre forståelse av straffesaker,
-herunder utarbeidelse av anmeldelser.
-Økokrim har tidligere hatt en hospiteringsordning rettet direkte mot politidistriktene. Denne
-ble avviklet for en del år tilbake. En årsak var at
-relativt få fikk anledning til å ta en hospiteringsperiode borte fra egen arbeidsplass. Økokrim
-ønsker å gjeninnføre denne ordningen og har gitt
-uttrykk for at de vil ta initiativ til det når de nye
-økoteamene i politidistriktene er etablert.34
-I utvalgets spørreundersøkelse er det stor oppslutning om Økokrims funksjon som kompetanseog utviklingsenhet for politietaten. Nesten 75 prosent er «enig» (17,4 prosent) eller «helt enig»
-(57,3 prosent) i at dette er en funksjon Økokrim
-bør ha. Dette blir av flere utdypet i kommentarfeltene med at mange politidistrikter opplever Økokrims nasjonale spisskompetanse som et nødvendig koordineringspunkt for en felles utvikling i
-politietaten.
-
-9.3.9
-
-Utdanning og forskning
-
-Økokrim samarbeider med Politihøgskolen på
-flere måter. Økokrim bistår med undervisningsressurser på økonomisk- og finansiell kriminalitet
-samt miljøkriminalitet. Hovedvekten av disse ressursene går til programmer på etter- og videreutdanning (EVU) der Politihøgskolen har ansvaret
-for videreutdanning innen økonomisk kriminalitet, mens lite er dedikert bachelorprogrammet.
-Økokrim-sjefen er også innvalgt i høgskolestyret
-som én av to representanter for politi- og lensmannsetaten.
-Noen politiledere peker på at en uheldig side
-ved ordningen har vært at mange som gjennomgår EVU-kursene raskt blir forfremmet til mer
-ledende stillinger, slik at ervervet kompetanse i
-34
-
-Brev til sekretariatet 10.02.17.
-
-[Side 125]
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-liten grad kommer politidistriktene til gode i form
-av økt innsats på feltet.
-Økokrimledelsen gir uttrykk for at andre høyere utdanningsinstitusjoner kan involveres mer
-enn i dag, for eksempel i videreutdanning av politietterforskere innen økonomiske fag og miljøfag.
-Økokrim opplyser å ha etablert kontakt med Handelshøyskolen BI i forbindelse med utvikling av
-en Masterutdanning i økonomisk kriminalitet og
-ledelse.35
-Økokrim etterlyser større innsats på forskningsfeltet, både innenfor økonomisk kriminalitet
-og miljøkriminalitet. Selv har de et begrenset samarbeid med flere juridiske miljøer ved landets universiteter, særlig Bergen og Tromsø, men skulle
-gjerne hatt tettere samarbeid med flere master- og
-doktorgradsstudenter for å bidra til å løfte feltet.
-Dette blir imidlertid ofte et ressursproblem. Samtidig kan det slå tilbake i neste omgang fordi manglende satsing på forskning og innovasjon samtidig begrenser rekrutteringsgrunnlaget for spesialkompetanse.
-
-9.3.10 Nasjonalt og internasjonalt
-kontaktpunkt
-Økokrim er nasjonalt kompetansesenter innenfor
-økonomisk- og finansiell kriminalitet samt miljøkriminalitet. Økokrim driver blant annet en
-omfattende ekstern opplærings- og opplysningsvirksomhet i form av foredrag, undervisning, fagartikler, -bøker og debattinnlegg.
-Internasjonalt samarbeid er en viktig del av
-Økokrims virksomhet. Enheten for finansiell etterretning (EFE) ved Økokrim er en nasjonal enhet
-med ansvar for mottak av rapporter om mistenkelige transaksjoner knyttet til hvitvasking og terrorfinansiering. Informasjonen berikes, analyseres
-og formidles til relevante mottakere i politiet og
-kontrollmyndigheter.
-EFE har tett samarbeid med relevante særorgan (PST, Kripos og PU) og politidistriktene. I tillegg har EFE som Norges Financial Intelligence
-Unit et nært samarbeid og informasjonsutveksling med andre lands FIU-enheter gjennom
-Egmont-samarbeidet (Egmont Secure Web –
-ESW). Informasjonskanalen benyttes også av
-norsk politi til utveksling av etterretningsinformasjon knyttet til hvitvasking, terrorfinansiering og
-annen profittmotivert kriminalitet. Se forøvrig pkt.
-9.7.1.
-EFE utfører også oppgaven som sekretariat
-for nasjonalt kontaktforum for hvitvasking og ter-
-
-rorfinansiering og dekker som ekspertorgan i
-slike spørsmål derfor en rekke oppgaver og forpliktelser på dette området både nasjonalt og
-internasjonalt.
-I utvalgets spørreundersøkelse er det bred
-oppfatning om at Økokrim bør ha funksjon som
-nasjonalt kontaktpunkt. Over 60 prosent av
-respondentene er «helt enig» (45,2 prosent) eller
-«enig» (15,1 prosent), mens 17,6 prosent svarte
-«vet ikke». I underkant av 11 prosent av respondentene er «uenig» eller «helt uenig» i at Økokrim
-bør ha dette ansvaret. Spørsmålet hadde en
-svarprosent på 60,2.
-
-9.4
-
-Samtale med Økokrim 23.09.16.
-
-Økokrims oppgaveløsning
-
-God oppgaveløsning innebærer en effektiv og riktig bruk av politikompetanse og selve organiseringen blir dermed sekundær.
-
-9.4.1 Resultater
-Politiets måloppnåelse er i hovedsak målt i saksbehandlingstid og oppklaringsprosent. I bekjempelsen av økonomisk kriminalitet og miljøkriminalitet er det ikke gitt at dette er de mest hensiktsmessige indikatorene. Særlig gjelder dette for
-Økokrim, der sakene typisk er svært ressurs- og
-tidkrevende, og mye ressurser kan gå med i etterforskningens innledende fase bare for å fastslå om
-det har skjedd en straffbar handling. Enkelte
-saker kan også kreve langvarig og ressurskrevende etterforskning, gjerne i flere år før det blir
-tatt ut tiltale, og i noen tilfeller kan det ende uten
-at straffesak blir innledet. Selv om alvorlig økonomisk kriminalitet og miljøkriminalitet er en nasjonalt prioritert lovbruddskategori, på linje med
-flere andre alvorlige lovbruddsformer,36 er det
-likevel svært vanskelig å sammenligne resultatog måloppnåelse i økonomiske og miljømessige
-straffesaker med andre straffesaker.
-Dette illustreres i figur 9.2, som sammenligner
-oppklaringsprosent i Økokrim og i politiet generelt for perioden 2011–2016. I denne perioden
-etterforsket Økokrim i gjennomsnitt 15–17 saker
-årlig, mens politiet behandlet i gjennomsnitt rundt
-350 000 saker innenfor alle kriminalitetstyper.
-Som figur 9.2 viser, har Økokrim en vesentlig
-høyere oppklaringsprosent enn politiet generelt
-for alle typer saker som blir etterforsket. Dette er
-imidlertid en sammenligning med store forbe36
+<u>1962 UP blir etablert med trafikkontrolltjeneste året rundt. Det blir innbeordret sju tjenestemenn i vinterhalvåret og 16 tjenestemenn i sommerhalvåret</u>
 
-35
+<u>1970 Som følge av sterk vekst i antall skadde og drepte i trafikken blir UPs mannskap økt til 24 tjenestemenn i vinterhalvåret og 56 i sommerhalvåret. Dette blir senere økt til henholdsvis 32 tjenestemenn i vinterhalvåret og 72 i sommerhalvåret.</u>
 
-125
+<u>1977 Personellstyrken utvides til 152 innbeordrede stillinger på helårsbasis. I tillegg blir UP tilført 40 tjenestemenn i sommerhalvåret.</u>
 
-Kapittel 9
+<u>1986 UP blir først vedtatt avviklet av regjeringen Willoch, og det ble bestemt at de administrative og operative trafikkoppgavene skal bli lagt til politidistriktene. Ved Brundtland-regjeringen overtakelse senere samme år blir beslutningen reversert.</u>
 
-Riksadvokatens årlige mål- og prioriteringsrundskriv (blant
-annet Rundskriv nr.1/2017.)
+<u>1992 Får nasjonalt ansvar for å kontrollere tunge kjøretøy: kjøre- og hviletid, lastesikring og frakt av eksplosiv gods.</u>
 
-[Side 126]
+<u>2004 UPs hovedkvarter flyttes fra Oslo til Stavern.</u>
 
-126
+<u>UP endrer strategi fra trafikkpoliti til polititjeneste på vei, ved å forsterke kriminalitetsbekjempelse på vei og bistandsrollen.</u>
 
-NOU 2017: 11
+<u>2007– UP tar, som første politienhet, i bruk </u>
 
-Kapittel 9
+<u>2009 online tilgang til politisystemene fra kjøretøyene og introduserer etter hvert nummergjenkjenningsutstyr (ANPR).</u>
 
-Bedre bistand. Bedre beredskap
+<u>2010 UP tildeles over statsbudsjettet ti faste tjenestemenn for å styrke bekjempelsen av kriminelle på veien.</u>
 
-100
-90
-80
-70
-60
-50
-40
-30
-20
-10
-0
-2011
+<u>2016 UP foretar omdisponering av personellressurser fra østlandet til vest-, midt- og nord Norge.</u>
 
-2012
+<u>2017 UP foretar strukturelle endringer og reduserer antall UP-distrikter fra ni til fem.</u>
 
-2013
-Økokrim
+**<u>\[Boks slutt\]</u>**
 
-2014
+1.  **<u>Trafikksikkerhetsarbeidet i Norge</u>**
 
-2015
+Trafikksikkerhetsarbeidet er basert på langsiktig, kunnskapsbasert og målrettet innsats som involverer et bredt samarbeid mellom offentlige myndigheter og private aktører. Dette, kombinert med blant annet betydelig mer trafikksikre biler og bedre veinett, har medført at antall trafikkdrepte aldri har vært så lavt, og Norge er verdensledende innen trafikksikkerhet.[^258] I 2015 hadde ingen land lavere risiko for å omkomme i veitrafikken målt i drepte per million innbyggere. Resultatutviklingen for perioden 2001–2015 medførte også at Norge i 2016 ble tildelt den prestisjefylte prisen Road Safety PIN Award fra den uavhengige trafikksikkerhetsorganisasjonen European Traffic Safety Council (ETSC).
 
-2016
+Siden 1970 har antall drepte i trafikken blitt redusert med nesten 80 prosent, fra 560 til 117 i 2015[^259], til tross for mer enn en tredobling av kjøretøyparken. Andelen drepte og hardt skadde innenfor tettbebygd strøk ble redusert fra om lag 35 prosent på begynnelsen av 1990-tallet til rundt 20 prosent i perioden 2000–2012. Fra 2012 har imidlertid andelen drepte og hardt skadde innenfor tettbygde strøk økt, hovedsakelig i form av ulykker som involverer syklister og fotgjengere.[^260]
 
-Politiet
+Det totale antallet skadde i veitrafikken har holdt seg relativt stabilt de siste tiårene, på mellom 10 000 og 12 000 årlig, men siden 2008 har også dette antallet blitt redusert. I 2015 var tallet 5 687.[^261] Antall hardt skadde har ligget stabilt på rundt 700 personer årlig i perioden 2011–2016.
 
-Figur 9.2 Oppklaringsprosent. Sammenligning Økokrim og øvrig politi
-Kilde: STRASAK
+Trafikkulykker er et betydelig samfunnsproblem, med store menneskelige lidelser og betydelige samfunnsøkonomiske kostnader. Transportøkonomisk institutt (TØI) beregnet at veitrafikkulykkene i 2009 medførte samfunnsøkonomiske kostnader på ca. 30 millioner kroner per dødsfall, ca. 10,5 millioner kroner per hardt skadde og 614 000 kroner per lettere skadd person.[^262] Trafikksikkerhet er dermed en viktig investering.
 
-hold. For det første er det en høy terskel for saksinntak hos Økokrim, der et viktig vurderingskriterium er om det er høy sannsynlighet for domfellelse. Dette er ikke en faktor som er like høyt vektet på andre kriminalitetsområder. I tillegg vil
-mange saker hos politiet ende med henleggelse
-av ulike årsaker, typisk på grunn av bevisets stilling eller av kapasitetshensyn. Dette er ikke forhold som er like dominerende hos Økokrim.
-Når det gjelder saksbehandlingstid, vil det dermed også være svært vanskelig å sammenligne
+Regjeringens hovedmål med transportpolitikken er en nullvisjon, det skal ikke forekomme ulykker med drepte eller hardt skadde i transportsektoren. Denne nullvisjonen ligger til grunn for alt trafikksikkerhetsarbeid i Norge.[^263] Trafikksikkerhet har derfor en sentral plass i utarbeidelse og behandling av nasjonal transportplan, og i utøvelsen av en samlet vei- og trafikkpolitikk.
 
-politiets samlede saksfelt med Økokrim, som vist i
-figur 9.3.
-Politiets saksbehandlingstid beregnes fra
-anmeldelsen registreres i politiets saksbehandlingssystem (kalt BL – Basisløsninger) med en
-samtidig registrering i det sentrale straffesaksregister (STRASAK), til det foreligger påtaleavgjørelse i saken. Saksbehandlingstiden er en indikator på tempoet i politidistriktenes straffesaksbehandling. Her tas det utgangspunkt i saksbehandlingstiden for oppklarte saker, det vil si saker som
-har fått en positiv påtaleavgjørelse, eller som er
-
-600
-
-500
-
-400
-
-300
-
-200
-
-100
-
-0
-2011
-
-2012
-
-2013
-Økokrim
-
-2014
-
-2015
-
-Politiet
-
-Figur 9.3 Saksbehandlingstid (dager) Økokrim og politiet. Sammenligning 2011–2016
-Kilde: STRASAK
-
-2016
-
-[Side 127]
+Det nasjonale trafikksikkerhetsarbeidet hviler på et tverrsektorielt samarbeid mellom myndigheter og sivilsamfunn og er konkretisert i Nasjonal tiltaksplan for trafikksikkerhet på vei 2014–2017.
 
-127
+Tiltaksplanen er basert på fire nivåer:
 
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
+- *<u>Nullvisjonen</u>*<u>. Omhandler mål om et transportsystem der ingen blir drept eller hardt skadd, og er grunnlaget for alt trafikksikkerhetsarbeid i Norge</u>
 
-Kapittel 9
+- *<u>Etappem</u><u>å</u><u>l.</u>*<u> Det skal ikke være flere enn 500 drepte og hardt skadde i veitrafikken i 2024. Målet inngår i Nasjonal transportplan 2014–2023.</u>
 
-800
-700
-600
-500
-400
-300
-200
-100
-0
-2011
+- *<u>Tilstandsm</u><u>å</u><u>l </u>*<u>for kjøretøyparken, veinettet og trafikkatferd</u>
 
-2012
+- <u>Tiltak som forventes gjennomført i perioden.</u>
 
-2013
-Ant. rettssaker
+Trafikksikkerhetsarbeid fordrer en bred tilnærming, og i de nasjonale transportplanene har det vært lagt til grunn et bredt spekter av virkemidler. Foruten politiets kontroller, inngår tiltak knyttet til veistandard og infrastruktur, trafikkregulering, føreropplæring, kjøretøyteknologi, automatiske trafikkontroller, holdningskampanjer og sanksjoner.
 
-2014
+1.  **<u>Politiets trafikksikkerhetsarbeid</u>**
 
-2015
+Det overordnede nasjonale ansvaret for trafikksikkerhet er lagt til Samferdselsdepartementet, men det er tett samarbeid mellom flere etater på området, særlig gjennom Kontaktutvalget for trafikksikkerhet (KTS): Justis- og beredskapsdepartementet, Vegdirektoratet (herunder Statens Vegvesen), Politidirektoratet, Utrykningspolitiet, Helsedirektoratet, Trygg trafikk og Statens havarikommisjon for transport.
 
-2016
+Politidirektoratets strategi for polititjeneste på veg (2016–2019) fastslår at trafikksikkerhet er en av politiets hovedoppgaver. Dette innebærer at politidistriktene og UP er pålagt å utarbeide en plan for trafikksikkerhetsarbeidet innenfor rammen av årlig virksomhetsplan.
 
-Ant.dager i retten
+Politiets innsats følger to hovedspor. Det første sporet omfatter generell forebyggende innsats gjennom synlig tilstedeværelse, kontroll og overvåkning på veiene for å styrke den subjektive oppdagelsesrisikoen. Dette bygger på antakelsen om at dersom risikoen for å bli kontrollert og avdekket øker, vil sannsynligheten for at den enkelte foretar lovstridige handlinger på vei reduseres. I neste omgang vil dette redusere antall alvorlige trafikkulykker.
 
-Figur 9.4 Sammenstilling rettssaker og dager tilbragt i retten. Økokrim 2011–2016
-Kilde: Økokrim/STRASAK
+Det andre sporet omfatter politiets faktiske evne til å avdekke lovbrudd på veien, sikre bevis og gjennomføre etterforskning og straffeforfølgelse.[^264] Dette arbeidet er støttet i påtalesporet gjennom Riksadvokatens mål- og prioriteringsrundskriv nr. 1/2016 som utpeker alvorlige trafikklovbrudd som en av seks prioriterte sakstyper. Det fremgår her at dersom straffen skal ha ønsket individualpreventiv virkning, er det en forutsetning at politiets straffesaksarbeid er effektivt og holder høy kvalitet, og at det går kort tid mellom lovbrudd og reaksjon. Det overordnede ansvaret for straffesaksbehandlingen ligger hos Riksadvokaten.
 
-avgjort med en henleggelseskode som teller som
-oppklart.
-Gjennomsnittlig saksbehandlingstid i Økokrim fra saksinntak til påtalevedtak var på 313
-dager i 2016. Målkravet for Økokrim er at saksbehandlingstiden ikke skal overskride 350 dager.
-Figur 9.3 viser dels store svingninger for Økokrims del, selv om saksantallet har vært relativt
-stabilt. Dette har sammenheng med flere forhold,
-blant annet kompleksiteten i den enkelte sak og
-variasjoner i antall ankesaker. Økokrims saker er
-komplekse og tar lenger tid å etterforske sammenlignet med politidistrikt. Videre varierer saksbehandlingstid mer enn i distriktene som følge av
-et færre antall saker.
-En måte å synliggjøre kompleksiteten i Økokrims saker på kan være å sammenstille antall
-rettssaker, herunder tilståelsessaker og hovedforhandling i tingretten, samt ankesaker i lagmannsrett og Høyesterett, med antall dager tilbrakt i retten for perioden 2011–2016. Denne sammenstillingen viser at selv om antall saker blir redusert i
-perioden (varierer mellom 20 og 41 dager), er det
-med unntak av 2014 et jevnt høyt antall dager
-Økokrim tilbringer i retten. Dette er vist i figur
-9.4.
-Av de 579 dagene Økokrim tilbrakte i retten i
-2016, utgjorde den såkalte Lime-saken 104 dager.
-Antall rettsdager i Økokrim ligger markant over
-måltallet på 400 dager.37
-37
+Selv om UP har nasjonalt ansvar for politiets trafikksikkerhetsarbeid, er påtalekompetansen lagt til politidistriktene. I flere år har det imidlertid blitt stilt spørsmål fra flere hold om politidistriktenes prioritering av slike saker. På oppdrag fra Riksadvokaten leverte UP 11. desember 2015 en analyse av politiets etterforskning og straffesaksbehandling av alvorlige trafikkulykker. Rapporten konkluderte med at politiets etterforskning ofte var mangelfull og var av dårlig kvalitet.[^265]
 
-Riksadvokatens årsrapport 2016.
+Det er forventninger til at nærpolitireformen vil bidra til å styrke politiets etterforskning og straffeforfølgelse, blant annet gjennom Etterforskningsløftet.[^266] Handlingsplanen for løft av etterforskningsfeltet innebærer blant annet et styrket utdanningstilbud, nasjonale standarder for god fagledelse, samt nye arbeidsformer og metodebruk. I tillegg utvikles arbeidsformen «mer politiarbeid på stedet». Dette vil ventelig også gjelde trafikksaker.
 
-En stor utfordring på fagområdene økonomisk
-kriminalitet og miljøkriminalitet er dermed å utarbeide gode målingssystemer som bedre reflekterer ressursinnsats og resultater. Dette er et pågående arbeid.
-I Politidirektoratets årlige disponeringsskriv
-for Økokrim er målet for 2016 gitt ved at enheten
-skal «bidra til reduksjon av den alvorlige kriminaliteten». Dette skal skje gjennom følgende tiltak:
-– avdekking av store, kompliserte og prinsipielle
-saker innenfor økonomisk kriminalitet og miljøkriminalitet
-– inndragning av utbytte fra alle saker hvor dette
-er mulig
-– støtte og bistand knyttet til økonomisk kriminalitet og miljøkriminalitet til politidistriktene i
-relevante saker og ved behov, avstemt mot innsatsen i egne saker
-Sentrale nøkkeltall for perioden 2012–2016 er
-gjengitt i tabell 9.2.
-Disse resultatene kan beskrives nærmere ved
-å se på variasjonen i sakstilfang. Gjennom de siste
-årene har det vært store forskjeller i hvilke sakskompleks som er tatt inn. Dette beror dels på prioritering, men også hvilke saker som faktisk blir
-avdekket. Utvikling i sakstilfang følger i figur 9.5.
-Økokrim opplyser at det i 2016 ble tatt inn tolv
-nye sakskomplekser. Det lave antallet har sammenheng med ressurssituasjonen og balansering
-mot antall bistandstandssaker og antall ankesaker.
-Inntaket av bistandssaker økte fra 47 i 2015 til 64 i
-2016. Som en konsekvens av det lave saksinntaket
+Flere politiledere, samt Vegvesenet og Trygg trafikk har i samtaler med utvalget gitt uttrykk for at politidistriktene må heve kvaliteten på etterforsking og straffeforfølgelse av alvorlige trafikksaker. De fremhever på den ene siden at politiet er en svært viktig aktør i trafikksikkerhetsarbeidet, men at politidistriktene generelt ikke prioriterer trafikksikkerhetsarbeid. Som eksempel opplyser Vegvesenet at ved overlevering av potensielt store saker er politiet ofte tilbakeholdne fordi de er redd for merarbeidet etterforskningen medfører. Flere ganger har Vegvesenet opplevd at selv nærmest ferdig etterforskede saker blir avvist eller henlagt. UPs nasjonale innsats blir derfor fremhevet som særskilt viktig.[^267]
 
-[Side 128]
+UP har som nevnt ikke egen påtalekompetanse. I brev til UP datert 7.12.2016 fra Riksadvokaten ble påtalespørsmålet berørt. Riksadvokaten var her enig med UP i at det var behov for en begrenset påtalemyndighet for de politijuristene som jobbet ved ATK-senteret i Møre og Romsdal, og disse ble gitt slik myndighet gjennom stillingsinstruks.
 
-128
+I forbindelse med overføringen av ATK-senteret til UP fra 1. januar 2017 har spørsmålet om ytterligere påtalemyndighet til UP vært drøftet uformelt med Riksadvokatembetet. Riksadvokatens holdning har vært at det på et tidspunkt hvor særorganene fortsatt er under utredning uansett ikke er tilrådelig å gjøre noen nærmere vurderinger av dette spørsmålet.
 
-NOU 2017: 11
+I utvalgets spørreundersøkelse rettet mot ansatte i politietaten var det imidlertid delte meninger om dette. Spørsmålet ble kun stilt til politiansatte som har eller har hatt tilknytning til UP. Blant de 135 respondentene (av totalt 1919 deltakere i undersøkelsen) svarte nesten 43 prosent at de var «enig» eller «helt enig» i at UP bør ha påtalekompetanse, mens 25,4 prosent var «uenig» eller «helt uenig» og 11,2 prosent svarte «vet ikke».
 
-Kapittel 9
+1.  **<u>Ulykkesutvikling</u>**
 
-Bedre bistand. Bedre beredskap
+Det samlede trafikksikkerhetsarbeidet i Norge har bidratt til nesten 50 prosent reduksjon i antall drepte og hardt skadde de siste 15 årene. Risikoen er sterkt redusert for alle trafikantgrupper, og mest for barn under 16 år.
 
-Tabell 9.2 Nøkkeltall Økokrim 2012–2016
-2012
+Nullvisjonen innebærer at tiltakene hovedsakelig er rettet mot de mest alvorlige ulykkestypene; møteulykker, utforkjøringer og påkjørsel av gående og syklende. Disse ulykkestypene utgjorde i perioden 2011–2015 nær 83 prosent av dødsulykkene og 71 prosent av de hardt skadde.[^268]
 
-2013
+Samlet ulykkesstatistikk for 2001–2015 er gitt i figur 10.1. Den viser størst nedgang i antall drepte, men også merkbar nedgang i antall hardt skadde. I denne perioden har nedgangen for alle kategoriene vært på mellom 30 og 40 prosent.
 
-2014
+**<u>\[:figur:figX-X.jpg\]</u>**
 
-2015
+1.  <u>Antall drepte og hardt skadde i vegtrafikken i Norge 2001–2015</u>
 
-2016
+<u>SSB</u>
 
-Enhet
+For å forstå resultatutviklingen er det nødvendig å undersøke ulykkesårsakene nærmere. Det vil gi en bedre forståelse for at arbeidet med trafikksikkerhet i Norge er sammensatt, og viser samtidig hvor vanskelig det kan være å skille ut enkeltaktørers effekt på det samlede resultatet.
 
-Sakskompleks under etterforskning
+Nullvisjonen forklarer ulykker i et systemperspektiv der trafikksikkerhet er uttrykk for tilpasning og samspill mellom trafikant, kjøretøy og vei. Hvert samspillselement inneholder mange ulykkesfaktorer og en ulykke er et resultat av at minst en av faktorene inntreffer. Trafikksikkerhetstiltak har som mål å redusere disse risikofaktorene.
 
-15
+Statens vegvesen har analysert alle dødsulykker på vei siden 2005 og konkluderer med at årsaksbildet er svært sammensatt. I de fleste tilfellene har trafikantens atferd vært medvirkende årsak eller bidratt til ulykkens skadeomfang, særlig når det gjelde dødsulykkene.[^269] Tabell 10.1 illustrerer funnene.
 
-21
+1.  <u>Sannsynlige medvirkende faktorer til dødsulykker i Norge i perioden 2005–2015</u>
 
-25
+<table>
+<tbody>
+<tr>
+<td><p>Medvirkende faktorer</p></td>
+<td><p><u>Andel av alle dødsulykker</u></p>
+<p><u>Gjennomsnitt 2005–2015</u></p></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><p>Faktorer knyttet til trafikantene</p></td>
+<td></td>
+</tr>
+<tr>
+<td><p><em>- Manglende førerdyktighet</em><sup>1</sup></p></td>
+<td><p><u>54 %</u></p></td>
+</tr>
+<tr>
+<td><p><em>- Høy fart etter forholdene/godt over fartsgrensen</em></p></td>
+<td><p><u>40 %</u></p></td>
+</tr>
+<tr>
+<td><p><em>- Ruspåvirkning</em><sup>2</sup></p></td>
+<td><p><u>21 %</u></p></td>
+</tr>
+<tr>
+<td><p><em>- Tretthet/avsovning</em></p></td>
+<td><p><u>14 %</u></p></td>
+</tr>
+<tr>
+<td><p><em>- Sykdom </em></p></td>
+<td><p><u>14 %</u></p></td>
+</tr>
+<tr>
+<td><p><em>- Mistanke om selvmord</em></p></td>
+<td><p><u>6 %</u></p></td>
+</tr>
+<tr>
+<td><p>Faktorer knyttet til vei og veimiljø</p></td>
+<td><p><u>27 %</u></p></td>
+</tr>
+<tr>
+<td><p>Faktorer knyttet til involverte kjøretøy</p></td>
+<td><p><u>23 %</u></p></td>
+</tr>
+<tr>
+<td><p>Faktorer knyttet til vær- og føreforhold</p></td>
+<td><p><u>15 %</u></p></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
-27
+<sup><u>1</u></sup><u> Omfatter ulykker som skyldes manglende teknisk kjøretøybehandling og informasjonsinnhenting, feil beslutninger av føreren, hasardiøs kjøring og manglende kjøreerfaring.</u>
 
-27
+<sup><u>2</u></sup><u> Minimumstall fordi en stor andel trafikkdrepte ikke blir undersøkt for ruspåvirkning.</u>
 
-Antall
+<u>Dybdeanalyser av dødsulykker i veitrafikken 2015. Statens vegvesens rapporter Nr.636.</u>
 
-Nye sakskompleks
+Tabellen viser at det er en rekke samvirkende faktorer, og få ulykker har bare èn årsak.
 
-15
+I tilstandsundersøkelser utført av Statens vegvesen fremgår det at rundt 95 prosent av alle bilister bruker bilbelte, men i perioden 2005–2014 viste det seg likevel at 41 prosent av de drepte ikke hadde brukt bilbelte.
 
-20
+Når det gjelder høy fart som medvirkende årsak til dødsulykker var andelen i 2015 på 34 prosent. I årsrapporten fra UP for 2016 blir det opplyst at det er en økning i antall grove fartsovertredelser på 12 prosent fra 2015 til 2016.[^270]
 
-25
+Som tabellen viser, er det et bredt årsakbilde som ligger bak ulykkesstatistikken. Det er også åpenbart at politiets generelle kontrollvirksomhet samt UPs målrettede innsats kan ha stor betydning for å redusere flere av faktorene.[^271] Samtidig er det klart at flere utenforliggende faktorer også påvirker dette bildet.
 
-15
+Eksempelvis er manglende førerdyktighet den viktigste faktoren, og god kjøreopplæring samt holdningsskapende arbeid for å påvirke kjøreatferd, særlig mot unge (mannlige) sjåfører, fremhevet som viktige tiltak.[^272] Her er UP en av flere viktige aktører, ved siden av blant annet trafikkskoler og interessegrupper.
 
-12
+Fartsoverskridelser og ruspåvirket kjøring er nok faktorene der UP, og politiet generelt, har best forutsetninger for å redusere ulykkesutviklingen. Tiltaket er atferdskontroller og å være synlig i trafikkbildet. Økende bruk av automatisk trafikkontroll (ATK) og andre digitale verktøy har de siste årene effektivisert dette arbeidet.
 
-Antall
+Tretthet, avsovning og sykdom er også faktorer som til en viss grad kan bli avdekket gjennom politikontroller, men årsaksbildet krever helt andre tiltak. Eksempelvis er det årlig flere ulykker som involverer yrkessjåfører, og blant disse ulykkene forekommer ofte kombinasjonen utenlandsk sjåfør og brudd på hviletidsbestemmelsene. Dette er dermed ikke bare et trafikkproblem, det reiser også spørsmål om arbeidsmiljøbestemmelser. I tillegg kan det være medvirkende faktorer knyttet til kjøretøy og veistandard. Statens havarikommisjon for transport peker her på behov for regelverksendringer, både nasjonalt og internasjonalt, samt behov for sterkere forebyggende innsats fra private transportaktører.[^273]
 
-Saksbehandlingstid
+Flere interessenter utvalget har snakket med mener at politiets kontrollarbeid vil være viktig så lenge vi har førere i kjøretøyet og deres atferd påvirker antall ulykker. Vegvesenet påpeker her at 40 prosent av dødsulykkene har fart som hovedårsak, og rus er medvirkende årsak i rundt 20 prosent av dødsulykkene, men i flere ulykker er begge faktorene sammenfallende. I tillegg kommer andre forstyrrende elementer som bruk av mobiltelefon. Selv integrerte tekniske løsninger kan være forstyrrende fordi selve kommunikasjonen kan distrahere føreren.[^274]
 
-365
+Stortingsmeldingen om trafikksikkerhet fra 2016 gjør ingen vurdering av de enkelte aktørenes bidrag til den samlede resultatutviklingen i trafikksikkerhetsarbeidet.[^275] Blant politilederne blir det heller ikke gjort forsøk på å kvantifisere enkeltaktørers effekt.
 
-499
+Som vist i figur 10.2 er den positive ulykkesutviklingen i Norge parallell med utviklingen i de øvrige nordiske landene, til tross for vesentlige forskjeller i polititilnærmingen. Sammenligningen gir riktignok ikke et riktig bilde av trafikkutfordringene ettersom antallet trafikanter er svært forskjellig, og andre særskilte forhold kan ha betydning. Det kan imidlertid si noe om utviklingstendenser.
 
-248
+**<u>\[:figur:figX-X.jpg\]</u>**
 
-298
+1.  <u>Antall dødsulykker i Norge, Danmark, Sverige 2008–2015, og Finland i perioden 2008–2016</u>
 
-313
+Tallene i figur 10.2 er innhentet fra de respektive landenes sentrale politimyndigheter. For alle landene er det en nedadgående trend både i antall ulykker, og antall dødsulykker, med størst nedgang for Norge og Danmark. Målt i antall drepte per en million innbyggere i 2015 er Norge (23) likevel klart best, foran Sverige (28), Danmark (30) og Finland (48).
 
-Dager
+Det er interessant at ingen av de øvrige nordiske landene har et nasjonalt trafikkpoliti. Finland valgte i 2014 å legge ned sitt utrykningspoliti, Den rörliga polisen, og overførte ressursene til politidistriktene. En flerårig nedgang i antall skadde og drepte i trafikken har likevel fortsatt, jf. tabell 10.2.
 
-Oppklaring
+1.  <u>Antall skadde og drepte i trafikken i Finland 2010–2016</u>
 
-89
+|  |  |  |  |  |  |  |  |
+|----|----|----|----|----|----|----|----|
+|  | <u>2010</u> | <u>2011</u> | <u>2012</u> | <u>2013</u> | <u>2014</u> | <u>2015</u> | <u>2016</u> |
+|  |  |  |  |  |  |  |  |
+| Hele landet – Totalt | <u>7 945</u> | <u>8 223</u> | <u>7 343</u> | <u>6 939</u> | <u>6 934</u> | <u>6 678</u> | <u>6 127</u> |
+| Döda | <u>272</u> | <u>292</u> | <u>255</u> | <u>258</u> | <u>229</u> | <u>270</u> | <u>240</u> |
+| Skadade (inkl. allvarligt skadade) | <u>7 673</u> | <u>7 931</u> | <u>7 088</u> | <u>6 681</u> | <u>6 705</u> | <u>6 408</u> | <u>5 887</u> |
+|  |  |  |  |  |  |  |  |
 
-77
+<u>Polisen Finland </u>
 
-88
+Danmark har også omorganisert den nasjonale trafikkpolitiinnsatsen de siste årene. De har fordelt ansvaret mellom to politidistrikt, ett på Jylland og ett på Sjælland, i tillegg til flere enheter for tungtransportoppfølging. Resultatutviklingen følger i figur 10.3.
 
-92
+**<u>\[:figu</u><u>r:figX-X.jpg\]</u>**
 
-95 Prosent
+1.  <u>Antall skadde og drepte i veitrafikken Danmark i perioden 2001–2015</u><sup><u>1</u></sup>
 
-Påtalevedtak (positive)
+<sup><u>1</u></sup><u> Politiområdet Danmark – e-post 21. mars 2017</u>
 
-32
+Et interessant trekk ved den danske utviklingen er at antall drepte i trafikken er halvert de siste årene, fra toppårene i 2007 og 2008 med 406 drepte til 178 drepte i 2015. Samtidig har det siden 2011 vært en større andel alvorlig skadde enn lettere skadde i trafikken i Danmark.[^276]
 
-23
+I Sverige er ansvar for politiets trafikksikkerhetsarbeid gitt det enkelte politidistrikt. Sverige har likevel også opplevd sterk nedgang i antall skadde og drepte i trafikken de seneste årene, jf. figur 10.4.
 
-41
+**<u>\[:figur:figX-X.jpg\]</u>**
 
-20
+1.  <u>Antall skadde og drepte veitrafikken Sverige i perioden 2008–2015</u>
 
-29
+<sup><u>1</u></sup><u> Politimyndigheten Sverige – e-post 28. mars 2017</u>
 
-Antall
+Tallene og statistikken er isolert sett utilstrekkelig som argument for hvilken organisasjonsform som er best egnet for det nasjonale trafikksikkerhetsarbeidet. Det er likevel viktig å være oppmerksom på at uavhengig av hvilke politiske, kulturelle eller andre årsaker som ligger til grunn for de organisatoriske forskjellene, har alle sammenfalt med en positiv ulykkesutvikling.
 
-Rettssaker (tingrett, lagmannsrett, HR)
+1.  **<u>Effekten av trafikksikkerhetstiltak</u>**
 
-41
+Transportøkonomisk institutt (TØI) har i tiltaksanalyser vurdert effekten av ulike trafikksikkerhetstiltak. I tiltaksanalysen for 2015 fremgår det at en tidobling av fartskontrollene kan redusere antall drepte og hardt skadde med henholdsvis syv og seks prosent.[^277] En tidobling av promillekontroller er beregnet å redusere antall drepte og hardt skadde med henholdsvis ni og tre prosent. TØI anslår på denne bakgrunn at det er samfunnsøkonomisk lønnsomt å øke politiets fartskontroller inntil 3,5 ganger dagens nivå.[^278]
 
-33
+Det har vært en synkende andel av fartsovertredelser som oppdages ved kontroller utført av polititjenestemenn.[^279] Automatisk trafikkontroll er et effektivt trafikksikkerhetstiltak på vegstrekningene de dekker, og TØI har beregnet at tiltaket kan redusere antall drepte i veitrafikken med 50 prosent og antall hardt skadde med 45 prosent.[^280] Omfanget av ATK-punkter er imidlertid begrenset. I 2013 var det installert 343 ATK-punkter, som til sammen dekket kun 2,9 prosent av trafikkarbeidet.[^281] Altså foregikk 97,1 prosent av trafikken på strekninger hvor politiet eller Statens vegvesen var eneste kilde til oppdagelsesrisiko.[^282] Det forventes at flere automatiske trafikkontroller installeres i årene fremover, og regjeringen har i nasjonal transportplan varslet at de vil etablere ATK på flere veistrekninger. ATK ved punktmåling og strekningsmåling antas også å kunne erstatte politiets fartskontroller på veistrekningene hvor disse er installert.
 
-28
+For faktorer hvor det foreligger forsvarlig datagrunnlag har TØI beregnet faktorenes bidrag til nedgangen i antall drepte og hardt skadde i trafikken i perioden 2000–2012. Kun 31 prosent av nedgangen var mulig å forklare med ulike tiltak, som det fremgår av figur 10.5. Politikontroller gikk noe ned i den undersøkte perioden. Av nedgangen som kunne forklares, utgjorde kjøretøytiltak den største andelen tett etterfulgt av nedgang i trafikkens gjennomsnittsfart. Blant kjøretøytiltakene var det bedre kollisjonsvern (46 prosent), elektronisk stabilitetskontroll (28 prosent), og sidekollisjonsputer (15 prosent) som forklarte den største andelen av nedgangen. Ny kjøretøyteknologi som får stadig større utbredelse i nye biler i dag, som kjørefeltvarsler og adaptiv cruisekontroll, forklarte kun 1,4 prosent av nedgangen. Her kan det legges til at beregninger fra TØI viser at 49 drepte og hardt skadde i 2012 kunne vært unngått om politiets kontrollnivå hadde vært likt som i 2000 (7,4 prosent færre).[^283]
 
-30
+**<u>\[:figur:figX-</u><u>X.jpg\]</u>**
 
-20
+1.  <u>Oversikt over beregnede bidrag til den registrerte nedgangen i drepte og hardt skadde fra 2000 til 2012</u>
 
-Antall
+<u>TØI-rapport 1299/2014</u>
 
-Rettskraftige avgjørelser
+Anvendelse av førerstøttesystemer har et stort potensial til å bidra til fortsatt reduksjon av antall drepte og hardt skadde i trafikken. Teknologiutviklingen går raskt, og inntredenen av autonome biler vil kunne redusere risikoen for trafikkovertredelser og ulykker vesentlig. På grunnlag av en tysk studie er det anslått at autonom cruisekontroll med kollisjonsvarsler og automatisk nødbrems kan redusere antall drepte og hardt skadde i lette kjøretøy med henholdsvis 19 og 15 prosent.[^284]
 
-33
+Med inntredenen av stadig mer avanserte og effektive førerstøttesystemer, antas kjøretøytiltak å utgjøre en stadig viktigere del av trafikksikkerhetsarbeidet. Videre antas det at andelen trafikkulykker, forårsaket av trafikanter som i liten grad påvirkes av ordinære trafikksikkerhetstiltak eksempelvis kriminelle gjengangere eller andre risikogrupper, vil øke.[^285] For denne gruppen kan det være andre forebyggende tiltak enn tradisjonelle trafikksikkerhetstiltak som gir størst effekt. I følge Meld. St. 40 (2015–2016) vil derfor en bred innsats fra politiet fortsatt å være viktig fremover.
 
-48
+I den store kategorien «uforklart» kan en rekke samvirkende faktorer ha bidratt. Forebyggende og holdningsskapende arbeid, regelverksutvikling og håndhevelse, er noen av flere mulige faktorer.
 
-31
+1.  **<u>Utviklingstrekk</u>**
 
-35
+I samordning og organisering av det nasjonale trafikksikkerhetsarbeidet blir fremtidige utfordringer særlig sett i sammenheng med forhold knyttet til demografiske endringer, trafikkutvikling, trafikantatferd og teknologisk utvikling.
 
-35
+UP vektlegger blant annet betydningen av at en aldrende gjennomsnittsbefolkning stiller andre krav til trafikksikkerheten og behov for tiltak. I særlig grad blir det pekt på den økte ulykkesrisikoen for trafikanter over 75 år, sammen med ønske om større mobilitet for å delta i samfunns- og arbeidsliv. Rapporter peker også på demografiske trekk og forskjeller i ulykkesrisiko mellom fylkene.[^286]
 
-Antall
+I forbindelse med utarbeidelsen av *Nasjonal transportplan 2018–2029* ble det gjort beregninger som viste en forventet trafikkvekst på rundt 25 prosent for perioden 2015–2030. Samtidig har Klimameldingen[^287] satt et nullvekstmål for personbiltrafikken, hvilket innebærer at vekst i persontransport i storbyene skal tas med kollektivtransport, sykkel og gange. I tillegg er det forventet en vekst i godstransporten.
 
-Domfellelse i rettskraftige avgjørelser
+Trafikanttiltak har stor betydning for trafikksikkerheten, og UP legger stor vekt på trafikantatferd i sitt arbeid. Dette omfatter særlig overholdelse av fartsgrensene, bilbeltebruk og annen sikring, samt tiltak mot ruspåvirket kjøring. Politiets kontrolltiltak er en viktig faktor, men også andre aktørers forebyggende arbeid er viktig. I tillegg kan ny teknologi bidra positivt på flere av disse områdene, eksempelvis gjennom innebygde løsninger i kjøretøyene.
 
-95
+Det er ulike oppfatninger av fremtidige utfordringer i det nasjonale trafikksikkerhetsarbeidet. *Trygg Trafikk* mener det neppe vil bli store endringer i trafikksikkerhetsbildet de nærmeste årene. De ser i mindre grad teknologisk utvikling som en faktor som vil endre vekten av trafikksikkerhetstiltak og mener at potensialet som ligger i å bygge sikrere veier (eksempelvis med midtdelere) er i ferd med å bli tatt ut. Føreratferd vil etter deres mening derfor fortsatt være den viktigste faktoren i trafikksikkerhetsarbeidet.[^288]
 
-66
+*Teknologirådet* mener den teknologiske utviklingen med førerløse biler, kunstig intelligens og sensorteknologi i veibanen akselererer så raskt at det i overskuelig fremtid er naturlig med en dreining av ressurser bort fra føreratferd og over til automatiserte kontrolltiltak og integrerte kjøretøysløsninger. Flere informanter, blant annet Vegvesenet peker på at førerløse biler kan bidra til endret behov for trafikksikkerhetsarbeid, investeringstiltak kan bidra til færre ulykker, og teknologi i bilene kan bidra til større sikkerhet. Overgangen kan likevel være utfordrende.[^289]
 
-94
+Som eksempel blir det nevnt teknologiske løsninger i nye biler som kan forebygge og forhindre uønskede trafikkhendelser samt begrense mulighet for fartsoverskridelser. Ettersom utskifting av bilparken kan ta lang tid, fremhever Teknologirådet bruk av sensorteknologi i veibanen som forebyggende kontrolltiltak. Dette er en utvikling som er i rask vekst i Storbritannia, men teknologien er fortsatt relativt ny i Norge. Sensorteknologien kan gi verdifull informasjon som kan brukes til å justere fartsgrenser og gi annen informasjon til trafikantene for å bidra til bedre trafikkflyt. I tillegg kan sensorteknologi brukes som supplement til – og erstatning for manuelle trafikkontroller.[^290] Denne utviklingen reiser imidlertid viktige spørsmål om personvernhensyn som særlig Datatilsynet har rettet mye oppmerksomhet mot de siste årene.
 
-85
+Meld. St. 40 (2015–2016) vier også oppmerksomhet til utviklingen av såkalt intelligente transportsystemer og tjenester (ITS), det vil si systemer som gjør bruk av informasjons- og kommunikasjonsteknologi i infrastruktur og kjøretøy. Dette omfatter blant annet sensorteknologi og andre systemer som gjør at informasjon kan utveksles mellom kjøretøy og infrastruktur, slik *Teknologirådet* også har omtalt. Slike samvirkende systemer kan bidra til bedre varsling om hendelser i trafikkbildet og styrke informasjon om lokale trafikkreguleringer og føreforhold. I sum kan dette bidra til mer effektiv trafikkavvikling. Med en utvikling i retning av mer autonome, eller selvkjørende kjøretøy, vil slike systemer få enda større betydning. Regjeringen har også mål om å fremme lovforslag om prøveordning for autonome kjøretøy våren 2017.[^291]
 
-71 Prosent
+Som både UP, Teknologirådet og Riksadvokaten peker på, stiller utviklingen i retning av selvkjørende kjøretøy nye utfordringer for grunnprinsipper i veitrafikklovgivningen. Teknologirådet mener at en fremtid med selvkjørende kjøretøy i prinsippet kan tilsi at det er selve kjøretøyet som blir sertifisert, og ikke føreren. En slik realitet ligger uansett et stykke frem i tid, både fordi teknologien ennå ikke er fullt utprøvd og godkjent og fordi det vil ta tid å skifte ut kjøretøyparken. I tråd med dette scenarioet har regjeringen også startet et lovarbeid om prøveordning for autonome kjøretøy.[^292]
 
-1
+Et teknologisk utviklingstrekk som lenge har vært en utfordring i trafikksikkerhetsarbeidet er imidlertid bruk av informasjons-, kommunikasjons-, og underholdningssystemer som skaper distraksjon i veitrafikken. Både UP og Trygg Trafikk fremhever dette som en økende del av det holdningsskapende arbeidet. Dette dreier seg ikke bare om bruk av mobiltelefon under kjøring, men også bruk av teknologiske systemer i kjøretøyene, samt distraksjoner utløst av medpassasjerer. Ved siden av det brede holdningsskapende arbeidet vil derfor blant annet regelverksutvikling og håndheving ha stor betydning for hvordan teknologiutviklingen påvirker trafikksikkerheten.
 
-84
+Det teknologiske innslaget i politiinnsatsen er også økende. UPs kontrollinnsats utføres i dag av politipersonell med utstyr som radar, alkometer og automatisk nummergjenkjenning (ANPR). En økende digitalisering og automatisering kan få betydning for arbeidsdelingen i politiets trafikksikkerhetsarbeid.
 
-69 Mill. kr.
+*Teknologirådet* mener at metoder for kontroller og overvåking av trafikken i økende grad vil bli automatisert og at gjennomføring av kontroll og overvåking av trafikken i fremtiden i mindre grad trenger å være en politioppgave. Samtidig fremhever The European Transport Safety Council (ETSC) en kombinasjon av automatiske og fysiske trafikkontroller, som det mest effektive tiltaket.[^293] Finland har allerede beveget seg langt i denne retning og finsk politi beskriver en fremtid med nedskjæringer i politibudsjettet, kombinert med en teknologisk utvikling og automatisering, både av kontrollmetoder og kjøretøy, som kan føre til at hele politiets trafikktjeneste blir automatisert. UP på sin side mener oppmerksomhet mot føreratferd vil være avgjørende i overskuelig fremtid, og at det av den grunn er vanskelig å se for seg en fullautomatisering av oppgavene. Etter deres mening vil manuelle kontroller og synlighet i trafikken være et viktig virkemiddel, både i forebyggende øyemed, og for aktiv kriminalitetsbekjempelse på vei.
 
-Rettskraftige økonomiske reaksjoner
+1.  **<u>Dagens organisering av Utrykningspolitiet</u>**
 
-29
+UP er organisert med hovedkontor i Stavern og fem underliggende regionale UP-distrikter, hver ledet av en distriktssjef. UP-distriktene sammenfaller med Vegvesenets regioninndeling og hvert UP-distrikt omfatter minst to politidistrikt. Dette er en reduksjon fra tolv UP-distrikter i 1998 og ni i 2012. Dagens struktur ble innført fra 1. januar 2016, samtidig med politireformen. Med unntak av Oslo, som har sin egen trafikktjeneste (Tango), opererer UP over hele landet. UP bistår likevel Oslo politidistrikt ved behov.
 
-120
+UP har en stab og administrasjon på rundt 45 ansatte, fordelt på hovedkontor og regionene, og har årlig innbeordret rundt 280 årsverk fra politidistriktene. Patruljemannskapene innbeordres normalt til UP-tjeneste i to år, med en maksimal lengde på seks år. De operative mannskapene fordeler seg på uniformerte og sivile patruljer, herunder spesialpatruljer som etterretnings-, narkotikahund-, video- og tungbilpatruljer.
 
-1 575
+UP har også det administrative ansvaret for Politireserven (PR). Fra 1.1.2017 har som nevnt UP i tillegg overtatt ansvaret for Politiets ATK-senter med ca. 25 ansatte. Bemanningen i UP-distriktene varierer fra 40 til 70 tjenestemenn og -kvinner. UP er organisert som vist i figur 10.6.
 
-Bistandssaker
+**<u>\[:figur:figX-X.jpg\]</u>**
 
-46
+1.  <u>Utrykningspolitiets organisering</u>
 
-48
+<u>UP</u>
 
-57
+UP mener selv å jobbe etter «nærpolitiprinsippet» der mannskapene, ved å ha uniformerte tjenestebiler hjemme i fritiden, bidrar til opplevd trygghet og politinærhet i boligområder der det ellers er liten politidekning.[^294] UPs patruljebiler blir sett på som en erstatning for faste kontorplasser og oppleves «mer personlig» ettersom bilen ikke rulleres på andre patruljer, slik det gjøres i politidistriktene.
 
-47
+Etter UPs mening er det vanskelig å sammenligne patruljetjenesten i UP og i politidistriktene. UP arbeider på en annen måte og med andre oppgaver enn politidistriktenes vakt- og beredskapsstyrke. UPs patruljer er i gjennomsnitt i arbeid 33–34 timer per uke, etter en arbeidsplan som dekker døgnet på hverdager mellom 06:00–02:00 og i helgene mellom 08:00–04:00. UPs patruljebiler er oppgitt å kjøre gjennomsnittlig 30 000 km per år. Det opplyses fra UP at det er spredning i hvor og i hvilken mengde det er patruljer på veien og at det gjennom året må inkorporeres fravær som følge av sykdom, opplæring, trening og ferieavvikling. UP mener også det er en betydelig beredskapsressurs at tjenestebilene er plassert hjemme hos tjenestemennene/kvinnene, med fremskutt lagring av våpen, der det ikke er lange fravær i arbeidsplanen. Plassering av tjenestebil hjemme gjelder, etter søknad, for tjenestepersonell som har vakter påfølgende dager og bor slik til at de har kontroll på bilen.
 
-64
+De operative mannskapene i politidistriktene går på tjenestelister med forskjellig varighet, vanligvis satt opp for 4-6 uker om gangen. Alle med døgnkontinuerlig tjeneste skal ha 37,5 timer i gjennomsnitt per uke, men faktisk tilstedeværelse vil variere mellom kveld, natt og helg. Normal faktisk tilstedeværelse med døgnkontinuerlig tjeneste og arbeid hver tredje søndag gir ca. 34,5 timer i snitt per uke. De fleste operative mannskaper i politidistriktene arbeider hver tredje helg.
 
-Antall
+Til forskjell har UP primært dag og kveldsvakter, med noen nattevakter til kl. 0400. Det er ingen krav til døgnkontinuerlige vakter i UP-tjenesten, men også UP må oppfylle kravet til 37,5 timers arbeidstid i gjennomsnitt per uke. UP-tjenesten gir færre «rene» nattevakter, da tjenesten primært legges opp etter når trafikkgrunnlaget anses å være størst, eller at annen kunnskapsbasert informasjon tilsier et behov. Den øvrige operative polititjeneste har tilstedeværelse hele døgnet, men med noe redusert bemanning i helgene og om nettene.[^295]
 
-4 029
+1.  **<u>Om beordringssystemet</u>**
 
-4 272
+UPs operative personell har sitt faste tjenestested i eget politidistrikt og søker seg til tjeneste i UP. Gjennomsnittlig tjenestetid i UP er fire år. Avgitte mannskaper forblir i politidistriktenes lønnsbudsjett, men UP utbetaler variable utlegg. Dersom avgitte mannskaper blir sykemeldt i løpet av innbeordringsperioden, er politidistriktet pliktig til å avgi nye mannskaper som erstatning.
 
-5 795
+Dette vil si at de som arbeider ute på veien i UP, er utdannet på Politihøgskolen, har tjenestegjort en tid i politidistrikt eller andre enheter i politiet, og har gjennomført tilleggsopplæring for arbeidet i UP. Dette sikrer medarbeidere med bred kompetanse innenfor sine ansvarsområder, og setter enheten i stand til å løse mange typer oppdrag. Det er ingen bevisst kompetansestrategi bak rekrutteringen til UP, men en ordinær søknadsprosess, der UP etter eget utsagn velger mellom mange gode søkere hvert år.
 
-4 714
+UP-ledelsen viser til arbeidsmiljøundersøkelser som konkluderer med et godt arbeidsmiljø med lavt sykefravær. De siste årene har også UP-tjeneste blitt mer attraktivt. Dette har særlig sammenheng med at UP gikk over fra innbeordring til at en nå «søker» seg til UP, og at oppgaveporteføljen de senere år er utvidet i retning av kriminalitetsbekjempelse i et videre perspektiv.
 
-8 776
+UP oppgir at det er utfordrende å beholde og videreutvikle kjernekompetansen innenfor sine ansvarsområder. Kompetansen forblir likevel i stor grad i politi- og lensmannsetaten ved at kompetent personell kommer tilbake til politidistriktet etter endt tjeneste. Slik sett bidrar UP til en kontinuerlig kompetanseutvikling i politidistriktene.
 
-Antall
+Det er ulike oppfatninger av UPs beordningssystem. På den ene siden er det høy tilfredshet blant politimannskaper som har vært beordret til UP. På den andre siden oppgir flere politiledere at praksisen er uhensiktsmessig for politidistriktene, som må avgi sårt tiltrengte IP4-ressurser til UP med det resultat at vakanser i distriktene hoper seg opp. Dette blir forsterket ved at UP-mannskaper som blir sykemeldt må erstattes av nye mannskaper fra hjemmehørende politidistrikt for avtalt tjenesteperiode.
 
-Meldinger om mistenkelige transaksjoner
-1
+1.  **<u>Trafikksikkerhet</u>**
 
-Tallet inkluderer idømt erstatning etter gjenåpning og ny dom i Finance Credit-saken.
-Kilde: Økokrim
-30
+Politiets konkrete innsats i trafikksikkerhetsarbeidet er forankret i politiets strategiplan for polititjeneste på veg 2016–2019.[^296] Hovedsatsingen knytter seg til forebyggende virksomhet, kontrollvirksomhet og etterforskning. I tillegg utarbeider politidistriktene og UP årlige planer for trafikksikkerhetsarbeidet.
 
-25
+UP har i tillegg et oppdrag om å utvikle årlige nasjonale tilstandsbeskrivelser for trafikkatferd og ulykkesutvikling.
 
-20
+UPs rolle i dette arbeidet er innsats på veinettet, herunder distriktsovergripende aksjoner ved behov, eksempelvis perioder med stor utfart. I tillegg skal UP gjennomføre jevnlige tiltak for å markere synlighet i trafikken og dermed styrke oppdagelsesrisikoen, blant annet på prioriterte veistrekninger. Dette omfatter kontroll av trafikanter, og kjøretøy, samt bruk av straff og sanksjoner ved overtredelser på veitrafikklovgivningen.
 
-15
+1\. januar 2017 overtok UP som nevnt det faglige og administrative ansvaret for Politiets ATK-senter. Det er Statens vegvesen som har ansvar for daglig drift, installasjon og vedlikehold av fotoboksene. Politiets ATK-senter og politidistriktene har ansvaret for utstedelse av forelegg eller siktelser/tiltalebeslutning. UP vil i samarbeid med politidistriktene og Statens vegvesen arbeide med å utvikle en mer effektiv bruk og administrasjon av ATK-saker.
 
-10
+UPs forebyggende og kriminalitetsbekjempende tiltak i veitrafikken omfatter målrettet innsats mot alle risikovillige førere, noe som medfører beslag av mange førerkort hvert år for uvettig kjøreatferd. Tap av førerrett er også et tiltak politiet benytter dersom en person dømmes for andre straffbare forhold, men hvor det er klar kvalifisert sammenheng mellom bruk av motorvogn og handlingen, og hvor allmenne hensyn kan kreve det.[^297]
 
-5
+I det forebyggende arbeidet samarbeider UP med en rekke aktører. Foruten politidistriktene omfatter dette særlig Vegvesenet og Trygg trafikk.
 
-0
-2011
+Et annet viktig UP-tiltak, er synlighet i media. Særlig i perioder med stor utfart, er dette effektivt for å øke allmenn forståelse og bevissthet for trafikksikkerhetsarbeidet, samt påvirke trafikkatferden. I tillegg deltar UP, i samarbeid med spesielt Statens vegvesen, i jevnlige informasjons- og holdningskampanjer. Flere av disse kampanjene er særlig rettet mot høy fart og unge menn, som også topper ulykkesstatistikkene.
 
-2012
+UP er av sentrale aktører innenfor og utenfor politietaten, vurdert som en svært effektiv enhet som oppnår gode resultater innenfor nasjonalt trafikksikkerhetsarbeid. UPs arbeid med trafikksikkerhet må likevel ses som del av et bredere kriminalitetsbilde.
 
-2013
+En nylig UP-studie fra mars 2017 undersøkte sammenhengen mellom uaktsomhet i forbindelse med dødsulykker i veitrafikken og gjerningspersoners straffedomshistorie.
 
-2014
+Studien viste at gjerningspersonen i ulykken hadde utvist uaktsomhet i bortimot alle ulykkene. I 60 prosent av ulykkene hadde gjerningspersonen utvist grov uaktsomhet og i 36 prosent av tilfellene ble det utvist simpel uaktsomhet. 35 prosent av gjerningspersonene var tidligere straffet, de fleste for trafikale forhold. Totalt 63 prosent av gjerningspersonene var tidligere straffet (anmeldt), hadde vedtatt forenklet forelegg eller mottatt trafikkgebyr. Studien viste klar sammenheng mellom graden av uaktsomhet vist i ulykken og om gjerningspersonen var tidligere straffet. Av gjerningspersonene som utviste grov uaktsomhet var 43 prosent tidligere straffedømt, av gjerningspersonene som hadde utvist simpel uaktsomhet var 21 prosent tidligere straffedømt, mens av gjerningspersonene som ikke hadde utvist noen form for uaktsomhet, var 14 prosent tidligere straffedømt.[^298]
 
-2015
+En rekke politiledere og andre interessenter mener UPs innsats er avgjørende for politiets samlede ressursinnsats på trafikksikkerhetsarbeidområdet. I flere politidistrikt erfares det imidlertid at trafikksikkerhetsarbeid blir nedprioritert til fordel for andre kriminalitetsområder. Flere uttrykker bekymring for dette, men understreker samtidig at ressurssituasjonen i politiet gjør at slike prioriteringsavveininger er uunngåelige.[^299] Denne balansen må avveies mot Politidirektoratets instruks for politiets generelle trafikktjeneste der det blant annet heter at: «Trafikktjenesten er en av politiets prioriterte oppgaver. Målet er å hindre, eller begrense trafikkulykker, og redusere antall skadde og drepte i ulykkene».[^300]
 
-Bedrageri
+1.  **<u>Kriminalitetsbekjempelse p</u><u>å</u><u> vei</u>**
 
-Underslag
+UP er mer enn et nasjonalt trafikkpoliti. Gjennom sitt konsept «trafikktjeneste på vei» legger UP vekt på generell kriminalitetsbekjempelse i sin tjeneste på hovedveinettet i landet. Dette innebærer at UP i tillegg til sin innsats for å forebygge og bekjempe trafikkrelaterte overtredelser, også har politiblikket rettet mot andre kriminalitetstyper. Blant de ulykkesinvolverte førerne finnes som nevnt en overrepresentasjon av personer som begår annen type kriminalitet. Gjennom sin kontrollvirksomhet og overvåking av veien er UP derfor oppmerksom på mobile kriminelle som benytter veien til ulovlig virksomhet, som ulovlig innførsel av varer, menneskesmugling mv. På den måten bistår UP politidistriktene i generell kriminalitetsbekjempelse og produserer straffesaker på ulike områder. Politiets straffesakssystem (STRASAK) har imidlertid ikke registreringskoder som viser dette omfanget.
 
-Regnskapsovertredelser
+1.  **<u>Bistand</u>**
 
-Skatt mva toll
+I henhold til UPs instruks er UP pliktig å yte bistand til planlegging, tilrettelegging og gjennomføring av trafikkinnsats og kontrolloppgaver i politidistriktene. Gjennom samhandling med politidistriktene gjennomfører UP jevnlig oppdrag i politidistriktene, og de fleste politimestrene opplyser i samtale med utvalget at de opplever UP som en fleksibel og tilgjengelig bistandsressurs, både for alminnelige ordensoppdrag og mer planlagte arrangementer, som festivaler, stevner og idrettsarrangementer.
 
-Verdipapirhandel
+UP kan i tillegg bli pålagt å avgi personell og materiell til politidistriktene for å løse andre politioppgaver enn trafikktjeneste etter nærmere bestemmelser fra Politidirektoratet.
 
-Konkurranse
+Flere politiledere påpeker at en konsekvens av politireformens sammenslåing av politidistriktene også bør være redusert behov for UPs bistand. Større tilgang på mannskap skulle tilsi dette, men som flere andre peker på, var dette også antatt ved tidligere politireformer. Fortsatt er det antatt at særlig politidistrikter med store geografiske avstander, samt enkelte politidistrikt med sesongbaserte turistområder fortsatt vil ha behov for bistand fra UP.
 
-Korrupsjon
+1.  **<u>Beredskap</u>**
 
-Utroskap
+UP er politiets egen forsterkningsressurs og en beredskapsstøtte for politidistriktene. Dette innebærer at UP er en nasjonal mobil politistyrke som på kort varsel kan bli utplassert i spesielle situasjoner og hendelser. Fra sin posisjon på landeveien legger UP derfor vekt på å bidra til politidistriktenes krav om kort responstid ved akutte hendelser. Dette viste seg blant annet på Storskog høsten 2015 og på Utøya i 2011.
 
-Heleri/hvitvasking
+Tjenestegjørende i UP er forberedt på at oppdrag kan kreve forflytning til andre deler av landet, også over tid. I tillegg bistår UP politidistriktene med ressurser ved større hendelser samt med vaktoppdrag og samarbeider i noen grad med politidistriktene om trafikktjenesten. Blant annet bidro UP med viktige forsterkningsressurser under migrasjonsbølgen høsten 2015 og ved avviklingen av Ungdoms-OL vinteren 2016. Flere politiledere opplever UPs innsats som verdifull.
 
-Dokumentfalsk
+1.  **<u>Politireserven</u>**
 
-Økonomisk annet
+Politireserven er en reservestyrke i politiet, underlagt Utrykningspolitiet, som består av mannskaper som har fullført militær førstegangstjeneste og som deretter utfører plikttjeneste i Politireserven resten av tjenestetiden. Styrken omfatter rundt 700 mannskaper på Østlandet, som kan bli innkalt på kort varsel.
 
-Forurensning
+Politireserveordningen er hjemlet i lov av 21. november 1952 om tjenesteplikt i politiet. Politireserven kan kun besluttes brukt av Kongen i statsråd:
 
-Naturkriminalitet
+- <u>når militær beredskap eller mobilisering helt eller delvis er satt i verk</u>
 
-Kulturminnekriminalitet
+- <u>for å avverge eller begrense naturkatastrofer</u>
 
-Annen miljøkriminalitet
+- <u>for å avverge andre alvorlige ulykker</u>
 
-2016
+- <u>for å opprettholde samfunnsordenen når viktige allmenne interesser tilsier det, eksempelvis ved eventuelle terroranslag</u>
 
-Figur 9.5 Inntak av sakskomplekser
-Kilde: Økokrim
+Politireserven er ubevæpnet, men har maskinpistolen MP5 som primærvåpen ved eventuell bevæpning.
 
-utgjør eldre saker en forholdsvis større andel av
-porteføljen; ikke-påtaleavgjorte saker eldre enn
-ett år utgjør 63 prosent, mens måltallet er 33 prosent.38 Riksadvokaten og en rekke politiledere er
-bekymret for ressurssituasjonen ved Økokrim,
+Politireserven vil i visse situasjoner være påkrevd for å understøtte og dels avløse ordinære politimannskaper. Hovedoppgavene til Politireserven vil være objekt-vakthold og vakt-tjeneste, trafikk og -patruljetjeneste, innsats mot folkemasser (IMF) og i noen spesielle tilfeller til personsikring. Politireserven skal ikke brukes for å kompensere for mangelfulle politiressurser ved utøvelse av politiets daglige tjeneste.
 
-38
+*<u>Trening</u>*
 
-Riksadvokatens årsrapport 2016.
+Nye politireservister gjennomgår et to ukers grunnkurs (ti dager) som omfatter mange av politiets vanlige oppgaver, for eksempel vakthold, trafikkontroll, patruljetjeneste og skyteprøve. Hvert fjerde år blir det gjennomført obligatoriske fem-dagers repetisjonskurs. Kursene avsluttes med bestått/ikke bestått, og de som ikke består, blir tilbakeført til vernepliktsverket for annen disponering. All trening og opplæring skjer i regi av UP ved Justissektorens kurs- og øvingssenter (JKØ) i Stavern.
 
-særlig det lave antallet saker hvor det er åpnet
-etterforskning i 2016.
-Figur 9.5 gjenspeiler imidlertid ikke antallet
-saker under etterforskning i Økokrim, ettersom
-gjennomsnittlig saksbehandling er på nesten
-elleve måneder. I perioden 2011–2016 hadde Økokrim gjennomsnittlig rundt 25 saker under etterforskning ved årsskiftet. Ved årsskiftet 2016–2017
-hadde Økokrim 27 saker under etterforskning.
+Deler av Politireserven deltar også på ordinære redningsøvelser med Forsvaret, Sivilforsvaret og Politiet.
 
-[Side 129]
+Siden 2006 har rekruttering kun vært fra det sentrale østlandsområdet, og ikke hele landet, som tidligere.
 
-129
+*<u>En lite brukt ressurs</u>*
 
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
+Politireserven har siden opprettelsen vært lite i bruk. Styrken ble benyttet første gang under OL på Lillehammer i 1994 og gjennomførte vanlig polititjeneste i landet, mens store deler av hoved- politistyrken ble avgitt til tjeneste på Lillehammer. Den 22. juli 2011 ble det gitt tillatelse fra Politidirektoratet til å benytte styrken. Deler av styrken ble varslet og satt i beredskap, men ingen ble innkalt.
 
-Kapittel 9
+Så sent som i 2001 besto styrken av omtrent 8000 menn og kvinner, men budsjettsituasjonen har siden begrenset både innkalte mannskaper og kursaktivitet. I 2007 bestemte regjeringen å rulleføre tusen ekstra personer for rask utdanning og utstyring ved endret trusselsituasjon, men kostnadsrammen ble ikke besluttet økt i tråd med vedtaket.
 
-Tabell 9.3 Økokrims inntak av sakskompekser per lovbruddskategori 2011–2016.1
-Inntak (Økosak)
+Den økonomiske tildelingen fra POD til UP øremerket drift, kurs og materiell for Politireserven er årlig på rundt 3,5 mill. kr.
 
-Bedrageri
+Politireserven er flere ganger foreslått avviklet, senest av Forsterkningsutvalget i 2013,[^301] men Stortinget besluttet med våren 2015 å opprettholde styrken. Som følge av dette har Politidirektoratet nylig utarbeidet forslag til nye retningslinjer for Politireserven.[^302]
 
-2011
+1.  **<u>Kompetanseutvikling</u>**
 
-2012
+Alle nye UP-mannskaper gjennomgår et eget innføringskurs på i overkant av en uke. Årlig gjennomgår mellom 70–100 nye mannskaper dette kurset.
 
-1
+I tillegg bidrar UP med instruktører og lærekrefter på opplæring i trafikktjeneste, kjøreopplæring, fartsmåling og trafikksikkerhet ved Politihøgskolen (PHS).
 
-2013
+Betydningen av UPs bidrag som instruktører til PHS, viser seg ikke bare gjennom generell økt bevissthet om trafikksikkerhet for studentene, men også i form av økt forståelse for at trafikksikkerhetsarbeidet er en del av politiets generelle ordensoppdrag. UPs bidrag har også betydning for politimannskapenes effektive bruk av politidistriktets eget trafikktekniske utstyr.
 
-2014
+UP har ansvar for fag- og metodeutvikling for politiets trafikksikkerhetsarbeid, men politidirektoratet er eier av metodeverk og instruksverk for trafikkområdet. UP har etterlyst avklaring fra POD om fagansvarsrollen.
 
-2015
+*Statens vegvesen* opplever UPs kompetanseoverføring til distriktene som uklar. Vegvesenet ønsker likevel ikke å vurdere om politidistriktene kunne opprettholde god trafikksikkerhet med en annen organisering der de overtok flere oppgaver fra UP i en mer målrettet løsning. Som utgangspunkt mener de det er liten grunn til å endre noe som fungerer. Konklusjonen er dermed at de vil beholde UP slik ordningen er i dag, fordi dette fungerer godt.
 
-4
-
-1
-
-Underslag
-
-1
-
-Gjeldsforhandl/regnskap
-
-2
-
-1
-
-3
-
-2
-
-3
-
-Skatt/mva/toll
-
-2
-
-Verdipapirhandel
-
-9
-
-8
-
-3
-
-4
-
-1
-
-Korrupsjon
-
-3
-
-1
-
-3
-
-3
-
-3
-
-Utroskap
-
-2
-
-Heleri/hvitvasking
-
-2
-
-2
-
-2
-3
-
-4
-
-1
-
-Dokumentfalsk
-
-2
-1
-
-Økonomisk krim/annet
-
-1
-
-1
-
-Forurensning
-Natur
-
-2016
-
-1
-
-3
-
-2
-3
-
-2
-
-5
-
-2
-
-Kulturminne
-
-1
-
-Arbeidsmiljø
-
-2
-
-Miljøkriminalitet/annet
-
-5
-
-Sum
-
-27
-
-15
-
-2
-1
-
-1
-
-1
-
-2
-
-2
-
-20
-
-25
-
-15
-
-12
-
-1
-
-Enheten her er sakskomplekser. Ett sakskompleks kan omfatte en rekke mulige lovbrudd. Sakskomplekser med flere ulike lovbruddskategorier (f eks skattesvik og innsidehandel), er registrert utfra hvilken lovbruddstype som er mest fremtredende i
-straffesaken ved iverksettelse av etterforsking.
-Kilde: Økokrim
-
-Tabell 9.3 viser antall sakskomplekser fordelt på
-lovbruddstyper for perioden 2011–2016.
-Over tid er imidlertid variasjonene større.
-Dette har blant annet sammenheng med forskjeller i sakskompleksitet, men også sakstilfang, samt
-politidistriktenes kapasitet og kompetanse. Figur
-9.6 viser en oversikt over utvikling i antall inntatte
-saker i Økokrim for perioden 1991–2016. Det forholdsvis store saksomfanget i perioden 1996–
-2008, og særlig fra 1997 til 2003, skyldes at Økokrim den gang hadde saker som var langt mindre
-krevende å etterforske enn mange av dagens
-saker. Inntaket av nye saker avhenger av flere forhold, særlig kriminalitetsutvikling med stadig mer
-grenseoverskridende
-kriminalitet,
-sakenes
-omfang, kompleksitet og prinsipielle betydning og
-ikke minst Økokrims kapasitet. Kapasiteten har
-særlig vært påvirket av svingninger i antall
-bistandsanmodninger og økende antall ankesaker til behandling de siste årene.
-Til sammenligning er saksinntaket på henholdsvis økonomiske og miljørelaterte straffesa-
-
-ker i politidistriktene av en ganske annen størrelse. Følgende oversikt (figur 9.7) over økonomisaker og miljøsaker i politidistriktene for perioden 2011–2016 omfatter en varierende kompleksitet som omfatter lovbrudd knyttet til
-– pengefalsk
-– underslag
-– bedrageri og økonomisk utroskap
-– regnskap
-– merverdiavgift
-– bokføring
-Miljøsakene omfatter brudd på følgende lovverk:
-– forurensningsloven
-– naturmangfoldsloven
-– viltloven
-– akvakulturloven
-– plan- og bygningsloven
-– arbeidsmiljøloven
-– kulturminneloven
-– dyrevelferdsloven
-
-[Side 130]
-
-130
-
-NOU 2017: 11
-
-Kapittel 9
-
-Bedre bistand. Bedre beredskap
-
-120
-101
-100
-
-101
-
-106 108
-
-87
-
-85
-80
-
-67
-
-60
-41
-
-36
-
-27
-13
-
-18
-
-15
-
-20
-
-25
-15
-
-12
-
-2014
-
-2013
-
-2012
-
-2011
-
-2010
-
-2009
-
-2008
-
-2007
-
-2006
-
-2005
-
-2004
-
-2003
-
-2002
-
-2001
-
-2000
-
-1999
-
-1998
-
-1997
-
-1996
-
-1995
-
-1994
-
-6
-1993
-
-1
-1992
-
-0
-
-2
-1991
-
-20
-
-27
-
-25
-
-17
-
-2016
-
-34
-
-2015
-
-38
-
-35
-
-40
-
-Antall nye saker
-
-Figur 9.6 Antall inntatte saker Økokrim pr.år. 1991–2015
-Kilde: Økokrim
-
-Figur 9.7 viser et relativt jevnt antall saker årlig.
-Den største kategorien innenfor økonomisk straffesaker er bedrageri/utroskap, som utgjør rundt
-80 prosent av saksmengden. På miljøområdet er
-brudd på arbeidsmiljøloven den klart største kategorien, med rundt 40 prosent av sakstilfanget, deretter kommer brudd på dyrevelferdsloven (rundt
-20 prosent). Brudd på forurensningsloven og viltloven utgjør rundt 15 prosent hver i gjennomsnitt.
-De fleste av sakene er imidlertid av en helt
-annen kompleksitet enn de som blir etterforsket i
-Økokrim, og ressursbehovet blir dermed ulikt.
-
-Gjennomsnittlig oppklaringsprosent for disse
-sakene ligger omtrent på samme nivå som gjennomsnittet for øvrig straffesaksbehandling i politiet.
-Et annet målkrav for Økokrim er inndragning
-av utbytte. Figur 9.8 viser oversikt over inndragning for perioden 2012–2016 fordelt på økoteam.
-Få saker gir store variasjoner fra år til år.
-Det er likevel vanskelig å måle Økokrims kriminalitetsbekjempelse på denne bakgrunn, ettersom ulike faktorer virker inn på hvilke saker som
-blir avdekket. Det særskilt store utslaget i 2014
-
-12 000
-
-10 000
-
-8 000
-
-6 000
-
-4 000
-
-2 000
-
-ØKONOMI
-2011
-
-MILJØ
-2012
-
-2013
-
-2014
-
-2015
-
-2016
-
-Figur 9.7 Antall anmeldte saker økonomisk kriminalitet og miljøkriminalitet i politiet totalt 2011–2016
-Kilde: STRASAK
-
-[Side 131]
-
-131
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-Kapittel 9
-
-180 000 000
-160 000 000
-140 000 000
-120 000 000
-100 000 000
-80 000 000
-60 000 000
-40 000 000
-20 000 000
-0
-2012
-
-2013
-
-2014
-
-2015
-
-2016
-
-Konkursteamet
-
-Skatteteamet
-
-Avgiftsteamet
-
-Korrupsjonsteamet
-
-Bedrageriteamet
-
-Verdipapirteamet
-
-Avdeling 3
-
-Utbytteteamet
-
-Hvitvaskingsteamet
-
-Miljøteamet
-
-Figur 9.8 Inndragning ekskl. renter 2012–2016
-Kilde: Økokrim
-
-inkluderer idømt erstatning etter rettskraftig dom
-i Finance Credit-saken. Selv om dette fremstår
-som et spesielt år, antyder det samtidig at kriminalitetsomfanget kan være stort, og ikke minst at det
-omfatter betydelige samfunnsverdier. Det er verdt
-å merke at inndragning først kan iverksettes etter
-at domfellelsen er rettskraftig.
-I en typisk Økokrim-sak blir det også gjort
-andre typer beslag, og bare dokumentutdrag
-ender ofte på rundt 10 000 sider. Største dokumentutdrag i perioden er på over 1 million sider,
-tilsvarende nesten 10 000 ringpermer. Til sammenligning omfattet Panama Papers 11,5 millioner dokumenter lekket fra et advokatfirma med
-opplysninger om selskapsstrukturer i skatteparadiser. Økokrim har årlig flere saker med vesentlig
-større dokumentmengder. Økokrim innhenter
-ikke bare bevis fra ett selskap, men som oftest fra
-flere. I tillegg blir det gjort beslag i personlige
-enheter fra flere involverte personer og relevant
-data fra deres bruk av skytjenester.
-De aller fleste saker vil ha noen dokumentbeslag, men volum og type varierer. Typisk vil
-være regnskaper og tilhørende dokumentasjon,
-styredokumenter, kontrakter, almanakker, notater, bankdokumenter og lignende. Utviklingen går
-i retning av større elektroniske beslag, men fortsatt blir det gjort relativt store papirbeslag. I perioden 2012–2016 har det ikke vært behov for å leie
-ekstra transport i form av lastebil eller lignende
-for å frakte beslaglagte dokumenter, men ved
-
-aksjoner er det vanlig med flere fullastede stasjonsvogner.39
-Etter omstendighetene i den enkelte sak blir
-det også gjort beslag i kontantbeløp og verdigjenstander for å tjene til dekning av senere inndragning, erstatning eller saksomkostninger. Tilsvarende tas det regelmessig heftelse i formuesgoder. Antall, type, kilde og omfang for slike verdibeslag/heftelser varierer. I saker om økonomisk kriminalitet tas det slike beslag/heftelser for
-verdisikring i ca. 15 prosent av sakene. For miljøkriminalitet er tilsvarende tall ca. 10 prosent. I
-tillegg kommer verdien av beslagene/heftelsene i
-andre formuesgoder. Dette kan dreie seg om alt
-fra fast eiendom og biler til verdipapirer og smykker. Verdien av disse er det vanskelig å beregne,
-men anslagsvis dreier det seg i perioden 2012–
-2016 om verdier på til sammen mer enn 75 millioner kroner. 40
-Økokrims kriminalitetsbekjempelse gjennom
-etterforskning og iretteføring av konkrete straffesaker kan også anses å ha en forebyggende
-effekt, der målet er å skape størst mulig grad av
-individuell prevensjon og allmennprevensjon, og
-dermed sikre størst mulig grad av lovlydighet
-innenfor området. Innsatsen sender dermed et
-signal til potensielle lovbrytere på Økokrims
-områder om at det er forbundet med en strafferisiko å overtre reglene. Inndragning er her et sær39
-40
-
-Brev fra Økokrim til sekretariatet 10.02.17.
-Brev fra Økokrim til sekretariatet 10.02.17.
-
-[Side 132]
-
-132
-
-Kapittel 9
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-skilt viktig virkemiddel, fordi det rammer den profittmotiverte handlingen.
-Kriminalitetsutviklingen de siste årene viser
-en sterk vekst i antall saker på området, samtidig
-har responsen økt, ikke bare fra politimyndighetene, men også fra kontrollmyndigheter som Skatteetaten og Tollvesenet, og den seriøse del av
-næringslivet, som ofte har egne granskere. Økokrimsjefen bemerker at dette også gjenspeiles i en
-sterk vekst i granskingsindustrien de siste ti
-årene. Denne industrien leverer ofte «ferdig etterforskede» saker av stort omfang, med en klar forventning om domfellelse. Det som dessverre ikke
-har økt i samme tempo, er nødvendige ressurser
-for å holde tritt med utviklingen. Her er det en
-kraftig asymmetri.41
-Samtidig ble det blant annet i PODs disponeringsskriv for 2015 angitt at økonomisk- og miljøkriminalitet var ett av tre områder som skulle prioriteres særskilt for de 349 nye politistillingene (de
-øvrige områdene var IKT-kriminalitet og kriminalitet rettet mot barn og andre sårbare personer).
-Utvalget kan ikke se at dette har materialisert seg
-i forsterket innsats, av særlig grad.
-Som flere politiledere påpeker, er det ikke gitt
-at organisering av de nye tolv distriktene gir nødvendig samling av fagmiljø for å styrke bekjempelse av økonomisk kriminalitet.
-Riksadvokaten er tydelig på behovet for en
-slagkraftig enhet for straffeforfølgning på det økonomiske straffesaksfeltet og mener Økokrim trenger mer ressurser for å kunne behandle flere
-saker.42
-En gjennomgående tilbakemelding til utvalget
-er at Økokrim er en meget viktig, men underfinansiert nasjonal spisskompetanse. Flere politimestre fremhever Økokrim som et særorgan som
-bistår distriktene på områder der de selv ikke kan
-bidra med nødvendig kraft og kapasitet. Selv med
-omorganisering til tolv politidistrikt er det uttrykt
-et tydelig og klart behov for nasjonal spisskompetanse innen økonomisk kriminalitet og miljøkriminalitet. Dette gjelder både innenfor politisektoren
-og blant kontrolletater og andre interessenter.
-
-9.4.2 Bistand
-De siste årene har Økokrim opplevd en jevn
-økning i antall bistandsanmodninger fra politidistriktene samt søsterorganisasjoner i andre land.
-Fra 2015 til 2016 økte antall bistandssaker fra 47 til
-64 saker. I særlig grad var økningen knyttet til
-
-bedrageri, økonomisk utroskap og datateknisk
-bistand samt pengesporetterforskning i saker om
-alvorlig profittmotivert kriminalitet. Økokrims
-inntak av bistandssaker i perioden 2011–2016 er
-gjengitt i figur 9.9.
-I tillegg mottar Enheten for finansiell etterretning (EFE) årlig rundt 50 henvendelser fra politidistriktene om bistand i saker med internasjonale
-forgreininger, og enheten bidrar med rådgivning
-og innhenting av opplysninger til bruk i distriktene. Riksadvokaten har i flere mål- og prioriteringsrundskriv de siste årene understreket nødvendigheten av at politidistriktene mer aktivt gjør
-nytte av finansiell etterretningsinformasjon fra
-EFE ved etterforskning av straffbare handlinger
-begått av personer i kriminelle nettverk.43
-Økokrims utbytteteam yter tilsvarende bistand
-til politidistriktene i saker om inndragning av
-utbytte – som er et sentralt virkemiddel, fordi det
-rammer selve motivet for kriminaliteten. Også her
-gir Riksadvokaten årlige oppfordringer til politidistriktene om bedre bruk av Økokrims veiledere
-for å sikre mer effektiv inndragning av utbytte.44
-Utover dette bistår Økokrim også etter anmodning blant annet Spesialenheten for politisaker,
-statsadvokatembeter, Kripos og Sysselmannen på
-Svalbard. Økokrim mottar også årlig en rekke
-bistandsanmodninger fra søsterorganisasjoner i
-andre land, men har ikke kapasitet til å følge opp
-utfallet i disse sakene, slik at utfallet av denne
-bistanden ikke er kjent. Økokrim bistår i tillegg
-andre lands myndigheter, oftest spesialiserte
-etterforsknings- og påtalemyndigheter innen
-alvorlig økonomisk kriminalitet. I 2016 mottok
-Økokrim totalt 40 anmodninger fra 18 forskjellige
-land.
-Det er for tidlig å konkludere om effektene av
-politireformen, men som Økokrim-sjefen fremhever, er det grunn til å tro at de nye politidistriktene
-vil ha behov for bistand, og selv distrikter som
-ikke ber om bistand, kan ha behov.45 Det har vært
-flere eksempler der enkeltdistrikter av ulike grunner ikke har bedt om bistand tross behov, etterslep og restanser på viktige saker.
-Økokrim mottar også mange henvendelser fra
-politidistriktene gjennom direkte kontakt med
-etterforskere og påtalejurister som ikke blir registrert som bistandsanmodninger. Slike henvendelser har ifølge Økokrim økt merkbart de siste
-årene.46
-43
-44
-
-41
-42
-
-Samtale med Økokrim 23. september 2016.
-Samtale med utvalget 16. september 2016.
-
-45
-46
-
-Bl.a. Rundskriv 2/2012 og 1/2017.
-Bl.a. Rundskriv 1/2013, 1/2014, 1/2015 og 1/2017.
-Samtale med utvalget 23. september 2016.
-Brev fra Økokrim 10.02.2017 til sekretariatet.
-
-[Side 133]
-
-133
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-Utvalget bemerker her at i kompetansekartleggingen av landets politidistrikter svarte politimestrene gjennomgående at tross ny struktur
-med tolv politidistrikt anså de ikke at behovet for
-Økokrims nasjonale spisskompetanse ville avta
-nevneverdig de kommende årene. Flere politimestre opplyser samtidig at det har vært tidkrevende
-å bygge opp tilstrekkelig robuste økoteam, og at
-det kan være vanskelig å skjerme ressursene,
-grunnet stort sakstrykk generelt.
-Basert på utvalgets spørreundersøkelse rettet
-mot ansatte i politietaten og en stor andel respondenter som svarte «vet ikke» på spørsmål om
-hvorvidt Økokrims bistandsfunksjon oppleves
-som tilgjengelig, synes det som om denne funksjonen ikke er godt nok kjent. Samtidig er det bred
-oppslutning om at Økokrim bør ha denne funksjonen. Over 83 prosent er «enig» eller «helt enig» i
-at Økokrim bør ha en bistandsfunksjon. Her
-svarte 1150 av 1919 respondenter.
-
-9.4.3 Kompetanse-, fag- og metodeutvikling
-I samtaler med utvalget er politilederne og kontrolletater samstemte om at begrenset kapasitet
-og kompetanse i mange politidistrikter gjør det
-nødvendig å opprettholde en nasjonal enhet for
-spisskompetanse innen alvorlig økonomisk kriminalitet. Det er også en klar oppfatning av at Øko-
-
-Kapittel 9
-
-krims bistandsinnsats i politidistriktene er viktig
-for kompetanseutviklingen, men flere gir uttrykk
-for ønske om et bredere tilbud, også etter nærpolitireformen.
-I utvalgets spørreundersøkelse gir respondentene klart uttrykk for at Økokrim utfyller sin rolle
-som kompetansesenter på en god måte. På en
-skala fra 1 til 6, der 1 betyr at Økokrim ikke utfyller sin rolle på en god måte og 6 at Økokrim utfyller rollen på en meget god måte, er gjennomsnittsscoren 4,27. Rutiner for kunnskapsutveksling med
-politidistriktene vurderes å ha forbedringspotensial (3,80). Bare 11 prosent er «enig» eller «helt
-enig» i at disse rutinene fungerer bra.
-Det er likevel viktig å legge til at i denne delen
-av utvalgets spørreundersøkelse er andelen «vet
-ikke» høy for alle særorgan.47 I kommentarfeltene
-blir dette utdypet med at mange har liten kontakt
-med Økokrim, og mangel på kunnskap skaper
-vegring mot å uttale seg. Det er likevel, ut fra
-responsen på andre spesifikke spørsmål om Økokrim der respondentene er filtrert, grunn til å tro
-at de som svarte positivt, i stor grad er de respondenter som har jevnlig kontakt med Økokrim.
-Blant respondentene vurderes Økokrim å ha
-nødvendig spesialkompetanse til sitt oppdrag
-47
-
-Mellom 43,4 og 63,5 prosent per spørsmål svarte «vet
-ikke».
-
-60
-
-50
-
-40
-
-30
-
-20
-
-10
-
-0
-2011
-
-2012
-
-2013
-
-2014
-
-2015
-
-Bedrageri/utroskap
-
-Underslag
-
-Regnskapsovertredelser
-
-Skatt mva toll
-
-Verdipapir
-
-Heleri
-
-Korrupsjon
-
-Plan og bygning
-
-Økonomisk annet
-
-Forurensning
-
-Naturkriminalitet
-
-Arbeidsmiljøkriminalitet
-
-Annen miljøkriminalitet
-
-Annet
-
-Datateknisk
-
-Figur 9.9 Inntak bistandssaker Økokrim per kategori
-Kilde: Økokrim
-
-2016
-
-[Side 134]
-
-134
-
-NOU 2017: 11
-
-Kapittel 9
-
-Bedre bistand. Bedre beredskap
-
-(4,70). Det er også støtte i påstanden om at Økokrim bør ha fagansvar på sine områder (4,96).
-Økokrim vurderes å ha begrenset kapasitet til å
-ivareta generelle behov for kompetanseutvikling
-(3,71). Dette er for øvrig konsistent med at Økokrims bistandstjenester oppfattes å ha begrenset
-tilgjengelighet (3,93). Samtidig er det viktig å se
-dette i sammenheng med tidligere nevnte brede
-oppfatning i utvalgets undersøkelse av at Økokrims bistands- og kompetansefunksjon er svært
-etterspurt – over 83 prosent (av et utvalg på 1150
-respondenter) er «enig» eller «helt enig» i at Økokrim bør ha denne funksjonen.
-En overvekt av respondentene mener Økokrim bidrar til å styrke politidistriktenes kompetanse på etterforskning (4,69), og at Økokrim
-bidrar til god kompetanseoverføring til politidistriktene (4,24). Dette innebærer at selv om
-respondentene gjerne skulle sett et utvidet
-bistandstilbud, oppgir de å være godt fornøyd
-med effekten av den bistanden som blir gitt. Her
-som for de fleste andre kategorier er det bare
-Kripos blant særorganene som scorer høyere.
-
-9.5
-
-Særlig om IKT-kriminalitet
-
-Med IKT-kriminalitet forstås:
-– kriminalitet ved angrep på datasystemer
-– kriminalitet der bruk av datasystemer er en forutsetning
-– kriminalitet der vesentlige deler av bevisbildet
-omfatter elektronisk spor
-Nasjonalt ansvar for koordinering av bekjempelsen av IKT-kriminalitet ble opprinnelig lagt til
-datakrimteamet i Økokrim. Senere ble ansvaret
-og ressursene overført til politiets datakrimsenter,
-og etter forrige særorganutredning48 ble ressursene overført til Kripos. Siden har Økokrim bygget opp ny kompetanse. På dette området etterlyser Økokrim tydeligere kriterier for hvor slike
-saker hører hjemme – Økokrim, Kripos eller det
-enkelte politidistrikt. Det blir også reist generelt
-spørsmål om hvorvidt det er behov for et eget
-nasjonalt senter for IKT-kriminalitet.
-Ansvar for bekjempelse av kriminalitet ved
-angrep på datasystemer ligger hos Kripos.
-For kriminalitet der bruk av datasystemer er
-en forutsetning, er bildet mer sammensatt.
-Typiske former for slik kriminalitet har vært massebedragerier, herunder såkalt Nigeria-svindel.
-48
-
-Politidirektoratet (2003): Rapport om særorganenes fremtidige rolle og organisering. Mikkelsen-utvalget.
-
-Trenden i 2017 ser ut til å gå i retning av haking av
-servere, ransomware og malware. Utviklingen går
-raskt.
-Økokrims korrupsjons- og bedrageriteam deltar på internasjonale arenaer der ulike trender for
-slik kriminalitet diskuteres. Videre arbeider Økokrim aktivt med å spre informasjon om nye trender blant annet gjennom sine hjemmesider. Disse
-sakene vil sjelden oppfylle kriteriene for saksinntak ved Økokrim, men det foretas en fortløpende
-vurdering av om saksinntak er hensiktsmessig.
-I nesten alle Økokrim-saker vil elektroniske
-spor utgjøre en vesentlig del av bevisbildet. Ved
-saksinntak legger Økokrim vekt på teknologiaspektet, men har så langt ikke sett økonomisk IKTkriminalitet som et eget uavhengig kriminalitetsområde.
-Økokrim har ellers ingen saker til behandling
-som ikke er forbundet med data, men om datakriminalitet er en del av bildet, blir et definisjonsspørsmål. Selv mener Økokrim å ha god kompetanse på området og tar ofte svært store databeslag som krever både lagringsplass og kompetanse på teknisk håndtering. Her er det imidlertid
-ofte store utfordringer med å finne ut hvor relevant informasjon er lagret, eksempelvis om den er
-lagret fysisk eller i en skytjeneste, og å sikre
-bevis, og i neste omgang rense beslag og analysere og strukturere dette samtidig som krav til
-taushetsplikt skal ivaretas. Denne håndteringen
-innebærer også ofte behandling av ulike innsynsbegjæringer, noe som krever ulike praktiske og
-pragmatiske tilnærminger.
-
-9.6
-
-Styringslinjer
-
-Økokrim får som de andre bistandsorganene tildelt sin budsjettramme gjennom disponeringsskriv fra POD og inngår i likhet med den øvrige
-politi- og lensmannsetaten i statsbudsjettets kapittel 440. For 2016 var Økokrims budsjettramme på
-rundt 157 mill. kr.
-Gjennom deltagelse i politidirektørens nasjonale ledergruppe (NLG), sammen med PODs
-ledergruppe, ledere for alle særorganene samt
-politimestrene, har Økokrim en sentral rolle i viktige nasjonale beslutningsprosesser i politi- og
-lensmannsetaten.
-Riksadvokaten har overordnet faglig ansvar
-for all straffesaksbehandling i politiet, herunder
-for Økokrim som statsadvokatembete. Styringslinjene er vist i figur 9.10. Det framgår av tilbakemelding fra politi- og påtalelederne, samt gjennom
-
-[Side 135]
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-Kongen i statsråd
-Justis- og beredskapsdepartementet
-Politidirektoratet
-
-Riksadvokaten
-
-ØKOKRIM
-
-Politidistrikt
-
-ADM. OG BUDSJETT
-
-Statsadvokatembete
-(10 REGIONALE
-STATSADVOKATEMBETER)
-
-STRAFFES.BEH.:
-
-Figur 9.10 Styringslinjer Økokrim
-utvalgets spørreundersøkelse, at Riksadvokatens
-faglige styring av Økokrim fremstår som god.
-Økokrims mandat og oppgavespenn synes
-godt ivaretatt gjennom interne styringslinjer.
-Både årsrapporter fra de seneste årene samt de
-mange tilbakemeldinger utvalget har fått, viser at
-Økokrim leverer resultater i tråd med Politidirektoratets mål og nyter stor faglig respekt i politidistriktene.
-
-9.7
-
-Samarbeid
-
-Økokrims samarbeid følger i hovedsak to spor:
-internasjonalt samarbeid og operativt straffesakssamarbeid.
-
-9.7.1 Internasjonalt samarbeid
-Økonomisk kriminalitet er i økende grad grenseoverskridende, og grensekryssende samarbeid
-mellom kriminelle er et økende fenomen. Dette
-forutsetter at Økokrim har et aktivt samarbeid
-med utenlandske politi- og påtalemyndigheter. I
-tillegg deltar Økokrim i internasjonalt samarbeid
-på ulike områder av mer generell karakter.
-På straffesaksområdet deltar Økokrim blant
-annet i CARIN-samarbeidet (The Camden Assets
-Recovery Inter-Agency Network) – et internasjonalt nettverk som består av fagpersoner innenfor
-politi- og påtalemyndigheten. Formålet med nettverket er å fremme internasjonalt samarbeid for
-mer effektiv inndragning av ulovlig utbytte.
-Økokrim er også representert i en arbeidsgruppe for korrupsjonsspørsmål i OECD og i
-GRECO (Groups of States against Corruption) –
-overvåkingsorganet for Europarådets korrupsjonskonvensjon.
-
-135
-
-Kapittel 9
-
-ØKOKRIM er Norges kontaktpunkt for henvendelser, konsultasjoner og rettslig bistand etter
-OECD-konvensjonen om bestikkelser av utenlandske tjenestemenn.
-Innenfor finansiell etterretning deltar Økokrim i den norske delegasjonen i FATF (Financial
-Action Task Force). FATF har som formål å
-styrke det internasjonale samarbeidet for å
-bekjempe hvitvasking av utbytte fra straffbare
-handlinger.
-Økokrim deltar som nevnt også i Egmont-samarbeidet, et internasjonalt samarbeidsnettverk for
-myndigheter som jobber for å bekjempe hvitvasking og terrorfinansiering. Kjernen i samarbeidet
-er tilgang på og utveksling av finansiell etterretning på tvers av landegrenser samt utveksling av
-erfaring med nye hvitvaskingstrender og ny teknologi som er sårbar i hvitvaskingssammenheng.
-Per februar 2016 hadde Egmont-samarbeidet 135
-medlemmer.
-
-9.7.2 Samarbeid med kontrolletater
-En viktig forutsetning for økt effekt av samlet innsats i bekjempelsen av økonomisk kriminalitet og
-miljøkriminalitet, er godt samarbeid internt i kontrolletatene, mellom kontrolletatene og mellom
-kontrolletatene og politi- og påtalemyndighetene.
-Offentlige kontrollmyndigheter har som oppgave å følge opp og kontrollere viktige samfunnsområder, avdekke og rette avvik og sørge for at
-lovbrudd forfølges. Erfaring viser at aktører som
-begår kriminalitet på ett område, har økt sannsynlighet for å begå kriminalitet også på andre områder.
-Kontrolletatene står for en god del av de
-anmeldelsene Økokrim mottar. I flere saker deltar
-personell fra kontrolletatene i straffesaksbehandlingen som en del av etterforskningsteamet. Slik
-deltakelse avtales konkret i den enkelte sak i henhold til gjeldende rutiner. Manglende samarbeid
-på tvers kan derfor være et større hinder for
-effektiv kriminalitetsbekjempelse enn mangel på
-regelverk og sanksjonsmuligheter.49
-Kontrolletatene kan ved hjelp av sine hjemler,
-ved sivilrettslig arrest mv., i mange tilfeller oppnå
-det samme som Økokrim kan ved beslag. Hva
-som er den mest hensiktsmessige fremgangsmåten i den enkelte sak, vurderes i slike tilfeller i dialog med kontrolletaten. I enkelte saker hvor medarbeidere fra kontrolletater har spesialkompetanse (for eksempel Mattilsynet på dyrevelferd)
-49
-
-Justis- og politidepartementet (2011): Regjeringens handlingsplan mot økonomisk kriminalitet. s. 14.
-
-[Side 136]
-
-136
-
-Kapittel 9
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-kan det være hensiktsmessig at etaten deltar
-under bevissikring. Slik deltakelse skjer på Økokrims initiativ og avhenger av behov for bistand i
-den enkelte sak.
-Økokrim foretar i de aller fleste tilfeller selv
-beslag i egne saker. Tilsvarende gjelder for saker
-anmeldt av kontrolletater. Dersom for eksempel
-Skatteetaten har foretatt stedlig kontroll og innhentet papir- og/eller databeslag, vil Økokrim normalt overta dette, men foretar i tillegg som oftest
-egen, spisset bevissikring. Økokrim kan også
-overta dokumentasjon innhentet av for eksempel
-granskere, men ofte er det også her nødvendig
-med egen bevissikring. Ved bevissikring i utlandet der Økokrim ikke har hjemmel til egen sikring, søker de ofte å delta. Økokrim foretar uansett egen gjennomgang av alle bevis i alle saker.
-Økokrim har siden enheten ble opprettet, hatt
-et uttalt mål om å samarbeide nært med kontrolletatene. Dette gjenspeiles blant annet i rekruttering av personell med bakgrunn fra kontrolletatene.
-De mest sentrale kontrolletatene innen økonomisk kriminalitet og miljøkriminalitet som Økokrim samarbeider tett med, er Skatteetaten,
-Finanstilsynet, Tolletaten, Miljødirektoratet (forurensning, natur og fauna), Arbeidstilsynet
-(arbeidsmiljø, arbeidsliv), Mattilsynet (dyrevelferd, akvakultur), Kulturdepartementet (kunst og
-kultur) og Riksantikvaren (kulturminner).
-I 2016 ble det også etablert nytt tverretatlig
-analyse- og etterretningssenter (NTAES) ved
-Økokrim som ledd i regjeringens strategi mot
-arbeidslivskriminalitet. Dette er et samarbeid mellom Økokrim, Skatteetaten, Tolletaten, Nav,
-Arbeidstilsynet og Politidirektoratet.
-I tillegg har Økokrim også samarbeid med
-offentlig oppnevnte bostyrere og politidistriktene,
-blant annet ved å bidra til å utarbeide rutiner for
-politiets behandling av saker om konkurskriminalitet. Økokrim inngår også som fast kontaktpunkt
-for Utenriksdepartementets kontrollenhet.50 I tillegg til samarbeidet med bostyrere og politidistriktene innen konkurskriminalitet deltar Økokrim med et medlem i Konkursrådet.
-Samarbeidet med kontrolletatene har over år
-utviklet seg til å gjelde på flere plan i organisasjonene. På det overordnede planet har Økokrim etablert regelmessige møter med hver av de mest
-sentrale kontrolletatene innen økonomisk kriminalitet og miljøkriminalitet. Her møtes etatenes
-50
-
-Se blant annet «Bekymringsmelding – betydelig redusert
-innsats mot konkurskriminalitet» fra Konkursrådet til Justisministeren, datert 2.juni 2016.
-
-ledere og utveksler felles utfordringer og informerer om fremtidige satsingsområder.
-Videre samarbeider Økokrim med kontrolletatene gjennom gjensidig kompetanseutveksling,
-herunder felles faglige seminarer og hospitantordninger. Gjennom dette samarbeidet mottar
-Økokrim viktig informasjon av betydning for utarbeidelsen av strategiske analyser og forebyggende virksomhet.
-Gjennom utvalgets samtaler med både Økokrim og kontrolletatene fremgår det klart at samarbeidet fungerer godt, og at etatene drar gjensidig god nytte av samarbeidet. Det er likevel rom
-for å styrke eksisterende samarbeidsplattformer.
-Tolletaten oppgir Økokrim som hovedmottager av etatens politianmeldelser, men oppgir at
-politiets generelle ressursmangel er utfordrende.
-Samtidig oppgir Tollvesenet å ha klare forventninger til utviklingen av samarbeidet med NTAES og
-mener potensialet for større tverretatlig samarbeid er stort.51 Tolletaten gir samtidig klart
-uttrykk for at Økokrim må fortsette som eget
-organ og gjerne med større ressurser. Etaten
-ønsker en samling av spisskompetanse innenfor
-økonomisk kriminalitet i Økokrim og mener
-dagens politikompetanse på Tolletatens område
-er gjennomgående god.52
-Flere kontrolletater gir uttrykk for den samme
-bekymring for felles kriminalitetsbekjempelse ved
-en omorganisering eller flytting av Økokrims ressurser. Finanstilsynet uttaler at de som utgangspunkt ikke ser store synergieffekter ved organisatoriske endringer. I likhet med øvrige kontrollorganer etterlyser de mer ressurser til effektiv
-bekjempelse av økonomisk kriminalitet samt et
-generelt kompetanseløft i politidistriktene.53
-
-9.7.3 Samarbeid på miljøområdet
-Økokrim samarbeider med en rekke kontrollorganer på miljøområdet. Følgende er tilbakemeldinger fra de mest sentrale. Fiskeridirektoratet oppgir
-at samarbeidet med Økokrim har vært fraværende noen år, men de siste årene har dette samarbeidet styrket seg. Økokrim har fungert som en
-dialogpartner i konkrete saker og deltar aktivt i
-fiskeriforvaltningens analysenettverk. Ved kontroll av sjøgående aktivitet fungerer statsadvokatembetene i Rogaland og Troms og Finnmark som
-kontaktpunkter for politi- og påtalemyndigheten.
-Direktoratet ser for seg at Økokrim kunne hatt en
-51
-52
-53
-
-Samtale med Tolldirektøren. 2.11.16.
-Ibid.
-Samtale med Finanstilsynet 7.11.2016.
-
-[Side 137]
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-tilsvarende rolle for kontroll med øvrig aktivitet i
-verdikjeden for å sikre nødvendig oppfølging av
-saker som ligger i politidistriktene. Samtidig kan
-Økokrim utgjøre en faglig ressurs både for politiet
-og kontrollmyndighetene.
-Etter Fiskeridirektoratets erfaring er miljøkriminalitet en type kriminalitet som politidistriktene
-ofte ikke finner å kunne bruke tilstrekkelig ressurser på – dels fordi arbeidsmengden er stor,
-dels fordi det krever en spesialkompetanse som
-politiet mangler. I den forbindelse spiller Økokrim
-etter direktoratets oppfatning en svært viktig
-rolle, både som støtte til lokalt politi i enkeltsaker
-ved etterforskning og iretteføring av saker for
-domstolen.
-I særlig grad mener Fiskeridirektoratet at politiet (og Økokrim) trenger spisskompetanse innenfor akvakulturvirksomhet, fordi dette er et svært
-komplisert og mangfoldig felt, og fordi akvakulturselskapene i overveiende grad har god økonomi og kunnskapsrike advokater til å føre
-sakene for seg. Av disse grunner mener også Fiskeridirektoratet det er behov for å styrke Økokrim.
-Kystverket mener det er nødvendig med en
-vesentlig styrking av miljøområdet, fordi miljøkriminalitet ofte berører ofte flere fagetaters myndighetsområder. Det er derfor behov for en arena for
-samarbeid og informasjonsutveksling mellom
-fagetatene og tilsynsmyndighetene på miljøområdet når det gjelder ulovlig virksomhet. Dette
-behovet ivaretas i dag av Økokrim gjennom blant
-annet etablerte møtefora der tilsynsetatene og
-Økokrim møtes. I tillegg arbeider Økokrim aktivt
-for å støtte og bistå etatenes arbeid med å
-bekjempe miljøkriminalitet på den enkelte etats
-ansvarsområder, noe Kystverket opplever som
-svært positivt.54
-Kystverket har løpende samarbeid med Økokrim om saker knyttet til ulovlig akutt forurensning og annen ulovlig forurensning. Etter Kystverkets syn er det svært viktig å opprettholde og
-videreutvikle et nasjonalt kompetansesenter for
-bekjempelse av miljøkriminalitet i Norge. Sakene
-er ofte teknisk komplekse og spesialiserte og krever et tett samarbeid mellom fagetaten/tilsynsetat
-og politi/påtalemyndighet. I tillegg berører
-sakene ofte flere etaters myndighetsområder slik
-at det er behov for en god oversikt over fagområdene på miljøområdet. Sakene har også ofte sammenheng med økonomisk kriminalitet.
-Etter Kystverkets syn bør Økokrim i større
-grad bli involvert på et tidlig stadium i slike større
-hendelser, og bør kunne gi føringer for etterfors-
-
-kningen, herunder sørge for at politidistriktet tar
-nødvendig kontakt med nautisk og miljøfaglig
-ekspertise i relevante fagetater, slik som Kystverket og Sjøfartsdirektoratet.
-Kystverket har ikke straffesanksjonsmidler for
-overtredelser av bestemmelser innenfor eget
-ansvarsområde når det gjelder akutt forurensning. Kystverket kan fatte vedtak om tvangsmulkt
-i henhold til forurensningsloven § 73, men
-bestemmelsen har ikke vært benyttet i praksis.
-Kystverket er likevel åpne for at det vurderes
-hvorvidt Kystverket kan tillegges myndighet til å
-utstede administrative gebyr ved overtredelser av
-bestemmelsene om akutt forurensning og vrakfjerningsplikten i forurensningsloven.
-Miljødirektoratet samarbeider med Økokrim i
-forbindelse med egne anmeldelser av straffbare
-handlinger (fag, juss, vitneførsel), ved å avgi
-uttalelser i saker som andre har anmeldt, samt
-ved noen felles aksjoner sammen med Statens
-naturoppsyn (SNO). Direktoratet og Økokrim har
-også samarbeidet om informasjon- og opplæringsarbeid rettet mot politidistriktene, deltatt på hverandres faglige samlinger og hatt felles utspill i
-media.
-Miljødirektoratet mener det er et behov for et
-nasjonalt særorgan i tillegg til egne øko-/miljøenheter i politidistriktene. Dette er etter deres
-mening nødvendig både for å sikre at politiet til
-enhver tid har tilstrekkelig kompetanse til å håndtere alvorlig miljøkriminalitet, og for å sikre et
-godt samarbeid mellom miljømyndighetene.
-Direktoratet ser at flere anmeldelser på fagområdet krever ressurser og kompetanse både til etterforskning og påtale som politidistriktene mangler.55
-I 2015 startet politiet og Mattilsynet et samarbeid for å bekjempe dyrevelferdskriminalitet.
-Målet er et fast samarbeid både lokalt og nasjonalt. Det skal etableres faste rutiner hos både politiet og Mattilsynet for å sikre godt samarbeid i
-enkeltsaker, for eksempel når Mattilsynet anmelder dyremishandling.
-Trøndelag og Rogaland politidistrikter har
-vært gjenstand for en prøveordning med øremerkede midler til dyrepoliti siden 2015 og 2016.56 På
-revidert nasjonalbudsjett (RNB) for 2017, blir det
-bevilget midler til dyrepoliti også i Øst politidistrikt.57
-
-55
-56
-57
-
-54
-
-Brev fra Kystverket, datert 7. mars 2017.
-
-137
-
-Kapittel 9
-
-E-post til fra Miljødirektoratet 15. januar 2017.
-Regjeringen.no, 28. april 2015.
-Dagbladet 8. mai 2017: http://www.dagbladet.no/nyheter/
-justisministeren-lover-mer-dyrepoliti/67550906
+*Vegvesenet* mener UP er viktig som kontinuerlig pålitelig og faglig ressurs på trafikksikkerhetsområdet. Vegvesenet opplever videre at trafikkområdet er mindre prioritert i politidistriktene og frykter nedprioritering ved eventuell overflytting av ansvar fra UP. Etter Vegvesenets oppfatning er det nødvendig med en nasjonal enhet med spisskompetanse på trafikksikkerhet, og det blir vanskelig for politiet å nå nasjonale mål for trafikksikkerhet dersom ansvaret blir desentralisert.[^303]

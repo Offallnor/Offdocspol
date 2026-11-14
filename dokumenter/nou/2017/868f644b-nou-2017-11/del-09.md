@@ -1,1028 +1,349 @@
-# NOU 2017: 11, del 9 av 26 (side 102–113)
+# NOU 2017: 11, del 9 av 25
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2017/868f644b-nou-2017-11.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2017-11/id2553617/
 - Original-PDF: https://www.regjeringen.no/contentassets/8e638734347b4e93ab97f597a8ac0bc8/no/pdfs/nou201720170011000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 32 tabeller, 55 figurer, 209 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 102]
-
-102
+- <u>En del saker, ikke minst fra kontrollorganer og store foretak som har gransket interne misligheter, kommer til Økokrim uten at dette er offentlig kjent. Dersom Økokrim ikke tar saken inn, men vurderer at den fortjener etterforskning, blir anmelder oppfordret til å ta kontakt med rette politidistrikt og/eller informerer Økokrim vedkommende politidistrikt. Ofte blir det ikke iverksatt etterforskning i slike saker, enten fordi anmelder ikke ønsker å ta saken til et politidistrikt, eller fordi politidistriktet velger å ikke etterforske. Denne kategorien saker tar opp en stor andel av Økokrims ressurser (kategori 1).</u>
 
-Kapittel 8
+- <u>Andre saker blir kjent for både Økokrim og politidistriktet, for eksempel gjennom media, og det blir en dialog mellom politienhetene om hvem som tar saken (kategori 2).</u>
 
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
+- <u>Noen saker blir først kjent for politidistriktene, som så anmoder Økokrim om å overta saken, jf. påtaleinstruksen § 35-5. Slike anmodninger kommer dels før politidistriktet har iverksatt etterforskning, dels etter at en del etterforskning er utført (det er de siste femten årene ingen eksempler på at Økokrim har bedt om å overta sak fra politidistrikt, slik påtaleinstruksen § 35-5 andre ledd anviser) (kategori 3).</u>
 
-lig er det påpekt uklare skiller mellom strategiske
-og operative oppgaver.
-
-–
-–
-
-8.3.11 Forvaltningsoppgaver
-Ved siden av etterforsknings- og bistandsoppgaver på sine fagområder er Kripos gitt behandlingsansvar for politiets registre og ansvar for gjennomføring av andre pålagte forvaltningsoppgaver.
-Behandlingsansvaret innebærer at Kripos skal
-påse at behandlingen av opplysninger i registrene
-er i tråd med gjeldende regelverk. Kripos er også
-ansvarlig for selve forvaltningen av flere registre.
-Kripos er ansvarlig for 17 av politiets 19 sentrale registre (tabell 8.3). For de lokale registrene
-og øvrig informasjonsbehandling som faller utenfor de sentrale registrene, har politimesteren i det
-enkelte politidistrikt registeransvar. Kripos har i
-tillegg ansvaret for SIS (Schengen Informasjonssystem – norsk del), men her er behandlingsansvaret
-hjemlet i SIS-loven (og ikke politiregisterloven).
-Behandlingsansvarlig skal påse at behandlingen av opplysninger i registeret er i tråd med gjeldende regelverk. Instruksjonsmyndighet tilligger
-behandlingsansvaret. Ansvaret består hovedsakelig av følgende oppgaver:
-– å utarbeide og vedlikeholde instruks for det
-enkelte register
-– å utarbeide og vedlikeholde internkontrollsystem for registeret
-– å utarbeide informasjons- og opplæringsmateriell for det enkelte register samt gi opplæring
-– å sikre tilfredsstillende informasjonssikkerhet
-i registeret
-– å utarbeide nødvendige avtaler med eksterne
-samarbeidsorganer og databehandlere
-– å kvalitetskontrollere og følge opp bruk av
-registeret
-
-Politidirektoratet har utarbeidet en forvaltningsmodell som skal bidra til å sikre god kvalitet i
-registrene. I denne modellen skal prosessforvalter for de ulike registrene etableres. POD er i ferd
-med å definere de ulike rollene og har allerede
-pekt på Kripos for noen av registrene. Det forventes at Kripos blir tildelt forvalterrollen for flere
-områder, noe som vil kreve ytterligere ressursbruk.
-Flere politiledere stiller spørsmål ved om dette
-er en oppgave som bør ligge til Kripos. Særlig blir
-det vurdert som uhensiktsmessig at eventuelle
-pålegg om endringer, eksempelvis etter tilsyn fra
-Datatilsynet, likevel må følges opp gjennom tiltak
-besluttet av Politidirektoratet. Dette mener flere
-er lite effektivt. Datatilsynet mener også denne
-løsningen fremstår som lite hensiktsmessig.49
-I utvalgets spørreundersøkelse ble det videre
-stilt spørsmål om hvorvidt behandleransvaret for
-politiets dataregistre helt eller delvis burde overtas av andre aktører, men det ble ikke spesifisert
-hvilke aktører. Av 1857 respondenter var 48,2 prosent «uenig» eller «helt uenig» i at behandleransvaret burde overtas av andre virksomheter, mens
-15,3 prosent var «enig» eller «helt enig», og 18,1
-prosent svarte «vet ikke». Her fremgikk det likevel av kommentarfeltene at flere var usikre på
-hvilke aktører som kunne være aktuelle mens
-andre pekte på POD som naturlig forankring.
-Mange ga også uttrykk for at de visste for lite om
-problemstillingen. Det er derfor ut fra dette van49
-
-å behandle begjæringer fra den registrerte
-å håndtere eksternt tilsyn fra tilsynsmyndigheter
-
-Samtale med Datatilsynet 21. november 2016.
-
-Tabell 8.3 Kripos’ behandlingsansvar sentrale registre
-Reaksjonsregisteret (SSP)
-
-Etterlysningsregisteret (ELYS II)
-
-Personidentitet- og politiopplysningsregisteret (SSP)
-
-Straffesaksregisteret (STRASAK)
-
-Politioperativt register (PO)
-
-Kriminaletterretningsregisteret (Indicia)
-
-Lydlogg
-
-Bekymringssamtaler
-
-Arrestjournal
-
-Informantregisteret
-
-Opptak av lyd og bilde i arrest
-
-Saknetregisteret
-
-Foto- og fingeravtrykks-registeret (POF, AFIS)
-
-DNA-registeret
-
-Grensekontrollregisteret
-Kilde: Kripos
-
-[Side 103]
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-skelig å konkludere hvor i politiet respondentene
-ønsker at registeransvaret skal ligge.
-Utover dette blir Kripos’ særlige kompetanse i
-stor grad benyttet i andre forvaltningssaker,
-eksempelvis
-– våpentekniske undersøkelser i forbindelse
-med spørsmål om typegodkjenning av halvautomatiske skytevåpen og til bruk for saksforberedelsen i våpensaker for øvrig
-– ivareta oppgaver knyttet til sikkerheten i pass
-og ID-dokumenter og vurdere ekthet av dokumenter fremlagt i forvaltningssaker
-– adressesperre
-– akkreditere personell ved lufthavner med tilgang til sikkerhetsbegrensede områder
-
-8.3.12 Kompetanse-, fag- og metodeutvikling
-Som flere politimestre og ledere i kontrolletatene
-bemerker, vil begrenset sakstilfang og kompetanse på flere kriminalitetsområder i politidistriktene, gjøre det nødvendig med et eget miljø for
-nasjonal spisskompetanse. Dette vil bidra til nødvendig fag- og metodeutvikling og innovasjon.
-Samtidig gir utvalgets kartlegging et tydelig bilde
-av at Kripos driver god utvikling og overføring av
-kompetanse til distriktene, både gjennom bistand
-og andre tiltak.
-Manglende ressurseffektivitet viser seg på
-flere områder i politiets oppgaveløsning og kompetansebygging. Et viktig område her er identitetsarbeid og flere uklare avgrensninger mellom
-Nasjonalt ID-senter (NID), Kripos og andre IDmiljø i politietaten.
-Kripos har på flere områder50 et nasjonalt
-ansvar for fag- og metodeutvikling, med til dels
-svært spisset kompetanse, blant annen kriminalteknikk, avhørsteknikk og biometri. Innenfor
-enkeltområder er Kripos langt fremme internasjonalt, og på såkalt digital forensics på mobiltelefonhardware er Kripos av flere oppfattet som å være i
-verdenstoppen. Selv om dette er et smalt felt,
-åpner det likevel dører internasjonalt og gir ringvirkninger på beslektede områder. Denne metodeutviklingen fordrer imidlertid satsing på kompetanseutvikling og innovasjon samt rekruttering.51
-I utvalgets spørreundersøkelse rettet mot
-ansatte i politietaten ble respondentene spurt om
-hvorvidt Kripos oppfattes som en viktig pådriver
-og premissgiver for politidistriktenes fag- og
-50
-
-E-post fra Kripos 5. april 2017 – oversikt over antatt fag- og
-metodeansvar.
-51
-Utvalgets samtaler med Kripos 28.september 2016 og NSM
-8.november 2016.
-
-103
-
-Kapittel 8
-
-metodeutvikling. Av undersøkelsens nesten 2000
-respondenter svarte nesten 57 prosent at Kripos
-bidrar positivt, mens 26 prosent svarte «vet ikke».
-At sistnevnte andel er så stor, har sammenheng
-med at flertallet i denne kategorien har lite med
-Kripos å gjøre i sitt daglige virke. I underkant av
-12 prosent mente at Kripos «i liten grad» eller
-«svært liten grad» bidro som pådriver for politidistriktenes fag- og metodeutvikling. På spørsmål om
-hvorvidt Kripos bidrar til god kompetanseoverføring til politidistriktene, var tilbakemeldingene
-noe mer positive: I overkant av 63 prosent mente
-Kripos bidrar til god kompetanseoverføring, mens
-i underkant av 12 prosent mente Kripos i liten
-eller svært liten grad bidrar positivt. Mer spesifikt
-er det en klar overvekt av respondenter som
-mener Kripos bidrar til å styrke politidistriktenes
-kompetanse på etterforskning. Hele 77 prosent
-mener Kripos bidrar i «noe grad», «stor grad»
-eller «svært stor grad».
-På spørsmål om hvorvidt Kripos utfyller sin
-rolle som nasjonalt kompetansesenter på en god
-måte, er tendensen også svært positiv. Hele 74
-prosent mente Kripos utfører dette på en god
-måte, mens 19 prosent svarte «vet ikke». Rutiner
-for kunnskapsutveksling mellom Kripos og særorgan vurderes som bra, men med forbedringspotensial, da kun 27,2 prosent oppgir å være «helt
-enig» eller «enig», mens 21 prosent oppgir at de er
-«delvis enig». Det er stor enighet om at Kripos har
-nødvendig spesialistkompetanse i henhold til sitt
-oppdrag. Nær 60 prosent er «enig» eller «helt
-enig», mens nesten 13 prosent er «delvis enig».
-Videre er nesten 56 prosent «enig» eller «helt
-enig» i at Kripos bør ha fagansvar på sine områder, mens 11 prosent er «delvis enig». Kripos vurderes til dels å ha kapasitet og ressurser til å ivareta generelle behov for kompetanseutvikling.
-Her sier i overkant av 22 prosent seg «enig» eller
-«helt enig», mens nesten 15 prosent er «delvis
-enig». På dette spørsmålet svarer imidlertid 44,5
-prosent «vet ikke», noe som i kommentarfeltene
-ble forklart med at svært mange ikke opplevde
-spørsmålet som relevant eller at de hadde tilstrekkelige forutsetninger for å svare.
-
-8.4
-
-Styringslinjer
-
-Kripos får, i likhet med de andre bistandsorganene, tildelt sin budsjettramme gjennom disponeringsskriv fra Politidirektoratet og inngår i likhet
-med den øvrige politi- og lensmannsetaten i statsbudsjettets kapittel 440. For 2016 var Kripos’ budsjettramme på rundt 520 millioner kroner.
-
-[Side 104]
-
-104
-
-NOU 2017: 11
-
-Kapittel 8
-
-Bedre bistand. Bedre beredskap
-
-Gjennom deltakelse i politidirektørens nasjonale ledergruppe (NLG), sammen med PODs
-ledergruppe, ledere for alle særorganene og politimestrene, er Kripos sentral i viktige nasjonale
-beslutningsprosesser i politi- og lensmannsetaten.
-Kripos’ store oppgavespenn synes også godt
-ivaretatt gjennom interne styringslinjer. Både
-årsrapporter og de mange tilbakemeldinger utvalget har fått, viser at Kripos leverer resultater i tråd
-med Politidirektoratets mål og nyter stor faglig
-respekt i politidistriktene. Tilbakemelding fra politimestrene er klar på at Kripos utgjør et nødvendig spesialistmiljø og yter god bistand ved behov.
-Som flere politiledere og Kripos selv har
-påpekt er det imidlertid uklare grenseflater mellom Politidirektoratet og Kripos med hensyn til
-oppgave- og ansvarsfordeling på operativt og strategisk nivå innenfor enkelte områder. Kripos’ rolle
-som internasjonalt kontaktpunkt er ett av flere
-eksempler der operative og strategiske oppgaver
-glir noe over i hverandre. Dette medfører at
-arbeidsdeling mot Politidirektoratet kan fremstå
-som ulogisk, noe som kan bidra til utydelige styringslinjer. Denne utydeligheten kommer også til
-uttrykk gjennom plassering av registeransvaret
-hos Kripos, som nevnt i pkt. 8.3.11.
-
-8.5
-
-Utvalgets vurderinger
-
-Blant politiledere og andre interessenter er det
-bred enighet om at Kripos utgjør en nødvendig
-spisskompetanse for norsk politi på mange fagområder. Dette kommer også tydelig til uttrykk i
-utvalgets spørreundersøkelse rettet mot ansatte i
-politietaten. Hele 91 prosent av respondentene
-mener Kripos bidrar positivt eller svært positivt
-for å styrke politiets innsats på sine prioriterte
-områder.
-Som resten av politiet skal Kripos også bidra i
-forebygging av og vern mot trusler mot den
-alminnelige trygghet i samfunnet. De siste årene
-har dette medført at Kripos er tilført en rekke oppgaver og ansvarsområder. Dette synes å være en
-villet politisk utvikling, der alternativet, som følge
-av manglende kapasitet og kompetanse lokalt, har
-vært å etablere nye særorganer. Hver for seg
-fremstår oppgavetilførselen til Kripos i all hovedsak som godt begrunnet, men i sum har det
-bidratt til et stort ledelsesspenn, slik at Kripos
-etter flere politilederes utsagn fremstår som et
-slags «landhandleri» for politiske prioriteringer
-over tid på en rekke kriminalitetsområder.
-Det er likevel utvalgets oppfatning at Kripos,
-tross et stort oppgavespenn, synes å løse sine opp-
-
-gaver på en god måte. I likhet med flere politiledere har utvalget inntrykk av at Kripos med relativt begrensede ressurser ofte utgjør en stor forskjell på små saksområder. I tillegg har Kripos viktig nasjonal spisskompetanse på en rekke områder og leverer nødvendig bistand ved behov. Det
-er utvalgets inntrykk at flere politidistrikt fortsatt
-vil ha stort behov for bistand fra Kripos på flere
-områder.
-Utvalget vil likevel vise til at økende robusthet
-i politidistriktene vil aktualisere en gradvis utflytting av enkelte oppgaver, i tråd med utvalgets
-grunnprinsipper om at politioppgaver som hovedregel bør legge til politidistriktene og unntak må
-begrunnes særskilt. Dette vil være en viktig motvekt til mulige styringsutfordringer og målkonflikter som følge av et bredt oppgavespenn. Det bør
-også vurderes om enkelte mer strategiske oppgaver kan være mer hensiktsmessig å plassere i
-POD. Utvalget registrerer blant annet at Kripos
-bruker mye ressurser på ulike høringer og utredninger. Utvalget har ikke forutsetninger for å vurdere Kripos’ enkeltoppgaver etter nevnte kriteriesett, men anbefaler at det blir gjort en generell
-vurdering av porteføljen med sikte på en mer
-strømlinjeformet og effektiv portefølje.
-Bistand
-Det materiale som er fremlagt, og utvalgets egne
-interessentanalyser viser tydelig at Kripos yter
-viktig bistand på flere fagområder. Oppfatningen
-av Kripos er at organet har viktig spisskompetanse og er en fleksibel og gripbar bistandsressurs for politidistriktene som bidrar til både kompetanseoverføring og raskere oppklaring av krevende saker. Kripos nyter også stor allmenn tillit
-utenfor politiet og har høy integritet – blant annet
-brukes Kripos-ansatte som sakkyndige i retten.
-Utvalget har vurdert om Kripos’ spesialtjenester bør overlates til andre private instanser, men
-har i sitt arbeid ikke registrert noe behov for det.
-Kripos har den nødvendige integritet, og det må i
-så fall foretas en grundig analyse om hva som
-eventuelt skulle være fordeler med outsourcing. I
-den forbindelse må særskilt vurderes den fare
-som vil ligge i oppsplitting av gode fagmiljø.
-Forebygging
-Utvalget observerer at Kripos har mange aktiviteter innen kriminalitetsforebygging, men er usikre
-på om det er tilstrekkelig oppmerksomhet om og
-kapasitet på alle ansvarsområder. Dette gjelder
-
-[Side 105]
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-særlig IKT-kriminalitet og internettrelaterte overgrep.
-Egen etterforskning
-Etter utvalgets oppfatning er det bred enighet om
-at et begrenset sakstilfang er nyttig for kompetanseutvikling i Kripos, og at det bidrar positivt i
-bistanden overfor politidistriktene. Enkelte politiledere mener imidlertid at det er en fare for at
-egen etterforskning kan komme i konflikt med
-evne til å yte bistand, fordi verdifull kompetanse
-og kapasitet blir bundet opp. Utvalget mener det
-er grunn til å ta en slik bekymring på alvor, men
-har ikke registrert at dette er et reelt problem,
-selv om enkelttilfeller kan ha forekommet.
-Når det gjelder Kripos’ ansvar for å etterforske
-ulike sakstyper, mener utvalget det er grunn til å
-vurdere dette med utgangspunkt i de foreslåtte
-grunnprinsippene. Utvalget har imidlertid verken
-grunnlag eller kapasitet til å vurdere hvert enkelt
-saksområde. Utvalget vil likevel bemerke at
-enkelte sakstyper, som for eksempel, krigsforbrytelser, folkemord, forbrytelser mot menneskeheten, men også IKT-kriminalitet fortsatt bør
-ligge til en nasjonal spisskompetanse. Dette har
-også Riksadvokaten tidligere fastslått.52
-Det er ikke like åpenbart at det er behov for
-etterforskning av egne saker innen Kripos’ øvrige
-saksfelt. Spesielt på området organisert kriminalitet opplever Kripos at det blir stilt spørsmål om
-arbeidsdeling med politidistriktene. Dette er mer
-aktualisert med overgangen fra 27 til tolv politidistrikter, selv med innbyrdes forskjeller mellom
-politidistriktene.
-På samme vis som få vil bestride at Kripos må
-ha et sentralt ansvar for folkemord og andre internasjonale forbrytelser, vil få bestride nødvendigheten av å ha et sentralt organ som kan håndtere
-den initiale etterforskning der en sak ennå ikke er
-plassert i et distrikt, eller det er fare for bevisforspillelse. Det er nødvendig med et sentralt nivå i
-politiet som kan inngå forpliktende samarbeid
-med andre lands politimyndigheter og foreta tidskritiske etterforskningsskritt som ofte innbefatter
-bruk av skjulte metoder.
-Både de særskilte internasjonale forbrytelser
-og straksetterforskning i svært alvorlige saker
-krever oppdatert og avansert kompetanse. Det er
-avgjørende for god oppfølging av slike saker at et
-sentralt organ kan samle og koordinere oppdatert
-kunnskap og kompetanse, og det er vurdert som
-52
-
-Riksadvokaten (2004) Etterforsking og påtale av enkelte
-internasjonale forbrytelser.
-
-105
-
-Kapittel 8
-
-verken hensiktsmessig eller ressurseffektivt å
-legge dette til politidistriktene.
-Kripos mener det er behov å etterforske
-enkelte egne saker for å opprettholde nødvendig
-kompetanse i tillegg til fag- og metodeutvikling.
-Denne kompetansen er nødvendig for å ivareta
-oppgaver i forbindelse med etterforskning og
-påtale av særskilte internasjonale forbrytelser
-samt bistand til politidistrikter og andre sentrale
-politiorgan. I tillegg er det nødvendig med et internasjonalt kontaktpunkt for politisamarbeid.
-Digitalt politiarbeid og IKT-kriminalitet
-Utvalget har registrert et økende kompetanse- og
-kapasitetsgap mellom Kripos og politidistriktene
-innenfor digitalt politiarbeid og datakriminalitet.
-Dette fremkommer blant annet i samtaler utvalget
-har gjennomført med politiledere og andre interessenter, samt gjennom spørreundersøkelser. Utvalget mener at kriminalitetsområdet ikke er tilstrekkelig håndtert av Kripos innenfor forebygging,
-etterretning, etterforskning eller beredskap. Systematisk og langsomt beredskapsarbeid for å forberede politiet på hybride kriser har ikke fått tilstrekkelig oppmerksomhet. Kapasiteten og effektiviteten til bistand av datatekniske analyser må styrkes
-for å imøtekomme politidistriktenes behov langt
-utover de mest alvorlige sakene, som grov narkotikakriminalitet, voldtekt og seksuelle overgrep,
-drapssaker og grov vold. På tvers av Kripos’ fagmiljøer er det uklart for utvalget hvordan ressursene
-og ansvaret for metodeutvikling av dataavlesning
-er ivaretatt. Utvalget mener en styrket satsing på
-kompetanse, kapasitet og infrastruktur i et nasjonalt miljø for spisskompetanse innenfor områdene
-datakriminalitet, overgrep på nett, elektroniske
-spor (inkludert IRES) og kommunikasjonskontroll
-er en viktig og nødvendig forutsetning for å løfte
-kompetansen også i politidistriktene. Utvalget har
-registrert at en økt kapasitet til å bidra i internasjonal etterforskning og forebyggende kampanjer er
-ønskelig fra Kripos’ side og blir avgjørende for kriminalitetsutviklingen på området.
-For å bekjempe grov IKT-kriminalitet og bidra
-til å håndtere alvorlige digitale angrep er det
-avgjørende at Kripos har etterretning og en god
-situasjonsforståelse. Samarbeidet med NSM,
-Etterretningstjenesten og PST i Cyberkoordineringsgruppen (CKG) vil være viktig på dette
-området, men vil kun delvis dekke politiets eget
-behov for etterretning og analyse. Utvalget slutter
-seg til anbefalingene som ble overgitt til POD på
-dette området i 2012:
-
-[Side 106]
-
-106
-
-NOU 2017: 11
-
-Kapittel 8
-
-Bedre bistand. Bedre beredskap
-
-«Som følge av store mørketall på området er
-det helt avgjørende at politiet driver etterretning for å avdekke IKT-kriminalitet. Videre må
-Kripos ha ansvar i forhold til å utarbeide strategier og trusselvurderinger, holde seg oppdatert på internasjonale trender og teknologisk
-utvikling og være i forkant i forhold til metodeutvikling.»53
-Europols EC3 har også tydeliggjort at et av de
-mest sentrale satsingsområdene er egen etterretning og analyse. Utvalget ser ikke at Kripos i dag
-har tilstrekkelig etterretning eller har evnet å
-investere i å bygge en løpende situasjonsforståelse innen det digitale rom.
-Internasjonalt samarbeid
-Utvalget har gjennom sitt arbeid sett at det er
-uklare roller i det internasjonale politisamarbeidet, både vertikalt og horisontalt. Dette er et syn
-Kripos også har forfektet i møter med utvalget. I
-det vertikale perspektivet er det særlig forholdet
-mellom POD og særorgan, i dette tilfellet Kripos,
-som oppleves krevende.
-Det synes for utvalget som om det mangler en
-fast linje for hvor ansvaret for samarbeid skal
-ligge i internasjonale spørsmål. For eksempel har
-POD ansvaret for politiets internasjonale bidrag til
-FN-operasjoner, både strategisk og operativt,
-mens Kripos har både strategisk og operativt
-ansvar for politiets Frontex-operasjoner i Middelhavet, gjennom operasjon Poseidon og Triton.
-Utvalget mener det er nødvendig med en gjennomgang av ansvarsforholdene for ansvar for politiets internasjonale oppgaver og operasjoner i den
-hensikt å plassere det strategiske og det operative
-ansvaret der det hører hjemme. I utgangspunktet
-mener utvalget det er naturlig at det strategiske
-ansvaret ligger i POD, mens det operative ansvaret ligger i underliggende enheter.
-I et vertikalt perspektiv er det nødvendig å
-avklare hva som skal behandles i hvilke spor, og i
-hvilken grad andre særorgan og politidistrikt bør
-ha ansvar for internasjonalt samarbeid. I dag har for
-eksempel hvert særorgan sitt internasjonale kontaktpunkt, eller koordineringspunkt samt kontaktpunkt innenfor hvert fagområde. I straffesaker med
-internasjonale forgreininger har politidistriktene
-internasjonal kontakt med andre lands politimyndigheter. Utvalget anbefaler også her en gjen53
-
-Politidirektoratet (2012): Politiet i det digitale samfunnet.
-En arbeidsgruppe om: Elektroniske spor, IKT-kriminalitet og
-politiarbeid på internett, s. 23.
-
-nomgang, med mål om å skape en effektiv, intuitiv
-og pragmatisk tilnærming til politiets internasjonale koordinerings- og kontaktarbeid.
-Utvalget mener det er helt avgjørende å prioritere det internasjonale samarbeidet innenfor
-Kripos’ ansvarsområder enda høyere, da kriminalitetsutviklingen er grenseoverskridende på veldig
-mange områder.
-Fagansvar
-Utvalget merker seg samtidig at det på enkelte
-fagområder eksisterer en usikkerhet om plassering av nasjonalt fagansvar. Dette er en observasjon som gjelder flere andre fagområder i politietaten og vil bli omtalt nærmere i kapittel 16. For
-Kripos bidrar dette til uklarheter i kompetanseoverføringen til distriktene. Utvalget anbefaler derfor at Politidirektoratet utarbeider tydeligere retningslinjer og styring som kan motvirke utvikling
-av ulike lokale metoder, som bl.a. kan være til hinder for utvikling av beste praksis.
-Behandlingsansvar
-Utvalget registrerer at Kripos som behandlingsansvarlig for de fleste av politiets registre har ansvar
-for at behandling av opplysninger i registrene
-skjer i samsvar med politiregisterlovgivningen.
-Dette gjelder også bestemmelsene om informasjonssikkerhet og internkontroll. Dersom det
-gjennom tilsyn eller andre forordninger blir gitt
-pålegg om endringer, kan det oppstå styringsmessige utfordringer ved at POD juridisk sett er
-systemeier med myndighet til å bestemme nødvendige endringer. Dette skaper en styringsmessig utfordring, som etter utvalgets mening bør
-unngås. Utvalget anbefaler derfor at behandlingsansvaret blir overført til POD.
-Forvaltningsoppgaver
-Kripos er tillagt en rekke forvaltningsoppgaver,
-herunder typegodkjenning av skytevåpen, dokumentanalyse og akkreditering og sikkerhetsklarering av personell ved lufthavner. Utvalget mener
-det er grunn til å vurdere om effektiv bruk av
-begrensede politiressurser tilsier at enkelte av
-oppgavene bør vurderes overført til politidistriktene eller andre offentlige organer.
-Utvalget ser det som uhensiktsmessig og kostnadsdrivende at et spisskompetansemiljø som
-Kripos utøver forvaltningsoppgaver som verken
-er en del av politiets eller særorganets kjerneoppgaver.
-
-[Side 107]
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-Styringslinjer
-Det har fra Kripos’ side vært pekt på at grensen
-mellom POD og Kripos’ oppgaver kan være noe
-uklar. Utvalget vil bemerke at det er viktig at POD
-generelt befatter seg med strategiske spørsmål og
-
-107
-
-Kapittel 8
-
-overlater operative oppgaver til relevante og operative enheter i styringslinjen. For øvrig har ikke
-utvalget hatt muligheter for å gå nærmere inn i
-detaljene i styringen av Kripos.
-
-[Side 108]
-
-108
-
-NOU 2017: 11
-
-Kapittel 9
-
-Bedre bistand. Bedre beredskap
-
-Kapittel 9
-
-Økokrim
-9.1
-
-Generelt
-
-Økokrim er politi- og påtalemyndighetens sentrale enhet for etterforskning og påtale av økonomisk kriminalitet og miljøkriminalitet.
-Økokrim har siden oppstarten i 1989 både
-vært et sentralt politiorgan og et statsadvokatembete med nasjonal myndighet. Som sentralt politiorgan er Økokrim underlagt Politidirektoratet
-(POD), men som statsadvokatembete er Økokrim
-underlagt Riksadvokaten.
-Innen sine områder kan Økokrim både overta
-saker fra lokal påtalemyndighet og initiere etterforskning av eget tiltak. Økokrim etterforsker
-egne saker, treffer påtalevedtak og straffeforfølger saker for alle tre rettsinstanser samt driver
-finansiell etterretning. Enheten er i tillegg
-bistands- og rådgivningsorgan for de enkelte politidistriktene innenfor sine kjerneområder. Rammer og retningslinjer for Økokrims etterforskning, påtalearbeid, bistand og rådgivning til politidistriktene og andre sentrale politiorgan er nedfelt i påtaleinstruksen kapittel 35.
-Bevilgning blir gitt gjennom disponeringsskriv
-fra POD, og Økokrim inngår i statsbudsjettets
-kapittel 0440 sammen med den øvrige politi- og
-lensmannsetaten. Økokrim har i dag rundt 150
-ansatte.
-Oppgavene til Økokrim er som nevnt konkretisert i påtaleinstruksen kapittel 35. Det er her
-angitt at Økokrim skal behandle særlig alvorlige
-overtredelser av straffeloven §§ 321-326, 332-346
-og kapittel 30 og 31, skatte- og avgiftslovgivningen, valutalovgivningen, prisloven, verdipapirhandelloven, forurensningsloven, arbeidsmiljøloven
-samt andre lovovertredelser som naturlig faller
-inn under økonomisk kriminalitet og miljøkriminalitet.
-Beslutning om hvorvidt Økokrim skal åpne
-straffesak, tas av leder eller nestleder. I beslutningen blir det lagt vekt på følgende:
-– etterforskningens omfang, sakens kompleksitet og dens økonomiske størrelse
-– hvorvidt saken har forgreninger til utlandet
-
-–
-
-sakens prinsipielle karakter
-
-Økonomiske og miljømessige straffesaker av mellomstort og mindre omfang blir i hovedsak
-behandlet av økoteamene i de enkelte politidistrikt. Økokrim vil på bakgrunn av anmodning
-kunne bistå politidistriktene med oppgaveløsningen innenfor fagfeltet.
-
-9.1.1 Oppgaver og ansvar
-Som politienhet og statsadvokatembete kan Økokrim innenfor sitt område overta saker fra lokal
-påtalemyndighet og påbegynne etterforskning av
-eget tiltak. Statsadvokatene i Økokrim, herunder
-enhetens leder, har generell påtalekompetanse i
-hele landet.
-Økokrims hovedoppgaver er å forebygge og
-bekjempe økonomisk- og finansiell kriminalitet
-samt miljøkriminalitet ved å
-– avdekke, etterforske, påtale og føre egne saker
-for retten
-– bistå nasjonale og utenlandske politi- og påtalemyndigheter
-– heve politiets og påtalemyndighetens kompetanse og drive opplysningsvirksomhet
-– drive kriminaletterretning, særlig motta og
-analysere rapporter om mistenkelige transaksjoner
-– være rådgivende organ for sentrale myndigheter
-– avgi høringssuttalelser
-– delta i internasjonalt samarbeid
-Økokrim skal drive kunnskapsbasert bistands- og
-utviklingsvirksomhet rettet mot politidistriktene,
-særlig for å styrke den samlede effekt av politiinnsatsen mot økonomisk kriminalitet og miljøkriminalitet.
-Økokrims saksområde er omfattende. Økonomisk kriminalitet blir definert som profittmotiverte, lovstridige handlinger som ofte blir begått
-innenfor eller med utspring i en økonomisk virk-
-
-[Side 109]
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-Boks 9.1 Hva er økonomisk kriminalitet?
-Økonomisk kriminalitet er profittmotiverte,
-lovstridige handlinger som ofte begås innenfor eller med utspring i en økonomisk virksomhet som i seg selv er – eller gir seg ut for å
-være – lovlig.
-Denne kriminaliteten kjennetegnes ved at
-den i mindre grad retter seg mot enkeltindivider i samfunnet. I stedet rammes økonomiske
-eller ideelle samfunnsinteresser eller store
-organisasjoner som finansinstitusjoner eller
-industriselskaper. De ordinære individuelle
-motivene for å anmelde kriminalitet er ofte
-ikke til stede, noe som gjør det vanskelig å
-oppdage forbrytelsen. Sakene er som regel
-kompliserte og mangler gjerne ytre kjennetegn som klart viser at det er snakk om lovbrudd.
-Kilde: Økokrim
-
-109
-
-Kapittel 9
-
-nalitet er en belastning på miljøet som kommer på
-toppen av den belastningen som ulovlig virksomhet utgjør. Kriminaliteten bidrar til å svekke livsgrunnlaget vårt, samtidig som den kan redusere
-kontroll med fremtidig forvaltning av naturressursene.
-Det er viktig for påtalemyndigheten å være
-oppmerksom på at bagatellmessige overtredelser
-som hovedregel bør avgjøres med advarsel eller
-påtaleunnlatelse. En for stor straffeiver kan over
-tid svekke befolkningens forståelse for nødvendigheten av regelverket. Desto viktigere er det imidlertid med en konsekvent og følbar reaksjon ved
-de mer alvorlige overtredelsene.
-Alvorlig miljøkriminalitet er opplistet blant de
-sentrale og prioriterte områder for iverksetting av
-etterforskning i Riksadvokatens rundskriv og har
-vært det i mange år.
-Mange av Økokrims saker har internasjonale
-forgreininger, og dette medfører regelmessig
-behov for omfattende etterforskingsskritt også i
-
-Miljøkriminalitet rammer ofte fellesgoder mer
-enn enkeltpersoner og kan ramme lokalt, men
-samtidig med globale konsekvenser. Miljøkrimi-
-
-Boks 9.2 Hva er miljøkriminalitet?
-Miljøkriminalitet kan grovt inndeles i lovbrudd som retter seg mot det ytre miljøet (forurensnings-, natur- og kunst- og kulturminnekriminalitet), slik generalklausulen i straffeloven 2005 §§ 240 og 242 er bygget opp, og forhold som rammer det indre miljøet (arbeidsmiljø- og arbeidsmarkedskriminalitet). For
-noen år siden ble også dyrevelferdskriminalitet inkludert.
-Miljøkriminalitet er dermed et bredt kriminalitetsbegrep, fordelt over ca. 45 straffebestemmelser. I dag anmeldes det årlig ca. 4500
-brudd på miljølovgivning med strafferamme
-over tre måneder. Dette utgjør ca. 1,5 prosent
-av alle anmeldte lovbrudd, men det er grunn
-til å tro at mørketallene er store.
-Miljøkriminalitet kan være både grov og
-organisert. Den kan ramme mange mennesker og får høy score i trusselvurderinger sammenlignet med annen type kriminalitet. I tillegg er kriminaliteten ofte økonomisk motivert.
-Norge har ratifisert en rekke internasjonale avtaler og dermed forpliktet seg til å ivareta biologisk mangfold og andre kultur- og
-naturverdier på en tilstrekkelig effektiv måte.
-
-1
-
-Kilde: Økokrim og Høviskeland (2016)
-
-somhet som i seg selv er lovlig eller gir seg ut for
-å være lovlig. Området omfatter:
-– bedrageri
-– hvitvasking
-– konkurranse
-– konkurs
-– korrupsjon
-– regnskapslovbrudd
-– skatt og avgift
-– subsidier
-– verdipapirer
-Økokrim har også ansvaret for miljøkriminalitet.
-Miljø omfatter både såkalt internt miljø (blant
-annet arbeidsmiljø, kunst og kulturminner) og
-eksternt miljø (blant annet forurensning og fauna).
-Det er fire hovedtyper miljøkriminalitet:1
-– naturkriminalitet (natur-, fauna- og akvakulturkriminalitet)
-– forurensningskriminalitet
-– kunst og kulturminnekriminalitet
-– arbeidsmiljø- og arbeidsmarkedskriminalitet
-
-Se blant annet Georg Fr. Rieber-Mohn, «Miljøkriminalitet –
-med særlig vekt på straffbar forurensning», Lov og Rett
-1988, side 343.
-
-[Side 110]
-
-110
-
-Kapittel 9
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-andre land. Arbeidet stiller krav til høy kompetanse på fagområdet og godt samarbeid med utenlandske partnere.
-Økokrim påbegynner vanligvis etterforskning
-av 15–20 saker i året, både innenfor økonomisk
-kriminalitet og miljøkriminalitet, men i 2016 var
-dette tallet redusert til tolv egne saker. I tillegg
-har Økokrim en rekke løpende saker samt at
-enheten bistår politidistriktene.
-
-9.1.2 Opprettelsen av Økokrim
-Økokrim ble opprettet som selvstendig politiorgan i 1989, etter en mangeårig tilværelse som
-avdeling under Kripos. Opprinnelsen kan finnes i
-opprettelsen av en egen gruppe for økonomisk
-etterforskning i Kripos i 1977, som senere ble til
-Avdeling for økonomisk etterforskning. Avdelingen ble etablert for å utvikle spisskompetanse
-innenfor feltet forebygging og bekjempelse av økonomisk kriminalitet samt å bistå politidistriktene i
-økonomiske straffesaker av en viss størrelse og
-kompleksitet.
-Ved etableringen i 1989 ble Avdeling for økonomisk etterforskning og dens 14 ansatte utskilt
-fra Kripos og etablert som eget særorgan med
-påtalemyndighet.2 Det ble ved oppstarten tilført
-14 nye stillingshjemler, slik at Økokrim ved oppstarten hadde 28 stillingshjemler. Oppgaven i
-startfasen var å utvikle spisskompetanse innenfor
-fagfeltet, bistå politidistriktene, gi undervisning
-og drive opplysningsvirksomhet.
-Ved etableringen av Økokrim som egen enhet
-ble det også etablert et eget statsadvokatembete
-der statsadvokatene ble gjort til ledere for etterforskningen. Dette ble gjort for å sikre bedre styring og målretting av saken under etterforskningen ved at de som har ansvar for å presentere
-saken for domstolene og kjenner best hva som
-kreves, styrer saken med dette for øye fra start.
-Samtidig ble miljøsaker innlemmet i porteføljen, idet det ble ansett å være stort behov for å
-styrke kriminalitetsbekjempelsen på området. Ved
-etableringen var det mange forurensningssaker,
-og Økokrim mener etterforskning og påfølgende
-straffeforfølgning og domfellelse har styrket allmennprevensjon på området. Sammen med andre
-tiltak antas dette å ha medført reduksjon i antall
-saker de senere årene.
-2
-
-Brev fra Riksadvokaten (1987) «Effektivisering av etterforskning av økonomiske straffesaker», 1028/87 RM/SA.
-
-En annen fordel med en sentralisering av oppgaveutførelsen innenfor miljøkriminalitet er at det
-innen miljøområdet kan være store spenninger
-mellom lokalsamfunnene og storsamfunnet. Det
-ble derfor vurdert slik at en sentral enhet som
-Økokrim dermed kunne bidra til å skape tilstrekkelig distanse.
-
-Boks 9.3 Noen sentrale utviklingstrekk
-i Økokrims historie:
-1977 En gruppe for økonomisk etterforskning
-blir opprettet i Kripos, som senere blir til
-Avdeling for økonomisk etterforskning.
-1989 Økokrim blir etablert. Avdeling for økonomisk etterforskning og dens 14
-ansatte blir utskilt fra Kripos og etablert
-som eget særorgan med påtalemyndighet.
-1993 Økokrim får nasjonalt ansvar for å motta
-og behandle rapporter om mistenkelige
-transaksjoner og har siden vært en sentral aktør i antihvitvaskingsarbeidet.
-Senere blir også korrupsjon og datakriminalitet definert som ansvarsområder
-for enheten.
-1999 Ved nedleggelse av landsdelspolitikamrene i 1999 ble miljøkoordineringsoppgavene overført til Økokrim sammen
-med to øremerkede stillinger.
-For å styrke bekjempelsen av miljøkriminalitet ble det innført en ordning
-med miljøkoordinatorer i samtlige politidistrikt, koordinert sentralt fra Økokrim.
-Typiske saksområder var forurensning
-fra bedrifter, ulovlig rovdyrjakt og kulturminneødeleggelser. Senere ble saksområder som helseskadelige matvarer og leketøy samt strålevern viet oppmerksomhet.
-2002 Etter politireformen blir det etablert
-egne tverrfaglige økoteam i alle politidistrikt. Hensikten er at politidistriktene
-skal etterforske de fleste små og mellomstore økonomisaker selv, mens Økokrim er ansvarlig for de store og alvorlige sakene.
-2015 Etter nærpolitireformen er det foreslått å
-opprette egne miljøteam som legges til
-økoteamet i det enkelte politidistrikt.
-
-[Side 111]
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-9.2
-
-Politiets og påtalemyndighetens
-arbeid mot alvorlig økonomisk
-kriminalitet og miljøkriminalitet
-
-Økonomisk kriminalitet er et samlebegrep for en
-rekke lovbrudd i tilknytning til næringslivet og
-annen organisert virksomhet i privat og offentlig
-sektor. Økonomisk kriminalitet er derfor ikke
-naturlig avgrenset, men spenner fra virksomhet
-som i sin helhet er ulovlig, til virksomhet som i sin
-form er lovlig, men som omfatter ulik grad av profittmotiverte ulovligheter.
-Et viktig kjennetegn for mye av den mest
-alvorlige økonomiske kriminaliteten er at det sjelden er et konkret «offer» eller en personlig fornærmet i saken og i mindre grad et «åsted». En
-viktig del av den innledende etterforskningen
-handler derfor om å fastslå om det har skjedd en
-lovovertredelse eller om det bare har skjedd noe
-uetisk, og hvem som eventuelt er rammet.
-Et annet viktig kjennetegn ved alvorlig økonomisk kriminalitet er at aktørene ofte handler på
-bakgrunn av kalkulert risiko, der mulighet for
-profitt blir avveid mot risikoen for avdekking og
-sannsynlig reaksjon. Dette gjelder både for profesjonelle kriminelle aktører som utfører organisert
-økonomisk kriminalitet, og andre aktører som
-misbruker tilfeldige muligheter til å berike seg
-selv.
-Eksempler på alvorlig økonomisk kriminalitet
-er skatte- og avgiftsunndragelser, korrupsjon,
-konkurskriminalitet, brudd på konkurranselovgivningen, økonomisk utroskap, bedrageri og underslag, brudd på regnskaps- og bokføringsbestemmelser, misbruk av offentlige støtteordninger, fiskerikriminalitet, innsidehandel og markedsmanipulasjon.
-Økonomisk kriminalitet av alvorlig karakter,
-særlig den som rammer fellesskapet, er prioritert
-av Riksadvokaten og har vært det i mange år.
-Denne typen kriminalitet kan svekke effektiv styring av samfunnet og næringslivet. I tillegg strider
-kriminaliteten mot grunnleggende samfunnsverdier og bidrar til å undergrave demokratiet og velferdsstaten. Et særlig eksempel er korrupsjon og
-hvitvasking av penger, men også skatteunndragelser, bedrageri, sosial dumping og misbruk av
-offentlige støtteordninger.
-Kampen mot økonomisk kriminalitet kan ikke
-ses isolert fra bekjempelse av annen kriminalitet.
-En del av den økonomiske kriminaliteten er for
-eksempel knyttet til organisert kriminalitet, herunder arbeidslivskriminalitet, sosial dumping og
-annen bruk av ulovlig arbeidskraft i ulike deler av
-arbeidslivet.
-
-111
-
-Kapittel 9
-
-Det er vanskelig å anslå hvor stor del av den
-samlede anmeldte kriminaliteten som økonomiske forbrytelser og miljøforbrytelser utgjør.
-Ifølge Politidirektoratets STRASAK-tall utgjør økonomiske forbrytelser årlig rundt tre prosent,
-mens miljøforbrytelser utgjør rundt én prosent av
-totalt anmeldte forbrytelser. Imidlertid vil det i en
-rekke saker gjerne inngå flere straffbare forhold,
-og slik kan et sakskompleks kategoriseres på
-ulike måter. I tillegg kan gjerne de ulike kategoriene endre seg fra år til år, og det kan derfor være
-vanskelig å sammenligne over tid. Ifølge Økokrims egne beregninger utgjør økonomisk kriminalitet rundt åtte prosent av den totale anmeldte
-kriminaliteten i Norge, det vil si nær 19 000 saker
-årlig.3 De fleste av disse sakene er vurdert som
-relativt enkle.
-De samme utfordringene gjelder på miljøkriminalitetsområdet, der Økokrims beregninger
-viser nesten dobbelt så mange sakstyper som
-registrert i STRASAK. I tillegg vil antall anmeldelser ikke nødvendigvis reflektere antall lovbrudd,
-ettersom det antas å være store mørketall på
-området. Antall anmeldelser vil også variere med
-kontrollmyndighetens innsats.4
-Økonomisk kriminalitet og miljøkriminalitet
-synes derfor å være mer utbredt enn anmeldelsesstatistikken gir inntrykk av. Dette kan tyde på at
-oppdagelsesrisikoen er for liten, noe som blir forsterket av at mange saker som blir avdekket, blant
-annet av kontrollorganene, ofte blir henlagt i politidistriktene. Dette kan bidra til å forsterke en
-trend der økt upåtalt kriminalitet kan svekke
-befolkningens tillit til myndighetenes kriminalitetsbekjempelse og undergrave tilliten til retts- og
-velferdsstaten. Dette kan også være et signal om
-manglende tillit til politiets evne til å avdekke,
-etterforske, påtale og oppnå fellende dom i slike
-saker.
-Økokrim-sjefen mener at allmennprevensjon
-på dette rettsområdet er svært effektivt, fordi
-aktørene i større grad enn andre lovbrytere foretar en kalkulasjon over sannsynlighet for avdekking og reaksjon før de foretar sine handlingsvalg.
-Det er derfor viktig at Økokrim og politi- og påtalemyndigheten ellers er tilstrekkelig dimensjonert til å opprettholde en høy avdekkings- og
-reaksjonsrisiko.
-De fleste saker innen økonomisk kriminalitet
-og miljøkriminalitet blir etterforsket i politidistriktene. Gjennom tilsynsrapporter og politimestre3
-4
-
-Økokrim (2015) Trusselvurdering økonomisk kriminalitet og
-miljøkriminalitet 2015–2016, s. 13.
-Ibid, s. 14–15.
-
-[Side 112]
-
-112
-
-Kapittel 9
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-nes samtaler med utvalget kommer det klart til
-uttrykk at manglende kapasitet er en utfordring,
-og at enkelte lovbruddskategorier nærmest rutinemessig kan bli henlagt.5 I mange tilfeller vil
-også forhåndskontakt mellom kontrolletater og
-politiet føre til at mulige straffbare forhold ikke
-blir anmeldt, fordi politiets kapasitet er for lav.
-Dette svekker oppdagelsesrisikoen og er til
-bekymring for kontrolletatene, som da ofte må
-beskjære sakene og tilpasse sakene til sine hjemler for å bruke administrative sanksjoner.
-Økokrim og mørketallsundersøkelsen6 antyder at det kan være betydelige mørketall. Omfanget er uklart av flere grunner. For det første fordi
-flere kontrolletater, grunnet erfaring med manglende oppfølging, kan unnlate å anmelde straffbare forhold. For det andre kan politianmeldelser
-som omfatter flere ulike lovovertredelser, likevel
-registreres som én sak i politiets registreringssystemer (STRASAK). Dette medfører at en sak
-som kan omfatte skattesvik, bokføringsovertredelser, korrupsjon og økonomisk utroskap blir registrert som én sak, ikke fire. Typisk er at den blir
-registrert som bokføringsovertredelse, som ofte
-er lettere å bevise. Slik kan saken beskjæres og
-saksbehandles raskt, mens de alvorligere forholdene unnslipper påtale.7 Dette er en utfordring
-både for rettssikkerheten og for den allmenne
-rettsfølelsen. For det tredje gjelder det særlig for
-alvorlig økonomisk kriminalitet en tendens til at
-mange private virksomheter unnlater å anmelde
-lovbrudd. Bakgrunnen er både sviktende tillit til
-effektiv håndtering, og at en anmeldelse kan gi
-uønsket negativ publisitet, som kan påvirke
-omdømme negativt. Innenfor deler av privat
-næringsliv har det de siste årene isteden vært en
-økende tendens til å bruke private granskingsmiljøer til å håndtere slike saker. Dette er uheldig
-fordi viktige rettslige problemstillinger blir privatisert og løst i lukkede rom, og samfunnet går dermed glipp av viktig rettsutvikling.
-
-9.2.1 Trusselbildet
-Økokrim utarbeider annethvert år en egen trusselvurdering innenfor sine områder, basert på
-Økokrims, politidistriktenes, kontrollorganenes
-og andres erfaringer med økonomisk kriminalitet
-5
-6
-
-7
-
-Se også «Henlegger bedragerisak». Dagens Næringsliv.
-19. mars 2014.
-Næringslivets sikkerhetsråd (2016): Mørketallsundersøkelsen 2016 – informasjonssikkerhet, personvern og
-datakriminalitet.
-Coll (2017). Påtalemyndighetens behandling av økonomiske
-straffesaker. Vedlegg til Påtaleanalysen, NOU 2017: 5.
-
-og miljøkriminalitet. I den siste trusselvurderingen (2015) er følgende faktorer fremhevet:
-Økonomisk kriminalitet
-–
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-–
-
-Økonomisk kriminalitet er vesentlig mer
-utbredt enn anmeldelsesstatistikken gir inntrykk av.
-Trenden med økt økonomisk kriminalitet
-utført av organiserte kriminelle har kommet i
-tillegg til den mer tradisjonelle økonomiske
-kriminaliteten. De nye aktørene begår økonomisk kriminalitet fordi dette er kriminalitet
-med stort potensial for utbytte, liten oppdagelsesrisiko og relativt sett lave straffer dersom
-man blir tatt og dømt.
-Bruken av profesjonelle medhjelpere har vært
-fremhevet som en faktor som fremmer økonomisk kriminalitet. De legger til rette for at aktører uten egen kompetanse kan utføre komplisert økonomisk kriminalitet, og at organiserte
-kriminelle kan akkumulere midler de senere
-kan benytte til kriminelle handlinger.
-Områder med lite transparens tiltrekker seg
-lovbrudd og utgjør drivere for kriminalitet.
-Mye av den økonomiske kriminaliteten foregår
-ved at lovbryterne gjennomfører transaksjoner
-og tar eierskap på en ikke-transparent måte.
-Trusselen for at norske banker vil bli brukt
-både for transitt, for å tilsløre midlers opprinnelse og til å oppbevare utbytte fra utenlandske
-kriminelle har økt.
-Fortsatt stor deltakelse fra norsk næringsliv i –
-og omfattende bistand til – korrupsjonsutsatte
-land vil sannsynligvis øke trusselen for korrupsjon noe.
-Skatte- og avgiftskriminalitet er sannsynligvis
-den typen økonomisk kriminalitet som har
-størst omfang.
-Trenden med økt organisering medfører at det
-er viktig å se etter det organiserte bak enkeltsaker som hver for seg fremstår som mindre
-alvorlige.
-
-Miljøkriminalitet
-–
-–
-
-–
-
-Innenfor forurensningskriminalitet er ulovlig
-avfallshåndtering den største trusselen.
-Fysiske naturinngrep og arealendringer som
-påvirker habitat, er den største trusselen i
-norsk natur. Ulovlige inngrep og ulovlig motorferdsel i utmark blir derfor spesielt alvorlig.
-Politi- og påtalemyndighetenes svake respons
-og lav oppdagelsesrisiko bidrar til å øke trusse-
-
-[Side 113]
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-len for flere typer økonomisk kriminalitet og
-miljøkriminalitet.
-Til tross for stor vekt på bekjempelse av økonomisk kriminalitet og miljøkriminalitet forventer
-Økokrim en generell økning i antall saker på sine
-fagområder. Innenfor begge områdene fremhever
-Økokrim tre områder av norsk økonomi der trusselen anses å være svært stor: finansmarkedet,
-arbeidsmarkedet og fiskerinæringen.
-Økokrims trusselvurdering 2015 peker utover
-dette på en økende trend der mulighetsrommet
-for alvorlig økonomisk kriminalitet er utvidet som
-følge av særlig tre faktorer. Den første gjelder
-økende bruk av profesjonelle medhjelpere som
-legger til rette både for kriminelle handlinger og
-handlinger i regelverkets randsone. Den andre
-faktoren gjelder kamuflering av informasjon om
-eierskap og transaksjoner. OECD omtaler dette
-som den største utfordringen i bekjempelsen av
-alvorlig økonomisk kriminalitet.8 Avsløringen av
-de såkalte Panama Papers viste med tydelighet
-den samfunnsmessige betydningen av at slik
-informasjon blir kjent. Den tredje faktoren gjelder
-politiet og påtalemyndighetenes respons, i samvirke med kontrolletatenes virksomhet. Det er
-avgjørende med en samlet innsats som øker oppdagelsesrisikoen og styrker den allmennpreventive effekten.
-
-Hvorfor er Økokrims straffesaker så
-krevende?
-Alvorlig økonomisk kriminalitet kjennetegnes
-som nevnt av at den i mindre grad retter seg mot
-enkeltindivider i samfunnet. I stedet rammes økonomiske eller ideelle samfunnsinteresser eller
-store organisasjoner som finansinstitusjoner eller
-industriselskaper. De ordinære individuelle motivene for å anmelde kriminalitet er ofte ikke til
-stede, noe som gjør det vanskelig å oppdage forbrytelsen. Sakene er som regel kompliserte og
-mangler gjerne ytre kjennetegn som klart viser at
-det er snakk om lovbrudd. Dette gjør etterforskningen krevende.
-Gangen i en økonomisk straffesak / miljøstraffesak kan skjematisk oppsummeres som følger:
-1. Saksinntak. Selskaper, personer, konkursbo,
-departement eller kontrollorganer som for
-eksempel Finanstilsynet, Skatteetaten, Mattilsynet eller Kystdirektoratet anmelder mulige
-straffbare forhold til Økokrim. Økokrim kan
-
-2.
-
-3.
-
-4.
-
-9.2.2
-
-8
-
-OECD (2013) Illicit financial flows from developing
-countries: Measuring OECD responses.
-
-5.
-
-113
-
-Kapittel 9
-
-selv prioritere hvilke saker som skal etterforskes, og undersøker om det foreligger straffbare forhold. Ved årsskiftet 2016/2017 hadde
-Økokrim 27 sakskomplekser under etterforskning.
-Etterforskning. Økokrim kan gjennomføre
-ransaking og ta beslag, ofte i form av databaser,
-PC-er, mobiler og lignende. I tillegg blir det
-gjennomført avhør av mistenkte og vitner.
-Mange saker krever også etterforskning i
-utlandet. I denne fasen av saken vil den som
-mistenkes for å ha begått straffbare handlinger, ofte ha status som siktet.
-Påtalevedtak. Etter at etterforskningen er ferdigstilt, kan straffesaken få flere mulige utfall:
-Saken kan henlegges, eller siktede kan bli ilagt
-forelegg (tilbud om å vedta en bot) eller bli satt
-under tiltale. Økokrim tar kun ut tiltale dersom
-påtaleansvarlig er overbevist om siktedes
-straffskyld og er av den oppfatning at straffskylden kan bevises i retten. Straffesaken kan
-også avgjøres som tilståelsessak, uten tiltalebeslutning og hovedforhandlinger, gitt at vilkårene er oppfylt.9 Saksbehandlingstiden fra saksinntak til påtalevedtak var i 2016 i gjennomsnitt 313 dager.
-Rettergang. Etter at tiltale er tatt ut, blir straffesaken berammet for domstolene. En tiltalt
-kan bli funnet skyldig, delvis skyldig eller frifinnes. Straffesaken behandles først av tingretten,
-men utfallet kan ankes til lagmannsretten og
-deretter til Høyesterett. Blant de 20 sakene
-Økokrim førte for retten i 2016, var tolv ankesaker.
-Rettskraftig dom. Tiltalte kan bli endelig frifunnet eller idømmes fengselsstraff (betinget eller
-ubetinget), bot, inndragning, saksomkostninger og rettighetstap. Det er Kriminalomsorgen
-som innkaller til straffegjennomføring. Dersom visse vilkår er innfridd, kan også Gjenopptakelseskommisjonen gjenåpne en rettskraftig
-straffesak. Domfellelsesprosenten i Økokrims
-saker har i perioden 2014–2016 vært i gjennomsnitt 83 prosent.
-
-STRASAK-tall viser at det er noen tusen anmeldelser årlig for lovbrudd som defineres som økonomiske saker, hvorav et lite antall er såpass krevende at det er naturlig for Økokrim å foreta etterforskning. Slike saker er ofte svært uoversiktlige
-og ressurskrevende og kan i tillegg medføre
-utstrakt samarbeid med myndigheter i andre land.
-9
-
-Strpl. § 248.
+Økokrim vurderer at det først og fremst for sakene i kategori 2 og 3 er klart potensial for bedre effektivitet ved fordeling. Hovedutfordringen for fordeling av straffesaker mellom politidistriktene og Økokrim har over tid vært at et antall avdekkede alvorlige saker som innfrir de eksterne kriteriene for inntak ved Økokrim, av kapasitetshensyn ikke har vært tatt inn her – samtidig som politidistriktene på grunn av kapasitet, kompetanse og prioriteringer ikke har valgt å etterforske nevnte mellomsjikt.[^209] Dette sender som tidligere nevnt ut et uheldig signal; allmennprevensjonen blir svekket, og store og ressurssterke aktører slipper lettere unna. Problematikken har tidligere vært påpekt i Riksadvokatens mål- og prioriteringsrundskriv.[^210]
+
+Overgangen fra 27 til tolv politidistrikter med forutsetningsvis større og mer kompetente fagmiljøer for saker om økonomisk kriminalitet og miljøkriminalitet vil trolig gi bedre evne til å håndtere flere saker av større omfang og kompleksitet. Tilbakemeldinger både fra landets tolv politimestre og gjennom utvalgets spørreundersøkelser tyder på at omorganiseringen kan bidra til sterkere økoteam som kan ta flere og tyngre saker, men at det vil ta noe tid før fagmiljøene kan samles og vi får en god utnyttelse av mer robuste økoteam. Den nye strukturen kan gi bedre rammer for tettere løpende kommunikasjon og bedre avklaringer av fordeling av saker mellom politidistriktene og Økokrim. Det kan også gi bedre forutsetninger for mer rettet kompetansebistand. Tilbakemeldingen er klar på at det uansett vil være behov for et sentralt organ som kan etterforske de mest krevende og prinsipielle sakene.
+
+1.  **<u>S</u><u>æ</u><u>rlig om ulike lovbruddstyper</u>**
+
+Økokrims oppgavespenn er svært spesialisert. Saker innenfor fagområdet økonomisk kriminalitet kan være svært ulike og spenne over et vidt spekter av regelverk og rettslige problemstillinger.
+
+Følgende er en kort beskrivelse av ulike lovbruddstyper.
+
+*<u>Korrupsjon</u>*
+
+Korrupsjon er et angrep på grunnleggende verdier som velferdssamfunnet er bygget på: demokrati, menneskerettigheter og sosial rettferdighet. Typiske kjennetegn for korrupsjon er at det foregår i det skjulte og innebærer misbruk av stilling eller posisjon.
+
+Avdekking av korrupsjon er utfordrende og arbeidskrevende. Det har vært en jevn økning i antall avdekkede saker de siste årene, men det er grunn til å tro at det er store mørketall. Anti-korrupsjonsorganisasjonen *Transparency* er en viktig forebyggende aktør i dette arbeidet, og sammen med enkelte kontrolletater og Økokrim legger de ned en viktig innsats.
+
+Korrupsjon har ofte internasjonale forgreninger og er et globalt problem. Det er derfor behov for et sterkt internasjonalt samarbeid for å sikre gode standarder.
+
+Økokrim gjør en viktig innsats nasjonalt og internasjonalt både i regelverksarbeid, utvikling av standarder og samarbeid om etterretningsinformasjon. Nasjonalt er det utviklet viktige samarbeidsfora både med kontrolletater, Transparency og næringslivet.
+
+*<u>Verdipapirkriminalitet</u>*
+
+Verdipapirmarkedet er en finansieringskilde for næringslivet med formål å kanalisere tilgjengelig kapital dit den gir størst avkastning. Et velfungerende marked er bygget på tillit til at handelen foregår etter forutsigbare og internasjonalt aksepterte normer og retningslinjer og trygghet om at aktørene har lik tilgang på informasjon forut for investeringsbeslutninger.
+
+Typisk kriminalitet innenfor dette området er ulovlig innsidehandel og kursmanipulasjon. Lovovertrederne antas å være rasjonelle aktører som tar en kalkulert vurdering basert på avveining mellom mulig gevinst og oppdagelsesrisiko.
+
+Regelverket for verdipapirhandel i Norge er i stor grad basert på felleseuropeiske regler som følger av EØS-avtalen. Kriminalitetsbekjempelsen innebærer derfor tett internasjonalt samarbeid.
+
+På nasjonalt nivå har Økokrim samarbeid på enkeltsaksnivå og ledernivå med Finanstilsynet. Kontrollarbeidet innebærer blant annet innhenting og analyse av trafikkdata i saker der det er mistanke om markedsmisbruk. På dette området er Finanstilsynet gitt myndighet til å ilegge administrative gebyrer for mindre alvorlige brudd på regelverket samt offentliggjøre vedtakene på egne hjemmesider. Dette antas å ha en viktig allmennpreventiv effekt.
+
+*<u>Skatte- og avgiftskriminalitet</u>*
+
+Skatter og avgifter utgjør fundamentet for velferdsstaten, og unndragelser rammer fellesskapet og svekker grunnlaget for velferdsstaten. I tillegg medfører slike lovbrudd at lovlydige skatte- og avgiftsbetalere må dekke en større andel av fellesskapets utgifter, noe som gir useriøse aktører en urettmessig styrking av konkurranseevnen på bekostning av seriøse aktører.
+
+Skatte- og avgiftssystemet er i stor grad tillitsbasert i form av egenrapportering, og dette gir rom for misbruk. Kontrolletatenes innsats skal forebygge og avdekke skatte- og avgiftsunndragelser.
+
+Det er vanskelig å beregne omfanget av den svarte økonomien i Norge, men anslag viser at det kan dreie seg om flere titalls milliarder kroner årlig. De siste årene har det vært mange saker blant annet knyttet til bygg- og anleggsbransjen, netthandel samt renhold og bilvask. En stor andel av disse sakene blir håndtert i politidistriktene, men kontrolletater som Tollvesenet og Skatteetaten utgjør også en viktig innsats.
+
+Økokrim har i sine trusselvurderinger i flere år pekt på skattekriminalitet som den økonomiske kriminalitetsformen med størst risiko for samfunnet og borgerne. Området er preget av mange aktører, ofte i omfattende nettverk med internasjonale forgreninger og innslag av organisert kriminalitet. Det er også et område som i økende grad er teknologidrevet. Den teknologiske utviklingen har også gjort det enklere for illojale skatte- og avgiftspliktige å unndra beskatning ved å plassere midler i såkalte skatteparadiser. En effektiv kriminalitetsbekjempelse krever derfor en tverrfaglig kompetanse og bredt nasjonalt og internasjonalt samarbeid.
+
+En økende problemstilling innenfor denne type kriminalitet er bruk av rådgivere for å etablere finansielle strukturer og selskapsstrukturer som kan skjule den illegale pengestrømmen. Dette er noe Økokrim poengterte senest i årsrapporten for 2016.
+
+Økokrims innsats omfatter både egen etterforskning og bistand samt etterretningsinformasjon, herunder meldinger om mistenkelige transaksjoner.
+
+*<u>Regnskapsovertredelser</u>*
+
+Regnskap er et sentralt element i kommunikasjon av økonomisk informasjon om regnskapspliktige enkeltpersoner og virksomheter til omverdenen. Dette er en type informasjon som investorer, kreditorer og offentlige myndigheter forholder seg til, og det er avgjørende at denne informasjonen er riktig.
+
+Brudd på regnskapslovgivningen er ofte ledd i – eller forsøk på å skjule – andre typer økonomisk kriminalitet. Det er derfor ikke bare en trussel mot fellesskapets verdier, men også en trussel mot private interesser.
+
+*<u>Konkurransekriminalitet</u>*
+
+Næringslivets konkurranseevne er avhengig av økonomisk effektivitet og virksom konkurranse. Konkurransereglenes formål er her å bidra til like rammebetingelser ved at enkeltaktører ikke tildrar seg konkurransefordeler gjennom bruk av ulovlige metoder, eksempelvis prissamarbeid.
+
+Slikt ulovlig samarbeid hemmer effektiv konkurranse og er over tid prisdrivende, noe som rammer både fellesverdier og private interesser.
+
+Konkurransetilsynet har på dette området mandat til å ilegge administrativt overtredelsesgebyr for foretak.
+
+*<u>Fiskerirelatert kriminalitet</u>*
+
+Norsk fiskerinæring og bærekraftig forvaltning av levende marine ressurser har stor økonomisk, økologisk, politisk og sosial betydning. Fiskerinæringen forvalter store samfunnsverdier og er viktig for sysselsettingen. Det er anslått at fiskerirelatert kriminalitet utgjør flere milliarder kroner i årlig omsetning og antatte verdier tapt, ved siden av miljøkostnadene.[^211] Fiskerirelatert kriminalitet er dermed en trussel for både fellesskapets verdier og private interesser.
+
+Fiskerirelatert kriminalitet kan ta mange former, herunder svart omsetning, svarte landinger, feilføring av fangstdagbok, utkast og ulovlig bifangst.
+
+Ettersom norsk fiskerinæring beskatter bestander Norge forvalter sammen med andre nasjoner er internasjonalt samarbeid en viktig faktor i kriminalitetsbekjempelsen.
+
+Blant kontrolletatene har særlig Fiskeridirektoratet og Kystdirektoratet fremtredende roller. Økokrims rolle er knyttet til blant annet analyser og etterretning av ulovlig kapitalflyt. I tillegg har Økokrim flere egne etterforskningssaker samt yter bistand til politidistriktene.
+
+1.  **<u>S</u><u>æ</u><u>rlig om ulike typer milj</u><u>ø</u><u>kriminalitet</u>**
+
+Ved opprettelsen av Økokrim ble miljøkriminalitet etter en politisk prosess innlemmet som et hovedanliggende på linje med rene økonomiske straffesaker. Begrunnelsen var flerdelt. På den ene siden var det et uttrykk for behovet for å signalisere økt innsats på både økonomi- og miljøkriminalitetsfeltet. På den annen side var det også et uttrykk for nær forbindelse mellom mange økonomiske straffesaker og miljøkriminalitet. Mange miljøspørsmål, særlig forurensning, er ofte nær forbundet med næringsvirksomhet og berører således begge straffesaksområdene. Ett eksempel er Vest Tank-saken i Gulen. I tillegg kan det nevnes at enkelte miljøsaker, særlig innen faunakriminalitet, ofte kan skape store spenninger mellom småsamfunn og storsamfunn, og at Økokrim med sentral etterforskning dermed kan bidra til å skape nødvendig distanse.
+
+Miljøkriminalitet har utviklet seg til å utgjøre en mindre del av porteføljen og utgjør i dag rundt 15 prosent. Riksadvokaten, blant flere, mener allmennpreventive tiltak har bidratt til å redusere antall saker betraktelig de siste 25 årene.[^212]
+
+Miljøkrimavdelingen er tillagt et nasjonalt ansvar for oppfølging og koordinering av fagområdet natur- og miljøkriminalitet. Miljøkrimfeltet dekker omtrent 45 ulike lover/straffehjemler med tilhørende forskrifter. Dette er i dag forbrytelser hvor det i stor utstrekning er statsadvokatene som har påtalekompetanse. Miljøkriminalitet deles ofte inn i lovbrudd som retter seg mot henholdsvis det ytre eller det indre miljø. Forurensning, naturkriminalitet (herunder akvakulturkriminalitet), kunst- og kulturminnekriminalitet og dyrevelferdskriminalitet defineres inn under ytre miljø, mens forhold som retter seg mot det indre miljø, omfattes av arbeidsmiljø- og arbeidsmarkedskriminalitet. Ofte er miljøkriminalitet økonomisk motivert, og i en rekke sakskomplekser inngår både elementer av miljøkriminalitet og økonomisk kriminalitet.
+
+Miljøområdet er svært omfattende, og selv om mange av sakene både kan og bør løses lokalt, er det likevel eksempler på at selv tilsynelatende små saker bør løftes til sentral behandling. Som eksempel fremhever flere politi- og påtaleledere at enkelte faunasaker gjerne er så følelsesmessig betente lokalt at det ofte er mer hensiktsmessig å løse sakene sentralt. I tillegg kan de lokale forhold være så små at også lokalt politi må anses som inhabile.
+
+1.  **<u>Etterforskning</u>**
+
+Økokrim har siden oppstarten som nevnt hatt ansvar for både etterforskning og påtale av egne saker. Dette har vært ansett som en viktig forutsetning for å utvikle og forvalte en nasjonal spisskompetanse på området.
+
+Som hovedregel tar Økokrim de største og tyngste sakene innen økonomisk og finansiell kriminalitet. Det er likevel eksempler på motsatt problemstilling, der politidistriktene selv tar slike store og krevende saker som Økokrim burde tatt. Ett slikt eksempel er Acta-saken i Stavanger, en langvarig og ressurskrevende sak, der det gikk nesten åtte år fra pågripelsen i 2008 til endelig domfellelse i 2016. Saken omhandlet blant annet innsidehandel med metodebruk hittil ukjent for politiet. Det har siden ikke vært saker av tilsvarende omfang i regionen. I denne saken var også Finanstilsynet en viktig støtte i etterforskningen, i tillegg til at Økokrim bisto med en statsadvokat under aktoreringen. Gjennom denne saken opparbeidet Sør-Vest politidistrikt betydelig kompetanse innenfor etterforskning og påtalevurderinger for denne typen alvorlig økonomisk kriminalitet. Enkelte politiledere har likevel stilt spørsmål ved om den opparbeidede kompetansen i større grad ville kommet andre politidistrikt til nytte dersom saken ble etterforsket og iretteført av Økokrim, som også er nasjonalt kompetansesenter med ansvar for kompetansedeling til politidistriktene og for utvikling av nasjonale fagstandarder og metoder.
+
+Utvelgelse av saker skjer innenfor rammen av påtaleinstruksen § 35-4 (særlig alvorlige overtredelser som naturlig faller inn under feltet økonomisk kriminalitet og miljøkriminalitet, særlig sett hen til sakens kompleksitet og omfang, forgreninger til utlandet og prinsipiell karakter) og Riksadvokatens årlige mål- og prioriteringsrundskriv med landsdekkende prioriteringer (økonomisk kriminalitet av alvorlig karakter, særlig den som rammer fellesskapet, og alvorlig miljøkriminalitet). Følgende kriterier ligger til grunn:
+
+- <u>Etterforskningens omfang, sakens kompleksitet og økonomiske størrelse, om saken har forgreninger til utlandet, og sakens prinsipielle karakter. Videre blir det lagt vekt på om saken har bred samfunnsmessig betydning eller gjelder andre prioriterte områder, eksempelvis arbeidslivskriminalitet.</u>
+
+- <u>Saksporteføljen blir innrettet etter Økokrims strategiske analyse (trussel- og risikovurderinger), som blir utarbeidet annenhvert år. Analysen bygger på informasjon fra egen virksomhet, politidistriktene, kontrollorganer og nordiske søsterorganisasjoner.</u>
+
+- <u>Saksinntaket blir styrket ved å diversifisere saksporteføljen innen flere ulike sentrale lovbruddskategorier til enhver tid.</u>
+
+- <u>I noen grad blir saksinntaket påvirket av kapasitet og kompetanse i politidistriktet som alternativt ville etterforsket saken. I enkelte tilfeller overtar Økokrim saker som har vært etterforsket en tid av et politidistrikt. Dette skjer etter en helhetsvurdering av om politidistriktet evner å håndtere saken.</u>
+
+- <u>Innen enkelte lovbruddskategorier blir saksinntaket påvirket av behov for rettslig prinsippielle avklaringer.</u>
+
+Saksinntaket er også i noen grad hendelsesstyrt.
+
+I utvalgets spørreundersøkelse er det en tydelig forventning til at Økokrim bør ha krav til produksjon av egne saker. Nesten 68 prosent av respondentene er «enig» (17,7 prosent) eller «helt enig» (50 prosent), mens rundt 17 prosent svarte «vet ikke». Spørsmålet hadde en svarprosent på 60,3.
+
+Flere kontrolletater og andre interessenter vektlegger særlig betydningen av Økokrims spisskompetanse på etterforskningssiden, og at sakskomplekset krever skjerming av ressurser som er vanskelig å ivareta på en forsvarlig måte andre steder i politisektoren.
+
+*Statens sivilrettsforvaltning* (SRF) er særlig opptatt av at spisskompetanse innenfor bekjempelse av økonomisk kriminalitet blir styrket for å motvirke et økende antall krav om erstatning i anledning straffeforfølgning med grunnlag i komplekse økonomiske straffesaker. Dette er ofte svært omfattende og ressurskrevende saker å behandle og krever forsvarlig behandling. Etter SRFs mening er fagmiljøene utenfor Oslo stort sett for små til å inneha en slik bredt sammensatt spesialistkompetanse. SRF vil derfor advare mot en overføring av større økosaker fra Økokrim til de enkelte politidistrikt, fordi sakenes omfang og kompleksitet krever uavbrutt konsentrasjon og innsats over tid. På den annen side er sakene ofte ikke helt akutte. En risiko ved at disse sakene flyttes til de enkelte politidistriktene, er at etterforskningen kan komme i konkurranse med forbrytelser som til enhver tid krever mer umiddelbar aksjon. På denne måten kan økosakene etter SRFs mening få lang saksbehandlingstid, eller bli liggende ubehandlet i perioder, hvilket kan utgjøre brudd på EMK artikkel 6 nr. 1.[^213]
+
+1.  **<u>P</u><u>å</u><u>talemyndighet</u>**
+
+Økokrim er ikke bare et særorgan, men også et statsadvokatembete med en integrert påtalefunksjon. Påtalefunksjonen utføres imidlertid ikke av politiadvokater, men av førstestatsadvokater i eget statsadvokatembete. Dette medfører at når Økokrim-saken er ferdig etterforsket, vil den samme påtalejuristen som har vært delaktig i etterforskningen, også avgjøre tiltalespørsmålet og eventuelt aktorere saken i alle tre rettsinstanser.
+
+For de aller fleste økonomiske saker er imidlertid strafferammen begrenset, slik at alminnelige politijurister ved det enkelte politidistrikt har tilstrekkelig kompetanse til å avgjøre saken.
+
+Begrunnelsen for at statsadvokaten er del av hele løpet, er at dette bidrar til å sikre kvalitet, effektivitet og målretting av etterforskningen ut fra hva som kreves ved saksframlegg for domstolene. Dette er særlig viktig i komplekse straffesaker, der personskifte underveis er ressurskrevende og kan gi store transaksjonskostnader. Det er antatt at omfattende og komplekse straffesaker innenfor økonomisk kriminalitet krever ekstra høy påtalekompetanse, og det er vurdert som en fordel at de samme personene innenfor påtalemyndigheten kan følge saken på alle nivåene i domstolen.
+
+Våre naboland har valgt ulike løsninger. I Sverige ble Ekobrottsmyndigheten (EBM) etablert i 1998 som et selvstendig myndighetsorgan underlagt Justisdepartementet på linje med Riksåklagaren og Rikspolitichefen. EBM består av om lag 560 personer, både jurister, etterforskere og sivilt ansatte. I tillegg er det om lag 200 medarbeidere i skattebrottsenheten som arbeider med økonomisk kriminalitet i samarbeid med EMB. Fra 2013 har EBM riksdekkende geografisk ansvar og har etablert operative enheter i fem byer.[^214]
+
+Danmark har en lignende organisering som i Norge. Riksadvokaten har underlagt seg et statsadvokatembete for Særlig Økonomisk og Internasjonal Kriminalitet (SØIK). SØIK, som ble opprettet i 1973, har ansvaret for å behandle saker om alvorlig økonomisk kriminalitet og bistår i tillegg landets tolv politikretser i alvorlige økonomiske straffesaker som behandles der. SØIK har om lag 130 ansatte, både jurister, politietterforskere og sivilt ansatte.[^215]
+
+På Island er det som i de skandinaviske landene en egen myndighet med etterforsknings- og påtalemyndighet i alvorlige og økonomiske straffesaker, underlagt Ríkislögreglustjórinn (RLS).
+
+Finland er på mange måter unntaket i denne sammenhengen, der oppgavene er lagt under tilsvarende organ som Kripos, Centralkriminalpolisen (CKP), men der påtalemyndigheten er atskilt fra etterforskningsarbeidet.
+
+Flere i utvalgets interessentanalyse har reist spørsmål om hvorvidt det er nødvendig for Økokrim med eget statsadvokatembete. Som kjent er landets tolv politidistrikter organisert med integrert påtalemyndighet, hvilket betyr at politiadvokater leder etterforskningen og samarbeider med etterforskerne i politiet fra etterforskningens innledning, treffer de nødvendige påtalebeslutninger underveis og deretter treffer endelig påtalevedtak i de fleste straffesaker.
+
+Statsadvokatene er organisert i ti statsadvokatregioner og ett nasjonalt statsadvokatembete og overtar normalt ikke ansvaret for straffesakene før etter oversendelse av ferdig etterforskede straffesaker fra politiet, men har adgang til å gi føringer til politidistriktene, både fra sak til sak og generelt. Organiseringen av Økokrim, hvor statsadvokater er en integrert del av organisasjonen, skiller seg følgelig fra den øvrige organisering av politi og påtalemyndighet.
+
+Utvalget registrerer at tilsvarende modell også er valgt i land vi ofte sammenligner oss med, blant annet Danmark og Sverige. I begge disse landene er organiseringen ansett som et viktig suksesskriterium bak det store antallet domfellelser i sakene som blir etterforsket og iretteført. I Finland er politi og påtale atskilt, slik at politiet etterforsker sakene ferdig før oversendelse til påtalemyndigheten.
+
+Begrunnelsen for å beholde dagens løsning med eget statsadvokatembete er at store saker om alvorlig økonomisk kriminalitet ofte er svært juridisk kompliserte, og det er derfor behov for å styre etterforskningen for å sikre en god prosess og solide saksfremlegg i domstolene. Ofte vil sakene bli anket videre til Høyesterett, og da må uansett en statsadvokat føre saken. Det er derfor regnet som mest effektivt at en statsadvokat fører saken hele veien. Ved siden av de prinsipielle spørsmål som noen mener ordningen reiser, pekte flere på at de aller fleste saker erfaringsmessig blir rettskraftige på et tidligere stadium, og kompetanse som politiadvokat vil derfor ofte være tilstrekkelig til å iretteføre saken.
+
+En innvending som særlig er blitt aktualisert i kjølvannet av Transocean-saken, er hvorvidt det er hensiktsmessig at statsadvokaten både leder etterforskningen og deretter avgjør spørsmålet om tiltale. Flere interessenter har reist spørsmål om hvorvidt Økokrim-ordningen skaper den nødvendige avstanden mellom etterforskning og avgjørelse av tiltalespørsmålet som ellers er gjeldende for de mest alvorlige straffesakene. I tillegg stiller flere spørsmål om hvorfor denne «eksklusive» ordningen bør gjelde for økosaker, men ikke for kompliserte og omfattende saker innenfor alvorlig organisert kriminalitet. Flere politiledere fremholder at dette skaper en uheldig sammenblanding av roller og representerer et vesentlig prinsippavvik.
+
+Økokrim mener integrert påtale på statsadvokatnivå er nærmest avgjørende for god håndtering av straffesaker om alvorlig økonomisk kriminalitet. Kontinuerlig styring fra oppstart av etterforskningen og dyp kjennskap til saken fra dem som vet best hva som kreves i et saksframlegg for domstolene, er helt sentralt. I tillegg mener Økokrim det ikke minst er nødvendig med god kunnskap om komplisert selskaps-, regnskaps-, transaksjons- og markedsjuss mv. Dette er årsaken til at flere andre lands spesialiserte påtaleenheter mot alvorlig økonomisk kriminalitet (blant annet Ekobrottsmyndigheten i Sverige og SØIK i Danmark) har tilsvarende organisering.
+
+1.  **<u>Forskjellen mellom NASTs og </u><u>Ø</u><u>kokrims p</u><u>å</u><u>taleordning</u>**
+
+*Den høyere påtalemyndighet* er fellesbetegnelsen på Riksadvokatembetet, alle de ti statsadvokatregionene i Norge, Det nasjonale statsadvokatembetet for bekjempelse av organisert og annen alvorlig kriminalitet (NAST) og Økokrim. I Norge er alle statsadvokater embetsmenn som avgjør tiltalespørsmålet for alvorlige forbrytelser og opptrer som aktor i retten. Statsadvokatene er underlagt Riksadvokaten og overordnet påtalemyndighetenes tjenestemenn i politiet.
+
+De nærmere reglene for påtalemyndigheten og påtalen finnes i Straffeprosessloven kapittel 6 og 7.
+
+Økokrim er riksdekkende etterforsknings- og påtaleorgan for brudd på straffebestemmelser om økonomisk kriminalitet og miljøkriminalitet. Dette fremgår av påtaleinstruksen kapittel 35, § 35-1(1).
+
+Forskjellen på NAST og Økokrims påtaleordning er at Økokrim både har etterforsknings- og påtaledelse for sine saker, mens NAST har påtaleledelse over sakene Kripos etterforsker på statsadvokatnivå. For Økokrims del har statsadvokatene nærhet til påtalesporet som etterforskningsledere. I tillegg har de ankekompetanse og kan føre saken helt til Høyesterett. For NAST og Kripos’ del blir påtaleordningen mer todelt, der noen saker etterforskes og påtales av politijuristene i Kripos, og visse alvorlige saker etterforskes av Kripos, mens påtaleansvaret ligger til NAST.
+
+**<u>\[Boks slutt\]</u>**
+
+Riksadvokaten mener at statsadvokatledet etterforskning er å foretrekke, men legger til at det er behov for kompenserende tiltak for å motvirke svakheter ved systemet.
+
+Økokrim har de seneste årene selv iverksatt en rekke tiltak for å styrke interne kontrollmekanismer knyttet til dagens struktur, blant annet gjennom
+
+- <u>omorganisering med nytt avdelingsnivå for å sikre tettere ledelse og oppfølging av etterforskningsteamene</u>
+
+- <u>etablering av seksjon for fagstøtte og fagutvikling for å bidra til utvikling av kvalitativt gode metoder for etterforskning, påtale og aktorering av straffesakene, samt å bistå med fagstøtte og understøtte fagutvikling internt og i politidistriktene</u>
+
+- <u>etablering av egen saksbehandlingsbase som gir en detaljert beskrivelse av løsninger og rutiner for de ulike fasene i straffesaksbehandlingen basert på beste praksis</u>
+
+- <u>arbeidssiktelser og etterforskningsplaner, basert på felles mal, brukes i alle saker for å sikre målretting, styring og notoritet på oppgave- og ansvarsfordeling for teamet i saken</u>
+
+- <u>egen hovedetterforsker på alle Økokrims saker, som i tillegg til å utføre etterforskning har som oppgave å ha totaloversikt over saken med et særlig ansvar for fremdrift og kvalitetssikring</u>
+
+- <u>etablering av styringsgruppe for saken ved saksinntak, som består av avdelingsleder samt én til to medarbeidere med høy kompetanse på fagområdet</u>
+
+- <u>evaluering av saker, både etterforskning og aktorater, som integrert del i sakshåndteringen</u>
+
+Internt i Økokrim er det utbredt enighet om at tiltakene i sum har gitt en klar positiv effekt for kvalitet, målretting og framdrift i de enkelte sakene samt bedre rettssikkerhet for de impliserte parter. Blant annet har tiltakene ført til en markant bedre kvalitetssikring av påtalevedtakene ved at de systematisk blir gjenstand for kritiske blikk fra flere andre før utforming. Tiltakene har også gitt ledelsen bedre grunnlag for å drive internkontroll og løpende kvalitetsoppfølging av straffesakshåndteringen. Den eneste negative effekten som er påpekt, er den økte tidsressursen som følger av at flere medarbeidere må sette seg inn i saker mv., særlig i styringsgruppene. Dette mener Økokrim er marginalt sett i forhold til de positive effektene.
+
+Enkelte politimestre reiser spørsmål om hva Økokrim skal være – et etterforskningsorgan med utvidet påtale, eller en påtalemyndighet med utvidet etterforskningsadgang. Det blir her fremhevet at påtaleordningen på noen måter kan fremstå som uklar, eksempelvis ved at bevistema ofte er av rettslig karakter, men at Økokrim samtidig driver legalitetskontroll på miljøområdet. Flere mener derfor at ordningen med eget statsadvokatembete kan ha vært riktig i 1989, men at det ikke er gitt at dette er den beste løsningen i 2017. I utvalgets spørreundersøkelse er det imidlertid liten tvil om at dette er en nødvendig funksjon. Rundt 64 prosent er «helt enig» eller «svært enig» i at Økokrim fortsatt bør ha egen påtaleenhet, mens i overkant av 23 prosent svarte «vet ikke» og bare 6 prosent «uenig» eller «helt uenig». Spørsmålet hadde en svarprosent på 60,5.
+
+De fleste kontrollorganer samt Riksadvokaten mener også at Økokrims påtaletilnærming er nødvendig. De fremhever behovet for å gi Økokrim større slagkraft og behovet for nødvendig ressursstyrking. Selv om det kan være prinsipielle motforestillinger mot en statsadvokatledet etterforskning, er det en klar oppfatning at dette er en effektiv organisering for kompliserte saker som Økokrim håndterer.
+
+1.  **<u>Bistand</u>**
+
+Etterforskning av økonomiske og miljømessige straffesaker kan være svært ressurskrevende. Flere politimestre oppgir at politidistriktene ikke alltid har verken tilstrekkelig kapasitet eller kompetanse til å håndtere de større sakene. Det er derfor nødvendig at Økokrim kan bistå, eventuelt avlaste økoteamene i distriktene.
+
+Bistand til politidistriktene er del av Økokrims oppdrag og følger av påtaleinstruksen § 35-10 første ledd, som sier: «Enheten er bistands- og rådgivningsorgan for stedlig politi, og skal virke for å styrke kompetansen lokalt på økonomiske saker og miljøsaker.»
+
+Gjennom et eget team, bistandsteamet, yter Økokrim bistand til politidistriktene ved anmodning, men hele Økokrim er orientert mot å gi tilpasset bistand ved behov. Grovt skissert kan bistanden deles i tre kategorier:
+
+- *<u>Stedlig bistand.</u>*<u> Økokrim jobber sammen med lokalt økoteam. Bistandsoppdraget er forankret i politidistriktets ledelse. Distriktet stiller med egne ressurser.</u>
+
+- *<u>Prosjektledelse.</u>*<u> I større sakskomplekser, ofte multikriminalitet, tar Økokrim prosjektlederrolle for den økonomiske delen av sakskompleksene.</u>
+
+- *<u>Konsultativ bistand</u>*<u>. Bistand over kortere tid, ofte på spissede faglige problemstillinger. Bistanden kan foregå via telefon, e-post, videokonferanse eller møte.</u>
+
+På miljøkrimområdet er bistandsarbeidet overfor politidistriktene organisert via faste kontaktpersoner – miljøkrimkoordinatorene og miljøjuristene. *Nasjonal miljøkoordinator* hos Økokrim har systematisk kontakt med og oppfølging av det enkelte politidistrikt og stedlige kontaktpersoner. I tillegg gis det en omfattende juridisk bistand samt bistand i etterforskningen fra personer på miljøkrimavdelingen med både politifaglig, økonomi-, biologi- og kjemibakgrunn. Nasjonal koordinator deltar på årlige fylkesmiljøforum i hvert enkelt politidistrikt, der også kontroll- og tilsynsmyndigheter deltar for felles erfaringsutveksling. Fylkesmiljøforum er en viktig arena hvor kontroll-/tilsynsmyndighetene møter og drøfter problemstillinger/prioriteringer med lokalt politi. Etter hvert som ny organisering i politidistriktene kommer på plass, planlegges hyppigere møter/kontakt med fagmiljøet i hvert enkelt distrikt. Nasjonal miljøkrimkoordinator avholder årlig møte med alle miljøkrimkoordinatorene i distriktene.
+
+I tillegg bistår Økokrim politidistriktene i mange saker. Det kan for eksempel være under etterforskningen med bistand fra kjemiker eller biolog, eller ved henvendelser av juridisk karakter. Økokrim arrangerer også årlig miljøseminar for politidistriktene og andre fagseminarer, for eksempel om akvakulturkriminalitet og dyrevelferdskriminalitet.
+
+1.  **<u>Kompetanse og fagansvar</u>**
+
+I regjeringens handlingsplan mot økonomisk kriminalitet (2004)[^216] og Justisdepartementets tildelingsbrev til Politidirektoratet (POD) fra samme år[^217] blir suksessfaktorer som god kompetanse, tverrfaglighet, teamarbeid, skjerming og samlokalisering i arbeidet med økonomiske straffesaker trukket frem. De samme faktorene er trukket frem av Riksadvokaten[^218] og av POD, sist i tilknytning til nærpolitireformen.[^219] Etter Økokrims mening er disse faktorene også sentrale for å rekruttere (og beholde), utdanne (og trene) kompetente etterforskere.[^220]
+
+Siden 1989 har påtaleinstruksen fastslått at Økokrim skal være et nasjonalt kompetansesenter med hovedvekt på økonomiske straffesaker. Økokrim mener dette forutsetter et tydelig fagansvar med definerte roller og fullmakter. Økokrim har i lengre tid etterlyst et definert fagansvar der roller og fullmakter er mer samlet. Politianalysen erkjenner også behov for å klargjøre dette ansvaret i møte med stadig mer spesialiserte oppgaver. I 2014 fikk Økokrim i oppdrag å vurdere utforming av et slikt fagansvar i lys av målet om mer robuste politidistrikter, der blant annet en dugnadsløsning med distriktene blir beskrevet som en kortsiktig løsning. I utredningen ble det foreslått ulike løsninger der Økokrim overtar fagledelsen i enten alle eller enkelte deler av saker om økonomisk kriminalitet fra Riksadvokaten, for dermed å knytte seg nærmere til lokal etterforskning og bidra til bedre samordning av metodikk og rutiner.[^221] POD har per april 2017 ennå ikke konkludert på anbefalingene, og med unntak av at noe fagansvar er delegert fra Riksadvokaten, har arbeidet i liten grad resultert i vesentlige endringer.[^222]
+
+Økokrim-sjefen understreker i samtale med utvalget at det viktigste spørsmålet ikke er antall stillinger, men behovet for nødvendig kompetanse og en arbeidsdeling som utnytter begrensede ressurser på en best mulig måte. Dette kan illustreres med en kompetansepyramide der den spesialiserte kompetansen er å finne i Økokrim og den mer generelle i distriktene. Samtidig skal modellen gi rom for bistand. Her er det viktig å understreke at dagens spesialistkompetanse er morgendagens generalistkompetanse. Det er derfor viktig å satse kontinuerlig på kompetanseutvikling på feltet.
+
+Økokrims kompetanseoverføring til politidistriktene skjer på ulike måter, blant annet gjennom utlån av spesialister, hospiteringsordninger, prosjekter på tvers av politidistrikter, maler og standardiserte metoder og e-læring.
+
+Utgangspunktet for kompetanseoverføringen er å bidra til å styrke økoteamene og politidistriktenes arbeid med bekjempelse av miljøkriminalitet. Det er imidlertid ikke utarbeidet helhetlige kompetanseplaner for politidistriktene, selv om dette ble påpekt allerede i regjeringens handlingsplan mot økonomisk kriminalitet (2011).[^223]
+
+Økokrims kompetanseoverføring til politidistriktenes økoteam organiseres på ulike måter og på flere arenaer:
+
+- *<u>Bistand i enkeltsaker</u>*<u>. Dette er det viktigste elementet for kompetanseoverføring. Økonomisk kriminalitet og miljøkriminalitet som blir etterforsket lokalt, inneholder ofte elementer der det enkelte økoteam og politidistriktet ikke har tilstrekkelig kompetanse. Gjennom bistand settes politidistriktene bedre i stand til å håndtere egne saker i etterkant. Økokrims bistandsteam bidrar med kompetanseoverføring til politidistriktene gjennom råd, veiledning, konsultasjon og annen bistand i straffesaker. Bistanden er av varierende lengde og kan bestå av blant annet etterforskningsledelse, metodebistand samt deltakelse i etterforskningen og under straffeforfølgningen.</u>
+
+- *<u>Fagseminarer</u>*<u>. Økokrim avholder en rekke årlige fagseminarer for politidistriktenes økoteam (etterforskere og påtalejurister). Det samme gjelder på miljøområdet.</u>
+
+- <u>Økokrims </u>*<u>Seksjon for fagst</u><u>ø</u><u>tte og utvikling </u>*<u>har ansvar for fag- og metodeutvikling innen etterforskning og straffeforfølgning av økonomisk kriminalitet og miljøkriminalitet. Seksjonen har utviklet en egen saksbehandlingsbase som blant annet omhandler saksstyring, etterforskning og straffeforfølgning av økonomiske straffesaker. Seksjonen er tverrfaglig og gir råd og veiledning til politidistriktene, i hovedsak innenfor fag- og metodespørsmål.</u>
+
+- *<u>Enheten for finansiell etterretning </u>*<u>(EFE) ved Økokrim har over tid (2012–2015) gjennomført ulike kompetansehevingstiltak for politidistriktene.</u>
+
+- <u>Økokrim utgir også en </u>*<u>skriftserie </u>*<u>som gir veiledning i saksarbeid samt fagbladet</u>*<u> MI</u><u>L</u><u>J</u><u>Ø</u><u>KRIM</u>*<u>.</u>[^224]<u> Innen miljøkriminalitetsfeltet har Økokrim utgitt skriftserier innenfor kulturminne- og arbeidsmiljøkriminalitet.</u>
+
+- *<u>KO:DE.</u>*<u> På politiets nasjonale fagportal for formidling av politiets fag og metode, KO:DE, har Økokrim ansvar for temaene </u>*<u>ø</u><u>konomisk kriminalitet</u>*<u>,</u>*<u> finansiell etterretning</u>*<u>,</u>*<u> inndragning av utby</u><u>t</u><u>te</u>*<u>,</u>*<u> milj</u><u>ø</u><u>kriminalitet</u>*<u>,</u>*<u> naturkriminalitet</u>*<u>,</u>*<u> forurensning</u>*<u>,</u>*<u> arbeidsulykker</u>*<u>,</u>*<u> kunst- og kulturminnekrim</u><u>i</u><u>nalitet </u>*<u>og</u>*<u> dyrevelferdskriminalitet</u>*<u>.</u>
+
+- *<u>Forelesning</u>*<u>. Økokrim bidrar med forelesere i studier i økonomisk kriminalitet og miljøkriminalitet ved Politihøgskolens etter- og videreutdanningsstudier.</u>
+
+Økokrim har i tillegg ulike hospiteringsordninger. I samarbeid med Skatteetaten har Økokrim i mange år hatt en ordning der opptil to medarbeidere i Skatteetaten har hospitert i Økokrim i inntil et halvt år. I tillegg til dette har Økokrim hatt hospitanter fra Finansdepartementet, Finanstilsynet, Oslo Børs, Tolletaten, Miljødirektoratet og Fiskeridirektoratet.
+
+Økokrim har selv gode erfaringer med hospitantordningene. Økokrim får gjennom ordningen kunnskap blant annet om metoder og utfordringer i andre organisasjoner og overfører kompetanse til blant annet kontrolletatene om sine arbeidsmåter, herunder beviskrav i straffesaker. God kunnskap om politiets arbeidsmåter og utfordringer gir kontrolletatene bedre forståelse av straffesaker, herunder utarbeidelse av anmeldelser.
+
+Økokrim har tidligere hatt en hospiteringsordning rettet direkte mot politidistriktene. Denne ble avviklet for en del år tilbake. En årsak var at relativt få fikk anledning til å ta en hospiteringsperiode borte fra egen arbeidsplass. Økokrim ønsker å gjeninnføre denne ordningen og har gitt uttrykk for at de vil ta initiativ til det når de nye økoteamene i politidistriktene er etablert.[^225]
+
+I utvalgets spørreundersøkelse er det stor oppslutning om Økokrims funksjon som kompetanse- og utviklingsenhet for politietaten. Nesten 75 prosent er «enig» (17,4 prosent) eller «helt enig» (57,3 prosent) i at dette er en funksjon Økokrim bør ha. Dette blir av flere utdypet i kommentarfeltene med at mange politidistrikter opplever Økokrims nasjonale spisskompetanse som et nødvendig koordineringspunkt for en felles utvikling i politietaten.
+
+1.  **<u>Utdanning og forskning</u>**
+
+Økokrim samarbeider med Politihøgskolen på flere måter. Økokrim bistår med undervisningsressurser på økonomisk- og finansiell kriminalitet samt miljøkriminalitet. Hovedvekten av disse ressursene går til programmer på etter- og videreutdanning (EVU) der Politihøgskolen har ansvaret for videreutdanning innen økonomisk kriminalitet, mens lite er dedikert bachelorprogrammet. Økokrim-sjefen er også innvalgt i høgskolestyret som én av to representanter for politi- og lensmannsetaten.
+
+Noen politiledere peker på at en uheldig side ved ordningen har vært at mange som gjennomgår EVU-kursene raskt blir forfremmet til mer ledende stillinger, slik at ervervet kompetanse i liten grad kommer politidistriktene til gode i form av økt innsats på feltet.
+
+Økokrimledelsen gir uttrykk for at andre høyere utdanningsinstitusjoner kan involveres mer enn i dag, for eksempel i videreutdanning av politietterforskere innen økonomiske fag og miljøfag. Økokrim opplyser å ha etablert kontakt med Handelshøyskolen BI i forbindelse med utvikling av en Masterutdanning i økonomisk kriminalitet og ledelse.[^226]
+
+Økokrim etterlyser større innsats på forskningsfeltet, både innenfor økonomisk kriminalitet og miljøkriminalitet. Selv har de et begrenset samarbeid med flere juridiske miljøer ved landets universiteter, særlig Bergen og Tromsø, men skulle gjerne hatt tettere samarbeid med flere master- og doktorgradsstudenter for å bidra til å løfte feltet. Dette blir imidlertid ofte et ressursproblem. Samtidig kan det slå tilbake i neste omgang fordi manglende satsing på forskning og innovasjon samtidig begrenser rekrutteringsgrunnlaget for spesialkompetanse.
+
+1.  **<u>Nasjonalt og internasjonalt kontaktpunkt</u>**
+
+Økokrim er nasjonalt kompetansesenter innenfor økonomisk- og finansiell kriminalitet samt miljøkriminalitet. Økokrim driver blant annet en omfattende ekstern opplærings- og opplysningsvirksomhet i form av foredrag, undervisning, fagartikler, -bøker og debattinnlegg.
+
+Internasjonalt samarbeid er en viktig del av Økokrims virksomhet. Enheten for finansiell etterretning (EFE) ved Økokrim er en nasjonal enhet med ansvar for mottak av rapporter om mistenkelige transaksjoner knyttet til hvitvasking og terrorfinansiering. Informasjonen berikes, analyseres og formidles til relevante mottakere i politiet og kontrollmyndigheter.
+
+EFE har tett samarbeid med relevante særorgan (PST, Kripos og PU) og politidistriktene. I tillegg har EFE som Norges *Financial Intelligence Unit* et nært samarbeid og informasjonsutveksling med andre lands FIU-enheter gjennom Egmont-samarbeidet (*Egmont Secure* *Web* – ESW). Informasjonskanalen benyttes også av norsk politi til utveksling av etterretningsinformasjon knyttet til hvitvasking, terrorfinansiering og annen profittmotivert kriminalitet. Se forøvrig pkt. 9.7.1.
+
+EFE utfører også oppgaven som sekretariat for nasjonalt kontaktforum for hvitvasking og terrorfinansiering og dekker som ekspertorgan i slike spørsmål derfor en rekke oppgaver og forpliktelser på dette området både nasjonalt og internasjonalt.
+
+I utvalgets spørreundersøkelse er det bred oppfatning om at Økokrim bør ha funksjon som nasjonalt kontaktpunkt. Over 60 prosent av respondentene er «helt enig» (45,2 prosent) eller «enig» (15,1 prosent), mens 17,6 prosent svarte «vet ikke». I underkant av 11 prosent av respondentene er «uenig» eller «helt uenig» i at Økokrim bør ha dette ansvaret. Spørsmålet hadde en svarprosent på 60,2.
+
+1.  **<u>Ø</u><u>kokrims oppgavel</u><u>ø</u><u>sning</u>**
+
+God oppgaveløsning innebærer en effektiv og riktig bruk av politikompetanse og selve organiseringen blir dermed sekundær.
+
+1.  **<u>Resultater</u>**
+
+Politiets måloppnåelse er i hovedsak målt i saksbehandlingstid og oppklaringsprosent. I bekjempelsen av økonomisk kriminalitet og miljøkriminalitet er det ikke gitt at dette er de mest hensiktsmessige indikatorene. Særlig gjelder dette for Økokrim, der sakene typisk er svært ressurs- og tidkrevende, og mye ressurser kan gå med i etterforskningens innledende fase bare for å fastslå *om* det har skjedd en straffbar handling. Enkelte saker kan også kreve langvarig og ressurskrevende etterforskning, gjerne i flere år før det blir tatt ut tiltale, og i noen tilfeller kan det ende uten at straffesak blir innledet. Selv om alvorlig økonomisk kriminalitet og miljøkriminalitet er en nasjonalt prioritert lovbruddskategori, på linje med flere andre alvorlige lovbruddsformer,[^227] er det likevel svært vanskelig å sammenligne resultat- og måloppnåelse i økonomiske og miljømessige straffesaker med andre straffesaker.
+
+Dette illustreres i figur 9.2, som sammenligner oppklaringsprosent i Økokrim og i politiet generelt for perioden 2011–2016. I denne perioden etterforsket Økokrim i gjennomsnitt 15–17 saker årlig, mens politiet behandlet i gjennomsnitt rundt 350 000 saker innenfor alle kriminalitetstyper.
+
+**<u>\[:figur:figX-X.jpg\]</u>**
+
+1.  <u>Oppklaringsprosent. Sammenligning Økokrim og øvrig politi</u>
+
+<u>STRASAK</u>
+
+Som figur 9.2 viser, har Økokrim en vesentlig høyere oppklaringsprosent enn politiet generelt for alle typer saker som blir etterforsket. Dette er imidlertid en sammenligning med store forbehold. For det første er det en høy terskel for saksinntak hos Økokrim, der et viktig vurderingskriterium er om det er høy sannsynlighet for domfellelse. Dette er ikke en faktor som er like høyt vektet på andre kriminalitetsområder. I tillegg vil mange saker hos politiet ende med henleggelse av ulike årsaker, typisk på grunn av bevisets stilling eller av kapasitetshensyn. Dette er ikke forhold som er like dominerende hos Økokrim.
+
+Når det gjelder saksbehandlingstid, vil det dermed også være svært vanskelig å sammenligne politiets samlede saksfelt med Økokrim, som vist i figur 9.3.
+
+**<u>\[:figur:figX-X.j</u><u>pg\]</u>**
+
+1.  <u>Saksbehandlingstid (dager) Økokrim og politiet. Sammenligning 2011–2016</u>
+
+<u>STRASAK</u>
+
+Politiets saksbehandlingstid beregnes fra anmeldelsen registreres i politiets saksbehandlingssystem (kalt BL – Basisløsninger) med en samtidig registrering i det sentrale straffesaksregister (STRASAK), til det foreligger påtaleavgjørelse i saken. Saksbehandlingstiden er en indikator på tempoet i politidistriktenes straffesaksbehandling. Her tas det utgangspunkt i saksbehandlingstiden for oppklarte saker, det vil si saker som har fått en positiv påtaleavgjørelse, eller som er avgjort med en henleggelseskode som teller som oppklart.
+
+Gjennomsnittlig saksbehandlingstid i Økokrim fra saksinntak til påtalevedtak var på 313 dager i 2016. Målkravet for Økokrim er at saksbehandlingstiden ikke skal overskride 350 dager.
+
+Figur 9.3 viser dels store svingninger for Økokrims del, selv om saksantallet har vært relativt stabilt. Dette har sammenheng med flere forhold, blant annet kompleksiteten i den enkelte sak og variasjoner i antall ankesaker. Økokrims saker er komplekse og tar lenger tid å etterforske sammenlignet med politidistrikt. Videre varierer saksbehandlingstid mer enn i distriktene som følge av et færre antall saker.
+
+En måte å synliggjøre kompleksiteten i Økokrims saker på kan være å sammenstille antall rettssaker, herunder tilståelsessaker og hovedforhandling i tingretten, samt ankesaker i lagmannsrett og Høyesterett, med antall dager tilbrakt i retten for perioden 2011–2016. Denne sammenstillingen viser at selv om antall saker blir redusert i perioden (varierer mellom 20 og 41 dager), er det med unntak av 2014 et jevnt høyt antall dager Økokrim tilbringer i retten. Dette er vist i figur 9.4.
+
+**<u>\[:figur:figX-X.jpg\]</u>**
+
+1.  <u>Sammenstilling rettssaker og dager tilbragt i retten. Økokrim 2011–2016</u>
+
+<u>Økokrim/STRASAK</u>
+
+Av de 579 dagene Økokrim tilbrakte i retten i 2016, utgjorde den såkalte Lime-saken 104 dager. Antall rettsdager i Økokrim ligger markant over måltallet på 400 dager.[^228]
+
+En stor utfordring på fagområdene økonomisk kriminalitet og miljøkriminalitet er dermed å utarbeide gode målingssystemer som bedre reflekterer ressursinnsats og resultater. Dette er et pågående arbeid.
+
+I Politidirektoratets årlige disponeringsskriv for Økokrim er målet for 2016 gitt ved at enheten skal «bidra til reduksjon av den alvorlige kriminaliteten». Dette skal skje gjennom følgende tiltak:
+
+- <u>avdekking av store, kompliserte og prinsipielle saker innenfor økonomisk kriminalitet og miljøkriminalitet</u>
+
+- <u>inndragning av utbytte fra alle saker hvor dette er mulig</u>
+
+- <u>støtte og bistand knyttet til økonomisk kriminalitet og miljøkriminalitet til politidistriktene i relevante saker og ved behov, avstemt mot innsatsen i egne saker</u>
+
+Sentrale nøkkeltall for perioden 2012–2016 er gjengitt i tabell 9.2.
+
+1.  <u>Nøkkeltall Økokrim 2012–2016</u>
+
+|  |  |  |  |  |  |  |
+|----|----|----|----|----|----|----|
+|  | <u>2012</u> | <u>2013</u> | <u>2014</u> | <u>2015</u> | <u>2016</u> | <u>Enhet</u> |
+|  |  |  |  |  |  |  |
+| Sakskompleks under etterforskning | <u>15</u> | <u>21</u> | <u>25</u> | <u>27</u> | <u>27</u> | <u>Antall </u> |
+| Nye sakskompleks | <u>15</u> | <u>20</u> | <u>25</u> | <u>15</u> | <u>12</u> | <u>Antall </u> |
+| Saksbehandlingstid | <u>365</u> | <u>499</u> | <u>248</u> | <u>298</u> | <u>313</u> | <u>Dager</u> |
+| Oppklaring | <u>89</u> | <u>77</u> | <u>88</u> | <u>92</u> | <u>95</u> | <u>Prosent</u> |
+| Påtalevedtak (positive) | <u>32</u> | <u>23</u> | <u>41</u> | <u>20</u> | <u>29</u> | <u>Antall </u> |
+| Rettssaker (tingrett, lagmannsrett, HR) | <u>41</u> | <u>33</u> | <u>28</u> | <u>30</u> | <u>20</u> | <u>Antall </u> |
+| Rettskraftige avgjørelser | <u>33</u> | <u>48</u> | <u>31</u> | <u>35</u> | <u>35</u> | <u>Antall </u> |
+| Domfellelse i rettskraftige avgjørelser | <u>95</u> | <u>66</u> | <u>94</u> | <u>85</u> | <u>71</u> | <u>Prosent</u> |
+| Rettskraftige økonomiske reaksjoner | <u>29</u> | <u>120</u> | <u>1 575</u><sup><u>1</u></sup> | <u>84</u> | <u>69</u> | <u>Mill. kr.</u> |
+| Bistandssaker | <u>46</u> | <u>48</u> | <u>57</u> | <u>47</u> | <u>64</u> | <u>Antall </u> |
+| Meldinger om mistenkelige transaksjoner | <u>4 029</u> | <u>4 272</u> | <u>5 795</u> | <u>4 714</u> | <u>8 776</u> | <u>Antall</u> |
+|  |  |  |  |  |  |  |
+
+<sup><u>1</u></sup><u> Tallet inkluderer idømt erstatning etter gjenåpning og ny dom i Finance Credit-saken.</u>
+
+<u>Økokrim</u>
+
+Disse resultatene kan beskrives nærmere ved å se på variasjonen i sakstilfang. Gjennom de siste årene har det vært store forskjeller i hvilke sakskompleks som er tatt inn. Dette beror dels på prioritering, men også hvilke saker som faktisk blir avdekket. Utvikling i sakstilfang følger i figur 9.5.
+
+**<u>\[:figur:figX-X.jpg\]</u>**
+
+1.  <u>Inntak av sakskomplekser</u>
+
+<u>Økokrim</u>
+
+Økokrim opplyser at det i 2016 ble tatt inn tolv nye sakskomplekser. Det lave antallet har sammenheng med ressurssituasjonen og balansering mot antall bistandstandssaker og antall ankesaker. Inntaket av bistandssaker økte fra 47 i 2015 til 64 i 2016. Som en konsekvens av det lave saksinntaket utgjør eldre saker en forholdsvis større andel av porteføljen; ikke-påtaleavgjorte saker eldre enn ett år utgjør 63 prosent, mens måltallet er 33 prosent.[^229] Riksadvokaten og en rekke politiledere er bekymret for ressurssituasjonen ved Økokrim, særlig det lave antallet saker hvor det er åpnet etterforskning i 2016.
+
+Figur 9.5 gjenspeiler imidlertid ikke antallet saker under etterforskning i Økokrim, ettersom gjennomsnittlig saksbehandling er på nesten elleve måneder. I perioden 2011–2016 hadde Økokrim gjennomsnittlig rundt 25 saker under etterforskning ved årsskiftet. Ved årsskiftet 2016–2017 hadde Økokrim 27 saker under etterforskning. Tabell 9.3 viser antall sakskomplekser fordelt på lovbruddstyper for perioden 2011–2016.
+
+1.  <u>Økokrims inntak av sakskompekser per lovbruddskategori 2011–2016.</u><sup><u>1</u></sup>

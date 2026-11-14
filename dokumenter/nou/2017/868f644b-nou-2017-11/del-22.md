@@ -1,1009 +1,1087 @@
-# NOU 2017: 11, del 22 av 26 (side 252–263)
+# NOU 2017: 11, del 22 av 25
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2017/868f644b-nou-2017-11.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2017-11/id2553617/
 - Original-PDF: https://www.regjeringen.no/contentassets/8e638734347b4e93ab97f597a8ac0bc8/no/pdfs/nou201720170011000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 32 tabeller, 55 figurer, 209 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 252]
-
-252
-
-Kapittel 15
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-Mer helhetlig og effektiv kriminalitetsbekjempelse
-Med hensyn til mål om mer effektiv kriminalitetsbekjempelse gjennom mer effektiv samhandling
-og fagformidling vil virkningene i modell 3 forventes å sammenfalle med modell 2, med unntak av
-beredskapsområdet, som ventes å få et mindre
-tydelig uttrykk ved å være en integrert del av en
-nasjonal bistandsenhet.
-Styrke kompetanseutvikling og -deling i politietaten
-Virkningene i modell 3 forventes å sammenfalle
-med modell 2, med unntak av beredskapsområdet, som vil få mindre autonomi og gis et mindre
-tydelig uttrykk ved å være en integrert del av en
-nasjonal bistandsenhet.
-Styrke forutsetninger for bedre styring
-Virkningene i modellen sammenfaller for øvrig
-med modell 2, med unntak av de nasjonale beredskapsressursene. I modell 3 samles de nasjonale
-beredskapsressursene og etterforskningsressursene under felles ledelse. Dette stiller enheten
-overfor mange mål og krav, og kan skape vanskeligheter i prioriteringer mellom beredskap og
-etterforskning. Modell 3 vurderes derfor å øke
-lederspennet, med risiko for at bredden i oppgaveportefølje kan skape både styringsutfordringer
-og målkonflikter. Det forventes ikke ytterligere
-samhandlingsgevinster
-sammenliknet
-med
-modell 2.
-Styrke nasjonal beredskap
-I likhet med modell 2 blir de nasjonale beredskapsressursene hevet til et nasjonalt nivå, som
-reduserer risikoen for samtidighetskonflikter. I
-modell 3 samles de nasjonale beredskapsressursene og etterforskningsressursene under felles
-ledelse. Sammenliknet med modell 2 antas dette å
-føre til redusert autonomi for de nasjonale beredskapsressursene. Samtidig vil modellen styrke
-grensesnittet og helhetlig ledelse mellom dagens
-
-beredskapsfunksjoner og fremtidens behov for
-politiets beredskap i det digitale rom.
-
-15.6.2 Utvalgets samlede vurdering av
-modell 3
-Utvalget mener denne modellen, i likhet med
-modell 2, gir en intuitiv og logisk organisering av
-politiet. En samlet nasjonal bistands- og beredskapsenhet vil gi store samordningsgevinster og
-en samlet nasjonal politikraft på alle områder som
-vil være lett å styre og operasjonalisere.
-En fordel med denne modellen er at nasjonale
-beredskapsressurser og etterforskning/etterretning blir satt i sammenheng. Dette kan ivareta en
-viktig dimensjon i styrking av politiets IKT-beredskap, noe flere politiledere og interessenter har
-vektlagt overfor utvalget.
-Utvalget ser imidlertid noen utfordringer som
-må løses. En slik enhet vil få et stort oppgavespenn, og det vil være nødvendig med tydelige
-styringslinjer både innad i enheten og overfor
-Politidirektoratet. Utvalget ser at det kan være
-kulturforskjeller mellom beredskapsdelen og
-etterforskningsdelen som kan være vanskelig å
-overkomme.
-Det er videre en viss risiko for at en slik enhet
-vil utgjøre en maktkonsentrasjon som kan utfordre den tiltenkte rollen som mer rendyrket
-bistandsenhet, ved å komme i en mellomposisjon
-mellom politidistriktene og POD. Det er mulig å
-hevde at modellen vil innebære et langt skritt i retning av å etablere en norsk utgave av det amerikanske Federal Bureau of Investigation (FBI).
-Dette kan medføre en maktforskyvning i forholdet
-til politidistriktene. Det kan også tenkes at enheten blir så stor at den reelt kan utfordre PODs styringsevne.
-I tillegg mener utvalget det er en risiko at en
-slik stor enhet kan medføre at flere viktige beslutninger blir tatt i lukkede rom, og dermed unndratt
-offentlig debatt. For en viktig samfunnsinstitusjon
-som politiet er åpenhet avgjørende for å opprettholde nødvendig tillit til publikum.
-
-[Side 253]
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-253
-
-Kapittel 16
-
-Kapittel 16
-
-Andre tiltak for å sikre gode polititjenester
-16.1 Behov for mer ledelse, kompetanse
-og teknologi
-I mandatet til utvalget vektlegges at etatens kapasitet til å styre, lede og utvikle virksomheten må
-styrkes, slik at det kan utvikles gode polititjenester. Utvalget har til hensikt å foreslå hensiktsmessige strukturer for å legge til rette for dette. Imidlertid er det viktig at strukturene følges opp med
-andre tiltak, slik at bistandsorganene kan bidra til
-at politidistriktene oppnår kompetanse og robusthet i tråd med nærpolitireformens intensjoner.
-Utvalget vil derfor peke på noen andre sentrale
-faktorer enn strukturendringer, som må vektlegges i en virksomhetsutvikling. Utvalget konsentrerer seg om behovet for ledelse, kompetanseoppbygging og anvendelse av teknologi. Utvalget har
-også gjort seg noen refleksjoner om noen spesielle kulturtrekk i politiet.
-
-samme måte som man har langtidsplan for Forsvaret, transport og forskning, noe også Politianalysen pekte på.4 Utvalget er enig i at det ville være
-ønskelig. Langsiktig kompetanseoppbygging og
-tilpassing til samfunnets behov krever et langsiktig politisk perspektiv. Det vil gi langsiktige og
-derved mer stabile rammer for POD, som derved
-gis bedre mulighet til å utøve sin ledelse av politiet.
-Mangel på slike rammer innebærer at det lettere oppstår usikkerhet om eget mandat. Man kan
-få overstyring på politisk nivå og svakere virksomhetsstyring og beslutnings- og gjennomføringsevne.
-Behovet for PODs ledelse i virksomhetsutviklingen
-
-Mange utvalget har snakket med, har gitt uttrykk
-for at norsk politi trenger en langtidsplan, på
-
-Ledelsens hovedoppgaver, ved siden av å iverksette den vedtatte politikk, er å utvikle strategier,
-vedta budsjetter, implementere strategiske veivalg
-og legge til rette gode rammer for at virksomheten kan yte gode polititjenester.
-God ledelse er avgjørende for et godt politi.
-God ledelse skal tilrettelegge for god virksomhetsledelse. Det innebærer og realisering av den
-strategi som gjør at virksomheten totalt sett
-utvikler seg i tråd med samfunnets behov. God
-ledelse er også forutsetning for å videreutvikle de
-ti grunnprinsipper som norsk politi skal bygge
-på.5Videre er god ledelse en forutsetning for god
-måloppnåelse, lik og kvalitetsbasert oppgaveutførelse, planlagt og systematisk forbedring av kvalitet, innføring av nye arbeidsformer, utnytte muligheter ved digitalisering, kontroll på økonomi, og
-godt medarbeiderskap.
-PODs ledelse av særorganene synes å være
-ulikeartet for ulike organ og ikke alltid på tilstrekkelig strategisk nivå. Ulike særorgan har utviklet
-egne strategier – så vidt utvalget kjenner til, uten
-at det er koordinert eller gjort i samråd med POD,
-
-1
-
-4
-
-Korte utviklingstrekk
-22. juli-kommisjonen1, og senere også Politianalysen2, pekte på behovet for å utvikle ledelse og
-kompetanse i politiet. Dette er fulgt opp i nærpolitireformen og senere utredninger, senest i Påtaleanalysen3, fremlagt 2. mars 2017.
-Det har vært arbeidet med ledelse, forbedringstiltak og kompetanseoppbygging i hele etaten. Etterforskningsløftet er et særskilt tiltak for å
-bedre kompetansen innen etterforskning og samlet sett er det gjort mye grunnleggende og viktig
-arbeid for å følge opp de utredninger og tiltak som
-har blitt tilrådd og besluttet.
-Langsiktige strategier og god styring som bakgrunn for
-ledelse
-
-2
-3
-
-NOU 2012: 14 – Rapport fra 22. juli-kommisjonen.
-NOU 2013: 9 – Politianalysen.
-NOU 2017: 5 – Påtaleanalysen.
-
-5
-
-NOU 2013: 9 Politianalysen s. 40.
-St.meld. nr. 42 (2004–2005) Politiets rolle og oppgaver –
-kap.2.
-
-[Side 254]
-
-254
-
-Kapittel 16
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-og utvalget er ikke kjent med at POD har utviklet
-langsiktige strategier for hva man ønsker med de
-ulike særorgan.
-Utvalget er derfor enig med Politianalysen,
-som vektlegger behovet for bedre ledelse og en
-mer effektiv organisering av politietaten.
-Politianalysen pekte også på at strukturelle
-forhold har betydning for utøvelse av ledelse. Analysen mente at de daværende strukturelle forutsetningene i politiet ikke la til rette for god
-ledelse,6 og foreslo en rekke tiltak som nå er delvis gjennomført, herunder reduksjonen i antall
-politidistrikt. Videre fremholdt analysen at ulike
-kulturer i politidistrikter og særorganer gjør erfaringsutveksling og samhandling vanskelig og
-fører til fravær av enhetlig ledelse i politiet.7 Utvalget mener det fortsatt er et potensial for forbedret
-samhandling mellom enhetene.
-Utvalget konstaterer også at selv om norsk
-politi må anses som meget dyktig på operativ
-ledelse, er det grunn til å anta at man fortsatt har
-noen skritt å gå når det gjelder strategisk ledelse
-og virksomhetsstyring. POD anslår selv å ligge på
-nivå 3 av 5, der 5 er det optimale for god virksomhetsstyring.8
-Utvalget har forståelse av at økt grad av styring fra PODs side kan komme i konflikt med den
-betydelige autonomi som det enkelte politidistrikt
-har kunnet utvikle. Da vi hadde 54 politidistrikt,
-var enhetlig ledelse mer utfordrende, noe enklere
-trolig med 27 distrikt, og man har ytterligere
-bedre forutsetninger nå med tolv distrikt. Det
-betyr også at autonomien kan bli mer utfordret
-når det nå er færre distrikt enn før.
-Muligheten ligger i å organisere i en struktur
-som sammen med øvrige virksomhetsbetingelser
-gjør at medarbeiderne får mulighet til å yte sitt
-beste og i tråd med virksomhetens mål og strategier, med god styring og likevel frihet til å ta selvstendige valg i operativ tjeneste.
-Roller, myndighet og ansvar
-Uavhengig av hvilke nye strukturer som innføres,
-er det nødvendig med avklaring av roller, myndighet og ansvar for henholdsvis POD og bistandsenhetene, og også mellom POD og bistandsenhetene. Klare og entydige styringslinjer er påkrevd
-både for å kunne utøve god styring og for å kunne
-yte tjenester på en god måte.
-6
-7
-8
-
-NOU 2013: 9 Politianalysen s. 154.
-NOU 2013: 9 Politianalysen s. 155.
-Politidirektoratet 2016, presentasjon for utvalget v/Frede
-W. Hermansen 29. september 2016
-
-16.2 Kulturelle utfordringer
-Synet på ledelse
-Mandatet legger vekt på behovet for styring. Oppdragsgiver ønsker bedre styring, mer effektivitet
-og bedre kompetanse, med det formål å skaffe
-borgerne et best mulig fremtidig politi.
-I utvalgets spørreundersøkelse rettet mot politimestrene fremgår det at noen oppfatter at ledelseskompetanse har for lav prioritet i politiet og at
-lederkompetanse burde vært en høyere anerkjent
-kompetanse i etaten. Dyktige fagpersoner innen
-politiet, som ikke selv er ledere, kan ha mer negative assosiasjoner til hva ledelse innebærer.
-Politikultur(er) – én eller flere?
-Politianalysen var opptatt av kulturen og dens
-betydning, ikke minst hvordan ulike deler av politiet kan utvikle særegne kulturer. Dette kan føre
-til målkonflikter.9 Utvalget mener organisasjonsstrukturene bør fremme en felles kultur og viser i
-den forbindelse til modellforslagene i kapittel 15.
-Syn på reformen og ressurser
-Det andre utvalget har merket seg, er synet på at
-mer ressurser løser de fleste utfordringer, og at
-dette til dels er eneste mulighet for endring eller
-bedring. Politidistriktene opplever utfordringer
-med å få endene til å møtes. Også politiet, som
-øvrig del av offentlig virksomhet, må utvikle mer
-kunnskap og forståelse om hvordan man kan
-utnytte de ressurser man har, optimalt. Videre må
-forståelsen av at bruk av ny teknologi kan gi
-bedre brukertjenester, mer effektivitet og bedre
-ressursanvendelse, og også en bedre arbeidssituasjon for den enkelte medarbeider, videreutvikles.
-
-16.3 Et mer kompetent politi –
-kompetanseoverføring fra
-bistandsenhetene til
-politidistriktene
-Kvalitetsreformdelen i Nærpolitireformen tar opp
-i seg et ønske om generell kompetanseheving i
-politiet og flere prosesser er allerede i gang. Politidirektoratet har gjennom reformarbeidet lagt opp
-9
-
-Forskjellige kulturer, omfang og utfordringer mellom ulike
-politidistrikter, særorganer og enheter fører til fravær av
-enhetlig ledelse i politiet. Samtidig styres de ulike politidistriktene etter de samme målene og satsingene (s. 155).
-
-[Side 255]
-
-255
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-Kapittel 16
-
-til en kompetanseheving både innenfor både virksomhetsstyring og fagstyring. Et tiltak i denne forbindelse er som nevnt etterforskningsløftet.
-Nasjonal
-spisskompetanse
-
-Dagens særorgan bidrar til kompetanseoverføring
-Utvalget har blitt godt orientert om hvordan
-dagens særorganer aktivt driver kompetanseoverføring. Kripos overfører i betydelig grad kompetanse ved å bistå andre politienheter i enkeltsaker.
-Økokrim bistår politidistriktene også i enkeltsaker, men hensikten med Økokrim er også å føre
-egne saker. Økokrim blir av mange oppfattet som
-et særorgan som i mindre grad overfører kompetanse gjennom lokal tilstedeværelse. Økokrim
-bistår mest gjennom rådgivning og erfaringer fra
-egne saker. Politiets utlendingstjeneste mener
-selv de overfører kompetanse til politidistrikt og
-andre sentrale politiorgan, både gjennom oppgaveløsning sammen med andre enheter og gjennom rådgivning og kursing, mens Utrykningspolitiet overfører kompetanse innen trafikksikkerhetsarbeid. Det gjør Utrykningspolitiet både gjennom å støtte politidistriktene i deres trafikksikkerhetsarbeids, og kanskje mest gjennom å
-tilbakeføre innbeordret personell til politidistriktene etter endt innbeordringstid i Utrykningspolitiet.
-Kompetanseflyt i praksis – dagens spesialist blir
-morgendagens generalist?
-Mange i politiet sier at «dagens spesialist blir morgendagens generalist». Dette er utvilsomt riktig, i
-den forstand at det som er nytt og revolusjonerende i dag, kan bli allmennkunnskap i løpet av
-kort tid. Systemet må legge til rette for at den
-kompetansen spesialenhetene bygger, etter hvert
-tilfaller hele virksomheten. Virksomheten i de
-enkelte fagområder i politiet kan betraktes som en
-pyramide. Nederst i pyramiden kan tenkes alle
-ansatte i politidistrikter, som det midterste lag kan
-man tenke seg dem som arbeider med ytterligere
-spesialisering innen det enkelte politidistrikt, og
-som den smaleste og øverste del av pyramiden,
-den kompetansen som finnes og bør finnes i et
-bistandsorgan (nasjonal spisskompetanse). Disse
-spesialistene er klart færre, og de få som finnes,
-både er og bør være særs dyktige innenfor sitt
-relativt sett smale område. Dette kan illustreres
-som i figur 16.1.
-De som er på toppen av kompetansepyramiden, spesialistene i bistands- og spesialenheter,
-bør jakte på økt kunnskap og innovasjon, samtidig
-
-Spesialistkompetanse
-i politidistriktene
-
-Generalistkompetanse
-
-Figur 16.1 Kompetansepyramide
-som kompetansen flyter nedover i hele virksomheten. Dersom dette ikke skjer, forblir virksomheten kompetansemessig topptung, og politidistriktene svekkes.
-Utvalget er derfor særs opptatt av denne kompetanseflyten må fungere, og mener at det er
-avgjørende at forslag til nye strukturer ses i sammenheng med at det må utvikles systemer for systematisk kompetanseoverføring på alle nivåer.
-Utvalget er kjent med at mange i politiet
-mener politiet generelt, og Kripos spesielt, er et
-«landhandleri», et sted som skal håndtere mye
-ulikt. «Hver gang en ny oppgave skal utføres, har
-den blitt lagt til Kripos», er et utsagn utvalget har
-hørt mange ganger. Det er klart et dilemma når
-det oppstår oppgaver som er så spesielle at de
-ikke kan spres over tolv distrikter, og samtidig
-ikke egner seg til å bli plassert i ett distrikt, og
-oppgavene er såpass operative i sin natur at de
-ikke bør ligge i POD. Utvalget er ikke kjent med
-at JD/POD ved slike tildelinger av oppgaver har
-tenkt at kompetansen over tid bør tilfalle samtlige
-politidistrikt, eventuelt at ansvaret legges til ett
-eller flere spesielt dedikerte distrikt, slik man for
-eksempel har gjort med sokkelansvaret eller ordningen for «Søk etter antatt omkommet».10 Utvalget mener der er et potensial for et mer overordnet og dynamisk forhold til kompetanseutvikling
-og kompetanseoverføring, slik at like naturlig som
-at oppgaver først kommer til Kripos, er det at de
-over tid skal ut i politidistriktene.
-10
-
-Fire politidistrikt har politiansvar for kontinentalsokkelen
-på vegne av alle politidistriktene som «grenser» til sokkelen – to politidistrikt har det nasjonale administrative ansvaret for ordningen som gjelder for søk etter antatt
-omkomne.
-
-[Side 256]
-
-256
-
-Kapittel 16
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-Plikten til aktiv kompetanseoverføring til hele
-politiet bør inngå i instrukser for bistandsorganer
-og følges opp i styringsdialogen fra POD.
-
-16.4 Særlig om fagansvar
-Hvorfor ta opp spørsmålet om fagansvar?
-For at både politidistrikt og hvert bistandsorgan
-skal kunne gjøre det arbeidet som forventes, bør
-det være klarhet i hva ansvarsområdene omfatter,
-og hvordan fagansvaret skal utøves. Utvalget har
-gjennom sitt arbeid gjentatte ganger opplevd en
-uklarhet i etaten, inkludert særorganene, om hva
-fag- og metodeansvar er, hva det omfatter, hvem
-som har fagansvar for hva, og hvem som bør ha
-fagansvaret. Særorganene, inkludert Politihøgskolen, har i samtaler med utvalget tatt opp dette
-behovet for avklaring.
-Utvalget er bedt om å foreslå organisering av
-fagansvaret for å tilrettelegge for bedre styring.
-Utvalget ser spørsmål om hva som er fagansvar og
-hvem som skal ha kompetanse til å beslutte hvordan faget skal utøves og metoden utvikles som
-viktige deler av styringslinjene, og nødvendig for
-å identifisere forbedringspunkter og forslag til
-hvordan det kan bli en bedre og mer lik polititjeneste i hele landet. Uklarhet om hva fagansvar er,
-hvordan det skal forstås og avgrenses, hvem som
-har ansvar for hva, hvem som skal være ansvarlig
-for å fastsette politiets metoder på ulike områder,
-hvor grensene går, hvordan disse prosessene skal
-være, og hvem som skal ha beslutningskompetanse på de ulike nivå, skaper gnisninger og usikkerhet inn i en organisasjon og til dels lange, kostnadskrevende og kompliserte prosesser for avklaring.
-Utvalget er også kjent med at flere av de nåværende særorganene til dels har og til dels ønsker
-et videre og mer klart definert fag- og metodeansvar. Politihøgskolen ønsker også et tydelig
-ansvar her. Utvalget har derfor vurdert dette som
-del av spørsmålet om hvilke oppgaver de fremtidige bistandsorganene bør ha, samt hvordan
-grenseflatene mot andre deler av virksomheten
-bør være.
-Utvalget har gjennom arbeidet sett at fag- og
-metodeutviklingen i politiet virker fragmentert og
-lite koordinert på flere områder. Det synes som
-om mange enheter både i og utenfor dagens særorganer har nasjonale oppgaver samt en form for
-faglig metodeansvar knyttet opp mot dette. Dette
-sikrer en helhetlig tilnærming til metodeutviklingen innenfor de ulike fagområdene. Dette vil være
-
-ressursbesparende på flere områder. Først og
-fremst fordi mange av metodene er gjensidig
-avhengig av hverandre eller krever involvering og
-koordinering av ulike deler av politiet under utvikling. Da vil det være naturlig at den øverste delen
-av kompetansepyramiden får ansvaret for fagutvikling og standardisering. Dette vil føre til
-enklere prosesser med kompetanseoverføring til
-resten av politiet. I tillegg vil en slik modell gjøre
-det lettere for POD å kunne styre den faglige
-utviklingen i etaten, fordi man vil ha færre aktører
-å forholde seg til.
-
-16.4.1 Fagansvarets innhold
-Politianalysen var innom både fagansvarets innhold og særorganenes rolle og mente at det ville
-være «naturlig å tillegge særorganene et nasjonalt
-fagansvar knyttet til egne fagområder. Dette vil
-normalt kunne innebære ansvar for å definere
-nasjonale standarder og prosedyrer, tilrettelegge
-og gjennomføre kompetanseutvikling og sikre
-kunnskapsutvikling og generell utvikling av fagområdet(ene)».11
-Kripos bekrefter at det ikke finnes noen helhetlig definisjon av fag- og metodeansvaret.12
-Kripos sendte i 2012 en henvendelse til POD om
-dette, som ikke er besvart innen april 2017. Kripos
-har beskrevet hva et slikt fagansvar bør innebære,
-og at det bør inneholde følgende hovedpunkter:
-– totaloversikt over fagområdets spesialområder/-disipliner – på lokalt og sentralt plan
-– ansvar for validering, sertifisering og dokumentasjon av metoder – nasjonale standarder
-– ansvar for kontinuerlig utvikling og oppdatering av metoder – beste praksis
-– ansvar for kompetanseoverføring
-Økokrim har også savnet en klargjøring av hva
-deres fagansvar er. Siden 1989 har påtaleinstruksen fastslått at Økokrim skal være et nasjonalt kompetansesenter med hovedvekt på økonomiske straffesaker. Økokrim mener det forutsetter et tydelig fagansvar med definerte roller og
-fullmakter. Politidirektoratet ba Økokrim i 2014
-om å beskrive hva man mente at fagansvaret
-skulle være, og har også levert innspill, men per
-mars 2017 er dette ikke besvart fra Politidirektoratet.
-Politihøgskolen ønsker også en klargjøring.
-11
-12
-
-NOU 2013: 9, Politianalysen s. 35.
-Kripos 2017, e-post til sekretariatet 5. april 2017.
-
-[Side 257]
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-Etterforskningsløftet
-Nærpolitireformen er som nevnt også en kvalitetsreform. «Etterforskningsløftet» er et samarbeid
-mellom Politidirektoratet og Riksadvokaten. Etterforskningsløftet skal øke kvalitet og effektivitet i
-etterforskningen, og skal gi resultater innen alle
-de seks effektmålene i nærpolitireformen13, herunder innen områder som også er inntatt i mandatet for dette utvalget. Det nevnes særskilt mer
-enhetlig politi og bruk av bedre teknologi.14 Programmet skal være et første steg på veien mot en
-definert minimumsstandard for tjenesteutførelse
-innen etterforskning for norsk politi.
-Arbeidet med å definere hva som er fagansvar
-er en del av dette15.
-Felles standarder og metoder skal ikke være
-til hinder for, men bidra til at man innen rammene
-kan bruke individuell kompetanse og kreativitet
-for å løse saker. Det skal også bli mer attraktivt å
-arbeide med etterforskning.
-I rapport av desember 2016 utgitt av Politidirektoratet/ Etterforskningsløftet er beskrevet fagmyndighet, fagansvarsfunksjonen, fagansvar og
-fagforvaltningsrollen.
-Når det gjelder de ulike spørsmål rundt utviklingen av fagansvaret videre, viser rapporten til
-dette utvalgets arbeid, men i rapporten legger
-man til grunn at eventuelle endringer som følge
-av dette utvalget uansett vil ligge ett stykke frem i
-tid. Rapporten anbefaler derfor å fortsette arbeidet uavhengig av dette utvalgets anbefalinger.
-Rapporten beskriver at det vil skje en nærmere
-dialog mellom Riksadvokaten, PHS, Kripos, Økokrim og Oslo politidistrikt i løpet første halvår
-2017.16
-Etterforskningsløftet har en ambisiøs tidsplan,
-og mye vil formentlig være på plass før dette utvalget avgir sin innstilling. Utvalget har derfor
-behandlet det som utvalget oppfatter å ligge
-innenfor mandatet uavhengig av prosessen i etterforskningsløftet.
-Utvalgets vurderinger
-Utvalget mener at hovedgrepet med etterforskningsløftet i det alt vesentlige er meget verdifullt
-og viktig. Standardiserte løsninger basert på
-13
-
-Presentasjon fra Politidirektoratet for utvalget 6. desember
-2016
-14
-Politidirektoratet desember 2016 - Rapport om etablering
-av et forvaltnings- og utviklingsapparat for etterforskningsfeltet – Politidirektoratet/Etterforskningsløftet
-15
-ibid.
-16
-Ibid. s. 19.
-
-257
-
-Kapittel 16
-
-beste praksis og i henhold til både internasjonale
-og nasjonale standarder vil styrke målet om et
-politi som fremstår som enhetlig og gir bedre,
-likeartede og like polititjenester.
-Særlig på ett område legger imidlertid etterforskningsløftet opp til en beslutningsprosess som
-utvalget vil knytte noen kommentarer til: etablering av et fagansvar-/forvaltnings- og utviklingsapparat for etterforskningsfeltet. Så langt synes det
-ikke å være utviklet noen beskrivelse av hva fagog metodeansvar er, hvilke prosesser som skal
-etableres for å utvikle det, med beskrivelse av roller, myndighet og ansvar, og hvem som har kompetanse til å treffe beslutninger om hvordan det
-bør utøves. Etterforskningsløftet har påbegynt
-dette arbeidet. Men etter utvalgets syn bør dette
-arbeidet bygge på mer klare premisser og definisjoner enn prosjektet om Etterforskningsløftet så
-langt ser ut til å gjøre.
-Utvalgets forståelse av hva fag- og metodeansvar bør
-være
-Utvalget har samlet seg om at fag- og metodeansvar kan deles opp i følgende elementer:
-– Organisatorisk bør bistandsenheten være det
-nasjonale og internasjonale kontaktpunkt for
-fagområdet
-– Kompetansemessig bør enheten ha spisskompetanse innen fagområdet, det vil si at enheten
-gis et eget ansvar for å kunne faget, herunder
-utvikling av nye metoder og standarder, definere disse og foreslå dem som nye standarder,
-dele dem og bidra til opplæring
-– Enheten bør også ta initiativ til og å prøve ut
-nye former for arbeid, drive innovasjon. Man
-skal utvikle metoden. Man skal også eventuelt
-foreslå/identifisere behov for, utarbeide og
-videreutvikle forslag til nasjonale standarder,
-prosesser og prosedyrer. Dette kan kalles pådriveransvaret .
-– Enheten kan også pålegges en forpliktelse til å
-bringe ny kunnskap videre til andre deler av
-organisasjonen og å sørge for å tilrettelegge
-slik at hele organisasjonen kan vedlikeholde
-sin kompetanse
-– Etter delegering kan enheten også tildeles
-ansvaret til å omfatte den formelle kompetansen til å beslutte nye rutiner og også nytt regelverk på et område (eller å endre det allerede
-vedtatte)
-Utvalget mener at ansvaret for å utvikle metoder i
-størst mulig grad bør samles i en ny struktur. Det
-naturlige vil da være at spisskompetansemiljøene
-
-[Side 258]
-
-258
-
-Kapittel 16
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-(les: bistandsenhetene) tar ansvaret for utvikling
-av metodene innenfor eget kompetanseområde.
-Utvalget mener at prosessene for å definere
-nye standarder og fag og metode må tilse at de
-relevante aktørene blir involvert på rett nivå og i
-rett omfang, og at prosessene ikke må ta for lang
-tid. Utvalget ser her betydningen av at Politihøgskolen bidrar innen sine kompetanseområder slik
-at fagansvaret tar hensyn til relevant kunnskap og
-forskning på området. Politihøgskolen bør med
-andre ord ha et eget kvalitetssikringsansvar som
-ledd i prosessen.
-Ved uenighet må en overordnet instans – Politidirektoratet, i samråd med Riksadvokaten der
-det følger av det tosporede system – ha faglig
-kompetanse og formell myndighet, altså både en
-rett og en plikt, til å beslutte innen rimelig tid. Det
-vises her til rapporten om etterforskningsløftet,
-som utvalget sier seg enig i både når det gjelder
-det prinsipielle og mulighetene for delegering:
-«Statlig forvaltning er hierarkisk. Det innebærer blant annet at ansvar ikke kan delegeres,
-og at delegering av myndighet (rettigheter) og
-oppgaver (plikter) må skje fra den som har det
-øverste ansvaret. I politi-sporet vil derfor myndighet kunne delegeres fra Politidirektoratet i form
-av fullmakter.»17
-Både fordi ansvar ikke kan delegeres, og fordi
-POD, som rapporten om etterforskningsløftet
-peker på, har en overordnet og strategisk rolle å
-utvikle og ivareta, er det både formelt og praktisk
-mest korrekt at godkjenning av nye metoder og
-annet fra fagansvarlig myndighet skal godkjennes
-av Politidirektoratet/Riksadvokaten. Politidirektoratet er leddet mellom de operative politidistrikt
-og departementet, og å treffe denne type endelige
-beslutninger vil være en naturlig oppgave for et
-fagdirektorat. Beslutninger om hvordan fagansvaret skal utøves, kan ha konsekvenser for ressursfordelingen og kan også på andre måter få betydning for deler av politiets virksomhet som ikke faller inn under fagansvarlig enhet. Fagansvarlig vil
-ved å søke å optimalisere faglige metoder og fremgangsmåter, indirekte kunne allokere ressursanvendelse innen sitt ansvarsområde, mens Politidirektoratet/Riksadvokaten må tenke helhetlig.
-Som vist til i sitatet kan man derfra delegere til
-fagansvarlige på de områder man finner hensiktsmessig.
-Politidirektoratets overordnede rolle ses ikke
-å utgjøre et hinder for at Politidirektoratet kan
-være siste instans i denne beslutningsprosessen.
-17
-
-Rapport om etablering av er forvaltnings- og utviklingsapparat for etterforskningsfeltet s. 13.
-
-Samtidig må man sikre at Politidirektoratet ikke
-skal opprette parallellkompetanse i tillegg til kompetansen i andre enheter, selv om det er for å
-foreta selvstendige nye faglige vurderinger. Politidirektoratet må først og fremst se på konsekvenser for øvrig i organisasjonen. Implementeringen
-ligger til bistandsenhetene og i politiet for øvrig.
-
-16.4.2 Særlig om Politihøgskolens rolle
-Politihøgskolen implementerer i dag praksisnære
-metoder i utdanningen og bidrar på den måten til
-faglig godkjenning av metodene. Det er imidlertid
-i den daglige tjenesten i særorganene at metodeutviklingen foregår.18 Etterforskningsløftet har
-også foreslått at Politihøgskolen skal få fagforvalteransvaret. Utvalget har merket seg at Politihøgskolen ønsker et tettere samarbeid med særorganene, med større ansvar for fag- og metodeutvikling. Politihøgskolen har fremmet forslag om å
-etablere et eget kunnskapssenter under ledelse av
-Politihøgskolen med et samlet ansvar for å standardisere metodearbeidet.
-Utvalgets vurdering av Politihøgskolens rolle
-Forskning og kunnskap bør ligge bak det som
-besluttes, også innenfor utøvelse av fag og
-metode. Alle beslutninger om hvordan fagansvaret skal utøves, bør være utviklingsorientert og
-faglig forsvarlig og sikre at rutinen virker etter
-hensikten.
-Utvalget viser derfor til sitt forslag til rolleavklaring innen fag- og metodeansvar, der Politihøgskolen får kvalitetssikringsansvar for å sikre at
-nye metoder og fagstyring er i samsvar med relevant forskning, og relevante metoder i politiutdanningen, før endelig beslutning fattes.
-Utvalget vil imidlertid ikke tilrå at Politihøgskolen får et særlig ansvar for å ta avgjørelser om
-hvordan fag- og metodeansvar skal utøves. Politihøgskolen er ikke rigget for å utøve myndighet
-overfor andre linjeenheter, og en slik løsning kan
-samlet sett skape en virksomhet med gråsoner
-mellom ulike myndighets- og ansvarsroller.
-Videre er Politihøgskolen en utdanningsinstitusjon. Kjerneoppgaven er å utdanne og videreutdanne politi, ved siden av forskning og utvikling.
-Å påta seg ansvaret for prosesser rundt fagansvar
-vil trolig fordre oppbygging av både ny kompetanse og nye enheter i Politihøgskolen, samtidig
-som det lett vil kunne gå ut over andre hardt tiltrengte kjerneoppgaver som allerede lider, der18
-
-Intervju, Kripos-sjef 27.09.2016.
-
-[Side 259]
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-som en slik løsning ikke følges av økte ressurser
-til Politihøgskolen. Mulige budsjettkutt i fremtiden vil gjøre dette ytterligere vanskelig. Politihøgskolen bør derfor konsentrere seg og sine ressurser om de kjerneoppgaver skolen har og bør ha.
-
-16.5 Behov for digitalisering
-Vi befinner oss nå i en tidsalder hvor all virksomhet er IKT-virksomhet. Politiet leverer operative
-tjenester, men allerede i dag kan man ikke utføre
-nær sagt noen oppgaver uten IT. I løpet av få år vil
-ventelig hele politiet ha nye digitale plattformer.
-Oppgaver politiansatte har utført, er allerede løst
-via teknologi og vil trolig bli enda mer automatisert i løpet av kort tid.
-Utvalget har vært særlig opptatt av hvilke
-muligheter digitalisering gir for arbeidet innen
-bistandsenhetene, hvilke føringer dette bør gi for
-hvordan bistandsorganer bør innrettes for fremtiden, hvordan digitaliseringen kan øke samhandlingen mellom bistandsenhetene, og hvordan politiet kan forbedres som følge av økt digitalisering.
-Utvalget registrerer med tilfredshet at det
-arbeides iherdig med utviklingen av ny IKT-infrastruktur i politiet. Det er et stort etterslep på IKTinfrastruktur i politiet. Det sentrale systemet som
-brukes i straffesakene/etterforskning, er fra
-1990-tallet. Investeringsbehov for IKT-infrastruktur antas ifølge POD19 å være på ca. 200 millioner
-kroner per år de neste 6–8 årene. I tillegg kommer behov for digitalisering. Utvalget er klar over
-at etterslepet på infrastruktursiden så langt har
-gitt vesentlige begrensninger for politiets utvikling og evne til både kriminalitetsbekjempelse og
-å lage moderne digitale arbeidsflater. Digitalisering bør være et sentralt område i politiets langtidsplan.
-Det arbeides med nye digitale løsninger for
-publikum, og det er utviklet flere gode felles registerløsninger og plattformer, for eksempel KO:DE,
-som Kripos har ansvaret for. KO:DE er tilgjengelig på Kilden, politi og lensmannsetatens eget
-intranett. Utvalget savner likevel den digitale
-dimensjonen i de ulike rapporter og annet (sett
-bort fra digitaliseringsstrategien) som utvalget
-har sett i forbindelse med arbeidet. I de ulike dialoger med ansatte i politiet virker de færreste å
-være opptatt av hvilke muligheter digitalisering
-betyr for effektiv, moderne og god arbeidsflyt.
-Iverksettelse av «politiarbeid på stedet» er imidler19
-
-Politidirektoratet 22. august 2016 – presentasjon for utvalget v/Wilfred Østgulen
-
-259
-
-Kapittel 16
-
-tid et godt eksempel på at ny teknologi ses i sammenheng med en ny måte å arbeide på.
-Politiets digitaliseringsstrategi
-POD utviklet høsten 2016 Politiets digitaliseringsstrategi20, som blir et viktig instrument for digitalisering av politiet. Utvalget mener at strategien
-gjør det mulig å legge til rette for mer effektiv og
-bedre kvalitativ bistand fra bistandsenhetene, ved
-siden av at virksomheten kan bli mer effektiv. Det
-gjelder blant annet muligheten for å utvikle ett
-politi som lar seg styre og kan ledes, og med like
-tjenester til brukerne. Strategien har flere viktige
-mål. Ett av dem er ifølge forordet at «Politiets
-medarbeidere skal oppleve at de får tilgang til
-relevant informasjon når og der de trenger den,
-og politiet som virksomhet skal bli mer effektiv og
-tilpasningsdyktig. Digitalisering av politiet er
-avgjørende for å lykkes med dette».21
-Strategien legger også opp til at digital samhandling skal være førstevalget, både eksternt og
-internt, og at kompetanse, metoder og organisering er tilpasset den digitale tidsalder. Man ønsker
-også å oppnå forenklede, standardiserte og automatiserte prosesser. Det pekes også på at digitalisering er en forutsetning for en vellykket gjennomføring av nærpolitireformen. Samtidig erkjennes det at det er en prosess «å tenke nytt på hvordan man jobber, kommuniserer og gjennomfører
-oppgaver ved å utnytte potensialet som ligger i
-anvendelse av ny teknologi. Politiet har i liten
-grad tatt i bruk disse mulighetene så langt».22
-Strategien erkjenner også at man så langt ikke har
-gode nok systemer, og det pekes også på at «organisasjonen mangler forståelse for at fagutvikling
-også omfatter digitalisering» og at «det er utfordrende å gjennomføre endringer i organisasjonen».23
-Strategien støtter opp om mandatet til utvalget. Implementeringen vil legge til rette for gode
-polititjenester til brukerne og vil gjøre samhandlingen internt, også mellom bistandsenhetene og
-resten av politiet, enklere og bedre. Teknologiutviklingen er også del av begrunnelsen for de
-strukturendringer som utvalget foreslår.
-Digitaliseringsstrategien er omfattende, men
-omhandler i mindre grad hvordan digitaliseringen
-
-20
-21
-22
-23
-
-Politidirektoratet (2016). Politiets digitaliseringsstrategi,
-udatert versjon 1.1
-Ibid., s. 1
-Ibid., s. 7
-Ibid., s. 12
-
-[Side 260]
-
-260
-
-Kapittel 16
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-konkret kan bidra til samhandling internt i politiet
-uten fysisk felles tilstedeværelse.
-Utvalget skal vurdere distriktspolitiske konsekvenser. Dette forstås blant annet slik at man må
-se på hvordan man kan utvikle kompetent politi i
-distriktene ved hjelp av adekvat bistand ved
-behov. Utvalget vil tilrå at man i det videre arbeidet med realiseringen av strategien også legger
-vekt på digitalisering i arbeidet med å utvikle
-robuste politidistrikter. Ved digitale løsninger kan
-man både bygge opp interne fagmiljø og få relevant bistand fra eksterne bistandsenheter uten at
-man må flytte på seg. Med andre ord, personer
-innen samme distrikt som arbeider med de
-samme type saker må ikke nødvendigvis flytte
-fysisk, og politidistriktene kan få bistand uten at
-personer fra bistandsenhetene må reise til stedet,
-og på den måten kan også bistandsenhetene yte
-bistand til flere.
-
-16.6 Utvalgets vurderinger
-Hensiktsmessige strukturer mellom bistandsenheter, Politidirektoratet, Politihøgskolen og politidistriktene er ikke tilstrekkelig for god oppga-
-
-veløsning og god samhandling. En vellykket videreutvikling av politi- og lensmannsetaten fremover
-forutsetter også fortsatt økt vekt på god ledelse
-basert på utvikling av felles kultur. Det er derfor
-fortsatt behov for å videreutvikle virksomheten
-også når det gjelder betydningen av og forståelsen
-for ledelsesarbeidet, og utvikle organisasjonskulturen slik at man får en samlet interesse av å
-utnytte tilgjengelige ressurser optimalt.
-En dynamisk holdning til kompetanseutvikling
-er også sentralt, slik at det blir en kontinuerlig
-kompetanseflyt fra bistandsenhetenes spisskompetanse og ut til politidistriktene. Nye teknologiske løsninger er påkrevd og må kombineres
-med en tilsvarende organisasjons- og kulturutvikling. Samtidig bør ny teknologi gi muligheter for
-bedre tjenestekvalitet, økt effektivitet, bedre samhandling og kompetanseutvikling.
-Nye og gode løsninger for digital samhandling
-gjør det mulig å samarbeide uavhengig av sted og
-avstand. Utvalget vil derfor tilrå at de strukturendringer utredningen foreslår, ses i sammenheng med de muligheter som økt digitalisering og
-teknologi gir.
-
-[Side 261]
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-261
-
-Kapittel 17
-
-Kapittel 17
-
-Utenlandsbesøk
-17.1 Innledning
-I mandatet er utvalget pålagt i nødvendig utstrekning å innhente informasjon fra andre land. Utvalget har lagt vekt på å besøke land med mange av
-de samme utfordringer som i Norge, land med tilsvarende kultur, og land som har vært gjennom
-reformer som fordrer ny organisering av nasjonal
-spesialistkompetanse. I de landene utvalget har
-valgt å besøke, finnes parallelle utfordringer: Alle
-har vært gjennom én eller flere reformer der
-hovedretningen har vært færre og større politidistrikt, og der en mer kostnadseffektiv organisering
-og drift har vært en viktig driver.
-Utvalget har i sitt arbeid hatt møter med sentral politiledelse i følgende land:
-– Danmark, 24. november 2016
-– Sverige, 25. november 2016
-– Nederland, 13. desember 2016
-– Finland, 12. januar 2017
-I alle de fire landene er det som nevnt de senere
-årene gjennomført reformer, og utvalget var av
-den oppfatning av at å besøke disse landene ville
-gi nyttige innspill om erfaringer knyttet til spørsmål som ligger i mandatet. Samtidig er det viktige
-ulikheter mellom landene som må tas med i vurderingen av de løsningsvalg som anbefales.
-Den største ulikheten mellom de besøkte landene er geografi. Sverige og Finland har mye til
-felles med Norge i hvordan avstander og naturlige
-hindringer som fjorder og fjell samt en signifikant
-tettere befolkning i sør enn i nord, virker inn på
-hvordan politiet skal arbeide og organisere seg.
-Danmark og Nederland er derimot tettere befolket på et betydelig mindre område, noe som gir
-andre naturlige løsninger på noen områder.
-Politikulturen oppleves lik i de forskjellige landene. I alle landene er det en motsetning mellom
-lokalt politi (nærpolitiet) på den ene siden og hvor
-sentralisert politiet skal være på den andre siden.
-Både i Finland og i Nederland ble balansen mellom den delen av politiet som skal være nær publikum (lokalt politi), og den delen som skal være
-
-sentralisert, skarp og spesialisert, beskrevet som
-en utfordring.
-Selv om politiet i ulike land kan ha mange av
-de samme utfordringene, er det samtidig viktige
-forskjeller i historie og politikultur som ligger til
-grunn for de valg som er tatt. Sammenligninger
-må derfor gjøres med viktige forbehold. For
-eksempel har Nederland hatt tradisjon for å drive
-politiet i tettere samarbeid med kommunale- og
-regionale politisk valgte personer og organer enn
-vi er vant til i Norge.
-I tillegg har utvalget besøkt Europols cybercrimecenter (EC3) i Haag for å få informasjon om
-utviklingen av IKT-kriminalitet og hvordan det
-arbeides internasjonalt for å forebygge og
-bekjempe denne typen kriminalitet. Utvalget har
-diskutert ulike måter å organisere og prioritere
-spesialistkompetansen innenfor dette området på.
-Det synes klart at kriminalitet gjennomført ved
-hjelp av nettbaserte verktøy og kommunikasjonsplattformer vil være sentralt i fremtidens kriminalitetsbekjempelse.
-
-17.2 Sverige
-17.2.1 Innledning
-Politiet i Sverige er underlagt Justisdepartementet
-og hadde i 2016 ca. 28.500 ansatte.1 Rikspolitisjefen er utnevnt av regjeringen og rapporterer til
-Justisdepartementet.
-Polismyndigheten kan sammenlignes med
-Politidirektoratet i Norge. Den ble opprettet
-1. januar 2015 og har ansvaret for all politivirksomhet i Sverige, med unntak av myndighetsområdet til Säkerhetspolisen (Säpo). Myndigheten
-ble til gjennom en sammenslåing av Rikspolisstyrelsen og Sveriges 21 lensvise politimyndigheter
-samt Statens kriminaltekniske laboratorium.
-Säpo, som tidligere hørte inn under rikspolitidi1
-
-Polisen (2017), https://polisen.se/Om-polisen/Organisation/.
-
-[Side 262]
-
-262
-
-Kapittel 17
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-rektoratet, ble samtidig omdannet til en frittstående myndighet innen politiet.
-Polismyndigheten har nasjonalt hovedkontor i
-Stockholm. For øvrig er politiet i Sverige geografisk inndelt i sju politiregioner, som hver ledes
-av en politidirektør. De sju regionene er henholdsvis Nord (Umeå), Mitt (Uppsala), Bergslagen
-(Örebro),
-Stockholm
-(Stockholm),
-Öst
-(Linköping), Väst (Göteborg) og Syd (Malmö).
-Politiregionene er delt opp i 27 politiområder, som
-igjen er delt opp i 95 lokalpolitiområder.
-Politiregionene har et helhetsansvar for oppgaveløsningen i sin region, og noen regioner har
-blitt tildelt nasjonalt ansvar på enkeltområder. For
-eksempel er Region Vest ansvarlig for den nasjonale hundetjenesten, mens Region Mitt har ansvar
-for den nasjonale trafikktjenesten.
-Den operative enheten i politiregionen er
-ansvarlig for den regionale kriseberedskapen, innsatsevnen og politiets kontaktsenter i regionen.
-Beslutninger skal tas på laveste effektive nivå i
-Polismyndigheten, men noen oppgaver skal
-behandles på regionalt nivå, for eksempel etterforskning av visse typer kriminalitet.
-Polismyndigheten er organisert med fem
-avdelinger som skal støtte politiregionene i sitt
-arbeid:
-– HR-avdelingen
-– IT-avdelingen
-– økonomiavdelingen
-– kommunikasjonsavdelingen
-– rettsavdelingen
-I tillegg har Polismyndigheten fem enheter/
-avdelinger som støtter et enhetlig og effektivt
-nasjonalt politi:
-– Rikspolitisjefens «kansli»
-– Internrevisjonen
-– Særskilte utredninger
-– Nasjonalt rettsmedisinsk senter
-– Nationella operativa avdelningen (NOA)
-Nationella operativa avdelningen (NOA) har
-ansvar for etterforskning av blant annet
-– korruptionsbrott
-– krigsbrott
-– cites-brott (Convention of International Trade
-in Endangered Species)
-– kulturarvsbrott
-
-17.2.2 Organisert kriminalitet
-Gjennom NOA ivaretar Polismyndigheten politiets nasjonale spisskompetanse og nasjonale koordinering. NOA har et nasjonalt ansvar for å sikre
-
-et enhetlig og effektivt politi. NOA er ansvarlig for
-å samordne og følge opp den nasjonale satsingen
-mot grov organisert kriminalitet.
-For å sikre et mer enhetlig politi har NOA derfor prosessansvaret for en rekke områder i politiet, som:
-– etterretningsvirksomhet
-– grensepolitivirksomhet
-– internasjonalt politisamarbeid og internasjonal
-samhandling
-– nasjonalt innsatskonsept
-– kriminalitetsoffer- og personsikkerhetsarbeid
-– kompleks datakriminalitet, inkludert barnepornografikriminalitet
-– polismyndighetens kontaktsenter
-– krisehåndtering
-– teknikkspaning (samordnet teknisk innsamling)
-– seksjonen for særskilte innsatser
-– polismyndighetens sju operasjonssentraler
-Videre har NOA funksjonsansvar (herunder personalansvar) for:
-– den nasjonale innsatsstyrken (Beredskapstroppen)
-– politiflyet (Helikoptertjenesten)
-– politiets bombegrupper
-– sentralbordet
-Ca. 1300 personer arbeider på NOA per 1.
-januar 2015.2
-NOA skal ha evne til å lede politisamarbeidet
-både nasjonalt og internasjonalt. Avdelingen skal
-ikke drive egen operativ virksomhet, men støtte
-politiregionene i deres ulike typer oppgaveløsning. NOA leder likevel den operative politivirksomheten og har myndighet til å beslutte både
-innsats og ressursforsterkninger i hele landet.
-Videre skal NOA være et nasjonalt kontaktpunkt mot Sikkerhetspolitiet (Säpo) og Forsvaret
-samt være ansvarlig for å håndtere sensitiv informasjon, blant annet om terrorisme og spaning.
-Bakgrunnen for politireformen (initiert januar
-2015) var en utredning fra 2012.3 Utgangspunktet
-for utredningen var spørsmålet om det var organisasjonsmessige eller strukturelle årsaker til at
-politiet ikke var mer effektivt. Det var også et politisk ønske om et mer enhetlig politi og mer nærpoliti. Selv med mer penger ble ikke resultatene
-bedre, og utredningen skulle finne ut hvorfor.
-Lokalpolitiet skal være selve navet i svensk
-politi. Her skal det være korte beslutningslinjer.
-2
-3
-
-Møte med svensk politi Stockholm 25. november 2015.
-SOU 2012: 13 s. 17 m.v., En samanhållen svensk polis.
-
-[Side 263]
-
-263
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-Kapittel 17
-
-Rikspolischef
-
-Polisregionene (7)
-
-Nationella
-operativa
-avdelingen (Noa)
-
-Rikspolischefens
-kansli
-
-Internrevision
-
-Nationelt forensiskt
-centrum (NFC)
-
-Avdelningen för
-särskilda
-utredningar
-
-Ekonomiavdelingen
-
-Avdelningen för
-särskilda
-utredningar
-
-HR-avdelingen
-
-IT-avdelingen
-
-Rättsavdelingen
-
-Kommunikationsavdelingen
-
-Figur 17.1 Organiseringen Polismyndigheten Sverige
-Kilde: Polismyndigheten
-
-Mer enn halvparten av regionenes politivirksomhet skjer i lokaldistriktene.
-Nationellt forensiskt centrum (NFC) (senter
-for rettsmedisin) er også underlagt NOA. Sjefen
-for senteret rapporterer til sjef for NOA, som også
-er stedfortredende for rikspolitisjefen. Det opplyses av svensk politi at det ikke har vært offentlig
-debatt i Sverige om privatisering av tjenestene
-knyttet til det rettsmedisinske laboratorium.
-Resultatene av politireformen i Sverige lar
-vente på seg. Oppklaringsprosenten har ikke
-bedret seg, reformens mål om å frigjøre bistandsressurser har foreløpig ikke slått til, og man har til
-dels kulturelle utfordringer.4
-I Sverige er flere sosiale problemområder løftet frem som årsak til mye kriminalitet. Blant
-annet nevnes integrasjon, sosiale utfordringer og
-arbeidsledighet blant unge som bakgrunn for kriminalitetstyper som:
-– organisert kriminalitet
-– gjengkriminalitet
-– vold i nære relasjoner
-– drap og æresdrap
-
-17.2.3 Økonomisk, finansiell og
-miljøkriminalitet
-Ekobrottsmyndigheten, ble etablert i 1992 på bakgrunn av økende oppmerksomhet om økonomisk
-kriminalitet, og særlig «hvitsnippforbrytere» som
-
-gikk fri. I 2004 ble de tilført en politioperativ avdeling med blant annet myndighet til bruk av tvangsmidler.
-Hovedkontoret til Ekobrottsmyndigheten ligger på Kungsholmen i Stockholm og består av følgende enheter:
-– enheten för ledning och styrning
-– operativa ledningskansliet
-– överåklagarens kansli
-– rättsenheten
-– enheten för personal- och kommunikationsfrågor
-Ekobrottsmyndigheten har nærmere 2000 ansatte
-og tar inn ca. 6000 saker av ulik størrelse hvert år.
-Rundt halvparten er relativt enkle saker. De fleste
-sakene er knyttet til konkursbehandling og skattekriminalitet, til sammen utgjør disse sakstypene
-ca. 85 prosent av sakstallet.5
-Ekobrottsmyndigheten etterforsker og irettefører ca. 2000 saker årlig, med en gjennomsnitts
-behandlingstid på 230 dager. Gjennomsnittlig
-domfellelse er rundt 90 prosent. Saker knyttet til
-grov økonomisk kriminalitet er generelt svært
-ressurskrevende.
-Økonomisaker kan anmeldes direkte til regionalt politi eller direkte til Ekobrottsmyndigheten.
-De fleste anmeldelsene kommer fra Skatteverket
-eller fra advokatfirmaer. Det er få anmeldelser fra
-privatpersoner, men Ekobrottsmyndigheten har
-5
-
-4
-
-Møte med svensk politi i Stockholm 25. november 2016.
-
-Møte med Ekobrottsmyndigheten, Stockholm 25. november 2016.
+Flytting av Økokrims miljøkrimavdeling til Trøndelag politidistrikt omfatter om lag 17 årsverk, herunder rundt syv politiårsverk. En flytting av miljøkrimavdelingen i Økokrim til Trøndelag politidistrikt vil avstedkomme prissatte- og ikke- prissatte kostnadsvirkninger, i tillegg til fordelingsvirkninger. Disse vurderes overordnet.
+
+*<u>Ikke-prissatte kostnadsvirkninger</u>*
+
+De ikke- prissatte virkningene vurderes å ha størst betydning. En evaluering av utflytting av syv statlige virksomheter[^527], fattet i 2001-2003, viste at frafallet av ansatte ble på mellom 75-90 prosent, og rapporten konkluderte med at viktige samfunnsfunksjoner ble midlertidig svekket. Med nevnte erfaringstall vil en flytting i praksis innebære at fagmiljøet må bygges opp fra grunnen av, med en sterk reduksjon i kapasitet og kompetanse i mellomperioden, med negative konsekvenser for politiets evne til å bekjempe alvorlig miljøkriminalitet i en begrenset periode. Rekrutteringsgrunnlaget i tilflyttingsregionen er avgjørende for gjenoppbyggingen av fagmiljøet. Utvalgsarbeidet har ikke gitt grunnlag for å vurdere kompetansemiljøene i Trondheim opp mot behovet i miljøkrimavdelingen. Utvalget viser imidlertid til at både Miljødirektoratet og Direktoratet for arbeidstilsynet ligger i Trondheim. Arbeidsmarkedskonjunkturer har også innvirkning på rekrutteringen. Utvalget har ikke hatt grunnlag for å vurdere betydningen av dette.
+
+Oppsummert vurderes det at tiltaket vil ha negative virkninger i en mellomperiode. Når omstillingen er fullført, legges det til grunn at tiltakets negative virkninger gradvis opphører.
+
+*<u>Prissatte- kostnadsvirkninger</u>*
+
+Basert på erfaringstall, anslås det at 85 prosent av de ansatte i miljøkrimavdelingen velger å slutte. Avdelingen omfatter om lag 17 årsverk, hvorav om lag syv er politistillinger, og resten er fordelt mellom juriststillinger og sivile stillinger. I beregningen av de prissatte virkningene forutsettes det at de syv politistillingene får nye oppgaver i politiet i Oslo-regionen, og det beregnes ikke omstillingskostnader for disse. For de resterende ti årsverkene forutsettes det bruk av sluttvederlag som spesifisert i politiets omstillingsavtale og tilhørende særavtaler, med 24 måneders etterlønn. Dette innebærer en omstillingskostnad på om lag 16 mill. kroner, fordelt over to år. Det er ikke beregnet kostnader knyttet til eventuelt overlapp mellom ansatte som slutter og begynner. I tillegg inngår rekrutteringskostnader. Erfaringsdata fra andre statlige virksomheter indikerer en totalkostnad på rundt 80 000 kroner per ansettelse til annonser og andre prosessutgifter. Med ovennevnte forutsetninger utgjør dette 680 000 kroner.[^528]
+
+For årsverk som velger å flytte til Trondheim, påløper kompensasjon til flytting, herunder utgifter i forbindelse med kjøp/salg av bolig, og dekking av flytteutgifter i henhold til ”Særavtale om flyttegodtgjørelse". Det legges til grunn en engangsutgift på 330 000 kroner.
+
+For å implementere og gjennomføre endringer er det behov for ekstra kapasitet for å implementere endringene. Det legges til grunn et begrenset behov for implementeringskostnader, satt skjønnsmessig til 2 mill. kroner. Det vurderes videre at ti årsverk ikke er i en størrelsesorden som vil påvirke behov for lokaler og tilhørende husleie- og driftskostnader.
+
+I sum beløper omstillingskostnadene seg til om lag 20 millioner fordelt over to år. Det er stor usikkerhet knyttet til forutsetningene som anslaget hviler på.
+
+*<u>Fordelingsvirkninger</u>*
+
+Flytting av statlige virksomheter fra Oslo til mindre sentrale strøk, kan ha relativt mindre betydning (i absolutt verdi) i Oslo enn den motsvarende gevinstøkningen for et mindre sentralt tilflyttingssted. Slik sett kan utflytting av statlige virksomheter tilføre samfunnet netto verdiskapning selv om det verken finner sted økning i antall arbeidsplasser eller effektivisering.[^529]
+
+Flytting av miljøkrimavdelingen i Økokrim til Trøndelag politidistrikt bidrar til å skape et større mangfold av kompetansearbeidsplasser på tilflyttingsstedet. Gitt det begrensede antall årsverk som omfattes vurderes fordelingsvirkningen å være av begrenset betydning.
+
+**<u>Forslag til justeringer i lov og forskrift</u>**
+
+*<u>Stedlig fordeling av saker</u>*
+
+Utvalget mener påtaleinstruksens bestemmelse om stedlig fordeling av saker mellom politidistriktene og nasjonale bistandsenheter bør forsterkes ved endring i ordlyden i §1-1, fra: «En straffbar handling skal som alminnelig regel etterforskes og påtales i det distrikt hvor handlingen antas foretatt», til «En straffbar handling skal som hovedregel etterforskes og påtales i det distrikt hvor handlingen antas foretatt».
+
+*<u>Etterforskning og p</u><u>å</u><u>tale av </u><u>ø</u><u>konomisk kriminalitet og milj</u><u>ø</u><u>kriminalitet</u>*
+
+Som følge av utvalgets forslag om presisering av stedlig fordeling av saker blir det også foreslått presisering av påtaleinstruksen §35-1 (2) for å gi hovedregelen et reelt innhold som ivaretar totalansvarsprinsippet. Bestemmelsen har i dag følgende ordlyd: «Innen sitt område kan enheten overta sak fra lokal påtalemyndighet og påbegynne etterforskning av eget tiltak». Utvalget mener bestemmelsens ordlyd bør endres til: «Innen sitt område kan enheten, etter nærmere kriterier fastsatt av Politidirektoratet og Riksadvokaten, overta sak fra lokal påtalemyndighet og påbegynne etterforskning av eget tiltak».
+
+*<u>Kripos og </u><u>Ø</u><u>kokrim</u>*
+
+Endringer i statsadvokatfunksjonen som følge av fusjon mellom Økokrim og Kripos er nærliggende. Utvalget har imidlertid ikke vurdert dette nærmere, da en slik løsning forutsetter avklaring av flere forhold.
+
+En organisatorisk sammenslåing av Kripos og Økokrim vil kreve endringer i forskrift om ordningen av påtalemyndigheten (påtaleinstruksen)herunder kap. 35. Saker som gjelder økonomisk kriminalitet og miljøkriminalitet, kap. 37. Saker som gjelder bekjempelse av organisert og annen alvorlig kriminalitet og kap. 38 Det nasjonale statsadvokatembetet for bekjempelse av organisert og annen alvorlig kriminalitet. Utvalget har imidlertid ikke utarbeidet noen konkrete lovforslagsendringer på dette området da det som nevnt krever avklaring av flere forhold. Utvalgets flertall legger til grunn at sammenslåingen vil legge til rette for en harmonisering av bistandskonseptene, som vil kunne øke forutsigbarheten til bistandstilbudet og styrke samhandlingen med politidistriktene. Endringer i påtaleinstruksen vil kunne påvirke saksfordelingen mellom den sentrale bistandsenheten for etterforskning og politidistriktene. Utvalget anbefaler videre en presisering av påtaleinstruksen § 37-3 (3) for å understreke styrket innsats på feltet. Nåværende bestemmelse sier i første punktum: «Enheten kan etterforske alvorlig IKT-kriminalitet.» Utvalget mener ordlyden bør endres til: «Enheten skal etterforske alvorlig IKT-kriminalitet.»
+
+*<u>Politih</u><u>ø</u><u>gskolen</u>*
+
+De rettslige rammene for politihøgskolens styre og virksomhet er fastsatt i Politiloven IV a) og i forskrift om Politihøgskolens styre, oppgaver og virksomhet. Utvalget mener at det er POD, som eier av PHS, som bør ha ansvar for å oppnevne styrets fire eksterne medlemmer. Dette krever endring i *Forskrift om Politihøgskolens styre, oppgaver og virksomhet* (FOR-2005-11-25-1330) § 2 2. og 3. ledd hvor «departementet» endres til «Politidirektoratet».
+
+Utvalget anbefaler videre at drift av Justissektorens kurs og øvingssenter (JKØ) i Stavern og drift av øvingssenter på Kongsvinger overføres til Politiets fellestjenester (PFT). I tillegg anbefaler utvalget at politihøgskolens drift av kantinen ved Justis- og beredskapsdepartementet og overnattingsfasilitetene i Dronning Astrids gate avvikles.
+
+**<u>Administrative konsekvenser </u><u>–</u><u> mindretallets anbefaling</u>**
+
+*Utvalgets mindretall, utvalgsmedlemmene Fause og Paulsen,* foreslår at Økokrim blir videreført i dagens form, subsidiært at enheten faglig og administrativt underlegges Riksadvokatembetet. Modellen forutsetter ikke endringer i straffeprosessloven. Når det gjelder forholdet til politiloven § 16 andre ledd nr. 1, antas det at ordningen og hjemmelsgrunnlaget ikke skiller seg vesentlig fra hvordan Økokrim er organisert i dag, med den forskjell at Riksadvokaten ikke har politimyndighet (som politidirektøren), se politiloven § 15. Sammenholdt med påtaleinstruksen § 35-1 antas det kun å være nødvendig med mindre justeringer.
+
+**<u>Forkortelser</u>**
+
+<u>ABE</u>
+
+<u>Avbyråkratiserings- og effektivitetsreform</u>
+
+<u>AID</u>
+
+<u>Arbeids- og inkluderingsdepartementet</u>
+
+<u>BG</u>
+
+<u>Bombetjenesten/bombegruppen</u>
+
+<u>BT</u>
+
+<u>Beredskapstroppen</u>
+
+<u>CBRNE</u>
+
+<u>Kjemiske-, Biologiske-, Radioaktive-, Nukleære- og Eksplosive hendelser</u>
+
+<u>DA</u>
+
+<u>Domstolsadministrasjonen</u>
+
+<u>Difi</u>
+
+<u>Direktoratet for forvaltning og IKT</u>
+
+<u>DKP</u>
+
+<u>Den kongelige Politieskorte</u>
+
+<u>DNK</u>
+
+<u>Direktoratet for nødkommunikasjon</u>
+
+<u>DSB</u>
+
+<u>Direktoratet for samfunnssikkerhet og beredskap</u>
+
+<u>EBA</u>
+
+<u>Eiendom bygg og anlegg</u>
+
+<u>ESR</u>
+
+<u>Eksplosiv søk og ryddegruppe</u>
+
+<u>E-tjenesten</u>
+
+<u>Etterretningstjenesten</u>
+
+<u>Eurosur</u>
+
+<u>European Union Border Surveillance</u>
+
+<u>EVU</u>
+
+<u>Etter- og videreutdanning</u>
+
+<u>FEE</u>
+
+<u>Felles enhet for etterretning og etterforskning</u>
+
+<u>HT</u>
+
+<u>Politiets helikoptertjeneste</u>
+
+<u>IEDD</u>
+
+<u>Improvised explosive device disposal (eksplosivrydding)</u>
+
+<u>IP</u>
+
+<u>Innsatspersonell</u>
+
+<u>JD</u>
+
+<u>Justis- og beredskapsdepartementet</u>
+
+<u>JKØ</u>
+
+<u>Justissektorens kurs- og øvingssenter</u>
+
+<u>KDI</u>
+
+<u>Kriminalomsorgsdirektoratet</u>
+
+<u>KGF</u>
+
+<u>Krise- og gisselforhandlere</u>
+
+<u>KRD</u>
+
+<u>Kommunal- og regionaldepartementet senere Kommunal- og moderniseringsdepartementet (KMD)</u>
+
+<u>Kripos</u>
+
+<u>Kriminalpolitisentralen (senere Den nasjonale enhet for bekjempelse av organisert og annen alvorlig kriminalitet)</u>
+
+<u>KRUS</u>
+
+<u>Kriminalomsorgens utdanningssenter</u>
+
+<u>KVU</u>
+
+<u>Konseptvalgutredninger</u>
+
+<u>NAST</u>
+
+<u>Det nasjonale statsadvokatembetet for bekjempelse av organisert og annen alvorlig kriminalitet</u>
+
+<u>NB</u>
+
+<u>Nasjonale beredskapsressurser</u>
+
+<u>NID</u>
+
+<u>Nasjonalt ID-senter</u>
+
+<u>NLG</u>
+
+<u>Nasjonal ledergruppe</u>
+
+<u>NOKUT</u>
+
+<u>Nasjonalt organ for kvalitet i utdanningen</u>
+
+<u>NSM</u>
+
+<u>Nasjonal sikkerhetsmyndighet</u>
+
+<u>OPD</u>
+
+<u>Oslo politidistrikt</u>
+
+<u>PBS</u>
+
+<u>Politiets beredskapssystem</u>
+
+<u>PD</u>
+
+<u>Politidistrikt</u>
+
+<u>PDMT</u>
+
+<u>Politiets data- og materielltjeneste</u>
+
+<u>PFT</u>
+
+<u>Politiets fellestjenester</u>
+
+<u>PHS</u>
+
+<u>Politihøgskolen</u>
+
+<u>PIT</u>
+
+<u>Politiets IKT-tjenester</u>
+
+<u>PLIVO</u>
+
+<u>Pågående livstruende vold</u>
+
+<u>PM</u>
+
+<u>Politimester</u>
+
+<u>POD</u>
+
+<u>Politidirektoratet</u>
+
+<u>PST</u>
+
+<u>Politiets sikkerhetstjeneste</u>
+
+<u>PU</u>
+
+<u>Politiets utlendingsenhet</u>
+
+<u>RA</u>
+
+<u>Riksadvokaten</u>
+
+<u>ROK</u>
+
+<u>Rådet for samordnet bekjempelse av organisert kriminalitet</u>
+
+<u>SEAO</u>
+
+<u>Søk etter antatt omkomne</u>
+
+<u>SRF</u>
+
+<u>Statens sivilrettsforvaltning</u>
+
+<u>SMK</u>
+
+<u>Statsministerens kontor</u>
+
+<u>SSB</u>
+
+<u>Statistisk sentralbyrå</u>
+
+<u>SØIK</u>
+
+<u>Statsadvokaten For Særlig Økonomisk og International Kriminalitet (Danmark)</u>
+
+<u>TTS</u>
+
+<u>Teknisk-taktisk spaning</u>
+
+<u>UC</u>
+
+<u>Undercover</u>
+
+<u>UEH</u>
+
+<u>Utrykningsenhetene</u>
+
+<u>UDI</u>
+
+<u>Utlendingsdirektoratet</u>
+
+<u>UNE</u>
+
+<u>Utlendingsnemnda</u>
+
+<u>UP</u>
+
+<u>Utrykningspolitiet</u>
+
+<u>Økokrim</u>
+
+<u>Den sentrale enhet for etterforskning og påtale av økonomisk kriminalitet og Miljøkriminalitet</u>
+
+1.  **<u>\[\[vedlegg resett\]\]</u>**
+
+**<u>Kilder</u>**
+
+**<u>B</u><u>ø</u><u>ker, artikler og tidsskrifter</u>**
+
+Christensen, Tom, (m.fl.) (2015): *Organisasjonsteori for offentlig sektor.* Universitetsforlaget
+
+Galbraith, Jay R. (2014): *Designing organizations.* Jossey-Bass
+
+Goold, Michael og Andrew Campbell (2002): *Designing effective organizations.* Joey-Bass
+
+Hals, Anne (2009): *Den sentrale statlige utlendingsforvaltningen 1945–2008.* Riksarkivet.
+
+Hermansen, Tormod (2015): *En bedre organisert stat.* Fagbokforlaget
+
+Hove, Kjersti (2012): *Politiutdanning i Norge – fra konstabelkurs til bachelorutdanning.* Politihøgskolen.
+
+Høviskeland, Hans Tore (2016): *«Miljøkriminalitet i høyesterettspraksis de siste 15 år».* Tidsskrift for strafferett nr. 4, 2016, s. 415 flg
+
+Johannessen, Stig O. og Rune Glomseth (red.) (2015): *Politiledelse.* Gyldendal
+
+Olsen, Leif N. (1987): *Utrykningspolitiets ni liv … gjennom 50 år. Utrykningspolitiets jubileumsberetning.* Utrykningspolitiet.
+
+Rieber-Mohn, Georg Fr. (1988): *«Miljøkriminalitet med særlig vekt på straffbar forurensing»,* Lov og rett s 343–357.
+
+**<u>Offentlige publikasjoner</u>**
+
+DIFI/SSØ (2008): *Omstilling av statlige virksomheter – veileder i beregninger av samfunnsøkonomiske gevinster og kostnader.*
+
+Direktoratet for forvaltning og IKT (2013): *Evaluering av Politidirektoratet.* Rapport 2013:3.
+
+Direktoratet for forvaltning og IKT (2013): *Innbyggerundersøkelsen 2013. Hva mener innbyggerne?* Rapport 2013:6.
+
+Direktoratet for forvaltning og IKT (2013): *Innbyggerundersøkelsen 2013. Hva mener brukerne?* Rapport 2013:7.
+
+Direktoratet for forvaltning og IKT (2016): *Nøklene til handlingsrommet. Hva fremmer og hemmer effektivisering i staten?* Rapport 2016:6
+
+Direktoratet for forvaltning og IKT (2017): *Evaluering av nærpolitireformen. Statusrapport 2016,* Rapport 2017:2
+
+Direktoratet for økonomistyring (2008): *Veileder i beregning av samfunnsøkonomiske gevinster og kostnader. Omstilling av statlige virksomheter*.
+
+<u>Direktoratet for økonomistyring (2014): </u>*<u>Veileder i samfunns</u><u>ø</u><u>konomiske analyser</u>*<u>.</u>
+
+Europol (2017): European Union Serious and Organised Crime Threat Assessment. Crime in the age of technology. (Socta)
+
+Fornyings- administrasjons- og kirkedepartementet, Forsvarsdepartementet, Justis- og beredskapsdepartementet og Samferdselsdepartementet (2012): *Nasjonal strategi for informasjonssikkerhet.*
+
+Forsvarsdepartementet (2016): *Digitalt grenseforsvar (DGF).* Lysne II-utvalget.
+
+Forsvarsdepartementet (2016): *Forsvarets bistand til politiet. Rapport fra arbeidsgruppen for utarbeiding av forslag til ny bistandsinstruks.*
+
+Innstilling II fra Politiutvalget (1954): *Om politiets rekruttering, utdannelse og avansement. Om politiets lønnsforhold. Om ordning og drift av Kriminalpolitisentralen.* Justis- og politidepartementet.
+
+Innst. 425 S (2012–2013). *Innstilling fra justiskomiteen om terrorberedskap. Oppfølging av NOU 2012:14 Rapport fra 22. juli-kommisjonen.*
+
+Innst. 306S (2014–2015*) Innstilling fra justiskomiteen om bevilgninger på statsbudsjettet for 2016.*
+
+Innst. 306 S (2014–2015), *Innstilling fra justiskomiteen om endringer i politiloven mv. (trygghet i hverdagen – nærpolitireformen).*
+
+Justis- og beredskapsdepartementet (2012): *Tildeling av bevilgning til Politidirektoratet. Statsbudsjettet 2012.*
+
+Justis- og beredskapsdepartementet (2013): *Tildeling av bevilgning til Politidirektoratet. Statsbudsjettet 2013.*
+
+Justis- og beredskapsdepartementet (2013): *Økonomisk analyse av reformalternativer for Førstelinjeprosjektet i Utlendingsforvaltningen.*
+
+Justis- og beredskapsdepartementet (2013): *Handlingsplan for forebygging av kriminalitet 2013–2016.*
+
+Justis- og beredskapsdepartementet (2014): *Tildeling av bevilgning til Politidirektoratet. Statsbudsjettet 2014.*
+
+Justis- og beredskapsdepartementet (2014): *Nasjonal risikovurdering. Hvitvasking og terrorfinansiering i Norge*
+
+Justis- og beredskapsdepartementet (2014) *Rapport. Sammenstilling etter gjennomført evaluering. Terrortrussel mot Norge juli 2014.*
+
+Justis- og beredskapsdepartementet (2015): *Justis- og beredskapsdepartementet strategi for bekjempelse av IKT-kriminalitet*
+
+Justis- og beredskapsdepartementet (2015): *Tildeling av bevilgning til Politidirektoratet. Statsbudsjettet 2015.*
+
+Justis- og beredskapsdepartementet (2015); FoU-strategi for justis- og beredskapssektoren 2015–2019.
+
+Justis- og beredskapsdepartementet (2016): *Tildeling av bevilgning til Politidirektoratet. Statsbudsjettet 2016.*
+
+Justis- og beredskapdeparementet og Forsvarsdepartementet (2016): *Forsvarets bistand til politiet. Rapport fra arbeidsgruppen for utarbeiding av forslag til ny bistandsinstruks* (Røksundrapporten).
+
+Justis- og politidepartementet (2011): *Regjeringens handlingsplan mot økonomisk kriminalitet.*
+
+Kripos (2012): *Trusselvurdering mobile vinningskriminelle.*
+
+Kripos (2014): *Den organiserte kriminaliteten i Norge – Trender og utviklingstrekk 2015.*
+
+Kripos (2014): *Trendrapport 2015. Organisert og annen alvorlig kriminalitet i Norge*
+
+Kripos (2015): *Trendrapport 2016. Organisert og annen alvorlig kriminalitet i Norge*
+
+Kripos (2015) Voldtektsituasjonen i Norge 2015
+
+Kripos (2015): *Årsrapport 2014.*
+
+Kripos (2016): *Årsrapport 2015.*
+
+Kripos (2016) *Norsk politi i Schengen 1996–2016*
+
+Kripos (2016): *Strategi 2016–2025.*
+
+Meld. St. 7 (2010–2011): *Kampen mot organisert kriminalitet – en felles innsats.* Justis- og politidepartementet.
+
+Meld. St. 21 (2011–2012): *Norsk klimapolitikk. Klima- og miljødepartementet.*
+
+Meld. St. 29 (2011–2012): *Samfunnssikkerhet.* Justis- og beredskapsdepartementet.
+
+Meld. St. 12 (2012–2013): *Perspektivmeldingen*
+
+Meld. St. 21 (2012–2013): *Terrorberedskap. Oppfølging av NOU 2012: 14 Rapport fra 22. juli-kommisjonen.* Justis- og beredskapsdepartementet
+
+Meld. St. 18 (2014–2015). *Konsentrasjon for kvalitet – Strukturreform i universitets- og høyskolesektoren.* Kunnskapsdepartementet.
+
+Meld. St. 37 (2014–2015) *Globale sikkerhetsutfordringer i utenrikspolitikken. Terrorisme, organisert kriminalitet, piratvirksomhet og sikkerhetsutfordringer i det digitale rom*
+
+Meld. St. 40 (2015–2016): *Trafikksikkerhetsarbeidet – samordning og organisering.* Samferdselsdepartementet.
+
+Meld. St. 10 (2016–2017): *Risiko i et trygt samfunn- samfunnssikkerhet.* Justis- og beredskapsdepartementet.
+
+Meld. St. 26 (2012–2013). *Nasjonal transportplan 2014–2023.* Samferdselsdepartementet.
+
+Meld. St. 29 (2016–2017): *Perspektivmeldingen*
+
+Nasjonal tiltaksplan for trafikksikkerhet på veg 2014–2017.
+
+NOKUT (2017): *Studiebarometeret 2016.* Rapport 2–2017
+
+NOU 1970: *Innstilling om den sentrale politiadministrasjon*. (Aulie-utvalget). Justis- og politidepartementet.
+
+NOU 1981: 35 *Politiets rolle i samfunnet – Delutredning I.* Justis- og politidepartementet.
+
+NOU 1986: 12 *Datateknikk og samfunnets sårbarhet.* Forbruker- og administrasjonsdepartementet.
+
+NOU 1987: 27 *Politiets rolle i samfunnet – Delutredning II.* Justis- og politidepartementet.
+
+NOU 1989: 5 *En bedre organisert stat.* Forbruker- og administrasjonsdepartementet.
+
+NOU 1997: 15 *Etterforskingsmetoder for bekjempelse av kriminalitet.* Justis- og politidepartementet.
+
+NOU 1998: 4 *Politiets overvåkningstjeneste*. Justis og politidepartementet.
+
+NOU 1999: 10 *En bedre organisert politi- og lensmannsetat.* Justis- og politidepartementet.
+
+NOU 2000: 24 *Et sårbart samfunn Utfordringer for sikkerhets- og beredskapsarbeidet i samfunnet.* Justis- og politidepartementet.
+
+NOU 2001: 31 *Når ulykken er ute. Om organiseringen av operative rednings- og beredskapsressurser.* Justis- og politidepartementet.
+
+NOU 2003: 21 *Kriminalitetsbekjempelse og personvern – politiets og påtalemyndighetens behandling av opplysninger.* Justis- og politidepartementet.
+
+NOU 2004: 6 *Mellom effektivitet og personvern. Politimetoder i forebyggende øyemed.* Justis- og politidepartementet.
+
+NOU 2006: 6 *Når sikkerheten er viktigst. Beskyttelse av landets kritiske infrastrukturer og kritiske samfunnsfunksjoner.* Justis- og politidepartementet.
+
+NOU 2006: 19 *Akademisk frihet. Individuelle rettigheter og institusjonelle styringsbehov.* Kunnskapsdepartementet.
+
+NOU 2007: 2 *Lovtiltak mot datakriminalitet Delutredning II.* Justis- og politidepartementet.
+
+NOU 2008: 4 *Fra ord til handling.* Justis- og politidepartementet.
+
+NOU 2009: 12 *Et ansvarlig politi. Åpenhet, kontroll og læring.* Justis- og politidepartementet.
+
+NOU 2012: 14 *Rapport fra 22. juli-kommisjonen.* Statsministerens kontor.
+
+NOU 2013: 5 *Når det virkelig gjelder… Effektiv organisering av statlige forsterkningsressurser.* Justis- og beredskapsdepartementet.
+
+NOU 2013: 9 *Ett politi- rustet til å møte fremtidens utfordringer. Politianalysen.* Justis- og beredskapsdepartementet.
+
+NOU 2015: 13 *Digital sårbarhet – sikkert samfunn.* Justis- og beredskapsdepartementet.
+
+NOU 2016: 3 *Ved et vendepunkt: Fra ressursøkonomi til kunnskapsøkonomi.* Finansdepartementet.
+
+NOU 2016: 19 *Samhandling for sikkerhet. Beskyttelse av grunnleggende samfunnsfunksjoner i en omskiftelig tid.* Forsvarsdepartementet.
+
+NOU 2016: 24 *Ny straffeprosesslov*. Justis- og beredskapsdepartementet.
+
+NOU 2017: 5 *En påtalemyndighet for fremtiden*. Påtaleanalysen. Justis- og beredskapsdepartementet.
+
+NOU 2017: 5 *En påtalemyndighet for fremtiden*. Påtaleanalysen. Vedlegg 1 *Påtalemyndighetens behandling av økonomiske straffesaker*. Justis- og beredskapsdepartementet.
+
+NOU 2017: 9 *Politi og bevæpning- Legalitet, nødvendighet, forholdsmessighet og ansvarlighet.* Justis- og beredskapsdepartementet.
+
+Næringslivets Sikkerhetsråd (2016): *Mørketallsundersøkelsen 2016 – informasjonssikkerhet, personvern og datakriminalitet*
+
+Oslo politidistrikt (2013): *Program for oppfølging etter 22/7 – evaluering av OPD*.
+
+Ot.prp. nr. 35 (1978–79): *Om lov om rettergangsmåten i straffesaker (straffesaksloven).* Justis- og politidepartementet.
+
+Ot.prp. nr. 53 (1983–84): *Om lov om ikraftsetting og endring av den nye straffeprosesslov m. m.* Justis- og politidepartementet.
+
+Ot.prp. nr. 83 (1992–93): *Om lov om politiet (politiloven).* Justis- og politidepartementet.
+
+Ot.prp. nr. 22 (1994–95): *Om lov om politiet (politiloven).* Justis- og politidepartementet.
+
+Ot.prp. nr. 7 (1999–2000): *Om lov om endringer i politiloven (den sentrale politiledelsen*). Justis- og politidepartementet.
+
+Ot.prp. nr. 29 (2000–2001): *Om lov om endringer i politiloven (overvåkningstjenestens oppgaver m.v).* Justis- og politidepartementet.
+
+Ot.prp. nr. 79 (2003–2004): *Om lov om Universiteter og høyskoler.* Utdannings- og forskningsdepartementet.
+
+Ot.prp. nr. 67 (2006–2007): *Om lov om endring i lov 1.april nr.15 om universiteter og høyskoler.* Kunnskapsdepartementet.
+
+Ot.prp. nr. 108 (2008–2009): *Om lov om behandling av opplysninger i politiet og påtalemyndigheten (politiregisterloven).* Justis- og politidepartementet.
+
+Politidirektoratet (2003): *Utredning om Utrykningspolitiet.* Kleverud-utvalget.
+
+Politidirektoratet (2003): *Rapport om særorganenes fremtidige rolle og organisering.* Mikkelsen-utvalget (Særorganutvalget).
+
+Politidirektoratet (2008): *Politiet mot 2020. Bemannings- og kompetansebehov i politiet.*
+
+Politidirektoratet (2008). *Politiets beredskapssystem del II (PBS II): Håndbok for innsatspersonell.* POD publikasjon nr. 2008/1. Oslo: Politidirektoratet. (Unntatt offentlighet)
+
+Politidirektoratet (2010): *Resultatreformen – innkjøpsfunksjonen i politiet.*
+
+Politidirektoratet (2010): *Politiets behov for personell med annen kompetanse enn politihøgskole – Rapport fra arbeidsgruppe tilknyttet driftsanalyseprosjektet.*
+
+Politidirektoratet (2011): *PBS 1.Politiets beredskapssystem del 1. Retningslinjer for politiets beredskap.*
+
+Politidirektoratet (2012): *Politiet i det digitale samfunnet. En arbeidsgrupperapport om: Elektroniske spor, IKT-kriminalitet og politiarbeid på Internett.*
+
+Politidirektoratet (2012): *22.juli 2011. Evaluering av politiets innsats*.
+
+Politidirektoratet (2013): *Analyse av IKT-styringen i politi- og lensmannsetaten.*
+
+Politidirektoratet (2013): *Politiets omverdensanalyse.*
+
+Politidirektoratet (2013): *Rapport. Etterforskning i politiet.*
+
+Politidirektoratet (2014): *Strategi for informasjonssikkerhet* 02/2014
+
+Politidirektoratet (2014) *Datakrimstrategien.*
+
+Politidirektoratet (2014): *Styring av Politihøgskolen – utfordringer, dilemmaer og modeller.(Sefland-utvalget)*
+
+Politidirektoratet og Kripos (2015*) «Evaluering av politiets arbeid med seksuelle overgrep»*, januar 2015
+
+Politidirektoratet (2015): *Årsrapport 2014.*
+
+Politidirektoratet (2015): *Politiets omverdensanalyse.*
+
+Politidirektoratet (2015): *Ressursanalyse 2015. Utgifter og bemanning i politi- og lensmannsetaten.*
+
+Politidirektoratet (2015): *Politiets nasjonale innbyggerundersøkelse 2014.*
+
+Politidirektoratet (2015): *Overordnet nasjonal strategi for bekjempelse av datakriminalitet (datakrimstrategien).*
+
+Politidirektoratet (2016): *Politiets nasjonale innbyggerundersøkelse 2015.*
+
+Politidirektoratet (2016): *Disponeringsskriv 2016.*
+
+Politidirektoratet (2016): *Plan- og rammeskriv 2016.*
+
+Politidirektoratet (2016): *Årsrapport 2015.*
+
+Politidirektoratet (2016): *Strategiplan for polititjeneste på veg 2016–2019.*
+
+Politidirektoratet (2016): *Forslag til nye retningslinjer for Politireserven.* Oversendt Justis- og beredskapsdepartementet 30.juni 2016.
+
+Politidirektoratet (2016): *Rammer og retningslinjer for etablering av nye politidistrikter*
+
+Politidirektoratet (2016): *KVU-rapporten 2015: Konseptvalgutredning. Politiets nasjonale beredskap. Når nasjonen kaller.* (Unntatt offentlighet)
+
+Politidirektoratet (2016): *Rapport om etablering av et forvaltnings- og utviklingsapparat for etterforskningsfeltet (Etterforskningsløftet)*
+
+Politidirektoratet (2016): *Handlingsplan for løft av etterforskningsfeltet (Etterforskningsløftet)*
+
+Politidirektoratet (2017): *Disponeringsskriv 2017*
+
+Politidirektoratet (2017): *Politiets årsrapport 2016*
+
+Politidirektoratet (2017): *Politiets innbyggerundersøkelse 2016* – Ipsos.
+
+Politidirektoratet (2016): *Lønnsutvikling i politiet januar 2009 – januar 2016.*
+
+Politidirektoratet og Accenture (2010): *Evaluering av Politiets data- og materielltjeneste. Virksomhetsområde IKT.*
+
+Politiets utlendingsenhet (2016): *Hovedinstruks for politiets utlendingsinternat*
+
+Politiets sikkerhetstjeneste (2015): *Åpen trusselvurdering 2015.* Oslo.
+
+Politiets sikkerhetstjeneste (2017): *Trusselvurdering 2017.*
+
+Politiets utlendingsenhet (PU) (2013), Høringssvar til NOU 2013: 9 – politianalysen.
+
+Politihøgskolen (2017): *Strategi for 2017–2021*
+
+Politihøgskolen (2016): *Kvalitetsutvikling. Årsrapport 2015–2016.*
+
+Politihøgskolen (2016): *Politihøgskolens erfaringsrapporter for justissektorens innsats under øvelse Tyr 2016.*
+
+Prop. 61 LS (2014–2015): *Endringer i politiloven mv. (trygghet i hverdagen – nærpolitireformen)*. Justis- og beredskapsdepartementet.
+
+Prop. 151 S (2015–2016): *Kampkraft og bærekraft. Langtidsplan for forsvarssektoren.* Forsvarsdepartementet.
+
+Prop. 1 S (2016–2017)
+
+Regjeringen (Departementene) (2017): Strategi mot arbeidslivskriminalitet.
+
+Riksadvokaten (2004) Etterforsking og påtale av enkelte internasjonale forbrytelser.
+
+Riksadvokatens årsrapport 2016.
+
+Riksadvokaten (2015): *Analyser av dødsulykker og straffesaksbehandling i trafikksaker.*
+
+Riksadvokaten (2017): *Statsadvokatenes kvalitetsundersøkelse 2016 – voldtekt og mishandling av nærstående.*
+
+Riksadvokaten/Politidirektoratet (2015): *Vurdering av forslag om å tildele påtalemyndighet til Politiets utlendingsenhet*
+
+Riksadvokatens publikasjoner nr. 4/2015.
+
+SOU 2012:13: *En sammanhållen svensk polis – svenska offentliga utredninger*
+
+Statens vegvesen (2015): *Dybdeanalyser av dødsulykker i veitrafikken 2015.* Statens vegvesens rapporter nr.636.
+
+Statskonsult (2007): *Evaluering av Politiets utlendingsenhet.* Rapport 2007:26
+
+St.meld. nr. 22 (2000–2001): *Politireform 2000 – Et tryggere samfunn.* Justis- og politidepartementet.
+
+St.meld. nr. 17 (2001–2002): *Samfunnssikkerhet. Veien til et mindre sårbart samfunn.* Justis- og politidepartementet.
+
+St.meld. nr. 39 (2003–2004): *Samfunnssikkerhet og sivilt-militært samarbeid.* Justis- og politidepartementet.
+
+St.meld. nr. 42 (2004–2005): *Politiets rolle og oppgaver.* Justis- og politidepartementet.
+
+St.meld. nr. 22 (2007–2008): *Samfunnssikkerhet. Samvirke og samordning.* Justis- og politidepartementet.
+
+St.meld. nr. 40 (2015–2016) *Trafikksikkerhetsarbeidet – samordning og organisering*
+
+Statistisk sentralbyrå – ulike statistiske grunnlag/tabeller
+
+Statsministerens kontor (2013)*: Politisk plattform for en regjering utgått av Høyre og Fremskrittspartiet.* *Sundvolden-plattformen*. Statsministerens kontor.
+
+Teknologirådet og Datatilsynet (2016): *Personvern 2016 – tilstand og trender.*
+
+Teknologirådet (2002): *Trafikksikkerhet mot 2020.* Fra rådet til tinget nr.2.2002.
+
+Teknologirådet (2015): *Droner i politiets tjeneste.* Fra rådet til tinget nr.1.2014.
+
+Teknologirådet (2015): *Forutseende politi. Kan dataanalyser hjelpe politiet til å være på rett sted til rett tid?* (Rapport 04/2015)
+
+Transportøkonomisk Institutt (TØI) (2010): *Den norske verdsettingsstudien. Ulykke – Verdien av statistiske liv og beregning av ulykkens samfunnskostnader.* TØI rapport 1053C/2010
+
+Transportøkonomisk institutt (TØI) Elvik og Amundsen (2014). *Utvikling i oppdagelsesrisiko for trafikkforseelser.* TØI rapport 1361/2014.
+
+Transportøkonomisk institutt (TØI) Elvik og Høye (2015). *Hvor mye kan antall drepte og hardt skadde i trafikken reduseres?* TØI rapport 1417/2015.
+
+Transportøkonomisk institutt: *TØI-rapport 1299/2014*
+
+Transportøkonomisk institutt: *TØI-rapport 19376/2013*
+
+Transportøkonomis institutt (2015): *Trafikksikkerhetshåndboken.*
+
+Utrykningspolitiet (2016): Årsrapport UP.
+
+Økokrim (2015): *Trusselvurdering økonomisk kriminalitet og miljøkriminalitet 2015–2016.*
+
+Økokrim (2015) *Nasjonalt fagansvar.*
+
+Økokrim (2015): *Nasjonal veileder for informasjonsdeling mellom kontrolletatene, politiet og private, for å bekjempe kriminalitet.*
+
+**<u>Avis- og nettartikler</u>**
+
+Aftenposten (2013). Tidkrevende å be om innsyn hos Facebook. 28.august 2013. Hentet 14.april fra: http://www.aftenposten.no/norge/ --Tidkrevende-a-be-om-innsyn-hos-Facebook-110896b.html
+
+Aftenposten (2014). Politiet: For komplisert å etterforske, 19.september.
+
+Aftenposten (2014). Oslo Vei-sjefer slipper etterforskning – politiet synes saken er «for komplisert». 19.september 2014. Hentet 14.04.17 fra: http://www.aftenposten.no/osloby/ Oslo-Vei-sjefer-slipper-etterforskning--politiet-synes-saken-er-for-komplisert-79184b.html
+
+Bergens Tidende (2016). «Å frata noen førerretten på grunn av manglende edruelighet er ikke straff. Det er et forebyggende tiltak». 31. mars 2016.
+
+Dagens Næringsliv (2014). Henlegger bedragerisak, 19.mars.
+
+Dagens Næringsliv (2014). Henlagt av politiet, 24.september.
+
+Dagens Næringsliv (2015). Åpner for å overta Økokrim. 16.april 2015.
+
+Dagbladet (2017). Selvkjørende biler: Hundre Gøteborg-familier får selvkjørende biler, 13.januar. Hentet 25.04.17 fra: http://www.dagbladet.no/nyheter/hundre-goteborg-familier-far-selvkjorende-biler/66629586
+
+Dagbladet (2017). Tvangsretur: Overivrig returpraksis, *leder*. 22.april.
+
+Dagbladet (2017). UDI: Vet ikke hvor 4446 personer som ikke skal være i Norge befinner seg. 22.april.
+
+<u>New York Times (2017): Russian hacker sentenced to 27 years in credit cardcase. 21. april.</u>
+
+Dyrevernalliansen (2015): Dyrekrim – veien videre. Hentet 14.04.17 fra: https://www.dyrevern.no/politikk_samfunn/rettigheter_dyrepoliti/dyrekrim-veien-videre
+
+NorSIS (2017): ID-tyveri øker i antall og omfang. Hentet 15.04.17 fra: https://norsis.no/ id-tyveri-oker-antall-omfang/
+
+NRK (2016): Vil utvise utlendinger som var på kurs. 16.oktober. Hentet 15.04.17 fra: https://www.nrk.no/norge/vil-utvise- utlendinger-som-var-pa-kurs-1.13182089
+
+NRK (2017): «Politimestre slår alarm om budsjettet», 26. januar 2017.
+
+Politiforum (2016): -Tjener utlendingskontrollen hensikten? 19.august 2016. Hentet 15.04.17 fra: https://pf.no/no/nyheter/2016/august/ -+Tjener+utlendingskontrollen+ hensikten%3F.d25-T2JDYYE.ips
+
+TV2 (2016): Universitetsstudenten har måttet bevise at han er norsk over 30 ganger. 10.mai. Hentet 15.04.17 fra: http://www.tv2.no/a/ 8298886/
+
+**<u>Lover og forskrifter</u>**
+
+Forskrift 14. desember 2012 nr. 1227 om internasjonalt samarbeid i straffesaker.
+
+Justis- og beredskapsdepartementet og Forsvarsdepartementet (2015): *En beskrivelse av totalforsvaret i dag.*
+
+Lov 22. mai 1902 nr. 10 Almindelig borgerlig Straffelov (straffeloven).
+
+Lov 21.november 1952 nr.3 om tjenesteplikt i politiet (polititjenestepliktloven)
+
+Lov 18. juni 1965 nr. 04 om vegtrafikk (vegtrafikkloven).
+
+Lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker (straffeprosessloven).
+
+Lov 4. august 1995 nr. 53 om politiet (politiloven).
+
+Lov 20. mai 2005 nr. 28 om straff (straffeloven).
+
+Lov 1.april 2005 nr.15 om universiteter og høyskoler (universitets- og høyskoleloven).
+
+Forskrift 28. juni 1985 nr.1679 om ordningen av påtalemyndigheten *(Påtalinstruksen).*
+
+Forskrift 25. november 2005 nr.1330 om Politihøgskolens styre, oppgaver og virksomhet.
+
+Forskrift 21. desember 2005 nr.1576 om delvis innlemming av Politihøgskolen under lov 1.april 2005 nr. 15 om universiteter og høyskoler.
+
+Førordning (2014.1105) om utbildning til polisman
+
+**<u>Instrukser</u>**
+
+Justis- og beredskapsdepartementet (1990): *Alminnelig tjenesteinstruks for politiet. Politiinstruksen.*
+
+Justis- og beredskapsdepartementet (2016): *Hovedinstruks til Politidirektoratet* – om økonomi- og virksomhetsstyring i Politidirektoratet og Politi- og lensmannsetaten.
+
+Instruks for Kripos gitt av Politidirektoratet 11. mai 2005.
+
+Instruks for Politiets utlendingsenhet gitt av Politidirektoratet 1.juni 2005.
+
+Instrukser for politiets trafikktjeneste (GP-4027), gitt ved Politidirektoratet juni 2016.
+
+Politidirektoratet (2014): Etterretningsdoktrinen for politiet.
+
+Politidirektoratet (2011): Politiets beredskapssystem (PBS I).
+
+**<u>Rundskriv</u>**
+
+Politidirektoratet (2012): «Politiets arbeid med søknader om beskyttelse (asyl), identifisering og uttransportering av utlendinger etter utlendingsloven». Rundskriv 2012/05
+
+Brev fra Riksadvokaten «Effektivisering av etterforskning av økonomiske straffesaker», 1028/87 RM/SA
+
+Rundskriv fra Riksadvokaten «Mål og prioritering for straffesaksbehandling i 2012» Rundskriv nr. 1/2012
+
+Rundskriv fra Riksadvokaten «Krav til straffesaksbehandlingen i politiet og ved statsadvokatembetene». Rundskriv nr.2/2012
+
+Rundskriv fra Riksadvokaten «Mål og prioritering for straffesaksbehandling i 2013» Rundskriv nr. 1/2013
+
+Rundskriv fra Riksadvokaten «Mål og prioritering for straffesaksbehandling i 2014» Rundskriv nr. 1/2014
+
+Rundskriv fra Riksadvokaten «Mål og prioritering for straffesaksbehandling i 2015» Rundskriv nr. 1/2015
+
+Rundskriv fra Riksadvokaten «Mål og prioritering for straffesaksbehandling i 2016» Rundskriv nr. 1/2016
+
+Rundskriv fra Riksadvokaten «Mål og prioritering for straffesaksbehandling i 2017» Rundskriv nr. 1/2017
+
+Riksadvokaten (2015): «Analyse av dødsulykker og straffesaksbehandlingen i trafikksaker.» Riksadvokatens publikasjoner nr.4/2015
+
+**<u>Domsregister</u>**
+
+Rt. 2010. s. 1121
+
+Rt. 2013 s. 1254
+
+HR-2016–1857-A
+
+1.  **<u>\[\[vedlegg resett\]\]</u>**
+
+**<u>M</u><u>ø</u><u>teliste</u>**
+
+**<u>Utvalget og sekretariatet har hatt samtaler med:</u>**
+
+*<u>Utvalgsm</u><u>ø</u><u>te 1</u>*
+
+22\. august 2016
+
+«Etterforskningsløftet», ved fung. avdelingsdirektør (POD) Atle Roll Mathiesen
+
+«Politiets IKT-strategi», ved fung. avdelingsdirektør Wilfred Østgulen (POD)
+
+*<u>Utvalgsm</u><u>ø</u><u>te 2 </u>*
+
+29\. september 2016 **«Politiets organisering og historie», ved ass. Politidirektør Vidar Refvik.
+
+«Virksomhetsstyring», ved avdelingsdirektør (POD) Frede W. Hermansen.
+
+*<u>H</u><u>ø</u><u>ringsdag </u>*
+
+18\. oktober 2016 **Hans Sverre Sjøvold (Politimester Oslo politidistrikt), Trond Eirik Schea (Sjef ØKOKRIM), Morten Hojem Ervik (Sjef PU), Runar Karlsen (Sjef UP), Benedicte Bjørnland (Sjef PST), Nina Skarpenes (Rektor Politihgøskolen).
+
+*<u>Utvalgsm</u><u>ø</u><u>te 3 </u>*
+
+31\. oktober– **«Samfunnssikkerhet og beredskap», ved avdelingsdirektør (POD) Knut Smedsrud.
+
+1\. november 2016 ** «Om Kripos» ved Kripos-sjef Ketil Haukaas.
+
+«Om politifagavdelingen», ved avdelingsdirektør (POD) Kristin Kvigne.
+
+*<u>Politimesterm</u><u>ø</u><u>te </u>*
+
+23\. november 2016 **Kaare Songstad (Vest PD), Christine Fossen (Sør-Øst PD), Yngve Skovli (Møre og Romsdal PD), John Steven Hasseldal (Øst PD), Arne Hammer (Nordland PD), Johan Brekke (Innlandet PD), Ole B. Sæverud (Troms PD).
+
+*<u>Utvalgsm</u><u>ø</u><u>t</u><u>e 4 (5.</u><u>–</u><u>6. desember 2016)</u>*
+
+*<u>Personellorganisasjonene</u>*
+
+Norges politilederlag NPL, ved Geir Krogh, Wenche Bjørnegård og Tore Salvesen
+
+Parat, ved Unn Kristin Olsen og Anne Ammerud
+
+Norsk Tjenestemannslag NTL, ved Carl Marius Michelsen
+
+Politiets fellesforbund, ved Sigve Bolstad, Sven Arne Kjepso og Stein Nordahl Wilhelmsen
+
+Hovedverneombud i Politi og lensmannsetaten Audun Buseth
+
+Advokatforeningen, ved Arild Dyngeland, Marius Dietrichson, Arne Gunnar Aas og Aurora Geelmuyden
+
+*<u>Nasjonalt ID-senter </u>*
+
+ved Arne Isak Tveitan.
+
+*<u>Politidirektoratet, Etterforskningsl</u><u>ø</u><u>ftet </u>*
+
+ved Atle Roll Mathiesen, Harald Bøhler og Mette Tuhus. 6.desember 2016.
+
+*<u>Utvalgsm</u><u>ø</u><u>te 6</u>*
+
+4\. januar 2017 *Professor BI* Tom Colbjørnsen.
+
+6\. januar 2017 *Kripos* ved hele ledergruppen.
+
+**<u>Deler av utvalget og sekretariatet har hatt samtaler med:</u>**
+
+19\. august 2016 *Oslo Politidistrikt,* ved Hans Sverre Sjøvold og Ole Vidar Dahl.
+
+16\. september 2016 *Riksadvokaten* ved Tor-Aksel Busch, Knut Erik Sæther, Kjersti A. Kvande og Harald Strand.
+
+20\. september 2016 *Politiets Utlendingsenhet (PU),* ved Morten H. Ervik, Bjørn Pettersen, Svein Arne Hansen og Hege Naustdal.
+
+21\. september 2016 *Utrykningspolitiet (UP)* ved Runar Karlsen, Roar S. Larsen og Marianne Farnes.
+
+22\. september 2016 *Politidirektøren* ved Odd Reidar Humlegård og Vidar Refvik.
+
+23\. september 2016 *Økokrim* ved Trond Eirik Schea, Hedvig Øhren og Kristin Solberg.
+
+27\. september 2016 *Kripos* ved Ketil Haukaas, Roar Skuggedal og Hilde Bjørnstad.
+
+27\. september 2016 *Politihøgskolen* ved Nina Skarpenes, Tor Tanke Holm, Eli Vogel Hovde og Jorunn Lindholdt.
+
+14.oktober 2016 *Politiets sikkerhetstjeneste (PST)* ved Benedicte Bjørnland.
+
+3\. november 2016 *Statens vegvesen* ved Guro Ranes og Ingrid Lutnes.
+
+3\. november 2016 *Utvalgsleder Politianalysen* Arne Røksund.
+
+4\. november 2016 *Direktoratet for sikkerhet og beredskap (DSB)* Per Brekke.
+
+7\. november 2016 *Finanstilsynet* ved Morten Baltzersen, Anne M Bellamy og Cecilie Ask.
+
+8\. november 2016 *Nasjonal Sikkerhetsmyndighet (NSM)* ved Frode Skaarnes, Hans Chr. Pretorius og Anders Bjønnes.
+
+11\. november 2016 *Kriminalomsorgsdirektoratet* ved Tom A. Enger, Marielle E. Gunnarsen, Håvard S. Antonsen.
+
+15\. november 2016 *Skatteetaten* ved Hans Chr. Holthe.
+
+18\. november 2016 *Direktoratet for forvaltning og IKT (DIFI)* ved Steffen Sutorius.
+
+21\. november 2016 *Datatilsynet* ved Bjørn Erik Thon og Jørgen Skorstad.
+
+9\. desember 2016 *Professor BI* Tom Colbjørnsen.
+
+9\. desember 2016 *Utlendingsdirektoratet (UDI)* ved Kaja Gade Kjerschow, John Olav Frantzevold, m.fl.
+
+17\. januar 2017 *Nordland Politidistrikt* ved Tone Vangen.
+
+17\. januar 2017 *Politihøgskolen* ved Nina Skarpenes, Tor Tanke Holm og Jorun Lindholdt.
+
+8\. februar 2017 *Agder politidistrikt* ved Kirsten Lundeberg og Arne Sundvoll.
+
+13\. mars 2017 *Riksadvokaten* ved Thor Aksel Busch m/ledergruppe.
+
+16\. mars 2017 *Politidirektoratet* ved Frede Hermansen.
+
+**<u>Sekretariatet har hatt samtaler med:</u>**
+
+3\. oktober 2016 *Politidirektoratet, Int.nasjonal seksjon* ved John Ståle Stamnes.
+
+4\. oktober 2016 *Nasjonalt ID-senter* ved Arne Isak Tveitan og Wenche Bjørnegaard.
+
+6\. oktober 2016 *Øst politidistrikt* ved John Steven Hasseldal.
+
+11\. oktober 2016 *Sør-vest politidistrikt* ved Hans Vik.
+
+17\. oktober 2016 *Vest Politidistrikt* ved Kaare Songstad og Olav Valland.
+
+20\. oktober 2016 *Finnmark politidistrikt* ved Ellen Kathrine Hætta og Trond Erik Nilsen.
+
+26\. oktober 2016 *Transparency International* ved Guro Slettemark og Tor Dølvik.
+
+2\. november 2016 *Tolletaten* ved Eivind Kloster Jensen.
+
+16\. november 2016 *Trygg Trafikk* ved Jan Johansen, Torild Grytli og Miriam Kvanvik.
+
+18\. november 2016 *Politidirektoratet, (Etterforskningsløftet)* ved Harald Bøhler og Mette Bull-Tuhus.
+
+30\. november 2016 *Politidirektoratet,* Analyseseksjonen ved Espen Frøyland, Øyvind Foldal og Jostein Bakke (Oslo politidistrikt).
+
+2\. desember 2016 *DIFI, Nærpolitievalueringen* ved Oddbjørg Bakli og Ingunn Botheim.
+
+19\. januar 2017 *Møre og Romsdal politidistrikt* ved Ingar Olav Bøen.
+
+2\. februar 2017 *Justis- og beredskapsdepartementet,* Samfunnssikkerhetsavdelingen, ved Sveinung Torgersen m.fl.
+
+10\. februar 2017 *Trøndelag politidistrikt* ved Nils Kristian Moe.
+
+28\. februar 2017 *Teknologirådet* ved Tore Tennøe og Robindra Prabhu.
+
+2\. mars 2017 *Oslo politidistrikt* ved Bjørn Vandvik.
+
+30\. mars 2017 *Riksadvokaten* ved Tor-Aksel Busch.
+
+1.  **<u>\[\[vedlegg resett\]\]</u>**
+
+**<u>Skriftlige innspill</u>**
+
+**<u>Fra s</u><u>æ</u><u>rorganene</u>**
+
+*<u>Dato:</u>*
+
+18\. august 2016 *Kripos*
+
+19\. august 2016 *Politihøgskolen (PHS)*
+
+21\. august 2016 *ØKOKRIM*
+
+31\. august 2016 *Kripos*
+
+7\. september 2016 *ØKOKRIM*
+
+8\. september 2016 *Utrykningspolitiet (UP)*
+
+9\. september 2016 *Kripos*
+
+20\. september 2016 *Politihøgskolen (PHS)*
+
+23\. september 2016 *Kripos*
+
+27\. september 2016 *Politiets utlendingsenhet (PU)*
+
+28\. september 2016 *Politihøgskolen (PHS)*
+
+3\. oktober 2016 *ØKOKRIM*
+
+30\. desember 2016 *Kripos*
+
+4\. januar 2017 *ØKOKRIM*
+
+16\. januar 2017 *Politihøgskolen (PHS)*
+
+10\. februar 2017 *Utrykningspolitiet (UP)*
+
+10\. februar 2017 *ØKOKRIM*
+
+13\. februar 2017 *Politiets utlendingsenhet (PU)*
+
+23\. mars 2017 *Kripos*
+
+5\. april 2017 *Politiets utlendingsenhet (PU)*
+
+5\. april 2017 *Utrykningspolitiet (UP)*
+
+5\. april 2017 *Kripos*
+
+7\. april 2017 *Kripos*
+
+11\. april 2017 *Politiets utlendingsenhet (PU)*
+
+19\. april 2017 *Politihøgskolen (PHS)*
+
+21\. april 2017 *Politihøgskolen (PHS)*
+
+21\. april 2017 *ØKOKRIM*
+
+21\. april 2017 *Kripos*
+
+25\. april 2017 *ØKOKRIM*
+
+25\. april 2017 *Politiets utlendingsenhet (PU)*
+
+26\. april 2017 *Kripos*
+
+**<u>Fra kontrolletater og andre interessenter</u>**
+
+*<u>Dato:</u>*
+
+2\. september 2016 *Nasjonale bistandsressurser*, ved Laila Sølvberg Aksnes-Øystese (Seniorkonsulent)
+
+16\. november 2016 *Trygg Trafikk*, ved Miriam Kvanvik (Seniorrådgiver Trygg Trafikk) og Jan Johansen (direktør).
+
+3\. januar 2017 *Kriminalomsorgsdirektoratatet (KDI)*, ved Marianne Vollan (direktør) og Jan-Erik Sandlie (assisterende direktør).
+
+4\. januar 2017 *Konkurransetilsynet*, ved Svenn Wold Gaulen (fungerende etterforskningsdirektør).
+
+13\. januar 2017 *Direktoratet for arbeidstilsynet*, ved Gry singsaas (avdelingsdirektør, Lov og regelverk) Marion Ramberghaug (seniorrådgiver, Lov og regelverk).
+
+13\. januar 2017 *Fiskeridirektoratet*, ved Liv Holmefjord (fiskeridirektør), Jens Chr Holm (direktør).
+
+15\. januar 2017 *Miljødirektoratet*, ved Bjørn Bjørnstad (avdelingsdirektør Tilsyn- og miljødataavdelingen).
+
+26\. januar 2017 *Arbeids- og velferdsdirektoratet (NAV)*, ved Sigrun Vågeng (arbeids- og velferdsdirektør) og Kjersti Monland (ytelsesdirektør).
+
+13\. februar 2017 *Statens sivilrettsforvaltning*, Kristina Kjeverud (avdelingsdirektør) og Inger Myhr (fagdirektør).
+
+7\. mars 2017 *Kystverket*, ved Kirsti Slotsvik (kystdirektør), Johan Marius Ly (beredskapsdirektør).
+
+1.  **<u>\[\[vedlegg resett\]\]</u>**
+
+**<u>Effekter av modellforslag </u><u>–</u><u> samfunns</u><u>ø</u><u>konomisk anal</u><u>y</u><u>se</u>**
+
+Hensikten med denne samfunnsøkonomiske analysen er å vurdere i hvilken grad de ulike modellene angitt i kapittel 15 er samfunnsøkonomisk lønnsomme, samt å kunne rangere og prioritere mellom modellene. I rundskriv R-109/2014 fra Finansdepartementet skilles det mellom ulike typer samfunnsøkonomiske analyser. Denne analysen er en kostnadsvirkningsanalyse, som innebærer at modellene ikke rangeres etter prissatte nytte- og kostnadsvirkninger alene. De ikke-prissatte, kvalitative virkningene veier tungt i den samlede vurderingen.
+
+Figur 4.1 oppsummerer virkningene som inngår i analysen.
+
+**<u>\[:figur:figX-X.jpg\]</u>**
+
+1.  <u>Virkninger som inngår i den samfunnsøkonomiske analysen</u>
+
+Virkningene sammenliknes med nullalternativet, som er dagens situasjon, der ingen av tiltakene er innført. Nullalternativet viderefører dagens organisering av og oppgavefordeling til særorganene. Politiet er inne i et omfattende reformarbeid med en rekke utviklingsprosjekt som omfatter både støtte- og fagfunksjoner. Antatte gevinster fra disse tiltakene er forsøkt hensyntatt i nullalternativet.
+
+Tabell 4.1 viser samlet vurdering av de ulike modellene.
+
+1.  <u>Virkninger av modellene. Sammenliknet med nullalternativet. Alle tall i nåverdi i mill. kroner i perioden 2018–2038. 2016-kroner.</u>
+
+|  |  |  |  |
+|----|----|----|----|
+|  | <u>Modell 1</u> | <u>Modell 2 </u> | <u>Modell 3 </u> |
+|  |  |  |  |
+| *Prissatte nyttevirkninger* |  |  |  |
+| Reduserte lønns- og personalrelaterte driftskostnader | <u>0</u> | <u>192</u> | <u>192</u> |
+| *Prissatte kostnadsvirkninger* |  |  |  |
+| Oppbemanning støttefunksjoner til nasjonale beredskapsressurser | <u>0</u> | <u>–66</u> | <u>0</u> |
+| Personellrelaterte omstillingskostnader | <u>0</u> | <u>–25</u> | <u>–25</u> |
+| Implementeringskostnader |  | <u>–14</u> | <u>–20</u> |
+|  |  |  |  |
+| Omstillingskostnader ved flytting av miljøkrimavdeling i Økokrim til Trøndelag politidistrikt |  | <u>–20</u> | <u>–20</u> |
+|  |  |  |  |
+| Samlet nåverdi | <u>0</u> | <u>67</u> | <u>127</u> |
+| *Ikke-prissatte nyttevirkninger* |  |  |  |
+| Mer fleksibel og effektiv kapasitetsutnyttelse av politiressurser | <u>0</u> | <u>+++</u> | <u>+++</u> |
+| Mer helhetlig og effektiv kriminalitetsbekjempelse | <u>0/+</u> | <u>++++</u> | <u>+++</u> |
+| Styrket kompetanseutvikling og -deling | <u>0</u> | <u>++</u> | <u>+/++</u> |
+| Styrkede forutsetninger for bedre styring | <u>0</u> | <u>+++</u> | <u>++/+++</u> |
+| Styrket nasjonal beredskap | <u>0/+</u> | <u>+++</u> | <u>++</u> |
+| Reduserte EBA-kostnader | <u>0</u> | <u>+</u> | <u>+</u> |
+| *Ikke-prissatte kostnadsvirkninger* |  |  |  |
+| Produktivitetstap i omstillingsperioden | <u>0</u> | <u>- -</u> | <u>- -/- - -</u> |
+|  |  |  |  |
+| Redusert kapasitet og kompetanse i en mellomperiode ved flytting av miljøkrimavdeling i Økokrim til Trøndelag politidistrikt | <u>0</u> | <u>- -</u> | <u>- -</u> |
+|  |  |  |  |
+| Rangering | <u>3</u> | <u>1</u> | <u>2</u> |
+|  |  |  |  |
+
+1.  **<u>Spesifisering av nytte- og kostnadsvirkninger</u>**
+
+Hver virkning innledes av en kort beskrivelse av mål og/eller problem som oppsummerer endringsbehovet og som utgjør konteksten som virkningene vurderes opp imot. Nytte- og kostnadsvirkningene er forsøkt verdsatt i kroner så langt det er mulig, forsvarlig og hensiktsmessig.
+
+Verdsettingen av de ulike modellene er basert på forhold det finnes dekning for i utvalgets modellgjennomgang. Utvalgets hovedanliggende har vært å foreta en prinsipiell vurdering av ulike organisasjonsmodeller, herunder fordeling av roller, ansvar og oppgaver mellom ulike nivåer og enheter. En omorganisering kan gjennomføres på ulike måter, med tilhørende variasjon i omstillingsbehovet. Utvalget har ikke tatt stilling til bestemte implementerings- og omstillingsløp. Dette innebærer at de prissatte virkningene nødvendigvis ikke fanger opp den fulle bredden av økonomiske og administrative kostnader som vil kunne følge av en omorganisering. Det er i tillegg enkelte prisvirkninger som vurderes kvalitativt som følge av høy usikkerhet.
+
+1.  **<u>Prissatte nyttevirkninger</u>**[^530]
+
+De største kostnadsdrivende komponentene til særorganene er personellkostnader og kostnader til eiendom, bygg og anlegg (EBA-kostnader), som til sammen utgjør om lag 85 prosent av særorganenes driftsutgifter. EBA-kostnader er grunnet høy usikkerhet ikke prissatt, men vurderes overordnet under ikke-prissatte virkninger. Virkninger knyttet til personellkostnader prissettes, men er av et relativt begrenset omfang. Dette er dels som følge av at modellforslagene i hovedsak innebærer organisatoriske endringer, hvor det flyttes, snarere enn endres på særorganenes ressursbruk, og dels som følge av allerede vedtatte effektiviseringstiltak i politiet som også omfatter særorganenes støttefunksjoner.
+
+Det er vurdert om modellforslagene legger til rette for redusert duplisering av funksjoner, herunder materiell- og personellressurser. I den forbindelse har ID-området blitt gjennomgått særskilt med en overordnet vurdering av PUs og Kripos’ kompetanse og kapasitet. Selv om det er oppgaver som tilsynelatende tangerer hverandre, er det ikke funnet holdepunkter for vektig ineffektivitet med dagens organisering. Det understrekes at Nasjonalt ID-senter (NID) ikke er del av særorganutvalgets mandat. I det følgende vurderes gevinster knyttet til reduserte lønns- og personalrelaterte driftskostnader.
+
+1.  **<u>Reduserte l</u><u>ø</u><u>nns- og personalrelaterte driftskostnader</u>**
+
+Reduserte lønns- og personalrelaterte driftskostnader kan realiseres dels som følge av reduksjon i antall virksomheter med tilhørende reduksjon i ledelses- og administrasjonsbehov, og dels som følge av at resterende enheter blir større i absolutte termer med potensial for stordriftsfordeler.
+
+*<u>Frigj</u><u>ø</u><u>ring av </u><u>å</u><u>rsverk gjennom reduksjon i antall virksomheter</u>*
+
+Færre enheter ventes å gi en ressursbesparelse knyttet til redusert årsverksbehov for enkelte ledelses-, stabs-, og administrasjonsfunksjoner. I modell 2 og 3 overføres UPs og PUs oppgaver til politidistriktene, og UP og PU opphører som selvstendige organisatoriske enheter. Dette ventes å redusere årsverksbehovet innenfor enkelte ledelses-, stabs- og administrasjonsfunksjoner.
+
+*<u>Stordriftsfordeler</u>*

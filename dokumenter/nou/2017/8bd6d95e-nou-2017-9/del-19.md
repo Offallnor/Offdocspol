@@ -1,1047 +1,236 @@
-# NOU 2017: 9, del 19 av 25 (side 208–219)
+# NOU 2017: 9, del 19 av 24
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2017/8bd6d95e-nou-2017-9.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2017-9/id2545750/
 - Original-PDF: https://www.regjeringen.no/contentassets/1a1e793002264d9cb5b940e673622984/no/pdfs/nou201720170009000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 15 tabeller, 42 figurer, 158 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 208]
-
-208
-
-Kapittel 9
-
-NOU 2017: 9
-Politi og bevæpning
-
-disse ikke begrunnes i konkrete trusselvurderinger eller risikovurderinger. Det er flere problematiske sider ved dette, blant annet er det vanskelig
-å gjennomføre i praksis. Videre skal ikke bevæpning følge personer, men det skal følge av tjenesten.
-Det bør ikke lages modeller som ikke tar hensyn til det operative politiarbeidets natur, hvor det
-ofte er tilfeldigheter som avgjør hvilken patrulje
-som er først på stedet. Utvalget ser det som en fordel at flest mulig følger samme bevæpningsordning, både av praktiske og prinsipielle årsaker.
-Utvalget vil ikke anbefale differensiering
-basert på innsatskategori.
-
-9.16.1 Differensiering ved forhøyet
-trusselbilde
-Dersom det skulle være behov for en forsiktig
-heving av beredskapen ved et forhøyet trusselbilde, kan bevæpning av kun IP3-patruljer vurderes dersom trusselen er rettet mot spesielle objekter eller områder. Argumentet kan da være at IP3
-er bedre egnet til å håndtere skarpe situasjoner
-enn den ordinære IP4-styrken. I tillegg vil dette
-medføre en mellomløsning mellom dagens ordning og generell bevæpning av alt innsatspersonell. Hensiktsmessigheten ved en slik løsning vil
-imidlertid avhenge av det foreliggende trusselbildet. Dersom trusselen er rettet mot politiet selv,
-kan det hevdes utfra et HMS-perspektiv at de
-patruljene som er best trent og/eller best egnet til
-ivareta egensikkerhet, er de som minst trenger
-dette maktmiddelet. Dersom en slik differensiert
-bevæpning, på bakgrunn av kompetanse og IPnivåer, begrunnes med at politiet er et utsatt mål
-(slik det var under den midlertidige bevæpningen,
-jf. kapittel 7), kan en slik ordning sies å frata det
-ordinære uniformerte politi muligheten til å ivareta egensikkerheten ved bruk av våpen. Med
-mindre en eventuell trusselvurdering kan bidra til
-å skille trusselen mellom ulike personellkategorier synes et slikt skille på IP-kategorier uhensiktsmessig og det vil kunne medføre høyere
-risiko for de som er ubevæpnet.
-9.16.2 Bevæpning av enkelte IP3-patruljer
-Utvalget har vurdert en modell med utgangspunkt
-i dagens ordning, der enkelte IP3-mannskaper på
-vakt til enhver tid i alle politidistrikter bærer
-våpen permanent. Utvalget er kjent med at Oslo
-politidistrikt praktiserer en slik ordning. Denne
-ordningen er omhandlet i vedlegg 3 og i kapittel 5.
-
-Utvalget synes det er vanskelig å se at bevæpning av enkelte IP-mannskaper vil gi merverdi i
-forhold til dagens ordning. Den ekstra innsatsevnen disse ressursene vil kunne ha ved å være
-bevæpnet, utover det de har i kraft av sin kompetanse og allerede tilgjengelig utstyr (herunder
-fremskutt lagring i bilen), er relevant kun dersom
-de er avskåret fra våpen i bil og samtidig utsettes
-for en terrorhendelse eller annen situasjon som
-krever umiddelbar tilgang på skytevåpen. Sannsynligheten for dette vurderes til å være svært
-liten. I tillegg er dekningsgraden av IP3-patruljer
-relativt lav sett opp mot store geografiske områder i politidistriktene. Spesielt i politidistrikter
-med store avstander vil det derfor være tilfeldigheter som avgjør om en spesifikk IP3-patrulje er
-den som er nærmest. Det gir dermed liten beredskapsmessig gevinst å bevæpne disse patruljene.
-Utvalget mener en slik ordning ikke kan begrunnes ut fra samfunns- og kriminalitetsbildet, eller
-med at det vil medføre noen reell forbedring av
-grunnberedskapen. Et slikt tiltak framstår primært som symbolsk, og utvalget vurderer at det
-verken er nødvendig eller forholdsmessig.
-
-9.17 Andre vurderinger
-9.17.1 Mulighet for oppjustering av
-beredskap ved behov
-Trusselbildet har variert historisk og det kan
-endre seg igjen. Politiets tiltak må være fleksible
-og kunne tilpasses slike endringer. Dersom bildet
-skulle forandres vesentlig, vil FKTS utarbeide en
-oppdatert trusselvurdering. Da vil det være behov
-for å vurdere hvilke tiltak som bør iverksettes for
-å ivareta nødvendig politiberedskap. Basert på
-utredningens evaluering av den midlertidige
-bevæpningen (kapittel 7) og de problematiske
-sidene ved denne, ser utvalget behov for å vurdere hva som bør gjøres annerledes dersom en
-slik periode skulle oppstå igjen.
-Bevæpningsutvalget ser behov for å ha flere
-alternative tiltak å iverksette ved et forhøyet trusselbilde enn det som har vært benyttet til nå. Det
-kan være nødvendig å heve beredskapen noe uten
-å iverksette generell bevæpning av alt innsatspersonell. Avhengig av den konkrete trusselen vil det
-være mulig å iverksette differensiert bevæpning
-som omtalt tidligere, f.eks. ved utsatte objekter
-eller ved definerte geografiske områder. Det er
-imidlertid ofte vanskelig å konkretisere trusselen
-slik at denne type differensiering er mulig. Det
-kan være behov for å iverksette mer generell
-heving av beredskapen. Som vi har vært inne på,
-
-[Side 209]
-
-NOU 2017: 9
-Politi og bevæpning
-
-vil etterretning, forebygging og en generell
-økning av bemanning være det mest hensiktsmessige tiltaket i den sammenheng. Det kan også bli
-vurdert, som følge av en konkret endring i trusselbildet, at tjenestepersonene bør ha lettere tilgang
-på skytevåpen enn ved fremskutt lagring. En tidsavgrenset ordning der tjenestepersonene bærer
-våpen og ammunisjon adskilt, vil kunne være et
-nytt beredskapsnivå, som ligger under nivået der
-våpen bæres ladd. Tjenestepersonen må ved en
-slik ordning gjennomføre noen flere håndgrep før
-våpenet er klart til bruk enn ved generell bevæpning. Beredskapsnivået er med dette høyere enn
-ved fremskutt lagring i bil fordi tjenestepersonene
-bærer skytevåpenet på seg til enhver tid.
-Utvalget mener en slik ordning kan vurderes i
-framtiden dersom det oppstår en tidsavgrenset
-situasjon med et økt trusselnivå hvor politiet er et
-utpekt mål, slik det var under den midlertidige
-bevæpningen. Hensiktsmessigheten vil avhenge
-av hvilken trussel tiltaket er ment å svare på.
-Utvalget vil blant annet peke på at sammenlignet
-med å bære ladd våpen, gir dette mindre risiko for
-vådeskudd og faren for å bli fratatt ladd våpen
-reduseres. Ordningen sikrer også mer operasjonell kontroll ettersom det må innhentes bevæpningsordre før skytevåpen kan lades.
-Utvalget vurderer imidlertid at en slik ordning
-kan medføre at politiet oftere enn med dagens
-ordning vil bruke våpen, samt at våpenet brukes
-for raskt, uten nødvendig plan, styring/kontroll,
-back-up, verneutstyr, notoritet rundt beslutning
-osv. Det vil også ligge et større og tyngre ansvar
-på den enkelte tjenesteperson. Derfor skal en slik
-ordning kun vurderes som et ekstraordinært tiltak og som et alternativ til generell bevæpning, og
-ikke som et alternativ til fremskutt lagring.
-Det er videre viktig å understreke at en slik
-ordning er å anse som bevæpning. Dette omtales i
-Rapport av 13. september 2013 om ny våpeninstruks for politiet – Innstilling fra arbeidsgruppe til
-vurdering av behovet for å endre eller supplere gjeldende våpeninstruks for politiet side, 80:6
-Arbeidsgruppen legger derfor til grunn at
-bevæpning med skytevåpen har skjedd i de tilfeller hvor tjenestepersonen i anledning tjenesten har fjernet våpenet fra den ordinære
-eller fremskutte lagringen, uavhengig av om
-våpenet lades eller ammunisjon medbringes.
-6
-
-https://www.regjeringen.no/contentassets/
-8012986965084af0a78624e31892f780/
-ny_vaapeninstruks_for_politiet-rapport.pdf
-
-209
-
-Kapittel 9
-
-9.17.2 Elektrosjokkvåpen
-Utvalget har også gjort en vurdering av innføring
-av elektrosjokkvåpen7 i norsk politi. Dette er et
-våpen som potensielt kunne ha gitt et annet utfall i
-enkelte situasjoner (se blant annet drøfting i kapittel 8 om erfaringer fra andre land). Utvalget vurderer at elektrosjokkvåpen kan ivareta prinsippet
-om nødvendighet og forholdsmessighet i potensielt risikofylte hendelser, hvor bevæpning eller
-bruk av skytevåpen ikke klart er påkrevet.
-Gjennom arbeidet med denne utredningen har
-det kommet frem at politiet opplever at manglende skytevåpen i noen situasjoner medfører
-utrygghet. Det gjelder spesielt situasjoner der tjenestepersonene er avskåret fra patruljekjøretøyet
-og skytevåpenet som er lagret der. Det kan handle
-om situasjoner der det ikke er informasjon i forkant som indikerer behov for skytevåpen og tjenestepersonene møter noe mer alvorlig enn det de
-forventet ut fra foreliggende informasjon. Bevæpningsutvalget har forståelse for at det kan oppstå
-situasjoner hvor bruk av pepperspray og batong
-krever uhensiktsmessig fysisk nærhet til involverte personer, og utvalget vurderer at elektrosjokkvåpen vil bidra til at maktpyramiden blir
-ytterligere differensiert. Det har videre fremkommet i denne utredningen at når det gis beslutning
-om bevæpning, dreier det seg ofte om situasjoner
-som involverer psykisk syke, rusede og/eller personer i besittelse av kniv. Bevæpningsutvalget
-antar at elektrosjokkvåpen kan være hensiktsmessig i slike situasjoner.
-Politihøgskolen (PHS) har på oppdrag fra Politidirektoratet gjennomført en utredning om elektrosjokkvåpen (PHS, 20168). Den videre beskrivelsen av våpenet er hovedsakelig hentet fra denne
-utredningen.
-Elektrosjokkvåpen kategoriseres som et mindre dødelig våpen. Våpenet brukes til å passivere
-og uskadeliggjøre en motstander gjennom ikkedødelig elektrisk støt som forstyrrer muskelfunksjoner. Elektrosjokkvåpen minner om en pistol i
-formen og den finnes i fargen gul og svart. Gulfargen viser at det ikke er et skytevåpen.9 En person
-som utsettes for bruk av elektrosjokkvåpen mister
-muskelkontroll, «fryser» på stedet og faller til bak7
-
-8
-
-Slike våpen har flere betegnelser. Ofte brukes Taser, som
-egentlig er en merkevare. Noen ganger brukes elektronisk
-kontrollvåpen. Som regel brukes elektrosjokkvåpen, et etablert begrep både på norsk og engelsk (blant annet bruker
-Amnesty International dette begrepet). Det er også det
-begrepet som gjennomgående er benyttet i denne utredningen.
-Rapporten er unntatt offentlighet.
-
-[Side 210]
-
-210
-
-Kapittel 9
-
-NOU 2017: 9
-Politi og bevæpning
-
-ken. Våpenet vil avgi en fem sekunders lang
-eksponeringspuls. Bruk av elektrosjokkvåpen
-omfatter både varsling, trussel om bruk og avfyring av skudd. Trussel om å bruke våpenet kan
-innebære fremvisning av våpenet og aktivering av
-en rød laser eller strømaktivering (lyd og lys).
-Trussel om bruk kan bidra til å eskalere eller
-dempe en truende situasjon, men land det er
-naturlig å sammenligne seg med har primært opplevd at trussel om bruk virker dempende. Trusselen om bruk kan ofte være nok til å få gjerningspersonen til å etterkomme tjenestepersonens
-pålegg. I utredningen fra PHS (2016) fremkommer det at trussel om bruk av elektrosjokkvåpen
-utgjør litt over 20 prosent av den totale bruken av
-elektrosjokkvåpen i Finland. Finland har et generelt bevæpnet politi. På New Zealand og i England,
-som har et politi som ikke bærer skytevåpen i
-ordinær tjeneste, utgjør trussel om bruk derimot
-om lag 80 prosent av den totale bruken. Det indikerer at det ofte vil være tilstrekkelig å true med
-våpenet uten å avfyre.
-I utredningen fra PHS har det kommet frem at
-selv om bruken av mildere maktmidler i noen
-land ser ut til å ha gått ned etter innføringen av
-elektrosjokkvåpen, har ikke den totale maktbruken gått ned. Det kan indikere at bruken av elektrosjokkvåpen har gått på bekostning av maktmidler som pepperspray og batong. I andre land har
-bruken av elektrosjokkvåpen kommet i tillegg til
-bruk av mildere maktmidler. Innføring av elektrosjokkvåpen i norsk politi kan således medføre at
-politiet tar i bruk dette maktmiddelet i stedet for
-og/eller i tillegg til de (mildere) maktmidlene
-politiet har til rådighet i dag. PHS har i sin rapport
-ikke tatt stilling til hvor i maktpyramiden elektrosjokkvåpen eventuelt skal plasseres, selv om en
-tidligere arbeidsgruppe som forberedte våpeninstruksen plasserte elektrosjokkvåpen over pepperspray og batong.
-I følge utredningen fra PHS, kjenner Storbritannias svar på Spesialenheten, IPCC, til tilfeller
-der elektrosjokkvåpen skal ha reddet liv og redusert skade både på befolkningen og polititjenestepersoner. I en rapport utarbeidet av Polismyndigheten i Sverige i 2014, Polisens använding av skjutvapen och eventuella behov av åtgärder, fremkom9
-
-Taser er den mest vanlige versjonen som er i bruk i andre
-lands politi. Den nyeste modellen Taser X2 er ladet med to
-patronkassetter (engangsbruk). Hver kassett kan skyte ut
-to nåler tilknyttet to isolerte elektriske ledninger på maksimum 10,6 meters lengde. Ledningene binder våpenets
-strømkilde til hvert prosjektil. Nålene er designet for å
-trenge gjennom og sette seg fast i klær, eller trenge inn
-gjennom hud og sette seg fast på en dybde på inntil 12 mm.
-Som det fremgår av navnet, har Taser X2 to skudd.
-
-mer det at i gjennomsnitt dør én person i året etter
-å ha bli skutt med skytevåpen av politiet. Det vises
-til en forstudie som har vurdert at elektrosjokkvåpen kunne vært anvendt i en tredjedel av disse
-hendelsene. Det betyr at statistisk sett kan elektrosjokkvåpen i gjennomsnitt forhindre ett dødsfall hvert tredje år. Dette har ikke nødvendigvis
-direkte overføringsverdi til norske forhold ettersom svensk politi er generelt bevæpnet. Likevel
-synes det som om det er likhetstrekk mellom norske og svenske forhold når det gjelder hvilke gjenstander gjerningspersonen hovedsakelig er utrustet med, der politiet ofte møter stikk-, slag- eller
-huggvåpen. Den svenske rapporten trekker frem
-at der politiet møter «skarpe» gjenstander har
-elektrosjokkvåpen en potensiell stor verdi, særlig
-ved at politiet gis anledning til å gripe inn på et tidligere tidspunkt. I disse situasjonene kan elektrosjokkvåpen anvendes i en tidligere fase av oppdragsløsningen for å forhindre eskalering på et
-stadium der mildere maktmidler synes ineffektive
-og/eller det er forbundet med for stor risiko å
-bruke disse, mens skytevåpen anses uforholdsmessig.
-Ved gjennomgang av sakene Spesialenheten
-har etterforsket der norsk politi har brukt skytevåpen, kan det synes som om det i enkelte av situasjonene kunne vært hensiktsmessig med tilgang
-på elektrosjokkvåpen. Dette gjelder særlig i de
-situasjonene der gjerningspersonen i deler av
-hendelsesforløpet oppholdt seg i avstand innenfor
-rekkevidden til elektrosjokkvåpen, samt at vedkommende ikke var bevæpnet med skytevåpen,
-men med kniv eller øks. Fra andre land med et
-ordinært ubevæpnet politi, som England og New
-Zealand, beskrives svært gode erfaringer med
-elektrosjokkvåpen (se kapittel 8). I Sverige er
-elektrosjokkvåpen blitt diskutert som tiltak for å
-redusere bruken av skytevåpen (kapittel 8).
-Utvalget vurderer elektrosjokkvåpen som et
-maktmiddel relativt høyt i maktpyramiden, og
-mener bruken må følges tett, ettersom «Their use
-should be limited to situations where they can
-effectively be used to avoid the resort to lethal
-force or firearms» (Amnesty, 2015B, s. 21). Utvalget mener samtidig det er en viktig signalverdi at
-politiet har et presumtivt mindre dødelig alternativ til skytevåpen i møte med personer med alvorlige psykiske forstyrrelser som agerer aggressivt
-og uforutsigbart og er i besittelse av farlig våpen.
-Utvalget mener at elektrosjokkvåpen bør vurderes innført i norsk politi, der alle operative
-mannskaper bærer dette på seg til daglig. Elektrosjokkvåpen bør visuelt differensieres fra skytevåpen, slik at politiet ikke fremstår som bevæpnet.10
-
-[Side 211]
-
-NOU 2017: 9
-Politi og bevæpning
-
-Det mangler dokumentert kunnskap om behovet
-for et maktmiddel mellom de maktmidlene politiet
-disponerer i dag (pepperspray og batong) og skytevåpen (gitt at elektrosjokkvåpen ville blitt plassert mellom disse). Dette bør derfor utredes gjennom systematiske analyser av politiets faktiske
-maktbruk. I den sammenheng vil det være nødvendig å undersøke hvor mange og eventuelt
-hvilke situasjoner politiet har kommet til kort med
-de mildere maktmidlene. Utvalget anser det som
-helt sentralt at politiet registrerer og analyserer
-bruk av maktmidler, både for å følge prinsippet
-om ansvarlighet, men også for å vite mer om situasjoner der politiet har brukt maktmidler og for å
-lære av disse. Utvalget vurderer at det er store
-mangler i oversikten over bruk av for eksempel
-pepperspray og batong i dag, og utvalget mener
-dette er uheldig.
-Utvalget anbefaler at det bør gjøres et prøveprosjekt med elektrosjokkvåpen i norsk politi.
-Utvalget er kjent med at svensk politi skal gjennomføre en prøveordning og en grundig
-forskningsmessig evaluering av bruk av elektrosjokkvåpen. Det antas at det vil være hensiktsmessig med et samarbeid mellom norsk og svensk
-politi for å dele kunnskap og erfaringer. Det antas
-også å være mulig å samarbeide om å utvikle rutiner, innhold i opplæring m.m. Som en del av dette
-arbeidet bør det også vurderes hvorvidt elektrosjokkvåpen bør komme som supplement til
-dagens maktmidler, eller om det bør erstatte ett
-eller flere av eksisterende maktmidler. Befolkningen og ulike publikumsgruppers syn på et slikt
-våpen og bruken av det, bør også kartlegges.
-FNs andre Grunnprinsipp for politi, makt- og
-våpenbruk omhandler differensiering av maktmidler. Her slås det fast at politiet skal ha tilgang til så
-bredt spekter av maktmidler som mulig. Politiets
-tjenestepersoner skal utstyres med ulike våpen og
-ammunisjon som gjør differensiert bruk mulig.
-Målet med differensieringen er å begrense bruken av dødelige maktmidler. Innføring av elektrosjokkvåpen bør vurderes i lys av dette. Det tredje
-grunnprinsippet omhandler ikke-dødelige, uskadeliggjørende våpen. I følge dette grunnprinsippet
-skal også bruken av slike maktmidler registreres
-og kontrolleres. For å ivareta prinsippet om legalitet må bruken av elektrosjokkvåpen reguleres og
-registreres på en måte som ivaretar prinsippene
-om nødvendighet og forholdsmessighet.
-10
-
-Utvalget mener det er viktig at det tydelig fremkommer at
-dette ikke er skytevåpen og ønsker derfor at elektrosjokkvåpenet skal være gult og ikke sort, og fortrinnsvis
-bæres på en annen måte enn skytevåpen. Dette vil best
-ivareta det sivile preget.
-
-211
-
-Kapittel 9
-
-9.18 Kroppsbårne kameraer
-Et annet tiltak av betydning for politiets maktbruk
-som utvalget har fått kjennskap til i sitt arbeid, er
-såkalte kroppsbårne kameraer, Body Worn Cameras. Slike kamera benyttes blant annet av britisk
-politi. Kameraene er festet på tjenestepersonene
-og kan benyttes i operative situasjoner.11 Innføringen av slike kameraer er ofte begrunnet med at de
-gir mer åpenhet og effektivitet, samt økt kontroll
-med politiets maktbruk og økt rettssikkerhet for
-de involverte. De kan også bidra til å avdekke feilaktige anklager mot politiet. Erfaringer ved bruk
-av slike kamera viser at de reduserer klager mot
-politiet, og de bidrar dermed til å gi politiets
-arbeid økt legitimitet. En studie har vist at det
-anvendes mindre makt fra politiet mot publikum
-når politiet bærer slike kameraer, men en annen
-studie har hevdet at dette ikke stemmer. Det har
-videre fremkommet at opptak fra kameraene har
-gjort at flere saker har gått til påtale og gitt bedre
-bevisførsel. Samtidig er det noen dilemmaer knyttet til bruken av dem, særlig handler dette om at
-politiet bruker mindre skjønn. Slike kamera kan
-være nyttige og utvalget foreslår at de utredes for
-bruk.
-
-9.19 Ansvarlighet: åpenhet, kontroll og
-læring
-Ettersom politiet er gitt stor makt, må politiet også
-holdes ansvarlige for den makten de benytter.
-Ansvarlighet skal gjelde for den enkelte politi som
-utfører, eller unnlater å utføre, sine handlinger.
-Det gjelder også for overordnede som gir ordre,
-styrer og leder. Ansvarligheten gjelder også for
-politiorganisasjonen som helhet. Utvalget mener
-at staten har et ansvar for å registrere den makt
-politiet bruker overfor innbyggerne. Registrering
-av maktbruk er viktig for tillitsbygging mellom
-politi og publikum. Særlig kan dette være relevant
-for de publikumsgruppene som har hyppig kontakt med politiet og ofte har mindre tillit til politiet
-enn det befolkninen forøvrig har (se kapittel 3).
-Med adgangen til å anvende makt mot sivile følger
-et stort ansvar, og det er viktig å ha oversikt over
-bruk av maktmidler i norsk politi av flere grunner.
-Det er en verdi i seg selv at politiet praktiserer
-åpenhet om maktbruken slik at offentligheten og
-11
-
-Utvalget har fått oversendt et notat som sammenfatter
-kunnskap og forskning om kroppsbårne kameraer, fra Joshua M. Phelps, førsteamanuensis ved Politihøgskolen.
-Denne framstillingen bygger på dette notatet.
-
-[Side 212]
-
-212
-
-Kapittel 9
-
-NOU 2017: 9
-Politi og bevæpning
-
-de berørte får innsyn i hvordan politiet forvalter
-makten de er gitt. I tillegg er det viktig å være i
-stand til å følge med på om bruken av makt ligger
-innenfor de rettslige rammene. Registrering av
-maktbruk gir også politiet økte muligheter til å
-foreta gode analyser, drive erfaringslæring, både
-lokalt og nasjonalt, og eventuelt foreta endringer i
-instrukser, planverk eller opplæring og vedlikeholdstrening.
-
-9.20 Lovfesting av sentrale deler av
-våpeninstruksen
-Utvalget anbefaler at de mest sentralene delene av
-våpeninstruksen nedfelles i lov. Dette sees i sammenheng med legalitetsprinsippet, og vektleggingen av at bevæpning av politiet skal være et spørsmål som sikres demokratisk behandling.
-Etter en totalvurdering, hvor blant annet hensynet til logisk tilhørighet og innarbeidet systematikk er tillagt betydelig vekt, har utvalget kommet
-til at bestemmelsene primært hører hjemme
-under kapittel II i politiloven – «Om utførelsen av
-polititjenesten». Materielt og lovteknisk er det
-endelige forslaget at § 4-3 tas ut av dagens
-våpeninstruks og overføres til politiloven som § 6
-a. Tilførselen til politiloven vil kunne komme til
-uttrykk på følgende måte:
-§ 6 a. Vilkår for bruk av skytevåpen
-(1) Skytevåpen kan bare brukes når det er
-absolutt nødvendig og hvor lempeligere midler
-forgjeves har vært forsøkt eller åpenbart ikke vil
-føre frem, i situasjoner hvor
-a) tjenestepersonen selv eller andre trues med
-eller utsettes for en grov voldshandling eller
-annen grov integritetskrenkelse, og bruk av
-våpen fremstår som nødvendig for å hindre tap
-av menneskeliv eller alvorlig personskade,
-eller
-b) det anses påkrevd å pågripe eller stanse person som er domfelt eller med stor grad av sikkerhet mistenkes for drap, andre grove voldshandlinger eller forsøk på slike voldsforbrytelser, eller av personer som av andre grunner
-anses som særlig farlige for menneskers liv
-eller helse, Norges selvstendighet, eller som
-alvorlig truer grunnleggende nasjonale
-interesser.
-(2) I situasjoner som nevnt i første ledd kan
-skytevåpen etter beslutning fra innsatsleder også
-brukes til å
-a) beskadige eller gjøre en gjenstand ubrukelig,
-b) forstyrre eller avlede gjerningspersonen.
-
-Det tas forbehold om at endringsforslaget utløser
-andre endringer, herunder henvisninger, og må
-under alle omstendigheter undergis en kvalitetssikring hvor alle lovtekniske hensyn blir ivaretatt.
-Utvalget vil også foreslå at vilkårene for bruk av
-gassvåpen og sprengvåpen tas inn i politiloven.
-
-9.21 Dissens i valg av
-bevæpningsmodell
-Utvalgets mindretall, Snortheimsmoen, er enig i
-utvalgets vurderinger, men legger større vekt på
-at politiet må være forberedt på det uforutsigbare,
-og foreslår en bevæpningsmodell med uladd
-våpen på tjenesteperson (fremskutt lagring på
-kropp). Mindretallet, Snortheimsmoen mener at
-man slik vil ivareta en bedre beredskap og innsatsevne for tjenestepersonene, og dermed øke kapasitet og kvalitet inn mot publikum i løsningen av
-krevende oppdrag. Den største gevinsten med en
-slik ordning er at politiet har tilgang på våpen når
-de forlater kjøretøyet. Eventuell bruk av våpenet
-skal innebære at det gis beslutning om bevæpning, og modellen vil da, slik Snortheimsmoen ser
-det, ha de samme barrierene som dagens modell.
-Våpeninstruksen må endres dersom denne modellen skal innføres og det må utarbeides generelle
-retningslinjer som beskriver hvilke typer personell som skal innbefattes og hvilke oppdrag som
-skal utføres ubevæpnet.
-
-9.22 Oppsummering av utvalgets
-viktigste anbefalinger
-Utvalget er opptatt av at verdiene i den norske
-polititradisjonen og de fire prinsippene for politiets makt- og våpenbruk – legalitet, nødvendighet,
-forholdsmessighet og ansvarlighet – blir integrert
-og internalisert i hele politiet. Verdiene og prinsippene må legges til grunn og brukes aktivt som
-rettesnor, både i opplæring og i utøvelse av all
-polititjeneste, slik at de kommer til uttrykk og
-befestes gjennom politiets holdninger og samhandling med publikum.
-Utvalgets flertall, medlemmene Lande Hasle,
-Askevold, Berg, Finstad og Olafsen, anbefaler videreføring av dagens ordning med et ordinært ubevæpnet politi som medbringer en- og tohåndsvåpen i kjøretøy (fremskutt lagring). Utvalgets
-mindretall, medlemmet Snortheimsmoen, foreslår
-en bevæpningsmodell med uladd våpen på tjenesteperson (fremskutt lagring på kropp).
-
-[Side 213]
-
-NOU 2017: 9
-Politi og bevæpning
-
-Utvalget anbefaler at elektrosjokkvåpen utprøves slik at politiet i patruljerende tjeneste får et
-nytt taktisk våpen som er mindre dødelig enn
-skytevåpen. Forsøksordningen må følges av en
-forskningsmessig evaluering.
-Utvalget anbefaler at politidistriktenes operative kapasitet styrkes i form av en økning i antall
-tilgjengelige og responderende politipatruljer.
-Utvalget anbefaler at politiets bruk av makt
-registreres systematisk. Det bør utarbeides verktøy som muliggjør kontinuerlig registrering av
-maktbruk og som kan gi en samlet oversikt over
-denne. Oversikten bør offentliggjøres regelmessig og innholdet bør brukes i politiets erfaringslæring. Utvalget er kjent med at Politidirektoratet
-har påbegynt et slikt arbeid og anbefaler at registreringen kommer i gang fra 1.1. 2018.
-Utvalget anbefaler systematisk evaluering av
-situasjoner der politiet har benyttet skytevåpen i
-tjeneste. Slik evaluering vil være viktig for å heve
-kvaliteten i politiets arbeid. Dette bør skje i samarbeid med relevante aktører som har kompetanse
-til å bidra i arbeidet med kvalitetsforbedring i politiets virksomhet. Slike aktører kan være Nasjonal
-institusjon for menneskerettigheter, Politihøgskolen og andre miljøer i universitets- og høgskolesektoren. I tråd med NOU 2009: 12, anbefaler
-utvalget å etablere bedre systemer og rutiner for
-kunnskapsbasert erfaringslæring i politiet generelt, slik at læring kan komme alle i etaten til
-gode.
-Utvalget anbefaler at politiet har kunnskap og
-ferdigheter som gir trygghet i håndteringen av
-psykisk ustabile personer, slik at det sikres forholdsmessighet i maktbruk. I samarbeid med fagmiljøer i helsetjenesten bør det utredes om, og
-
-213
-
-Kapittel 9
-
-eventuelt hvordan, utdanning og vedlikeholdstrening i politiet kan styrkes på dette området. Det
-bør også utarbeides egne analyser av politiets
-bruk av makt i oppdrag som involverer psykisk
-syke eller ustabile personer.
-Utvalget anbefaler at politiet får på plass system og kvalitetssikrede rutiner for innrapportering av vold og trusler mot tjenesteperson, slik at
-omfang og utvikling kan dokumenteres og eventuelt følges opp med nødvendige tiltak. Dette må
-ses i sammenheng med politiets bruk av ulike
-maktmidler.
-Utvalget foreslår at det som hovedregel skal
-være patruljerende politi på hovedflyplassen.
-Utvalgets flertall, medlemmene Lande Hasle, Askevold, Berg, Finstad og Olafsen, anbefaler at politiets tilgang til forhåndslagret våpen forbedres der
-dette er nødvendig. Utvalgets mindretall, Snortheimsmoen, foreslår en bevæpningsmodell med
-uladd våpen på tjenesteperson (fremskutt lagring
-på kropp). Dette vil også gjelde for tjenestepersoner ved flyplassene.
-Utvalget anbefaler at det ved en eventuell
-fremtidig situasjon med behov for midlertidig
-bevæpning, skal praktiseres krav om bevæpningsbeslutning for det enkelte oppdrag, med de unntak som våpeninstruksen fastsetter. Utvalget viser
-i denne sammenheng også til de anbefalingene
-som fremkommer i kapittel 7 om perioden med
-midlertidig bevæpning.
-Utvalget anbefaler at de sentrale kriteriene for
-bruk av skytevåpen nedfelles i politiloven. Dette
-vil styrke våpeninstruksens rettslige forankring
-og gi økt demokratisk kontroll med hvilke maktmidler politiet skal ha adgang til og når.
-
-[Side 214]
-
-214
-
-NOU 2017: 9
-
-Kapittel 10
-
-Politi og bevæpning
-
-Kapittel 10
-
-Økonomiske og administrative konsekvenser av utvalgets
-anbefalinger
-Som en del av utvalgets mandat skal økonomiske,
-administrative og andre vesentlige konsekvenser
-utredes. Forslagene i utredningen er begrunnet i
-at bevæpning og maktmiddelbruk i politiet må
-sikre befolkningens rettssikkerhet, beskyttelse av
-borgere og generelt innebære minst mulig bruk
-av makt, se kapittel 3.
-De fleste av utvalgets forslag vil ha økonomiske eller administrative konsekvenser av mindre betydning og må forutsettes å bli håndtert
-innenfor politiets løpende oppgaveløsning. For å
-motvirke terror, må politiets forebyggende arbeid
-bidra til å redusere omfanget av radikalisering
-blant ungdom, og PST må ha god oversikt over
-miljøer som kan utgjøre en trussel. For å redusere
-faren for at våpen blir brukt mot politiet, må det
-være en effektiv våpenkontroll.
-Det drøftes ikke konsekvenser av utvalgets
-forslag om videreføring av fremskutt lagring som
-bevæpningsordning siden dette er måten norsk
-politi har organisert sin bevæpning i dag. Som det
-fremgår av kapittel 9 mener utvalget at denne ordningen fungerer godt.
-Innsatspersonell kategori 3 og 4 (IP3 og IP4)
-gjennomfører årlig henholdsvis 103 og 48 timer
-trening, se pkt. 5.2.8. Utvalget har ikke fått signaler fra noen aktører eller selv identifisert at omfanget på og innhold i treningen for IP3 bør endres.
-Når det gjelder omfang på den årlige treningen for
-IP4, varierer synspunktene. Enkelte aktører har
-overfor utvalget hevdet at nivået på våpentreningen for IP4 er tilstrekkelig for å gi innsatspersonell et tilfredsstillende ferdighetsnivå for å håndtere skarpe situasjoner. Andre har hevdet at erfaringene fra den midlertidige bevæpningen – med
-blant annet relativt mange utilsiktede avfyringer
-(vådeskudd) – indikerer at innsatspersonell mangler tilfredsstillende ferdigheter i å håndtere
-våpen. Andre igjen har argumentert for at gjennomgående er nivået på ferdighetene for innsatspersonell tilfredsstillende, men at det er (for)
-store individuelle forskjeller. Utvalget har ikke et
-
-tilstrekkelig dokumentert grunnlag for å mene at
-nivået på våpentreningen må endres. Utvalget
-anbefaler at politiet gjør grundige vurderinger av
-om våpenopplæringen er hensiktsmessig tilpasset
-for IP4.
-I det følgende beskrives tiltak som vil ha økonomiske eller administrative konsekvenser av
-større betydning.
-
-10.1 Innføring av systematisk
-evaluering av situasjoner der
-politiet skyter
-Som det fremgår av kapittel 5 vil politiet av og til
-skyte rettede skudd mot person som medfører
-skade eller død. I de aller fleste tilfeller er politiets
-maktmiddelbruk jevnlig legitim. Spesialenheten
-for politisaker etterforsker saker der politiet retter
-skudd mot person. Disse etterforskningene har
-imidlertid fokus på strafferettslige forhold. Utvalget anbefaler at politiet selv gjennomfører evaluering av hendelser der politiet har løsnet skudd.
-Det bør vurderes om det er hensiktsmessig å
-knytte til seg samarbeidsaktører i arbeidet. En
-kandidat for et slikt samarbeid kan være «Norges
-nasjonale institusjon for menneskerettigheter»,
-som arbeider for å fremme og beskytte menneskerettighetene i tråd med Grunnloven, menneskerettsloven og den øvrige lovgivning, internasjonale traktater og folkeretten for øvrig, se http://
-www.nhri.no. Systematisk evaluering av slike hendelser vil gi viktig læring, også i de tilfeller der
-politiets maktbruk ikke vurderes å være en straffbar handling. Evalueringene bør gjøres tilgjengelig for ansatte i politiet, for eksempel gjennom etatens intranettportal Kilden. Utvalget mener også
-at innhold i evalueringene bør gjøres tilgjengelig
-for publikum.
-Det å gjennomføre denne type evalueringer vil
-kunne:
-
-[Side 215]
-
-NOU 2017: 9
-Politi og bevæpning
-
-–
-
-bidra til en mer enhetlig praksis og mer kvalitet
-i politiets arbeid
-– bidra til at politiet gjør mindre feil. Evalueringer vil for eksempel kunne avdekke behov for
-nye rutiner, behov for mer opplæring/trening
-eller annen bruk av verneutstyr. Over tid vil det
-kunne gi mer trygghet i arbeidssituasjon for
-politiansatte.
-– bidra til en åpenhetskultur der det er aksept for
-at feil kan skje. Utvalget vil peke på at i olje- og
-gassektoren er det krav om at alle alvorlige
-ulykker og nesten-ulykker skal granskes slik at
-man lærer av de feil som er gjort.
-– bidra til en god beskyttelse av svake grupper i
-samfunnet. Erfaringsmessig er det oftere personer som sliter med rus, psykiske lidelser
-m.m. som kommer i situasjoner der politiet
-anvender skytevåpen. Evaluering av slike
-saker vil kunne løfte frem læringspunkter som
-kan bidra til en bedre håndtering av lignende
-situasjoner.
-Det er ikke mulig å verdsette disse nyttevirkningene i kroner.
-Politiets maktbruk er omfattet av bred oppmerksomhet. Mer åpenhet om politiets oppgaveutførelse, kan i sin tur bidra til å trygge tilliten
-til politiet. Empiriske undersøkelser viser at politiets evne til å lære er en viktig driver for publikums
-tillit til politiet.
-En slik evalueringsordning vil også ha økonomiske og administrative kostnader. Det gjelder
-blant annet:
-– Selve gjennomføringen av evalueringene krever personalressurser. Utvalget legger til
-grunn at politiet gjennomfører evalueringen
-med egne krefter. Slike evalueringer vil kunne
-gjennomføres med en samlet ressursbruk på
-samlet om lag 2–4 månedsverk (med bidrag
-fra flere personer). De siste årene har det årlig
-blitt skutt i underkant av 3 ganger av politiet i
-gjennomsnitt, jf. kapittel 5. Dersom det gjennomføres 3 evalueringer hvert år, kan ressursbruken anslås til om lag 0,6–1,2 årsverk.
-Med et anslag på årsverkskostnaden for politiansatte på 1 mill. kroner, vil den samlede kostnaden bli i området 0,6–1,2 mill. kroner årlig
-(2017-kroner).
-– For tjenesteperson som har avfyrt skudd, vil
-det kunne være belastende å være gjenstand
-for en slik intern evaluering. Men det antas
-ikke at politiets egen evaluering vil være mer
-belastende enn å være gjenstand for Spesialenheten for politisaker sin etterforsking av hendelsen. Som nevnt i pkt. 5.7.12 etterforsker
-Spesialenheten alle hendelser der politiet har
-
-215
-
-Kapittel 10
-
-brukt skytevåpen for å avklare om det er begått
-straffbare handlinger fra politiets side. Politiets
-egen evaluering vil ha som formål å finne
-læringspunkter. Det antas ikke at en slik ordning vil måtte kreve endringer i lover eller
-instrukser. Vernet mot selvinkriminering, som
-for øvrig er innfortolket i kravet om «rettferdig
-rettergang» i EMK art 6 (1) må selvsagt også
-respekteres i en slik sammenheng. Hensett til
-den rapporteringsplikt som allerede foreligger,
-jf. henholdsvis politiinstruksen § 7-6 og § 6-3,
-2. ledd if. og våpeninstruksen § 5-4, vil dette
-neppe volde noe problem. Informasjonsinnhentingen i forbindelse med en evaluering vil
-omfatte opplysninger gitt utenfor rettergang,
-og for øvrig ha et praktisk formål som neppe
-gjør det aktuelt med involvering utover den
-som følger av rapporteringsplikten. For øvrig
-vil det være naturlig at politiets evaluering ferdigstilles først etter at Spesialenhetens påtalevedtak i saken foreligger.
-Samlet sett mener utvalget at en slik evalueringsordning vil gi et viktig bidrag for å løfte kvaliteten
-i politiets arbeid, innenfor et svært viktig område.
-Kostnadene vil være beskjedne.
-
-10.2 Avgrenset prøveordning for
-elektrosjokkvåpen
-I kapittel 9 gis en nærmere drøfting av virkningene av innføring av elektrosjokkvåpen i norsk
-politi. Som det fremgår anbefaler utvalget at det
-gjennomføres en avgrenset prøveordning med
-bruk av elektrosjokkvåpen. En slik prøveordning
-vil svare opp bestilling i Prop. 1 S 2016–2017,
-s. 125, der Justis- og beredskapsdepartementet
-ber om at POD gir en anbefaling til departementet
-om politiet skal gå til innkjøp av slike våpen.
-Utvalget vil understreke at formålet med en
-slik prøveordning er å få erfaringer før det eventuelt vurderes en permanent innføring av elektrosjokkvåpen i norsk politi. En generell innføring av
-våpenet i norsk politi anses å kunne gi nyttevirkninger i form av blant annet:
-– reduksjon i personskade og dødelig vold
-– gi en avskrekkende effekt slik at skytevåpen
-ikke trengs å bli brukt
-– gi den politiansatte økt trygghet
-Elektrosjokkvåpen vil i mindre grad være et våpen
-som er egnet i terrorbekjemping.
-Utvalget har sett nærmere på kostnadsvirkningene av en slik prøveordning. Følgende forutsetninger er gjort:
-
-[Side 216]
-
-216
-
-NOU 2017: 9
-
-Kapittel 10
-
-–
-
-–
-
-–
-
-–
-–
-–
-–
-–
-
-Politi og bevæpning
-
-Det er sett på innføring av elektrosjokkvåpen i
-to politidistrikt. Ordningen bør omfatte politidistrikt med både større byer og mindre tettbygde områder, ulike kriminalitetsutfordringer
-og ulike klimatiske bo- og leveforhold. Ordningen antas å burde ha en varighet på 3 år (2018–
-2020).
-Det etableres en sentral prosjektorganisering
-som kan sørge for implementering av prøveordningen i politidistriktene, og som har
-løpende ansvar for oppfølging og ledelse av
-ordningen. Det anslås at det sentrale prosjektet
-bør bestå av om lag 4 personer som arbeider på
-heltid. Det bør også være lokale prosjektledere
-som har en tettere oppfølging (ikke prissatt).
-Anslagsvis 1 000 innsatspersonell utstyres med
-elektrosjokkvåpen som personlig våpen. Et
-slikt omfang på innsatspersonell tilsvarer grovt
-sett gjennomsnittlig antall innsatspersonell for
-2 politidistrikt.
-Det anskaffes egnede våpenhylstre til innsatspersonell til en kostnad på 1 100 kroner per
-stykk.
-Ett elektrosjokkvåpen anslås å koste 11 000
-kroner.
-Det er lagt til grunn en årslønnskostnad på
-975 000 kroner.
-Alt innsatspersonell forutsettes å gjennomføre
-en grunnleggende opplæring på 16 timer, og
-deretter 8 timer årlig opplæring.
-Det gjennomføres en forskningsmessig evaluering av prøveordningen. Evalueringen bør ha
-form av en underveis- og sluttevaluering.
-Underveisevalueringen bør vurdere om innføringen skjer i tråd med planer og om det bør
-gjennomføres løpende korrigeringer. I sluttevalueringen bør det vurderes om bruk av elektrosjokkvåpen gir de virkningene som er blitt
-identifisert og om ordningen har eventuelt utilsiktede (positive og negative) virkninger. Det
-antas at evalueringsarbeidet kan gjennomføres
-innen en ramme på om lag 3 mill. kroner.
-
-I tabell 10.1 er det satt opp kostnader for prøveordningen. Investeringskostnadene kan anslås til
-31,4 mill. kroner i 2018, og de årlige driftskostnadene til om lag 12,7 mill. kroner i 2019 og 2020.
-Utvalget er kjent med at svensk politi skal
-gjennomføre en omfattende forskningsmessig
-evaluering av bruk av elektrosjokkvåpen. Det
-antas at det vil være hensiktsmessig med et samarbeid mellom norsk og svensk politi, og politiforskningsmiljøer, for å dele kunnskap og erfaringer med tiltaket. Det antas også å være mulig å
-
-gjenbruke utviklede rutiner, innhold i opplæring
-m.m.
-Utvalget legger til grunn at politiet tilføres
-friske midler for å kunne gjennomføre prøveordningen.
-Det anses ikke at prøveordningen vil innebære
-vesentlig risiko for utvalgte grupper. Det er imidlertid identifisert grupper som kan være utsatt
-ved bruk av elektrosjokkvåpen (som for eksempel
-personer med svak allmenntilstand). Utvalget
-understreker at opplæringen må sikre at innsatspersonell er best mulig kjent med de helsemessige farene ved bruk av våpenet.
-
-10.3 Bedre oversikt over
-maktmiddelbruken i politiet
-Utvalget registrerer at politiet mangler en samlet
-oversikt over maktmiddelbruken i etaten. Det finnes ikke oversikt over hvilke maktmidler som blir
-brukt, når de blir brukt, hvilken virkning/skade
-det gir m.m., se kapittel 5 for en nærmere drøfting. Utvalget er kjent med at Politidirektoratet
-har påbegynt et arbeid for å få oversikt over bruk
-av maktmidler. Utvalget støtter dette arbeidet og
-håper det kan settes i verk fra 1.1.2018. En slik
-oversikt vil gi politiet bedre mulighet for løpende
-erfaringslæring. Det vil i sin tur gjør det mulig å
-rette opp uheldige utviklingstrekk. Ut fra denne
-datafangsten bør politiet med jevne mellomrom gi
-en status for maktbruken til publikum.
-Utvalget legger til grunn at politiet etablerer
-egnede løsninger for en slik innrapportering.
-Denne innrapporteringen bør være enklest mulig
-å bruke for innsatspersonell. Med dagens teknologiske muligheter, samt at alt innsatspersonell vil
-være utstyrt med nettbrett/mobiltelefon, bør det
-være enkelt å etablere en slik løpende registering.
-Utvalget har ikke forsøkt å anslå kostnadene med
-å etablere en slik funksjonalitet. Ressursbruken
-for innsatspersonell vil være svært liten gitt at det
-etableres digitale innrapporteringsløsninger.
-
-10.4 Antall tjenestepersoner som
-arbeider i operativ tjeneste
-I kapittel 5 gis det en gjennomgang av antall
-ansatte i politistillinger og antall av disse som er
-tjenestepersoner i operativ tjeneste. På tross av en
-sterk økning i antall ansatte i politiet de siste
-årene, har det tilsynelatende vært en beskjeden
-økning i antall tjenestepersoner som til en hver tid
-er ute i operativ tjeneste, se pkt. 5.2.10. Det skyl-
-
-[Side 217]
-
-217
-
-NOU 2017: 9
-Politi og bevæpning
-
-Kapittel 10
-
-Tabell 10.1 Investerings- og driftskostnader for prøveordning for elektrosjokkvåpen. Mill. kroner.
-Faste 2017-kroner
-2018
-
-2019
-
-2020
-
-3,9
-
-3,9
-
-3,9
-
-Ammunisjon
-
-0,7
-
-0,7
-
-Årlig trening, politiansatte
-
-5,5
-
-5,5
-
-Kostnad instruktører
-
-1,1
-
-1,1
-
-1,5
-
-1,5
-
-12,7
-
-12,7
-
-Investeringskostnader
-Prosjektkostnader
-Innkjøpskostnader
-Innkjøp av våpen mm
-
-11,0
-
-Innkjøp av utstyr
-
-1,8
-
-Opplæringskostnader
-Ammunisjon
-
-1,4
-
-Kurskostnader innsatspersonell
-
-11,1
-
-Kostnader instruktør
-
-2,2
-
-Driftskostnader
-
-Evalueringskostnader
-Sum
-
-31,4
-
-Kilde: Utvalgets egne beregninger
-
-des blant annet at for å få én person i aktiv døgnkontinuerlig operativ tjeneste, må bemanningen
-øke med 7,5–9 tjenestepersoner, som følge av fritid, sykdom, krav til trening m.m.
-Dekningsgraden, målt ved antall årsverk i politistillinger per 1 000 innbyggere, var ved utgangen
-av 2016 1,81. Antall politistillinger forventes å nå
-2,0 per 1 000 innbygger i 2019 med dagens opptak
-på 720 studenter på Politihøgskolen og Statistisk
-sentralbyrås gjeldende prognoser for befolkningsutvikling, jf. Politiets årsrapport for 2016, se POD
-(2017). Dette forutsetter imidlertid at politiet gis
-økonomisk bærekraft til å understøtte en slik
-økning i bemanningen. En slik dekningsgrad har
-lenge vært et mål for bemanningen i norsk politi.
-Utvalget legger til grunn at denne økte bemanningen også kommer den operative innsatsstyrken til gode. Etter utvalgets oppfatning er den
-operative kapasiteten i norsk politi på et beskjedent nivå. Utvalget anbefaler at den operative
-kapasiteten styrkes. Utvalget har grovt anslått hva
-en økning med minimum 1 døgnkontinuerlig
-patrulje per politidistrikt vil innebære av kostnader. Følgende forutsetninger er gjort:
-
-–
-–
-–
-–
-
-2 innsatspersonell kategori 4 (IP4) per patruljebil.
-Det trengs om lag 9 innsatspersonell for å
-dekke én døgnkontinuerlig operativ tjenesteperson.
-Årslønnskostnaden for innsatspersonell anslås
-til om lag 1 mill. kroner i 2017, i henhold til
-beregninger av POD.
-En uniformert patruljebil anslås å ha en innkjøpspris på 1,1 mill. kroner i 2017. Levetid
-anslås til 5 år.
-
-Samlet anslås en slik nasjonal satsning på operativ
-bemanning å koste om lag 219 mill. kroner per år,
-målt i faste 2017-kroner.1
-En slik styrking vil isolert sett bidra til kortere
-responstid, også til skarpe oppdrag. Utvalget er
-kjent med at Politidirektoratet skal utarbeide en
-plan for hvordan responstiden skal forbedres
-vesentlig frem mot 2020 (jf. oppdrag i tildelingsbrev for Politidirektoratet for 2017). Et slikt tiltak
-1
-
-For enkelhets skyld er det antatt at innkjøpskostnadene til
-patruljebil fordeles over 5 år.
-
-[Side 218]
-
-218
-
-Kapittel 10
-
-NOU 2017: 9
-Politi og bevæpning
-
-vil også bidra til økt trygghet for operative mannskaper siden de kan forvente mer støtte fra andre
-lokale enheter i politidistriktet ved behov.
-Politiet er inne i en omfattende reform med
-betydelige endringer i måten å arbeide på. En viktig del av reformen er innføring av «Politiarbeid på
-stedet». Denne arbeidsmåten skal sikre at mest
-mulig av etterforskningsarbeidet skal skje umiddelbart etter at en hendelse har skjedd. Med
-dagens situasjon vil dette innebære en økt
-arbeidsmengde for tjenestepersoner i den operative tjenesten. Utvalget understreker viktigheten
-av at ny arbeidsmetodikk ikke må redusere den
-operative beredskapen i politidistriktene. Utvalget
-viser til britisk politi som har etablert måltall for
-antall operative bilpatruljer i de enkelte politiområder, slik at det sikres at områdene har en tilfredsstillende politidekning og grunnberedskap.
-Utvalget anbefaler at Politidirektoratet også setter
-krav til operativ bemanning i politidistriktene.
-
-10.5 Juridiske konsekvenser av
-utvalgets forslag
-Utvalget oppfatter våpeninstruksen å være et oppdatert og tjenlig verktøy tilpasset dagens ordning.
-Den anses således å gi det handlingsrommet en
-effektiv og målrettet polititjeneste krever. Likeledes vil den på en god måte tjene sitt formål i eventuelle perioder med generell, midlertidig bevæp-
-
-ning. Ønskes en overgang til generell, permanent
-bevæpning, vil dette fordre endringer av regelverket utover de som knytter seg til selve hjemmelsgrunnlaget. Når det gjelder våpeninstruksens
-rettslige forankring, tilsier både hensynet til tilgjengeligheten til informasjon for allmenheten og
-den demokratiske kontrollen med politiets
-adgang til å bruke våpen, at de sentrale kriteriene
-for bruk tas inn i politiloven, se kapittel 9.
-Utvalget registrerer at i statsråd 27. januar
-2017 ble endringer i politiloven om midlertidig
-bevæpning sanksjonert, jf. https://lovdata.no/
-artikkel/statsrad_27. januar_2017/1853. Lov 27.
-januar 2017 nr. 3 om endringer i politiloven (midlertidig bevæpning) innebærer en tydeligere forankring av bestemmelsen om midlertidig bevæpning i våpeninstruks for politiet i politiloven § 29.
-Det blir satt rammer for hvilke situasjoner som
-kan begrunne midlertidig bevæpning. Permanent
-bevæpning av politiet kan bare besluttes dersom
-dette er hjemlet i lov. Gjeldende prinsipp om at
-norsk politi som hovedregel skal være ubevæpnet
-blir ikke endret. Loven trer i kraft straks (Justisog beredskapsdepartementet).
-Utvalget mener at denne lovendringen delvis
-møter det behovet som er blitt identifisert, men at
-behovet for å lovfeste de sentrale kriteriene for
-bruk av våpen fortsatt er til stede. Et lovforslag
-bør fremmes så snart det praktisk lar seg gjennomføre.
-
-[Side 219]
-
-NOU 2017: 9
-Politi og bevæpning
-
-219
-
-Litteratur
-
-Litteratur
-Aftenposten (2015, 29.07.). Avfyrte skudd inne på
-politihuset i Stavanger. Hentet 01.13.2017 fra:
-http://www.aftenposten.no/norge/Avfyrteskudd-inne-pa-politihuset-i-Stavanger31734b.html
-Amnesty International (2015). Use of Force: Guidelines for Implementation of the UN Basic Principles on the Use of Force and Firearms by Law
-Enforcement Officials. Amsterdam: Amnesty
-International.
-Amnesty (2015 b): The human rights impact of less
-lethal weapons and other law enforcement equipment. London: Amnesty International Ldt.
-London: Amnesty International.
-Arbeidsmiljøloven (2005). Lov om arbeidsmiljø, arbeidstid og stillingsvern mv.
-Arbeidsgruppen for utarbeiding av forslag til ny
-bistandsinstruks (2016). Forsvarets bistand til
-politiet.
-Auglend, R. L., Mæland, H. J., og Røsandhaug, K.
-(2004). Politirett (3. utg.). Bergen/Sarpsborg:
-Gyldendal Norsk Forlag AS.
-Aven, T., Røed, W. og Wiencke, H.S. (2008). Risikoanalyse. Oslo: Universitetsforlaget
-Bakken, A. (2016). Ungdata. Nasjonale resultater
-2016, NOVA rapport 8/16. Oslo: NOVA.
-Baless, B. og Tong, S. (2015). Leading policing in
-Europe: an Empirical Study of Strategic Police
-Leadership. Bristol: Policy press
-Bazerman, M. H. (2006). Judgment in managerial
-decision making. Hoboken, NJ: John Wiley &
-Sons, Inc.
-Berkowitz, L. og LePage, A. (1967). Weapons as
-aggression-eliciting stimuli. Journal of Personality and Social Psychology, 7, 202–207.
-Bjørkly, S. og Grøndal, P. (2016). Psykose og vold:
-Forskning med relevans for utredning av tilregnelighet. Tidsskrift for Norsk Psykologforening Vol. 53(3), 212–219.
-Block, M. M. (2016). Applying situational crime
-prevention to terrorism against airports and aircrafts. Electronic Theses and Dissertations. Louisville: University of Louisville
-Brugård, K.H. og Falch, T. (2013). Post-compulsory education and imprisonment. Labour Economics, vol. 23, 97–106.
-
-Brun, W. (1997). Subjektive komponenter i lekfolks risikopersepsjon. Nordisk psykologi,
-49(1), 1–11.
-BRÅ (2012). Brottslighet och trygghet i Malmö,
-Stockholm och Göteborg. En kartläggning.
-Stockholm: Brottsförebyggande rådet.
-Carlson, M., Marcus-Newhall, A. og Miller, N.
-(1990). Effects of situational aggression cues:
-A quantitative review. Journal of Personality
-and Social Psychology, 58, 622–633.
-College of Policing (2017). Hentet 22.02. 2017 fra
-http://www.college.police.uk/Pages/
-Home.aspx
-College of policing (2017). Core planning principles. Hentet 15.3.2017 fra
-https://www.app.college.police.uk/
-app-content/operations/operational-planning/
-core-principles/#police-use-of-force
-Dansk politi (2007). The use of police firearms in
-Denmark.
-Difi (2017). Evaluering av nærpolitireformen 2016.
-Difi rapport 2017:2. Oslo: Difi
-Edvinsen, K. (2012). Ordenstjeneste (2. utg.).
-Bodø: Forlaget Vett & Viten.
-Egge, T. (2013). Short stop ammunisjon – Beslutningsgrunnlag fra PDMT. Oslo: Politiets dataog materielltjeneste.
-Egge, M., Strype, J. og Thommassen G. (2012).
-Tillit til politiet etter 22. juli. Oslo: Politihøgskolen.
-Egge, M. og Ganapathy, J. (2010): «Kan man rekruttere uten tillit?». I S.R. Runhovde (red.)
-Tillit til politiet.Oslo: PHS Forskningsserie 4:
-2010.
-Egge, M. (artikkel under utarbeidelse/2017). Terrorbekjempelse – hva mener folk flest?
-Elholm, T. (2003). Politiets brug af skydevåpen. København: Forlaget Thomson.
-Elite UK Forces (2017). Hentet 22.02. 2017 fra
-http://www.eliteukforces.info/police/CO19/
-Ellefsen, B. (2015). «The Making of a New Police:
-An Analysis of the Norwegian Police
-Discourse 1814–1866», i: The Past, the Present and the Future of Police Research. Växjö:
-Linneuniversitetet
+<u>Sætre, M., Hofseth, C., Hansen, I. og Bakosgjelten, A. (2015). </u>*<u>Trender i kriminalitet 2016</u><u>–</u><u>2017: Utfor</u><u>d</u><u>ringer i den globale byen.</u>*<u> Oslo: Strategisk Stab, Oslo Politidistrikt.</u>
+
+<u>Teigen K. H. (2001). </u>*<u>Hvordan bed</u><u>ø</u><u>mmes risiko og sjanser i hverdagen?</u>*<u> I D. S. Thelle (Red.), På den usikre siden. Risiko som forestillinger, atferd og rettesnor. Oslo: Cappelen akademiske forlag.</u>
+
+<u>The Criminal Law Act, 1967. (2017) Hentet 15.3.2017 fra http://www.legislation.gov.uk/ ukpga/1967/58</u>
+
+<u>Therkelsen, H. (2015). </u>*<u>Stanser ikke terror.</u>*<u> Dagsavisen. Hentet 01.02.2017 fra http://www.dagsavisen.no/innenriks/ stanser-ikke-terror-1.318624</u>
+
+<u>Thomassen, G. og Kääriäinen, J. (2016). System satisfaction, contact satisfaction and trust in the police: A study of Norway. </u>*<u>European Journal of Policing Studies</u>*<u> 3(4), 437–448.</u>
+
+<u>Thorsen, L.R, S. Lid og Stene, R. (2009). </u>*<u>Kriminalitet og rettsvesen</u>*<u>. Oslo/Kongsvinger: Statistisk sentralbyrå.</u>
+
+<u>Traavik, K. (2017). </u>*<u>Samhandling for sikkerhet. En ny sikkerhetslov for en ny tid</u>*<u>. Presentasjon holdt på Samfunnsikkerhetskonferansen 2017, Stavanger.</u>
+
+<u>Tseloni, A., Mailley, J., Farrel, G. og Tilley, N. (2010). Exploring the international decline in crime rates. </u>*<u>European Journal of Criminology, 7</u>*<u>(5), 375–394.</u>
+
+<u>Turner, C. W., Layton, J. F. og Simons, L. S. (1975). Naturalistic studies of aggressive behavior: Aggressive stimuli, victim visibility, and horn honking. </u>*<u>Journal of Personality and S</u><u>o</u><u>cial Psychology</u>*<u>, 31, 1098–1107.</u>
+
+<u>Tønnesen, T.H. (2008). </u>*<u>«</u><u>We have some planes</u><u>…</u><u>»</u>*<u> Luftfarten som terrormål. FFI-rapport 08/00157</u>
+
+<u>Utrykningspolitiet (2017). Om UP. Hentet 06.02.2017 fra https://www.politi.no/ utrykningspolitiet/om_up/</u>
+
+<u>Uusitalo, P. (1980): </u>*<u>On the effects of the way police carry arms</u>*<u>. Rapport fra kontaktseminaret i Nævstad, 1980. Nordisk Samarbeidsråd for Kriminologi.</u>
+
+<u>Verdens Gang. (2016). Derfor blir det trolig flere terrorangrep i Europa i 2017 enn i 2016. Hentet 05.02.2017 fra http://www.vg.no/nyheter/ utenriks/terrorisme/derfor-blir-det-trolig-flere-terrorangrep-i-europa-i-2017-enn-i-2016/a/23883933/</u>
+
+<u>Våpeninstruksen (2016). </u>*<u>V</u><u>å</u><u>peninstruks for politiet</u>*<u>. Hentet fra https://lovdata.no/dokument/ INS/forskrift/2015–07–02–1088</u>
+
+<u>Winnæss, P. (2017). Profesjonsstudentblikket: Om hvordan politistudentene ser på utdanningen. </u>*<u>Norsk Sosiologisk tidsskrift</u>*<u> (under utgivelse).</u>
+
+<u>Zimring, F.E. (2006). </u>*<u>The Great American Crime Decline</u>*<u>. New York: Oxford University Press.</u>
+
+<u>Åminne, C-G. og Lounaskorpi, J. (2005) Polisens bruk av skjutvapen – det finska exemplet. I J. Knutsson (Red.), Politiets bruk av skytevåpen i Norden (s. 61–74). Oslo: Politihøgskolen.</u>
+
+1.  **<u>\[\[vedlegg resett\]</u>**
+
+**<u>Argumentasjon i bev</u><u>æ</u><u>pningsdebatten: Hva former holdninger til bev</u><u>æ</u><u>pning hos politi og publikum?</u>**
+
+<u>Christina Helen Helstad Silje Madelene Ingjer</u>
+
+**<u>Sammendrag</u>**
+
+Formålet med denne rapporten er å bidra med bredde- og dybdekunnskap om hva som former holdninger til bevæpning. Rapporten gir en deskriptiv formidling av variasjonen i argumenter for og imot bevæpning, og viser hvordan ulike politi- og publikumsgrupper argumenterer for sine standpunkter i bevæpningsspørsmålet. Ved å bygge videre på metodikk og funn fra masteroppgaven *Bevæpning av politiet – for sikkerhets skyld?* (Helstad og Ingjer 2016), ble det undersøkt om utvalgene kunne bidra til å avvise eller bekrefte tidligere funn, og om ny argumentasjon rundt bevæpning ble avdekket. Argumentasjonen som fremkommer av materialet er hentet inn ved hjelp av fokusgruppeintervjuer. Rapporten sikter på å vise mangfoldet av meninger, oppfatninger og forestillinger som finnes blant politi og publikum.
+
+For å forstå hvorfor de ulike gruppene argumenterer som de gjør, tar første del av rapporten for seg hvilken virkelighetsforståelse informantene argumenterer ut ifra. Årsaker til ulike argumenter, standpunkt og synspunkter kan grunne i ulik oppfattelse av risiko, ulike oppfatninger av samfunns- og kriminalitetsbilde, samt varierende opplevd trygghet.
+
+Videre tar rapporten for seg hvordan gruppene tenker rundt politiets oppdragsløsning og faktorer som kan tenkes å spille inn her, og i hvilken grad oppdragsløsningen vil kunne påvirkes av en eventuell bevæpning. Herunder inkluderes hvilken effekt bevæpning vil kunne ha på responstid og effektivitet i politiarbeidet. Den tar for seg i hvilken grad skytevåpenet kan ha en avskrekkende effekt på lovbrytere og hvilken påvirkning en bevæpning vil kunne ha på usikre situasjoner, her da oftest i møte med personer med rus- og psykiatrihistorikk.
+
+Erfaringene fra den midlertidige bevæpningen vil kunne si noe om hvordan forestillingene om det fremtidige politiarbeidet. Herunder vil rapporten ta for seg de ulike gruppenes tanker om et eventuelt våpenkappløp mellom politi og lovbrytere, hvordan trening og opplæring bør disponeres i politiet og hva fremtidens politi bør være rigget for. Den vil også ta for seg hvordan forholdet mellom politi og publikum kan tenkes å bli påvirket av en eventuell bevæpning. Det sivile preget har lenge vært et av hovedprinsippene ved det norske politiet. Rapporten går i dybden på hvordan dette preget vil kunne påvirkes dersom våpen blir en del av uniformen til norsk politi.
+
+Differensieringsproblematikken dreier seg om hvilke situasjoner de ulike gruppene ser det hensiktsmessig eller ikke å bære våpen, og hvilke alternative løsninger til generell bevæpning og fremskutt lagring informantene forestiller seg. Mange ulike stemmer har mange ulike argumenter, derfor vil det gjennomgås hvem som bør bli hørt i bevæpningsdebatten.
+
+Materialet viser avslutningsvis hvordan alle grupper, både i politi og publikum, argumenterer ut ifra hvordan og hvilken grad av tillit de har, opplevd trygghetsfølelse, og hvordan dette kan forankres i de ulike informantenes virkelighetsforståelser.
+
+**<u>Innledning</u>**
+
+Formålet med denne rapporten er å bidra med bredde- og dybdekunnskap om hva som former holdninger til bevæpning. Vi ønsker å vise variasjonen i argumenter for og imot bevæpning og hvordan ulike politi- og publikumsgrupper argumenterer for sine standpunkter i bevæpningsspørsmålet. Rapporten bygger videre på noen av hovedfunnene og metodikken fra masteroppgaven *Bevæpning av politiet – for sikkerhets skyld?* (Helstad og Ingjer 2016). Videre vil vi undersøke om utvalget vårt kan bidra til å avvise eller bekrefte disse funnene, og eventuelt om ny argumentasjon kan bidra med nye tanker rundt bevæpning.
+
+Rapporten inneholder en deskriptiv formidling av argumentasjon som fremkommer av materialet vårt ved hjelp av fokusgruppeintervjuer om bevæpning. Rapporten sikter ikke på å gi en anbefaling om hvorvidt politiet burde forbli ubevæpnet eller ikke, men heller å vise mangfoldet av meninger, oppfatninger og forestillinger som finnes blant politi og publikum. Kunnskap om hva som former holdninger til bevæpning vil også kunne si noe om hvordan forholdet mellom politi og publikum kan tenkes å bli endret i fremtiden ved en eventuell bevæpning, og videre hva det vil ha å si for tryggheten til politi og publikum, og tillitsforholdet mellom dem.
+
+*Rapporten er strukturert slik;* Etter innledningen vil vi gi en kort forklaring av bakgrunnen for rapporten. Deretter vil vi redegjøre for metoden vi har benyttet oss av og beskrive utvalget. Hoveddelen vil hovedsakelig være delt inn etter noen av hovedfunnene fra masteroppgaven, som vil være relevante også i denne rapporten. Utvalget argumenterte og reflekterte rundt flere av temaene som samsvarer med hovedfunnene våre fra masteroppgaven. Vi vil derfor bygge videre på disse funnene, og belyse argumentasjonen i bevæpningsdebatten ytterligere gjennom dette. Vi vil innlede hoveddelen med å forsøke å komme med en forklaring på hvorfor de ulike gruppene argumenterer som de gjør, ut ifra hvilken virkelighetsforståelse de har.
+
+Deretter vil vi ta for oss oppdragsløsning, herunder responstid og effektivitet og avskrekkende effekt ved skytevåpen og usikre situasjoner. Deretter vil vi gjennomgå argumentasjonen rundt erfaringer fra den midlertidige bevæpningen og tanker om fremtiden, og finne ut om hvordan dette kan ha betydning for fremtidig politiarbeid, våpenkappløp, trening og opplæring i politiet, verstefallstenkningen og forholdet mellom politi og publikum. Videre vil det følge en gjennomgang av differensieringsproblematikken, der vi vil gå nærmere inn på hvilke situasjoner de ulike gruppene ser det hensiktsmessig eller ikke å bære våpen, hvilke alternative løsninger til generell bevæpning og fremskutt lagring de forestiller seg, samt hvem som bør bli hørt i bevæpningsspørsmålet. Avslutningsvis vil vi undersøke hvordan dette kan knyttes opp mot trygghet og tillit.
+
+**<u>Metode</u>**
+
+Datagrunnlaget for denne rapporten er samlet inn ved hjelp av fokusgruppeintervjuer. Fokusgruppeintervju er en underkategori av gruppeintervju, der man samler en mindre gruppe mennesker (4–6 personer) som seg imellom skal diskutere et gitt tema (Wibeck 2011). Til stede er en moderator som i større eller mindre grad styrer intervjuet, men selve diskusjonen mellom deltakerne er hovedmålet for gjennomføringen. «Fokus» står for fokuset på intervjuets tema; «bevæpning av politiet», og metoden er velegnet for å studere holdninger, oppfatninger og argumentasjon i en gruppe. Utvalget i de ulike gruppene kan deles inn etter spesifikke demografiske variabler slik som eksempelvis alder, utdanning, yrke eller etnisk tilhørighet. Identitetsmarkører som personnavn, kjønn og tjenestested vil anonymiseres.
+
+Oppsettet for fokusgruppeintervjuene var semistrukturerte. Informantene valgte i stor grad hva som ble diskutert, da de diskuterte fritt, og vi kun modererte diskusjonen dersom de beveget seg bort fra temaet. På denne måten kunne nye temaer dukke opp i de ulike gruppene, slik at vi fikk bredere innsikt, og kunne bedre forstå hvorfor informantene argumenterte slik de gjorde.
+
+**<u>Vitenskapelig kvalitet</u>**
+
+Hensikten med denne studien er å videre kartlegge argumentasjonen i bevæpningsdebatten, holdninger til bevæpning og undersøke nærmere hvilke forestillinger som ligger til grunn for disse. Derfor var det å gjennomføre kvalitative fokusgruppeintervjuer en hensiktsmessig metode å benytte seg av. Denne metoden gir et rikt materiale, og gir samtidig dybdeforståelse av fenomenet som undersøkes.
+
+Vi har kartlagt argumenter, og hvordan informantene har underbygget disse med fortelling av episoder, erfaringer og forestillinger. Vi har som hensikt å gi en dypere forståelse enn den tallmessige fremstillingen av bevæpningsdebatten som blant annet fremkommer av spørreundersøkelser (Fekjær og Strype 2015; Finstad 2011, 2012), gjennom å få frem argumentasjon og hva som kan ligge til grunn for argumentasjonen. Kvantitativ forskning og fremstillinger av tall bør suppleres med kvalitative undersøkelser, og kvaliteten kan avgjøres ut ifra om beskrivelsene er sannsynliggjort, resonnementene er holdbare og om det kan gi nye innsikter (Giertsen 2003:36). Ved å benytte fokusgruppeintervjuer har vi i tillegg fått kjennskap til kontekst gjennom hvilke faktorer som kan være med på å avgjøre de sjablonmessige fremstillingene av for og imot bevæpning, og hva som kan gjøre at disse eventuelt endrer seg.
+
+I denne rapporten har vi blant annet funnet større variasjon i politiets argumentasjon enn det som fremkommer av politiets argumenter som tidligere er dekket. Det er manglende forskning angående publikums argumenter og holdninger til bevæpning i Norge. Det som fremkommer av materialet gir et godt grunnlag for å se bredden av argumentene som finnes i bevæpningsdebatten, og det er grunn til å tro at argumentene som beskrives i denne rapporten kan være dekkende. Det kan særlig stadfestes at variasjonen i argumenter som omhandler bevæpning er stor, ikke bare hos publikum – men også innad i politiet.
+
+Da vi hadde som hensikt å undersøke befolkningens holdninger til bevæpning ga fokusgruppeintervjuer oss dybdekunnskap om hva som kunne forme holdningene. Dette ville ikke latt seg gjøre i like stor grad dersom vi eksempelvis hadde anvendt en survey, som i større grad har som mål å kartlegge mønstre i befolkningen. En av fordelene med fokusgrupper er at informantene kan uttrykke et standpunkt, men så kan det vise seg i måten de resonnerer og argumenterer på at spørsmålets svar ikke er like entydig som først antatt, og egne meninger og forståelser kan bli utfordret. Dette ville vært vanskelig å undersøke med en survey.
+
+Slik Liv Finstad (2011) påpeker kan det være mange grunner til at man besvarer en spørreundersøkelse slik man gjør; blant annet tidspunktet man gjennomfører den på (fredstid vs. kritisk situasjon i forkant), respondenter som faller fra, hvordan man formulerer spørsmålene og i hvilken sammenheng de stilles. Som Finstad peker på, er det «(...) ikke urimelig å anta at når det er mange spørsmål om ulike sider ved bevæpning som skal besvares og kommenteres, og ikke bare om man er enig eller uenig i permanent bevæpning, kan dette bidra til at man får temaet problematisert» (2011:61). Ved fokusgruppeintervjuer kunne vi få et innblikk i hvordan informantene argumenterte. Da vi stilte informantene åpne spørsmål kunne vi undersøke hva som ble vektlagt av dem, måter de reflekterer over og resonnerer seg frem til svar på ulike spørsmål, og hvordan holdninger kan endres og utfordres.
+
+**<u>Begrunnelse for utvalg og beskrivelse av grupper</u>**
+
+Denne rapporten omfatter totalt 14 fokusgruppeintervjuer, hvorav seks av intervjuene er med politifolk og åtte er med publikum. De seks gruppene som ble intervjuet i masteroppgaven er også inkludert her ved at de ulike delene bygger på utvalgte hovedfunn fra masteroppgaven (Helstad og Ingjer 2016). Disse gruppenes argumenter er i tillegg sammenfattet der det er relevant under de ulike delene, så rapporten vil i sin helhet omtale 20 grupper og 88 personer totalt. Vi ønsket et variert utvalg som enten blir berørt av en eventuell bevæpning i sitt yrke, eller som kan tenkes å bli berørt som publikum, og vi har derfor intervjuet både politi- og publikumsgrupper.
+
+*<u>Politi</u>*
+
+Vi har gjennomført seks fokusgruppeintervjuer med politi. Politigruppene i utvalget er valgt ut ifra flere kriterier. Vi har intervjuet politi ved tjenestesteder med geografisk spredning i landet, som kan tenkes å ha ulike utfordringer. Flere av tjenestestedene vi intervjuet var preget av større avstander, lengre til bistand og en annen kriminalitetsmengde enn Oslo og Østlandet. To av de seks politigruppene holdt til i større byer i Norge, mens de resterende intervjuene foregikk på lensmannskontorer og politistasjoner i Distrikts-Norge.
+
+Finstad legger frem i sin rapport fra 2012 hovedresultatene fra en spørreundersøkelse om hva innsatspersonell mente om generell bevæpning. Finstad fant variasjoner mellom ulike politidistrikt når det gjelder standpunkt til generell bevæpning. I Oslo var det et klart flertall for generell bevæpning mens det var et klart flertall mot i Sør-Trøndelag (nå Trøndelag) og Hordaland (nå Vest). Finstad fant også en ulikhet i kjønn; politimenn er oftere positive til bevæpning enn politikvinner. Alder og yrkeserfaring var også faktorer av betydning; motstanden mot bevæpning var større hos eldre politifolk, og blant de med lengre fartstid i politiet (Finstad 2012:2). Vi har i tillegg tatt utgangspunkt i statistikk fra Politiets innbyggerundersøkelse fra 2015 angående tillit til politiet i befolkningen, oppfatninger om politiets responstid og utsatthet for kriminalitet i de ulike politidistriktene. Dette anså vi som relevante dimensjoner både i utvelgelsen av politidistrikter og publikumsgrupper, da vi ønsket en spredning også i disse faktorene. Ut ifra dette og etter samtaler med Bevæpningsutvalget, utformet vi henvendelsene våre til de ulike tjenestestedene, da vi ønsket spredning i argumentasjon og standpunkt til bevæpning. I henvendelsene ba vi om 4–5 personer, både operativt politi og politifolk som hovedsakelig jobbet med forebygging og/eller etterforskning. Vi ønsket også spredning i alder, fartstid i politiet og kjønn, så langt dette var mulig. Da intervjuene stort sett foregikk i Distrikts-Norge, på mindre tjenestesteder, hadde de fleste vi snakket med flere ulike ansvars- og arbeidsoppgaver. Politifolkene vi intervjuet er eller har vært våpengodkjent (IP-godkjente 3–4)[^149], med unntak av et fåtall som hadde vært det tidligere, men som av ulike grunner ikke var det per i dag.
+
+To av politigruppene skiller seg ut fra de andre. En av gruppene holdt til i en større by og inneholdt primært etterforskere og forebyggere. Dette er stemmer som sjeldent har blitt hørt i bevæpningsdebatten, men som på lik linje med annet politipersonell vil bli berørt av en eventuell bevæpning, og som kjenner politiet og politiets arbeid fra innsiden. Da vi i Oslo og omegn ønsket en gruppe som i utgangspunktet var skeptiske til eller imot generell bevæpning, vil også denne skille seg ut fra gruppene i Distrikts-Norge. Da argumentasjonen fra politi som er positive til bevæpning var dekket fra masteroppgaven (Helstad og Ingjer 2016), anså vi det viktig å få frem variasjonen i meninger og argumentasjon som finnes i alle deler av landet – også i Oslo og omegn. Dette er i tillegg andre stemmer enn de som vanligvis dominerer debatten fra dette området.
+
+*<u>Publikum</u>*
+
+Vi har intervjuet åtte publikumsgrupper totalt. I likhet med politigruppene ønsket vi også at publikumsgruppene skulle ha en geografisk spredning. Gruppene kan være eksempler på grupper som har forskjellig type kontakt med politiet, variasjon i hvor hyppig de har kontakt med politiet og antatt variert grad av tillit til politiet. Tre av gruppene er rekruttert via sivilsamfunnets organisasjoner. To av gruppene er samarbeidspartnere til politiet i ulike settinger; natteravner og psykiatripersonell med arbeidsoppgaver tilknyttet akuttpsykiatrien og det gatenære. Samarbeidspartnergruppene skiller seg fra det øvrige publikum ved at de både snakker om deres opplevelser og erfaringer som samarbeidspartnere med politiet, i tillegg til at de også tilhører det generelle publikum. Natteravnene samarbeider med politiet i ordenstjeneste på kvelds- og nattestid, og interagerer både med politi og publikum på tider av døgnet der publikumsbestillingene og politiinitiativene forekommer omtrent like hyppig. Derimot er det høyere aktivitet med politiinitiativer på kveld og natt i forhold til på dagtid, og nattsettene er også mer aktive ved at de inneholder flest hendelser (Finstad 2013:99–100). Politiet omtaler ofte usikre situasjoner, situasjoner der de ikke vet hva eller hvem som møter dem, da særlig i forbindelse med psykiatri og rus. Dette gjør psykiatripersonell til en særlig relevant publikumsgruppe å ha med i utvalget, da de har inngående kunnskap om psykiatri og situasjoner i forbindelse med dette. Tre av publikumsgruppene har i større grad enn øvrige grupper vært utsatt for politikontroll og «politiblikket» (Finstad, 2013) enn de øvrige. Dermed vil disse gruppene; tidligere innsatte, tidligere rusmisbrukere (og pårørende) og norsk-somaliere, bli omtalt som «utsatte publikumsgrupper». Gruppene er også publikumsgrupper, men de har opplevd en annen type kontakt og/eller hyppigere kontakt med politiet enn de øvrige publikumsgruppene vi har intervjuet. Dette er grupper som har personlige erfaringer med å være gjenstand for politiblikket, og som antakeligvis oftere har blitt utsatt for ulike former for polisiær kontroll. Finstad forklarer at politiblikket gjennom politiinitiativer bidrar til å senke terskelen for å kontrollere bestemte personer og grupper (Finstad 2013:121). Vi ser det også viktig å understreke hvordan disse tre gruppene ikke kan anses som grupper som nødvendigvis har mer til felles enn det at de har erfaringer og opplevelser med å ha vært fokus for politiblikket.
+
+**<u>Virkelighetsforst</u><u>å</u><u>else</u>**
+
+Et funn fra masteroppgaven var at hvordan de ulike gruppene oppfattet risiko påvirket standpunkt i bevæpningsdebatten. Skytevåpenet var en del av publikums oppfattelse av risiko, mens farer ved eget yrke var en del av politiets risikooppfatning (Helstad og Ingjer 2016:132). Vi ser det relevant å forsøke og vise hva som kan forme politi og publikum, og hvordan dette kan føre til ulike forestillinger om risiko, farlighet i samfunnet og virkelighetsoppfatning. Dette vil belyse hvorfor gruppene argumenterer som de gjør.
+
+De ulike gruppene, og også de ulike personene innad i de ulike gruppene, argumenterer ulikt og har ulike standpunkter og synspunkter på bevæpning av politiet. Årsaker til dette kan grunne i ulik oppfattelse av risiko, oppfatninger om samfunnet og kriminalitetsbildet, og varierende opplevd trygghet. Dersom den opplevde tryggheten er høy, og man dermed ikke oppfatter samfunnet som farlig, argumenterer man som regel heller mot enn for bevæpning. Vi vil koble virkelighetsforståelse til trygghet og tillit, som vi hovedsakelig vil knytte argumentasjonen til i oppsummeringen, allerede her.
+
+*<u>Politi</u>*
+
+I politigruppene som holder til i Distrikts-Norge var det hovedsakelig erfaring og fartstid i politiet som utgjorde de største faktorene for hvordan risiko oppfattes. De med lenger fartstid beskrev seg selv som tryggere, særlig i forbindelse med oppdrag de vurderte som risikofylte. Trygghet på egen kompetanse i yrket kan kobles med hvor trygge de opplever seg i usikre situasjoner og i samfunnet generelt.
+
+Flere informanter fremhevet at det var bekymringsverdig at Politihøgskolen[^150] var med på å skape et misvisende virkelighetsbilde for studentene ved å vektlegge et farlig samfunn og en negativ samfunnsutvikling. De var skeptiske til om fremstillingen av risikonivået ved politiyrket var realistisk, og fryktet at politistudentene *lærer* at de utdanner seg til et farlig yrke, og at dette påvirker tankene deres om egensikkerhet. De viste også skepsis i forbindelse med opplæringsfokuset på PHS, særlig etter 22/7, og mente det hadde blitt et for stort fokus på PLIVO[^151]-trening.
+
+Likevel, ble det også uttrykt her hvordan samfunnet utvikler seg i negativ retning, og at det var naturlig at politiet «henger med» på denne utviklingen; «ingen ønsker bevæpning, men hvis samfunnet krever det...». Informantene opplevde medienes fremstilling av virkeligheten som skjev og mente det kun var det negative som fikk spalteplass og at man hørte lite om de politioppdragene som løses uten dramatikk. Selv om det var variasjon i oppfattelse av risiko i disse gruppene, så de ofte til Oslo som et «farligere» sted, med et skarpere trusselbilde og mer utfordrende klientell.
+
+I likhet med politigruppene i Distrikts-Norge, hadde også gruppen med primært etterforskere og forebyggere en oppfatning av at Oslo var en farligere by enn eget tjenestested. De omtalte deres egen by som «Kardemommeby» i forhold til Oslo. Gruppen diskuterte også en egen fryktkultur blant politiet i Oslo, som fører til at man blant annet skaffer seg ekstrautstyr, noe de mente var unødvendig. De oppfattet eget yrke som et med høy risiko, men var likevel delte i bevæpningsspørsmålet.
+
+Politigruppen i Oslo og omegn som var skeptiske til bevæpning følte seg ikke tryggere med våpen, og fremhevet at Norge er et trygt land å bo i. De sammenlignet Norge med andre land, og mente kriminalstatistikken gjenspeiler samfunnet. De vektla også at sannsynligheten for at det skal skje alvorlig kriminalitet i Norge er svært liten. Selv om denne gruppen var skeptiske til eller imot generell bevæpning, hadde de forståelse for at politifolk er positive til bevæpning dersom de hadde opplevd at noen har ønsket å skade dem. Likevel, var dette en risiko de mente man bør være bevisst på dersom man er politi av yrke. De påpekte at risikoeksponering kunne være en årsak til at mange politifolk hadde en oppfatning av et forverret kriminalitetsbilde, og at dette heller kunne skyldes at det er færre på jobb enn tidligere, slik at hver enkelt ble eksponert for en større mengde oppdrag med høy risiko. Gruppen mente fremstillingen av en negativ samfunnsutvikling var feilaktig, og etterlyste studier som viser at det har blitt farligere, da det meste av forskningen fastslår det motsatte.
+
+I likhet med andre politigrupper, var gruppen kritiske til at opplæringsfokuset på PHS etter 22/7 var mer PLIVO-trening, og mindre trening på hvordan ordensoppdrag kan gjennomføres uten våpenbruk. De mente at et økt fokus på effektivitet i oppdragsløsning kunne gjøre oppdragene mer risikofylte. De hadde også et fokus på at mange på PHS har mindre erfaring enn tidligere, fordi mange begynner rett på PHS etter videregående skole, og at færre har vært i forsvaret. De vektla at unge med mindre erfaring føler et større tidspress, noe som kan føre til en hardere tilnærming – og som igjen kan gjøre situasjonene farligere og videre påvirke fremtidig oppdragsløsning. De påpekte at politiets yrkesrisiko er lavere enn flere andre yrker (for eksempel innen helse), men at den lave risikoaksepten kunne være en følge av en høyere sikkerhetskultur.
+
+Gruppen stilte seg undrende til hvorfor bevæpningsspørsmålet var under evaluering på akkurat dette tidspunktet, i likhet med flere andre grupper. De oppfattet at utredningen hovedsakelig var igangsatt av politiske krefter. Videre mente de den var fryktbasert (her nevnes frykt grunnet 22/7 og IS-terror), og ikke basert på forskning som tilsier at samfunnet og politiyrket er blitt farligere, som burde være grunnlaget.
+
+*<u>Det generelle publikum</u>*
+
+Publikumsgruppene fra sivilsamfunnets organisasjoner fortalte at de stort sett følte seg trygge. De fleste var bosatt i Distrikts-Norge, og så ikke behovet for at politiet skulle være fast bevæpnet der de befant seg. Flere mente en eventuell bevæpning heller ville ha motsatt virkning, og skape mer utrygghet. Et tydelig flertall anså ordningen med fremskutt lagring som en god løsning, og oppfattet at dette var proporsjonalt i forhold til kriminalitetsbildet. De trodde også det var lite sannsynlig at de selv ville bli utsatt for kriminalitet. Dette mente mange hadde sammenheng med at de var bosatt på mindre sentrale steder. Trygghet ble diskutert på ulike måter. Der noen fortalte at de ikke låste døren hjemme og at samfunnsutviklingen gikk i en positiv retning, oppfattet andre dette som en naiv tankegang og følte at «verden skygger innpå», og mente de kriminelle miljøene ble tøffere.
+
+*<u>Samarbeidspartnere</u>*
+
+Gruppen med psykiatripersonell fortalte at de jobbet tett med politiet og at samarbeidet fungerte godt. Gruppen fastslo at samfunnsutviklingen bør være avgjørende for en eventuell bevæpning, og at avgjørelsen ikke kunne baseres på enkelthendelser, ettersom det var en liten risiko for at disse ville inntreffe. De opplevde ikke en negativ utvikling, og mente at politiet ikke kan være dem som «hever terskelen» først – før en eventuell negativ samfunns- og kriminalitetsutvikling. Flere mente det ville bli mer utrygt for både politi og publikum med bevæpnet politi.
+
+Som politiets samarbeidspartner fortalte Natteravnene at de selv ikke hadde opplevd behov for bevæpnet politi, og følte seg trygge i byen, både som natteravner og privat. De fortalte at også de måtte følge ekstra godt med i folkemengder ettersom Norge ikke var skjermet for terrorangrep. Likevel trodde de at det var lite sannsynlig at det ville skje noe i «deres» by. Flere i gruppen var oppmerksomme på at den reelle faren var mindre enn den opplevde faren når det kommer til terror, og anså behovet for et bevæpnet politi som lavt, så lenge deres by ikke var et «mål». Gruppen mente den opplevde tryggheten burde tas i betraktning. Flere uttrykte at man ikke kan skjerme seg for all risiko og at man videre heller ikke kan avverge alt som eventuelt kan komme til å skje. I sammenheng med dette fortalte de at man ikke kan eller bør organisere et samfunn etter frykten for terror.
+
+*<u>Utsatte grupper</u>*
+
+Gruppene med tidligere rusmisbrukere (og pårørende) og tidligere innsatte mente politiets grad av bevæpning reflekterer samfunnets tilstand. I likhet med flere andre grupper, stilte gruppene seg spørrende til hvorfor bevæpningsspørsmålet ble tatt opp på dette tidspunktet, og undret seg over om det var i sammenheng med en overhengende trussel.
+
+Flere av personene i gruppene hadde erfaringer fra begge sider av loven. Til tross for at de på intervjutidspunktet var en del av politiets generelle publikum, hang opplevelsen igjen av å ikke være det, og de var preget av, og følte seg mer utsatt for polisiær kontroll enn øvrige publikumsgrupper. Deres negative opplevelser med politiet ble ofte tatt opp i forbindelse med det de opplevde som overdreven maktbruk og autoritet. På den andre siden uttrykte gruppene at de forstod at politiet opplever utrygghet i ulike situasjoner, og at dette kunne være grunnen til at politiet handler slik som de gjør. Med bakgrunn fra et kriminalitets- og rusbelastet miljø beskrev de dårlige erfaringer med væpnede personer på begge sider av loven. De følte seg ikke trygge med våpen i samfunnet generelt, noe de selv mente kunne ha å gjøre med bakgrunnen deres. De forklarte hvordan livet som lovbryter var, med en slags «oss mot dem»-mentalitet, og at de først klarte å se ting fra flere sider da de hadde kommet seg ut av miljøene de tilhørte. Flere beskrev opplevelsen av å bli redde i møte med bevæpnet politi. Noen hadde opplevd å ha bevæpnet politi etter seg, og beskrev dette som «ekkelt». De forklarte at begge parter, både de selv og politiet, var redde i en slik situasjon.
+
+Gruppen med norsk-somaliere trakk på tidligere opplevelser med politiet fra hjemlandet, og vektla at noen kan ha traumer i forbindelse med dette. Gruppen oppfattet det slik at politiet ønsket bevæpning hovedsakelig grunnet innvandrere, og de opplevde politiet som mer rasistiske enn for få år siden. De fleste i denne gruppen aksepterte et bevæpnet politi dersom det var terrorfare, men beskrev det samtidig som «psykologisk terror» for publikum dersom politiet bærer våpen i normaltilstander.
+
+**<u>Oppdragsl</u><u>ø</u><u>sning</u>**
+
+Denne delen omhandler det gruppene diskuterte rundt å løse oppdrag, og faktorer som kan tenkes å spille inn her. Deretter vil vi særlig gå gjennom argumentasjonen rundt responstid, effektivitet, avskrekkende effekt ved skytevåpen og usikre situasjoner.
+
+*<u>Politi</u>*
+
+I forbindelse med oppdragsløsning spilte det å ha erfaring med å løse situasjoner uten våpen en sentral rolle for hvordan politigruppene i Distrikts-Norge stilte seg til ønsket om bevæpning. En overvekt av de som hadde vært lenge i tjenesten oppfattet det slik at det kom an på hva man var vant til og hva man hadde erfart, og at de selv hadde opplevd hvor sjeldent de hadde hatt behov for våpen. Flere påpekte at ved å mestre vanskelige situasjoner uten bruk av våpen bærer man med seg denne erfaringen, noe de anså som nyttig.
+
+En informant fortalte at han hadde vært i en situasjon han mente det var sentralt at han var ubevæpnet for at han fortsatt var i live. Han fortalte at han hadde fått en hagle rettet mot hodet og at dersom han hadde hatt et våpen eller hadde forsøkt å bruke et våpen, trodde han ikke det hadde gått bra. Motsatt fortalte en informant i en annen gruppe om en situasjon der han truet med våpen og oppfattet det slik at situasjonen ikke kunne ha blitt løst uten, ettersom motparten var bevæpnet. Det ble uttalt hvordan man har muligheten til å gjøre mer enn kun å observere dersom man er bevæpnet, og flere følte seg bedre rustet til å løse oppdrag dersom de hadde hatt flere verktøy. Samlet sett fortalte likevel et flertall at de ikke hadde vært i situasjoner der de trodde at våpen hadde hjulpet eller roet ned situasjonen.
+
+Gruppen med etterforskere og forebyggere opplevde at det ikke var en betydelig forskjell på hvordan oppdrag løses med og uten våpen, da de ikke hadde endret egne arbeidsmetoder. Vanlige oppdrag måtte løses uavhengig av om man var bevæpnet eller ikke, og dersom de skulle ut på et oppdrag der det ikke var noe som tilsa våpenbruk, måtte jobben likevel gjøres. Videre trodde de at jo mer erfaring man hadde, desto tryggere ville man føle seg. Denne tryggheten var basert på en større grad av kunnskap om og kjennskap til publikum, noe som kunne føre til at man beveget seg i retning av å være imot bevæpning.
+
+Politigruppen som var skeptiske til bevæpning oppfattet også at mer erfarne politifolk var tryggere på egen kompetanse i forbindelse med å løse ulike oppdrag. De oppfattet at de unge som kom rett fra PHS var mer instrumentelle og mindre tilpasningsdyktige i sin tilnærming til de ulike menneskene man møter.
+
+*<u>Det generelle publikum</u>*
+
+Gruppene opplevde at fremskutt lagring har fungert godt når det kommer til hvordan politiet løser oppdrag. Særlig trodde de mindre alvorlige hendelser fint kunne løses uten bevæpning. Dersom man hadde lite erfaring med å løse de vanskelige situasjonene uten våpen, særlig å «snakke ned» situasjoner, kunne feil beslutning tas dersom man er bevæpnet. Flere informanter fremhevet tryggheten i at politiet kommer og ordner opp, og avklarer situasjoner før det går galt – uten våpen. Alle publikumsgruppene var enige om at det kreves erfaring for å gå bevæpnet. Samtidig viste de forståelse for at politiet kan komme til å trenge våpen i enkelte situasjoner. Det var relativ enighet rundt at våpenet kunne være en trygghetsfaktor for politiet selv i situasjoner der de blir møtt med våpen og i terrorsituasjoner.
+
+*<u>Samarbeidspartnere</u>*
+
+Gruppen med psykiatripersonell trakk på erfaringene de hadde fra samarbeidet med politiet. De mente våpen ikke bør være «løsningen på problemer», og at dersom man tilfører våpen i en konflikt, vil risikonivået øke. Deres opplevelser med å løse oppdrag i forbindelse med psykiatri viste at mykere metoder, slik som problemløsning, å skape kontakt og relasjon og det å være gode på å lese situasjoner, gjør behovet mindre for å løse oppdrag ved hjelp av makt og maktmidler. Gruppen trodde det ville vært mer samfunnsnyttig med et økt fokus på det de kaller politiets viktigste oppgave, forebygging, enn bevæpning i utgangspunktet.
+
+Natteravnene mente fremskutt lagring var en god løsning, og begrunnet dette med at politiet aldri var langt fra bilen. De forestilte seg at det var konfliktdempende med et ubevæpnet politi og at dette var fordelaktig for politiets oppdragsløsning. Ved at de ikke bar våpen oppnådde de en unik respekt, og dette kunne være den avgjørende faktoren for at situasjoner ble løst uten våpenbruk. De forestilte seg at terskelen for å bruke våpen øker ved å gå gjennom «stopp-og-tenk»-prosessen[^152], og at denne metoden kan føre til at oppdraget løses på en bedre måte.
+
+*<u>Utsatte grupper</u>*
+
+Gruppene med tidligere rusmisbrukere og innsatte hadde både vært vitner til og målet for politiets oppdragsløsning. Gruppene opplevde at de unge politibetjentene i større grad «viser muskler» og autoritet, der de eldre brukte mykere metoder som eksempelvis forhandling. De hadde også opplevd å bli behandlet med mer respekt fra de eldre betjentene som hadde mer kjennskap til dem. De fleste viste forståelse for at politiet tidvis må bevæpne seg, og for at noen situasjoner kan kreve det.
+
+**<u>Responstid og effektivitet</u>**
+
+Et av hovedfunnene fra masteroppgaven var enigheten rundt at responstiden ville bli raskere dersom politiet ble fast bevæpnet. Selv om det var enighet rundt dette, var det uenighet i om det ville være en fordel eller en ulempe. Publikum vektla den nødvendige refleksjonstiden ved fremskutt lagring, og mente terskelen for å bruke skytevåpen ville senkes med bevæpnet politi. Politigruppene opplevde refleksjonstiden som unødvendig, da den gikk utover effektiviteten og oppdragsløsningen deres. De mente generell bevæpning ville føre til bedre oppdragsløsning, særlig ved utrykning, da tiden det tar å bevæpne seg ikke brukes til refleksjon slik den er ment.
+
+*<u>Politi</u>*
+
+Det var varierende argumentasjon i politigruppene i Distrikts-Norge angående responstid og effektivitet ved fremskutt lagring kontra generell bevæpning. Flere mente det gikk raskt å bevæpne seg dersom de var i bilen, og fremhevet at de hadde tid til å bevæpne seg i bilen i de fleste oppdrag. De så flere fordeler ved fremskutt lagring, men understreket viktigheten av en standardisering, og at det fungerer like bra, i hele Politi-Norge. På den andre siden mente en gruppe at dersom man ikke er i bilen, må man trekke seg tilbake, og at det å trekke seg tilbake gir mindre oversikt over situasjonen.
+
+Det ble vektlagt av enkelte hvordan det kan være nyttig å entre eksempelvis «skyting pågår»-situasjoner raskere ved å ha våpen tilgjengelig, og at de dermed kan «uskadeliggjøre målet kjappere», fordi de ikke må trekke seg tilbake. Likevel var de klare på at de måtte være til stede i en akutt situasjon for at det skulle være mer effektivt å være fast bevæpnet. Dersom de kjørte utrykning dit, kunne de bevæpnet seg i bilen.
+
+Flere av informantene hadde også et fokus på terror, som eksempelvis ble omtalt som at «(...) det kommer nærmere og nærmere». Flere mente at det i en terrorsituasjon ville være en fordel å ha rask tilgang til våpen. I forbindelse med dette tok en av gruppene opp politiets handlingsplikt, men vektla likevel at etterretning var vel så viktig. Etterretningen kunne avdekke på et tidligere tidspunkt – slik at man ikke havnet i situasjonen i første omgang.
+
+Gruppen med etterforskere og forebyggere mente det kunne være en fordel for politiet å bli vant til å bære våpen i forbindelse med oppdragsløsning. De anså det som et stressmoment å bevæpne seg under oppdrag ved fremskutt lagring. Stressnivået økte dersom man sjeldent eller aldri var bevæpnet, og gruppen mente fokuset heller bør være på oppdragsløsningen, noe de setter i kontrast med det fremskutt lagring er ment for å gjøre. Det var en ulempe å måtte fokusere på det tekniske rundt våpenet, og de mente det var fordelaktig å heller kunne fokusere på den mentale forberedelsen under oppdragsløsning. De følte seg «kapasitetsmessig redusert» etter de hadde bevæpnet seg, og mente tiden heller burde blitt brukt på sambandskommunikasjon. Dette samsvarer med funnet fra masteroppgaven. Gruppen anså den største ulempen ved fremskutt lagring som de situasjonene der man virkelig hadde bruk for våpenet. Dette ble understreket med en egenopplevd episode fra et annet tjenestested;
+
+*«Ulempene er når du virkelig trenger våpenet (...), vi fikk beskjed om at en var skutt og en som så han og han gikk med våpen i hånda og kom rett gående mot oss. Da var det den gamle våpenkassa, en som har nøkkel og skulle låse opp samtidig som du ser at han kommer mot deg, skulle låse opp våpenet også skulle du lade. Det var et jævla stressmoment for vi fikk ikke opp låsen (...) Fikk jo opp låsen til slutt da, men det var et, det var stressende altså. Han kom mot deg med luftpistol etter… vi fikk opp den… fikk retta våpenet mot han til slutt. Det hadde vært lettere med våpen på hofta for å si det sånn.»*
+
+Episoden ble fortalt for å vise viktigheten av å ha våpen lett tilgjengelig i enkelte situasjoner, men også denne hendelsen endte bra, og situasjonen ble løst; og de fikk det til «til slutt». Likevel mente gruppen at det i de fleste tilfeller er tilstrekkelig beredskap med fremskutt lagring. Det var sjeldent tidsnød, men tidsnøden kunne få fatale følger.
+
+Siden informantene i denne gruppen hovedsakelig jobbet innenfor etterforskning og forebygging, støttet flere seg på og hadde tillit til kolleger som jobbet «mer operativt» enn dem selv. En informant fortalte at de operative følte seg mer forberedt på en trussel dersom de var bevæpnet, og at fremskutt lagring derfor ikke var et godt alternativ, da tidsnøden kunne dreie seg om sekunder. De tok opp refleksjonen som er ment å være en fordel med fremskutt lagring, men nedvurderte dette da den ofte ikke ble brukt slik den er intendert, da man har «andre ting i hodet da».
+
+Da politigruppen som var skeptiske til bevæpning diskuterte oppdragsløsning fremhevet de den ekstra refleksjonstiden ved fremskutt lagring. De hadde erfart at tiden lot hodet komme à jour med det som skjedde rundt en og man kunne legge en plan. De mente dette var en bedre løsning for at både de selv som politi, og publikum, skal være mest mulig sikre. Der flere i de andre politigruppene omtalte det å bevæpne seg som et stressmoment, mente denne gruppen at dersom stressnivået økte av dette, kunne det være et tegn på at man nettopp bør ta de skrittene tilbake for å roe seg ned, og ta på verneutstyr, slik at man ikke blir en fare for seg selv og andre. Dersom det var en pågående, alvorlig situasjon var man antagelig nødt til å ha på verneutstyr, og derfor likevel måtte tilbake til bilen, dersom man var så opptatt av egensikkerheten som for-argumentasjonen uttrykte. Videre mente de at dersom man entret en usikker situasjon raskt, kunne det være farlig for politiet, og hvis politiet skader seg, forsvinner nytten ved effektiviteten. Det å gå inn i en situasjon og samtidig redusere bruken av de nåværende polititaktiske metoder, fordi man bærer våpen mente de ble en falsk trygghet ettersom det kan føre til at politiet går raskere inn i situasjonen, og dermed føre med seg en større fare for betjentenes trygghet. De vektla at dagens utstyr var bedre tilrettelagt enn tidligere, og at det var tilpasset til at det skulle gå raskt. De mente politifolk var flinke til å forberede bilen i forkant, og dersom det ikke var automatisert hvor ting befant seg og hvordan man skulle få utstyret på, så var det heller et tegn på at de var for dårlig trent.
+
+*<u>Det generelle publikum</u>*
+
+Publikumsgruppene hadde forståelse for argumentene som talte for bevæpning i forbindelse med oppdragsløsning og effektivitet, men mente likevel at fordelene ved fremskutt lagring veide tyngst. Dette begrunnet de med at de heller ønsket at situasjonen skulle løses på riktig måte, «at ingen blir skutt», enn at politiet hadde rask tilgang til våpenet, selv om flere så nytten av dette i enkelte tilfeller. Det kom også frem at fremskutt lagring kunne sette politiet i en svakere posisjon hvis det var lang avstand mellom politibilen og situasjonen. Det var enighet i publikumsgruppene rundt at det også kunne forekomme misforståelser og feil for politiets del, selv om de stort sett hadde tiltro til at de tok riktige beslutninger. Grunnet dette, mente de fremskutt lagring var en bedre løsning – i tilfelle noe skulle gå galt. Fordelene med «stopp-og-tenk»-tilnærmingen anså mange som positivt i publikumsgruppene. De trodde også at politiet fikk bevæpning i de fleste tilfeller dersom de ba om det.
+
+Publikumsgruppene så lite nytte i at politiet skulle ha rask tilgang til våpen i forbindelse med terrorhandlinger, og tenkte da særlig på bombeeksplosjoner. Dette begrunnet de med at terrorangrep var planlagte, og at det derfor ville komme til å skje uavhengig av om politiet bar våpen eller ikke. De oppfattet heller at politiet kunne være der for å få mennesker ut av faresonen, og en gruppe spør; «hva skal de med våpen da?».
+
+*<u>Samarbeidspartnere</u>*
+
+Natteravnene trodde politiet hadde tid til å bevæpne seg i bilen under utrykning. Videre mente de politiet kunne lære av dem; selv tok de seg bedre tid, men var også innforstått med at de *hadde* bedre tid. Hvis politiet hadde hatt mer tid, kunne de tatt seg bedre av enkeltpersoner, slik de gjør som natteravner. Likevel, mente de dette bidro til at de utfylte hverandre i bybildet. De hadde erfart hvordan politiet kunne roe ned situasjoner kun ved tilstedeværelse, eksempelvis ved at bilen stod synlig parkert på kveldstid.
+
+Gruppen uttrykte noe bekymring for terror, men var delte i å se nytten av bevæpnet politi i et eventuelt terroranslag. Mens noen mente våpen har vist seg nyttig «når det skjer noe», viste andre til Paris og mente at det ikke hjalp med bevæpnet politi der.
+
+*<u>Utsatte grupper</u>*
+
+I likhet med publikumsgruppene var de utsatte gruppene usikre på hvor mye bevæpning ville hjulpet i forbindelse med terror. Gruppene vektla at fremskutt lagring var en tilstrekkelig og tilfredsstillende ordning, da de ikke kunne finne episoder som motbeviste dette.
+
+**<u>Avskrekkende effekt ved skytev</u><u>å</u><u>pen og usikre situasjoner</u>**
+
+Et av hovedfunnene fra masteroppgaven var hvordan politiet anså at skytevåpenet kunne virke avskrekkende i seg selv, og at dette kunne føre til bedre oppdragsløsning. Dette begrunnet de med den økte følelsen av ro de opplevde da de entret usikre situasjoner når de var bevæpnet. Det kom frem at de opplevde en høyere grad av tillit fra lovbrytere, og at lovbryteres bevissthet om at skytevåpen var til stede kunne være «nok» for å oppnå kontroll over situasjonen. Dermed kunne situasjoner løses med bruk av minst mulig maktmidler (Helstad og Ingjer 2016:131). I masteroppgaven var et funn at politiet som var positive til bevæpning, gjennomgående grunnet dette med oppdragsløsning av usikre situasjoner, ofte i forbindelse med psykiatri og rus. I forbindelse med dette funnet, har vi i dette datamaterialet fått mulighet til å høre synspunktene til gruppene politiet snakker om (psykiatripersonell, tidligere innsatte og tidligere rusmisbrukere). Dette er stemmer som sjeldent blir hørt, men dersom en eventuell bevæpning særlig vil påvirke disse gruppene, er det viktig å vise deres tanker og argumenter i forbindelse med det politiet omtalte. Oppleves skytevåpenet avskrekkende, og oppnår politiet mer respekt dersom de er bevæpnet – og hva er i så fall denne respekten basert på?
+
+Selv om politiet mente skytevåpen kunne ha en avskrekkende effekt på lovbrytere, og ikke snakket om det generelle publikum her, var det også relevant å finne ut hvilke effekter tilstedeværelse av bevæpnet politi kunne ha på det øvrige publikum. Dette vil vi komme nærmere inn på i delen som omhandler forholdet mellom politi og publikum, mens det her vil bli beskrevet tankene deres rundt oppdragsløsning i forbindelse med avskrekkende effekt ved skytevåpen og usikre situasjoner.
+
+*<u>Politi</u>*
+
+I politigruppene i Distrikts-Norge var det varierende argumentasjon rundt om skytevåpen kan virke avskrekkende. Deres refleksjoner rundt dette vil bli presentert, men det er viktig å merke seg at majoriteten verken hadde følt at skytevåpenet hadde gitt dem overtak i situasjoner, eller fortalte om en opplevd avskrekkende effekt.
+
+Flere av informantene trodde det ville ligge mer makt hos politiet, og dermed mindre hos lovbrytere, da de visste at politiet hadde noe å beskytte seg med dersom de var bevæpnet. En informant fortalte at han hadde følt et overtak ved å være bevæpnet i form av at han følte seg mer forberedt, og dermed også tryggere. Samme gruppe trodde også at det hadde virket forebyggende å ha våpen på hofta, og at de hadde avverget situasjoner grunnet dette, da de mente våpenet kunne virke avskrekkende i seg selv overfor lovbrytere.
+
+Det kom frem ulike synspunkter i forbindelse med usikre situasjoner, blant annet at det å løse situasjoner med taktikken «stopp-og-tenk» er fordelaktig, da det skaper en mindre farlig situasjon. Det var flere som verken følte seg mer eller mindre trygge med å bære våpen. Dette var ofte de som selv hadde opplevd at det hadde gått bra å være ubevæpnet i en usikker situasjon. En informant fortalte om en egenopplevd usikker situasjon der han mente det var en fordel at han var ubevæpnet;
+
+*«(...) tror jeg hadde blitt skutt hvis jeg hadde hatt våpen, nesten helt sikker på. «Planta midt i panna», hvis jeg hadde begynt å fikla etter våpen, nesten sikker på jeg hadde blitt skutt da.»*
+
+Gruppene viste ofte til skyteepisoder som hadde foregått på mindre sentrale steder der politiet hadde blitt skutt i forbindelse med usikre situasjoner, og følte frykt rundt dette. Det virket viktig for flere å eksemplifisere med disse episodene for å få frem at det ikke kun var de større byene som hadde behov for bevæpning. De gangene kriminaliteten i Oslo ble diskutert, ble ofte skyteepisodene nevnt. I forbindelse med dette tok informantene også ofte opp jaktvåpen, for å gi uttrykk for at det kan finnes farlige våpen overalt – også i Distrikts-Norge. En av gruppene så til episoden på Ottestad, og omtalte dette som en «vanlig» situasjon som utviklet seg til å involvere skyting, og fortalte at dette var situasjoner som oppstår brått. Det var også flere som fryktet at det måtte en alvorlig hendelse til før det ble bevæpning, eksempelvis; «vet aldri, kunne vært 3 drepte. Sånn situasjon som må til før det blir bevæpning?».
+
+Flere av informantene fortalte at de var redde for vanlige oppdrag som plutselig snur, og at dette ofte var i forbindelse med rus og psykiatri; «du kjenner jo ikke psykiatri». De fortalte at psykiatri var uforutsigbart, og at bevæpning kunne gjøre dem bedre forberedt til å løse slike situasjoner. De hadde fokus på at de også følte ansvar for kolleger og tredjepersoner i tillegg til egen sikkerhet. I disse ellers usikre situasjonene ble våpenet et ekstra verktøy som gjorde at de følte seg litt mer sikre. De fortalte at de aldri kunne vite hvem de ville møte, og at «alle vi er inne hos har jo en saks eller kniv, aner ikke hvem man går inn til». I forbindelse med usikre situasjoner, ble et stressmoment fjernet ved å være bevæpnet, og de kunne fokusere på situasjonen;
+
+*«(...) i det daglige, ikke utrygg ved å ikke gå med våpen, men usikre situasjoner; ‘sånn som nå hadde det vært lettvint å ha våpen’, kunne konsentrert oss om oppdraget.»*
+
+En av gruppene fortalte om en kollega som hadde opplevd å bli skutt på jobb;

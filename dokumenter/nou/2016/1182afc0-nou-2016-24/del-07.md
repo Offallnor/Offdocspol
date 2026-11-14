@@ -1,1136 +1,372 @@
-# NOU 2016: 24, del 7 av 73 (side 82–94)
+# NOU 2016: 24, del 7 av 69
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/1182afc0-nou-2016-24.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-24/id2517932/
 - Original-PDF: https://www.regjeringen.no/contentassets/6fe1d875248042b4a09b43b85aa46832/no/pdfs/nou201620160024000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 9 tabeller, 1 figur, 52 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 82]
+Når det er gitt melding om møte om fengsling av barn etter straffeprosessloven § 15-11 annet ledd, skal barneverntjenesten møte til hvert fengslingsmøte samt overfor retten uttale seg om behovet for tiltak etter barnevernloven kapittel 4 og gi informasjon om det arbeidet som pågår med å iverksette tiltak.
 
-80
+**4. Endringer i lov om krigsforbryterdomstol, Jugoslavia m.m.**
 
-Kapittel 1
+I lov 24. juni 1994 nr. 38 om gjennomføring i norsk rett av De forente nasjoners sikkerhetsråds vedtak om å opprette internasjonale domstoler for forbrytelser i det tidligere Jugoslavia og Rwanda gjøres følgende endringer:
 
-NOU 2016: 24
-Ny straffeprosesslov
+§ 3 første ledd tilføyes et nytt tredje punktum, som skal lyde:
 
-eller samboer, slektninger i rett opp- eller nedstigende linje, søsken og arvinger.
-§ 41-4. Krav til begjæring om gjenåpning
-En begjæring om gjenåpning skal angi
-a) avgjørelsen som angripes,
-b) det rettslige grunnlaget for gjenåpning, og
-c) de forhold som tilsier gjenåpning.
-§ 41-5. Gjenåpning til domfeltes gunst på grunn av
-nytt bevis eller en ny omstendighet
-En avgjørelse skal gjenåpnes når det opplyses
-om et nytt bevis eller en ny omstendighet som
-synes egnet til å føre til avvisning, frifinnelse,
-anvendelse av en mildere strafferegel eller en
-vesentlig mildere rettsfølge. Det kan likevel ikke
-påberopes bevis eller omstendigheter som vedkommende burde ha gjort gjeldende i saken, med
-mindre det er idømt frihetsstraff, reaksjon etter
-straffeloven §§ 62 eller 63 eller rettighetstap.
-§ 41-6. Gjenåpning til mistenktes ugunst på grunn
-av nytt bevis eller en ny omstendighet
-En avgjørelse skal gjenåpnes når det opplyses om et nytt bevis eller en ny omstendighet
-som tilsier at mistenkte er skyldig i den straffbare handling eller en vesentlig grovere straffbar handling enn den som er idømt. Dette
-gjelder likevel ikke dersom påtalemyndigheten
-burde gjort beviset eller omstendigheten gjeldende tidligere.
-§ 41-7. Gjenåpning til domfeltes gunst på grunn av
-forhold ved lovanvendelsen
-En avgjørelse kan gjenåpnes til gunst for domfelte på grunn av forhold ved lovanvendelsen når
-avgjørelsen bygger på
-a) klart manglende lovhjemmel,
-b) en lovtolkning som Høyesterett har fraveket,
-eller
-c) en regel i strid med folkeretten, og dette er
-fastslått av en internasjonal domstol eller FNs
-menneskerettskomité i sak mot Norge, og ny
-behandling må antas å føre til en annen avgjørelse.
-§ 41-8. Gjenåpning til domfeltes gunst på grunn av
-feil ved saksbehandlingen
-(1) En avgjørelse skal gjenåpnes dersom det
-er klart at saken skulle vært avvist fordi den allerede var endelig avgjort, eller saken i strid med
-loven ble fremmet i tiltaltes fravær.
-(2) En avgjørelse skal gjenåpnes til gunst for
-domfelte når det ikke kan utelukkes at det har innvirket på avgjørelsen at
+*Begjæring fra Domstolen behandles etter reglene i straffeprosessloven kapittel 25.*
 
-a) en dommer var utelukket fra dommerstillingen eller inhabil,
-b) en aktør eller noen som har bistått denne, har
-gjort seg skyldig i straffbart forhold i tilknytning til saken,
-c) et vitne har gitt falsk forklaring i saken, eller
-d) et bevis i saken er falskt eller forfalsket.
-Saken skal likevel ikke gjenåpnes dersom feilen
-kunne vært gjort gjeldende under saken.
-(3) En avgjørelse skal gjenåpnes når saksbehandlingen som lå til grunn for den, er i strid med
-en folkerettslig regel som Norge er bundet av, og
-dette er fastslått av en internasjonal domstol eller
-FNs menneskerettskomité i sak mot Norge, og
-gjenåpning er nødvendig for å bøte på den skade
-som feilen har medført.
-§ 41-9. Gjenåpning til mistenktes ugunst på grunn
-av feil ved saksbehandlingen
-En avgjørelse skal gjenåpnes når det er grunn
-til å anta at en frifinnelse, anvendelse av en vesentlig for mild straffebestemmelse eller en vesentlig
-for mild straff skyldes at
-a) mistenkte har gjort seg skyldig i straffbart forhold i tilknytning til saken,
-b) en aktør eller noen som har bistått denne, har
-gjort seg skyldig i straffbart forhold i tilknytning til saken, og forholdet etter loven kan
-medføre fengsel i mer enn to år,
-c) et vitne har gitt uriktig forklaring i saken, jf.
-straffeloven § 221, eller
-d) et bevis i saken er falsk eller forfalsket.
-§ 41-10. Gjenåpning til domfeltes gunst i særlige tilfeller
-En avgjørelse kan gjenåpnes til gunst for mistenkte når særlige forhold gjør det tvilsomt om
-avgjørelsen er riktig, og tungtveiende hensyn tilsier at spørsmålet om mistenktes straffansvar blir
-prøvd på ny.
-§ 41-11. Gjenåpning av dommer eldre enn 25 år
-For avgjørelser som har vært rettskraftige i 25
-år, kreves det for gjenåpning etter §§ 41-5 til 41-10
-at det foreligger forhold som gjør det meget tvilsomt at dommen er riktig.
-§ 41-12. Kommisjonen for gjenopptakelse av straffesaker. Uavhengighet
-(1) Kommisjonen for gjenopptakelse av straffesaker kan ikke instrueres om utføringen av sin
-myndighet.
-(2) Kommisjonen bestemmer selv sin arbeidsmåte og tilsetter et nødvendig antall saksforberedere.
+§ 3 annet ledd oppheves.
 
-[Side 83]
+**5. Endringer i straffegjennomføringsloven**
 
-NOU 2016: 24
-Ny straffeprosesslov
+I lov 18. mai 2001 nr. 21 om gjennomføring av straff mv. (straffegjennomføringsloven) gjøres følgende endringer:
 
-§ 41-13. Kommisjonens sammensetning
-(1) Kommisjonen for gjenopptakelse av straffesaker skal ha fem faste medlemmer og tre varamedlemmer.
-(2) Kommisjonens leder, nestleder, ett annet
-fast medlem og to av varamedlemmene skal ha
-mastergrad i rettsvitenskap eller tilsvarende grad.
-(3) Kommisjonens leder utnevnes av Kongen i
-statsråd for en periode på 7 år uten adgang til
-gjenutnevning. Kommisjonens øvrige medlemmer
-og varamedlemmer oppnevnes av Kongen i statsråd for en periode på 3 år med adgang til én gjenoppnevning.
-(4) Dersom kommisjonen ellers ikke vil være
-vedtaksfør, kan stedfortredere for kortere tid eller
-for én enkelt sak oppnevnes av departementet.
-§ 41-14. Regler om habilitet, taushetsplikt og politiattest
-(1) Kommisjonens medlemmer og andre som
-handler på vegne av den, kan ikke delta i behandlingen av en sak når personen ville ha vært inhabil
-etter reglene i domstolloven §§ 106 til 108. Har
-noen tidligere handlet i saken for eller på vegne av
-kommisjonen, er vedkommende inhabil bare dersom vilkårene i domstolloven § 108 er oppfylt. De
-øvrige reglene i domstolloven kapittel 6 gjelder tilsvarende så langt de passer. Kommisjonen avgjør
-selv spørsmål om habilitet.
-(2) Kommisjonens medlemmer og andre som
-handler på vegne av den, har taushetsplikt etter
-reglene i domstolloven § 63 a.
-(3) Det kan kreves utstedt uttømmende politiattest for lederen, nestlederen, medlemmene og
-de ansatte i kommisjonen og for andre som utfører arbeid eller tjeneste i saker for kommisjonen.
-§ 41-15. Kommisjonens utrednings-, behandlings- og
-begrunnelsesplikt
-(1) Kommisjonen skal av eget tiltak sørge for
-at saken er forsvarlig opplyst, før den avgjør om
-en begjæring om gjenåpning skal tas til følge.
-(2) Avgjørelsen skal forberedes, avgjøres og
-begrunnes uten ugrunnet opphold.
-§ 41-16. Avgjørelsesmyndighet
-(1) Om begjæringen skal tas til følge, avgjøres
-av fem medlemmer, hvorav minst tre med kvalifikasjoner som nevnt i § 41-13 annet ledd.
-(2) Kommisjonens leder eller nestleder kan
-a) avvise begjæringer rettet mot avgjørelser som
-etter sin art ikke kan gjenåpnes, eller som
-angir en grunn som etter loven ikke kan føre
-til gjenåpning, og
+Ny § 6 a skal lyde:
 
-81
+*§ 6 a. Kriminalomsorgens myndighet i straffesaker*
 
-Kapittel 1
+Tilsatt i kriminalomsorgen kan møte for tingrett og lagmannsrett i sak som er brakt inn for domstolene av kriminalomsorgen etter § 44 annet ledd eller straffeloven §§ 39 første eller annet ledd, 52 første ledd bokstav a eller 52 c første ledd bokstav a samt i sak etter straffeprosessloven § 40-4 første ledd bokstav d.
 
-b) forkaste begjæringer som åpenbart ikke kan
-føre frem.
-(3) Avgjørelser av betydning for saksbehandlingen tas av kommisjonens leder eller nestleder
-og to andre medlemmer. Beslutning om bruk av
-tvangstiltak for å gjennomføre avhør etter § 41-19
-treffes av kommisjonens leder eller nestleder.
-(4) Avgjørelser treffes med alminnelig flertall.
-§ 41-17. Kommisjonens forhold til partene
-(1) Kommisjonen har plikt til å veilede den
-som begjærer gjenåpning slik at vedkommende
-kan ivareta sine interesser.
-(2) Kommisjonen kan oppnevne forsvarer
-etter reglene i kapittel 3, som gjelder så langt de
-passer.
-(3) Begjæringen skal, med mindre den avvises
-eller forkastes, forelegges den annen part
-sammen med øvrige opplysninger av betydning.
-§ 41-18. Kommisjonens forhold til fornærmede og
-etterlatte
-(1) Fornærmede og etterlatte i lovbestemt rekkefølge skal dersom saken tilsier det,
-a) underrettes om begjæringen,
-b) gis anledning til å uttale seg skriftlig,
-c) gis anledning til å forklare seg for kommisjonen etter reglene i § 41-19, og
-d) få oppnevnt bistandsadvokat etter reglene i
-kapittel 4, som gjelder så langt de passer.
-(2) Fornærmede og etterlatte skal varsles dersom gjenåpning besluttes.
-§ 41-19. Avhør
-Kommisjonen eller en som handler på vegne
-av den, kan foreta avhør av mistenkte og vitner
-etter reglene om politiavhør i kapittel 10. Reglene
-om innkalling og om møte- og vitneplikt for retten
-gjelder tilsvarende for kommisjonen. Innkalles
-mistenkte eller et vitne, skal tre av kommisjonens
-medlemmer ta del under avhøret.
-§ 41-20. Tvangstiltak. Bevissikring. Sakkyndige
-(1) Kommisjonen kan
-a) gi utleveringspålegg etter § 19-7,
-b) foreta undersøkelse av ting etter reglene i
-§ 18-7,
-c) treffe avgjørelse om unntak fra bevisforbud
-etter § 8-6 annet ledd, og
-d) oppnevne sakkyndig etter reglene i kapittel
-11.
-(2) Kommisjonen kan begjære
-a) bevissikring etter kapittel 12, og
-b) bruk av tvangstiltak etter kapittel 14 til 21.
+Regionalt nivå kan treffe vedtak om anke over tingrettens dom i sak etter straffeloven §§ 39 annet ledd og 52 første ledd bokstav a.
 
-[Side 84]
+Regionalt nivå treffer vedtak om iverksetting etter straffeprosessloven § 40-2.
 
-82
-
-Kapittel 1
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-(3) I særlige tilfeller kan kommisjonen
-anmode påtalemyndigheten om å utføre nærmere
-angitte etterforskingsskritt.
-(4) Påtalemyndigheten kan benytte tvangstiltak for å avklare om en sak skal begjæres gjenåpnet, men ikke beslutte begrensninger i
-bevegelsesfriheten av hensyn til allmenhetens
-retts- og trygghetsfølelse etter § 15-3 før det er
-truffet beslutning om å begjære gjenåpning.
-§ 41-21. Muntlige høringer
-(1) Kommisjonen kan avholde muntlig høring.
-(2) Muntlig høring holdes for åpne dører.
-Kommisjonen kan beslutte at høringen skal holdes for stengte dører i medhold av reglene i domstolloven kapittel 7.
-§ 41-22. Valg av domstol til å behandle gjenåpnet sak
-(1) Er gjenåpning besluttet, skal saken henvises til en domstol som er sideordnet den rett som
-har avsagt den angrepne avgjørelse.
-(2) Er det truffet avgjørelse i flere instanser,
-regnes den domstol som i siste instans har prøvd
-den side av avgjørelsen som angrepet rettes mot,
-for å ha truffet avgjørelsen.
-(3) Er avgjørelsen som skal gjenåpnes, truffet
-av tingretten, sender kommisjonen sin avgjørelse
-til lagmannsretten, som peker ut en tingrett med
-tilgrensende rettskrets til å behandle saken.
-(4) Er avgjørelsen truffet av lagmannsretten,
-eller er lagmannsretten inhabil til å peke ut tingrett etter tredje ledd, sender kommisjonen sin
-avgjørelse til Høyesteretts ankeutvalg, som peker
-ut en lagmannsrett med tilgrensende rettskrets til
-å behandle saken.
-(5) Er avgjørelsen truffet av Høyesterett,
-behandles saken på nytt av Høyesterett.
-(6) Dersom særlige forhold tilsier det, kan
-saken henvises til ny behandling ved en domstol
-som ikke har tilgrensende rettskrets.
-(7) Er mistenkte død, og det skal avises dom
-etter § 41-23 annet ledd bokstav a, sendes saken
-likevel til den rett som har avsagt den angrepne
-avgjørelsen.
-§ 41-23. Behandling av gjenåpnet sak
-(1) Sak som er besluttet gjenåpnet, behandles
-på ny.
-(2) Frifinnende dom uten hovedforhandling
-a) skal avsies når domfelte er død, og
-b) kan avsies med påtalemyndighetens samtykke.
-(3) Begjæring om gjenåpning fra påtalemyndigheten til gunst for domfelte kan ikke føre
-til endring som er til skade for vedkommende.
-
-§ 41-24. Domstolsprøving av kommisjonens avgjørelser
-(1) Gyldigheten av kommisjonens vedtak om
-hvorvidt en sak skal gjenåpnes, kan prøves for
-domstolene uten forliksmekling etter reglene i
-tvisteloven. Kommisjonens bevisbedømmelse kan
-bare vurderes i særlige tilfeller.
-(2) Beslutninger om vitneplikt og om utleveringspålegg og undersøkelse etter reglene i § 4120 første ledd bokstav a og b kan bringes inn for
-lagmannsretten etter reglene om anke. Øvrige
-beslutninger kan ikke angripes.
-§ 41-25. Tilbakekall av begjæring om gjenåpning
-(1) Begjæring om gjenåpning kan trekkes tilbake inntil eventuell ny hovedforhandling begynner, eller med samtykke fra motparten inntil
-hovedforhandlingen er avsluttet.
-(2) En begjæring fra påtalemyndigheten til
-gunst for en domfelt som er tatt til følge, og som
-domfelte er underrettet om, kan bare trekkes med
-samtykke fra den domfelte.
-(3) Saken heves hvis begjæringen trekkes
-etter at saken har kommet inn til den rett som
-skulle behandlet den.
-DEL 10. Militære straffesaker
-Kapittel 42. Militære straffesaker
-§ 42-1. Militære straffesaker
-(1) Militære straffesaker behandles etter
-lovens øvrige bestemmelser, med de særlige
-bestemmelser som følger av dette kapitlet.
-(2) Militære straffesaker er saker om
-a) overtredelse av militær straffelov når handlingen er begått av en militærperson, jf. § 42-2,
-og
-b) overtredelse av annen straffelovgivning når
-overtredelsen er begått av en militærperson, jf.
-§ 42-2, på militært område eller krigsskueplass, overfor militært tilsatte eller vernepliktige, mot eller ved bruk av militært materiell,
-eller i utlandet.
-§ 42-2. Militærperson
-Militærpersoner er personer som
-a) er ansatt ved, tilhører eller gjør tjeneste for de
-væpnede styrker,
-b) er krigsfanger under militær bevoktning,
-eller
-c) er norske statsborgere eller hjemmehørende
-i Norge og gjør tjeneste i en internasjonal
-fredsoperasjon på oppdrag fra norske
-myndigheter.
-
-[Side 85]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-§ 42-3. Den militære påtalemyndighet
-(1) Den militære påtalemyndighet, jf. § 2-1
-bokstav c, består av generaladvokaten og krigsadvokatene, herunder førstekrigsadvokatene,
-hjelpekrigsadvokatene og krigsadvokatfullmektigene.
-(2) Generaladvokaten leder den militære
-påtalemyndighet og er underlagt riksadvokaten.
-Generaladvokaten er embetsmann. For generaladvokaten gjelder §§ 2-4 annet ledd og 2-7 tilsvarende.
-(3) For krigsadvokatene gjelder §§ 2-5 og 2-7
-tilsvarende.
-§ 42-4. Etterforsking av militære straffesaker. Forholdet mellom den militære påtalemyndighet og
-militærpolitiet
-(1) Etterforsking av militære straffesaker utføres som regel av militære etterforskere, underlagt
-generaladvokaten. Ved etterforsking og bruk av
-tvangstiltak likestilles militærpolitiet og militært
-befal med tjenesteperson i politiet som ikke tilhører påtalemyndigheten.
-(2) Påtalemyndigheten kan gi pålegg til militære etterforskere om behandling av saker etter
-dette kapitlet.
-§ 42-5. Påtalekompetanse
-Generaladvokaten og krigsadvokatene kan
-avgjøre spørsmålet om påtale i militære straffesaker når avgjørelsen ikke hører under riksadvokaten, jf. § 2-11.
-§ 42-6. Orientering om påtalevedtak til militær sjef
-(1) Når det igangsettes etterforsking uten at
-det foreligger anmeldelse eller uttalelse fra den
-ansvarlige militære sjef, skal påtalemyndigheten,
-dersom det kan skje uten vesentlig forsinkelse for
-saken, innhente uttalelse fra vedkommende før
-spørsmålet om påtale avgjøres.
-(2) Militær sjef skal underrettes om avgjørelse
-av påtalespørsmål og kan påklage beslutningen til
-overordnet påtalemyndighet etter § 29-9.
-§ 42-7. Adgang til å møte for domstolene
-(1) For Høyesterett kan generaladvokaten
-eller en krigsadvokat møte etter riksadvokatens
-beslutning.
-(2) For lagmannsrett og tingrett møter generaladvokaten eller en krigsadvokat.
-(3) I saker for tingrett hvor det er utferdiget
-forelegg, kan påtalemyndigheten møte ved militær etterforsker. Det samme gjelder ved rettsmøter utenfor hoved- og ankeforhandling.
-
-83
-
-Kapittel 1
-
-(4) Når flere saker kan behandles samlet etter
-§ 30-3, og minst ett forhold omfattes av § 41-1, jf.
-§ 40-2, kan påtalemyndigheten beslutte at generaladvokaten eller en krigsadvokat kan møte for retten.
-§ 42-8. Hoved- og ankeforhandling i tiltaltes fravær
-Hoved- og ankeforhandling kan i krig gjennomføres i tiltaltes fravær uten hensyn til straffepåstand eller idømt straff når vilkårene etter § 33-2
-ellers er oppfylt, og saken gjelder overtredelse av
-militær straffelov § 34, jf. § 95, eller militær straffelov § 35, jf. § 96.
-§ 42-9. Forelegg på arrest
-(1) I militære straffesaker kan mistenkte tilbys
-å vedta arrest ved forelegg etter § 28-5.
-(2) I et forelegg på bot kan det i stedet for
-subsidiær fengselsstraff fastsettes et bestemt
-antall arrestdager som inntrer om boten ikke blir
-betalt.
-§ 42-10. Forskrifter om ordningen av den militære
-påtalemyndighet mv.
-(1) Kongen i statsråd kan gi forskrift om ordningen av den militære påtalemyndighet.
-(2) Kongen kan gi forskrift om
-a) særskilt verneting for militære straffesaker,
-b) lister over fagkyndige meddommere, og
-c) adgangen til å sette rett i utlandet.
-DEL 11. Pengekrav mv.
-Kapittel 43. Sivile krav
-§ 43-1. Behandling av erstatningskrav sammen med
-påtalevedtak
-(1) Erstatningskrav som springer ut av en
-handling som forfølges etter denne lov, og som
-retter seg mot mistenkte, kan behandles sammen
-med avgjørelse av påtalespørsmål etter §§ 28-3 til
-28-5 etter begjæring fra skadelidte.
-(2) Vedtak etter denne bestemmelsen kan
-påklages etter § 29-9.
-§ 43-2. Pådømmelse av rettskrav
-(1) Rettskrav som springer ut av en handling
-som forfølges etter denne lov, kan etter begjæring
-pådømmes i straffesak når det gjelder
-a) erstatning fra skadelidte,
-b) tap av arverett etter lov 3. mars 1972 nr. 5 om
-arv m.m. § 73,
-c) å få kjent ekteskap ugyldig eller skilsmisse
-innvilget uten forutgående separasjon etter lov
-4. juli 1991 nr. 47 om ekteskap §§ 16 tredje og
-fjerde ledd og 23,
-
-[Side 86]
-
-84
-
-Kapittel 1
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-d) behandling av klage over vedtak om omplassering, salg eller avliving av hund eller om forbud mot å ha med hund å gjøre etter hundeloven §§ 22 første ledd og 24, jf. § 25 tredje
-ledd, og
-e) administrative sanksjoner.
-(2) I straffesak kan det offentlige når saken tilsier det, også gjøre gjeldende krav om
-a) avskjed etter lov 4. mars 1983 nr. 3 om statens
-tjenestemenn m.m. § 15A i sak mot offentlig
-tjenesteperson, og
-b) at et ekteskap ikke består, eller at det skal oppløses på grunn av slektskap eller tidligere ekteskap.
-(3) Krav om erstatning kan rettes mot
-a) mistenkte eller mistenktes foreldre etter lov
-13. juni 1969 nr. 26 om skadeserstatning § 1-2,
-b) forsikringsselskap når mistenkte har tegnet
-ansvarsforsikring, og skadelidte kan gjøre gjeldende krav direkte mot selskapet,
-c) medskyldige som har fått sitt straffansvar
-endelig avgjort, dersom det er særlig grunn til
-å behandle kravet i straffesaken, og
-d) eier eller utgiver av et massemedium etter lov
-13. juni 1969 nr. 26 om skadeserstatning § 3-6.
-§ 43-3. Saksbehandling
-For behandling av krav etter §§ 43-1 og 43-2
-gis reglene i denne lov anvendelse så langt de passer. Tvistelovens regler gjelder for spørsmål om
-a) endringer i krav, påstand, påstandsgrunnlag
-og bevis, jf. §§ 9-16 og 29-4,
-b) rettens forhold til krav og påstander, jf. §§ 112, 11-4, 11-5 og 29-20,
-c) saksanlegg som hinder for ny sak, jf. §§ 18-1
-og 18-2,
-d) oppfyllingsfrist mv., jf. § 19-7, og
-e) rettskraft, jf. §§ 19-14 til 19-16.
-§ 43-4. Informasjon til skadelidte mfl.
-(1) Informasjon om adgangen til å fremme
-krav under straffeforfølgning skal gis
-a) fornærmede i første avhør,
-b) øvrige skadelidte som er i kontakt med politi
-og påtalemyndighet, og som det er grunn til å
-anta vil fremme krav, og
-c) vedkommende myndighet når offentlige
-interesser er krenket.
-(2) Før det tas ut tiltale, skal påtalemyndigheten spørre den som skal ha informasjon etter
-første ledd, om vedkommende ønsker krav etter
-§ 43-2 tatt med i saken. Samtidig fastsettes en frist
-for begjæring etter § 43-6. Fristen kan forlenges.
-
-§ 43-5. Forsvarerens og bistandsadvokatens ansvar
-for sivile krav
-Forsvarer og bistandsadvokat skal bistå ved
-behandlingen av rettskrav som springer ut av den
-handling som straffeforfølges, og som behandles i
-straffesaken eller ved særskilt anke. Det gjelder
-likevel ikke dersom
-a) mistenkte eller fornærmede gjør bruk av egen
-prosessfullmektig,
-b) det er uforenlig med oppdraget på grunn av
-sakens omfang, karakter eller andre grunner,
-eller
-c) det er grunn til å tro at det sivile kravet ikke vil
-bli behandlet i straffesaken.
-§ 43-6. Krav til begjæring mv.
-(1) Begjæring om behandling av krav etter
-§§ 43-1 og 43-2 skal angi
-a) tvistegjenstanden og påstanden som gjøres
-gjeldende,
-b) den faktiske og rettslige begrunnelse for kravet, og
-c) eventuelle bevis som ønskes ført.
-(2) Den kravet er rettet mot, skal
-a) gjøres kjent med begjæringen og påstanden
-som vil bli nedlagt, og
-b) gis anledning til å uttale seg om kravet og den
-videre behandlingen av det.
-(3) Har den kravet retter seg mot, forsvarer,
-skal påtalemyndigheten underrette forsvareren
-om begjæringen og fastsette en frist for uttalelse.
-§ 43-7. Saksbehandling. Underretning til skadelidte.
-Utredning
-(1) Kravshaver skal underrettes om etterforsking av betydning for kravet.
-(2) For å få opplyst kravet skal retten, etter
-begjæring og når det er hensiktsmessig og forholdsmessig, oppnevne sakkyndig for å utrede
-helseskader hos fornærmede.
-(3) Før det tas ut tiltale og utarbeides bevisoppgave, jf. § 34-1 første ledd bokstav b, skal påtalemyndigheten avklare med kravshaver om det er
-behov for ytterligere bevisføring av betydning for
-sivile krav.
-(4) Dersom påtalemyndigheten kommer til at
-det etter § 43-8 første ledd bokstav a vil være til
-uforholdsmessig ulempe for gjennomføringen av
-straffesaken å behandle kravet sammen med
-straffesaken, skal kravshaver opplyses om dette.
-Beslutningen kan påklages etter § 29-9.
-
-[Side 87]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-§ 43-8. Vilkår for ikke å fremme krav til pådømmelse
-(1) Krav etter § 43-2 skal fremmes til pådømmelse med mindre
-a) det er til uforholdsmessig ulempe for påtalemyndigheten at kravet behandles,
-b) den kravet retter seg mot, ikke er gitt tilstrekkelig mulighet til å forberede saken,
-c) fristen etter § 43-4 annet ledd er oversittet,
-eller
-d) det er klart mest hensiktsmessig om kravet
-ikke tas til behandling i straffesaken.
-(2) Beslutninger etter første ledd kan bare
-ankes i tilfeller som nevnt i § 37-2 fjerde ledd bokstav b og c.
-§ 43-9. Ansvar for kravet ved rettslig behandling
-(1) Krav etter § 43-2 fremmes overfor retten av
-kravshaver selv eller ved prosessfullmektig eller
-bistandsadvokat, eller av påtalemyndigheten. Kopi
-av begjæringen sendes saksøkte og påtalemyndigheten om ikke påtalemyndigheten fremmer kravet.
-(2) Har kravshaver bistandsadvokat, skal
-bistandsadvokaten fremme kravet. Når prosessøkonomiske grunner tilsier det, og det av hensyn
-til kravshavers interesser er forsvarlig, kan retten likevel bestemme at oppgaven skal overlates
-til en annen prosessfullmektig eller påtalemyndigheten.
-(3) Påtalemyndigheten kan fremme kravet for
-kravshaver. I vurderingen av om kravet skal fremmes, skal det særlig legges vekt på
-– om kravshaver er umiddelbart skadelidende,
-– om kravet er rettet mot tiltalte,
-– kravshavers evne til selv å gjøre kravet gjeldende,
-– kravets kompleksitet,
-– om kravet er fremmet rettidig, og
-– påtalemyndighetens arbeidssituasjon.
-Beslutningen kan påklages etter § 29-9.
-(4) Dersom kravet fremmes av påtalemyndigheten, skal kravets angis og så vidt mulig presiseres i tiltalebeslutningen.
-(5) Påtalemyndigheten skal gi kravshaver uten
-bistandsadvokat eller egen prosessfullmektig
-informasjon om avgjørelser av betydning for
-behandlingen av det sivile kravet.
-§ 43-10. Rettslig behandling. Utsettelse, frafall, oppfyllelse
-(1) Kravshaver har rett til å delta under forhandlingen med de begrensninger som følger av
-§ 31-5.
-
-85
-
-Kapittel 1
-
-(2) Sivile krav kan ikke trekkes etter at hovedforhandling er påbegynt, uten at kravet samtidig
-oppgis, med mindre saksøkte eller retten samtykker.
-(3) Kravet kan nektes videre behandling dersom vilkårene for å fremme kravet etter §§ 43-2
-eller 43-8 ikke lenger foreligger.
-(4) Behandlingen av kravet kan utsettes til
-straffesaken er pådømt.
-§ 43-11. Pådømmelse. Dom for del av kravet. Ensrettingsprinsippet. Oppfyllelse
-(1) Avsluttes saken under saksforberedelsen
-etter § 34-13 første ledd, skal sivile krav ikke
-pådømmes.
-(2) Dersom forhold ved straffeforfølgningen
-fører til at kravets størrelse ikke er tilstrekkelig
-opplyst, gis dom for den delen som er godtgjort.
-Sak om restkravet reises etter reglene i tvisteloven.
-(3) Sivile krav pådømmes ikke ved frifinnelse
-for straffekravet, med mindre kravet er klart uberettiget.
-§ 43-12. Krav som ikke tas til behandling. Ny
-behandling av krav. Nye krav. Særskilt anke
-(1) Krav som nektes behandlet etter §§ 43-8
-eller 43-10 annet ledd, kan kreves behandlet etter
-tvistelovens regler. Fristen for å kreve fortsatt
-behandling er 1 måned.
-(2) Fremmes anke over dom i straffesaken,
-kan partene kreve ny behandling av pådømt rettskrav knyttet til forholdet som skal behandles.
-Nytt krav som angitt i § 43-2 kan også fremmes i
-ankesaken når det er rimelig.
-(3) Pådømte rettskrav kan ankes særskilt etter
-tvistelovens regler. Fristen for særskilt anke er 1
-måned etter
-a) forkynning av dommen,
-b) melding om at anke i straffesak er bortfalt,
-eller
-c) avgjørelse om at kravet ikke er tilstrekkelig
-opplyst, er forkynt.
-§ 43-13. Begjæring om ankebehandling. Saksbehandling
-(1) Begjæring om behandling av sivile krav
-under ankeforhandling i straffesaken inngis
-a) sammen med anke eller motanke i straffesaken, jf. §§ 37-1 og 37-5, eller
-b) etter frist fastsatt i henvisningsbeslutningen, jf.
-§ 38-5.
-(2) Begjæring om behandling av sivile krav
-ved anke skal angi
-
-[Side 88]
-
-86
-
-Kapittel 1
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-a) hvilken sak kravet skal behandles sammen
-med,
-b) om anken gjelder hele avgjørelsen eller bare
-bestemte deler av den,
-c) kravet saken gjelder, og en påstand som angir
-det resultat som kreves,
-d) de feil som gjøres gjeldende ved avgjørelsen
-som ankes,
-e) den faktiske og rettslige begrunnelse for at det
-foreligger feil,
-f) eventuelle bevis som ønskes ført,
-g) grunnlaget for at retten kan behandle anken
-dersom det kan være tvil om dette, og
-h) den ankende parts syn på den videre behandling av anken.
-(3) Begjæring om nytt krav skal utformes etter
-§ 43-6.
-(4) Kopi av begjæringen sendes motparten
-med frist for tilsvar.
-§ 43-14. Ankebehandling. Bortfall
-(1) Kravet fremmes til ankebehandling etter
-§ 43-8 og behandles etter § 43-10.
-(2) Dersom rettskravet eller deler av det ikke
-blir avgjort fordi straffesaken bortfaller, kravet
-nektes videre behandling, eller fordi kravet ikke
-er tilstrekkelig opplyst etter § 43-11 annet ledd,
-skal avgjørelsen om dette forkynnes for partene,
-som samtidig orienteres om adgangen å kreve
-fortsatt behandling etter tvistelovens regler innen
-1 måned etter forkynning, jf. § 43-12 tredje ledd.
-Rettskrav som var nytt ved ankeforhandlingen,
-fremmes for tingrett.
-(3) Om særskilt anke ikke fremsettes, heves
-denne delen av saken.
-§ 43-15. Innkreving
-Erstatning og andre pengekrav som er avgjort
-etter behandling i medhold av §§ 43-1 eller 43-2,
-innkreves av Statens innkrevingssentral dersom
-kravshaver ønsker det, med mindre departementet bestemmer annet.
-§ 43-16. Gjenåpning
-(1) Gjenåpning av sivile krav behandles etter
-tvistelovens regler, likevel slik at fristen etter tvisteloven § 31-6 første ledd avbrytes ved begjæring
-om gjenåpning av straffekravet, og slik at fristen
-etter bestemmelsens annet ledd ikke gjelder når
-straffesaken kravet ble behandlet sammen med,
-er besluttet gjenåpnet.
-(2) Når et straffekrav behandles på nytt etter
-gjenåpning, kan partene kreve at retten tar stilling
-til om vilkårene for gjenåpning av et sivilt krav
-som ble behandlet sammen med straffekravet, er
-
-oppfylt, og at kravet behandles på nytt i straffesaken. Staten er ansvarlig for tap som skyldes
-utbetalt erstatning fra domfelte som ellers ikke
-ville vært behandlet på grunn av fristreglene i
-tvisteloven § 31-6.
-§ 43-17. Sakskostnader
-For krav etter § 43-2 som ikke fremmes av
-påtalemyndigheten, forsvarer eller bistandsadvokat, gjelder bestemmelsene om erstatning for
-saksomkostninger i tvisteloven kapittel 20.
-Kapittel 44. Sakskostnader
-§ 44-1. Krav om dekning av sakskostnader når saken
-ender uten konstatering av straffansvar
-(1) Ender straffeforfølgningen med frifinnelse,
-eller blir saken henlagt etter § 28-2 eller forfølgingen innstilt etter § 28-1 tredje ledd, skal mistenkte
-tilkjennes erstatning av staten for nødvendige
-utgifter til sitt forsvar. Dette omfatter også mistenktes nødvendige reiseutgifter.
-(2) Utgifter til forsvarer erstattes ikke med et
-større beløp enn forsvareren ville blitt tilkjent
-etter § 3-24, med mindre utgiftene har vært nødvendige på grunn av sakens art.
-(3) Utgifter etter første og annet ledd dekkes
-ikke hvis mistenkte forsettlig har pådratt seg mistanken.
-(4) Ender en sak som har blitt gjenåpnet, med
-frifinnelse, kan andre enn mistenkte, når særlige
-forhold gjør det rimelig, tilkjennes erstatning for
-kostnader til tiltak som har hatt vesentlig betydning for at saken ble gjenåpnet.
-§ 44-2. Statens krav om dekning av sakskostnader
-(1) Mistenkte som har vidløftiggjort saken
-eller opptrådt slik at omkostningene er blitt høyere enn nødvendig, kan pålegges å erstatte statens
-meromkostninger når utfallet i det vesentlige har
-gått mistenkte imot. Det samme gjelder når en
-sak heves etter berammelse av hovedforhandling
-fordi mistenkte vedtar et tidligere utferdiget forelegg, og når det er begjært gjenåpning av noen
-som nevnt i § 41-3 annet ledd.
-(2) Sakskostnader skal bare ilegges dersom
-det må antas mulig å oppnå betaling, og avpasses
-etter mistenktes økonomiske evne.
-(3) Ved fastsetting av sakskostnader etter første ledd regnes ikke med utgifter til medlemmer
-av retten eller tjenestemenn ved domstolen, eller
-utgifter til rettslokale. Er flere personer i samme
-sak omfattet av første ledd, fordeles omkostningene etter rettens skjønn, likevel slik at utgifter
-som bare gjelder én enkelts forhold, er de andre
-uvedkommende.
-
-[Side 89]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-(4) Avgjørelse som tilkjenner staten sakskostnader, innkreves av Statens innkrevingssentral
-straks avgjørelsen er rettskraftig.
-§ 44-3. Avgjørelse av krav om sakskostnader
-(1) Avgjørelse om erstatning for sakskostnader tas når det treffes avgjørelse som avslutter
-saken.
-(2) Hvis saken avsluttes uten at det treffes
-avgjørelse om sakskostnader, kan krav om dekning av sakskostnader bringes inn til avgjørelse
-for den rett som har behandlet saken, eller, om
-ingen rett har behandlet den, for den tingrett som
-har verneting etter § 5-10 første ledd. Slikt krav
-må settes frem innen 1 måned.
-(3) Påankes dommen, prøver ankedomstolen
-spørsmålet om erstatning for sakskostnader når
-det foretas prøving av bevisene under skyldspørsmålet, og for øvrig når avgjørelsen umiddelbart
-beror på utfallet av anken. Ellers kan det ankes på
-grunnlag av at sakskostnadsavgjørelsen er i strid
-med loven.
-§ 44-4. Mistenktes forsvarer og retten til dekning av
-sakskostnader
-(1) Mistenktes forsvarer kan motta erstatning
-etter § 44-1 og kan kreve den del av erstatningen
-som trengs for å dekke det som er til gode for
-utlegg og arbeid med saken, utbetalt direkte til
-seg.
-(2) Erstatning som er omfattet av første ledd,
-kan ikke gjøres til gjenstand for utlegg av mistenktes øvrige kreditorer og heller ikke inndras i mistenktes konkursbo eller anvendes til motregning
-med mistenktes gjeld til staten.
-Kapittel 45. Erstatning etter straffeforfølgning
-§ 45-1. Statens erstatningsansvar i anledning
-straffeforfølgning
-Staten er ansvarlig for å dekke krav på erstatning for økonomisk tap og skade av ikke-økonomisk art påført ved straffeforfølgning etter reglene
-i dette kapitlet. Krav som nevnt utelukker ikke
-erstatning på annet grunnlag.
-§ 45-2. Mistenkte og domfeltes rett til erstatning for
-økonomisk tap
-(1) Mistenkte har rett til erstatning for økonomisk tap som er påført ved straffeforfølgningen,
-når en sak avsluttes uten at det konstateres straffansvar ved
-a) henleggelse,
-b) rettens avvisning på grunn av en feil som ikke
-kan avhjelpes, eller
-
-87
-
-Kapittel 1
-
-c) frifinnelse.
-(2) Domfelte har rett til erstatning for økonomisk tap som er påført ved
-a) rettsstridig frihetsberøvelse i anledning
-straffeforfølgningen, eller
-b) fullbyrdet straff eller annen strafferettslig reaksjon som overstiger det som idømmes etter
-gjenåpning.
-(3) Mistenkte og domfelte skal også i andre tilfeller tilkjennes erstatning for økonomisk tap i
-anledning straffeforfølgning når det er rimelig.
-Ved vurderingen skal det legges vekt på om forfølgningen har påført vedkommende en særlig
-eller uforholdsmessig skade.
-§ 45-3. Mistenkte og domfeltes rett til oppreisningserstatning
-Mistenkte og domfelte har rett til erstatning
-for skade av ikke-økonomisk art som er påført ved
-a) frihetsberøvelse i tilknytning til straffeforfølgning i situasjoner som angitt i § 45-2 første og
-annet ledd, og
-b) straffeforfølgningen, når det er rimelig.
-§ 45-4. Erstatning til tredjepersoner
-(1) Andre enn mistenkte og domfelte som ved
-straffeforfølgningen er påført økonomisk tap eller
-skade av ikke-økonomisk art, har rett til erstatning når det er rimelig.
-(2) Økonomisk tap erstattes fullt ut. Skade av
-ikke-økonomisk art erstattes med et passende
-beløp.
-§ 45-5. Erstatning ved aksjoner om bord på utenlandsk skip eller fartøy
-Skadelidte har rett til erstatning ved aksjoner
-om bord på utenlandsk skip eller fartøy etter § 26-1
-første ledd bokstav c i den utstrekning det følger
-av folkerettslig forpliktelse.
-§ 45-6. Erstatning til juridiske personer
-(1) Juridiske personer har bare rett til erstatning etter §§ 45-2 til 45-4 når det er hensiktsmessig og rimelig at staten erstatter tapet etter
-erstatningsordningen i dette kapitlet. Ved vurderingen skal det særlig legges vekt på
-– virksomhetens karakter, omsetning og størrelse,
-– om det er nærliggende å identifisere enkeltpersoner med virksomheten, og
-– kravets grunnlag og størrelse, tapspostene
-som kreves dekket, og om kravet reiser vanskelige utmålingsspørsmål.
-(2) Juridiske personer har ikke rett til erstatning for skade av ikke-økonomisk art.
-
-[Side 90]
-
-88
-
-Kapittel 1
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-§ 45-7. Skadelidtes medvirkning og erstatningsutmåling
-(1) Erstatning og oppreisning kan settes ned
-eller falle bort når det er rimelig fordi skadelidte
-ved egen skyld har medvirket til den skade som
-forfølgningen har påført vedkommende. Som
-medvirkning regnes blant annet å
-a) gi foranledning til etterforskingstiltak eller den
-fellende dommen,
-b) motvirke sakens opplysning, eller
-c) ha latt være å begrense skaden av forfølgningen.
-(2) Erstatning og oppreisning kan settes ned
-eller falle bort når mistenkte har begått en ellers
-straffbar handling i en tilstand som nevnt i straffeloven § 20, og det er rimelig med nedsettelse fordi
-skaden er en følge av nødvendige tiltak under
-etterforskingen.
-(3) Erstatning kan ikke settes ned eller falle
-bort på grunn av mistanke om at mistenkte har
-utvist straffskyld.
-§ 45-8. Tilbakebetaling. Regress
-(1) Staten kan kreve at erstatning som er utbetalt etter reglene i denne lov, skal betales tilbake
-dersom forfølgningen gjenopptas og det følger av
-dommens innhold at erstatning ikke skulle vært
-utbetalt.
-(2) Staten kan i den utstrekning det er rimelig,
-kreve regress hos den som ved egen skyld har
-handlet slik at staten har blitt ansvarlig og erstatning har blitt utbetalt etter reglene i dette kapitlet.
-(3) Vedtak etter første og annet ledd er tvangsgrunnlag for utlegg.
-§ 45-9. Foreldelse
-(1) For skadelidtes krav etter dette kapitlet
-regnes foreldelsesfristen etter foreldelsesloven
-§ 3 tidligst fra det tidspunktet straffesaken er
-endelig avgjort. Foreldelse avbrytes ved at skadelidte fremmer krav etter § 45-11.
-(2) Erstatningskrav som har sitt grunnlag i
-skade påført ved straffeforfølgning, foreldes 1 år
-etter vedtak som nekter tilsvarende erstatning
-etter reglene i dette kapitlet.
-§ 45-10. Samordning av utbetaling med internasjonale og utenlandske myndigheter
-Krav om erstatning for økonomisk tap eller
-skade av ikke-økonomisk art som er oppstått i forbindelse med internasjonalt samarbeid i straffesaker,
-a) faller bort hvis internasjonale eller utenlandske myndigheter har utbetalt passende erstatning, eller
-
-b) avvises hvis det kan fremmes krav overfor
-internasjonale eller utenlandske myndigheter,
-og det er grunn til å tro at passende erstatning
-vil bli utbetalt innen rimelig tid.
-§ 45-11. Avgjørelsesmyndighet og saksbehandling
-(1) Departementet har myndighet til å treffe
-avgjørelser etter dette kapitlet.
-(2) Departementet innhenter sakens opplysninger og kan be om påtalemyndighetens
-uttalelse om kravet.
-(3) Innsyn i opplysninger som hører til straffesaken, kan nektes på de vilkår som er fastsatt i
-kapittel 6.
-(4) Foruten reglene om klage i kapittel VI gjelder forvaltningsloven så langt den passer.
-(5) I sak om erstatning eller oppreisning etter
-straffeforfølgning har mistenkte rett til fritt rettsråd uten behovsprøving etter reglene i lov 13. juni
-1980 nr. 35 om fri rettshjelp § 11. Det samme gjelder når det skal treffes vedtak etter § 45-8 annet
-ledd.
-§ 45-12. Rettslig prøving
-(1) Krav om erstatning og oppreisning som
-ikke tas til følge, og vedtak om tilbakebetaling
-eller regress kan bringes inn for retten.
-(2) Søksmål etter første ledd behandles etter
-reglene i tvisteloven. Saksøkeren kan for tingretten bare pålegges sakskostnader dersom søksmålet var grunnløst, og skal tilkjennes sakskostnader
-uten begrensningene i tvisteloven § 10-5 annet
-ledd, jf. § 20-5 annet ledd første punktum annet
-alternativ.
-(3) En dommer som har deltatt i pådømmelsen
-av straffesaken mot mistenkte, skal ikke delta ved
-behandlingen av krav etter dette kapitlet.
-(4) Ved klage eller søksmål om utlegg etter
-reglene i tvangsfullbyrdelsesloven kan retten
-prøve kravets størrelse fullt ut.
-§ 45-13. Forskrifter om erstatning etter straffeforfølgning
-Kongen kan gi forskrift om
-a) satser for oppreisning etter § 45-3 bokstav a,
-b) når oppreisning etter § 45-3 bokstav b må
-anses rimelig, og om hva som normalt vil være
-et passende beløp,
-c) når det skal fattes vedtak om krav om tilbakebetaling og regress etter § 45-8 første og annet
-ledd,
-d) erstatning etter § 45-5, og
-e) saksbehandlingen ved avgjørelser etter § 45-11.
-
-[Side 91]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-DEL 12. Ikrafttredelse mv.
-Kapittel 46. Ikrafttredelse og opphevelse og
-endring av lover
-§ 46-1. Ikrafttredelse
-Loven trer i kraft fra den tid som fastsettes ved
-lov.
-§ 46-2. Opphevelse av lover
-Følgende lover oppheves:
-1. lov 25. mars 1977 nr. 22 om overføring av straffeforfølging fra eller til annet europeisk land
-2. lov 22. mai 1981 nr. 25 om rettergangsmåten i
-straffesaker (straffeprosessloven)
-3. lov 13. juni 1997 nr. 47 om gjennomføring av
-europarådsavtale 31. januar 1995 om ulovlig
-håndtering av og handel med narkotika og
-psykotrope stoffer til sjøs
-§ 46-3. Lovendringer
-1. Endringer i domstolloven
-I lov 13. august 1915 nr. 5 om domstolene (domstolloven) gjøres følgende endringer:
-§ 46 femte ledd annet punktum skal lyde:
-Heller ikke gjelder det utlevering av folk som i
-utlandet er dømt til straff eller er under strafforfølgning, eller rettsanmodninger som behandles
-etter straffeprosessloven.
-§ 47 annet ledd skal lyde:
-Før beslutningen treffes, skal retten gi motparten
-anledning til å uttale seg.
-§ 47 fjerde ledd skal lyde:
-Bestemmelsen her gjelder ikke for bevisopptak
-som behandles etter straffeprosessloven.
-Ny § 122 a skal lyde:
-Parter, vitner, sakkyndige og andre kan ta del i
-rettsmøter eller avgi forklaring for retten ved bruk
-av fjernmøteteknikk når ikke annet er bestemt, og
-retten finner det hensiktsmessig og forsvarlig.
-Ved vurderingen skal det særlig legges vekt på
-betydningen av tilstedeværelse for sakens opplysning, om tilstedeværelse er uforholdsmessig kostnadskrevende eller byrdefullt i lys av sakens
-karakter og formålet med rettsmøtet, om gjennomføringen skjer ved overføring av lyd og bilde,
-eller kun lyd, om vedkommende befinner seg på
-et sted underlagt offentlige myndigheters kontroll, og partenes syn.
-
-89
-
-Kapittel 1
-
-Før retten treffer beslutning etter første ledd,
-skal partene og andre berørte gis anledning til å
-uttale seg.
-Kongen kan ved forskrift gi nærmere regler
-om bruk av fjernmøteteknikk etter denne bestemmelsen.
-Ny § 134 a skal lyde:
-I rettsmøte skal det føres rettsbok, som skal
-angi
-a) domstolen, tiden og stedet for møtet, dommernes, protokollførerens, rettsvitnets og partenes
-navn, sakens nummer og møtets tema,
-b) om partene møter personlig, og hvem som
-møter for dem,
-c) navnene på vitner og sakkyndige,
-d) de bevis som er gjennomgått,
-e) begjæringer som gjelder saksbehandlingen,
-f) rettens avgjørelser, og
-g) partenes påstander.
-Forhandlingens gang nedtegnes etter hvert.
-Nedtegning kan skje ved henvisning til tidligere
-rettsbok eller til vedlagte dokumenter. Retten kan
-kreve at påstander og begjæringer skal settes opp
-skriftlig, slik at de kan vedlegges rettsboken.
-Opplysninger som er unntatt innsyn etter
-straffeprosessloven §§ 6-7 og 6-8, skal protokolleres for seg og oppbevares på en strengt betryggende måte.
-Rettsboken undertegnes av rettens leder og
-protokollføreren.
-Kongen kan gi forskrifter om oppbevaring og
-sletting av rettsbøker.
-Ny § 134 b skal lyde:
-Det skal tas opptak med lyd og bilde av forhandlingene i rettsmøter. Opptak kan unnlates
-a) utenfor hoved- og ankeforhandling,
-b) under befaring, og
-c) når det er umulig eller i vesentlig grad vanskeliggjort på grunn av teknisk svikt eller andre
-ekstraordinære forhold.
-Den som skal forklare seg, skal varsles om at
-forklaringen blir tatt opp.
-Opptak inngår som en del av rettsboken.
-Kongen kan ved forskrift gi nærmere regler
-om opptak etter denne bestemmelsen.
-Ny § 134 c skal lyde:
-Retten kan beslutte at de forklaringer som parter, vitner og sakkyndige gir i rettsmøte, skal
-føres inn i rettsboken. I straffesaker skal forklaringer nedtegnes hvis det ikke gjøres opptak etter
-§ 134 b. Det samme gjelder i sivile saker når forklaringen avgis for å sikre bevis.
-
-[Side 92]
-
-90
-
-Kapittel 1
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-Nedtegningen skal inneholde hovedpunktene
-i forklaringen. Særlig viktige uttalelser skal så vidt
-mulig gjengis med avhørtes egne ord.
-Det som er nedtegnet fra en forklaring, skal
-leses opp for den som har forklart seg. Krav om
-endringer som ikke tas til følge, skal fremgå særskilt.
-§ 159 a skal lyde:
-Retten skal sørge for at dom i straffesak blir
-forkynt etter reglene i denne bestemmelse eller etter
-§ 163 a om postforkynning. Om dette ikke lar seg
-gjennomføre, kan dommen forkynnes ved stevnevitne etter §§ 165 flg.
-Retten kan beslutte at forkynning skal skje i
-rettsmøte eller ved rettens kontor eller annet offentlig kontor.
-Tiltalte plikter etter innkalling å møte til forkynning som nevnt i annet ledd, med mindre vedkommende har gyldig fravær. Straffeprosessloven §§ 157, 31-2, 31-4 og 33-1 gjelder tilsvarende. Selv om
-tiltalte ikke møter, anses dommen forkynt på møtetidspunktet angitt i innkallingen. Dette gjelder likevel bare dersom tiltalte ved innkallingen er gjort
-kjent med denne virkning av ikke å møte, og retten
-uten opphold sender et eksemplar av dommen til tiltalte og forsvareren, med opplysning om forkynningstidspunktet.
-§ 163 a skal lyde:
-Offentlige myndigheter som nevnt i annet ledd
-kan forkynne dokumenter ved direkte oversendelse
-til den som skal motta forkynningen. Oversendelsen
-skal skje elektronisk, ved bruk av en betryggende teknisk løsning som gir bevis for at dokumentet er mottatt av rette vedkommende, eller per post, med
-mottakskvittering eller som rekommandert brev.
-Forliksrådets dokumenter kan forkynnes i vanlig
-brev uten mottakskvittering.
-Følgende myndigheter kan foreta forkynning
-etter første ledd: de alminnelige domstoler, jordskifterettene,
-forbrukertvistutvalget,
-fylkesnemndene for barnevern og sosiale saker,
-påtalemyndigheten, namsmenn, lensmenn, namsfogder, politistasjoner med sivile rettspleieoppgaver og fylkesmenn.
-En domstol kan pålegge en klager eller en saksøker å fremskaffe motpartens adresse.
-Advokater som skal innkalle vitner etter tvisteloven § 13-3 eller straffeprosessloven § 10-3 første
-ledd annet punktum, kan forkynne innkallingen ved
-oversendelse som nevnt i første ledd annet punktum.
-Kongen kan gi nærmere forskrifter om elektronisk forkynning og postforkynning.
-
-§ 197 annet ledd skal lyde:
-Forkynning av tiltalebeslutning og innkalling
-til rettsmøte i straffesak kan sendes til mistenktes
-forsvarer med anmodning om at denne forestår
-forkynning overfor mistenkte etter reglene i § 179.
-Innen en frist som retten eller påtalemyndigheten
-setter, skal forsvareren gi underretning om hvorvidt
-forkynning har skjedd.
-§ 197 a skal lyde:
-Skriftlig kommunikasjon med domstolene kan
-skje elektronisk, når den tekniske løsning som
-benyttes, er tilstrekkelig betryggende.
-Kongen kan ved forskrift gi nærmere regler
-om elektronisk kommunikasjon med domstolene,
-herunder om obligatorisk bruk av bestemte kommunikasjonsløsninger.
-Ny § 197 b skal lyde:
-Domstoladministrasjonen skal gjennom planlagte og systematiske tiltak legge til rette for tilfredsstillende
-informasjonssikkerhet
-med
-hensyn til konfidensialitet, integritet og tilgjengelighet ved behandling av opplysninger i domstolene. Dokumentasjon for tiltakene skal
-utarbeides og være tilgjengelig for personene
-nevnt i annet ledd.
-Dommere og andre som utfører tjeneste eller
-arbeid for et dommerkontor, skal innrette sin
-behandling av opplysninger i samsvar med tiltakene etter første ledd og slik at tilfredsstillende
-informasjonssikkerhet ivaretas.
-Kongen kan ved forskrift gi nærmere regler
-om informasjonssikkerhet i domstolene.
-2. Endringer i utleveringsloven
-I lov 13. juni 1975 nr. 39 om utlevering av lovbrytere m.v. gjøres følgende endringer:
-Lovens tittel skal lyde:
-Lov 13. juni 1975 nr. 39 om utlevering av lovbrytere
-(utleveringsloven)
-Kapittel V oppheves.
-§ 26 skal lyde:
-1. Kongen kan inngå overenskomst med fremmed stat om plikt til utlevering på bestemte
-vilkår, som ikke må stride mot denne lov.
-2. Uten hensyn til denne lov kan utlevering skje i
-det omfang Norge har plikt til det etter over-
-
-[Side 93]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-enskomst med fremmed stat inngått før loven
-trådte i kraft.
-3. Utlevering kan skje etter denne lov, selv om
-Norge ikke er folkerettslig forpliktet til å utlevere.
-3. Endringer i barnevernloven
-I lov 17. juli 1992 nr. 100 om barnevern (barnevernloven) gjøres følgende endringer:
-§ 3-5 skal lyde:
-§ 3-5. Plikter i anledning straffesaker
-Når en sak er overført til barneverntjenesten
-etter straffeprosessloven § 28-2 tredje ledd, skal
-påtalemyndigheten underrettes om hvorvidt det
-treffes vedtak i saken.
-Når det er gitt melding om møte om fengsling
-av barn etter straffeprosessloven § 15-11 annet
-ledd, skal barneverntjenesten møte til hvert fengslingsmøte samt overfor retten uttale seg om behovet for tiltak etter barnevernloven kapittel 4 og gi
-informasjon om det arbeidet som pågår med å
-iverksette tiltak.
-4. Endringer i lov om krigsforbryterdomstol,
-Jugoslavia m.m.
-I lov 24. juni 1994 nr. 38 om gjennomføring i
-norsk rett av De forente nasjoners sikkerhetsråds vedtak om å opprette internasjonale domstoler for forbrytelser i det tidligere Jugoslavia
-og Rwanda gjøres følgende endringer:
-
-91
-
-Kapittel 1
-
-ledd, 52 første ledd bokstav a eller 52 c første ledd
-bokstav a samt i sak etter straffeprosessloven § 404 første ledd bokstav d.
-Regionalt nivå kan treffe vedtak om anke over
-tingrettens dom i sak etter straffeloven §§ 39
-annet ledd og 52 første ledd bokstav a.
-Regionalt nivå treffer vedtak om iverksetting
-etter straffeprosessloven § 40-2.
 Reglene i straffeprosessloven gjelder tilsvarende.
-6. Endringer i lov om gjennomføring av
-Roma-vedtektene
-I lov 15. juni 2001 nr. 65 om gjennomføring i
-norsk rett av Den internasjonale straffedomstols
-vedtekter 17. juli 1998 (Roma-vedtektene) gjøres
-følgende endringer:
-§ 3 annet ledd skal lyde:
-Anmodningen behandles og gjennomføres etter
-reglene i straffeprosessloven kapittel 25.
-§ 4 første ledd skal lyde:
-Etter anmodning fra Domstolen kan det benyttes tvangstiltak, jf. straffeprosessloven §§ 25-1
-annet ledd og 25-2 annet ledd.
-§ 4 første ledd annet punktum oppheves.
-§ 4 første ledd fjerde punktum skal lyde:
-En person kan pågripes og fengsles etter begjæring fra Domstolen, selv om vilkårene i straffeprosessloven ikke er oppfylt.
 
-§ 3 første ledd tilføyes et nytt tredje punktum,
-som skal lyde:
-Begjæring fra Domstolen behandles etter reglene i
-straffeprosessloven kapittel 25.
+**6. Endringer i lov om gjennomføring av Roma-vedtektene**
 
-7. Endringer i straffeloven
+I lov 15. juni 2001 nr. 65 om gjennomføring i norsk rett av Den internasjonale straffedomstols vedtekter 17. juli 1998 (Roma-vedtektene) gjøres følgende endringer:
 
-§ 3 annet ledd oppheves.
+§ 3 annet ledd skal lyde:
 
-§ 8 skal lyde:
-§ 8. Person i offentlig tjeneste. Offentlig institusjon
-Når straffbarheten av en handling avhenger av
-at den er begått av eller mot en person i offentlig
-tjeneste eller mot en offentlig institusjon, omfattes
-også handlinger begått av eller mot tilsvarende
-person eller institusjon i utlandet.
+Anmodningen behandles og gjennomføres *etter reglene i straffeprosessloven kapittel 25.*
 
-5. Endringer i straffegjennomføringsloven
-I lov 18. mai 2001 nr. 21 om gjennomføring av
-straff mv. (straffegjennomføringsloven) gjøres
-følgende endringer:
-Ny § 6 a skal lyde:
-§ 6 a. Kriminalomsorgens myndighet i straffesaker
-Tilsatt i kriminalomsorgen kan møte for tingrett og lagmannsrett i sak som er brakt inn for
-domstolene av kriminalomsorgen etter § 44 annet
-ledd eller straffeloven §§ 39 første eller annet
+§ 4 første ledd skal lyde:
 
-I lov 20. mai 2005 nr. 28 om straff (straffeloven)
-gjøres følgende endringer:
+Etter anmodning fra Domstolen kan det benyttes *tvangstiltak, jf. straffeprosessloven §§ 25-1 annet ledd og 25-2 annet ledd.*
 
-§ 88 nytt tredje ledd skal lyde:
-Første og annet ledd gjelder med de begrensninger og tillegg som følger av overenskomst
-med fremmed stat.
+§ 4 første ledd annet punktum oppheves.
 
-[Side 94]
+§ 4 første ledd fjerde punktum skal lyde:
 
-92
+En person kan pågripes og fengsles etter begjæring fra Domstolen, selv om vilkårene i *straffeprosessloven ikke* er oppfylt.
 
-Kapittel 1
+**7. Endringer i straffeloven**
 
-NOU 2016: 24
-Ny straffeprosesslov
+I lov 20. mai 2005 nr. 28 om straff (straffeloven) gjøres følgende endringer:
 
-§ 221 første ledd skal lyde:
-Med bot eller fengsel inntil 2 år straffes den
-som skriftlig eller muntlig gir uriktig opplysning
-til
-a) retten,
-b) notarius publicus, jf. lov 26. april 2002 nr. 12,
+§ 8 skal lyde:
 
-c) offentlig myndighet under forklaringsplikt,
-d) offentlig myndighet når forklaringen er
-bestemt til å avgi bevis,
-e) EFTA-domstolen,
-f) Den internasjonale straffedomstolen, eller
-g) utenlandsk domstol ved fjernmøte eller fjernavhør etter straffeprosessloven § 25-10.
+*§ 8. Person i offentlig tjeneste. Offentlig institusjon*
+
+Når straffbarheten av en handling avhenger av at den er begått av eller mot en person i offentlig tjeneste eller mot en offentlig institusjon, omfattes også handlinger begått av eller mot tilsvarende person eller institusjon i utlandet.
+
+§ 88 nytt tredje ledd skal lyde:
+
+Første og annet ledd gjelder med de begrensninger og tillegg som følger av overenskomst med fremmed stat.
+
+§ 221 første ledd skal lyde:
+
+Med bot eller fengsel inntil 2 år straffes den som skriftlig eller muntlig gir uriktig opplysning til
+
+a\) retten,
+
+b\) notarius publicus, jf. lov 26. april 2002 nr. 12,
+
+c\) offentlig myndighet under forklaringsplikt,
+
+d\) offentlig myndighet når forklaringen er bestemt til å avgi bevis,
+
+e\) EFTA-domstolen,
+
+f\) Den internasjonale straffedomstolen*, eller*
+
+*g) utenlandsk domstol ved fjernmøte eller fjernavhør etter straffeprosessloven § 25-10.*
+
+1.  **Utvalgets oppnevning, mandat og arbeid**
+
+    1.  **Utvalgets oppnevning og sammensetning**
+
+Ved kongelig resolusjon 20. juni 2014 ble det oppnevnt «et utvalg som skal utforme ny straffeprosesslov», Straffeprosessutvalget, med følgende sammensetning:
+
+førstestatsadvokat Runar Torgersen, Oslo (leder)
+
+tingrettsdommer Torunn E. Kvisberg,
+Lillehammer
+
+spesialrådgiver Tor Langbach, Trondheim
+
+Økokrim-sjef Trond Eirik Schea, Oslo
+
+visepolitimester Ida Melbo Øystese, Drøbak
+
+advokat Erik Keiserud, Oslo
+
+advokat Inger Marie Sunde, Stavanger
+
+advokat Kristin Fagerheim Hammervik, Bodø
+
+professor Jon Petter Rui, Bergen
+
+professor Lars Groth, Oslo
+
+selvstendig næringsdrivende Marianne Lie,
+Siggerud
+
+I brev til Justis- og beredskapsdepartementet anmodet Straffeprosessutvalget 27. april 2015 om å bli supplert med en lagdommer, med følgende begrunnelse:
+
+«Naturlig nok står domstolsbehandlingen av straffesaker sentralt i utvalgets mandat, og reglene om ankebehandling er trukket særskilt frem flere steder (jf. mandatets punkt 1, 3, 4.2, 4.3, 4.5, 4.9, 4.10 og 4.11). Straffeprosessutvalget består av 11 personer, og er bredt sammensatt, herunder med en tingrettsdommer (Torunn Kvisberg) og et medlem med erfaring som konstituert dommer i to lagmannsretter (professor Jon Petter Rui). Likevel har arbeidet med ny lov vist at det kunne være ønskelig med en lagdommer som utvalgsmedlem. En har også mottatt signaler i denne retning fra ulike hold, herunder dommerhold.
+
+På denne bakgrunn – og dessuten av hensyn til den kommende utredningens legitimitet og mottakelse – tillater en seg å anmode om at departementet supplerer utvalget ved å oppnevne en lagdommer som medlem. Formentlig vil det være naturlig at Domstoladministrasjonen kontaktes for å gi innspill til kandidater.»
+
+Anmodningen ble tatt til følge av Justis- og beredskapsdepartementet, som 18. august 2015 oppnevnte som nytt utvalgsmedlem
+
+lagmann Hans-Petter Jahre, Sande
+
+Anders Løvlie har ledet utvalgets sekretariat, som ellers har bestått av Esben Kyhring, Sarah Rytterager og Nils Gunnar Skretting.
+
+1.  **Utvalgets mandat**
+
+I foredraget til den kongelige resolusjonen er bakgrunnen for og formålet med oppnevningen av Straffeprosessutvalget beskrevet slik:
+
+«**1. Innledning**
+
+I r-konferanse 5. juni 2014 ble det gitt tilslutning til å nedsette et offentlig lovutvalg under Justis- og beredskapsdepartementet som skal utforme ny straffeprosesslov.
+
+**2. Bakgrunn**
+
+Kriminalitetsbildet er i sterk endring og kjennetegnes av økt profesjonalisering, organisering og internasjonalisering, i tillegg til økt bruk av avansert teknologi, økt brutalitet og økt sammenblanding av illegal og legal virksomhet. Vi trenger en straffeprosess som er rustet til å møte disse utfordringene og som legger til rette for å avvikle straffesaker effektivt og rettssikkert. Gjennom hyppige lovendringer har lovgiver forsøkt å oppdatere loven og dekke nye behov som følge av endringer i kriminalitetsbildet. Det er grunn til å tro at mange endringer har bidratt til å bryte ned den konsistens og sammenheng som loven i sin tid hadde, og gjort den mindre tilgjengelig. Det kan være et rettssikkerhets- og effektivitetsproblem. Den fragmentariske lovgivningsaktiviteten de siste 30 årene har også skapt et behov for en etterkontroll ved et samlet oversyn.
+
+Domstolen har i dag en svært tilbaketrukket rolle på det saksforberedende stadiet i straffesaker. Stadig mer komplekse saker med en stadig mer omfattende bevisførsel aktualiserer spørsmålet om mer organisert saksforberedelse og sterkere dommerstyring. Tvisteloven kan tjene som utgangspunkt for en straffeprosessuell reform. I Sverige er straffeprosesslovgivningen revidert blant annet med sikte på en slik effektivisering.
+
+Effektiviseringsmål om fullelektronisk straffesaksbehandling og iretteføring, krever vesentlige endringer av straffeprosessen.
+
+Det pekes også på den økte internasjonaliseringen som ikke er reflektert i straffeprosesslovens ordlyd. Verken internasjonalt samarbeid i straffeforfølgningen eller internasjonaliseringen av rettssikkerhetsgarantiene (først og fremst menneskerettighetskonvensjonene) er godt nok reflektert i loven.
+
+**3. Utvalgets arbeidsoppgaver**
+
+Utvalget får et bredt mandat og skal vurdere en hensiktsmessig regulering av hele straffeprosessretten. Utvalget skal foreslå regler om spørsmål der det selv mener det er behov for reform. Forslaget skal utarbeides på grunnlag av en overordnet målsetting om en rettssikker, effektiv og tillitvekkende rettergangsmåte for straffesaker.
+
+Utvalget bør blant annet vurdere endringer i dagens prosessordning som bedre legger til rette for mer aktiv dommerstyring og derved en mer effektiv og konsentrert prosess. Det gjelder spesielt for de store og kompliserte straffesakene. Det er grunn til å se nærmere på om forberedelsen og gjennomføringen av forhandlingene i større grad bør legges opp etter sivilrettslig mønster og om bevisføringen kan avgrenses til det faktum som er bestridt. Også bruk av moderne teknologi i kommunikasjon mellom aktørene og under etterforskningen og rettsforhandlingene, rettens sammensetning og ankesilingsreglene er temaer som er nevnt i utvalgets mandat.
+
+De økonomiske og administrative konsekvensene av lovforslaget, skal grundig belyses i utvalgets arbeid og er reflektert i utvalgets mandat.
+
+Det er i utgangspunktet vanskelig å si noe om konsekvenser for IKT-løsningene før man kjenner hovedtrekkene i lovendringen. En ny straffeprosesslov vil ha betydning for IKT-systemene i politiet, påtalemyndigheten, domstolene og kriminalomsorgen. Arbeidet med endringer i IKT-systemene bør skje delvis parallelt med lovarbeidet, både for å sikre iverksettingstidspunktet, men også for å sikre at loven ikke er til hinder for å utnytte det teknologiske rommet. For å sørge for at IKT-løsningene håndterer ny lov raskest mulig etter lovvedtaket, skal utvalget samarbeide tett med Politidirektoratet v/Merverdiprogrammet, Domstoladministrasjonen og Kriminalomsorgsdirektoratet. For politiet- og påtalemyndigheten må det legges til grunn at Merverdiprogrammet leverer nye saksbehandlingsløsninger før, eller samtidig med, ikraftsetting av ny straffeprosesslov. Inntil gjennomføringen av Merverdiprogrammet er vedtatt av Stortinget, vil de endelige tidsplanene være usikre.
+
+**4. Utvalgets sammensetning**
+
+Det foreslås at utvalgets skal bestå av elleve personer, inkludert leder. Utvalget bør være bredt sammensatt og bestå av representanter som nyter stor tillit og som representerer både domstolene, påtalemyndigheten, forsvarerstanden og akademia. Kompetansen på forenkling, effektivisering og IKT bør også inngå i utvalget. I tillegg bør utvalget bestå av medlemmer med erfaring fra endrings- og effektiviseringsprosesser i næringslivet. Den foreslåtte sammensetningen av utvalget reflekterer bred og relevant erfaring og kompetanse. I tillegg er kjønn og geografisk tilknytning vektlagt.
+
+Et utvalg som skal utrede helt sentrale aspekter av norsk straffeprosessrett bør ledes av en jurist \[…\] med sterk faglig integritet og som nyter stor tillit. Det er også viktig at lederen evner å få utvalgets medlemmer, som hver innehar betydelige posisjoner, til å trekke sammen.
+
+Kjønnsfordelingen er behandlet i samsvar med Barne- likestillings- og inkluderingsdepartementets rundskriv, publikasjon Q-4/2005. Utvalget er foreslått sammensatt av 5 kvinner og 6 menn (44,5 % kvinneandel) og oppfyller kravet i likestillingsloven § 13 første ledd bokstav e.
+
+**5. Generelt**
+
+Utvalget skal redegjøre for de økonomiske og administrative konsekvensene av sine forslag, jf. utredningsinstruksen punkt 3.1. Utvalget skal også legge frem sitt arbeid for Justis- og beredskapsdepartementet innen 1. november 2016.»
+
+Straffeprosessutvalgets mandat er gitt i vedlegg 1 til foredraget til den kongelige resolusjonen:
+
+**«1. Innledning**
+
+Straffeprosessloven inneholder reglene om hvordan straffesaker skal etterforskes og behandles, virksomheten til myndighetsorganene som håndterer straffesaker, og de ulike aktørene som er involvert.
+
+Någjeldende straffeprosesslov ble vedtatt i 1981. Etter ikraftsettingen 1. januar 1986 er det foretatt en rekke endringer i loven. De mest omfattende endringene ble gjennomført i 1993. Da ble to-instansbehandling av de alvorlige sakene som tidligere startet i lagmannsretten innført. I tillegg ble ankeordningen endret ved at lagmannsretten fikk funksjon som alminnelig ankedomstol. Også etter to-instansreformen har loven vært gjenstand for større endringer, for eksempel i forbindelse med fornærmedes rettigheter.
+
+Loven skal være et egnet redskap for å avdekke og reagere mot straffbare forhold samtidig som den skal ivareta rettssikkerheten til den som får mistanke rettet mot seg. Av hensyn til mistenkte, fornærmede og samfunnet er det viktig at loven legger til rette for en effektiv strafferettspleie. Lovens system bygger likevel på en forutsetning om at hensynet til effektivitet ikke skal gå på bekostning av hensynet til mistenktes grunnleggende rettssikkerhet. I tillegg skal loven på forsvarlig vis ivareta hensynet til fornærmede.
+
+**2. Behovet for revisjon**
+
+En god straffeprosess må bidra til kvalitet, effektivitet og rettssikkerhet i strafferettspleien, og den må åpne for rasjonell bruk av moderne informasjonsteknologi. Prosessordningen må være tilpasset det mangfold av saker som den teknologiske utvikling, den sosiale mobilitet og samfunnsutviklingen i sin alminnelighet gir opphav til.
+
+Kriminalitetsbildet er i endring og kjennetegnes av økt profesjonalisering, organisering og internasjonalisering. Stadig mer komplekse saker med en stadig mer omfattende bevisførsel reiser spørsmålet om mer organisert saksforberedelse og sterkere dommerstyring. Det er mange forhold som tyder på at straffeprosessloven av 1981 ikke er rustet til å møte disse utfordringene. Straffeprosessloven har dessuten vært gjenstand for en rekke mer enkeltstående endringer de seneste årene, og det er behov for et samlet oversyn og en lovteknisk gjennomgang. Det er i tillegg grunn til å vurdere om straffeprosessloven bør bringes mer i samsvar med sivilprosessen, som relativt nylig har vært gjenstand for en større revisjon. Sentrale brukergrupper har også reist spørsmålet om en full revisjon av loven. Departementet mener tiden derfor er moden for en bred gjennomgang av regelverket for rettergangsmåten i straffesaker. Det bør nedsettes et utvalg (‘Straffeprosessutvalget’) med sikte på å utrede en ny straffeprosesslov som er bedre tilpasset vår tid, og som legger til rette for å avvikle straffesaker rettssikkert og effektivt.
+
+**3. Målsettingene med en ny lov**
+
+Utvalget skal i første rekke foreta en bred vurdering av lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker (straffeprosessloven) og i samsvar med sine vurderinger legge frem forslag til en ny alminnelig lov som skal avløse denne.
+
+Utvalget skal legge vekt på å utrede og foreslå lovregler om spørsmål der utvalget selv mener det er behov for reform og ta sikte på å utarbeide en lov som er bedre tilpasset vår tid. Forslaget til ny straffeprosesslov skal utarbeides på grunnlag av en overordnet målsetting om en effektiv, rettssikker og tillitvekkende behandling av straffesaker. Forslaget bør reflektere en balansert avveining mellom effektivitet og rettssikkerhet.
+
+Vår straffeprosesslovgivning bygger på grunnleggende prinsipper som anklageprinsippet, offentlighetsprinsippet, muntlighetsprinsippet og bevisumiddelbarhetsprinsippet. Utvalget skal se nærmere på anvendelsen av disse prinsippene i møte med de utfordringene som dagens kriminalitetsbilde stiller oss overfor.
+
+Det er et mål for den nye loven at den i større grad enn den gjeldende skal legge til rette for en effektiv og samhandlende straffesakskjede. En effektiv og rettssikker straffesaksbehandling forutsetter at gjennomføringen tar kort tid. En rask saksbehandling er ikke bare av betydning for effektiviteten i straffesaksbehandlingen, men også for mistenktes rettssikkerhet. Også de menneskelige omkostninger for mistenkte, fornærmede og vitner må antas å bli mindre dersom saken gjennomføres på kort tid. Saksbehandlingen må likevel ikke bli så rask at den blir uforsvarlig. Gjeldende straffeprosesslov er skrevet med tanke på relativt enkle og oversiktlige saker sammenliknet med den virkelighet som i dag preger mye av kriminalitetsbildet. Utvalget skal vurdere reglene, og foreslå endringer som bedre møter dagens utfordringer og samtidig legger til rette for at også de mindre og enkle straffesakene avvikles på en rettssikker og effektiv måte. Det forutsetter en samlet og helhetlig gjennomgang av regelverket med sikte på det mangfoldet av saker som skal håndteres.
+
+Selv om særlige hensyn gjør seg gjeldende i straffeprosessen, bør utvalget trekke veksler på vurderingene som ligger til grunn for tvisteloven fra 2005 som grunnlag for hva som innenfor rammene for en betryggende, tillitvekkende og effektiv straffeprosess gir hensiktsmessige retningslinjer for saksforberedelse, dommerstyring og bevisførsel.
+
+Utvalget skal vurdere muligheter og gevinster som ligger i tilpasning til og rasjonell utnytting av moderne teknologi, herunder bruk av lyd/bilde ved bevisopptak/etterforsking og i domstolen.
+
+Det må vurderes om reglene for straffesaker oppfyller kravene som følger av internasjonale konvensjoner, særlig Den europeiske menneskerettskonvensjon. En ny straffeprosesslov må utformes slik at de forpliktelser som følger av menneskerettighetene ivaretas og gjennomgående reflekteres i loven.
+
+Loven skal utformes i et klart og godt språk og være informativ og brukervennlig, også for ikke-jurister.
+
+**4. Enkelte sentrale spørsmål**
+
+Departementet vil peke på enkelte sentrale spørsmål som utvalget bør vurdere, men listen er ikke uttømmende:
+
+1\. Utvalget bør vurdere endringer i dagens prosessordning som bedre legger til rette for mer aktiv dommerstyring og derved en mer effektiv og konsentrert prosess. Det gjelder spesielt for de store og kompliserte straffesakene.
+
+2\. Det er grunn til å se nærmere på om forberedelsen og gjennomføringen av hoved- og ankeforhandlingen i straffesaker i større grad bør legges opp etter sivilrettslig mønster. I den forbindelse bør det vurderes regler som gjør det mulig å avgrense bevisførselen til det faktum som er bestridt.
+
+3\. Det må vurderes om domstolene i større grad enn i dag bør gis adgang til å dele opp forhandlingene og treffe delavgjørelser.
+
+4\. En ny lov bør speile den teknologiske utviklingen. I lys av formålet om en rettssikker, effektiv og tillitvekkende straffeprosess bør utvalget vurdere regler om bruk av moderne teknologi på alle stadier av en straffesak, også i aktørenes kommunikasjon med hverandre.
+
+5\. Utvalget bør ut fra de samme hensyn vurdere behovet for lyd- og bildeopptak under hovedforhandlingen. I den sammenheng bør det vurderes hvilke konsekvenser eventuelle opptak under bevisførselen bør få for gjennomføringen av for eksempel ankeforhandlingen.
+
+6\. I lys av formålet om en mer effektiv straffesaksavvikling bør utvalget vurdere virkemidler for å øke antallet tilståelsessaker. Utvalget bør i den sammenheng vurdere særskilt om det er grunn til å innføre en ordning hvor påtalemyndighetene kan gi bindende tilsagn om strafferabatt dersom siktede tilstår (‘plea bargaining’). Det bør også vurderes om det er grunnlag for forenklet behandling av straffesaker utover tilståelsessaker. Det har vært reist spørsmål om ordningen med tre dagers varsel til hovedforhandling bør gjelde ubetinget for alle saker. Regelen har vist seg å utgjøre en særlig utfordring i saker der mistenkte er uten kjent bopel.
+
+7\. Norsk straffeprosess bygger på et ulovfestet utgangspunkt om fri bevisførsel. Gjeldende lovgivning oppstiller visse begrensninger i dette utgangspunktet. I tillegg kan domstolene oppstille begrensninger på ulovfestet grunnlag, for eksempel for bevis som er fremskaffet på ulovlig måte. Utvalget bør se nærmere på hvilke begrensninger som bør gjelde i prinsippet om fri bevisførsel, særlig vurdert i lys av våre menneskerettslige forpliktelser, samt vurdere en mer utførlig lovfesting av bevisreglene.
+
+8\. Utvalget bør vurdere reglene om bruk av forsvarer og bistandsadvokat, herunder se nærmere på forsvarerrollen og det frie forsvarervalg.
+
+9\. Utvalget bør se nærmere på rettens sammensetning, både i underinstansen og ankeinstansen. Utvalget skal legge til grunn at juryordningen håndteres i et selvstendig lovarbeid basert på NOU 2011: 13. Når det gjelder lagmannsrettens sammensetning for øvrig, bør utvalget se hen til forslagene i NOU 2011: 13.
+
+10\. Det er et spørsmål om det bør skje endringer i reglene om ankesiling og omfanget av prøvingen. Utvalget bør vurdere hvilke kriterier regelen om automatisk anke skal bygge på. Utvalget bør også vurdere om ankeinstansens prøving kan og bør være mer begrenset enn det som følger av gjeldende regelverk.
+
+11\. Utvalget bør vurdere konsekvensene av saksbehandlingsfeil, herunder hvilke feil som bør føre til opphevelse av dommen med en ny fullstendig behandling i underinstansen.
+
+12\. Innsynsreglene i straffeprosessloven har nylig vært gjenstand for endringer, men ingen full revisjon, jf. lov 21. juni 2013 nr. 86. Reglene er kompliserte og har et fragmentarisk preg. Utvalget bør foreta en helhetlig vurdering av om innsynsretten på de ulike stadiene i straffesaken kan reguleres på en mer hensiktsmessig måte, herunder vurdere innholdet i og en eventuell lovfesting av saksdokumentbegrepet.
+
+13\. Utvalget bør se nærmere på om det for saker om erstatning i anledning av forfølgning bør utformes saksbehandlingsregler som gir en mer forutsigbar og effektiv behandling.
+
+14\. Våre menneskerettslige forpliktelser har en helt annen betydning og gjennomslagskraft i dag enn da gjeldende straffeprosesslov ble vedtatt. Selv om domstolenes tolkningspraksis sikrer at gjeldende rett i hovedsak er i samsvar med våre menneskerettslige forpliktelser, gir ikke straffeprosessloven alltid et dekkende uttrykk for hva som er gjeldende rett. En ny lov bør gi et dekkende uttrykk for de krav som følger av internasjonale menneskerettskonvensjoner, særlig Den europeiske menneskerettskonvensjon. I tillegg bør utvalget vurdere loven i lys av EUs straffeprosessuelle minstestandarder.
+
+15\. Det moderne kriminalitetsbildet preges av økt mobilitet over landegrensene. Det aktualiserer behovet for gjensidig bistand mellom stater i straffesaker. Det er nylig vedtatt endringer i bl.a. utleveringsloven i forbindelse med implementeringen av flere EU-instrumenter, herunder EUs konvensjon om gjensidig hjelp i straffesaker. Utvalget kan vurdere om det i den nye straffeprosessloven er hensiktsmessig å innta regler om gjensidig bistand mellom stater i straffesaker.
+
+Departementet har ikke funnet grunn til særskilt å nevne ytterligere spørsmål som bør vurderes av utvalget. Det tas sikte på en alminnelig revisjon av hele straffeprosessloven og utvalget forutsettes å stå fritt når det gjelder spørsmålet om hvilke reformer den vil foreslå, likevel med de begrensninger som følger av punkt 5.
+
+**5. Forholdet til annet lovarbeid**
+
+Ved lov 7. mars 2008 nr. 5 ble fornærmedes og etterlattes rettsstilling styrket. Det vises for øvrig til Ot.prp. nr. 11 (2007–2008) og NOU 2006: 10. Siden fornærmedes og etterlattes rettsstilling relativt nylig er vurdert, legger departementet til grunn at behovet for revisjon av disse reglene ikke er stort. Utvalget kan likevel foreslå endringer.
+
+Lovreglene om de skjulte tvangsmidlene i straffeprosesslovens fjerde del er under revisjon. Det vises til Prop. 147 L (2012–2013) og en proposisjon som ventelig vil fremmes for Stortinget i løpet av 2014. Proposisjonene følger opp NOU 2009: 15. Departementet legger til grunn at innholdet i disse reglene, etter ikraftsetting av de siste endringene, i all hovedsak vil være tilfredsstillende. Utvalget kan likevel foreslå endringer.
+
+I Ot.prp. nr. 108 (2008–2009) på side 11 heter det at forslagene til ny politiregisterlov samlet sett fører til at ‘man etablerer et klarere skille mellom behandling av opplysninger, som vil bli regulert av politiregisterloven, og prosessuelle forhold, som fortsatt vil bli regulert av straffeprosessloven.’ Utvalget skal påse at dette skillet ivaretas i ny lov.
+
+Høsten 2014 avgir det såkalte tilregnelighetsutvalget sin utredning. Justis- og beredskapsdepartementet kommer tilbake til utvalget med eventuelle forventninger til hvordan det arbeidet skal håndteres av utvalget.
+
+**6. Generelt**
+
+Utvalget kan ta opp spørsmål om tolking eller avgrensning av mandatet med Justis- og beredskapsdepartementet. Departementet kan supplere mandatet ved behov.
+
+En viktig del av utvalgets arbeid blir å sørge for innspill fra og dialog med berørte aktører og andre med interesse for arbeidet. I samråd med departementet bør utvalget tidlig vurdere om det er hensiktsmessig å nedsette en eller flere referansegrupper, arrangere debattmøter, seminarer eller på annen måte innhente synspunkter fra relevante fagmiljøer og interessegrupper. En egen nettside for utvalget kan være en egnet måte å bidra til slik informasjonsdeling.
+
+Det pågår et omfattende arbeid med IT-systemene i politi- og påtalesektoren (Merverdiprogrammet). Utvalget forutsettes å ha kontakt med Merverdiprogrammet og innhente nødvendig kompetanse også fra andre med kompetanse innen IKT- arkitektur og -utvikling, for å klarlegge eventuelle tekniske konsekvenser og tilpasninger av forslagene som vurderes.
+
+Utvalget bør trekke veksler på Lovdatas kompetanse med hensyn til strukturering av avgjørelser, lover og forskrifter.
+
+Utvalget skal i sitt arbeid se hen til rapportene fra Domstoladministrasjonens regelutvalg.
+
+Utvalget skal utforme lovforslagene i samsvar med anbefalingene fra Justis- og beredskapsdepartementet i veilederen ‘Lovteknikk og lovforberedelse’. Utvalget skal fremme forslag til endringer i andre lover og forskrifter, herunder påtaleinstruksen, som er en følge av utvalgets øvrige forslag. Det må vurderes hva som bør reguleres i lov og hva som eventuelt bør reguleres i forskrift eller retningslinjer.
+
+Utvalget skal redegjøre for økonomiske, administrative og andre vesentlige konsekvenser av sine forslag. Utvalget skal i denne sammenheng ta særlig hensyn til de IKT-messige forutsetningene for sine forslag. Minst ett forslag skal være basert på uendret ressursbruk, jf. utredningsinstruksen punkt 3.1.
+
+Den budsjettmessige rammen for utvalgets arbeid vil bli fastsatt særskilt. Utvalget kan etter nærmere avtale med Justis- og beredskapsdepartementet engasjere sakkyndig hjelp til utredningsarbeidet. Om godtgjøring gjelder regulativet for godtgjøring mv. til leder, medlemmer og sekretærer i utvalg, med mindre annet er avtalt.
+
+Utvalget skal avgi sin utredning innen 1. november 2016.»
+
+1.  **Utvalgets arbeid**
+
+Utvalget har i alt avholdt 23 møter, første gang 25. august 2014, og siste gang 23. og 24. august 2016. De fleste møtene har vært av to dagers varighet. Utvalget har gjennomført fire studiereiser til utlandet.
+
+Utvalget har bestilt en rapport om betydningen av ikke-juridiske forhold for tidsbruken i straffesaker. Rapporten *En vurdering av enkelte premisser for en ny straffeprosesslov*, forfattet av cand.jur. ph.d. Gert Johan Kjelby og cand.polit. Lisbeth Fullu Skyberg, er inntatt som vedlegg 2 til utredningen. Hovedfunnene er presentert i punkt 4.3.3.
+
+Til enkelte av utvalgsmøtene har utvalget invitert personer med særskilt kunnskap om ulike tema av interesse for arbeidet med ny straffeprosesslov. Advokat ph.d. Thomas Horn har redegjort for sin avhandling *Fullstendig isolasjon ved risiko for bevisforspillelse – rettspolitiske vurderinger.* Politiadvokat Ragnvald Brekke har gitt utvalget en presentasjon av sine erfaringer med digital straffesaksbehandling og iretteføring. Representanter for Pressens offentlighetsutvalg – Kjersti Løken Stavrum, Ina Lindahl Nyrud, Nils E. Øy og Kristine Foss – har redegjort for sine synspunkter på enkelte spørsmål vedrørende pressens forhold til strafferettspleien. Ett av utvalgets møter ble avholdt i lokalene til Økokrim, hvor avdelingsleder i Dataavdelingen ph.d. Thomas Walmann orienterte om praktiske erfaringer med store databeslag.
+
+Enkeltmedlemmer i utvalget og sekretariatet har fått innspill fra en rekke personer og institusjoner: professor Dag Wiese Schartum, Det juridiske fakultet, Universitetet i Oslo, professor Johan Boucht, Det juridiske fakultet, Universitetet i Oslo, professor Magne Strandberg, Det juridiske fakultet, Universitetet i Bergen, tidligere lagdommer Iver Huitfeldt, tidligere generaladvokat Arne Willy Dahl, spesialrådgiver i Justis- og beredskapsdepartementet Morten Ruud, general og tidligere forsvarssjef Sverre Diesen, Kontoret for voldsoffererstatning, Stiftelsen Lovdata, Politidirektoratet og et stort antall lagdommere i forbindelse med Domstoladministrasjonens årlige dommerseminar i 2015.
+
+Utvalget, representert ved utvalgsleder og sekretariatet, har gjennomført møter med en rekke aktører i strafferettspleien, herunder Politijuristene, Politiets sikkerhetstjeneste, Kriminalomsorgsavdelingen, Lovavdelingen og Politiavdelingen i Justis- og beredskapsdepartementet, Advokatforeningens utvalg for bistandsadvokater, de faste bistandsadvokatene i Oslo, førstelagmennene i alle landets lagmannsretter, Økokrim, Oslo statsadvokatembeter, Domstoladministrasjonen, Oslo tingrett, Arbeidsgruppen for reformer i andre instans ledet av lagmann Eirik Akerlie, Regjeringsadvokaten og Statens sivilrettsforvaltning. I møtene har ulike deler av utvalgets arbeid og forslag blitt presentert og diskutert, og aktørene har blitt invitert til å komme med innspill til det videre arbeidet.
+
+Utvalgsleder, enkelte utvalgsmedlemmer og sekretariatet har deltatt på høstseminaret til Advokatforeningens forsvarergruppe, et frokostseminar om bistandsadvokatordningen i regi av Advokatforeningens bistandsadvokatutvalg, et møte i Oslo tingrett om digital kommunikasjon i straffesakskjeden og en workshop på BI om forutsetninger og hindringer for samhandling i straffesakskjeden i regi av Justis- og beredskapsdepartementet og Universitetet i Bergen. Utvalgsleder har dessuten hatt et møte med styret i Domstoladministrasjonen, der sentrale spørsmål i utvalgets arbeid ble presentert og diskutert.
+
+Under arbeidet har utvalget forelagt forslag til lovtekst og merknader for et utvalg av lagdommerne i Borgarting lagmannsrett, advokatene Anders Brosveet, Arild Dyngeland og Marianne Klausen, førstestatsadvokat Anne Grøstad, Advokatforeningens bistandsadvokatutvalg, de faste bistandsadvokatene i Oslo, generaladvokaten og tidligere generaladvokat Arne Willy Dahl, Oslo tingretts strafferettsgruppe og Pressens Offentlighetsutvalg.
+
+Utvalgets leder og sekretariatet besøkte 3. desember 2014 Det juridiske fakultet ved Universitetet i Bergen og drøftet der erfaringer med og behov for endringer i straffeprosessloven med universitetets fagmiljø for strafferett og straffeprosess. Professor Per Ole Träskman ved Lunds universitet redegjorde her for erfaringer med den svenske reformen «En modernare rättegång», som blant annet innebærer at forhandlingene i første instans tas opp med lyd og bilde og senere gjenbrukes i ankeinstansen.
+
+Fra 6. til 7. november 2014 besøkte utvalgets leder og sekretariatet København. Under besøket møtte utvalgsleder og sekretariatet advokat Anders Boelskifte, som er fast forsvarer i København. Boelskifte orienterte om forsvarerordningen i Danmark og sine erfaringer med det danske systemet. Utvalgsleder og sekretariatet overvar en sak i Københavns Byret og ble der tatt imot av retspræsident Søren Axelsen og fikk anledning til å drøfte sine inntrykk med administrerende dommer i saken, Lena Falk.
+
+Fra 21. til 22. april 2015 besøkte utvalget og sekretariatet Stockholm. I Svea hovrätt møtte utvalget hovrättspresident Fredrik Wersäll, som orienterte om den svenske ankeordningen med særlig vekt på erfaringene med domstolsreformen «En modernare rättegång» og ankeforhandlinger basert på lyd- og bildeopptak fra tingsretten. Utvalget overvar to ankesaker og drøftet inntrykket av den svenske ankeordningen med et utvalg dommere fra hovrätten.
+
+Utvalget og sekretariatet besøkte København 23. og 24. september 2015. Under besøket orienterte president i Østre Landsret Bent Carlsen, landsdommer og formann for det danske Strafferetsplejeudvalget Anne Louise Bormann og landsdommer Michael Lerche om domstolens arbeid. Utvalgets medlemmer overvar en ankesak og drøftet deretter prosessuelle og komparative spørsmål i lys av Straffeprosessutvalgets mandat med landsdommer Bormann og landsdommer Lerche.
+
+Fra 20. til 22. oktober 2015 gjennomførte utvalget og sekretariatet en studiereise til Freiburg im Breisgau i Tyskland. Utvalget besøkte Max-Planck-Institut für ausländisches und internationales Strafrecht i Freiburg, hvor Prof. Dr. Dr. h.c. mult. Ulrich Sieber og Dr. Johanna Rinceanu, LL.M. holdt innlegg om tysk straffeprosess. Under besøket ble det avholdt en rundebordskonferanse, hvor utvalgsmedlemmene drøftet erfaringer fra norsk og tysk straffeprosess med dommer og direktør for Amtsgericht im Baden-Württemberg Heidi Winterer og to påtalejurister fra Staatsanwaltschaft Freiburg im Breisgau, Staatsanwalt Matthias Rall og Staatsanwalt Klaus Hoffmann. Utvalget overvar en straffesak i Amtsgericht Freiburg og drøftet deretter erfaringer med Dr. Johanna Rinceanu.
+
+Utvalget og sekretariatet besøkte Oxford og London 16. og 17. mars 2016. Under besøket deltok utvalget på et seminar om engelsk og norsk straffeprosess i Oxford. Representanter fra University of Oxford og ulike aktører fra engelsk strafferettspleie holdt innlegg for utvalget, herunder Abigail Bright, Barrister, Doughty Street Chambers; Laura Hoyano, Associate Professor of Law, University of Oxford; Riel Karmy-Jones QC, Red Lion Chambers; Nicola Padfield, Reader in Criminal and Penal Justice, University of Cambridge & Master, Fitzwilliam College, Cambridge; Andrew Ashworth QC, Emeritus Vinerian Professor of English Law, All Souls College, Oxford. I tillegg deltok professor Mads Andenæs og Eirik Bjørge LLB, MJur, DPhil på seminaret.
+
+I London møtte utvalget The Law Commissioner for England and Wales ved professor David Ormerod QC og team lawyer Karl Laird. Utvalget besøkte The Central Criminal Court of England and Wales («The Old Bailey»). Medlemmene ble ønsket velkommen av The Common Serjeant of London, Richard Marks QC. Medlemmene overvar to straffesaker og fikk anledning til å diskutere sine inntrykk med de administrerende dommere før og etter forhandlingene.
+
+Justis- og beredskapsdepartementet sendte 1. juni 2016 på høring et forslag til endring av ordningen med generaladvokat og krigsadvokater. I brev 1. oktober 2016 avga utvalget høringsuttalelse, se vedlegg 3.
+
+Utvalget har hatt en hjemmeside hvor det blant annet har blitt publisert informasjon om arbeidet, kommende møter og referat fra utvalgsmøtene. Via hjemmesiden har publikum hatt mulighet til å komme med innspill.
+
+Domstoladministrasjonen ved seniorrådgiver Baard Marstrand og seniorrådgiver i Justis- og beredskapsdepartementet Christopher Heyerdahl har bistått med å skaffe tallmateriale og statistikk for domstolene. Et sammendrag av materialet er presentert i punkt 4.3.2. Utvalget har også mottatt elleve rapporter fra Domstoladministrasjonens regelutvalg og et sammendrag av forslagene som er av betydning for utvalgets arbeid.
+
+Utvalget har disponert kontorer hos Justis- og beredskapsdepartementet og har fått bistand til administrative gjøremål av sekretærene i Justis- og beredskapsdepartementets lovavdeling. Korrektur er lest av Åsta Mari Aune, Aune språkvask og korrektur. Hanna Nicholls, vitenskapelig assistent ved Nordisk institutt for sjørett, Det juridiske fakultet, Universitetet i Oslo, har foretatt kildesjekk og utarbeidet litteraturregister og lovspeil. Sammendraget i utredningens kapittel 3 er oversatt til engelsk av advokat og statsautorisert translatør Knut Engedal, Hansen & Engedal.
+
+1.  **Sammendrag**
+
+    1.  **Lovutkast, mandat og sammendrag (utredningen del I)**
+
+*Kapittel 1* i utredningen inneholder utvalgets forslag til *lov om behandling av straffesaker (straffeprosessloven)* samt utvalgets øvrige forslag til lovendringer. Utkastet til ny straffeprosesslov er ikke i samme grad som gjeldende lov strukturert med rettergang som utgangspunkt. Mye av straffesaksbehandlingen skjer utenrettslig, og straffeprosessloven er for en stor del en etterforskingslov. Det legges i stor grad opp til gjennomgående reguleringer på tvers av de ulike stadier av prosessen. Oppbygningen av lovforslaget og forholdet til annet regelverk er nærmere omhandlet i kapittel 29.
+
+*Kapittel 2* inneholder en redegjørelse for utvalgets oppnevning ved kongelig resolusjon 20. juni 2014, dets sammensetning, mandat og arbeid.
+
+Etter mandatet skal utvalget «i første rekke foreta en bred vurdering av lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker (straffeprosessloven) og i samsvar med sine vurderinger legge frem forslag til en ny alminnelig lov som skal avløse denne».
+
+Foruten å forutsette et samlet oversyn og en *fullstendig lovteknisk revisjon* fremholder mandatet en rekke spørsmål som sentrale. Et viktig punkt utvalget er bedt om å vurdere, er om det kan legges bedre til rette for mer *aktiv dommerstyring* og derved en mer effektiv og konsentrert prosess. Dette siktemålet aktualiserer også en nærmere vurdering av reglene om *saksforberedelse*. I lys av formålet om en rettssikker, effektiv og tillitvekkende straffeprosess har utvalget videre fått i oppdrag å vurdere regler om bruk av *moderne teknologi* på alle stadier av en straffesak. En side av dette er spørsmålet om behovet for *lyd- og bildeopptak* under hovedforhandlingen og bruk av slike eventuelle opptak ved ankebehandling. I lys av formålet om en mer effektiv straffesaksavvikling er utvalget videre bedt om å vurdere virkemidler for å øke antallet *tilståelsessaker* og herunder vurdere om det bør innføres en ordning med *straffetilsagn*. Håndteringen av bevis utgjør en meget viktig del av straffesaksbehandlingen. Et annet sentralt punkt i mandatet er således å vurdere en mer utførlig lovfesting av *bevisreglene*.
+
+Andre spørsmål som er fremholdt som sentrale i mandatet, gjelder omfanget av bruk av forsvarer og bistandsadvokat, ankesiling, konsekvensene av saksbehandlingsfeil, rett til innsyn, rett til erstatning i anledning forfølgning, og gjensidig bistand mellom stater i straffesaker. I lys av den internasjonale utviklingen er det også fremhevet i mandatet at en ny lov bør gi et dekkende uttrykk for Norges ulike folkerettslige forpliktelser, ikke minst *menneskerettighetene*.
+
+Utvalget er for øvrig stilt fritt til å vurdere andre spørsmål. Sentrale temaer utvalget har behandlet, men som ikke er særskilt fremhevet i mandatet, er blant annet *påtalemyndighetens rolle og uavhegighet* og reglene om *varetektsfengsling*.
+
+*Kapittel 3* inneholder et sammendrag av utredningens fire hoveddeler: Lovutkast, mandat og sammendrag (del I), Grunnleggende forutsetninger for reform (del II), Alminnelige motiver (del III) og Merknader til utvalgets lovforslag (del IV). En engelsk oversettelse av sammendraget er inntatt i utredningen som vedlegg 4.
+
+1.  **Grunnleggende forutsetninger for reform (utredningen del II)**
+
+I utvalgets mandat er det pekt på enkelte grunnleggende faktiske og rettslige forutsetninger av betydning for utformingen av straffeprosessloven.
+
+I *kapittel 4* behandler utvalget dagens situasjon hva gjelder kriminalitetsbildet og håndteringen av straffesaker i straffesakskjeden. Utvalget drøfter mandatets premisser om dette og betydningen av situasjonsbeskrivelsen for arbeidet med en ny straffeprosesslov. Utvalget har for å belyse disse spørsmålene innhentet en rapport fra cand.jur. ph.d. Gert Johan Kjelby og cand.polit. Lisbeth Fullu Skyberg, som det gjøres nærmere rede for i punkt 4.3.3. Rapporten er tatt inn som vedlegg 2 til utredningen.
+
+Rettslige forutsetninger av betydning for en ny straffeprosesslov er behandlet i utkastet *kapittel 5*. Foruten Grunnlovens og folkerettens skranker og føringer for lovarbeidet drøftes også hovedprinsipper og grunnleggende hensyn i vår prosesstradisjon.
+
+1.  **Alminnelige motiver til utvalgets forslag (utredningen del III)**
+
+    1.  **Informasjons- og kommunikasjonsteknologi**
+
+Bruk av informasjons- og kommunikasjonsteknologi i straffeprosessen er fremhevet på en rekke punkter i mandatet, som gjelder (1) lovovertrederes bruk av teknologi, (2) bruk av teknologi ved administrasjon av straffesaksprosessen, og (3) lyd- og bildeopptak av rettslige forhandlinger og ved bevisopptak i og utenfor retten. Problemstillinger knyttet til disse temaene er drøftet samlet i *kapittel 6*.
+
+Utvalget går inn for at det som hovedregel skal gjøres opptak med lyd og bilde av forhandlingene i rettsmøter, se punkt 6.5.3.3. Videre anbefaler utvalget at det legges opp til at opptak av forklaringer fra første instans skal kunne spilles av under ankeforhandling, se punkt 6.5.4.5. Se også punkt 3.3.3, 3.3.7 og 3.3.9 nedenfor.
+
+Økonomiske og administrative konsekvenser som følge av behov for endring, fornyelse og anskaffelse av saksbehandlingssystemer, utstyr for lyd- og bildeopptak mv. drøftes for seg i punkt 28.3. Der gis det også estimater for hvor lang tid det vil ta å gjøre de endringer i eksisterende datasystemer som er nødvendige for at loven skal kunne tre i kraft.
+
+1.  **Innledende bestemmelser. Straffesakens aktører. Innsyn (lovutkastet del 1)**
+
+I *kapittel 7* behandler utvalget lovens virkeområde og forhold til folkeretten (lovutkastet kapittel 1).
+
+Lovens virkeområde foreslås videreført i utkastet, men i forenklet form slik at saker om «straff og andre strafferettslige reaksjoner» – i straffelovens forstand – skal behandles etter straffeprosessloven. Det klargjøres videre at loven gjelder for bistand til utenlandsk myndighet, for behandling av sivile krav som behandles i straffesak og for behandling av krav om erstatning eller straffeforfølgning.
+
+Utvalget foreslår at loven skal gjelde med de begrensninger som følger av folkerettens regler om immunitet og jurisdiksjon. Den generelle bestemmelsen i straffeprosessloven § 4 første ledd om at loven gjelder med de «begrensninger som er anerkjent i folkeretten eller følger av overenskomst med fremmed stat», foreslås ikke videreført, blant annet i lys av menneskerettslovens forrangsbestemmelse.
+
+*Kapittel 8* behandler sentrale spørsmål om påtalemyndigheten (lovutkastet kapittel 2), herunder om dens organisering, grunnleggende prinsipper for dens virksomhet, fordeling av påtalekompetanse mv. Selv om mandatet ikke særskilt etterspør en utredning av reglene om påtalemyndigheten og dens virksomhet, har utvalget funnet grunn til å foreslå enkelte endringer.
+
+Utvalget foreslår å formalisere og styrke påtalemyndighetens *uavhengighet fra politiske myndigheter*. Etter utvalgets syn er det viktig å sikre påtalemyndighetens uavhengighet, herunder gjennom en organisering som ikke bare på grunnlag av praksis, men også formelt utelukker politisk innblanding i enkeltavgjørelser. Det foreslås således at Kongen i statsråd ikke skal inneha påtalemyndighet, og den tiltalekompetanse og instruksjons- og omgjøringsmyndighet i enkeltsaker som Kongen i statsråd har etter gjeldende rett, foreslås opphevet. Det vises til drøftelsen i punkt 8.2.1. Utvalget foreslår dessuten at det tas inn et krav om «uavhengig anklage» i Grunnloven § 96, se punkt 8.5.
+
+Utkastet bygger på at påtalemyndigheten skal ha det overordnede ansvar for å forvalte statens straffeforfølgningsinteresse. Dette ansvaret bør som utgangspunkt hvile på en sterk presumsjon for at straffbare forhold skal forfølges, og hovedregelen i utkastet er således som i dag at påtalemyndigheten har en *straffeforfølgningsplikt*. Samtidig foreslås det at påtalemyndigheten fremdeles skal ha en skjønnsmessig adgang til å unnlate forfølgning selv om vilkårene for dette er til stede, se punkt 5.3.1, 8.3.2 og 8.3.3.
+
+Utvalget foreslår at det også i ny straffeprosesslov gis regler om *fordeling av påtalekompetanse* internt i påtalemyndigheten. Det foreslås at påtalekompetanse i noen grad forskyves nedover i påtalehierarkiet sammenlignet med gjeldende lov, i første rekke ved at påtalemyndigheten i politiet gis utvidet adgang til å beslutte tiltale og treffe andre positive påtalevedtak. Samtidig foreslås det en adgang til, både i den enkelte sak og ved generell instruks, å delegere avgjørelsen av påtalespørsmålet til underordnet nivå. Formålet med forslagene er å legge til rette for en mer hensiktsmessig arbeidsdeling og bedre ressursutnyttelse i påtalemyndigheten. Ikke minst ønsker utvalget å legge til rette for at overordnet påtalemyndighet i større utstrekning enn i dag kan drive opplæring, veiledning og tilsyn overfor underordnet nivå. Se nærmere punkt 8.2.2 og 8.4.
+
+Etter straffeprosessloven har overordnet påtalemyndighet alminnelig *instruksjons- og omgjøringsmyndighet*. Denne ordningen foreslås videreført. Et spørsmål for utvalget har vært om og eventuelt i hvilken utstrekning det også bør gjelde instruksjons- og omgjøringsmyndighet innenfor det enkelte nivå i påtalemyndigheten. Det er noe omdiskutert hvordan rettstilstanden er på dette punkt under gjeldende lov. Utvalget har tatt utgangspunkt i at politimesteren og embetsleder på statsadvokatnivå skal ha totalansvar for henholdsvis politidistriktets og embetets virksomhet, herunder med hensyn til kvalitet i straffesaksbehandlingen og bruk av ressurser. Som ledd i dette mener utvalget at lederen også må kunne øve innflytelse på behandlingen av enkeltsaker. Ut fra en slik tilnærming er det etter utvalgets syn ingen grunn til å gjøre unntak fra alminnelige forvaltningsrettslige prinsipper om instruksjons- og omgjøringsmyndighet, og utkastet tar sikte på å klargjøre dette. Det vises til punkt 8.2.6.
+
+*Kapittel 9* behandler sentrale spørsmål om mistenkte og forsvareren (lovutkastet kapittel 3). Utvalget går inn for å fjerne lovens kategori «siktede». Rettigheter etter loven legges til «mistenkte», som etter utkastet er den forfølgningen retter seg mot, se punkt 9.2. Utvalget foreslår at mistenktes rettigheter og plikter samles og synliggjøres. Uskyldspresumsjonen og selvinkrimineringsvernet er fremhevet særskilt. Utvalget går inn for at selvinkrimineringsvernet kun skal gjelde for fysiske personer og ikke for foretak, se punkt 9.3.5. Videre går utvalget inn for å utvide retten til forsvarer på viktige punkter. Av særlig betydning er rett til forsvarer i politiavhør og når fornærmede har krav på bistandsadvokat, se punkt 9.4.3.2 og 9.4.3.3.
+
+Forsvarerens rolle og oppgaver klargjøres i loven. Lovens rettigheter legges som hovedregel til alle forsvarere. Det skilles ikke mellom offentlig oppnevnt og privat forsvarer i andre tilfeller enn i spørsmålet om godtgjørelse. Utvalget er delt i synet på om ordningen med faste forsvarere bør utvides til å omfatte et større antall advokater enn i dag. Det fremsettes ikke konkrete forslag til regulering av dette.
+
+*Kapittel 10* behandler reguleringen av fornærmede og bistandsadvokatens rolle samt etterlattes og skadelidtes stilling (lovutkastet kapittel 4). Utvalget går inn for å definere «fornærmede», «etterlatte» og «skadelidte» i loven. Som for mistenkte foreslår utvalget at fornærmedes og etterlattes rettigheter samles og synliggjøres. Rettighetene videreføres i all hovedsak som i dag. Utvalget går imidlertid inn for at rettighetene som hovedregel skal gis til alle fornærmede og etterlatte, og ordningen med særrettigheter for «fornærmede med bistandsadvokat» og «etterlatte med bistandsadvokat» videreføres ikke. Det forutsettes likevel at enkelte rettigheter skal utøves av bistandsadvokaten som profesjonell aktør.
+
+Retten til bistandsadvokat utvides til å omfatte saker om personforfølgelse (stalking), ran og grov kroppsskade. Det foreslås at den automatiske retten til bistandsadvokat skal begrenses når bistandsadvokat er unødvendig på grunn av sakens karakter og forhold ved fornærmede. Videre foreslår utvalget at retten skal kunne pålegge flere fornærmede og etterlatte å benytte felles bistandsadvokat. Det åpnes dessuten for en noe utvidet bruk av koordinerende bistandsadvokat. Bistandsadvokatens rolle og oppgaver klargjøres i loven, og som for ordningen med faste forsvarere er utvalget delt i synet på om ordningen bør utvides til å omfatte et større antall advokater enn i dag.
+
+*Kapittel 11* behandler reguleringen av domstolene (lovutkastet kapittel 5). Reglene om dommersammensetning videreføres med enkelte endringer. Utvalget går inn for å begrense muligheten til å sette tingretten med én fagdommer i saker om ikke vedtatte forelegg. Bestemmelsen skal bare gjelde saker hvor det er spørsmål om å idømme bot. Begrensningen i dommerfullmektigkompetansen foreslås videre fjernet, slik at straffesaker kan fordeles etter domstolleders skjønn. I lagmannsretten foreslår utvalget at det skal delta meddommere ved behandlingen av alle straffutmålingsanker. Utvalgets forslag er ellers at normalordningen i lagmannsretten som i dag skal være meddomsrett, med tre fagdommere og fire lekdommere. Det er ikke tatt stilling til sammensetningen for saker som i dag behandles med lagrette, idet utvalgets mandat uttrykkelig angir at spørsmålet skal håndteres i et selvstendig lovarbeid.
+
+*Kapittel 12* inneholder utvalgets alminnelige motiver om rett til innsyn i straffesaker (lovutkastet kapittel 6). Det foreslås et eget kapittel om innsyn i straffesaker og betydelige omstruktureringer i regelverket, dels for å gjøre reguleringen lettere tilgjengelig, dels av hensyn til forutberegnelighet for aktørene og personer som gir opplysninger til politiet. Innholdet i gjeldende bestemmelser og praksis videreføres i det vesentlige. Gjenstanden for innsyn defineres i loven og gis betegnelsen «sakens opplysninger». Utvalget foreslår at retten til innsyn i utgangspunktet skal omfatte alle opplysninger som fremkommer under etterforsking og iretteføring av saken. Det må som etter gjeldende rett trekkes en grense mot opplysninger som ikke omfattes av «saken». Blant annet kodifiserer utkastet gjeldende praksis om at informantopplysninger mv. som utgangspunkt faller utenfor saken og dermed innsynsretten.

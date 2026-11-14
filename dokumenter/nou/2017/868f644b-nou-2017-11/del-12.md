@@ -1,1245 +1,475 @@
-# NOU 2017: 11, del 12 av 26 (side 138–150)
+# NOU 2017: 11, del 12 av 25
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2017/868f644b-nou-2017-11.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2017-11/id2553617/
 - Original-PDF: https://www.regjeringen.no/contentassets/8e638734347b4e93ab97f597a8ac0bc8/no/pdfs/nou201720170011000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 32 tabeller, 55 figurer, 209 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 138]
-
-138
-
-Kapittel 9
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-Ved siden av dette har hvert politidistrikt en
-egen miljøkoordinator som også er kontaktperson
-for dyrevelferdskriminalitet.
-Mattilsynet er tilsynsmyndighet for dyrevelferd og kan gjøre vedtak som grunnlag for endret
-praksis, gi pålegg og utferdige gebyr dersom ikke
-pålegget følges og ilegge tvangsmulkt. Mattilsynet oppnevner også dyrevelferdsnemder.58
-Mattilsyndet har et samarbeid med politiet på
-flere nivå og deltar sammen med politiet i ulike
-kontroller/tilsyn. Økokrim har siden 2014 hatt det
-nasjonale ansvar for politiets arbeid med å
-bekjempe dyrevelferdskriminalitet.
-Arbeidstilsynet involverer stort sett Økokrim i
-større, kompliserte saker, der saken er av prinsipiell betydning på arbeidsmiljøområdet og/eller
-der de er uenige i utfallet av en anmeldelse til
-lokalt politi i en viktig sak for Arbeidstilsynet.
-Økokrim har også tatt initiativ til å utføre felles
-aksjoner, hvor Arbeidstilsynet har vært involvert.
-Økokrim har i noen få tilfeller bistått Arbeidstilsynet med å utarbeide anmeldelser.59
-
-9.7.4 Samarbeid med Kripos
-Økokrim har over tid sett en trend hvor økonomisk kriminalitet utført av organiserte kriminelle
-har kommet i tillegg til den tradisjonelle økonomiske kriminaliteten.
-Samarbeidet med Kripos foregår på strategisk,
-taktisk og operativt nivå og omfatter alt fra samarbeid om utvikling av metode og kompetanse til å
-besvare nasjonale informasjonsbehov gjennom
-utarbeidelse av nasjonale trusselvurderinger,
-temarapporter samt operative tiltak og prosjekter
-på etterretnings- og etterforskningsstadiet. De
-siste par årene har oppmerksomheten særlig vært
-rettet mot arbeidslivskriminalitet og menneskehandel, både på strategisk og taktisk nivå. I den
-åpne etterforskningsfasen har samarbeidet
-bestått i stedlig bistand fra Økokrim med etterforskningsleder og etterforskere.
-Økokrim og Kripos har også hatt felles deltagelse i større prosjekter i politidistriktene, eksempelvis i Lime-saken, hvor Kripos særlig bidro med
-metodebruk opp imot utradisjonelle etterforskningsmetoder, mens Økokrims bistand var rettet
-mot finansiell etterforskning og ledelse av dette
-arbeidet.
-Miljøkrimavdelingen har også samarbeid og
-bistandsutveksling med Kripos. Brann- og kjemiavdelingen ved Kripos bistår Miljøkrimavdelingen
-58
-59
-
-Lov om dyrevelferd 2009 nr. 97.
-E-post fra Økokrim til utvalget 26. januar 2017.
-
-med prøvetaking og enkeltanalyser i ulike saker.
-Miljøkrimavdelingens spesialetterforskere bistår
-både Kripos og politidistriktene i tolkning og vurdering av prøvesvar opp mot gjeldende miljøregelverk og tillatelser.
-Både Økokrim og Kripos samarbeider og drar
-nytte av felles innsats for å øke kompetansen knyttet til hverandres ansvarsområder. Økokrim
-bidrar i stor grad som foredragsholdere i lokale
-og nasjonale etterretningsfora i regi av Politidirektoratet og etatsutdanninger i regi av Politihøgskolen. Målet for foredragene er kompetanseheving
-for norsk politi knyttet til finansielle spor samt
-etterforskning og iretteføring av alle typer profittmotivert kriminalitet.
-Som nasjonalt kontaktpunkt mottar og formidler Enheten for finansiell etterretning (EFE) informasjon knyttet til hvitvasking og terrorfinansiering fra og til andre lands Financial Intelligence
-Units (FIU). Informasjonsutvekslingen foregår
-både på eget initiativ og på vegne av politidistrikt
-og særorgan. På etterretningsnivå er det et godt
-samarbeid mellom Økokrim og Europol-kontoret
-på Kripos knyttet til finansielle spor og forespørsler fra utlandet relatert til organisert kriminalitet.
-Innenfor digitaliseringsområdet mener Økokrim det er gode samarbeidsmuligheter med
-andre særorgan, spesielt Kripos. Lagring er bare
-ett eksempel på områder der samarbeid kan være
-naturlig. Innenfor organisert kriminalitet generelt
-er det også åpenbare synergier som kan utnyttes
-bedre.60
-Kripos på sin side erkjenner at politiet generelt
-er for lite flinke til å utnytte synergier på tvers. På
-den ene siden mener Kripos at Økokrim har vært
-for lite flink til å dele overskuddsinformasjon fra
-sin etterforskning med andre relevante etater,
-herunder Kripos. På andre siden har Kripos vært
-for lite flink til å be om bistand i saker med økonomisk tilsnitt.61
-
-9.8
-
-Utvalgets vurdering
-
-Utvalget mener Økokrim besitter en verdifull og
-nødvendig nasjonal spisskompetanse på økonomisk kriminalitet og miljøkriminalitet som ingen
-av landets tolv politidistrikt kan utfordre. Dette
-inntrykket deles både av landets politimestre og
-av de interessenter utvalget har intervjuet.
-Etter utvalgets vurdering er Økokrim meget
-bevisst sin rolle som nasjonalt kompetansesenter
-60
-61
-
-Samtale med Økokrim-sjefen 23. september 2016.
-Samtale med Kripos 27. september 2016.
-
-[Side 139]
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-og synes å få mye ut av begrensede ressurser.
-Gjennom utvalgets spørreundersøkelse rettet mot
-politietaten får utvalget bekreftet dette inntrykket,
-men mange respondenter uttrykker samtidig
-frustrasjon over Økokrims begrensede ressurser.
-Utvalget ser utfordringen ved at egne saker tar
-mesteparten av ressursene, og at dette gir redusert mulighet til reell bistand og kompetanseoverføring til distriktene.
-Behov for nasjonal spisskompetanse
-Det er utvalgets klare inntrykk at selv med en
-implementert reform ved omlegging fra 27 til tolv
-politidistrikt vil det fortsatt være et tydelig behov
-for nasjonal spisskompetanse innenfor alvorlig
-økonomisk- og finansiell kriminalitet. Det er som
-nevnt også en klar tilbakemelding fra landets politimestere at både kapasitet og kompetanse ikke er
-tilstrekkelig for å dekke dagens behov. Utvalget
-mener det må være en reell forventning om at
-politidistriktene gradvis vil være i stand til å håndtere tyngre saker etter hvert som effekter av politireformen slår inn. Samtidig går utviklingen fortsatt i retning mot mer komplisert og grenseoverskridende kriminalitet med større behov for spesialistkompetanse. Utvalget mener derfor at det
-fortsatt vil være et behov for nasjonal spisskompetanse på nevnte områder.
-Fagansvar
-Utvalget mener det er uheldig at innholdet i fagansvarsrollen for Økokrim ennå ikke er avklart. Det
-er viktig at Økokrim har en tydelig rolle som
-pådriver for fag- og metodeutvikling, og at dette er
-forankret i posisjonen som nasjonalt kompetansesenter innenfor alvorlig økonomisk kriminalitet
-og miljøkriminalitet. Avklaring er nødvendig for å
-styrke fagfeltet gjennom etablering og utvikling av
-felles nasjonale metoder og rutiner på fagområdene.
-Egen etterforskning
-Utvalget har også mottatt spørsmål om nødvendigheten av at Økokrim har egen etterforskning.
-Det blir hevdet at dette kan gå på bekostning av
-kapasitet til bistand på distriktenes egne saker.
-Utvalget minner om at Økokrim ble opprettet nettopp for å være i stand til å håndtere de mest kompliserte sakene, altså ha egen etterforskning ved
-siden av straffeforfølgning. Så langt konstaterer
-utvalget at Økokrim har håndtert dette slik intensjonen har vært; bistanden til politiet har i stor
-
-139
-
-Kapittel 9
-
-grad vært å frita distriktene for de mest komplekse sakene. Spørsmålet knytter seg mer til
-hvordan dette bør organiseres i fremtiden. Som
-det konkluderes med i kapittel 5, mener utvalget
-at selv med mer kompetente politidistrikt bør
-bistandsenhetene ha ansvar for noe egen etterforskning og straffeforfølgning av saker. Dette
-anses som nødvendig for å opprettholde god faglig kompetanse som sikrer fag- og metodeutvikling samt tilrettelegger for nødvendig kompetanseoverføring og kunnskapsdeling med politidistrikt og andre interessenter.
-Samarbeid med kontrolletater
-Flere informanter uttrykker bekymring over at
-Økokrim blir tilført lite midler. Samtidig stiller
-enkelte spørsmål ved om synergier med andre
-kontrolletater, som Skattedirektoratet, Finanstilsynet og Konkurransetilsynet, er tilstrekkelig
-utnyttet. Dette dreier seg blant annet om at nærmest ferdig etterforskede saker blir oversendt
-politidistriktene uten at sakene der blir fulgt opp.
-På bakgrunn av dette reiser flere kontrollorgan
-spørsmål om utvidelse av egen sanksjonsadgang,
-men utvalget bemerker at enkelte kontrollorgan i
-mindre grad bruker tildelte sanksjonsmidler, noe
-som også blir bekreftet i skriftlige tilbakemeldinger til utvalget.
-Utvalget har for øvrig inntrykk av at samarbeidet med kontrolletatene fungerer godt, men registrerer at større bruk av administrative sanksjoner
-kunne avhjulpet Økokrim i sitt sakstilfang. Dette
-gjelder særlig kontrolletatenes egen bevissthet
-om regelverkets handlingsrom, men også om at
-lovgiver vurderer å gi kontrolletatene større fullmakter. Samtidig ser utvalget dilemmaene for
-kontrolletatene, som gjerne ønsker å rendyrke
-forvaltningssporet. Utvalget har ikke gått nærmere inn i dette.
-Utvalget noterer seg også at det synes å være
-en samstemt oppfatning blant kontrolletatene om
-at Økokrim er dyktige, og at de har for lite ressurser. Samtidig mener utvalget at enhver virksomhet må gjøre prioriteringer basert på egen ressurssituasjon. Forventningsgapet kan ha grobunn i manglende forståelse av Økokrims overordnede prioriteringer, noe som også kan være en
-kommunikasjonsutfordring.
-Miljøkriminalitet
-Når det gjelder miljøkriminalitet, har ikke utvalget
-grunnlag for å vurdere Økokrims saksportefølje,
-men registrerer at de fleste av landets politimes-
-
-[Side 140]
-
-140
-
-Kapittel 9
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-tere har gitt tydelig tilbakemelding om at kapasitet og kompetanse på alvorlig miljøkriminalitet i
-politidistriktene er mangelfull og vil forbli mangelfull, slik at det også her fortsatt vil være behov for
-en nasjonal spisskompetanse.
-IKT-kriminalitet
-Utvalget konstaterer at Økokrim har utviklet god
-kompetanse innen IKT, og at dette er nødvendig
-for å ha kompetanse innen organets saksområde.
-Samtidig ser utvalget at det kan bli ytterligere
-bedret koordinering med Kripos på dette området. Økokrim er for eksempel lite involvert i
-datakrimstrategien til Kripos og i arbeidet med
-etablering av et NC3-senter.
-Påtalefunksjon
-Utvalget registrerer at særlig det siste året er det
-reist kritikk mot deler av Økokrims påtaleorganisering. Kritikken er rettet mot at statsadvokatene,
-gjennom å være involvert i saken fra første dag,
-kan bli så engasjert i etterforskningen at de ikke i
-
-tilstrekkelig grad etterlever objektivitetsplikten, i
-motsetning til en to-trinnsvurdering av påtalespørsmålet, som er normalt i andre alvorlige straffesaker. Et særlig eksempel den denne problemstillingen er reist, er i Transocean-saken, som
-gjaldt flere skattemessige disposisjoner foretatt
-blant annet i forbindelse med konserninternt salg
-av oljerigger, overføringer av utbytte, avgitte konsernbidrag, skattemessig migrasjon og flere regnskapsovertredelser. Utvalget vurderer dette nærmere i kapittel 15. Granskingsrapporten er ikke
-ferdigstilt.
-Kompetanse
-Som nasjonalt kompetansesenter er Økokrim sentral for kunnskapsdeling og oppbygging av kompetanse i økoteamene i politidistriktene. Dette
-innebærer at Økokrim bør vedlikeholde og styrke
-sin spisskompetanse kontinuerlig for å bidra
-effektivt til en god kompetanseflyt med politidistriktene.
-
-[Side 141]
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-141
-
-Kapittel 10
-
-Kapittel 10
-
-Utrykningspolitiet
-10.1 Generelt
-Utrykningspolitiet (UP) er et sentralt ledet trafikkpoliti, organisert som et særorgan direkte
-underlagt Politidirektoratet (POD).
-Gjennom målrettet kontroll og overvåking av
-landets hovedferdselsårer skal UP forebygge lovovertredelser i trafikken og bidra til å redusere
-trafikkulykker og antall hardt skadde og drepte i
-trafikken. I tillegg skal enheten være en bistandsog beredskapsressurs for politidistriktene, og yte
-annen bistand til politidistriktene etter avtale med
-Politidirektoratet.
-Instruks for UP er gitt ved kongelig resolusjon
-av 1. september 1989.
-
-10.2 Oppgaver og ansvar
-UP har tre hovedoppgaver:
-– trafikksikkerhetsarbeid
-– kriminalitetsbekjempelse på vei
-– bistand og beredskap
-Hovedvekten ligger på trafikksikkerhetsarbeid,
-men gjennom kontrollvirksomheten avdekker UP
-også andre kriminelle forhold. Trafikksikkerhet
-og generell kriminalitetsbekjempelse er derfor en
-integrert del av særorganets arbeid.
-UP foretar pågripelser og beslag gjennom sin
-kontrollvirksomhet, men har ikke etterforsknings- og påtalekompetanse. Videre etterforskning og påtale må foretas av det lokale politidistrikt. UP overtok 1.1.2017 det administrative og
-faglige ansvaret for politiets ATK-senter1 i Møre
-og Romsdal og i forbindelse med overtakelsen ble
-UP gitt begrenset påtalemyndighet i ATK-saker.
-UP er også nasjonalt kompetansesenter for
-politiets trafikktjeneste, med særskilt nasjonalt
-ansvar for opplæring-, fag-, teknologi- og metodeutvikling.
-1
-
-ATK=Automatisk trafikkontroll. ATK-senteret ligger på
-Hustad i Møre og Romsdal.
-
-UP har et spesielt ansvar for fag- og metodeutvikling innenfor politiets trafikksikkerhetsarbeid.
-I tillegg har UP et fagansvar inn mot det etablerte
-påtalenettverket innenfor samme arbeidsområde.
-UP gjennomfører kursing og godkjenning av
-instruktører og operatører for trafikkteknisk
-utstyr og kontrollinstrumenter. I tillegg leverer
-UP analyserapporter og statistikk for trafikkområdet.
-UP har også en viktig rolle – delegert fra Politidirektoratet – i ulike internasjonale fagnettverk
-innenfor politiets trafikksikkerhetsarbeid.
-
-10.2.1 Historie
-UPs opprinnelse er knyttet til overgangen fra
-kommunalt til statlig politi.2 UP ble opprettet i
-1937 som et spesialpoliti med nærmere definerte
-nasjonale oppgaver. Før krigen hadde UP kun
-ordensoppgaver og ble lite brukt, men etter andre
-verdenskrig ble de reorganisert og inndelt i en
-ordensstyrke og en etterforskningsstyrke, som en
-forløper til Kriminalpolitisentralen (senere
-Kripos). UPs virksomhet var i stor grad basert på
-øvelser og utrykning til oppdrag etter behov. Som
-bistandsenhet ble imidlertid UP lite brukt. Utover
-1950-årene ble UPs oppgaver færre, og organisasjonen ble ikke tilpasset nye behov. Dette utløste
-den første av flere debatter om å nedlegge UP.
-Som følge av sterk vekst i antall kjøretøy på
-veiene gjennom 1950-tallet ble det i flere europeiske land etablert egne trafikkpolitikorps. Dette
-var et område som krevde stadig større politiinnsats. I Norge førte trafikkveksten, samt en økning
-i antall alvorlige trafikkulykker og drepte i trafikken, til at UP i 1962 ble gitt ansvar for trafikksikkerhet som nasjonal hovedoppgave. I tillegg
-skulle UP ved behov fortsatt bidra med personell
-og materiell for å løse andre politioppgaver enn
-2
-
-Med den nye politiloven som trådte i kraft i 1937, ble det
-kommunale ansvaret for politietaten underlagt Justisdepartementet og enhets- eller rikspolitiet i Norge ble dermed
-etablert.
-
-[Side 142]
-
-142
-
-NOU 2017: 11
-
-Kapittel 10
-
-–
-–
-–
-–
-–
-–
-–
-–
-–
-–
-–
-
-Bedre bistand. Bedre beredskap
-
-Boks 10.1 Andre nasjonale
-oppgaver for UP:
-administrativt ansvar for Politireserven
-som i dag består av ca. 700 personer
-kontroll- og forvaltningsansvar for politiets
-rusinnsats (nasjonal kontrollenhet)
-forvaltningsansvar for politiets ANPR-bruk
-(automatisk nummergjenkjenning)
-instruksjonsmyndighet for målemetoder
-for hastighetslovbrudd
-koordinerer nasjonalt påtalenettverk i trafikkfaget
-deltar i arbeidet med anskaffelser av nytt
-trafikkteknisk utstyr for politiet
-deltar i Kontaktutvalget for trafikksikkerhet (KTS)
-utarbeider årlig trusselvurdering / tilstandsbeskrivelse på vei
-utarbeider årlig (fag)temahefter som styrker og deler kunnskap om polititjeneste på
-vei
-Deltar i og understøtter forskningsprosjekter for Folkehelseinstituttet, TØI, Statens
-vegvesen o.a.
-Administrativt og faglig ansvar for Politiets
-ATK-senter (fra 1. januar 2017)
-
-trafikktjeneste, blant annet grensekontroll og sikrings- og vakttjeneste. På 1960-tallet ble politiressursene på landeveien hovedsakelig brukt til teknisk kontroll, men utover 1970-tallet ble innsatsen
-dreid mot mer kontroll av kjøreatferd.
-UPs historie har vært preget av en politisk
-debatt med særlig vekt på ressursfordeling mellom UP og politietaten for øvrig. Som følge av politisk debatt om hvorvidt satsing på trafikksikkerhetsarbeid skal skje i UP eller politidistriktene har
-UP gjentatte ganger vært foreslått nedlagt. Både i
-forbindelse med etableringen av landsdelsordningen for politiet: 1985–1986 og i NOU 1999: 10 En
-bedre organisert politi- og lensmannsetat, ble UP
-foreslått nedlagt og ressursene foreslått tildelt
-politidistriktene. Senest i 2002/2003 ble det gjennomført en utredning (Kleverud-utvalget)3 om
-UPs ansvar og oppgaver. Utredningen som ble
-gjort på bakgrunn av at Politidistriktsutvalget
-foreslo at 30 stillingshjemler i UP ble integrert i
-Politidirektoratet, og at innbeordrede tjenes-
-
-temenn ble tilbakeført til politidistriktene.4 Kleverud-utvalget konkludert med at det var behov for
-å opprettholde et særorgan med spesielt ansvar
-for trafikksikkerhet.
-UP har etter hvert utviklet seg fra et rent trafikkpoliti til en polititjeneste på vei, med vekt på
-trafikksikkerhetsinnsats, generell kriminalitetsbekjempelse, samt bistand og beredskap til politidistriktene. Politidirektoratet har de seneste årene
-også benyttet UP som politiets egen forsterkningsressurs når politidistriktene har hatt behov
-for støtte. UP er en mobil styrke, der innbeordrede mannskaper har personlig utstyr og disponerer egne kjøretøy, noe som gjør UP-ressursene
-lett gripbare ved hendelser som krever større ressurser enn det politidistriktene besitter.
-Alle UP-mannskaper er godkjent for våpenbruk (IP4 og noen få IP3) og har tilgang til våpen
-når tjenesten tilsier det og etter ordre.
-I politiets innbyggerundersøkelse fremgår det
-at trafikkfarlige hendelser både er det befolkningen er mest bekymret for og det de har best inntrykk av politiets evne til å håndtere.5
-
-10.3 Trafikksikkerhetsarbeidet i Norge
-Trafikksikkerhetsarbeidet er basert på langsiktig, kunnskapsbasert og målrettet innsats som
-involverer et bredt samarbeid mellom offentlige
-myndigheter og private aktører. Dette, kombinert
-med blant annet betydelig mer trafikksikre biler
-og bedre veinett, har medført at antall trafikkdrepte aldri har vært så lavt, og Norge er verdensledende innen trafikksikkerhet.6 I 2015 hadde
-ingen land lavere risiko for å omkomme i veitrafikken målt i drepte per million innbyggere. Resultatutviklingen for perioden 2001–2015 medførte
-også at Norge i 2016 ble tildelt den prestisjefylte
-prisen Road Safety PIN Award fra den uavhengige
-trafikksikkerhetsorganisasjonen European Traffic
-Safety Council (ETSC).
-Siden 1970 har antall drepte i trafikken blitt
-redusert med nesten 80 prosent, fra 560 til 117 i
-20157, til tross for mer enn en tredobling av kjøretøyparken. Andelen drepte og hardt skadde innenfor tettbebygd strøk ble redusert fra om lag 35
-prosent på begynnelsen av 1990-tallet til rundt 20
-4
-5
-6
-
-3
-
-Politidirektoratet (2003): Rapport om særorganenes fremtidige rolle og organisering.
-
-7
-
-NOU 1999: 10 En bedre organisert politi- og lensmannsetat
-kap. 5 s. 79.
-Politidirektoratet (2017), Innbyggerundersøkelsen 2016.
-Meld. St. 40 (2015–2016) Trafikksikkerhetsarbeidet – samordning og organisering.
-Foreløpige tall på drepte i trafikken økte til 135 i 2016.
-
-[Side 143]
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-143
-
-Kapittel 10
-
-Boks 10.2 Noen sentrale utviklingstrekk i UPs historie:
-1986 UP blir først vedtatt avviklet av regjeringen
-1937 Opprettet som spesialpoliti med nærmere
-Willoch, og det ble bestemt at de adminisdefinerte oppgaver. UP ble inndelt i åtte
-trative og operative trafikkoppgavene skal
-regionale avdelinger og politidistriktene
-bli lagt til politidistriktene. Ved Brundtlandmåtte avgi til sammen 120 mann.
-regjeringen overtakelse senere samme år
-1947 Reorganiseres med en ordensstyrke på
-blir beslutningen reversert.
-139 mann og en etterforskningsstyrke på
-1992 Får nasjonalt ansvar for å kontrollere
-16 mann. Blir gitt ansvar for å drive trafiktunge kjøretøy: kjøre- og hviletid, lastesikkontroller som del av ordensoppdraget.
-ring og frakt av eksplosiv gods.
-1958 Gradvis reduksjon i oppgaver gjør at også
-2004 UPs hovedkvarter flyttes fra Oslo til StaUP-øvelsene blir avviklet. Hovedoppgaven
-vern.
-er trafikkontroll på riksveiene på Østlandet
-UP endrer strategi fra trafikkpoliti til politii sommermånedene, med seks tjenestjeneste på vei, ved å forsterke kriminalitemenn på veiene. Dette markerer overtetsbekjempelse på vei og bistandsrollen.
-gangen til et særskilt trafikkpoliti.
-2007–UP tar, som første politienhet, i bruk
-1962 UP blir etablert med trafikkontrolltjeneste
-2009 online tilgang til politisystemene fra kjøreåret rundt. Det blir innbeordret sju tjenestøyene og introduserer etter hvert numtemenn i vinterhalvåret og 16 tjenesmergjenkjenningsutstyr (ANPR).
-temenn i sommerhalvåret
-2010 UP tildeles over statsbudsjettet ti faste tje1970 Som følge av sterk vekst i antall skadde og
-nestemenn for å styrke bekjempelsen av
-drepte i trafikken blir UPs mannskap økt
-kriminelle på veien.
-til 24 tjenestemenn i vinterhalvåret og 56 i
-2016 UP foretar omdisponering av personellressommerhalvåret. Dette blir senere økt til
-surser fra østlandet til vest-, midt- og nord
-henholdsvis 32 tjenestemenn i vinterhalvåNorge.
-ret og 72 i sommerhalvåret.
-2017 UP foretar strukturelle endringer og redu1977 Personellstyrken utvides til 152 innbeorserer antall UP-distrikter fra ni til fem.
-drede stillinger på helårsbasis. I tillegg blir
-UP tilført 40 tjenestemenn i sommerhalvåret.
-
-prosent i perioden 2000–2012. Fra 2012 har imidlertid andelen drepte og hardt skadde innenfor
-tettbygde strøk økt, hovedsakelig i form av ulykker som involverer syklister og fotgjengere.8
-Det totale antallet skadde i veitrafikken har
-holdt seg relativt stabilt de siste tiårene, på mellom 10 000 og 12 000 årlig, men siden 2008 har
-også dette antallet blitt redusert. I 2015 var tallet
-5 687.9 Antall hardt skadde har ligget stabilt på
-rundt 700 personer årlig i perioden 2011–2016.
-Trafikkulykker er et betydelig samfunnsproblem, med store menneskelige lidelser og betydelige samfunnsøkonomiske kostnader. Transportøkonomisk institutt (TØI) beregnet at veitrafikkulykkene i 2009 medførte samfunnsøkonomiske
-kostnader på ca. 30 millioner kroner per dødsfall,
-ca. 10,5 millioner kroner per hardt skadde og
-8
-9
-
-Meld. St. 40 (2015–2016) Trafikksikkerhetsarbeidet – samordning og organisering.
-SSB – Veitrafikkulykker med personskade 2015.
-
-614 000 kroner per lettere skadd person.10 Trafikksikkerhet er dermed en viktig investering.
-Regjeringens hovedmål med transportpolitikken er en nullvisjon, det skal ikke forekomme
-ulykker med drepte eller hardt skadde i transportsektoren. Denne nullvisjonen ligger til grunn for
-alt trafikksikkerhetsarbeid i Norge.11 Trafikksikkerhet har derfor en sentral plass i utarbeidelse
-og behandling av nasjonal transportplan, og i
-utøvelsen av en samlet vei- og trafikkpolitikk.
-Det nasjonale trafikksikkerhetsarbeidet hviler
-på et tverrsektorielt samarbeid mellom myndigheter og sivilsamfunn og er konkretisert i Nasjonal tiltaksplan for trafikksikkerhet på vei 2014–
-2017.
-Tiltaksplanen er basert på fire nivåer:
-– Nullvisjonen. Omhandler mål om et transportsystem der ingen blir drept eller hardt skadd,
-10
-11
-
-TØI-rapport 1053C/2010, sammendrag.
-Ibid. s. 8.
-
-[Side 144]
-
-144
-
-NOU 2017: 11
-
-Kapittel 10
-
-–
-
-–
-–
-
-Bedre bistand. Bedre beredskap
-
-og er grunnlaget for alt trafikksikkerhetsarbeid i Norge
-Etappemål. Det skal ikke være flere enn 500
-drepte og hardt skadde i veitrafikken i 2024.
-Målet inngår i Nasjonal transportplan 2014–
-2023.
-Tilstandsmål for kjøretøyparken, veinettet og
-trafikkatferd
-Tiltak som forventes gjennomført i perioden.
-
-Trafikksikkerhetsarbeid fordrer en bred tilnærming, og i de nasjonale transportplanene har det
-vært lagt til grunn et bredt spekter av virkemidler.
-Foruten politiets kontroller, inngår tiltak knyttet
-til veistandard og infrastruktur, trafikkregulering,
-føreropplæring, kjøretøyteknologi, automatiske
-trafikkontroller, holdningskampanjer og sanksjoner.
-
-10.3.1 Politiets trafikksikkerhetsarbeid
-Det overordnede nasjonale ansvaret for trafikksikkerhet er lagt til Samferdselsdepartementet, men
-det er tett samarbeid mellom flere etater på området, særlig gjennom Kontaktutvalget for trafikksikkerhet (KTS): Justis- og beredskapsdepartementet, Vegdirektoratet (herunder Statens Vegvesen), Politidirektoratet, Utrykningspolitiet, Helsedirektoratet, Trygg trafikk og Statens havarikommisjon for transport.
-Politidirektoratets strategi for polititjeneste på
-veg (2016–2019) fastslår at trafikksikkerhet er en
-av politiets hovedoppgaver. Dette innebærer at
-politidistriktene og UP er pålagt å utarbeide en
-plan for trafikksikkerhetsarbeidet innenfor rammen av årlig virksomhetsplan.
-Politiets innsats følger to hovedspor. Det første
-sporet omfatter generell forebyggende innsats
-gjennom synlig tilstedeværelse, kontroll og overvåkning på veiene for å styrke den subjektive oppdagelsesrisikoen. Dette bygger på antakelsen om
-at dersom risikoen for å bli kontrollert og avdekket øker, vil sannsynligheten for at den enkelte
-foretar lovstridige handlinger på vei reduseres. I
-neste omgang vil dette redusere antall alvorlige
-trafikkulykker.
-Det andre sporet omfatter politiets faktiske
-evne til å avdekke lovbrudd på veien, sikre bevis
-og gjennomføre etterforskning og straffeforfølgelse.12 Dette arbeidet er støttet i påtalesporet
-gjennom Riksadvokatens mål- og prioriteringsrundskriv nr. 1/2016 som utpeker alvorlige tra-
-
-fikklovbrudd som en av seks prioriterte sakstyper.
-Det fremgår her at dersom straffen skal ha ønsket
-individualpreventiv virkning, er det en forutsetning at politiets straffesaksarbeid er effektivt og
-holder høy kvalitet, og at det går kort tid mellom
-lovbrudd og reaksjon. Det overordnede ansvaret
-for straffesaksbehandlingen ligger hos Riksadvokaten.
-Selv om UP har nasjonalt ansvar for politiets
-trafikksikkerhetsarbeid, er påtalekompetansen
-lagt til politidistriktene. I flere år har det imidlertid blitt stilt spørsmål fra flere hold om politidistriktenes prioritering av slike saker. På oppdrag
-fra Riksadvokaten leverte UP 11. desember 2015
-en analyse av politiets etterforskning og straffesaksbehandling av alvorlige trafikkulykker. Rapporten konkluderte med at politiets etterforskning ofte var mangelfull og var av dårlig kvalitet.13
-Det er forventninger til at nærpolitireformen
-vil bidra til å styrke politiets etterforskning og
-straffeforfølgelse, blant annet gjennom Etterforskningsløftet.14 Handlingsplanen for løft av etterforskningsfeltet innebærer blant annet et styrket
-utdanningstilbud, nasjonale standarder for god
-fagledelse, samt nye arbeidsformer og metodebruk. I tillegg utvikles arbeidsformen «mer politiarbeid på stedet». Dette vil ventelig også gjelde
-trafikksaker.
-Flere politiledere, samt Vegvesenet og Trygg
-trafikk har i samtaler med utvalget gitt uttrykk for
-at politidistriktene må heve kvaliteten på etterforsking og straffeforfølgelse av alvorlige trafikksaker. De fremhever på den ene siden at politiet er
-en svært viktig aktør i trafikksikkerhetsarbeidet,
-men at politidistriktene generelt ikke prioriterer
-trafikksikkerhetsarbeid. Som eksempel opplyser
-Vegvesenet at ved overlevering av potensielt store
-saker er politiet ofte tilbakeholdne fordi de er
-redd for merarbeidet etterforskningen medfører.
-Flere ganger har Vegvesenet opplevd at selv nærmest ferdig etterforskede saker blir avvist eller
-henlagt. UPs nasjonale innsats blir derfor fremhevet som særskilt viktig.15
-UP har som nevnt ikke egen påtalekompetanse. I brev til UP datert 7.12.2016 fra Riksadvokaten ble påtalespørsmålet berørt. Riksadvokaten
-var her enig med UP i at det var behov for en
-begrenset påtalemyndighet for de politijuristene
-13
-14
-
-12
-
-Politidirektoratets strategi for polititjeneste på veg (2016–
-2019).
-
-15
-
-Riksadvokatens publikasjoner nr. 4/2015: Analyse av dødsulykker og straffesaksbehandlingen i trafikksaker.
-Politidirektoratet (2016) Handlingsplan for løft av etterforskningsfeltet.
-Møte med Statens Vegvesen 3. november 2016.
-
-[Side 145]
-
-145
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-Kapittel 10
-
-1400
-1200
-1000
-800
-600
-400
-200
-0
-2001
-
-2002
-
-2003
-
-2004
-
-2005
-
-2006
-
-2007
-
-2008
-
-Drepte
-
-2009
-
-2010
-
-2011
-
-2012
-
-2013
-
-2014
-
-2015
-
-Hardt skadde
-
-Figur 10.1 Antall drepte og hardt skadde i vegtrafikken i Norge 2001–2015
-Kilde: SSB
-
-som jobbet ved ATK-senteret i Møre og Romsdal,
-og disse ble gitt slik myndighet gjennom stillingsinstruks.
-I forbindelse med overføringen av ATK-senteret til UP fra 1. januar 2017 har spørsmålet om
-ytterligere påtalemyndighet til UP vært drøftet
-uformelt med Riksadvokatembetet. Riksadvokatens holdning har vært at det på et tidspunkt hvor
-særorganene fortsatt er under utredning uansett
-ikke er tilrådelig å gjøre noen nærmere vurderinger av dette spørsmålet.
-I utvalgets spørreundersøkelse rettet mot
-ansatte i politietaten var det imidlertid delte
-meninger om dette. Spørsmålet ble kun stilt til
-politiansatte som har eller har hatt tilknytning til
-UP. Blant de 135 respondentene (av totalt 1919
-deltakere i undersøkelsen) svarte nesten 43 prosent at de var «enig» eller «helt enig» i at UP bør
-ha påtalekompetanse, mens 25,4 prosent var
-«uenig» eller «helt uenig» og 11,2 prosent svarte
-«vet ikke».
-
-10.3.2 Ulykkesutvikling
-Det samlede trafikksikkerhetsarbeidet i Norge
-har bidratt til nesten 50 prosent reduksjon i antall
-drepte og hardt skadde de siste 15 årene. Risikoen
-er sterkt redusert for alle trafikantgrupper, og
-mest for barn under 16 år.
-Nullvisjonen innebærer at tiltakene hovedsakelig er rettet mot de mest alvorlige ulykkestypene; møteulykker, utforkjøringer og påkjørsel av
-gående og syklende. Disse ulykkestypene
-
-utgjorde i perioden 2011–2015 nær 83 prosent av
-dødsulykkene og 71 prosent av de hardt skadde.16
-Samlet ulykkesstatistikk for 2001–2015 er gitt
-i figur 10.1. Den viser størst nedgang i antall
-drepte, men også merkbar nedgang i antall hardt
-skadde. I denne perioden har nedgangen for alle
-kategoriene vært på mellom 30 og 40 prosent.
-For å forstå resultatutviklingen er det nødvendig å undersøke ulykkesårsakene nærmere. Det
-vil gi en bedre forståelse for at arbeidet med trafikksikkerhet i Norge er sammensatt, og viser
-samtidig hvor vanskelig det kan være å skille ut
-enkeltaktørers effekt på det samlede resultatet.
-Nullvisjonen forklarer ulykker i et systemperspektiv der trafikksikkerhet er uttrykk for tilpasning og samspill mellom trafikant, kjøretøy og vei.
-Hvert samspillselement inneholder mange ulykkesfaktorer og en ulykke er et resultat av at minst
-en av faktorene inntreffer. Trafikksikkerhetstiltak
-har som mål å redusere disse risikofaktorene.
-Statens vegvesen har analysert alle dødsulykker på vei siden 2005 og konkluderer med at
-årsaksbildet er svært sammensatt. I de fleste tilfellene har trafikantens atferd vært medvirkende
-årsak eller bidratt til ulykkens skadeomfang, særlig når det gjelde dødsulykkene.17 Tabell 10.1
-illustrerer funnene.
-Tabellen viser at det er en rekke samvirkende
-faktorer, og få ulykker har bare èn årsak.
-16
-17
-
-SSB (2017) – Statistikk.
-Meld. St. 40 (2015–2016), s. 16.
-
-[Side 146]
-
-146
-
-NOU 2017: 11
-
-Kapittel 10
-
-Bedre bistand. Bedre beredskap
-
-Tabell 10.1 Sannsynlige medvirkende faktorer til dødsulykker i Norge i perioden 2005–2015
-Andel av alle dødsulykker
-Gjennomsnitt 2005–2015
-
-Medvirkende faktorer
-
-Faktorer knyttet til trafikantene
-- Manglende førerdyktighet1
-
-54 %
-
-- Høy fart etter forholdene/godt over fartsgrensen
-
-40 %
-
-- Ruspåvirkning2
-
-21 %
-
-- Tretthet/avsovning
-
-14 %
-
-- Sykdom
-
-14 %
-
-- Mistanke om selvmord
-
-6%
-
-Faktorer knyttet til vei og veimiljø
-
-27 %
-
-Faktorer knyttet til involverte kjøretøy
-
-23 %
-
-Faktorer knyttet til vær- og føreforhold
-
-15 %
-
-1
-
-Omfatter ulykker som skyldes manglende teknisk kjøretøybehandling og informasjonsinnhenting, feil beslutninger av føreren,
-hasardiøs kjøring og manglende kjøreerfaring.
-2 Minimumstall fordi en stor andel trafikkdrepte ikke blir undersøkt for ruspåvirkning.
-Kilde: Dybdeanalyser av dødsulykker i veitrafikken 2015. Statens vegvesens rapporter Nr.636.
-
-I tilstandsundersøkelser utført av Statens vegvesen fremgår det at rundt 95 prosent av alle bilister bruker bilbelte, men i perioden 2005–2014
-viste det seg likevel at 41 prosent av de drepte
-ikke hadde brukt bilbelte.
-Når det gjelder høy fart som medvirkende
-årsak til dødsulykker var andelen i 2015 på 34 prosent. I årsrapporten fra UP for 2016 blir det opplyst at det er en økning i antall grove fartsovertredelser på 12 prosent fra 2015 til 2016.18
-Som tabellen viser, er det et bredt årsakbilde
-som ligger bak ulykkesstatistikken. Det er også
-åpenbart at politiets generelle kontrollvirksomhet
-samt UPs målrettede innsats kan ha stor betydning for å redusere flere av faktorene.19 Samtidig
-er det klart at flere utenforliggende faktorer også
-påvirker dette bildet. Eksempelvis er manglende
-førerdyktighet den viktigste faktoren, og god kjøreopplæring samt holdningsskapende arbeid for å
-påvirke kjøreatferd, særlig mot unge (mannlige)
-sjåfører, fremhevet som viktige tiltak.20 Her er UP
-en av flere viktige aktører, ved siden av blant
-annet trafikkskoler og interessegrupper.
-Fartsoverskridelser og ruspåvirket kjøring er
-nok faktorene der UP, og politiet generelt, har
-18
-
-Tall for 2016 blir ikke offentlige før sommeren 2017.
-Transportøkonomisk institutt rapport 19376/2013 «Sterk
-satsing på politikontroller kan bidra til halverte dødstall»
-20
-Ibid.
-
-best forutsetninger for å redusere ulykkesutviklingen. Tiltaket er atferdskontroller og å være synlig i trafikkbildet. Økende bruk av automatisk trafikkontroll (ATK) og andre digitale verktøy har de
-siste årene effektivisert dette arbeidet.
-Tretthet, avsovning og sykdom er også faktorer som til en viss grad kan bli avdekket gjennom
-politikontroller, men årsaksbildet krever helt
-andre tiltak. Eksempelvis er det årlig flere ulykker
-som involverer yrkessjåfører, og blant disse ulykkene forekommer ofte kombinasjonen utenlandsk
-sjåfør og brudd på hviletidsbestemmelsene. Dette
-er dermed ikke bare et trafikkproblem, det reiser
-også spørsmål om arbeidsmiljøbestemmelser. I tillegg kan det være medvirkende faktorer knyttet
-til kjøretøy og veistandard. Statens havarikommisjon for transport peker her på behov for regelverksendringer, både nasjonalt og internasjonalt,
-samt behov for sterkere forebyggende innsats fra
-private transportaktører.21
-Flere interessenter utvalget har snakket med
-mener at politiets kontrollarbeid vil være viktig så
-lenge vi har førere i kjøretøyet og deres atferd
-påvirker antall ulykker. Vegvesenet påpeker her at
-40 prosent av dødsulykkene har fart som hovedårsak, og rus er medvirkende årsak i rundt 20 prosent av dødsulykkene, men i flere ulykker er
-
-19
-
-21
-
-Meld. St. 40 (2015–2016) Trafikksikkerhetsarbeidet – samordning og organisering, s. 17–18.
-
-[Side 147]
-
-147
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-Kapittel 10
-
-450
-400
-350
-300
-250
-200
-150
-100
-50
-0
-2008
-
-2009
-
-2010
-Norge
-
-2011
-
-2012
-
-Sverige
-
-2013
-Danmark
-
-2014
-
-2015
-
-2016
-
-Finland
-
-Figur 10.2 Antall dødsulykker i Norge, Danmark, Sverige 2008–2015, og Finland i perioden 2008–2016
-
-Tabell 10.2 Antall skadde og drepte i trafikken i Finland 2010–2016
-
-Hele landet – Totalt
-Döda
-Skadade (inkl. allvarligt skadade)
-
-2010
-
-2011
-
-2012
-
-2013
-
-2014
-
-2015
-
-2016
-
-7 945
-
-8 223
-
-7 343
-
-6 939
-
-6 934
-
-6 678
-
-6 127
-
-272
-
-292
-
-255
-
-258
-
-229
-
-270
-
-240
-
-7 673
-
-7 931
-
-7 088
-
-6 681
-
-6 705
-
-6 408
-
-5 887
-
-Kilde: Polisen Finland
-
-begge faktorene sammenfallende. I tillegg kommer andre forstyrrende elementer som bruk av
-mobiltelefon. Selv integrerte tekniske løsninger
-kan være forstyrrende fordi selve kommunikasjonen kan distrahere føreren.22
-Stortingsmeldingen om trafikksikkerhet fra
-2016 gjør ingen vurdering av de enkelte aktørenes
-bidrag til den samlede resultatutviklingen i trafikksikkerhetsarbeidet.23 Blant politilederne blir
-det heller ikke gjort forsøk på å kvantifisere
-enkeltaktørers effekt.
-Som vist i figur 10.2 er den positive ulykkesutviklingen i Norge parallell med utviklingen i de
-øvrige nordiske landene, til tross for vesentlige
-forskjeller i polititilnærmingen. Sammenligningen gir riktignok ikke et riktig bilde av trafikkutfordringene ettersom antallet trafikanter er svært
-22
-
-Samtale med utvalget 3. november 2016. Trygg trafikk
-poengterte det samme i samtale 16. november 2016.
-23
-Meld. St. 40 (2015–2016) Trafikksikkerhetsarbeidet – samordning og organisering s. 17–18.
-
-forskjellig, og andre særskilte forhold kan ha
-betydning. Det kan imidlertid si noe om
-utviklingstendenser.
-Tallene i figur 10.2 er innhentet fra de respektive landenes sentrale politimyndigheter. For alle
-landene er det en nedadgående trend både i antall
-ulykker, og antall dødsulykker, med størst nedgang for Norge og Danmark. Målt i antall drepte
-per en million innbyggere i 2015 er Norge (23)
-likevel klart best, foran Sverige (28), Danmark
-(30) og Finland (48).
-Det er interessant at ingen av de øvrige nordiske landene har et nasjonalt trafikkpoliti. Finland valgte i 2014 å legge ned sitt utrykningspoliti,
-Den rörliga polisen, og overførte ressursene til
-politidistriktene. En flerårig nedgang i antall
-skadde og drepte i trafikken har likevel fortsatt, jf.
-tabell 10.2.
-Danmark har også omorganisert den nasjonale trafikkpolitiinnsatsen de siste årene. De har
-fordelt ansvaret mellom to politidistrikt, ett på Jylland og ett på Sjælland, i tillegg til flere enheter for
-
-[Side 148]
-
-148
-
-NOU 2017: 11
-
-Kapittel 10
-
-Bedre bistand. Bedre beredskap
-
-10 000
-9 000
-8 000
-7 000
-6 000
-5 000
-4 000
-3 000
-2 000
-1 000
-0
-
-2008
-
-2009
-
-2010
-
-2011
-
-2012
-
-Drepte
-
-Alvorlig skadde
-
-2013
-
-2014
-
-2015
-
-2014
-
-2015
-
-Lettere skadde
-
-Figur 10.3 Antall skadde og drepte i veitrafikken Danmark i perioden 2001–20151
-1
-
-Politiområdet Danmark – e-post 21. mars 2017
-
-30000
-
-25000
-
-20000
-
-15000
-
-10000
-
-5000
-
-0
-2008
-
-2009
-
-2010
-Drepte
-
-2011
-
-2012
-
-Alvorlig skadde
-
-2013
-
-Lettere skadde
-
-Figur 10.4 Antall skadde og drepte veitrafikken Sverige i perioden 2008–2015
-1
-
-Politimyndigheten Sverige – e-post 28. mars 2017
-
-tungtransportoppfølging. Resultatutviklingen følger i figur 10.3.
-Et interessant trekk ved den danske utviklingen er at antall drepte i trafikken er halvert de
-siste årene, fra toppårene i 2007 og 2008 med 406
-drepte til 178 drepte i 2015. Samtidig har det siden
-2011 vært en større andel alvorlig skadde enn lettere skadde i trafikken i Danmark.24
-I Sverige er ansvar for politiets trafikksikkerhetsarbeid gitt det enkelte politidistrikt. Sverige
-
-har likevel også opplevd sterk nedgang i antall
-skadde og drepte i trafikken de seneste årene, jf.
-figur 10.4.
-Tallene og statistikken er isolert sett utilstrekkelig som argument for hvilken organisasjons24
-
-Definisjon på «alvorlig skadd» er forskjellig i Danmark og
-Norge. Omorganisering av politiet i 2007 i Danmark kan
-også ha innvirket på rapporteringsgrad av ulykker.
-Se for øvrig: http://www.politiforum.no/Omorganisering+tvinger+dansk+trafikkpoliti+av+veien.d25-T2lzK0x.ips.
-
-[Side 149]
-
-149
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-form som er best egnet for det nasjonale trafikksikkerhetsarbeidet. Det er likevel viktig å være
-oppmerksom på at uavhengig av hvilke politiske,
-kulturelle eller andre årsaker som ligger til grunn
-for de organisatoriske forskjellene, har alle sammenfalt med en positiv ulykkesutvikling.
-
-Kapittel 10
-
-10,5 %
-
-9,0 %
-
-3,6 %
-
-10.3.3 Effekten av trafikksikkerhetstiltak
-Transportøkonomisk institutt (TØI) har i tiltaksanalyser vurdert effekten av ulike trafikksikkerhetstiltak. I tiltaksanalysen for 2015 fremgår
-det at en tidobling av fartskontrollene kan redusere antall drepte og hardt skadde med henholdsvis syv og seks prosent.25 En tidobling av promillekontroller er beregnet å redusere antall drepte
-og hardt skadde med henholdsvis ni og tre prosent. TØI anslår på denne bakgrunn at det er samfunnsøkonomisk lønnsomt å øke politiets fartskontroller inntil 3,5 ganger dagens nivå.26
-Det har vært en synkende andel av fartsovertredelser som oppdages ved kontroller utført av
-polititjenestemenn.27 Automatisk trafikkontroll er
-et effektivt trafikksikkerhetstiltak på vegstrekningene de dekker, og TØI har beregnet at tiltaket
-kan redusere antall drepte i veitrafikken med 50
-prosent og antall hardt skadde med 45 prosent.28
-Omfanget av ATK-punkter er imidlertid begrenset. I 2013 var det installert 343 ATK-punkter, som
-til sammen dekket kun 2,9 prosent av trafikkarbeidet.29 Altså foregikk 97,1 prosent av trafikken på
-strekninger hvor politiet eller Statens vegvesen
-var eneste kilde til oppdagelsesrisiko.30 Det forventes at flere automatiske trafikkontroller installeres i årene fremover, og regjeringen har i nasjonal transportplan varslet at de vil etablere ATK på
-flere veistrekninger. ATK ved punktmåling og
-strekningsmåling antas også å kunne erstatte politiets fartskontroller på veistrekningene hvor disse
-er installert.
-25
-
-Transportøkonomisk institutt 2015, rapport 1417/2015,
-Elvik og Høye (2015). Hvor mye kan antall drepte og hardt
-skadde i trafikken reduseres?
-26
-Transportøkonomisk institutt 2014, rapport 1361/2014,
-Elvik og Amundsen (2014). Utvikling i oppdagelsesrisiko for
-trafikkforseelser.
-27 Transportøkonomisk institutt 2015 – Trafikksikkerhetshåndboken.
-28
-Transportøkonomisk institutt 2015, rapport 1417/2015,
-Elvik og Høye (2015). Hvor mye kan antall drepte og hardt
-skadde i trafikken reduseres?
-29
-I henhold til Trafikksikkerhetsboken defineres trafikkarbeid
-som produktet av antall trafikkenheter (kjøretøy) som forflyttes og den avstand de forflyttes.
-30
-Transportøkonomisk institutt 2014, rapport 1361/2014,
-Elvik og Amundsen (2014), Utvikling i oppdagelsesrisiko for
-trafikkforseelser – en oppdatering.
-
-1,9 %
-1,7 %
-1,5 %
-1,3 %
-1,0 %
-
-69,2 %
-
-0,3 %
-
-Kjøretøytiltak
-
-Fartsutvikling
-
-Tung MC (20-44 år)
-
-Unge førere i eneulykker
-
-Møtefri veg
-
-Barn (fotgjenger/syklist)
-
-Bilbeltebruk
-
-Unge mopedister
-
-ATK
-
-Uforklart
-
-Figur 10.5 Oversikt over beregnede bidrag til den
-registrerte nedgangen i drepte og hardt skadde
-fra 2000 til 2012
-Kilde: TØI-rapport 1299/2014
-
-For faktorer hvor det foreligger forsvarlig
-datagrunnlag har TØI beregnet faktorenes bidrag
-til nedgangen i antall drepte og hardt skadde i trafikken i perioden 2000–2012. Kun 31 prosent av
-nedgangen var mulig å forklare med ulike tiltak,
-som det fremgår av figur 10.5. Politikontroller
-gikk noe ned i den undersøkte perioden. Av nedgangen som kunne forklares, utgjorde kjøretøytiltak den største andelen tett etterfulgt av nedgang i
-trafikkens gjennomsnittsfart. Blant kjøretøytiltakene var det bedre kollisjonsvern (46 prosent),
-elektronisk stabilitetskontroll (28 prosent), og
-sidekollisjonsputer (15 prosent) som forklarte den
-største andelen av nedgangen. Ny kjøretøyteknologi som får stadig større utbredelse i nye biler i
-dag, som kjørefeltvarsler og adaptiv cruisekontroll, forklarte kun 1,4 prosent av nedgangen. Her
-kan det legges til at beregninger fra TØI viser at
-49 drepte og hardt skadde i 2012 kunne vært unngått om politiets kontrollnivå hadde vært likt som i
-2000 (7,4 prosent færre).31
-
-31
-
-https://www.toi.no/getfile.php?mmfileid=35359 s. 59.
-
-[Side 150]
-
-150
-
-Kapittel 10
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-Anvendelse av førerstøttesystemer har et stort
-potensial til å bidra til fortsatt reduksjon av antall
-drepte og hardt skadde i trafikken. Teknologiutviklingen går raskt, og inntredenen av autonome
-biler vil kunne redusere risikoen for trafikkovertredelser og ulykker vesentlig. På grunnlag av en
-tysk studie er det anslått at autonom cruisekontroll med kollisjonsvarsler og automatisk nødbrems kan redusere antall drepte og hardt skadde
-i lette kjøretøy med henholdsvis 19 og 15 prosent.32
-Med inntredenen av stadig mer avanserte og
-effektive førerstøttesystemer, antas kjøretøytiltak
-å utgjøre en stadig viktigere del av trafikksikkerhetsarbeidet. Videre antas det at andelen trafikkulykker, forårsaket av trafikanter som i liten grad
-påvirkes av ordinære trafikksikkerhetstiltak
-eksempelvis kriminelle gjengangere eller andre
-risikogrupper, vil øke.33 For denne gruppen kan
-det være andre forebyggende tiltak enn tradisjonelle trafikksikkerhetstiltak som gir størst effekt.
-I følge Meld. St. 40 (2015–2016) vil derfor en bred
-innsats fra politiet fortsatt å være viktig fremover.
-I den store kategorien «uforklart» kan en
-rekke samvirkende faktorer ha bidratt. Forebyggende og holdningsskapende arbeid, regelverksutvikling og håndhevelse, er noen av flere mulige
-faktorer.
-
-10.3.4 Utviklingstrekk
-I samordning og organisering av det nasjonale trafikksikkerhetsarbeidet blir fremtidige utfordringer særlig sett i sammenheng med forhold knyttet
-til demografiske endringer, trafikkutvikling, trafikantatferd og teknologisk utvikling.
-UP vektlegger blant annet betydningen av at
-en aldrende gjennomsnittsbefolkning stiller andre
-krav til trafikksikkerheten og behov for tiltak. I
-særlig grad blir det pekt på den økte ulykkesrisikoen for trafikanter over 75 år, sammen med
-ønske om større mobilitet for å delta i samfunnsog arbeidsliv. Rapporter peker også på demografiske trekk og forskjeller i ulykkesrisiko mellom
-fylkene.34
-I forbindelse med utarbeidelsen av Nasjonal
-transportplan 2018–2029 ble det gjort beregnin32
-
-Transportøkonomisk institutt 2015, rapport 1417/2015,
-Elvik og Høye (2015). Hvor mye kan antall drepte og hardt
-skadde i trafikken reduseres?
-33
-Meld. St. 40 (2015–2016). Trafikksikkerhetsarbeidet – samordning og organisering.
-34 Transportøkonomisk institutt 2015, rapport 1417/2015,
-Elvik og Høye (2015). Hvor mye kan antall drepte og hardt
-skadde i trafikken reduseres?
-
-ger som viste en forventet trafikkvekst på rundt
-25 prosent for perioden 2015–2030. Samtidig har
-Klimameldingen35 satt et nullvekstmål for personbiltrafikken, hvilket innebærer at vekst i persontransport i storbyene skal tas med kollektivtransport, sykkel og gange. I tillegg er det forventet en
-vekst i godstransporten.
-Trafikanttiltak har stor betydning for trafikksikkerheten, og UP legger stor vekt på trafikantatferd i sitt arbeid. Dette omfatter særlig overholdelse av fartsgrensene, bilbeltebruk og annen sikring, samt tiltak mot ruspåvirket kjøring. Politiets
-kontrolltiltak er en viktig faktor, men også andre
-aktørers forebyggende arbeid er viktig. I tillegg
-kan ny teknologi bidra positivt på flere av disse
-områdene, eksempelvis gjennom innebygde løsninger i kjøretøyene.
-Det er ulike oppfatninger av fremtidige utfordringer i det nasjonale trafikksikkerhetsarbeidet.
-Trygg Trafikk mener det neppe vil bli store
-endringer i trafikksikkerhetsbildet de nærmeste
-årene. De ser i mindre grad teknologisk utvikling
-som en faktor som vil endre vekten av trafikksikkerhetstiltak og mener at potensialet som ligger i
-å bygge sikrere veier (eksempelvis med midtdelere) er i ferd med å bli tatt ut. Føreratferd vil etter
-deres mening derfor fortsatt være den viktigste
-faktoren i trafikksikkerhetsarbeidet.36
-Teknologirådet mener den teknologiske utviklingen med førerløse biler, kunstig intelligens og
-sensorteknologi i veibanen akselererer så raskt at
-det i overskuelig fremtid er naturlig med en dreining av ressurser bort fra føreratferd og over til
-automatiserte kontrolltiltak og integrerte kjøretøysløsninger. Flere informanter, blant annet Vegvesenet peker på at førerløse biler kan bidra til
-endret behov for trafikksikkerhetsarbeid, investeringstiltak kan bidra til færre ulykker, og teknologi i bilene kan bidra til større sikkerhet. Overgangen kan likevel være utfordrende.37
-Som eksempel blir det nevnt teknologiske løsninger i nye biler som kan forebygge og forhindre
-uønskede trafikkhendelser samt begrense mulighet for fartsoverskridelser. Ettersom utskifting av
-bilparken kan ta lang tid, fremhever Teknologirådet bruk av sensorteknologi i veibanen som forebyggende kontrolltiltak. Dette er en utvikling som
-er i rask vekst i Storbritannia, men teknologien er
-fortsatt relativt ny i Norge. Sensorteknologien kan
-gi verdifull informasjon som kan brukes til å jus35
-36
-37
-
-Meld. St. 21 (2011–2012) Norsk klimapolitikk.
-Samtale med Trygg trafikk 16. november 2016.
-Teknologirådet 2016, Fra rådet til tinget – Trafikksikkerhet
-mot år 2020.
+Ved siden av god kunnskap innen fag og metode, forutsetter politiets trafikksikkerhetsinnsats påtalemessig oppfølging med høy kvalitet. Erfaring over flere år tyder imidlertid på et behov for økt spesialkompetanse på fagfeltet, og UP viser blant annet til arbeidsgrupperapport publisert av Riksadvokaten i 2015 om etterforsking og straffeforfølgning av trafikksaker. [^304] Dårlig kvalitet på etterforskingen får betydning for både nivå i straffereaksjonene og i effektivitet i saksbehandlingen. Det er tidligere foreslått bruk av hospitering i UP som et tiltak for å heve kompetansen, blant annet for påtalejurister. UP koordinerer imidlertid nasjonalt påtalenettverk for trafikkfaget og det er naturlig at behov for slik kompetansetilførsel tas opp der.
+
+1.  **<u>Nasjonalt og internasjonalt kontaktpunkt</u>**
+
+Som internasjonalt kontaktpunkt koordinerer og deltar UP i norsk politis internasjonale samarbeid på trafikkområdet. Dette omfatter internasjonale sammenslutninger med medlemmer fra både offentlig administrasjon og private organisasjoner. Internasjonalt samarbeid om trafikksikkerhet er viktig for å utveksle erfaringer, bygge nettverk, dele kunnskap og sette felles mål.
+
+Både Statens vegvesen og Trygg trafikk fremhever at det er effektivt at UP er eneste kontaktpunkt i politiet innenfor trafikksikkerhetsarbeid.
+
+1.  **<u>UPs oppgavel</u><u>ø</u><u>sning</u>**
+
+Instruks etter kongelig resolusjon av 1.september 1989 fastslår at «Utrykningspolitiets målsetning er å redusere antall trafikkulykker og forebygge lovovertredelser i trafikken», og at UP «skal utføre trafikktjeneste i alle landets politidistrikter». UPs oppgaver, mål og resultatkrav utover dette følger av årlig disponeringsskriv.
+
+I disponeringsskriv for 2017 heter det at UP skal opprettholde tjenesteproduksjon minst på samme nivå som i 2016, det vil si at samlet innsats skal bidra til å forebygge og bekjempe:
+
+- <u>ulykker på vei (trafikksikkerhet)</u>
+
+- <u>kriminalitet på vei</u>
+
+Samlet effekt av tiltakene skal derfor være å redusere antall drepte og skadde i trafikken sammenlignet med foregående år. UP har gjennomgående høy måloppnåelse på årlige mål- og resultatkrav, jf. tabell 10.3.
+
+1.  <u>Mål og resultatkrav for Utrykningspolitiet 2016–2017</u>
+
+<table>
+<tbody>
+<tr>
+<td><p>Mål</p></td>
+<td><p><u>Indikator</u></p></td>
+<td><p><u>Resultatkrav</u></p>
+<p><u> 2016</u></p></td>
+<td><p><u>Resultat</u></p>
+<p><u>2016</u></p></td>
+<td><p><u>Resultatkrav 2017</u></p></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><p>Forebygge og bekjempe ulykker på vei – Trafikksikkerhet</p></td>
+<td><p><u>Drepte og hardt skadde</u></p></td>
+<td><p><u>760</u></p></td>
+<td><p><u>712</u></p></td>
+<td><p><u>720</u></p></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><p>Drepte</p></td>
+<td><p>152</p></td>
+<td><p>135</p></td>
+<td><p>144</p></td>
+</tr>
+<tr>
+<td></td>
+<td><p>Fartsovertredelser</p></td>
+<td><p>80 000</p></td>
+<td><p>78 566</p></td>
+<td><p>80 000</p></td>
+</tr>
+<tr>
+<td></td>
+<td><p>Kjøring ruspåvirket tilstand</p></td>
+<td><p>1 500</p></td>
+<td><p>2 406</p></td>
+<td><p>2 500</p></td>
+</tr>
+<tr>
+<td></td>
+<td><p>Grove/gjentatte</p>
+<p>fartsovertredelser</p></td>
+<td><p>5 200</p></td>
+<td><p>5 319</p></td>
+<td><p>5 200</p></td>
+</tr>
+<tr>
+<td></td>
+<td><p>Manglende bruk av</p>
+<p>verneutstyr</p></td>
+<td><p>14 500</p></td>
+<td><p>12 397</p></td>
+<td><p>12 000</p></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><p>Kontrollerte</p>
+<p>sjåførarbeidsdøgn (tungbil)</p></td>
+<td><p>120 000</p></td>
+<td><p>126 319</p></td>
+<td><p>120 000</p></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><p>Farlig atferd</p></td>
+<td><p>19 000</p></td>
+<td><p>19 651</p></td>
+<td><p>19 000</p></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><p><u>Antall ATK-saker</u><sup><u>1</u></sup></p></td>
+<td><p><u>-</u></p></td>
+<td><p><u>-</u></p></td>
+<td><p><u>120 000</u></p></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><p>Forebygge og bekjempe kriminalitet på vei</p></td>
+<td><p><u>Pågripelser </u></p></td>
+<td><p><u>2 200</u></p></td>
+<td><p><u>2 397</u></p></td>
+<td><p><u>2 200</u></p></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><p>Narkotikabeslag</p></td>
+<td><p>800</p></td>
+<td><p>1 487</p></td>
+<td><p>800</p></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+<sup><u>1</u></sup><u> UP fikk ansvar for ATK-senteret fra 1.januar 2017.</u>
+
+<u>Politidirektoratet</u>
+
+1.  **<u>Trafikksikkerhet</u>**
+
+Kontrollinnsatsen til UP rettes i dag mot aggressiv kjøreatferd, fartsovertredelser, ruspåvirket kjøring og manglende bruk av bilbelte. Innsatsen rettes først og fremst mot risikovillige førere, som på et kunnskapsbasert grunnlag blir plukket ut for kontroll.
+
+UPs innsats i trafikksikkerhetsarbeidet er særlig avgjørende for å avdekke fartsovertredelser. Politidistriktenes innsats på dette området har i tillegg blitt betydelig redusert i løpet av siste ti år, jf. figur 10.7.
+
+**<u>\[:figur:figX-X.jpg\]</u>**
+
+1.  <u>Antall avdekte fartsovertredelser for UP og politidistriktene 2002–2016</u>
+
+<u>Politiets kontrollstatistikk (TTS TRAFSTAT)</u>
+
+På rusområdet har politidistriktene tradisjonelt avdekket flest tilfeller av ruspåvirket kjøring, ofte som resultat av tips fra publikum. UP har derimot de siste årene økt innsatsen innen ruskontroll. UP har mer enn fordoblet antall avdekte tilfeller av kjøring i ruspåvirket tilstand i løpet av to år, og står nå for nærmere 40 prosent av andelen anmeldelser for ruspåvirket kjøring.
+
+UP avdekker ruspåvirket kjøring ved kontrollvirksomheten langs veien, mens politidistriktene avdekker i hovedsak ruspåvirket kjøring i forbindelse med trafikkulykker, eller etter varsel fra publikum.
+
+Etter UPs mening har økt vekt på kunnskapsbasert og effektiv politiinnsats med målrettede kontroller, kombinert med stadig forbedring av metodebruk og bruk av ny teknologi, bidratt til færre alvorlige ulykker med drepte og hardt skadde i trafikken de siste årene.
+
+*Trygg trafikk* mener nasjonal måloppnåelse for trafikksikkerhet forutsetter et politi med spisskompetanse innen trafikksikkerhet. Politikontroller er det enkelttiltaket med størst dokumentert effekt på trafikksikkerheten. UP er en garantist for at det blir foretatt kontroller på norske landeveier, også utenfor byene.
+
+UPs høye kompetanse kommer også politidistriktene til gode. Når et politidistrikt avgir folk til UPs tjeneste, får de tilbake en kompetanse som er helt uvurderlig i det lokale trafikksikkerhetsarbeidet. Det er etter *Trygg trafikks* mening også fordelaktig for politidistriktene at UP kan avgi ressurser ved større lokale arrangementer.[^305]
+
+Blant politimestrene er det delte meninger om ressursfordelingen mellom UP og politidistriktene i trafikksikkerhetsarbeidet. Det er imidlertid stor enighet om at UP gjør en viktig innsats i trafikksikkerhetsarbeidet. Flere legger til at UP er en viktig merkevare for politiets trafikksikkerhetsarbeid, noe som også gjenspeiler seg i politiets innbyggerundersøkelser, der UP ofte kommer best ut. Her kommer det også tydelig frem at publikum er mest bekymret for å bli utsatt for trafikkfarlige hendelser, men de har samtidig høy tiltro til at politiet kan håndtere disse hendelsene hvis eller når de inntreffer.
+
+UP på sin side gir tydelig uttrykk for en generelt lav interesse for trafikksikkerhet i politidistriktene, Politihøgskolen og delvis hos Politidirektoratet og mener dette er et gjennomgående fenomen også i andre europeiske land.[^306]
+
+Etter UPs mening har overgangen fra 27 til tolv distrikt ennå ikke gitt nevneverdig endring i verken holdning eller bevissthet til forbindelsen mellom UPs arbeid og generell kriminalitetsbekjempelse. UP kan ikke se at trafikktjenesten eller «kriminalitetsbekjempelse på vei» er gitt organisatorisk plass, eller at det er opprettet formelle kontaktpunkter i de nye politidistriktene. For UP er det derfor svært vanskelig å se at trafikksikkerhet kan bli håndtert på en bedre måte i politidistriktene.
+
+1.  **<u>Kriminalitetsbekjempelse p</u><u>å</u><u> vei</u>**
+
+UPs innsats for generell kriminalitetsbekjempelse på vei er forankret i årlig disponeringsskriv fra Politidirektoratet, med et målkrav om 2200 pågripelser og 800 narkotikabeslag for 2016.
+
+Ettersom verken Politidirektoratet eller UP har avgrenset kriminalitetsområder innenfor dette konseptet blir det foretatt pågripelser på en rekke områder. UPs egen statistikk viser at enheten årlig foretar flere beslag enn et gjennomsnittlig politidistrikt, og nesten like mange pågripelser.
+
+Tabell 10.4 gir en oversikt over andre sakstyper UP har initiert enn etter vegtrafikkloven. Tallene omfatter alle anmeldelser uansett om de er avgjort av domstolene, avgjort med forelegg eller har blitt henlagt.
+
+1.  <u>Antall UP-initierte sakstyper alle politidistrikt i perioden 2012–2016</u>
+
+|  |  |  |  |  |  |  |
+|----|----|----|----|----|----|----|
+| Kriminalitetstype | <u>2012</u> | <u>2013</u> | <u>2014</u> | <u>2015</u> | <u>2016</u> | <u>Totalsum</u> |
+|  |  |  |  |  |  |  |
+| Annen | <u>207</u> | <u>240</u> | <u>222</u> | <u>256</u> | <u>209</u> | <u>1134</u> |
+| Arbeidsmiljø |  | <u>3</u> |  |  | <u>2</u> | <u>5</u> |
+| Miljø | <u>2</u> | <u>1</u> | <u>7</u> | <u>5</u> |  | <u>15</u> |
+| Narkotika | <u>831</u> | <u>833</u> | <u>919</u> | <u>1430</u> | <u>1487</u> | <u>5500</u> |
+| Sedelighet |  |  | <u>2</u> | <u>1</u> | <u>1</u> | <u>4</u> |
+| Skadeverk | <u>4</u> | <u>8</u> | <u>8</u> | <u>8</u> | <u>7</u> | <u>35</u> |
+| Undersøkelsessaker | <u>24</u> | <u>25</u> | <u>35</u> | <u>31</u> | <u>36</u> | <u>151</u> |
+| Vinning | <u>166</u> | <u>121</u> | <u>121</u> | <u>93</u> | <u>78</u> | <u>579</u> |
+| Vold | <u>23</u> | <u>22</u> | <u>35</u> | <u>27</u> | <u>58</u> | <u>165</u> |
+| Økonomi | <u>14</u> | <u>12</u> | <u>13</u> | <u>11</u> | <u>11</u> | <u>61</u> |
+| Totalsum | <u>1271</u> | <u>1265</u> | <u>1362</u> | <u>1862</u> | <u>1889</u> | <u>7649</u> |
+|  |  |  |  |  |  |  |
+
+<u>UP</u>
+
+UP opplyser at det er en underrapportering av registrerte anmeldelser i forbindelse med pågripelser og beslag i politiets straffesakssystemer. Merking av UP-initierte saker må gjøres manuelt i politiets BL-system (straffesakssystem) og når politidistriktene dupliserer og etablerer vedleggsaker til straffesaken, blir UP-saker ofte ikke registrert.[^307]
+
+Flere politiledere mener det er prisverdig at UP på denne måten bistår politidistriktene, men peker samtidig på slagsiden ved at UP ikke har påtalekompetanse. Dette medfører at UP kan ta beslag og foreta pågripelser, men må overlate ansvar for etterforskning og påtale til politidistriktene. Flere politimestre opplever dette som uproblematisk, ettersom alle politimannskaper på den måten bidrar i felles kriminalitetsbekjempelse. Enkelte politimestre peker imidlertid på eksempler der UPs beslag har medført behov for omprioritering av ressurser, og på mulige målkonflikter med pågående operasjoner og strategioppfølging på bestemte kriminalitetsområder.
+
+Samtidig peker flere politimestre på at det er behov for flere politimannskaper i distriktene som inngår i en bredere kriminalitetsbekjempelse. Etter deres mening er dagens ressursfordeling uttrykk for en uheldig prioritering av begrensede politiressurser. Ved å få tilført UPs ressurser vil politidistriktene få større fleksibilitet uten at dette trenger å gå utover trafikksikkerhetsarbeidet. I tillegg blir det argumentert med at ressursoverføring vil forenkle styring av politiressursene. Dette vil styrke evnen til å gjøre prioriterte beslag og pågripelser mer i tråd med politidistriktets og overordnede organs strategier.
+
+Noen politimestre gir uttrykk for at overføring av UP-ressursene til politidistriktene med stor sannsynlighet vil føre til at trafikktjenesten vil bli nedprioritert. De tilføyer samtidig at dagens trafikktjeneste, i noen tilfelle faktisk har høyere prioritet og større ressursinnsats, enn flere typer alvorlig kriminalitet, som for eksempel overgrep mot barn og voldtekt. Av den grunn mener de at en prioritetsforskyvning kan være nødvendig i noen tilfeller.
+
+1.  **<u>Bistand og beredskap</u>**
+
+I henhold til UPs mandat og disponeringsskriv skal enheten også utøve bistand overfor politidistriktene. Dette omfatter støtte til ulike ordensoppdrag etter bistandsanmodning, samt generell kriminalitetsbekjempelse på vei. Dette innebærer at UP gjennom sine operasjoner kan pågripe og overlevere personer mistenkt for lovovertredelser til nærmeste politistasjon i distriktet.
+
+UP opplyser at de nesten daglig bistår politidistriktene i pågående operasjoner og hendelser. I tillegg til anmodning om å yte bistand i hendelsesstyrte saker får UP henvendelser om å avgi ordinære patruljer for å fylle opp politidistriktets turnuser for vakt- og beredskap. Selv om bistanden bidrar til styrket hverdagsberedskap er ikke hensikten at UP skal dekke politidistriktenes eget område, men derimot bistå ved behov der det trengs. Det har likevel ikke kommet tilbakemeldinger gjennom samtaler med utvalget eller spørreundersøkelsen som tyder på at UPs bistandsoppgaver har gått på bekostning av trafikksikkerhetsarbeidet.
+
+I tråd med bistandskrav har UP tidligere tatt initiativ til å overta deler av båttjenesten, som i dag ligger til lokale politidistrikter, men uten å få gjennomslag for dette. Bakgrunnen for UPs anmodning var at flere politidistrikt har lite ressurser til å betjene båttjenesten, ikke minst i sommersesongen da behovet er størst. Imidlertid opplever også UP økt aktivitet om sommeren, og en overtakelse av båttjenesten vil forutsette økt innbeordring. Det er ikke signaler fra hverken POD eller politidistriktene som tyder på at dette er aktuelt per nå.
+
+Noen politiledere påpeker at denne form for ressursforskyvning i politiet kan bli vanligere fremover og derfor representerer en nødvendig fleksibilitet i organisasjonen. Imidlertid mener flere politiledere at den fleksible bistandsressursen ikke naturlig tilhører UP og bedre kan utnyttes i politidistriktene. Etter deres mening kan den nødvendige fleksibiliteten inkorporeres i politidistriktstrukturen og innarbeides i øvrige planer for nabohjelp og beredskapsplaner.
+
+Meningene om UP som beredskapselement er imidlertid delte. Enkelte politimestre mener UPs beredskapsinnsats ikke er et godt nok argument for å beholde UP som et eget sentralt politiorgan, flere mener politidistriktene med de samme ressursene ville hatt bedre styring. Andre mener UP kan utgjøre en ekstra ressurs til eksisterende fleksibilitet i distriktene, men at UPs ressurser er vanskelig å regne med. Enkelte politimestre mener imidlertid UP utgjør et godt supplement, og ser ikke noe problem med at dette medfører at UP kan bevege seg litt bort fra opprinnelig mandat.
+
+I utvalgets spørreundersøkelse rettet mot ansatte i politietaten ble det spurt om respondentene opplever at UPs bistandstjenester er tilpasset politidistriktenes behov for bistand. I underkant av 25 prosent svarte at de var «enig» eller «helt enig» i beskrivelsen, mens i underkant av 9 prosent var «uenig» eller «helt uenig». Her svarte imidlertid 44 prosent av de 1815 respondentene «vet ikke». Dette har dels sammenheng med at mange ikke kjenner godt nok til UPs bistandskonsept, noe som kom frem i kommentarfeltene. Rundt halvparten av respondentene oppga at de «sjelden» eller «aldri» hadde kontakt med UP.
+
+Responsen var noe bedre på spørsmål om hvorvidt UP bidrar til bedre oppklaringsprosent på saker i politidistriktet. Her svarte nesten 27 prosent at de var «enig» eller «helt enig», mens i overkant av 10 prosent var «uenig» eller «helt uenig». Også her svarte en stor andel «vet ikke». Av 1819 respondenter gjaldt dette 43 prosent. I kommentarfeltene ble dette hovedsakelig forklart med at det er vanskelig å måle effekten, og flere vegret seg derfor for å svare.
+
+Usikkerheten kom tydeligere til uttrykk på spørsmål om hvorvidt UP bidrar til høyere kvalitet i tjenesteproduksjonen, eksempelvis gjennom færre henleggelser og flere positive påtaleavgjørelser. Her svarte hele 50 prosent av respondentene «vet ikke», mens 22 prosent svarte «enig» eller «helt enig». I den andre enden av skalaen svarte i underkant av 10 prosent at de var «uenig» eller «helt uenig». Responsen var nesten identisk på spørsmål om bistand fra UP bidrar til økt effektivitet i tjenesteproduksjonen, eksempelvis gjennom raskere saksgang.
+
+Det er likevel tydelig at UP har en jevnt over god status i politidistriktene. På spørsmål om det er god samhandling mellom politidistriktene og UP, svarer nesten en tredjedel av respondentene at de er «enig» eller «helt enig», mens bare 5 prosent svarer «uenig» eller «helt uenig». Her var også andelen som svarte «vet ikke» omtrent som over, også her med begrunnelse om manglende kunnskap om UPs innsats.
+
+På spørsmål om hvorvidt UPs bistandsressurser oppleves som tilgjengelige, var responsen tilsvarende positiv. Rundt en tredjedel var «enig» eller «helt enig», mens i underkant av 5 prosent var «uenig» eller «helt uenig». Her svarte 42 prosent av 1816 respondenter «vet ikke».
+
+I spørreundersøkelsen ble det også stilt spørsmål om hvorvidt det fortsatt bør stilles krav til at UP skal yte bistand overfor politidistriktene. Her svarte kun 135 respondenter av de som enten har eller har hatt tilknytning til UP som innbeordret eller kontakt gjennom daglig virke. Nesten 75 prosent svarte «enig» eller «helt enig», mens under en prosent svarte «vet ikke». I overkant av en prosent svarte «uenig» eller «helt uenig».
+
+1.  **<u>Kompetanse</u>**
+
+Som nasjonalt kompetansesenter for trafikksikkerhet i politietaten driver UP kurs og opplæring på sine fagområder, blant annet som instruktører ved Politihøgskolen.
+
+UPs kompetansetiltak utføres gjennom daglig virke og bistand overfor politidistriktene. I tillegg til aktive kompetansetiltak bidrar UP-mannskaper ved tilbakeføring til politidistriktene som viktige ambassadører og brobyggere for en styrket bevissthet om, og forståelse for, trafikksikkerhetsarbeid i politidistriktene. Over tid bidrar dette til å bygge, og forsterke, en kultur for å se trafikksikkerhet som en del av det større kriminalitetsbildet.
+
+I utvalgets spørreundersøkelse ble samtlige respondenter stilt spørsmål om hvorvidt UP utfyller sin rolle som nasjonalt kompetansesenter på en god måte. Her svarte 32,5 prosent «enig» eller «helt enig», mens 6,4 prosent svarte «uenig» eller «helt uenig». I overkant av 40 prosent svarte «vet ikke», men flertallet av disse har etter responsen i kommentarfeltene lite med UP å gjøre i sitt daglige virke. Det fremgår både av kommentarfeltene, og på spørsmål om tilhørighet i politietaten. Det er derfor rimelig å konkludere med at respondentene mener at UP utfyller sin rolle som kompetansesenter på en god måte.
+
+Rutiner for kunnskapsutveksling mellom UP og politidistrikt fungerer i noe mindre grad. Her svarte bare i overkant av 17 prosent «enig» eller «helt enig», mens 9,5 prosent svarte «uenig» eller «helt uenig». Her svarte 51 prosent «vet ikke». Dette ble i kommentarfeltene forklart med at mange var usikre på effektene og derfor vegret seg for å svare.
+
+En klar overvekt av respondentene ga uttrykk for at UP besitter nødvendig spesialkompetanse for sitt oppdrag. På en skala fra 1 («helt uenig») til 6 («helt enig»), svarte over 39 prosent at de var «enig» eller «helt enig», hvilket ga en gjennomsnittsscore på 4,77. UP vurderes også i noen grad å bidra til kompetanseoverføring til politidistriktene (4,05) og anses i hovedsak å ha kapasitet til å ivareta generelle behov for kompetanseutvikling innenfor sitt fagområde (4,28).
+
+Det er likevel delte meninger om UPs bidrag til kompetanseoverføring til politidistriktene. Dette kan dels forklares med manglende kunnskap om denne delen av UPs aktivitet, og dels at respondentene har lite med UP å gjøre i sitt daglige virke. Av 1815 respondenter svarte i overkant av 45 prosent «vet ikke». Over 23 prosent svarte «enig» eller «helt enig», mens 9,5 prosent svarte «uenig» eller «helt uenig».
+
+Dette inntrykket ble forsterket ved at nesten like mange var «uenig» eller «helt uenig» i at UP har bidratt til uhensiktsmessig forskyvning av kompetanse fra politidistriktene, det vil si forskyvning av kompetanse politidistriktene selv bør inneha. Her svarte 51 prosent «vet ikke».
+
+I utvalgets spørreundersøkelse blir det uttrykt delte meninger om UPs bidrag til å styrke politidistriktenes kompetanse på etterforskning. På spørsmål om UPs bidrag svarte i underkant av 40 prosent av utvalget «vet ikke», mens de øvrige fordelte seg jevnt på skalaen fra 1 («helt uenig») til 6 («helt enig»), hvilket ga en gjennomsnittsscore på 3,58.
+
+Det ble også gitt uttrykk for tilsvarende delte meninger om UP som pådriver og premissgiver for politidistriktenes fag- og metodeutvikling. Responsen var noe mer positiv, med en gjennomsnittsscore på 3,81. I denne vurderingen skiller UP seg vesentlig ut fra de øvrige særorganene. På begge disse spørsmålene svarte til sammen 1826 respondenter.
+
+UPs bistandstjenester vurderes til dels å være tilpasset politidistriktenes behov (4,07), og oppleves som tilgjengelig (4,45). Videre vurderes samhandlingen med politidistriktene som god (4,48).
+
+I spørreundersøkelsen ble det også stilt spørsmål om hvorvidt UP fortsatt bør ha funksjon som kompetanse- og utviklingsenhet for politietaten. Her svarte kun 134 respondenter av de som enten har eller har hatt tilknytning til UP som innbeordret eller kontakt gjennom daglig virke. Over 76 prosent svarte «enig» eller «helt enig», mens 3 prosent svarte «vet ikke». Her svarte 9 prosent «uenig» eller «helt uenig».
+
+De samme respondentene fikk spørsmål om hvorvidt UP bør ha funksjon som nasjonalt kontaktpunkt for internasjonalt samarbeid. Her var et stort flertall positive. 60 prosent svarte «enig» eller «helt enig», men nesten 10 prosent svarte «vet ikke», og ytterligere nesten 15 prosent svarte «uenig» eller «helt uenig».
+
+Ut fra dette synes det likevel klart at de som har nær kontakt med UP, har et meget positivt syn på enheten, mens det er større usikkerhet om effekten i andre deler av politietaten.
+
+1.  **<u>Behovet for et nasjonalt trafikkpoliti</u>**
+
+Det er delte meninger om UPs posisjon og hvordan politiets trafikksikkerhetsarbeid skal organiseres. UP har som nevnt vært foreslått nedlagt flere ganger, men betydningen for det nasjonale trafikksikkerhetsarbeidet og for å redusere antall døde og hardt skadde i trafikken, har vært en avgjørende faktor hver gang dette har vært til politisk behandling.
+
+En prinsipiell innvending som blir reist av flere, både politiledere og andre innenfor politietaten er om ordningen med et nasjonalt trafikkpoliti er en god prioritering av politiets samlede ressurser til effektiv forebygging og bekjempelse av kriminalitet. Flere politiledere mener trafikksikkerhet blir for høyt prioritert sammenlignet med andre alvorlige kriminalitetstyper, som seksuelle overgrep, profittmotivert kriminalitet, integritetskrenkende kriminalitet og alvorlig organisert kriminalitet.
+
+Samtidig understreker flere politiledere at UP gjør mye bra og viktig for trafikksikkerhetsarbeidet, men også langt ut over dette i form av allmenn kriminalitetsbekjempelse «på hjul». Det blir her advart mot å overføre trafikksikkerhetsarbeidet til politidistriktene eller andre virksomheter, fordi trafikksikkerhet kan bli en salderingspost. Dette var også en vektig innvending blant flere politimestre da spørsmålet sist var til politisk behandling, i forbindelse med Politireform 2000.[^308] I høringsrunden vektla særlig Trygg trafikk at å opprettholde UP som synlig politi på veien er den beste garanti for en minimumsinnsats innen kontroll og overvåkning av trafikken.
+
+Det er verdt å merke at den etterfølgende politiske behandlingen i Stortinget synliggjorde et sterkt forsvar for å bevare UP. Flere representanter erkjente at UP gjerne utgjorde et brudd med organisasjonskartet og at ressursene prinsipielt kunne ligge til distriktene, men det avgjørende tverrpolitiske syn var at UP utgjorde et effektivt bidrag for bedre trafikksikkerhet. Et utsagn som ble gjengitt i innstillingen fra justiskomiteen var; «man skal være varsom med å avvikle Utrykningspolitiet som en enhet for å bekjempe trafikkdøden».[^309]
+
+Kleverud-utvalget fikk i 2003 i oppdrag av Justisdepartementet å vurdere UPs fremtidige organisering, herunder om enheten skulle nedlegges som et av politiets særorganer. Utvalget tolket dette som en avveining mellom en operativ spesialstyrke til trafikksikkerhetsarbeid, og om politidistriktene skulle ha hovedansvar for trafikktjenesten. Utvalget konkluderte den gang med at det ikke var tilrådelig å legge ned en så handlekraftig enhet i trafikksikkerhetsarbeidet.[^310] Utvalget pekte samtidig på at en stor utfordring i trafikksikkerhetsarbeidet videre var å finne en bedre arbeidsdeling mellom UP og politidistriktene. I særlig grad ble det lagt vekt på at distriktenes hendelsespregede hverdag avgrenset det mer langsiktige trafikksikkerhetsarbeidet som krever prioriterte ressurser. Et avgjørende hensyn for Kleverud-utvalget var behovet for nasjonal planlegging og overordnet styring av trafikksikkerhetsarbeidet. Innenfor et slikt strategisk arbeid ville UP etter utvalgets mening ha en naturlig plass, som nasjonal koordinator for politietaten.
+
+Kleverud-utvalget vurderte innvendinger fra politidistriktene om at tilføring av UPs ressurser ville gi en minst like god trafikksikkerhetsinnsats, men konkluderte med at det var lite trolig, og viste blant annet til at trafikksikkerhet da måtte konkurrere med annen oppgaveløsning.[^311]
+
+Kleverud-utvalget pekte allerede den gang på at tekniske hjelpemidler i økende grad ville erstatte manuelle kontroller av blant annet fart og hviletid, men mente teknologien ikke kunne gjøre overflødig trafikkontroller utført av synlig politi.[^312] Konsekvensene av utvalgets anbefalinger var senere blant annet at UPs hovedkontor ble flyttet fra Oslo til Stavern, og at bistandskonseptet «kriminalitetsbekjempelse på vei» ble utviklet og forsterket.
+
+Flere politiledere mener fortsatt at en rekke av UPs oppgaver innenfor trafikksikkerhetsarbeid helt eller delvis kan bli løst av politidistriktene selv, sammen med andre aktører som blant annet Vegvesenet. Det er blant annet gjort vurderinger av om Vegvesenet helt eller delvis kan overta noen trafikkoppgaver knyttet til promillekontroll, rustesting og kjøretøykontroll, men til nå er dette ikke avklart.
+
+Statens vegvesen mener det er rom for mer effektiv arbeidsdeling med politiet, blant annet ved at vegvesenet overtar deler av ATK-sakene (automatisk trafikkontroll) slik at politiet kan bruke knappe ressurser på mer alvorlige saker. Vegvesenet har også fremmet forslag om foreleggsmyndighet for trafikkforseelser på stedet, noe de mener ytterligere vil frigjøre politiressurser.[^313] Flere advarer imidlertid mot dette. Trygg trafikk mener ATK må regnes som en politifaglig oppgave, og frykter at dersom slike oppgaver blir overført kan politiet velge å nedprioritere trafikksikkerhetsoppgaver ytterligere. Riksadvokaten mener også kontrolloppgaver langs påtalesporet bør ligge til politiet.
+
+Utvalget har fått flere innspill om at det teknologiske utviklingstempoet gjør at den tradisjonelle vekt som er lagt på føreratferd i trafikksikkerhetsarbeidet, er i ferd med å bli endret. Dette vil særlig bli aktuelt med forventet innslag av selvkjørende biler.[^314]
+
+I tillegg til automatisering og bruk av sensorteknologi peker Teknologirådet blant annet på mulighetene som ligger i analyseverktøy og bruk av såkalte stordata.[^315] Flere politimestre peker også på at analyser og etterretningsprodukter i større grad burde vært del av trafikktjenesten slik at innsatsen fikk et bedre kunnskapsbasert grunnlag. Dette ville gitt bedre grunnlag for prioritering av områder som kan omfatte mer enn bare trafikksikkerhet. Noen politimestre poengterte her at i deres distrikt kan det være behov for å prioritere trafikkressursene annerledes og gjerne vektlegge andre strekninger enn UP i dag velger, og mener dette i stor grad skyldes forskjellig kunnskapsgrunnlag og ulike vurderingskriterier.
+
+I tillegg ønsker Vegvesenet å digitalisere større deler av trafikkovervåkningen, noe UP selv mener å kunne håndtere. Flere politiledere stiller derfor spørsmål ved om automatisering og digitalisering allerede innen få år vil få konsekvenser for UPs tradisjonelle oppgaveløsning, og om samarbeid og ny arbeidsdeling med andre aktører vil bli nødvendig uansett.
+
+1.  **<u>Styringslinjer</u>**
+
+UP har en forholdsvis liten sentral ledelse med overordnet ansvar for den operative styrken. Distriktslederne administrerer UP-ressursene i eget distrikt og samordner operasjoner med berørte politidistrikt. Distriktslederne har hovedansvar for å lede UPs operative innsats i distriktene.
+
+UP disponerer ikke totalbudsjett for egen organisasjon, ettersom innbeordret personell lønnes av hjemmehørende politidistrikt. Av den grunn har UP det laveste budsjettet av særorganene, men organene har til felles at rundt 80–90 prosent av midlene er bundet til lønnskostnader, husleie og andre faste kostnader, slik at det er begrenset med tilgjengelige ressurser til vedlikehold og investeringer.
+
+Flere politiledere omtaler UP som et mer autonomt særorgan i den forstand at enheten har større fleksibilitet i sin oppgaveutførelse enn øvrige særorgan. Det blir pekt på at UP har oppnådd denne posisjonen fordi de leverer gode resultater. UP på sin side mener det er en manglende forståelse av UPs arbeid i enkelte politifora, og peker på det faktum at UP noen ganger ikke blir inkludert i sentrale politifora der deltakelse oppleves som relevant og viktig. UP kjenner seg heller ikke igjen i beskrivelsen som et mer autonomt særorgan.
+
+Det er ulike oppfatninger om styringslinjene mellom UP og politidistriktene. Enkelte politimestre gir uttrykk for at dagens styringslinjer er utfordrende, særlig fordi UP kan generere straffesaker uten selv å ta kostnaden ved dette. Isteden kan det skape behov for omprioriteringer i det enkelte politidistrikt. Andre understreker at styringslinjene ikke oppleves som noe problem, og at samarbeidet fungerer godt, også på dette punktet.
+
+Styringsstrukturen mellom UP og Politidirektoratet (POD) fremstår imidlertid for mange politiledere som enkel og ryddig. Det strategiske trafikksikkerhetsarbeidet i POD er lagt til Avdeling for Politiberedskap og krisehåndtering. Styringsrelasjonen til POD er imidlertid individuelt betinget og har vært knyttet til en enkeltperson, noe som øker sårbarheten. Dette er en oppfatning som også deles av Statens vegvesen og Trygg trafikk.[^316]
+
+UP mener selv at det er gode styringsstrukturer med POD, men mener fagansvar på trafikkområdet burde vært overført. I dag er POD eier av metodeverk og instruksverk for trafikkområdet, men UP mener dette kunne vært håndtert mer effektivt i egen organisasjon, særlig fordi sluttproduktet ofte er det samme som UP har foreslått.
+
+UP etterlyser samtidig en bedre og tydeligere overordnet modell for strategi, fag og metode på trafikkområdet. Vegvesenet og Trygg trafikk etterlyser også tydeligere styringssignaler på trafikksikkerhet, både fra POD og fra Justis- og beredskapsdepartementet.
+
+1.  **<u>Utvalgets vurderinger</u>**
+
+Utvalgets hovedinntrykk er at UP er en effektiv og fleksibel organisasjon som med begrensede midler oppnår gode resultater innen trafikksikkerhet. De siste årene har UP hatt en gradvis dreining fra rent trafikkpoliti til å forebygge og bekjempe alle typer kriminalitet som skjer på vei. UP er i tillegg en god bistandsressurs for mange politidistrikt, og utvalget har inntrykk av at operasjonene i stor grad er godt koordinert.
+
+Mange har et nært forhold til UP. Som en viktig pådriver for trafikksikkerhet siden 1960-tallet har UP, sammen med andre aktører, bidratt sterkt til redusert antall drepte og hardt skadde i trafikken. Utvalget er samtidig oppmerksom på at det lenge har vært delte meninger om hvorvidt UP er uttrykk for en effektiv bruk av begrensede politiressurser.
+
+Nedskjæringer i offentlige utgifter kan i årene fremover være en drivkraft for mer effektiv ressursutnyttelse. Produktivitetskommisjonen har pekt på at det bør stilles større forventninger til produktivitet i norsk offentlig sektor enn i sammenlignbare land selv om relative kostnader er høyere.[^317] Regjeringens ABE-kutt har også hatt som formål å styrke effektiviteten i offentlig sektor, også i politisektoren. Politidirektoratets budsjett for 2017 bekrefter denne utviklingen, og mer effektive løsninger for politiets oppgaveløsning tvinger seg frem. Utviklingen ser vi også i andre land. I Finland er flere av politireformene fra de seneste årene gjennomført som effektiviseringstiltak og har blant annet medført en nedbemanning av politistyrken.[^318] Utvalget mener at økte produktivitetskrav også vil utløse nye samarbeidsformer og oppgaveløsninger. Dette vil gradvis medføre at flere av politiets tradisjonelle oppgaver på trafikksikkerhetsområdet helt eller delvis kan overtas av andre samarbeidsaktører. En slik utvikling reiser imidlertid viktige prinsipielle spørsmål både om hva som definerer en politioppgave, og om hvilken sanksjonsadgang og kontrollmuligheter som skal gis andre offentlige myndigheter på området.
+
+Utvalget ser at begrunnelsene som ble brukt for å foreslå UP nedlagt i 1999, i forbindelse med forrige politireform og omorganisering fra 54 til 27 politidistrikter, står minst like sterkt i dag. Færre og større politidistrikt bør gi grunnlag for at de nye politidistriktene tilføres oppgaver som tidligere var særorganoppgaver, i tråd med utvalgets hovedprinsipp. De nye og større politidistriktene bør gis større muligheter enn tidligere til å prioritere viktige oppgaver, som for eksempel trafikksikkerhetsarbeid.
+
+Videre har teknologiutviklingen tatt nye skritt og både automatisert trafikkovervåknings- og kontrollutstyr, kombinert med bedre veianlegg, sensorteknologi, både på kjøretøy og i veibane, har bidratt til at dagens måte å drive politiets trafikksikkerhetsarbeid er under press og vil endres i fremtiden. Regjeringen forbereder også lovforslag om prøveordning for autonome kjøretøy. Alt dette kan medføre endringer i organisering av politiets trafikksikkerhetsarbeid.
+
+Utvalget tar på alvor de bekymringer som er fremmet, om at en eventuell overføring av UPs ressurser til politidistriktene vil medføre nedprioriteringer av politiets trafikksikkerhetsarbeid. Utvalget ser at trygghet i trafikken er helt avgjørende for et velfungerende samfunn, og at det er et område med stor potensiell faregrad. Derfor må dette området voktes nøye.
+
+Utvalget mener det ikke er gitt at trafikksikkerhetsarbeidet blir nedprioritert om ansvaret legges til politidistriktene. Trafikksikkerhet er et prioritert arbeid i politiet generelt og av Riksadvokaten i prioriteringsrundskrivene. Utvalget mener oppgaveløsningen innenfor trafikksikkerhetsområdet bør sees i sammenheng med annen oppgaveløsning av høyt prioriterte oppgaver i politiet.
+
+I en tid der krav til økt kostnadseffektivitet og trange budsjetter er fremtredende, vil en bedre utnyttelse av UP-ressursene være å legge ressursene til de tolv politidistriktene og gi politidistriktene ansvaret for trafikksikkerhetsarbeidet. Politidistriktene vil da kunne bruke ressursene helhetlig og også kunne benytte andre ressurser i politidistriktet til trafikksikkerhetsarbeid.
+
+UP dekker hele landet og UP-regionene er tilpasset den nye politidistriktstrukturen. Det er naturlig at regionressursene fordeles på politidistriktene. Utvalget mener at landets politimestre selv bør ha full kontroll med polititjenesten i sitt distrikt og at en enhetlig samordning av ressursene innenfor distriktsgrensene vil være mest effektivt utnyttelse av de samlede ressurser. Det er også reist spørsmål om hvor mye UP-ressursene betyr, da mannskapene har normal arbeidsuke og bilene derved ikke anvendes optimalt.
+
+Utvalget mener derfor, etter en helhetsvurdering, at de beste grunner taler for å overføre trafikkoppgaver fra UP til politidistriktene. Utvalget mener at en avgjørende forutsetning vil være at dagens mål og resultatkrav blir videreført. Utvalget ser også behovet for å styrke det strategiske arbeidet med trafikksikkerhet og vil derfor anbefale at dette blir forankret i POD. Utvalget mener dette vil sikre at dagens gode arbeid med trafikksikkerhet vil bli styrket og at effektivitetsgevinsten oppnås ved å styrke politidistriktenes samlede politikraft.
+
+Uavhengig av UPs fremtid vil utvalget peke på noen forhold som uansett bør adresseres.
+
+*<u>Etterretning og analyse</u>*
+
+Utvalget mener at trafikksikkerhetsarbeidet i politiet i større grad bør inngå i politiets helhetlige etterretnings- og analysegrunnlag. På denne måten kan politiet oppnå et bedre kunnskapsbasert grunnlag enn i dag og få en vekting og prioritet som samstemmer bedre med andre alvorlige kriminalitetstyper og oppgaveløsning innenfor politiets rammer og distriktets lokale utfordringer. I tillegg må trafikksikkerhetsarbeidet ses i større sammenheng med andre aktører, og det er behov for å utnytte mulighetene i den teknologiske og digitale utviklingen bedre.
+
+*<u>Innbeordring</u>*
+
+I den grad UP blir videreført, mener utvalget det er uheldig med en ordning med innbeordring som ikke er forankret i en kompetansestrategi. Dette fremstår som ineffektivt og kan ha uheldige effekter for prioriteringer både i UP og i politidistriktene.
+
+*<u>Ansvars- og styringslinjer</u>*
+
+Utvalget mener at trafikktjenesten i for liten grad har en strategisk forankring i POD. Uavhengig av fremtidig organisering av trafikktjenesten i politiet mener utvalget at POD bør vurdere et tydeligere og mer robust organisatorisk uttrykk for den nasjonale trafikktjenesten, eksempelvis ved et nasjonalt strategisk koordineringspunkt som de øvrige nordiske landene har.
+
+*<u>Teknologisk utvikling</u>*
+
+På bakgrunn av et fortsatt høyt antall alvorlig skadde og drepte i trafikken per år bør det å forebygge alvorlige trafikkulykker fortsatt prioriteres høyt i politiet. Utvalget mener det i nær fremtid fortsatt vil være behov for stor oppmerksomhet rettet mot føreratferd, men teknologiutviklingen vil gradvis redusere dette behovet. Utvalget mener likevel at den teknologiske utviklingen uansett går i retning av endringer i kontrollarbeidet. Dette vil innebære blant annet mer kontroll av føreratferd gjennom ulike kontroll- og varslingssystem i kjøretøyet (ulike sensorsystem) og ulike løsninger av teknologisk og fysisk art i infrastrukturen. For eksempel kan sensorsystemer, videreutvikling av satellitt- og navigasjonssystem, samarbeid mellom bilprodusent og offentlige trafikksikkerhetsorganer om ulike kommunikasjonssystemer føre til redusert ulykkesrisiko. I tillegg skjer det en automatisering og en digitalisering av ulike instrumenter og kontrollverktøy som benyttes til trafikksikkerhetsarbeid både av UP og Statens vegvesen, med blant annet trådløse overføringer av innsamlede og registrerte data. Samtidig kan det oppstå nye sårbarheter knyttet til drift av datasystemer, digitalisering og trådløs kommunikasjon. Det må uansett adresseres.
+
+*<u>Kontaktpunkt/nasjonal spisskompetanse</u>*
+
+Utvalget ser det som viktig at politiet har både et nasjonalt og internasjonalt koordinerings- og kontaktpunkt innenfor trafikksikkerhetsarbeidet. I dagens struktur deler UP og Politidirektoratet ansvaret for det internasjonale kontaktpunktet. Utvalget mener at det internasjonale kontaktpunktet bør ses i sammenheng med det nasjonale koordineringspunktet.
+
+*<u>Politireserven</u>*
+
+Utvalget mener at Politireserven ikke bør administreres av UP. Politireserven er en beredskapsressurs, som skal benyttes når vanlige politiressurser er «oppbrukt». Utvalget har observert ulike oppfatninger om hvorvidt Politireserven bør bestå, eller om denne ressursen bør nedlegges fordi den blir lite brukt. Dersom den skal opprettholdes og vedlikeholdes, krever dette ressurser og en organisatorisk tilknytning. Her er flere løsninger mulig, eksempelvis å spre ressursene ut til politidistriktene eller til ett dedikert distrikt. En annen modell er å legge ressursen til Nasjonale beredskapsressurser i forbindelse med opprettelsen av det nye beredskapssenteret. Beredskapssenteret vil da få ansvaret for å administrere fag, trening og utstyr for å holde Politireserven operativ. Til tross for at Nasjonale beredskapsressurser og Politireserven kompetansemessig befinner seg på helt motsatte sider av skalaen og ikke vil ha et naturlig samvirke i oppdrag, kan beredskapssenteret likevel være aktuelt grunnet egnede fasiliteter og daglig oppmerksomhet på beredskapsfaget.
+
+1.  **<u>Politiets utlendingsenhet</u>**
+
+    1.  **<u>Generelt</u>**
+
+Politiets utlendingsenhet (PU) er politiets hovedaktør på migrasjonsfeltet. PU både bistår og får bistand fra politidistriktene for å gjennomføre tvangsmessige returer og gjennomfører kompetansehevingstiltak innenfor utlendingsforvaltningen i politidistriktene.
+
+PUs oppgaver innenfor utlendingsforvaltningen reguleres av utlendingsloven og omfatter politigjøremål[^319] som understøtter politiets evne til å løse sitt samfunnsoppdrag. Instruks for PU datert 1.6.2005 regulerer særorganets ansvarsområde, med oppgaver og begrensninger.[^320]
+
+Inntil år 2000 var politiets arbeid innenfor utlendingsforvaltningen fordelt på flere politidistrikt. I juli 2000 ble Oslo politidistrikt tildelt nasjonalt ansvar for koordinering av alle uttransporteringer i utlendingssaker og midlertidig ansvar for politiets behandling av alle vedtak i asylsaker, herunder totalansvar for ankomstregistrering av alle asylsøkere. I forkant av beslutningen i 2003 om å etablere et eget særorgan med nasjonalt ansvar for politiets arbeid med asyl- og utlendingssaker var ulike modeller for organisering og fordeling av ansvar i politiet prøvd ut.[^321] I juni 2003 opprettet POD prosjekt AsyTrans, som også var en driftsorganisasjon som overtok det landsdekkende ansvaret for registrering og uttransportering av utlendinger, i tillegg til administrative og operative funksjoner. Prosjekt AsyTrans ble avsluttet ved etableringen av PU i 2004. PU er dermed et ungt særorgan i norsk politi.
+
+PU ble etablert for å effektivisere, styrke og samordne politiets innsats på utlendingsfeltet. Etableringen av PU kom som en direkte følge av den store økningen i antall asylsøkere til Norge og behovet for å effektivisere asylprosessen knyttet til politiets oppgaver på feltet. Kapasiteten på saksbehandling hos Utlendingsdirektoratet (UDI) var blitt bedret, mens det var manglende kapasitet hos politiet til ID-fastsettelse og effektuering av de negative vedtakene. Dette førte til at mange søkere med avslag ble sittende lenge i mottak.
+
+Som følge av at andelen søkere som kom med reisedokumenter gikk ned, ble politiets informasjonsinnhenting i registreringsfasen og videre arbeid med ID mer utfordrende og kompleks, og tidsbruk knyttet til identitetsfastsettelse økte. Samtidig med høye asylankomster fikk en økende andel av søkerne avslag, som igjen førte til at antallet uttransporteringsoppdrag for politiet steg.
+
+Økningen medførte at politidistriktenes oppgaver relatert til asyl- og utlendingssaker kom i konflikt med ressurser som knyttet seg til politiets øvrige saker. Utlendingssakene fikk her ikke tilstrekkelig prioritet.
+
+1.  **<u>Oppgaver og ansvar</u>**
+
+PUs ansvar og oppgaver er gitt av Politidirektoratet (POD) gjennom *Instruks for Politiets utlendingsenhet*[^322] samt gjennom årlige disponeringsskriv.
+
+Gjennom nevnte instruks samt *Hovedinstruks for politiets utlendingsinternat* og *instruks for gjennomføring av uttransporter* har POD definert særorganets oppgaver og ansvarsområder.
+
+Kjerneoppgavene er definert som
+
+- <u>registrering av asylsøkere</u>
+
+- <u>fastsetting av asylsøkernes identitet og opprinnelsesland</u>
+
+- <u>iverksettelse, koordinering og gjennomføring av uttransport av personer uten lovlig opphold som har oversittet utreisefristen</u>
+
+- <u>administrasjon, ledelse og drift av Politiets utlendingsinternat på Trandum</u>
+
+I tillegg til kjerneoppgavene har PU følgende oppgaver:
+
+- <u>foreta undersøkelse av asylsøkernes reiseruter</u>
+
+- <u>informere rett politimyndighet om personer som antas å tilhøre kriminelle nettverk, eller som antas å ha begått alvorlige straffbare handlinger, som terrorhandlinger og krigsforbrytelser, samt personer som utgjør en mulig trussel mot rikets sikkerhet</u>
+
+- <u>avdekke og videreformidle informasjon om mulige ofre for menneskehandel, menneskesmugling samt tvangsekteskap/barneekteskap blant mindreårige asylsøkere</u>
+
+- <u>innhente og bearbeide informasjon om illegal innvandring, herunder ulovlig opphold</u>
+
+- <u>bistå politidistriktene med politikontroll og identitetsundersøkelser i utlendingssaker</u>
+
+- <u>internasjonalt politisamarbeid på utlendingsfeltet</u>
+
+- <u>være faglig foresatt for spesialutsendingene for utlendingssaker fra politiet, forvalte kommunikasjon med spesialutsendingene i enkeltsak innenfor PUs ansvarsområde</u>
+
+- <u>bistå politidistriktene ved behov for kontakt med utenlandske myndigheter knyttet til ID-fastsettelse eller aksept for innreise, med mindre annen avtale er gjort i enkeltsak</u>
+
+Som en del av asylsaksporteføljen dekker PU de oppgaver som knytter seg til Norges forpliktelser etter Dublin-avtalen, et samarbeid mellom EU-landene, Island, Sveits, Liechtenstein og Norge. Et annet sentralt område for PU er ivaretakelse av internasjonale forpliktelser og samarbeid på returområdet, herunder oppgaver og samarbeid i Frontex-regi. PUs er også blitt tildelt nye oppgaver relatert til uttak av overføringsflyktninger, relokalisering i EU og soningsoverføring (både til og fra Norge).
+
+1.  **<u> </u>**
+
+Dublin-avtalen regulerer blant annet hvilket land innen Schengen-samarbeidet som har ansvaret for å behandle en persons søknad om asyl. Hensikten er å sikre at en asylsøker får sin søknad behandlet. Samtidig skal det sikre at ingen reiser fra land til land og søker om asyl i flere Schengen-land samtidig.
+
+**<u>\[Boks slutt\]</u>**
+
+PU er politiets kompetansesenter på utlendingsfeltet. Instruksen tilsier at PUs oppgaver knyttet til asyl- og utlendingssaker er begrenset til forvaltnings- og kontrolloppgaver. Rammene for PUs virksomhet og myndighetsutøvelse er dermed som utgangspunkt styrt av forvaltningsrettslige prinsipper og regelverk. PUs sentrale regelverk for saksbehandlingen er utlendingsloven med tilhørende forskrift.[^323]
+
+1.  **<u> </u>**
+
+Frontex er EUs yttergrensebyrå. Norge deltar med mannskap i nasjonal ekspertpool for grensekontroll, som på kort varsel kan rykke ut i ekstraordinære situasjoner ved Schengens yttergrense. PU deltar på felles Frontex-chartere og i Frontex’ analysenettverk.
+
+**<u>\[Boks slutt\]</u>**
+
+PU har etter sitt mandat ikke påtale- eller etterforskningskompetanse og behandler derfor ikke selv straffesaker. Dersom PU gjennom sin oppgaveutførelse avdekker straffbare forhold, skal disse anmeldes til lokalt politidistrikt. Politiets ansvar for kriminalitetsbekjempelse følger av politiloven.
+
+Ansvarsdelingen mellom PU og politidistriktene er nærmere regulert i en rekke rundskriv fra Politidirektoratet.[^324] Det fremgår her at registrering av og identitetsfastsettelse i asylsaker ligger til PU, mens politidistriktene har ansvar for øvrige saker på utlendingsfeltet, som behandling av søknad om arbeids- og oppholdstillatelse, EØS-registreringer, sjekk av reisedokumenter og behandling av søknad om statsborgerskap. Fremleggelse av identitetsdokument er en forutsetning for at søknaden skal behandles.
+
+Politidistriktene skal forberede og gjennomføre saksbehandling i saker der utlendingen ikke har lovlig opphold, og i bort- og utvisningssakene frem til uttransportering, mens PU har ansvar for å forberede og opprette utvisningssak i egne saker ved brudd på utlendingsloven eller dersom utreisefrist oversittes.[^325] Ansvar for å iverksette bort- og utvisningssaker og forberede eventuelle uttransporter er delt mellom politidistriktene og PU, mens ansvaret for å koordinere og kvalitetssikre uttransporteringene ligger til PU. En rekke uttransporter PU har ansvar for, blir likevel forberedt og gjennomført med bistand av personell fra politidistriktene, mens en rekke uttransporter politidistriktene har ansvar for, gjennomføres med bistand fra PU.
+
+1.  **<u>Noen sentrale utviklingstrekk i PUs historie:</u>**
+
+<u>1988 Utlendingsavdelingen i Justisdepartementet opprettes, dels som overordnet instans for politiet på utlendingsfeltet, dels for å klagebehandle avgjørelser på utlendingsfeltet.</u>
+
+<u>Utlendingsloven vedtas. Utlendingsdirektoratet (UDI) blir opprettet og blir underlagt Kommunal- og regionaldepartementet (KRD). Ansvar for behandling av oppholdstillatelser blir overført fra Justisdepartementet til UDI. Justisdepartementet har instruksjonsmyndighet via rundskriv overfor politiet og utenriksstasjonene og er ankeinstans for utlendingssaker.</u>
+
+<u>1990 Seks store politidistrikt får ansvar for avhør (ankomstregistrering og asylintervju) av asylsøkere. Asker og Bærum politidistrikt får nasjonalt koordineringsansvar for uttransportering, mens Oslo får ansvar for retur av egne søkere.</u>
+
+<u>1992 Utlendingsavdelingen ved Kripos opprettes for å bistå politidistriktene i etterforskning av saker om ulovlig innvandring og opphold samt være kontaktpunkt for internasjonale henvendelser i utlendingssaker.</u>
+
+<u>2000 Utlendingsavdelingen i Justisdepartementet legges ned, og ansvaret overflyttes til Kommunal- og regionaldepartementet (KRD). Oslo politidistrikt ved Utlendingsseksjonen får nasjonalt ansvar for uttransportering i utlendingssaker og midlertidig ansvar for politiets behandling av alle vedtak i asylsaker samt ansvar for ankomstregistrering av alle asylsøkere.</u>

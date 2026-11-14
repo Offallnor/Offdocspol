@@ -1,1280 +1,248 @@
-# NOU 2017: 9, del 8 av 25 (side 88–100)
+# NOU 2017: 9, del 8 av 24
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2017/8bd6d95e-nou-2017-9.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2017-9/id2545750/
 - Original-PDF: https://www.regjeringen.no/contentassets/1a1e793002264d9cb5b940e673622984/no/pdfs/nou201720170009000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 15 tabeller, 42 figurer, 158 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 88]
-
-88
-
-NOU 2017: 9
-
-Kapittel 6
-
-Politi og bevæpning
-
-Utvalget har i tillegg sett på enkelte andre
-trekk ved samfunnsutviklingen, herunder omfang
-av psykiske lidelser og politiets arbeid med psykisk syke. Det er også undersøkt om det i Norge
-kan sies å forekomme såkalte «parallellsamfunn»
-og hva som hemmer eller fremmer utvikling av
-slike delsamfunn.
-Det er også sett særlig til lovbruddskategorien
-vold mot offentlig tjenesteperson, hvor det er sett til
-anmeldelsesstatistikken fra SSB. Videre har utvalget gjennomgått et utvalg slike saker fra Lovdata
-og det er gjort en egen analyse av levekårsundersøkelsen om arbeidsmiljø til SSB, på feltet vold og
-trusler i arbeidslivet.
-Del to av kapittelet omhandler terrorisme og
-trusselbildet. Fremstillingen bygger på forskning
-fra en rekke forskningsmiljøer og forskere primært tilknyttet Forsvarets forskningsinstitutt,
-Politihøgskolen, Universitetet i Stavanger og Universitetet i Bergen, i tillegg til PST og Europol.
-Det er redegjort for de lange historiske utviklingstrekkene mer generelt, i tillegg til utviklingstrekk
-innen spesielle terrorformer. Det er utforsket om,
-og eventuelt hvordan, ulike former for bevæpning
-av politiet kan spille en rolle i forbindelse med terrorhendelser. Til slutt i kapittelet er det redegjort
-noe for befolkningens forventninger til, og forståelse av, politiets håndtering av terrorproblematikk.
-Det er en viss variasjon i kvaliteten på datagrunnlaget for dette kapittelet, noe som vil vises i
-omtalen av enkelte kilder. Generelt legges det
-mest vekt på forskning og på offisiell statistikk fra
-SSB. Kapittelet bruker også datakilder fra politiet,
-noe som er forbundet med større usikkerhet.
-Usikkerhet vil omtales der det anses relevant.
-
-6.2
-
-Kriminalitetsfallet i den vestlige
-verden
-
-Den registrerte kriminaliteten har vist en markant
-nedgang siden midten av 1990-tallet i store deler
-av den vestlige verden. Utviklingen har vært
-dokumentert for USAs del (Zimring, 2006), men
-også for store deler av vesten for øvrig (Farrell,
-Tilley & Tseloni, 2014, Tseloni, Mailley, Farrel &
-Tilley, 2010). De siste 20 årene har forekomsten
-av mange vanlige lovbruddsformer blitt mer enn
-halvert i Nord Amerika, Europa og Australasia2
-(Farrell et.al, 2014). Dette er en utvikling få hadde
-forutsett, og som også har overrasket fagfolk og
-forskere (Farrell et.al, 2014, s. 422). Nedgangen
-2
-
-Australasia refererer her til landene Australia, New Zealand
-og New Guinea
-
-for ulike lovbruddskategorier, som tyverier, vold
-og innbrudd har vært dramatisk, og også det
-totale omfanget av registrert kriminalitet har vist
-kraftig nedgang. Farrell et.al (2014) beskriver en
-utvikling som har vist en markant og langvarig
-nedgang, og reduksjonen ser nokså lik ut på tvers
-av landegrenser. Utviklingen fremstår overraskende fordi nedgangen markerer et brudd med
-flere tiår hvor kriminalitetsratene hadde vært
-økende. Det er altså snakk om en utvikling som
-har snudd.
-De nordiske landene skiller seg fra mange
-andre land på sentrale samfunnsområder, og det
-er derfor interessant å se at trendene også gjør
-seg gjeldende her. Det gjelder blant annet tall for
-dødelig vold, som viser at
-Like most other developed countries, the Nordic countries experienced a period of increased
-lethal violence from the early 1960s to the mid1990s. Since then, homicide rates have been
-declining everywhere in a roughly parallel way
-(Lappi-Seppälä & Tonry, 2011, s. 11).
-Lappi-Seppälä og Tonry (2011) beskriver også
-hvordan denne drapsutviklingen i all hovedsak
-sammenfaller med mange andre lovbrudd; stigning fra 1960-tallet og frem til midten av 1990-tallet, og reduksjon etter dette.
-Nilsson, Estrada og Bäckman (2016) viser til
-at denne trenden også gjelder for Sverige, men at
-den varierer mellom ulike lovbrudd og ulike sosioøkonomiske lag av befolkningen. I all hovedsak
-er det sammenfall mellom deres beskrivelse av
-trendene i Sverige, og denne utredningens funn
-hva gjelder anmeldt og selvrapportert kriminalitet
-i Norge. I det følgende vil vi se på om, og eventuelt
-hvordan, det norske kriminalitetsbildet sammenfaller med disse trendene vi har sett i både Vesten
-og Skandinavia.
-
-6.3
-
-Det norske kriminalitetsbildet
-
-I sin vurdering av fremtidige bevæpningsmodeller
-skal utvalget se hen til kriminalitets- og samfunnsutviklingen. Utredningen vil vise at det har vært
-nedgang også i kriminaliteten i Norge.
-Utvalget har sett nærmere på enkelte samfunnsfenomener som anses å ha stor relevans for
-utvalgets arbeid. Dette gjelder primært utviklingen i psykiatri, spørsmålet om parallellsamfunn,
-organisert kriminalitet og vold og trusler i
-arbeidslivet. Disse vil vies egne underkapitler.
-Dette kapittelet vil legge størst vekt på lovbrudd
-
-[Side 89]
-
-NOU 2017: 9
-Politi og bevæpning
-
-som potensielt har relevans for bevæpningsspørsmålet, og veksten i for eksempel IT-relatert kriminalitet (Sætre et.al, 2015) og lignende vil dermed
-sees bort fra. Her skal vi først se på anmeldelsesstatistikken, før vi så ser på offerundersøkelser og
-selvrapporteringsundersøkelser.
-
-6.3.1 Utviklingen i anmeldte lovbrudd
-Det første vi skal se på som gir oss indikasjoner på
-eventuelle endringer i kriminalitetsbildet er tall
-for anmeldte lovbrudd. Difi viser til tall fra SSB og
-til at det har vært «en jevn nedgang i den registrerte kriminaliteten de senere årene» (Difi, 2016,
-s. 15). De nyeste tallene fra SSB omfatter også tall
-fra 2016, SSB oppsummerer:
-I 2016 ble det anmeldt 336 500 lovbrudd. Det er
-4,3 prosent færre enn året før, og hele 9,6 prosent færre enn i 2014. Tar vi høyde for befolkningsveksten, er nivået av anmeldte lovbrudd i
-2016 det klart laveste som er registrert i de 24
-årene vi nå har hatt med denne typen statistikk
-(SSB, 6.3.2017).
-Statistikken viser blant annet at den nedadgående
-trenden i vinningslovbrudd har fortsatt, og antallet alvorlige voldslovbrudd i all hovedsak er stabilt
-og at tallene for vold mot offentlig tjenestemann
-gikk fra en topp i 2015, for så å ha gått noe ned, til
-samme nivå som i 2014.
-Vi vil her se på utviklingen over et lengre tidsrom og går tilbake til 1993.
-SSBs kriminalstatistikk omhandler både lovbrudd anmeldt av politi og publikum (anmeldelsesstatistikken), lovbrudd etterforsket av politiet
-(med og uten siktelser/antatte gjerningspersoner), lovbrudd som blir pådømt (straffereaksjoner) og lovbrudd som leder til fengselsstraff
-(omtalt som fengslinger i SSBs statistikker). Den
-følgende fremstillingen vil belyse anmeldelsesstatistikken. Dette er den statistikken som i størst
-grad forteller oss om hvilke kriminelle handlinger
-som faktisk begås, sammenlignet med statistikk
-for etterforskede lovbrudd, straffereaksjoner eller
-fengslinger. De øvrige statistikkene er primært
-egnet til å gi et bilde av hva de ulike kontrollinstansene i samfunnet arbeider med og prioriteter.
-Også anmeldelsesstatistikken påvirkes, blant
-annet av prioriteringer i ulike instanser, og gir
-ikke nødvendigvis et godt bilde av den faktiske kriminaliteten; altså helheten av de lovbruddene som
-finner sted i samfunnet, inklusive de som aldri
-oppdages eller anmeldes. Mange lovbrudd anmeldes som følge av politiets og andre instansers kon-
-
-89
-
-Kapittel 6
-
-trollinnsats; økt innsats fra politiet side vil gi flere
-anmeldelser. Et eksempel på slike lovbrudd, og en
-særlig fremtredende kategori er narkotikalovbrudd. Slike lovbrudd betegnes ofte som offerløse
-lovbrudd, som sjelden anmeldes av publikum. De
-fleste anmeldelsene kommer fra politi og tollmyndigheter, og nivået av antall saker vil preges
-av hvorvidt disse myndighetenes prioriteringer.
-Dette gjelder også for en del andre lovbrudd, som
-enkelte former for økonomisk kriminalitet, der
-skattemyndigheter, NAV, Finanstilsynet etc. vil
-være sentrale anmeldere. Dette betyr at endringer
-i antall anmeldte saker i kriminalstatistikken ikke
-nødvendigvis gir noe godt bilde av hvorvidt det
-skjer flere lovbrudd eller ikke, men kan være
-uttrykk for endringer i kontrollen med lovbruddene. For grovere vinnings- og voldslovbrudd rettet mot allmennheten er det mer sannsynlig at
-endringer speiler reelle trender.
-Lovbruddene i statistikken deles inn i to
-hovedkategorier: forbrytelser og forseelser. I den
-nye straffeloven, som trådde i kraft høsten 2015,
-er skillet mellom forbrytelser og forseelser opphevet. Tallene i vår fremstilling påvirkes ikke av den
-endringen, ettersom de kun går frem til 2014. I det
-følgende vil fokus ligge på forbrytelser, som noe
-forenklet omhandler grovere lovbrudd enn det
-forseelsene gjør, ettersom det legges til grunn at
-de grovere lovbruddene er mer relevante for
-spørsmålet om bevæpning.
-Figur 6.1 viser den norske utviklingen i totalt
-antall anmeldte forbrytelser fra 1993 til 2014, som
-er det siste året vi har tall fra.
-Det overordnede bildet viser altså at det totale
-antall anmeldte forbrytelser i Norge steg fra 1993,
-og hadde en viss oppgang frem til 2002, for deretter å vise en litt klarere nedgang frem til 2014.
-Dette er et ikke ubetydelig fall, og det speiler de
-internasjonale trendene som tidligere er omtalt.
-Antall anmeldte forbrytelser er nesten nøyaktig
-det samme i 2014 som i 1993.
-I den samme perioden som antallet registrerte
-lovbrudd har gått ned, har befolkningen økt fra
-4,3 millioner til 5,1 millioner. Antall ansatte i politiet har i samme periode økt fra ca. 8600 til ca.
-15 000.3 Dette er to faktorer som kunne tenkes å
-ha påvirkning på antall forbrytelser, eller på oppdagelsen av slike lovbrudd.
-Kun basert på den totale mengden anmeldte
-forbrytelser er det her ikke grunnlag for å si at
-3
-
-Pr 31.12.1992 var det 8617 ansatte i politiet (Politidirektoratet, 2008). Pr 31.12.2014 var tallet 15 017 (https://
-www.politi.no/vedlegg/lokale_vedlegg/politidirektoratet/
-Vedlegg_2868.pdf).
-
-[Side 90]
-
-90
-
-NOU 2017: 9
-
-Kapittel 6
-
-Politi og bevæpning
-
-350 000
-300 000
-250 000
-200 000
-150 000
-100 000
-50 000
-0
-1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014
-Lovbrudd anmeldt
-
-Figur 6.1 Utviklingen i antall anmeldte forbrytelser totalt. 1993–2014.
-Kilde: SSB
-
-politiet har mer, eller vanskeligere arbeid i dag. Vi
-kan heller ikke hevde det motsatte. Å se kun på
-totalt antall anmeldelser er ikke et tilstrekkelig
-grunnlag for å konkludere hva gjelder arbeidsmengde og kompleksitet for politiet. Selv om ikke
-utviklingen i totalantall skulle tilsi noen endring,
-kan sammensetningen av de ulike formene for lovbrudd ha gitt politiet mer kompliserte og alvorlige
-saker å forholde seg til. I denne sammenheng er
-det relevant å se særlig på forbrytelser som potensielt oftere kan medføre behov for bevæpning.
-
-6.3.2
-
-Utviklingen i utvalgte, alvorlige
-lovbrudd
-
-De fleste lovbruddskategorier har svært liten,
-eller ingen relevans for spørsmålet om bevæpningsmodell for politiet. Her er det derfor sett på
-utviklingen i antall anmeldte lovbrudd som kan
-anses i større grad å ha relevans for bevæpningsspørsmålet. Det er her valgt ut flere av de groveste voldslovbruddene, de groveste narkotikaforbrytelsene og noen spesielle lovbrudd som antagelig oftere kan medføre akutte, truende situasjoner for politiet: Vold mot offentlig tjenestemann,
-utpressing og opprør og oppløp.4
-4
-
-Lovbruddskategorien «opprør og oppløp» er en liten brukt
-kategori og rommer §135, 136-138 i Straffeloven av 1902.
-Det svært begrensede omfanget er i seg selv relevant,
-ettersom det tyder på at det er lite kriminalitet av denne formen i samfunnet.
-
-Ser man på figur 6.2 fremgår det at i perioden
-1993–2014 har det også for de fleste grove forhold
-vært stabilitet eller betydelig nedgang i antall
-anmeldelser. Vi vil her se på de mest alvorlige lovbruddsformene. Antall drap kan anses å ha vært
-relativt stabilt, men med en viss nedgang. I begynnelsen av perioden (1993–1995) var gjennomsnittet 38 drepte per år, mens de nyeste tallene, for
-årene 2012–2014 viser et gjennomsnitt på 34
-drepte per år. Et ekstremt unntak her er drapene i
-Oslo og på Utøya i forbindelse med terroraksjonene 22. juli 2011. Ser vi på drapsforsøk, har antallet i perioden sjelden har vært over 60 eller under
-40 per år, og kan også anses å være stabilt, men
-med variasjoner mellom enkeltår. For grove
-legemsbeskadigelser ser vi at antall anmeldelser har
-hatt en klar nedgang; fra et gjennomsnitt på rundt
-40 tilfeller per år i begynnelsen av perioden, til 8
-tilfeller i året i perioden 2012–2014. Lovbruddet
-tvang og frihetsberøvelse har hatt noe mer variabel
-utvikling. Her ser vi en markant økning frem til
-årtusenskiftet, etterfulgt av stabile tall på mellom
-200 og 250 tilfeller i året. Et unntak fra disse trendene ser vi når det gjelder grov mishandling i
-familieforhold, hvor det har vært en markant
-økning det siste tiåret, men her er antallet så lavt
-at det er vanskelig å peke på noen stabil trend. Det
-er også grunn til å anta også at anmeldelsestilbøyeligheten vil variere sterkt for slike lovbrudd.
-Både offentlig oppmerksomhet, oppmerksomhet
-fra politiet og for eksempel innføringen av offent-
-
-[Side 91]
-
-91
-
-NOU 2017: 9
-Politi og bevæpning
-
-Kapittel 6
-
-1 800
-1 600
-1 400
-1 200
-1 000
-800
-600
-400
-200
-0
-1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014
-Lovbrudd anmeldt
-Vold mot offentlig tjenestemann
-
-Opprør og oppløp mv.
-
-Grov narkotikaforbrytelse (straffeloven)
-
-Grov mishandling i familieforhold
-
-Tvang/frihetsberøvelse
-
-Grov legemsbeskadigelse
-
-Drapsforsøk
-
-Drap
-
-Utpressing
-
-Grovt ran
-
-Figur 6.2 Utviklingen 1993–2014 i et utvalg forbrytelser med mulig relevans for bevæpningsmodell for
-politiet. Antall.
-Kilde: SSB
-
-lig påtale kan innvirke på økningen i antall
-anmeldte lovbrudd i denne kategorien.
-De overnevnte kriminalitetsformene er valgt
-ut fordi de har høyere aktualitet for bevæpningsspørsmålet. En økning i disse kategoriene hadde
-kunnet tilsi en endret oppgavemengde, eller forverret innhold i oppgavene som tilfaller politiet.
-Dette har vi ikke funnet. For mange av de groveste kriminalitetsformene med potensiell aktualitet for bevæpningsspørsmålet viser altså de fleste
-kategoriene nedgang eller stabilitet. Det er to unntak her. Grove narkotikaforbrytelser og vold mot
-offentlig tjenestemann viser en betydelig økning
-både relativt og i absolutte tall. De to kategoriene
-vil behandles videre.
-Grove narkotikaforbrytelser har i perioden
-1993–2014 økt fra rundt 400 til rundt 1200 saker
-per år. Vold mot offentlig tjenestemann fra drøyt
-600 saker i året til drøyt 1600 saker årlig. Begge
-lovbruddene karakteriseres av å være særlig kon-
-
-trolldrevne, det vil si at antallet anmeldte saker vil
-påvirkes av endringer i politiets (og tollvesenets)
-prioriteringer av arbeidsområder og deres anmeldelsestilbøyelighet. Samtidig kan tallene også
-påvirkes dersom det har skjedd en faktisk økning
-i antallet saker. Utviklingen i antall grove narkotikaforbrytelser har imidlertid vært nokså stabil fra
-2002 til 2014 hvis man ser bort fra bevegelser i
-enkeltår. Det er derfor grunn til å se nærmere på
-kategorien vold mot offentlig tjenestemann. Dette
-gjøres i punkt 6.7.
-
-6.3.3 Utviklingen i utsatthet for kriminalitet
-SSB har siden 1983 utført offerundersøkelser.
-Disse er godt egnet for å supplere kunnskapen fra
-anmeldelsesstatistikken, ettersom de fanger opp
-utsatthet også der ingen går til anmeldelse. Det vil
-her sees etter hvorvidt også offerundersøkelsene
-indikerer at kriminaliteten i samfunnet faktisk har
-
-[Side 92]
-
-92
-
-NOU 2017: 9
-
-Kapittel 6
-
-Politi og bevæpning
-
-6
-5
-4
-3
-2
-1
-0
-Utsatthet
-og uro for
-lovbrudd
-
-Utsatthet
-og uro for
-lovbrudd
-
-Utsatthet
-og uro for
-lovbrudd
-
-Utsatthet
-og uro for
-lovbrudd
-
-Utsatthet
-og uro for
-lovbrudd
-
-Utsatthet
-og uro for
-lovbrudd
-
-Utsatthet
-og uro for
-lovbrudd
-
-Utsatthet
-og uro for
-lovbrudd
-
-Utsatthet
-og uro for
-lovbrudd
-
-Utsatthet
-og uro for
-lovbrudd
-
-1983
-
-1987
-
-1991
-
-1995
-
-1997
-
-2001
-
-2004
-
-2007
-
-2012
-
-2015
-
-Utsatt for vold eller trussel om vold siste 12 mnd, i alt
-Utsatt for vold som førte til synlige merker eller kroppsskade siste 12 mnd
-
-Figur 6.3 Prosentandelen utsatte for voldslovbrudd det siste året. 1983–2015.
-Kilde: SSB levekårsundersøkelse
-
-blitt redusert. I undersøkelsene spørres representative utvalg av den norske befolkning om deres
-utsatthet for lovbrudd og hva lovbruddene har
-medført av skader. De gir også god indikasjon på
-trygghetsnivået i samfunnet, ettersom det spørres
-om hvorvidt folk opplever angst og uro for lovbrudd. SSBs offerundersøkelse gjentas med jevne
-mellomrom, som regel hvert tredje år.
-Figur 6.3 viser hvorvidt respondentene har
-opplevd vold og trussel om vold det siste året
-(sort søyle), og om volden medførte synlige merker eller kroppsskade (gul søyle). Figuren viser at
-de fleste volds- og trusselhendelsene ikke gir synlige merker eller kroppsskade.
-Når det gjelder omfanget ser vi at utsattheten
-totalt økte noe frem til 1997, var deretter noenlunde stabil frem til 2007, før den gikk nedover
-frem til 2015. Dette gir et bilde som sammenfaller
-delvis med anmeldelsesstatistikken. Når det gjelder de sakene som nok er de groveste, hvor det
-ble merker eller kroppsskade, ser vi ikke noe
-entydig eller signifikant bilde, gitt de små tallene.
-Skadene ved vold og trusler om vold kan selvfølgelig ikke bare måles som fysiske utslag. Frykt
-og psykiske plager kan også få stor innvirkning på
-folks liv. Redselen knyttet til en trussel- eller
-voldshandling som kunne ha gitt skade, kan gi
-langvarige utslag. Et av utslagene er at man blir
-urolig for vold eller trusler på det stedet man bor,
-og slik får innskrenket sin bevegelsesfrihet, eller
-generelt er engstelig når man er ute. Figur 6.4 gir
-en fremstilling av undersøkelsens funn hva gjel-
-
-der urolighet for vold fra 2001 til 2015. Også her
-er tendensen nedadgående, med ett unntak for
-2012, der vi ser en midlertidig oppgang. Det er
-rimelig å anta at dette skyldes terrorhandlingene i
-Oslo og på Utøya juli 2011.
-Vi finner også en nesten enda tydeligere tendens til nedgang i uroen for å bli utsatt for tyveri
-og skadeverk (se figur 6.5). Denne typen uro har
-en beskjeden kobling til bevæpningsproblematikken, men er med på å tydeliggjøre at allmenheten
-i synkende grad er opptatt av kriminalitet som noe
-man trenger å uroe seg for. Utviklingen i omfanget av denne formen for frykt finner sted i takt
-med utviklingen i anmeldelsesstatistikken i
-samme periode. Dette ble først inkludert i undersøkelsen fra 1997, så tall før dette finnes ikke.
-Denne tendensen kan leses som positiv når
-man tenker på befolkningen som helhet. Det kan
-være grunn til å nevne at det og kan være et
-utslag av at kriminalitet konsentreres hos personer og grupper som i mindre grad besvarer surveyer som levekårsundersøkelsen. Offerundersøkelser som denne vil ofte ikke nå de aller mest
-utsatte. I tillegg er svarandelen i innvandrerbefolkningen generelt klart lavere enn for befolkningen ellers, blant annet av den grunn gjennomfører
-SSB rundt hvert tiende år en egen levekårsundersøkelse rettet mot utvalgte innvandrergrupper.
-I en noe eldre levekårsundersøkelse, gjennomført blant innvandrere i 2005/2006, ble det stilt
-spørsmål om utsatthet for vold og trusler om vold
-
-[Side 93]
-
-93
-
-NOU 2017: 9
-Politi og bevæpning
-
-Kapittel 6
-
-9
-8
-7
-6
-5
-4
-3
-2
-1
-0
-2001
-
-2004
-
-2007
-
-2012
-
-2015
-
-Figur 6.4 Befolkningens urolighet for vold eller trusler 2001–2015. Prosent
-Kilde: SSB
-
-25
-
-20
-
-15
-
-10
-
-5
-
-0
-Utsatthet
-og uro for
-lovbrudd
-
-Utsatthet
-og uro for
-lovbrudd
-
-Utsatthet
-og uro for
-lovbrudd
-
-Utsatthet
-og uro for
-lovbrudd
-
-Utsatthet
-og uro for
-lovbrudd
-
-Utsatthet
-og uro for
-lovbrudd
-
-1997
-
-2001
-
-2004
-
-2007
-
-2012
-
-2015
-
-Figur 6.5 Andel av befolkningen som oppgir å være urolige for tyveri eller skadeverk 1997–2015.
-Prosent.
-Kilde: SSB
-
-med stort sett samme ordlyd som i de ordinære
-levekårsundersøkelsene. Innvandrergruppen som
-helhet er noe mindre utsatt for alvorlige trusler
-enn resten av befolkningen. Utsattheten for vold
-er imidlertid høyere, og forskjellen er særlig tydelig blant menn. Andelen utsatte er særlig høy
-blant dem med bakgrunn fra Iran, Irak og Chile
-(Blom og Henriksen, 2008).
-
-6.3.4
-
-Utviklingen i selvrapportert
-kriminalitet
-Som et supplement til den registrerte kriminaliteten og til offerundersøkelser er det relevant å se
-til undersøkelser hvor respondentene selv oppgir
-om de har begått kriminelle handlinger. De dataene som foreligger på dette feltet, og som vil rede-
-
-[Side 94]
-
-94
-
-NOU 2017: 9
-
-Kapittel 6
-
-Politi og bevæpning
-
-8
-
-Med vilje ødelagt eller knust vinduer etc.
-6
-7
-Tatt med deg varer fra butikk uten å betale
-7
-4
-
-Sprayet eller tagget ulovlig på vegger,
-bygninger, tog, buss e.l.
-
-3
-2
-
-Truet til deg penger eller ting
-
-Vært i slosskamp hvor du
-har brukt våpen (f.eks. kniv)
-
-Ungdomstrinnet
-Videregående
-
-1
-1
-1
-1
-
-Brutt deg inn for å stjele noe
-
-1
-
-Figur 6.6 Prosentandelen av norske ungdommer som oppgir å ha begått ulike handlinger, etter
-skoletrinn.
-Kilde: Ungdata, 2016
-
-gjøres for her, er hentet fra NOVAs ungdataundersøkelse (Bakken, 2016).5 Vi har ikke tilsvarende
-tall for den voksne befolkningen. Selv om de lovbruddene som begås av ungdom sjelden er av en
-slik alvorlighetsgrad at de angår politibevæpning,
-er disse dataene med å gi et mer komplett kriminalitetsbilde, ettersom vi også her kan se etter
-trender og tendenser i kriminaliteten. Det kan
-også gi grunnlag for refleksjon om fremtidens kriminalitetsbilde.
-Ungdataundersøkelsen er landsomfattende og
-baserer seg på svar fra svært mange ungdommer
-– til sammen 190 000 respondenter i 2014, 2015 og
-2016. Undersøkelsen er rettet mot ungdom på
-grunnskolens ungdomstrinn eller i videregående
-skole. Figur 6.6 viser at det gjennomgående er de
-mindre alvorlige handlingene som preger denne
-gruppens lovbrudd.
-Like tydelig er det at en stor andel av lovbruddene ungdommene oppgir å ha begått er knyttet
-til bruk av IKT og at mange av lovbruddene er
-«allemannslovbrudd» som er irrelevante i forhold
-til utvalgets problemstilling (bevæpning av politiet) (se figur 6.7).
-Like tydelig er det at bildet er preget av nedgang – på to måter: For det første er det mange
-som slutter med kriminelle handlinger når de blir
-eldre. For det andre er det en tydelig nedgang i
-andelen ungdom som oppgir å ha begått lovbrudd, når en ser på utviklingen over tid.
-
-Dette indikerer at ungdom i dag er mer lovlydige enn tidligere. På den annen side ligger det her
-en klar feilkilde. Ungdom (og andre) kan svare på
-undersøkelser slik de forventer at det er vanlig
-eller populært å svare. Er det populært blant jevnaldrende å drikke mye og slåss i beruset tilstand, vil
-noen kanskje overdrive både alkoholinntaket og
-volden. Motsatt vil slike rapporteringer nedtones
-hvis man ikke regner det som sosialt akseptabelt
-blant jevnaldrende. Slik kan endringer i begge retninger bli forsterket i den statistiske rapporteringen. Sentralt er det at dataene stemmer overens
-med den øvrige kunnskapen som foreligger om
-utviklingen i kriminalitetstallene i samtiden.
-
-6.3.5 Organisert kriminalitet
-Kripos publiserer årlige trendrapporter, som er
-strategiske analyseprodukter om organisert og
-alvorlig kriminalitet. Rapportene baseres på data
-fra interne og eksterne samarbeidspartnere, herunder politidistriktene. Rapportene beskrives som
-et kunnskapsgrunnlag i bekjempelse av organisert og alvorlig kriminalitet.
-Utvalget har sett til trendrapporten for 2016
-(Kripos, 2015), samt fått presentert de viktigste
-momentene fra trendrapporten for 2017 (Kripos,
-16.11.2016). I tillegg har utvalget fått presentert
-en temarapport om anskaffelse av skytevåpen,
-som også er utarbeidet av Kripos (24.11.2016).6
-6
-
-5
-
-SSB gjennomfører ikke denne type undersøkelser
-
-Den ferdige rapporten antas å publiseres i februar eller
-mars 2017.
-
-[Side 95]
-
-95
-
-NOU 2017: 9
-Politi og bevæpning
-
-Kapittel 6
-
-29
-Lastet ned eller kopiert ned filer ulovlig fra nettet
-
-47
-19
-
-Lurt deg fra å betale på kino, idrettsstevner, buss, tof e.l.
-
-25
-17
-
-Vært i slåsskamp (uten våpen)
-
-Ungdomstrinnet
-Videregående
-
-13
-8
-
-Stjålet penger eller ting fra en du kjenner
-6
-
-7
-Vært borte en hel natt uten at foreldrene dine visste hvor du var
-
-21
-
-Figur 6.7 Prosentandelen norske ungdommer som oppgir å ha begått ulike handlinger, etter skoletrinn.
-
-Jenter
-
-Gutter
-
-Kilde: Ungdata, 2016
-
-22
-20
+<u>Erfaringene og innsiktene som framkommer belyser hvordan parallellsamfunn forstås og vurderes med særlige «politiblikk». Det er ingen områder i Oslo som de opplever er utenfor deres kontroll, såkalte no-go soner. Politiinformantene opplever imidlertid et press på nærpolitiarbeidet, og tar til orde for at politiets omorganisering ikke må svekke de operative og forebyggende metodene som er best egnet til å forebygge utenforskap og utvikling av parallelle samfunn.</u>
 
-19
+<u>En utfordring for byen er sosioøkonomiske forskjeller. Disse kommer ofte til uttrykk som sosiale forskjeller langs etniske skillelinjer. Samtidig pekes det på at etnisitet i seg selv ikke er en utfordring. Mangfold er normalen, men flere av beboerne med sosiale og økonomiske utfordringer har annen etnisk bakgrunn enn norsk. Lovbrudd, ordensforstyrrelser og alternative normsett finner man i kriminelle miljøer, hos enkeltaktører, familier og på enkeltadresser der ofte rus og psykiatri også er et problem. Flere mente at tendensene til lukkede kriminelle miljøer i nærmiljøene var større før.</u>
 
-16
-15
-14
-11
+Undersøkelsen viser altså at det finnes utfordringer og områder preget av fattigdom og marginalisering. Ingen av disse områdene er steder hvor politiet ikke går inn. Undersøkelsens informanter opplever at politiet jobber godt med områdene som har utfordringer, og at de har fokus på problemområder og jobber for å sikre tilstedeværelse av et reelt nærpoliti.
 
-11
-9
+Undersøkelsen er av begrenset omfang og har kun sett på politiets oppfatning av fenomenet. Det presiseres også at å intervjue andre samfunnsaktører kunne gitt mer nyanserte funn eller andre funn. Like fullt er politiets opplevelse av hvorvidt deler av samfunnet fungerer på siden av storsamfunnet, viktig kunnskap i denne sammenhengen. Rapporten fra Oslo Politidistrikt gir ikke grunnlag for å hevde at det finnes parallellsamfunn i Oslo, men kan tvert indikere at det ikke forekommer slike delsamfunn. Den underbygger således at beskrivelsene fra Sverige ikke er gjeldende for Norge.
 
-8
+1.  **<u>Andre relevante trekk fra samfunnsutviklingen</u>**
 
-7
+    1.  **<u>Psykiatriutvikling og politih</u><u>å</u><u>ndtering</u>**
 
-VG3
+Dette delkapittelet vil redegjøre for forskning og annen kunnskap om politioppdrag hvor de politiet møter oppfattes som psykisk syke. Bakgrunnen for dette er særlig at polititjenestepersoner overfor utvalget har trukket frem at det har vært en økning i det de omtaler som psykiatrioppdrag, og at dette er en samfunnsutvikling av betydning for bevæpningsspørsmålet. Polititjenestepersonene opplever risiko forbundet med disse oppdragene og det fortelles om høy grad av uforutsigbarhet knyttet til dem. Et distrikt beskrev i møte med utvalget at de opplever psykiatri og rus som en større del av hverdagen enn før, og fra et annet distrikt ble det vist til psykisk ustabile med våpen/kniv, og samfunnets håndtering av psykisk syke, som svar på spørsmålet om det er noe i samfunnsutviklingen som gjør at politiet har behov for generell bevæpning. Samtidig ble det poengtert at slike oppdrag alltid har vært en del av politiets oppdragsportefølje. Å vite noe om utviklingen på dette feltet er viktig for å vite om det har skjedd sentrale endringer i politiets arbeidshverdag.
 
-VG2
+Det eksisterer altså flere antakelser om oppdrag med psykisk syke involvert. Forskning har også beskrevet dette, blant annet Haugland (2015) og Kaasa og Repål (2010). Derfor har utvalget sett nærmere på omfang og utvikling av slike oppdrag, samt på eventuell voldsrisiko knyttet til ulike former for psykisk sykdom.
 
-VG1
+Politiet møter ofte personer med ulike former for lidelser, både i forbindelse med arbeid med ulike former for kriminalitet, men også i situasjoner som ikke handler om lovbrudd. Det kan være bistandsoppdrag til helsevesenet[^66] eller å søke etter savnede og/eller suicidale personer. I noen tilfeller er politiet den første offentlige instansen som møter en person med psykisk sykdom. I andre tilfeller blir politiet tilkalt når andre instanser ikke har nødvendig kapasitet eller ressurser til å håndtere den syke. Politilovens § 12 pålegger politiet en hjelpeplikt ovenfor syke personer, og helselovene har bestemmelser om bistandsplikt overfor andre offentlige tjenester.
 
-10. trinn
+Et relevant moment knyttet til hvorfor politiet har en opplevelse av at det er flere oppdrag knyttet til psykiatri enn tidligere, har sammenheng med den samfunnsutvikling vi har vist til, hvor kriminaliteten på en god del områder viser nedgang. Dersom det blir færre oppdrag knyttet til ulike grovere kriminalitetsformer, vil nødvendigvis *andelen* oppdrag knyttet til psykiatri kunne bli større, dersom det ikke også er nedgang på dette feltet. I sin trendrapport for 2017 påpeker Oslo Politidistrikt dette: «Nedgangen i kriminaliteten generelt kan også bidra til at psykiske problemer fremstår som en mer synlig drivkraft bak morgendagens kriminalitet» (Sætre et.al 2015, s. 9).
 
-9. trinn
+I mange alvorlige hendelser kan psykisk sykdom være en del av bildet. IPCC (Independent Police Complaints Comission, Storbritannias svar på Spesialenheten) finner at i saker som ble etterforsket av IPCC, hadde en av fem problemer med mental helse (IPCC, 2016). Samtidig finnes det solid kunnskap om at psykisk syke er en ekstra utsatt gruppe. Blant annet finner IPCC at denne gruppen er signifikant mer utsatt for bruk av våpen og elektrosjokkvåpen (Taser) fra politiets side, og at blant dødsfallene i, eller i etterkant av, politiets varetekt er mental helse en faktor i to av fem.
 
-8. trinn
+1.  *<u>Omfang og utvikling</u>*
 
-VG3
+Antakelsen om at det er en økning i antall psykiatrioppdrag for politiet, og at disse oppdragene er farligere enn tidligere, gjør det nødvendig å se nærmere på utviklingen i omfang og farlighet. Det er svært utfordrende å skulle si noe om hvorvidt det er flere hendelser som involverer psykisk syke personer nå enn før, og hvorvidt disse hendelsene er forbundet med større fare enn før. Det er ikke funnet dokumentasjon på verken opp- eller nedgang i omfang av psykiske lidelser som involverer farlighet. Det er vanskelig å finne dokumentasjon på utviklingen i psykisk sykdom hos befolkningen over tid, og slike tall vil være forbundet med stor usikkerhet. En eventuell endring kan være påvirket av endrede definisjoner for ulike diagnoser, endring i hvor mange av de syke som tar kontakt med, eller fanges opp av helsevesenet, eller det kan indikere en endring i den faktiske forekomsten i befolkningen. For utvalgets del er det også relevant å reflektere over hvorvidt det kan ha skjedd endringer hos politiet i måten de tolker, opplever og/eller håndterer møter med de syke.
 
-VG2
-
-VG1
+Det er viktig å understreke at de aller fleste personer som har en psykisk lidelse aldri vil bli et politianliggende. Helsedirektoratet er også opptatt av å unngå stigmatisering av psykisk syke. I møte med utvalget redegjorde de for at lidelser som angst og depresjon er relativt vanlig og i løpet av livet vil det forekomme hos mellom 15 % og 25 % av befolkningen. Forekomsten av psykiske lidelser blant voksne er relativt stabil, men en kan muligens se en økning hos unge. Dette er blant annet blitt knyttet opp mot økte prestasjonskrav og det som er blitt omtalt som «generasjon prestasjon». Slike lidelser har ikke relevans for bevæpningsspørsmålet. Redegjørelsen som følger er kun ment å undersøke hvorvidt det finnes hold i påstanden om at psykiske lidelser av ulike slag øker i omfang. Helsedirektoratet (26.10.2016) ser noe vekst innen poliklinisk, ambulant og døgnbehandling (en økning på 5 % fra 2014–2015), noe økning i de polikliniske konsultasjonene (13 % økning fra 2014 til 2015) og noe økning i antall døgnplasser. Dette antas å henge sammen med utvidet kapasitet i kommunenes behandlingsapparat.
 
-10. trinn
-
-9. trinn
-
-8. trinn
-
-5
-
-Figur 6.8 Prosentandelen blant norske ungdommer som rapporterer å ha begått lovbrudd, etter kjønn
-og skoletrinn
-Kilde: Ungdata, 2016
-
-Basert på rapportene er det vanskelig å si noe
-om den faktiske utviklingen i omfanget av fenomenene Kripos omtaler. Rapportene beskriver primært nå-situasjonen, og behandler ikke statistikk
-eller utviklingstrekk over tid.
-Trendrapporten for 2016 (Kripos, 2015) fokuserer på flere trekk ved bildet knyttet til organisert kriminalitet og alvorlig kriminalitet knyttet til
-globalisering. Dette gjelder for eksempel omtale
-av personer som tilrettelegger for tilreisende kriminelle, og migrasjonspresset på Europa, herunder ulovlige grensepasseringer og organisert
-
-menneskesmugling. Rapporten omtaler også prostitusjon og ulike nettverk som organiserer dette,
-og som også begår kriminalitet knyttet til narkotika og heleri. Rapporten omhandler arbeidsmarkedskriminalitet, som også omfatter kriminalitetsformer preget av globalisering. Videre vies ulike
-former for datakriminalitet plass i rapporten. Det
-gjør også seksuallovbrudd. Hva gjelder narkotikakriminalitet beskrives en fortsettelse av langvarige trender og mønstre, med noen nye trender
-knyttet til nye stoffer og omsetning via internett.
-Den organiserte vinningskriminaliteten beskri-
-
-[Side 96]
-
-96
-
-NOU 2017: 9
-
-Kapittel 6
-
-Politi og bevæpning
-
-20,7
-
-19,8
-
-19,5
-
-19,2
-
-Jenter
-
-Gutter
-
-26
-
-14,7
-11,5
-
-2011
-
-2012
-
-2013
-
-2014
-
-2015
-
-2011
-
-2012
-
-10,8
-
-10,5
-
-2013
-
-2014
-
-10,0
-
-2015
-
-Figur 6.9 Prosentandel av norske ungdommer som rapporterer å ha begått lovbrudd etter kjønn. 2011–
-2015. Prosent. Ungdomskoletrinnet
-Kilde: Ungdata, 2016
-
-ves som utfordrende hva gjelder boligraid og
-bedrageri av eldre mennesker, men med marginale utfordringer knyttet til ran av finansinstitusjoner. Det siste fenomenet rapporten omtaler er kriminelle gjenger, som beskrives som preget av personkonflikter og fare for voldelige oppgjør i Oslo.
-Det beskrives som mindre fare knyttet til de kriminelle MC-miljøene, men disse miljøene omtales
-som å ha potensiale for store konflikter. Det
-beskrives videre at gjengmiljøet i Oslo og det kriminelle MC-miljøet har god tilgang på våpen og
-dermed kan gjøre stor skade dersom det skulle bli
-konflikter i disse miljøene.
-Kripos har overfor utvalget beskrevet mange
-av de samme fenomenene som aktuelle for 2017,
-særlig knyttet til globalisering, migrasjon og internettrelatert kriminalitet (16.11.2016). Også smugling, seksuallovbrudd og ulike former for svindel
-ble omtalt. Blant de øvrige fenomenene som ble
-fremhevet var hvordan internettfora har potensiale til å normalisere kriminell adferd og kan brukes til å planlegge kriminalitet. Hvordan migrasjonsstrømmer skaper muligheter for menneskesmuglere og forfalskning av dokumenter, utvikling
-i hvilke narkotiske stoffer som benyttes og omsettes, svindel rettet mot bedrifter og nettbasert svindel (som løsepengevirus) er andre fenomener
-Kripos presenterte for utvalget. Kripos vektla
-også nyere utfordringer knyttet til seksuallovbrudd, herunder flere internett-relaterte utfordringer.
-
-Det er av spesiell interesse for utvalget å se på
-kriminalitet knyttet til våpen. Det vil ikke her gjøres rede for norsk våpenkontroll og den reguleringen som skjer gjennom våpenlovgivningen i
-Norge, men kun omtales hva Kripos fremhever i
-sin analyse. Norge er et land med mange lovlige
-våpen registrert i det nasjonale våpenregisteret.
-Totalt er det registrert ca. 1,67 millioner lovlige
-våpen i Norge (Kripos, 16.11.2016). Det store
-omfanget av våpen handler mye om at jakt er
-svært utbredt i Norge.
-Det er vanskelig å finne gode og etterrettelige
-tall når det gjelder omfanget av ulovlige våpen.
-Det sies at det er mange våpen registrert på døde
-personer, og disse våpnene vet man ikke hvor
-befinner seg. Kripos (24.11.2016) viser til tall for
-dette, men de kan ikke bekreftes eller vurderes
-ettersom de er hentet fra en artikkel i Politiforum
-hvor kildegrunnlag heller ikke er oppgitt. Kripos
-(24.11.2016) viser til at det i politiets straffesaksregister (Strasak) ble registrert 2543 anmeldelser i
-2015 for brudd på våpenloven. Vi har ikke kilder
-for andre år vi kan sammenligne dette tallet med
-for å vurdere en eventuell utvikling. Det vises til at
-kriminelle kan skaffe seg våpen på mange måter.
-Kripos (12.11.2016) vektla at det finnes mange lovlige våpen i Norge, og at kriminelle kan få tak i
-våpen på andre måter enn tyveri.7 Det ble også
-beskrevet at nye våpenlover i Europa og Norge
-antas å kunne redusere problemene.
-
-[Side 97]
-
-NOU 2017: 9
-Politi og bevæpning
-
-6.4
-
-Kriminalitetsutviklingen
-i politidistriktene – variasjon
-og likhet
-
-For å supplere nasjonale trender og analyser har
-utvalget sett på og vurdert informasjon som fremkommer i de strategiske analysene til landets politidistrikter. Disse analysene gir grunnlag for å se
-på hvorvidt det er noe som de nasjonale oversiktene ikke fanger opp, og om det finnes lokale
-beskrivelser av kriminalitetsutviklingen som bør
-tas hensyn til i utvalgets vurderinger av fremtidige
-bevæpningsmodeller. Analysene gir et inntrykk av
-politidistriktenes forventninger til fremtidig kriminalitetsbilde.
-Kriminalanalysene har siden 2009 blitt produsert årlig av politidistriktene. Etter 2014 følger
-dette av Etterretningsdoktrinen for politiet. Kriminalanalysene skal være strategiske produkter og
-fungere som beslutningsstøtte for lokal politiledelse, og de skal fokusere på det som er behovene
-lokalt. Analysene oversendes Politidirektoratet.
-Analysebestillingen fra Politidirektoratet har
-vært i endring. Der det tidligere forelå en klar
-bestilling med forslag til innhold og tips til uttrekk
-er det nå i større grad enn tidligere fokus på at
-dette skal være et produkt av og for distriktene og
-som skal dekke lokale behov.8
-Her vil først Oslo Politidistrikts trendrapport
-belyses, før det kommer en samlet oversikt over
-de viktigste funnene fra de øvrige distriktene.
-
-6.4.1 Trendanalyse Oslo politidistrikt
-Oslo politidistrikts trendrapport for 2016–2017
-skiller seg fra de strategiske analysene til de
-øvrige distriktene i den forstand at den inneholder
-en større analyseramme og beskrivelse av trender
-(Sætre et.al, 2015). Rapporten peker på større
-trender i kriminalitetsbildet, for deretter å drøfte
-disse opp mot analysedata fra distriktet. Rapporten peker særlig på at det er trender knyttet til globalisering og informasjonsteknologi som vil gi
-endringer i fremtidens kriminalitetsbilde. Kriminaliteten på nett er økende. Rapporten omtaler
-også endringer i familie- og kjønnsrelasjoner og
-
-7
-
-8
-
-Det kan være våpen fra dødsbo, utnyttelse av variasjon i
-internasjonalt regelverk, import av våpen som skal være
-deaktivert. Utvalget er kjent med at det er innført våpenamnesti ved at man fra 1. mars til 31. mai 2017 kan innlevere
-ulovlige skytevåpen til politiet uten å risikere straff for ulovlig våpenbesittelse.
-Samtale med Marte Ødegård Lund, seniorrådgiver, Politidirektoratet. 05.12.2016
-
-97
-
-Kapittel 6
-
-generasjonsrelasjoner i endring. Oslo politidistrikt
-beskriver (Sætre et.al, 2015, s. 8):
-Kriminalitetens omfang målt i anmeldelsestall,
-synker. For enkelte lovbruddskategorier er
-reduksjonen dramatisk. Især er det nedgang i
-anmeldelser av typisk storbykriminalitet, som
-visse typer vinningslovbrudd. Oslos andel av
-den nasjonale kriminaliteten er synkende.
-Rapporten peker på ulike årsaker til endring i
-anmeldelsestall i distriktet. Noe kan skyldes politiets innsats, men trenden gjelder også for store
-deler av verden, slik at det trolig også er forhold
-utenfor politiets kontroll som driver dette. Det
-antas videre at informasjonsteknologien er med å
-endre hvilke lovbrudd som begås og hvordan.
-Rapporten drøfter også nedgangen i barne- og
-ungdomskriminalitet, seksuallovbrudd og andre
-kriminalitetsformer hvor internasjonale trender
-ligner. Det pekes på områder hvor politiinnsatsen
-har vært avgjørende, som i avdekkingen av mer
-økonomiske kriminalitet i ulike bransjer, datakriminalitet og fokuset på hatkriminalitet. Det er
-flere områder hvor det ikke ses noen påfallende
-utvikling, hverken til det bedre eller det verre.
-Eksempelvis er kriminelle nettverk vedvarende
-likt som tidligere, hva gjelder konflikter og voldspotensiale.
-Trendrapporten anbefaler at distriktet bør ha
-fokus på kommunikasjons- og informasjonsteknologisk utvikling og at det er avgjørende med kunnskap om hvordan denne utviklingen også endrer
-lovbrudd. Det oppfordres videre til at distriktet
-holder fokus på vinning og økonomisk kriminalitet, vold, overgrep og utnytting, hatkriminalitet og
-voldelig ekstremisme, barne- og ungdomskriminalitet, illegal transnasjonal handel og identitetstyveri/-falskneri (Sætre et.al 2015, s.13–14). Rapporten omtaler ikke bevæpning eller utvikling i
-lovbrudd med høy aktualitet for bevæpningsspørsmålet.
-
-6.4.2
-
-Øvrige distrikter: Trender og
-variasjoner i lokale kriminalitetsbilder
-
-I tillegg til Oslo politidistrikts trendrapport for
-2016–2017 er det her sett til de elleve øvrige strategiske samfunns- og kriminalanalysene landets
-politidistrikter9 har produsert for 2017.10
-9
-
-Det varierer hvorvidt analysene er levert samlet for de nye
-politidistriktene, eller om de er levert fra gamle distrikter,
-som nå er slått sammen. Dette antas å henge sammen med
-hvor langt distriktene er kommer i sine omorganiseringsprosesser.
-
-[Side 98]
-
-98
-
-NOU 2017: 9
-
-Kapittel 6
-
-Politi og bevæpning
-
-Analysene fra politidistriktene gir også et innblikk i hvilke forhold som fra politiets side anses
-relevante og sentrale for distriktenes prioriteringer fremover. Analysene veksler mellom å
-beskrive en kvantitativ utvikling i bestemte lovbruddskategorier og kvalitative beskrivelser av
-ulike fenomener politiet ofte møter på. Tidvis
-omtales også enkelthendelser eller bestemte aktører/fenomener i distriktet. Noen av analysene tar
-også opp trender eller fenomener som ikke har
-vært observert i distriktene, men som det antas at
-kan inntreffe i fremtiden.
-Distriktenes særegne utfordringer knyttes
-blant annet til geografi, klima og infrastruktur,
-samt til variasjoner i befolkningstetthet og størrelse på byer og tettsteder. Utfordringer kan også
-være knyttet til kontroll av grenser. Slike faktorer
-kan, slik politidistriktene ser det, være avgjørende
-for politiets oppdragsløsning.
-Flere trekk ved samfunnsutviklingen sees som
-sentrale for distriktene; noen ganger fordi de er
-direkte observerbare, andre ganger fordi distriktene antar at utviklingen vil komme til dem, selv
-om den ikke har gjort det til nå. Slike
-utviklingstrekk er særlig knyttet til globalisering,
-herunder migrasjon, nye kriminelle nettverk, og
-til teknologiutvikling og IKT.
-Kriminalitetsutviklingen som beskrives speiler
-i hovedsak de nasjonale trendene, med redusert
-ungdomskriminalitet, økning i anmeldte seksuallovbrudd osv. Flere distrikter beskriver en jevn
-nedgang tilsvarende det vi kjenner fra nasjonal
-kriminalstatistikk. De ulike utviklingstrekkene
-beskrives tidvis som betinget av politiets fokus og
-prioriteringer, men ofte knyttes de til demografiske endringer, eller til de nasjonale utviklingstrekkene.
-Det er også mye omtale av fenomener som
-vold i nære relasjoner, narkotika og narkotikarelaterte lovbrudd, og vold, særlig knyttet til helger
-og uteliv. Flere distrikter ser en økning i saker
-som omhandler vold i nære relasjoner. Mange av
-de mer alvorlige hendelsene som omtales er ikke
-knyttet til kriminalitet, men er hendelser som
-ulykker, branner og trafikk.
-Distriktene omtaler i liten grad eksplisitte
-utviklingstrekk eller lovbrudd og fenomener som
-kan ha noe å si for bevæpningsspørsmålet. For
-utvalgets vurderinger kan omtale av spesielle kriminalitetsfenomener være av relevans. Eksempel10
-
-Analysene er fra høsten 2016. Flertallet av disse analysene
-er unntatt offentlighet (jf. offentlighetsloven §13 og politilovens §24) og deres innhold vil derfor kun beskrives på et
-generelt nivå.
-
-vis omtales våpenproblematikk i liten grad, men
-nevnes i noen analyser, for eksempel i forbindelse
-med økning i antall døde som er registrert med
-våpen og noen nevner våpenspørsmål i forbindelse med gjengproblematikk.
-Kun ett distrikt omtaler spesifikt utviklingen i
-saker som gjelder trusler med kniv og skytevåpen, basert på lokal statistikk. Deres beskrivelse
-er en «tilnærmet uendret utvikling» i omfang, og
-at de registrerer «en fallende tendens innen saker
-hvor våpen er benyttet til legemsbeskadigelse
-(kroppsskade)». Denne utviklingen finner sted i
-kontrast til distriktets erfaring av noe økning i
-vold generelt. Utviklingstrekk på dette området i
-de øvrige distriktene er redegjort for i disse analyseproduktene. Ett distrikt oppgir at de har mottatt
-informasjon om at en del personer i narkotikamiljøet i distriktets største by bærer kniv av frykt for
-ran. Denne informasjonen er uten henvisning til
-tall eller statistikk, og er basert på beskrivelser fra
-én tjenesteperson. Vi ser her et eksempel på den
-store variasjonen i datakvalitet i disse analysene,
-noe som spenner fra muntlige beskrivelser og inntrykk, til analyser av anmeldelser og statistikk.
-Når det gjelder de lokale trusselbildene er
-dette analyser som i all hovedsak utføres av PST.
-De fleste distriktene omtaler beredskap, og flere
-poengterer at uforutsette og dramatiske hendelser kan finne sted i fremtiden. Beredskap
-omhandles i sammenheng med potensielle utfordringer knyttet til naturkatastrofer, samarbeid
-med andre etater osv. Noen distrikter nevner også
-at det ikke kan utelukkes at de kan bli rammet av
-større volds- og terrorhendelser. Enkelte distrikter knytter bekymring til radikalisering, enten til
-radikal islam, til høyreradikale miljøer, eller til
-begge deler.
-Det er grunn til å bemerke at de ulike kunnskapsgrunnlagene i analysene varierer, fra empiriske analyser av data, til beskrivelser av enkeltepisoder eller løsere refleksjoner over hva som kan
-finne sted i fremtiden. Utvalget mener at dersom
-analysene skal fungere som et beslutningsgrunnlag for strategisk planlegging, er det viktig at de
-bygger på gode data og at en benytter systematikk og riktige metoder i analysene.
-
-6.4.3 Forespørsel fra utvalget til distriktene
-Bevæpningsutvalget har i tillegg til å innhente
-lokale kriminalitetsanalyser, som beskrevet over,
-sendt henvendelse til alle distrikt og etterspurt
-faktorer ved lokale kriminalitets- og trusselbilder
-som distriktene mener utvalget bør ha kjennskap
-til. Gjennomgang av de svarene utvalget mottok
-
-[Side 99]
-
-NOU 2017: 9
-Politi og bevæpning
-
-viser at fire distrikter ikke har noen bemerkninger
-til dette temaet. Et politidistrikt fremhever konkret at: «Der er etter vårt syn ikke noe i kriminalitets- eller trussel bildet som tilsier at bevæpningsbehovene er annerledes i gjeldende politidistrikt,
-enn i andre distrikt».11 Ett annet politidistrikt svarer slik på henvendelsen:12
-Politiets tradisjon er å gjøre grundige vurderinger av trusselbilde for deretter å iverksette
-tydelige tiltak. Dette er da tiltak som gjelder
-spesielle områder eller tidsavgrensede perioder. «Er trusselbilde endret slik at beredskapen må høynes?» En faktor som kan tilsi en slik
-høynet beredskap er eksempelvis at det finnes
-mange personer med uklar identitet i landet,
-eller en tilspisset konfliktsituasjon mellom kriminelle miljøer.
-[…]. Det påpekes at det er en trend i retning av økt antall bevæpning i dag sammenlignet med tidligere, og POB [Etternavn] i [politidistrikt] beskriver dette som en konsekvens av
-en utvikling i retning av økt besittelse av kniv
-eller annet farlig redskap. I den forbindelse
-øker antallet hendelser der politiet kan forvente å stå overfor en konkret trussel, hvor
-bevæpning gjør mannskapene bedre stilt til å
-løse det konkrete oppdraget.
-Det bemerkes fra ett distrikt at noen tjenestepersoner opplever at det forekommer mer besittelse
-av kniv og farlige redskaper, dette er dog ikke
-underbygget med tall eller analyser fra distriktet.
-
-6.5
-
-Parallellsamfunn og «svenske
-tilstander»?
-
-Utvalget har også sett nærmere på hvorvidt det
-finnes, eller kan dannes, parallellsamfunn i Norge.
-Et parallellsamfunn er et begrep som blant annet
-benyttes av svensk politi for å beskrive særskilt
-utsatte områder hvor (Oslo Politidistrikt, strategisk stab, 2016, s.11):
-[M]ange av beboerne unndrar seg rettsprosesser og ikke tør bevitne eller anmelde lovbrudd,
-områder hvor det er vanskelig for politiet å interagere med beboere og fullføre sine oppdrag. I
-tillegg til dette beskrives det at områdene er
-11
-
-Politidistrikt i
-(18.11.2016).
-12
-Politidistrikt i
-(18.11.2016).
-
-notat
-
-oversendt
-
-bevæpningsutvalget
-
-notat
-
-oversendt
-
-bevæpningsutvalget
-
-99
-
-Kapittel 6
-
-preget av at beboerne har lav deltakelse i
-arbeidsliv og samfunnsinstitusjoner, svak økonomi og lav sosioøkonomisk status. Det er
-også en viss utbredelse av voldsforherligende
-religiøs ekstremisme, og bosatte har kontakter
-inn i tilsvarende områder i nærheten. En overveiende andel av de som bor der har innvandret
-til Sverige, eller deres foreldre har innvandret.
-Et parallellsamfunn er altså løsrevet fra storsamfunnet. Det er et slags «samfunn i samfunnet»
-med egne regler og normer. Slike områder er
-områder hvor politiet ikke kan utøve autoritet på
-den måten de vanligvis gjør. Slike situasjoner har
-man beskrevet i forskjellige byområder og forsteder i Norden og Europa, mest kjente er kanskje
-Rosengård i Malmø og Molenbeek i Brüssel. Med
-utgangspunkt i svenske og norske analyser skal vi
-se nærmere på om det er norske urbane områder
-som har slike trekk.
-
-6.5.1 Sammenligning av Sverige og Norge
-Også Sverige opplever reduksjon i kriminalitetstall. Forskning viser samtidig at trender i kriminaliteten varierer med sosioøkonomisk bakgrunn og
-at voldskriminaliteten stiger, primært hos de med
-lavere inntekt (Nilsson et.al, 2016). Det svenske
-Brottsförebyggande Rådet (BRÅ) har utarbeidet
-en rapport om særlig innvandrertette områder i
-Stockholm, Gøteborg og Malmø (BRÅ, 2012).
-Deres rapport viser at det i disse områdene er et
-høyt kriminalitetsnivå, særlig i Malmø. Det er økt
-forekomst av innslag av organisert kriminalitet,
-og også bruk av våpen. Samtidig er det mange
-som faller utenfor arbeidslivet. Rapporten beskriver at det i Malmø er et høyere nivå av utsatthet
-for kriminalitet enn i Stockholm og Gøteborg,
-men det vises ikke en negativ utvikling i allmenhetens utsatthet.
-Ut fra tilgjengelig statistisk analyse og kunnskap om integrasjonspolitikk i Norge og Sverige,
-kan vi imidlertid diskutere faktorer som tilsier
-eller ikke tilsier «svenske tilstander» i Norge. Sentrale momenter i en slik diskusjon kan være knyttet til innvandrertetthet. Andelen innvandrere i
-Norge som helhet er lavere enn i Sverige. Andelen utenlandskfødte i Sverige var i 2012 på 15 prosent mot 11 prosent i Norge. Tilsvarende var
-andelen innenriksfødte med innvandrerforeldre
-fem prosent i Sverige mot to prosent i Norge (Pettersen og Østby, 2013). Fafo-forsker Anne Britt
-Djuve påpeker at Norge også har mindre segregerte bydeler enn det man finner i Malmø, Stockholm og Gøteborg (NRK, 8.5.2016).
-
-[Side 100]
-
-100
-
-Kapittel 6
-
-NOU 2017: 9
-Politi og bevæpning
-
-Andre sentrale forskjeller mellom de to landene gjelder arbeidslivet. Det er mye lavere ungdomsledighet i Norge enn i Sverige, henholdsvis
-10,1 % og 20,4 % i alderen 15–24 år.13 Sverige har
-generelt ry på seg for å være et land med høy grad
-av sysselsetting for innvandrere – men dette henger sammen med botid i landet, og de positive tallene kommer særlig etter 10–15 år med opphold
-(Pettersen og Østby, 2013). Nyankomne innvandrere i Norge er langt oftere arbeidsinnvandrere
-fra Øst-Europa enn det man finner i Sverige. Sverige har det siste tiåret tatt imot svært mange asylsøkere som er unge menn.
-Bosetting er også en sentral faktor i dette. Det
-er vesentlige forskjeller i bosettingspolitikk overfor nyankomne flyktninger og asylsøkere i Norge
-og Sverige. Sverige har fri bosetting av asylanter,
-noe som ofte medfører at de bosetter seg i allerede innvandrertette områder i de større bydelene i de store byene. Mange vil også flytte inn
-hos allerede bosatte landsmenn/slektninger, noe
-som vil øke trangboddheten. I Norge har vi en
-politikk der vi flytter innvandrerne fra asylmottak
-til kommuner som påtar seg å bosette dem. Kommunene får tilskudd som sikrer tilfredsstillende
-boligkvalitet. I tillegg har Norge en toårig introduksjonsordning som sikrer nyankomne opplæring i norsk språk og norsk samfunnsliv. Ved deltakelse i denne opplæringen får hver av de voksne
-innvandrerne en stønad på to ganger Folketrygdens grunnbeløp, noe som gir et viktig insentiv til
-å bli boende minst to år i den første kommunen de
-kommer til. Også i Norge skjer det imidlertid
-betydelig såkalt sekundærflytting, det vil si at innvandrere flytter til sentrale strøk, ofte på Østlandet, etter å ha vært noen år i den opprinnelige
-kommunen. Denne flyttingen var imidlertid betydelig mer omfattende tidligere.
-Det er også vesentlige forskjeller i boligpolitikk i Norge og Sverige når det gjelder økonomisk
-tilknytning til bolig. Dette vil ha innvirkning på
-hvordan lokale bomiljøer formes og fungerer. Det
-har også noe å si for stabilitet i nærmiljøene. Det
-blir tettere sosiale bånd mellom folk og dette kan
-bidra til å styrke den sosiale kontrollen i området.
-Norge har en politikk som er basert på at flest
-mulig skal eie sin egen bolig. I Sverige har de en
-vesentlig høyere andel som leier bolig. Leieformen kan ofte vare hele livsløpet. Eierandelen –
-enten det er selveier eller gjennom borettslag –
-blant innvandrere i Norge, er lavere enn for resten
-av befolkningen, men den er likevel ganske høy,
-13
-
-http://www.globalis.no/Statistikk/Arb.ledighet-unge
-
-over 60 prosent. Den varierer mellom personer
-med ulik landbakgrunn.14 I de større byene bor
-mange innvandrere i Norge i et borettslag. En systematisk vedlikeholdspolitikk fra disse lagene hindrer bygningsmessig forfall. Flere av de større
-områdene med leieboliger i de svenske storbyene
-bærer preg av betydelig forfall. I tillegg kan det
-pekes på Husbankens ordning med såkalte Startlån som blant annet kan søkes av innvandrerfamilier (og andre) med svak økonomi. Dette medvirker til at eierandelen er såpass høy også blant
-denne gruppen i befolkningen.
-Det er altså en rekke faktorer som taler for at
-det ikke er gitt at de svenske tilstandene det ofte
-vises til, har sammenfall med norske forhold.
-
-6.5.2 Parallellsamfunn i Oslo?
-Dersom parallellsamfunn skulle eksistert i Norge,
-ville det være særlig sannsynlig at disse kunne finnes i Oslo. Strategisk stab i Oslo politidistrikt utga
-i 2016 rapporten «Parallellsamfunn? – Et politiblikk», basert på samtaler og intervjuer med relevante tjenestepersoner i politidistriktet. Rapporten
-viser hvordan disse personene vurderer om det
-finnes såkalte parallellsamfunn i Oslo, hvilke kriterier de vektlegger i denne vurderingen, samt
-hvilke risiko- og beskyttelsesfaktorer de mener
-kan påvirke utviklingen av slike samfunn (Oslo
-Politidistrikt, strategisk stab, 2016, s. 40).
-Rapporten konkluderer med at det blant informantene er enighet om at det finnes belastede
-områder i Oslo, men at betegnelsen parallellsamfunn ikke er betegnende (Oslo Politidistrikt, strategisk stab, 2016, s. 40):
-Erfaringene og innsiktene som framkommer
-belyser hvordan parallellsamfunn forstås og
-vurderes med særlige «politiblikk». Det er
-ingen områder i Oslo som de opplever er utenfor deres kontroll, såkalte no-go soner. Politiinformantene opplever imidlertid et press på
-nærpolitiarbeidet, og tar til orde for at politiets
-omorganisering ikke må svekke de operative
-og forebyggende metodene som er best egnet
-til å forebygge utenforskap og utvikling av
-parallelle samfunn.
-14
-
-Levekårsundersøkelsen blant innvandrere 2005–2006 viste
-en eierandel blant etablerte innvandrergrupper fra land
-som Pakistan, Sri Lanka og Vietnam på rundt 80 prosent og
-over, noe som er høyere enn andelen i hele befolkningen
-(litt under 80 prosent). Også personer med bakgrunn fra
-Serbia og Montenegro, Tyrkia, Bosnia-Hercegovina og Iran
-har eierandeler på over 60 prosent. Eierandelen var langt
-lavere blant de mer nyankomne fra Somalia og Irak.
+En indikator for å vurdere om det har vært en utvikling i omfang av psykisk syke som politiet møter, er å se på tvangsinnleggelser i psykiatrien. Det er ikke lett å finne oppdatert, tilgjengelig og god statistikk på dette feltet. En gjennomgang av tvangsbruken i perioden 2003–2009 viser imidlertid stabile rater i denne perioden (Hjemås, 2011). Tilsvarende finner Helsedirektoratet en marginal økning på 0,3 prosent i antall innleggelser i årene 2010–2014 (Helsedirektoratet, 2016). I utredningen *Økt selvbestemmelse og rettsikkerhet* (NOU 2011: 9, s. 91) står følgende:
+
+<u>Beregninger tyder på at antall vedtak om tvang økte fra 2001 til 2005, og at endringene fra 2005 til 2009 har vært små. De siste fem årene har det vært mellom 185 og 206 tvangsinnleggelser per 100 000 innbyggere per år. Antall vedtak om tvungen observasjon kan se ut til å ha gått litt ned, ellers er det ingen endringstrekk.</u>
+
+<u>Blant de tvangsinnlagte ble én av fem tvangsinnlagt mer enn én gang. \[…\] Ca. 4 000 pasienter ble tvangsinnlagt én gang i 2009, 660 ble tvangsinnlagt to ganger, 200 ble tvangsinnlagt tre ganger, og ytterligere 200 ble tvangsinnlagt fra 4 til 18 ganger i 2009.</u>
+
+<u>Pasienter som er dømt til tvungen psykisk helsevern, telles ikke med som tvangsinnlagte i tall fra SAMDATA 2009. På forespørsel fra sekretariatet, har Helsedirektoratet oppgitt at det i 2009 skjedde elleve innleggelser til døgninstitusjoner etter at pasienten ble dømt til tvungent psykisk helsevern, mens det skjedde omtrent 7 200 tvangsinnleggelser av 5 000 personer etter vanlige innleggelsesprosedyrer.</u>
+
+Det er store regionale variasjoner og bruken av tvang i psykiatrien er høyt i Norge sammenlignet med andre land.
+
+Denne utviklingen kan ikke si noe om farlighet, ettersom psykiske lidelser i all hovedsak ikke har noe med farlighet å gjøre. Helsedirektoratet (26.10.2016) viser til at de aller sykeste er lite farlige blant annet fordi de er fanget opp av behandlingsapparatet. De kanskje mest farlige er de helsevesenet ikke kjenner til; de som ikke er fanget opp, gjerne uten påvist diagnose og som misbruker rusmidler. Ettersom disse ikke er kjent av behandlingsapparatet, finnes det liten oversikt over omfanget. En annen indikator, som kan si noe om omfanget av psykisk syke som er farlige, er antall personer som dømmes til tvungent psykisk helsevern. I årsrapporten for 2015 skriver Koordineringsenheten at 18 personer ble idømt denne særreaksjonen, og at 168 pasienter var under aktiv gjennomføring av dom til tvungent psykisk helsevern ved utgangen av året» (Oslo Universitetssykehus, 2015).
+
+En annen studie tok for seg ordensoppdrag i Oslo (i området rundt Karl Johan) i et ti-årsperspektiv og fant følgende (Furøy, 2012):
+
+<u>Jeg hadde likevel på forhånd antatt at en relativt stor andel av dem som er involvert i ordensforstyrrelser skulle være psykiatriske pasienter, og hvor oppdragene blir løst ved å overføre dem til helsevesen. Mitt materiale viser imidlertid at kun 1 % av disse hendelsene i 1998 ble forårsaket av psykiatriske pasienter, mens de utgjorde 1,5 % i 2008. Dette er også i samsvar med Kaasa og Repåls (2010) undersøkelse av PO oppdrag med psykiatriske pasienter, som viste at disse pasientene er langt mindre utagerende og farlige enn man kanskje før har antatt.</u>
+
+1.  *<u>Psykisk sykdom og voldsrisiko</u>*
+
+Bjørkly og Grøndal skriver at selv om det kan se ut til at mennesker med alvorlig psykisk lidelse har høyere risiko for å begå vold enn andre, er det viktig å understreke at det kun er «en liten undergruppe av de med alvorlig psykisk lidelse som har utøvd vold» (Bjørkly & Grøndal, 2016, s. 214). Noen få psykisk syke mennesker utgjør en risiko, og blant annet vil man i oversikter over rettspsykiatriske saker finne igjen gjerningspersoner som er eller har vært «psykotiske» (jf. straffeloven. Den medisinske diagnosen vil for eksempel være vrangforestillinger eller paranoid schizofreni). I følge Narud[^67] (26.10.2016) er det i en studie fremkommet at 20 % av de som hadde begått drap var utilregnelige. I en annen studie av rettspsykiatriske saker fra 2013 og 2014 ble det funnet at observanden var psykotisk i 8 av 31 saker. Disse nivåene har vært stabile over flere år. Studiene av andelen psykotiske blant de som har begått drap eller drapsforsøk i løpet av de siste tre årene, antas ikke å endres vesentlig dersom man ser på andre år enn de belyst over. En annen studie (Narud, 26.10.2016) har vist at blant Den Rettsmedisinske kommisjonens (DRK) rettspsykiatriske vurderinger de tre siste årene, ble 3 av 47 funnet «psykotiske» etter straffeloven, én hadde en «alvorlig psykisk lidelse» og 13 hadde en «sterk bevissthetsforstyrrelse» som følge av rus. Personene var siktet for ulike lovbrudd.
+
+Det er kun et fåtall psykiske lidelser som er voldsfremmende. Det er for eksempel slik at vrangforestillinger i seg selv ikke kan predikere vold, og hørselshallusinasjoner er ikke voldfremmende i seg selv, men det ser ut til at voldbefalende stemmer øker voldsrisikoen noe (studier gjengitt av Narud, 26.10.2016).
+
+Det er liten tvil om at en del lidelser er langt mer utbredt blant fengselsbefolkningen enn i befolkningen for øvrig – også sammenlignet med pasienter hos DPS (flere studier, sitert av Narud, 26.10.2016). Eksempelvis kan nevnes at antisosialitet[^68] finnes hos 59 % av fengselsbefolkningen, hos 3,4 % ved DPS og kun hos 0,6 % av befolkningen forøvrig. Når det gjelder paranoide[^69] finnes denne diagnosen hos 21 % av fengselsbefolkningen, 11,8 % av de ved DPS og 2,2 % av befolkningen forøvrig. Det er slik at en rekke levekårsproblemer viser en opphopningstendens hos fengselsbefolkningen (se blant annet Friestad og Hansen, 2004 og Skardhamar, 2002).
+
+1.  *<u>Politiets m</u><u>ø</u><u>ter med psykisk syke</u>*
+
+Møter mellom politi og psykiatriske pasienter har også blitt studert fra helsesiden. Det kan være variasjoner mellom hva politiet kategoriserer som psykiatri og de eventuelle diagnoser som gis etter medisinsk vurdering. Psykiatrioppdrag utgjør 3 % av alle politioppdrag, samlet aktiv tid utgjør 5 % av total aktiv tid og kostnaden er i underkant av 1 % av politibudsjettet (NOU 2010: 3).
+
+Utredningen vil om litt vise til Kaasa og Repåls (2010) studie av hendelser kategorisert som psykiatri i politiets systemer. Først skal vi redegjøre for en undersøkelse av legevaktens oppdrag som viser hva som kjennetegner disse når det gjelder psykiatri og behov for politibistand (NOU 2015: 17, s. 160–161):
+
+<u>Om lag 6 pst. av henvendelsene til AMK-sentraler er relatert til psykiske lidelser eller rusproblematikk (Zakariassen, Burman & Hunskaar, 2010). Av disse er 38 pst. forårsaket av akutt alkoholmisbruk, mens resten dreier seg om forskjellige psykiske plager.</u>
+
+<u>I en studie fra Hordaland skjedde 30 pst. av akuttinnleggelsene fra legevakt til psykiatrisk avdeling med assistanse fra politiet (Johansen, Mellesdal & Jørgensen, 2012). I en annen studie fra 2012 fra legevakter over hele landet, var politiet involvert i 148 av 853 (17 pst.) legevaktkontakter relatert til rus eller psykisk lidelse (Johansen, Mellesdal & Jørgensen, 2012). I 83 pst. av de 148 kontaktene var politiet involvert før pasienten kom til legevakten. Disse tallene samsvarer med funnene i en rapport fra Vestfold (Kaasa & Repål, 2010). Her blir det oppgitt at legevakt eller akuttmottak var melder ved 10 pst. av alle psykiatrioppdrag. Samtidig var legevakt mottaker i forbindelse med fremstilling for innleggelse i 35 pst. av oppdragene, og for annen vurdering i 6 pst. av oppdragene.</u>
+
+<u>Zetterberg (2012) kartla alle oppdrag om psykiske lidelser og rus i Trondheim i 2011. Det var 511 registrerte oppdrag gjennom hele året, og et gjennomsnitt på 1,5 oppdrag per døgn. Oppdragene var relativt jevnt fordelt gjennom hele døgnet. Av oppdragene ble 17 pst. vurdert som akuttturer, Det vil si at umiddelbar utrykning av ambulanse var nødvendig. I 47 pst. av oppdragene ble det vurdert at det var behov for ambulanse uten ventetid (hastetur). Politiet var til stede ved 25 pst. av oppdragene.</u>
+
+Denne koblingen mellom psykiatri og politiets oppdrag, fremkommer også i Haugland (2015, s. 17–18). Han refererer til en kanadisk undersøkelse som har vist at to av fem mennesker med psykisk sykdom hadde blitt arrestert av politiet, at ett av 20 politioppdrag eller konfrontasjoner involverte mennesker med psykiske lidelser og at mennesker med psykiske lidelser var overrepresentert i skyteepisoder med politiet (Haugland, 2015).
+
+1.  *<u>Kjennetegn ved politiets psykiatrioppdrag</u>*
+
+Som vi har vært inne på varierer politioppdragene, knyttet til psykiatri i art og alvorlighet, fra rene bistandsoppdrag til akutte oppdrag. Hendelser etterforsket av IPCC viser at dersom en sammenligner saker der psykisk syke er involvert med saker som involverer friske personer, er oppdragene med de psykisk syke oftere et resultat av bekymringsmeldinger, og det er tre ganger mindre sannsynlig at kontakten er et resultat av kriminalitet (IPCC, 2016).
+
+For Norges del finnes det kunnskap om hva som kjennetegner psykiatrioppdragene til politiet i studien gjennomført av Kaasa og Repål (2010). De viser at det finnes mange antagelser om psykisk syke og politioppdrag. Antagelsene de undersøker i studien handler både om farlighet, tidsbruk, manglende tilbud fra hjelpeapparat, gjengangeres dominans i oppdragene og oppdragenes art. Studien er et kartleggingsprosjekt av politiets psykiatrioppdrag, hvor datagrunnlaget er hendelser fra politiets operasjonslogg (PO).[^70] De finner stor variasjon i de 757 oppdragene de har sett på (Kaasa og Repål 2010, s.13):
+
+<u>Den hyppigste enkeltårsaken viste seg å være politibistand til fremstilling og/eller (tvangs-) innleggelse, disse henvendelsene står for en fjerdedel av henvendelsene\[25,3 %\]\[…\]126 startet som politioppdrag – dette innebærer at meldingen som kom inn dreide seg om andre forhold enn psykiatri, men at oppdraget utviklet seg til et psykiatrioppdrag \[her finner vi ordensforstyrrelser, tvang/trusler, husbråk, trafikkforhold mm\].</u>
+
+De dominerende oppdragsformene politiet er involvert i, som er kodet med psykiatri, er bistand til fremstilling og innleggelse (25,3 % av oppdragene), ulike ordensoppdrag[^71] (16 %) og meldinger om selvmordsfare (ca. 16 %). Andre typer av oppdrag er andre former for bekymringsmeldinger (12,6 %). Blant de mindre hyppige formene for henvendelser finner vi bistand til AMK/lege/helsepersonell/barnevern (6,3 %), personer som selv ber om hjelp (5,7 %), meldinger om savnede/rømte beboere/pasienter (4,9  %), utagering eller fare for utagering i bolig (4,7 %), bistand til tilbakeføring til institusjon (3,2 %), samt seks ulike andre henvendelseskategorier som hver utgjør 1,2 % eller mindre av den totale oppdragsmengden knyttet til psykiatri.
+
+Politiets oppdrag kan være akutte eller ikke-akutte. Studien viser at 11,5 % av oppdragene var utrykningsoppdrag, noe som kan indikere at de ble opplevd som akutte. «De fleste psykiatrioppdrag er dermed ikke vurdert til å være hasteoppdrag» (Kaasa og Repål 2010, s. 17).
+
+1.  *<u>Bruk av makt i psykiatrioppdrag</u>*
+
+De hendelsene den britiske spesialenheten IPCC har etterforsket viser at det er mer sannsynlig at politiet bruker skytevåpen mot personer med psykiske sykdommer, enn mot personer uten psykisk sykdom (IPCC, 2016). Dette gjelder også bruk av tvangsutstyr som håndjern og belter, og også elektrosjokkvåpen (Taser). Det er også økt sannsynlighet for gjentatt bruk av elektrosjokkvåpen mot disse. Psykisk syke er mindre utsatt for bruk av batong og fysiske slag, enn friske personer.
+
+**<u>\[:figur:figX-X.jpg\]</u>**
+
+1.  <u>Typer makt brukt på personer med og uten psykisk sykdom.</u>
+
+<u>IPCC 2016, s.59</u>
+
+Studien viser videre at for psykisk syke er sannsynligheten for å bli dødelig såret under eller etter en hendelse større enn for den øvrige befolkningen. I studien redegjøres det for de ulike dødsårsakene blant de 19 psykisk syke som har dødd i slike oppdrag. Syv personer døde etter fysisk maktbruk eller etter å ha sloss med politiet og disse var ofte ruset. Seks personer døde av skudd, tre personer tok sitt eget liv, to døde som følge av narkotika- og alkoholmisbruk og én døde som følge av ulykke/fallskade. IPCC vurderer sakene de får inn, og basert på den informasjonen de finner, uttrykker de om det er grunn til bekymring for hvordan makt ble brukt. De uttrykker bekymring for 13 % av sakene der det er anvendt makt mot psykisk syke. Bekymringsnivået er høyere i saker hvor det ikke er psykisk sykdom hos den involverte. IPCCs arbeid gir like fullt en indikasjon på at psykisk syke *kan* være mer utsatt for de mest alvorlige maktmidlene politiet har tilgang på, og at bruk av makt ovenfor psykisk syke er et tema av høy relevans når en drøfter politiets maktbruk. Maktbruken kan selvsagt henge sammen med hva slags type oppdrag de psykisk syke er involvert i, og hva slags motstand de viser, og viser i særdeleshet behovet for kunnskap og kompetanse om psykiatri blant operativt politipersonell.
+
+Dersom politiet ofte må bruke makt i en oppdragstype kan dette fortelle oss noe om oppdragenes karakter og risikoen forbundet med dem. I 24 av de 757 oppdragene som ble studert av Kaasa og Repål (2010) er det oppgitt bruk av maktmidler fra politiets side. Det må her understrekes at det ikke foregår noen systematisk loggføring av bruken av maktmidler i PO, det er derfor sannsynlig at det her er en underrapportering. I studien ble det gjort en vurdering av om makt sannsynligvis ble brukt, basert på opplysningene som fremkom om oppdraget. Tas disse oppdragene med, er andelen oppdrag med maktbruk 5,5 %. Dette tallet stemmer godt overens med statistikk fra Psykiatrisk ambulanse (PA) ved Haukeland Universitetssykehus. PA har eksistert siden 2006 og fører oversikt over bruk av makt og tvang (se Rapport fra Psykiatrisk ambulanse Bergen, 2016). For oppdrag hvor det er gitt bevæpningsordre er tallene sikrere. Kaasa og Repål (2010) viser til at omtalt bruk av makt kan innebære bruk av håndjern eller fysisk makt, at politiet brøt opp dør/vindu for å komme frem, samt bruk av pepperspray. Variasjonen gir et inntrykk av hvilke maktmidler som kan være aktuelle i slike hendelser.
+
+Tallene for bevæpningsordre anses som sikre. Av 690 oppdrag hvor operative tiltak ble satt inn ble det gitt bevæpningsordre åtte ganger (altså i 1,15 % av oppdragene). Dette underbygger forståelsen forfatterne har av at politioppdrag som involverer psykisk syke, i all hovedsak ikke er særlig dramatiske oppdrag. Det fremkommer ikke om det ble truet med våpen, men det ble ikke avfyrt skudd i noen av oppdragene. Kjennetegn ved oppdragene var at i fem av de åtte tilfellene dreide det seg om selvmordsfare, i to tilfeller gjaldt det ordensoppdrag og for ett oppdrag var henvendelsen en person som ba om hjelp til seg selv. Årsaken til at bevæpningsordre ble gitt i oppdrag som gjaldt selvmordsfare var at vedkommende hadde, eller ble antatt å ha, tilgang til skytevåpen (Kaasa og Repål, 2010, s. 18).
+
+Studien ser også på politiets utsatthet i oppdragene. Det presiseres at disse tallene er forbundet med usikkerhet og at det kan være underrapportering også her. I studien har politiet rapportert å ha blitt truet med våpen/farlig gjenstand i åtte av 757 psykiatrioppdrag i 2009. Disse truslene besto av syv trusler med kniv og én trussel med slagvåpen.[^72] Dette viser at det er svært få hendelser hvor det er blitt rapportert om trusler mot politiet.
+
+1.  *<u>Enkelthendelsers p</u><u>å</u><u>virkning</u>*
+
+Kaasa og Repåls (2010) konklusjoner imøtegår flere vanlige antagelser om psykisk syke og politi. De to antagelsene vi her vil fremheve er antagelsen om at *det er mange som havner «mellom to stoler» og som ikke har noe tilbud fra hjelpeapparatet*, og antagelsen om at *psykiatriske pasienter er farlige, og oppdragene krever ofte bruk av makt.*[^73]
+
+Når det gjelder antakelsen om at *mange havner mellom to stoler,* viser Kaasa og Repål, (2010) til at frivillighet er det bærende elementet i psykiatrien, og at det er strenge kriterier dersom tvangs skal benyttes. Personer kan være «påfallende i form av avvikende atferd uten at kriterier for bruk av tvang er oppfylt» (Kaasa og Repål, 2010, s 28). De beskriver at de personene som er involvert i hendelser med utagering, trusler om selvmord, selvskading, forvirring og rus ofte er pasienter hvor lengre innleggelse ikke har noen effekt: For polititjenestemenn som må bruke tid på fremstilling av pasienter de ser på gaten noen dager senere, kan nok dette virke frustrerende. Det er imidlertid ikke nødvendigvis et tegn på at pasienten faller «mellom to stoler». Dette kan gjelde blant annet de som politiet innbringer etter politilovens § 12 (å ta personer som er til fare for seg selv eller andre i midlertidig forvaring).
+
+Når det gjelder påstanden om at *psykiatriske pasienter er farlige, og oppdragene krever ofte bruk av makt,* slår rapporten fast at det ikke er grunnlag for å si at psykiatriske pasienter generelt er farlige. De fremhever at kun et fåtall hendelser i PO er registrert med at politiet har blitt truet med gjenstander eller utsatt for vold, og at det kun i noen saker ble anvendt, eller er sannsynliggjort, at det ble brukt makt (24–38 av 757 saker). De viser til en kontrast mellom sitt eget materiale og hva som dominerer i samfunnsdebatten og mediene:
+
+<u>En rekke hendelser som involverer polititjenestemenn og personer med psykiske lidelser har fått stor oppmerksomhet i media. Fordi traumatiske hendelser huskes bedre enn dagligdagse hendelser kan slike hendelser bli en del av polititjenestemenns kollektive hukommelse og bidra til en oppfatning av personer med psykiske lidelser som farlige. Ulykkes- og skadestatistikk viser dog at det er en rekke hendelser som involverer polititjenestemenn og personer med en psykisk lidelse \[viser til ulike tall og undersøkelser\]\[…\]Denne rapporten har vist at «psykiatrioppdrag» er en heterogen betegnelse – det er mange ulike typer oppdrag som sorterer under denne betegnelsen. Enkelte psykiatrioppdrag vil utvilsomt være beheftet med risiko for den enkelte polititjenestemann, men dette gjelder også mange andre oppdrag som politiet utfører. Det finnes ikke grunnlag for å sette merkelappen «farlig» på hverken de fleste psykiatriske pasienter eller de fleste psykiatrioppdrag (Kaasa og Repål, 2010, s. 27).</u>
+
+Studien viser altså at få, men alvorlige hendelser kan feste seg i politiets kollektive hukommelse og være med å forme oppfatninger om psykisk syke som særlig farlige. Det er grunn til å anta at politiets risikooppfatning forbundet med slike oppdrag, i stor grad kan preges av et fåtall, kanskje svært alvorlige hendelser, som de enten selv har vært en del av, eller som har angått kollegaer.
+
+I følge Kaasa og Repål (2010) er det altså ikke grunn til å hevde at de fleste psykiatriske pasienter er farlige eller at såkalte psykiatrioppdrag medfører fare for politiet. Hva kan det da komme av at slike saker er så fremtredende i politifolks bevissthet når det argumenteres for bevæpning? Det kan handle om flere ting. Det kan handle om den enkelte tjenestepersons usikkerhet i møte med psykisk syke, om enkelterfaringer han eller hun har gjort seg, og/eller det kan handle om historiene som fortelles blant kolleger. Flere tjenestepersoner har uttrykt at de opplever møte med psykisk syke som uforutsigbart og det kan derfor assosieres med fare. Når det gjelder enkelterfaringer, har disse ofte stor betydning for folks vurdering av risiko. Forskning på risikopersepsjon har vist at vanlige folk har problemer med å vekte sannsynligheter og konsekvenser opp mot hverandre (Brun, 1997, Hellesø-Knutsen, 2013). Vi har en tendens til å vurdere sannsynlighet for en hendelse ut i fra hvor lett vi kan hente frem tilfellet eller hendelsen i tankene (Bazerman, 2006). Enkelthendelser som har opplevdes som truende eller farlig vil gjøre inntrykk, og det kan bidra til at disse lettere hentes frem enn andre hendelser. Dette igjen kan bidra til at man overestimerer sannsynligheten for at slike hendelser skjer. Videre kan historier som løftes frem i kollegafellesskapet påvirke hva den enkelte tjenesteperson oppfatter som en risiko. Historiene blir gjerne utløst av en eller flere konkrete hendelser. Det kan være én eller to tjenestepersoner som er involvert i hendelsen, men etter hvert blir historien allemannseie ved at den sprer seg som ringer i vannet (Teigen, 2001). Den opprinnelige trusselen eller oppfatning av hendelsen forsterkes og kringkastes gjennom sosiale relasjoner. Sosiale interaksjoner kan forsterke en risikoopplevelse. Medieomtale vil videre kunne påvirke hvordan historier vokser og lever videre, noe som igjen påvirker hvor mentalt tilgjengelige historiene blir for tjenestepersonene (Hellesø-Knutsen, 2013, s.237). Historier bidrar til å konstruere en måte å betrakte verden på (Shearing & Ericson, 2005, s. 323) ved at oppfatninger som deles sier noe om hvilke risikosituasjoner politiet står overfor i sin arbeidshverdag (Hellesø-Knutsen, 2013).
+
+Studien til Kaasa og Repål viser altså at de få, men alvorlige hendelsene kan feste seg i politiets kollektive hukommelse og være med å forme oppfatninger om psykisk syke som spesielt farlige, selv om det kun er noen få oppdrag som er beheftet med særlig risiko, slik det også er for oppdrag som ikke involverer psykisk syke.
+
+1.  **<u>Vold i yrkeslivet, med fokus p</u><u>å</u><u> politiet</u>**
+
+Utvalget har videre sett nærmere på utviklingen av, og innholdet i, lovkategorien *vold mot offentlig tjenestemann*, og på hva vi vet om politiets utsatthet for vold. *Offentlige tjenestemann* er en kategori som dekker flere yrker enn politi. I en mastergrad i kriminologi viser Høivik (2015) at i kategorien vold mot forskjellige kategorier offentlig tjenestemenn, utgjorde vold mot politiet mellom 69 og 72 prosent av det totale antallet saker i perioden 2009 til 2013. Interessant er det å merke seg at i perioden var økningen i vold mot polititjenestemenn på 25 prosent, men for andre offentlig ansatte tjenestemenn var økningen på nesten 40 prosent.
+
+1.  **<u>Indikasjoner p</u><u>å</u><u> voldens grovhet</u>**
+
+Det er betydelig variasjon i grovheten i den volden politiet er utsatt for. Det er imidlertid et statistisk problem knyttet til å avdekke grovheten i disse sakene, og den eventuelle utviklingen. Det går et skille mellom saker der vold mot offentlig tjenestemann er eneste eller groveste sak (de med høyest strafferamme) og saker der denne volden er del av et større sakskompleks (ofte med flere forhold som har en høyere strafferamme enn volden mot offentlig tjenestemann). Figur 6.11 viser utviklingen i straffeutmålingen i form av betinget og ubetinget fengsel i vold mot offentlig tjenestemann der dette er groveste (hoved-)sak. Figuren gir to hovedinntrykk: Gjennomsnittssaken medfører sjelden over 60 dagers betinget eller ubetinget fengsel og det er vanskelig å finne hold for en utvikling i retning av klart grovere saker. Men det må altså tas to tydelige forbehold: Bildet vil være påvirket også av saker med andre offentlige tjenestepersoner enn politi. Vi vet heller ikke noe om utviklingen i mer sammensatte saker der den aktuelle volden ikke er hovedsak.
+
+**<u>\[:figur:figX-X.jpg\]</u>**
+
+1.  <u>Utviklingen i gjennomsnittlig straffeutmåling for vold mot offentlig tjenestemann 2002–2014. Antall dager betinget (sort søyle) og ubetinget (gul søyle) fengsel.</u>
+
+<u>SSB</u>
+
+I den tidligere nevnte masteravhandlingen til Høivik (2015) ble det undersøkt saker som omhandler vold mot polititjenestepersoner. Et gjennomgående inntrykk er at volden ikke er av det alvorligste slaget. Men også her har man bare bevitnet saker der volden mot offentlig tjenestemann var hovedsak.
+
+1.  **<u>Kunnskap fra Lovdata</u>**
+
+Det er her gjort en gjennomgang av saker i Lovdata fra 2015 og 2016 der vold mot offentlig tjenestemann enten var en del av sakskomplekset, eller hovedsak. Også her observeres samme tendens som i Høiviks materiale: De fleste sakene omhandler mindre alvorlige forhold. Det er viktig å være oppmerksom på at Lovdata gjengir et selektivt materiale. Det gjøres redaksjonelle grep for å finne de sakene som kan tenkes å skape presedens og/eller kan fungere som avklarende referanser i nye saker.
+
+To typer saker er hyppig forekommende:
+
+1.  <u>Saken er anket av gjerningspersonen og vedkommendes advokat fordi man mener seg urimelig strengt behandlet. Volden var av bagatellmessig art, og gjerningspersonen var tidligere ustraffet eller bare straffet for mindre alvorlige forhold. Her har retten ofte valgt ubetinget fengselsstraff på grunn av det særlige vern som polititjenestemenn og noen andre grupper offentlige tjenestemenn har krav på.</u>
+
+<!-- -->
+
+1.  <u>Saken er anket av påtalemyndigheten fordi de mener det bør brukes ubetinget straff. Forholdet er ofte av lignende karakter som under punkt 1, men retten har valgt å gjøre straffen betinget eller har idømt samfunnsstraff nettopp fordi man mente gjerningen ikke kvalifiserte til ubetinget fengsel.</u>
+
+Disse sakene kan tolkes dithen at man tidvis opplever at et rigid krav om ubetinget fengselsstraff blir for strengt. I noen få saker blir en betinget dom eller en dom på samfunnsstraff stående. Dette er gjerne i saker der gjerningspersonen har en lengre periode med rus og/eller kriminalitet bak seg og nå er inne i en situasjon hvor tiltalte er «på rett vei», ofte fordi vedkommende deltar i et behandlingsopplegg.
+
+1.  **<u>Levek</u><u>å</u><u>rsunders</u><u>ø</u><u>kelser om arbeidsmilj</u><u>ø</u><u> for politi og andre</u>**
+
+Utvalget har videre sett nærmere på data fra SSB om politiets utsatthet for vold.[^74] Statistisk sentralbyrå gjennomfører omlag hvert tredje år en levekårsundersøkelse med temaet arbeidsmiljø. Den siste som er tilgjengelig er fra 2013. Undersøkelsen omhandler et bredt spekter av spørsmål om fysisk, ergonomisk og psykososialt arbeidsmiljø, herunder spørsmål om utsatthet for vold og trusler. De tre siste undersøkelsene (2006, 2009, 2013) har vært gjennomført med store utvalg (ca. 8–10 000 respondenter netto). Dette gjør det mulig å finne utsattheten for mindre underutvalg av yrkesgrupper som politiet. I SSBs ordinære publiseringer er politiet slått sammen med andre yrkesgrupper – blant annet vektere, brannkonstabler, fengselsbetjenter, tollere og militære – til samlekategorien «sikkerhetsarbeidere, politi, tollere og militære». Dette er, som vi skal se, en av de mest utsatte gruppene i levekårsundersøkelsen om arbeidsmiljø.
+
+I det følgende skal vi for hvert spørsmål om vold og trusler presentere noen resultater fra 2013-undersøkelsen til SSB, fordelt på de mest utsatte gruppene. I tillegg vises gjennomsnitt for alle yrker. Denne presentasjonen er mulig for et bredere sett av spørsmål i denne levekårsundersøkelsen. Deretter skal vi for noen av spørsmålene vise resultatene for en særskilt bestilling til SSB som gir resultatene for politiansatte[^75] på alle nivåer for alle de tre undersøkelsene (2006, 2009 og 2013). Vi har vært nødt til å slå sammen de tre årgangene for å få et tilstrekkelig tallgrunnlag, ettersom det bare har vært 32 (2006), 40 (2009) og 40 (2013) politiansatte som har svart. Til sammen blir dette kun 112 respondenter.[^76] Tallgrunnlaget for hvert år er for lite til å si noe om det har vært signifikante endringer mellom de tre årgangene. For flere av spørsmålene kan vi bare bruke de to siste årene, fordi spørsmålene ikke var med i 2006. Tallene gir et situasjonsbilde for politiets utsatthet i denne perioden, og utsattheten er rimelig lik for de tre årene, de små tallene tatt i betraktning.
+
+1.  **<u>Utsatthet for vold</u>**
+
+Figur 6.12 under viser prosentandel av de som i 2013-undersøkelsen har vært utsatt for vold på arbeidsplassen i løpet av de siste 12 månedene. I spørsmålene er begrepet «vold» ikke definert, det er altså respondentenes tolkning av dette som er utslagsgivende for om de svarer ja eller nei. Utsattheten er høyest for «sikkerhetsarbeidere, politi osv.», men avstanden til sykepleiere og spesialsykepleiere, samt pleie- og omsorgsarbeidere, er ikke så stor.
+
+**<u>\[:figur:figX-X.jpg\]</u>**
+
+1.  <u>Prosentandel utsatt for vold på arbeidsplassen i løpet av siste tolv måneder. 2013.</u>
+
+<u>SSB</u>
+
+Når vi går inn på den avgrensete kategorien politiansatte (spesialbestillingen) blir andelen utsatte vesentlig høyere. Gjennomsnittet for 2009 og 2013 er på hele 48 prosent. Her har vi også mulighet til å skille mellom vold som har ført til *synlige merker eller* kroppsskader og vold som *ikke* har hatt slike konsekvenser. Andelen politiansatte som har opplevd vold av den antatt mest alvorlige typen, synker her til et gjennomsnitt på 23 prosent, mot 2,5 prosent for alle yrker. Utsattheten er likevel svært høy i forhold til andre sysselsatte.
+
+Det er også sett på antall ganger de som har oppgitt å være utsatt for vold har opplevd vold de siste tolv måneder. Figur 6.13 over viser antall ganger man har vært utsatt for vold i løpet av det siste året, for de personene som har vært utsatte. Her er det mange andre yrker som har vært hyppigere utsatt enn sikkerhetsarbeidere, politi osv. Vi har ikke mulighet til å vise hyppigheten av utsatthet for politiansatte isolert på grunn av for svakt tallgrunnlag.
+
+**<u>\[:figur:figX-X.jpg\]</u>**
+
+1.  <u>Antall ganger de som har opplevd vold på arbeidsplassen oppgir å ha vært utsatt for vold siste tolv måneder. 2013.</u>
+
+<u>SSB</u>
+
+1.  *<u>Trusler om vold</u>*
+
+Respondentene har også blitt spurt om trusler om vold av en type som var så alvorlig at man ble redd. Her er det «sikkerhetsarbeidere, politi osv.» og «sykepleiere og spesialsykepleiere» som topper med 16 prosent utsatte, se figur 6.14.
+
+**<u>\[:figur:figX-X.jpg\]</u>**
+
+1.  <u>Prosentandel av ulike yrkeskategorier som har opplevd trussel om vold som har vært så alvorlig at man ble redd. 2013.</u>
+
+<u>SSB</u>
+
+For politiansatte isolert er utsattheten i 2009 og 2013 samlet på høye 27,5 prosent. Merk også at det for truslenes del er satt inn en terskel i spørsmålstillingen: Respondenten må ha opplevd trusselen som så alvorlig at han eller hun ble redd. Hvorvidt man blir redd eller ikke vil kunne avhenge av mange faktorer: Trekk ved den som fremsetter trusselen, egen evne til å håndtere eventuelle voldelige handlinger, nærvær av andre kolleger og konstellasjonen mellom de to partene. Det er rimelig å anta at politiansatte som er trent til å takle vold vil ha høyere terskel for å si at trusselen gjorde dem redde. Samtidig kan også det å innrømme redsel være lite ønskelig hos enkelte. Disse to faktorene kan sees som indikatorer på underrapportering. På den annen side er politiansatte de siste årene blitt oppfordret til å anmelde vold i tjenesten, noe som kan ha senket deres terskel for hva de definerer som vold og trusler.
+
+Det er også sett på hyppigheten av slike trusler. Vi mangler igjen muligheten til å se hvor mange ganger politiansatte isolert har blitt utsatt for slike trusler som vist tidligere, men samlekategorien med «Sikkerhetsarbeidere osv.» viser så høye frekvenser og så betydelig overrepresentasjon at det er rimelig å anta at de politiansatte trekker opp.
+
+1.  **<u>Samlet bilde</u>**
+
+Slår vi sammen utsatthet for vold og trusler for alle tre årgangene levekårsundersøkelsen er gjort, ser vi at 56 prosent av de spurte politiansatte (N=112) isolert i gjennomsnitt har vært utsatt for en eller flere hendelser av forskjellig alvorlighetsgrad i hvert av årene. Tilsvarende frekvens for alle yrker er 7 prosent, altså en massiv overrepresentasjon. Det er ingen signifikant forskjell i utsatthet for politiansatte mellom de tre undersøkelsene, men tallgrunnlaget for de tre undersøkelsene er så små at forskjellen i utsatthet måtte vært svært omfattende for at vi skulle kunne si at det hadde skjedd signifikante endringer.
+
+Vi har også gjort en spesialbestilling til SSB, knyttet til denne samlekategorien av vold og trusler. Her har vi spesifisert syv yrker som vi antok var særlig utsatte, i tillegg til de politiansatte. Figur 6.15 viser at vernepleiere og politiansatte er like utsatte, selv om begge kategorier er små (hhv 61 og 40 respondenter) og den statistiske usikkerheten er derfor stor. Vernepleiere og politiansatte er også signifikant mer utsatte enn to andre kategorier helsepersonell (sykepleiere og helsepersonell), mens forskjellen i forhold til sikkerhetsarbeidere[^77] ikke er signifikant fordi denne kategorien også er liten (61 respondenter).
+
+**<u>\[:figur:figX-X.jpg\]</u>**
+
+1.  <u>Prosentandel i ulike yrkesgrupper utsatt for vold og trusler 2013.</u>
+
+<u>SSB</u>
+
+Det er også verdt å merke seg kjønnssammensetningen blant respondentene. Blant politiansatte er en fjerdedel kvinner og resten menn. Blant vernepleiere er en fjerdedel menn og resten kvinner. Hvis man tar som et utgangspunkt at menn i gjennomsnitt er fysisk sterkere, og at politifolk er særlig trent i å håndtere vold og alvorlige trusler, kan dette antyde at vernepleiere *kan* oppleve seg mer voldsutsatt enn politiansatte.
+
+Et vanskelig og viktig spørsmål er om det er overraskende at politifolk er mer utsatt for vold og trusler enn andre yrkesgrupper. Det er viktig å være klar over at levekårsundersøkelsene spør om utsatthet i løpet av siste 12 måneder. Gitt at politifolk hyppig er i situasjoner som kan ende i voldsbruk, er det vanskelig å ta disse undersøkelsene til inntekt for et utsagn av typen: Å bli utsatt for vold og alvorlige trusler er en del av politiets hverdag.
+
+1.  **<u>Innspill fra HMS-seksjonen i</u><u> </u><u>Politidirektoratet</u>**
+
+Bevæpningsutvalget har kontaktet HMS-seksjonen i Politidirektoratet og etterspurt svar på om POD besitter en nasjonal oversikt over omfang av hendelser de siste år der en tjenesteperson har blitt skadet i oppdrag hvor gjerningspersonen(e) hadde en eller annen form for våpen.
+
+Dersom POD ikke besitter denne oversikten, men har annen dokumentasjon som er relevant for HMS-aspektet i bevæpningsspørsmålet, ønsket utvalget å få dette oversendt.
+
+Utvalget mottok så en rapport som svar på denne bestillingen. Den ser på de siste tre år (2014, 2015 og 2016) (Politidirektoratet, HMS-seksjonen, 2016). Her sies det at det ikke finnes noen slik nasjonal oversikt over hendelser som nevnt i bestillingens første avsnitt. I rapporten sammenstilles informasjonen ansett relevant for HMS-aspektet i bevæpningsspørsmålet. Her tar de for seg hvilke systemer som kan gi informasjon om dette, begrensningene i disse systemene, samt presentasjon og diskusjon av de hendelser som anses relevant for utvalgets arbeid.
+
+<u>Det finnes pr i dag ikke enhetlige føringer, prosesser, opplæring, eller etablerte standarder for å rapportere inn uønskede hendelser og avvik i politi- og lensmannsetaten. Det blir benyttet flere ulike systemer i tillegg til flere forskjellige papirmaler både innen HMS, personvern og sikkerhetsområdet:\[…\] Det er i 2016 igangsatt et prosjekt for anskaffelse av nytt felles system for avvik og hendelser for hele politietaten (Politidirektoratet, HMS-seksjonen, 2016, s. 4).</u>
+
+<u>Bevæpningsutvalget spør etter en nasjonal oversikt over omfang av hendelser hvor tjenesteperson har blitt skadet i oppdrag hvor gjerningsperson hadde våpen. Som det fremkommer av forklaringen over har vi ikke en slik oversikt direkte (Politidirektoratet, HMS-seksjonen, 2016, s. 14).</u>
+
+Det er altså store begrensinger i materialet fra HMS-seksjonen i Politidirektoratet. Vi vil her se på hvilken informasjon rapporten får ut fra kategorien «vold og trusler» mot ansatte i HMS-modulen i TTA[^78]. Det er her sett til kategorier hvor det er registrert et visst antall saker i 2014 og 2015[^79]. Noen hendelseskategorier er tilnærmet identiske i omfang; dette gjelder *spytting* (95 saker i 2014, 92 saker i 2015), *trusler* (133 saker i 2014, 148 saker i 2015) og *vold* (363 saker i 2014, 372 saker i 2015). I saker registrert som *trusler med våpen* er det flere hendelser registrert i 2014 (22 saker) enn i 2015 (10), mens *vold med våpen* er registrert med færre hendelser i 2014 (28) enn i 2015 (33). Ettersom det omtales en generell økning i rapporteringen av de uønskede hendelsene, og noe økning dermed kan forventes, er det ikke noe her som kan indikere en faktisk endring fra 2014 til 2015.
+
+Rapporten viser videre til utslag av den midlertidige bevæpningen og til store ulikheter mellom de ulike distriktene og organisasjonsenhetene:
+
+<u>Økning i registrering av hendelser med våpen har nok sin begrunnelse i den generelle bevæpningen, dette gjelder spesielt hendelsene «Vådeskudd», og «Forsøk ta våpen», det samme kan sies om aktivitetene «Kontroll av våpen» og «Tømming av våpen».</u>
+
+<u>Vi synes det er interessant er at det er Øst og Sør-Øst som har flest registreringer av «Vold og Trussel» og ikke Oslo som man kanskje skulle tro, det er også spennende at Agder har et høyt antall registreringer (Politidirektoratet, HMS-seksjonen, 2016, s. 2).</u>
+
+1.  **<u>Oppsummering om vold i</u><u> </u><u>yrkeslivet</u>**
+
+Det er utfordrende å skulle si noe sikkert om hvorvidt politiet er *mer* utsatt for vold og trusler enn de var tidligere. Anmeldelsesstatistikken forteller oss at det er langt flere som anmelder vold mot tjenestemann enn før. Samtidig er det er lite som tyder på at volden er blitt grovere enn tidligere. Når det gjelder omfanget av den faktiske volden, altså både den som oppdages og anmeldes, og den som ikke gjør det, er det her dokumentert at politiet er en av de mest utsatte yrkesgruppene, men det er vanskelig å påvise en eventuell endring fra tidligere år. Dette viser blant annet viktigheten av gode registreringsrutiner internt i politiet, og at HMS-arbeid må prioriteres.
+
+1.  **<u>Trusselbildet og terrorutviklingen</u>**
+
+Terrorhendelser er hendelser som i tillegg til å forårsake skade og potensielt ta liv, bidrar til å skape frykt i befolkningen. Utvalget har sett nærmere på utviklingen i terrorisme i Vest-Europa generelt og på trusselbildet for Norge spesielt. Deretter vil det drøftes hvorvidt denne utviklingen gir behov for endring av bevæpningsmodell for det norske politiet. Kapittelet vil starte med de lange linjene og utviklingen i Vest-Europa sett over tid. Deretter vil de mest aktuelle aktørene i terrorismen i dagens Vest-Europa og Norge beskrives. Det vil så drøftes hvilken betydning bevæpningsmodell eventuelt kan ha i håndteringen av slike angrep.
+
+1.  **<u>Hva er terrorisme?</u>**
+
+Sikkerhetsloven § 3 definerer terrorhandlinger som «ulovlig bruk av, eller trussel om bruk av, makt eller vold mot personer eller eiendom, i et forsøk på å legge press på landets myndigheter eller befolkning eller samfunnet for øvrig for å oppnå politiske, religiøse eller ideologiske mål» (Sikkerhetsloven, 1998). I det følgende anvendes en definisjon fra forskningen. Terror blir her forstått som «en ikke-statlig aktørs systematisk bruk av vold og ødeleggelse – eller trusler om dette – mot ikke-stridende med sikte på å skape en tilstand av frykt, få oppmerksomhet om en politisk sak og å påvirke atferden også til andre enn de direkte ofrene for terroraksjonen» (Romarheim, 2005). Dette ekskluderer vold mot stridende parter og rene attentater. Jan Oscar Engene, førsteamanuensis i sammenlignende politikk ved Universitetet i Bergen, har forskning på terrorisme og terrorbekjempelse som sitt fagfelt. Han drøfter terrordefinisjonens begrensninger, for eksempel i forhold til angrep mot statens maktapparat (Engene, 2011, s. 62), og om dette er terrorisme, ettersom dette kan synes å falle utenfor definisjonen beskrevet over. Slike angrep er i følge ham lette å definere som terror i fredelige land, som for eksempel angrep på en politistasjon, men at dette kan være mer uklart dersom det skjer i land som er i krig. Når vi her snakker om terrorisme i Vest-Europa de siste 50 år, vil derfor slike angrep være en del av bildet. Dette gjør det metodisk utfordrende å sammenligne på tvers av land, over tid osv. Jore (4.1.2017) beskriver hvordan terror er et fenomen som er sosialt konstruert og at det er et begrep i endring. Tiltakene samfunnet setter inn preges av hvordan vi forstår fenomenet (Jore, 4.1.2017).
+
+1.  **<u>Dilemmaer i h</u><u>å</u><u>ndtering av terror</u>**
+
+Det er mange dilemmaer som oppstår i håndteringen av terrortrusler (jf. punkt 3.3.2). Dersom en ser på antall døde som følge av terror, fremstår terrortrusselen som marginal sammenlignet med fenomener som for eksempel selvmord og trafikkulykker (Mykletun, 2016). Terror skaper frykt i samfunnet, på en måte som ikke står i proporsjonalitet til den faktiske faren den utgjør, sammenlignet med andre uønskede fenomener. Professor Nick Sitter beskriver at terrorister har som mål å provosere frem overreaksjoner fra staten, slik at staten bruker sin styrke mot seg selv og at målet er å skape frykt og vinne økt støtte i befolkningen (forskning.no, 22.2.2017). På spørsmål om ikke terroristene ofte lykkes i å fremprovosere kraftige reaksjoner, svarer han at:
+
+<u>Når de lykkes så ofte, kan det skyldes at politiske ledere har behov for å vise handlekraft etter et terrorangrep. Det oppstår en spenning mellom det å gjøre noe raskt og det å gjøre noe fornuftig. Å gjøre noe raskt er ikke nødvendigvis det samme som å gjøre noe fornuftig, understreker BI-professoren.</u>
+
+<u>Nye tiltak gjennomført rett etter et attentat er nesten per definisjon lite gjennomtenkte, og de kan være vanskelige å oppheve i etterkant, advarer han.</u>
+
+Dette illustrerer dilemmaene knyttet til samfunnssikkerhetsarbeid. Samtidig som et samfunn vil gjøre det det kan for å avverge og håndtere slike forferdelige angrep, er det utfordrende å finne svar som ikke går på bekostning av sentrale samfunnsverdier.

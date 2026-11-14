@@ -1,913 +1,290 @@
-# NOU 2016: 24, del 40 av 73 (side 432–441)
+# NOU 2016: 24, del 40 av 69
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/1182afc0-nou-2016-24.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-24/id2517932/
 - Original-PDF: https://www.regjeringen.no/contentassets/6fe1d875248042b4a09b43b85aa46832/no/pdfs/nou201620160024000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 9 tabeller, 1 figur, 52 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 432]
-
-430
-
-Kapittel 19
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-henger sammen med vår straffeprosesstradisjons
-vektlegging av hensynet til å fremme sannheten: Er
-det ingen sammenheng mellom feilen og den påankede avgjørelsen, bør resultatet heller ikke settes
-til side, og man ser bort fra «formalitetene».
-Skillet mellom absolutte og relative saksbehandlingsfeil har betydning i særlig to relasjoner.
-Skillet har, som allerede nevnt, og som nærmere
-utdypet nedenfor i punkt 19.3.3 og 19.3.4, betydning for hvordan saksbehandlingsfeil blir vurdert.
-Sondringen har dessuten betydning for ankedomstolens adgang til å gå utenfor ankegrunnene. Retten kan uansett ankegrunn etter omstendighetene
-oppheve dommen på grunn av absolutte saksbehandlingsfeil, også til tiltaltes skade, jf. straffeprosessloven § 342 annet ledd nr. 4.
-Saksbehandlingsfeil som omfattes av § 343
-annet ledd, behandles etter en mer relativ eller
-skjønnsmessig vurdering når de tas opp utenfor
-anken, se for eksempel Rt. 1995 s. 1900 og Rt. 1999
-s. 456. Dette fremgår for så vidt allerede av ordlyden, der lovgiver har benyttet uttrykkene «kan»
-og «etter omstendighetene». At de «absolutte»
-saksbehandlingsfeil ikke virker absolutt i denne
-sammenheng, har sin begrunnelse i at «en så stram
-ordning […] trolig kunne føre til urimelige resultater i det enkelte tilfelle».7 Det følger også av rettspraksis at opplistingen av absolutte feil i § 343 annet
-ledd ikke er uttømmende i relasjon til § 342 annet
-ledd nr. 4, jf. Rt. 2005 s. 1775 avsnitt 36 og 37.
-Til tiltaltes gunst kan retten utenfor ankegrunnene oppheve dommen på grunn av enhver saksbehandlingsfeil som kan ha virket inn på dens innhold, jf. straffeprosessloven § 342 annet ledd nr. 3.
-19.3.3 Nærmere om de relative
-saksbehandlingsfeil
-Hovedregelen for hvordan saksbehandlingsfeil
-skal bedømmes, finnes i straffeprosessloven § 343
-første ledd – «feil ved saksbehandlingen kommer
-bare i betraktning når det antas at feilen kan ha
-innvirket på dommens innhold». At den som har
-begått saksbehandlingsfeilen, er å klandre, er
-ikke et vilkår etter bestemmelsen.
-Det er ikke nødvendig å påvise at feilen positivt har hatt betydning. At det er en rimelig mulighet for at feilen har virket inn, er tilstrekkelig. Om
-hva som nærmere bestemt ligger i dette, har
-Høyesterett blant annet uttalt følgende i Rt. 2005
-s. 907:
-
-«Ved avgjørelsen av hvor stor grad av sannsynlighet som må kreves for at feilen kan ha virket
-inn på dommens innhold, taler gode grunner
-for å skille mellom frifinnende og fellende dommer. For at en fellende dom skal oppheves på
-grunn av saksbehandlingsfeil, er det etter sikker rettspraksis tilstrekkelig at det foreligger
-en rimelig mulighet for at feilen har hatt betydning. Dersom dommen er frifinnende, og feilen
-er av en slik karakter at påtalemyndigheten
-burde ha tatt spørsmålet opp under hovedforhandlingen, bør det imidlertid etter min
-mening stilles krav om en noe større grad av
-sannsynlighet for at feilen kan ha virket inn.»8
-Dette viser at innvirkningsvurderingen er relativ
-og avhenger av en rekke forhold. Et annet eksempel på dette er at det ved manglende kontradiksjon i rettspraksis gjennomgående stilles lave krav
-til sannsynligheten for innvirkning, se for eksempel Rt. 2010 s. 84 avsnitt 12, Rt. 2009 s. 1188 og Rt.
-2007 s. 455, begge avsnitt 13, samt Rt. 2005 s. 1131
-avsnitt 12.9
-Er det begått flere saksbehandlingsfeil, må feilene vurderes i sammenheng. Fordi en dom bare
-skal bygge på det som har fremkommet under
-hovedforhandlingen, jf. straffeprosessloven § 305,
-vil saksbehandlingsfeil begått på et tidligere tidspunkt bare kunne tillegges virkning hvis feilen
-likevel kan ha hatt betydning for hovedforhandlingen. For tilståelsesdommer, som i stor utstrekning baserer seg på etterforskingsmateriale og tiltaltes forklaring, vil dette stille seg annerledes.10
-Det kan være grunn til å understreke at spørsmålet om innvirkningskravets innhold må holdes
-klart adskilt fra spørsmålet om hvilket beviskrav
-som gjelder for å legge til grunn faktiske forhold
-som hevdes å utgjøre en saksbehandlingsfeil.
-Men bevistvil om faktiske forhold kan selvsagt
-være en usikkerhetsfaktor i domfeltes disfavør
-som kommer i tillegg til usikkerhet om innvirkningen av en saksbehandlingsfeil. Som utgangspunkt må det alminnelige beviskravet for forhold
-av prosessuell betydning komme til anvendelse,
-det vil si sannsynlighetsovervekt.11 Se punkt
-13.2.7.
-
-8
-9
-10
-
-7
-
-Se Straffeprosesslovkomitéen (1969) s. 324–325.
-
-11
-
-Rt. 2005 s. 907 avsnitt 44.
-Se mer inngående om dette i Løvlie (2014) s. 536 flg.
-Se Andenæs og Myhrer (2009) s. 523.
-Rt. 1994 s. 1139 på s. 1142 og Rt. 2004 s. 1561 avsnitt 11.
-
-[Side 433]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-19.3.4 Nærmere om de absolutte
-saksbehandlingsfeil
-De saksbehandlingsfeil som omfattes av straffeprosessloven § 343 annet ledd nr. 1 til 8, utgjør en
-sammensatt gruppe og reiser mange tolkningsspørsmål som det for utvalgets formål ikke er nødvendig å gå nærmere inn på. Om disse feilene finnes det også en omfattende høyesterettspraksis
-som ikke behandles i detalj her. I det følgende
-gjennomgås således bare hovedtrekkene i listen
-over de absolutte saksbehandlingsfeilene.
-Bestemmelsen i § 343 skiller mellom de ulike
-absolutte saksbehandlingsfeilene ved at enkelte
-kun er absolutte såfremt dommen det ankes over,
-er fellende, se tredje ledd. Dette gjelder nr. 1 om
-manglende påtalebegjæring, nr. 2 om ikke kompetent påtalemyndighet, nr. 6 om ulovlig fremme av
-saken i tiltaltes fravær og nr. 7 om manglende oppnevnelse av forsvarer. Dertil kommer som allerede nevnt at de saksbehandlingsfeil bestemmelsen lister opp, behandles som relative når domstolen behandler dem utenfor anken etter straffeprosessloven § 342 annet ledd nr. 4.
-Etter nr. 1 er det en absolutt saksbehandlingsfeil at «nødvendig påtalebegjæring mangler».
-Dette omfatter både begjæring fra fornærmede og
-fra offentlig myndighet i de sakene dette er nødvendig.12 Bestemmelsens betydning ble redusert
-ved ikrafttredelsen av straffeloven 2005, som avviklet den generelle ordningen med privat påtalebegjæring. At loven benytter uttrykket «mangler»,
-og ikke fortidsformen «manglet», er ikke tilfeldig.
-Manglende påtalebegjæring er en saksbehandlingsfeil som kan repareres:
-«Presensformen – mangler – gir uttrykk for at
-feilen kan repareres også etter at dom er avsagt
-i første instans, nemlig ved at påtalebegjæring
-senere blir fremsatt, såfremt dette skjer innen
-fristen for fremsettelse av påtalebegjæring (jfr.
-strl. § 80).»13
-
-12
-
-For fornærmedes vedkommende, se nærmere i straffeloven kapittel 7. Et eksempel på at begjæring fra offentlig
-myndighet er nødvendig for påtale, er forurensningsloven
-§ 78 tredje ledd. Et annet eksempel er at straffeforfølgning
-av de kongelige prinser og prinsesser forutsetter beslutning fra Kongen i statsråd, jf. Grunnloven § 37.
-13
-Straffeprosesslovkomitéen (1969) s. 326. Disse synspunkter om reparasjon av manglende påtalebegjæring er for
-øvrig lagt tilsvarende til grunn for det tilfellet at påtalemyndigheten har unnlatt å vurdere om påtale er påkrevd av allmenne hensyn, jf. Rt. 1991 s. 431. Dette er imidlertid en
-saksbehandlingsfeil som er relativ og skal bedømmes etter
-straffeprosessloven § 343 første ledd.
-
-431
-
-Kapittel 19
-
-Straffeprosessloven § 343 annet ledd nr. 2 fastslår
-at også manglende påtalekompetanse er en absolutt saksbehandlingsfeil. Men dette er en feil som i
-motsetning til manglende påtalebegjæring ikke kan
-repareres etter avsagt dom ved etterfølgende godkjenning av kompetent påtalemyndighet.14 Regler i
-påtaleinstruksen som avviker fra straffeprosesslovens regler om kompetent påtalemyndighet, er
-uten betydning for hvem som er «rett myndighet» i
-§ 343 annet ledd nr. 2. Det er tilstrekkelig at kompetansereglene i straffeprosessloven er overholdt –
-påtaleinstruksen «må betraktes som en intern
-instruks», og manglende overholdelse «påvirker
-ikke tiltalens gyldighet», jf. Rt. 2010 s. 929 avsnitt
-29. Derimot vil manglende overføring av påtalekompetanse som kan delegeres etter straffeprosessloven, ikke gå klar av bestemmelsen, se for
-eksempel Rt. 2000 s. 1084 på s. 1087. Høyesterett
-har godtatt at feil som består i at ikke ankeberettiget påtalemyndighet har inngitt anke, blir reparert
-ved at ankeberettiget påtalemyndighet tiltrer anken
-etter utløpet av ankefristen, jf. Rt. 2005 s. 1153.
-Annet ledd nr. 3 regulerer det tilfellet at domstolen ikke er korrekt sammensatt. Dette omfatter
-en rekke regler om domstolens sammensetning.
-En del av disse er imidlertid ikke absolutte. Allerede av ordlyden følger det «at en sak feilaktig er
-pådømt med meddommere, at det ikke har vært
-like mange meddommere av hvert kjønn, at den
-er pådømt med meddommere av de alminnelige
-utvalg i stedet for av det særlige, eller med oppnevnte meddommere i stedet for uttrukne», ikke
-skal tillegges ubetinget virkning. Manglende dommerforsikring innebærer heller ikke at domstolen
-ikke er «lovlig besatt» i bestemmelsens forstand,
-jf. Rt. 2012 s. 1035. Manglende rettsvitne etter
-domstolloven § 31 omfattes heller ikke, jf. Rt. 1975
-s. 1107. Derimot, og særlig praktisk, regnes overtredelse av domstollovens habilitetsregler som en
-absolutt saksbehandlingsfeil.15
-At «dommen er avsagt av en rett som ikke var
-domsmyndig i saken» (annet ledd nr. 4), omfatter
-både reglene om domstolenes saklige og stedlige
-virkeområde (se likevel straffeprosessloven § 16)
-og spørsmålet om norske domstolers jurisdiksjon.
-Bestemmelsen dekker også den situasjon at saken
-er fremmet til behandling som tilståelsessak uten
-at vilkårene for dette er oppfylt, for eksempel fordi
-det ikke foreligger en uforbeholden tilståelse eller
-samtykke mangler.16
-14
-15
-16
-
-Se Straffeprosesslovkomitéen (1969) s. 326.
-Se nærmere om hvordan bestemmelsen er forstått i Bjerke,
-Keiserud og Sæther (2011) s. 1200–1202.
-Se nærmere i Bjerke, Keiserud og Sæther (2011) s. 1202.
-
-[Side 434]
-
-432
-
-Kapittel 19
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-Straffeprosessloven § 343 annet ledd nr. 5
-omfatter den situasjon at saken ikke er avvist til
-tross for at det finnes en rettskraftig avgjørelse.
-Annet ledd nr. 6 – «at saken i strid med loven
-er fremmet i siktedes fravær» – viser for det første
-til straffeprosesslovens regler i §§ 281 og 336
-annet og tredje ledd. At siktedes verge ikke har
-vært til stede under forhandlingene, omfattes
-ikke, men skal vurderes etter § 343 første ledd.17
-At «siktede ikke har hatt forsvarer enda det
-etter loven var nødvendig», er etter annet ledd
-nr. 7 en absolutt saksbehandlingsfeil. Dette omfatter særlig reglene i lovens kapittel 9 om når
-siktede skal ha forsvarer, spesielt §§ 96, 99 og
-328.18
-Etter annet ledd nr. 8 er det en absolutt saksbehandlingsfeil hvis domsgrunnene er så mangelfulle at det «hindrer prøving av anken».
-Vurderingstemaet er «hvordan domsgrunnene
-sett i sammenheng er å forstå», jf. Rt. 2007 s. 676
-avsnitt 14. Bestemmelsen omfatter kvalifiserte
-brudd på kravene til utforming av domsgrunner,
-se straffeprosessloven §§ 39 til 41. At domstolen
-ikke har maktet å gi en tilfredsstillende begrunnelse for bevisresultatet, er derimot ikke en absolutt saksbehandlingsfeil, men en relativ.19 Selv om
-mangelfull begrunnelse formelt er inkludert i oppregningen av absolutte saksbehandlingsfeil, kan
-den vanskelig sies å være absolutt i ordets egentlige forstand, ettersom det å vurdere om domsgrunnene har «mangler som hindrer prøving»,
-forutsetter en innvirkningsvurdering i lys av de
-formål begrunnelsesplikten skal ivareta.
-Den relativt omfattende listen over absolutte
-saksbehandlingsfeil i straffeprosessloven § 343
-annet ledd er antatt ikke å være uttømmende.20
-Dette kan virke noe uformidlet gitt bestemmelsens utforming og oppbygning.
-19.3.5 Rettsvirkninger av at det foreligger en
-saksbehandlingsfeil
-Bestemmelsen i straffeprosessloven § 343 regulerer utelukkende når saksbehandlingsfeil kommer
-17
-
-Se Straffeprosesslovkomitéen (1969) s. 326.
-Se nærmere om bestemmelsen i Bjerke, Keiserud og
-Sæther (2011) s. 1203 og særlig Andenæs og Myhrer
-(2009) s. 525.
-19
-Se Ot.prp. nr. 78 (1992–93) s. 78 og Rt. 2010 s. 1042 avsnitt
-24. Se nærmere om bestemmelsen i straffeprosessloven
-§ 343 annet ledd nr. 8 i Bjerke, Keiserud og Sæther (2011)
-s. 1203–1204.
-20
-Se Bjerke, Keiserud og Sæther (2011) s. 1199. I relasjon til
-straffeprosessloven § 342 annet ledd nr. 4 se Rt. 2005
-s. 1775.
-18
-
-«i betraktning», og er taus om de konkrete rettsvirkningene av at det foreligger en relevant feil
-etter bestemmelsen. Hva det nærmere innebærer
-at en feil kommer i betraktning eller tillegges virkning etter § 343, følger av § 345:
-«Når forhandlingen gjelder bevisbedømmelsen under skyldspørsmålet, avgjøres anken
-ved dom etter reglene i § 40.
-Dersom retten i andre tilfelle ikke finner
-grunn til å endre eller oppheve den påankede
-dom, forkastes anken. I motsatt fall avsier retten ny dom dersom de nødvendige forutsetninger er til stede; ellers oppheves den angrepne
-dom.»
-Som det fremgår av bestemmelsens annet ledd
-første punktum, skal en anke over saksbehandlingen forkastes hvis det ikke er begått en saksbehandlingsfeil, eller den påankede feilen ikke er
-relevant etter § 343. For det motsatte tilfellet – at
-saksbehandlingsfeilen som er begått, er absolutt
-eller må antas å ha virket inn på avgjørelsens
-innhold – vil resultatet normalt bli at underinstansens avgjørelse oppheves, jf. straffeprosessloven
-§ 345 siste punktum. Som regel vil det også innebære at hovedforhandlingen oppheves, jf. straffeprosessloven § 347 første ledd.
-Det kan imidlertid tenkes at virkningen av
-saksbehandlingsfeilen kun angår en del av dommen, og at opphevelsen begrenses til denne i
-medhold av straffeprosessloven § 347 annet ledd –
-for eksempel ulovlig bevisføring som kun har hatt
-betydning for avgjørelsen av ett av flere tiltalepunkter. Hvis saksbehandlingsfeilen kun har hatt
-betydning for straffespørsmålet, og «de nødvendige forutsetninger er til stede», kan det dessuten
-avsies ny dom etter straffeprosessloven § 345
-siste punktum.
-Saksbehandlingsfeil kan også utløse rettsvirkninger uavhengig av reglene i §§ 342, 343 og
-345. For eksempel er lang behandlingstid en
-saksbehandlingsfeil som kan påvirke straffutmålingen både etter rent interne norske straffutmålingsregler og når det utgjør et brudd på
-Den
-europeiske
-menneskerettskonvensjon
-(EMK) artikkel 6 nr. 1, jf. artikkel 13.21 Saksbehandlingsfeil som består i konvensjonsbrudd,
-kan også utløse et krav på at bruddet konstateres
-i avgjørelsens premisser, og etter omstendighetene gi krav på erstatning.
-21
-
-Se for eksempel Rt. 2012 s. 1246 og Rt. 2003 s. 52 avsnitt 30.
-
-[Side 435]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-19.4 Utvalgets vurderinger
-19.4.1 Grunnleggende utgangspunkter og
-hensyn bak utvalgets synspunkter
-Hva som bør være konsekvensene av saksbehandlingsfeil, og hvilke saksbehandlingsfeil som bør
-føre til at en avgjørelse oppheves og henvises til
-ny behandling, lar seg ikke besvare generelt med
-særlig presisjon. Valg av løsning henger sammen
-med hvordan man vurderer en rekke hensyn, og
-hvilken situasjon man tar utgangspunkt i.
-Som det har fremgått, er de gjeldende reglene
-om virkningen av saksbehandlingsfeil innrettet
-med tanke på domstolenes ankebehandling. Saksbehandlingsfeil kan imidlertid begås på alle
-stadier av prosessen og av høyst ulike beslutningstakere og aktører, for eksempel den enkelte
-polititjenesteperson, en tjenesteperson i påtalemyndigheten, eller en fag- eller lekdommer,
-Gjenopptakelseskommisjonen eller Statens sivilrettsforvaltning ved vurdering av siktedes erstatningskrav i forbindelse med straffeforfølgningen.
-Etter utvalgets syn er utgangspunktet for
-håndtering av saksbehandlingsfeil uansett klart
-og av generell gyldighet: Straffeprosessens regler
-er til for å følges, og saksbehandlingsfeil bør unngås. Hensynet til effektivt gjennomføring av straffesaker kan tale for at materielt riktige avgjørelser
-bør bli stående selv om det er begått formelle feil.
-Men uavhengig av om en feil har potensial til å
-virke inn på den aktuelle avgjørelsens innhold, er
-det lite tilfredsstillende for vår prosessordning
-hvis regler stadig brytes. At straffeprosessen er
-klar og forutberegnelig, må antas å ha stor betydning for den generelle tilliten til strafferettspleien
-og for systemets effektivitet.
-Om det så skulle skje at man under straffesakens gang bryter en regel om behandlingsmåten,
-bør den ansvarlige rette opp dette så vidt det er
-mulig. Dette må gjelde ikke bare ankeinstansens
-behandling av straffesaken, men enhver som er
-gitt myndighet etter loven. Det er en selvfølge at
-den som har ansvar for å treffe en avgjørelse, etter
-beste evne søker å avhjelpe feil som er begått i
-saken. For feil av betydning for avgjørelsesgrunnlaget følger dette av den generelle plikten til å
-påse at avgjørelser bygger på et korrekt avgjørelsesgrunnlag, se utkastet § 7-1 første ledd.
-19.4.2 Bør reglene om konsekvensene av
-saksbehandlingsfeil gjøres generelle?
-Utvalget mener virkningene av at det er begått
-feil, fortsatt bør reguleres generelt for dommer og
-
-433
-
-Kapittel 19
-
-rettslige beslutninger, se utkastet §§ 39-8 første
-ledd og 39-10 første ledd. Også for andre beslutningstakere enn retten gjelder det saksbehandlingsregler, og brudd på disse reglene kan få
-betydning for avgjørelsenes gyldighet. Det er således et spørsmål om hvorvidt reglene om rettsvirkninger av saksbehandlingsfeil bør gis et videre
-anvendelsesområde.
-I gjeldende lov er det ingen regel som direkte
-regulerer saksbehandlingsfeilenes betydning i
-slike sammenhenger. For påtalemyndighetens
-avgjørelser er det derfor i enkelte sammenhenger
-tatt til orde for å anvende regelen i straffeprosessloven § 343 første ledd analogisk.22
-Utvalgets syn er at det ikke er hensiktsmessig
-å la reglene om virkningene av saksbehandlingsfeil omfatte utenrettslige avgjørelser. Særlig sentralt er at det under etterforskingen ofte vil – og
-bør – være uten betydning for gyldigheten av de
-beslutninger som treffes, at formelle fremgangsmåter for etterforskingen ikke er fulgt. Det er derfor ikke aktuelt å gi en eventuell generell regulering av saksbehandlingsfeil samme innhold for
-rettslige og utenrettslige avgjørelser. Noen utenrettslige avgjørelser som er av betydning for den
-rettslige behandlingen, vil likevel omfattes, for
-eksempel der påtalevedtak er truffet av ikke
-kompetent påtalemyndighet.
-Utvalget går heller ikke inn for å lovregulere
-hvordan betydningen av saksbehandlingsfeil som
-hefter ved utenrettslige avgjørelser, eller deres
-rettsvirkninger, skal bedømmes. Betydningen av
-at det er begått en saksbehandlingsfeil, vil i alminnelighet være så ulik at spørsmålet ikke bør reguleres generelt.
-19.4.3 Bør ordningen med relative og absolutte
-saksbehandlingsfeil videreføres?
-Reglene som styrer straffeprosessen, har samlet
-sett som mål å legge til rette for en rettssikker,
-effektiv og betryggende behandling av straffekravet, tilhørende sivile krav og ulike begjæringer.
-Spørsmålet i det følgende er hvordan ulike typer
-saksbehandlingsfeil skal reguleres.
-Saksbehandlingsfeil kan være av meget ulik
-karakter og kan forekomme på ethvert stadium av
-prosessen. En saksbehandlingsfeil kan gjelde den
-aktuelle sak som et spørsmål om hvorvidt avgjørelsen bør oppheves, eller den kan gjelde spørs-
-
-22
-
-Se Bjerke, Keiserud og Sæther (2011) s. 214 ved spørsmål
-om gyldigheten av påtalevedtak fattet av inhabile tjenestemenn.
-
-[Side 436]
-
-434
-
-Kapittel 19
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-mål om rett til erstatning eller konstatering av at
-det har funnet sted en konvensjonskrenkelse.
-For spørsmålet om hvorvidt en saksbehandlingsfeil bør tillegges betydning for en aktuell
-avgjørelse med den virkning at avgjørelsen oppheves, har et grunnleggende synspunkt vært at det
-må bero på betydningen av at det er begått en feil.
-Dersom det med en viss grad av sannsynlighet
-kan fastslås at saksbehandlingsfeilen har virket
-inn på avgjørelsens innhold, bør hele avgjørelsen
-eller de deler av den som feilen hefter ved, oppheves. Dette vil også et stykke på vei være nødvendig av hensyn til kravene til rettergangen som
-følger av Grunnloven § 95.
-Utvalget mener dette er riktig utgangspunkt. I
-andre tilfeller enn der saksbehandlingsfeilen kan
-ha innvirket, er det ikke grunn til å la feil i behandlingen få virkninger i den enkelte sak, se nærmere
-om kravet til innvirkning i punkt 19.3.2.1. Selv om
-opphevelse som følge av feil uten innvirkning nok
-vil ha en viss oppdragende virkning og korrigere
-uheldig praksis, ikke minst ved mer systematiske
-brudd på prosesslovgivningen, er utvalgets syn at
-slike virkninger i alminnelighet bør søkes oppnådd ved andre tiltak enn opphevelse av enkeltavgjørelser.
-Spørsmålet er så om sondringen mellom relative og absolutte saksbehandlingsfeil, slik den er
-redegjort for i punkt 19.3.2, bør videreføres. I tidligere revisjoner av norsk straffeprosess er det som
-nevnt gjort gjeldende at det neppe fører til betenkelige resultater å la alle saksbehandlingsfeil vurderes etter en slik relativitetssetning som i dag finnes i straffeprosessloven § 343 første ledd. I Danmark blir alle feil gjenstand for en slik relativ vurdering, jf. retsplejeloven § 925.
-En forutsetning for diskusjonen om hvorvidt
-det bør gjelde et generelt innvirkningskriterium,
-er at feil som anses som absolutte, lar seg
-bedømme ut fra samme innvirkningsstandard
-som de relative. Det er grunn til å sette spørsmålstegn ved om denne forutsetningen er holdbar, og
-om det – ut fra de legislative forutsetningene – i
-det hele tatt gir mening å etterspørre en innvirkningsvurdering for den type feil som i dag har
-absolutt virkning.
-Mens virkningen av relative saksbehandlingsfeil er begrunnet ut fra hensynet til avgjørelsens
-innhold, er opphevelse ved absolutte saksbehandlingsfeil først og fremst begrunnet ut fra at visse
-generelle betingelser må være oppfylt før det i det
-hele tatt skal kunne treffes en avgjørelse. Dette er
-særlig tydelig for feil som knytter seg til manglende prosessforutsetninger og rettens beslutningsmyndighet. Opphevelse på slikt grunnlag
-
-verner om straffeprosesslovens forutsetninger
-om anklage- og domsmyndighet.
-Men også de øvrige saksbehandlingsfeilene
-med absolutt virkning etter § 343 annet ledd verner om slike grunnleggende betingelser som må
-være på plass før det treffes en avgjørelse. Det
-gjelder også feil som kunne vært vurdert ut fra et
-innvirkningskriterium, men som man har valgt å
-la være absolutte krav, som for eksempel «at
-saken i strid med loven er fremmet i siktedes fravær», og «at siktede ikke har hatt forsvarer enda
-det etter loven var nødvendig», jf. § 343 annet ledd
-nr. 6 og 7. Også alternativet «at domsgrunnene
-har mangler som hindrer prøving av anken», må
-forstås som en slik absolutt forutsetning. At det
-gis skriftlig begrunnelse, er en nødvendig forutsetning for straffeprosesslovens ankeadgang, se
-drøftelsen om betydningen av begrunnelser i
-punkt 17.7.
-Nevnte forutsetninger skal altså være på
-plass uaktet betydningen det har hatt for avgjørelsens konkrete innhold, og det følger således
-at det er problematisk å la kriteriet om innvirkning gjelde generelt for opphevelse for alle typer
-feil ved saksbehandlingen. Det er ikke aktuelt å
-åpne for en relativisering av de grunnleggende
-betingelsene for å treffe en avgjørelse. For tiltalte vil dessuten det at disse forutsetningene må
-være på plass, et stykke på vei følge av kravet i
-Grunnloven § 96 om at ingen skal «straffes uten
-etter dom».
-Straffeprosesslovens skille mellom relative og
-absolutte saksbehandlingsfeil markerer altså at
-man står overfor ulike typer krav til saksbehandlingen. Spørsmålet er så om skillet av lovtekniske
-grunner bør videreføres i form av en opplisting av
-de absolutte saksbehandlingsfeilene som i § 343
-annet ledd.
-Til støtte for å videreføre en slik liste taler at
-skillet mellom absolutte og relative feil har lang
-tradisjon i prosesslovgivningen, er innarbeidet og
-har fungert nokså godt som rettesnor for bedømmelsen av virkningene av saksbehandlingsfeil, se
-punkt 19.3. Videre vil det gi en viss harmoni mellom innretningen av prosesslovene, ettersom tvisteloven § 29-21 annet ledd bygger på et slikt skille,
-selv om listen er kortet vesentlig ned sammenlignet med straffeprosessloven § 343 annet ledd og
-den tidligere tvistemålsloven § 384 annet ledd.
-Også hensynet til klarhet kan tale for
-sondringen. Men selv om en liste vil lette dommerens vurdering av om en avgjørelse skal bli stående, er enkelte feil av en slik karakter at de med
-nødvendighet må føre til opphevelse ut fra lovens
-forutsetninger. Det gjelder blant annet når saken
-
-[Side 437]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-var rettskraftig avgjort, jf. straffeprosessloven
-§ 343 annet ledd nr. 5.
-Et argument mot å angi de absolutte kravene
-spesifikt i loven er at lovteksten kan bli for stivbent og omfatte forhold som ikke bør resultere i
-opphevelse. På den annen side vil en fleksibel
-utforming kunne føre til en uensartet og situasjonsavhengig praksis.
-Rettspraksis kan tyde på at domstolene ikke har
-veket tilbake for å sette et påbud om en saksbehandlingsfeils ubetingede virkning ut av spill – eller
-tolke en slik regel innskrenkende – når det faktisk
-er klart at feilen ikke har påvirket avgjørelsen, og
-feilen ikke anses å ramme de grunnleggende
-betingelser for å treffe avgjørelser. Et eksempel er
-Rt. 2012 s. 1035, der betydningen av manglende
-dommerforsikring i et lengre obiter dictum er
-drøftet opp mot tvisteloven § 29-21 annet ledd bokstav b og straffeprosessloven § 343 annet ledd nr. 3.
-Opplisting av absolutte saksbehandlingsfeil kan
-også føre til at primære saksbehandlingsregler
-legges under press, for eksempel slik at den
-skjønnsmessige bestemmelsen i domstolloven
-§ 108 mer eller mindre ubevisst tolkes i lys av hva
-konstatert inhabilitet vil kunne innebære, jf.
-straffeprosessloven § 343 annet ledd nr. 3. Også
-dette kan føre til en uensartet og situasjonsavhengig praksis.
-Utvalget har kommet til at det bør fremgå av
-loven at det skal føre til opphevelse dersom lovens
-grunnleggende forutsetninger for å treffe avgjørelse ikke foreligger. Se nærmere om utformingen av loven i punkt 19.4.5. For beslutninger er
-det tilstrekkelig at retten kan oppheve avgjørelsen
-ved slike feil, ettersom feilen også bør kunne repareres ved at det treffes en ny avgjørelse, sml.
-straffeprosessloven § 385 fjerde ledd.
-19.4.4 Nærmere om kravet til innvirkning
-Utvalget er bedt om å ta stilling til hvilke saksbehandlingsfeil som bør føre til opphevelse av avgjørelsen med en påfølgende ny fullstendig behandling i underinstansen. Det følger av det som er
-sagt i punkt 19.4.3, at en slik virkning bør forbeholdes saksbehandlingsfeil knyttet til vesentlige
-forutsetninger for å kunne treffe avgjørelse, og
-saksbehandlingsfeil som på annen måte har kunnet påvirke avgjørelsens innhold.
-Spørsmålet i det følgende er hvilket krav det
-skal stilles til sannsynligheten for at en saksbehandlingsfeil har øvet innflytelse på innholdet, for
-at feilen skal føre til opphevelse.
-Dersom kravene til innvirkning settes lavt,
-reduseres risikoen for uriktige avgjørelser. Anta-
-
-435
-
-Kapittel 19
-
-kelig vil det også virke forebyggende og i det
-store og hele bidra til en mer lovformelig prosess.
-Men et lavt beviskrav kan føre til at effektiviteten i
-strafferettspleien blir svekket. Terskelen bør ikke
-legges så lavt at mange riktige avgjørelser blir
-opphevet på grunn av løse antakelser om innvirkning.
-Etter utvalgets oppfatning bygger gjeldende
-rett på en hensiktsmessig avveining av de motstående hensyn. Utvalget mener derfor at det ikke
-bør kreves at feilen med sikkerhet har virket inn
-på avgjørelsens innhold, men at det er en rimelig
-mulighet for at den har gjort det.
-Terskelen bør videre, som etter gjeldende rett,
-i noen grad praktiseres relativt til hvordan saken
-står og de konkrete omstendigheter. Således bør
-det kreves mindre for å tillegge feilen virkning
-hvis dommen som påankes, er fellende.23 Hvis
-dommen er frifinnende, og særlig hvis påtalemyndigheten hadde en oppfordring til å ta opp spørsmålet på et tidligere tidspunkt, må det kreves mer
-for å konkludere med at saksbehandlingsfeilen
-har virket inn.
-Andre momenter som må tas i betraktning,
-uavhengig av om den påankede dommen er frifinnende eller fellende, er saksbehandlingsfeilens
-karakter og grovhet. Ved brudd på fundamentale
-rettergangsgarantier til vern for siktede må det
-kreves svært lite før resultatet blir opphevelse.
-I praksis vil det også være en sterk presumsjon for innvirkning eller mulighet for innvirkning
-ved enkelte typer saksbehandlingsfeil, for eksempel ved brudd på retten til dokumentinnsyn eller
-kontradiksjon. Dersom det kan være usikkert om
-feilen har innvirket, vil det i slike saker kunne
-anses tilstrekkelig til at innvirkningskravet er oppfylt.
-Hvis det først foreligger en saksbehandlingsfeil som har hatt en tilstrekkelig mulighet for å
-virke inn på den påankede avgjørelsens innhold,
-er utvalgets oppfatning at rettsvirkningene bør
-trekkes opp etter de linjer som allerede følger av
-gjeldende rett, se punkt 19.3.5.
-19.4.5 Utforming av loven
-Utvalget viderefører skillet mellom absolutte og
-relative saksbehandlingsfeil, se punkt 19.4.3. Et
-særlig spørsmål er om det, som i straffeprosessloven, bør utformes en liste over de absolutte feilene. Et alternativ er å angi absolutte saksbehandlingsfeil gjennom en rettslig standard som fastslår
-23
-
-Sml. Rt. 2005 s. 907 avsnitt 44 (sitert ovenfor i punkt 19.3.3)
-og Rt 2008 s. 27 avsnitt 37.
-
-[Side 438]
-
-436
-
-Kapittel 19
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-at en feil skal lede til opphevelse dersom visse
-grunnleggende forutsetninger for å treffe en
-avgjørelse ikke er til stede. En slik standard
-kunne ta sikte på å angi vesentlige trekk ved de
-saksbehandlingskrav som gjelder ubetinget, for
-eksempel som et krav om at «forutsetningene for
-å ta saken til behandling må foreligge».
-Det er vanskelig å unngå at en liste over absolutte feil både blir under- og overinkluderende
-med hensyn til hvilke tilfeller som bør omfattes,
-se punkt 19.4.3. Benyttes en rettslig standard, får
-man tydeliggjort at det til bestemmelsen hører å
-avklare grensespørsmål. Gjennom en slik standard vil man kunne vurdere hvilke feil som skal
-resultere i opphevelse i lys av lovens grunnleggende regler for saksbehandlingen, prinsippet om
-forsvarlig prosess og skrankene etter gjeldende
-§ 343 annet ledd.
-Utvalget mener likevel loven bør inneholde en
-opplisting av absolutte saksbehandlingsfeil – og
-som en konsekvens en angivelse av grunnleggende prosessforutsetninger. Det er ønskelig at
-loven klart angir hvilke grunnleggende forutsetninger som må foreligge for å ta saken til behandling og som skal føre til opphevelse dersom de
-ikke foreligger, dels av pedagogiske grunner, dels
-fordi det vil redusere unødig prosess om slike
-spørsmål.
-Samtidig mener utvalget at det er grunn til å
-uttrykke at bestemmelsen er utslag av et generelt
-prinsipp om at det gjelder grunnleggende krav til
-behandlingsformen for avsigelse av dommer, og
-at også andre forhold enn de opplistede etter
-omstendighetene skal føre til opphevelse uten at
-man går veien om en innvirkningsvurdering, se
-punkt 19.4.3. Derfor er det i listen fastslått at dommen skal oppheves når «andre grunnleggende
-forutsetninger for å behandle saken ikke forelå».
-Uttrykket «grunnleggende forutsetninger» skal
-forstås strengt. Hva som kreves, og hvilke feil som
-kan begås uten at det skal resultere i opphevelse,
-
-skal bero på en fortolkning av standarden i lys av
-lovens grunnleggende regler for saksbehandlingen, prinsippet om forsvarlig prosess og opphevelsesgrunnene som er særskilt angitt. Dersom retten er i tvil om hvorvidt en feil skal anses som en
-vesentlig forutsetning etter standarden, vil den
-konkrete saken også kunne løses ved å ta stilling
-til om feilen kan ha innvirket på en slik måte at det
-skal føre til opphevelse. Først hvis dette besvares
-negativt, eller hvis innvirkningsspørsmålet er tvilsomt eller på annen måtte krevende å besvare, er
-det nødvendig å ta endelig stilling til om feilen
-faller inn under standarden.
-For de relative feil mener utvalget det er
-grunn til å justere ordlyden i straffeprosessloven
-§ 343 første ledd for å tydeliggjøre at saksbehandlingsfeil som kan ha innvirket på resultatet, skal
-føre til opphevelse. Det tilsiktes ingen realitetsendring. Utkastet § 39-10 første ledd annet punktum, som gjelder for dommer, lyder:
-«Andre feil skal føre til opphevelse av dommen
-eller de deler av den som feilen knytter seg til,
-når feilen kan ha innvirket på avgjørelsen.»
-Rettslige beslutninger er en mer sammensatt
-gruppe avgjørelser enn dommer, og det vil dessuten kunne treffes en ny avgjørelse, men også
-disse bør kunne oppheves. Se utkastet § 39-8 første ledd:
-«Ved anke over beslutning kan retten treffe ny
-avgjørelse når den har grunnlag for det. Foreligger det saksbehandlingsfeil, kan retten oppheve beslutningen, når
-a) grunnleggende forutsetninger for å
-behandle saken ikke forelå,
-b) beslutningsgrunnene hindrer prøving av
-anken, eller
-c) feilen kan ha innvirket på avgjørelsen.
-Fører anken ikke frem, forkastes den.»
-
-[Side 439]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-437
-
-Kapittel 20
-
-Kapittel 20
-
-Anke
-20.1 Innledning
-Avgjørelser truffet i tingrett og lagmannsrett kan
-overprøves ved anke. I utvalgets mandat er ankeordningen løftet frem i punkt 4.9 og 4.10.
-«9. Utvalget bør se nærmere på rettens sammensetning, både i underinstansen og ankeinstansen. Utvalget skal legge til grunn at
-juryordningen håndteres i et selvstendig lovarbeid basert på NOU 2011: 13. Når det gjelder
-lagmannsrettens sammensetning for øvrig, bør
-utvalget se hen til forslagene i NOU 2011: 13.
-10. Det er et spørsmål om det bør skje
-endringer i reglene om ankesiling og omfanget
-av prøvingen. Utvalget bør vurdere hvilke kriterier regelen om automatisk anke skal bygge
-på. Utvalget bør også vurdere om ankeinstansens prøving kan og bør være mer begrenset
-enn det som følger av gjeldende regelverk.
-Mandatet fremhever dessuten virkningen av saksbehandlingsfeil, jf. punkt 4.11, som utvalget har
-behandlet særskilt i kapittel 19.
-Utvalget foreslår endringer i prosessreglene
-for å effektivisere saksforberedelsen og gjennomføringen av rettens behandling i alle instanser.
-Sentralt står regler om aktiv dommerstyring og
-bevissikring i tingretten, se nærmere punkt 17.1.3
-og 13.7.2. Flere av de foreslåtte reglene får direkte
-anvendelse for behandlingen i ankeinstansen. Det
-antas dessuten at endringene vil få betydning for
-behandlingen i lagmannsretten og Høyesterett
-ved at sakene som skal behandles, blir bedre forberedt i tidligere instans.
-Utvalget har videre foretatt en fullstendig gjennomgang av dagens bestemmelser om anke. Det
-foreslås betydelige justeringer i den lovtekniske
-oppbyggingen av regelverket. Forslaget om å oppheve skillet mellom kjennelser og beslutninger
-har en viss betydning for strukturen, se nærmere
-punkt 17.5. Utvalget viser også til at det i lovforslaget ikke er inntatt bestemmelser som svarer til
-gjeldende kapittel 24 om ankeforhandling med
-
-lagrette, jf. mandatet punkt 4.9. Se nærmere om
-dette i punkt 11.1.
-Nedenfor i punkt 20.2 gjøres det rede for
-grunnleggende hensyn av betydning for spørsmålet om overprøving. En kort oversikt over
-gjeldende rett gis i punkt 20.3. Utvalgets vurderinger og forslag fremgår av punkt 20.4, herunder
-drøftes spørsmålet om endringer i reglene om
-såkalt siling av anker (mandatets punkt 4.10). Rettens sammensetning i ankeinstansen (mandatets
-punkt 4.9) er behandlet i utredningen punkt 11.5.
-
-20.2 Bakgrunn og grunnleggende
-hensyn
-Adgangen til å anke avgjørelser inn for en høyere
-instans innebærer en viktig kontroll av domstolenes behandling av straffesaker. Muligheten for å
-korrigere feil i de lavere instanser bidrar til rettsavklaring, rettsenhet og rettssikkerhet, noe som i
-et bredere perspektiv må antas å styrke tilliten til
-strafferettspleien.
-Ideen om anke som rettssikkerhetsgaranti har
-lang tradisjon i vår prosessordning. I tidligere
-tider var ankeadgangen generell, og alle sider av
-en avgjørelse kunne overprøves.1 Med straffeprosessloven av 1887 fikk man en betydelig omlegging av rettsprosessen i straffesaker som følge av
-innføringen av muntlighets-, umiddelbarhets- og
-lekdommerprinsippet. Én sentral endring var
-begrensninger i ankeadgangen, blant annet ble
-Høyesteretts adgang til å prøve bevisbedømmelsen under skyldspørsmålet avskaffet.2
-Partenes adgang til å anke forutsetter at det
-kan foreligge feil ved rettens avgjørelser i en eller
-annen forstand. Feilen kan være knyttet til juridiske
-spørsmål eller til bevisbedømmelsen. Anke som
-rettssikkerhetsgaranti hviler på en antakelse om at
-man over tid får flere riktige avgjørelser når avgjørelsens innhold og underinstansens saksbehand1
-2
-
-NOU 1992: 28 s. 20.
-Straffeprosesslovkomitéen (1969) s. 107.
-
-[Side 440]
-
-438
-
-Kapittel 20
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-ling kontrolleres av en høyere rettsinstans. Sentralt
-for denne forutsetningen er at behandlingen i første instans bidrar til at sakens problemstillinger blir
-bedre avklart for den overordnede instansen, og at
-ankeinstansen er sterkere sammensatt.
-Mot et system med vid ankeadgang taler i en
-viss utstrekning hensynet til ressursbesparelser.
-Overprøving er kostbart og tidkrevende, og det
-kan være belastende for de involverte at det går
-lang tid før endelig dom foreligger. Særlig gjelder dette for bevisankene, der det skal foretas en
-fullstendig ny behandling av saken.3 Dette er
-også et hovedhensyn bak lovens regler om ankesiling. Effektivitetshensyn kan imidlertid også
-tale for ankeadgang. Det må antas at muligheten
-for at det kan finne sted etter- og overprøving,
-virker skjerpende på sakens aktører i den
-enkelte sak, noe som over tid kan bidra til
-ressursbesparelser.
-
-20.3 Gjeldende rett
-20.3.1 Oversikt
-I straffeprosessen skilles det mellom anke over
-henholdsvis feil ved realiteten (innholdet) i en
-avgjørelse og feil ved saksbehandlingen. Anke over
-realiteten kan gjelde skyldspørsmålet eller reaksjonsfastsettelsen. Feil både ved realiteten og saksbehandlingen kan knytte seg til rettsanvendelsen
-(juss) eller til bevisbedømmelsen (faktum).
-Ankeinstansens saklige kompetanse følger av
-straffeprosessloven §§ 6 til 8. Hva ankedomstolen
-prøver, beror på hva slags avgjørelse som overprøves, sammenholdt med ankedomstolens rolle.
-Utgangspunktet er at ankedomstolen har full
-kompetanse.
-Uttrykket «anke» benyttes om overprøving av
-alle typer rettsavgjørelser. Straffeprosessloven
-kapittel 26 regulerer anke over kjennelser og
-beslutninger. Kapittel 23 inneholder bestemmelser om anke over dommer. Kapittel 24 regulerer
-ankeforhandling med lagrette.
-Tidligere var «kjæremål» betegnelsen for anke
-over kjennelser og beslutninger. Selv om betegnelsen nå i alle tilfeller er «anke», har reglene om
-overprøving av de ulike avgjørelsene til dels forskjellig innhold. Ankebehandling etter kapittel 26
-er enklere enn behandling av anke over dom etter
-kapittel 23.
-
-20.3.2 Nektelse og henvisning av anke over
-dom («ankesiling»)
-«Ankesiling» benyttes ofte stikkordsmessig om
-forhåndsvurderingen lagmannsretten og Høyesteretts ankeutvalg gjør når de mottar en anke over
-dom. Silingsordningen fikk sitt innhold ved den
-såkalte to-instansreformen i straffeprosessen.4
-Silingsbehandlingen er karakterisert som en
-«fjerde prosessform», ettersom det er slik de
-fleste ankesaker får sin endelige avgjørelse.5
-Sakene som fremmes, fordeler seg fra ankesilingen som fagdommersaker, meddomsrettssaker
-og saker for lagrette.
-Om en anke skal fremmes til behandling,
-avgjøres i lagmannsretten skriftlig av tre dommere. For Høyesterett avgjøres det skriftlig av tre
-dommere i Høyesteretts ankeutvalg. I stedet for å
-henvise en anke til behandling kan saken på
-nærmere vilkår avgjøres under saksforberedelsen.6
-En slik avgjørelse kan blant annet gå ut på at
-dommen oppheves på grunn av feil ved saksbehandlingen, eller at siktede frifinnes fordi retten
-finner at det påtalte forholdet ikke er straffbart.
-Siling av anker til lagmannsretten reguleres av
-straffeprosessloven § 321. For saker som gjelder
-mindre alvorlige reaksjoner, er utgangspunktet at
-anker ikke kan fremmes uten rettens samtykke.7
-Nektelse av å gi tillatelse etter første ledd skal
-bare unntaksvis begrunnes, jf. § 321 femte ledd
-annet punktum. I saker hvor det er tale om lovbrudd som etter loven kan medføre straff av fengsel i mer enn seks år, skal det derimot ikke foretas
-noen siling av domfeltes anke, jf. § 321 tredje ledd.
-Ettersom lagmannsretten ikke kan nekte anken
-fremmet, er ankeprøvingen som regel meget
-enkel. Anker fra påtalemyndigheten til ugunst for
-siktede kan også i slike saker nektes fremmet når
-retten finner at anken gjelder spørsmål av mindre
-betydning, eller det ellers ikke er grunn til at
-anken prøves.8
-For øvrige sakstyper er regelen at en anke kan
-nektes fremmet når retten enstemmig finner det
-«klart at anken ikke vil føre frem», jf. straffepro4
-
-5
-6
-7
-
-8
-3
-
-Straffeprosessloven § 331 første ledd.
-
-Lov 11. juni 1993 nr. 80 om endringer i straffeprosessloven
-m.v. (to-instansbehandling, anke og juryordning). Loven
-trådte i kraft 1. august 1995.
-NOU 2011: 13 s. 120.
-Straffeprosessloven §§ 322 og 323 tredje ledd.
-Straffeprosessloven § 321 første ledd. Bestemmelsen
-omfatter saker hvor påtalemyndigheten ikke har påstått og
-det ikke er idømt annen reaksjon enn bot, inndragning eller
-tap av førerkort.
-Straffeprosessloven § 321 tredje ledd første punktum, jf.
-annet ledd annet punktum.
-
-[Side 441]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-sessloven § 321 annet ledd.9 Bestemmelsen er
-imidlertid ikke til hinder for at retten henviser
-anken selv om den finner det klart at den ikke vil
-føre frem, for eksempel dersom saken reiser et
-prinsipielt spørsmål.10 Lagmannsrettens beslutninger om å nekte anker fremmet etter annet ledd
-skal være begrunnet, jf. § 321 femte ledd tredje
-punktum.11
-Avgjørelse om ankenektelse skal være enstemmig. Anken kan fremmes helt eller delvis, jf. § 321
-femte ledd. Det kan ankes over ulike sider av dommen, og en anke over dom kan gjelde forskjellige
-ankegjenstander (tiltaleposter) og ulike ankegrunner. Til lagmannsretten skal en såkalt bevisanke
-eller fullstendig anke – over bevisbedømmelsen
-under skyldspørsmålet – prøves først. Hvis den
-fremmes på dette grunnlaget, skal det gjennomføres en fullstendig ny behandling av saken, og det
-er da ikke av interesse å prøve de øvrige sider ved
-tingrettens dom, jf. § 326 første ledd. Blir bevisanken nektet fremmet, må det derimot tas stilling
-til om en eventuell subsidiær anke over lovanvendelsen under skyldspørsmålet, saksbehandlingen
-eller reaksjonsfastsettelsen skal fremmes.
-Siling av anker til Høyesterett er regulert i
-straffeprosessloven § 323. Av første ledd første
-punktum følger det at anke til Høyesterett ikke
-kan fremmes uten samtykke av Høyesteretts
-ankeutvalg. Annet punktum definerer Høyesteretts særlige rolle som ankedomstol ved å fastslå
-at samtykke bare skal gis når anken gjelder spørsmål som har betydning utenfor den foreliggende
-sak, eller det av andre grunner er særlig viktig å få
-saken prøvd i Høyesterett.
-Ankeutvalgets avgjørelse etter § 323 første ledd
-treffes ved beslutning, jf. annet ledd første punktum. Gjelder beslutningen nektelse av å fremme
-anke over lagmannsrettens fellende dom i en sak
-der domfelte er frifunnet i tingretten, skal den være
-begrunnet, jf. første ledd tredje punktum.
-20.3.3 Omfanget av ankedomstolens prøving
-ved anke over dom –
-kompetansebegrensninger
-Ankeinstansens funksjon er en refleks av omfanget av ankedomstolens prøving. Lagmannsretten
-skal som anneninstans sørge for en effektiv og
-9
-
-Annet ledd omtales ofte som «den egentlige silingshjemmelen».
-10
-NOU 1992: 28 s. 144.
-11
-Se Rt. 2008 s. 1764, Rt. 2008 s. 1783 og Rt. 2008 s. 1786. For
-en nærmere redegjørelse for gjeldende rett og rettsutviklingen på dette punktet, se Prop. 141 L (2009–2010) s. 11
-flg. og NOU 2011: 13 s. 187–188.
-
-439
-
-Kapittel 20
-
-betryggende prøving av tingrettens avgjørelse.
-Høyesteretts oppgave som tredjeinstans er først
-og fremst å sørge for rettsenhet, rettsavklaring og
-rettsutvikling ved å behandle prinsipielle saker.
-Unntaksvis kan en sak fra tingretten bringes
-direkte inn for Høyesterett med samtykke av
-Høyesteretts ankeutvalg, jf. straffeprosessloven
-§ 8. Samtykke til slik såkalt direkte anke kan gis
-dersom «anken gjelder et spørsmål av betydning
-utenfor den foreliggende sak, eller det er særlig
-viktig å få saken hurtig avgjort». Anken må for
-øvrig oppfylle de alminnelige vilkårene for anke til
-Høyesterett.12
-Når anke over dom omfatter bevisbedømmelsen under skyldspørsmålet, foretar lagmannsretten en full ny prøving av saken, jf. straffeprosessloven § 331 første ledd.13 Høyesterett kan
-derimot ikke prøve bevisbedømmelsen under
-skyldspørsmålet, jf. § 306 annet ledd.
-Er det anket over saksbehandlingen, skal
-ankedomstolen som et utgangspunkt bare prøve de
-feil partene har påberopt; den er bundet av de ankegrunner som er angitt i ankeerklæringen, jf. § 342
-første ledd. Feil som antas å kunne ha påvirket
-dommens innhold til skade for siktede kan det likevel tas hensyn til, jf. § 342 annet ledd nr. 3. Det
-samme gjelder feil som ubetinget skal føre til opphevelse når de er gjort til ankegrunn, jf. § 342 annet
-ledd nr. 4, jf. § 343 annet ledd. Sistnevnte type feil
-kan prøves både til gunst og til skade for tiltalte.
-Er det anket over realiteten, angis adgangen til
-å gå utover ankegrunnene i § 342 annet ledd nr. 1
-og 2. Domstolen kan etter nr. 1 alltid prøve om
-straffelovgivningen er riktig anvendt.14 Dersom
-subsumsjonen endres, kan også reaksjonsfastsettelsen endres. Hvis subsumsjonen ikke endres, er
-det bare adgang til å endre reaksjonen når det er
-«åpenbart misforhold» mellom den straffbare
-handlingen og straffen, jf. § 344. Etter § 342 annet
-ledd nr. 2 kan domstolen alltid prøve spørsmål om
-straff, eller særreaksjoner som ikke er straff, til
-fordel for siktede.
-20.3.4 Anke over kjennelser og beslutninger
-For kjennelser og beslutninger gjelder visse
-begrensninger i selve ankeadgangen. Enkelte
-beslutninger kan overhodet ikke angripes, jf.
-straffeprosessloven § 315 første ledd. Slike avgjø12
-13
-14
-
-Jf. straffeprosessloven §§ 323 og 306 annet ledd.
-«Fullstendig anke» eller «bevisanke». Andre anker er
-«begrensede».
-Sml. også straffeprosessloven § 38 om forholdet mellom tiltalebeslutning og dom.
+Kompetansefordelingen i fredstid er i hovedsak den samme som i straffesaker ellers, jf. straffeprosessloven § 474 første ledd. Militærjuristene har samme kompetanse som politimesteren. Kompetansen inkluderer således de vanlige sakene om ulovlig fravær etter militær straffelov 22. mai 1902 nr. 13 § 34 og overtredelser hvor strafferammen er fengsel i inntil ett år.
+
+I krigstid overføres påtalekompetansen i stor grad til militærjuristene, slik at generaladvokaten og førstekrigsadvokatene som hovedregel overtar statsadvokatenes og politiets kompetanse, jf. § 474 annet ledd.
+
+Ved etterforsking og bruk av tvangsmidler likestilles militærpoliti og militære befalingsmenn med polititjenestemenn, jf. straffeprosessloven § 478.
+
+Militære straffesaker behandles som hovedregel ved de alminnelige domstoler, jf. straffeprosessloven § 466 første ledd. I krigstid sentraliseres sakene til enkelte tingretter og retten settes med egne militære meddommere etter særskilte regler, jf. § 466 annet ledd.
+
+1.  **Den militære påtalemyndighet – organisering og hovedoppgaver**
+
+Generaladvokaten og krigsadvokatene er militær påtalemyndighet, underlagt riksadvokaten og statsadvokatene.[^1170] Administrativt sorterer den militære påtalemyndighet under Justis- og beredskapsdepartementet.
+
+Den militære påtalemyndighet leder formelt etterforskingen av militære straffesaker, jf. forskrift 13. juni 1997 om tjenesteordning og instruks for generaladvokaten og krigsadvokatene § 9 annet ledd. Sakene etterforskes normalt av militærpolitiet.[^1171] Militærpolitiet er imidlertid en del av den militære kommandokjeden, noe som innebærer at høyere nivå i Forsvaret prinsipielt kan gi instrukser om deres arbeid.[^1172]
+
+I fred har militærjuristene som nevnt i punkt 23.3.2 samme påtalekompetanse i militære straffesaker som politimesteren, jf. straffeprosessloven § 474 første ledd.[^1173] I saker der den militære påtalemyndighet ikke har påtalekompetanse, avgir den innstilling om påtalespørsmålet til statsadvokaten. Militære straffesaker føres normalt for tingrett og lagmannsrett av den militære påtalemyndighet, jf. straffeprosessloven § 476 annet og tredje ledd. For Høyesterett skal saken føres av riksadvokaten eller generaladvokaten, jf. § 476 første ledd. Bestemmelsen supplerer straffeprosessloven § 76, og det er således ikke utelukket at militære straffesaker føres av den ordinære påtalemyndighet.
+
+Foruten å ha påtale- og etterforskingsansvar i militære straffesaker skal militærjuristene bistå de militære sjefer ved undersøkelse av disiplinærsaker.[^1174] Etter lov 20. mai 1988 nr. 32 om militær disiplinærmyndighet § 15 er de dessuten rådgivere for forsvarssjefen og generalinspektørene i slike saker. I tillegg har generaladvokaten og krigsadvokaten en rekke instruksfastsatte rådgivningsoppgaver i saker om militær disiplinær- og strafferett.[^1175] Militærjuristene besvarer blant annet et betydelig antall henvendelser fra militærpolitiet om pågående etterforsking hvor det er behov for avklaringer underveis med hensyn til om saken skal forfølges videre i et strafferettslig eller disiplinært spor.[^1176]
+
+Etter forskriften om tjenesteordning og instruks for generaladvokaten og krigsadvokatene § 9 femte ledd skal generaladvokaten «holde seg orientert om forhold i andre land og om utviklingen av rettsspørsmål som har betydning for hans funksjon». Den militære påtalemyndighet besitter en betydelig fagkunnskap om militær strafferett, humanitærrett, krigens folkerett m.m. Militærjuristene bistår også med opplæring og kunnskapsformidling i Forsvaret, jf. forskriften § 12.
+
+Generaladvokaten har – i tråd med det i punkt 23.1 nevnte ansvarsprinsippet – hovedansvar for mobiliseringsplanene for den militære påtalemyndighet og sørger i den forbindelse for nødvendig utdannelse, jf. forskrift om tjenesteordning og instruks for generaladvokaten og krigsadvokatene § 13.
+
+Antallet militære straffesaker og disiplinærsaker har gått ned de senere år. I 1988 anslo Militærjuristutvalget at militære straffesaker ville komme til å ligge på ca. 300 per år.[^1177] Tallet er nå betydelig lavere. I 2015 ble det registrert 20 dommer i militære straffesaker. Militærjuristene traff til sammen 15 påtaleavgjørelser. Utviklingen har antakelig sammenheng med at personer som nå innkalles til førstegangstjeneste, stort sett møter og er motivert for tjenesten. Antallet disiplinære klagesaker var 30 i 2015, noen flere enn året før.[^1178]
+
+På den annen side har antallet rådgivende uttalelser fra militærjuristene økt kraftig. I 2015 var antallet 83, mot 119 i 2014 og 68 i 2013. Generaladvokaten har opplyst at økningen i 2014 skyldtes to spesielle saker. Det kan også ifølge generaladvokaten spores en generell tendens til større bruk av formelt faglig råd fra krigsadvokatene før avgjørelse av refselsesspørsmål.
+
+1.  **Utredning om generaladvokaten og krigsadvokatene**
+
+Spesialrådgiver Morten Ruud ble 27. oktober 2014 oppnevnt for å vurdere ordningen med generaladvokat og krigsadvokater.[^1179] I mandatet er det blant annet bedt om en vurdering av om dagens påtaleordning i militære straffesaker er hensiktsmessig, og om en utredning av forholdet mellom påtalemyndighetens rolle og militærpolitiets oppgaver under etterforskingen. Generaladvokatutredningen ble avgitt til Justis- og beredskapsdepartementet 1. oktober 2015.
+
+Utredningen viser til at omorganisering eller nedlegging av militærjuristtjenesten forutsetter at de oppgaver som er tillagt etaten, blir forsvarlig ivaretatt ved en ny organisasjon. I denne sammenheng pekes det på at militærjuristenes oppgaver er sammensatt, noe som verken gjør det naturlig eller hensiktsmessig å flytte alle til samme sted eller organisasjon. For så vidt gjelder ansvaret for straffesakene, antas det at «så vel kompetanse som prioritering kan bli lidende» dersom ansvaret overføres til en etat som har andre saker som sin hovedoppgave.[^1180]
+
+Kostnadene ved drift av generaladvokaten og krigsadvokatene var i 2012 kr. 8 150 000. For 2016 var bevilgningen på kr. 7 821 000.[^1181] I Generaladvokatutredningen reises spørsmål om det er økonomisk rasjonelt å beholde militærjuristene. Det vises til at en bør kunne forvente kostnadsinnsparing ved overføring av tjenestens oppgaver til andre etablerte etater.[^1182]
+
+I utredningen konkluderes det med at «\[d\]et lave antallet militære straffesaker gjør at det ikke kan anses forsvarlig å opprettholde dagens struktur og bemanning». Det anbefales at «den militære påtalemyndighet inkorporeres/fusjoneres med Kripos/NAST».[^1183]
+
+Det er noe uklart for utvalget hva som ligger i dette forslaget. I utredningen presenteres to ulike løsninger for den militære påtalemyndighet. Ren overføring av saksområdet til Det nasjonale statsadvokatembetet (NAST) og Kriminalpolitisentralen (Kripos), og dermed nedlegging av den militære påtalemyndighet, angis som én mulig løsning. Som alternativ foreslås at «generaladvokaten fusjoneres eller samlokaliseres med NAST», i betydningen at de deler kontor.[^1184] Ordlyden i utredningens konklusjon åpner for begge alternativer.
+
+Det tas i utredningen til orde for at det norske militærpoliti i dag verken formelt eller reelt tilfredsstiller kravet til uavhengighet. Det konkluderes med at organiseringen og styringen av militærpolitiets etterforsking bør gjennomgås for å sikre dette hensynet.[^1185] Endelig pekes det på at Straffeprosessutvalget bør vurdere en full revisjon av straffeprosessloven del 10.
+
+1.  **Utvalgets vurderinger**
+
+    1.  **Om behovet for særskilte bestemmelser om militær rettergang**
+
+Hvorvidt straffeprosessloven bør inneholde en egen militær rettergangsordning, beror
+
+på en avveining av de generelle krav til prosessen og de særlige hensyn som gjør seg gjeldende for behandling av militære straffesaker, se punkt 23.2.
+
+Utvalget går inn for å videreføre dagens ordning med egne bestemmelser for militære straffesaker. Reglene for militære straffesaker er begrunnet i de helt særlige hensyn som gjør seg gjeldende på området, særlig i krigstid. Behovet for fleksibilitet, beredskap og ekspertise på området tilsier at visse særregler er nødvendig. Saker med tilknytning til Forsvaret skiller seg således fra andre spesialområder, hvor et tilsvarende behov ikke melder seg. Det må antas å være helt avgjørende for rettssikkerheten at disse sakene behandles i et system som er tilpasset de forutsetninger Forsvaret opererer under, og av personer med kunnskap om militære forhold, herunder om militære operasjoner.
+
+Det er ikke i dag mulig å forutse om, og eventuelt når, en krigssituasjon vil oppstå, og hvordan den vil arte seg. Ordningen må ta høyde for å kunne avvikle straffesaker under uoversiktlige og uforutsigbare forhold. Ved siste lovrevisjon la departementet vekt på dette, og uttalte:
+
+«I en krigssituasjon vil langt større militære styrker være innkalt, noe som vil føre til en betydelig økning i antall saker. Dessuten vil behovet for kjennskap til militære forhold øke, både hos etterforskerne, påtalemyndigheten og domstolene. Flere saker vil gjelde overtredelse av bestemmelser i den militære straffelov som bare gjelder i krigstid. Det vil også kunne være problematisk å sikre en hurtig avvikling av sakene. I militære straffesaker er det flere forsinkende forhold som gjør seg særlig gjeldende, for eksempel at tiltalte og vitner dimitteres og reiser tilbake til de deler av landet de kommer fra, eller skifter tjenestested. Dette vil være spesielt uheldig i en krigstidssituasjon, der rettshåndhevelsen må antas å kunne ha vesentlig betydning for opprettholdelse av disiplin og kampmoral i de militære styrker.»[^1186]
+
+Også i fagteorien er det lagt til grunn at det kan være vanskelig å håndtere militære straffesaker i et fullt ut sivilt system når behovet er størst.[^1187]
+
+Utvalget slutter seg til disse betraktningene. Selv om landet for tiden ikke er i en opprustningssituasjon, er den sikkerhetspolitiske situasjonen til dels uoversiktlig, og det vil ta lang tid å etablere en forsvarlig ordning for behandling av sakene om behovet skulle melde seg. Etter utvalgets syn er det derfor ikke forsvarlig å la dagens saksmengde og ressurshensyn være styrende for valg av rettergangsordning.
+
+Utvalget mener hovedregelen, som i dag, bør være at lovens alminnelige bestemmelser kommer til anvendelse i alle tilfeller der det ikke er særskilt behov for å gjøre unntak.
+
+1.  **Bør skillet mellom krigs- og fredstidhandlinger videreføres?**
+
+I dag er det særlig i krigstid at forskjellen mellom militær og sivil rettergang gjør seg gjeldende, se punkt 23.3.2. Etter utvalgets syn er det liten grunn til å opprettholde et skarpt skille mellom krigstids- og fredstidsbestemmelser. Beredskapen er best tjent med at prosedyrene langt på vei er de samme for krig og fred. Slik vil systemet være best forberedt på å håndtere straffesaker i krigstid, hvor situasjonen kan være vesentlig mer ustabil enn ellers. Det er et problem i dag at forskjellen mellom regelverket for krig og fred er så stor at militærjuristene ikke gis mulighet til å opparbeide den erfaring og etablere de rutiner det er behov for.[^1188]
+
+Et annet hensyn er at ordet «krig» benyttes i mange ulike sammenhenger og har fått et nokså upresist innhold. Uttrykket har i stor utstrekning blitt erstattet med betegnelsen «væpnet konflikt», og i dag kommer humanitærretten (krigens folkerett) til anvendelse på mange flere situasjoner enn det som formelt sett er krig.[^1189]
+
+Utvalget har også fått opplyst at aktørene i noen sammenhenger viker tilbake fra å konstatere at en handling er begått i krig, fordi bruken av krigsbetegnelsen kan gi andre internrettslige konsekvenser.[^1190] Samtidig kan det være åpenbart at saken bør behandles etter bestemmelsene for militær rettergang. Det er uheldig om forhold som nevnt medfører at en sak behandles etter de alminnelige regler, til tross for at sakens karakter ellers gjør at den bør håndteres innenfor bestemmelsene om militær rettergang.
+
+Utvalget foreslår på denne bakgrunn at lovutkastet som hovedregel ikke skal inneholde et skille mellom handlinger begått i henholdsvis krigs- og fredstid. Som nevnt vil systemet være tjent med like regler for begge situasjoner, og en unngår problemet med å måtte konstatere at det er tale om krigstid.
+
+1.  **Saklig virkeområde – «militære straffesaker»**
+
+Utvalget foreslår en viss utvidelse av virkeområdet for den militære rettergangsordningen sammenlignet med gjeldende rett. For det første skal alle overtredelser av den militære straffelov som begås av militærpersoner, omfattes. Så langt svarer forslaget til dagens lov. Utvalgets definisjon av «militærpersoner» vil imidlertid medføre at noen flere saker omfattes av dette alternativet, se punkt 23.5.4.
+
+For det andre går utvalget inn for at flere overtredelser av annen lovgivning enn den militære straffelov skal inngå i definisjonen av militære straffesaker. Mange saker er nær tilknyttet Forsvaret og krever så vidt spesiell kunnskap at det er rimelig å behandle dem etter det særskilte regelverket. Ofte har straffesakene både militære og sivile sider, og ikke sjelden vet en ikke før etter at etterforskingen har kommet i gang, om saken tilhører den ene eller den andre kategori. Uansett kategori kan sakene ha trekk som gjør det naturlig med bistand fra militærpolitiet og militærjuristene.[^1191]
+
+En utvidelse av ordningens virkeområde kan løses på flere måter.[^1192] En mulighet er å tilføye særlig aktuelle sakstyper i lovens definisjon av militære straffesaker, som for eksempel krigsforbrytelser eller brudd på sikkerhetsbestemmelser. Et annet alternativ er å benytte en generell utvidelse ved bruk av mer skjønnsmessige kriterier.
+
+Etter utvalgets syn vil den enkleste og mest praktiske løsning være å føye til situasjoner der grensespørsmål hyppig antas å forekomme i lovens definisjon. Dagens § 464 gir en viss veiledning. Utvalget anbefaler at utvidelsen begrenses til militærpersoner.
+
+Utvalget foreslår at militære straffesaker skal omfatte handlinger begått av militærpersoner på «militært område», «krigsskueplass» eller «i utlandet», se dagens § 464, som bare gjelder i krigstid. Utvalget bemerker at det i dag trolig er mindre aktuelt å erklære et område i landet for krigsskueplass, ettersom moderne krigføring i økende grad er av en mer total og omfattende karakter. Loven bør imidlertid prinsipielt åpne for det. Uttrykket «utenfor riket» foreslås erstattet med «utlandet», uten at det er ment som noen endring av det geografiske virkeområdet.
+
+Militære straffesaker bør etter utvalgets syn også omfatte handlinger begått overfor «militært tilsatte eller vernepliktige» eller «mot eller ved bruk av militært materiell». Angivelsen tilsvarer avgrensningen av når refselse kan brukes ved mindre alvorlige overtredelser, jf. lov 20. mai 1988 nr. 32 om militær disiplinærmyndighet § 1 tredje ledd.
+
+1.  **Militærpersoner**
+
+I dag fremgår forståelsen av uttrykket «militærperson» av straffeprosessloven § 463 annet og tredje ledd. Personkretsen er noe større i krig enn i fred.
+
+Moderne krigføring er av en annen karakter enn da straffeprosesslovens bestemmelser ble vedtatt. I dag deltar norske soldater i ulike operasjoner internasjonalt, på vegne av andre stater og organisasjoner. Et eksempel er Norges deltakelse i Afghanistan på vegne av NATO. Etter utvalgets syn bør definisjonen av uttrykket «militærperson» ta høyde for disse situasjonene. For at definisjonen ikke skal føre for langt, bør det være en forutsetning at oppdraget er gitt av norske myndigheter.
+
+Det er vanskelig å si noe entydig om hvem som til enhver tid er på oppdrag for myndighetene, og hvilke handlinger som skal anses omfattet av oppdraget. Dette må bero på en vurdering av den enkelte situasjonen, hvor det blant annet skal tas hensyn til hvorvidt det er rimelig at en handling anses omfattet av det norske oppdraget slik at de særlige prosessuelle reglene gis anvendelse. Personer som verver seg privat, eller som opptrer som leiesoldater, vil antakelig falle utenfor.
+
+1.  **Den militære påtalemyndighet**
+
+Temaet i det følgende er om generaladvokaten og krigsadvokatene bør beholdes, og i så fall hvilken oppbygging og oppgaver den militære påtalemyndighet skal ha.
+
+I utredningen om generaladvokaten og krigsadvokatene ble det konkludert med at det ikke kan forsvares å opprettholde dagens struktur og bemanning i militærjuristkorpset, se punkt 23.4. Utvalget kan ikke slutte seg til standpunktet. På samme måte som for vurderingen av behovet for egne bestemmelser om denne sakstypen kan ikke spørsmålet knyttet til den militære påtalemyndighet besvares ut fra ressurshensyn alene. Flere forhold må tas i betraktning. Det vises særlig til de hensyn det er redegjort for under punkt 23.2.
+
+Etter utvalgets oppfatning vil særlig beredskapen bli skadelidende dersom den militære påtalemyndighet legges ned. Utvalget bemerker at alternativet som går ut på å fusjonere militærjuristene med den øvrige påtalemyndighet, antakelig vil føre til samme resultat i praksis, gitt de begrensede oppgavene i fredstid.
+
+Det er ikke tvil om at en eventuell krigssituasjon vil være utfordrende og kreve betydelige ressurser. Også i Ruuds utredning om generaladvokaten og krigsadvokatene er det lagt til grunn at dersom overgangen til mobilisering og krigstid skal gå raskt, er det viktig at også fredstidsorganisasjonen er innrettet slik at den kan forberede og gjennomføre en slik overgang.[^1193] Om overføring av ansvaret for beredskapen heter det i utredningen:
+
+«Beredskapsplanleggingen vil kreve så vel militærjuridisk, som mer generell militærfaglig kompetanse. Det er en fare for at hvis dette ansvaret legges til et organ innenfor den borgerlige påtalemyndighet som også har andre, og i fredstid mer presserende oppgaver, så vil ansvaret for beredskapsplanleggingen kunne svekkes.»[^1194]
+
+Dette kan utvalget slutte seg til. Behovet for beredskapsplanlegging og mobilisering må nødvendigvis ses i sammenheng med dagens trusselbilde. Det er særlig i krig at det vil være behov for generaladvokaten og krigsadvokatene.
+
+Selv om Norge for tiden ikke er truet av krig, er det en mulighet for at det kan bryte ut krig i et NATO-land der Norge gir bistand, og hvor det er risiko for «spillover» til norsk territorium. Man kan heller ikke se bort fra operasjoner i utlandet som krever store militære ressurser fra Norge, og som innebærer høyintensitetskrigføring. Fra faglig hold kan et «kupp» av en mindre del av norsk territorium heller ikke anses helt utelukket.[^1195]
+
+Militærjuristene har særskilt kunnskap om fagfelter med kontaktflate til Forsvaret. Betydningen av kompetansen gjør seg gjeldende ved håndtering av straffesaker, daglige arbeidsoppgaver i Forsvaret og i et beredskapsperspektiv. Det er grunn til å stille spørsmål om hva som vil skje med denne fagkompetansen dersom de militære straffesakene overføres fullt ut til et sivilt spor.
+
+I Generaladvokatutredningen pekes det på faren for at kompetanse og prioritering av fagfeltet kan ta skade dersom militærjuristenes oppgaver overføres til en annen etat:
+
+«Ulempen med \[overføring av ansvaret for militære straffesaker til den borgerlige påtalemyndighet\] er at man dermed pulveriserer eller forvitrer den spesialkompetansen som finnes i dag når det gjelder militære straffesaker. Det lille antallet saker vil utvilsomt innebære at disse drukner i den store ordinære porteføljen som statsadvokatembetene har, og det vil neppe finnes noe incitament for å opprettholde denne kompetansen ved det enkelte statsadvokatembete. Dette vil igjen gjøre det vanskeligere for militære sjefer å søke råd i tilknytning til saker som ligger i grenseland mellom straff og disiplinærforføyning.»[^1196]
+
+Utvalget deler denne antakelsen. Dersom den militære påtalemyndighet legges ned, vil trolig også kontakten med det internasjonale fagmiljøet svekkes. Det er blant annet grunn til å tro at den norske avdelingen av International Society for Military Law and the Law of War, som i dag er en viktig arena for erfaringsutveksling og faglig utvikling på feltet, ikke vil bli driftet videre.[^1197]
+
+Dette tilsier at den militære påtalemyndighet bør videreføres, med tilnærmet samme funksjon og organisasjon som i dag. Etter utvalgets syn bør den militære påtalemyndighet stå direkte under riksadvokaten både i krig og i fred. I dag er militærjuristene underordnet svært mange statsadvokater, som kan ha ulike oppfatninger om rettslige spørsmål og varierende kunnskap om Forsvaret.
+
+Utvalget anser det ikke som sin oppgave å ta stilling til spørsmålet om en bør gå inn for å samlokalisere, i rent organisatorisk og fysisk betydning, den militære påtalemyndighet med NAST. Det er imidlertid utvalgets klare syn at en i alle tilfeller bør utvise varsomhet med å gjøre grep som vil kunne føre til at den militære påtalemyndighet faktisk legges ned.
+
+I dag er sakstilfanget til den militære påtalemyndighet lavt. Både av hensyn til deres mulighet for å bygge erfaring og til enhetlig behandling av militære straffesaker går utvalget inn for å utvide juristenes straffesaksportefølje. Etter utvalgets syn bør militærjuristene ha kompetanse til å treffe påtalevedtak i alle militære straffesaker. I noen tilfeller vil det kunne bli behov for at den alminnelige påtalemyndigheten treffer påtalevedtak. Utvalgets lovforslag utelukker ikke nærmere saksfordeling ved instruks.
+
+For krigstid viderefører forslaget gjeldende rett, med unntak av den utvidelsen som ligger i endret avgrensning av hva som skal anses som militær straffesak. For fredstid utvides kompetansen betraktelig sammenlignet med dagens lov. Det ligger utenfor utvalgets mandat å fremme forslag til endringer i generaladvokatens oppgaver knyttet til disiplinærsaker i Forsvaret og andre gjøremål utenfor straffesakskjeden.
+
+1.  **Etterforsking av militære straffesaker**
+
+Det følger av Norges forpliktelser etter EMK at etterforskingen må være tilstrekkelig uavhengig, se punkt 23.2. Ettersom militærpolitiet er en del av kommandokjeden i Forsvaret og rapporterer direkte til militær sjef, er det tilknytning mellom militæret og etterforskingen, og det oppstår etter dagens regelverk en viss spenning når militærjuristene og militære sjefer er uenige om hvorvidt en sak bør etterforskes.[^1198] Det er grunn til å anta at dagens løsning ikke tilfredsstiller uavhengighetskravet, så lenge militære sjefer formelt sett kan øve innflytelse på etterforskingen.[^1199]
+
+Utgangspunktet må være at militære straffesaker bør etterforskes av personer uten tilknytning til militær kommandolinje. Forholdet mellom påtalemyndigheten og militærpolitiet kan tenkes løst annerledes enn etter gjeldende rett. I Danmark er for eksempel etterforskingsfunksjonen adskilt fra militærpolitiet og lagt direkte under den militære påtalemyndighet. Et annet alternativ er å legge etterforskingen fullt ut i sivilt spor.
+
+Det må i alminnelighet antas at det er av vesentlig betydning for effektiv etterforsking at den som arbeider med saken, har kunnskap om militæret. Etter utvalgets syn er det uheldig om etterforskingen uføres av sivilt politi som ikke innehar nødvendig ekspertise og erfaring.
+
+Utvalget har blitt stående ved en løsning som ligner den danske. I lovforslaget legges det opp til at etterforskingen av militære straffesaker skal utføres av en gruppe etterforskere fra militærpolitiet.[^1200] Gruppen skal legges direkte under Generaladvokatembetet, slik at militærjuristene alene vil ha mulighet til å gi ordre og pålegg om etterforskingen. Løsningen antas å tilfredsstille Norges konvensjonsforpliktelser.
+
+Militærpolitiet har i dag etterforskingskompetanse etter lov 20. mai 1988 nr. 33 om militær politimyndighet § 5. Utvalget bemerker at forslaget til avgrensning av hvilke straffesaker som skal anses som militære, se punkt 23.5.3, vil innebære at etterforskerne vil få etterforskingskompetanse i flere saker enn etter dagens lov.
+
+1.  **Domstolsbehandlingen av militære straffesaker**
+
+Utgangspunktet bør, som i dag, være at militære straffesaker skal behandles ved de alminnelige domstoler. Internasjonalt har signalene fra EMD, med fokus på uavhengighet, ført til en trend i retning av «sivilisering» av militære rettergangsordninger.[^1201] Kravet til uavhengighet gjør det uaktuelt å reversere dagens system til eldre tiders militære domstoler.
+
+Etter utvalgets syn kan det være grunn til å sentralisere behandlingen av sakstypen til enkelte utvalgte domstoler, slik gjeldende lov åpner for i krigstid, jf. straffeprosessloven § 466 annet ledd. Både praktiske hensyn og muligheten for å bygge ekspertise i dommerkorpset taler for dette. Reglene for valg av domstoler bør være fleksible. Behovet for å bruke andre eller flere domstoler kan oppstå i eventuell krigssituasjon.
+
+Loven bør ikke angi krav til struktur eller saksfordeling mellom domstolene, men gi hjemmel for å fastsette bestemmelser om valg av domstoler i forskrift. For eksempel kan det være hensiktsmessig å legge behandlingen av militære straffesaker til utvalgte domstoler i nærheten av Krigsadvokatene for Nord-Norge og tilsvarende i nærheten av Generaladvokatembetet og Krigsadvokatene for Sør-Norge. En annen mulighet kan være å legge alle sakene til én tingrett, eller til én eller enkelte tingretter med nærhet til Forsvarets hovedbaser for henholdsvis Sjøforsvaret, Luftforsvaret og Hæren. For begge alternativer vil det være hensiktsmessig at anke til anneninstans behandles av den eller de lagmannsretter som de utvalgte tingrettene sorterer under.
+
+Et særlig spørsmål er om norske domstoler bør kunne sette rett i utlandet. I dag åpner ikke loven for dette. Det er pekt på at dette medfører praktiske utfordringer og kan være uheldig for muligheten til å føre bevis umiddelbart for retten. Videre er det vist til at det kan skape mistillit hos lokalbefolkningen når straffesakene iretteføres i soldatenes hjemland og ikke på gjerningsstedet.[^1202]
+
+Etter utvalgets syn er disse argumentene tungtveiende, men utvalget antar at situasjonen trolig vil oppstå nokså sjelden, og at sakene og behovet for gjennomføringen antakelig vil variere betydelig. Det foreslås derfor en hjemmel for å fastsette nærmere bestemmelser i forskrift om, og i tilfelle hvordan, en sak kan gjennomføres i utlandet. Utvalget understreker at gjennomføringen av en norsk sak utenfor Norges grenser har en folkerettslig side. Forutsetninger for å sette rett i utlandet vil være at det er inngått avtale mellom statene, og at den annen stats lovgivning tillater at saken gjennomføres der.
+
+1.  **Særlig om militære meddommere**
+
+I tilknytning til domstolsbehandlingen av militære straffesaker er det et spørsmål hvilken ekspertise det er behov for blant dommerne. I dag er det bare i krig at retten skal settes med militære meddommere, jf. straffeprosessloven § 466 siste ledd.
+
+Norske fagdommere er generalister. Tidligere har en bygget på forutsetningen om at en stor del av befolkningen har gjennomført førstegangstjeneste, og således at mange, i det minste mange menn, har en viss kunnskap om Forsvaret. Dette har endret seg. Dommere og tiltaltes forsvarer er i dag ofte uten militær bakgrunn.
+
+Et spørsmål er om de endrede forutsetningene kan begrunne bruk av meddommere i flere saker enn i dag. På den annen side kan det stilles spørsmål om det bør være slik at bare én gruppe tiltalte skal dømmes av personer med samme erfaringsbakgrunn som dem selv.[^1203]
+
+I dag skal meddomsretten i krig bestå av et flertall av militære meddommere, som er aktivt tjenestegjørende, og som skal trekkes fra lister utarbeidet av de militære myndigheter.[^1204] Spørsmålet er om de gjeldende bestemmelser for bruk av militære meddommere tilfredsstiller kravet til uavhengighet etter EMK.
+
+Sammensetningen av militære domstoler var tema for EMD i saken Jaloud mot Nederland.[^1205] I saken som ble vurdert, hadde domstolen vært satt med ett militært medlem. Vedkommende var tjenestegjørende offiser. Klageren anførte at militærkammeret i ankedomstolen i Arnhem ikke var tilstrekkelig uavhengig. EMD uttalte:
+
+«In the present case, the Court has had regard to the composition of the Military Chamber as a whole. It sits as a three-member chamber composed of two civilian members of the Arnhem Court of Appeal and one military member. The military member is a senior officer qualified for judicial office; he is promoted to titular flag, general or air rank if he does not already hold that substantive rank \[…\]. In his judicial role he is not subject to military authority and discipline; his functional independence and impartiality are the same as those of civilian judges \[…\]. That being so, the Court is prepared to accept that the Military Chamber offers guarantees sufficient for the purposes of Article 2 of the Convention.»
+
+Etter utvalgets syn bør det åpnes for bruk av militære meddommere i noen saker. Det kan være behov for et militært innslag i rettens sammensetning for at retten fullt ut skal kunne forstå sakens faktiske sider og bedømme handlingene. Etter utvalgets syn er det ikke tilstrekkelig at kunnskap om Forsvaret tilføres ved bruk av rettsoppnevnte sakkyndige, blant annet fordi det ofte vil måtte foretas helhetlige bedømmelser hvor alt som er bevisført, ses i sammenheng. Det er derfor viktig at retten selv besitter den nødvendige kunnskapen. Militære meddommere bør videre kunne benyttes både i krig og i fred. Behovet for ekspertise antas å kunne være det samme i begge situasjoner.
+
+Utvalget har blitt stående ved at det bør kunne oppnevnes meddommere med militærfaglig bakgrunn etter lovens generelle regel om fagkyndige meddommere, se utkastet §§ 5-5 tredje ledd og 5-7. Ved oppnevningen skal det tas hensyn til praksis fra EMD og de underliggende saksbehandlingsidealer denne er uttrykk for. Antall fagkyndige dommere, hvilken forsvarsgren meddommerne representerer, og meddommernes rang vurderes konkret for hver enkelt sak. Utvalget foreslår at det gis hjemmel for å utarbeide lister over fagkyndige meddommere for den enkelte domstol i forskrift.
+
+1.  **Private straffesaker**
+
+    1.  **Innledning**
+
+Hovedregelen i vår prosessordning er at lovovertredelser skal påtales av det offentlige, jf. straffeprosessloven § 62 a første ledd. Fornærmedes adgang til å reise privat straffesak etter straffeprosessloven kapittel 28 gjør unntak fra dette utgangspunktet, jf. straffeprosessloven § 80.
+
+Private straffesaker er ikke særskilt nevnt i utvalgets mandat. I mandatet punkt 6 er imidlertid utvalget bedt om å se hen til rapportene fra Domstoladministrasjonens regelutvalg i sitt arbeid. I rapport nr. 3 og 4 anbefaler regelutvalget at departementet bør vurdere å oppheve ordningen med private straffesaker.[^1206] Utvalget mener dessuten det er grunn til å drøfte en så vidt grunnleggende straffeprosessuell problemstilling som spørsmålet om hvorvidt det skal være adgang til privat forfølgning av mulig straffbare forhold.
+
+I det følgende redegjøres det kort for den nåværende ordningen med private straffesaker, jf. punkt 24.2. I punkt 24.3 redegjøres det for svensk og dansk rett. I punkt 24.4 redegjøres det for tidligere utredninger av spørsmålet. Utvalgets vurderinger og forslag fremgår av punkt 24.5.
+
+1.  **Oversikt over gjeldende rett**
+
+Straffeprosessloven § 402 regulerer når fornærmede kan reise privat straffesak.[^1207] Sakene deles etter loven inn i to hovedkategorier: ubetinget private straffesaker og subsidiært private straffesaker.
+
+Straffeprosessloven § 402 første ledd nr. 1 og 2 gjelder adgangen til å reise ubetinget privat straffesak, hvilket vil si at fornærmede kan ta ut stevning uaktet om påtalemyndigheten vil forfølge saken. Er privat straffesak reist, vil det normalt hindre offentlig sak om samme forhold.[^1208] Har påtalemyndigheten allerede reist sak, vil det imidlertid stenge for privat straffesak. Fornærmede kan da slutte seg til den offentlige forfølgningen etter straffeprosessloven § 404.
+
+Etter § 402 første ledd nr. 1 kan fornærmede forfølge straffbare handlinger *som ikke påtales av det offentlige.* Det finnes imidlertid ingen tilfeller der påtalen er helt overlatt til private i dagens lovgivning. Denne bestemmelsen har derfor ingen praktisk betydning.
+
+Etter nr. 2 er det adgang til å reise privat straffesak i tilfeller der offentlig påtale er betinget av at *allmenne hensyn krever det*.[^1209] Alternativet omfatter mindre alvorlige forhold og forhold som kan ha liten offentlig interesse, som for eksempel krenkelser av privatlivets fred, mindre formueskrenkelser og ærekrenkelser. I praksis har det vist seg at ærekrenkelsessakene dominerer fullstendig.[^1210]
+
+Straffeprosessloven § 402 første ledd nr. 3 regulerer de subsidiært private straffesakene. I disse tilfellene kan fornærmede bare reise sak dersom påtalemyndigheten ikke vil forfølge forholdet eller har frafalt en påbegynt forfølgning uten at det er gitt påtaleunnlatelse etter straffeprosessloven §§ 69 eller 70.[^1211]
+
+Lovens system er at de subsidiært private straffesakene omfatter alle straffbare handlinger som faller utenfor straffeprosessloven § 402 nr. 1 og nr. 2, såfremt det finnes en privat fornærmet.[^1212] Det gjelder både saker hvor påtalen er ubetinget offentlig, og saker der påtalen er betinget av allmenne hensyn.
+
+Har påtalemyndigheten besluttet å frafalle en påbegynt forfølgning for en handling som omfattes av § 402 nr. 2 eller 3, er det adgang for fornærmede til å overta forfølgningen og tre inn i påtalemyndighetens sted slik saken står, jf. straffeprosessloven § 406. Saken vil da fortsette som en privat straffesak.
+
+I de private straffesakene innehar fornærmede langt på vei påtalemyndighetens rolle, jf. straffeprosessloven § 409. Saken innledes ved at fornærmede tar ut stevning, jf. straffeprosessloven § 412. Stevningen trer i stedet for tiltalebeslutning og fastsetter rammen for domstolens kompetanse, jf. straffeprosessloven § 38. Private straffesaker følger ellers reglene om offentlige straffesaker så langt de passer, jf. straffeprosessloven § 409.
+
+Ordningen med påtalebegjæring fra fornærmede som formelt vilkår for straffeforfølgning er ikke videreført i straffeloven 2005, jf. Ot.prp. nr. 90 (2003–2004) s. 62 flg. De alminnelige reglene om påtale følger nå av straffeprosessloven § 62 a, som trådte i kraft samtidig som straffeloven, se nærmere punkt 8.3.2.[^1213] Bestemmelsen slår fast at alle lovbrudd som hovedregel er undergitt ubetinget offentlig påtale, jf. første ledd. Etter annet ledd kan imidlertid påtalemyndigheten unnlate å forfølge handlinger med en strafferamme på to år eller lavere hvis ikke allmenne hensyn tilsier påtale.
+
+Etter ikraftsettingen av straffeloven følger adgangen til å reise privat straffesak for de fleste straffebud av ordningen med subsidiært private straffesaker, jf. § 402 nr. 3.[^1214] Det kan fortsatt tenkes tilfeller i spesiallovgivningen som vil være omfattet av straffeprosessloven § 402 nr. 2, men disse er i liten grad satt til vern av private interesser. For øvrig kan det nevnes at straffansvaret for ærekrenkelser ikke er videreført i ny straffelov, jf. Ot.prp. nr. 22 (2008–2009) s. 165 flg.
+
+Retten til domstolsprøving etter Den europeiske menneskerettskonvensjon (EMK) artikkel 6 nr. 1 gjelder bare «civil rights and obligations». Høyesterett har lagt til grunn at adgangen til å reise privat straffesak ikke er å anse som en «civil right» etter EMK artikkel 6 nr. 1, jf. Rt. 2008 s. 672 (avsnitt 22).
+
+1.  **Utenlandsk rett**
+
+    1.  **Dansk rett**
+
+Dansk rett bygger på et offentligrettslig forfølgningsprinsipp. Påtalekompetanse for fornærmede eller andre krever særlig hjemmel, jf. retsplejeloven § 719.[^1215]
+
+Det er ingen alminnelig adgang til subsidiær privat påtale i Danmark.[^1216] Fornærmede har imidlertid en begrenset adgang til privat påtale i visse mindre alvorlige sakstyper. Dette gjelder blant annet for fredskrenkelser, ærekrenkelser og selvtekt, jf. den danske straffeloven §§ 275 stk. 1 og 305 stk. 2. Videre er det adgang til privat påtale av overtredelser i tilfeller der offentlig påtale er betinget av fornærmedes begjæring, når strafferammen ikke er høyere enn fengsel i inntil fire måneder, jf. retsplejeloven § 726.
+
+Spørsmålet om hvorvidt det burde innføres en alminnelig adgang til subsidiær privat påtale, ble drøftet av Justisministeriets strafferetsplejeutvalg i 2006.[^1217] Utvalget gikk imot dette med følgende begrunnelse:
+
+«\[O\]bjektivitetsprincippet \[bør fortsat\] være et bærende princip i straffeprocessen, bl.a. således at kompetencen til at afgøre, om der skal rejses tiltale, i almindelighed bør ligge hos et statsligt organ, der er forpligtet til at vurdere tiltalespørgsmålet efter saglige og objektive kriterier. Beslutninger, der indebærer, at nogen tiltales med den belastning, der følger med at være tiltalt i en straffesag, bør således efter udvalgets opfattelse i alle mere alvorlige sager træffes af en statslig myndighed efter saglige og objektive kriterier. En almindelig subsidiær påtaleret for den forurettede ville også indebære en risiko for uens behandling af sigtede afhængig af den enkelte forurettedes vilje. Hertil kommer, at udvalget ikke finder, at sigtede/tiltalte eller retsvæsenet i almindelighed bør belastes med straffesager, som anklagemyndigheden har vurderet, at der ikke er tilstrækkeligt grundlag for at føre.» [^1218]
+
+Utvalget mente at fornærmedes legitime interesse i å fremme sine synspunkter på påtalespørsmålet i en konkret sak i tilstrekkelig grad blir ivaretatatt gjennom adgangen til å påklage negative påtalevedtak. Utvalgets anbefaling ble fulgt opp i det videre lovarbeidet.[^1219]
+
+1.  **Svensk rett**
+
+I svensk rett har fornærmede en vid adgang til subsidiær privat påtale, jf. Rättegångsbalken 20 kap. 8 §. I Straffprocessutredningen er det nylig vurdert om ordningen burde avskaffes.[^1220] Det er vist til at flere aktører har tatt til orde for å oppheve adgangen til subsidiær påtale fordi den først og fremst blir benyttet på sjikanerende vis og det ikke er uvanlig at sakene er åpenbart grunnløse. I utredningen er det videre vist til at mange saker krever en ikke ubetydelig arbeidsinnsats fra domstolens side.[^1221]
+
+Det ble likevel lagt til grunn at adgangen av kontrollhensyn burde beholdes, og at det ville gi liten samlet gevinst for rettsvesenet å fjerne ordningen. I begrunnelsen heter det:
+
+«Antalet mål är dock förhållandevis litet. Polis- och åklagarresurserna berörs överhuvudtaget inte. Det skulle inte ha någon effekt för handläggningen av det absoluta flertalet brottmål, dvs. de där åklagaren för talan. Att målsäganden i sista hand har möjlighet att väcka enskilt åtal säkerställer också att den som anser sig ha blivit utsatt för ett brott på egen hand kan få till stånd en prövning i domstol. Som anförts i tidigare lagstiftningsarbete (se prop. 1981/82:41 s. 13) utgör det en möjlighet till kontroll för den enskilde som det inte helt kan bortses ifrån.
+
+Det finns även en risk att effekten av att avskaffa målsägandens rätt att väcka åtal skulle kunna få negativa konsekvenser för rättsväsendet i stort. Trycket på åklagaren att väcka åtal kan komma att öka om åklagarens beslut slutgiltigt skulle stänga vägen för att ansvarsfrågan kan komma att prövas i domstol. Särskilt gäller det i de fall där åklagaren ska pröva om åtal är påkallat ur allmän synpunkt.
+
+Även om åklagare ska göra en självständig och objektiv bedömning av den frågan kan det ha betydelse vilka alternativ som finns för målsäganden. Det är inte otänkbart att tillämpningen av åtalsprövningsreglerna skulle behöva bli mer generös än i dag.»[^1222]
+
+Etter rättegångsbalken 20 kap. 8 § stk. 2 har fornærmede også vid adgang til å slutte seg til tiltalen. Straffprocessutredningen har anbefalt at denne ordningen avskaffes.[^1223] Denne delen av utredningen er per oktober 2016 fortsatt til behandling i Justisministeriet.
+
+1.  **Tidligere drøftelser av behovet for private straffesaker**
+
+Spørsmålet om hvorvidt ordningen med private straffesaker bør bestå, har over tid vært drøftet i ulike sammenhenger. Straffeprosesslovkomiteen gikk i sin tid samlet inn for å beholde adgangen til privat påtale i de ubetinget private sakene.[^1224] Utvalget viste til at å fjerne muligheten ville gripe så dypt inn i reglene om rettsvern mot ærekrenkelser at spørsmålet burde diskuteres i sammenheng med straffansvaret for ærekrenkelser.[^1225]
+
+I synet på de subsidiært private sakene var Straffeprosesslovkomiteen delt. Flertallet mente at ordningen burde avskaffes, fordi erfaringen syntes å vise at det sjelden kommer noe positivt ut av en subsidiært privat sak, og sakene representerer en belastning både for partene og det offentlige.[^1226] Utvalget hadde undersøkt subsidiært private saker i en periode på fem år uten å finne én eneste sak som hadde endt med domfellelse. Et mindretall i komiteen gikk inn for å beholde adgangen til subsidiær privat forfølgning og la særlig vekt på hensynet til allmennhetens tillit til behandlingen av straffesaker.[^1227] Mindretallets syn ble lagt til grunn for utformingen av straffeprosessloven.[^1228]
+
+Straffelovkommisjonen foreslo i delutredning VII at ordningen med private straffesaker burde avskaffes.[^1229] Kommisjonen viste særlig til at det strafferettslige ansvaret for ærekrenkelser ble foreslått vesentlig innskrenket, noe som ville redusere antallet private straffesaker. Videre la kommisjonen vekt på at reglene om påtalebegjæring som betingelse for offentlig påtale og private straffesaker ikke ble foreslått videreført.[^1230]
+
+Problemstillingen ble tatt opp i første delproposisjon til ny straffelov, men nærmere drøftelse ble utsatt under henvisning til at regelverket burde vurderes i sammenheng med reglene om ærekrenkelser, etter at Stortinget hadde tatt stilling til forslaget om å forlate ordningen med formell påtalebegjæring fra den fornærmede, jf. Ot.prp. nr. 90 (2003–2004) s. 45. I delproposisjon Ot.prp. nr. 22 (2008–2009) ble vurderingen på nytt utsatt, i likhet med tilpasning av straffeprosessloven for øvrig.[^1231] Straffeloven trådte kraft 1. oktober 2015. I forarbeidene til ikraftsettingsloven uttaler departementet at det ikke hadde vært anledning til å prioritere spørsmålet om å videreføre instituttet med private straffesaker, jf. Prop. 64 L (2014–2015) s. 56 og 59.
+
+Domstoladministrasjonens regelutvalg anbefaler i rapport nr. 3 at departementet bør vurdere å oppheve ordningen med private straffesaker, basert på følgende begrunnelse:
+
+«Regelutvalget har mottatt innspill fra Oslo tingrett med forslag om at ordningen med private straffesaker bør oppheves. Det er vist til at tiden har gått fra disse reglene, og at reglene om private straffesaker nå i praksis stort sett bare imøtekommer kverulanters behov.»[^1232]
+
+Regelutvalget gjentar sin anbefaling om å avvikle ordningen med private straffesaker i rapport nr. 4:
+
+«Regelutvalget mottar jevnlig henvendelser fra dommere med regelendringsforslag med variasjoner over samme tema. Felles for forslagene er at det foreslås at ordningen oppheves i sin helhet, eller i alle fall at reglene endres slik at denne typen søksmål reduseres, for eksempel ved at det oppstilles krav om ‘særlige grunner’ for å reise denne type søksmål, eventuelt at det innføres rettsgebyr for private straffesaker.
+
+På bakgrunn av de henvendelsene utvalget har mottatt etter sin forrige behandling av emnet, finner Regelutvalget grunn til å gjenta og understreke sin anbefaling om at ordningen med private straffesaker avvikles og at straffeprosessloven kapittel 28 oppheves.»[^1233]
+
+Videre fremheves det at det i alle tilfeller er grunn til å avgrense adgangen mot visse typer straffesaker, basert på at Regelutvalget mener det er en økt tendens til at det reises privat straffesak mot staten og enkeltdommere på bakgrunn av domstolenes virksomhet:
+
+«Det kan ikke reises erstatningssaker mot staten eller dommeren når det gjelder rettslige avgjørelser, med mindre avgjørelsen er endret, bortfalt eller vedkommende har blitt straffet for sitt forhold i saken, jf. domstolloven § 200 tredje ledd. Bestemmelsen hindrer at en part som er misfornøyd med innholdet i en rettslig avgjørelse reiser erstatningssak med bakgrunn i en rettskraftig avgjørelse. Et erstatningskrav kan derfor ikke være et ‘alternativ’ til bruk av rettsmidler, og begrensningen bidrar således til å sikre avgjørelsers rettskraftsvirkninger og domstolenes uavhengighet.
+
+Noen tilsvarende prosessuell sperre finnes ikke når det gjelder adgangen til å reise private straffesaker i anledning rettslige avgjørelser. Det vises til at de samme hensyn gjør seg gjeldende for private straffesaker som for erstatningskrav og at adgangen til å reise private straffesaker ikke bør være videre enn adgangen til å fremme erstatningskrav.
+
+Domstoladministrasjonen fremmer på denne bakgrunn forslag om at det innføres en tilsvarende begrensning i muligheten til å fremme private straffesaker i anledning rettslige avgjørelser som i dag gjelder for erstatningskrav.»[^1234]
+
+Fordelene og ulempene med private straffesaker har også vært gjenstand for atskillig diskusjon i juridisk litteratur. Hov peker på at erfaringen viser at «den subsidiære forfølgningsrett stort sett har hatt den funksjon å tjene som utblåsningsventil for kverulanter».[^1235] Videre heter det:
+
+«\[Det kan\] hevdes at dersom fornærmedes innflytelse på spørsmålet om strafforfølgning også gir ham større adgang til å bruke denne innflytelsen som et pressmiddel overfor den skyldige, f.eks. for å få ham til å betale erstatning, så vil dette i seg selv ikke nødvendigvis være av det gode. En slik adgang kan også gi muligheter for utilbørlig press og usmakelige hestehandler.»[^1236]
+
+Etter Hovs syn er behovet for kontroll med påtalemyndighetens avgjørelser godt ivaretatt på andre måter, slik at dette ikke representerer noe tungtveiende argument for privat forfølgningsrett.[^1237]
+
+I nyere teori har Robberstad tatt til orde for at forekomsten av og innholdet i private straffesaker er lite undersøkt. Robberstad skriver:
+
+«Mye tyder på at omtalen av private straffesaker i litteratur og lovforarbeider er bygd på synsing og gamle fordommer. Dette er fremtredende i Straffelovkommisjonens utredning, som sluker Hovs argument med hud og hår. Muligheten for at påtalemyndigheten henlegger en sak på grunn av manglende energi og pliktiver, blir ikke omtalt. Når det gjelder fornærmedes stilling i straffesaker er Straffelovkommisjonens innstillinger som et gufs fra den gamle verden. Mens fornærmedeutvalgets utredning (NOU) viste fremover og ut i verden, viser Straffelovkommisjonens holdninger tilbake til 1800-tallets oppfatning av de fornærmede som slemme og hevnsyke.»[^1238]
+
+1.  **Utvalgets vurderinger og forslag**
+
+Spørsmålet om hvorvidt adgangen til å reise privat straffesak bør videreføres i straffeprosessloven, forutsetter en vurdering av den prinsipielle begrunnelsen for å åpne for privat forfølgning og en drøftelse av om det er behov for en slik adgang. Effektivitetsgrunner er isolert sett av mindre betydning, ettersom antall saker er meget få.
+
+Til fordel for en ordning med private straffesaker anføres som regel et ønske om å ha et korrektiv til prioriteringer innenfor ressursene påtalemyndigheten har til rådighet, og mulig ineffektivitet, feilvurderinger eller partiskhet fra påtalemyndighetens side.
+
+Det antas videre at det at adgangen finnes, i seg selv bidrar til å styrke tilliten til rettspleien. For påtalemyndigheten kan adgangen også utgjøre et vern mot kritikk. Påtalemyndigheten kan henvise fornærmede til å prøve seg på egen hånd.[^1239]
+
+Utvalget mener likevel at straffeforfølgning bør være en ren statsoppgave. Påtalemyndigheten er med sin uavhengighet og sitt objektive mandat best egnet til å forvalte det betydelige ansvaret det er å anklage noen med påstand om straff og føre straffesaker på samfunnets vegne. Utvalget kan ikke se at det er forhold som taler for å stille så inngripende virkemidler som det offentliges sanksjonsapparat representerer, til privates disposisjon. Standpunktet må ses i sammenheng med det som er sagt om hvorvidt fornærmede bør gis partsstatus, jf. punkt 10.3.1. Se også utvalgets drøftelse i punkt 8.5.
+
+Fornærmedes rettmessige interesse i å få fremsatt sitt syn på påtalespørsmålet er tilstrekkelig ivaretatt ved adgangen til å klage over påtalevedtak, jf. utkastet § 29-9. Dertil kommer at påtalemyndighetens saksbehandling kan klages inn for Sivilombudsmannen. For så vidt gjelder et erstatningskrav, er fornærmedes interesse ivaretatt gjennom adgangen til å reise sivil sak etter tvisteloven.
+
+Av betydning for behovet for ordningen med private straffesaker er også at utvalgets lovutkast legger opp til at overordnet påtalemyndighet i større grad enn i dag skal føre et særlig tilsyn med underordnet påtalemyndighet, se drøftelsen i punkt 8.2.2. Dette må antas å styrke påtaleavgjørelsers kvalitet i tillegg til å legge til rette for at det kan rettes opp i konkrete feilvurderinger. Kritikk av påtalemyndighetens generelle prioriteringer bør skje gjennom de ordinære politiske kanaler.
+
+Som nevnt har Robberstad pekt på at tidligere forslag om å avskaffe private straffesaker bygger på synsing og svakt empirisk grunnlag, se punkt 24.4.[^1240] Det er riktig at det savnes empiri hva gjelder betydningen av at det i dag er mulig å reise privat straffesak, herunder betydningen for påtalemyndighetens arbeid av at den vet at vedtak kan bli etterprøvd på denne måten. Det konkrete behovet for privat straffeforfølgning fremstår imidlertid som lite. I dag er det få slike saker for norske domstoler. I 2014 innkom det 24 stevninger, og totalt åtte saker ble avgjort ved dom.[^1241] Domstoladministrasjonens regelutvalg har som tidligere nevnt rapportert at sakene «stort sett bare imøtekommer kverulanters behov», se punkt 24.4. Det praktiske anvendelsesområdet for privat forfølgning har særlig vært saker om ærekrenkelser. Ved ikraftsettingen av straffeloven ble straffansvaret for ærekrenkelser opphevet, og det er således grunn til å anta at antallet private straffesaker vil synke ytterligere.

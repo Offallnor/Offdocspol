@@ -1,985 +1,838 @@
-# NOU 2016: 24, del 5 av 73 (side 59–69)
+# NOU 2016: 24, del 5 av 69
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/1182afc0-nou-2016-24.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-24/id2517932/
 - Original-PDF: https://www.regjeringen.no/contentassets/6fe1d875248042b4a09b43b85aa46832/no/pdfs/nou201620160024000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 9 tabeller, 1 figur, 52 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 59]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-§ 20-8. Underretning til personer som har vært
-underlagt kommunikasjonskontroll
-(1) Enhver skal på begjæring som fremsettes
-for påtalemyndigheten, gis underretning om hvorvidt det har vært iverksatt tiltak mot vedkommende
-etter dette kapitlet. Dette gjelder likevel ikke i
-saker om overtredelse av straffeloven kapittel 17 og
-for tiltak som er besluttet før 21. april 1995.
-(2) Underretning gis tidligst 1 år etter at tiltaket er avsluttet.
-(3) Retten kan etter begjæring fra påtalemyndigheten beslutte at underretning skal unnlates
-eller utsettes i et nærmere fastsatt tidsrom dersom det vil være til skade for etterforskingen at
-underretning gis, eller andre forhold taler for at
-underretning bør unnlates eller utsettes. Avgjørelsen treffes uten at mistenkte eller den avgjørelsen
-ellers rammer, gis adgang til å uttale seg, og
-beslutningen blir ikke meddelt dem.
-§ 20-9. Kontrollutvalget
-(1) Kontrollutvalget skal føre kontroll med
-påtalemyndighetens behandling av saker etter
-dette kapitlet. Dette gjelder likevel ikke saker som
-omfattes av EOS-kontrolloven.
-(2) Utvalget skal bestå av minst tre medlemmer og ett eller flere varamedlemmer oppnevnt av
-Kongen. Lederen må ha mastergrad i rettsvitenskap eller tilsvarende grad.
-(3) Politiet og påtalemyndigheten skal gi utvalget de opplysninger, dokumenter, lydopptak mv.
-om kommunikasjonskontroll som utvalget finner
-nødvendig av hensyn til sin kontrollfunksjon.
-(4) Utvalget kan innkalle enhver av politiet og
-påtalemyndighetens tjenepersoner til avhør, og
-dessuten andre som bistår ved kommunikasjonskontroll. Alle disse har plikt til å forklare seg for
-utvalget uten hensyn til taushetsplikt.
-§ 20-10. Forskrifter om inngrep i kommunikasjon og
-om Kontrollutvalget
-(1) Kongen gir forskrift om Kontrollutvalgets
-oppgaver og saksbehandling, jf. § 20-9.
-(2) Kongen kan gi forskrift til utfylling og gjennomføring av bestemmelsene i dette kapitlet, herunder om sletting og sperring av materiale fra
-kommunikasjonskontroll.
-Kapittel 21. Obser verende, kontrollerende
-og påvirkende tiltak
-§ 21-1. Spaning
-Det kan uten hensyn til mistankekravet i § 14-1
-første ledd foretas systematisk eller langvarig
-observasjon av mistenkte på offentlig sted, og mot
-
-57
-
-Kapittel 1
-
-privat lukket sted dersom den som observerer,
-befinner seg utenfor. Det kan anvendes optisk
-utstyr.
-§ 21-2. Teknisk sporing
-Det kan plasseres teknisk peileutstyr i klær
-eller på ting som den mistenkte bærer på seg eller
-med seg, eller på annen gjenstand for å klarlegge
-hvor den mistenkte eller gjenstanden befinner
-seg, når mistanken gjelder overtredelse av
-a) straffebud som etter loven kan medføre straff
-av fengsel i 6 år eller mer, eller
-b) straffeloven §§ 121, 123, 125, 126, 128 første
-punktum, 146, 198 eller 254.
-§ 21-3. Skjult kameraovervåking
-(1) Det kan foretas vedvarende eller regelmessig gjentatt skjult kameraovervåking ved bruk av
-fjernbetjent eller automatisk virkende kamera på
-eller fra offentlig sted når slik overvåking antas å
-være av vesentlig betydning for etterforskingen.
-(2) På privat sted som ikke er noens private
-hjem, kan det foretas slik skjult kameraovervåking der det antas at den mistenkte vil oppholde
-seg, når slik overvåking antas å være av vesentlig
-betydning for etterforskingen, og mistanken gjelder overtredelse av
-a) straffebud som etter loven kan medføre straff
-av fengsel i 10 år eller mer,
-b) straffeloven §§ 121, 123, 125, 126, 127 jf. 123,
-128 første punktum, 129, 136, 136 a, 231, 254,
-257, 311, 332 jf. 231, 335 jf. 231, 337 jf. 231 eller
-340 jf. 231, eller
-c) lov 18. desember 1987 nr. 93 om kontroll med
-eksport av strategiske varer, tjenester og teknologi m.v. § 5 eller utlendingsloven § 108
-femte ledd.
-(3) Det kan bare unntaksvis foretas overvåking etter annet ledd av sted hvor personer erfaringsmessig kommuniserer fortrolig i tilknytning
-til virksomhet som nevnt i §§ 8-3 første ledd eller
-8-4 første ledd bokstav a, jf. § 9-3.
-§ 21-4. Infiltrasjon. Adgang til å foreta ellers straffbare handlinger. Avlytting og opptak av samtale med
-samtykke fra en samtalepart
-(1) Polititjenesteperson eller en som opptrer
-på vegne av politiet, kan uten hensyn til mistankekravet i § 14-1 første ledd, ta fordekt kontakt med
-en person for å fremskaffe informasjon. For å
-kunne opptre fordekt kan det begås ellers straffbare handlinger som er nødvendige for å kunne
-opptre fordekt, og som ikke går ut over hva som
-er forsvarlig under hensyn til oppdragets viktighet
-og hvilke interesser som krenkes. Det kan foretas
-
-[Side 60]
-
-58
-
-Kapittel 1
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-avlytting eller opptak av telefonsamtale eller
-annen kommunikasjon med en mistenkt når politiet enten selv deltar i samtalen eller har fått samtykke fra en av samtalepartene.
-(2) Tillatelsen kan gis for inntil 4 uker av gangen.
-§ 21-5. Påvirkning av hendelsesforløp og bevisprovokasjon
-(1) Påvirkning av en straffbar handling kan
-foretas for å fremskaffe bevis eller kontrollere et
-hendelsesforløp. Påvirkningen må ikke fremprovosere en straffbar handling som ellers ikke ville
-ha blitt begått.
-(2) En straffbar handling som ellers ikke ville
-ha blitt begått, kan likevel fremprovoseres for å
-skaffe bevis for lovbrudd som allerede er begått,
-eller bringe til rette en gjenstand. Den fremprovoserte handlingen kan ikke påtales.
-(3) Tillatelse kan gis for inntil 4 uker av gangen.
-§ 21-6. Beslutningsmyndighet og krav til gjennomføring, kontroll og dokumentasjon
-(1) Påtalemyndigheten kan beslutte tiltak etter
-dette kapitlet, unntatt etter § 21-3 om skjult
-kameraovervåking.
-(2) Det skal utarbeides en plan for tiltak etter
-dette kapitlet. Tiltaket må gjennomføres slik at det
-kontrolleres og kan dokumenteres.
-§ 21-7. Forskrifter om observerende, kontrollerende
-og påvirkende tiltak
-Kongen kan gi forskrift om tiltak etter dette
-kapitlet.
-Kapittel 22. Inngrep i mistenktes formue.
-Heftelse og båndlegging
-§ 22-1. Heftelse
-(1) Det kan besluttes heftelse av et bestemt
-beløp i formuesgoder som tilhører mistenkte, når
-det er grunn til å frykte for at fullbyrding av bot,
-inndragning, saksomkostninger, erstatning eller
-oppreisning som vedkommende er eller antas å
-ville bli ilagt, ellers vil bli forspilt eller i vesentlig
-grad vanskeliggjort. Heftelse kan besluttes inntil
-kravet som skal sikres, er rettskraftig avgjort.
-(2) Heftelse kan avverges ved at mistenkte stiller sikkerhet.
-(3) Heftelse kan besluttes av påtalemyndigheten.
-§ 22-2. Båndlegging av formue ved unndragelse
-(1) Det kan besluttes å båndlegge mistenktes
-formue slik at vedkommende mister retten til å rå
-
-over denne på annen måte enn ved gjenkallelig
-testament når vedkommende, ved flukt eller ved å
-oppholde seg i utlandet og ikke etterkomme oppfordring om å innfinne seg i riket, unndrar seg
-a) forfølgning når det foreligger skjellig grunn til
-mistanke om overtredelse av et straffebud som
-etter loven kan medføre straff av fengsel i 2 år
-eller mer, eller
-b) idømt straff av fengsel i 1 år eller mer.
-(2) Før retten treffer beslutning etter første
-ledd, skal forsvarer være hørt. Har mistenkte ikke
-allerede forsvarer, skal forsvarer oppnevnes etter
-§ 3-14.
-§ 22-3. Båndlegging av formue i terrorsaker. Utsatt
-underretning
-(1) For å forhindre fremtidige terrorhandlinger kan det når mistanken gjelder overtredelse av
-straffeloven §§ 131, 133, 134 eller 135, besluttes å
-båndlegge formuesgoder som tilhører
-a) den mistenkte
-b) et foretak som den mistenkte eier eller har
-kontroll over, eller
-c) et foretak eller en person som handler på
-vegne av eller etter instruks fra noen som
-nevnt i bokstav a eller b.
-(2) Båndlegging etter første ledd kan besluttes
-av sjefen eller den stedfortredende sjefen for Politiets sikkerhetstjeneste, eller en statsadvokat. Er
-det nødvendig av hensyn til etterforskingen, kan
-det besluttes båndlegging uten at mistenkte eller
-andre inngrepet rammer, varsles eller gis anledning til å uttale seg.
-§ 22-4. Iverksetting
-(1) Beslutning om heftelse og båndlegging settes i verk av politiet eller namsmannen. Ved iverksettingen gjelder tvisteloven §§ 33-5 til 33-8
-tilsvarende. Er det fare for at en sikret løsøregjenstand raskt vil bli ødelagt, kan påtalemyndigheten
-beslutte å selge den.
-(2) Påtalemyndigheten sørger for at beslutning etter dette kapitlet tinglyses og kunngjøres
-etter domstolloven § 181 annet ledd. Eier mistenkte registrert skip eller luftfartøy, skal beslutningen også anmerkes i vedkommende register.
-Overfor godtroende tredjeperson har beslutningen først virkning fra tinglysningen eller registreringen. Tinglysing hindrer likevel ikke
-rettsvinning etter lov 2. juni 1978 nr. 37 om godtroerverv av løsøre.
-(3) Ved båndlegging oppnevner retten, når det
-er nødvendig, en tilsynsperson til å forvalte formuen og påse at det ikke tilflyter mistenkte personlig noen inntekt av den. Reglene i lov 12. mai
-
-[Side 61]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-2015 nr. 27 om forsvunne personar § 6 får anvendelse så langt de passer.
-§ 22-5. Rettslig prøving. Tvist om rett til formuesgode
-(1) Beslutning etter §§ 22-1 og 22-3 skal snarest mulig bringes inn for retten. Før retten treffer
-beslutning, skal mistenkte og andre saken gjelder,
-utenfor tilfellene i § 22-3 annet ledd annet punktum, varsles og gis anledning til å uttale seg.
-(2) Hevder en tredjeperson å ha rett til et formuesgode som sikres etter dette kapitlet, avgjør
-retten om inngrep skal unnlates mot eller uten at
-det blir stilt sikkerhet.
-§ 22-6. Opphør
-(1) Heftelse og båndlegging faller bort når
-påtalemyndigheten frafaller inngrepet, eller når
-retten beslutter det.
-(2) Ved båndlegging av formuesgoder etter
-§ 22-3 skal påtalemyndigheten snarest mulig vurdere om det er grunnlag for å ta beslag eller heftelse i formuesgodene, jf. §§ 19-1 og 22-1.
-Båndlegging etter bestemmelsen faller senest
-bort når saken er endelig avgjort.
-Kapittel 23. Kontakt- og oppholdsforbud
-§ 23-1. Kontakt- og oppholdsforbud ved fare for personkrenkelse
-Er det grunn til å tro at en person vil opptre
-kvalifisert krenkende eller belastende overfor en
-annen eller en nærmere avgrenset krets av personer, kan påtalemyndigheten forby eller sette vilkår for vedkommendes
-a) kontakt med den eller dem det gjelder, eller
-b) opphold på et bestemt sted.
-§ 23-2. Oppholdsforbud i eget hjem
-Er det nærliggende fare for at en person vil
-begå en straffbar handling overfor noen vedkommende bor sammen med, kan påtalemyndigheten
-forby eller sette vilkår for opphold i eget hjem.
-§ 23-3. Oppholdsforbud rettet mot barn
-Er det grunn til å tro at opphold på et bestemt
-sted øker faren for at en person under 15 år begår
-en ellers straffbar handling, kan påtalemyndigheten forby eller sette vilkår for opphold på stedet.
-§ 23-4. Oppholdsforbud ved fare for voldelige sammenstøt mellom grupper
-Er det fare for voldsutøvelse som ledd i et gjensidig oppgjør mellom grupper som bruker voldelige midler, kan påtalemyndigheten beslutte
-oppholdsforbud på bestemt sted, herunder eiendom som er tilholdssted for én av gruppene, hvis
-
-59
-
-Kapittel 1
-
-opphold der kan føre til skade på utenforstående
-personer som oppholder seg i nærheten. Forbudet kan rettes mot bestemte personer med tilknytning til en av gruppene eller unntaksvis mot
-enhver med slik tilknytning.
-§ 23-5. Forutsetninger for forbud og varighet
-(1) Forbud etter §§ 23-1 og 23-2 kan bare
-besluttes etter begjæring fra den som skal beskyttes, eller når allmenne hensyn krever det.
-(2) Før det treffes beslutning etter § 23-3, skal
-barnet gis mulighet til å uttale seg og vergen spørres om vedkommende vil samtykke skriftlig i oppholdsforbudet. Det skal opplyses om at
-påtalemyndigheten må bringe forbudet inn for retten dersom vergen ikke samtykker, jf. § 23-7.
-(3) Forbud kan gis for inntil
-a) 1 år av gangen etter §§ 23-1 og 23-4,
-b) 3 måneder av gangen etter § 23-2, og
-c) 6 måneder av gangen etter § 23-3.
-§ 23-6. Underretning mv.
-(1) Beslutning om å ilegge forbud rettet mot
-en bestemt person etter dette kapitlet skal forkynnes for vedkommende. Forbud etter § 23-4 som
-retter seg mot enhver med gruppetilknytning,
-kunngjøres ved oppslag.
-(2) Ved forbud etter §§ 23-1, 23-2 eller 23-4
-skal det informeres om følgene av å bryte forbudet, jf. straffeloven § 168. Ved forbud etter § 23-1,
-og etter § 23-4 når beslutningen er rettet mot en
-bestemt person, skal det informeres om adgangen
-til å kreve beslutningen brakt inn for retten.
-(3) Den et forbud etter §§ 23-1 og 23-2 skal
-beskytte, skal underrettes ved kopi av beslutningen. Også beslutning om ikke å ta en begjæring om forbud etter disse bestemmelsene til
-følge, skal være skriftlig. Den som har fremsatt
-en begjæring som ikke er tatt til følge, underrettes med kopi av beslutningen og opplysning
-om retten til å bringe avslaget inn for retten etter
-§ 23-7.
-§ 23-7. Rettslig prøving
-(1) Påtalemyndigheten skal uten opphold
-bringe inn for retten beslutning om oppholdsforbud etter
-a) § 23-2,
-b) § 23-3 dersom vergen ikke samtykker i oppholdsforbudet, og
-c) § 23-4 når forbudet ikke er rettet mot en
-bestemt person.
-(2) Den et forbud etter dette kapitlet er rettet
-mot, kan ellers straks eller senere kreve beslutningen brakt inn for retten.
-
-[Side 62]
-
-60
-
-Kapittel 1
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-(3) En beslutning om ikke å ilegge forbud
-etter §§ 23-1 og 23-2 kan bringes inn for retten av
-den forbudet skal beskytte.
-(4) Den et forbud etter §§ 23-1 eller 23-2 er rettet mot, skal så vidt mulig varsles om rettsmøte
-etter første ledd ved forkynning. Den som skal
-vernes av forbudet, varsles.
-DEL 4. Internasjonalt samarbeid
-Kapittel 24. Bistand fra utenlandske myndigheter
-§ 24-1. Anmodning til utenlandsk myndighet om
-bistand. Beslutningsmyndighet mv.
-(1) Påtalemyndigheten og retten kan anmode
-utenlandsk myndighet om bistand i straffesak.
-Retten kan overlate til påtalemyndigheten å fremsette slik anmodning.
-(2) Før det fremsettes anmodning etter begjæring fra mistenkte, kan retten kreve at det blir innbetalt et tilstrekkelig beløp til å dekke utgiftene.
-Finner påtalemyndigheten eller retten at det har
-vært rimelig grunn til å fremsette anmodningen,
-erstattes utgiftene av staten.
-(3) Anmodes det om bruk av tvangstiltak, skal
-det foreligge særskilt beslutning om tiltaket etter
-del 3.
-§ 24-2. Krav til anmodningens innhold
-(1) Anmodningen skal utformes i overensstemmelse med de kravene som følger av folkerettslig avtale, og skal uansett inneholde
-a) opplysninger om hvilken myndighet som fremsetter anmodningen,
-b) en angivelse av den bistand som ønskes,
-c) en kort begrunnelse for anmodningen, og
-d) opplysninger som kan lette gjennomføringen,
-herunder kontaktopplysninger når anmodningen gjelder person.
-(2) Beslutning om tvangstiltak etter § 24-1
-tredje ledd skal vedlegges.
-(3) Anmodningen med vedlegg skal være
-utferdiget på eller oversatt til det offisielle språk
-i vedkommende stat, med mindre annet er
-avtalt.
-§ 24-3. Oversendelsesmåte
-Anmodning etter §§ 24-1 og 24-2 skal sendes
-direkte til utenlandsk myndighet når det er
-adgang til det etter folkerettslig avtale eller
-bestemmelser fastsatt i forskrift. I andre tilfeller
-eller dersom særlige forhold tilsier det, sendes
-anmodningen via departementet.
-
-§ 24-4. Vilkår for bistand fra utenlandsk myndighet
-Vilkår for bistand som følger av avtale, eller
-som er fastsatt av utenlandsk myndighet i den
-enkelte sak, skal overholdes, herunder skal opplysninger bare benyttes som forutsatt.
-§ 24-5. Forskrifter om utforming og oversendelse av
-anmodning til utlandet
-Kongen kan gi forskrift om utforming av
-anmodning og om oversendelsesmåten ved fremsettelse av anmodning til utenlandsk myndighet
-etter dette kapitlet.
-Kapittel 25. Bistand til utenlandske myndigheter og internasjonale domstoler
-§ 25-1. Bistand etter anmodning fra utenlandsk
-myndighet og internasjonal domstol
-(1) Utenlandsk myndighet kan gis bistand i
-forbindelse med strafferettslig forfølgning i vedkommende stat etter reglene i dette kapitlet.
-(2) Reglene gis tilsvarende anvendelse ved
-bistand til internasjonal domstol, med mindre
-annet er bestemt ved lov.
-§ 25-2. Forholdet til norsk rett. Bruk av tvangstiltak
-(1) Ved bistand til utenlandsk myndighet gis
-norsk rett tilsvarende anvendelse, med mindre
-annet er bestemt i dette kapitlet.
-(2) Bistand kan ytes selv om den handlingen
-som ligger til grunn for anmodningen, ikke er
-straffbar etter norsk lov. Tvangstiltak kan likevel
-bare anvendes når
-a) handlingen forfølgningen gjelder, eller en tilsvarende handling er straffbar etter norsk lov,
-og
-b) tilsvarende tiltak kunne vært anvendt i anmodende stat.
-§ 25-3. Plikt til å etterkomme anmodning fra utenlandsk myndighet. Avslagsgrunner
-(1) Anmodning om bistand fra utenlandsk
-myndighet skal så vidt mulig etterkommes.
-(2) Anmodningen skal avslås dersom gjennomføringen vil krenke grunnleggende nasjonale
-interesser eller stride mot rettsordenen.
-(3) Anmodningen kan avslås dersom
-a) den gjelder et politisk lovbrudd, og anmodende stat ikke er tilsluttet Schengen-samarbeidet eller Den europeiske union,
-b) den gjelder et militært lovbrudd som ikke er
-straffbart etter den alminnelige straffelovgivningen i anmodende stat,
-
-[Side 63]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-c) den myndighet som gjennomfører anmodningen, har kjennskap til at det i Norge eller
-annen stat pågår sak om, er avsagt dom for
-eller truffet annen avgjørelse av det forholdet
-anmodningen gjelder, eller
-d) andre tungtveiende grunner taler for det.
-§ 25-4. Ansvar for behandlingen. Prøving av anmodning fra utenlandsk myndighet
-(1) Anmodning som ikke er fremsatt overfor
-departementet, skal sendes dit, med mindre det
-etter folkerettslig avtale eller bestemmelser fastsatt i forskrift er adgang til direkte oversendelse
-til påtalemyndigheten.
-(2) Departementet kan til enhver tid avslå en
-anmodning fra utenlandsk myndighet. Dersom
-departementet ikke avslår anmodningen, sendes
-den påtalemyndigheten.
-(3) Påtalemyndigheten behandler anmodningen og prøver om den kan etterkommes. Er det
-nødvendig med rettens avgjørelse eller annen
-medvirkning fra domstolene, fremmes begjæring
-for retten. Retten prøver ikke om gjennomføringen vil krenke grunnleggende nasjonale interesser, jf. § 25-3 annet ledd.
-§ 25-5. Anmodning om særskilt fremgangsmåte.
-Varsel til partene
-(1) Anmodning om særskilte formkrav eller en
-bestemt fremgangsmåte skal søkes etterkommet.
-For å etterkomme slik anmodning kan norske
-regler fravikes i den grad det er forenlig med sentrale rettsprinsipper og rettigheter.
-(2) Varsel til partene om rettsmøte er ikke
-nødvendig, med mindre det uttrykkelig er anmodet om dette.
-§ 25-6. Frister. Ufullstendig anmodning
-(1) Anmodningen skal behandles så raskt som
-mulig. Anmodende myndighet skal underrettes
-dersom en frist angitt i anmodningen ikke kan
-overholdes.
-(2) Er anmodningen mangelfull, eller er det av
-hensyn til behandlingen behov for ytterligere opplysninger, skal anmodende myndighet gis anledning til å rette eller supplere anmodningen.
-§ 25-7. Kostnader
-Dersom bistanden vil medføre vesentlige kostnader, skal det vurderes om disse skal kreves dekket av anmodende myndighet, med mindre det vil
-stride mot folkerettslig avtale. Anmodende myndighet skal i så fall varsles før anmodningen gjennomføres.
-
-61
-
-Kapittel 1
-
-§ 25-8. Vilkår for bistand til utenlandsk myndighet.
-Spesialitetsprinsippet
-(1) Når anmodningen besvares, skal det stilles
-vilkår om at opplysninger ikke uten samtykke kan
-gis videre eller anvendes i forbindelse med
-behandling av andre saker eller til annet formål
-enn det som er angitt i anmodningen.
-(2) Det kan ellers stilles vilkår som ikke strider mot folkerettslig avtale.
-§ 25-9. Svar til anmodende myndighet i utlandet
-Anmodningen besvares samme vei som den er
-oversendt. Svaret skal likevel sendes via departementet dersom spørsmål om avslag etter § 25-3
-har vært reist under behandlingen, eller andre
-særlige forhold tilsier det.
-§ 25-10. Rettslig fjernmøte og fjernavhør etter
-anmodning fra utenlandsk myndighet
-(1) Retten kan tillate at en person som straffeforfølges i utlandet, tar del i domstolsbehandlingen der gjennom fjernmøte fra norsk domstol, når
-vedkommende samtykker, og det anses ubetenkelig.
-(2) Retten kan tillate at utenlandsk domstol
-gjennomfører fjernavhør fra norsk domstol av
-vitne som befinner seg i Norge. Slikt avhør kan
-også etter påtalemyndighetens tillatelse gjennomføres fra politistasjon, fengsel eller annen institusjon når den som skal avhøres, samtykker, og det
-anses ubetenkelig.
-(3) En norsk dommer eller offentlig tjenestemann skal være til stede og kontrollere identiteten
-til mistenkte eller vitnet.
-(4) Fjernmøte og fjernavhør gjennomføres
-etter anmodende stats lovgivning. Retten skal likevel føre kontroll med at gjennomføringen er forenlig med sentrale rettsprinsipper og rettigheter,
-herunder reglene om bevisforbud og forklaringsfritak.
-§ 25-11. Overlevering av beslaglagte ting til utenlandsk myndighet
-(1) Påtalemyndigheten kan beslutte at beslaglagte ting som kan ha betydning som bevis ved
-forfølgningen i annen stat, skal overleveres til
-myndighetene der.
-(2) Overlevering skal som regel bare skje på
-vilkår om at tingen uten kostnad tilbakeleveres så
-snart som mulig og senest når saken er endelig
-avgjort, og uten opphold dersom beslaget oppheves i Norge.
-
-[Side 64]
-
-62
-
-Kapittel 1
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-§ 25-12. Særlige former for bistand i anledning inngrep i kommunikasjon mv.
-(1) Utenlandsk myndighet kan gis tillatelse til
-å gjennomføre tilsvarende tiltak som angitt i
-kapittel 20 om inngrep i kommunikasjon mv. rettet mot person som befinner seg i Norge, når det
-er grunnlag for inngrepet etter norske regler.
-(2) Påtalemyndigheten kan tillate gjennomføring av beslutning fra utenlandsk myndighet om
-tilsvarende tiltak som angitt i kapittel 20 om inngrep i kommunikasjon mv. rettet mot person som
-ikke befinner seg i Norge.
-(3) Når det som ledd i bistand innhentes opplysninger etter § 19-7 annet ledd om utleveringspålegg med virkning for fremtiden eller kapittel 20
-om inngrep i kommunikasjon mv., kan påtalemyndigheten beslutte at opplysningene skal overføres
-direkte til utenlandsk myndighet.
-§ 25-13. Forskrifter om bistand til utenlandsk myndighet
-Kongen kan gi forskrift om
-a) oversendelse av anmodning fra utenlandsk
-myndighet, herunder om adgangen til direkte
-oversendelse etter § 25-4 første ledd,
-b) fjernmøte og fjernavhør etter § 25-10, herunder om kontroll med gjennomføringen,
-føring av rettsbok og bruk av tolk, og
-c) bistand i anledning inngrep i kommunikasjon
-mv. etter § 25-12.
-Kapittel 26. Bording av fartøy mv.
-§ 26-1. Samarbeid om bording av fartøy mv.
-(1) I samsvar med folkerettslig avtale kan
-påtalemyndigheten
-a) gi tillatelse til eller anmode om at utenlandsk
-myndighet border et norsk fartøy og gjør bruk
-av tvangstiltak etter statens egen lovgivning,
-b) gjøre gjeldende primær jurisdiksjon for Norge
-når utenlandsk myndighet har bordet norsk
-fartøy,
-c) beslutte bording av utenlandsk fartøy etter
-anmodning eller tillatelse fra utenlandsk myndighet, og
-d) beslutte at personer som er pågrepet av norske myndigheter ved bording av utenlandsk
-fartøy, skal overføres til flaggstaten.
-(2) Det kan stilles vilkår etter § 25-8 annet
-ledd. Tillatelse etter første ledd bokstav a skal normalt ikke gis hvis de aktuelle bestemmelser om
-bruk av tvangstiltak i vedkommende stat er
-vesentlig mindre betryggende enn de tilsvarende
-norske bestemmelsene.
-
-§ 26-2. Samarbeid om særskilte operasjoner utenfor
-Norges territorialfarvann
-Kongen kan gi forskrift om behandlingen av
-saker om straff utenfor norsk territorialfarvann
-som ledd i samarbeid med andre stater. I den
-utstrekning det er nødvendig av hensyn til de
-rådende forhold eller formålet med samarbeidet,
-kan det fastsettes at deler av loven ikke skal gjelde
-og gis særlige regler. Herunder kan det gis regler
-om bruk av tvangstiltak på andre vilkår enn det
-som fremkommer av denne lov, og om overføring
-til annen stat av personer som er pågrepet av norske myndigheter.
-Kapittel 27. Overføring av straffesaker
-§ 27-1. Overføring av straffesak til utlandet
-(1) Påtalemyndigheten kan anmode utenlandsk myndighet om å overta straffeforfølgning
-dersom mistenkte er bosatt i den annen stat, eller
-forfølgning av andre grunner bør skje der.
-(2) Er det tvilsomt om overtredelsen er straffbar etter den annen stats lovgivning, skal spørsmålet søkes avklart før anmodning etter første
-ledd fremsettes.
-(3) Med anmodningen oversendes sakens
-opplysninger. Krav til anmodningens innhold
-etter § 24-2 og krav til oversendelsesmåte etter
-§ 24-3 gjelder tilsvarende.
-(4) Etterkommer utenlandsk myndighet
-anmodningen, anses forfølgningen i Norge innstilt. Forfølgningen kan tas opp på ny dersom
-ansvaret tilbakeføres til påtalemyndigheten i
-Norge.
-§ 27-2. Overføring av straffesak fra utlandet til
-Norge
-(1) Etter anmodning fra utenlandsk myndighet kan påtalemyndigheten overta straffeforfølgning dersom mistenkte er bosatt i Norge, eller
-forfølgning av andre grunner bør skje her. § 25-6
-om frister og ufullstendig anmodning gjelder tilsvarende.
-(2) Anmodningen skal avslås dersom
-a) handlingen anmodningen gjelder, ikke er
-straffbar etter norsk lov,
-b) straffansvar i Norge er foreldet,
-c) forholdet anmodningen gjelder, er endelig
-avgjort, jf. § 32-12 annet ledd, eller
-d) grunnleggende nasjonale interesser tilsier det.
-(3) Anmodende myndighet skal underrettes
-om avgjørelsen, og, hvis saken overtas, om utfallet.
-
-[Side 65]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-§ 27-3. Overføring av straffesak til eller fra internasjonal domstol
-Reglene etter §§ 27-1 og 27-2 kommer tilsvarende til anvendelse ved overføring av straffesak
-til eller fra internasjonal domstol, med mindre
-annet er bestemt ved lov.
-DEL 5. Påtalevedtak
-Kapittel 28. Avgjørelse av påtalespørsmålet
-mv.
-§ 28-1. Frist for påtalevedtak
-(1) Spørsmålet om påtale skal avgjøres så
-snart saken er tilstrekkelig opplyst, og innen rimelig tid etter at noen er å anse som mistenkt.
-(2) Mistenkte kan 1 år og 6 måneder etter at
-vedkommende er gjort kjent med mistanken mot
-seg, bringe spørsmålet om hvorvidt saken fremmes med tilstrekkelig hurtighet, inn for retten.
-Dersom videre forfølgning mot mistenkte vil være
-urimelig, kan retten beslutte at spørsmålet om
-påtale skal avgjøres innen en bestemt frist, som
-skal være minst 3 måneder. Ved vurderingen skal
-det legges vekt på belastningen for mistenkte,
-herunder som følge av varetektsfengsling, og
-sakens karakter, hensynet til fornærmede og forholdene for øvrig. Fristen kan forlenges etter
-begjæring fra påtalemyndigheten. Dersom det
-ikke fastsettes noen frist, kan spørsmålet tidligst
-prøves på ny etter 6 måneder.
-(3) Er ikke spørsmålet om påtale avgjort innen
-en frist fastsatt etter annet ledd, anses forfølgningen innstilt.
-§ 28-2. Henleggelse
-(1) Saken skal henlegges når straffansvar
-eller strafferettslige reaksjoner ikke kan gjøres
-gjeldende av rettslige eller bevismessige grunner.
-(2) Saken kan henlegges når forfølgning ikke
-er i det offentliges interesse, herunder fordi
-a) forholdet er bagatellmessig, og berørte
-interesser ikke i avgjørende grad taler for forfølgning,
-b) forfølgning vil medføre saksbehandlingstid og
-kostnader eller øvrig ressursbruk som ikke
-står i rimelig forhold til sakens betydning,
-c) forholdet kan medføre administrativ sanksjon,
-og det er mest hensiktsmessig at forholdet forfølges administrativt, eller
-d) det foreligger rettskraftig avgjørelse om ikke å
-ta en begjæring om å nekte innsyn etter § 6-11,
-jf. § 6-8, til følge.
-
-63
-
-Kapittel 1
-
-(3) Har en person som ikke er fylt 15 år, begått
-en ellers straffbar handling, kan saken etter henleggelse overføres til barneverntjenesten.
-§ 28-3. Påtaleunnlatelse
-(1) Selv om straffskyld anses bevist, kan påtale
-unnlates når
-a) overveiende grunner tilsier det, eller
-b) reglene for straffutmålingen ved sammenstøt
-av flere lovbrudd medfører at ingen eller bare
-en mindre straff ville komme til anvendelse.
-(2) Påtaleunnlatelse etter første ledd bokstav a
-kan gjøres betinget av at mistenkte i en prøvetid
-ikke gjør seg skyldig i ny straffbar handling. Det
-kan fastsettes vilkår etter straffeloven §§ 36 og 37
-første ledd bokstav a til h, og om at mistenkte skal
-betale erstatningskrav, jf. § 43-1. Mistenkte skal så
-vidt mulig på forhånd gis adgang til å uttale seg
-om vilkårene.
-(3) Prøvetiden etter annet ledd er 2 år fra
-beslutningen ble truffet, men ikke lenger enn foreldelsesfristen. Var mistenkte under 18 år på
-handlingstidspunktet, kan det fastsettes en kortere prøvetid.
-(4) I prøvetiden kan vilkårene etter annet ledd
-oppheves eller endres, og det kan settes nye vilkår, når mistenktes forhold gir grunn til det.
-§ 28-4. Overføring til konfliktråd
-(1) Når straffskyld anses bevist, og saken er
-egnet for det, kan den overføres til konfliktråd for
-a) mekling,
-b) ungdomsoppfølging, dersom mistenkte var
-under 18 år på handlingstidspunktet, eller
-c) annen oppfølging.
-(2) Overføring krever samtykke etter konfliktrådsloven § 11. Varigheten av oppfølgingen etter
-første ledd bokstav b og c fastsettes av påtalemyndigheten og kan ikke overstige 1 år.
-(3) Overføringen kan skje på vilkår etter
-reglene i § 28-3 annet til fjerde ledd.
-§ 28-5. Forelegg
-(1) Mistenkte kan tilbys å vedta strafferettslig
-reaksjon uten domstolsprøving når riktig reaksjon
-anses å være
-a) bot,
-b) rettighetstap med en varighet på inntil 3 år,
-som ikke kan gjelde tap av stilling, retten til å
-inneha stilling eller retten til å utøve næringsvirksomhet, med unntak for binæring,
-c) inndragning, eller
-d) tap av retten til å føre motorvogn eller til å
-drive persontransport mot vederlag mv., jf.
-straffeloven § 30 bokstav h.
-
-[Side 66]
-
-64
-
-Kapittel 1
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-Det kan stilles vilkår om at mistenkte skal
-betale erstatningskrav etter § 43-1 og saksomkostninger etter § 44-2.
-(2) Aksepterer mistenkte forelegget, skjer vedtakelse ved signatur.
-(3) Krav om inndragning som knytter seg til et
-straffbart forhold, kan fremmes etter at et forelegg
-er vedtatt, når kravet ikke var omfattet av forelegget, og mistenkte ble varslet om det før vedtakelsen.
-§ 28-6. Tiltale
-(1) Når saken ikke avgjøres etter §§ 28-2 til 285, skal det reises tiltale med krav om straff eller
-andre strafferettslige reaksjoner.
-(2) Saken bringes inn for retten til hovedforhandling etter kapittel 34 og 35 eller forenklet
-behandling etter kapittel 36.
-(3) Beslutning om tiltale kan utsettes midlertidig når domstolsbehandling ikke kan skje av
-grunner som nevnt i § 13-8 første ledd.
-§ 28-7. Tilsagn om straffepåstand
-(1) Når mistenkte ved tilståelse eller på annen
-måte bidrar med opplysninger av betydning, kan
-påtalemyndigheten forplikte seg til å nedlegge en
-bestemt påstand om straff.
-(2) Mistenkte skal på forhånd gjøres kjent
-med adgangen til og vilkårene for omgjøring etter
-§ 29-8.
-§ 28-8. Utforming av påtalevedtak
-(1) Beslutning etter §§ 28-2 til 28-7 skal utformes skriftlig, angi mistenktes navn, fødselsdato
-og adresse når dette er kjent, og være datert og
-signert av den som har truffet avgjørelsen.
-(2) Beslutning om henleggelse skal inneholde
-en kort angivelse av saken og grunnlaget for
-avgjørelsen. Nærmere begrunnelse gis ikke, med
-mindre hensynet til partene eller offentligheten tilsier det.
-(3) Øvrige beslutninger som påtalemyndigheten treffer etter dette kapitlet skal angi
-a) det straffebud som er anvendt, med gjengivelse av den delen av innholdet som har
-betydning i saken,
-b) en kort, men så vidt mulig nøyaktig beskrivelse av det faktiske forhold beslutningen gjelder, med opplysning om tid og sted, og
-c) eventuelle vilkår for beslutningen.
-(4) Forelegg skal i tillegg angi
-a) de krav som gjøres gjeldende,
-b) antatt påstand om straff eller andre strafferettslige reaksjoner dersom saken må behandles
-for domstolene, og
-
-c) en frist for vedtakelse, som skal gi mistenkte
-rimelig betenkningstid, og som ikke i noe tilfelle kan settes kortere enn 3 dager.
-(5) Tiltalen skal i tillegg angi
-a) den domstol saken hører under, og
-b) andre krav enn straff, dersom slike fremsettes.
-§ 28-9. Underretning om påtalevedtak
-(1) Underretning om avgjørelsen av påtalespørsmålet, med opplysning om adgangen, fristen
-og fremgangsmåten for å kreve overprøving, skal
-gis skriftlig til
-a) mistenkte,
-b) fornærmede som har anmeldt forholdet, eller
-som er avhørt i saken,
-c) etterlatte,
-d) berørte myndigheter, og
-e) andre med klagerett.
-(2) Underretning om forelegg til andre enn
-mistenkte skjer bare dersom forelegget vedtas.
-(3) Underretning om tiltale skjer etter § 34-3.
-(4) Underretning om henleggelse kan utsettes
-eller unnlates helt når etterforskingen har vært
-skjult, og det er nærliggende fare for at underretning vil kunne skade mulighetene for senere oppklaring av saken eller av andre saker.
-Kapittel 29. Omgjøring og overprøving av
-påtalevedtak mv.
-§ 29-1. Generelt om omgjøring av påtalevedtak
-(1) En avgjørelse av spørsmålet om påtale og
-et tilsagn om straffepåstand kan omgjøres til gunst
-for mistenkte med de begrensninger som følger
-av §§ 29-6 og 29-7 annet ledd.
-(2) Omgjøring til skade for mistenkte kan skje
-når vedkommende ikke er kjent med avgjørelsen,
-eller det følger av §§ 27-1 fjerde ledd, 29-2 til 29-5,
-29-7 første ledd eller 29-8.
-§ 29-2. Overordnet påtalemyndighets omgjøringsadgang
-(1) Overordnet påtalemyndighet kan innen 3
-måneder omgjøre en avgjørelse av påtalespørsmålet, enten av eget tiltak eller etter klage, jf. § 29-9.
-(2) Fristen etter første ledd gjelder selv om
-beslutningen ikke er truffet av kompetent påtalemyndighet. Fristen avbrytes når skriftlig underretning om omgjøringen sendes mistenkte. Ved
-rettidig klage løper fristen fra det tidspunkt påtalemyndigheten mottok klagen.
-§ 29-3. Omgjøring av vedtak om henleggelse
-Beslutning om henleggelse av bevismessige
-grunner etter § 28-2 første ledd kan omgjøres når
-nye avgjørende bevis avdekkes. Er henleggelse
-
-[Side 67]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-besluttet av grunner som nevnt i § 28-2 annet ledd
-bokstav d, kan beslutningen omgjøres når grunnen er bortfalt.
-§ 29-4. Omgjøring av vedtak om påtaleunnlatelse
-(1) Beslutning om påtaleunnlatelse kan omgjøres når vilkårene for påtaleunnlatelsen ikke overholdes, eller mistenkte setter seg ut over pålegg
-fra Kriminalomsorgen. Omgjøring kan skje inntil
-3 måneder etter utløpet av prøvetiden.
-(2) Beslutning etter § 28-3 første ledd bokstav
-a kan omgjøres når det innen 1 år reises tiltale for
-et annet forhold begått før beslutningen om påtaleunnlatelse. Domfelles ikke mistenkte for forholdet, blir påtaleunnlatelsen stående, med mindre
-retten finner at mistenkte må frifinnes for det forhold det er gitt påtaleunnlatelse for.
-(3) Beslutning etter § 28-3 første ledd bokstav
-b kan omgjøres dersom mistenkte ikke domfelles
-for det eller de forhold som ble forfulgt.
-§ 29-5. Omgjøring av vedtak om overføring til konfliktråd
-(1) Beslutning om overføring til konfliktråd
-kan omgjøres når
-a) vilkår for overføringen ikke overholdes,
-b) saken er overført til mekling, og møtet ikke
-gjennomføres på grunn av mistenktes forhold,
-avtale ikke kommer i stand, eller mistenkte
-vesentlig bryter eller trekker seg fra avtalen,
-eller
-c) saken er overført til ungdomsoppfølgning eller
-annen oppfølging, og det ikke oppnås enighet
-om plan etter konfliktrådsloven §§ 25 eller 36,
-eller det inntrer brudd som nevnt i konfliktrådsloven §§ 33 tredje og fjerde ledd eller 36
-annet ledd.
-(2) Omgjøring kan skje inntil 3 måneder etter
-at påtalemyndigheten ble kjent med forhold som
-nevnt i første ledd, eller behandlingen i konfliktrådet er avsluttet eller fastsatt prøvetid utløpt.
-§ 29-6. Opphevelse av vedtatt forelegg
-Vedtakelse av strafferettslig reaksjon etter
-§ 28-5 kan oppheves til gunst for mistenkte av
-overordnet påtalemyndighet.
-§ 29-7. Endring av tiltalen. Frafall
-(1) Tiltalen kan endres inntil saken er tatt opp
-til avgjørelse, også til skade for tiltalte. For utvidelse med nye straffbare forhold gjelder § 30-3.
-(2) Tiltalen kan frafalles inntil dom er avsagt i
-første instans, og ellers når
-
-65
-
-Kapittel 1
-
-a) dommen er opphevet,
-b) det er anket over bevisbedømmelsen under
-skyldspørsmålet,
-c) saken henlegges etter § 28-2 annet ledd bokstav d, eller
-d) tiltalte er død.
-§ 29-8. Omgjøring av straffetilsagn
-Tilsagn etter § 28-7 kan omgjøres dersom mistenkte ikke står ved tilståelsen eller opplysningene som er gitt. Det samme gjelder dersom det
-viser seg at mistenktes forhold er mer alvorlig enn
-vedkommende har forklart, eller det avdekkes
-andre forhold som mistenkte står bak, og de nye
-opplysningene kan få vesentlig betydning for straffen.
-§ 29-9. Klage over påtalevedtak
-(1) Beslutning etter §§ 28-2 til 28-4 og 28-6 kan
-påklages til nærmeste overordnede påtalemyndighet av
-a) mistenkte,
-b) fornærmede og andre med rettslig klageinteresse, og
-c) et forvaltningsorgan, når beslutningen direkte
-gjelder organets saksområde.
-Det samme gjelder beslutning om å avvise en
-klage. Mistenkte kan ikke påklage beslutning
-etter §§ 28-3 første ledd bokstav a eller 28-6.
-Avgjørelse i klagesaken kan ikke påklages.
-(2) Fristen for å klage er 3 uker fra det tidspunkt underretning om beslutningen kom frem til
-den klageberettigede eller vedkommende fikk
-eller burde ha skaffet seg kjennskap til den. For
-andre enn mistenkte utløper fristen senest 3
-måneder etter at beslutningen ble truffet.
-(3) Klagen skal sendes til den myndighet som
-har truffet beslutningen. Mistenkte og andre med
-rettslig klageinteresse skal underrettes. Klagen
-skal snarest mulig oversendes nærmeste overordnede påtalemyndighet for avgjørelse.
-§ 29-10. Rettslig prøving av vedtak om påtaleunnlatelse
-(1) En mistenkt som hevder seg uskyldig i et
-forhold som er avgjort ved påtaleunnlatelse, kan
-kreve at påtalemyndigheten bringer saken inn for
-retten ved tiltale, med mindre saken henlegges.
-(2) Kravet må fremsettes innen 1 måned fra
-det tidspunkt mistenkte mottok underretning om
-beslutningen og om adgangen og fristen for å
-kreve sak reist. §§ 37-4 femte ledd og 38-1 første
-ledd bokstav a gjelder tilsvarende.
-
-[Side 68]
-
-66
-
-Kapittel 1
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-§ 29-11. Anke over vedtatt forelegg
-(1) Vedtakelse av forelegg kan ankes av partene etter reglene for anke over dom, jf. kapittel 37
-til 39. For mistenkte løper ankefristen fra vedtakelsen.
-(2) Anke kan bare skje på grunnlag av
-a) at vedtakelsen ikke er bindende som viljeserklæring,
-b) feil ved saksbehandlingen,
-c) feil ved lovanvendelsen til skade for mistenkte,
-eller
-d) at straffansvaret var foreldet.
-(3) Tas anken til følge, oppheves vedtakelsen.
-Ellers forkastes anken.
-§ 29-12. Gjenåpning ved vedtatt forelegg
-(1) Vedtatt forelegg kan gjenåpnes på vilkår
-som nevnt i §§ 41-5 til 41-11. Begjæringen skal settes frem for tingretten og skal utformes i samsvar
-med § 41-4.
-(2) Blir gjenåpning besluttet, behandles saken
-av tingretten.
-DEL 6. Generelle regler om rettens saksbehandling og avgjørelser
-Kapittel 30. Saksstyring og veiledning. Virkning av at sak er reist. Forening og oppdeling
-av straffesaker
-§ 30-1. Rettens saksstyring og veiledning
-(1) Retten skal styre saken for å oppnå en forsvarlig, konsentrert og effektiv behandling samt gi
-partene veiledning for å bidra til en riktig avgjørelse. Saksstyringen og veiledningen skal ikke
-skje på en måte som kan være egnet til å svekke
-tilliten til rettens uavhengighet eller objektivitet.
-(2) Retten kan oppfordre partene til å bidra
-med slike avklaringer som saken gir grunn til,
-fastsette frister for partenes innlegg og treffe nødvendige avgjørelser om behandlingen.
-§ 30-2. Avvisning på grunn av verserende sak.
-Utsettelse
-(1) En ny sak om et krav som allerede er gjenstand for domstolsbehandling, skal avvises.
-(2) Behandlingen av en straffesak kan utsettes
-inntil et omtvistet forhold av betydning er nærmere klarlagt i høyere instans eller en annen sak
-for domstolene.
-§ 30-3. Forening av saker
-(1) Flere saker, herunder forfølgning mot
-samme person for flere straffbare forhold eller
-mot flere personer, kan behandles samlet når det
-
-er hensiktsmessig, og ikke berørte interesser i
-vesentlig grad taler mot det.
-(2) Etter påbegynt hovedforhandling kan nye
-straffbare forhold bare tas til behandling når tiltalte samtykker eller gir en uforbeholden tilståelse. For lagmannsretten kan slik utvidelse bare
-skje på vilkår som nevnt når retten er satt med
-meddommere, og det er ubetenkelig.
-§ 30-4. Oppdeling av forhandlingene eller avgjørelsen
-(1) Når flere straffbare forhold behandles samlet, kan det forhandles særskilt for hver enkelt
-handling eller mistenkt. De enkelte forhold kan
-avgjøres for seg.
-(2) Det kan også ellers forhandles særskilt om
-enkelte spørsmål, herunder om saken skal avvises. Dersom saken etter slike forhandlinger ikke
-avgjøres etter § 32-1, kan retten, når det er hensiktsmessig, treffe særskilt beslutning om skyldspørsmålet eller enkelte deler av det, herunder
-om
-a) tiltalte har foretatt den handling tiltalen gjelder,
-b) tiltalte har utvist nødvendig skyld eller var tilregnelig,
-c) rettsforhold av betydning for straffbarheten av
-handlingen,
-d) andre nødvendige betingelser for straffansvar
-er til stede.
-(3) Ved avsigelse av dom kan særskilt beslutning etter annet ledd fravikes til gunst for tiltalte
-når den videre behandlingen viser at det er grunnlag for det.
-Kapittel 31. Rettsmøter
-§ 31-1. Behandling i rettsmøte. Fjernmøte
-(1) Rettsmøte avholdes når det er angitt i
-loven, eller retten beslutter det.
-(2) Mistenkte kan ikke delta ved bruk av fjernmøteteknikk etter domstolloven § 122 a i rettsmøte som gjelder
-a) fengsling etter § 15-15,
-b) fengslingsforlengelse etter § 15-16, når det er
-spørsmål om bruk av isolasjon eller det er gått
-mer enn 12 uker siden fengsling med mistenktes tilstedeværelse, og mistenkte ikke har samtykket til slik deltakelse, eller
-c) hovedforhandling, forenklet behandling eller
-ankeforhandling der retten skal prøve bevisene under skyldspørsmålet, med mindre tiltalte samtykker, og det er ubetenkelig.
-(3) Dersom antallet fornærmede og etterlatte
-gjør at gjennomføring av rettsmøte ellers vil medføre uforholdsmessige omkostninger eller vil
-
-[Side 69]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-måtte skje i lokale som ikke er egnet, kan retten
-beslutte at fornærmede, etterlatte og deres representanters deltakelse skal skje ved fjernmøte eller
-ved at de mottar lyd- og bildeoverføring fra rettslokalet på nærmere angitt sted.
-§ 31-2. Innkalling til og varsling om rettsmøte
-(1) Retten skal ved forkynning innkalle mistenkte til hovedforhandling og ankeforhandling
-der retten skal prøve bevisene under skyldspørsmålet, og til andre rettsmøter når mistenktes deltakelse er hensiktsmessig. Når mistenkte ikke
-innkalles, skal vedkommende varsles med mindre
-annet er bestemt. Innkalling og varsling kan unnlates når mistenkte er i en psykisk tilstand som
-innebærer manglende evne til å forstå hva saken
-gjelder eller at deltakelse vil være skadelig for
-vedkommende.
-(2) Retten skal sørge for nødvendig varsel om
-rettsmøter til påtalemyndigheten, forsvareren og
-bistandsadvokaten. Fornærmede og etterlatte
-varsles når det er grunn til det.
-(3) Innkalling og varsling skal skje i rimelig
-tid. Tiltalte har krav på innkalling senest 3 dager
-før hoved- og ankeforhandling, med mindre en
-kortere frist er ubetenkelig. Mistenkte skal så vidt
-mulig innkalles eller varsles senest 24 timer før
-andre rettsmøter.
-(4) Innkallingen og varselet skal angi saken
-og formålet med rettsmøtet samt opplysninger
-om tid og sted. Ved innkalling skal det opplyses
-om virkningene av ikke å møte, reglene om gyldig fravær og rett til utgiftsdekning og møtegodtgjørelse.
-(5) Retten kan overlate til påtalemyndigheten
-å sørge for innkalling og varsling etter denne
-bestemmelsen.
-(6) Vitner og sakkyndige innkalles etter §§ 103 og 11-10 første ledd.
-§ 31-3. Utgiftsdekning og møtegodtgjørelse
-(1) Retten eller påtalemyndigheten kan
-beslutte at mistenktes utgifter i anledning et rettsmøte helt eller delvis skal dekkes av det offentlige
-når
-a) vedkommende er ute av stand til å betale,
-b) utgiftene må betraktes som betydelig for mistenkte, eller
-c) andre særlige forhold tilsier det.
-(2) Andre enn mistenkte har krav på utgiftsdekning og godtgjørelse etter § 11-12 eller særskilt lov.
-
-67
-
-Kapittel 1
-
-§ 31-4. Mistenktes plikt til å møte og ta del i rettsmøte
-(1) Mistenkte plikter etter innkalling å møte til
-rettsmøter med mindre vedkommende har gyldig
-fravær.
-(2) Under hovedforhandling og ankeforhandling der retten skal prøve bevisene under skyldspørsmålet, skal tiltalte ta del under hele
-forhandlingen. Retten kan likevel tillate at tiltalte
-fratrer etter avgitt forklaring. I andre rettsmøter
-mistenkte er innkalt til, avgjør retten i hvilken
-utstrekning mistenktes deltakelse er nødvendig.
-§ 31-5. Utelukkelse fra rettsmøte
-(1) Et vitne skal som regel utelukkes fra rettsmøtet inntil forklaring er gitt. Fornærmede skal
-likevel bare utelukkes når andre fornærmede forklarer seg, eller hensynet til sakens opplysning for
-øvrig tilsier det.
-(2) Retten kan utelukke mistenkte eller andre
-fra rettsmøtet eller deler av det, eller iverksette
-andre egnede tiltak, så langt det er nødvendig for å
-a) ivareta hensynet til grunnleggende nasjonale
-interesser,
-b) beskytte identiteten til et anonymt vitne, jf.
-§ 10-10,
-c) verne den som avgir forklaring,
-d) motvirke at et vitne eller en mistenkt forklarer
-seg forbeholdent, eller
-e) hindre at etterforskingen blir skadelidende.
-(3) Utelukkes mistenkte, fornærmede, etterlatte eller skadelidte, skal vedkommende straks
-grunnen til utelukkelsen bortfaller, gis tilgang til
-de opplysninger som er fremkommet under fraværet, med mindre opplysningene er unntatt fra innsyn etter kapittel 6.
-§ 31-6. Utsettelse av rettsmøte
-(1) Rettsmøte kan utsettes når det er nødvendig som følge av
-a) noens fravær, jf. § 33-2,
-b) partenes rett til kontradiksjon, jf. §§ 32-4 fjerde
-ledd og 32-5 annet ledd,
-c) partenes rett til å føre bevis, jf. § 7-2,
-d) rettens ansvar for sakens opplysning, jf. § 7-4,
-eller
-e) andre tungtveiende grunner.
-(2) Ved utsettelse skal det så vidt mulig fastsettes ny tid for rettsmøte.
-(3) I rettsmøtet etter utsettelse skal forhandlingene gjentas så langt det er nødvendig for å sikre
-et forsvarlig avgjørelsesgrunnlag.
+\(1\) Retten skal ved forkynning innkalle mistenkte til hovedforhandling og ankeforhandling der retten skal prøve bevisene under skyldspørsmålet, og til andre rettsmøter når mistenktes deltakelse er hensiktsmessig. Når mistenkte ikke innkalles, skal vedkommende varsles med mindre annet er bestemt. Innkalling og varsling kan unnlates når mistenkte er i en psykisk tilstand som innebærer manglende evne til å forstå hva saken gjelder eller at deltakelse vil være skadelig for vedkommende.
+
+\(2\) Retten skal sørge for nødvendig varsel om rettsmøter til påtalemyndigheten, forsvareren og bistandsadvokaten. Fornærmede og etterlatte varsles når det er grunn til det.
+
+\(3\) Innkalling og varsling skal skje i rimelig tid. Tiltalte har krav på innkalling senest 3 dager før hoved- og ankeforhandling, med mindre en kortere frist er ubetenkelig. Mistenkte skal så vidt mulig innkalles eller varsles senest 24 timer før andre rettsmøter.
+
+\(4\) Innkallingen og varselet skal angi saken og formålet med rettsmøtet samt opplysninger om tid og sted. Ved innkalling skal det opplyses om virkningene av ikke å møte, reglene om gyldig fravær og rett til utgiftsdekning og møtegodtgjørelse.
+
+\(5\) Retten kan overlate til påtalemyndigheten å sørge for innkalling og varsling etter denne bestemmelsen.
+
+\(6\) Vitner og sakkyndige innkalles etter §§ 10-3 og 11-10 første ledd.
+
+*§ 31-3. Utgiftsdekning og møtegodtgjørelse*
+
+\(1\) Retten eller påtalemyndigheten kan beslutte at mistenktes utgifter i anledning et rettsmøte helt eller delvis skal dekkes av det offentlige når
+
+a\) vedkommende er ute av stand til å betale,
+
+b\) utgiftene må betraktes som betydelig for mistenkte, eller
+
+c\) andre særlige forhold tilsier det.
+
+\(2\) Andre enn mistenkte har krav på utgiftsdekning og godtgjørelse etter § 11-12 eller særskilt lov.
+
+*§ 31-4. Mistenktes plikt til å møte og ta del i rettsmøte*
+
+\(1\) Mistenkte plikter etter innkalling å møte til rettsmøter med mindre vedkommende har gyldig fravær.
+
+\(2\) Under hovedforhandling og ankeforhandling der retten skal prøve bevisene under skyldspørsmålet, skal tiltalte ta del under hele forhandlingen. Retten kan likevel tillate at tiltalte fratrer etter avgitt forklaring. I andre rettsmøter mistenkte er innkalt til, avgjør retten i hvilken utstrekning mistenktes deltakelse er nødvendig.
+
+*§ 31-5. Utelukkelse fra rettsmøte*
+
+\(1\) Et vitne skal som regel utelukkes fra rettsmøtet inntil forklaring er gitt. Fornærmede skal likevel bare utelukkes når andre fornærmede forklarer seg, eller hensynet til sakens opplysning for øvrig tilsier det.
+
+\(2\) Retten kan utelukke mistenkte eller andre fra rettsmøtet eller deler av det, eller iverksette andre egnede tiltak, så langt det er nødvendig for å
+
+a\) ivareta hensynet til grunnleggende nasjonale interesser,
+
+b\) beskytte identiteten til et anonymt vitne, jf. § 10-10,
+
+c\) verne den som avgir forklaring,
+
+d\) motvirke at et vitne eller en mistenkt forklarer seg forbeholdent, eller
+
+e\) hindre at etterforskingen blir skadelidende.
+
+\(3\) Utelukkes mistenkte, fornærmede, etterlatte eller skadelidte, skal vedkommende straks grunnen til utelukkelsen bortfaller, gis tilgang til de opplysninger som er fremkommet under fraværet, med mindre opplysningene er unntatt fra innsyn etter kapittel 6.
+
+*§ 31-6. Utsettelse av rettsmøte*
+
+\(1\) Rettsmøte kan utsettes når det er nødvendig som følge av
+
+a\) noens fravær, jf. § 33-2,
+
+b\) partenes rett til kontradiksjon, jf. §§ 32-4 fjerde ledd og 32-5 annet ledd,
+
+c\) partenes rett til å føre bevis, jf. § 7-2,
+
+d\) rettens ansvar for sakens opplysning, jf. § 7-4, eller
+
+e\) andre tungtveiende grunner.
+
+\(2\) Ved utsettelse skal det så vidt mulig fastsettes ny tid for rettsmøte.
+
+\(3\) I rettsmøtet etter utsettelse skal forhandlingene gjentas så langt det er nødvendig for å sikre et forsvarlig avgjørelsesgrunnlag.
+
+**Kapittel 32. Rettens avgjørelser**
+
+*§ 32-1. Tidspunktet for rettens avgjørelser*
+
+\(1\) Retten treffer avgjørelse så snart saken er tilstrekkelig opplyst, og det i nødvendig utstrekning er gjort klart overfor partene at den tas opp til avgjørelse.
+
+\(2\) Viser det seg senere at det er nødvendig med ytterligere innlegg fra partene for å oppnå et forsvarlig avgjørelsesgrunnlag, skal retten sørge for dette.
+
+\(3\) Dersom avgjørelse etter muntlig behandling ikke kan treffes innen rettsmøtets avslutning, skal retten meddele partene når avgjørelsen kan forventes avsagt, og hvordan underretning om avgjørelsen skal skje.
+
+*§ 32-2. Avgjørelsesform. Dommer og beslutninger*
+
+\(1\) Ved dom treffes rettens avgjørelse av
+
+a\) krav om straff eller andre strafferettslige reaksjoner, og
+
+b\) anke over dom, unntatt avgjørelse som nekter anken fremmet.
+
+\(2\) Andre avgjørelser treffes ved beslutning.
+
+*§ 32-3. Rettens forhold til partenes krav og påstander mv.*
+
+\(1\) Retten kan bare avgjøre krav som er reist av partene, jf. § 5-1 første ledd. Avgjørelsen må ligge innenfor rammen av partenes påstander. Retten kan likevel dømme for overtredelse av et annet straffebud enn etter tiltalen når påtalemyndigheten ikke motsetter seg det. Ved fastsettelse av straff og andre strafferettslige reaksjoner enn inndragning er retten ikke bundet av påstandene. Foreligger bindende tilsagn etter § 28-7, kan retten likevel bare gå utover påstanden det er gitt tilsagn om, når det fremstår som klart at reaksjonsfastsettelsen ellers vil bli feil.
+
+\(2\) Til skade for mistenkte kan retten bare bygge på et faktisk grunnlag som er påberopt. Ved avgjørelsen av skyldspørsmålet kan retten ikke gå utenfor det forhold som er beskrevet i tiltalen, men den er ikke bundet av tiltalens nærmere angivelse av tid, sted og andre omstendigheter.
+
+\(3\) Frafalles et krav, skal saken heves. Frafalles tiltalen under hovedforhandlingen av grunner som nevnt i § 28-2, skal retten likevel avsi frifinnelsesdom. Det samme gjelder når tiltalen frafalles etter at det er anket over bevisbedømmelsen under skyldspørsmålet eller i medhold av § 29-7 annet ledd bokstav d.
+
+*§ 32-4. Det faktiske grunnlaget for rettens avgjørelser*
+
+\(1\) Rettens avgjørelser treffes på grunnlag av sakens opplysninger.
+
+\(2\) Avgjørelse etter hoved- og ankeforhandling treffes på grunnlag av behandlingen i rettsmøte. Ankedomstolen kan i tillegg bygge på faktiske sider ved underinstansens dom, som ikke er omtvistet.
+
+\(3\) Beslutning om å nekte en anke over bevisbedømmelsen under skyldspørsmålet eller reaksjonsfastsettelsen fremmet til domfeltes ugunst, kan bare bygges på underinstansens dom med rettsbok.
+
+\(4\) Retten kan bare bygge avgjørelsen på et grunnlag som partene har hatt rimelig anledning til å uttale seg om, jf. § 7-1 annet ledd.
+
+*§ 32-5. Det rettslige grunnlaget for rettens avgjørelser*
+
+\(1\) Retten skal anvende rettsregler av eget tiltak. Dersom reglene ikke fullt forsvarlig kan belyses på annen måte, kan retten bestemme at det skal føres bevis om rettsspørsmål av betydning, eller tillate partene å føre slike bevis.
+
+\(2\) Partene skal gis rimelig anledning til å uttale seg om rettsanvendelsen og til å imøtegå anførsler og argumentasjon om rettsspørsmål.
+
+*§ 32-6. Rådslagning og avstemning*
+
+\(1\) I saker som skal avgjøres av flere dommere etter muntlig behandling, skal det holdes rådslagning med alle dommere til stede. Rådslagningen avholdes så vidt mulig straks etter at forhandlingene er avsluttet. I enhver sak kan en dommer kreve inntil to rådslagninger. Meddommerne skal gjøres kjent med denne retten.
+
+\(2\) Det skal stemmes særskilt over skyldspørsmålet og ellers for hvert krav eller prosessuelt rettsforhold som skal avgjøres. Er det flere grunner for å avvise eller heve en sak, oppheve en anket avgjørelse eller beslutte oppfriskning eller gjenåpning, stemmes det særskilt over hver grunn.
+
+\(3\) En dommer som er blitt overstemt, skal ta del i de følgende avstemninger som saken gir grunn til. Den som har stemt for frifinnelse, herunder i anledning særskilt beslutning etter § 30-4 annet ledd, skal likevel ikke delta i videre avstemninger som hører under skyldspørsmålet, men skal anses å stemme til gunst for tiltalte.
+
+\(4\) Hver avgjørelse treffes ved stemmeflertall. Avgjørelse av skyldspørsmålet til skade for tiltalte krever i lagmannsrett fem stemmer.
+
+\(5\) Står stemmene likt, gjelder ved avgjørelser om straff og andre strafferettslige reaksjoner det standpunktet som er gunstigst for tiltalte. Ellers gjør rettslederens stemme utslaget. Er det flere enn to standpunkt når straff eller andre rettsfølger skal fastsettes, og ingen har flertall, legges stemmene som er ugunstigst for tiltalte, til de nærmest følgende til det blir flertall for det gunstigere resultat.
+
+\(6\) Bare protokollføreren har adgang til å overvære rådslagningen og avstemningen om ikke rettens leder gir særlig tillatelse til andre som av hensyn til sin juridiske utdanning eller av lignende grunner ønsker å være til stede.
+
+*§ 32-7. Begrunnelse*
+
+\(1\) Dommer skal begrunnes. Beslutninger skal begrunnes, med mindre det etter avgjørelsens art og øvrige omstendigheter er forsvarlig å unnlate det.
+
+\(2\) Ved vurderingen av i hvilken utstrekning begrunnelse skal gis, skal det særlig legges vekt på
+
+- avgjørelsens innhold og betydning for partene,
+
+- om det er grunn til å tro at noen part vil være uenig i avgjørelsen,
+
+- ankeinstansens muligheter for overprøving,
+
+- hvilken instans som treffer avgjørelsen, og
+
+- offentlighetens behov for informasjon.
+
+\(3\) Så langt det er nødvendig for å forklare avgjørelsen, skal begrunnelsen omfatte
+
+a\) fremstilling av saken,
+
+b\) angivelse av partenes krav og påstander, og
+
+c\) redegjørelse for rettens bevisvurdering og rettsanvendelse.
+
+\(4\) Det skal opplyses om avgjørelsen er enstemmig. Ved dissens skal det fremgå hvem som er uenig, og hvilke punkter uenigheten gjelder.
+
+*§ 32-8. Skriftlig utforming og innhold*
+
+\(1\) Rettens avgjørelser skal utformes skriftlig med begrunnelse etter § 32-7 samt en nøyaktig angivelse av resultatet, med mindre det er åpenbart unødvendig. Det skal opplyses om
+
+a\) domstolen,
+
+b\) sakens nummer,
+
+c\) rettens medlemmer,
+
+d\) partene, og
+
+e\) tiden og stedet for avsigelsen.
+
+\(2\) Dommer, samt beslutninger som ikke føres inn i rettsboken etter domstolloven § 134 a, skal signeres av rettens medlemmer.
+
+*§ 32-9. Avsigelse*
+
+\(1\) En avgjørelse anses avsagt når den er signert av rettens medlemmer eller opplest i rettsmøte med rettens medlemmer til stede.
+
+\(2\) Når en sak er behandlet muntlig i Høyesterett, avsies avgjørelsen ved muntlig avstemning. Avgjørelsen anses avsagt når rettens leder som siste dommer har stemt.
+
+*§ 32-10. Underretning*
+
+\(1\) Retten skal snarest mulig sørge for at sakens parter, forsvareren, bistandsadvokaten og andre en avgjørelse angår, blir underrettet om avgjørelsen. Domfelte skal gjøres kjent med hva dommen går ut på, herunder eventuelle vilkår for dommen og mulige følger av brudd på vilkårene.
+
+\(2\) Dommer og beslutninger som avslutter saken, samt beslutning om retting av slike avgjørelser, skal forkynnes for mistenkte. Ellers kan underretning skje etter domstolloven § 186.
+
+\(3\) Når underretning skjer i rettsmøte, kan en muntlig fremstilling av hovedpunktene i avgjørelsen tre i stedet for opplesning.
+
+\(4\) Er det adgang til å anke, skal retten gi opplysning om frist og fremgangsmåte, og om adgangen til og virkningen av å vedta avgjørelsen før ankefristens utløp.
+
+*§ 32-11. Virkninger av rettens avgjørelser*
+
+\(1\) Retten er bundet av sine avgjørelser når de er avsagt, med mindre annet er bestemt.
+
+\(2\) En beslutning har virkning for partene når den er avsagt, med mindre annet følger av § 37-8 om utsettende virkning ved anke.
+
+\(3\) En dom er bindende for partene når den er rettskraftig, jf. § 32-12 første ledd.
+
+*§ 32-12. Rettskraft*
+
+\(1\) En avgjørelse er rettskraftig når den er vedtatt av partene, eller fristen for anke er utløpt. Ved anke blir avgjørelsen rettskraftig når saken er endelig avgjort i høyere instans eller etter ny behandling i lavere instans.
+
+\(2\) Retten skal avvise en ny sak om et forhold som er avgjort mot tiltalte ved
+
+a\) rettskraftig dom,
+
+b\) endelig avgjørelse av påtalespørsmålet,
+
+c\) endelig vedtak om administrativ sanksjon, eller
+
+d\) utenlandsk avgjørelse som etter folkerettslig avtale eller bestemmelse som Kongen kan gi, stenger for forfølgning.
+
+*§ 32-13. Krav om inndragning etter rettskraftig dom*
+
+\(1\) Krav om inndragning som knytter seg til et straffbart forhold, kan fremmes etter at en fellende dom er rettskraftig, når inndragningskravet ikke ble behandlet under straffesaken, og domfelte ble varslet om det før dommen ble avsagt.
+
+\(2\) Dommens avgjørelse av skyldspørsmålet legges uprøvd til grunn i den senere inndragningssaken i den utstrekning den er avgjørende for spørsmålet om inndragning.
+
+*§ 32-14. Felles avgjørelse i saker med rettskraftig dom*
+
+\(1\) Er noen ved forskjellige dommer idømt straff uten at det er tatt hensyn til straffeloven § 82, kan den rett som avsa den siste fellende dom, etter begjæring ta sakene opp til felles avgjørelse til domfeltes gunst.
+
+\(2\) Avgjørelsen skal så vidt mulig treffes av den eller de dommere som avsa den tidligere dom.
+
+*§ 32-15. Tilleggsavgjørelse*
+
+\(1\) Er det ikke truffet avgjørelse om noe som skulle vært avgjort, kan tilleggsavgjørelse avsies når det settes frem begjæring om det innen ankefristen.
+
+\(2\) Tilleggsavgjørelse skal så vidt mulig treffes av den eller de dommere som avsa den opprinnelige avgjørelsen.
+
+\(3\) Ved begjæring om tilleggsavgjørelse stopper ankefristen. Blir tilleggsavgjørelse avsagt, løper en ny ankefrist. Blir begjæringen ikke tatt til følge, fortsetter fristen sitt løp.
+
+*§ 32-16. Omgjøring*
+
+\(1\) Saksstyrende beslutninger kan omgjøres av den rett som har avsagt dem, når det ikke er uforholdsmessig tyngende for en part som har innrettet seg etter avgjørelsen. Beslutninger under saksforberedelsen er ikke bindende ved hoved- og ankeforhandlingen eller annet rettsmøte hvor saken avgjøres.
+
+\(2\) En beslutning om saksbehandlingen av overordnet domstol kan bare fravikes på grunnlag av nye opplysninger.
+
+\(3\) En beslutning avsagt av ankeinstans i spørsmål som gjelder saksbehandlingen ved underordnet domstol, er ikke bindende ved senere avgjørelser om samme spørsmål i ankeinstansen.
+
+*§ 32-17. Retting*
+
+\(1\) Retten skal rette en avgjørelse som på grunn av skrive- eller regnefeil, forglemmelse eller lignende klar feil har fått en utforming som ikke stemte med rettens mening. Retting kan skje selv om avgjørelsen er rettskraftig.
+
+\(2\) Beslutning om retting skal så vidt mulig treffes av den eller de dommere som avsa avgjørelsen. Hadde retten flere medlemmer, kan lederen treffe avgjørelsen når det ikke er tvil om hvordan rettingen skal utføres.
+
+\(3\) Beslutning om retting skal tilføyes avgjørelsen slik at det fremgår hva som er rettet.
+
+\(4\) At avgjørelsen rettes, eller begjæres rettet, er uten betydning for ankefristen.
+
+**Kapittel 33. Fravær fra rettsmøter. Fraværsavgjørelse mv.**
+
+*§ 33-1. Gyldig fravær*
+
+\(1\) Gyldig fravær foreligger dersom sykdom eller andre hindringer utenfor vedkommendes kontroll gjør det umulig eller uforholdsmessig byrdefullt å møte for retten.
+
+\(2\) Den som mener å ha gyldig fravær, skal straks gi retten melding om dette.
+
+*§ 33-2. Gjennomføring av rettsmøter ved fravær*
+
+\(1\) Et rettsmøte kan gjennomføres selv om innkalling eller varsling ikke kan skje, eller noen som er innkalt eller varslet, ikke møter, når utsettelse vil medføre uforholdsmessig forsinkelse eller ulempe.
+
+\(2\) Hoved- eller ankeforhandling kan gjennomføres i tiltaltes fravær når
+
+a\) det er klart at avgjørelsen vil gå ut på avvisning, heving eller frifinnelse,
+
+b\) retten ikke skal prøve bevisene under skyldspørsmålet, med mindre tiltalte er eller skulle vært innkalt, og det er sannsynliggjort at fraværet er gyldig,
+
+c\) tiltalte er i en tilstand som nevnt i § 31-2 første ledd siste punktum, eller
+
+d\) tiltalte blir utvist etter domstolloven § 133 eller forlater rettsmøtet uten rettens tillatelse, med mindre deltakelsen er nødvendig for sakens opplysning.
+
+\(3\) Hovedforhandling og ankeforhandling etter påtalemyndighetens anke over bevisbedømmelsen under skyldspørsmålet kan utenfor tilfellene i annet ledd gjennomføres i tiltaltes fravær når
+
+a\) det ikke er spørsmål om å idømme fengsel i mer enn 1 år, forvaring eller overføring til tvungent psykisk helsevern eller tvungen omsorg,
+
+b\) deltakelsen ikke er nødvendig for sakens opplysning,
+
+c\) det foreligger lovlig innkalling, eller tiltalte har unnveket etter at tiltalen ble forkynt, og
+
+d\) det ikke er sannsynliggjort at fraværet er gyldig.
+
+Med tiltaltes samtykke kan forhandlingene gjennomføres selv om vilkårene etter bokstav c og d ikke er til stede.
+
+\(4\) Hoved- og ankeforhandling kan ikke gjennomføres uten aktor eller forsvarer etter §§ 3-16 og 3-18 annet ledd, jf. § 3-22, med mindre det er klart at avgjørelsen vil gå ut på avvisning, heving eller frifinnelse. Rettsmøte om forenklet behandling etter kapittel 36 kan ikke gjennomføres uten forsvarer etter § 3-17, jf. § 3-22.
+
+*§ 33-3. Fraværsavgjørelse*
+
+\(1\) Anke fra tiltalte over bevisbedømmelsen under skyldspørsmålet skal avvises dersom
+
+a\) tiltalte er lovlig innkalt til ankeforhandling og er uteblitt uten at det er sannsynliggjort at fraværet er gyldig, eller
+
+b\) innkalling ikke har kunnet skje fordi tiltalte har unnveket.
+
+Avgjørelsen er ikke til hinder for prøving etter § 39-4.
+
+\(2\) En ankesak kan heves når det har gått mer enn 2 år siden tiltalte erklærte anke, og ankeforhandling ikke er holdt fordi vedkommende ikke har vært mulig å innkalle eller har hatt gyldig fravær.
+
+*§ 33-4. Ny behandling eller omgjøring etter fraværsavgjørelse mv.*
+
+\(1\) Når det er avsagt fellende dom etter behandling i tiltaltes fravær, jf. § 33-2 tredje ledd, kan saken kreves behandlet på ny når vilkårene for behandlingen ikke var til stede, fordi tiltalte ikke hadde unnveket eller fordi fraværet var gyldig. Beslutning om avvisning etter § 33-3 første ledd kan på samme vilkår kreves omgjort. Ny behandling eller omgjøring kan bare kreves når tiltalte ikke kan bebreides for å ha unnlatt å melde fra i tide.
+
+\(2\) Beslutning om heving etter § 33-3 annet ledd kan kreves omgjort når tiltalte ikke kan bebreides for hevingsgrunnen, eller det ville virke urimelig ikke å behandle anken.
+
+\(3\) Begjæring etter første ledd må settes frem innen utløpet av ankefristen for den domstol som har avsagt avgjørelsen. Begjæring etter annet ledd kan settes frem inntil 2 uker etter at tiltalte ble kjent med beslutningen, eller burde ha skaffet seg kunnskap om den. Ellers behandles begjæringen etter reglene om anke over beslutning. Avgjørelsen treffes av rettens leder.
+
+\(4\) Er avgjørelsen begjæringen gjelder, anket, skal ankebehandlingen utsettes inntil begjæringen er endelig avgjort. Tas begjæringen til følge, og domfelte uteblir fra hoved- eller ankeforhandlingen uten at gyldig fravær er sannsynliggjort, skal saken heves, og den opprinnelige avgjørelsen bli stående.
+
+**DEL 7. Tingrettens behandling av straffekravet**
+
+**Kapittel 34. Forberedelse til hovedforhandling**
+
+*§ 34-1. Påtalemyndighetens oversendelse til retten*
+
+\(1\) Når det er besluttet å reise tiltale, sender påtalemyndigheten til retten
+
+a\) tiltalebeslutningen, jf. § 28-6, jf. § 28-8,
+
+b\) bevisoppgave, med opplysninger som angitt i § 7-2 annet ledd,
+
+c\) utdrag av sakens opplysninger av betydning for bevisføringen,
+
+d\) forslag til hvordan saken bør behandles, og
+
+e\) opplysninger av betydning for spørsmålet om oppnevning av forsvarer og bistandsadvokat.
+
+\(2\) Når det er nødvendig for å sikre en forsvarlig og konsentrert behandling, herunder gi tiltalte grunnlag for å forberede sitt forsvar, skal påtalemyndigheten av eget tiltak utarbeide en skriftlig redegjørelse for saken.
+
+*§ 34-2. Rettens innledende behandling*
+
+\(1\) Straks retten mottar oversendelse etter § 34-1, skal den prøve om saken kan tas til behandling. Påtalemyndigheten skal gis anledning til å rette feil som kan avhjelpes.
+
+\(2\) Tas saken til behandling, skal retten
+
+a\) ta stilling til om det skal oppnevnes forsvarer og bistandsadvokat, jf. §§ 3-22 og 4-11,
+
+b\) vurdere om tilsvar etter § 34-4 kan unnlates, og om fristene etter §§ 34-4 og 34-5 skal fravikes, og
+
+c\) beramme eller sette av tid til hovedforhandling i samråd med påtalemyndigheten, forsvareren og bistandsadvokaten.
+
+\(3\) Hovedforhandling skal avholdes så snart som mulig etter at saken kom inn til retten. Dersom tiltalte er varetektsfengslet eller er under 20 år, skal hovedforhandlingen så vidt mulig være påbegynt innen 6 uker.
+
+*§ 34-3. Påtalemyndighetens underretning til tiltalte mv. Oversendelser*
+
+\(1\) Påtalemyndigheten skal sørge for at tiltalebeslutningen snarest mulig forkynnes for tiltalte.
+
+\(2\) En tiltalt som ikke har forsvarer, skal samtidig med forkynning av tiltalen
+
+a\) gis kopi av påtalemyndighetens bevisoppgave,
+
+b\) underrettes om retten til å gjøre seg kjent med sakens opplysninger, jf. § 6-10, og
+
+c\) oppfordres til snarest mulig å melde ifra om ytterligere bevis som ønskes ført.
+
+\(3\) Påtalemyndigheten skal snarest mulig sende forsvarer og bistandsadvokat materiale som er oversendt retten etter § 34-1, sammen med sakens øvrige opplysninger, jf. § 6-10.
+
+\(4\) Påtalemyndigheten skal underrette fornærmede og etterlatte om at tiltale er utferdiget, samt om deres rett til å gjøre seg kjent med tiltalebeslutningen og sakens øvrige opplysninger, jf. § 6-10.
+
+*§ 34-4. Forsvarers tilsvar*
+
+\(1\) Forsvareren skal gi skriftlig tilsvar til retten, påtalemyndigheten og bistandsadvokaten innen 3 uker etter at saken er mottatt etter § 34-3, eller innen en frist retten fastsetter. Retten kan bestemme at tilsvar kan unnlates.
+
+\(2\) Tilsvaret bør så langt forsvareroppdraget tilsier det, angi
+
+a\) hvilke deler av sakens faktiske og rettslige sider forsvaret anser som omtvistet,
+
+b\) hvilke bevis forsvaret vil føre, med opplysninger som nevnt i § 7-2 annet ledd,
+
+c\) om ytterligere etterforskingsskritt begjæres etter § 13-7, og
+
+d\) merknader til hvordan saken bør behandles.
+
+Tillegg til påtalemyndighetens utdrag av sakens opplysninger etter § 34-1 første ledd bokstav c skal vedlegges.
+
+\(3\) Mener forsvareren at saken må avvises, eller at tiltalte må frifinnes, fordi det forhold som er beskrevet i tiltalebeslutningen, ikke er straffbart, eller straffansvaret etter beskrivelsen er falt bort, skal retten, påtalemyndigheten og bistandsadvokaten snarest mulig gjøres oppmerksom på det.
+
+*§ 34-5. Bistandsadvokatens tilsvar mv.*
+
+\(1\) Når bistandsadvokaten finner grunn til å gi tilsvar om straffekravet, skal tilsvaret sendes retten og partene innen 3 uker etter at saken er mottatt etter § 34-3, eller innen en frist retten fastsetter.
+
+\(2\) Merknader til tiltalebeslutningen og forslag til ytterligere bevisføring om straffekravet skal rettes til påtalemyndigheten.
+
+*§ 34-6. Endringer i tiltalebeslutningen eller bevistilbudet*
+
+\(1\) Endret tiltale skal forkynnes for tiltalte og sendes retten, forsvareren og bistandsadvokaten.
+
+\(2\) Ønsker noen av partene å føre ytterligere bevis, eller å frafalle bevis, skal retten, motparten og bistandsadvokaten snarest mulig varsles om dette.
+
+*§ 34-7. Saksstyring. Videre saksforberedelse ved behov*
+
+\(1\) Retten skal legge en plan for den videre behandlingen, herunder fastsette frister for innlegg fra partene og treffe nødvendige beslutninger, jf. § 30-1 annet ledd.
+
+\(2\) I den utstrekning det er nødvendig for å sikre en forsvarlig og konsentrert behandling, skal retten så vidt mulig avklare
+
+a\) hvilke deler av sakens faktiske og rettslige sider som er omtvistet,
+
+b\) omfanget av og andre spørsmål i tilknytning til bevisføringen,
+
+c\) om behandlingen av saken bør deles opp,
+
+d\) tidsrammer for de ulike delene av hovedforhandlingen, og
+
+e\) andre forhold av betydning.
+
+\(3\) Avgjørelser om saksbehandlingen, herunder om bevisføringen, skal treffes så tidlig som mulig. Avgjørelsen kan likevel utsettes til hovedforhandlingen når det er nødvendig for å sikre et forsvarlig avgjørelsesgrunnlag, eller når særlige forhold ellers tilsier det.
+
+*§ 34-8. Rettens tilgang til sakens opplysninger*
+
+Retten skal gis tilgang til sakens opplysninger når den finner behov for det av hensyn til saksforberedelsen eller den videre behandlingen av saken.
+
+*§ 34-9. Saksforberedende rettsmøte*
+
+Retten kan beslutte at det skal holdes rettsmøte under saksforberedelsen, jf. § 31-1 første ledd. Tiltalte, fornærmede og etterlatte innkalles bare når deres tilstedeværelse er nødvendig.
+
+*§ 34-10. Skriftlig redegjørelse*
+
+\(1\) Retten kan pålegge påtalemyndigheten å utarbeide en skriftlig redegjørelse for saken, eller for særlige spørsmål saken reiser. Redegjørelsens form og omfang bestemmes av retten, som også fastsetter en passende frist.
+
+\(2\) Retten skal forelegge redegjørelsen for forsvareren og bistandsadvokaten, med frist for eventuelle merknader.
+
+*§ 34-11. Felles saksfremstilling*
+
+Retten kan oppfordre påtalemyndigheten og forsvareren til å utarbeide en felles saksfremstilling med sikte på å avklare om og eventuelt hvilke deler av sakens faktiske sider som er omforent. Fremstillingens form og omfang bestemmes av retten, som også fastsetter en passende frist.
+
+*§ 34-12. Sluttinnlegg*
+
+\(1\) Retten kan overfor partene fastsette en frist for å inngi sluttinnlegg, som kort bør angi
+
+a\) hvilke rettslige og faktiske spørsmål som anses omtvistet,
+
+b\) de bevis parten vil føre, og
+
+c\) en fremdriftsplan for hovedforhandlingen.
+
+\(2\) Retten skal forelegge sluttinnleggene for bistandsadvokaten, med frist for eventuelle merknader.
+
+\(3\) Retten kan oppfordre påtalemyndigheten, forsvareren og bistandsadvokaten til å utarbeide et felles utkast til fremdriftsplan.
+
+*§ 34-13. Avvisning, heving og frifinnelse under saksforberedelsen*
+
+Under saksforberedelsen kan retten
+
+a\) avvise eller heve saken, eller
+
+b\) frifinne tiltalte fordi det forhold som er beskrevet i tiltalebeslutningen, ikke er straffbart, eller straffansvaret etter beskrivelsen er falt bort.
+
+**Kapittel 35. Hovedforhandling**
+
+*§ 35-1. Rettens styring av hovedforhandlingen*
+
+Retten skal avklare om hovedforhandlingen kan foregå som planlagt under saksforberedelsen, og for øvrig påse at hovedforhandlingen gjennomføres konsentrert og forsvarlig. Saksstyringen skal særlig motvirke
+
+a\) uklarheter og misforståelser,
+
+b\) unødige avbrytelser eller gjentakelser,
+
+c\) forhandlinger om spørsmål som er uten betydning for avgjørelsen, eller som er tilstrekkelig drøftet, og
+
+d\) unødig ressurs- og tidsbruk for aktørene og andre, herunder at vitner ikke får forklare seg til det tidspunkt som ble fastsatt i innkallingen.
+
+*§ 35-2. Muntlig hovedforhandling*
+
+\(1\) Hovedforhandlingen er muntlig med mindre annet er bestemt i denne lov. For å lette fremstillingen av argumentasjon og bevisføring, kan det benyttes disposisjon, illustrasjon, oversikt eller annet hjelpemiddel.
+
+\(2\) Bevis føres på den måte som best sikrer sakens opplysning, effektiv saksavvikling og hensynet til offentlighet. Forklaringer føres som angitt i § 10-9. Skriftlige bevis leses opp, med mindre opplesning vil være uforholdsmessig tidkrevende, og det er forsvarlig å unnlate opplesning.
+
+*§ 35-3. Innledning av forhandlingene*
+
+\(1\) Rettens leder åpner forhandlingene ved å presentere tiltalte og tilstedeværende forsvarer, aktor, fornærmede og bistandsadvokat og til slutt rettens medlemmer. Deretter angir rettens leder kort hva saken handler om, og gir så aktor ordet for opplesning av tiltalen.
+
+\(2\) Rettens leder spør den tiltalte om vedkommende erklærer seg skyldig etter tiltalen. Rettens leder oppfordrer så den tiltalte til å følge nøye med og gjør vedkommende oppmerksom på retten til å bli hørt gjennom forhandlingene, jf. § 35-4 femte ledd.
+
+\(3\) Aktor gir deretter en kort redegjørelse for hva som er gjenstand for tiltalen, sentrale bevistemaer og hvilke bevis som vil bli ført. Forsvarer gis anledning til å knytte bemerkninger til aktors redegjørelse og angi bevis som vil bli ført. Det kan presenteres bevis etter § 35-4 når formålet med innledningsforedraget tilsier det.
+
+*§ 35-4. Bevisføringen*
+
+\(1\) Tiltalte forklarer seg først, med mindre annet er bestemt i det følgende eller for øvrig er hensiktsmessig, jf. § 35-1. Fornærmede, etterlatte og andre vitner forklarer seg før tiltalte når det er grunn til det. Det skal særlig legges vekt på sakens karakter og belastningen ved å måtte forklare seg senere.
+
+\(2\) Aktors bevisføring finner som regel sted før forsvarerens. Når noen forklarer seg, kan det åpnes for supplerende bevisføring når hensynet til sakens opplysning tilsier det.
+
+\(3\) Etter at en part har ført et bevis, gis motparten og deretter bistandsadvokaten anledning til å stille spørsmål og til å supplere bevisføringen.
+
+\(4\) Fornærmede og etterlatte gis anledning til å komme med avsluttende bemerkninger etter den øvrige bevisføringen og kan gi en kort fremstilling av hvilke konsekvenser den handlingen straffesaken gjelder, har medført for vedkommende.
+
+\(5\) Tiltalte skal i rimelig utstrekning gis anledning til å kommentere bevisføringen underveis.
+
+*§ 35-5. Prosedyre. Avslutning av forhandlingene*
+
+\(1\) Partene får ordet to ganger hver til prosedyre. Aktor får ordet først. Påstand nedlegges i første innlegg
+
+\(2\) Tiltalte gjøres så oppmerksom på sin rett til avsluttende bemerkninger.
+
+\(3\) Etter prosedyren og tiltaltes bemerkninger avsluttes forhandlingene.
+
+**Kapittel 36. Forenklet behandling**
+
+*§ 36-1. Vilkår for forenklet behandling*
+
+\(1\) En sak kan pådømmes i rettsmøte uten hovedforhandling når påtalemyndigheten begjærer det, og tiltalte overfor retten avgir en uforbeholden tilståelse som støttes av de øvrige opplysningene i saken. Dette gjelder likevel ikke når
+
+a\) saken gjelder overtredelse av straffebud som etter loven kan medføre fengsel i mer enn 10 år,
+
+b\) påtalemyndigheten nedlegger påstand om forvaring eller overføring til tvungent psykisk helsevern eller tvungen omsorg,
+
+c\) det er betenkelig av hensyn til sakens alvor, offentlighetens interesse i en grundig behandling eller øvrige omstendigheter.
+
+\(2\) Overtredelse av vegtrafikkloven §§ 22 eller 24, jf. § 31, kan pådømmes selv om tiltalte ikke avgir en uforbeholden tilståelse når vedkommende erklærer seg skyldig.
+
+*§ 36-2. Krav til begjæring om forenklet behandling*
+
+Begjæring om forenklet behandling skal inneholde
+
+a\) tiltalebeslutningen, jf. § 28-6, jf. § 28-8,
+
+b\) sakens opplysninger med en oversikt over saksforholdet og sentrale bevis,
+
+c\) en begrunnet påstand om straff og opplysning om det er gitt straffetilsagn etter § 28-7,
+
+d\) opplysning om tilståelsen,
+
+e\) en vurdering av om det foreligger omstendigheter som taler mot forenklet behandling, jf. § 36-1 første ledd bokstav c, og
+
+f\) opplysning om hvorvidt det vil møte aktor til rettsmøtet.
+
+*§ 36-3. Rettens behandling*
+
+Dom skal avsies ved rettsmøtets avslutning når det er grunnlag for det. Er vilkårene for pådømmelse etter forenklet behandling ikke til stede, sendes saken tilbake til påtalemyndigheten med en angivelse av grunnen til at saken ikke kunne pådømmes.
+
+**DEL 8. Anke**
+
+**Kapittel 37. Ankeadgang og ankeerklæring**
+
+*§ 37-1. Ankerett, ankegjenstand og ankegrunner*
+
+Rettens avgjørelser kan ankes på grunn av feil ved innholdet eller saksbehandlingen med mindre annet er bestemt. Anke kan inngis av enhver som har rettslig interesse i det. Forsvareren kan på mistenktes vegne anke avgjørelser om innsyn etter § 6-4, om tiltak for å sikre hemmelighold av et vitnes identitet etter § 10-10 og om heving etter § 33-3 annet ledd.
+
+*§ 37-2. Begrensninger i adgangen til å anke over beslutning*
+
+\(1\) Beslutninger om saksbehandlingen kan ikke ankes når det følger av særlig lovbestemmelse eller beslutningens art, med mindre det ankes på grunnlag av at avgjørelsen er uforsvarlig eller urimelig.
+
+\(2\) Beslutning truffet under hovedforhandling eller ankeforhandling kan bare ankes når den er uten betydning for gjennomføringen av forhandlingene, eller når den
+
+a\) avviser, hever eller utsetter saken,
+
+b\) avslår oppnevning av forsvarer eller bistandsadvokat,
+
+c\) gjelder bruk av tvangstiltak, rettergangsstraff, erstatning eller sakskostnader,
+
+d\) gjelder vitneplikt eller utleveringsplikt,
+
+e\) er truffet etter §§ 6-8 eller 8-2 bokstav d, eller
+
+f\) gjelder spørsmål som retten samtykker i at bør avklares ved anke av hensyn til den videre behandling av saken.
+
+\(3\) Beslutninger som kan brukes som ankegrunn mot dom, kan ikke ankes særskilt.
+
+\(4\) Lagmannsrettens avgjørelse av en anke over beslutning kan bare ankes når den gjelder
+
+a\) avvisning av en sak fra domstolene,
+
+b\) den generelle forståelse av en rettsregel,
+
+c\) saksbehandlingen ved lagmannsretten, eller
+
+d\) avgjørelse om forklaringsfritak etter § 9-4.
+
+\(5\) En beslutning om å tillate en anke fremmet kan ikke ankes.
+
+*§ 37-3. Begrensninger i adgangen til å anke over dom*
+
+Anke til Høyesterett kan ikke begrunnes med feil ved bevisbedømmelsen under skyldspørsmålet.
+
+*§ 37-4. Ankefrist*
+
+\(1\) Fristen for anke er 2 uker fra tidspunktet for underretning etter § 32-10, jf. domstolloven § 147. Ankefristen for beslutning etter § 33-3 annet ledd om heving løper fra avgjørelsen er avsagt.
+
+\(2\) For påtalemyndigheten løper fristen for beslutning om avvisning og dom fra den har kommet inn til den ankeberettigedes tjenestested. Fristen løper likevel ut senest 4 uker etter at avgjørelsen er kommet inn til møtende aktors tjenestested. Dersom saken gjelder flere forhold, og riksadvokaten har ankekompetansen for enkelte av dem, gjelder riksadvokatens ankefrist for alle forholdene. Påtalemyndighetens anke må være avgitt til forkynning for mistenkte før ankefristen utløper.
+
+\(3\) Avgjørelser av betydning for sakens fremdrift skal ankes uten ugrunnet opphold og senest innen tre dager, med mindre retten fastsetter en lengre ankefrist.
+
+\(4\) Støtteskriv til anken skal inngis innen 1 uke.
+
+\(5\) En anke som er fremsatt for sent, kan behandles dersom særlige forhold tilsier at anken blir prøvd, og den fremsettes innen 2 uker etter at det forhold som har fremkalt forsinkelsen, falt bort.
+
+*§ 37-5. Motanke*
+
+\(1\) Er det anket over dom, kan den annen part erklære motanke. Motanken faller bort dersom hovedanken trekkes, avvises eller nektes fremmet.
+
+\(2\) Motanke må erklæres innen 1 uke. For tiltalte løper fristen fra forkynningen av påtalemyndighetens anke. For påtalemyndigheten løper fristen fra den dag tiltaltes anke er kommet inn til den ankeberettigedes tjenestested.
+
+*§ 37-6. Ankeerklæringen*
+
+\(1\) Ankeerklæringen skal angi
+
+a\) nødvendige opplysninger om saken og partene,
+
+b\) om det ankes over hele eller bestemte deler av avgjørelsen,
+
+c\) om anken gjelder bevisbedømmelsen under skyldspørsmålet, eller om den er begrenset til lovanvendelsen, reaksjonsfastsettelsen eller saksbehandlingen,
+
+d\) de feil som gjøres gjeldende, med angivelse av de faktiske forhold og den rettslige forståelse som tilsier at det er begått en feil, nye bevis som påberopes og
+
+e\) den endring som påstås.
+
+\(2\) Anken inngis skriftlig eller muntlig til den domstol som har truffet avgjørelsen, og sendes til motparten. Domstolen skal gi nødvendig bistand til utarbeidelse av anken. Er domfelte frihetsberøvet, skal den frihetsberøvende myndighet legge til rette for bistand.
+
+\(3\) Ankeerklæringen skal dateres og signeres. Anke over beslutning kan signeres av forsvareren.
+
+\(4\) Søknad om samtykke til direkte anke til Høyesterett, jf. § 5-4 bokstav b, fremsettes sammen med ankeerklæringen og sakens opplysninger til den tingrett som har truffet avgjørelsen.
+
+*§ 37-7. Frafall av erklært anke*
+
+Anken kan trekkes inntil ankeforhandling begynner, og når motparten samtykker, inntil forhandlingen er slutt, eller inntil anken er avgjort skriftlig.
+
+*§ 37-8. Utsettende virkning ved anke over beslutning*
+
+\(1\) En beslutning som er påanket, har virkning etter sitt innhold fra den er avsagt, med mindre det er bestemt i loven, av den rett som har truffet den påankede avgjørelsen, eller av ankedomstolen at anken skal ha utsettende virkning.
+
+\(2\) Anke fra noen som er pålagt å avgi forklaring eller forsikring, utlevere bevis eller gjøre tjeneste som sakkyndig, har utsettende virkning.
+
+*§ 37-9. Foreløpig behandling av ankesaken ved den domstol som mottar anken*
+
+\(1\) Den ankende part skal gis en kort frist for å rette feil og mangler i ankeerklæringen.
+
+\(2\) Retten skal sende anken til motparten med frist for uttalelse. Dette gjelder ikke når påtalemyndigheten anker et avslag på begjæring om bruk av tvangstiltak som skal holdes hemmelig.
+
+\(3\) Retten skal vurdere om den påankede avgjørelsen bør omgjøres etter § 32-16 eller rettes etter § 32-17. Dersom avgjørelsen eller en del av den ikke omgjøres, sendes ankeerklæringen uten opphold til ankedomstolen.
+
+\(4\) Er det anket direkte til Høyesterett etter § 5-4 bokstav b, skal tingretten sende saken til Høyesteretts ankeutvalg. Avslås direkte behandling i Høyesterett, sendes saken til lagmannsretten.
+
+**Kapittel 38. Avvisning og henvisning av anke**
+
+*§ 38-1. Ankedomstolens plikter når anken er mottatt. Retting. Avvisning*
+
+\(1\) Ankedomstolen skal avgjøre om anken fyller lovens krav. Anken skal avvises når den
+
+a\) er for sent fremsatt,
+
+b\) ikke fyller kravene etter § 37-6, eller
+
+c\) har annen feil som gjør at den ikke kan behandles.
+
+\(2\) Retten kan unnlate å ta stilling til spørsmålet om avvisning etter første ledd når det er klart at anken må nektes fremmet etter § 38-3.
+
+*§ 38-2. Nektelse av anke over beslutning til Høyesterett*
+
+Anke over beslutning til Høyesterett kan nektes fremmet når
+
+a\) anken ikke reiser spørsmål av betydning utenfor den foreliggende sak, og heller ikke andre hensyn taler for at anken realitetsbehandles, eller
+
+b\) påtalemyndigheten har anket til mistenktes ugunst og anken gjelder spørsmål av mindre betydning, eller det ellers ikke er grunn til at anken realitetsbehandles.
+
+*§ 38-3. Nektelse av og samtykke til realitetsbehandling av anke over dom*
+
+\(1\) Anke over dom til lagmannsretten kan nektes fremmet når
+
+a\) det er klart at anken ikke vil føre frem, eller
+
+b\) påtalemyndigheten har anket til tiltaltes ugunst, og anken gjelder spørsmål av mindre betydning, eller det ellers ikke er grunn til at anken realitetsbehandles.
+
+Anke som gjelder forhold hvor påtalemyndigheten ikke har påstått og det ikke er idømt annen reaksjon enn bot, inndragning eller tap av retten til å føre motorvogn kan ikke fremmes uten rettens samtykke. Samtykke skal bare gis når særlige forhold tilsier det. Kravet om samtykke gjelder ikke når mistenkte er et foretak, jf. straffeloven kapittel 4.
+
+\(2\) Anke over dom til Høyesterett kan tillates fremmet når
+
+a\) anken gjelder spørsmål som har betydning utenfor den foreliggende sak, eller
+
+b\) det av andre grunner er særlig viktig å få saken prøvd i Høyesterett.
+
+Anke som er til tiltaltes gunst og gjelder forhold tiltalte første gang er domfelt for i lagmannsretten, skal fremmes med mindre det er klart at anken ikke vil føre frem.
+
+*§ 38-4. Saksbehandling ved spørsmål om avvisning og henvisning av anke*
+
+\(1\) Avgjørelse etter §§ 38-1 til 38-3 treffes uten muntlige forhandlinger. Partene kan uttale seg etter §§ 32-4 fjerde ledd og 32-5 annet ledd. Andre anken har betydning for, kan inngi skriftlig uttalelse om saken.
+
+\(2\) Før det treffes avgjørelse om avvisning etter § 38-1, skal det gis en kort frist for å rette feil som kan avhjelpes.
+
+\(3\) Når anke over dom omfatter flere ankegrunner, prøver lagmannsretten som regel spørsmålet om henvisning av anke over bevisbedømmelsen under skyldspørsmålet først. Retten kan likevel vurdere om det er grunnlag for opphevelse eller frifinnelse etter § 39-2 annet ledd. Ellers prøver retten som regel anke over saksbehandlingen først.
+
+\(4\) Nektelser etter §§ 38-2 og 38-3 krever enstemmighet. Nektelsen kan omgjøres til gunst for mistenkte når særlige forhold tilsier det. Avgjørelser etter §§ 38-2 bokstav b og 38-3 første ledd annet punktum kan treffes uten begrunnelse, jf. § 32-7 første ledd.
+
+\(5\) Nektelse etter § 38-3 første ledd, eller avslag på begjæring om omgjøring etter fjerde ledd, kan ankes på grunnlag av feil i saksbehandlingen.
+
+*§ 38-5. Henvisning*
+
+Blir ikke anken avgjort etter §§ 38-1, 38-2 eller 38-3 første ledd, skal den henvises til realitetsbehandling etter kapittel 39. Når det er hensiktsmessig for den videre ankebehandlingen, skal henvisningsbeslutningen angi hvilke faktiske og rettslige forhold behandlingen bør konsentreres om.
+
+**Kapittel 39. Realitetsbehandling av anke**
+
+*§ 39-1. Behandlingsform og avgjørelsesgrunnlag ved anke over beslutning*
+
+Anke over beslutning avgjøres normalt etter skriftlig behandling. Retten kan beslutte muntlige forhandlinger når særlige forhold tilsier det. Avgjørelsen om behandlingsform kan ikke ankes eller brukes som ankegrunn.
+
+*§ 39-2. Behandlingsform og avgjørelsesgrunnlag ved anke over dom*
+
+\(1\) Anke over dom avgjøres etter ankeforhandling etter § 39-6, med mindre annet er bestemt.
+
+\(2\) Anke over dom til lagmannsretten kan avgjøres uten ankeforhandling, jf. § 5-6 fjerde ledd, når det er klart at
+
+a\) tiltalte må frifinnes av grunner som angitt i § 34-13 første ledd bokstav b,
+
+b\) tiltalte må domfelles etter en mildere straffebestemmelse eller til en mildere reaksjon, eller
+
+c\) dommen må oppheves på grunn av feil ved lovanvendelsen under skyldspørsmålet, reaksjonsfastsettelsen eller saksbehandlingen.
+
+\(3\) Ved anke til lagmannsretten kan det utenfor tilfellene nevnt i annet ledd besluttes at saken skal behandles skriftlig, når partene samtykker, eller det er åpenbart hensiktsmessig og forsvarlig. Retten skal sikre et forsvarlig avgjørelsesgrunnlag og kan om nødvendig omgjøre beslutningen.
+
+\(4\) Anke over dom til Høyesterett kan avgjøres skriftlig når Høyesteretts ankeutvalg finner det klart at
+
+a\) tiltalte må frifinnes på vilkår som angitt i § 34-13 første ledd bokstav b, eller
+
+b\) dommen må oppheves på grunn av feil ved lovanvendelsen under skyldspørsmålet, reaksjonsfastsettelsen eller saksbehandlingen.
+
+\(5\) Avgjørelser etter annet til fjerde ledd krever enstemmighet.
+
+*§ 39-3. Rettens forhold til ankegrunnene ved anke over beslutning*
+
+Ved anke over beslutning kan ankedomstolen innenfor rammene av § 37-2 prøve ankegrunner som ikke er påberopt.
+
+*§ 39-4. Rettens forhold til ankegrunnene ved anke over dom*
+
+\(1\) Ved anke over dom skal ankebehandlingen, når ikke annet er bestemt, bare omhandle de ankegrunner som er fremmet til behandling, jf. § 37-6 første ledd bokstav c, og konsentreres om de spørsmål som er angitt i henvisningsbeslutningen, jf. § 38-5.
+
+\(2\) Retten kan prøve feil ved lovanvendelsen, reaksjonsfastsettelsen eller saksbehandlingen av betydning for dommen, selv om det ikke er anket over feilen, når særlige forhold tilsier det. Reaksjonsfastsettelsen til skade for mistenkte kan bare prøves etter henvisning.
+
+\(3\) Til gunst for tiltalte kan retten tillegge en feil virkning for deler av saken som ikke omfattes av anken, dersom feilen har betydning også for disse. Det samme gjelder dersom feilen har betydning for andre domfelte i sak som har vært forent til felles behandling.
+
+\(4\) Ved prøving av saksbehandlingen er retten ikke bundet av avgjørelser truffet etter anke over beslutning.
+
+*§ 39-5. Forberedelse til ankeforhandling. Berammelse*
+
+Forberedelse til muntlig forhandling ved anke over beslutning skal normalt skje skriftlig. Ved anke over dom forberedes ankeforhandlingen etter kapittel 34 om forberedelse til hovedforhandling. Dersom tiltalte er varetektsfengslet eller under 20 år skal ankeforhandling for lagmannsretten finne sted senest 8 uker fra beslutningen om å henvise anken ble truffet.
+
+*§ 39-6. Gjennomføring av ankeforhandling*
+
+\(1\) Ankeforhandling gjennomføres etter bestemmelsene om hovedforhandling, jf. kapittel 35, så langt de passer, og ikke annet er bestemt. Forhandlingene skal konsentreres om det som er tatt opp i anken, og som er omtvistet. Bevis om uomtvistede sider ved underinstansens dom skal som regel ikke føres, jf. § 32-4 annet ledd annet punktum.
+
+\(2\) Den ankende part skal som regel ha ordet først. Har begge parter anket, avgjør rettens leder hvem som skal ha ordet først.
+
+*§ 39-7. Realitetsbehandling av anke til Høyesterett*
+
+\(1\) Bevisføringen i Høyesterett skjer etter § 35-4, men uten at vitner forklarer seg for retten. Sakkyndige kan likevel avhøres umiddelbart for Høyesterett. Retten kan tillate at tiltalte får ordet.
+
+\(2\) Høyesterett kan etter begjæring fra partene eller av eget tiltak beslutte bevisopptak etter § 12-1.
+
+*§ 39-8. Avgjørelse av anke over beslutning*
+
+\(1\) Ved anke over beslutning kan retten treffe ny avgjørelse når den har grunnlag for det. Foreligger det saksbehandlingsfeil, kan retten oppheve beslutningen, når
+
+a\) grunnleggende forutsetninger for å behandle saken ikke forelå,
+
+b\) beslutningsgrunnene hindrer prøving av anken, eller
+
+c\) feilen kan ha innvirket på avgjørelsen.
+
+Fører anken ikke frem, forkastes den.
+
+\(2\) Høyesteretts ankeutvalg kan forkaste en anke over beslutning uten begrunnelse når det er klart at anken ikke fører frem.
+
+*§ 39-9. Avgjørelse av anke over dom når det er anket over bevisbedømmelsen under skyldspørsmålet*
+
+\(1\) Anke over bevisbedømmelsen under skyldspørsmålet avgjøres ved dom, jf. § 32-2 første ledd.
+
+\(2\) Gjelder anken bare enkelte forhold tiltalte ble domfelt for i tingretten, skal retten ved fellende dom fastsette en felles straff for alle de straffbare forholdene. Blir tiltalte frifunnet, fastsettes ny straff for de forhold hvor domfellelsen blir stående.
+
+*§ 39-10. Avgjørelse av anke over dom når det er anket over saksbehandlingen*
+
+\(1\) Foreligger det feil ved underinstansens saksbehandling, skal dommen oppheves når feilen går ut på at
+
+a\) saken allerede er rettskraftig avgjort,
+
+b\) saken ikke er reist av rett myndighet,
+
+c\) saken i strid med loven er fremmet i tiltaltes fravær,
+
+d\) tiltalte ikke har hatt forsvarer slik loven krever,
+
+e\) dommen er avsagt av en rett som ikke var domsmyndig i saken,
+
+f\) domstolen ikke var lovlig besatt; likevel tillegges det ikke ubetinget virkning at en sak feilaktig er pådømt med meddommere, at det ikke har vært like mange meddommere av hvert kjønn, at den er pådømt med meddommere av de alminnelige utvalg i stedet for av det særlige, eller med oppnevnte meddommere i stedet for uttrukne,
+
+g\) andre grunnleggende forutsetninger for å behandle saken ikke forelå, eller
+
+h\) domsgrunnene hindrer prøving av anken.
+
+Andre feil skal føre til opphevelse av dommen eller de deler av den som feilen knytter seg til, når feilen kan ha innvirket på avgjørelsen.
+
+\(2\) Når en dom blir opphevet, skal også hovedforhandlingen oppheves når det er nødvendig for en forsvarlig videre behandling.
+
+\(3\) Anke fra påtalemyndigheten over saksbehandlingsregler som utelukkende er gitt til vern for tiltalte, kan ikke føre til endring etter § 39-4 som er til skade for vedkommende.
+
+\(4\) Dersom tiltalte er domfelt for flere forhold i underinstansen, skal retten ved opphevelse for enkelte forhold fastsette ny straff for de forhold hvor domfellelsen blir stående. Straffen kan ikke settes høyere enn den samlede straff som var ilagt ved den påankede dom.
+
+\(5\) Anke som ikke fører frem, forkastes.
+
+*§ 39-11. Avgjørelse av anke over dom når det er anket over lovanvendelsen eller reaksjonsfastsettelsen*
+
+\(1\) Foreligger det feil ved underinstansens lovanvendelse, kan retten avgjøre anken ved ny dom dersom underinstansens beskrivelse av saksforholdet gir tilstrekkelig grunnlag for det. Ellers oppheves dommen.
+
+\(2\) Foreligger det feil ved underinstansens reaksjonsfastsettelse, fastsettes ny straff. Retten kan bare endre den utmålte straff når det fremstår klart at reaksjonsfastsettelsen er feil, eller retten domfeller etter en annen straffebestemmelse.
+
+\(3\) Når en dom blir opphevet, skal også hovedforhandlingen oppheves når det er nødvendig for en forsvarlig videre behandling.
+
+\(4\) Anke fra påtalemyndigheten til gunst for tiltalte kan ikke føre til endring som er til skade for vedkommende.
+
+\(5\) Dersom tiltalte er domfelt for flere forhold i underinstansen, skal retten ved opphevelse eller frifinnelse for enkelte forhold fastsette ny straff for de forhold hvor domfellelsen blir stående. Dersom det ikke er anket over reaksjonsfastsettelsen, kan straffen ikke settes høyere enn den samlede straff som var ilagt ved den påankede dom.
+
+\(6\) Anke som ikke fører frem, forkastes.
+
+*§ 39-12. Videre behandling av saken etter opphevelse*
+
+\(1\) Blir hovedforhandlingen opphevet, skal underinstansen beramme ny hovedforhandling.
+
+\(2\) Ved ny hovedforhandling skal nye dommere delta. Er bare dommen opphevet, avsier underinstansen ny dom med de samme dommere.
+
+\(3\) Gjelder den opphevede dom flere forhold, og opphevelsesgrunnen bare gjelder enkelte av dem, skal retten for de øvrige forhold legge til grunn den avgjørelse av skyldspørsmålet som er tatt i den første dom. §§ 39-10 tredje ledd og 39-11 fjerde ledd om anke til gunst for domfelte gjelder tilsvarende.
+
+**DEL 9. Fullbyrding og gjenåpning**
+
+**Kapittel 40. Fullbyrding**
+
+*§ 40-1. Fullbyrding av straff eller annen strafferettslig reaksjon*
+
+\(1\) Idømt straff eller annen strafferettslig reaksjon
+
+a\) kan fullbyrdes før dommen er rettskraftig, dersom domfelte begjærer det og det er ubetenkelig, eller
+
+b\) skal fullbyrdes straks dommen er rettskraftig.
+
+\(2\) Straff eller annen strafferettslig reaksjon som er fastslått i et forelegg, kan fullbyrdes når forelegget er vedtatt. Blir vedtakelsen påanket etter § 29-11, kan fullbyrding likevel ikke skje før saken er avgjort.
+
+\(3\) Dersom bot ikke betales, og pengene ikke lar seg inndrive, kan fullbyrding skje ved avsoning av subsidiær fengselsstraff når
+
+a\) den bøtelagte har økonomisk evne til å betale for seg, eller
+
+b\) allmenne hensyn tilsier at fengselsstraff fullbyrdes.
+
+\(4\) Til fullbyrdingen medregnes etter reglene i straffeloven § 83 den tid domfelte i anledning saken har vært frihetsberøvet etter avsagt dom.

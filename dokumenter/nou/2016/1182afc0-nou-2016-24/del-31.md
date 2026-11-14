@@ -1,926 +1,262 @@
-# NOU 2016: 24, del 31 av 73 (side 338–347)
+# NOU 2016: 24, del 31 av 69
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/1182afc0-nou-2016-24.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-24/id2517932/
 - Original-PDF: https://www.regjeringen.no/contentassets/6fe1d875248042b4a09b43b85aa46832/no/pdfs/nou201620160024000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 9 tabeller, 1 figur, 52 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 338]
-
-336
-
-NOU 2016: 24
-
-Kapittel 14
-
-Ny straffeprosesslov
-
-«Komiteen har også merka seg at Justisdepartementet i eit notat til komiteen uttaler at det
-ikkje kan koma på tale å nytte regelen mot den
-krenkte i ei valdtektssak, når ho nektar slik
-undersøking. Komiteen meiner kroppsleg
-undersøking er eit alvorleg inngrep i den personlege integritet når det skjer utan samtykke.
-Komiteen vil og peike på at den krenkte vil vera
-i ein kjenslemessig vanskeleg situasjon rett
-etter eit mogeleg overgrep. Komiteen er merksam på at påtalemakta ofte ikkje kan føre bevis
-for valdtekt utan kroppsundersøking. Komiteen kan også skjøna at ein som blir meld for
-valdtekt kan kjenne behov for å få mistanken
-avkrefta ved slik undersøking.
-Komiteen vil og vise til at regelen vel vil ha
-lite å seie i narkotikasaker, fordi dei personar
-det kan vera aktuelt å kreve undersøking av,
-som regel må sjåast som mistenkte.
-Med bakgrunn i det nemnde finn komiteen
-at det er fleire uklare spørsmål i samband med
-tvangsundersøking av andre enn mistenkte, og
-komiteen kan ikkje utan vidare sjå behovet for
-ein slik lovregel. Komiteen vil derfor be departementet vurdere denne saka på ny.
-I samråd med departementet gjer komiteen
-framlegg om at ikraftsettinga av § 158 blir
-utsett til spørsmålet er nærare vurdert. Av
-praktiske grunnar foreslår ein regelen oppheva.»
-Ved lov 14. juni 1985 nr. 71 ble § 158 opphevet,
-uten at det senere har blitt åpnet for kroppslig
-undersøkelse av andre enn mistenkte.
-Så vidt utvalget er kjent med, har det i straffeprosesslovens virketid ikke fra noe hold blitt
-påvist noe behov for å utvide adgangen til kroppslig undersøkelse til også å gjelde tredjepersoner.
-Utvalget foreslår således ikke noen slik utvidelse.
-14.7.6 Beslutningsmyndighet for ransaking
-I høringen til Straffeprosesslovkomiteens innstilling fra 1969 ble det fra Politiembetsmennenes
-Landsforening foreslått at påtalemyndigheten
-burde ha myndighet til å beslutte alle typer ransaking, med adgang til å bringe spørsmålet inn for
-retten.153 Departementet fulgte ikke opp dette, og
-uttalte:
-«Departementet er her enig med komitéen og
-slutter seg til dens begrunnelse (innst s 251, til
-153
-
-Høringsuttalelsen er gjengitt i Ot.prp. nr. 35 (1978–79)
-s. 174.
-
-§ 200). Ved ransaking får man ingen etterfølgende rettslig kontroll slik som ved pågripelse
-og beslag, og dette anser man prinsipielt avgjørende, jf også at det i proposisjonen ikke vil bli
-foreslått endringer i gjeldende ordning med
-hensyn til hvem som skal beslutte pågripelse.
-Se også utk § 205, beslutning om beslag.»
-Én mulighet kunne være å gi en uttrykkelig
-bestemmelse om adgang til å kreve etterfølgende
-legalitetskontroll uavhengig av spørsmålet om
-rettslig interesse. Men det er nok uansett ikke noe
-særlig praktisk behov for en slik løsning. Ved vurderingen av reglene om beslutningsmyndighet er
-det grunn til å være oppmerksom på ransakingsadgangen ved pågripelse etter straffeprosessloven
-§ 178 annet ledd og pågripelsesmyndigheten i
-hastetilfeller for tjenestepersoner i politiet som
-ikke tilhører påtalemyndigheten etter straffeprosessloven § 176 – som utvalget viderefører, jf.
-utkastet § 14-3 tredje ledd bokstav a. Det vises
-også til adgangen for politiets operative tjenestepersoner til å foreta ransaking uten særskilt
-beslutning for å gjennomføre en pågripelse som er
-besluttet av påtalemyndigheten eller retten, jf.
-straffeprosessloven § 198 tredje ledd og utkastet
-§ 18-1 annet ledd. Disse reglene medfører i praksis en nokså vidtgående adgang til ransaking uten
-rettens eller påtalemyndighetens beslutning. De
-mindre inngripende formene for ransaking – på
-sted som er tilgjengelig for enhver mv. – krever
-heller ikke rettens beslutning.
-Utvalget legger således til grunn at det prinsipielle utgangspunktet bør være at beslutning om
-de inngripende formene for ransaking – ransaking
-av bolig mv. og av person – skal treffes av retten,
-men med hastekompetanse for påtalemyndigheten og politiets operative tjenestemenn. Det gjøres
-i dag utvilsom utstrakt bruk av hastekompetanse,
-men det er i seg selv ikke en grunn til å fravike det
-prinsipielle utgangspunktet. Ligger forholdene til
-rette for det, bør det sikres rettslig forhåndskontroll med hus- og personransakinger.
-
-14.8 Beslag og utleveringspålegg
-14.8.1 Gjenstanden for beslag og beslagsbegrepet
-Etter gjeldende rett er gjenstanden for beslag
-«ting», jf. straffeprosessloven § 203. Således
-omfattes både fast gods og løsøre – herunder
-dokumenter og endog dyr – så vel som mindre
-håndfaste manifestasjoner, som gass og væsker av
-enhver art samt blodprøver og annet biologisk
-
-[Side 339]
-
-337
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-materiale. Også elektronisk lagrede opplysninger
-er «ting» i lovens forstand, selv om opplysningenes fysiske manifestasjon ikke er umiddelbart
-sansbar.
-Utvalget har i tråd med ønsket om en mest
-mulig teknologinøytral lovtekst vurdert om gjenstanden for beslag bør angis på annen måte enn i
-dag. Det er imidlertid vanskelig å finne et
-uttrykk som bedre enn «ting» fanger opp de
-svært forskjellige objekter det kan være snakk
-om å beslaglegge. Dessuten er uttrykket vel innarbeidet, og mange spørsmål om forståelsen er
-avklart i rettspraksis, se for eksempel Rt. 2009 s.
-1011, der det er lagt til grunn at også domenenavn er «ting». På denne bakgrunn foreslår utvalget å videreføre bruken av uttrykket i beslagsbestemmelsen.
-Kort sagt synes «ting» å omfatte alt som kan
-tas hånd om av politiet for de beslagsformål loven
-anerkjenner, det vil si for å nyttiggjøres som bevis,
-for å inndras eller for å utleveres til fornærmede.
-Rent immaterielle størrelser faller derimot utenfor. Utover sistnevnte begrensning antar utvalget
-at beslagsinstituttet ikke bør avgrenses gjennom
-en nærmere angivelse av hva som kan være gjenstand for beslag. Det anses derfor også unødvendig med noen legaldefinisjon av «ting».
-Straffeprosessloven angir ikke uttrykkelig hva
-et beslag innebærer, men et sentralt element er – i
-tråd med vanlig språkbruk – at påtalemyndigheten overtar rådigheten over tingen, hvilket også
-følger forutsetningsvis av straffeprosessloven
-§ 214, jf. også §§ 208, 209 og 213. Som følge av
-påtalemyndighetens overtakelse av tingen mister
-den beslaget tas hos, den faktiske rådigheten over
-tingen. Det må dessuten legges til grunn at vedkommende mister den rettslige rådigheten over
-tingen så langt det følger av beslagsformålet.
-14.8.2 Beslagsfrihet og forholdet til
-bevisreglene
-Etter straffeprosessloven § 204 kan det ikke tas
-beslag i «dokumenter og annet hvis innhold et
-vitne kan nekte å forklare seg om etter §§ 117–121
-og 124–125». Dette innebærer såkalt beslagsfrihet
-for ting som knytter seg til de angitte bevisforbud
-og forklaringsfritak.
-Etter utvalgets forslag er reglene om bevisforbud løsrevet fra dagens forklaringsforbud. Det er
-derfor ikke nødvendig med en egen bestemmelse
-om beslagsfrihet i beslagskapitlet. Det vises til
-drøftelsen i punkt 13.3.3 om nøytralitetsprinsippene som ligger til grunn for lovutkastets bevisregler.
-
-Kapittel 14
-
-I korthet innebærer bevisreglene i utkastet
-omtrent samme beslagsfrihet som etter gjeldende
-rett. En lovteknisk forskjell er at unntaket fra
-beslagsadgang knyttet til forklaringsfritakene
-etter straffeprosessloven § 124 om forretningseller driftshemmeligheter og § 125 om pressens
-kildeopplysninger vil følge av bevisforbudet i
-utkastet § 8-4, som er avledet av de tilsvarende vitnefritakene i utkastet §§ 9-4 og 9-5.
-
-14.8.3 Håndteringen av spørsmål om beslagsforbud
-14.8.3.1
-
-Oversikt over problemsituasjonen
-
-Beslagsforbud kan i tråd med utvalgets generelle
-tilnærming ses som et direkte utslag av bevisforbud og de verdier som ligger til grunn for disse, jf.
-punkt 13.3.3 og 13.3.5. Det er selvsagt prinsipielt
-mulig å tillate innhenting av en type bevis og å
-åpne for bare visse typer bruk av opplysningene –
-for eksempel slik at beviset kan benyttes for etterforskingsformål, men ikke føres i retten. Men så
-langt det gjelder bevisforbud som utelukker
-enhver bruk, er et tilsvarende beslagsforbud nærmest tankenødvendig.
-Ved tvil om hvorvidt et bevisforbud gjør seg
-gjeldende for hele eller deler av et materiale som
-vurderes beslaglagt, oppstår det rettslige og praktiske spørsmål om hvordan mulige beslagsforbud
-skal håndteres. Særlig gjelder det ved beslag av
-store informasjonsmengder, som et helt arkiv
-eller store mengder datalagret materiale på en
-harddisk eller en dataserver.
-I mange tilfeller vil det være klart at man står
-overfor materiale som omfattes av bevis- og
-beslagsforbud. I Rt. 2013 s. 968 avsnitt 23 heter
-det således:
-«Det gjelder normalt en presumsjon for at
-‘dokumenter og tilsvarende som befinner seg
-på kontoret hos en frittstående privatpraktiserende advokat’ er undergitt taushetsplikt og
-dermed beslagsforbud, jf. Rt. 1996 side 1081.
-Jeg finner det ikke tvilsomt at denne presumsjonen omfatter en advokats databærere.»
-Men etter omstendighetene kan det være tvil om
-hvorvidt og i hvilken grad det gjelder beslagsforbud. Etter gjeldende rett er det lagt opp til rettslig
-forhåndskontroll når det oppstår spørsmål om
-beslagsforbud – som følge av presumsjoner som
-den nevnte eller fordi noen med interesse i saken
-motsetter seg beslaget.
-
-[Side 340]
-
-338
-
-Kapittel 14
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-Det praktisk viktigste typetilfellet er at materialet hevdes å inneholde beskyttet korrespondanse
-med advokat eller helseopplysninger, jf. straffeprosessloven § 204, jf. § 119. Etter rettspraksis
-skal fremgangsmåten det er gitt anvisning på i
-straffeprosessloven § 205 tredje ledd annet punktum, gis tilsvarende anvendelse i slike tilfeller.154
-Bestemmelsen lyder: «Dersom politiet vil ta med
-dokumenter til retten for avgjørelse av om beslag
-kan tas, skal dokumentene forsegles i lukket konvolutt i nærvær av en representant for besitteren.»
-I denne typen saker legges det således opp til
-beslag i to omganger, med mellomliggende rettslig kontroll som kan ses som «et ledd i en pågående ransaking».155 Først tar politiet beslag i
-informasjonsbæreren, for eksempel en datamaskin (eller i praksis gjerne en speilkopi av harddisken), uten at informasjonen den inneholder, kommer til politiets kunnskap. Retten vurderer så om
-og i hvilken utstrekning materialet er omfattet av
-beslagsforbud. De deler av beslaget som ikke
-måtte være omfattet, utleveres politiet, som så kan
-gjennomgå det på vanlig måte og ta beslag i aktuelle dokumenter. Politiets første beslag kan således ses under synsvinkelen realbeslag, som så er
-gjenstand for videre gransking – hvilket er en
-nærliggende betraktningsmåte ved søk i en harddisk.156
-Rettslig kontroll med beslagsadgangen for
-store informasjonsmengder er ressurskrevende,
-og et første spørsmål er om det er grunn til å opprettholde en ordning med forhåndskontroll.
-14.8.3.2
-
-sjonsavlytting, som besluttes av retten.157 Kommunikasjonsavlytting kan dessuten sies å ha overvåkingskarakter, og det er ikke på forhånd gitt hvilke
-opplysninger som vil fremkomme. Ved beslag foreligger det derimot et materiale å ta stilling til, og
-særlig dersom det fremsettes uttrykkelige innsigelser mot beslaget, vil nok mange ha forventninger om en mulighet for rettslig avklaring.
-Det kan tenkes ulike alternativer til rettslig forhåndskontroll. En mulighet kunne i prinsippet
-være å nøye seg med håndheve bevis- og beslagsforbud som bevisføringsforbud for retten. Men så
-langt de underliggende bevisforbudene rettslig
-sett opprettholdes, kan det ikke samtidig åpnes for
-at politi og påtalemyndighet skaffer seg tilgang til
-vernede opplysninger, langt mindre at de nyttiggjør seg slike opplysninger utenrettslig. Spørsmålet er så om en etterfølgende kontroll – begrenset til spørsmål om bevisføringsforbud for retten,
-er tilstrekkelig betryggende og tillitvekkende.
-Høyesterett er inne på dette perspektivet i
-Rt. 2013 s. 968 avsnitt 39, der spørsmålet blant
-annet var om det var adgang til å la datamedarbeidere i Økokrim grovsortere innholdet i et databeslag forut for rettens vurdering av beslagsadgangen:
-«Avslutningsvis under dette punkt nevner jeg
-at ØKOKRIM har fremhevet at bare medarbeiderne ved dataavdelingen, og ikke etterforskerne, har hatt tilgang til speilkopien. Det er
-gjort et poeng av at taushetserklæring er
-undertegnet, og at man generelt må ha tillit til
-medarbeiderne i politi og påtalemyndighet.
-ØKOKRIM har gjort gjeldende at dette samlet
-sett gir en sikkerhet som kan likestilles med en
-forseglet overlevering til tingretten, jf. straffeprosessloven § 205 tredje ledd. Til dette bemerker jeg at det ikke er grunn til å reise tvil om
-integriteten til medarbeiderne i ØKOKRIMs
-dataavdeling eller til politi og påtalemyndighet
-for øvrig. Men så lenge speilkopien er i ØKOKRIMs besittelse, vil det alltid med rette eller
-urette kunne oppstå mistanke om at taushetsbelagt informasjon har tilflytt personer som
-ikke burde hatt den. Man kan også tenke seg
-situasjoner der den som sitter på avgjørende
-informasjon utsettes for et betydelig press. Et
-system som baserer seg på tillit gir derfor ikke
-de nødvendige rettssikkerhetsgarantier. Jeg
-viser her til EMDs dom 27. september 2005 i
-saken Sallinen mfl. mot Finland [EMD-199950882], som i avsnitt 89–92 nettopp fremhever
-
-Bør det være rettslig kontroll med beslagsfrihet?
-
-Gitt at det gjelder beslagsforbud, er det klart nok
-at reglene også må etterleves og håndheves. Men
-det er for så vidt ingen selvfølge at dette må skje
-ved rettslig forhåndskontroll, som i praksis innebærer betydelige utfordringer, ikke minst hva
-gjelder ressursbruk. Ulempene ved forhåndskontroll må veies mot alternative kontrollmuligheter
-og hensynet til de beskyttelsesverdige verdier
-som gjør seg gjeldende.
-Ved vurderingen er det et poeng at påtalemyndigheten kan treffe beslutning om beslag, uten å
-innhente rettens tillatelse. Situasjonen er således
-annerledes enn for eksempel ved kommunika154
-
-Rt. 1986 s. 1149, Rt. 2011 s. 296 avsnitt 38 og Rt. 2013 s. 968
-avsnitt 28.
-155
-Rt. 2011 s. 296 avsnitt 40.
-156
-Se forutsetningsvis Rt. 2011 s. 1188 avsnitt 43, jf. påtalemyndighetens anførsler.
-
-157
-
-Se til dette overveielsene i Rt. 2011 s. 1188 avsnitt 46.
-
-[Side 341]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-behovet for ‘proper legal safeguards’ ved
-beslag hos advokat.»
-De hensyn det er vist til her, taler etter utvalgets
-syn med styrke for å opprettholde en ordning med
-rettslig forhåndskontroll med adgang til å gjennomgå beslaglagt materiale i tilfeller der det er
-spørsmål om beslagsforbud. Allerede en rettslig
-kontroll med innholdet i beslaglagt materiale innebærer inngrep i de interesser som vernes av
-bevisforbud. Dersom det er på det rene at et bevisforbud kommer til anvendelse, skal således heller
-ikke retten se vernede dokumenter eller annet
-materiale. En forutsetning er naturligvis her som
-ellers at påtalemyndighetens pretensjoner må
-bygge på samvittighetsfulle overveielser og på
-den rettsoppfatning som antas å ha de beste grunner for seg. Mener påtalemyndigheten at hele
-eller en avgrensbar del av et materiale er omfattet
-av bevis- og beslagsforbud, skal det ikke forelegges retten for gjennomgang.
-Behovet for rettslig kontroll aktualiserer seg i
-ulike situasjoner der det er usikkerhet om hvorvidt det gjelder beslagsforbud.
-For det første har man situasjonen der påtalemyndigheten pretenderer at det er adgang til
-beslag, og dette bestrides av en berettiget.
-Såfremt innsigelsen i rimelig grad er konkretisert,
-og det foreligger en reell mulighet for at det gjelder beslagsforbud, vil det i slike tilfeller være vanskelig å komme utenom rettslig kontroll. En uavhengig kontroll er i slike tilfeller nødvendig for i
-tilstrekkelig grad å ivareta de hensyn som ligger
-til grunn for bevisforbudene.158
-For det andre har man situasjonen der ingen
-motsetter seg beslag, men det aktuelle materialet
-presumtivt inneholder beslagsfrie opplysninger,
-som ikke kan avgrenses uten gjennomgang av
-innholdet, så vel som opplysninger som kan
-beslaglegges. I slike tilfeller synes det etter gjeldende rett å være en viss adgang for politiet til en
-foreløpig gjennomgang på stedet for å skaffe seg
-et grunnlag for å ta stilling til beslagsadgangen.159
-Utvalget legger til grunn at det avgjørende må
-være hvor sterk presumsjonen er for at gjennomgangen vil medføre innsyn i beslagsfritt materiale.
-Ved spørsmål om beslag av materiale hos en advokat vil det måtte gjelde en presumsjon for beslagsfrihet for deler av materialet som innebærer at retten må stå for sorteringen av hvilke opplysninger
-som kan og ikke kan beslaglegges.160
-158
-
-Dagens rettstilstand bygger også på overveielser i denne
-retning, se Rt. 1986 s. 1149 (s. 1154–1155).
-159
-Se Straffeprosesslovkomitéen (1969) s. 256.
-
-339
-
-Kapittel 14
-
-For det tredje har man situasjonen der materialet utvilsomt inneholder materiale som i
-utgangspunktet er underlagt beslagsforbud, men
-der påtalemyndigheten anfører at et unntak kommer til anvendelse. I slike tilfeller følger det av
-gjeldende rett at retten må foreta den relevansvurdering som i andre tilfeller tilkommer påtalemyndigheten, for at det ikke skal gjøres et større
-innhugg i reglene om taushetsplikt og bevisforbud enn nødvendig.161 Utvalget mener dette
-hensynet fortsatt bør få gjennomslag for lovens
-ordning.
-14.8.3.3
-
-Gjennomgang av store beslag. Krav til
-rettens kontroll og praktiske utfordringer
-
-Aksepteres det at rettslig forhåndskontroll av
-beslagsadgangen etter omstendighetene er nødvendig, er det behov for en vurdering av enkelte
-sider av ordningen.
-Ved store beslag, ikke minst databeslag, er det
-– i tillegg til spørsmålet om beslagsfritt materiale
-– en utfordring for rettens kontroll at beslaget
-typisk vil inneholde mye materiale uten betydning
-for saken. I den grad det relevante materialet lar
-seg skille ut, er det selvsagt hensiktsmessig at
-dette gjøres, og det kreves også etter gjeldende
-rett, jf. Rt. 1986 s. 1149 (s. 1153):
-«Hvis det er grunn til å anta at det i en større
-dokumentsamling som finnes på ransakingsstedet, er dokumenter som er av betydning
-som bevis, men det er vanskelig å finne frem
-til disse dokumenter på stedet, må av praktiske grunner de deler av samlingen som er
-aktuelle, kunne beslaglegges for nærmere
-undersøkelse. Men det vil ikke være hjemmel
-for å ta med deler av samlingen som etter den
-undersøkelse som praktisk kan gjøres på stedet, ikke er av betydning som bevis. Det må
-også sees hen til den begrensning i beslagsadgangen som følger av straffeprosessloven
-§ 204 og § 205.
-Det er en uriktig lovforståelse når det synes
-å være lagt til grunn at politiet som ledd i selve
-ransakingen og uten undersøkelse eller vurdering av forholdet til beslagsreglene kan overta
-besittelsen av alle dokumenter som finnes på
-ransakingsstedet.»
-
-160
-
-Se tilsvarende vurderinger i Rt. 1996 s. 1081 og Rt. 2013
-s. 68 avsnitt 23.
-161
-Se Rt. 2011 s. 296 avsnitt 42–43.
-
-[Side 342]
-
-340
-
-NOU 2016: 24
-
-Kapittel 14
-
-Ny straffeprosesslov
-
-Den rettstilstand som her er lagt til grunn, vil også
-gjelde etter utvalgets forslag. Påtalemyndigheten
-har utvilsomt et ansvar for å begrense beslagsmengden, ut fra lovens ransakings- og beslagsformål sammenholdt med forholdsmessighetsprinsippet.
-Men i en del tilfeller er det ikke til å unngå at
-retten får et svært omfattende materiale til gjennomgang. Et sentralt spørsmål er da hvordan rettens kontroll praktisk skal gjennomføres: I hvilken grad bør det åpnes for teknisk bistand utenfra, og hvem bør kunne yte slik bistand?
-Etter gjeldende rett er det åpnet for uavhengig
-bistand til gjennomgangen. I Rt. 2013 s. 968
-avsnitt 46 og 47 heter det:
-«Derimot kan jeg – på samme måte som lagmannsretten – ikke se at noe er til hinder for at
-en uavhengig datakyndig engasjeres av retten
-til å foreta de nødvendige søk. Lovens system
-er at retten skal gjennomgå materiale som
-beslaglegges hos advokat. På dette som på
-andre områder må retten ved behov kunne
-knytte til seg en fagkompetanse som den selv
-ikke besitter, for eksempel gjennom oppnevning av sakkyndig. Jeg utelukker heller ikke at
-denne personen etter en konkret vurdering
-kan søke teknisk bistand hos en medarbeider
-fra ØKOKRIM i en slik prosess, så lenge den
-oppnevnte sakkyndige har det overordnede
-ansvaret. Følgelig er det korrekt lovtolkning
-når lagmannsretten har kommet til at tingretten kunne og skulle ha oppnevnt en uavhengig
-datakyndig til å bistå seg, så lenge den selv
-ikke ønsket å gjennomføre søkingen.
-Jeg er enig med lagmannsretten i at den
-fremgangsmåte som her skisseres, kan by på
-praktiske utfordringer. Etter mitt syn kan det
-ikke være avgjørende, idet et annet system i tilfelle må utformes av lovgiver.»
-Som det fremgår, kan det kapasitetsproblem som
-sorteringsarbeidet innebærer, etter gjeldende rett
-ikke løses ved å overlate det til datakyndige personer ansatt i politi og påtalemyndighet. Uttalelsen
-om at et annet system eventuelt må utformes av
-lovgiver, gir foranledning til enkelte bemerkninger, uten at det er nærliggende for Straffeprosessutvalget å gå nærmere inn på hvordan behovet for
-teknisk bistand best kan løses organisatorisk.
-Utvalget nøyer seg således med kort å peke på
-noen muligheter som kunne være aktuelle for
-videre utredning.
-En forutsetning for utformingen av et eventuelt nytt system må være at det legger til rette for
-
-tilstrekkelig uavhengig rettslig kontroll. Med
-sikte på ressursbruk er det behov for å etablere et
-oversiktlig system som er klart til bruk, i stedet
-for skiftende løsninger som prøves ut fra sak til
-sak i de ulike domstoler. Utfordringen er så på billigst mulig måte å sikre teknisk bistand med tilstrekkelig kapasitet og kompetanse, og som dessuten fremstår tillitvekkende utad. De nevnte krav
-taler formentlig for i alle fall en viss grad av sentralisering. Ulike modeller med ulikt ambisjonsnivå
-kan tenkes. En mulighet er et eget nasjonalt støtteorgan – frittstående eller tilknyttet for eksempel
-Domstoladministrasjonen eller Oslo tingrett. Man
-kan også tenke seg avdelinger med ansatte teknikere i de enkelte domstoler, eller man kan som i
-dag gjøre bruk av eksterne sakkyndige – som
-eventuelt kan oppføres på lister eller systematiseres på annen måte.
-Oslo tingrett har innenfor dagens rettslige rammer utarbeidet egne retningslinjer om behandling
-av beslag, «Den praktiske gjennomføringen – elektroniske dokumenter/databærere».162 Utvalget
-fremmer ingen forslag om hvordan behovet for
-ulike typer bistand til gjennomgang av beslag kan
-løses rent praktisk, men utkastet § 19-9 åpner for
-at det kan gis nærmere regler i forskrift.
-14.8.3.4
-
-Vurdering av rettslige forbedringsmuligheter
-
-Grunnspørsmålet om krav til rettslig kontroll med
-visse beslag, og utvalgets syn på den prinsipielle
-rekkevidden av en slik kontroll, er behandlet i det
-foregående. Innenfor de skisserte overordnede
-rammer er det grunn til å vurdere om det kan gjøres lovendringer som vil bidra til å avklare og forenkle rettens behandling av beslag.
-Et første spørsmål er om informasjonsmengden kan begrenses ved å innskjerpe påtalemyndighetens plikt til, så langt det lar seg gjøre, bare å
-innhente relevant informasjon. På dette punktet
-har utvalget kommet til at det neppe er noe å
-vinne på en særlig lovregulering. Dels er det
-grunn til å tro at politi og påtalemyndighet – selv
-om det alltid er forbedringsmuligheter – allerede
-bestreber seg på å unngå overflødig informasjon,
-dels er de rettslige utgangspunkter allerede klare
-på dette punkt.
-Et neste spørsmål er om det kan gis regler
-som bedre sikrer de berørtes medvirkning til å
-avklare hvilke deler av et materiale som kan
-beslaglegges, og hvilke opplysninger som er
-undergitt beslagsforbud. Også på dette punktet er
-162
-
-Oslo tingrett (2014), se særlig punkt 5.
-
-[Side 343]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-det begrenset hvor mye som kan oppnås med lovregler alene, men utvalget antar loven kan legge
-bedre til rette for avklaringer.
-Det er grunn til å kreve at innsigelser mot
-beslagsadgangen skal konkretiseres i rimelig
-utstrekning. Slike avklaringer kan det være
-behov for mer generelt i tilknytning til enkeltstående rettergangsskritt, og utkastet § 30-1 annet
-ledd gir således anvisning på saksstyringsmekanismer som kan være anvendelige også ved
-spørsmål om beslagsforbud. Videre er det behov
-for å involvere de berørte i valg av sakkyndige,
-utforming av mandat og hvilken konkret fremgangsmåte retten bør benytte, for eksempel ved
-å gi innspill til aktuelle søkeord. Også med sikte
-på slike avklaringer er utvalgets generelle reguleringer anvendelige. Foruten de nevnte saksstyringsmekanismer i utkastet § 30-1 annet ledd
-vises det til kontradiksjonsbestemmelsen i utkastet §§ 32-4 og 32-5 og til reglene om sakkyndighet i utkastet kapittel 11.
-
-14.8.4 Utleveringspålegg
-14.8.4.1
-
-Utleveringspålegg som en form for beslag
-
-Et utleveringspålegg kan ses som et beslag som
-den pålegget retter seg mot, plikter å medvirke
-til, og utkastet kapittel 19 bygger på en slik tilnærming. Konstruksjonen er således at
-utleveringspålegg også innebærer en forutsatt
-beslutning om beslag, og de utfyllende reglene
-om krav til beslagsrapport, adgang til å bringe
-spørsmålet om opprettholdelse av beslag inn for
-retten, realisering av beslag mv. kommer direkte
-til anvendelse.
-14.8.4.2
-
-Gjenstand for utleveringspålegg – ting som
-kan beslaglegges som bevis. Forholdet til
-vitneplikt
-
-Gjenstanden for utleveringspålegg er etter gjeldende rett slike ting som kan beslaglegges med
-bevisformål, jf. straffeprosessloven § 210. Utvalget
-har vurdert om det også bør være adgang til å
-kreve utlevert ting for andre beslagsformål, det vil
-si med sikte på inndragning eller for å kunne
-utleveres til en berettiget, men har forkastet dette.
-Adgangen til å beslutte utleveringspålegg er
-både etter gjeldende rett og etter utkastet § 19-7
-koblet til vitnepliktens grenser. Koblingen mellom
-utleveringsplikt og vitneplikt er begrunnet i at de
-samme hensyn som ligger til grunn for vitnefritak,
-tilsier at det heller ikke bør kreves medvirkning
-fra den det gjelder, til annen bevisinnhenting.
-
-341
-
-Kapittel 14
-
-Fordi en ting kan ha betydning som bevis og
-samtidig være gjenstand for inndragning eller
-kunne kreves utlevert til en berettiget, bør vitnefritak og vitneforbud i tråd med dette utelukke
-pålegg om utlevering av ting uansett beslagsformål.
-For personer med vitneplikt kunne man tenke
-seg plikt til å utlevere gjenstander for alle beslagsformål, men utkastet bygger på at en slik plikt
-ville gripe for sterkt inn i privatrettslige forhold,
-og det synes heller ikke å være noe stort behov
-for en slik utvidelse.
-
-14.9 Inngrep i kommunikasjon mv.
-14.9.1 Oversikt
-Utkastet kapittel 20 viderefører straffeprosesslovens bestemmelser om kommunikasjonsavlytting og annen kontroll med kommunikasjonsanlegg i kapittel 16 a, romavlyttingsbestemmelsen
-i § 216 m, som er én av to bestemmelser i kapittel
-16 b, samt bestemmelsene om dataavlesing i
-kapittel 16 d.
-Den andre bestemmelsen i kapittel 16 b,
-§ 216 l om avlytting og opptak av samtaler politiet
-selv deltar i, eller med samtykke fra en samtalepart, videreføres i utkastet kapittel 21 om observerende, kontrollerende og påvirkende tiltak, jf.
-punkt 14.10.1. I disse tilfellene er det ikke den
-tekniske avlyttingen og opptaket som kompromitterer kommunikasjonens fortrolighet; den gir
-kun notoritet om kommunikasjon som myndighetene har fått tilgang til gjennom samtaleparten.
-14.9.2 Hensyn ved reguleringen av tvangstiltak
-med overvåkingskarakter
-Som redegjort for i punkt 14.1 går utvalget i liten
-grad inn på spørsmål om mer grunnleggende
-endringer i politiets metodetilgang. I stedet
-begrenses vurderingene og forslagene til strukturelle endringer, forenklinger og en viss harmonisering av inngrepsterskler innenfor rammene av
-dagens inngrepsnivå. Også med tanke på disse
-vurderingene er det grunn til å påpeke visse særtrekk ved det som kan karakteriseres som metoder med overvåkingskarakter.
-Ofte forbeholdes uttrykket «overvåking» for
-virksomhet i det forebyggende sporet, og kanskje
-særlig kontroll som er rettet mot enhver. Men
-også når ulike former for avlytting og kontroll
-med kommunikasjon har etterforskingsformål,
-kan virksomheten sies å ha overvåkingskarakter i
-den forstand at metodebruken for en stor del inn-
-
-[Side 344]
-
-342
-
-Kapittel 14
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-rettes med sikte på å fange opp bevis som ennå
-ikke foreligger. Den mistenktes kommunikasjon
-mv. følges løpende i håp om å fremskaffe opplysninger av betydning, og situasjonen er således en
-annen enn når det stilles relevante spørsmål i et
-avhør, eller det tas beslag i (riktignok mer eller
-mindre) bestemte bevis.
-Dette har som konsekvens at relevansvurderingen av de opplysninger som innhentes ved
-avlytting mv., må skje i ettertid. En konsekvens av
-dette er at det lett kan bli innhentet mye informasjon uten betydning for saken, herunder informasjon om utenforstående tredjepersoner. Av samme
-grunn innebærer slike tiltak en særlig risiko for at
-politiet får tilgang til informasjon som er omfattet
-av bevisforbud, og som derfor ikke skulle vært
-innhentet. Personvernhensyn får således særlig
-vekt, samtidig som faren for at hemmelig metodebruk med overvåkingskarakter kan virke dempende på borgernes frie kommunikasjon aktualiserer de verdier som ligger til grunn for ytringsfriheten.
-De nevnte hensyn må veies mot behovet for
-avlytting mv. av hensyn til en effektiv straffeforfølgning.
-Det vises til merknadene til utkastet kapittel
-20.
-
-14.10.2 Lovfesting av ulovfestede metoder
-
-Utkastet kapittel 21 viderefører for det første
-bestemmelser som i dag er regulert i straffeprosessloven. Det gjelder for det første inngrepshjemlene i kapittel 15 a om teknisk sporing (utkastet § 21-2) og skjult kameraovervåking (utkastet
-§ 21-3). For det andre videreføres bestemmelsen i
-§ 216 l om hemmelig avlytting av opptak av samtale med samtykke fra en samtalepart (utkastet
-§ 21-4). Disse bestemmelsene er nylig vurdert,163
-og utkastet viderefører i det alt vesentlige gjeldende rett, men med strukturelle endringer i tråd
-med de generelle prinsipper som ligger til grunn
-for lovutkastets systematikk, herunder fellesreguleringene i utkastet kapittel 14.
-For det andre inneholder lovutkastet bestemmelser om metoder som i dag benyttes på ulovfestet grunnlag, nemlig spaning (utkastet § 21-1),
-infiltrasjon (utkastet § 21-4) og påvirkning av hendelsesforløp og bevisprovokasjon (utkastet § 21-5).
-
-Politimetodeutvalgets flertall gikk i 2004 inn for å
-lovfeste det de kalte «observerende og manipulerende metoder», herunder spaning, infiltrasjon og
-provokasjon, som forebyggende tiltak.164 Flertallet
-tok utgangspunkt i at det er tale om metoder som
-er i bruk med den «alminnelige handlefrihet» som
-hjemmel, og at grensen for hva politiet kan foreta
-seg, i praksis har vært trukket ved det straffbare.
-Ved vurderingen av straffbarhetsgrensen vises
-det også til at det har vært antatt at «den uskrevne
-rettsstridsreservasjon i noen grad åpner for at
-politiet kan begå straffbare handlinger som et
-ledd i polititjenesten», og at «[n]år norsk rett i tillegg har trukket snevre grenser for hvilke inngrep i den private sfære som rammes av straffebestemmelser, er resultatet blitt at politiet har hatt
-anledning til å gå langt med den alminnelige handlefrihet som hjemmel, se kapittel 4.4».
-Flertallet fremhevet videre at det ikke er fullt
-ut avklart i hvilke tilfeller «observerende og manipulerende» metoder krever lovhjemmel for å oppfylle vilkårene i EMK artikkel 8 nr. 2, men at flere
-av de politimetoder som i dag praktiseres, kan
-falle inn under den vernede sfære etter nr. 1 i konvensjonsbestemmelsen. Selv om kravet til hjemmel for inngrep etter konvensjonen ikke forutsetter formell lov, legger Politimetodeutvalget til
-grunn at de innholdsmessige krav til hjemmelsgrunnlag uansett best ivaretas gjennom lovregulering. Det vises også til at den alminnelige utvikling i de vesteuropeiske land – med henvisning til
-Finland, Nederland og Storbritannia hva gjelder
-spaning og infiltrasjon – går i retning av å lovfeste
-politimetoder. Endelig ble det vist til at lovgiver
-bør ta uttrykkelig stilling til provokasjon, og motargumenter knyttet til faren for å blottstille politiets metoder ble ikke ansett avgjørende for en mer
-overordnet lovregulering av innholdet i og grunnvilkårene for metodene.
-Politimetodeutvalgets mindretall – medlemmet Kvande – var enig i at mye, herunder Norges
-forpliktelser etter EMK, tilsier at metoder som
-infiltrasjon og provokasjon bør lovfestes. Mindretallet la imidlertid avgjørende vekt på at utvalget
-ikke hadde som mandat å vurdere lovfesting av
-etterforskingsmetodene, som burde utredes først,
-og at det ville være å gå «baklengs» inn i problemstillingen å foreslå lovfesting av slike metoder «for
-et lite spesialområde der formålet er å avverge en
-straffbar handling».165
-
-163
-
-164
-
-14.10 Observerende, kontrollerende og
-påvirkende metoder
-14.10.1 Oversikt
-
-Se Prop. 68 L (2015–2016) for så vidt gjelder reglene i straffeprosessloven kapittel 15 a.
-
-165
-
-Se NOU 2004: 6 punkt 10.2.1.
-Se NOU 2004: 6 punkt 10.2.2.
-
-[Side 345]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-Straffeprosessutvalget slutter seg til de argumenter som ble fremholdt av Politimetodeutvalget
-for lovregulering, og som har bæring på tross av
-skillet mellom forebyggende og etterforskende
-metodebruk. De hensyn som ligger til grunn for
-Norges folkerettslige forpliktelser om krav til
-legalitetsstyrte inngrep, knytter an til rettsstatsidealer som har sterk forankring også i norsk
-rettsliv. Legalitetsprinsippet er, i tillegg til å
-utgjøre en rettslig skranke, også et rettspolitisk
-ideal. Dessuten kan lovregulering åpne for effektivisering av metodene ved at ellers ulovlig virksomhet tillates. Etter utvalgets syn er det ønskelig
-å lovfeste spaning, infiltrasjon og provokasjonslignende etterforskingsmetoder samt bruk av uriktig legitimasjon. I det alt vesentlige foreslås det å
-kodifisere ulovfestet rett og begrense lovbestemmelsene til en angivelse av metodenes innhold og
-sentrale grunnvilkår.
-14.10.3 Spaning
-I Politimetodeutvalgets forslag til definisjon i politiloven § 222-1 er «spaning» definert slik:
-«Med spaning menes politiets innsamling av
-opplysninger når interessen er rettet mot
-bestemt person eller bestemt gruppe av personer, eller når politiets interesse er rettet mot et
-bestemt sted dersom interessen skyldes mistanke om eller forberedelse til et straffbart forhold. Spaning omfatter likevel bare undersøkelser som ikke er rettet mot privat lukket
-rom.»166
-Utvalget bygger på en lignende forståelse, der
-kjernen er «observasjon». Dessuten bør spaningsbegrepet kvalifiseres slik at det kreves at observasjonen er «systematisk eller langvarig». Mer kortvarige og tilfeldige observasjoner bør ikke omfattes av lovens spaningsregler, selv om politiet – for
-eksempel under patruljevirksomhet – retter sin
-oppmerksomhet mot mulig straffbar aktivitet.
-Etter utvalgets syn er det heller ikke hensiktsmessig å avgrense adgangen til metodebruken
-ved en innskrenkende definisjon som fastslår at
-observasjoner som foretas mot privat lukket rom,
-ikke er spaning. Hvor det kan gjennomføres spaning, bør reguleres direkte i hjemmelsbestemmelsens situasjonsbetingelser. Utvalget foreslår at det
-kan foretas observasjon av mistenkte «på offentlig
-sted og mot privat lukket sted dersom den som
-observerer befinner seg utenfor».
-166
-
-Se NOU 2004: 6 s. 275.
-
-343
-
-Kapittel 14
-
-14.10.4 Teknisk sporing
-Teknisk sporing ble lovfestet som metode ved lov
-3. desember 1999 nr. 82, og regulert i to bestemmelser, straffeprosessloven §§ 202 b og 202 c. Den
-første bestemmelsen hjemler plassering av teknisk
-peileutstyr på «kjøretøy, gods eller andre gjenstander for å klarlegge hvor den mistenkte eller gjenstandene befinner seg». Den andre – om såkalt
-personnær teknisk sporing – hjemler plassering av
-slikt utstyr i «klær eller gjenstander» eller i «veske
-eller annen håndbagasje» som den mistenkte
-bærer på seg – og åpner dessuten for innbrudd for
-plassering av teknisk peileutstyr som nevnt i
-§ 202 b. Vilkårene for personnær teknisk sporing
-er klart strengest. For det første er kriminalitetskravet forskjellig i de to bestemmelsene. Etter
-§ 202 c er strafferammekravet 10 år, mens det er
-5 år etter § 202 b. For det andre kreves rettens
-beslutning etter § 202 c, mens påtalemyndigheten
-selv kan beslutte sporing etter § 202 b.
-Utvalget har vurdert om det er grunn til fortsatt å skille mellom personnær og annen teknisk
-sporing.
-Det er nok så at såkalt personnær teknisk
-sporing etter § 202 c gjennomgående er et mer
-inngripende tiltak enn sporing av kjøretøy mv.
-etter § 202 b. Men begge bestemmelsene åpner
-for at formålet med tiltaket kan være å klarlegge
-hvor den mistenkte befinner seg. Dessuten er det
-tale om nyanser. Det er ikke slik at teknisk sporing etter § 202 c helt generelt gir mer informasjon
-om mistenktes bevegelighetsmønster; en mye
-brukt motorsykkel kan for eksempel være bedre
-egnet til å følge mistenkte enn en lite brukt veske.
-Det er for øvrig grunn til å se hen til at man
-kan spore en mistenkts bevegelser gjennom
-løpende innhenting av trafikkdata i medhold av
-§ 216 b. Etter sistnevnte bestemmelse er kriminalitetskravet det samme hva gjelder strafferamme –
-5 år – som for «ordinær» teknisk sporing etter
-§ 202 b. Dessuten er kriminalitetskravet angitt
-med henvisning til en rekke flere bestemmelser i
-§ 216 b enn i § 202 c.
-Teknisk sporing benyttes dels som alternativ
-til, dels sammen med spaning, både av effektiviserings- og sikkerhetsgrunner. Det taler for at det
-ikke bør gjelde for strenge vilkår for å benytte
-metoden i den form som etter omstendighetene er
-mest hensiktsmessig.
-På denne bakgrunn foreslår utvalget én
-bestemmelse for all teknisk sporing, i utkastet
-§ 21-2, med tilnærmet samme kriminalitetskrav
-som i straffeprosessloven § 202 b, jf. utkastet § 20-1,
-likevel slik at strafferammekravet settes til fengsel
-
-[Side 346]
-
-344
-
-NOU 2016: 24
-
-Kapittel 14
-
-Ny straffeprosesslov
-
-i 6 år eller mer, jf. punkt 14.3.3.2. I lys av vurderingen av tiltakets karakter er ikke § 21-2 tatt med i
-oppregningen av tvangstiltak som etter utkastet
-§ 14-2 tredje ledd bare kan benyttes i avvergende
-øyemed dersom «det er av vesentlig betydning for
-sakens opplysning».
-Et særlig spørsmål er om beslutningsmyndigheten bør legges til påtalemyndigheten eller til retten. Parallellen til innhenting av trafikkdata mv.
-etter utkastet § 20-1 kunne tale for å legge kompetansen til retten. Men slik metodebruk åpner for å
-innhente informasjon utover geografisk plassering
-og er etter utvalgets syn mer inngripende enn teknisk sporing. Dessuten tilsier den praktiske sammenhengen mellom sporing og spaning at beslutningsmyndigheten legges til påtalemyndigheten,
-og utvalget antar samlet sett at det ikke er vesentlige betenkeligheter knyttet til en slik ordning.
-14.10.5 Skjult kameraovervåking
-Skjult kameraovervåking ble regulert som etterforskingsmetode i straffeprosessloven § 202 a ved
-lov 15. mars 1991 nr. 5.167 Lovfestingen var en følge
-av at det samtidig ble innført forbud mot skjult
-fjernsynsovervåking i straffeloven 1902 § 390 b
-(som senere ble erstattet av personopplysningsloven § 40). Det ble dermed klart at det var nødvendig med en uttrykkelig lovhjemmel for metoden,
-som tidligere ble benyttet på ulovfestet grunnlag.
-Reglene om skjult kameraovervåking er nylig
-vurdert, og utvalget viderefører i det alt vesentlige
-gjeldende rett.
-14.10.6 Infiltrasjon
-I politimetodeutvalgets forslag til definisjon i politiloven § 222-1 fjerde ledd er «infiltrasjon» definert
-slik:
-«Med infiltrasjon forstås det at en polititjenestemann eller en som opptrer på vegne av politiet
-uten å gi seg til kjenne, holder kontakt med en
-person eller gruppe av personer for å hente ut
-informasjon. Som infiltrasjon regnes også at
-politiet avlytter samtaler politiet ikke deltar i
-dersom bare den ene av samtalepartene har
-167
-
-Straffeprosessloven § 202 a ble opprinnelig plassert i
-lovens kapittel 15 om ransaking, men ble ved en revisjonen
-av metodereglene i 1999 endret og flyttet til et eget kapittel
-15 a om skjult fjernsynsovervåking og teknisk sporing, jf.
-lov 3. desember 1999 nr. 82 om endringer i straffeprosessloven og straffeloven m.v. (etterforskningsmetoder
-m.v.). Bestemmelsen er senere endret ved lov 14. april 2000
-nr. 31 og 21. juni 2013 nr. 86 (ikke i kraft).
-
-gitt samtykket, og også gjennomføring av samtale når samtaleparten ikke er kjent med at han
-samtaler med en polititjenestemann.»168
-Utvalget legger til grunn at en forståelse i denne
-retning er hensiktsmessig for å avgrense aktivitet
-som kan gripe sterkt inn i privatliv og fortrolighetsforhold, og som bør lovreguleres særskilt.
-Det sentrale er at politiet, eller noen som handler
-på vegne av politiet opptrer fordekt, og utkastet
-§ 21-4 tar dette som utgangspunkt.
-Avlytting og opptak av samtale med samtykke
-fra en samtalepart er i dag regulert i straffeprosessloven § 216 l. Dette kan ses som et særlig virkemiddel for eller ved infiltrasjon, jf. også Politimetodeutvalgets siterte definisjon. Utvalget foreslår derfor å regulere denne formen for avlytting
-og opptak i infiltrasjonsbestemmelsen.
-Ved infiltrasjon ligger det i sakens natur at det
-kan være aktuelt for infiltratøren å tilpasse sin
-adferd for å få innpass og for (fortsatt) å kunne
-opptre fordekt. I denne sammenheng kan politiet
-eller dets hjelpere ha et behov for å begå ellers
-straffbare handlinger, og det er et vanskelig spørsmål i hvilken grad det kan og bør tillates.
-Politiets adgang til å begå ellers straffbare
-handlinger må rimeligvis ha et rettslig grunnlag.
-Den alminnelige rettsstridsreservasjonen vil formentlig være det mest nærliggende grunnlaget
-for innskrenkende tolking av aktuelle straffebud.
-Dessuten kan nødrett etter omstendighetene
-være et mulig rettsgrunnlag. Nødrett kan ses som
-en særlig form for rettsstridsreservasjon, men vilkårene er strengere, ved at det gjelder krav om en
-mer umiddelbar trussel og stor interesseovervekt. På den annen side kan nok nødrett etter
-omstendighetene tjene som rettsgrunnlag for mer
-alvorlige handlinger enn rettsstridsreservasjonen.
-I Rt. 2000 s. 1345 heter det om politiets adgang
-til å begå ellers straffbare handlinger i form av
-narkotikalovbrudd (s. 1348):
-«Det er i rettspraksis og teori akseptert at politiet innenfor visse grenser kan opptre fordekt
-og med skjult identitet under etterforsking av
-alvorlig narkotikakriminalitet. Det skjer således i forbindelse med infiltrasjon og ved ulike
-former for provokasjon. Og som Andenæs
-anfører i Norsk straffeprosess I, 2. utg. side
-257: ‘Kjøp av narkotika er i alminnelighet straffbart (straffeloven § 162), men det anses berettiget når kjøpet blir foretatt av en politimann for
-å få bevis mot en narkotikaselger.’»
-168
-
-Se NOU 2004: 6 s. 275.
-
-[Side 347]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-Utvalget legger til grunn at en viss adgang for
-politiet til å begå ellers straffbare handlinger, bør
-videreføres. Men en slik adgang må holdes innenfor relativt snevre rammer i lys av selve utgangspunktet – at det er tale om å la rettshåndhevende
-myndigheter bevege seg inn på området for det
-ellers straffbare – og av hensyn til de aktuelle vernede interesser. Det foreslås således at det åpnes
-for å tillate ellers straffbare handlinger i forbindelse med infiltrasjon, men med en forsvarlighetsbegrensning der det skal ses hen til oppdragets
-viktighet og de interesser som vil bli krenket.
-For å lette og sikre gjennomføring av blant
-annet infiltrasjon foreslår for øvrig utvalget også å
-åpne for bruk av uriktige identifikasjonsdokumenter, se utkastet § 14-5 fjerde ledd.
-14.10.7 Påvirkning av hendelsesforløp og
-bevisprovokasjon
-Politiets påvirkning av straffbare handlingers forløp omtales ofte som «provokasjon» eller «provokasjonslignende tiltak». Problemfeltet omfatter en
-rekke problemstillinger, herunder knyttet til medvirkningsansvar eller tjenstlig ansvar for politiet,
-og om betydningen av ulike grader av påvirkning
-for lovbryterens straffansvar. Høyesterett har tatt
-stilling til slik metodebruk en rekke ganger,169 og
-riksadvokaten har gitt nærmere retningslinjer om
-provokasjon som etterforskingsmetode.170
-Det sentrale grunnvilkåret for provokasjon går
-ut på at det ikke aksepteres at politiet fremkaller
-en handling som ikke ellers ville ha blitt begått.
-Det godtas likevel påvirkning som gir årsak til
-visse endringer i tid, sted og utførelse av den
-straffbare handling – men uten at det har påvirket
-hendelsene på en måte som «har gjort handlingen
-straffbar eller gjort handlingen mer straffverdig».171 Brudd på grunnvilkåret medfører – foruten å være urettmessig metodebruk – straffrihet
-for den provoserte.
-I tillegg til grunnvilkåret gjelder tilleggsvilkår til
-planlegging, kontroll og notoritet. Dessuten er
-bruksområdet for metoden gjennom riksadvokatens rundskriv – som bygger på praksis fra Høyesterett – begrenset til situasjoner «hvor det fremstår
-som forholdsmessig, vurdert mot det samfunnsonde den aktuelle kriminalitet representerer».
-169
-
-Se Rt. 1984 s. 1076, Rt. 1992 s. 1088, Rt. 1993 s. 473, Rt. 1994
-s. 319, Rt. 1997 s. 1659, Rt. 1998 s. 407, Rt. 2000 s. 1223, Rt.
-2000 s. 134, Rt. 2000 s. 1482, Rt. 2006 s. 120, Rt. 2007 s. 268,
-Rt. 2008 s. 1659 og Rt. 2011 s. 1455.
-170
-Se riksadvokaten (2/2000).
-171
-Hopsnes (2003) s. 97.
-
-345
-
-Kapittel 14
-
-Noe nærmere kriminalitetskrav er ikke oppstilt,
-men det heter at metoden bør kunne brukes dersom kriminaliteten det er tale om, bedømmes «som
-et alvorlig samfunnsonde».172 Videre understreker
-rundskrivet at metoden «i utgangspunktet [er] et
-sekundært etterforskingsmiddel». Endelig stilles
-det særlige krav til beslutningsnivå, som etter riksadvokatens rundskriv er lagt til statsadvokaten.
-Utvalget legger til grunn at det er hensiktsmessig å lovfeste de sentrale vilkår som er utviklet
-i praksis, se utkastet § 21-5, jf. også § 21-6.
-Bestemmelsen åpner for påvirkning som ikke bryter med grunnvilkåret om at det ikke må fremkalles en handling som ikke ellers ville ha blitt
-begått. Dessuten gjøres det unntak fra grunnvilkåret med sikte på såkalt bevisprovokasjon, det vil si
-provokasjon som tar sikte på å fremskaffe bevis
-for et annet straffbart forhold enn det som fremprovoseres. Det fremprovoserte forhold kan i
-slike tilfeller ikke påtales.
-Kravet til forholdsmessighet vil følge av forslaget til generell regulering i utkastet § 14-1. Beslutningsmyndighet foreslås lagt til påtalemyndigheten, med unntak for skjult kameraovervåking
-etter utkastet § 21-3, se utkastet § 21-6. Hvilket
-nivå i politiet som har beslutningsmyndighet, er et
-stykke på vei angitt i utkastet § 14-3 første ledd
-tredje punktum. Nærmere instruks om hvilket
-nivå i påtalemyndigheten som skal treffe beslutning om de ulike tiltak, det vil si om det skal kreves at statsadvokaten involveres, bør etter utvalgets syn overlates til forskrift eller instruks, jf. forskriftshjemmelen i utkastet § 21-7.
-
-14.11 Inngrep i mistenktes formue.
-Heftelse og båndlegging
-Utkastet kapittel 22 viderefører ulike typer formuesinngrep.
-For det første videreføres ordningen med «heftelse» i visse formuesgjenstander til dekning av
-pengeansvar som en mistenkt antas å ville bli
-idømt, jf. gjeldende straffeprosesslov §§ 217 til
-219. Ordningen har sin parallell i sivilrettslig
-«arrest».
-For det andre viderefører kapitlet beslag i hele
-formuen til en person. To regelsett samles, nemlig
-«forvaltning» av formuen til en person som er
-domfelt eller på flukt, jf. straffeprosessloven
-§§ 220 til 222, og «båndlegging» i terrorsaker,
-jf. straffeprosessloven §§ 202 d til 202 g.
-172
-
-Se riksadvokaten (2/2000) punkt III, 2.3.
+\(2\) Gegenstand dieser Verständigung dürfen nur die Rechtsfolgen sein, die Inhalt des Urteils und der dazugehörigen Beschlüsse sein können, sonstige verfahrensbezogene Maßnahmen im zugrundeliegenden Erkenntnisverfahren sowie das Prozessverhalten der Verfahrensbeteiligten. Bestandteil jeder Verständigung soll ein Geständnis sein. Der Schuldspruch sowie Maßregeln der Besserung und Sicherung dürfen nicht Gegenstand einer Verständigung sein.
+
+\(3\) Das Gericht gibt bekannt, welchen Inhalt die Verständigung haben könnte. Es kann dabei unter freier Würdigung aller Umstände des Falles sowie der allgemeinen Strafzumessungserwägungen auch eine Ober- und Untergrenze der Strafe angeben. Die Verfahrensbeteiligten erhalten Gelegenheit zur Stellungnahme. Die Verständigung kommt zustande, wenn Angeklagter und Staatsanwaltschaft dem Vorschlag des Gerichtes zustimmen.
+
+\(4\) Die Bindung des Gerichtes an eine Verständigung entfällt, wenn rechtlich oder tatsächlich bedeutsame Umstände übersehen worden sind oder sich neu ergeben haben und das Gericht deswegen zu der Überzeugung gelangt, dass der in Aussicht gestellte Strafrahmen nicht mehr tat- oder schuldangemessen ist. Gleiches gilt, wenn das weitere Prozessverhalten des Angeklagten nicht dem Verhalten entspricht, das der Prognose des Gerichtes zugrunde gelegt worden ist. Das Geständnis des Angeklagten darf in diesen Fällen nicht verwertet werden. Das Gericht hat eine Abweichung unverzüglich mitzuteilen.
+
+\(5\) Der Angeklagte ist über die Voraussetzungen und Folgen einer Abweichung des Gerichtes von dem in Aussicht gestellten Ergebnis nach Absatz 4 zu belehren.»[^874]
+
+Bestemmelsen etablerer en straffetilsagnsordning der *domstolen* kan inngå avtale med tiltalte og påtalemyndigheten vedrørende reaksjonsspørsmålet, forutsatt at tiltalte tilstår, jf. første ledd og annet ledd første og annet punktum. Det åpnes ikke for forhandlinger om skyldspørsmålet, subsumsjonen eller om lovbestemte sanksjoner som tar sikte på rehabilitering og samfunnsvern, jf. annet ledd tredje punktum.[^875] Rettens ansvar for sakens opplysning skal dessuten gjelde uavhengig av eventuell avtale med partene, jf. første ledd annet punktum.
+
+Etter tredje ledd skal retten etter en fri vurdering av straffutmålingsmomentene som gjør seg gjeldende, og etter at partene har fått uttale seg, meddele hvilket innhold avtalen om reaksjonsspørsmålet kan ha, ved å angi straffens øvre og nedre grense. Avtalen etableres ved at tiltalte og påtalemyndigheten aksepterer rettens avtaleforslag, jf. tredje ledd. De vesentlige elementer i forhandlingene og avtalen med partene skal nedtegnes i rettsboken, jf. Strafprozessordnung § 273(1a).
+
+Avtalen opphører dersom nærmere bestemte uriktige eller bristende forutsetninger viser seg eller inntrer, jf. fjerde ledd første og annet punktum. Tiltaltes tilståelse kan i så fall ikke benyttes ved den videre behandlingen av saken, jf. fjerde ledd tredje punktum. Disse forhold skal tiltalte orienteres om, jf. femte ledd.
+
+Selv om § 257 c er plassert i lovens kapittel om hovedforhandlingen, er det lovens forutsetning at spørsmålet om å avgjøre saken etter fremforhandlet avtale kan tas opp med partene under den forberedende domstolsbehandlingen, jf. Strafprozessordnung §§ 202 a og 212, jf. § 243(4).
+
+Uansett om saken avgjøres etter avtale med partene eller etter ordinær hovedforhandling, fastsettes straffen ved dom etter de vanlige reglene i Strafprozessordnung §§ 260 flg. Dersom det er inngått avtale etter § 257 c, skal det opplyses om dette i dommens premisser, jf. § 267 tredje ledd siste punktum.
+
+1.  *England*
+
+Tiltaltes standpunkt til skyldspørsmålet er etter engelsk rett avgjørende for hvorledes saken skal behandles i domstolene. Det avgjør både om saken kan undergis forenklet førsteinstansbehandling (*summary trial*) i Magistrates’ Court, og – for overtredelser der Crown Court er første instans – om saken skal behandles med jury (*trial hearing*) eller kun fagdommer (*sentence hearing*). Dersom tiltalte avgir en tilståelse, og denne aksepteres av domstolen, anses skyldspørsmålet som avgjort:
+
+«Following a plea of guilty there is no need to empanel a jury as the accused has convicted himself out of his own mouth. The court may proceed straight to sentence \[…\].»[^876]
+
+Prosessreglene er i stor grad innrettet mot å søke en avklaring av om, og eventuelt i hvilken utstrekning, tiltalte erkjenner straffskyld etter tiltalen.[^877] Etter at tiltale er utferdiget og under saksforberedelsen for domstolen skal partene avklare hvor langt en eventuell enighet rekker, og ved enighet nedfelle denne i en *plea agreement*.
+
+I den forbindelse har påtalemyndigheten en viss adgang til å inngå en avtale (*accept a plea*) som avviker fra tiltalen, for eksempel ved at forholdet bedømmes etter et mildere straffebud, eller ved at videre forfølgning av enkelte forhold i siktelsen unnlates. En slik aksept trenger ikke å være basert på forhandlinger, men kan være det:
+
+«Plea bargaining \[in the sense that the prosecution agrees with the defence that if the accused pleads guilty to a lesser offence they will accept the plea or the prosecution agree not to proceed on one or more counts if he will plead guilty to the remainder\] is a frequent occurrence, approved by the courts. It is not usually in the public interest to spend time and money proving the accused guilty precisely as charged if he is prepared to admit the bulk of the case against him, either by pleading guilty to a lesser offence or by pleading guilty to some but not all the counts. The bargain is usually struck by prosecution and defence counsel outside court before the commencement of the trial.»[^878]
+
+Påtalemyndigheten står ikke fritt i slike forhandlinger. Både *The Code of Crown Prosecutors* og *Attorney General’s Guidelines on the acceptance of pleas and the prosecutor’s role in the sentencing* angir retningslinjer for hva som kan avtales.
+
+Tiltaltes tilståelse og partenes avtale er ikke uten videre bindende for retten. Dommeren skal blant annet vurdere om tilståelsen er «properly grounded»,[^879] og om et omforent faktum («agreed basis of plea») er «fair and in the interest of justice».[^880] Retten kan av eget tiltak gi pålegg om at partene skal fremlegge bevis.[^881]
+
+Partene kan heller ikke binde domstolen ved avtaler om straff, jf. blant annet avgjørelsen R. v. Innospec ltd.:
+
+«It is clear \[…\] that the SFO \[Serious Fraud Office\] cannot enter into an agreement under the laws of England and Wales with an offender as to the penalty in respect of the offence charged. \[…\] \[I\]t is for the court to decide on the sentence and to explain that to the public, as I have endeavoured to do, in a manner that is both open and transparent, as that is what justice requires.»[^882]
+
+Tiltalte kan imidlertid i visse tilfeller søke en avklaring hos retten vedrørende hvilken straff vedkommende risikerer under forutsetning av at vedkommende tilstår forholdet. Ordningen kalles *indication of sentence* og gjelder i saker som behandles av Crown Court. Etter begjæring fra tiltalte kan retten angi den strengeste straffen som vil kunne idømmes dersom tiltalte på det aktuelle tidspunkt avgir en *guilty plea*. Slik straffangivelse kalles også «Goodyear indications» etter prejudikatet R. v. Goodyear, hvor det uttales følgende om formålet med ordningen:
+
+«The objective of these Guidelines is to ensure common process and continuing safeguards against the creation or appearance of judicial pressure on the defendant. The potential advantages include, first and foremost, that the defendant himself would make a better informed decision whether to plead, or not. Experience tends to suggest that this would result in an increased number of early guilty pleas, which a consequent reduction in the number of trials, and the number of cases which are listed for trial, and then, to use current language, ‘crack’ at the last minute, usually at considerable inconvenience to those involved in the intended trial, and in particular, victims and witnesses. Properly applied, too, there may be a reduced number of sentences to be considered by the Attorney General, and where appropriate, referred to this Court as unduly lenient. In short, an increase in the efficient administration of justice will not impinge on the defendant’s entitlement to tender a voluntary plea.»[^883]
+
+Den angitte maksimumsstraffen er bindende for retten, også om den settes med en annen dommer. Det er imidlertid en forutsetning at saken normalt skal avgjøres umiddelbart etter at straffangivelsen er avgitt, og som regel av samme dommer. Dersom tiltalte, etter å ha hatt rimelig mulighet til å vurdere sin posisjon i lys av den angitte maksimumsstraff, ikke erkjenner straffskyld, opphører straffangivelsens bindende virkning.
+
+I februar 2014 ble det i England innført en ordning med såkalt Deferred Prosecution Agreement (DPA), som kan anvendes overfor foretak i økonomiske straffesaker, og som innebærer at påtalemyndigheten kan inngå en avtale om å unnlate videre strafferettslig forfølgning av et selskap, mot at selskapet oppfyller nærmere bestemte vilkår. Avtalen kan gå ut på at selskapet skal betale bot eller erstatning, eventuelt også at det skal samarbeide med påtalemyndigheten, herunder som ledd i straffeforfølgning mot enkeltpersoner. Avtalen må godkjennes av en dommer, som skal ta stilling til om den er «in the interests of justice», og om vilkårene er «fair, reasonable and proportionate». Overholdes ikke vilkårene i avtalen, kan forfølgningen gjenopptas.[^884]
+
+1.  *USA*
+
+Dersom tiltalte avgir en skylderkjennelse som retten aksepterer, kan saken etter amerikansk som etter engelsk rett behandles ved forenklet rettergang uten jurybehandling. I USA avgjøres ca. 90 prosent av alle straffesaker for domstolene på grunnlag av tiltaltes skylderkjennelse (*plea of guilty*).[^885]
+
+Tiltaltes *plea of guilty* trenger ikke nødvendigvis å være fremkommet etter forhandlinger med påtalemyndigheten, men dette er det vanlige.[^886] *Plea bargaining* har derfor meget stor praktisk og prosessøkonomisk betydning, og mange hevder det amerikanske rettssystemet ikke ville fungere uten.[^887] Praksisen – som med små variasjoner eksisterer i alle delstater – er av USAs høyesterett ansett som «necessary and proper».[^888]
+
+I USA er det lang tradisjon for å gi påtalemyndigheten en utstrakt diskresjonær kompetanse ved avgjørelsen av om straffeforfølgning skal iverksettes eller ikke,[^889] samt til å avgjøre om tiltale skal utferdiges, og hvilket straffebud som skal anvendes.[^890]
+
+Spørsmålet om hvorvidt det foreligger tilstrekkelig bevis for tiltale, er underlagt domstolskontroll ved *grand jury* eller *preliminary hearing*. Men utover dette er det ikke tradisjon for verken domstolskontroll eller administrativ kontroll med påtalemyndighetens avgjørelser.[^891]
+
+Det er visstnok ikke uvanlig at påtalemyndigheten gjør tiltalen mer omfattende enn det er grunnlag for, for å «motivere» tiltalte til å gå med på en avtale:
+
+«However, sometimes the prosecutor will initially charge a defendant with a higher offence than can be proved or than would be ‘just,’ hoping to use that charge as leverage to obtain a guilty plea to a lesser crime. \[…\] Resort to multiple charges is most common when undertaken to encourage a plea of guilty to one of the crimes or when deemed necessary to provide the judge with a sufficient range of sentencing options.»[^892]
+
+Tiltaltes *plea of guilty* og partenes *plea agreement* må fremlegges for retten, som skal sikre at tiltaltes skylderkjennelse oppfyller visse prosessuelle krav, først og fremst at den er «voluntary and intelligent», jf. blant annet USAs høyesteretts avgjørelse Brady v. United States:
+
+«That a guilty plea is a grave and solemn act to be accepted only with care and discernment has long been recognized. Central to the plea and the foundation for entering judgment against the defendant is the defendant’s admission in open court that he committed the act charged in the indictment. He thus stands as a witness against himself, and he is shielded by the Fifth Amendment from being compelled to do so – hence the minimum requirement that his plea be the voluntary expression of his own choice. But the plea is more than an admission of past conduct; it is the defendant’s consent that judgment of conviction may be entered without a trial – a waiver of his right to trial before a jury or a judge. Waivers of constitutional rights not only must be voluntary, but must be knowing, intelligent acts done with sufficient awareness of the relevant circumstances and likely consequences.»[^893]
+
+Retten er i utgangspunktet ikke bundet av partenes nærmere disposisjoner etter at tiltale er tatt ut, og kan nekte å godta partenes avtale enten den gjelder straffutmåling, anvendelse av straffebud eller tilskjæring av tiltalen.[^894] Tiltalte har således som regel ingen garanti for at avtalen legges til grunn av retten:
+
+«\[The Judge\] will usually have a critical role to play whenever the defendant tenders a plea as a consequence of the negotiations. If the plea agreement contemplates the granting of sentence concessions to the defendant, then quite obviously the judge will play an essential part, for sentencing is the responsibility of the judge. In those many jurisdictions where charges that have been filed may be dropped only with the consent of the court, the judge will likewise perform a necessary part whenever the plea contemplates the reduction of the charge or the dropping of some counts. In all of these circumstances, quite clearly the judge is under no obligation to grant the contemplates concessions merely because the parties are agreeable.»[^895]
+
+En annen sak er at retten i praksis utviser tilbakeholdenhet med å overprøve partenes avtaler.[^896] I tillegg vil en kunne ha avtaler som inngås mellom partene før tiltale utferdiges, hvilket vil avskjære domstolenes mulighet til å gripe inn.[^897]
+
+USAs høyesterett har i flere avgjørelser tatt stilling til spørsmål av prinsipiell betydning for *plea bargaining*-instituttet. Bordenkircher v. Hayes[^898] er en sentral avgjørelse som det ofte henvises til, og som inneholder interessante uttalelser både om påtalemyndighetens diskresjonære kompetanse, dens adgang til å forhandle med tiltalte og betydningen av det tilståelsespress tiltalte kan oppleve ved å bli stilt overfor en vesentlig mer alvorlig straffetrussel dersom vedkommende ikke erkjenner straffskyld.
+
+Hayes var tiltalt for et sjekkbedrageri på 88,30 dollar, og påtalemyndigheten opplyste at dersom han erkjente straffskyld, ville han bli tiltalt etter en straffebestemmelse med en strafferamme på 2 til 10 år og med et straffeforslag fra påtalemyndigheten på fem år. Dersom Hayes nektet straffskyld, slik at saken måtte behandles for en jury, ville han i stedet bli tiltalt etter Kentucky Habitual Criminal Act, som på grunn av hans straffehistorikk ville kunne medføre fengsel på livstid. Hayes aksepterte ikke påtalemyndighetens tilbud og ble dømt til livstidsstraff. Under dissens 5–4 la USAs høyesterett til grunn at påtalemyndighetens fremgangsmåte ikke var grunnlovsstridig:
+
+«It is not disputed here that Hayes was properly chargeable under the recidivist statute, since he had, in fact, been convicted of two previous felonies. In our system, so long as the prosecutor has probable cause to believe that the accused committed an offense defined by statute, the decision whether or not to prosecute, and what charge to file or bring before a grand jury, generally rests entirely in his discretion. Within the limits set by the legislature’s constitutionally valid definition of chargeable offenses, ‘the conscious exercise of some selectivity in enforcement is not, in itself, a federal constitutional violation’ so long as ‘the selection was \[not\] deliberately based upon an unjustifiable standard such as race, religion, or other arbitrary classification.’ \[…\] To hold that the prosecutor’s desire to induce a guilty plea is an ‘unjustifiable standard,’ which, like race or religion, may play no part in his charging decision, would contradict the very premises that underlie the concept of plea bargaining itself. Moreover, a rigid constitutional rule that would prohibit a prosecutor from acting forthrightly in his dealings with the defense could only invite unhealthy subterfuge that would drive the practice of plea bargaining back into the shadows from which it has so recently emerged. \[…\].
+
+There is no doubt that the breadth of discretion that our country’s legal system vests in prosecuting attorneys carries with it the potential for both individual and institutional abuse. And broad though that discretion may be, there are undoubtedly constitutional limits upon its exercise. We hold only that the course of conduct engaged in by the prosecutor in this case, which no more than openly presented the defendant with the unpleasant alternatives of forgoing trial or facing charges on which he was plainly subject to prosecution, did not violate the Due Process Clause of the Fourteenth Amendment.»
+
+Avgjørelsen er i juridisk teori kritisert for å være én av flere avgjørelser som innebærer at politi og påtalemyndighet får for mye makt i straffeprosessen.[^899]
+
+1.  **Tidligere utredninger**
+
+Spørsmålet om å innføre forhandlingsbaserte eller *plea bargaining*-lignende ordninger i norsk straffeprosess har siden slutten av 1990-tallet vært berørt i flere offentlige utredninger. For sammenhengens skyld gjengis i det følgende utdrag av de mest aktuelle utredningene.
+
+I Ot.prp. nr. 64 (1998–99) heter det:
+
+«I USA har man en praksis hvor påtalemyndigheten kan gå med på en mindre alvorlig tiltale og/eller en mildere straffepåstand hvis tiltalte erklærer seg skyldig (plea bargaining). Vi har ikke noe slikt system i Norge. Men det er enkelte eksempler i praksis på kontakt mellom påtalemyndigheten og forsvareren som kan ha hatt betydning for subsumsjon eller straffepåstand. Det har også hendt at samarbeid med politiet har blitt tillagt vekt i formildende retning, se for eksempel Rt. 1995 side 1975.
+
+Metodeutvalget viser til at bruk av annet vederlag enn penger, for eksempel i form av plea bargaining, reiser en rekke prinsipielle spørsmål som må utredes bredt og nøye før ordningen eventuelt innføres i Norge. Utvalget kan vanskelig se at det i dagens situasjon finnes noe utbredt behov for en slik ordning her.
+
+Den Norske Advokatforening mener at det – slik praksis har utviklet seg – er et behov for å utrede spørsmålet.
+
+Høyesterett har i Rt. 1995 side 1922 (på s 1925) antydet at spørsmål om plea bargaining bør vurderes nærmere. Det heter her:
+
+‘De nærmere grenser for påtalemyndighetens og eventuelt forsvarerens adgang til å kunne diskutere innholdet av et forelegg opp mot en alternativ tiltale, fortjener overveielse på et prinsipielt grunnlag.’
+
+Etter departementets syn kan det være grunn til å se nærmere på spørsmål i tilknytning til plea bargaining. Metodeutvalgets utredning gir imidlertid ikke grunnlag for å vurdere spørsmålet nærmere. Dessuten kan det være nyttig å avvente praksis noe før en utredning starter. Departementet vil etter dette vurdere å se nærmere på spørsmålet på noe lengre sikt.»[^900]
+
+Foranledighet av nevnte proposisjon uttalte Justiskomiteen følgende i Innst. O. nr. 3 (1999–2000):
+
+«Komiteen viser til at vi ikke har noe system med ‘plea bargaining’ i Norge. Det finnes imidlertid eksempler på kontakt mellom påtalemyndigheten og forsvarere som kan ha hatt betydning for straffepåstand. Det har også hendt at samarbeid med politiet har blitt tillagt vekt i formildende retning. Komiteen merker seg at flere høringsinstanser, herunder Høyesterett, mener at spørsmålet om ‘plea bargaining’ bør vurderes nærmere. Komiteen er enig i dette, og ber departementet gjennomgå praksis på området og utrede de prinsipielle spørsmål en slik ordning reiser. En slik utredning må innbefatte en vurdering av behovet for eventuelle retningslinjer eller lovregulering.»[^901]
+
+I rapport 20. juni 2000 *Prosjekt hurtigere straffesaksbehandling* behandlet Arbeidsgruppe I spørsmålet:
+
+«Arbeidsgruppen er enig i at det er behov for en bred vurdering og avveining av de motstående prinsipielle hensyn og en grundig utredning av de mange juridiske spørsmål av mer praktisk karakter som må reguleres dersom en slik ordning skal innføres. Arbeidsgruppen antar at gode grunner kan tale for at Straffelovrådet gis dette utredningsoppdraget. Mandatet bør formentlig omfatte både avtaler der siktedes ‘ytelse’ er å tilstå straffbare forhold han selv har begått, og der ‘ytelsen’ er å gi informasjon om andres straffbare virksomhet, selv om sterke motforestillinger gjør seg gjeldende i det sistnevnte tilfelle.»[^902]
+
+Justis- og politidepartementets høringsnotat fra september 2006 *Hurtigere behandling av straffesaker* inneholder en nærmere vurdering av og forslag til lovbestemmelse om straffetilsagn:
+
+«Slik departementet foreløpig ser det, er det ikke nærliggende å tenke seg at påtalemyndigheten skal kunne inngå bindende avtale om hvilke forhold som skal strafforfølges eller hvilke straffebud domstolene skal dømme etter. Det første ville antagelig gi påtalemyndigheten et større handlingsrom enn det den bør ha i møte med ressurssterke siktede, mens det andre vil kunne låse domstolens rettsanvendelse på en uheldig måte. Mer nærliggende er det å tenke seg en regel som går ut på at påtalemyndigheten, som ‘vederlag’ for en uforbeholden tilståelse, kan gi bindende tilsagn om hvilken straff det forholdet som tilstås, maksimalt skal medføre (strafftilsagn). For ikke å gi uheldige utslag i enkeltsaker, måtte en slik regel formodentlig suppleres med en regel om at domstolene på visse vilkår likevel kan idømme strengere straff. \[…\]
+
+En regel om strafftilsagn kan tas inn i straffeprosessloven, eksempelvis som § 233 a, og kan lyde:
+
+‘Dersom den siktede under etterforskningen gir en uforbeholden tilståelse som styrkes av de øvrige opplysninger, kan påtalemyndigheten forplikte seg til å nedlegge en bestemt påstand om straff. Påstanden kan settes under det lavmål som er bestemt, og til en mildere straffart.
+
+Påtalemyndighetens tilsagn er ikke bindende dersom den siktede ikke står ved den uforbeholdne tilståelsen under pådømmelsen av saken. Det samme gjelder hvis det viser seg at forholdene var alvorligere enn det siktede har forklart, eller det avdekkes ytterligere straffbare forhold som den siktede står bak.
+
+Domstolen kan ikke idømme strengere straff enn den påstand påtalemyndigheten har forpliktet seg til etter første ledd. Dette gjelder likevel ikke dersom straffen ville innebære et vesentlig avvik fra det som ellers ville blitt idømt. Når det foreligger et bindende tilsagn fra påtalemyndigheten, skal det under enhver omstendighet gjøres et fradrag i straffen for den uforbeholdne tilståelsen.’
+
+En slik regel ville forutsette en endring også i straffeprosessloven § 38 annet ledd, som i dag slår fast at retten ikke er bundet av de fremsatte påstander vedrørende straff.»[^903]
+
+Forslaget i høringsnotatet møtte noe motstand blant høringsinstansene og ble ikke fremmet for Stortinget, jf. Prop. 141 L (2009–2010):
+
+«Høringsnotatet inneholdt et forslag om at påtalemyndigheten som vederlag for en uforbeholden tilståelse skal kunne gi bindende tilsagn om straffutmålingen (‘plea bargaining’ eller ‘straffetilsagn’). Departementet mener at det i lys av høringen er behov for å utrede dette spørsmålet nærmere før det kan tas stilling til om det bør fremmes lovforslag for Stortinget. En utredning kan skje i et lovutvalg, eller eventuelt i form av en enpersonutredning.»[^904]
+
+1.  **Utvalgets vurderinger og forslag**
+
+Spørsmålet om hvorvidt straffeprosessloven bør åpne for forhandlingsbaserte løsninger, berører fundamentale elementer i vår strafferettspleie. Det reiser problemstillinger som hvilken rådighet partene bør ha over straffesaken, hvilke rettslige rammer som bør gjelde for påtalemyndighetens virksomhet og avgjørelser, og – i nær tilknytning til dette – hvordan kompetansefordelingen bør være mellom påtalemyndigheten og domstolene, særlig med sikte på sistnevntes kontrollmuligheter.
+
+Kryssende hensyn gjør seg gjeldende i spørsmålet om hvorvidt det bør innføres en ordning med *plea bargaining* i norsk rett. Særlig effektivitetshensyn taler for at påtalemyndigheten i en viss utstrekning bør gis adgang til å love mistenkte mildere behandling dersom mistenkte tilstår eller gir informasjon om straffbare forhold begått av andre. En slik adgang kan føre til flere tilståelser og bidra til å oppklare kriminalitet. Virkningen vil imidlertid avhenge av insentivene for medvirkning, som igjen i stor grad vil bero på hvor langt påtalemyndigheten kan gå i å love lempeligere behandling.
+
+Utvalgets grunnleggende syn er at ønsket om effektivitet ikke kan begrunne ordninger som ikke kan forsvares ut fra hensynene til mistenktes rettssikkerhet og den alminnelige tillit til straffeprosessen. Det er grunn til å ta inn over seg at praksis og erfaringer fra andre land viser at *plea bargaining* kan føre til urimelig forskjellsbehandling, misbruk og uheldig press overfor mistenkte. Det er også fremmet kritikk mot ordningen fordi den reduserer domstolenes kontroll med den utøvende makt.
+
+Dersom straffesaker løses gjennom avtaler mellom partene, kan det også føre til mindre offentlighet i rettspleien. Det vil dermed kunne bli vanskeligere for utenforstående å få kunnskap om systemet og hva som har vært styrende for resultatet i enkeltsaker. Utad vil avgjørelsene kunne fremstå som tilfeldige og urimelige, noe som igjen kan skade tilliten til rettssystemet.
+
+Etter utvalgets syn bør påtalemyndighetens rådighet over saken som et klart utgangspunkt ikke forvaltes ut fra forhandlingsmekanismer. Det er av vesentlig betydning for strafferettspleiens legitimitet at påtalemyndighetens avgjørelser om å fremme krav om straff, eller å unnlate forfølgning, skjer etter objektive kriterier og ikke medfører urimelig forskjellsbehandling. Slik utvalget ser det, er det grunn til å frykte at disse hensynene ikke vil bli tilstrekkelig ivaretatt dersom påtalemyndighetens vedtak blir gjenstand for forhandlinger. Det vil blant annet innebære fare for favorisering av ressurssterke personer.
+
+Kronvitneordninger er særlig problematisk. Først og fremst vil det stride mot utbredte rettferdighetsforestillinger at noen skal kunne kjøpe seg fri fra straffansvar ved å angi medsammensvorne. Slike ordninger vil bygge opp under en angiverkultur og medføre uønsket straffrihet for kronvitnets handlinger.
+
+Det vil også regelmessig knytte seg vesentlige svakheter og usikkerhet til de opplysninger politiet og eventuelt retten mottar fra et kronvitne. Vedkommende vil ha et særlig motiv for å begrense eget ansvar og overdrive ansvaret for øvrige impliserte for derved å styrke egen forhandlingsposisjon. At dette er forhold som kan tas i betraktning under bevisvurderingen, er ikke uten videre tilfredsstillende; det er grunnleggende betenkelig å etablere en ordning som systematisk vil medføre fare for uriktige forklaringer.
+
+Samtidig kan kronvitneordninger antakelig være et effektivt redskap for å motarbeide enkelte kriminalitetsformer der flere er involvert – typisk alvorlig økonomisk og organisert kriminalitet. Større grad av oppklaring av slik kriminalitet vil på sikt formentlig også kunne ha en preventiv effekt. Til tross for uønsket straffrihet for kronvitnets handlinger kan samfunnets interesse i å hindre kriminalitet derfor samlet sett tenkes bedre ivaretatt.
+
+Det er grunn til å fremheve at det er meget usikkert hva som vil være de positive virkningene av ulike forhandlingsordninger. Selv om slike ordninger kan bidra til å få oppklart og opplyst enkeltsaker, hefter det betydelig usikkerhet ved de mulige samlede virkningene i og utenfor rettssystemet. Det kan blant annet ikke utelukkes at nettopp de miljøer man anser det hensiktsmessig å motarbeide med slike ordninger, typisk den organiserte kriminaliteten, vil tilpasse seg en slik endring, for eksempel med større grad av selvjustis og andre forholdsregler, noe som i sin tur kan gjøre det vanskeligere å etterforske saker fra miljøene. Fra et prinsipielt ståsted er det dessuten uheldig dersom det fremstår som om staten i sin kriminalitetsbekjempelse i større eller mindre grad er prisgitt bistand fra aktører i de miljøer den skal bekjempe.
+
+På bakgrunn av de hensyn det er redegjort for ovenfor, mener utvalget at det ikke bør legges opp til forhandlinger mellom påtalemyndigheten og mistenkte *om avgjørelsen av påtalespørsmålet*, herunder hvilken straffebestemmelse som skal anvendes på forholdet. Avgjørelsen av om et forhold skal henlegges, eller om det skal utferdiges positivt påtalevedtak, og eventuelt hvilken straffebestemmelse som skal anvendes, skal avgjøres ut fra bevissituasjonen og korrekt rettsanvendelse, ikke tiltaltes samarbeidsvilje. Forhandlinger med mistenkte om slike spørsmål vil stride mot påtalemyndighetens objektivitetsplikt.
+
+I ulike sammenhenger vil det imidlertid være relevant å ta hensyn til om mistenkte er villig til å erkjenne straffskyld for andre forhold eller gi opplysninger om lovbrudd begått av andre, for eksempel ved vurderingen av om det skal reageres med tiltale, forelegg eller påtaleunnlatelse. Også ved vurderingen av om forfølgning er «i det offentliges interesse», jf. utkastet § 28-2 annet ledd, vil det i noen grad kunne legges vekt på slike hensyn. Utvalget forutsetter imidlertid at den restriktive praksis påtalemyndigheten har fulgt under gjeldende lov med hensyn til å forhandle med mistenkte om avgjørelsen av påtalespørsmålet, skal videreføres.
+
+Langt mindre problematisk mener utvalget det er at påtalemyndigheten overfor mistenkte gir *forhåndstilsagn om straffepåstand*. Straffespørsmålet er ofte skjønnsmessig, og det vil kunne ha stor betydning for mistenkte å vite hvilken straff påtalemyndigheten mener vil være riktig. At partene har dialog om betydningen av at mistenkte tilstår eller gir opplysninger som kan gi grunnlag for redusert straff, vil kunne bidra til å realisere formålet med reglene om strafferabatt. I praksis gis mistenkte som regel generell informasjon om reglene om tilståelsesrabatt, og det er også vanlig at påtalemyndigheten antyder hva som kan være en aktuell straffepåstand under ulike forutsetninger.
+
+Et konkret forhåndstilsagn om straffepåstand vil i seg selv kunne gi mistenkte noe større forutberegnelighet, og det at påtalemyndigheten på denne måten binder egen myndighet, reiser etter utvalgets syn få prinsipielle betenkeligheter. Forutsetningen er imidlertid – her som ellers – at påtalemyndigheten opptrer objektivt, herunder at mistenkte ikke forespeiles en strengere straff enn det er grunnlag for, dersom vedkommende ikke er samarbeidsvillig.
+
+På grunn av de særlige betenkeligheter som knytter seg til kronvitneordninger, bør det ikke være adgang til å gi straffetilsagn utelukkende på grunnlag av opplysninger om lovbrudd begått av andre. Det bør derfor være et vilkår for å gi tilsagn at mistenkte tilstår eller gir andre opplysninger av betydning for *egen sak*. Såfremt dette vilkåret er til stede, må imidlertid påtalemyndigheten ved fastsettelsen av påstanden kunne ta i betraktning alle relevante straffutmålingsmomenter, herunder om mistenkte i vesentlig grad har bidratt til å oppklare andre lovbrudd, jf. straffeloven § 78 bokstav f.
+
+Utvalget foreslår på denne bakgrunn å lovfeste en adgang for påtalemyndigheten til å gi bindende forhåndstilsagn om straffepåstand, jf. utkastet § 28-7:
+
+«(1) Når mistenkte ved tilståelse eller på annen måte bidrar med opplysninger av betydning, kan påtalemyndigheten forplikte seg til å nedlegge en bestemt påstand om straff.
+
+\(2\) Mistenkte skal på forhånd gjøres kjent med adgangen til og vilkårene for omgjøring etter § 29-8.»
+
+Påtalemyndigheten bør kunne omgjøre et forhåndstilsagn om straffepåstand på grunn av uriktige eller bristende forutsetninger. En bestemmelse om dette finnes i utkastet § 29-8:
+
+«Tilsagn etter § 28-7 kan omgjøres dersom mistenkte ikke står ved tilståelsen eller opplysningene som er gitt. Det samme gjelder dersom det viser seg at mistenktes forhold er mer alvorlig enn vedkommende har forklart, eller det avdekkes andre forhold som mistenkte står bak, og de nye opplysningene kan få vesentlig betydning for straffen.»
+
+Hvorvidt straffetilsagn fra påtalemyndigheten bør ha betydning for domstolenes reaksjonsfastsettelse, er et selvstendig spørsmål.
+
+Utvalgets generelle syn er at retten – på bakgrunn av anklageprinsippet – bør være noe tilbakeholden med å idømme strengere straffer enn påtalemyndigheten ber om. Utvalget vil imidlertid ikke foreslå en ordning der retten skal være prinsipielt avskåret fra å gå utover påtalemyndighetens straffepåstand, heller ikke når påtalemyndigheten har gitt straffetilsagn. Et slikt regime vil gi partene for stor rådighet over straffespørsmålet. Det kan utvikle seg en praksis der reaksjonsfastsettelsen blir et rent forhandlingsspørsmål for partene, slik at straffutmålingen i realiteten avgjøres utenrettslig, på bekostning av hensynet til offentlighet. Det vil også bryte med det ansvaret domstolene etter utvalgets syn bør ha for å sikre likebehandling og riktige avgjørelser, og dessuten med Høyesteretts rolle i å utvikle straffenivået på ulike områder. Det vises til utvalgets generelle vurderinger om rettens forhold til påtalemyndighetens straffepåstand i punkt 17.6.6.2.
+
+Utvalget mener imidlertid gode grunner taler for en regulering som innebærer at retten i større grad skal utvise tilbakeholdenhet med å gå utover påtalemyndighetens påstand når påstanden bygger på et forhåndstilsagn. Dersom formålet med reglene om strafferabatt og straffetilsagn skal realiseres, er det etter utvalgets syn helt sentralt at mistenkte sikres en rimelig grad av forutberegnelighet med hensyn til betydningen av påtalemyndighetens forhåndstilsagn. Som nevnt er straffespørsmålet ofte skjønnsmessig, og generell veiledning om rettsregler gir dermed begrenset forutsigbarhet. Dessuten er påtalemyndigheten som regel nærmest til å vurdere hvilken betydning mistenktes tilståelse eller samarbeid for øvrig har for etterforskingen og avviklingen av saken, hvilket tilsier at påtalemyndighetens oppfatning av hvilken innvirkning slike forhold bør ha på reaksjonsfastsettelsen, tas i betraktning.
+
+Utvalget mener således at retten i prinsippet bør kunne fastsette den straff den mener er riktig, men samtidig bør utvise tilbakeholdenhet med å overprøve påtalemyndighetens vurderinger av hva som er riktig straff lys av mistenktes samarbeid. Utvalget foreslår på denne bakgrunn at retten, i tilfeller der tilsagn er gitt, bare skal kunne gå utover påstanden dersom det «fremstår som klart at reaksjonsfastsettelsen ellers vil bli feil». Dette svarer til kriteriet som etter utkastet skal gjelde for ankedomstolens adgang til å endre utmålt straff ved begrenset anke, jf. § 39-11 annet ledd, se punkt 20.4.8.
+
+Den foreslåtte regel innebærer at retten ikke skal gripe inn så lenge påtalemyndigheten har utvist et forsvarlig skjønn med hensyn til hvilken straff som er passende, men samtidig at retten kan overprøve påstanden dersom det fremstår som klart at den bryter med det etablerte straffenivået, også hensyntatt tilståelsen, på området. Forslaget innebærer en justering av rettstilstanden sammenlignet med storkammeravgjørelsen i Rt. 2009 s. 1336 og ligger nærmere flertallets løsning i Rt. 2007 s. 616, men med en annen innretning, se punkt 16.8.2.2.
+
+Utvalget ser få betenkeligheter med en slik ordning. Påtalemyndighetens straffepåstand må begrunnes, og domstolene vil kunne rette opp feil av betydning. Hensynene til åpenhet og kontroll er dermed etter utvalgets syn tilstrekkelig ivaretatt. Risikoen for uforsvarlig press overfor mistenkte, med tilhørende fare for uriktige tilståelser og feilaktige opplysninger mv., aktualiseres i første rekke i og med selve strafferabattordningen. Dette er forhold som lovgiver har vurdert. Utvalget mener den skisserte ordningen for straffetilsagn i liten grad vil medføre fare for ytterligere press. Det er tale om en relativt beskjeden justering sammenlignet med dagens rettstilstand. I tillegg må forslaget ses i sammenheng med norsk prosesskultur og de rettssikkerhetsgarantier som ellers gjelder, herunder mistenktes rett til forsvarer.
+
+Utvalget foreslår på denne bakgrunn følgende bestemmelse i første ledd fjerde og femte punktum i utkastet § 32-3 om rettens forhold til partenes krav og påstander mv.:
+
+«Ved fastsettelse av straff og andre strafferettslige reaksjoner enn inndragning er retten ikke bundet av påstandene. Foreligger bindende tilsagn etter § 28-7, kan retten likevel bare gå utover påstanden det er gitt tilsagn om, når det fremstår som klart at reaksjonsfastsettelsen ellers vil bli feil.»
+
+1.  **Generelle regler om rettens saksbehandling og avgjørelser**
+
+    1.  **Dommerstyrt saksbehandling**
+
+        1.  **Oversikt**
+
+Tvisteloven fra 2005 er vår nyeste rettergangslov, og det er således «grunn til å vurdere om straffeprosessloven bør bringes mer i samsvar med sivilprosessen, som relativt nylig har vært gjenstand for en større revisjon», jf. utvalgets mandat punkt 2. Utvalget er dessuten i punkt 4 bedt om å ta stilling til bruk av særskilte prosessuelle mekanismer:
+
+«1. Utvalget bør vurdere endringer i dagens prosessordning som bedre legger til rette for mer aktiv dommerstyring og derved en mer effektiv og konsentrert prosess. Det gjelder spesielt for de store og kompliserte straffesakene.
+
+2\. Det er grunn til å se nærmere på om forberedelsen og gjennomføringen av hoved- og ankeforhandlingen i straffesaker i større grad bør legges opp etter sivilrettslig mønster. I den forbindelse bør det vurderes regler som gjør det mulig å avgrense bevisførselen til det faktum som er bestridt.
+
+3\. Det må vurderes om domstolene i større grad enn i dag bør gis adgang til å dele opp forhandlingene og treffe delavgjørelser.»
+
+Prinsippet om «aktiv dommerstyring» stod sentralt for utredningsarbeidet som ledet frem til tvisteloven.[^905] Prinsippet går ut på at retten fra saken kommer inn til domstolen og frem til rettskraftig dom skal lede og administrere behandlingen slik at den konsentreres om sakens sentrale og omtvistede spørsmål. Aktiv dommerstyring antas å gi en effektivitetsgevinst som følge av redusert tidsbruk, særlig som følge av at retten stiller krav til bevisenes relevans og bevispresentasjonen. Det at bevisføringen og partenes argumentasjon konsentreres om sakens springende punkter, forutsettes dessuten å styrke avgjørelsesgrunnlaget og derigjennom avgjørelsenes kvalitet.
+
+I punkt 17.1.2 gjøres det kort rede for gjeldende regler om saksstyring i tvisteloven og straffeprosessloven. I punkt 17.1.3 følger utvalgets generelle overveielser om aktiv saksstyring i utkastet til ny straffeprosesslov.
+
+1.  **Regler om aktiv saksstyring i tvisteloven og straffeprosessloven**
+
+Tvisteloven pålegger retten å planlegge og styre saksbehandlingen, jf. § 11-6 første ledd: «Retten skal legge en plan for behandlingen av saken og følge den opp slik at saken effektivt og forsvarlig kan bringes til avslutning.» Plikten kommer også til uttrykk i § 9-4 første ledd om saksforberedelsen og § 9-13 om rettens styring av hovedforhandlingen.
+
+I enhver sak skal en forberedende dommer ha ansvaret for saksstyringen, jf. § 11-6 tredje ledd. Domstollederen er pålagt å føre tilsyn med at plikten følges opp, og manglende etterlevelse av saksstyringsplikten skal kunne føre til at lederen overtar saken eller overfører den til en annen dommer, jf. § 11-7.
+
+Tvisteloven inneholder videre en rekke regler som legger til rette for saksstyring eller gir virkemidler overfor partene, for å sikre konsentrasjon. Den skriftlige delen av saksforberedelsen gir grunnlag for å styre saken, særlig som følge av lovens krav om stevning og tilsvar og om at partene redegjør for bevis som ønskes ført. Sentralt er også «planmøtet», der retten i samråd med partenes prosessfullmektiger skal legge en plan for den videre behandlingen og treffe nødvendige beslutninger, jf. § 9-4 annet og tredje ledd.
+
+Også etter straffeprosessloven har retten et selvstendig ansvar for å påse at behandlingen skjer innenfor forsvarlige rammer og gjennomføres så konsentrert og effektivt som mulig. Plikten kommer ikke til uttrykk i noen enkeltbestemmelse, men fremgår tydelig blant annet av reglene om tidsfrister for berammelse av hovedforhandling, jf. § 275, og av reglene om avskjæring av bevis uten relevans, eller som er overflødige mv., jf. §§ 292 og 293 første ledd.
+
+Retten er også gitt ulike virkemidler for å kunne drive saksstyring under saksforberedelsen, herunder tilgang til straffesaksdokumentene, jf. § 262 første ledd siste punktum, adgang til å pålegge påtalemyndigheten å inngi skriftlig redegjørelse for saken, jf. § 262 siste ledd, og mulighet til å holde saksforberedende rettsmøte og i den forbindelse treffe ulike beslutninger, jf. §§ 272 og 274 annet ledd.
+
+1.  **Utvalgets generelle overveielser om rettens ansvar for saksstyring**
+
+Utvalget mener at rettens saksstyring er en sentral forutsetning for å sikre konsentrert domstolsbehandling, et forsvarlig avgjørelsesgrunnlag og effektiv saksavvikling. Erfaringene etter tvistelovens ikrafttredelse er at dommerne er blitt mer aktive og blant annet bidrar til mer effektiv saksforberedelse.[^906] At økt dommerstyring vil være hensiktsmessig også på straffeprosessens område, er fremhevet og forutsatt i tidligere utredninger.[^907] Utvalget finner det klart at det bør gis regler om aktiv saksstyring i ny straffeprosesslov.
+
+Muligheten for dommerstyrt saksbehandling avhenger imidlertid ikke bare av rettsregler. Vel så viktig er kulturelle forhold. En utbredt oppfatning har vært at norske dommere tradisjonelt har inntatt en tilbaketrukket og passiv rolle og i stor grad overlatt til partene å fastsette prosessopplegget. Det er imidlertid holdepunkter for at dette har endret seg en del de senere år, og da særlig etter innføringen av tvisteloven.[^908]
+
+Den enkeltes dommers forutsetninger og egenskaper er også av stor betydning. Tydelig ledelse forutsetter ofte at man har erfaring og kunnskap, og det kan nok være krevende for mindre erfarne dommere å innta en aktiv lederrolle. Videre vil kulturelle og individuelle forhold hos de øvrige aktørene spille inn, ikke minst i samhandlingen mellom retten og påtalemyndigheten, forsvareren og bistandsadvokaten.
+
+Aktiv saksstyring medfører bruk av tid og øvrige ressurser, særlig under saksforberedelsen. Et overordnet mål med dommerstyringen er at det samlet spares inn på ressursbruken. Samtidig er det nok slik at besparelsene i stor grad kommer andre aktører enn domstolene selv til gode. En sterk forventning om aktive dommere er derfor noe som må tas i betraktning når ressurs- og bemanningssituasjonen i domstolene skal fastlegges, se punkt 28.2.2.
+
+Et særtrekk ved straffeprosessen sammenlignet med ordinære sivile tvister er at den ene parten er gitt en særlig rolle under saksforberedelsen. Under etterforskingen og saksforberedelsen er det vesentlige av ansvar og ressurser lagt til politiet og påtalemyndigheten. Det hører således under påtalemyndigheten å vurdere både hvilke forhold som skal bringes inn for retten, og hvor bredt saken i utgangspunktet skal legges opp. Dette tilsier at saken langt på vei vil måtte tilrettelegges av påtalemyndigheten, og det må særlig være påtalemyndighetens oppgave å påse at domstolsbehandlingen ikke kompliseres mer enn nødvendig.
+
+Behandlingen for domstolene krever like fullt en tydelig og aktiv ledelse fra rettens side for at den skal kunne gjennomføres effektivt. Når en sak bringes inn for et beslutningsorgan, vil det også ligge en forventning om at dette tar ansvar og om nødvendig «skjærer igjennom» dersom partene ikke selv klarer å enes om saksgjennomføringen. Det er dessuten et behov for at en uavhengig tredjepart fører kontroll med partenes opplegg, for selv om det gjelder en objektivitetsplikt for påtalemyndigheten, har den også en partsrolle. Dommerstyring når situasjonen tilsier det, vil formentlig bidra til å disiplinere partene og ellers bidra til samhandlingskultur.
+
+Rettens saksstyring og veiledning må ikke skape tvil om rettens objektivitet og upartiskhet.[^909] Videre må ikke rettens aktivitet bryte med den grunnleggende rollefordelingen mellom retten og partene.[^910] Valget av topartsprosess fremfor inkvisisjonsprosess, se punkt 17.6.2, tilsier at rettens saksstyring som et klart utgangspunkt må være mer av formell enn av materiell karakter. Dersom plikten til saksstyring først og fremst består i å legge til rette for en smidig og konsentrert prosess, er det vanskelig å se at det vil innebære at kravene til domstolenes nøytralitet og rolle kommer under press.
+
+Behovet for dommerstyring i straffesaker har som nevnt innledningsvis vært tematisert i tidligere utredninger. De forslagene som har vært fremsatt, har imidlertid i stor grad vært knyttet til praktiske og organisatoriske forhold,[^911] og har nok ikke ført til de helt store endringer. Skal retten gis mulighet til å styre behandlingen, må retten også gis tilstrekkelige rettslige virkemidler som den kan benytte overfor partene.
+
+Tvistelovens regler om saksstyring kan tjene som et utgangspunkt for regulering, men med den vesentlige begrensning at partenes autonomi ikke kan gis samme gjennomslag i en straffeprosesslov. Sannhetsidealet står meget sterkt i straffesaker og medfører at prosessen må innrettes mot riktige avgjørelser uavhengig av partenes disposisjoner. Av samme grunn er det mindre rom for proporsjonalitetsbetraktninger. Det alvor som knytter seg til et straffekrav, innebærer at bevisføringen i begrenset grad kan beskjæres for å spare tid og andre ressurser dersom det kan gå på bekostning av et riktig resultat, se punkt 13.2.5.1.
+
+En konsekvens av de særlige hensyn som gjør seg gjeldende i straffeprosessen, er videre at man bør være tilbakeholden med bruk av preklusive regler, det vil si regler som knytter bestemte rettsvirkninger til fristoversittelse og andre mangelfulle prosesshandlinger fra partenes side, herunder avskjæring av bevis og anførsler mv. Overfor mistenkte kan det på grunn av sannhetsidealet i liten grad benyttes absolutte frister for avklaring av spørsmål av betydning for straffekravet.
+
+Idealet om å unngå uriktige domfellelser medfører videre at forhåndsavklaringer med partene om gjennomføringen av saken ikke kan få samme formelle betydning som i sivile saker hvor partene har full rådighet. Rettens selvstendige ansvar for sakens opplysning er til hinder for at den uten videre aksepterer mistenktes erkjennelse eller partenes syn på hvilken bevisføring som er påkrevd. En side til dette har også prinsippet om at mistenkte som utgangspunkt ikke skal identifiseres med sin forsvarer, se punkt 9.4.3.6.
+
+Det straffeprosessuelle vernet mot tvungen selvinkriminering medfører dessuten at retten i begrenset grad kan pålegge mistenkte eller forsvareren å bidra med avklaringer, for eksempel med hensyn til hvilke anførsler som vil fremmes, og hvilke deler av faktum som bestrides. Det at mistenkte kan forholde seg taus til anklagen mot seg, innebærer også at forsvareren i den enkelte sak må bedømme hva det er hensiktsmessig å kommentere av hensyn til tiltaltes forsvar. Under ankebehandlingen stiller det seg noe annerledes, og særlig ved anke fra domfelte må det kunne kreves visse avklaringer fra vedkommende, se punkt 20.4.2.1. Den adgangen mistenkte har til å forholde seg passiv under prosessen, er uansett ikke til hinder for å oppfordre til avklaringer om forhold som er av betydning for gjennomføringen av saken. Dessuten vil det ofte også være i mistenktes interesse å bidra til og følge et prosessopplegg som sikrer at behandlingen konsentreres om sakens omtvistede temaer.
+
+Samlet innebærer de nevnte forhold at saksstyring i straffesaker i mindre grad enn i sivile saker kan baseres på formelt bindende avklaringer. Like fullt må retten kunne anmode om avklaringer og dessuten sette frister for slike, selv om fristene ikke vil stenge for videre tematisering av spørsmålet. At retten fastsetter frister for innlegg fra partene, vil dessuten i seg selv bidra til at partenes rett til kontradiksjon ivaretas, og at saken blir slik opplyst at det er forsvarlig å treffe avgjørelse.
+
+I lovutkastet er det generelle prinsippet om aktiv dommerstyring uttrykt i § 30-1 første ledd:
+
+«Retten skal styre saken for å oppnå en forsvarlig, konsentrert og effektiv behandling samt gi partene veiledning for å bidra til en riktig avgjørelse. Saksstyringen og veiledningen skal ikke skje på en måte som kan være egnet til å svekke tilliten til rettens uavhengighet eller objektivitet.»
+
+Annet ledd regulerer forholdet mellom retten og partene:
+
+«Retten kan oppfordre partene til å bidra med slike avklaringer som saken gir grunn til, fastsette frister for partenes innlegg og treffe nødvendige avgjørelser om behandlingen.»
+
+At rettens saksstyring i det vesentlige skal ha formell, og ikke materiell, karakter, og at det skal overlates partene å presentere saken, er uttrykt i utkastet § 7-4:
+
+«Når hensynet til sakens opplysning tilsier det, skal retten ta opp spørsmål om ytterligere bevisføring med partene, jf. § 30-1. Uten hensyn til partenes standpunkt kan retten beslutte ytterligere bevisføring, men i alminnelighet ikke for å opplyse saken til mistenktes ugunst.»
+
+Behovet for saksstyring gjør seg særlig gjeldende under forberedelse til og gjennomføring av hovedforhandling. Utkastets regler om saksstyring på disse stadiene er nærmere omtalt i punkt 18.1 og 18.2.1.
+
+1.  **Oppdeling av forhandlingene eller avgjørelsen**

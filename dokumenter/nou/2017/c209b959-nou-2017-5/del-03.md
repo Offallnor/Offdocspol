@@ -1,907 +1,349 @@
-# NOU 2017: 5, del 3 av 20 (side 28–38)
+# NOU 2017: 5, del 3 av 19
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2017/c209b959-nou-2017-5.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2017-5/id2540653/
 - Original-PDF: https://www.regjeringen.no/contentassets/5e7d542157dc4037856658fbf6edbe9f/no/pdfs/nou201720170005000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 14 tabeller, 24 figurer, 582 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 28]
+Det har over år vært rettet kritikk mot at saker fra kontrollmyndighetene henlegges i for stor grad, til dels under henvisning til kapasitetsmangel[^52]. Konkursrådet har også påpekt at for mange saker om kriminalitet i konkurssaker henlegges på grunn av manglende kapasitet, at mer omfattende saker tilskjæres så kraftig at alvorlig kriminalitet skjules, og at det reageres med forelegg i saker som åpenbart hadde fortjent en mer inngående strafferettslig etterprøving. I den grad alvorlig og samfunnsskadelig økonomisk kriminalitet blir gjenstand for systematiske kapasitetshenleggelser, svikter påtalemyndigheten i sitt samfunnsoppdrag.
 
-26
+Det er grunn til å peke på at når politiet kritiseres for at etterforsking ikke skjer, at etterforskingen er for dårlig, eller at saker henlegges i for stor grad, er dette en kritikk ikke bare mot selve etterforskingen, men også en kritikk som treffer påtalemyndigheten i politiet.
 
-NOU 2017: 5
+1.  **Riksadvokatens vurdering**
 
-Kapittel 2
+Riksadvokaten har ved gjentatte anledninger understreket at det gjøres mye godt straffesaksarbeid, og at landets påtalejurister og etterforskere i det store og hele gjennomfører sine oppgaver på en god og betryggende måte. Tilliten i befolkningen er høy, og den faglige utviklingen synes i det store og hele å gå den rette veien. Samtidig har særlig rapportene *Etterforskningen i politiet 2013* og *Avhørsmetodikk i politiet* påvist områder med åpenbare svakheter som fortjener etatens oppmerksomhet – blant annet knyttet til fravær av påtalemessig og politifaglig etterforskingsledelse, samt et mer forpliktende system for kvalitet, opplæring, trening, evaluering og tilbakemelding innen etterforskingsfaget. Disse svakhetene har gitt seg utslag i at enkelte saker ikke holder ønsket kvalitet.
 
-En påtalemyndighet for fremtiden
+Riksadvokat Tor-Aksel Busch har i samtaler med Påtaleanalyseutvalget fremhevet følgende:
 
-Kapittel 2
+«Kvaliteten er for ujevn. Mange straffesaker holder et høyt nivå, godt tilpasset sakens alvorlighet og kompleksitet. Samtidig konstaterer vi at det i for mange saker er rom for forbedringer. Utfordringen fremover er særlig å løfte kvaliteten innenfor den siste gruppen slik at kvaliteten blir jevnere ved den totale oppgaveløsningen.»
 
-Gjeldende rammer for påtalemyndighetens virksomhet
-I dette kapitlet omtales og defineres sentrale begreper. Om ikke annet tilkjennegis, vil den forståelsen som her legges til grunn, danne utgangspunktet for utvalgets senere drøftelser.
+Denne vurderingen som det her gis uttrykk for, var bakgrunnen for at riksadvokaten – basert på inntrykkene fra embetets egen saksbehandling – i 2010 fant grunn til å understreke, også i det offentlige rom, at det var viktig at etterforskingsoppgavene fikk mer oppmerksomhet og sin naturlige plass ved politiets totale oppgaveløsning.
 
-2.1
+Forventet faglig standard (kvalitet) kan illustreres i figur 2.1, utarbeidet ved Riksadvokatembetet. Et viktig poeng er å angi hvor man på den vertikale skalaen bør ligge.
 
-Et historisk tilbakeblikk
+**\[:figur:figX-X.jpg\]**
 
-Etter eldre norsk rett var hovedregelen at fornærmede selv måtte reise straffesak. Først da det utover på 1700-tallet kom bestemmelser om at utgiftene ved strafferettspleien skulle dekkes av det
-enkelte amt, ble offentlig straffeforfølgning mer
-alminnelig. Straffeprosessloven av 1887 medførte
-viktige endringer i prosessordningen, hvor det
-blant annet ble lagt sterkere vekt på at behandlingen av straffesaker skulle være en partsprosess.
-Til å ivareta dette hensynet på det offentliges
-vegne ble det etablert et eget embetsverk («påtalemyndigheten») under ledelse av en riksadvokat,
-som skulle ha ansvar for straffeforfølgningen. Ved
-reformen ble det lagt stor vekt på at det var de
-profesjonelle hensyn og vurderinger som skulle
-være retningsgivende ved saksbehandlingen. Av
-samme grunn skulle riksadvokaten ikke kunne instrueres av fagministeren, kun av Kongen i statsråd.
-Utviklingen frem mot en selvstendig påtalemyndighet må forstås i sin historiske kontekst,
-med pågående prosesser flere steder i Europa.
-Jørn Holme beskriver kjernen i de ulike prosessordningene i studentavhandlingen Fra amtmann
-til statsadvokat (1985):1
-«Undersøkelsesprosessens kjerne var å oppnå
-den materielle rettferdighet, gjennom å få den
-siktede til å tilstå. Dommeren benyttet ofte
-med politiets hjelp alt fra lokking til trusler og
-vold for å fremtvinge en tilståelse. Inntil det lyktes, formodet man at den mistenkte var skyldig, i stedet for uskyldig. Anklageprosessens
-1
+1.   
 
-Jørn Holme, Fra amtmann til statsadvokat. Om overgangen
-til en selvstendig påtalemyndighet, 1985.
+Skissen illustrerer at både over- og underetterforsking er uheldig og gir grunnlag for veiledning. Etterforsking er en formålsstyrt og rettslig regulert virksomhet. Sammen med klargjøring av faktum er det rettslige begrep som skal belyses. Denne veiledningen utføres dels av påtalejuristen i den enkelte sak, men også av statsadvokatene i deres fagledelse.
 
-vesen ble derimot fremhevet ved at dens mål
-var å vise den formelle rettferdighet; det partene med bevis kunne overbevise retten om.»2
-For å få til en overgang til anklageprosessen måtte
-det reformer til. Emil Aubert (1811–1872) var
-sterkt kritisk til amtmennenes rolle og ønsket å tilrettelegge for en bedre samordnet påtaleutøvelse.
-Løsningen ble en domstoluavhengig påtalemyndighet hvor anklageutøvelsen ble fratatt domstolene – en modell som lå nær den skotske.3 Utviklingen beskrives i ovennevnte studentavhandling:
-«Fra 1. januar 1890 trådte straffeprosessloven
-av 1887 i kraft, og med den ble et helt nytt
-embetsverk etablert. En riksadvokat i spissen
-for 13 statsadvokater skulle heretter på statens
-vegne forfølge de straffbare handlinger.
-Embetsverket utgjorde sammen med politiembetsmennene (fogder og politimestre med
-underordnede) en ny etat; påtalemyndigheten.
-Ved siden av å være organisatorisk adskilt fra
-den øvrige offentlige administrasjonen, fikk
-etaten en svært selvstendig stilling. Riksadvokaten kunne bare instrueres av Kongen i statsråd.»
-Stortingskommisjonen fant det under sin behandling nødvendig å innlemme politi- og lensmannsetaten i påtalemyndigheten. Av frykt for juristenes
-innflytelse over politiet hadde det tidligere vært
-stor skepsis mot et slikt grep. Dette utvidet påtalemyndigheten betraktelig. Ryssdal-utvalget omtaler problematikken og den etterfølgende debatten
-på følgende måte:4
-«Det fremgår ikke av forarbeidene til straffeprosessloven av 1887 at en den gang var inne
-på forholdet mellom påtalemyndighet og politiet for øvrig eller mellom embetsmenn og tje2
-3
-4
+*Overetterforsking* innebærer at det utføres etterforskingsskritt som ikke er nødvendig for å treffe en korrekt påtalemessig avgjørelse. Eksempelvis stiller etterforsker under avhøret spørsmål om uvesentlige eller irrelevante forhold, eller det innhentes bevis om temaer som allerede er godt og tilstrekkelig belyst. Etterforskingsledelsen må ha nødvendig oppmerksomhet om politiets samlede ressurser. Brukes uforholdsmessig mye tid og krefter på sak A, vil dette nødvendigvis innebære at andre saker får mindre oppmerksomhet. Dersom en vinningsforbryter tilstår ni hytteinnbrudd, men nekter for det tiende, vil det derfor ofte være godt påtaleskjønn å gi en prosessøkonomisk påtaleunnlatelse for det siste innbruddet hvis det innebærer at saken kan gå som en tilståelsesdom i stedet for en hovedforhandling med full bevisføring.
 
-Holme side 64.
-Holme side 66.
-NOU 1988: 39 Politi og påtalemyndighet side 11.
+*Underetterforsking* innebærer at saken ikke blir tilstrekkelig opplyst. Sentrale spor blir ikke fulgt opp, de ansvarlige avgrenser for tidlig mot alternative forklaringer, osv. Resultatet er et uavklart og utilstrekkelig bevisbilde. Fokuset på hypotesetenkning har av denne grunn fått økende oppmerksomhet, også i undervisningssammenheng. Underetterforsking og dårlig etterforsking er overlappende størrelser, men likevel slik at en kvalitativt dårlig etterforsket sak kan være anlagt tilstrekkelig bredt, mens en underetterforsket sak karakteriseres ved at naturlige etterforskingsskritt er utelatt.
 
-[Side 29]
+Den påtalemessige styringen er i denne sammenheng særlig viktig. Etterforskingen er en formålstyrt virksomhet, hvor etterforskingen må rettes inn mot kriteriene for straffbarhet, slik disse fremkommer i loven.
 
-NOU 2017: 5
-En påtalemyndighet for fremtiden
+1.  **Rettssikkerhet**
 
-nestemenn. Det varte imidlertid ikke lenge før
-dette forholdet ble tatt opp og ble gjenstand for
-diskusjon.»
-Den organiseringen av påtalemyndigheten landet
-fikk ved straffeprosessloven av 1887 var åpenbart
-en vellykket konstruksjon. Til tross for endringer
-og tilpasninger i arbeidsoppgaver, bemanning og
-kompetansefordeling mellom nivåene er hovedtrekkene fortsatt de samme i dag. Etter å ha virket
-i nesten et århundre ble loven av 1887 avløst av
-straffeprosessloven av 22. mai 1981. Her videreføres i det alt vesentlige påtalemyndigheten i dens
-opprinnelige form.
-Som nevnt har Straffeprosessutvalget funnet
-det hensiktsmessig å vie et eget kapittel til påtalemyndigheten og dens virksomhet. Hovedinntrykket er at dagens system og tradisjon videreføres,
-med enkelte justeringer.
+Begrepet rettssikkerhet brukes i dagliglivet i en rekke ulike sammenhenger og med varierende innhold. På et overordnet plan kan begrepet forstås som et sett av ufravikelige minstekrav. I jussens verden er det vanlig å bruke begrepet som uttrykk for at straffeprosessuelle spilleregler er fulgt. Rettssikkerhetsbegrepet knytter seg i den tradisjonelle forståelsen til at siktede, men også andre, kan ha interesser og prosessuelle rettigheter som skal respekteres i straffesaksbehandlingen.
 
-2.2
+En begrenset etterforskingsinnsats kan eksempelvis være ressurseffektiv, men vil kunne innebære større usikkerhet enn dersom etterforskingsomfanget nærmer seg grensene for det mulige. Begrensninger i mistenktes rettigheter, som for eksempel begrensninger i det frie forsvarervalg, vil kunne være effektiviserende for etterforsking og iretteføring, men samtidig kunne svekke muligheten for et effektivt forsvar og øke risikoen for uriktige domfellelser. Et viktig, men samtidig krevende kriminalpolitisk spørsmål, knytter seg særlig til hvordan man på ulike områder skal fastlegge en minstestandard som det ikke kan gripes inn i.
 
-Statens maktapparat
+Straffeprosessutvalget benytter rettssikkerhetsbegrepet om «sikkerhet for at konstatering av straffansvar bygger på korrekt faktum og juss«[^53]. Her fremheves nettopp det verdimessige standpunkt som ligger til grunn for både det strenge beviskravet i straffesaker og prosessuelle garantier som følger av straffeprosesslovgivningen.
 
-Politiet og påtalemyndigheten i Norge speiler på
-mange måter det norske samfunn og dets historikk, og må ses i sammenheng med den sentrale
-rollen politiet historisk har spilt i det norske bondesamfunnet. Målt per innbygger er etatene relativt små, men begge blir samtidig ansett å ha høy
-kompetanse. I adgangen til maktbruk ligger en latent kime til ideologiske og faktiske spenninger.
-Politiet og påtalemyndigheten er på sett og vis satt
-til å verne om det bestående. Dette har medført
-stor interesse både i befolkningen og hos politikerne for hvordan etatene styres og ledes. I tillegg
-spiller media en sentral rolle som premissgiver for
-hvilke kriminalpolitiske områder og saker som
-settes på dagsordenen, se Makt- og demokratiutredningen.5
-Stein Østre6 behandler i boken Kommunaløkonomiske prinsipper spørsmålet om hvilke oppgaver som bør tilligge offentlig sektor. En viktig
-sondring går mellom strukturelle, makroøkonomiske, fordelingsmessige og produksjonsrelaterte oppgaver:
-«Strukturelle oppgaver gjelder virksomhet
-som er nødvendig for å definere en nasjonalstat
-og som representerer nødvendige forutsetninger for et demokratisk samfunn. Det gjelder
-5
-6
-
-NOU 2003: 19 side 48 flg.
-Stein Østre, Kommunaløkonomiske prinsipper, Bedriftsøkonomenes forlag 1993 side 36 flg.
-
-27
-
-Kapittel 2
-
-statsapparatet med nasjonalforsamlingen,
-rettsvesenet, forsvar og politi.»
-Påtalemyndighetens og politiets funksjon som garantist for nasjonalstatens og demokratiets eksistens har bred oppslutning i det norske samfunn.
-Den delen av virksomheten som knytter seg til utøvelse av makt, er en kjerneoppgave som må være
-under full offentlig kontroll og styres med basis i
-en tradisjonell planmodell. Et slikt verdisyn gjenfinnes i samarbeidsavtalen til den sittende regjeringen (Sundvollen-plattformen), hvor det i kapittel 4 heter:
-«Regjeringen vil føre en justispolitikk som sikrer den enkeltes behov for trygghet og rettssikkerhet. Kriminalitetsbekjempelse må skje
-innenfor rammene av grunnleggende rettsstatsprinsipper.»
-Riksadvokat Tor-Aksel Busch har ved flere anledninger fremhevet at den tillit og makt påtalemyndigheten er gitt, fordrer høy kvalitet i etatens arbeid.
-I rundskriv 2/20127 kapittel II punkt 2 heter
-det:
-«Høy kvalitet er et ufravikelig krav og en forutsetning for at de øvrige mål kan nås.»
-
-2.3
-
-Grunnleggende spørsmål om
-organisering
-
-2.3.1 Innledning
-Påtaleanalyseutvalgets mandat innledes slik:
-«I Prop. 61 LS (2014 – 2015) Endringer i politiloven mv. (trygghet i hverdagen – nærpolitireformen) uttales det blant annet at ‘Det skal
-foretas en utredning av om påtalemyndigheten
-har riktig kapasitet og kompetanse’. I Innst. 306
-S (2014 – 2015) heter det: ‘Komiteen merker
-seg at det skal foretas en utredning av om påtalemyndigheten har riktig kapasitet og kompetanse. Komiteen viser til at målet med utredningen ikke er å endre det integrerte to-sporede
-system’.»
-Utvalget har, som nevnt i kapittel 1, vært opptatt
-av hvilke føringer for arbeidet som ligger i dette.
-7
-
-Krav til straffesaksbehandlingen i politiet og ved statsadvokatembetene.
-
-[Side 30]
-
-28
-
-NOU 2017: 5
-
-Kapittel 2
-
-En påtalemyndighet for fremtiden
-
-Justis- og beredskapsdepartementet har i brev til
-utvalget 23. november 2016 uttalt:
-«Departementet presiserer at henvisningen til
-‘det integrerte to-sporede system’ er et uttrykk
-for at formålet med utredningen ikke skal være
-å endre den grunnleggende norske modellen
-som innebærer at laveste nivå i påtalemyndigheten (politijuristene) er integrert i politiet.
-Dette er imidlertid ikke til hinder for at utvalget, innenfor denne ramme, drøfter ulike måter
-å bedre kvalitet og organisering på.»
-Utvalget er kjent med at ulike sider ved forholdet
-mellom politi og påtalemyndighet for tiden diskuteres. Blant annet traff fagforeningen Politijuristene på sitt årsmøte i 2016 følgende vedtak:
-«Landsmøtet gir styret fullmakt til å nedsette
-en arbeidsgruppe for å utrede påtalemyndighetens integrerte rolle i politiet og betydningen
-av et eventuelt skille politi- og påtalemyndighet, herunder å utrede mandat for arbeidsgruppen.»
-Slike spørsmål har også vært diskutert i Politiets
-Fellesforbund (PF). Forbundet traff på landsmøtet i 2014 følgende vedtak:
-«PF skal arbeide for at politiet og påtalemyndigheten utvikles som to selvstendige organisasjoner. Uavhengig av organisasjonsform skal
-PF arbeide for et bedre samarbeide mellom
-politi- og påtalemyndighet. Politikompetansen
-skal være førende i straffesaksbehandlingen.»
-En arbeidsgruppe i PF leverte i april 2016 utredningen Politi og påtale – grundig utredning nødvendig. På landsmøtet i 2016 traff forbundet følgende
-vedtak:
-«PF skal arbeide for at det gjennomføres en
-politistudie som utreder det tosporede system.»
-Selv om utvalgets oppdrag ikke er å endre den
-norske modellen, finner utvalget grunn til å
-komme inn på enkelte sider av denne, da modellen utgjør en ramme for utvalgets arbeid.
-
-2.3.2 Det tosporede system
-Politietaten i Norge har en bredt sammensatt oppgaveportefølje. Når det gjelder påtale og etterforsking, er politimestrene underlagt distriktets
-
-statsadvokat, som er underlagt riksadvokaten,
-som igjen kun står til ansvar for Kongen i statsråd.
-For så vidt gjelder de øvrige deler av politiets virksomhet, er politimestrene underlagt politidirektøren, som i sin tur rapporterer til justisministeren.
-Politiet utøver med andre ord to hovedformer for
-virksomhet, som oppover i systemet fordeler seg
-langs «to spor». Først hos Kongen forenes disse
-sporene. Straffeprosessutvalget har for øvrig foreslått å formalisere riksadvokatens uavhengighet.8
-Politiets virksomhet er enten underlagt justisministeren eller riksadvokaten. Den delen av virksomheten som politidirektøren og justisministeren er ansvarlig for, er underlagt politisk kontroll. Dette gjelder ikke for straffesaksbehandlingen og påtalemyndigheten, som riksadvokaten er
-ansvarlig for. Påtalemyndigheten er i enkeltsaker
-politisk uavhengig. Denne uavhengigheten fra politisk kontroll er i Norge ansett som et svært viktig
-prinsipp, og er respektert og anerkjent også av de
-politiske myndigheter.
-En vanlig misforståelse synes å være at begrepet tosporet beskriver den norske modellen, hvoretter påtalemyndigheten er integrert i politiet. Det
-tosporede systemet har i prinsippet ingen sammenheng med den integrerte påtalemodellen.
-Selv om man skulle skille politi og påtalemyndighet, må ansvaret for straffesaksbehandlingen uansett ligge hos påtalemyndigheten og riksadvokaten, for å sikre politisk uavhengighet. Et skille av
-politi og påtalemyndighet vil følgelig ikke kunne
-løse utfordringen med at det er to sjefer for politiets virksomhet.
-
-2.3.3 Integrert påtalefunksjon
-Ordningen med en integrert påtalefunksjon fremgår forutsetningsvis av straffeprosessloven kapittel 6. Selve begrepet «fremskutt, integrert påtalemessig ledelse» oppsto og fikk sitt innhold i løpet
-av 1990-tallet.
-Integrert påtale innebærer at første nivå i påtalemyndigheten er integrert i politiet. Påtalejuristene er ansatt i politiet, og er samlokalisert med
-øvrige politiansatte. Ansvarsforholdene i politiet
-er dermed todelt: Mens ansvaret for straffesaksbehandlingen ligger til riksadvokaten, har Politidirektoratet og Justis- og beredskapsdepartementet
-ansvaret for administrative, økonomiske og polisiære spørsmål. På første nivå er de to sporene samlet hos politimesteren, som er leder både for påtalemyndigheten i politiet og for øvrig virksomhet i
-politiet.
-8
-
-Se punkt 2.8.
-
-[Side 31]
-
-NOU 2017: 5
-En påtalemyndighet for fremtiden
-
-Fordelen med et slikt system er særlig at det
-legger til rette for et nært og godt samspill mellom påtalejurister og polititjenestemenn under etterforskingen. Tilhengere av ordningen trekker
-gjerne frem de praktiske fordelene det er å ha direkte involverte politijurister, at dette høyner kvaliteten og effektiviteten under etterforskingen, og
-at ordningen øker påtalemyndighetens mulighet
-til å føre en effektiv legalitetskontroll med politiets
-virksomhet. Et slikt syn finner vi eksempelvis i
-Sjøvold-rapporten punkt 7.1.2:
-«Med en integrert påtalemessig ledelse som
-beskrevet ovenfor, vil den påtaleansvarlige
-kjenne hovedinnholdet i mange saker, og vil
-med et meget begrenset tidsforbruk kunne
-fatte en velfundert påtaleavgjørelse. Det følger
-av dette at en integrert påtalemessig ledelse
-ikke bare bidrar til å bedre kvaliteten på og
-fremdriften i etterforskingen, men vil også ha
-tilsvarende effekt for arbeidet på påtalestadiet.»
-Kritikerne har gjerne pekt på at en integrert påtalemyndighet kan utfordre den faktiske objektiviteten som følge av et for sterkt «eierskap» til straffesakene, med fare for å gå i «bekreftelsesfellen».
-Med eierskap menes i denne sammenheng en personlig identifisering med straffesaken. I tillegg
-kan den utadrettede rollen som uavhengig aktør/
-aktor bli utfordret ved at påtalejuristen oppfattes
-som en partsrepresentant for politiet. Det er også
-fremholdt at påtalejurister leder etterforskingen,
-uten at det stilles krav til kompetanse innen etterforsking eller ledelse.
-Et integrert system finner vi også i Danmark.
-Der har man likevel, etter siste omorganiseringsprosess, gått vesentlig lenger i retning av et faktisk
-skille ved at riksadvokaten både har det faglige og
-administrative ansvaret for politijuristene.
-I Sverige har man en annen organisering, ved
-at Åklagarmyndigheten er plassert utenfor politiet, som en selvstendig organisasjon under ledelse av Riksåklagaren. Det innebærer at
-Riksåklagaren har det totale ansvaret for juristene
-som er ansatt i Åklagarmyndigheten, og at politimesteren ikke er tillagt noe ansvar som påtalemyndighet i sitt distrikt.
-
-2.3.4
-
-Tidligere behandling av organiseringsspørsmålet
-Spørsmålet om organisering av politi og påtalemyndighet har vært utredet en del ganger tidligere. Påtalemyndigheten som egen etat, ledet av
-
-29
-
-Kapittel 2
-
-en riksadvokat, ble etablert ved straffeprosessloven av 1887. Forholdet mellom politiet som sådan
-og påtalemyndigheten ble ikke problematisert i
-dette lovarbeidet. I 1950 ble Politiutvalget oppnevnt. Det var ingen del av mandatet å utrede
-spørsmålet om å skille påtalemyndigheten fra politiet, men dette ble likevel drøftet av utvalget. Utvalgets flertall og departementet gikk ikke inn for
-et skille.
-I 1966 ble Aulie-utvalget oppnevnt. Heller ikke
-dette utvalget hadde som mandat å se på forholdet
-mellom påtalemyndigheten og politiet, men utvalget behandlet likevel dette spørsmålet og konkluderte med at den gjeldende ordningen burde opprettholdes. En arbeidsgruppe som ble nedsatt
-som følge av Aulie-utvalget, konkluderte på
-samme måte.
-Den siste utredningen om dette kom for snart
-30 år siden, og Påtaleanalyseutvalget finner det for
-sammenhengens skyld riktig å redegjøre kort for
-denne utredningen. I 1987 ble det nedsatt et utvalg, ledet av Signe Marie Stray Ryssdal, med
-mandat til å utrede arbeids- og ansvarsfordelingen
-mellom politi og påtalemyndighet.9 I sin utredning
-drøfter utvalget fem modeller, som i korthet er beskrevet slik:
-Modell I: I denne modellen var politi og påtalemyndighet administrativt atskilt. Påtalemyndigheten fikk ansvaret for etterforskingen i alle saker
-som ikke var av «enkel beskaffenhet». Hvilke saker dette var, skulle fastsettes av riksadvokaten.
-Modellen forutsatte nært samarbeid mellom politi
-og påtalemyndighet, samtidig som den forutsatte
-et administrativt og fysisk skille mellom dem.
-Ordningen ble beskrevet som dyrere enn gjeldende ordning, samtidig som utvalget mente den
-lett ville bli mer tungrodd og byråkratisk. Modellen ville ikke føre til bedret rettssikkerhet eller
-raskere saksbehandling. Ingen i utvalget gikk inn
-for denne modellen.
-Modell II: Denne modellen forutsatte et administrativt skille mellom politi og påtalemyndighet,
-men uten at påtalemyndigheten fysisk skilles ut.
-Politiet vil ha ansvaret for all etterforsking. Ferdig
-etterforskede saker skal bare forelegges påtalemyndigheten når noen er eller har vært siktet/
-mistenkt i saken. Modellen fikk bare støtte fra utvalgsmedlemmet fra Norsk Politiforbund.
-Modell III: Modellen forutsatte ikke et administrativt skille mellom politi og påtalemyndighet.
-Politimesteren er nederste ledd i påtalemyndigheten, med delegasjonsadgang. Politijuristene for
-øvrig skulle ikke ha selvstendig påtalemyndighet,
-9
-
-Se punkt 1.5.2.
-
-[Side 32]
-
-30
-
-NOU 2017: 5
-
-Kapittel 2
-
-En påtalemyndighet for fremtiden
-
-uten etter delegasjon. Ingen gikk inn for denne
-modellen.
-Modell IV: Modellen forutsatte ikke et administrativt skille mellom politi og påtalemyndighet.
-Politijuristene får straks ansvaret for etterforskingen av saker hvor det anvendes tvangsmidler, og
-andre saker av «spesiell juridisk karakter». Øvrige
-saker etterforskes ferdig av etterforskingsenheten, som får en mer selvstendig stilling enn tidligere. Tre medlemmer støttet denne modellen, og
-medlemmet fra Norsk Politiforbund støttet den
-subsidiært. Tre av disse fire mente at tvangsmidler som pågripelse, ransaking og beslag måtte
-kunne gjennomføres uten beslutning av påtalemyndigheten.
-Modell V: Denne modellen beskrev den gjeldende ordningen, som svarer til dagens system.
-Tre av medlemmene gikk inn for denne modellen.
-
-2.3.5
-
-Politisk behandling av organiseringsspørsmålet
-Ingen av disse tidligere utredningene ledet til at
-politikerne ønsket endringer, heller ikke Ryssdalutvalget. Gjennom St.meld. nr. 23 (1991–1992)
-sluttet departementet seg til Ryssdal-utvalgets
-modell V, altså å opprettholde den gjeldende ordningen. Også i Stortinget var det enighet om at
-den nåværende organisasjonsformen burde beholdes.
-Det har ikke senere kommet politiske signaler
-om at en annen ordning enn dagens er ønsket. I
-Prop. 61 LS (2014–2015) om politireformen heter
-det eksempelvis på side 58:
-«Systemet med påtalemyndighet integrert i
-politiet legger til rette for et nært samspill mellom etterforskning og påtale under straffesaksbehandlingen. Videre skal påtalemyndigheten
-i politiet sikre en politisk uavhengig straffesaksbehandling.»
-I samme dokument heter det på side 99:
-«Det er et grunnelement i norsk straffeprosess
-at etterforskning og påtalemyndighet skal utøves uavhengig av departement og direktorat.
-Kontroll med politiets straffesaksbehandling
-utøves av påtalemyndigheten. (…) Saksbehandlingen krever godt (og tidlig) samspill
-mellom påtalejurist og etterforsker, og etterforskningen bør skje innenfor rammen av et
-godt etterforskningsmiljø med kompetent politifaglig ledelse.»
-
-På side 100 heter det: «Organiseringen må innrettes på en måte som sikrer en reell påtaleledelse av
-straffesaksarbeidet i politidistriktene.»
-I Innst. 306 S (2014–2015) er det politisk enighet om at påtalejurister og etterforskere skal samhandle for å få en mest mulig effektiv straffesaksbehandling, jf. for eksempel side 20 og 22. På side
-38–39 heter det:
-«Komiteen viser til det to-sporede systemet
-med påtalemyndighet i politiet som innebærer
-at politidistriktene er underlagt to styringslinjer; riksadvokat og statsadvokat i faglige spørsmål som gjelder straffesaksbehandlingen, og
-departementet og Politidirektoratet for det
-meste av den øvrige virksomheten.
-Komiteen viser til at systemet med påtalemyndighet integrert i politiet legger til rette for
-et nært samspill mellom etterforskning og påtale under straffesaksbehandlingen. I tillegg
-sikrer systemet med påtalemyndigheten i politiet en politisk uavhengig straffesaksbehandling. God samhandling, god ledelse og en hensiktsmessig organisering er vesentlig for å
-oppnå forbedringer på dette området.
-Komiteen merker seg at det skal foretas en
-utredning av om påtalemyndigheten har riktig
-kapasitet og kompetanse. Komiteen viser til at
-målet med utredningen ikke er å endre det integrerte tosporede system.»
-Siste avsnitt er også inntatt i Påtaleanalyseutvalgets mandat.
-
-2.3.6 Oppsummering
-Utvalget legger i samsvar med mandatet dagens
-system til grunn, jf. særlig Justiskomiteens uttalelse og departementets presisering i brev av 23.
-november 2016. I dette ligger at utvalget bygger
-på at behandlingen av straffesakene går i «to
-spor», og at påtalemyndigheten på første nivå er
-integrert i politiet. Utvalget vil imidlertid vurdere
-flere organisatoriske endringer som kan tenkes
-foretatt innen disse rammene.
-
-2.4
-
-Etterforsking
-
-2.4.1
-
-En formålsstyrt virksomhet
-
-Etterforsking er en av kjerneoppgavene til politiet
-og påtalemyndigheten. Av straffeprosessloven
-§ 226 første ledd fremgår det blant annet at
-
-[Side 33]
-
-NOU 2017: 5
-En påtalemyndighet for fremtiden
-
-«[f]ormålet med etterforskingen er å skaffe til
-veie de nødvendige opplysninger for avgjørelsen av spørsmålet om tiltale, og å tjene som forberedelse for sakens videre behandling ved
-retten».
-I dette ligger at etterforskingen skal søke å klargjøre om et straffbart forhold er begått, avklare
-øvrige omstendigheter som en påtaleavgjørelse
-forutsetter, samt eventuelt forberede sakens behandling i retten. Er formålet, helt eller delvis, et
-av de som angis i straffeprosessloven § 226, er
-virksomheten å anse som etterforsking.
-Riksadvokaten utga i 1999 et rundskriv om etterforsking.10 Rundskrivet har i ettertid fått tilslutning av så vel Stortinget som Justis- og beredskapsdepartementet, og er i dag den autoritative
-kilden for forståelse og rekkevidde av etterforskingsbegrepet.
-I Ot.prp.nr. 60 (2004–2005) side 4211 heter det
-eksempelvis:
-«Etter departementets syn bør grensen mellom etterforsking og annen politivirksomhet
-også i fremtiden trekkes opp med utgangspunkt i retningslinjene i riksadvokatens rundskriv nr. 3/1999 (Etterforsking).»
-
-2.4.2 Ansvar og myndighet
-Sondringen mellom etterforsking og annen politivirksomhet er viktig i flere henseender, idet det
-blant annet angir:
-– hvem som har ansvar og instruksjonsmyndighet
-– hvilke regelsett som styrer virksomheten
-– metodetilgang
-Straffesaksbehandlingen ligger under riksadvokatens ansvarsområde, og det tilligger også riksadvokaten å definere den til enhver tid gjeldende
-norm for hvilke krav som skal stilles til etterforskingen, både generelt og i den enkelte sak. Politidirektøren har for sin del ansvaret for at den definerte normen realiseres på en effektiv og hensiktsmessig måte gjennom kompetansehevende
-tiltak, ressursfordeling og organisering.
-Samtidig har flere av utvalgets respondenter
-fremhevet at handlingsplanen for løft av etterforskingsfeltet, samt Politidirektoratets økte fokus på
-10
-11
-
-Rundskriv 3/1999.
-Om lov om endring i straffeprosessloven og politiloven
-(romavlytting og bruk av tvangsmidler for å forhindre
-alvorlig kriminalitet).
-
-31
-
-Kapittel 2
-
-etterforskingsfaget, må forventes å fremtvinge en
-diskusjon om grenseflaten mellom riksadvokat og
-politidirektør. Selv om det prinsipielle utgangspunktet er avklart, oppstår i praksis en rekke
-spørsmål, ikke minst knyttet til hvem som definerer kvalitet.
-Den forvaltningsmodellen som er foreslått i
-handlingsplanen, aktualiserer dette ytterligere. I
-planen side 20 flg. heter det blant annet:
-«Tiltak 1 – Forvaltnings- og utviklingsapparat
-for etterforskning
-Hensikten med tiltaket er å etablere et forvaltnings- og utviklingsapparat for etterforskningsfaget som skal bidra til å sikre en kunnskapsbasert, enhetlig og styrt videreutvikling
-av etterforskningsfeltet.
-Tiltaket skal etablere et helhetlig kvalitetssikringssystem for etterforskningsfeltet slik at
-Riksadvokaten, Politidirektoratet og eventuelle
-fag- og metodeansvarlige (…) skal kunne beslutte og innføre nasjonale prosedyrer og standarder, samt sørge for at disse følges og videreutvikles. Krav til referanse i faget vil ivaretas
-gjennom etablering av et personuavhengig system hvor påtalemyndigheten, særorgan og politidistrikter er representert. Her skal aktuelle
-spørsmål innen etterforskningsfaget løftes og
-høres før det presenteres for beslutningstaker.
-Etablering av et forvaltnings- og utviklingsapparat skal understøtte det tosporede system,
-og gi beslutningsstøtte i den linjen der problemstillingen hører hjemme.»
-Arbeidet med etterforskingsløftet, beskrevet som
-et samarbeidsprosjekt mellom riksadvokaten og
-Politidirektøren, er lagt til direktoratet. Flere respondenter gir overfor utvalget uttrykk for at de
-oppfatter dette både prinsipielt og praktisk problematisk, ettersom flere av tiltakene griper rett inn i
-riksadvokatens ansvarsområde. Spesielt har det
-vært uttrykt en viss uro for at innføringen av fagog metodeansvarlige, og bruken av begreper som
-«standarder», kan utfordre det tosporede system
-og underminere påtalemyndighetens ansvar med
-å definere innholdet i kvalitetsbegrepet.
-Riksadvokaten har for sin del vist til det positive ved at Politidirektoratet de siste par årene har
-engasjert seg mer enn tidligere for etterforskingsfaget. Hva gjelder forvaltnings- og utviklingsapparatet, understreker embetet at et slikt organ utelukkende skal bidra med beslutningsstøtte for de
-avgjørelser som skal treffes i linjen på vanlig
-måte, og at beslutningsstrukturen må beskrives
-detaljert for å unngå uønskede gråsoner. Den høy-
-
-[Side 34]
-
-32
-
-NOU 2017: 5
-
-Kapittel 2
-
-En påtalemyndighet for fremtiden
-
-ere påtalemyndighet må også gis en plass i et slikt
-apparat. Dersom det skulle være tvil om hvilket
-spor en problemstilling hører hjemme i, må dette
-avklares.
-
-2.4.3 Påtalejuristens rettslige posisjon
-Etter straffeprosessloven av 1887 var etterforskingen en funksjon av den påtalekompetansen som lå
-til politimesteren, men som kunne overdras til representanter for påtalemyndigheten i politiet.
-Dette prinsippet er videreført i straffeprosessloven av 1981, som opprettholder kompetanseforholdet mellom påtalemyndigheten og de øvrige
-tjenestemenn i politiet. Etter denne lov § 225 heter
-det:
-«Etterforsking iverksettes og utføres av politiet.»
-Bestemmelsen suppleres av påtaleinstruksen § 75 annet ledd første punktum, som lyder:
-«Påtalemyndigheten har ansvaret for at etterforskningen skjer i samsvar med lov og
-instruks og kan etter behovet i den enkelte sak
-gi pålegg om etterforskingens gjennomføring.»
-Det springende punkt i debatten har særlig vært
-om uttrykket «politiet» i straffeprosessloven § 225
-retter seg mot påtalemyndigheten i politiet, eller
-om den legger en eksklusiv eller selvstendig kompetanse til politiet for øvrig. Det anses i dag som
-sikker rett at begrepet «politiet» i denne sammenheng betyr «påtalemyndigheten». Selv om forarbeidene til loven ikke omtaler problemstillingen
-eksplisitt, følger dette forutsetningsvis av lovens
-system. Spørsmålet drøftes blant annet av Georg
-Fr. Rieber-Mohn i 1996:12
-«Med denne bestemmelse i påtaleinstruksen
-§ 7-5 annet ledd første punktum er det umulig å
-forstå straffeprosessloven § 225 første ledd første punktum slik at den legger noen form for
-eksklusiv eller selvstendig kompetanse til polititjenestemenn uten påtalemyndighet.»
-12
-
-Nytt i strafferetten nr. 2 1996 side 19 «Innlegg og kommentarer – etterforskning og påtalemyndighet» av daværende
-riksadvokat Georg Fr. Rieber-Mohn. På side 28 problematiseres hvorvidt det finnes et politifaglig område innenfor
-etterforskingen som er unndratt påtalemyndighetens
-ansvar. Spørsmålet besvares benektende under henvisning
-til at konsekvensen i så fall måtte bli at denne delen av virksomheten var underlagt politisk styring.
-
-Straffeprosessutvalget foreslår
-dette.13
-
-å tydeliggjøre
-
-«For å unngå uheldig sammenblanding av roller og sikre nødvendig objektivitet og uavhengighet er det imidlertid etter utvalgets vurdering en forutsetning at ordningen bygger på
-klare ansvarslinjer. På denne bakgrunn mener
-utvalget det bør følge uttrykkelig av loven at
-det er påtalemyndigheten som har ansvaret for
-alle sider ved etterforskingen.»
-
-2.4.4
-
-Påtalemyndighetens gjennomslagskraft
-Som leder av etterforskingen, som er en rettslig
-styrt prosess, er det en grunnleggende forutsetning at påtalemyndigheten har gjennomslagskraft
-for sine forslag og vurderinger.
-I mandatet nevnes begrepet gjennomslagskraft
-særskilt. I den danske politianalysen14 var Anklagemyndighetens manglende gjennomslagskraft
-en viktig begrunnelse for de omfattende
-endringer som der ble foreslått, og senere vedtatt.
-Begrunnelsen var særlig at Anklagemyndigheten
-må ha tilstrekkelig gjennomslagskraft overfor politiet for å kunne ivareta sitt ansvar og utføre sin
-virksomhet.
-Påtaleanalyseutvalget vil bruke begrepet om
-de vurderinger, forslag og direktiver som påtalemyndigheten foretar eller gir overfor politiet, og i
-hvilken grad disse etterleves og følges opp. I dette
-ligger en erkjennelse av at en straffesaksbehandling av høy kvalitet med nødvendig effektivitet og
-fremdrift forutsetter en aktiv og kompetent påtalemyndighet. Gjennomslagskraft er et premiss for
-at påtalemyndigheten skal kunne oppfylle sitt
-samfunnsoppdrag og etterleve prinsippet om en
-uavhengig påtalemyndighet.
-Med gjennomslagskraft i et systemperspektiv
-menes at påtalemyndigheten som sådan har nødvendig gjennomslagskraft for sine prioriteringer.
-Riksadvokaten utgir årlig et mål- og prioriteringsrundskriv, og et legitimt spørsmål er i hvilken
-grad disse føringene har reell gjennomslagskraft i
-politiets hverdag. Spørsmålet behandles nærmere
-under punkt 4.9.
-I et individperspektiv rettes søkelyset mot den
-enkelte påtalejurist, og om denne i hverdagen har
-nødvendig gjennomslagskraft i den enkelte straffesak. Også her støter man raskt på utfordringen
-13
-14
-
-NOU 2016: 24 side 302.
-Fremtidens politi – den danske politianalysen (se punkt
-1.6.5).
-
-[Side 35]
-
-NOU 2017: 5
-En påtalemyndighet for fremtiden
-
-med at påtalejuristen i liten grad har makt eller beslutningsmyndighet over ressursbruken. Den reelle gjennomslagskraften varierer nok fra distrikt
-til distrikt, kanskje også mellom forskjellige enheter innenfor et distrikt, og utvilsomt fra person til
-person, avhengig av faktorer som erfaring, kompetanse og kultur. Som leder av etterforskingen er
-påtalejuristen ansvarlig for sluttproduktet, og det
-er påtalejuristen som i mange henseender «fronter» etterforskingen utad i media og ved iretteføringen for domstolene. Den enkelte påtalejurist
-blir også målt på fremdriften i sakene og antall påtaleavgjorte saker. De fleste påtalejurister har et
-personlig ansvar for den porteføljen han eller hun
-til enhver tid er ansvarlig for. Sett i lys av dette blir
-behovet for gjennomslagskraft under etterforskingen både logisk og nødvendig.
-En generell utfordring for påtalemyndigheten
-på alle nivåer er at Politidirektoratet og politimestrene har hånd om midlene som må til for å kunne
-foreta faktiske prioriteringer. Sverige og Danmark
-har redegjort for tilsvarende utfordringer.
-
-2.5
-
-Kvalitet
-
-2.5.1 Normative krav
-Redusert kriminalitet, god rettssikkerhet og en
-mer effektiv justissektor er blant de hovedmål Regjeringen har satt for straffesakskjeden. Riksadvokaten har i rundskriv 2/2012 beskrevet hvilke
-krav og forventninger som stilles til politiet og
-statsadvokatene i straffesaksarbeidet, og har i
-sine årlige mål- og prioriteringsskriv understreket
-viktigheten av å
-«sikre en målrettet og effektiv straffesaksbehandling av høy kvalitet som ivaretar rettssikkerhet og menneskerettigheter».
-Kvalitet handler om i hvilken grad en virksomhet
-tilfredsstiller obligatoriske eller underforståtte
-krav og forventninger. De tradisjonelle målene for
-straffesaksbehandlingen er høy kvalitet, høy oppklaring, kort saksbehandlingstid og adekvat reaksjon. Selv om dette også fremover vil være viktige
-kvalitetsindikatorer, er det ønskelig å videreutvikle kvalitetsbegrepet med økt oppmerksomhet
-mot selve oppgaveutførelsen og prosessen, og
-ikke kun se på sluttproduktet.
-Riksadvokatens uttalte mål er å utvikle et mer
-forpliktende, praktisk og målbart system som
-samtidig ikke resulterer i en «endeløs talleksersis».15 Et revidert kvalitetsbegrep som i større
-grad speiler underliggende aktiviteter og ikke kun
-
-33
-
-Kapittel 2
-
-sluttproduktet, vil være til nytte både i undervisningssammenheng, for den enkelte etterforsker
-og påtalejurist og for statsadvokatene i deres
-fagledelse.
-
-2.5.2 Utvikling av kvalitetsbegrepet
-Kvalitetsindikatorer skal speile den førende norm,
-og utvelgelsen må utledes av føringer fra lovgiver,
-eksempelvis om tidsbruk, eller direktiver og retningslinjer. Beste praksis kan også angi en ønsket
-retning. Med utgangspunkt i riksadvokatens
-rundskriv om kvalitet i straffesaksbehandlingen,16 supplert med forskningsbasert litteratur,
-oppstiller professor Tor-Geir Myhrer en tenkt tabellarisk modell for angivelse av kvalitet i den enkelte sak. Modellen er basert på åtte delkrav.17
-Riksadvokaten har med tilslutning fra Politidirektoratet videreutviklet konseptet og oppstilt følgende kvalitetsmarkører som utgangspunkt for
-arbeidet fremover:
-– etterforskings- og prioriteringsplikten (jf.
-§ 224)
-– hensiktsmessig omfang og ressursbruk (jf.
-§ 226)
-– høy oppklaring
-– adekvat reaksjon
-– prosessuelt riktig
-– tempo/saksbehandlingstid
-– objektivitet
-– fornærmede perspektivet
-– allmenhetens (herunder medias) tillit
-– samarbeid med andre aktører under straffesaken
-– redigering, tilgjengelighet og bevissikring
-– verdigrunnlag og rettsutvikling
-– kvalitet som innsatsforpliktelse
-Rundskriv 2/2012 er per januar 2017 under revisjon. Arbeidet vil ta opp i seg utviklingen av gode
-kvalitetsindikatorer, og vil kunne tjene som gode
-hjelpeverktøy og bidra til en generell kvalitetsheving av etterforskingen. Samtidig har riksadvokaten understreket at det alltid vil gjenstå en selvstendig og faglig skjønnsutøvelse underlagt påtalemyndighetens ansvar. Dette skjønnet gjelder
-uavhengig av graden av etterlevelse av nevnte indikatorer. På et operasjonelt nivå, det vil si taktisk
-
-15
-16
-17
-
-Riksadvokatens vedlegg til brev til Justis- og beredskapsdepartementet av 14. januar 2016.
-Riksadvokatens rundskriv 2/2012 – Krav til straffesaksbehandlingen i politiet og ved statsadvokatembetene.
-Kvalitet i etterforskingen, side 33.
-
-[Side 36]
-
-34
-
-NOU 2017: 5
-
-Kapittel 2
-
-En påtalemyndighet for fremtiden
-
-og teknisk etterforsking, går utviklingen i retning
-av økt bruk av standarder.
-
-2.5.3 Kvalitetsundersøkelsen 2016
-Riksadvokaten besluttet høsten 2015 at statsadvokatene skulle gjennomføre en kvalitetsundersøkelse på overordnet nivå i 2016. Sakstypene som
-skulle undersøkes, var voldtektssaker og saker
-som gjaldt mishandling i nære relasjoner. Med utgangspunkt i en lang rekke forhåndsdefinerte parametere (innen hovedkategoriene initialfasen,
-sporsikring, etterforskingsplan, politiavhør og påtalearbeid, etterforskingsledelse og fremdrift) gjennomgikk alle embetene et stort antall saker og
-kontrollerte kvaliteten i etterforskingen. Formålet
-var å finne eventuelle feil, mangler eller forbedringspunkter som ikke var like lett å finne når
-man gjennomgikk enkeltsaker med tanke på å
-treffe påtaleavgjørelse.
-En arbeidsgruppe laget over 100 spørsmål
-innenfor hver sakstype, som skulle besvares i
-hver sak som ble gjennomgått. På nasjonalt plan
-ble det gjennomgått ca. 270 saker av hver kategori. 28 statsadvokater deltok i undersøkelsen. Til
-illustrasjon jobbet seks statsadvokater i Oslo på
-fulltid i tre uker med selve gjennomgangen av sakene. I tillegg kommer arbeidet med administrasjon, analyse av resultatene og bruken av resultatene i statsadvokatenes fagledelse. Resultatene fra
-undersøkelsene er per januar 2017 til analyse.
-De erfaringene en her gjør seg, vil danne
-grunnlaget for utviklingen av saksspesifikke kvalitetsmarkører også på andre saksområder.
-2.5.4 Kritikk av straffesaksbehandlingen
-Norge er et lite land i utkanten av en verdensdel
-hvor det etter andre verdenskrig har vært relativt
-fredelig. Vi har et lite, men kompetent politikorps.
-Andre land har gitt uttrykk for at de gjerne skulle
-ønsket seg norske tilstander. Terrorbølgen har så
-langt ikke nådd oss med full styrke. Antall drap er
-relativt lavt og stabilt, og de aller fleste oppklares.
-Kriminalitetsbildet i stort må kunne betegnes som
-«akseptabelt», til tross for økende innslag av organisert kriminalitet og at det tidvis avdekkes grufulle overgrep mot små barn.
-Norge er et åpent samfunn som i betydelig
-grad påvirkes av globale «megatrender«18. Dette
-har ført til endringer som ikke nødvendigvis fanges opp fra dag til dag, men som virker inn på
-hvorledes samfunnet styres og organiseres. Dette
-18
-
-Se punkt 6.3.5.
-
-er krefter som også har betydning for påtalemyndigheten. Utviklingen når det for eksempel gjelder arbeidslivskriminalitet, internasjonal kriminalitet og overgrep på nett innebærer løpende og
-store utfordringer.
-Straffesaksbehandlingen i Norge holder generelt et høyt nivå, og både påtalemyndigheten og
-politiets arbeid nyter høy tillit hos borgerne.
-Imidlertid avdekkes det jevnlig enkeltsaker
-hvor ting har gått mindre bra. Fritz Moen-sakene,
-Bergwall-saken19 og Monika-saken20 er eksempler på alvorlige saker hvor det er begått justisfeil.
-Etaten, med riksadvokaten i spissen, har vært
-opptatt av å lære av feilene som er begått i disse
-sakene. Det har vært nedsatt flere arbeidsgrupper21 som har fått i oppdrag å gjennomgå sakene i
-læringsøyemed, for på den måten å redusere risikoen for at lignende feil gjentas.
-På enkelte saksområder har kvaliteten, prioriteringen og måloppnåelsen over tid ikke vært god
-nok. Henleggelser av saker med kjent gjerningsmann, enkelte kategorier sedelighetssaker og
-økonomiske saker er eksempler i så måte. Særlig
-har det vært reist kritikk mot behandlingen av saker om voldtekt og familievold; saker med alvorlige konsekvenser for ofrene. Det er ikke tvil om
-at slike saker i mange år ikke ble behandlet med
-nødvendig alvor og grundighet. Også dette er det
-imidlertid grepet fatt i.
-Det har over år vært rettet kritikk mot at saker
-fra kontrollmyndighetene henlegges i for stor
-grad, til dels under henvisning til kapasitetsmangel22. Konkursrådet har også påpekt at for mange
-saker om kriminalitet i konkurssaker henlegges
-på grunn av manglende kapasitet, at mer omfattende saker tilskjæres så kraftig at alvorlig kriminalitet skjules, og at det reageres med forelegg i
-saker som åpenbart hadde fortjent en mer inngående strafferettslig etterprøving. I den grad alvorlig og samfunnsskadelig økonomisk kriminalitet
-19
-
-20
-
-21
-
-22
-
-Sture Bergwall (Thomas Quick) ble i perioden 1994–2001
-dømt for åtte drap begått i årene 1976–1988. Han tilsto alle
-drapene. Tre domfellelser gjaldt drap på norske jenter i
-Norge. I 2008 trakk Bergwall alle tilståelsene, sakene ble
-gjenåpnet, og han ble frifunnet i samtlige. De tre norske
-sakene er per januar 2017 uoppklarte drapssaker.
-Straffesak ved Hordaland politidistrikt. Åtte år gamle
-Monika ble funnet død i sitt hjem 14. november 2011. Opprinnelig ble saken henlagt som selvdrap, men er senere
-gjenopptatt. Mors tidligere samboer ble i tingretten domfelt for drap, og har inngitt en fullstendig anke.
-Riksadvokatens publikasjoner 01/2015 Etterforskningen
-og den påtalemessige behandlingen i Monika-saken, 03/
-2015 Norsk politi og påtalemyndighets behandling av straffesaken mot Sture Bergwall, og 04/2015 Analyse av dødsulykker og straffesaksbehandlingen i trafikksaker.
-Se vedlegg 1.
-
-[Side 37]
-
-35
-
-NOU 2017: 5
-En påtalemyndighet for fremtiden
-
-blir gjenstand for systematiske kapasitetshenleggelser, svikter påtalemyndigheten i sitt samfunnsoppdrag.
-Det er grunn til å peke på at når politiet kritiseres for at etterforsking ikke skjer, at etterforskingen er for dårlig, eller at saker henlegges i for stor
-grad, er dette en kritikk ikke bare mot selve etterforskingen, men også en kritikk som treffer påtalemyndigheten i politiet.
-
-2.5.5 Riksadvokatens vurdering
-Riksadvokaten har ved gjentatte anledninger understreket at det gjøres mye godt straffesaksarbeid, og at landets påtalejurister og etterforskere i
-det store og hele gjennomfører sine oppgaver på
-en god og betryggende måte. Tilliten i befolkningen er høy, og den faglige utviklingen synes i det
-store og hele å gå den rette veien. Samtidig har
-særlig rapportene Etterforskningen i politiet 2013
-og Avhørsmetodikk i politiet påvist områder med
-åpenbare svakheter som fortjener etatens oppmerksomhet – blant annet knyttet til fravær av påtalemessig og politifaglig etterforskingsledelse,
-samt et mer forpliktende system for kvalitet, opplæring, trening, evaluering og tilbakemelding
-innen etterforskingsfaget. Disse svakhetene har
-gitt seg utslag i at enkelte saker ikke holder ønsket kvalitet.
-
-Kapittel 2
-
-Riksadvokat Tor-Aksel Busch har i samtaler
-med Påtaleanalyseutvalget fremhevet følgende:
-«Kvaliteten er for ujevn. Mange straffesaker
-holder et høyt nivå, godt tilpasset sakens alvorlighet og kompleksitet. Samtidig konstaterer vi
-at det i for mange saker er rom for forbedringer. Utfordringen fremover er særlig å løfte
-kvaliteten innenfor den siste gruppen slik at
-kvaliteten blir jevnere ved den totale oppgaveløsningen.»
-Denne vurderingen som det her gis uttrykk for,
-var bakgrunnen for at riksadvokaten – basert på
-inntrykkene fra embetets egen saksbehandling – i
-2010 fant grunn til å understreke, også i det offentlige rom, at det var viktig at etterforskingsoppgavene fikk mer oppmerksomhet og sin naturlige
-plass ved politiets totale oppgaveløsning.
-Forventet faglig standard (kvalitet) kan illustreres i figur 2.1, utarbeidet ved Riksadvokatembetet. Et viktig poeng er å angi hvor man på
-den vertikale skalaen bør ligge.
-Skissen illustrerer at både over- og underetterforsking er uheldig og gir grunnlag for veiledning.
-Etterforsking er en formålsstyrt og rettslig regulert virksomhet. Sammen med klargjøring av faktum er det rettslige begrep som skal belyses.
-Denne veiledningen utføres dels av påtalejuristen
-
-Høy kvalitet
-
-Veiledningsrom
-Her bør man ligge
-
-Minimumskrav til en tilstrekkelig
-god etterforsking?
-• hvem skal
-fastsette kravene?
-• hvordan skal
-disse fastsettes?
-
-Veiledningsrom
-
-Lav kvalitet
-Grov
-uforstand?
-
-Figur 2.1
-
-[Side 38]
-
-36
-
-NOU 2017: 5
-
-Kapittel 2
-
-En påtalemyndighet for fremtiden
-
-i den enkelte sak, men også av statsadvokatene i
-deres fagledelse.
-Overetterforsking innebærer at det utføres etterforskingsskritt som ikke er nødvendig for å
-treffe en korrekt påtalemessig avgjørelse. Eksempelvis stiller etterforsker under avhøret spørsmål
-om uvesentlige eller irrelevante forhold, eller det
-innhentes bevis om temaer som allerede er godt
-og tilstrekkelig belyst. Etterforskingsledelsen må
-ha nødvendig oppmerksomhet om politiets samlede ressurser. Brukes uforholdsmessig mye tid
-og krefter på sak A, vil dette nødvendigvis innebære at andre saker får mindre oppmerksomhet.
-Dersom en vinningsforbryter tilstår ni hytteinnbrudd, men nekter for det tiende, vil det derfor
-ofte være godt påtaleskjønn å gi en prosessøkonomisk påtaleunnlatelse for det siste innbruddet
-hvis det innebærer at saken kan gå som en tilståelsesdom i stedet for en hovedforhandling med full
-bevisføring.
-Underetterforsking innebærer at saken ikke
-blir tilstrekkelig opplyst. Sentrale spor blir ikke
-fulgt opp, de ansvarlige avgrenser for tidlig mot alternative forklaringer, osv. Resultatet er et uavklart og utilstrekkelig bevisbilde. Fokuset på hypotesetenkning har av denne grunn fått økende
-oppmerksomhet, også i undervisningssammenheng. Underetterforsking og dårlig etterforsking
-er overlappende størrelser, men likevel slik at en
-kvalitativt dårlig etterforsket sak kan være anlagt
-tilstrekkelig bredt, mens en underetterforsket sak
-karakteriseres ved at naturlige etterforskingsskritt er utelatt.
-Den påtalemessige styringen er i denne sammenheng særlig viktig. Etterforskingen er en formålstyrt virksomhet, hvor etterforskingen må rettes inn mot kriteriene for straffbarhet, slik disse
-fremkommer i loven.
-
-2.6
-
-innebære større usikkerhet enn dersom etterforskingsomfanget nærmer seg grensene for det mulige. Begrensninger i mistenktes rettigheter, som
-for eksempel begrensninger i det frie forsvarervalg, vil kunne være effektiviserende for etterforsking og iretteføring, men samtidig kunne svekke
-muligheten for et effektivt forsvar og øke risikoen
-for uriktige domfellelser. Et viktig, men samtidig
-krevende kriminalpolitisk spørsmål, knytter seg
-særlig til hvordan man på ulike områder skal fastlegge en minstestandard som det ikke kan gripes
-inn i.
-Straffeprosessutvalget benytter rettssikkerhetsbegrepet om «sikkerhet for at konstatering av
-straffansvar bygger på korrekt faktum og juss«23.
-Her fremheves nettopp det verdimessige standpunkt som ligger til grunn for både det strenge
-beviskravet i straffesaker og prosessuelle garantier som følger av straffeprosesslovgivningen.
 Kravet til rettssikkerhet er forankret i Riksadvokatembetets virksomhetsplan (2016), hvor hovedmålet med virksomheten er angitt å være
-«å bidra til redusert kriminalitet ved målrettet
-og effektiv straffesaksbehandling, samtidig
-som kravene til høy kvalitet og rettssikkerhet
-ivaretas».
-Påtalejuristene i politiet omtales gjerne som «de
-første rettssikkerhetsgarantistene». Som ansvarlig for etterforskingen av straffesaker avgjør disse
-hvorvidt det skal benyttes tvangstiltak, om en person skal siktes, om det skal utferdiges forelegg,
-eller om saken skal henlegges. Påtalejuristen har
-gjennom sitt arbeid de beste forutsetninger for å
-vurdere bevisene og disses relative vekt. Vurderingen av om beviskravet er oppfylt, er en av kjerneoppgavene i påtalerollen.
-Riksadvokaten har redegjort for hva som nærmere ligger i beviskravet:24
 
-Rettssikkerhet
+«å bidra til redusert kriminalitet ved målrettet og effektiv straffesaksbehandling, samtidig som kravene til høy kvalitet og rettssikkerhet ivaretas».
 
-Begrepet rettssikkerhet brukes i dagliglivet i en
-rekke ulike sammenhenger og med varierende
-innhold. På et overordnet plan kan begrepet forstås som et sett av ufravikelige minstekrav. I jussens verden er det vanlig å bruke begrepet som
-uttrykk for at straffeprosessuelle spilleregler er
-fulgt. Rettssikkerhetsbegrepet knytter seg i den
-tradisjonelle forståelsen til at siktede, men også
-andre, kan ha interesser og prosessuelle rettigheter som skal respekteres i straffesaksbehandlingen.
-En begrenset etterforskingsinnsats kan eksempelvis være ressurseffektiv, men vil kunne
+Påtalejuristene i politiet omtales gjerne som «de første rettssikkerhetsgarantistene». Som ansvarlig for etterforskingen av straffesaker avgjør disse hvorvidt det skal benyttes tvangstiltak, om en person skal siktes, om det skal utferdiges forelegg, eller om saken skal henlegges. Påtalejuristen har gjennom sitt arbeid de beste forutsetninger for å vurdere bevisene og disses relative vekt. Vurderingen av om beviskravet er oppfylt, er en av kjerneoppgavene i påtalerollen.
 
-«Påtalemyndigheten må være overbevist om
-siktedes straffeskyld for å ta ut tiltale, og den
-må være av den oppfatning at straffeskylden
-kan bevises i retten. Dette innebærer at påtalemyndigheten skal legge samme bevisterskel til
-grunn som den domstolene anvender for å avsi
-fellende dom, og at det stilles et tilleggskrav til
-mulighetene for å føre bevis i retten. Er det for
-eksempel holdepunkter for at avgjørende bevis
-ikke vil kunne føres, skal tiltale ikke utferdiges
-23
-24
+Riksadvokaten har redegjort for hva som nærmere ligger i beviskravet:[^54]
 
-NOU 2016: 24 side 145.
-Rundskriv 2/2012.
+«Påtalemyndigheten må være overbevist om siktedes straffeskyld for å ta ut tiltale, og den må være av den oppfatning at straffeskylden kan bevises i retten. Dette innebærer at påtalemyndigheten skal legge samme bevisterskel til grunn som den domstolene anvender for å avsi fellende dom, og at det stilles et tilleggskrav til mulighetene for å føre bevis i retten. Er det for eksempel holdepunkter for at avgjørende bevis ikke vil kunne føres, skal tiltale ikke utferdiges selv om påtalemyndigheten er overbevist om siktedes skyld.»
+
+En positiv påtaleavgjørelse kan ikke alene bygge på at påtalejuristen er overbevist om straffeskyld. Overbevisningen må også forankres i bevisene som foreligger, og disse må kunne presenteres for retten. Lar dette seg ikke gjøre, må saken henlegges.
+
+1.  **Effektivitet**
+
+    1.  **Innledning**
+
+I tråd med den generelle samfunnsutviklingen og kravet om en mer moderne og effektiv offentlig sektor,[^55] har også påtalemyndigheten og politiet blitt stilt overfor økte krav til effektivitet. I budsjettproposisjonen for budsjettåret 2017 del 1[^56] fremgår at en mer effektiv straffesakskjede er ett av tre hovedmål for justis- og beredskapssektoren hva gjelder straffesakskjeden.
+
+Budsjett- og effektivitetsfokuset har medført at prioriteringsspørsmål gis stadig større oppmerksomhet – i dette inngår også at påtalemyndigheten må bidra til at politietaten konsentrerer sine ressurser mot de handlinger som vurderes å være de alvorligste, og derfor skal og bør motvirkes. En økt forståelse av koblingen mellom forebygging, etterretning og etterforsking er også utslag av et slikt tankegods, og har medført en økt interesse for spørsmålet om hvorvidt påtalemyndigheten i større grad må ta et helhetlig ansvar for politiets prioriteringer, det vil si utover den rene straffesaksbehandlingen.
+
+Av mandatet fremgår det at utvalget skal vurdere om påtalemyndighetens oppgaveutførelse er hensiktsmessig og tilstrekkelig effektiv. Dette fordrer en presisering av begrepet *effektivitet*, som kan forstås på ulike måter.
+
+1.  **Effektivitetsbegrepet**
+
+Begrepet *effektivitet* er krevende å definere entydig, men går i enkelhet ut på at man skal nå angitte mål innen en fastsatt tid og innenfor rammen av avsatte ressurser.
+
+Begrepet kan benyttes til å avdekke målbar gevinst for samfunnet, men kan også forstås i en snevrere betydning, hvor en analyserer hvor dyktige påtalemyndigheten er til å bruke dagens styringssystemer og hvor egnet de foreliggende systemene er til å styre avgitte ressurser inn mot samfunnsoppdraget. Spesielt i den sistnevnte betydningen blir et helt sentralt spørsmål om styringssignalene fungerer etter sin intensjon. Effektivitetsbetraktninger kan studeres i ulike perspektiver, alle relatert til hvordan man velger å styre en virksomhet. Stein Østre[^57] skiller mellom begrepene *kostnadseffektivitet* (det å produsere tjenesten med lavere kostnad uten tap av kvalitet), og *kostnadsminimering* (hvor man i tillegg til reduserte kostnader også er villig til å akseptere et tap i kvalitet).
+
+Utvalget har valgt å trekke veksler på tre begreper hentet fra Busch mfl., ressursstyring, produktivitetsstyring og effektivitetsstyring:[^58]
+
+*1) Ressursstyring*
+
+I et *ressursstyringsperspektiv* («efficiency») styrer man kostnadsnivået til underliggende enheter gjennom budsjetter og bevilgninger. Dette har tradisjonelt vært den dominerende måten offentlige foretak har vært styrt på. Hva som er effektivt i en slik forstand, avhenger av hvordan måloppnåelsen beskrives, og hvilke innsatsfaktorer som regnes til ressursbruken. Faren ved dette perspektivet ligger særlig i at kvaliteten på det som fremstilles, risikerer å få et underordnet fokus.
+
+Et eksempel her kan være når overordnet etat angir at underliggende enhet skal slå ut tre kriminelle nettverk innenfor tildelt ramme, uten å ha oppmerksomhet på om nettverkene som velges ut, nødvendigvis utgjør den største trusselen mot samfunnet.
+
+*2) Produktivitetsstyring*
+
+I *produktivitetsstyringsperspektivet* styres det mot bedre utnyttelse av ressursene gjennom høyere produktivitet, hvilket dernest skal gi lavere enhetskostnader. Dette fremstilles som et perspektiv med økende betydning innenfor offentlige virksomheter. Svakheten ligger i at systemet forutsetter en utstrakt bruk av kvantifiserbare målekriterier, og ettersom ikke alle aspekter ved produksjon av varer/tjenester i offentlige foretak enkelt lar seg kvantifisere, oppstår en fare for at disse «ikke-kvantifiserbare målene» havner på utsiden av målhierarkiet.
+
+Her kan man tenke seg at påtalejuristene i politidistrikt X pålegges å produsere flere vedtak per måned. Konsekvensen er at de ikke har tid til å utøve nødvendig etterforskingsledelse i alvorlige saker. Sistnevnte er ikke et kvantifiserbart målekriterium på samme måte som antall vedtak.
+
+*3) Effektivitetsstyring*
+
+Hensikten med *effektivitetsstyringsperspektivet* («effectiveness») er å sørge for at virksomheten «leverer» i henhold til sitt formål. I offentlige foretak vil formålet regelmessig være produksjon av tjenester som samfunnet har behov for, og av en kvalitet som samfunnet aksepterer. Utfordringene ligger særlig i å klare å utvikle adekvate styringsinstrumenter/rutiner (nytte–kostnadsanalyser og/eller gode resultatindikatorer).
+
+Styringsdokumentene tar utgangspunkt i å få *mest mulig* *kriminalitetsbekjempelse ut av hver krone*. Samtidig skal budsjetter holdes, og et naturlig oppfølgingsspørsmål blir derfor hva slags effektivitetsbetraktninger det *egentlig* er påtalemyndigheten styrer etter i de løpende prioriteringer.
+
+Et praktisk eksempel her vil kunne være om politiet og påtalemyndigheten evner å prioritere de «rette» sakene, typisk de sakstypene riksadvokaten har prioritert, i en ellers travel hverdag.
+
+1.  **Effektivitet og kvalitet**
+
+En straffesaksbehandling av høy kvalitet kjennetegnes ved at den legger til rette for at straffesakene avvikles på en tillitvekkende måte, og hvor de avgjørelsene domstolene treffer, er riktige. Etterforskingen skal samtidig være hensiktsmessig, tilpasset bevisbildet og sakens alvorlighet, og dessuten ha den nødvendige fremdrift. Styring av ressurser og prioriteringer inngår i offentlig virksomhet på de fleste ansvarsområder og – naturlig nok – også i strafferettspleien. Virksomheten må innrettes etter hvilke ressurser som er tilgjengelige. Disse skal brukes effektivt. Den enkeltes rettssikkerhet kan imidlertid ikke nedprioriteres.
+
+Selv om begrepene *kvalitet* og *effektivitet* i teorien kan fremstå som forenlige idealer, vil det i praksis kunne oppstå spenninger mellom dem. I vurderingen av hvor grundig man skal gå til verks i etterforskingen, må det både gjøres gode og konkrete vurderinger av hva ytterligere etterforskingsskritt vil kunne fremskaffe av beviser, men også av risikoen for uriktige avgjørelser, ikke minst domfellelser. Kostnader vil således i noen grad måtte holdes opp mot rettssikkerhetsidealet, som går ut på å minimere risikoen for feil. Selv i straffesaker som etterforskes meget grundig, vil det i prinsippet alltid være mulig å gjøre ytterligere undersøkelser som kunne tenkes å bidra til sakens opplysning, både til mistenktes gunst og ugunst. Spørsmålet blir derfor «når er nok nok»? Denne vurderingen er en rettslig vurdering hvor påtaleansvarlig spiller en sentral rolle, og hvor det er viktig at vedkommende både har fokus på den konkrete saken, men også på politidistriktets samlede kapasitet.
+
+Som illustrasjon kan man tenke seg at en spesialenhet bruker samtlige av sine ressurser på å oppklare en meget alvorlig straffesak: To etterforskere i hvert avhør, alle spor forfølges. Dette medfører at sak B og C må settes på vent. En kvalitetsmessig økning fra 95 til 97 prosent på en teoretisk kvalitetsskala vil antakeligvis kunne bety en dobling av ressursinnsatsen. En annen enhet fordeler ressursene sine og etterforsker alle tre sakene, men med kun én etterforsker per avhør, og der mindre relevante spor utelates. Hvor skjæringspunktet går, er det selvsagt vanskelig å si noe absolutt om – rettssikkerhetsidealet oppstiller uansett ufravikelige minstestandarder.
+
+Tilsvarende betraktninger kan anvendes hva gjelder flernivåkontrollen i påtalemyndigheten med de alvorligste straffesakene. I en drapssak vil først en påtalejurist, dernest en statsadvokat og endelig riksadvokaten vurdere sakens beviser før endelig påtalevedtak treffes.
+
+1.  **Uavhengighet**
+
+    1.  **Et prinsipielt utgangspunkt**
+
+I Norge er det i dag bred enighet om at riksadvokaten skal være uavhengig av politiske myndigheter ved behandlingen av enkeltsaker. Kongen i statsråd (regjeringen) har i prinsippet en generell instruksjons- og omgjøringsmyndighet, men denne benyttes i praksis ikke. Ordningen er tuftet på en over hundre år gammel tradisjon og har gjentatte ganger vært drøftet, med bred politisk tilslutning. Påtalemyndighetens uavhengighet står i dag sterkere enn noen gang. Hovedbegrunnelsen er et klart ønske i det norske samfunn om at det ikke skal foretas eller unnlates straffeforfølgning mot noen borger ut fra politiske hensyn. Samtidig sikres det at det er gode, faglige vurderinger som ligger til grunn for straffesaksbehandlingen. Dette bidrar til å opprettholde nødvendig tillit til straffesaksbehandlingen i befolkningen.
+
+Om ikke annet sies, vil Påtaleanalyseutvalget i det følgende benytte begrepet *uavhengighet* som uttrykk for *tilstrekkelig avstand* til å kunne utøve sin virksomhet uten innblanding fra politiske organ. Påtalemyndighetens fundament er tuftet på et grunnleggende premiss om at beslutninger ikke skal være influert av utenforliggende hensyn, men treffes etter saklige og objektive kriterier. Her må det presiseres at uavhengigheten relaterer seg til enkeltsakene og ikke til utformingen av kriminalpolitikken som sådan. Viktigheten av å opprettholde nødvendig uavhengighet gjør seg gjeldende på alle nivåer.
+
+1.  **En formalisert uavhengighet?**
+
+Ettersom påtalemyndighetens uavhengighet står så sterkt som den gjør i dag, kan det synes som et paradoks at lovens ordning fortsatt er at Kongen i statsråd er overordnet riksadvokaten også i enkeltsaker. Her synliggjøres fraværet av formell uavhengighet. Det som likevel sikrer uavhengigheten, er den nevnte og langvarige praksis og tradisjon for at regjeringen gjennom Kongen i statsråd ikke griper inn i enkeltsaker.
+
+I Danmark er Riksadvokaten direkte underlagt Justisdepartementet. Dette kan forstås som en indikasjon på at dansk påtalemyndighet ikke er politisk uavhengig. Det har vært en debatt i Danmark om man skulle avskaffe ordningen slik at den formelle uavhengigheten kom bedre til uttrykk, se daværende riksadvokat Georg Fr. Rieber-Mohns artikkel «Etterforskning og påtalemyndighet».[^59] Systemet er imidlertid beholdt med samme begrunnelse som i Norge, nemlig at langvarig tradisjon tilsier at regjeringen i Danmark ikke griper inn i enkeltsaker.
+
+Straffeprosessutvalget har foreslått å formalisere påtalemyndighetens uavhengighet gjennom å oppheve instruksjons- og omgjøringsmyndigheten og den eksklusive påtalekompetansen som tilkommer Kongen i statsråd. Selv om det er en etablert praksis for at Kongen i statsråd ikke griper inn i den enkelte sak, mener Straffeprosessutvalget at det er ønskelig at de reelle forholdene nedfelles i loven.[^60]
+
+Utvalget uttaler: «\[P\]åtalemyndighetens uavhengighet bør ikke alene avhenge av tradisjonen og den til enhver tid sittende regjering, men sikres av den lovgivende myndighet.» Straffeprosessutvalget mener videre at man med dette ikke kan sies å etablere en påtalemyndighet utenfor politisk kontroll, og viser her til at riksadvokaten tilhører de avsettelige embetsmenn, som innebærer at riksadvokaten kan avskjediges uten dom og i ytterste konsekvens med politisk begrunnelse, jf. Grunnloven § 22 første ledd. Snarere ser man dette som å følge de senere års utvikling, hvor flere forvaltningsorganer er gjort mer eller mindre uavhengig fra politisk innblanding. Dette gjelder organer som treffer avgjørelser som til dels har stor betydning for enkeltpersoner. Det vises i denne sammenheng til Utlendingsnemnda, som treffer endelige avgjørelser i saker etter utlendingsloven, Gjenopptakelseskommisjonen og Domstoladministrasjonen. De samme hensyn som har begrunnet deres uavhengighet, anses av Straffeprosessutvalget i minst like stor grad å gjøre seg gjeldende for påtalemyndigheten.
+
+Straffeprosessutvalget foreslår bestemmelsen erstattet av en ny bestemmelse om at ingen kan instruere påtalemyndigheten i enkeltsaker eller omgjøre påtalemyndighetens avgjørelser, samt at Grunnloven § 96 første ledd foreslås endret slik at ingen skal kunne dømmes uten etter «uavhengig anklage».[^61]
+
+Påtaleanalyseutvalget gir sin tilslutning til Straffeprosessutvalgets forslag. En formalisering av en slik langvarig praksis synes fornuftig, samtidig som det sender et sterkt signal om viktigheten av at påtalemyndigheten er uavhengig av politiske myndigheter i behandlingen av enkeltsaker.
+
+1.  **Instruksjonsadgang på individnivå**
+
+Påtalemyndighetens uavhengighet gjelder ikke bare påtalemyndigheten *som sådan* i relasjon til det politiske elementet, men har også en side til hvordan uavhengigheten sikres og ivaretas nedover i systemet.
+
+I dagens system har overordnet nivå en alminnelig instruksjons- og omgjøringsadgang overfor underordnet nivå. Den høyere påtalemyndighet kan på ethvert stadium instruere politiet om alle sider av etterforskingen, jf. straffeprosessloven § 225 annet ledd. Overordnet kan også instruere underordnet påtalemyndighet i enkeltsak samt omgjøre vedtak truffet av underordnede, se straffeprosessloven §§ 75 og 59 a.
+
+Mer komplisert og diskutabelt er spørsmålet om hvilken instruksjons- og omgjøringsadgang som gjelder innenfor det enkelte nivå i påtalemyndigheten. Påtalemyndighetens saksbehandlingsregler er regulert i straffeprosessloven, likevel slik at alminnelige forvaltningsrettslige prinsipper også omfatter påtalemyndighetens virksomhet. I forvaltningen gjelder en alminnelig hovedregel om instruksjonsmyndighet, hvilket for påtalemyndigheten innebærer at også en påtalejurist må finne seg i å bli «tittet i kortene». Konsekvensen er at ledere i påtalesporet, eksempelvis politimester eller påtaleleder, som den klare hovedregel må kunne utøve kontroll og gi generelle direktiver hva gjelder den faglige utøvelsen av påtalearbeidet.
+
+Like klart må det være at ledere som ikke tilhører påtalemyndigheten, for eksempel en seksjonssjef uten påtalemyndighet, ikke har slik instruksjonsrett. Det er en klar forutsetning at det gjelder en såkalt ubrutt påtalelinje, det vil si at overordnet leder må tilhøre påtalelinjen. Denne linjen skal strekke seg helt opp til riksadvokaten.
+
+De særlige utfordringene som knytter seg til utnevning av visepolitimestre uten juridikum/master i rettsvitenskap[^62], og hvilken prinsipiell og reell innvirkning dette vil kunne ha for påtalemyndighetens uavhengighet, omtales i punkt 3.5.3.
+
+Når det gjelder rekkevidden av den «interne» instruksjonsretten, spriker oppfatningene, og utvalget har merket seg anførsler om at prinsippet om uavhengighet tilsier at overordnet leder i samme enhet aldri kan gi instruksjon om den konkrete påtaleutøvelsen. Utvalget sitter med et inntrykk av at enkelte synes å koble begrepet *uavhengighet* med *selvstendighet,* ved at man mener å ha en særlig selvstendighet i sin utøvelse av påtalerollen. Diskusjonen har blant annet vært om overordnet påtaleleder «bare» kan flytte saken fra påtalejurist A til påtalejurist B, eller om leder i påtalelinjen også kan gi påtalejurist A konkrete pålegg om selve påtaleavgjørelsen i enkeltsak.
+
+Slik utvalget ser det, dreier prinsippet om uavhengighet seg som nevnt om uavhengighet fra politisk innblanding i enkeltsaker. Så lenge den «ubrutte påtalelinjen» er ivaretatt, er i utgangspunktet også uavhengigheten ivaretatt.
+
+Daværende førstestatsadvokat Lasse Qvigstad har i et notat til riksadvokaten[^63] redegjort for den interne instruksjonsmyndigheten ved statsadvokat- og politimesterembetene, hvor han konkluderer med at en overordnet i et forvaltningsorgan kan gi en underordnet instruks og pålegg om hvordan den enkelte sak skal avgjøres.
+
+Spørsmålet kan ikke vurderes uavhengig av det ansvaret politimesteren er tillagt. I et politidistrikt er politimesteren leder av den lokale påtalemyndigheten, og den øverste ansvarlige for straffesaksbehandlingen. Dette betyr i praksis at politimesteren kan bli holdt ansvarlig hvis han eller hun ikke griper inn mot avgjørelser som åpenbart er feilaktige. Ansvaret er slått fast av riksadvokaten i rundskriv nr. 2/2012 om krav til straffesaksbehandlingen i politiet og ved statsadvokatembetene i del II punkt 2:
+
+«Politimesteren har ansvaret for at straffesaksbehandlingen i distriktet holder høy kvalitet. Kvalitetskravet gjelder alle sider ved straffesaksbehandlingen, og det knytter seg både til generelle rutiner og ved behandlingen av den enkelte sak.»
+
+Tilsvarende er gjentatt i riksadvokatens rapport om Monika-saken av 26. januar 2016:
+
+«Etter riksadvokatens syn er det videre klart at politimestrene uten særskilt hjemmel kan gi bindende pålegg om behandlingen av pågående straffesaker i distriktet – i tråd med det som ellers gjelder i forholdet mellom over- og underordnede i den offentlige forvaltning – med de begrensninger som følger av lov, forskrift eller instruks fra overordnet påtalemyndighet.
+
+Politimesterens styring av enkeltsaker er således ikke begrenset til adgangen etter straffeprosessloven § 55 til å omfordele saker mellom påtalemyndighetens tjenestemenn. Han eller hun kan også beslutte iverksettelse av etterforsking, pålegge etterforskingsskritt, beslutte gjenåpning av etterforsking mv.»
+
+En logisk konsekvens av et slikt ansvar blir at politimesteren også må ha en instruksjons- og styringsrett over enkeltsaksbehandlingen. Denne instruksjonsadgangen går åpenbart lenger enn «bare» til å flytte saken fra en påtalejurist til en annen, eventuelt å varsle statsadvokaten.
+
+Tilsvarende betraktninger gjør seg gjeldende mellom førstestatsadvokaten som embetsleder innenfor eget embete, og dennes statsadvokater.
+
+Straffeprosessutvalget har foreslått å lovfeste adgangen til instruksjons- og omgjøringsmyndighet til lederen av embetet eller politidistriktet.[^64] Utvalget har i sin utredning redegjort nærmere for dagens rettslige situasjon og behovet for lovregulering av slik myndighet.[^65] Påtaleanalyseutvalget stiller seg bak redegjørelsen, og viser til denne som dekkende også for utvalgets syn.
+
+Utvalget understreker at ovennevnte ikke skal forstås som uttrykk for en ønsket omlegging av praksis, men snarere representerer en rettslig vurdering og avklaring. Som et ledd i styringen av egen enhet må det foreligge en slik rett for overordnet leder. Politidistriktene og statsadvokatembetene har hatt en markant økning i antall ansatte og saker som de har til behandling, og avgjørelsene må fremstå som enhetlige. Det tilsier et økt behov for styring.
+
+1.  **Objektivitet**
+
+Objektivitetskravet står helt sentralt ved all etterforsking. Prinsippet er forankret i EMK artikkel 6, og er nedfelt i straffeprosessloven § 226 tredje ledd:
+
+«Er en bestemt person mistenkt, skal etterforskingen søke å klarlegge både det som taler mot ham og det som taler for ham.»
+
+og § 55 fjerde ledd:
+
+«Påtalemyndighetens tjenestemenn skal opptre objektivt i hele sin virksomhet, herunder på etterforskingsstadiet, når det treffes påtalevedtak og ved iretteføring av saken.»
+
+Måten påtaleavgjørelser treffes og etterforskingsskritt gjennomføres på, innvirker på samfunnets og borgernes tillit til politiet og påtalemyndigheten. Kravet til objektivitet er helt grunnleggende, og innebærer en plikt for påtalemyndigheten til, på alle stadier av straffesaksbehandlingen, å se hen til både det som taler for og det som taler mot en mistenkt.
+
+1.  **Opportunitetsprinsippet**
+
+Vårt straffesystem hviler på den forutsetning at når lovgiver har belagt visse handlinger med straff, ligger det til påtalemyndigheten lojalt å forfølge slike handlinger, jf. straffeprosessloven § 62 a første ledd:
+
+«Den offentlige påtalemyndighet skal påtale straffbare handlinger når ikke annet er bestemt ved lov.»
+
+Bestemmelsen må ses i sammenheng med straffeprosessloven § 224 første ledd, hvor det fremgår at etterforsking skal foretas når det som følge av anmeldelse eller andre omstendigheter er rimelig grunn til å undersøke om det foreligger straffbart forhold som forfølges av det offentlige. Kapasitetshensyn gjør det umulig for påtalemyndigheten og politiet å forfølge alle begåtte forhold. Påtalemyndigheten er derfor gitt en viss skjønnsmessig adgang til å prioritere hvilke saker som skal etterforskes. Denne begrensningen i straffeforfølgningsplikten kalles *opportunitetsprinsippet*, og er illustrert av riksadvokaten i figur 2.2.
+
+**\[:figur:figX-X.jpg\]**
+
+1.   
+
+Det er i praksis ikke mulig å oppstille helt presise kriterier for når man kan unnlate å iverksette etterforsking, likevel slik at det i denne skjønnsutøvelsen særlig må ses hen til handlingens grovhet, forventninger om forfølgning hos allmenheten, sannsynligheten for at det foreligger et straffbart forhold og hensynet til saklighet og likebehandling. Sammenlignet med andre land praktiserer Norge et relativt vidtrekkende opportunitetsprinsipp.
+
+Straffeprosessutvalget har i sitt forslag til ny straffeprosesslov foreslått at prinsippet videreføres, og har angitt rammene slik:
+
+«Rammene for påtalemyndighetens skjønnsfrihet bør ta utgangspunkt i straffens begrunnelser, det vil si hensynet til allmennprevensjon, individualprevensjon og sosial (offentlig) ro. I hvilken utstrekning disse hensynene gjør seg gjeldende, vil i stor grad bero på overtredelsens grovhet sammenholdt med hvilke interesser som er krenket ved lovbruddet.[^66]»
+
+Anvendelsen av opportunitetsprinsippet må således skje etter en konkret vurdering av de forholdene som tilsier at overtredelsen ikke straffeforfølges. Siden det her vil dreie seg om kryssende hensyn, gjelder en relativt vid skjønnsmessig adgang til å vurdere hvorvidt etterforsking eller videre forfølgning skal skje. Straffeprosessutvalget understreker imidlertid at reglene ikke bør undergrave utgangspunktet om at det gjelder en sterk presumsjon for at straffbare forhold skal forfølges. Fullmakten påtalemyndigheten er gitt, bør heller ikke misbrukes, og det må føres en form for kontroll for at dette ikke skjer. Her støter man imidlertid på uavhengighetsprinsippet, som gjør ytre kontroll med dette problematisk. Det bør derfor være en oppgave internt i påtalemyndigheten, og den høyere påtalemyndighet spiller her en viktig rolle.
+
+Straffeprosessloven oppstiller i § 62 a annet ledd nærmere regler for når påtalemyndigheten kan henlegge sakene dersom vilkårene for å gjøre straffansvar gjeldende er til stede. Hvorvidt påtalemyndigheten også kan henlegge ferdig etterforskede forhold utover de tilfellene som reguleres i § 62 a annet ledd, er ikke helt avklart. Dette vil i så tilfelle være henleggelse på et ulovfestet grunnlag, og kan være vanskelig å forene med ordlyden i § 62 a første ledd. Straffeprosessutvalget konkluderer med at det som utgangspunkt ikke er adgang til henleggelse i disse tilfellene.[^67]
+
+En særskilt form for henleggelse, er henleggelse på grunn av manglende saksbehandlingskapasitet. Dette er en begrunnelse som for allmenheten kan fremstå som vanskeligere å akseptere. Mange mennesker har liten kontakt med politiet, og kan oppleve at den ene gangen de anmelder det man gjerne betegner som «hverdagskriminalitet», blir saken henlagt fordi politiet ikke har kapasitet til å behandle den. Riksadvokaten har nå utgitt et rundskriv som regulerer dette. Utgangspunktet for slike henleggelser er at de gjelder saker med ukjent gjerningsperson. Hvor det gjelder manglende påtalekapasitet eller er kjent gjerningsperson, er det gitt særlige regler. I sistnevnte tilfeller angis adgangen til henleggelse som henholdsvis «meget snever» og at det må foreligge «svært sterke grunner» for å kunne henlegge på grunn av manglende kapasitet.[^68]
+
+Rettssystemer hvor påtaleplikten er mer absolutt, bygger motsetningsvis på et *straffeprosessuelt legalitetsprinsipp*. Sverige har valgt et slikt prosessrettslig utgangspunkt. En konsekvens er at Åklagarmyndigheten kvier seg for å få informasjon fra politiet om pågående etterretningsprosjekter, ettersom de i så fall risikerer å komme i en situasjon hvor de må beordre igangsettelse av en etterforsking.
+
+1.  **Oppbygging, bemanning og roller**
+
+    1.  **Oppbygging**
+
+Påtalemyndigheten er inndelt i tre nivåer, jf. straffeprosessloven §§ 55, 56, 58 og 59. Det første nivået er integrert i politiet og er basert på en såkalt fremskutt, integrert påtalemyndighet, jf. punkt 2.3.3. Over politiet står statsadvokatene, som igjen er underordnet riksadvokaten. Kongen i statsråd, det vil si regjeringen, har i prinsippet en generell instruksjons- og omgjøringsmyndighet overfor riksadvokaten i enkeltsaker, se punkt 2.8. Denne myndighet er ikke benyttet i konkrete saker.
+
+*Den høyere påtalemyndighet* er en fellesbetegnelse på alle statsadvokatregionene, Det nasjonale statsadvokatembetet, Økokrim og Riksadvokatembetet. Statsadvokatembetene blir ledet av en førstestatsadvokat. I Norge er alle statsadvokater embetsmenn.
+
+*Økokrim* bryter med strukturen ved at enheten tar opp i seg de to første nivåene i påtalemyndigheten. Opprettelsen av særorganet for nærmere 30 år siden var et resultat av at etterforskingen og iretteføringen av alvorlig økonomisk kriminalitet var langt fra tilfredsstillende. Riksadvokaten har beskrevet det slik: «Økokrim ble født i smerte». Tilliten til hele strafferettsapparatet var utfordret, og man valgte ved etableringen av Økokrim å slå sammen nivå 1 og 2 i påtalemyndigheten, slik at de som ledet og hadde kunnskap om etterforskingen, skulle avgjøre tiltalespørsmålet med tilhørende ankekompetanse. Disse skulle også kunne oppnevnes som aktorer for Høyesterett. Det valget man her gjorde var med andre ord helt bevisst, og med et ønske om å bedre den totale innsats mot økonomisk kriminalitet i de mest alvorlige sakene.
+
+1.  **Bemanningen**
+
+    1.  **Et historisk tilbakeblikk**
+
+Etter de siste års vekst er det per 30. september 2016 ansatt 679 påtalejurister i politiet, og 128 statsadvokater i Norge. I tillegg kommer et ukjent antall påtalejurister ansatt i lederstillinger (politiinspektører). Dette representerer en betydelig økning de siste 50–60 årene. Førstestatsadvokat Runar Torgersen[^69] har i sin gjennomgang av påtalejuristens rolle pekt på at det i 1960 var
+
+«184 påtalejurister i politiet, hvor besetningen i landets den gang 54 politidistrikter typisk bestod av politimesteren i tillegg til en politiadjutant og/eller politifullmektig (på Rjukan, i Kragerø og på Sandnes måtte politimesteren klare seg på egen hånd).»
+
+I følge Ryssdal-utvalget[^70] var de tilsvarende tallene i 1988 på landsbasis 72 politiinspektører, 95 politiadjutanter og 93 politifullmektiger, totalt 260.
+
+Den høyere påtalemyndighet har hatt en forholdsmessig sterkere vekst enn påtalemyndigheten i politiet. I henhold til Straffeprosessloven av 1887 § 74 annet ledd skulle det være minst 11 statsadvokater, og i 1960 var det faktiske antallet 12 fordelt på 10 regioner. Det var dessuten en statsadvokat og en riksadvokatfullmektig tilknyttet Riksadvokatembetet samme år. I 1988 var det ansatt totalt 26 statsadvokater i 9 statsadvokatembeter. Samme år var det ved Riksadvokatembetet, foruten riksadvokaten selv, ansatt en assisterende riksadvokat, en statsadvokat og to riksadvokatfullmektiger. Per oktober 2016 består Den høyere påtalemyndighet av 128 statsadvokater fordelt på Riksadvokatembetet, 10 regionale embeter, Økokrim og Det Nasjonale embetet.
+
+Veksten i antall påtalejurister må ses i sammenheng med kriminalitetsutviklingen. I 1960 ble det etterforsket 38 700 forbrytelser, i 1986 ble det mottatt totalt 324 000 anmeldelser og i 2015 i overkant av 352 000.[^71] Antallet anmeldelser har vært synkende de senere årene noe Politiets årsrapport for 2015 viser. 2002 er året med flest anmeldte lovbrudd, med over 437 000 lovbrudd.[^72] Siden den gang har det vært en jevn nedgang.[^73] [^74]
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Anmeldte lovbrudd 2002–2014.
+
+<!-- -->
+
+1.  **Utviklingen de senere år**
+
+Nedenstående tabell viser antall årsverk i politidistrikter, særorgan og andre enheter[^75] fordelt på stillingskategorier for perioden 2010–2015.[^76] [^77] I 2015 var det totale antall ansatte 15 273. Veksten har vært størst blant politiutdannede ansatt i politidistriktene, jf. foran i punkt 1.5.8.
+
+1.  Antall årsverk i politidistrikter, særorgan og andre enheter fordelt på stillingskategorier. 2010-2015
+
+Tallene viser at det på distriktsnivå i samme periode har vært en økning i antall årsverk for politistillinger på 964,2, mens det for juriststillinger i distriktene har vært en økning på 37,3 årsverk. For de sivile stillingene er antallet årsverk økt med 45,4. Det er kun fastsatt et krav om dekningsgrad på landsbasis for politiutdannede. Som gjengitt ovenfor i punkt 1.6.6 ble det i rapporten *Politiet mot 2020* sagt at det er behov for tusen nye årsverk innenfor kategoriene sivile stillinger og juriststillinger. Frem til 2015 har økningen vært på ca. 600 årsverk.[^78]
+
+Kategorien «juriststillinger» omfatter mer enn påtalejuristene i politiet. Antallet påtalejurister både i politiet og Den høyere påtalemyndighet har økt de senere årene. For politiet ble det bevilget midler til ansettelse av 50 påtalejurister i 2015.[^79] Dette vises i kategorien «juriststillinger» ved at det er en økning på 52 årsverk i distriktene fra 2014 til 2015.
+
+I forslaget til statsbudsjett for 2017 gjentar Justis- og beredskapsdepartementet følgende:
+
+«Både politiet og den høyere påtalemyndighet har gitt uttrykk for bekymring for kvaliteten og kapasiteten på etterforskingen. For å styrke bemanningen i påtalemyndigheten i politiet har regjeringen i 2015 sørget for å øke bevilgningen til politiet med 29,7 mill. kroner, tilsvarende om lag 50 påtaleårsverk. Bevilgningen til Den høyere påtalemyndighet er i tillegg økt med 62 mill. kroner bl.a. til styrket fagledelse og 19 nye stillinger (derav 16 statsadvokatembetsstillinger).»
+
+I Den høyere påtalemyndighet ble fire statsadvokater ansatt i 2014. En bevilgning til ansettelse av ytterligere tolv kom i 2015, og samlet sett over de to årene har det blitt ansatt 16 statsadvokater. Flere av de som ble ansatt i 2015, er konstituerte og ikke fast utnevnte. Det er for budsjettåret 2017 varslet at Den høyere påtalemyndighet vil måtte gå med en vakant stilling på grunn av budsjettsituasjonen.
+
+1.  **Påtalejuristene i politiet**
+
+    1.  **Budsjettet**
+
+Av statsbudsjettet for 2017 fremgår at politiet skal få 17,2 milliarder kroner. Dette skal dekke alle politiets oppgaver. Samtidig er man pålagt å spare inn 75,4 millioner kroner på en avbyråkratisering- og effektivitetsreform, 40 millioner gjennom anskaffelsesavtaler og prosesser samt 21 millioner gjennom innføringen av elektronisk post. Av betydning for påtalemyndigheten kan vises til at det i budsjettforslaget er satt av 26 millioner kroner til digitalisering av straffesakskjeden. På den annen side er det satt av 166 millioner kroner til 350 nye stillinger, primært rettet mot nyutdannede fra Politihøgskolen. Totalt 300 millioner kroner er dessuten gitt til politidistriktene som frie midler. Politidirektøren uttalte følgende om denne bevilgningen:
+
+«Dette er en viktig satsning som vil bidra godt med å ta inn det etterslepet som etaten har. Med denne ekstrabevilgningen legges det til rette for å bidra til å redusere etterslep og ubalanser i etaten både når det gjelder politibemanning og midler til driften. Dette er viktig for at vi skal kunne levere gode publikumstjenester i parallell med gjennomføring av nærpolitireformen.»[^80]
+
+Av den totale økningen utgjorde endringen i måten man fører pensjonsforpliktelsene på 1,364 milliarder kroner.
+
+Det er Politidirektoratet som fordeler budsjettmidlene. Det er imidlertid mange ulike oppgaver politiet står overfor. Det må derfor foretas prioriteringer. Regjeringen og Politidirektoratet satser på Nærpolitireformen og målet om en bemanning på to polititjenestemenn per 1000 innbygger i år 2020. Dette får betydning for bevilgningene som blir påtalemyndigheten til del.
+
+1.  **Stillinger og stillingskategorier**
+
+Stillingskategoriene i påtalemyndigheten i politiet er *politifullmektig*, *politiadvokat* og *politiadvokat 2*. En del lederstillinger, for eksempel påtaleleder, har stillingsbetegnelsen *politiinspektør*. Sistnevnte stillingsbetegnelse er ikke forbeholdt jurister.
+
+Politifullmektig er begynnerstillingen i påtalemyndigheten i politiet, og har normalt ikke fått tildelt utvidet påtalekompetanse. Det betyr at vedkommende kun kan treffe påtaleavgjørelser i de mindre alvorlige sakene, jf. straffeprosessloven § 67.
+
+Politiadvokat 2 var ment å være en fagstilling som alternativ til en eventuell lederkarriere. Dette er normalt politiadvokater med lengre erfaring som kvalifiserer til denne stillingskategorien. Opprinnelig var det ønskelig med minst åtte års erfaring som påtalejurist. Praktiseringen og bruken av stillingskategorien varierer en del mellom de forskjellige distriktene.
+
+Den største gruppen blant påtalejuristene i politiet er politiadvokatene.
+
+1.  **Hvem styrer antall påtalejurister?**
+
+Det er politimesteren som har ansvaret for den totale driften av politidistriktet, herunder påtalemyndigheten. Det betyr at det er politimesteren som i utgangspunktet definerer hvor mange påtalejurister han eller hun til enhver tid mener utgjør en tilstrekkelig bemanning.
+
+1.  **Dagens antall**
+
+Per 30. september 2016 var det ansatt 679 påtalejurister i politiet. Tilsvarende tall i 2008 var 500. Justis- og beredskapsdepartementet bevilget i 2014 midler til ansettelse av 50 påtalejurister i politiet, noe som medførte at antall ansatte økte fra 604 til 661 ved utløpet av 2015. Antallet årsverk er noe lavere, da det til enhver tid for eksempel er noen i permisjon. Dette utgjør mellom sju og ti årsverk over samme periode. Fordelingen per september 2016 var 66 politifullmektiger, 400 politiadvokater og 213 politiadvokat 2, se tabell 3.2.
+
+1.  Antall påtalejurister i politiet
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
+|----|----|----|----|----|----|----|----|----|----|----|----|----|
+|  | 31.12.2008 | 31.12.2012 | 31.12.2013 | 31.12.2014 | 31.12.2015 | 30.09.2016 |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Årsverk | Antall | Årsverk | Antall | Årsverk | Antall | Årsverk | Antall | Årsverk | Antall | Årsverk | Antall |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Politifullmektig | 58,00 | 58 | 67,00 | 67 | 58,50 | 59 | 51,00 | 51 | 70,00 | 70 | 66,00 | 66 |
+| Politiadvokat | 396,30 | 404 | 357,80 | 366 | 370,70 | 378 | 375,40 | 382,00 | 387,10 | 392 | 396,70 | 400 |
+| Politiadvokat 2 | 38,00 | 38 | 119,90 | 121 | 125,10 | 126 | 168,80 | 171 | 197,30 | 199 | 209,60 | 213 |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Totalt årsverk/antall | 492,30 | 500 | 544,70 | 554 | 554,30 | 563 | 595,20 | 604 | 654,40 | 661 | 672,30 | 679 |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+I tabell 3.3 er inntatt antallet tiltredelser for årene 2012–2016, fordelt på faste (F) og midlertidige (M) stillinger. De faste ansatte er enten ansatt direkte i fast stilling eller har fått fast ansettelse senere.
+
+1.  Antall tiltredelser 2012–2016
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
+|  | Antall | F | M | Antall | F | M | Antall | F | M | Antall | F | M | Antall | F | M |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Politifullmektig | 37 | 32 | 5 | 34 | 27 | 7 | 29 | 24 | 5 | 63 | 55 | 8 | 32 | 20 | 12 |
+| Politiadvokat | 25 | 22 | 3 | 21 | 20 | 1 | 24 | 19 | 5 | 10 | 5 | 5 | 19 | 7 | 12 |
+| Politiadvokat 2 | 2 | 2 |  |  |  |  |  |  |  | 1 | 1 |  |  |  |  |
+| Tiltrådt | 64 | 56 |  | 55 | 47 |  | 53 | 43 |  | 74 | 61 |  | 51 | 27 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+1.  **Rekruttering**
+
+    1.  *Rekruttering i Norge*
+
+Utgangspunktet for en god rekruttering til påtalemyndigheten burde være det beste. Selskapet Universum foretar årlige studentundersøkelser, også blant jusstudenter, om hvilke arbeidsgivere som fremstår som mest attraktive. Politiet har i en årrekke kommet på topp blant de 30 mest populære arbeidsgiverne hos jusstudentene. Påtaleanalyseutvalgets inntrykk er at rekrutteringen er bra, men med regionale variasjoner. Enkelte av respondentene har hevdet at det er et for sterkt fokus på eksamenskarakterer og for lite på søkernes effektivitet, evne til å presentere en sak mv.
+
+Politidirektoratet opererer ikke med noen overordnet stillingsbeskrivelse eller kravspesifikasjon til de ulike stillingskategoriene. Som nevnt er imidlertid politiadvokat 2-stillingene ment å være for ansatte med lengre erfaring. Det er i praksis en fordel med, men ikke noe krav om annen relevant yrkeserfaring, som dommerfullmektig, advokat eller erfaring fra en stilling i offentlig forvaltning. Samarbeidsevner og personlige egenskaper vektlegges sterkt ved ansettelse. Påtalejuristene har en selvstendig stilling, som i stor grad også er utadrettet, med mye aktorering og kontakt med både tiltalte, vitner og tilliggende etater. Det er derfor av stor betydning at man er egnet til og mestrer en slik krevende rolle. Arbeidsbelastningen kan tidvis være stor, og evnen til å balansere kvalitet mot effektivitet blir derfor viktig.
+
+Ansettelser i påtalemyndigheten i politiet skjer lokalt og etter tjenestemannsloven.[^81] Den nærmere reguleringen av ansettelsesprosessene fremgår av politiets personalreglement.[^82] Etter innstilling foretas tilsetting av et ansettelsesråd i det enkelte distrikt eller særorgan. Etter personalreglementet § 9 nr. 8 skal et ansettelsesråd være besatt på følgende måte:
+
+«Ansettelsesrådene i politidistriktene skal bestå av fem medlemmer; to representanter fra administrasjonen, to representanter for tjenestemennene samt politimesteren, som er rådets leder. Representantene fra administrasjonen er HR-direktør/leder av stab for HR og HMS/lederen for administrativ enhet/personalsjefen og en leder av driftsenhet/tjenesteenhet. Sistnevnte erstattes av en representant fra PST v/ Den sentrale enhet (DSE) når rådet er ansettelsesorgan for leder for PSTs distriktsenhet, og av leder for PSTs distriktsenhet når rådet er ansettelsesorgan for øvrige tjenestemenn i PSTs distriktsenhet.»
+
+I tillegg til disse medlemmene er de lokale tjenestemannsgruppene, som tilhører den samme tjenestemannsgruppen som det skal ansettes i, representert i ansettelsesrådet. Ved ansettelse av påtalejurister i politiet deltar normalt en representant for fagforeningen Politijuristene.
+
+1.  *Rekruttering i Danmark*
+
+Rekrutteringen til både departement og til anklagemyndigheten skjer i Danmark felles gjennom Justisministeriet – en gang i september og en i februar. De som ansettes i departementet, kan ha deltidsarbeid som anklager. Det tas inn 40–50 søkere i året. Mobiliteten er en utfordring. Et overordnet prinsipp for rekruttering og karrierepolitikk for anklagemyndigheten er at man i løpet av de ti første årene skal ha vært innom tre tjenestesteder. Det fremholdes at denne turnusordningen medfører at man får et helhetlig blikk på anklagerrollen. Juristene kan få fire års permisjon for å jobbe i andre juridiske stillinger eller studere, for så eventuelt komme tilbake.
+
+Denne rekrutteringsmodellen må anses uegnet i Norge, både på grunn av den tette koblingen til departementet og turnusordningen.
+
+1.  *Rekruttering i Sverige*
+
+For å bli ansatt i påtalemyndigheten i Sverige (Åklagarmyndigheten) må man være jurist og ha fullført såkalt *notariemeritering*, noe som ligner på den norske dommerfullmektigordningen. Om lag 25 prosent av svenske jurister tar notariemeritering. Det ansettes mellom 50–75 «åklagaraspiranter» og «ekstraåklagare» per år. De fleste av åklagaraspirantene kommer direkte fra notariemeriteringen. Gjennomtrekken har holdt seg ganske stabil, med lite gjennomtrekk ute i distriktene, men noe mer i storbyene. Gjennomtrekken er gjennomsnittlig på 5,2 prosent, men har i perioder vært oppe i 12 prosent. Begrunnelsen for å slutte kan være andre karriereveier hvor erfaringen som åklagare er attraktiv og verdifull, og høy arbeidsbelastning og manglende kontroll på egen arbeidshverdag. Yngre medarbeidere har også en tendens til å flytte på seg mer enn tidligere generasjoner har gjort.
+
+Det stilles i Sverige høyere faglige krav til søkerne, i og med kravet om notariemeritering. Det er ikke i Norge noe krav om at de som ansettes, skal ha praksis som dommerfullmektig, men det er opplyst at en del av dem som ansettes, har slik praksis, uten at det finnes tall på hvor mange dette er.
+
+1.  **Hvor blir det av påtalejurister som slutter?**
+
+Politidirektoratet har ingen sentral oversikt over hva påtalejuristene som slutter, går til. Fra Politijuristene har utvalget mottatt en spørreundersøkelse som ble utarbeidet av Politijuristene i samarbeid med Juristforbundet. Undersøkelsen er en gjentakelse av en tilsvarende undersøkelse som ble gjennomført i 2013/14. Den ble sendt ut til alle registrerte medlemmer via Questback 18. mars 2015 og ble avsluttet måneden etter. Da hadde 439 av ca. 900 inviterte medlemmer besvart den (ca. 49 prosent).
+
+Se figur 3.2[^83].
+
+**\[:figur:figX-X.jpg\]**
+
+**\[:figur:figX-X.jpg\]**
+
+1.   
+
+Det fremgår ikke av undersøkelsen hva som var grunnlaget for at respondentene vurderte å slutte i stillingen, ei heller hvor mange av dem som faktisk søkte andre stillinger. Det er derfor vanskelig å trekke noen klare slutninger av undersøkelsen. Økningen fra 2014 til 2015 i andelen som vurderer dette, er størst for de med lengst erfaring. Totalt sett er det imidlertid en nedgang i det totale antallet som har vurdert dette.
+
+Videre har utvalget mottatt tall fra Politidirektoratet for årene 2009 til og med 2015 som viser at fratredelsesprosenten ligger på mellom 5,30 og 7,49 prosent. Tallene gjelder bare de som slutter i etaten, og ikke de som bytter til et annet distrikt eller særorgan. Det gjelder dessuten fra den ansatte sier opp sin stilling, og ikke fra det tidspunktet vedkommende eventuelt går ut i permisjon i forkant. Se tabell 3.4.
+
+1.  Fratredelser

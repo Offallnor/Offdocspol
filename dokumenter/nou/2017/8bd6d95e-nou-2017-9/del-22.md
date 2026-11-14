@@ -1,946 +1,362 @@
-# NOU 2017: 9, del 22 av 25 (side 242–251)
+# NOU 2017: 9, del 22 av 24
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2017/8bd6d95e-nou-2017-9.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2017-9/id2545750/
 - Original-PDF: https://www.regjeringen.no/contentassets/1a1e793002264d9cb5b940e673622984/no/pdfs/nou201720170009000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 15 tabeller, 42 figurer, 158 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 242]
-
-242
-
-Vedlegg 1
-
-NOU 2017: 9
-Politi og bevæpning
-
-dere for politiet der enn det man var i Norge. På
-lik linje var amerikansk politi reddere befolkningen enn norsk politi var, og; «når politiet er
-utrygge er det jo en større sjanse for at de bruker
-våpen». Flere informanter mente enkelthendelser
-ville ha en negativ innvirkning på oppfatningen av
-og tilliten til politiet, eksempelvis ved vådeskudd
-eller om feil person ble skutt. Mer generelt trodde
-de en eventuell bevæpning ville påvirke politiets
-dialog med publikum, ettersom det ville bli
-enklere å ty til våpen enn å snakke ned situasjoner. Våpenet ville øke politiets makt, slik at egenskapen til å være «god på dialog» ble mindre nødvendig. En av gruppene oppsummerte på følgende måte; de fryktet et for handlekraftig politi –
-som går inn i situasjoner for lett og «dreper folk».
-Samarbeidspartnere
-Psykiatripersonell trodde politiet ville ty til sterkere maktmidler tidligere i situasjonen dersom de
-ble bevæpnet. En bevæpning ville også føre til at
-beslutningsprosessen ble lagt til den enkelte politibetjentens subjektive vurdering av farligheten i
-situasjonen, med en medfølgende fare for overtolkning av risiko. I enkelte tilfeller fryktet de at
-dette kunne føre til at liv gikk tapt, og stilte seg
-spørrende til om politiet var villig til å ta ansvaret
-som følger med dette.
-Natteravnene mente at dersom det hadde blitt
-innført generell bevæpning, trodde de politiet ville
-komme til å endre atferd og opptre på en annen
-måte, til tross for at de ikke opplevde dette i forbindelse med den midlertidige bevæpningen. De
-trodde en lettere tilgang på skytevåpen også ville
-gjøre det lettere å bruke det. De vektla også at
-man ikke kan vite hvordan ulike mennesker vil
-reagere ved synet av våpen. I likhet med publikumsgruppene diskuterte gruppen om bevæpning kunne påvirket tilliten deres. Informantene
-oppfattet det slik at det ville komme an på hvordan
-polititjenesten utføres videre. Gruppen tvilte på at
-bevæpning i seg selv ville påvirket deres tillit, men
-åpnet for dette dersom det oppsto enkeltepisoder
-der politiet foretok kritiske feilvurderinger.
-Utsatte grupper
-Gjennomgående i gruppen med tidligere rusmisbrukere var frykten for at politiet ville bli mer
-«triggerhappy» med bevæpning.
-Gruppen med tidligere innsatte pekte på situasjoner der politiet hadde blitt beskutt, men der
-ingen gjerningspersoner ble drept. Dette mente
-de kunne tilskrives det at de måtte tilbake til bilen
-
-for å hente våpen – hadde de derimot hatt våpen
-hadde de antagelig skutt personen. En informant
-mente det ville bli lett å glemme den «egentlige
-verktøykassen» politiet hadde dersom de ble vant
-til å bære våpen, og viktigheten av kommunikasjon;
-«Tror det øyeblikket man bevæpner seg, (...)
-man har lettere for å glemme den egentlige verktøyboksen som man går med, så er liksom enkleste
-utvei… Ikke det at man skyter, men den frykten som
-bevæpning gir, man glemmer mye, det tror jeg vi
-alle hadde gjort, glemmer den måten man egentlig
-skal gå frem på, tror jeg hadde begynt å «slappe av»
-på den egentlige måten man skal møte folk som er i
-en stressa situasjon.»
-Norsk-somalierne mente at dersom politiet
-ikke hadde skytevåpenet tilgjengelig var de nødt
-til å benytte andre metoder, noe de mente var
-positivt både for politiet og for publikum. Med
-tanke på opplevelsen deres av økt kontroll («stopp
-og sjekk»), oppfattet de det slik at dette skjer
-«fordi du er mørk… Det skjer på Grønland». Den
-opplevde økte kontrollen hadde en negativ innvirkning på gruppens tillit til politiet. De ga
-uttrykk for avmakt i møtet med politiet i forbindelse med språk og kunnskap om egne rettigheter. Dette fortalte de også kunne være grunnlag
-for maktmisbruk fra politiets side. Dersom politiet
-la et enda større press på folkegrupper på Grønland, ville dette føre til ytterligere stigmatisering.
-Våpenkappløp
-I forbindelse med våpenkappløp, fryktet publikumsgruppene fra masteroppgaven at lovbrytere
-ville ruste opp for å møte politiets maktmidler. De
-trodde det ville bli et større omløp av våpen i samfunnet generelt. Politiet på sin side omtalte dette
-scenarioet som en myte og henviste til at det ikke
-var noe som tilsa at dette hadde forekommet i Sverige og Danmark (Helstad og Ingjer 2016:80).
-Politi
-I gruppene i Distrikts-Norge var det uenigheter
-rundt om et våpenkappløp var en mulighet eller
-ikke. Gruppene var av den oppfatning at det allerede var mye våpen i omløp, men at det ikke var et
-stort problem, grunnet i en fornuftig våpenlov.
-Gruppene trodde bevæpningen heller ville fungere avskrekkende, som tidligere omtalt, noe som
-motsier et eventuelt våpenkappløp. Likevel mente
-enkelte at faren var reell for at lovbrytere også
-ville bevæpne seg dersom politiet bevæpnes.
-
-[Side 243]
-
-NOU 2017: 9
-Politi og bevæpning
-
-Gruppen med forebyggere og etterforskere
-fremhevet viktigheten av å holde våpenbruken
-nede blant publikum;
-«Jeg er litt sånn for å holde våpenbruken nede
-jeg da, blant befolkninga. Hvis folk føler seg mer
-utrygge og begynner å bevæpne seg med kniver, så
-blir det… man må ikke komme dit ass.»
-Det generelle publikum
-Publikum så til Sverige, og oppfattet det slik at en
-konsekvens av bevæpningen der hadde vært at
-våpenbruken eskalerte, og at man som lovbryter
-heller ville skyte enn å bli skutt. Flere trodde en
-bevæpning ville påvirke politiets trygghet i negativ retning, ettersom sannsynligheten for at lovbrytere ville bruke våpen mot dem økte. De
-mente også at et bevæpnet politi kunne fremprovosere reaksjoner fra andre.
-Informantene var bekymret for at en bevæpning ville føre til at våpen ble normalisert i samfunnet, og at det ville føre med seg en generelt
-større aksept for våpen. Flere informanter trodde i
-tillegg både de kriminelle og de «halvkriminelle»
-miljøene ville bevæpne seg oftere dersom politiet
-ble bevæpnet, for å sikre seg. Dette trodde de ville
-medføre et større omløp av våpen i samfunnet.
-Konklusjonen ble da at en enklere tilgang på
-våpen ville føre til at flere benyttet seg av det.
-Samarbeidspartnere
-Gruppen med psykiatripersonell trodde i likhet
-med publikum at et bevæpnet politi ville føre til
-mer våpen i omløp hos lovbrytere, og begrunnet
-dette med hva politiet signaliserte ved å bære
-våpen.
-Natteravnene trodde spenningsnivået mellom
-politiet og lovbrytere ville øke dersom politiet ble
-bevæpnet, og som et resultat av dette ville voldsbruken eskalere. En tenkelig effekt av lettere tilgjengelig våpen for politiets del ville være et høynet konfliktnivå, og dette ville føre med seg flere
-skarpe situasjoner der enten politiet skyter gjerningspersonen eller motsatt. Gruppen mente en
-økning av slike hendelser ville endre samfunnet. I
-likhet med psykiatripersonellet, mente gruppen at
-det å bære våpen kunne gi et signal, og at de derfor ikke bør ha det i alle situasjoner.
-Gruppen fryktet at Norge ville bevege seg i
-retning av USA med påfølgende tøffere miljøer
-der kriminelle var nødt til å ha våpen for å vinne
-over politiet. De mente faren for at situasjoner
-
-243
-
-Vedlegg 1
-
-ville eskalere når lovbrytere vet at politiet har
-våpen veide tyngre enn eventuelle avverginger av
-situasjoner med våpen.
-Utsatte grupper
-Gruppen med tidligere rusmisbrukere fortalte at
-de hadde en lavere tillit til politiet i forhold til
-resten av befolkningen, og at dette kunne være
-grunnen til at lovbrytere ville bevæpne seg. De
-hadde en oppfatning av at det ville bli en «oss mot
-dem»-mentalitet, og de kunne forestille seg at man
-ville skaffe seg våpen for ikke å bli skutt av et
-politi man hadde mistillit til og fryktet. Det som
-ville bli gjeldende i slike situasjoner var å skyte
-heller enn å bli skutt.
-Gruppen med tidligere innsatte var av den
-oppfatning at en bevæpning av politiet ville sende
-et signal om at samfunnet var mer utrygt. Dette
-ville føre med seg at lovbrytere bevæpnet seg. De
-mente at «vold avler vold», og var av den oppfatning at man vil bruke samme våpen som blir
-brukt mot en selv.
-Med et ubevæpnet politi ville faren for skuddveksling være lavere, dette fordi bevæpningen i de
-kriminelle miljøene i dag hovedsakelig var rettet
-mot andre lovbrytere, og ikke nødvendigvis mot
-politiet. De trodde derimot flere kom til å skaffe
-seg våpen dersom politiet bevæpnet seg. De
-vektla i tillegg det store usikkerhetsmomentet ved
-å være ruspåvirket. Måten politiet behandlet gjengangere på kunne fremprovosere at lovbrytere
-bevæpnet seg. Ved å reflektere over egne erfaringer resonnerte de seg frem til at lovbrytere kan
-føle seg presset til å skyte mot politiet.
-Informantene i gruppen med norsk-somaliere
-så til Sverige, og forklarte at gjenger der var
-bevæpnet som følge av bevæpnet politi. I likhet
-med andre publikumsgrupper var dette et grunnlag for at gruppen fryktet et våpenkappløp i
-Norge. De var enige om at lovbrytere ville
-bevæpne seg dersom politiet gjorde det. Videre
-mente de at dersom man ikke hadde tilgang på
-skytevåpen, ville enkelte ty til kniv.
-Trening og opplæring
-Et resultat fra masteroppgaven var enigheten
-rundt at politiet måtte ha mer trening og opplæring i håndtering av skytevåpen uavhengig av om
-politiet blir bevæpnet eller ikke. Dette ble ansett
-som viktig for tryggheten til både politi og publikum (Helstad og Ingjer 2016).
-
-[Side 244]
-
-244
-
-Vedlegg 1
-
-NOU 2017: 9
-Politi og bevæpning
-
-Politi
-Politigruppene i Distrikts-Norge var enige om at
-de generelt var fornøyde med treningen, men det
-var gjennomgående at de ønsket mer, og mer kontinuerlig trening, både på PHS og i ettertid, uavhengig av bevæpning. Dette var viktig for at de
-skulle bli fortrolige og trygge med våpenet. Det
-ble henvist til vådeskuddene som bevis for at de
-hadde behov for mer trening. De ønsket også mer
-trening på skadebegrensende skyting. Et innspill i
-forbindelse med dette var at man i dagens trening
-siktet på blinker fra bryst og opp, noe som medfører lite trening på å skyte i ben. De savnet en
-annen type trening, da de fortalte at de tidligere
-trente mer på «småcaser», var det nå mest fokus
-på «skyting pågår» og «store terroraksjoner». De
-mente det også ville vært nyttig med trening på
-bruk av andre midler ved casetreninger med
-våpen. Det ble også nevnt at de burde hatt mer
-trening og fokus på forebyggende oppgaver, ettersom det kunne ført til mindre behov for våpen.
-Gruppene anså tilgjengelighet til skytebane
-som viktig, noe som var en grunn til at en av gruppene var spesielt fornøyde med treningen; de
-hadde tilgang til egen skytebane, noe som førte til
-hyppigere skytetrening i egen regi. Dette var en
-gjennomgående frustrasjon i politigruppene som
-ikke hadde denne muligheten.
-Det ble ansett som en fordel å ha bakgrunn fra
-forsvaret, ettersom man da håndterte våpen
-bedre. Flere grupper stilte seg bak dette utsagnet,
-noe som kan reflektere en etterspørsel av bedre
-våpenhåndtering i politiet.
-Gruppen med etterforskere og forebyggere
-mente treningen var tilfredsstillende, samtidig
-som de etterspurte mer trening. De hadde ikke
-det samme inntrykket av fokuset på trening som
-de andre politigruppene, da de opplevde et økt
-fokus på caser med og uten våpen, og bevisstgjøring rundt dette. De hadde egen skytebane og
-mente dette var fordelaktig, til forskjell fra mindre
-lensmannskontorer som ikke har den samme
-muligheten. Likevel mente de hver enkelt hadde
-ansvar for egen trening, samt å opprettholde og
-forbedre skyteferdigheter. De etterspurte obligatorisk skytetrening i arbeidstiden, og mente det
-var for lite med to IP-samlinger i året. De mente
-politiet ikke tilrettela godt nok for skytetrening,
-og at treningen var viktig for opplevelsen av trygghet. De var også kritiske til at operativ trening ofte
-«vinner over» forebyggende aktiviteter, fordi de
-ikke kunne vise til eksempelvis måltall på samme
-måte som operativt arbeid kunne. De eldre i gruppen fortalte at de ikke hadde mye trening på sko-
-
-len, men at de som hadde mer erfaring og hadde
-vært i flere situasjoner, kjente egne reaksjoner
-bedre. Dette var annerledes for de «ferske», og at
-mer trening derfor kunne øke deres trygghet.
-Alle gruppene tok opp at de ønsket mer trening, men politigruppen som var skeptiske til
-bevæpning vektla i tillegg det ikke var alle som
-ønsket å jobbe operativt, og at dette kunne bidra
-til å senke ferdighetsnivået med våpen gjennomsnittlig. Gruppen fortalte at «folk nesten har skutt
-hverandre på skytebanen», og mente dette kunne
-ha en sammenheng med det at politiet må være
-generalister, eller at det i det minste kunne være
-noe av forklaringen;
-«For langt ifra alle egner seg, og langt ifra alle
-(...) har hatt interesse heller for å drive med operativt politiarbeid, men dette er noe de er nødt til. Som
-sier at de ønsker å være tekniker, jeg ønsker å drive
-med data, jeg ønsker kanskje å drive med barneovergrepssaker (...) De gruer seg til skytebanen, har
-ikke interesse for det for de opplever seg ikke kompetente til det (...) de er så dyktige, og er så kloke
-hoder, så er spørsmålet: hvorfor må du dytte alle
-gjennom den samme kverna og hva får vi ut av det?
-Jo, det er jo de som etterhvert vil peke på en kollega
-eller to.»
-De mente for dårlig trening og skyteferdigheter kunne utgjøre en risiko for både publikum, kolleger og gjerningspersoner; «folk, de holder ikke mål. Og når du får tredje ekstrakurset og
-fremdeles ikke får det inn i hodet at det er dumt å
-peke på makkeren din...». En informant fortalte
-hvordan ønsket om å minimere risikoen for å bli
-pekt på med våpen av en for dårlig trent makker,
-førte til at betjenten heller valgte å gå alene inn på
-et oppdrag. Det paradoksale i dette utsagnet viser
-seg ved at det å gå alene inn på et oppdrag kunne
-medføre en vel så høy risiko for betjenten som tok
-dette valget.
-Det generelle publikum
-Publikum satt på ulike inntrykk av politiets opplæring og trening. Enkelte mente politiet ikke var
-godt nok trent i dag, mens andre hadde inntrykk
-av at politiutdanningen hadde høye inntakskrav,
-og videre hadde generelt mye trening. De var
-ikke kritiske til treningen, men heller den nødvendige erfaringen med ulike situasjoner. Dersom
-politiet ble bevæpnet, mente de det var naturlig å
-øke treningsmengden, slik at man som publikum
-skal kunne føle seg trygge rundt dem. Uavhengig
-av om de ble fast bevæpnet eller ikke, mente de
-det var viktig med våpentrening og trening på
-
-[Side 245]
-
-NOU 2017: 9
-Politi og bevæpning
-
-hvilke situasjoner det er nødvendig med våpenbruk i.
-Samarbeidspartnere
-Gruppen med psykiatripersonell mente treningen
-og det tekniske utstyret i politiet var for dårlig,
-men at det ikke var noen garanti for at mer trening
-vil gjøre at man er forberedt på alt og kan unngå
-risiko. Det ville uansett være risiko til stede i
-begge yrker, ettersom oppdrag med mennesker
-ikke er, eller kan være, rutineoppdrag. De oppfattet det slik at politiet er for lite drillet i konflikthåndtering og arrestasjonsteknikker, men samtidig at de er gode på å løse oppdrag uten våpenbruk. De så en variasjon i politiets kompetanse i
-forbindelse med samhandling, situasjonsforståelse, posisjonering i forbindelse med psykiatriske
-pasienter, og mente det var trening som gjorde at
-politiet selv ble tryggere i dette møtet. De hadde
-selv fokus på myke teknikker i møte med psykiatriske pasienter. De mente også at erfaring var
-viktig for politiet, og hadde lavere tillit til at de
-unge betjentene var erfarne nok til å vurdere situasjoner som ikke krevde våpen. Kunnskap om
-psykiske lidelser måtte få større fokus i politiutdanningen, ifølge gruppen. Dette ville både
-trygge politiet og de psykisk syke. Det ville også
-senke risikoen for utilsiktede hendelser i møtet
-mellom partene.
-Natteravnene etterspurte en annen opplæring
-enn bare «ro og orden» hos politiet, da de selv var
-mer opptatt av enkeltindivider, noe de mente politiet utviste mindre av i byen på natten. De var av
-den oppfatning at politiet kunne lært litt av deres
-metoder, og vist mer omsorg for personene de
-håndterte, samtidig var de også klare over at de
-hadde ulike roller i samfunnet. De oppfattet at det
-var en lavere terskel for å ta kontakt med Natteravnene, og at deres rolle bar et større preg av å
-være en samtalepartner for publikum enn den
-politiet hadde.
-Utsatte grupper
-Gruppen med tidligere innsatte var av oppfatningen at politiet var dårlig trent, «skyter hverandre
-mer enn de skyter oss». De vektla også erfaring,
-og at dersom de trente mer på bruk av våpen, ville
-det føre til bedre våpenhåndtering, men at dette
-ville ta tid. De opplevde det som utrygt at mange i
-politiet strøk på oppskyting, siden denne foregikk
-i forholdsvis rolige omgivelser. Dermed ville det
-være mer utrygt i situasjoner med et høyere spenningsnivå. De mente det var unødvendig med
-
-245
-
-Vedlegg 1
-
-ladde våpen, da politiet uansett ikke skulle skyte
-først, og at de var dårlig trent om de glemte å ta
-ladegrepet.
-Gruppen med tidligere rusmisbrukere hadde
-en oppfatning av at politiet ikke var skikket eller
-godt nok trent til å bære våpen permanent.
-Norsk-somalierne var kritiske til om politiet
-ville klare å håndtere skytevåpen, og mente vådeskuddene reflekterte at de ikke hadde god nok
-kunnskap og trengte bedre opplæring.
-Verstefallstenkningen
-Verstefallstenking dreier seg om det verste som
-kan skje, der noen kan bli alvorlig skadet eller liv
-kan gå tapt. Skal politiet rigge seg for flertallet av
-situasjoner som løser seg uten bruk av våpen,
-eller unntakstilfellene?
-Politi
-I en av politigruppene i Distrikts-Norge ble det
-diskutert rundt at våpen var unødvendig i 99 % av
-tilfellene – og spørsmålet ble da om hvilken prosentandel man skulle rigge seg for. De stilte seg
-spørsmålet om de skulle ta høyde for «den ene
-prosenten». De fryktet at det kunne gå galt i «den
-ene prosenten», og stilte spørsmål om dette var et
-«akseptert frafall». Da flere likevel så ulemper ved
-å være bevæpnet i forbindelse med egen trygghet,
-kunne også denne ene prosenten øke med bevæpning.
-Gruppene så til «worst case scenarioer», og
-fortalte at de ikke kunne forsikre seg mot disse.
-Til tross for at et fåtall av gruppene hadde opplevd
-slike scenarioer, opplevde de det som realistisk at
-dette kunne skje dem og at de måtte være forberedt; «(...)mitt argument for å være bevæpnet er at
-det kan stå om liv og død. Redde.» Selv om de sjeldent hadde behov for våpen, fryktet de det kunne
-være utilstrekkelig med fremskutt lagring den
-ene gangen behovet er der. Verstefallstenkningen
-var til stede i distriktsgruppene, og en informant
-fremhevet erfaring i forbindelse med dette;
-«Hørt en som har jobba lenge som sa at; «du skyter jo ikke en mann med kniv» (...). Det har litt
-med det at du har vært i så mange oppdrag, kniv,
-du har snakka folk ut av, og det har gått bra, men
-jeg tenker at det er ikke gitt at det gjør det hver
-gang.»
-I likhet med distriktsgruppene var gruppen
-med etterforskere og forebyggere klare på at de
-ikke hadde behov for våpen i «99 % av tilfellene»,
-og at majoriteten av informantene aldri hadde
-vært i en situasjon der de hadde følt behov for
-
-[Side 246]
-
-246
-
-Vedlegg 1
-
-NOU 2017: 9
-Politi og bevæpning
-
-våpen. De mente våpenet var en psykisk trygghet
-i tilfelle de havnet i unntakssituasjoner.
-Gruppen som var skeptiske til bevæpning var
-enige med de andre politigruppene i at det kunne
-komme situasjoner der behovet for våpen var til
-stede. De mente likevel det var flere oppdrag som
-løste seg uten behov for våpen enn der man kan
-tenke seg å trenge det, og det var kun i unntakstilfellene der man hadde behov for våpen i ordinær
-tjeneste. Gruppen dro dermed følgende slutning
-da det kom til hvilke situasjoner man skulle rigge
-seg for;
-«Det er verstefallstenkningen som styrer hvordan vi skal rigge fremtidens politi. I stedet for å
-tenke sannsynlighetstenkning; ‘hva er hverdagen
-vår, hva er det mest sannsynlig at vi kommer til å
-møte’, også er det det vi må rigge oss etter.»
-Bevæpning på alle oppdrag med kniv i politiet
-ble omtalt av gruppen som et «kvantesprang» i
-forhold til tidligere praksis. De stilte også spørsmål ved avgjørelsen om å ty til drastiske tiltak når
-noe har skjedd, slik som at Mp5 kom i alle biler
-etter NOKAS-ranet. Gruppen mente dette reflekterte at egensikkerhetsfokuset hadde blitt for
-stort, og man alltid vil komme til å søke etter nye
-midler for å bli sikrere; «Jeg blir litt usikker på
-argumentasjonen her for at vi hele tiden må bli
-sikrere, sikrere, sikrere...». De mente politiet fikk
-bevæpning ved behov, og dersom de ikke fikk det
-burde man klare å løse det uten. I tillegg, dersom
-dette var tilfelle, så mente de det burde vært overveiende mange tilfeller for at det skulle endre
-bevæpningsordningen slik den fungerer i dag.
-Det generelle publikum
-Publikum oppfattet at det sjeldent var tilfeller der
-politiet hadde behov for å bruke våpen for å løse
-situasjoner, og at man derfor ikke burde organisere samfunnet og leve etter de få tilfellene der
-det kunne skje noe. Likevel mente de at politiyrket
-kunne være farlig, og at man ikke kunne vite når
-en situasjon eskalerer. Derfor hadde de forståelse
-for politiets behov for å beskytte seg.
-Samarbeidspartnere
-Diskusjonen om hvilken prosentandel politiet
-skulle rigge seg for resulterte i at de mente
-enkelthendelsene ikke burde veie tyngst. De fokuserte også på at det å være politi av yrke innebærer en naturlig risiko, og man kan aldri bli fri
-for risiko.
-
-Utsatte grupper
-Tidligere innsatte stilte spørsmål om hvem politiet
-skulle være til for, og resonnerte på samme måte
-som psykiatripersonellet; politiyrket innebar en
-naturlig risiko, og man valgte selv å utsette seg for
-den;
-«Også er det et eller annet med at når du går
-inn som politimann velger du et yrke, du velger en
-fare, og du velger det at du skal inn og beskytte liv –
-du skal utsette deg selv, ikke en livvakt som skal
-kaste seg foran deg, men du skal prioritere de du er
-satt til å beskytte.»
-Forholdet mellom politi og publikum
-Et funn fra masteroppgaven var at publikum
-mente at et ubevæpnet politi utstrålte et sivilt
-preg, noe som hadde en verdi. Det betrygget
-dem, og de mente det signaliserte et trygt samfunn. Signaleffekten hadde en påvirkning på publikums oppfattelse av politiet. Publikum forankret
-sin tillit til politiet i deres sivile preg, ved at politiet
-ble «en av dem». De oppfattet møtet med bevæpnet politi som at det var en pågående situasjon.
-Politiet fokuserte på at arbeidsmetodene deres
-var verdifulle, og at en bevæpning ikke ville endre
-dette fordi våpenet spilte liten rolle i verdivurderingen. Politiet vektla ikke selve uniformen og
-utstyret, ettersom deres erfaringer var at publikum ikke reagerte på dette. De vektla heller effektiviten i arbeidet. En bevæpning av politiet kunne
-reflektere en holdningsendring til publikum, som
-igjen kan svekke tilliten. Disse ulike perspektivene kan skape en større avstand mellom politi og
-publikum, og det kan også medføre at tilliten svekkes (Helstad og Ingjer 2016).
-Politi
-Gjennomgående i politigruppene i DistriktsNorge var at de ikke fikk negative kommentarer
-fra publikum under den midlertidige bevæpningen. Flere syntes heller ikke at publikum behandlet dem annerledes. Likevel hadde enkelte opplevd å høre at de så «farlige ut». Enkelte så paradokset i at de skulle ha et sivilt preg, men at en
-uniform med våpen på hofta ikke utstråler dette.
-En informant mente at politiet selv også var klare
-over dette, og eksemplifiserte med en hendelse
-fra den midlertidige bevæpningen;
-«Student da det var bevæpning, var ikke godkjent for våpen enda, gikk uten, de jeg gikk vakter
-med syns det var ukomfortabelt å gå inn på utesteder, å oppsøke folk, forebyggende perspektiv, jeg ble
-
-[Side 247]
-
-NOU 2017: 9
-Politi og bevæpning
-
-sendt inn først fordi det var en ny situasjon for
-dem.»
-Flere opplevde det også som et paradoks at de
-både skulle være ute av bilen og ha kontakt med
-publikum, samtidig som de opplevde å bli «låst til
-bilen» med fremskutt lagring. Avstanden til bilen
-vanskeliggjorde kontakten med publikum fordi
-det da ble lengre til våpenet. De var opptatte av
-befolkningens høye tillit til politiet, og trodde
-dette kunne knyttes til publikums opplevelser
-med uniformen og ikke nødvendigvis til våpenet.
-Dette samsvarer med funnene fra masteroppgaven (Helstad og Ingjer, 2016). Enkelte opplevde høyere mistillit fra ikke-etnisk norske, noe
-de mente var forståelig grunnet antatte negative
-opplevelser med politiet i hjemlandet.
-Flertallet i gruppen med etterforskere og forebyggere fortalte om kun positive tilbakemeldinger, men trodde at som var negative kanskje ikke
-kom bort og tok kontakt. En informant tenkte at
-en av ulempene med et bevæpnet politi kunne
-være en endring i kontakten med publikum, ved at
-man ble mer taktisk på plassering, at man oppsøkte publikum på en annen måte og ble bevisst på
-egen atferd i forbindelse med å yte service til
-publikum. De andre informantene opplevde våpenet heller som kontaktskapende og at publikum
-var nysgjerrige. Flere informanter trodde ikke tilliten hadde blitt svekket, da de mente publikum
-heller fryktet trusselbildet enn at politiet var
-bevæpnet.
-Gruppen som var skeptiske til bevæpning tok
-opp problematikken med hvordan politiet ordla
-seg, og påpekte at forenklinger, slik som eksempelvis «målbehandling» og «verktøy» bidro til å
-redusere mennesket de møtte i situasjonen; «(...)
-nå skal vi ta ut et mål, og da snakker vi om et menneske de skal ut å møte med våpen i hånd. Og det
-bekymrer meg». De oppfattet at det var mange
-politifolk som ble for instrumentelle i sin tilnærming til de ulike menneskene man møtte. Dette
-mente de kunne ha å gjøre med at forenklingen
-bidro til å distansere betjenten fra mennesket i
-situasjonen. Informantene mente man måtte finne
-balansen mellom den instrumentelle og den relasjonsmessige tilnærmingen. Politiet måtte være
-gode på alle verktøyene, både taktikk og samhandling.
-Det generelle publikum
-Publikumsgruppene vektla tilstedeværelse og
-nærhet til befolkningen som de viktigste faktorene for trygghet og tillit, og mente en eventuell
-bevæpning kunne øke avstanden til publikum.
-
-247
-
-Vedlegg 1
-
-Den dempende og forebyggende effekten de
-mente politiet hadde, trodde de grunnet i deres
-naturlige autoritet og en innebygget respekt for
-politiet. De vektla en tett kontakt med politiet, og
-et åpent politi der det var en lav terskel for å
-komme innom og prate med dem og få hjelp.
-Flere trodde terskelen ville øke for å ta kontakt
-med politiet dersom de ble bevæpnet. De informantene som sjeldent så politiet, refererte ofte til
-bevæpnet politi på flyplasser i utlandet. De pekte
-på at disse opplevelsene gjorde at de følte seg mer
-utrygge, og fryktet at folk ville føle seg mer
-utrygge enn det de opprinnelig var dersom norsk
-politi ble bevæpnet.
-Under den midlertidige bevæpningen la de
-fleste merke til at politiet var bevæpnet; «Jeg husker ikke helt hva det var, men jeg husker at han
-hadde våpen». Publikumsgruppene oppfattet tilstedeværelsen av bevæpnet politi som et uttrykk
-på autoritet og makt. De fortalte at politiet opplevdes mer truende og at kroppsspråket ble annerledes. Flere følte seg mer anspente ved synet av
-våpen, og fortolket tilstedeværelsen av våpen som
-noe farlig. De følte at dette var ubehagelig og «ble
-litt på vakt», men tenkte at dette kunne være fordi
-det var uvant. En annen fortalte at «blikket ble
-dratt mot våpenet».
-I en av gruppene diskuterte informantene en
-tenkt kritisk situasjon der det var barn til stede;
-«(...) viktig at politiet ikke kommer som et
-bevæpna, farlig uhyre, men som et snilt menneske
-og roer ned situasjonen». En av gruppene så til
-Natteravnene i storbyene, og ønsket seg at politiet
-kunne fungere beroligende i likhet med dem; «fotpatruljer som er ute og snakker med folk og roer
-ned uten våpen.»
-Samarbeidspartnere
-Også gruppen med psykiatripersonell vektla tilstedeværelse og synlighet av politiet, og understreket at det økte befolkningens trygghetsfølelse
-da man hadde en grunnleggende respekt for politiet. De la det sivile uttrykket til grunn da de forklarte hvorfor terskelen for å ta kontakt med politiet var lav. Samtidig kunne de tenke seg at man
-kunne bli vant til å se politi med våpen.
-Natteravnene opplevde at de hadde god kommunikasjon med politiet, og at de kom hvis de
-trengte hjelp – hvis de hadde tid. De opplevde at
-politiet ikke syntes det var like viktig å komme
-dersom natteravnene var til stede, for da var det
-noen der. De fortalte om et godt samarbeid, og
-snakket direkte med patruljene på jobb. Likevel
-opplevde de at et bevæpnet politi ga et signal og
-
-[Side 248]
-
-248
-
-Vedlegg 1
-
-NOU 2017: 9
-Politi og bevæpning
-
-skapte avstand til publikum, da de argumenterte
-mer som privatpersoner enn som natteravner.
-Utsatte grupper
-Gruppen med tidligere rusmisbrukere fryktet et
-forsterket «oss mot dem»-forhold mellom politiet
-og rusmisbrukere og lovbrytere dersom politiet
-ble bevæpnet. De trodde en eventuell bevæpning
-kom til å få konsekvenser for de svakeste i de kriminelle miljøene. Med bakgrunn i egne erfaringer
-med politiet trodde de også andre rusmisbrukere
-ville være mer åpne for å bruke dialog dersom
-politiet er ubevæpnet. I likhet med de andre publikumsgruppene opplevde de møtene med bevæpnet politi i utlandet som ubehagelige.
-Gruppen med tidligere innsatte beskrev situasjoner hvor de hadde møtt bevæpnet politi og
-mente det så autoritært og skummelt ut med
-bevæpning, samt at det lå mye makt i det å bære
-et våpen. De opplevde det som truende å bli snakket til av en som var bevæpnet. Informantene
-trodde kontakten med befolkningen som de
-mente politiet faktisk var til for å beskytte, skapes
-ved å være mest mulig lik, og ved tilstedeværelse
-og kommunikasjon. Bevæpningen ville da være
-skadelidende for nærheten til miljøet.
-«Går ikke bort til bevæpnet politi og spør hva
-den gata heter.»
-I likhet med de øvrige publikumsgruppene,
-fortalte gruppen med norsk-somaliere at de i
-større grad tok avstand fra politiet dersom de var
-bevæpnet. De så for seg at en eventuell bevæpning ville skade avstanden til og samarbeidet med
-politiet. De fortalte at de hadde mer respekt for
-politiet tidligere6 og opplevde de som mer imøtekommende, der de nå reagerte mer på hvordan
-politiet behandlet folk. De mente det lå mye makt i
-uniformen. De fortalte at de selv, men særlig unge
-norsk-somaliere, opplevde aggressivt og rasistisk
-politi. De skilte norsk politi positivt ut i forhold til
-politiet fra hjemlandet, noe som bidro til deres
-negative holdning til bevæpning av norsk politi;
-«Vi kommer fra et land hvor politiet bruker
-våpen, de kommer bare når det er alvorlig, bare når
-de skal ta et menneske.»
-De anså det også viktig å få frem at de syntes
-politiet stort sett gjorde en god jobb, men fortalte
-at de fokuserte på det som var negativt siden de
-under intervjuet hadde mulighet til å belyse det
-som var viktig for dem i deres møter med politiet.
-Få fortalte om egenopplevde negative erfaringer
-6
-
-Skyteepisoden på Grønland i 2015 og regjeringsskiftet i
-2013 blir ofte referert til som to skillelinjer for gruppen.
-
-med politiet, da de fleste kun hadde hørt om det i
-miljøet. De mente en bevæpning ville ødelegge tilliten til, forholdet og samarbeidet med politiet, og
-at det skapte frykt i stedet for å bringe dem nærmere hverandre. Det somaliske miljøet og politiet
-var «ikke bestevenner fra før», og det ville bli
-verre med bevæpning.
-Differensieringsproblematikken
-Da de ulike gruppene diskuterte differensiering,
-virket det vanskelig for dem å komme frem til et
-entydig svar. Gruppene diskuterte seg ofte frem
-til noe de fleste kunne være enige i, men da det
-gjaldt differensieringsproblematikken klarte
-ingen å komme frem til en løsning. I tillegg til at
-de var uenige med hverandre, ble de heller ikke
-enige med seg selv, og flere kom med motstridende argumenterer. Dette uttrykker nettopp problematikken med differensiering.
-Politi
-Politigruppene i Distrikts-Norge opplevde flere
-utfordringer i forbindelse med at de ikke arbeidet
-på større steder eller i byer. De jobbet på store
-geografiske områder, der det var lange avstander,
-langt til bistand fra andre patruljer og få politifolk
-på jobb. Det var flere steder som var fysisk vanskelig å komme frem til, og både vær og trafikk
-kunne gjøre det vanskelig for fremkommeligheten. Broer og ferjer kunne være nødvendige fremkomstmidler for å få, eller gi, bistand. I forbindelse med dette anså de større steder, og særlig
-Oslo, som tryggere. Det var likevel flere som
-mente det var mer fornuftig å eventuelt bevæpne
-Oslo enn egne distrikter.
-Gruppen som hovedsakelig bestod av etterforskere og forebyggere vektla at oppdrag ville bli
-gjennomført tryggere dersom det var flere politifolk til stede, da trusselen og farlighetsnivået ved
-en situasjon kunne oppleves større dersom man
-var alene. Dette kunne videre føre til at man gikk
-inn i nødvergesituasjon, noe som ville påvirke
-bruk av våpen. De trodde likevel politifolk i Oslo
-følte seg mindre trygge enn andre steder grunnet
-det tøffere miljøet i Oslo, der «publikum skyter på
-politiet og på hverandre». De mislikte kulturen
-innad i Oslopolitiet, og mente den var fryktbasert.
-Dette trodde de også publikum hadde forståelse
-for, og at de dermed følte et større behov for
-bevæpning i Oslo enn ellers i landet. De ville heller ha flere politifolk enn samme antall politifolk
-med våpen, da de anså det som lite nyttig å
-erstatte mannskap med våpen. Dette mente de
-
-[Side 249]
-
-NOU 2017: 9
-Politi og bevæpning
-
-249
-
-Vedlegg 1
-
-ville innebære at man «skraper sammen folk som
-ikke skulle vært bevæpna», fordi man ville ha
-behov for alle dersom en alvorlig hendelse skulle
-oppstå.
-Politigruppen som var skeptiske til bevæpning
-mente at Oslo var bedre forberedt på vanskelige
-situasjoner fordi de raskere kunne få bistand og
-dra fordel av antallet politifolk. På bygda kan man
-måtte kjøre lengre avstander, og ikke få bistand
-like raskt. Derfor kunne de kanskje ha et større
-behov for våpen enn de større byene, dersom
-noen skulle bevæpnes.
-
-mennesker og mer kriminalitet i byen enn på
-bygda, og de forestilte seg at befolkningen i større
-byer var mer redde og mindre trygge. De trodde
-det var enklere å løse ting på et lavere nivå på
-bygda, siden «alle kjenner alle». Publikum så det
-vanskelig å differensiere en eventuell bevæpning;
-«tror det er nesten dødfødt å tenke dit, det å skulle
-sette geografiske, tidsmessige begrensninger,
-behov for våpen kan skje når som helst». De var
-klare over at sannsynligheten var mindre visse
-steder enn andre, men at det likevel ble feil å differensiere.
-
-Det generelle publikum
-
-Når er det hensiktsmessig å bære våpen?
-
-Flere av informantene i publikumsgruppene skilte
-mellom by og bygd, og anså det ikke som et
-behov for bevæpning i Distrikts-Norge. De så
-også det problematiske med store avstander i krisesituasjoner, og at dette kunne føles utrygt. I verste fall kunne politiet være for langt unna, og situasjonen kunne eskalere eller være over før de rakk
-frem. Lignende argumentasjon hørte vi ofte også
-fra mindre tjenestesteder, men for denne gruppen
-hadde ikke dette sammenheng med bevæpning.
-Publikum forventet ikke at politiet skulle være
-overalt, til enhver tid, på mindre steder. I tillegg til
-store avstander, vektla de at det kunne være vanskelig å komme seg frem, noe flere mente skilte
-bygda negativt ut fra byen. Dette samsvarer med
-det politigruppene i distriktene vektla. Gruppene
-var også bekymret for sentralisering og større
-avstander, og de trodde flere bekymret seg mer
-over dette enn om politiet hadde våpen eller ikke.
-De syntes det var betryggende å vite at politiet
-kom på kort tid, da dette var med og bygge tillit.
-I forbindelse med differensiering av bevæpning i by og bygd, på visse steder eller til visse
-tider, mente de hovedsakelig det bør være opp til
-politiet selv. De syntes det var vanskelig å sammenligne Distrikts-Norge med Oslo, og de så
-også til storbyer i Europa, der det var mer «terror
-og sånn». Større byer, flyplasser og steder med
-mye mennesker skilte seg fra småsteder, og
-berørte ikke dem i hverdagen. Videre mente flere
-at det bør skilles mellom «midt på natta i Oslo og
-midt på dagen på småsteder» ved en eventuell
-bevæpning. Likevel, i likhet med flere av informantene i politigruppene, kom det frem at det
-kunne oppstå en kritisk situasjon overalt. Det var
-bredere aksept i publikum for bevæpning i byer
-enn i Distrikts-Norge. Gjennomgående i intervjuene var at de ofte viste til andre steder og byer enn
-der de selv befant seg eller hadde kjennskap til, da
-de pekte på steder som var utrygge. Det var flere
-
-I forbindelse med en eventuell differensiering vil
-det følge en liste over i hvilke situasjoner de ulike
-gruppene så for seg det kunne være hensiktsmessig eller ikke for politiet å bære våpen7.
-Situasjoner det er hensiktsmessig å bære våpen i:
-Politi, Distrikts-Norge: Folkemengder (større
-sannsynlighet for terror, der noen kan ramme
-mange), i høyblokk eller langt fra bilen, usikre
-situasjoner i forbindelse med psykiatri og rus, ute
-av byen, hjem til psykiatri, henting av våpen, flyplasser, under «skyting pågår», terrorsituasjoner.
-Etterforskere/forebyggere, by: Oppdrag det oppleves som et stressmoment å bevæpne seg i.
-Det generelle publikum: I situasjoner der motparten har våpen, dersom det er høynet trusselbilde.
-Psykiatripersonell: Dersom psykisk syke personer selv er bevæpnet.
-Natteravnene: Risiko for væpnet angrep.
-Situasjoner det ikke er hensiktsmessig å bære våpen i:
-Politi, Distrikts-Norge: Folkemengder (festivaler,
-utesteder, torget), utenfor utesteder etter stenging (større fare for å bli fratatt våpenet enn faren
-for at de trenger våpenet), gripe inn i slåsskamper,
-rykke ut hjemmefra på natten (i forbindelse med
-ulykker), hjem til psykiatri (kan bli oppfattet truende), skole- og barnehagebesøk, forebyggende
-arbeid.
-Etterforskere/forebyggere, by: Gripe inn i slåsskamper, pågripelser, forebyggende arbeid med
-ungdom, planlagte tjenestebesøk.
-Politi, skeptiske: I møte med psykisk syke personer.
-7
-
-De utsatte gruppene er ikke med på listen, da de aldri
-mente det var hensiktsmessig å bære våpen.
-
-[Side 250]
-
-250
-
-Vedlegg 1
-
-NOU 2017: 9
-Politi og bevæpning
-
-Det generelle publikum: Forebygging (særlig
-barn og unge), terror.
-Psykiatripersonell: I møte med psykisk syke
-personer.
-Natteravnene: I situasjoner der våpenet kan
-virke truende, terror.
-Særlig politigruppene i Distrikts-Norge var
-delte i hvilke situasjoner det var hensiktsmessig å
-bære våpen i. Der enkelte mente det var en fordel
-i store folkemengder, grunnet terrorfare, mente
-andre faren for å bli fratatt våpenet var større og
-mer reell enn faren for at de trengte det. De var
-også delte i forbindelse med psykiatri. Dette var
-situasjoner de ofte beskrev som usikre, men de
-var også bevisste på at skytevåpen kunne virke
-særlig truende for psykisk syke personer. Til
-tross for få eller ingen høyblokker på tjenestestedene vi besøkte, benyttet også disse gruppene seg
-av «høyblokkargumentet«8. Publikumsgruppene
-var usikre på hvorvidt bevæpnet politi ville vært
-nyttig i en eventuell terrorsituasjon. I forbindelse
-med forebyggende arbeid, særlig med barn og
-unge, var politi og publikum enige om at politiet
-bør være ubevæpnet. Forebyggerne selv så for
-seg en mulig løsning der politi som primært jobbet med forebygging kunne jobbe ubevæpnet som
-vil bli utdypet senere.
-Politigruppen som var skeptiske til bevæpning
-fremhevet det å bære skytevåpen i møte med psykisk syke personer som lite hensiktsmessig. De
-begrunnet dette med at dersom en psykisk syk
-person møtte bevæpnet politi, vil våpenet være det
-eneste personen fokuserte på. De øvrige politigruppene tok ikke opp denne problematikken i forbindelse med psykisk syke personer. Gruppen var
-kritiske til politiets holdninger til psykisk syke, og
-hadde ikke tillit til at alle ville holde like mye tilbake på å avfyre skudd i møte med disse personene. Likevel, hadde de forståelse for at politiet i
-enkelte tilfeller så det nødvendig å avfyre skudd.
-Intervjuet med psykiatripersonell utdypet dette.
-Politiets møte med psykisk syke mennesker
-var de oppdragene politiet ofte selv omtalte som
-de mest usikre, og også de farligste. Gruppen
-med psykiatripersonell vektla at politiet som oftest
-også var forberedte på slike oppdrag. Et møte mellom bevæpnet politi og en psykisk syk person
-trodde de ville kunne skape et høyere angstnivå
-hos de psykisk syke, noe som også ville øke nivået
-av aggresjon og stress i situasjonen. Den psykisk
-syke ville fokusere på våpenet, og de fortalte at de
-8
-
-«Høyblokkargumentet» går ut på at det er for langt ned til
-bilen for å hente ut våpenet dersom de er i en etasje langt
-opp i en høyblokk.
-
-reagerte på det under den midlertidige bevæpningen. Dette mente de videre mulig kunne være
-fordi de ikke var vant til det. Et møte med bevæpnet politi for psykisk syke ville bidra til å kriminalisere og farliggjøre pasienten, ved at politiet sendte
-et signal. Unntakene her tenkte de måtte være
-situasjoner der den psykisk syke personen selv
-var bevæpnet. Den viktigste oppgaven politiet
-hadde i forbindelse med håndtering av psykisk
-syke personer var å skape trygghet, noe de mente
-at våpenet forstyrret. For å skape trygghet hos
-psykisk syke var det viktigste i situasjonshåndteringen å bruke tid på dialog. Grunnet at personene ofte hadde en innadrettet aggresjon (suicidale), kunne det være farlig for pasienten selv dersom de møter politi med våpen. Da våpenet som
-blir tatt med inn i situasjonen var et aggressivt og
-truende element, kunne det også føre til at aggresjonen ble rettet mot politiet. De vektla at psykisk
-syke sjeldent var farlige personer, men at disse
-møtene ofte kunne oppleves som stressende for
-politiet da de ikke hadde det nødvendige kunnskapsgrunnlaget. De trodde politiet opplevde
-disse situasjonene som stressende siden de sjeldent møtte psykisk syke i andre sammenhenger,
-og dermed kun forbandt de med atferden deres i
-krisesituasjoner. De fryktet at dersom politiet ble
-bevæpnet, var dette noe som ville gå utover de
-psykisk syke, i verste fall at de oftere ville bli
-skutt.
-Alternative løsninger til fremskutt lagring
-og generell bevæpning
-Politi
-Politigruppene i distriktene så for seg flere alternative løsninger til en eventuell bevæpning. Det
-kom frem forslag som havnet i en mellomposisjon
-mellom fremskutt lagring og generell bevæpning,
-slik den fungerte under den midlertidige bevæpningen. De etterspurte generelt mer valgfrihet for
-den enkelte betjenten.
-Alternativer de blant annet mente burde bli
-vurdert var at de kunne få bære uladd skytevåpen.
-De refererte også til «omvendt fremskutt lagring», at politiet var generelt bevæpnet, men at
-man kunne velge om man ville legge fra seg våpenet i bilen i situasjoner man ikke ønsket å være
-bevæpnet, eller ikke så behovet for det. De ønsket
-at beslutningen om en bevæpning skulle flyttes
-nærmere brukeren, og her ble innsatsleder eller
-den enkelte patrulje nevnt. Flere mente det kunne
-være en fordel å få muligheten til å ta avgjørelsen
-på hvert enkelt oppdrag. Dette var de også uenige
-
-[Side 251]
-
-NOU 2017: 9
-Politi og bevæpning
-
-om siden det da ble fremhevet at ulike politifolk
-ville ha ulik oppfatning av samme oppdrag. Etter å
-ha diskutert dette så flere dermed nytten i at noen
-som ikke var i situasjonen selv tok beslutningen.
-Elektrosjokkvåpen kom også opp til vurdering
-i forbindelse med de situasjonene der batong og
-pepper ikke var tilstrekkelig. Denne ble omtalt
-som å «uskadeliggjøre uten garantien som ikke
-finnes; ‘ikke ta liv’». Dersom batong og pepper
-ikke var tilstrekkelig, var de redde for å stå igjen
-med et verktøy de ikke ønsket å bruke, nemlig
-skytevåpenet. De mente de andre verktøyene de
-hadde tilgjengelig burde gjennom en vurdering,
-og om man eventuelt kunne finne en mellomting
-mellom det de allerede hadde og et skytevåpen.
-De vurderte også om man kunne bevæpne
-enkelte deler av politiet. Flere så til England som
-en mulig løsning Norge kunne bli inspirert av, og
-foreslo at eksempelvis enkelte patruljer i Oslo
-kunne være fast bevæpnet.
-De så også vanskeligheter med disse alternative løsningene; hvis de var i situasjoner de absolutt burde eller ikke burde hatt våpen. Likevel kan
-det være nyttig å ta alternative løsninger i betraktning, da det viser variasjon, ikke bare mellom politifolk, men også hvordan de som i utgangspunktet
-har tatt et standpunkt i debatten også så ulike løsninger, og ikke var helt sikre.
-Politigruppen med forebyggere og etterforskere fremhevet at siden uniformen bygger tillit
-særlig blant unge, anså de det som en mulig løsning at noen kunne jobbe ubevæpnet. De som jobbet primært som forebyggere brukte seg selv
-som eksempel, da de ikke hadde behov for våpen i
-jobben sin som forebyggere, da det kunne virke
-mot sin hensikt i forbindelse med deres hovedansvar. De mente det var problematisk at de måtte
-ha skytegodkjenning for å kunne kjøre uniformert
-patrulje, da publikum bør knytte uniformen til noe
-positivt og dempende. De anså seg selv som problemløsere, og merket forskjeller i tankegangen
-mellom dem selv og hvis de jobbet med noen de
-omtalte som «superoperative». De mente de selv
-hadde en annerledes tilnærming til publikum, at
-de var mer tilbakelente enn operativt politi. De så
-ulemper med at ulike ungdomsmiljøer kunne anse
-dem som «den skarpe enden» av politiet, og at uniform og våpen ikke nødvendigvis må høre
-sammen. De mente de kunne gjøre en bedre jobb
-dersom de ikke jobbet med våpen, men at det ikke
-muliggjøres med dagens praksis, midlertidig eller
-generell bevæpning. De etterspurte en mulighet
-til å avvæpne seg selv – uten at dette skulle bli
-ansett som et «nederlag» innad i politiet. Politiet
-
-251
-
-Vedlegg 1
-
-bør tørre å ha noen som dem; forebyggere, som
-ikke bar våpen; «ikke bevæpna – og norsk politi».
-Denne gruppen foreslo også en større grad av
-bevæpning i enkelte oppdrag, gitt det tidligere
-trusselbildet. Gruppen etterspurte endringer og
-vektla viktigheten av andre roller i politiet. De
-mente det var en politisk diskusjon om en permanent bevæpning var avgjørende for å øke samfunnssikkerheten i Norge, og mente det heller var
-andre faktorer enn et bevæpnet politi som er tilgjengelig på kort beredskapstid som kunne øke
-sikkerheten. Faktorer de mente det burde være
-fokus på, hvor det ikke var behov for våpen, var et
-politi som gjør en god jobb sammen, og som satset i motsatt ende enn den skarpe beredskapen;
-forebygging av kriminalitet og radikalisering,
-fange ekstremisme tidlig – og at dette kunne
-avklare usikre situasjoner på et tidligere tidspunkt, slik at behovet for skytevåpen vil bli redusert på sikt. Disse arbeidsoppgavene i politiet
-anså de som tungt arbeid, som for få politifolk
-gjør.
-Det generelle publikum
-Flere i publikumsgruppene mente i likhet med
-politiet at prosessen med å få bevæpningstillatelse
-er for lang. De forstod at det kunne oppleves komplisert for politiet at noen som ikke var til stede
-skal ta vurderingen, og at det kunne oppleves som
-unødvendig tidsbruk av politiet som var på oppdraget. Flertallet av informantene mente derimot
-at beslutningsprosessen var betryggende. De
-anså det som positivt at det var flere som tar
-beslutningen til tross for at dette kunne ta lengre
-tid.
-Samarbeidspartnere
-Psykiatripersonellet og Natteravnene uttrykte
-hovedsakelig det samme som de øvrige publikumsgruppene. De mente ordningen med fremskutt lagring kunne forbedres ved at avgjørelsen
-om å bevæpne seg burde kunne tas av noen som
-var nærmere situasjonen, og ligge nærmere den
-enkelte betjenten i stedet for hos politimesteren9.
-Dette viste seg som et gjennomgående argument i
-både politigruppene og en del av publikumsgruppene, forskjellen var at majoriteten i publikumsgruppene ikke var oppmerksomme på at mange
-beslutninger nå treffes av operasjonsleder. Denne
-9
-
-Dette endret seg med ny våpeninstruks som trådte i kraft
-2016. https://lovdata.no/dokument/INS/forskrift/201507-02-1088
+\(3\) Instruksen gjelder ikke for utlevering og bruk av politiets våpen
+
+<u>a) til avliving av dyr,</u>
+
+<u>b) for å avverge eller begrense farer ved ulykker, branner eller naturkatastrofer</u>
+
+<u>c) til godkjent trening og opplæring.</u>
+
+Når det gjelder det saklige virkeområdet, er det naturlig å ta utgangspunkt i våpenloven § 4 første ledd, første punktum, som unntar våpen som eies av politiet. Det er dette unntaket fra den alminnelige våpenlovgivningen, som det i stor grad kompenseres for med våpeninstruksen. En grunnleggende forutsetning for våpeninstruksens virkeområde er derfor at våpnene eies av politietaten.
+
+Begrepet «tjenestemessig» i første ledd markerer at våpeninstruksens bestemmelser gjelder når politiets våpen brukes som ledd i tjenesten. Urettmessig bruk av tjenestevåpen, eventuelt bruk av tjenestevåpen i idrettslig sammenheng, faller derfor utenfor, og reguleres henholdsvis av straffeloven, den alminnelige våpenloven samt eventuelt internt regelverk.
+
+At instruksen bare gjelder for våpen som er «godkjent for bruk i politiet» innebærer både at selve våpentypen må være godkjent for politiet, og at vedkommende våpen er politiets eiendom. Bruk av privat anskaffede våpen er ikke tillatt selv om disse har tilsvarende egenskaper som politiets. Bruk av slike ikke godkjente våpen i tjenstlig sammenheng vil bare være rettmessig dersom vilkårene for nødrett, eventuelt nødverge er oppfylt.
+
+Bestemmelsen i annet ledd markerer at instruksen gjelder for de ekstraordinære tilfellene hvor politiet tar i bruk midler som ikke er en del av den ordinære utrustningen. Konsekvensen av reguleringen er at for eksempel batong og pepperspray i instruksens forstand ikke regnes som våpen, jf. § 1-4. Det er forutsatt at bruken av disse reguleres i egen instruks fastsatt av Politidirektoratet.
+
+Unntaket angitt i bestemmelsens tredje ledd bokstav a) omhandler tjenstlig bruk av skytevåpen som ikke aktualiserer noen av de faremomenter som begrunner instruksens bestemmelser om bevæpning og bruk. Bestemmelser i annen lovgivning stiller imidlertid krav om at avlivingen må skje på en dyrevelferdsmessig forsvarlig måte.
+
+Unntaket i tredje ledd bokstav b) er nytt i instruksen 2015. Fellesnevneren for tilfellene som fanges opp av denne bestemmelsen er at den umiddelbare fare som begrunner bruk av våpen ikke er menneskeskapt. Et typisk eksempel vil være at politiet skyter hull i en gassbeholder for å hindre eksplosjon. Det er først og fremst årsaken til faren som skiller tilfellene angitt i § 1-1 tredje ledd bokstav b) fra den taktiske bruken av skytevåpen i forbindelse med «skarpe» oppdrag som er regulert i instruksens § 4-3 annet ledd.
+
+Det siste unntaket gjelder godkjent trening og opplæring, jf. § 1-1 tredje ledd bokstav c). Bestemmelsen tydeliggjør at den ikke gjelder, og dermed heller ikke er til hinder for individuell trening med politiets våpen. «Godkjent» trening innebærer at den må skje i samsvar med egen lokal instruks eller etter godkjenning fra foresatt i det enkelte tilfellet.
+
+1.  *<u>Personellmessig virkeomr</u><u>å</u><u>de</u>*
+
+§ 1-2. *Instruksens personellmessige virkeområde*
+
+\(1\) Instruksen gjelder for alle som i medhold av politiloven § 20 har eller er gitt politimyndighet.
+
+\(2\) For Forsvarets personell som er gitt og utøver begrenset politimyndighet i medhold av politiloven § 20 gjelder instruksen så langt den passer.
+
+\(3\) For utenlandsk politi- og sikkerhetspersonell gjelder følgende unntak fra første ledd:
+
+<u>a) Under livvakttjeneste gjelder særlig regulering fastsatt av sjef Politiets sikkerhetstjeneste i det enkelte tilfelle.</u>
+
+<u>b) Ved observasjon eller ved forfølgelse over landegrensen etter Schengenkonvensjonen art. 40 nr. 3 eller 41 nr. 5, gjelder Konvensjonens art. 40 nr. 3. pkt. d eller art. 41 nr. 5 pkt. e.</u>
+
+Bestemmelsen om det personellmessige virkeområdet er ny i våpeninstruksen 2015.
+
+Med den presiseringen som følger av annet ledd om «Forsvarets personell», angir første ledd ytterrammene for hvem våpeninstruksens bestemmelser kan gjelde for. For å regnes som «tjenesteperson» i våpeninstruksens forstand er det imidlertid ikke nok med politimyndighet, men kreves også at opplæring for bruk av våpen er bestått. Tjenestepersoner med begrenset politimyndighet vil oftest ikke oppfylle vilkårene om opplæring, og vil derfor i våpeninstruksens forstand ikke regnes som «tjenesteperson» med den kompetansen som følger av dette.
+
+Det følger av annet ledd at instruksen gjelder for personell fra forsvaret såfremt disse er gitt og utøver begrenset politimyndighet. I den ordinære, daglige tjenesten gjelder dette primært tjenestepersoner i Kystvakten og grensevaktstyrken ved Garnisonen i Sør-Varanger. Når Forsvaret ved ekstraordinære hendelser blir anmodet om å yte politiet bistand i medhold av politiloven § 27 a annet ledd, kan instruksen først komme til anvendelse når det aktuelle personellet er meddelt begrenset politimyndighet etter politiloven § 20 femte ledd. Selv når dette er tilfellet, gjelder den bare «så langt den passer».
+
+Hensikten med den felles innledningen til tredje ledd er å fastsette at våpeninstruksen ikke gjelder for det bevæpnede personellet angitt i bokstav a) og b). Når dette betegnes som et unntak fra første ledd, innebærer det ikke at personellet angitt i tredje ledd også er gitt politimyndighet, som jo er det avgjørende kriterium i første ledd. Når det eksempelvis ved statsbesøk medfølger egne sikkerhetsstyrker, fastsetter tredje ledd bokstav a) at bevæpningen for slikt personell reguleres i egen instruks som fastsettes av sjef for Politiets sikkerhetstjeneste i det enkelte tilfellet, og derfor ikke reguleres av våpeninstruksen.
+
+Etter Schengenkonvensjonen 19. juni 1990 del III om «politi og sikkerhet» har polititjenestepersoner fra andre land en begrenset anledning til å forfølge gjerningspersoner over grensen. I praksis vil dette først og fremst gjelde svensk og finsk politi som rutinemessig er bevæpnet, og som kan komme i situasjoner hvor det er nødvendig å fortsette en forfølgelse inn over grensen til Norge. Konvensjonen regulerer i disse tilfellene både retten til fortsatt å være bevæpnet, og adgangen til å gjøre bruk av våpenet. I tredje ledd bokstav b) er det for fullstendighetens skyld vist til dette regelverket, og at det er dette og ikke våpeninstruksen som kommer til anvendelse. Det vil imidlertid bare være adgang til å bruke våpenet i de tilfeller som er omhandlet i våpeninstruksen § 4-3 første ledd bokstav a), og ikke i pågripelsestilfellene, jf. § 4-3 bokstav b).
+
+1.  *<u>Geografisk virkeomr</u><u>å</u><u>de</u>*
+
+§ 1-3. *Instruksens geografiske virkeområde*
+
+\(1\) Instruksen gjelder
+
+<u>a) på norsk land- og sjøterritorium, herunder Svalbard, Jan Mayen og områder underlagt norsk statshøyhet som biland, og</u>
+
+<u>b) for personell som nevnt i § 1-2 første ledd i polititjeneste utenfor territorialgrensen. For personell som nevnt i § 1-2 annet ledd i polititjeneste utenfor territorialgrensen gjelder instruksen så langt den passer.</u>
+
+\(2\) Instruksen gjelder også for norske polititjenestepersoner når tjenesteoppdrag fortsetter på annet lands territorium i medhold av Schengenkonvensjonen art. 40 nr. 3 eller 41 nr. 5, men slik at bruk av skytevåpen er begrenset i samsvar med konvensjonens art. 40 nr. 3. pkt. d eller art. 41 nr. 5. pkt. e.
+
+Bestemmelsen om geografisk virkeområde er ny i instruksen 2015.
+
+§ 1-3 inneholder bestemmelser om i hvilken grad våpeninstruksen kommer til anvendelse utenfor territorialgrensen, men gir ingen fullstendig regulering av i hvilken grad norske polititjenestepersoner kan være bevæpnet og bruke skytevåpen i utlandet.
+
+Til tider har over 100 norske tjenestepersoner utført polititjeneste utenfor landets grenser. I tillegg er norske polititjenestepersoner avgitt til EU-organet Frontex, som kontrollerer Schengen-områdets yttergrenser. Våpeninstruksen gjelder ikke for personell i slik tjeneste, i hovedsak med det som begrunnelse at tjenestepersonene under slike oppdrag ikke opptrer på vegne av den norske stat og utøver norsk myndighet, men gjør tjeneste på vegne av en internasjonal organisasjon.
+
+Når § 1-3 første ledd bokstav a) slår fast at instruksen gjelder på norsk land- og sjøterritorium, tas dette nærmest for gitt. Bestemmelsens sentrale innhold er derfor at våpeninstruksen også gjelder for væpnede aksjoner gjennomført av sysselmannens tjenestepersoner på Svalbard og for norsk politi med ansvar for Jan Mayen. Annen lovgivning setter visse begrensninger i adgangen til å gripe inn overfor skip innenfor territorialgrensen, men i den grad det er adgang til det, og politiinnsatsen er bevæpnet, gjelder våpeninstruksen.
+
+Folkeretten gir statene en viss rett til myndighetsutøvelse også utenfor territorialgrensen. Primært gjelder dette «tilstøtende sone» (mellom 12 og 24 mil utenfor grunnlinjen) og» økonomisk sone» (utenfor tilstøtende sone). I den grad polititjenestepersoner forestår polisiær myndighetsutøvelse i disse områdene, eksempelvis i forbindelse med bekjempelse av menneskehandel eller narkotikainnførsel, slår bestemmelsen i første ledd bokstav b) fast at væpnet tjeneste av personell omfattet av § 1-2 første ledd må følge våpeninstruksen også her.
+
+Det er først og fremst kystvaktens tjenestepersoner som forestår den polisiære myndighetsutøvelsen i havområdene utenfor norskekysten. Som en konsekvens av reguleringen i våpeninstruksen 2015 § 1-2 annet ledd, fastsetter også den territoriale bestemmelsen i § 1-3 første ledd bokstav b), annet punktum at instruksen gjelder så langt den passer.
+
+Annet ledd regulerer den motsatte situasjonen av § 1-2 tredje ledd bokstav b). I dette tilfellet gjelder det norske polititjenestepersoner som foretar forfølgelse inn i annet Schengen-land, i praksis Sverige og Finland. Den praktiske betydningen av bestemmelsen i annet ledd er at i den grad våpeninstruksen innebærer begrensninger utover det som følger av vedkommende nabolands lovgivning og Schengenkonvensjonen, gjelder disse fortsatt. Selv om politiet i Sverige og Finland er rutinemessig bevæpnet, innebærer dette eksempelvis at norske polititjenestepersoner på oppdrag i disse landene ikke fritt kan bevæpne seg, men må forholde seg til begrensningene som følger av våpeninstruksen 2015 § 3-3 første ledd bokstav c.
+
+1.  **<u>Lagring</u>**
+
+Siden norsk politi ikke bærer våpen omfattet av våpeninstruksen under utførelse av ordinær polititjeneste, blir et viktig beredskapsfaglig tema hvor våpnene skal oppbevares når de ikke er i bruk. Som etter våpeninstruksen 1989 opererer våpeninstruksen 2015 med tre former for lagring: Ordinær, midlertidig og fremskutt lagring. Den nye instruksen inneholder i det hele få endringer når det gjelder lagring, noe som har sammenheng med at lagringsbestemmelsene var gjenstand for flere endringer i våpeninstruksen 1989 sin gyldighetstid.
+
+1.  *<u>Ordin</u><u>æ</u><u>r lagring</u>*
+
+§ 2-1. *Ordinær lagring*
+
+\(1\) Når våpnene ikke er i bruk eller gjenstand for fremskutt lagring, skal de som hovedregel oppbevares på det enkelte tjenestested i samsvar med bestemmelser gitt av Politidirektoratet og vedkommende politisjef.
+
+\(2\) Når det ikke er hensiktsmessig at tjenesten utføres og ledes fra fast tjenestested, kan politisjef bestemme at våpen og ammunisjon skal oppbevares på stedet hvorfra tjenesten utføres.
+
+\(3\) Sikker og forsvarlig oppbevaring i samsvar med retningslinjer fastsatt av Politidirektoratet må alltid ivaretas.
+
+Når politiets våpen ikke er i bruk, skal de være oppbevart i det eller de depoter som er fastsatt. Fremskutt lagring representerer et vesentlig unntak fra dette. Når det ikke er truffet beslutning om bevæpning, skal skytevåpen derfor enten befinne seg på de ordinære depotene, eller i fremskutt lagring når tjenestepersonen er i aktiv tjeneste. Er han/hun ikke det – selv om det er kort tid til neste tjenestesett begynner – er det depotet som er oppbevaringsstedet, og ikke f.eks. et garderobeskap eller en bil.
+
+Bestemmelsen i annet ledd tar sikte på tilfeller hvor det gjennomføres en planlagt og mulig væpnet tjeneste som strekker seg over tid, og som ofte blir gjennomført med forhåndsutvalgte tjenestepersoner. I tilfeller slik innsats skjer fjernt fra ordinære våpendepoter, kan det være behov for å lagre våpen nærmere innsatsområdet, og politisjef kan treffe beslutning om midlertidig fremskutt lagring. Tredje ledd tydeliggjør at en slik beslutning også må regulere kravene til sikker oppbevaring.
+
+1.  *<u>Fremskutt lagring</u>*
+
+§ 2-2. *Fremskutt lagring av skytevåpen i motoriserte patruljer*
+
+\(1\) Skytevåpen kan medbringes og oppbevares i motoriserte patruljer i samsvar med sikkerhetskrav fastsatt av Politidirektoratet. Ammunisjon skal oppbevares under forsvarlig tilsyn og kontroll i samsvar med retningslinjer gitt av Politidirektoratet. Bilpatruljer som styres av eller rapporterer til distriktets operasjonssentral skal medbringe skytevåpen, med mindre særlige forhold tilsier en annen ordning. Båtpatruljer skal medbringe skytevåpen etter retningslinjer fastsatt av Politidirektoratet.
+
+\(2\) Våpen og ammunisjon skal etter endt tjeneste tilbakeleveres til fast oppbevaringssted ved det enkelte tjenestested. Under beredskapsvakt eller hvor patruljen ved endt tjeneste ikke returnerer til tjenestestedet, oppbevares våpen og ammunisjon i samsvar med retningslinjer gitt av Politidirektoratet.
+
+\(3\) Verneutstyr skal alltid oppbevares i umiddelbar nærhet av våpnene.
+
+Med unntak av bestemmelsen om fremskutt lagring i båtpatruljer, svarer reglene om fremskutt lagring til reglene i våpeninstruksen 1989 § 5 etter forskriftsendringen 27. september 2013.
+
+Bruk av betegnelsen «skytevåpen» i første ledd første punktum viser at det ikke lenger skilles mellom enhånds og tohåndsvåpen , slik tilfellet var etter våpeninstruksen 1989 før endringene i 2013. Formuleringen i første ledd gir Politidirektoratet mulighet for å gi retningslinjer for den sikreste og mest hensiktsmessige løsningen for oppbevaring i motoriserte patruljer, noe som er gjort gjennom rundskriv av 15. mars 2016 om «Direktiv for forvaltning av politiets tjenestevåpen og ammunisjon» pkt. 3.3.2. c.
+
+Inntil forskriftsendringen i 2013 i våpeninstruksen 1989 var kravet at våpen og ammunisjon skulle oppbevares nedlåst sammen. Fra da av har kravene til oppbevaring av ammunisjon vært regulert som i første ledd annet punktum. I dag bestemmer rundskriv fra Politidirektoratet 15. mars 2016 pkt. 3.3.2 at ved fremskutt lagring kan inntil to magasiner til enhåndsvåpen bæres i beltet eller på annen forsvarlig måte og at inntil to magasin til tohåndsvåpen oppbevares nedlåst
+
+Ordensmessig nevnes at det er blitt reist spørsmål om instruksen og PODs rundskriv er til hinder for at enhåndsvåpen ligger ladet (med magasin i), men ikke spent (skudd i kammer) i den fremskutte lagringen.
+
+Bestemmelsen i første ledd tredje punktum fastsetter i utgangspunktet en plikt til å ha fremskutt lagring i de bilpatruljene som styres av eller rapporterer til operasjonssentralen. Kravet om denne type lagring er imidlertid ikke gjort absolutt, men kan unnlates når «særlige forhold tilsier annen ordning». Det vil ikke sjelden forekomme tilfeller hvor politiet av ulike årsaker gjør bruk av kjøretøyer som ikke er godkjent eller klargjort for fremskutt lagring, men som like fullt benyttes i tjeneste som styres av eller rapporterer til operasjonssentralen. Et eksempel på dette er tjenestebiler som benyttes i etterforskningsenheter ved utrykning i forbindelse med åstedsundersøkelser.
+
+Den fremskutte lagringen innebærer normalt ikke at skytevåpen kan oppbevares annerledes utenfor tjeneste enn det som følger av hovedregelen, jf. annet ledd første punktum. Annet ledd annet punktum regulerer imidlertid hvordan fremskutt lagring skal praktiseres i tilfeller der tjenestepersonene etter endt tjeneste ikke vender tilbake til fast tjenestested, men har med seg bilen hjem og utøver beredskapsvakt. De detaljerte bestemmelsene er å finne i Politidirektoratets rundskriv 15. mars 2016 pkt. 3.3.2 bokstav c).
+
+Bestemmelsen i tredje ledd innebærer at kjøretøyene må innredes slik at verneutstyret kan oppbevares hensiktsmessig. For øvrig kan den neppe tolkes innskrenkende med henvisning til § 3-1 tredje ledd. Dette innebærer at verneutstyr må medbringes også i tilfeller hvor tjenestepersonene skal ut på oppdrag av en slik art at verneutstyr ikke kan benyttes ved en eventuell bevæpning. De problemer dette måtte volde i praksis antas enten å måtte løses gjennom et uttrykkelig unntak i våpeninstruksen, eller ved at Politidirektoratet gjør bruk av sin generelle adgang i § 1-5 første ledd til å gi utfyllende bestemmelser.
+
+1.  **<u>Bev</u><u>æ</u><u>pning</u>**
+
+Bestemmelsene om bevæpning svarer i stor utstrekning til de som gjaldt etter våpeninstruksen 1989, men er redigert vesentlig annerledes. Det er også gjort noen materielle endringer knyttet til vilkårene for bevæpning og kompetansen til å treffe beslutning om bevæpning.
+
+Siden det i våpeninstruksen 2015 stilles vilkår for å bevege seg fra lagringsstadiet til
+
+bevæpningsstadiet, og det dessuten er slik at endringen utløser visse plikter, er det viktig med en klar grensedragning mellom stadiene. Et spørsmål som oppstår i denne forbindelse er om polititjenestepersoner er å anse som bevæpnet med skytevåpen hvis de ikke medbringer ammunisjon. Hensett til at et våpens tradisjonelle fare- og skadepotensial først aktiveres når ammunisjon kommer til, kan det isolert sett argumenteres for at en tjenesteperson som for eksempel tar med seg tjenestevåpenet ut av patruljebilen, men ikke medbringer ammunisjon, ikke er å anse som bevæpnet. Problemstillingen er først og fremst knyttet til om en slik behandling av skytevåpen vil være urettmessig egenbevæpning etter § 3-3 første ledd bokstav c). Er det mulig å fremtre som bevæpnet ved å medbringe skytevåpenet, men unngå reaksjon for urettmessig egenbevæpning med henvisning til at man ikke hadde med ammunisjon? Under henvisning til blant annet signaleffekten, at også et uladd våpen kan trues med samt til kontrollhensyn, taler de beste grunner for at så ikke er tilfellet.
+
+1.  *<u>Generelle krav</u>*
+
+§ 3-1. *Generelle krav*
+
+\(1\) Bare tjenestepersoner med gyldig godkjenning kan bevæpnes, med mindre situasjonen antas å kreve umiddelbar væpnet innsats for å avverge eller stanse voldsanvendelse mot person, og godkjent personell ikke vil være tilgjengelig i tide.
+
+\(2\) Bevæpnet personell skal normalt være uniformert og skytevåpen skal bæres synlig med mindre tjenestens art eller situasjonen tilsier noe annet.
+
+\(3\) Når bevæpningsordre er gitt skal verneutstyr være tilgjengelig og benyttes, med mindre tjenestens art tilsier noe annet. Politidirektoratet kan fastsette særlige bestemmelser for bruk av verneutstyr ved beslutning om bevæpning i medhold av § 3-2 tredje ledd.
+
+Første del av bestemmelsen i første ledd fastsetter at det bare er tjenestepersoner med gyldig godkjenning for vedkommende type våpen som i tjenesten vil bli utstyrt med dette. Om kravene til tjenesteperson vises for øvrig til § 1-4 fjerde ledd.
+
+Noen ganger oppstår situasjoner hvor det fremstår som nødvendig med umiddelbar væpnet innsats for å avverge eller stanse voldsanvendelse mot person, men hvor mannskapet som på kortest tid er tilgjengelig, ikke har gyldig godkjenning. Etter en forsvarlighetsvurdering med grunnlag i politiloven § 6 fjerde ledd, kan operasjonsleder i slike tilfeller bevæpne tjenestepersoner uten gyldig IP 4-godkjenning. Bestemmelsen antas å gå noe lenger enn det rene nødvergebetraktninger etter straffeloven § 18 ville resultert i.
+
+Bestemmelsen i annet ledd krever at væpnet personell som hovedregel skal være uniformert. Ut fra formålet med bestemmelsen antas det at ulike former for hurtiguniformering må oppfylle kravet, eks. gule vester med «POLITI». Kravet om uniformering er dog ikke absolutt, idet det er gjort unntak for tilfeller der tjenestens art eller situasjonen tilsier noe annet. Den siste formuleringen sikter først og fremst til de akutte tilfellene.
+
+Bestemmelsen i tredje ledd første punktum krever at det i bevæpningssituasjoner som hovedregel benyttes verneutstyr. Situasjoner som oppstår plutselig anses ikke å begrunne noe unntak. Unntaket angitt i tredje ledd første punktum begrenser seg til å gjelde «tjenestens art». Som eksempel på dette kan nevnes langvarig bevæpnet vakthold, hvor mye av de samme hensynene gjør seg gjeldende som for unntaket i tredje ledd annet punktum som direkte er knyttet en beslutning om varig bevæpning, og hvor Justis- og beredskapsdepartementet har uttalt at ordinær bruk av verneutstyr er lite tjenlig.
+
+1.  *<u>Vilk</u><u>å</u><u>r for bev</u><u>æ</u><u>pning</u>*
+
+§ 3-2. *Vilkår for bevæpning med skytevåpen*
+
+\(1\) Bevæpning med skytevåpen kan skje
+
+<u>a) når omstendighetene gir grunn til å tro at tjenestepersonene i tjenesteoppdraget kan komme til å stå overfor en situasjon som er særlig farlig for dem eller andre, eller</u>
+
+<u>b) når det basert på trusselvurderinger og tilgjengelig informasjon anses som nødvendig for å kunne gi personer, objekter eller virksomheter tilstrekkelig beskyttelse.</u>
+
+\(2\) Politisjef kan gi forhåndsordre om at bevæpning skal skje i spesielle typetilfeller, herunder livvakttjeneste, hvor det må antas at kriteriene i første ledd bokstav a) regelmessig vil være oppfylt.
+
+\(3\) Politidirektoratet kan etter samtykke fra departementet beslutte bevæpning i den daglige tjenesten for en periode på inntil tre måneder, når det ut fra risiko- og sårbarhetsanalyser vurdert opp mot politiets oppgaveløsning anses nødvendig for å sette politiet i stand til å kunne avverge eller stanse handlinger som vil være særlig farlig for liv og helse eller viktige samfunnsfunksjoner. Departementet kan samtykke til å forlenge bevæpningsadgangen med inntil åtte uker av gangen på de vilkår som er fastsatt i første punktum.
+
+Bestemmelsen i første ledd bokstav a) regulerer de akutt farlige situasjonene. Dette omfatter både situasjoner som er rent hendelsesstyrte og de som er forhåndsplanlagte. Eksempelvis kan det under en hendelsesstyrt væpnet aksjon fremkomme opplysninger om at gjerningspersonen befinner seg et annet sted, og at den påfølgende innsatsen for å pågripe vedkommende er forhåndsplanlagt, men fortsatt representerer en akutt farlig situasjon for involvert personell. Som tidligere må det foreligge en objektiv forankring for antakelsen om at en faresituasjon kan inntre. Dette innebærer blant annet at det er mulig for andre i ettertid å vurdere grunnlaget for bevæpningen. Når det gjelder sannsynligheten, er det klart at det ikke kreves sannsynlighetsovervekt for at en særlig farlig situasjon vil oppstå, samtidig som en hypotetisk mulighet ikke er nok. Essensen synes å være at det er tilstrekkelig med en rimelig mulighet.
+
+Hvilken risiko som i det enkelte tilfelle skal regnes som «særlig farlig», vil bero på en rekke faktorer. Som utgangspunkt må situasjonen være slik at den har potensial til å utvikle seg til en situasjon hvor politiet vil ha adgang til å bruke skytevåpen, dvs. at den kan utvikle seg slik at den leder til grov voldshandling. Gjelder det en person som i ord eller handling har truet med å bruke skytevåpen, øks, sverd eller kniv som vedkommende har tilgjengelig, vil vilkårene for bevæpning nærmest alltid være oppfylt. For øvrig må avgjørelsen baseres på en totalvurdering hvor momenter som disponibel mannskapsstyrke, utdannelse, geografisk beliggenhet, psykisk helsetilstand mv. kan være relevante.
+
+Ved bevæpning gjelder som oftest den farlige situasjonen politiet selv. Det kan imidlertid forekomme tilfeller hvor det er behov for bevæpning, men uten at tjenestepersonene er i fare. Det er for eksempel tilfellet hvor en person truer med å kaste ut familiemedlemmer fra terrassen høyt oppe i blokka. Ved melding om en slik situasjon, vil bevæpning derfor først og fremst være begrunnet i at tjenestepersonene vil stå overfor en situasjon som er særlig farlig for andre.
+
+Bestemmelsen i første ledd bokstav b) regulerer det som kan kalles latent farlige situasjoner. Med dette siktes til tilfeller hvor det ikke foreligger noen konkrete opplysninger om at angrep vil finne sted eller at noen spesielt farlige situasjoner vil oppstå, men hvor det basert på generelle trusselvurderinger og sårbarheten til objektet, er grunn til å forberede seg på anslag. En sentral vurdering som må foretas er hvor stor risikoen er for at den eller de identifiserte truslene vil bli realisert. I det daglige er slik bevæpning ofte knyttet til vakthold, det være seg utenfor ambassader eller i rettslokaler ved spesielle saker. Bestemmelsen utgjør for øvrig det materielle grunnlaget for bevæpning av Den kongelige politieskorte og for livvakttjenesten som utføres av PST.
+
+Bestemmelsen i andre ledd er en videreføring av våpeninstruksen 1989 etter forskriftsendringen 11. februar 2015. Forhåndsordre ble tidligere ofte benyttet for i akutte typetilfeller å gi operasjonsleder hjemmel til å bevæpne mannskapene uten å innhente beslutning fra politimesteren. Etter at operasjonsleder nå er gitt selvstendig bevæpningskompetanse i akutte tilfeller, er behovet for forhåndsordrer blitt vesentlig redusert.
+
+Når det gjelder tredje ledd, er forhistorien til bestemmelsen at det høsten 2014 oppsto en trusselsituasjon hvor blant annet politiet ble antatt å være mål for terroranslag. Våpeninstruksen 1989 hadde etter forskriftsendringen 11. februar 2015 tilsvarende bestemmelser med unntak av at disse kun omfattet enhåndsvåpen.
+
+Selv om formuleringen i første ledd bokstav b) og tredje ledd er forskjellige, er det grunnleggende sett den samme type latent trussel som begrunner bevæpning i begge bestemmelser. Det som i særlig grad skiller tredje ledd fra første ledd bokstav b) er at trusselen i større grad er rettet mot politiet selv enn mot bestemte objekter som skal beskyttes.
+
+Beslutningen om bevæpning i den daglige tjenesten kan bare treffes for en periode av tre måneder. Den kan deretter forlenges med åtte uker ad gangen. Hvor mange forlengelser på åtte uker som kan foretas før disharmonien med grunnprinsippet om et sivilt preget og ubevæpnet norsk politi blir for stor, er usikkert. Sikkert er det imidlertid at bestemmelsen ikke hjemler en varig bevæpning.
+
+1.  *<u>Beslutning om bev</u><u>æ</u><u>pning</u>*
+
+§ 3-3. *Beslutning om bevæpning med skytevåpen*
+
+\(1\) Beslutning om bevæpning med skytevåpen treffes av:
+
+<u>a) operasjonsleder med godkjenning til å treffe bevæpningsbeslutning, eller politisjef, i tilfeller som nevnt i § 3-2 første ledd bokstav a).</u>
+
+<u>b) politisjef i tilfeller som nevnt i § 3-2 første ledd bokstav b).</u>
+
+<u>c) den enkelte tjenesteperson i tilfeller som nevnt i § 3-2 første ledd bokstav a) når situasjonen krever umiddelbar innsats, og det ikke er teknisk mulig, er tid til, eller taktisk tilrådelig å innhente bevæpningsordre fra operasjonsleder. Beslutningen gjelder for tjenestepersonen selv og dennes underordnede.</u>
+
+\(2\) Beslutning om bevæpning av tjenestepersoner i:
+
+<u>a) Den Kongelige politieskorte (DKP) treffes av politimesteren i Oslo i samsvar med utarbeidet instruks.</u>
+
+<u>b) PST treffes av sjef PST i samsvar med utarbeidet instruks. Ved synlig operativ tjeneste skal operasjonsleder i distriktet hvor tjenesteoppdraget utføres, varsles.</u>
+
+<u>c) Kripos treffes av sjef Kripos. Operasjonsleder i distriktet hvor tjenesteoppdraget utføres skal varsles.</u>
+
+<u>d) UP og PU treffes som hovedregel av operasjonsleder eller politisjef i det distriktet tjenesteoppdraget utføres.</u>
+
+Når første ledd bokstav a) legger bevæpningskompetansen i akutte tilfeller til operasjonsleder, representerer dette en av de viktigste materielle endringer fra våpeninstruksen 1989 til våpeninstruksen 2015.
+
+Ved innføringen av bestemmelsen ivaretas to viktige hensyn. Det første er at vanskelige oppdrag blir løst på bakgrunn av forsvarlig planlegging, og at det blir vurdert om det er tilstrekkelig å basere løsningen på mindre inngripende midler.
+
+Det andre hensynet som ivaretas, er at beslutningen om bevæpning både kunnskapsmessig og tidsmessig treffes så nær de operative mannskaper som mulig. Det sentrale her er at operasjonsleder normalt vil være vesentlig bedre oppdatert på den aktuelle situasjonen som begrunner spørsmålet om bevæpning enn det politimesteren vil være.
+
+Den primære bevæpningskompetansen ligger hos operasjonsleder også i de forhåndsplanlagte, akutte bevæpningstilfellene, hvor det normalt ville ha vært uproblematisk å innhente bevæpningsbeslutning fra politimesteren. En enhetlig kompetanseregel for de akutte tilfellene er valgt blant annet for å unngå den vanskelige grensedragningen mellom «hendelsesstyrte» og «forhåndsplanlagte» akutte tilfeller.
+
+For at operasjonsleder skal ha bevæpningskompetanse i akutte tilfeller, er det et krav om at vedkommende er godkjent for dette. Når antall operasjonssentraler etter gjennomført nærpolitireform reduseres til 12, må det kunne legges til grunn at disse er ledet av personell som enten har lang erfaring som operasjonsleder og/eller har formell operasjonslederutdanning, og derfor har godkjenning til å treffe bevæpningsbeslutning.
+
+Tidligere regelverk krevde – i det minste formelt – en særlig begrunnelse for bruk av tohånds skytevåpen. Etter forskriftsendringen i 2013, og etter våpeninstruksen 2015 må imidlertid enhånds og tohånds-våpnene anses likestilt. Valget må bero på hva som for det konkrete oppdraget anses taktisk mest hensiktsmessig og forsvarlig. Det må dog legges til grunn at politimesteren fremdeles kan gi lokale føringer for denne vurderingen.
+
+Når det gjelder bevæpning i latent farlige situasjoner, er kompetansen etter første ledd bokstav b) lagt til politisjef. Slik bevæpning vil gjerne være en del av en større plan for å takle den aktuelle situasjonen, og det er naturlig at beslutning om bevæpning i slike tilfeller treffes av politidistriktets øverste ledelse.
+
+De materielle vilkårene for egenbevæpning etter første ledd bokstav c) er de samme som etter våpeninstruksen 1989. Et grunnvilkår for denne type bevæpning er at situasjonen tjenestepersonen befinner seg i, eller meldingen de mottar, krever umiddelbar innsats. Egenbevæpning skal bare finne sted i nødsituasjoner hvor avventing av operasjonsleders beslutning vil innebære at tjenestepersonene ikke vil være i stand til å beskytte seg selv eller tredjepersoner.
+
+1.  *<u>Beslutning om bev</u><u>æ</u><u>pning over distriktsgrenser</u>*
+
+§ 3-4. *Beslutning om bevæpning med skytevåpen over distriktsgrenser*
+
+\(1\) For væpnet politiinnsats som foregår i flere politidistrikter gjelder følgende:
+
+<u>a) Når et distrikt har besluttet bevæpning for et oppdrag som nevnt i § 3-2 (1) a), vil bevæpningsbeslutningen fortsatt være gyldig for egne tjenestepersoner selv om oppdraget fortsetter inn i andre politidistrikt. Operasjonsleder i berørte distrikter skal varsles.</u>
+
+<u>b) Ved planlagte/koordinerte oppdrag over flere distrikter som nevnt i § 3-2 (1) b), er det den enkelte politisjef som har myndighet til å beslutte bevæpning innenfor eget distrikt.</u>
+
+\(2\) Når det anses hensiktsmessig kan politidirektøren beslutte bevæpning ved distriktsovergripende hendelser som nevnt i første ledd a og b.
+
+For å få en fullstendig oversikt over bevæpningskompetansen når tjenestepersoner skal opptre i et politidistrikt de ikke tilhører, må § 3-4 kombineres medbestemmelsene i § 3-3 annet ledd som gjelder tjenestepersoner i henholdsvis Den Kongelige politieskorte, PST, Kripos, UP og PU.
+
+De akutte farlige oppdragene hvor bevæpning er besluttet i medhold av § 3-2 første ledd bokstav a), kan enten være hendelsesstyrte eller planlagte. Bevæpningskompetansen er den samme i begge tilfeller. Dette følges også i første ledd bokstav a) som regulerer kompetansen når slike oppdrag foregår over flere distrikter. Det typiske tilfellet er at en eller flere bevæpnede patruljer forfølger gjerningspersoner over i annet politidistrikt. For «opprinnelsesdistriktets» egne mannskaper fortsetter da bevæpningsbeslutningen å gjelde. Denne bevæpningsbeslutningen er imidlertid ikke gitt virkning for oppdraget generelt, og gjelder derfor ikke for eventuelle enheter fra nabodistriktet som bistår. For disse tjenestepersonene må operasjonslederen i dette distriktet treffe beslutning om bevæpning på ordinær måte.
+
+De praktiske situasjonene for planlagte akutte oppdrag er der hvor politiet skal gjennomføre en pågripelse og beslag av for eksempel narkotika, og hvor det foreligger grunn til å tro at tjenestepersoner vil stå overfor en særlig farlig situasjon. Når de aktuelle gjerningspersonene beveger seg over i annet distrikt, er reguleringen også her at politidistriktet som har ansvaret for saken også har bevæpningskompetansen. Valget er basert på at avgjørelsen bør treffes av den som har best kjennskap til saken. Beslutningen gjelder kun egne mannskaper, og operasjonsleder i det distrikt man beveger seg inn i skal varsles uavhengig av om det bes om bistand eller ei.
+
+Ved latent farlige situasjoner som berører flere politidistrikter, eksempelvis store internasjonale møter med deltagelse av trusselutsatte toppledere fra mange land, er kompetansen lagt til den enkelte politimester i de distriktene som er berørt av oppdraget, jf. første ledd bokstav b). Dette er rimeligvis en uaktuell problemstilling dersom Politidirektoratet treffer beslutning etter annet ledd. Denne bestemmelsen legger bevæpningskompetansen til Politidirektoratet ved distriktsovergripende politioperasjoner både ved akutte og latente farer, når dette fremstår som hensiktsmessig.
+
+1.  **<u>Bruk</u>**
+
+Bruk omfatter både de tilfeller hvor politiet avfyrer skudd og hvor politiet i ord eller handling truer gjerningspersonen med at skytevåpenet vil bli brukt.
+
+De fem paragrafene i kapittel IV «Bruk», kan deles i to grupper. De to første paragrafene ( § 4-1 og § 4-2) er av generell karakter, og behandler blant annet de generelle rammebetingelser for bruk av våpen. De tre siste bestemmelsene (§ 4-3 til § 4-5) som angir vilkårene for å anvende henholdsvis skytevåpen, gassvåpen og sprengvåpen, er i stor utstrekning en normering av kravet om en forholdsmessig maktanvendelse, jf. politiloven § 6 annet ledd.. Bestemmelsene fastsetter hva trusselsituasjonen må gå ut på, og hvor alvorlig den må være for at det skal være adgang til i siste instans å løse den ved bruk av våpen.
+
+1.  *<u>Ledelse og ansvar</u>*
+
+§ 4-1. *Ledelse og ansvar*
+
+\(1\) De alminnelige bestemmelsene om ledelse og ansvar gjelder også ved bruk av våpen.
+
+<u>a) Innsatsleder har</u>
+
+- <u>så langt omstendighetene tillater, ansvar for at all tilgjengelig informasjon om situasjonen, gjerningspersonen(e), offer(e) og omgivelsene er innhentet og vurdert før det gjøres bruk av våpen, og</u>
+
+- <u>et ansvar for at ordre om bruk av våpen er i samsvar med denne instruksen.</u>
+
+<u>b) Den enkelte tjenesteperson har</u>
+
+- <u>alltid et ansvar for at våpenet behandles forsvarlig og at bruk av våpen er i samsvar med denne instruksen og ordre gitt av leder,</u>
+
+- <u>ansvar for at vilkårene foreligger når våpen brukes i nødverge etter annet ledd, og</u>
+
+- <u>når vedkommende ikke er undergitt taktisk ledelse av andre, de plikter som er nevnt foran i bokstav a).</u>
+
+\(2\) Tjenesteperson undergitt direkte taktisk ledelse kan uten ordre fra leder bare gjøre bruk av våpen i nødverge.
+
+\(3\) Ved bruk av våpen har politiet plikt til å sørge for at skadevirkningene begrenses mest mulig.
+
+Innledningen til første ledd tydeliggjør at det finnes regelverk også utenfor våpeninstruksen som har betydning for ledelsen av væpnede politiaksjoner. Foruten politiloven og politiinstruksen er det særlig «Politiets beredskapssystem del I (PBS I)«, «Politiets beredskapssystem del II (PBS II)« og «Ordreinstruksen 11. mai 2010» som er relevant for ledelse av væpnet innsats fra politiets side.
+
+Ved bruk av våpen, har innsatsleder en sentral posisjon. For betydningen av første ledd bokstav a) er det viktig å ta i betraktning definisjonen i § 1-4 tredje ledd, som gir en ganske vid definisjon av hvem som kan bli regnet som innsatsleder i henhold til våpeninstruksens bestemmelser. En av hans/hennes plikter er – så langt omstendighetene tillater – å sørge for at all tilgjengelig informasjon om situasjonen, gjerningspersonen(e), offer(e) og omgivelsene er innhentet og vurdert før det gjøres bruk av våpen. Poenget med bestemmelsen er å understreke viktigheten av at innsatsleder ut fra observasjonene på stedet og den planen som legges, aktivt innhenter og etterspør relevant informasjon så langt omstendighetene gir tid og anledning til dette.
+
+Med funksjonen som innsatsleder følger både en rett og en plikt til å gi ordre om hvordan tjenesteoppdraget skal utføres. Videre følger det av bestemmelsen i første ledd bokstav b) annen setning at så lenge tjenestepersonene opptrer i samsvar med lederens ordre, er det lederen og ikke den enkelte tjenestepersonen som har ansvaret for at våpenbruken er i samsvar med de rammene som våpeninstruksen trekker opp.
+
+Bestemmelsen i første ledd bokstav b) første setning slår fast at selve behandlingen av det aktuelle våpenet alltid vil være den enkelte tjenestepersons ansvar. Dette innebærer blant annet at behandlingen og den konkrete bruken innenfor innsatsleders ordre vil tjenestepersonen selv bære ansvar for.
+
+Selv om utgangspunktet er at tjenestepersonene under ledelse skal følge ordre, vil det forekomme situasjoner hvor de må gjøre bruk av våpenet i nødverge. Dette er nærmere regulert i første ledd bokstav b) annen setning og annet ledd. Nødverge kan utøves både for å verge tjenestepersonen selv, kolleger, ofre og uskyldige tredjepersoner.
+
+Det vil kunne oppstå situasjoner der tjenestepersoner må gjøre bruk av våpen uten å stå under noen taktisk ledelse, og beslutter å bevæpne seg selv i samsvar med § 3-3 første ledd bokstav c). Det er disse situasjoner bestemmelsen i første ledd bokstav b) siste setning tar sikte på. I disse tilfellene vil de pliktene som ellers ligger på innsatsleder, ligge på tjenestepersonen selv.
+
+Bestemmelsen i tredje ledd stiller krav om at skadevirkningene skal søkes begrenset mest mulig. Kravet innebærer først og fremst at det aktuelle maktmiddelet skal benyttes på en slik måte at skadevirkningene ikke overstiger det som er nødvendig for å oppnå formålet. Bestemmelsen er en tydeliggjøring av det som kalles «behovsprinsippet» og som rettslig er forankret i politiloven § 6 annet og fjerde ledd. I tillegg til at bestemmelsen om skadebegrensning setter krav til styrken og innretningen på bruk av maktmidlene, stiller den også krav til varigheten. I noen tilfelle må derfor polititaktiske hensyn vike dersom fortsatt bruk av maktmidlet ikke fremstår som forholdsmessig og forsvarlig.
+
+1.  **<u>Fremgangsm</u><u>å</u><u>te for bruk av v</u><u>å</u><u>pen</u>**
+
+§ 4-2. *Fremgangsmåte for bruk av våpen*
+
+\(1\) Når omstendighetene tillater det skal polititjenesteperson før det gjøres bruk av våpen
+
+<u>a) tilkjennegi at vedkommende handler i egenskap av politi,</u>
+
+<u>b) oppfordre gjerningspersonen(e) til å etterkomme gitte pålegg, og tydelig advare om at våpen vil bli brukt for å gjennomføre pålegget, og</u>
+
+<u>c) vurdere hvilke farer og ulemper våpenbruken kan utsette utenforstående for, og tydelig advare omgivelsene om at våpen vil bli brukt.</u>
+
+\(2\) Ved bruk av skytevåpen skal politiet:
+
+<u>a) hvis det er tid og taktisk forsvarlig, først avfyre varselskudd. Varselskuddet kan bare avfyres når vilkårene for rettet skudd etter § 4-3 er oppfylt, og skal rettes slik at personskade ikke oppstår,</u>
+
+<u>b) så langt det er mulig, ha slik kontroll med omgivelsene at tredjeperson ikke skades.</u>
+
+Første ledd i bestemmelsen gjelder for politiets våpenbruk generelt, dvs. også gassvåpen og sprengvåpen i tillegg til skytevåpen. Annet ledd er derimot en særregulering av de pliktene som ligger på politiet før det avfyres rettet skudd med skytevåpen.
+
+Med den innledende formuleringen «når omstendighetene tillater det» siktes blant annet til tilfeller hvor det ikke er tid til å gi aktuelle opplysninger og advarsler. Formuleringen omfatter dessuten taktiske vurderinger.
+
+Bestemmelsen i første ledd bokstav a) skal først og fremst sikre at den symbolske makten knyttet til politiets tilstedeværelse er utnyttet før sterkere maktmidler anvendes, jf. Anders Lohne Lie og Pål Lagestad: Arrestasjonsteknikk (2011). Regelen er utformet slik at det er opp til tjenestepersonenes konkrete vurdering å avgjøre om det positivt skal opplyses at det er bevæpnet politi som er kommet til stedet, eller om det er tilstrekkelig verbalt eller visuelt å vise at det er politiet som er på stedet.
+
+Bestemmelsen i første ledd bokstav b) er en konkretisering av nødvendighets- og forholdsmessighetsprinsippet, og kravet om trinnvis opptrapping av maktanvendelsen, jf. politiloven § 6. Dersom den akutte situasjonen ikke løser seg gjennom tilstedeværelse og kommunikasjon, vil ofte en advarsel være aktuell, gjerne i form av et ultimatum. Gjerningspersonen skal gjennom dette gis et valg mellom å oppgi sitt forehavende, eller utsette seg for den våpenbruken det trues med.
+
+Bestemmelsen i annet ledd gjelder som nevnt spesifikt bruk av skytevåpen. Begrepsinnholdet kan deles i to ulike typer handlinger: Å true med skytevåpen og å avfyre skudd. Vanskelige grensetilfeller knytter seg til spørsmålet om og når trusler kommer til uttrykk gjennom politiets adferd.
+
+Annet ledd bokstav a) første punktum regulerer adgangen og plikten til å avfyre varselskudd.. Å bruke skytevåpen på denne måten, i stedet for umiddelbart å avfyre rettet skudd, er det som er best i harmoni med bestemmelsen i politiloven § 6 annet ledd om trinnvis eskalering. På den annen side må det tas hensyn til at varselskudd i visse tilfeller kan provosere gjerningspersonen til å bruke skytevåpen mot politiet eller andre. Det er blant annet av denne grunn reservasjonen «hvis det er tid og taktisk forsvarlig» er tatt inn i bestemmelsen. Varselskudd kan for øvrig bare avfyres når vilkårene for rettet skudd etter § 4-3 er oppfylt, jf. annet ledd bokstav a) annet punktum, og skal rettes slik at personskade ikke oppstår. Dette synliggjør at tjenestepersonene – så lenge det er rimelig sikkerhet for at skade ikke oppstår – kan plassere varselskuddet der det ut fra hensynet til omgivelsene, egen sikkerhet og den ønskede virkningen anses mest hensiktsmessig.
+
+Annet ledd bokstav b) stiller krav om at politiet ved bruk av skytevåpen, så langt det er mulig, har slik kontroll med omgivelsene at tredjeperson ikke skades. Det vanskelige spørsmålet er i hvilke situasjoner og i hvilken utstrekning det er berettiget å gjøre unntak fra den delen av forsvarlighetsstandarden som sikringen av omgivelsene representerer.
+
+1.  **<u>Vilk</u><u>å</u><u>r for bruk av skytev</u><u>å</u><u>pen</u>**
+
+§ 4-3. *Vilkår for bruk av skytevåpen*
+
+\(1\) Skytevåpen kan bare brukes når det er absolutt nødvendig og hvor lempeligere midler forgjeves har vært forsøkt eller åpenbart ikke vil føre frem, i situasjoner hvor
+
+<u>a) tjenestepersonen selv eller andre trues med eller utsettes for en grov voldshandling eller annen grov integritetskrenkelse, og bruk av våpen fremstår som nødvendig for å hindre tap av menneskeliv eller alvorlig personskade, eller</u>
+
+<u>b) det anses påkrevd å pågripe eller stanse person som er domfelt eller med stor grad av sikkerhet mistenkes for drap, andre grove voldshandlinger eller forsøk på slike voldsforbrytelser, eller av personer som av andre grunner anses som særlig farlige for menneskers liv eller helse, Norges selvstendighet, eller som alvorlig truer grunnleggende nasjonale interesser.</u>
+
+\(2\) I situasjoner som nevnt i første ledd kan skytevåpen etter beslutning fra innsatsleder også brukes til å
+
+<u>a) beskadige eller gjøre en gjenstand ubrukelig,</u>
+
+<u>b) forstyrre eller avlede gjerningspersonen.</u>
+
+Siden skytevåpen er det sterkeste maktmidlet politiet kan anvende, følger det av bestemmelsen i politiloven § 6 at skytevåpen bare kan benyttes når andre midler på lavere nivåer i politiets maktpyramide ikke har ført frem, eller det er åpenbart at de ikke kan føre frem. Det er vanlig å tolke nødvendighetskravet i politiloven § 6 slik at det åpner for bruk av maktmidler når dette vil være til vesentlig lette i tjenesten. Det er således ikke krav om absolutt nødvendighet. Når politiet gjør bruk av potensielt dødelig makt for å løse oppdraget, er imidlertid dette et krav, og kommer i innledningen til § 4-3 klart til uttrykk gjennom bruk av formuleringen «absolutt nødvendig». Videre er det slik at politiloven § 6 annet ledd bare krever at lempeligere maktmidler «må antas» utilstrekkelige, mens våpeninstruksen, når det gjelder bruk av skytevåpen, stiller som krav at dette er «åpenbart». Dette sier noe om hvor sikker man må være på at et tilfredsstillende resultat ikke kan nås med bruk av mildere midler.
+
+Bestemmelsen i første ledd inneholder to hovedalternativer for bruk av skytevåpen. I dagligtale blir bokstav a) gjerne omtalt som «nødvergebestemmelsen» og bokstav b) som pågripelsesbestemmelsen. Andre betegnelser som brukes er «avvergende» og «rettshåndhevende» bruk av skytevåpen.
+
+Bestemmelsen i første ledd bokstav a) regulerer situasjoner hvor tjenestepersonene selv eller andre utsettes for eller umiddelbart står i fare for å bli utsatt for en grov voldshandling. I disse tilfellene er det faren og skadepotensialet trusselen eller handlingen utgjør som bestemmer retten til bruk av skytevåpen, ikke det middel gjerningspersonen gjør bruk av. Ved «alvorlighetsvurderingen» vil sentrale momenter være verdien av den interessen som angripes, skaderesultatet samt måten eller med hvilke midler handlingen utføres.
+
+Første ledd bokstav b) krever at det skal «anses påkrevd å pågripe eller stanse» en person. Kravet i våpeninstruksen 1989 § 19 annet ledd bokstav b) var at det skulle være «påkrevd med umiddelbar pågripelse». Siktemålet med den nye formuleringen har vært å åpne for pågripelser med bruk av skytevåpen også i de tilfellene hvor sannsynligheten for ny graverende og farlig kriminalitet ligger noe frem i tid, men hvor mulighetene for pågripelse på et senere tidspunkt er små. Det er imidlertid bare overfor grupperinger som står for den aller mest alvorlige kriminaliteten det vil være forholdsmessig å gjøre bruk av skytevåpen for å gjennomføre en slik pågripelse.
+
+Når begrepet «mistenkt» ble brukt i våpeninstruksen 1989, var det grunn til å forstå dette slik at det forelå en i særlig grad styrket mistanke. Dette ble tydeliggjort gjennom formuleringen «med stor grad av sikkerhet mistenkes for….» i § 4-3 første ledd bokstav b). I de aller fleste tilfellene vil en eventuell usikkerhet knytte seg til om mistanken er rettet mot riktig person, og det er først og fremst dette formuleringen om at det kreves en høy grad av sikkerhet tar sikte på. Kravet må imidlertid også gjelde i situasjoner hvor det er klart at det er riktig person som påtreffes, men usikkert hva vedkommende kan mistenkes for.
+
+I tillegg til personer som på grunn av utførte straffbare handlinger eller av andre grunner anses særlig farlig for menneskers liv eller helse, åpner første ledd bokstav b) for bruk av skytevåpen ved pågripelse av personer som er «særlig farlig for Norges selvstendighet, eller som truer grunnleggende nasjonale interesser». Innenfor dette alternativet kan det grovt sett opereres med tre grupper: Det er 1) angrep på selve staten Norge, forfatningen eller forfatningsinstitusjoner, 2) landssvik og 3)spionasjevirksomhet.
+
+Bestemmelsen i annet ledd er ny i våpeninstruksen 2015. Det bruksområdet dette alternativet sikter til, er for eksempel et behov for å gjøre et fluktmiddel ubrukbart (skyte i stykker dekk på en mulig fluktbil), mørklegge et område ved å skyte i stykker lykter eller gjøre bruk av skytevåpen for å bane adgang. En egen bestemmelse om dekningsild er tatt inn i annet ledd bokstav b).
+
+1.  **<u>V</u><u>å</u><u>penforvaltning og kontroll</u>**
+
+Politiet er samfunnets eneste legale, sivile maktapparat. Bruk av skytevåpen er den ultimate formen for maktanvendelse. I en demokratisk rettsstat som vår er det viktig med politisk kontroll av hvordan politiet gjør bruk av sine maktmidler, ikke minst våpenbruken.
+
+Bestemmelsene om forvaltning og kontroll i våpeninstruksen 1989 var til dels detaljerte og tekniske, og kunne bare endres av Justis- og beredskapsdepartementet. Våpeninstruksen 2015 har en annen innretning idet det bare er tatt inn overordnede krav til våpenforvaltningen og kontroll med våpenbruken. For øvrig er det overlatt til Politidirektoratet å gi utfyllende regler som er mer detaljerte og fleksible. Politidirektoratet ga allerede i 2010 ut det forholdsvis omfattende rundskrivet «Direktiv for forvaltning av politiet tjenestevåpen og ammunisjon». Rundskrivet ble revidert i 2013, og endelig tilpasset våpeninstruksen 2015 ved en revisjon datert 15. mars 2016 (Rundskriv 2016/004).
+
+1.  *<u>Administrative rutiner</u>*
+
+§ 5-1. *Administrative rutiner*
+
+I samsvar med retningslinjer gitt av Politidirektoratet skal politisjef sørge for at det etableres rutiner som sikrer oversikt over
+
+<u>a) beholdning og lagring av enhetens våpen og ammunisjon,</u>
+
+<u>b) vedlikehold og funksjonsdyktigheten til enhetens våpen og ammunisjon, og</u>
+
+<u>c) omfang, nivå og gyldigheten av personellets våpengodkjenning.</u>
+
+De overordnede kravene som er inntatt i selve våpeninstruksen har som formål å minimalisere risikoen for at våpen og ammunisjon kommer på avveie, og maksimere muligheten for utstyrets og personellets evne til å fylle sin rolle i en beredskaps- eller krisesituasjon.

@@ -1,1159 +1,328 @@
-# NOU 2017: 11, del 15 av 26 (side 174–185)
+# NOU 2017: 11, del 15 av 25
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2017/868f644b-nou-2017-11.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2017-11/id2553617/
 - Original-PDF: https://www.regjeringen.no/contentassets/8e638734347b4e93ab97f597a8ac0bc8/no/pdfs/nou201720170011000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 32 tabeller, 55 figurer, 209 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 174]
-
-174
-
-Kapittel 11
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
+Beredskapstroppen (BT) er politiets spesielle innsatsenhet mot terror og organisert kriminalitet og annen alvorlig kriminalitet og utgjør hoveddelen av politiets nasjonale bistandsressurser. BT kan utføre innsats og aksjonere mot alle typer landobjekt, mot skip i fart og mot offshore-installasjoner. I tillegg gir BT polititaktiske råd på alle nivåer i politiet. BT har nasjonalt ansvar og samarbeider med øvrige nasjonale bistandsressurser, politiet generelt, nødetatene og Forsvaret. Under oppdrag er BT underlagt stedlig politimester.
 
-PU har fire kjernefunksjoner: registrering, IDfastsettelse, uttransport og etterretning, kompetansedeling og bistand.
-– Registering dekker mottak og registrering av
-asylsøkere i ankomstfasen og skal sikre en
-rask og effektiv registrering av høy kvalitet.
-Funksjonen dekker også undersøkelser av
-identitet og reiserute, i tillegg til elementer
-som angår nasjonal sikkerhet, forebygging av
-kriminalitet, identifisering av sårbare grupper
-som ofre for menneskehandel og barneekteskap samt annen nøkkelinformasjon som
-påkreves i andre deler av asylkjeden.
-– ID-fastsettelse vil som regel starte samtidig med
-registering, og målet er å fastslå asylsøkerens
-identitet. Avklart ID er viktig i arbeidet med å
-ivareta samfunnssikkerhet og bekjempe kriminalitet. I tillegg er det viktig for å sikre riktig
-saksbehandling og legge til rette for enten opphold eller uttransport. Funksjonen omfatter
-også bistand til politidistriktene med identitetsundersøkelser i alle typer utlendingssaker.
-– Uttransport ivaretar uttransportering av utlendinger uten lovlig opphold i Norge, og som
-ikke reiser frivillig. Dette kan være personer
-som ikke innvilges beskyttelse, eller personer
-som er bort- eller utvist. Funksjonen dekker
-både personer som reiser uledsaget og ledsaget.
-– Etterretning, kompetansedeling og bistand
-omfatter arbeidet knyttet til ivaretakelse av
-PUs rolle som nasjonalt kompetansesenter.
-Rollen omfatter kunnskaps- og kompetansebygging på utlendingsfeltet samt formidling av
-dette til andre deler av politiet og andre aktører
-i utlendingsforvaltningen. Videre omfatter rollen generell rådgivning og støtte til politidistriktene i arbeidet på utlendingsfeltet.
+BT har også oppgaver tilknyttet innsats i forurenset område, som omfatter kjemisk, biologisk, radiologisk og kjernefysisk materiale (CBRN). I tillegg har BT internasjonale oppgaver, blant annet gjennom Atlas-samarbeidet, som er et EU-finansiert nettverk for spesialpolitienheter fra hele Europa.
 
-11.2.1 Ressurser
-Utlendingsfeltet har de siste årene fått stor politisk oppmerksomhet, og PU har fått øremerkede
-bevilgninger for å håndtere asyltilstrømningen.
-De siste fem årene er antall ansatte mer enn fordoblet, og på det meste hadde PU nær tusen ansatte,
-medregnet midlertidige stillinger og engasjementer.
-Per 1. januar 2017 hadde PU rundt 850 ansatte,
-hvorav ca. 310 er operativt godkjente mannskaper.
-PUs innsatspersonell er i all hovedsak i funksjoner
-knyttet til PUs operative virksomhet. Av PUs politiansatte ble hele 129 uteksaminert fra Politihøgskolen i 2014 eller 2015.
-Tabell 11.1 viser antall fast ansatte i PU i perioden 2012–2016 (midlertidige stillinger er unntatt).
-Figur 11.5 viser budsjettutvikling i perioden
-2012–2016 sammenholdt med utvikling i antall
-fast ansatte (pr. 31.12. angjeldende år).
-Budsjettallene omfatter tilleggsbevilgninger
-på 113,9 millioner kroner i 2015 og 246 millioner
-kroner i 2016 (post 01 og 21). Tallene omfatter
-også en tilleggsbevilgning på 19,7 millioner kroner gjennom revidert nasjonalbudsjett (RNB) i
-2014. Overføringer fra tidligere år er holdt utenfor. Overføringene utgjorde i 2014 18,3 millioner
-kroner overført fra foregående år, mens i 2015 og
-2016 ble det overført henholdsvis 18,8 og 43,4 millioner kroner fra foregående år.
-Utviklingen viser jevnt sammenfall mellom
-budsjettutvikling og antall ansatte de siste årene.
-En stor andel av budsjettøkningene, herunder tilleggsbevilgninger, er relatert til utvidelse av utlendingsinternatet og opprettelse av utreisesenteret
-på Oslo lufthavn.
+1.  **<u>Beredskapstroppens historie</u>**
 
-Funksjonene angitt som direktestøtte i figur 11.4 er
-i dagens modell organisatoriske forutsetninger for
-PUs kjernevirksomhet.
+Beredskapstroppen («Delta») ble opprettet i 1975 og avløste «Østlandstroppen» med det formål å styrke operativ beredskap over hele landet, og ble etablert under Oslo politikammer i januar 1976. Bakgrunnen for opprettelsen var en kriminalitetsutvikling i Norge og Europa på 1970-tallet preget av ungdomsopptøyer, flykapringer og gisseltakinger.
 
-11.2.2 Registrering
-Alle som søker om beskyttelse i Norge, skal registrere søknaden sin hos PU, både de som møter
+Den organisatoriske plasseringen under Oslo politidistrikt er historisk begrunnet med at behovet for slike beredskapsressurser er størst i hovedstadsområdet («største bruker-prinsipp»), og at Oslo politidistrikt var ansett som robust nok til å bygge opp en slik nasjonal enhet. Fortsatt er Oslo politidistrikt største bruker av tjenestene; årlig er nesten to tredjedeler av årlige bistandsoppdrag innenfor Oslo politidistrikt.
 
-Tabell 11.1 Antall fast ansatte PU i perioden 2012–2016.
-År/periode
+I 2016 hadde Beredskapstroppen 82 bistandsoppdrag i Oslo politidistrikt og 61 i landet for øvrig. I 2015 hadde Beredskapstroppen 94 bistandsoppdrag i Oslo politidistrikt og 43 i landet for øvrig, mens i 2014 var oppdragene fordelt på 88 i Oslo politidistrikt og 51 i landet for øvrig, ifølge Beredskapstroppens egne tall.
 
-Antall fast ansatte den 31. 12. Antall fast ansatte den 01.01.
+**<u>\[Boks slutt\]</u>**
 
-Gjennomsnittsbemanning
+Beredskapstroppen ble opprettet i 1975 og har vært operativ siden 1976. Frem til innføringen av politiets beredskapssystem (PBS) ble Beredskapstroppen styrt gjennom rundskriv fra Justisdepartementet. Politihøgskolen har administrativt ansvar for rekruttering og utdanning av nye tjenestepersoner til Beredskapstroppen, gjennom et studium på 30 studiepoeng, mens politimesteren i Oslo er ansvarlig for budsjett og styring.
 
-2012
+BT har over hundre stillingshjemler og ledes av en politiinspektør og en nestkommanderende (politioverbetjent). Polititjenestemenn i BT er spesielt rekruttert og selektert fra hele landet.
 
-395
+Gjennom tilknytning til OPD inngår BT i daglig tjeneste, men personellet er pålagt trening 50 prosent av tjenestetiden eller rundt 900 timer årlig. Utdanningen er regulert gjennom et fast årsprogram som er nødvendig for å opprettholde sertifiseringskrav innenfor ulike fagdisipliner.
 
-361
+Ifølge Beredskapstroppens egne tall er over halvparten av årlige bistandsoppdrag innenfor Oslo politidistrikt.
 
-378
+1.  **<u>Krise- og gisselforhandlere</u>**
 
-2013
+Krise- og gisselforhandletjenesten (KGF) er politiets spesielle kompetanse ved forhandlinger i terror-, gissel-, og kidnappingssituasjoner.[^371] KGF er fra januar 2016 blitt et eget avsnitt og ledes av en politioverbetjent med samtlige forhandlere i fulltidsfunksjon. Enheten trener 15–30 prosent av tjenestetiden eller rundt 450 timer årlig. Rekruttering skjer gjennom spesiell selekteringsprosess blant ansatte i OPD. KGF utdanner også polititjenestepersoner i utvalgte politidistrikt, men er ikke underlagt samme godkjenningsregime og treningsfrekvens som krise- og gisselforhandlere ved Oslo politidistrikt.
 
-438
+1.  **<u>Politiets helikoptertjeneste</u>**
 
-395
+Politiets helikoptertjeneste (HT) har som hovedoppgave å gi politiet luftstøtte under ulike typer oppdrag, i all hovedsak som observasjonsplattform.
 
-416,5
+HT ble etablert som en prøveordning i perioden 1997–1999, men ble først i 2003 etablert som en egen tjeneste og et eget avsnitt ved Spesialseksjonen i Oslo politidistrikt. HT har som hovedoppgave å støtte politiet fra luften under forskjellige typer oppdrag. Helikoptertjenesten har et personell på 27 tjenestemenn, hvorav 24 er flyoperative, og ledes av en politioverbetjent.
 
-2014
+Heliktoptertjenesten disponerte ved utgangen av 2016 to politihelikoptre, men regjeringen har besluttet utskifting med to nye helikoptre som kan stå klar i 2019.[^372] De operasjonelle kravene er nedfelt i PBS og tilsier blant annet at helikoptertjenesten skal være utrykningsklar fra helikopterbasen på 15 minutter.
 
-544
+Tjenestepersoner ved HT er spesielt rekruttert og selektert for å utføre komplekse politioperasjoner i luftfartøy, men det er ikke krav til politifaglig grunnutdanning for pilotene. Det er i dag fem politiutdannede og fire sivilt utdannede piloter. De sivile pilotene er tildelt begrenset politimyndighet.
 
-438
+Helikoptertjenestens øvrige mannskap må ha politiutdanning. Det stilles krav om minst 200–250 flytimer årlig for å opprettholde flyoperativ status.
 
-491
+Hovedtyngden av oppdragene er i Oslo og det sentrale Østlandsområdet.
 
-2015
+1.  **<u>Bombetjenesten</u>**
 
-594
+Bombetjenesten (BG) har som hovedoppgave å bistå politiet med særskilt kompetanse på terror, alvorlig kriminalitet og forebyggende tiltak. En stor del av oppdragene omfatter rådgivning på alle nivå i politiet.
 
-544
+Bombetjenesten ble opprettet i 1978 som Eksplosiv søk- og ryddegruppe (ESR). Fra 2015 ble Bombetjenesten organisert som eget avsnitt under spesialseksjonen, nå nasjonale bistandsressurser. BG ledes av en politioverbetjent og består av bombeteknikere med og uten bombehund samt operatører under utdanning. Operatører blir rekruttert og selektert blant erfarne tjenestepersoner fra alle politidistrikt. Hovedoppgaven er å bistå politiet i politioppgaver knyttet til kriminalitet innen fagfeltet eksplosiver og CBRN (*chemical, biological, radioactive or nuclear weapons*). Dette omfatter blant annet trusselvurdering, rådgivning, bombesøk, identifisering, klarering og fjerning av eksplosiver (IEDD) samt deteksjon av CBRN. Bombetjenesten har landsdekkende bistandsansvar og skal trene på primærfunksjonen 50 prosent av arbeidstiden i tillegg til å være i beredskap og utrykningsklar innen to timer.
 
-569
+1.  **<u>Den kongelige politieskorte</u>**
 
-2016
+Den Kongelige Politieskorte (DKP) ble opprettet i 1945 og har nasjonale bistandsoppgaver som livvakttjeneste for kongefamilien. DKP utfører landsdekkende livvakttjeneste for Hans Majestet Kongen og øvrige medlemmer av kongefamilien, utenlandske statsoverhoder ved statsbesøk i Norge samt andre nasjoners kongelige, medlemmer av kongehus, fyrstedømmer og lignende ved besøk i Norge på offisielle og private reiser, også der kongefamilien selv ikke er vertskap. Øvrig livvakttjeneste for offentlige myndighetspersoner ivaretas av Politiets sikkerhetstjeneste (PST). DKP dekker døgnkontinuerlig livvaktbeskyttelse og ledes av en politiinspektør. DKP rekrutterer livvakter gjennom grunnutdanning ved Politihøgskolen. Tjenestegjørende i DKP trener rundt 200 timer årlig.
 
-868
+1.  **<u>Teknisk og taktisk spaning og Undercoverenheten</u>**
 
-594
+Teknisk og taktisk spaning (TTS) og Undercoverenheten (UC) har nasjonalt bistandsansvar og er begge organisert under avdelingen Felles enhet for etterretning og etterforskning (FEE), der TTS er organisert som egen seksjon, mens UC er organisert som et avsnitt under seksjonen Skjult etterforskning.
 
-731
+TTS forvalter den ulovfestede metoden taktisk spaning og de lovregulerte metodene hemmelig ransaking, romavlytting, teknisk sporing, skjult videoovervåkning og identifisering av kommunikasjonsanlegg (IMSI). UC gjennomfører undercoveroperasjoner nasjonalt og internasjonalt etter instruksverk forankret hos Riksadvokaten.
 
-Kilde: PU
+Både TTS og UC iverksetter hver for seg sine oppdrag etter behov ved egen avdeling (FEE) eller ved bistandsanmodning fra andre avdelinger i eget politidistrikt, andre politidistrikt, særorgan, Tollvesenet og utenlandske politimyndigheter i saker med internasjonale forgreininger. Dette innebærer bistand med bruk av ulike skjulte etterforskningsmetoder benyttet proaktivt og reaktivt i bekjempelse av terror samt organisert og annen alvorlig kriminalitet.
 
-[Side 175]
+I motsetning til øvrige nasjonale beredskapsressurser blir bistand fra UC og TTS belastet anmodende distrikt.
 
-175
+1.  **<u>N</u><u>æ</u><u>rmere om behovet for politiets nasjonale beredskap</u>**
 
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
+Regjeringens mål om å sikre befolkningens trygghet i hverdagen innebærer evne til å forebygge, forhindre og håndtere uønskede hendelser, og at samfunnets grunnleggende funksjonsevne blir gjenopprettet dersom slike hendelser inntreffer. Foruten en styrket beredskap omfatter dette politiets evne til å
 
-Kapittel 11
+- <u>redusere risiko, forebygge, og om mulig forhindre, uønskede hendelser som kan true liv, helse, viktige verdier, myndighetsfunksjoner og andre samfunnsfunksjoner</u>
 
-1 200
-1060
-1 000
-859,9
-800
-707,7
-600
-490
-
-505
-
-400
-
-200
-
-0
-2012
-
-2013
-
-2014
-Ansatte (ant.)
-
-2015
-
-2016
-
-Budsjett (mill.NOK)
-
-Figur 11.5 Budsjettutvikling sammenholdt med antall ansatte 2012–2016
-Kilde: PU
-
-direkte hos PU, og de som først møter i politidistriktene og derfra overføres til PU for endelig
-registrering.17 Som hovedregel registreres asylsøker i PUs lokaler i Oslo eller på Ankomstsenteret
-på Råde, men registreringen kan også gjennomføres andre steder eller ved hjelp av lyd- og bildeoverføring dersom dette er mest hensiktsmessig.
-Materiale som sikres i registreringsfasen, kan
-være egnet som grunnlag for straffesak. I denne
-fasen samarbeider PU også med PST, lokalt politidistrikt eller Kripos, avhengig av sakens art. I tillegg er det et samarbeid mellom PU og PST, særlig i forbindelse med bekymringsfulle funn og
-observasjoner gjort i registreringsfasen mv.
-Gjennom territorialkontroller avdekker PU
-personer som kan knyttes til terrorisme, overgrep
-og krigsforbrytelser. PST mener at det er mulig å
-trene sivile til å gjøre denne jobben, men mener
-politiblikket kan være en avgjørende faktor, særlig
-for å identifisere personer som trenger særskilt
-oppfølging innenfor nevnte kriminalitetsformer.
-PST mener at det er sterke faglige argumenter for
-at registrering av asylsøkere med tilhørende støttefunksjoner bør ligge sentralt – og fortrinnsvis
-hos PU.
-Enkelte politiledere legger til at «politiblikket»
-er vanskelig å definere, og mener registrering av
-asylsøkere i stor grad kan gjøres like effektivt av
-sivilt ansatte med annen kompetanse, som landkunnskap, språk- og kulturkjennskap. Det inn17
-
-PODs rundskriv RS 2012/005.
-
-rømmes imidlertid at det i enkelttilfeller nok vil
-være behov for bruk av tvangsmidler i forbindelse
-med undersøkelse og ransaking, og at begrenset
-politimyndighet i slike tilfeller vil være nødvendig.
-Noen politiledere understreker betydningen
-av at en asylsøker møter politiet i sitt første møte
-med det norske samfunnet. Asylsøkere som kanskje har negative erfaringer med politiet fra eget
-hjemland, kan da møte det norske samfunnet for
-første gang gjennom et møte med det sivile norske politiet. Politiblikket kan slik virke tillitsbyggende og bidra til starten på de samlede integreringstiltak, under forutsetning av at oppholdstillatelse blir gitt.
-
-11.2.3 Påtale
-PU har i dag ikke en egen påtalefunksjon, men
-har uttrykt ønske om dette. PU viser til at utført
-arbeid innenfor utlendingslovens hjemler (utlendingsforvaltningen) genererer strafferettslig overskuddsinformasjon, som i dag blir overført til politidistriktene for videre etterforsknings- og påtalemessige vurderinger. Ettersom politidistriktene
-ofte ikke har kapasitet til å følge opp PUs anmeldelser, mener PU det er nødvendig med ansvar for
-egen etterforskning og straffeforfølgning knyttet
-til arbeidet med utlendingssaker. PU mener dessuten at egen påtalemyndighet kunne medført mer
-effektiv etterforskning og straffeforfølgning.
-Selv om PU har tilgjengelige metoder i forvaltningssporet, mener PU det ofte foreligger et
-
-[Side 176]
-
-176
-
-Kapittel 11
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-behov for å kunne anvende straffsakssporet, herunder å kunne veksle mellom de to sporene. Dette
-gjelder på alle stadier av utlendingssaken, fra søknadsfremsettelse og frem til utreisetidspunktet.
-Etter PUs syn vil blant annet påtalekompetanse
-kunne være et godt virkemiddel i arbeidet med å
-få flere utlendinger til å dokumentere sin rette
-identitet allerede når de ankommer og søker asyl.
-Etter PUs mening vil det være mer effektivt
-med ansvar for hele verdikjeden. PU ønsker primært en påtalekompetanse på lik linje med Kripos
-og PST, gjennom NAST (Nasjonalt statsadvokatembete). En slik kompetanseoverføring medfører en lovendring, der sjefen for PU må inntas i
-opplistingen av påtalemyndighetens tjenestepersoner i straffeprosessloven § 55 og mandatet for
-PU utvides.
-Dette spørsmålet var til vurdering hos Riksadvokaten i 2016, som konkluderte med at PU ikke
-bør ha påtalefunksjon. Begrunnelsen var knyttet
-til at det fremsto som prinsipielt og rettslig uheldig å knytte saksbehandling i forvaltnings- og
-straffesakssporet for tett sammen. Riksadvokaten
-mente at en slik sammenblanding kan skape
-uklarhet om ansvarsforholdene, blant annet om
-hvem som har instruksjonsmyndighet, eller hvem
-som er rett klageorgan.18
-
-11.2.4 Avklaring av identitet
-Betydningen av identitetsarbeidet gjør seg gjeldende på flere områder. PU har ansvar for å
-avklare identiteten til alle som søker asyl i Norge,
-og bistår med å avklare identiteten til utlendinger
-med ulovlig opphold som skal uttransporteres. De
-har dermed spisskompetanse innenfor identitetsarbeid.
-PUs arbeid med ID-fastsettelse er sentralt for
-politiets arbeid og legger til rette for at retur eller
-opphold skjer på riktig grunnlag. Identitetsarbeid
-og retur henger tett sammen, idet avklart identitet
-er en forutsetning for retur. En effektiv avklaring
-av identitet korter ned saksbehandlingstiden i
-utlendingsforvaltningen og medfører at myndighetene unngår å måtte tilbakekalle tillatelser på
-grunn av uriktig oppgitt identitet. (Se boks 11.4).
-Det å oppholde seg ulovlig i Norge medfører
-brudd på så vel norsk utlendingslov som andre
-lover og regler. Videre har ID-arbeidet en kriminalitetsforebyggende effekt, ved at det bidrar til rask
-uttransport av straffede og andre med ulovlig opphold i Norge.
-18
-
-Møte med Riksadvokaten 16. mars 2017.
-
-Boks 11.4 Hvordan foretar PU IDavklaring?
-ID-arbeidet starter allerede ved PUs registrering av en asylsøker og kan pågå parallelt gjennom hele saksløpet frem til et eventuelt avslag
-og påfølgende uttransport. PU har en helhetlig og bred tilnærming til ID-arbeidet og kan
-benytte en rekke ulike metoder. Metodene tilpasses etter søkerens hjemland, foreliggende
-ID-bevis og hvor saken står i asylsakskjeden.
-Blant de vanligste er registersøk, språktest,
-tekniske/elektroniske spor, tvangsmidler
-(ransaking, undersøkelse av bopel, fengsling),
-samarbeid med hjemlandets myndigheter om
-verifisering og tilbaketakelse, dokumentundersøkelse og spaning/etterretning. Videre
-registrerer PU eventuell tvil om alder for enslige mindreårige asylsøkere der det kan være
-behov for aldersundersøkelse for å avdekke
-korrekt alder. Eventuelle videre undersøkelser iverksettes i regi av UDI. Typiske avslagssaker med gode muligheter for retur til hjemland er bestandig prioritert for rask ID-avklaring. PU benytter seg også av ID-samtaler
-med innsatte på utlendingsinternatet, i fengsler eller på mottak. Saksbehandlere fra PU deltar også i europeisk samarbeid om verifiseringsmuligheter og ID-arbeid opp mot tredjeland.
-Når det foreligger et endelig avslag i asylsaken, og personen ikke har overholdt utreisefristen ved å forlate landet på eget initiativ,
-overføres saksansvaret fra UD/UNE til PU for
-iverksettelse av retur til hjemlandet. PU vil da
-undersøke om det er behov for ytterligere IDavklaring for å få gjennomført uttransport.
-Oppsummert vil PU kunne ha grunnlag for
-å kunne fastslå den enkeltes rette identitet
-gjennom informasjon fra asylregistreringen,
-foreliggende dokumenter, opplysninger i politiets og andre registre, ID-etterforskning og
-verifiseringsarbeid opp mot blant annet hjemlandets myndigheter.
-
-Politiets arbeid med identitetsavklaring har
-samfunnsmessig betydning. Bruk av falsk identitet er i seg selv en kriminell handling. ID-misbruk
-er ifølge politiet ofte tilknyttet annen form for kriminalitet, og det er antydet store mørketall relatert til ID-misbruk. Ved å oppholde seg ulovlig i
-landet er den enkelte i større grad tvunget til kri-
-
-[Side 177]
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-minell aktivitet, i form av svart arbeid, misbruk av
-velferdsgoder og annen kriminell virksomhet. De
-som bor utenfor mottak er særskilt representert
-her, og de er også ekstra sårbare for utnytting og
-kan bli utsatt som ofre for kriminalitet.
-Politiske myndigheter har på bakgrunn av
-dette uttrykt at det skal satses mer på ID-avklaring i politiet. I Prop. 1 S (2016–2017) (statsbudsjettet) fremgår det:
-«Det er viktig at norske myndigheter kjenner
-identiteten til utlendinger som søker om
-beskyttelse i Norge. Avklart identitet gir en
-mer effektiv og sikker saksbehandling i UDI
-og UNE, og muliggjør flere returer. Samtidig er
-ID-avklaring sentralt for politiets arbeid med å
-kontrollere at personer som oppholder seg i
-landet har tillatelse til å være her. I tillegg er det
-ut fra et samfunnssikkerhetsperspektiv viktig
-at myndighetene vet hvem som befinner seg i
-landet.»
-Viktigheten av rask ID-avklaring for de som kommer til landet understrekes av at Utlendingsdirektoratet opplyser at per april 2017 vet ikke myndighetene hvor 4446 personer med avslag på sin søknad om opphold befinner seg.19
-PST har på flere områder et omfattende og
-godt samarbeid med PU, og særlig innenfor asylregistrering og kontroll er PST avhengig av et velfungerende PU.
-
-11.2.5 Drift av Politiets utlendingsinternat på
-Trandum
-Politiets utlendingsinternat på Trandum blir brukt
-for å sikre gjennomføring av tvangsreturer i saker
-med stor rømningsfare. Fengsling skjer etter
-utlendingsloven. Også personer som ikke samarbeider med norske myndigheter om egen identitetsavklaring, kan bli fengslet på utlendingsinternatet.
-Politiets utlendingsinternat ble etablert i
-200420 og er etter utvidelser de senere år den
-tredje største institusjonen i landet for gjennomføring av frihetsberøvelse, med totalt 220 plasser.
-Internatet er i hovedsak innrettet mot enslige
-menn, men det er også egne plasser tilrettelagt for
-enslige mindreårige, kvinner og familier. Utlendingsinternatet er et element i returarbeidet.
-19
-
-Dagbladet (2017). «UDI: Vet ikke hvor 4446 personer som
-ikke skal være i Norge befinner seg». 23. april 2017.
-20
-http://www.statsbygg.no/Files/publikasjoner/ferdigmeldinger/710_trandum.pdf.
-
-177
-
-Kapittel 11
-
-Boks 11.5 Hva er uttransportering?
-PU har etter oppdrag fra POD utarbeidet en
-egen uttransporteringsinstruks som gjelder
-for hele politiet. Uttransporteringsansvar er i
-uttransporteringsinstruksen
-definert
-å
-omfatte personer hvor oppholdstillatelsen er
-utløpt, bort- og utviste, og personer som ikke
-har reist frivillig fra riket etter endelig negativt
-vedtak om asyl/opphold. Utlendinger som
-ikke har lovlig opphold i Norge, har utreiseplikt og skal forlate landet. For at utlendinger
-skal kunne returneres, må en rekke forutsetninger være til stede. Hvis returforutsetningene ikke er til stede, kan utlendingen ikke
-returneres. Sakstyper innen uttransportering
-er assistert retur og tvangsretur, herunder
-retur etter Dublin-konvensjonen og bort- og
-utvisningsvedtak av personer uten lovlig opphold.
-
-I returoperasjoner, hvor det planlegges bruk
-av egne chartrede fly, er tilgjengelige fengslingsplasser i umiddelbar nærhet av Oslo lufthavn
-ansett å være en viktig faktor for effektiv planlegging og gjennomføring av operasjonen.
-Utlendingsinternatet må ses i sammenheng
-med Utreisesenteret på Oslo lufthavn, som ble
-etablert som en organisatorisk enhet i PU i 2014.
-Utreisesenteret brukes i forkant av en retur og
-bidrar til økt effektivitet, informasjonsflyt og sikkerhet. Mottak av Dublin-returer til Norge håndteres også av denne enheten. Senterets aktiviteter
-har i stor grad bidratt til å avlaste PU internt, men
-avlaster også politidistriktene med oppgaver som
-henting i fengsel og utreisekontroller. Bemanningen er i hovedsak sivilt personell tildelt begrenset
-politimyndighet.
-
-11.2.6 Uttransportering
-PU oppretter i hovedsak bort- og utvisningssaker
-på bakgrunn av brudd på utlendingsloven, men
-også på bakgrunn av straffbare forhold begått i
-Norge eller i utlandet. PU koordinerer alle
-uttransporter i bort- og utvisningssaker, både fra
-politidistriktene og de sakene de genererer selv, i
-tillegg til å iverksette soningsoverføringsvedtak.
-(Se boks 11.5 og 11.6).
-
-[Side 178]
-
-178
-
-Kapittel 11
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-11.2.7 Kompetanse
-PU er politiets nasjonale kompetansesenter på
-asyl- og utlendingsfeltet i politiet og har overlappende interesser med politidistriktenes oppgaveløsning innenfor utlendingsforvaltningen.
-PU har inndelt sine kompetansenivåer i henholdsvis basiskompetanse, faglig kjernekompetanse
-(generalister), faglig spesialistkompetanse (spesialister) og ledelse.
-Basiskompetanse defineres av PU som grunnleggende kompetanse som vanligvis er anvendelig
-på tvers av en rekke stillinger, oppgaver og funksjoner. PUs basiskompetanse er dels grunnleggende kompetanse virksomheten har et særlig
-behov for – kompetanse om utlendingsfeltet, politifaglig kompetanse og kompetanse innenfor
-internasjonalt samarbeid, språk og kultur. Basiskompetansen kan sies å ligge til grunn for utviklingen av de øvrige kompetanseområdene, og for
-den kompetanseutviklingen som gjennomføres i
-PU.
-Flertallet av PU saksbehandlere er generalister innenfor PUs kjerneoppgaver. Generalister må
-ha tilstrekkelig høy faglig kompetanse for å opprettholde den kvalitet og den standard som er
-nødvendig for arbeidet og beskrevet i gjeldende
-instrukser og rutiner.
-Med faglig kjernekompetanse menes den samlede faglige spisskompetansen i PU. Slik kompetanse er avgjørende for virksomhetens måloppnå-
-
-Boks 11.6 Ulike former for retur
-Assistert retur: Personen uten lovlig opphold
-bestemmer seg selv for å reise. UDI saksbehandler og finansierer returen. Det er ulike
-støtteordninger og returprogrammer for personer som velger å reise hjem frivillig.
-Ledsaget assistert retur: Personen uten lovlig opphold bestemmer seg selv for å reise,
-men kan ikke reise med UDIs program av
-helse- og sikkerhetsmessige grunner, på
-grunn av mangel på returprogram til aktuelt
-hjemland eller som følge av andre forhold som
-tilsier at politiet må ledsage personen.
-Tvangsretur eller tvangsmessig uttransport:
-Personen uten lovlig opphold nekter å reise
-frivillig, så politiet må pågripe og uttransportere personen mot vedkommendes ønske.
-Han eller hun er også ansvarlig for kostnadene knyttet til tvangsreturen.
-
-else. For PU omfatter dette samlet kompetanse
-innenfor utlendingsfeltet, herunder kompetanse
-vedrørende rettsområde, metodebruk, registrering, identifisering og uttransportering. Kunnskap
-om geografi, land, religion, internasjonalt samarbeid, språk og kultur er likeledes en kjernekompetanse i alle PUs hovedprosesser. I tillegg kan
-nevnes IKT-kompetanse, herunder IKT-utvikling.
-Spesialistene skal bidra til å sikre og videreutvikle faglige kjerneområder og har et faglig veilednings-, opplærings-, oppfølgings- og kvalitetssikringsansvar innenfor eget fagområde. Spesialiststillinger er også et karrieremessig alternativ
-til lederstillinger.
-Fagmiljøer og basiskompetanse bygger på
-kjerneoppgavene registrering, ID-avklaring og
-uttransport, og med drift av utlendingsinternatet
-og utreisesenteret som viktige komponenter i en
-effektiv verdikjede. Spesialisering knytter seg til
-de ulike oppgaver og trinn som ligger til fag- og
-metodebruk på asyl- og utlendingsfeltet. PUs fagavdelinger besitter totalt en kompetanse innenfor
-til dels svært ulike områder, der noe relaterer seg
-til oppgaver som PU alene forvalter i norsk politi,
-mens annen kompetanse er av mer generell art
-for politiet og tilpasset med bakgrunn i de oppgaver PUs mandat omfatter.
-PU har også en juridisk avdeling med ansvar
-for legalitetskontroll og beslutninger om bruk av
-tvangsmidler, herunder pågripelser og fengsling.
-Juridisk avdeling har gjennomsnittlig ca. 900 nye
-fengslingssaker i året og ca. 350 refengslinger.
-Gjennom det juridiske arbeidet har PU bygget
-opp kompetanse som gjør PU til en viktig premissleverandør for regelverksutviklingen på feltet
-samt at avdelingen bistår distriktene ved forespørsel om juridiske problemstillinger knyttet til
-utlendingsfeltet. Juridisk avdeling i PU jobber
-direkte med hele sakskjeden, fra ankomst/registrering til uttransporter, hvor også oppholdet på
-Trandum inngår.
-
-11.2.8 Etterretning og analyse
-Koblingen av utlendingsarbeidet mot politiets
-etterretning er et viktig tiltak. PU benytter Etterretningsdoktrinen i politiet som beslutningsstøtte
-for kjerneoppgavene ved registrering, i ID-arbeidet og ved uttransport. Taktisk og strategisk etterretning sikrer faglige forankrede beslutninger og
-en formålsstyrt virksomhet. Dette gir økt effektivitet, samfunnssikkerhet, kriminalitetsbekjempelse og god ID-fastsettelse. Tilgang til politiets
-registre og politiets metoder er av stor betydning
-for å få full effekt av etterretningsarbeidet. Solid
-
-[Side 179]
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-etterretning på utlendingsfeltet vil etter PUs
-mening være nyttig for andre deler av politiet og
-øvrige etater i utlendingsforvaltningen samt som
-styringsinformasjon for departementet og politiske myndigheter. Som tidligere nevnt oppgir
-PST å ha stor nytte av PUs etterretningsopplysninger, som de bidrar med.
-
-11.2.9 Nasjonalt kontaktpunkt
-PU deltar i flere internasjonale fora og er innenfor
-sitt fagfelt ansvarlig for spesialutsendinger ved
-norske ambassader i ulike land. PU deler mye
-informasjon med andre land i Europa og resten av
-verden gjennom deltakelse i eller kontakt med
-eksempelvis Europol, Interpol, Frontex, Intergovernmental Cosultations (IGC), International Air
-Transport Association (IATA) og European
-Migration Network (EMN).21 PU mottar også
-informasjon gjennom disse nettverkene, som
-både inngår i operative tiltak og i arbeid med strategiske analyser.
-Internasjonalt samarbeid er også med på å
-danne gode kulturer for erfaringsutvekslinger.
-Dette gjelder særlig ved retur av personer uten
-lovlig opphold i Norge eller Europa. Det internasjonale samarbeidet bidrar til å bygge en felles
-internasjonal plattform for gjennomføring av
-tvangsreturer. De grunnleggende prinsippene
-som er vokt frem i det internasjonale samarbeidet
-er kostnadseffektivitet, god sikkerhet, humanitære rammer og at arbeidet gjennomføres innenfor inngåtte avtaler.
-For å kunne påvirke og utvikle dette arbeidet
-også internasjonalt er det viktig at Norge deltar
-med personer med politifaglig kunnskap innenfor
-dette feltet. PU mener at et internasjonalt samarbeid fordrer et nasjonalt kontaktpunkt med operativ erfaring, en rolle PU fyller i dag. Et internasjonalt kontaktpunkt ivaretar kompetanse på ulike
-internasjonale avtaler, utleveringsavtaler, landinformasjon, førstehåndskunnskap til samfunnsendringer som fører til endringer i uttransporteringsrutinger mv. I tillegg har PU et godt samarbeid med utsendingene fra Politi- og tollsamarbeidet i Norden (PTN), der Kripos er ansvarlig.
-PU er også nasjonalt kontaktpunkt for Europol, Focal Point Checkpoint, som arbeider med
-bekjempelse av menneskesmugling og har fått
-utvidet ansvar som EMPACT-koordinator (European multidisciplinary platform against criminal
-threats) innen området menneskesmugling og
-ulovlig innvandring. Dette er for øvrig det eneste
-21
-
-PUs høringssvar til NOU 2013: 9, datert 9.9.2013.
-
-179
-
-Kapittel 11
-
-feltet hvor Kripos, som ellers har det generelle
-ansvaret som kontaktpunkt mot Europol, har
-overført ansvaret til annen politimyndighet.
-
-11.3 PUs oppgaveløsning
-Vurdering av PUs oppgaveløsning innebærer også
-spørsmål om effektiv og riktig bruk av politikompetanse. PUs oppgavespenn har et forvaltningsmessig preg, men det er også et innslag av politioperative oppgaver, selv om PU i likhet med UP
-verken har etterforsknings- eller påtalemyndighet.
-
-11.3.1 Resultatutvikling
-Saksbehandlingstid og oppklaringsprosent er sentrale parametre for politiets måloppnåelse. PU har
-gjennom disponeringsskriv for 2017 følgende
-effektmål:
-– effektiv registrering
-– effektiv avklaring av identitet
-– effektiv uttransport
-– å styrke kompetanse- og kunnskapsgrunnlag
-– yte bistand til politidistriktene
-Disse målene var inntil 2014 også supplert med
-ytterligere hovedmål knyttet til blant annet forebygging og bekjemping av kriminalitet innenfor
-PUs ansvarsområde.
-Innenfor hvert av effektmålene har PU tidligere vært gitt mer detaljerte krav. For inneværende år er det kun stilt detaljkrav til uttransportering av 9000 personer med ulovlig opphold i
-landet. Tidligere har det blant annet også vært
-spesifisert:
-– måltall for uttransportering av straffedømte
-personer
-– detaljkrav for ulike saksbehandlingstyper
-– krav til hurtigbehandling av asylregistreringer
-(95 prosent innen 24 timer)
-– frigjøring av politikraft gjennom større bruk av
-sivile stillinger
-– måltall for kapasitetsøkning ved Politiets utlendingsinternat
-– måltall for nedgang i sykefravær
-PUs virksomhet har siden oppstarten vært preget
-av store svingninger i ankomsttallene og en
-økning i antall returer, slik figur 11.6 viser.
-Dette har skapt uforutsigbarhet for både organisering og driftsoppgaver. Antall asylsøkere har i
-løpet av de siste to årene endret seg vesentlig, fra
-ca. 31 000 søkere i 2015 til ca. 3500 søkere i 2016. I
-
-[Side 180]
-
-180
-
-NOU 2017: 11
-
-Kapittel 11
-
-Bedre bistand. Bedre beredskap
-
-35000
-
-31150
-
-30000
-25000
-20000
-11480
-
-15000
-
-11983
-9785
-
-10000
-4902
-
-7884
-
-7259
-
-5976
-
-8094
-3460
-
-5000
-0
-2012
-
-2013
-
-2014
-Asylsøkere
-
-2015
-
-2016
-
-Uttransporter
-
-Figur 11.6 Antall registrerte asylsøkere og uttransporter 2012–2016
-Kilde: PU og UDI
-
-2015 fikk PU tildelt ekstra midler for å takle
-migrasjonsbølgen, utvide utlendingsinternatet og
-opprette utreisesenteret.22
-
-11.3.2 Registrering
-Det er krevende å beregne forventet antall asylsøkere. Ved inngangen av 2015 var PU dimensjonert
-for et ankomstbilde på rundt 11 000 asylsøkere,
-mens det totale antall ferdigstilte registreringer
-endte opp på rundt 17 000.23 Innledende registrering ble av sikkerhetsårsaker gjort av samtlige
-nyankomne asylsøkere i 2015. Dette innebar at
-alle asylsøkerne ble registrert, og at det ble sikret
-foto og fingeravtrykk, gjennomgått ID-dokumenter og søkt i ulike systemer – viktige steg i ID-fastsettelsen. For de sakene hvor det var foretatt en
-innledende registrering, ble det gjennomført en
-fullverdig registrering i løpet av 2016.
-Flere politiledere fremhever det som en styrke
-at politiet registrerer asylsøkere, fordi dette gir tilgang på nødvendige virkemidler for å screene
-søkerne. Formålet er å avdekke modus, kriminelle handlinger i hjemlandet eller i andre land og
-avdekke uriktig identitet, gjennom opptak av fingeravtrykk, tømming av telefoner/PC-er, søk på
-åpne kilder (Open-source intelligence) og doku22
-23
-
-Prop. 1 S Tillegg 1 (2015–2016) Proposisjon til Stortinget.
-PU (2016) Høsten 2015 – et forstørrelsesglass over generelle
-trender i PU?
-
-mentgransking. Under asylregistreringsprosessen kan PU avdekke kriminalitetstyper som menneskehandel og menneskesmugling samt om det
-foreligger forhold som får innvirkning på søkerens flyktningstatus og asylsak.
-Flere politiledere mener derfor dagens ordning der registrering av asylsøkere skjer med et
-polisiært blikk er en styrke.24 Dette synet er også
-understøttet av PST, som ønsker at registrering av
-asylsøkere også i fremtiden skjer ett sted. PST
-foretrekker likevel at asylregistrering heller blir
-lagt til UDI fremfor politidistriktene, dersom
-utflytting av oppgaven er aktuelt, ettersom dette
-bevarer ett kontaktpunkt.25
-I utvalgets spørreundersøkelse rettet mot
-ansatte i politietaten ble det stilt spørsmål om
-hvorvidt oppgaven med å registrere asylsøkere
-helt eller delvis kunne overlates andre aktører.
-Det ble ikke oppstilt hvilke aktører, men flere
-respondenter nevnte alternativer som UDI og politidistriktene i kommentarfeltene. Totalt 1854
-respondenter svarte på spørsmålet. Av dem var
-34,2 prosent «uenig» eller «helt uenig» i at denne
-oppgaven kunne overlates til andre enn PU, mens
-25,8 prosent var «enig» eller «helt enig», og 15,6
-prosent svarte «vet ikke».
-
-24
-25
-
-Utvalgets samtale med politimestrene 23. november 2016.
-I samtale med PST 14. oktober 2016.
-
-[Side 181]
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-11.3.3 Avklaring av identitet
-Identitetsfastsettelse er en sentral del av kriminalitets- og sikkerhetsarbeidet. I senere år har omfanget av reisedokumenter som fremlegges av asylsøkere vært lavt (mellom 5 og 10 prosent). For
-asylankomster i 2014 og 2015 har andelen som
-fremlegger reisedokumenter, imidlertid økt, primært på grunn av mange syrere blant søkerne, og
-ikke minst at alle som kom over Storskog (over
-5000) hadde reisedokumenter. Samtidig har også
-utbredelsen av falske dokumenter steget. PUs
-erfaring er at reisedokumenter fra områder hvor
-innvilgelsesprosenten er høy, øker andelen av
-fremlagte ID-dokumenter, samtidig som det gir
-økt utbredelse av uriktige dokumenter.
-De siste årene har det vist seg at i underkant
-av 50 prosent av asylsøkerne frivillig eller etter
-politiets undersøkelser fremla en form for IDdokument. Tallet inkluderer alle varianter av IDdokumenter, uavhengig av ekthet og type dokument.
-Det økte antallet asylsøkere som fremviser
-dokumenter, har ført til at det er store restanser
-på dokumentundersøkelsene, og PU har ikke per i
-dag full oversikt over hvor stor andel av disse som
-er ekte. Problemstillingen kompliseres ytterligere
-ved at er en betydelig andel forfalskede / korrupt
-anskaffede pass og andre dokumenter i omløp,
-hvor mange kan være ekte passformularer med
-falsk personinformasjon. Avdekking av dette er
-særdeles tids- og ressurskrevende. Det er derfor
-ikke samsvar mellom andelen innleverte dokumenter og andelen dokumenterte identiteter.
-11.3.4 Drift av politiets utlendingsinternat
-De aller fleste på utlendingsinternatet på
-Trandum holdes internert i mindre enn 24 timer,
-men lengre frihetsberøvelse kan være nødvendig
-for å få gjennomført tvangsretur eller for å klarlegge identitet.
-Driften av utlendingsinternatet er preget av
-stor utskiftning blant de innsatte og av jevnlige
-fremstillinger for retten. Ettersom målet er
-tvangsretur, er det ingen vekt på rehabilitering,
-men de som oppholder seg på internatet i mer enn
-to måneder, får aktivitetstilbud.
-Etter at oppgraderingen av Trandum ble ferdigstilt i 2013, har det årlig vært i overkant av 3000
-innsatte, mens det i foregående år var i overkant
-av 2000 innsatte per år.
-Tilsynsrådet, oppnevnt av Justis- og beredskapsdepartementet, gjennomfører årlig flere
-både varslede og uanmeldte tilsyn på internatet.
-
-181
-
-Kapittel 11
-
-Det er ulike oppfatninger om utlendingsinternatet blant politilederne utvalget har møtt. Flere
-mener PU utfører en god jobb, og at de også på
-dette området har gode resultater. Samtidig peker
-flere andre politiledere på at slike oppgaver ikke
-kan regnes som en kjerneoppgave for politiet, og i
-stor grad blir det pekt på Kriminalomsorgen som
-en naturlig aktør til å ta over driften.
-I utvalgets spørreundersøkelse rettet mot
-ansatte i politietaten ble det stilt spørsmål om
-hvorvidt drift av Politiets utlendingsinternat på
-Trandum helt eller delvis kunne overlates andre
-aktører. Det ble ikke oppstilt hvilke aktører, men
-en rekke respondenter utfylte alternativer i kommentarfeltene. Totalt 1860 respondenter svarte på
-spørsmålet. Av dem svarte 27,7 prosent at de var
-«uenig» eller «helt uenig» i at oppgaven kunne
-overlates til andre enn PU, mens 31,1 prosent var
-«enig» eller «helt enig» i at oppgaven kunne overlates andre aktører. I kommentarfeltene ble særlig
-Kriminalomsorgen trukket frem.
-
-11.3.5 Uttransportering
-Uttransportering har de siste to årene vært det
-eneste av PUs områder der Politidirektoratet har
-stilt definerte årlige måltall. Dette kan illustreres i
-figur 11.7.
-Figuren viser PUs måloppnåelse med hensyn
-til uttransportering per år i perioden 2012–2016,
-og med unntak av 2016 er målene overoppfylt
-hvert år.
-Fordelingen av hvem som ledsager uttransportene (PU eller politidistriktene) har i senere år
-prosentvis ligget på rundt 70–30, men har siste år
-nærmet seg fordelingen 80–20. PUs andel av
-totale ledsagerverk har økt, noe som må ses i
-sammenheng med økte måltall for retur. En nærmere analyse av tallene ville antakelig vist at antallet ledsagerverk fra distriktene er rimelig konstant, mens PU selv har dekket inn økningen i
-returtall. Høye returtall har slik sett i mindre grad
-påvirket politidistriktenes ressurssituasjon.
-Enkelte politiledere stiller spørsmål om hvorvidt uttransportering av personer med avslag på
-oppholdstillatelse eller som oppholder seg ulovlig
-i landet, kan regnes som en kjerneoppgave for
-politiet. PU på sin side mener uttransportering
-bidrar til allmenn kriminalitetsbekjempelse på
-flere måter, blant annet ved at PU prioriterer
-uttransportering (raskere retur) av straffedømte.
-I tillegg til å oppfylle regjeringens mål om raskere
-retur bidrar også dette arbeidet til å frigjøre ressurser i straffesakskjeden.26
-
-[Side 182]
-
-182
-
-NOU 2017: 11
-
-Kapittel 11
-
-Bedre bistand. Bedre beredskap
-
-10000
-9000
-
-9000
-
-7800
-
-8000
-
-6700
-
-6000
-
-4700
-
-8078
-
-7825
-
-7000
-7259
-
-4600
-
-5000
-
-5966
-
-4000
-
-4902
-
-3000
-2000
-1000
-0
-2012
-
-2013
-
-2014
-Antall uttransporter
-
-2015
-
-2016
-
-Resultatkrav
-
-Figur 11.7 Utvikling i antall uttransporteringer og resultatkrav til antall transporter
-Kilde: Politidirektoratet
-
-Enkelte politimestre legger til at politidistriktene i mange tilfeller gjør et betydelig arbeid med
-å forberede, bistå og gjennomføre uttransporteringer, men får lite anerkjennelse for arbeidet. Isteden hevdes det at PU tar arbeidet til inntekt for
-seg selv og sin resultatoppnåelse. Andre politimestre legger til at etter deres erfaring er PUs
-bistand til mange uttransporteringer lite effektivt,
-ettersom personer med vedtak om tvangsutsendelse i flere tilfeller unnslipper planlagte pågripelser i eget distrikt. Grunnen er ofte manglende
-lokalkunnskap og ikke-oppdatert informasjon.
-Etter deres mening ville det være mer kostnadseffektivt om politidistriktene med sin lokalkunnskap
-alene sto for slike aksjoner, fremfor at PUs eget
-mannskap blir sendt for å bistå.
-Andre politimestre mener det bør være grunnlag for større bruk av sivilt personell med begrenset politimyndighet fremfor bruk av politiets IP4mannskaper for å gjennomføre uttransportering
-av personer uten lovlig opphold.
-I utvalgets spørreundersøkelse rettet mot
-ansatte i politietaten ble det stilt spørsmål om
-hvorvidt uttransportering helt eller delvis kunne
-overlates andre aktører. Det ble ikke oppstilt
-hvilke aktører, men flere respondenter utfylte
-alternativer i kommentarfeltene, som Kriminalomsorgen og private aktører. Totalt 1856 respondenter svarte på spørsmålet. Blant respondentene
-svarte 38 prosent at de var «uenig» eller «helt
-
-uenig» i at andre aktører enn PU burde ha ansvar
-for uttransportering, mens 25,5 prosent var «enig»
-eller «helt enig», og 14,3 prosent svarte «vet
-ikke».
-Regjeringens måltall for uttransporteringer av
-personer som har fått avslag på opphold eller oppholder seg ulovlig i landet er 9 000 for 2017. Dette
-er et høyt tall som krever store politiressurser for
-å oppnå, samtidig som mengden det er å ta av har
-minket. Regjeringen har besluttet at uttransporteringer skal prioriteres. Norges Politilederlag har
-ment at denne praksisen tvinger frem uheldige
-virkninger, som stigmatisering av gruppen utlendinger og at det igjen kan føre til en mindre generell tillit til politiet i denne gruppen.27
-
-11.3.6 Kompetanse
-Som politiets nasjonale kompetansesenter på asylog utlendingsfeltet har PU i henhold til disponeringsskrivet i oppgave å styrke kompetanse- og
-kunnskapsgrunnlag samt yte bistand til politidistriktene på området.
-PU utfører oppdraget blant annet i form av
-samarbeid med politidistriktene, foredrag og presentasjoner på eksterne og interne konferanser
-og seminarer. I tillegg arrangerer PU årlig Faglig
-Forum, den største konferansen for politi og øvrig
-27
-
-26
-
-Se også POD (2013) Effekten av retur, del II.
-
-Dagbladet 22. april 2017: «Tvangsretur: Overivrig returpraksis»
-
-[Side 183]
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-utlendingsforvaltning i Norge, samt årlig utvisningsseminar, ID-seminar og påtaleseminar.
-PHS tilbyr ikke grunn- eller etterutdanning
-innenfor PUs ansvarsområder. PU har siden oppstarten drevet systematisk opplæring av egne
-ansatte. Dette gjelder også kompetansebygging/utvikling på PUs fagområder i politidistriktene.
-Noe opplæring skjer i samarbeid med
-eksterne aktører, som for eksempel Politihøgskolen (PHS) Kriminalomsorgens utdanningssenter
-og politiets særorgan. Politiutdannet personell
-gjennomfører årlig trening og gjennomfører eget
-introduksjonskurs for PUs nyansatte. Der vektlegges innføring i rettslige rammer samt i PUs mandat, ansvarsområde og verdier. Fra 2017 igangsetter PU planmessig tjeneste og annen hospitering
-innenfor egne fagområder.
-PU bidrar også med kompetanseoverføring
-gjennom direkte bistand til distriktene med IDavklaring, verifiseringsforespørsler til ambassader
-eller andre instanser, retur til hjemland og øvrige
-henvendelser.
-Operasjonssenteret i PU, juridisk avdeling ved
-jourhavende samt team som jobber med bort- og
-utvisningssaker, svarer også hele døgnet på henvendelser fra politidistriktene i utlendingssaker.
-Ettersom ikke alle politidistrikt har egne utlendingsenheter og tjenestemenn med kompetanse
-på utlendingsfeltet, bistår PU regelmessig distriktene i spørsmål knyttet til eksempelvis utlendingskontroller, bort- og utvisning og bruk av tvangsmidler etter utlendingsloven.
-I utvalgets spørreundersøkelse rettet mot
-ansatte i politietaten ble respondentene spurt om
-PU bidrar til god kompetanseoverføring til politidistriktene. 1819 svarte på spørsmålet, hvorav
-nesten 21 prosent svarte «enig» eller «helt enig»,
-mens 48,5 prosent svarte «vet ikke». Den store
-andelen «vet ikke» ble i kommentarfeltet forklart
-med at mange hadde lite kontakt med PU og derfor vegret seg for å svare. Bare 8,1 prosent svarte
-«uenig» eller «helt uenig» på spørsmålet.
-I utvalgets spørreundersøkelse er det en tydelig oppfatning om at PU bør ha fagansvar på sine
-områder. Av 1807 respondenter var 39,7 prosent
-«enig» eller «helt enig» i dette, mens bare 5,2 prosent var «uenig» eller «helt uenig». I overkant av
-40 prosent svarte «vet ikke», hovedsakelig
-begrunnet i kommentarfeltene med manglende
-kjennskap til PUs områder.
-På spørsmål om hvorvidt PU utfyller sin rolle
-som nasjonalt kompetansesenter på en god måte,
-er 27 prosent «enig» eller «helt enig», mens 5,6
-prosent er «uenig» eller «helt uenig». Av 1812
-respondenter svarer likevel 43 prosent «vet ikke».
-
-183
-
-Kapittel 11
-
-Tilbakemeldingene var mindre klare på spørsmålene om PUs rutiner for kunnskapsutveksling
-med politidistriktene, om PU har nødvendig spesialkompetanse, og om PU har nødvendig kapasitet
-og ressurser til å ivareta politidistriktenes behov
-for kompetanseutvikling. Her svarte gjennomgående mellom 50 og 60 prosent av de vel 1810
-respondentene «vet ikke».
-På spørsmålet om gode rutiner for kunnskapsutvikling svarer de fleste «verken/eller» (24 prosent), mens 13 prosent er «enig» eller «helt enig».
-På spørsmålet om hvorvidt PU har nødvendig
-spesialkompetanse i henhold til sitt oppdrag, er tilbakemeldingen tydelig, der 29 prosent er «enig»
-eller «helt enig», mens bare 2,9 prosent er «uenig»
-eller «helt uenig».
-Respondentene mener også at PU i stor grad
-bidrar til god kompetanseoverføring til distriktene. Her svarer 48,5 prosent av 1819 respondenter «vet ikke», noe som forklares med manglende
-kjennskap og dels manglende relevans. Blant de
-øvrige respondentene er oppfatningen klar; over
-20 prosent er «enig» eller «helt enig» i at PU
-bidrar til god kompetanseoverføring, mens 8,1
-prosent er «uenig» eller «helt uenig».
-Respondentene er mer usikre på om PU har
-kapasitet og ressurser til å ivareta generelle behov
-for kompetanseutvikling. Her svarte over 60 prosent «vet ikke», noe som i kommentarfeltene blir
-forklart med manglende kjennskap til området.
-Over 16 prosent er likevel «enig» eller «helt enig»,
-mens i underkant av fem prosent er i den andre
-enden av skalaen.
-
-11.3.7 Territorialkontroll
-Både PU og politidistriktene gjennomfører territorialkontroll, det vil si kontroll av utlendinger på
-territoriet (i distriktet). PUs territorialkontroller
-skjer etter avtale med politidistriktene, og PU yter
-her bistand.
-Gjennom territorialkontrollene (utlendingskontroller) avdekkes saker som menneskesmugling, menneskehandel, etterlyste personer, ulovlig
-opphold, ulovlig arbeid, bedrageri, dokumentforfalsking, skatteunndragelser, sosial dumping,
-etterlyste asylsøkere, Dublin-kandidater i tillegg
-til alvorlige straffesaker m.m.
-PU er kjent med og bevisst de utfordringer
-som knytter seg til mulige målkonflikter med aktiviteter i politidistriktene, herunder utlendingskontroll. Politiets kontrollaktivitet på ethvert område
-resulterer gjerne i «produksjon» av straffesaker,
-som igjen i praksis er med på å øke arbeidsmengden for politidistriktene med hensyn til etterfors-
-
-[Side 184]
-
-184
-
-NOU 2017: 11
-
-Kapittel 11
-
-Bedre bistand. Bedre beredskap
-
-kning og straffeforfølgning. PU opplyser at de har
-etablert gode rutiner for informasjonsutveksling
-og felles planlegging internt i politiet for å motvirke slike målkonflikter. Operasjonssenteret i PU
-vil med sin døgnkontinuerlige tjeneste være kontaktpunkt også ved pågående operasjoner og kontroller samt bidra til at informasjonsflyten mellom
-PU og distriktene ivaretas.
-Flere politiledere er her tydelig på at territorialkontroll bør være et ansvar som ligger utelukkende til politidistriktene, med henvisning til territorialprinsippet.
-
-11.3.8 Forebygge og bekjempe kriminalitet
-Inntil 2014 var «forebygge og bekjempe kriminalitet» et eget punkt i det årlige disponeringsskrivet
-til PU fra Politidirektoratet, hvor det ble stilt krav
-til antall aksjoner i samarbeid med andre aktører,
-eller målkravet var knyttet til uttransportering av
-personer med ilagte straffereaksjoner. Området er
-ikke omtalt i PUs instruks.
-Etter PUs mening knytter politiets ansvar og
-oppgaver innenfor utlendingsforvaltningen seg
-direkte til politiets samfunnsoppdrag om å forebygge og bekjempe kriminalitet og skape trygghet for befolkningen. Politiets ansvar og oppgaver
-på utlendingsfeltet omfatter også internasjonalt
-samarbeid og de forpliktelser Norge er bundet til.
-Det kan ofte være nær sammenheng mellom
-utlendingssaker og straffesaker. Dette er også
-omtalt i politiets omverdensanalyser. I prioriteringsrundskriv 1/2016 fra Riksadvokaten blir det
-beskrevet hvordan migrasjonsutviklingen påvirker kriminalitetsbildet, i form av kriminalitet rettet mot sårbare utlendinger innenfor kriminalitetstyper som menneskehandel, utnyttelse i arbeidslivet, utnyttelse av enslige mindreårige asylsøkere
-(EMA), hatkriminalitet samt kriminalitet begått av
-utlendinger som oppholder seg ulovlig i Norge.
-Dette er også omtalt i tildelingsbrev for politiet i
-2017, pkt. 4.4 «Migrasjonskjeden»:
-«Politiets viktigste oppgaver under dette målet
-er å registrere alle som søker om beskyttelse,
-etterforske identitetsopplysninger der det er
-nødvendig, og å uttransportere personer som
-ikke får innvilget opphold i Norge, og som ikke
-etterkommer plikten om å forlate Norge på
-egen hånd. Dette arbeidet er viktig både i et
-samfunns-sikkerhetsperspektiv, og for å
-bekjempe ulike former for kriminalitet.»
-Som PU påpeker, kan enkelte utlendinger søke
-asyl for å legitimere et opphold i Norge der den
-
-egentlige hensikten er å begå kriminalitet.28
-Andre utlendinger gir bevisst uriktige opplysninger i søknader etter utlendingsloven og fremlegger falske dokumenter i den hensikt å få innvilget
-oppholdstillatelse. Det ligger derfor innenfor politiets kjerneoppgaver å etterforske og straffeforfølge slike straffbare forhold. PU mener at en utvidelse av PUs mandat og tildeling av påtalemyndighet vil kunne bidra til bedre resultater på dette
-området enn det en oppnår gjennom dagens løsning.
-Flere av PUs aktiviteter knytter seg derfor til
-politiets samlede forebygging og bekjempelse av
-kriminalitet. Opphold under falsk identitet er misbruk av og undergraving av asylinstituttet og kan
-være en trussel mot samfunnssikkerheten i form
-av (organisert) kriminalitet, krigsforbrytere eller
-terrorisme. Effektiv ID-avklaring og rask retur er
-således kriminalitetsbekjempende. Ved å uttransportere kriminelle spares innbyggerne for å bli
-utsatt for kriminalitet og samfunnet for betydelige
-kostnader. Kriminelle utlendinger prioriteres, og
-resultatutviklingen følger i tabell 11.2.
-PU har tatt en mer aktiv rolle overfor politidistriktene, spesielt på områdene bort- og utvisning
-og identitetsfastsettelse. PU bestreber seg på å
-følge kriminalitetsbildet nøye, eksempelvis med
-tanke på etterretningsinformasjon som kan indikere endringer i kriminalitetsmodus.
-Gjennom blant annet utlendingskontroller
-avdekker PU ulovlig opphold og ulovlig arbeid i
-en stor andel av sakene, mens det under asylregistreringsprosessen er vektlagt å avdekke menneskehandel og menneskesmugling samt om det
-foreligger forhold som kan få innvirkning på flyktningstatus og asylsøknad. Det kan for eksempel
-være at søker oppgir uriktig identitet i forbindelse
-med asylsøknaden i Norge.
-PU har i sin virksomhet kontakt med svært
-mange asylsøkere. I denne forbindelse kommer
-PU over informasjon som er relevant for politiet.
-Denne informasjonen blir videreformidlet til rett
-avdeling i politiet, eventuelt registrert i etterretningsregisteret. Rett avdeling kan være både
-lokalt politi og andre avdelinger i PU. I forbindelse
-med pågripelser blir det ofte gjennomført ransakinger som kan avdekke dokumenter, tyvegods,
-narkotika og penger som igjen brukes i nye saker.
-Materiale som sikres i denne sammenheng, kan
-også være egnet som grunnlag for straffesak.
-Bort- og utvisning kan også betegnes som kriminalitetsbekjempende virkemidler. PU oppretter
-28
-
-PUs høringssvar til politianalysen (NOU 2013: 9) PU2013/
-00435-2008, s. 6.
-
-[Side 185]
-
-185
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-Kapittel 11
-
-Tabell 11.2 Antall uttransporterte og straffedømte uttransporterte 2012–2016.
-Antall uttransporterte
-
-Antall uttransporterte straffede
-
-Andel uttransporterte straffede
-
-2012
-
-4902
-
-1361
-
-28 %
-
-2013
-
-5976
-
-2235
-
-37 %
-
-2014
-
-7259
-
-2809
-
-39 %
-
-2015
-
-7884
-
-2600
-
-33 %
-
-2016
-
-8094
-
-2284
-
-28 %
-
-Kilde: UP
-
-som nevnt i hovedsak bort- og utvisningssaker på
-bakgrunn av brudd på utlendingsloven, men også
-noen på bakgrunn av straffbare forhold begått i
-Norge eller i utlandet. Ved å prioritere uttransportering av straffedømte i alle ledd av PUs virksomhet er målet å få kriminelle utlendinger raskt ut av
-landet, og ved dette hindre nye straffbare forhold.
-Rask retur av kriminelle bidrar også til å frigjøre
-ressurser i straffesakskjeden.
-Politidistriktene benytter straffesaksmodulen
-ved opprettelse av utlendingssaker i politiets straffesakssystem. PU overtar i en del tilfeller fengslingssakene fra politidistriktene, ved at de blir
-elektronisk overført, og PU arbeider da videre i
-straffesaksmodulen. PU oppretter også straffesaker gjennom å foreta undersøkelser, pågripelser
-etc. som gir grunnlag for opprettelse av straffesak. Disse sakene blir opprettet av PU og deretter
-overført det politidistriktet hvor det straffbare forhold har skjedd. Dette gjør at det er vanskelig å
-finne eksakt tall på hvor mange straffesaker PU
-har opprettet.
-
-11.3.9 Bistand
-I motsetning til Kripos og dels Økokrim er ikke
-PU primært et bistandsorgan i direkte forstand.
-Gjennom sin oppgaveløsning og arbeidsfordeling
-bidrar PU likevel indirekte til bistand ved å avlaste
-politidistriktene på utlendingsfeltet slik at det blir
-frigjort tid og ressurser til andre oppgaver.
-Fra PU blir det gitt operativ bistand til politidistriktene ved behov. Politidistriktene ber da om
-bistand til egne planlagte operasjoner som
-omhandler utlendinger. Det kan også bli gitt
-bistand fra PU i akutte oppdrag som omhandler liv
-og helse, eller i andre hendelsesstyrte oppdrag
-der det lokale politiet enten ikke har tilstrekkelige
-ressurser eller er for langt unna.
-PUs bistandskonsept bygger på prinsippet om
-at den faktiske bistanden skal inneholde et element av undervisning og teoretisk erfaringsover-
-
-føring. Det er et mål at bistand skal gi en læringseffekt i ettertid for den virksomheten som mottar
-bistand. PUs mannskaper skal ikke alene være en
-mannskapsressurs, men støtte lokalt politidistrikt
-med kompetanse og veiledning på utlendingsfeltet. Omfanget av bistandsoppdraget er avgjørende
-for på hvilket nivå av bistand som avtales, og for
-formaliteter for øvrig. Normalt er bistand tidsavgrenset til en uke.
-I tillegg til stedlig bistand yter PU bistand til
-politidistrikt og særorgan gjennom døgnbetjent
-operasjonssenter, ved jourordning for PUs jurister
-og ved kontaktlister presentert i veiledninger og
-tiltakskort. Operasjonssenteret i PU yter bistand
-til distriktene når det gjelder bistand til tvangsretur, billetter og risikovurdering samt ledsagelse
-ved behov. Operasjonssenteret besvarer dessuten
-henvendelser fra distriktene i alle typer saker.
-Utlendingsinternatet og utreisesenteret er tilsvarende tilgjengelige for henvendelser fra politiet
-hele døgnet alle dager.
-PUs bistandskontakt med politidistriktene kan
-dermed defineres på to måter:
-– bistand politidistriktene gir til PU for at PU skal
-kunne gjennomføre sine oppgaver i politidistriktene
-– bistand PU gir til politidistriktene for at politidistriktene skal ha kompetanse og kunne gjennomføre sine oppgaver i utlendingsforvaltningen
-Anmodning om lokal bistand til PU vurderes blant
-annet der oppdrag er geografisk langt unna PUs
-lokaler, og kostnads- og personellhensyn gjør at
-det er best å bruke lokale mannskaper. Under
-PUs operasjoner er det ofte tett samarbeid med
-lokalt politi, ikke bare knyttet til operativt bistand,
-men også i form av bruk av kontorplass, biler, celler etc. i forbindelse med aksjonen.
-PU har også et eget kontroll- og bistandsteam
-(KBT), bestående av operative polititjenestemenn,
-som utfører utlendingskontroller i medhold av
+- <u>sikre rask gjenoppretting av samfunnskritiske funksjoner ved uønskede hendelser</u>
+
+- <u>sikre effektiv beredskap og operativ evne og kapasitet til å håndtere alvorlig kriminalitet, kriser og ulykker</u>
+
+- <u>sikre god læring og kompetanseoverføring på grunnlag av øvelser og inntrufne hendelser</u>
+
+Det er politiets oppgave å forebygge, bekjempe og etterforske kriminalitet og å skape trygghet for befolkningen. Politiets samlede beredskap innebærer derfor at politimannskap med riktig og tilstrekkelig kompetanse kan nå de fleste innbyggere i Norge innen rimelig tid når det trengs.[^373] Selv om nasjonale beredskapsressurser er organisert under Oslo politidistrikt, har POD det overordnede ansvar for en effektiv organisering og innretting til nytte for hele landet.
+
+God beredskap innebærer at politiet raskt kan omstille seg fra daglig tjeneste til nødvendig innsats for å håndtere uønskede hendelser, kriser og ulykker. Dette innebærer blant annet gode rutiner for at beredskapstroppen kan frigjøre seg fra ordensoppdrag i Oslo politidistrikt og omdisponeres for beredskapsoppdrag ved behov. Dette er nedfelt i Politiets beredskapssystem (PBS). Det er i tillegg en egen bistandsinstruks for bruk av bistand fra Forsvaret dersom det er behov for forsterket innsats.[^374]
+
+1.  **<u>N</u><u>å</u><u>r behovet for nasjonal beredskap melder seg</u>**
+
+Nasjonale beredskapsressurser (NB) må kunne respondere raskt i akutte tilfeller og innenfor sine respektive oppdrag i henhold til retningslinjer i Politiets beredskapssystem. Dette innebærer at NB enten alene eller i samvirke med øvrige beredskapsenheter og politidistriktenes innsatspersonell må ha tilstrekkelig innsatsevne til å håndtere og avslutte aktuelle hendelser. Dette krever nødvendig innsatsevne med tilstrekkelig transportkapasitet på land, sjø og i luft samt annet relevant materiale for å ivareta oppdraget.
+
+Politiets beredskapssystem angir eksempler på ekstraordinære hendelser der nasjonale beredskapsressurser kan bistå politidistriktene med krisehåndtering. Eksempler på slike hendelser er:
+
+- <u>skyting pågår</u>
+
+- <u>grov vold</u>
+
+- <u>alvorlig ordensforstyrrelse</u>
+
+- <u>bombetrussel</u>
+
+- <u>terroranslag</u>
+
+- <u>gisselsituasjon</u>
+
+- <u>rømning av farlig person</u>
+
+- <u>søk etter savnet person</u>
+
+- <u>alvorlige samfunnskritiske hendelser som naturkatastrofer, flom, by- og stedsbranner</u>
+
+- <u>omfattende avbrudd i viktige samfunnsfunksjoner som alvorlige strømbrudd, ras på hovedveier og nettbrudd</u>
+
+- <u>sikre ro og orden ved store allmenne sammenkomster</u>
+
+- <u>organisert kriminalitet som narkotika, ran og gjengoppgjør</u>
+
+Behovet for politiberedskap må ses i sammenheng med forventet befolknings- og kriminalitetsutvikling. Ifølge Statistisk sentralbyrås (SSB) befolkningsframskrivinger passerer Norge 6 millioner mennesker i 2031.[^375] SSB forventer at befolkningsveksten primært vil komme i sentrale strøk, spesielt i storbyene. Som det fremgår av tabell 1, er forekomsten av kriminalitet, målt i antall anmeldelser per 1000 innbyggere, høyest i og rundt de største byene.
+
+1.  <u>Anmeldte lovbrudd per 1000 innbyggere etter politidistrikt i 2016. Alle lovbruddsgrupper.</u>
+
+|                 |                                                |
+|-----------------|------------------------------------------------|
+| Politidistrikt  | <u>Anmeldte lovbrudd per 1 000 innbyggere </u> |
+|                 |                                                |
+| Oslo            | <u>89,4</u>                                    |
+| Øst             | <u>65,9</u>                                    |
+| Innlandet       | <u>54,2</u>                                    |
+| Sør-Øst         | <u>64,6</u>                                    |
+| Agder           | <u>72,3</u>                                    |
+| Sør-Vest        | <u>63</u>                                      |
+| Vest            | <u>57,4</u>                                    |
+| Møre og Romsdal | <u>42,8</u>                                    |
+| Trøndelag       | <u>53,8</u>                                    |
+| Nordland        | <u>49,3</u>                                    |
+| Troms           | <u>53,1</u>                                    |
+| Finnmark        | <u>66,9</u>                                    |
+|                 |                                                |
+
+<u>Statistisk sentralbyrå. Kildetabell 08485</u>
+
+Selv om kriminaliteten de siste årene har vært nedadgående på de fleste områder, har det likevel skjedd en økning i antall anmeldelser med høyest maksimal strafferamme. Dette er også en type kriminalitet der det er nærliggende å benytte nasjonale beredskapsressurser.
+
+Samfunnssikkerhet og beredskap innebærer å håndtere risiko og usikkerhet. Dette innebærer å gjøre et skille mellom hendelser der sannsynligheten for at en hendelse inntreffer, eller mulige konsekvenser, er preget av usikkerhet, og hendelser der disse størrelsene er kjent. Samtidig er det vanskelig å forebygge og forhindre enhver uønsket hendelse. Samfunnet må akseptere å leve med en viss risiko, noe som innebærer en avveining mellom kostnader og nytte ved bestemte sikkerhetstiltak. En slik avveining kan være krevende, siden nyttevurderingen ofte er preget av usikkerhet. For politiets beredskapsevne handler det om folks opplevelse av at politiets innsats bidrar til å gi innbyggerne trygghet og ivareta sikkerheten, og at innbyggerne på den måten har tillit til offentlige myndigheter.
+
+Ett eksempel er knyttet til politiets bevæpning. Norsk politi bærer i det daglige ikke våpen, men medbringer ett- og tohåndsvåpen i alle biler som brukes til patruljering (fremskutt lagring). De siste årene har det vært en utvikling med økende terrortrussel i Europa, og basert på PSTs trusselvurderinger ble politiet i perioden november 2014 til februar 2016 gitt midlertidig tillatelse til bevæpning av polititjenestemenn for å styrke beredskapen. Bevæpningsutvalget la 29. mars 2017 frem anbefalinger til nye retningslinjer for politiets bevæpning. Det ble her ikke anbefalt allmenn bevæpning, men at politiet fortsatt skal benytte fremskutt lagring.[^376]
+
+Et annet eksempel er knyttet til Politiets helikoptertjeneste (HT). I kjølvannet av hendelsene 22. juli 2011 ble det blant annet rettet kritikk mot politiets begrensede helikopterkapasitet.[^377] Senere har også flere advart mot begrenset kapasitet andre steder i landet, særlig i Nord-Norge, og påpekt at dette svekker den reelle nasjonale beredskapen.[^378] Det er likevel, på bakgrunn av avveininger mellom risiko og kost–nytte, et bevisst valg at politiet til nå bare har én fast operativ helikoptertjeneste i Østlandsområdet (Gardermoen). Som kompenserende tiltak er det etablert samarbeidsløsninger med andre etater, både redningstjenesten og Forsvaret, slik at nasjonale beredskapsressurser likevel kan nå alle deler av Midt-Norge og Nord-Norge innen timer.[^379] Dette er en risiko vi som samfunn må akseptere gitt begrensede ressurser og prioriterte oppgaver.
+
+1.  **<u>Dagens organisering av nasjonale beredskapsressurser</u>**
+
+Samfunnets behov for politiets nasjonale beredskap har vært gjenstand for en rekke utredninger de seneste årene.[^380]
+
+En hensiktsmessig organisering av beredskapsressursene bør ta utgangspunkt i oppgaver og ansvar som ligger til nasjonale beredskapsressurser, og vurdere i hvilken grad dette bidrar til å dekke politidistriktenes beredskapsbehov.
+
+Flere politiledere hevder at det at nasjonale beredskapsoppgaver er tillagt Oslo politidistrikt (OPD), først og fremst er historisk begrunnet. Tilbakemelding fra politimestre og utvalgets spørreundersøkelse tyder likevel på at dagens organisering gir effektiv og god bistand over hele landet, og at nasjonale beredskapsressurser er en nasjonal ressurs som kan planlegges og koordineres over tid.
+
+I utvalgets spørreundersøkelse rettet mot hele politietaten ble det stilt spørsmål om det er hensiktsmessig at nasjonale beredskapsressurser er organisert under Oslo politidistrikt. Til sammen 1861 besvarte spørsmålet, og tilbakemeldingene var delte. Rundt 20 prosent var «enig» eller «helt enig» i at dette er en hensiktsmessig organisering, mens 33,7 prosent var «uenig» eller «helt uenig», og 22 prosent svarte «vet ikke».
+
+Det er bred enighet i politiet om at lokalisering av nasjonale beredskapsressurser bør ta utgangspunkt i Oslo og Østlandsområdet. Det er mange grunner til dette, først og fremst fordi befolkningstettheten er størst der de fleste beskyttelsesobjektene er plassert der, og Oslo politidistrikt på mange områder er største bruker. I tillegg er de såkalte hovedstadsutfordringene ressurskrevende. Dette er også argumenter som fremgikk av kommentarfeltene i spørreundersøkelsen.
+
+Det er også bred enighet blant politimestrene om at sentralisering av nasjonale beredskapsressurser er effektivt for å opprettholde nødvendig kompetanse. Noen politiledere mener likevel det er grunn til å vurdere alternative løsninger som kan bidra til en bedre deling av ressursene og styrking av beredskapsevnen i politidistriktene. Som eksempel blir det nevnt regionale ordninger med satellitter i andre deler av landet eller ulike hospiteringsløsninger. Her er imidlertid tilbakemeldingene delte.
+
+Flere politiledere peker på det prinsipielle, at organisering av nasjonale beredskapsressurser i et politidistrikt ikke nødvendigvis er riktig løsning, og reiser spørsmål om ikke ressursene kan utnyttes bedre om den administrative organiseringen endres, og beredskapsressursene blir etablert som et selvstendig politiorgan med hjemmel i politiloven § 16 andre ledd, pkt. 1.
+
+1.  **<u>Sikrer organiseringen reell nasjonal beredskap?</u>**
+
+Det er bred enighet blant respondentene i utvalgets spørreundersøkelse, samt politilederne, at distriktene får bistand ved behov. Dette viser i stor grad at dagens ordning fungerer godt.
+
+Flere politidistrikt oppgir likevel å ha høy terskel for å be om bistand fra nasjonale beredskapsressurser. Samtidig oppgir politimestrene at de opplever å få god bistand ved behov, og at de mottar nyttig kompetanseoverføring gjennom oppdrag og øvelser. Foruten politidistriktene oppgir også PST at de mottar god bistand fra Beredskapstroppen, særlig ved pågripelser.[^381]
+
+Innenfor integrert modell i Oslo politidistrikt peker flere på prinsipielle spørsmål som hittil i liten grad er materialisert i praktiske eksempler:
+
+- <u>Hvordan motvirke at lokale driftsmål kommer i konflikt med nasjonale beredskapsoppgaver?</u>
+
+- <u>Hvordan motvirke at samtidighetskonflikter fører til interessemotsetninger og målkonflikter mellom Oslo og øvrige politidistrikt?</u>
+
+*<u>Lokale driftsoppgaver</u>*
+
+Gjennom organisering i Oslo politidistrikt (OPD) skal nasjonale beredskapsressurser (NB) være en gripbar ressurs i den daglige driften. Som politimester i Oslo understreker, innebærer dagens modell at beredskapsressursene er en integrert del av politiet og blir brukt lokalt så fremt det ikke er angitt prioriterte nasjonale oppgaver.[^382] Gjennom daglig praktisk tjeneste får NB verdifull operativ praksis i alle faser av oppdragene (forberedelse, gjennomføring, evaluering) og ved å løse små og mellomstore kriser til daglig styrker dette evnen til å eskalere innsats ved større, komplekse og mer spisse oppdrag.
+
+Flere stiller imidlertid spørsmål om hvorvidt beredskapsressursene blir riktig utnyttet. Dette ble også påpekt i Politidirektoratets rapport *Når nasjonen kaller: «*For OPD er det krevende å håndtere både lokale hovedstadsutfordringer, med tilhørende vidt spenn av oppgaver, og det nasjonale ansvaret for beredskapsressursene. Det konstateres at det er en tendens til at prekære driftsoppgaver prioriteres foran nasjonale beredskapsoppgaver.»[^383] Rapporten beskriver videre at pålegget om 50 prosent ordenstjeneste for BT på mange måter kan fremstå mer som en driftsressurs enn en tilleggsressurs.
+
+I den integrerte modellen i Oslo politidistrikt er Beredskapstroppen (BT) pålagt patruljetjeneste fra kl. 19:00–07:00 på ukedager og hele døgnet i helgene. BT kjører da i egne biler. Ved siden av operativ trening for innsatsstyrkene gir løsningen viktig kompetanseoverføring lokalt. Samtidig viser statistikk i OPD at av Oslos fem politistasjoner er det bare Grønland og Sentrum politistasjoner som kjører flere innsatspatruljer årlig enn Beredskapstroppen.[^384] Enkelte har pekt på at dette indikerer en uheldig avhengighet av BT, som kan føre til målforskyving fra nasjonal beredskap mot lokal drift. Det blir også hevdet at denne ordningen kan bidra til begrenset oppdragserfaring for IP3-mannskaper i Oslo, fordi BT i stor grad løser bevæpningsoppdragene og andre spesielle oppdrag.
+
+Enkelte i politiet stiller spørsmål om hvorvidt beredskap og kapasitetsbygging kan bli svekket gjennom en så stor andel pålagte driftsoppgaver. Ledelsen av nasjonale beredskapsressurser og politimester i Oslo politidistrikt oppgir i det daglige å være bevisst på spennet mellom nasjonale oppdrag og Oslo-oppdrag og mener dette er godt ivaretatt. Det blir også vist til at det ikke foreligger gode eksempler på slike samtidighetskonflikter. Enkelte politiledere fremhever her at selv om det til nå ikke er eksempler på målkonflikter, er det en mulighet for at OPD kan si nei til bistandsanmodning fordi andre, kanskje lokale oppdrag allerede har lagt beslag på ressursene. Den nylige organisasjonsendringen, der NB er løftet til nivå 2 i Oslo politidistrikt, anses ikke å avskjære denne muligheten.
+
+*<u>Responstid</u>*
+
+Rask responstid er avgjørende for en effektiv beredskap. Erfaring viser at ved kritiske hendelser er oftest den første timen avgjørende for utfallet.[^385] I mange tilfeller er gjerne andre politienheter og akuttetater først på stedet, eksempelvis brannvesen og ambulanse. Koordinering på tvers med politiets beredskapsinnsats er derfor av stor betydning.
+
+I utvalgets samtaler med politimestrene[^386] ble det gitt uttrykk for varierende og noe uforutsigbar responstid, men at det hittil ikke var oppstått samtidighetskonflikter som kan reise prinsipielle spørsmål om ressursprioritering.
+
+I gjeldende PBS er det ikke krav til responstid for beredskapstroppen, men krav om klargjøringstid innen to timer. Med *responstid* menes her en funksjon av meldingsmottak, klargjøringsevne og transport, det vil si tiden fra melding er mottatt, til innsatsstyrken er fremme på operasjonsstedet.
+
+Operasjonssentralen i Oslo politidistrikt er ansvarlig for å ta imot, koordinere og videreformidle bistandsanmodninger fra politidistriktene gjennom et eget felles kontaktpunkt hos nasjonale beredskapsressurser, som vurderer og behandler disse anmodningene for å sikre effektiv krisehåndtering. Beslutning om bistand tas på politimesternivå.
+
+Transport både innenfor og utenfor Stor-Oslo skjer i hovedsak med bil, og oppdrag innenfor 45 minutters kjøring omfatter et område som dekker rundt 1,5 millioner innbyggere.[^387] Alternativt transportmiddel er bruk av sivil lufttransport (fly) samt helikoptertransport utført av Forsvaret, fordi politiets egne helikoptre ikke har transportkapasitet. Det er som nevnt besluttet å anskaffe to nye politihelikoptre, med opsjon på et tredje, men endelig kontrakt er per 31. mars 2017 ikke inngått.[^388]
+
+Det er likevel et faktum at med sentraliserte beredskapsressurser er dekningen best i Østlandsområdet. Situasjonsbildet for enkelte deler av landet, særlig i Nord-Norge, men også deler av Vestlandskysten, er imidlertid at responstiden er lengre, og at nasjonale beredskapsressurser i mindre grad anses som reelle. Ettersom kritiske hendelser som nevnt erfaringsmessig er mest intense innenfor den første timen, er politidistriktene derfor avhengig av å bygge opp lokal beredskapsevne også, i sammenheng med øvrige beredskapsressurser som brannvesen og ambulanse, eventuelt Forsvaret.[^389]
+
+Beregninger viser at aksjonsradius på de planlagte nye helikoptre til politiet vil kunne dekke 80–85 prosent av Norges befolkning innen to timer. Dette omfatter deler av Sør-Norge, til og med Trondheim.
+
+I utvalgets spørreundersøkelse til ansatte i politietaten ble det stilt spørsmål om nasjonale beredskapsressurser er tilgjengelige ved behov. Til sammen 1 853 besvarte spørsmålet. Tilbakemeldingene var delte, og andelen som svarte «vet ikke» var på 31,1 prosent, noe som i kommentarfeltene ble forklart med at flere opplevde å ha for liten innsikt i hvordan NB blir disponert ved behov. Her var 23,7 prosent «enig» eller «helt enig» i at NB er tilgjengelig ved behov, mens 16,6 prosent var «uenig» eller «helt uenig».
+
+Det ble også stilt spørsmål om nasjonale beredskapsressurser dekker behovet for hele landet. Her var oppfatningen tydeligere på at nasjonale beredskapsressurser i større grad oppleves som en østlandsressurs. Av 1 856 respondenter var 32 prosent «uenig» eller «helt uenig», mens 23,3 prosent var «enig» eller «helt enig» i at nasjonale beredskapsressurser dekker behovet for hele landet, og 22,5 prosent svarte «vet ikke».
+
+For begge spørsmålene ga flere uttrykk i kommentarfeltene for at dekningen i Nordområdene ikke opplevdes som tilfredsstillende. Flere politiledere, og respondenter i utvalgets spørreundersøkelse peker på at Nordområdene i dag har for dårlig beredskapsdekning, men de fleste understreker samtidig at det med nåværende politibudsjetter neppe er realistisk å splitte opp ressursene. Store deler av kystlinjen og Nord-Norge kan være vanskelig tilgjengelig med annet enn helikopter, men værforhold kan uansett gjøre helikopter til et lite egnet fremkomstmiddel. Det er derfor ikke gitt at flere helikopterbaser vil være en ressurseffektiv styrking som garanterer bedre beredskapsevne. Et heldekkende tilbud vil medføre etablering av flere helikopterbaser dersom responsevnen til politihelikopter skal være tilnærmet lik i hele landet.
+
+*<u>Ressursprioritering</u>*
+
+En prinsipiell problemstilling flere reiser, er ressursfordeling ved eventuell samtidighetskonflikt, det vil si at flere kritiske hendelser oppstår parallelt ulike steder i landet, slik at det blir nødvendig å prioritere ressursene. Ifølge politimestrene er det hittil ingen eksempler på slike samtidighetskonflikter av betydning. Politimester i Oslo påpeker at ved samtidighetskonflikter vil ressursene bli prioritert der behovet er størst, og det er ikke gitt at dette er størst i Oslo. Flere andre politimestre peker på at manglende erfaring med samtidighetskonflikter vanskelig kan brukes som argument for at ressursinnsats vil bli riktig balansert når situasjonen inntreffer, særlig med tanke på at nasjonale sikkerhetsvurderinger peker på at fremtidens konfliktbilder er mer sammensatte og hurtige. I en krisesituasjon kan Oslo potensielt organisere sine ressurser på tvers av politiets øvrige behov, det vil si at ressursene kan være i bruk når bistandsanmodning fra andre distrikt blir meldt inn. «Operasjon sommer» i 2014 synliggjorde noe av denne utfordringen med at strategisk viktige små beredskapsressurser skulle utnyttes lokalt samtidig som de sto i nasjonal innsatsberedskap.[^390]
+
+*<u>Responskvalitet</u>*
+
+*Responskvalitet* er et uttrykk for kapasitet, utstyr og samvirke.[^391] Det foreligger ingen tydelige krav til responskvalitet for politiets nasjonale beredskapsressurser, eller for politiet generelt, som gir god styringsinformasjon med tanke på dimensjonering og kapasitet.
+
+Kapasiteten utgjøres i stor grad av mannskapet og dets kompetanse. Det er utvalgets inntrykk at de nasjonale beredskapsressursene har god kompetanse, og at operatørene har god grunnkompetanse, til tross for manglende nasjonale standarder og krav i politiets beredskapssystem (PBS).[^392]
+
+Kompetanseutvikling skjer i hovedsak hos enhetene selv, men også i samarbeid med Politihøgskolen (PHS) og andre utdanningsinstitusjoner. Begrensninger i form av tid, studieplasser og treningsfasiliteter medfører imidlertid at NB i stor grad satser på erfaringsbasert kompetanse. I tillegg innhentes og deles kompetanse internasjonalt gjennom deltakelse i *Atlas* og gjennom bilateralt samarbeid. Dette gjelder alle enhetene innenfor Nasjonale beredskapsressurser.
+
+NB har i liten grad egne treningsfasiliteter, og dette skaper manglende forutsigbarhet i planlegging og gjennomføring av trening og kompetanseheving. Dette blir løst ved at NB benytter muligheter som finnes gjennom avtaler med ulike samarbeidspartnere i politiet og Forsvaret. Det planlagte nasjonale beredskapssenteret vil imidlertid dekke disse behovene dersom det blir vedtatt bygget.[^393]
+
+Gjennom oppdrag bidrar nasjonale beredskapsressurser også til kompetanseoverføring til politidistriktene. Blant politilederne er det bred oppfatning om at dette skjer på en god måte, og blant respondentene i utvalgets spørreundersøkelse er det også en oppfatning av god kompetanseoverføring gjennom bistand der det er gjennomført øvelser. Blant 1 844 respondenter var nesten 20 prosent «enig» eller «helt enig» i at NB bidrar til god kompetanseoverføring, mens 16,1 prosent var «uenig» eller «helt uenig», og 37,8 prosent svarte «vet ikke». I sistnevnte gruppe var mange som ikke har erfaring fra verken politidistriktene eller nasjonale beredskapsressurser og derfor vegret seg for å svare. I kommentarfeltene ga flere av de som var «uenig» eller «helt uenig» uttrykk for at dette først og fremst bunnet i at de savnet flere oppdrag i eget politidistrikt, og dermed flere muligheter for kompetanseoverføring.
+
+Når de nasjonale beredskapsressursene yter bistand til politidistriktene, er kommandostrukturen fastsatt. Dette innebærer at lokal politimester har kommando over alle ressurser fra NB som avgis til oppdraget. Sjef BT blir tildelt taktisk kontroll i forbindelse med oppdragsløsningen, som innebærer midlertidig lokal styring og kontroll over egne og tildelte ressurser til definert oppdrag. Et godt samvirke mellom de nasjonale beredskapsressursene og kapasiteten i politidistriktene forutsetter derfor i særlig grad gjensidig kjennskap til hverandres styrker og svakheter, at NBs metoder er godt kjent blant innsatspersonell og politidistriktets ledere, og at det foreligger klare fullmakter og retningslinjer til politidistriktene. Dette har i noen tilfeller vist seg å være uklart.[^394] De siste årene har vist eksempler der manglende nasjonale krav og visjoner har hatt negativ effekt på innsatsevnen til NB, eksempelvis i forbindelse med Øvelse Tyr (2016) der uklarheter knyttet til operasjonell styring påvirket NBs responsevne.[^395]
+
+1.  **<u>Oppgavel</u><u>ø</u><u>sning og kostnadseffektivitet</u>**
+
+Disponeringsskriv fra POD til Oslo politidistrikt gir i liten grad føringer for Nasjonale beredskapsressurser (NB). Dette kan bidra til uklarheter eller medføre andre prioriteringer som påvirker intern ressursfordeling i Oslo politidistrikt.
+
+1.  **<u>Budsjettstyring</u>**
+
+De nasjonale beredskapsressursene inngår i den generelle rammebevilgningen for Oslo politidistrikt, gitt fra Politidirektoratet. Enheten har derfor ikke eget budsjettkapittel og i liten grad øremerkede midler. Ressurstildelingen er derfor gjenstand for årlige interne prioriteringer i Oslo politidistrikt. Dette har over tid gjort det vanskelig å få gjennomslag for investeringer og vedlikehold, noe som kan ha påvirket beredskapsevnen. Det er videre synliggjort et betydelig etterslep på materiellinvesteringer samt utfordringer med å bygge etter et langsiktig perspektiv.[^396]
+
+Uforutsigbarhet i budsjettdisponeringen over tid har bidratt til manglende langsiktige investeringsplaner og midlertidige løsninger. Dette blir også fastslått i Politidirektoratets konseptvalgutredning for nasjonalt beredskapssenter, der det heter:
+
+<u>«Tilgang til egnet materiell er en viktig forutsetning for oppgaveløsningen. De nasjonale beredskapsressursene har ikke tilgang på det materiellet som trengs for å kunne løse oppgavene optimalt. Materiellstatusen er betegnet som bekymringsfull med tanke på drift, vedlikehold og utskifting. Det mangler langsiktige investeringsplaner og situasjonen er preget av ad hoc-løsninger. Dette må sees i sammenheng med de allerede påpekte utfordringer knyttet til styring og ledelse.»</u>[^397]
+
+Rapporten peker videre på at «\[d\]e nasjonale beredskapsressursene har mangler når det gjelder materiell, herunder teknologi. Det er behov for utarbeidelse og forankring av langsiktige investeringsplaner».[^398] Enheten gir selv uttrykk for behov for mer enhetlig budsjettdialog for å sikre samordnet og forutsigbar kapasitetsutvikling.
+
+I disponeringsskrivet for Oslo politidistrikt 2017[^399] er det riktignok innenfor rammene lagt vekt på økt innsatsevne ved å prioritere investeringer til nødvendig materiell for mobilitet og eventuelle etterslep på kritisk utstyr, men det er samtidig omtalt at POD vil følge opp materiell til nasjonale beredskapsressurser i «egen dialog med Oslo politidistrikt». Samtidig er Oslo politidistrikt bedt om å sette av nødvendige ressurser til å gjennomføre anskaffelsesprosess og klargjøring av mottak av nye politihelikoptre.
+
+1.  **<u>Ressursbruk</u>**
+
+Det blir ikke ført en likeartet systematisk statistikk over politidistriktenes bruk av nasjonale beredskapsressurser. Ressursenes innretning gjør derfor at det er forskjeller i hvordan oppdragene blir registrert. Ifølge tall fra NB viser det seg at for de fleste beredskapsressursene er Oslo politidistrikt største bruker (tabell 12.2).
+
+1.  <u>Bistandsoppdrag Nasjonale beredskapsressurser 2016</u>
+
+|  |  |  |
+|----|----|----|
+| Enhet | <u>Utført bistand Oslo 2016</u> | <u>Øvrige 2016</u> |
+|  |  |  |
+| Beredskapstroppen | <u>82</u> | <u>61</u> |
+| Bombetjenesten | <u>90</u> | <u>81</u> |
+| Krise- og gisselforhandlere | <u>221</u> | <u>27</u> |
+| Helikoptertjenesten | <u>362</u> | <u>723</u> |
+| Den Kongelige Politieskorte | <u>-</u><sup><u>1</u></sup> | <u>-</u><sup><u>1</u></sup> |
+| Teknisk og taktisk spaning | <u>139</u> | <u>135</u> |
+|  |  |  |
+
+<sup><u>1</u></sup><u> Den kongelige politieskorte fører ikke statistikk over bistandsoppdrag på samme måte, men som antall reisedøgn i forbindelse med oppdrag. I 2016 ble det således gjennomført 1435 reisedøgn i forbindelse med innenlandske oppdrag og 687 for utenlandske oppdrag.</u>
+
+<u>Nasjonale bistandsressurser i Oslo</u>
+
+For teknisk og taktisk spaning refererer tallene til antall anmodninger om metodebruk som er utført. Flere av anmodningene vil derfor være i én og samme sak, men dette er fordi mange av sakene er store, omfattende og langvarige. For øvrig er tallene for antall operasjoner der TTS har benyttet metoder, henholdsvis 32 for Oslo og 43 for øvrig bistand.
+
+Kategorien «Øvrige» er betegnelse for alle andre politidistrikter, særorganer og andre offentlige etater.
+
+I tillegg til NBs ordinære bistandsoppdrag kommer ordenssoppdrag i forbindelse med patrulje. Beredskapstroppen utførte i perioden 1. januar 2013–16. juli 2014 3691 oppdrag, hvor 3093 er ordinære oppdrag som kan kategoriseres som ordensrelaterte.[^400] Bevæpningsstatistikken viser at Beredskapstroppen (BT) har om lag 400 bevæpninger i året. Disse er relatert til patruljetjeneste i Oslo og oppdrag knyttet til bistandsfunksjon lokalt og nasjonalt. Nasjonale krise- og gisselforhandlere får også oppdrag i forbindelse med patruljefunksjon i Oslo.[^401]
+
+1.  **<u>Styringslinjer</u>**
+
+Nasjonale beredskapsressurser har siden januar 2016 vært organisert på nivå 2 i Oslo politidistrikt og rapporterer direkte til politimester i Oslo (se fig. 12.1). Både politiledere og politiets nasjonale beredskapsressurser opplever dette som en bedre løsning enn tidligere, da ressursene var plassert på seksjonsnivå. Dette oppgis å gi en mer effektiv styringslinje.
+
+Flere utredninger de seneste årene har imidlertid pekt på at nasjonale beredskapsressursers innsatsevne er preget av manglende nasjonale krav, visjoner og operasjonell styring.[^402] NOU 2014: 12 *Rapport fra 22. juli-kommisjonen* viser til at lokalt nivå i stor grad har fastsatt krav og mål for nasjonale beredskapsressurser, med lite støtte i Politiets beredskapssystem (PBS) for å identifisere konkrete krav som dimensjonerer kapasiteten.[^403]
+
+Enkelte politiledere peker som nevnt på at organiseringen av beredskapsenheten under Oslo politidistrikt byr på prinsipielle utfordringer. Selv om det ennå ikke har skjedd, er det en mulighet for at Oslo politidistrikt kan si nei til bistandsanmodning fordi andre, kanskje lokale oppdrag allerede har lagt beslag på ressursene. Det blir også reist prinsipielle spørsmål om hvilke politiske og administrative føringer som gjelder for beredskapsressursene, i hvilken grad beredskapsressurser er skjermet, og om bevilgninger kan bli avskallet på veien om det ikke er øremerket.
+
+Selv med høyere organisatorisk plassering, peker flere på at Oslo politidistrikt har et meget stort oppgavespenn, og at det historisk har vært vanskelig for beredskapsressursene å få gjennomslag for viktige nasjonale investeringsbehov.
+
+1.  **<u>Andre organiseringsmuligheter</u>**
+
+Som alternativ til dagens integrerte modell er det tidligere foreslått enten etablering av nasjonale beredskap som eget særorgan, integrering i eksisterende særorgan eller en spredning av ressursene med utgangspunkt i dagens integrerte modell.[^404]
+
+1.  **<u>Distriktsmodell</u>**
+
+En distriktsmodell vil innebære å fordele beredskapsressursene på alle politidistriktene og gjennom dette styrke lokal innsatsevne.
+
+De fleste politimestre samt NB ser en slik spredning av beredskapsressursene som uhensiktsmessig, fordi dette ville gi flere små enheter med begrenset effekt, og nødvendig koordinering i mange operasjoner ville bli både vanskelig og lite ressurseffektivt. Dette antas å svekke reell nasjonal spisskompetanse på området, herunder langsiktig beredskapsevne.
+
+1.  **<u>Delt ansvar</u>**
+
+Enkelte politiledere tar til orde for en organisering med eksempelvis to eller tre ulike avdelinger eller regioner. Mot dette mener mange politiledere at spesialistmiljøene er relativt sett små og har behov for å operere sammen på en effektiv måte. Det blir videre hevdet at en oppsplitting av ressursene kan ha negativ innvirkning på responstid og responskvalitet, i tillegg til utfordringer med helhetlig strategisk styring og planlegging. Dette fremkommer også i Politidirektoratets egen rapport.[^405]
+
+1.  **<u>S</u><u>æ</u><u>rorganmodell </u><u>–</u><u> egen bistandsenhet</u>**
+
+Forslag om etablering av eget særorgan ble også fremmet i Politidirektoratets rapport *Konseptvalgutredning. Politiets nasjonale beredskap.* *Når nasjonen kaller* i 2014. Som eget særorgan blir det strategiske ansvaret for nasjonal beredskap foreslått plassert hos sjefen for NB direkte underlagt POD, tilsvarende øvrige særorganer i dag. Sjef for NB vil dermed ha ansvar for å sikre bistand til politidistriktene ved ekstraordinære hendelser og kriser og for å utarbeide dimensjonerende scenarioer og langsiktige mål for nasjonal beredskap. Som rapporten fastslår: «Dette er i tråd med Politianalysen, som uttrykker at en forutsetning for opprettelse av et særorgan er at det tillegges nasjonalt fagansvar knyttet til egne fagområder.»[^406]
+
+En vanlig innvending blant flere politiledere mot å etablere eget særorgan for beredskapsressursene er at Oslo politidistrikt vil miste viktige patruljeressurser, og at BT vil få redusert operativ beredskapstrening. I tillegg hevder særlig Oslo politidistrikt at de vil oppleve et vesentlig kompetansetap, også fordi viktige synergier blir borte. Patruljetjenesten er imidlertid av NB og de fleste politilederne ansett som en viktig operativ del av beredskapstreningen. Ingen brukere eller interessenter har argumentert for en løsning uten patruljetjeneste. Fordelene som blir trukket frem, er at det gir en effektiv ressursbruk når Beredskapstroppen og krise- og gisselforhandlerne ikke er i trening, samtidig som det gir viktig kompetanseoverføring til daglige patruljetjenester. Det er her bred enighet om at hovedbasen bør være i Oslo-området, men flere tar til orde for at en løsning med lokale transitter kan gi viktig kompetanseoverføring og bidra til å styrke lokal beredskapsevne i hele landet. En hovedtilknytning til Oslo politidistrikt er det imidlertid bred enighet om.
+
+Et annet ankepunkt som enkelte politiledere har trukket frem, er at spesialiserte operative ressurser som nasjonale beredskapsressurser bør ha tilgang til etterforsknings- og etterretningsstøtte i mange krisesituasjoner. Særlig blir det pekt på at hendelser som terroranslagene i Paris og Brussel, og de ringvirkningene anslagene hadde i Europa, har vist at hurtigfungerende og høykompetente etterforsknings- og etterretningsenheter kan være avgjørende for å identifisere og lokalisere terrorister i slike situasjoner. Dette antas å være ivaretatt i dagens integrerte modell, og enkelte stiller spørsmål om hvordan dette vil bli løst ved en eventuell utflytting. Samtidig peker flere politiledere på at det er nødvendig for å styrke fremtidig beredskap på flere områder at politiets ulike analysenivåer blir tettere integrert, eksempelvis gjennom bruk av samme systemer. Dette gjelder uavhengig av fremtidig organisering.
+
+Enkelte politiledere mener at en samling av politiets nasjonale beredskapsressurser vil omfatte en styrke på rundt 200 mannskaper, og at dette som utgangspunkt er en for liten enhet til å etablere som eget særorgan. Samtidig peker andre på at det i dag er flere politiorganer med færre ansatte, og at oppgaver og ansvar i større grad bør være styrende for organisatorisk plassering. Det planlagte nye nasjonale beredskapssenteret er også dimensjonert for vekst innenfor fagområdene utover nevnte anslag på 200 mannskaper, i tillegg til at kapasiteten skal gi rom for kompetanseoverføring til politidistriktenes innsatspersonell.
+
+Enkelte politiledere mener at kriseledelse ved etablering av et nasjonalt organ kan bli vanskeligere å koordinere. Det blir pekt på at det i dag er flere døgnkontinuerlige operasjonslignende sentraler, blant annet ved Statsministerens kontor (SMK), Justis- og beredskapsdepartementet, Utenriksdepartementet, POD og PU, som alle har behov for informasjon i en krisesituasjon. Flere peker imidlertid på at bare operasjonssentralen ved Oslo politidistrikt er dimensjonert og trent for oppgradering ved behov. Det blir derfor antydet at den største trusselen mot kriseledelse kan være antall nivåer og rapporteringspunkter, noe som kan ha uheldige konsekvenser for det akutte krisearbeidet. Flere politiledere mener dette er en isolert problemstilling som bør adresseres uansett fremtidig organisering av nasjonale beredskapsressurser.
+
+På den andre siden mener enkelte politiledere at ved å løfte beredskapsressursene til en mer selvstendig organisatorisk enhet kan ressursene isoleres slik at de mer uavkortet blir brukt til tiltenkt formål. I tillegg blir ressursene mer synlige og dermed mer tilgjengelige for flere av landets politidistrikter. I et nasjonalt særorgan vil styringsstrukturen bli mer tydelig med en dedikert ressurs under ledelse av en sjef med politimesterrang som inngår i PODs ledergruppe. Ved å flytte ressursene ut fra OPD vil kostnadene for nasjonale beredskapsressurser bli mer synlige. POD-rapporten *Konseptvalgutredning. Politiets nasjonale beredskap*. *Når nasjonen kaller* argumenterer langs samme linjer:
+
+<u>«Særorgansmodellen sørger for at det nasjonale bistandsansvaret som tilligger NB speiles av en nasjonal organisering, der styringsdialogen skjer direkte mellom POD og Sjef NB.» «Direktestyringsdialog er en forutsetning for å kunne utlede et ambisjonsnivå fra strategisk nivå og ikke bare gjennom såkalte ‘bottom-up-prosesser’. Denne modellen kan bedre ivareta oppgaver innen strategi og utvikling for hele politiet.»</u>[^407]
+
+Andre politiledere mener imidlertid at budsjettsituasjonen ikke kan være et ankepunkt. De hevder her at ansvaret for å øremerke midler til nødvendige investeringer i nasjonale beredskapsressurser først og fremst hviler på POD, og at dette ikke kan lastes Oslo politidistrikt. I tillegg mener flere at en eventuell utflytting erfaringsmessig vil være kostnadsdrivende. På den andre siden mener flertallet at det er viktig å synliggjøre kostnaden med politiets nasjonale beredskapsressurser. Da er det også lettere å reise en prinsippdiskusjon om hvilken beredskap som er nødvendig å prioritere, samt å sikre nødvendige midler til å styrke innsatsevnen.
+
+Det er ulike oppfatninger av hvilke nasjonale beredskapsressurser som bør inngå i et eventuelt eget organ. Teknisk og taktisk spaning (TTS) og Undercover (UC) har en sentral rolle i mange av politiets beredskapsoppdrag og besitter metoder øvrige NB-ressurser bruker for å løse egne oppdrag. Flere politiledere samt andre interessenter, herunder personellorganisasjoner peker imidlertid på at TTS og UC skiller seg noe fra de øvrige nasjonale beredskapsressursene i at oppdragene i hovedsak omfatter skjult etterforskning og er mer integrert i mange andre operasjoner både ved Oslo og andre politidistrikt. UC er heller ikke en ressurs ved akutt beredskap.
+
+Ettersom det er definert behov for TTS- og UC-metoder både under beredskap og etterforskning, kan det være nødvendig med en annen struktur enn for øvrige bistandsressurser. Fortsatt tilknytning til Oslo fremstår som mer hensiktsmessig fordi disse begrensede ressursene i det daglige følger etterforskningssporet som største bruker, og det er stort behov for nærhet til påtale og etterforskere for å utvikle fag og metoder, noe som dekkes i Oslo politidistrikt. Det er derfor gode grunner til at TTS og UC bør forbli organisert i Oslo politidistrikt. Dette er også i tråd med grunnprinsippene i Etterforskningsløftet.[^408]
+
+I tillegg peker flere på at den kongelige livvakttjenesten (DKP) fortsatt bør være del av Oslo politidistrikt, eventuelt vurderes sammenslått med PSTs livvakttjeneste for mer optimal utnyttelse av en felles tjeneste. Begrunnelsen er også knyttet til utfordringer med tilgang til et robust døgnkontinuerlig etterretningselement. Det er stor enighet om at en sammenslåing av de to tjenestene vil gi en bedre utnyttelse av landets IP2-kompetanse og at tjenestene da vil dra nytte av felles etterretning.
+
+Enkelte politiledere samt andre interessenter, herunder noen av personellorganisasjonene, fremhever UPs bistandskapasitet som en ressurs det vil være fornuftig å se i sammenheng med nasjonale beredskapsressurser ved en eventuell utflytting fra Oslo politidistrikt. Som flere fremhever, er UP på mange måter en nasjonal ressurs som er fleksibel og lett kan forflyttes til andre deler av landet ved behov. Slik er UP innenfor de fleste områder en bistandsressurs med lav responstid og høy mobilitet. I tillegg er Politireserven underlagt UP og kan ved behov være en nyttig forsterkningsressurs på avgrensede områder.
+
+Det er delte meninger til en eventuell sammenslåing av UP og Nasjonale beredskapsressurser. Flere hevder at det er for store forskjeller i både kompetanse og beredskapstrening mellom UPs IP4-mannskaper og Beredskapstroppens IP1-mannskaper, og at dette kommer til uttrykk i den interne organiseringen. Spennet mellom krevende og spesialiserte oppdrag Nasjonale beredskapsressurser i dag utfører og de enkeltstående oppdragene UP har bidratt i, blant annet på Storskog i 2015 og Utøya i 2011, viser tydelig denne forskjellen. Når NB bistår politidistriktene, er ikke UP en naturlig direkte samarbeidspartner slik som politidistriktenes innsatspersonell. Når det gjelder Politireserven, blir det påpekt at denne sjelden blir brukt og har få treningssamlinger.
+
+Samtidig peker enkelte politiledere på at dersom trafikkpolitidelen av UP blir overført til politidistriktene, kan det være nærliggende å omdefinere UP til et rent politiorgan for nasjonale beredskapsressurser.
+
+I utvalgets spørreundersøkelse rettet mot alle ansatte i politietaten ble det stilt spørsmål om nasjonale beredskapsressurser bør organiseres som egen enhet. Blant 1855 respondenter svarte 37,6 prosent «enig» eller «helt enig», mens 14,2 prosent svarte «uenig» eller «helt uenig», og 27,7 prosent svarte «vet ikke». Dette kan tyde på at selv om flere opplever at det skjer for lite trening og kompetanseoverføring i politidistriktene kan det være en forventning om at organisering som egen enhet kan gi bedre grunnlag for en mer tilgjengelig nasjonal ressurs.
+
+Argumentene til støtte for etablering av en egen selvstendig enhet er i første rekke prinsipielle og handler i mindre grad om hvorvidt dagens ordning er velfungerende eller ikke. Som flere politiledere påpeker, reiser problemstillingen grunnleggende spørsmål om hva et særorgan er, og hvilke ressurser som skal ligge på nasjonalt nivå. Etter deres mening bør ikke organiseringen legge til rette for mulige konflikter mellom lokalt og nasjonalt nivå. Samtidig kan det være vanskelig for politimester i Oslo politidistrikt å vurdere nasjonale perspektiv og behov fullt ut. Ved å løfte enheten ut som en egen enhet vil slike mulige spenninger mellom lokalt og nasjonalt nivå bli redusert.
+
+1.  **<u>Nasjonalt beredskapssenter</u>**

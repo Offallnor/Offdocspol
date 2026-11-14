@@ -1,1004 +1,409 @@
-# NOU 2017: 9, del 6 av 25 (side 64–74)
+# NOU 2017: 9, del 6 av 24
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2017/8bd6d95e-nou-2017-9.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2017-9/id2545750/
 - Original-PDF: https://www.regjeringen.no/contentassets/1a1e793002264d9cb5b940e673622984/no/pdfs/nou201720170009000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 15 tabeller, 42 figurer, 158 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 64]
-
-64
-
-Kapittel 5
-
-5.5.3
-
-NOU 2017: 9
-Politi og bevæpning
-
-Våpeninstruksen i et kritisk søkelys – er
-hjemmelsgrunnlaget godt nok?
-
-Våpeninstruksen inneholder bestemmelser som
-både etter sin art og pga. detaljeringsnivå, egner
-seg dårlig for formell lov. Bestemmelsene som
-angir vilkårene for bruk av skytevåpen, gassvåpen
-og sprengvåpen begrenser seg dog til tre paragrafer i instruksen (§§4-3, 4-4 og 4-5). Disse bestemmelsene kunne uten større problemer vært tatt
-inn i politiloven, slik det eksempelvis er gjort i den
-danske politiloven § 17. Det er dessuten fra juristhold uttalt det fremstår noe underlig at det åpenbart mindre inngripende middel «visitasjon for å
-avdekke våpen» er forholdsvis detaljert regulert i
-politiloven § 7 a, mens politiets bruk av skytevåpen ikke engang er nevnt i kapittelet om utførelse
-av polititjenesten, men kun regulert i en intern tjenesteinstruks med en rent formell hjemmel i politiloven § 29. Også de konstitusjonelle og menneskerettslige krav, jf. EMK art. 2, som er knyttet til
-politiets bruk av de kraftigste maktmidler, kan gi
-grunnlag for diskusjoner om forankringens kvaliteter.
-I en demokratisk rettsstat kan ikke politiet
-uten hjemmel sette seg utover adferdsnormer
-som er forbudt etter straffeloven. Skal politiet ha
-anledning til å true med eller gjøre bruk av skytevåpen for å tvinge igjennom sine beslutninger, må
-det foreligge et særskilt hjemmelsgrunnlag (lex
-specialis) med tilstrekkelig trinnhøyde. Som det
-fremgår, har ikke våpeninstruksen noen materiell
-hjemmel i politiloven, men kun en formell hjemmel i § 29 som først og fremst regulerer hvem
-som skal gi forskjellige typer instrukser. Fraværet
-av materiell hjemmel i lov, innebærer at instruksen ikke har tilstrekkelig trinnhøyde til alene å
-tjene som lex specialis overfor straffelovens
-bestemmelser om f.eks. kroppskrenkelser og
-trusler. Formelt er det politiloven § 6 fjerde ledd
-om at makt kan anvendes «i den utstrekning det
-er nødvendig eller forsvarlig» som er avgjørende
-for om trussel med og bruk av våpen er en rettmessig tjenestehandling. Noen ideell ivaretakelse
-av blant annet informasjonshensynet bak legalitetsprinsippet er dette neppe, og den svake forankringen av våpeninstruksen antas i gitte sammenhenger å kunne få visse implikasjoner.
-Etter en grundig drøftelse av forankringsproblematikken konkluderer professor Tor-Geir
-Myhrer i sin bok Våpeninstruks for politiet – kommentarutgave med at både det nasjonale legalitetsprinsippet og lovkravet i EMK art. 2 utvilsomt er
-oppfylt. Han er samtidig av den oppfatning at både
-tilgjengeligheten til informasjon for allmenheten,
-
-samt den demokratiske kontrollen med politiets
-adgang til å bruke de skarpeste maktmidler, ville
-styrke seg på at de sentrale kriterier for bruk av
-politiets våpen også var inntatt i politiloven.
-
-5.5.3.1
-
-Er våpeninstruksen tilstrekkelig utfyllende
-og presis?
-Spørsmålet som reises innbefatter også spørsmålet om våpeninstruksen gir tilstrekkelig veiledning på alle aktuelle tjenestenivåer, og i hvilken
-grad den er tilpasset en situasjon med henholdsvis midlertidig og permanent bevæpning.
-For samtlige spørsmåls vedkommende tas det
-utgangspunkt i det faktum at gjeldende våpeninstruks av 2. juli 2015 trådte i kraft så sent som 1.
-april 2016. Innstillingen som lå til grunn ble avgitt
-13. september 2013. Dette innebærer at den er
-basert på relativ fersk kunnskap om så vel organisasjonsutviklingen internt i politiet som den generelle samfunns- og kriminalitetsutviklingen. Det
-skal likevel bemerkes at innstillingen kom før den
-endelige fastsettelsen av struktur som del av Nærpolitireformen, og før situasjonen som førte til
-midlertidig bevæpning i tidsrommet 25. november 2014 til 3. februar 2016.
-Generelt anses våpeninstruksen å gi god veiledning på alle aktuelle tjenestenivåer, fra den
-enkelte tjenesteperson til Politidirektoratet, og for
-de praktiske formåls vedkommende, på alle stadier i en bevæpningssituasjon. Eventuelle uklarheter som måtte oppstå vil først og fremst være av
-en slik karakter at de kan og bør elimineres gjennom utfyllende bestemmelser gitt i medhold av
-instruksen.
-Selv om instruksen ikke gjaldt under perioden
-med midlertidig bevæpning, har § 3-2 tredje ledd
-en bestemmelse om «midlertidig» bevæpning
-som etter instruksendring 11. februar 2015, riktignok med en utvidelse til også å gjelde tohåndsvåpen, var en videreføring av våpeninstruksen 1989
-§ 10. Foruten å hjemle perioder med generell,
-midlertidig bevæpning, anses instruksen i sin
-nåværende form også å være et tjenlig verktøy
-hva gjelder våpenbruken i slike perioder. Et spørsmål som reiser seg, men som ikke forsøkes
-besvart her, er hvor varig og generell beslutning
-om bevæpning politimesteren kan treffe etter første ledd bokstav b), og hva som krever beslutning
-fra Politidirektoratet med samtykke fra Justis- og
-beredskapsdepartementet etter tredje ledd (se
-Myhrer, 2016, s. 92).
-Et ytterligere spørsmål er hvordan våpeninstruksen vil stå seg dersom man tenker seg en
-ordning med generell, permanent bevæpning. For
-
-[Side 65]
-
-65
-
-NOU 2017: 9
-Politi og bevæpning
-
-det første er det hevet over tvil at bevæpning i den
-daglige tjenesten etter § 3-2 tredje ledd ikke hjemler en varig bevæpning av norsk politi. Etter endringen i politiloven § 29 første ledd tredje punktum, sanksjonert 27. januar 2017, er det nå uttrykkelig fastslått at en eventuell innføring av permanent bevæpning krever lovendring. Dernest ville
-en slik endring representere et så markant brudd
-med dagens ordning at den også utover selve
-hjemmelsspørsmålet ville utløse behov for regelendringer, eksempelvis i § 3-3.
-
-5.5.3.2 Samlet vurdering av våpeninstruksen
-Samlet sett oppfattes våpeninstruksen å være et
-oppdatert og tjenlig verktøy tilpasset dagens
-bevæpningsordning. Den anses således å gi det
-handlingsrommet en effektiv og målrettet polititjeneste krever. Likeledes vil den på en god måte
-tjene sitt formål i eventuelle perioder med generell, midlertidig bevæpning. Ønskes en overgang
-til generell, permanent bevæpning, vil dette fordre
-lovendring og for øvrig endringer av regelverket
-utover de som knytter seg til selve hjemmelsgrunnlaget.
-Når det gjelder våpeninstruksens rettslige forankring, tilsier både hensynet til tilgjengeligheten
-til informasjon for allmenheten og den demokratiske kontrollen med politiets adgang til å bruke
-våpen at de sentrale kriteriene for bruk tas inn i
-politiloven. Se kapittel 9 for utvalgets anbefaling til
-lovforankring.
-I det følgende gis det en nærmere beskrivelse
-av hva fremskutt lagring med skytevåpen innebærer i praksis. Det vises også til kort historikk
-om ordningen og det gis deretter en fremstilling
-av hvordan ordningen fungerer i dag.
-5.5.4 Fremskutt lagring av skytevåpen
-Dagens bevæpningsordning innebærer fremskutt
-lagring av skytevåpen i tjenestekjøretøy. I disse
-kjøretøyene medbringes det skytevåpen som kan
-tas frem når det gis beslutning om bevæpning.
-Våpeninstruksens § 3-1 bestemmer at bare tjenestepersoner med gyldig godkjenning kan bevæpnes, noe som er utgangspunktet for denne delen
-av redegjørelsen. Redegjørelsen må sees i sammenheng med vedlegg 2 som gir en nærmere
-beskrivelse av våpeninstruksens hva gjelder
-bevæpning, bruk og rapportering med videre. I
-denne delen av utredningen beskrives dagens
-ordning med fremskutt lagring av skytevåpen og
-politiets fremgangsmåte ved bevæpning. Utvalget
-baserer sin beskrivelse på offentlige kilder.
-
-5.5.4.1
-
-Kapittel 5
-
-Historikk om fremskutt lagring av
-skytevåpen
-
-Som det er redegjort for i kapittel 4, har fremskutt
-lagring av skytevåpen i politiets kjøretøy vært
-praktisert etter at våpeninstruksen av 1974 ble
-endret. Det var Justisdepartementets endringer
-av våpeninstruksen (1989) § 5 og Politidirektoratets direktiver som førte til at de fleste patruljebilene normalt fikk fremskutt lagring av en- og
-tohåndsvåpen. Den tidligere ordningen innebar at
-politiet, i de aller fleste tilfeller, måtte kjøre til politistasjon eller lensmannskontor for å hente ut skytevåpen når det var behov (Myhrer, 2005, s. 28–
-29).
-Etter § 5 i våpeninstruksen av 1989 kunne politimester «i samsvar med generelle retningslinjer
-gitt av Justisdepartementet gi tillatelse til at skytevåpen med ammunisjon kunne medbringes i bilpatrulje i forseglet, låst og godkjent veske eller
-skrin». Myhrer beskriver at instruksens § 5 første
-ledd opprinnelig bare ga adgang til å beslutte
-fremskutt lagring for enhånds skytevåpen, som
-frem til 2008 var revolver. Justisdepartementet
-bestemte videre, gjennom rundskriv av 1. august
-1989, at adgangen til fremskutt lagring av skytevåpen bare kunne benyttes ved faste organiserte bilpatruljer som mottok sine tjenesteoppdrag underveis.
-Politidirektoratet oppfordret ved en utfyllende
-instruks av 6. mars 2003 politimestrene til å
-beslutte fremskutt lagring, i byer/tettsteder med
-høyt kriminalitetsnivå, i områder med organisert
-og/eller grenseoverskridende kriminalitet eller i
-områder med lange utrykningsavstander. Politidirektoratet ga imidlertid ikke politimestrene pålegg
-om å treffe beslutning om fremskutt lagring
-(Myhrer, 2005, s. 45). Myhrer presiserer at fremskutt lagring ikke betyr at patruljebilen har
-våpenskrin som fast utstyr, men at det er det
-mannskapet som bemanner kjøretøyet, som på
-bakgrunn av en generell tjenesteinstruks, har fått
-tillatelse til å medbringe våpen i en fremskutt lagringsposisjon, under forutsetning av at de har
-nødvendig opplæring og godkjenning.
-Frem til 25. oktober 2004 lød våpeninstruksen
-(av 1989) § 5, siste punktum at «spesielle enheter
-kan også medbringe andre våpentyper etter særlig samtykke fra departementet». Bestemmelsen
-ble benyttet for å gi Beredskapstroppen i Oslo
-politidistrikt adgang til å ta med tohåndsvåpen
-(MP5) i patrulje, og fordi politiet blant annet opplevde å stå overfor relativt tungt bevæpnede og
-organiserte kriminelle. Det ble derfor ytret ønske
-fra flere politidistrikter om en mer generell
-
-[Side 66]
-
-66
-
-NOU 2017: 9
-
-Kapittel 5
-
-Politi og bevæpning
-
-adgang til å beslutte fremskutt lagring av tohåndsvåpen. Den 25. oktober 2004 ble våpeninstruksen
-§ 5, første ledd siste punktum endret til:
-Utvalgte utrykningskjøretøyer kan også medbringe andre våpentyper etter retningslinjer
-gitt av Politidirektoratet». I følge Myhrer åpnet
-ikke denne endringen for en generell rett til å
-medbringe tohåndsvåpen i alle patruljebiler.
-Det skulle være utvalgte kjøretøyer, og «av retningslinjene fra Politidirektoratet av 19. november 2004 følger at slik framskutt lagring primært skal finne sted hos patruljer som kan ventes å bli eksponert for den risiko som
-begrunner endringen». Videre at det pekes på,
-at det sentralt i risikovurderingen vil være distriktets kriminalitetssituasjon og avstander,
-som vil si tid som medgår for å hente tohåndsvåpen. Myhrer skriver at det i forhold til tidligere regulering så bestod denne endringen
-først og fremst at fremskutt lagring av tohåndsvåpen ikke lenger var begrenset til såkalte
-«spesielle enheter» (Myhrer, 2005, s. 28–29).
-
-5.5.4.2
-
-Dagens ordning med fremskutt lagring av
-skytevåpen
-Våpeninstruksen av 2016 (§ 2-2) regulerer at skytevåpen kan medbringes og oppbevares i motoriserte patruljer i samsvar med sikkerhetskrav fastsatt av Politidirektoratet. Med motoriserte patruljer menes også motorsykkelpatruljer, snøscooter
-og helikopter som kan medbringe skytevåpen,
-under forutsetning om at det er etablert mulighet
-for fremskutt lagring. I praksis vil dette blant
-annet si at kjøretøy som skal oppbevare våpen og
-ammunisjon må oppfylle noen tekniske krav, det
-må herunder blant annet være fastmontert en
-låsbar kasse og kjøretøyet må ha FG-godkjent
-alarm (Politidirektoratets rundskriv 2016/004). I
-samme bestemmelse står det videre at bilpatruljer
-som styres av eller rapporterer til distriktets operasjonssentral skal medbringe skytevåpen, med
-mindre særlige forhold tilsier en annen ordning.
-Båtpatruljer skal medbringe skytevåpen etter retningslinjer fastsatt av Politidirektoratet.
-Skytevåpen er i denne forbindelse både en- og
-tohånds skytevåpen og definisjonen er regulert i
-våpeninstruksen av 2016 § 1-5. Det er med andre
-ord ingen krav til at alle motoriserte patruljer som
-tilhører et politidistrikt skal medbringe skytevåpen, men det kreves for de patruljebilene som svarer for distriktets operasjonssentral.
-I samme bestemmelse (§ 2-2) sier våpeninstruksen at «ammunisjon skal oppbevares under
-
-forsvarlig tilsyn og kontroll, i samsvar med retningslinjer gitt av politidirektoratet». Inntil to
-magasiner for enhåndsvåpen kan bæres i beltet.
-Bevæpnet personell skal normalt være uniformert og skytevåpen skal bæres synlig, med mindre tjenestens art eller situasjonen tilsier noe
-annet (våpeninstruksen § 3-1(2)).
-Når bevæpningsbeslutning er gitt av overordnet, eller der hvor tjenestepersonene bevæpner
-seg selv,11 låses skrinet opp. Tjenestepersonene
-lader våpnene, og hylsteret med våpenet monteres i beltet. Tjenestepersonene regnes for bevæpnet når de har fjernet våpenet fra den ordinære
-eller fremskutte lagringen, uavhengig av om våpenet lades eller ammunisjon medbringes. Dette
-kan gjøres etter at bevæpningsbeslutning er gitt
-eller når vilkårene for egenbevæpning er oppfylt.
-
-5.5.4.3
-
-Lading og tømming av enhåndsvåpen
-
-Politiet har fastlagte prosedyrer for lading og tømming av sine skytevåpen. Dette er prosedyrer som
-gjøres kjent for personellet i den grunnleggende
-våpentreningen ved Politihøgskolen og som repeteres gjennom den årlige treningen for innsatspersonell i kategori 3 og 4. Dersom polititjenestepersonene følger disse prosedyrene, vil det være
-umulig å avfyre våpenet utilsiktet (vådeskudd). I
-politiets godkjenningsprøver for skytevåpen er
-innledende øvelse blant annet en lade- og tømmeprosedyre. I den første delen av godkjenningsprøvene er det blant annet et krav til at riktige håndgrep og prosedyrer for lading av tjenestevåpen
-skal utføres korrekt (Politihøgskolen, 2016).
-Politidistriktene har nedspenningskasser der
-kontrollerte nedspenninger av våpen skal gjøres.
-Disse er konstruert for å ta imot et eventuelt prosjektil ved at energien fra kula absorberes og stanser, samt at eventuelle splintfragmenter fra anslag
-fra prosjektilet fanges opp og forblir i nedspenningskassen. Disse er plassert på de fleste av politiets lokasjoner. Avtrekk i nedspenningskassen/
-mot sikker bakgrunn er siste barriere for å hindre
-skadefølge dersom et skudd utilsiktet skulle bli
-avfyrt. Likevel vil en slik avfyring være et resultat
-av feil utførte rutiner og brudd på sikkerhetsbestemmelsene for bruk av våpen. Rutinen har så
-langt vært at saker der det utilsiktet har blitt
-avfyrt skudd i nedspenningskasser, håndteres av
-politidistriktet som en uønsket hendelse.
-
-11
-
-Polititjenestepersoner har adgang til å bevæpne seg selv i
-akutte situasjoner som beskrevet i våpeninstruksen § 3-3
-(1) c). Det vises til nærmere redegjørelse i vedlegg 2.
-
-[Side 67]
-
-NOU 2017: 9
-Politi og bevæpning
-
-Generelt beskrevet er rutinene for tømming av
-pistol at tjenestepersonen skal fjerne magasinet
-fra våpenet, dra sleiden på pistolen tilbake, deretter visuelt sjekke både kammer og magasinbrønn
-på våpenet før sleiden slippes frem. Deretter skal
-det gjennomføres en såkalt press-sjekk, der tjenestepersonen igjen ser om det er patron i kammer, før det tas et kontrollert avtrekk i nedspenningskassen. Der det er praktisk mulig vil denne
-kontrollerte nedspenningen skje med annen tjenesteperson tilstede slik at det blir en ekstra visuell kontroll av våpen og våpenbehandlingsrutinene. På denne måten skal sikkerheten ivaretas.
-Deretter skal våpenet plasseres tilbake i sikkerhetshylsteret mens tjenestepersonen har tommelen på pistolens hane. Til slutt lukkes sikkerhetsklaffen på hylsteret.
-I noen tilfeller vil ikke tjenestepersonene ha
-anledning til å dra tilbake til tjenestestedet og
-tømme våpenet etter et bevæpnet oppdrag. I slike
-tilfeller kan tømming av våpen foregå ute i det
-offentlige rom, for eksempel i nærheten av patruljekjøretøyet. Dersom tjenestepersonen gjennomfører korrekt tømmeprosedyre, skal det ikke være
-mulig å avfyre våpenet utilsiktet. Den sikkerheten
-som korrekt utført tømmeprosedyre gir, betinges
-av at tjenestepersonene følger prosedyrene. Ikke
-på noe tidspunkt kan prosedyren avvikes eller
-rekkefølge på håndgrepene endres. Der nevnte
-prosedyrer ikke har blitt fulgt, og utilsiktede avfyringer skjer utenfor nedspenningskasse, kan det
-være tilfeldigheter som avgjør om det oppstår
-skade som følge av avfyringen (se kapittel 7 for
-beskrivelse av hendelser under perioden med
-midlertidig bevæpning). Slike saker skal meldes
-til Politidirektoratet og til Spesialenheten for politisaker, både for å avdekke hvorvidt tjenestepersonen har opptrådt uaktsomt og/eller straffbart,
-men også for å sikre læring.
-
-5.6
-
-Politiets bevæpnede
-oppdragsløsning
-
-Politiinstruksen § 3-1, femte ledd, angir retningslinjer for hvordan polititjeneste utføres. Det fastslås der at politiet skal innrette virksomheten sin
-på en mest mulig effektiv måte, på alle nivå.
-Denne grunnsetningen er gjenkjennbar i politiets
-taktiske prosedyrer, der det angis at politiet skal
-løse oppdrag sikkert og effektivt, men at effektivitet ikke skal gå på bekostning av sikkerhet.
-Retningslinjer for politiets beredskap (PBS I)
-gir en overordnet angivelse av hvordan politiet
-skal utføre sine oppdrag (Politidirektoratet, 2011).
-
-67
-
-Kapittel 5
-
-Boks 5.1 Politiinstruksen § 3-1, 5. ledd
-Det er en alminnelig plikt å besørge tjenesten
-organisert og utført så effektivt og målrettet
-som mulig innenfor de angitte rettslige og ressursmessige rammer.
-Kilde: Politiinstruksen, 1990
-
-Innenfor det sivile beredskapsapparatet er politiets ansvar og oppgaver primært hjemlet i politiloven.
-Politiet vil ofte samarbeide med andre, både
-offentlige virksomheter og private aktører. Dette
-kan også skje i forbindelse med hendelser der
-politiet opptrer bevæpnet.
-
-5.6.1 Faser i oppdragsløsningen
-Til grunn for politiets sikkerhets- og beredskapsarbeid ligger prinsipper om ansvar, likhet, nærhet
-og samvirke. Ansvarsprinsippet innebærer at den
-som har ansvar for et fagområde i normalsituasjon
-også har ansvar for håndtering av ekstraordinære
-hendelser og kriser. Likhetsprinsippet innebærer
-organiseringen under ekstraordinære hendelser
-eller kriser skal være lik den som blir benyttet at
-den daglige. Basert på nærhetsprinsippet skal
-nevnte hendelser ivaretas på organisatorisk lavest
-mulig nivå. Samvirkeprinsippet stiller krav til at
-myndighet, virksomhet eller etat har et selvstendig ansvar for å sikre et best mulig samvirke med
-relevante aktører og virksomheter i arbeidet med
-forebygging, beredskap og krisehåndtering
-(Meld. St. 13 (2015–2016), s. 6).
-Uavhengig av hendelsestype, vil håndteringen
-av en hendelse normalt følge de samme typer
-faser. Figur 5.9 viser faser i dette arbeidet. Det vil
-være en glidende overgang mellom de tre fasene;
-forberedelsesfasen, gjennomføringsfasen og etterarbeidsfasen.
-Forberedelsesfasen innebærer planlegging,
-trening og øvelser. I denne fasen skal politiet forberede seg så godt som mulig. Når en akutt hendelse oppstår kan denne fasen helt eller delvis
-falle bort.
-Gjennomføringsfasen består av tre delfaser; en
-meldingsfase, en aksjonsfase og en nedtrappingsfase. Det kan være nødvendig å gjøre etterforsking parallelt med, eller som en del av, gjennomføringsfasen. Dette krever god kompetanse av
-generalisten, som i en akuttfase må sikre viktige
-
-[Side 68]
-
-68
-
-NOU 2017: 9
-
-Kapittel 5
-
-Politi og bevæpning
-
-Aksjonsfase
-
-fas
-
-Me
-
-ngs
-
-ldin
-
-i
-app
-
-gsf
-
-dtr
-
-ase
-
-Ne
-
-Innsats
-
-e
-
-Forberedelsesfase
-
-Gjennomføringsfase
-
-Etterarbeidsfase
-
-Etterforsking
-
-Figur 5.9 Faser i arbeidet
-Kilde: Politidirektoratet, 2011
-
-spor og foreta andre etterforskingsskritt. Etterarbeidsfasen skal brukes til å sikre overgang til normalsituasjon, gjennom etterarbeid og ulike former
-for oppfølging (Politidirektoratet, 2011).
-
-5.6.2
-
-Generelt om politioperasjoner ogaksjoner
-Politiet kan bli kjent med og få initiert et oppdrag
-på flere måter. Det kan skje som følge av et publikumsinitiativ hvor noen fra publikum kontakter
-politiet via operasjonssentralen, eller ved henvendelse til en politipatrulje. Det kan også skje ved at
-politiet selv initierer et oppdrag på bakgrunn av
-noe de observerer eller på annen måte får kunnskap om.
-Når publikum kontakter operasjonssentralen
-blir innholdet i meldingen vurdert. Dersom den
-vurderes som relevant for politiet, blir det loggført
-et oppdrag i politioperativt system (PO). I denne
-loggen skrives relevant informasjon inn, og oppdraget vurderes og gis en prioritet basert på alvorlighet og hastegrad. Denne prosessen krever at
-personell ved operasjonssentralen kan vurdere
-tidskritisk informasjon som ivaretar mannskapenes sikkerhet og sikrer optimal tjenesteutførelse
-og ivaretakelse av publikums trygghet (Politidirektoratet, 2013).
-PBS I og II skiller mellom; akutte/planlagte
-hendelser og øyeblikkelig aksjon/forberedt
-
-aksjon.12 Ved akutte hendelser vil det være liten
-tid til planlegging. Innsatsleders planlegging starter likevel umiddelbart, og som regel i samråd
-med operasjonsleder. Dersom det er mulig skal
-situasjonen fryses, slik at politiet kan organisere
-seg hensiktsmessig og planlegge videre fremdrift.
-I mange tilfeller vil de første politipatruljene
-være på vei mot hendelsen før operatøren har
-avsluttet samtalen med personen som ringte inn
-og varslet. Samtidig som én operatør kan innhente
-opplysninger fra en innringer, kan en annen operatør videreformidle de samme opplysningene til
-patruljene. Når operasjonssentralen har innhentet
-opplysninger, vurdert og kvalitetssikret disse, settes det én eller flere patruljer på oppdraget.
-Patruljene kan følge oppdragene som operasjonssentralen loggfører i PO via iPad i tjenestebilene.
-De fleste politioppdrag, som publikumskontakt, serviceoppdrag og andre ordinære gjøremål,
-innebærer som regel ingen forhøyet beredskap
-fra politipersonellet. Når det kreves av politiet, vil
-det foregå et taktskifte, fra lav til høy beredskap.
-Dette innebærer mental og fysisk omstilling hos
-politipersonellet, både inne på operasjonssentra12
-
-Øyeblikkelig aksjon tilsvarer akutt hendelse/oppdrag.
-Denne initieres av politiets motpart sine handlinger og krever at politiet responderer raskest mulig for å normalisere
-situasjonen. Forberedt aksjon tilsvarer planlagt hendelse/
-oppdrag. I dette tilfellet er det politiet som legger premissene for iverksettelse av tiltak.
-
-[Side 69]
-
-NOU 2017: 9
-Politi og bevæpning
-
-Boks 5.2 Begreper i forbindelse med
-politiets væpnede innsats
-Politioperasjon
-Innsats av politistyrker i større enhet. Flere
-politiaksjoner som hver for seg er deler av en
-innsats i en ekstraordinær hendelse eller
-krise, vil samlet utgjøre en politioperasjon.
-Politiaksjon
-Innsats på lavere nivå med mindre ressurser
-rettet mot et etablert lovstridig miljø. En politiaksjon kan være en del av en operasjon.
-Flere aksjoner kan gjennomføres samtidig og
-sammenlagt ha en stor dimensjon uten å være
-en operasjon.
-Polititaktikk
-Fremgangsmåte som benyttes for å organisere og disponere polititjenestepersoner
-under aksjoner og operasjoner.
-Enhetlig polititaktikk
-En felles taktikk som alle jobber ut fra.
-Hensiktsmessig polititaktikk
-Den antatt beste måten å løse oppdraget på
-per i dag
-Kilde: Politidirektoratet, 2008, s. 10
-
-len og ute i patruljekjøretøyene. Et slikt taktskifte
-vil kunne foregå svært raskt. Det er samtidig viktig å ivareta kravet til kvalitetssikring av innsatsen. Dette gjøres ved at hendelsens prioritet, farlighet og risiko, samt behovet for mannskap,
-utstyr og eventuelle støttefunksjoner, avklares
-raskt.
-
-5.6.2.1
-
-Operasjons- og innsatsleders vurderinger
-ved bevæpnede oppdrag
-
-Når operasjonssentralen får melding om en hendelse, hvor bevæpning kan bli aktuelt, vil operasjonsleder vurdere de opplysningene som er innhentet før det eventuelt foretas en bevæpningsbeslutning. Deretter involveres innsatsleder. Dette
-
-69
-
-Kapittel 5
-
-Boks 5.3 Momentliste i forbindelse med
-akutte og planlagte hendelser
-PBS I trekker frem følgende momentliste for
-innsatsleders planlegging i forbindelse med
-akutte og planlagte hendelser.:
-– Situasjonsvurdering
-– Kommunikasjon med operasjonsleder
-– Vurdering av muligheter og anbefaling til
-operasjonelt nivå
-– Befaring (hvis mulig)
-– Planlegging
-– Ordregiving
-Kilde: Politidirektoratet, 2011, s. 148
-
-skjer som regel tidlig, og ofte før øvrige patruljer
-eventuelt får oppdraget.
-Avhengig av hendelsens innhold vil operasjonssentralen ha en ledende, koordinerende og/
-eller støttende rolle i innsatsen. Operasjonsleder
-og innsatsleder vil samarbeide om oppgaveløsningen, og de vil også inkludere andre relevante aktører som for eksempel helsevesen og brannvesen.
-Innsatsleders oppgave er å planlegge og å
-gjennomføre oppdraget sammen med operasjonsleder, eventuelle delledere og øvrig innsatspersonell. I de tilfellene hvor politiet har tid og anledning til å planlegge et bevæpnet oppdrag, vil operasjonsleder og innsatsleder møtes, eventuelt
-sammen med andre som besitter viktig informasjon PBS I forutsetter at operasjonsleder har nær
-kontakt med påtalejurist om juridiske spørsmål, så
-vel som med etterforskingsledelse og kriminaletterrettere om straffesaks- og etterforskingsspørsmål. Disse funksjonene skal samarbeide tett.
-En vesentlig andel av de skarpe oppdragene
-løses av politiet, innenfor rammene av den normale organiseringen, og uten involvering av
-stabsnivå eller spesielle samarbeidspartnere,
-utover helsevesenet, ofte ambulansepersonell, og
-i noen tilfeller brannvesenet.
-
-5.6.2.2 Situasjons- og risikovurdering
-Ved løsning av politioppdrag er det essensielt at
-alle involverte tjenestepersoner har en mest mulig
-lik forståelse av den pågående situasjonen (Politidirektoratet, 2011). Dette er viktig for å kunne ivareta god koordinering og ledelse i de ulike fasene
-av oppdraget, og gjelder for alle typer hendelser.
-
-[Side 70]
-
-70
-
-Kapittel 5
-
-NOU 2017: 9
-Politi og bevæpning
-
-Situasjonsvurderinger i form av løpende gjennomgang og vurderinger av den faktiske situasjonen,
-bidrar til dette (se boks 5.4). Situasjonsvurderingene er også viktige for ulike tildelte deloppdrag,
-og må bygge på et så helhetlig situasjonsbilde
-som mulig.
-PBS I beskriver at: «Ved planlagte hendelser
-er det normalt god tid til en fortløpende situasjonsvurdering. Man må fortløpende vurdere
-alternative måter å løse oppdraget på» (Politidirektoratet, 2011, s. 149).
-Vurderinger av risiko er en viktig del av planlegging, gjennomføring og oppfølging av politioperasjoner. Dette er viktig både på taktisk og operasjonelt nivå, og i politimesterens stab. Hensikten
-med risikovurderinger er å identifisere eventuelle
-uønskede hendelser og farlige forhold som kan
-oppstå i forbindelse med arbeidet, slik at nødvendige risikoreduserende tiltak kan iverksettes
-(Politidirektoratet, 2011, s. 120).
-Politiets våpeninstruks13 tillegger innsatsleder
-et særlig ansvar for å innhente og vurdere all tilgjengelig informasjon om situasjonen, personer
-og omgivelser. Det samme ansvaret tillegges den
-enkelte tjenesteperson når denne ikke er undergitt taktisk ledelse av en innsatsleder.14 Det skal
-innhentes så mye informasjon. Denne informasjonen skal deretter bearbeides og vil danne et
-grunnlag for hvordan politiet bør løse hendelsen i
-tråd med eget planverk.
-Solide situasjonsvurderinger vil gi et godt
-grunnlag for å vurdere oppdragets risiko.
-Risikovurderinger foretatt på alle nivå, vil være
-sentrale for å ivareta sikkerheten til tjenestepersonene som håndterer oppdraget. Risikovurderin-
-
-Boks 5.4 Situasjonsvurdering
-Følgende momenter bør tas med når en situasjonsvurdering foretas:
-– Trusselen
-– Egne ressurser
-– Tid til rådighet
-– Vurdering av området/objektet
-– Vær, lys og føreforhold
-– Samband og ledelse
-Kilde: Politidirektoratet, 2008 og Edvinsen, 2012
-
-13
-
-Våpeninstruksen § 4-1 (1)(a) (Ledelse og ansvar)
-14
-Våpeninstruksen § 4-1 (1)(b)
-
-ger gjør det også mulig å drive bedre planlegging
-og bedre taktisk tilnærming til oppdraget. Siden
-situasjonsvurdering er en dynamisk prosess, og
-fordi oppdrag kan endre seg mens de pågår, er det
-viktig at politiet har gode rutiner for kontinuerlig
-innsamling og bearbeiding av informasjon.
-
-5.6.2.3 Polititaktikkens hovedregel
-God oppdragsløsning kjennetegnes i politiet ved
-at oppdrag blir løst på en sikker og effektiv måte.
-Sikkerhet skal prioriteres fremfor effektivitet.
-I noen tilfeller må likevel politiet aksjonere
-mot, og pågripe noen som oppfattes å være farlig
-for politiet. Fremgangsmåten skal da vurderes ut
-fra hensynet til liv og helse for tredjepart, gjerningsperson og politiet selv, sterke bevismessige
-grunner og andre taktiske vurderinger. Det er
-kun i helt ekstraordinære situasjoner at politiet vil
-kompromisse med egen sikkerhet. Fortrinnsvis
-skal dette være i situasjoner hvor hensynet til liv
-og helse veier svært tungt.
-Hovedregelen i polititaktikken er en viktig faktor for å ivareta tjenestepersonenes sikkerhet i
-oppdragsløsningen. Den angir at ved pågripelse
-av en person som antas å være farlig for politiet,
-skal personen ut til politiet og ikke motsatt. Situasjonsvurderinger benyttes blant annet for å
-avklare hvorvidt en person kan antas å være farlig
-for politiet. Situasjonsvurderingene bidrar også til
-å vurdere om det er nødvendig, hensiktsmessig
-og forsvarlig å ta seg inn til en person som er definert som antatt farlig for politiet, eller om oppdraget bør løses på en annen måte.
-
-Boks 5.5 Disponeringsrekkefølge ved
-skarp aksjon
-– Lokalisering
-– Observasjon
-– Isolering
-– Evakuering
-– Forhandling
-– Organisering
-– Situasjonsvurdering
-– Aksjonering (og pågripelse)
-– Sikring av åsted
-Kilde: Politidirektoratet, 2011, s. 148
-
-[Side 71]
-
-NOU 2017: 9
-Politi og bevæpning
-
-5.6.2.4
-
-Knivoppsett – Pågripelse av særlig farlig
-person
-
-Knivoppsettet15 er en standardisert taktikk som
-kan benyttes i situasjoner hvor politiet møter motstandere bevæpnet med kniv eller andre farlige
-gjenstander. Taktikken oppstod på begynnelsen
-av 2000-tallet, blant annet i daværende Telemark
-politidistrikt. Innsatspersonellet møtte i flere tilfeller personer med kniv eller annet stikk-/slagvåpen, men fikk ikke bevæpningsordre i disse situasjonene, på tross av at de ønsket dette. Tjenestepersonene ble henvist til å dekke seg bak skjold
-og bruke teleskopbatong eller langkølle i møte
-med motstanderen.
-I den første fasen da taktikken ble utviklet, var
-intensjonen at én av tjenestepersonene skulle
-bære skytevåpen i hylster og være en buffer for
-sine kolleger. På denne måten ville våpen være tilgjengelig som siste utvei. Denne taktikken ble
-blant annet introdusert for politimesteren i tidligere Telemark politidistrikt.16 Det førte til at det
-etterhvert ble gitt bevæpningsordre til én av tjenestepersonene som deltok på oppdrag som involverte kniv.
-Også andre politidistrikt arbeidet med tilsvarende løsninger for å imøtekomme innsatspersonellets uttalt store behov for skytevåpen i situasjoner der motstanderne var bevæpnet med kniv.
-Daværende politimester i Hordaland politidistrikt
-kontaktet Beredskapstroppen i Oslo som så konstruerte en egen taktikk for disse hendelsene.
-Taktikken vektla erfaringene fra politidistriktene
-og hadde stort fokus på å anvende minst mulig
-makt.
-I 2004/2005 nådde taktikken Politihøgskolen
-som inkluderte den i fagplanarbeid i samarbeid
-med representanter fra operative fagutviklingsmiljø i Oslo politidistrikt. I 2006 ble knivoppsettet
-tatt inn i tredje studieår ved Politihøgskolen. I
-2011 ble taktikken innlemmet i operative taktikkmoduler i andre studieår.17 Taktikken går nå
-under betegnelsen «Pågripelse av særlig farlig
-person». Det er ikke lenger slik at bevæpningsbeslutning kun gjelder én tjenesteperson i et opp15
-
-Punktet om knivoppsettet baserer seg på informasjon fra
-Politihøgskolens Operative seksjon og fra Haugland
-(2015).
-16
-Daværende Telemark politidistrikt var en del av UEHregion Østlandet. Regionen ble samlet for felles årlig repetisjonsøvelse over en ukes varighet. På denne måten kan
-ideen om knivoppsettet ha nådd flere deler av politiet, særlig på Østlandet.
-17
-Politihøgskolestudentene er i andre studieår i praksis i et
-tildelt politidistrikt.
-
-71
-
-Kapittel 5
-
-drag. Nå gjelder den for alt innsatspersonell på
-oppdraget (Politihøgskolen, 2016).
-Knivoppsettet er kritisert, blant annet av Haugland (2015). Han beskriver i sin masteravhandling
-at det er begrenset med dialog mellom nivåene
-innad på Politihøgskolen, i forhold til kvalitetssikring av polititaktikk (2015, s. 74). Hauglands informanter beskriver at instruktører driver fag- og
-metodeutvikling uten at den er forankret i Politidirektoratet eller hos Politihøgskolens ledelse
-(2015, s. 72). Haugland viser også til at instruktørene som underviser i taktikken er autonome og
-at ledernivåene har begrenset tilsyn og kontroll
-med hvordan den polititaktiske opplæringen foregår. I følge Haugland er en del instruktører unge
-og med liten politierfaring; blant annet var yngste
-instruktør for politistudenter i leir i 2013 selv uteksaminert samme år (2015, s. 74).18 Historien om
-knivoppsettet er, i følge Haugland, et eksempel på
-sviktende ledelse (2015, s. 101).
-
-5.6.2.5 Pågående Livstruende Vold (PLIVO)
-PLIVO er betegnelsen på en prosedyre utviklet for
-å møte svært krevende situasjoner, herunder
-ekstrem voldsutøvelse. Erfaringene fra 22. juli og
-episoder med skoleskyting, både i Europa og USA
-de senere årene, har vært bakgrunnen for å
-utvikle en særskilt nasjonal beredskap for situasjoner hvor liv og helse trues. Som et resultat av
-dette ble den nasjonale prosedyren for nødetatenes samvirke ved pågående livstruende vold
-(PLIVO) utviklet. Prosedyren er utviklet i samarbeid mellom politiet, helsetjenesten og brann- og
-redningstjenesten.
-I prosedyren for PLIVO understrekes viktigheten av opplæring, implementering, samtrening og
-felles øvelser. Dette er blant annet fordi innsatspersonell i nødetatene ikke vil kunne opparbeide
-seg nødvendig praktisk erfaring gjennom reelle
-hendelser. Handlingsmønsteret ved denne typen
-aksjoner avviker på enkelte sentrale områder,
-vesentlig fra de vanlige handlingsmønstre i
-ordensoppdrag. Prosedyren beskriver hvordan
-samarbeidet mellom de tre nødetatene skal
-foregå, og blant annet hvordan helsevesenet og
-brann- og redningsetatens skal opptre dersom
-politiet ikke har ankommet åstedet.
-Politiets innsatsleder skal ved PLIVO, som ved
-andre hendelser, søke å benytte det mest kompetente mannskapet i fremste linje og i konfrontasjon med gjerningspersonen(e). De innledende
-18
-
-Kurs i operative disipliner for politihøgskolestudentene
-som gjennomføres i henholdsvis andre og tredje studieår.
-
-[Side 72]
-
-72
-
-Kapittel 5
-
-NOU 2017: 9
-Politi og bevæpning
-
-Boks 5.6 PLIVO – Definisjon
-En PLIVO-aksjon defineres som en pågående
-situasjon hvor en eller flere gjerningspersoner
-utøver livstruende vold med våpen/farlige
-gjenstander mot flere uskyldige personer, og
-hvor politiet skal gå i direkte innsats for å nøytralisere gjerningspersonen(-e) for å redde liv
-og begrense skade. Brann og helse skal aktivt
-bistå med livreddende tiltak.
-Kilde: Nasjonal prosedyre – PLIVO, 2015
-
-fasene, som lokalisering og observasjon kortes
-inn, prioriteres ned eller begrenses, og politiet må
-i stedet benytte sine sanser og tilgjengelig informasjon for å orientere seg mot gjerningspersonen(e) sin posisjon. Pågripelse av gjerningspersoner skal prioriteres og en reell forhandlingsfase
-kan derfor ikke gjennomføres på samme måte
-som i mer ordinære situasjoner. Politiet vil i stedet
-aktivt prøve å få gjerningspersonen(e) til å
-avslutte sine handlinger (Politidirektoratet, 2008).
-Det er operasjonsleder i politiet beslutter om
-en situasjon skal forstås som PLIVO. Dersom en
-hendelse vurderes slik at det skal iverksettes
-PLIVO-prosedyrer, skal dette formidles fra operasjonsleder og politiets operasjonssentral. Den
-enkelte tjenestepersonen kan altså ikke definere
-PLIVO som aksjonsform.
-Dersom det i forbindelse med et oppdrag tilkommer nye opplysninger i en innledende fase,
-kan situasjonsforståelsen og aksjonsformen
-endres. Dermed vil den enkelte tjenesteperson ha
-både rett og plikt til å forsøke å stanse noen som
-øver livstruende vold mot andre, selv om aksjonsformen ikke er definert som PLIVO. Også der
-aksjonsformen er definert som PLIVO har tjenestepersonene et selvstendig ansvar for å handle i
-tråd med gjeldende regler for politiets bruk av
-makt, inkludert bruk av skytevåpen som siste
-utvei.
-I motsetning til politiets grunnleggende taktiske prinsipper, fordrer PLIVO at politiet går i
-direkte aksjon. Dette innebærer at politiet ikke
-lenger stopper opp, planlegger, koordinerer innsats og forbereder seg på samme måte som ved
-ordinære oppdrag med bevæpnet politiinnsats. I
-stedet skal politiet gå direkte i aksjon, prioritere
-pågripelse og gjøre alt de kan for å stanse en
-voldsutøver. Presise formuleringer fra operasjonssentralen om situasjonen til tjenestepersonene i
-
-første linje, vil være av stor betydning. Bare slik vil
-politiet kunne ha en felles situasjonsforståelse
-som gjør at situasjonen kan løses i tråd med prinsipper om god oppdragsløsning.
-
-5.6.2.6 Politiets handleplikt ved PLIVO
-Myhrer (2012) viser til at politiet utvilsomt har en
-handleplikt når personers liv eller helbred er i fare
-som følge av pågående voldelig atferd fra andre.
-Flere av politiinstruksens bestemmelser fastsetter
-og forutsetter at politiet har en slik plikt til å
-handle (Myhrer, 2012).
-I yrker hvor arbeidstakere kan bli nødt å
-utsette seg selv for fare, varierer det hvor stor
-risiko som aksepteres. Dette henger sammen
-med hvilke interesser som skal ivaretas. Det
-aksepteres en større risiko hvis målet er å redde
-liv eller helse, enn hvis målet er å redde betydelige materielle verdier.
-Myhrer (2012) stiller spørsmål ved om innsatsleder kan kreve at alt innsatspersonell deltar i
-håndteringen av ulike hendelser, som for eksempel hendelser hvor skyting pågår (PLIVO).
-Myhrer (2012) konkluderer med at faren ikke
-overskrider hva det ordinære operative mannskapet må finne seg i å skulle håndtere. Dette
-begrunner han med at alt innsatspersonell har fått
-opplæring i PLIVO-prosedyren, og sine egne funksjoner ved slike hendelser. Alle operative tjenestepersoner har våpenopplæring og opplæring i bruk
-av verneutstyr; og har også tilgang til slikt utstyr.
-Innsatsen i slike hendelser skal være forsvarlig
-vurdert, planlagt og ledet. Det er ikke alltid forutsetningene for å legge forsvarlige planer er tilstede, og Myhrer finner derfor at innsatsleder må
-ha et betydelig skjønnsmessig spillerom når det
-gjelder hvordan innsatsen gjennomføres og hvilke
-eventualiteter den tar hensyn til. Innsatsen må
-planlegges med så store marginer at den har rimelige forutsetninger for å lykkes, og være basert på
-tilgjengelig informasjon og ressurser. Selv om alle
-tjenestepersoner uteksaminert fra Politihøgskolen har fått trening i denne typen hendelser og er
-forpliktet til å delta i en slik aksjon, vil kompetansen og erfaringen blant personellet variere betydelig. Myhrer poengterer at når det er tid til det,
-skal alltid de best egnede mannskapene benyttes i
-skarpe oppdrag.
-I Oslo politidistrikt vil de best egnede mannskapene være Beredskapstroppen (IP1), mens det
-andre steder i landet vil være mannskap fra innsatspersonell kategori 3 (IP3). Både IP1 og IP3 har
-mer trening og opplæring enn IP4. IP4 har derfor
-en svært krevende oppgave i situasjoner hvor
-
-[Side 73]
-
-73
-
-NOU 2017: 9
-Politi og bevæpning
-
-øvrig personell ikke er tilgjengelig og omstendighetene krever at de går til øyeblikkelig aksjon.
-Myhrer fremhever at politiinnsatsen må planlegges ulikt, avhengig av hvilke tjenestepersoner
-som benyttes i oppdraget. På de fleste steder, med
-unntak av Oslo politidistrikt og landets største
-byer, vil det være slik at IP4 kan bli nødt å håndtere hendelser hvor det hadde vært foretrukket å
-benytte mannskap fra IP1 eller IP3 (Myhrer,
-2012).
-
-5.6.3 HMS-ansvar når skudd er avfyrt
-Politiets samfunnsoppdrag medfører at tjenestepersoner kan komme i krevende og risikofylte
-situasjoner, inkludert hendelser hvor politiet selv
-eller tredjeperson blir angrepet. I noen av disse tilfellene kan politiet true med og/eller anvende
-maktmidler.
-Systematisk HMS-arbeid skal bidra til å sette
-ansatte og ledere i stand til å løse oppgavene på en
-effektiv og sikker måte. I HMS Håndbok for politiet (Politidirektoratet, 2017), heter det:
-«Det skal være trygt å arbeide i politi- og lensmannsetaten. Politi- og lensmannsetaten skal tilrettelegge og drive sin virksomhet på en slik måte
-at det ikke oppstår skade på personell, miljø, materiell og/eller etatens omdømme.»
-Systematisk HMS-arbeid skal være en integrert del av ledelse på alle nivåer. Arbeidsgiver
-har det overordnede ansvaret for å ivareta helse-,
-miljø- og sikkerhetsarbeidet innenfor sitt ansvarsog myndighetsområde. Ansatte har medansvar for
-egen arbeidssituasjon, og skal medvirke til utforming, gjennomføring og oppfølging av tiltak som
-blir satt i verk for å skape et godt, sikkert og helsefremmende arbeidsmiljø.
-Systematisk HMS-arbeid er både forebyggende og skadebegrensende. Samtidig er det viktig med kontinuerlig forbedring, blant annet gjennom læring fra erfaringer, uønskede hendelser og
-skader. Det er etablert klare regler og instrukser
-for hvordan HMS-arbeidet i politiet skal gjennomføres og hvem som har ansvar for hva.
-Forebyggende tiltak for å begrense og/eller
-minimere politiets maktbruk kan være tiltak som
-omfatter blant annet opplæring, trening, instrukser, bemanning, godt og hensiktsmessig utstyr,
-fareidentifisering og risikovurdering, planlegging
-av innsats og mental forberedelse.
-Når en hendelse som innebærer bruk av maktmidler har oppstått, kan det være nødvendig med
-skadebegrensende tiltak. Både fordi bruk av
-maktmidler i seg selv vil kunne innebære akutte
-belastninger for den som utøver maktbruken, og
-
-Kapittel 5
-
-fordi det kan oppstå fysiske skader og/eller psykiske ettervirkninger. Å bruke maktmidler kan
-være traumatiserende for innsatspersonell. God
-ivaretakelse gjennom personalsomsorgstiltak vil
-bidra til å redusere fysiske og psykiske helsemessige utfordringer. I tillegg til at personalomsorg er
-et ledelsesansvar har etaten en kollegastøtteordning. Kollegastøtten skal fungere som støtte og
-veileder for den ansatte, eksempelvis hvis den
-ansatte eller dennes familie har vært utsatt for
-særlig belastende hendelser eller situasjoner. I
-situasjoner der Spesialenheten for politisaker
-etterforsker tjenestehandlinger utført av ansatte,
-kan kollegastøtten, mens etterforsking pågår,
-bidra som støtte for den ansatte.
-Stedlig politisjef har arbeidsgiver- og personalansvar og dermed ansvar for å sørge for oppfølgning av de arbeidsmiljømessige konsekvensene
-som følger av bruk av skytevåpen.
-Kontinuerlig oppfølging av politiets våpenhåndtering, inkludert evaluering av trening og
-øvelser, erfaringer med utstyr og læring fra avvik
-og hendelser, er nødvendig for at politiet skal
-kunne løse sitt samfunnsoppdrag på en forsvarlig
-måte, og i tråd med samfunnets forventninger
-(Politidirektoratet, 2017).
-
-5.6.4
-
-Rapport om uønsket hendelse og
-registrering av våpenbruk
-
-5.6.4.1 Registrering i TTA/ RUH
-I politiets elektroniske turnussystem (TTA) kan
-tjenestepersoner skrive rapporter knyttet til uønskede hendelser (RUH). En RUH gir melder
-mulighet til kort å beskrive en hendelse og anbefale tiltak. Rapporten adresseres nærmeste leder
-og dennes overordnede. Det gjør at hendelsen
-kan knyttes til tjenestested og til ansvarlig leder
-som kan følge opp hendelsen. Utvalget er kjent
-med at Politidirektoratet arbeider med å få plass
-et nytt system for å rapportere uønskede hendelser og maktbruk. Dette vil kunne gi bedre rapporterings- og beslutningsgrunnlag enn dagens system.
-5.6.4.2
-
-Politiets væpningsregister
-
-Når politiet har truet med, eller brukt skytevåpen,
-skal dette rapporteres til Politidirektoratet
-(våpeninstruksen § 5-3). Dersom politiet verbalt
-har truet med å skyte, eller at våpenet har blitt rettet mot en person, regnes dette som trusler. Etter
-samme bestemmelse skal det rapporteres når
-politiet har avfyrt skudd, både varselskudd og
-
-[Side 74]
-
-74
-
-NOU 2017: 9
-
-Kapittel 5
-
-Politi og bevæpning
-
-vådeskudd, eller når gass- og sprengvåpen er
-avfyrt.
-Bevæpningsbeslutninger rapporteres på ulike
-måter. Oslo politidistrikt har et elektronisk væpningsregister hvor alle bevæpningsbeslutninger
-registreres av operasjonsleder. Grunnlaget for
-beslutningen angis, og det anmerkes hvem som
-er leder for oppdraget. I etterkant av en hendelse
-med bevæpningsbeslutning skal lederen for
-patruljene som har deltatt på oppdraget føre nødvendige opplysninger inn i væpningsregisteret,
-herunder deltakende tjenestepersoner og hvilke
-våpen de har vært bevæpnet med. I tillegg skal
-det anmerkes om det ble brukt eller vært truet
-med bruk av våpen. Når bevæpningsbeslutning
-blir gitt skal det også anmerkes særskilt i Politioperativt system (PO).
-
-5.7
-
-Statistikk over politiets bruk av
-skytevåpen
-
-I dette delkapittelet gjøres det en historisk gjennomgang av politiets beslutninger om bevæpning19,
-bruk av skytevåpen og skadde og drepte som
-følge av politiets bruk av skytevåpen. Det gis også
-en oversikt over polititjenestepersoner som har
-dødd eller blitt drept i tjeneste. Det er på enkelte
-punkter gjort en sammenligning med utviklingen
-i andre sammenlignbare land. Det er i hovedsak
-sett på perioden 2002–2016.
-Det er ikke sett til politiets bruk av andre
-maktmidler, som pepperspray, batong o.l. ettersom det per i dag ikke foretas noen systematisk
-registrering av dette. Frem til perioden med midlertidig bevæpning var det heller ikke noen systematisk registrering av utilsiktede avfyringer
-(vådeskudd). Dette gjør det vanskelig å si noe sikkert om omfanget av vådeskudd har endret seg
-over tid. I kapittel 7 omtales omfang av utilsiktede
-19
-
-Tidligere ble det gjerne brukt betegnelsen «bevæpningsordre» eller «ordre om bevæpning». I denne utredningen er
-det hovedsakelig brukt terminologien i ny våpeninstruks,
-«beslutning om bevæpning» eller «bevæpningsbeslutning».
-Ordrer er ansett for normalt å innebære plikt til å følge
-ordren. «-ordre» som term kan være noe misvisende for
-det store gross av bevæpninger, også etter den gamle
-instruksen § 10. Det har vært og er som hovedregel tale
-om en beslutning som gir IP-mannskap adgang til (en rett)
-til å bevæpne seg, men noen ubetinget plikt til å bevæpne
-har IP nødvendigvis ikke. En ordre forstått som en plikt til
-å bevæpne ville innebære at man måtte fortsette å være
-bevæpnet til noen ga utvetydig ordre om å avvæpne selv
-om vilkårene for å opprettholde bevæpningen ikke lenger
-var tilstede. Om en bevæpningsbeslutning er en ordre som
-utløser bevæpningsplikt og dermed en aktiv klar avvæpningsbeslutning, vil være avhengig av faktum, beslutningens hjemmelsgrunnlag og innhold.
-
-avfyringer under perioden med midlertidige
-bevæpning.
-
-5.7.1 Utviklingen i bevæpningsbeslutninger
-Utvalget har undersøkt utviklingen av innholdet i
-og antallet bevæpningsbeslutninger det siste
-tiåret, fra 2007–2016. Dette forteller oss noe om
-hvordan våpeninstruksen blir anvendt i politiet og
-det kan kanskje fortelle noe om hvordan rammebetingelsene for politiet endrer seg.20 Datakilden
-er Politioperativt system (PO) (se punkt 5.5 for en
-omtale av bevæpnede politioppdrag). Oppdragene
-i PO loggføres i sanntid, selv om noe informasjon
-registreres i etterkant, og preges av loggførerens
-oppfatning av situasjonen. Informasjonen baseres
-på hvordan operatøren oppfatter og tolker en situasjon der og da, basert på eksisterende og til tider
-mangelfull informasjon. Det er derfor store
-begrensninger i informasjonen i PO, og data som
-trekkes ut av systemet må tolkes deretter. Det kan
-også tenkes at registreringspraksis har endret seg
-over tid.
-5.7.2 Antall bevæpningsbeslutninger
-Samlet sett er det bare en liten del av politiets oppdrag som utføres bevæpnet. Dette inkluderer
-både bevæpnede hasteoppdrag og bevæpnede
-oppdrag som ikke har hastet (se mer om bevæpnede hasteoppdrag under punkt 5.6). Antall oppdrag med beslutning om bevæpning, har imidlertid økt over tid. I 2007 var det i overkant av 1 500
-bevæpnede oppdrag. Dette tilsvarer en andel på
-0,24 prosent av alle oppdrag (se tabell 5.4). I 2016
-var antall bevæpnede oppdrag økt til om lag 5 800,
-noe som utgjorde om lag 0,74 prosent av alle oppdrag. Som følge av den midlertidige bevæpningen, fra 25. november 2014 til 3. februar 2016 var
-det en nedgang i antall bevæpningsbeslutninger i
-2015 (se kapittel 7).21
-I all hovedsak er de bevæpnede oppdragene
-knyttet til hendelsesstyrte bevæpnede oppdrag
-(se figur 5.10). De planlagte bevæpnede oppdra20
-
-21
-
-Innhold i pkt. 5.7 er i stor grad basert på en rapport som
-gjennomgår bevæpningsbeslutninger i perioden 2007-2016,
-se POD (2017).
-Bevæpningen innebar at samtlige uniformerte tjenestepersoner med godkjenning, som hovedregel skulle bære
-enhåndsvåpen under utførelse av ordinær tjeneste. I de
-fleste politidistrikt ble det ikke registrert oppdrag med
-bevæpningsordrene, ettersom en generell bevæpningsordre på skytevåpen allerede var gitt alle polititjenestemenn
-med godkjenning. Noen politidistrikt valgte imidlertid å
-fortsette med normal registreringspraksis, selv etter innføring av en generell, midlertidig bevæpning.
+Dersom det i forbindelse med et oppdrag tilkommer nye opplysninger i en innledende fase, kan situasjonsforståelsen og aksjonsformen endres. Dermed vil den enkelte tjenesteperson ha både rett og plikt til å forsøke å stanse noen som øver livstruende vold mot andre, selv om aksjonsformen ikke er definert som PLIVO. Også der aksjonsformen er definert som PLIVO har tjenestepersonene et selvstendig ansvar for å handle i tråd med gjeldende regler for politiets bruk av makt, inkludert bruk av skytevåpen som siste utvei.
+
+I motsetning til politiets grunnleggende taktiske prinsipper, fordrer PLIVO at politiet går i direkte aksjon. Dette innebærer at politiet ikke lenger stopper opp, planlegger, koordinerer innsats og forbereder seg på samme måte som ved ordinære oppdrag med bevæpnet politiinnsats. I stedet skal politiet gå direkte i aksjon, prioritere pågripelse og gjøre alt de kan for å stanse en voldsutøver. Presise formuleringer fra operasjonssentralen om situasjonen til tjenestepersonene i første linje, vil være av stor betydning. Bare slik vil politiet kunne ha en felles situasjonsforståelse som gjør at situasjonen kan løses i tråd med prinsipper om god oppdragsløsning.
+
+1.  *<u>Politiets handleplikt ved PLIVO</u>*
+
+Myhrer (2012) viser til at politiet utvilsomt har en handleplikt når personers liv eller helbred er i fare som følge av pågående voldelig atferd fra andre. Flere av politiinstruksens bestemmelser fastsetter og forutsetter at politiet har en slik plikt til å handle (Myhrer, 2012).
+
+I yrker hvor arbeidstakere kan bli nødt å utsette seg selv for fare, varierer det hvor stor risiko som aksepteres. Dette henger sammen med hvilke interesser som skal ivaretas. Det aksepteres en større risiko hvis målet er å redde liv eller helse, enn hvis målet er å redde betydelige materielle verdier.
+
+Myhrer (2012) stiller spørsmål ved om innsatsleder kan kreve at alt innsatspersonell deltar i håndteringen av ulike hendelser, som for eksempel hendelser hvor skyting pågår (PLIVO).
+
+Myhrer (2012) konkluderer med at faren ikke overskrider hva det ordinære operative mannskapet må finne seg i å skulle håndtere. Dette begrunner han med at alt innsatspersonell har fått opplæring i PLIVO-prosedyren, og sine egne funksjoner ved slike hendelser. Alle operative tjenestepersoner har våpenopplæring og opplæring i bruk av verneutstyr; og har også tilgang til slikt utstyr. Innsatsen i slike hendelser skal være forsvarlig vurdert, planlagt og ledet. Det er ikke alltid forutsetningene for å legge forsvarlige planer er tilstede, og Myhrer finner derfor at innsatsleder må ha et betydelig skjønnsmessig spillerom når det gjelder hvordan innsatsen gjennomføres og hvilke eventualiteter den tar hensyn til. Innsatsen må planlegges med så store marginer at den har rimelige forutsetninger for å lykkes, og være basert på tilgjengelig informasjon og ressurser. Selv om alle tjenestepersoner uteksaminert fra Politihøgskolen har fått trening i denne typen hendelser og er forpliktet til å delta i en slik aksjon, vil kompetansen og erfaringen blant personellet variere betydelig. Myhrer poengterer at når det er tid til det, skal alltid de best egnede mannskapene benyttes i skarpe oppdrag.
+
+I Oslo politidistrikt vil de best egnede mannskapene være Beredskapstroppen (IP1), mens det andre steder i landet vil være mannskap fra innsatspersonell kategori 3 (IP3). Både IP1 og IP3 har mer trening og opplæring enn IP4. IP4 har derfor en svært krevende oppgave i situasjoner hvor øvrig personell ikke er tilgjengelig og omstendighetene krever at de går til øyeblikkelig aksjon. Myhrer fremhever at politiinnsatsen må planlegges ulikt, avhengig av hvilke tjenestepersoner som benyttes i oppdraget. På de fleste steder, med unntak av Oslo politidistrikt og landets største byer, vil det være slik at IP4 kan bli nødt å håndtere hendelser hvor det hadde vært foretrukket å benytte mannskap fra IP1 eller IP3 (Myhrer, 2012).
+
+1.  **<u>HMS-ansvar n</u><u>å</u><u>r skudd er avfyrt</u>**
+
+Politiets samfunnsoppdrag medfører at tjenestepersoner kan komme i krevende og risikofylte situasjoner, inkludert hendelser hvor politiet selv eller tredjeperson blir angrepet. I noen av disse tilfellene kan politiet true med og/eller anvende maktmidler.
+
+Systematisk HMS-arbeid skal bidra til å sette ansatte og ledere i stand til å løse oppgavene på en effektiv og sikker måte. I HMS Håndbok for politiet (Politidirektoratet, 2017), heter det:
+
+«Det skal være trygt å arbeide i politi- og lensmannsetaten. Politi- og lensmannsetaten skal tilrettelegge og drive sin virksomhet på en slik måte at det ikke oppstår skade på personell, miljø, materiell og/eller etatens omdømme.»
+
+Systematisk HMS-arbeid skal være en integrert del av ledelse på alle nivåer. Arbeidsgiver har det overordnede ansvaret for å ivareta helse-, miljø- og sikkerhetsarbeidet innenfor sitt ansvars- og myndighetsområde. Ansatte har medansvar for egen arbeidssituasjon, og skal medvirke til utforming, gjennomføring og oppfølging av tiltak som blir satt i verk for å skape et godt, sikkert og helsefremmende arbeidsmiljø.
+
+Systematisk HMS-arbeid er både forebyggende og skadebegrensende. Samtidig er det viktig med kontinuerlig forbedring, blant annet gjennom læring fra erfaringer, uønskede hendelser og skader. Det er etablert klare regler og instrukser for hvordan HMS-arbeidet i politiet skal gjennomføres og hvem som har ansvar for hva.
+
+Forebyggende tiltak for å begrense og/eller minimere politiets maktbruk kan være tiltak som omfatter blant annet opplæring, trening, instrukser, bemanning, godt og hensiktsmessig utstyr, fareidentifisering og risikovurdering, planlegging av innsats og mental forberedelse.
+
+Når en hendelse som innebærer bruk av maktmidler har oppstått, kan det være nødvendig med skadebegrensende tiltak. Både fordi bruk av maktmidler i seg selv vil kunne innebære akutte belastninger for den som utøver maktbruken, og fordi det kan oppstå fysiske skader og/eller psykiske ettervirkninger. Å bruke maktmidler kan være traumatiserende for innsatspersonell. God ivaretakelse gjennom personalsomsorgstiltak vil bidra til å redusere fysiske og psykiske helsemessige utfordringer. I tillegg til at personalomsorg er et ledelsesansvar har etaten en kollegastøtteordning. Kollegastøtten skal fungere som støtte og veileder for den ansatte, eksempelvis hvis den ansatte eller dennes familie har vært utsatt for særlig belastende hendelser eller situasjoner. I situasjoner der Spesialenheten for politisaker etterforsker tjenestehandlinger utført av ansatte, kan kollegastøtten, mens etterforsking pågår, bidra som støtte for den ansatte.
+
+Stedlig politisjef har arbeidsgiver- og personalansvar og dermed ansvar for å sørge for oppfølgning av de arbeidsmiljømessige konsekvensene som følger av bruk av skytevåpen.
+
+Kontinuerlig oppfølging av politiets våpenhåndtering, inkludert evaluering av trening og øvelser, erfaringer med utstyr og læring fra avvik og hendelser, er nødvendig for at politiet skal kunne løse sitt samfunnsoppdrag på en forsvarlig måte, og i tråd med samfunnets forventninger (Politidirektoratet, 2017).
+
+1.  **<u>Rapport om u</u><u>ø</u><u>nsket hendelse og registrering av v</u><u>å</u><u>penbruk</u>**
+
+    1.  *<u>Registrering i TTA/ RUH</u>*
+
+I politiets elektroniske turnussystem (TTA) kan tjenestepersoner skrive rapporter knyttet til uønskede hendelser (RUH). En RUH gir melder mulighet til kort å beskrive en hendelse og anbefale tiltak. Rapporten adresseres nærmeste leder og dennes overordnede. Det gjør at hendelsen kan knyttes til tjenestested og til ansvarlig leder som kan følge opp hendelsen. Utvalget er kjent med at Politidirektoratet arbeider med å få plass et nytt system for å rapportere uønskede hendelser og maktbruk. Dette vil kunne gi bedre rapporterings- og beslutningsgrunnlag enn dagens system.
+
+1.  *<u>Politiets v</u><u>æ</u><u>pningsregister</u>*
+
+Når politiet har truet med, eller brukt skytevåpen, skal dette rapporteres til Politidirektoratet (våpeninstruksen § 5-3). Dersom politiet verbalt har truet med å skyte, eller at våpenet har blitt rettet mot en person, regnes dette som trusler. Etter samme bestemmelse skal det rapporteres når politiet har avfyrt skudd, både varselskudd og vådeskudd, eller når gass- og sprengvåpen er avfyrt.
+
+Bevæpningsbeslutninger rapporteres på ulike måter. Oslo politidistrikt har et elektronisk væpningsregister hvor alle bevæpningsbeslutninger registreres av operasjonsleder. Grunnlaget for beslutningen angis, og det anmerkes hvem som er leder for oppdraget. I etterkant av en hendelse med bevæpningsbeslutning skal lederen for patruljene som har deltatt på oppdraget føre nødvendige opplysninger inn i væpningsregisteret, herunder deltakende tjenestepersoner og hvilke våpen de har vært bevæpnet med. I tillegg skal det anmerkes om det ble brukt eller vært truet med bruk av våpen. Når bevæpningsbeslutning blir gitt skal det også anmerkes særskilt i Politioperativt system (PO).
+
+1.  **<u>Statistikk over politiets bruk av skytev</u><u>å</u><u>pen</u>**
+
+I dette delkapittelet gjøres det en historisk gjennomgang av politiets *beslutninger om bevæpning*[^31], bruk av skytevåpen og skadde og drepte som følge av politiets bruk av skytevåpen. Det gis også en oversikt over polititjenestepersoner som har dødd eller blitt drept i tjeneste. Det er på enkelte punkter gjort en sammenligning med utviklingen i andre sammenlignbare land. Det er i hovedsak sett på perioden 2002–2016.
+
+Det er ikke sett til politiets bruk av andre maktmidler, som pepperspray, batong o.l. ettersom det per i dag ikke foretas noen systematisk registrering av dette. Frem til perioden med midlertidig bevæpning var det heller ikke noen systematisk registrering av utilsiktede avfyringer (vådeskudd). Dette gjør det vanskelig å si noe sikkert om omfanget av vådeskudd har endret seg over tid. I kapittel 7 omtales omfang av utilsiktede avfyringer under perioden med midlertidige bevæpning.
+
+1.  **<u>Utviklingen i bev</u><u>æ</u><u>pningsbeslutninger</u>**
+
+Utvalget har undersøkt utviklingen av innholdet i og antallet bevæpningsbeslutninger det siste tiåret, fra 2007–2016. Dette forteller oss noe om hvordan våpeninstruksen blir anvendt i politiet og det kan kanskje fortelle noe om hvordan rammebetingelsene for politiet endrer seg.[^32] Datakilden er Politioperativt system (PO) (se punkt 5.5 for en omtale av bevæpnede politioppdrag). Oppdragene i PO loggføres i sanntid, selv om noe informasjon registreres i etterkant, og preges av loggførerens oppfatning av situasjonen. Informasjonen baseres på hvordan operatøren oppfatter og tolker en situasjon der og da, basert på eksisterende og til tider mangelfull informasjon. Det er derfor store begrensninger i informasjonen i PO, og data som trekkes ut av systemet må tolkes deretter. Det kan også tenkes at registreringspraksis har endret seg over tid.
+
+1.  **<u>Antall bev</u><u>æ</u><u>pningsbeslutninger</u>**
+
+Samlet sett er det bare en liten del av politiets oppdrag som utføres bevæpnet. Dette inkluderer både bevæpnede hasteoppdrag og bevæpnede oppdrag som ikke har hastet (se mer om bevæpnede hasteoppdrag under punkt 5.6). Antall oppdrag med beslutning om bevæpning, har imidlertid økt over tid. I 2007 var det i overkant av 1 500 bevæpnede oppdrag. Dette tilsvarer en andel på 0,24 prosent av alle oppdrag (se tabell 5.4). I 2016 var antall bevæpnede oppdrag økt til om lag 5 800, noe som utgjorde om lag 0,74 prosent av alle oppdrag. Som følge av den midlertidige bevæpningen, fra 25. november 2014 til 3. februar 2016 var det en nedgang i antall bevæpningsbeslutninger i 2015 (se kapittel 7).[^33]
+
+1.  <u>Oversikt over alle oppdrag i PO, oppdrag med bevæpningsbeslutning i PO, samt bevæpningsoppdrag som andel av alle oppdrag. 2007–2016</u><sup><u>1</u></sup><u>. Årlige tall</u>
+
+|  |  |  |  |  |  |  |  |  |  |  |
+|----|----|----|----|----|----|----|----|----|----|----|
+|  | <u>2007</u> | <u>2008</u> | <u>2009</u> | <u>2010</u> | <u>2011</u> | <u>2012</u> | <u>2013</u> | <u>2014</u> | <u>2015</u> | <u>2016</u> |
+|  |  |  |  |  |  |  |  |  |  |  |
+| Alle oppdrag | <u>627 684</u> | <u>617 815</u> | <u>629 892</u> | <u>653 160</u> | <u>727 661</u> | <u>736 568</u> | <u>767 489</u> | <u>801 413</u> | <u>836 813</u> | <u>786 686</u> |
+|  |  |  |  |  |  |  |  |  |  |  |
+| Alle bevæpningsoppdrag | <u>1 507</u> | <u>1 805</u> | <u>1 978</u> | <u>2 345</u> | <u>2 706</u> | <u>3 113</u> | <u>3 724</u> | <u>4 466</u> | <u>2 175</u> | <u>5 816</u> |
+|  |  |  |  |  |  |  |  |  |  |  |
+| Andel | <u>0,24 %</u> | <u>0,29 %</u> | <u>0,31 %</u> | <u>0,36 %</u> | <u>0,37 %</u> | <u>0,42 %</u> | <u>0,49 %</u> | <u>0,56 %</u> | <u>0,26 %</u> | <u>0,74 %</u> |
+|  |  |  |  |  |  |  |  |  |  |  |
+
+<sup><u>1</u></sup><u> Tall for 2016 gjelder for perioden 1.1.2016–30.11.2016.</u>
+
+<u>POD (2017)</u>
+
+**<u>\[:figur:figX-X.jpg\]</u>**
+
+1.  <u>Antall bevæpnede planlagte og hendelsesstyrte oppdrag. 2007–2016</u><sup><u>1</u></sup><u>. Årlige tall</u>
+
+<sup><u>1</u></sup><u> Anslag for hele 2016, basert på data for perioden 1.1.2016–30.11.2016 og et estimat for desember 2016.</u>
+
+<u>POD (2017)</u>
+
+I all hovedsak er de bevæpnede oppdragene knyttet til hendelsesstyrte bevæpnede oppdrag (se figur 5.10). De planlagte bevæpnede oppdragene har imidlertid økt etter perioden med midlertidig bevæpning sammenlignet med tiden før denne perioden.
+
+En meget stor andel av de bevæpnede planlagte oppdragene er knyttet til vakt- og sikringsoppdrag. Fra 2007 og frem til 2011 var det mellom 13 og 16 væpnede vakt- og sikringsoppdrag årlig. Fra og med 2011 økte disse oppdragene, og i tiltagende grad. Antall væpnede vakt- og sikringsoppdrag økte fra 90 bevæpnede oppdrag i 2013 til 398 oppdrag i 2014 og til 889 oppdrag i 2016.
+
+Fordeles de væpnede vakt- og sikringsoppdragene på distriktsnivå, skiller tidligere Romerike politidistrikt seg ut. Årsaken til dette skyldes at Gardermoen ligger i distriktet og medfører mange statsbesøk og VIP-oppdrag. Dette gjelder hele 90 prosent av alle de væpnede vakt- og sikringsoppdragene i Romerike politidistrikt. Før 2014 hadde distriktet syv væpnede vakt- og sikringsoppdrag totalt, og ingen slike oppdrag tilknyttet Gardermoen. Fra og med 2014 har distriktet hatt 862 væpnede vakt- og sikringsoppdrag, hvorav 785 var tilknyttet Gardermoen. Det har med andre ord skjedd en stor endring når det gjelder bevæpningspraksis ved statsbesøk i Norge, og da særlig oppdrag tilknyttet hovedflyplassen.
+
+Antallet bevæpningsbeslutninger varierer betydelig mellom politidistriktene. Av det totale antall bevæpningsoppdrag i 2016, var over halvparten (56 prosent) i politidistrikt med storbyer som Oslo, Bergen, Trondheim og Stavanger[^34], samt Romerike politidistrikt.
+
+1.  **<u>Bev</u><u>æ</u><u>pningsbeslutninger der kniv er involvert</u>**
+
+Antall bevæpnede oppdrag knyttet til trussel med eller bruk av kniv har hatt en sterk vekst i hele perioden og disse oppdragene utgjør en stadig større andel av det totale antall bevæpnede oppdrag. Tall fra PO viser at det var i underkant av 2 400 bevæpnede knivoppdrag i 2016 (til og med november). Andelen bevæpnede knivoppdrag av alle bevæpnede oppdrag økte fra 18 prosent i 2007 til 41 prosent i 2016 (se figur 5.11). Haugland (2015) viser til at en viktig årsak til økningen i antallet bevæpnede knivoppdrag er at politiet har endret taktikk i møte med kniv. Gjennom Politihøgskolens opplæring i «knivoppsettet» er kniv sett på som et farligere objekt enn før og taktikken er lagt opp til at politiet skal vurdere bevæpning i møte med særlig farlig redskap (se punkt 5.6.2.4 for en nærmere omtale av knivoppsettet). Dette har ført til at når en potensielt farlig person antas å kunne være i besittelse av kniv, blir skytevåpen som hovedregel medbrakt på oppdraget.
+
+**<u>\[:figur:figX-X.jpg\]</u>**
+
+1.  <u>Bevæpnede knivoppdrag som andel av alle væpnede oppdrag. 2007–2016</u><sup><u>1</u></sup><u>. Årlige tall</u>
+
+<sup><u>1</u></sup><u> Anslag for hele 2016, basert på data for perioden 1.1.2016–30.11.2016 og et estimat for desember 2016.</u>
+
+<u>POD (2017)</u>
+
+**<u>\[:figur:figX-X.jpg\]</u>**
+
+1.  <u>Antall bevæpnede oppdrag tilknyttet psykiatri. 2007–2016</u><sup><u>1</u></sup><u>. Årlige tall</u>
+
+<sup><u>1</u></sup><u> Anslag for hele 2016, basert på data for perioden 1.1.2016–30.11.2016 og et estimat for desember 2016.</u>
+
+<u>POD (2017)</u>
+
+1.  **<u>Bev</u><u>æ</u><u>pningsoppdrag kodet som psykiatri o.l.</u>**
+
+Politiet har også en rekke bevæpningsoppdrag som er kodet som og antatt å omhandle psykiatri, eller oppdrag tilknyttet psykisk ustabile personer.[^35] I 2016 var det over 1 000 bevæpnede oppdrag knyttet til denne kategorien, se figur 5.12. Antall bevæpnede psykiatrioppdrag har variert mellom 15 og 20 prosent av alle bevæpnede oppdrag det siste tiåret.
+
+Tallgrunnlaget viser videre at flere av de bevæpnede knivoppdragene også er kodet som psykiatri o.l. i PO. I 2007 ble det i 39 prosent av alle psykiatrioppdragene også brukt ordet «kniv». I 2016 har denne andelen steget til 66 prosent, se figur 5.13.
+
+**<u>\[:figur:figX-X.jpg\]</u>**
+
+1.  <u>Bevæpnede oppdrag både beskrevet med «psykiatri o.l.» og «kniv» i journalen som andel av bevæpnede psykiatrioppdrag. 2007–2016</u><sup><u>1</u></sup><u>. Årlige tall</u>
+
+<sup><u>1</u></sup><u> Anslag for hele 2016, basert på data for perioden 1.1.2016–30.11.2016 og et estimat for desember 2016.</u>
+
+<u>POD (2017)</u>
+
+1.  **<u>Endringen i v</u><u>å</u><u>peninstruksen</u>**
+
+Justis- og beredskapsdepartementet fastsatte 2. juli 2015 ny våpeninstruks for politiet. Instruksen, som trådte i kraft 1. april 2016, viderefører i stor grad de regler og normer som politiet har forholdt seg til etter våpeninstruksen fra 1989. En viktig endring i våpeninstruksen er at operasjonsleder nå har samme myndighet som politisjef[^36] til å gi bevæpningsordre i de akutte tilfellene, jf. instruksen § 3-2 (1) a, jf. § 3-3 (1) a (se vedlegg 2 om våpeninstruksen).[^37] Operasjonsleder har ofte en annen faglig bakgrunn og mer operativ erfaring enn en politimester, fordi hun eller han normalt befinner seg nærmere aktuelle hendelser og har et tettere samarbeid med operativt personell. Innsatspersonell har gitt uttrykk for at de opplevde økt egensikkerhet og økt innsatsevne til å håndtere det uforutsette under den midlertidige bevæpningen (Sandham og Todnem, 2016). Disse positive erfaringene, samt følelsen av å miste en opplevd trygghet når perioden ble avsluttet, kan ha bidratt til at politiansatte ber om bevæpning for flere situasjoner enn tidligere. Det kan ikke utelukkes at innsatspersonells positive erfaringer fra den midlertidige bevæpningen – samt instruksendringen for myndigheten til å gi bevæpningsordre – kan ha bidratt til økningen i antall bevæpningsordre fra 2014 til 2016.
+
+**<u>\[:figur:figX-X.jpg\]</u>**
+
+1.  <u>Trussel om bruk av våpen i politiet. Årlige tall</u>
+
+<u>Politidirektoratet</u>
+
+1.  **<u>Trusler om bruk av skytev</u><u>å</u><u>pen</u>**
+
+I noen situasjoner truer politiet med bruk av skytevåpen ved å rette dette mot en eller flere personer uten å avfyre skudd. I figur 5.14 vises politiets omfang av innrapporterte hendelser der det er truet med bruk av skytevåpen for perioden 2002–2016. Kilden for datamaterialet er politidistriktenes og særorganenes innrapportering til Politidirektoratet. Varselskudd er ikke med i denne kategorien. Det kan være noe underrapportering. Det er også et visst rom for tolkning av hva som defineres som en trussel i våpeninstruksen. Som det fremgår er det ingen klar trend i utviklingen. I gjennomsnitt har politiet truet med bruk av våpen i underkant av 64 ganger hvert år i perioden 2002–2016.
+
+1.  **<u>Egenbev</u><u>æ</u><u>pning i tilfeller der politiet har truet med eller brukt skytev</u><u>å</u><u>pen</u>**
+
+I henhold til politidistriktenes innrapportering til Politidirektoratet om trussel om bruk eller bruk av skytevåpen, var det seks innrapporterte tilfeller med egenbevæpninger i perioden 2010–2016. Omfanget av egenbevæpning i innrapporterte tilfeller, er således på et lavt nivå sammenliknet med det totale antall beslutninger om bevæpning fra politisjef eller operasjonsleder i tilfeller der politiet rapportert inn at de har truet med eller brukt skytevåpen. Dette kan tyde på at politiet i de fleste situasjoner har tilstrekkelig relevant informasjon slik at operasjonsleder eller politisjef kan vurdere behovet og beslutte bevæpning på oppdraget. Det kan også indikere at tjenestepersoner relativt sjelden er ubevæpnet for så å møte en uforutsett akutt truende situasjon som medfører behov for egenbevæpning. Det understrekes imidlertid at det kan ha skjedd egenbevæpninger som ikke har vært rapporteringspliktige, fordi det ikke ble truet med bruk av eller brukt skytevåpen.
+
+1.  **<u>Bruk av skytev</u><u>å</u><u>pen</u>**
+
+Det er rapportert om at politiet brukte skytevåpen 41 ganger i perioden 2002–2016, tilsvarende om lag 2,7 ganger i gjennomsnitt per år (se figur 5.15). Med bruk av skytevåpen menes situasjoner der politiet har enten avfyrt varselskudd og/eller rettet skudd mot motstander.[^38] Det er store årlige variasjoner i hvor ofte politiet avfyrte skudd. I 2007 var det ingen avfyringer, mens det ble brukt våpen seks ganger i 2010. Kilden for datamaterialet er politidistriktenes og særorganenes innrapportering til Politidirektoratet. Det vurderes at datamaterialet i stor grad viser den faktiske utviklingen i perioden. Tallgrunnlaget dokumenterer at norsk politi gjennomgående skyter lite.
+
+**<u>\[:figu</u><u>r:figX-X.jpg\]</u>**
+
+1.  <u>Politiets bruk av skytevåpen. Årlige tall</u>
+
+<u>Politidirektoratet</u>
+
+1.  **<u>Skadde og drepte som f</u><u>ø</u><u>lge av politiets bruk av skytev</u><u>å</u><u>pen</u>**
+
+Antallet skadde personer som følge av politiets bruk av skytevåpen ligger på et lavt nivå og varierer betydelig fra år til år. Antallet følger i stor grad utviklingen i politiets avfyrte skudd. I perioden 2002–2016 er det skadet 21 personer, det vil si i gjennomsnitt 1,4 personer årlig, som følge av politiets bruk av skytevåpen (se figur 5.16). Kilden for datamaterialet er politidistriktenes og særorganenes innrapportering til Politidirektoratet. Det er ikke mulig ut fra rapporteringen å si noe om skadeomfang.
+
+Politiet har skutt og drept fire personer i perioden 2002–2016 (se figur 5.16). Den siste drepte ble skutt under en politiaksjon i Kristiansand november 2016. I boks 5.7 er disse situasjonene kort beskrevet. Alle de drepte har vært den personen som politiaksjonen rettet seg mot. I gjennomsnitt er 0,3 personer drept av politiet i Norge årlig i perioden 2002–2016. Antallet drepte av politiet i Norge er på et lavt nivå sammenlignet med andre land (se punkt 5.7.10.)
+
+**<u>\[:figur:figX-X.jpg\]</u>**
+
+1.  <u>Sum av skadde og drepte av politiets bruk av skytevåpen og bruk av skytevåpen i politiet. Årlige tall</u>
+
+<u>Politidirektoratet</u>
+
+Dette innebærer at i overkant av 54 prosent av tilfellene der politiet bruker skytevåpen, er personer blitt skadd eller drept.
+
+1.  **<u>Situasjonene der personer er blitt skutt og drept av politiet siden 2000</u>**
+
+I denne rammen beskrives kort situasjonene der personer er blitt skutt og drept av politiet.
+
+*<u>27. november 2016</u><sup><u>1</u></sup>*
+
+Om morgenen fikk politiets operasjonssentral i Agder melding fra en publikummer om en mistenkelig person med skytevåpen i Kristiansand sentrum. På bakgrunn av dette konkrete tipset valgte operasjonsleder å sende ut politipatruljer med tjenestevåpen for å lokalisere og få kontroll på mannen. Da politiet påtraff 35-åringen avfyrte han skudd mot politiet og stakk av. Da startet en biljakt som varte i 17–18 minutter. I løpet av biljakten skal politiet ha kommet i kontakt med den mistenkte bilen flere ganger uten å ha fått stoppet mannen. Politiet løsnet skudd mot bilen og mannen i nødverge. Mannen ble truffet av skuddene og skadd. Han ble fraktet til sykehus, og erklært død senere på morgenen.
+
+*<u>26. september 2015. Hedmark politidistrikt</u><sup><u>2</u></sup>*
+
+Politiet rykket ut til en bolig der det var blitt meldt inn en bekymringsmelding. Det ble i meldingen blant annet vist til at personen var innehaver av våpen. Da politiet tok kontakt på personens bolig ble de møtt med våpen og personen avfyrte et skudd som traff en av polititjenestepersonene. Det ble avfyrt skudd fra politiets side som medførte at personen døde på stedet. Denne hendelse omhandles også i kapittel 7.
+
+*<u>22. april 2006. Asker og B</u><u>æ</u><u>rum po</u><u>litidistrikt</u>*
+
+En mann forskanset seg under en garasje på Skui, der han ble omringet av politiet. Etter en stund flyktet han mot ei elv mens han skjøt vilt rundt seg og traff en politimann i halsen. Kort tid etterpå ble mannen skutt og drept av politiet.<sup>3</sup>
+
+*<u>18</u><u>. mai 2005. Vestfold politidistrikt</u>*
+
+Politiet rykket ut på en melding fra en person som sa han følte seg truet av en mann med kniv. En politipatrulje kom fram til åstedet, og forsøkte å bruke pepperspray for å roe ned mannen som opptrådte truende. Mannen truet også politiet, og trakk frem en kjøttøks. Polititjenestemennene ba om bevæpning. Mannen skal deretter ha kommet mot politiet med øksen hevet. Politiet anmodet ham om å legge fra seg kjøttøksen, men han stanset ikke, og mannen ble skutt og drept av politiet.<sup>4</sup>
+
+<sup><u>1</u></sup><u> Beskrivelse hentet fra http://www.tv2.no/a/8759379/.</u>
+
+<sup><u>2</u></sup><u> Beskrivelsen er hentet fra Spesialenheten for politisaker (2015).</u>
+
+<sup><u>3</u></sup><u> http://www.dagbladet.no/nyheter/2006/04/22/464179.html</u>
+
+<sup><u>4</u></sup><u> http://www.aftenposten.no/norge/Mann-skutt-og-drept-av-politiet-454092b.html </u>
+
+**<u>\[Boks slutt\]</u>**
+
+1.  **<u>Sammenligning av bruk av skytev</u><u>å</u><u>pen og skadde og drepte av politiet i Norden, England og Wales</u>**
+
+I tabell 5.5 vises antall situasjoner der politiet har avfyrt skudd, målt som gjennomsnitt av antall situasjoner per år per millioner innbygger. Som det fremgår av tabellen, brukes skytevåpen betydelig oftere av politiet i de andre nordiske landene enn hva tilfellet er i Norge. Antall hendelser der politiet skyter i England og Wales er betydelig lavere enn frekvensen i Norge. I England og Wales er politiet i utgangspunktet ubevæpnet, mens politiet i Sverige, Danmark og Finland er generelt bevæpnet med pistol.
+
+1.  <u>Antall situasjoner der politiet bruker skytevåpen i Norden og England og Wales. Gjennomsnitt av antall situasjoner per år per millioner innbygger</u>
+
+|  |  |  |  |  |
+|----|----|----|----|----|
+| Danmark<sup>1</sup> | Finland<sup>1</sup> | Sverige<sup>1</sup> | Norge<sup>2</sup> | England og Wales<sup>3</sup> |
+|  |  |  |  |  |
+| 2,7 | 3,0 | 2,9 | 0,563 | 0,105 |
+|  |  |  |  |  |
+
+<sup><u>1</u></sup><u> Tall for Danmark og Sverige er for perioden er 2003–2012 og Finland er for perioden 1997–2003. Kilde: Lundin (2016)</u>
+
+<sup><u>2</u></sup><u> Tall for Norge: Beregninger utført av utvalget for perioden 2002–2016 basert på tall fra POD og SSB.</u>
+
+<sup><u>3</u></sup><u> Utvalgets sammenstilling basert på grunnlagsdata for England og Wales for perioden 2001–2013 fra Polismyndigheten (2015, s. 39).</u>
+
+Politiet i Norge har skutt og drept betydelig færre enn hva tilfellet har vært for svensk og dansk politi. Som det fremgår av tabell 5.6 har norsk politi skutt og drept 0,055 personer i gjennomsnitt per år per millioner innbygger, mens svensk politi har skutt og drept 0,14 personer i snitt i samme periode. I Danmark er tallene om lag tre ganger så høye som i Norge. Dødsratene er rimelig stabile i de to tidsperiodene det her er sett på.
+
+1.  <u>Antall skutt og drept av politiet i nordiske land og England og Wales. Gjennomsnitt for antall drepte per år per millioner innbygger.</u>
+
+|  |  |  |  |  |  |
+|----|----|----|----|----|----|
+| Periode | <u>Danmark</u> | <u>Finland</u> | <u>Sverige</u> | <u>Norge</u> | <u>England og Wales</u> |
+|  |  |  |  |  |  |
+| 2006–2016<sup>1</sup> | <u>N.A.</u> | <u>N.A.</u> | <u>0,141</u> | <u>0,055</u> | <u>0,037</u> |
+| 1996–2006<sup>2</sup> | <u>0,187</u> | <u>0,034</u> | <u>0,133</u> | <u>0,060</u> | <u>0,042</u> |
+|  |  |  |  |  |  |
+
+<sup><u>1</u></sup><u> Tall for Norge, Sverige og England og Wales: Beregninger utført av utvalget basert på tall fra POD, Statistisk sentralbyrå, Lundin (2016) og Inquest (2017).</u>
+
+<sup><u>2</u></sup><u> Dansk politi (2007).</u>
+
+1.  **<u>Polititjenestepersoner d</u><u>ø</u><u>dd i tjeneste i Norge (1945</u><u>–</u><u>2016)</u>**
+
+Polititjenestepersoner kan stå i potensielt svært risikoutsatte situasjoner. Av og til får situasjoner fatalt utfall. I tabell 5.7 er det satt opp situasjonene der norske polititjenestepersoner er dødd i tjeneste, enten som følge av forsettlig drap, eller omkommet i ulykke. Siden andre verdenskrig har 24 polititjenestepersoner dødd i tjeneste i Norge.[^39] 14 personer er drept, mens ti har dødd som følge av ulykke. 23 var menn og én var kvinne. Siden 2000 har fire polititjenestepersoner omkommet i tjeneste.
+
+1.  <u>Dødsfall i tjeneste i Norge. Perioden 1945–2016</u>
+
+|  |  |  |  |  |  |
+|----|----|----|----|----|----|
+| Årsak | Forsettelig drept i tjeneste | Årstall | Drept i ulykker i tjeneste | Årstall | Sum drepte |
+|  |  |  |  |  |  |
+| Skutt | 8 | 2004, 1998, 1998, 1990, 1985<sup>1</sup>, 1974, 1973 og 1967 |  |  | 8 |
+|  |  |  |  |  |  |
+| Stukket med kniv | 2 | 2010 og 1957 |  |  | 2 |
+| Slåsskamp | 2 | 1963 og 1959 |  |  | 2 |
+| Kjørt ned | 1 | 2010 | 1 | 2008 | 2 |
+|  |  |  |  |  |  |
+| Trafikkulykke |  |  | 6 | 1999, 1996, 1984, 1978, 1976 og 1957 | 6 |
+|  |  |  |  |  |  |
+| Falt av politihest |  |  | 1 | 1991 | 1 |
+| Død av brannskade |  |  | 1 | 1966 | 1 |
+| Druknet |  |  | 1 | 1971 | 1 |
+| Sprengt til døde | 1 | 1991 |  |  | 1 |
+| Sum | 14 |  | 10 |  | 24 |
+|  |  |  |  |  |  |
+
+<sup><u>1</u></sup><u> Antallet inkluderer politioverkonstabel Per Pedersen som ble skutt i 1958 og døde i 1985 som følge av komplikasjoner av de skuddskadene han ble påført.</u>
+
+<u>Utvalgets sammenstilling basert på tallgrunnlag i Politiforum (2010) og Politijuristene (2017). Det finnes også en oversikt på http://minneside.blogspot.no/. </u>
+
+Som det fremgår av tabell 5.7 er åtte polititjenestepersoner skutt i tjeneste siden andre verdenskrig, én av disse etter 2000. På 1990-tallet ble tre polititjenestepersoner, skutt og drept, hvorav to i samme aksjon. Statistisk er dette små tall og en kan ikke konkludere med at sannsynligheten for å bli skutt og drept under utførelse av polititjeneste er hverken økende eller synkende. Skytevåpen hos motpart har forårsaket en tredjedel av antall dødsfall i tjenesten.
+
+Seks polititjenestepersoner har omkommet i trafikkulykker i perioden. Disse har enten kollidert eller omkommet i utforkjøringer. I tillegg har to polititjenestepersoner blitt drept som følge av påkjørsler. Den siste, i 2010 som resultat av en bevisst handling. Trafikkulykker, inkludert to påkjørsler, utgjør en tredjedel av dødsfallene. To polititjenestepersoner har omkommet i situasjoner som kan beskrives som «slåsskamp».
+
+Ifølge beregninger fra Mykletun (2016) dør det noe flere polititjenestepersoner på jobb enn i gjennomsnittet av alle næringer i Norge. I gjennomsnitt dør det 1,8 personer per 100 millioner arbeidstimer i alle næringer, mens tallet er 2,76 når en ser på polititjenestepersoner (for perioden 2007–2016). Det er flere næringer som ligger høyere enn politiet, blant annet fiskerinæringen, jordbruksnæringen, skipsfart og transport.
+
+Målt i absolutte tall er antall skutte og drepte tjenestepersoner i Norge lavere enn i Storbritannia og Danmark (se tabell 5.8). Målt opp mot innbyggertall, er det imidlertid færre polititjenestepersoner som er blitt skutt i Storbritannia enn i Norge. Det understrekes at det kan være noe usikkerhet i tallene for Danmark og Storbritannia.
+
+1.  <u>Antall polititjenestepersoner som er skutt og drept i Norge, Danmark og Storbritannia i perioden 1945–2016. I absolutte tall og målt per million innbyggere (siste tilgjengelige tall for innbyggere)</u>
+
+|  |  |  |  |
+|----|----|----|----|
+|  | <u>Norge</u> | <u>Danmark</u> | <u>Storbritannia</u> |
+|  |  |  |  |
+| Antall skutte og drepte polititjenestepersoner | <u>8</u> | <u>15</u> | <u>45</u> |
+| Sum antall drepte som andel av befolkning i mill. | <u>1,53</u> | <u>2,69</u> | <u>0,70</u> |
+|  |  |  |  |
+
+<u>Utvalgets beregninger basert på tall for Danmark (http://cphpost.dk/news/danish-policeman-shot-in-the-head-dies-in- hospital.html) og Storbritannia (tall for perioden 1945-2015) (https://en.wikipedia.org/wiki/List_of_British_police_officers\_ killed_in_the_line_of_duty)</u>
+
+1.  **<u>Gjennomgang av saker etterforsket av Spesialenheten for politisaker</u>**
+
+Utvalget har gjennomgått sakene som Spesialenheten for politisaker har etterforsket der politiet truet med og/eller brukte skytevåpen i perioden januar 2005 til april 2016.[^40] Spesialenheten etterforsker også noen situasjoner der politiet har utilsiktede avfyringer (vådeskudd). Disse sakene drøftes i kapittel 7 og inngår ikke i oversikten her. Spesialenheten skal motta varsel og iverksette etterforsking i alle saker hvor noen har blitt skadet som følge av at politiet har løsnet skudd. Saker hvor noen har dødd eller blitt alvorlig skadet som følge av politiets tjenestehandlinger skal etterforskes uavhengig av mistanke om straffbart forhold (jf. påtaleinstruksen § 34-6, andre ledd). Riksadvokaten har gitt instruks om at det i tillegg bør iverksettes etterforsking når politiet har skadet noen ved bruk av skytevåpen, uavhengig av anmeldelse, og selv om skaden ikke er alvorlig (Riksadvokatens rundskriv 3/2006). Spesialenheten har også etterforsket hendelser der politiet har rettet skudd mot person uten å treffe, samt hendelser der det kun er avfyrt varselsskudd eller truet med bruk av skytevåpen.
+
+Spesialenheten for politisaker etterforsket 25 saker der politiet truet med eller brukte skytevåpen mellom januar 2005 og april 2016 (jf. tabell 5.9).[^41] I ti av de 25 tilfellene var gjerningsperson bevæpnet med skytevåpen, enten ekte eller replika (luftvåpen, knallpistol eller lignede, som fremstod som ekte). I ti av tilfellene var gjerningspersonen bevæpnet med stikk-/slagvåpen som kniv, øks, hammer eller lignede. Noen av disse sakene handlet om at en person som var mistenkt for straffbare handlinger skulle pågripes og at vedkommende var observert med våpen og/eller allerede hadde brukt våpen. Andre saker gjaldt pågripelsessituasjoner der tjenestepersonene underveis ble klar over at gjerningspersonen hadde våpen tilgjengelig, eller truet med våpen. Flere av sakene gjaldt pågripelse av personer som i situasjonen fremsto som psykisk ustabile, påvirket av rusmidler, eller begge deler. I flertallet av disse sakene var det i forkant meldt inn om observasjoner som ga grunn til å mistenke at gjerningsperson var bevæpnet enten med kniv eller skytevåpen. Dette samsvarer med erfaringer fra Sverige. I hvert fjerde tilfelle der politiet i Sverige bruker våpen, er den det blir brukt våpen mot påvirket av narkotika/alkohol, er psykisk syk og truer med kniv (Polismyndigheten 2015, s. 29).
+
+1.  <u>Egenskaper ved situasjoner der politiet anvender skytevåpen. Basert på Spesialenheten for straffesakers etterforsking. Januar 2005–april 2016</u>
+
+|  |  |  |  |  |  |  |  |  |  |  |
+|----|----|----|----|----|----|----|----|----|----|----|
+|  | Politiets bruk av våpen i situasjonene | Motpartens våpenutrustning | Situasjoner med personskade/død motpart |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+| Antall etterforskede saker | Varselskudd mot person | Rettet skudd mot person<sup>1</sup> | Annet | Skytevåpen<sup>2</sup> | Stikk-/slagvåpen | Annet | Motpart død | Motpart skadet | Politi skadet | Antall straffbare forhold |
+|  |  |  |  |  |  |  |  |  |  |  |
+| 25 | 2 | 20 | 3 | 10 | 10 | 5 | 3 | 14 | 2 | 0 |
+|  |  |  |  |  |  |  |  |  |  |  |
+
+<sup><u>1</u></sup><u> For noen av situasjonene der rettet skudd ble avfyrt, ble det først avfyrt varselskudd.</u>
+
+<sup><u>2</u></sup><u> For noen av situasjonene var motpart både bevæpnet med skytevåpen og stikk-/slagvåpen. Disse er her telt med under kategorien for skytevåpen.</u>
+
+<u>Utvalgets gjennomgang av etterforskede saker fra Spesialenheten for politisaker</u>
+
+I perioden januar 2005 til april 2016 ble tre personer skutt og drept av politiet. I tillegg skjøt og skadet politiet 14 personer. I en hendelse oppsto livstruende skader som følge av skuddskader i lårene. De øvrige 13 personene som ble skutt og skadet av politiet fikk ikke livstruende skader. I en hendelse ble en politimann skutt og alvorlig skadet og i en annen hendelse ble en tjenesteperson lettere skadet av hagl i halsen.
+
+Ifølge Spesialenheten (2014) varierte avstanden som tjenestepersonene skjøt fra.[^42] En klar overvekt av skuddene ble formentlig avfyrt fra en avstand på mindre enn ti meter. I kun én av sakene hvor noen ble skadd eller døde som følge av politiets bruk av skytevåpen, hadde tjenestepersonen som skjøt bevæpnet seg uten forhåndsgodkjenning. Tjenestepersonen gjorde dette etter å ha hørt over samband at kollegaer ba om bistand og at gjerningspersonen hadde våpen. Spesialenheten la til grunn at meldingene over samband ga grunnlag for egenbevæpning etter våpeninstruksen § 11. I de øvrige sakene var det gitt bevæpningstillatelse på forhånd eller underveis i oppdragsløsningen. Med ett unntak er det løsnet skudd av politiet først etter at politiet hadde gjort seg til kjenne med tilrop. I flere av sakene hadde politiet over lengre tid forsøkt å få gjerningspersonen til å overgi seg. I de fleste av sakene avfyrte politiet skudd fordi tjenestepersonen opplevde at sitt eller andres liv sto i fare.
+
+Alle saker der tjenestepersoner er blitt etterforsket for bruken av tjenestevåpen er henlagt som intet straffbart forhold. I følge Spesialenheten var det avgjørende for henleggelsene at politiloven og våpeninstruksens regler om trinnvis opptrapping av virkemiddelbruk og at skytevåpen kun skal brukes som siste utvei, ble overholdt. Det framgår at i de fleste tilfellene hadde tjenestepersonene gjort forsøk på å anvende lempeligere midler i henhold til maktpyramiden, herunder tilrop, varsel/tilkjennegjort at bevæpnet politi var på stedet og lignende.
+
+*<u>Utvalgets vurderinger av de etterforskede sakene fra Spesialenheten</u>*
+
+Etter utvalgets oppfatning underbygger denne gjennomgangen av saker som Spesialenheten har etterforsket at det norske politiets faktiske våpenbruk fremstår som legitim. Utvalget vil peke på at det ble gjort forsøk på en trinnvis opptrapping og at politiet har forsøkt å få gjerningsperson til å overgi seg i forkant av bruk av tjenestevåpen. Utvalget peker på at mange av skuddene er avfyrt mot person med kniv og på kort hold. Dette er situasjoner der elektrosjokkvåpen potensielt kunne vært aktuelt å bruke, dersom et slikt våpen hadde vært tilgjengelig for innsatspersonellet. Elektrosjokkvåpen blir nærmere diskutert i kapittel 9.
+
+1.  **<u>Politiets responstid</u>**
+
+    1.  **<u>Bakgrunn</u>**
+
+Et av politiets viktigste bidrag for å redusere sårbarheten i samfunnet, er å sikre at vi har et tilgjengelig og responderende politi som er i stand til å yte umiddelbar bistand til publikum i nødsituasjoner. Etter anbefalinger fra 22. juli-kommisjonen, Politianalysen og senere utredning i Politidirektoratet, ble det fra og med 2015 for første gang målt og stilt krav til responstid i politiet (Politidirektoratet, 2015).
+
+Responstid er tiden det tar fra politiet mottar melding om en hendelse til første politienhet er på stedet (Politidirektoratet, 2015), og det sier således ikke noe om tiden etter at politiet har kommet frem på stedet eller om hvordan oppdraget ble løst. Responstiden er definert til å avslutte når patruljen er fremme på stedet, blant annet for å unngå uønskede konsekvenser hvis aksjonstiden (tiden frem til situasjonen er under kontroll) blir satt under press (Politidirektoratet, 2013).
+
+Responstid kan deles opp i ulike intervaller for å tydeliggjøre ulike arbeidsoppgaver som inngår og hvem som er involvert i arbeidsprosessen. Det første intervallet er tiden det tar fra telefonen begynner å ringe ved operasjonssentralen til en patrulje blir tildelt oppdraget. Dette intervallet kalles operasjonssentraltiden og involverer hovedsakelig personell ved operasjonssentralene. Det andre intervallet er fra første patrulje får tildelt oppdraget til første patrulje er fremme på stedet. Dette intervallet kalles klargjøring- og utrykningstiden og involverer hovedsakelig innsatspersonell i patruljene.
+
+Det er stilt krav til responstid kun i ekstraordinære hendelser og/eller hendelser der liv er direkte truet eller det av andre grunner er påkrevet med umiddelbar respons fra politiet (Politidirektoratet, 2015).[^43] Dette omtales som hasteoppdrag. Det er operasjonssentralen som foretar vurderingen av hvor mye et oppdrag haster. Dette gjøres etter en standardisert metode, jf. Politidirektoratets rundskriv av 2014–005.[^44]
+
+Politidistriktene har ulik geografi og mønstre av befolkningstetthet. Ideelt sett bør politiets responstid være lik overalt, uavhengig av politiets administrative grenser. Samtidig er det ikke rimelig å forvente at politiet skal ha lik responstid i alle områder i landet uavhengig av hvor folk bor/ befolkningstetthet. Politiet har derfor tatt utgangspunkt i de seks tettstedsdefinisjonene og tettstedskategoriene til SSB[^45], og gruppert dette i tre hovedkategorier; «øvrige områder og tettsteder med under 2000 innbyggere», «tettsteder med 2000–19 999 innbyggere» og «tettsteder med 20 000 eller flere innbyggere» og satt ulike krav til responstid for disse (Politidirektoratet, 2015).[^46]
+
+1.  **<u>Resultater for politiets responstid</u>**
+
+Utvalget har innhentet Politidirektoratets resultater for politiets responstid for perioden fra 13.4.2016 til og med 31.12.2016. Det totale antall registrerte oppdrag i denne perioden var 539 199.[^47] Av disse er 10 912 definert som hasteoppdrag. Hasteoppdragene utgjør dermed kun 2 % av alle oppdrag (se figur 5.17).
+
+**<u>\[:figur:figX-X.jpg\]</u>**
+
+1.  <u>Andel hasteoppdrag av alle oppdrag</u>
+
+<u>Politidirektoratet</u>
+
+Det har imidlertid ikke vært mulig å måle responstiden for alle registrerte hasteoppdrag. Det er målt responstid for 7 701 hasteoppdrag, noe som innebærer rundt 70 % av de registrerte hasteoppdragene. Det er begrensninger og usikkerhet knyttet til datagrunnlaget, men etter en samlet vurdering oppsummerer Politidirektoratet at resultatene gir et godt bilde av politiets responstid.
+
+1.  *<u>Politiets responstid generelt</u>*
+
+Den gjennomsnittlige responstiden for alle hasteoppdrag i perioden, uavhengig av tettstedskategori, var på 13,5 minutter (st. avvik 15,0). Resultatene viser videre at den gjennomsnittlige responstiden var på 8,7 minutter (st. avvik 8,4) i de største tettstedene, på 14 minutter (st. avvik 15,1) i de mellomste tettstedene og på 21,4 minutter (st. avvik 19,5) i tettsteder som er definert som «øvrige områder» – der det er under 2000 innbyggere.
+
+Tiden patruljen bruker på å komme seg frem til stedet utgjør den største andelen av den totale responstiden. Politidirektoratets analyser fra 2015 viser videre at avstanden mellom patrulje og hendelsen er den variabelen som forklarer mest av variasjonen i politiets responstid. Den gjennomsnittlige tiden for alle hasteoppdrag fra en patrulje ble tildelt oppdraget til den var fremme på stedet var på 9,5 minutter (st. avvik 12,1).
+
+1.  *<u>Bev</u><u>æ</u><u>pnede hasteoppdrag</u>*
+
+Av alle oppdrag (N = 539 199) var 10 083 hasteoppdrag uten bevæpning (1,87 %) og 829 hasteoppdrag var med bevæpning (0,15 %) (se figur 5.18). Det viser at det er svært få av alle oppdrag som har hastet og medført bevæpning.
+
+**<u>\[:figur:figX-X.jpg\]</u>**
+
+1.  <u>Oversikt over andel hasteoppdrag med og uten bevæpning, samt andel oppdrag som ikke hastet, av alle oppdrag (hele kaken)</u>
+
+<u>Politidirektoratet</u>
+
+Av alle hasteoppdrag medførte 7,6 % bevæpning. Den gjennomsnittlige responstiden for bevæpnede hasteoppdrag var på 14,1 minutter.[^48] Disse oppdragene følger samme mønster som hasteoppdrag generelt, der det er kortest responstid i de største tettstedene og lengst responstid i områder som er mer spredt befolket.
+
+Resultatene fra Politidirektoratet viser videre at bevæpnede hasteoppdrag har gjennomsnittlig lenger responstid enn hasteoppdrag der det ikke er gitt bevæpning (se tabell 5.10). Differansen er på 4,0 minutter i områder med under 2000 innbyggere, på 4,8 minutter i tettsteder med mellom 2000–19 999 innbyggere og på 1,3 minutter i tettsteder med over 20 000 innbyggere.[^49] For å undersøke nærmere hva som kan forklare denne forskjellen, er det videre delt mellom operasjonssentraltiden og klargjøring- og utrykningstiden.
+
+1.  *<u>Operasjonssentraltid</u>*
+
+Når det gis beslutning om bevæpning, skal operasjonssentralen foreta grundige risikovurderinger. Operasjonssentralen skal få et best mulig bilde av situasjonen gjennom å innhente god og relevant informasjon, noe som er viktig bl.a. for å ivareta tjenestepersonenes sikkerhet (se mer om dette i punkt 5.6.2). Dette kan medføre at operasjonssentralen bruker noe lengre tid ved bevæpnede oppdrag enn ved andre oppdrag. Resultatene viser at den gjennomsnittlige operasjonssentraltiden ved alle bevæpnede hasteoppdrag var på 4,4 min (st. avvik 5,3), mens den ved ubevæpnede hasteoppdrag var på 3,6 min (st. avvik 4,9). Det innebærer en differanse på 0,8 minutter (p\< 0,01).
+
+1.  <u>Gjennomsnittlig responstid i minutter for ubevæpnede og bevæpnede hasteoppdrag fordelt på tettstedskategori</u>
+
+|  |  |  |  |  |  |  |  |  |  |
+|----|----|----|----|----|----|----|----|----|----|
+|  | Færre enn 2000 innbyggere | 2000–19.999 innbyggere | Over 20 000 innbyggere |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  | Ubevæpnet | Bevæpnet | Diff | Ubevæpnet | Bevæpnet | Diff | Ubevæpnet | Bevæpnet | Diff |
+|  |  |  |  |  |  |  |  |  |  |
+| N | 2 313 | 125 |  | 1 148 | 109 |  | 3 575 | 431 |  |
+| Gjennomsnitt | 21,2 | 25,2 | 4,0 | 13,6 | 18,4 | 4,8 | 8,5 | 9,9 | 1,3 |
+| Standardavvik | 19,6 | 17,0 |  | 14,9 | 16,3 |  | 8,4 | 8,4 |  |
+|  |  |  |  |  |  |  |  |  |  |
+
+1.  *<u>Klargj</u><u>ø</u><u>rings- og utrykningstid</u>*
+
+Resultatene viser videre at det ikke er forskjell i klargjørings- og utrykningstiden[^50] mellom bevæpnede og ikke-bevæpnede hasteoppdrag når vi analyserer alle hasteoppdragene samlet. Resultatene viser imidlertid at det er en differanse i denne tiden når vi bryter ned i tettstedskategorier. Differansen utgjør 2,8 minutter i de minste tettstedskategoriene, 4,1 minutter i områder med 2000–19 999 innbyggere og 0,8 minutter i områder med over 20 000 innbyggere[^51] – der bevæpnede oppdrag har lengst klargjørings- og utrykningstid. Det er flere forhold som kan bidra til at denne tiden blir lengre i oppdrag der det er gitt beslutning om bevæpning; det skal gjøres en grundig risikovurdering, det skal legges en plan, tjenestepersonellet skal ikle seg verneutstyr osv., samt at slike oppdrag kan medføre en mer tidkrevende taktisk fremrykking til stedet mm.
+
+Det er i utgangspunktet vanskelig å se hvorfor disse arbeidsprosessene skulle ta lenger tid i noen områder enn i andre. Kanskje kan noe forklares med bruk av reservetjeneste, samt at man i de to minste tettstedskategoriene må vente lenger på bistand fra flere patruljer enn i tettere befolkede områder. Ved bevæpnede oppdrag vil det for eksempel kunne være taktisk hensiktsmessig å avvente utrykning til åstedet inntil flere patruljer har ankommet og en kan gjennomføre oppdraget samlet.
+
+1.  *<u>Mulige forklaringer</u>*
+
+Datamaterialet er ikke egnet for å konkludere med hva som kan forklare forskjellen i responstid mellom ubevæpnede og bevæpnede oppdrag. En forklaring kan handle om avstanden mellom patrulje og oppdrag dersom bevæpnede oppdrag skjer systematisk lengre unna patruljen enn ubevæpnede oppdrag. Dette kan henge sammen med at det kan være vanskeligere å predikere den type oppdrag som medfører bevæpning (i motsetning til andre hasteoppdrag i disse områdene, som f.eks. trafikkulykker mm.), slik at det blir vanskeligere å legge dette inn i flåtestyringen av patruljene, enn hasteoppdrag i sentrumsområder – som kan være mer forutsigbare når det gjelder tid og sted. En annen mulig forklaring kan altså være endring i arbeidsprosessen på grunn av påkrevde og ønskelige rutinetrinn ved bevæpnede oppdrag – både ved operasjonssentraler og for innsatspersonell.
+
+1.  **<u>Utvalgets vurderinger og anbefalinger</u>**
+
+Bevæpningsutvalget mener prinsipper og verdier den norske modellen bygger på i enda større grad bør inn i utdanning og opplæring, slik at disse blir internalisert i politiets praksis og samhandling med befolkningen (se kapittel 3 og kapittel 9).
+
+Utvalgets oppfatning er at dagens ordning med fremskutt lagring av skytevåpen fungerer godt. Utvalget mener at ordningen gir en god tilgang til våpen ved behov. Det innebærer at innsatspersonell i løpet av kort tid kan gå fra å være ubevæpnet til å bevæpne seg og håndtere vanskelige situasjoner med våpen.
+
+Utvalget registrerer at antall bevæpningsbeslutninger har økt kraftig siden 2007. Utvalget mener det er viktig at politiet løpende følger med på utviklingen i bevæpningsordre, slik at det sikres at dette er i tråd med lovgivers intensjon.
+
+Utvalget mener at tilstrekkelig bemanning er helt avgjørende for å sikre et raskt responderende politi med god kvalitet i oppdragsløsningen. Bemanning er også viktig for å kunne ivareta tjenestepersonenes egensikkerhet, for å ivareta publikum og for å kunne løse oppdrag med bruk av minst mulig makt. Politiets operative kapasitet synes å ha blitt noe styrket de siste årene. Bevæpningsutvalget er opptatt av at det sikres tilstrekkelig politioperativ kapasitet i form av bemanning, og at vi ikke må komme dit at bevæpning av politiet blir et svar på manglende politiressurser.

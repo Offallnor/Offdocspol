@@ -1,1055 +1,310 @@
-# NOU 2016: 24, del 45 av 73 (side 484–495)
+# NOU 2016: 24, del 45 av 69
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/1182afc0-nou-2016-24.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-24/id2517932/
 - Original-PDF: https://www.regjeringen.no/contentassets/6fe1d875248042b4a09b43b85aa46832/no/pdfs/nou201620160024000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 9 tabeller, 1 figur, 52 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 484]
-
-482
-
-Kapittel 23
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-Etter utvalgets syn kan det være grunn til å
-sentralisere behandlingen av sakstypen til enkelte
-utvalgte domstoler, slik gjeldende lov åpner for i
-krigstid, jf. straffeprosessloven § 466 annet ledd.
-Både praktiske hensyn og muligheten for å bygge
-ekspertise i dommerkorpset taler for dette.
-Reglene for valg av domstoler bør være fleksible.
-Behovet for å bruke andre eller flere domstoler
-kan oppstå i eventuell krigssituasjon.
-Loven bør ikke angi krav til struktur eller saksfordeling mellom domstolene, men gi hjemmel for
-å fastsette bestemmelser om valg av domstoler i
-forskrift. For eksempel kan det være hensiktsmessig å legge behandlingen av militære straffesaker
-til utvalgte domstoler i nærheten av Krigsadvokatene for Nord-Norge og tilsvarende i nærheten av
-Generaladvokatembetet og Krigsadvokatene for
-Sør-Norge. En annen mulighet kan være å legge
-alle sakene til én tingrett, eller til én eller enkelte
-tingretter med nærhet til Forsvarets hovedbaser
-for henholdsvis Sjøforsvaret, Luftforsvaret og
-Hæren. For begge alternativer vil det være hensiktsmessig at anke til anneninstans behandles av
-den eller de lagmannsretter som de utvalgte tingrettene sorterer under.
-Et særlig spørsmål er om norske domstoler
-bør kunne sette rett i utlandet. I dag åpner ikke
-loven for dette. Det er pekt på at dette medfører
-praktiske utfordringer og kan være uheldig for
-muligheten til å føre bevis umiddelbart for retten.
-Videre er det vist til at det kan skape mistillit hos
-lokalbefolkningen når straffesakene iretteføres i
-soldatenes hjemland og ikke på gjerningsstedet.50
-Etter utvalgets syn er disse argumentene
-tungtveiende, men utvalget antar at situasjonen
-trolig vil oppstå nokså sjelden, og at sakene og
-behovet for gjennomføringen antakelig vil variere
-betydelig. Det foreslås derfor en hjemmel for å
-fastsette nærmere bestemmelser i forskrift om, og
-i tilfelle hvordan, en sak kan gjennomføres i utlandet. Utvalget understreker at gjennomføringen av
-en norsk sak utenfor Norges grenser har en folkerettslig side. Forutsetninger for å sette rett i
-utlandet vil være at det er inngått avtale mellom
-statene, og at den annen stats lovgivning tillater at
-saken gjennomføres der.
-23.5.8 Særlig om militære meddommere
-I tilknytning til domstolsbehandlingen av militære
-straffesaker er det et spørsmål hvilken ekspertise
-det er behov for blant dommerne. I dag er det
-
-bare i krig at retten skal settes med militære meddommere, jf. straffeprosessloven § 466 siste ledd.
-Norske fagdommere er generalister. Tidligere
-har en bygget på forutsetningen om at en stor del
-av befolkningen har gjennomført førstegangstjeneste, og således at mange, i det minste mange
-menn, har en viss kunnskap om Forsvaret. Dette
-har endret seg. Dommere og tiltaltes forsvarer er i
-dag ofte uten militær bakgrunn.
-Et spørsmål er om de endrede forutsetningene
-kan begrunne bruk av meddommere i flere saker
-enn i dag. På den annen side kan det stilles spørsmål om det bør være slik at bare én gruppe tiltalte
-skal dømmes av personer med samme erfaringsbakgrunn som dem selv.51
-I dag skal meddomsretten i krig bestå av et
-flertall av militære meddommere, som er aktivt
-tjenestegjørende, og som skal trekkes fra lister
-utarbeidet av de militære myndigheter.52 Spørsmålet er om de gjeldende bestemmelser for bruk
-av militære meddommere tilfredsstiller kravet til
-uavhengighet etter EMK.
-Sammensetningen av militære domstoler var
-tema for EMD i saken Jaloud mot Nederland.53 I
-saken som ble vurdert, hadde domstolen vært satt
-med ett militært medlem. Vedkommende var
-tjenestegjørende offiser. Klageren anførte at
-militærkammeret i ankedomstolen i Arnhem ikke
-var tilstrekkelig uavhengig. EMD uttalte:
-«In the present case, the Court has had regard
-to the composition of the Military Chamber as
-a whole. It sits as a three-member chamber
-composed of two civilian members of the Arnhem Court of Appeal and one military member.
-The military member is a senior officer qualified for judicial office; he is promoted to titular
-flag, general or air rank if he does not already
-hold that substantive rank […]. In his judicial
-role he is not subject to military authority and
-discipline; his functional independence and
-impartiality are the same as those of civilian
-judges […]. That being so, the Court is prepared to accept that the Military Chamber offers
-guarantees sufficient for the purposes of
-Article 2 of the Convention.»
-Etter utvalgets syn bør det åpnes for bruk av militære meddommere i noen saker. Det kan være
-behov for et militært innslag i rettens sammen51
-52
-53
-
-50
-
-Dahl (2015) s. 28.
-
-Justis- og beredskapsdepartementet (2015) s. 13–14.
-Jf. straffeprosessloven §§ 466–468.
-Jaloud mot Nederland (47708/08), dom 20.11.11, avsnitt
-195–196.
-
-[Side 485]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-setning for at retten fullt ut skal kunne forstå sakens
-faktiske sider og bedømme handlingene. Etter
-utvalgets syn er det ikke tilstrekkelig at kunnskap
-om Forsvaret tilføres ved bruk av rettsoppnevnte
-sakkyndige, blant annet fordi det ofte vil måtte foretas helhetlige bedømmelser hvor alt som er bevisført, ses i sammenheng. Det er derfor viktig at
-retten selv besitter den nødvendige kunnskapen.
-Militære meddommere bør videre kunne benyttes
-både i krig og i fred. Behovet for ekspertise antas å
-kunne være det samme i begge situasjoner.
-Utvalget har blitt stående ved at det bør
-kunne oppnevnes meddommere med militær-
-
-483
-
-Kapittel 23
-
-faglig bakgrunn etter lovens generelle regel om
-fagkyndige meddommere, se utkastet §§ 5-5
-tredje ledd og 5-7. Ved oppnevningen skal det tas
-hensyn til praksis fra EMD og de underliggende
-saksbehandlingsidealer denne er uttrykk for.
-Antall fagkyndige dommere, hvilken forsvarsgren meddommerne representerer, og meddommernes rang vurderes konkret for hver enkelt
-sak. Utvalget foreslår at det gis hjemmel for å
-utarbeide lister over fagkyndige meddommere
-for den enkelte domstol i forskrift.
-
-[Side 486]
-
-484
-
-NOU 2016: 24
-
-Kapittel 24
-
-Ny straffeprosesslov
-
-Kapittel 24
-
-Private straffesaker
-24.1 Innledning
-Hovedregelen i vår prosessordning er at lovovertredelser skal påtales av det offentlige, jf. straffeprosessloven § 62 a første ledd. Fornærmedes
-adgang til å reise privat straffesak etter straffeprosessloven kapittel 28 gjør unntak fra dette
-utgangspunktet, jf. straffeprosessloven § 80.
-Private straffesaker er ikke særskilt nevnt i
-utvalgets mandat. I mandatet punkt 6 er imidlertid
-utvalget bedt om å se hen til rapportene fra
-Domstoladministrasjonens regelutvalg i sitt arbeid.
-I rapport nr. 3 og 4 anbefaler regelutvalget at
-departementet bør vurdere å oppheve ordningen
-med private straffesaker.1 Utvalget mener dessuten
-det er grunn til å drøfte en så vidt grunnleggende
-straffeprosessuell problemstilling som spørsmålet
-om hvorvidt det skal være adgang til privat forfølgning av mulig straffbare forhold.
-I det følgende redegjøres det kort for den
-nåværende ordningen med private straffesaker,
-jf. punkt 24.2. I punkt 24.3 redegjøres det for
-svensk og dansk rett. I punkt 24.4 redegjøres det
-for tidligere utredninger av spørsmålet. Utvalgets
-vurderinger og forslag fremgår av punkt 24.5.
-
-24.2 Oversikt over gjeldende rett
-Straffeprosessloven § 402 regulerer når fornærmede kan reise privat straffesak.2 Sakene deles
-etter loven inn i to hovedkategorier: ubetinget
-private straffesaker og subsidiært private straffesaker.
-Straffeprosessloven § 402 første ledd nr. 1 og 2
-gjelder adgangen til å reise ubetinget privat
-straffesak, hvilket vil si at fornærmede kan ta ut
-stevning uaktet om påtalemyndigheten vil forfølge
-
-saken. Er privat straffesak reist, vil det normalt
-hindre offentlig sak om samme forhold.3 Har påtalemyndigheten allerede reist sak, vil det imidlertid
-stenge for privat straffesak. Fornærmede kan da
-slutte seg til den offentlige forfølgningen etter
-straffeprosessloven § 404.
-Etter § 402 første ledd nr. 1 kan fornærmede
-forfølge straffbare handlinger som ikke påtales av
-det offentlige. Det finnes imidlertid ingen tilfeller
-der påtalen er helt overlatt til private i dagens
-lovgivning. Denne bestemmelsen har derfor
-ingen praktisk betydning.
-Etter nr. 2 er det adgang til å reise privat straffesak i tilfeller der offentlig påtale er betinget av at
-allmenne hensyn krever det.4 Alternativet omfatter
-mindre alvorlige forhold og forhold som kan ha
-liten offentlig interesse, som for eksempel krenkelser av privatlivets fred, mindre formueskrenkelser
-og ærekrenkelser. I praksis har det vist seg at ærekrenkelsessakene dominerer fullstendig.5
-Straffeprosessloven § 402 første ledd nr. 3
-regulerer de subsidiært private straffesakene. I
-disse tilfellene kan fornærmede bare reise sak
-dersom påtalemyndigheten ikke vil forfølge
-forholdet eller har frafalt en påbegynt forfølgning
-uten at det er gitt påtaleunnlatelse etter straffeprosessloven §§ 69 eller 70.6
-Lovens system er at de subsidiært private
-straffesakene omfatter alle straffbare handlinger
-som faller utenfor straffeprosessloven § 402 nr. 1
-og nr. 2, såfremt det finnes en privat fornærmet.7
-Det gjelder både saker hvor påtalen er ubetinget
-3
-4
-
-5
-1
-2
-
-Domstoladministrasjonen(2009b) s. 4 og Domstoladministrasjonen (2010) s. 5.
-Skadelidte som ikke er fornærmet i straffeprosessuell forstand, kan ikke reise privat straffesak, jf. straffeprosessloven § 3 siste ledd.
-
-6
-
-7
-
-Jf. straffeprosessloven § 415 og Bjerke, Keiserud og
-Sæther (2011) s. 1362.
-Før ikraftsettingen av straffeloven 2005 rettet § 402 nr. 2
-seg mot bestemmelser hvor påtale var betinget av allmenne
-hensyn, enten alene eller sammen med påtalebegjæring fra
-fornærmede.
-Se Bjerke, Keiserud og Sæther (2011) s. 1362.
-Etter påtaleinstruksen § 17-2 annet ledd annet punktum
-skal det gis underretning om adgangen til å reise privat
-straffesak til blant annet fornærmede og etterlatte ved innstilling av straffeforfølgning.
-Se Bjerke, Keiserud og Sæther (2011) s. 1363.
-
-[Side 487]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-offentlig, og saker der påtalen er betinget av
-allmenne hensyn.
-Har påtalemyndigheten besluttet å frafalle en
-påbegynt forfølgning for en handling som omfattes
-av § 402 nr. 2 eller 3, er det adgang for fornærmede til å overta forfølgningen og tre inn i påtalemyndighetens sted slik saken står, jf. straffeprosessloven § 406. Saken vil da fortsette som en
-privat straffesak.
-I de private straffesakene innehar fornærmede
-langt på vei påtalemyndighetens rolle, jf. straffeprosessloven § 409. Saken innledes ved at fornærmede tar ut stevning, jf. straffeprosessloven § 412.
-Stevningen trer i stedet for tiltalebeslutning og
-fastsetter rammen for domstolens kompetanse, jf.
-straffeprosessloven § 38. Private straffesaker
-følger ellers reglene om offentlige straffesaker så
-langt de passer, jf. straffeprosessloven § 409.
-Ordningen med påtalebegjæring fra fornærmede som formelt vilkår for straffeforfølgning er
-ikke videreført i straffeloven 2005, jf. Ot.prp. nr. 90
-(2003–2004) s. 62 flg. De alminnelige reglene om
-påtale følger nå av straffeprosessloven § 62 a, som
-trådte i kraft samtidig som straffeloven, se nærmere
-punkt 8.3.2.8 Bestemmelsen slår fast at alle lovbrudd som hovedregel er undergitt ubetinget
-offentlig påtale, jf. første ledd. Etter annet ledd kan
-imidlertid påtalemyndigheten unnlate å forfølge
-handlinger med en strafferamme på to år eller
-lavere hvis ikke allmenne hensyn tilsier påtale.
-Etter ikraftsettingen av straffeloven følger
-adgangen til å reise privat straffesak for de fleste
-straffebud av ordningen med subsidiært private
-straffesaker, jf. § 402 nr. 3.9 Det kan fortsatt
-tenkes tilfeller i spesiallovgivningen som vil være
-omfattet av straffeprosessloven § 402 nr. 2, men
-disse er i liten grad satt til vern av private interesser.
-For øvrig kan det nevnes at straffansvaret for
-ærekrenkelser ikke er videreført i ny straffelov,
-jf. Ot.prp. nr. 22 (2008–2009) s. 165 flg.
-Retten til domstolsprøving etter Den europeiske menneskerettskonvensjon (EMK) artikkel
-6 nr. 1 gjelder bare «civil rights and obligations».
-Høyesterett har lagt til grunn at adgangen til å
-reise privat straffesak ikke er å anse som en «civil
-right» etter EMK artikkel 6 nr. 1, jf. Rt. 2008 s. 672
-(avsnitt 22).
-8
-
-9
-
-Se lov 19. juni 2015 nr. 65 om ikraftsetting av straffeloven
-2005 (straffelovens ikraftsettingslov) § 1 og Prop. 64 L
-(2014–2015) s. 126.
-Se mer om § 62 a i Ot.prp. nr. 22 (2008–2009) pkt. 14.5,
-Prop. 64 L (2014–2015) pkt. 6.2 og Justis- og beredskapsdepartementets høringsnotat juni 2014 om forslag til lov
-om ikraftsetting av straffeloven 2005 punkt 4.3.2.
-
-485
-
-Kapittel 24
-
-24.3 Utenlandsk rett
-24.3.1 Dansk rett
-Dansk rett bygger på et offentligrettslig forfølgningsprinsipp. Påtalekompetanse for fornærmede
-eller andre krever særlig hjemmel, jf. retsplejeloven § 719.10
-Det er ingen alminnelig adgang til subsidiær
-privat påtale i Danmark.11 Fornærmede har imidlertid en begrenset adgang til privat påtale i visse
-mindre alvorlige sakstyper. Dette gjelder blant
-annet for fredskrenkelser, ærekrenkelser og selvtekt, jf. den danske straffeloven §§ 275 stk. 1 og
-305 stk. 2. Videre er det adgang til privat påtale av
-overtredelser i tilfeller der offentlig påtale er
-betinget av fornærmedes begjæring, når strafferammen ikke er høyere enn fengsel i inntil fire
-måneder, jf. retsplejeloven § 726.
-Spørsmålet om hvorvidt det burde innføres en
-alminnelig adgang til subsidiær privat påtale, ble
-drøftet av Justisministeriets strafferetsplejeutvalg
-i 2006.12 Utvalget gikk imot dette med følgende
-begrunnelse:
-«[O]bjektivitetsprincippet [bør fortsat] være et
-bærende princip i straffeprocessen, bl.a. således at kompetencen til at afgøre, om der skal
-rejses tiltale, i almindelighed bør ligge hos et
-statsligt organ, der er forpligtet til at vurdere tiltalespørgsmålet efter saglige og objektive kriterier. Beslutninger, der indebærer, at nogen
-tiltales med den belastning, der følger med at
-være tiltalt i en straffesag, bør således efter
-udvalgets opfattelse i alle mere alvorlige sager
-træffes af en statslig myndighed efter saglige
-og objektive kriterier. En almindelig subsidiær
-påtaleret for den forurettede ville også indebære en risiko for uens behandling af sigtede
-afhængig af den enkelte forurettedes vilje. Hertil kommer, at udvalget ikke finder, at sigtede/
-tiltalte eller retsvæsenet i almindelighed bør
-belastes med straffesager, som anklagemyndigheden har vurderet, at der ikke er tilstrækkeligt grundlag for at føre.» 13
-Utvalget mente at fornærmedes legitime interesse
-i å fremme sine synspunkter på påtalespørsmålet i
-10
-11
-12
-13
-
-Se også Smith mfl. (2008) s. 130.
-Betænkning nr. 1485/2006 s. 17 og 22 med videre henvisninger.
-Betænkning nr. 1485/2006 s. 75 flg.
-Betænkning nr. 1485/2006 punkt 4.2.2. s. 75. Se også punkt
-4.2.1.
-
-[Side 488]
-
-486
-
-NOU 2016: 24
-
-Kapittel 24
-
-Ny straffeprosesslov
-
-en konkret sak i tilstrekkelig grad blir ivaretatatt
-gjennom adgangen til å påklage negative påtalevedtak. Utvalgets anbefaling ble fulgt opp i det
-videre lovarbeidet.14
-24.3.2 Svensk rett
-I svensk rett har fornærmede en vid adgang til
-subsidiær privat påtale, jf. Rättegångsbalken 20
-kap. 8 §. I Straffprocessutredningen er det nylig
-vurdert om ordningen burde avskaffes.15 Det er
-vist til at flere aktører har tatt til orde for å
-oppheve adgangen til subsidiær påtale fordi den
-først og fremst blir benyttet på sjikanerende vis og
-det ikke er uvanlig at sakene er åpenbart grunnløse. I utredningen er det videre vist til at mange
-saker krever en ikke ubetydelig arbeidsinnsats fra
-domstolens side.16
-Det ble likevel lagt til grunn at adgangen av
-kontrollhensyn burde beholdes, og at det ville gi
-liten samlet gevinst for rettsvesenet å fjerne
-ordningen. I begrunnelsen heter det:
-«Antalet mål är dock förhållandevis litet. Polisoch åklagarresurserna berörs överhuvudtaget
-inte. Det skulle inte ha någon effekt för handläggningen av det absoluta flertalet brottmål,
-dvs. de där åklagaren för talan. Att målsäganden i sista hand har möjlighet att väcka enskilt
-åtal säkerställer också att den som anser sig ha
-blivit utsatt för ett brott på egen hand kan få till
-stånd en prövning i domstol. Som anförts i tidigare lagstiftningsarbete (se prop. 1981/82:41
-s. 13) utgör det en möjlighet till kontroll för den
-enskilde som det inte helt kan bortses ifrån.
-Det finns även en risk att effekten av att
-avskaffa målsägandens rätt att väcka åtal skulle
-kunna få negativa konsekvenser för rättsväsendet i stort. Trycket på åklagaren att väcka åtal
-kan komma att öka om åklagarens beslut slutgiltigt skulle stänga vägen för att ansvarsfrågan
-kan komma att prövas i domstol. Särskilt gäller
-det i de fall där åklagaren ska pröva om åtal är
-påkallat ur allmän synpunkt.
-Även om åklagare ska göra en självständig
-och objektiv bedömning av den frågan kan det
-ha betydelse vilka alternativ som finns för målsäganden. Det är inte otänkbart att tillämpnin-
-
-gen av åtalsprövningsreglerna skulle behöva
-bli mer generös än i dag.»17
-Etter rättegångsbalken 20 kap. 8 § stk. 2 har
-fornærmede også vid adgang til å slutte seg til
-tiltalen. Straffprocessutredningen har anbefalt at
-denne ordningen avskaffes.18 Denne delen av
-utredningen er per oktober 2016 fortsatt til
-behandling i Justisministeriet.
-
-24.4 Tidligere drøftelser av behovet for
-private straffesaker
-Spørsmålet om hvorvidt ordningen med private
-straffesaker bør bestå, har over tid vært drøftet i
-ulike sammenhenger. Straffeprosesslovkomiteen
-gikk i sin tid samlet inn for å beholde adgangen til
-privat påtale i de ubetinget private sakene.19 Utvalget viste til at å fjerne muligheten ville gripe så
-dypt inn i reglene om rettsvern mot ærekrenkelser at spørsmålet burde diskuteres i sammenheng
-med straffansvaret for ærekrenkelser.20
-I synet på de subsidiært private sakene var
-Straffeprosesslovkomiteen delt. Flertallet mente
-at ordningen burde avskaffes, fordi erfaringen
-syntes å vise at det sjelden kommer noe positivt ut
-av en subsidiært privat sak, og sakene representerer en belastning både for partene og det offentlige.21 Utvalget hadde undersøkt subsidiært
-private saker i en periode på fem år uten å finne én
-eneste sak som hadde endt med domfellelse. Et
-mindretall i komiteen gikk inn for å beholde
-adgangen til subsidiær privat forfølgning og la
-særlig vekt på hensynet til allmennhetens tillit til
-behandlingen av straffesaker.22 Mindretallets syn
-ble lagt til grunn for utformingen av straffeprosessloven.23
-Straffelovkommisjonen foreslo i delutredning
-VII at ordningen med private straffesaker burde
-avskaffes.24 Kommisjonen viste særlig til at det
-strafferettslige ansvaret for ærekrenkelser ble
-foreslått vesentlig innskrenket, noe som ville
-17
-
-18
-19
-20
-
-14
-
-Jf. Retsudvalgets betænkning over forslag til lov om
-ændring af retsplejeloven og retsafgiftsloven s. 7, og lov
-6. juni 2007 nr. 517. Merk: Spørsmålet har, så vidt utvalget
-er kjent med, ikke blitt vurdert igjen.
-15
-SOU 2013: 17 s. 298–300.
-16
-SOU 2013:17 s. 299.
-
-21
-22
-23
-24
-
-Da utvalget besøkte Svea hovrätt, tok enkelte av hovrättsdommerne til orde for at ordningen med «enskilt åtal»
-burde avskaffes.
-SOU 2013:17 s. 276–277.
-Straffeprosesslovkomitéen (1969) s. 117 flg.
-Straffeprosesslovkomitéen (1969) s. 120.
-Straffeprosesslovkomitéen (1969) s. 119.
-Straffeprosesslovkomitéen (1969) s. 119.
-Ot.prp. nr. 35 (1978–79) s. 84–86.
-NOU 2002: 4 s. 188. Straffelovkommisjonen foreslo i
-delutredning V at adgangen til å reise privat straffesak
-burde bestå, jf. NOU 1992: 23 s. 246–247.
-
-[Side 489]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-redusere antallet private straffesaker. Videre la
-kommisjonen vekt på at reglene om påtalebegjæring som betingelse for offentlig påtale og private
-straffesaker ikke ble foreslått videreført.25
-Problemstillingen ble tatt opp i første delproposisjon til ny straffelov, men nærmere drøftelse
-ble utsatt under henvisning til at regelverket
-burde vurderes i sammenheng med reglene om
-ærekrenkelser, etter at Stortinget hadde tatt
-stilling til forslaget om å forlate ordningen med
-formell påtalebegjæring fra den fornærmede, jf.
-Ot.prp. nr. 90 (2003–2004) s. 45. I delproposisjon
-Ot.prp. nr. 22 (2008–2009) ble vurderingen på nytt
-utsatt, i likhet med tilpasning av straffeprosessloven for øvrig.26 Straffeloven trådte kraft 1. oktober
-2015. I forarbeidene til ikraftsettingsloven uttaler
-departementet at det ikke hadde vært anledning
-til å prioritere spørsmålet om å videreføre instituttet
-med private straffesaker, jf. Prop. 64 L (2014–
-2015) s. 56 og 59.
-Domstoladministrasjonens regelutvalg anbefaler i rapport nr. 3 at departementet bør vurdere
-å oppheve ordningen med private straffesaker,
-basert på følgende begrunnelse:
-
-Videre fremheves det at det i alle tilfeller er grunn
-til å avgrense adgangen mot visse typer straffesaker, basert på at Regelutvalget mener det er en
-økt tendens til at det reises privat straffesak mot
-staten og enkeltdommere på bakgrunn av domstolenes virksomhet:
-«Det kan ikke reises erstatningssaker mot staten eller dommeren når det gjelder rettslige
-avgjørelser, med mindre avgjørelsen er endret,
-bortfalt eller vedkommende har blitt straffet
-for sitt forhold i saken, jf. domstolloven § 200
-tredje ledd. Bestemmelsen hindrer at en part
-som er misfornøyd med innholdet i en rettslig
-avgjørelse reiser erstatningssak med bakgrunn i en rettskraftig avgjørelse. Et erstatningskrav kan derfor ikke være et ‘alternativ’ til
-bruk av rettsmidler, og begrensningen bidrar
-således til å sikre avgjørelsers rettskraftsvirkninger og domstolenes uavhengighet.
-Noen tilsvarende prosessuell sperre finnes
-ikke når det gjelder adgangen til å reise private
-straffesaker i anledning rettslige avgjørelser.
-Det vises til at de samme hensyn gjør seg gjeldende for private straffesaker som for erstatningskrav og at adgangen til å reise private
-straffesaker ikke bør være videre enn adgangen til å fremme erstatningskrav.
-Domstoladministrasjonen fremmer på
-denne bakgrunn forslag om at det innføres en
-tilsvarende begrensning i muligheten til å
-fremme private straffesaker i anledning rettslige avgjørelser som i dag gjelder for erstatningskrav.»29
-
-«Regelutvalget har mottatt innspill fra Oslo
-tingrett med forslag om at ordningen med private straffesaker bør oppheves. Det er vist til at
-tiden har gått fra disse reglene, og at reglene
-om private straffesaker nå i praksis stort sett
-bare imøtekommer kverulanters behov.»27
-Regelutvalget gjentar sin anbefaling om å avvikle
-ordningen med private straffesaker i rapport nr. 4:
-«Regelutvalget mottar jevnlig henvendelser fra
-dommere med regelendringsforslag med variasjoner over samme tema. Felles for forslagene
-er at det foreslås at ordningen oppheves i sin
-helhet, eller i alle fall at reglene endres slik at
-denne typen søksmål reduseres, for eksempel
-ved at det oppstilles krav om ‘særlige grunner’
-for å reise denne type søksmål, eventuelt at det
-innføres rettsgebyr for private straffesaker.
-På bakgrunn av de henvendelsene utvalget
-har mottatt etter sin forrige behandling av
-emnet, finner Regelutvalget grunn til å gjenta
-og understreke sin anbefaling om at ordningen
-med private straffesaker avvikles og at straffeprosessloven kapittel 28 oppheves.»28
-
-Fordelene og ulempene med private straffesaker
-har også vært gjenstand for atskillig diskusjon i
-juridisk litteratur. Hov peker på at erfaringen viser
-at «den subsidiære forfølgningsrett stort sett har
-hatt den funksjon å tjene som utblåsningsventil for
-kverulanter».30 Videre heter det:
-«[Det kan] hevdes at dersom fornærmedes
-innflytelse på spørsmålet om strafforfølgning
-også gir ham større adgang til å bruke denne
-innflytelsen som et pressmiddel overfor den
-skyldige, f.eks. for å få ham til å betale erstatning, så vil dette i seg selv ikke nødvendigvis
-være av det gode. En slik adgang kan også gi
-muligheter for utilbørlig press og usmakelige
-hestehandler.»31
-
-25
-
-Se s. 188.
-Se Ot.prp. nr. 22 (2008–2009) s. 389.
-27
-Se Domstoladministrasjonen (2009b) s. 4.
-28
-Se Domstoladministrasjonen (2010) s. 5.
-26
-
-487
-
-Kapittel 24
-
-29
-30
-31
-
-Se Domstoladministrasjonen (2010) s. 5.
-Hov (1983) s. 164.
-Hov (1983) s. 163.
-
-[Side 490]
-
-488
-
-NOU 2016: 24
-
-Kapittel 24
-
-Ny straffeprosesslov
-
-Etter Hovs syn er behovet for kontroll med påtalemyndighetens avgjørelser godt ivaretatt på andre
-måter, slik at dette ikke representerer noe
-tungtveiende argument for privat forfølgningsrett.32
-I nyere teori har Robberstad tatt til orde for at
-forekomsten av og innholdet i private straffesaker
-er lite undersøkt. Robberstad skriver:
-«Mye tyder på at omtalen av private straffesaker i litteratur og lovforarbeider er bygd på
-synsing og gamle fordommer. Dette er fremtredende i Straffelovkommisjonens utredning,
-som sluker Hovs argument med hud og hår.
-Muligheten for at påtalemyndigheten henlegger en sak på grunn av manglende energi
-og pliktiver, blir ikke omtalt. Når det gjelder
-fornærmedes stilling i straffesaker er Straffelovkommisjonens innstillinger som et gufs fra
-den gamle verden. Mens fornærmedeutvalgets
-utredning (NOU) viste fremover og ut i verden,
-viser Straffelovkommisjonens holdninger
-tilbake til 1800-tallets oppfatning av de
-fornærmede som slemme og hevnsyke.»33
-
-24.5 Utvalgets vurderinger og forslag
-Spørsmålet om hvorvidt adgangen til å reise privat
-straffesak bør videreføres i straffeprosessloven,
-forutsetter en vurdering av den prinsipielle
-begrunnelsen for å åpne for privat forfølgning og
-en drøftelse av om det er behov for en slik adgang.
-Effektivitetsgrunner er isolert sett av mindre
-betydning, ettersom antall saker er meget få.
-Til fordel for en ordning med private straffesaker anføres som regel et ønske om å ha et
-korrektiv til prioriteringer innenfor ressursene
-påtalemyndigheten har til rådighet, og mulig
-ineffektivitet, feilvurderinger eller partiskhet fra
-påtalemyndighetens side.
-Det antas videre at det at adgangen finnes, i
-seg selv bidrar til å styrke tilliten til rettspleien.
-For påtalemyndigheten kan adgangen også
-utgjøre et vern mot kritikk. Påtalemyndigheten
-kan henvise fornærmede til å prøve seg på egen
-hånd.34
-Utvalget mener likevel at straffeforfølgning
-bør være en ren statsoppgave. Påtalemyndigheten
-er med sin uavhengighet og sitt objektive mandat
-best egnet til å forvalte det betydelige ansvaret det
-32
-
-Hov (1983) s. 162.
-33
-Robberstad (2014) s. 177.
-34
-Se Andenæs og Myhrer (2009) s. 85.
-
-er å anklage noen med påstand om straff og føre
-straffesaker på samfunnets vegne. Utvalget kan
-ikke se at det er forhold som taler for å stille så
-inngripende virkemidler som det offentliges
-sanksjonsapparat representerer, til privates disposisjon. Standpunktet må ses i sammenheng med
-det som er sagt om hvorvidt fornærmede bør gis
-partsstatus, jf. punkt 10.3.1. Se også utvalgets
-drøftelse i punkt 8.5.
-Fornærmedes rettmessige interesse i å få
-fremsatt sitt syn på påtalespørsmålet er tilstrekkelig
-ivaretatt ved adgangen til å klage over påtalevedtak, jf. utkastet § 29-9. Dertil kommer at påtalemyndighetens saksbehandling kan klages inn for
-Sivilombudsmannen. For så vidt gjelder et erstatningskrav, er fornærmedes interesse ivaretatt
-gjennom adgangen til å reise sivil sak etter tvisteloven.
-Av betydning for behovet for ordningen med
-private straffesaker er også at utvalgets lovutkast
-legger opp til at overordnet påtalemyndighet i
-større grad enn i dag skal føre et særlig tilsyn med
-underordnet påtalemyndighet, se drøftelsen i
-punkt 8.2.2. Dette må antas å styrke påtaleavgjørelsers kvalitet i tillegg til å legge til rette for
-at det kan rettes opp i konkrete feilvurderinger.
-Kritikk av påtalemyndighetens generelle prioriteringer bør skje gjennom de ordinære politiske
-kanaler.
-Som nevnt har Robberstad pekt på at tidligere
-forslag om å avskaffe private straffesaker bygger
-på synsing og svakt empirisk grunnlag, se punkt
-24.4.35 Det er riktig at det savnes empiri hva
-gjelder betydningen av at det i dag er mulig å
-reise privat straffesak, herunder betydningen for
-påtalemyndighetens arbeid av at den vet at
-vedtak kan bli etterprøvd på denne måten. Det
-konkrete behovet for privat straffeforfølgning
-fremstår imidlertid som lite. I dag er det få slike
-saker for norske domstoler. I 2014 innkom det 24
-stevninger, og totalt åtte saker ble avgjort ved
-dom.36 Domstoladministrasjonens regelutvalg
-har som tidligere nevnt rapportert at sakene
-«stort sett bare imøtekommer kverulanters
-behov», se punkt 24.4. Det praktiske anvendelsesområdet for privat forfølgning har særlig vært
-saker om ærekrenkelser. Ved ikraftsettingen av
-straffeloven ble straffansvaret for ærekrenkelser
-opphevet, og det er således grunn til å anta at
-antallet private straffesaker vil synke ytterligere.
-35
-36
-
-Robberstad (2014) s. 176.
-Opplysninger innhentet fra Domstoladministrasjonen. Av
-disse åtte sakene kan enkelte være avgjørelser av saker
-som kom inn året før.
-
-[Side 491]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-Det er etter utvalgets syn heller ikke grunn til
-å videreføre ordningen med private straffesaker
-på strengere vilkår enn i dag. Det vil ikke avhjelpe
-den prinsipielle begrunnelsen for å la påtale-
-
-489
-
-Kapittel 24
-
-myndigheten alene avgjøre spørsmål om tiltale.
-Uansett lar det seg vanskelig utforme kriterier
-som vil kunne demme opp for kverulanters bruk
-av ordningen.
-
-[Side 492]
-
-490
-
-NOU 2016: 24
-
-Kapittel 25
-
-Ny straffeprosesslov
-
-Kapittel 25
-
-Sivile krav
-
-25.1 Utgangspunkt for utvalgets
-vurderinger
-25.1.1 Bakgrunn og utvalgets mandat
-Reglene om behandlingen av sivile krav i tilknytning til straffesak er i hovedsak å finne i straffeprosessloven kapittel 29. Med uttrykket «sivile
-krav» siktes det til alle materielle krav bortsett fra
-straffekrav, og begrepet omfatter dermed både
-krav av privatrettslig karakter, som for eksempel
-erstatningskrav, og offentligrettslige krav, for
-eksempel krav fra Fylkesmannen om at ekteskap
-skal oppløses på grunn av slektskap. Slike krav
-behandles vanligvis i sivilprosessens former.
-Bestemmelsene om sivile krav har vært karakterisert som både kompliserte og fragmenterte,
-og kapitlet har derfor vært ansett som modent for
-revisjon. Ved lovendringen i 2008 som styrket den
-prosessuelle stillingen for fornærmede og etterlatte, uttalte departementet at det på noe sikt ville
-vurdere å gjennomgå regelverket.1
-I utvalgets mandat er det ikke uttrykt et særlig
-behov for reform. Om nevnte lovendring heter
-det:
-«Ved lov 7. mars 2008 nr. 5 ble fornærmedes og
-etterlattes rettsstilling styrket. Det vises for
-øvrig til Ot.prp. nr. 11 (2007–2008) og NOU
-2006: 10. Siden fornærmedes og etterlattes
-rettsstilling relativt nylig er vurdert, legger
-departementet til grunn at behovet for revisjon
-av disse reglene ikke er stort. Utvalget kan likevel foreslå endringer.»
-25.1.2 Begrunnelse for ordningen
-Sivile krav er forskjellige fra straffekrav, og partskonstellasjonen er en annen. Mens det er staten
-ved påtalemyndigheten som råder over straffekravet, er det for eksempel den skadelidte som i
-utgangspunktet råder over erstatningskrav. Ulik1
-
-Ot.prp. nr. 11 (2007–2008) s. 92.
-
-heten mellom kravstypene viser seg også tydelig
-hva gjelder rettsvirkning. Den mest påfallende forskjellen er at frihetsstraff bare er aktuelt som en
-strafferettslig reaksjon. Men også utmåling av bøtestraff innen strafferetten hviler på andre prinsipper
-enn utmåling av erstatning etter sivilrettslige
-regler. Sentralt er også at beviskravene er forskjellige ved henholdsvis straffekrav og sivile krav.
-Som utgangspunkt skal andre rettskrav enn
-straff behandles etter tvisteloven. Når det er åpnet
-for at slike krav etter omstendighetene kan
-behandles sammen med straffesak, er det fordi
-etterforsking og iretteføring i alminnelighet også
-vil opplyse krav som springer ut av en straffbar
-handling. Og er det allerede igangsatt en prosess
-for straffekravet, vil det å ta med andre krav sikre
-at partene og samfunnet ikke belastes med ytterligere prosess. På noen områder er krav ansett
-som så nær knyttet til den strafferettslige forfølgningen at de også er regulert i straffeloven. Det
-gjelder for eksempel de strafferettslige reaksjonene inndragning og overføring til tvungent psykisk
-helsevern, jf. straffeloven § 30. Det er grunn til å
-tro at den personlige og økonomiske belastningen
-ved sivilt søksmål ville innebære at færre skadelidte fulgte opp sitt erstatningskrav om det ikke
-kunne behandles sammen med straffesaken.
-Også hensynet til at partene og samfunnet
-skal få gjort opp seg imellom én gang for alle, taler
-for at alle offentlige og private interesser håndteres samlet. Et utslag av sammenhengen mellom
-de sivile og de strafferettslige interessene i
-dagens lovgivning er adgangen til å sette som
-vilkår for påtaleunnlatelse, overføring til ungdomsoppfølging i konfliktrådet, forelegg og for
-dom på fullbyrdingsutsettelse at den skyldige
-betaler erstatning til skadelidte, jf. straffeprosessloven §§ 69, 71 a og 256 og straffeloven § 35.
-En ulempe med å fellesbehandle straffekrav
-og sivile krav er at man ikke får dratt full nytte av
-tvistelovens regler om forberedelse og behandling av sivile tvister. Straffeprosessloven og tvisteloven bygger på ulike idealer. Mens sannhetsidealet har særlig gjennomslag i straffesaker, står
-
-[Side 493]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-partenes autonomi gjennom forhandlingsprinsippet sentralt i sivilprosessen, med unntak for de
-såkalte indispositive saker.
-De ulike idealene gir seg utslag i ulike enkeltregler, for eksempel er det for straffekravets del
-ikke aktuelt med regler om preklusjon for bevis i
-tiltaltes favør, slik det kan være i sivilprosessen. Et
-tungt innslag av tvistelovens regler under straffesaksbehandlingen, for eksempel ved omfattende
-regler om forberedelse av behandlingen av sivile
-krav, vil i ytterste konsekvens begrense det særegne ved straffeforfølgningen.
-En annen ulempe med fellesbehandling er at
-forfølgningen av andre krav enn straff et stykke
-på vei henger seg på – og dermed gjør seg avhengig av – straffekravet. Frafalles straffekravet eller
-deler av det, kan følgen bli at øvrige krav blir lite
-opplyst. Selv om for eksempel skadelidte som
-fremmer erstatningskrav i en slik situasjon, etter
-dagens regler kan opprettholde bevisføringen og
-eventuelt anke avgjørelsen, kan det ikke ses bort
-fra at resultatet i enkelte tilfeller blir at kravet ikke
-forfølges, fordi tiden har gått, og vedkommende
-ønsker å legge saken bak seg.
-Fellesbehandling kan også gå på bekostning av
-det likhetsprinsippet som ellers gjelder for behandlingen av sivile krav. Når det sivile kravet behandles
-som en del av straffesaken, er det som følge av
-påtalemyndighetens ressurstilgang en risiko for at
-det skjer en prosessuell forskyvning i skadelidtes
-favør på bekostning av skadevolder. Dessuten er
-det fare for stemoderlig behandling av erstatningskravet fordi straffekravet oppleves som det viktigste, i alle fall fra saksøktes/tiltaltes ståsted.
-Samtidig må det også tas høyde for at det kan
-oppstå vanskelige spørsmål knyttet til behandlingen av sivile krav. Et eksempel er om det er erstatningsrettslig årsakssammenheng mellom handlingen og det påståtte tapet. Et annet eksempel er at
-tapsberegningen kan være krevende, særlig i
-personskadesaker – ved krav om erstatning for
-fremtidstap – og i økonomiske straffesaker – blant
-annet ved krav om erstatning for tap som følge av
-korrupsjon eller brudd på konkurranselovgivning.
-25.1.3 Utvalgets utgangspunkt for utformingen
-av reglene
-Utvalget legger til grunn at en straffesak som
-utgangspunkt må konsentreres om påtalemyndighetens krav om idømmelse av straff og andre strafferettslige reaksjoner. Utvalget finner det samtidig
-klart at det må være en vid adgang til å få behandlet
-sivile krav i straffeprosessens former, og at disse
-kravene må gis en behandling som oppfyller kra-
-
-491
-
-Kapittel 25
-
-vene til rettferdig rettergang etter Den europeiske
-menneskerettskonvensjon (EMK) artikkel 6 nr. 1.
-Hvilke krav som skal tas til behandling, og
-hvilken karakter behandlingen skal ha – ut fra en
-avveining av de kryssende hensyn det er redegjort for i punkt 25.1.2 –, er det grunn til å drøfte
-noe nærmere.
-Det er lang tradisjon for og liten uenighet om
-at det skal være adgang til å behandle andre typer
-rettskrav sammen med straffekravet. Et tungtveiende og i dag langt på vei bærende hensyn for
-ordningen er å sikre at fornærmede og etterlatte
-ikke skal måtte bære belastningen to rettslige prosesser innebærer, for å få behandlet sine erstatningskrav. Utvalget mener det er grunn til å holde
-fast ved styrkingen av fornærmedes rettsstilling
-som skjedde ved lovendringen i 2008, men at det
-kan være forhold som tilsier at det bør gjøres
-enkelte justeringer i dagens regler.
-Prosessøkonomiske hensyn taler dessuten i
-mange tilfeller klart for felles behandling av
-kravene. I saker som gjelder mindre og oversiktlige forhold, er det uhensiktsmessig bruk av
-ressurser om ikke sivile krav om erstatning
-inkluderes.
-Skadelidte skal spesifisere grunnlaget for kravet, beløpets størrelse og relevante bevis,
-jf. straffeprosessloven § 427 første ledd annet
-punktum. Ofte er det behov for særskilt bevisføring i anledning behandlingen av sivile krav,
-ikke minst i tilknytning til spørsmål om skadeomfang og fremtidige skadevirkninger. Er det påtalemyndigheten som fremmer kravet for retten, er
-det den som skal sørge for at nødvendige bevis
-blir ført. Det er denne aktiviteten knyttet til det
-sivile kravet som langt på vei blir bestemmende
-for hvilken karakter saken får, og som kan gå på
-bekostningen av straffesaken som straffesak.
-Begrunnelsene for ordningen med fellesbehandling – hensynet til fornærmede og prosessøkonomiske hensyn – slår først og fremst til for de
-forholdsvis kurante kravene, der bevisføringen for
-straffekravet og det sivile kravet stort sett er sammenfallende. Der det sivile kravet vil endre sakens
-karakter vesentlig, især når det er behov for omfattende tillegg til bevisføringen om temaer som også
-er relevante i straffesaken, eller nye bevistemaer
-uten betydning for straffesaken, bør det sivile
-kravet kunne holdes utenfor straffesaken.
-25.1.4 Reguleringen av private straffesaker som
-kobling til reglene om sivile krav
-Straffeprosessloven trekker i dag veksler på
-enkelte av reglene i kapitlet om private straffe-
-
-[Side 494]
-
-492
-
-NOU 2016: 24
-
-Kapittel 25
-
-Ny straffeprosesslov
-
-saker ved reguleringen av saksøkers rolle under
-prosessen.
-Straffeprosessloven § 428 lyder: «Når fornærmede selv fremmer sitt krav får reglene i § 404 tilsvarende anvendelse.» Det innebærer rettigheter
-som privat saksøker. Blant annet får reglene i
-§§ 417 og 418 anvendelse dersom skadelidte
-begjærer bevisopptak til bruk for hovedforhandlingen. Ellers er det særlig § 409 første ledd som
-har aktualitet:
-«I privat straffesak får reglene om påtalemyndigheten i kap 19 og 21–24 og 26–27 anvendelse på
-saksøkeren. For øvrig følges de regler som gjelder om offentlige straffesaker så langt det er
-mulig og ikke noe annet er bestemt. Under
-sakens gang bør retten gi partene den veiledning som trengs for å forebygge eller rette feil
-og forsømmelser i rettergangen. Retten skal
-påse at saken fremmes uten unødig opphold.»
-Skadelidte kan altså holde innledningsforedrag,
-føre bevis, stille spørsmål, prosedere og legge ned
-påstand med hensyn til kravet. Skal skadelidte
-føres som vitne, gjelder de vanlige reglene for vitner, men slik at vedkommende kan være til stede
-under forhandlingene, jf. straffeprosessloven
-§ 129, jf. § 3 fjerde ledd.
-Utvalget går inn for å avvikle ordningen med –
-og dermed kapitlet om – private straffesaker, se
-kapittel 24. Reguleringen av sivile krav må således
-gjennomføres uten å knytte an til reglene for private straffesaker. I den grad reguleringen som følger av gjeldende § 409, videreføres, skjer det ved
-direkte henvisninger i kapitlet om sivile krav til
-aktuelle bestemmelser i straffeprosessloven og
-tvisteloven, jf. utkastet § 43-3.
-
-25.2 Fellesbehandling av straffekrav og
-andre krav – ensrettingsprinsippet
-25.2.1 Bakgrunn og hensyn
-Et sentralt og grunnleggende spørsmål knyttet til
-fellesbehandling av sivile krav og straffekravet, er
-om sivile krav bør kunne pådømmes i straffesaker
-som ender med frifinnelse, eller om det bør gjelde
-et såkalt ensrettingsprinsipp, som innebærer at
-det sivile kravet i så fall ikke pådømmes.
-Etter straffeprosessloven 1887 § 442 var det
-krav om skyld for straffekravet for pådømmelse av
-det sivile kravet:
-«Paakjendelse af Kravet finder ikke Sted, naar
-Retten ikke finder det tilstrækkelig oplyst, eller
-
-naar Frifindelse for eller Idømmelse af Straf ikke
-leder til en Afgjørelse af det borgerlige retskrav
-i samme Retning. Dog kan Retten afgjøre kravet
-til Ugunst for den for Straf frifundne, naar Skyldspørgsmaalet er afgjort imod ham.»
-Dagens lov bygger derimot ikke på et ensrettingsprinsipp, noe som innebærer at resultatet i den
-sivile saken kan avvike fra resultatet i straffesaken
-i følgende situasjoner:
-1: Ved frifinnelse på grunn av manglende hjemmel, ettersom det ikke er et krav om formell
-lov eller samme klarhetskrav for å ilegge
-erstatningsansvar.
-2: Dersom tiltalte var psykotisk eller bevisstløs i
-gjerningsøyeblikket,
-eller
-er
-psykisk
-utviklingshemmet i høy grad, kan ikke vedkommende straffes, men kan dømmes til å
-betale erstatning eller oppreisning til den skadelidte «i den utstrekning det finnes rimelig
-under hensyn til utvist atferd, økonomisk evne
-og forholdene ellers».2
-3: Ved frifinnelse på grunn av manglende skyld i
-tilfeller der det aktuelle straffebudet krever
-utvist forsett eller grov uaktsomhet, ettersom
-simpel uaktsomhet (culpa) er tilstrekkelig for å
-fastslå erstatningsbetingende ansvarsgrunnlag.
-4: Ved frifinnelse fordi det strafferettslige beviskravet ikke er oppfylt, ettersom beviskravet er
-lavere for sivile krav – vanligvis alminnelig
-sannsynlighetsovervekt, eller sterk sannsynlighetsovervekt dersom det er et belastende
-faktum som skal legges til grunn.
-5: I straffesaker som behandles i lagmannsretten
-med meddomsrett. Her kreves det for domfellelse i straffekravet at fem av syv dommere
-stemmer for at tiltalte er skyldig, jf. straffeprosessloven § 35, mens simpelt flertall er nok for
-å idømme sivile krav. Dersom bare et simpelt
-flertall av rettens medlemmer finner tiltalte
-skyldig i straffekravet og forpliktet til å betale
-erstatning til fornærmede (4–3), vil avstemningsreglene alene lede til at tiltalte frifinnes
-for straff, men dømmes til å betale erstatning.
-6: I jurysaker. Her er kompetansen til å avgjøre
-det strafferettslige skyldspørsmålet lagt til
-lagretten, mens lagmannsrettens tre fagdommere alene avgjør erstatningskravet.
-Begrunnelsen for å forlate ensrettingsprinsippet i
-straffeprosessloven av 1981 var at straffeprosessen og sivilprosessen ikke var så ulike hverandre
-2
-
-Skadeserstatningsloven § 1-3, se blant annet Rt. 2005 s. 104
-og Rt. 2010 s. 1203.
-
-[Side 495]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-som tidligere, og et ønske om å bedre mulighetene for å få fremmet krav for den som hadde lidt
-skade ved en straffbar handling.3 I forarbeidene
-er forskjellen i ansvarsformer og avstemningsregler særskilt fremhevet.4 I dag fremheves ofte
-ulikheten mellom beviskravet i straffesaker og
-sivile saker for å forklare ulikt resultat for straffekravet og det sivile kravet – formentlig foranlediget av den omstendighet at «[f]ra en folkelig synsvinkel slår den ene avgjørelsen den andre i hjel».5
-Ulike argumenter gjør seg gjeldende for om
-et erstatningskrav bør avvises fra pådømmelse
-ved frifinnelse for straff. Argumentene er særlig
-knyttet til hensynene til prosessøkonomi, fornærmedes situasjon og et ønske om «rene» frifinnelser.6
-Mot å bygge på et ensrettingsprinsipp taler særlig begrunnelsene redegjort for i punkt 25.1.2 for å
-behandle sivile krav sammen med straffekravet,
-især hensynet til å unngå at fornærmede og etterlatte belastes med to rettsprosesser, og hensynet til
-prosessøkonomi. Det siste hensynet gjør seg sterkt
-gjeldende dersom et sivilt krav som er tilnærmet
-ferdigforhandlet, må bortfalle og fremmes på nytt
-for en annen rett eller et forvaltningsorgan.
-Den nærmere betydningen av ensrettingsprinsippet for skadelidtes stilling beror på betingelsene for den videre behandlingen av kravet. Stillingen blir svekket dersom det blir mer krevende
-å forfølge kravet og mange av den grunn ikke
-ønsker eller evner å ta nødvendige prosessuelle
-skritt. Motsatt blir stillingen styrket dersom man
-legger til grunn at retten uten ensrettingsprinsippet fra tid til annen vil være tilbakeholden med å
-pådømme ansvar for sivile krav når det frifinnes
-for straffekravet. Avgjørende for virkningen av en
-ensrettingsordning vil langt på vei bero på om det
-etableres en alternativ ordning for å ivareta
-behandlingen av sivile krav, se nærmere nedenfor.
-For å legge til grunn et ensrettingsprinsipp
-taler først og fremst hensynet til et «rent» resultat
-i straffesaken. Idømmelse av straff er samfunnets
-uttrykk for misbilligelse av en adferd som det i
-alminnelighet knytter seg sterk fordømmelse til.
-En frifinnelse er et uttrykk for at det ikke er
-grunnlag for slik fordømmelse – fra samfunnets
-side er det ikke aktuelt å anvende straff i form av
-frihetsberøvelse eller andre reaksjoner. Dersom
-3
-
-4
-5
-6
-
-Straffeprosesslovkomitéen (1969) s. 355–356. Se nærmere
-om utviklingen med videre henvisninger i Bjerke, Keiserud
-og Sæther (2011) s. 1396–1398.
-Straffeprosesslovkomitéen (1969) s. 357.
-NOU 2000: 33 s. 12.
-Se også NOU 2000: 33 s. 163–174.
-
-493
-
-Kapittel 25
-
-frifinnelsen for straffekravet er begrunnet med
-tvil om hvorvidt mistenkte begikk handlingen, vil
-renvaskingsvirkningen av frifinnelsen kunne svekkes dersom samme rett samtidig legger til grunn
-at vedkommende har begått handlingen for det
-sivile kravets del. En slik «sprikende» avgjørelse
-kan føre til at det i den enkelte sak blir satt spørsmålstegn ved påliteligheten av frifinnelsen for
-straffekravet. Faren for at det samlede utfallet fortoner seg selvmotsigende og svekker frifinnelsen,
-kan tenkes å bli forsterket dersom kravene er
-avgjort med ulike dommersammensetninger, eller
-det gjelder ulike stemmeregler for de to kravstypene, se nærmere punkt 25.4.10. I et større perspektiv kan det tenkes å føre til en svekkelse av tilliten til straffesaksbehandlingen og domstolsavgjørelser.
-Det er også grunn til å stille spørsmål om hvorvidt et tosporet system kan ha uheldige og uoversiktlige psykologiske virkninger for behandlingen av kravene isolert sett. Det kan tenkes at det
-er lettere å frifinne når et ansvar likevel kan idømmes, eller at retten blir for tilbakeholden med å
-pådømme sivile krav etter frifinnelse for straff for
-det forhold kravet springer ut av.
-Dertil kommer at domstolene inviteres inn i en
-utfordrende øvelse når det skal gis en skriftlig
-begrunnelse for resultatet i den sivile saken.7 Det
-følger av EMK artikkel 6 nr. 2 at det etter frifinnelse
-for straffekravet ikke er anledning til å uttrykke
-seg slik at det settes spørsmålstegn ved domfeltes
-straffskyld. Norge er felt av Den europeiske
-menneskerettsdomstol (EMD) for ikke å etterleve
-denne siden av uskyldspresumsjonen.8 Vernet etter
-konvensjonen er ikke til hinder for at straffekrav og
-sivile krav kan behandles samtidig, og at sivile krav
-pådømmes uavhengig av utfallet for straffekravet,
-men det stilles strenge krav til utformingen av domspremissene. Mange har overfor utvalget gitt
-uttrykk for at det å utforme slike todelte begrunnelser er utfordrende, noe som også kan forstås som
-et uttrykk for at en todeling av ansvarsspørsmålet
-anses problematisk også hva gjelder realiteten.
-25.2.2 Dansk og svensk rett
-I dansk rett gjelder ensrettingsprinsippet. En forutsetning for at retten skal kunne tilkjenne erstatning, er at utfallet i erstatningssaken er en «afgørelse i samme retning» som avgjørelsen i straffesaken, jf. retsplejeloven § 992. Skadelidte er ute7
-8
-
-Se nærmere i NOU 2011: 13 s. 91.
-Se Y mot Norge (56568/00), dom 11.02.13. Se også Rt. 2004
-s. 321 avsnitt 23 flg. og Rt. 2009 s. 1456.
+Den endelige prisen man kan oppnå, vil imidlertid avhenge av hvor lenge opptak fra ulike typer saker skal lagres, og av hvilke konkrete krav man stiller til løsningen på flere områder, og den kan derfor bli høyere. Den kan ikke fastslås eksakt uten endelig design av lagringsløsningen og gjennomføring av anbudsrunde og kontraktsforhandlinger. Det må antas at grunnprisene vil kunne gå ytterligere ned i den tiden som går frem til loven trer i kraft og lagringsløsningen skal etableres.
+
+Som et eksempel på pris ved anskaffelse av et system for datalagring kan det nevnes at Oslo politidistrikt i 2016 etablerte en egen lagringsløsning for opptak av avhør som størrelsesmessig er relevant for formålet etter lovutkastet. Deres lagringsløsning fra EMC[^1339] kostet ca. 3,5 millioner kroner ekskl. mva. i innkjøp inkludert fem års vedlikehold av maskinvare og programvare, og kan lagre 756 TB med full redundans. Dette tilsvarer ett og et halvt års lagringsbehov i henhold til estimatene over, og ved utbygging vil ett års ekstra kapasitet med dagens (2016) priser koste ca. 2 millioner kroner ekskl. mva. Kapasitet for tre års lagring vil dermed samlet koste ca. 6 millioner kroner ekskl. mva. i innkjøp. I tillegg kommer selvsagt datarom med strøm og kjøling, kabling, nettverksutstyr og drift, men det er kostnader som vil være svært avhengige av om lagringen for lyd og bilde skal etableres i et eget senter eller om det skal samlokaliseres med eller integreres helt med andre lagringsløsninger i justissektoren. Disse kostnadene er det derfor vanskelig å anslå på generelt grunnlag. Det samme gjelder personellkostnader. Selve lagringsløsningen er driftsmessig lite krevende (anslått til ett årsverk i en litt større driftssammenheng), men et senter som kan levere videostrømming i det omfang som vil være aktuelt for de formål det her er tale om, vil kreve en større bemanning.
+
+Det er således mange variabler som virker inn på den totale kostnaden for lagring, og det er ikke i utgangspunktet gitt hvilken løsning som vil være billigst. Et forsvarlig svar på dette spørsmålet vil kreve en mer omfattende utredning enn det utvalget har kunnet gjennomføre.
+
+1.  *Lyd- og bildeopptak av politiforklaringer og bruk av slike opptak i rettsmøter*
+
+Politiet tar allerede i dag opp en god del avhør på video for utvalgte sakstyper, se punkt 6.5.2.1. Standard prosedyre er at disse avhørene lagres på CD eller DVD, som lagres i egne arkiver. Hvis videoopptak skal bli standard prosedyre for alle eller langt flere avhør, vil det kreve mer utstyr og lokaliteter samt bedre tilrettelegging for lagring, bearbeiding og bruk av materialet.
+
+Det pågår et arbeid med nasjonal lagring av digitale medier, som også vil kunne omfatte lyd- og bildeopptak, men i tilfelle må kapasiteten økes. Videre skal det inngås en nasjonal avtale for utstyr til opptak av lyd og bilde, og lokalt utstyr fra den utgående avtalen vil ikke lenger få support og må byttes ut. Man vil derfor inntil videre ikke få noen økning i antall lokale utstyrsinstallasjoner i politiet.
+
+På denne bakgrunn er det usikkert hvor stor andel av kostnadene knyttet til lyd- og bildeopptak av politiforklaringer som til slutt vil være en direkte konsekvens av selve lovendringen. Vedtas lovutkastet, vil det formentlig kreve et større tempo i opprustingen enn det politiet normalt ville klare over de løpende budsjettene. Utvalget vil derfor synliggjøre kostnader politiet regner med dersom enkelte av utvalgets forslag skal kunne oppfylles. Det er opplyst at politiets investeringsbehov for å ta opp alle avhør på video og legge til rette for bruk av avhørene i retten vil være på mellom 100 og 130 millioner kroner.
+
+Fremvisning av video i retten fra avhør som politiet har tatt, vil også kreve egen tilrettelegging, fortrinnsvis gjennom strømming av avhør fra politiets datalager til rettssalene. Her vil notoritet knyttet til behandling komme inn som en ny faktor. Estimatet utvalget har fått fra Politidirektoratets IKT-avdeling, dekker bare politiets kostnader, siden domstolenes utstyr forutsettes dekket gjennom prosjektene for digital iretteføring og bruk av lyd og bilde i forbindelse med alle rettsmøter.
+
+1.  *Informasjonssikkerhet*
+
+Utvalget anbefaler at de generelle regler om informasjonssikkerhet som gjelder for andre områder, også bør få anvendelse for straffesaksbehandlingen, se punkt 6.4.2 og utkastet til ny § 197 b i domstolloven.
+
+Dersom forslaget vedtas, vil det med stor sannsynlighet kreve enkelte endringer i domstolenes arbeidsprosesser og sannsynligvis også anskaffelse av noe ekstra programvare. Omfanget av dette er det imidlertid umulig å si noe om uten en svært detaljert gjennomgang av eksisterende prosedyrer og programvare i domstolene. En slik gjennomgang har det verken vært hensiktsmessig eller mulig for utvalget å gjennomføre, og det er derfor heller ikke mulig å ha noen realistisk oppfatning av omfanget. Utvalget antar imidlertid at de direkte økonomiske konsekvensene vil være beskjedne, og at eventuelle nødvendige endringer i arbeidsprosedyrer heller ikke vil være særlig ressurskrevende når de er etablert.
+
+1.  **Konklusjon**
+
+Konsekvensene av å iverksette en ny straffeprosesslov er usikre, men selv om de ikke lar seg klargjøre med fullstendig presisjon, er det grunn til å understreke at forslaget til ny straffeprosesslov i begrenset grad berører organisatoriske forhold.
+
+Lovutkastet fremmes med økonomiske og administrative konsekvenser som beskrevet i utvalgets drøftelser og i dette kapittel. Hva gjelder henvisningen i mandatet til at «minst ett forslag skal være basert på uendret ressursbruk», mener utvalget det med ett unntak både er mulig og forsvarlig å vedta lovutkastet under forutsetning av uendret ressursbruk. Unntaket gjelder for regelen om ensrettingsprinsippet i § 43-11 med tilhørende garantiordning redegjort for i punkt 25.2.3.3 og reglene om bruk av lyd- og bildeopptak redegjort for i kapittel 6.5. Disse forslagene kan ikke gjennomføres uten tilførsel av ressurser.
+
+Til forslaget om uendret ressursbruk er det grunn til å bemerke at enkelte av forslagene i lovutkastet må forventes gjennomført uavhengig av om forslaget til ny straffeprosesslov vedtas. Det gjelder ikke minst de IKT-relaterte forholdene som er særskilt fremhevet i mandatet. Allerede Tvistemålsutvalget uttalte: «Det er langt på vei selvsagt at en ny tvistelov må være tilpasset moderne informasjons- og kommunikasjonsteknologi (IKT).»[^1340] Dette er klart nok ikke mindre aktuelt for en ny straffeprosesslov i dag. Blant annet vil det i nær fremtid måtte tilrettelegges for sikker elektronisk kommunikasjon med norske domstoler, se punkt 6.4.3.2. Det samme gjelder nok langt på vei for utvalgets forslag om lyd- og bildeopptak.
+
+*Del IV*
+
+*Merknader til utvalgets lovforslag*
+
+1.  **Oppbygging av forslaget til ny straffeprosesslov og forholdet til annet regelverk**
+
+    1.  **Straffeprosesslovens tittel og oppbygging**
+
+        1.  **Lovens tittel**
+
+Den gjeldende straffeprosesslovens fullstendige tittel er «lov 22. mai 1981 nr. 25 om *rettergangsmåten* i straffesaker». Dette er noe misvisende, idet loven også regulerer en rekke spørsmål utenfor rettergangen, ikke minst om etterforsking. Samtidig er gjeldende lov på mange punkter preget av at det sentrale perspektivet er nettopp rettergangen. Dette er annerledes i utvalgets forslag, der også utenrettslig behandling er gitt en fremskutt plass. Utvalget foreslår på denne bakgrunn at lovens tittel skal være «lov om behandling av straffesaker (straffeprosessloven)».
+
+Som det fremgår, foreslår utvalget at «straffeprosessloven» beholdes som korttittel, idet navnet er godt innarbeidet og lett forståelig. Tvistemålsutvalget foreslo å endre straffeprosesslovens tittel i kortform til «straffesakloven». Forslaget ble ikke gitt noen nærmere begrunnelse. Det het kun at «prosess er først og fremst et ord som brukes av de profesjonelle aktørene», og at «\[o\]gså for straffesakene vil det være en fordel å slippe dette uttrykket i lovens offisielle kortform», jf. NOU 2001: 32 Bind A s. 644. Det hensyn som fremholdes av departementet som et argument mot alternativet «sivilprosessloven» – nemlig at rettstvister bør søkes løst uten å bringes inn for domstolene –[^1341] gjør seg uansett i liten grad gjeldende for straffeprosessens del. Utvalget har også vurdert kortformen «straffesaksbehandlingsloven». Denne kortformen peker mot lovens vesentlige formål, nemlig (saks)behandling av saker om straff. Utvalget mener imidlertid uttrykket er for langt og omstendelig til at det er hensiktsmessig som kortform.
+
+1.  **Lovens oppbygning**
+
+Utvalgets lovforslag innebærer en nokså omfattende omstrukturering sammenlignet med gjeldende lov, og er som nevnt ikke på samme måte bygget opp med rettergang som utgangspunkt. I stedet tar oppbygningen utgangspunkt i at mye av straffesaksbehandlingen skjer utenrettslig, og at straffeprosessloven for en stor del er en etterforskingslov. Det er dessuten lagt opp til større grad av gjennomgående reguleringer på tvers av de ulike stadier av prosessen.
+
+*Del 1* innledes med bestemmelser om lovens formål, virkeområde og forholdet til folkeretten i kapittel 1. I kapittel 2 til 5 følger regler om straffesakens aktører, med vekt på deres myndighet, oppgaver, rettigheter og plikter. Blant annet ut fra prinsippet om at retten bare trer i virksomhet etter begjæring, er kapittel 5 om domstolene plassert etter reglene om partene og fornærmede og bistandsadvokaten. Tilgang til sakens opplysninger – som sentral forutsetning for aktørenes deltakelse i og allmennhetens mulighet for kontroll med prosessen – er regulert i kapittel 6.
+
+I *del 2* er regler om bevis gitt en fremskutt plass i loven ut fra den tanke at straffeprosessen for en stor del – og i praksis kanskje først og fremst – handler nettopp om å håndtere bevis i ulike sammenhenger. Kapittel 7 har alminnelige regler om bevis, herunder om forsvarlig saksopplysning, bevisføring og bevisvurdering og beviskrav. Kapittel 8 har regler om bevisforbud. Reglene gjelder for alle stadier av prosessen og trekker opp en viktig ramme for det faktum straffesaksbehandlingen skal baseres på, enten det er tale om påtalemyndighetens utenrettslige saksbehandling eller domstolenes behandling av saker. Del 2 har også bevisregler av betydning for tilgang til informasjon, jf. kapittel 9 om forklaringsplikt og forklaringsfritak, kapittel 10 om politiavhør og forklaringer i rettsmøte samt anonyme vitner, kapittel 11 om sakkyndighet og kapittel 12 om bevissikring i retten.
+
+*Del 3* *til 5* er konsentrert om etterforskingsfasen. Del 3 inneholder alminnelige regler om etterforskingen i kapittel 13 og grunnvilkår og fellesregler for tvangstiltak i kapittel 14. De enkelte tvangstiltak er regulert i de påfølgende kapitlene. I forlengelsen av reglene om internrettslig bevistilgang i del 2 og 3 er internasjonalt samarbeid skilt ut til separat regulering i del 4. Del 5 samler reglene om påtalevedtak.
+
+*Del 6* har generelle regler om rettens saksbehandling og avgjørelser. Det er tale om gjennomgående regler som får anvendelse både når domstolene har en rolle på etterforskingsstadiet og ved den rettslige behandlingen av selve straffekravet.
+
+*Del 7 og 8* regulerer domstolsbehandlingen av straffekravet og er strukturert med utgangspunkt i straffesakens gang, fra forberedelse til hovedforhandling i kapittel 34 til realitetsbehandling av anke i kapittel 39. Kapittel 35 om hovedforhandlingen er noe annerledes innrettet enn den tilsvarende reguleringen i gjeldende lov kapittel 22. Reglene i kapitlet er konsentrert om gangen i og styringen av forhandlingene, mens øvrige reguleringer er overført til andre deler av lovutkastet, jf. særlig del 2 om bevis og del 6 om generelle regler om rettens saksbehandling og avgjørelser.
+
+*Del 9* om fullbyrding og gjenåpning regulerer i hovedsak situasjonen etter rettskraftig avgjørelse.
+
+*Del 10* har særlige regler om militære straffesaker.
+
+I *del 11* er andre krav enn straffekrav skilt ut til separat behandling. Det er tale om ulike typer pengekrav, jf. kapittel 43 om sivile krav, kapittel 44 om sakskostnader og kapittel 45 om erstatning etter forfølgning.
+
+*Del 12* inneholder avsluttende bestemmelser, herunder forslag til regulering av ikrafttredelse og endringer i andre lover.
+
+1.  **Paragrafer – nummerering og overskrifter**
+
+Gjeldende straffeprosesslov har løpende paragrafnummerering (§ 1, § 2 osv.). Det har også straffeloven 2005. Om dette valget fremfor toleddet, kapittelvis, nummerering (§ 1-1 osv.) heter det i Ot.prp. nr. 90 (2003–2004) blant annet (s. 65):
+
+«Departementet kan se gode argumenter for begge løsninger. En er enig med Straffelovkommisjonen i at straffeloven er av et slikt omfang og har en slik kapittelvis inndeling at den etter de veiledende retningslinjer for inndeling av lover i «Lovteknikk og lovforberedelse» (Justisdepartementets lovavdeling, 2000) s. 62 kan gis en to-leddet, kapittelvis nummerering.»
+
+Departementet fremhever to argumenter som anses utslagsgivende for å velge en fortløpende, énleddet nummerering:
+
+«For en straffelov som i utpreget grad henvender seg til allmennheten og som regulerer allmennhetens dagligliv, må tilgjengeligheten og pedagogikken tillegges vekt. Selv om de færreste skaffer seg sin innsikt i hva som er lov eller ikke gjennom lesning av lovteksten, er det likevel viktig at de som ønsker å skaffe seg eller kontrollere sin kunnskap, lett finner frem.
+
+Straffeloven blir også ofte henvist til i muntlige fremstillinger. I retten skjer det i et betydelig antall saker gjennom opplesing av tiltale eller siktelse og dom, og ved at aktor og forsvarer viser til bestemmelsen i sine innlegg. Det kan gi større rom for misforståelser og faller tyngre muntlig å vise til for eksempel § 20-2, jf § 20-1 enn til § 258, jf § 257. § 20-2 kan muntlig lett bli forvekslet med § 22.»
+
+Utvalget er enig i at tilgjengelighet og pedagogikk er hensyn som bør tillegges betydelig vekt. Men det er på ingen måte klart at en løpende paragrafnummerering gjør loven lettest tilgjengelig for brukerne – det være seg de profesjonelle aktører eller den interesserte allmennhet. Det er snarere vanskelig å forstå hvorfor det eventuelt skulle være slik. Som isolert betegnelse av den enkelte paragraf spiller valg av nummereringsmåte formentlig svært liten rolle for muligheten til å finne frem i loven. Paragrafnummereringen må snarere vurderes i den systematiske sammenheng den inngår, og i et slikt perspektiv synes toleddet, kapittelvis nummerering å ha et pedagogisk fortrinn fordi den enkelte paragraf knyttes til det kapitlet den inngår i. Løpende nummerering har ikke dette fortrinn og gir ikke annen informasjon enn rekkefølge – noe også toleddet, kapittelvis nummerering gjør. Tvistemålsutvalget uttalte i tråd med et slikt syn at «kapittelvis nummerering \[innebærer\] klare fordeler når det gjelder oversiktlighet og for å finne frem i loven».[^1342]
+
+En kan heller ikke være enig i at løpende paragrafnummerering er å foretrekke ved muntlig henvisning fordi det «faller tyngre muntlig å vise til for eksempel § 20-2, jf § 20-1 enn til § 285, jf § 257». Hva gjelder forvekslingsfare, er det vel slik at § 22 kan bli forvekslet med § 20-2 like lett som § 20-2 kan forveksles med § 22. Dette argumentet trekker således ikke i noen bestemt retning (og for en aktør som forholder seg til en bestemt lov med konsekvent paragrafnummerering av den ene eller annen type, er det uansett ingen fornuftig forvekslingsfare).
+
+Også andre argumenter har vært anført for valg av paragrafnummerering. Det har vært vist til valgets betydning for håndtering av senere lovendringer som skyter inn nye paragrafer eller kapitler, samt til betydningen av hvorvidt enkelte brukergrupper i praksis vil forholde seg til kun ett eller noen få kapitler. Etter utvalgets syn er dette hensyn av underordnet betydning.
+
+Stiftelsen Lovdata har understreket at toleddet paragrafnummerering letter det tekniske arbeidet med å skille mellom henvisninger til ny og gammel lov. Dette er etter utvalgets syn et praktisk argument som bør vektlegges.
+
+Utvalget foreslår en toleddet, kapittelvis paragrafnummerering og legger avgjørende vekt på at man dermed på en oversiktlig måte knytter den enkelte paragraf til det kapitlet den inngår i, uten at det har nevneverdige ulemper. Denne løsningen harmonerer også med den som er valgt for de sist vedtatte store prosesslovene, tvangsfullbyrdelsesloven fra 1992 og tvisteloven fra 2005.
+
+For å gjøre det lettere å finne frem i loven er hver paragraf gitt en egen overskrift. Paragrafoverskriftene vil ha preg av stikkord, men er en del av lovteksten og kan ha betydning for lovtolkingen.
+
+1.  **Straffeprosesslovens forhold til annet regelverk**
+
+    1.  **Oversikt over forholdet til annet regelverk**
+
+Som omhandlet i punkt 5.2 har overordnede rettsnormer, ikke minst Grunnloven og Den europeiske menneskerettskonvensjonen (EMK), betydning for hvordan straffeprosessloven kan og bør utformes. Utvalgets forslag til endringer i Grunnloven er behandlet i punkt 8.5.
+
+Det er videre grunn til å være oppmerksom på forholdet til tvisteloven og til annet sentralt regelverk av betydning på straffesaksfeltet, særlig domstolloven, straffeloven, straffegjennomføringsloven og politiregisterloven. Dette behandles kort i punkt 29.2.2 til 29.2.6 nedenfor.
+
+Straffeprosesslovens reguleringer må videre avgrenses mot reguleringer i forskrift. I punkt 29.2.7 omtales behovet for revisjon av påtaleinstruksen, og utvalget gir enkelte anbefalinger om hvordan reguleringen i denne bør tilpasses en ny straffeprosesslov.
+
+En ny straffeprosesslov vil endelig kreve omfattende følgeendringer av mer teknisk karakter. Det mest opplagte endringsbehovet er at en lang rekke henvisninger fra annet regelverk til straffeprosessloven må oppdateres før en ny lov kan tre i kraft. Utvalget har ikke funnet grunn til å fremsette endringsforslag i tråd med dette, som er et arbeid som mer hensiktsmessig kan gjøres på et senere stadium i lovgivningsarbeidet.
+
+1.  **Forholdet til sivilprosessen og tvisteloven**
+
+Det går et hovedskille i prosessretten mellom sivilprosess og straffeprosess, og i Norge har vi egne lover for disse prosessformene. Ved siden av straffeprosessloven og tvisteloven har vi to andre store prosesslover, nemlig domstolloven og tvangsfullbyrdelsesloven, i tillegg til større eller mindre innslag av prosessuelle bestemmelser i en lang rekke andre lover.
+
+Til tross for fragmenteringen i ulike lover er mange regler felles for sivil- og straffeprosessen, og i den forstand kan man snakke om fellesprosessuelle regler. Det kunne således være nærliggende å reise spørsmålet om det så langt reglene er felles, bør gis en felles regulering, samlet i én lov, som i den danske retsplejeloven og den svenske rättegångsbalken. En nærmere vurdering av dette spørsmålet ligger utenfor utvalgets mandat, som er avgrenset til å gjelde straffesaksfeltet. Utvalgets sammensetning og tidsmessige rammer utelukker også muligheten for å utrede en slik fellesprosessuell regulering.[^1343]
+
+Et spørsmål for seg er om det bør tilstrebes felles regelutforming i våre to hovedprosesslover. Tvistemålsutvalget uttalte om dette:
+
+«Det er viktig at prosessordningen som helhet er mest mulig oversiktlig og logisk. Derfor bør det ikke være større forskjeller mellom behandlingsreglene for sivile tvister og straffesaker enn det er saklig grunn til. Symmetriske løsninger bør foretrekkes når det er mulig. Det er derfor obligatorisk ved en gjennomgripende reform av den ene prosessformen, at man stiller spørsmål om hvilke endringer reformen bør lede til i den andre. \[…\] Ved gjennomføringen av den sivilprosessreformen Tvistemålsutvalget foreslår i innstillingen, er det en selvfølge at man vurderer hvilke endringer det er grunn til å foreta i straffeprosessloven, enten fordi løsningene anses å være bedre også for straffesaker, eller for å opprettholde symmetrien mellom prosessformene. \[…\] Utvalget har likevel ikke utarbeidet noe konkret forslag om endringer i straffeprosessloven nå. Det er ikke hensiktsmessig å utarbeide et slikt forslag før tvisteloven er vedtatt. Fremgangsmåten er den samme som ved gjennomføringen av straffeprosessreformen. Spørsmålet om tilpasning av straffeprosessloven stiller seg på samme måte som tilpasning av de spesielle sivilprosesslovene som skjønnsprosessloven, tvangsfullbyrdelsesloven, skifteloven og konkursloven. Utvalget finner likevel at det er av verdi å gi en oversikt over problemstillinger som er særlig aktuelle.»[^1344]
+
+Det som her er sagt, svarer i hovedsak til hvordan til Straffeprosessutvalget vurderer forholdet mellom reguleringene i straffeprosessloven og tvisteloven. Utvalget har – slik mandatet forutsetter – sett hen til tvistelovens løsninger som mulig mønster også for straffesaksbehandlingen.
+
+Ved utformingen av de enkelte bestemmelser i lovutkastet har utvalget stilt seg nokså fritt til tvistelovens mer eller mindre tilsvarende reguleringer. Bestemmelsene i utkastet har fått den ordlyd som etter utvalgets vurdering er å foretrekke. I hvilken grad det er ønskelig å harmonisere språkdrakten i de to hovedprosesslovene, og i hvilken retning tilpasning bør skje, er noe som fortjener oppmerksomhet i forbindelse med høringen av utvalgets forslag.
+
+Det er særlig grunn til å fremheve to harmoniseringsspørsmål. For det første om tvistelovens bevisregler bør endres i lys av den nokså omfattende revisjonen av reglene om bevis i utkastet del 2, og for det andre om man også i tvisteloven bør avvikle sondringen mellom kjennelser og beslutninger.
+
+1.  **Forholdet til domstolloven**
+
+Også domstolloven er for tiden under revisjon. Enmannsutredningen *Ny domstollov* – forfattet av dommer og nestleder i Arbeidsretten Tron Løkken Sundet – ble overlevert til Justis- og beredskapsdepartementet 31. oktober 2014 og sendt på høring 15. juni 2016, vedlagt et tilleggsnotat fra Domstoladministrasjonen 9. desember 2015. Høringsfristen er 1. november 2016, som sammenfaller med Straffeprosessutvalgets leveringsfrist. Utvalget har forholdt seg til forslagene til ny domstollov, men forslagene til endringer er naturlig nok fremmet som endringsforslag til gjeldende lov.
+
+En del forhold fremstår det som nokså opplagt at hører hjemme i en domstollov, mens det kan være mindre opplagt hvor andre reguleringer naturlig hører hjemme. Dagens situasjon er resultatet av en sammensatt utvikling av prosessretten. Utvalget har tatt utgangpunkt i den grenseoppgang mellom regelsettene som følger av gjeldende lovgivning. Likevel har en funnet grunn til å foreslå å overføre reguleringer fra den ene loven til den andre på noen punkter.
+
+For det første foreslås reglene om rettsmøter – herunder fjernmøter og fjernavhør – og om rettsbøker – herunder om lyd- og bildeopptak – overført fra straffeprosessloven til domstolloven. Dette er regler som egner seg for felles regulering for sivile saker og straffesaker, og som passer godt inn i domstollovens struktur. Forslagene forutsetter tilpasninger i tvisteloven. For det andre foreslås reglene i domstolloven om rettsanmodninger i straffesaker overført til straffeprosessloven. Det vises til punkt 15.3.1. For det tredje foreslås det at reglene om forkynning samles i domstolloven kapittel 9.
+
+Se nærmere utkastet § 46-3 nr. 1 og merknadene i kapittel 31.
+
+1.  **Forholdet til straffeloven og straffegjennomføringsloven**
+
+Utvalgets forslag innebærer i liten grad en overføring av reguleringer mellom straffeprosessloven og til og fra straffeloven og straffegjennomføringsloven. Hvilke reguleringer som hører hjemme i de to sistnevnte lover, gir seg langt på vei selv. Utvalget foreslår likevel overføring av enkelte reguleringer, se punkt 17.8.2.5 om overføring av rettskraftsbestemmelsen i straffeloven § 8 til straffeprosessloven. I tillegg foreslås det at Kriminalomsorgens myndighet i straffesaker for så vidt gjelder adgang til å møte for retten og til å beslutte anke – som er nær knyttet til straffegjennomføringen – reguleres i straffegjennomføringsloven, jf. punkt 8.2.5. Se utkastet § 46-3 nr. 5.
+
+1.  **Forholdet til politiregisterloven**
+
+Behandlingen av opplysninger i politiet og påtalemyndigheten er regulert i politiregisterloven. I mandatet punkt 5 tredje avsnitt er utvalget bedt om å påse at skillet mellom politiregisterloven og straffeprosessloven ivaretas. Slik utvalget forstår det, innebærer mandatets forutsetning at gjeldende lovverks fordeling av reguleringer i straffeprosessloven og politiregisterloven skal opprettholdes. Det har således ikke vært aktuelt å vurdere om det for eksempel er hensiktsmessig å tilbakeføre reglene om taushetsplikt til straffeprosessloven, eller å unnta enkeltsaksbehandlingen av straffesaker i politi og påtalemyndighet fra politiregisterlovens reguleringer. Utvalget er for øvrig heller ikke særskilt bedt om en generell utreding av personvernrettslige sider ved behandlingen av straffesaker, se punkt 6.4.2.1.
+
+1.  **Forholdet til enkelte andre lover**
+
+Forslagene i utkastet til regler om internasjonalt samarbeid foranlediger endringer i enkelte andre lover. Lov 13. juni 1997 nr. 47 om gjennomføring av europarådsavtale 31. januar 1995 om ulovlig håndtering av og handel med narkotika og psykotrope stoffer til sjøs og lov 25. mars 1977 nr. 22 om overføring av straffeforfølging fra eller til annet europeisk land foreslås opphevet, jf. punkt 15.3.7 og 15.3.8. Dersom forslagene i utkastet tas til følge, kan også utleveringsloven kapittel V om annen rettshjelp oppheves, jf. punkt 15.3.1.
+
+I tillegg foreslås barneverntjenestens plikter i straffesaker samlet i barnevernloven § 3-5.
+
+Se utkastet §§ 46-2 nr. 1 og 3 og 46-3 nr. 2 og 3 og merknadene i kapittel 31.
+
+1.  **Behovet for revisjon av påtaleinstruksen**
+
+Gjeldende påtaleinstruks er ikke – slik korttittelen kunne tilsi – gitt med hjemmel i instruksjonsmyndighet, men som forskrift hjemlet i lov.[^1345] Dens fullstendige tittel er «forskrift 28. juni 1985 nr. 1679 om ordningen av påtalemyndigheten (Påtaleinstruksen)». Innholdsmessig rommer påtaleinstruksen reguleringer av ulik karakter, fra nokså omfattende gjentakelse av straffeprosesslovens ord til egentlig instruksstoff med virkning kun internt i påtalemyndigheten.
+
+Det er liten tvil om at påtaleinstruksen har en så nær sammenheng med straffeprosessloven at den – og annet sentralt forskriftsverk – bør revideres i tilknytning til vedtakelsen av en ny lov. En fullstendig revisjon av instruksen har det imidlertid ikke vært mulig å foreta innenfor rammene av utvalgets arbeid, og det ville heller ikke være hensiktsmessig å gjennomføre et slikt arbeid før lovforslaget har vært på høring, og endelig lov er vedtatt. Utvalgets anbefalinger begrenser seg til noen overordnede prinsipper for en revisjon.
+
+Utvalget antar at det vil være pedagogisk med en *forskrift om straffesaksbehandlingen* («straffeprosessforskriften») som så langt det lar seg gjøre, følger systematikken i den nye loven. Gjentakelse av lovens reguleringer bør unngås, slik at forskriften forbeholdes utfyllende regler. Utvalget antar at det i forbindelse med ikrafttredelsen bør foretas en gjennomgang av hvilke reguleringer i gjeldende påtaleinstruks som bør videreføres i ny forskrift. Lovutkastet inneholder en rekke hjemler for å gi nærmere regler på ulike områder, og mange av disse vil det være naturlig å samle i en slik forskrift. For viktige spørsmål, som for eksempel håndtering av beslag, antar utvalget at det vil kunne være hensiktsmessig med separate utredninger av det nærmere behovet for forskriftsregulering.
+
+Påtaleinstruksen har i praksis vist seg nokså vanskelig å holde oppdatert og endre. Samtidig er det et klart behov for løpende tilsyn med forskriftsverket på feltet. En forutsetning for vedlikehold av en så vidt omfattende regulering som det vil være tale om, er at ansvaret for oppfølgningen legges til noen som gis tilstrekkelige forutsetninger for å prioritere arbeidet. Det krever utvilsomt ressurser og kompetanse. Én mulighet kunne være å reaktivere Straffelovrådet, med tilhørende sekretariat, og legge forskriftsreguleringen under rådets ansvarsområde. Utvalget antar for øvrig at hensynet til effektiv oppfølging av forskriftsreguleringen på feltet kan tilsi at ansvaret på departementsnivå legges til samme avdeling som har ansvaret for straffeprosessloven.
+
+Det bør vurderes nærmere om og eventuelt i hvilken grad en forskrift om straffesaksbehandlingen bør avgrense mot egentlig instruksstoff, det vil si reguleringer som har virkning kun internt i påtalemyndigheten, og som kan gis av riksadvokaten i kraft av den alminnelige instruksjonsmyndigheten. Formentlig kunne det være hensiktsmessig om riksadvokaten utarbeidet en *instruks for straffesaksbehandlingen*, der ulike pålegg samles. Det ville gjøre det lettere å finne frem til ulike instrukser som i dag gis i forskjellige kanaler, herunder i rundskriv og brev. En samlet instruks vil således kunne bidra til mer effektiv styring av påtalemyndighetens tjenesteutøvelse.
+
+1.  **Merknader til de enkelte deler, kapitler og bestemmelser i utkastet til ny straffeprosesslov**
+
+I merknadene til de enkelte kapitler og bestemmelser i utvalgets forslag er forholdet til gjeldende rett stort sett begrenset til en henvisning til sentrale bestemmelser som videreføres, og til drøftelser i de alminnelige motiver. Et lovspeil er tatt inn som vedlegg 1. Lovutkastet innebærer en så omfattende omstrukturering sammenlignet med dagens straffeprosesslov at det er urealistisk å klargjøre forholdet til gjeldende rett i detalj. Også begrunnelsen for de ulike forslagene er i hovedsak gitt i de alminnelige motiver, og det er i stor utstrekning henvist til aktuelle punkter i merknadene til bestemmelsene. Merknadene er således konsentrert om å forklare innholdet i de foreslåtte reguleringene.
+
+**Til del 1. Innledende bestemmelser. Straffesakens aktører. Innsyn**
+
+**Til kapittel 1. Lovens virkeområde og forhold til folkeretten**
+
+*Til § 1-1. Lovens virkeområde*
+
+Se straffeprosessloven §§ 1, 2 og 3.
+
+«Saker om straff og andre strafferettslige reaksjoner» i *første ledd* viser til slike saker som gjelder – eller på en eller annen måte knytter an til – straff i formell forstand og reaksjoner som nevnt i straffeloven §§ 29 og 30.
+
+*Annet ledd* angir enkelte sakstyper som skal behandles etter reglene i utkastet, men som faller utenfor anvendelsesområdet etter første ledd. Bistand til andre lands myndigheter i forbindelse med strafferettslig forfølgning i utlandet, som er regulert i utkastet kapittel 25, er nevnt i *annet ledd første punktum*, ettersom slike saker ikke gjelder «straff» i formell forstand, se punkt 15.3.3. *Annet ledd annet punktum* viderefører gjeldende § 3, men i forenklet form. Reguleringen i gjeldende § 3 første ledd nr. 1 til 7 av hvilke kravstyper som kan tas med i straffesak, og hvilken tilknytning til saken som kreves for den kravet fremsettes mot, er utskutt til utkastet kapittel 43 om sivile krav. Gjeldende § 3 annet ledd er overflødig etter ikrafttredelsen av straffeloven i 2005, idet § 29 fastsetter at rettighetstap etter straffeloven kapittel 10 er straff i formell forstand.
+
+Bestemmelsen om lovens virkeområde vil vanskelig kunne være helt uttømmende uten at den blir svært omfattende og detaljert. For eksempel skal en del forebyggende tiltak behandles etter straffeprosessens regler uten at det kan sies å følge klart av formuleringen i første ledd. Det gjelder i alle fall besøksforbud, oppholdsforbud mv., båndlegging av formuesgoder og for så vidt også fengsling på grunn av gjentakelsesfare. Slike beføyelser, som har sitt hjemmelsgrunnlag i lovutkastet selv, er det imidlertid uansett klart nok at skal behandles etter straffeprosessens regler, og er derfor ikke uttrykkelig angitt i bestemmelsen.
+
+Bestemmelsen er nærmere omtalt i punkt 7.1.
+
+*Til § 1-2. Lovens forhold til folkeretten*
+
+Se straffeprosessloven § 4 første ledd.
+
+Bestemmelsen fastslår at loven må praktiseres med de begrensninger som følger av folkerettslige immunitets- og jurisdiksjonsregler. Se drøftelsen i punkt 7.2.
+
+**Til kapittel 2. Påtalemyndigheten**
+
+Kapittel 2 inneholder regler om påtalemyndigheten og fordeling av påtalekompetanse mv. og svarer for en stor del til kapittel 6 og 7 i straffeprosessloven. Om bakgrunnen for forslagene vises det til kapittel 8.
+
+*Til § 2-1. Påtalemyndigheten*
+
+Se straffeprosessloven § 55 første ledd.
+
+Bestemmelsen angir hvem som tilhører påtalemyndigheten. Hvilke oppgaver som er lagt til påtalemyndighetens ulike deler, følger av øvrige bestemmelser i kapitlet og i kapittel 42 om militære straffesaker. Skillet mellom de ulike tjenestepersonene i bokstav a uttrykker over- og underordningsforholdet mellom påtalemyndighetens nivåer, slik dette er nærmere regulert i utkastet §§ 2-4 til 2-6. Nivåene har ulike oppgaver etter loven, se blant annet om fordelingen av påtalekompetanse i § 2-11 og adgang til å møte for domstolene i § 2-12. Se nærmere om bakgrunnen for inndelingen i punkt 8.2 og 23.5.5.
+
+*Til § 2-2. Påtalemyndighetens oppgaver. Straffeforfølgningsplikten*
+
+Se straffeprosessloven § 62 a første ledd.
+
+Straffeforfølgningsplikten etter *første punktum* gjelder både overtredelser av straffeloven og bestemmelser om straff i andre lover. Plikten begrenses særlig av utkastet § 13-2 om vilkår for etterforsking og § 28-2 om henleggelse, men også av andre bestemmelser, jf. for eksempel § 1-2 om lovens forhold til folkeretten og § 27-1 om overføring av straffesak til utlandet. Rammene for påtalemyndighetens straffeforfølgningsplikt er nærmere omtalt i punkt 8.3.2 og 8.3.3.
+
+Oversikten i *annet punktum* angir kronologisk sentrale arbeidsoppgaver for påtalemyndigheten under straffesaksbehandlingens ulike stadier. Oversikten er ikke uttømmende, for eksempel har påtalemyndigheten viktige oppgaver når det fremmes sivile krav i tilknytning til straffesak, jf. utkastet kapittel 43.
+
+*Til § 2-3. Påtalemyndighetens objektivitetsplikt og uavhengighet. Taushetsplikt*
+
+Se straffeprosessloven §§ 55 fjerde ledd og 304 første ledd tredje punktum.
+
+Med «objektivt» *i første ledd* siktes det til at virksomheten skal være saklig og uten egeninteresse utover det som følger av lovens oppgaver. Uttrykket «i hele sin virksomhet» skal ses i sammenheng med utkastet § 2-2 annet punktum bokstav a til e om påtalemyndighetens oppgaver, men er ikke begrenset til disse. Et sentralt og praktisk utslag av objektivitetsplikten er at krav om straff ikke skal opprettholdes dersom det fremstår som klart at det ikke foreligger tilstrekkelig bevis for domfellelse. Påtalemyndigheten skal også påse at personer den knytter til seg, opptrer objektivt. Bestemmelsen er nærmere omtalt i punkt 8.3.4.
+
+*Annet ledd* slår fast prinsippet om påtalemyndighetens uavhengighet. Ettersom påtalemyndigheten er en del av den utøvende myndighet, tar bestemmelsen særlig sikte på å gjøre det klart at påtalemyndighetens uavhengige stilling gjelder overfor Kongen i statsråd (regjeringen) og departementet, men uavhengigheten gjelder også overfor øvrige myndighetsorganer, jf. «\[i\]ngen». Det er «påtalemyndigheten» *som sådan* som er uavhengig. Internt i påtalemyndigheten gjelder alminnelig instruksjons- og omgjøringsmyndighet, jf. utkastet § 2-9. Uavhengigheten er begrenset til «enkeltsaker», og bestemmelsen er således ikke til hinder for at Kongen i statsråd kan gi alminnelige regler om påtalemyndigheten og dens virksomhet, jf. utkastet § 2-16. En side av påtalemyndighetens uavhengighet er at ingen kan «omgjøre» dens avgjørelser. Dette hindrer imidlertid selvsagt ikke domstolsprøving, som er uttrykkelig regulert eller forutsatt i utkastet. Om bakgrunnen for bestemmelsen vises det til punkt 8.2.1.
+
+*Tredje ledd* er en ren henvisning til reglene om taushetsplikt i politiregisterloven kapittel 6. Politiregisterloven § 23 første ledd viderefører den nå opphevede bestemmelsen i straffeprosessloven § 61 a første ledd, jf. Ot.prp. nr. 108 (2008–2009) s. 304. Utkastet forutsetter at videreføringen også gjelder taushetsplikt*subjektene*, slik at uttrykket «utfører tjeneste eller arbeid for politiet eller påtalemyndigheten» også omfatter personer engasjert for enkeltstående oppdrag, herunder oppnevnte aktorer, personer fra offentlige kontrollorganer, sakkyndige, personundersøkere, tolker, oversettere mfl. Dette er i samsvar med forståelsen av det tilsvarende uttrykk i den tidligere bestemmelsen i straffeprosessloven § 61 a første ledd, jf. Bjerke, Keiserud og Sæther (2011) s. 224. Det er derfor ikke behov for nærmere regulering av taushetsplikt for disse.
+
+*Til § 2-4. Riksadvokaten*
+
+Se straffeprosessloven §§ 55 første ledd nr. 1, 56, 57 annet ledd siste punktum og siste ledd og 58 første ledd.
+
+Etter *første ledd* er riksadvokaten påtalemyndighetens øverste leder og dermed overordnet påtalemyndighet i relasjon til statsadvokatene og påtalemyndigheten i politiet, jf. utkastet §§ 2-5 og 2-6. I tillegg til å ha instruksjons- og omgjøringsmyndighet i enkeltsaker etter utkastet § 2-9, kan riksadvokaten innenfor lovens rammer gi «generelle bestemmelser» om påtalemyndighetens virksomhet. Slike retningslinjer skal, med mindre annet er bestemt, kun ha virkning som *intern instruks* og begrenser således ikke myndigheten den enkelte tjenesteperson har utad etter loven.
+
+*Annet ledd* fastslår at riksadvokaten tilhører de såkalt avsettelige embetsmenn. Det innebærer at vedkommende kan avskjediges av Kongen uten foregående dom eller begrunnelse etter reglene for «sivile overøvrighetspersoner», jf. Grunnloven § 22 første ledd.
+
+*Tredje ledd* regulerer adgangen til å «utnevne» assisterende riksadvokat og statsadvokater, samt å «ansette» riksadvokatfullmektiger, ved «riksadvokatens kontor», som er utkastets betegnelse for Riksadvokatembetet.
+
+Assisterende riksadvokat har etter *tredje ledd bokstav a* samme myndighet som riksadvokaten etter loven. Det kreves ingen særskilt fullmakt fra riksadvokaten, men assisterende riksadvokat er underlagt riksadvokatens instruksjonsmyndighet, jf. utkastet § 2-9 annet ledd.
+
+*Tredje ledd bokstav b* forutsetter at statsadvokater ved riksadvokatens kontor har samme myndighet som statsadvokater for øvrig, og at de i tillegg etter fullmakt kan utøve riksadvokatens myndighet på vedkommendes vegne. Riksadvokatfullmektiger har ingen selvstendig myndighet etter loven, men kan gis fullmakt til å utøve riksadvokatens myndighet. Dette gjelder ikke bare for den enkelte sak, det kan også gis generell fullmakt.
+
+Etter *fjerde ledd* skal riksadvokaten selv treffe den formelle beslutningen ved ansettelse av riksadvokatfullmektiger.
+
+*Til § 2-5. Statsadvokatene*
+
+Se straffeprosessloven §§ 55 første ledd nr. 2, 57 første og annet ledd og 58 første ledd.
+
+«Statsadvokatene» benyttes i *første ledd* og i utkastet for øvrig som fellesbetegnelse for statsadvokater og førstestatsadvokater, jf. «herunder førstestatsadvokatene». Disse har samme myndighet etter loven, men enkelte stillinger er forbeholdt førstestatsadvokater, jf. *annet ledd annet punktum*.
+
+*Annet ledd første punktum* fastslår at Kongen blant annet skal fastsette statsadvokatenes «ansvarsområder». Dette omfatter både geografisk (stedlig) og saklig virkeområde. En statsadvokat kan ha hele landet som geografisk ansvarsområde, slik det nå er for statsadvokater tilknyttet Økokrim og Det nasjonale statsadvokatembetet.
+
+At det etter *annet ledd annet punktum* skal utnevnes en førstestatsadvokat som leder for hvert kontor, er ikke til hinder for at det enkelte kontor kan organiseres med flere avdelinger som hver ledes av en statsadvokat eller førstestatsadvokat.
+
+Ordningen med statsadvokatfullmektiger og hjelpestatsadvokater etter straffeprosessloven § 57 tredje og fjerde ledd antas overflødig ved siden av adgangen til å benytte konstitusjoner, og ordningen foreslås derfor ikke videreført.
+
+*Tredje ledd* presiserer at statsadvokatene ved siden av egen straffesaksbehandling har et særlig ansvar for å føre tilsyn med straffesaksbehandlingen i politiet og for å gi faglig veiledning til påtalemyndigheten i politiet. Om bakgrunnen for forslaget vises det til drøftelsen i punkt 8.2.2.
+
+*Til § 2-6. Påtalemyndigheten i politiet*
+
+Se straffeprosessloven §§ 55 første ledd nr. 3 og 67 annet og tredje ledd.
+
+*Første ledd* etablerer «påtalemyndigheten i politiet» som første nivå i påtalemyndigheten under ledelse av politimestrene, sjefen for Kripos og sjefen for Politiets sikkerhetstjeneste, jf. *første ledd* *bokstav a*. Den myndighet som etter loven tilkommer påtalemyndigheten i politiet, kan i tillegg utøves av tjenestepersoner som nevnt i *første ledd* *bokstav b til d*. Utkastet forutsetter at titlene som er benyttet i bokstav a til d, forbeholdes stillinger tillagt påtalemyndighet, se punkt 8.2.3.2.
+
+*Annet ledd* fastslår det særlige ansvaret påtalemyndigheten i politiet har for å drive legalitetskontroll med politiets straffesaksbehandling.
+
+*Til § 2-7. Kvalifikasjonskrav. Politiattest*
+
+Se straffeprosessloven §§ 55 første ledd nr. 3 og annet og tredje ledd, 56 første ledd annet og fjerde punktum og 57 første ledd annet og tredje punktum.
+
+Uttrykket «tilsvarende grad» i *første ledd* *første punktum* omfatter norsk juridisk embetseksamen. I tillegg kan tilsvarende juridisk eksamen i utlandet godtas etter reglene i domstolloven § 241 første ledd. Etter *første ledd annet punktum* kan Kongen gjøre unntak fra utdannelseskravet i første punktum for visse ledere innen politiet, jf. punkt 8.2.3.2.
+
+*Annet ledd* gir nødvendig hjemmel for å innhente eller kreve fremlagt uttømmende politiattest, jf. politiregisterloven §§ 36 og 41.
+
+*Til § 2-8. Habilitet*
+
+Se straffeprosessloven §§ 60 og 61.
+
+Utgangspunktet for den skjønnsmessige inhabilitetsnormen i *første ledd første punktum,* skal være praksis etter straffeprosessloven § 60 første ledd annet punktum og domstolloven § 108. Det kreves ikke at forholdet er særegent, og det sentrale vurderingstemaet skal ikke være forholdets karakter, men dets mulige innvirkning på tjenestepersonens upartiskhet og tilliten til denne. Dersom det er reist inhabilitetsinnsigelse fra en part, vil det være et selvstendig moment ved habilitetsvurderingen, selv om det ikke er nevnt særskilt i loven.
+
+Situasjonene nevnt i domstolloven § 106 nr. 6–9 vil kunne medføre inhabilitet etter den generelle bestemmelsen i første punktum, men er ikke i seg selv tilstrekkelig til å fastslå inhabilitet. Følgelig er det ikke i seg selv inhabiliserende at en person har «handlet i saken \[…\] for paatalemyndigheten eller den fornærmede», jf. domstolloven § 106 nr. 6. Ansettelsesforhold i en kontrolletat, og eventuell befatning der med det saksforhold som ligger til grunn for straffesaken, utelukker ikke i seg selv deltakelse i etterforskingsteam eller opptreden som sakkyndig vitne eller bisitter for påtalemyndigheten under iretteføring, se punkt 14.2.1.
+
+Uttrykket «handler på vegne av» omfatter blant andre advokater og andre som er oppnevnt eller opptrer som aktor etter utkastet § 2-12, personer fra andre offentlige etater som bistår påtalemyndigheten under iretteføring (bisittere), samt ikke minst tjenestepersoner i politiet eller andre som utfører etterforsking, jf. utkastet § 13-4 annet ledd.
+
+Avledet inhabilitet etter *første ledd tredje punktum* gjelder bare «direkte» underordnede. Dersom tjenestestedet er inndelt i avdelinger, vil inhabilitet hos avdelingens leder i utgangspunktet bare medføre inhabilitet for de underordnede ved samme avdeling. Statsadvokatene anses «underordnet» ledelsen ved statsadvokatenes kontorer, jf. punkt 8.2.6.2. Det er ikke som etter gjeldende rett adgang for nærmeste overordnede eller andre til å bestemme at underordnede likevel ikke skal anses inhabile.
+
+*Annet ledd første punktum* innebærer at inhabilitet vurderes som personell kompetansemangel. Er tiltale reist av inhabil tjenestemann, må retten avvise saken, jf. også utkastet § 5-1 annet ledd. Dersom aktor er inhabil, må saken utsettes til en ny aktor kan overta. Er saken likevel behandlet med inhabil aktor, vil det være en saksbehandlingsfeil som må vurderes etter utkastet § 39-10 første ledd annet punktum. Uttrykket «ikke uten skade» i *annet ledd annet punktum* skal forstås strengt. Det er blant annet ikke tilstrekkelig å begrunne et unntak med henvisning til den alminnelige ressurssituasjonen i påtalemyndigheten.
+
+Bestemmelsen i *tredje ledd første punktum* er et utslag av den alminnelige objektivtetsplikten i utkastet § 2-3 første ledd. *Tredje ledd annet punktum* skal sikre tilliten til at objektivitetsplikten etterleves. Avgjørelser etter bestemmelsen er ikke bindende for domstolene, som i siste instans avgjør både om det foreligger inhabilitet, og virkninger av eventuell inhabilitet. Retten kan allerede under saksforberedelsen ta stilling til om aktor er inhabil, jf. utkastet § 34-7, jf. § 32-1. Tilsvarende kan spørsmålet om å avvise saken fordi tiltale er tatt ut av inhabil tjenesteperson, avgjøres særskilt under saksforberedelsen, jf. utkastet § 34-13 bokstav a.
+
+*Til § 2-9. Instruksjons- og omgjøringsmyndighet*
+
+Se straffeprosessloven §§ 59, 75 første ledd og 225 annet ledd.
+
+*Første ledd* slår fast at innenfor påtalemyndighetens hierarkiske oppbygging etter §§ 2-4 til 2-6 har overordnet påtalemyndighet full instruksjons- og omgjøringsmyndighet overfor underordnet. «Overordnet påtalemyndighet» vil altså si riksadvokaten i relasjon til statsadvokaten og påtalemyndigheten i politiet, og statsadvokaten i relasjon til påtalemyndigheten i politiet. Kongen i statsråd er ikke en del av påtalemyndigheten, jf. utkastet § 2-1, og er følgelig heller ikke å anse som overordnet påtalemyndighet etter bestemmelsen her, jf. også utkastet § 2-3 annet ledd, som slår fast at ingen kan instruere påtalemyndigheten i enkeltsaker eller omgjøre påtalemyndighetens avgjørelser.
+
+Instruksjonsmyndigheten innebærer at det kan gis bindende pålegg av enhver art om behandlingen av saker etter loven. Omgjøringsadgangen gjelder innenfor de rammer loven ellers fastsetter, jf. særlig utkastet § 2-14 annet ledd siste punktum om overordnet påtalemyndighets adgang til å omgjøre vedtakelse av rettsavgjørelser og kapittel 29 om omgjøring og overprøving av påtalevedtak mv. Bruk av instruksjonsmyndigheten bør som regel formaliseres, og det bør fremgå at avgjørelsen er truffet etter instruksjon. *Første ledd bokstav a til d* gir en ikke uttømmende liste over aktuelle områder for instruksjon og omgjøring.
+
+Etter *annet ledd* kan «lederen» ved det enkelte kontor eller politidistrikt instruere underordnede ved samme tjenestested. Myndigheten kan delegeres, for eksempel kan politimesteren delegere instruksjons- og omgjøringsmyndighet til påtaleleder. Lederen kan bare beslutte omgjøring i samme utstrekning som tjenestepersonen som har truffet vedtaket, selv kan det. Omgjøringsadgangen etter utkastet §§ 29-2 og 29-6 tilkommer «overordnet påtalemyndighet», ikke overordnede tjenestepersoner ved det enkelte tjenestested. Om bakgrunnen for forslaget vises det til punkt 8.2.6.2.
+
+*Til § 2-10. Forholdet mellom påtalemyndigheten og politiet*
+
+Se straffeprosessloven § 58 annet ledd.
+
+Instruksjonsmyndigheten gjelder kun for politiets oppgaver som ledd i straffesaksbehandlingen, jf. «etter denne lov», og omfatter dermed ikke polisiære eller forvaltningsmessige oppgaver som er tillagt politiet etter annen lovgivning. Pålegg fra riksadvokaten eller statsadvokaten kan gis «direkte» til tjenestepersoner i politiet som ikke tilhører påtalemyndigheten, og behøver således ikke gå tjenestevei.
+
+*Til § 2-11. Påtalekompetanse*
+
+Se straffeprosessloven §§ 64 til 66 og 67 annet til fjerde ledd.
+
+Om bakgrunnen for forslagene vises det til drøftelsen i punkt 8.4.1.
+
+I *første til tredje ledd* fordeles myndighet mellom de ulike nivåene i påtalemyndigheten gjennom regler om påtalekompetanse. Kompetansen er for en stor del knyttet opp mot strafferammen for det forhold påtalespørsmålet gjelder. Forhøyelse av strafferammen på grunn av konkurrens eller gjentakelse får ikke betydning for kompetansespørsmålet, jf. straffeloven § 79 første ledd bokstav a og b. Uttrykket «spørsmålet om påtale» refererer til vedtak om tiltale, forelegg, påtaleunnlatelse mv., jf. utkastet kapittel 28.
+
+Bestemmelsen er ikke til hinder for at det ved forskrift eller instruks fastsettes interne regler om at påtalespørsmålet i visse tilfeller skal avgjøres av et høyere nivå i påtalemyndigheten enn det som følger av loven, jf. utkastet §§ 2-4 første ledd og 2-16 om adgangen for henholdsvis riksadvokaten og Kongen i statsråd til å gi generelle bestemmelser om påtalemyndighetens virksomhet. Slik intern regulering er uten betydning for påtalekompetansen tjenestepersonene har etter loven, og overskridelse av instruks som begrenser kompetansen, er uten ugyldighetsvirkninger.
+
+*Første ledd første punktum* gir riksadvokaten eksklusiv påtalekompetanse i visse saker. *Første ledd* *bokstav e* avgrenser kompetansen mot tilfeller der forfølgning skjer etter *anmodning* fra fremmed stat. Det kreves ikke at forfølgning skjer i samsvar med *overenskomst* med fremmed stat. Som eneste bestemmelse i straffeloven bygger annet ledd i § 232 om grov narkotikaovertredelse på en ordning med utvidet strafferamme når det foreligger «særdeles skjerpende omstendigheter», hvor i tilfelle fengsel inntil 21 år kan idømmes. For denne reguleringen er det den forhøyede strafferamme som gjelder, slik at kompetansen til å avgjøre påtalespørsmålet i saker etter straffeloven § 232 annet ledd i alle tilfeller ligger til riksadvokaten.
+
+*Annet ledd* avgrenser statsadvokatens myndighet negativt, slik at kompetansen omfatter alle saker som ikke skal avgjøres av riksadvokaten.

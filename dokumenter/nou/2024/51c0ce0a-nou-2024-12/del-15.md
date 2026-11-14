@@ -1,933 +1,182 @@
-# NOU 2024: 12, del 15 av 33 (side 180–189)
+# NOU 2024: 12, del 15 av 34
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/51c0ce0a-nou-2024-12.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-12/id3045610/
 - Original-PDF: https://www.regjeringen.no/contentassets/bdaa4218a48946cd950812e0f62837fb/no/pdfs/nou202420240012000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 25 tabeller, 33 figurer, 573 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 180]
-
-178
-
-Kapittel 11
-
-NOU 2024: 12
-Håndheving av mindre narkotikaovertredelser
-
-masjonen fremskaffet gjennom en korrekt bruk
-av tvangsmidler, ikke minst reglene om ransaking
-og pågripelse? Det som først og fremst har
-interesse er om en korrekt bruk av regelverket
-om tvangsmidler har ledet til verdifull «overskuddsinformasjon» om «bakmenn».
-Fraværet av pålitelig informasjon og usikkerheten knyttet til den informasjon som finnes medfører at utvalget ikke går nærmere inn på dette
-temaet.
-Mandatet fastsetter som nevnt, at utvalget skal
-«utrede om politiet kan og bør gis tilgang til også
-andre straffeprosessuelle virkemidler enn etter
-gjeldende rett i saker som gjelder bruk av og
-befatning med narkotika til egen bruk der det
-eventuelt kan bidra til regjeringens mål med reformen». I mandatet punkt 1 klargjøres som nevnt
-regjeringens mål med reformen og det uttales
-blant annet at det er viktig at politiet «har egnede
-virkemidler for å kunne avdekke og etterforske
-innførsel og salg av større mengder narkotika og
-til å kunne avdekke bakmenn». Mandatet tolkes
-slik at utvalget skal vurdere om enkelte tvangsmidler også bør kunne brukes for å skaffe informasjon om straffbare «forhold» som andre personer står bak, typisk «bakmenn», og/eller etterretningsinformasjon om «bakmenn». Temaet har
-en side mot flere av de spørsmål som er adressert
-ovenfor: prinsippene for iverksetting av etterforsking (punkt 11.1.5), kravet til forholdsmessighet ved bruk av tvangsmidler (punkt 11.1.3) og
-hva tvangsmidlet ransaking kan brukes til (punkt
-11.1.5). Utvalget vil i nødvendig grad ta opp
-temaet i tilknytning til de nevnte spørsmålene.
-
-fengsel inntil 6 måneder» mens uaktsom overtredelse kan straffes med «bot», se første ledd.
-Strafferammene har prosessuell betydning.
-Strafferammen i et straffebud er relevant i en
-rekke prosessuelle bestemmelser, som et kriterium for virkeområdet til bestemmelsen, et
-strafferammekrav for å anvende bestemmelsen
-eller lignende. En del av dem vil påvirkes dersom
-forslaget til § 232 a vedtas. Årsaken er at strafferammene i § 232 a avviker noe fra både strafferammen i legemiddelloven § 31 annet ledd og
-strafferammene i straffeloven § 231.
-Utvalget har gjort relativt grundige undersøkelser for å klarlegge de straffeprosessuelle
-konsekvensene av forslaget til strafferettslig
-regulering i § 232 a. Men det er vanskelig å
-foreta en undersøkelse av lover og forskrifter
-som helt utelukker at enkelte konsekvenser
-overses.
-I fremstillingen videre vil utvalget omtale de
-straffeprosessuelle konsekvenser av forslaget til
-§ 232 a og avklare hvilke av dem det er behov for å
-vurdere nærmere med sikte på en lov- eller
-forskriftsendring. Rent systematisk vil fremstillingen skille mellom prosessuelle konsekvenser som bare inntrer fordi nedre del av straffeloven § 231 overføres til § 232 a (punkt 11.2.3), og
-konsekvenser som både har en side mot straffeloven § 231 og legemiddelloven § 31 annet ledd
-(punkt 11.2.4).
-Før utvalget går inn på de nærmere detaljer, vil
-utvalget gi en allmenn omtale av forholdet mellom
-den strafferammen et lovbrudd har og strafferammekrav i prosessuelle bestemmelser.
-
-11.2 Straffeprosessuelle konsekvenser
-av valget av strafferammer
-
-11.2.2 Strafferammer og prosessuelle
-strafferammekrav
-Utgangspunktet er at strafferammen i et straffebud også er avgjørende for prosessuelle regler
-som tillegger strafferammen for et lovbrudd
-betydning. Med andre ord er strafferammen for et
-lovbrudd normalt også avgjørende prosessuelt
-sett. Eventuelle straffeprosessuelle behov, typisk
-knyttet til rettshåndhevelse, har tradisjonelt vært
-ivaretatt enten ved at man da strafferammen i
-straffebudet ble fastsatt tok høyde for disse, eller
-ved at en særlig regulering er oppstilt i tilknytning
-til den prosessuelle regelen. Det første har vært
-mest vanlig der lovbruddet er lite alvorlig, mens
-det siste har vært mest aktuelt i tilknytning til relativt alvorlige lovbrudd.
-Dagens straffelov markerte et visst skille. Ved
-fastsettingen av strafferammen i de ulike straffebudene ble prosessuelle hensyn i mindre grad til-
-
-11.2.1 Allment
-Utvalgets forslag til et nytt straffebud i straffeloven § 232 a er omtalt i punkt 10.7. Forslaget
-innebærer at bruk og besittelse av narkotika tas ut
-av legemiddelloven § 31 annet ledd og innlemmes
-i det nye straffebudet. Videre forutsetter straffebudet at nedre del av hva som i dag rammes av
-straffeloven § 231 overføres til det nye straffebudet. Nærmere bestemt vil «erverv» og «innehav» av narkotika «til egen bruk» innenfor terskelverdiene straffes etter § 232 a. Motstykket er at
-ordene «erverv» og «oppbevaring» i § 231 første
-ledd må tolkes innskrenkende i lys av § 232 a
-første ledd.
-Forslaget til straffebud har to strafferammer.
-Forsettlig overtredelse kan straffes med «bot eller
-
-[Side 181]
-
-NOU 2024: 12
-Håndheving av mindre narkotikaovertredelser
-
-medføre frihetsstraff, eller over seks måneders
-fengsel for pågripelse, bygger dette på en forutsetning om at mindre alvorlige forhold ikke er
-alvorlige nok til å begrunne det aktuelle inngrepet. Dersom det likevel skal gis adgang til å
-benytte det aktuelle tvangsmiddelet for mindre
-alvorlige forhold, må det etter departementets
-syn foreligge særlige grunner. I denne vurderingen bør det blant annet legges vekt på hvor
-inngripende tvangsmiddelet er og hvilken
-nytteverdi det kan ha for rettshåndhevelsen.
-Andre momenter er om det dreier seg om
-handlinger der fornærmede ikke antas å bidra
-til oppklaring og om kriminaliteten begås i
-lukkede miljøer mv., se Prop. 68 L (2015–2016)
-punkt 6.1.4 side 45.
-
-lagt vekt. I proposisjonen til straffelovens alminnelige del uttales det:2
-Departementet er også enig med Straffelovkommisjonen i at strafferammene som et
-utgangspunkt ikke skal fastsettes med henblikk på å gi adgang til bruk av straffeprosessuelle tvangs- og etterforskingsmidler. Men
-departementet gir også sin tilslutning til kommisjonens unntak for strafferammene i det
-lavere sjikt, dvs. rammene fengsel inntil 6
-måneder eller 1 år. På dette nivå kan det være
-grunn til å velge en ramme på 1 år for å oppnå
-mulighet til å beslutte straffeprosessuell
-pågripelse og fengsling, selv om en ren straffverdighetsvurdering skulle tilsi at fengsel i 6
-måneder er tilstrekkelig.
-En konsekvens av tilnærmingen er at det etter
-vedtakelsen av straffeloven er gitt enkelte særlige
-prosessuelle regler for å avhjelpe de prosessuelle
-konsekvensene av en lav strafferamme. Dette har
-skjedd ved to lovendringer, som begge gjelder
-strafferammekrav i tvangsmiddelhjemler. Ved lov
-nr. 65/2015 om ikraftsetting av straffeloven fikk
-straffeprosessloven § 171 (pågripelse), § 192 (ransaking av eiendom) og § 195 (personransaking) et
-nytt annet ledd som åpner for at pågripelse og ransaking kan skje ved overtredelse av straffeloven
-§ 323 (mindre tyveri) til tross for at straffebudet
-har bot som strafferamme. Ved lov nr. 135/2020
-ble oppregningen i straffeprosessloven § 192
-annet ledd og § 195 annet ledd utvidet å omfatte
-overtredelse av straffeloven § 326 (mindre underslag) og § 334 (mindre heleri). I tillegg ble § 195
-annet ledd også utvidet til å omfatte overtredelse
-av straffeloven § 162 (brudd på identifikasjonsplikten) og § 353 (mindre skadeverk).
-De to endringslovene danner et bakteppe når
-utvalget skal vurdere behovet for prosessuelle lovendringer. Samtidig må en grundig og bred vurdering foretas dersom det er aktuelt med en endring. I proposisjonen til lov nr. 135/2020 ble det
-fremhevet:3
-At en straffbar handling bare kan straffes med
-bot, gjenspeiler at det dreier seg om et mindre
-alvorlig lovbrudd. Verken den vernede
-interesse eller de følger handlingen kan ha, tilsier at fengselsstraff vil være aktuelt. Når flere
-tvangsmidler krever at det foreligger mistanke
-om en straffbar handling som etter loven kan
-2
-3
-
-Ot.prp. nr. 90 (2003–2004) s. 131.
-Prop. 66 L (2019–2020) s. 137.
-
-179
-
-Kapittel 11
-
-11.2.3 Konsekvenser som følge av endringene
-i virkeområdet for straffeloven § 231
-11.2.3.1 Generelt
-Utvalgets forslag til strafferettslig regulering
-legger, som nevnt, opp til at nedre del av hva som i
-dag rammes av straffeloven § 231 overføres til det
-nye straffebudet i § 232 a. Forsettlig overtredelse
-av § 232 a har strafferammen «bot eller fengsel
-inntil 6 måneder», mens uaktsom overtredelse
-har strafferammen «bot». Strafferammene er
-lavere enn de i § 231. Forsettlig overtredelse av
-§ 231 har strafferammen «bot eller fengsel inntil 2
-år», mens uaktsom overtredelse har strafferammen «bot eller fengsel inntil 1 år». De lavere
-strafferammene i § 232 a har konsekvenser for
-prosessuelle bestemmelser som opererer med
-strafferammereguleringen «fengsel i minst 2 år»,
-«fengsel i mer enn 1 år», «fengsel i minst 1 år»,
-«fengsel i mer enn 6 måneder» og «høyere straff
-enn fengsel i 6 måneder».
-Strafferammereguleringen «høyere straff enn
-fengsel i 6 måneder» har også en side mot legemiddelloven § 31 annet ledd. Av den grunn vil
-reguleringen omtales i punkt 11.2.4.
-Så vidt utvalget kan se, er det ingen straffeprosessuelle bestemmelser som opererer med
-strafferammereguleringen «kan medføre fengsel i
-minst 2 år».
-Ingen bestemmelser i straffeprosessloven opererer med strafferammereguleringen «kan medføre fengsel i mer enn 1 år». I utleveringsloven § 3
-nr. 1 om utlevering til fremmed stat finnes det derimot en slik regulering.4 Dersom utvalgets forslag
-4
-
-I NOU 2022: 15 foreslås strafferammekravet senket til «kan
-straffes med fengsel i ett år eller mer», se lovutkastet § 12 (1).
-
-[Side 182]
-
-180
-
-Kapittel 11
-
-NOU 2024: 12
-Håndheving av mindre narkotikaovertredelser
-
-til strafferettslig regulering vedtas, uten at
-bestemmelsen endres, vil muligheten for utlevering til et annet land bortfalle når det gjelder
-erverv og innehav av narkotika til egen bruk
-innenfor terskelverdiene. Utvalget mener konsekvensen er lite betenkelig og går derfor ikke nærmere inn på om et unntak fra strafferammekravet
-bør oppstilles. Det skal nevnes at FNs narkotikakonvensjon av 1988, som ble omtalt i punkt 6.1,
-stiller krav om at visse narkotikalovbrudd skal gi
-grunnlag for utlevering mellom statspartene, jf.
-konvensjonen artikkel 6. Befatning med narkotika
-til egen bruk etter konvensjonen artikkel 3 nr. 2 er
-ikke omfattet av denne plikten, jf. artikkel 6 nr. 1.
-
-11.2.3.2 Nærmere om strafferammereguleringen
-«fengsel inntil 1 år» eller lignende
-Ingen av tvangsmiddelhjemlene i straffeprosessloven opererer med strafferammekravet «fengsel
-inntil 1 år», «fengsel i minst 1 år» eller lignende.
-Men i straffeprosessloven har enkelte saksbehandlingsregler en slik strafferammeregulering.
-Bestemmelsen om påtalekompetanse i § 67
-annet ledd bokstav a har en slik strafferammeregulering. Dette har to konsekvenser for plasseringen av beslutningskompetanse innenfor påtalemyndigheten når det gjelder erverv og innehav av
-narkotika til egen bruk innenfor terskelverdiene.
-Alle som tilhører påtalemyndigheten i politiet vil
-få påtalekompetanse, og påtalemyndigheten i politiet vil få kompetanse til å anke en dom, se § 67
-tredje ledd og § 68 første ledd første punktum.
-Når det gjelder straffeloven § 231, tilkommer
-påtalekompetansen bare politimesteren og de
-med utvidet påtalekompetanse, mens ankekompetansen ligger hos statsadvokaten, se § 67 annet
-ledd bokstav b, jf. § 67 tredje ledd og § 68 første
-ledd første punktum. Utvalget mener at verken
-endringen av påtalekompetanse eller ankekompetanse er betenkelig, og går ikke nærmere inn på
-om straffeprosessloven her bør endres.
-Dernest påvirkes virkeområdet til straffeprosessloven § 276 første ledd annet punktum, jf.
-tredje punktum. Bestemmelsen åpner for at en
-foreleggssak etter § 268 kan pådømmes i tingretten uten meddommere. Dersom et forelegg
-ikke vedtas, kan forelegget tre i stedet for en tiltalebeslutning. I en foreleggssak kan retten settes
-uten meddommere dersom strafferammen for lovbruddet ikke er høyere enn «bot eller fengsel inntil ett år» eller «bot og fengsel inntil ett år» og
-retten mener at en pådømming av saken uten
-meddommere ikke er «betenkelig». Forslaget i
-§ 232 a medfører at en foreleggssak om erverv
-
-eller innehav av narkotika til egen bruk innenfor
-terskelverdiene kan pådømmes av tingretten uten
-meddommere dersom behandlingsmåten ikke er
-«betenkelig». Utvalget mener at en slik utvidelse
-av virkeområdet til § 276 første ledd annet punktum ikke reiser prinsipielle betenkeligheter, og
-går ikke nærmere inn på om straffeprosessloven
-her bør endres.
-Utenfor straffeprosessloven er det en slik
-strafferammeregulering i arrestordreloven § 32
-første ledd første punktum om overlevering til
-Norge etter en «nordisk-europeisk arrestordre».5
-Dersom utvalgets forslag til strafferettslig regulering vedtas, uten at bestemmelsen endres, vil
-muligheten for overlevering til Norge fra EU-land
-utenfor Norden bortfalle når det gjelder erverv og
-innehav av narkotika til egen bruk innenfor
-terskelverdiene. Utvalget mener denne konsekvensen er lite betenkelig og går derfor ikke nærmere inn på om et unntak fra strafferammekravet
-bør oppstilles.
-
-11.2.3.3 Nærmere om strafferammereguleringen
-«kan medføre fengsel i mer enn
-6 måneder»
-To bestemmelser om ransaking i straffeprosessloven har strafferammekravet «kan medføre fengsel i mer enn 6 måneder». Kravet finnes for det
-første i den materielle hjemmelen for tredjemannsransaking av person i § 195 tredje ledd.
-Bestemmelsen gjelder der den personen som skal
-ransakes, ikke med «skjellig grunn» kan mistenkes for å være skyldig i det lovbruddet som
-begrunner ransakingen. I punkt 13.2.3.2 vil
-utvalget gå nærmere inn på om forslaget i § 232 a
-gir grunnlag for å oppstille et unntak fra strafferammekravet i § 195 tredje ledd.
-For det andre finnes strafferammekravet i
-bestemmelsen om beslutningskompetanse i
-straffeprosessloven § 198 første ledd nr. 3.
-Bestemmelsen åpner for at en polititjenesteperson
-kan beslutte ransaking «når det er sterk mistanke
-om en handling som etter loven kan medføre
-straff av fengsel i mer enn 6 måneder, og det er
-nærliggende fare for at formålet med ransakingen
-ellers vil forspilles». Virkeområdet for bestemmelsen er ransaking av eiendom, unntatt ransaking av
-«redaksjonslokale eller tilsvarende», og personransaking i medhold av § 195 første eller annet
-ledd, se § 198 annet ledd. I punkt 13.3 vil utvalget
-mer allment vurdere i hvilken grad påtalemyndig5
-
-I NOU 2022: 15 foreslås strafferammekravet videreført, se
-lovutkastet § 62 (1).
-
-[Side 183]
-
-NOU 2024: 12
-Håndheving av mindre narkotikaovertredelser
-
-heten og polititjenestepersoner bør ha kompetanse til å beslutte ransaking. Et av spørsmålene
-som tas opp er om bestemmelsen om hastekompetanse i § 198 første ledd nr. 3 bør endres, se
-punkt 13.3.5.2.
-
-11.2.4 Konsekvenser som både har en side
-mot straffeloven § 231 og
-legemiddelloven § 31 annet ledd
-11.2.4.1 Generelt
-Utvalgets forslag til et nytt straffebud i straffeloven § 232 a forutsetter som nevnt at både narkotikadelen av legemiddelloven § 31 annet ledd og
-nedre del av hva som i dag rammes av straffeloven § 231 overføres til det nye straffebudet.
-Strafferammen for forsettlig overtredelse av § 231
-er «fengsel inntil 2 år» mens strafferammen for
-uaktsom overtredelse er «bot eller fengsel inntil
-1 år». Strafferammen for overtredelse av legemiddelloven § 31 annet ledd er «bøter eller fengsel inntil 6 måneder, eller begge deler» uavhengig
-av om overtredelsen er forsettlig eller uaktsom. I
-utkastet til § 232 a er strafferammen for forsettlig
-overtredelse «bot eller fengsel inntil 6 måneder»
-mens strafferammen for uaktsom overtredelse er
-«bot».
-Utvalgets forslag til § 232 a har konsekvenser
-for prosessuelle bestemmelser som opererer med
-strafferammereguleringen «høyere straff enn
-fengsel i 6 måneder». Konsekvensen er relevant
-for både forsettlig og uaktsom overtredelse av
-§ 232 a. Flere straffeprosessuelle bestemmelser
-har denne strafferammereguleringen. Disse skal
-omtales i punkt 11.2.4.2.
-Den senkede strafferammen for uaktsom overtredelse har i tillegg prosessuelle konsekvenser
-for bestemmelser som opererer med strafferammereguleringen «fengsel inntil 6 måneder»
-eller «frihetsstraff». Så vidt utvalget kan se, er det
-ingen prosessuelle bestemmelser som opererer
-med reguleringen «fengsel inntil 6 måneder».
-Flere straffeprosessuelle bestemmelser har imidlertid reguleringen «frihetsstraff». Disse skal
-omtales i punkt 11.2.4.3.
-
-§ 31 annet ledd. Slik er formuleringen også
-tolket. Ikke minst rettskilder knyttet til straffeprosessloven § 171 første ledd legger denne tolkningen til grunn.6 Det kan også nevnes at strafferammen i straffeloven 1902 § 391 a om naskeri
-ved lov nr. 55/2002 ble endret fra «bøter eller
-fengsel inntil 6 måneder» til «bøter eller fengsel
-inntil 6 måneder eller begge deler» for at strafferammen skulle tilfredsstille strafferammekravet i
-straffeprosessloven § 171 første ledd.7 Utvalget
-legger til grunn at formuleringen «høyere straff
-enn fengsel i 6 måneder» skal tolkes på den
-nevnte måten med mindre rettskilder knyttet til
-den aktuelle bestemmelsen klart tilsier en annen
-tolkning.
-Både forsettlig og uaktsom overtredelse av
-straffeloven § 231 og legemiddelloven § 31 annet
-ledd tilfredsstiller denne strafferammereguleringen. Men både forsettlig og uaktsom overtredelse av utvalgets forslag til ny § 232 a i straffeloven har for lav strafferamme.
-Enkelte tvangsmiddelhjemler i straffeprosessloven opererer med strafferammekravet
-«høyere straff enn fengsel i 6 måneder»:
-– Mistankekravet knyttet til pågripelse og varetektsfengsling i medhold av § 171 første ledd,
-jf. § 184 annet ledd første punktum
-– Pågripelses- og fengslingsgrunnen gjentakelsesfare i § 171 første ledd nr. 3, jf. § 184 annet
-ledd første punktum
-– Skjult kameraovervåking i medhold av § 202 a
-– Hemmelighold av beslag i medhold av § 208 a
-– Hemmelighold av utleveringspålegg i medhold
-av § 210 a
-Utvalget kan ikke se at det er behov for at straffeprosessloven skal åpne for skjult kameraovervåking eller hemmelighold av beslag eller
-utleveringspålegg ved mistanke om bruk av
-narkotika eller erverv eller innehav av narkotika
-til egen bruk innenfor terskelverdiene. At slike
-virkemidler er nødvendig ved etterforsking av
-mindre alvorlige narkotikaovertredelser, er
-heller ikke anført i de innspill utvalget har mottatt fra påtalemyndigheten og politiet. Utvalget
-legger derfor til grunn at verken straffepro6
-
-11.2.4.2 Strafferammereguleringen «høyere straff
-enn fengsel i 6 måneder»
-Strafferammereguleringen «høyere straff enn
-fengsel i 6 måneder» innebærer rent språklig at
-det er tilstrekkelig at straffebudet er utformet
-slik at det åpner for å idømme en straff av fengsel
-i 6 måneder og bot, slik som legemiddelloven
-
-181
-
-Kapittel 11
-
-7
-
-Se Ot.prp. nr. 53 (1983–84) s. 21 og 164 og Innst. O. nr. 72
-(1984–85) s. 4 samt Rt-2006-65 avsnitt 9 og Rt-2010-453
-avsnitt 11. Også den tilsvarende formuleringen i straffeprosessloven 1887 § 228 første ledd ble tolket på denne måten,
-se Rt-1924-199.
-Se Ot.prp. nr. 66 (2001–2002) kapittel 18. Av samme grunn
-ble strafferammen «bøter eller fengsel inntil 6 måneder
-eller begge deler» valgt i tolloven 1966 §§ 61-65, se Ot.prp.
-nr. 19 (1965–66) s. 13–14 og 38. Strafferammen er senere
-videreført, se vareførselsloven §§ 12-5 og 12-7.
-
-[Side 184]
-
-182
-
-Kapittel 11
-
-NOU 2024: 12
-Håndheving av mindre narkotikaovertredelser
-
-sessloven § 202 a, § 208 a eller § 210 a bør endres
-dersom utvalgets forslag til strafferettslig regulering vedtas.
-Når det gjelder pågripelse og varetektsfengsling, antar utvalget at varetektsfengsling normalt
-ikke er aktuelt der mistanken gjelder bruk av
-narkotika eller erverv eller innehav av narkotika
-til egen bruk innenfor terskelverdiene. Det kan
-imidlertid reises spørsmål om straffeprosessloven
-bør åpne for pågripelse, ikke minst ved unndragelsesfare og bevisforspillelsesfare. Utvalget
-vil vurdere spørsmålet i punkt 14.3.
-Også enkelte bestemmelser av straffeprosessuell interesse for påtalemyndigheten og politiet
-utenfor straffeprosessloven opererer med strafferammekravet «høyere straff enn fengsel i 6 måneder». Dette gjelder ikke minst for en del hjemler
-for informasjonstilgang med henblikk på etterforsking:
-– Passloven § 11 første ledd bokstav c om informasjon fra politiets passregister
-– ID-kortloven § 12 første ledd bokstav c om
-informasjon fra politiets nasjonale id-kortregister
-– Skatteforvaltningsforskriften § 3-3-1 (2) bokstav f om utvidet informasjonsutlevering fra
-skattemyndighetene
-– Tollavgiftsforskriften § 8-2-1 (2) bokstav f om
-utvidet informasjonsutlevering fra tollmyndighetene
-– Vareførselsforskriften § 8-9-1 bokstav f om utlevering av informasjon fra Tollmyndighetenes
-skiltgjenkjenningssystem
-– Utlendingsloven § 84 a tredje ledd om utvidet
-informasjonsutlevering fra utlendingsmyndighetene
-– Utlendingsloven § 100 annet ledd om biometrisk ansiktsinformasjon fra utlendingsmyndighetene
-– Vegtrafikkloven § 43 b annet ledd bokstav e om
-informasjon fra bilde- og signaturregisteret til
-Statens vegvesen
-
-nøyer seg med å nevne det potensielle behovet for
-endring av lov eller forskrift.
-I tillegg opererer to andre straffeprosessuelle
-bestemmelser med strafferammekravet «høyere
-straff enn fengsel i 6 måneder». Dette gjelder
-skipsarbeiderloven § 9-3, jf. forskrift nr. 235/2005
-§ 8 annet ledd, om en skipsførers adgang til å
-sette en person i fengslig forvaring, og forskrift
-nr. 582/2015 § 4 første ledd og § 6 første ledd om
-adgangen til å pågripe og ransake som ledd i
-«Frontex sjøoperasjoner». Utvalget har ikke klarlagt om forslaget til strafferettslig regulering medfører at disse reglene bør endres. Også på dette
-punkt nøyer utvalget seg med å nevne det potensielle behovet for endring av lov eller forskrift.
-
-Dersom utvalgets forslag til strafferettslig regulering vedtas, uten at de nevnte reglene endres, vil
-påtalemyndighetens og politiets tilgang til informasjon fra registrene med henblikk på etterforsking bli borte eller redusert. Utvalget har ikke
-klarlagt om dette kan ha negativ effekt for muligheten til å etterforske mindre alvorlige narkotikaovertredelser på en effektiv måte. Slik utvalget ser
-det, må hver av disse hjemlene vurderes konkret
-opp mot det etterforskingsbehov som eventuelt
-foreligger og hvor inngripende det er å dele opplysningene med sikte på etterforsking. Utvalget
-
-Dersom en særregulering av strafferammekravet
-i mindre alvorlige narkotikasaker skal kunne forsvares i disse tvangsmiddelhjemlene, må det
-kunne påvises et straffeprosessuelt behov for
-tvangsmidlet.
-Som utvalget vil komme tilbake til, er det ved
-etterforsking av mindre alvorlige narkotikasaker
-behov for tvangsmidlene kroppslig undersøkelse
-og ransaking. Men rammen for vurderingen her
-er uaktsom overtredelse. Spørsmålet om en
-mindre alvorlig narkotikaovertredelse er begått
-uaktsomt eller forsettlig er mest sentralt på påtale-
-
-11.2.4.3 Strafferammereguleringen «frihetsstraff»
-Flere straffeprosessuelle bestemmelser har
-strafferammereguleringen «frihetsstraff». Både
-forsettlig og uaktsom overtredelse av straffeloven
-§ 231 og legemiddelloven § 31 annet ledd tilfredsstiller denne strafferammereguleringen. Det
-samme gjør forsettlig overtredelse av utvalgets
-forslag til ny § 232 a i straffeloven. Uaktsom overtredelse av § 232 a har derimot en for lav strafferamme.
-Flere tvangsmiddelhjemler i straffeprosessloven har strafferammekravet «frihetsstraff»:
-– Kroppslig undersøkelse i medhold av § 157 (se
-også påtaleinstruksen § 10-1)
-– Materiale til DNA-analyse i medhold av § 158
-– Fingeravtrykk og fotografi i medhold av § 160
-(se også påtaleinstruksen § 11-1)
-– Ransaking av «bolig, rom eller oppbevaringssted» i medhold av § 192 første eller tredje
-ledd, med mindre et av alternativene i § 193 får
-anvendelse
-– Ransaking av person i medhold av § 195 første
-ledd, dvs. av en person som med skjellig grunn
-kan mistenktes for å være skyldig
-– Opptak av samtale i medhold av § 216 l
-
-[Side 185]
-
-NOU 2024: 12
-Håndheving av mindre narkotikaovertredelser
-
-stadiet og iretteføringsstadiet. Kroppslig undersøkelse og ransaking er aktuelle virkemidler for å
-sikre bevis på etterforskingsstadiet. Mistankekravet for bruk av disse tvangsmidlene er såpass
-lavt at bevissituasjonen i en sak sjelden vil ligge
-slik an at kravet bare er oppfylt for uaktsom overtredelse. I tillegg vil kroppslig undersøkelse og
-ransaking lettere fremstå som uforholdsmessig
-der mistankekravet bare er oppfylt for uaktsom
-overtredelse. Samlet sett mener derfor utvalget at
-det ikke er nødvendig å gå nærmere inn på om det
-bør gjøres unntak fra strafferammekravene i
-§ 157, § 192 eller § 195 første ledd med henblikk
-på uaktsom overtredelse.
-Det må antas at opptak av samtale er et mindre
-sentralt tiltak enn ransaking og kroppslig undersøkelse ved etterforsking av mindre alvorlige
-narkotikasaker. Utvalget går derfor ikke nærmere
-inn på om unntak fra strafferammekravet bør oppstilles i straffeprosessloven § 216 l med henblikk
-på uaktsom overtredelse.
-Ved etterforskingen av den konkrete straffesaken må det antas at innhenting av materiale for
-DNA-analyse, og fingeravtrykk og/eller foto av
-mistenkte, er et mindre sentralt etterforskingstiltak enn ransaking og kroppslig undersøkelse.
-Samtidig har innhenting av materiale for DNAanalyse, fingeravtrykk og foto en side mot politiets registre, og dermed mot etterforsking av
-andre lovbrudd og fremtidige lovbrudd.
-Materiale til DNA-analyse som innhentes i
-medhold av straffeprosessloven § 158, blir normalt analysert. Resultatet av analysen kan
-registreres i etterforskingsregisteret, se politiregisterloven § 12 tredje ledd første punktum.
-Etter at straffesaken er endelig avgjort kan resultatet registreres i identitetsregisteret dersom
-saken ender med en «straff som nevnt i straffeloven § 29», typisk fengsel eller bot, se § 12 annet
-ledd nr. 1. Personer som ilegges en påtaleunnlatelse eller dømmes til straffutmålingsfrafall
-eller straffutmålingsutsettelse, kan derimot ikke
-registreres, se § 12 annet ledd nr. 1 sammenholdt
-med straffeloven § 30 bokstav a, b og f. For øvrig
-skal analyseresultatet slettes i politiets registre, se
-politiregisterforskriften § 45-17 annet ledd.
-Registrering av foto og fingeravtrykk er regulert i politiregisterforskriften § 46-5. Tredje ledd
-første punktum fastsetter at «den som er mistenkt
-eller siktet for en handling som kan medføre frihetsstraff» kan registreres i etterforskingsregisteret. Når straffesaken er endelig avgjort,
-kan registeringen overføres til identitetsregisteret
-dersom personen «er ilagt en reaksjon som nevnt i
-§ 44-4» for en handling som etter loven kan med-
-
-183
-
-Kapittel 11
-
-føre «frihetsstraff», se § 45-6 annet ledd nr. 1
-første punktum. Det verdt å merke seg at både
-bot, påtaleunnlatelse og straffutmålingsfrafall er
-nevnt i § 44-4, se første ledd annet punktum nr. 5,
-9 og 15.
-Lagring av informasjon om DNA og fingeravtrykk og av foto i identitetsregisteret har en
-side mot EMK artikkel 8, ikke minst i mindre
-alvorlige saker. Temaet har vært oppe for både
-EMD og Høyesterett.8 En uaktsom mindre narkotikaovertredelse er et lite alvorlig lovbrudd, og
-behovet for registrering med henblikk på etterforsking av andre straffbare forhold er neppe
-stort. Videre må lagring av denne type informasjon sies å utgjøre et inngrep av en viss intensitet.
-Det kan også nevnes at sammenhengen mellom
-inngrepshjemlene i straffeprosessloven § 158 og
-§ 160 på den ene side og reglene om politiets
-registre på den annen side, ble tillagt stor vekt i
-proposisjonen til lov nr. 135/2020, som ble omtalt i
-punkt 11.2.2. I proposisjonen ble det vurdert om
-et unntak fra strafferammekravet også skulle oppstilles i straffeprosessloven § 158 og/eller § 160,
-med henblikk på overtredelse av straffeloven
-§ 323 (mindre tyveri), § 326 (mindre underslag),
-§ 334 (mindre heleri), § 339 (mindre hvitvasking)
-og/eller § 353 (mindre skadeverk). Departementet kom til at det ikke var grunnlag for å gjøre
-unntak fra strafferammekravet.9
-På denne bakgrunn mener utvalget det ikke er
-nødvendig å gå nærmere inn på om unntak fra
-strafferammekravet bør oppstilles i straffeprosessloven § 158 eller § 160 med henblikk på uaktsom overtredelse.
-Så vidt utvalget kan se, er det bare tre andre
-straffeprosessuelle bestemmelser som opererer
-med strafferammereguleringen «frihetsstraff».
-Den ene bestemmelsen er unntaket fra taushetsplikt i straffeprosessloven § 216 i første ledd
-tredje punktum bokstav f. Bestemmelsen fastsetter at taushetsplikten ikke er til hinder for at
-opplysninger fremskaffet gjennom kommunikasjonskontroll «brukes […] for å avverge en straffbar handling som kan medføre frihetsstraff».
-Gjennom henvisningene i straffeprosessloven
-§ 216 m sjette ledd, § 216 o femte ledd og § 222 d
-8
-
-9
-
-Se HR-2019-1226-A og HR-2020-2372-A, der det også vises
-til praksis fra EMD. Temaet er drøftet av Asbjørn Strandbakken, «DNA-registrering og retten til privatliv etter EMK
-artikkel 8», i Per Erik Bergsjø mfl. (red.), Med ære og samvittighet Festskrift til Magnus Matningsdal, Oslo 2021
-s. 316–340.
-Se Prop. 66 L (2019–2020) s. 138–139 (punkt 17.5.2), der
-reguleringen i politiregisterloven og politiregisterforskriften drøftes.
-
-[Side 186]
-
-184
-
-Kapittel 11
-
-NOU 2024: 12
-Håndheving av mindre narkotikaovertredelser
-
-femte ledd, gjelder unntaket også for informasjon
-fremskaffet gjennom romavlytting og dataavlesning, herunder der de tre tvangsmidlene benyttes
-i avvergende øyemed.
-Straffeprosessloven § 216 i, jf. § 216 m sjette
-ledd, § 216 o femte ledd og § 222 d femte ledd,
-skal tolkes slik at taushetsplikten ikke gjelder
-internt i påtalemyndigheten og politiet. Taushetsplikten er bare til hinder for at informasjon deles
-med personer utenfor påtalemyndigheten og politiet, herunder andre offentlige etater.10 Tredje
-punktum bokstav f er ett av de unntakene som
-åpner for å dele informasjon med eksterne, men
-bare for å «avverge» en straffbar handling, ikke
-for å «forebygge» en straffbar handling. Behovet
-for å dele «overskuddsinformasjon» fra kommunikasjonskontroll, romavlytting og dataavlesing
-med eksterne for å avverge uaktsom bruk av narkotika eller uaktsomt erverv eller uaktsom besittelse til egen bruk innenfor terskelverdiene antas
-å være minimalt. Videre bør andre etaters eller
-virksomheters eventuelle behov for slik informasjon først og fremst reguleres i den aktuelle særloven. Når det gjelder barn og narkotika, oppstiller barnevernsloven § 13-2 første ledd bokstav
-d en vidtrekkende informasjonsplikt: «Enhver
-som utfører tjeneste eller arbeid for et forvaltningsorgan, skal uten hinder av taushetsplikt
-melde fra til barnevernstjenesten uten ugrunnet
-opphold […] når et barn har vist alvorlige atferdsvansker […] ved problematisk bruk av rusmidler».11 På denne bakgrunn mener utvalget at
-det ikke er nødvendig å gå nærmere inn på om
-unntaket § 216 i første ledd tredje punktum bokstav f bør inneholde et unntak fra unntaket.
-For øvrig er det to straffeprosessuelle bestemmelser utenfor straffeprosessloven som opererer
-med strafferammekravet «frihetsstraff». Det er
-arrestordreloven § 33 første ledd første punktum
-om overlevering til Norge etter en «nordisk
-arrestordre», og skipsarbeiderloven § 9-3, jf. forskrift nr. 235/2005 § 6, om en skipsføreres adgang
-til å beslutte ransaking og beslag. Utvalget viser til
-de vurderinger som ble gjort i punkt 11.2.3.2 og
-11.2.4.2 i tilknytning til henholdsvis arrestordreloven § 32 første ledd første punktum og skipsarbeiderloven § 9-3, jf. forskrift nr. 235/2005 § 8
-annet ledd.
-
-10
-
-Se Ot.prp. nr. 64 (1998–99) s. 76 og 161 og Ingvild Bruce og
-Geir Sunde Haugland, Skjulte tvangsmidler, 2. utgave, Oslo
-2018 s. 295.
-11
-Bestemmelsen omtales nærmere i punkt 15.2.5.2.
-
-11.3 Straffeprosessuelle spørsmål
-knyttet til reaksjonsfastsetting 
-– særlig om straffeprosessloven
-§ 321 første ledd
-Utvalgets forslag til straffutmålingsbestemmelser i
-annet og tredje ledd i ny § 232 a i straffeloven har
-ingen direkte straffeprosessuelle konsekvenser.
-Den rettsutvikling som har funnet sted når det gjelder reaksjonsfastsetting i mindre alvorlige narkotikasaker og de retningslinjene som følger av § 232
-a annet og tredje ledd medfører imidlertid at et
-spørsmål knyttet til anke over dommer er markert
-mer aktuelt enn tidligere. Spørsmålet omhandler
-anvendelsesområdet til samtykkeregelen i straffeprosessloven § 321 første ledd. Dersom samtykkeregelen gjelder, må lagmannsretten samtykke i at
-anken fremmes til ankeforhandling. Et samtykke
-«skal bare gis når særlige grunner taler for det», se
-første ledd annet punktum. Dersom annet ledd om
-siling gjelder, er derimot utgangspunktet at anken
-skal fremmes til ankeforhandling.
-Virkeområdet til samtykkeregelen er positivt
-angitt i § 321 første ledd første punktum. Den
-gjelder «hvor påtalemyndigheten ikke har påstått
-og det ikke er idømt annen reaksjon enn bot, inndragning eller tap av retten til å føre motorvogn
-mv.». Det relevante i denne sammenheng er
-formuleringen «annen reaksjon enn». Formuleringen medfører at samtykkeregelen gjelder der
-påtalemyndigheten ikke har påstått en annen
-straff enn bot i tingretten og tingretten heller ikke
-har idømt en annen reaksjon.
-Ordlyden i § 321 første ledd første punktum
-tyder på at samtykkeregelen ikke gjelder der
-påstanden og/eller domsslutningen går ut på
-straffutmålingsutsettelse eller straffutmålingsfrafall etter straffeloven § 60 eller § 61. Disse strafferettslige reaksjonene er særlig aktuelle i mindre
-alvorlige narkotikasaker. Det vises til fremstillingen i punkt 8.2.3 og 10.7.5. Straffutmålingsfrafall er en parallell til ubetinget påtaleunnlatelse,
-mens straffutmålingsutsettelse er en parallell til
-påtaleunnlatelse på vilkår.
-I Rt-2007-1153 la Høyesterett til grunn at samtykkeregelen måtte tolkes utvidende, slik at straffutmålingsutsettelse etter straffeloven 1902 § 52
-nr. 1 var omfattet. Begrunnelsen var sammenhengen i regelverket og formålet med samtykkeregelen:
-Kjæremålsutvalget er enig i at ordlyden i § 321
-første ledd kan tale for en slik løsning. Men en
-slik forståelse av bestemmelsen gir liten
-sammenheng i reglene. Det er utvilsomt slik at
-
-[Side 187]
-
-NOU 2024: 12
-Håndheving av mindre narkotikaovertredelser
-
-de lempeligste reaksjonene av prosessøkonomiske grunner omfattes av samtykkeregelen i
-første ledd, som uttrykkelig nevner bot, inndragning og tap av retten til å føre motorvogn.
-Straffutmålingsutsettelse er den mildeste reaksjon som kan ilegges av domstolene, og er på
-dette stadium i prosessen å anse som et motstykke til påtaleunnlatelsen på etterforskningsstadiet. Det er også i rettspraksis slått fast at
-betinget dom i form av straffutmålingsutsettelse er en mildere reaksjon enn en bot, se
-Rt-1984-581.
-Bestemmelsen om straffutmålingsutsettelse i
-straffeloven § 60 viderefører bestemmelsen i
-straffeloven 1902 § 52 nr. 1.12 Etter begge bestemmelsene utsettes utmåling av straff i en prøvetid.
-Utsettelsen er alltid betinget av siktede ikke begår
-en ny straffbar handling i prøvetiden, og særvilkår
-kan fastsettes. Avgjørelsen i Rt-2007-1153 medfører derfor at også straffutmålingsutsettelse etter
-§ 60 må sies å falle innenfor virkeområdet til samtykkeregelen § 321 første ledd første punktum.
-Straffutmålingsfrafall i medhold av straffeloven § 61 innebærer at utmåling av straff frafalles, uten at det gjelder en prøvetid. Reaksjonen
-er derfor mildere enn straffutmålingsutsettelse
-etter § 60. Ut fra den begrunnelse som ble gitt i
-Rt-2007-1153 må det legges til grunn at også straffutmålingsfrafall er en reaksjon som omfattes av
-samtykkeregelen.
-Etter utvalgets vurdering bør samtykkeregelen i § 321 første ledd første punktum klargjøres, slik at det fremgår av ordlyden at også
-straffutmålingsutsettelse og straffutmålingsfrafall
-omfattes. Prinsippene for reaksjonsfastsetting i
-mindre alvorlige narkotikasaker skaper et særlig
-behov for en slik presisering. Utvalget foreslår at
-formuleringen «straffutmålingsutsettelse, straffutmålingsfrafall,» tilføyes, slik at virkeområdet til
-samtykkeregelen blir «annen reaksjon enn straffutmålingsutsettelse, straffutmålingsfrafall, bot,
-inndragning eller tap av retten til å føre motorvogn mv.».
-
-11.4 Avgrensninger og presiseringer
-i randsonen av mandatet
-11.4.1 Rustesting, visitasjon mv. som ledd
-i kontrollvirksomhet
-I lovgivningen er det en rekke hjemler for ruskontroll. Hjemlene skal sikre at bruk av og befat12
-
-Se Ot.prp. nr. 90 (2003–2004) s. 457.
-
-185
-
-Kapittel 11
-
-ning med rusmidler kan avdekkes på livsområder
-der rusbruk innebærer en særlig sikkerhetsutfordring eller er særlig uheldig av andre
-grunner. Normalt skiller hjemlene ikke mellom
-alkohol, narkotika og andre rusmidler. Hjemlene
-åpner for rutinekontroll og/eller kontroll ved konkret mistanke.
-I samferdselslovgivningen er det hjemler for
-rustesting av bilførere, togførere, flygere, skipsførere mv., ved mistanke om ruspåvirkning og som
-ledd i en rutinekontroll. Slike hjemler finnes blant
-annet i vegtrafikkloven, jernbaneloven, luftfartsloven, sjøloven, småbåtloven og taubaneloven.13
-For yrkesutøvere er slike hjemler ofte også knyttet
-opp mot regler om pliktmessig avhold. Videre er
-det innenfor enkelte forvaltningsområder hjemler
-for testing og visitasjon med sikte på avdekking av
-bruk og besittelse av rusmidler. Regler om dette er
-særlig vanlig innenfor helsevesenet,14 barnevernet,15 kriminalomsorgen16 og forsvaret.17
-Mandatet nevner ikke denne type regler. Slik
-utvalget ser det, ligger det utenfor mandatet å se
-nærmere på reguleringen av rustesting i samferdselssektoren og lovgivningen om bestemte
-forvaltningsområder. Men eksistensen av slike
-hjemler danner et bakteppe når behovet for å
-endre tvangsmiddelhjemlene i straffeprosessloven skal vurderes.
-
-13
-
-14
-
-15
-
-16
-
-17
-
-Se vegtrafikkloven § 22 a og § 22 c, militærpolitiloven § 20
-(2) (loven trer i kraft 1. juli 2024), jernbaneloven § 3 c,
-sjøloven § 145, småbåtloven § 36, luftfartsloven § 6-13 og
-taubaneloven § 23.
-Se psykisk helsevernloven § 4-5 fjerde ledd (kontakt med
-omverdenen), § 4-6 (undersøkelse av rom og eiendeler
-samt kroppsvisitasjon) og § 4-7 a (rusmiddeltesting av biologisk materiale), spesialisthelsetjenesteloven § 3-14 annet
-ledd, jf. forskrift nr. 1003/2016 § 6 (rusmiddeltesting) og
-§ 8 (kroppsvisitasjon og undersøkelse av pasient og brukers rom og eiendeler), helse- og omsorgstjenesteloven
-§ 12-4 fjerde ledd, jf. forskrift nr. 1003/2016 § 6 (rusmiddeltesting) og § 8 (kroppsvisitasjon og undersøkelse av pasient og brukers rom og eiendeler). Se også brann- og
-eksplosjonsvernloven § 17 a og § 18 e og sivilbeskyttelsesloven § 9 b.
-Se barnevernsloven § 10-8 første ledd (kroppsvisitering og
-undersøkelse av rom, eiendeler, brev og pakker ved
-begrunnet mistanke om bl.a. besittelse eller mottak av rusmidler) og § 10-10 (rusmiddeltesting).
-Se straffegjennomføringsloven § 27 (undersøkelse av personer og gjenstander som skal inn), § 28 (undersøkelse av
-innsatte, rom og eiendeler) og § 29 (undersøkelser for å
-avdekke bruk av rusmidler mv.).
-Se forsvarsloven § 62 (pliktmessig avhold og rustesting) og
-militærpolitiloven § 19 (militær inspeksjon) (loven trer i
-kraft 1. juli 2024).
-
-[Side 188]
-
-186
-
-Kapittel 11
-
-NOU 2024: 12
-Håndheving av mindre narkotikaovertredelser
-
-11.4.2 Overtredelser på militært område
-I tiende del i straffeprosessloven er det enkelte
-særlige regler om «Rettergangsmåten i militære
-straffesaker». Tiende del inneholder ikke materielle regler som har interesse ved etterforsking
-av mindre narkotikaovertredelser. I straffeprosessloven for øvrig finnes det bare én regel som
-omhandler lovbrudd på militært område. Den
-materielle hjemmelen for ransaking i § 193 annet
-ledd gjør unntak fra § 192 ved å oppstille mer liberale regler om ransaking «i kaserne, brakke,
-militært fartøy og militære bygninger og rom».
-Straffeprosessutvalget foreslår ikke å videreføre
-hjemmelen. I NOU 2016: 24 side 334 fremholder
-utvalget: «Heller ikke denne reguleringen er etter
-utvalgets syn nødvendig eller prinsipielt ønskelig,
-og utvalget viser til at det ikke gjelder tilsvarende
-regler verken for fengsler eller offentlige kontorer.»
-Når del VI i lov nr. 84/2023 om endringer i forsvarsloven mv. trer i kraft,18 endres tiende del i
-straffeprosessloven betydelig. Videre er det i militærpolitiloven, som trer i kraft 1. juli 2024, nærmere regler om etterforsking fra militærpolitiet
-og dets samhandling med sivilt politi. Ingen av lovendringene har betydning for hvilke materielle
-regler som gjelder ved etterforsking av narkotikalovbrudd på militært område. I proposisjonene til
-de to lovene legges det til grunn at det ikke bør
-gis egne materielle regler om etterforsking av lovbrudd på militært område.19
-Bruk og besittelse av narkotika på militært
-område kan reise særlige spørsmål. Men temaet
-er ikke nevnt særskilt i mandatet. Videre er
-reglene om etterforsking, påtale og iretteføring av
-straffesaker knyttet til forsvaret nylig revidert. Og
-den militære inspeksjonsrett er blitt lovregulert
-gjennom militærpolitiloven § 19. Av disse grunner
-vil utvalget i begrenset grad gå inn på saker der
-handlingsstedet er militært område.
-11.4.3 Taushetsplikten til personalet ved
-brukerrom
-Etter brukerromsloven § 4 første ledd er bruk og
-besittelse av narkotika innenfor de rammer
-bestemmelsen oppstiller, straffritt. Det som er
-straffritt, er å bruke narkotika «i ordningens injiseringsrom eller inhaleringsrom» og å besitte «en
-18
-
-Lov nr. 84/2024 trer i kraft 1. juli 2024, med unntak for del
-VI om endringer i straffeprosessloven.
-19
-Se Prop. 133 L (2022–2023) punkt 5.1 og 5.6 og Prop. 134 L
-(2022–2023) punkt 4.7.
-
-brukerdose narkotika til eget bruk i brukerromsordningens lokaler eller tilstøtende behandlingsrom». Rammen for straffri besittelse av narkotika
-er noe snevrere enn hva som utgjør «besittelse»
-etter legemiddelloven § 31 annet ledd, og vesentlig snevrere enn hva som kan utgjøre innehav til
-egen bruk etter utvalgets forslag til ny § 232 a i
-straffeloven.
-Ordningen med brukerrom er en «kommunal
-helse- og omsorgstjeneste», se brukerromsloven
-§ 2 første ledd. Personalet ved et brukerrom har
-derfor taushetsplikt i medhold av forvaltningsloven, eventuelt også etter helsepersonelloven.
-Taushetsplikten er ikke unntaksfri. I brukerromsloven § 6 annet ledd og brukerromsforskriften
-§ 12 første ledd er det særlige regler om ansattes
-rett og plikt til å gi politiet «opplysning om hvorvidt en identifisert person er registrert bruker av
-brukerromsordningens tjenester eller ikke».
-Plikten gjelder når politiet ber om slik informasjon
-og har «mistanke om straffbar besittelse eller
-bruk av narkotika i brukerromsordningens lokaler eller tilstøtende behandlingsrom». Begrunnelsen for plikten er angitt slik i forarbeidene:20
-Departementet har vært i tvil om politiet bør
-gis en begrenset kontrolladgang, men støtter
-seg til flertallet i høringen. Formålet med politiets kontrolladgang er å sikre en forsvarlig
-drift og hindre straffbare handlinger i sprøyteromslokalene.
-Retningslinjen om straffutmåling overfor rusmiddelavhengige i forslaget til § 232 a tredje ledd
-innebærer at reaksjonen normalt skal være ubetinget påtaleunnlatelse, eventuelt straffutmålingsfrafall. Retningslinjen aktualiserer spørsmålet om
-den bør å ha konsekvenser for politiets mulighet
-til å etterforske og påtale straffbar bruk og besittelse av narkotika i tilknytning til brukerrom samt
-å beslaglegge narkotika der. Problemstillingen
-har en rent straffeprosessuell side som omhandler når etterforsking kan og bør iverksettes og hva
-som er en forholdsmessig bruk av tvangsmidler.
-Disse problemstillingene vil utvalget komme tilbake til i punkt 12.3 og 12.5.
-I tillegg har problemstillingen en side mot
-taushetsplikten til personalet ved brukerrommene. I hvilken grad bør etterforskingshensyn
-kunne medføre at taushetsplikten settes til side?
-Bruk og besittelse av narkotika i strid med
-reglene for brukerrom kan være egnet til å undergrave legitimiteten til ordningen, å påvirke andre
-20
-
-Ot.prp. nr. 56 (2003–2004) s. 38.
-
-[Side 189]
-
-NOU 2024: 12
-Håndheving av mindre narkotikaovertredelser
-
-brukere av ordningen på en uheldig måte og å
-påvirke arbeidshverdagen til de ansatte på en
-negativ måte. Av disse grunner kan begrensninger i taushetsplikten være velbegrunnet selv om
-de isolert sett harmonerer mindre godt med
-dagens syn på straff overfor rusmiddelavhengige.
-Utvalget nøyer seg med å nevne denne problemstillingen. En nærmere vurdering av hvor langt
-taushetsplikten for personalet ved brukerrom bør
-rekke, må sies å ligge på siden av mandatet.
-
-11.4.4 Forvaltningsrettslige konsekvenser
-av valget av strafferammer
-Utvalget har gjort relativt grundige undersøkelser
-for å klarlegge de forvaltningsrettslige konsekvenser av forslaget til strafferettslig regulering i
-straffeloven § 232 a. Men det er vanskelig å foreta
-en undersøkelse av lover og forskrifter som helt
-utelukker at enkelte konsekvenser overses. Så
-vidt utvalget har brakt på det rene, er de forvaltningsrettslige konsekvenser beskjedne.
-Strafferammen for et lovbrudd har rettslig
-betydning for enkelte temaer i utlendingsloven. I
-hjemlene for bortvisning av en utlending og utvisning av en utlending uten oppholdstillatelse er det
-relevant om personen har begått et lovbrudd som
-har «fengselsstraff» som strafferamme.21 For
-øvrig er strafferammen «fengselsstraff» relevant
-for adgangen til å gi tilleggstid ved søknad om permanent oppholdstillatelse.22 De nevnte konsekvensene inntrer bare ved uaktsom overtredelse
-av forslaget til § 232 a i straffeloven, som har
-strafferammen bot. Strafferammen er «fengsel
-inntil 6 måneder» ved forsettlig overtredelse.
-Utvalget nøyer seg med å nevne disse konsekvensene. Det er ikke naturlig at utvalget går inn på
-om utlendingsloven bør endres.
-Forslaget til § 232 a i straffeloven forutsetter at
-nedre del av hva som i dag rammes av § 231 overføres til det nye straffebudet. Nærmere bestemt
-vil «erverv» og «innehav» av narkotika «til egen
-bruk» innenfor terskelvervidene straffes etter
-§ 232 a. Endringen har konsekvenser for politiets
-plikt til å gi informasjon til regional sikkerhetsavdeling. Etter psykisk helsevernloven § 4A-11
-tredje ledd «skal» politiet på anmodning gi regional sikkerhetsavdeling «opplysninger om perso21
-
-Se utlendingsloven § 17 første ledd bokstav g, jf. § 66 første
-ledd bokstav c, og § 66 første ledd bokstav c.
-22
-Se utlendingsloven § 62 første ledd bokstav c, jf. § 66 første
-ledd bokstav c, jf. utlendingsforskriften § 11-5.
-
-187
-
-Kapittel 11
-
-nen er siktet, tiltalt eller ilagt straff for lovbrudd
-med en strafferamme på fengsel i mer enn ett år,
-med mindre dette kan skade arbeidet med
-kriminalitetsbekjempelse». Forslaget til endring i
-strafferettslig regulering medfører derfor at politiet ikke lenger vil ha plikt til å gi opplysninger om
-personer som er «siktet, tiltalt eller ilagt straff» for
-erverv eller innehav av narkotika til egen bruk
-innenfor terskelverdiene. Heller ikke denne
-konsekvensen er det naturlig at utvalget går
-nærmere inn på.
-
-11.5 Sammenfatning
-På bakgrunn av fremstillingen i punkt 11.1, 11.2
-og 11.4 vil utvalget gå nærmere inn på disse
-temaer, særlig med henblikk på etterforsking av
-mindre alvorlige narkotikalovbrudd:
-– Terskelen for å iverksette etterforsking og
-prinsippene for avgrensning av en etterforsking
-– Vernet mot selvinkriminering
-– Forholdsmessighetskravet ved bruk av tvangsmidler, herunder ved ransaking og kroppslig
-undersøkelse
-– Hva tvangsmidlet ransaking kan brukes til: forholdet mellom den saken som begrunner
-tvangsinngrepet og den saken en (primært)
-ønsker mer informasjon om
-– Strafferammekravet ved tredjemannsransaking av person
-– Grensen mellom personransaking og kroppslig undersøkelse
-– Maktbruk ved personransaking og kroppslig
-undersøkelse
-– Påtalemyndighetens og polititjenestepersoners kompetanse til å beslutte ransaking og
-kroppslig undersøkelse
-– Reglene om ransakingsbeslutningen og rapportplikten ved ransaking
-– Kroppslig undersøkelse, særlig bruk av spyttprøve, og gransking av tegn og symptomer
-– Strafferammekravet ved pågripelse
-For øvrig har utvalget i punkt 11.3 anbefalt at
-straffeprosessloven § 321 første ledd første
-punktum endres, slik at det fremgår av ordlyden
-at også reaksjonene straffutmålingsutsettelse og
-straffutmålingsfrafall omfattes av samtykkeregelen ved anke til lagmannsretten.
+# Allment om etterforsking og tvangsmiddelbruk
+
+## Menneskerettslige krav og skranker
+
+### Generelt
+
+De straffeprosessuelle spørsmål utvalget tar opp har en side mot flere menneskerettslige krav og skranker. Ransaking, kroppslig undersøkelse og lignende tvangstiltak til bruk ved bevissikring har en side mot vernet av privatlivet og til dels integritetsvernet (forbudet mot tortur og umenneskelig og nedverdigende behandling), mens pågripelse har en side mot retten til frihet. I tillegg har etterforsking for å klarlegge om en person er rusmiddelavhengig en side til vernet mot selvinkriminering.
+
+Både vernet mot selvinkriminering, integritetsvernet og retten til frihet har en side mot avgrensede temaer som skal tas opp i kapittel 12 og 14. De menneskerettslige krav og skranker vil derfor omtales i disse kapitlene. Vernet mot selvinkriminering omtales i punkt 12.4 om avhør mv. av mistenkte. Integritetsvernet omtales i punkt 14.1 om prøvetaking, mens retten til frihet omtales i punkt 14.3 om pågripelse.
+
+Fremstillingen videre vil rette oppmerksomheten mot vernet av privatlivet. På et allment plan ble vernet omtalt i punkt 6.2.2. En nærmere omtale rettet inn mot bruk av straffeprosessuelle tvangsmidler som ransaking, kroppslig undersøkelse og lignende tvangstiltak til bruk ved bevissikring vil gis innledningsvis i dette kapittel, i punkt 12.1.2. I tillegg vil vernet mot kroppslig undersøkelse omtales ytterligere i punkt 14.1.2.
+
+Situasjonen der en person er under 18 år reiser særlige straffeprosessuelle spørsmål. Grunnloven § 104 annet ledd fastsetter at ved «handlinger og avgjørelser som berører barn, skal barnets beste være et grunnleggende hensyn». Hvilke mer konkrete krav og skranker som gjelder der personen er mindreårig, utdypes i barnekonvensjonen, som etter menneskerettsloven § 2 gjelder som norsk lov. På et allment plan ble Grunnloven § 104 og barnekonvensjonen omtalt i punkt 6.2.6. I punkt 12.1.3 vil utvalget gå nærmere inn på særlige straffeprosessuelle krav og skranker.
+
+Utvalget har for øvrig merket seg de påpekninger og anbefalinger om etterforsking som er omtalt i NIMs rapport «Rus og menneskerettigheter».
+
+### Vernet av privatlivet
+
+#### Oversikt over reguleringen
+
+Et vern av privatlivet er sikret i menneskerettskonvensjoner som etter menneskerettsloven § 2 gjelder som norsk lov. Et vern følger av SP artikkel 17, men rettskilder knyttet til konvensjonen bidrar ikke i særlig grad til å klargjøre rekkevidden av vernet. Videre sikrer EMK et vern, se artikkel 8. Den europeiske menneskerettsdomstol (EMD) har gjennom en rekke avgjørelser klargjort viktige elementer i vernet, også når det gjelder etterforskingstiltak. EMK artikkel 8 skal omtales i punkt 12.1.2.2.
+
+Grunnloven § 113 fastsetter at «inngrep overfor den enkelte må ha grunnlag i lov». Et viktig element i § 113 er at rettsgrunnlaget må være formell lov. På dette punkt skiller bestemmelsen seg fra EMK artikkel 8 nr. 2. Kravet til rettsgrunnlagets art har ikke interesse for de spørsmål utvalget går inn på. For øvrig gir ikke Høyesteretts praksis signaler om at lovskravet i § 113 rekker lenger enn lovskravet etter artikkel 8 nr. 2.[^274] Av den grunn vil utvalget ikke gå nærmere inn på § 113.
+
+Grunnloven § 102 første ledd første punktum fastsetter at enhver har «rett til respekt for sitt privatliv og familieliv, sitt hjem og sin kommunikasjon». Bestemmelsen utgjør en skranke for hva en lov kan hjemle og beskytter de samme rettsgoder som EMK artikkel 8. Grunnloven er mer absolutt utformet enn artikkel 8, men Høyesterett har lagt til grunn at det må innfortolkes en slik avveiningsnorm som uttrykkelig følger av artikkel 8 nr. 2. Praksis fra Høyestesterett gir ikke signaler om at avveiningen etter § 102 første ledd første punktum er mer restriktiv enn den etter EMK artikkel 8 nr. 2.[^275] Av den grunn vil utvalget ikke gå nærmere inn på § 102 første ledd første punktum.
+
+Grunnloven § 102 første ledd annet punktum oppstiller en særlig skranke for ransaking: «Husransakelse må ikke finne sted, unntatt i kriminelle tilfeller.» En straffesak er etter sin art en sak om «kriminelle tilfeller». Høyesterett har i begrenset grad klarlagt om formuleringen «kriminelle tilfeller» utgjør en begrensning i straffesaker. Men uansett stiller formuleringen beskjedne krav til sakens alvor og hvor sterk mistanken om en straffbar handling må være.[^276] Utvalget går derfor ikke nærmere inn på bestemmelsen.
+
+#### Nærmere om EMK artikkel 8
+
+EMK artikkel 8 nr. 1 fastsetter at enhver «has the right to respect for his private and family life, his home and his correspondence». Gjennom formuleringen «private and family life, his home and his correspondence» angis det saklige virkeområdet for vernet.
+
+Hva som ligger i kravet til «respect» i artikkel 8 nr. 1, konkretiseres i nr. 2. Grunnvilkåret for at vernet kan være krenket, er at det foreligger et inngrep («interference») i et av de vernede rettsgodene. Etterforskingsmetoder som ransaking av privat eiendom og ransaking av person er normalt et inngrep i ett eller flere av de beskyttede godene. Det samme gjelder for undersøkelse av kroppens hulrom hos en person, prøvetaking fra en person mv. (kroppslig undersøkelse) som ledd i etterforsking.
+
+Den rettsbeskyttelse som artikkel 8 nr. 2 gir, kan frafalles. Et reelt samtykke fra den tiltaket rettes mot medfører at det ikke foreligger et inngrep i henhold til nr. 2. Dette gjelder også ved etterforsking, se for eksempel avgjørelsen *Posevini mot Bulgaria* avsnitt 75.[^277] Men der et samtykke gis, typisk til ransaking eller kroppslig undersøkelse, vil situasjonen ofte ligge slik an at samtykket ikke er reelt. I avsnitt 75 i den nevnte avgjørelsen anvendte EMD kriteriet «under overt or implied coercion».
+
+Lovligheten av et inngrep avhenger av om det er «in accordance with the law» og om det er «necessary in a democratic society» for å oppnå et av de formål som anerkjennes i artikkel 8 nr. 2. For de spørsmål utvalget vil gå inn på er det først og fremst alternativet «the prevention of \[…\] crime» som utgjør det legitime formålet. Men også inngrepsformålene «the protection of health» og «the protection of the rights and freedoms of others» kan være aktuelle.
+
+Lovkravet har flere sider.[^278] Som fremholdt i HR-2024-775-A avsnitt 46, innebærer kravet «at inngrepet må ha grunnlag i nasjonal rett, at inngrepshjemmelen må være tilgjengelig for borgerne, at den må være tilstrekkelig presis, og at det må foreligge tilfredsstillende rettssikkerhetsgarantier». For de spørsmål utvalget går inn på er det særlig kravet til presisjon og rettssikkerhetsgarantier som har interesse. Når det gjelder kravet til rettssikkerhetsgarantier, varierer det om EMD forankrer temaet i lovskravet eller om det anses som et element i forholdsmessighetsvurderingen. Fremstillingen videre bygger på den sistnevnte tilnærming.
+
+EMD har vært inne på kravet til presisjon i en rekke avgjørelser, også avgjørelser som omhandler inngrep som ledd i etterforsking. En av dem er avgjørelsen *Saber mot Norge*[^279]. Den gjaldt ransaking av en mobiltelefon som kunne inneholde advokatkorrespondanse. I avsnitt 50 sammenfattet EMD rettstilstanden slik:
+
+In the context of searches and seizures, the domestic law must provide some protection to the individual against arbitrary interference with Article 8 rights. Thus, the domestic law must be sufficiently clear in its terms to give citizens an adequate indication as to the circumstances and conditions under which public authorities are empowered to resort to any such measures. Moreover, search and seizure represent a serious interference with private life, home and correspondence and must accordingly be based on a ‘law’ that is particularly precise. It is essential to have clear, detailed rules on the subject (see *Sallinen and Others v. Finland*, no. 50882/99, §§ 82 and 90, 27 September 2005).
+
+Essensen er at inngrepsgrunnlaget må være tilstrekkelig klart («sufficiently clear»), og at klarhetskravet til en viss grad avhenger av hvor inngripende tiltaket er. Videre er straffeprosessuelle inngrep i form av ransaking, kroppslig undersøkelse og lignende ofte et inngripende tiltak. Men hvor inngripende et slikt tiltak er, avhenger av omstendighetene, ikke minst av hvor, hvordan og overfor hvem ransakingen eller undersøkelsen foretas.
+
+Når det skal vurderes om en regulering er tilstrekkelig klar, er det ikke bare relevant å ta i betraktning det som står i lov- eller forskriftsteksten. Også klargjørende rettspraksis er relevant. Det samme er bindende instrukser i forvaltningen, forutsatt at instruksen er gjort tilgjengelig for allmennheten.[^280] En instruks fra riksadvokaten om rettslige rammer for tvangsmiddelbruk er derfor relevant i en vurdering av om lovskravet er tilfredsstilt.
+
+Et inngrep som har grunnlag i «law» må være et nødvendig og forholdsmessig tiltak for å ivareta det legitime formålet. I avgjørelsen *Tortladze mot Georgia*,[^281] som gjaldt husransaking hos en konsul mistenkt for befatning med narkotika, sammenfattet EMD sin praksis slik i avsnitt 58:
+
+The notion of ‘necessity’ implies that the interference is proportionate to the legitimate aim pursued (see, among many other authorities, *Camenzind v. Switzerland*, 16 December 1997, § 44, Reports 1997-VIII). Regarding, in particular, searches and seizures or similar measures (essentially in the context of obtaining physical evidence of certain offences), the Court will assess whether the reasons adduced to justify such measures were relevant and sufficient and whether the aforementioned proportionality principle has been adhered to (see, for example, *Camenzind*, cited above, § 45, with further references; see also *K.S. and M.S., v. Germany*, cited above, § 43).
+
+Vurderingen av om inngrepet er nødvendig og forholdsmessig avhenger både av faktiske (substansielle) omstendigheter i saken (inngrepsbehovet, inngrepets egnethet, inngrepets karakter mv.) og hvilke rettssikkerhetsgarantier som foreligger. I den nevnte avgjørelsen *Tortladze mot Georgia* ble EMDs praksis om begge aspekter omtalt i avsnitt 58. Betydningen av de faktiske omstendigheter i saken ble omtalt slik:
+
+Secondly, it must consider the specific circumstances of each case, including but not limited to the severity of the offence in question, the manner and circumstances in which the search warrant was issued, the availability of other evidence at the time, the content and scope of the warrant in question, and the extent of possible repercussions on the reputation of the person affected by the search (see, among many other authorities, *Smirnov*, § 44; *Camenzind*, §§ 45-46; and *K.S. and M.S. v. Germany*, § 44, all cited above; see also *Misan v Russia*, no. 4261/04, § 55, 2 October 2014, and *Buck v. Germany*, no. 41604/98, § 45, ECHR 2005-IV).
+
+Det overordnede vurderingstemaet er om det legitime formålet som inngrepet skal ivareta er tilstrekkelig tungtveiende. Ved inngrep som ledd i etterforsking er spørsmålet med andre ord om det konkrete behovet for å anvende tiltaket som ledd i rettshåndhevingen er tilstrekkelig tungtveiende. Vurderingen må foretas konkret, og konklusjonen avhenger av en samlet vurdering av behovet for å benytte tiltaket som ledd i etterforskingen, hvor alvorlig lovbruddet er, mistankegrunnlaget, intensiteten og karakteren av inngrepet og hvem inngrepet rettes mot.
+
+Ransaking for å opplyse en lite alvorlig straffesak kan etter omstendighetene være uforenlig med i artikkel 8 nr. 2. Avgjørelsen *Buck mot Tyskland* gjaldt ransaking av en fars bolig og forretningslokale for å opplyse en trafikksak. I trafikksaken var sønnen mistenkt for å ha kjørt i 78 km/t i en 50-sone med en av firmaets biler. Straffen for en slik fartsovertredelse var (i 1996) 120 tyske mark. Flertallet (4-3) kom til at det forelå en krenkelse og fremholdt blant annet:[^282]
+
+Having regard to the special circumstances of this case, in particular the fact that the search and seizure in question had been ordered in connection with a minor contravention of a regulation purportedly committed by a third person and comprised the private residential premises of the applicant, the Court concludes that the interference cannot be regarded as proportionate to the legitimate aims pursued.
+
+I Buck-saken omhandlet behovet for ransaking bare det å oppklare et konkret lovbrudd. En ransakingsadgang hadde minimal interesse for myndighetenes mulighet til effektiv å håndheve brudd på fartsgrenser. Avgjørelsen gjaldt også ransaking hos en annen enn mistenkte. Av disse grunner kan avgjørelsen ikke tolkes slik at ransaking uten videre er uberettiget selv om det dreier seg om et lite alvorlig lovbrudd, heller ikke hos tredjepersoner.
+
+Det andre aspektet i vurderingen er som nevnt eksistensen av rettssikkerhetsgarantier. I avgjørelsen *Tortladze mot Georgia* avsnitt 58 ble aspektet omtalt slik:
+
+\[…\] the Court must \[…\] ensure that the relevant legislation and practice afford individuals adequate and effective safeguards against abuse; notwithstanding the margin of appreciation which the Court recognises the Contracting States have in this sphere, it must be particularly vigilant where the authorities are empowered under national law to order and effect searches without a judicial warrant (see also *Gutsanovi v. Bulgaria*, no. 34529/10, § 220, ECHR 2013 (extracts)).
+
+Når det gjelder etterforskingstiltak som utgjør et inngrep etter artikkel 8 nr. 2, er det ideelle en domstolsavgjørelse med klare rammer for tiltaket, eventuelt en etterfølgende domstolskontroll basert på god dokumentasjon om hvordan tiltaket ble besluttet og iverksatt. Men kravet til legalitetskontroll må tilpasses hva som er mulig og forholdsmessig ut fra inngrepets karakter og den tiden som er til rådighet. Det gjelder ikke et allment krav om enten beslutning fra en domstol eller en etterfølgende domstolskontroll. Men kravene til rettssikkerhetsgarantier er da særlig strenge. I avgjørelsen *Camenzind mot Sveits*, der et forvaltningsorgan hadde besluttet ransaking, uttalte EMD:[^283]
+
+If individuals are to be protected from arbitrary interference by the authorities with the rights guaranteed under Article 8, a legal framework and very strict limits on such powers are called for.
+
+I flere avgjørelser har EMD fremhevet viktigheten av at en beslutning om ransaking oppstiller klare rammer for iverksettingen. Avgjørelsen *Modestou mot Hellas* illustrerer EMDs tilnærming:[^284]
+
+A search warrant has to be subject to certain limits so that the interference that it authorises in the rights guaranteed by Article 8, and particularly the right to respect for the home, are not potentially unlimited and, in consequence, disproportionate. Thus, a search warrant must include a minimum number of indications, making it subsequently possible to verify whether the the officials who execute it complied with the scope of the investigation thus authorised. In addition, the individual affected must have sufficient information on the proceedings at the source of the measure in question to enable him or her to spot, prevent and complain of abuse (see Van Rossem v. Belgium, cited above, §§ 45 and 47).
+
+EMD har fremhevet at en etterfølgende legalitetskontroll til en viss grad kan kompensere for hvem som har truffet beslutningen om ransaking, forutsatt at den etterfølgende kontrollen er effektiv, se blant annet avgjørelsene *Modestou mot Hellas* og *Tortladze mot Georgia*.[^285] En forutsetning for at en etterfølgende legalitetskontroll kan være effektiv, er selvsagt at det sikres notoritet om iverksettingen.
+
+Statene innrømmes en viss skjønnsmargin («margin of appreciation») i forholdsmessighetsvurderingen etter artikkel 8 nr. 2. Skjønnsmarginen ble omtalt i punkt 6.2.2. Den innebærer at EMD er noe tilbakeholden med å overprøve en stats egen vurdering av om et bestemt tiltak er nødvendig i et demokratisk samfunn. Men dette betyr ikke nødvendigvis at norske domstoler tilkjenner norske myndigheter en like vid skjønnsmargin som EMD.[^286] Videre har statene uansett en høyst begrenset skjønnsmargin med hensyn til om tilstrekkelige rettssikkerhetsgarantier foreligger.
+
+### Nærmere om situasjonen der en person er mindreårig
+
+Barn kan være involvert i eller bli påvirket av narkotikasaker. Et barn kan være mistenkt for bruk av narkotika eller erverv eller innehav av narkotika. Videre kan et barn være berørt fordi voksne eller andre barn bruker eller selger narkotika nær der barnet oppholder seg. Barn kan også bli utnyttet i organisert narkotikaomsetning, typisk som selgere. Temaet barn og narkotika har med andre ord ulike fasetter, og hva hensynet til barn samlet sett tilsier avhenger av situasjonen. I noen situasjoner står et barns interesser mot andre barns interesser, mens et barns interesser i andre situasjoner står mot interessene til bestemte voksne personer eller samfunnsinteresser.
+
+Grunnloven § 104 annet ledd fastsetter at ved «handlinger og avgjørelser som berører barn, skal barnets beste være et grunnleggende hensyn». Bestemmelsen innebærer at «barnets beste» har stor vekt. Men det følger av formuleringen «et grunnleggende hensyn» at barns interesser ikke nødvendigvis er avgjørende. Hva som nærmere ligger i at «barnet beste skal være et grunnleggende hensyn», ble omtalt i punkt 6.2.6.1 og blir omtalt i punkt 15.3.
+
+Formuleringen «berører barn» favner vidt. Den omhandler både hva myndighetene ikke kan gjøre mot et barn (negative plikter) og hva myndighetene skal gjøre for å beskytte bestemte barn eller barn mer allment (positive plikter). Når det gjelder inngrep fra politiet, dekker formuleringen både det barnet som står i fare for å bli utsatt for inngrepet og de barn inngrepet vil komme til gode. Hvilken vekt hensynet til bestemte barn kan tillegges, må et stykke på vei avhenge av hvilke andre interesser som er i spill, ikke minst om andre barns interesse berøres. En må vurdere om bare de negative plikter er aktuelle, om bare de positive plikter er aktuelle eller om negative og positive plikter må balanseres mot hverandre. Det siste er ikke minst aktuelt der det er spørsmål om rettshåndheving rettet mot narkotika på skoler.
+
+Denne tilnærmingen harmonerer med barnekonvensjonen. Konvensjonen retter oppmerksomheten mot både rettighetene til et konkret barn og hvilket krav på beskyttelse barn har som individ og gruppe. Når det gjelder straffeprosess og narkotika, har særlig artikkel 16 om vern av privatlivet, artikkel 40 om straffeprosessuelle rettigheter og artikkel 33 om beskyttelse mot narkotika interesse. De første to bestemmelsene gir barn rettigheter i møtet med påtalemyndigheten og politiet, mens den siste pålegger myndighetene å gi barn beskyttelse mot både det offentlige, voksne borgere og andre barn.
+
+Professor Kirsten Sandberg tok opp dette temaet i en utredning avgitt til Barnevoldsutvalget:[^287]
+
+Hensynet til barnets beste kan gå på tvers av andre hensyn eller rettigheter. Hvis det er en mulig konflikt mellom flere barns interesser, eller ett barn og en gruppe barn eller barn generelt, må den søkes løst i den enkelte sak gjennom en omhyggelig avveining av alle interessene med sikte på å finne et kompromiss. Det samme gjelder hvis barnets beste er i konflikt med andre menneskers rettigheter. Dersom harmonisering ikke er mulig, må beslutningstakeren analysere og avveie alle de involvertes rettigheter, samtidig som man må være klar over at barnets rett til at dets beste tas i betraktning som et grunnleggende hensyn betyr at barnets interesser har høy prioritet og ikke bare er et av flere hensyn.
+
+Tilsvarende synspunkter er fremholdt av *Barneombudet* i innspillmøtet med Rushåndhevingsutvalget. Ombudet fremhevet at barns interesser ikke bare omhandler hensynet til de som bruker og selger narkotika, men også behovet for å beskytte andre barn mot å bli utsatt for narkotika. Hensynet til begge disse gruppene må ivaretas ved endringer i lovverket. Ombudet fremholdt også at NIM i rapporten «Rus og menneskerettigheter» i liten grad forholdt seg til den delen av barnekonvensjonen artikkel 33 som innebærer en plikt til å beskytte barn mot å bli brukt i narkotikavirksomhet.
+
+For utvalgets arbeid har artikkel 33 betydelig interesse. Bestemmelsen lyder slik:
+
+States Parties shall take all appropriate measures, including legislative, administrative, social and educational measures, to protect children from the illicit use of narcotic drugs and psychotropic substances as defined in the relevant international treaties, and to prevent the use of children in the illicit production and trafficking of such substances.
+
+Bestemmelsen pålegger myndighetene å beskytte både enkeltbarn og barn som gruppe mot bruk av narkotika. Men hvilke tiltak som er «appropriate measures», påvirkes av hvilke andre interesser som er i spill. Dersom et tiltak fra politiet også utgjør et inngrep mot et barn, må artikkel 33 ses i sammenheng med blant annet artikkel 16 og 40. Artikkel 33 ble omtalt i punkt 6.2.6.2, og blir omtalt i punkt 15.3.
+
+FNs barnekomité har ikke avgitt en generell kommentar om tolkningen av artikkel 33. Så vidt utvalget kan se, har komiteen ikke berørt artikkel 33 i sine uttalelser på en måte som har interesse for de straffeprosessuelle spørsmål utvalget skal vurdere i del III.
+
+## Fagledelse og ressursprioriteringer innen påtalemyndigheten
+
+### Lovregulering, legalitetskontroll og fagledelse
+
+Inngrep i rettigheter som er beskyttet gjennom EMK artikkel 5 (frihet) og artikkel 8 (privatliv) må ha grunnlag i «law». Et viktig element i lovskravet er at rettsgrunnlaget for et inngrep må ha et tilstrekkelig presisjonsnivå. Denne siden av lovkravet skal ivareta rettssikkerheten til personer som utsettes for inngrep. Som redegjort for i punkt 12.1.2.2, har EMD vært inne på temaet i en rekke avgjørelser. I utvalgets mandat punkt 1 er rettssikkerhetsaspektet ved lovskravet fremhevet:
+
+Samtidig er regjeringen opptatt av at borgernes rettssikkerhet er ivaretatt ved politiets bruk av tvangsmidler. Forutsigbarhet om rammene for politiets tvangsmiddelbruk er viktig ikke bare for politiet, men også for samfunnet som sådan og ikke minst berørte personer.
+
+Graden av presisjon i lovreguleringen har også en side mot politiets arbeidshverdag. Lav presisjon øker risikoen for at etterforsking gjennomføres på en måte som ikke er forenlig med loven. Selv om påtalemyndigheten og politiet har er sterkt ønske om å holde seg innenfor lovens rammer, kan dette være vanskelig om de rettslige rammene er vage. Uklare rettslige rammer kan også føre til at påtalemyndigheten og politiet blir tilbakeholdne i sin etterforsking på grunn av usikkerhet om hva som er lovlig. Denne siden av utfordringen ved et lavt presisjonsnivå i lovgivningen er adressert i mandatet punkt 2:
+
+Utvalget skal vurdere om det etter gjeldende rett er tilstrekkelig klare rammer for politiets tvangsmiddelbruk i saker som gjelder bruk av og befatning med narkotika til egen bruk, og eventuelt fremme forslag om hvordan politiet og andre kan sikres mer forutberegnelighet på området.
+
+Utvalget vil vurdere lovreguleringen av flere straffeprosessuelle spørsmål som er aktuelle ved etterforsking av mindre alvorlige narkotikasaker, både de materielle vilkår for å anvende et tiltak og spørsmål knyttet til saksbehandling og hvem som har beslutningskompetanse. Ideelt sett bør enhver lovregulering være både enkel å sette seg inn i og såpass presist utformet at tolkningstvil i liten grad foreligger. Et slikt ideal er umulig å oppnå. Enkelte spørsmål kan reguleres relativt presist, slik som hvor sterk mistanken må være for å bruke et tvangsmiddel og hvilken strafferamme det lovbruddet mistanken gjelder må ha. Reguleringen av hvor nødvendig tvangsmiddelbruk må være, og ikke minst om bruk i den konkrete saken er forholdsmessig, må nødvendigvis overlate mye til et konkret skjønn. Når det gjelder plassering av beslutningskompetanse, må reglene være noe skjønnsmessige dersom hvem som har beslutningskompetanse til en viss grad skal avhenge av situasjonen.
+
+God legalitetskontroll er viktig for å sikre at borgerne ikke utsettes for inngrep ut over hva loven hjemler. Dette er en bærebjelke i EMK artikkel 5 nr. 3 og 4, og som redegjort for i punkt 12.1.2.2, har EMD i en rekke saker understreket betydningen av god legalitetskontroll ved inngrep i rettigheter beskyttet av artikkel 8. Legalitetskontroll er også viktig for å sikre at politiet gis en konstruktiv tilbakemelding om og vurdering av lovligheten av de etterforskingsskritt som foretas.
+
+Legalitetskontrollen er ivaretatt dersom enten beslutningskompetansen er lagt til domstolene eller domstolene har en etterfølgende kontroll. I tilknytning til flere av de tvangsmidler utvalget vurderer, er domstolskontrollen moderat. Ved ransaking av eiendom i medhold av straffeprosessloven § 192 og personransaking i medhold av § 195 er den formelle hovedregelen at beslutningen om ransaking skal treffes av retten, se § 197 første ledd. Men det gjelder en rekke unntak, og det kan vanskelig tenkes en regulering uten vidtrekkende unntak, ikke minst i form av hastekompetanse for påtalemyndigheten og politiet. Ved pågripelse er det bare domstolskontroll dersom siktede skal holdes frihetsberøvet så lenge at hen må fremstilles for retten med begjæring om varetektsfengsling.
+
+Fraværet av domstolskontroll innebærer ikke fravær av legalitetskontroll. Påtaleinstruksen § 7-5 annet ledd første punktum fastsetter at påtalemyndigheten «har ansvaret for at etterforskingen skjer i samsvar med lov og instruks». Ansvaret ligger ikke bare hos den politijuristen som har ansvaret for den aktuelle saken. Innenfor påtalemyndigheten i politiet er det et ledelsesansvar å føre tilsyn med at etterforsking skjer innenfor de rammer lovgivningen setter. Videre har overordnet påtalemyndighet et tilsynsansvar. Riksadvokaten har etter straffeprosessloven § 56 annet ledd «den overordnede ledelse av påtalemyndigheten», og det følger av § 58 annet ledd at riksadvokaten og statsadvokatene «kan gi pålegg umiddelbart til politiets tjenestemenn». I Prop. 146 L (2020–2021) beskrives statsadvokatenes faglederansvar slik i punkt 14.4.1:
+
+Det er imidlertid etablert praksis, og en nødvendig konsekvens av overordningsforholdet, at Den høyere påtalemyndighet har et ansvar for fagledelse av påtalemyndigheten i politiet. Fagledelsen innebærer at statsadvokatembetene skal kvalitetssikre det påtalemessige arbeidet til påtalemyndigheten i politiet, gjennom veiledning, opplæring, instruksjon og kontroll, herunder tilsyn med politiets straffesaksbehandling.
+
+Ved lov nr. 122/2021 ble det gjort en rekke endringer i straffeprosessloven. De trådte i kraft 1. juli 2022. Enkelte endringer kom på grunn av økt oppmerksomheten om fagledelse i påtalemyndigheten. Straffeprosessloven § 57 fikk et nytt sjette ledd: «Statsadvokaten skal føre tilsyn med straffesaksbehandlingen i politiet og gi faglig veiledning til påtalemyndigheten i politiet.» Det ble også gitt relativt vide rammer for delegasjon av påtalekompetanse til henholdsvis statsadvokaten og påtalemyndigheten i politiet, enten generelt eller i en bestemt sak, se § 65 annet ledd og § 66 annet punktum. Riksadvokaten har i betydelig grad tatt i bruk hjemmelen for allmenn delegasjon i § 65 annet ledd første punktum.[^288] Den relativt omfattende delegasjonen av påtalekompetanse nedover i hierarkiet har frigjort tid og ressurser i Den høyere påtalemyndighet. Videre er påtalemyndigheten tilført nye ressurser til fagledelse. I budsjettproposisjonen til Justis- og beredskapsdepartementet for 2024 uttales det blant annet:[^289]
+
+Endringane i lova og utfyllande retningslinjer frå Riksadvokaten har frigjort ressursar frå Den høgare påtalemakta ved å delegere meir påtalekompetanse til påtalemakta i politiet. Den høgare påtalemakta bruker ressursane sine til styrkt fagleiing og anna kvalitetsutvikling av straffesaksbehandlinga i politiet. Fagleiinga av politiet skal bli meir målretta, systematisk og tilpassa dei lokale behova og kriminalitetsutfordringane til politiet.
+
+\[…\]
+
+Regjeringa vil òg fremme ein plan for å styrke etterforsking og påtalemakta. Formålet er auka effektivitet, kvalitet og rettstryggleik i straffesaksbehandlinga. Eit sentralt tiltak i planen vil vere å styrke kapasiteten til Den høgare påtalemakta, herunder dei regionale statsadvokatembeta, til å utøve fagleiing. Regjeringa foreslår derfor å auke løyvinga til Den høgare påtalemakta med 43 mill. kroner til fleire stillingar.
+
+\[…\]
+
+Som fagleg ansvarleg ligg det til riksadvokaten å definere dei til kvar tid gjeldande normene og krava for straffesaksbehandlinga, både generelt og i kvar enkelt sak. Riksadvokatembetet og statsadvokatembeta har ikkje hatt tilstrekkeleg med kapasitet til å vurdere om krava til straffesaksbehandlinga blir følgde opp, i det omfanget som er nødvendig for å sikre auka kvalitet, effektivitet og rettstryggleik i politiets straffesaksbehandling. Det er òg behov for å styrke og vidareutvikle tilsyns- og etatsstyringsfunksjonane.
+
+Slik utvalget ser det, er legalitetskontroll med når og hvordan etterforsking gjennomføres på ulike saksfelt et viktig element innenfor feltet fagledelse. De instrukser og retningslinjer riksadvokaten ga om saksbehandlingen i mindre alvorlige narkotikasaker i brev 9. april 2021 og 13. mai 2022, og de undersøkelser som er gjort internt i påtalemyndigheten og politiet om behandlingen av slike saker, ble omtalt i punkt 3.7, 3.8 og 3.11. Brevene og undersøkelsene må ses på som utslag av fagledelse. Dette er også fremhevet av riksadvokaten:[^290]
+
+Effekten av direktiver og etterfølgende opplæringstiltak er til en viss grad mulig å måle ved å føre tilsyn med om påleggene følges. Som eksempel på en type fagledelse som hadde en målbar effekt, kan nevnes de tiltak som ble iverksatt for å endre praksis ved tvangsmiddelbruk i mindre alvorlige narkotikasaker, og saker om bøtesoning i 2021 og 2022. Det er ubestridt og dokumentert gjennom oppfølgende undersøkelser, at riksadvokatens direktiver og øvrig oppfølging fra statsadvokatene på disse områdene førte til endringer i praksis av betydning for rettssikkerheten.
+
+Utvalget legger til grunn at den økte oppmerksomheten om fagledelse gjennom lov nr. 122/2021 og de økte bevilgninger over statsbudsjettet til Den høyere påtalemyndighet innebærer at det i fremtiden vil bli mer og bedre intern legalitetskontroll i påtalemyndigheten og politiet enn hva som tradisjonelt har vært tilfellet. Utviklingen danner et bakteppe når utvalget skal vurdere hvordan ulike lovbestemmelser bør utformes, ikke minst bestemmelser om tvangsmiddelbruk. Som nevnt i punkt 12.1.2.2, er en instruks fra riksadvokaten om rettslige rammer for tvangsmiddelbruk relevant i vurderingen av om lovskravet i EMK artikkel 8 nr. 2 er oppfylt, forutsatt at instruksen er allment tilgjengelig.
+
+Etterfølgende legalitetskontroll gjennom tilsyn forutsetter at det er tilstrekkelig notoritet rundt de etterforskingsskritt som foretas. Beslutninger og rapporter må inneholde tilstrekkelig informasjon. Utvalget vil ikke helt allment gå inn på de krav til notoritet som gjelder. Men i punkt 13.4 vil utvalget vurdere kravene til en ransakingsbeslutning og en rapport om ransaking.
+
+### Lovregulering og ressursprioriteringer
+
+Utgangspunktet er at påtalemyndigheten og politiet har plikt til å etterforske og påtale straffbare handlinger. Dette følger av straffeprosessloven § 62 a første ledd. I punkt 12.3 vil utvalget gå nærmere inn på når og hvordan politiet kan iverksette etterforsking i mindre alvorlige narkotikasaker og hvilken skjønnsfrihet politiet har.
+
+På et overordnet plan er det innlysende at påtalemyndigheten og politiet ut fra straffeprosessloven § 62 a tredje ledd og § 224 første ledd har en betydelig skjønnsfrihet når det vurderes om etterforsking skal iverksettes og hvordan en etterforsking skal avgrenses. Ikke minst gjelder dette i saker som har et moderat alvor, slik som mindre alvorlige narkotikasaker. Bruk av ressurser på etterforsking av mindre alvorlige narkotikasaker må prioriteres opp mot behovet for ressursbruk i andre sakstyper.
+
+Riksadvokaten har den overordnede ledelsen av påtalemyndigheten, se straffeprosessloven § 56 annet ledd. Den overordnede ledelsen omfatter også et overordnet prioriteringsansvar. Prioriteringsansvaret utøves først og fremst gjennom riksadvokatens årlige prioriteringsrundskriv. I skrivet angis det hvilke sakstyper som har en særlig prioritet på nasjonalt nivå. Hvilke saker dette er, utpekes ikke bare ut fra riksadvokatens eget skjønn. Innledningsvis i prioriteringsrundskrivet angis det hvilke «politiske styringsdokumenter» som har påvirket prioriteringene. Normalt dreier det seg om statsbudsjettet, departementets tildelingsbrev og regjeringsplattformen. Politiske signaler fra Stortinget og regjeringen har derfor betydelig innflytelse over hvilke sakstyper som blir prioritert i riksadvokatens årlige prioriteringsrundskriv.
+
+Utvalget har merket seg at narkotikasaker ikke er særskilt nevnt i de prioriteringsrundskriv riksadvokaten har gitt i de senere år. I brev 29. januar 2024 til utvalget opplyser riksadvokaten blant annet:
+
+Disse landsdekkende prioriteringene har tradisjonelt vært – og er – relativt sett få og noenlunde stabile. For straffesaksbehandlingen i 2023 knyttet de seg til seg til drap og andre alvorlige voldslovbrudd som setter liv og helse i fare, herunder ildspåsettelser, vold mot barn og mishandling i nære relasjoner, hatkriminalitet og alvorlige overtredelser av følgende kriminalitetsformer: seksuallovbrudd, internasjonal og organisert kriminalitet, økonomisk kriminalitet, miljøkriminalitet, IKT-kriminalitet og alvorlige trafikklovbrudd, se rundskriv nr. 1/2023 Mål og prioriteringer for straffesaksbehandlingen i 2023 punkt IV nr. 1.
+
+\[…\]
+
+Avdekking av mindre alvorlige narkotikalovbrudd er ikke en sakstype blant riksadvokatenes landsdekkende prioriteringer, hvor en heller har funnet grunn til å fokusere på den organiserte og alvorlige narkotikakriminaliteten, se rundskriv nr. 1/2023 Mål og prioriteringer for straffesaksbehandlingen i 2023 punkt IV nr. 1.
+
+I noen tidligere årganger av riksadvokatens mål- og prioriteringsrundskriv har det – i forlengelsen av et styringssignal om å rette innsatsen mot de kriminelle nettverkene – vært påpekt at politiets «aktivitet rettet mot brukermiljøer» også er av betydning. Dette forekom imidlertid siste gang i rundskriv nr. 1/2017, se punkt V nr. 1.
+
+Prioriteringen av narkotikasaker er uendret i rundskriv nr. 1/2024 om Mål og prioriteringer for straffesaksbehandlingen i 2024.
+
+Det er opp til de regionale statsadvokatembeter og landets politimestere å vurdere hvilken prioritet annen kriminalitet skal gis.[^291] Også dette understrekes i det nevnte brevet fra riksadvokaten til utvalget:
+
+Statsadvokatene og politimestrene må således ta stilling til hvorledes denne kriminaliteten skal behandles, og det vil alltid være et rom for regionale og lokale prioriteringer innenfor rammen av de sentrale prioriteringene. I forlengelsen er det også viktig å minne om at politiets hovedstrategi for kriminalitetsbekjempelsen er forebygging, mens påtalemyndigheten – gjennom straffesaksbehandlingen – kan erverve kunnskap som er relevant for bruk i politiets forebyggende arbeid.
+
+Det ligger utenfor utvalgets mandat å vurdere hvilken prioritet etterforsking av mindre alvorlige narkotikasaker bør ha. Utvalget skal bare vurdere hvilke rettslige rammer som bør gjelde for etterforsking. Som redegjort for i punkt 11.1.5, skal utvalget vurdere «om det etter gjeldende rett er tilstrekkelig klare rammer for politiets tvangsmiddelbruk», «om politiet kan og bør gis tilgang til også andre straffeprosessuelle virkemidler enn etter gjeldende rett» og «om de straffeprosessuelle virkemidlene politiet har til rådighet i dag, er egnet til effektivt å kunne avdekke narkotikabruk hos unge».
+
+Formålet med redegjørelsen ovenfor er å synliggjøre at adekvate rettslige rammer for etterforsking av mindre alvorlige narkotikasaker ikke i seg selv vil medføre at etterforsking iverksettes. Rettshåndheving i mindre alvorlige narkotikasaker er i betydelig grad et prioriteringsspørsmål. Slik utvalget ser det, er ikke riksadvokatens brev 9. april 2021 og 13. mai 2022 bare instrukser og retningslinjer om de rettslige rammer for etterforsking og påtalebehandling av mindre alvorlige narkotikasaker. Brevene må også ses på som en påminning om at slike saker har et moderat alvor og at sakstypen i et ressursperspektiv ikke har høy prioritet. Samtidig har som nevnt politiske styringssignaler stor innflytelse på hvilke sakstyper som gis prioritet av påtalemyndigheten. Et stykke på vei er det derfor et politisk spørsmål om etterforsking av mindre alvorlige narkotikasaker bør ha høyere prioritet enn i dag.

@@ -1,1193 +1,379 @@
-# NOU 2017: 11, del 13 av 26 (side 151–161)
+# NOU 2017: 11, del 13 av 25
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2017/868f644b-nou-2017-11.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2017-11/id2553617/
 - Original-PDF: https://www.regjeringen.no/contentassets/8e638734347b4e93ab97f597a8ac0bc8/no/pdfs/nou201720170011000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 32 tabeller, 55 figurer, 209 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 151]
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-tere fartsgrenser og gi annen informasjon til trafikantene for å bidra til bedre trafikkflyt. I tillegg
-kan sensorteknologi brukes som supplement til –
-og erstatning for manuelle trafikkontroller.38
-Denne utviklingen reiser imidlertid viktige spørsmål om personvernhensyn som særlig Datatilsynet har rettet mye oppmerksomhet mot de siste
-årene.
-Meld. St. 40 (2015–2016) vier også oppmerksomhet til utviklingen av såkalt intelligente transportsystemer og tjenester (ITS), det vil si
-systemer som gjør bruk av informasjons- og kommunikasjonsteknologi i infrastruktur og kjøretøy.
-Dette omfatter blant annet sensorteknologi og
-andre systemer som gjør at informasjon kan
-utveksles mellom kjøretøy og infrastruktur, slik
-Teknologirådet også har omtalt. Slike samvirkende
-systemer kan bidra til bedre varsling om hendelser i trafikkbildet og styrke informasjon om lokale
-trafikkreguleringer og føreforhold. I sum kan
-dette bidra til mer effektiv trafikkavvikling. Med
-en utvikling i retning av mer autonome, eller selvkjørende kjøretøy, vil slike systemer få enda
-større betydning. Regjeringen har også mål om å
-fremme lovforslag om prøveordning for autonome
-kjøretøy våren 2017.39
-Som både UP, Teknologirådet og Riksadvokaten peker på, stiller utviklingen i retning av selvkjørende kjøretøy nye utfordringer for grunnprinsipper i veitrafikklovgivningen. Teknologirådet
-mener at en fremtid med selvkjørende kjøretøy i
-prinsippet kan tilsi at det er selve kjøretøyet som
-blir sertifisert, og ikke føreren. En slik realitet ligger uansett et stykke frem i tid, både fordi teknologien ennå ikke er fullt utprøvd og godkjent og
-fordi det vil ta tid å skifte ut kjøretøyparken. I tråd
-med dette scenarioet har regjeringen også startet
-et lovarbeid om prøveordning for autonome kjøretøy.40
-Et teknologisk utviklingstrekk som lenge har
-vært en utfordring i trafikksikkerhetsarbeidet er
-imidlertid bruk av informasjons-, kommunikasjons-, og underholdningssystemer som skaper
-distraksjon i veitrafikken. Både UP og Trygg Trafikk fremhever dette som en økende del av det
-holdningsskapende arbeidet. Dette dreier seg
-ikke bare om bruk av mobiltelefon under kjøring,
-men også bruk av teknologiske systemer i kjøretøyene, samt distraksjoner utløst av medpassasjerer. Ved siden av det brede holdningsskapende
-38
-
-Samtale med Teknologirådet 28. februar 2017.
-Samferdselsdepartementet: Førerløse biler kan bli lovlig på
-norske veier. Pressemelding nr. 164/16.
-40
-Meld. St. 40 (2015–2016), s. 22.
-
-151
-
-Kapittel 10
-
-arbeidet vil derfor blant annet regelverksutvikling
-og håndheving ha stor betydning for hvordan teknologiutviklingen påvirker trafikksikkerheten.
-Det teknologiske innslaget i politiinnsatsen er
-også økende. UPs kontrollinnsats utføres i dag av
-politipersonell med utstyr som radar, alkometer
-og automatisk nummergjenkjenning (ANPR). En
-økende digitalisering og automatisering kan få
-betydning for arbeidsdelingen i politiets trafikksikkerhetsarbeid.
-Teknologirådet mener at metoder for kontroller og overvåking av trafikken i økende grad vil bli
-automatisert og at gjennomføring av kontroll og
-overvåking av trafikken i fremtiden i mindre grad
-trenger å være en politioppgave. Samtidig fremhever The European Transport Safety Council
-(ETSC) en kombinasjon av automatiske og
-fysiske trafikkontroller, som det mest effektive tiltaket.41 Finland har allerede beveget seg langt i
-denne retning og finsk politi beskriver en fremtid
-med nedskjæringer i politibudsjettet, kombinert
-med en teknologisk utvikling og automatisering,
-både av kontrollmetoder og kjøretøy, som kan
-føre til at hele politiets trafikktjeneste blir automatisert. UP på sin side mener oppmerksomhet mot
-føreratferd vil være avgjørende i overskuelig fremtid, og at det av den grunn er vanskelig å se for
-seg en fullautomatisering av oppgavene. Etter
-deres mening vil manuelle kontroller og synlighet
-i trafikken være et viktig virkemiddel, både i forebyggende øyemed, og for aktiv kriminalitetsbekjempelse på vei.
-
-10.4 Dagens organisering av
-Utrykningspolitiet
-UP er organisert med hovedkontor i Stavern og
-fem underliggende regionale UP-distrikter, hver
-ledet av en distriktssjef. UP-distriktene sammenfaller med Vegvesenets regioninndeling og hvert
-UP-distrikt omfatter minst to politidistrikt. Dette
-er en reduksjon fra tolv UP-distrikter i 1998 og ni i
-2012. Dagens struktur ble innført fra 1. januar
-2016, samtidig med politireformen. Med unntak
-av Oslo, som har sin egen trafikktjeneste (Tango),
-opererer UP over hele landet. UP bistår likevel
-Oslo politidistrikt ved behov.
-UP har en stab og administrasjon på rundt 45
-ansatte, fordelt på hovedkontor og regionene, og
-har årlig innbeordret rundt 280 årsverk fra politidistriktene. Patruljemannskapene innbeordres
-
-39
-
-41
-
-PIN Flash Report 31 2016 – How traffic law enforcement
-can contribute to safer roads s. 13.
-
-[Side 152]
-
-152
-
-NOU 2017: 11
-
-Kapittel 10
-
-Bedre bistand. Bedre beredskap
-
-UP-sjef
-
-Administrativ stab
-
-Strategisk stab
-
-UP-distriktene (1-5)
-
-Distrikt 1 (Øst og Innlandet)
-Distrikt 2 (Agder og Sør-Øst)
-Distrikt 3 (Sør-Vest og Vest)
-Distrikt 4 (Møre og Romsdal,
-og Trøndelag)
-Distrikt 5 (Nordland, Troms
-og Finnmark)
-
-Politiets ATKsenter
-
-Fag- og metodeavdelingen
-
-Teknologi og
-materiellavdel
-ingen
-
-Figur 10.6 Utrykningspolitiets organisering
-Kilde: UP
-
-normalt til UP-tjeneste i to år, med en maksimal
-lengde på seks år. De operative mannskapene fordeler seg på uniformerte og sivile patruljer, herunder spesialpatruljer som etterretnings-, narkotikahund-, video- og tungbilpatruljer.
-UP har også det administrative ansvaret for
-Politireserven (PR). Fra 1.1.2017 har som nevnt
-UP i tillegg overtatt ansvaret for Politiets ATKsenter med ca. 25 ansatte. Bemanningen i UP-distriktene varierer fra 40 til 70 tjenestemenn og kvinner. UP er organisert som vist i figur 10.6.
-UP mener selv å jobbe etter «nærpolitiprinsippet» der mannskapene, ved å ha uniformerte tjenestebiler hjemme i fritiden, bidrar til opplevd
-trygghet og politinærhet i boligområder der det
-ellers er liten politidekning.42 UPs patruljebiler
-blir sett på som en erstatning for faste kontorplasser og oppleves «mer personlig» ettersom bilen
-ikke rulleres på andre patruljer, slik det gjøres i
-politidistriktene.
-Etter UPs mening er det vanskelig å sammenligne patruljetjenesten i UP og i politidistriktene.
-UP arbeider på en annen måte og med andre oppgaver enn politidistriktenes vakt- og beredskapsstyrke. UPs patruljer er i gjennomsnitt i arbeid
-33–34 timer per uke, etter en arbeidsplan som
-42
-
-Skriftlig tilbakemelding
-30.1.2017.
-
-til
-
-Særorganutvalget
-
-datert
-
-dekker døgnet på hverdager mellom 06:00–02:00
-og i helgene mellom 08:00–04:00. UPs patruljebiler er oppgitt å kjøre gjennomsnittlig 30 000 km
-per år. Det opplyses fra UP at det er spredning i
-hvor og i hvilken mengde det er patruljer på veien
-og at det gjennom året må inkorporeres fravær
-som følge av sykdom, opplæring, trening og ferieavvikling. UP mener også det er en betydelig
-beredskapsressurs at tjenestebilene er plassert
-hjemme hos tjenestemennene/kvinnene, med
-fremskutt lagring av våpen, der det ikke er lange
-fravær i arbeidsplanen. Plassering av tjenestebil
-hjemme gjelder, etter søknad, for tjenestepersonell som har vakter påfølgende dager og bor slik
-til at de har kontroll på bilen.
-De operative mannskapene i politidistriktene
-går på tjenestelister med forskjellig varighet, vanligvis satt opp for 4-6 uker om gangen. Alle med
-døgnkontinuerlig tjeneste skal ha 37,5 timer i
-gjennomsnitt per uke, men faktisk tilstedeværelse
-vil variere mellom kveld, natt og helg. Normal faktisk tilstedeværelse med døgnkontinuerlig tjeneste og arbeid hver tredje søndag gir ca. 34,5
-timer i snitt per uke. De fleste operative mannskaper i politidistriktene arbeider hver tredje helg.
-Til forskjell har UP primært dag og kveldsvakter, med noen nattevakter til kl. 0400. Det er ingen
-krav til døgnkontinuerlige vakter i UP-tjenesten,
-men også UP må oppfylle kravet til 37,5 timers
-
-[Side 153]
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-arbeidstid i gjennomsnitt per uke. UP-tjenesten
-gir færre «rene» nattevakter, da tjenesten primært
-legges opp etter når trafikkgrunnlaget anses å
-være størst, eller at annen kunnskapsbasert informasjon tilsier et behov. Den øvrige operative polititjeneste har tilstedeværelse hele døgnet, men
-med noe redusert bemanning i helgene og om
-nettene.43
-
-10.4.1 Om beordringssystemet
-UPs operative personell har sitt faste tjenestested
-i eget politidistrikt og søker seg til tjeneste i UP.
-Gjennomsnittlig tjenestetid i UP er fire år. Avgitte
-mannskaper forblir i politidistriktenes lønnsbudsjett, men UP utbetaler variable utlegg. Dersom
-avgitte mannskaper blir sykemeldt i løpet av innbeordringsperioden, er politidistriktet pliktig til å
-avgi nye mannskaper som erstatning.
-Dette vil si at de som arbeider ute på veien i
-UP, er utdannet på Politihøgskolen, har tjenestegjort en tid i politidistrikt eller andre enheter i
-politiet, og har gjennomført tilleggsopplæring for
-arbeidet i UP. Dette sikrer medarbeidere med
-bred kompetanse innenfor sine ansvarsområder,
-og setter enheten i stand til å løse mange typer
-oppdrag. Det er ingen bevisst kompetansestrategi
-bak rekrutteringen til UP, men en ordinær søknadsprosess, der UP etter eget utsagn velger mellom mange gode søkere hvert år.
-UP-ledelsen viser til arbeidsmiljøundersøkelser som konkluderer med et godt arbeidsmiljø
-med lavt sykefravær. De siste årene har også UPtjeneste blitt mer attraktivt. Dette har særlig sammenheng med at UP gikk over fra innbeordring til
-at en nå «søker» seg til UP, og at oppgaveporteføljen de senere år er utvidet i retning av kriminalitetsbekjempelse i et videre perspektiv.
-UP oppgir at det er utfordrende å beholde og
-videreutvikle kjernekompetansen innenfor sine
-ansvarsområder. Kompetansen forblir likevel i
-stor grad i politi- og lensmannsetaten ved at kompetent personell kommer tilbake til politidistriktet
-etter endt tjeneste. Slik sett bidrar UP til en kontinuerlig kompetanseutvikling i politidistriktene.
-Det er ulike oppfatninger av UPs beordningssystem. På den ene siden er det høy tilfredshet
-blant politimannskaper som har vært beordret til
-UP. På den andre siden oppgir flere politiledere at
-praksisen er uhensiktsmessig for politidistriktene,
-som må avgi sårt tiltrengte IP4-ressurser til UP
-med det resultat at vakanser i distriktene hoper
-seg opp. Dette blir forsterket ved at UP-mannska43
-
-Politidirektoratet (2017), e-post datert 8. mai 2017.
-
-153
-
-Kapittel 10
-
-per som blir sykemeldt må erstattes av nye mannskaper fra hjemmehørende politidistrikt for avtalt
-tjenesteperiode.
-
-10.4.2 Trafikksikkerhet
-Politiets konkrete innsats i trafikksikkerhetsarbeidet er forankret i politiets strategiplan for polititjeneste på veg 2016–2019.44 Hovedsatsingen knytter seg til forebyggende virksomhet, kontrollvirksomhet og etterforskning. I tillegg utarbeider politidistriktene og UP årlige planer for trafikksikkerhetsarbeidet.
-UP har i tillegg et oppdrag om å utvikle årlige
-nasjonale tilstandsbeskrivelser for trafikkatferd og
-ulykkesutvikling.
-UPs rolle i dette arbeidet er innsats på veinettet, herunder distriktsovergripende aksjoner ved
-behov, eksempelvis perioder med stor utfart. I tillegg skal UP gjennomføre jevnlige tiltak for å markere synlighet i trafikken og dermed styrke oppdagelsesrisikoen, blant annet på prioriterte veistrekninger. Dette omfatter kontroll av trafikanter,
-og kjøretøy, samt bruk av straff og sanksjoner ved
-overtredelser på veitrafikklovgivningen.
-1. januar 2017 overtok UP som nevnt det faglige og administrative ansvaret for Politiets ATKsenter. Det er Statens vegvesen som har ansvar
-for daglig drift, installasjon og vedlikehold av fotoboksene. Politiets ATK-senter og politidistriktene
-har ansvaret for utstedelse av forelegg eller siktelser/tiltalebeslutning. UP vil i samarbeid med politidistriktene og Statens vegvesen arbeide med å
-utvikle en mer effektiv bruk og administrasjon av
-ATK-saker.
-UPs forebyggende og kriminalitetsbekjempende tiltak i veitrafikken omfatter målrettet innsats mot alle risikovillige førere, noe som medfører beslag av mange førerkort hvert år for uvettig
-kjøreatferd. Tap av førerrett er også et tiltak politiet benytter dersom en person dømmes for andre
-straffbare forhold, men hvor det er klar kvalifisert
-sammenheng mellom bruk av motorvogn og
-handlingen, og hvor allmenne hensyn kan kreve
-det.45
-I det forebyggende arbeidet samarbeider UP
-med en rekke aktører. Foruten politidistriktene
-omfatter dette særlig Vegvesenet og Trygg trafikk.
-44
-45
-
-Politidirektoratet 2015 – Strategiplan for polititjeneste på vei
-2016–2019.
-Bergens Tidende (2017): «Å frata noen førerretten på
-grunn av manglende edruelighet er ikke straff. Det er et
-forebyggende tiltak.» 31. mars. Jf. også Tapsforskriften § 26.
-
-[Side 154]
-
-154
-
-Kapittel 10
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-Et annet viktig UP-tiltak, er synlighet i media.
-Særlig i perioder med stor utfart, er dette effektivt
-for å øke allmenn forståelse og bevissthet for trafikksikkerhetsarbeidet, samt påvirke trafikkatferden. I tillegg deltar UP, i samarbeid med spesielt
-Statens vegvesen, i jevnlige informasjons- og holdningskampanjer. Flere av disse kampanjene er
-særlig rettet mot høy fart og unge menn, som
-også topper ulykkesstatistikkene.
-UP er av sentrale aktører innenfor og utenfor
-politietaten, vurdert som en svært effektiv enhet
-som oppnår gode resultater innenfor nasjonalt trafikksikkerhetsarbeid. UPs arbeid med trafikksikkerhet må likevel ses som del av et bredere kriminalitetsbilde.
-En nylig UP-studie fra mars 2017 undersøkte
-sammenhengen mellom uaktsomhet i forbindelse
-med dødsulykker i veitrafikken og gjerningspersoners straffedomshistorie. Studien viste at gjerningspersonen i ulykken hadde utvist uaktsomhet
-i bortimot alle ulykkene. I 60 prosent av ulykkene
-hadde gjerningspersonen utvist grov uaktsomhet
-og i 36 prosent av tilfellene ble det utvist simpel
-uaktsomhet. 35 prosent av gjerningspersonene
-var tidligere straffet, de fleste for trafikale forhold.
-Totalt 63 prosent av gjerningspersonene var tidligere straffet (anmeldt), hadde vedtatt forenklet
-forelegg eller mottatt trafikkgebyr. Studien viste
-klar sammenheng mellom graden av uaktsomhet
-vist i ulykken og om gjerningspersonen var tidligere straffet. Av gjerningspersonene som utviste
-grov uaktsomhet var 43 prosent tidligere straffedømt, av gjerningspersonene som hadde utvist
-simpel uaktsomhet var 21 prosent tidligere straffedømt, mens av gjerningspersonene som ikke
-hadde utvist noen form for uaktsomhet, var 14
-prosent tidligere straffedømt.46
-En rekke politiledere og andre interessenter
-mener UPs innsats er avgjørende for politiets samlede ressursinnsats på trafikksikkerhetsarbeidområdet. I flere politidistrikt erfares det imidlertid at
-trafikksikkerhetsarbeid blir nedprioritert til fordel
-for andre kriminalitetsområder. Flere uttrykker
-bekymring for dette, men understreker samtidig
-at ressurssituasjonen i politiet gjør at slike prioriteringsavveininger er uunngåelige.47 Denne
-balansen må avveies mot Politidirektoratets
-instruks for politiets generelle trafikktjeneste der
-det blant annet heter at: «Trafikktjenesten er en av
-46
-
-Utrykningspolitiet (2017) – Rapport «På hjul inn i statistikken» – En studie av gjerningspersoner og ofre i alvorlige
-ulykker i trafikken
-47
-NRK (2017): «Politimesteren slår alarm om budsjettkutt.»
-26. januar.
-
-politiets prioriterte oppgaver. Målet er å hindre,
-eller begrense trafikkulykker, og redusere antall
-skadde og drepte i ulykkene».48
-
-10.4.3 Kriminalitetsbekjempelse på vei
-UP er mer enn et nasjonalt trafikkpoliti. Gjennom
-sitt konsept «trafikktjeneste på vei» legger UP
-vekt på generell kriminalitetsbekjempelse i sin tjeneste på hovedveinettet i landet. Dette innebærer
-at UP i tillegg til sin innsats for å forebygge og
-bekjempe trafikkrelaterte overtredelser, også har
-politiblikket rettet mot andre kriminalitetstyper.
-Blant de ulykkesinvolverte førerne finnes som
-nevnt en overrepresentasjon av personer som
-begår annen type kriminalitet. Gjennom sin kontrollvirksomhet og overvåking av veien er UP derfor oppmerksom på mobile kriminelle som benytter veien til ulovlig virksomhet, som ulovlig innførsel av varer, menneskesmugling mv. På den måten
-bistår UP politidistriktene i generell kriminalitetsbekjempelse og produserer straffesaker på ulike
-områder. Politiets straffesakssystem (STRASAK)
-har imidlertid ikke registreringskoder som viser
-dette omfanget.
-
-10.4.4 Bistand
-I henhold til UPs instruks er UP pliktig å yte
-bistand til planlegging, tilrettelegging og gjennomføring av trafikkinnsats og kontrolloppgaver i
-politidistriktene. Gjennom samhandling med politidistriktene gjennomfører UP jevnlig oppdrag i
-politidistriktene, og de fleste politimestrene opplyser i samtale med utvalget at de opplever UP som
-en fleksibel og tilgjengelig bistandsressurs, både
-for alminnelige ordensoppdrag og mer planlagte
-arrangementer, som festivaler, stevner og idrettsarrangementer.
-UP kan i tillegg bli pålagt å avgi personell og
-materiell til politidistriktene for å løse andre politioppgaver enn trafikktjeneste etter nærmere
-bestemmelser fra Politidirektoratet.
-Flere politiledere påpeker at en konsekvens av
-politireformens sammenslåing av politidistriktene
-også bør være redusert behov for UPs bistand.
-Større tilgang på mannskap skulle tilsi dette, men
-som flere andre peker på, var dette også antatt ved
-tidligere politireformer. Fortsatt er det antatt at
-særlig politidistrikter med store geografiske
-avstander, samt enkelte politidistrikt med sesong48
-
-Politidirektoratet (2016): Instrukser for politiets trafikktjeneste. GP-4027, s.5.
-
-[Side 155]
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-baserte turistområder fortsatt vil ha behov for
-bistand fra UP.
-
-10.4.5 Beredskap
-UP er politiets egen forsterkningsressurs og en
-beredskapsstøtte for politidistriktene. Dette innebærer at UP er en nasjonal mobil politistyrke som
-på kort varsel kan bli utplassert i spesielle situasjoner og hendelser. Fra sin posisjon på landeveien legger UP derfor vekt på å bidra til politidistriktenes krav om kort responstid ved akutte hendelser. Dette viste seg blant annet på Storskog
-høsten 2015 og på Utøya i 2011.
-Tjenestegjørende i UP er forberedt på at oppdrag kan kreve forflytning til andre deler av landet, også over tid. I tillegg bistår UP politidistriktene med ressurser ved større hendelser samt
-med vaktoppdrag og samarbeider i noen grad
-med politidistriktene om trafikktjenesten. Blant
-annet bidro UP med viktige forsterkningsressurser under migrasjonsbølgen høsten 2015 og ved
-avviklingen av Ungdoms-OL vinteren 2016. Flere
-politiledere opplever UPs innsats som verdifull.
-
-155
-
-Kapittel 10
-
-ring. Politireserven skal ikke brukes for å kompensere for mangelfulle politiressurser ved utøvelse av politiets daglige tjeneste.
-Trening
-Nye politireservister gjennomgår et to ukers
-grunnkurs (ti dager) som omfatter mange av politiets vanlige oppgaver, for eksempel vakthold, trafikkontroll, patruljetjeneste og skyteprøve. Hvert
-fjerde år blir det gjennomført obligatoriske femdagers repetisjonskurs. Kursene avsluttes med
-bestått/ikke bestått, og de som ikke består, blir tilbakeført til vernepliktsverket for annen disponering. All trening og opplæring skjer i regi av UP
-ved Justissektorens kurs- og øvingssenter (JKØ) i
-Stavern.
-Deler av Politireserven deltar også på ordinære redningsøvelser med Forsvaret, Sivilforsvaret og Politiet.
-Siden 2006 har rekruttering kun vært fra det
-sentrale østlandsområdet, og ikke hele landet,
-som tidligere.
-En lite brukt ressurs
-
-10.4.6 Politireserven
-Politireserven er en reservestyrke i politiet,
-underlagt Utrykningspolitiet, som består av
-mannskaper som har fullført militær førstegangstjeneste og som deretter utfører plikttjeneste i
-Politireserven resten av tjenestetiden. Styrken
-omfatter rundt 700 mannskaper på Østlandet, som
-kan bli innkalt på kort varsel.
-Politireserveordningen er hjemlet i lov av 21.
-november 1952 om tjenesteplikt i politiet. Politireserven kan kun besluttes brukt av Kongen i statsråd:
-– når militær beredskap eller mobilisering helt
-eller delvis er satt i verk
-– for å avverge eller begrense naturkatastrofer
-– for å avverge andre alvorlige ulykker
-– for å opprettholde samfunnsordenen når viktige allmenne interesser tilsier det, eksempelvis ved eventuelle terroranslag
-Politireserven er ubevæpnet, men har maskinpistolen MP5 som primærvåpen ved eventuell
-bevæpning.
-Politireserven vil i visse situasjoner være
-påkrevd for å understøtte og dels avløse ordinære
-politimannskaper. Hovedoppgavene til Politireserven vil være objekt-vakthold og vakt-tjeneste, trafikk og -patruljetjeneste, innsats mot folkemasser
-(IMF) og i noen spesielle tilfeller til personsik-
-
-Politireserven har siden opprettelsen vært lite i
-bruk. Styrken ble benyttet første gang under OL
-på Lillehammer i 1994 og gjennomførte vanlig
-polititjeneste i landet, mens store deler av hovedpolitistyrken ble avgitt til tjeneste på Lillehammer.
-Den 22. juli 2011 ble det gitt tillatelse fra Politidirektoratet til å benytte styrken. Deler av styrken
-ble varslet og satt i beredskap, men ingen ble innkalt.
-Så sent som i 2001 besto styrken av omtrent
-8000 menn og kvinner, men budsjettsituasjonen
-har siden begrenset både innkalte mannskaper og
-kursaktivitet. I 2007 bestemte regjeringen å rulleføre tusen ekstra personer for rask utdanning og
-utstyring ved endret trusselsituasjon, men kostnadsrammen ble ikke besluttet økt i tråd med vedtaket.
-Den økonomiske tildelingen fra POD til UP
-øremerket drift, kurs og materiell for Politireserven er årlig på rundt 3,5 mill. kr.
-Politireserven er flere ganger foreslått avviklet, senest av Forsterkningsutvalget i 2013,49
-men Stortinget besluttet med våren 2015 å opprettholde styrken. Som følge av dette har Politidirektoratet nylig utarbeidet forslag til nye retningslinjer for Politireserven.50
-49
-
-NOU 2013: 5 Når det virkelig gjelder – effektiv organisering
-av statlige forsterkningsressurser.
-
-[Side 156]
-
-156
-
-Kapittel 10
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-10.4.7 Kompetanseutvikling
-Alle nye UP-mannskaper gjennomgår et eget innføringskurs på i overkant av en uke. Årlig gjennomgår mellom 70–100 nye mannskaper dette
-kurset.
-I tillegg bidrar UP med instruktører og lærekrefter på opplæring i trafikktjeneste, kjøreopplæring, fartsmåling og trafikksikkerhet ved Politihøgskolen (PHS).
-Betydningen av UPs bidrag som instruktører
-til PHS, viser seg ikke bare gjennom generell økt
-bevissthet om trafikksikkerhet for studentene,
-men også i form av økt forståelse for at trafikksikkerhetsarbeidet er en del av politiets generelle
-ordensoppdrag. UPs bidrag har også betydning
-for politimannskapenes effektive bruk av politidistriktets eget trafikktekniske utstyr.
-UP har ansvar for fag- og metodeutvikling for
-politiets trafikksikkerhetsarbeid, men politidirektoratet er eier av metodeverk og instruksverk for
-trafikkområdet. UP har etterlyst avklaring fra
-POD om fagansvarsrollen.
-Statens vegvesen opplever UPs kompetanseoverføring til distriktene som uklar. Vegvesenet
-ønsker likevel ikke å vurdere om politidistriktene
-kunne opprettholde god trafikksikkerhet med en
-annen organisering der de overtok flere oppgaver
-fra UP i en mer målrettet løsning. Som utgangspunkt mener de det er liten grunn til å endre noe
-som fungerer. Konklusjonen er dermed at de vil
-beholde UP slik ordningen er i dag, fordi dette
-fungerer godt.
-Vegvesenet mener UP er viktig som kontinuerlig pålitelig og faglig ressurs på trafikksikkerhetsområdet. Vegvesenet opplever videre at trafikkområdet er mindre prioritert i politidistriktene og
-frykter nedprioritering ved eventuell overflytting
-av ansvar fra UP. Etter Vegvesenets oppfatning er
-det nødvendig med en nasjonal enhet med spisskompetanse på trafikksikkerhet, og det blir vanskelig for politiet å nå nasjonale mål for trafikksikkerhet dersom ansvaret blir desentralisert.51
-Ved siden av god kunnskap innen fag og
-metode, forutsetter politiets trafikksikkerhetsinnsats påtalemessig oppfølging med høy kvalitet.
-Erfaring over flere år tyder imidlertid på et behov
-for økt spesialkompetanse på fagfeltet, og UP
-viser blant annet til arbeidsgrupperapport publisert av Riksadvokaten i 2015 om etterforsking og
-50
-
-Politidirektoratet (2016) «Forslag til nye retningslinjer for
-Politireserven». Oversendt Justis- og beredskapsdepartementet 30. juni 2016.
-51
-Samtale med Statens Vegvesen 3. november 2017.
-
-straffeforfølgning av trafikksaker. 52 Dårlig kvalitet på etterforskingen får betydning for både nivå i
-straffereaksjonene og i effektivitet i saksbehandlingen. Det er tidligere foreslått bruk av hospitering i UP som et tiltak for å heve kompetansen,
-blant annet for påtalejurister. UP koordinerer
-imidlertid nasjonalt påtalenettverk for trafikkfaget og det er naturlig at behov for slik kompetansetilførsel tas opp der.
-
-10.4.8 Nasjonalt og internasjonalt
-kontaktpunkt
-Som internasjonalt kontaktpunkt koordinerer og
-deltar UP i norsk politis internasjonale samarbeid
-på trafikkområdet. Dette omfatter internasjonale
-sammenslutninger med medlemmer fra både
-offentlig administrasjon og private organisasjoner.
-Internasjonalt samarbeid om trafikksikkerhet er
-viktig for å utveksle erfaringer, bygge nettverk,
-dele kunnskap og sette felles mål.
-Både Statens vegvesen og Trygg trafikk fremhever at det er effektivt at UP er eneste kontaktpunkt i politiet innenfor trafikksikkerhetsarbeid.
-
-10.5 UPs oppgaveløsning
-Instruks etter kongelig resolusjon av 1.september
-1989 fastslår at «Utrykningspolitiets målsetning er
-å redusere antall trafikkulykker og forebygge lovovertredelser i trafikken», og at UP «skal utføre
-trafikktjeneste i alle landets politidistrikter». UPs
-oppgaver, mål og resultatkrav utover dette følger
-av årlig disponeringsskriv.
-I disponeringsskriv for 2017 heter det at UP
-skal opprettholde tjenesteproduksjon minst på
-samme nivå som i 2016, det vil si at samlet innsats
-skal bidra til å forebygge og bekjempe:
-– ulykker på vei (trafikksikkerhet)
-– kriminalitet på vei
-Samlet effekt av tiltakene skal derfor være å redusere antall drepte og skadde i trafikken sammenlignet med foregående år. UP har gjennomgående
-høy måloppnåelse på årlige mål- og resultatkrav,
-jf. tabell 10.3.
-
-10.5.1 Trafikksikkerhet
-Kontrollinnsatsen til UP rettes i dag mot aggressiv kjøreatferd, fartsovertredelser, ruspåvirket
-kjøring og manglende bruk av bilbelte. Innsatsen
-52
-
-Riksadvokatens publikasjoner nr. 4/2015.
-
-[Side 157]
-
-157
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-Kapittel 10
-
-90 000
-80 000
-70 000
-60 000
-50 000
-40 000
-30 000
-20 000
-10 000
-0
-2002
-
-2003
-
-2004
-
-2005
-
-2006
-
-2007
-
-2008
-
-2009
-
-2010
-
-Politidistriktene
-
-2011
-
-2012
-
-2013
-
-2014
-
-2015
-
-2016
-
-UP
-
-Figur 10.7 Antall avdekte fartsovertredelser for UP og politidistriktene 2002–2016
-Kilde: Politiets kontrollstatistikk (TTS TRAFSTAT)
-
-rettes først og fremst mot risikovillige førere, som
-på et kunnskapsbasert grunnlag blir plukket ut
-for kontroll.
-UPs innsats i trafikksikkerhetsarbeidet er særlig avgjørende for å avdekke fartsovertredelser.
-Politidistriktenes innsats på dette området har i tillegg blitt betydelig redusert i løpet av siste ti år, jf.
-figur 10.7.
-
-På rusområdet har politidistriktene tradisjonelt avdekket flest tilfeller av ruspåvirket kjøring,
-ofte som resultat av tips fra publikum. UP har derimot de siste årene økt innsatsen innen ruskontroll. UP har mer enn fordoblet antall avdekte tilfeller av kjøring i ruspåvirket tilstand i løpet av to
-år, og står nå for nærmere 40 prosent av andelen
-anmeldelser for ruspåvirket kjøring.
-
-Tabell 10.3 Mål og resultatkrav for Utrykningspolitiet 2016–2017
-Resultat- Resultat
-krav 2016
-2016
-
-Resultatkrav 2017
-
-Mål
-
-Indikator
-
-Forebygge og bekjempe ulykker
-på vei – Trafikksikkerhet
-
-Drepte og hardt skadde
-
-760
-
-712
-
-720
-
-Drepte
-
-152
-
-135
-
-144
-
-Fartsovertredelser
-
-80 000
-
-78 566
-
-80 000
-
-Kjøring ruspåvirket tilstand
-
-1 500
-
-2 406
-
-2 500
-
-Grove/gjentatte fartsovertredelser
-
-5 200
-
-5 319
-
-5 200
-
-Manglende bruk av verneutstyr
-
-14 500
-
-12 397
-
-12 000
-
-Kontrollerte
-sjåførarbeidsdøgn (tungbil)
-
-120 000 126 319
-
-120 000
-
-Farlig atferd
-
-19 000
-
-19 651
-
-19 000
-
--
-
--
-
-120 000
-
-2 200
-
-2 397
-
-2 200
-
-800
-
-1 487
-
-800
-
-Antall ATK-saker
-Forebygge og bekjempe
-kriminalitet på vei
-1
-
-Pågripelser
-Narkotikabeslag
-
-UP fikk ansvar for ATK-senteret fra 1.januar 2017.
-Kilde: Politidirektoratet
-
-1
-
-[Side 158]
-
-158
-
-Kapittel 10
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-kan bli håndtert på en bedre måte i politidistriktene.
-
-UP avdekker ruspåvirket kjøring ved kontrollvirksomheten langs veien, mens politidistriktene
-avdekker i hovedsak ruspåvirket kjøring i forbindelse med trafikkulykker, eller etter varsel fra
-publikum.
-Etter UPs mening har økt vekt på kunnskapsbasert og effektiv politiinnsats med målrettede
-kontroller, kombinert med stadig forbedring av
-metodebruk og bruk av ny teknologi, bidratt til
-færre alvorlige ulykker med drepte og hardt
-skadde i trafikken de siste årene.
-Trygg trafikk mener nasjonal måloppnåelse for
-trafikksikkerhet forutsetter et politi med spisskompetanse innen trafikksikkerhet. Politikontroller er det enkelttiltaket med størst dokumentert
-effekt på trafikksikkerheten. UP er en garantist
-for at det blir foretatt kontroller på norske landeveier, også utenfor byene.
-UPs høye kompetanse kommer også politidistriktene til gode. Når et politidistrikt avgir folk til
-UPs tjeneste, får de tilbake en kompetanse som er
-helt uvurderlig i det lokale trafikksikkerhetsarbeidet. Det er etter Trygg trafikks mening også fordelaktig for politidistriktene at UP kan avgi ressurser
-ved større lokale arrangementer.53
-Blant politimestrene er det delte meninger om
-ressursfordelingen mellom UP og politidistriktene
-i trafikksikkerhetsarbeidet. Det er imidlertid stor
-enighet om at UP gjør en viktig innsats i trafikksikkerhetsarbeidet. Flere legger til at UP er en
-viktig merkevare for politiets trafikksikkerhetsarbeid, noe som også gjenspeiler seg i politiets innbyggerundersøkelser, der UP ofte kommer best
-ut. Her kommer det også tydelig frem at publikum
-er mest bekymret for å bli utsatt for trafikkfarlige
-hendelser, men de har samtidig høy tiltro til at
-politiet kan håndtere disse hendelsene hvis eller
-når de inntreffer.
-UP på sin side gir tydelig uttrykk for en generelt lav interesse for trafikksikkerhet i politidistriktene, Politihøgskolen og delvis hos Politidirektoratet og mener dette er et gjennomgående fenomen også i andre europeiske land.54
-Etter UPs mening har overgangen fra 27 til
-tolv distrikt ennå ikke gitt nevneverdig endring i
-verken holdning eller bevissthet til forbindelsen
-mellom UPs arbeid og generell kriminalitetsbekjempelse. UP kan ikke se at trafikktjenesten eller
-«kriminalitetsbekjempelse på vei» er gitt organisatorisk plass, eller at det er opprettet formelle kontaktpunkter i de nye politidistriktene. For UP er
-det derfor svært vanskelig å se at trafikksikkerhet
-
-10.5.2 Kriminalitetsbekjempelse på vei
-UPs innsats for generell kriminalitetsbekjempelse
-på vei er forankret i årlig disponeringsskriv fra
-Politidirektoratet, med et målkrav om 2200 pågripelser og 800 narkotikabeslag for 2016.
-Ettersom verken Politidirektoratet eller UP
-har avgrenset kriminalitetsområder innenfor dette
-konseptet blir det foretatt pågripelser på en rekke
-områder. UPs egen statistikk viser at enheten
-årlig foretar flere beslag enn et gjennomsnittlig
-politidistrikt, og nesten like mange pågripelser.
-Tabell 10.4 gir en oversikt over andre sakstyper UP har initiert enn etter vegtrafikkloven. Tallene omfatter alle anmeldelser uansett om de er
-avgjort av domstolene, avgjort med forelegg eller
-har blitt henlagt.
-UP opplyser at det er en underrapportering av
-registrerte anmeldelser i forbindelse med pågripelser og beslag i politiets straffesakssystemer.
-Merking av UP-initierte saker må gjøres manuelt i
-politiets BL-system (straffesakssystem) og når
-politidistriktene dupliserer og etablerer vedleggsaker til straffesaken, blir UP-saker ofte ikke registrert.55
-Flere politiledere mener det er prisverdig at
-UP på denne måten bistår politidistriktene, men
-peker samtidig på slagsiden ved at UP ikke har
-påtalekompetanse. Dette medfører at UP kan ta
-beslag og foreta pågripelser, men må overlate
-ansvar for etterforskning og påtale til politidistriktene. Flere politimestre opplever dette som uproblematisk, ettersom alle politimannskaper på den
-måten bidrar i felles kriminalitetsbekjempelse.
-Enkelte politimestre peker imidlertid på eksempler der UPs beslag har medført behov for omprioritering av ressurser, og på mulige målkonflikter
-med pågående operasjoner og strategioppfølging
-på bestemte kriminalitetsområder.
-Samtidig peker flere politimestre på at det er
-behov for flere politimannskaper i distriktene som
-inngår i en bredere kriminalitetsbekjempelse.
-Etter deres mening er dagens ressursfordeling
-uttrykk for en uheldig prioritering av begrensede
-politiressurser. Ved å få tilført UPs ressurser vil
-politidistriktene få større fleksibilitet uten at dette
-trenger å gå utover trafikksikkerhetsarbeidet. I tillegg blir det argumentert med at ressursoverføring vil forenkle styring av politiressursene. Dette
-
-53
-
-55
-
-54
-
-E-post fra UP til sekretariatet 16. november 2016.
-Samtale med UP 21. september 2016.
-
-Skriftlig svar på spørsmål fra Særorganutvalget – datert
-30.1.2017.
-
-[Side 159]
-
-159
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-Kapittel 10
-
-Tabell 10.4 Antall UP-initierte sakstyper alle politidistrikt i perioden 2012–2016
-Kriminalitetstype
-
-2012
-
-2013
-
-2014
-
-2015
-
-2016
-
-Totalsum
-
-Annen
-
-207
+<u>Ansvar for asylintervjuene overføres fra politiet til UDI. Ansvar for retningslinjer og rundskriv som regulerer politiets behandling av utlendingssaker, blir overført fra Justisdepartementet til UDI.</u>
 
-240
+<u>2001 Utlendingsnemnda (UNE) blir opprettet som selvstendig klageorgan for utlendingssaker. Som frittstående domstollignende forvaltningsorgan behandler UNE klager på UDIs vedtak. Administrativt blir UNE underlagt KRD, men ansvaret blir senere overført til Arbeids- og inkluderingsdepartementet (AID), og videre til Justis- og beredskapsdepartementet.</u>
 
-222
+<u>Norge blir medlem av Schengen-samarbeidet, og personkontrollen på grensene mellom Schengen-landene blir opphevet.</u>
 
-256
+<u>2003 Som følge av økende problemer med uttransportering og returnering av asylsøkere som har fått avslag på oppholdssøknad, blir det initiert tverrdepartementale utredninger om politiets arbeid på dette området.</u>
 
-209
+<u>POD oppretter prosjekt AsyTrans med det formål å utrede opprettelsen av ny nasjonal politienhet for registrering og uttransportering av asylsøkere uten lovlig opphold.</u>
 
-1134
+<u>2004 Prosjektet AsyTrans blir avsluttet, og Politiets utlendingsenhet (PU) blir opprettet, med ansvar for å registrere og identifisere asylsøkere samt for uttransportering av personer uten lovlig opphold.</u>
 
-2
+<u>2005 Utlendingsavdelingen ved Kripos avvikles.</u>
 
-5
+<u>Landinfo blir opprettet som en faglig uavhengig enhet administrativt underlagt UDI, med felles arkiv. Landinfo kan ikke instrueres i faglige spørsmål.</u>
 
-Arbeidsmiljø
-Miljø
-Narkotika
+<u>2010 Ansvaret for innvandringssaker overføres til Justisdepartementet. UDI og PU er dermed underlagt samme departement.</u>
 
-3
-2
+<u>2015 Økt asyltilstrømning høsten 2015 med over 20 000 ankomster fra august til november. I 2015 mottok Norge totalt 31 154 asylsøknader. Norge, og flere andre land i Europa, innførte grensekontrolltiltak. Norges grensekontrolltiltak var gjeldende frem til 11.5.2017.</u>
 
-1
+<u>2016 Antall asylsøkere for hele året rapporteres til 3460.</u>
 
-7
+**<u>\[Boks slutt\]</u>**
 
-5
+1.  **<u>Opprettelsen av PU</u>**
 
-831
+Historisk har det overordnede ansvaret for utlendingsfeltet ligget til ulike departement, mens de operative oppgavene har vært lagt til politidistriktene. Først i 1967 var det netto innvandring til Norge, og i hovedsak som følge av arbeidsinnvandring.[^326] I 1975 vedtok Stortinget en innvandringsstopp, som vedvarte til ny utlendingslov ble vedtatt i 1988. Frem til 1990 lå ansvaret for spørsmål om pass, visum og statsborgerskap hos Justisdepartementet. På 1990-tallet førte en økning i antall flyktninger og asylsøkere til en presset situasjon for politiressursene og utlendingsforvaltningen.
 
-833
+Som følge av en vedvarende økning i antall asylsøkere over flere år og en erkjennelse av at daværende strukturer i politiet ikke var dimensjonert for denne utviklingen, ble PU opprettet som eget særorgan i 2004. Økende ressursinnsats på området og økende omfang og kompleksitet i oppgavene forutsatte en mer samordnet innsats for å effektivisere asylprosessen og redusere kostnadene. Manglende fremleggelse av reisedokumenter og sakshåndteringen dette utløste, påvirket også arbeidsmengden og restansene som bygget seg opp. Økende ressursinnsats på området og økende omfang og kompleksitet i oppgavene forutsatte en mer samordnet innsats for å effektivisere asylprosessen og oppnå en bedre og mer samlet kostnadsstyring, samtidig som det bidro til å frigjøre politikapasitet i distriktene.
 
-919
+Politidistriktene har likevel beholdt en rekke oppgaver på utlendingsfeltet, blant annet grensekontroll, utlendingskontroll og forvaltningsoppgaver som behandling av søknad om opphold, arbeid, visum og familiegjenforening. Politiet har myndighet til å innvilge kurante søknader om familiegjenforening. Alle andre slike søknader samt alle utvisningssaker blir oversendt UDI som vedtaksmyndighet. Distriktene har innvilgelseskompetanse i alle typer oppholdssaker bortsett fra asylsøknader. Ved tvilstilfeller, eller dersom det ligger an til avslag, skal saken sendes UDI for avgjørelse.
 
-1430
+I perioden 1995–1997 var antallet asylsøkere mellom 1400 og 2300 pr år. Dette økte til mellom 8 800 og 10 800 i perioden 1998–2000, mens det i perioden 2001–2003 ankom mellom 15 000 og 17 480 asylsøkere årlig. Siden har dette tallet økt jevnt og nådde en foreløpig topp i 2015, da det ankom 31 145 asylsøkere, en nær tredobling fra 2014. I 2016 var antallet ankomster redusert til 3460.[^327]
 
-1487
+Det er stor usikkerhet knyttet til ankomsttallene for 2017, som er beregnet til ca. 7 000. I tillegg kommer 1250 relokaliserte som skal overføres til Norge i løpet av 2017. Faktorene som antas å ha størst innvirkning på ankomsttallet i tiden fremover, er opprettholdelse av grensekontroller i Europa samt den gjeldende avtalen mellom Tyrkia og EU. Ifølge International Organization for Migration (IOM) ankom i løpet av 2016 181 436 irregulære migranter til Italia, og 173 561 irregulære migranter ankom Hellas. Eurostat-statistikk viser at i de tre første månedene av 2017 har 121 200 personer søkt asyl i Italia, og 49 900 har søkt asyl i Hellas.[^328]
 
-5500
+1.  **<u>Organisering av utlendingsfeltet</u>**
 
-2
+Utlendingsfeltet er et komplekst politikkområde som er preget av spenning mellom politisk styring og faglig autonomi. Det er et område som har vært gjenstand for omorganisering flere ganger de siste 15 årene. Ansvaret for utlendingsforvaltningen er delt mellom fire departementer: Justis- og beredskapsdepartementet (JD), Arbeids- og sosialdepartementet (AD), Barne-, likestillings-, og inkluderingsdepartementet (BLD) og Utenriksdepartementet (UD). Organisering av utlendingsfeltet er vist i figur 11.1.
 
-1
+JD har det overordnede ansvaret for flyktning-, innvandrings- og integreringspolitikken og styrer Utlendingsdirektoratet (UDI), Politidirektoratet og Integrerings- og mangfoldsdirektoratet (IMDi) gjennom lov, forskrift, budsjetter og tildelingsbrev. Utlendingsnemnda (UNE) er politisk uavhengig og kan ikke instrueres. Styring skjer gjennom lov og forskrift. Det sentrale lovverket på utlendingsfeltet er utlendingsloven og utlendingsinstruksen. En skjematisk oversikt av politiets rolle i utlendingsfeltet følger i figur 11.1.
 
-1
+**<u>\[:figur:figX-X.jpg\]</u>**
 
-4
+1.  <u>Organisering av utlendingsfeltet</u>
 
-Sedelighet
+<u>UDI</u>
 
-15
+*Utlendingsdirektoratet* (UDI) er den sentrale etaten i utlendingsforvaltningen og skal iverksette og bidra til å utvikle regjeringens innvandrings- og flyktningepolitikk. UDI skal sørge for regulert innvandring gjennom behandling av søknader om oppholds- og arbeidstillatelser, og sikre at flyktninger får beskyttelse gjennom behandling av asylsøknader. Som faglig overordnet organ instruerer UDI politiet og utenriksstasjonene via rundskriv i saker som gjelder tillatelser og opphold. Direktoratet behandler de sakene utenrikstjenesten og politiet ikke har beslutningsmyndighet til å avgjøre, og saker hvor det er usikkert om tillatelse bør innvilges.
 
-Skadeverk
+*Utlendingsnemnda* (UNE) er et frittstående domstollignende forvaltningsorgan som behandler klager på UDIs vedtak etter utlendingsloven og utlendingsforskriften og statsborgerloven. Utlendingsnemnda er overordnet UDI som lovtolkende organ, og nemndas praksis er retningsgivende for UDIs praksis. UNE er underlagt Justis- og beredskapsdepartementet og kan ikke instrueres om avgjørelser i enkeltsaker (unntatt i saker som gjelder grunnleggende nasjonale interesser eller utenrikspolitiske hensyn).
 
-4
+Ansvaret for utlendingsfeltet i Justis- og beredskapsdepartementet er delt mellom to avdelinger. Innvandringsavdelingen har etatsstyringsansvar for Utlendingsdirektoratet (UDI) og Utlendingsnemnda (UNE) samt overordnet ansvar for driften av statlige asylmottak. Avdelingen har også ansvaret for utlendingslovgivningen med tilhørende forskriftsverk samt for å ivareta norske interesser knyttet til beskyttelse og migrasjon i EU og Norges deltakelse i Schengen-samarbeidet og i en rekke internasjonale organisasjoner, som FNs høykommissær for flyktninger (UNHCR) og International Organization for Migration (IOM).
 
-8
+Politiavdelingen utgjør sammen med Politidirektoratet den sentrale politiledelse og har dermed overordnet etatslederansvar for politi- og lensmannsetaten, herunder Politiets utlendingsenhet (PU).
 
-8
+*Politidistriktene* mottar og forbereder søknader om oppholds- og arbeidstillatelse, men kan ikke avslå søknader. Saker der politiet ikke kan fatte vedtak, blir oversendt UDI. Politiet kan opprette utvisningssaker som avgjøres av UDI, men kan også fatte bortvisningsvedtak etter nærmere anvisning i utlendingsforskriften.
 
-8
+*PU* er gitt det nasjonale ansvaret for registrering og identitetsfastsettelse av asylsøkere, effektuering av negative asylvedtak besluttet av utlendingsmyndighetene og iverksettelse, koordinering og kvalitetssikring av alle uttransporteringer av utlendinger uten lovlig opphold i Norge. Bistand til politidistriktene med kontrollvirksomhet og identitetsundersøkelser inngår også som sentrale oppgaver under PUs nasjonale ansvarsområde, det samme gjelder informasjonsinnsamling og bearbeiding samt PUs internasjonale arbeid.
 
-7
+I tillegg spiller *Norges utenriksstasjoner* en viktig rolle som førstelinjetjeneste for utlendinger som ønsker å besøke eller flytte til Norge. Blant utenriksstasjonenes oppgaver er informasjon om regelverk og prosedyrer, behandling av søknader om besøksvisum og mottak og forberedelse av søknader om visum. Saker utenriksstasjonene ikke kan behandle selv, blir oversendt til UDI.
 
-35
+Politiet har i utlendingssaker i tillegg kontakt med barnevernet, underlagt Barne-, ungdoms-, og familiedirektoratet (Bufdir) og Barne- og likestillingsdepartementet (BLD), både i forbindelse med asylsøknader fra enslige mindreårige, bruk av fengsling, herunder utlendingsfengsling på Trandum, og ved overføring av enslige mindreårige asylsøkere fra PUs asylregistrering til transittmottak.
 
-Undersøkelsessaker
+Utover dette har politiet begrenset kontakt med øvrige sentrale aktører på utlendingsfeltet, som Arbeids- og sosialdepartementet (ASD) og Barne- og likestillingsdepartementet (BLD), og deres oppgaver og ansvar blir derfor ikke omtalt her.
 
-24
+1.  **<u>Politiets arbeid p</u><u>å</u><u> utlendingsfeltet</u>**
 
-25
+Som førstelinjetjeneste utfører politiet registrering av asylsøknader, mottak og forberedelse av søknader om opphold og statsborgerskap, registrering for EØS-borgere og opprettelse av bort- og utvisningssaker. Politiet har i tillegg et selvstendig ansvar for grensekontroll og utlendingskontroll på territoriet.
 
-35
+Politidistriktene kan også gjennomføre intervjuer i forbindelse med søknad om familiegjenforening, enten etter anmodning fra utenriksstasjonen eller UDI eller etter eget tiltak.
 
-31
+I tillegg har politidistriktene en kontrollfunksjon knyttet til alle sider av søknadene og behandlingen for øvrig. Kontrollen omfatter om søknaden er korrekt utfylt, dokumentasjonen er riktig, mulig mistanke om uriktige opplysninger eller proformaekteskap, ID-fastsettelse mv.
 
-36
+Politidistriktene skal også initiere og opprette bort- og utvisningssaker. Hvert politidistrikt har et måltall på dette, fastsatt i styringsdialogen med POD. Politidistriktene oppretter utvisningssaken og oversender den til UDI for videre behandling. UDI vurderer saken og kan fatte vedtak om utvisning. En eventuell klage kan fremmes til UNE. Endelig avslag innebærer enten frivillig retur, assistert retur eller tvangsretur iverksatt av politiet gjennom pågripelse, transport til Politiets utlendingsinternat og påfølgende uttransport til mottakerland.
 
-151
+De uttransporterte fordeles på tre kategorier: asylsøkere med avslag, asylsøkere som skal ha søknaden sin behandlet i annet land (Dublin-saker), og bort- og utviste. Bortvisning skjer med hjemmel i utlendingsloven §§ 17 og 121. Utvisning skjer i hovedsak med bakgrunn i brudd på utlendingsloven (kapittel 8) eller brudd på straffeloven.
 
-Vinning
+PUs rolle i utlendingsforvaltningen utledes av det ansvaret politiet er gitt etter utlendingsloven. Politiet har ansvaret for å avklare om en utlending har lovlig opphold i Norge, herunder adgang til å foreta nødvendige undersøkelser knyttet til identitet slik det fremgår av utlendingsloven § 21. PU har ansvar for ankomstregistrering og ID-fastsettelse av asylsøkere og for uttransportering for asylsøkere med avslag som har oversittet utreisefristen. Dette er oppgaver som alene ligger til særorganet, og hvor PU er gitt et nasjonalt fagansvar. Politiets ansvar for å transportere utlendinger uten lovlig opphold ut av Norge fremgår av § 90 i samme lov. PU skal sikre god ressursutnyttelse og hensiktsmessig bruk av kompetanse, hvor innhenting og utveksling av informasjon mellom etatene er viktig for blant annet å sikre vern for dem som har krav på beskyttelse og å hindre misbruk av asylinstituttet. PUs oppgaver på utlendingsfeltet er i hovedsak forvaltningsoppgaver. Gjennom sin oppgaveløsning inngår PU også i politiets øvrige samfunnsoppdrag.
 
-166
+**<u>\[:figur:figX-X.jpg\]</u>**
 
-121
+1.  <u>Saksgangen i asylsaker</u>
 
-121
+<u>PU</u>
 
-93
+En søknad om beskyttelse (asyl) skal fremsettes for politiet,[^329] hvor PU er tillagt ansvaret for registreringen og innsamling av informasjon av betydning for UDIs saksbehandling. Møter asylsøker først i et politidistrikt, skal det der foretas en forenklet registrering, med mindre annet er avtalt med PU. Ansvarsfordelingen mellom PU og politidistriktene for oppgaver knyttet til asyl, identifisering og uttransportering etter utlendingsloven er regulert i rundskriv fra Politidirektoratet (POD) fra 2012.[^330] PODs rundskriv fra 2015 regulerer politiets ansvar og oppgaver i en ekstraordinær situasjon med store tilstrømninger av asylsøkere og andre migranter til Norge.[^331] Retningslinjer for politiets ankomstregistrering ved søknad om beskyttelse (asyl) følger av UDIs rundskriv fra 2010.[^332]
 
-78
+I likhet med politidistriktene oppretter PU utvisningssaker for brudd på utlendingsloven eller straffeloven, hvor UDI er vedtaksmyndighet.
 
-579
+1.  **<u>Arbeidsdeling mellom politiet og </u><u>ø</u><u>vrig utlendingsforvaltning</u>**
 
-Vold
+Som nevnt avgrenser utvalgets mandat mot behandling av arbeidsdelingen mellom politiet og øvrig utlendingsforvaltning, men for å få en bedre forståelse av den komplekse dynamikken kan det være nyttig å vite at selv om PUs instruks fra 2005 dekker hele returfeltet, også assistert retur, ble assistert retur høsten 2010 formelt overført til UDI og gjennomføres ved hjelp av IOM Norge (International Organization for Migration). PU bistår UDI med assistert ledsaget retur i tilfeller hvor IOM av ulike årsaker ikke kan bistå. Hittil har slike returer med bistand fra PU gått blant annet til Iran, Eritrea, Guinea, Irak, Libanon, Vestbredden og Somalia. PU foretar også en sikkerhetsvurdering av hver enkelt person som søker assistert retur, for å avklare om ledsaget retur er påkrevd av sikkerhetsmessige årsaker. Assistert retur kan avslås av sikkerhetsmessige grunner og returen går da som tvangsretur. PU foretar for øvrig en sikkerhetsvurdering i alle saker der utreisefristen er oversittet.
 
-23
+PU har i 2016 også tatt initiativ til et retursamarbeid med UDI, hvor man i fellesskap informerer asylsøkere på mottak med endelig avslag om så vel assistert retur som tvangsretur. Dette synes å ha resultert i at flere har søkt om assistert retur. Samarbeidet kan bli utvidet til å gjelde flere nasjonaliteter.
 
-22
+Det er nylig gjennomført et tverretatlig prosjektarbeid, benevnt PUMA[^333], med JD som prosjekteier, hvor UDI og PU på bakgrunn av høye asylankomster høsten 2015 arbeidet ut fra en felles målsetting om en sikker og effektiv ankomstfase. Prosjektets mandat var blant annet å levere en felles anbefaling til fremtidig innretning av ankomstfasen. Endelig forslag til nytt konsept for saksflyt og samarbeid i den innledende asylfasen ble presentert 15. desember 2016, men videre utarbeidelse fra konsept til reell organisering av forslagene er per april 2017 ikke klarlagt. Blant de anbefalte tiltakene er bedre sikring av tilstrekkelige personellressurser i førstelinjen, å gi tilgang til spesialistkompetanse tidlig i saksbehandlingen og å legge bedre til rette for politiets tekniske undersøkelser til bruk i registreringssamtaler med søker, samt videre i UDIs asylintervju og saksbehandling. Prosjektet har også funn knyttet til effektivitet, og peker på viktigheten av rask innhenting av nødvendig informasjon og raskere vedtaksfatting, særlig i saker med overveiende sannsynlighet for avslag på søknad om beskyttelse, eller hvor det fremkommer opplysninger om straffbare forhold eller at samfunnets behov for sikkerhet må ivaretas.[^334]
 
-35
+1.  **<u>Dagens organisering av Politiets utlendingsenhet</u>**
 
-27
+Som de øvrige særorganene er PU faglig og administrativt underlagt POD.
 
-58
-
-165
-
-Økonomi
-
-14
-
-12
-
-13
-
-11
-
-11
-
-61
-
-Totalsum
-
-1271
-
-1265
-
-1362
-
-1862
-
-1889
-
-7649
-
-Kilde: UP
-
-vil styrke evnen til å gjøre prioriterte beslag og
-pågripelser mer i tråd med politidistriktets og
-overordnede organs strategier.
-Noen politimestre gir uttrykk for at overføring
-av UP-ressursene til politidistriktene med stor
-sannsynlighet vil føre til at trafikktjenesten vil bli
-nedprioritert. De tilføyer samtidig at dagens trafikktjeneste, i noen tilfelle faktisk har høyere prioritet og større ressursinnsats, enn flere typer
-alvorlig kriminalitet, som for eksempel overgrep
-mot barn og voldtekt. Av den grunn mener de at
-en prioritetsforskyvning kan være nødvendig i
-noen tilfeller.
-
-10.5.3 Bistand og beredskap
-I henhold til UPs mandat og disponeringsskriv
-skal enheten også utøve bistand overfor politidistriktene. Dette omfatter støtte til ulike ordensoppdrag etter bistandsanmodning, samt generell kriminalitetsbekjempelse på vei. Dette innebærer at
-UP gjennom sine operasjoner kan pågripe og
-overlevere personer mistenkt for lovovertredelser
-til nærmeste politistasjon i distriktet.
-UP opplyser at de nesten daglig bistår politidistriktene i pågående operasjoner og hendelser. I
-tillegg til anmodning om å yte bistand i hendelsesstyrte saker får UP henvendelser om å avgi ordinære patruljer for å fylle opp politidistriktets
-turnuser for vakt- og beredskap. Selv om bistanden bidrar til styrket hverdagsberedskap er ikke
-
-hensikten at UP skal dekke politidistriktenes eget
-område, men derimot bistå ved behov der det
-trengs. Det har likevel ikke kommet tilbakemeldinger gjennom samtaler med utvalget eller spørreundersøkelsen som tyder på at UPs bistandsoppgaver har gått på bekostning av trafikksikkerhetsarbeidet.
-I tråd med bistandskrav har UP tidligere tatt
-initiativ til å overta deler av båttjenesten, som i
-dag ligger til lokale politidistrikter, men uten å få
-gjennomslag for dette. Bakgrunnen for UPs
-anmodning var at flere politidistrikt har lite ressurser til å betjene båttjenesten, ikke minst i sommersesongen da behovet er størst. Imidlertid opplever også UP økt aktivitet om sommeren, og en
-overtakelse av båttjenesten vil forutsette økt innbeordring. Det er ikke signaler fra hverken POD
-eller politidistriktene som tyder på at dette er
-aktuelt per nå.
-Noen politiledere påpeker at denne form for
-ressursforskyvning i politiet kan bli vanligere
-fremover og derfor representerer en nødvendig
-fleksibilitet i organisasjonen. Imidlertid mener
-flere politiledere at den fleksible bistandsressursen ikke naturlig tilhører UP og bedre kan utnyttes i politidistriktene. Etter deres mening kan den
-nødvendige fleksibiliteten inkorporeres i politidistriktstrukturen og innarbeides i øvrige planer for
-nabohjelp og beredskapsplaner.
-Meningene om UP som beredskapselement er
-imidlertid delte. Enkelte politimestre mener UPs
-
-[Side 160]
-
-160
-
-Kapittel 10
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-beredskapsinnsats ikke er et godt nok argument
-for å beholde UP som et eget sentralt politiorgan,
-flere mener politidistriktene med de samme ressursene ville hatt bedre styring. Andre mener UP
-kan utgjøre en ekstra ressurs til eksisterende fleksibilitet i distriktene, men at UPs ressurser er vanskelig å regne med. Enkelte politimestre mener
-imidlertid UP utgjør et godt supplement, og ser
-ikke noe problem med at dette medfører at UP
-kan bevege seg litt bort fra opprinnelig mandat.
-I utvalgets spørreundersøkelse rettet mot
-ansatte i politietaten ble det spurt om respondentene opplever at UPs bistandstjenester er tilpasset
-politidistriktenes behov for bistand. I underkant
-av 25 prosent svarte at de var «enig» eller «helt
-enig» i beskrivelsen, mens i underkant av 9 prosent var «uenig» eller «helt uenig». Her svarte
-imidlertid 44 prosent av de 1815 respondentene
-«vet ikke». Dette har dels sammenheng med at
-mange ikke kjenner godt nok til UPs bistandskonsept, noe som kom frem i kommentarfeltene.
-Rundt halvparten av respondentene oppga at de
-«sjelden» eller «aldri» hadde kontakt med UP.
-Responsen var noe bedre på spørsmål om
-hvorvidt UP bidrar til bedre oppklaringsprosent
-på saker i politidistriktet. Her svarte nesten 27
-prosent at de var «enig» eller «helt enig», mens i
-overkant av 10 prosent var «uenig» eller «helt
-uenig». Også her svarte en stor andel «vet ikke».
-Av 1819 respondenter gjaldt dette 43 prosent. I
-kommentarfeltene ble dette hovedsakelig forklart med at det er vanskelig å måle effekten, og
-flere vegret seg derfor for å svare.
-Usikkerheten kom tydeligere til uttrykk på
-spørsmål om hvorvidt UP bidrar til høyere kvalitet
-i tjenesteproduksjonen, eksempelvis gjennom
-færre henleggelser og flere positive påtaleavgjørelser. Her svarte hele 50 prosent av respondentene «vet ikke», mens 22 prosent svarte «enig»
-eller «helt enig». I den andre enden av skalaen
-svarte i underkant av 10 prosent at de var «uenig»
-eller «helt uenig». Responsen var nesten identisk
-på spørsmål om bistand fra UP bidrar til økt effektivitet i tjenesteproduksjonen, eksempelvis gjennom raskere saksgang.
-Det er likevel tydelig at UP har en jevnt over
-god status i politidistriktene. På spørsmål om det
-er god samhandling mellom politidistriktene og
-UP, svarer nesten en tredjedel av respondentene
-at de er «enig» eller «helt enig», mens bare 5 prosent svarer «uenig» eller «helt uenig». Her var
-også andelen som svarte «vet ikke» omtrent som
-over, også her med begrunnelse om manglende
-kunnskap om UPs innsats.
-
-På spørsmål om hvorvidt UPs bistandsressurser oppleves som tilgjengelige, var responsen tilsvarende positiv. Rundt en tredjedel var «enig»
-eller «helt enig», mens i underkant av 5 prosent
-var «uenig» eller «helt uenig». Her svarte 42 prosent av 1816 respondenter «vet ikke».
-I spørreundersøkelsen ble det også stilt spørsmål om hvorvidt det fortsatt bør stilles krav til at
-UP skal yte bistand overfor politidistriktene. Her
-svarte kun 135 respondenter av de som enten har
-eller har hatt tilknytning til UP som innbeordret
-eller kontakt gjennom daglig virke. Nesten 75 prosent svarte «enig» eller «helt enig», mens under
-en prosent svarte «vet ikke». I overkant av en prosent svarte «uenig» eller «helt uenig».
-
-10.5.4 Kompetanse
-Som nasjonalt kompetansesenter for trafikksikkerhet i politietaten driver UP kurs og opplæring
-på sine fagområder, blant annet som instruktører
-ved Politihøgskolen.
-UPs kompetansetiltak utføres gjennom daglig
-virke og bistand overfor politidistriktene. I tillegg
-til aktive kompetansetiltak bidrar UP-mannskaper
-ved tilbakeføring til politidistriktene som viktige
-ambassadører og brobyggere for en styrket
-bevissthet om, og forståelse for, trafikksikkerhetsarbeid i politidistriktene. Over tid bidrar dette
-til å bygge, og forsterke, en kultur for å se trafikksikkerhet som en del av det større kriminalitetsbildet.
-I utvalgets spørreundersøkelse ble samtlige
-respondenter stilt spørsmål om hvorvidt UP utfyller sin rolle som nasjonalt kompetansesenter på
-en god måte. Her svarte 32,5 prosent «enig» eller
-«helt enig», mens 6,4 prosent svarte «uenig» eller
-«helt uenig». I overkant av 40 prosent svarte «vet
-ikke», men flertallet av disse har etter responsen i
-kommentarfeltene lite med UP å gjøre i sitt daglige virke. Det fremgår både av kommentarfeltene, og på spørsmål om tilhørighet i politietaten.
-Det er derfor rimelig å konkludere med at respondentene mener at UP utfyller sin rolle som kompetansesenter på en god måte.
-Rutiner for kunnskapsutveksling mellom UP
-og politidistrikt fungerer i noe mindre grad. Her
-svarte bare i overkant av 17 prosent «enig» eller
-«helt enig», mens 9,5 prosent svarte «uenig» eller
-«helt uenig». Her svarte 51 prosent «vet ikke».
-Dette ble i kommentarfeltene forklart med at
-mange var usikre på effektene og derfor vegret
-seg for å svare.
-En klar overvekt av respondentene ga uttrykk
-for at UP besitter nødvendig spesialkompetanse
-
-[Side 161]
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-for sitt oppdrag. På en skala fra 1 («helt uenig») til
-6 («helt enig»), svarte over 39 prosent at de var
-«enig» eller «helt enig», hvilket ga en gjennomsnittsscore på 4,77. UP vurderes også i noen grad
-å bidra til kompetanseoverføring til politidistriktene (4,05) og anses i hovedsak å ha kapasitet til å
-ivareta generelle behov for kompetanseutvikling
-innenfor sitt fagområde (4,28).
-Det er likevel delte meninger om UPs bidrag
-til kompetanseoverføring til politidistriktene.
-Dette kan dels forklares med manglende kunnskap om denne delen av UPs aktivitet, og dels at
-respondentene har lite med UP å gjøre i sitt daglige virke. Av 1815 respondenter svarte i overkant
-av 45 prosent «vet ikke». Over 23 prosent svarte
-«enig» eller «helt enig», mens 9,5 prosent svarte
-«uenig» eller «helt uenig».
-Dette inntrykket ble forsterket ved at nesten
-like mange var «uenig» eller «helt uenig» i at UP
-har bidratt til uhensiktsmessig forskyvning av
-kompetanse fra politidistriktene, det vil si forskyvning av kompetanse politidistriktene selv bør
-inneha. Her svarte 51 prosent «vet ikke».
-I utvalgets spørreundersøkelse blir det uttrykt
-delte meninger om UPs bidrag til å styrke politidistriktenes kompetanse på etterforskning. På
-spørsmål om UPs bidrag svarte i underkant av 40
-prosent av utvalget «vet ikke», mens de øvrige fordelte seg jevnt på skalaen fra 1 («helt uenig») til 6
-(«helt enig»), hvilket ga en gjennomsnittsscore på
-3,58.
-Det ble også gitt uttrykk for tilsvarende delte
-meninger om UP som pådriver og premissgiver
-for politidistriktenes fag- og metodeutvikling.
-Responsen var noe mer positiv, med en gjennomsnittsscore på 3,81. I denne vurderingen skiller
-UP seg vesentlig ut fra de øvrige særorganene. På
-begge disse spørsmålene svarte til sammen 1826
-respondenter.
-UPs bistandstjenester vurderes til dels å være
-tilpasset politidistriktenes behov (4,07), og oppleves som tilgjengelig (4,45). Videre vurderes samhandlingen med politidistriktene som god (4,48).
-I spørreundersøkelsen ble det også stilt spørsmål om hvorvidt UP fortsatt bør ha funksjon som
-kompetanse- og utviklingsenhet for politietaten.
-Her svarte kun 134 respondenter av de som enten
-har eller har hatt tilknytning til UP som innbeordret eller kontakt gjennom daglig virke. Over 76
-prosent svarte «enig» eller «helt enig», mens 3
-prosent svarte «vet ikke». Her svarte 9 prosent
-«uenig» eller «helt uenig».
-De samme respondentene fikk spørsmål om
-hvorvidt UP bør ha funksjon som nasjonalt kontaktpunkt for internasjonalt samarbeid. Her var et
-
-161
-
-Kapittel 10
-
-stort flertall positive. 60 prosent svarte «enig»
-eller «helt enig», men nesten 10 prosent svarte
-«vet ikke», og ytterligere nesten 15 prosent svarte
-«uenig» eller «helt uenig».
-Ut fra dette synes det likevel klart at de som
-har nær kontakt med UP, har et meget positivt syn
-på enheten, mens det er større usikkerhet om
-effekten i andre deler av politietaten.
-
-10.6 Behovet for et nasjonalt
-trafikkpoliti
-Det er delte meninger om UPs posisjon og hvordan politiets trafikksikkerhetsarbeid skal organiseres. UP har som nevnt vært foreslått nedlagt
-flere ganger, men betydningen for det nasjonale
-trafikksikkerhetsarbeidet og for å redusere antall
-døde og hardt skadde i trafikken, har vært en
-avgjørende faktor hver gang dette har vært til politisk behandling.
-En prinsipiell innvending som blir reist av
-flere, både politiledere og andre innenfor politietaten er om ordningen med et nasjonalt trafikkpoliti
-er en god prioritering av politiets samlede ressurser til effektiv forebygging og bekjempelse av kriminalitet. Flere politiledere mener trafikksikkerhet blir for høyt prioritert sammenlignet med
-andre alvorlige kriminalitetstyper, som seksuelle
-overgrep, profittmotivert kriminalitet, integritetskrenkende kriminalitet og alvorlig organisert kriminalitet.
-Samtidig understreker flere politiledere at UP
-gjør mye bra og viktig for trafikksikkerhetsarbeidet, men også langt ut over dette i form av allmenn kriminalitetsbekjempelse «på hjul». Det blir
-her advart mot å overføre trafikksikkerhetsarbeidet til politidistriktene eller andre virksomheter,
-fordi trafikksikkerhet kan bli en salderingspost.
-Dette var også en vektig innvending blant flere
-politimestre da spørsmålet sist var til politisk
-behandling, i forbindelse med Politireform 2000.56
-I høringsrunden vektla særlig Trygg trafikk at å
-opprettholde UP som synlig politi på veien er den
-beste garanti for en minimumsinnsats innen kontroll og overvåkning av trafikken.
-Det er verdt å merke at den etterfølgende politiske behandlingen i Stortinget synliggjorde et
-sterkt forsvar for å bevare UP. Flere representanter erkjente at UP gjerne utgjorde et brudd med
-organisasjonskartet og at ressursene prinsipielt
-kunne ligge til distriktene, men det avgjørende
-tverrpolitiske syn var at UP utgjorde et effektivt
-56
-
-Ot.prp. nr. 7 (1999–2000) Om lov om endringer i politiloven.
+I takt med økt asyltilstrømning og krav til høyere tall for uttransportering har PU de siste årene blitt tilført økte bevilgninger. Antall ansatte har vokst fra 135 i 2004 til rundt 950 ved utgangen av 2015, men dette tallet er nå på vei ned igjen som følge av redusert asyltilstrømning. Det er ved utgangen av 2016 vel 840 ansatte i PU. PU er organisert som vist i fig. 11.3.
+
+**<u>\[:figur:figX-X.jpg\]</u>**
+
+1.  <u>Organisering av Politiets utlendingsenhet</u>
+
+<u>PU</u>
+
+PUs virksomhet har siden oppstarten vært preget av store svingninger i både ankomsttall og uttransporteringskrav. Dette har skapt uforutsigbarhet for både driftsoppgaver og organisering, herunder bemanning. Som følge av dette har PU vært gjennom flere krevende omstillingsperioder.
+
+Figur 11.4 viser en skjematisk oversikt av PUs kjernefunksjoner og styrings- og støttefunksjoner.
+
+**<u>\[:</u><u>figur:figX-X.jpg\]</u>**
+
+1.  <u>PUs kjernefunksjoner</u>
+
+<u>PU</u>
+
+PU har fire kjernefunksjoner: *registrering*, *ID-fastsettelse*, *uttransport* og *etterretning, kompetansedeling og bistand*.
+
+- *<u>Registering</u>*<u> dekker mottak og registrering av asylsøkere i ankomstfasen og skal sikre en rask og effektiv registrering av høy kvalitet. Funksjonen dekker også undersøkelser av identitet og reiserute, i tillegg til elementer som angår nasjonal sikkerhet, forebygging av kriminalitet, identifisering av sårbare grupper som ofre for menneskehandel og barneekteskap samt annen nøkkelinformasjon som påkreves i andre deler av asylkjeden.</u>
+
+- *<u>ID-fastsettelse</u>*<u> vil som regel starte samtidig med registering, og målet er å fastslå asylsøkerens identitet. Avklart ID er viktig i arbeidet med å ivareta samfunnssikkerhet og bekjempe kriminalitet. I tillegg er det viktig for å sikre riktig saksbehandling og legge til rette for enten opphold eller uttransport. Funksjonen omfatter også bistand til politidistriktene med identitetsundersøkelser i alle typer utlendingssaker.</u>
+
+- *<u>Uttransport </u>*<u>ivaretar uttransportering av utlendinger uten lovlig opphold i Norge, og som ikke reiser frivillig. Dette kan være personer som ikke innvilges beskyttelse, eller personer som er bort- eller utvist. Funksjonen dekker både personer som reiser uledsaget og ledsaget.</u>
+
+- *<u>Etterretning, kompetansedeling og bistand</u>*<u> omfatter arbeidet knyttet til ivaretakelse av PUs rolle som nasjonalt kompetansesenter. Rollen omfatter kunnskaps- og kompetansebygging på utlendingsfeltet samt formidling av dette til andre deler av politiet og andre aktører i utlendingsforvaltningen. Videre omfatter rollen generell rådgivning og støtte til politidistriktene i arbeidet på utlendingsfeltet.</u>
+
+Funksjonene angitt som *direktestøtte* i figur 11.4 er i dagens modell organisatoriske forutsetninger for PUs kjernevirksomhet.
+
+1.  **<u>Ressurser</u>**
+
+Utlendingsfeltet har de siste årene fått stor politisk oppmerksomhet, og PU har fått øremerkede bevilgninger for å håndtere asyltilstrømningen. De siste fem årene er antall ansatte mer enn fordoblet, og på det meste hadde PU nær tusen ansatte, medregnet midlertidige stillinger og engasjementer.
+
+Per 1. januar 2017 hadde PU rundt 850 ansatte, hvorav ca. 310 er operativt godkjente mannskaper. PUs innsatspersonell er i all hovedsak i funksjoner knyttet til PUs operative virksomhet. Av PUs politiansatte ble hele 129 uteksaminert fra Politihøgskolen i 2014 eller 2015.
+
+Tabell 11.1 viser antall fast ansatte i PU i perioden 2012–2016 (midlertidige stillinger er unntatt).
+
+1.  <u>Antall fast ansatte PU i perioden 2012–2016.</u>
+
+|  |  |  |  |
+|----|----|----|----|
+| År/periode | <u>Antall fast ansatte den 31. 12.</u> | <u>Antall fast ansatte den 01.01.</u> | <u>Gjennomsnittsbemanning</u> |
+|  |  |  |  |
+| 2012 | <u>395</u> | <u>361</u> | <u>378</u> |
+| 2013 | <u>438</u> | <u>395</u> | <u>416,5</u> |
+| 2014 | <u>544</u> | <u>438</u> | <u>491</u> |
+| 2015 | <u>594</u> | <u>544</u> | <u>569</u> |
+| 2016 | <u>868</u> | <u>594</u> | <u>731</u> |
+|  |  |  |  |
+
+<u>PU</u>
+
+Figur 11.5 viser budsjettutvikling i perioden 2012–2016 sammenholdt med utvikling i antall fast ansatte (pr. 31.12. angjeldende år).
+
+**<u>\[:figur:figX-X.jpg\]</u>**
+
+1.  <u>Budsjettutvikling sammenholdt med antall ansatte 2012–2016</u>
+
+<u>PU</u>
+
+Budsjettallene omfatter tilleggsbevilgninger på 113,9 millioner kroner i 2015 og 246 millioner kroner i 2016 (post 01 og 21). Tallene omfatter også en tilleggsbevilgning på 19,7 millioner kroner gjennom revidert nasjonalbudsjett (RNB) i 2014. Overføringer fra tidligere år er holdt utenfor. Overføringene utgjorde i 2014 18,3 millioner kroner overført fra foregående år, mens i 2015 og 2016 ble det overført henholdsvis 18,8 og 43,4 millioner kroner fra foregående år.
+
+Utviklingen viser jevnt sammenfall mellom budsjettutvikling og antall ansatte de siste årene. En stor andel av budsjettøkningene, herunder tilleggsbevilgninger, er relatert til utvidelse av utlendingsinternatet og opprettelse av utreisesenteret på Oslo lufthavn.
+
+1.  **<u>Registrering</u>**
+
+Alle som søker om beskyttelse i Norge, skal registrere søknaden sin hos PU, både de som møter direkte hos PU, og de som først møter i politidistriktene og derfra overføres til PU for endelig registrering.[^335] Som hovedregel registreres asylsøker i PUs lokaler i Oslo eller på Ankomstsenteret på Råde, men registreringen kan også gjennomføres andre steder eller ved hjelp av lyd- og bildeoverføring dersom dette er mest hensiktsmessig.
+
+Materiale som sikres i registreringsfasen, kan være egnet som grunnlag for straffesak. I denne fasen samarbeider PU også med PST, lokalt politidistrikt eller Kripos, avhengig av sakens art. I tillegg er det et samarbeid mellom PU og PST, særlig i forbindelse med bekymringsfulle funn og observasjoner gjort i registreringsfasen mv.
+
+Gjennom territorialkontroller avdekker PU personer som kan knyttes til terrorisme, overgrep og krigsforbrytelser. PST mener at det er mulig å trene sivile til å gjøre denne jobben, men mener politiblikket kan være en avgjørende faktor, særlig for å identifisere personer som trenger særskilt oppfølging innenfor nevnte kriminalitetsformer. PST mener at det er sterke faglige argumenter for at registrering av asylsøkere med tilhørende støttefunksjoner bør ligge sentralt – og fortrinnsvis hos PU.
+
+Enkelte politiledere legger til at «politiblikket» er vanskelig å definere, og mener registrering av asylsøkere i stor grad kan gjøres like effektivt av sivilt ansatte med annen kompetanse, som landkunnskap, språk- og kulturkjennskap. Det innrømmes imidlertid at det i enkelttilfeller nok vil være behov for bruk av tvangsmidler i forbindelse med undersøkelse og ransaking, og at begrenset politimyndighet i slike tilfeller vil være nødvendig.
+
+Noen politiledere understreker betydningen av at en asylsøker møter politiet i sitt første møte med det norske samfunnet. Asylsøkere som kanskje har negative erfaringer med politiet fra eget hjemland, kan da møte det norske samfunnet for første gang gjennom et møte med det sivile norske politiet. Politiblikket kan slik virke tillitsbyggende og bidra til starten på de samlede integreringstiltak, under forutsetning av at oppholdstillatelse blir gitt.
+
+1.  **<u>P</u><u>å</u><u>tale</u>**
+
+PU har i dag ikke en egen påtalefunksjon, men har uttrykt ønske om dette. PU viser til at utført arbeid innenfor utlendingslovens hjemler (utlendingsforvaltningen) genererer strafferettslig overskuddsinformasjon, som i dag blir overført til politidistriktene for videre etterforsknings- og påtalemessige vurderinger. Ettersom politidistriktene ofte ikke har kapasitet til å følge opp PUs anmeldelser, mener PU det er nødvendig med ansvar for egen etterforskning og straffeforfølgning knyttet til arbeidet med utlendingssaker. PU mener dessuten at egen påtalemyndighet kunne medført mer effektiv etterforskning og straffeforfølgning.
+
+Selv om PU har tilgjengelige metoder i forvaltningssporet, mener PU det ofte foreligger et behov for å kunne anvende straffsakssporet, herunder å kunne veksle mellom de to sporene. Dette gjelder på alle stadier av utlendingssaken, fra søknadsfremsettelse og frem til utreisetidspunktet. Etter PUs syn vil blant annet påtalekompetanse kunne være et godt virkemiddel i arbeidet med å få flere utlendinger til å dokumentere sin rette identitet allerede når de ankommer og søker asyl.
+
+Etter PUs mening vil det være mer effektivt med ansvar for hele verdikjeden. PU ønsker primært en påtalekompetanse på lik linje med Kripos og PST, gjennom NAST (Nasjonalt statsadvokatembete). En slik kompetanseoverføring medfører en lovendring, der sjefen for PU må inntas i opplistingen av påtalemyndighetens tjenestepersoner i straffeprosessloven § 55 og mandatet for PU utvides.
+
+Dette spørsmålet var til vurdering hos Riksadvokaten i 2016, som konkluderte med at PU ikke bør ha påtalefunksjon. Begrunnelsen var knyttet til at det fremsto som prinsipielt og rettslig uheldig å knytte saksbehandling i forvaltnings- og straffesakssporet for tett sammen. Riksadvokaten mente at en slik sammenblanding kan skape uklarhet om ansvarsforholdene, blant annet om hvem som har instruksjonsmyndighet, eller hvem som er rett klageorgan.[^336]
+
+1.  **<u>Avklaring av identitet</u>**
+
+Betydningen av identitetsarbeidet gjør seg gjeldende på flere områder. PU har ansvar for å avklare identiteten til alle som søker asyl i Norge, og bistår med å avklare identiteten til utlendinger med ulovlig opphold som skal uttransporteres. De har dermed spisskompetanse innenfor identitetsarbeid.
+
+PUs arbeid med ID-fastsettelse er sentralt for politiets arbeid og legger til rette for at retur eller opphold skjer på riktig grunnlag. Identitetsarbeid og retur henger tett sammen, idet avklart identitet er en forutsetning for retur. En effektiv avklaring av identitet korter ned saksbehandlingstiden i utlendingsforvaltningen og medfører at myndighetene unngår å måtte tilbakekalle tillatelser på grunn av uriktig oppgitt identitet. (Se boks 11.4).
+
+1.  **<u>Hvordan foretar PU ID-avklaring?</u>**
+
+ID-arbeidet starter allerede ved PUs registrering av en asylsøker og kan pågå parallelt gjennom hele saksløpet frem til et eventuelt avslag og påfølgende uttransport. PU har en helhetlig og bred tilnærming til ID-arbeidet og kan benytte en rekke ulike metoder. Metodene tilpasses etter søkerens hjemland, foreliggende ID-bevis og hvor saken står i asylsakskjeden. Blant de vanligste er registersøk, språktest, tekniske/elektroniske spor, tvangsmidler (ransaking, undersøkelse av bopel, fengsling), samarbeid med hjemlandets myndigheter om verifisering og tilbaketakelse, dokumentundersøkelse og spaning/etterretning. Videre registrerer PU eventuell tvil om alder for enslige mindreårige asylsøkere der det kan være behov for aldersundersøkelse for å avdekke korrekt alder. Eventuelle videre undersøkelser iverksettes i regi av UDI. Typiske avslagssaker med gode muligheter for retur til hjemland er bestandig prioritert for rask ID-avklaring. PU benytter seg også av ID-samtaler med innsatte på utlendingsinternatet, i fengsler eller på mottak. Saksbehandlere fra PU deltar også i europeisk samarbeid om verifiseringsmuligheter og ID-arbeid opp mot tredjeland.
+
+Når det foreligger et endelig avslag i asylsaken, og personen ikke har overholdt utreisefristen ved å forlate landet på eget initiativ, overføres saksansvaret fra UD/UNE til PU for iverksettelse av retur til hjemlandet. PU vil da undersøke om det er behov for ytterligere ID-avklaring for å få gjennomført uttransport.
+
+Oppsummert vil PU kunne ha grunnlag for å kunne fastslå den enkeltes rette identitet gjennom informasjon fra asylregistreringen, foreliggende dokumenter, opplysninger i politiets og andre registre, ID-etterforskning og verifiseringsarbeid opp mot blant annet hjemlandets myndigheter.
+
+**<u>\[Boks slutt\]</u>**
+
+Det å oppholde seg ulovlig i Norge medfører brudd på så vel norsk utlendingslov som andre lover og regler. Videre har ID-arbeidet en kriminalitetsforebyggende effekt, ved at det bidrar til rask uttransport av straffede og andre med ulovlig opphold i Norge.
+
+Politiets arbeid med identitetsavklaring har samfunnsmessig betydning. Bruk av falsk identitet er i seg selv en kriminell handling. ID-misbruk er ifølge politiet ofte tilknyttet annen form for kriminalitet, og det er antydet store mørketall relatert til ID-misbruk. Ved å oppholde seg ulovlig i landet er den enkelte i større grad tvunget til kriminell aktivitet, i form av svart arbeid, misbruk av velferdsgoder og annen kriminell virksomhet. De som bor utenfor mottak er særskilt representert her, og de er også ekstra sårbare for utnytting og kan bli utsatt som ofre for kriminalitet.
+
+Politiske myndigheter har på bakgrunn av dette uttrykt at det skal satses mer på ID-avklaring i politiet. I Prop. 1 S (2016–2017) (statsbudsjettet) fremgår det:
+
+<u>«Det er viktig at norske myndigheter kjenner identiteten til utlendinger som søker om beskyttelse i Norge. Avklart identitet gir en mer effektiv og sikker saksbehandling i UDI og UNE, og muliggjør flere returer. Samtidig er ID-avklaring sentralt for politiets arbeid med å kontrollere at personer som oppholder seg i landet har tillatelse til å være her. I tillegg er det ut fra et samfunnssikkerhetsperspektiv viktig at myndighetene vet hvem som befinner seg i landet.»</u>
+
+Viktigheten av rask ID-avklaring for de som kommer til landet understrekes av at Utlendingsdirektoratet opplyser at per april 2017 vet ikke myndighetene hvor 4446 personer med avslag på sin søknad om opphold befinner seg.[^337]
+
+PST har på flere områder et omfattende og godt samarbeid med PU, og særlig innenfor asylregistrering og kontroll er PST avhengig av et velfungerende PU.
+
+1.  **<u>Drift av Politiets utlendingsinternat p</u><u>å</u><u> Trandum</u>**
+
+Politiets utlendingsinternat på Trandum blir brukt for å sikre gjennomføring av tvangsreturer i saker med stor rømningsfare. Fengsling skjer etter utlendingsloven. Også personer som ikke samarbeider med norske myndigheter om egen identitetsavklaring, kan bli fengslet på utlendingsinternatet.
+
+Politiets utlendingsinternat ble etablert i 2004[^338] og er etter utvidelser de senere år den tredje største institusjonen i landet for gjennomføring av frihetsberøvelse, med totalt 220 plasser. Internatet er i hovedsak innrettet mot enslige menn, men det er også egne plasser tilrettelagt for enslige mindreårige, kvinner og familier. Utlendingsinternatet er et element i returarbeidet.
+
+I returoperasjoner, hvor det planlegges bruk av egne chartrede fly, er tilgjengelige fengslingsplasser i umiddelbar nærhet av Oslo lufthavn ansett å være en viktig faktor for effektiv planlegging og gjennomføring av operasjonen.
+
+Utlendingsinternatet må ses i sammenheng med Utreisesenteret på Oslo lufthavn, som ble etablert som en organisatorisk enhet i PU i 2014. Utreisesenteret brukes i forkant av en retur og bidrar til økt effektivitet, informasjonsflyt og sikkerhet. Mottak av Dublin-returer til Norge håndteres også av denne enheten. Senterets aktiviteter har i stor grad bidratt til å avlaste PU internt, men avlaster også politidistriktene med oppgaver som henting i fengsel og utreisekontroller. Bemanningen er i hovedsak sivilt personell tildelt begrenset politimyndighet.
+
+1.  **<u>Uttransportering</u>**
+
+PU oppretter i hovedsak bort- og utvisningssaker på bakgrunn av brudd på utlendingsloven, men også på bakgrunn av straffbare forhold begått i Norge eller i utlandet. PU koordinerer alle uttransporter i bort- og utvisningssaker, både fra politidistriktene og de sakene de genererer selv, i tillegg til å iverksette soningsoverføringsvedtak. (Se boks 11.5 og 11.6).
+
+1.  **<u>Hva er uttransportering? </u>**
+
+PU har etter oppdrag fra POD utarbeidet en egen uttransporteringsinstruks som gjelder for hele politiet. Uttransporteringsansvar er i uttransporteringsinstruksen definert å omfatte personer hvor oppholdstillatelsen er utløpt, bort- og utviste, og personer som ikke har reist frivillig fra riket etter endelig negativt vedtak om asyl/opphold. Utlendinger som ikke har lovlig opphold i Norge, har utreiseplikt og skal forlate landet. For at utlendinger skal kunne returneres, må en rekke forutsetninger være til stede. Hvis returforutsetningene ikke er til stede, kan utlendingen ikke returneres. Sakstyper innen uttransportering er assistert retur og tvangsretur, herunder retur etter Dublin-konvensjonen og bort- og utvisningsvedtak av personer uten lovlig opphold.
+
+**<u>\[Boks slutt\]</u>**
+
+1.  **<u>Ulike former for retur</u>**
+
+*Assistert retur*: Personen uten lovlig opphold bestemmer seg selv for å reise. UDI saksbehandler og finansierer returen. Det er ulike støtteordninger og returprogrammer for personer som velger å reise hjem frivillig.
+
+*Ledsaget assistert retur*: Personen uten lovlig opphold bestemmer seg selv for å reise, men kan ikke reise med UDIs program av helse- og sikkerhetsmessige grunner, på grunn av mangel på returprogram til aktuelt hjemland eller som følge av andre forhold som tilsier at politiet må ledsage personen.
+
+*Tvangsretur eller tvangsmessig uttransport*: Personen uten lovlig opphold nekter å reise frivillig, så politiet må pågripe og uttransportere personen mot vedkommendes ønske. Han eller hun er også ansvarlig for kostnadene knyttet til tvangsreturen.
+
+**<u>\[Boks slutt\]</u>**
+
+1.  **<u>Kompetanse</u>**
+
+PU er politiets nasjonale kompetansesenter på asyl- og utlendingsfeltet i politiet og har overlappende interesser med politidistriktenes oppgaveløsning innenfor utlendingsforvaltningen.
+
+PU har inndelt sine kompetansenivåer i henholdsvis *basiskompetanse*, *faglig kjernekompetanse* (generalister), *faglig spesialistkompetanse* (spesialister) og *ledelse*.
+
+*Basiskompetanse* defineres av PU som grunnleggende kompetanse som vanligvis er anvendelig på tvers av en rekke stillinger, oppgaver og funksjoner. PUs basiskompetanse er dels grunnleggende kompetanse virksomheten har et særlig behov for – kompetanse om utlendingsfeltet, politifaglig kompetanse og kompetanse innenfor internasjonalt samarbeid, språk og kultur. Basiskompetansen kan sies å ligge til grunn for utviklingen av de øvrige kompetanseområdene, og for den kompetanseutviklingen som gjennomføres i PU.
+
+Flertallet av PU saksbehandlere er generalister innenfor PUs kjerneoppgaver. Generalister må ha tilstrekkelig høy faglig kompetanse for å opprettholde den kvalitet og den standard som er nødvendig for arbeidet og beskrevet i gjeldende instrukser og rutiner.
+
+Med *faglig* *kjernekompetanse* menes den samlede faglige spisskompetansen i PU. Slik kompetanse er avgjørende for virksomhetens måloppnåelse. For PU omfatter dette samlet kompetanse innenfor utlendingsfeltet, herunder kompetanse vedrørende rettsområde, metodebruk, registrering, identifisering og uttransportering. Kunnskap om geografi, land, religion, internasjonalt samarbeid, språk og kultur er likeledes en kjernekompetanse i alle PUs hovedprosesser. I tillegg kan nevnes IKT-kompetanse, herunder IKT-utvikling.
+
+*Spesialistene* skal bidra til å sikre og videreutvikle faglige kjerneområder og har et faglig veilednings-, opplærings-, oppfølgings- og kvalitetssikringsansvar innenfor eget fagområde. Spesialiststillinger er også et karrieremessig alternativ til lederstillinger.
+
+Fagmiljøer og basiskompetanse bygger på kjerneoppgavene *registrering*, *ID-avklaring* og *uttransport*, og med drift av utlendingsinternatet og utreisesenteret som viktige komponenter i en effektiv verdikjede. Spesialisering knytter seg til de ulike oppgaver og trinn som ligger til fag- og metodebruk på asyl- og utlendingsfeltet. PUs fagavdelinger besitter totalt en kompetanse innenfor til dels svært ulike områder, der noe relaterer seg til oppgaver som PU alene forvalter i norsk politi, mens annen kompetanse er av mer generell art for politiet og tilpasset med bakgrunn i de oppgaver PUs mandat omfatter.
+
+PU har også en juridisk avdeling med ansvar for legalitetskontroll og beslutninger om bruk av tvangsmidler, herunder pågripelser og fengsling. Juridisk avdeling har gjennomsnittlig ca. 900 nye fengslingssaker i året og ca. 350 refengslinger. Gjennom det juridiske arbeidet har PU bygget opp kompetanse som gjør PU til en viktig premissleverandør for regelverksutviklingen på feltet samt at avdelingen bistår distriktene ved forespørsel om juridiske problemstillinger knyttet til utlendingsfeltet. Juridisk avdeling i PU jobber direkte med hele sakskjeden, fra ankomst/registrering til uttransporter, hvor også oppholdet på Trandum inngår.
+
+1.  **<u>Etterretning og analyse</u>**
+
+Koblingen av utlendingsarbeidet mot politiets etterretning er et viktig tiltak. PU benytter Etterretningsdoktrinen i politiet som beslutningsstøtte for kjerneoppgavene ved registrering, i ID-arbeidet og ved uttransport. Taktisk og strategisk etterretning sikrer faglige forankrede beslutninger og en formålsstyrt virksomhet. Dette gir økt effektivitet, samfunnssikkerhet, kriminalitetsbekjempelse og god ID-fastsettelse. Tilgang til politiets registre og politiets metoder er av stor betydning for å få full effekt av etterretningsarbeidet. Solid etterretning på utlendingsfeltet vil etter PUs mening være nyttig for andre deler av politiet og øvrige etater i utlendingsforvaltningen samt som styringsinformasjon for departementet og politiske myndigheter. Som tidligere nevnt oppgir PST å ha stor nytte av PUs etterretningsopplysninger, som de bidrar med.
+
+1.  **<u>Nasjonalt kontaktpunkt</u>**
+
+PU deltar i flere internasjonale fora og er innenfor sitt fagfelt ansvarlig for spesialutsendinger ved norske ambassader i ulike land. PU deler mye informasjon med andre land i Europa og resten av verden gjennom deltakelse i eller kontakt med eksempelvis Europol, Interpol, Frontex, Intergovernmental Cosultations (IGC), International Air Transport Association (IATA) og European Migration Network (EMN).[^339] PU mottar også informasjon gjennom disse nettverkene, som både inngår i operative tiltak og i arbeid med strategiske analyser.
+
+Internasjonalt samarbeid er også med på å danne gode kulturer for erfaringsutvekslinger. Dette gjelder særlig ved retur av personer uten lovlig opphold i Norge eller Europa. Det internasjonale samarbeidet bidrar til å bygge en felles internasjonal plattform for gjennomføring av tvangsreturer. De grunnleggende prinsippene som er vokt frem i det internasjonale samarbeidet er kostnadseffektivitet, god sikkerhet, humanitære rammer og at arbeidet gjennomføres innenfor inngåtte avtaler.
+
+For å kunne påvirke og utvikle dette arbeidet også internasjonalt er det viktig at Norge deltar med personer med politifaglig kunnskap innenfor dette feltet. PU mener at et internasjonalt samarbeid fordrer et nasjonalt kontaktpunkt med operativ erfaring, en rolle PU fyller i dag. Et internasjonalt kontaktpunkt ivaretar kompetanse på ulike internasjonale avtaler, utleveringsavtaler, landinformasjon, førstehåndskunnskap til samfunnsendringer som fører til endringer i uttransporteringsrutinger mv. I tillegg har PU et godt samarbeid med utsendingene fra Politi- og tollsamarbeidet i Norden (PTN), der Kripos er ansvarlig.
+
+PU er også nasjonalt kontaktpunkt for Europol, Focal Point Checkpoint, som arbeider med bekjempelse av menneskesmugling og har fått utvidet ansvar som EMPACT-koordinator (European multidisciplinary platform against criminal threats) innen området menneskesmugling og ulovlig innvandring. Dette er for øvrig det eneste feltet hvor Kripos, som ellers har det generelle ansvaret som kontaktpunkt mot Europol, har overført ansvaret til annen politimyndighet.
+
+1.  **<u>PUs oppgavel</u><u>ø</u><u>sning</u>**
+
+Vurdering av PUs oppgaveløsning innebærer også spørsmål om effektiv og riktig bruk av politikompetanse. PUs oppgavespenn har et forvaltningsmessig preg, men det er også et innslag av politioperative oppgaver, selv om PU i likhet med UP verken har etterforsknings- eller påtalemyndighet.
+
+1.  **<u>Resultatutvikling</u>**
+
+Saksbehandlingstid og oppklaringsprosent er sentrale parametre for politiets måloppnåelse. PU har gjennom disponeringsskriv for 2017 følgende effektmål:
+
+- <u>effektiv registrering</u>
+
+- <u>effektiv avklaring av identitet</u>
+
+- <u>effektiv uttransport</u>
+
+- <u>å styrke kompetanse- og kunnskapsgrunnlag</u>
+
+- <u>yte bistand til politidistriktene</u>
+
+Disse målene var inntil 2014 også supplert med ytterligere hovedmål knyttet til blant annet forebygging og bekjemping av kriminalitet innenfor PUs ansvarsområde.
+
+Innenfor hvert av effektmålene har PU tidligere vært gitt mer detaljerte krav. For inneværende år er det kun stilt detaljkrav til uttransportering av 9000 personer med ulovlig opphold i landet. Tidligere har det blant annet også vært spesifisert:
+
+- <u>måltall for uttransportering av straffedømte personer</u>
+
+- <u>detaljkrav for ulike saksbehandlingstyper</u>
+
+- <u>krav til hurtigbehandling av asylregistreringer (95 prosent innen 24 timer)</u>
+
+- <u>frigjøring av politikraft gjennom større bruk av sivile stillinger</u>
+
+- <u>måltall for kapasitetsøkning ved Politiets utlendingsinternat</u>
+
+- <u>måltall for nedgang i sykefravær</u>
+
+PUs virksomhet har siden oppstarten vært preget av store svingninger i ankomsttallene og en økning i antall returer, slik figur 11.6 viser.
+
+**<u>\[:figur:figX-X.jpg\]</u>**
+
+1.  <u>Antall registrerte asylsøkere og uttransporter 2012–2016</u>
+
+<u>PU og UDI</u>
+
+Dette har skapt uforutsigbarhet for både organisering og driftsoppgaver. Antall asylsøkere har i løpet av de siste to årene endret seg vesentlig, fra ca. 31 000 søkere i 2015 til ca. 3500 søkere i 2016. I 2015 fikk PU tildelt ekstra midler for å takle migrasjonsbølgen, utvide utlendingsinternatet og opprette utreisesenteret.[^340]
+
+1.  **<u>Registrering</u>**
+
+Det er krevende å beregne forventet antall asylsøkere. Ved inngangen av 2015 var PU dimensjonert for et ankomstbilde på rundt 11 000 asylsøkere, mens det totale antall ferdigstilte registreringer endte opp på rundt 17 000.[^341] Innledende registrering ble av sikkerhetsårsaker gjort av samtlige nyankomne asylsøkere i 2015. Dette innebar at alle asylsøkerne ble registrert, og at det ble sikret foto og fingeravtrykk, gjennomgått ID-dokumenter og søkt i ulike systemer – viktige steg i ID-fastsettelsen. For de sakene hvor det var foretatt en innledende registrering, ble det gjennomført en fullverdig registrering i løpet av 2016.
+
+Flere politiledere fremhever det som en styrke at politiet registrerer asylsøkere, fordi dette gir tilgang på nødvendige virkemidler for å screene søkerne. Formålet er å avdekke modus, kriminelle handlinger i hjemlandet eller i andre land og avdekke uriktig identitet, gjennom opptak av fingeravtrykk, tømming av telefoner/PC-er, søk på åpne kilder (*Open-source intelligence*) og dokumentgransking. Under asylregistreringsprosessen kan PU avdekke kriminalitetstyper som menneskehandel og menneskesmugling samt om det foreligger forhold som får innvirkning på søkerens flyktningstatus og asylsak.
+
+Flere politiledere mener derfor dagens ordning der registrering av asylsøkere skjer med et polisiært blikk er en styrke.[^342] Dette synet er også understøttet av PST, som ønsker at registrering av asylsøkere også i fremtiden skjer ett sted. PST foretrekker likevel at asylregistrering heller blir lagt til UDI fremfor politidistriktene, dersom utflytting av oppgaven er aktuelt, ettersom dette bevarer ett kontaktpunkt.[^343]
+
+I utvalgets spørreundersøkelse rettet mot ansatte i politietaten ble det stilt spørsmål om hvorvidt oppgaven med å registrere asylsøkere helt eller delvis kunne overlates andre aktører. Det ble ikke oppstilt *hvilke* aktører, men flere respondenter nevnte alternativer som UDI og politidistriktene i kommentarfeltene. Totalt 1854 respondenter svarte på spørsmålet. Av dem var 34,2 prosent «uenig» eller «helt uenig» i at denne oppgaven kunne overlates til andre enn PU, mens 25,8 prosent var «enig» eller «helt enig», og 15,6 prosent svarte «vet ikke».
+
+1.  **<u>Avklaring av identitet</u>**
+
+Identitetsfastsettelse er en sentral del av kriminalitets- og sikkerhetsarbeidet. I senere år har omfanget av reisedokumenter som fremlegges av asylsøkere vært lavt (mellom 5 og 10 prosent). For asylankomster i 2014 og 2015 har andelen som fremlegger reisedokumenter, imidlertid økt, primært på grunn av mange syrere blant søkerne, og ikke minst at alle som kom over Storskog (over 5000) hadde reisedokumenter. Samtidig har også utbredelsen av falske dokumenter steget. PUs erfaring er at reisedokumenter fra områder hvor innvilgelsesprosenten er høy, øker andelen av fremlagte ID-dokumenter, samtidig som det gir økt utbredelse av uriktige dokumenter.
+
+De siste årene har det vist seg at i underkant av 50 prosent av asylsøkerne frivillig eller etter politiets undersøkelser fremla en form for ID-dokument. Tallet inkluderer alle varianter av ID-dokumenter, uavhengig av ekthet og type dokument.
+
+Det økte antallet asylsøkere som fremviser dokumenter, har ført til at det er store restanser på dokumentundersøkelsene, og PU har ikke per i dag full oversikt over hvor stor andel av disse som er ekte. Problemstillingen kompliseres ytterligere ved at er en betydelig andel forfalskede / korrupt anskaffede pass og andre dokumenter i omløp, hvor mange kan være ekte passformularer med falsk personinformasjon. Avdekking av dette er særdeles tids- og ressurskrevende. Det er derfor ikke samsvar mellom andelen innleverte dokumenter og andelen dokumenterte identiteter.
+
+1.  **<u>Drift av politiets utlendingsinternat</u>**
+
+De aller fleste på utlendingsinternatet på Trandum holdes internert i mindre enn 24 timer, men lengre frihetsberøvelse kan være nødvendig for å få gjennomført tvangsretur eller for å klarlegge identitet.
+
+Driften av utlendingsinternatet er preget av stor utskiftning blant de innsatte og av jevnlige fremstillinger for retten. Ettersom målet er tvangsretur, er det ingen vekt på rehabilitering, men de som oppholder seg på internatet i mer enn to måneder, får aktivitetstilbud.
+
+Etter at oppgraderingen av Trandum ble ferdigstilt i 2013, har det årlig vært i overkant av 3000 innsatte, mens det i foregående år var i overkant av 2000 innsatte per år.
+
+Tilsynsrådet, oppnevnt av Justis- og beredskapsdepartementet, gjennomfører årlig flere både varslede og uanmeldte tilsyn på internatet.
+
+Det er ulike oppfatninger om utlendingsinternatet blant politilederne utvalget har møtt. Flere mener PU utfører en god jobb, og at de også på dette området har gode resultater. Samtidig peker flere andre politiledere på at slike oppgaver ikke kan regnes som en kjerneoppgave for politiet, og i stor grad blir det pekt på Kriminalomsorgen som en naturlig aktør til å ta over driften.
+
+I utvalgets spørreundersøkelse rettet mot ansatte i politietaten ble det stilt spørsmål om hvorvidt drift av Politiets utlendingsinternat på Trandum helt eller delvis kunne overlates andre aktører. Det ble ikke oppstilt *hvilke* aktører, men en rekke respondenter utfylte alternativer i kommentarfeltene. Totalt 1860 respondenter svarte på spørsmålet. Av dem svarte 27,7 prosent at de var «uenig» eller «helt uenig» i at oppgaven kunne overlates til andre enn PU, mens 31,1 prosent var «enig» eller «helt enig» i at oppgaven kunne overlates andre aktører. I kommentarfeltene ble særlig Kriminalomsorgen trukket frem.
+
+1.  **<u>Uttransportering</u>**
+
+Uttransportering har de siste to årene vært det eneste av PUs områder der Politidirektoratet har stilt definerte årlige måltall. Dette kan illustreres i figur 11.7.
+
+**<u>\[:figur:figX-X.jpg\]</u>**
+
+1.  <u>Utvikling i antall uttransporteringer og resultatkrav til antall transporter</u>
+
+<u>Politidirektoratet</u>
+
+Figuren viser PUs måloppnåelse med hensyn til uttransportering per år i perioden 2012–2016, og med unntak av 2016 er målene overoppfylt hvert år.
+
+Fordelingen av hvem som ledsager uttransportene (PU eller politidistriktene) har i senere år prosentvis ligget på rundt 70–30, men har siste år nærmet seg fordelingen 80–20. PUs andel av totale ledsagerverk har økt, noe som må ses i sammenheng med økte måltall for retur. En nærmere analyse av tallene ville antakelig vist at antallet ledsagerverk fra distriktene er rimelig konstant, mens PU selv har dekket inn økningen i returtall. Høye returtall har slik sett i mindre grad påvirket politidistriktenes ressurssituasjon.
+
+Enkelte politiledere stiller spørsmål om hvorvidt uttransportering av personer med avslag på oppholdstillatelse eller som oppholder seg ulovlig i landet, kan regnes som en kjerneoppgave for politiet. PU på sin side mener uttransportering bidrar til allmenn kriminalitetsbekjempelse på flere måter, blant annet ved at PU prioriterer uttransportering (raskere retur) av straffedømte. I tillegg til å oppfylle regjeringens mål om raskere retur bidrar også dette arbeidet til å frigjøre ressurser i straffesakskjeden.[^344]

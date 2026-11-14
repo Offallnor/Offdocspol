@@ -1,998 +1,286 @@
-# NOU 2016: 24, del 38 av 73 (side 410–420)
+# NOU 2016: 24, del 38 av 69
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/1182afc0-nou-2016-24.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-24/id2517932/
 - Original-PDF: https://www.regjeringen.no/contentassets/6fe1d875248042b4a09b43b85aa46832/no/pdfs/nou201620160024000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 9 tabeller, 1 figur, 52 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 410]
-
-408
-
-NOU 2016: 24
-
-Kapittel 17
-
-Ny straffeprosesslov
-
-fører straffeprosessloven § 51, jf. utkastet § 32-12
-annet ledd.
-Et selvsagt utgangspunkt er at loven fortsatt
-må gi uttrykk for den grunnleggende regel at rettskraftige straffedommer avsagt i Norge utelukker
-gjentatt forfølgning for samme forhold.
-Med den definisjon av «administrative sanksjoner» som følger av den nå vedtatte forvaltningsloven § 43, der det kreves at det er tale om reaksjoner som anses som straff etter EMK, bør også
-sperrevirkningen av slike sanksjoner fremgå
-uttrykkelig av straffeprosessloven.
-Videre finner utvalget det klart at påtalevedtak
-som etter våre nasjonale omgjøringsregler har
-vært forutsatt å ha sperrevirkning, bør tas med
-som avvisningsgrunn for domstolene i lovutkastet. Det gjelder påtaleunnlatelser samt henleggelsesbeslutninger (på personnivå), jf. straffeprosessloven § 75 annet ledd, men det samme må
-selvfølgelig også gjelde for andre vedtak som
-avgjør påtalespørsmålet endelig, det vil si vedtak
-om overføring til konfliktråd etter utkastet § 28-4
-eller vedtatt forelegg, jf. utkastet § 28-5.
-I utkastet § 32-12 annet ledd bokstav a til c
-foreslås således følgende norske avgjørelser
-angitt som grunnlag for avvisning av norsk straffesak: rettskraftig dom, endelig avgjørelse av påtalespørsmålet og endelig vedtak om administrativ
-sanksjon. Hvilke utenlandske avgjørelser som må
-eller bør tillegges sperrevirkning, behandles for
-seg i punkt 17.8.2.4.
-17.8.2.4
-
-Særlig om utenlandske avgjørelsers
-rettskraftvirkning
-
-Forbudet mot gjentatt forfølgning etter straffeprosessloven § 51 og EMK P7-4 gjelder som nevnt i
-punkt 17.8.2.1 kun norske avgjørelser, og det
-rettslige utgangspunkt er at avgjørelser truffet av
-utenlandske myndigheter ikke har rettskraftsvirkninger i Norge.85
-Fra dette utgangspunktet gjør straffeloven § 8
-enkelte unntak. Etter bestemmelsen vil det som
-utgangspunkt ikke være adgang til å reise straffesak her i landet dersom det er avsagt endelig dom
-for samme straffbare forhold i utlandet, og dommen omfattes av lov 20. juli 1991 nr. 67 om overføring av domfelte, lov 25. mars 1977 nr. 22 om overføring av straffeforfølging fra eller til et annet
-europeisk land eller internasjonal avtale innenfor
-Schengen-samarbeidet.
-Straffeloven § 8 bygger på og viderefører i all
-hovedsak straffeloven 1902 § 12 a86 og gjennom-
-
-fører Norges folkerettslige forpliktelser til å tillegge utenlandske avgjørelser rettskraftsvirkninger i Norge.87 Samtidig går § 8 noe lenger i å gi
-utenlandske rettsavgjørelser slik virkning enn
-Norge er forpliktet til.88 Endelig dom som går inn
-under lov 20. juli 1991 nr. 67 om overføring av
-domfelte, jf. bokstav b, er således tillagt sperrevirkning selv om loven har regler om soningsoverføring både etter Den europeiske konvensjon om
-internasjonal gyldighet av straffedommer og Den
-europeiske konvensjon om overføring av domfelte,
-og sistnevnte konvensjon ikke har regler om
-negativ materiell rettskraft.89 Lovgiver fant det
-likevel riktig at også dommer som omfattes av
-overføringskonvensjonen, skal ha rettskraftsvirkninger i Norge.90
-Ved vurderingen av hvilke utenlandske avgjørelser som bør tillegges sperrevirkning, er det
-grunn til å skille mellom avgjørelser Norge er
-forpliktet til å gi rettskraftvirkninger, og avgjørelser
-som ikke innebærer en slik forpliktelse.
-Utvalget finner det klart at det på en eller
-annen måte bør fremgå av straffeprosessloven at
-utenlandske avgjørelser etter folkerettslige
-forpliktelser kan sperre for straffeforfølgning i
-Norge. Spørsmålet er hvordan dette skal gjøres,
-og det er i hovedsak to mulige løsninger: Man kan
-angi presist hvilke utenlandske avgjørelser Norge
-er folkerettslig forpliktet til å tillegge sperrevirkning, som i straffeloven § 8, eller man kan
-gjøre slik forpliktelse til lovens kriterium. Utvalget
-har falt ned på det siste som den beste løsning for
-så vidt gjelder straffeprosesslovens regulering,
-først og fremst fordi det her er tale om et dynamisk
-felt. Det kan således dels være uklart hvor langt de
-folkerettslige forpliktelser rekker per i dag, dels
-kan det skje en utvikling over tid. Dessuten er det
-nokså sjelden tale om å avvise en norsk straffesak
-på grunn av en utenlandsk avgjørelse, og i en slik
-situasjon bør ikke straffeprosessloven belastes
-med detaljerte regler om våre folkerettslige forpliktelser. Hvorvidt det kan være grunn til å gi en
-mer detaljert regulering i annet regelverk, behandles kort nedenfor, i punkt 17.8.2.5.
-
-86
-87
-
-88
-89
-
-85
-
-Ot.prp. nr. 56 (1998–99) punkt 7.1.
-
-90
-
-Ot.prp. nr. 90 (2003–2004) s. 406.
-Tre konvensjoner innebærer slik forpliktelse: den europeiske konvensjon 28. mai 1970 om internasjonal gyldighet
-av straffedommer (gyldighetskonvensjonen), den europeiske konvensjon 15. mai 1972 om overføring av strafforfølgning fra eller til annet europeisk land og Schengenkonvensjonen 19. juni 1990.
-Ot.prp. nr. 47 (1990–91) s. 16.
-Ot.prp. nr. 47 (1990–91) s. 3.
-Ot.prp. nr. 47 (1990–91) s. 16.
-
-[Side 411]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-Et siste spørsmål er så om det er enkelte
-utenlandske avgjørelser som norske myndigheter
-ikke er folkerettslig forpliktet til å gi sperrevirkning, som likevel bør ha det etter norsk rett.
-I mange tilfeller vil de hensyn som begrunner
-prinsippet om ne bis in idem, gjøre seg gjeldende
-på samme måte når det er truffet endelig
-avgjørelse i utlandet, som når avgjørelsen er truffet i Norge, og uavhengig av hvilke folkerettslige
-forpliktelser som gjelder. På den annen side er det
-meget vanskelig å overskue hvordan det kan slå
-ut om man tilla påtaleavgjørelser og dommer fra
-ethvert rettssystem sperrevirkning i norsk rett.
-Det vil åpenbart kunne tenkes avgjørelser som
-ikke bør ha slik virkning, herunder fra land som
-står fjernt fra norsk rett i avgrensningen av området for det straffbare og i synet på hva som er en
-adekvat reaksjon. Skulle man åpne for sperrevirkning av enhver utenlandsk avgjørelse – fra
-påtalemyndighet eller domstol –, ville man således
-måtte ha en eller annen begrensende standard. En
-slik vag regulering er ikke ønskelig for spørsmålet
-om når domstolene skal avvise en sak. I en sak
-der det foreligger en utenlandsk avgjørelse uten
-sperrevirkning om samme saksforhold, vil det
-kunne tas høyde for de hensyn som ligger til
-grunn for forbudet mot gjentatt forfølgning gjennom andre regler enn avvisning. Påtalemyndigheten kan således legge vekt på den utenlandske
-avgjørelsen ved utøvelsen av påtaleskjønn, og
-domstolene kan – hvis det kommer til sak – ta
-hensyn til en tidligere avgjørelse ved straffutmålingen, se straffeloven § 84 om fradrag for fullbyrdet strafferettslig reaksjon ilagt i utlandet.
-Utvalget foreslår på denne bakgrunn ingen
-utvidelse av hvilke utenlandske avgjørelser som
-skal tillegges sperrevirkning, men antar at det bør
-være adgang til å bestemme i forskrift at visse
-utenlandske avgjørelser skal ha sperrevirkning
-uavhengig av våre folkerettslige forpliktelser dersom det anses hensiktsmessig. Straffeloven § 8
-første ledd bokstav b gir som nevnt et eksempel
-på det ved at dommer som går inn under lov
-20. juli 1991 nr. 67 om overføring av domfelte, likestilles uavhengig av om Norge er folkerettslig forpliktet til å tillegge avgjørelsene sperrevirkning.
-17.8.2.5
-
-Reguleringen i straffeloven § 8.
-Detaljeringsgrad og plassering
-
-Straffeloven § 8 regulerer «[a]dgangen til å strafforfølge forhold som er pådømt i utlandet». Dette
-er utvilsomt en bestemmelse om negativ rettskraft, som således er av prosessuell karakter. I
-utgangspunktet ville det dermed være nærlig-
-
-409
-
-Kapittel 17
-
-gende å overføre bestemmelsen til straffeprosessloven, og dette ble da også vurdert i forarbeidene til straffeloven:
-«Etter sin art er bestemmelsen av prosessuell
-karakter. Mye kan derfor tale for å plassere den
-i straffeprosessloven, jf punkt 4.1.6. Når departementet likevel velger å beholde den i straffeloven, er det fordi den er nært knyttet til de
-øvrige bestemmelser i kapitlet. Men av pedagogiske grunner bør det samtidig tas inn en henvisning til bestemmelsen fra straffeprosessloven § 51.»91
-I Danmark og Sverige er også rettskraftsvirkningen av utenlandske dommer regulert i straffelovgivningen, se henholdsvis straffeloven § 10 a og
-brottsbalken 2 kap. 10 a §.
-Utvalget er likevel ikke overbevist om at § 8
-har en slik tilknytning til reglene i straffeloven
-kapittel 1 at det taler for å plassere bestemmelsen
-der. Tvert imot synes bestemmelsen å passe
-nokså dårlig inn i kapittel 1 i straffeloven, som har
-overskriften «Straffelovgivningens virkeområde».
-Den internasjonale anvendelsen av ne bis in
-idem-prinsippet må antas å være under utvikling.
-Det er grunn til å tro at Norge vil komme til å
-knytte seg til nye instrumenter som knesetter
-prinsippet. På denne bakgrunn finner ikke utvalget det hensiktsmessig med en uttømmende
-oppregning av våre folkerettslige forpliktelser i
-lov. Dette ville i så fall fordre lovendring hver gang
-Norge tiltrer et nytt instrument som regulerer
-transnasjonal rettskraft av dommer. Oppregningen ville også kunne komme til å bli temmelig
-omfattende i tråd med en slik utvikling.92
-Utvalget foreslår etter dette at straffeloven § 8
-oppheves. En oversikt over hvilke utenlandske
-avgjørelser som sperrer for gjentatt forfølgning
-etter folkerettslig avtale, kan gis i forskrift, fortrinnsvis i ny påtaleinstruks, se punkt 17.8.2.4 og
-29.2.6. I forskrift kan det som nevnt, om det er
-ønskelig, også angis utenlandske avgjørelser som
-skal tillegges sperrevirkning uten at slik virkning
-følger av folkerettslig avtale.
-I utkastet § 32-12 annet ledd bokstav d foreslås
-på denne bakgrunn følgende utenlandske
-avgjørelser angitt som grunnlag for avvisning:
-«utenlandsk avgjørelse som etter folkerettslig
-avtale eller bestemmelse som Kongen kan gi,
-stenger for forfølgning.»
-91
-92
-
-Ot.prp. nr. 90 (2003–2004) s. 193.
-Jf. tilsvarende Betænkning nr. 1488/2007 punkt 19.2.3.1.
-
-[Side 412]
-
-410
-
-NOU 2016: 24
-
-Kapittel 17
-
-17.8.2.6
-
-Ny straffeprosesslov
-
-Særlig om identitetsspørsmålet: Hva er
-«samme forhold»?
-
-Reglene om negativ materiell rettskraft sperrer
-for ny forfølgning av «samme forhold», jf. punkt
-17.8.2.1. Spørsmålet i det følgende er hva som er
-ett og samme forhold. Dette omtales gjerne som
-et identitetsspørsmål.
-Tradisjonelt har man tolket «samme forhold»
-slik at det kreves både faktisk og rettslig identitet.
-Etter tidligere praksis var det således adgang til å
-reise ny sak om samme faktiske forhold dersom
-sakene dreide seg om forskjellige rettslige forhold.93 En forutsetning var at den nye forfølgningen gjaldt et annet straffebud, men ikke enhver
-omsubsumering medførte at forholdet skiftet
-rettslig identitet. Sentralt ved vurderingen stod
-den såkalte interesselæren. Også EMD tolket tidligere rettskraftregelen i EMK P7-4 slik at den
-bare kom til anvendelse dersom den nye saken
-gjaldt et forhold som både faktisk og rettslig var
-identisk med den tidligere forfølgningen.94 I
-storkammerdom 10. februar 2009 i saken
-Zolotukhin mot Russland95 kom EMD imidlertid
-til at identitetsspørsmålet skulle avgjøres etter en
-vurdering av faktum alene:
-«82. Accordingly, the Court takes the view that
-Article 4 of Protocol No. 7 must be understood
-as prohibiting the prosecution or trial of a
-second ‘offence’ in so far as it arises from identical facts or facts which are substantially the
-same. […]
-84. The Court’s inquiry should therefore
-focus on those facts which constitute a set of
-concrete factual circumstances involving the
-same defendant and inextricably linked together in time and space, the existence of which
-must be demonstrated in order to secure a conviction or institute criminal proceedings.»
-Det følger av Høyesterettspraksis at den normen
-EMD har gitt anvisning på i Zolotukhin-saken, må
-legges til grunn av norske domstoler.96 Dette
-innebærer at straffeprosessloven § 51 om rettskraft må tolkes i samsvar med konvensjonsforpliktelsen, jf. også straffeprosessloven § 4 første ledd,
-og bestemmelsen får dermed et videre nedslagsfelt enn etter tidligere praksis.97
-
-Hva som er ett og samme «forhold» etter
-utkastet § 32-12 annet ledd, må på samme måte
-fastlegges i lys av Norges folkerettslige forpliktelser. For så vidt gjelder avgjørelser som har
-sperrevirkning etter EMK P7-4, er det således
-identitetsbegrepet etter konvensjonen som må
-legges til grunn. Tilsvarende gjelder avgjørelser
-som har sperrevirkning etter Den europeiske
-konvensjon om internasjonal gyldighet av straffedommer, Den europeiske konvensjon om overføring av straffeforfølging fra eller til annet europeisk land og Schengenkonvensjonen.98 For
-avgjørelser som er omfattet av utkastet § 32-12
-annet ledd, og som ikke har sperrevirking etter
-folkerettslig avtale – hvilket i første rekke gjelder
-enkelte påtalevedtak, jf. bokstav b –, er det nærliggende at identitetsbegrepet fastlegges etter
-samme kriterier som etter EMK P7-4.99
-Identitetsspørsmål oppstår også etter utkastet
-§ 29-7 første ledd første punktum om påtalemyndighetens adgang til å endre tiltalen. Bestemmelsen, som også kommer til anvendelse under
-hovedforhandlingen, svarer til straffeprosessloven § 254 tredje ledd. Endringsadgangen etter
-første ledd første punktum gjelder bare innenfor
-samme forhold, jf. merknadene til bestemmelsen.
-Avgrensningen av forholdets identitet bør etter
-utvalgets syn skje etter de samme kriterier som
-etter regelen om negativ materiell rettskraft, altså
-ut fra hva som er samme faktiske forhold. Bakgrunnen er følgende: Hvis påtalemyndighetens
-adgang til å endre tiltalen avgrenses snevrere enn
-omfanget av den negative materielle rettskraft, vil
-det medføre at bestemmelser påtalemyndigheten
-ikke har hatt mulighet til å bringe inn i saken
-under hovedforhandlingen, omfattes av rettskraften.100 Dette ville begrense mulighetene for å
-rette opp feil og kunne føre til at rettskraftregelen
-får uheldige utslag.
-Videre oppstår spørsmålet om hva som er
-samme forhold i relasjon til utkastet § 32-3 om
-rettens forhold til partenes krav og påstander mv.,
-jf. annet ledd annet punktum: «Ved avgjørelsen av
-skyldspørsmålet kan retten ikke gå utenfor det
-forhold som er beskrevet i tiltalen, men den er
-ikke bundet av tiltalens nærmere angivelse av tid,
-sted og andre omstendigheter.» Bestemmelsen
-gjelder kun rettens adgang til å fravike det fak97
-
-93
-
-Holmboe og Jahre (2011) punkt 3.2.
-Holmboe og Jahre (2011) punkt 3.2.
-95
-Zolotukhin mot Russland (14939/03), dom 10.02.09.
-96
-Rt. 2010 s. 72 (avsnitt 13) og Rt. 2010 s. 1121 (avsnitt 28).
-94
-
-Holmboe og Jahre (2011) punkt 6.1.1, jf. Rt. 2010 s. 454. Se
-også Rt. 2011 s. 172 (avsnitt 18).
-98
-Om identitetsbegrepet etter Schengenkonvensjonen artikkel 54, se Rui (2010) punkt 4.
-99
-Se nærmere Torgersen (2012) s. 213.
-100
-Rui (2009b) s. 297.
-
-[Side 413]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-her til Matningsdals kommentar om rekkevidden av dobbeltforfølgningsvernet i forhold til
-inndragningsak som reises etter at straffekravet er avgjort. Videre fremstår lovendringen som forholdsvis upraktisk. En senere
-inndragningssak vil normalt reises på bakgrunn av at det tilkommer nye opplysninger i
-saken, opplysninger som setter inndragningsspørsmålet i et nytt lys. Normalt vil inndragningsspørsmålet av prosessøkonomiske grunner avgjøres og iretteføres samtidig med
-straffespørsmålet. Det vil da ikke være noe
-behov for å varsle om en senere inndragningssak. Slik loven nå er utformet, vil den ha den
-effekt at det rutinemessig må tas forbehold om
-å reise senere inndragningsak i alle saker idet
-en må gardere seg i tilfelle det dukker opp nye
-opplysninger som tilsier inndragning. Endelig
-fremstår endringen av strpl § 51 annet ledd å
-gå lenger enn det som er nødvendig ut fra den
-begrunnelse som gis i Ot.prp.nr.90. Hvis varsling er nødvendig i forhold til senere sak om
-utvidet inndragning, burde varslingsplikten
-vært begrenset til dette og ikke omfattet alle
-typer inndragning.»103
-
-tiske grunnlaget i tiltalen. System- og koherenshensyn tilsier at spørsmålet om hva som er
-samme faktiske handling, som utgangspunkt bør
-avgrenses på samme måte som etter rettskraftregelen.101 Dette innebærer at retten vil ha
-samme mulighet til å fravike tiltalens faktiske
-grunnlag som påtalemyndigheten har til å endre
-det. En mer begrenset adgang ville innebære at
-påtalemyndigheten i for stor grad kunne binde
-rettens bevisvurdering, hvilket ville være prinsipielt problematisk. Spørsmålet om rettens adgang
-til å fravike rettsanvendelsen i tiltalen er nærmere
-behandlet i punkt 17.6.4.
-17.8.2.7
-
-Inndragning etter rettskraftig dom
-
-Det er en viss usikkerhet om hvilke typer inndragning som kan bli ansett som straff i relasjon til
-EMK, og det er således også noe uklart i hvilken
-grad en rettskraftig straffedom kan sperre for
-senere inndragningssak som springer ut av
-samme forhold. Ved ikrafttredelsen av straffeloven 15. oktober 2015 ble straffeprosessloven
-§ 51 gitt et nytt annet ledd som avklarer forutsetningene for å reise slik ny inndragningssak.
-Bestemmelsen åpner i korthet for at det
-senere fremmes sak om inndragningskrav som
-ikke er avgjort i den første saken. En forutsetning
-er etter annet ledd tredje punktum at «tiltalte varsles om at slik sak vil bli fremmet» før hovedforhandling i straffesaken starter, før tilståelsesdom
-avsies, eller før forelegg vedtas. Etter fjerde punktum har straffedommen positiv rettskraftvirkning
-i inndragningssaken; avgjørelsen av skyldspørsmålet «legges uprøvd til grunn i den senere inndragningssaken i den utstrekning den er avgjørende for spørsmålet om inndragning». Dette
-innebærer at den etterfølgende inndragningssaken – for det tilfellet at det er tale om en form
-for inndragning som anses som straff etter EMK –
-kan ses som en del av den samlede reaksjonsfastsettelse for det forhold sakene gjelder.102
-I høringen i tilknytning til straffelovens
-ikrafttredelse uttalte Oslo statsadvokatembeter
-seg kritisk til straffeprosessloven § 51 annet ledd:
-«Etter vår oppfatning er endringen av strpl § 51
-annet ledd problematisk av flere grunner. Dels
-er det slik at loven synes å gå lenger enn det
-som er nødvendig i forhold til EMK. Det vises
-101
-102
-
-Se i denne forbindelse Rt. 2011 s. 172 (avsnitt 18 og 19).
-Et slikt perspektiv er lagt til grunn i Ot.prp. nr. 90 (2003–
-2004) s. 359–360 med henvisning til EMDs avgjørelse i
-Phillips mot Storbritannia (41087/98, dom 05.07.01).
-
-411
-
-Kapittel 17
-
-På denne bakgrunn foreslo Oslo statsadvokatembeter at § 51 annet ledd tredje punktum oppheves, eventuelt at varslingsplikten begrenses til
-utvidet inndragning etter straffeloven § 68.
-Departementet uttalte at det «har merket seg
-innspillet, men peker på at et slikt forslag ikke
-kan vurderes i en ikraftsettingsomgang hvor det
-er tale om å sette i kraft en allerede vedtatt
-bestemmelse».
-Utvalget har vurdert om dagens regulering
-bør videreføres, og kommet til at den bør det.
-Det råder fortsatt en viss uklarhet om hvilke
-former for inndragning som vil bli ansett som
-straff etter EMK. Utvidet inndragning vil nokså
-klart måtte vurderes som straff i relasjon til
-dobbeltforfølgningsforbudet. Det samme er nærliggende å anta for brutto inndragning av
-utbytte,104 og for øvrig vil spørsmålet etter
-omstendighetene kunne stille seg nokså tvilsomt
-for ulike typer inndragning. I en slik situasjon er
-det ønskelig med en enkel regel som avklarer
-situasjonen. Hever man blikket fra den enkelte
-sak, vil det formentlig også virke effektiviserende med en regel som i straffeprosessloven
-§ 51 annet ledd. Påtalemyndigheten vil vite at
-den rutinemessig i forbindelse med straffesaken,
-103
-104
-
-Gjengitt i Prop. 64 L (2014–2015) s. 132–133.
-J.P. Rui (2015).
-
-[Side 414]
-
-412
-
-Kapittel 17
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-så langt det lar seg gjøre, må sørge for alle
-nødvendige avklaringer av betydning for inndragningskravet. Utvalget har vanskelig for å se
-at en videreføring av dagens regulering vil «ha
-den effekt at det rutinemessig må tas forbehold
-om å reise senere inndragningssak i alle saker
-idet en må gardere seg i tilfelle det dukker opp
-nye opplysninger som tilsier inndragning».
-Utgangspunktet må klart nok være det motsatte;
-
-dersom det ikke foreligger opplysninger som tilsier (ytterligere) inndragningskrav, skal slikt
-krav ikke varsles, og saken vil bli endelig avgjort
-også for så vidt gjelder inndragningsspørsmålet.
-Nye opplysninger vil – her som ellers – eventuelt
-måtte vurderes etter reglene om gjenåpning til
-skade for mistenkte. Det vises til utkastet §§ 28-5
-tredje ledd og 32-13 og merknadene til bestemmelsene.
-
-[Side 415]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-413
-
-Kapittel 18
-
-Kapittel 18
-
-Tingrettens behandling av straffekravet
-og forsvareren at retten blir nødt til å treffe en
-avgjørelse under saksforberedelsen.»1
-
-18.1 Forberedelse til hovedforhandling
-18.1.1 Oversikt
-I det store flertall av straffesaker er saksforberedelsen relativt begrenset. Det vanlige er at påtalemyndigheten etter § 262 oversender tiltalebeslutning og summarisk bevisoppgave til retten ved et
-skriv der det kort angis hvor lang tid som bør settes av til hovedforhandling. Dessuten adresseres
-særlige spørsmål av betydning for gjennomføringen av saken, blant annet om det skal benyttes
-telefonavhør av vitner, om det er behov for tolk,
-osv. Ut over dette gis vanligvis ikke noen nærmere redegjørelse verken for saken eller bevisene
-som ønskes ført.
-På grunnlag av oversendelsen oppnevner retten forsvarer for tiltalte og berammer hovedforhandling, jf. §§ 262 annet ledd og 275. Når stevning og tiltalebeslutning går til forkynning for tiltalte, skal påtalemyndigheten samtidig sende kopi
-av tiltalebeslutningen, bevisoppgaven og øvrige
-saksdokumenter til forsvareren, jf. § 264 første
-ledd. Forsvarer kan supplere påtalemyndighetens
-bevisoppgave og begjære ytterligere bevisinnhenting, jf. §§ 265 og 266.
-Det er således partene som tar initiativet
-under saksforberedelsen, og noen utstrakt plikt
-for retten til å drive aktiv saksstyring er det ikke.
-Andenæs og Myhrer beskriver forholdet mellom
-aktørene slik:
-«Rettens leder tar som regel ikke noen aktiv
-del i saksforberedelsen. Det regnes som en fordel at han kommer med åpent sinn til hovedforhandlingen. Under hovedforhandlingen har
-retten plikt til å sørge for at saken blir fullstendig opplyst (§ 294). Man har regnet med at når
-det er partene som er pålagt ansvaret for forberedelsen, vil retten under hovedforhandlingen
-lettere kunne påby bevisførselen supplert uten
-på noen måte å føle seg bundet av tidligere disposisjoner […]. Når tiltalte har forsvarer er det
-bare ved uenighet mellom påtalemyndigheten
-
-Etter at dette ble skrevet, har nok saksmengden
-økt betraktelig, samtidig som det er flere kompliserte saker, flere langvarige hovedforhandlinger
-og flere saker med fremmedspråklige tiltalte og
-vitner. Dette gjør at det ikke lenger er hensiktsmessig med passive dommere som bare avgjør
-tvister under saksforberedelsen og for øvrig stiller
-med «blanke ark» til hovedforhandlingen. Det er
-ikke på noe annet felt i samfunnet opphøyd til et
-ideal å møte uforberedt, og det bør etter utvalgets
-syn heller ikke være det ved behandlingen av
-straffesaker. Det vises til utvalgets generelle overveielser om dommerstyrt saksbehandling i punkt
-17.1.3.
-Muligheten for å legge til rette for en forsvarlig, konsentrert og effektiv behandling av straffekravet etter tiltale vil som regel være størst under
-saksforberedelsen. På dette stadiet ligger forholdene normalt til rette for at retten og partene kan
-avklare aktuelle spørsmål, og for at det legges en
-nærmere plan for den videre behandlingen. Avklaringer forutsetter imidlertid at domstolene og de
-øvrige aktørene har nødvendige ressurser, og at
-det settes av tid. Hvorvidt det er hensiktsmessig
-med avklaring og planlegging forut for forhandlingene, beror blant annet på om det samlet sett vil
-føre til ressursbesparelser.
-I det følgende drøfter utvalget hvorvidt det
-bør innføres regler om ytterligere saksforberedelse i straffesaker, herunder om saksforberedelsen i større grad bør skje etter tilsvarende
-mønster som i sivile saker. I punkt 18.1.2 drøfter
-utvalget om det bør gjelde ulike behandlingsspor
-for henholdsvis små og store saker. I punkt
-18.1.3 til 18.1.9 går utvalget nærmere inn på
-hvilke rammer som bør gjelde for saksforberedelsen, herunder hvilke virkemidler retten bør
-ha til rådighet med sikte på saksstyring, planlegging og avklaring. Reglene om frist for hoved1
-
-Andenæs og Myhrer (2009) s. 389.
-
-[Side 416]
-
-414
-
-Kapittel 18
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-forhandling og forhåndsberammelse er omtalt i
-punkt 18.1.10.
-18.1.2 Ulike behandlingsspor for små og store
-saker?
-Behovet for saksstyring og avklaringer under
-saksforberedelsen beror som et utgangspunkt på
-sakens størrelse og kompleksitet. Det er grunn til
-å forvente at man i større straffesaker vil tjene på
-å sette av tid til å avklare spørsmål og legge en
-plan for gjennomføringen av forhandlingene.
-Sentrale temaer for avklaring er omfanget av
-bevisføringen og samordning dersom flere saker
-er forent til felles behandling.
-I de minste sakene vil man oftest være best
-tjent med å gå rett til forhandlingene uten noen
-egentlig saksforberedelse. Er faktum begrenset
-og bevisene få, vil aktørene enkelt danne seg et
-bilde av hva som vil kreves under forhandlingene, og for retten er det ikke behov for mer
-forhåndskunnskap om saken enn det som fremgår av tiltalebeslutningen og bevisoppgaven,
-eventuelt supplert med praktiske opplysninger
-om påtalemyndighetens syn på hvor lang tid som
-bør avsettes til hovedforhandling, om det er
-behov for tolk, hvorvidt det kreves åstedsbefaring mv. Samtidig er det slik at det er de minste
-sakene det er klart flest av,2 og små effektivitetsgevinster i hver sak vil dermed gi store utslag i
-sum.
-De ulike hensyn som gjør seg gjeldende, gir
-grunn til å stille spørsmål om hvorvidt det vil være
-hensiktsmessig å etablere to behandlingsspor
-med ulike regler for saksforberedelse, ett for små
-saker og ett for større saker.
-Et slikt skille finnes i tvisteloven, der det er gitt
-egne bestemmelser om forenklet behandling av
-småkrav, det vil si saker der tvistesummen er
-under 125 000 kr (småkravsprosess). De forenklede reglene for småkravsprosess kan også
-benyttes dersom begge parter samtykker og retten beslutter det, eller dersom saken ikke gjelder
-formuesverdier, retten finner det forsvarlig og
-hensiktsmessig, og ingen av partene motsetter
-seg det.
-I straffeprosessloven finnes det et system for
-forenklet pådømmelse ved tilståelsesdom, jf.
-straffeprosessloven § 248. Ordningen krever imidlertid at det foreligger en uforbeholden tilståelse,
-og at ytterligere betingelser er oppfylt, og forutsetter begjæring om slik behandling fra påtalemyndigheten og samtykke fra siktede.
-2
-
-Jf. Kjelby og Skyberg (2016) punkt 3.2.
-
-Spørsmålet om å etablere et eget behandlingsspor for mindre saker har vært et tema de siste
-par årene, særlig i tilknytning til saker der det er
-risiko for at mistenkte vil unndra seg straffeforfølgning. I høringsnotat 10. april 2015 fremmet
-Justis- og beredskapsdepartementet forslag til
-prøveprosjekt i Oslo for raskere gjennomføring av
-straffesaker (hurtigspor):
-«Departementet foreslår i dette høringsnotatet
-regelendringer for å etablere et prøveprosjekt
-med et såkalt hurtigspor for straffesaker i Oslo.
-Hensikten er at saker med et klart og oversiktlig bevisbilde hvor det er unndragelsesfare
-skal pådømmes i Oslo tingrett snarlig etter
-pågripelse, og at eventuelle anker raskt blir
-behandlet av Borgarting lagmannsrett og
-Høyesterett.
-Det er videre ønskelig at domfelte soner
-straffen umiddelbart etter rettskraftig dom.
-Der det er aktuelt skal det raskt fattes utvisningsvedtak med påfølgende transport ut av
-landet.»3
-I forlengelsen er det i Oslo tingrett fra 1. september 2016 igangsatt et hurtigbehandlingsprosjekt
-for rask iretteføring av straffesaker mens siktede
-er pågrepet eller varetektsfengslet. Målet er at
-hovedforhandling skal avholdes innen første
-fengslingsperiode, fortrinnsvis innen 14 dager. I
-utgangspunktet omfatter prosjektet mindre saker
-som kan medføre ubetinget fengselsstraff, og
-hvor det på grunn av unndragelsesfare er aktuelt
-med varetektsfengsling frem til hovedforhandling.
-I statsråd 7. mai 2015 ble det oppnevnt et
-offentlig utvalg som skal utrede særdomstoler for
-barne- og familiesaker og forvaltningsdomstol for
-utlendingssaker, og som dessuten skal vurdere
-spørsmål om hurtigspor i de alminnelige domstolene for enkelte typer straffesaker. Utvalget
-skal særlig vurdere om det er sakstyper der hurtigere behandling vil kunne forhindre at personer
-kan unndra seg straffansvar eller medvirke til en
-bedre samlet ressursutnyttelse. Utvalget skal
-levere sin utredning innen 31. januar 2017.
-Straffeprosessutvalget foreslår å videreføre
-ordningen med pådømmelse ved tilståelsesdom
-med enkelte endringer, jf. punkt 18.3. Benyttes
-denne behandlingsformen, vil det i alminnelighet
-ikke være behov for annen saksforberedelse enn
-den som kan skje uformelt.
-Slik utvalget vurderer det, er det vanskelig å
-finne egnede kriterier for ytterligere sporvalg.
-3
-
-Justis- og beredskapsdepartementet (10.04.15), punkt 1.1.
-
-[Side 417]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-Selv om behovet for mer utførlig saksforberedelse som utgangspunkt er ulikt i små og større
-straffesaker, kan det etter omstendighetene
-melde seg et slikt behov i de aller fleste sakstyper. En kunne løse dette ved å åpne for at retten
-etter en vurdering i det enkelte tilfelle gis adgang
-til å overføre en sak fra ett prosessuelt spor til et
-annet, men mye av gevinsten ved en modell bygget på sporvalg ville i så fall gå tapt.
-Utvalget er på denne bakgrunn kommet til at
-reglene om saksforberedelse bør gjelde generelt,
-uavhengig av sakens art og størrelse. Reglene i
-utkastet gir anvisning på en grunnleggende
-fremgangsmåte som skal benyttes i alle saker, jf.
-§§ 34-1 til 34-6. Reglene er imidlertid fleksible og
-åpner for at mindre saker kan behandles med en
-helt begrenset saksforberedelse. Muligheten for
-hurtigbehandling av enkelte saker er således
-ivaretatt. Samtidig gis retten adgang til å benytte
-ulike virkemidler for avklaringer og planlegging
-mv. ut fra behovet i den enkelte sak, jf. utkastet
-§§ 34-7 til 34-12. De ulike elementer i saksforberedelsen, herunder virkemidler retten kan velge å ta
-i bruk, behandles nærmere i det følgende.
-18.1.3 Tilsvar
-Av hensyn til det videre saksopplegget vil det
-være hensiktsmessig både for aktor og for retten
-å få klargjort hvilke spørsmål tiltalte og forsvarer
-anser som omtvistet, før hovedforhandlingen
-starter. I saker der mistenkte har forsvarer, bør
-det derfor kreves at forsvarer skal gi tilsvar til
-påtalemyndighetens oversendelse av saken til
-retten, jf. utkastet § 34-4.
-Kravet om tilsvar medfører imidlertid ingen
-plikt til å gi nærmere bestemte opplysninger, og
-forsvareren skal vurdere hvilke opplysninger det
-vil være forenelig med forsvareroppdraget å gi på
-dette stadiet. Det skal ikke utøves noen form for
-press overfor mistenkte og forsvareren når det
-gjelder å avklare spørsmål. Se nærmere punkt
-17.1.3. De andre aktørene må være seg bevisst at
-forsvaret kan ha et annet perspektiv på saken og
-ha foretatt overveielser på et annet grunnlag enn
-påtalemyndigheten. En forutsetning er at dette
-privilegiet for forsvaret ikke misbrukes, og det må
-derfor blant annet kunne forventes at det gis opplysninger om bevis forsvaret vet skal føres. Se
-også punkt 20.4.2.1 om situasjonen ved anke.
-I mange saker vil det ikke være behov for tilsvar, og utkastet åpner for at retten kan beslutte at
-tilsvar kan unnlates. Det vil særlig være aktuelt å
-treffe slik beslutning i små og enkle saker som
-skal behandles hurtig.
-
-415
-
-Kapittel 18
-
-18.1.4 Rettens plan for behandlingen
-Et generelt utslag av prinsippet om saksstyring er
-at retten skal sørge for at behandlingen skjer planmessig. Behovet for planmessighet gjør seg imidlertid særlig gjeldende under saksforberedelsen,
-hvor hovedformålet nettopp er å sørge for nødvendige avklaringer og en plan for den videre behandlingen av saken.
-Utkastet § 34-7 første ledd bestemmer således:
-«Retten skal legge en plan for den videre behandlingen, herunder fastsette frister for innlegg fra
-partene og treffe nødvendige beslutninger, jf.
-§ 30-1 annet ledd.» Bestemmelsen svarer til tvisteloven § 9-4 annet ledd første punktum.
-Planen vil kunne fungere som en sikkerhet for
-at nødvendige spørsmål er avklart, være et nyttig
-styringsverktøy for retten og sikre partene og
-øvrige aktører forutberegnelighet med sikte på
-den videre behandling.
-Også andre enn aktørene vil kunne ha nytte av
-at opplegget for hoved- eller ankeforhandlingen
-blir nedfelt. Det vil således være verdifullt at
-vitner og sakkyndige i god tid får beskjed om når
-de skal møte. I større saker av offentlig interesse
-vil det dessuten være av betydning at det blir klart
-når det skal forhandles om sakens ulike temaer.
-Utkastet forutsetter ikke at planen alltid formaliseres skriftlig, og i små og enkle saker vil det
-ikke være behov for noen plan utover det som følger av alminnelige rutiner ved domstolen. Hvorvidt det skal utarbeides en skriftlig plan, må bero
-på behovet i den enkelte sak, men skal dette virkemidlet kunne fungere som styringsverktøy under
-hovedforhandlingen, må det foreligge en formalisert plan som partene er innforstått med. Dersom
-planen fastsettes i saksforberedende rettsmøte
-(planmøte), jf. punkt 18.1.5, skal den nedtegnes
-etter reglene om føring av rettsbok, på samme
-måte som i sivile saker.
-Planen bør angi sakens tidsrammer, sakens
-temaer, tidspunkter for bevisføring og andre forhold av betydning, som for eksempel når det skal
-innkalles tolk. Temaer som typisk er aktuelle, er
-nærmere angitt i utkastet § 34-7 annet ledd.
-18.1.5 Saksforberedende rettsmøte
-Reglene om rettsmøte for behandling av spørsmål
-som nevnt i straffeprosessloven § 272 suppleres
-av § 274 annet ledd, som gir en generell adgang til
-å avholde rettsmøte under saksforberedelsen. Det
-er opp til rettens skjønn å avgjøre om adgangen
-skal benyttes. Selv om det ikke fremgår uttrykkelig av loven, har tiltalte krav på varsel om retts-
-
-[Side 418]
-
-416
-
-Kapittel 18
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-møter under saksforberedelsen.4 Det samme gjelder formentlig fornærmede og etterlatte med
-bistandsadvokat.5 Saksforberedende rettsmøte
-kan ikke gjennomføres som fjernmøte.
-Verken straffeprosessloven §§ 272 eller 274
-annet ledd er til hinder for uformell kontakt mellom retten og de øvrige aktørene.6 I større straffesaker er det relativt vanlig å avholde uformelle
-møter mellom aktørene under saksforberedelsen
-om praktiske spørsmål knyttet til sakens gjennomføring. Tiltalte, fornærmede og etterlatte er som
-regel ikke til stede i slike møter, og selv om
-møtene ikke munner ut i bindende avtaler, blir
-opplegg det er enighet om, i praksis fulgt. At det
-har vært enighet, kan også få betydning dersom
-det senere skal treffes formell avgjørelse om
-spørsmål som har vært drøftet.7
-Etter tvistelovens regler om allmennprosess
-skal det som regel holdes planmøte straks tilsvar
-er inngitt, og retten skal etter drøftelse med partene legge en plan for den videre behandlingen av
-saken, jf. tvisteloven § 9-4. Planmøtet er et rettsmøte, men kan gjennomføres som fjernmøte. I
-praksis skjer gjennomføringen per telefon, og det
-vanlige er at kun partenes prosessfullmektiger
-deltar. Det er adgang til skriftlig avklaring dersom
-«sakens framdrift tilsier det, eller drøfting i rettsmøte åpenbart er unødvendig». Erfaringene med
-planmøte i sivile saker synes i all hovedsak å være
-gode.8
-Utvalget mener det ikke bør innføres en
-hovedregel om planmøte i straffesaker etter
-modell av tvisteloven. Dels har partenes autonomi
-mindre gjennomslag i straffeprosessen, og det vil
-derfor ikke være samme mulighet for formell tilskjæring av saken, se punkt 17.1.3. Dels vil slike
-møter ofte være overflødig i småsaker, og en for
-vidtrekkende presumsjon om behov for rettsmøte
-kan lede til at møtet blir en ren formalitet som
-innebærer unødig ressursbruk. Hvorvidt det skal
-finne sted planmøte i form av et saksforberedende
-rettsmøte, bør derfor som i dag overlates rettens
-skjønn i lys av behovet for å sikre forsvarlig og
-konsentrert behandling, jf. utkastet § 34-9 første
-punktum.
-Det er imidlertid viktig å legge til rette for at
-saksforberedende rettsmøte, herunder planmøte,
-kan bli et praktisk og effektivt verktøy. Det bør
-derfor åpnes for at slike kan gjennomføres som
-4
-5
-6
-7
-8
-
-Bjerke, Keiserud og Sæther (2011) s. 350.
-Straffeprosessloven § 93, b jf. § 243 annet ledd.
-Bjerke, Keiserud og Sæther (2011) s. 1002.
-Domstoladministrasjonen (2011) s. 25.
-Justis- og beredskapsdepartementet (2013) s. 41 og 44.
-
-fjernmøte, hvilket det vil være adgang til på bakgrunn av utvalgets forslag til ny § 122 a i domstolloven, se punkt 6.4.5.3. Det bør også ved behov
-være adgang til å avholde saksforberedende rettsmøte uten at tiltalte, fornærmede og etterlatte innkalles, når deres tilstedeværelse ikke er nødvendig, jf. utkastet § 34-9 annet punktum.
-Utvalgets forslag utelukker ikke at avklaringer
-kan skje ved uformell kontakt mellom retten og
-påtalemyndigheten, forsvareren og bistandsadvokaten.
-18.1.6 Avgjørelser under saksforberedelsen
-Straffeprosessloven § 272 gir retten adgang til å
-treffe visse avgjørelser allerede under saksforberedelsen, blant annet om avvisning av saken, frifinnelse av tiltalte fordi forholdet beskrevet i tiltalen ikke er straffbart, avskjæring av bevis, fjernavhør av vitner mv.
-Lovutkastet viderefører i det vesentlige rettens
-adgang til å treffe avgjørelser under saksforberedelsen, både om den videre behandlingen av
-saken og om avvisning og frifinnelse av grunner
-som nevnt i straffeprosessloven § 272 første ledd
-bokstav b. Det vises til utkastet §§ 34-7 første og
-tredje ledd og 34-13. Etter utkastet kan avgjørelser
-som lagmannsretten treffer under saksforberedelsen med noen få unntak, treffes av saksforberedende dommer, jf. § 5-6 fjerde ledd.
-Det har vært omdiskutert om det etter § 272
-må avholdes rettsmøte før spørsmålene avgjøres,
-eller om de også kan avgjøres etter skriftlig
-behandling. Antakelig må det legges til grunn at
-enkelte beslutninger ikke kan treffes uten muntlig
-behandling, blant annet gjelder dette ved spørsmål om avvisning og bevisavskjæring.9
-Utkastet bygger på at alle beslutninger under
-saksforberedelsen skal kunne treffes etter skriftlig behandling, så lenge det gir et forsvarlig avgjørelsesgrunnlag, og retten til og behovet for kontradiksjon ivaretas. I mange tilfeller vil de spørsmål retten skal ta stilling til, kunne bli vel så godt
-opplyst ved skriftlig som ved muntlig behandling.
-Det bør overlates rettens skjønn å avgjøre om det
-er hensiktsmessig med muntlig forhandling, ut fra
-hensynene til forsvarlig saksbehandling.10 Dette
-bør også gjelde for spørsmål om avvisning og frifinnelse etter utkastet § 34-13. Avgjørelsen kan
-være så opplagt at det vil være unødvendig anstaltmakeri å gjennomføre muntlige forhandlinger. Se
-9
-10
-
-Ot.prp. nr. 66 (2001–2002) punkt 8.4.3 på s. 85 og Rt. 2012 s.
-642.
-Slik også Jahre (2013).
-
-[Side 419]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-utkastet §§ 34-7 første og tredje ledd og 34-13, jf.
-§ 31-1 første ledd, og merknadene til bestemmelsene.
-18.1.7 Skriftlig redegjørelse
-Etter straffeprosessloven kan retten i særlige tilfeller, der det etter sakens art er hensiktsmessig,
-pålegge påtalemyndigheten å utarbeide en skriftlig redegjørelse for saken, jf. § 262 tredje ledd.
-Redegjørelsen skal forelegges for tiltalte og forsvarer for eventuelle merknader. Bestemmelsen
-benyttes relativt sjelden i praksis og fortrinnsvis i
-store og kompliserte straffesaker.
-Utvalget antar ordningen bør benyttes oftere
-enn etter dagens praksis. Det vil formentlig relativt ofte kunne være behov for å få klargjort hvordan påtalemyndigheten ser på saken, også i saker
-av mindre omfang enn der det i dag er vanlig å be
-om redegjørelse.
-Formålet med redegjørelsene er at de skal
-tjene som verktøy for videre saksforberedelse og
-saksstyring. For å sikre formålet bør retten sette
-rammer for fremstillingens form og omfang.11 I
-alminnelighet må det antas å være hensiktsmessig om redegjørelsen begrenses til en oversikt
-over sentrale punkter som er omtvistet, anførsler
-og bevis, eventuelt at fremstillingen begrenses til
-nærmere bestemte spørsmål. Det er viktig at
-redegjørelsen ikke svulmer for mye opp, idet den
-dermed lett kan bli utjenlig som verktøy. Se
-utkastet § 34-10 og merknadene til bestemmelsen.
-18.1.8 Felles saksfremstilling
-Utvalget anbefaler videre at det inntas en bestemmelse i loven som åpner for at retten kan oppfordre partene til å utarbeide en felles saksfremstilling, med sikte på å avklare om det er deler av
-sakens faktiske sider som er omforent, og hvilke
-deler av saksforholdet enigheten i så fall omfatter,
-jf. utkastet § 34-11.
-Straffeprosessens sannhetsideal og rettens
-ansvar for sakens opplysning innebærer at retten
-ikke er bundet av enighet mellom partene om faktiske forhold. Det er likevel klart at enighet om
-hele eller deler av det hendelsesforløpet tiltalen
-gjelder, vil kunne forenkle den videre behandlingen, særlig hva gjelder omfanget av bevisføringen. Det må også som et generelt utgangspunkt
-antas å være en presumsjon for sammenfall mellom det enigheten gjelder, og de faktiske forhold,
-
-og dette er noe retten kan ta hensyn til ved bevisvurderingen, jf. utkastet § 7-5.
-Partenes felles saksfremstilling vil måtte utformes skriftlig, og formålet er at den skal kunne
-forelegges retten til bruk under saksforberedelsen, hovedforhandlingen og domsskrivingen.
-Fremstillingen vil i tillegg til henvisninger til og
-gjengivelse av skriftlige bevis kunne inneholde
-elementer av forklaringer avgitt i anledning saken,
-og ordningen innebærer således et unntak fra
-bevisumiddelbarhetsprinsippet, se punkt 17.3.3.
-Adgangen til kontradiksjon er imidlertid sikret
-gjennom felles utforming og partenes muligheter
-til å kommentere fremstillingen under hovedforhandlingen. Hensynet til et best mulig avgjørelsesgrunnlag ivaretas ved at fremstillingen utformes av
-dem som kjenner saksforholdet best, hvilket reduserer faren for uklarheter, misforståelser mv.12
-Utvalget mener på denne bakgrunn det er
-uproblematisk å åpne for bruk av felles saksfremstilling som en del av rettens avgjørelsesgrunnlag.
-Utkastet § 10-9 fjerde ledd siste punktum presiserer at det er adgang til å gjengi partenes felles
-saksfremstilling selv om den inneholder forklaringselementer.
-Felles saksfremstilling vil neppe være aktuelt å
-benytte i ordinære småsaker, men vil formentlig
-kunne være et nyttig verktøy i store og kompliserte saker.
-18.1.9 Sluttinnlegg
-Saksforberedelsen i sivile saker avsluttes som regel
-to uker før hovedforhandlingen, og før dette skal
-partene normalt inngi et sluttinnlegg, som kort
-skal angi påstander, påstandsgrunnlag, de rettsregler som påberopes, og de bevis partene vil føre, jf.
-tvisteloven § 9-10. Det skal også følge med et forslag til fremdriftsplan for hovedforhandlingen.
-Bestemmelsens formål er å få partene til å
-tenke gjennom opplegget for hovedforhandlingen,
-slik at den lar seg gjennomføre mest mulig konsentrert. Sluttinnleggene skal være oversiktspregede, og argumentasjon om juss og faktum
-skal utelates. Når saksforberedelsen er avsluttet,
-er det ikke lenger adgang til å sette frem nye krav,
-utvide påstanden, fremsette nye påstandsgrunnlag eller tilby nye bevis, med mindre det følger av
-tvisteloven § 9-16.13
-For straffeprosessen er det ikke rom for å la
-saksforberedelsen ende i en tilsvarende formalisert avslutning med preklusiv virkning for parte12
-
-11
-
-Jf. tvisteloven § 9-9 tredje ledd tredje punktum.
-
-417
-
-Kapittel 18
-
-13
-
-Domstoladministrasjonen (2011) s. 26–27.
-Ot.prp. nr. 51 (2004–2005) s. 395–396.
-
-[Side 420]
-
-418
-
-Kapittel 18
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-nes adgang til å fremsette nye anførsler og bevis
-mv., jf. punkt 17.1.3. Men en adgang for retten til å
-pålegge partene å inngi sluttinnlegg vil i forlengelsen av de øvrige virkemidlene være et naturlig og
-nyttig verktøy for endelige avklaringer. Også
-sluttinnlegg vil formentlig være mest aktuelt i
-større saker, men det må antas at det også i
-enkelte mindre saker kan være praktisk å benytte
-dette, for eksempel som eneste saksforberedende
-skritt utover påtalemyndighetens oversendelse
-etter utkastet § 34-1 og forsvarers tilsvar etter
-utkastet § 34-4. Det vises til utkastet § 34-12.
-18.1.10 Særlig om frist for hovedforhandling og
-forhåndsberammelse
-Etter straffeprosessloven § 275 annet ledd skal
-hovedforhandling avholdes så snart som mulig.
-Dersom den siktede var under 18 år da lovbruddet ble begått, eller er varetektsfengslet når saken
-berammes, skal hoved- og ankeforhandling som
-hovedregel være påbegynt innen seks uker etter
-at saken kom inn til tingretten, og innen åtte uker
-etter at anke til lagmannsretten er henvist til ankeforhandling.
-Som det fremgår av punkt 16.2 om frist for
-påtalevedtak, kan fristregler ha utilsiktede og
-uheldige konsekvenser. At de fristbelagte sakene
-prioriteres på bekostning av andre saker, kan i
-utgangpunktet være en ønsket effekt, men fristregler kan også føre til uønskede forskyvninger.
-Således kan frister på noen områder føre til at
-andre saker får en uforholdsmessig lang saksbehandlingstid. Det er heller ikke gitt at den gjennomsnittlige saksbehandlingstiden totalt sett vil
-bli kortere. For domstolenes del må spørsmålet
-om å innføre fristregler i straffesaker dessuten ses
-i sammenheng med fristreglene som gjelder i
-sivile saker.
-Utvalget er på denne bakgrunn i utgangspunktet skeptisk til å utvide bruken av fristregler. I likhet med synspunktene det gis uttrykk for i rapporten Ressurs- og tidsbruk i omfattende straffesaker
-fra 2011, mener utvalget at en styrking av samhandlingen mellom domstolene og påtalemyndigheten, forsvareren og bistandsadvokaten i
-utgangspunktet er et mer hensiktsmessig tiltak
-for rask berammelse og avvikling tilpasset behovet i den enkelte sak enn ytterligere lovbestemte
-frister.14
-Gjeldende fristregler etter straffeprosessloven
-§ 275 annet ledd foreslås videreført. Det er tale
-om en relativt begrenset gruppe saker, og det er
-
-utvilsomt viktig at saker der tiltalte holdes varetektsfengslet, og som involverer unge lovbrytere,
-prioriteres. Det er utvalgets inntrykk at reglene
-stort sett har fungert bra. Det foreslås en justering ved at fristen skal gjelde når mistenkte er
-under 20 år når saken kommer inn til retten eller
-på henvisningstidspunktet. Endringen tar utgangspunkt i at det er tiltaltes alder når saken tas til rettslig behandling, og ikke på gjerningstidspunktet,
-som er det sentrale. Endringen vil medføre en viss
-utvidelse av saker der fristregelen kommer til
-anvendelse. Det vises til utkastet §§ 34-2 tredje
-ledd og 39-5 siste punktum.
-Spørsmålet om å lovfeste en plikt for retten til
-forhåndsberammelse av hoved- og ankeforhandling
-ble drøftet av departementet i forbindelse med
-endringene i straffeprosessloven § 275 om frist for
-hoved- og ankeforhandling. Departementet la til
-grunn at det etter gjeldende rett er adgang til forhåndsberammelse, og mente det ikke var noe
-stort behov for lovregulering.15 Spørsmålet er
-også vurdert i rapporten Ressurs- og tidsbruk i
-omfattende straffesaker.16
-Forhåndsberammelse kan bidra til rask og
-effektiv saksavvikling. Som påpekt av departementet kan imidlertid enkelte hensyn tale for en
-viss tilbakeholdenhet med en slik praksis. Av hensyn til mistenkte kan det etter omstendighetene
-være uheldig å foregripe avgjørelsen av tiltalespørsmålet, og ved forhåndsberammelse i ankeinstansen kan det skapes et inntrykk av at
-behandlingen i første instans ikke tas på alvor.17
-Forhåndsberammelse innebærer dessuten at
-saken «sniker i køen». Det kan det enkelte ganger
-være god grunn til, men ikke alltid. En annen
-ulempe er at hvis saken må utsettes, for eksempel
-fordi det er behov for å innhente mer informasjon,
-eller fordi det viser seg at det er avsatt for lite tid,
-kan det være vanskelig for domstolen å fylle «hullet» med andre saker, og forhåndsberammelse
-kan dermed føre til sløsing med ressurser.
-Utvalget ser ikke det som her er nevnt, som
-avgjørende innsigelser mot en praksis med forhåndsberammelse i visse tilfeller. Hvorvidt hensynet til mistenkte taler mot forhåndsberammelse,
-vil bero på omstendighetene i den enkelte sak, og
-det er ingen grunn til å anta at de profesjonelle
-aktører vil la seg påvirke av en eventuell forhåndsberammelse i ankeinstansen.
-Det er imidlertid vanskelig å finne gode kriterier for lovregulering av når forhåndsberammelse
-15
-16
-
-14
-
-Domstoladministrasjonen (2011) s. 16.
-
-17
-
-Ot.prp. nr. 66 (2001–2002) s. 66.
-Domstoladministrasjonen (2011) s. 13–17.
-Ot.prp. nr. 66 (2001–2002) s. 66.
+Hensynet til et riktig domsresultat taler for å tillate prøving av bevisene slik Regelutvalget anbefaler. Dessuten vil det, slik Regelutvalget også påpeker, kunne begrense såkalte taktiske anker, og sikre at bevisene prøves i to omganger.
+
+Straffeprosessutvalget mener likevel det både er prinsipielt og praktisk betenkelig om ankedomstolen gis selvstendig adgang til å beslutte at bevisene under skyldspørsmålet skal prøves ved begrenset anke. En slik endring ville bryte med systemet og arbeidsdelingen mellom aktørene i en helt annen grad enn for eksempel prøving av reaksjonsfastsettelsen til gunst for domfelte, se utkastet § 39-4.
+
+Ved anke over feil ved lovanvendelsen under skyldspørsmålet er ankedomstolens kompetanse begrenset til en overprøving av tingrettens lovanvendelse på grunnlag av det faktum tingretten har funnet bevist og beskrevet i domsgrunnene. Innenfor denne ankegrunnen kan lagmannsretten verken supplere eller gjøre avvik fra tingrettens beskrivelse. Følgelig skal det heller ikke være bevisføring om dette. Hvis tingrettens faktum ikke er tilstrekkelig til at lovanvendelsen kan prøves, må resultatet bli at tingrettens dom kan oppheves utenom anken på grunn av mangelfulle domsgrunner.
+
+Utvalget antar at muligheten for å oppheve underinstansens avgjørelse vil være tilstrekkelig til å håndtere situasjoner der anke over lovanvendelsen møtes med innsigelser fra ankemotparten til det faktum underinstansen har lagt til grunn.
+
+Opphevelse er riktignok ikke en løsning i de tenkelige – men formentlig få – tilfellene der tiltalte blir domfelt etter tiltalen, men ut fra et uriktig faktum *og* uriktig lovanvendelse. I så fall har ikke påtalemyndigheten rettslig interesse i en anke, idet den har fått fullt ut medhold i resultat, samtidig som domfelte kan begrense sin anke til lovanvendelsen og få denne prøvd opp mot et uriktig – men tilstrekkelig – faktum, med frifinnende virkning. I en slik situasjon kunne man tenke seg at påtalemyndigheten burde bli ansett å ha rettslig interesse i en aksessorisk motanke over bevisbedømmelsen. Selv om dette prinsipielt sett kunne være riktig, har utvalget kommet til at det ikke er grunn til å belaste loven med en slik særløsning for det som trolig er meget sjeldne unntakstilfeller.
+
+1.  **Ankedomstolens adgang til å endre den utmålte straffen – straffeprosessloven § 344**
+
+Ankedomstolens adgang til å fastsette ny straff ved begrenset anke følger av straffeprosessloven § 344:
+
+«Blir lovanvendelsen opprettholdt, skal retten ikke endre den utmålte straff, med mindre den finner at det er et åpenbart misforhold mellom den straffbare handling og straffen».
+
+Lovens ordlyd «åpenbart misforhold» åpner for to ulike tolkninger. Bestemmelsen kan forstås som en kompetansebegrensning, i den forstand at misforholdet mellom den utmålte straffen og den straff ankedomstolen mener er den riktige, må være av en viss størrelse for at retten skal kunne endre den. Alternativt kan loven leses slik at misforholdet må fremstå klart (være åpenbart) for at ankedomstolen skal kunne fastsette ny straff.
+
+I forarbeidene til straffeprosessloven 1981 uttalte Straffeprosesslovkomiteen at den fant det prinsipielt riktig at ankedomstolen viser en viss tilbakeholdenhet med å forandre underinstansens straffutmåling.[^1115] I nyere rettspraksis har man imidlertid sett en rekke eksempler på at ankedomstolen ikke viker tilbake fra å fastsette den straff den mener er den korrekte, se eksemplene gjengitt nedenfor.
+
+I en dom avsagt 25. august 2016 kom Høyesterett til at straffeprosessloven § 344 ikke begrenser lagmannsrettens kompetanse til å fastsette en riktig straff:
+
+«\[D\]et er ikke tvil om at Høyesterett i lang tid har forholdt seg til § 344 mer som en veiledende retningslinje enn som en kompetansebegrensning. Høyesteretts utgangspunkt er etter hvert blitt at det skal fastsettes en riktig straff, selv om dette skulle innebære til dels nokså små justeringer. Fra nyere tid nevner jeg, som eksempler, Rt-2004-327, Rt-2006-164, Rt-2008-27, Rt-2010-1391 og HR-2016-1422-A. Men det vil fremdeles likevel være situasjoner der Høyesterett bør være mer tilbakeholden, for eksempel ved vurderinger der umiddelbar bevisførsel må antas å ha særlig verdi. Da slår prinsippet i § 344 inn, og tilsier at lagmannsrettens vurdering på de aktuelle punktene ikke uten videre fravikes.
+
+Forklaringen på at praksis etter hvert har fjernet seg fra den ordning som ordlyden isolert sett legger opp til, ligger i Høyesteretts funksjon som prejudikatdomstol, slik denne på strafferettens område er utviklet etter to-instansreformen: Høyesterett skal, gjennom veiledning om straffenivået og om vektingen av ulike straffutmålingsmomenter, bidra til en enhetlig straffutmålingspraksis i hele landet. Dette ivaretas best dersom Høyesterett, så langt det foreligger et forsvarlig grunnlag, uhindret av tidligere instansers straffutmåling fastsetter den straffen Høyesterett mener er den riktige.»[^1116]
+
+Etter utvalgets syn bør retten kunne fastsette den straff den mener er korrekt. Prinsipielt bør misforholdets størrelse være uten betydning. En annen sak, og en følge av systemet, er at særlig Høyesterett ikke alltid vil ha de beste forutsetninger for å vurdere alle relevante straffutmålingsmomenter. Utvalget mener at en regel som trekker opp rammen for ankedomstolens adgang til å endre straffutmålingen må reflektere dette.
+
+I lovutkastet går utvalget inn for å videreføre straffeprosessloven § 344 med en annen ordlyd. Etter utvalgets syn bør det gå frem av loven at adgangen til å endre reaksjonsfastsettelsen er betinget av at det er klart synlig for retten at straffen er uriktig. En naturlig følge av en slik regel vil være, som i dag, at Høyesterett i visse tilfeller bør være tilbakeholden med å endre straffutmålingen, for eksempel ved vurderinger der umiddelbar bevisføring må antas å ha særlig verdi.[^1117]
+
+1.  **Domfeltes anke – endring til skade**
+
+Et særlig spørsmål er om en avgjørelse skal kunne endres til skade for domfelte når ingen andre enn domfelte har anket.[^1118] Etter gjeldende rett står ankeinstansen i utgangspunktet fritt til å endre underinstansens dom til skade for domfelte i slike tilfeller, jf. blant annet Rt. 2002 s. 1451:
+
+«Etter straffeprosessloven gjelder det \[…\] ikke noen generell regel som forbyr endring til skade for en tiltalt som har anket (reformatio in pejus). Spørsmålet ble overveiet i forbindelse med vedtakelsen av straffeprosessloven av 1981, og jeg viser til redegjørelsen for lovforarbeidene i Rt. 1998 s. 1384. Det er etter min mening ikke tvilsomt at retten etter straffeprosessloven ved fullstendig ankebehandling har anledning til å dømme etter en strengere straffebestemmelse og/eller til en strengere straff enn førsteinstansen, selv om det bare er domfelte som har anket.»
+
+Unntak fra dette gjelder der påtalemyndigheten har anket til domfeltes gunst. Slik anke kan ikke føre til endring som er til skade for domfelte, jf. § 351. Straffen kan ikke skjerpes, og det kan heller ikke legges til grunn en strengere subsumsjon.[^1119] Bestemmelsen gjelder både ved behandlingen i ankedomstolen og ved ny behandling etter opphevelse.[^1120]
+
+I flere europeiske land finnes prosessuelle bestemmelser som i en eller annen form begrenser rettens adgang til å dømme i disfavør av en domfelt som har anket. Det følger blant annet av den svenske rättegångsbalken 51 kap. 25 § at hovrätten ikke kan idømme strengere straff når bare domfelte har anket, eller når påtalemyndigheten har anket til domfeltes gunst. Et lignende prinsipp følger av den danske retsplejeloven § 924 og av den tyske Strafprozessordnung § 331.[^1121]
+
+I forarbeidene til straffeprosessloven 1981 ble det vist til humanitets- og rimelighetshensyn som begrunnelse for et prinsipp om *reformatio in pejus*.[^1122] Hensynet til å unngå at ankeadgangen ikke benyttes av frykt for et ugunstig resultat, taler for å begrense adgangen til å idømme strengere straff når domfelte selv anker. Muligheten for en strengere dom kan sjelden utelukkes helt, og vil dermed kunne ha en «chilling effect» som på en uheldig måte begrenser ankeordningens effektivitet og gjennomslag. På den annen side kan det også være gunstig for ankefrekvensen at anke er forbundet med en viss risiko.
+
+Etter utvalgets syn må hensynet til riktige domsresultater være utslagsgivende. Retten bør kunne dømme slik den anser riktig etter bevisføringen, jf. Rt. 1998 s.1384. Utvalget har etter dette blitt stående ved at prinsippet om reformatio in pejus ikke bør innføres i norsk straffeprosess. Det understrekes likevel at retten bør utvise en viss varsomhet med å idømme strengere straff når bare domfelte har anket.
+
+1.  **Anke til Høyesterett**
+
+    1.  *Henvisning av anker til Høyesterett («ankesiling»)*
+
+Skal en sak fremmes for Høyesterett, må den enten ha prinsipiell betydning, eller andre grunner må tilsi at det er særlig viktig med realitetsbehandling der, jf. straffeprosessloven § 323. Silingsordningen ble innført ved to-instansreformen og ble begrunnet slik:
+
+«Et hovedsiktemål for forslaget om endringer i ankesystemet er å avlaste Høyesterett og gi retten bedre muligheter for å konsentrere seg om det som må være hovedoppgaven for rikets øverste domstol, å vareta rettsenheten og lede rettsutviklingen på viktige felt av rettslivet. Når en sak har vært behandlet i to instanser, må hensynet til rettssikkerhet i den konkrete sak som regel anses tilfredsstilt. Skal saken kunne prøves av Høyesterett, i en tredje omgang, må det foreligge særlige grunner.»[^1123]
+
+Tvisteloven § 30-4 første ledd etablerer en tilsvarende silingshjemmel for dommer i sivile saker. I forarbeidene til denne bestemmelsen ble det vurdert som hensiktsmessig at straffeprosessen og sivilprosessen har parallelle ordninger.[^1124]
+
+Utvalget foreslår at gjeldende rett videreføres for så vidt gjelder siling av anke over dom til Høyesterett, se utkastet § 38-3 annet ledd. Etter utvalgets forståelse er dagens hjemmel egnet til å begrense domstolens saksmengde, og ordlyden retter seg direkte mot Høyesteretts rolle og hovedoppgaver.
+
+For kjennelser og beslutninger er adgangen for Høyesterett til å avvise eller forkaste anker i dag regulert i straffeprosessloven § 387 a første ledd første punktum, jf. § 388 annet ledd første punktum. I lovutkastet foreslås disse reglene videreført, men med en annen språkdrakt og plassering. Se utkastet § 38-2 om ankeutvalgets adgang til å nekte anke over beslutning fremmet til Høyesterett.
+
+1.  *Høyesteretts behandling*
+
+Utvalget mener at reglene om Høyesteretts behandling av anker i straffesaker bør være som i dag, med enkelte mindre justeringer i bestemmelsene om domstolens kompetanse og såkalt direkte anke.
+
+Straffeprosessloven § 388 begrenser Høyesteretts kompetanse ved videre anke over beslutning, ved at slik anke er avskåret i andre tilfeller enn de som er nevnt i bestemmelsens første ledd nr. 1 til 4. Straffeprosessloven § 388 første ledd nr. 3 åpner for videre anke til Høyesterett over lagmannsrettens «tolking av en lovforskrift».
+
+I utkastet § 37-2 fjerde ledd bokstav b er dagens uttrykk «lovforskrift» erstattet med «rettsregel». Dette anses å være et mer dekkende uttrykk for den realitet det tas sikte på så vel etter gjeldende rett som etter forslaget, se i samme retning NOU 2001: 32 Bind B s. 790 for tvisteloven § 30-6 bokstav c.
+
+Straffeprosessloven § 388 første ledd nr. 3 har tradisjonelt vært forstått slik at Høyesteretts prøvingsadgang er begrenset til den generelle lovforståelsen. Den konkrete lovforståelsen eller subsumsjonen skal derimot ikke ankedomstolen prøve ved videre anke, jf. Rt. 1997 s. 1843. I saker som gjelder anvendelsen av Grunnloven, EMK og andre konvensjoner inkorporert ved menneskerettsloven, prøver likevel Høyesterett lagmannsrettens konkrete lovanvendelse, se Rt. 2015 s. 155 avsnitt 29 med videre henvisninger. Den utvidende prøvingsadgangen er begrunnet i Rt. 2007 s. 404 avsnitt 40:
+
+«For en fullstendig og effektiv prøvelse av spørsmålet om forbudet mot å sende NRKs TV-program krenker ytringsfriheten, må Høyesterett i samsvar med EMKs subsidiaritetsprinsipp også kunne ta stilling til den konkrete anvendelse av EMK artikkel 10 sammenholdt med menneskerettsloven § 2 nr. 1. Det følger av samme lov § 3 at EMK går foran tvistemålsloven § 404 første ledd når en fullstendig rettslig prøving i siste instans er nødvendig for å avgjøre om konvensjonen er krenket. En begrensning av Høyesteretts kompetanse ved prøving av om lover, stortingsbeslutninger og provisoriske anordninger er i strid med Grunnloven ville ikke samsvare med den samlede Høyesteretts kompetanse etter plenumsloven § 2. Etter min mening må den konkrete anvendelse av Grunnloven § 100 og EMK artikkel 10 kunne etterprøves av Høyesterett og Høyesteretts kjæremålsutvalg i videre kjæremål.»
+
+Utvalget legger til grunn at adgangen til å sikre etterlevelse av overordnede rettsnormer bør videreføres. Dette kunne tale for en utvidelse av prøvingsadgangen til å omfatte «rettsanvendelsen» eller lignende, til erstatning for dagens uttrykk, «tolking» av en lovforskrift, som har vært forstått i motsetning til subsumsjon. For så vidt som det er de overordnede rettsnormer som gis gjennomslag, er det imidlertid ikke behov for noen særskilt hjemmel for prøvingsadgang i straffeprosessloven. Utvalget har derfor valgt å foreslå at Høyesteretts kompetanse ved videre anke over beslutninger begrenses til «den generelle forståelse» av en rettsregel. Med endringen betones det som er hovedanliggendet i denne sammenheng, nemlig å begrense Høyesteretts arbeidsbyrde. Det er nødvendig for at domstolen skal kunne konsentrere seg om saker av prinsipiell karakter og bidra til å sikre rettsenhet, rettsavklaring og rettsutvikling.
+
+Unntaksvis kan en sak fra tingretten bringes direkte inn for Høyesterett med samtykke av Høyesteretts ankeutvalg, jf. straffeprosessloven § 8. Samtykke til slik såkalt direkte anke kan gis dersom «anken gjelder et spørsmål av betydning utenfor den foreliggende sak, eller det er særlig viktig å få saken hurtig avgjort». Anken må for øvrig oppfylle de alminnelige vilkårene for anke til Høyesterett.[^1125]
+
+Adgangen til direkte anke etter straffeprosessloven bør uttrykkes presist, slik at det klart fremkommer hvilke anker som kan avgjøres uten lagmannsrettens mellomkomst, og tydeliggjøres at vilkårene er andre enn de alminnelige vilkårene for anke til Høyesterett. Lovforslaget er utformet etter modell av tvisteloven § 30-2, se utkastet § 5-4 bokstav b.
+
+1.  **Ankerett for fornærmede**
+
+Det har vært reist spørsmål om hvorvidt fornærmede etter loven bør anses som part, herunder om vedkommende bør ha ankerett.[^1126] Spørsmålet har tidligere vært drøftet og vurdert av Fornærmedeutvalget, som fremmet lovforslag som resulterte i en styrket stilling for fornærmede og etterlatte.[^1127] Flertallet mente den gang det ikke burde innføres en ankeadgang for fornærmede, mens mindretallet mente at fornærmede skulle gis adgang til å anke over skyldspørsmålet.
+
+Utvalgets prinsipielle standpunkt er, som fremhevet i punkt 10.3.1, at det er en offentlig oppgave å ivareta forfølgningen av straffekrav. En ankerett for fornærmede vil reelt sett innebære at påtalemyndigheten fratas vedtakskompetanse i saken.
+
+Fornærmedes behov for å klargjøre forhold av betydning for ankespørsmålet vil i tilstrekkelig grad kunne ivaretas ved at fornærmede står fritt til å kontakte påtalemyndigheten ved behov. Påtalemyndigheten vil også selv etter omstendighetene ha interesse av å innhente fornærmede og bistandsadvokatens syn på ankespørsmålet, selv om ankefristen innebærer at slike uttalelser må avgis og innhentes nokså raskt etter dom.
+
+Det er på denne bakgrunn verken ønskelig med eller behov for en særskilt ankeadgang for fornærmede.
+
+1.  **Fullbyrding**
+
+Regler om fullbyrding finnes i dag i straffeprosessloven kapittel 32. Utvalget mener innholdet i reglene i det vesentlige bør videreføres, men at bestemmelsene bør struktureres annerledes. Det er av pedagogiske grunner ønskelig å samle en del bestemmelser som i dagens straffeprosesslov er spredt, se merknadene til utkastet kapittel 40.
+
+I utkastet er reglene om fullbyrding forbeholdt straff og strafferettslige reaksjoner samt krav oppstått ved fullbyrdingen av slike reaksjoner, for eksempel renter og gebyr ved inndrivelse av bøter. Fullbyrding av erstatning til staten, som i dag omfattes av straffeprosessloven § 452 første ledd, og fullbyrding av andre sivile krav etter straffeprosessloven § 456 første ledd annet punktum, reguleres i utkastets bestemmelser om sivile krav, se § 43–15.
+
+Et særskilt spørsmål er om det er grunn til å videreføre ordningen med særskilt *fullbyrdingsordre* fra påtalemyndigheten. Av straffeprosessloven § 455 første ledd følger det at statsadvokaten skal fatte vedtak om fullbyrding av dom i saker der ikke påtalemyndigheten i politiet har tatt ut tiltale etter § 67 annet ledd eller saken er avgjort ved forelegg. I så fall treffer påtalemyndigheten i politiet selv fullbyrdingsbeslutningen.
+
+Utvalget mener ansvarsfordelingen mellom påtalemyndigheten og domstolene taler mot ordningen med fullbyrdingsordre fra påtalemyndigheten. Når det foreligger rettskraftig dom, er det ingen påtalemessige oppgaver å ivareta og dermed ikke behov for påtalemyndighetens uavhengige behandling. Påtalemyndigheten har ikke myndighet til etter eget skjønn å suspendere virkningene av en dom og kan således ikke velge om den skal beordre en dom fullbyrdet.
+
+Iverksettelse av fullbyrding reiser i alminnelighet heller ikke faktiske eller rettslige spørsmål som tilsier behov for påtalemyndighetens særlige faglighet eller integritet, og det er da lite hensiktsmessig å benytte påtalemyndighetens særlige og begrensede ressurser til å håndtere oppgaver som like godt kan utføres av den myndighet som ellers står for iverksettelsen. Dersom påtalemyndighetens bistand skulle være ønskelig i en sak, kan fullbyrdingsmyndigheten uansett ta kontakt.
+
+Det knytter seg ikke rettssikkerhetsmessige betenkeligheter til å frata påtalemyndigheten formell adgang til å utsette fullbyrdingen ved å unnlate å beordre iverksettelse eller trekke fullbyrdingsordren, så lenge domfelte sikres tilstrekkelige muligheter til å fremme sine rettigheter og interesser i det administrative sporet og til å bringe uenighet om innholdet i en dom eller et forelegg inn til rettslig avklaring for domstolene.
+
+Fullbyrding av straff bør på denne bakgrunn ikke lenger være betinget av at påtalemyndigheten har truffet vedtak som beordrer dette. Lovutkastet fastslår derfor at straff og andre strafferettslige reaksjoner skal fullbyrdes straks vilkårene er til stede. At iverksettelsen vil kunne utstå, herunder blant annet hvis påtalemyndigheten har anbefalt benådning, reguleres for seg.
+
+Utvalget har også vurdert den gjeldende ordningen med rettslig prøving av Kriminalomsorgens vedtak ved spørsmål om utsettelse av fullbyrdingen på grunn av domfeltes psykiske tilstand eller helsetilstand for øvrig, se straffeprosessloven § 459 siste punktum. Bestemmelsen forutsetter at begjæringen er fremmet før oppstart av soning. Etter dette tidspunkt skal slike spørsmål behandles i det administrative sporet, se straffegjennomføringsloven § 12 og 35, jf. § 7.
+
+Utvalget er fra forsvarerhold blitt oppfordret til å foreslå at virkeområdet for § 459 utvides til å omfatte straffegjennomføringslovens regler. Forslaget er begrunnet med at behovet for rask, billig og effektiv tilgang til domstolene gjør seg gjeldende i høy grad, og spørsmålene som skal vurderes, er slike som domstolene er vant til å håndtere.
+
+Utvalget er enig i at den enkelte vil kunne ha behov for raskt å få avklart slike rettslige forhold. En slik rett vil etter omstendighetene også følge av Den europeiske menneskerettskonvensjon (EMK) artikkel 5 nr. 4 om rett til å anlegge sak for «raskt» å få avgjort lovligheten av frihetsberøvelse. Det ligger imidlertid utenfor utvalgets mandat å ta stilling til spørsmål om soningsavbrudd mv., ettersom dette gjelder innholdet i den administrative gjennomføringen av straffen.
+
+Derimot er det grunn til å stille spørsmål ved om man bør videreføre ordningen med domstolskontroll etter straffeprosessloven med Kriminalomsorgens vedtak om utsettelse av fullbyrding. Systematisk ligger dette på siden av straffeprosessen, noe som i lovutkastet kommer tydelig til uttrykk ved at det ikke lenger skal tilligge påtalemyndigheten å treffe vedtak om fullbyrding, se ovenfor. Det er uansett ikke konsekvent å la disse sakene bringes inn for retten i medhold av straffeprosesslovens regler, men ikke de tilsvarende tilfeller som først tas til behandling, eller først oppstår, under soning. Utvalget mener at også dette prinsipielt sett er spørsmål som bør reguleres utenfor straffeprosessloven, men har ikke registrert kritikk mot gjeldende ordning. Utvalget har derfor ikke funnet tilstrekkelig grunn til å foreslå endringer i dagens ordning i lovutkastet. Dette innebærer også at det kan oppnevnes forsvarer på det offentliges bekostning for mistenkte etter utkastet § 3-19.
+
+1.  **Gjenåpning**
+
+    1.  **Gjenåpning som rettsmiddel**
+
+Hensynet til tiltalte, fornærmede og samfunnet for øvrig tilsier at rettslige konflikter får sin endelige løsning. Derfor er det i loven knyttet frister og formelle krav til anke som rettsmiddel.[^1128] Er fristen for å anvende rettsmidler utløpt, eller er saken avgjort av Høyesterett i siste instans, er avgjørelsen rettskraftig. Rettskraft innebærer at avgjørelsen er endelig, bindende og eventuelt kan fullbyrdes.
+
+Samfunnet er imidlertid ikke alltid tjent med at en avgjørelse blir stående. Derfor er det i straffesaker så vel som i sivile saker en viss adgang til å behandle en rettskraftig avgjørelse på ny. I straffesaker er gjenåpning først og fremst begrunnet med at ingen skal dømmes uskyldig, og at enhver domfellelse skal være et resultat av en forsvarlig behandling. Men også målene om riktige avgjørelser og at prosessen skal være lovformelig, er gitt et visst gjennomslag, ved at en dom på visse vilkår kan gjenåpnes til domfeltes ugunst.
+
+I punkt 22.2 redegjøres det kort for reguleringen av gjenåpning etter gjeldende rett. I punkt 22.3 følger utvalgets vurderinger av hvilket innhold reglene om gjenåpning bør gis, og hvordan de bør utformes. Det er sett hen til drøftelser og lovforslag i rapporten *Etterkontroll av kommisjonen for gjenopptakelse av straffesaker* fra 2012 og høringsuttalelser gitt til denne.[^1129]
+
+1.  **Gjeldende rett**
+
+    1.  **Vilkår for gjenåpning**
+
+Vilkårene for gjenåpning følger av straffeprosessloven kapittel 27.[^1130]
+
+Domfelte og påtalemyndigheten kan begjære gjenåpning. Den som er frifunnet, kan kun få saken gjenopptatt dersom det er lagt til grunn at vedkommende har begått den straffbare handlingen, jf. straffeprosessloven § 307. I private straffesaker kan gjenåpning begjæres av den fornærmede som har reist saken.
+
+Loven angir ulike grunnlag som skal føre til gjenåpning. Disse knytter seg til forhold ved bevisene, lovanvendelsen eller saksbehandlingen som ligger til grunn for dommen, jf. §§ 390 flg. I alminnelighet kreves for gjenåpning at det aktuelle forholdet må antas å ha hatt betydning for avgjørelsen med større eller mindre grad av sannsynlighet. Enkelte grunnlag avskjæres dersom feilen er gjort gjeldende eller kunne vært gjort gjeldende under saken som ledet frem til dommen, jf. § 390 annet ledd.
+
+For straffesaker gjelder det ingen frist for å begjære gjenåpning, som også kan besluttes etter domfeltes død. Her skiller ordningen seg fra den sivilrettslige, der det er satt en absolutt frist på ti år, se tvisteloven § 31-6.
+
+1.  **Kommisjonen for gjenopptakelse av straffesaker**
+
+I sivile saker avgjør domstolene spørsmålet om gjenåpning. Tidligere gjaldt det samme for straffesaker. Etter 2004 er oppgaven lagt til Kommisjonen for gjenopptakelse av straffesaker (Gjenopptakelseskommisjonen).[^1131]
+
+Straffeprosesslovkomiteen vurderte i sin innstilling fra 1969 behovet for en uavhengig kommisjon, men foreslo i stedet å flytte avgjørelsen til nærmeste overordnede domstol.[^1132] Bakgrunnen for at man i 2004 valgte å opprette en kommisjon, er blant annet forklart med at behovet ble aktualisert ved at enkelte uriktige domfellelser fikk mye oppmerksomhet.[^1133] I den forbindelse ble det stilt spørsmål om hvorvidt det er ønskelig at samme domstol som har avsagt en mulig uriktig dom, også bør ta stilling til om saken skal gjenåpnes. I tillegg til å virke tillitskapende, er det ansett hensiktsmessig at ett organ avgjør alle begjæringer om gjenåpning, slik at det får opparbeidet en særskilt kompetanse knyttet til behandlingen av slike saker. Dertil kommer at kommisjonens selvstendige ansvar for etterforsking fristiller påtalemyndigheten, slik at man unngår at saken blir en «omkamp». Den nærmere bakgrunnen for opprettelsen av kommisjonen fremgår av lovens for- og etterarbeider.[^1134]
+
+Mot å ha en egen kommisjon for spørsmålet om gjenåpning taler at den er et fremmedelement i et domstolsystem som ellers er basert på at dommere er generalister som håndterer alle sakstyper. Domstolene nyter i alminnelighet tillit, noe som tilsier at det bør være tilstrekkelig å la en sideordnet domstol avgjøre begjæringen om gjenåpning – det er uansett disse som får saken til behandling etter at gjenåpning er besluttet. Dersom det er behov for å unngå mistanke om ubevisste kollegiale hensyn, tilsier det en kommisjonsordning også for sivile saker. Slike motforestillinger ble ikke gitt gjennomslag ved opprettelsen av kommisjonen.
+
+1.  **Forholdet mellom domstol og kommisjon**
+
+Avgjørelser fra Gjenopptakelseskommisjonen kan prøves ved gyldighetssøksmål for domstolene. Ved søksmål kan domstolene prøve kommisjonens generelle tolking av reglene om gjenåpning i straffeprosessloven og om grunnleggende saksbehandlingsregler er fulgt. Kommisjonens konkrete rettsanvendelse og bevisbedømmelse prøves ikke.
+
+Begrunnelsen for begrensningen i domstolenes kompetanse er at prøving av slike spørsmål ville åpne for omkamp om bevisbedømmelsen, noe som vil være i strid med lovgivers forutsetninger.[^1135] Arbeidsgruppen som foretok etterkontroll av Gjenopptakelseskommisjonen, har foreslått at søksmålsadgangen lovfestes.[^1136]
+
+1.  **Folkerettslige forpliktelser**
+
+Forbudet mot gjentatt straffeforfølgning innebærer i korthet at ingen skal kunne bli stilt for retten eller straffet på ny når vedkommende allerede er endelig frikjent eller domfelt for handlingen. Dette rettsstatlige prinsippet er blant annet uttrykt i Den europeiske menneskerettskonvensjon (EMK) syvende tilleggsprotokoll artikkel 4 (P7-4) nr. 1. Samtidig fastslår P7-4 nr. 2 at forbudet ikke er til hinder for gjenåpning:
+
+«Bestemmelsene \[…\] skal ikke være til hinder for å gjenoppta en sak i samsvar med vedkommende stats lov og rettergangsordning i straffesaker, hvis det foreligger bevis for nye eller nyoppdagede omstendigheter eller hvis det i den tidligere rettergangen har vært en grunnleggende feil, som kunne påvirke utfallet av saken.»
+
+EMK stiller ikke de samme kravene til saksbehandling ved gjenåpning som ved anke. En begjæring om gjenåpning av en straffesak anses heller ikke å omhandle «civil rights and obligations», som er den alternative inngangen til vern etter konvensjonen, jf. Rt. 2012 s. 519 avsnitt 86. Om de prosessuelle garantiene etter EMK artikkel 6 har Den europeiske menneskerettsdomstol (EMD) uttalt:
+
+«The Court points out that Article 6 of the Convention applies to proceedings where a person is charged with a criminal offence until that charge is finally determined. It further reiterates that Article 6 does not apply to proceedings concerning a failed request to reopen a case.»[^1137]
+
+Det kan legges til at EMK artikkel 46 fastslår at statene skal rette seg etter endelig dom fra EMD i enhver sak de er part i. Det kan innebære at den krenkede part så vidt mulig stilles i samme posisjon som før krenkelsen; konvensjonskrenkelsen gjenopprettes. Utgangspunktet er at det er opp til den enkelte nasjonale myndighet å avgjøre hvilke virkemidler som er best egnet til dette. Europarådets ministerkomité vedtok 19. januar 2000 imidlertid en rekommandasjon om gjenopptakelse av saker på nasjonalt nivå som følge av dommer fra EMD. Komitéens erfaring med overvåking av oppfølgningen av avgjørelser fra domstolen har vist at den mest effektive metoden for å sikre etterlevelse av konvensjonsforpliktelsene er om sakene gjenåpnes. Medlemslandene oppfordres av den grunn til å sørge for tilstrekkelige muligheter til å få gjenåpnet en sak dersom konvensjonskrenkelse er konstatert av EMD. Gjenåpning på dette grunnlag er særskilt regulert i straffeprosessloven § 391 første ledd bokstav b.
+
+1.  **Utvalgets vurderinger**
+
+    1.  **Utgangspunkter**
+
+Domstolene skal løse konflikter med endelig og bindende virkning, og straffesaker bør som den klare hovedregel få sin endelige avgjørelse ved første gangs behandling i det ordinære domstolsystemet. Utvalget mener likevel at rettssystemet, og i et større perspektiv samfunnet, er tjent med at rettskraften i enkelte tilfeller faller bort. Adgangen til å gjenåpne straffesaker verner om prinsippet om at ingen skal dømmes uskyldig, og at avgjørelser skal bygge på et korrekt og lovformelig grunnlag.
+
+Rettsmiddelet *gjenåpning* bør være fullt ut subsidiært, slik at det først tas i bruk når ingen ordinære rettsmidler står til rådighet. Bare dersom det er grunnlag for å stille spørsmål ved om en dom er uriktig, eller om kravet til forsvarlig behandling er etterlevd, bør gjenåpning kunne komme på tale.
+
+Gjeldende ordning for gjenåpning, slik den er regulert i straffeprosessloven kapittel 27, bør i det alt vesentlige videreføres. Utgangspunktet bør fremdeles være at forholdet som begrunner gjenåpning, enten det knytter seg til bevisene, lovanvendelsen eller saksbehandlingen, kan ha hatt betydning for avgjørelsens innhold. Hva som bør gi grunnlag for å gjenåpne straffesaker, tematiseres nærmere i punkt 22.3.6.
+
+Ordningen med en særskilt gjenåpningskommisjon bør også videreføres. Kommisjonen er et resultat av en grundig lovreform, og arbeidsgruppen som foretok etterkontroll av ordningen, konkluderte med at kommisjonsordningen langt på vei har innfridd de forventningene som lå til grunn for reformen.[^1138] Den kritikken som har vært reist mot kommisjonen, synes reelt sett å omhandle vilkårene for gjenåpning, ikke at disse håndheves av kommisjonen. Også særlige ordninger som er knyttet til kommisjonens virksomhet bør videreføres, blant annet adgangen til å avholde «muntlige høringer» etter straffeprosessloven § 389 a.
+
+Selv om innholdet i gjeldende ordning i det vesentlige videreføres, er det ønskelig med en relativt omfattende lovteknisk revisjon for å gjøre reglene lettere tilgjengelige. Dessuten er det grunn til å foreslå enkelte innholdsmessige endringer som det redegjøres for i det følgende.
+
+1.  **Kommisjonen for gjenopptakelse av straffesaker**
+
+Kommisjonen for gjenopptakelse av straffesaker – Gjenopptakelseskommisjonen – har siden 2004 avgjort saker om gjenåpning av straffesaker, med unntak av foreleggssaker. Utvalget anbefaler å videreføre reglene om kommisjonens virksomhet, kompetanse, sammensetning og arbeidsform. Utvalget har vurdert om kommisjonens virksomhet burde reguleres i domstolloven, men har kommet til at den som en straffeprosessuell særordning fortsatt bør ha sin forankring i straffeprosessloven.
+
+Utvalget har heller ikke funnet grunn til å endre navnet på kommisjonen, selv om det formelle navnet på rettsmiddelet er «gjenåpning», og ikke «gjenopptakelse». I denne sammenheng er det også vurdert hvorvidt «gjenåpning» bør videreføres som betegnelse. Uttrykket er en fornorsking av det engelske «reopening» og kan hevdes å ha svakere språklig tilknytning til vår rettskultur enn den tidligere betegnelsen «gjenopptakelse», som knytter an til det tyske «Wiederaufnahme». Utvalget har imidlertid falt ned på at uttrykket «gjenopptakelse» i dag nok vil bli oppfattet som gammelmodig av mange, og at «gjenåpning» allerede har festnet seg i rettsspråket i en slik grad at betegnelsen bør videreføres. Dette gjør seg ikke gjeldende på samme måte for det innarbeidede egennavnet «Gjenopptakelseskommisjonen».
+
+1.  **Forholdet mellom gjenåpning og anke**
+
+Reglene om gjenåpning og anke er i dag til en viss grad overlappende. Blant annet kan en dom på visse vilkår ankes etter utløpet av den alminnelige ankefristen. Påtalemyndigheten kan for eksempel anke til gunst for siktede uavhengig av ankefrist, jf. straffeprosessloven § 309. Domfelte kan på sin side anke etter ankefristens utløp etter straffeprosessloven § 318 første ledd dersom oversittelsen «ikke bør legges den ankende til last», eller der ankefristen har begynt å løpe etter reglene om fremmøteforkynning, og «særlige grunner» tilsier at den domfelte bør få prøvd anken».
+
+I de nevnte situasjoner er dommen å anse som rettskraftig etter rettsmiddelfristens utløp, jf. straffeprosessloven § 50. Det betyr i praksis at partene kan velge om de vil benytte seg av anke eller gjenåpning når avgjørelsen angripes. Dersom en begjæring om anke og en begjæring om gjenåpning fremmes samtidig, skal kommisjonen avvise sistnevnte.
+
+Det nærmere forholdet mellom § 318 og gjenåpningsinstituttet er tematisert i Rt. 2009 s. 1681, der det fremgår at vilkåret om at «retten finner at oversittelsen ikke bør legges den ankende til last», bør forbeholdes «relativt korte» fristoversittelser.[^1139]
+
+I Rt. 2010 s. 1495 var anke over dom fremsatt over tre år etter vedtakelsen. Etter domstidspunktet var det avsagt en høyesterettsdom som tilsa at lovtolkningen som lå til grunn for domfellelsen, var uriktig, slik at domfelte skulle vært frifunnet. Adgangen til forsinket anke var avskåret fordi det hadde gått for lang tid fra domfelte vedtok tingrettens dom, og til domfelte anket til lagmannsretten. Det mest naturlige rettsmiddelet ble da ansett å være gjenåpning etter straffeprosessloven § 392 annet ledd.
+
+Gjenåpning kan for øvrig besluttes før en dom er rettskraftig, dersom dommen er «avsagt av lagmannsretten og den omfatter bevisbedømmelsen under skyldspørsmålet», jf. straffeprosessloven § 389 første ledd annet punktum. I en slik situasjon vil bevisbedømmelsen være avgjort med endelig virkning av lagmannsretten, fordi Høyesterett er avskåret fra å prøve bevisbedømmelsen under skyldspørsmålet, jf. straffeprosessloven § 306 annet ledd. Bestemmelsen stammer fra tiden da domstolene selv besluttet gjenåpning, og skillet mellom anke og begjæring om gjenåpning således var av mindre betydning.[^1140]
+
+De til dels overlappende reglene om gjenåpning og anke gir partene frihet i valg av rettsmiddel. Utvalget mener det bør tilstrebes at grensen mellom de ulike rettsmidler defineres klart. Friheten i valget mellom anke og gjenåpning etter gjeldende lov kan føre til uklarhet om hvilket rettsmiddel som skal anvendes, og kan – ettersom gjenåpning er lagt til en egen kommisjon – føre til uklarhet om hvem som har kompetanse til å treffe avgjørelse.
+
+Hensynet til effektivitet taler dessuten mot at grensen mellom rettsmidlene vurderes fra sak til sak; en skjønnsbasert grense kan føre til usikkerhet og merarbeid ved at sakene blir dobbeltbehandlet. Det er heller ikke prosessøkonomisk gunstig med et system som innebærer at et organ må avvente en avgjørelse før den kan ta en sak til behandling.
+
+Adgangen påtalemyndigheten i dag har til å anke rettskraftige avgjørelser etter straffeprosessloven § 309, bør derfor fjernes. Isolert sett kan det nok være effektivt om påtalemyndigheten selv retter opp uriktige avgjørelser ved bruk av et ordinært rettsmiddel. Men i et større perspektiv må forutberegnelighet ved valg av rettsmiddel antas å gi den største effektivitetsgevinsten, især fordi man da unngår dobbeltbehandling. Ved å la én sentralisert instans avgjøre alle saker, får man dessuten større mulighet til å fange opp eventuelle systemfeil. Selv om Gjenopptakelseskommisjonens mandat er å behandle enkeltsaker, vil den for eksempel kunne gjøre påtalemyndigheten oppmerksom på feil som begås regelmessig.
+
+Utvalget mener videre at særreguleringen om gjenåpning før rettskraftig dom dersom dommen er «avsagt av lagmannsretten og den omfatter bevisbedømmelsen under skyldspørsmålet», jf. § 389 første ledd annet punktum, ikke bør videreføres. Kommisjonens rolle bør være subsidiær også i denne situasjonen. For det første fordi en anke over saksbehandlingen kan rette seg mot den skriftlige begrunnelsen for bevisbedømmelsen som Høyesterett kan prøve. For det andre fordi behovet for en særregulering uansett er ikke stort, ettersom det ikke skal ta lang tid fra lagmannsrettens avgjørelse av skyldspørsmålet til dommen er rettskraftig. Skulle tiden likevel trekke ut, kan det motvirkes med bruk av ordinære rettsmidler. Så vidt vites har ikke kommisjonen noen gang vært forelagt en begjæring på dette tidspunktet i saksgangen.
+
+1.  **Hvilke avgjørelser bør kunne gjenåpnes?**
+
+Straffeprosessloven gir adgang til gjenåpning av rettskraftige dommer og andre avgjørelser som innebærer at en straffesak eller en selvstendig del av den avsluttes, jf. §§ 389 og 401. I praksis har dette vært begrenset til avgjørelser som omhandler konstatering av straffansvar og straffutmåling, herunder også konverteringsdommer når man går fra ett straffutmålingssystem til et annet.[^1141]
+
+Avgjørelser som omhandler straffegjennomføringen, har derimot vært ansett å falle utenfor ordningen med gjenåpning, selv om avgjørelsen avsies i form av dom. Kommisjonen har lagt til grunn at det ikke er adgang til å få gjenåpnet saker om dom for prøveløslatelse fra forvaring[^1142] eller dom for gjeninnsetting for fullbyrding av reststraff etter vilkårsbrudd.[^1143]
+
+I lys av formålet med ordningen er det grunn til å drøfte om også avgjørelser som er truffet på gjennomføringsstadiet, bør kunne gjenåpnes. Avgjørelser det kunne være aktuelt å la omfattes, er:
+
+- dom på gjeninnsetting for fullbyrding av reststraff, jf. straffeloven § 39 annet ledd
+
+- brudd på vilkår for samfunnsstraff, jf. straffeloven § 52
+
+- brudd på vilkår for ungdomsstraff, jf. straffeloven § 52 c
+
+- prøveløslatelse fra forvaring, jf. straffeloven § 44
+
+- opphør av reaksjonene tvunget psykisk helsevern og tvungen omsorg, jf. straffeloven § 65
+
+Alle disse avgjørelsene angår særlig inngripende tiltak overfor borgerne. Når det er lagt til domstolene å avgjøre slike spørsmål, skyldes det nettopp en erkjennelse av inngrepenes alvor, og dermed ønsket om en særlig rettssikker behandlingsform. Når man først velger å avgjøre disse sakene – formelt og reelt – ved dom, bør etter utvalgets syn også gjenåpningsordningens rettssikkerhetsgarantier få anvendelse.
+
+Utvalget kan vanskelig se at samfunnet er tjent med at en rettskraftig dom knyttet til noen av de ovennevnte sakstypene blir stående dersom det skulle hefte slike mangler ved dommen som ellers kan begrunne gjenåpning. Uten gjenåpning blir man stående uten straffeprosessuelle midler for å kontrollere og rette opp avgjørelser som ikke har vært lovformelige, eller som det ellers er grunn til å stille spørsmål ved om er riktige.
+
+Samlet vil det kunne svekke den generelle tilliten til rettsavgjørelser om det ikke gis adgang til gjenåpning. Dertil kommer at mer rettstekniske hensyn taler for at avgjørelser som etter loven avsies som dom, har samme prosessuelle status.
+
+Dersom det ikke gis adgang til gjenåpning, vil det dessuten lettere kunne oppstå situasjoner som står i et problematisk forhold til Grunnloven § 94 og EMK artikkel 5 og til verdiene disse bestemmelsene er uttrykk for. Grunnloven § 94 første ledd lyder:
+
+«Ingen må fengsles eller berøves friheten på annen måte uten i lovbestemte tilfeller og på den måte som lovene foreskriver. Frihetsberøvelsen må være nødvendig og ikke utgjøre et uforholdsmessig inngrep.»
+
+I bestemmelsens annet ledd er det stilt krav om at den som er berøvet sin frihet, skal kunne få frihetsberøvelsen prøvet for domstolene «uten ugrunnet opphold». Uten adgang til gjenåpning blir man stående med begrensede rettslige og faktiske muligheter til reell og effektiv kontroll med frihetsberøvelsens lovlighet. Det gir i seg selv risiko for grunnlovs- og konvensjonsbrudd i form av ulovlig frihetsberøvelse og at en eventuell kontroll ikke skjer uten «ugrunnet opphold».
+
+Dertil kommer at man etter EMK har krav på at krenkelsen konstateres, noe man vanskelig vil oppnå uten adgang til gjenåpning. Også systemhensyn tilsier at det gis adgang til gjenåpning i det straffeprosessuelle sporet. Den frihetsberøvede vil kunne ha aktuell interesse i en fastsettelsesdom etter løslatelse, for eksempel hvis det fremmes krav om erstatning. I en slik situasjon må det tas prejudisiell stilling til om avgjørelsen som foranlediget frihetsberøvelsen, var mangelfull, og det er da liten grunn til at dette ikke skal få sin avklaring i det sporet som ellers benyttes for å ta stilling til om det hefter feil ved straffeprosessuelle avgjørelser.
+
+Enkelte særspørsmål gjør seg gjeldende for gjenåpning av avgjørelser om prøveløslatelse fra forvaring og opphør av reaksjonene tvungent psykisk helsevern og tvungen omsorg. Virkningen av slike avgjørelser er ikke endelig, ettersom spørsmålene om prøveløslatelse og opphør kan begjæres behandlet på ny etter ett år, jf. straffeloven §§ 44 fjerde ledd og 65 tredje ledd. En forutsetning for avgjørelsen er dessuten at det er avsagt dom for reaksjonsformen, og for forvaring med angivelse av en tidsramme, som kan gjøres til gjenstand for gjenåpning.
+
+Det taler for å la avgjørelsene omfattes av ordningen at de først og fremst skal avklare om gjerningspersonen anses som så farlig at videre frihetsberøvelse kan rettferdiggjøres. Det er hensynet til rettssikkerhet som er grunnen til at avgjørelsene i det hele tatt er lagt til domstolene, se hva gjelder forvaring NOU 1990: 5 s. 76. At det må gå ett år før spørsmålet på ny kan bringes inn for domstolene, er alene begrunnet i hensynet til å hindre grunnløse begjæringer, se Ot.prp. nr. 87 (1993–94) s. 91.
+
+I ytterste konsekvens vil den som er uriktig fengslet, i perioden frem til neste prøving stå uten midler til å angripe grunnlaget for frihetsberøvelsen når det hefter alvorlige mangler ved denne, herunder når det er begått straffbare handlinger i tilknytning til avgjørelsen. Også hensynet til samfunnsvernet tilsier at påtalemyndigheten etter omstendighetene må kunne begjære gjenåpning av en dom som uriktig innvilger prøveløslatelse fra forvaring eller opphør av reaksjonene tvungent psykisk helsevern og tvungen omsorg.
+
+På denne bakgrunn mener utvalget at alle de nevnte avgjørelser som treffes ved dom og kan resultere i frihetsberøvelse, bør kunne gjenåpnes etter de straffeprosessuelle regler så sant det foreligger rettslig interesse. De ulike vilkårene for gjenåpning bør ellers benyttes så langt de passer for avgjørelser truffet i form av dom på gjennomføringsstadiet.
+
+Utvalget har vurdert om avgjørelser etter straffeloven § 39 om opphevelse, endring, forlengelse og fastsettelse av nye særvilkår i prøvetiden for dom også bør kunne gjenåpnes, men har konkludert med at de ikke bør det. Ved vurderingen legges det dels vekt på at inngrepene det er snakk om, selv om de er alvorlige, ikke medfører frihetsberøvelse, dels at lovgiver har besluttet at avgjørelsene skal treffes ved beslutning (kjennelse) og ikke ved dom. Avgjørende for utvalget har likevel vært at slike endringer må anses som en naturlig forlengelse av den underliggende dommen, og at denne kan gjenåpnes.
+
+Heller ikke øvrige beslutninger bør kunne gjenåpnes, for eksempel spørsmål om utlevering. Muligheten for omgjøring og periodisk kontroll må her antas tilstrekkelig.
+
+1.  **Gjenåpning og bruk av tvangstiltak**
+
+Et grunnleggende trekk ved en rettsstat er at statens prosesser mot borgerne får sin avslutning; borgerne skal ikke oppleve langvarige og tilbakevendende forfølgninger for samme forhold. Selv om det er adgang til å gjenåpne dommer etter EMK, står utgangspunktet og idealet om endelighet sterkt i den europeiske rettstradisjon. Det kommer klart til uttrykk i EMK artikkel 6, som bestemmer at for å «få avgjort \[…\] en straffesiktelse mot seg, har enhver rett til \[…\] rettergang innen rimelig tid \[…\]», sammenholdt med forbudet mot dobbeltforfølgning i EMK P7-4.
+
+Et særlig spørsmål er i hvilken utstrekning påtalemyndigheten etter at en straffesak er avsluttet, skal kunne benytte tvangstiltak under etterforsking med sikte på å få gjenåpnet en sak. Bruk av tvangstiltak kan innebære betydelige inngrep overfor den mistenkte og vil i ytterste konsekvens foregripe spørsmålet om hvorvidt vilkårene for gjenåpning er oppfylt.
+
+I Rt. 2015 s. 935 kom problemstillingen opp for spørsmålet om bruk av rettshåndhevelsesarrest etter straffeprosessloven § 172. Saken gjaldt en mann som var rettskraftig frifunnet for drap, men som tolv år senere på ny ble siktet for det samme drapet. Bakgrunnen var nytt bevis som følge av nye vitenskapelige metoder for tolkning av DNA-funn. Spørsmålet i saken var om § 172 bokstav a var anvendt for vidt.
+
+Ankeutvalgets flertall fant lagmannsrettens lovforståelse korrekt, uten å tematisere forholdet mellom bruk av tvangstiltak og gjenåpning. Mindretallet mente derimot at frifinnelsen var en ekstraordinær omstendighet som det måtte tas hensyn til ved anvendelsen av § 172. Om forholdet mellom bruk av tvangstiltak og gjenåpning uttalte mindretallet blant annet:
+
+«I saken her er siktede fengslet på tross av at riksadvokaten ikke hadde tatt stilling til om saken skal begjæres gjenåpnet. Det er systematisk sett klart uheldig at domstolene ved behandling av begjæring om varetekt dermed må foregripe riksadvokatens vurdering av om saken skal begjæres gjenåpnet, og ikke minst foregripe Gjenopptakelseskommisjonens eventuelle vurdering av om vilkårene for gjenåpning vil være oppfylt.»[^1144]
+
+Utvalgets syn er at rettskraftige avgjørelser av straffekravet så langt som mulig bør behandles som endelige, og at dette i særlig grad må gjelde for frifinnelser. Samtidig står sannhetsidealet sterkt. Straffedommers legitimitet avhenger langt på vei av at det ikke kan settes spørsmålstegn ved domfellelser, og at det i det minste foreligger rimelig tvil om saksforholdet ved frifinnelser.
+
+Dersom nye bevis eller omstendigheter gir holdepunkter for at saksforholdet som er lagt til grunn for en dom, avviker fra det faktiske hendelsesforløpet, kan det derfor etter omstendighetene være grunn til å undersøke bevisene nærmere for å avklare om vilkårene for gjenåpning er oppfylt. Det vil blant annet kunne være situasjonen når et nytt vitne melder seg for politiet med sentral informasjon om saken, eller når analyser av biologisk materiale kaster nytt lys over saken.
+
+I forlengelsen av dette bør påtalemyndigheten under etterforskingen etter omstendighetene også kunne benytte tvangstiltak for å fremskaffe, undersøke eller sikre bevis. Hensynet til at rettsavgjørelser, og især frifinnelser, skal være endelige, tilsier imidlertid at man da utviser stor grad av skjønnsomhet og tilbakeholdenhet. En ubetinget adgang til å holde straffesaken gående med bruk av tvangstiltak etter rettskraftig dom vil lett kunne utfordre våre rettsstatsidealer.
+
+Utvalget mener at terskelen for inngrep i mistenktes privatsfære bør være meget høy etter en rettskraftig frifinnelse. Rettsteknisk er det tilstrekkelig å håndheve terskelen ut fra de alminnelige vilkårene for bruk av tvangstiltak. Kravet til forholdsmessighet vil begrense adgangen til å benytte tvangstiltak etter rettskraftig dom.
+
+Utgangspunktet for forholdsmessighetsvurderingen skal være hvilken retning det underliggende påtalevedtaket eller dommen har; om straffekravet førte til frifinnelse eller straffansvar. Etter en frifinnelse vil forholdsmessighetskravet innebære en sterk begrensning i adgangen til bruk av tvangstiltak. Ny etterforsking vil i alminnelighet innebære en betydelig belastning for den som har innrettet seg etter at straffeforfølgningen er avgjort. Særlig mistenkte, men også fornærmede, etterlatte og lokalsamfunn, kan være best tjent med at det ikke rokkes ved saken.
+
+Videre skal sakens alvor og tvangstiltakets karakter være sentrale momenter for forholdsmessighetsvurderingen. Det skal i alminnelighet gjelde en lavere terskel for å ta i bruk tvangstiltak i en sak om drap enn i en sak om underslag, og terskelen skal være lavere for å innhente biologisk materiale enn for å varetektsfengsle.
+
+Etter utvalgets lovforslag skal tvangsinngrepet *rettshåndhevelsesarrest* være utelukket før gjenåpning er begjært, ettersom det innebærer å foregripe spørsmålet om gjenåpning, se utkastet § 41-20 fjerde ledd.
+
+1.  **Vilkårene for gjenåpning**
+
+    1.  *Gjenåpning fordi det er grunn til å stille spørsmål ved bevisene en avgjørelse bygger på*
+
+Utgangspunktet er at den dømmende rett med endelig virkning avgjør om bevismaterialet retten er forelagt, innebærer at det ikke er rimelig tvil om tiltaltes skyld og straffansvarets omfang. Etter at en dom er avsagt, kan det imidlertid fremkomme opplysninger som ikke var kjent for den dømmende rett, og som gir grunn til å stille spørsmål om hvorvidt avgjørelsen er riktig. For eksempel kan et nytt vitne gi domfelte alibi, eller ny vitenskapelig kunnskap kan tilsi at et bevismiddel skulle vært bedømt annerledes.
+
+Etter straffeprosessloven kan slike forhold føre til gjenåpning, se punkt 22.2.1. Adgangen bør videreføres, og som i dag bør det avgjørende være hvilken betydning det ville hatt om det nye forholdet hadde vært kjent for den dømmende rett, sett i sammenheng med sakens øvrige omstendigheter og bevis.
+
+1.  *Gjenåpning fordi det er grunn til å stille spørsmål ved andre omstendigheter*

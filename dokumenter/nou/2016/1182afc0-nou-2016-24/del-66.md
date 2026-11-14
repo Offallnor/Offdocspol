@@ -1,906 +1,604 @@
-# NOU 2016: 24, del 66 av 73 (side 718–726)
+# NOU 2016: 24, del 66 av 69
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/1182afc0-nou-2016-24.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-24/id2517932/
 - Original-PDF: https://www.regjeringen.no/contentassets/6fe1d875248042b4a09b43b85aa46832/no/pdfs/nou201620160024000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 9 tabeller, 1 figur, 52 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 718]
-
-716
-
-NOU 2016: 24
-
-Vedlegg 2
-
-Ny straffeprosesslov
-
-Vedlegg 2
-
-En vurdering av enkelte premisser for en ny
-straffeprosesslov
-Gert Johan Kjelby og Lisbeth Fullu Skyberg1
-
-1
-
-1
-
-Bakgrunn og mandat
-
-1.1
-
-Straffeprosessutvalgets mandat
-
-Straffeprosessutvalget, som ble oppnevnt i juni
-2014, er bedt om å se på forhold som kan bidra til
-å effektivisere strafferettspleien, herunder vurdere behovet for bruk av informasjonsteknologi
-og sterkere dommerstyring. I mandatet fremheves det at en «god straffeprosess må bidra til
-kvalitet, effektivitet og rettssikkerhet i strafferettspleien, og den må åpne for rasjonell bruk av
-moderne informasjonsteknologi». Straffeprosessutvalget skal
-«utrede en ny straffeprosesslov som er bedre
-tilpasset vår tid, og som legger til rette for å
-avvikle straffesaker rettssikkert og effektivt
-(…). Forslaget til ny straffeprosesslov skal
-utarbeides på grunnlag av en overordnet målsetting om en effektiv, rettssikker og tillitvekkende behandling av straffesaker. Forslaget
-bør reflektere en balansert avveining mellom
-effektivitet og rettssikkerhet.»2
-I tillegg til disse generelle rettslige krav og føringer er det antatte revisjonsbehovet også forankret
-i noen sentrale faktiske premisser:
-«Kriminalitetsbildet er i endring og kjennetegnes av økt profesjonalisering, organisering og
-internasjonalisering. Stadig mer komplekse
-saker med en stadig mer omfattende bevisførsel
-1
-
-2
-
-Gert Johan Kjelby (f. 1968) er utdannet cand.jur. og ph.d.
-fra Det juridiske fakultet i Bergen og er ansatt som forsker
-samme sted. Han var tidligere statsadvokat i Hordaland
-(1999–2015). Lisbeth Fullu Skyberg (f. 1969) er utdannet
-sosiolog fra Universitet i Oslo. Skyberg arbeider p.t. med
-sin ph.d.-avhandling ved Institutt for kriminologi og rettssosiologi samme sted.
-Utvalgsmandatet pkt. 2 (Behovet for revisjon) og 3 (Målsettingene med en ny lov).
-
-reiser spørsmålet om mer organisert saksforberedelse og sterkere dommerstyring. Det er
-mange forhold som tyder på at straffeprosessloven av 1981 ikke er rustet til å møte disse
-utfordringene.»3
-Reformbehovet begrunnes altså i oppfatninger om
-generelle utviklingstrekk som antas å ha betydning for gjennomføringen av straffeforfølgningen.
-Hva det ellers siktes til med formuleringen i siste
-setning om «mange forhold som tyder på (…)», er
-ikke utdypet i mandatteksten. De to sentrale premisser er at kriminalitetsbildet har endret seg siden
-gjeldende straffeprosesslov ble utformet, og at det
-i dag er flere komplekse saker med mer omfattende
-bevisførsel enn da gjeldende lov ble utformet (eller
-sist endret). I det siste ligger implisitt at straffesakene tar lengre tid å behandle i rettsapparatet,
-særlig i domstolene, og/eller er mer ressurskrevende, og at en ny lov skal legge til rette for
-blant annet begrensinger i bevisførsel og kortere
-saksbehandlings- og iretteføringstid.
-1.2
-
-Vårt oppdrag og mandat
-
-Straffeprosessutvalget har bedt oss om å
-1. undersøke hvorvidt og i tilfelle i hvilken grad
-ovennevnte premisser er holdbare og
-2. foreta en rettsdogmatisk/rettssosiologisk
-undersøkelse som tematiserer generelt hvilke
-forhold eller mekanismer som har betydning
-for straffesaksbehandlingens effektivitet, og
-hvordan disse forholdene påvirkes av den
-«nye» kriminaliteten.
-Undersøkelsen ble forutsatt gjennomført som en
-begrenset teoretisk studie av strafferettspleien.
-Straffeprosessutvalget har videre gitt uttrykk
-for at konklusjonene og hypotesene som fremkommer, burde følges opp av en spørreunder3
-
-Utvalgsmandatet pkt. 2 (Behovet for revisjon). Uthevet her.
-
-[Side 719]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-søkelse rettet mot prosessens aktører (gjennomført med bruk av Questback eller annet verktøy
-som er lett å administrere), men innenfor rammen
-for dette arbeidet, har ikke vi hatt anledning til å
-foreta en slik undersøkelse.
-Mandatet vårt omfatter hele «straffesaksbehandlingen», det vil si både etterforskingsfasen,
-påtalestadiet og domstolsbehandlingen (iretteføringsfasen). Straffeprosessutvalgets mandat
-legger på de siterte punkt særlig vekt på domstolsbehandlingen, og hovedtyngden i denne
-fremstilling ligger også på vurdering av premissene for domstolsbehandlingen.
-Virkelighetsbeskrivelsen og premissene i
-Straffeprosessutvalgets mandat – og i det utvalg
-av andre kilder det vises til nedenfor – kan problematiseres (se særlig pkt. 2.1–2.4). Holdbarheten
-kan også etterprøves, blant annet gjennom tallmateriale (se pkt. 4 og 5). Men hva virkelighetsbeskrivelsen i mandatet – om den viser seg treffende
-– aktualiserer av behov for rettslig regulering og
-eventuell rettsendring, er en omfattende oppgave
-som Straffeprosessutvalget skal vurdere.4
-1.3
-
-En oversikt over tidligere og pågående
-arbeid av betydning
-
-Ulike utvalg og arbeidsgrupper har allerede gjort
-mye utredningsarbeid omkring disse spørsmål,
-men implementering i lovverket av konklusjoner
-og anbefalinger fra tidligere utredninger har tatt
-tid, vært begrenset, blitt stykkevis fulgt opp eller
-ikke blitt fulgt opp overhodet.5
-Våre vurderinger vil derfor i noen grad
-begynne med å «børste støv» av tidligere arbeider
-og bygge videre på funn og konklusjoner fra allerede foreliggende undersøkelser. Det er her særlig grunn til å nevne følgende:
-– Prosjekt hurtigere straffesaksbehandling –
-Arbeidsgruppe II, sluttrapport 26. juni 2000 om
-effektiviseringstiltak i perioden mellom påtalevedtak og fullbyrdelse, og sluttrapporten fra
-samme prosjekts Arbeidsgruppe I for etter4
-
-5
-
-For noen ansatser til en slik diskusjon, se Advokatforeningens årstale 2014: En straffeprosess for vår tid – dilemmaer
-og utfordringer, gjengitt i Tidsskrift for Strafferett nr. 1
-2015.
-Den foreløpig siste lovproposisjon med særlig fokus på
-«effektiviseringstiltak» er Prop. 141 L (2009–2010)
-Endringer i straffeprosessloven mv. Se forslagene i kapittel 8,
-vedtatt som endringslov 10. desember 2010 nr. 76.
-Endringene var basert på et omfattende høringsnotat fra
-Justisdepartementet om «Hurtigere behandling av straffesaker» fra 2006, som var et resultat av Stortingets anmodning til regjeringen i 2004 om å «utarbeide en samlet tiltakspakke for å redusere straffesaksbehandlingstiden». Se
-Prop. 141 L (2009–2010) s. 94.
-
-–
-
-–
-
-717
-
-Vedlegg 2
-
-forskings- og påtalestadiet. Flere lovendringer
-har fulgt i kjølvannet av disse rapportene, men
-uten at vi ser noen endring i den nokså alminnelige oppfatning av at straffesakene behandles for langsomt og tar for langt tid i retten.
-Rapporten Ressurs- og tidsbruk i omfattende
-straffesaker, avgitt til Domstoladministrasjonen
-23. desember 2011.6 Arbeidsgruppens anbefalinger (se pkt. 2.2.3) er hittil ikke fulgt opp. En
-eventuell implementering av disse hører nå
-naturlig under Straffeprosessutvalgets mandat.
-Uttalelsen «Dommerstyring av straffesaker –
-God praksis for rask avklaring» fra Den norske
-dommerforening, avgitt i januar 2005.7
-Uttalelsen retter seg først og fremst til dommere.
-Den legger vekt på en aktiv dommerstyring for
-raskere fremdrift og gjennomføring innenfor gjeldende regelverk, men inneholder en rekke anbefalinger av betydning for utformingen av nye
-straffeprosesslov, jf. utvalgets mandat pkt. 6.
-
-I tillegg er det nylig tatt flere initiativ til å utrede
-«hurtigspor i de alminnelige domstolene for
-enkelte sakstyper innenfor straffesakskjeden».
-Oppdragene synes særlig å være innrettet mot
-behandlingen av saker mot utenlandske statsborgere, jf. mandatet «[for] å kunne forhindre at personer kan unndra seg straffeansvar (…)».8 Også
-et «hurtigsporprosjekt» for Oslo, rettet mot saker
-mot utenlandske statsborgere, er under behandling.9 Arbeidet med disse sakene skal formentlig
-skje parallelt med og uavhengig av Straffeprosessutvalgets arbeid og dets tidsfrist.
-I slike hurtigsporprosjekt ligger det et klart premiss om at det forhold at vitner og/eller tiltalte er
-utenlandske statsborgere, og/eller at saken har forgreninger til annet land, er sentrale faktorer som
-påvirker tidsbruk og kostnader i alle ledd av straffesaksbehandlingen. Disse faktorer fremheves som
-«trend»/«tendenser» (pkt. 2.1), og de viser seg
-også i det materialet vi har gjennomgått (pkt. 5).
-6
-
-7
-8
-
-9
-
-Rapporten ble utarbeidet av en arbeidsgruppe nedsatt
-4. mars 2011, ledet av lagdommer Monica Nylund Hansen.
-Rapportens tallmateriale, funn og anbefalinger omtales
-nedenfor i pkt. 2.2.
-Se også tilsvarende retningslinjer i LOK-prosjektets delrapport nr. 6, Aktiv saksstyring og saksavvikling i straffesaker.
-Se utvalg oppnevnt i statsråd 7. mai 2015. Utvalget skal
-innen 31. januar 2017 blant annet «identifisere sakstyper
-innenfor straffesakskjeden hvor det anses formålstjenlig
-med et eget hurtigspor i de alminnelige domstolene. Raskere og mer effektiv straffesakskjede vil virke preventivt
-og kostnadsbesparende.»
-Se Justis- og beredskapsdepartementets høringsnotat
-10. april 2015 «Forslag til prøveprosjekt i Oslo for raskere
-gjennomføring av straffesaker (hurtigspor)». Høringsfristen var 22. mai 2015.
-
-[Side 720]
-
-718
-
-NOU 2016: 24
-
-Vedlegg 2
-
-Ny straffeprosesslov
-
-Tiltak av typen «hurtigsporprosjekt» rettet mot utlendinger
-har særlig betydning for tidsbruken under etterforskings- og påtalefasen og for inndriving av bøter. For iretteføring er stevning av tiltalte og tiltaltes tilstedeværelse nødvendig under hovedforhandling
-eller rettsmøte for tilståelsesdom. Lykkes det, kan likevel den senere forkynning av dom for å sikre rettskraft og fullbyrding være
-en utfordring, særlig i de større byer, hvor andelen pågrepne utenlandske statsborgere er høyt. I Oslo statsadvokatembeters uttalelse i forkant av ovennevnte «hurtigsporprosjekt», fremgår det
-blant annet at ca. 60 prosent av de pågrepne i Grønland krets er
-utenlandske statsborgere, at ca. 33 prosent av begjæringer om tilståelsesdom returneres fordi stevning ikke har lyktes, og at «et
-stort antall» hovedforhandlinger utsettes av samme grunn (jf. Brev
-til riksadvokaten datert 22. mars 2013 – ref. 2013/00123-2).
-
-En rekke delprosjekt av betydning er pågående eller gjennomført, for eksempel Videokonferanseprosjektet i justissektoren (Evalueringsrapport, Domstoladministrasjonen november 2007)
-og pilotprosjektet i det såkalte MERVERDI-programmet, om forberedelser og gjennomføringen
-av en digital straffesak. Disse er forutsatt å være
-premissleverandører for utvalget, jf. mandatets
-pkt. 6.
-En rekke revisjonsbehov, revisjonsforslag og
-analyser av gjeldende lov og praksis er også drøftet av erfarne aktører i et temanummer av Tidsskrift for Strafferett (TfS) nr. 4 2013.10 Det er her
-særlig verd å merke seg at flere av forfatterne
-etterlyser en oppfølgning av forslagene i rapporten Ressurs- og tidsbruk i omfattende straffesaker.11
-Vi har også valgt å følge den nevnte Arbeidsgruppens metodologiske tilnærming idet vi har
-innhentet opplysninger for å kartlegge antall store
-og omfangsrike straffesaker for perioden 2005–
-2014 for å etterprøve premissene i utvalgets mandat (se pkt. 5).
-
-2
-
-Undersøkelsens utgangspunkt og
-begrensinger
-
-2.1
-
-Henvisninger til kriminalitetsbildet som
-premiss for lovendringer
-
-Henvisninger til «kriminalitetsbildet» som premiss for lovendringer som tar sikte på å effektivi-
-
-sere straffesaksbehandlingen – slik som i Straffeprosessutvalgets mandat –, er velkjent i lovgivningsprosesser. Kriminalitetsbildet (eller trekk
-ved det) trekkes særlig frem som argument for å
-innføre nye straffebestemmelser for å bekjempe
-«nye» eller mer dagsaktuelle kriminalitetsformer
-(for eksempel strafferettslig vern for aktører i
-rettsvesenet for å møte et antatt «hardere klima»)
-og for å innføre nye etterforskingsmetoder som tar
-sikte på å avdekke og oppklare flere saker på
-etterforskings- og påtalestadiet.
-I det følgende gis eksempler på slik argumentasjon fra et utvalg sentrale kilder.
-Metodeutvalgets (1997) beskrivelse av kriminalitetsutviklingen og den metode den baseres på
-ble møtt med kritikk fra flere høringsinstanser,
-særlig fra kriminologien. Advokatforeningen
-etterspurte en mer fullstendig gjennomgang av
-kriminalitetsutviklingen og behovet for nye etterforskingsmetoder og anførte at Metodeutvalgets
-beskrivelse av kriminalitetsutviklingen i liten grad
-var etterprøvbar. Norsk forening for kriminalreform (KROM) kritiserte metodebruken, særlig
-det at økningen i antall registrerte lovbrudd ble
-brukt som indikator på økt kriminalitet. Institutt
-for kriminologi fremhevet blant annet at kriminalitetsøkningen hovedsakelig gjaldt mindre alvorlig
-vinningskriminalitet, og at det var «meget uheldig» at det ikke ble fremhevet at de kriminalitetsformene som utvalget mente krevde nye metoder,
-utgjorde «en svært liten del av totalbildet».12
-Departementet la større vekt på kvalitative enn
-kvantitative endringer i kriminalitetsbildet og konkluderte med at det ikke er
-«avgjørende hvor stor økningen i kriminaliteten har vært. Vel så viktig er det at kriminaliteten har endret karakter. Særlig er det av betydning at alvorlig kriminalitet i større grad enn tidligere skjer organisert, innenfor lukkede
-kriminelle miljøer som til dels har internasjonal
-tilknytning.»13
-12
-
-10
-
-Foranledningen var en kronikk av Riksadvokat Tor-Aksel
-Busch og Domstoladministrasjonens direktør Tor Langbach, i Aftenposten 10. desember 2012 med tittelen «Mer
-effektive rettsaker – moderne rettergang».
-11
-Se særlig Knut Erik Sæther, «Politisering og straffeprosessuelle reformbehov» på s. 464, note 25, Anders Brosveet,
-«Reformbehovet i straffeprosessen sett fra en praktiserende advokats ståsted» s. 492–493 og Nils Erik Lie, «Noen
-tanker om fremtidens straffeprosess» på s. 513, alle i Tidsskrift for Strafferett 2013 nr. 4. Vi er enige i det forfatterne
-etterlyser, se pkt. 2.2.3.
-
-13
-
-Se særlig NOU 1997: 15 Etterforskingsmetoder for bekjempelse av kriminalitet. Delinnstilling II, kapittel 3 og Ot.prp.
-nr. 64 (1998–99) Om lov om endringer i straffeprosessloven
-og straffeloven m v (etterforsk-ningsmetoder m v) s. 32–34,
-på s. 34, hvor de siterte innvendingene er gjengitt.
-Ot.prp. nr. 64 (1998–99) på s. 34 (uthevet her). Justiskomiteen var enig, jf. Innst. O. nr. 3 (1999–2000) Innstilling fra
-justiskomiteen om lov om endringer i straffeprosessloven og
-straffeloven m.v. (etterforskningsmetoder m.v.) s. 5. Se tilsvarende Politimetodeutvalgets NOU 2004: 6 Mellom effektivitet og personvern kapittel 9 og Ot.prp. nr. 60 (2004–2005)
-Om lov om endringer i straffeprosessloven og politiloven
-(romavlytting og bruk av tvangsmidler for å forhindre alvorlig kriminalitet) særlig s. 24 flg. og departementets vurderinger på s. 32–34.
-
-[Side 721]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-Fokuset i sitatet er primært kriminalitetsbildet og
-kriminalitetsutviklingens betydning for atferd som
-negativt påvirker politiets mulighet til å etterforske
-og avdekke kriminalitet, og som derfor aktualiserer
-behovet for nye eller andre etterforskingsmetoder.
-Men forhold ved kriminalitetsbildet påvirker
-også aktørenes opptreden og sakens behandling
-under iretteføringen i domstolene, for eksempel i
-form av hvilke prosessuelle valg partene foretar
-eller avstår fra. Partenes konkrete prosesshandlinger og samlede prosessatferd i en sak er, ved siden
-av dommerens saksstyring, av betydning for hvor
-omfattende straffesakens forberedelse og gjennomføring blir i domstolene.14 Henvisninger til
-(sider ved) kriminalitetsbildet preger derfor også
-flere lovendringer av betydning for iretteføringen,
-særlig reguleringen av ulike bevisrettslige spørsmål, først og fremst for å gi domstolene hjemmel
-til å begrense partenes bevisføringsrett.15
-Ved en lovendring i 2002 ble behovet for utvidet
-adgang til bevisavskjæring vurdert, og strpl. § 292
-endret. Et lignende lovforslag var fremsatt allerede i
-1988–1989 og i 1994–1995 med lignende begrunnelse, men ble da ikke vedtatt. Justiskomiteen var
-den gang ikke uenig i at det kunne være grunnlag
-for å gi retten muligheter til å avskjære bevis «av
-uvesentlig betydning for avgjørelsen», og hadde
-«forståelse for de tidsbesparende fordelene en mer
-omfattende adgang til bevisavskjæring vil ha», men
-uttalte at «forslaget vil kunne bidra til å svekke rettssikkerheten». Komiteen la vekt på at det er «viktig
-at forsvareren har et rimelig vidt spillerom for
-måten forsvaret legges opp på, slik at tiltalte føler at
-han eller hun har kommet til orde, og at saken har
-fått en grundig og objektiv behandling.»16
-Ved endringen i 2002 var situasjonen og vurderingen en noe annen. Endringen var blant annet
-basert på en arbeidsgruppe som uttalte at
-«[e]n del straffesaker har et omfang som legger beslag på store ressurser over lang tid. Det
-er arbeidsgruppens inntrykk at straffesaker
-har blitt langt mer omfattende hva angår tidsforbruk enn tidligere. Det er ikke helt sjelden at
-
-straffesaker berammes over mange uker og
-måneder, jf for eksempel meget omtalte saker
-som AUF-saken, Rasool-saken, Skriksaken og
-ikke minst en rekke økonomiske straffesaker.
-Også narkotikasaker blir ofte meget omfattende.»17
-De premisser som Arbeidsgruppen fremhevet,
-bygger et stykke på vei på statistikk og tall, supplert av prognoser for fremtiden og med referanser
-til (medie)omtalte saker. Men langt på vei dreier
-det seg om synspunkter på kriminalitetsutviklingen
-og dens betydning for domstolsbehandlingen av
-sakene, i form av «inntrykk» og/eller «antakelser»
-fra ulike premissleverandører, for eksempel
-utvalgsmedlemmer og særorgan. Et annet forhold
-er at synspunktene er svært generelle og unnlater å
-påpeke at de sakene det refereres til, utgjør «en
-svært liten del av totalbildet».18 Den enkeltes fokus
-og ståsted i straffesakssystemet kan ha nokså stor
-betydning for hvilket inntrykk man har, og hvordan
-tilgjengelige tall tolkes.
-Disse forhold, som har betydning blant annet
-for premissholdbarhet og metode, ble påpekt av
-Metodekontrollutvalget i 2009:
-«Det har vist seg at hoveddelen av de eksisterende, tilgjengelige kildene om dagens kriminalitetsbilde i Norge i all hovedsak stammer
-fra politiet. Dette er en svakhet, særlig i forhold
-til de kildene som består av mer subjektive analyser. Det illustrerer imidlertid en svakhet ved
-det generelle tilfanget av kilder om kriminalitetsbildet i Norge, nemlig at få andre foretar
-omfattende innsamling av data eller analyser av
-kriminalitetsbildet av større format.»19
-Det dreier seg her om nokså etablerte oppfatninger, som fremføres i ulike fora og i offentlige
-dokument, slik mandatet til Straffeprosessutvalget er et eksempel på.20 Sentrale aktører med
-et bredt overblikk har for eksempel uttalt:
-17
-
-14
-
-Erfaringer fra tvisteloven viser at partenes prosessatferd
-og dommernes rolle også påvirker hvordan saker forberedes og iretteføres, se nærmere nedenfor i pkt. 7–8.
-15
-Se særlig Ot.prp. nr. 24 (2002–2003) Om lov om endringer i
-straffeprosessloven mv. (begrensninger i adgangen til dokumentinnsyn og bevisførsel) beskrivelsen på s. 7 flg. og s. 27–
-31 og Ot.prp. nr. 66 (2001–2002) Om lov om endringer i
-straffeprosessloven mv. (hurtigere straffesaksbehandling,
-varetektsfengsling i isolasjon mv.) s. 75.
-16
-Innst. O. nr. 65 (1994–95) Innstilling fra justiskomiteen om
-lov om endringer i straffeloven, veitrafikkloven og straffeprosessloven på s. 3.
-
-719
-
-Vedlegg 2
-
-18
-19
-20
-
-Gjengitt i Ot.prp. nr. 66 (2001–2002) på s. 75 (uthevet her).
-Se Prosjekt hurtigere straffesaksbehandling – Arbeidsgruppe
-II, sluttrapport 26. juni 2000 på s. 52. Arbeidsgruppen vurderte tiltak for hurtigere behandling av straffesaker i perioden mellom påtalevedtak og fullbyrdelse.
-Slik det ble anført for Metodeutvalgets (1997) virkelighetsbeskrivelse, se ovenfor.
-NOU 2009: 15 Skjult informasjon – åpen kontroll, s. 75
-(uthevet her).
-Se også Inge Lorange Backer, «I lovgivningsperspektiv: Er
-straffeprosessloven moden for revisjon?» Tidsskrift for
-Strafferett 2013 nr. 4 s. 447–457, på s. 453: «Komplekse
-straffesaker er blitt et tydeligere trekk i straffeprosessen»
-(uthevet her).
-
-[Side 722]
-
-720
-
-NOU 2016: 24
-
-Vedlegg 2
-
-Ny straffeprosesslov
-
-«I vårt land tar domstolsbehandlingen stadig lenger tid, utvilsomt et sammensatt og komplisert
-spørsmål hvor årsakene krever mer analyse
-enn plassen her tillater. Etter min oppfatning
-kan det vanskelig dokumenteres at det økte
-tidsforbruk fører til bedre rettssikkerhet, herunder riktigere avgjørelser.»21
-Nils Erik Lie, mangeårig førstelagmann i Borgarting, peker på noen lange linjer i kriminalitetsbildet, med en utvikling fra ca. 90 000 straffereaksjoner i 1970 til 336 000 i 2010, mer organisert kriminalitet og nye sakstyper som for eksempel miljøkriminalitet, menneskehandel og terror. Det er
-verd å merke at Lie deretter inntar et tjueårsperspektiv, og uttaler:
-«Samtidig ser vi en klar tendens til at flere saker
-i domstolene blir mer og mer omfattende.
-Ingen offisiell statistikk viser gjennomsnittlig
-varighet av sakene i retten. Min erfaring fra
-mange år i gamle Eidsivating og Borgarting
-lagmannsrett er at varigheten av ankesakene
-hadde en klar økende tendens. Lagrettesaker
-som tok fire–fem dager eller mer, var etter
-hvert heller regelen enn unntaket, mens de for
-20 år siden gjerne ble avviklet på to, maksimum
-tre dager.»22
-
-Uttalelsen ovenfor angir at kriminalitetsbildet og
-politiets satsinger på enkelte kriminalitetsområder er faktorer som påvirker og forlenger behandlingstidene i domstolene.
-Tilsvarende koblinger og uttalelser om
-«utviklingstendenser» er gjort av andre utvalg. Om
-sammenhengen mellom kriminalitetsbildet/utviklingen og straffesaksbehandlingen heter det
-i Politianalysen fra 2013:
-«Kriminalitetsbildet blir også mer komplekst og
-sammenvevd, bl.a. gjennom mer grenseoverskridende og organisert kriminalitet. Etterforskningen og iretteføringen av saker blir mer ressurskrevende. Dette utfordrer politiets kapasitet,
-kompetanse og organisering på nye måter.»24
-Tilgjengelige tall fra politiet om ressursbruken,
-gir en viss støtte for dette. I Driftsanalysen for
-politi- og lensmannsetaten for perioden 2002–2008
-heter det at
-«Vårt klare inntrykk er at kostnadsdriverne for
-straffesaksutgiftene ligger i de store og komplekse sakene på disse områdene [voldskriminalitet og alvorlige narkotikasaker, vår anm.].
-Sakene (…) er i dag både mer omfattende og
-med mer komplekse sammenhenger enn tidligere. Vi ser også at flere av de store sakene
-involverer personer med utenlandsk bakgrunn, noe som innebærer utstrakt bruk av tolker og større utgifter knyttet til dette. (…) Vi
-ser også en klar tendens til at hver enkelt sak
-tar lengre tid i retten, noe som også er et
-uttrykk for kompleksiteten i sakene. I en oversikt fra høyere påtalemyndighet sine aktorater
-og rettsdager kan man finne støtte for antagelsen om at straffesakene har blitt mer komplekse og omfattende.»25
-
-Også utvalg som har vurdert situasjonen for
-enkelte domstoler, konkluderer på samme måte. I
-en undersøkelse fra Oslo heter det:
-«Antallet anmeldte forbrytelser og forseelser i
-Oslo har vært relativt konstant siden 1996. Det
-har imidlertid i samme periode vært en markert økning i antallet hovedforhandlinger og
-rettsdager for Oslo tingrett. Årsaken til dette ligger dels i restanseavvikling, dels i en økning i
-politiets oppklaringsprosent og dels i endringer i hovedstadens kriminalitetsbilde. Tendensen går i retning av mer omfattende og komplekse saker og en større del av kriminaliteten
-har grenseoverskridende karakter eller bedrives
-av personer som samarbeider i nettverk. Økonomisk kriminalitet har videre vært et satsingsområde, hvilket har ført til en rekke store straffesaker i den senere tid.»23
-21
-
-Riksadvokat Tor-Aksel Busch, «Moderne kriminalitet – tradisjonell rettergang», Tidsskrift for strafferett 2011 s. 349–
-367, på s. 364 (uthevet her).
-22
-Nils Erik Lie, «Utviklingstrekk i det praktiske bevisbildet» i
-Ragna Aarli mfl. (red.), Bevis i straffesaker. Utvalgte emner.
-2015, s. 51 (uthevet her).
-
-23
-
-24
-
-25
-
-Sluttrapport fra arbeidsgruppe nedsatt av Justisdepartementet 4. september 2003 om effektivisering av straffesaksavviklingen, pkt. 8.2.1 (uthevet her). (https://
-www.regjeringen.no/globalassets/upload/kilde/jd/rap/
-2003/0012/ddd/word/193729sluttrapport_fra_arbeidsgruppen.doc).
-NOU 2013: 9 Ett politi – rustet til å møte fremtidens utfordringer. Politianalysen, s. 59 (uthevet her). Se også s. 67–75
-med videre henvisninger. Politianalysens vurdering er
-langt på vei i tråd med Politimetodeutvalgets og Metodekontrollutvalgets vurderinger, se henholdsvis NOU 2004: 6
-Mellom effektivitet og personvern s. 163 og NOU 2009: 15
-Skjult informasjon – åpen kontroll s. 78–79.
-Driftsanalyse av politi- og lensmannsetaten for perioden
-2002–2008, Politidirektoratets publikasjon 2010/03, s. 15–
-16. Analysen er basert på datagrunnlag og funn som fremkom i Agenda-rapporten Analyse av ressursbruken i politiet
-(2008) og Politidirektoratets rapport Politiet mot 2020
-(2008).
-
-[Side 723]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-Konklusjonen om at det er «en klar tendens» til at
-sakene tar lengre tid i retten enn tidligere – i tillegg til henvisninger til kriminalitetsendringer –
-begrunnes i at antall rettsdager er uforandret selv
-om antall saker går ned – en utvikling som også
-ses for perioden 2001–2004.26 Aktoratene «antas»
-å være mer ressurskrevende enn tidligere, de tar
-lengre tid å gjennomføre, og de krever gjerne to
-statsadvokater, fordi det iretteføres stadig mer
-omfattende og komplekse saker knyttet til kriminelle nettverk og organisert kriminalitet, ofte med
-mange tiltalte og behov for tolking. Tilsvarende
-ligger til grunn også for Domstoladministrasjonens rapport Aktiv saksstyring og saksavvikling i
-straffesaker.27
-Utviklingen med en nedgang i antall aktorater,
-men en økning i antall rettsdager, er imidlertid ikke
-entydig, men kan påvises i ulike perioder fra 2001
-og frem til 2014.28 Det er årsvariasjoner,29 men tallene gir en viss indikasjon på at sakene krever –
-eller i det minste blir vurdert å kreve – mer tid
-under iretteføring for enkelte år. Riksadvokatens
-tall for perioden 2009–2014 viser likevel at gjennomsnittlig antall rettsdager pr. statsadvokataktorat (primært saker med strafferamme over seks års fengsel) varierer nokså lite i perioden. Gjennomsnittet
-ligger jevnt mellom 2,66 (2009–2010), 2,8 (2011 og
-2013) og ca. 3 dager (2012 og 2014).30
-2.2
-
-2.2.1
-
-Særlig om rapporten Ressurs- og
-tidsbruk i omfattende straffesaker fra
-2011
-Arbeidsgruppens tallmateriale
-
-Vi har som nevnt i pkt. 1.3 valgt å følge Arbeidsgruppens metodologiske tilnærming i vår under26
-
-Driftsanalyse av politi- og lensmannsetaten for perioden
-2002–2008, s. 16, fig. 7, med videre henvisninger til Riksadvokatens årsrapport for henholdsvis 2005 og 2008.
-27 LOK-prosjektet, Delrapport nr. 6 (https://www.domstol.no/no/Domstoladministrasjonenno/Publikasjoner/
-Rapporter/).
-28
-Se Riksadvokatens årsrapport for 2012, hvor det for perioden 2011–2012 påvises en nedgang på 86 aktorat, men tross
-dette en økning i antall rettsdager på 10 dager. I Årsrapport
-2014 for Den høyere påtalemyndigheten s. 12 angis det en
-nedgang på 30 aktorater (2,7 %) i forhold til 2013, men samtidig en økning på 114 flere rettsdager (fra 3090 til 3204,
-dvs. ≈ 3,7 %). Tross økningen fra 2013 til 2014 innebærer tallene for 2014 likevel en nedgang både i antall aktorater og
-rettsdager i forhold til årene 2010–2012, se rapporten s. 15.
-29
-Se forrige note og Riksadvokatens andre tertialrapport for
-2015, som viser en nedgang både i antall aktorat (48 færre)
-og i antall rettsdager (25 færre) i forhold til samme periode
-i 2014.
-30
-Se tallene i Årsrapport 2014 for Den høyere påtalemyndigheten s. 15.
-
-721
-
-Vedlegg 2
-
-søkelse og redegjør derfor i det følgende for
-hovedinnholdet i Arbeidsgruppens rapport.
-Arbeidsgruppen definerte «store, omfangsrike
-straffesaker», som «saker hvor hoved- eller ankeforhandlingen varer mer enn 10 rettsdager».31 Tallmaterialet presenteres nærmere i pkt. 3.2 nedenfor,
-men som det vil fremgå der, er gjennomsnittsandelen av det man kan karakterisere som omfattende
-straffesaker, svært liten i forhold til det totale antall
-saker som ble behandlet i domstolene i 2005, 2009
-og 2010. I prosent dreier det seg om mellom 0,43
-og 0,6 prosent av sakene i tingrettene og mellom
-1,5 og 1,9 prosent av sakene i lagmannsrettene.32
-2.2.2
-
-Type saker og faktorer som påvirker tids- og
-ressursbruk
-
-Et kjennetegn ved de omfattende straffesakene
-som Arbeidsgruppen gjennomgikk, var at det i
-stor grad gjaldt straffesaker med flere tiltalte. I
-tingretten var det et snitt på henholdsvis 5,1
-(2005), 4,4 (2009) og 3,5 (2010) tiltalte.33 I lagmannsrettene var snittet henholdsvis 4, 3,6 og 3,4
-tiltalte for samme år.
-Et annet vesentlig trekk både i tingrett og lagmannsrett var at det var en høy andel saker hvor
-det ble anvendt tolk (grovt sett i 50 prosent eller
-mer av sakene). Det var også oppnevnt flere
-bistandsadvokater i hver sak.34
-De store og omfattende sakene i Arbeidsgruppens materiale hørte særlig til kategoriene økonomiske straffesaker, narkotikasaker og omfattende
-sedelighetssaker.35 Det påpekes at det fra 2005 har
-vært en «klar utvikling» mot flere store økonomisaker og «en økning» av omfangsrike sedelighetssaker i begge instanser, men at tallene er «svært
-lave og at det er begrenset hva som kan tolkes ut
-av årvisse endringer».36
-Arbeidsgruppens rapport går ikke i detalj inn i
-hver sak og på hvilke forhold ved den enkelte sak
-som påvirket tids- og ressursbruken. I oppsummeringen påpekes imidlertid noen generelle trekk,
-31
-32
-33
-34
-
-35
-
-36
-
-Det vil si mer enn 60 rettstimer, se Ressurs- og tidsbruk i
-omfattende straffesaker s. 9.
-Kun tall fra de sju største tingrettene var omfattet, se pkt.
-3.2.
-Arbeidsgruppens tall for antall tiltalte avviker noe fra de tall
-vi har innhentet fra DA, se pkt. 5.2.1.
-Rapporten s. 11–12. Antall bistandsadvokater i hver sak er
-ikke spesifisert, men det dreier seg om flere i hver sak. I
-lagmannsretten for 2010 var tallet 21 advokater på ti saker, i
-tingrettene 19 advokater på seks saker.
-I tall fra perioden 1997–2001 påpekes de samme sakskategoriene, se Reid J. Stene, «Politiet er mest avgjørende i
-rettssystemet», Samfunnsspeilet 3/2002, særlig på s. 16.
-Rapporten s. 12.
-
-[Side 724]
-
-722
-
-NOU 2016: 24
-
-Vedlegg 2
-
-Ny straffeprosesslov
-
-men uten at det spesifiserer om – og i så fall i hvilken grad – disse forhold konkret gjorde seg gjeldende i det undersøkte materialet:
-«Generelt kan det pekes på flere utviklingstrekk
-de senere årene som kan føre til mer omfattende
-hovedforhandlinger. For eksempel har den teknologiske utviklingen og ny straffeprosesslovgivning medført muligheter for å skaffe og å
-føre, bevis som tidligere ikke var mulig, for
-eksempel teletrafikk- og posisjoneringsdata,
-kommunikasjonskontrollmateriale, databeslag
-og andre elektroniske spor. Ellers kan nevnes
-økt fokus på straffebud som tar sikte på å ramme
-handlinger som i sin natur er skjulte og derved
-vanskelig å bevise uten å presentere et omfattende ‘puslespill’ som bevis. Eksempler på dette
-er korrupsjon, innsidehandel og konkurranselovbrudd. Nye inndragningsregler og økt bruk
-av inndragning reiser nye og komplekse problemstillinger. Fornærmede og etterlatte er gitt
-styrkede rettigheter, og flere erstatningskrav
-behandles i forbindelse med straffesakene. De
-nevnte faktorene er langt på vei knyttet til lovgivningstiltak som er villet, og ressursbehovet
-knyttet til iretteføringen forutsettes vurdert i
-forbindelse med de enkelte lovendringene.»37
-Arbeidsgruppen er forbeholden med å antyde
-årsak–virkning og angir at det dreier seg om
-utviklingstrekk som «kan» føre til mer omfattende
-hovedforhandlinger i fremtiden.38 Flere av de faktorer som angis her, gjenfinnes, som vi vil se, i de
-øvrige kilder i pkt. 2.1.
-Arbeidsgruppen ga i første rekke en generell
-prognose for fremtidig utvikling, men prognosen er
-usikker. Det ser i vårt materiale ikke ut til at de
-utviklingstrekk Arbeidsgruppen angir, har slått til
-eller vist seg i årene etter Arbeidsgruppens rapport, i hvert fall ikke i form av en økning i antall og/
-eller lengde på store saker. Tall vi har innhentet fra
-2011– 2014 (pkt. 5), gir ikke grunn til å konkludere
-med at det faktisk er blitt særlig flere saker og/eller
-«mer omfattende hovedforhandlinger» enn det
-Arbeidsgruppen la til grunn for 2005 og 2009–2010.
-37
-38
-
-Rapporten på s. 12, pkt. 3.4 (uthevet her).
-For bruk av inndragning kan utviklingen til en viss grad
-dokumenteres. I Politidirektoratets Anmeldt kriminalitet og
-straffesaksbehandling 2014 s. 27 heter det: «I 2014 var tallet
-på inndragningskrav totalt på 8 060, en økning på 1 470
-saker i forhold til året før. Det har det siste året vært en
-økning i alle typer inndragningskrav. Inndratte pengebeløp
-gikk ned i årene fra 2010 til 2013, men var i 2014 det høyeste i femårsperioden.» Se i samme retning statistikken for
-Økokrims saker på http://www.okokrim.no/om-okokrimstatistikk.
-
-2.2.3
-
-Arbeidsgruppens anbefalinger
-
-Basert på de generelle utviklingstrekk foreslår
-Arbeidsgruppen ulike tiltak, både i form av administrative tiltak (endring i rutiner, økt samhandling, effektivisering av tolketjenester, kompetanseheving mv.), mer aktiv bruk av gjeldende lovregulering og lovendringer. Flere av forslagene samsvarer med anbefalingen i Domstoladministrasjonens
-tidligere nevnte rapport Aktiv saksstyring og
-saksavvikling i straffesaker. Arbeidsgruppens forslag illustrerer ulike faktorer/forhold ved en sak
-som antas å påvirke tids- og ressursbruk, og gjengis derfor her.
-Arbeidsgruppen vurderte lovfesting av en generell plikt til forhåndsberamming av saker. Dette ble
-ikke anbefalt. Arbeidsgruppen mente at behovet
-måtte vurderes for hver sak, at den foreliggende
-praksis om forhåndsberamming fungerte og at økt
-samhandling (blant annet med varsel til retten om
-kommende saker) ville ivareta behovet.39
-Anbefalingene om mer aktiv bruk av gjeldende
-lovregulering kan sammenfattes slik:
-– skriftlig saksforberedelse for avklaring, konsentrasjon og et best mulig avgjørelsesgrunnlag:
-– økt bruk av redegjørelse fra påtalemyndigheten, jf. strpl. § 262 tredje ledd, og forberedende møter, jf. strpl. § 272
-– en omforent faktumbeskrivelse som tiltalte
-gis anledning til å tiltre, og som skal inngå i
-rettens avgjørelsesgrunnlag
-– krav om at partene i komplekse bevisanker
-angir hvilke bevisvurderinger i tingrettens
-dom som angripes, slik at bevisvurderingene ellers kan legges uprøvd til grunn, jf.
-strpl. § 331 tredje ledd
-– innledningsforedrag gjennomføres etter sivilprosessuell modell. Dokumentbevis fremlegges i sammenheng med redegjørelsen for saksforholdet, og begge parter presenterer rettslige og faktiske anførsler
-– oppdeling av rettsforhandlingene bør oftere
-vurderes, jf. strpl. § 288 (særlig erstatningskrav og inndragningskrav)
-– tiltak som kan bidra til å øke antallet tilståelsessaker:
-– hyppigere oppnevning av forsvarer i tilståelsessaker
-– økt bruk av saksomkostninger i saker uten
-tilståelse
-39
-
-Domstoladministrasjonens rapport Aktiv saksstyring og
-saksavvikling i straffesaker pkt. II/6 anbefaler at påtalemyndigheten varsler tingretten (og underretter lagmannsretten) om fristsaker og krevende saker, slik at tid til hovedforhandling kan reserveres.
-
-[Side 725]
-
-723
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-Arbeidsgruppens forslag til lovendringer omfatter
-følgende punkt:
-– lovendring for mer effektiv saksforberedelse:
-– planmøter etter tvistelovens mønster i komplekse straffesaker
-– endring i strpl. § 262: angivelse av bevis og
-pålegg om skriftlig redegjørelse
-– innledningsforedrag etter tvistelovens
-mønster, jf. strpl. § 289
-– ny bestemmelse om partenes felles utkast
-til beskrivelse av uomtvistet saksforhold til
-bruk i rettens avgjørelsesgrunnlag
-– krav til skriftlig redegjørelse fra ankende
-part om hvilke feil som påstås å foreligge i
-den påankede dom
-– retten kan pålegge partene å angi konkret
-hvilke deler av det faktiske forhold i den
-påankede dom som bestrides
-– adgang til bevisavskjæring under saksforberedelsen, uten muntlige forhandlinger.
-Dagens ordning er for omstendelig, og
-«frykt» for opphevelse ved avskjæring er til
-stede
-– adgang til å fremme en begrenset anke og stille
-en bevisanke i bero
-– adgang til å oppnevne koordinerende bistandsadvokat(er) i saker med flere fornærmede/
-etterlatte og andre med bistandsadvokat (er nå
-lovfestet i strpl. § 107 h)
-– begrensning i ankeadgangen for saker som
-etter loven kan medføre fengsel i mer enn seks
-år (suppleres med også «idømt eller påstått
-mer enn to år (…)»)
-Arbeidsgruppen anbefaler også en nærmere utredning av:
-– strpl. § 99, slik at straffens lengde som vilkår
-for offentlig oppnevnt forsvarer reduseres
-eller faller bort (for å øke antallet tilståelsesaker)
-– utvidet adgang til å oppnevne annen bistandsadvokat enn den fornærmede ønsker, og
-adgang for retten til å begrense antallet
-bistandsadvokater i en sak
-Vi utreder ikke videre de siste to punktene.40
-40
-
-Adgangen til å begrense antall bistandsadvokater er delvis
-fulgt opp ved ny strpl. § 107 h. Oppnevning av annen
-bistandsadvokat enn den fornærmede ønsker, er det
-begrenset adgang til (særlig for lagmannsretten), jf. strpl. §
-107 b andre ledd og «det frie bistandsadvokatvalget», slik
-det er knesatt i Rt. 2012 s. 1679.
-
-2.3
-
-Vedlegg 2
-
-Noen foreløpige vurderinger og
-presiseringer
-
-Det er en nær sammenheng mellom de siterte
-premissene i Straffeprosessutvalgets mandat. At
-kriminalitetsbildet (og endringer i det) og politiets
-satsinger på enkelte kriminalitetsområder er faktorer som påvirker og forlenger behandlingstidene i domstolene, er isolert sett rimelige hypoteser. De er lagt til grunn for mandatet, i flere av
-de uttalelser som er gjengitt i pkt. 2.1, og i
-Arbeidsgruppens rapport fra 2011.
-Men hvilke konklusjoner som kan trekkes fra
-det ovennevnte utvalg kilder, er likevel usikkert,
-av flere grunner. Som det fremgår i de nevnte
-referanser, er begrep som «tendens», «antakelse»/«anta» og «inntrykk» sterkt representert,
-uttalelsene er generelle, tallgrunnlaget er noe
-begrenset, tallene er ikke entydige, og antall kilder for tallmateriale er begrenset.
-Sentrale aktørers inntrykk og antakelser,
-basert på egen kjennskap til det praktiske rettsliv,
-er det verd å legge vekt på, men særlig tidsperspektivet som inntrykket er basert på, må klarlegges, blant annet for å ta høyde for endringer som
-ikke først og fremst kan knyttes til kriminalitetsbildet.
-Endringer i den samlede straffeprosessuelle
-regulering over tid som påvirker tidsbruk uavhengig av forhold ved «kriminalitetsbildet», må det
-tas hensyn til. Her nevnes kort at nye og skjerpede rettslige krav og føringer, særlig skjerpede
-krav til (doms)begrunnelser og andre saksbehandlingskrav, påvirker tidsbruk og hva som
-kreves av det bevismessige grunnlaget som
-dommen skal bygge på. Også ny erkjennelse av
-skadevirkninger av ulike typer lovbrudd og/eller
-endringer i syn på straffverdighet og håndhevelsesintensitet spiller inn, for eksempel i voldssaker
-(særlig vold i nære relasjoner), ved seksuallovbrudd og ved korrupsjon og annen økonomisk
-kriminalitet.
-Strukturelle endringer, som for eksempel innføring av toinstansbehandling, trekker også tid og
-ressurser, men heller ikke disse (menneskerettslig forankrede) endringer er i første rekke knyttet
-til endringer i kriminalitetsbildet. Dette er
-endringer i rettslig regulering og rettslige strukturer, basert på endret syn på rettslige krav til en
-rettferdig rettergang, både i de små og i de store
-sakene.
-
-[Side 726]
-
-724
-
-NOU 2016: 24
-
-Vedlegg 2
-
-Ny straffeprosesslov
-
-Videre må elementer av medieskapte inntrykk
-av kriminalitetsbildet og et økende antall «store
-saker» i domstolene tas bort for å få et riktigere
-bilde. Mediedekning av enkelte store straffesaker
-kan utvilsomt skape et feilaktig inntrykk av hva
-som er vanlig, og/eller danne grunnlag for oppfatninger om «en tendens», selv om den aktuelle sak
-er langt fra representativ for det samlede antall
-saker som behandles.41 Fokus i enkeltsaker på
-element fra kriminalitetsbildet/-utviklingen (som
-for eksempel «organisert kriminalitet» og «internasjonale forgreninger») kan på samme måte
-bidra til å tilsløre det store antall saker hvor slike
-element ikke er til stede.
-2.4
-
-Om mandatets begrepsbruk: effektiv,
-rettssikker og tillitvekkende
-
-Vi er bedt om å undersøke «generelt hvilke forhold eller mekanismer som har betydning for
-straffesaksbehandlingens effektivitet», jf. pkt. 1.2. I
-Straffeprosessutvalgets mandat heter det at utvalget skal foreslå regler basert på «en overordnet
-målsetting om en effektiv, rettssikker og tillitvekkende behandling av straffesaker».
-Formuleringene rører ved et grunnleggende
-problem knyttet til bruk av begrepet effektivitet.42
-Det er ikke uvanlig at dette anvendes upresist; at
-det ikke presiseres hva som legges i begrepet når
-ulike former for «effektivitetsargumenter» anføres
-som (del av) premissene for lovendringer. Til
-mandatets «målsetting» kan det for eksempel reises spørsmål om hvorvidt «effektiv, rettssikker og
-tillitvekkende» og «kvalitet, effektivitet og rettssikkerhet» angir selvstendige målsettinger ved
-eller kun ulike element i det som samlet sett kan
-betegnes som «effektiv» behandling av straffesaker eller – mer overordnet – «effektiv kriminalitetsbekjempelse».
-Utvalgets mandat benytter formuleringen «en
-overordnet målsetting», men slik mandatet ellers
-er formulert, legger vi til grunn at det er sistnevnte betydning det siktes til. I mandatets pkt. 1
-heter det at den gjeldende lovens «(…) system
-bygger likevel på en forutsetning om at hensynet
-til effektivitet ikke skal gå på bekostning av hensynet til mistenktes grunnleggende rettssikkerhet. I tillegg skal loven på forsvarlig vis ivareta
-
-hensynet til fornærmede». Utvalgets oppgave er
-å fremme et forslag til lov som «bør reflektere en
-balansert avveining mellom effektivitet og rettssikkerhet.»
-Effektiv(t) og effektivitet betyr «virke»/«virksom», det vil si noe som virker eller har virkning.
-Begrepet gir visse assosiasjoner, men det gir
-liten selvstendig mening med mindre det relateres til hva det er eller skal være effektivt i forhold
-til, og på hvilken måte det eventuelt er effektivt.43 Begrepet benyttes derfor ofte i sammensatt form (for eksempel «tidseffektiv» eller «kostnadseffektiv») eller i sammenkoblet form (for
-eksempel «effektiv etterforsking», «effektiv kontradiksjon», «effektivt forsvar», «effektiv ressursutnyttelse» og – som i vårt mandat – «straffesaksbehandlingens effektivitet»).
-Effektivitet kan i grove trekk sies å omfatte
-både formålseffektivitet (hvor godt virksomheten
-[her: straffesaksbehandlingen og dens aktører]
-innretter seg i forhold til de grunnleggende formål og målsettinger), kostnadseffektivitet (hvor
-godt virksomheten bruker ressursene som stilles til rådighet for å fremme disse)44 og tidseffektivitet (hvor hurtig virksomheten utfører sine
-oppgaver).
-I argumentasjon og drøftelser om effektivitet
-må det rimeligvis presiseres hva som er målsettingen, i det minste ved å angi én eller flere primærmålsettinger, og om det er rom for en gradering av målrealisering ved den aktuelle virksomhet. En moderne straffeprosesslov bør formentlig
-angi det i en formålsparagraf. Men også i tilfeller
-hvor lovens formål – og virkemidler for å oppnå
-disse formålene – angis, benyttes vide begreper
-med delvis overlappende innhold. Slik også i
-tvistelovens formålsbestemmelse (§ 1–1), hvor
-det heter at loven «skal legge til rette for en rettferdig, forsvarlig, rask, effektiv og tillitskapende
-behandling av rettstvister». Uttrykket «effektiv» i
-formålsbestemmelsen var ikke med i Tvistelovutvalgets forslag.45 Det ble tilføyet av departementet, men uten noen nærmere begrunnelse
-eller presisering av hva det tilførte lovens formål,
-43
-
-44
-41
-
-Som allerede påpekt utgjør de store sakene kun en liten
-brøkdel av det totale antall saker som behandles i domstolene hvert år.
-42
-Slik blant andre Magnus Ulväng, «Brottsbekämpning, rättssäkerhet och integritet – vad är det som har hänt och vad
-skall vi göra?» SvJT 2007 s. 1 flg., særlig på s. 8.
-
-45
-
-Se Ulväng, SvJT 2007 på s. 8: «(…) effektivitet kan tolkas
-på olika sätt beroende på vad det ställs i relation till – mål
-eller medel (…) Beroende på om det är mål eller medel
-man diskuterar, kan effektivitet således avse olika saker.»
-Slik NOU 1989: 5 En bedre organisert stat (Hermansenutvalget) på s. 16 om de «ulike styringsmessige behovene»
-og de «sentrale krav og hensyn» som ligger i dette.
-Se Tvistelovutvalgets forslag i NOU 2001: 32 A Rett på sak
-Lov om tvisteløsning (tvisteloven) s. 22 og de særskilte
-merknadene til bestemmelsen i NOU 2001: 32 B Rett på
-sak. Lov om tvisteløsning (tvisteloven) s. 649 flg.
+The Committee proposes, furthermore, certain changes to the provisions on the *court’s reliance on the claims and submissions, etc.*, *of the parties*, including the relationship between the indictment and the judgment. The proposals must be considered on the basis of the Committee’s position with regard to the importance that should be accorded to the adversarial principle in the new Criminal Procedure Act. No changes are proposed as far as concerns the *scope of the court for deviating from the description of the facts in the indictment*. As under the current act, the court shall not be able to adjudicate any other matter than that addressed in the indictment, but it shall not be bound by the specific details in the indictment with regard to time, place and other circumstances. However, it is proposed that the court’s *scope for applying legal rules to such facts* be restricted. *A majority of the Committee members* attach considerable weight to the perspective that the indictment’s specification of the facts of the case, together with its legal characterisation of these, offers the best indication of what the prosecuting authority has chosen to bring before the court for adjudication. Hence, the majority finds that it conforms best with the adversarial principle, and the considerations underpinning such principle, for the court to be, in principle, bound by such application of legal rules to the facts of the case as is specified in the indictment, although with scope for deviating from such application unless opposed by the prosecuting authority. *The minority* is of the view that such a solution is in conflict with the principle that the court has independent responsibility for the application of law, and does instead propose to take the approach that the identity of the matter changes if the court needs to base its ruling on other material facts than those described in the wording of the indictment, and also if the new application of legal rules to the facts of the case results in the legal nature of the matter being materially different from that outlined in the indictment. Reference is made to the discussions of the Committee in Sub-chapter 17.6.
+
+The Committee proposes, moreover, that the court shall *not be able to adjudicate other claims* than those brought by the prosecuting authority. The Committee is of the view that the current regime, under which the court may freely include confiscation and certain other claims in the sentence, irrespective of whether such claims have been brought, is contrary to the adversarial principle, and serves to make proceedings inquisitorial in nature. Besides, the Committee is of the view that there is no practical need for the court to be able to adjudicate claims of its own accord. See Sub-chapter 17.6.5 for further details.
+
+Otherwise, the Committee is proposing, as a main rule, to retain the principle that the court is *not restricted by the specific sanctions moved for by the prosecuting authority*. The adversarial principle might also occasion limitations to the leeway open to the court in this regard as well, but the Committee attaches decisive importance to the need for ensuring equal treatment and the importance of our tradition in which the Supreme Court has a special responsibility for determining and developing sanction levels in various respects. A certain modification of this main rule is proposed for cases in which the specific sanctions moved for by the prosecuting authority are based on the outcome of plea bargaining. See Sub-chapters 16.8.5 and 17.6.6.2.
+
+The Committee is of the view that current requirements as to written *grounds for legal rulings* should predominantly be maintained. The various considerations that are to be attended to by way of written grounds apply, at the same time, to varying degrees, depending on the type of ruling. The Committee is therefore of the view that the requirements as to grounds are best regulated by way of a relative standard. One aim is to make the court’s specification of grounds more focused than under current practice. Audio and video recording of the proceedings, as proposed by the Committee, will reduce the need for using the presentation of grounds in the judgment to ensure verifiability with regard to the presentation of evidence, and thus the grounds can be more focused on the assessments of the court with regard to the crux of the matter. The requirements as to grounds should to a greater extent reflect the roles and functions of the various courts.
+
+*3.3.8 The conduct of the criminal claim before the district court (Part 7 of the draft legislation)*
+
+*Chapter 18* presents the Committee’s proposal for regulation of the conduct of the criminal claim before the district court. The relevant provisions cover three chapters: preparing for the main hearing (Chapter 34 of the draft legislation), the main hearing (Chapter 35 of the draft legislation) and simplified proceedings (Chapter 36 of the draft legislation).
+
+The vast majority of criminal cases are small and simple, and the Committee is of the view that one should therefore, as a main rule, not propose more comprehensive preparatory proceedings than are implied by practice under the current act. The legislation must, at the same time, accommodate cases which are broader in scope or more complex, and which may merit more time and resources being devoted to planning and clarification prior to the main hearing.
+
+The draft is, against this background, based on the premise that the preparatory proceedings in ordinary cases shall, generally speaking, be conducted in the same manner as under prevailing law. However, it is proposed to have flexible provisions that allow for additional preparatory proceedings whenever needed; see Chapter 34 of the draft legislation.
+
+One innovation is that defence counsel shall, after having received the documentation from the prosecuting authority, normally file a *reply*, which shall specify what parts of the factual and legal aspects of the case the defence deems to be in dispute, which evidence the defence will present, whether additional investigative steps are requested, etc. The purpose is to ensure that important clarifications which may simplify the further proceedings take place as early as possible. The duty of defence counsel to file a reply must be considered in view of the suspect’s protection against involuntary self-incrimination and the scope of defence counsel’s duties.
+
+In certain cases, which are typically of a certain magnitude or complexity, the indictment’s specification of the matter brought before the court by the prosecuting authority may offer the suspect limited prospects for preparing his or her defence. The Committee is nonetheless not proposing any changes to the requirements applicable to the indictment, because it must as a general rule be deemed appropriate for the indictment to be focused and brief. It is instead proposed, in order to accommodate the suspect’s need for more detailed information concerning the accusation, to introduce a provision to the effect that the prosecuting authority shall in certain cases, of its own volition, prepare a written account of the case.
+
+The Committee is of the view, as mentioned in Sub-chapter 3.3.7, that the court should generally have an overall responsibility for managing the case in order to, inter alia, ensure planned and focused proceedings. The need for case management is particularly acute during the preparatory proceedings, and the Committee proposes an explicit regulation of the court’s case management duty at this stage, including a duty to plan the further proceedings. The requirement for planned proceedings should in principle apply to all cases, but in small and simple cases there will rarely be a need for any formalised plan. This is reflected in the draft.
+
+The draft provides the court with broad scope, during the preparatory proceedings, for making necessary decisions concerning the further conduct of the case, including issues of relevance to the conduct of the main hearing, such as the scope of the presentation of evidence, etc. Decisions during the preparatory proceedings may, according to the draft, be made on the basis of written or oral proceedings, depending on what the court deems necessary to ensure a sound basis for adjudication, cf. Sub-chapter 18.1.6
+
+The draft provides the court with a number of mechanisms for preparatory proceedings, which may be used whenever needed in any given case. It is thus proposed that the court may decide to convene a *preparatory court hearing*, and that such hearing may be held with only the professional participants in attendance, when it is not necessary for the indicted persons, the aggrieved persons or surviving relatives to be present. It is proposed that the scope of the court for ordering the prosecuting authority to submit a *written account* of the case be continued, subject to certain minor modifications. It is proposed, moreover, that the court be given scope for calling upon the parties to prepare a *joint presentation of the case* to clarify which parts of the factual aspects of the case are agreed. The court may, according to the proposal, rely on such a joint presentation of the case, alongside the other evidence in the case. The court may also stipulate a time limit for the submission of *closing statements*.
+
+The Committee has considered whether the court should, to a greater extent than under the current act, have access to the *case documents*, which in the draft are referred to as the “case details”. *A majority of the Committee members* are of the view that the court should, in principle, have unrestricted access to the case details, both for use during the preparatory proceedings and in the subsequent conduct of the case. The majority believes that it is important for the court – in order to engage in case management, to conduct preparatory proceedings, as well as to monitor and check the presentation of evidence – not to have less access to information than the parties. The position of the majority implies no change to the principle that the court may only base its ruling on information that has been presented as evidence in the main hearing or appeal hearing. *A minority of the Committee members* are of the view that the court should not have access to case information to any greater extent than is implied by prevailing law. The position of the minority is primarily motivated by the its view that the court should not have access to statements made to the police and other information that have not and will not be presented as evidence in the case, as there may in such circumstances be a risk that the court will, deliberately or inadvertently, attach weight to information that has not been subjected to presentation as evidence and adversarial proceedings. See Sub-chapter 17.4 for further details on this issue.
+
+The Committee’s proposal for provisions on the main hearing before the district court are structured somewhat differently from the corresponding provisions under the Criminal Procedure Act; see Chapter 35 of the draft legislation and Sub-chapter 18.2. The provisions primarily regulate the sequencing of the main hearing. Provisions on, for example, attendance by the indicted person, the reading of statements made to the police and the duty of the court to clarify the facts of the case, are found in other chapters, in line with the structure of the draft legislation. Another new feature is that the chapter on the main hearing contains a separate provision on case management and allows, to some extent, for written presentation of evidence.
+
+The provisions on *judgment based on a plea of guilty* – termed judgment based on “simplified proceedings” in the terminology of the draft legislation – are found in Chapter 36 of the draft legislation. The provisions are predominantly a continuation of the current arrangement, with the difference that it is no longer a condition for such proceedings that the suspect has consented; see the discussion in Sub-chapter 18.3.
+
+*3.3.9 Appeal (Part 8 of the draft legislation)*
+
+*Chapter 19* provides a separate discussion of various types of procedural error and their effects. The chapter examines, inter alia, the distinction between so-called absolute and relative errors, which distinction the Committee proposes to retain; see Sub-chapter 19.4.3.
+
+In *Chapter 20*, the Committee discusses general issues in relation to appeal (Chapters 37 to 39 of the draft legislation). Major structural changes to the regulatory framework are proposed. It is proposed, in order to facilitate more focused appeal proceedings, to introduce stricter requirements with regard to the contents of the notice of appeal than under prevailing law. Furthermore, the Committee proposes changing the provisions on the filing of the notice of appeal, with such notice being filed with the court that rendered the ruling, and it is proposed to introduce statutory provisions on time limits for the submission of supporting documentation.
+
+A key reform proposal is to allow for reusing the presentation of evidence that took place before the district court. The Committee proposes extensive audio and video recording of the proceedings in court hearings, including recoding of the testimony of parties, witnesses and experts; see Sub-chapter 6.5.3 for further details on this. It is proposed that recordings from the proceedings before the district court may be played back before the court of appeal instead of, or as a supplement to, direct presentation of witness testimony. See Sub-chapter 6.5.4 for further details on the scope for using the recordings during appeal proceedings, etc., cf. also Sub-chapters 3.3.1, 3.3.3 and 3.3.7.
+
+The Committee has discussed whether there should be a general requirement for selectivity as to whether an appeal shall be heard by the court of appeal. *A majority of the Committee members* are proposing to abolish the unconditional right to appeal hearing of the so-called six-year cases. It is proposed that all appeals shall, as a main rule, be screened on the basis of a general criterion to determine whether these shall be heard by the court of appeal. There shall be a presumption that an appeal filed in respect of a judgment will be heard, although with scope for denying to hear, on their merits, appeals that clearly cannot succeed. The consent arrangement for “minor cases” will be continued in its present version. *The minority* proposes to retain the arrangement with an unconditional right to an appeal hearing for certain cases, in modified form. See Sub-chapter 20.4.4.3.
+
+The Committee has considered solutions that may serve to make the appeal proceedings more efficient and focused, without impairing the scope for sound adjudication of the case. The Committee proposes to allow for the written processing of all appeals over judgments before the court of appeal, when the parties consent to it or the court finds that such procedural format is obviously appropriate. As far as oral appeal hearings are concerned, the Committee proposes a general provision to the effect that the appellant is, as a main rule, responsible for the initial presentation of the case before the court. See Sub-chapter 20.4.6 for further details.
+
+The Committee has concluded that the provisions on the conduct of appeals before the Supreme Court should predominantly remain the same as under prevailing law. However, certain modifications are proposed; see Sub-chapter 20.4.10.2.
+
+*3.3.10 Enforcement and reopening (Part 9 of the draft legislation)*
+
+*Chapter 21* contains the Committee’s general assessments of the enforcement provisions (Chapter 40 of the draft legislation).
+
+The Committee proposes to abolish the arrangement for a specific enforcement order from the prosecuting authority following a final and binding judgment, because there are by then no further prosecution duties to perform. Otherwise, it is predominantly proposed that the substance of the current provisions be retained, although with a different structure.
+
+*Chapter 22* addresses the provisions on reopening (Chapter 41 of the draft legislation). The Committee recommends that the current provisions on reopening be predominantly retained as far as their substance is concerned, and that the issue of reopening be resolved, as at present, by the Commission for the Reopening of Criminal Cases. However, the Committee is of the view that there is a need for fairly comprehensive structural revision to make the provisions on reopening and the proceedings before the Commission more readily comprehensible.
+
+The judicial remedies of appeal and reopening are at present partly overlapping, inasmuch as the prosecuting authority may appeal in favour of the convicted person, irrespective of any time limit for the filing of appeals. The Committee is of the view that it would be appropriate to streamline the judicial remedies, with reopening being the only relevant remedy following a final and binding judgment.
+
+The draft legislation stipulates that all rulings rendered in the form of a judgment shall be subject to reopening. This includes – unlike under prevailing law – rulings pertaining to the execution of sentences, because one may otherwise risk having no scope for challenging rulings which suffer from fundamental errors, and which may ultimately result in unlawful deprivation of liberty.
+
+Reopening premised on incorrect application of law currently rests on somewhat uncertain foundations. The draft legislation explicitly allows scope for the reopening of cases for reasons of incorrect application of law in case of material shortcomings with regard to legal authority when it is obvious that one or more key sources of law have been ignored; see Sub-chapter 22.3.6.3.
+
+The Committee is of the view that there should be no *time limit for reopening*, but recommends stricter reopening conditions for cases that have been finally and bindingly adjudicated for more than 25 years, especially because the evidence situation will after such a long time generally be significantly impaired. The Committee’s proposal stipulates that reopening of such cases is subject to “special circumstances making it doubtful that the judgment is correct”.
+
+The Committee recommends a cautious modification to the intensity of the court’s review of the validity of the decisions of the Commission for the Reopening of Criminal Cases. It is proposed that there shall, unlike under prevailing law, be scope for re-examining the Commission’s assessment of evidence, but only in “special cases”. The reasoning behind the proposal is that issues addressed in the examination of the matter may be entirely new in the case, thus implying that the question of guilt or the sentencing is examined on a complete basis for the first time before the Commission. It is assumed that confidence in the reopening arrangement will be best preserved by giving the courts scope for reviewing, with a certain intensity, the validity of the decisions of the Commission in such situations.
+
+*3.3.11 Military criminal cases (Part 10 of the draft legislation)*
+
+In *Chapter 23*, the Committee proposes to retain separate provisions for military criminal cases in the Criminal Procedure Act (Chapter 42 of the draft legislation). It is proposed to expand the substantive scope of the regulatory framework, and there shall as a main rule not be made any distinction between acts committed in times of war or peace.
+
+The Committee proposes to retain the military prosecuting authority, directly under the Director of Public Prosecutions. The Director General of Military Prosecutions and the military prosecutors are given the same power to prosecute in military cases as is conferred on the public prosecutors.
+
+It is proposed, furthermore, that the investigation of military criminal cases shall be conducted by a group of investigators from the military police, directly under the Director General of Military Prosecutions, with the prosecuting authority having the exclusive power to issue orders and impose instructions during the investigation.
+
+Under the Committee’s proposal, the court shall as a main rule not include military lay judges in military criminal cases. The need for expertise shall be assessed on the basis of the general statutory provision on the appointment of expert lay judges. It is proposed, furthermore, that the conduct of military criminal cases be centralised in selected courts. It is proposed that detailed provisions be laid down in the form of administrative regulations.
+
+*3.3.12 Private criminal cases*
+
+In *Chapter 24*, the Committee proposes to abolish the arrangement for private criminal cases. The main reasoning behind the proposal is that criminal prosecution should be a matter for the State. Criminal prosecution involves considerable responsibility, which should only be conferred on an independent and objective prosecuting authority. The range of sanctions available to the State should not be placed at the disposal of private parties. This position must be considered in the context of the observations made with regard to whether the aggrieved person should be accorded the status of party to criminal proceedings, cf. Sub-chapter 10.3.1.
+
+The specific need for private criminal prosecution seems limited, and the number of such cases before the Norwegian courts in recent years has been small. The practical scope of private prosecution has been focused, in particular, on defamation cases. Criminal liability for defamation was abolished when the new Penal Code entered into effect, and hence there is reason to assume that the number of private criminal cases will further decline.
+
+The legitimate interest of the aggrieved person in presenting his or her view on the issue of prosecution is, in the opinion of the Committee, adequately catered for via the scope for appealing the prosecution decision. Furthermore, the prosecuting authority’s handling of the case may be brought before the Parliamentary Ombudsman. As far as a potential claims for compensation are concerned, the interests of the aggrieved person are attended to via the scope for instituting civil proceedings pursuant to the Dispute Act. Moreover, the Committee’s proposal calls for the superior prosecuting authority to specifically supervise, to a greater extent than at present, the subordinate prosecuting authority. It must be assumed that this will strengthen the quality of prosecution decisions, in addition to facilitating the correction of specific misjudgements. Criticism of the general prioritisations of the prosecuting authority should be communicated via the ordinary political channels.
+
+*3.3.13 Monetary claims, etc. (Part 11 of the draft legislation)*
+
+*Chapter 25* contains the Committee’s discussions of the scope for hearing civil claims in criminal cases (Chapter 43 of the draft legislation). The Committee is of the view that there should, as at present, be broad scope for hearing various claims alongside criminal claims. Joint hearing of claims delivers significant resource savings and relieves the aggrieved person with a claim for compensation of the burden of further proceedings. It is proposed to somewhat expand the arrangement by, inter alia, enabling administrative sanctions to be imposed in connection with criminal cases.
+
+The current provisions on the hearing of civil claims in the context of criminal procedure are found in various chapters of the Criminal Procedure Act and are fairly complex in structure. The Committee has deemed it important to make the provisions more readily accessible, and has opted for bringing the provisions on civil claims together in one chapter.
+
+The procedural provisions in the draft are more detailed than those in the current Criminal Procedure Act. The main rule shall, as at present, be that the provisions on the hearing of the criminal claims shall also regulate the hearing of the civil claims to the extent applicable. A new feature is that it is expressly stated that the proceedings shall take place within a basic framework moulded on the Dispute Act.
+
+There shall, under the Committee’s proposal, to a greater extent than at present be imposed obligations on the claimholder when civil claims are heard in the context of criminal procedure. There shall, inter alia, be stipulated a *time limit for filing a request* for the hearing of civil claims. The main rule under the draft is that claims that have been served on the opposite party or submitted in a court hearing shall be deemed to have been waived if withdrawn from the proceedings before the court has ruled thereon. Such stricter requirements concerning the conduct of civil claims must be considered in view of the aggrieved person and surviving relatives largely being assisted in the conduct of such claims. Besides, the prosecuting authority has in the draft been given a duty to inform injured persons of the scope for hearing civil claims during criminal prosecution. All in all, this formal framework will presumably be conducive to more predictable – and thus more efficient – hearing of civil claims in criminal cases.
+
+A significant difference from prevailing law is that the draft reintroduces the *principle of uniformity*. The principle, which underpinned the previous Criminal Procedure Act, implies that if someone is acquitted of a criminal claim, it shall not be permitted to adjudicate, in the same proceedings, civil claims originating from the same subject matter. The background to the Committee’s recommendation in this regard is that there are different standards of proof and different requirements as to the preponderance of votes for criminal claims and civil claims, which for a joint hearing of claims implies that the indicted person may be acquitted of the criminal claim whilst at the same time being held liable for the same subject matter for civil law purposes. The Committee is of the view that such a divergent outcome in the same proceedings is problematic, because it undermines the acquittal in respect of the criminal claim. Besides, the hearing of civil claims following an acquittal in respect of the criminal claim will pose significant challenges, especially because it follows from Article 6(2) of the European Convention on Human Rights that the court cannot, in such a situation, formulate its conclusions in a manner that sows doubt about the innocence of the tortfeasor under criminal law. A principle of uniformity avoids these undesirable effects.
+
+In order to safeguard the injured person against suffering a loss as the result of civil claims no longer being heard in the proceedings in the event of acquittal in respect of the criminal claim, the Committee is of the view that an arrangement should be introduced under which the State covers the claims of the aggrieved person for certain types of cases. It is proposed that such arrangement shall apply to cases in which the indictment concerns offences that represent a violation or attempted violation of “life, health or liberty”. The prosecuting authority should determine whether the basis of liability falls within the scope of the indictment, and the level of compensation should be determined by the criminal injuries compensation authorities. Furthermore, the claim should be covered without taking a view on whether the acquitted person is guilty. Such an arrangement will, in addition to strengthening the presumption of innocence, normalise the protection of the injured person from the perspective of the law of torts, since payment is not restricted by the stricter standard of proof otherwise applied in the hearing of civil claims that have their origin in criminal offences. Any claim falling outside the scope of the compensation scheme (guarantee scheme) may, in the event of acquittal, be brought before the courts in separate proceedings pursuant to the provisions of the Dispute Act.
+
+In *Chapter 26*, the Committee discusses the issue of liability for legal costs (Chapter 44 of the draft legislation). The Committee is of the view that the state should, as a main rule, cover the expenses of conducting criminal cases. The limited scope of the suspect for influencing the proceedings, as well as social and structural legal considerations, all favour such a solution. The Committee is of the view, against this background, that the scope for holding the suspect liable for legal costs under prevailing law is broader than is desirable. The draft stipulates that the suspect may only be held liable for costs incurred in conducting criminal cases which are incurred as the result of him or her *complicating* the case.
+
+*Chapter 27* contains the Committee’s discussion of the provisions on the right to compensation after criminal prosecution (Chapter 45 of the draft legislation). The current regulation is maintained in its predominant aspects, but modifications are made in some respects. The Committee is of the view that the provision in Section 446 of the Criminal Procedure Act on the reduction or elimination of compensation in the event of contributory acts is difficult to justify, and recommends that it be brought more into line with the principle in Section 5-1 of the Compensatory Damages Act. Furthermore, the Committee proposes, in view of the rationale behind the compensation scheme, a provision that limits the right to compensation for certain legal entities.
+
+*3.3.14 Financial and administrative implications*
+
+*Chapter 28* addresses financial and administrative implications of the Committee’s proposal.
+
+3.4 Comments on the Committee’s legislative proposal (Part IV of the report)
+
+*Chapter 29* provides an overview of the structure of the proposal for a new Criminal Procedure Act and its relationship to other parts of the regulatory framework. In Sub-chapter 29.1, the Committee outlines the reasoning behind its proposal that the title of the new act should be “Act relating to the Conduct of Criminal Cases (the Criminal Procedure Act)”. Furthermore, the division of the act into parts and chapters is explained. Sub-chapter 29.2 addresses the relationship to, inter alia, the Dispute Act, the Courts of Justice Act, the Penal Code, the Execution of Sentences Act, the Police Records Act and the Prosecution Instructions. The Committee’s proposal will necessitate extensive consequential amendments to other parts of the regulatory framework, and there is reason to examine more closely whether, inter alia, the Dispute Act should be brought into conformity with the adopted regulations. The effort will have to be carried out at a later stage of the legislative process. Besides, it will be necessary to revise the Prosecution Instructions, and the Committee is presenting certain general recommendations for such revision.
+
+*Chapter 30* contains comments on the individual parts, chapters and provisions of the draft new Criminal Procedure Act, with explanation of the contents of the proposed changes. The relationship to prevailing law is in the comments largely limited to a reference to key provisions that are retained, and to discussions in the general observations. A listing of the relationship between individual provisions of the current act and the draft new act is attached as Appendix 1.
+
+*Chapter 31* contains the Committee’s comments on proposed amendments to the Constitution and other statutes.
+
+The Committee proposes to amend Article 96 of the Constitution to introduce a requirement for “independent accusation”; see the discussion in Sub-chapter 8.5. The proposal must be considered in the context of the Committee’s proposal for strengthening the independence of the prosecuting authority from political authorities in the draft new Criminal Procedure Act; see Sub-chapters 3.3.2 and 8.2.1, as well as the proposed abolition of the arrangement for private criminal cases; see Sub-chapter 3.3.12 and Chapter 24.
+
+It is proposed to amend the Courts of Justice Act to introduce provisions on information security; see Sub-chapter 6.4.2.3, communication with the courts of justice; see Sub-chapter 6.4.3.2, electronic service of documents; see Sub-chapter 6.4.4.2, remote examination and remote hearing; see Sub-chapter 6.4.5.3, recording during court hearings; see Sub-chapter 6.5.3.3, and court hearings and court records; see Sub-chapter 29.2.3.
+
+The Committee’s proposal for provisions on international collaboration in Part 4 of the draft legislation will occasion amendments to the Extradition Act, the Courts of Justice Act, the Penal Code, Act of 15 June 2001 No. 65 relating to the Implementation in Norwegian law of the Statute of the International Criminal Court of 17 July 1998 (the Rome Statute) and Act of 24 June 1994 No. 38 relating to the Implementation in Norwegian law of United Nations Security Council Resolutions on the Establishment of International Tribunals for Crimes in the Former Yugoslavia and Rwanda. Moreover, it is proposed, as a result of the regulation in Part 4 of the draft, to repeal Act of 25 March 1977 No. 22 relating to the Transfer of Criminal Prosecution from or to other European Countries and Act of 13 June 1997 No. 47 on Implementation of the Council of Europe Agreement of 31 January 1995 on Illicit Traffic in Narcotic Drugs and Psychotropic Substances by Sea. See Sub-chapter 15.3 for further details.
+
+It is proposed that the authorisation for the Norwegian Correctional Services to make decisions, submit requests and attend court hearings under certain circumstances be moved to the Execution of Sentences Act; see Sub-chapter 8.2.5.2.
+
+It is proposed that the duty of the child welfare service to inform the prosecuting authority of decisions in child welfare cases be regulated in the Child Welfare Act; see the comments on Section 28-2, Sub-section 3, of the draft and on the proposed amendment to Section 3-5 of the Child Welfare Act.
+
+[^1]: Se nærmere Kjelby (2013).
+
+[^2]: Om ulike styringsdokumenter og dialogen med Politidirektoratet om mål og prioriteringer, se riksadvokaten (1/2016) punkt I.
+
+[^3]: Ot.prp. nr. 90 (2003–2004) s. 82.
+
+[^4]: NOU 2013: 9 s. 59.
+
+[^5]: NOU 2013: 9 s. 69–71.
+
+[^6]: NOU 2013: 9 s. 71.
+
+[^7]: Ot.prp. nr. 33 (1993–94) s. 16.
+
+[^8]: Ot.prp. nr. 11 (2007–2008) s. 24.
+
+[^9]: Se for eksempel NOU 1997: 15 punkt 3.1.1 og 3.1.3.1.
+
+[^10]: Ot.prp. nr. 62 (2002–2003) s. 52.
+
+[^11]: NOU 1997: 15 punkt 3.1.1. Se også Prop. 68 L (2015–2016) s. 258–259.
+
+[^12]: Se NOU 2009: 15. Se også Prop. 68 L (2015–2016).
+
+[^13]: Prop. 68 L (2015–2016) s. 259–260.
+
+[^14]: Thorsen mfl. (2009) og Andenæs mfl. (2016) s. 29–39. Se ellers statistikkområdet *Sosiale forhold og kriminalitet: Kriminalitet og rettsvesen* på www.ssb.no.
+
+[^15]: SSB (2016a).
+
+[^16]: SSB (2016a).
+
+[^17]: SSB (2016a).
+
+[^18]: Se nærmere Mæhle (2014).
+
+[^19]: Se Stene (2002).
+
+[^20]: Se nærmere Universitetet i Bergen (2011).
+
+[^21]: Se for eksempel Justis- og politidepartementets høringsnotat *Hurtigere behandling av straffesaker*, (Justis- og politidepartementet (28.09.06)), etter nedsettelse av en arbeidsgruppe som hadde til mandat å foreslå prosessuelle effektivitetsgrep.
+
+[^22]: Se til sammenligning Stene (2002).
+
+[^23]: Se Domstoladministrasjonen (2015d).
+
+[^24]:
+    |                     |      |      |      |      |      |
+    |---------------------|------|------|------|------|------|
+    |                     | 2011 | 2012 | 2013 | 2014 | 2015 |
+    |                     |      |      |      |      |      |
+    | Agder               | 4,5  | 4,5  | 4,7  | 4,1  | 3,6  |
+    | Borgarting          | 6,1  | 5,9  | 5,1  | 5,9  | 6,1  |
+    | Eidsivating         | 5,1  | 5,1  | 5,0  | 6,4  | 4,8  |
+    | Frostating          | 6,7  | 5,5  | 7,1  | 7,6  | 7,1  |
+    | Gulating            | 6,6  | 8,3  | 6,7  | 6,0  | 6,3  |
+    | Hålogaland          | 3,4  | 3,5  | 4,4  | 4,0  | 4,2  |
+    | Vektet gjennomsnitt | 5,8  | 5,9  | 5,5  | 5,6  | 5,6  |
+    |                     |      |      |      |      |      |
+
+    Se til illustrasjon Stene (2001).
+
+[^25]: Se til illustrasjon Kjelby og Skyberg (2016) punkt 5.2.8.
+
+[^26]: Som allerede påpekt utgjør de store sakene kun en liten brøkdel av det totale antall saker som behandles i domstolene hvert år.
+
+[^27]: Kjelby og Skyberg (2016) punkt 2.3.
+
+[^28]: Kjelby og Skyberg (2016) punkt 3.1.
+
+[^29]: Kjelby og Skyberg (2016) punkt 3.1.
+
+[^30]: Kjelby og Skyberg (2016) punkt 3.2.
+
+[^31]: Kjelby og Skyberg (2016) punkt 5.2.5.
+
+[^32]: Kjelby og Skyberg (2016) punkt 5.2.2.
+
+[^33]: Kjelby og Skyberg (2016) punkt 5.2.3.
+
+[^34]: Kjelby og Skyberg (2016) punkt 5.2.4.
+
+[^35]: Kjelby og Skyberg (2016) punkt 5.3.1.
+
+[^36]: Kjelby og Skyberg (2016) punkt 5.3.2.
+
+[^37]: Kjelby og Skyberg (2016) punkt 7.1.
+
+[^38]: Se Rt. 2000 s. 996 på s. 1008 og Rt. 2005 s. 833 avsnitt 46.
+
+[^39]: Se for eksempel Ot.prp. nr. 61 (2001–2002).
+
+[^40]: Se EP/Rdir 2016/680, jf. også punkt 6.4.2.1 nedenfor om informasjonssikkerhet.
+
+[^41]: Se Aall (2015b) s. 55 flg.
+
+[^42]: Se til dette Spesialenhetens vedtak i sak 750/15–123 (15.08.16).
+
+[^43]: Men unntak finnes, se for eksempel den såkalte Krigsforbrytersaken i Rt. 2010 s. 1445, der det ble lagt til grunn at Grunnloven § 97 gir et sterkere vern mot tilbakevirkende lovgivning enn EMK artikkel 7.
+
+[^44]: Se om dette Aall (2015b) s. 44–47.
+
+[^45]: Se for eksempel Al-Khawaja og Tahery mot Storbritannia (26766/05 og 22228/06), dom 15.12.11 (storkammer) og punkt 13.5.2. Fra den senere tid, se Ibrahim m.fl. mot Storbritannia (50541/08, 50571/08, 50573/08 og 40351/09), dom 13.09.16 (storkammer).
+
+[^46]: Eksempler er FNs og Europarådets torturkonvensjoner fra henholdsvis 1984 og 1987 og FNs barnekonvensjon fra 1989.
+
+[^47]: Aall (2015b) s. 26.
+
+[^48]: Andenæs (1995) s. 84.
+
+[^49]: Av juridisk teori som bidro til økt oppmerksomhet om EMKs betydning på straffeprosessens område i denne perioden, kan særlig nevnes Aall (1995).
+
+[^50]: Se European Court of Human Rights (2016) s. 3 og 4.
+
+[^51]: Se til illustrasjon Rt. 2008 s. 1764.
+
+[^52]: Se Finstad og Salomonsen (2015) s. 396–427, som behandler ulike former for innflytelse fra EU-retten på norsk straffe- og prosesslovgivning.
+
+[^53]: (2000/C 364/01).
+
+[^54]: Til illustrasjon av kildematerialets omfang og betydning på et enkeltstående område, se Horn (2015) kapittel 13 Rettspolitiske føringer i «myke» menneskerettslige kilder og kapittel 14 Rettspolitisk betydning av «myke» menneskerettslige kilder.
+
+[^55]: For en oversikt over sentrale rettigheter slik de er vernet i Grunnloven og i EMK, se Aall (2015b), med videre henvisninger.
+
+[^56]: Kjelby (2013) s. 646.
+
+[^57]: Jf. også riksadvokaten (2/2015) punkt. VIII, 1.1 og 1.3.
+
+[^58]: Riksadvokaten (3/1999) s. 5.
+
+[^59]: Riksadvokaten (3/1999) s. 3.
+
+[^60]: Kjelby (2013) s. 657.
+
+[^61]: Jf. Andenæs og Myhrer (2009) s. 343 (petit). Se dog Hov (2010b) s. 780 flg. og Kjelby (2013) s. 36 og 656 flg. Det kan være at forfatterne har noe ulike typesituasjoner for øye.
+
+[^62]: Se Hov (2010b) s. 788 flg.
+
+[^63]: Jf. Andenæs og Myhrer (2009) s. 33.
+
+[^64]: Se Kjelby (2013) s. 120–121 med videre henvisninger til forarbeidene til straffeprosessloven 1887.
+
+[^65]: Se NOU 2014: 10 s. 240.
+
+[^66]: Ot.prp. nr. 51 (2004–2005) s. 34.
+
+[^67]: Ot.prp. nr. 51 (2004–2005) s. 34.
+
+[^68]: Andenæs og Myhrer (2009) s. 33.
+
+[^69]: Rt. 2007 s. 521 avsnitt 12.
+
+[^70]: Hagerup (1904) s. 84.
+
+[^71]: Det er gitt utdypende regler i forskrift, se forskrift 6. juli 2001 nr. 757 om offentlighet i rettspleien. Se også rundskriv G-2001-22 om offentlighet i rettspleien.
+
+[^72]: Ot.prp. nr. 55 (1997–98) s. 41.
+
+[^73]: Andenæs og Myhrer (2009) s. 127.
+
+[^74]: Aarli (2010) s. 434 flg.
+
+[^75]: Rt. 1988 s. 314 på s. 319.
+
+[^76]: Contempt of Court Act 1981, Chapter 49 section 4 (2).
+
+[^77]: Retsplejeloven § 1019 stk. 2 nr. 3.
+
+[^78]: Se riksadvokaten (1/1981) del II.
+
+[^79]: Se Rui (2014b).
+
+[^80]: Se Rt. 2008 s. 610.
+
+[^81]: Unntak fremgår av straffeprosessloven §§ 281 og 336, jf. 335.
+
+[^82]: Rt. 2010 s. 655.
+
+[^83]: Prop. 147 L (2012–2013) punkt 4.1.
+
+[^84]: Se Hov (2010b) s. 1094 og Rui (2014c) s. 412.
+
+[^85]: Rt. 1996 s. 572.
+
+[^86]: Andenæs og Myhrer (2009) s. 393.
+
+[^87]: Se straffeprosessloven § 109 a.
+
+[^88]: Bjerke, Keiserud og Sæther s. 1071 med videre henvisninger.
+
+[^89]: Andenæs og Myhrer (2009) s. 248.
+
+[^90]: Bjerke, Keiserud og Sæther (2011) s. 997.
+
+[^91]: I motsetning til straffeprosessloven 1887.
+
+[^92]: Bjerke, Keiserud og Sæther (2011) s. 1052 og 1053.
+
+[^93]: Rt. 1994 s. 610 og Rt. 2007 s. 932.
+
+[^94]: Se Rt. 2007 s. 932, Aall (2011) s. 405–406 og Bjerke, Keiserud og Sæther (2011) s. 1052.
+
+[^95]: Straffeprosesslovkomitéen (1969) s. 304.
+
+[^96]: Rui (2014c) s. 428.
+
+[^97]: Hagerup (1904) s. 78. Se nærmere om betydningen av muntlighet i Kjelby og Skyberg (2016) kapittel 8.
+
+[^98]: Rui (2014c) s. 428.
+
+[^99]: Jussila mot Finland (73053/01), dom 23.11.06, storkammer, avsnitt 43.
+
+[^100]: Jussila mot Finland (73053/01), dom 23.11.06, storkammer, avsnitt 41.
+
+[^101]: Hagerup (1904) s. 78.
+
+[^102]: Høiesteret (1910) s. 9. Se nærmere Kjelby og Skyberg (2016) punkt 8.3.
+
+[^103]: Se nærmere Rt. 2005 s. 513 med videre henvisninger til praksis fra EMD.
+
+[^104]: Se for eksempel Rt. 2015 s. 619 avsnitt 12 og 13.
+
+[^105]: Matningsdal (2013) s. 17 og 49.
+
+[^106]: Se Rt. 2014 s. 920 avsnitt 14 med videre henvisninger til rettspraksis.
+
+[^107]: Jf. Rt. 2007 s. 1833.
+
+[^108]: Andenæs og Myhrer (2009) s. 77.
+
+[^109]: Hagerup (1904) s. 74.
+
+[^110]: Andenæs og Myhrer (2009) s. 67.
+
+[^111]: Om «the sporting theory of justice», se Robberstad (2007) kapittel 2.
+
+[^112]: NOU 2001: 32 Bind A s. 172.
+
+[^113]: Se punkt 5.3.8.
+
+[^114]: Se Rt. 2013 s. 905.
+
+[^115]: Se blant annet NOU 1992: 16, NOU 2006: 10 og Ot.prp. nr. 11 (2007–2008). Se også punkt 10.1.
+
+[^116]: Robberstad (2013) s. 1. Det siktes til at Norge fikk sin første straffeprosesslov ved lov 1. juli 1887 nr. 5 om Rettergangsmaaden i Straffesager (straffeprosessloven 1887).
+
+[^117]: Ot.prp. nr. 11 (2007–2008) s. 7.
+
+[^118]: NOU 2002: 11 punkt 4.3.
+
+[^119]: For en historisk oversikt, se NOU 2002: 11 kapittel 3.
+
+[^120]: Se NOU 2011: 13 punkt 8.3 og Andenæs og Myhrer (2009) s. 108 flg.
+
+[^121]: Andenæs og Myhrer (2009) s. 111.
+
+[^122]: Se også Kjelby og Skyberg (2016) punkt 2.4.
+
+[^123]: Hensynet til sakens opplysning må tåle begrensninger også av andre grunner enn effektivitetshensyn, herunder verdier som går på tvers av hensynet til sakens opplysning, som hensynet til privatliv og konfidensialitet. Det er prioritering av slike verdier som ligger til grunn for blant annet de lovfestede forklaringsforbudene i straffeprosessloven §§ 117 flg.
+
+[^124]: Rui (2014c) s. 396.
+
+[^125]: Rui (2014c) s. 415.
+
+[^126]: Se blant annet Rt. 2006 s. 856 med videre henvisninger.
+
+[^127]: Rui (2014c) s. 396.
+
+[^128]: Ot.prp. nr. 82 (1999–2000) s. 13.
+
+[^129]: Se for eksempel lov 23. juni 2000 nr. 54 om edb-baserte reservasjonssystemer for passasjertransport m.v.
+
+[^130]: Ot.prp. nr. 27 (2005–2006) s. 9.
+
+[^131]: Se Riksrevisjonen (2012). En oversikt over diverse utredninger mv. om domstolenes bruk av elektronisk kommunikasjon frem til 2002, er gitt i Ot.prp. nr. 8 (2002–2003) punkt 4, på s. 11 flg.
+
+[^132]: NOU 2015: 13 s. 278. Se også s. 267.
+
+[^133]: Se også Riksrevisjonen (2012), som inneholder en mer utførlig fremstilling av IKT-systemene som benyttes i straffesaksbehandlingen.
+
+[^134]: Politidirektoratet (2015) s. 7.
+
+[^135]: Politidirektoratet (2015) s. 8.
+
+[^136]: Se også Politidirektoratet (2015) s. 9 og 67–69.
+
+[^137]: Se Domstoladministrasjonen (2015c) og Domstoladministrasjonens nettside *Digitale domstoler.*
+
+[^138]: Se Justis- og beredskapsdepartementet (2014).
+
+[^139]: Se EP/Rdir 2016/680. Se også Datatilsynet (2012) s. 8 og NOU 2015: 13 s. 258.
+
+[^140]: Forholdet mellom moderne informasjons- og kommunikasjonsteknologi og informasjonssikkerhet er behandlet i NOU 2015: 13.
+
+[^141]: Se Ot.prp. nr. 92 (1998–99) s. 105.
+
+[^142]: Schartum og Bygrave (2016) s. 157–158.
+
+[^143]: Datatilsynet (2012) s. 15.
+
+[^144]: Disiplinærutvalget for Oslo krets, beslutning 15.09.03.
+
+[^145]: Forskrift 12. februar 2012 nr. 140 om prøveordning med elektronisk kommunikasjon med domstolene § 12.
+
+[^146]: Om den nå opphevede straffeprosessloven § 61 a i Bjerke, Keiserud og Sæther (2011) s. 226.
+
+[^147]: Datatilsynet (2012) s. 8.
+
+[^148]: NOU 2015: 3.
+
+[^149]: NOU 2015: 3 s. 258, jf. s. 251 flg.
+
+[^150]: Datatilsynet (2012) s. 15–16.
+
+[^151]: Rt. 2012 s. 556 avsnitt 19.
+
+[^152]: Borgarting lagmannsrett, kjennelse 18. august 2016.
+
+[^153]: Tilføyd ved lov 25. april 2003 nr. 24 om endringer i rettergangslovgivningen mv. (elektronisk kommunikasjon med domstolene mv.), i kraft 28. oktober 2005.
+
+[^154]: Ot.prp. nr. 8 (2002–2003) s. 5.
+
+[^155]: Ot.prp. nr. 8 (2002–2003) s. 26.
+
+[^156]: Forskrift 12. februar 2012 nr. 140 om prøveordning med elektronisk kommunikasjon med domstolene.
+
+[^157]: Ot.prp. nr. 8 (2002–2003) s. 26, jf. Bøhn (2013a) s. 641.
+
+[^158]: Se Rt. 2010 s. 688 avsnitt 11–15.
+
+[^159]: Bøhn (2013a) s. 642 (delvis i petit). Se også s. 791.
+
+[^160]: Datatilsynet (2012) s. 15.
+
+[^161]: Rt. 2010 s. 246 (avsnitt 11), jf. også Bøhn (2013a) s. 791.
+
+[^162]: Ot.prp. nr. 8 (2002–2003) punkt 5.7.
+
+[^163]: Forskrift 12. februar 2012 nr. 141 om endring i forskrift om postforkynning.
+
+[^164]: Se Rt. 2014 s. 1292.
+
+[^165]: Jf. Straffeprosessloven § 185 fjerde ledd fjerde punktum, jf. tvisteloven § 13-1 annet ledd.
+
+[^166]: Bestemmelsen ble vedtatt ved lov 30. mars 2012 nr. 14 om endringer i voldsoffererstatningsloven og straffeprosessloven, foranlediget av 22. juli-saken.
+
+[^167]: Forskrift 12. august 2011 nr. 835 om fjernmøter og fjernavhør i straffesaker. Se ellers Ot.prp. nr. 27 (2005–2006) punkt 3 og Prop. 141 L (2009–2010) kapittel 5, med videre henvisninger.
+
+[^168]: Forskrift 21. desember 2007 nr. 1605 til tvisteloven (tvistelovforskriften).
+
+[^169]: Lag (2005:683) om ändring i rättegångsbalken, i kraft 1. november 2008.
+
+[^170]: Prop. 2004/05: 131 s. 225.
+
+[^171]: Prop. 2004/05: 131 s. 225.
+
+[^172]: Prop. 2004/05: 131 s. 226.
+
+[^173]: Lov nr. 538 af 8. juni 2006 om ændring af retsplejeloven og forskellige andre love (Politi- og domstolsreform).
+
+[^174]: Lovforslag fremsatt 01.03.06, L-168-2005-2006, punkt 6.2.2.
+
+[^175]: Betænkning nr. 1401/2001 s. 354 og Lovforslag fremsatt 01.03.06, L-168-2005-2006, punkt 6.2.1.3.
+
+[^176]: Se lov nr. 493 af 12. juni 2009 om ændring af retsplejeloven og udlændingeloven. Se også Justisministeriets proposisjon 26. februar 2009.
+
+[^177]: Betænkning nr. 1401/2001 s. 359.
+
+[^178]: Betænkning nr. 1401/2001 s. 353 og Lovforslag fremsatt 01.03.06, L168-2005-2006, punkt 6.2.1.2.
+
+[^179]: Se nærmere NOU 2011: 13 s. 183–184.
+
+[^180]: Riksadvokaten (2/2016) punkt 6.6 og 6.7.
+
+[^181]: Se HR-2016-379-A avsnitt 53.
+
+[^182]: Riksadvokaten (16.10.09) s. 5.
+
+[^183]: Riksadvokaten (16.10.09) s. 1.
+
+[^184]: Bjerke, Keiserud og Sæther (2011) s. 87.
+
+[^185]: Straffeprosesslovkomitéen (1969) s. 120–127 og Ot.prp. nr. 35 (1978–79) s. 87.
+
+[^186]: NOU 1992: 28 s. 76–77.
+
+[^187]: Justis- og politidepartementet (2001) s. 102.
+
+[^188]: Jf. Justis- og politidepartementet (2005), Domstoladministrasjonen (2009a) og Domstoladministrasjonen (2015b).
+
+[^189]: NOU 2001: 32 bind A s. 643. Se også bind B s. 836 flg.
+
+[^190]: Prop. 141 L (2009–2010) s. 74.
+
+[^191]: NOU 2011: 13 s. 194–202.
+
+[^192]: Se også Kjelby og Skyberg (2016) punkt 8.4.
+
+[^193]: Bjerke, Keiserud og Sæther (2011) s. 1084.
+
+[^194]: Rt. 2003 s. 1511.
+
+[^195]: Andenæs og Myhrer (2009) s. 407.
+
+[^196]: Bjerke, Keiserud og Sæther (2011) s. 1170.
+
+[^197]: Se Bjerke, Keiserud og Sæther (2011) s. 1173–1174 og Andenæs og Myhrer (2009) s. 490.
+
+[^198]: Se også en redegjørelse for reformen i NOU 2011: 13 s. 190–194.
+
+[^199]: Prop. 2004/05: 131 s. 200–201.
+
+[^200]: Prop. 2004/05: 131 s. 234–235.
+
+[^201]: Prop. 2004/05: 131 s. 234.
+
+[^202]: Prop. 2004/05: 131 s. 237.
+
+[^203]: Utvalgsmedlemmet Jahre besøkte Svea hovrätt 29. januar 2016, der han overvar en sak og hadde samtaler med dommerne, aktor, forsvarer og bistandsadvokat.
+
+[^204]: Bestemmelsen trådte i kraft 01.04.16. Se nærmere i Forslag til Lov om ændring af retsplejeloven (Videoafhøring af børn og unge i straffesager), 04.11.15.
+
+[^205]: Se nærmere om dansk rett i NOU 2011: 13 s. 188–190.
+
+[^206]: Se nærmere i NOU 2011: 13 s. 189.
+
+[^207]: Lovforslag fremsatt 01.03.06, L168-2005-2006, s. 147.
+
+[^208]: Betænkning nr. 1401/2001 s. 391.
+
+[^209]: Se lov nr. 652 af. 15. juni 2010.
+
+[^210]: Se Lovforslag fremsatt 26.03.10 L168-2005-2006, Bemærkninger til retsplejeloven § 711.
+
+[^211]: Betænkning nr. 1513/2010 s. 12, 72–74 og 85.
+
+[^212]: Betænkning nr. 1513/2010.
+
+[^213]: Justitsministeriets forskningskontor, «Evaluering af forsøg med lydoptagelse i retten», august 2009 og Domstolsstyrelsens notat om forsøgsordning med lydoptagelse af forklaringer i straffesager. Inntatt i Betænkning nr. 1513/2010 på s. 120–176 og 177–183.
+
+[^214]: Betænkning nr. 1513/2010 s. 64 og 171–176.
+
+[^215]: Ot.prp. nr. 78 (1992–93) s. 43.
+
+[^216]: NOU 2011: 13 s. 208–209.
+
+[^217]: Juryutvalget har redegjort for argumentene for og mot bruk av lyd- og bildeopptak i NOU 2011: 13.
+
+[^218]: NOU 2011: 13 s. 203–204.
+
+[^219]: NOU 2011: 13 s. 207.
+
+[^220]: Se NOU 2011: 13 s. 205–206.
+
+[^221]: NOU 2011: 13 s. 207.
+
+[^222]: Se NOU 2011: 13 s. 179 flg. og 203.
+
+[^223]: NOU 2011: 13 s. 205.
+
+[^224]: Se NOU 2001: 32 Bind B s. 845.
+
+[^225]: Se også NOU 2011: 13 s. 205.
+
+[^226]: Se Straffeprosesslovkomitéen (1969) s. 145. Etter straffeprosessloven 1887 var dette tilsynelatende annerledes: Rigsadvokatens Skrivelse af 26 Februar 1890 forutsetter at det henvises til et materielt straffebegrep. Gjengitt i Kjerschow (1897) s. 2.
+
+[^227]: Se Straffeprosesslovkomitéen (1969) s. 146.
+
+[^228]: Se Ot.prp. nr. 23 (1961–62).
+
+[^229]: Se Prop. 169 L (2012–2013) s. 4.
+
+[^230]: Andenæs og Myhrer (2009) s. 39 og Straffeprosesslovkomitéen (1969) s. 168.

@@ -1,1070 +1,244 @@
-# NOU 2016: 24, del 20 av 73 (side 224–235)
+# NOU 2016: 24, del 20 av 69
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/1182afc0-nou-2016-24.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-24/id2517932/
 - Original-PDF: https://www.regjeringen.no/contentassets/6fe1d875248042b4a09b43b85aa46832/no/pdfs/nou201620160024000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 9 tabeller, 1 figur, 52 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 224]
-
-222
-
-Kapittel 9
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-av Oslo tingrett i 2012 rettet mot faste forsvarere
-at enkelte ikke utførte noen av oppdragene selv,
-mens andre utførte veldig få oppdrag personlig. I
-hovedsak var oppdragene utført av advokater ved
-det samme kontoret som den faste forsvareren.
-Oslo tingrett sendte brev til de faste forsvarene 8.
-mai 2013, hvor det ble presisert at det er en forutsetning at de faste forsvarene selv tar de oppdrag
-som tildeles gjennom ordningen. Oppfølgingsundersøkelser i 2013 og 2014 pekte i samme retning
-som undersøkelsen i 2012.77
-Denne delen av utvalget peker på at det er
-klart uheldig at oppdragene utføres av andre enn
-den faste forsvareren selv. Det innebærer også
-brudd på forutsetningen for ordningen – at den
-faste forsvareren er vurdert personlig egnet. En
-praksis der oppdrag regelmessig overføres til
-andre på kontoret ved at mistenkte oppfordres til
-å skifte forsvarer, er dessuten konkurransevridende.
-Det vil styrke ordningen om vesentlig flere
-personer med de nødvendige faglige og personlige egenskaper kan inngå i gruppen av faste forsvarere. En slik løsning kan videre avbøte den
-uheldige konkurransevridende virkningen av
-ordningen, og vil kunne motvirke uheldig aktivitet for å sikre seg klienter fra forsvarere utenfor
-ordningen («klientkapring»). I denne sammenheng er det dessuten et poeng at en utvidelse av
-ordningen vil kunne demme opp for slik uheldig
-praksis som man har sett blant annet ved Oslo
-tingrett. De nevnte hensyn kunne tilsi at det
-burde gjelde et generelt kvalifikasjonskrav for å
-stå på listen over faste forsvarere, og at ordningen således kunne omfatte alle som oppfyller kravet og som selv ønsker det. Det antas imidlertid
-at en slik løsning vil medføre betydelig administrasjon. Dertil kommer at det kan være vanskelig
-å håndheve personlige krav til egnethet dersom
-ordningen åpnes opp som skissert. En slik løsning foreslås derfor ikke.
-Etter en samlet vurdering har denne delen av
-utvalget kommet til at antallet faste forsvarere bør
-økes betydelig sammenlignet med i dag. Ordningen med faste bistandsadvokater bør av de
-samme grunner utvides tilsvarende. For denne
-delen av utvalget er det sentralt at domstolene
-jevnlig kontrollerer om oppdragene utføres personlig. Det bør videre kreves at forsvarerne og
-bistandsadvokatene oppgir hvor mange av de tildelte sakene vedkommende har utført selv, og
-hvorfor så eventuelt ikke har vært tilfellet. Advo77
-
-Oslo tingrett har oversendt resultatet av undersøkelsene
-og brevet til de faste forsvarerne til utvalget.
-
-kater som ikke utfører oppdrag selv, bør kunne
-tas ut av ordningene.
-En annen del av utvalget, medlemmene Hammervik, Keiserud, Kvisberg, Langbach, Lie og
-Sunde, mener at dagens ordning med faste forsvarere og faste bistandsadvokater i det alt
-vesentlige fungerer bra og at ordningen derfor
-må videreføres. Mennesker som er mistenkt i
-straffesak eller mener seg utsatt for en straffbar
-handling har krav på at deres interesser blir ivaretatt av advokater som er særlig skikket til å
-utføre denne jobben. Mye av de daglige gjøremål
-kan man ikke lese seg til i loven, og grensen mellom det som er innenfor og det som ligger utenfor
-advokatoppdraget kan tidvis være vanskelig å
-trekke. I så måte er mengdetrening ofte en forutsetning for å utføre både forsvarer- og bistandsadvokatoppdrag på en betryggende måte. En
-avskaffelse eller en betydelig utvidelse av ordningen vil ikke ivareta dette hensynet på en god nok
-måte. Faste forsvarere og bistandsadvokater
-antas etter en søknadsprosedyre der alle advokater kan søke, og Domstoladministrasjonen tilsetter etter innstilling fra førstelagmann og sorenskriver. Ordningen sikrer at den som ikke selv
-velger en forsvarer, får oppnevnt en advokat som
-etter søknad er funnet å ha de nødvendige kvalifikasjoner for å utføre en så viktig oppgave. Der det
-foreligger et begrunnet behov for utvidelse kan
-økning i antallet advokater foretas, men det bør
-være opp til den enkelte domstol å vurdere dette
-behovet. Det er Domstoladministrasjonen som i
-dag fastsetter antallet faste forsvarere og
-bistandsadvokater ved den enkelte domstol, jf.
-forskriften § 1, jf. loven § 101 hvoretter antallet
-skal være «tilstrekkelig». Dersom Advokatforeningen lokalt mener antallet faste forsvarere eller
-bistandsadvokater ved en domstol er for lavt, vil
-det være naturlig å ta dette opp med sorenskriveren, typisk i forbindelse med årlige samhandlingsmøter eller liknende.
-De beskrevne problemer knyttet til at faste forsvarere overlater oppdrag til andre ved samme
-kontor fremstår i hovedsak som et Oslo-problem.
-Dersom det er et uttrykk for at de faste forsvarerne i Oslo ikke selv har kapasitet til å utføre
-slike oppdrag, indikerer det at antallet faste bør
-økes der. Problemer knyttet til praktiseringen av
-den faste ordningen i Oslo bør imidlertid ikke føre
-til en endring av en ellers velfungerende ordning i
-landet forøvrig. Domstolene skal for øvrig løpende
-føre kontroll med om oppdraget følges opp personlig og kan om nødvendig slutte å tildele den
-aktuelle advokaten oppdrag.
-
-[Side 225]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-Et samlet utvalg er enig om at nærmere krav til
-erfaring og kvalifikasjoner for faste forsvarere bør
-fastsettes i forskrift. Videre bør de faste forsvarerne være tilknyttet de enkelte tingretter og lagmannsretter. I dag gjelder vervet for den aktuelle
-
-223
-
-Kapittel 9
-
-tingrett og for lagmannsretten i det lagsognet
-tingretten tilhører, jf. forskrift 4. mars 2011 nr. 251
-om faste forsvarere og bistandsadvokater § 1
-annet ledd.
-
-[Side 226]
-
-224
-
-NOU 2016: 24
-
-Kapittel 10
-
-Ny straffeprosesslov
-
-Kapittel 10
-
-Fornærmede, etterlatte, skadelidte og bistandsadvokaten
-10.1 Innledning
-I straffeprosessloven er bestemmelser om fornærmede og etterlatte i hovedsak gitt i kapittel 8 a.
-Generelle regler om bistandsadvokat finnes i
-kapittel 9 a. Prosessuelle rettigheter og plikter for
-disse aktørene er for øvrig spredt rundt i loven i tilknytning til reguleringen av sakens enkelte
-stadier.1
-Om behovet for endringer i lovens bestemmelser om fornærmede og etterlatte heter det i
-utvalgets mandat punkt 5:
-«Ved lov 7. mars 2008 nr. 5 ble fornærmedes og
-etterlattes rettsstilling styrket. Det vises for
-øvrig til Ot.prp. nr. 11 (2007–2008) og NOU
-2006: 10. Siden fornærmedes og etterlattes
-rettsstilling relativt nylig er vurdert, legger
-departementet til grunn at behovet for revisjon
-av disse reglene ikke er stort. Utvalget kan likevel foreslå endringer.»
-Utvalget legger til grunn at det ikke er ønskelig
-med en omfattende revisjon av reglene om fornærmede og etterlattes prosessuelle stilling, og
-lovforslaget innebærer ikke noe prinsipielt avvik
-fra gjeldende rettstilstand.
-Bistandsadvokatordningen er særskilt løftet
-frem i mandatet punkt 4.8:
-«Utvalget bør vurdere reglene om bruk av […]
-bistandsadvokat.»
-Bistandsadvokatordningen har vært endret og
-utvidet en rekke ganger, sist ved lovreformen i
-2008. Det er forhold som tilsier at bistandsadvokatordningen har utviklet seg annerledes enn forutsatt, blant annet har utgiftene ved ordningen blitt
-betydelig høyere enn anslått, noe som også indikerer at selve ordningen har blitt mer omfattende
-
-enn forutsatt. I 2015 var kostnadene på
-kr 133 037 000. Fra flere hold, blant annet Bistandsadvokatprosjektet i Oslo tingrett, har det vært
-fremholdt at det kan være grunn til å undersøke og
-vurdere om ordningen fungerer hensiktsmessig.2
-Utvalget har hatt dette for øye ved vurderingen av
-enkeltspørsmål knyttet til ordningen, men har ikke
-funnet grunn til å vurdere ordningen som sådan.
-Et overordnet mål er at en ny straffeprosesslov
-skal få en lovteknisk enklere og mer pedagogisk
-oppbygging, jf. mandatet punkt 2. Utvalget går på
-den bakgrunn inn for en generell omstrukturering og klargjøring av regelverket om fornærmede, etterlatte og bistandsadvokaten, særlig
-med sikte på å synliggjøre aktørenes rolle i
-prosessen.
-Nærheten mellom fornærmedes, etterlattes og
-bistandsadvokatens stilling i prosessen taler for
-felles regulering. Dersom bistandsadvokat er oppnevnt, forutsettes mange av fornærmede og etterlattes rettigheter utøvd gjennom eller av bistandsadvokaten. Reguleringen i straffeprosessloven
-kapittel 8 a og 9 a er derfor i utkastet samlet i
-kapittel 5.
-De ulike kategoriene rettighetshavere foreslås
-definert i loven. For å gjøre regelverket oversiktlig og tilgjengelig anbefales det at aktørenes
-særskilte rettigheter i hovedsak samles i ett kapittel, likevel slik at enkelte bestemmelser er rene
-henvisninger til de deler av loven der reguleringen systematisk hører til, se nærmere kapittel 29.
-Etter straffeprosessloven kan rettskrav som
-fornærmede eller andre skadelidte har mot
-siktede, fremmes i forbindelse med straffesaken,
-jf. § 3 første ledd. Behandlingen av sivile krav foreslås regulert i et eget kapittel i loven, se nærmere
-om denne reguleringen i kapittel 25 og utkastet
-kapittel 43.
-
-2
-1
-
-Se for eksempel straffeprosessloven §§ 264 a om dokumentinnsyn og 291 a om bistandsadvokatens rett til å stille
-spørsmål under hovedforhandlingen.
-
-Bistandsadvokatprosjektet i Oslo tingrett 2012–2013 har
-vurdert bistandsadvokatordningen og kommet med forslag
-til lovendringer i rapport 6. januar 2014. Prosjektet ble ledet
-av tingrettsdommer Anne Margrethe Lund.
-
-[Side 227]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-10.2 Oversikt over gjeldende regelverk
-10.2.1 Kort om «fornærmede», «etterlatte» og
-«skadelidte»
-Straffeprosessloven definerer ikke hvem som er
-fornærmet i en straffesak. Oppfatningen i teori og
-praksis har tradisjonelt vært at fornærmede er
-den som er «innehaver av en slik interesse som
-vedkommende straffebud er ment å beskytte».3
-Den som rammes av en straffbar handling, vil
-vanligvis bare bli ansett som fornærmet i prosessuell forstand dersom straffebudet først og fremst
-er satt til vern om private interesser. I tvilstilfeller
-legges det normalt avgjørende vekt på om
-vedkommende person er så direkte krenket ved
-lovovertredelsen at det er grunn til å gi vedkommende de prosessuelle rettighetene fornærmede
-har.4
-Straffelovkommisjonen foreslo følgende legaldefinisjon i tilknytning til bestemmelsene om
-påtale:
-«Rett til å kreve påtale som fornærmet har den
-som er rammet i en interesse straffebudet tar
-sikte på å beskytte, eller som på annen måte er
-direkte krenket ved den straffbare handling.»5
-Ordningen med påtalebegjæring fra fornærmede
-ble ikke videreført i ny straffelov, og bestemmelsen ble derfor ikke tatt med i loven.
-Skadelidte er andre som har lidt skade eller tap
-ved den straffbare handling uten å ha så nær tilknytning til den at vedkommende får stilling som
-fornærmet. Det kan for eksempel være tale om
-økonomisk tap påført foreldre som følge av en forbrytelse begått mot barnet deres.6
-En grunnleggende forskjell mellom fornærmede og andre skadelidte er at fornærmede har
-prosessuelle rettigheter uavhengig av om vedkommende fremmer sivilt krav i saken. Tanken er
-at disse personene er rammet så hardt av den
-straffbare handlingen at de bør ha en særlig
-interesse i straffesaken.7
-Etterlatte er definert i straffeprosessloven § 93 a
-annet ledd. Gruppen omfatter nærstående til per3
-
-4
-5
-6
-7
-
-Eller «bæreren av det ved handlingen krenkede rettsgode», se Andenæs og Myhrer (2009) s. 86 med videre
-henvisninger. Se også NOU 2006: 10 s. 25.
-Bjerke, Keiserud, Sæther (2011) s. 37 og Andenæs og Myhrer (2009) s. 86–87.
-NOU 1992: 23 s. 288 og 246 til 248.
-Robberstad (2014) s. 7, Andenæs og Myhrer (2009) s. 83
-og 87.
-NOU 2006: 10 s. 26.
-
-225
-
-Kapittel 10
-
-soner som er omkommet ved en straffbar handling. Personkretsen er avgrenset til avdødes ektefelle eller samboer, barn og foreldre. Søsken,
-besteforeldre og verge for personer under 18 år er
-ikke omfattet.8
-Straffeprosessloven opererer med to kategorier fornærmede og etterlatte: De som har fått
-oppnevnt bistandsadvokat, og de som ikke har
-det. Enkelte prosessuelle rettigheter er således
-forbeholdt «fornærmede og etterlatte med
-bistandsadvokat», slik som retten til å foreslå
-supplerende bevisføring om straffekravet etter
-§ 264 a annet ledd.9
-10.2.2 Kort om bistandsadvokatordningen
-Straffeprosesslovens ordning med bruk av
-bistandsadvokat er beskrevet som et «resultat av
-erkjennelsen av at fornærmede og etterlatte har
-legitime rettigheter og behov som må ivaretas
-under straffesaksbehandlingen».10
-Fornærmede fikk første gang rett til advokathjelp i straffesaker på det offentliges bekostning
-ved lov 12. juni 1981 nr. 66. Retten tilkom da
-fornærmede i voldtektssaker. Ved oppfølgingen av
-Fornærmedeutvalgets utredning ble ordningen
-betydelig styrket. Uttrykket «bistandsadvokat»
-ble tatt i bruk, og retten til bistand ble utvidet til
-flere sakstyper. Samtidig ble bistandsadvokatens
-oppgaver flere, og oppgavene ble tydeliggjort.11
-Ordningen er også senere endret og utvidet, se
-for eksempel lov 30. mars 2012 nr. 14, som åpnet
-for å oppnevne koordinerende bistandsadvokat i
-større saker etter § 107 h.
-Bistandsadvokat oppnevnes etter straffeprosessloven § 107 b, jf. § 107 a, og betales som
-hovedregel av det offentlige. Bistandsadvokatens
-oppgaver og rettigheter fremgår generelt av § 107 c
-og dessuten lovens ulike kapitler om etterforskingsstadiet, forberedelse til hovedforhandling
-mv. Foruten bistandsadvokatens rett til å utøve
-fornærmedes og etterlattes rettigheter og plikter
-på deres vegne, jf. § 107 c femte ledd, har
-bistandsadvokaten egne rettigheter og plikter
-etter loven. Et eksempel på det siste er retten til å
-stille spørsmål under hovedforhandlingen etter
-straffeprosessloven § 291 a annet ledd.
-8
-9
-
-10
-11
-
-Registrert partner er likestilt med ektefelle, jf. lov 30. april
-1993 nr. 40 om registrert partnerskap § 3.
-Se nærmere om bakgrunnen for dette skillet i NOU 2006:
-10 punkt 8.7.1 og 10.2.2. Se også kritikken i Robberstad
-(2014) s. 232 flg.
-Andenæs og Myhrer (2009) s. 99.
-Lov 7. mars 2008 nr. 5 om endringer i straffeprosessloven
-mv. (styrket stilling for fornærmede og etterlatte).
-
-[Side 228]
-
-226
-
-NOU 2016: 24
-
-Kapittel 10
-
-Ny straffeprosesslov
-
-10.3 Utvalgets vurderinger og forslag
-10.3.1 Partsstatus
-Fornærmede og etterlatte er ikke gitt status som
-part i offentlige straffesaker. Loven åpner imidlertid for at fornærmede i visse tilfeller kan reise
-privat straffesak, og i så fall får den private
-saksøker status som part i saken. Dersom fornærmede og etterlatte fremmer et sivilt krav i straffesaken, får vedkommende dessuten partsstilling
-for så vidt gjelder dette kravet.
-Et spørsmål for utvalget er om fornærmede og
-etterlatte bør være part i offentlige straffesaker,
-slik at disse gruppene som et utgangspunkt gis de
-samme rettigheter i saken som påtalemyndigheten og mistenkte. Det vil blant annet kunne
-innebære at gruppene kan ta del i avgjørelsen av
-om og hvordan en sak skal forfølges strafferettslig, samt ha selvstendig rett til å anke rettens
-avgjørelse av straffekravet.
-Spørsmålet om partsstatus for fornærmede ble
-drøftet under oppfølgingen av Fornærmedeutvalgets utredning. Fornærmedeutvalgets flertall
-mente at løsningen med at staten har ansvaret for
-straffeforfølgningen, burde opprettholdes, og fikk
-støtte av et flertall av høringsinstansene.12 Departementet sluttet seg til standpunktet og slo fast:
-«[D]et bør tilligge offentlige myndigheter å
-etterforske straffbare forhold, avgjøre påtalespørsmål og iretteføre straffesaker.»13
-I Danmark er ordningen tilnærmet lik den norske.
-Spørsmålet om partsstilling for fornærmede ble
-vurdert av Strafferetsplejeudvalget i 2006, som
-ikke fant grunnlag for å foreslå dette.14 I Sverige
-og Finland kan fornærmede oppnå stilling som
-part ved å slutte seg til tiltalen («biträda åtalen»),
-jf. den svenske rättegångsbalken 20 kap. 8 § og
-den finske brottmålslagen 1 kap. 14 §. Fornærmede har i slike tilfeller adgang til å føre egne
-bevis, prosedere skyldspørsmålet og anke over
-straffekravet. Fornærmedeutvalget pekte på at
-erfaringene i disse landene er gode.15
-Robberstad har anbefalt å gi fornærmede
-partsstatus i norsk rett. Standpunktet er blant
-annet begrunnet med at det vil «symbolisere at
-12
-
-Fornærmedeutvalgets mindretall ønsket at fornærmede og
-etterlatte skulle gis partsstatus, men antok at rettssamfunnet ikke var modent for en slik reform, se NOU 2006: 10
-s. 132.
-13
-Ot.prp. nr. 11 (2007–2008) s. 26.
-14
-Betænkning nr. 1485/2006 punkt 4.2.1.
-15
-NOU 2006: 10 s. 70–71 og 77.
-
-fornærmede er en viktig person», og at det er den
-«enkleste måten å ordne deltagelsen på».16 Robberstad har også fremholdt at det vil være en god
-løsning å innrømme fornærmede deltakerrettigheter uten videre, uten hensyn til om vedkommende fremmer erstatningskrav eller tiltrer tiltalen.17
-Utvalget mener det er staten ved påtalemyndigheten som fullt ut bør ha ansvaret for å forfølge
-straffbare forhold, og anser det ikke som aktuelt å
-rokke ved dette grunnleggende utgangspunktet.
-Spørsmålet om straffeforfølgning bør vurderes av
-et offentlig organ uten egen interesse i saken, og
-som er forpliktet til å opptre objektivt. Fornærmedeutvalgets flertall uttalte om dette:
-«Påtalemyndigheten er best egnet til på samfunnets vegne å avgjøre om det faktiske og
-rettslige grunnlaget for å gå til straffesak foreligger. Strafforfølgning bør finne sted etter en
-objektiv og konsekvent linje, der hensynet til
-likebehandling må tillegges sterk vekt. Verken
-siktede eller rettsvesenets knappe ressurser
-bør belastes med straffesaker som påtalemyndigheten ikke finner grunnlag for å reise. I
-dette perspektivet får fornærmedes syn på
-straffespørsmålet i den enkelte sak mindre
-vekt.»18
-Straff forstås gjennomgående som samfunnets
-strengeste reaksjon mot uønsket adferd. Om og
-på hvilken måte det skal straffes, bør etter utvalgets syn være statens anliggende.19 En kan
-vanskelig forvente at en som har vært utsatt for et
-lovbrudd, kan inneha den nødvendige objektivitet
-og upartiskhet i forbindelse med eventuell straffeforfølgning av overtrederen.20 Justis- og politidepartementet argumenterte langs de samme
-linjer i vurderingen av om ordningen med påtalebegjæring fra fornærmede burde oppheves. Det
-ble trukket frem at straffeforfølgningen vanskelig
-kan være objektiv og konsekvent om den skal
-være avhengig av fornærmedes standpunkt.21
-Utvalget legger til grunn at den som er utsatt
-for en straffbar handling, og dermed blir fornærmet eller etterlatt, klart nok har legitime
-interesser i straffesaken. De rettigheter gruppen
-16
-17
-18
-19
-20
-21
-
-Robberstad (2002) punkt 7.7, særlig side 84. Robberstad
-(2014) s. 238.
-Robberstad (2014) s. 238.
-NOU 2006: 10 s. 126.
-Se også NOU 2006: 10 s. 126.
-I samme retning, se Betænkning nr. 1485/2006 s. 72.
-Se også Ot.prp. nr. 90 (2003–2004) s. 62.
-
-[Side 229]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-er gitt etter loven i dag, ivaretar etter utvalgets syn
-i hovedsak deres behov på det enkelte trinn i
-straffesaken.22 Utvalget anbefaler likevel enkelte
-endringer for å synliggjøre disse gruppene, blant
-annet foreslås det at rettighetene for fornærmede
-og etterlatte etter loven i hovedsak skal tilkomme
-alle, ikke bare dem som har fått oppnevnt
-bistandsadvokat, se punkt 10.3.3.
-Utvalget anbefaler på denne bakgrunn at fornærmede og etterlatte ikke gis stilling som part i
-straffesaken. Utvalget vil i tillegg til de nevnte
-prinsipielle grunner bemerke at det er nokså usikkert om full partsstilling i praksis vil være et gode
-for fornærmede og etterlatte. Dersom disse inntar
-rollen som part på linje med aktor, og således
-fører bevis, stiller spørsmål og i større grad søker
-å belyse tiltaltes skyld, kan følgen lett bli en annen
-oppmerksomhet om fornærmede og fornærmedes rolle generelt og i den enkelte sak. Ikke minst
-vil forsvarets holdning til vedkommende måtte bli
-en annen.
-10.3.2 Kretsen av etterlatte
-Utvalget har vurdert om søsken og besteforeldre
-bør omfattes av kategorien «etterlatte», jf. straffeprosessloven § 93 a.
-Avgrensningen av gruppen «etterlatte» ble
-foretatt med utgangspunkt i hvilke personer som
-anses å ha «nær følelsesmessig, rettslig eller økonomisk tilknytning til avdøde». Et neste moment
-var om etterlatte av andre grunner rammes spesielt hardt eller har en særlig interesse i utfallet av
-straffesaken.23
-Utvalget mener dette er relevante kriterier for
-avgrensningen. Det er vanskelig å angi generelt
-hvem som skal omfattes. Dagens familiemønster
-har endret seg, slik at primærfamilien nå ofte
-består av flere ulike personer og relasjoner enn
-tidligere.
-Det er liten tvil om at søsken eller besteforeldre i mange tilfeller er like nær avdøde som foreldre eller barn. Forholdet mellom søsken er
-dessuten flere steder i lovverket likestilt med relasjonen mellom foreldre og barn eller andre nære
-familiemedlemmer som i dag anses som fornærmet. Se for eksempel straffeloven § 9 og reglene
-om godtgjørelse til vitner, jf. straffeprosessloven
-§ 93 f.
-Utvalget har likevel kommet til at det ikke er
-tilstrekkelig behov for å endre loven. Når søsken
-22
-
-Se også Fornærmedeutvalgets flertall i NOU 2006: 10
-s. 171 og 132.
-23
-NOU 2006: 10 s. 170.
-
-227
-
-Kapittel 10
-
-ikke ble tatt med i kretsen av etterlatte ved siste
-lovendring, var det særlig begrunnet med hvordan rettighetene til etterlatte ble foreslått utformet, ved at søsken alltid må stå tilbake for ektefelle, foreldre osv., og med mangelen på juridiske
-bånd mellom søsken.24 Tilsvarende hensyn gjør
-seg gjeldende nå. Utvalget har lagt vekt på at
-personkretsen som skal tilstås prosessuelle rettigheter i straffesaken, bør være snever, og har blitt
-stående ved at systemet som hovedregel bare bør
-gi prosessuelle rettigheter til dem det generelt
-sett er grunn til å anta stod avdøde aller nærmest,
-og som typisk også har sterk rettslig og økonomisk
-tilknytning til avdøde.25
-10.3.3 Bør alle fornærmede og etterlatte ha
-selvstendige rettigheter?
-I straffeprosessloven er enkelte rettigheter forbeholdt fornærmede og etterlatte med bistandsadvokat, og enkelte rettigheter ligger til den som
-har fremmet sivilt krav i saken.
-Begrunnelsen for inndelingen er blant annet at
-straffesaken innebærer en særskilt stor belastning for enkelte fornærmede og etterlatte, og at
-disse personene derfor bør ha rett til bistandsadvokat og en særlig sterk prosessuell stilling.26
-I tillegg til at skillet mellom de ulike gruppene
-ikke fullt ut lar seg begrunne, skaper de ulike
-gruppene et nokså uoversiktlig system som av
-pedagogiske grunner bør forenkles.27
-Utvalget er enig i at personer som har vært
-utsatt for alvorlige integritetskrenkelser, og som
-har bistandsadvokat, gjennomgående vil ha særlig
-interesse i aktiv deltakelse i saken. Det er imidlertid vanskelig å gi et klart svar på hvem som har
-behov for hva i hver enkelt sak.
-Etter dagens regulering er det avgjørende om
-vedkommende har bistandsadvokat. Et alternativ
-kunne være å gi rettigheter til den som har rett til
-bistandsadvokat. Utvalget antar imidlertid at
-ingen av disse kriteriene på en tilstrekkelig treffende måte peker mot den berørtes behov for de
-ulike prosessuelle rettigheter. Utgangspunktet
-bør etter utvalgets syn heller være at alle fornærmede og etterlatte har like rettigheter, herunder
-samme rett til informasjon, rett til å uttale seg, osv.
-Dette vil gi flere fornærmede flere rettigheter, og
-den som ønsker mindre aktiv deltakelse, står fritt
-til det.
-24
-25
-26
-27
-
-Jf. Ot.prp. nr. 11 (2007–2008) s. 37–38.
-I samme retning NOU 2006: 10 s. 170.
-NOU 2006: 10 s. 130 og 171.
-I samme retning Robberstad (2014) s. 232–233.
-
-[Side 230]
-
-228
-
-NOU 2016: 24
-
-Kapittel 10
-
-Ny straffeprosesslov
-
-Enkelte rettigheter bør likevel utøves av en
-profesjonell aktør med erfaring fra rettsapparatet.
-Det dreier seg i hovedsak om rettigheter som skal
-utøves i avhør eller i retten, slik som å stille spørsmål til tiltalte og vitner, anmode om supplerende
-bevisføring og å uttale seg om prosessuelle spørsmål. Av hensyn til fornærmede og etterlatte selv,
-sakens øvrige aktører og effektivitet i saksbehandlingen bør rettighetene utøves av advokat
-med kunnskap om fagfeltet og den nødvendige
-distanse til saken. Se nærmere utkastet § 5-5 og
-merknadene til bestemmelsen.
-10.3.4 I hvilke saker skal fornærmede og
-etterlatte ha krav på bistandsadvokat?
-Straffeprosessloven § 107 a første ledd bokstav a
-gir i dag ubetinget rett til bistandsadvokat i visse
-saker. Fornærmede har krav på bistandsadvokat i
-saker om seksuallovbrudd, familievold, tvangsekteskap, menneskehandel og brudd på
-oppholds- eller besøksforbud.28
-Avgrensningen av hvilke fornærmede som har
-rett til bistandsadvokat, ble begrunnet slik av
-Fornærmedeutvalget:
-«Utfallet av straffesaken har særlig stor betydning for ofrene for slike handlinger, og straffesaken medfører ofte en særlig tung belastning for dem siden det dreier seg om krenkelser som kan medføre store fysiske, psykiske og
-sosiale skadevirkninger. Ofrene er ofte traumatisert og opplever det spesielt belastende å forklare seg for politiet og i retten og å gå gjennom
-etterforsking og hovedforhandling i saken. I
-disse sakene er det ofte av særlig stor betydning for ofrene å få fastslått at de har vært
-utsatt for urett, og de har ikke sjelden blitt
-påført fysisk eller psykisk helseskade og
-ønsker å kreve erstatning.»29
-Utvalget slutter seg til begrunnelsen og mener
-fornærmede også bør gis ubetinget rett til
-bistandsadvokat ved overtredelser av straffeloven
-§ 266 a om personforfølgelse, § 274 om grov
-kroppsskade og § 327 om ran. Det er liten tvil om
-at slike lovovertredelser kan medføre særlige
-fysiske og psykiske belastninger for den som rammes, og slike saker ville i det alt vesentlige føre til
-oppnevning etter den skjønnsmessige regelen.
-
-28
-
-Straffeloven §§ 168, 253, 257, 282, 284, 291, 294, 296, 299,
-302, 304, 312 og 314.
-29
-NOU 2006: 10 s. 130.
-
-Utvalget mener overtredelser av oppholds- og
-besøksforbud, jf. straffeloven § 168, bør tas ut av
-listen over lovbrudd som gir ubetinget krav på
-bistandsadvokat.30 Det samme gjelder for overtredelser av straffeloven § 304 om seksuell handling.
-Slike saker er av meget varierende karakter og i
-mange tilfeller mindre alvorlig. I kjernetilfellene
-vil fornærmede allerede ha rett til bistandsadvokat på annet grunnlag. Er det behov for bistandsadvokat i andre saker, kan fornærmede få dette
-etter den skjønnsmessige regelen, se utkastet § 4-9
-tredje ledd og nedenfor.
-For øvrig bør gjeldende rett for så vidt gjelder
-fornærmedes og etterlattes krav på bistandsadvokat, videreføres, herunder adgangen til å oppnevne bistandsadvokat på skjønnsmessig grunnlag, jf. utkastet § 4-9 tredje ledd. Den skjønnsmessige oppnevningsadgangen bør benyttes der
-lovgrunnen for ordningen med bistandsadvokat
-gjør seg gjeldende i det enkelte tilfelle. Brudd på
-oppholds- og besøksforbud samt seksuelle
-handlinger, som etter utvalgets forslag ikke gir
-ubetinget krav på bistandsadvokat, er sakstyper
-hvor oppnevning etter den skjønnsmessige regelen kan være aktuelt.
-Endelig har utvalget vurdert om det i enkelte
-tilfeller kan være grunn til å gjøre unntak fra
-bestemmelsen om ubetinget oppnevning av
-bistandsadvokat. Dansk rett inneholder en slik
-unntakshjemmel, se retsplejeloven § 741 a stk. 3,
-som åpner for å unnlate oppnevning av bistandsadvokat i saker av «mindre alvorlig karakter og
-[der] advokatbistand må anses for åbenbart unødvendig».
-Utvalget mener det også etter vår prosessordning bør åpnes for å gjøre unntak fra retten til
-bistandsadvokat for fornærmede i saker der det
-klart ikke er behov for det på grunn av sakens
-karakter og forhold ved vedkommende selv. Oppnevning av bistandsadvokat på det offentliges
-bekostning i slike tilfeller vil ha liten hensikt og
-være ressursødende. Det klare utgangspunktet
-etter utkastet § 4-9 skal imidlertid være at fornærmede skal ha bistandsadvokat i saker som er oppregnet i bestemmelsen. En unntakshjemmel må
-ikke føre til at påtalemyndigheten og retten stiller
-30
-
-Etter ikraftsettingen av straffeloven 2005 viser straffeprosessloven § 107 a første ledd bokstav a til straffeloven
-§ 168, en henvisning som er ment å erstatte straffeloven
-§ 342 første ledd bokstav b og c. Sistnevnte henvisning er
-formentlig feil og skulle vært endret til § 342 bokstav a og
-b. Tidligere § 342 bokstav a ble opphevet ved lov 10. januar
-2014 nr. 1. Ved at det i straffeprosessloven § 107 a første
-ledd bokstav a nå er vist til straffeloven § 168 omfattes også
-straffbar hindring av elektronisk kontroll av retten til
-bistandsadvokat, jf. straffeloven § 168 bokstav c.
-
-[Side 231]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-spørsmål ved fornærmedes behov i enhver sak.
-Utvalget ser imidlertid for seg at unntak kan være
-aktuelt i enkelte saker som gjelder en overtredelse i det nedre sjiktet av et straffebud, eller i
-saker om forsøk, og hvor fornærmede selv gir
-uttrykk for at han eller hun ikke ønsker representasjon, eller er for ung til i det hele tatt å få med
-seg saken.
-10.3.5 Offentlig oppnevnte og privat antatte
-bistandsadvokater
-Etter straffeprosessloven kan den som har krav på
-bistandsadvokat etter § 107 a, enten la seg bistå av
-«offentlig oppnevnt bistandsadvokat» eller «privat
-advokat vedkommende har antatt på egen regning», jf. § 107 f. Den private bistandsadvokaten
-har samme prosessuelle stilling som den offentlige, med unntak av betalingen. Utenfor tilfellene
-der fornærmede har krav på bistandsadvokat, kan
-vedkommende la seg representere av advokat,
-som ikke får andre rettigheter enn fornærmede
-og etterlatte selv har, jf. § 107 f annet ledd.
-Erfaringsmessig benyttes privat bistandsadvokat meget sjelden. De fleste fornærmede og etterlatte som har rett til bistand, får advokat på statens
-regning. For det tilfelle at dette ikke er ønsket,
-mener utvalget at den fornærmede må kunne anta
-egen advokat på egen bekostning. Det samme
-gjelder for fornærmede som ikke har krav på
-bistandsadvokat, og som ønsker representasjon.
-Utvalget mener at det i begge tilfeller må være
-rimelig, særlig i lys av utvalgets standpunkt om at
-alle fornærmede skal ha like rettigheter, at den
-som antas, får rettigheter som bistandsadvokat.
-Utvalget er av den oppfatning at den som skal
-virke som bistandsadvokat på det offentliges
-bekostning, må være oppnevnt. Se også nærmere
-om dette spørsmålet i punkt 9.4.3.7. For så vidt
-gjelder prosedyren for oppnevning av bistandsadvokater, legger utvalget til grunn at dagens regelverk gir uttrykk for en hensiktsmessig løsning.
-10.3.6 Begrenset oppnevning av
-bistandsadvokat
-Bistandsadvokaten ivaretar viktige oppgaver på
-vegne av fornærmede og etterlatte. Samtidig er
-det klart at ordningen er meget ressurskrevende,
-se punkt 10.1. Etter utvalgets syn er det grunn til å
-vurdere om det er mulig å etablere ressursbesparende tiltak som ikke svekker interessene til fornærmede og etterlatte.
-Dagens lov åpner for å skjære til bistandsadvokatoppdraget ut fra behovet til den enkelte for-
-
-229
-
-Kapittel 10
-
-nærmede, jf. § 107 c første ledd. I praksis begrenses oppdraget i tillegg gjennom rettens kontroll av
-salæroppgaven. Et spørsmål er om retten i større
-grad bør benytte muligheten til å begrense rammene for bistandsadvokatoppdraget.
-I praksis oppnevnes bistandsadvokater i to
-omganger, først under etterforskingen og deretter
-ved en eventuell hovedforhandling. Etter tiltale
-har retten ut fra etterforskingen et grunnlag for å
-vurdere om det er behov for bistandsadvokat
-under forhandlingene, og i tilfelle i hvilken
-utstrekning. Påtalemyndigheten kan da også
-uttale seg om den har kapasitet til å ivareta fornærmedes interesser. I saker hvor erstatningskravene er klare, herunder standardiserte, vil
-bistandsadvokaten kunne ha begrensede oppgaver når saken står for retten, utover å forberede
-fornærmede til hovedforhandlingen og å ivareta
-fornærmedes behov for informasjon under sakens
-gang.
-Den enkeltes behov vil variere betraktelig fra
-sak til sak, og forutsetningen skal fortsatt være at
-fornærmede og etterlattes interesser skal bli
-tilstrekkelig ivaretatt. Samtidig bør det legges til
-rette for hensiktsmessig begrensning av
-ressursbruk. Det kan være mer effektivt å sette
-rammene for bruken av bistandsadvokat på forhånd for å få en viss kontroll med det som utføres,
-fremfor at retten eventuelt må gripe inn i et pågående arbeid eller beskjære salærkravet i etterkant. Utvalget peker på at slike rammer ikke skal
-bestå i en forhåndsbegrensning til antall timer, jf.
-Borgarting lagmannsretts avgjørelse 8. oktober
-2015.31 Det bør imidlertid kunne fremgå av oppnevningen at bistand gis for en bestemt del av
-saken, for eksempel for et bevisopptak.
-10.3.7 Pålegg om felles bistandsadvokat
-Etter gjeldende rett kan fornærmede og etterlatte
-fritt velge bistandsadvokat såfremt det ikke fører
-til forsinkelse av saken eller for øvrig er utilrådelig. Utvalget har vurdert om retten i enkelte tilfeller bør kunne gripe inn i det frie valget, ved å
-bestemme at flere fornærmede og etterlatte skal
-representeres av samme bistandsadvokat.
-Bistandsadvokatprosjektet i Oslo tingrett har pekt
-på følgende:
-«Det bør være mulig å pålegge de fornærmede
-å ha samme bistandsadvokat i samme straffesak så langt det ikke foreligger motstridende
-interesser, eller en klar risiko for at dette vil
-31
-
-Se LB-2015-147251.
-
-[Side 232]
-
-230
-
-NOU 2016: 24
-
-Kapittel 10
-
-Ny straffeprosesslov
-
-oppstå. Helt klart må dette være i familievoldsaker, men også i en rekke andre saker må
-retten gis adgang til å pålegge dette. […]
-Et eksempel på en sak hvor de fornærmede
-burde kunne pålegges å bruke felles advokat
-og det også burde vært adgang til mer begrenset oppnevning er i en straffesak som ble avviklet i Oslo tingrett våren 2011. I saken representerte ni bistandsadvokater tolv fornærmede. Det var en tiltalt i saken som gjaldt
-seksuell handling med barn under 16 år og forsøk på å forlede barn under 16 år til å utvise
-seksuell krenkende adferd, jf straffeloven
-§ 200 annet ledd. Ingen av de fornærmede
-møtte under hovedforhandlingen. Det ble
-fremmet og avgjort et erstatningskrav på
-10.000 kroner. Alle bistandsadvokatene hadde
-vært oppnevnt under etterforskningen og
-begjærte seg oppnevnt til hovedforhandlingen.
-Utgiftene til bistandsadvokat under hovedforhandlingen alene beløp seg til ca 350.000
-kroner.»32
-Utvalget mener det bør åpnes for å gi pålegg om
-felles bistandsadvokat når det er saklig grunn til
-det, og det ikke foreligger fare for interessekonflikt mellom de klientene bistandsadvokaten oppnevnes for å representere. Det må også være en
-forutsetning at oppnevningen ikke går på bekostning av fornærmede og etterlattes mulighet til å få
-sine interesser ivaretatt. Er disse forutsetningene
-oppfylt, vil en ordning med oppnevning av felles
-bistandsadvokat ikke være betenkelig.
-De typiske tilfeller vil være saker med flere
-fornærmede. I svært store saker må retten
-vurdere om det er mer hensiktsmessig med koordinerende bistandsadvokat, jf. punkt 10.3.8. Det kan
-også være aktuelt med flere felles bistandsadvokater og én eller flere koordinerende, slik som for
-eksempel i 22. juli-saken.
-10.3.8 Koordinerende bistandsadvokater
-Adgangen til å oppnevne én eller flere koordinerende bistandsadvokater følger i dag av straffeprosessloven § 107 h. Bestemmelsen kom inn i
-loven i forbindelse med gjennomføringen av 22.
-juli-saken i Oslo tingrett.33 Det synes som om
-aktørene er fornøyd med ordningen.
-32
-33
-
-Bistandsadvokatprosjektet i Oslo 2012–2013 s. 12.
-Lov 30. mars 2012 nr. 14 om endringer i voldsoffererstatningsloven og straffeprosessloven.
-
-Utvalget går inn for å videreføre muligheten
-for å oppnevne koordinerende bistandsadvokater,
-og foreslår også at den koordinerende bistandsadvokatens oppgaver skal være som etter
-gjeldende lov og praksis.
-Da muligheten for å oppnevne koordinerende
-bistandsadvokat ble innført, var ordningen ment
-for «saker med et høyt antall aktører og et spesielt
-vanskelig sakskompleks», jf. Prop. 65 L (2011–
-2012) s. 40. De store sakene vil fortsatt være det
-typiske eksempelet der det er behov for koordinerende bistandsadvokat. Men også i andre tilfeller
-bør det etter utvalgets syn være mulig å oppnevne
-koordinerende advokat hvis det er gunstig for
-gjennomføringen av saken.
-I lovforslaget er dagens vilkår for oppnevning
-av koordinerende bistandsadvokat tatt ut. Det
-styrende for vurderingen skal være om det er behov
-for koordinering i lys av hensynet til de berørte og
-effektiviteten i saksbehandlingen. I avveiningen
-vil det være naturlig å se hen til vilkårene for oppnevning av felles bistandsadvokat, se punkt 10.3.7
-ovenfor og merknadene til utkastet § 4-3 annet
-ledd. Det forutsettes at en felles bistandsadvokat
-gjennomgående vil være anvendelig og aktuelt før
-det blir nødvendig med en koordinerende advokat.
-10.3.9 Bruk av faste bistandsadvokater
-I dagens straffeprosesslov § 107 g første ledd
-heter det: «Domstoladministrasjonen antar et tilstrekkelig antall advokater til å gjøre tjeneste som
-faste offentlige bistandsadvokater.» Når fornærmede eller etterlatte ikke har noe ønske om en
-bestemt bistandsadvokat, skal en av de faste oppnevnes.
-Utvalget mener at ordningen med bruk av
-faste bistandsadvokater bør videreføres. Det er
-positivt for fornærmede og etterlatte, og systemet
-for øvrig, at en gruppe godt kvalifiserte advokater
-påtar seg slike oppdrag. Spørsmålet om ordningen bør utvides står i det vesentlige i samme stilling som for de faste forsvarerne, se nærmere
-punkt 9.4.3.8, der det også fremgår at utvalget er
-delt i synet på antall advokater som bør omfattes
-av ordningene.
-Et samlet utvalgt går inn for at det i forskrift
-fastsettes nærmere krav til erfaring og faglig kompetanse. Se nærmere om tilsvarende vurderinger
-for så vidt gjelder faste forsvarere i punkt 9.4.3.8.
-
-[Side 233]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-231
-
-Kapittel 11
-
-Kapittel 11
-
-Domstolene. Rettens sammensetning
-11.1 Innledning
-Domstolene spiller en sentral rolle i straffesaksbehandlingen. Utvalget kommer inn på ulike sider
-ved domstolenes virke i tilknytning til drøftelsen
-av de ulike stadiene i en sak, se særlig utkastet del
-6 til 8, herunder kapittel 18 om tingrettens behandling av straffekravet og kapittel 20 om anke.
-Dommersammensetningen i den enkelte sak
-er en viktig del av regelverket om behandlingen
-av straffesaker for domstolene. Utvalget er bedt
-om å «se nærmere på rettens sammensetning,
-både i underinstansen og ankeinstansen», jf. mandatet punkt. 4.9. I mandatet heter det videre:
-«Utvalget skal legge til grunn at juryordningen
-håndteres i et selvstendig lovarbeid basert på
-NOU 2011: 13. Når det gjelder lagmannsrettens sammensetning for øvrig, bør utvalget se
-hen til forslagene i NOU 2011: 13.»
-Sammensetningen av domstolene har vært hyppig
-diskutert, og særlig har det vært betydelig offentlig debatt og interesse knyttet til juryordningens
-fremtid. Som nevnt forutsetter mandatet at
-Straffeprosessutvalget ikke skal utrede spørsmålet om dommersammensetningen i saker som i
-dag behandles av jury. Per 1. oktober 2016 har
-departementet ikke fremmet noen lovproposisjon
-for Stortinget som følger opp NOU 2011: 13.1
-Utvalget drøfter for øvrig dommersammensetningen i lagmannsretten i punkt 11.5.
-Når det gjelder sammensetningen av tingretten, er utvalgets oppfatning at dagens ordning fungerer tilfredsstillende, og den har i liten grad vært
-gjenstand for kritikk. Det foreslås derfor ingen
-større revisjon av disse reglene, men behovet for
-enkelte mindre justeringer drøftes i punkt 11.4.
-Dommerfullmektigordningen er stadig gjenstand
-
-for diskusjon, og det kunne i forbindelse med
-endringer i reglene om rettens sammensetning ha
-vært naturlig å foreta en bred vurdering av
-kompetansen som er gitt dommerfullmektigene.
-En slik utredning av spørsmålet om bruk av dommerfullmektiger måtte imidlertid også omfatte
-sivile saker, noe som faller utenfor utvalgets mandat. Ordningen drøftes kort i punkt 11.4.2.5.
-Henvisningen til entallsformen «ankeinstansen» i utvalgets mandat må forstås som en referanse til lagmannsretten. Høyesteretts sammensetning ble grundig utredet i forbindelse med
-utarbeidelsen av tvisteloven.2 Utvalgets forslag til
-sammensetning av lagmannsretten i straffesaker
-medfører etter utvalgets mening ikke noe behov
-for endringer i reglene om Høyesteretts sammensetning.
-Straffeprosessloven skal være informativ og
-brukervennlig, jf. mandatet punkt 3. I dag er
-bestemmelsene om rettens sammensetning dels
-inntatt i domstolloven, dels i straffeprosessloven.
-Dobbeltregulering bør i utgangspunktet unngås,
-og det er derfor et spørsmål om reglene om
-rettens sammensetning bør reguleres fullt ut i én
-av lovene.
-Utvalget anbefaler likevel av pedagogiske
-grunner å regulere rettens sammensetning og
-lovens regler om domstolens kompetanse i et felles kapittel i straffeprosessloven. Dette innebærer
-at enkelte regler vil fremgå to steder, men løsningen lar seg forsvare ved at bestemmelsene er få,
-og at reguleringen vil gjøre det enkelt å finne frem
-til hvilken domstol som skal ha saken til behandling, og med hvilken sammensetning.
-I det følgende klargjøres i punkt 11.2 enkelte
-grunnleggende hensyn av betydning for dommersammensetningen i retten. I punkt 11.3 gis det en
-kort oversikt over kravene til utforming av domstolene etter overordnede rettsnormer. Utvalgets
-2
-
-1
-
-I budsjettproposisjonen Prop. 1 S (2016–2017) s. 73 heter
-det at regjeringen vil avvikle juryordningen og gå inn for at
-bevisanker i fremtiden skal behandles i meddomsrett med
-to fagdommere og fem lekdommere.
-
-Jf. NOU 2001: 32 Bind A s. 371 flg. Da tvisteloven ble vedtatt i 2005, ble samtidig høyesterettsloven 26. juni 1926 nr. 2
-opphevet, og nye bestemmelser om Høyesteretts sammensetning ble tatt inn i domstolloven § 5. Endringene trådte i
-kraft 1. januar 2008.
-
-[Side 234]
-
-232
-
-NOU 2016: 24
-
-Kapittel 11
-
-Ny straffeprosesslov
-
-sikker at en domfellelse må ha tilslutning fra
-lekdommere.»3
-
-forslag til endringer for tingrettens del drøftes i
-punkt 11.4 og for lagmannsrettens del i punkt 11.5.
-
-11.2 Grunnleggende hensyn av
-betydning for rettens
-sammensetning
-
-11.3 Overordnede rettsnormer –
-grunnlovsvern og folkerettslige
-forpliktelser
-
-Det bærende for valget av dommersammensetning bør være om ordningen sikrer riktige og
-forsvarlige avgjørelser og allmennhetens tillit.
-Samtidig er det viktig at straffesaker behandles
-hurtig og ikke blir for kostnadskrevende. Også
-dette valget beror således på en avveining av kvalitet og ressursinnsats.
-De ytre rammer for avveiningen er de krav
-som følger av reglene i Grunnloven og i internasjonale konvensjoner, jf. punkt 11.3. Innenfor disse
-rammene er det særlig løsningene som innbyr til
-færrest mulig feil og uklarheter, som bør prioriteres. Videre bør ankeinstansen være sterkere
-sammensatt enn underinstansen. Det vil også være
-hensiktsmessig om de samme avstemningsregler
-kan gis anvendelse på tvers av rettsinstansene.
-I norsk rett står prinsippet om lekdommeres
-deltakelse i rettspleien meget sterkt, og et grunnleggende spørsmål er hvordan forholdet mellom
-fagdommere og lekdommere skal være; hvor
-mange det skal være fra hver gruppe, hvilke oppgaver de skal ha, og hvordan samarbeidet mellom
-dem bør organiseres.
-Det er behov for fagdommere med juridiske
-kvalifikasjoner til å lede rettsforhandlingene. I
-Norge er fagdommerne i alminnelighet generalister som administrerer og behandler alle typer
-saker.
-Lekdommere skal på sin side bidra til å sikre
-kontroll med rettsvesenet, ved å bringe folkelige
-erfaringer og den alminnelige rettsbevissthet inn i
-domstolene. Prinsippet om lekfolks deltakelse
-antas å være sentralt for tilliten til domstolene og
-kvaliteten og rettssikkerheten i domstolenes saksbehandling og avgjørelser. Lekdommerne har en
-særlig viktig rolle knyttet til bevisbedømmelse,
-men skal også ta stilling det skjønn rettsreglene
-etterspør. Utvalget slutter seg til følgende
-uttalelse fra Juryutvalget:
-
-Retten til en rettferdig rettergang er slått fast i
-Grunnloven § 95. Første ledd første og annet
-punktum lyder:
-
-«[L]ekdommere skal ha betydelig innflytelse i
-strafferettspleien, og […] være i flertall ved
-avgjørelsen av skyldspørsmålet. At lekdommere deltar i tillegg til fagdommere, må anses
-å styrke kvaliteten på saksbehandlingen. Det
-gjør prosessordningen mer robust og retts-
-
-«Enhver har rett til å få sin sak avgjort av en
-uavhengig og upartisk domstol innen rimelig
-tid. Rettergangen skal være rettferdig og
-offentlig.»
-I annet ledd heter det:
-«Statens myndigheter skal sikre domstolenes
-og dommernes uavhengighet og upartiskhet.»
-Grunnlovsvernet bygger på og må forstås i lys av
-Den
-europeiske
-menneskerettskonvensjon
-(EMK) artikkel 6 nr. 1, som fastslår at enhver har
-krav på å få en straffsiktelse mot seg avgjort
-«innen rimelig tid ved en uavhengig og upartisk
-domstol opprettet ved lov». Også FN-konvensjonen om sivile og politiske rettigheter (SP)
-artikkel 14 nr. 1 gir rett til rettferdig rettergang.
-Ordlyden er annerledes utformet enn EMK artikkel 6 nr. 1, men innholdet og anvendelsesområdet
-antas i det vesentlige å være det samme.4
-Bestemmelsenes ordlyd stiller ikke krav til
-den dømmende retts sammensetning. Grunnloven § 88, inntatt i kapittel D om den dømmende
-makt, forutsetter imidlertid et hierarkisk domstolsystem med ankeadgang og stiller minstekrav til
-sammensetningen i Høyesterett:
-«Høyesterett dømmer i siste instans. Dog kan
-innskrenkninger i adgangen til å få Høyesteretts avgjørelse bestemmes ved lov.
-Høyesterett skal bestå av en justitiarius og
-minst fire andre medlemmer.»
-Kravet i EMK artikkel 6 nr. 1 om «domstol opprettet ved lov» omfatter rettens sammensetning i den
-enkelte sak.5 Bestemmelsen er forstått slik at det i
-stor utstrekning er aksept for de ulike domstols3
-4
-5
-
-NOU 2011: 13 s. 84.
-Jebens (2004) s. 332.
-Posokhov mot Russland (63486/00), dom 04.03.03, avsnitt
-39.
-
-[Side 235]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-ordningene i de europeiske stater, og det overlates til statene å velge system, herunder rene fagdommerdomstoler, meddomsretter med fagdommere og lekdommere og domstoler bestående av fagdommer og jury.6
-Domstolen må imidlertid være sammensatt og
-fungere «uavhengig og upartisk» og ha myndighet til å behandle og avgjøre sakens rettslige og
-faktiske sider med bindende virkning.7 I saken
-Taxquet mot Belgia ga Den europeiske menneskerettsdomstol (EMD) klart uttrykk for at domstolen ikke ser det som sin oppgave å standardisere
-de mange ulike systemer som eksisterer i medlemsstatene:
-«A State’s choice of a particular criminal-justice
-system is in principle outside the scope of the
-supervision carried out by the Court at European level, provided that the system chosen
-does not contravene the principles set forth in
-the Convention […]. Furthermore, in cases arising from individual petitions the Court’s task
-is not to review the relevant legislation in the
-abstract. Instead, it must confine itself, as far as
-possible, to examining the issues raised by the
-case before it […].
-The Contracting States enjoy considerable
-freedom in the choice of the means calculated
-to ensure that their judicial systems are in
-compliance with the requirements of Article 6.
-The Court’s task is to consider whether the
-method adopted to that end has led in a given
-case to results which are compatible with the
-Convention, while also taking into account the
-specific circumstances, the nature and the
-complexity of the case. In short, it must ascertain whether the proceedings as a whole were
-fair […].»8
-Kravet i EMK artikkel 6 om at domstolen må være
-«opprettet ved lov», innebærer at de relevante
-regler om domstolens sammensetning og funksjon i den enkelte sak skal overholdes. EMD vil
-som utgangspunkt respektere nasjonale domstolers fortolkning om sammensetning og funksjon,
-med mindre den er åpenbart feilaktig.9
-
-6
-7
-8
-9
-
-Jebens (2004) s. 331.
-Kjølbro (2010) s. 376.
-Taxquet mot Belgia (926/05), dom 16.11.10, avsnitt 83–84.
-Kjølbro (2010) s. 377.
-
-233
-
-Kapittel 11
-
-11.4 Dommersammensetningen i
-tingretten
-11.4.1 Gjeldende rett
-Tingretten behandler saker i første instans, og det
-følger av domstolloven § 21 annet ledd første
-punktum og straffeprosessloven § 276 første ledd
-at den skal settes med én fagdommer om ikke
-annet er bestemt. Dette gjelder for eksempel ved
-avgjørelser av spørsmål om bruk av tvangsmidler
-og når en sak pådømmes som tilståelsesdom.
-Under hovedforhandling settes retten i tillegg
-med to meddommere, jf. domstolloven § 21 annet
-ledd og straffeprosessloven § 276 første ledd
-første punktum. Fagdommeren fungerer som
-administrator. Ellers er fagdommeren og meddommerne likestilte.
-I saker som er særlig omfattende, eller hvor
-andre særlige grunner foreligger, kan tingretten
-settes som forsterket rett med to fagdommere og
-tre meddommere, jf. straffeprosessloven § 276
-annet ledd. I slike tilfeller kan behandlingen av
-saken fortsette selv om noen av rettens medlemmer får forfall etter at hovedforhandlingen er startet, jf. § 276 annet ledd siste punktum. I langvarige
-saker er det adgang til å bestemme at varamedlemmer skal følge saken, jf. § 276 femte ledd.
-Retten kan settes uten meddommere i visse
-saker som gjelder ikke vedtatt forelegg.10 Loven
-krever da at retten ikke finner behandlingsmåten
-betenkelig, jf. straffeprosessloven § 276 første
-ledd annet punktum.
-Etter straffeprosessloven § 276 fjerde ledd kan
-tingretten ikke settes med dommerfullmektig i
-saker om lovbrudd som kan medføre fengsel i
-mer enn seks år, unntatt i saker som gjelder overtredelse av straffeloven § 274 første ledd om grov
-kroppsskade.11 Begrensningen gjelder ikke for tilståelsessaker, jf. Rt. 2007 s. 1040. Hvis tingretten
-er lovlig satt med dommerfullmektig ved hovedforhandlingens begynnelse, kan saken fortsette
-selv om det senere viser seg at forholdet rammes
-av et straffebud med høyere strafferamme enn
-seks års fengsel, jf. Rt. 2015 s. 65.
-Når det er behov for det, kan retten settes med
-fagkyndige meddommere, jf. straffeprosessloven
-§ 277. Domstolloven § 94 fastsetter nærmere bestemmelser om fagkyndige meddommere.
-Etter straffeprosessloven § 274 første ledd
-annet punktum treffer rettens leder avgjørelser
-10
-11
-
-Jf. straffeprosessloven § 268.
-Se domstolloven § 23.
+«Det er ikke tvilsomt at politiet kan ha et reelt behov for å unnta inngangsopplysninger fra innsyn. Hvis kilder og informanter ikke kan føle seg trygge på at de kan gi opplysninger uten å sette seg selv eller sine nærmeste i fare, vil mange unnlate å gi viktig informasjon til politiet. Det må antas at det sentrale for mistenkte som hovedregel må være å få kjennskap til den informasjonen som genereres ved etterforskningen og ikke opplysningene som lå til grunn for at politiet i utgangspunktet iverksatte den. Justiskomiteen har i Innst. 300 S (2010–2011) gitt en klar oppfordring om økt beskyttelse av politiets informanter og vitner. Komiteen uttaler at en må sikre at informanters identitet holdes utenfor innsyn, og at informasjon som fører til etterforskning og som ikke benyttes som bevis i retten, også unntas fra innsynsretten.»[^482]
+
+Overfor utvalget har Politiets Sikkerhetstjeneste (PST) sterkt betont at opplysninger fra kilder og informanter bør kunne sperres fra innsyn uten videre prosess, og begrunnet dette med at behandlingen av en begjæring om å nekte innsyn i seg selv vil gi en risiko for at sensitive opplysninger kommer på avveie.
+
+Utvalget er enig i at det er behov for visse begrensninger i retten til innsyn, men mener interessene kan ivaretas med en annen og mer tilgjengelig lovteknikk enn den som ligger til grunn for gjeldende lov og tidligere endringsforslag. Den sikreste og mest forutsigbare løsning er etter utvalgets syn å definere gjenstanden for innsyn i loven. Også praktiske og pedagogiske hensyn taler for en slik regulering.
+
+Det prinsipielle utgangspunktet er at det skal gis rett til innsyn for sakens parter og andre med legitim interesse i saken. Innsynsretten bør, i alle fall for mistenkte, som et utgangspunkt omfatte alle opplysninger fremkommet under etterforsking og rettergang i saken.[^483] En slik tilnærming er også hensiktsmessig fra et praktisk ståsted. Når hovedregelen er at alle opplysninger omfattes og skal registreres i dokumentfortegnelsen, blir det enklere for partene å holde oversikt over informasjonen i saken.[^484]
+
+Utvalget mener videre, som Metodekontrollutvalgets flertall, at begrensninger i innsynet som hovedregel bør fremgå av uttømmende lovfestede unntakshjemler. Dette vil gjøre innholdet i regelverket klart og dermed også tilgjengelig og forutsigbart. Dagens unntakshjemler reflekterer at behovet for å begrense innsyn vanligvis endrer seg i takt med utviklingen i saken – tidlig i etterforskingen er behovet normalt størst – og unntakene bør derfor fortsatt knyttes til prosessens ulike stadier.
+
+I tillegg til unntakshjemlene må hvilke opplysninger som skal omfattes av gjenstanden for innsyn avgrenses så klart som mulig. Det er – om man skal holde seg til alminnelig språklig forståelse – et begrenset potensial for avgrensing ut fra hva som skal anses som «dokumenter» eller «opplysninger», se punkt 12.4.1.2. Reguleringen av hva som skal inngå i *saken*, er derimot sentralt som avgrensningskriterium for innsynsretten, og utkastet § 6-1 annet ledd legger derfor opp til at påtalemyndigheten skal vurdere om informasjon skal anses å høre til saken. En slik løsning vil etter utvalgets syn ivareta behovet for forutberegnelighet knyttet til når opplysninger kan sperres for innsyn.
+
+1.   *Valg av terminologi*
+
+Dagens uttrykk for innsynsrettens gjenstand, er «sakens dokumenter». Det taler for å erstatte uttrykket at det ikke får tydelig frem at det også skal gis innsyn i opplysninger som knytter seg til ting. Videre gir «dokumenter» assosiasjoner til papir, mens sakens opplysninger i dag gjerne lagres og formidles digitalt.
+
+Et argument for å beholde uttrykket er at det er innarbeidet i straffeprosessen og i tilgrensende lovverk. Blant annet benyttes uttrykket «dokument» i forvaltningsloven kapittel IV, offentlighetsloven kapittel 2, tvisteloven kapittel 14 og straffeloven 2005 § 376.[^485] Bruken er imidlertid ikke entydig: Inndragningsreglene i straffeloven §§ 70 og 76 bruker uttrykket «informasjonsbærer».[^486] Politiregisterloven taler i hovedsak om «opplysninger», jf. blant annet §§ 1 og 2. Sistnevnte betegnelse er også brukt i straffeprosessloven § 242 a. Utvalget mener det språklige uttrykket i størst mulig grad bør gi assosiasjoner til det som skal omfattes av innsynsretten, og mener uttrykket «opplysninger» best peker mot det man reelt sett krever innsyn i.
+
+1.  *«Sakens» opplysninger*
+
+Utvalgets forslag skal forstås slik at sakens opplysninger avgrenses ut fra hva som prosessuelt er samme sak, og viderefører med det dagens praksis.[^487] Det følger av dette at opplysninger som innhentes fra andre saker til bruk som bevis mot mistenkte, skal inngå i mistenktes sak.[^488] Og selv om opplysningene ikke brukes av påtalemyndigheten, er de å anse som sakens opplysninger dersom de kan ha betydning for mistenktes forsvar, se nedenfor.[^489]
+
+Enkelte opplysninger som ligger saken nær, skal ikke være gjenstand for innsyn. Også her videreføres gjeldende praksis, se punkt 12.3.1.[^490] Dette omfatter informasjon, herunder informantopplysninger, som stammer fra forebyggende virksomhet eller som foranlediget etterforskingen (inngangsopplysninger).[^491] Om inngangsopplysninger, se også punkt 12.4.5. Videre skal det avgrenses mot politiets egne vurderinger, sammenstillinger som ikke er nedfelt i politirapporter, og interne påtegninger.[^492] Dersom slike dokumenter inneholder opplysninger som ikke fremkommer noe annet sted, skal opplysningene inntas i saken. Spørsmål om senere bevisføring om opplysninger som er holdt utenfor saken, må løses med utgangspunkt i grensene for vitneplikt og bestemmelsene om bevisforbud.
+
+Begrensningene i innsynretten skal legge til rette for at politiet kan drive effektiv kriminalitetsbekjempelse. Det er avgjørende for politiets samarbeid med kilder og informanter at opplysninger kan mottas med visshet om at de ikke blir kjent. Disse hensyn ble tillagt betydelig vekt av departementet i forarbeidene til lovendringen 21. juni 2013.[^493] Interne opplysninger bør kunne unntas av hensyn til politiets behov for å arbeide uforstyrret.
+
+Vernet etter Grunnloven og våre konvensjonsforpliktelser er ikke er til hinder for at gjenstanden for innsyn avgrenses som foreslått, se blant annet EMDs avgjørelser Lavrsen mot Danmark og Natunen mot Finland.[^494]
+
+Opplysninger som ikke omfattes av gjenstanden for innsyn, skal ikke fremgå av fortegnelsen politiet fører over opplysninger i saken. Selve fortegnelsen skal imidlertid inngå i det materialet som det kan gis innsyn i. Dersom forsvaret mener eller får kjennskap til at det foreligger opplysninger som er holdt utenfor saken, og som antas å være av betydning for mistenkte, bør det, som i dag, være adgang til å fremme begjæring om innsyn. Se utkastet § 6-9 og punkt 12.4.6 nedenfor.
+
+For hemmelige tvangstiltak er unntak fra innsynsretten på etterforskingsstadiet en klar forutsetning for metodebruken. Hemmelighold kan imidlertid også være viktig for å sikre formålet med øvrige tvangstiltak. For eksempel vil en meddelelse om at det er truffet en pågripelsesbeslutning, kunne forspille muligheten for å få tak i mistenkte dersom vedkommende får kjennskap til beslutningen før pågripelsen iverksettes.[^495] Hensynet til mistenktes forsvar kan likevel tilsi at det gis innsyn i en slik begjæring også før iverksettelsen, for eksempel dersom det er fremmet en rettsanmodning til utlandet. Illustrerende er avgjørelsen inntatt i Rt. 2015 s. 520, som gjaldt spørsmål om innsyn i en mulig siktelse forut for en mulig besluttet pågripelse. I avgjørelsen kom Høyesteretts flertall til at spørsmål om innsyn i siktelsen, også når den er utformet i forbindelse med en beslutning om pågripelse, skal vurderes etter vilkårene i straffeprosessloven § 242. Selv om innsynsbegjæringer i slike tilfeller i alminnelighet vil ha små muligheter til å føre frem, mente flertallet at det ville føre for langt om alle tvangsmiddelbeslutninger automatisk skulle falle utenfor dokumentbegrepet.[^496]
+
+Utvalget mener hensynet til mistenktes rettssikkerhet blir tilstrekkelig ivaretatt ved at det gis innsyn i opplysninger knyttet til tvangstiltak ved iverksettelsen av dette. Opplysninger om at det er begjært eller besluttet bruk av tvangstiltak, skal derfor først inngå i sakens opplysninger ved iverksettelsen. Se lovutkastet § 6-7.
+
+Grunnleggende for ordningen med partsprosess et at påtalemyndigheten og forsvaret kan vurdere og tilnærme seg opplysninger ulikt. Innsyn i opplysninger vil kunne sette forsvaret i stand til å se forhold som taler til mistenktes fordel. Illustrerende er Rt. 2007 s. 1435, som gjaldt spørsmål om innsyn i opplysninger fra kommunikasjonskontroll i en annen straffesak enn den sak tiltalen gjaldt, når det var tilknytning mellom de to straffesakene. I begrunnelsen for å gi rett til innsyn viste førstvoterende til saksopplysningshensyn og påtalemyndighetens plikt til å sørge for at ingen uskyldige straffes (avsnitt 38):
+
+«Jeg finner \[…\] grunn til å understreke at dersom opplysninger som er fremkommet i én straffesak, klart beviser at en person som er mistenkt i en annen sak, er uskyldig, eller på annen måte svekker mistanken mot ham, plikter påtalemyndigheten å sørge for at opplysningene inngår i den andre saken. Reglene om taushetsplikt om opplysninger fremkommet ved kommunikasjonskontroll innebærer her ingen hindring, jf. § 216 i første ledd bokstav c. Ved vurderingen av hvorvidt opplysninger i en sak på denne måten kan være av betydning i en tilknyttet sak, må påtalemyndigheten ha for øye hvordan opplysningene vil kunne brukes fra en forsvarers ståsted.»
+
+Også praksis fra EMD er restriktiv når det gjelder adgangen til å unnta dokumenter fra innsyn. Både opplysninger som kan tale for og opplysninger som kan tale mot mistenktes skyld skal således inngå i materialet mistenkte kan gis innsyn i.[^497] Opplysninger kan ikke sperres fra innsyn på bekostning av mistenktes forsvar. En slik presisering om at opplysninger som kan ha betydning for forsvaret, ikke skal holdes utenfor saken, er inntatt i utkastet § 6-1 annet ledd annet punktum.
+
+1.  **Rett til innsyn for mistenkte og forsvareren**
+
+Etter utvalgets forslag skal mistenkte ha vid adgang til innsyn i sakens opplysninger. Innsynsrettens omfang vil avhenge dels av avgrensningen av sakens opplysninger, dels av unntakshjemlene.
+
+Det avgjørende for innsynsrettens grenser vil, som etter gjeldende rett, være i hvilken grad nektet innsyn kan frata mistenkte muligheter for argumentasjon og eventuelt supplerende bevisføring. Hvis så er tilfellet, skal opplysningene inntas i saken. Utkastet § 6-1 annet ledd annet og tredje punktum om at opplysninger skal inntas i saken mot mistenkte, må forstås i lys av at påtalemyndigheten skal opptre objektivt i hele sin virksomhet, jf. utkastet § 2-3 første ledd. Det er lite som skiller vurderingen påtalemyndigheten skal foreta etter § 6-1, fra det som ellers gjelder for innhenting av bevis under etterforskingen.[^498]
+
+1.  **Rett til innsyn for fornærmede, etterlatte, skadelidte og bistandsadvokaten**
+
+Loven skal legge til rette for at alle aktørene i saken settes i stand til å ivareta sine interesser. Dette tilsier en vidtgående innsynsrett for fornærmede, etterlatte og bistandsadvokaten, særlig av hensyn til muligheten for kontradiksjon. Mot at denne gruppen gis fullstendig innsyn i sakens opplysninger, taler at materialet kan være omfangsrikt og inneholde betydelige mengder sensitive opplysninger uten betydning for disse aktørenes rettsstilling.
+
+Utvalget mener interessene bør avveies slik at det gis en viss begrensning i innsynsretten for sakens øvrige aktører. Innsynsretten bør dekke det den enkelte har behov for av opplysninger, men heller ikke omfatte mer. Fornærmede og etterlatte bør således gis rett til innsyn i opplysninger vedkommende trenger for å kunne ivareta sine interesser i saken, se utkastet § 6-2 første ledd. Forslaget innebærer en viss innskrenkning sammenlignet med gjeldende rett for fornærmede og etterlatte uten sivilt krav i saken. Innskrenkningen er begrunnet i at følsomt materiale ikke bør spres unødig. Av praktiske hensyn må det likevel i nokså stor grad aksepteres at fornærmede mv. i praksis gis innsyn utover innsyns*retten*.
+
+Spørsmålet om innsyn må vurderes konkret, og vektingen av hensynene som taler henholdsvis for og mot innsyn, vil nødvendigvis slå ulikt ut avhengig av opplysningenes karakter og hva de skal benyttes til. Bistandsadvokaten er i samsvar med sin hovedoppgave etter loven gitt rett til innsyn i samme utstrekning som sin klient, se utkastet § 6-2 første ledd, sammenholdt med utkastet § 4-5 annet ledd bokstav a jf. § 4-2 første ledd bokstav d.
+
+Skadelidte som fremmer erstatningskrav, har rett til innsyn etter utkastet kapittel 43.
+
+1.  **Allmennhetens rett til innsyn**
+
+Allmennheten har begrenset rett til innsyn i straffesakens opplysninger så lenge den verserer, se punkt 12.3.5, i motsetning til hva som generelt gjelder for innsyn i forvaltningssaker.[^499] I straffesaker som er avsluttet, er adgangen noe videre, men også her gjelder unntak. I andre nordiske land, for eksempel Sverige, er tilgangen til dokumenter i straffesaker betydelig videre enn i Norge. I svensk rett kan enhver i medhold av tryckfrihetsförordningen 2 kap. 12 og 13 §§ begjære innsyn i en offentlig handling (allmän handling) eller begjære kopi eller avskrift.[^500]
+
+Utvalget viderefører adgangen enhver har til å gjøre seg kjent med tiltalebeslutningen, visse rettsavgjørelser og avgjørelsenes slutning i en pågående straffesak, se utkastet § 6-3. Sakens øvrige opplysninger kan gjøres kjent dersom det anses «ubetenkelig» av hensyn til den videre behandling av saken.
+
+Offentlighetsprinsippet som nylig er inntatt i Grunnloven § 95 første ledd, og som fremgår av våre konvensjonsforpliktelser, jf. EMK artikkel 6 nr. 1 og SP artikkel 14 nr. 1, står meget sterkt i vår rettsorden. Et tydelig uttrykk for dette er at hovedregelen er møte- og referatoffentlighet både i sivile saker og straffesaker, jf. domstolloven §§ 124 flg. I forarbeidene til domstolloven uttalte departementet at innskrenkninger bare bør besluttes i konkrete tilfeller der dette er nødvendig.[^501]
+
+De senere år har Høyesterett hatt til behandling to saker der pressen har gjort gjeldende at påtalemyndighetens avslag på tilgang til materiale i straffesaker må anses som et brudd på ytringsfriheten etter EMK artikkel 10 nr. 1 og SP artikkel 19 nr. 1. I Rt. 2013 s. 374 ble det lagt til grunn at nektelse av å utlevere lydbåndopptak fra hovedforhandlingen i straffesaken mot Arne Treholt var et inngrep i retten til ytrings- og informasjonsfrihet etter EMK. Høyesterett la vekt på sakens betydelige allmenne interesse, samtidig som førstvoterende presiserte at EMK artikkel 10 nr. 1 ikke uten videre måtte få anvendelse for pressens krav om tilgang til de øvrige saksdokumentene i straffesaker. I avsnitt 53 heter det:
+
+«Jo større samfunnsinteresse det er knyttet til en sak, jo større behov er det for at forholdene legges til rette for at pressen gis mulighet til å fylle sin funksjon på tilfredsstillende måte. Spørsmålet må imidlertid vurderes konkret i den enkelte sak.»
+
+Rt. 2015 s. 1467 gjaldt NRKs krav om utlevering av et opptak av en pågripelse utenfor Oslo legevakt, der en person døde. Høyesterett kom til at unnlatelsen av å gi NRK innsyn i materialet måtte anses som et inngrep i EMK artikkel 10 nr. 1 og SP artikkel 19 nr. 1. Flertallet la vekt på at saken reiste prinsipielle spørsmål knyttet til statens bruk av tvangsmakt, et problemkompleks i kjernen av pressens funksjon som «offentlig vaktbikkje», se avsnitt 73.
+
+Utvalget mener det i vurderingen av om det er ubetenkelig å utlevere materiale i straffesaker, skal legges vekt på allmennhetens behov for informasjon, ikke minst for å kontrollere behandlingen av straffesaker, se utkastet § 6-3 annet ledd annet punktum. Tungtveiende samfunnsmessige hensyn, og da særlig pressens behov for å kunne kontrollere rettspleien, taler etter utvalgets syn for at terskelen for å gi innsyn i straffesaksmateriale senkes noe, såfremt det ikke vil kunne skade den videre behandlingen av saken. Utgangspunktet for påtalemyndighetens vurdering av en begjæring etter utkastet § 6-3 annet ledd annet punktum skal som i sitatet ovenfor være den bredere samfunnsinteresse, herunder pressens arbeidsbetingelser.
+
+Utvalget foreslår at alle rettsmøter i straffesaker skal tas opp med lyd og bilde, jf. utkastet til domstolloven § 134 b og begrunnelsen for endringsforslaget. Forslaget reiser spørsmål om hvorvidt det bør gjelde særskilte regler om allmennhetens rett til innsyn i slike opptak. Svaret beror på en avveining av allmennhetens interesse i å kunne kontrollere rettspleien, og behovet for å hindre spredning av sensitive opplysninger i straffesaken.
+
+I svensk rett er det gjort unntak for innsynsretten for bildeopptak, herunder lyd- og bildeopptak under rettsmøte, med mindre det er «klart att uppgiften kan röjas utan att den hörde lider men», jf. sekretesslagen kap. 7 § 48.[^502] Etter utvalgets syn bør en regel inspirert av denne gjelde også i norsk rett.
+
+Utvalget har vurdert om det er grunn til å innføre et totalforbud mot å gi tilgang til slike opptak. Hensynet til å skjerme sensitive opplysninger, så vel som prosessøkonomiske og praktiske hensyn, taler for en slik løsning. Det samme gjør domstolloven § 131 a, som slår fast at det som hovedregel er forbud mot å fotografere tiltalte i rettsmøter og på vei til og fra rettsforhandlingene. Dersom det i ettertid kan gis innsyn i bildeopptak fra rettsmøtet, er det fare for at utgangspunktet omgås eller svekkes.
+
+Offentlighetsprinsippet står sterkt i vår prosessordning, og må veie tungt i vurderingen av om det skal gis innsyn i lyd- og bildeopptak av forklaringer i retten. Men selv om utgangspunktet er at rettergangen er offentlig, bør det ikke nødvendigvis være samme adgang til å få tilgang til opptakene i ettertid. En omfattende tilgang til lyd- og bildeopptak vil i tillegg til å innebære en fare for misbruk og øvrige inngrep i personvern, stå i et spenningsforhold til det grunnleggende prinsipp om at saken skal få sin endelige avgjørelse ved dom. På en helt annen måte enn tradisjonelle dokumentbevis er lyd- og bildeopptak fra forhandlingene egnet til å holde liv i en avsluttet sak.
+
+Terskelen for innsyn i opptak fra forhandlingene bør derfor være høy, også i situasjoner der innholdet er kjent, for eksempel fordi det er referert offentlig, eller opptaket tidligere har vært avspilt offentlig. Men selv om utvalget mener at tilgangen og tilgjengeligheten må begrenses, bør det i noen tilfeller gis innsyn i opptak fra rettsforhandlingene. Utgangspunktet bør være det generelle grunnvilkåret for øvrige opplysninger; at det er ubetenkelig om innsyn gis. Sentralt for vurderingen av om det skal gis innsyn i opptak, skal være om hensynet til vern om sensitive opplysninger, og til den som forklarer seg, taler mot offentliggjøring. Det må ikke åpnes for innsyn som innebærer risiko for at et vitne eller andre settes i fare, sml. sekretesslagen 7 kap. 48 §.
+
+Påtalemyndigheten bør foreta en ordinær innsynbedømmelse, herunder ta høyde for de særegne forhold som knytter seg til lyd- og bildeopptak. I tillegg bør spørsmålet om innsyn vurderes av domstolen som hadde saken til behandling. Begrunnelsen for dette er at domstolen har andre forutsetninger for å vurdere visse sider ved innsynsspørsmålet, blant annet om det er behov for å begrense innsynet for å ivareta de hensyn som ligger til grunn for domstolloven kapittel 7 og hensynet til sakens øvrige aktører.
+
+Utgangspunktet for domstolens vurdering bør være om innsyn er ubetenkelig, men det må også kunne tas hensyn til forhold utover dette. Blant annet må domstolen kunne vurdere om behovet for innsyn er så stort at det bør settes av ressurser til en eventuell redigering av opptaket. For best å fange den brede vurderingen som skal foretas, bør loven kreve domstolens «samtykke» før innsyn gis.
+
+For å redusere spredningsfaren bør dessuten tilgangen til opplysningene begrenses ved at de som det klare utgangspunkt kun skal gjøres tilgjengelig hos domstolen, uten at det gis anledning til å kopiere opptaket. Hensynet til at mistenkte og aktørene i alminnelighet må kunne påregne at de er ferdige med saken når dommen er rettskraftig, taler for en slik løsning. Opptakene skal bare helt unntaksvis kunne benyttes utenfor domstolen når allmennhetens behov for informasjonen er stort, for eksempel til forskningsformål.
+
+Det bør i forskrift fastsettes nærmere bestemmelser om hvordan det skal gis tilgang til opptak, herunder regler om hvor gjennomsyn skal skje, og hvilke forholdsregler som skal tas for å hindre videre spredning.
+
+Et særlig spørsmål er om det er grunn til å gi allmennheten ytterligere tilgang til materiale enn det som følger av gjeldende rett og utvalgets forslag. Offentlighet i rettergangen generelt, og spørsmålet om rett til innsyn i opplysninger i straffesaker spesielt reiser viktige problemstillinger knyttet til personvern, ytrings- og informasjonsfrihet, pressens rolle mv. Utvalgets sammensetning og øvrige forutsetninger har vært til hinder for en inngående drøftelse av emnet, som kunne fortjene en særskilt utredning der blant annet pressen og Datatilsynet er representert.
+
+I dag kan allmenheten nektes innsyn i rettsavgjørelser som er eldre enn fem år. Utvalget har vurdert om det er grunn til å videreføre regelen. For å beholde femårsgrensen taler hensynet til å begrense spredningen av sensitive opplysninger, og at partene skal kunne gjøre seg ferdig med saken. Ressurshensyn trekker i samme retning. Det krever tid og ressurser å gjennomgå en rettsavgjørelse med sikte på å vurdere om den i sin helhet eller for en del, kan gis ut. Med en femårsgrense vil det være mulig å avslå innsyn etter en enkel vurdering. Etter dette har utvalget blitt stående ved at regelen bør videreføres i utkastet til ny straffeprosesslov.
+
+1.  **Bør såkalte inngangsopplysninger for bruk av tvangstiltak kunne unntas fra innsyn?**
+
+Etter straffeprosessloven vil innsynsspørsmålet kunne stille seg forskjellig avhengig av om det er tale om opplysninger som knytter seg til åpen eller skjult metodebruk. Opplysninger fremlagt for retten som grunnlag for avgjørelse om visse hemmelige tvangstiltak, såkalte inngangsopplysninger, kan etter gjeldende rett unntas fra innsyn, jf. straffeprosessloven § 242 a tredje ledd. Bestemmelsen innebærer et unntak fra vilkåret i § 242 a om at opplysninger bare kan holdes utenfor innsyn når de ikke er benyttet som bevis, og dessuten fra regelen i § 242 om at forsvareren ikke kan nektes tilgang til opplysninger fremlagt i rettsmøte, se nærmere punkt 12.3.6. Det er et spørsmål om hjemmelen bør videreføres, og videre om et slikt unntak også bør gjelde for opplysninger som danner grunnlag for å ta i bruk ordinære tvangstiltak som pågripelse, ransaking og beslag.
+
+Sistnevnte problemstilling ble tatt opp av departementet i forbindelse med lovendringene 21. juni 2013.[^503] Departementet gikk ikke inn for en slik utvidelse, under henvisning til at spørsmålet ikke var utredet av Metodekontrollutvalget, og viste til at straffeprosessloven § 242 uansett gir en vid adgang til å unnta slikt materiale på etterforskingsstadiet.[^504] Det ble gitt uttrykk for at spørsmålet burde utredes nærmere.
+
+Utvalget legger til grunn at det i noen utstrekning er nødvendig at opplysninger om politiets arbeidsmetoder holdes tilbake for å sikre effektiv kriminalitetsbekjempelse. Særlig er det av betydning å hindre at kriminelle miljøer tilpasser seg politiets taktikk knyttet til bruk av tvangstiltak, og dessuten å sikre effektiv beskyttelse av politiets kilder og informanter.
+
+På denne bakgrunn mener utvalget at det er behov for å videreføre bestemmelsen i § 242 a tredje ledd i ny straffeprosesslov. Utvalget foreslår at opplysninger som er fremlagt for retten som grunnlag for avgjørelse om bruk av tvangstiltak i saker der mistenkte har fått oppnevnt særskilt advokat etter utkastet § 3-25, skal kunne sperres for innsyn, se lovutkastet § 6-8 som erstatter gjeldende § 242 a. Det er tale om begjæringer om tvangstiltak som mistenkte ikke skal varsles om, og ikke gis anledning til å uttale seg om, og hvor nettopp manglende tilgang til opplysningene er avgjørende for effekten av tiltaket. For mistenkte står saken i denne situasjonen således langt på vei i samme stilling som når opplysninger som ikke benyttes som bevis, holdes utenfor innsyn. Utvalget understreker at i begge situasjoner må en forutsetning for innsynsnekt være at tilbakehold av opplysninger er nødvendig, og dette må heller ikke medføre vesentlige betenkeligheter for mistenktes forsvar.
+
+Spørsmålet er så om de ovenfor nevnte begrensingene i innsynsretten bør suppleres med en adgang til å unnta opplysninger som har vært benyttet som grunnlag for bruk av ordinære tvangstiltak. Utvalget har blitt stående ved at en slik utvidelse vil føre for langt, og at det neppe er behov for den. Utvalget legger her til at politiets arbeidsmetoder og fremgangsmåter også vil kunne beskyttes av lovforslagets øvrige bestemmelser om innsyn. I utkastet § 6-1 annet ledd avgrenses gjenstanden for innsyn mot såkalte inngangsopplysninger ved at «opplysninger som foranlediget etterforskingen» som hovedregel ikke inngår i saken. Se nærmere om dette i punkt 12.4.1.3 og merknadene til utkastet § 6-1. Utvalget foreslår videre at det under etterforskingen bør være adgang til å holde opplysninger som kan skade «muligheten for bruk av tvangstiltak i fremtidig etterforsking» utenfor innsyn, se utkastet § 6-4 første ledd bokstav f. Bestemmelsen omfatter både ordinære og hemmelige tvangstiltak, og tar sikte på å hindre at kriminelle miljøer tilpasser seg politiets metoder, og således hindrer videre etterforsking i den aktuelle saken eller andre saker.
+
+1.  **Domstolskontroll**
+
+Retten bør som hovedregel ha det siste ordet ved avgjørelsen av innsynsspørsmål. Dagens system for behandling av begjæringer om å gi eller nekte innsyn bør derfor i det vesentlige videreføres, se utkastet §§ 6-9 og 6-11.
+
+Mistenkte skal kunne begjære rettslig kontroll av påtalemyndighetens skjønn knyttet til avgrensning av gjenstanden for innsyn. En forutsetning for slik kontroll er at innsynsbegjæringen er tilstrekkelig konkret utformet. En generelt utformet begjæring vil ikke gi krav på rettslig behandling.[^505] Dette er i tråd med praksis fra EMD, der det er lagt til grunn at en mistenkt som har gitt «specific reasons» for sitt krav om innsyn i bevismateriale, skal ha rett til å få spørsmålet vurdert av en domstol.[^506]
+
+1.  **Omgjøring av og anke over beslutninger om å nekte innsyn**
+
+En avgjørelse fra særskilt dommer om at det nektes innsyn etter straffeprosessloven §§ 242 a, 264 sjette ledd, 267 eller 292 a, er i dag bindende for den rett som skal avsi dom i saken, med mindre vilkårene for omgjøring er oppfylt, jf. § 272 a annet ledd. Det fremgår av bestemmelsen at det er den særskilte dommeren som skal vurdere omgjøring dersom spørsmålet oppstår under hovedforhandlingen. Det kan for eksempel være snakk om tilfeller hvor en har sikre holdepunkter for at en trussel mot noens liv ikke lenger foreligger, eller at navnet på en informant allerede er kjent. Begrunnelsen for dette er behovet for å skille klart mellom innsynssaken og hovedsaken.[^507]
+
+Utvalget anbefaler å videreføre rettstilstanden, jf. utkastet § 6-11 fjerde ledd. I tillegg må det foreligge tungtveiende grunner for omgjøring, et vilkår som må forstås strengt. Utkastet § 6-11 skal forstås slik at spørsmål om omgjøring overlates den særskilte dommeren uansett når i saken det måtte oppstå.
+
+Et særlig spørsmål er om den særskilte dommeren selv kan ta initiativ til å omgjøre en avgjørelse om å nekte innsyn. Problemstillingen ble berørt av departementet i Prop. 147 L (2012–2013) i forbindelse med vurderingen av unnlatt varsel til mistenkte og forsvareren om at det er truffet avgjørelse om innsynsnekt. Departementet pekte på at det er den offentlige advokaten som skal ivareta mistenkte interesser. Videre heter det:
+
+«Som en ekstra rettssikkerhetsgaranti vil departementet \[…\] ikke foreslå en endring som helt utelukker den særskilte dommeren fra å omgjøre innsynsnekten på eget initiativ, selv om det må anses mindre praktisk.»[^508]
+
+Straffeprosessutvalget ser ingen tungtveiende grunner til å foreslå endringer på dette punktet, og den særskilte dommeren skal således på eget initiativ kunne omgjøre beslutning etter § 6-11 dersom det er grunnlag for det.
+
+Høyesteretts ankeutvalg avsa 17. mars 2016 to avgjørelser om hvem som kan begjære omgjøring eller anke avgjørelser avsagt i medhold av gjeldende § 242 a.[^509] I avgjørelsen HR-2016-604-U var de tiltalte og deres forsvarere blitt kjent med at en særskilt dommer hadde avsagt kjennelse om nektelse av innsyn. Forsvarerne fremsatte begjæring om omgjøring av kjennelsen, subsidiært anke.[^510] Ankeutvalget viste til begrunnelsen for å fastsette et tosporet system for behandling av spørsmål om innsynsnekt etter § 242 a, og uttalte at det bare er den offentlige advokaten oppnevnt etter § 100 a som kan begjære omgjøring eller anke, se avsnitt 16. Også denne ordningen bør videreføres.
+
+1.  **Bevis**
+
+    1.  **Innledning**
+
+Hovedspørsmålene i en straffesak er om den mistenkte er skyldig i det aktuelle straffbare forholdet, og hvilken reaksjon som eventuelt er riktig. For å ta stilling til dette må påtalemyndigheten og retten bringe klarhet i sakens faktum – hva som faktisk har skjedd – ved å innhente og vurdere tilgjengelige bevis. Behandling av bevis kan således sies å være straffeprosessens kjerneoppgave.[^511]
+
+Bevisreglene fastsetter hvordan man skal gå frem for å finne frem til det faktum som skal legges til grunn for en avgjørelse. Reglene om bevis kan grovt sett deles inn i krav til *aktivitet som fremmer sannhet*, for eksempel regler om umiddelbar bevisføring for retten og om kontradiksjon, og krav som *fordeler risikoen for feil eller ivaretar ulike interesser* på tvers av hensynet til sakens opplysning, for eksempel beviskrav og de fleste bevisforbud.
+
+Temaet bevis reiser således en rekke spørsmål: Hvilke rammer skal gjelde for innhenting og føring av bevis? Hvem skal ha ansvaret for bevisføringen? Hvordan skal bevis vurderes? Hvor sikker må retten være før et faktum kan legges til grunn for en avgjørelse?
+
+Utvalgets mandat og det overordnede målet om en lov som legger til rette for effektiv, rettssikker og tillitvekkende behandling av straffesaker, forutsetter at reglene om bevis må gjennomgås. Særlig er det bedt om at det legges til rette for konsentrert bevisføring, og i den forbindelse «bør det vurderes regler som gjør det mulig å avgrense bevisføringen til det faktum som er bestridt», se mandatets punkt 4.2. Utvalget er også bedt om å vurdere sentrale prinsipper, som muntlighets- og bevisumiddelbarhetsprinsippet, nærmere. Prinsippenes gjennomslag vil i stor grad bero på hvordan reglene om bevis utformes. I mandatets punkt 4.7 er dessuten et særlig bevisrettslig område løftet frem:
+
+«Norsk straffeprosess bygger på et ulovfestet utgangspunkt om fri bevisførsel. Gjeldende lovgivning oppstiller visse begrensninger i dette utgangspunktet. I tillegg kan domstolene oppstille begrensninger på ulovfestet grunnlag, for eksempel for bevis som er fremskaffet på ulovlig måte. Utvalget bør se nærmere på hvilke begrensninger som bør gjelde i prinsippet om fri bevisførsel, særlig vurdert i lys av våre menneskerettslige forpliktelser, samt vurdere en mer utførlig lovfesting av bevisreglene.»
+
+Dette innebærer at det må vurderes om det i det hele tatt er ønskelig med mer utførlige bevisregler i loven enn det som er tilfellet i dag. Videre må det tas stilling til hva som kan og bør gjøres til gjenstand for regulering, hvor detaljert reguleringen eventuelt bør være, og reglenes nærmere rettstekniske utforming. Dette er spørsmål som ikke lar seg besvare uavhengig av hverandre.
+
+I det følgende drøftes først alminnelige bevisregler i punkt 13.2. I punkt 13.2.1 vurderer utvalget generelle forhold som kan tale for og imot en større grad av lovfesting av alminnelige bevisregler. I punkt 13.2.2 gjøres det rede for enkelte overordnede regler om håndtering av bevis som foreslås lovfestet (punkt 13.2.2.1), og det knyttes enkelte merknader til spørsmålet om lagring av bevis (punkt 13.2.2.2). Utvalget vurderer deretter behovet for å lovfeste enkelte mer konkrete regler om bevisføringen, herunder prinsippet om fri bevisføring i punkt 13.2.3, regler om bevistilbud i punkt 13.2.4 og forholdet mellom partenes og rettens ansvar for bevisføringen og sakens opplysning i punkt 13.2.5. Lovfesting av regler for bevisvurderingen, beviskrav og uskyldspresumsjonen drøftes i henholdsvis punkt 13.2.6, 13.2.7 og 13.2.8.
+
+I punkt 13.3 tas det stilling til utformingen av bevisforbud. I punkt 13.3.1 og 13.3.2 klargjør utvalget sitt generelle syn på spørsmålet om reguleringen av bevisforbud, mens konkrete utslag av synspunktene drøftes i punkt 13.3.3. Nytt er utvalgets anbefaling om å basere bevisforbudene på det utvalget har valgt å kalle «nøytralitetsprinsipper», som blant annet innebærer at reglene gjelder for alle bevismidler og saksstadier. Enkelte andre spørsmål drøftes i punkt 13.3.4 til 13.3.7, herunder omfanget av konkrete bevisforbud, forholdet mellom bevisforbud, forklaringsfritak og adgangen til å ta beslag samt betydningen av at opplysninger omfattet av bevisforbud er blitt kjent eller er i mistenktes favør. Lovfesting av og enkelte justeringer i den ulovfestede læren om ulovlig ervervede bevis behandles i punkt 13.3.4.4.
+
+Videre behandles enkelte særlige spørsmål ved vitneforklaringer. I punkt 13.4 drøftes enkelte problemstillinger i tilknytning til regler om forklaringsfritak. Betydningen av kontradiksjon og krysseksaminasjon tas opp i punkt 13.5.
+
+Til slutt, i punkt 13.6 og 13.7, drøfter utvalget regler om henholdsvis sakkyndigbeviset og rettslig bevisopptak.
+
+1.  **Alminnelige bevisregler**
+
+    1.  **Generelt om lovfesting av alminnelige bevisregler**
+
+Straffeprosessloven har ikke noe eget kapittel med alminnelige bevisregler, slik man finner i tvisteloven kapittel 21, og bevisreglene er også ellers i begrenset grad gjort til gjenstand for samlet regulering. Straffeprosesslovkomitéens begrunnelse for ikke å ha et eget kapittel med alminnelige bevisregler var knapp:
+
+«Utkastet har ikke noe kapittel med alminnelige regler om bevis og bevisførsel, svarende til tvml. kap. 14. En del av de regler som finnes i tvml. kap. 14 hører heller hjemme i kapitlet om hovedforhandlingen, og andre har man funnet at man like godt kan unnvære. Prinsippene om fri bevisbedømmelse og om påtalemyndighetens bevisbyrde har man således funnet det overflødig å lovfeste.»[^512]
+
+Sentrale bevisregler, som prinsippet om fri bevisføring, prinsippet om fri bevisvurdering og beviskravet, vil måtte videreføres. De er velkjente og har en sikker rettslig forankring, selv om de ikke fremgår av dagens straffeprosesslov. Utvalget mener prinsippene bør lovfestes, særlig av rettspedagogiske hensyn. Ved utformingen av lovutkastet har utvalget tatt sikte på uttrykkelig regulering av viktige rettslige realiteter. Straffeprosessloven er en sentral lov som både profesjonelle og ikke-profesjonelle aktører hyppig vil møte, og den inneholder bestemmelser som stadig er gjenstand for offentlig debatt.
+
+Et kapittel som samler de sentrale bevisreglene vil dessuten bidra til en mer hensiktsmessig og mer tilgjengelig systematikk i straffeprosessloven. Et slikt kapittel i en lov om straffesaksbehandlingen er også å anbefale fordi det på dette punkt er ønskelig å harmonisere våre to rettergangslover, slik mandatet på generelt grunnlag også antyder – tvisteloven kapittel 21 inneholder alminnelige bevisregler.
+
+På enkelte punkter mener utvalget at det også er nødvendig å foreta modifikasjoner i den gjeldende rettstilstand, noe som nødvendiggjør lovendringer.
+
+1.  **Grunnregler om behandlingen av bevis**
+
+    1.  *Forsvarlig avgjørelsesgrunnlag, kontradiksjon og bevishåndtering*
+
+I straffeprosessloven er reglene om bevis knyttet opp til behandlingen for domstolene. I utvalgets lovforslag reguleres bruk av bevis både overfor og utenfor domstolene, jf. utkastet kapittel 7 om alminnelige regler om bevis. Tre av bestemmelsene er likevel forbeholdt den rettslige behandlingen, jf. utkastet §§ 7-2, 7-3 og 7-4.
+
+Kapittel 7 innledes med følgende grunnleggende prinsipp om forsvarlig avgjørelsesgrunnlag: «Enhver som treffer avgjørelse etter denne lov, skal påse at den bygger på bevis som gir et korrekt og tilstrekkelig avgjørelsesgrunnlag», jf. utkastet § 7-1 første ledd.
+
+I forlengelsen av dette gis det i bestemmelsens annet ledd uttrykk for prinsippet om kontradiksjon om faktum. Prinsippet, som er begrunnet dels i hensynet til sannhetssøken, dels i hensynet til partenes – og da særlig mistenktes – behov for å bli hørt, innebærer at begge parter som det klare utgangspunkt skal gis adgang til å belyse saken, herunder gjennom en rett til å motsi motparten. Det er adgang til å imøtegå og kommentere bevisføringen, men det innebærer ikke nødvendigvis en rett til bevistilgang. Se nærmere om kontradiksjon og vitneforklaringer nedenfor i punkt 13.5 og om kontradiksjonsprinsippet i punkt 5.3.6.
+
+For å få et fullstendig bilde av kontradiksjonsreglene i lovutkastet må prinsippbestemmelsen om rett til kontradiksjon i § 7-1 ses i sammenheng med en rekke bestemmelser om straffesaksbehandlingen, herunder blant annet retten til innsyn, kravene til spesifikasjon av tiltalen, reglene om gjennomføringen av hovedforhandlingen, retten til krysseksaminasjon og domstolens saksopplysningsplikt. Se nærmere i punkt 5.3.6 med henvisning til bestemmelser i straffeprosessloven.
+
+Endelig er det av vesentlig betydning at bevisene håndteres på en måte som gjør at man til enhver tid har best mulig grunnlag for å ta stilling til holdbarheten av påstander som fremsettes under prosessen. Derfor er det i utkastet § 7-1 tredje ledd uttrykkelig sagt at bevis «skal innhentes og behandles på en måte som sikrer og bevarer bevisenes pålitelighet».
+
+1.  *Bør det gis nærmere regler om lagring av bevis?*
+
+Plikten til å sikre og bevare bevisenes pålitelighet i § 7-1 tredje ledd omfatter også krav til oppbevaring av bevismateriale. Hensynet til sakens opplysning tilsier at aktørene må omgås bevis på en måte som ikke svekker bevisenes informasjonsverdi, og bevis må således lagres forsvarlig. Dette innebærer en rekke plikter for aktørene både forut for og under rettens behandling, se merknadene til lovutkastet § 7-1.
+
+Formentlig er det grunn til å gi nærmere regler om lagring av bevismateriale, herunder etter sakens avslutning. Slike regler må nødvendigvis bli svært konkret innrettet etter type bevismiddel samt inneholde en rekke bestemmelser om temaer som sletting eller destruksjon av bevis, tilgang til bevis og tilhørende saksbehandlingsregler. Reglene vil kreve en detaljeringsgrad som gjør at det er lite hensiktsmessig å plassere dem blant bevisreglene i en straffeprosesslov.
+
+Utvalget har ikke den nødvendige oversikt over eller innsikt i de spørsmål som kan oppstå, og som fortjener regulering, og henstiller departementet om å utforme en forskrift til straffeprosessloven med regler om lagring av bevis. Et slikt arbeid bør skje i samspill med berørte myndigheter og interessenter, særlig politiet, påtalemyndigheten og Kommisjonen for gjenopptakelse av straffesaker. Se utkastet § 7-6.
+
+1.  **Fri bevisføring**
+
+I norsk prosessrett gjelder et prinsipp om fri bevisføring. Prinsippet kommer klart til uttrykk i tvisteloven § 21-3 første punktum: «Partene har rett til å føre de bevis de ønsker.» Prinsippet er ikke direkte uttrykt i straffeprosessloven, men kan blant annet forutsetningsvis utledes av de lovfestede bevisforbud og fremgår dessuten uttrykkelig av Høyesteretts praksis:
+
+«Etter norsk straffeprosess har partene i utgangspunktet anledning til å føre de bevis de ønsker vedrørende saken. Denne forutsetning er ikke direkte kommet til uttrykk i loven, men hovedregelen er likevel klar.»[^513]
+
+Prinsippet finner først og fremst sin begrunnelse i en antakelse om at det vil bidra til sakens opplysning – og dermed til at straffesaken får en korrekt avgjørelse – dersom partene gis adgang til å føre de bevis de ønsker. Denne begrunnelsen krysses av de verdier som ligger til grunn for bevisforbudsreglene, herunder hensynet til en effektiv saksavvikling.
+
+Utvalget mener pedagogiske grunner taler for å synliggjøre dette grunnleggende prinsippet i loven. Samtidig må det fremgå av lovteksten at prinsippets gjennomslag begrenses i visse sammenhenger, se utkastet § 7-2 første ledd.
+
+1.  **Bevistilbud**
+
+I forlengelsen av lovfestingen av prinsippet om fri bevisføring er det naturlig å regulere hvordan partene skal presentere og tilby sine bevis, herunder gjennom å angi krav til en oversikt over bevisene.
+
+Straffeprosessloven § 262 i kapittel 21 om forberedelse til hovedforhandling fastsetter at påtalemyndigheten skal sende retten en «oppgave over de bevis den vil føre». Det stilles ingen generelle krav til utformingen av bevisoppgaven, men det gjelder enkelte spesielle krav: Skal det anvendes overskuddsinformasjon, skal dette angis i bevisoppgaven med begrunnelse for at vilkårene for å føre slike bevis er til stede, jf. § 262 annet punktum, og dersom påtalemyndigheten begjærer anonym vitneførsel, må det nevnes, jf. § 264 annet ledd.
+
+I straffeprosessloven av 1887 var det krav om at bevisoppgaven skulle angi «hvorledes \[bevisene\] tænkes erhvervede», og «hvad dermed agtes godtgjort», jf. § 292. I kommentarutgaven til gjeldende lov er det uttalt at selv om dette ble sløyfet, bør ikke bevisoppgaven begrenses til en oppregning av vitner og dokumenter:
+
+«Det bør angis hvilket tiltalepunkt det aktuelle bevis har tilknytning til \[…\]. Dette vil kunne medføre at et bevis blir oppført flere ganger i bevisoppgaven, hvilket ikke kan anses som uheldig, men har gode praktiske grunner for seg.» [^514]
+
+Straffeprosessloven stiller i motsetning til tvisteloven få krav til når og hvordan bevis skal presenteres, se til sammenligning tvisteloven § 21-6 annet ledd: «Parten skal angi hva beviset skal godtgjøre, og skal kort redegjøre for viktig informasjon som vil bli gitt ved beviset, så langt parten ikke kan regne med at motparten er kjent med denne.» For tvistelovens system for øvrig se § 21-6, jf. f.eks. §§ 9-2 annet ledd bokstav e, 9-3 tredje ledd bokstav c og 29-9 tredje ledd bokstav h.
+
+Utvalget mener det bør stilles krav til partenes bevistilbud, og at kravet bør gjelde for hele prosessen, også utover bevisoppgaven som inngis ved oversendelse av saken til retten. Det vil gi økt bevissthet om kravet til bevisenes relevans og styrke aktørenes adgang til å orientere seg i saken, herunder bedre dommerens mulighet til å innta en aktiv og mer styrende rolle under forberedelsen og gjennomføringen av hovedforhandlingen. Loven bør derfor kreve at partene under visse omstendigheter gir beskjed om hvilke bevis som tilbys, samt nærmere opplysninger om disse bevisene. Se utkastet § 7-2 annet ledd.
+
+Loven bør også stille krav om begrunnelse for at beviset kan eller skal tillates ført i situasjoner der det kan bli spørsmål om å avskjære beviset, og i tilfeller der beviset bare kan føres på nærmere vilkår.[^515] Videre bør partene pålegges å henvise til opplysninger om beviset, gitt at dette fremstår som naturlig, og særlig hvis det kan ha betydning for vurderingen av beviset. For eksempel kan det være av betydning å oppgi hvor mange ganger et vitne har vært avhørt av politiet, samt relevante forhold i tilknytning til et avhør, som hvorvidt vedkommende var ruset eller i en psykisk avvikstilstand på avhørstidspunktet.
+
+Etter utvalgets syn bør det videre etter omstendighetene gis – eller kunne kreves – en kort begrunnelse for hvorfor det enkelte bevis skal føres, og hva det skal godtgjøre. En begrunnelsesplikt for bevisets relevans ble i sin tid avvist av Justis- og politidepartementet, fordi en «generell begrunnelsesplikt ville medføre mye ekstraarbeid i saker der dette ikke er hensiktsmessig og forsinke sakene unødig».[^516] Utvalget anbefaler en mindre omfattende plikt, i form av en relativ regel som gjelder for hele prosessen, og som gis anvendelse når det er konkret behov for mer utførlige opplysninger om beviset. En fleksibelt utformet bestemmelse må antas å kunne praktiseres slik at man oppnår de nevnte fordeler uten unødig arbeid og forsinkelser.
+
+1.  **Rettens ansvar for sakens opplysning**
+
+    1.  *Kontroll med at partenes bevisføring er relevant og forholdsmessig*
+
+Hensynet bak prinsippet om fri bevisføring rekker ikke lenger enn at det kun er bevis med betydning for saken som bør tillates ført. Bevis uten relevans bidrar ikke til sakens opplysning og kan stå i veien for en hensiktsmessig og effektiv saksavvikling. Etter straffeprosessloven kan et bevis avskjæres når det «gjelder forhold som er uten betydning for dommens innhold», «gjelder forhold som allerede er tilstrekkelig bevist» eller «åpenbart ikke har noen beviskraft», jf. § 292 annet ledd.
+
+Utvalget finner det klart at loven bør kreve at partenes bevisføring er relevant for saken, og at retten må gis adgang til å avskjære bevis som ikke er det. For å sikre en effektiv prosess er det videre påkrevd at loven gir uttrykk for *rettens plikt* til å håndheve kravet til relevans. Av utvalgets lovutkast følger det derfor at irrelevante bevis «skal» avskjæres, se utkastet § 7-3 førte ledd.
+
+I noen grad bør det også være adgang for retten til å begrense bevisføringens omfang ut fra forholdsmessighetsbetraktninger. Et bevis som kun i liten grad bidrar til sakens opplysning, bør kunne avskjæres etter en skjønnsmessig vurdering av mer tungtveiende mothensyn som gjør seg gjeldende. Mindre viktige bevis bør således etter utvalgets syn kunne avskjæres av hensyn til effektiv saksavvikling, når det er fare for at beviset vil kunne villede mer enn det kan veilede, og dersom beviset vil påføre skade eller være belastende for mistenkte, fornærmede, et vitne eller en tredjeperson.
+
+En forutsetning for å kunne avskjære bevis på de nevnte grunnlagene må være at det tilbudte beviset i liten grad er egnet til å belyse sakens faktum eller tilføre noe nytt, slik at det er lite å vinne på å tillate bevisføringen, holdt opp mot interessene som står på spill. En regel som hjemler avskjæring på lignende grunnlag, finnes i tvisteloven § 21-8, men i en straffeprosesslov er det grunn til å klargjøre skjønnstemaet for denne type avskjæring i større grad enn det som er gjort der. Det vises til merknadene til utkastet § 7-3 annet ledd.[^517]
+
+Utvalget har vurdert det som unødvendig å videreføre særreguleringen av «bevis som er for hånden», jf. straffeprosessloven § 292 annet ledd. Reguleringen er begrunnet i hensynet til effektivitet og en presumsjon om at det vil ta tid å innhente bevis som ikke er umiddelbart tilgjengelig, og at saken dermed ofte vil måtte utsettes. Denne forutsetningen har i dag ikke samme gyldighet som tidligere. Forskjellen mellom å føre bevis som er «for hånden», og bevis som ikke er det, er ofte ikke lenger stor, på grunn av endrede kommunikasjonsmidler. Mange bevis er bare noen tastetrykk unna. Betydningen av bevisets tilgjengelighet, herunder av at saken eventuelt må utsettes for at beviset skal kunne føres, bør vurderes ut fra om tidsbruken er forholdsmessig, gitt hensynet til effektiv saksavvikling.
+
+Utvalgets inntrykk – basert på egen erfaring og tilbakemeldinger fra andre – er at norske domstoler er tilbakeholdne med å håndheve de gjeldende krav til bevisføringens relevans i straffeprosessloven § 292 annet ledd. Dette er en praksis som nok også må tilskrives partenes prosessopplegg og prosessadferd, ettersom retten i mange tilfeller ikke vil ha forutsetninger for å vurdere bevisenes betydning for saken før de er ført. Den uheldige virkningen av manglende håndheving av relevanskravet er at forhandlingene trekker ut, uten at kvaliteten øker. Dette har også virkninger utenfor straffeprosessen, blant annet ved at vitner innkalles unødig og bruker mer tid enn nødvendig for saksopplysningen.
+
+Utvalgets klare oppfatning er at det er et betydelig potensial for tidsbesparelser og andre ressursbesparelser dersom aktørene blir seg mer bevisst kravene til bevisføringens relevans og forholdsmessighet. Bestemmelsen om dette er derfor gitt en mer fremskutt plassering i lovutkastet og en enklere utforming enn det som er tilfellet i dag, se utkastet § 7-3 om rettens kontroll med at bevisføringen er relevant og forholdsmessig. For at reglene om avskjæring av irrelevant og uforholdsmessig bevisføring skal virke effektivt, er det videre viktig at beslutninger om dette treffes så tidlig i prosessen som mulig, se også utkastet § 34-7 tredje ledd.
+
+Først og fremst må et kulturskifte til for at bestemmelsene om begrensning av bevisføringen skal håndheves mer aktivt, noe som må forventes å ta tid.[^518] En innskjerping av kravene til relevans og forholdsmessighet er imidlertid et viktig element for å oppnå økt konsentrasjon om sakens sentrale temaer, se punkt 17.1.3 og 18.2.1.
+
+Ved praktiseringen av relevanskravene må kryssende hensyn ivaretas. Ønsket om å legge til rette for en smidig prosess og for tiltaltes opplevelse av å få en rettferdig rettergang, kan for eksempel tenkes å føre til en viss aksept for vitneførsel uten betydning for sakens opplysning. Det er ikke opplagt hvordan nevnte hensyn skal vektes ved praktiseringen av relevansreglene, og avveiningen må i stor grad finne sin løsning i den enkelte sak. Utvalget mener likevel det i loven må gis et tydelig signal til rettslivet og domstolene om at hensynet til å få opplyst saken skal være det primære. Bestemmelsen er derfor utformet slik at domstolene pålegges en plikt til å avskjære både irrelevant og uforholdsmessig bevisføring, jf. ordlyden «skal» i utkastet § 7-3 annet ledd.

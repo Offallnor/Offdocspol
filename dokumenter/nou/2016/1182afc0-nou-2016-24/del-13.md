@@ -1,975 +1,290 @@
-# NOU 2016: 24, del 13 av 73 (side 150–162)
+# NOU 2016: 24, del 13 av 69
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/1182afc0-nou-2016-24.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-24/id2517932/
 - Original-PDF: https://www.regjeringen.no/contentassets/6fe1d875248042b4a09b43b85aa46832/no/pdfs/nou201620160024000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 9 tabeller, 1 figur, 52 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 150]
-
-148
-
-Kapittel 5
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-det for enhver pris tas sikte på flest mulig riktige
-avgjørelser. Så vel det strafferettslige beviskrav
-som en rekke andre mekanismer i straffeprosessen er utslag av at uriktige domfellelser vurderes
-som verre enn uriktige frifinnelser: Ingen uskyldige skal dømmes.
-Sannhetsidealet kommer til uttrykk i flere
-regler i straffeprosessloven. I § 226 er det bestemt
-at politiet under etterforskingen skal søke å klarlegge både det som taler for og det som taler mot
-siktede. Et annet sentralt eksempel er straffeprosessloven § 294, som pålegger retten å våke over
-at saken blir fullstendig opplyst. Også generelle
-prosessuelle garantier, som for eksempel adgang
-til kontradiksjon, forutsettes å ha stor betydning
-for saksopplysningen og således sannhetsidealet.
-Straffeprosessen skal være hensynsfull overfor alle involverte. Regler som bygger på dette
-utgangspunktet, er for eksempel straffeprosessloven § 51 om negativ materiell rettskraft, bestemmelsene om at siktede skal gjøres oppmerksom
-på sin rett til ikke å forklare seg, jf. straffeprosessloven §§ 90 og 232, og reglene om at vitner
-skal bli gjort oppmerksom på at de ikke har plikt
-til å forklare seg i situasjoner der vitnefritak er
-aktuelt, jf. straffeprosessloven § 127.87
-Dernest skal prosessen være konsentrert og
-hurtig. Omfattende og langvarige prosesser er
-kostnadskrevende for samfunnet og belastende
-for dem som er berørt. Dessuten antas en effektiv
-prosess å sikre bevisenes godhet i større grad enn
-en langvarig prosess, og på den måten sikres også
-sannhetsidealet. Eksempler på utslag av disse
-
-hensyn er straffeprosessloven § 226 fjerde ledd
-om at etterforskingen skal gjennomføres så raskt
-som mulig, straffeprosessloven § 183, som fastsetter fremstillingsfristen for fengsling, og straffeprosessloven § 275 om beramming av hovedforhandling.88 I EMK artikkel 6 nr. 1 er det slått fast
-at siktede har krav på rettergang «within reasonable time».
-Samlet kan man si at prosessen skal være
-rettferdig og rettergangen forsvarlig.89 Retten til
-rettferdig rettergang og uavhengige domstoler er
-nå forankret i Grunnloven § 95 første ledd. Prinsippet om «fair trial» er dessuten slått fast i EMK
-artikkel 6 nr. 1. I dette ligger blant annet at hensynet til effektivitet ikke må gå utover ufravikelige
-krav til kvaliteten av påtalemyndighetens arbeid,
-siktedes forsvar eller muligheten til å gjennomføre en betryggende bevisføring under hovedforhandlingen.90
-Både overordnede rettsnormer og vår prosesstradisjon – slik den er kort beskrevet ovenfor
-gjennom sentrale straffeprosessuelle prinsipper –
-legger føringer for arbeidet med en ny straffeprosesslov, se punkt 5.2 og 5.3. De konstitusjonelle og
-folkerettslige skranker må respekteres fullt ut,
-mens de straffeprosessuelle prinsipper legger
-føringer på den måten at de utgjør et utgangspunkt for vurderingene. Også videreføring krever
-refleksjon, men argumentasjonsbyrden vil likevel
-ofte tilligge løsninger som innebærer endring i
-etablerte prinsipper.
-88
-89
-
-87
-
-Rui (2014c) s. 396.
-
-90
-
-Rui (2014c) s. 415.
-Se blant annet Rt. 2006 s. 856 med videre henvisninger.
-Rui (2014c) s. 396.
-
-[Side 151]
-
-Del III
-Alminnelige motiver
-
-[Side 152]
-
-[Side 153]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-151
-
-Kapittel 6
-
-Kapittel 6
-
-Informasjons- og kommunikasjonsteknologi
-6.1
-
-Innledning
-
-Utvalgets mandat omtaler betydningen av
-moderne teknologi i straffeprosessen flere steder.
-I punkt 2 om behovet for revisjon er teknologiens
-betydning understreket på et overordnet nivå:
-«En god straffeprosess må bidra til kvalitet,
-effektivitet og rettssikkerhet i strafferettspleien, og den må åpne for rasjonell bruk
-av moderne informasjonsteknologi. Prosessordningen må være tilpasset det mangfold av
-saker som den teknologiske utvikling, den
-sosiale mobilitet og samfunnsutviklingen i sin
-alminnelighet gir opphav til.»
-Mandatet har dessuten mer konkrete føringer. I
-punkt 3 om målsettingene med en ny lov heter det:
-«Utvalget skal vurdere muligheter og gevinster
-som ligger i tilpasning til og rasjonell utnytting
-av moderne teknologi, herunder bruk av lyd/
-bilde ved bevisopptak/etterforsking og i domstolen.»
-I punkt 4 om enkelte sentrale spørsmål er teknologi omtalt i to underpunkter:
-«4. En ny lov bør speile den teknologiske utviklingen. I lys av formålet om en rettssikker,
-effektiv og tillitvekkende straffeprosess bør
-utvalget vurdere regler om bruk av moderne
-teknologi på alle stadier av en straffesak, også i
-aktørenes kommunikasjon med hverandre.
-5. Utvalget bør ut fra de samme hensyn vurdere behovet for lyd- og bildeopptak under
-hovedforhandlingen. I den sammenheng bør
-det vurderes hvilke konsekvenser eventuelle
-opptak under bevisførselen bør få for
-gjennomføringen av for eksempel ankeforhandlingen.»
-Endelig er teknologi omtalt avslutningsvis i mandatet, i punkt 6:
-
-«Det pågår et omfattende arbeid med ITsystemene i politi- og påtalesektoren (Merverdiprogrammet). Utvalget forutsettes å ha kontakt med Merverdiprogrammet og innhente
-nødvendig kompetanse også fra andre med
-kompetanse innen IKT-arkitektur og -utvikling,
-for å klarlegge eventuelle tekniske konsekvenser og tilpasninger av forslagene som vurderes.
-Utvalget bør trekke veksler på Lovdatas
-kompetanse med hensyn til strukturering av
-avgjørelser, lover og forskrifter. […]
-Utvalget skal redegjøre for økonomiske,
-administrative og andre vesentlige konsekvenser av sine forslag. Utvalget skal i denne sammenheng ta særlig hensyn til de IKT-messige
-forutsetningene for sine forslag.»
-Sammenfatningsvis angir mandatet følgende IKTrelaterte temaer:
-– lovovertrederes bruk av teknologi
-– bruk av teknologi ved administrasjon av straffesaksprosessen
-– lyd- og bildeopptak av rettslige forhandlinger
-og ved bevisopptak i og utenfor retten
-– økonomiske og administrative konsekvenser
-som følge av behov for endring, fornyelse og
-anskaffelse av saksbehandlingssystemer,
-utstyr for lyd- og bildeopptak mv.
-Overordnede spørsmål knyttet til bruk av
-moderne teknologi i straffesaksbehandlingen og
-for lovutformingen drøftes nedenfor i punkt 6.2 og
-6.3.
-I punkt 6.4 er temaet rettslig regulering av
-kommunikasjonen mellom straffesakens aktører i
-lys av moderne teknologi. Herunder behandles
-regelsett som ikke er, eller ikke trenger å være,
-direkte forankret i straffeprosessloven, men som
-har stor praktisk betydning for gjennomføringen
-av straffesaker. Punkt 6.4.1 gir en oversikt over
-fremstillingen. I punkt 6.4.2 behandles spørsmålet
-om hvorvidt gjeldende regler for informasjonssikkerhet er tilstrekkelige for bruken av moderne
-teknologi. I punkt 6.4.3 drøftes det om gjeldende
-
-[Side 154]
-
-152
-
-Kapittel 6
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-formelle krav for kommunikasjon med domstolene i tilstrekkelig grad er tilpasset bruken av digitale kommunikasjonsløsninger. Videre drøftes i
-punkt 6.4.4 om reglene om forkynning bør endres
-slik at det åpnes for at forkynning kan skje elektronisk. I punkt 6.4.5 er temaet bruk av fjernavhør
-og fjernmøter.
-En problemstilling av stor prinsipiell og praktisk betydning, som også er løftet frem i mandatet,
-knytter seg til bruk av lyd- og bildeopptak. Dette
-behandles i punkt 6.5.
-Økonomiske og administrative konsekvenser
-som knytter til moderne teknologi behandles særskilt i punkt 28.3.
-Bruken av moderne informasjonsteknologi
-har betydning for en rekke av lovens reguleringer
-– for eksempel skal reglene om bevis forstås i lys
-av de særegenheter som knytter seg til digitale
-bevis. Lovutkastet er imidlertid så langt det har
-latt seg gjøre utformet teknologinøytralt, se punkt
-6.2.2. I en del tilfeller der det ellers knytter seg
-særlige spørsmål til håndtering eller bruk av teknologi, er dette drøftet særskilt i tilknytning til de
-enkelte bestemmelser i utkastet.
-Språkbruken knyttet til moderne teknologi er
-i stadig utvikling. «Elektronisk» er en betegnelse
-som i mange sammenhenger benyttes for å vise
-til databaserte løsninger. Et eksempel er
-esignaturloven, hvor det i forarbeidene blant
-annet heter: «Bruk av elektronisk signatur fører
-til flere sikkerhetsmessige spørsmål som er helt
-ukjente for papirbasert kommunikasjon.»1 Bruken av ordet «elektronisk» stammer i denne sammenheng fra akronymet «EDB», som står for
-«elektronisk databehandling», og som er oversatt fra det engelske «electronic data processing». Uttrykket «EDB» er fremdeles levende i
-visse miljøer, og det benyttes blant annet i lovgivningen.2 I dag er det likevel blitt vanligere å
-erstatte betegnelsen «elektronisk» med «digitalt», noe som henger sammen med at det er den
-digitale elektronikken som benyttes. Denne
-betegnelsen benyttes i det følgende, for eksempel brukes uttrykket «digital kommunikasjon» i
-stedet for «elektronisk kommunikasjon». I utvalgets forslag til lovendringer om bruk av moderne
-teknologi – som ikke berører utkastet til ny
-straffeprosesslov – benyttes likevel «elektronisk», ettersom dette er etablert lovspråk.
-Merverdiprogrammet, som er nevnt i mandatet, skulle fornye den samlede IKT-støtten til poli1
-2
-
-Ot.prp. nr. 82 (1999–2000) s. 13.
-Se for eksempel lov 23. juni 2000 nr. 54 om edb-baserte
-reservasjonssystemer for passasjertransport m.v.
-
-tiets arbeid, herunder gjennomføre en samlet og
-omfattende fornyelse og omlegging av straffesakssystemene i politiet og påtalemyndigheten.
-Det skulle også etableres løsninger for opptak
-med lyd og bilde av ordinære politiavhør og annet
-teknisk utstyr til bruk i politiets operative virksomhet. Merverdiprogrammet ble imidlertid avviklet i 2015. Det har således ikke vært aktuelt med
-slik kontakt med programmet som mandatet forutsetter. I forlengelsen av Merverdiprogrammet
-er det arbeidet videre med å endre politiets
-arbeidsmetodikk knyttet til sikring av bevis i initialfasen – «Mer politiarbeid på stedet» – og dette
-står sentralt i Nærpolitireformen. Utvalget har sett
-hen til denne målsettingen, og tilpasset lovutkastet til mulige måter for politiet å utnytte de muligheter teknologien gir.
-For å klarlegge tekniske konsekvenser og tilpasninger av utvalgets lovutkast har utvalget vært
-i kontakt med andre aktører, herunder Politidirektoratet, Domstoladministrasjonen og Stiftelsen
-Lovdata.
-
-6.2
-
-Betydningen av teknologi for
-straffesaksbehandlingen og
-lovutformingen
-
-6.2.1
-
-Bruk av teknologi i straffesaksbehandlingen
-
-Utvalget slutter seg til mandatets forutsetning om
-at bruk av moderne informasjons- og kommunikasjonsteknologi (IKT) på en rekke områder må
-kunne forventes å bidra til økt rettssikkerhet og
-økt effektivitet og dermed styrke grunnleggende
-hensyn av betydning for straffesaksbehandlingen.
-En lov bør være tilpasset virkeligheten den
-skal regulere, og bruk av IKT inngår allerede i
-aktørenes saksbehandlingssystemer. Under etterforsking og rettergang benyttes IKT blant annet
-til digital bevissikring, digital kommunikasjon i
-form av fjernavhør og fjernmøter og digitale saksfremlegg for retten.
-Behovet for bruk av digital kommunikasjon
-under straffesaksbehandlingen har vært fremhevet og utredet med jevne mellomrom de senere år,
-og det er igangsatt og pågår prosjekter som har
-som siktemål å gjøre behandlingen digital. Illustrerende er følgende uttalelse fra ti år tilbake:
-«Det er bred enighet om at domstolene bør tilpasses moderne informasjons- og kommunikasjonsteknologi (IKT) på linje med samfunnsog næringslivet for øvrig. En del virksomheter
-i justissektoren har tatt i bruk videokonferanse-
-
-[Side 155]
-
-153
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-utstyr som et verktøy til bedre ressursutnyttelse og effektivisering. Utstyret brukes så
-langt hovedsakelig i forbindelse med møtevirksomhet og opplæring, men vurderes også tatt i
-bruk i forbindelse med saksavvikling.»3
-Potensialet IKT har for samhandling i straffesaksbehandlingen, er tidligere blant annet understreket av Riksrevisjonen.4 Også bruk av lyd- og bildeoverføringer og -opptak har vært et tilbakevendende diskusjonstema.
-Videre er det i flere sammenhenger uttrykt et
-spenningsforhold mellom dagens bruk av
-moderne informasjon- og kommunikasjonsteknologi og hensynet til forsvarlig og sikker behandling. I utredningen Digital sårbarhet – sikkert samfunn fra 2015 er det blant annet påpekt en manglende evne til videreutvikling av og investering i
-IKT-systemer:
-
-Kapittel 6
-
-moden for en IKT-opprustning innenfor straffesaksfeltet.
-6.2.2
-
-Teknologiens betydning for
-lovutformingen
-
-Betydningen av digitale løsninger i dagens samfunn kan knapt overdrives. Om ikke lenge vil fraværet av generelle IKT-løsninger i straffesaksbehandlingen fremstå som uforståelig for mange, og
-særlig for yngre personer som har vokst opp med
-omfattende bruk av digital teknologi. Om det ikke
-foretas en opprustning, vil det kunne bre seg en
-oppfatning om at strafferettspleien er tungrodd og
-i utakt med øvrig samfunnsutvikling, noe som
-igjen vil kunne virke negativt inn på tilliten til
-systemet. Dette gjelder for de generelle saksbehandlingssystemene så vel som for kommunikasjon mellom aktørene og midler til bruk under
-etterforsking og rettergang. Kort sagt: Tiden er
-
-Loven bør gis en utforming som tar høyde for
-moderne teknologi, og som ikke stenger for hensiktsmessig bruk av digitale løsninger. Dette tilsier varsomhet med å detaljregulere særskilte tiltak eller stille spesifikke formkrav.
-Utvalget mener loven innenfor forsvarlige rammer bør utformes «teknologinøytralt». Med det
-siktes det til at bestemmelsene ikke forutsetter
-eller knytter an til en bestemt type teknologi.
-Reglene om straffesaksbehandlingen er som
-utgangspunkt basert på avveininger av hensyn
-som er uavhengige av teknologiske forhold. For
-eksempel skal loven gi hjemmel for beslag av
-bevis uavhengig av om disse er digitale eller ei.
-Videre skal loven virke over tid, og den bør derfor
-ikke unødig bindes opp til rådende teknologiske
-forhold, men utformes fleksibelt for å ta høyde for
-at teknologien og bruken av teknologi er i stadig
-endring. I rimelig utstrekning bør de til enhver tid
-foretrukne digitale løsninger kunne benyttes.
-Samtidig er det særlige forhold ved moderne
-informasjons- og kommunikasjonsteknologi som
-får betydning for praktiseringen av enkeltregler.
-Allerede det at en rekke straffbare handlinger
-direkte eller indirekte er knyttet til bruk av IKT,
-innebærer at etterforsking og rettergang i større
-grad enn tidligere har fått et digitalt tilsnitt. Til
-illustrasjon kan påtalemyndigheten i dag ta beslag
-i enorme mengder digital informasjon, noe som
-blant annet har gitt betydelige praktiske utfordringer når det skal skilles mellom informasjon det
-kan tas beslag i, og informasjon som er vernet
-som konfidensiell, se nærmere drøftelsen i punkt
-14.8.3.3.
-Dette innebærer at man ved utformingen av
-loven blant annet må ta høyde for de særlige hensyn som gjør seg gjeldende ved innhenting, lagring, sikring og bruk av digitale bevis. Enkelte
-bestemmelser vil dessuten måtte uformes særskilt for digitale forhold, slik tilfellet for eksempel
-er for tvangstiltak i form av inngrep i kommunikasjon, se utkastet kapittel 20.
-
-3
-
-6.2.3
-
-«Utvalget er av den oppfatning at IKT-situasjonen i politiet er kritisk. Det er behov for langsiktige og omfattende løft med tanke på stabilitet i grunnleggende infrastruktur og sikkerhet
-i applikasjoner og tjeneste. I tillegg er det et
-stort behov for å etablere felles nasjonale løsninger som erstatning for ulike lokale løsninger. Utvalget ser det som helt grunnleggende
-for å kunne understøtte en større satsing i politiet mot IKT-kriminalitet. Det er også behov for
-utvidet funksjonalitet, slik som digitalisering av
-samhandling mot domstolene, kriminalomsorgen og mot innbyggerne.»5
-
-4
-
-5
-
-Ot.prp. nr. 27 (2005–2006) s. 9.
-Se Riksrevisjonen (2012). En oversikt over diverse utredninger mv. om domstolenes bruk av elektronisk kommunikasjon frem til 2002, er gitt i Ot.prp. nr. 8 (2002–2003) punkt
-4, på s. 11 flg.
-NOU 2015: 13 s. 278. Se også s. 267.
-
-Teknologinøytralitet og språkbruk
-
-Utvalget har, som fremhevet i punkt 6.2.2, søkt å
-utforme loven teknologinøytralt – slik at bestemmelsene ikke forutsetter eller knytter an til en
-bestemt type teknologi. På grunn av utbredelsen
-
-[Side 156]
-
-154
-
-NOU 2016: 24
-
-Kapittel 6
-
-Ny straffeprosesslov
-
-av datasystemer og annet digitalt utstyr de siste
-årene, har det for øvrig vært en utvikling i språkbruken, slik at meningsinnholdet i de tradisjonelle termene har blitt utvidet til også å omfatte
-forhold utover den umiddelbare assosiasjon. For
-eksempel kan man med «signatur» nå også sikte
-til elektroniske bekreftelser, se nærmere punkt
-6.4.3.2.
-Utvalget har under arbeidet med loven erfart
-at mange aktører avgrenser meningsinnholdet til
-ord og uttrykk i større utstrekning enn det etter
-utvalgets syn er grunnlag for. Dette har blant
-annet gitt seg uttrykk i oppfatninger om at det er
-behov for å endre loven for å ta høyde for
-moderne teknologi i situasjoner der etablert
-språkbruk, etter utvalgets syn, må være tilstrekkelig, som for eksempel uttrykket «signatur».
-Utvalgets standpunkt har vært at det så langt
-som mulig er hensiktsmessig å benytte innarbeidede uttrykk og ha særlig øye for hvordan disse
-skal forstås i tråd med den teknologiske utviklingen. Alternativet, som er presist å angi spesielle
-teknologiske løsninger, vil i for stor grad innebære en teknologiavhengig språkbruk. I merknadene til lovutkast er det søkt gitt en klar og tydelig
-omtale av den teknologinøytralitet som ligger i de
-mer tradisjonelle uttrykk som er valgt.
-
-6.3
-
-Saksbehandlingssystemer
-
-6.3.1
-
-Oversikt
-
-I det følgende behandles bruk av moderne informasjons- og kommunikasjonsteknologi (IKT) i
-straffesaksbehandlingen, herunder saksbehandlingssystemer hos påtalemyndigheten, domstolene og øvrige aktører samt digital kommunikasjon mellom aktørene og utad til offentligheten.
-I punkt 6.3.2 gis først en kort oversikt over
-enkelte av de IKT-systemene som i dag benyttes
-av straffesakens aktører til intern saksbehandling.
-I punkt 6.3.3 følger en oversikt over IKT-systemer
-som benyttes til kommunikasjon mellom ulike
-aktører i straffesakskjeden. Endelig i punkt 6.3.4
-følger utvalgets vurdering av hvilken betydning
-bruk av IKT-systemer har for straffesaksbehandlingen.
-6.3.2
-
-Interne saksbehandlingssystemer
-– BL, STRASAK, SSP mv.6
-
-Politiets og påtalemyndighetens saksbehandlingssystem Basisløsninger (BL) er et digitalt saksbe-
-
-handlingssystem for straffesaksdata og dokumenter, som brukes av alle politidistrikter, særorganer
-og Den høyere påtalemyndighet. Systemet var ferdig utviklet for bruk i 1996, i 1999 hadde alle politidistriktene løsningen, og Den høyere påtalemyndighet ble koblet til på 2000-tallet.
-BL er i prinsippet et saksbehandlings- og kommunikasjonssystem for digitale straffesaksdokumenter. I utgangspunktet registreres alle dokumenter og all øvrig informasjon om saken.
-Systemet er basert på lokale baser og servere,
-men åpner for overføring av straffesaker og tilhørende dokumenter mellom politidistriktene og de
-ulike nivåene i påtalemyndigheten. Det er imidlertid begrensede muligheter for å søke på tvers av
-de lokale basene.
-Et uttrekk av BL-data fra straffesakene, herunder opplysninger om tid, sted, handling, personer, sakens bevegelser og beslutninger som er
-truffet, lagres automatisk i politiets straffesaksregister (STRASAK). STRASAK ble utviklet i 1979
-og danner grunnlaget for produksjon av statistikk
-om anmeldte saker og saksbehandling, herunder
-offisielle kriminalstatistikker fra Statistisk sentralbyrå.
-Det sentrale straffe- og politiopplysningsregisteret (SSP) benyttes av politiet og påtalemyndigheten til å registrere personopplysninger i tilknytning til forebyggende arbeid, etterforsking og
-straffeforfølgning. Registeret gir oversikt over
-pågripelser, varetekt og løslatelser, straffereaksjoner og gjennomføring av straff og andre reaksjoner, hvem som er registrert med fingeravtrykk,
-foto og DNA, samt signalementet til dem som er
-registrert.
-Elys II er et sentralt etterlysingsregister for
-personer, kjøretøy, båtmotorer mv. Systemet
-benyttes av politiet og påtalemyndigheten til å
-registrere og sende ut etterlysninger og formidle
-slik informasjon til utenlandsk politi. Systemet er
-sammensatt av tre etterlysingstjenester, henholdsvis Elys II – nasjonale etterlysninger, Schengen
-informasjonssystem (SIS) og Interpols Automatic
-Search Facility (ASF).
-Lovinformasjonssystem (Lovisa) er saksbehandlingsverktøyet til dommere og saksbehand-
-
-6
-
-Se også Riksrevisjonen (2012), som inneholder en mer
-utførlig fremstilling av IKT-systemene som benyttes i straffesaksbehandlingen.
-
-[Side 157]
-
-155
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-lere i ting- og lagmannsretter over hele landet og
-brukes i alle straffesaker og sivile saker. Systemløsningen har vært i produksjon siden 2003.
-Lovisa er en saksbehandlingsløsning som støtter
-registrering, behandling og rapportering av alle
-typer retts- og forvaltningssaker. Høyesterett
-benytter per i dag ikke Lovisa, men det er et mål
-at domstolen skal ta i bruk systemet.
-Kriminalomsorgen har tre landsdekkende ITsystemer. Kriminalomsorgens produktivitetsfremmende informasjonssystem (Kompis) er fra 1992.
-Kompis-Kia benyttes i fengslene og gir der støtte
-til en del arbeidsoppgaver. Systemet leverer blant
-annet meldinger om innsettelser og løslatelser,
-men er ikke et saksbehandlingssystem. KompisKif er et styringsredskaps- og saksbehandlingssystem som gir støtte for arbeidsoppgaver i friomsorgen. Bookingsystemet benyttes til behandling av saker fra de kommer fra politi eller påtalemyndighet, til en person settes inn eller møter ved
-et fengsel eller friomsorgskontor. Systemet kan
-benyttes til å samhandle med Kompis-Kia og
-Kompis-Kif. Systemet mottar avgjørelser elektronisk fra domstolene.
-
-6.3.3
-6.3.3.1
-
-Kommunikasjonsløsninger
-Stifinner
-
-Stifinner er en digital løsning for kommunikasjon
-mellom politiet, domstolene og Kriminalomsorgen som benyttes til å sende dokumenter fra påtalemyndigheten til tingrettene og fra tingrettene til
-påtalemyndigheten og Kriminalomsorgen. Lagmannsrettene og Høyesterett benytter ikke løsningen.
-Systemet ble i 2003 etablert som et pilotprosjekt for å høste erfaring med elektronisk samhandling i justissektoren og omfatter BL i politiet,
-Lovisa i domstolene og Kompis i kriminalomsorgen. Det benyttes til oversendelse av berammelsesbrev, tiltale, bevisoppgave og begjæringer fra påtalemyndigheten til retten og til oversendelse av rettens avgjørelser til påtalemyndigheten og Kriminalomsorgen. Dokumentene sendes i tillegg fysisk,
-eventuelt sammen med øvrige saksdokumenter.
-Systemet er karakterisert som utdatert og
-mangler kapasitet og grunnleggende funksjoner.
-Med dagens løsninger er det ikke hensiktsmessig
-for tingrettene å håndtere større dokumentmengder elektronisk i Lovisa. Digital kommunikasjon
-mellom partene og domstolene skjer ellers per
-usikret e-post.
-Domstoladministrasjonen har opplyst overfor
-utvalget at den ønsker å utvikle et system – Stifin-
-
-Kapittel 6
-
-ner II – som skal sikre kommunikasjon mellom
-påtalemyndigheten, domstolene, Kriminalomsorgen og konfliktrådene. Tanken er at systemet skal
-være en videreutvikling av eksisterende løsning.
-Det tas sikte på utstrakt bruk av strukturert informasjon, det vil si gjenbruk av informasjon og ulike
-koblinger, for eksempel mellom tiltalebeslutning
-og domsslutning. Dette vil bidra til å sikre at retten tar stilling til alle krav i tiltalen, forenkle etterbehandlingen og gi bedre statistikkgrunnlag.
-6.3.3.2
-
-Aktørportalen
-
-Aktørportalen er en plattform for digital kommunikasjon mellom partene/advokater og domstolene. Portalen benyttes i dag kun i sivile saker og
-til innsending av salæroppgaver i straffesaker. I tillegg kan advokater få tilgang til dokumenter domstolene har opprettet i straffesakene. Lenke til
-portalen finnes på internettsiden domstol.no.
-Domstoladministrasjonen har planer om å
-utvikle Aktørportalen slik at den i større utstrekning kan benyttes i straffesaker. Dokumenter som
-sendes inn til domstolene via Aktørportalen fra
-forsvarer og bistandsadvokat, kan eventuelt gjøres tilgjengelige for påtalemyndigheten via Stifinner II-løsningen. Domstoladministrasjonens syn
-er imidlertid at Aktørportalen primært bør sikre
-kommunikasjon mellom partene og retten, og at
-påtalemyndighetens tilgjengeliggjøring av informasjon for forsvarer og bistandsadvokat bør skje
-via et annet system.
-6.3.3.3
-
-Digital iretteføring
-
-Digital iretteføring innebærer at straffesaksdokumenter håndteres digitalt på alle trinn i straffesakskjeden, herunder ved forberedelse til og
-gjennomføring av hovedforhandling. Saksfremlegg og presentasjon av dokumentbevis i retten
-skjer papirløst, med bruk av PC og bildefremviser
-mv.
-De siste årene er det gjennomført en rekke
-digitale hovedforhandlinger, særlig i saker som er
-ført for retten av Økokrim og finans- og miljøseksjonen ved Oslo politidistrikt.7 Prøveprosjektet
-Digitalt aktorat, som har pågått siden juni 2014,
-har som hovedformål å vinne erfaring med digital
-iretteføring. Prosjektet sorterte under Merverdiprogrammet inntil dette ble avviklet, se punkt 6.1.
-Totalt deltok ca. 30 personer fra politiet og påtalemyndigheten, fordelt på fire politidistrikter.8
-7
-8
-
-Politidirektoratet (2015) s. 7.
-Politidirektoratet (2015) s. 8.
-
-[Side 158]
-
-156
-
-NOU 2016: 24
-
-Kapittel 6
-
-Ny straffeprosesslov
-
-Videre har det siden oktober 2015 pågått et samarbeidsprosjekt mellom Oslo tingrett og Oslo politidistrikt om såkalte digitale fengslinger.
-Erfaringene har avdekket fordeler og utfordringer med digitalt saksfremlegg. Fordelene
-knytter seg til effektiviseringsgevinster, særlig i
-store straffesaker med mye dokumentbevis og
-mange aktører: Dokumentasjonen i retten blir
-enklere, og man får notoritet om dokumentasjonen, ordningen gir mulighet for bruk av lenker,
-materialet lar seg gjenbruke, informasjon blir søkbar, og man får enklere tilgang til såkalte metadata.
-Utfordringene knytter seg blant annet til at
-ordningen, slik den har vært praktisert, har medført at aktor har fått en fremtredende rolle under
-behandlingen, som følge av at vedkommende eller
-en medhjelper håndterer dokumentene, herunder
-markerer det som blir dokumentert. Det er også
-pekt på utfordringer knyttet til informasjonssikkerhet. En annen problemstilling teknologien har
-ført med seg, er spørsmålet om hvor mye informasjon retten skal ha, og hvordan denne informasjonen skal presenteres. Et særlig spørsmål har vært
-om retten under rådslagningen skal ha alle opplysningene tilgjengelig (bruttoutdrag) eller bare
-de opplysningene som er dokumentert (nettoutdrag), jf. blant annet kjennelse 18. mars 2016 fra
-Høyesteretts ankeutvalg, som er nærmere omtalt i
-punkt 17.4.1.
-I saker som har blitt presentert digitalt for
-domstolene, har dommerne godtatt ulike løsninger, og mange problemstillinger har måttet løses
-fra sak til sak, etter avtale mellom partene. Erfaringene tilsier at det er behov for en felles teknisk
-plattform, felles metode og felles retningslinjer.9
-6.3.3.4
-
-Prosjektet Digitale domstoler
-
-Domstoladministrasjonens prosjekt Digitale domstoler har som mål at sivile saker og straffesaker
-skal behandles papirløst i domstolene.10 I første
-omgang vil digitaliseringen gjelde Høyesterett, de
-seks lagmannsrettene og de tolv største tingrettene, som alle skal være papirløse innen 2021.
-For straffesaker skal det etableres et oppdatert system for kommunikasjon mellom påtalemyndigheten, domstolene og Kriminalomsorgen
-(Stifinner II). Aktørportalen, som i dag kun benyttes i sivile saker, skal utvides til bruk også i straffesaker. Dokumentasjon i rettsmøter skal skje
-9
-10
-
-Se også Politidirektoratet (2015) s. 9 og 67–69.
-Se Domstoladministrasjonen (2015c) og Domstoladministrasjonens nettside Digitale domstoler.
-
-digitalt. Prosjektet retter seg altså primært mot
-digital saksbehandling, herunder digital samhandling mellom aktørene samt papirløs behandling i
-rettsmøter, og er uttrykkelig avgrenset mot spørsmålet om bruk av lyd- og bildeopptak i domstolene.
-Behovet for samhandling har vært drøftet tidligere. I Justis- og politidepartementets rapport
-Elektronisk samhandling i justissektoren – Samhandling i straffesakskjeden, avgitt 29. april 2008,
-presenteres en IKT-modell for såkalt strukturering av data – avgjørelser, lover og forskrifter –
-som tar sikte på gjenbruk av informasjon på tvers
-av virksomhetene i strafferettspleien, herunder
-politiet, påtalemyndigheten, domstolene og kriminalomsorgen. Bakgrunnen for rapporten er at
-informasjonsutveksling mellom nevnte aktører i
-stor utstrekning var basert på manuelle papirbaserte løsninger, og at det benyttes saksbehandlingssystemer som forutsetter manuell registering
-av informasjon. I rapporten presenteres en modell
-for strukturering og deling av data og tjenester
-med sikte på trygg og effektiv elektronisk
-behandling. Strukturering av data vil si systematisering av informasjon som muliggjør hensiktsmessige arbeidsprosesser, for eksempel med
-tanke på gjenbruk, sammenstillinger, analyse mv.
-6.3.4
-
-Utvalgets vurderinger
-
-Utvalget mener det ligger et betydelig potensial
-for effektivitet i bruk av saksbehandlings- og kommunikasjonssystemer for strafferettspleien. Det
-er teknisk mulig å etablere slike systemer, herunder legge til rette for digital samhandling.
-Gode digitale systemer vil kunne bidra til å
-fremme forutsigbarhet, legge til rette for samordning og ellers sikre en hensiktsmessig prosess.
-Gjenbruk av informasjon gjennom strukturert
-dataregistrering vil medføre betydelige besparelser ved at behovet for manuell registrering reduseres. Slik gjenbruk vil også kunne øke informasjonens kvalitet og tilgjengelighet og gi et godt
-grunnlag for statistikk og analyse. Av stor betydning er det også at hensynene til personvern og
-vern om taushetsbelagte opplysninger vil kunne
-ivaretas mer betryggende på områder hvor kommunikasjonen i dag er mer uformell, se punkt
-6.4.3.
-Hvilke spesifikke digitale løsninger det er
-teknisk og praktisk hensiktsmessig å benytte for
-å ivareta nevnte formål, berøres i liten grad av
-hvordan forslaget til ny lov om behandling av
-straffesaker utformes, og har derfor reist få prinsipielle eller rettslige spørsmål for utvalget.
-
-[Side 159]
-
-157
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-Utvalget kan for eksempel ikke se at det er noen
-rettslige hindringer for at kommunikasjonen
-mellom profesjonelle aktører i straffesaker, og
-eventuelt også mellom påtalemyndigheten,
-retten og ikke-profesjonelle aktører, skulle
-kunne foregå via en nettportal, såfremt denne i
-tilstrekkelig grad ivaretar hensynet til informasjonssikkerhet, se punkt 6.4.2.
-Utvalget har hatt ett medlem med særlig IKTkompetanse, men den øvrige sammensetningen
-og ressursene som har stått til rådighet, innebærer at utvalget ikke har foretatt noen nærmere
-vurdering av hvordan IKT-systemene for saksbehandling og samhandling bør fornyes eller omlegges. Av samme grunn er det ikke utredet nærmere hvilke digitale løsninger som bør benyttes til
-kommunikasjon mellom aktørene i straffesaksbehandlingen. Begge forhold bør utredes nærmere,
-herunder med hensyn til om allerede etablerte
-løsninger for sikker elektronisk post til og fra
-offentlige myndigheter bør benyttes, slik som
-Altinn og digital postkasse (Digipost/e-Boks).
-Utvalget bygger således på mer alminnelige
-antakelser om årsaker og virkinger når det tar stilling til hvordan IKT kan benyttes til å sikre god
-straffesaksbehandling. På denne bakgrunn fremheves enkelte forhold som bør tas i betraktning,
-og enkelte funksjoner det bør tilrettelegges for i et
-videre arbeid med IKT-systemer til bruk for straffesaksbehandling.
-Helt grunnleggende er at systemene må være
-lett tilgjengelige og ha et hensiktsmessig og intuitivt brukergrensesnitt, grafisk så vel som tekstlig.
-Det må også legges til rette for at de tekniske
-parameterne harmonerer med den til enhver tid
-gjeldende lovgivning, slik at de ikke blir en
-«tvangstrøye» for straffesaksbehandlingen.
-Videre må valget av IKT-løsning til bruk under
-saksbehandlingen ses i sammenheng med og gis
-et innhold som er tilpasset konkret etterforsking
-og rettergang. Det innebærer antakelig at
-systemene bør kunne benyttes til å håndtere opptak, avspilling og redigering av digital lyd og bilde,
-se nærmere punkt 6.5. Samtidig bør det også tas i
-betraktning at jo mer komplekst systemet blir,
-desto vanskeligere og mer ressurskrevende vil
-det være å utvikle og implementere endringer.
-Til de mer spesifikke funksjonene fremhever
-utvalget at det er et stort behov for en løsning som
-gir forsvarere og bistandsadvokater enklere tilgang til sakens dokumenter, med oppdateringer
-etter hvert som nye dokumenter tilkommer, samt
-løsninger for sikker kommunikasjon av prosesskriv, e-post/meldinger mv. Særlig i enkelte større
-politidistrikt er det i dag en betydelig utfordring at
-
-Kapittel 6
-
-det tar lang tid å få innsyn i sakens dokumenter.
-Dagens system medfører et betydelig arbeid for
-etterforskere og kontorpersonell i politiet, som
-må sørge for mangfoldiggjøring av etterforskingsdokumenter og ettersendelse til forsvarer og
-bistandsadvokat etter hvert som nye dokumenter
-kommer til. Det bør derfor tilrettelegges for digitalt innsyn i sakens dokumenter og for at begjæringer om innsyn kan behandles digitalt. Aktørene
-bør varsles digitalt når nye dokumenter kommer
-til i saken.
-Det er et tilsvarende behov for å sikre god og
-trygg kommunikasjon mellom påtalemyndigheten, forsvarer og bistandsadvokat, og det ville
-være ønskelig med en nettportal som kan ivareta
-dette. Kommunikasjonen mellom aktørene kan
-knyttes opp mot saken som er til behandling. I
-dag skjer mye av korrespondansen per e-post.
-Dette kan være problematisk med hensyn til informasjonssikkerheten, se nærmere i punkt 6.4.2.3,
-og kan dessuten medføre risiko for at korrespondansen ikke føres inn i straffesaken, slik at opplysningene ikke blir tilgjengelig for andre med innsynsrett eller går tapt.
-Det knytter seg betydelige ressurser og utfordringer til å utarbeide større IKT-systemer til
-bruk i privat så vel som i offentlig sektor, noe
-blant annet avviklingen av Merverdiprogrammet
-illustrerer, se punkt 6.1. Politidirektoratet har opplyst til utvalget at det på noe sikt vil bli jobbet
-videre med enkelte deler av de IKT-endringer
-som var forutsatt i Merverdiprogrammet. Utvalget forutsetter. Om behovet for endringer i
-datasystemer før ny straffeprosesslov kan tre i
-kraft, se punkt 28.3.3.
-
-6.4
-
-Kommunikasjon i straffesaksbehandlingen
-
-6.4.1
-
-Oversikt
-
-Kommunikasjonen mellom aktørene i straffesaker
-omhandler utveksling av opplysninger av betydning for saksforberedelsen, innkallinger og underretning om avgjørelser. Loven stiller i noen sammenhenger særlige formkrav til kommunikasjonen mellom aktørene og knytter rettsvirkninger til
-manglende etterlevelse av kravene.
-Enkelte krav til kommunikasjon følger av
-uttrykkelig regulering. For eksempel skal oversendelse av anker skje «skriftlig», jf. straffeprosessloven §§ 312 første ledd første punktum og
-380 første ledd første punktum. Andre krav til
-kommunikasjonsformen kan følge av mer generelle krav til saksbehandlingen. For eksempel
-
-[Side 160]
-
-158
-
-NOU 2016: 24
-
-Kapittel 6
-
-Ny straffeprosesslov
-
-innebærer plikten til å bevare taushet om opplysninger at disse opplysningene ikke kan kommuniseres åpent, se punkt 6.4.2.2.
-Enkelte av dagens formkrav er til hinder for
-digital kommunikasjon. For eksempel er kravet
-til skriftlighet ved anke forstått slik at ankeerklæring i utgangspunktet ikke kan inngis med bruk
-av e-post, se punkt 6.4.3.1. Også de mer generelle saksbehandlingskravene kan være til hinder for bruk av digital kommunikasjon, for
-eksempel ved at regler om håndtering av taushetsbelagt informasjon kan være til hinder for
-bruk av digitale løsninger med lav sikkerhetsstandard.
-I det følgende drøftes fire regelsett av betydning for bruk av digital kommunikasjon. I punkt
-6.4.2 er temaet om gjeldende regler i tilstrekkelig
-grad ivaretar hensynene til personvern og annen
-informasjonssikkerhet. Deretter, i punkt 6.4.3,
-drøftes det om gjeldende regulering av kommunikasjon mellom domstolene og aktørene i tilstrekkelig grad er tilpasset bruk av digital kommunikasjon. I punkt 6.4.4 er spørsmålet om reglene om
-forkynning bør endres slik at forkynning kan skje
-digitalt. Endelig, i punkt 6.4.5, behandles adgangen til bruk av fjernavhør og fjernmøte ved lyd- og
-bildeoverføring.
-
-6.4.2
-6.4.2.1
-
-bruk av moderne teknologi i straffesaksbehandlingen tilsier likevel en noe nærmere vurdering av
-hensynet til personvern og øvrig informasjonssikkerhet ved bruk av digital kommunikasjon, herunder spørsmål om konfidensialitet, integritet og
-tilgjengelighet.
-Dette er forhold som er av betydning for en
-betryggende og forsvarlig straffesaksbehandling.13
-Særlig er det grunn til å fremheve at straffesaksbehandling innebærer å håndtere opplysninger som
-er underlagt taushetsplikt, og som kan være av
-meget personsensitiv karakter. Dette medfører
-utfordringer som også knytter seg til bruk av ordinære postforsendelser og oversendelser per telefaks, men spredningsfaren må antas å være større
-ved bruk av digitale kommunikasjonskanaler.
-I punkt 6.4.2.2 nedenfor følger en kort redegjørelse for gjeldende rett om informasjonssikkerhet
-i strafferettspleien. I punkt 6.4.2.3 presenterer
-utvalget sine vurderinger og forslag til regelendringer mv.
-6.4.2.2
-
-Politiets og påtalemyndighetens behandling av
-opplysninger reguleres blant annet av politiregisterloven § 15:
-«Den behandlingsansvarlige og databehandleren skal gjennom planlagte og systematiske tiltak sørge for tilfredsstillende informasjonssikkerhet med hensyn til konfidensialitet, integritet og tilgjengelighet ved behandling av
-opplysninger.»
-
-Informasjonssikkerhet
-Innledning
-
-I mandatets punkt 5 tredje avsnitt er det fastslått at
-skillet mellom politiregisterloven og straffeprosessloven skal ivaretas. Behandlingen av opplysninger i politiet og påtalemyndigheten er regulert
-i politiregisterloven. Utvalget er ikke særskilt bedt
-om en generell utreding av personvernrettslige
-sider ved behandlingen av straffesaker.
-Politiregisterloven er nokså nylig vedtatt. Det
-synes videre nærliggende at behandlingen av personopplysninger i domstolene blir drøftet i forbindelse med en eventuell videre behandling av forslaget til ny domstollov.11 Det kan også nevnes at
-EUs personvernregler er i endring, og det er ikke
-klart hvilke tilpasninger i norske personvernregler endringene vil føre til.12
-På denne bakgrunn er det ikke grunn for
-utvalget til å foreta en fullstendig utredning av
-ulike regler om behandling av personopplysninger i straffesaker. Mandatets sterke betoning av
-
-En tilsvarende bestemmelse finnes i personopplysningsloven § 13. Bestemmelsen får imidlertid
-ikke anvendelse i straffesaker, idet loven ikke gjelder for saker som behandles i medhold av
-rettspleielovene, jf. personopplysningsforskriften
-§ 1-3, som er hjemlet i personopplysningsloven § 3
-tredje ledd.14
-I juridisk teori er det tatt til orde for at unntaket i personopplysningsloven og -forskriften skal
-tolkes slik at det bare er regler vedrørende
-behandling av enkeltsaker som faller utenfor,
-mens bestemmelser i loven som gjelder generelle
-krav til behandlingen av opplysninger, kommer til
-anvendelse, herunder regler i §§ 8 og 9 om rettslig grunnlag, § 13 om informasjonssikkerhet, § 14
-13
-
-11
-
-Se Justis- og beredskapsdepartementet (2014).
-12
-Se EP/Rdir 2016/680. Se også Datatilsynet (2012) s. 8 og
-NOU 2015: 13 s. 258.
-
-Gjeldende rett
-
-14
-
-Forholdet mellom moderne informasjons- og kommunikasjonsteknologi og informasjonssikkerhet er behandlet i
-NOU 2015: 13.
-Se Ot.prp. nr. 92 (1998–99) s. 105.
-
-[Side 161]
-
-159
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-om internkontroll mv.15 Også Datatilsynet har stilt
-spørsmål ved rekkevidden av unntaket:
-«Det kan argumenteres for at personopplysningslovens bestemmelser om både informasjonssikkerhet og internkontroll gjelder for
-domstolene, til tross for personopplysningslovens § 3 jf. forskriftens § 1-3. Det vises her til at
-unntaket i forskriften er begrunnet i hensynet
-til en uavhengig domstol, og at unntaket ikke
-bør få videre anvendelse enn det begrunnelsen
-tilsier. Tilsynet stiller spørsmål ved om krav til
-informasjonssikkerhet og internkontroll er
-egnet til å rokke ved uavhengigheten i domstolsbehandlingen.»16
-Det har også vært reist spørsmål om hvorvidt
-unntaket i forskriften kun gjelder offentlige
-myndigheters saksbehandling, eller om det også
-gjelder advokaters behandling av personopplysninger i straffesaker.17
-For prøveordningen med elektronisk kommunikasjon i domstolene er det i forskrift stilt særskilte krav til informasjonssikkerhet og internkontroll:
-«Domstoladministrasjonen skal gjennom planlagte og systematiske tiltak sørge for tilfredsstillende informasjonssikkerhet for konfidensialitet, integritet og tilgjengelighet. Bestemmelsene
-om informasjonssikkerhet i personopplysningsforskriften § 2-1 og § 2-3 til § 2-16 gjelder tilsvarende.
-Elektronisk kommunikasjon mellom domstolen og registrert bruker skal sikres med tilfredsstillende innloggingssystem og betryggende metode for autentisering av kommunikasjonspartene. Det skal etableres metoder for
-å sikre at det i ettertid ikke er mulig å benekte
-at dokumentet er sendt.
-Domstoladministrasjonen skal dokumentere tiltakene. Dokumentasjonen skal være tilgjengelig for de ansatte i domstolene som
-omfattes av denne forskriften.»18
-
-ven § 63 a, politiregisterloven § 23 og straffeprosessloven §§ 106 a og 107 i og plikter etter
-bestemmelsene «å hindre» at andre får adgang
-eller kjennskap til fortrolige opplysninger. I dette
-ligger et generelt krav om at det skal utvises en
-viss aktivitet for å motvirke at taushetsbelagte
-opplysninger tilflyter uvedkommende. I juridisk
-teori heter det om den nå opphevede bestemmelsen i straffeprosessloven, som senere er videreført i politiregisterloven § 23:
-«Av formuleringen ‘plikter å hindre’ fremgår at
-det kreves mer enn at fortrolige opplysninger
-ikke muntlig eller skriftlig formidles til uvedkommende. Det kan bli nødvendig med aktiv
-handling for å hindre spredning, men hvor
-meget som kreves vil avhenge av forholdene,
-bl.a. kravene til den fysiske sikring av lokalene
-hvor publikum ferdes og hvordan dokumenter
-med taushetsbelagte opplysninger behandles
-hvis de fjernes fra arbeidsstedet.»19
-Som et utgangspunkt er bestemmelsene om taushetsplikt klart nok ikke til hinder for digital kommunikasjon, men kan nok etter omstendighetene
-være til hinder for bruk av digitale løsninger med
-lav sikkerhetsstandard.
-6.4.2.3
-
-Utvalgets vurderinger
-
-Utvalget mener behovet for rettslig regulering av
-informasjonssikkerhet og internkontroll ved
-behandling av opplysninger i politiet og påtalemyndigheten er tilstrekkelig ivaretatt i gjeldende
-rett, med de tilpasninger som eventuelt vil følge
-med implementering av EUs nye personvernregler. Det er likevel grunn til å understreke at tilfredsstillende rettslig regulering ikke i seg selv
-medfører tilstrekkelig informasjonssikkerhet. Om
-politiets informasjonssystemer har Datatilsynet
-uttalt følgende:
-«Det er en kjensgjerning at politiets informasjonssystemer vanskelig vil kunne tilfredsstille
-de krav som politiregisterloven oppstiller –
-blant annet med tanke på informasjonssikkerhet. For at politiet skal settes i stand til å etterleve det nye regelverket er det nødvendig både
-å forbedre eksisterende systemer, og å utvikle
-nye.»20
-
-Også reglene om taushetsplikt har en side til
-informasjonssikkerhet. Strafferettspleiens profesjonelle aktører har taushetsplikt etter domstollo15
-
-Schartum og Bygrave (2016) s. 157–158.
-Datatilsynet (2012) s. 15.
-17
-Disiplinærutvalget for Oslo krets, beslutning 15.09.03.
-18
-Forskrift 12. februar 2012 nr. 140 om prøveordning med
-elektronisk kommunikasjon med domstolene § 12.
-
-Kapittel 6
-
-16
-
-19
-20
-
-Om den nå opphevede straffeprosessloven § 61 a i Bjerke,
-Keiserud og Sæther (2011) s. 226.
-Datatilsynet (2012) s. 8.
-
-[Side 162]
-
-160
-
-NOU 2016: 24
-
-Kapittel 6
-
-Ny straffeprosesslov
-
-Nylig har Advokatlovutvalget i utkastet til advokatlov foreslått uttrykkelig regulering både av
-krav til informasjonssikkerhet og forholdet til personopplysningsloven for advokatvirksomhet.21 Av
-utkastet § 30 følger at personopplysningsloven
-skal gjelde for advokatvirksomhet dersom ikke
-annet følger av lov. Bestemmelsen tar sikte på å
-klargjøre de tolkningsspørsmål som i dag er knyttet til personopplysningslovens virkeområde når
-det gjelder advokatvirksomhet.22 Utkastet § 29 om
-informasjonssikkerhet har følgende ordlyd:
-«Advokater og advokatforetak skal sørge for tilfredsstillende informasjonssikkerhet ved å innrette kontorhold, datasystemer og arkiver slik
-at hensynene til klienter og andres krav på fortrolighet, integritet og tilgjengelighet ivaretas.
-Nærmere regler om informasjonssikkerhet
-kan gis ved forskrift.»
-Utvalget legger til grunn at behovet for rettslig
-regulering av informasjonssikkerhet og internkontroll for advokater blir tilstrekkelig ivaretatt
-ved oppfølgningen av Advokatlovutvalgets forslag.
-Dagens regulering av informasjonssikkerhet i
-domstolene er etter utvalgets mening mangelfull,
-eller i det minste unødig uklar, se punkt 6.4.2.2.
-Behovet for konfidensialitet, integritet og tilgjengelighet gjør seg fullt ut gjeldende også for domstolenes bruk av opplysninger, dels av hensyn til
-personvernet, dels av hensyn til forsvarlig og
-betryggende saksbehandling og korrekt saksopplysning.
-Datatilsynet har fremhevet behovet for regulering av informasjonssikkerhet og internkontroll
-ved bruk av elektronisk kommunikasjon, lagring
-av opptak mv. i domstolene og har tatt til orde for
-at personopplysningsloven helt eller delvis bør gis
-anvendelse for behandling av personopplysninger
-etter rettspleielovene.23
-Utvalget mener generelle regler om informasjonssikkerhet som gjelder for andre områder,
-også bør få anvendelse for straffesaksbehandlingen. Hensynet til sammenheng i systemet tilsier
-en sammenfallende regulering for de ulike aktører. Ettersom begrunnelsen for informasjonssikkerhet strekker seg utover hensynet til personvernet, bør reguleringen ikke begrenses til å gjelde
-for «personopplysninger», men gjelde for alle opplysninger domstolene mottar eller utarbeider som
-ledd i sin saksbehandling.
-21
-
-NOU 2015: 3.
-NOU 2015: 3 s. 258, jf. s. 251 flg.
-23
-Datatilsynet (2012) s. 15–16.
-22
-
-Det er hensiktsmessig å la personopplysningsloven §§ 13 og 14 og politiregisterloven §§ 15 og
-16 tjene som inspirasjon for en ny bestemmelse i
-domstolloven. Bestemmelsen må gis en utforming
-som ivaretar hensynet til domstolenes uavhengige
-stilling, herunder tilpasses det særlige forhold det
-er mellom Domstoladministrasjonen og domstolene.
-Utvalget foreslår på denne bakgrunn en ny
-§ 197 b i domstolloven:
-«Domstoladministrasjonen skal gjennom planlagte og systematiske tiltak legge til rette for tilfredsstillende informasjonssikkerhet med hensyn til konfidensialitet, integritet og tilgjengelighet ved behandling av opplysninger i
-domstolene. Dokumentasjon for tiltakene skal
-utarbeides og være tilgjengelig for personene
-nevnt i annet ledd.
-Dommere og andre som utfører tjeneste
-eller arbeid for et dommerkontor, skal innrette
-sin behandling av opplysninger i samsvar med
-tiltakene etter første ledd og slik at tilfredsstillende informasjonssikkerhet ivaretas.
-Kongen kan ved forskrift gi nærmere regler
-om informasjonssikkerhet i domstolene.»
-
-6.4.3
-6.4.3.1
-
-Kommunikasjon med domstolene
-Gjeldende rett
-
-En rekke lovbestemmelser i straffeprosessloven
-og domstolloven forutsetter eller gir regler om
-kommunikasjon mellom domstolene og aktørene.
-Det stilles i ulike sammenhenger krav om at kommunikasjonen skal skje på en bestemt måte, blant
-annet stilles det krav om skriftlighet.
-Kravet til skriftlighet er for enkelte bestemmelser forstått slik at det ikke er tilstrekkelig å
-benytte digitale kommunikasjonskanaler. For
-eksempel innebærer kravet om «skriftlig» fremsettelse av anke etter straffeprosessloven § 312
-første ledd første punktum og § 380 første ledd
-første punktum at det ikke er tilstrekkelig om
-anken sendes per telefaks eller e-post:
-«Det er i rettspraksis lagt til grunn at en anke
-sendt per telefaks eller per e-post ikke er å anse
-som en ‘skriftlig’ anke etter straffeprosessloven § 380, men vil likevel være fristavbrytende såfremt originalen omgående følger
-etter, jf. Rt. 2010 s. 688 og Rt. 2008 s. 55 med
-videre henvisninger. Også i disse tilfellene er
-det imidlertid originalen som utgjør den skriftlige anken.»24
+Loven legger ikke uttrykkelige føringer på om deltakelse skal skje ved lyd- og bildeoverføring eller kun lydoverføring. I forarbeidene er det uttalt at overføring av både lyd og bilde normalt er å foretrekke, men at retten står fritt til å velge lydoverføring dersom det anses tilstrekkelig. Dersom fjernmøte eller fjernavhør gjennomføres med bevisformål – altså ved forklaringer fra parter og vitner – skal det tas hensyn til regelen i 6 kap. 6 § første ledd om at det normalt skal tas lyd- og bilde*opptak* av forklaringen i tingsrätten.[^172] Dette må også ses i sammenheng med at slike opptak normalt vil ligge til grunn for en eventuell ankebehandling, se nærmere i punkt 6.5.4. Bakgrunnen og motivene for bestemmelsen er nærmere omtalt i Prop. 2004/05: 131, på s. 82 flg.
+
+Etter *dansk rett* kan fjernavhør av vitner ved lyd- og bildeoverføring skje når det er «hensigtsmæssigt og forsvarligt», jf. retsplejeloven § 174, stk. 2, 1. pkt.[^173] Fjernavhør uten bilde er underlagt særlige begrensninger, idet retten bare kan beslutte slikt avhør når «det vil være forbundet med uforholdsmæssige vanskeligheder, at forklaringen afgives i retten eller ved anvendelse af telekommunikation med billede, og afgivelse af forklaring ved anvendelse af telekommunikation uden billede findes forsvarlig», jf. § 174, stk. 3, 1. pkt. I forarbeidene er det forutsatt at telefonavhør ikke skal benyttes i straffesaker når det er tale om en forklaring av avgjørende betydning for saken.[^174]
+
+Retsplejeloven § 748 a inneholder regler om siktedes deltakelse i rettsmøter under etterforskingen ved overføring av lyd og bilde:
+
+«Retten kan tillade, at sigtede deltager i et retsmøde ved anvendelse af telekommunikation med billede, hvis sigtedes tilstedeværelse i retten ikke er nødvendig. Skal sigtede afgive forklaring, finder § 192 tilsvarende anvendelse.»
+
+Denne bestemmelsen gjelder direkte for rettsmøter under etterforskingen, herunder rettsmøter som gjelder spørsmål om bruk av tvangsmidler, men ikke for førstegangsfengsling, jf. retsplejeloven 748 a, stk. 1, i.f. Bestemmelsen er gitt tilsvarende anvendelse for rettsmøter under forberedelse til hoved- og ankeforhandling, jf. retsplejeloven §§ 848, stk. 1 og 916, stk. 1, ved ankeforhandling for landsretten etter begrenset anke, jf. retsplejeloven § 917, stk. 2, ved hovedforhandling for højesteret, jf. retsplejeloven § 937, stk. 1 og ved muntlig behandling av kjæremål, jf. retsplejeloven § 972, stk. 2.
+
+Tilståelsespådømmelse, hovedforhandling og ankeforhandling som gjelder bevisbedømmelsen under skyldspørsmålet, kan tillates gjennomført med tiltaltes deltakelse ved lyd- og bildeoverføring når «tiltaltes tilstedeværelse i retten ikke er nødvendig og der alene bliver spørgsmål om bøde eller fængsel indtil 1 år, konfiskation, rettighedsfrakendelse, tvangsbøder eller erstatning», jf. retsplejeloven §§ 831, stk. 8, 854, stk. 1 og 917, stk. 1.
+
+Reglene om fjernmøte er ikke ment å begrense mistenktes rett til å møte fysisk i rettsmøtet. Dersom det ikke er særskilt hjemmel for å gjennomføre rettsmøtet uten mistenkte til stede, kreves mistenktes samtykke til slik gjennomføring.[^175] Retsplejeloven § 748 b gjør unntak fra dette utgangspunktet for rettsmøter om behandling av spørsmål om forlengelse av varetektsfengsling:
+
+«Retten kan bestemme, at en sigtet, der er undergivet varetægtsfængsling eller anden frihedsberøvende foranstaltning efter kapitel 70, deltager i et retsmøde om forlængelse af fristen for varetægtsfængslingen eller foranstaltningen ved anvendelse af telekommunikation med billede, når retten finder det ubetænkeligt henset til formålet med retsmødet og sagens øvrige omstændigheder. Dette gælder ikke for retsmøder, hvor der første gang skal tages stilling til forlængelse af en varetægtsfængsling eller varetægtsfængsling i isolation ud over de frister, som er nævnt i § 768 a, stk. 1 og 2, og § 770 c, stk. 3-5, eller når kæremål behandles mundtligt efter § 767, stk. 4, og § 770 e. Skal sigtede afgive forklaring, finder § 192 tilsvarende anvendelse.
+
+Stk. 2. Deltager sigtede i et retsmøde om fristforlængelse ved anvendelse af telekommunikation med billede, skal forsvareren deltage i retsmødet på samme sted som sigtede, medmindre retten finder det ubetænkeligt, at forsvareren i stedet møder frem i retten eller deltager ved anvendelse af telekommunikation med billede fra et andet sted end sigtede. Deltager sigtede ikke i et retsmøde om fristforlængelse, kan retten tillade, at forsvareren deltager i retsmødet ved anvendelse af telekommunikation med billede, hvis det er forsvarligt.
+
+Stk. 3. Deltager sigtede i et retsmøde om fristforlængelse ved anvendelse af telekommunikation med billede, eller deltager sigtede ikke i et retsmøde om fristforlængelse, kan retten tillade, at anklageren deltager i retsmødet ved anvendelse af telekommunikation med billede, hvis
+
+1.  anklagerens deltagelse ved anvendelse af telekommunikation med billede er forsvarlig og
+
+2.  der i øvrigt foreligger særlige grunde.»[^176]
+
+Når mistenkte deltar ved fjernmøte, skal forsvareren – som det fremgår av den siterte bestemmelsen stk. 2 – som hovedregel delta fra samme sted som mistenkte av hensyn til mistenkte og forsvarerens muligheter til å kommunisere direkte og uhindret, men unntak kan gjøres dersom retten finner det ubetenkelig at forsvareren i stedet møter i retten.[^177] Når mistenkte ikke skal delta i rettsmøtet overhodet, kan forsvareren delta ved lyd- og bildeoverføring såfremt det er forsvarlig, jf. stk. 2 tredje pkt.
+
+Aktors deltakelse gjennom fjernmøte er også særskilt regulert. I forarbeidene er det uttrykt at mistenkte bør ha mulighet til å møte «ikke alene sin dommer, men også sin anklager ansikt til ansikt».[^178] Regelen er derfor at aktor bare kan delta ved lyd- og bildeoverføring når mistenkte ikke deltar i rettsmøtet. I tillegg kreves at slik deltakelse er forsvarlig, og at det foreligger særlige grunner, jf. stk. 3.
+
+1.  *Utvalgets vurderinger*
+
+Utvalget mener hovedregelen bør være som etter gjeldende rett: Den som avhøres, skal møte direkte for retten. Fysisk oppmøte vil understreke alvoret i saken, bidra til å gi saken en høytidelig ramme og gi minst risiko for avbrudd i forhandlingene. Tilstedeværelse fra vitner og sakkyndige må antas å sikre at mistenkte og eventuelle fornærmede opplever behandlingen som fullstendig, og bidrar dermed til forståelse for og tillit til behandlingen.
+
+Utvalget antar videre at fysisk oppmøte best sikrer sakens opplysning. Tilgangen til og kvaliteten på moderne teknologi har gjort betydningen av tilstedeværelse vesentlig mindre enn tidligere. Men tilstedeværelse vil som nevnt understreke alvoret av at det blir gitt en korrekt forklaring, og vil dessuten gi en viss grad av kontroll med at vedkommende ikke blir utsatt for trusler eller press i avhørssituasjonen. Fysisk oppmøte er også å foretrekke dersom en bevegelse eller noe annet skal illustreres ved bruk av kroppen. Det kan også ellers være av en viss betydning at retten observerer kroppsspråk, reaksjoner på spørsmål som blir stilt mv. Av betydning er det også at man ved fysisk oppmøte vil unngå uklarheter som kan oppstå som følge av tekniske feil eller mangler ved overføringen av lyd eller lyd og bilde.
+
+Disse forhold taler også for at partene og øvrige deltakere som hovedregel skal møte direkte for retten. Det er dessuten av prinsipiell betydning at tiltalte gis anledning til å møte sin anklager og sine dommere ansikt til ansikt. Det vil for tiltalte måtte antas å bidra til forståelse og tillit til behandlingen og understreke alvoret i situasjonen. Også hensynet til offentlighet taler for at partene, vitner, sakkyndige og tolker er fysisk til stede. Se nærmere om betydningen av direkte bevisføring i punkt 5.3.4.
+
+For enkelte rettsmøter bør det på bakgrunn av det ovennevnte være et absolutt krav om direkte oppmøte for mistenkte, i den forstand at vedkommende ikke kan delta i rettsmøte ved bruk fjernmøteteknikk. Det bør gjelde for rettsmøter om førstegangsfengsling etter utkastet § 15-15, og for fengslingsforlengelser etter utkastet § 15-16 når det er spørsmål om bruk av isolasjon eller det er gått mer enn tolv uker siden fengsling med mistenktes tilstedeværelse, dersom mistenkte ikke har samtykket til slik deltakelse. Videre bør det gjelde for hovedforhandling, forenklet behandling og for ankeforhandling der retten skal prøve bevisene under skyldspørsmålet, med mindre tiltalte samtykker i deltakelse ved fjernmøte og det er ubetenkelig. Se utkastet § 31-1 annet ledd.
+
+Like klart som at hovedregelen bør være direkte oppmøte for retten, er det at det bør være en viss adgang til å benytte fjernavhør og fjernmøte i straffesaker. Den praktiske betydningen av å kunne benytte fjernavhør er utvilsomt stor og kan gi betydelige fordeler for saksavvikling og ressursbruk.
+
+Bruken av fjernmøte er også praktisk viktig, særlig dersom mistenkte har lang reiseavstand, eller det er ressurskrevende å besørge oppmøte til rettslokalet. Politiet har brukt og bruker i dag betydelige ressurser på å føre siktede i straffesaker til og fra rettsmøter ved behandling av fengslingsforlengelser. For mistenkte gjør bruk av fjernmøte det mulig å benytte forsvarer utenfor nærområdet, noe som styrker realiteten i retten til fritt forsvarervalg.
+
+Erfaringer opparbeidet gjennom flere år viser at bruken av fjernavhør og fjernmøte fungerer godt, og det er derfor etter utvalgets syn et rimelig utgangspunkt at fjernavhør og fjernmøte ut over tilfellene redegjort for ovenfor, skal kunne benyttes når det er hensiktsmessig og forsvarlig.
+
+Utvalget mener loven bør inneholde en standard som åpner for slik gjennomføring av saken. Det bør tas i betraktning hvilken mulighet det er for direkte avhør, sakens karakter, opplysningenes betydning, under hvilke forhold forklaringen avgis mv. Av stor betydning vil det være om deltakelse skjer gjennom overføring av både lyd og bilde eller kun lyd, og hvilken kvalitet overføringen vil ha. Det bør ikke kreves at partene samtykker til gjennomføringsformen, men partenes syn på spørsmålet bør som regel tillegges stor vekt.
+
+Utvalget antar at vurderingene det er gitt uttrykk for ovenfor, i hovedsak gjør seg gjeldende på samme måte for behandling etter tvisteloven, se tvisteloven §§ 13-1 og 21-10. Dette, sammenholdt med at reglene om fjernavhør og fjernmøte er nær knyttet til øvrige regler om gjennomføringen av rettsmøter, taler for felles regulering i domstolloven.
+
+Utvalget foreslår på denne bakgrunn en ny § 122 a i domstolloven:
+
+«Parter, vitner, sakkyndige og andre kan ta del i rettsmøter eller avgi forklaring for retten ved bruk av fjernmøteteknikk når ikke annet er bestemt, og retten finner det hensiktsmessig og forsvarlig. Ved vurderingen skal det særlig legges vekt på betydningen av tilstedeværelse for sakens opplysning, om tilstedeværelse er uforholdsmessig kostnadskrevende eller byrdefullt i lys av sakens karakter og formålet med rettsmøtet, om gjennomføringen skjer ved overføring av lyd og bilde, eller kun lyd, om vedkommende befinner seg på et sted underlagt offentlige myndigheters kontroll, og partenes syn.
+
+Før retten treffer beslutning etter første ledd, skal partene og andre berørte gis anledning til å uttale seg.
+
+Kongen kan ved forskrift gi nærmere regler om bruk av fjernmøteteknikk etter denne bestemmelsen.»
+
+1.  **Lyd- og bildeopptak**
+
+    1.  **Oversikt**
+
+Bruk av lyd- og bildeopptak i straffesaker har vært drøftet i mange sammenhenger de senere år. En problemstilling har vært i hvilken utstrekning det bør gjøres opptak, og dette drøftes nærmere nedenfor. Først drøftes spørsmålet om hvorvidt det bør gjøres lyd- og bildeopptak av politiavhør i punkt 6.5.2, før spørsmålet drøftes for rettsmøter i punkt 6.5.3. Et annet spørsmål er i hvilken grad slike opptak skal kunne benyttes som bevis under hoved- og ankeforhandling. Dette drøftes i punkt 6.5.4.
+
+1.  **Lyd- og bildeopptak av politiavhør**
+
+    1.  *Gjeldende rett*
+
+Lyd- og bildeopptak av politiforklaringer benyttes i relativt stor utstrekning med hjemmel i straffeprosessloven § 230 siste ledd:
+
+«Etter nærmere regler som Kongen gir, kan forklaringer opptas stenografisk eller ved mekaniske midler. Reglene fastsetter i hvilken utstrekning slik gjengivelse kan tre i stedet for innføring i rapporten.»
+
+Adgangen til opptak er nærmere regulert i påtaleinstruksen § 8-16 første ledd, som fastslår at «\[v\]ed politiavhør av mistenkt eller vitne kan lydopptak foretas når det finnes hensiktsmessig». Samme sted er det regler om plikt til underretning, utarbeidelse av rapport, innsynsrett, oppbevaring av opptak mv.
+
+Selv om det ikke er gitt uttrykkelig hjemmel for bruk av lyd- og bildeopptak, brukes dette i praksis i utstrakt grad på samme måte som lydopptak etter påtaleinstruksen § 8-16. Den som avhøres, må underrettes om opptaket på forhånd. Det at det gjøres opptak, fritar ikke for at det også skrives rapport på vanlig måte, og i rapporten skal det fremgå om det er gjort opptak. Etter omstendighetene kan utskrift av opptaket tre i stedet for nedtegning av forklaringen i rapporten. Opptaket oppbevares av politiet til saken er endelig avgjort. Skrives opptaket ut, inngår også utskriften i sakens dokumenter.[^179]
+
+Riksadvokaten ga i skriv 16. oktober 2009 generelle retningslinjer for lyd- og bildeopptak av politiforklaringer, som senere er utvidet i rundskriv 11. mai 2016.[^180] Lydopptak skal så vidt mulig benyttes ved alle avhør. Lyd- og bildeopptak skal så vidt mulig tas ved avhør av fornærmede, mistenkte og siktede i sedelighetssaker, alvorlige voldssaker og familievoldssaker. Videre skal det gjøres opptak ved avhør av «sårbare personer» og av vitner som avhøres med tolk (herunder døvetolk). Særlig sårbare personer er typisk personer som er under 16 år, psykisk utviklingshemmede og personer med psykiske forstyrrelser. Reservasjonen «så vidt mulig» tar sikte på situasjoner hvor det av tekniske grunner er umulig eller svært vanskelig å gjøre opptak, eller den som avhøres nekter å gi forklaring hvis det gjøres opptak. Det skal begrunnes dersom det ikke gjøres opptak.
+
+Ved lov 4. september 2015 nr. 87 ble det gitt nye regler om avhør av barn og andre særlig sårbare fornærmede og vitner, til erstatning for tidligere § 239 om dommeravhør. Reglene innebærer at politiet i visse sakstyper kan ta avhør av barn og andre sårbare personer, og at avspilling av opptak av forklaringen kan tre i stedet for direkte avhør under domstolsbehandlingen. Regler om opptak er gitt i § 239 a tredje ledd, som bestemmer at «\[t\]ilrettelagte avhør skal tas opp på video. Dersom det av hensyn til vitnet ikke lar seg gjøre å ta videoopptak av avhøret, skal det tas lydopptak».
+
+1.  *Utvalgets vurderinger*
+
+Forklaringer fra mistenkte og vitner er sentrale bevis i straffesaker og vil ofte utgjøre en vesentlig del av grunnlaget for beslutninger under etterforskingen og for avgjørelsen av spørsmålet om påtale. Politiforklaringer kan også ha stor betydning under hoved- og ankeforhandling. Selv om tiltalte og vitner som hovedregel skal forklare seg direkte for den dømmende rett, benyttes opplesning av tidligere forklaringer i stor utstrekning til foreholdelse og når vitnet ikke møter. Det er grunn til å tro at dette fremmer hensynet til sannhetssøken, ettersom forklaringene er tidsnære bevis. Også for spørsmål om gjenåpning og erstatning etter straffeforfølgning kan sikrede politiforklaringer ha stor betydning.
+
+I dag er den praktiske hovedregel at forklaringer sikres ved manuell nedtegnelse. Dette skjer ved at etterforskeren som foretar avhøret, skriver ned et sammendrag av forklaringen i en politirapport, som så leses opp til vedtakelse, eventuelt gjennomleses, og deretter underskrives av den som er avhørt. Utvalgets erfaring er at politiets rapporter i alminnelighet er av god kvalitet, men at det forekommer språklige unøyaktigheter, feilsiteringer og andre svakheter. Videre forekommer det at rapportskriveren har utelatt opplysninger som på avhørstidspunktet ikke ble ansett for å være av betydning, men som senere viser seg å være det. Viktige nyanser og detaljer kan altså gå tapt ved nedtegningen. I tillegg til å svekke beviskvaliteten i den enkelte sak, har slike forhold betydning for oppfatningen av politiavhør mer generelt.
+
+Lyd- og bildeopptak av politiforklaringer bør etter utvalgets syn benyttes som supplement til nedtegning. Bruk av opptak har den fordel at forklaringen sikres i sin helhet, noe som åpner for at kontekstuelle forhold kan bli klargjort, herunder i hvilken sammenheng uttalelser er fremkommet, og avhørssituasjonen som sådan.[^181] En viktig side av dette er muligheten til å oppklare eventuelle misforståelser. Dette er av særlig stor betydning når det benyttes tolk under avhøret. Dertil kommer at man ved bildeopptak kan få med kroppsspråk, mimikk, illustrasjoner med bruk av kroppen mv., som også etter omstendighetene kan kaste lys over forklaringen.
+
+Opptak gir dessuten en mulighet til å føre kontroll med om det har funnet sted press eller annen utilbørlig eller irregulær opptreden fra politiets side under avhør. Mulighetene for slik etterprøving og kontroll må antas å kunne bidra til å styrke tilliten til politiet.
+
+Det er videre grunn til å tro at opptak vil motvirke at tiltalte og vitner uten saklig grunnlag, enten senere under etterforskingen eller under domstolsbehandlingen, fraviker forklaringen.[^182] Dette er av betydning for bevissituasjonen og bidrar til effektivitet ved at man unngår unødig dokumentasjon av tidligere forklaringer.
+
+Bruk av opptak vil også lette gjennomføringen av politiavhøret. Den som foretar avhøret, kan konsentrere seg fullt ut om det som blir sagt, fremfor samtidig å føre protokollat. Oppmerksomheten vil da rettes fullt og helt mot den som avgir forklaring, uten at avhøret må stanse opp for at det som blir sagt, skal skrives ned. Dette vil kunne oppleves mer hensynsfullt for den som avhøres.
+
+Som for alle opplysninger er det en viss risiko for spredning av lyd- og bildeopptak til utenforstående, og det kan nok oppleves mer belastende og invaderende dersom opptaket blir kjent for uvedkommende enn hvis et nedtegnet avhør kommer på avveie. Utvalget anser denne risikoen for å være liten, og den bør uansett ikke være til hinder for en fremgangsmåte som allerede er i full bruk i de mest alvorlige straffesakene, se punkt 6.5.2.1. Utvalget tviler videre på at eventuell spredningsfare vil føre til at mistenkte, fornærmede eller vitner kvier seg for å bli avhørt.
+
+Om utstrakt bruk av opptak samlet sett vil virke effektiviserende for etterforskingen og den videre behandlingen, er etter utvalgets syn usikkert. Antakelig vil ikke opptaket alene være tilstrekkelig for den videre saksbehandlingen, slik at det i alle tilfeller må utarbeides et skriftlig sammendrag av forklaringen, og ettersom det skal inngå som en del av sakens opplysninger, bør det også gjennomleses av den som er avhørt, som også bør gis anledning til å komme med rettelser og merknader, se utkastet § 10-8 annet ledd annet punktum. Når det foreligger opptak, kan imidlertid sammendraget gjøres mer konsentrert uten risiko for tap av informasjon, og det vil antakelig bli enklere å sammenfatte avhøret i en strukturert, oversiktlig og enkelt lesbar form.
+
+Utvalget mener de rettssikkerhetsmessige fordelene ved at det gjøres lyd- og bildeopptak av politiforklaringer, er åpenbare. Praktiske erfaringer med opptak er i det alt vesentlige gode.[^183] Lyd- og bildeopptak av politiforklaringer bør derfor være hovedregelen i ny straffeprosesslov. Samtidig bør det gjelde visse unntak, dels for tilfeller der opptak av ulike grunner ikke kan skje, eventuelt bare kan skje ved lydopptak, dels for situasjoner der sakens art eller forklaringens betydning gjør opptak unødvendig.
+
+På denne bakgrunn er det i utkastet § 10-8 første ledd gitt et betinget pålegg til politiet om å ta opp forklaringer med lyd og bilde:
+
+«Politiforklaringer skal sikres med lyd- og bildeopptak, med mindre det etter sakens art eller forklaringens betydning er unødvendig.»
+
+1.  **Opptak under rettsmøter**
+
+    1.  *Gjeldende rett*
+
+Utenfor hovedforhandling skal forklaringer som parter, vitner eller sakkyndige gir i rettsmøte, føres inn i rettsboken og leses opp til vedtakelse, jf. straffeprosessloven § 20. Det følger av bestemmelsen at tilståelser og andre særdeles viktige uttalelser så vidt mulig bør gjengis med den avhørtes egne ord. Uvedkommende opplysninger eller betydningsløse enkeltheter utelates. I saksforberedende rettsmøte bestemmer retten i hvilken utstrekning forklaringer skal protokolleres.
+
+Straffeprosessloven § 21 fastslår at retten under hovedforhandling på nærmere vilkår kan beslutte at forklaringer som blir gitt av parter, vitner eller sakkyndige, skal føres inn i rettsboken etter reglene i § 20. Dette gjelder når retten antar at avhør i tilfelle av ankeforhandling ikke vil kunne foretas eller vil måtte foregå ved bevisopptak utenfor hovedforhandling, når forklaringen på vesentlige punkter avviker fra vedkommendes tidligere forklaring i rettsmøte eller for politiet, eller når ellers særlige grunner gjør det ønskelig. Har en som er avhørt, ikke hatt noe å forklare om saken, bør dette nevnes.
+
+Forklaringer avgitt under hovedforhandling protokolleres sjelden, og normalt kun etter begjæring fra partene når det antas å være behov for forklaringen utenfor saken eller ved eventuell overprøving. Det fremgår særskilt av straffeprosessloven § 22 at når det er grunn til å tro at en uttalelse vil kunne medføre straffansvar for falsk forklaring eller anklage, bør den føres inn i rettsboken fullstendig og så vidt mulig med vedkommendes egne ord. Slike nedtegnelser forekommer nokså sjelden.
+
+Straffeprosessloven § 23 hjemler adgang til å gi forskrifter om opptak av rettsforhandlinger:
+
+«Etter nærmere regler som Kongen gir, kan forklaringer og andre deler av forhandlingene tas opp stenografisk eller ved mekaniske midler. Reglene fastsetter i hvilken utstrekning slik gjengivelse kan tre i stedet for innføring i rettsboka.»
+
+Bestemmelsen er fra en tid da man nok i første rekke tenkte på opptak av lyd, og forskriften som er gitt i medhold av paragrafen, omhandler uttrykkelig bare lydopptak, se nedenfor. Det er i juridisk teori lagt til grunn at bestemmelsen må forstås som teknologinøytral, slik at den også hjemler digitale opptak. Videre er det i teori og praksis lagt til grunn at den også gir hjemmel for opptak med både lyd og bilde.[^184]
+
+Nærmere regler er gitt ved forskrift 15. november 1985 nr. 1911 om lydopptak ved rettens behandling av en straffesak. Under hoved- og ankeforhandling kan lydopptak foretas når retten finner grunn til det, jf. § 6. Ved rettslig avhør utenfor hovedforhandling kan lydopptak av forklaring foretas når det finnes hensiktsmessig, jf. § 1.
+
+Når det tas lydopptak, skal den som avhøres, underrettes på forhånd, jf. § 2 første ledd. Opptaket oppbevares av retten frem til seks måneder etter at saken er endelig avgjort. Deretter kan opptaket tilintetgjøres om ikke noen av partene har begjært videre oppbevaring, jf. § 3 tredje ledd.
+
+Når det er tatt lydopptak av et avhør, kan retten bestemme at utskrift av opptaket skal tre i stedet for innførsel i rettsboken, men opptaket skal i så fall skrives ut, gjennomleses og bekreftes av dommeren og vedlegges rettsboken, jf. § 4 første ledd.
+
+I sivile saker er hovedregelen at det skal tas opptak av parts- og vitneforklaringer under hovedforhandling, jf. tvisteloven § 13-7 første ledd. Etter annet ledd bokstav b kan imidlertid opptak unnlates dersom retten ikke har tilgjengelig nødvendig utstyr for opptak. Ettersom de færreste rettssaler er oppsatt med nødvendig teknisk utstyr, skjer opptak i liten utstrekning i praksis.
+
+1.  *Tidligere utredninger og forslag mv.*
+
+Spørsmålet om hvorvidt lydopptak, eventuelt lyd- og bildeopptak, bør være obligatorisk under rettens behandling av straffesaker, er behandlet en rekke ganger tidligere i ulike utredninger og rapporter.
+
+Straffeprosesslovkomitéen tok til orde for bruk av lydopptak, og departementet ga prinsipiell tilslutning.[^185] To-instansutvalget la til grunn at flere forhold talte for lydopptak av forklaringer i første instans, men anbefalte i stedet en ordning med omfattende protokollasjon.[^186]
+
+En prøveordning med lydopptak i straffesaker ble gjennomført i enkelte domstoler i perioden 1997–2001. I evalueringsrapporten konkluderes det med at lydopptak burde innføres som en permanent ordning i straffesaker.[^187]
+
+Utvidet bruk av opptak er også anbefalt i NOU 1996: 15 (Liland-utvalget), NOU 2006: 10 (Fornærmedeutvalget) og NOU 2007: 7 (Fritz Moen-utvalget), samt i flere rapporter fra ulike arbeidsgrupper nedsatt av Justisdepartementet og Domstoladministrasjonen.[^188]
+
+Tvistemålsutvalgets uttalte i tilknytning til sitt forslag om å innføre lyd- og bildeopptak i sivile saker at det fant det «nærliggende at en tilsvarende \[…\] reform gjennomføres for straffesaker».[^189]
+
+I Prop. 141 L (2009–2010) *Endringer i straffeprosessloven mv.* fremgår det at de fleste høringsinstansene som uttalte seg om spørsmålet, gikk inn for bruk av opptak i straffesaker, og departementet uttalte følgende:
+
+«Etter departementets syn taler rettssikkerhetsgrunner for at forklaringer avgitt under hovedforhandlingen i straffesaker bør sikres for ettertiden. Opptak av lyd, eventuelt sammen med bilde, gjør det mulig med konfrontasjon dersom forklaringen i ankeinstansen avviker fra det som er forklart tidligere. Opptak vil også kunne være viktig ved spørsmål om gjenåpning av en straffesak. Opptak vil kunne lette domsskrivingen, og kan tenkes å være til hjelp for ankedomstolen ved silingsavgjørelser. Enn videre kan misforståelser som følge av språk- eller kulturforskjeller avdekkes. \[…\] Departementet mener gode grunner taler for at det bør tas opptak av forklaringer i straffesaker, og vil arbeide videre med spørsmålet.»[^190]
+
+En mer utførlig redegjørelse for overveielsene og forslagene i nevnte utredninger er gitt i Juryutvalgets utredning NOU 2011: 13.[^191] Det lå utenfor Juryutvalgets mandat å ta stilling til om det burde gjøres opptak.
+
+1.  *Utvalgets vurderinger*
+
+Den faglige tilrådningen i offentlige utredninger og arbeidsgrupperapporter har gjennom flere tiår vært at det i større utstrekning enn i dag bør sikres dokumentasjon av innholdet i rettslige forklaringer. I sivile saker er hovedregelen at det skal tas opptak av parts- og vitneforklaringer under hovedforhandling. Argumentene for lyd- og bildeopptak er knyttet til de grunnleggende hensynene til rettssikkerhet, effektivitet og tillit til straffesaksbehandlingen, se nærmere utredningene redegjort for i punkt 6.5.3.2 og fremstillingen i punkt 6.5.4 nedenfor.
+
+Utvalget mener at dokumentasjon av forhandlingene er verdifullt og bør sikres. For det første får man da helt sikker informasjon om hva som er forklart, noe som på ulikt vis vil styrke hensynet til saksopplysning og effektivitet. Av særlig betydning er at slike opptak kan benyttes når det skal tas stilling til om en anke skal fremmes, og at opptakene gir mulighet for gjenbruk av opplysningene ved en eventuell ankebehandling. Betydningen av dette drøftes nærmere i punkt 6.5.4.5. Det vil videre ligge en besparelse i at man ikke alltid vil måtte gjennomføre en fullstendig ny hovedforhandling dersom det er begått en saksbehandlingsfeil som leder til opphevelse av dommen, men som ikke hefter ved eller kan ha påvirket bevisførselen. Endelig nevnes at opptak av forhandlingene dersom de arkiveres også etter rettskraftig dom, vil være verdifullt for en eventuell sak om gjenåpning.
+
+Selv om det for enkelte formål kan være tilstrekkelig at det gjøres lydopptak, slik ordningen er i Danmark, se punkt 6.5.4.3, mener utvalget at dokumentasjonen bør skje i form av lyd- og bildeopptak av rettsmøter i straffesaker, fordi det i enkelte tilfeller er behov for visuell dokumentasjon. Særlig gjelder dette for bruk under ankeforhandling. Dersom opptaksutstyr er på plass, bør utgangspunktet være at det som hovedregel også benyttes. Erfaringene fra Sverige er at det ikke byr på vesentlige utfordringer for domstolen å legge til rette for lyd- og bildeopptak, men at det i større saker vil kunne innebære at dommeren bør gis bistand, se punkt 6.5.4.2. Foruten spørsmål om økonomiske og administrative forhold som behandles i kapittel 28.3.4.2, er utvalgets syn at spørsmålet ikke trenger ytterligere utredning.[^192]
+
+På denne bakgrunn foreslås en ny § 134 b i domstolloven:
+
+«Det skal tas opptak med lyd og bilde av forhandlingene i rettsmøter. Opptak kan unnlates
+
+a\) utenfor hoved- og ankeforhandling,
+
+b\) under befaring, og
+
+c\) når det er umulig eller i vesentlig grad vanskeliggjort på grunn av teknisk svikt eller andre ekstraordinære forhold.
+
+Den som skal forklare seg, skal varsles om at forklaringen blir tatt opp.
+
+Opptak inngår som en del av rettsboken.
+
+Kongen kan ved forskrift gi nærmere regler om opptak etter denne bestemmelsen.»
+
+1.  **Særlig om bruk av lyd- og bildeopptak under hoved- og ankeforhandling**
+
+    1.  *Gjeldende rett*
+
+Hovedregelen etter straffeprosessloven er at bevisføringen under hoved- og ankeforhandling skal skje direkte for den dømmende rett, jf. redegjørelsen for bevisumiddelbarhetsprinsippet i punkt 5.3.4. Dette innebærer at tiltalte, vitner og sakkyndige som hovedregel skal møte og forklare seg i rettsmøte, jf. §§ 290 og 296.
+
+Det gjelder unntak fra hovedregelen om umiddelbar og muntlig vitneførsel, blant annet ved at forklaringer som tidligere er avgitt i saken kan avspilles for den dømmende rett. For opptak av tilrettelagt avhør etter §§ 239 flg. er utgangspunktet at opptakene skal spilles av og tre i stedet for vitnets direkte forklaring for retten, jf. § 298 første ledd. Mistenktes rett til kontradiksjon kan imidlertid begrense adgangen til slik middelbar bevisføring.
+
+Ellers kan opptak av forklaringer avspilles etter § 300:
+
+«Lydopptak av en forklaring som tidligere er avgitt i saken, kan også utenfor de tilfeller som er nevnt i § 298, tillates brukt som bevis dersom vilkårene for opplesing foreligger etter §§ 290, 296, 297 eller 299 eller retten for øvrig finner grunn til det. Dette gjelder også utskrift av slikt opptak.»
+
+Bestemmelsen gjelder for opptak både av politiforklaringer og rettslige forklaringer – av så vel tiltalte, vitner og sakkyndige – og kan gis tilsvarende anvendelse på lyd- og bildeopptak.[^193]
+
+Avspilling kan skje når det ville vært adgang til opplesning, samt når retten «for øvrig finner grunn til det». Selv om ordlyden kan tilsi at retten står fritt til å beslutte avspilling i stedet for personlig avhør, må bestemmelsen forstås i sammenheng med lovens alminnelige regler om bevisføring og anvendes i lys av det alminnelige krav til forsvarlig saksbehandling, herunder sikring av retten til kontradiksjon.[^194]
+
+Lovens klare forutsetning er at forklaringer som antas å være av betydning for saken, skal avgis direkte for den dømmende rett, med mindre særegne forhold er til hinder for det, jf. § 296 første ledd. Retten kan dermed for eksempel ikke la være å innkalle et vitne for i stedet å avspille opptak av politiforklaring eller rettslig forklaring som vedkommende tidligere har avgitt i saken.[^195]
+
+For bevisføringen under ankeforhandling for lagmannsrett er det gjort særlige unntak fra prinsippet om bevisumiddelbarhet, jf. straffeprosessloven §§ 330 og 331 siste ledd. Ved begrenset anke «avgjør retten hvilken bevisførsel som må anses nødvendig», jf. § 330 første punktum. Bestemmelsen omfatter også forholdet mellom umiddelbar og middelbar bevisføring og tillater middelbar bevisføring selv om beviset kan føres umiddelbart.[^196] Bestemmelsen må antas å åpne for avspilling av opptak av forklaring avgitt i tingretten.
+
+Ved fullstendig anke gjelder det en særlig adgang til opplesning av protokollat av forklaringer som vitner og sakkyndige har avgitt i tingretten, jf. § 331 siste ledd:
+
+«Det som er gjengitt i rettsboken av forklaringer avgitt av vitner eller sakkyndige for tingretten, kan foruten i de tilfelle som er nevnt i §§ 296 og 297, leses opp såfremt ingen av partene har begjært ny avhøring.»
+
+Bestemmelsen ble foreslått av To-instansutvalget og hadde sammenheng med utvalgets forslag om en omfattende ordning med protokollering av forklaringer under hovedforhandlingen. Forslaget om protokollering ble imidlertid ikke vedtatt, og i stedet fikk man § 21 første ledd, hvoretter nedtegnelse av forklaringer bare skal skje i visse bestemte tilfeller. I praksis skjer protokollering i begrenset utstrekning, og bestemmelsen i § 331 siste ledd har derfor liten praktisk betydning.[^197]
+
+Ettersom avspilling av et lyd- og bildeopptak vil gi en vesentlig bedre gjengivelse enn et protokollat, er det grunn til å anta at bestemmelsen i § 331 siste ledd kan anvendes tilsvarende på eventuelle opptak av forklaringer fra tingretten. I så fall er adgangen til avspilling – der ingen av partene har begjært nytt avhør – noe videre for lagmannsretten etter § 331 siste ledd enn det som for øvrig gjelder etter § 300.
+
+1.  *Svensk rett*
+
+Den svenske rettergangsordningen ble vesentlig endret ved reformen *En modernare rättegång* (EMR), som trådte i kraft 1. november 2008.[^198]
+
+Et vesentlig element i reformen var bedre utnyttelse av moderne teknologi, og etter de nye reglene er lyd- og bildeopptak av alle avhør i tingsrätten i utgangspunktet obligatorisk, jf. rättegångsbalken 6 kap. 6 § første ledd første punktum.
+
+I ankeforhandlingene for hovrätten skal muntlig bevisførsel som hovedregel dokumenteres ved avspilling av videoopptak av forklaringer i tingsrätten, jf. rättegångsbalken 35 kap. 13 § annet ledd annet punktum. Det gjelder også tiltaltes forklaring.
+
+Begrunnelsen for endringen om å begrense umiddelbar bevisføring til førsteinstansbehandlingen var i hovedsak at vitner og fornærmede skal slippe å forklare seg på ny, ankedomstolens overprøvende funksjon og effektivitetshensyn. Det ble også antatt at ordningen vil ivareta hensynet til saksopplysning bedre enn ved direkte bevisføring for hovrätten:
+
+«Minnet hos vittnen och andra som skall höras kan ha försvagats efter förhöret i tingsrätten. Dessutom finns en risk för att vittnet vid förhöret i hovrätten mer strävar efter att minnas vad han eller hon sagt vid tingsrättsförhöret än vad som verkligen inträffat. Till detta kommer risken för att vittnen och andra som hörts har utsatts för påtryckningar efter förhöret i tingsrätten.
+
+Intresset av att hovrätten skall ha bästa möjliga underlag för sitt avgörande kan alltså inte anses innebära att ett omförhör mer allmänt skulle vara att föredra. Ett vittnesmål i tingsrätten, som lämnas i närmare anslutning till den aktuella händelsen än berättelsen i hovrätten, ger i många fall ett bättre uttryck för vittnets verkliga iakttagelser och därmed ett bättre underlag för hovrättens avgörande än ett omförhör.»[^199]
+
+Vilkåret for nytt avhør av tiltalte og vitner i ankeinstansen er som det fremkommer i det siterte, at «ytterligare frågor behöver ställas», jf. rättegångsbalken 35 kap. 13 § annet ledd annet punktum. Regelen skal anvendes innenfor de rammer som ellers gjelder med hensyn til rettens ansvar for sakens opplysning.[^200] Retten foretar en selvstendig prøving av behovet, og det er således ikke påkrevd med nytt avhør fordi det kreves av en part.[^201] Retten kan på den annen side beslutte nytt avhør av eget tiltak, jf. 13 § annet ledd tredje punktum.
+
+Dersom det skal gis ytterligere forklaring for hovrätten, er hovedregelen at opptaket fra første instans avspilles først, jf. rättegångsbalken 36 kap. 16 § annet ledd siste punktum. Det hører under rettens skjønn å avgjøre om den som skal avgi forklaring, skal være til stede under avspillingen.[^202]
+
+Reguleringen innebærer at det som hovedregel kun er aktor, tiltalte og forsvarer som møter til ankeforhandling i hovrätten. Det er heller ikke uvanlig at aktor tar del i forhandlingene gjennom fjernmøte, jf. rättegångsbalken 5 kap. 10 § annet ledd.
+
+Opptakene lagres i tre måneder etter rettskraftig dom og oppbevares dermed ikke med tanke på eventuell begjæring om gjenåpning mv.
+
+Straffeprosessutvalget besøkte Svea hovrätt 22. april 2015.[^203] Utvalget overvar rettsforhandlingene i to straffesaker som ble gjennomført med bruk av lyd- og bildeopptak av forklaringer fra tingsrätten. Utvalget fikk også en presentasjon av de tekniske løsningene som benyttes under rettsmøtene, blant annet for avspilling av lyd- og bildeopptak, fjernmøteteknikk mv.
+
+I de sakene utvalget overvar, opplevdes avspillingsprosessen på ingen måte forstyrrende, og den virket heller ikke negativt inn på beviskonsentrasjonen. I tingsrätten, som gjør opptakene, er det alltid en protokollfører som håndterer teknikken. I hövrätten tar dommerne seg av avspillingene selv, med mindre det benyttes særskilt protokollfører, som i så fall står for dette. Det anses i praksis som uproblematisk at dommerne må styre det tekniske selv i hövrätten, ettersom datasystemet er brukervennlig og lett å lære.
+
+Utvalget møtte hovrättspresident Fredrik Wersäll og andre dommere og representanter fra domstolen. Representantene redegjorde inngående for erfaringene etter EMR-reformen, som de mente var vellykket. Som argumenter for ordningen ble det særlig fremhevet fire grunner. For det første at prosessen er mer hensynsfull for fornærmede og vitner siden de vanligvis bare behøver å møte for retten og forklare seg én gang. For det andre at forklaringene blir mer tidsnære ettersom hovedforhandlingen i tingsrätten finner sted kortere tid etter handlingen enn ankebehandlingen i hovrätten. For det tredje at ordningen legger til rette for at ankebehandlingen blir en overprøving av tingsrättens dom og ikke en omprøving av hele saken, idet hovrätten i utgangspunktet har samme grunnlag for sin bevisbedømmelse som tingsrätten. Og for det fjerde at ordningen motvirker at behandlingen i tingsrätten bare blir en generalprøve før neste runde i hovrätten.
+
+Utvalget fikk videre opplyst at gjennomføringen av EMR-reformen medførte betydelig debatt, og at mange var kritiske til den relativt snevre adgangen til å føre nye bevis for ankedomstolen. I begynnelsen var domstolene også restriktive med å tillate slik bevisføring, men det har senere etablert seg en nokså vid adgang for ny bevisføring når partene begjærer det. I praksis har det vist seg at partene og retten sjelden finner behov for nye avhør, noe som antas å ha sammenheng med at opptakene fra tingsrätten som hovedregel avspilles før en eventuell supplerende forklaring.
+
+I debatten under reformarbeidet kom det frem at mange var urolige for at vitner og andre skulle oppleve det som belastende å bli filmet. Det var også uro for at opptakene skulle komme på avveie. Etter det opplyste skal det imidlertid ikke ha vært problemer eller debatt knyttet til disse spørsmålene etter at reformen ble iverksatt.
+
+Forut for reformen mente enkelte at det ville bli kjedelig for dommerne i ankedomstolene å se forklaringer på video med begrenset mulighet for oppfølging. Det var også frykt for at dette kunne føre til en lavere interesse for dommerstillinger i hovrätten. Representantene fra Svea hovrätt opplyste imidlertid at de opplevde dommergjerningen som like meningsfull som tidligere, og at søkermassen er uforandret.
+
+Ordningen har også medført betydelige ressursbesparelser knyttet til administrativt arbeid, særlig fordi det blir langt færre utsettelser, omberammelser og andre praktiske utfordringer. Det at de profesjonelle aktørene får se seg selv på opptakene, virker dessuten disiplinerende og har bidratt til å øke kvaliteten på avhørene i tingsrätten. Det ble også gitt uttrykk for at opptakene har bedret mulighetene for å veilede dommerne i tingsrätten om hvordan saker best kan administreres.
+
+Teknikken fungerer etter det opplyste godt. Domstolene er sårbare for «nedetid», men dette forekommer sjelden, og avbruddene som har oppstått, har hatt kort varighet. Det er videre behov for teknisk kyndig personell i domstolene som kan administrere det tekniske utstyret, særlig i første instans, der opptakene gjøres.
+
+Det ble også opplyst at antallet saker der ankedomstolen gjør endringer i tingsrättens bevisvurdering, har økt etter gjennomføringen av EMR-reformen.
+
+1.  *Dansk rett*
+
+I dansk rett er hovedregelen at vitner avgir forklaring direkte for den dømmende rett ved personlig fremmøte. Retsplejeloven § 872 fastslår at bevisopptak med lyd og bilde og slikt opptak fra tilrettelagte avhør av barn og personer med psykiske avvikstilstander, kan avspilles under hovedforhandlingen.[^204]
+
+Retten kan etter en konkret vurdering beslutte at det skal gjennomføres lyd- eller bildeopptak av forklaringer avgitt under hovedforhandling, jf. retsplejeloven § 186, stk. 3.[^205] Ved bevisopptak utenfor hovedforhandling skal det så vidt mulig tas opptak med bilde.
+
+Lyd- og bildeopptak krever ikke samtykke. Det følger av retsplejeloven § 186, stk. 4 at partenes adgang til å gjennomgå lyd- og bildeopptak er begrenset til tilfeller der vedkommende ikke hadde adgang til å overvære vitneforklaringen. Gjennomgang av materialet kan skje hos retten, partens advokat eller forsvarer. Det gis ellers ikke innsyn i opptakene, og det er straffbelagt å videreformidle slike, jf. retsplejeloven § 186, stk. 5.
+
+Sammenlignet med norsk rett, har dansk rett en omfattende protokolleringsordning.[^206] For straffesaker følger det av retsplejeloven § 710, stk. 1 at «\[d\]et væsentlige indhold af forklaringer, der afgives for en ret, optages i retsbogen…». Er det tatt lyd- og bildeopptak av forklaringen, skal protokollering bare skje dersom rettens leder bestemmer det, partene anmoder om det, ved anke eller dersom det begjæres innsyn i rettsboken, se nærmere retsplejeloven § 712, stk. 2.
+
+Spørsmålet om hvorvidt det bør tas lyd- og bildeopptak av forklaringer under hovedforhandling, var et tema for den danske sivilrettslige innholdsreformen i 2006.[^207] Det ble ikke ansett å være behov for en hovedregel om opptak av forklaringer, under henvisning til at opptakene i de langt fleste tilfellene ikke ville bli brukt, og at materialet ville være vanskelig håndterbart.[^208]
+
+Fra 1. juli 2010 har utgangspunktet i dansk rett vært at det i straffesaker tas lydopptak av forklaringer under hovedforhandlingen i første instans og i tilståelsessaker, jf. retsplejeloven § 711, stk. 1.[^209] Etter stk. 4 kan rettsformannen beslutte at det også skal tas bildeopptak.[^210] Opptaksordningen er ment å være fleksibel, men det er ikke meningen å svekke prinsippet om direkte bevisføring.[^211] Kriteriene for avspilling av opptak følger de alminnelige reglene om bevis, og det følger av dette at dokumentasjon av tidligere forklaringer kan skje der ingen av partene ønsker at det avgis ny forklaring og innenfor rammene for adgangen til opplesning etter retsplejeloven § 871, stk. 2, jf. § 923.
+
+Ordningen har sin bakgrunn i at Strafferetsplejeudvalget var bedt om å vurdere behovet for revisjon av reglene om protokollering i straffesaker i lys av tekniske muligheter og hensynet til rettssikkerhet, og avga utredning om opptak og protokollering av forklaringer i straffesaker i 2010.[^212] Utvalget la til grunn at protokolleringsordningen tjente en viktig funksjon, men foreslo å gjøre et allerede påbegynt forsøksprosjekt med lydopptak til en permanent ordning under henvisning til at dette vil være arbeidsbesparende, legge bedre til rette for god prosessledelse og sikre kvalitativt bedre dokumentasjon for hva som har blitt sagt.[^213] Det ble vist til at det var overveiende tilslutning til forsøksordningen, og et ønske om at ordningen ble gjort permanent, foruten enkelte innvendinger fra forsvarerhold mot å gå bort fra en ordning som innebar vedtakelse av egen forklaring.[^214]
+
+1.  *Tidligere utredninger*
+
+Spørsmålet om hvilken rekkevidde prinsippet om direkte bevisføring bør ha, har vært vurdert i en rekke sammenhenger. To-instansutvalget foreslo som nevnt ovenfor en utvidet ordning med protokollasjon. Departementet fulgte ikke opp forslaget, med følgende begrunnelse:
+
+«\[M\]an \[bør\] være forsiktig med å legge opp til et system hvor man i ankeomgangen i stor grad kan nøye seg med å lese opp tidligere protokollerte forklaringer. Hensynene for en to-instansordning taler imot et slikt system: Det er viktig at den dømmende rett selv kan høre vitnet forklare seg, og at retten og partene også for ankedomstolen har mulighet til å stille supplerende eller utdypende spørsmål til vitnet.»[^215]
+
+Spørsmål om bruk av lyd- og bildeopptak under ankeforhandling i straffesaker var tema også for Juryutvalget i NOU 2011: 13. Det lå imidlertid utenfor utvalgets mandat å vurdere vesentlige endringer i den grunnleggende prosessordning for fullstendige ankesaker og utgangspunktet om at det skal foretas en fullstendig ny behandling av saken så langt den er henvist, jf. straffeprosessloven § 331 første ledd. Utvalget anbefalte følgende:
+
+«Utvalget \[…\] går \[…\] ikke inn for et system hvor ankeforhandlingene i stor grad er basert på avspilling av opptak. \[…\]
+
+Hvis man først skal ha et system hvor det er full overprøving, må også behandlingen være fullverdig i begge instanser. Hensynene til sakens opplysning og arbeidsforholdene i domstolene tilsier at bevisførselen bør være direkte. Vitner der retten skal vurdere troverdighet og kunne stille egne kontrollspørsmål, bør utvilsomt også i fremtiden i norsk prosess møte direkte for den dømmende rett. Dette vil også gardere mot avgjørelser i strid med retten til reell ankeprøving etter SP artikkel 14 nr. 5 og kravene til en rettferdig rettergang i EMK artikkel 6 nr. 1.
+
+Forsåvidt gjelder vitner der ikke rettens primære oppgave er å vurdere deres troverdighet eller å stille spørsmål ved observasjonene, vil avspilling normalt være besparende og betryggende. Det er under enhver omstendighet bedre enn å lese opp politiforklaringer som ikke har vært gjenstand for noen kontradiksjon. Utvalget går imidlertid heller ikke inn for at omfanget av direkte bevisførsel begrenses med sikte på slike vitner, verken ved at partene skal kunne begrense \[den\] direkte bevisførselen ved å avtale seg i mellom hvilke vitner det er nødvendig å høre og hvilke vitneforklaringer som kan avspilles, eller på annet vis. Det er retten som har og bør ha ansvaret for sakens opplysning. Forut for forhandlingene er det vanskelig for retten å ta stilling til behovet for at vitnet forklarer seg direkte. Det må være lite tilfredsstillende for lagmannsrettens dommere ikke å ha muligheten til å stille selvstendige spørsmål til vitnene uaktet om tingrettens dommere eller sakens parter har sagt seg fornøyd. Utvalget ser \[…\] også en fare i at det i praksis vil kunne bli vanskelig å holde tilbake omfanget av avspilling. Selv om det ved behov vil være adgang til å kalle inn vitnet på nytt etter avspilling, vil slik hurtiginnkalling antakelig ofte være forbundet med praktiske vanskeligheter. \[…\]
+
+Utvalget går inn for at det i særtilfeller, der det vil være en uforholdsmessig tung byrde for fornærmede å forklare seg på nytt, skal gis adgang til avspilling av lyd- og bildeopptak fra førsteinstans under ankebehandlingen, forutsatt at avspillingen ikke går på bekostning av hensynet til saksopplysning. En slik adgang vil sikre at særlig sårbare fornærmede slipper å gjenta de sider av hendelsesforløpet og ettervirkninger som det er mest belastende å fortelle om. Særlig hensynet til fornærmede som har vært eller er i en tung bearbeidelsesprosess som følge av de straffbare forhold som er til behandling, tilsier en slik ordning. Etter utvalgets syn må imidlertid fornærmede møte til ankeforhandlingen for å svare på eventuelle supplerende spørsmål. Tilstedeværelse sikrer at fornærmede vil kunne ta til motmæle og oppklare misforståelser.
+
+Forholdene kan tenkes å ligge slik an at det er like belastende for et vitne å avgi forklaring, for eksempel der vitne faktisk er fornærmet som følge av at en straffesak er delt, forhold er foreldet osv. Denne gruppen av vitner bør også omfattes av ordningen.»[^216]
+
+På denne bakgrunn anbefalte utvalget at det i straffeprosessloven § 331 ble tilføyet et nytt femte ledd, med følgende ordlyd:
+
+«Under ankeforhandling kan lyd- og bildeopptak av en forklaring som et vitne har gitt under forhandlingene i første instans supplere eller tre istedenfor personlig avhør når ny forklaring vil innebære en uforholdsmessig tung byrde og retten finner det forsvarlig av hensyn til sakens opplysning at avspilling finner sted. Avspilling skal skje før vitnet forklarer seg.»[^217]
+
+Juryutvalget redegjør også nærmere for argumentene for og mot bruk av lyd- og bildeopptak. Om betydningen av bruk av opptak heter det:
+
+«Til grunn for prosesslovgivningen ligger en premiss om at muntlighet og direkte bevisføring er viktige mekanismer for at saken skal bli korrekt opplyst \[…\]. På tross av at vi mangler empirisk dokumentasjon for dette, velger utvalget som et utgangspunkt å slutte seg til denne antakelsen, og viser til at det heller ikke finnes dokumentasjon som trekker i motsatt retning.
+
+Avspilling av opptak vil imidlertid i noen sammenhenger kunne være bedre enn direkte bevisføring. Tidsforløpet og den påvirkning man utsettes for mellom domstolsbehandlingene, innebærer en risiko for at hukommelsen svekkes og at erindringer forskyves. I saker hvor det går lang tid mellom behandlingen i første- og andreinstans kan derfor opptak være å foretrekke, iallfall som et supplement til en muntlig forklaring.
+
+Opptak kan brukes til å kontrollere om det har funnet sted saksbehandlingsfeil. Vissheten om at det er mulig å kontrollere hva som har skjedd under rettergangen, må dessuten antas å virke disiplinerende på sakens aktører.

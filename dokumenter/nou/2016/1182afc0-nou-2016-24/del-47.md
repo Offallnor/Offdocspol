@@ -1,953 +1,346 @@
-# NOU 2016: 24, del 47 av 73 (side 506–516)
+# NOU 2016: 24, del 47 av 69
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/1182afc0-nou-2016-24.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-24/id2517932/
 - Original-PDF: https://www.regjeringen.no/contentassets/6fe1d875248042b4a09b43b85aa46832/no/pdfs/nou201620160024000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 9 tabeller, 1 figur, 52 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 506]
-
-504
-
-Kapittel 25
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-Utvalget mener lovteknikken med henvisning
-til kapitlet om private straffesaker må forstås i lys
-av fornærmedes posisjon ellers i lovverket, og at
-det ikke er grunnlag for å konstatere en slik rettighetskatalog etter gjeldende rett. Tatt på ordet
-innebærer den nevnte lovforståelsen at det ikke
-gjelder noen skranke for bruk av straffeprosessuelle midler til å opplyse sivile krav.
-Robberstad argumenterer for at fornærmede i
-medhold av lovens kapittel 11 kan få oppnevnt en
-sakkyndig for å utrede temaer som har betydning
-for det erstatningsrettslige skyldspørsmålet og for
-oppreisning.26 Det er vanskelig å se at det har
-vært lovgivers mening at fornærmede skal kunne
-benytte straffesaksapparatet til utredning av sine
-krav i andre tilfeller enn det som følger av spesialregelen i straffeprosessloven § 237 annet ledd,
-som i så fall ville vært overflødig.
-Videre argumenteres det for at fornærmede
-kan benytte tvangsmidler som ransaking, beslag og
-heftelse etter begjæring for retten, basert på den
-generelle bestemmelsen i § 409 og på § 417, som
-fastslår at dersom en part begjærer rettergangsskritt, avgjør retten om det er tilstrekkelig grunn til
-å etterkomme begjæringen.27 Også her er det vanskelig å se at straffesaksapparatet skal stå til disposisjon og gi adgang til tvangsmidler for opplysning
-av sivile krav. I så tilfelle ville spesialregelen i § 217
-om at det kan tas heftelse for å sikre betaling av
-«[…] erstatning eller oppreisning som siktede er
-eller antas å ville bli ilagt», vært overflødig.
-Uansett hvordan gjeldende lov er å forstå,
-mener utvalget at inngripende tiltak etter en ny
-straffeprosesslov kun bør benyttes med sikte på
-behandling av straffekravet og spørsmål om straff
-eller andre strafferettslige reaksjoner. Det er først
-og fremst reglene om gjennomføring av straffesaken som skal gis anvendelse for den som fremmer sivilt krav i straffesaken. Straffeprosesslovens utredningsapparat, herunder de ulike
-tvangstiltak, stilles kun til disposisjon med sikte
-på å opplyse sivile krav når det er særskilt angitt.
-25.4.8 Rådighet over kravet og virkningen av at
-det trekkes tilbake
-Har påtalemyndigheten fremmet kravet etter
-straffeprosessloven § 427, foretar den nødvendige
-prosesshandlinger. Den innstevner og eksaminerer vitner, fører øvrige bevis, prosederer saken og
-nedlegger (formell og bindende) påstand. Krav
-fremmet av påtalemyndigheten etter straffepro26
-27
-
-Robberstad (2014) s. 189–190.
-Robberstad (2014) s. 190.
-
-sessloven § 427 skal alltid pådømmes, selv om retten finner at behandlingen av det sivile krav kompliserer straffesaken. Retten kan imidlertid
-begrense seg til å avsi dom for den del av kravets
-størrelse den finner godtgjort, jf. § 432.
-Under saken beholder skadelidte rådigheten
-over kravet og kan instruere påtalemyndigheten.
-Er skadelidte på noe stadium uenig i påtalemyndighetens strategi eller opplegg, kan vedkommende selv overta forfølgningen. Skadelidte kan
-trekke kravet tilbake frem til hovedforhandling er
-påbegynt, men etter dette kan det ikke trekkes tilbake uten at kravet oppgis, med mindre det gis
-samtykke fra saksøkte eller retten. Oppgis kravet,
-er adgangen til videre søksmål etter tvistelovens
-regler avskåret, jf. straffeprosessloven § 433.
-Ordningen etter tvisteloven er at et krav som
-er forkynt for motparten eller satt frem i rettsmøte, er å regne som oppgitt dersom det trekkes
-tilbake fra behandling før rettens avgjørelse er
-truffet, jf. tvisteloven § 18-4 første ledd. Kravet kan
-likevel trekkes uten at det oppgis, hvis motparten
-samtykker, ikke har inngitt tilsvar eller har påstått
-behandlingen av kravet avvist, jf. annet ledd.
-Utvalget mener at de ressurser som nedlegges
-ved behandling av sivile krav, tilsier at det må forplikte å bringe sivile krav til behandling også i
-straffeprosessuelle former. Kravet bør ikke kunne
-trekkes tilbake etter at hovedforhandling er påbegynt, uten at det frafalles, med mindre saksøkte
-eller retten samtykker. Men fordi behandlingen av
-straffesaken kan gå på bekostning av behandlingen av det sivile kravet, bør det være adgang for
-retten til å pådømme kravet bare i den grad det er
-tilstrekkelig opplyst, og adgang for saksøker til å
-reise sak om restkravet etter reglene i tvisteloven.
-Se utkastet §§ 43-10 annet ledd og 43-11 annet
-ledd.
-25.4.9 Betydningen av saksøkers fravær
-Tvisteloven § 16-9 fastslår at saken skal avvises
-dersom saksøker har fravær i saken, og det ikke
-gis oppfriskning. Utgangspunktet er at det da ikke
-kan reises ny sak om kravet.
-Utvalgets syn er at ordningen etter tvisteloven
-ikke bør gjelde når sivile krav behandles etter
-straffeprosessloven, ettersom det ikke alltid er
-behov for oppmøte for å behandle kravet forsvarlig, og det ikke er det samme generelle behovet
-for insentiver for oppmøte overfor skadelidte. Fravær vil imidlertid kunne få betydning i bevisbedømmelsen når retten skal ta stilling til grunnlaget for kravet, og det er derfor avgjørende at
-skadelidte gjøres oppmerksom på dette. Det føl-
-
-[Side 507]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-ger av dette at det ikke skal være adgang til å
-nekte videre behandling etter utkastet § 43-11
-annet ledd som følge av at saken ikke blir opplyst
-fordi skadelidte har uteblitt uten gyldig fravær.
-Eventuelt må kravet trekkes etter § 43-10 annet
-ledd, men retten skal da ikke gi samtykke begrunnet med skadelidtes fravær.
-25.4.10 Dommersammensetning og
-avstemningsregler
-Utgangspunktet ved behandlingen av sivile krav
-etter tvisteloven er at det kun deltar fagdommere,
-men under hovedforhandlingen for tingrett deltar
-to meddommere dersom en av partene krever det,
-eller retten finner det ønskelig, jf. § 9-12 første
-ledd. Selv om det ikke er sagt i loven, må partene
-også kunne kreve retten satt med meddommere i
-lagmannsretten, jf. § 29-17.
-Når sivile krav fremmes i forbindelse med en
-straffesak som behandles ved meddomsrett, deltar alle syv medlemmer av retten også ved avgjørelsen av det sivile kravet. Løsningen er en annen
-ved saker med lagrette, der sivile krav avgjøres av
-tre fagdommere uten medvirkning fra de fire jurymedlemmene som deltar ved straffutmålingen.
-Begrunnelsen for at lekdommerne ikke skulle
-delta, var blant annet hensynet til å bevare anonymitet rundt stemmegivningen i straffesaken.28
-Retten skal treffe en selvstendig avgjørelse av
-det sivile kravet ut fra de samme vilkårene som
-gjelder for å ta kravet til følge i en sivil sak. Det er
-altså ikke en direkte kobling mellom statens krav
-om straff og fornærmedes krav på erstatning eller
-andre sivile krav. Som nevnt i punkt 25.2.1 kan
-ulike avstemningsregler og ulik dommersammensetning i dag lede til at tiltalte frifinnes for straff,
-men dømmes til å betale erstatning.
-For å la lekdommerne delta ved behandlingen
-av sivile krav taler at det vil være verdifullt å
-benytte seg av også disse dommernes erfaringer
-og verdier. Dertil kommer at det ofte er nær forbindelse mellom straffekravet og det sivile krav,
-og at det slik sett vil være praktisk å la samme
-dommergruppering avgjøre begge krav.
-Mot lekdommerdeltakelse taler hensynet til
-en effektiv straffeprosess, ved at det må forventes
-å ta noe mer tid om lekdommerne skal delta ved
-behandlingen av kravet. Det kan også gjøres gjeldende at hensynet til en konsekvent rettspleie
-taler for at dommersammensetningen ikke bør
-bero på om man velger å forfølge krav i det
-28
-
-Se NOU 2011: 13 s. 24, 40 og 92.
-
-505
-
-Kapittel 25
-
-straffeprosessuelle eller det sivilprosessuelle
-sporet.
-Betydningen av spørsmålene om dommersammensetning og stemmeregler blir mindre
-dersom utvalgets forslag om et ensrettingsprinsipp
-følges opp, se punkt 25.2. Avstemningskravet er
-strengere for spørsmålet om straffansvar enn for
-spørsmålet om sivilrettslig ansvar, og det skal ikke
-tas stilling til sivile krav ved frifinnelse for straffekravet. Problemstillingen bortfaller imidlertid ikke,
-blant annet kan det i en sak hvor det konstateres
-straffansvar, måtte tas stilling til særskilte rettslige
-vilkår og bevistemaer for det sivile kravets del.
-Utvalget mener det er hensiktsmessig å
-benytte seg av de menneskelige ressurser som
-står til rådighet, når sivile krav skal behandles, og
-anbefaler derfor at kravene behandles med
-straffeprosesslovens
-dommersammensetning.
-Dette vil også sikre ivaretakelse av lekdommerinnslag i de sakene hvor partene ønsker det, jf.
-tvisteloven §§ 9-12 første ledd og 29-17. I tidligere
-utredningsarbeid har det vært ansett som uproblematisk å la lekdommerne delta ved behandling
-av sivile krav når disse pådømmes i straffesak.29
-Videre er spørsmålet hvilke stemmeregler
-som skal gis anvendelse. Tradisjonelt har man
-beholdt de sivilprosessuelle reglene for avstemning når sivile krav behandles i straffeprosessens
-former. Alternativet er å gi avstemningsreglene
-for kravet om straff anvendelse også ved behandlingen av sivile kravet. Å anvende de straffeprosessuelle reglene vil gi en oversiktlig prosessordning. Det er videre liten grunn til å tro at ulike
-avstemningsregler vil virke inn på valg av prosessform, eller at det vil få stor praktisk betydning for
-sakenes utfall. Utvalget mener likevel at man bør
-holde fast ved avstemningsreglene som gjelder
-for sivile krav, slik at fordelingen av usikkerhet
-etter disse gjelder generelt for sivile krav uavhengig av prosessform.
-25.4.11 Delavgjørelse
-Straffeprosessloven åpner for at retten kan gi dom
-for den del av kravet som den finner godtgjort, når
-opplysningene i saken er utilstrekkelige til at størrelsen av et sivilt krav kan fastsettes, jf. § 432.
-Begrunnelsen for denne adgangen, som avviker
-fra ordningen etter tvisteloven, er at det ikke gjelder samme regler for forberedelsen av de sivile
-krav ved behandling etter straffeprosessloven.
-Utvalget mener at denne adgangen, som innebærer et unntak fra det forhandlingsprinsipp som
-29
-
-NOU 2011: 13 s. 148 og 175.
-
-[Side 508]
-
-506
-
-Kapittel 25
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-ellers gjelder, er prinsipielt uheldig. Delvis pådømmelse kan føre til at det ikke reises sak om restkravet, og man risikerer motstridende avgjørelser
-av kravet dersom det samtidig med at det reises
-sak om restkravet, ankes særskilt over den delen
-av kravet som er avgjort.30 Dessuten – og kanskje
-viktigst – innebærer en adgang til delavgjørelse av
-kravet at man ikke får slike nødvendige formelle
-rammer rundt behandlingen som kreves for en
-forutberegnelig og konsentrert behandling.
-Utvalgets lovforslag skjerper reglene til saksbehandlingen av sivile krav som skal behandles
-sammen med straffesaken. Dertil kommer at fornærmede og etterlatte i større grad har bistand
-ved behandlingen av kravet enn da ordningen ble
-gitt. Dette er begge forhold som taler for å la forhandlingsprinsippet få fullt gjennomslag.
-Det bør imidlertid fremdeles være adgang for
-retten til å gi dom for en del av kravet dersom det
-er forhold ved gjennomføringen av straffesaken
-som har ført til at kravets størrelse er utilstrekkelig opplyst. Et eksempel er dersom man fremskynder forhandlingene, med den følge at en påbegynt
-utredning som ville klargjort skadeomfanget, ikke
-blir ferdigstilt i tide. Det vises til utkastet § 43-11
-annet ledd.
-25.4.12 Saksbehandlingsfeil
-Et særlig spørsmål er om det sivile kravet skal
-sidestilles med straffekravet når det foreligger feil
-ved saksbehandlingen som fører til opphevelse.
-Løsningen under gjeldende straffeprosesslov ble
-
-drøftet i Rt. 2009 s. 1070. I saken, som gjaldt manglende begrunnelse for delvis ankenektelse knyttet til straffekravet, kom flertallet til at opphevelsen måtte få virkning også for det sivile kravet på
-grunn av de sterke prosessuelle båndene mellom
-straffekrav og sivile krav.31 Utvalget anbefaler at
-rettstilstanden videreføres.
-25.4.13 Sakskostnader og rettsgebyr
-Et sentralt spørsmål av betydning blant annet for
-ansvaret for saksomkostninger er om oppnevning
-som forsvarer og bistandsadvokat i sak for tingretten bør stå ved lag i en videre sivil sak, som etter
-gjeldende rett, jf. straffeprosessloven § 100. Utvalget mener en slik ordning er hensiktsmessig,
-ettersom det sivile kravet er gjort til en del av
-straffesaken, og aktørene kjenner saken. Forsvarers oppgaver i tilknytning til sivile krav er regulert i utkastet § 43-5.
-Videre er det et spørsmål om det bør kreves
-rettsgebyr ved fortsatt behandling etter tvistelovens regler, og i forlengelsen av dette om det bør
-kunne kreves at motparten skal pålegges å refundere det offentliges utgifter. Utvalget mener det
-ikke bør kreves rettsgebyr, og at utgiftene til
-bistandsadvokat og forsvarer skal behandles på
-samme måte som når kravet blir behandlet
-sammen med straffekravet, slik praksis også er i
-dag.32 Utvalget legger til grunn at det ikke er nødvendig med en nærmere presisering av dette i
-loven.
-31
-
-30
-
-Se nærmere Hov (1983) s. 142.
-
-32
-
-Rt. 2009 s. 1070 avsnitt 16 flg. (3–2).
-Se Rt. 2012 s. 201 avsnitt 44.
-
-[Side 509]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-507
-
-Kapittel 26
-
-Kapittel 26
-
-Sakskostnader
-I dag følger det av straffeprosessloven § 436 første
-punktum at domfelte i regelen skal erstatte statens påløpte omkostninger ved å ha ført saken:
-«Blir siktede dømt i offentlig sak, bør siktede i
-regelen pålegges å erstatte staten nødvendige
-omkostninger ved saken.»
-Hvorvidt denne ordningen er rimelig, har i liten
-grad vært gjenstand for diskusjon. Straffeprosesslovkomiteen drøftet om reglene om statens
-rett til erstatning i straffesaker helt burde sløyfes,
-men mente at det fortsatt burde være mulig å
-pålegge mistenkte å dekke kostnadene:
-«Komiteen har vært inne på spørsmålet om
-helt å sløyfe reglene om erstatning til staten i
-offentlige saker. Det er som foran nevnt i forholdsvis få saker at saksomkostninger blir
-idømt, så spørsmålet har liten økonomisk
-betydning for staten. Noen urimelighet vil det
-imidlertid ikke være at den som er skyldig i en
-straffbar handling, må betale omkostninger
-ved en sak som skyldes hans lovovertredelse.
-Man kan si at slik erstatningsplikt stemmer
-med vanlige erstatningsrettslige prinsipper:
-Det dreier seg om utgifter som er en påregnelig følge av siktedes rettsstridige, forsettlige
-eller uaktsomme forhold. I visse tilfelle vil det
-være særlig naturlig at han erstatter omkostningene, f.eks. når det etter omstendighetene i
-en foreleggssak ikke har vært noen rimelig
-grunn for siktede til å ville se rettens avgjørelse.»1
-Også etter senere endringer i sakskostnadsreglene har disse synspunktene blitt opprettholdt og
-forsterket ved at lovgiver har pålagt domstolene å
-idømme ansvar for sakskostnader i større utstrekning.2
-Etter utvalgets syn bør disse synspunktene og
-denne utviklingen tas opp til fornyet drøftelse. Det
-1
-
-Straffeprosesslovkomitéen (1969) s. 359.
-
-er flere grunner til å stille spørsmål ved tilnærmingen. Mye kan tale for at lovens utgangspunkt heller bør være det motsatte, det vil si at mistenkte
-som hovedregel ikke bør idømmes erstatning for
-sakskostnadene.
-For det første kan det stilles spørsmål om hvorvidt det er rimelig at domfelte bør bære risikoen
-for omkostningene ved straffesaken. Riktignok
-har vedkommende begått et lovbrudd som vedkommende kan straffes for, men det er et langt
-sprang fra dette til å konkludere med at det er
-rimelig at vedkommende også skal betale for den
-prosess som samfunnet igangsetter for å undersøke lovbruddet. Mistenkte har i liten grad herredømme over hvordan straffesaken utvikler seg.
-Og er man konsekvent og virkelig mener at denne
-«moralen» er noe som bør utbres, skulle også den
-som frifinnes, betale omkostningene for prosessen hvis det ved straffesakens slutt fortsatt var
-sannsynlighetsovervekt for at vedkommende var
-skyldig. Det ville være støtende. Heller ikke ville
-man foreslå at domfelte skal dekke kostnadene
-Kriminalomsorgen har ved straffegjennomføringen.
-Situasjonen i straffeprosessen er en helt annen
-enn den er i andre tilfeller hvor staten tilkjennes
-sakskostnader. I sivilprosessen disponerer partene fritt over kravet og kan velge om de vil gå til
-sak eller benytte rettsmidler. Et sentralt moment
-som det da er naturlig for de involverte å ta hensyn til, er hvor mye det å tape vil koste i form av
-omkostninger ved å føre saken. Slik er det ikke i
-straffeprosessen. Den som mistenkes i en straffesak, kan ikke selv velge å akseptere straffekravet
-og dermed unngå en kostbar domstolsprosess,
-foruten saker som følger av at forelegg ikke vedtas. Mistenkte har derfor ikke noen mulighet til å
-rå over utgiftene ved behandlingen av saken.
-For det andre er straff det alvorligste inngrepet
-staten kan gjøre overfor borgerne, og det er av
-2
-
-Se lov 15. juli 1994 nr. 51 om enkelte endringer i rettergangslovgivningen og Ot.prp. nr. 45 (1993–94) s. 4–5 og
-s. 9–10.
-
-[Side 510]
-
-508
-
-NOU 2016: 24
-
-Kapittel 26
-
-Ny straffeprosesslov
-
-rettssikkerhetshensyn at Grunnloven påbyr en
-omstendelig og dyr domstolsprosess når det skal
-ilegges frihetsstraff, jf. § 96 første ledd. Ved andre
-alvorlige inngrep i borgernes frihet, for eksempel
-tvang i psykiatrien eller barnevernet eller forvaltningssanksjoner, er ikke rettslig behandling
-påbudt, selv om vedtaket kan bringes inn for retten. I slike saker pålegges ikke den som utsettes
-for inngrepet, å betale kostnadene ved å behandle
-saken. Det gjelder generelt for forvaltningsbehandlingen og dessuten i enkelte tilfeller – når
-rettssikkerhetshensyn gjør seg sterkt gjeldende –
-for domstolsbehandling som vedkommende selv
-måtte ta initiativ til.
-Riktignok kan det innvendes at disse sakstypene ikke har sin bakgrunn i at den inngrepet
-gjøres overfor, har gjort noe klanderverdig, slik
-som det alltid vil være i en straffesak som ender i
-domfellelse. Det er et slikt synspunkt som ligger
-til grunn for uttalelsen i forarbeidene om at det
-ikke vil være «[n]oen urimelighet […] at den som
-er skyldig i en straffbar handling, må betale
-omkostninger ved en sak som skyldes hans lovovertredelse».
-Dette er imidlertid unyansert. Forvaltningssanksjoner er nettopp sanksjoner for forhold som
-ofte også kan belegges med slik straff som idømmes i straffeprosesslovens former. I en viss
-utstrekning kan også andre inngrep som forvaltningen gjør overfor borgerne, anføres. Barnevernstiltak, som staten dekker omkostningene
-ved fullt ut, har i mange tilfeller sitt grunnlag i at
-det har skjedd noe straffbart eller klanderverdig –
-ofte kan det være helt på det rene. Det tilsvarende
-gjelder vedtak om tvang i psykiatrien etter at vedkommende har gjort noe straffbart. I disse tilfellene har det aldri vært foreslått at den som utsettes for inngrepet, bør betale statens utgifter ved
-saksbehandlingen. Det er vanskelig å forklare og
-kan virke inkonsekvent at gjeldende rett bygger
-på at tiltalte i straffesaker, hvor rettssikkerhetsbehovet er desto større, må stå for kostnadene selv.
-For det tredje er ikke de rettssikkerhetshensyn
-som domstolsbehandlingen i straffeprosessen ivaretar, og som Grunnloven § 96 i en viss utstrekning forplikter oss til, bare gitt til vern av mistenkte. De offentlige interessene i straffesaksbehandlingen taler for at staten også bør stå for
-sakskostnadene, slik Andorsen har påpekt:
-«[Det offentlige forvalter] en viktig fellesinteresse i å få straffbare forhold oppklart og
-pådømt. […] Det er da ikke urimelig at den
-samme fellesinteressen, samfunnet, belastes
-utgiftene ved en slik prosess. [Man kan] si at
-
-en moderne og betryggende (og kostbar) strafferettspleie tar sikte på å imøtekomme et alminnelig tillitskrav fra opinionen, og at denne tilliten er en nødvendig betingelse for strafferettspleiens legitimitet. Også denne synsmåten
-taler for at det offentlige betaler omkostningene.»3
-For det fjerde kan det fremstå noe underlig at den
-mistenkte skal betale for den prosessen som
-utgjør grunnlaget for at vedkommende straffes.
-Det regresskrav som staten eventuelt gjør gjeldende ved å pålegge sakskostnader for domfelte,
-kan ses som en form for etterfølgende og tvungen
-medvirkning til egen domfellelse, selv om det
-klart nok ikke vil innebære brudd på folkerettslige forpliktelser.
-For det femte er mange av de mistenkte i straffesaker ressurssvake personer som i liten grad
-har mulighet til å dekke omkostningene ved
-saken. Dette tar straffeprosessloven § 436 tredje
-ledd i en viss grad hensyn til ved at sakskostnader
-bare skal ilegges «dersom det antas mulig å oppnå
-betaling», og omkostningene skal «avpasses etter
-siktedes økonomiske evne». Dette er imidlertid
-ikke et tilstrekkelig vern mot at sakskostnadsansvaret i mange tilfeller vil kunne ramme sosialt
-urettferdig og også gå utover domfeltes nærstående, som ikke har noe med det straffbare forhold
-å gjøre. Utgiftene til straffesaksbehandlingen i en
-moderne stat er dessuten meget store. Dekningsmulighetene ved idømmelse av sakskostnader er
-uansett så små at hovedregelen, gitt de mulige
-ugunstige virkninger av sakskostnadsansvaret,
-helst bør være at dette ikke er noe staten bør tilkjennes.
-For det sjette er det grunn til å stille spørsmål
-ved om denne ordningen er hensiktsmessig. I
-ytterste konsekvens kan det føre til at en mistenkt
-ikke vil bidra til sakens opplysning fordi vedkommende risikerer å bli belastet kostnadene for
-denne, for eksempel ved ikke å begjære tidkrevende eller dyre etterforskingsskritt. Det kan gi
-risiko for uriktig domfellelser. Videre er det grunn
-til å stille spørsmål ved om en domfelt som etter
-soning av straff skal integreres i samfunnet, er
-tjent med et erstatningskrav for saksomkostninger i bagasjen.
-På denne bakgrunn mener utvalget at domfelte som regel ikke bør bære sakens omkostninger. Derimot bør det være mulig å idømme
-sakskostnadsansvar når mistenkte som aktør i
-prosessen ved sine egne handlinger har bidratt til
-3
-
-Andorsen (1988) s. 232.
-
-[Side 511]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-å vidløftiggjøre saken, for eksempel når mistenkte
-uten rimelig grunn har ønsket rettens dom etter å
-ha blitt tilbudt et rimelig forelegg. Vedkommende
-bør da holdes ansvarlig for meromkostningene.
-Utvalget har videre vurdert det slik at disse
-utgangspunktene står i samme stilling ved spørsmålet om hvorvidt sakskostnader bør ilegges i forbindelse med en ankesak. Det kan på generelt
-grunnlag hevdes at domfelte som forgjeves anker,
-i seg selv har vidløftiggjort saken ved å utnytte
-ankeretten. En slik betraktning er etter utvalgets
-syn imidlertid for snever. At mistenkte benytter
-seg av rettssikkerhetsgarantier som knytter seg til
-en fellende dom, bør ikke i seg selv åpne for å
-ilegge sakskostnader selv om anken ikke skulle
-føre frem. Å åpne for i større grad å idømme
-sakskostnader i ankeinstansen kan også medføre
-at ankeretten benyttes i mindre grad enn det som
-er ønskelig, og medføre at uriktige dommer blir
-stående. Det bør derfor vurderes konkret om
-anken var en vidløftiggjøring av saken som det
-bør knyttes sakskostnader til, eller om det var tale
-om en alminnelig utnyttelse av ankeretten, uavhengig av om anken ble tatt til behandling eller til
-følge.
-Utvalget har også vurdert spørsmålet om det
-er ønskelig å utvide adgangen til å tilkjenne
-sakskostnader til forsvarer i noe større grad enn
-
-509
-
-Kapittel 26
-
-det som direkte følger av straffeprosessloven
-§ 438 annet punktum.4 Bestemmelsen lyder:
-«Betaling til forsvarer erstattes ikke med et større
-beløp enn forsvareren ville blitt tilkjent om han var
-oppnevnt som offentlig forsvarer.» Hensynet til
-jevnbyrdighet mellom partene i prosessen tilsier
-imidlertid at sakskostnader utover dette bør tilkjennes dersom utgiftene var nødvendige og stod
-i forhold til de ressurser staten la ned i straffeforfølgningen. Det kan være aktuelt ved større og
-komplekse saker som kan reise vanskelige juridiske spørsmål, for eksempel av skatterettslig art.
-I slike saker kan det ofte være helt nødvendig å
-hente inn spesialkompetanse for å ivareta mistenktes interesser på en forsvarlig måte og slik
-sikre en rettferdig rettergang, jf. Grunnloven § 95
-og EMK artikkel 6. Spørsmålet om utgiftsdekning
-må imidlertid vurderes og avgjøres konkret, se
-utkastet § 44-1 annet ledd. Utvalget viser også til
-Högsta domstolens avgjørelse 11. mars 2015 (NJA
-2015 s. 62).
-For øvrig mener utvalget at de gjeldende
-reglene om ansvar for sakskostnader kan videreføres.
-4
-
-Se for øvrig Borgarting lagmannsretts kjennelse 12. september 2016 (LB-2014-197809-2), som er påanket.
-
-[Side 512]
-
-510
-
-Kapittel 27
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-Kapittel 27
-
-Erstatning etter straffeforfølgning
-
-27.1 Innledning
-27.1.1 Kort om den gjeldende erstatningsordningen
-De gjeldende reglene om erstatning i anledning
-forfølgning finnes i straffeprosessloven kapittel
-31. Kapitlet gjennomgikk vesentlige endringer
-ved lov 10. januar 2003 nr. 3, som trådte i kraft 1.
-januar året etter. Hovedtrekkene i den nåværende
-ordningen er kort oppsummert slik:
-– Erstatning. Mistenkte er på nærmere vilkår gitt
-rettskrav på erstatning for økonomisk tap som
-følge av forfølgningen dersom denne ikke fører
-frem, eller vedkommende utsettes for rettsstridig frihetsberøvelse, jf. straffeprosessloven
-§ 444. Erstatning kan også tilkjennes på rimelighetsgrunnlag for betydelige skader og skader etter visse tvangstiltak, jf. straffeprosessloven henholdsvis § 445 og § 448.
-– Oppreisning. Oppreisning tilkjennes i forbindelse med frihetsberøvelse og gis etter standardiserte satser dersom forfølgningen ikke
-fører frem, ved utholdt frihetsstraff når den
-straffede senere frifinnes, og på rent rimelighetsgrunnlag, jf. straffeprosessloven § 447.
-– Ansvarsgrunnlag. Ansvaret er objektivt, og det
-er ikke krav om at det kan påvises feil eller
-skyld hos offentlige myndigheter.
-– Forholdet til skyldspørsmålet. Det stilles ikke
-krav om at den erstatningssøkende sannsynliggjør sin uskyld. Erstatningen kan heller ikke
-settes ned begrunnet i mistanke om skyld, jf.
-straffeprosessloven § 446 annet ledd.
-– Erstatningsutmåling og -bortfall. Erstatningen
-kan settes ned eller falle bort hvis den erstatningssøkende har benyttet seg av vernet mot
-selvinkriminering, motvirket saken, gitt foranledning til etterforskingstiltak eller den fellende dommen eller latt være å begrense skadene av forfølgningen, jf. straffeprosessloven
-§ 446.
-– Behandlingsmåten. Behandlingsmåten for
-erstatningskrav er regulert i straffeprosess-
-
-loven § 449. Kravene behandles administrativt
-av Statens sivilrettsforvaltning, som er gitt
-myndighet til å treffe avgjørelser etter delegasjon fra Justis- og beredskapsdepartementet.
-Sivilrettsforvaltningen innhenter uttalelse fra
-påtalemyndigheten. Klager over Sivilrettsforvaltningens avgjørelser bringes inn for domstolene som et søksmål. Erstatningssøker har rett
-til fri rettshjelp ved den administrative behandlingen og kan kun pålegges saksomkostningsansvar for førsteinstansen hvis søksmålet var
-grunnløst.
-27.1.2 Oversikt over utvalgets drøftelser
-Utvalget mener at det er grunn til å videreføre en
-ordning med erstatning i anledning straffeforfølgning. Den gjeldende ordningen er i hovedtrekk
-hensiktsmessig og balansert og bør videreføres
-med justeringer på enkelte punkter.
-I punkt 27.2 gir utvalget sitt syn på enkelte
-grunnspørsmål og hensyn av betydning for en
-ordning med erstatning etter straffeforfølgning.
-Først, i punkt 27.2.1, redegjør utvalget for sitt syn
-på erstatningsordningens moralske begrunnelse
-og nytte, herunder hvilke funksjoner den har. I
-punkt 27.2.2 vurderer utvalget nærmere betydningen av og muligheten for at en erstatningsordning
-kan virke adferdsregulerende. Deretter, i punkt
-27.2.3, drøfter utvalget hvordan en erstatningsordning bør forholde seg til uskyldspresumsjonen og
-muligheten for at staten risikerer å utbetale erstatning til personer som egentlig er skyldige. I punkt
-27.2.4 gjør utvalget rede for sitt syn på hvilken
-betydning behandlingsmåten har for hvordan
-erstatningsordningen bør innrettes. Til slutt, i
-punkt 27.2.5, gir utvalget sitt syn på hvordan man
-ved utformingen av en ordning med erstatning i
-anledning straffeforfølgning bør forholde seg til,
-og eventuelt trekke veksler på, de løsninger som
-er valgt for lignende spørsmål i den alminnelige
-erstatningsretten.
-Standpunktene som inntas i punkt 27.2, utgjør
-bakteppet for drøftelsene av de mer avgrensede
-
-[Side 513]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-endringene og justeringene i dagens ordning i de
-påfølgende punktene. I punkt 27.3 til 27.5 vurderer utvalget de spørsmålene hvor behovet for revisjon er størst.
-I punkt 27.3 drøfter utvalget hvilke persongrupper som bør omfattes av ordningen, herunder
-betydningen av det tradisjonelle skillet mellom mistenkte og siktede for erstatningsspørsmålet og om
-erstatningsvernet for juridiske personer bør
-endres. Juridiske personers vern etter den straffeprosessuelle erstatningsordningen er en problematikk som ikke har vært viet særlig oppmerksomhet.
-Utvalget mener slike rettssubjekter i en viss
-utstrekning bør omfattes av reglene, men at det
-særlig overfor større selskaper og ved kompliserte
-erstatningskrav kun bør ytes erstatning i medhold
-av alminnelige erstatningsrettslige regler.
-I punkt 27.4 drøfter utvalget utformingen av
-den gjeldende straffeprosessloven § 446, som gir
-grunnlag for erstatningsnedsettelse på bestemte
-vilkår. Først, i punkt 27.4.1, gjør utvalget nærmere
-rede for utformingen av denne medvirkningsregelen og hvilke spørsmål den særlig gir opphav til.
-Deretter, i punkt 27.4.2 til 27.4.6, vurderes og foreslås endringer hva gjelder vilkår om skyld og
-årsakssammenheng, forholdet mellom medvirkning og utøvelse av retten til vern mot
-selvinkriminering, medvirkning fra psykisk avvikende personer og avkorting når straffesaken
-henlegges for å holde sensitive opplysninger
-hemmelige. Utvalget anbefaler å justere regelen i
-straffeprosessloven § 446 i retning av alminnelige
-erstatningsrettslige prinsipper.
-I punkt 27.5 drøftes spørsmål av prosessuell
-karakter, og utvalget går inn for enkelte endringer
-som vil forenkle behandlingen av erstatningskrav.
-Avslutningsvis, i punkt 27.6, drøftes reglenes
-rettssystematiske plassering, det vil si om de bør
-følge av et eget kapittel i straffeprosessloven, slik
-som i dag, eller om de bør komme til uttrykk i en
-egen lov.
-Utvalget er gjort kjent med en rapport fra Statens sivilrettsforvaltning av 12. februar 2016 med
-forslag til justeringer i erstatningsordningen.
-Enkelte av disse forslagene drøftes i de følgende
-punkter. Sivilrettsforvaltningen anbefaler at det
-tas opp til vurdering om det bør fastsettes en øvre
-beløpsgrense for erstatning og at standardsatsene
-ved oppreisning etter frihetsberøvelse bør justeres. Utvalget har ikke tatt konkret stilling til disse
-spørsmålene, men ønsker å påpeke at det er svært
-forskjellige sakstyper som gir opphav til erstatning og at kravets størrelse kan skyldes forhold av
-ulik karakter. For eksempel kan mange års frihetsberøvelse etter dom hvor vedkommende
-
-511
-
-Kapittel 27
-
-senere er frifunnet etter gjenåpning, så vel som
-tap av svært høy inntekt hos den erstatningssøkende, medføre store krav. Det er ikke sikkert
-at det for så ulike tilfeller bør gjelde en felles øvre
-grense for rett til erstatning på objektivt grunnlag
-etter ordningen. Når det gjelder standardsatsene,
-som ikke er endret siden 2003, vil utvalget fremholde – som Høyesterett – at disse langt på vei er
-utdaterte og bør oppjusteres.1
-
-27.2 Grunnleggende hensyn ved
-utforming av regler om erstatning
-etter straffeforfølgning
-27.2.1 Erstatningsordningens moralske
-grunnlag og dens funksjoner
-Straffeforfølgning er av de alvorligste inngrep
-myndighetene kan iverksette overfor enkeltindividet. At den som uriktig rammes av straff eller tiltak i forbindelse med straffeforfølgning, og de
-ubehageligheter som følger med dette, ikke bør
-behandles som et tilfeldig og uheldig offer overlatt til seg selv, men derimot holdes skadesløs og
-kompenseres for sin lidelse, er det lang tradisjon
-for i vestlig rettstenkning.2 Poenget er altså at det
-ikke er rimelig å la den som er frifunnet, selv
-måtte bære det tap som har oppstått i forbindelse
-med en statlig forfølgning som ikke fører frem.
-Straffeforfølgning er en risikabel virksomhet
-som tjener samfunnsinteresser, og som staten har
-monopol på. Når det i denne virksomheten i det
-offentliges interesse viser seg at det ikke var grunnlag for forfølgning eller forfølgningen har hatt uønskede konsekvenser, og risikoen dermed har materialisert seg, kan tapet også lettest pulveriseres av
-staten som en ren driftsomkostning via skatteseddelen. Tap som følge av uønskede virkninger av straffeforfølgningen bør veltes over på staten, som har
-bedre evne til å bære det enn den enkelte borger.
-
-1
-
-2
-
-Se Rt. 2012 s. 1615 avsnitt 42 om betydningen av standardsatsene etter straffeprosessloven § 447 første ledd for fortolkningen av uttrykket «passende beløp» i annet ledd, og
-dermed for omfanget av retten til oppreisning på grunnlag
-av rimelighet etter annet ledd: «Det har i perioden vært en
-mer alminnelig utvikling av oppreisningsinstituttet, som
-blant annet går ut på at kompensasjonshensynet er trukket
-mer frem og det generelle nivået er hevet […]. Standardsatsene fra 2003 blir derfor stadig mindre aktuelle som
-sammenligningsgrunnlag.»
-For eksempel fremholdt allerede Jeremy Bentham det
-offentliges erstatningsplikt i slike tilfeller som selvsagt, se
-Bentham (1931) s. 320–321 (Theory of Legislation, Principles of Penal Law, del II Political Remedies for the Evil of
-Offences, kapittel 18 Of Subsidiary Satisfaction at the
-Expense of the Public Treasure).
-
-[Side 514]
-
-512
-
-Kapittel 27
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-Et tidlig uttrykk for gjennomslag for hensynet
-til gjenoppretting i norsk lovgivning er regelen i
-Grunnloven § 94 tredje ledd om personlig erstatningsansvar ved urettmessige fengslinger, som
-ble vedtatt under riksforsamlingen på Eidsvoll.
-Lovgivning om et generelt ansvar for staten kom i
-kjølvannet av drøftelsene av problemet ved det 3.
-nordiske juristmøte i Christiania i 1879 og det 5.
-nordiske juristmøte i Stockholm 1884. I Norge
-fikk vi formelle regler om erstatning ved straffeprosessloven 1887.3 Det siste steget i utviklingen
-er reformarbeidet som munnet ut i lov 10. januar
-2003 nr. 3, som utgjør grunnlaget for den erstatningsordning som praktiseres i dag.
-Regler om erstatning etter straffeforfølgning
-har altså en dyp forankring i rettstenkingen og i
-norsk rettstradisjon og ivaretar etter utvalgets
-mening grunnleggende rettferdighetskrav i vår
-rettsstat. Erstatningsordningen tjener dessuten
-flere andre viktige funksjoner.
-Når staten utbetaler erstatning eller oppreisning, gis det utad og overfor den som er rammet, uttrykk for at det er begått en urett som samfunnet nå vil bøte på. Slike regler kan dermed for
-det første bidra til gjenopprettelse av den skadelidtes verdighet og anseelse i samfunnet, og stigmaet som forfølgningen førte med seg, kan reduseres.
-For det andre kan utbetalingen redusere de
-økonomiske og påfølgende sosiale omkostninger av
-forfølgningen. Straffeforfølgning kan innebære en
-tung økonomisk belastning for den som rammes.
-Ofte vil dette også gå utover dem som står den forfulgte nær, og som vedkommende drar omsorg
-for. Når forfølgningen slår feil, kan erstatning
-effektivt bidra til å forhindre de uheldige sosiale
-virkninger som dette fører med seg, spesielt i lys
-av at straffen oftest rammer personer fra svakere
-og mer utsatte grupper i samfunnet.
-27.2.2 Betydningen av og mulighetene for
-adferdsregulering
-Det kan også være betenkeligheter forbundet
-med en erstatningsordning som trekker slike
-synspunkter som nevnt i punkt 27.2.1 langt. I forarbeidene til erstatningsbestemmelsene er det
-fremhevet at gunstige ordninger kan bremse
-myndighetenes arbeid med å bekjempe og oppklare kriminalitet.4 I odelstingsproposisjonen la
-3
-4
-
-Se nærmere om de historiske linjer i Uggerud (1998) s. 23
-og Straffeprosesslovkomitéen (1969) s. 362.
-NOU 1996: 18 s. 35.
-
-departementet til grunn at «[m]an må unngå den
-situasjonen at kriminalitetsbekjempelsen uthules
-ved at erstatningen […] fører til overforsiktighet
-fra politiet og påtalemyndighetens side for å
-unngå at staten pådrar seg erstatningsansvar».5
-Dette argumentet kan imidlertid også «snus», idet
-man kan tenke seg at omfattende erstatningsordninger vil virke disiplinerende på politi og påtalemyndighet og slik forebygge misligheter overfor
-borgerne.6
-Betydningen av slike synspunkter må ikke
-overdrives. Det er nok heller andre forhold som
-bidrar til at myndighetene i stor grad etterlever de
-regler som begrenser deres virke, og som verner
-enkeltmennesket mot overgrep under straffeforfølgningen. Muligheten for at staten må betale
-erstatning, spiller nok en beskjeden – om noen –
-rolle. Langt viktigere er tjenestemennenes trening
-og opplæring og forståelsen for sentrale straffeprosessuelle prinsipper. I den grad det er ønskelig
-å styrke regler som begrenser myndighetsmisbruk under straffeforfølgningen, og slik verne
-borgeren ytterligere mot overgrep, er alternative
-virkemidler som disiplinærreaksjoner og bevisforbud å foretrekke fremfor erstatningsregler med
-prevensjonsformål, se punkt 13.3.4.4.
-Statsfinansene belastes dessuten i så liten grad
-ved ordningen at det ikke er grunn til å regne
-med at den vil virke adferdsregulerende. Dagens
-utgifter til erstatningsordningen har de siste fem
-årene med tilgjengelige data (2010–2015) i snitt
-ligget på ca. 20 millioner kroner, med 2010 som
-det året med høyest utbetalinger (30,6 millioner
-kroner).7 Utgiftene må sies å være relativt små
-gitt det iboende skadepotensialet som følger med
-offentlig straffeforfølgning.
-På denne bakgrunn mener utvalget at det ikke
-er grunn til å anta at en erstatningsordning vil
-påvirke politiets og påtalemyndighetens arbeid.
-Det er heller ikke grunn til å tro at den som straffeforfølges, innretter seg etter erstatningsordningen på en bestemt måte.8 Derimot kan man ikke
-se bort fra at prevensjonssynspunkter kan gjøre
-seg sterkere gjeldende ved innretningen av
-enkelte sider av erstatningsordningen, for eksempel ansvaret overfor juridiske personer og reglene
-om skadelidtes medvirkning til straffeforfølgningen.9
-5
-6
-7
-8
-9
-
-Se Ot.prp. nr. 77 (2001–2002) s. 15.
-Se Uggerud (1998) s. 363–364.
-Se Statens sivilrettsforvaltning (2014) s. 12–13.
-Se også Uggerud (1998) s. 363.
-Se drøftelsen nedenfor i punkt 27.3.2 og 27.4.
-
-[Side 515]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-27.2.3 Betydningen av uskyldspresumsjonen
-Uskyldspresumsjonen er et strafferettslig prinsipp som innebærer at en person skal anses som
-uskyldig i å ha begått en straffbar handling inntil
-det er bevist at vedkommende er skyldig. Se nærmere punkt 13.2.7 og 13.2.8. Dersom reglene om
-erstatning for forfølgning utformes på en måte
-som innebærer at det tas stilling til vedkommendes skyld, vil det kunne medføre at praksis kan
-komme i konflikt med uskyldspresumsjonen.
-Et sentralt formål med den siste revisjonen av
-reglene om erstatning fra staten i anledning straffeforfølgning var å styrke uskyldspresumsjonens
-gjennomslag. Sentralt var at reglene skulle sikre
-oppfyllelse av statens forpliktelser etter Den europeiske menneskerettskonvensjon (EMK) artikkel
-6 nr. 2 og FN-konvensjonen om sivile og politiske
-rettigheter (SP) artikkel 14 nr. 2. Uskyldspresumsjonen er nå også inntatt i Grunnloven § 96 annet
-ledd. Det er holdepunkter for at adgangen til å
-utforme erstatningsordninger som innebærer at
-man stiller spørsmål ved skadelidtes uskyld, er
-noe videre enn tidligere antatt, herunder at det
-kan stilles krav om at skadelidte må sannsynliggjøre sin uskyld i straffesaker som har endt med
-henleggelse eller frifinnelse.10
-Utvalget mener uansett det er grunn til å holde
-fast ved idealet som uskyldspresumsjonen er
-utslag av ved avgjørelse av erstatningskrav, og at
-man derfor bør unngå å tematisere skyldspørsmålet nærmere etter avsluttet straffesaksbehandling.
-I forarbeidene til de gjeldende reglene i
-straffeprosessloven kapittel 31 ble det fremhevet
-to mulige og uheldige konsekvenser av å gi den
-strafferettslige uskyldspresumsjonen et sterkt
-gjennomslag også i erstatningsordningen, slik at
-det åpnes for at «reelt skyldige» kan få erstatning.
-For det første ble det uttrykt en bekymring for
-at «retten til erstatning kan bli utnyttet i organisert kriminalitet», og «at kriminalitetsbekjempelsen uthules ved at [den] gir mulighet til å finansiere fortsatt kriminalitet».11 Grunnlaget for å anta
-stor grad av korrelasjon mellom «reell skyld» og
-at erstatningen går til kriminell virksomhet, er
-rimeligvis usikkert. Dertil kommer at også reelt
-uskyldige kan tenkes å bruke erstatningen på kriminalitet. Det må anses tvilsomt om det å
-begrense «reelt skyldiges» rett til erstatning på
-dette grunnlaget er et treffsikkert eller egnet middel i kriminalitetsbekjempelsen. Det kan legges til
-10
-
-Se Allen mot Storbritannia (25424/09), dom 12.07.13 (storkammer) og Rui (2014b).
-11
-Se Ot.prp. nr. 77 (2001–2002) begge steder s. 15.
-
-513
-
-Kapittel 27
-
-at det vil være fremmed for vår rettsorden om den
-som utsettes for skadevoldende handlinger, ikke
-skulle ha rett til erstatning for økonomisk tap av
-preventive grunner som knytter seg til den senere
-bruken av erstatningsutbetalingen.
-For det andre antok man i forarbeidene til
-dagens lov at det kunne svekke tilliten til
-rettspleien at reelt skyldige «kan få erstatning og
-på den måten få en gevinst av straffbare
-handlinger som de ikke blir dømt for».12 Argumentet er et utslag av en gammel tanke som
-gjerne formuleres som at «ingen skal tjene på
-egen urett» (commodum ex iniuria sua non habere
-debet), som blant annet har gitt seg uttrykk i arveloven § 73 om avskjæring av arv til den som har
-forvoldt arvelaters død. Utvalget mener det vil
-være å strekke denne rettferdighetstanken for
-langt om den også skal føre til bortfall av erstatning for den som er frifunnet i en straffesak, fordi
-kravet til å bli ansett uskyldig etter frifinnelse bør
-stå særlig sterkt etter straffeprosessens egne
-regler som ordningen med erstatning etter
-straffeforfølgning er del av.
-Det ovennevnte tilsier at man bør holde fast
-ved utgangspunktet om at skadelidte kompenseres for tap og lidelse som staten har påført vedkommende, uten en nærmere tematisering av om
-vedkommende «tjener» på egen urett.
-I det lange løp er tilliten til rettspleien og statsforvaltningen antakelig bedre tjent med et system
-som utbetaler erstatning til personer som er
-«reelt» skyldige, enn et system som regelmessig
-stiller spørsmål ved om personer som er frifunnet,
-likevel er skyldige. Kraften i en strafferettslig frifinnelse vil formentlig svekkes dersom det for
-erstatningsspørsmålet stilles spørsmål ved eller
-legges til grunn at vedkommende har begått
-handlingen. Se også om ensrettingsprinsippet i
-punkt 25.2.
-Endelig nevnes at en erstatningsordning hvor
-skadelidte må sannsynliggjøre sin uskyld, blir
-utfordrende og problematisk å håndtere forsvarlig
-ved en slik administrativ prosess som vårt nåværende behandlingssystem bygger på, og som har
-vist seg å være effektiv.
-27.2.4 Betydningen av behandlingsform
-Et viktig mål for en ordning om erstatning etter
-straffeforfølgning må være at den kan
-administreres på en effektiv måte. Dagens ordning innebærer at erstatningskravene i første
-omgang behandles av forvaltningen, ved Statens
-12
-
-Se Ot.prp. nr. 77 (2001–2002) s. 15.
-
-[Side 516]
-
-514
-
-Kapittel 27
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-sivilrettsforvaltning. Behandlingen av kravene har
-vist seg effektiv og har bidratt til en hensiktsmessig avlasting av domstolene.
-Erstatningsordningen bør gis en utforming som
-ivaretar og forbedrer denne innordningen av saksbehandlingen. Dette innebærer at de prosessuelle
-reglene må gis en utforming som sikrer en betryggende, men effektiv behandling. Saksbehandlingen
-er i dag i liten grad gjenstand for uttrykkelig regulering. God behandling i første instans med klare
-rammer for saksbehandlingen kan bidra til å redusere behovet for domstolsbehandling og styrke tilliten til hvordan kravene behandles. Påtalemyndigheten er gitt en rolle i saksbehandlingen men det er
-noe uklart om dette gir verdifulle bidrag, og kanskje heller forsinker prosessen. Disse spørsmålene
-behandles nærmere i punkt 27.5.
-Hvis den administrative førsteinstansbehandlingen skal ivareta sitt formål, kan det også være
-nødvendig å gi de materielle reglene en bestemt
-utforming. De materielle reglene bør utformes
-med sikte på at erstatningskravene skal få en tilfredsstillende avklaring ved den administrative
-behandlingen, som verken kan stille krav til muntlighet eller bevisumiddelbarhet. Herunder bør
-reglene rettsteknisk sett være enkle og begrense
-rommet for skjønnsutøvelse for å sikre rettssikkerhet og likebehandling. Dette vil også kunne
-bidra til at behandlingen i første instans blir enda
-mer effektiv, og kan dessuten redusere behovet
-for behandling i domstolene.
-27.2.5 Betydningen av de løsninger som er valgt
-i erstatningsretten, og hensynet til
-sammenheng i rettssystemet
-Spørsmålet er hvilken betydning erstatningsrettens alminnelige løsninger bør ha for hvordan ordningen med erstatning etter forfølgning utformes.
-Løsningene i erstatningsretten er et resultat av
-lang tids erfaringer og må i alminnelighet antas å
-ha gode grunner for seg og reflektere sentrale
-rettslige verdier i samfunnet vårt.
-Et viktig hensyn for alt lovgivningsarbeid er
-at det velges løsninger som harmonerer godt
-med verdier og synspunkter som ligger til grunn
-for likeartede regler i rettssystemet, med mindre
-det kan utpekes særlige hensyn som tilsier
-avvikende løsninger. Gjør man ikke det, kan
-systemet bli usammenhengende, med løsninger
-som er vanskelige å begrunne. Det kan igjen gi
-konkrete, uheldige utslag når reglene skal praktiseres.13
-For ordningen med erstatning i anledning
-straffeforfølgning er det i denne sammenheng
-
-sentralt at erstatningsordningen verken tar eller
-kan ta sikte på å regulere retten til erstatning
-uttømmende. Det taler for at reglenes utforming
-bør harmonere godt med de alminnelige erstatningsrettslige løsningene.
-Etter den gjeldende erstatningsordningen kan
-det i hvert fall gis tre eksempler på reguleringer
-som kan bidra til at krav i anledning straffeforfølgning heller behandles etter alminnelige erstatningsrettslige regler: For det første er retten til
-erstatning og oppreisning avgrenset ut fra straffeprosessuelle begrepsdannelser ved at det er «siktede» i straffeprosessloven §§ 444, 445 og 447 som
-er berettiget jf. § 82. Ut fra en erstatningsrettslig
-betraktning må det være likegyldig om skadelidtes straffeprosessuelle status var «mistenkt»
-eller «siktet» da skadeforvoldelsen skjedde, se
-punkt 27.3.1. For det andre er utformingen og
-praktiseringen av avkortingsregelen i straffeprosessloven § 446 langt strengere mot skadelidte
-enn det som ville være tilfellet etter skadeserstatningsloven § 5-1, se punkt 27.4. For det tredje er
-retten til erstatning for tredjepersoner («andre
-enn siktede») etter straffeprosessloven § 448
-begrenset til skade som er påført ved bestemte
-straffeprosessuelle tvangsmidler eller andre etterforskingsskritt.
-En restriktiv utforming av vilkårene etter
-erstatningsordningen kan på den ene siden gjøre
-det mer attraktivt å fremme erstatningskrav på
-alminnelig grunnlag. Ressurssterke personer må
-antas å ville søke slike muligheter, for eksempel
-hvis det innføres en øvre beløpsgrense. På den
-annen side kan ressurssvake personer, som bare
-har krav etter de alminnelige reglene, helt gå
-glipp av retten til erstatning på grunn av byrdene
-ved å gå til sak.
-En innretning av erstatningsordningen som
-avviker fra alminnelig erstatningsrettslig tenkemåte, vil altså som følge av ulik tilgang på ressurser kunne medføre rettsulikhet og ujevn og lite
-effektiv realisering av de materielle erstatningsreglenes formål. Selv om det er usikkert om og
-hvilken grad slike virkninger vil inntre, bør slike
-åpenbart utilsiktede konsekvenser av reglene
-motvirkes ved å utforme erstatningsordningen
-med et blikk for de løsninger som er lagt til grunn
-i erstatningsretten ellers.
-Dette utgangspunktet må imidlertid fravikes
-når forhold tilsier en særskilt innretning av ordningen for erstatning etter straffeforfølgning, som
-ikke bør gjelde for den alminnelige erstatningsret13
-
-Se Frøberg (2014) s. 281 flg. om koherens- og konsekvensbasert argumentasjon.
+*Annet ledd bokstav e* viderefører uttaleretten etter straffeprosessloven. Spørsmålet må *direkte* angå fornærmede eller etterlatte. Kravet skal ikke tolkes for strengt. Dessuten kan det også utenom de tilfeller der bistandsadvokaten har rett til å uttale seg, være naturlig å ta i betraktning bistandsadvokatens syn.
+
+*Annet ledd bokstav f* viser til rettens plikt til å underrette bistandsadvokaten om rettsavgjørelser i saken, jf. utkastet § 32-10 første ledd og merknadene til denne bestemmelsen. Slik underretning er den eneste informasjonsrettigheten som er særskilt inntatt i katalogen i annet ledd. Underretning om etterforskingen mv. vil bistandsadvokaten kunne motta ved at vedkommende utøver fornærmedes rettigheter på dennes vegne.
+
+*Til § 4-6. Formelle krav for å være bistandsadvokat. Bistand til advokatoppdraget*
+
+Se straffeprosessloven § 107 b femte ledd, jf. § 95 annet ledd og domstolloven §§ 218, 220, 221 og 223. For utenlandske advokater, se advokatforskriften kapittel 10.
+
+En bistandsadvokat er i første rekke advokat med norsk advokatbevilling. Advokatfullmektig kan opptre på prinsipalens vegne innenfor rammen av § 4-5. Det gjelder dessuten enkelte begrensninger i adgangen til å opptre for domstolene for fullmektiger, jf. domstolloven § 223 som det er henvist til i bestemmelsen.
+
+Utenlandske advokater kan etter *første ledd bokstav b* oppnevnes når det er «ubetenkelig». I dette ligger at det må være klart at vedkommende har tilstrekkelig kunnskap om norsk straffeprosess og øvrige relevante rettsregler til at saken kan håndteres på tilfredsstillende måte, noe som må bedømmes konkret for den enkelte sak. Foreligger det språklige eller geografiske hindringer, bør vedkommende ikke oppnevnes.
+
+*Annet ledd* fastslår prinsippet om at oppdraget skal være personlig. I kravet om at det må være «ubetenkelig» å overlate deler av oppdraget til andre, ligger en vurdering både av sakens karakter og klientens behov for at oppdraget utføres av samme person. Loven er ikke til hinder for at det benyttes fullmektig til å utføre deler av oppdaget ved behov, men kjernen i oppdraget kan ikke overlates til andre. Ser vedkommende bistandsadvokat at det ikke vil bli mulig å utføre hoveddelen av oppdraget selv, skal vedkommende ikke påta seg oppdraget. Se tilsvarende regulering for forsvareren i utkastet § 3-8 annet ledd og merknadene til denne bestemmelsen. Prinsippet om at oppdraget er personlig, skal ikke omgås, for eksempel ved at det innhentes midlertidig samtykke fra fornærmede eller etterlatte om at bistanden gis av en annen.
+
+*Til § 4-7. Habilitet*
+
+Se straffeprosessloven § 107 b annet ledd fjerde punktum og advokatforskriften kapittel 12 punkt 3.2. Se også Advokatforeningens retningslinjer for bistandsadvokater punkt 1.7.
+
+*Første ledd* slår fast prinsippet om profesjonell uavhengighet. Man kan således ikke påta seg oppdrag dersom man selv er mistenkt, fornærmet eller etterlatt, og heller ikke for nære slektninger, nåværende eller tidligere ektefelle eller samboer, fosterforelder eller fosterbarn eller noen en er verge eller fullmektig for. Man er også inhabil hvis det foreligger andre særegne forhold som er egnet til å svekke tilliten til ens upartiskhet.
+
+*Annet ledd* slår fast kravet til uavhengighet fra andre klienter mv., se advokatforskriften kapittel 12 punkt 3.2 og Advokatforeningens retningslinjer for bistandsadvokater punkt 1.7. Uttrykket «samme kontor» skal forstås som enhver fysisk eller selskapsrettslig sammenslutning. For selskap gjelder bestemmelsen uavhengig av om kontorene ligger geografisk adskilt.
+
+*Tredje ledd* innebærer et innhugg i det frie advokatvalget og viderefører straffeprosessloven § 107 b annet ledd fjerde punktum. Oppstår det forhold som tilsier utilrådelighet underveis i saken, skal det oppnevnes ny bistandsadvokat. Se til illustrasjon Rt. 2007 s. 1047, der det ble besluttet tvungent forsvarerskifte i sak hvor den aktuelle advokat var observert med en oppslått avis foran en siktet som var varetektsfengslet med brev- og besøksforbud, forbud mot tilgang til aviser og kringkasting og under full isolasjon.
+
+*Til § 4-8. Bistandsadvokatens taushetsplikt*
+
+Se straffeprosessloven § 107 i.
+
+Bistandsadvokatens taushetsplikt omfatter, i likhet med forsvarerens, all informasjon vedkommende får i forbindelse med oppdraget, uavhengig av form eller hvem informasjonen mottas fra. Tilsvarende gjelder for den som handler i bistandsadvokatens tjeneste. Se utkastet § 3-10 og merknadene til bestemmelsen. Utkastet her skal forstås på samme måte.
+
+*Til § 4-9 Rett til bistandsadvokat*
+
+Se straffeprosessloven §§ 100 annet ledd siste punktum og 107 a. Se også drøftelsen i punkt 10.3.4.
+
+Fornærmede og etterlatte har etter *første ledd bokstav a* krav på bistandsadvokat ved alvorlige integritetskrenkelser. Forsøk på slike overtredelser er omfattet. Oppregningen av overtredelser som gir rett til bistandsadvokat, er endret sammenlignet med gjeldende rett, ved at overtredelser av § 266 a om stalking, § 274 om grove kroppskrenkelser og § 327 om ran er lagt til. Overtredelser av § 304 om seksuelle handlinger og § 168 om brudd på oppholds- og kontaktforbud er tatt ut. Ved overtredelser av de to sistnevnte straffebudene vil imidlertid fornærmede ved behov kunne få oppnevnt bistandsadvokat etter den skjønnsmessige regelen, jf. nedenfor. Retten til bistandsadvokat etter første ledd begrenses av *femte ledd*. Uttrykket «unødvendig» i femte ledd skal forstås slik at det ikke er kurant å gjøre unntak. Representasjon må være unødvendig både i lys av type sak og den enkelte fornærmede.
+
+Vilkåret for oppnevning på skjønnsmessig grunnlag skal forstås som etter gjeldende rett. Typiske eksempler på saker som etter *tredje ledd* kan føre til oppnevning, er overtredelser av besøksforbud, seksuelle handlinger, grove kroppskrenkelser og drapsforsøk. Det kreves ikke status som fornærmet eller etterlatt for oppnevning, men behovet for bistandsadvokat må knytte seg til gjennomføringen av straffesaken og begrunnes med utøvelsen av prosessuelle rettigheter og plikter. Se ellers til illustrasjon Rt. 2011 s. 1321, som gjaldt et vitne som ikke fikk oppnevnt bistandsadvokat.
+
+*Til § 4-10 Koordinerende bistandsadvokat*
+
+Se straffeprosessloven § 107 h.
+
+Bestemmelsen skal sikre at bistandsadvokatenes rolle ikke kommer i veien for en effektiv prosess i saker der det er mange slike aktører. Utkastet legger opp til at terskelen for bruk av koordinerende bistandsadvokat skal senkes noe sammenlignet med dagens hjemmel og praksis, se drøftelsen i punkt 10.3.8. Vedkommende skal i hovedsak bidra til å lette gjennomføringen av saken, blant annet ved å koordinere de ulike fornærmedes og deres representanters syn på ulike spørsmål og å videreformidle informasjon til de øvrige bistandsadvokatene. Ved behov kan den koordinerende bistandsadvokaten også være til stede i avhør og rettsmøter på alles vegne. Vedkommende skal imidlertid ikke gripe inn i den enkelte bistandsadvokatens ivaretakelse av sin klient.
+
+Vurderingen av om det skal oppnevnes koordinerende bistandsadvokat, skal ta utgangspunkt i antallet fornærmede og andre med bistandsadvokat, og sakens omfang og kompleksitet. Den typiske sak der det er behov for ordningen, vil være stor, med mange fornærmede. Men det bør også ellers søkes oppnevnt koordinerende bistandsadvokat når det vil være praktisk og prosessøkonomisk nyttig at én person har en samordnende rolle.
+
+Den som oppnevnes, kan være en av de allerede oppnevnte bistandsadvokatene eller en annen egnet person som ikke har klienter i sakskomplekset. Beslutningen om å oppnevne eller ikke oppnevne koordinerende bistandsadvokat, og rettens valg av advokat til oppdraget, kan angripes ved anke.
+
+*Til § 4-11. Oppnevning av bistandsadvokat. Felles bistandsadvokat*
+
+Se straffeprosessloven § 107 b.
+
+Oppnevning av bistandsadvokat skal i det vesentlige skje som i dag, jf. *første ledd*.
+
+*Annet ledd første punktum* slår fast prinsippet om at fornærmede og etterlatte som den klare hovedregel fritt kan velge sin bistandsadvokat, se straffeprosessloven § 107 b annet ledd. Begrensningene tilsvarer det som gjelder for det frie forsvarervalget, se utkastet § 3-22 annet ledd og merknadene til bestemmelsen.
+
+*Annet ledd tredje punktum* åpner for bruk av felles bistandsadvokat for flere fornærmede og etterlatte, se drøftelsen i punkt 10.3.7. Pålegg om bruk av felles bistandsadvokat vurderes særskilt for den enkelte sak med utgangspunkt i momentene i *annet ledd tredje punktum bokstav a til d*. Er det motstridende interesser mellom de fornærmede, er felles representasjon utelukket. Retten skal vurdere spørsmålet om interessekonflikt både før det treffes beslutning om oppnevning av felles bistandsadvokat, og underveis i saken. I vurderingen av hva som skal anses «hensiktsmessig» etter tredje punktum, skal også fornærmedes interesser etter loven tas i betraktning. Har for eksempel en fornærmet i lengre tid forholdt seg til en bistandsadvokat under etterforskingen og knyttet sterke bånd til denne, skal vedkommende i alminnelighet ikke mot sin vilje pålegges advokatskifte ved oppstart av hovedforhandlingen.
+
+De angitte momentene har nær sammenheng, og ofte vil flere være til stede samtidig. Felles bistandsadvokat vil være særlig aktuelt i større saker med mange fornærmede, jf. *tredje punktum bokstav a*. Pålegg om felles advokat skal ikke utløses ved et bestemt antall fornærmede eller etterlatte med krav på bistand. Også i saker med færre fornærmede, men hvor det er tale om vanskelige faktiske eller juridiske spørsmål, kan det være aktuelt at en felles bistandsadvokat med særskilte kvalifikasjoner setter seg inn i sakskomplekset, jf. *tredje punktum bokstav b*. I begge tilfeller har spørsmålet om felles representasjon en åpenbar side til prosessøkonomiske hensyn, jf. *annet ledd bokstav c*. Restkategorien i *tredje punktum bokstav d* er ment for saker hvor det av andre grunner enn de nevnte er klart at det ikke er behov for mer enn én bistandsadvokat som kan ivareta interessene til en gruppe fornærmede. I praksis har det for eksempel vist seg at det i saker om familievold ofte kan være uproblematisk at to eller flere barn har felles representasjon. Er det mest hensiktsmessig at de fornærmede har hver sin bistandsadvokat, men at enkelte spørsmål behandles samlet, skal det benyttes koordinerende bistandsadvokat etter utkastet § 4-10.
+
+Retten plikter å sørge for at det settes klare rammer for oppdraget. Bistandsadvokaten kan oppnevnes for hele saken eller for en bestemt del av den, jf. *tredje ledd*. Se om den tilsvarende reguleringen for forsvareroppdraget i utkastet § 3-22 fjerde ledd og merknadene til bestemmelsen.
+
+*Til § 4-12. Faste bistandsadvokater*
+
+Se straffeprosessloven § 107 g.
+
+Bestemmelsen regulerer ordningen med faste bistandsadvokater. Om forståelsen av bestemmelsen, se merknaden til utkastet § 3-23 om den tilsvarende ordningen for forsvarere. Utvalget er delt i synet på om antall faste bistandsadvokater bør økes betydelig sammenlignet med dagens ordning, se drøftelsene i punkt 9.4.3.8 og 10.3.9.
+
+Med hjemmel i utkastet § 4-14 skal nærmere vilkår om arbeids- og prosedyreerfaring mv. for de faste bistandsadvokatene fastsettes i forskrift.
+
+*Til § 4-13. Godtgjørelse til bistandsadvokaten*
+
+Se straffeprosessloven § 107 d.
+
+Godtgjørelsen til bistandsadvokatene fastsettes etter salærforskriften.
+
+*Til § 4-14. Forskrifter om bistandsadvokater*
+
+Se straffeprosessloven § 107 g annet ledd. Etter første ledd skal det fastsettes utfyllende bestemmelser om faste bistandsadvokater i forskrift, jf. uttrykket «gir» og merknaden til § 4-12.
+
+**Til kapittel 5. Domstolene**
+
+Kapittel 5 inneholder bestemmelser om domstolenes saklige og stedlige kompetanse og om rettens sammensetning.
+
+Kapitlet erstatter langt på vei straffeprosessloven kapittel 2 og 3, men enkelte bestemmelser derfra er overført til andre deler av lovutkastet. Dette gjelder blant annet bestemmelsene om forening og utsettelse av straffesaker som er inntatt i del 6 om generelle regler om rettens saksbehandling og avgjørelser.
+
+Kapittel 5 er strukturert kronologisk etter instans, både hva angår regulering av myndighet og sammensetning. Regler om valg av verneting er inntatt til slutt.
+
+*Til § 5-1. Forholdet mellom domstolene og straffesakens øvrige aktører*
+
+Se straffeprosessloven §§ 63 og 81. Se også drøftelsen i punkt 17.6.
+
+Anklageprinsippet er nedfelt i *første ledd første punktum*: Retten kan bare avgjøre det kravet som er fremmet til behandling. Reguleringen viderefører straffeprosessloven § 63 og praksis knyttet til denne bestemmelsen, og skal forstås i sammenheng med øvrige utslag av anklageprinsippet andre steder i lovutkastet. Se særlig utkastet § 32-3 og merknadene til bestemmelsen. Se også utkastet § 7-4 om rettens ansvar for sakens opplysning, merknadene til bestemmelsen og punkt 13.2.5. Saksbegrepet skal forstås snevert i lys av reguleringen av rettens forhold til partenes krav og påstander. Retten kan for eksempel ikke ta stilling til et spørsmål om isolasjon i en fengslingssak når det ikke er begjært. Et unntak fra prinsippet er reglene om rettergangsstraff, jf. domstolloven kapittel 10.
+
+Alle aktørene i saken – herunder Kriminalomsorgen og Gjenopptakelseskommisjonen – kan på ulike grunnlag fremme begjæring om rettens avgjørelse. En begjæring for retten som ikke er fremsatt av rette vedkommende, skal som hovedregel avvises. Retten tar stilling til kompetansespørsmålet av eget tiltak, jf. *annet ledd*.
+
+*Til § 5-2. Tingrettens myndighet*
+
+Se straffeprosessloven §§ 5 og 261.
+
+*Til § 5-3. Lagmannsrettens myndighet*
+
+Se straffeprosessloven §§ 6 og 8 første ledd.
+
+Lagmannsretten behandler også anke over vedtatt forelegg, jf. utkastet § 29-11, hvor det fremgår at forelegg «kan ankes av partene etter reglene for anke over dom», og merknadene til bestemmelsen.
+
+*Til § 5-4. Høyesteretts myndighet*
+
+Se straffeprosessloven §§ 7 og 8 første ledd.
+
+*Bokstav b* omfatter både dommer og andre beslutninger avsagt av tingretten. Innholdet i vilkårene for direkte behandling skal forstås som etter straffeprosessloven § 8 første ledd. Det kreves i tillegg at anken oppfyller lovens øvrige vilkår for behandling i Høyesterett, jf. utkastet §§ 38-2 og 38-3 annet ledd. Tillatelse til direkte behandling gis av Høyesteretts ankeutvalg.
+
+*Til § 5-5. Tingrettens sammensetning*
+
+Se straffeprosessloven §§ 54, 130 a fjerde ledd, 276 første til fjerde ledd og 277.
+
+Rettsmøter under etterforskingen, typisk fengslinger, omfattes av *første ledd bokstav a*. Saker som avgjøres etter forenklet behandling, er regulert i *første ledd bokstav b*. Etter *første ledd bokstav c* er det et vilkår for å sette saken med én fagdommer at det kun er «spørsmål om» å idømme bot, og sammensetningen i slike tilfeller skal avgjøres på grunnlag av påtalemyndighetens vurdering, jf. utkastet § 34-1 første ledd bokstav d.
+
+*Annet ledd første punktum* erstatter innholdet i straffeprosessloven § 276 første ledd første punktum. Det gjelder ikke begrensninger i adgangen til å sette rett med dommerfullmektig, og det er således opp til den enkelte domstolleder å fordele saker til fullmektigen på bakgrunn av vedkommendes personlige egnethet.
+
+Etter *annet ledd annet punktum* kan retten forsterkes med ytterligere én fagdommer og én meddommer i visse saker. Straffeprosesslovens vilkår om at saken må være «særlig» omfattende, er ikke videreført, og det tas sikte på å senke terskelen noe for å forsterke retten sammenholdt med gjeldende § 276 annet ledd. Regelen vil likevel være mest aktuell for store eller langvarige saker, saker med spesielt vanskelige juridiske eller faktiske spørsmål og saker med mange aktører. Spørsmålet om forsterket rett avgjøres av domstolens leder. Beslutningen kan ikke ankes.
+
+Behovet for å styrke retten med én eller flere fagkyndige etter *tredje ledd* vurderes av forberedende dommer. Vurderingstemaet skal være som etter straffeprosessloven § 277. Det skal ses hen til sakens art og kompleksitet. Utgangspunktet er at dommerne skal være generalister og få eventuell faglig veiledning ved bruk av rettsoppnevnte sakkyndige. Terskelen for oppnevning skal derfor være nokså høy. Typisk vil det kunne være behov for å tilføre retten kunnskap gjennom fagkyndighet i militære straffesaker og i økonomiske straffesaker. Med utgangspunkt i de samme momenter kan retten vurdere hvorvidt det skal utpekes én eller flere fagkyndige. Prosedyren for oppnevning følger av utkastet § 5-7, jf. domstolloven § 94.
+
+*Fjerde ledd* regulerer hvilke avgjørelser som kan treffes av rettens leder. Ved bruk av forsterket rett treffes slike avgjørelser av administrator.
+
+*Til § 5-6. Lagmannsrettens sammensetning*
+
+Se straffeprosessloven §§ 54, 130 a fjerde ledd, 274 første ledd, 332 og 352. Se også domstolloven § 12.
+
+Utkastet samler bestemmelsene om lagmannsrettens sammensetning utenfor ankeforhandling og ved ankeforhandling.
+
+Lagmannsretten settes alltid med tre fagdommere utenfor hovedforhandling, typisk ved ankesiling, skriftlig behandling eller muntlig behandling av anke over beslutning, jf. *første ledd bokstav a*. Skriftlig behandling kan følge av partenes samtykke eller av at retten finner slik behandling åpenbart forsvarlig og hensiktsmessig, se utkastet § 39-2 tredje ledd og merknadene til denne bestemmelsen.
+
+Når retten er satt etter første ledd, kan saken ikke fortsette om en av dommerne får forfall, jf. domstolloven § 15 annet ledd.
+
+Etter *annet ledd* skal lagmannsretten settes med meddommere ved avgjørelsen av alle bevisanker og alle anker over reaksjonsfastsettelsen. Dersom retten settes med meddommere, deltar de ved avgjørelsen av alle spørsmål som står til behandling. Dersom forutsetningene for ankebehandlingen endres underveis i saken med betydning for sammensetningen etter annet ledd, skal lekdommere tilkalles.
+
+For så vidt gjelder *tredje ledd,* vises det til merknadene til utkastet § 5-5 tredje ledd, som gjelder tilsvarende.
+
+Etter *fjerde ledd* er det som hovedregel saksforberedende dommer som treffer avgjørelser under saksforberedelsen. Spørsmål om tiltak for å sikre hemmelighold av et vitnes identitet etter § 10-10, om å avvise saken eller frifinne tiltalte etter utkastet § 34-13 og spørsmål om å avgjøre anken uten ankeforhandling etter § 39-2 annet ledd avgjøres imidlertid av tre dommere.
+
+*Til § 5-7. Oppnevning av fagkyndige meddommere*
+
+Se straffeprosessloven §§ 277 første ledd og 332 første ledd.
+
+Bestemmelsen slår fast prosedyren for oppnevning av fagkyndige meddommere etter utkast §§ 5-5 tredje ledd og 5-6 tredje ledd. Oppnevning skal som hovedregel foretas under saksforberedelsen på bakgrunn av beskrivelsen av saksforholdet i tiltalebeslutningen.
+
+Retten avgjør om fagkyndige meddommere skal oppnevnes, og hvem som skal oppnevnes. Retten er ikke bundet av at partene blir enige om hvem de ønsker oppnevnt etter *tredje punktum*, selv om det bør tas særlig hensyn til dette ved avgjørelsen.
+
+*Til § 5-8. Varamedlemmer for meddommerne*
+
+Se straffeprosessloven §§ 276 femte ledd og 332 første ledd annet punktum.
+
+Bestemmelsen gjelder for tingretten og lagmannsretten. Se for øvrig domstolloven § 15 første ledd. Utkastet viderefører gjeldende rett for så vidt gjelder varamedlemmers plikt til å være til stede under forhandlingene og deres anledning til å uttale seg under saken. Et varamedlem skal ved behov kunne tre inn med samme forutsetninger som om vedkommende hadde vært meddommer under hele saken. Bestemmelsen åpner for at varadommeren kan tilkalles til rådslagninger etter at saken er tatt opp til doms.
+
+Saksforberedende dommer avgjør om saken bør settes med varamedlemmer, samt omfanget av deltakelsen. Ved vurderingen skal det legges vekt på konsekvensen av forfall. Innebærer forfall at hele saken må behandles på nytt eller utsettes, og dette kan bli særlig ressurskrevende, bør det utpekes varamedlemmer. I langvarige saker vil bruk av varamedlemmer være særlig aktuelt. Dommerens beslutning kan etter sin art ikke ankes, jf. utkastet § 37-2 første ledd.
+
+*Til § 5-9. Høyesteretts sammensetning*
+
+Se domstolloven § 5 og straffeprosessloven §§ 8 første ledd, 320, 323 første ledd, 387 a og 388 annet ledd.
+
+*Til § 5-10. Verneting*
+
+Se straffeprosessloven §§ 10 og 12.
+
+Bestemmelsen viderefører gjeldende rett for så vidt gjelder verneting for enkeltstående rettergangsskritt, hovedforhandling og handlinger om bord på skip eller luftfartøy. Uttrykket «som regel», jf. *første ledd*, innebærer at påtalemyndigheten kan velge det verneting som er mest hensiktsmessig for sakens opplysning. Retten kan overprøve skjønnet. For så vidt gjelder senere bruk av et rettergangsskritt som er gjennomført ved feil verneting og domstolens hastekompetanse, se domstolloven § 42.
+
+*Til § 5-11. Adgang til å fravike vernetingsreglene*
+
+Se straffeprosessloven §§ 11 og 14 til 16.
+
+Bestemmelsen gjelder for enkeltstående rettergangsskritt og hovedforhandling i saken og viderefører i det vesentlige gjeldende rett for valg av verneting i de tilfeller der dette ikke kan påvises, eller det er grunn til å behandle saken ved et annet verneting enn det som følger av lovens hovedregel. Eksempler kan være ved forening av saker, eller saker hvor enkelte forhold skal behandles ved særskilt verneting etter forskrift gitt i medhold av utkastet § 42-10.
+
+Påtalemyndigheten skal velge det stedet der saken best kan opplyses, jf. *første* og *annet* ledd. Ved uenighet mellom påtalemyndigheten i ulike politidistrikt avgjøres spørsmålet av høyere påtalemyndighet. Retten prøver bare om det er adgang til å fravike vernetingsreglene i tilfeller der mistenkte eller et vitne protesterer, samt når mistenkte uteblir uten å gi samtykke etter *tredje ledd*.
+
+Når en sak deles etter at den er brakt inn for retten, jf. *annet ledd*, vil domstolen som har fått saken til behandling, være kompetent til å behandle også de delene av den som etter de alminnelige reglene hører under en annen domstol. Rettens valgfrihet gjelder etter ordlyden fra saken er innkommet domstolen.
+
+**Til kapittel 6. Innsyn i sakens opplysninger**
+
+Lovutkastet kapittel 6 inneholder bestemmelser om aktørenes og allmennhetens adgang til å gjøre seg kjent med opplysninger i straffesaker. Kapitlet gir en samlet regulering av innsynsrett på alle stadier i prosessen.
+
+Reglene om innsyn ble sist endret ved lov 13. juni 2013 nr. 86, se Prop. 147 L (2012–2013) endringer i straffeprosessloven mv. (behandling og beskyttelse av informasjon), særlig s. 25 til 72. Det er videre avsagt et betydelig antall avgjørelser i Høyesterett om innsynsrettens omfang. Utvalgets utkast samler og viderefører i det vesentlige dagens regulering. Se om bakgrunnen for forslagene i kapittel 12.
+
+Utgangspunktet etter loven er at det skal gis innsyn. Adgangen til å begrense tilgangen til opplysninger følger i hovedsak av unntaksregler for ulike stadier: forut for tiltale, etter tiltale og etter at en sak er avsluttet. Dessuten er det gitt stadieovergripende unntaksregler for opplysninger om anonyme vitner og tvangstiltak som ikke er iverksatt, og for opplysninger som ikke vil bli påberopt som bevis i saken eller som er fremlagt for retten som grunnlag for bruk av tvangstiltak. Kapitlet inneholder også bestemmelser om hvordan og når det skal gis tilgang til opplysninger, og om behandling av begjæringer om å gi eller nekte innsyn.
+
+*Til § 6-1. Rett til innsyn for mistenkte og forsvareren. Sakens opplysninger*
+
+Se straffeprosessloven §§ 28 første ledd bokstav a, 242 første, annet og femte ledd, 264 første, syvende og åttende ledd, 267 første ledd og 398 femte ledd. Se også drøftelsen i punkt 12.4.2.
+
+Adgangen til innsyn etter *første ledd* omfatter «sakens opplysninger» slik disse er definert i annet ledd, og gjelder med mindre det er etablert særskilte unntak. Bestemmelsen må forstås og praktiseres i lys av retten til kontradiktorisk saksbehandling og kravet til likebehandling av partene. Om «mistenkte» og «forsvareren», se nærmere kapittel 9 og utkastet §§ 3-1, 3-7 og 3-8. Om gjennomføring av innsynsretten vises det til utkastet § 6-10 og kommentarene til bestemmelsen.
+
+Opplysninger av betydning for forberedelsen og behandlingen av sivile krav skal gis i medhold av utkastet §§ 43-7 første ledd og 43-3, jf. § 6-2. Spørsmål om innsyn i sak som er begjært gjenåpnet, følger hovedreglene i kapittel 6.
+
+*Annet ledd* definerer «sakens opplysninger». Uttrykket «opplysninger» skal forstås vidt og omfatter enhver informasjonsbærer, som tradisjonelle dokumenter, kart, skisser, film, elektronisk lagret informasjon og materiale fra kommunikasjonskontroll. Hva gjelder nærmere undersøkelse av ting, for eksempel av originaldokumenter med tanke på tidfesting eller vurdering av autentisitet, vises det til utkastet § 12-1.
+
+Med «\[s\]akens» opplysninger siktes det til informasjon fra undersøkelser rettet mot det forhold mistanken gjelder. Det avgjørende er hva som *prosessuelt* er samme sak, se til sammenligning Rt. 2004 s. 1813 og Rt. 2007 s. 1435. Alle opplysninger som fremkommer i forbindelse med etterforskingen og rettens behandling, tilhører saken, uavhengig av hvordan de er skaffet til veie. Om hva som etter loven er å anse som straffeprosessuell etterforsking, vises det til utkastet § 13-2 med merknader, og avgjørelsene i Rt. 2008 s. 648, Rt. 2008 s. 1575 og Rt. 2009 s. 1075.
+
+Politiets plikt til å dokumentere etterforskingen følger av utkastet § 13-5 tredje ledd. Se også utkastet § 10-8 om opptak og nedtegning av forklaringer og § 14-9 om rapport om tvangstiltak. Et utgangspunkt for hva som tilhører sakens opplysninger, er oversikten som føres under etterforskingen. «Sakens opplysninger» og den tilhørende retten til innsyn begrenses imidlertid ikke av denne oversikten, se til sammenligning Rt. 2007 s. 1435 med videre henvisninger.
+
+*Annet ledd annet punktum* klargjør at opplysninger fra forebyggingssak eller som ligger til grunn for oppstart av etterforskingen, faller utenfor saksopplysningene det gis innsyn i.
+
+Opplysninger som bare gjelder andre mistenkte, faller som hovedregel utenfor saksopplysningsbegrepet. Loven forutsetter at påtalemyndigheten foretar en løpende vurdering av hvilken informasjon det er relevant å innhente i saken. Det kan således være nødvendig å innhente opplysninger som foreligger i en annen sak, det være seg en forebyggingssak eller en annen etterforskingssak.
+
+Opplysninger som i utgangspunktet faller utenfor sakens opplysninger, inngår likevel klart nok i disse dersom de fremlegges i rettsmøte, eller hvis opplysningene blir påberopt som bevis, jf. Rt. 2004 s. 1080 og Rt. 2005 s. 198, og Prop. 147 L (2012–2013) s. 42. Opplysninger som ikke skal brukes som bevis, skal dessuten likevel inngå i saken dersom de kan ha «betydning for mistenktes forsvar», jf. *annet ledd annet punktum* i.f. Terskelen for hvilke opplysninger som omfattes, er ment å være lav, jf. «kan ha», og er det usikkerhet omkring opplysningenes betydning, bør informasjonen inntas i saken. Både opplysninger som kan tale for og mot mistenkte, omfattes, jf. blant annet EMDs avgjørelser Rowe og Davis mot Storbritannia, 16. februar 2000 (28901/95) og Leas mot Estland, 6. mars 2012 (59577/08). Påtalemyndigheten skal særlig ha for øye hvordan opplysningene vil kunne brukes fra en forsvarers ståsted, se Rt. 2007 s. 1435. Bestemmelsen må også ellers praktiseres i lys av påtalemyndighetens objektivitetsplikt, jf. utkastet § 2-3 første ledd og merknadene til denne bestemmelsen.
+
+Utkastets henvisning til informasjon som «foranlediget etterforskingen», tar sikte på såkalte inngangsopplysninger. Herunder faller arbeidsnotater om tips fra publikum, informantopplysninger og spaningsinformasjon, jf. blant annet Rt. 1993 s. 1121, Rt. 2003 s. 648 og Rt. 2004 s. 1642. Se også Prop. 147 L (2012–2013) s. 41. Bestemmelsen omfatter både informasjon som foranlediget selve etterforskingen, og informasjon som har ført til iverksetting av konkrete etterforskingsskritt.
+
+Etter *annet ledd tredje punktum* står «opplysninger utarbeidet for intern bruk» i samme stilling som opplysninger fra forebyggingssak og såkalte inngangsopplysninger. Slike opplysninger faller således som utgangspunkt utenfor sakens opplysninger – og dermed innsynsretten. Opplysninger som skal anses som utarbeidet for intern bruk, omfatter blant annet politiets egne vurderinger, interne påtegninger og korrespondanse, sammenstillinger som ikke er nedfelt i politirapporter, og taktiske overveielser. Se blant annet Rt. 2012 s. 1481 og Rt. 2013 s. 9, som begge gjaldt korrespondanse mellom ansatte i påtalemyndigheten og ansatte i Skatteetaten som bistod under etterforskingen. Se også Rt. 1993 s. 1077, som gjaldt statsadvokatens innstilling til riksadvokaten om påtalespørsmålet.
+
+Innsynsretten vil i utgangspunktet heller ikke omfatte oversikts- og sammendragsrapporter som er utarbeidet i sakens anledning, jf. Rt. 1995 s. 935. Men som etter annet ledd annet punktum skal også opplysninger utarbeidet for intern bruk omfattes hvis de kan ha betydning for mistenktes forsvar. Det kan blant annet være aktuelt ved grensespørsmål om hvorvidt det er tale om «interne» dokumenter. Analyser og sammenstillinger av materiale som ikke lett lar seg utlede av øvrige opplysninger i saken, bør tas inn i sakens opplysninger.
+
+*Til § 6-2. Rett til innsyn for fornærmede, etterlatte, skadelidte og andre med rettslig interesse*
+
+Se straffeprosessloven §§ 28 første ledd bokstav b til d, 242 første ledd, 264 a første, tredje og fjerde ledd og 398 femte ledd.
+
+Hvilke opplysninger fornærmede og etterlatte kan kreve etter *første punktum*, må vurderes konkret ut fra hvilke interesser de etter lovens ordning har i saken. I praksis må det av effektivitetsgrunner kunne aksepteres at påtalemyndigheten sender over de samlede opplysninger når saken ikke inneholder materiale som det er grunn til å begrense spredningen av. I denne sammenheng har det betydning om fornærmede og etterlatte er representert ved bistandsadvokat. Bistandsadvokatens innsynsrett er avledet fra klientens interesser i saken, se utkastet § 4-5 annet ledd bokstav a. Om uttrykkene «fornærmede» og «etterlatte», se utkastet § 4-1 og merknadene til bestemmelsen. Se også utkastet § 6-10 om oversendelse av opplysninger. Forsvarer og bistandsadvokat skal normalt ha kopi av opplysningene.
+
+*Annet punktum* fastslår en tilsvarende innsynsrett for personer som ikke har rettslig interesse i den aktuelle straffesaken, men som har slik interesse i en sak hvor opplysningene kan ha betydning. Kravet til «rettslig interesse» skal forstås som etter straffeprosessloven § 28 første ledd bokstav d. I noen grad må kravet til rettslig interesse være relativt til hvor stor betydning opplysningene har for vedkommende. Innsynsretten er som etter første ledd begrenset til det som er «nødvendig», og dette må vurderes ut fra behovet for opplysningene til bruk i den underliggende saken vedkommende har rettslig interesse i.
+
+*Til § 6-3. Rett til innsyn for enhver*
+
+Se domstolloven §§ 124 til 126 og 130. Se også påtaleinstruksen §§ 16-5 annet ledd første punktum og 22-7 annet ledd og forskrift om offentlighet i rettspleien § 7 første ledd.
+
+I bestemmelsen reguleres retten til innsyn for «enhver», herunder pressens tilgang til innsyn i straffesaksopplysninger etter loven. Aktørgrupper som domstolene, sakkyndige, Gjenopptakelseskommisjonen og Kriminalomsorgen er også omfattet av kategorien «enhver». Deres rett til innsyn følger imidlertid i det vesentlige av særskilt regulering av deres virke i prosessen.
+
+Allmennheten har begrenset rett til innsyn i verserende straffesaker, men kan etter *første ledd* på nærmere vilkår gis innsyn i tiltalebeslutning og rettsavgjørelser. Etter *første ledd bokstav a* er det et vilkår for rett til innsyn i tiltalebeslutningen at det ikke er «sannsynlig» at saken vil gå for lukkede dører. Dette skal vurderes av påtalemyndigheten ut fra vilkårene i domstolloven §§ 125 og 126. Er det en viss mulighet for at dørene vil bli stengt, skal innsyn ikke gis. Påtalemyndigheten kan for øvrig forby offentlig gjengivelse av hele eller deler av tiltalebeslutningen i visse tilfeller når den oversendes til retten, jf. påtaleinstruksen § 22-7 annet ledd og forskriften om offentlighet i rettspleien § 7 annet ledd.
+
+Reservasjonene i *første ledd bokstav b* gjelder unntak fra offentlighet som følger av straffeprosessloven selv, eller som er bestemt av retten etter domstolloven. Et eksempel på det første er der avgjørelsen inneholder opplysninger som skal unntas etter utkastet § 6-11 tredje ledd. Avgjørelsens slutning er likevel alltid offentlig såfremt den kan gjengis uten å røpe noens identitet, jf. domstolloven § 130 annet ledd.
+
+Lovens utgangspunkt er at en rettsavgjørelse blir offentlig straks den er avsagt, jf. domstolloven § 124 og Ot.prp. nr. 55 (1997–98) s. 48. Innsyn etter § 6-3 kan således også kreves når avgjørelsen er påanket, jf. domstolloven § 130 tredje ledd. Det kan gis innsyn i rettsavgjørelser som inneholder gjengivelser fra psykiatriske erklæringer, personundersøkelser eller andre personopplysninger. For avsluttede saker gjelder unntakene i § 6-6, se særlig annet ledd i bestemmelsen.
+
+Etter *annet ledd* kan enhver gis tilgang til sakens øvrige opplysninger når det er «ubetenkelig». Dette er ment som en bred rettslig standard, der en rekke momenter kan tas i betraktning. Terskelen er ment å være høy for å gi allmennheten tilgang til andre saksopplysninger enn slike som er regulert i første ledd. For pressen skal imidlertid terskelen ligge noe lavere, ettersom mediene har en særskilt kontrolloppgave.
+
+I *annet ledd annet punktum* er det vist til forhold det særlig skal legges vekt på ved vurderingen av om det er ubetenkelig å gi innsyn. Momentene er ikke uttømmende.
+
+Opplysningenes karakter vil være viktig for betenkelighetsvurderingen, herunder om de angår «personlige forhold». Det vil lett være betenkelig å spre slike opplysninger til enhver. Samtidig må vurderingen skje i lys av at straffesaker er offentlige, og at mistenkte og andre i mange tilfeller må påregne at personlige opplysninger blir eksponert. Personvernhensyn må uansett veies mot de øvrige momentene. At det må tas hensyn til «sakens behandling», er en selvfølge. Dette er et hensyn som har betydelig gjennomslag også overfor mistenktes omfattende innsynsrett, jf. særlig unntaket fra retten til innsyn under etterforskingen i utkastet § 6-4.
+
+Det sentrale momentet som kan tale for å gi innsyn for enhver, er «allmennhetens behov for informasjon». Hensynet kan etter omstendighetene veie tungt og må kunne gis gjennomslag selv om det gjør seg gjeldende mothensyn av en viss vekt. Men er mothensynene sterke, vil det ikke være «ubetenkelig» å gi innsyn.
+
+For spørsmål om innsyn i lyd- og bildeopptak fra rettsmøter i straffesaker oppstilles det i *annet ledd tredje punktum* et krav om samtykke fra domstolene som supplerer vilkåret om at det skal være ubetenkelig å gi innsyn, jf. annet ledd annet punktum.
+
+Domstolen skal vurdere spørsmålet om samtykke etter at påtalemyndigheten har tatt stilling til begjæringen om innsyn, se utkastet § 6-9. Det skal foretas en konkret vurdering for hver enkelt begjæring om innsyn.
+
+Om det skal gis samtykke, beror på et bredt skjønn. Bestemmelsen forutsetter at også domstolen tar utgangspunkt i vilkåret for innsyn etter annet ledd første punktum, fra domstolens ståsted. Lovens forutsetning er at vurderingen kan falle annerledes ut hos domstolen enn hos påtalemyndigheten, blant annet fordi domstolen er nærmest å vurdere begrensninger i offentligheten i tråd med bestemmelsene i domstolloven kapittel 7. Kravet til «samtykke» forutsetter dessuten at også andre forhold enn de som direkte taler mot offentlighet kan tas i betraktning. Blant annet kan domstolen nekte samtykke dersom den ikke har kapasitet til å håndtere innsynsbegjæringen. Det vil være praktisk dersom det er klart at det ikke er aktuelt å gi innsyn i deler av opptakene, og det vil kreve omfattende redigeringsarbeid å unnta disse delene. Samlet er terskelen for innsyn i lyd- og bildeopptak ment å være høy, også i situasjoner der opptaket tidligere har vært avspilt offentlig, for eksempel under en ankeforhandling.
+
+Videre følger det av *annet ledd tredje punktum* at tilgangen til lyd- og bildeopptak som den klare hovedregel skal gis i domstolens lokaler. Kravet er satt for å minimere faren for misbruk av opplysningene, herunder for å beskytte mot spredning av sensitive opplysninger, men også for å begrense belastningen det i alminnelighet vil være for en som har forklart seg for retten, å vite at enhver kan vende tilbake til vedkommendes forklaring. Kun unntaksvis skal opplysningene leveres ut, og da først og fremst til pressen i tilfeller hvor allmennhetens behov for informasjonen er stort, eller særlige praktiske forhold tilsier at opplysningene bør kunne gjennomgås utenfor domstolene, for eksempel i et forskningsprosjekt. Kongen kan gi nærmere bestemmelser om innsyn i lyd- og bildeopptak i forskrift, se utkastet § 6-12.
+
+*Til § 6-4. Unntak fra rett til innsyn forut for tiltale*
+
+Se straffeprosessloven § 242 første til tredje ledd.
+
+Unntakene i bestemmelsen gjelder generelt for alle sakens aktører så lenge det pågår etterforsking, og det ikke er tatt ut tiltale. Spørsmålet om å begrense innsyn skal vurderes for hver enkelt aktør ut fra rolle og behov, og dette skjønnet kan føre til at innsyn gis i ulikt omfang til forskjellige aktører. Det må alltid gis en konkret begrunnelse for å nekte innsyn. Se også utkastet §§ 6-9 og 6-10 om saksbehandling og gjennomføring av innsyn.
+
+*Til § 6-5. Unntak fra rett til innsyn etter tiltale*
+
+Se straffeprosessloven § 264 annet, fjerde og femte ledd.
+
+*Til § 6-6. Unntak fra rett til innsyn når saken er avsluttet*
+
+Se straffeprosessloven § 28 annet til femte ledd.
+
+*Første ledd* angir tvingende begrensninger i innsynsadgangen når en straffesak er avsluttet. Etter *annet ledd* kan dessuten visse opplysninger unntas etter en konkret vurdering, hvor det skal tas hensyn til at sensitiv informasjon ikke bør spres unødig, hvem som ber om innsyn, og formålet med innsynsbegjæringen. Ved skjønnsutøvelsen vil dessuten de samme momentene som etter utkastet § 6-3 annet ledd annet punktum kunne komme i betraktning.
+
+*Til § 6-7. Unntak fra rett til innsyn i opplysninger om tvangstiltak som ikke er iverksatt, og om anonyme vitner*
+
+Se straffeprosessloven §§ 242 tredje ledd og 264 femte ledd.
+
+Bestemmelsen gjør et unntak fra utgangspunktet om rett til innsyn i begjæringer og beslutninger om tvangstiltak, og i den informasjon tiltaket eventuelt genererer. Opplysninger som nevnt skal det først gis innsyn i ved iverksettelsen av tiltaket. Unntaket er begrunnet i at tiltaket kan bli formålsløst om det røpes at bruk er besluttet, enten gjennom innsyn eller ved at det foretas en realitetsvurdering av innsynsspørsmålet etter lovens unntaksbestemmelser.
+
+*Til § 6-8. Unntak fra rett til innsyn i opplysninger som ikke påberopes som bevis i saken, eller som er fremlagt som grunnlag for bruk av hemmelig tvangstiltak*
+
+Se straffeprosessloven §§ 28 fjerde ledd tredje og fjerde punktum, 242 a første til fjerde ledd, 264 tredje ledd første punktum og sjette ledd og 267 første ledd tredje punktum.
+
+Bestemmelsen gjelder både for bevis som ikke vil bli påberopt under hovedforhandlingen, og for bevis som ikke vil inngå som bevisgrunnlag for bruk av tvangstiltak, jf. Ot.prp. nr. 24 (2002–2003) s. 69–70. Bestemmelsen regulerer også den særskilte situasjonen hvor opplysninger er fremlagt for retten som grunnlag for hemmelige tvangstiltak og mistenkte har fått oppnevnt advokat etter § 3-25.
+
+Nektelse må være «nødvendig». I dette ligger, som i dag, at vilkåret ikke er oppfylt dersom adekvat beskyttelse kan oppnås på annen rimelig måte, jf. Ot.prp. nr. 24 (2002–2003) s. 72. Uttrykket «strengt» er foreslått fjernet, uten at det er tilsiktet noen endring i vurderingen av nødvendigheten.
+
+Unntakene etter bestemmelsen gjelder for hele straffeforfølgningen og etter at saken er avsluttet. Begjæring om å nekte innsyn behandles etter § 6-11. Dersom innsyn kan gis delvis, må det som skal unntas, sladdes, og resten gjøres tilgjengelig på hensiktsmessig vis.
+
+De nærmere beskyttelsesinteressene som kan begrunne nektelse av innsyn, følger av *første ledd bokstav a til e*. Bestemmelsene skal forstås som etter gjeldende rett. Oppregningen er uttømmende. Påtalemyndigheten må kunne vise til et reelt behov for å unnta opplysninger fra innsyn, jf. Prop. 147 L (2012–2013) s. 50.
+
+*Til § 6-9. Saksbehandling ved begjæring om innsyn*
+
+Se straffeprosessloven §§ 242 første og fjerde ledd og 28 sjette og syvende ledd.
+
+*Til § 6-10. Oversendelse av sakens opplysninger etter begjæring og ved tiltale. Betingelser for tilgang*
+
+Se straffeprosessloven §§ 264 første, tredje og fjerde ledd, 264 a fjerde ledd og 267 første ledd. Se også påtaleinstruksen §§ 16-3, 16-4 og 25-4 til 25-9.
+
+På tiltalestadiet gis innsyn uten at det er fremmet begjæring, jf. også utkastet § 34-3 om påtalemyndighetens underretninger til tiltalte, fornærmede og etterlatte og oversendelse av saksopplysninger til forsvareren og bistandsadvokaten. Påtalemyndigheten plikter å legge til rette for innsyn etter loven. Utgangspunktet etter *første ledd* er at den innsynsberettigede skal gis selvstendig tilgang til de opplysningene vedkommende skal ha innsyn i, ved oversendelse eller annen forsvarlig og hensiktsmessig tilgjengeliggjøring. Dersom mistenkte har forsvarer, eller fornærmede og etterlatte har bistandsadvokat, er det tilstrekkelig at opplysningene sendes advokaten, og normalt er det mest praktisk at de profesjonelle aktørene mottar kopi av opplysningene. I saker med særlig sensitiv informasjon kan påtalemyndigheten sette vilkår for utlån og gjennomsyn, jf. *annet ledd*, herunder at innsyn skal gjennomføres ved gjennomsyn hos politiet.
+
+*Til § 6-11. Saksbehandling ved begjæring om å nekte innsyn*
+
+Se straffeprosessloven §§ 242 a første ledd og 272 a.
+
+Unntaksadgangen etter utkastet § 6-8 forutsetter begjæring fra en statsadvokat. Begjæring kan fremmes uavhengig av om det bedt om innsyn i opplysningene som ønskes tilbakeholdt. Når det fremmes begjæring, skal retten straks oppnevne særskilt advokat for mistenkte, jf. utkastet § 3-25.
+
+Spørsmålet om å nekte innsyn bør være behandlet av retten før hovedforhandlingen begynner, slik også fristregelen i utkastet til *første ledd tredje punktum* forutsetter. I forbindelse med begjæringen må påtalemyndigheten ta stilling til om opplysningene vil bli påberopt som bevis i saken. Bestemmelsen skal forstås slik at en begjæring kan fremmes før tiltalen er tatt ut, og etter at det er truffet avgjørelse om rett til innsyn etter andre bestemmelser, se til illustrasjon Rt. 2005 s. 432.
+
+Rettens avgjørelse om å nekte innsyn kan ikke offentliggjøres, jf. *tredje ledd*.
+
+*Til § 6-12. Forskrifter om gjennomføring av innsyn mv.*
+
+Se straffeprosessloven §§ 28 siste ledd og 242 siste ledd.
+
+**Til del 2. Bevis**
+
+**Til kapittel 7. Alminnelige regler om bevis**
+
+Kapitlet inneholder regler om bevis som i prinsippet får anvendelse for alle stadier av straffesaken og for alle aktører, om enn ikke med samme utslag i alle situasjoner, se blant annet merknadene til § 7-4.
+
+Ved vedtakelsen av dagens lov tok man ikke sikte på å regulere de mest sentrale bevisreglene i straffeprosessen, da dette ble ansett som overflødig. Utvalget syn er at alminnelige bevisregler i større grad bør gis en uttrykkelig forankring i loven, se punkt 13.2.1. Flere av bestemmelsene har derfor ikke noe direkte motstykke i straffeprosessloven.
+
+I hovedsak videreføres gjeldende rettstilstand, men det er også foretatt enkelte viktige justeringer. Paragraf 7-3 åpner i alminnelighet for bevisavskjæring ut fra proporsjonalitetsvurderinger, sml. tvisteloven § 21-8, i motsetning til straffeprosessloven. En annen viktig bestemmelse er § 7-4, som sammenlignet med gjeldende § 294 presiserer rettens ansvar for saksopplysningen i tråd med utvalgets syn på påtalemyndighetens bevisbyrde og anklageprinsippet. Retten skal som et utgangspunkt ikke ivareta funksjoner som ikke først og fremst er «dømmende» – det er ikke retten som skal søke å bevise at mistenkte er skyldig. Samtidig er saksopplysningsansvaret gitt en mer generell rekkevidde enn i dag, se merknadene til bestemmelsen.
+
+*Til § 7-1. Forsvarlig saksopplysning. Kontradiksjon. Håndtering av bevis*
+
+Bestemmelsen tar sikte på å bidra til at de avgjørelser som treffes etter loven, bygger på et faktum som er tilstrekkelig klarlagt og riktig, og uttrykker grunnleggende prinsipper som reglene om bevis bygger på.
+
+De to første leddene er nøytralt utformet og retter seg mot samtlige av sakens aktører. Reglene om ansvar for saksopplysning, håndtering av bevis og rett til kontradiksjon gjelder på alle stadier av saken, og for alle med avgjørelsesmyndighet etter loven.
+
+*Første ledd* fastslår at beslutningstakere har plikt til å sørge for at sakens faktiske sider er slik opplyst at det er forsvarlig å treffe en avgjørelse. Rettens ansvar for å anvende gjeldende rettsregler (*iura novit curia*) fremgår av § 32-5 om rettens forhold til partenes krav og påstander. Med «korrekt» siktes det til at grunnlaget for avgjørelsen gjenspeiler de faktiske forhold slik de er opplyst, herunder at eventuell uklarhet har kommet til uttrykk.
+
+*Annet ledd* gir rett til kontradiksjon om sakens faktiske sider. Det vil si at begge parter skal gis adgang til å belyse saken, herunder en rett til å motsi motparten. Imøtegåelse av bevisene som føres, for eksempel ved å påpeke svakheter ved beviset eller føre andre bevis, er en helt sentral mekanisme for å sikre sakens opplysning, rettferdig rettergang og opplevelsen av dette. Se også utkastet § 32-4 fjerde ledd.
+
+Prinsippet som uttrykkes, gjenfinnes også i konkrete reguleringer ellers i loven. Et spesielt utslag av denne alminnelige retten til kontradiksjon er utkastet § 10-9 fjerde ledd, som fastslår at forklaringer som tidligere er avgitt i saken, på nærmere vilkår kan gjengis når dette «ikke strider mot retten til imøtegåelse».
+
+For å gi et dekkende bilde av mistenktes rett til kontradiksjon må bestemmelsen i annet ledd suppleres med den generelle adgangen til å imøtegå anklagen, herunder sakens rettslige sider og påtalemyndighetens argumentasjon, som etter lovens system må forankres i § 32-5 annet ledd. Den nærmere avgrensningen av denne retten må ses i lys av mer alminnelige regler om krav til kontradiksjon forankret blant annet i EMK artikkel 6, se for eksempel avgjørelsene inntatt i Rt. 2003 s. 1682 og Rt. 2007 s. 1255.
+
+Partene skal gis *reell* anledning til å imøtegå motpartens bevis. For mistenkte må bestemmelsen derfor forstås i sammenheng med øvrige prosessuelle garantier i loven, herunder reglene om rett til representasjon, rett til å være til stede, innsyn i sakens opplysninger og utgangspunktet om fri bevisføring i § 7-2 første ledd.
+
+Retten til kontradiksjon innebærer ikke en uinnskrenket adgang til krysseksaminering, ytterligere bevisføring og innsyn i opplysninger. Mistenktes kontradiksjonsrett kan dessuten bortfalle under hoved- eller ankeforhandling hvis vedkommende kan klandres for manglende bruk av retten, har gitt avkall på den, eller dersom opptreden eller andre grunner tilsier at retten faller bort. Dertil kommer at kontradiksjonsadgangen ikke alltid må være fullstendig, slik at det kan legges begrensninger på fremgangsmåtene som benyttes. Ved straffeforfølgning for enkelte typer lovbrudd tillates for eksempel anonym vitneførsel hvis det er fare for liv, helse eller frihet eller for vitnets mulighet til å delta i skjult etterforsking dersom vedkommendes identitet blir kjent. Retten til kontradiksjon gir altså ikke mistenkte en ubetinget rett til å motta alle typer informasjon og til å fremskaffe og føre ethvert bevis under de forutsetninger vedkommende ønsker. Men retten sikrer at vedkommende i det minste kan ta til motmæle ved å kommentere og å imøtegå de bevisene som føres.
+
+De nærmere grensene for kontradiksjonsrettens innhold må altså fastlegges i lys av lovens øvrige bestemmelser samt rettspraksis i den grad bestemmelsene viderefører gjeldende rett, Grunnloven § 95 samt internasjonale kilder, og da særlig EMK artikkel 6 og tilhørende EMD-praksis. Et særlig spørsmål er i hvilken utstrekning domfellelser kan bygge på bevis som tiltalte ikke er gitt en reell mulighet til å undersøke, ikke minst vitneforklaringer uten adgang til krysseksaminasjon. EMD har en rikholdig og til dels sammensatt rettspraksis om dette, forankret i EMK artikkel 6 nr. 1 om «fair» rettergang og nr. 3 bokstav d om rett til «å avhøre eller la avhøre vitner som blir ført mot ham, og få innkalt og avhørt vitner på hans vegne under samme vilkår som vitner ført mot ham», se nærmere ovenfor i punkt 13.5.2.2. Praksisen må antas å ha en viss betydning også for andre typer av bevis. Hva gjelder avgitte forklaringer som skal føres som bevis under hovedforhandlingen, er kontradiksjonsrettens nærmere innhold forankret i utkastet § 10-9. Reglene om gjengivelse av forklaringer er her skjerpet sammenlignet med EMDs praksis på feltet, se punkt 13.5.2.4 og 13.5.3.
+
+*Tredje ledd* stiller krav til behandlingen av bevis. Med at bevis skal innhentes og oppbevares på en måte som «sikrer» bevisenes pålitelighet, siktes det til at bevishåndteringen ikke må foregå på en måte som svekker bevisenes informasjonsverdi. For eksempel skal den som forestår et avhør, stille åpne spørsmål og ikke legge ord i vitnets munn. Også etter den umiddelbare informasjonsinnhentingen skal det iverksettes nødvendige tiltak for å sikre kvaliteten på informasjonen. For eksempel skal datafiler håndteres på en måte og i et format som bevarer såkalte metadata dersom disse har eller kan tenkes å ha relevans for saken.

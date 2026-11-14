@@ -1,958 +1,256 @@
-# NOU 2016: 24, del 27 av 73 (side 297–307)
+# NOU 2016: 24, del 27 av 69
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/1182afc0-nou-2016-24.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-24/id2517932/
 - Original-PDF: https://www.regjeringen.no/contentassets/6fe1d875248042b4a09b43b85aa46832/no/pdfs/nou201620160024000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 9 tabeller, 1 figur, 52 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 297]
-
-295
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-påtaleantatte sakkyndige, og medvirker til at mandatet dekker de punkter vedkommende mener
-bør belyses, se slik i Rt. 2001 s. 1109 på s. 1110
-med henvisning til Rt. 1998 s. 1632 på s. 1636. Det
-er i utstrakt grad lagt til rette for kontradiksjon om
-oppnevningen og prosessen i tilknytning til
-denne, se utkastet §§ 11-5 tredje ledd og 11-6
-fjerde ledd.
-Det er grunn til å tydeliggjøre og formalisere
-påtalemyndighetens bruk av sakkyndige i større
-grad enn det som er gjort i straffeprosessloven
-§ 148, for å sikre ytterligere bevissthet om sakkyndigrollen og betydningen av uavhengighet. Lovutkastet regulerer på denne bakgrunn særskilt
-«sakkyndige antatt av påtalemyndigheten», se blant
-annet utkastet § 11-2 første ledd om mandat, § 11-5
-fjerde ledd om begjæring om påtaleantatt sakkyndig og § 11-7 annet ledd om krav til habilitet.
-Selv om det ikke er ønskelig at loven legger
-opp til et såkalt «battle of experts», der hver part
-fører sine sakkyndige, bør det legges til rette for
-bruk av partsantatte sakkyndige. Det er avgjørende å sikre gode arbeidsbetingelser, slik at også
-den partsantatte sakkyndige får redegjort for sine
-kunnskaper og vurderinger. Se utkastet § 11-10, jf.
-§ 11-1 annet ledd.
-En følge av prinsippet om fri bevisføring er at
-det ikke kan stilles formelle krav av absolutt
-karakter for mistenktes bruk av sakkyndige.
-Loven legger imidlertid klare føringer for hvordan
-sakkyndigbeviset bør behandles. Ett grep som er
-tatt for å sikre best mulig bruk av antatt sakkyndig
-fra mistenktes side, er at det er gitt en oppfordring
-om å besvare mandatet på samme måte som kreves av påtaleantatte og rettsoppnevnte sakkyndige, se utkastet § 11-3 tredje ledd.
-Nytt er også at plikten til å sende inn erklæringer til Den rettsmedisinske kommisjon er gjort
-generell for medisinsk sakkyndige, uavhengig av
-om den sakkyndige er rettsoppnevnt eller partsantatt. Kommer spørsmålet på spissen, vil imidlertid
-en mistenkt i medhold av prinsippet om fri bevisføring kunne kreve at en antatt sakkyndig skal
-kunne uttale seg også om forhold som ikke har
-vært forelagt kommisjonen, dersom disse har
-relevans.
-Bevisføringsadgangen har videre den betydning at det vanskelig kan stilles krav til habilitet
-for mistenktes bruk av sakkyndige. For påtaleantatte sakkyndige er det imidlertid grunn til å gi
-kravene til habilitet anvendelse så langt det lar seg
-gjøre, se utkastet § 11-7 annet ledd. På noen fagområder vil dette kunne være utfordrende, fordi
-gruppen sakkyndige er få, og de sakkyndige nødvendigvis vil måtte samarbeide tett med påtale-
-
-Kapittel 13
-
-myndigheten og politiet under etterforskingen.
-Krav til habilitet og uavhengighet kan heller ikke
-være til hinder for at politi og påtalemyndighet
-knytter til seg særskilte fagmiljøer eller selv bygger opp slike.
-En praktisk begrensning for mistenktes bruk
-av sakkyndig, er at den enkelte part selv må
-dekke utgiftene. Vitnegodtgjørelsesloven § 10
-annet ledd fastslår at en sakkyndig som ikke er
-oppnevnt, «efter omstændighetene» kan tilkjennes godtgjørelse. Det avgjørende er om forsvareren hadde rimelig grunn til å fremstille den
-sakkyndige, og ikke om retten har bygget på vedkommendes konklusjoner.115 Utvalget mener
-denne praksisen bør videreføres.
-13.6.3.7
-
-Etterprøving
-
-Den som treffer beslutninger etter loven, har selv
-det endelige ansvaret for bevisbedømmelsen, se
-utkastet § 7-1 første ledd. Dette innebærer at det
-må tas stilling til holdbarheten av uttalelser fra
-sakkyndige. Samtidig ligger det her en praktisk
-begrensning som følge av at reell kontroll forutsetter kunnskap som beslutningstakeren i alminnelighet ikke har når det oppnevnes sakkyndige.
-Sakkyndigbeviset er på denne bakgrunn
-karakterisert som autoritativt; sakkyndige anses
-langt på vei som pålitelige i kraft av sin profesjon
-og sin status innenfor fagmiljøet og i samfunnet.
-Autoriteten forsterkes ved at en sakkyndig oppnevnt av retten presumptivt vil være uten
-interesse i sakens utfall.
-Straffeprosessens øvrige aktører er imidlertid
-ikke helt uten mulighet til å øve kontroll med det
-som blir sagt. Det er blant annet mulig, i det minste i en viss utstrekning, å ta stilling til den
-sakkyndiges hypoteser og erfaringssetninger, å
-avklare om metoden som er brukt, har aksept i
-fagmiljøet, og om relevant materiale tilbakeholdes. Det kan ellers søkes klarhet i den sakkyndiges premisser og forholdet mellom premisser
-og konklusjon gjennom spørsmålsstilling under
-hovedforhandlingen eller forut for denne, og til
-dette kan det også søkes bistand fra andre sakkyndige, se drøftelsen i punkt 13.6.3.6.
-Utvalget mener det er viktig at det legges til
-rette for etterprøving av sakkyndigbeviset. Med
-det menes ikke at det i hver enkelt sak der det er
-oppnevnt sakkyndige, skal foretas inngående kontroll av deres uttalelser, men at straffeprosessloven må legge til rette for mulig kontroll av det
-som fremlegges. Samtidig må det ikke under115
-
-Rt. 2001 s. 1109 på s. 1111.
-
-[Side 298]
-
-296
-
-Kapittel 13
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-spilles at fagkyndighet i en viss utstrekning forutsetter bruk av avansert språk for fagintern
-kommunikasjon som for utenforstående kan være
-utilgjengelig.
-Grunnleggende for at det skal kunne utøves
-kontroll, og at eventuelle feilkilder skal kunne
-avdekkes, er at den sakkyndige formidler sin faglige innsikt og sine vurderinger på en måte som
-gjør at den kan bli gjort til gjenstand for analyse.
-I utkastet er det for dette formål stilt detaljerte
-krav til utformingen av mandatet og til hvordan
-dette skal besvares, herunder er det blant annet
-presisert at den sakkyndige skal besvare mandatet i et «klart og tydelig språk», og at eventuell
-usikkerhet skal tydeliggjøres, jf. utkastet § 11-3
-første ledd.
-Skriftlighet er av stor betydning for etterprøving, i tillegg til at selve skriveprosessen må
-antas å bidra til samvittighetsfulle, rasjonelle og
-reelle overveielser. Hovedregelen om skriftlighet
-i straffeprosessloven § 143 videreføres, med kun
-en snever adgang til muntlig uttalelse, se utkastet § 11-3 første ledd annet punktum. Det nærmere omfanget og utformingen av den skriftlige
-redegjørelsen lar det seg vanskelig gjøre å
-formulere generelle krav til utover å kreve at den
-er informativ, sannferdig og relevant. Dette er
-søkt uttrykt i kravene til struktur og innhold
-etter § 11-3 første ledd tredje punktum bokstav a
-til d.
-Utvalget mener det er grunn til å videreføre
-ordningen med særskilt kontroll av medisinske
-uttalelser i Den rettsmedisinske kommisjon og
-åpner samtidig for at det kan opprettes kontrollordninger for andre typer sakkyndighet, se utkastet § 11-9.
-
-13.7 Bevissikring i retten
-13.7.1 Gjeldende rett
-Som ledd i etterforsking og iretteføring er det
-behov for å kunne benytte formaliserte fremgangsmåter for å kunne undersøke og sikre vitneforklaringer og andre bevis.
-I straffeprosessloven kapittel 12 er det gitt
-særskilte regler om «rettslig granskingsforretning», jf. § 150. Dette vil si undersøkelse av ting i
-regi av retten utenfor hovedforhandling, eventuelt
-satt ut til sakkyndige. Formålet er å sikre at bevismidlet eller informasjon fra dette ikke skal gå tapt.
-Det vanlige er at påtalemyndigheten selv tar initiativ til slik gransking, jf. §§ 148 og 155 og redegjørelsen i punkt 13.6.1 om sakkyndige. Ønsker påtalemyndigheten i stedet rettslig granskingsforret-
-
-ning til bruk under etterforskingen, skal begjæring om slik normalt etterkommes, jf. § 237 første
-og tredje ledd:
-«Påtalemyndigheten kan begjære rettslig
-avhør, rettslig gransking eller oppnevning av
-sakkyndige til bruk for etterforskingen. Retten
-plikter å etterkomme begjæringen, med mindre den finner at det forhold som etterforskingen gjelder, ikke er straffbart, eller at straffansvaret er falt bort, eller at det ikke er lovlig
-adgang til å ta begjæringen til følge. Ved begjæring fra lensmann prøver retten likevel fullt ut
-om begjæringen er tilstrekkelig begrunnet.
-[…]
-Bevisopptak til bruk for hovedforhandlingen kan holdes når vilkårene etter § 270 første
-ledd foreligger, og det ikke uten skade, tidsspille eller omkostning kan utstå til spørsmålet
-om tiltale er avgjort.»
-Vitneavhør sikres ved bruk av bevisopptak, det vil
-si et enkeltstående rettergangsskritt der forklaringen nedtegnes i rettsboken. Bevisopptak som
-gjennomføres før tiltale, skjer i medhold av § 237
-tredje ledd, mens bevisopptak etter tiltale reguleres av straffeprosessloven § 270:
-«Bevisopptak forut for hovedforhandlingen
-kan holdes når et vitne er fritatt for møteplikt
-etter § 109 første ledd annet punktum, beviset
-ikke kan føres under hovedforhandlingen uten
-uforholdsmessig ulempe eller utgift, eller det
-er fare for at beviset ellers kan gå tapt eller
-verdien av det bli forringet.
-Når påtalemyndigheten begjærer bevisopptak, bedømmer den selv om vilkårene etter første ledd er til stede. Ved begjæring fra tiltalte
-eller hans forsvarer hører avgjørelsen under
-den rett som begjæringen er fremsatt for.
-Begjærer tiltalte eller hans forsvarer bevisopptak, skal retten som regel kreve at det blir
-innbetalt et tilstrekkelig beløp til å dekke utgiftene. Finner påtalemyndigheten eller den dømmende rett at det har vært rimelig grunn til
-bevisopptaket, erstattes utgiftene av staten.»
-
-13.7.2 Utvalgets vurderinger
-Det er viktig å ha tilgjengelig formelle fremgangsmåter som kan benyttes til å sikre bevis. Reguleringer som ivaretar dette, er nødvendig dels for å
-kunne etterleve den generelle plikten etter utkastet § 7-1 tredje ledd, som fastslår at bevis skal inn-
-
-[Side 299]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-hentes og behandles på en måte som sikrer og
-bevarer bevisenes pålitelighet, dels for å kunne
-legge opp til en hensiktsmessig gjennomføring av
-straffeforfølgningen.
-Utvalget mener de materielle hjemlene i kapittel 12 om «granskning» og § 270 om «bevisopptak» i det vesentlige bør videreføres etter sitt innhold, og at aktørene skal kunne begjære dette slik
-§§ 237, 241 og 265, jf. § 266 åpner for i dag.
-Når det gjelder kapittel 12 om «granskning»,
-går utvalget inn for en strukturell omlegging, se
-også punkt 14.7.1 om forholdet mellom undersøkelse av ting og ransaking.
-Den sammenheng det er mellom tiltakene,
-samt pedagogiske grunner, tilsier at bevisopptak
-med sikte på undersøkelse av ting og avhør av
-personer reguleres samlet. Dette er videre så vidt
-
-297
-
-Kapittel 13
-
-særegne reguleringer at de bør inntas i et eget
-kapittel om rettslig bevissikring i utkastes del 2
-om bevis, se utkastet kapittel 12.
-Bestemmelsene i straffeprosessloven kapittel
-12 og §§ 237 og 270 regulerer en rekke forhold
-utover selve den formelle adgangen til undersøkelse av ting og avhør av personer, herunder krav
-til kontradiksjon og oppnevning og den nærmere
-bruken av sakkyndige. Slike supplerende tiltak for
-selve gjennomføringen er i lovforslaget regulert
-generelt i andre deler av utkastet, se for eksempel
-utkastet § 7-1 annet ledd om kontradiksjon og kapittel 11 om sakkyndige.
-Om det nærmere innholdet i utvalgets forslag
-til regulering av bevissikring vises det til særmerknadene til utkastet kapittel 12.
-
-[Side 300]
-
-298
-
-NOU 2016: 24
-
-Kapittel 14
-
-Ny straffeprosesslov
-
-Kapittel 14
-
-Etterforsking og tvangstiltak
-14.1 Innledning
-Utvalgets mandat sier lite om straffeprosesslovens regler om etterforsking, og de alminnelige
-reglene om etterforsking er ikke særskilt omtalt.
-På flere punkter er det likevel ønskelig med klargjøringer, blant annet hva gjelder etterforskingsbegrepet, ansvarsforhold og vilkår for etterforsking.
-Heller ikke slike etterforskingsmetoder som
-gjerne omtales som åpne eller tradisjonelle
-tvangsmidler, er uttrykkelig nevnt i utvalgets
-mandat, herunder pågripelse, fengsling, ransaking og beslag. Det er derimot de såkalte skjulte
-tvangsmidlene, det vil si skjult fjernsynsovervåking og teknisk sporing, kommunikasjonskontroll og annen avlytting samt hemmelig ransaking,
-beslag og utleveringspålegg. Om disse metodene
-heter det i punkt 5 i mandatet:
-«Lovreglene om de skjulte tvangsmidlene i
-straffeprosesslovens fjerde del er under revisjon. Det vises til Prop. 147 L (2012–2013) og
-en proposisjon som ventelig vil fremmes for
-Stortinget i løpet av 2014. Proposisjonene følger opp NOU 2009: 15. Departementet legger
-til grunn at innholdet i disse reglene, etter
-ikraftsetting av de siste endringene, i all hovedsak vil være tilfredsstillende. Utvalget kan likevel foreslå endringer.»
-Utvalget står således fritt til å foreslå endringer av
-enhver art for alle typer tvangsmidler, men gitt
-lovhistorikken, rettstilstanden og utvalgets mandat, sammensetning og tid til rådighet, er ikke alle
-sider av regelverket like grundig vurdert.
-Straffeprosesslovens regler om «tvangsmidler» har vært hyppig endret, og feltet har
-vært grundig utredet i flere omganger. Av viktige utredninger fra de senere år kan nevnes
-NOU 1997: 15 (Metodeutvalget), NOU 2004: 6
-(Politimetodeutvalget) og NOU 2009: 15 (Metodekontrollutvalget). Sistnevnte utredning er for så
-vidt gjelder skjulte tvangsmidler, fulgt opp i Prop.
-
-68 L (2015–2016) og endringslov 17. juni 2016
-nr. 54.
-Behovet for et «samlet oversyn og en lovteknisk gjennomgang», som er fremhevet helt generelt i punkt 2 i mandatet, er likevel fortsatt utvilsomt til stede også for tvangsmiddelbestemmelsene, ikke minst i lys av de mange enkeltstående
-lovendringer gjennom årene.
-Det er mindre opplagt hvor langt utvalget bør
-gå i å vurdere de rettspolitiske kjernespørsmålene, det vil si hvilke metoder som skal være tilgjengelige for politiet, og hvilke inngrepsterskler
-som skal gjelde.
-Om de åpne tvangsmidlene er det fra ulikt hold
-fremholdt at det er et reformbehov for reglene om
-beslag, særlig med tanke på håndteringen av store
-databeslag der det er aktuelt med beslagsfrihet for
-deler av materialet. Reglene om fengsling står
-dessuten i en særstilling. Frihetsberøvelse i en
-straffesak forut for dom er et meget tyngende inngrep, og det er fremsatt kritikk mot regelverk og
-praksis, særlig knyttet til bruk av politiarrest og
-isolasjon, fra så vel nasjonalt som internasjonalt
-hold. Innholdet i disse reglene behandles derfor
-mer utførlig enn for de øvrige åpne tvangsmidlene.
-De skjulte tvangsmidlene er et resultat av
-relativt omfattende lovarbeid de senere år, samt av
-politiske kompromisser, og utvalget er ikke særlig
-sammensatt med tanke på endringer av metodereglene. Det ligger derfor ikke til rette for grunnleggende endringer i politiets metodetilgang. Utvalget foreslår først og fremst strukturelle endringer
-og forenklinger på dette feltet, men det innebærer
-på en rekke punkter justeringer av terskelen for
-ulike typer inngrep.
-Et «samlet oversyn» i tråd med mandatet
-avdekker at det et stykke på vei synes å være noe
-tilfeldige terskler for de ulike inngrep når de ses i
-sammenheng, og det gis fellesreguleringer. Utvalget har derfor forsøkt å foreta en viss harmonisering innenfor rammene av dagens inngrepsnivå.
-Endelig tilsier den menneskerettslige utviklingen
-lovfesting av enkelte observerende, kontrolle-
-
-[Side 301]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-rende og påvirkende tiltak som i dag benyttes av
-politiet på ulovfestet grunnlag.
-I gjeldende straffeprosesslov er «Tvangsmidler» regulert i fjerde del, mens «Etterforsking» følger som første kapittel i femte del, «Saksbehandlingens enkelte ledd». I utkastet til ny straffeprosesslov er bestemmelsene samlet i en felles del,
-«Etterforsking og tvangstiltak», for å fremheve
-tvangstiltakenes rolle som etterforskingsmidler.
-Valget av uttrykket «tvangstiltak» drøftes i punkt
-14.3.2.
-Første kapittel i fjerde del i lovutkastet
-behandler alminnelige regler om etterforskingen
-(kapittel 13), jf. punkt 14.2, og etterfølges av et
-kapittel med grunnvilkår og fellesregler for
-tvangstiltak (kapittel 14), jf. punkt 14.3. De enkelte
-tvangstiltak behandles for seg i de følgende kapitler, jf. punkt 14.4 til 14.12. Utkastet samler alle inngrepshjemler med karakter av tvangstiltak i delen
-om «etterforsking og tvangstiltak».
-
-14.2 Alminnelige regler om
-etterforsking
-14.2.1 Formålet med etterforskingen
-Etterforsking er innhenting, sikring og analyse av
-informasjon med nærmere bestemte formål. Kjernen i etterforskingsbegrepet – det man kan kalle
-egentlig straffeprosessuell etterforsking – er undersøkelser som har som formål å skaffe til veie opplysninger av betydning for straffesaksbehandlingen, herunder for å avgjøre spørsmålet om tiltale,
-forberede domstolsbehandlingen eller sikre fullbyrding, jf. straffeprosessloven § 226 første ledd
-bokstav a, b, d og f. Etterforskingsbegrepet etter
-gjeldende rett strekker seg imidlertid utover dette,
-idet også undersøkelser i avvergende øyemed, om
-årsaksforhold ved ulykker og visse dødsfall og med
-sikte på visse sider ved barneverntjenestens saksbehandling, er omfattet, jf. straffeprosessloven
-§§ 226 første ledd bokstav c og e og 224 fjerde ledd.
-Utvalget har vurdert om etterforskingsbegrepet etter gjeldende rett bør videreføres. Straffeprosessens formål er i utgangspunktet å realisere straffansvar, herunder å avdekke om et
-straffbart forhold er begått, og hvem som i så fall
-er ansvarlig, samt å skaffe til veie opplysninger av
-betydning for reaksjonsspørsmålet. Det kan dermed sies å bryte med straffeprosessens systematiske forutsetninger dersom reglene også gis
-anvendelse for situasjoner der det (ennå) ikke
-foreligger lovbrudd. Isolert sett kan dette tale for
-å reservere etterforskingsbegrepet for den egentlige straffeprosessuelle etterforskingen.
-
-299
-
-Kapittel 14
-
-Flere hensyn taler imidlertid imot en slik snever tilnærming. Rettssikkerhetshensyn taler for at
-politiets undersøkende virksomhet, som har som
-ett av flere mulige utfall at informasjonen kan
-komme til å bli brukt i straffeforfølgende øyemed,
-bør anses som straffeprosessuell etterforsking.1
-Dette vil sikre at straffeprosessens særlig betryggende rammer regulerer virksomheten og dermed også informasjonshåndteringen. I forlengelsen av dette gjør institusjonelle hensyn seg gjeldende, idet virksomhet som anses som etterforsking, vil høre under påtalemyndigheten, mens
-annen politivirksomhet vil høre under Politidirektoratets og Justis- og beredskapsdepartementets
-overordnede ansvar og myndighetsområde. I tillegg taler praktiske hensyn for at etterforskingsapparatet i visse tilfeller stilles til rådighet også utenfor straffesakene.
-Spørsmålet om å inkludere politiets avvergende virksomhet i etterforskingsbegrepet er nærmere behandlet i Ot.prp. nr. 60 (2004–2005).2
-Hovedbegrunnelsen for å åpne for etterforsking i
-avvergende øyemed er at det er en nær kobling
-mellom slike undersøkelser og tradisjonell etterforsking. Helt sentralt er at opplysningene som
-politiet innhenter som ledd i avvergende virksomhet, ofte kan komme til å bli brukt som ledd i straffeforfølgning.3
-Likevel er det etter gjeldende rett et vilkår for
-etterforsking i avvergingsøyemed at etterforsking
-er iverksatt etter § 224, som krever at det må være
-rimelig grunn til å undersøke om det «foreligger»
-straffbart forhold.4 Det er følgelig en forutsetning
-at man står i en ordinær etterforskingssituasjon –
-og i så fall er det et lovlig tilleggsformål å innhente
-opplysninger for å hindre (ytterligere) straffbare
-handlinger. Samtidig er det ikke noe formelt krav
-til sammenheng mellom forholdet som gir grunnlag for å iverksette etterforskingen, og forholdet
-som søkes avverget.5
-Etter utvalgets syn står dagens modell i et noe
-uavklart forhold til de hensyn som gjør seg gjeldende. Det bør være underordnet om noe straffbart forhold allerede har funnet sted eller ikke.
-Det sentrale er som nevnt at opplysningene som
-innhentes, med stor sannsynlighet kan komme til
-å bli brukt som ledd i straffeforfølgning. Virksomheten bør av denne grunn betraktes som foregre1
-2
-3
-4
-5
-
-Riksadvokaten (3/1999) del II punkt 5.
-Jf. særlig punkt 4.5.2.
-Riksadvokaten (3/1999) del II punkt 5 og Ot.prp. nr. 60
-(2004–2005) s. 43.
-Ot.prp. nr. 60 (2004–2005) s. 151.
-Ot.prp. nr. 60 (2004–2005) s. 67.
-
-[Side 302]
-
-300
-
-Kapittel 14
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-pet etterforsking, som av prinsipielle og institusjonelle grunner bør høre under påtalemyndigheten.
-Dette taler for å løsrive adgangen til etterforsking
-i avvergende øyemed fra dagens krav om at det
-også må være rimelig grunn til å undersøke om
-det «foreligger» straffbart forhold.
-Dersom det på forhånd både er klart at det
-ennå ikke er begått noen straffbar handling, og at
-det avvergende siktemål vil oppnås – slik at det
-heller ikke vil bli begått noe straffbart – slår
-begrunnelsen riktignok ikke til fullt ut. Ettersom
-forutsetningen er at man har å gjøre med avverging og dermed i tid står relativt nær en konkret
-straffbar overtredelse, vil imidlertid dette i praksis sjelden eller aldri være en aktuell situasjon. Og
-i alle tilfeller taler institusjonelle grunner – her
-særlig at påtalemyndigheten bør ha ansvaret for
-bruk av tvangsinngrep i avvergende øyemed – for
-å anse virksomheten for etterforsking også i et
-slikt tilfelle. Avvergingsbegrepet og dets grenser
-er nærmere omtalt i merknadene til utkastet § 13-1
-annet ledd bokstav a.
-Reglene om ulykkesetterforsking mv. ligger i
-utgangspunktet på en helt annen kant enn tradisjonell straffeprosessuell etterforsking, jf. straffeprosessloven § 224 fjerde ledd, som bestemmer at
-etterforsking av brann og andre ulykker, og der
-barn dør plutselig og uventet, kan foretas «selv
-om det ikke er grunn til mistanke om straffbart
-forhold». Også ved slike undersøkelser må det
-imidlertid ofte tas i betraktning at et straffbart forhold kan ligge bak, og virksomheten er således
-ikke uten kobling til alminnelig straffeprosessuell
-etterforsking. Adgangen til å benytte etterforskingsapparatet er dessuten – i fravær av andre
-ordninger – av stor praktisk betydning og innebærer etter utvalgets syn en hensiktsmessig
-løsning for ivaretakelse av samfunnets behov for å
-klarlegge årsaksforhold og hendelsesforløp ved
-visse uønskede hendelser.
-Utvalget ser på denne bakgrunn ingen avgjørende grunner for å skille reglene om ulykkesetterforsking og dødsfallsundersøkelser ut fra straffeprosessloven. Tvert om mener utvalget det kan
-være grunn til å åpne for formell etterforsking
-også av forsvinningssaker. Etter gjeldende rett er
-behandlingen av savnetmeldinger, herunder
-undersøkelser, ettersøking, leteaksjoner mv., i
-utgangspunktet rent polisiær virksomhet som
-hører under Politidirektoratets overordnede
-ansvar. Også innhenting av forklaringer som ledd
-i ettersøkingen og sikring av spor faller – i alle fall
-i en innledende fase – utenfor etterforskingsbegrepet. Men dersom et av formålene er å avklare
-om det foreligger et straffbart forhold, skal etter-
-
-forsking iverksettes på vanlig måte, jf. straffeprosessloven § 224 første ledd.6 Som riksadvokaten
-påpeker i rundskriv 5/2004, kan gode grunner
-tale for at straffeprosesslovens regler følges også i
-ettersøkingssaker:
-«Det er […] intet til hinder for at reglene i straffeprosessloven og påtaleinstruksen følges
-utenfor det lovbestemte anvendelsesområdet,
-forutsatt at det ikke er aktuelt å pålegge tredjemann plikter eller foreta inngrep som krever
-hjemmel i lov. Riksadvokaten anbefaler at
-reglene om bevisinnhenting og bevissikring i
-nevnte regler følges så langt det er praktisk
-også i ettersøkingssaker. Dette vil bl.a. bidra til
-at det strenge notoritetskravet som gjelder for
-straffesaksbehandlingen preger ettersøkingsmaterialet, og at informasjonen innhentes og
-sikres på en slik måte at den kan brukes under
-senere formell etterforsking dersom saken
-skulle utvikle seg slik at dette er påkrevd.»7
-Sammenhengen med straffeprosesslovens regler
-viser seg også ved bestemmelsene om at ansatte i
-finansinstitusjoner mv. har forklarings- og utleveringsplikt «uten hensyn til om det er åpnet etterforsking i straffesak», når «sterke allmenne hensyn» tilsier at opplysninger gis, jf. §§ 230 annet
-ledd siste punktum og 210 tredje ledd siste punktum. Bestemmelsene tar særlig sikte på forsvinningssaker, hvor det kan være grunn til å frykte at
-noe har tilstøtt den savnede.8 Utvalget foreslår tilsvarende regler, jf. utkastet §§ 9-2 annet ledd bokstav c og 19-7 fjerde ledd.
-Slik utvalget ser det, er det ikke grunn til å
-endre på utgangspunktet om at politiet kan foreta
-innledende undersøkelser i savnetsaker uten at
-det iverksettes formell etterforsking. Samtidig tilsier sammenhengen i regelverket og koblingen til
-alminnelig straffeprosessuell etterforsking at innhenting av opplysninger for å avklare årsaksforhold og hendelsesforløp i forsvinningssaker bør
-være et lovlig etterforskingsformål på linje med
-ulykkes- og dødsfallsundersøkelsene. På denne
-bakgrunn foreslås det at behandlingen av forsvinningssaker skal kunne bringes over i et straffeprosessuelt spor, underlagt påtalemyndighetens
-ansvar, når det er rimelig grunn til det, uten hensyn til om det er holdepunkter for at det foreligger
-straffbart forhold, jf. merknadene til utkastet
-§§ 13-1 annet ledd bokstav c og 13-2.
-6
-7
-8
-
-Riksadvokaten (5/2004) s. 1.
-Riksadvokaten (5/2004) s. 1.
-Ot.prp. nr. 59 (2003–2004) s. 53 og 59.
-
-[Side 303]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-I praksis oppstår det fra tid til annen spørsmål
-om forholdet mellom etterforsking og undersøkende
-virksomhet som utføres av andre enn politiet og
-påtalemyndigheten, for eksempel undersøkelser
-som foretas av offentlige kontroll- og undersøkelsesorganer, herunder granskingskommisjoner og
--utvalg, ved privat gransking mv. Det forhold at en
-hendelse, for eksempel en ulykke, blir gjenstand
-for undersøkelse på annet hold, er ikke til hinder
-for parallell straffeprosessuell etterforsking.9 Feltet reiser imidlertid flere problemstillinger. Særlig
-vil reglene om taushetsplikt kunne begrense
-adgangen til informasjonsutveksling med politiet
-og påtalemyndigheten. For forklaringer som mistenkte pliktmessig har avgitt til kontroll- og undersøkelsesorganer, kan det oppstå spørsmål om forholdet til selvinkrimineringsvernet, jf. blant annet
-Rt. 1994 s. 610 (Bølgepapp) og Rt. 2007 s. 932.10
-Samarbeid mellom påtalalemyndigheten og ulike
-offentlige kontrolletater kan dessuten reise
-enkelte spørsmål om uavhengighet og habilitet,
-men utgangspunktet er – og bør etter utvalgets
-syn være – at ansettelsesforhold i et kontrollorgan, og eventuell befatning der med det saksforhold som ligger til grunn for straffesaken, ikke i
-seg selv utelukker deltakelse i etterforskingsteam
-eller opptreden som sakkyndig vitne eller bisitter
-for påtalemyndigheten under iretteføring, jf.
-Rt. 2015 s. 1204 med videre henvisninger. Kontrolletatene er profesjonelle myndighetsorganer som
-skal kontrollere etterlevelse av lovgivningen på et
-område og har ikke status som «fornærmet» i prosessuell forstand. I praksis er samarbeid – herunder at ansatte i kontrolletatene bidrar med sin
-særlige ekspertise – nødvendig og ønskelig, og
-det må også som utgangspunkt anses forsvarlig
-såfremt alminnelige krav til saklighet og objektivitet overholdes. Utvalget tar imidlertid ikke sikte
-på å vurdere nærmere ulike sider av dette problemfeltet, som kunne være egnet for selvstendig
-utredning.
-
-påtalemyndigheten. Bestemmelsens utforming
-har sammenheng med den profesjonskamp som
-fant sted mellom påtalemyndigheten og tjenestepersoner i politiet som ikke tilhører påtalemyndigheten i forbindelse med vedtakelsen av gjeldende
-lov. Andenæs og Myhrer uttaler om dette:
-«Det var under forberedelsen av strpl. 1981 en
-del diskusjon om utformingen av paragrafen
-om ledelsen av etterforskingen. I komitéutkastet hadde bestemmelsen denne formulering:
-‘Etterforsking besluttes og ledes av påtalemyndigheten. Uten ordre av påtalemyndigheten
-kan politimann foreta skritt som ikke uten
-skade kan utsettes.’ Norsk politiforbund, som
-representerer de polititjenestemenn som ikke
-hører til påtalemyndigheten, var misfornøyd
-med denne formulering […]. Det ble fremholdt at ved de fleste politikamre blir mottatte
-anmeldelser registrert av kontorpersonalet
-og tildelt etterforskere uten at det treffes
-noen beslutning av påtalemyndigheten. Enda
-mindre er det noen ledelse av tjenestemannens
-etterforsking ved påtalemyndigheten. Politietterforskeren arbeider på egen hånd, og informerer etter behov tjenestemann med påtalemyndighet. Organisasjonen foreslo en formulering som skulle gi uttrykk for denne
-arbeidsfordeling. Proposisjonen fastholdt
-Straffeprosesslovkomitéens formulering, og
-bemerket at utkastet ga uttrykk for det som
-etter påtaleinstruksen var gjeldende ordning.
-Norsk Politiforbund forfulgte saken ved en
-henvendelse til Justiskomitéen […]. Politiembedsmennenes Landsforening forsvarte proposisjonen. Justiskomitéen fremholdt at det ikke
-var grunn til å gjøre noen endring i den gjeldende kompetansefordeling mellom påtalemyndigheten og polititjenestemennene i forbindelse med den foreliggende lovsak. Skulle
-det foretas slike endringer måtte det utredes på
-bredt grunnlag. For å gjøre det klart at det ikke
-var meningen å foreta noen endring, valgte
-komitéen en formulering som svarer til den
-som var brukt i påtaleinstruksen, ved å bytte ut
-ordet ‘påtalemyndigheten’ i § 225, 1. ledd med
-‘politiet’.»11
-
-14.2.2 Ansvaret for og styringen av
-etterforskingen
-Ansvaret for etterforskingen er etter straffeprosessloven § 225 første ledd første punktum lagt til
-«politiet». Loven etterlater etter sin ordlyd en
-uklarhet med hensyn til om ansvaret alene hører
-under påtalemyndigheten i politiet eller også
-under tjenestepersoner i politiet som ikke tilhører
-9
-10
-
-Bjerke, Keiserud og Sæther (2011) s. 833.
-Om bruken av forklaringer avgitt til kontroll- eller undersøkelsesorganer mv., se Jahre (2015) s. 269 flg. og 292 flg.
-
-301
-
-Kapittel 14
-
-Til tross for uklar ordlyd er det ikke tvilsomt at det
-etter gjeldende rett er påtalemyndigheten i politiet
-som har det formelle og overordnede ansvar for
-etterforskingen i straffesaker, jf. også påtaleinstruksen § 7-5. Både avgjørelsen av om etter11
-
-Andenæs og Myhrer (2009) s. 247.
-
-[Side 304]
-
-302
-
-Kapittel 14
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-forsking skal settes i verk, og hvordan den skal
-gjennomføres – herunder om den skal utvides eller
-begrenses – samt om den skal stanses, tilligger i
-prinsippet påtalemyndigheten i politiet.12 Myndigheten til å iverksette etterforsking kan delegeres –
-uttrykkelig eller stilltiende – til tjenestepersoner i
-politiet som ikke tilhører påtalemyndigheten. Uten
-delegasjon har tjenestemenn som ikke hører til
-påtalemyndigheten, bare selvstendig myndighet til
-å foreta etterforskingsskritt som ikke uten skade
-kan utsettes, jf. § 225 første ledd annet punktum.13
-Utvalget finner det klart at påtalemyndighetens ansvar for etterforskingen bør videreføres.
-Ansvaret virker i forlengelsen av påtalemyndighetens generelle og overordnede ansvar for å forfølge straffbare handlinger og for å føre kontroll
-med politiets straffesaksbehandling. Det er også
-påtalemyndigheten som er nærmest til å vurdere
-hvilke etterforskingsskritt det er behov for i den
-enkelte sak, før påtalevedtak kan treffes. Ordningen med integrert påtalemyndighet i politiet, som
-er nærmere omtalt i punkt 8.2.3.1, har som sin
-største styrke at straffesaksbehandlingen allerede
-fra anmeldelse kan skje i et politi- og påtalefaglig
-samarbeid. For å unngå uheldig sammenblanding
-av roller og sikre nødvendig objektivitet og uavhengighet er det imidlertid etter utvalgets vurdering en forutsetning at ordningen bygger på klare
-ansvarslinjer. På denne bakgrunn mener utvalget
-det bør følge uttrykkelig av loven at det er påtalemyndigheten som har ansvaret for alle sider ved
-etterforskingen.
-Samtidig bør myndigheten til å iverksette
-etterforsking kunne delegeres til tjenestepersoner i politiet som ikke tilhører påtalemyndigheten,
-slik det er adgang til etter gjeldende rett. Delegasjonsadgangen er av stor praktisk betydning og
-har vist seg å fungere tilfredsstillende. Delegasjon
-bør kunne skje uttrykkelig eller stilltiende. For
-eksempel bør det være tilstrekkelig at myndigheten følger av etablerte rutiner i politidistriktet.
-Som etter gjeldende lov bør hovedregelen
-være at etterforskingen gjennomføres av polititjenestepersoner som ikke hører til påtalemyndigheten. Tjenestepersoner i politiet med politifaglig
-bakgrunn eller annen spesialkompetanse vil
-regelmessig ha de beste forutsetninger for å treffe
-beslutninger om den taktiske og tekniske gjennomføringen av etterforskingen. Deler av etterforskingen kan også overlates til aktører utenfor politiet, for eksempel utenrikstjenesten eller andre
-12
-13
-
-Rieber-Mohn (1996) s. 27.
-Andenæs og Myhrer (2009) s. 248 og Bjerke, Keiserud og
-Sæther (2011) s. 835.
-
-offentlig myndigheter, sakkyndige, utenlandske
-myndigheter etter rettsanmodning mv. Også etterforskerne i Spesialenheten for politisaker representerer et unntak fra hovedregelen. Uansett
-hvem som utfører etterforskingen, er det imidlertid en klar forutsetning at gjennomføringen skjer
-på vegne av påtalemyndigheten og under dennes
-ledelse og ansvar.
-Riksadvokaten har flere ganger påpekt at straffesaksbehandlingen både blir best og mest effektiv når påtalemyndigheten og etterforskerne samarbeider godt helt fra anmeldelsestidspunktet.14
-Utvalget slutter seg til dette synet. At samarbeid
-bør finne sted, fritar imidlertid ikke påtalemyndigheten fra dens overordnede styringsansvar. Behovet for aktiv påtalestyring vil variere med ulike
-sakstyper, men det er i alle tilfeller påtalemyndigheten som skal sikre at etterforskingen blir formålsrettet, og at grunnleggende krav til gjennomføringen ivaretas. Påtalemyndigheten må således
-blant annet sørge for forsvarlig fremdrift i etterforskingen, slik at påtalevedtak kan treffes innen
-rimelig tid, se punkt 14.2.4.2 om tidsbruk og fremdrift i etterforskingen og punkt 16.2 om frist for
-påtalevedtak. Utvalget mener påtalemyndighetens
-ansvar for å styre etterforskingen bør komme
-klart til uttrykk i loven, på linje med kravet til
-aktiv dommerstyring.
-Hvor formalisert påtalestyringen av etterforskingen skal være, må bero på behovet i den
-enkelte sak. Etter omstendighetene bør det i samråd med etterforsker utarbeides en skriftlig etterforskingsplan, som angir de etterforskingsskritt
-som skal gjennomføres, eventuelt med nærmere
-bestemmelser om gjennomføringen, samt frister
-mv. Nærmere retningslinjer om etterforskingsledelse, bruk av etterforskingsplaner mv. bør gis
-av riksadvokaten.15
-For øvrig bygger utkastet på at retten ikke skal
-ha noe ansvar for etterforskingen. Retten skal kun
-behandle saker etter begjæring, se utkastet § 5-1
-om forholdet mellom domstolene og straffesakens øvrige aktører og § 32-3 om rettens forhold
-til partenes krav og påstander mv. Retten har
-riktignok et selvstendig utredningsansvar etter
-reglene om rettens kontroll med partenes bevistilbud, men dette gjelder bare så langt hensynet til
-opplysning av det saksforhold retten har til
-behandling, tilsier det, se punkt 13.2.5 og utkastet
-§ 7-4. Straffeprosessloven § 247 om rettens
-adgang til å overta ledelsen av etterforskingen
-etter anmodning fra påtalemyndigheten foreslås
-14
-15
-
-Riksadvokaten (3/1999) del II s. 8 og nr. 2/2016 s. 3.
-Jf. riksadvokaten (2/2016) s. 3, med videre henvisninger.
-
-[Side 305]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-ikke videreført. Bestemmelsen, som er begrunnet
-i behovet for uavhengig etterforsking i saker mot
-påtalemyndighetens tjenestemenn, har mistet sin
-betydning etter opprettelsen av Spesialenheten for
-politisaker (tidligere SEFO)16 og bryter dessuten
-med de hensyn som ligger til grunn for anklageprinsippet, se punkt 17.6.3.2.
-Det vises til utkastet § 13-4 om ansvaret for og
-styringen av etterforskingen.
-14.2.3 Vilkår for etterforsking
-Straffeprosessloven § 224 første ledd og kriteriet
-«rimelig grunn til å undersøke» er antatt å regulere både når det er forbudt å etterforske, når det
-er en adgang til å gjøre det, og når det foreligger
-en etterforskingsplikt.17 Bestemmelsen er videre
-utlagt slik at spørsmålet om hvorvidt det foreligger rimelig grunn til etterforsking, i tvilstilfeller
-må avgjøres ut fra en samlet vurdering der det
-særlig skal legges vekt på sannsynligheten for at
-det foreligger et straffbart forhold, om forholdet
-er så alvorlig at nødvendig etterforsking er forholdsmessig, og at etterforskingen i det hele skal
-være saklig begrunnet.18 Det er også antatt at
-§ 224 første ledd fastsetter en ramme for hvor
-lenge etterforskingen kan pågå; etterforskingen
-kan ikke fortsette når det ikke lenger er «rimelig
-grunn» til det.19
-Et særlig spørsmål som har vært gjenstand for
-noe diskusjon, er om det etter straffeprosessloven
-§ 224 første ledd kan utledes et vilkår om at det
-må foreligge «mistanke» om straffbart forhold.20
-Diskusjonen har i noen grad vært preget av en
-manglende klargjøring av hva som menes med
-«mistanke». Det må uten videre være klart at det
-ikke kan kreves mistanke rettet mot noen person,
-og at det heller ikke gjelder noe krav om kvalifisert mistanke. Overalt hvor spørsmålet har vært
-grundig vurdert, er det imidlertid antatt at det
-kreves en viss sannsynlighet for at det foreligger et
-straffbart forhold, jf. blant andre Myhrer, som
-uttaler om dette:
-«Men også ut over disse lovregulerte tilfeller,
-fastsetter riksadvokatens direktiv at det kreves
-en viss sannsynlighetsprosent for at straffbart
-16
-
-Bjerke, Keiserud og Sæther (2011) s. 924.
-Myhrer (2001) s. 12–13 og riksadvokaten (3/1999) del II s.
-5.
-18 Riksadvokaten (3/1999) del II s. 5–7.
-19
-Riksadvokaten (3/1999) del II s. 7.
-20
-Se NOU 2004: 6 punkt 10.1 og 13.2.3.4, jf. Ot.prp. nr. 60
-(2004–2005) punkt 4.5.3.
-17
-
-303
-
-Kapittel 14
-
-forhold foreligger, før det er adgang til å iverksette etterforsking. Sannsynligheten er imidlertid ikke kvantifisert, idet den må variere
-med bl.a. forholdets alvorlighet og behovet for
-undersøkelser. Kravet til sannsynlighet er derfor vanskelig å vurdere isolert, idet en nesten
-alltid vil gli over i forholdsmessighetsvurderingen.»21
-Som det fremkommer, er sannsynlighetsdimensjonen en helt sentral komponent i forholdsmessighetsvurderingen. Hvorvidt en under denne forutsetning vil omtale sannsynlighetskravet som et
-krav om «mistanke», blir mest et spørsmål om
-hensiktsmessig språkbruk. Men som påpekt av
-mindretallet i NOU 2004: 6 kan et mistankekrav gi
-«gale assosiasjoner», i alle fall dersom det blir oppfattet som et krav om relativt klare holdepunkter
-for at det er begått en straffbar handling.22
-Poenget er snarere at sannsynlighetskravet er
-relativt, og at sannsynligheten for at straffbart forhold er begått, må vurderes sammen med andre
-momenter som gjør seg gjeldende, herunder særlig forholdets alvorlighet.
-Utvalget går inn for å videreføre kriteriet
-«rimelig grunn» til undersøkelser som uttrykk for
-den generelle og overordnede norm for når etterforsking kan og skal skje. Det bør som etter gjeldende rett ved ordinær etterforsking være en forutsetning at det foreligger en viss sannsynlighet
-for at det er begått et straffbart forhold, men noe
-mistankekrav utover dette bør ikke kreves. For å
-klargjøre at det er tale om en skjønnsmessig vurdering innenfor visse rammer, foreslås det etter
-utkastet en angivelse av enkelte sentrale momenter som særlig skal tas i betraktning. Momentene
-tar også sikte på å synliggjøre at kriteriet «rimelig
-grunn» gir rom for opportunitetsvurderinger, se
-punkt 8.3.3.
-Ressurs- og kapasitetshensyn bør kunne tillegges vekt, og bestemmelsen åpner for at påtalemyndigheten gjør prioriteringer med hensyn til
-bruk av etterforskingsressurser. Adgangen til å
-vektlegge ressurshensyn må ses i sammenheng
-med utkastet § 28-2 annet ledd bokstav b, som i en
-viss utstrekning åpner for henleggelse av kapasitetsgrunner, se punkt 16.5.
-Etter gjeldende rett har tjenestepersoner i politiet som ikke tilhører påtalemyndigheten, en viss
-adgang til å løse bagatellsaker ved en advarsel på
-stedet uten anmeldelse (OPS – «oppgjort på ste21
-22
-
-Myhrer (2001) s. 18. Se også Ot.prp. nr. 60 (2004–2005)
-s. 43–44 og Bjerke, Keiserud og Sæther (2011) s. 32.
-NOU 2004: 6 s. 293.
-
-[Side 306]
-
-304
-
-NOU 2016: 24
-
-Kapittel 14
-
-Ny straffeprosesslov
-
-det»), se punkt 5.3.1 om straffeforfølgningsplikten
-og opportunitetsprinsippet. Utvalget foreslår i så
-henseende ingen endringer. Etter utvalgets syn er
-det tilstrekkelig at denne adgangen følger av en
-fortolkning av tjenestepersonenes rapporteringsog anmeldelsesplikt og at det således ikke er
-behov for lovregulering.23
-For øvrig vises det til utkastet § 13-2 og
-merknadene til bestemmelsen.
-
-14.2.4 Grunnleggende krav til etterforskingen
-14.2.4.1
-
-Oversikt
-
-Straffeprosessloven oppstiller flere grunnleggende krav til etterforskingen. Objektivitetskravet
-følger særlig av straffeprosessloven § 226 tredje
-ledd, som bestemmer at når en bestemt person er
-mistenkt, «skal etterforskingen søke å klarlegge
-både det som taler mot ham og det som taler til
-fordel for ham». Etterforskingen skal være hurtig
-og hensynsfull, jf. fjerde ledd i samme bestemmelse. Dessuten forutsetter loven at etterforskingen skal dokumenteres, slik at det sikres notoritet
-for de undersøkelser som gjennomføres.
-Kravene til objektivitet, hurtighet og hensynsfullhet må selvsagt videreføres i ny lov, og foreslås
-regulert samlet i utkastet § 13-5 om grunnleggende krav til etterforskingen.
-I det følgende drøfter utvalget enkelte særlige
-spørsmål knyttet til tidsbruk og fremdrift i etterforskingen, herunder hvilke implikasjoner ønsket
-om redusert saksbehandlingstid bør ha for utformingen av ny straffeprosesslov, jf. punkt 14.2.4.2.
-Videre drøfter utvalget i punkt 14.2.4.3 hvorvidt
-kravet til notoritet omkring etterforskingen bør
-lovfestes.
-14.2.4.2
-
-Tidsbruk og fremdrift i etterforskingen
-
-Straffeprosessloven § 226 fjerde ledd lyder:
-«Etterforskingen skal gjennomføres så raskt som
-mulig og slik at ingen unødig utsettes for mistanke eller ulempe.» Den mistenktes rett til
-behandling av saken innen rimelig tid følger av
-Grunnloven § 95 første ledd og Den europeiske
-menneskerettskonvensjon (EMK) artikkel 6 nr. 1.
-I punkt 16.2 om frist for påtalevedtak redegjør
-utvalget nærmere for gjennomsnittlig tidsbruk fra
-iverksettelse av etterforsking til påtalevedtak treffes. Som påpekt i nevnte punkt har saksbehand23
-
-Straffelovkommisjonen foreslo lovfesting, jf. NOU 1992: 23
-s. 245 og NOU 2002: 4 s. 466. Forslaget er ikke fulgt opp av
-lovgiver.
-
-lingstiden i politiet og påtalemyndigheten utviklet
-seg i en positiv retning de senere år, men det er
-fremdeles et gjentakende problem at etterforskingen i mange saker trekker ut i tid. I et stort antall
-saker tar etterforskingen vesentlig lengre tid enn
-det gjennomsnittstallene viser. Blant annet var det
-ved utgangen av 2015 totalt 7911 ikke påtaleavgjorte saker eldre enn tolv måneder.24
-Etterforsking av de fleste typer saker innebærer en rekke ulike oppgaver som løses av forskjellige personer i og utenfor politiet. Det dreier
-seg typisk om straksetterforsking, bevissikring,
-politiavhør av mistenkte og vitner, innhenting av
-informasjon fra ulike kilder samt analyse og vurdering.
-Utvalget er ikke kjent med tidsstudier av etterforskingsprosesser som måler aktiviteter, liggetid
-mv. for ulike sakstyper. Det er likevel all grunn til
-å anta at tidsbruken knyttet til de arbeidsoperasjoner som gjennomføres, ikke på langt nær svarer til
-den samlede behandlingstiden. For eksempel tok
-det i 2015 i gjennomsnitt 108 dager å etterforske
-saker om skadeverk,25 samtidig som medgått tid
-til aktiv etterforsking og påtalebehandling antakelig var langt kortere. Tilsvarende gjelder formentlig for de fleste sakstyper. En vesentlig del av saksbehandlingstiden er dermed «liggetid».
-Dersom en skal ha ambisjoner om å redusere
-den samlede saksbehandlingstiden, er det viktig å
-vurdere tiltak som kan virke positivt inn på
-behandlingstiden hos politiet. Enkelte tiltak av
-administrativ og styringsmessig art er allerede
-iverksatt. Internt i påtalemyndigheten oppstilles
-kort saksbehandlingstid som resultatmål (på linje
-med høy oppklaring og adekvat reaksjon).26 På
-enkelte områder er det oppstilt konkrete nasjonale mål for gjennomsnittlig saksbehandlingstid.
-Dette gjelder for nærmere angitte voldssaker (90
-dager), voldtektssaker (130 dager) og i saker med
-lovbrytere under 18 år (6 uker). I tillegg har riksadvokaten fastsatt følgende:
-«Det skal […] tilstrebes kort saksbehandlingstid i de sentralt prioriterte sakene [blant annet
-alvorlige volds- og seksuallovbrudd og organisert og økonomisk kriminalitet av alvorlig
-karakter], i saker med varetektsfengsling, i
-saker om opphør av tvungent psykisk helsevern/tvungen omsorg og prøveløslatelse fra
-forvaring. Rask etterforsking og iretteføring er
-videre viktig i saker begått av gjengangere.»27
-24
-25
-26
-
-Riksadvokaten (1/2016) s. 5.
-Jf. Strasak, Jus 322.
-Riksadvokaten (1/2016) punkt IV, 3.
-
-[Side 307]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-Videre stilles det krav om målretting av etterforskingen, hvilket går ut på å innrette den slik at det
-i den enkelte sak bare søkes informasjon som er
-nødvendig for å belyse de objektive og subjektive
-vilkårene i det aktuelle straffebudet, og reaksjonsspørsmålet, jf. riksadvokatens rundskriv del II, nr.
-3/1999:
-«Etterforsking er ikke en mer eller mindre tilfeldig innsamling av fakta, men en formålsstyrt
-virksomhet. Den faktainnsamling som etterforskingen består i, skjer med rettslige normer
-som bakgrunn, ramme og mål. Det er bare
-rettsrelevante fakta som er av interesse. Målet
-for innsamlingen er å etablere grunnlag for at
-påtalemyndigheten (og eventuelt senere retten) kan vurdere om en straffebestemmelse er
-overtrådt, og om gjerningsmannen fyller de tre
-øvrige hovedvilkår for straff: kravet til subjektiv skyld (forsett, uaktsomhet m.v.), kravet om
-tilregnelighet og at det ikke foreligger noen
-straffrihetsgrunn (for eksempel nødverge eller
-nødrett).» 28
-Riksadvokaten har også gitt direktiver om bruk av
-etterforskingsplaner, det vil si dokumenter som
-utarbeides av påtaleansvarlig i samarbeid med
-hovedetterforsker, og som gir en oversikt blant
-annet over de etterforskingsskritt som peker seg
-ut, rekkefølgen for gjennomføringen av disse, og
-hvem som skal ha ansvar for å utføre dem, med
-frister mv. Planene er gjenstand for oppdateringer,
-utvidelser og endringer, tilpasset utviklingen i
-saken, og de angir når etterforskingen forventes å
-være ferdig. I november 2013 påla riksadvokaten
-politiet å bruke etterforskingsplaner i voldtektssaker.29 I mars 2015 ble direktivet utvidet til også å
-gjelde saker om seksuallovbrudd mot barn og
-saker om vold i nære relasjoner, samtidig som
-etterforskingsplaner ble anbefalt i enkelte andre
-kategorier alvorlige saker.30 Erfaringene med
-bruk av etterforskingsplaner tilsier at de blant
-annet gir bedre faglig styring, økt kvalitet på etterforskingen og redusert saksbehandlingstid.
-Politiet er nylig omorganisert gjennom den
-såkalte Nærpolitireformen. Målet med reformen er
-å sikre tilstedeværelse av et kompetent og effektivt lokalt nærpoliti der befolkningen bor, og samtidig utvikle gode fagmiljøer som er rustet til å
-møte dagens og morgendagens kriminalitetsutfor27
-
-Riksadvokaten (1/2016) s. 5.
-Riksadvokaten (3/1999) punkt II.
-29
-Riksadvokaten (08.11.13).
-30
-Riksadvokaten (30.03.15).
-
-305
-
-Kapittel 14
-
-dringer.31 Reformen omfatter også tiltak som skal
-styrke politiets evne til å etterforske straffesaker.
-Et sentralt tiltak er en treårig Handlingsplan for
-løft av etterforskingsfeltet (mai 2016), utarbeidet av
-Politidirektoratet og riksadvokaten, med formål å
-heve kvaliteten i straffesaksarbeidet. Planen peker
-på at mangelfull ledelse og prioritering, utilstrekkelig kapasitet og rammer og utilstrekkelige
-systemer og strukturer utgjør vesentlige utfordringer. Det gis anvisning på 20 tiltak som gjelder styring og forvaltning (blant annet forvaltningsapparat for etterforsking), ledelse og kultur (blant
-annet bedret administrativ ledelse av etterforsking), kompetanse, læring og karriere (blant annet
-obligatorisk årlig opplæring), samhandling og
-arbeidsprosesser (blant annet nasjonale arbeidsprosedyrer og metoder for etterforskingsledelse),
-organisering (blant annet fagkoordinatorer for
-etterforsking) og digitalisering og IKT-støtte
-(blant annet økt digital samhandling).32
-Et av tiltakene i planen er etablering av sentralt
-straffesaksinntak i politidistriktene, der alle straffesaker tas imot og ledes i den innledende fasen,
-blant annet slik at påtalejurister raskt etter mottak
-av anmeldelse kan ta stilling til om saken skal henlegges, eller om etterforsking skal iverksettes.
-Et annet tiltak i planen er politiarbeid på stedet,
-som går ut på at politiets tjenestepersoner som er
-til stede ved en hendelse, typisk ved utrykning, i
-større grad foretar etterforskingsskritt der og da,
-også slike skritt som tradisjonelt har blitt utført av
-annet personell på et senere tidspunkt.
-Etter utvalgets syn er det i dag grunn til å ha
-forventninger til at etterforsking foregår konsentrert og effektivt, med slike ressurser og rammer
-at prosessen ikke preges av elementer som hemmer fremdriften, og at straffesaker i langt mindre
-grad blir liggende inaktive. Etterforskingen bør
-allerede fra initialfasen være målrettet og styrt.
-Unødig liggetid må unngås gjennom aktiv styring,
-hensiktsmessig arbeidsfordeling og en tilfredsstillende ressurstilgang. Gode rutiner må sikre en
-løpende og forpliktende oppfølging av tidsbruken.
-Saksbehandlingstiden frem til påtalevedtak
-bestemmes således i stor utstrekning av forhold
-som det er vanskelig å påvirke gjennom lovgivning. Resultatmål oppnås antakelig best gjennom
-ulike tiltak av administrativ og styringsmessig art,
-jf. over. Lovens anliggende bør være å gi klar
-anvisning på hvilke overordnede prinsipper som
-skal være styrende for gjennomføring og fremdrift
-i etterforskingen.
-
-28
-
-31
-32
-
-Prop. 61 LS (2014–2015) s. 5 flg.
-Politidirektoratet/riksadvokaten (31.05.16)
+Før en lovendring i 2002 – i kraft fra 2006 – var fremstillingsfrist etter § 183 «snarest mulig og så vidt mulig dagen etter pågripelsen».[^753] Begrunnelsen for forlengelsen var at «den totale bruken av frihetsberøvelse under etterforskingen vil bli redusert hvis fremstillingsfristen utvides».[^754] Tanken var først og fremst at den forlengede fristen vil gi politiet bedre mulighet til å etterforske saken så godt mens mistenkte er pågrepet, at behov for fengsling på grunn av bevisforspillelsesfare bortfaller. Det ble også vist til at etterforskingen kan lede til at det ikke lenger er skjellig grunn til å mistenke den pågrepne. Dessuten ble det vist til at påtalemyndigheten gitt en forlenget fremstillingsfrist ofte vil kunne be om en kortere varetektsperiode enn den ellers ville ha gjort. Endelig ble det fremhold:
+
+«Blir saken bedre etterforsket, kan også retten – i alle typer av fengslingssaker – få et bedre grunnlag for å vurdere fengslingsspørsmålet hvis den pågrepne fremstilles for fengsling. Det kan føre til flere løslatelser enn i dag, eller til at retten fastsetter en kortere varetektsperiode.»
+
+I 2010 sendte Justis- og politidepartementet på høring mulige innstramninger av fremstillingsfristen, som så langt ikke er fulgt opp.[^755] I høringsnotatet tok departementet som utgangspunkt at en fremstillingsfrist som ligger tett opptil grensen for hva som er akseptabelt etter menneskerettighetene, krever en særskilt begrunnelse.
+
+Denne vurderingen tok utgangspunkt i EMDs konkretisering av fremstillingsfristen etter EMK artikkel 5 nr. 3, til omkring fire døgn – som likevel ikke alltid vil være konvensjonsmessig. I tiden etter høringen har Norges menneskerettslige forpliktelser etter SP artikkel 9 nr. 3 blitt presisert av FNs menneskerettskomité, som har oppstilt et strengere fristkrav. Komiteen har i en individklagesak 27. mars 2013 uttalt at fremstilling senere enn 48 timer etter pågripelse «require\[s\] special justification»,[^756] og i komiteens General Comment 16. desember 2014 nr. 35 punkt 33 heter det:
+
+«While the exact meaning of ‘promptly’ may vary depending on objective circumstances, delays should not exceed a few days from the time of arrest. In the view of the Committee, 48 hours is ordinarily sufficient to transport the individual and to prepare for the judicial hearing; any delay longer than 48 hours must remain absolutely exceptional and be justified under the circumstances.»[^757]
+
+Høyesterett har vurdert betydningen av uttalelsene fra FNs menneskerettskomité i avgjørelsen inntatt i Rt. 2015 s. 1142. I avsnitt 30 og 31 heter det:
+
+«Jeg forstår uttalelsene slik at tidsbruken bare helt unntaksvis kan overstige 48 timer og bare såfremt omstendighetene kan rettferdiggjøre det. Fristen bygger på komiteens vurdering av at 48 timer vanligvis er tilstrekkelig til å transportere den pågrepne og til å forberede fengslingsmøtet.
+
+Som fremholdt i Rt-2008-1764 avsnitt 81, har uttalelser fra FNs menneskerettskomité betydelig vekt som rettskilde ved tolkingen av SP. Som følge av uttalelsen fra 2014 og en dom fra Oslo tingrett som jeg kommer tilbake til, har Riksadvokaten i midlertidige retningslinjer av 24. juni 2014 gitt uttrykk for at 48-timersregelen må følges ‘så langt det er mulig innenfor de gjeldende ressursmessige rammene’.»
+
+Høyesterett pekte videre på at grunner som kan rettferdiggjøre at fristen oversittes, vil variere, «blant annet ut fra hvor lang overskridelse det er snakk om, hvor alvorlig forbrytelse det er mistanke om og hvor tidkrevende det er å klarlegge fengslingsgrunnlaget». Etter omstendighetene ble fremstilling for fengsling av mistenkte i en narkotikasak 52 timer og 15 minutter etter pågripelsen godtatt.
+
+Norges folkerettslige forpliktelser tilsier i denne situasjonen nokså klart en innskjerping av fremstillingsfristen. Riktignok er hovedregelen etter straffeprosessloven § 183 at mistenkte skal fremstilles «snarest mulig». Åpningen for fremstilling «senest den tredje dagen etter pågripelsen» kan likevel gi et misvisende inntrykk av påtalemyndighetens handlingsrom.
+
+Slik utvalget ser det, kan en ikke si at det fra noe hold er godtgjort at den gjeldende fremstillingsfristen har gitt utvetydig positive resultater. Etter utvalgets syn kan det således også uavhengig av våre folkerettslige forpliktelser være grunn til å innskjerpe fremstillingsfristen. Det må understrekes at fremstilling av den pågrepne for en domstol innebærer en viktig legalitetskontroll med den pågående pågripelse og ikke bare har som formål å sikre forhåndsgodkjennelse av videre frihetsberøvelse.
+
+Spørsmålet er så hvordan fremstillingsfristen skal formuleres. Ved valg av frist er det grunn til å vektlegge behovet for å harmonisere fremstillingsfristen med fristen for overføring fra politiarrest innen to døgn etter forskrift om bruk av politiarrest § 3-1.[^758] Dette hensynet ble også fremhevet av departementet i nevnte høring. Det fremgår av riksadvokatens høringssvar at «enkelte fengsler har vært meget forbeholdne til å ta imot pågrepne eller undersøke om det er tilgjengelig fengselsplass før det foreligger fengslingskjennelse».[^759] Sammenfallende frister vil uansett støtte opp under rettidig overføring fra politiarrest og være en pedagogisk og administrativ fordel. Det kan også nevnes at regler som sett i sammenheng forutsetter overføring av en som er pågrepet til fengselsinstitusjon uten fengslingsbeslutning, setter pågripelsesbegrepet under et visst press.
+
+På denne bakgrunn foreslår utvalget en harmonisering av fristene, ved at den absolutte fremstillingsfristen etter straffeprosessloven angis til «senest den andre dagen etter pågripelsen». Formuleringen åpner for fremstilling etter 48 timer, avhengig av pågripelsestidspunkt og domstolenes åpningstid.[^760] Utvalget antar det er hensiktsmessig at loven på denne måten – uten noe generelt unntak fra lengstefristen – hjemler fremstilling noe etter 48 timer i tilfeller som etter en særskilt begrunnelse kan aksepteres som forenlig med våre folkerettslige forpliktelser. Med den foreslåtte frist antar utvalget at det ikke er behov for ytterligere unntak i loven for særlige tilfeller, som ville uthule lengstefristen. Det er i denne sammenheng grunn til å understreke hovedregelen: at den pågrepne skal fremstilles snarest mulig. Denne hovedregelen må praktiseres strengt i den forstand at unødige forsinkelser ikke kan aksepteres, samtidig som det kan være fullt forsvarlig og nødvendig å bruke noe tid på å ta stilling til spørsmålet om hvorvidt mistenkte skal fremstilles, og i så fall på å forberede en fengslingsbegjæring som kan danne grunnlag for meningsfull domstolsbehandling.
+
+Forslaget til fremstillingsfrist i utkastet § 15-15 innebærer ikke en helt fullstendig harmonisering med forskrift om bruk av politiarrest § 3-1, der fristen er angitt til «innen to døgn» etter pågripelsen, med forbeholdet «med mindre dette av praktiske grunner ikke er mulig». Fullstendig harmonisering er neppe aktuelt, idet forskriftsfristen vanskelig kan gjøres absolutt. Men det bør vurderes om utgangspunktet også etter politiarrestforskriften § 3-1 kan være «senest den andre dagen etter pågripelsen».[^761] En slik endring vil avhengig av pågripelsestidspunktet kunne innebære en noe utvidet frist for overføring fra politiarrest. Hvorvidt og under hvilke forutsetninger det vil kunne være forsvarlig, ligger det ikke naturlig til utvalget å vurdere.
+
+1.  **Personundersøkelse og psykiatrisk undersøkelse**
+
+    1.  **Gjeldende rett**
+
+Personundersøkelser og psykiatriske undersøkelser er en form for detaljert undersøkelse som er gjort til gjenstand for særskilt regulering i straffeprosesslovens kapittel 13. Formålet med å gjennomføre personundersøkelser er å sikre et godt grunnlag for å avgjøre reaksjonsspørsmålet. Herunder redegjøres det for siktedes bakgrunn og livsforhold slik at påtalemyndigheten og domstolen kan bedømme vedkommendes personlighet, funksjon i hverdagslivet og fremtidsutsikter. Retten eller påtalemyndigheten beslutter oppnevning, i praksis ofte av noen fra Kriminalomsorgen, se straffeprosessloven § 162, jf. § 163.
+
+Straffeprosessloven § 165 regulerer den såkalte rettspsykiatriske undersøkelse. I første ledd fastslås det at siktede kan underkastes slik undersøkelse dersom det er nødvendig for avgjørelsen av «saken». Undersøkelsene benyttes for å fastslå om lovbryteren var tilregnelig, og om det er forhold ved vedkommende som tilsier nedsettelse av straff etter straffeloven § 80.
+
+I noen tilfeller er det obligatorisk med psykiatrisk undersøkelse. Det gjelder saker hvor det er aktuelt med tvungent psykisk helsevern etter straffeloven § 62, tvungen omsorg etter straffeloven § 63 eller overføring fra psykiatrisk institusjon til fengsel etter lov om psykisk helsevern § 5-6, jf. straffeprosessloven § 165 annet ledd. I praksis gjennomføres slik undersøkelse også i saker hvor dette ikke er obligatorisk, selv om det i forarbeidene er forutsatt at det i de fleste tilfeller skal være tilstrekkelig med en personundersøkelse.[^762] Dette gjelder særlig for spørsmålet om hvorvidt det bør idømmes forvaring, jf. straffeloven § 40.
+
+Selve undersøkelsen gjennomføres av sakkyndige, som oppnevnes etter lovens alminnelige bestemmelser om sakkyndige, jf. straffeprosessloven §§ 138–142. Loven oppstiller ingen formelle krav til den sakkyndiges kvalifikasjoner, men bygger på en forutsetning om at de som oppnevnes, er psykiatere eller psykologer.
+
+Normalt gjennomføres undersøkelsen på etterforskingsstadiet. Den formelle beslutningen om undersøkelse treffes av retten, men er i praksis foranlediget av partenes initiativ, jf. straffeprosessloven §§ 237 første ledd, 241 og 265 første ledd.
+
+Er det tvil om hvorvidt det er nødvendig med psykiatrisk undersøkelse, kan påtalemyndigheten eller retten beslutte å hente inn en foreløpig erklæring fra en sakkyndig til veiledning om dette, jf. straffeprosessloven § 165 fjerde ledd. Bruken av slike undersøkelser varierer mellom landsdelene, noe som blant annet har vært forklart med ulik tilgang på ekspertise.[^763]
+
+Det store apparatet som en full psykiatrisk observasjon innebærer, vil som regel bare bli satt i verk ved kriminalitet av mer alvorlig karakter. Påtalemyndigheten henlegger ofte mindre alvorlige forhold uten at det gjennomføres slik undersøkelse. Under forberedelsene til og gjennomføring av hovedforhandling vil det imidlertid følge av domstolens plikt til å sikre sakens opplysning etter straffeprosessloven § 294 at det må bringes på det rene om betingelsene for å idømme straff foreligger, herunder om tiltalte er tilregnelig.
+
+1.  **Utvalgets vurderinger**
+
+    1.  *Kompetanse til å beslutte personundersøkelse*
+
+Ordningen med personundersøkelse bør videreføres, men slik at den kan besluttes av påtalemyndigheten i alle tilfeller. Etter gjeldende rett er påtalemyndighetens beslutningsmyndighet begrenset til tilfeller der «siktede har tilstått, eller når han samtykker i undersøkelsen, eller når undersøkelsen skal være til bruk ved behandlingen av anke over fastsettingen av straff eller andre forholdsregler», jf. § 162.
+
+Det vil være hensiktsmessig for påtalemyndigheten å ha generell beslutningsmyndighet, ettersom det kan være behov for personundersøkelse for å treffe riktig påtalevedtak, for eksempel for spørsmålet om hvorvidt det skal innrømmes påtaleunnlatelse. Har påtalemyndigheten besluttet at saken skal bringes inn for retten, vil personundersøkelsen tjene som grunnlag for forberedelse av saken, herunder ved utarbeidelse av straffpåstand. Om det i den enkelte sak er behov for å formalisere innhentingen av opplysninger ved bruk av personundersøkelse, beror på behovet for opplysninger og hvilke opplysninger man ellers har om vedkommende.
+
+Personundersøkelse må på de stadiene i saken der det er aktuelt å utføre den, anses som et relativt begrenset tvangsinngrep, også når det tas hensyn til oppmøteplikten utvalget anbefaler. I alle tilfeller får det generelle kravet til forholdsmessighet for bruk av tvangstiltak anvendelse. Det er således vanskelig å se tungtveiende hensyn som taler mot at påtalemyndigheten gis slik kompetanse. Av disse grunner fraviker utkastet § 16-1 annet ledd utgangspunktet i utkastet § 14-3 om at tvangstiltak skal besluttes av retten.
+
+1.  *Utførelse av personundersøkelse*
+
+Straffeprosessloven fastslår at Kriminalomsorgen skal utføre personundersøkelsen «om ikke retten beslutter at en bestemt person skal foreta undersøkelsen». Utvalget foreslår at arbeidet alltid utføres av Kriminalomsorgen eller noen Kriminalomsorgen utpeker.
+
+Forslaget må forstås i lys av utvalgets forslag om at påtalemyndigheten skal kunne beslutte at personundersøkelse skal utføres. Kriminalomsorgen har erfaring med og nødvendig kompetanse for å utarbeide slike undersøkelser og kan sikre effektiv informasjonsinnhenting fra øvrige myndigheter, redusere risikoen for at personopplysninger kommer på avveie, og sikre et sentralt register for opplysninger til bruk i eventuelle senere saker eller under en eventuell straffegjennomføring, se punkt 14.5.2.3. Det vanlige vil være at personer ved friomsorgskontorene gjør dette.[^764]
+
+1.  *Tilgang til personundersøkelse*
+
+Opplysninger som fremgår av en personundersøkelse, kan være nyttige å ha tilgang til for Kriminalomsorgen når straffens nærmere innhold skal fastsettes. I dag er rettstilstanden slik at dersom Kriminalomsorgen, som utarbeider personundersøkelser etter straffeprosessloven § 163, ønsker å benytte undersøkelsen til egne formål, må det skje en utlevering fra påtalemyndigheten til kriminalomsorgen etter reglene om utlån av saksdokumenter i avsluttet straffesak. Alternativt kan Kriminalomsorgen selv utføre en tilsvarende undersøkelse i medhold av straffegjennomføringsloven.[^765]
+
+Utvalget mener Kriminalomsorgen bør ha direkte og ubetinget tilgang til denne informasjonen. Det vil være unødig tungvint om det samme organet som har innhentet og oppbevarer opplysningene, skal måtte henvende seg til påtalemyndigheten for å få tilgang til dem for bruk i anledning straffegjennomføringen eller skal måtte utføre arbeidet på nytt. Slik hjemmel bør gis i straffegjennomføringsloven.
+
+1.  *Psykiatrisk undersøkelse*
+
+Utvalget anbefaler i det vesentlige å videreføre ordningen med bruk av psykiatrisk undersøkelse. Det er imidlertid grunn til å endre betegnelsen «psykiatrisk undersøkelse» for å få frem at også psykologiske undersøkelser omfattes. Utkastet § 16-2 er derfor gitt overskriften «Psykiatrisk undersøkelse og psykologisk undersøkelse. Opphold i institusjon».
+
+Tilregnelighetsutvalget hadde som mandat å foreta en bred vurdering av rettspsykiatriens rolle i straffesaker og anbefalte en rekke lovendringer, se NOU 2014: 10. Straffeprosessutvalget slutter seg i det vesentlige til disse anbefalingene og har tatt hensyn til flere av forslagene ved utformingen av de generelle vilkårene for bruk av sakkyndige og tvangstiltak i kapittel 11, 14 og 16. En konkret regulering som er fulgt opp, er Tilregnelighetsutvalgets forslag om at det på dette fagområdet i alminnelighet skal oppnevnes to sakkyndige, hvorav én skal være godkjent som spesialist, se utkastet § 16-2 tredje ledd.[^766]
+
+Det er videre grunn til å følge opp Tilregnelighetsutvalgets forslag om unntak fra taushetsplikten i psykisk helsevernloven § 5-6 for opplysninger som er nødvendige for å vurdere om tvungent psykisk helsevern, tvungen omsorg eller forvaring skal idømmes eller opprettholdes. Ellers bør den alminnelige taushetsplikten gjelde.[^767] Straffeprosessutvalget fremmer ikke eget forslag om endring av lov om psykisk helsevern på dette området, idet Tilregnelighetsutvalgets utredning er til behandling.
+
+1.  *Bruk av tvang for fremstilling til personundersøkelse, prejudisiell undersøkelse og psykiatrisk og psykologisk undersøkelse*
+
+Å få gjennomført undersøkelse av mistenkte er, som det har fremgått, av stor betydning for saksavviklingen og for korrekt opplysning av straffesaken, herunder for tilregnelighetsspørsmålet.[^768]
+
+Utvalget er gjort kjent med at det er et problem og nokså ressurskrevende at det ikke er gitt hjemmel for å fremstille den som etterforskes for lovbrudd, for en prejudisiell undersøkelse med sikte på å avklare om det er behov for full psykiatrisk undersøkelse, jf. straffeprosessloven § 165 fjerde ledd. Gruppen det gjelder, unnlater i utstrakt grad å respondere på innkallinger og å møte opp til undersøkelse.
+
+Utvalget mener i lys av betydningen undersøkelsene har for sakens opplysning at det bør gis hjemmel for å fremstille mistenkte til prejudisiell undersøkelse. Av samme grunn bør det også være adgang til å fremstille mistenkte til personundersøkelse. Se utkastet §§ 16-1 fjerde ledd og 16-2 femte ledd, jf. § 15-7 annet ledd
+
+1.  *Oppbygningen av kapitlet*
+
+Straffeprosessloven regulerer bruken av personundersøkelse og psykiatrisk undersøkelse utenfor og i psykiatrisk institusjon i kapittel 13. Reguleringene er spredt i paragrafene §§ 161 til 170, i alt ti bestemmelser. Utvalget anbefaler i det alt vesentlige å videreføre innholdet i bestemmelsene, men samler reguleringen i to bestemmelser i utkastet kapittel 16 knyttet til de tre tiltakene det er snakk om, henholdsvis personundersøkelse og psykiatrisk og psykologisk undersøkelse i og utenfor institusjon.
+
+1.  **Kroppslig undersøkelse og identifiseringstiltak mv.**
+
+    1.  **Gjeldende rett**
+
+Straffeprosessloven kapittel 12 om gransking gir generelle regler om undersøkelse av bevismidler for å utlede relevant informasjon. Objektet for «gransking» etter kapitlet er alle ting og personer som kan brukes som bevis, men for så vidt gjelder undersøkelse av person, brukes gjerne lovens betegnelse «kroppslig undersøkelse», jf. straffeprosessloven § 157. Det er også egne bestemmelser i kapitlet om tiltak for identifisering av personer ved bruk av fingeravtrykk og fotografi samt innhenting og oppbevaring av DNA. I tillegg til hjemmel for tvangsmiddelbruk angir kapitlet hvilke fremgangsmåter som skal benyttes under slike undersøkelser.
+
+«Granskning» avgrenses mot søk etter og innhenting av bevis som reguleres av andre regelsett. Et eksempel er at besiktigelse av en person for å fremskaffe biologiske spor kan skje etter reglene om *ransaking*, mens det er å anse som *kroppslig undersøkelse* dersom det er aktuelt med mer enn en ytre undersøkelse av vedkommende, for eksempel blodprøve. Et annet eksempel er et klesplagg som *beslaglegges* med sikte på å undersøke om det er biologisk materiale på det, og som eventuelt kan analyseres nærmere som DNA-spor i medhold av § 158.
+
+Vilkårene for å utføre kroppslig undersøkelse er at undersøkelsen må antas å være av betydning for sakens opplysning, ikke fremstår som et uforholdsmessig inngrep, og at inngrepet kan gjennomføres «uten fare eller betydelig smerte», jf. straffeprosessloven § 157 første ledd. Mistenkte har ikke plikt til å medvirke ved undersøkelsen, men undersøkelsen kan, selv om dette ikke er sagt direkte i loven, gjennomføres med makt.
+
+Utgangspunktet er at prøvene kun skal benyttes i strafferettspleien, men unntak gjelder for «rettstoksikologiske analysedata» som tar sikte på å avdekke forekomst av fremmedstoffer i blodet, og som kan benyttes i forskningsøyemed etter nærmere regler gitt i forskrift, jf. straffeprosessloven § 157 femte ledd. Begrunnelsen for særreguleringen er at Divisjon for rettstoksikologi og rusmiddelforskning ved Folkehelseinstituttet (tidligere Statens rettstoksikologiske institutt) i utstrakt grad driver rettstoksikologisk analysevirksomhet til bruk i straffesaker etter oppdrag fra påtalemyndigheten, og at det er behov for systematisk dokumentasjon av undersøkelser som grunnlag for vitenskapelige studier knyttet til rusmiddelbruk og kriminalitet mv. Det var behov for en særlig hjemmel for virksomheten, ettersom Datatilsynet ved flere anledninger avslo søknader om forskning på rettstoksikologiske analysedata etter at personopplysningsloven trådte i kraft i 2001. Det er foreløpig ikke gitt nærmere regler i medhold av femte ledd.
+
+1.  **Utvalgets vurderinger**
+
+Utvalgets lovforslag innebærer en strukturell omlegging av straffeprosessloven kapittel 12 om «granskning». Reglene om kroppsundersøkelse og identifiseringstiltak bør samles i et eget kapittel og i det vesentlige videreføres etter sitt innhold, se utkastet kapittel 17. Utvalget har vurdert særskilt om mistankekravet for å innhente DNA fra mistenkte bør senkes, og om det bør gis en videre adgang til å forske på det materialet som innhentes ved kroppslig undersøkelse.
+
+DNA er et viktig og i mange sammenhenger lett tilgjengelig bevismiddel som lar seg fremskaffe ved et begrenset personinngrep. Biologisk materiale med sikte på å gjennomføre en DNA-analyse kan innhentes fra den som «med skjellig grunn mistenkes for en straffbar handling som etter loven kan medføre frihetsstraff», og etter samtykke, jf. straffeprosessloven § 158 første og annet ledd.
+
+Etter svensk rett kan biologisk materiale innhentes i større utstrekning enn etter norsk rett. Dersom formålet med å analysere DNA-prøven er å «underlätta identifiering» ved etterforskingen av en straffbar handling som kan medføre fengsel, og det er «synnerlig anledning» til å anta at innhentingen er av betydning for etterforskingen, kan det tas DNA-prøve, jf. rättegångsbalken 28 kap. 12 b §.
+
+Utvalget mener det bør gis anledning til å innhente DNA uten at det først må etableres et sterkt mistankegrunnlag ved bruk av andre bevis, og at det således er grunn til å senke dagens mistankekrav for innhenting av DNA-materiale fra mistenkte. DNA er i dag det mest utbredte sporbeviset, men med det særlige kjennetegn at informasjonen ikke viser seg umiddelbart, slik et fingeravtrykk gjør, og lar seg innhente med kun et begrenset inngrep overfor mistenkte. Krav om at det først skal etableres skjellig grunn til mistanke basert på andre bevismidler før beviset kan innhentes, vil formentlig bidra til unødig ressursbruk, unødige inngrep og til at saker hvor DNA er det eneste tilgjengelige bevis, ikke blir oppklart. Det er også grunn til å anta at det alminnelige mistankekravet vil legges på strekk for at man skal kunne nyttiggjøre seg innhentet DNA, og det å senke kravet på et praktisk viktig område, hvor mothensynene i begrenset grad gjør seg gjeldende, vil således bidra til å støtte opp om det regulære mistankekravet.
+
+Mot å senke mistankekravet taler hensynet til personvern. Utvalget mener dette vernet ikke bør få gjennomslag med sikte på slik bruk av informasjonen i enkeltsaker som det her er tale om. En lovteknisk virkning av å senke kravet er at også terskelen for registering etter politiregisterloven § 12 vil bli senket, ettersom registreringshjemmelen er knyttet opp mot hjemmelen for innhenting av DNA-materialet. Om det også er hensiktsmessig å senke terskelen for registering, eller om vilkåret fremdeles bør være «skjellig grunn til mistanke», tar ikke utvalget stilling til.
+
+Utvalget mener adgangen til å benytte innhentet materiale fra kroppslig undersøkelse til forskningsformål bør være generell og ikke forbeholdes toksikologiske studier, selv om slike nok også i fremtiden vil være de mest hyppige. Forskning på materialet vil være forenlig med innsamlingsformålet, ved at den kan bidra til en generell opplysning av straffesaker. Noen vesentlige motforestillinger mot en slik adgang gjør seg etter utvalgets syn ikke gjeldende. En forutsetning er selvsagt at de prosedyrer som gjelder for å igangsette forskning på denne type analysedata, følges, blant annet kravene etter personopplysningsloven. Se utkast § 17-4.
+
+1.  **Ransaking og undersøkelse av ting**
+
+    1.  **Forholdet mellom ransaking, beslag, gransking og kroppslig undersøkelse**
+
+Straffeprosessloven § 192 avgrenser ransakingsbegrepet til undersøkelser med et bestemt formål som knytter an til andre inngrepshjemler i loven: Ransaking kan skje for å søke etter personer som kan *pågripes*, eller ting som kan *beslaglegges*. For tingenes del kan ransakingsformålet således være å finne bevis, inndragningsobjekter eller ting som kan kreves utlevert til fornærmede, jf. straffeprosessloven § 203. Ransaking skjer dermed rimeligvis forut i tid for disse andre tvangstiltakene.
+
+En slik tidsmessig suksesjon skiller også *gransking* fra ransaking. Gransking etter gjeldende straffeprosesslov innebærer, på samme måte som ransaking, en nærmere undersøkelse av sted eller ting. Men slik nærmere undersøkelse skiller seg fra ransaking ved at det forutsetter et allerede tilgjengelig og definert undersøkelsesobjekt. Hva som er et undersøkelsesobjekt, er riktignok i prinsippet avhengig av perspektiv: Et lager kan ransakes, og man finner en bil, bilen kan ransakes, og man finner en koffert, kofferten kan ransakes, og man finner et fingeravtrykk eller en minnepinne. Men en undersøkelsesprosess i et lokale som nevnt kan også foregå ved at lageret ransakes og bilen tas i beslag med sikte på gransking. Dette innebærer ikke at ransakingsbegrepet er konturløst, og at man rettslig står helt fritt i valg av perspektiv. Man kan for eksempel ikke omgå beslutningsreglene som gjelder for ransaking, ved å ta beslag i det nevnte lageret som bevis, for så å granske det for å finne en bil. Det kan også gå en grense for hvor omfattende beslag som kan tas ut fra det konkrete formålet med ransakingen: Leter man etter kofferten, kan man ikke ta beslag i bilen. Men alt etter det aktuelle etterforskingsformål og de konkrete omstendigheter kan det i et eksempel som det nevnte variere adskillig hvor ransakingen stopper og det tas beslag i bevis med sikte på gransking. Straffeprosessloven § 199 a – i ransakingskapitlet – illustrerer at grensen mellom ransaking og gransking ikke gir seg selv. Bestemmelsen hjemler pålegg om å gi fra seg tilgangsinformasjon ved «ransaking av et datasystem» – en form for undersøkelse som det kunne være nærliggende å anse som gransking.
+
+Selv om også ransaking er en form for undersøkelse, er det således både rettslig og terminologisk grunn til å skille mellom søk etter ting og nærmere undersøkelser. Uttrykket «ransaking» er godt innarbeidet i dagligspråket og fører tanken i riktig retning med tanke på hva slags type undersøkelse som utføres. Undersøkelser i form av nærmere studier betegnes i dag som «granskning», jf. straffeprosessloven kapittel 12. Ordet gir assosiasjoner til større undersøkelser og utredninger, herunder slike som utføres av offentlige oppnevnte granskningskommisjoner. Ordet «granskning» peker heller ikke fullt ut mot alle sider ved det å studere bevismidler nærmere; det er ikke bare bevismiddelets egenskaper som skal avdekkes, det skal også klargjøres hvilken betydning disse egenskapene har for saken. Utvalget har på denne bakgrunn valgt å betegne slike undersøkelser som «undersøkelse av ting», se utkastet § 18-7.
+
+Undersøkelser vil i tid gjennomføres etter innhenting av det objekt som undersøkes nærmere, og situasjonen – og dermed grunnlaget for bruk av tvangstiltaket – kan ha endret seg. Det kan for eksempel være gode grunner til å beslaglegge en datamaskin med bevissikringsformål, mens det senere viser seg at det å undersøke innholdet vil utgjøre et uforholdsmessig inngrep. Et skille mellom beslag og nærmere undersøkelse av ting kan således bidra til å sikre at grunnvilkårene for tvangstiltaket vurderes på nytt på undersøkelsestidspunktet.
+
+Skillet mellom ransaking av sted og person er heller ikke helt skarpt, idet straffeprosessloven § 192 i tillegg til bolig og rom også omhandler «oppbevaringssted». Gjelder det «ransaking av en reisendes ryggsekk, håndkoffert e.l.», er det ifølge forarbeidene «mest naturlig å bruke reglene om ransaking av person», jf. straffeprosessloven § 195.[^769] Personransaking må videre avgrenses mot *kroppslig undersøkelse* etter straffeprosessloven § 157, fordi det overfor andre enn mistenkte kun er adgang til det første, og polititjenestemann som ikke tilhører påtalemyndigheten, kan i hastetilfeller mv. foreta personransaking av mistenkte, jf. § 198, men aldri kroppslig undersøkelse. De to instituttenes kjerneområder gir seg selv (undersøkelse av vesker og klær i motsetning til blodprøve og undersøkelse av kroppens hulrom), men grensespørsmål kan oppstå. Det må gå en grense ved innvortes undersøkelser, også hvis dette gjennomføres utenfra ved røntgenundersøkelse. I forarbeidene til gjeldende lov heter det at det kan være tvilsomt hvilke regler som skal gjelde for en «utvortes besiktigelse som foretas for å lete etter spor på gjerningsmannens legeme, f.eks. klore- eller bitemerker, blodflekker, kruttslam», men det legges til grunn at ransakingsreglene er anvendelige. Utskraping under neglene står visstnok i en «tvilsom mellomstilling».[^770]
+
+1.  **Hvordan bør de ulike ransakingsobjektene inndeles?**
+
+I straffeprosessloven er ransaking av mistenkte og andre regulert i samme paragrafer, mens det er egne bestemmelser om ransaking av personer og steder. Personransaking er regulert for seg i § 195. Undersøkelse av steder reguleres i §§ 192, 193 og 202, og disse bestemmelsene kan sies å avgrense tre sfærer der hensynet til privatlivet gjør seg gjeldende med avtakende styrke. Dette reflekteres i vilkårene for ransaking av de respektive steder.
+
+Ransaking etter § 192 av boliger mv. krever således skjellig grunn til mistanke om lovbrudd som kan medføre frihetsstraff (eller mistanke om mindre tyveri), og må som utgangspunkt besluttes av retten.[^771] Ingen av disse vilkårene gjelder for ransaking etter § 193 av hus eller rom som etter sin art er tilgjengelig for alle, eller er stedet for virksomhet som krever tillatelse av politiet, eller militær bygning mv. Straffeprosessloven § 202 åpner for undersøkelser «på sted av annen art enn nevnt i § 192» og tar sikte av undersøkelser «i det fri», som ifølge lovforarbeidene faller utenfor «den egentlige ransaking».[^772] Det gjelder ikke andre vilkår etter § 202 enn at undersøkelsen foretas «i etterforskingsøyemed», og den primære beslutningsmyndigheten er lagt til retten eller påtalemyndigheten. Slik undersøkelse er forutsatt å kunne gjennomføres uten særlig beslutning hvis eier eller besitter samtykker, og politiets tjenestemenn utenfor påtalemyndigheten er gitt hastekompetanse.
+
+For personransaking gjelder i hovedsak de samme vilkår som for ransaking etter § 192 av private hjem mv.
+
+Ved systematiseringen av de ulike paragrafer om ransaking er et hovedhensyn å forsøke å skille mellom ulike inngrepsgrader, slik at vilkårene for ulike typer ransaking kan differensieres. Spørsmål er så hvilke typer ransaking som bør reguleres for seg.
+
+For det første er det etter utvalgets syn grunn til å synliggjøre skillet mellom ransaking rettet mot mistenkte og inngrep overfor tredjepersoner gjennom paragrafinndelingen – og ikke bare i egne ledd, som i dag. Den mistenkte er den etterforskingen retter seg mot, og står således i en særlig stilling der tvangstiltak kan aksepteres i større grad enn overfor utenforstående.
+
+Hva gjelder spørsmålet om hvilke typer steder som bør reguleres særskilt, står boliger, kontorer, hytter, båter og andre lukkede steder som ikke er tilgjengelige for allmennheten, i en særstilling. Grunnloven § 102 fastsetter at enhver har «rett til respekt for sitt privatliv og familieliv, sitt hjem og sin kommunikasjon», og videre at «husransakelse må ikke finne sted, unntatt i kriminelle tilfeller». Slik ransaking griper inn i den indre sfære av privatlivet og er sammenlignbar med personransaking hva gjelder inngrepsgrad. Utvalget foreslår derfor å regulere personransaking og ransaking av bolig mv. samlet.
+
+Et spørsmål er så i hvilken grad det er grunn til å differensiere mellom steder som faller utenfor avgrensningen av en slik indre privatlivssfære. Som nevnt i foregående punkt skilles det i dag mellom ransaking av lukket sted som er tilgjengelig for allmenheten mv., og ransaking i det fri. Utvalget har kommet til at det ikke er tilstrekkelig grunn til å ha ulike vilkår basert på et slikt implisitt og uskarpt skille mellom «ute» og «inne» for steder som har det til felles at de i utgangspunktet er tilgjengelige for et større antall personer eller for enhver. Vilkårene i straffeprosessloven §§ 193 og 202 er for øvrig nær sammenfallende, med noe ulik regulering av beslutningsmyndighet: Politiets tjenestemenn utenfor påtalemyndigheten kan beslutte ransaking etter § 193, jf. § 198 første ledd nr. 1, mens beslutningskompetansen etter § 202 primært er lagt til retten eller påtalemyndigheten, og politiets tjenestemenn utenfor påtalemyndigheten kun er gitt hastekompetanse. Denne nyansen er det etter utvalgets syn ikke nødvendig å videreføre.
+
+Tilsvarende adgang til ransaking som for allment tilgjengelige steder er det etter gjeldende rett også for hus eller rom som er stedet for en virksomhet som krever tillatelse av politiet, jf. straffeprosessloven § 193 første ledd i.f. Særbehandlingen av slike steder hviler formentlig på en tanke om at de nærmest er «offentlige for offentlige myndigheter», og at særlige kontrollbehov gjør seg gjeldende. Utvalget antar behovet for kontroll med virksomheter som krever særlig tillatelse, bør skje rent administrativt, og at det ikke er behov for å lempe på reglene for straffeprosessuell ransaking.
+
+Straffeprosessloven § 193 annet ledd likestiller militære bygninger, rom og fartøy med slike steder som etter bestemmelsens første ledd kan ransakes på lempelige vilkår. Heller ikke denne reguleringen er etter utvalgets syn nødvendig eller prinsipielt ønskelig, og utvalget viser til at det ikke gjelder tilsvarende regler verken for fengsler eller offentlige kontorer.
+
+1.  **Betydningen av at det gis samtykke til ransaking**
+
+I straffeprosessloven kapittel 15 er betydningen av samtykke fra den det ransakes hos, regulert i tre bestemmelser. Av § 197 følger det at ransaking av hus og rom mv., eller av person, «uten vedkommendes skriftlige samtykke» bare kan foretas etter beslutning fra retten. Bestemmelsen i § 198 annet ledd gjør unntak for den adgang en politimann ellers har etter første ledd til i visse tilfeller å foreta ransaking uten beslutning; personlig ransaking kan da «ikke foretas uten samtykke». Bestemmelsen i § 202 åpner for å beslutte ransaking i det fri «uten samtykke av eier eller besitter», og forutsetter med det at beslutning ikke er nødvendig ved samtykke som nevnt.
+
+Det er klart nok at samtykke etter de tre nevnte bestemmelsene gjør unntak fra reglene om beslutningsmyndighet. Hvorvidt samtykke også kan tre i stedet for situasjonsbetingelsene for ransaking, har vært noe omdiskutert.[^773]
+
+Etter utvalgets syn kan det være hensiktsmessig at beslutningsmyndigheten forskyves ved samtykke, idet behovet for legalitetskontroll gjennomgående reduseres i tilfeller der den som berøres, ikke har motforestillinger mot inngrepet (under forutsetning av at samtykket er informert og fritt). Men samtykke bør, slik utvalget ser det, ikke kunne tre i stedet for lovens situasjonsbetingelser. I denne sammenheng er det grunn til å peke på at vilkårene for tvangsmiddelbruk ikke bare kaster lys over hvilke inngrep det fra lovgiverhold er ansett rimelig at borgerne utsettes for, men også peker mot hvilke inngrep påtalemyndigheten i det hele tatt bør søke å benytte. En annen sak er at en undersøkelse – alt etter de nærmere omstendighetene og undersøkelsens omfang – kan miste sin karakter av tvangsinngrep dersom det samtykkes, og initiativet kommer fra den berørte.
+
+1.  **Bør det stilles et kvalifisert kriminalitetskrav for ransaking av boliger mv. i et større område?**
+
+Ransaking av «alle hus eller rom i et nærmere bestemt område» etter straffeprosessloven § 194 kan bare skje som ledd i etterforskingen av lovbrudd som kan medføre fengsel i 8 år eller mer.
+
+I forarbeidene er det vist til at det i dansk rett ikke gjelder et slikt kvalifisert kriminalitetskrav, og at Hurwitz har vurdert slik ransaking som mindre inngripende overfor tredjeperson enn individuell ransaking, idet inngrepet «ifølge sin generelle karakter ikke kan kaste nogen speciel mistanke på den enkelte».[^774] Denne i og for seg rimelige betrakningen ble imøtegått på følgende vis av Straffeprosesslovkomitéen:
+
+«Komitéen har dog ment at det er naturlig med en slik begrensning, selv om det i praksis neppe ville komme på tale å gå til en så omfattende ransaking hvor det ikke gjelder særlig alvorlige forbrytelser.»[^775]
+
+Utvalget legger til grunn at et større antall tredjepersoner ikke bør utsettes for slike forstyrrelser av den private sfære som en ransaking representerer, uten at sterke straffeforfølgningsinteresser tilsier det.
+
+Spørsmålet er så hvilket kriminalitetskrav som bør gjelde. I gjeldende straffelov har ingen straffebestemmelser en strafferamme på 8 år. Heller ikke etter reglene om fastsetting av straff utover lengstestraffen i straffeloven § 79 kan det bli aktuelt med en slik strafferamme med «rettslig virkning». De aktuelle alternativene er således å heve eller senke kriminalitetskravet til henholdsvis 10 eller 6 år, og utvalget antar at det mest nærliggende er 10 år, som vil forbeholde denne typen omfattende ransaking for den virkelig alvorlige kriminalitet.
+
+1.  **Personransaking av andre enn mistenkte. Forholdet til kroppslig undersøkelse**
+
+Etter straffeprosessloven 1887 var det ikke adgang til personransaking av andre enn mistenkte. I Straffeprosesskomitéens forslag ble det derimot åpnet for både personransaking og kroppslig undersøkelse av andre enn mistenkte.[^776] Om det siste uttaler komitéen blant annet:
+
+«Som regel vil det være tale om personer som er vitner i saken, oftest den fornærmede. Det kan imidlertid også gjelde barn som er for små til å høres som vitner, eller personer som på grunn av åndssvakhet, sinnssykdom eller legemlig svakhet er ute av stand til å gi vitneforklaring. Det kan på samme måte som for siktedes vedkommende være tale om undersøkelser av spor eller merker av den straffbare handling. I en sak om voldtekt eller om sedelighetsforbrytelse mot et barn blir f.eks. den krenkede undersøkt av lege for å konstatere forbrytelsens følger eller for å lete etter spor som kan lede til identifikasjon av gjerningsmannen. Men det kan også være tale om undersøkelser av vitnets syn, hørsel, hukommelse eller andre forhold som er av betydning for en bedømmelse av vitneprovets verdi.
+
+\[…\]
+
+Komitéen er av den oppfatning at det skal sterke grunner til for at man skal kunne foreta legemsundersøkelse eller annen gransking av et vitne mot vitnets protest. Det er her tale om et inngrep i den personlige rettssfære som ikke uten videre kan sammenlignes med de ulemper og oppofrelser som vitneplikten for øvrig kan medføre. Situasjonen kan imidlertid ligge slik an at man ikke bør mangle hjemmel til å få den nødvendige undersøkelse gjennomført.
+
+\[…\]
+
+I en voldtektssak kan vi tenke oss at den siktede hevder at det forelå samtykke fra den fornærmede og at det bestod et varig seksuelt forhold mellom dem. For å styrke sin forklaring oppgir han kjennskap til legemsmerker eller anatomiske eiendommeligheter hos fornærmede. I et slikt tilfelle bør det være adgang til ved legemsundersøkelse å få klarlagt om hans opplysninger er riktige.
+
+\[…\]
+
+Blant de momenter som retten skal ta hensyn til ved avgjørelsen, er ‘vedkommendes forhold til saken’ særskilt nevnt. Med dette tenker man særlig på anmelderens stilling. Den som har opptrådt som anmelder, må finne seg i å stå til disposisjon for undersøkelse i større utstrekning enn den som uten noe slikt initiativ blir blandet inn i saken.»
+
+Forslaget ble gjennomført kun for personransaking, ikke for kroppslig undersøkelse, idet Justiskomiteen mente det var behov for en nærmere vurdering:[^777]
+
+«Komiteen har også merka seg at Justisdepartementet i eit notat til komiteen uttaler at det ikkje kan koma på tale å nytte regelen mot den krenkte i ei valdtektssak, når ho nektar slik undersøking. Komiteen meiner kroppsleg undersøking er eit alvorleg inngrep i den personlege integritet når det skjer utan samtykke. Komiteen vil og peike på at den krenkte vil vera i ein kjenslemessig vanskeleg situasjon rett etter eit mogeleg overgrep. Komiteen er merksam på at påtalemakta ofte ikkje kan føre bevis for valdtekt utan kroppsundersøking. Komiteen kan også skjøna at ein som blir meld for valdtekt kan kjenne behov for å få mistanken avkrefta ved slik undersøking.
+
+Komiteen vil og vise til at regelen vel vil ha lite å seie i narkotikasaker, fordi dei personar det kan vera aktuelt å kreve undersøking av, som regel må sjåast som mistenkte.
+
+Med bakgrunn i det nemnde finn komiteen at det er fleire uklare spørsmål i samband med tvangsundersøking av andre enn mistenkte, og komiteen kan ikkje utan vidare sjå behovet for ein slik lovregel. Komiteen vil derfor be departementet vurdere denne saka på ny.
+
+I samråd med departementet gjer komiteen framlegg om at ikraftsettinga av § 158 blir utsett til spørsmålet er nærare vurdert. Av praktiske grunnar foreslår ein regelen oppheva.»
+
+Ved lov 14. juni 1985 nr. 71 ble § 158 opphevet, uten at det senere har blitt åpnet for kroppslig undersøkelse av andre enn mistenkte.
+
+Så vidt utvalget er kjent med, har det i straffeprosesslovens virketid ikke fra noe hold blitt påvist noe behov for å utvide adgangen til kroppslig undersøkelse til også å gjelde tredjepersoner. Utvalget foreslår således ikke noen slik utvidelse.
+
+1.  **Beslutningsmyndighet for ransaking**
+
+I høringen til Straffeprosesslovkomiteens innstilling fra 1969 ble det fra Politiembetsmennenes Landsforening foreslått at påtalemyndigheten burde ha myndighet til å beslutte alle typer ransaking, med adgang til å bringe spørsmålet inn for retten.[^778] Departementet fulgte ikke opp dette, og uttalte:
+
+«Departementet er her enig med komitéen og slutter seg til dens begrunnelse (innst s 251, til § 200). Ved ransaking får man ingen etterfølgende rettslig kontroll slik som ved pågripelse og beslag, og dette anser man prinsipielt avgjørende, jf også at det i proposisjonen ikke vil bli foreslått endringer i gjeldende ordning med hensyn til hvem som skal beslutte pågripelse. Se også utk § 205, beslutning om beslag.»
+
+Én mulighet kunne være å gi en uttrykkelig bestemmelse om adgang til å kreve etterfølgende legalitetskontroll uavhengig av spørsmålet om rettslig interesse. Men det er nok uansett ikke noe særlig praktisk behov for en slik løsning. Ved vurderingen av reglene om beslutningsmyndighet er det grunn til å være oppmerksom på ransakingsadgangen ved pågripelse etter straffeprosessloven § 178 annet ledd og pågripelsesmyndigheten i hastetilfeller for tjenestepersoner i politiet som ikke tilhører påtalemyndigheten etter straffeprosessloven § 176 – som utvalget viderefører, jf. utkastet § 14-3 tredje ledd bokstav a. Det vises også til adgangen for politiets operative tjenestepersoner til å foreta ransaking uten særskilt beslutning for å gjennomføre en pågripelse som er besluttet av påtalemyndigheten eller retten, jf. straffeprosessloven § 198 tredje ledd og utkastet § 18-1 annet ledd. Disse reglene medfører i praksis en nokså vidtgående adgang til ransaking uten rettens eller påtalemyndighetens beslutning. De mindre inngripende formene for ransaking – på sted som er tilgjengelig for enhver mv. – krever heller ikke rettens beslutning.
+
+Utvalget legger således til grunn at det prinsipielle utgangspunktet bør være at beslutning om de inngripende formene for ransaking – ransaking av bolig mv. og av person – skal treffes av retten, men med hastekompetanse for påtalemyndigheten og politiets operative tjenestemenn. Det gjøres i dag utvilsom utstrakt bruk av hastekompetanse, men det er i seg selv ikke en grunn til å fravike det prinsipielle utgangspunktet. Ligger forholdene til rette for det, bør det sikres rettslig forhåndskontroll med hus- og personransakinger.
+
+1.  **Beslag og utleveringspålegg**
+
+    1.  **Gjenstanden for beslag og beslagsbegrepet**
+
+Etter gjeldende rett er gjenstanden for beslag «ting», jf. straffeprosessloven § 203. Således omfattes både fast gods og løsøre – herunder dokumenter og endog dyr – så vel som mindre håndfaste manifestasjoner, som gass og væsker av enhver art samt blodprøver og annet biologisk materiale. Også elektronisk lagrede opplysninger er «ting» i lovens forstand, selv om opplysningenes fysiske manifestasjon ikke er umiddelbart sansbar.
+
+Utvalget har i tråd med ønsket om en mest mulig teknologinøytral lovtekst vurdert om gjenstanden for beslag bør angis på annen måte enn i dag. Det er imidlertid vanskelig å finne et uttrykk som bedre enn «ting» fanger opp de svært forskjellige objekter det kan være snakk om å beslaglegge. Dessuten er uttrykket vel innarbeidet, og mange spørsmål om forståelsen er avklart i rettspraksis, se for eksempel Rt. 2009 s. 1011, der det er lagt til grunn at også domenenavn er «ting». På denne bakgrunn foreslår utvalget å videreføre bruken av uttrykket i beslagsbestemmelsen.
+
+Kort sagt synes «ting» å omfatte alt som kan tas hånd om av politiet for de beslagsformål loven anerkjenner, det vil si for å nyttiggjøres som bevis, for å inndras eller for å utleveres til fornærmede. Rent immaterielle størrelser faller derimot utenfor. Utover sistnevnte begrensning antar utvalget at beslagsinstituttet ikke bør avgrenses gjennom en nærmere angivelse av hva som kan være gjenstand for beslag. Det anses derfor også unødvendig med noen legaldefinisjon av «ting».
+
+Straffeprosessloven angir ikke uttrykkelig hva et beslag innebærer, men et sentralt element er – i tråd med vanlig språkbruk – at påtalemyndigheten overtar rådigheten over tingen, hvilket også følger forutsetningsvis av straffeprosessloven § 214, jf. også §§ 208, 209 og 213. Som følge av påtalemyndighetens overtakelse av tingen mister den beslaget tas hos, den faktiske rådigheten over tingen. Det må dessuten legges til grunn at vedkommende mister den rettslige rådigheten over tingen så langt det følger av beslagsformålet.
+
+1.  **Beslagsfrihet og forholdet til bevisreglene**
+
+Etter straffeprosessloven § 204 kan det ikke tas beslag i «dokumenter og annet hvis innhold et vitne kan nekte å forklare seg om etter §§ 117–121 og 124–125». Dette innebærer såkalt beslagsfrihet for ting som knytter seg til de angitte bevisforbud og forklaringsfritak.
+
+Etter utvalgets forslag er reglene om bevisforbud løsrevet fra dagens forklaringsforbud. Det er derfor ikke nødvendig med en egen bestemmelse om beslagsfrihet i beslagskapitlet. Det vises til drøftelsen i punkt 13.3.3 om nøytralitetsprinsippene som ligger til grunn for lovutkastets bevisregler.
+
+I korthet innebærer bevisreglene i utkastet omtrent samme beslagsfrihet som etter gjeldende rett. En lovteknisk forskjell er at unntaket fra beslagsadgang knyttet til forklaringsfritakene etter straffeprosessloven § 124 om forretnings- eller driftshemmeligheter og § 125 om pressens kildeopplysninger vil følge av bevisforbudet i utkastet § 8-4, som er avledet av de tilsvarende vitnefritakene i utkastet §§ 9-4 og 9-5.
+
+1.  **Håndteringen av spørsmål om beslagsforbud**
+
+    1.  *Oversikt over problemsituasjonen*
+
+Beslagsforbud kan i tråd med utvalgets generelle tilnærming ses som et direkte utslag av bevisforbud og de verdier som ligger til grunn for disse, jf. punkt 13.3.3 og 13.3.5. Det er selvsagt prinsipielt mulig å tillate innhenting av en type bevis og å åpne for bare visse typer bruk av opplysningene – for eksempel slik at beviset kan benyttes for etterforskingsformål, men ikke føres i retten. Men så langt det gjelder bevisforbud som utelukker enhver bruk, er et tilsvarende beslagsforbud nærmest tankenødvendig.
+
+Ved tvil om hvorvidt et bevisforbud gjør seg gjeldende for hele eller deler av et materiale som vurderes beslaglagt, oppstår det rettslige og praktiske spørsmål om hvordan mulige beslagsforbud skal håndteres. Særlig gjelder det ved beslag av store informasjonsmengder, som et helt arkiv eller store mengder datalagret materiale på en harddisk eller en dataserver.
+
+I mange tilfeller vil det være klart at man står overfor materiale som omfattes av bevis- og beslagsforbud. I Rt. 2013 s. 968 avsnitt 23 heter det således:
+
+«Det gjelder normalt en presumsjon for at ‘dokumenter og tilsvarende som befinner seg på kontoret hos en frittstående privatpraktiserende advokat’ er undergitt taushetsplikt og dermed beslagsforbud, jf. Rt. 1996 side 1081. Jeg finner det ikke tvilsomt at denne presumsjonen omfatter en advokats databærere.»
+
+Men etter omstendighetene kan det være tvil om hvorvidt og i hvilken grad det gjelder beslagsforbud. Etter gjeldende rett er det lagt opp til rettslig forhåndskontroll når det oppstår spørsmål om beslagsforbud – som følge av presumsjoner som den nevnte eller fordi noen med interesse i saken motsetter seg beslaget.
+
+Det praktisk viktigste typetilfellet er at materialet hevdes å inneholde beskyttet korrespondanse med advokat eller helseopplysninger, jf. straffeprosessloven § 204, jf. § 119. Etter rettspraksis skal fremgangsmåten det er gitt anvisning på i straffeprosessloven § 205 tredje ledd annet punktum, gis tilsvarende anvendelse i slike tilfeller.[^779] Bestemmelsen lyder: «Dersom politiet vil ta med dokumenter til retten for avgjørelse av om beslag kan tas, skal dokumentene forsegles i lukket konvolutt i nærvær av en representant for besitteren.»
+
+I denne typen saker legges det således opp til beslag i to omganger, med mellomliggende rettslig kontroll som kan ses som «et ledd i en pågående ransaking».[^780] Først tar politiet beslag i informasjonsbæreren, for eksempel en datamaskin (eller i praksis gjerne en speilkopi av harddisken), uten at informasjonen den inneholder, kommer til politiets kunnskap. Retten vurderer så om og i hvilken utstrekning materialet er omfattet av beslagsforbud. De deler av beslaget som ikke måtte være omfattet, utleveres politiet, som så kan gjennomgå det på vanlig måte og ta beslag i aktuelle dokumenter. Politiets første beslag kan således ses under synsvinkelen *realbeslag*, som så er gjenstand for videre gransking – hvilket er en nærliggende betraktningsmåte ved søk i en harddisk.[^781]

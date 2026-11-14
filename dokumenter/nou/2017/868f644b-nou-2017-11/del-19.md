@@ -1,862 +1,326 @@
-# NOU 2017: 11, del 19 av 26 (side 222–231)
+# NOU 2017: 11, del 19 av 25
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2017/868f644b-nou-2017-11.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2017-11/id2553617/
 - Original-PDF: https://www.regjeringen.no/contentassets/8e638734347b4e93ab97f597a8ac0bc8/no/pdfs/nou201720170011000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 32 tabeller, 55 figurer, 209 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 222]
-
-222
-
-Kapittel 14
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-drift og skape rom for bedre prioriteringer i statsbudsjettet. Endring i organisasjonsstruktur kan
-være et effektivt virkemiddel for å oppnå dette,
-men andre virkemidler, som digitalisering og endring av arbeidsprosesser, kan også være effektivt.
-Kombinasjonen av etterslep på investeringssiden og krav til effektivisering, samt en stor andel
-øremerkede midler og krav til bemanningsøkning, har gitt politiet begrenset handlingsrom for
-investering og utvikling. Siden 2008 har det vært
-et mål å øke politibemanningen i henhold til en
-bemanningsnorm tilsvarende to politiansatte per
-tusen innbyggere på nasjonalt nivå.3 Samtidig har
-politiet en arbeidsintensiv tjenesteproduksjon der
-personellkostnader utgjør om lag 80 prosent av
-budsjettrammen både i politidistriktene og i særorganene.4 Bemanningsnormer kan føre til for
-dårlig oppmerksomhet på effektiv ressursbruk,
-gjennom at ressursbruken, herunder økningen i
-politistillinger, blir et mål i seg selv.5
-Tilførsler av øremerkede midler til å opprette
-nye politistillinger har de siste årene gitt god tilgang på politibetjenter i særorgan og politidistrikt.6 Perioder med økende tilførsel av personell
-krever at det legges kontinuerlig vekt på organisasjonstiltak og tilpasning av arbeidsprosesser for å
-sikre effektiv ressursutnyttelse.
-Det har de siste årene vært god tilgang på
-nyutdannede politibetjenter, men som følge av at
-bemanningsnormen innfris i 2019/2020, forventes
-en påfølgende reduksjon i studentopptaket.7 Følgelig kan politiet forvente økt press på å optimalisere utnyttelsen av politiressurser. I tillegg inngår
-tiltak for å etterleve kravene i avbyråkratiseringsog effektiviseringsreformen.8
-
-14.2 Rom for digitalisering
-Gjennom intervjuer og samtaler med ledelsen i
-særorganene, ledelsen i politidistriktene, kontrollorganer og andre interessenter har utvalget erfart
-at det kan være rom for å automatisere arbeidsprosesser gjennom digitalisering, noe også produktivitetskommisjonen har poengtert.9 Eksempelvis legger teknologiutviklingen til rette for økt
-automatisering av trafikksikkerhetsarbeidet.
-Automatisk trafikkontroll er allerede utbredt, og
-et påbud om alkolås i buss og minibuss er ute på
-høring per mai 2017.
-I løpet av de kommende 20 år er det grunn til å
-anta at inntredenen av autonome kjøretøy vil redusere risikoen for trafikkovertredelser og ulykker
-vesentlig. Større grad av teknologiunderstøttelse
-av trafikksikkerhetsarbeidet vil følgelig redusere
-behovet for operativt mannskap. Utnyttelse av den
-teknologiske utviklingen forutsetter ofte endrede
-arbeidsprosesser og arbeidsoppgaver og eventuelt vridning av ressurser til andre områder,
-eksempelvis gjennom omorganiseringer.10
-Teknologirådet peker eksempelvis i sin rapport Forutseende politi (2015) på de muligheter
-dataanalyser kan gi for å styrke politiets arbeid
-med forebygging og bekjempelse av flere typer
-kriminalitet.
-Riksrevisjonens undersøkelse av gevinstrealisering i statlige IKT-prosjekter fant at få virksomheter dokumenterer gevinstrealisering gjennom
-digitalisering.11 Tilbakemeldinger fra ledelsen i
-særorganene tyder på at dette også gjelder i politiet.
-
-14.3 Anskaffelser som strategisk
-verktøy
-3
-
-4
-5
-6
-7
-
-8
-
-Regjeringen har besluttet å følge anbefalingene i rapporten
-Politiet mot 2020 – Bemannings- og kompetansebehov i politiet. Politidirektoratet (2008).
-Politidirektoratet (2015). Politiets ressursanalyse 2015.
-Se også omtale av bemanningsnormer i Produktivitetskommisjonen – NOU 2016: 3.
-I perioden 2012–2016 har antall politistillinger økt med
-1200.
-PODs tilråding i forbindelse med samfunnsøkonomisk analyse om Politihøgskolens kapasitetsutnyttelse ved ulike studentopptak.
-Alle statlige virksomheter skal påse at mål og resultatkrav
-oppnås på en ressurseffektiv måte. I regjeringens avbyråkratiserings- og effektiviseringsreform (ABE) legges det til
-grunn at politiets årlige budsjetter skal reduseres med mellom 100 og 150 mill. kroner (0,7–1 prosent). Nominelle kroner er etter kapittel 440, post 1, 14 205 143 000 kr, Prop. 1 S
-(2015–2016) s. 108.
-
-Et annet viktig grep for bedre måloppnåelse og
-effektiv verdiskaping er å bruke anskaffelser som
-strategisk verktøy. Politiet har et omfattende og
-dynamisk samfunnsoppdrag, noe som også gjenspeiles i politiets anskaffelsesbehov. Virkemidlene
-til å bekjempe kriminalitet ventes å bli stadig mer
-utstyrs- og teknologiintensive i takt med samfunns- og teknologiutviklingen for øvrig. Politiet
-9
-10
-
-11
-
-NOU 2016: 3 s. 35.
-Direktoratet for forvaltning og IKT (2016). Nøklene til
-handlingsrommet. Hva fremmer og hemmer effektivisering i
-staten? Difi-rapport 2016: 6.
-Riksrevisjonen administrativ rapport nr. 1 2015. Trenden
-støttes av Difis medarbeiderundersøkelse i staten fra 2016,
-der bare 25 prosent av lederne svarte at digitalisering var
-en svært viktig ledelsesutfordring.
-
-[Side 223]
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-er siden 2013 årlig blitt tildelt ca. 350 nye politistillinger. Politidirektoratet har i samtaler med utvalget påpekt betydningen av en satsing på å gjeninnhente investeringsetterslepet på IKT, i tillegg til
-satsingen på politiet i form av flere politiårsverk.
-Gjennom Politiets fellestjenester (PFT)12 gjør
-politiet en rekke sentraliserte felleskjøp som
-effektivt skal bidra til å kutte kostnader. Både
-bredden og spissene i politiets oppgaveløsning tilsier at den sentrale anskaffelsesfunksjonen i PFT
-vil ha behov for å trekke på aktuelle fagmiljøer
-innenfor enkeltområder. Det kan også være tilfeller hvor det er fagmiljøet selv som forestår anskaffelsen. Dette er også påpekt av Teknologirådet (se
-også kapittel 10). Bruk av offentlig innkjøpsmakt
-kan også bidra til innovative løsninger.13
-Særorganene er alle tilknyttet et uformelt fagnettverk innenfor anskaffelsesområdet, der også
-både PST og PFT inngår. Det avholdes samlinger
-ca. hvert kvartal der det utveksles informasjon og
-erfaringer av betydning for fagområdet. Også på
-overordnet nivå er det på anskaffelsesområdet
-planlagt et samarbeid mellom dagens særorganer.
-Strategisk bruk av anskaffelser forutsetter en
-sterk bevissthet blant lederne i fagmiljøene. Utvalget erfarer at bevisstheten om potensialet i strategisk bruk av offentlige anskaffelser varierer blant
-lederne i politiets særorganer. Den største utfordringen synes likevel å være knyttet til balansegangen mellom hensyn til spesialiserte behov på
-den ene siden og behov for sentraliserte avtaler på
-den andre.
-Økokrim gir uttrykk for at bruk av PFT og sentrale avtaler ikke alltid gir de beste betingelsene.
-Dette handler for det første om at Økokrims
-behov ikke alltid er sammenfallende med politiets
-behov, dernest at egne behov og prioriteringer
-ikke blir tilstrekkelig vektlagt. Samtidig deltar
-Økokrim aktivt i enkelte kravspesifikasjoner og
-anskaffelsesprosesser som kjøres av PFT. Erfaringen så langt er at bruk av PFT og sentrale avtaler
-synes å gi besparelser for politietaten som helhet,
-men i liten grad for Økokrim som særorgan. En
-viktig årsak synes å være at de sentraliserte avtalene ofte er så omfattende at de vanskelig kan ta
-høyde for Økokrims spesialiserte behov, blant
-annet for avansert IT-utstyr som skiller seg fra
-12
-
-Politiets data- og materielltjeneste (PDMT) ble avviklet
-som særorgan fra 7. oktober 2013 og ble delt opp i to selvstendige enheter, Politiets IKT-tjeneste (PTP) og Politiets
-fellestjenester (PFT).
-13
-Se bl.a. www.innovativeanskaffelser.no for eksempler på
-droneutvikling (BaneNOR) og FoU innen trafikksikkerhet
-(Statens Vegvesen), samt www.anskaffelser.no
-
-223
-
-Kapittel 14
-
-PIT, og særavtaler har derfor ofte gitt bedre
-betingelser.
-Forskjeller viser seg også på mer generelle
-områder. I forbindelse med ny avtale om kontormøbler ble budsjettrammen redusert med 40 prosent, men ny avtale kompenserte ikke for dette.
-Tilsvarende erfaring opplevde Økokrim i forbindelse med ny avtale på reisebyråtjenester. Et
-annet eksempel er siste sentrale avtale på høyvolums kopi/print/skann, som ble godt tatt i mot i
-politietaten, men som medførte dårligere
-betingelser for Økokrim.
-Økokrim oppgir at anskaffelser i noen grad
-blir brukt strategisk for å oppnå bedre løsninger,
-økt effektivitet og innsparinger, først og fremst
-innen IT. Samtidig blir det opplyst at det ikke foreligger en egen anskaffelsesstrategi. Dette er en
-integrert del av Økokrims generelle virksomhetsstrategi.
-En viktig utfordring er at Økokrims behov ofte
-ikke blir dekket av såkalt hyllevare. I stor grad er
-det nødvendig med spesialtilpasninger. Dette gjelder spesielt for programvare for analyse og håndtering av databeslag. I mange tilfeller vil ikke ett
-enkelt produkt løse behovet, og det kan gjerne
-være behov for flere hurtige anskaffelser. Erfaring viser at det ofte ikke er marked for slike produkter i Norge. Dette mener Økokrim er utfordrende, fordi både pris og support samt mulighet
-for å påvirke støtte for nye enheter, protokoller er
-nødvendig. Økokrim opplever derfor at direkte
-kontakt med utenlandsk leverandør erfaringsmessig ofte er å foretrekke.14
-Kripos har i likhet med Økokrim en del store
-anskaffelser som er så spesifikke og teknologisensitive at det er nødvendig å involvere egne fagmiljøer på et tidlig stadium. I mange tilfeller er det
-også nødvendig med samarbeid og kunnskapsdeling både nasjonalt og internasjonalt i forkant av
-en anskaffelsesprosess. Et slikt forpliktende samarbeid, særlig internasjonalt, forutsetter at Kripos
-oppfattes som en relevant aktør. For Kripos er det
-avgjørende med egen kapasitet for å gjøre relevante vurderinger av kravspesifikasjoner, fordi
-flere av Kripos’ fagfelt er svært spisset, og baserer
-seg på teknologi i rask utvikling. Mange av
-Kripos’ områder er også preget av høy risiko, og
-Kripos’ troverdighet er i stor grad knyttet til kvalitet. Dette er utfordrende når en del av metodene
-er under kontinuerlig innovasjon. Kripos må derfor nøye vekte kriteriene kvalitet opp mot pris,
-men Kripos’ erfaring så langt er at dette møter
-14
-
-Brev til sekretariatet 22. mars 2017.
-
-[Side 224]
-
-224
-
-Kapittel 14
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-liten forståelse hos PFT, som etter deres mening i
-for stor grad vektlegger pris.
-Kripos’ foreløpige erfaring med sentraliserte
-innkjøp er at gevinstene antas å være større for
-politidistriktene. En bedre rolledeling mellom
-PFT og Kripos kan endre forutsetningene noe,
-men ettersom det for Kripos’ del fortsatt vil være
-områder der deres egne fagfolk legger premissene, anser Kripos det som lite regningssvarende
-å bygge en slik spisskompetanse i PFT. Som følge
-av dette vil det heller ikke være unaturlig at det
-også i fremtiden vil være anskaffelser som foretas
-av Kripos alene.
-I likhet med Økokrim opplever også Kripos at
-ny avtale knyttet til reisebyrå og hotell ikke innebærer reell innsparing sammenlignet med tidligere avtaler, til tross for at Kripos har relativt høy
-reiseaktivitet.
-Strategisk bruk av anskaffelser er ledelsesforankret i Kripos gjennom prosess og interne retningslinjer, men ikke nedfelt i egne strategidokumenter.15
-Utrykningspolitiet (UP) har i løpet av det siste
-tiåret erfart at PDMT/PFT i enkelttilfeller har
-manglet både kapasitet og kompetanse til å følge
-opp strategiske behov for anskaffelser. Dette har
-omfattet anskaffelse av spesielle sivile kjøretøy,
-automatisk
-nummerplategjenkjenningsutstyr
-(ANPR) samt delvis nytt videoutstyr og analyseverktøy for spyttprøver. I disse tilfellene har UP
-derfor selv gjennomført hele anskaffelsesprosesser, men med noe merkantil juridisk støtte fra PFT
-(tidligere PDMT).
-UP oppgir selv at de bruker anskaffelser som
-strategisk virkemiddel, både innenfor digitalisering og verktøy for effektiv polititjeneste på vei,
-for eksempel gjennom kravspesifikasjoner til innkjøp av utstyr eller tjenester og til å anskaffe og
-bruke ny teknologi som dataløsninger i kjøretøyene (Scireduct og ANPR) og elektronisk forenklet
-forelegg og gebyr. UP har også forankret anskaffelser som del av sin overordnede strategi Veien
-mot 2018.
-UP mener at en sentral utfordring for effektiv
-bruk av anskaffelser som strategisk verktøy er at
-POD i liten grad involverer nasjonal ledergruppe
-(NLG) i prioriteringen av nasjonale anskaffelser.
-Som et eksempel nevner UP et anskaffelsesprosjekt for såkalte cruise lights (svakt blålys ved kjøring i tettbebygde områder i mørket for å varsle
-publikum om at politiet er i området), som ble
-gjennomført uten at det ble gjort en grundig
-nasjonal behovsanalyse. Samtidig oppgir UP at de
-
-i flere år har spilt inn behov for å digitalisere forenklede forelegg og gebyr som reaksjon på overtredelser langs veien.16
-Politiets utlendingsenhet (PU) er for tiden i en
-prosess med å overføre lokale avtaler til PFT og
-har som mål at de aller fleste avtalene i fremtiden
-vil være innenfor rammen av sentralt inngåtte
-avtaler. Samtidig peker PU på at det er rom for
-bedre å ta ut effekt av sentralt inngåtte rammeavtaler lokalt i PU.
-PUs satsinger og investeringer senere år relatert til tekniske undersøkelser og analyser av
-elektroniske spor er et godt eksempel på hvordan
-anskaffelser er benyttet som strategisk virkemiddel. Anskaffelsene har resultert i effektive verktøy
-og metoder i arbeidet med identitetsfastsettelse,
-som bidrar til effektiv kriminalitetsbekjempelse.
-Dette er eksempel på et område hvor aktuelle fagmiljøer bør involveres i de sentrale anskaffelsesprosessene.
-Gjenbruk av informasjon er et annet strategisk
-element. PU har arbeidet mye med integrasjoner
-mellom ulike systemer. For å løse ulike IT-behov
-arbeider PU både i «politisporet» og i «UDI-sporet». PU søker å være en pådriver for gjenbruk av
-funksjonalitet, for eksempel i utvidelse av UDIs
-arkivløsning, der man legger til rette for elektronisk lagring av lydopptak, elektronisk booking av
-tolker mv.
-PU ser samtidig utfordringer knyttet til effektiv bruk av anskaffelser. Særlig blir det pekt på at
-manglende sentrale avtaler og begrenset mulighet
-til å påvirke vilkår og rammer i foreliggende avtaler kan resultere i at anskaffelser går utenom etablerte avtaler.
-Samtidig peker PU på at sentralisering av
-anskaffelser i politiet gir god anledning til å etablere et nytt og helhetlig styringssystem for fagområdet. En sentralisert oversikt på innkjøpssiden gir mulighet for bedre styring og prioritering
-og er særlig viktig når anskaffelser må gjennomføres på kort varsel. For PUs virksomhet kan for
-øvrig størrelsen på oppgavevolumet variere kraftig. PU viser her til at Statens innkjøpssenter kan
-være en viktig aktør som kan utfylle PFTs rolle,
-og at innkjøpssenteret fra september 2017 planlegger å ha tilrettelagt for elektroniske bestillinger knyttet til inngåtte statlige rammeavtaler.
-For egen del har ikke PU etablert en egen
-anskaffelsesstrategi, men de har etablert lokale
-systemer og rutiner for å sikre at anskaffelser
-skjer på en effektiv og forsvarlig måte, hovedsake-
-
-15
-
-16
-
-Brev til sekretariatet 22. mars 2017.
-
-ibid.
-
-[Side 225]
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-lig i tilknytning til budsjettprosessen, som er forankret i PUs ledermøte.
-Politihøgskolen (PHS) er som høgskole avhengig av å gjøre anskaffelser på en rekke områder
-som er atypiske for etaten for øvrig, og som ikke
-inngår i PFTs portefølje. Særlig gjelder dette
-anskaffelser knyttet til IKT, der PHS benytter avtaler som er inngått av UNINETT på vegne av universitets- og høyskolesektoren. PHS drifter sitt
-eget nett og gjør bruk av etatens rammeavtaler
-der det er mulig. Alternativt gjøres egne anskaffelser. PHS drifter bygg og anlegg på fire geografiske steder og har i sin campusforvaltning
-behov for å kjøpe tjenester knyttet til vedlikehold
-og ombygging/tilpasning av undervisningsrom
-og øvingsfasiliteter for å legge til rette for et best
-mulig læringsmiljø for studentene. I bruk av
-utstyr og teknologi til bruk i kriminalitetsbekjempelsen har PHS de samme behov som etaten for
-øvrig. Ofte vil det dreie seg om store volumer dersom anskaffelsen er direkte studentavhengig.
-PHS er av den oppfatning at effektive anskaffelser i høyeste grad er et virkemiddel for å nå
-strategiske mål, der gode kravspesifikasjoner og
-anskaffelsesprosesser er av avgjørende betydning. Dette krever at virksomheten har egen
-bestillerkompetanse og kompetanse til å gjennomføre egne anskaffelsesprosesser dersom en sentralisert anskaffelsesfunksjon ikke kan benyttes.
-Som høyskole og del av etatens anskaffelsesprogram oppgir PHS det som en utfordring at kravspesifikasjoner som kan være betydningsfulle for
-egen virksomhet, ikke blir tatt hensyn til i den
-store sammenheng og således ikke bidrar til
-effektiv drift. Dersom alle anskaffelser skal gjennomføres av en sentralisert anskaffelsesfunksjon
-ut fra en forventning om at det er mest effektivt å
-samle fagkompetansen ett sted, vil det etter PHS’
-mening være en utfordring å få gjennomslag og
-prioritet for virksomheter som har særskilte
-behov som kun berører egen virksomhet. Egne
-anskaffelser må således være mulig å gjennomføre. Flere særorgan vil eventuelt også ha felles
-behov som ikke sammenfaller med etatens behov,
-og vil kunne gjennomføre felles anskaffelser.
-PHS har retningslinjer for anskaffelser som
-bygger på reglene for offentlige anskaffelser og
-etatens anskaffelsesstrategier. Retningslinjene
-har blitt gjort kjent i organisasjonen, er tilgjengelig på PHS’ intranett og inngår videre i rektors
-årlige interne disponeringsskriv til avdelingene.
-PHS har per i dag ikke identifisert behov for å
-utarbeide en egen anskaffelsesstrategi, men anser
-etatens og høgskolens interne retningslinjer som
-tilstrekkelige og formålstjenlige.
-
-225
-
-Kapittel 14
-
-Økt lederfokus og større samordning mellom
-fagmiljøene legger til rette for stordriftsfordeler
-og synergieffekter i anskaffelser, noe som kan gi
-både økonomiske gevinster og kvalitetsgevinster.
-Tall fra Difi anslår at en slik målrettet og strategisk bruk av anskaffelser kan gi en årlig effektivitetsgevinst på minst 3–4 prosent.17 Dette frigjør
-ikke bare kapitalressurser, men også verdifull tid
-til andre oppgaver.
-
-14.4 Innsparing i politiet
-De siste årene har hele offentlig sektor, inkludert
-politiet, forholdt seg til årlige avbyråkratiseringsog effektiviseringskutt (ABE-kutt) på 0,7–1 prosent. For 2017 innebærer det et kutt på 180 millioner kroner. Dette skal være et insentiv for innsparing og effektivisering, men har også medført
-noen uheldige ringvirkninger. Politiet har ikke
-hatt forutsetninger til å møte kravene i avbyråkratiserings- og effektiviseringsreformen gjennom
-reelle effektiviseringstiltak. Resultatet er at politiets allerede begrensede budsjettmessige handlingsrom i realiteten har blitt ytterligere innsnevret.
-I flere deler av politiet, inkludert særorganene,
-har dette ført til at tildelte nye stillinger har fått
-utsatt tiltredelse og i noen tilfeller forblitt ubesatt.
-Dette kan ha hatt innvirkning på kvalitet eller
-omfang på oppgaveløsningen.
-Det er likevel store forskjeller mellom særorganene med hensyn til bemanningssituasjonen.
-PU tredoblet sin bemanning i perioden 2009–
-2016. Om lag halvparten av bemanningsøkningen
-til PU i perioden 2009–2016 har vært arbeidstakere under 35 år, hvorav en betydelig andel har
-vært nyutdannede.18 Verken UP eller Økokrim
-har opplevd særlig bemanningsvekst i samme
-periode, men ambisjonsnivå i mål- og resultatkrav
-har likevel økt.
-Det er ofte betydelige transaksjonskostnader
-forbundet med opp- og nedskalering av årsverk,
-blant annet knyttet til rekrutterings- og opplæringskostnader. Erfaringer fra andre statlige virksomheter indikerer en totalkostnad på rundt
-80 000 kr per ansettelse.19 Med den store usikkerheten knyttet til asyl- og migrantstrømmene er det
-17
-18
-19
-
-www.anskaffelser.no
-Politidirektoratet (2016): Lønnsutvikling i politiet 2009–
-2016.
-DFØ (2008). Veileder i beregning av samfunnsøkonomiske
-gevinster og kostnader. Omstilling av statlige virksomheter. Justert for prisvekst 2008–2016.
-
-[Side 226]
-
-226
-
-Kapittel 14
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-risiko for at PU bemannes for «toppene», som
-medfører ineffektiv bruk av begrensede politiressurser. Eksempelvis var ressurstildelingen til PU i
-2016 basert på en prognose på 33 000 asylankomster, mens resultatet ble i underkant av 3100.20
-UDI anslår at antall asylsøkere i 2017 vil ligge mellom 3000 og 12 000 asylsøkere.21 Den opp- og nedskalering som PU har gjennomgått de siste årene
-har med disse forutsetningene medført betydelige
-kostnader.
-Særorganene har ulike utgangspunkt når kravene til ABE-kutt blir vedtatt. UP har eksempelvis
-en liten administrasjon og et begrenset drifts- og
-investeringsbudsjett. Handlingsrommet oppgis
-dermed å være lite.
-For de øvrige særorganene, der personellkostnadene utgjør rundt 75 prosent av budsjettrammen, vil det være vanskelig å foreta kutt uten at
-dette går utover enten bemanning eller investeringer. Difi peker i en rapport på at mange ansatte i
-offentlig sektor mener frigjøring av midler til
-investeringer kan være en viktig drivkraft i effektiviseringsprosessene.22 Særlig gjelder dette der
-det blir stilt krav til at investeringer skal tas innenfor rammen av eget budsjett, hvilket har vært vanlig i politiet.
-Utvalget har imidlertid ikke grunnlag for å
-hevde at de etterslep i investeringer flere ledere i
-særorganene rapporterer om, følger av manglende evne eller vilje til å ta nødvendige investeringer innenfor rammen av eget budsjett.
-
-14.5 Barrierer for mer effektive
-særorganer
-Særorganene binder ressurser til avgrensede innsats- og ansvarsområder. Dersom særorganene er
-for snevert organisert, kan det utgjøre en barriere
-i møte med endringsbehov, og således en barriere
-mot effektiv utnyttelse av begrensede politiressurser. Politiets organisering bør gi fleksibilitet til fornying og tilpasning til endringer i rammebetingelser. Dette innebærer en organisering som
-gir insentiv og mulighet til å realisere gevinster
-som følge av teknologiutviklingen.
-
-20
-
-Det ble registrert i underkant av 3500 nye asylsøkere,
-hvorav over 400 var født i Norge av asylsøkende foreldre, jf.
-Brochmann-utvalget II, NOU 2017: 2.
-21 https://www.udi.no/aktuelt/forventninger-om-antall-asylsokere-til-norge-i-2017-og-2018/.
-22
-Direktoratet for forvaltning og IKT (2016) Nøklene til handlingsrommet. Hva fremmer og hemmer effektivisering i staten? Difi-rapport 2016:6, s. 11–12.
-
-En kriminalitetsutvikling som går på tvers av
-politiets organisatoriske skiller, kan forvente å gi
-økt behov for koordinering mellom enhetene.
-Dette kan også gå på bekostning av kvalitet,
-eksempelvis ved at organisatoriske skiller fungerer som barrierer mellom fagmiljøer og således
-hindrer potensiell fagutvikling og synergieffekter.
-Investeringsgapet
-Store deler av politietaten har de siste årene opplevd at ressursene til utvikling og modernisering
-ikke har vært tilstrekkelig. Dette har blant annet
-sammenheng med et opplevd begrenset økonomisk handlingsrom. I tillegg innebærer krav til
-bemanningsvekst også binding av tildelt budsjett.
-I årene 2013–2017 har Stortinget bevilget øremerkede midler til 350 nye politistillinger hvert år for
-å nå et mål om to politiårsverk per 1000 innbyggere innen 2020. Flere politimestre mener imidlertid at bevilgningene ikke fullt ut dekker utgiftene
-for å tilsette politiårsverkene.
-Politiet har de senere årene også blitt tildelt
-nye oppgaver som ikke har vært fullfinansiert,
-blant annet har straffesaksutgiftene (obduksjoner,
-analyser, undersøkelser m.v.) de senere år økt
-betydelig uten at det i tilstrekkelig grad har vært
-kompensert gjennom de årlige budsjettildelingene. Finansieringen av disse oppgavetildelinger
-har etaten forsøkt dekket gjennom effektiviseringstiltak og omprioriteringer og i stor grad
-spist av et allerede trangt driftsbudsjett. Det har i
-tillegg over flere år bygget seg opp et etterslep på
-investeringssiden, særlig innenfor IKT.
-Som følge av krevende budsjetter har politidistriktene også hatt et etterslep på tilsettinger. Justis- og beredskapsdepartementet har i sitt tildelingsbrev til Politidirektoratet for 2017 bedt om at
-etterslepet skal tas igjen i løpet av første halvår
-2017, mens det siste halvår 2017 skal tilsettes 350
-nye politiutdannede. Samlet vil dette føre til en
-betydelig ressursøkning som vil styrke politidistriktene. Flere politiledere påpeker imidlertid at
-det er ikke gitt at politietaten styrker sitt samfunnsoppdrag med flere hoder alene. Det avgjørende er om politiet får den kompetansen det er
-behov for.
-Politikultur
-Politikultur er en viktig betingelse for effektivisering. Utvalget har erfart dette gjennom
-intervju og samtaler med ledelsen i både særorgan og politidistriktene. Inntrykket bekreftes
-også av Difis pågående evaluering av nærpolitire-
-
-[Side 227]
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-formen.23 Dette får sitt uttrykk gjennom dels liten
-endringsvilje. Samtidig registrerer utvalget gjennom sin spørreundersøkelse en opplevd distanse
-mellom politikultur i distriktene og kultur/holdninger i sentral ledelse i Politidirektoratet.
-Politikulturen forsterkes gjennom nye politimannskaper som sosialiseres inn i etaten og gjennom intern rekruttering, samt opprykk til høyere
-stillinger.
-Politikulturen kan også komme til uttrykk
-gjennom såkalt silotenkning, det vil si manglende
-helhetstenkning og manglende insentiver til å ta
-ansvar for å finne synergier og utvikle effektive
-fellesløsninger og standarder. Dette kommer
-blant annet til syne i utvikling og forvaltning av
-fag- og metodeansvar på en rekke områder. Det er
-flere eksempler på at det på grunn av manglende
-overordnet styring har utviklet seg ulike metoder
-basert på lokal politikultur istedenfor at man har
-utviklet felles standarder som bidrar til mer enhetlig polititjeneste.
-Kulturen manifesterer seg i handlingsvalg og
-blir igjen påvirket av organisasjonsstruktur,
-arbeidsprosesser og systemer samt ledere og
-medarbeidere.24 Enkelte politiledere, samt innspill fra utvalgets spørreundersøkelse peker også
-på at den manglende endringsvilligheten blir forsterket av detaljstyring både fra Politidirektoratet
-og Justis- og beredskapsdepartementet, som
-bidrar til begrenset handlingsrom.
-Politisk logikk
-Andre politiledere og interessenter, peker på at
-stor politisk oppmerksomhet kan påvirke handlingsrommet. Særlig gjelder dette PU, der asyl- og
-innvandringsspørsmål ofte blir satt på den politiske dagsordenen, organet har også hatt en stor
-økning i bevilgningene de siste årene. Kripos er
-også de siste årene tilført midler for å styrke blant
-annet etterforskningen av uoppklarte saker og
-overgrepssaker blant annet etter medietrykk samt
-offentlig og politisk debatt.
-Utvalget ønsker derfor med sine forslag å
-bidra til en delegering av oppgaver, også til politidistriktene, og samtidig unngå detaljbeskrivelser
-av løsningsforslagene slik at det blir bevart et
-handlingsrom for nødvendige endringer.
-Utvalget vil påpeke at tilblivelsen og utviklingen av flere av særorganene har skjedd som følge
-av politiske beslutninger i ulike historiske kon23
-
-Direktoratet for forvaltning og IKT (2017) Evaluering av
-nærpolitireformen. Statusrapport 2016, Rapport 2017:2
-24
-Ibid. s. 29.
-
-227
-
-Kapittel 14
-
-tekster. Eksempelvis ble Økokrim opprettet i 1989
-som følge av mangelfull behandling av økonomiske straffesaker, men tilførselen av miljøsaker
-var en ren politisk beslutning og var ikke del av
-Riksadvokatens anbefalinger. Et annet eksempel
-er opprettelsen av Politiets utlendingsenhet i
-2004, der enheten ble flyttet ut fra Oslo politidistrikt etter en relativ rask politisk behandling i kjølvannet av økt asyltilstrømning. Et eksempel med
-motsatt fortegn er hvordan gjentatte faglige anbefalinger om å overføre ressursene i Utrykningspolitiet til politidistriktene har resultert i en politisk
-beslutning om å bevare enheten, ofte etter press i
-medieoffentligheten og fra interessegrupper. Som
-nevnte Difi-rapport påpeker, er politiske beslutningstakere i stor grad påvirket av media og særinteresser, noe som kan gjøre effektive prioriteringer vanskelige.
-Detaljstyring
-Flere politiledere peker på at detaljerte tildelingsbrev gir lite handlingsrom for effektiv oppgaveløsning. Samtidig er det et uttalt mål både fra Justisog beredskapsdepartementet og POD at virksomhetene skal få færre mål å styre etter.
-Kripos opplyser at de, særlig siden omorganiseringen i 2005, er pålagt en rekke nye oppgaver
-som samlet har skapt et stort kontrollspenn. Dette
-er oppgaver som hver for seg ivaretar gode og viktige hensyn i kriminalitetsbekjempelsen, men som
-i sum kan redusere styringskraften.
-Det er likevel forskjeller i særorganstrukturen. Både politidirektøren og UPs ledelse gir
-uttrykk for at UP på flere måter er «svært selvgående» og nyter relativt stor autonomi i en regionstruktur som går på tvers av politidistriktenes geografiske inndeling. UP har i hovedsak ett fagområde, trafikksikkerhet, selv om enheten de
-seneste årene har innrettet seg mer i retning av
-mer allmenn kriminalitetsbekjempelse på vei.
-Dette gjør både oppgavespenn og målkrav svært
-begrenset.
-PU på sin side har i likhet med UP et avgrenset fagområde med klare måltall. Samtidig kan
-svingninger i asylankomstene endre forutsetningen for å nå målene. I tillegg er det, som vist til i
-kapittel 11, eksempler på at PUs mål, eksempelvis
-i form av antall uttransporteringer, kan medføre
-målkonflikter på andre politiområder.
-Utvalget mener at særorganene, særlig i en
-omstillings- og effektiviseringsfase, har behov for
-mer overordnede mål og krav som reduserer krav
-til rapportering og kontroll. Utvalget mener også
-det er grunn til å være tilbakeholden med å
-
-[Side 228]
-
-228
-
-Kapittel 14
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-pålegge særorganene krav som kan medføre tap
-av styringskraft og ytterligere redusert handlingsrom for effektive løsninger, innovasjon og synergier. Utvalget mener at et for bredt oppgavespenn
-kan redusere den nødvendige spisskompetansen
-på kjerneoppgavene.
-
-14.6 Utvalgets vurderinger
-Som utvalgets mandat legger opp til, er det viktig
-å se forslag til endringer i dagens særorganstruktur i sammenheng med den pågående implementeringen av nærpolitireformen. Det er viktig at
-effektiviseringstiltak på begge nivåer blir avstemt
-for å unngå mulige målkonflikter på både kortere
-og lengre sikt. En mer lik oppgaveutførelse og
-polititjeneste i hele landet bygger etter utvalgets
-mening på god samhandling mellom politidistriktene og særorganene. Det er derfor viktig å gi et
-handlingsrom som tillater dette. En effektiv samhandling mellom politidistrikt og særorgan bør
-være komplementær, hvor kompetanse og kapasitet utfylles, ikke dupliseres, og hvor overlappene
-ikke blir så store at viktige saker risikerer å falle
-gjennom.
-En slik samordning bør omfatte en bedre
-utnyttelse av potensialet som ligger i digitalisering
-og bruk av IKT til effektivisering og bedre polititjenester. Utvalget har blant annet pekt på mulighetene som ligger i teknologiske løsninger innen
-trafikksikkerhet, men også på mulighetene teknologi kan gi for bedre arbeidsflyt og mer effektive
-publikumstjenester. Samtidig kan det ligge et
-stort potensial i å utvikle og dele åpne data på
-ulike kriminalitetsområder. Som Teknologirådet
-viser til kan dette bidra til utvikling av nye løsninger for mer effektiv forebygging og bekjempelse
-av kriminalitet.25
-Generelle budsjettkutt som en del av sentrale
-effektiviseringstiltak, som ABE-kuttene, kan slå
-25
-
-Teknologirådet (2015) Forutseende politi. Kan dataanalyser
-hjelpe politiet til å være på rett sted til rett tid? Rapport 04/
-2015.
-
-skjevt ut for flere deler av politiets særorganer,
-fordi de har ulike forutsetninger for innsparing og
-effektivisering. Utvalget anbefaler derfor at sentrale politimyndigheter i større grad tar hensyn til
-dette i utforming av fremtidige tiltak og slik legger
-til rette for en mer strategisk og differensiert tilnærming.
-Utvalget har merket seg at flertallet av landets
-politimestre i utvalgets spørreundersøkelse
-mente lederutvikling er en mindre viktig forutsetning for mer robuste politidistrikt, og dermed
-evnen til bedre samhandling og mer effektiv oppgavedeling med særorganene. Utvalget mener det
-er viktig med ledere som kan skape kultur for
-endring. Dette gjelder både for politidistriktene og
-særorganene.
-Endelig mener utvalget det kan ligge potensial
-for både innsparinger og mer effektiv måloppnåelse i bruk av anskaffelser som strategisk virkemiddel.26 Politiet generelt bruker i dag Politiets
-fellestjenester (PFT) for sentraliserte innkjøp,
-men det kan også i det enkelte særorgan være
-områder som kan effektiviseres gjennom implementering av en egen ledelsesforankret anskaffelsesstrategi. Utvalget mener PFT i større grad bør
-tilpasse sentrale innkjøp til de behov som dagens
-særorgan har, slik at en unngår at behov dekkes
-med dyrere lokale avtaler. Samtidig er det viktig å
-gi rom for å inngå egne avtaler utover fellesavtalene der det eksisterer særskilte behov. Der det
-synes utfordrende å inngå fellesavtaler som dekker majoritetens behov, kan det ha noe sammenheng med bestillerkompetanse og måten konkurransen er rigget på, noe som synliggjør behov for
-god innkjøpskompetanse. I tillegg synes det å
-være noen motstridende hensyn mellom POD og
-brukerne som kan gjøre det vanskelig å oppnå
-høy brukertilfredshet. Dette er forhold som Politidirektoratet bør adressere.
-
-26
-
-https://www.anskaffelser.no/prosess/anskaffelsesstrategi.
-
-[Side 229]
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-229
-
-Kapittel 15
-
-Kapittel 15
-
-Forslag til fremtidig organisering av politiets særorganer
-15.1 Prinsipielt utgangspunkt for
-utvalgets vurderinger
-Et overordnet mål for utvalgets vurderinger har
-vært å identifisere en fremtidig organisering av
-særorganene som understøtter nærpolitireformen. Dette innebærer en videreføring av prinsipper nedlagt i tidligere politiutredninger hvor det
-blir vektlagt at særorganene i større grad skal
-konsentrere virksomheten om oppgaver som
-understøtter politiets kjernefunksjoner.
-Nærpolitireformen forutsetter at de nye politidistriktene i større grad skal ivareta politioppgaver innenfor etterforskning og påtale uten bistand
-fra særorganene. Selv om utvalgets behovskartlegging viser at politidistriktene fortsatt vil ha
-behov for bistand på ulike områder, og i varierende grad, er det lagt avgjørende vekt på at fremtidig organisering av politiets særorganer må gjenspeile både den nye politistrukturen og fremtidige
-utfordringer for politietatens samfunnsoppdrag.
-I denne sammenheng har særlig utfordringer
-knyttet til IKT-kriminalitet vært fremhevet av
-mange, både innenfor og utenfor politietaten.
-Utvalget har lagt stor vekt på løsninger som kan
-styrke politiets arbeid på dette området.
-I vurderingen av politiets nasjonale beredskapsressurser har utvalgets mål vært å finne løsninger som sikrer god nasjonal beredskap i fremtiden, og som ivaretar nødvendig balanse mellom
-operativ tjeneste og trening.
-I tråd med nærpolitireformens presisering av
-at lokal politimester skal ha totalansvar i eget distrikt, vil utvalgets vurdering av særorganenes
-fremtidige struktur ta utgangspunkt i at de oppgaver som kan løses lokalt, også bør løses lokalt.
-Dette følger hovedregel for fordeling av beslutningsmyndighet og ansvar for oppgaver og saksbehandling i norsk offentlig forvaltning om delegering til laveste mulige effektive nivå, samt
-hovedprinsippet i påtaleinstruksen. Som utvalgets
-behovsanalyse har vist vil enkelte oppgaver og
-funksjoner fortsatt kreve en nasjonal spisskompetanse som av ressursmessige og kompetansemes-
-
-sige grunner er mest hensiktsmessig å legge til
-nasjonalt nivå. Utvalgets løsningsforslag gjenspeiler dette.
-For å være bedre rustet til å møte dagens og
-morgendagens kriminalitetsutfordringer er det
-avgjørende med riktig kompetanse. Utvalget har
-derfor tilstrebet å identifisere en løsning som på
-best mulig måte ivaretar en kompetanseflyt mellom politidistriktene og særorganene slik at
-dagens spesialistkompetanse blir morgendagens
-basiskompetanse.
-Det har videre vært viktig for utvalget at løsningene ivaretar hensyn til gode styringslinjer
-som avgrenser tydeligere mellom det strategiske
-og operative nivå. I tillegg har utvalget vektlagt
-behov for bedre beslutningsprosesser som i
-større grad imøtekommer nødvendige investeringsbehov.
-Utvalget har i kapittel 12 konkludert med at
-særorgan-begrepet er lite hensiktsmessig og dekkende for å beskrive de funksjoner og oppgaver
-enhetene utfører. Utvalget anbefaler isteden at
-disse nasjonale enhetene benevnes som bistandsenheter og vil i det følgende bruke denne benevnelsen, unntatt der det er mindre hensiktsmessig
-for fremstillingen.
-Utvalget har videre bygget sine vurderinger på
-politiets ti grunnprinsipper, som beskrevet av politirolleutvalget,1 samt nærhetsprinsippet, som
-blant annet innebærer at etterforskning av kriminalsaker som utgangspunkt skal skje i politidistriktet, og at unntak må begrunnes. Utvalget har
-også sett på behovet for å styrke politiets kjerneoppgaver.
-Endringer i kriminalitetsbildet de siste årene,
-med mer kompleks og grenseoverskridende kriminalitet, stiller nye krav til kompetanse og samhandling. I tillegg er det et økende press på samlet ressursutnyttelse og krav til effektivitet i
-offentlig sektor. Dette stiller store krav til fremtidig organisering av politiets særorganer. Føl1
-
-NOU 1981: 35 Politiets rolle i samfunnet – Delutredning I.
-
-[Side 230]
-
-230
-
-Kapittel 15
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-gende danner teoretisk grunnlag for utvalgets forslag.
-
-15.2 Teoretisk bakgrunn for
-modellforslagene2
-Produktivitetskommisjonens andre rapport fremhevet viktigheten av å prioritere tydeligere målsettingene for offentlige virksomheter, og å gi virksomhetene nødvendig handlingsrom. Dette kan gi
-mer effektiv bruk av begrensede arbeidskraftressurser, noe som er avgjørende for produktiviteten
-– også i offentlig sektor. Samtidig er det viktig
-med en tydelig styringslinje og bedre arbeidsdeling mellom nivåene. Målet bør være å ansvarliggjøre underliggende enheter og redusere behov
-for kontroll av oppgavegjennomføringen.3
-Organisasjonsstrukturer er redskap for å realisere bestemte formål. Organisasjonskartets viktigste funksjon bør være å synliggjøre fordelingen
-av myndighet og ansvar for å gjennomføre pålagte
-oppgaver. Dagens organisasjonskart for politiet,
-og dets inndeling og plassering av særorganer, er
-lite intuitiv. Modellen virker unødvendig komplisert, og dette skaper risiko for en mer prosesstung politiorganisasjon enn nødvendig. Utvalget
-mener dagens organisering av særorganene ikke
-tar ut potensialet for samarbeid og effektiv samhandling med politidistriktene i lys av nærpolitireformen. Særorganenes rolle i strukturen er utydelig, i den forstand at det er uklart om de reelt er på
-nivå med politidistriktene eller befinner seg i en
-mellomstilling mellom POD og politidistriktene.
-Det er derfor to hovedspørsmål som må avklares før en ny organisasjonsmodell kan foreslås.
-Det ene er hvordan ansvaret for beslutninger og
-løsningsutforminger kan fordeles optimalt på sentralt og lokalt nivå. Det andre er hvordan arbeidsdelingen mellom saksområder og avdelinger kan
-utformes slik at hensynet til spesialisering og
-koordinering kan balanseres.
-
-15.2.1 Sentralisering eller delegering av
-ansvar og oppgaver
-I valget mellom sentralisering og delegering til
-politidistriktene er hovedregelen med begrunnelse i politiets grunnprinsipper samt nærhets2
-
-3
-
-Det teoretiske grunnlaget er å finne i Galbraith (2014),
-Hermansen (2015), Goold og Campbell (2002) og Christensen (m.fl.)(2015)
-NOU 2016: 3 Ved et vendepunkt: Fra ressursøkonomi til
-kunnskapsøkonomi, s. 33–34.
-
-prinsippet, å gi mest mulig ansvar til politidistriktene. Med ansvar følger også oppgaver og kompetanseutvikling. Ansvar og beslutningsmyndighet
-for oppgaver og saksbehandling bør ligge «på
-lavest mulig effektive nivå».
-I enhver organisasjon er tilgang til informasjon
-og kompetanse avgjørende for beslutningenes
-kvalitet og for å kunne ta det ansvaret som følger
-med å ha beslutningsmyndighet. Ansvar og myndighet bør derfor legges til det nivået som har
-best tilgang til informasjon og kompetanse som er
-relevant for oppgavene som skal utføres, og til det
-nivået som kan skaffe seg og utnytte informasjonen og kompetansen på en mest kostnadseffektiv
-måte. Dette vil oftest være politidistriktene som er
-er tettest på bruker og tettest på utfordringer som
-skal håndteres. Ledelsen i politidistriktene er best
-egnet til å ta ut mest mulig potensiale i egen organisasjon og utvikle hver ansatt i politiet.
-Mye lokal informasjon og kompetanse er
-«taus», og forankret i lokale rutiner og personlige
-erfaringer. Det er tid- og ressurskrevende å formidle slik taus kunnskap fra lokalt til sentralt nivå,
-i den grad det i det hele tatt lar seg gjøre. Lokale
-beslutninger vil normalt også involvere færre
-beslutningstakere og medføre mindre behov for å
-formidle informasjon og kompetanse på tvers av
-nivåer. Ut fra slike hensyn gjør nærpolitireformen
-et riktig grep når den legger kompetanse og oppgaveutførelse til det enkelte politidistrikt.
-Fordelene med å plassere ansvaret i politidistriktene må avveies mot fordelene med nasjonal
-sentralisering. Nasjonalt sentraliserte løsninger
-krever en spesiell begrunnelse. Sentralisering kan
-særlig være aktuelt der kravet til likebehandling
-er stort, og der kostnadsbesparelsene med standardisering er betydelige. På enkelte områder stilles det krav til enhetlig kvalitet på tvers av lokale
-enheter. Offentlig forvaltning krever ofte likebehandling av borgerne. Noen beslutninger kan
-skape presedens for andre beslutninger og andre
-deler av virksomheten. Slike beslutninger bør treffes på det nivået hvor det helhetlige ansvaret er
-plassert, det vil si sentralt. Standardiserte beslutninger og rutiner gir kostnads- og kvalitetsgevinster og kan bidra til effektive arbeidsprosesser i
-hele virksomheten. Overordnede beslutninger
-med strategisk rekkevidde krever informasjon og
-kompetanse om helhetlige konsekvenser, og tilgangen på dette er ofte best sentralt. Når lokale
-enheters beslutninger har konsekvenser for andre
-lokale enheter, og det eksisterer gråsoner av overlappende myndighet dem imellom, kan nasjonal
-involvering være nødvendig for å sikre at helheten
-ivaretas.
-
-[Side 231]
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-For å vurdere om sentraliseringsgraden i politiets organisasjon er hensiktsmessig kan sentrale
-beslutninger med jevne mellomrom gjennomgås
-for å vurdere om sentrale instanser har informasjons- og kompetansefortrinn som tilsier at de kan
-treffe og gjennomføre beslutningene mer effektivt
-enn lokale nivåer. Dersom det ikke er tilfellet, bør
-ledelsen delegere ansvar og myndighet for flere
-saksområder til lokale nivåer.
-Utvalgets utgangspunkt er som tidligere
-nevnt, at oppgaver og ansvar som hovedregel bør
-legges til politidistriktene, og at unntak skal
-begrunnes særskilt. En dynamisk utvikling der
-mer robuste politidistrikter blir tilført flere oppgaver og større ansvar, vil være en naturlig følge
-av dette prinsippet.
-
-15.2.2 Spesialisering eller koordinering av
-oppgaver
-Det andre hovedtemaet ved organisasjonsutforming er hvordan arbeidsoppgaver skal spesialiseres, og hvordan spesialiserte enheter skal samordnes. For å sikre tilgang på nødvendig spisskompetanse kreves spesialisering, slik at medarbeiderne kan perfeksjonere seg gjennom å repetere oppgaver og dermed skaffe seg erfaring.
-Med økt erfaring trenes evnen til å løse oppgavene på kortere tid og med færre feil, slik at
-kostnadene kan reduseres. Etter hvert som nye
-oppgaver skaper nye læringsutfordringer, oppstår
-nytt behov for å trene og skaffe seg ny erfaring og
-bevege seg oppover nye læringskurver. Kompetanseutvikling skjer da kontinuerlig.
-Høy grad av spesialisering kan imidlertid
-skape grobunn for «siloer» og revirer. Spesialiserte avdelinger risikerer å konsentrere seg for
-ensidig om sine egne oppgaver og være for lite
-opptatt av at deres handlinger har betydning også
-for resten av organisasjonen. Spesialisering krever derfor koordinering, og koordineringsbehovet
-er større jo mer spesialiserte medarbeiderne og
-enhetene blir. Spenningen mellom spesialisering
-og koordinering er permanent til stede i organisasjoner: Jo sterkere spesialisering, desto større er
-behovet for koordinering.
-Når behovet for å koordinere et saksområde
-og en avdeling overskygger gevinstene ved spesialisering, kan saksområdene og avdelingen legges
-under felles ledelse. Det er lettere å koordinere
-aktiviteter som hører til én leders myndighets- og
-ansvarsområde enn å koordinere aktiviteter som
-er underlagt ulike ledere. Én og samme leder kan
-lettere skaffe seg oversikt over alle relevante aktiviteter i egen enhet enn dersom vedkommende
-
-231
-
-Kapittel 15
-
-må gå veien om en annen leder. Samtidig er det
-lettere å motivere og instruere egne medarbeidere til å arbeide for samme mål enn å forsøke å
-påvirke hva som skjer innenfor en annen leders
-ansvarsområde.
-Enhetlig ledelse av gjensidig avhengige aktiviteter fjerner imidlertid ikke målkonflikter dilemmaet mellom koordinering og spesialisering.
-Enhetens overordnede behov og prioriteringer
-kan gå på tvers av enkelte faggruppers behov for
-spisskompetanse.
-Utvalget legger til grunn at det på flere kriminalitetsområder fortsatt vil være behov for nasjonal spisskompetanse. Særlig innenfor flere av
-Kripos’ fagområder samt innenfor alvorlig økonomisk kriminalitet, IKT-kriminalitet og beredskap
-er det behov for ytterligere spesialisering. Samtidig er det i et lite land som Norge nødvendig å
-kunne koordinere de ressurser vi har på best
-mulig måte.
-Med utgangspunkt i den høye teknologiske
-utviklingstakten, som er et viktig element i store
-deler av den alvorlige kriminaliteten, er det viktig
-at den foreslåtte modellen ikke bidrar til å styrke
-verken nasjonale eller lokale revirer. Det er avgjørende at innretningen bidrar til å opprettholde en
-kompetanseflyt mellom nasjonale bistandsenheter
-og politidistriktene slik at dagens spesialistkompetanse kontinuerlig tilflyter generalistene i politidistriktene. På den måten vil politidistriktets generalister opprettholde og styrke sin kompetanse i takt
-med utviklingen.
-
-15.2.3 Koordinering i komplekse
-organisasjoner
-Etter hvert som en organisasjon vokser, og oppgaveporteføljen øker, vil kompleksiteten ofte øke.
-Dette kan gi behov for nye avveininger mellom
-ulike hensyn som medfører modifikasjoner i
-strukturen. Koordinering i slike komplekse organisasjoner krever omfattende prosesser, og tydelige styringslinjer er nødvendig for å redusere prosesskostnadene.
-I faglitteraturen understrekes4 betydningen av
-å utnytte den koordineringen som skjer uformelt.
-Medarbeidere og avdelinger som er gjensidig
-avhengige av hverandre, finner ofte selv fram til
-måter å samarbeide på og skaper uformelle rutiner, nettverk og kontaktkanaler seg imellom.
-Mange virksomheter tyr til formelle grep for å
-koordinere sine aktiviteter, også i de tilfeller hvor
-4
-
-Se bl.a. Galbraith (2014), Hermansen (2015), og Goold og
-Campbell (2002)
+*Utvalgets mindretall, utvalgsmedlemmene Fause og Paulsen*, kan ikke slutte seg til forslaget om å slå sammen Kripos og Økokrim til en nasjonal bistands- og etterforskningsenhet. Kripos og Økokrim løser sine oppgaver hver for seg på en meget tilfredsstillende måte som to selvstendige enheter. Dette gjelder både i håndtering av egne etterforskningssaker, bistand til politidistriktene, som nasjonale kontaktpunkt, som nasjonale kompetanseutviklere og innen nasjonal kriminaletterretning. Dersom de to enhetene skal slås sammen til én, må det etter *mindretallets* syn kunne sannsynliggjøres at den samlede oppgaveløsningen vil bli bedre enn i dag. *Mindretallet* kan imidlertid ikke se at slike argumenter i tilstrekkelig grad er fremkommet i det som er beskrevet under flertallets drøftelse.
+
+*Mindretallet* ser det tvert om slik at flere argumenter med styrke taler for at dagens organisering som to separate enheter bør opprettholdes. Forbedringer og videreutvikling av disse to enhetene må dermed finne sted innenfor de nåværende organisatoriske rammer.
+
+For det første er ikke oppgavene til Kripos og Økokrim samsvarende med hensyn til saksfelt. Det vises om dette til påtaleinstruksens kapittel 35 – saker som gjelder økonomisk kriminalitet og miljøkriminalitet og 37 – saker som gjelder bekjempelse av organisert og annen alvorlig kriminalitet. Selv om begge enhetene håndterer straffesaker som går inn under samlebegrepet «profittmotivert kriminalitet», er saksforholdene svært ulike både med hensyn til relevante straffebud, persongalleri, etterforskningsmetodikk og metodebruk. I sakene til Økokrim ligger det videre betydelige juridiske utfordringer knyttet til kompliserte sivilrettslige spørsmål allerede under etterforskningsfasen. I Kripos er de juridiske utfordringene ofte av komplisert straffeprosessuell art, regelmessig knyttet til ulike former for metodebruk. En annen viktig forskjell er at Kripos som hovedregel yter bistand til politidistriktene, mens Økokrim som hovedregel håndterer egne etterforskningssaker. Saksporteføljen til et sammenslått Kripos og Økokrim vil følgelig både bli omfattende, innbyrdes svært ulikeartet og kompleks, hvilket etter *mindretallets* oppfatning gir grunn til å frykte for at de to enhetenes spisskompetanse svekkes, hvilket igjen kan svekke evnen til den totale oppgaveløsning. *Mindretallet* legger videre til grunn at Økokrim over flere år har levert særdeles gode resultater, herunder med en andel domfellelser på over 80 prosent for de om lag 15–20 straffesakene som årlig etterforskes og påtalehåndteres, hvilket klart taler mot et behov for omorganisering.
+
+For det andre vil disse forskjellene mellom Økokrim og Kripos etter *mindretallets* syn skape betydelige styrings- og ledelsesutfordringer for en ny og sammenslått nasjonal enhet. Selv om det ut fra en teoretisk ledelsesmodell kan anføres som enklere å styre og lede én samlet nasjonal enhet istedenfor to, stiller *mindretallet* seg tvilende til om dette lar seg gjøre på en bedre og mer effektiv måte enn etter dagens organisering. Hertil kommer de organisatoriske og ledelsesmessige utfordringer som helt sikkert vil oppstå når de to organisasjonskulturene, Kripos og Økokrim, skal søkes forenet til én. En sammenslåing av Kripos og Økokrim kan etter *mindretallet* syn neppe sammenlignes med for eksempel en sammenslåing av to politidistrikter – hvor oppgaveportefølje og fagkompetanse mv. i det alt vesentlige er den samme.
+
+For det tredje viser *mindretallet* til at også historien bak opprettelsen av Økokrim taler for fortsatt organisering som en selvstendig nasjonal enhet. En organisering med Økokrim som del av Kripos ble vurdert ved opprettelsen av Økokrim i 1989, men ble frarådet av daværende riksadvokat Georg Fredrik Rieber-Mohn.[^473] Bakgrunnen for opprettelsen av Økokrim var den gang at alvorlige og komplekse økonomiske straffesaker ikke ble tilstrekkelig godt håndtert av politiet og påtalemyndigheten. Opprettelsen skjedde følgelig som følge av et bevisst valg om å prioritere bekjempelsen av alvorlig og kompleks økonomisk kriminalitet. Opprettelsen anerkjente samtidig behovet for å skjerme etterforskning av denne typen straffesaker fra andre saksfelt. Etter *mindretallets* oppfatning står disse argumentene minst like sterkt i dag. Som eksempel kan det vises til at ressurser som er øremerket til bekjempelse av økonomiske kriminalitet ved politidistriktene, ofte blir satt inn for å løse andre oppgaver, slik som ordenstjeneste, tjeneste ved operasjonssentralene samt bistand til å etterforske andre prioriterte kriminalitetsområder. Det ligger atter i historien at skiftende regjeringer har skiftende fokus. Det vises som eksempel til den betydelige satsing som nå rettes inn mot bekjempelse av vold og seksualitet mot barn, hvilket fører til økt personellmessig ressurssetting av dette saksfeltet og dermed lavere ressurssetting av eksempelvis alvorlig økonomisk kriminalitet. Etter *mindretallets* syn kan en slik dreining av oppmerksomhet på lokalt nivå også inntreffe innad i en nasjonal samlet enhet, hvilket begrunner et fortsatt behov for å skjerme Økokrim som en selvstendig nasjonal enhet.
+
+For det fjerde legger *mindretallet* til grunn som premiss at sammenslåing av Kripos og Økokrim vil kreve at statsadvokatene flyttes fra den nasjonale enheten til et eget eller annet statsadvokatembete. Det vises om dette til drøfting i pkt. 15.5.5.
+
+*Mindretallet* mener dette klart vil svekke Økokrims spisskompetanse og evne til oppgaveløsning. Det vises igjen til Rieber-Mohn, som forut for opprettelsen av Økokrim fremholdt nødvendigheten av tett og tverrfaglig samhandling mellom statsadvokater, etterforskere og revisorer med høyt faglig kompetansenivå som en nødvendig forutsetning for at enheten skulle lykkes.[^474] Rieber-Mohn fremhevet videre at juridiske spørsmål i alvorlige og komplekse økonomiske straffesaker både er vanskeligere og relativt sett langt viktigere enn i eksempelvis drapssaker. Det fremstår da som faglig sett kunstig å foreta et organisatorisk skille mellom faktainnsamling og juridiske vurderinger, fremholdt han, og trakk herunder en analogi mellom etterforskning av alvorlige og komplekse økonomiske straffesaker og saksforberedelse av kompliserte sivile saker. Rieber-Mohns konklusjon var at en slagkraftig nasjonal enhet med tverrfaglig ekspertise som foreslått burde ledes av påtalemyndighet på høyt nivå, nemlig av statsadvokater.
+
+Etter *mindretallets* syn er integrerte statsadvokater fra etterforskningens start, via påtalevedtak, til iretteføring for domstolene, minst like påkrevd i dag for å sikre målretting og tilstrekkelig kvalitet på etterforskningen på dette særskilt krevende og komplekse saksfeltet. Dette fordrer høy kompetanse fra påtalemyndighetens side. Som eksempel kan nevnes at både Sverige og Danmark har valgt lignende organisering. Se foran om dette under flertallets drøftelse.
+
+*Mindretallet* er videre av den oppfatning at det siden 1989 har funnet sted en ytterligere dreining i retning av større kompleksitet på dette saksfeltet, herunder høyere faglig vanskelighetsgrad og økende behov for internasjonal samhandling, hvilket flere straffesaker fra den senere tid vitner om.[^475] Dette forsterker etter *mindretallets* syn behovet for integrerte statsadvokater i Økokrim.
+
+*Mindretallet* legger atter til grunn at de straffesaker hvor det oppstår behov for samhandling mellom Kripos og Økokrim, eksempelvis hvor det er behov for å trekke på den andre enhetens spisskompetanse, best kan løses gjennom samarbeidsprosjekter som i dag.
+
+1.  **<u>P</u><u>å</u><u>taleorganisering i ny bistands- og etterforskningsenhet</u>**
+
+En særlig utfordring knyttet til den foreslåtte modellen er spørsmålet om påtaleorganisering. Her vil det være nødvendig med en endring, ettersom Kripos og Økokrim har ulike ordninger for ivaretakelse av påtalemessige spørsmål.
+
+Økokrim ble som nevnt opprettet i 1989 som svar på politiets manglende evne til å etterforske og iretteføre økonomiske straffesaker. For å prioritere denne type straffesaker tilstrekkelig ble det ansett som nødvendig at Økokrim ble ressurssatt med egne statsadvokater. Det var da nødvendig at lederen også tilhørte den høyere påtalemyndighet, slik at organet i dag er en hybrid mellom et etterforskningsorgan og et statsadvokatembete.
+
+Kripos ble ved omorganisering i 2005 («Nye Kripos») tildelt påtale- og etterforskningsansvar i tillegg til å skulle være et bistandsorgan for politidistriktene. Påtaleansvaret ble løst ved opprettelsen av Det nasjonale statsadvokatembetet (NAST), og ved at det ble ansatt egne politijurister. Det vil si at Kripos-løsningen prinsipielt sett er i samsvar med organiseringen av påtalemyndigheten ellers i Norge. I Økokrim etterforskes og påtaleavgjøres derimot sakene av samme påtalejurist (statsadvokat). Det er derfor i utgangspunktet ikke en totrinns vurdering av påtaleskritt etter at saken er ferdig etterforsket.
+
+1.  **<u>Organisering av p</u><u>å</u><u>talemyndigheten</u>**
+
+Påtalemyndigheten i Norge er delt i tre nivåer, jf. straffeprosessloven § 55. Øverst er Riksadvokaten, deretter statsadvokatene og politijuristene (fellesbetegnelse for politifullmektiger, politiadvokater og politiinspektører med påtalemyndighet). Det ses i denne sammenheng bort fra særregler for lensmenn og politistasjonssjefer.
+
+Etterforskning skjer i politidistriktene under ledelse av en politijurist. Påtalespørsmålet avgjøres avhengig av alvorlighetsgrad av et av disse tre nivåene. Hensynet er å sikre både faglig forsvarlige beslutninger og integritet. For en drapssak innebærer dette at etterforskningen ledes av en politijurist, før påtalespørsmålet forberedes av en statsadvokat. Det er opp til Riksadvokaten å beslutte påtalespørsmålet, før saken eventuelt returneres til statsadvokaten for iretteføring/aktorering.
+
+For andre alvorlige forhold ligger påtalekompetansen til statsadvokaten, mens politiet selv har påtalekompetanse for de mindre alvorlige forhold.
+
+**<u>\[Boks slutt\]</u>**
+
+*<u>Vurdering av </u><u>Ø</u><u>kokrims modell for p</u><u>å</u><u>tale</u>*
+
+Det følger ikke direkte av utvalgets mandat å vurdere organisering av påtalemyndigheten. Utvalgets forslag om å slå sammen Kripos og Økokrim, med sine respektive organiseringer av påtalefunksjonen, reiser likevel spørsmål om dette.[^476]
+
+Alvorlige straffesaker som drap og krigsforbrytelser etterforskes i politidistrikt eller Kripos under ledelse av en politijurist. Statsadvokater, som fører disse sakene i retten, er likevel regelmessig involvert og orientert om etterforskningen fra et tidlig stadium og har kompetanse til å beordre etterforskningsskritt. For politidistriktenes saker vil dette være en statsadvokat fra de regionale statsadvokatembetene, mens for Kripos’ saker vil det være en statsadvokat fra NAST. Det er vurdert som en fordel at statsadvokatene er involvert fra start i prosessen for å sikre kvalitet i en kompleks sak.
+
+I dagens Økokrim, som behandler alvorlige økonomiske straffesaker, er det valgt en særlig ordning der den som leder etterforskningen fra første dag, også tar ut tiltale. Det særegne er at en statsadvokat leder etterforskningen (og ingen politiadvokat). Sett hen til organiseringen av påtale for øvrig i Norge, og som heller ikke ble vurdert endret av *Påtaleanalysen* (NOU 2017: 5), er det Økokrims avvikende ordning som krever en særskilt begrunnelse.
+
+Det har vært reist spørsmål om hvorvidt Økokrim-ordningen skaper den nødvendige avstanden mellom etterforskning og avgjørelse av tiltalespørsmålet, som ellers er gjeldende for alle andre straffesaker, og hvorfor denne «eksklusive» ordningen videreføres for økosaker, men ikke er ansett nødvendig for kompliserte og omfattende saker innenfor alvorlig organisert kriminalitet.
+
+Til forsvar for dagens ordning er det fremholdt at Økokrim-saker har spesielt kompliserte påtalespørsmål. Saksforholdene krever stor grad av kompetanse og strategisk tenkning om blant annet tilskjæring av saksforholdet, vurdering av etterforskningsskritt, hvordan forstå kompliserte dokumenter/avtaler, utenlandsk rett, vurdering av tiltalespørsmål, og innsikt i rettspraksis på området mv.
+
+En fordel mange fremhever med Økokrims modell, er at statsadvokatene kan følge saken hele veien fra etterforskning vurderes startet, og gjennom alle instanser til og med Høyesterett. Dette skal sikre at hele etterforskningskjeden har nødvendig kvalitet.
+
+Økokrim hevder at integrert påtale på statsadvokatnivå er nærmest avgjørende for god håndtering av straffesaker om alvorlig økonomisk kriminalitet. Kontinuerlig styring fra oppstart av etterforskningen og grundig kjennskap til saken fra dem som vet best hva som kreves i et saksframlegg for domstolene, er helt sentralt. I tillegg mener Økokrim det blant annet er nødvendig med god kunnskap om komplisert selskaps-, regnskaps-, transaksjons- og markedsjuss mv. Dette er årsaken til at flere andre lands spesialiserte påtaleenheter mot alvorlig økonomisk kriminalitet (blant annet Ekobrottsmyndigheten i Sverige og SØIK i Danmark) har senioranklager integrert.
+
+En slik ordning har vært vurdert som den beste faglige ordningen, men også som den mest kostnadseffektive og ressurseffektive ordningen.
+
+Økokrim har selv iverksatt kompenserende tiltak for å motvirke de negative sidene ved en slik påtaleordning. Motargumentene har i hovedsak vært at det er for liten avstand til saken for påtalejuristen som skal behandle videre påtalemessige skritt, etter at saken er ferdig etterforsket. Følgende tiltak er gjennomført:
+
+- <u>omorganisering med nytt avdelingsnivå for å sikre tettere ledelse og oppfølging av etterforskningsteamene</u>
+
+- <u>etablering av seksjon for fagstøtte og fagutvikling for å bidra til utvikling av kvalitativt gode metoder for etterforskning, påtale og aktorering av straffesakene samt å bistå med fagstøtte og understøtte fagutvikling internt og til politidistriktene</u>
+
+- <u>etablering av egen saksbehandlingsbase som gir en detaljert beskrivelse av løsninger og rutiner for de ulike fasene i straffesaksbehandlingen basert på beste praksis</u>
+
+- <u>arbeidssiktelser og etterforskningsplaner basert på felles mal brukes i alle saker for å sikre målretting, styring og notoritet i oppgave- og ansvarsfordeling for teamet i saken</u>
+
+- <u>egen hovedetterforsker på alle Økokrims saker som – i tillegg til å utføre etterforskning – har som oppgave å ha totaloversikt over saken, med særlig ansvar for fremdrift og kvalitetssikring</u>
+
+- <u>etablering av styringsgruppe for saken ved saksinntak som består av avdelingsleder samt én til to andre medarbeider med høy kompetanse på fagområdet</u>
+
+- <u>evaluering av saker, både etterforskning og aktorater, som integrert del i sakshåndteringen</u>
+
+Økokrim mener at tiltakene til sammen har gitt klar positiv effekt for kvalitet, målretting og framdrift i de enkelte sakene. Det er bedre kvalitetssikring av påtalevedtakene ved at de systematisk blir gjenstand for kritiske blikk fra flere andre før utforming. Tiltakene har også gitt ledelsen bedre grunnlag for å drive internkontroll og løpende kvalitetsoppfølging av straffesakshåndteringen. Den eneste negative effekten som er påpekt, er økt tidsbruk, idet flere medarbeidere må sette seg inn i saker mv., særlig i styringsgruppene. Dette mener Økokrim er marginalt, sett i forhold til de positive effektene.[^477]
+
+Utvalget ser at Økokrims ordning er effektiv og på mange måter hensiktsmessig. Utvalget mener likevel at ordningen gir en svekket rettsikkerhetsgaranti for alvorlige straffesaker ved at samme person som leder etterforskningen, også tar ut tiltalebeslutningen og senere fører saken for retten. Det skjer altså *ingen* kvalitetssikring i to ledd, slik som for andre alvorlige straffesaker. Etter utvalgets mening kan dette farge etterforskningen i den forstand at objektivitetshensyn ikke blir tilstrekkelig ivaretatt, noe Påtaleanalysen omtaler som «bekreftelsesfellen».[^478]
+
+Utvalget har for øvrig merket seg Økokrims tiltaksliste for å sikre kvaliteten underveis og læringen i etterkant av den enkelte sak. Etter utvalgets mening bør man ha den prinsipielt sett beste løsning, og ikke kompensere en prinsipielt sett dårlig løsning med ressurskrevende avbøtende tiltak.
+
+*Utvalgets mindretall, medlemmene Fause og Paulsen*, viser til drøftelsen foran, hvor medlemmene ikke kan slutte seg til flertallets forslag til sammenslåing av Kripos og Økokrim til en nasjonal bistands- og etterforskningsenhet.
+
+Mindretallet kan heller ikke slutte seg til flertallets anførsler om at dagens organisering av Økokrim med integrerte statsadvokater generelt gir en ordning med svekkede rettssikkerhetsgarantier idet samme person, nemlig en statsadvokat, leder etterforskningen, beslutter tiltale og deretter fører straffesakene for domstolen.
+
+*Mindretallet* viser for det første til at denne ordningen er gjeldende for politiadvokatene i politiet. Det vises atter til straffeprosesslovutvalgets forslag om å legge tiltalekompetansen til politiadvokatene i saker med strafferamme på fengsel inntil to år, hvilket vil bety at påtalemyndigheten i politiet tildeles kompetanse til å lede etterforskningen og deretter beslutte tiltalte i om lag 80 prosent av straffesakene.[^479] Dette forslaget fremsettes uten at problemstillinger rundt svekkede rettssikkerhetsgarantier, som foran anført av flertallet, finnes påaktet å drøfte.
+
+Mindretallet kan for det andre ikke se at det er fremkommet opplysninger om eller eksempler som viser at Økokrims statsadvokater generelt eller spesielt unnlater å overholde den lovfestede objektivitetsplikten etter straffeprosessloven § 55. Det vises videre til drøftelsene til straffeprosesslovutvalget rundt dette tema, som mindretallet slutter seg til, og som klart tilkjennegir hvilke plikter som påhviler påtalemyndighetens embets- og tjenestemenn, hvilket i seg selv anses som en viktig rettssikkerhetsgaranti.[^480]
+
+*Mindretallet* viser videre til de tiltak som er iverksatt av Økokrim selv for å styrke de interne kontrollmekanismer, herunder organisering av nytt avdelingsnivå, etablering av seksjon for fagstøtte, bedre etterforskningsledelse og støtte, etablering av styringsgrupper og kontinuerlig evaluering av sakene, som beskrevet foran. *Mindretallet* legger til grunn at disse kontrollmekanismene bidrar til etterlevelse av objektivitetsplikten etter straffeprosessloven § 55 på en tilfredsstillende måte.
+
+*Mindretallet* finner atter grunn til å fremheve de spesielle hensyn som gjør seg gjeldende i saker som etterforskes av Økokrim, og som klart taler mot å skille Økokrim og statsadvokater. *Mindretallet* ser på samme måte som Økokrim et klart behov for å sikre at hele etterforskningen har en slik kvalitet at sakene kan forberedes og deretter opplyses for domstolene på best mulig måte av vedkommende statsadvokat. Det må herunder fremheves at integrert påtale på statsadvokatnivå synes helt avgjørende for å lykkes med dette. Som fremhevet av Økokrim legger mindretallet til grunn at statsadvokatenes kontinuerlig styring av etterforskningen fra oppstart av etterforskningen samt dyp kjennskap til sakenes faktum og juridiske problemstillinger er helt avgjørende i dette arbeidet. Videre kommer behovet for nødvendig kunnskap om komplisert selskaps-, regnskaps-, transaksjons- og markedsjuridiske spørsmål mv., hvilket best opparbeides av statsadvokater som både kan lede etterforskningen og deretter prosedere straffesakene for de tre rettsinstansene. Det vises igjen til at flere andre lands spesialiserte påtaleenheter, som er gitt i oppdrag å bekjempe alvorlig og omfattende økonomisk kriminalitet, herunder Ekobrottsmyndigheten i Sverige og SØIK i Danmark, har senioranklager integrert, uten at denne organiseringen anses som et rettssikkerhetsproblem.
+
+Dersom det til tross for disse argumenter likevel anses nødvendig å kvalitetssikre Økokrims påtalevedtak, som anført av flertallet, tillater *mindretallet* seg å foreslå at dette kan finne sin løsning ved å legge tiltalekompetansen i Økokrims straffesaker til Riksadvokaten, se straffeprosessloven § 65 sammenholdt med § 66. Gitt en slik lovendring legger *mindretallet* til grunn at flertallets prinsipielle innvendinger mot statsadvokatene i Økokrim faller bort.
+
+*<u>Fremtidige l</u><u>ø</u><u>sninger</u>*
+
+Utvalgets flertall har sett på ulike løsninger for organiseringen av påtalemyndigheten ved en ny sammenslått enhet. Den ene løsningen er at det nye bistandsorganet blir opprettet som et eget statsadvokatembete, og at etterforskningen i enkeltsaker blir videreført som i Økokrim i dag. Dette vil i praksis innebære at NAST inngår som del av den nye bistandsenheten, og at etterforskningen fortsatt blir ledet på statsadvokatnivå.
+
+Den andre løsningen er å opprette et nytt statsadvokatembete for økonomiske saker som i dag hører inn under Økokrim. Etter utvalgets mening innebærer forslaget å dele saker som har vært under felles etterforskning, og dette vil skape unødvendige og lite hensiktsmessige nye kontaktflater.
+
+Det tredje alternativet er at statsadvokatfunksjonen i Økokrim overføres til NAST, som dermed får ansvaret for Økokrims saksområde i tillegg til nåværende portefølje. Etter utvalgets mening har denne løsningen de beste grunner for seg. For det første blir også økonomiske saker undergitt den samme totrinnsvurdering for påtale som de øvrige mest alvorlige straffesakene. I tillegg vil alle sakstyper fra bistandsenheten sortere under samme statsadvokatembete. Utvalget viser også til at straffeprosessutvalget foreslo å utvide delegasjonen av påtalekompetanse, slik at for de resterende 20 prosent av straffesakene, som nettopp er de alvorligste straffesakene med høye strafferammer, skal det fortsatt være et totrinnssystem. De som leder etterforskningen fra første dag, nemlig politiadvokaten, vil ikke ha myndighet til å ta ut tiltale.[^481]
+
+Utvalgets flertall mener sistnevnte alternativ er mer konsistent med straffeprosesslovutvalgets forslag ved å innføre samme ordning for alvorlig og komplisert økonomisk kriminalitet som for de øvrige mest alvorlige straffesaker.
+
+Utvalgets flertall går likevel ikke nærmere inn på disse alternativene.
+
+1.  **<u>Nasjonal beredskapsenhet</u>**
+
+Dette alternativet innebærer at de nasjonale beredskapsressurser, med unntak av TTS, UC og Den kongelige politieskorte blir flyttet ut fra Oslo politidistrikt og etablert som en egen enhet underlagt POD, med hjemmel i politiloven §16 (2) pkt. 1.
+
+Utvalget viser også til beskrivelsen i modell 1 om en anbefalt samling av livvakttjenestene.
+
+Ved etablering av Nasjonalt beredskapssenter anbefaler utvalget at enheten blir fysisk lokalisert samme sted.
+
+Utvalget forutsetter at Nasjonal enhet for beredskap ved en slik overflytting fortsatt vil ha daglig patruljetjeneste i Oslo politidistrikt, eller andre politidistrikt etter beslutning av POD, for å opparbeide nødvendig operativ erfaring og være tilgjengelig for akutt respons ved kritiske hendelser. Patruljetjenesten må være en tilleggstjeneste til trening og gjennomføring av kjerneoppgavene til nasjonale beredskapsressurser og ikke gå på bekostning av for eksempel trening til å gjennomføre de primære oppgavene. Det vises for øvrig til redegjørelsen i kapittel 12.
+
+1.  **<u>Utvalgets vurdering av konsekvenser ved valg av modell 2</u>**
+
+*<u>Mer fleksibel og effektiv kapasitetsutnyttelse av politiressurser</u>*
+
+Modell 2 innebærer at UPs og PUs oppgaver overføres til politidistriktene. Modellene forutsetter at politidistriktene gis insentiver som sikrer at trafikksikkerhetsinnsatsen ikke blir nedprioritert. Overføringen av UPs og PUs oppgaver til politidistriktene vil styrke politidistriktenes operative kapasitet tilsvarende om lag 680 politiårsverk med minst IP4-godkjenning. Politiressursene vil være integrert i daglig operativ tjeneste og inngå som en mer fleksibel ressurs.
+
+Øst politidistrikt overtar det nasjonale koordineringsansvaret fra PU knyttet til registrering, ID-avklaring og uttransportering. Dette utgjør om lag 400 årsverk, hvorav rundt 60 prosent er politistillinger. Ved å overføre oppgavene til Øst politidistrikt legges det til rette for en mer fleksibel og effektiv bruk av politiressursene, samtidig som spesialiseringsgevinster knyttet til fagområdet ivaretas.
+
+Kriminalomsorgen overtar ansvaret for driften av utlendingsinternatet ved Trandum. Driften av Trandum ligger nærmere Kriminalomsorgens kjernevirksomhet enn politiets og overføring av ansvaret åpner således for spesialiseringsgevinster. Ved at Kriminalomsorgen overtar dette ansvaret, åpnes det for frigjøring av politiressurser.
+
+På materiellsiden vil politidistriktene bli styrket med om lag 170 patruljebiler fra UP. I sum representerer dette en styrking av politidistriktenes operative kapasitet og beredskapsevne, samtidig som det legger til rette for en mer fleksibel utnytting av politiressurser. Ansvaret for trafikksikkerhetsarbeidet overføres fra UP til politidistriktene. Dette vurderes å gi større fleksibilitet til fornying og tilpasning til nevnte endringer i teknologiutviklingen, herunder insentiv og mulighet til å realisere gevinster, eksempelvis å vri ressurser fra trafikkontroller til andre kriminalitetsområder. Det legges til grunn at UPs arbeidsoppgaver kan ivaretas av politidistriktene. Samlet vurderes modell 2 å finne en bedre balanse mellom hensynet til fleksibilitet og effektivitet på den ene siden og behovet for spesialisering og spisskompetanse på utvalgte områder på den andre siden.
+
+*<u>Mer </u><u>helhetlig og effektiv kriminalitetsbekjempelse</u>*
+
+Flere trendrapporter om kriminalitetsutviklingen, beskriver en utvikling hvor kriminelle begår lovbrudd på mange ulike arenaer, på tvers av etablerte kriminalitetskategorier som IKT-kriminalitet, økonomisk kriminalitet og organisert kriminalitet. Gitt denne utviklingen, kan dagens organisering av Kripos og Økokrim føre til silotenkning som går på bekostning av helhetlige tilnærminger som bedre svarer på utfordringene i kriminalitetsbildet.
+
+Ved en organisatorisk sammenslåing av Økokrim og Kripos under en felles ledelse legges det til rette for stordriftsfordeler. Det antas blant annet at Kripos’ kompetanse og kapasitet innen områder som organisert kriminalitet og IKT-kriminalitet også er relevant i Økokrims etterforsking av saker som omhandler alvorlig økonomisk kriminalitet. Betydningen av faglige synergier forventes å øke som følge av endringer i kriminalitetsbildet.
+
+En sammenslåing vil gi bedre forutsetninger for å utnytte overskuddsinformasjon fra hverandres etterforskinger. Utvalgets flertall mener at en sammenslåing vil tilrettelegge for bedre oppgaveløsning allerede i dag og ikke minst i lys av det fremtidige kriminalitetsbildet.
+
+En sammenslåing bør gi muligheter for synergier og effektivisering for administrative funksjoner. Det advares likevel mot å se en mulighet for å spare ressurser. Samlet ressurssparing på administrativt nivå bør gå til fagområdene.
+
+Utvalgets flertall mener at håndteringen av disse spørsmålene bør løses via en helhetligprosess i ny organisasjon etter at denne er besluttet opprettet.
+
+Det legges til grunn at Økokrims virksomhetsområder får et sterkt organisatorisk uttrykk i den sammenslåtte modellen, for å minimere risikoen for at disse virksomhetsområdene nedprioriteres og «domineres» av de andre delene av organisasjonen.
+
+*<u>Forutsigbart bistandstilbud med bedre samhandling</u>*
+
+Uforutsigbarhet knyttet til Kripos og Økokrims bistandstilbud kan gjøre det vanskeligere for politidistriktene å dimensjonere egen kapasitet og kompetanse.
+
+I likhet med modell 1 forutsetter modell 2 en tydeliggjøring av påtaleinstruksen som ventes å bidra til større forutsigbarhet og styrke samhandlingen mellom nasjonal bistandsenhet og politidistrikt. Videre vil en organisatorisk sammenslåing av Kripos og Økokrim legge til rette for en harmonisering av bistandskonseptene, som ytterligere vil kunne øke forutsigbarheten til bistandstilbudet og styrke samhandlingen med politidistriktene. I saker som faller inn under både Økokrims og Kripos’ kompetanseområder vil det også kunne oppnås synergier.
+
+*<u>Samling av beslutningsmyndighet og ansvar p</u><u>å</u><u> det mest effektive niv</u><u>å</u>*
+
+I modell 2 blir UPs og PUs oppgaver overført til politidistriktsnivået hvor de bidrar til å styrke kapasiteten til politimesteren lokalt. Det legges til grunn at politidistriktsnivået er tettest på utførelsen av oppgavene, noe som gir bedre adgang til relevant informasjon og kompetanse på en kostnadseffektiv måte. Det antas at dette vil bidra til mer formålstjenlige prioriteringer og mer effektiv anvendelse av politiressurser.
+
+Den nasjonale bistandsenheten for etterforskning vil besørge oppgaver som best ivaretas på nasjonalt nivå. I likhet med modell 1 forutsetter modell 2 en tydeliggjøring av påtaleinstruksen, som forventes å bidra til en mer effektiv saksfordeling til Økokrim og Kripos i saker der disse utgjør det mest effektive nivå.
+
+I modell 2 får de nasjonale beredskapsressursene et nasjonalt organisatorisk uttrykk. Dette vurderes å være et mer effektivt nivå enn dagens organisatoriske oppheng under Oslo politidistrikt.
+
+*<u>Mer effektiv samhandling og fagformidling gjennom nasjonale kontaktpunkter</u>*
+
+Særorganene er nasjonale kontaktpunkt innenfor sine kompetanseområder. De nasjonale kontaktpunktene legger til rette for effektiv og god samhandling internt og eksternt.
+
+Modell 2 antas å legge til rette for koordineringsgevinster gjennom samling av nasjonale kontaktpunkter. Med en tiltakende uklar grensegang mellom alvorlig økonomisk kriminalitet og organisert kriminalitet kan en organisatorisk sammenslåing understøtte en mer hensiktsmessig faginndeling og en mer formålstjenlig inndeling av de nasjonale kontaktpunktene. Modellen vil også kunne styrke internasjonal samhandling og samarbeid gjennom bedre utnyttelse av Kripos og Økokrims internasjonale kontaktflater. Begge særorgan antas å ha gjensidig utbytte av det andre organs internasjonale kontaktflater.
+
+Det forutsettes at den nasjonale beredskapsenheten vil få en rolle som nasjonalt kontaktpunkt for nasjonal beredskap. Modell 2 antas således å understøtte en mer effektiv samhandling og fagformidling innenfor beredskapsfeltet.
+
+UP er et kontaktpunkt innen trafikksikkerhet, nasjonalt og internasjonalt. I modell 2 overføres det overordnede ansvaret for trafikksikkerhetsarbeidet, herunder rollen som nasjonalt kontaktpunkt, til egen strategisk funksjon i POD. Det ventes således ingen virkning knyttet til UPs rolle som internasjonalt kontaktpunkt.
+
+PUs rolle som kontaktpunkt nasjonalt og internasjonalt overføres til Øst politidistrikt. Det ventes således ingen virkning i knyttet til PUs rolle som internasjonalt kontaktpunkt.
+
+*<u>Styrke kompetanseutvikling og kompetansedeling i politietaten</u>*
+
+Interaksjon mellom fagmiljøer stimulerer til innovasjon og legger grunnlag for utvikling som hvert fagmiljø ikke ville oppnådd enkeltvis. Flere fagmiljøer gir bredere tilnærming til bruk av ulike verktøy og metoder, og i kunnskapsvirksomheter inngår gjerne størrelsen på fagmiljøene som et sentralt vurderingskriterium for å vurdere potensialet for faglig kvalitet og innovasjonsevne. En viss størrelse på fagmiljøene anses som nødvendig, blant annet for å skape bredde for synergier og kapasitet for samarbeid.
+
+Modell 2 samler fagmiljøene i Kripos og Økokrim, som dermed blir større i både bredde og dybde. Det antas videre at det samlede fagmiljøet blir mer attraktivt med hensyn til rekruttering av medarbeidere, så vel som overfor eksterne samarbeidsaktører og fagmiljø. Dette antas å øke evnen til fagutvikling og innovasjon.
+
+De nasjonale beredskapsressursene samles i eget nasjonalt organ. Det antas at dette vil styrke forutsetningene for fag- og metodeutvikling. I kraft av å være et nasjonalt organisatorisk organ tilrettelegges det for at de nasjonale beredskapsressursene får en tydeligere faglig profil, med positive virkninger for samhandling og kompetanseoverføring til politidistrikt. Det ventes også at forutsetningene for kompetansedeling internasjonalt vil bli bedre gjennom at de nasjonale beredskapsressursene vil tilhøre det samme organisatoriske nivået som viktige samarbeidsaktører.[^482]
+
+*<u>Styrke forutsetninger for bedre styring</u>*
+
+Ved at UP og PU integreres i politidistriktene og Kripos og Økokrim slås sammen, tilrettelegges det for en mer helhetlig styring, hvor ledelsen får økt handlingsrom til å anvende ressursene mer fleksibelt og effektivt. Dette styrker organisasjonens evne til å tilpasse virksomheten etter vekslende behov.
+
+I modellen får de nasjonale beredskapsressursene et eget nasjonalt organisatorisk uttrykk. Det antas at dette vil tilrettelegge for bedre og mer forutsigbar styring og dimensjonering av beredskapsressursene.
+
+*<u>Styrke nasjonal beredskap</u>*
+
+I modell 2 foreslås de nasjonale beredskapsressursene etablert som en egen selvstendig nasjonal beredskapsenhet, direkte underlagt Politidirektoratet, med unntak av TTS og UC-enheten samt Den kongelige politieskorte (DKP) som fortsatt vil ligge under Oslo politidistrikt. Modellen forutsetter at mannskaper i beredskapsenheten inngår i operativ tjeneste i Oslo politidistrikt eller andre distrikt for å opprettholde nødvendig operativ erfaring og tilgjengelighet for akutt innsats.
+
+Organiseringen som en selvstendig enhet vil bidra til å sikre at dagens nasjonale beredskapsressurser får nødvendig autonomi til å utvikle egen spisskompetanse og ekspertkultur. En egen enhet vil ventelig lettere kunne synliggjøre ressurs- og investeringsbehov gjennom styringsdialogen. Modellen legger også til rette for å etablere et sterkt kompetansemiljø gjennom å konsentrere ressursene til ett sted.
+
+Enheten vil ikke ha IKT-beredskap som del av sin organisasjon. Ettersom trusselbildet utvikler seg, må det løpende vurderes tiltak, samhandling og organisering for å sikre et effektiv og helheltlig beredskapskonsept som også ivaretar hybride kriser og hendelser.
+
+Innsatsevnen til de nasjonale beredskapsressursene vil kunne utvikles fra et helhetsperspektiv, med et enhetlig nasjonalt fokus med tanke på strategisk utvikling av beredskapsfeltet. Modellen gir også grunnlag for mer langsiktig og helhetlig budsjett- og aktivitetsplanlegging i et nasjonalt perspektiv.
+
+Samling av de nasjonale beredskapsressurser i én organisasjon ventes også å bidra til mer direkte og bedre samvirke med politidistrikt og andre samarbeidsaktører.
+
+1.  **<u>Utvalgets samlede vurdering av modell</u><u> </u><u>2</u>**
+
+*Utvalgets flertall* mener overordnet at modell 2 er en intuitiv og logisk organisering av politiet og en struktur som støtter politiets kjerneoppgaver og forutsetningene for nærpolitireformen ved å gi mer ansvar til politidistriktene. *Utvalgets flertall* mener videre at modellen vil gi bedre styring og styrke samordning innen etterforskning av alle typer alvorlig kriminalitet samt legge grunnlag for en nødvendig økt satsing på nasjonal spisskompetanse innenfor bekjempelse av alvorlig IKT-kriminalitet, og digitalt politiarbeid.
+
+*Utvalgets flertall* mener videre at en egen enhet for politiets nasjonale beredskapsressurser er et nødvendig tiltak for å styrke politiets innsats for å forebygge og bekjempe terroranslag som en reell nasjonal ressurs. Utvalget mener at en egen nasjonal beredskapsenhet, knyttet til et nasjonalt beredskapssenter, vil kunne ivareta et nasjonalt perspektiv, sørge for forutsigbare økonomiske rammer og dyrke kjerneoppgavene (beredskap) bedre enn dagens organisering under Oslo politidistrikt. Modellen understøtter også utvalgets grunnprinsipper.
+
+Det er likevel viktig å etablere en styringsmodell som kan motvirke at nasjonale bistandsenheter blir pålagt en portefølje som bidrar til stort oppgavespenn, som i neste omgang kan svekke gjennomføringsevnen.
+
+En annen innvending er at fortsatt god resultatoppnåelse innenfor trafikksikkerhet og på utlendingsfeltet krever god styringsdialog mellom POD og politidistriktene for å sikre nødvendig ressursinnsats og prioritering. Det krever en oppbygging av strategisk kapasitet i Politidirektoratet.
+
+1.  **<u>Modell 3</u>**
+
+Modellen bygger på modell 2, men innebærer at bistand- og beredskapsenhetene blir samlet i én enhet. En lignende løsning er blant annet valgt i Nederland, der den sentrale enheten inngår i organisasjonskartet som et 11. politidistrikt. Løsning for UP og PU vil bli som i modell 2, det vil si at ressursene blir overført til politidistriktene, men med tydeligere strategisk styring fra POD.
+
+*Utvalgets mindretall,* medlemmene Fause og Paulsen, fastholder sin alternative løsning om å legge Økokrim under Riksadvokaten som beskrevet i pkt. 15.5.1. og 15.5.2.
+
+Modellen innebærer, som beskrevet under modell 2, at politiressursene i UP og PU blir delvis tilbakeført til politidistriktene, og delvis til POD og andre enheter som beskrevet i pkt. 15.5.1.
+
+Politiets organisasjonsmodell vil dermed etter flertallets forslag se ut som vist i figur 15.3.
+
+**<u>\[:figur:figX-X.jpg\]</u>**
+
+1.  <u>Modell 3. En sentral bistands- og beredskapsenhet</u>
+
+<!-- -->
+
+1.  **<u>Utvalgets vurdering av konsekvenser ved valg av modell 3</u>**
+
+*<u>Mer fleksibel og effektiv kapasitetsutnyttelse av politiressurser</u>*
+
+Virkningene for modell 3 sammenfaller i det vesentligste med virkningene til modell 2. I modell 3 er de nasjonale beredskapsressursene og den nasjonale bistandsenheten samlet under felles organisasjon og ledelse. Modell 3 vurderes ikke å gi ytterligere nyttevirkninger som følge av ulikeartede oppgaver.
+
+*<u>Mer helhetlig og effektiv kriminalitetsbekjempelse</u>*
+
+Med hensyn til mål om mer effektiv kriminalitetsbekjempelse gjennom mer effektiv samhandling og fagformidling vil virkningene i modell 3 forventes å sammenfalle med modell 2, med unntak av beredskapsområdet, som ventes å få et mindre tydelig uttrykk ved å være en integrert del av en nasjonal bistandsenhet.
+
+*<u>Styrke kompetanseutvikling og -deling i politietaten</u>*
+
+Virkningene i modell 3 forventes å sammenfalle med modell 2, med unntak av beredskapsområdet, som vil få mindre autonomi og gis et mindre tydelig uttrykk ved å være en integrert del av en nasjonal bistandsenhet.
+
+*<u>Styrke forutsetninger for bedre styring</u>*
+
+Virkningene i modellen sammenfaller for øvrig med modell 2, med unntak av de nasjonale beredskapsressursene. I modell 3 samles de nasjonale beredskapsressursene og etterforskningsressursene under felles ledelse. Dette stiller enheten overfor mange mål og krav, og kan skape vanskeligheter i prioriteringer mellom beredskap og etterforskning. Modell 3 vurderes derfor å øke lederspennet, med risiko for at bredden i oppgaveportefølje kan skape både styringsutfordringer og målkonflikter. Det forventes ikke ytterligere samhandlingsgevinster sammenliknet med modell 2.
+
+*<u>Styrke nasjonal beredskap</u>*
+
+I likhet med modell 2 blir de nasjonale beredskapsressursene hevet til et nasjonalt nivå, som reduserer risikoen for samtidighetskonflikter. I modell 3 samles de nasjonale beredskapsressursene og etterforskningsressursene under felles ledelse. Sammenliknet med modell 2 antas dette å føre til redusert autonomi for de nasjonale beredskapsressursene.
+
+Samtidig vil modellen styrke grensesnittet og helhetlig ledelse mellom dagens beredskapsfunksjoner og fremtidens behov for politiets beredskap i det digitale rom.
+
+1.  **<u>Utvalgets samlede vurdering av modell</u><u> </u><u>3</u>**
+
+Utvalget mener denne modellen, i likhet med modell 2, gir en intuitiv og logisk organisering av politiet. En samlet nasjonal bistands- og beredskapsenhet vil gi store samordningsgevinster og en samlet nasjonal politikraft på alle områder som vil være lett å styre og operasjonalisere.
+
+En fordel med denne modellen er at nasjonale beredskapsressurser og etterforskning/etterretning blir satt i sammenheng. Dette kan ivareta en viktig dimensjon i styrking av politiets IKT-beredskap, noe flere politiledere og interessenter har vektlagt overfor utvalget.
+
+Utvalget ser imidlertid noen utfordringer som må løses. En slik enhet vil få et stort oppgavespenn, og det vil være nødvendig med tydelige styringslinjer både innad i enheten og overfor Politidirektoratet. Utvalget ser at det kan være kulturforskjeller mellom beredskapsdelen og etterforskningsdelen som kan være vanskelig å overkomme.
+
+Det er videre en viss risiko for at en slik enhet vil utgjøre en maktkonsentrasjon som kan utfordre den tiltenkte rollen som mer rendyrket bistandsenhet, ved å komme i en mellomposisjon mellom politidistriktene og POD. Det er mulig å hevde at modellen vil innebære et langt skritt i retning av å etablere en norsk utgave av det amerikanske Federal Bureau of Investigation (FBI). Dette kan medføre en maktforskyvning i forholdet til politidistriktene. Det kan også tenkes at enheten blir så stor at den reelt kan utfordre PODs styringsevne.
+
+I tillegg mener utvalget det er en risiko at en slik stor enhet kan medføre at flere viktige beslutninger blir tatt i lukkede rom, og dermed unndratt offentlig debatt. For en viktig samfunnsinstitusjon som politiet er åpenhet avgjørende for å opprettholde nødvendig tillit til publikum.
+
+1.  **<u>Andre tiltak for </u><u>å</u><u> sikre gode polititjenester</u>**
+
+    1.  **<u>Behov for mer ledelse, kompetanse og teknologi</u>**
+
+I mandatet til utvalget vektlegges at etatens kapasitet til å styre, lede og utvikle virksomheten må styrkes, slik at det kan utvikles gode polititjenester. Utvalget har til hensikt å foreslå hensiktsmessige strukturer for å legge til rette for dette. Imidlertid er det viktig at strukturene følges opp med andre tiltak, slik at bistandsorganene kan bidra til at politidistriktene oppnår kompetanse og robusthet i tråd med nærpolitireformens intensjoner. Utvalget vil derfor peke på noen andre sentrale faktorer enn strukturendringer, som må vektlegges i en virksomhetsutvikling. Utvalget konsentrerer seg om behovet for ledelse, kompetanseoppbygging og anvendelse av teknologi. Utvalget har også gjort seg noen refleksjoner om noen spesielle kulturtrekk i politiet.
+
+*<u>Korte utviklingstrekk</u>*
+
+22\. juli-kommisjonen[^483], og senere også *Politianalysen*[^484], pekte på behovet for å utvikle ledelse og kompetanse i politiet. Dette er fulgt opp i nærpolitireformen og senere utredninger, senest i *Påtaleanalysen*[^485]*,* fremlagt 2. mars 2017.
+
+Det har vært arbeidet med ledelse, forbedringstiltak og kompetanseoppbygging i hele etaten. *Etterforskningsløftet* er et særskilt tiltak for å bedre kompetansen innen etterforskning og samlet sett er det gjort mye grunnleggende og viktig arbeid for å følge opp de utredninger og tiltak som har blitt tilrådd og besluttet.
+
+*<u>Langsiktige strategier og god styring som bakgrunn for ledelse</u>*
+
+Mange utvalget har snakket med, har gitt uttrykk for at norsk politi trenger en langtidsplan, på samme måte som man har langtidsplan for Forsvaret, transport og forskning, noe også *Politianalysen* pekte på.[^486] Utvalget er enig i at det ville være ønskelig. Langsiktig kompetanseoppbygging og tilpassing til samfunnets behov krever et langsiktig politisk perspektiv. Det vil gi langsiktige og derved mer stabile rammer for POD, som derved gis bedre mulighet til å utøve sin ledelse av politiet.
+
+Mangel på slike rammer innebærer at det lettere oppstår usikkerhet om eget mandat. Man kan få overstyring på politisk nivå og svakere virksomhetsstyring og beslutnings- og gjennomføringsevne.
+
+*<u>Behovet for PODs ledelse i virksomhetsutviklingen</u>*
+
+Ledelsens hovedoppgaver, ved siden av å iverksette den vedtatte politikk, er å utvikle strategier, vedta budsjetter, implementere strategiske veivalg og legge til rette gode rammer for at virksomheten kan yte gode polititjenester.
+
+God ledelse er avgjørende for et godt politi. God ledelse skal tilrettelegge for god virksomhetsledelse. Det innebærer og realisering av den strategi som gjør at virksomheten totalt sett utvikler seg i tråd med samfunnets behov. God ledelse er også forutsetning for å videreutvikle de ti grunnprinsipper som norsk politi skal bygge på.[^487]Videre er god ledelse en forutsetning for god måloppnåelse, lik og kvalitetsbasert oppgaveutførelse, planlagt og systematisk forbedring av kvalitet, innføring av nye arbeidsformer, utnytte muligheter ved digitalisering, kontroll på økonomi, og godt medarbeiderskap.
+
+PODs ledelse av særorganene synes å være ulikeartet for ulike organ og ikke alltid på tilstrekkelig strategisk nivå. Ulike særorgan har utviklet egne strategier – så vidt utvalget kjenner til, uten at det er koordinert eller gjort i samråd med POD, og utvalget er ikke kjent med at POD har utviklet langsiktige strategier for hva man ønsker med de ulike særorgan.
+
+Utvalget er derfor enig med *Politianalysen*, som vektlegger behovet for bedre ledelse og en mer effektiv organisering av politietaten.
+
+Politianalysen pekte også på at strukturelle forhold har betydning for utøvelse av ledelse. Analysen mente at de daværende strukturelle forutsetningene i politiet ikke la til rette for god ledelse,[^488] og foreslo en rekke tiltak som nå er delvis gjennomført, herunder reduksjonen i antall politidistrikt. Videre fremholdt analysen at ulike kulturer i politidistrikter og særorganer gjør erfaringsutveksling og samhandling vanskelig og fører til fravær av enhetlig ledelse i politiet.[^489] Utvalget mener det fortsatt er et potensial for forbedret samhandling mellom enhetene.
+
+Utvalget konstaterer også at selv om norsk politi må anses som meget dyktig på operativ ledelse, er det grunn til å anta at man fortsatt har noen skritt å gå når det gjelder strategisk ledelse og virksomhetsstyring. POD anslår selv å ligge på nivå 3 av 5, der 5 er det optimale for god virksomhetsstyring.[^490]
+
+Utvalget har forståelse av at økt grad av styring fra PODs side kan komme i konflikt med den betydelige autonomi som det enkelte politidistrikt har kunnet utvikle. Da vi hadde 54 politidistrikt, var enhetlig ledelse mer utfordrende, noe enklere trolig med 27 distrikt, og man har ytterligere bedre forutsetninger nå med tolv distrikt. Det betyr også at autonomien kan bli mer utfordret når det nå er færre distrikt enn før.
+
+Muligheten ligger i å organisere i en struktur som sammen med øvrige virksomhetsbetingelser gjør at medarbeiderne får mulighet til å yte sitt beste og i tråd med virksomhetens mål og strategier, med god styring og likevel frihet til å ta selvstendige valg i operativ tjeneste.
+
+*<u>Roller, myndighet og ansvar</u>*
+
+Uavhengig av hvilke nye strukturer som innføres, er det nødvendig med avklaring av roller, myndighet og ansvar for henholdsvis POD og bistandsenhetene, og også mellom POD og bistandsenhetene. Klare og entydige styringslinjer er påkrevd både for å kunne utøve god styring og for å kunne yte tjenester på en god måte.
+
+1.  **<u>Kulturelle utfordringer</u>**
+
+*<u>Synet p</u><u>å</u><u> ledelse</u>*
+
+Mandatet legger vekt på behovet for styring. Oppdragsgiver ønsker bedre styring, mer effektivitet og bedre kompetanse, med det formål å skaffe borgerne et best mulig fremtidig politi.
+
+I utvalgets spørreundersøkelse rettet mot politimestrene fremgår det at noen oppfatter at ledelseskompetanse har for lav prioritet i politiet og at lederkompetanse burde vært en høyere anerkjent kompetanse i etaten. Dyktige fagpersoner innen politiet, som ikke selv er ledere, kan ha mer negative assosiasjoner til hva ledelse innebærer.
+
+*<u>Politikultur(er) </u><u>–</u><u> </u><u>é</u><u>n eller flere?</u>*
+
+*Politianalysen* var opptatt av kulturen og dens betydning, ikke minst hvordan ulike deler av politiet kan utvikle særegne kulturer. Dette kan føre til målkonflikter.[^491] Utvalget mener organisasjonsstrukturene bør fremme en felles kultur og viser i den forbindelse til modellforslagene i kapittel 15.
+
+*<u>Syn p</u><u>å</u><u> reformen og ressurser</u>*
+
+Det andre utvalget har merket seg, er synet på at mer ressurser løser de fleste utfordringer, og at dette til dels er eneste mulighet for endring eller bedring. Politidistriktene opplever utfordringer med å få endene til å møtes. Også politiet, som øvrig del av offentlig virksomhet, må utvikle mer kunnskap og forståelse om hvordan man kan utnytte de ressurser man har, optimalt. Videre må forståelsen av at bruk av ny teknologi kan gi bedre brukertjenester, mer effektivitet og bedre ressursanvendelse, og også en bedre arbeidssituasjon for den enkelte medarbeider, videreutvikles.
+
+1.  **<u>Et mer kompetent politi </u><u>–</u><u> kompetanseoverf</u><u>ø</u><u>ring fra b</u><u>i</u><u>standsenhetene til politidistriktene</u>**
+
+Kvalitetsreformdelen i Nærpolitireformen tar opp i seg et ønske om generell kompetanseheving i politiet og flere prosesser er allerede i gang. Politidirektoratet har gjennom reformarbeidet lagt opp til en kompetanseheving både innenfor både virksomhetsstyring og fagstyring. Et tiltak i denne forbindelse er som nevnt etterforskningsløftet.
+
+*<u>Dagens s</u><u>æ</u><u>rorgan bidrar til kompetanseoverf</u><u>ø</u><u>ring</u>*
+
+Utvalget har blitt godt orientert om hvordan dagens særorganer aktivt driver kompetanseoverføring. Kripos overfører i betydelig grad kompetanse ved å bistå andre politienheter i enkeltsaker. Økokrim bistår politidistriktene også i enkeltsaker, men hensikten med Økokrim er også å føre egne saker. Økokrim blir av mange oppfattet som et særorgan som i mindre grad overfører kompetanse gjennom lokal tilstedeværelse. Økokrim bistår mest gjennom rådgivning og erfaringer fra egne saker. Politiets utlendingstjeneste mener selv de overfører kompetanse til politidistrikt og andre sentrale politiorgan, både gjennom oppgaveløsning sammen med andre enheter og gjennom rådgivning og kursing, mens Utrykningspolitiet overfører kompetanse innen trafikksikkerhetsarbeid. Det gjør Utrykningspolitiet både gjennom å støtte politidistriktene i deres trafikksikkerhetsarbeids, og kanskje mest gjennom å tilbakeføre innbeordret personell til politidistriktene etter endt innbeordringstid i Utrykningspolitiet.

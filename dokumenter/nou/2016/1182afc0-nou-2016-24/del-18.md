@@ -1,1070 +1,312 @@
-# NOU 2016: 24, del 18 av 73 (side 204–213)
+# NOU 2016: 24, del 18 av 69
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/1182afc0-nou-2016-24.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-24/id2517932/
 - Original-PDF: https://www.regjeringen.no/contentassets/6fe1d875248042b4a09b43b85aa46832/no/pdfs/nou201620160024000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 9 tabeller, 1 figur, 52 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 204]
-
-202
-
-NOU 2016: 24
-
-Kapittel 8
-
-Ny straffeprosesslov
-
-nelle innordning i vårt statsstyre. Med andre ord
-bør det alminnelige kravet om en uavhengig påtalemyndighet grunnlovfestes, men de konkrete
-reguleringer om forholdet mellom riksadvokaten
-og Kongen bør følge av straffeprosessloven og de
-alminnelige reglene i Grunnloven om embetsmenn, se punkt 8.2.1.
-Utvalget mener at en god løsning vil være å gi
-et samlet uttrykk for anklageprinsippet og uavhengighetskravet ved å endre Grunnloven § 96
-første ledd. Etter utvalgets syn er det naturlig at
-begge disse sider ved påtalemyndighetens stilling
-kommer til uttrykk i Grunnloven § 96, som nå er
-plassert i kapitlet om menneskerettigheter.
-Utvalget har vurdert om Grunnloven § 96
-burde fastslå at «Ingen kan straffes uten etter lov,
-uavhengig anklage og dom». Imidlertid mener
-utvalget at det knytter seg så sterke tradisjoner til
-den gjeldende formuleringen i Grunnloven § 96
-første ledd at den i sine hovedtrekk er verdt å
-bevare. Utvalget vil derfor foreslå at Grunnloven
-§ 96 første ledd endres slik (endringer i kursiv):
-«Ingen kan dømmes uten etter lov og uavhengig
-anklage, eller straffes uten etter dom.»
-På denne måten kommer det tydelig frem at alle
-statsmaktene må ta del i forfølgningen før noen
-kan straffes. Samtidig vil endringen av bestemmelsen legge rettslige rammer for samtlige
-statsmakters myndighetsutøvelse:
-Initiativet under straffeforfølgningen kan ikke
-komme fra den dømmende rett, herunder vil retten ikke kunne dømme for noe annet enn det
-anklagen gjelder. Retten vil heller ikke kunne
-straffedømme hvis ikke den som har utformet
-anklagen, er sikret tilstrekkelig uavhengighet i
-sitt virke.
-På grunn av kravet om uavhengighet vil Kongen, eller organer som ligger under den utøvende
-makt, heller ikke kunne gripe inn i enkeltsaker.
-Som nevnt i punkt 8.2.1, må den politiske kontroll
-utøves gjennom andre kanaler.
-Lovgiver vil videre ikke kunne legge påtalemyndighet til organer som ikke er sikret tilstrekkelig uavhengighet. Når offentlige organer uten
-tilstrekkelig distanse fra politiske myndigheter
-ikke kan oppfylle uavhengighetskravet, vil
-bestemmelsen også sperre for en ordning med
-private straffesaker slik vi har i dag, se for øvrig
-
-utvalgets vurderinger av denne ordningen i punkt
-24.5. Forslaget vil i prinsippet ikke være i veien for
-at man innfører et system med etterforskingsdomstoler etter kontinentalt mønster såfremt en slik
-«domstols» etterforsknings- og påtalefunksjon
-holdes adskilt fra dømmende virksomhet, noe
-som imidlertid neppe har særlig aktualitet gitt vår
-rettstradisjon. Det sentrale er at anklagefunksjonene og de dømmende funksjonene ligger hos
-ulike organer, at det dømmende organs myndighet er avgrenset ved tiltalen, og at det organ som
-tillegges påtalekompetanse, sikres uavhengighet.
-Utvalget anbefaler at ordningen med rettergangsstraff vurderes i forbindelse med utvalgets
-grunnlovsforslag, og at det eventuelt inntas et
-unntak i et nytt annet punktum til Grunnloven
-§ 96 første ledd hvis ordningen ønskes videreført,
-se nærmere i punkt 17.6.7.
-Utvalget er klar over at forslaget til en endring
-som den nevnte i Grunnloven § 96 – som stiller
-eksplisitte krav til hvordan utøvende myndighet må
-innrettes – kan hevdes å bryte med den øvrige
-systematikk i Grunnlovens kapittel E om menneskerettigheter. Det finnes få bestemmelser i dette
-kapitlet som retter seg direkte mot og stiller uttrykkelige krav til hvordan utøvende myndighet skal
-utøves og organiseres, med et mulig unntak for
-Grunnloven § 101 tredje ledd. Utvalget ser imidlertid ikke dette som en avgjørende innvending.
-Bestemmelsen i Grunnloven § 96 første ledd
-er, som fremhevet innledningsvis, heller ikke i
-dag bare en «rettighetsbestemmelse», men også
-en bestemmelse om fordeling av makt mellom de
-øverste statsorganene. Det er som en konsekvens
-av denne maktfordelingen at bestemmelsen oppfyller sitt formål om å sikre borgerens frihet, rettigheter og muligheten til å forutberegne sin rettsstilling, både i forkant av og under straffeforfølgningen. Systematiske hensyn er derfor ikke et
-avgjørende argument mot å grunnlovfeste anklageprinsippet og påtalemyndighetens uavhengighet i Grunnloven § 96 første ledd og kapitlet om
-menneskerettigheter, og således fullbyrde det
-prinsipp om maktfordeling som bestemmelsen
-allerede bygger på – og i siste instans sikre borgerne et vern mot politisk straffeforfølgning. I
-vårt system synes det også nærliggende å
-uttrykke det allerede etablerte idealet om en politisk uavhengig påtalemyndighet som en rett til
-uavhengig anklage.
-
-[Side 205]
-
-203
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-Kapittel 9
-
-Kapittel 9
-
-Mistenkte og forsvareren
-9.1
-
-Innledning
-
-Utvalget skal «vurdere reglene om bruk av
-forsvarer […], herunder se nærmere på forsvarerrollen og det frie forsvarervalg», se mandatet
-punkt 4.8.
-«Forsvarerrollen» omfatter mer enn det som
-er naturlig å drøfte inngående i tilknytning til en
-straffeprosesslov, blant annet forhold som i dag
-omfattes av Advokatforeningens retningslinjer for
-forsvarere.1 Utvalget har på denne bakgrunn lagt
-til grunn at det er forsvarerrollen slik den er
-regulert i straffeprosessloven, som skal drøftes,
-herunder forsvarerens forhold til andre aktører,
-som påtalemyndighet og bistandsadvokat. En mer
-detaljert klargjøring av forsvarerrollen innenfor
-loven ivaretas best innenfor profesjonens egne
-organer, se særlig Advokatlovutvalgets utredning
-NOU 2015: 3 del V og VI.
-Straffeprosessloven kapittel 8 inneholder
-generelle regler om siktede, mens konkrete
-rettigheter og plikter i hovedsak følger av lovens
-øvrige kapitler om straffesakens enkelte stadier.
-Regler om retten til forsvarer, og angivelse av
-hvilke generelle oppgaver forsvareren har,
-finnes i kapittel 9, mens de mer konkrete rettighetene og pliktene fremgår av lovens øvrige
-kapitler.
-I lovutkastet er reguleringen av mistenkte og
-forsvarerens prosessuelle stilling omstrukturert
-og samlet i kapittel 3 i lovens første del. Det
-synliggjør forsvarerens funksjon som mistenktes
-representant.
-I punkt 9.2 redegjøres det for uttrykket
-«mistenkte» og hvordan det forholder seg til
-straffeprosesslovens bruk av uttrykket «siktede».
-I punkt 9.3 drøftes vernet mot selvinkriminering.
-Retten til forsvarer og forsvarerordningen drøftes
-i punkt 9.4.
-
-1
-
-Advokatforeningen (29.05.09).
-
-9.2
-
-«Mistenkte» og «siktede»
-
-9.2.1
-
-Oversikt
-
-Straffeprosessloven bruker flere betegnelser for
-den mulige lovovertreder på ulike stadier av
-straffesaken, herunder «anmeldte», «mistenkte»,
-«siktede» og «tiltalte». Etter fellende dom brukes
-gjerne uttrykket «domfelte», men før dommen er
-rettskraftig, kan det være aktuelt å bruke «tiltalte».
-Det siste vil være den mest nærliggende betegnelsen ved anke over en frifinnende dom.
-Uttrykket «siktet» fungerer som et koblingsord
-i straffeprosessloven, ved at betegnelsen knytter de
-alternative vilkårene for å få status som siktet etter
-straffeprosessloven § 82 til ulike rettigheter og plikter. Det er henvisninger til «siktede» i omkring 150
-paragrafer. Uttrykket benyttes ikke helt entydig, og
-betydningen er ikke alltid klar.
-Så langt det lar seg gjøre, bør samme uttrykk
-ha samme meningsinnhold ulike steder i loven.
-Dette hensynet kunne være grunn til å forbeholde
-uttrykket «siktede» for personer med status som
-siktet etter gjeldende § 82, det vil si siktede i
-snever forstand. Men dette terminologiske spørsmålet er bare aktuelt hvis man skal beholde
-dagens ordning med en særlig kategori mistenkte
-med status som siktet.
-I de følgende punkter redegjøres det for den
-prosessuelle stillingen til henholdsvis mistenkte og
-siktede med særlig sikte på å undersøke hvilke
-funksjoner et snevert siktetbegrep tjener. Til slutt, i
-punkt 9.2.7, drøftes spørsmålet om et slikt snevert
-begrep bør videreføres i ny straffeprosesslov.
-9.2.2
-
-Bruken av «mistenkte» i
-straffeprosessloven
-
-Loven inneholder ingen formell definisjon av
-«mistenkte». Heller ikke lovforarbeidene gir noen
-sikker veiledning for forståelsen. Andenæs og
-Myhrer viser til at man står nokså fritt til ut fra
-reelle hensyn å avgrense når noen skal anses som
-mistenkt.2
-
-[Side 206]
-
-204
-
-Kapittel 9
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-Et holdepunkt for avgrensningen gir ordlyden
-i straffeprosessloven § 241. Det følger av bestemmelsen at en mistenkt som det «pågår etterforsking mot», har rett til å begjære rettergangsskritt
-til avkreftelse av mistanken. I praksis har man
-generelt lagt vekt på om en person står så sentralt
-i etterforskingen at den kan sies å være rettet mot
-vedkommende, jf. Rt. 1997 s. 138.
-9.2.3
-
-Bruken av «siktede» i straffeprosessloven
-
-I snever forstand viser «siktede» til personer med
-status som siktet etter straffeprosessloven § 82.
-Bestemmelsen angir tre alternativer: (1) Påtalemyndigheten erklærer den mistenkte for siktet, (2) forfølgning innledes ved domstolene, eller (3) det
-besluttes eller iverksettes bestemte tvangstiltak mot
-den mistenkte. Statusen som siktet bortfaller ikke i
-og med eventuell tiltale og dom, og dette reflekteres
-for så vidt i lovens språkbruk, der «siktede» også
-brukes på tiltale- og pådømmelsesstadiet. I straffeprosessloven kapittel 27 om gjenåpning brukes
-betegnelsen «siktede» etter rettskraftig dom.3
-I en videre mening brukes «siktede» dessuten
-som en samlebetegnelse uten at statusen har noen
-betydning i sammenhengen. Dette er tilfellet for
-mange av de omkring 150 paragrafene i straffeprosessloven der uttrykket er benyttet, som for en
-stor del riktignok gjelder stadier der den forfølgningen er rettet mot, har status som siktet også i
-snever forstand. Uttrykket er også brukt i bestemmelser som gjelder alle mistenkte, uavhengig av
-om de har status som siktet etter § 82. Som
-eksempler kan nevnes § 28 om dokumentinnsyn
-og § 94 om rett til å la seg bistå av forsvarer på
-ethvert trinn av saken.
-9.2.4
-
-Forholdet til «criminal charge» etter EMK
-artikkel 6
-
-Vernet etter Den Europeiske menneskerettskonvensjon (EMK) artikkel 6 utløses når en står
-overfor en strafferettslig anklage; en «criminal
-charge». Forståelsen av hva som ligger i dette
-uttrykket er nærmere utviklet i praksis fra Den
-europeiske menneskerettsdomstol (EMD). Det
-avgjørende er om vedkommende er «substantially affected» som følge av den aktuelle etterforskingen.4 Normalt vil omstendigheter som gir
-status som «charged» i konvensjonens forstand,
-2
-3
-4
-
-Andenæs og Myhrer (2009) s. 62.
-Se straffeprosessloven §§ 391–393, 397–398 a og 400 og
-Rt. 1986 s. 845.
-Deweer mot Belgia, (6903/75), dom 27.02.80, avsnitt 46.
-
-også medføre siktelse i snever forstand etter
-norsk rett. Men konvensjonens begrep er ikke
-nødvendigvis
-sammenfallende
-med
-vårt
-nasjonale siktedebegrep.5
-Skal man gjennom straffeprosessloven sikre
-rettighetene som tilkommer gruppen som er
-«substantially affected» etter EMK, er det avgjørende at den internrettslige angivelsen av gruppen
-ikke er snevrere enn gruppen som EMK angir. Et
-eksempel på at det er et slikt avvik i dag, er at en
-rekke typer administrativ forfølgning som ikke
-medfører status som siktet etter straffeprosessloven § 82, innebærer en «criminal charge» etter
-EMK. Etter straffeprosessloven er man ikke å
-anse som siktet ved begjæring om kommunikasjonskontroll, selv om det krever «skjellig grunn
-til mistanke» og innebærer at man er «charged»
-etter EMK, jf. straffeprosessloven § 216 a.
-Tilsvarende gjelder for andre hemmelige tvangsinngrep mistenkte ikke skal varsles om, jf.
-straffeprosessloven § 82 tredje ledd.
-9.2.5
-
-Mistenktes rettsstilling
-
-Etter straffeprosessloven er mistenkte uten siktetstatus gitt vidtrekkende rettigheter.6
-Mistenkte har rett til å nekte å forklare seg for
-politiet.7 Før det foretas politiavhør, skal vedkommende gjøres kjent med hva saken gjelder, og sin
-rett til å forholde seg taus.8 Mistenkte har videre
-rett til å gjendrive de grunner mistanken beror på,
-og anføre de omstendigheter som taler til sin fordel.9 Mistenkte kan også begjære rettergangsskritt for å avkrefte mistanken mot seg og skal få
-adgang til å gjøre seg kjent med saksdokumentene på etterforskingsstadiet.10
-Sentralt er det også at mistenkte etter dagens
-regler har rett til å la seg representere av forsvarer.
-Straffeprosessloven § 94 gir etter sin ordlyd riktignok bare «siktede» rett til å la seg bistå av forsvarer
-på ethvert trinn av saken, men påtaleinstruksen
-§ 8-1 forutsetter at tilsvarende gjelder for den som
-er mistenkt uten status som siktet. Mistenkte skal
-gjøres kjent med sin rett til forsvarerbistand på alle
-stadier i saken, herunder ved politiets avhør av
-vedkommende.
-Etter straffeloven § 162 har mistenkte – som
-alle andre – plikt til å oppgi personalia til politiet
-5
-6
-7
-8
-9
-10
-
-Aall (2011) s. 383.
-Se Bjerke, Keiserud og Sæther (2011) s. 334.
-Jf. straffeprosessloven § 230 første ledd.
-Jf. straffeprosessloven § 232.
-Jf. straffeprosessloven § 232 annet ledd, jf. § 92 første ledd.
-Jf. straffeprosessloven §§ 241 og 242.
-
-[Side 207]
-
-205
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-når vedkommende blir spurt om det.11 Videre
-skal den som er mistenkt, etter innkalling, møte
-hos politiet for å avklare om vedkommende er
-villig til å forklare seg, jf. straffeprosessloven
-§ 230 tredje ledd. Det følger imidlertid av
-forarbeidene at det likevel ikke er grunnlag for å
-innkalle mistenkte dersom det er klart at
-vedkommende ikke er villig til å forklare seg.12
-Mistenkte kan ikke straffes for uriktig forklaring om det forhold mistanken gjelder, jf. straffeloven § 221 annet ledd. Når et vitne som er eller
-mistenkes for å være skyldig eller medskyldig i
-forhold som berøres av saken, avgir forklaring i
-retten, følger det dessuten av straffeprosessloven
-§ 132 nr. 2 at vedkommende ikke skal avgi
-sannhetsforsikring.13
-Det kan være aktuelt å iverksette tvangsmidler
-mot en mistenkt. I de fleste tilfeller vil mistenkte i
-så fall få status som siktet, jf. straffeprosessloven
-§ 82. Unntak gjelder der det besluttes å bruke et
-tvangsmiddel som mistenkte ikke skal underrettes
-om, som for eksempel hemmelig ransaking eller
-plassering av teknisk peileutstyr på mistenktes
-klær mv.14 I slike tilfeller er vedkommende mistenkt inntil underretning gis, jf. § 82 tredje ledd.
-Mistenkte blir heller ikke siktet ved at påtalemyndigheten begjærer nektelse av innsyn etter straffeprosessloven § 242 a. Så lenge den mistenkte ikke
-anses siktet, får vedkommende ikke de rettigheter
-og plikter som denne statusen innebærer.15 Når
-retten behandler saker om bruk av hemmelige
-tvangsmidler, kan det imidlertid oppnevnes offentlig
-advokat etter straffeprosessloven § 100 a, som skal
-ivareta mistenktes interesser.
-Straffeprosessloven § 28 gir siktede – på linje
-med fornærmede og etterlatte – rett til utskrift av
-rettsbøker og andre dokumenter i en avsluttet
-straffesak, uten hensyn til spørsmålet om rettslig
-interesse. Siktede ble inkludert i oppregningen
-ved endringslov 21. juni 2013 nr. 82. I lovforarbeidene er ikke valget av uttrykket «siktede»
-fremfor for eksempel «mistenkte» tematisert.
-Politiregisterutvalget begrunnet endringen slik:
-11
-
-Etter straffeloven § 162 kan den som ikke oppgir navn, fødselsdato, fødselsår, stilling og bopel til politiet eller annen
-offentlig myndighet som ber om det som ledd i tjenesten,
-straffes med bot.
-12
-Ot.prp. nr. 66 (2001–2002) s. 92.
-13
-En mistenkt som forklarer seg i retten i egen sak, vil ha
-status som siktet.
-14
-Jf. straffeprosessloven §§ 200 a og 202 c.
-15
-Se Ot.prp. nr. 64 (1998–99) s. 144. Reglene om erstatning i
-anledning av straffeforfølgning i straffeprosessloven kapittel 31 gjelder likevel, se straffeprosessloven § 82 tredje ledd
-siste punktum.
-
-Kapittel 9
-
-«I tillegg til å forene gjeldende bestemmelser i
-straffeprosessloven § 28 og påtaleinstruksen
-§ 4-1, er den absolutte rett til innsyn i dokumentene i avsluttet straffesak også utvidet til å
-gjelde den som har vært siktet i saken. Etter
-utvalgets oppfatning er det vanskelig å forsvare
-at den forfølgningen primært har vært rettet
-mot, og som har hatt full rett til innsyn mens
-saken verserte, ikke skal ha en tilsvarende rett
-når saken er avsluttet. Begrensninger i retten
-bør i tilfelle gjøres ved anvendelse av
-‘misbruksbestemmelsen’ i fjerde ledd.»16
-Gitt denne begrunnelsen, og at retten til
-dokumentinnsyn i verserende sak etter § 242 tilkommer «mistenkte», må formentlig uttrykket
-«siktede» i § 28 første ledd bokstav a forstås som
-en generell henvisning til den forfølgningen
-gjelder, slik at også mistenkte som ikke er siktet
-i snever forstand etter § 82, omfattes.
-9.2.6
-
-Siktedes rettsstilling
-
-De rettigheter man har som mistenkt, beholdes
-hvis man senere blir siktet. I en del situasjoner er
-det ikke aktuelt å sondre mellom rettigheter for
-en siktet og en som bare er mistenkt, fordi situasjonen alltid medfører status som siktet. Dette
-gjelder for eksempel for bruk av tvangsmidler,
-legemsundersøkelse etter straffeprosessloven
-§ 157, fingeravtrykk eller fotografi ved tvang etter
-§ 160, personundersøkelse etter § 161 og
-førerkortbeslag etter vegtrafikkloven § 33.17
-I noen tilfeller er det ikke av betydning om
-vedkommende er mistenkt eller siktet, fordi begge
-grupper har de samme rettighetene. Mistenkte har
-som nevnt ikke plikt til å forklare seg og kan ikke
-straffes for uriktig forklaring, jf. straffeloven § 221
-annet ledd, som også gjelder for siktede.
-Siktede skal, i motsetning til mistenkte, anses
-som part i forbindelse med rettsmøter i saken.
-Siktede har krav på varsel til møtene etter straffeprosessloven § 86 og har rett til å være til stede og
-uttale seg i dem, jf. straffeprosessloven §§ 243 til
-245. Til denne rettigheten svarer en plikt for
-siktede til å møte for retten når vedkommende blir
-innkalt, jf. straffeprosessloven § 85. Siktede kan
-avhentes ved tvang ved uteblivelse, jf. § 88.
-Rettens avhør av siktede gjennomføres etter
-straffeprosessloven §§ 90 til 92.
-Siktede har i likhet med mistenkte rett til å la
-seg bistå av forsvarer på ethvert trinn av saken,
-16
-17
-
-Se NOU 2003: 21 s. 223.
-Se Hov (2010a) s. 608.
-
-[Side 208]
-
-206
-
-Kapittel 9
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-jf. straffeprosessloven § 94. I motsetning til mistenkte har siktede i atskillig utstrekning rett til
-forsvarer på det offentliges bekostning etter
-straffeprosessloven §§ 96 flg.
-Ved klage over en beslutning om å unnlate
-påtale eller frafalle en påbegynt forfølgning mot
-en siktet fastsetter straffeprosessloven § 59 a
-fjerde ledd annet punktum at melding om omgjøring må være sendt «siktede» innen tre måneder
-etter at påtalemyndigheten mottok klagen.
-Bestemmelsen må ses i sammenheng med reguleringen i § 75 annet ledd, jf. § 74 sjette ledd, som
-innebærer en tre måneders frist for overordnet
-påtalemyndighet til å omgjøre påtaleunnlatelser
-og henleggelser i sak mot en som har vært
-«siktet». Bestemmelsene innebærer et vern mot
-omgjøring etter de angitte frister, og det er sikker
-rett at vernet bare gjelder for den som har hatt
-status som siktet etter § 82.
-Rett til erstatning i anledning forfølgning etter
-straffeprosessloven §§ 444 til 447 tilkommer som
-et utgangspunkt bare siktede. Retten omfatter
-imidlertid også en mistenkt som det har vært
-iverksatt hemmelige etterforskingsskritt mot, jf.
-§ 82 tredje ledd fjerde punktum. Andre mistenkte
-må bygge et erstatningskrav i anledning forfølgning på den skjønnsmessige rimelighetsstandarden i § 448.
-Etter straffeprosessloven § 438 kan en siktet
-kreve erstatning for utgifter til sitt forsvar dersom
-vedkommende frifinnes, eller dersom forfølgningen innstilles uten at det har hjemmel i §§ 69 eller
-70 om påtaleunnlatelse. I praksis har imidlertid
-også mistenkte uten status som siktet fått dekket
-utgifter til advokat i tilfeller der vedkommende
-har fått en beslutning mot seg eller har måttet forsvare seg mot tvangsinngrep.18
-Tidligere fulgte det av straffeprosessloven
-§ 239 at siktedes forsvarer skulle gis anledning til
-å overvære dommeravhør utenfor rettsmøte. Det
-ble videre lagt til grunn at mistenkte fikk status
-som siktet ved begjæring om dommeravhør hvis
-forfølgningen kunne anses å være rettet mot vedkommende.19 Ved lov 4. september 2015 nr. 87 er
-det gitt nye regler om tilrettelagt avhør i
-straffeprosessloven §§ 239 flg. Etter lovendringen
-skal mistenkte beholde sin status – og således
-ikke automatisk få siktetstatus – når det begjæres
-tilrettelagt avhør, vedkommende skal som hovedregel ikke varsles om avhøret. Det følger uttrykkelig av lovens ordlyd at spørsmålet om varsel er
-18
-19
-
-Se for eksempel Rt. 2006 s. 90 og Rt. 1998 s. 1891.
-Rt. 1993 s. 1118, Bjerke, Keiserud og Sæther (2011) s. 876
-og Andenæs og Myhrer (2009) s. 186.
-
-avhengig av siktetstatusen (eller fraværet av slik
-status), jf. § 239 b.20
-Etter straffeloven § 88 første ledd første punktum avbrytes foreldelsesfristen for et straffbart
-forhold når den mistenkte får stilling som siktet.
-Foreldelsen avbrytes selv om den siktede ikke er
-kjent med siktelsen. Men for mistenkte som ikke
-får stilling som siktet etter § 82 tredje ledd tredje
-punktum, fortsetter foreldelsesfristen å løpe.
-Også i særlovgivningen er det eksempler på
-bestemmelser hvor statusen som siktet har betydning. Det følger av domstolloven § 230 fjerde ledd
-at Advokatbevillingsnemnden kan suspendere
-bevillingen til en advokat som siktes for et straffbart forhold som kan medføre tap av bevillingen.
-Bestemmelsen omfatter ikke advokater som bare
-er mistenkt for slikt forhold.21 Et annet eksempel
-er politiregisterloven § 39 om barneomsorgsattest. Etter bestemmelsen skal det anmerkes på
-attesten om en person har vært «siktet, tiltalt, har
-vedtatt forelegg eller har vært dømt» for særskilt
-angitte straffebud.22
-Status som siktet kan for øvrig tenkes å ha
-betydning også utenfor rettssystemet selv. Som
-eksempel kan nevnes at pressens tilbøyelighet til
-å identifisere mistenkte synes å være større når
-vedkommende er siktet.23
-9.2.7
-
-Utvalgets vurderinger og forslag
-
-Spørsmålet i det følgende er om det er behov for å
-videreføre «siktede» som koblingsord i ny straffeprosesslov.
-Det er et argument for å opprettholde dagens
-betegnelser at «mistenkte» og «siktede» – med tilhørende rettigheter og plikter – er innarbeidet i
-straffeprosessen. Et mothensyn er at færre betegnelser, med et klart meningsinnhold og klare
-rettsvirkninger, forenkler loven. Etter dagens lov
-er det i en del sammenhenger uklart hva som
-menes med «siktede».
-
-20
-21
-22
-
-23
-
-Se nærmere om bestemmelsen i Prop. 112 L (2014–2015)
-s. 53.
-Se Bøhn (2013b), kommentar til domstolloven § 230, punkt
-9.
-Se nærmere om bestemmelsen i Ot.prp. nr. 108 (2008–
-2009) punkt 12.5. Det fremgår blant annet at enkelte
-høringsinstanser pekte på at heller ikke siktelser burde
-med, ettersom en person kan bli siktet selv om graden av
-mistanke er relativt lav.
-Vær Varsom-plakatens punkt 4.5 om å unngå forhåndsdømming fremhever riktignok ikke status som siktet særskilt
-når det heter at det skal gjøres klart «at skyldspørsmålet
-for en mistenkt, anmeldt, siktet eller tiltalt først er avgjort
-ved rettskraftig dom».
-
-[Side 209]
-
-207
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-Utvalgets gjennomgang av mistenktes og siktedes prosessuelle stilling viser at de i mange tilfeller er likestilt. I slike situasjoner er det unødvendig kompliserende å operere med forskjellig
-formell status og to ulike betegnelser. Etter utvalgets syn er det også klart nok slik at flere
-mistenkte som i dag ikke har formell status som
-«siktet», har behov for et sterkere prosessuelt
-vern. Det vises her særlig til reglene om vern
-mot omgjøring av påtalevedtak og rett til erstatning for uberettiget forfølgning. I disse situasjonene er det etter utvalgets oppfatning ikke rimelig at rettsstillingen avgjøres etter kriteriene i
-straffeprosessloven § 82.
-I lys av vernet som følger av menneskerettsloven, vil dessuten det at man i loven forbeholder
-rettigheter for en gruppe «siktede», kunne føre
-til at rettighetene gjennomgående må suppleres
-med rettighetene etter menneskerettskonvensjonene, eventuelt at siktetbegrepet må tolkes utvidende.
-Under punkt 9.2.6 er oppbyggingen av straffeprosessloven § 239 b behandlet. Bestemmelsen
-er et eksempel på hvordan bruken av «siktede»
-som koblingsord kan gi uheldige lovtekniske
-utslag. Den nye bestemmelsen innebærer et unntak fra den alminnelige bestemmelsen i straffeprosessloven § 82 om når en mistenkt skal få
-status som siktet. Plasseringen bidrar således til
-at regelverket blir ytterligere fragmentarisk og
-synes å virke unødig kompliserende. Det er også
-uheldig at en i § 239 b første ledd siste punktum
-går et skritt videre og på visse vilkår pålegger
-politiet å «ta ut siktelse». Dersom det er ønskelig
-at avhør skal tas uten varsel til mistenkte, bør det
-fortrinnsvis sies uttrykkelig i bestemmelsen,
-uten å gå veien om siktetbegrepet.
-Etter dette har utvalget kommet til at det er
-lite ønskelig å skille mellom to formelle kategorier i loven. Utvalget foreslår at uttrykket «mistenkte» benyttes som samlebetegnelse, uavhengig av hvilket stadium en befinner seg på i prosessen. Likevel går utvalget inn for at betegnelsene «tiltalte» og «domfelte» benyttes der dette
-gir en mer presis angivelse av den aktuelle situasjonen.
-
-9.3
-
-Vernet mot tvungen
-selvinkriminering
-
-9.3.1
-
-Oversikt
-
-Vernet mot selvinkriminering innebærer at den
-mistenkte har rett til å forholde seg taus overfor
-de forfølgende myndigheter og at vedkommende
-
-Kapittel 9
-
-heller ikke på annen måte er forpliktet til å bidra
-til å opplyse saken mot seg.24
-Grunnloven og Norges folkerettslige forpliktelser tilsier at ny straffeprosesslov bør inneholde
-et vern mot tvungen selvinkriminering, se
-nærmere punkt 9.3.2. Hvilket gjennomslag vernet
-bør gis i lovutkastet, beror – foruten innholdet i
-våre folkerettslige forpliktelser – på de underliggende begrunnelsene for å ha et slikt vern. I
-punkt 9.3.3 gis det en oversikt over argumentene
-for og mot et vern mot tvungen selvinkriminering.25 I punkt 9.3.4 og 9.3.5 klargjør utvalget sitt
-syn på hvilket nærmere innhold selvinkrimineringsvernet bør ha i ny straffeprosesslov og hvordan det bør komme til uttrykk i loven. Et hovedspørsmål er om også juridiske personer bør ha slikt
-vern.
-9.3.2
-
-Selvinkrimineringsvernets rettslige
-forankring
-
-Selvinkrimineringsvernet har en dyp forankring i
-vestlig rettskultur. Det Adler-Falsenske grunnlovsutkastet ga et uttrykkelig vern om retten til å
-forholde seg taus i § 17 annet ledd. Tydelig
-inspirert av USAs femte grunnlovstillegg fastslo
-forslaget at «[i]ngen skal kunne tvinges til ad
-vidne imod sig selv».
-Et viktig utslag av den rettstanke som
-selvinkrimineringsvernet hviler på, kom til
-uttrykk i Grunnloven, også før endringene i 2014,
-ved § 96 annet punktum: «Pinligt Forhør maa ikke
-finde Sted.» Å benytte tortur i forbindelse med
-avhør lar seg ikke forene med en rett til taushet,
-og et tilsvarende vern om denne kjernen i forbudet mot tvungen selvinkriminering følger nå av
-det nye torturforbudet i Grunnloven § 93 annet
-ledd.
-Grunnloven inneholder derimot ikke et uttrykkelig forbud mot å knytte sanksjoner til mistenktes passivitet. EMD har imidlertid tolket
-selvinkrimineringsvernet inn i EMK artikkel 6 nr.
-1 som et utslag av kravet til «fair trial», og Høyesterett har nylig lagt til grunn at det følger et lignende vern av den tilsvarende bestemmelsen i
-Grunnloven § 95 om rettferdig rettergang:
-«Presumsjonen om uskyld rommer flere regler
-og prinsipper. Helt grunnleggende er det at i
-24
-25
-
-Se nærmere om selvinkrimineringsvernet i for eksempel
-Øyen (2016 a) s. 89–91.
-For en drøftelse av selvinkrimineringsvernets rettspolitiske
-grunnlag, se for øvrig Torgersen (2009) s. 401 flg. og Rui
-(2009c) s. 50 flg. og særlig Øyen (2010) s. 78 flg.
-
-[Side 210]
-
-208
-
-NOU 2016: 24
-
-Kapittel 9
-
-Ny straffeprosesslov
-
-ordinære straffesaker må påtalemyndigheten
-bevise tiltaltes skyld utover rimelig tvil […].
-Den tiltalte kan på sin side ikke avkreves bevis
-for sin uskyld. Han kan heller ikke domfelles
-fordi han ikke har villet gi en fullstendig forklaring. Regelen her står i sammenheng med
-den tiltaltes rett til ikke å inkriminere seg selv,
-jf. Grunnloven § 95 første ledd, EMK artikkel 6
-og SP artikkel 14 nr. 3 bokstav g. Jeg viser til
-Rt. 2011 side 800 avsnitt 40 og til EMDs dom i
-John Murray mot Storbritannia 8. februar 1996
-avsnitt 41-54 og i Telfner mot Østerrike
-20. mars 2001 avsnitt 15-18.»26
-Det er ikke helt klart hvilke sider og rettsvirkninger av selvinkrimineringsvernet som nyter grunnlovsvern, men det er grunn til å tro at avgrensningen av vernet et stykke på vei vil følge de vurderinger som er gjort i EMDs praksis.
-I vår gjeldende straffeprosesslov kommer
-vernet særlig til uttrykk i straffeprosessloven
-§§ 90, 92, 123 og 232. Selvinkrimineringsvernet
-kommer til uttrykk på en rekke måter, blant annet
-ved at mistenkte må varsles om taushetsretten,
-gjennom bevisforbud ved brudd på taushetsretten, ved begrensninger i adgangen til å vektlegge mistenktes taushet i bevisvurderingen og
-ved at mistenkte kan avstå fra å medvirke til forfølgningen ved å nekte å utlevere bevis.
-9.3.3
-
-Mot denne begrunnelseslinjen kan det innvendes
-at den vanskelig lar seg forankre på annen måte
-enn ved å henvise til egen moraloppfatning.29
-En beslektet begrunnelse for vernet mot tvungen selvinkriminering er at det vil være umoralsk
-å pålegge mistenkte å medvirke til egen domfellelse. Tanken er at en slik plikt vil gi mistenkte
-et urimelig dilemma, ved at det vil medføre straff
-uansett hvordan vedkommende forholder seg –
-enten på grunn av tilståelsen eller på grunn av
-taushet eller falsk forklaring.30
-Mot dette argumentet kan det innvendes at det
-på en uholdbar måte sidestiller skyldige og uskyldige, ettersom en uskyldig ikke utsettes for samvittighetskonflikt ved forklaringstvang. Dersom
-mistanken skulle være ugrunnet, kan det hevdes
-å være rimelig å kreve forklaring:
-«Such «rationales» […] obviously presuppose
-that the suspect is guilty, for an innocent
-suspect would not be subjected to such choices
-nor bring about his own ruin by answering
-questions truthfully! Innocent suspects are,
-therefore, not treated cruelly or unethically,
-whilst guilty suspects should not complain that
-society does not allow them to escape
-conviction by refusing to answer questions or
-otherwise hiding evidence.»31
-
-Kort om begrunnelser for et vern mot
-selvinkriminering
-
-Selvinkrimineringsvernet kan begrunnes i et
-bestemt syn på hva som utgjør en human prosessordning og hensynet til respekt for menneskelig
-verdighet, autonomi og integritet.27 Synspunktet
-er at straffeprosessen bør ta hensyn til mistenktes
-viljesfrihet. Å tvinge vedkommende til å prioritere
-straffesaksapparatets behov for saksopplysning
-foran egeninteresser bryter således med ideen
-om en verdig prosess. Tanken er at mistenkte
-ikke bør reduseres til et rent undersøkelsesobjekt
-og et middel for å oppnå straffeprosessens formål.
-Respekt for den menneskelige autonomi er et
-sentralt element i den begrunnelse som kan
-utledes av EMDs praksis om selvinkrimineringsvernet:
-«The right not to incriminate oneself is primarily concerned with respecting the will of an
-accused person to remain silent and
-26
-
-presupposes that the prosecution in a criminal
-case seeks to prove the case against the accused without resort to evidence obtained
-through methods of coercion or oppression in
-defiance of the will of the accused […].»28
-
-Rt. 2014 s. 1292 avsnitt 15.
-27
-Se Øyen (2010) s. 112 flg.
-
-En uskyldig mistenkt kan imidlertid også tenkes å
-ha grunner til å forholde seg taus, for eksempel
-hvis det er fare for at vedkommende snakker seg
-inn i et ansvar som det reelt sett ikke er grunnlag
-for. En annen grunn til taushet kan være et ønske
-om å beskytte personer vedkommende har et lojalitetsforhold til.
-I tillegg til ovennevnte begrunnelser er
-selvinkrimineringsvernet begrunnet i uhyggelige
-og dyrekjøpte erfaringer fra tider med repressive
-og autoritære myndigheter. Historien mangler
-ikke eksempler på regimer som har tatt i bruk tortur og trusler som midler for å tvinge frem tilståel28
-29
-30
-31
-
-Allan mot Storbritannia (48539/99), dom 05.11.02, avsnitt
-44.
-Se Øyen (2010) s. 118.
-Se for eksempel Andenæs og Myhrer (2009) s. 56.
-Se Saunders mot Storbritannia (19187/91), dom 17.12.96,
-Dissenting Opinion of Judge Martens, avsnitt 9 fotnote 12
-og Torgersen (2009) s. 203.
-
-[Side 211]
-
-209
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-ser eller annen informasjon. I saken Ullmann v.
-United States omtalte dommer Frankfurter betydningen av den historiske bakgrunnen for forståelsen av selvinkrimineringsvernets grunnlag og
-fremvekst:
-«[T]he Fifth Amendment […] registers an
-important advance in the development of our
-liberty – ‘one of the great landmarks in man’s
-struggle to make himself civilized.’ […] Time
-has not shown that protection from the evils
-against which this safeguard was directed is
-needless or unwarranted. […]
-No doubt the constitutional privilege may,
-on occasion, save a guilty man from his just
-deserts. It was aimed at a more far-reaching
-evil – a recurrence of the Inquisition and the
-Star Chamber, even if not in their stark brutality. Prevention of the greater evil was deemed
-of more importance than occurrence of the
-lesser evil. Having had much experience with a
-tendency in human nature to abuse power, the
-Founders sought to close the doors against like
-future abuses by law-enforcing agencies. […]
-We are not dealing here with one of the
-vague, undefinable, admonitory provisions of
-the Constitution whose scope is inevitably
-addressed to changing circumstances. The
-privilege against self-incrimination is a specific
-provision of which it is peculiarly true that ‘a
-page of history is worth a volume of logic.’»32
-9.3.4
-
-Utvalgets vurderinger – fysiske personer
-
-Et vern mot selvinkriminering kan gå på bekostning av hensynet til saksopplysning og dermed
-riktig avgjørelse av straffesaker. Forholder
-mistenkte seg taus eller unnlater å utlevere ting
-som har betydning som bevis, vil vedkommende
-gå fri om ikke øvrige bevis er tilstrekkelige til å
-konstatere straffansvar. Det at mistenkte forholder seg taus, vil også kunne gå utover tredjepersoner, og kan i ytterste konsekvens føre til uriktige domfellelser.
-I hvilken grad et selvinkrimineringsvern vil gå
-på bekostning av sannhetsidealet, beror imidlertid
-32
-
-Ullmann v. United States, 350 U. S. 422 på s. 426, 428 og
-438–439. I saken fastslo USAs høyesterett at en ordning
-med straffesanksjonert plikt til å forklare seg om forhold
-det var tilstått strafferettslig immunitet for stod seg mot det
-femte grunnlovstillegg («No person […] shall be compelled in any criminal case to be a witness against himself
-[…]»). De utelatte henvisningene ved de interne sitatene
-er henholdsvis til «Griswold, The fifth Amendment Today
-(1955) s. 7»» og dommer Holmes’ votum i New York Trust
-Co. v. Eisner, 256 U. S. 345 på s. 349.
-
-Kapittel 9
-
-på forhold som det hefter betydelig empirisk
-usikkerhet ved. Sentrale spørsmål er hvor stort
-antall mistenkte som vil benytte seg av taushetsretten, og om alternativet – en plikt til å bidra til
-sakens opplysning – faktisk vil styrke saksopplysningen som følge av at mistenkte erkjenner skyld
-eller på annen måte bidrar til å fremskaffe bevis.
-Dagens selvinkrimineringsvern for fysiske
-personer må forstås på bakgrunn av begrunnelsene det er redegjort for i punkt 9.3.3. Ut fra disse
-begrunnelsene og den forankringen de har i vår
-rettskultur og folkerettslige forpliktelser, finner
-utvalget det klart at selvinkrimineringsvernet må
-videreføres i ny straffeprosesslov.
-Vernet bør etter utvalgets syn få en klar
-forankring i loven i en fanebestemmelse, se
-utkastet § 3-2 annet ledd. En rekke andre regler
-som er et utslag av vernet, finnes også i lovutkastet, blant annet i §§ 9-1, 9-3 annet ledd bokstav
-a første alternativ, 10-4 første ledd bokstav a og
-§ 19-7 første ledd sammenholdt med § 9-1.
-
-9.3.5
-9.3.5.1
-
-Utvalgets vurderinger – juridiske
-personer
-Oversikt
-
-Et særlig spørsmål er om juridiske personer bør
-vernes mot selvinkriminering slik at enkelte
-ansatte eller representanter i et foretak skal kunne
-nekte å utlevere bevis eller forklare seg som
-vitner i en straffesak mot den juridiske personen,
-når vedkommende ikke er vernet mot selvinkriminering på selvstendig grunnlag.
-En slik mulighet for personer i et foretak til å
-nekte å inkriminere foretaket ved å forholde seg
-taus eller nekte å utlevere bevis utgjør en begrensning i mulighetene til å opplyse straffesaker mot
-juridiske personer. En slik begrensning i hensynet
-til sannhetssøken fordrer en overbevisende
-begrunnelse. Mulige begrunnelser er at en slik
-regel er tvingende nødvendig for å oppfylle
-Norges folkerettslige forpliktelser, eller at den av
-andre grunner er rettspolitisk ønskelig.
-I punkt 9.3.5.2 redegjøres det for gjeldende
-folkerettslige forpliktelser og argumentene for og
-mot et vern for selvinkriminering for juridiske
-personer i lys av Høyesteretts kjennelse Rt. 2011
-s. 800. I avgjørelsen ble det lagt til grunn at
-juridiske personer er vernet mot tvungen
-selvinkriminering. Dernest redegjøres det kort
-for rettstilstanden i enkelte andre land i punkt
-9.3.5.3. I punkt 9.3.5.4 vurderer utvalget om det
-bør gjelde et selvinkrimineringsvern for juridiske
-personer i norsk rett.
-
-[Side 212]
-
-210
-
-NOU 2016: 24
-
-Kapittel 9
-
-9.3.5.2
-
-Ny straffeprosesslov
-
-sikkerhetshensyn et sterkt argument for at
-også juridiske personer kan påberope seg
-vernet mot selvinkriminering når de risikerer
-foretaksstraff. En domfellelse kan ha inngripende konsekvenser for dem. Da bør de også
-ha beskyttelsen mot selvinkriminering.»35
-
-Gjeldende rett og folkerettslige forpliktelser.
-Særlig om Rt. 2011 s. 800
-
-I Høyesteretts avgjørelse inntatt i Rt. 2011 s. 800
-ble det lagt til grunn at juridiske personer er vernet mot tvungen selvinkriminering etter EMK
-artikkel 6. Standpunktet kan verken forankres
-direkte i konvensjonens tekst eller i EMDs praksis.33 Høyesterett la særlig vekt på to argumenter
-for at juridiske personer er omfattet av det EMKrettslige selvinkrimineringsvernet.
-For det første ble det fremhevet, uten at det
-ble ansett avgjørende, at rettigheter etter EMK
-artikkel 6 i flere EMD-avgjørelser er gitt anvendelse for juridiske personer, og at det er ikke
-grunnlag i domstolens praksis for å hevde at
-selvinkrimineringsvernet står i en særstilling.34
-Argumentets styrke er ikke opplagt, ettersom
-rettighetene som er gitt anvendelse for juridiske
-personer, har tydelig tekstlig forankring i konvensjonen og er av en slik karakter at begrunnelsen
-for rettighetene helt eller delvis gjør seg
-gjeldende også for foretak. Det gjelder blant annet
-retten til kontradiksjon, retten til å anses uskyldig
-inntil det motsatte er bevist og retten til rettergang innen rimelig tid, som Høyesterett viser til.
-Dette stiller seg annerledes for selvinkrimineringsvernet, som ikke har noen klar forankring
-i bestemmelsens ordlyd, er gradvis utviklet i
-EMDs praksis og knytter sterkt an til menneskelige egenskaper.
-Det andre argumentet Høyesterett fremholdt,
-var at begrunnelsen for selvinkrimineringsvernet
-i EMK artikkel 6 gjør seg gjeldende for juridiske
-personer. Særlig fremheves vernets sammenheng
-med mer alminnelige rettssikkerhetskrav, med
-henvisning til avgjørelsen Saunders mot Storbritannia:
-«I […] Saunders-saken peker EMD på at retten
-til å forholde seg taus og til ikke å inkriminere
-seg selv, ligger innenfor kjerneområdet i
-begrepet rettferdig rettergang i artikkel 6, og
-at disse rettighetene har til formål å unngå
-rettsfornektelse og å ivareta de hensyn bestemmelsen mer allment skal ivareta. Videre
-fremhever Domstolen den nære sammenheng
-med uskyldspresumsjonen i artikkel 6 nr. 2.
-Denne regelen er – som nevnt i min omtale av
-Västberga-saken – anvendelig i forhold til selskaper. Etter mitt syn er disse generelle retts-
-
-Også dette argumentet er det grunn til å problematisere, i det betydningen av rettssikkerhetshensyn stiller seg nokså ulikt for juridiske og
-fysiske personer.36 Tvangssituasjonen er en helt
-annen, ettersom den som må forklare seg på
-vegne av et foretak eller utlevere bevis, ikke selv
-risikerer straffansvar i saken og heller ikke kan bli
-utsatt for inngripende tvangstiltak under forfølgningen av foretaket.
-Argumentet om sammenheng mellom selvinkrimineringsvernet og uskyldspresumsjonen
-krever nyansering, ettersom EMDs begrunnelser
-for rettighetene slår ulikt ut for juridiske og
-fysiske personer.37 Begrunnelsen for selvinkrimineringsvernet er i motsetning til uskyldspresumsjonen knyttet til at vedkommendes vilje skal
-respekteres, jf. punkt 9.3.3.
-En juridisk person er uten menneskelige egenskaper og kan rimelig nok ikke havne i en slik
-samvittighetskonflikt som EMD viser til for å
-begrunne selvinkrimineringsvernet. Høyesterett
-viste imidlertid til at representantene for foretaket
-vil kunne oppleve det slik:
-«For det første taler som nevnt generelle rettssikkerhetshensyn for at også juridiske personer er beskyttet. Dernest vil det i praksis alltid
-være enkeltpersoner som treffer beslutninger
-og handler på selskapets vegne. Det kan hevdes at den tvang selskapsrepresentantene
-utsettes for når en strafforfølgning rettes mot
-selskapet, er markert forskjellig fra den tvang
-en fysisk person utsettes for når strafforfølgningen gjelder ham personlig. Men selv om
-straff som rammer foretaket kan ramme
-selskapsrepresentantene mindre hardt, dreier
-det seg etter mitt syn mer om [en] gradsforskjell enn en prinsipiell ulikhet som kan
-begrunne at juridiske personer ikke er omfattet av vernet mot selvinkriminering. Selskapsrepresentantene vil i mange tilfelle kunne være
-
-35
-36
-
-33
-
-Slik også Rt. 2011 s. 800 avsnitt 53. For en generell drøftelse av problemet, se Øyen (2010) s. 357 flg.
-34
-Se Rt. 2011 s. 800 avsnittene 28–33.
-
-37
-
-Rt. 2011 s. 800 avsnitt 40.
-Se slik også Øyen (2010) s. 358. Se annerledes Elgesem og
-Wahlen (2010) s. 72–73.
-I Øyen (2010) s. 95–96 problematiseres denne sammenhengen.
-
-[Side 213]
-
-211
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-i en tvangssituasjon som gjør det naturlig å
-identifisere dem med selskapet.»38
-Høyesterett identifiserer altså deltakerne i foretaket med selve foretaket for å begrunne et selvinkrimineringsvern for foretaket. Slik identifikasjon mellom deltaker og selskap har blitt avvist for
-andre lignende rettigheter under konvensjonen,
-for eksempel ved dobbeltforfølgningsforbudet i
-EMK protokoll 7 artikkel 4 i situasjoner der forfølgningene har vært tett sammenvevd og belastningshensynene som begrunner vernet, kan hevdes å gjøre seg gjeldende på tvers av den formelle
-subjektive identitet.39
-Reelt sett er det ikke foretaket som tilstås en
-rettighet ved at det gis vern mot selvinkriminering, men deltakerne som fritas fra byrden ved å
-måtte belaste foretaket. Regelen har slik sett sin
-parallell i nærståendes fritak fra vitneplikt, se
-punkt 13.4. Av praksis fra EMD fremgår at domstolen i liten grad har oppstilt vitnefritak med
-mindre særlige hensyn gjør seg gjeldende.40 Etter
-EMK artikkel 6 har vitnefritak heller ikke blitt
-oppstilt for andre enn mistenkte selv. Til illustrasjon nevnes storkammersaken Van der Heijden
-mot Nederland, hvor det ble ansett som et
-forholdsmessig inngrep i vernet om familielivet
-etter EMK artikkel 8 å fengsle en småbarnsmor i
-13 dager for å fremtvinge en forklaring mot
-hennes samboer gjennom 18 år.41
-I lys av denne avgjørelsen er det vanskelig å se
-at konvensjonen skulle gi deltakere i et selskap et
-større vern begrunnet i deres samvittighetskonflikt. Dersom selvinkrimineringsvernet for et
-foretak som er mistenkt i en straffesak, kan
-begrunnes i den vanskelige situasjonen som oppstår for fysiske personer som har en tilknytning til
-foretaket, ville det vært nærliggende med en
-begrunnelse for at en slik smitteeffekt tilsynelatende ikke skjer mellom fysiske personer med
-en dyp relasjon.42
-I gjennomgangen av ulike fritak fra vitneplikt
-etter EMK i den nevnte dom er det for øvrig
-uttalelser som knytter selvinkrimineringsvernet
-til fysiske personer som en personlig rettighet:
-
-«Exceptions to [the] civic duty [to give
-evidence in criminal proceedings] have been
-recognised by the Court. Thus, the suspect
-himself or herself enjoys the privilege against
-self-incrimination.»43
-I lys av det samlede rettskildebildet er det
-utvalgets syn at det på det nåværende tidspunkt
-ikke er grunn til å anta at et selvinkrimineringsvern for juridiske personer utgjør en tvingende
-norm i norsk rett. En slik regel kan slik utvalget
-ser det, verken utledes av EMK artikkel 6 eller av
-Grunnloven.
-9.3.5.3
-
-Fremmed rett
-
-Selvinkrimineringsvern for foretak har etter
-prinsipielle drøftelser vært avvist av nasjonale
-høyesteretter, herunder Bundesverfassungsgericht og U.S Supreme Court.44 For tysk rett
-avviste Bundesverfassungsgericht at et slikt vern
-fulgte av den tyske forfatningen, fordi selvinkrimineringsvernet i tysk rett – på tilsvarende måte
-som etter EMK og i mange nasjonale rettssystemer – anses begrunnet i menneskeverdet.45
-I USA er det lang tradisjon for å avgrense det
-konstitusjonelle vernet mot tvungen selvinkriminering til fysiske personer. I den grunnleggende
-avgjørelsen Hale v. Henkel fra 1905 ble det lagt til
-grunn at et selskaps dokumenter kunne kreves
-fremlagt som bevis i en straffesak mot selskapet.
-Begrunnelsen bygger blant annet på en grunnoppfatning om at selvinkrimineringsvernet er en
-personlig rettighet, praktiske hensyn – som
-vanskelighetene ved å straffeforfølge juridiske
-personer – og at det er en grunnleggende forskjell
-på mennesker og selskaper idet sistnevnte ikke
-eksisterer forut for statens egen lovgivning, men
-på grunn av den, og derfor i større grad også må
-akseptere å være gjenstand for myndighetenes
-undersøkelser:
-«If, whenever an officer or employé of a corporation were summoned […] as a witness he
-could refuse to produce the books and
-documents of such corporation, upon the
-ground that they would incriminate the corporation itself, it would result in the failure of a
-
-38
-
-Rt. 2011 s. 800 avsnitt 41–42.
-Se Isaksen mot Norge (13596/02), avvisningsavgjørelse
-02.10.02.
-40
-Et eksempel er pressens vern om kilder og materiale etter
-EMK artikkel 10, se Rt. 2015 s. 1286 med videre henvisninger.
-41
-Se Van der Heijden mot Nederland (42857/05), dom
-03.04.12, avsnitt 64.
-42
-Se Sandvig (2012) s. 30.
-
-Kapittel 9
-
-39
-
-43
-44
-
-45
-
-Van der Heijden mot Nederland (42857/05), dom 03.04.12,
-avsnitt 64 (utvalgets uthevninger).
-Se nærmere i Øyen (2010) s. 364 flg., som også tar opp
-spørsmålet i relasjon til EU-retten og FNs konvensjon om
-sivile og politiske rettigheter artikkel 14 nr. 3 bokstav g.
-Se BVerfGE 95, 220 på s. 241–242.
+*En annen del av utvalget*, medlemmene Hammervik, Keiserud, Kvisberg, Langbach, Lie og Sunde, mener at dagens ordning med faste forsvarere og faste bistandsadvokater i det alt vesentlige fungerer bra og at ordningen derfor må videreføres. Mennesker som er mistenkt i straffesak eller mener seg utsatt for en straffbar handling har krav på at deres interesser blir ivaretatt av advokater som er særlig skikket til å utføre denne jobben. Mye av de daglige gjøremål kan man ikke lese seg til i loven, og grensen mellom det som er innenfor og det som ligger utenfor advokatoppdraget kan tidvis være vanskelig å trekke. I så måte er mengdetrening ofte en forutsetning for å utføre både forsvarer- og bistandsadvokatoppdrag på en betryggende måte. En avskaffelse eller en betydelig utvidelse av ordningen vil ikke ivareta dette hensynet på en god nok måte. Faste forsvarere og bistandsadvokater antas etter en søknadsprosedyre der alle advokater kan søke, og Domstoladministrasjonen tilsetter etter innstilling fra førstelagmann og sorenskriver. Ordningen sikrer at den som ikke selv velger en forsvarer, får oppnevnt en advokat som etter søknad er funnet å ha de nødvendige kvalifikasjoner for å utføre en så viktig oppgave. Der det foreligger et begrunnet behov for utvidelse kan økning i antallet advokater foretas, men det bør være opp til den enkelte domstol å vurdere dette behovet. Det er Domstoladministrasjonen som i dag fastsetter antallet faste forsvarere og bistandsadvokater ved den enkelte domstol, jf. forskriften § 1, jf. loven § 101 hvoretter antallet skal være «tilstrekkelig». Dersom Advokatforeningen lokalt mener antallet faste forsvarere eller bistandsadvokater ved en domstol er for lavt, vil det være naturlig å ta dette opp med sorenskriveren, typisk i forbindelse med årlige samhandlingsmøter eller liknende.
+
+De beskrevne problemer knyttet til at faste forsvarere overlater oppdrag til andre ved samme kontor fremstår i hovedsak som et Oslo-problem. Dersom det er et uttrykk for at de faste forsvarerne i Oslo ikke selv har kapasitet til å utføre slike oppdrag, indikerer det at antallet faste bør økes der. Problemer knyttet til praktiseringen av den faste ordningen i Oslo bør imidlertid ikke føre til en endring av en ellers velfungerende ordning i landet forøvrig. Domstolene skal for øvrig løpende føre kontroll med om oppdraget følges opp personlig og kan om nødvendig slutte å tildele den aktuelle advokaten oppdrag.
+
+*Et samlet utvalg* er enig om at nærmere krav til erfaring og kvalifikasjoner for faste forsvarere bør fastsettes i forskrift. Videre bør de faste forsvarerne være tilknyttet de enkelte tingretter og lagmannsretter. I dag gjelder vervet for den aktuelle tingrett og for lagmannsretten i det lagsognet tingretten tilhører, jf. forskrift 4. mars 2011 nr. 251 om faste forsvarere og bistandsadvokater § 1 annet ledd.
+
+1.  **Fornærmede, etterlatte, skadelidte og bistandsadvokaten**
+
+    1.  **Innledning**
+
+I straffeprosessloven er bestemmelser om fornærmede og etterlatte i hovedsak gitt i kapittel 8 a. Generelle regler om bistandsadvokat finnes i kapittel 9 a. Prosessuelle rettigheter og plikter for disse aktørene er for øvrig spredt rundt i loven i tilknytning til reguleringen av sakens enkelte stadier.[^361]
+
+Om behovet for endringer i lovens bestemmelser om fornærmede og etterlatte heter det i utvalgets mandat punkt 5:
+
+«Ved lov 7. mars 2008 nr. 5 ble fornærmedes og etterlattes rettsstilling styrket. Det vises for øvrig til Ot.prp. nr. 11 (2007–2008) og NOU 2006: 10. Siden fornærmedes og etterlattes rettsstilling relativt nylig er vurdert, legger departementet til grunn at behovet for revisjon av disse reglene ikke er stort. Utvalget kan likevel foreslå endringer.»
+
+Utvalget legger til grunn at det ikke er ønskelig med en omfattende revisjon av reglene om fornærmede og etterlattes prosessuelle stilling, og lovforslaget innebærer ikke noe prinsipielt avvik fra gjeldende rettstilstand.
+
+Bistandsadvokatordningen er særskilt løftet frem i mandatet punkt 4.8:
+
+«Utvalget bør vurdere reglene om bruk av \[…\] bistandsadvokat.»
+
+Bistandsadvokatordningen har vært endret og utvidet en rekke ganger, sist ved lovreformen i 2008. Det er forhold som tilsier at bistandsadvokatordningen har utviklet seg annerledes enn forutsatt, blant annet har utgiftene ved ordningen blitt betydelig høyere enn anslått, noe som også indikerer at selve ordningen har blitt mer omfattende enn forutsatt. I 2015 var kostnadene på kr 133 037 000. Fra flere hold, blant annet Bistandsadvokatprosjektet i Oslo tingrett, har det vært fremholdt at det kan være grunn til å undersøke og vurdere om ordningen fungerer hensiktsmessig.[^362] Utvalget har hatt dette for øye ved vurderingen av enkeltspørsmål knyttet til ordningen, men har ikke funnet grunn til å vurdere ordningen som sådan.
+
+Et overordnet mål er at en ny straffeprosesslov skal få en lovteknisk enklere og mer pedagogisk oppbygging, jf. mandatet punkt 2. Utvalget går på den bakgrunn inn for en generell omstrukturering og klargjøring av regelverket om fornærmede, etterlatte og bistandsadvokaten, særlig med sikte på å synliggjøre aktørenes rolle i prosessen.
+
+Nærheten mellom fornærmedes, etterlattes og bistandsadvokatens stilling i prosessen taler for felles regulering. Dersom bistandsadvokat er oppnevnt, forutsettes mange av fornærmede og etterlattes rettigheter utøvd gjennom eller av bistandsadvokaten. Reguleringen i straffeprosessloven kapittel 8 a og 9 a er derfor i utkastet samlet i kapittel 5.
+
+De ulike kategoriene rettighetshavere foreslås definert i loven. For å gjøre regelverket oversiktlig og tilgjengelig anbefales det at aktørenes særskilte rettigheter i hovedsak samles i ett kapittel, likevel slik at enkelte bestemmelser er rene henvisninger til de deler av loven der reguleringen systematisk hører til, se nærmere kapittel 29.
+
+Etter straffeprosessloven kan rettskrav som fornærmede eller andre skadelidte har mot siktede, fremmes i forbindelse med straffesaken, jf. § 3 første ledd. Behandlingen av sivile krav foreslås regulert i et eget kapittel i loven, se nærmere om denne reguleringen i kapittel 25 og utkastet kapittel 43.
+
+1.  **Oversikt over gjeldende regelverk**
+
+    1.  **Kort om «fornærmede», «etterlatte» og «skadelidte»**
+
+Straffeprosessloven definerer ikke hvem som er *fornærmet* i en straffesak. Oppfatningen i teori og praksis har tradisjonelt vært at fornærmede er den som er «innehaver av en slik interesse som vedkommende straffebud er ment å beskytte».[^363]
+
+Den som rammes av en straffbar handling, vil vanligvis bare bli ansett som fornærmet i prosessuell forstand dersom straffebudet først og fremst er satt til vern om private interesser. I tvilstilfeller legges det normalt avgjørende vekt på om vedkommende person er så direkte krenket ved lovovertredelsen at det er grunn til å gi vedkommende de prosessuelle rettighetene fornærmede har.[^364]
+
+Straffelovkommisjonen foreslo følgende legaldefinisjon i tilknytning til bestemmelsene om påtale:
+
+«Rett til å kreve påtale som fornærmet har den som er rammet i en interesse straffebudet tar sikte på å beskytte, eller som på annen måte er direkte krenket ved den straffbare handling.»[^365]
+
+Ordningen med påtalebegjæring fra fornærmede ble ikke videreført i ny straffelov, og bestemmelsen ble derfor ikke tatt med i loven.
+
+*Skadelidte* er andre som har lidt skade eller tap ved den straffbare handling uten å ha så nær tilknytning til den at vedkommende får stilling som fornærmet. Det kan for eksempel være tale om økonomisk tap påført foreldre som følge av en forbrytelse begått mot barnet deres.[^366]
+
+En grunnleggende forskjell mellom fornærmede og andre skadelidte er at fornærmede har prosessuelle rettigheter uavhengig av om vedkommende fremmer sivilt krav i saken. Tanken er at disse personene er rammet så hardt av den straffbare handlingen at de bør ha en særlig interesse i straffesaken.[^367]
+
+*Etterlatte* er definert i straffeprosessloven § 93 a annet ledd. Gruppen omfatter nærstående til personer som er omkommet ved en straffbar handling. Personkretsen er avgrenset til avdødes ektefelle eller samboer, barn og foreldre. Søsken, besteforeldre og verge for personer under 18 år er ikke omfattet.[^368]
+
+Straffeprosessloven opererer med to kategorier fornærmede og etterlatte: De som har fått oppnevnt bistandsadvokat, og de som ikke har det. Enkelte prosessuelle rettigheter er således forbeholdt «fornærmede og etterlatte med bistandsadvokat», slik som retten til å foreslå supplerende bevisføring om straffekravet etter § 264 a annet ledd.[^369]
+
+1.  **Kort om bistandsadvokatordningen**
+
+Straffeprosesslovens ordning med bruk av bistandsadvokat er beskrevet som et «resultat av erkjennelsen av at fornærmede og etterlatte har legitime rettigheter og behov som må ivaretas under straffesaksbehandlingen».[^370]
+
+Fornærmede fikk første gang rett til advokathjelp i straffesaker på det offentliges bekostning ved lov 12. juni 1981 nr. 66. Retten tilkom da fornærmede i voldtektssaker. Ved oppfølgingen av Fornærmedeutvalgets utredning ble ordningen betydelig styrket. Uttrykket «bistandsadvokat» ble tatt i bruk, og retten til bistand ble utvidet til flere sakstyper. Samtidig ble bistandsadvokatens oppgaver flere, og oppgavene ble tydeliggjort.[^371] Ordningen er også senere endret og utvidet, se for eksempel lov 30. mars 2012 nr. 14, som åpnet for å oppnevne koordinerende bistandsadvokat i større saker etter § 107 h.
+
+Bistandsadvokat oppnevnes etter straffeprosessloven § 107 b, jf. § 107 a, og betales som hovedregel av det offentlige. Bistandsadvokatens oppgaver og rettigheter fremgår generelt av § 107 c og dessuten lovens ulike kapitler om etterforskingsstadiet, forberedelse til hovedforhandling mv. Foruten bistandsadvokatens rett til å utøve fornærmedes og etterlattes rettigheter og plikter på deres vegne, jf. § 107 c femte ledd, har bistandsadvokaten egne rettigheter og plikter etter loven. Et eksempel på det siste er retten til å stille spørsmål under hovedforhandlingen etter straffeprosessloven § 291 a annet ledd.
+
+1.  **Utvalgets vurderinger og forslag**
+
+    1.  **Partsstatus**
+
+Fornærmede og etterlatte er ikke gitt status som part i offentlige straffesaker. Loven åpner imidlertid for at fornærmede i visse tilfeller kan reise privat straffesak, og i så fall får den private saksøker status som part i saken. Dersom fornærmede og etterlatte fremmer et sivilt krav i straffesaken, får vedkommende dessuten partsstilling for så vidt gjelder dette kravet.
+
+Et spørsmål for utvalget er om fornærmede og etterlatte bør være part i offentlige straffesaker, slik at disse gruppene som et utgangspunkt gis de samme rettigheter i saken som påtalemyndigheten og mistenkte. Det vil blant annet kunne innebære at gruppene kan ta del i avgjørelsen av om og hvordan en sak skal forfølges strafferettslig, samt ha selvstendig rett til å anke rettens avgjørelse av straffekravet.
+
+Spørsmålet om partsstatus for fornærmede ble drøftet under oppfølgingen av Fornærmedeutvalgets utredning. Fornærmedeutvalgets flertall mente at løsningen med at staten har ansvaret for straffeforfølgningen, burde opprettholdes, og fikk støtte av et flertall av høringsinstansene.[^372] Departementet sluttet seg til standpunktet og slo fast:
+
+«\[D\]et bør tilligge offentlige myndigheter å etterforske straffbare forhold, avgjøre påtalespørsmål og iretteføre straffesaker.»[^373]
+
+I Danmark er ordningen tilnærmet lik den norske. Spørsmålet om partsstilling for fornærmede ble vurdert av Strafferetsplejeudvalget i 2006, som ikke fant grunnlag for å foreslå dette.[^374] I Sverige og Finland kan fornærmede oppnå stilling som part ved å slutte seg til tiltalen («biträda åtalen»), jf. den svenske rättegångsbalken 20 kap. 8 § og den finske brottmålslagen 1 kap. 14 §. Fornærmede har i slike tilfeller adgang til å føre egne bevis, prosedere skyldspørsmålet og anke over straffekravet. Fornærmedeutvalget pekte på at erfaringene i disse landene er gode.[^375]
+
+Robberstad har anbefalt å gi fornærmede partsstatus i norsk rett. Standpunktet er blant annet begrunnet med at det vil «symbolisere at fornærmede er en viktig person», og at det er den «enkleste måten å ordne deltagelsen på».[^376] Robberstad har også fremholdt at det vil være en god løsning å innrømme fornærmede deltakerrettigheter uten videre, uten hensyn til om vedkommende fremmer erstatningskrav eller tiltrer tiltalen.[^377]
+
+Utvalget mener det er staten ved påtalemyndigheten som fullt ut bør ha ansvaret for å forfølge straffbare forhold, og anser det ikke som aktuelt å rokke ved dette grunnleggende utgangspunktet. Spørsmålet om straffeforfølgning bør vurderes av et offentlig organ uten egen interesse i saken, og som er forpliktet til å opptre objektivt. Fornærmedeutvalgets flertall uttalte om dette:
+
+«Påtalemyndigheten er best egnet til på samfunnets vegne å avgjøre om det faktiske og rettslige grunnlaget for å gå til straffesak foreligger. Strafforfølgning bør finne sted etter en objektiv og konsekvent linje, der hensynet til likebehandling må tillegges sterk vekt. Verken siktede eller rettsvesenets knappe ressurser bør belastes med straffesaker som påtalemyndigheten ikke finner grunnlag for å reise. I dette perspektivet får fornærmedes syn på straffespørsmålet i den enkelte sak mindre vekt.»[^378]
+
+Straff forstås gjennomgående som samfunnets strengeste reaksjon mot uønsket adferd. Om og på hvilken måte det skal straffes, bør etter utvalgets syn være statens anliggende.[^379] En kan vanskelig forvente at en som har vært utsatt for et lovbrudd, kan inneha den nødvendige objektivitet og upartiskhet i forbindelse med eventuell straffeforfølgning av overtrederen.[^380] Justis- og politidepartementet argumenterte langs de samme linjer i vurderingen av om ordningen med påtalebegjæring fra fornærmede burde oppheves. Det ble trukket frem at straffeforfølgningen vanskelig kan være objektiv og konsekvent om den skal være avhengig av fornærmedes standpunkt.[^381]
+
+Utvalget legger til grunn at den som er utsatt for en straffbar handling, og dermed blir fornærmet eller etterlatt, klart nok har legitime interesser i straffesaken. De rettigheter gruppen er gitt etter loven i dag, ivaretar etter utvalgets syn i hovedsak deres behov på det enkelte trinn i straffesaken.[^382] Utvalget anbefaler likevel enkelte endringer for å synliggjøre disse gruppene, blant annet foreslås det at rettighetene for fornærmede og etterlatte etter loven i hovedsak skal tilkomme alle, ikke bare dem som har fått oppnevnt bistandsadvokat, se punkt 10.3.3.
+
+Utvalget anbefaler på denne bakgrunn at fornærmede og etterlatte ikke gis stilling som part i straffesaken. Utvalget vil i tillegg til de nevnte prinsipielle grunner bemerke at det er nokså usikkert om full partsstilling i praksis vil være et gode for fornærmede og etterlatte. Dersom disse inntar rollen som part på linje med aktor, og således fører bevis, stiller spørsmål og i større grad søker å belyse tiltaltes skyld, kan følgen lett bli en annen oppmerksomhet om fornærmede og fornærmedes rolle generelt og i den enkelte sak. Ikke minst vil forsvarets holdning til vedkommende måtte bli en annen.
+
+1.  **Kretsen av etterlatte**
+
+Utvalget har vurdert om søsken og besteforeldre bør omfattes av kategorien «etterlatte», jf. straffeprosessloven § 93 a.
+
+Avgrensningen av gruppen «etterlatte» ble foretatt med utgangspunkt i hvilke personer som anses å ha «nær følelsesmessig, rettslig eller økonomisk tilknytning til avdøde». Et neste moment var om etterlatte av andre grunner rammes spesielt hardt eller har en særlig interesse i utfallet av straffesaken.[^383]
+
+Utvalget mener dette er relevante kriterier for avgrensningen. Det er vanskelig å angi generelt hvem som skal omfattes. Dagens familiemønster har endret seg, slik at primærfamilien nå ofte består av flere ulike personer og relasjoner enn tidligere.
+
+Det er liten tvil om at søsken eller besteforeldre i mange tilfeller er like nær avdøde som foreldre eller barn. Forholdet mellom søsken er dessuten flere steder i lovverket likestilt med relasjonen mellom foreldre og barn eller andre nære familiemedlemmer som i dag anses som fornærmet. Se for eksempel straffeloven § 9 og reglene om godtgjørelse til vitner, jf. straffeprosessloven § 93 f.
+
+Utvalget har likevel kommet til at det ikke er tilstrekkelig behov for å endre loven. Når søsken ikke ble tatt med i kretsen av etterlatte ved siste lovendring, var det særlig begrunnet med hvordan rettighetene til etterlatte ble foreslått utformet, ved at søsken alltid må stå tilbake for ektefelle, foreldre osv., og med mangelen på juridiske bånd mellom søsken.[^384] Tilsvarende hensyn gjør seg gjeldende nå. Utvalget har lagt vekt på at personkretsen som skal tilstås prosessuelle rettigheter i straffesaken, bør være snever, og har blitt stående ved at systemet som hovedregel bare bør gi prosessuelle rettigheter til dem det generelt sett er grunn til å anta stod avdøde aller nærmest, og som typisk også har sterk rettslig og økonomisk tilknytning til avdøde.[^385]
+
+1.  **Bør alle fornærmede og etterlatte ha selvstendige rettigheter?**
+
+I straffeprosessloven er enkelte rettigheter forbeholdt fornærmede og etterlatte med bistandsadvokat, og enkelte rettigheter ligger til den som har fremmet sivilt krav i saken.
+
+Begrunnelsen for inndelingen er blant annet at straffesaken innebærer en særskilt stor belastning for enkelte fornærmede og etterlatte, og at disse personene derfor bør ha rett til bistandsadvokat og en særlig sterk prosessuell stilling.[^386]
+
+I tillegg til at skillet mellom de ulike gruppene ikke fullt ut lar seg begrunne, skaper de ulike gruppene et nokså uoversiktlig system som av pedagogiske grunner bør forenkles.[^387]
+
+Utvalget er enig i at personer som har vært utsatt for alvorlige integritetskrenkelser, og som har bistandsadvokat, gjennomgående vil ha særlig interesse i aktiv deltakelse i saken. Det er imidlertid vanskelig å gi et klart svar på hvem som har behov for hva i hver enkelt sak.
+
+Etter dagens regulering er det avgjørende om vedkommende *har* bistandsadvokat. Et alternativ kunne være å gi rettigheter til den som har *rett til* bistandsadvokat. Utvalget antar imidlertid at ingen av disse kriteriene på en tilstrekkelig treffende måte peker mot den berørtes behov for de ulike prosessuelle rettigheter. Utgangspunktet bør etter utvalgets syn heller være at alle fornærmede og etterlatte har like rettigheter, herunder samme rett til informasjon, rett til å uttale seg, osv. Dette vil gi flere fornærmede flere rettigheter, og den som ønsker mindre aktiv deltakelse, står fritt til det.
+
+Enkelte rettigheter bør likevel utøves av en profesjonell aktør med erfaring fra rettsapparatet. Det dreier seg i hovedsak om rettigheter som skal utøves i avhør eller i retten, slik som å stille spørsmål til tiltalte og vitner, anmode om supplerende bevisføring og å uttale seg om prosessuelle spørsmål. Av hensyn til fornærmede og etterlatte selv, sakens øvrige aktører og effektivitet i saksbehandlingen bør rettighetene utøves av advokat med kunnskap om fagfeltet og den nødvendige distanse til saken. Se nærmere utkastet § 5-5 og merknadene til bestemmelsen.
+
+1.  **I hvilke saker skal fornærmede og etterlatte ha krav på bistandsadvokat?**
+
+Straffeprosessloven § 107 a første ledd bokstav a gir i dag ubetinget rett til bistandsadvokat i visse saker. Fornærmede har krav på bistandsadvokat i saker om seksuallovbrudd, familievold, tvangsekteskap, menneskehandel og brudd på oppholds- eller besøksforbud.[^388]
+
+Avgrensningen av hvilke fornærmede som har rett til bistandsadvokat, ble begrunnet slik av Fornærmedeutvalget:
+
+«Utfallet av straffesaken har særlig stor betydning for ofrene for slike handlinger, og straffesaken medfører ofte en særlig tung belastning for dem siden det dreier seg om krenkelser som kan medføre store fysiske, psykiske og sosiale skadevirkninger. Ofrene er ofte traumatisert og opplever det spesielt belastende å forklare seg for politiet og i retten og å gå gjennom etterforsking og hovedforhandling i saken. I disse sakene er det ofte av særlig stor betydning for ofrene å få fastslått at de har vært utsatt for urett, og de har ikke sjelden blitt påført fysisk eller psykisk helseskade og ønsker å kreve erstatning.»[^389]
+
+Utvalget slutter seg til begrunnelsen og mener fornærmede også bør gis ubetinget rett til bistandsadvokat ved overtredelser av straffeloven § 266 a om personforfølgelse, § 274 om grov kroppsskade og § 327 om ran. Det er liten tvil om at slike lovovertredelser kan medføre særlige fysiske og psykiske belastninger for den som rammes, og slike saker ville i det alt vesentlige føre til oppnevning etter den skjønnsmessige regelen.
+
+Utvalget mener overtredelser av oppholds- og besøksforbud, jf. straffeloven § 168, bør tas ut av listen over lovbrudd som gir ubetinget krav på bistandsadvokat.[^390] Det samme gjelder for overtredelser av straffeloven § 304 om seksuell handling. Slike saker er av meget varierende karakter og i mange tilfeller mindre alvorlig. I kjernetilfellene vil fornærmede allerede ha rett til bistandsadvokat på annet grunnlag. Er det behov for bistandsadvokat i andre saker, kan fornærmede få dette etter den skjønnsmessige regelen, se utkastet § 4-9 tredje ledd og nedenfor.
+
+For øvrig bør gjeldende rett for så vidt gjelder fornærmedes og etterlattes krav på bistandsadvokat, videreføres, herunder adgangen til å oppnevne bistandsadvokat på skjønnsmessig grunnlag, jf. utkastet § 4-9 tredje ledd. Den skjønnsmessige oppnevningsadgangen bør benyttes der lovgrunnen for ordningen med bistandsadvokat gjør seg gjeldende i det enkelte tilfelle. Brudd på oppholds- og besøksforbud samt seksuelle handlinger, som etter utvalgets forslag ikke gir ubetinget krav på bistandsadvokat, er sakstyper hvor oppnevning etter den skjønnsmessige regelen kan være aktuelt.
+
+Endelig har utvalget vurdert om det i enkelte tilfeller kan være grunn til å gjøre unntak fra bestemmelsen om ubetinget oppnevning av bistandsadvokat. Dansk rett inneholder en slik unntakshjemmel, se retsplejeloven § 741 a stk. 3, som åpner for å unnlate oppnevning av bistandsadvokat i saker av «mindre alvorlig karakter og \[der\] advokatbistand må anses for åbenbart unødvendig».
+
+Utvalget mener det også etter vår prosessordning bør åpnes for å gjøre unntak fra retten til bistandsadvokat for fornærmede i saker der det klart ikke er behov for det på grunn av sakens karakter og forhold ved vedkommende selv. Oppnevning av bistandsadvokat på det offentliges bekostning i slike tilfeller vil ha liten hensikt og være ressursødende. Det klare utgangspunktet etter utkastet § 4-9 skal imidlertid være at fornærmede skal ha bistandsadvokat i saker som er oppregnet i bestemmelsen. En unntakshjemmel må ikke føre til at påtalemyndigheten og retten stiller spørsmål ved fornærmedes behov i enhver sak. Utvalget ser imidlertid for seg at unntak kan være aktuelt i enkelte saker som gjelder en overtredelse i det nedre sjiktet av et straffebud, eller i saker om forsøk, og hvor fornærmede selv gir uttrykk for at han eller hun ikke ønsker representasjon, eller er for ung til i det hele tatt å få med seg saken.
+
+1.  **Offentlig oppnevnte og privat antatte bistandsadvokater**
+
+Etter straffeprosessloven kan den som har krav på bistandsadvokat etter § 107 a, enten la seg bistå av «offentlig oppnevnt bistandsadvokat» eller «privat advokat vedkommende har antatt på egen regning», jf. § 107 f. Den private bistandsadvokaten har samme prosessuelle stilling som den offentlige, med unntak av betalingen. Utenfor tilfellene der fornærmede har krav på bistandsadvokat, kan vedkommende la seg representere av advokat, som ikke får andre rettigheter enn fornærmede og etterlatte selv har, jf. § 107 f annet ledd.
+
+Erfaringsmessig benyttes privat bistandsadvokat meget sjelden. De fleste fornærmede og etterlatte som har rett til bistand, får advokat på statens regning. For det tilfelle at dette ikke er ønsket, mener utvalget at den fornærmede må kunne anta egen advokat på egen bekostning. Det samme gjelder for fornærmede som ikke har krav på bistandsadvokat, og som ønsker representasjon. Utvalget mener at det i begge tilfeller må være rimelig, særlig i lys av utvalgets standpunkt om at alle fornærmede skal ha like rettigheter, at den som antas, får rettigheter som bistandsadvokat.
+
+Utvalget er av den oppfatning at den som skal virke som bistandsadvokat på det offentliges bekostning, må være oppnevnt. Se også nærmere om dette spørsmålet i punkt 9.4.3.7. For så vidt gjelder prosedyren for oppnevning av bistandsadvokater, legger utvalget til grunn at dagens regelverk gir uttrykk for en hensiktsmessig løsning.
+
+1.  **Begrenset oppnevning av bistandsadvokat**
+
+Bistandsadvokaten ivaretar viktige oppgaver på vegne av fornærmede og etterlatte. Samtidig er det klart at ordningen er meget ressurskrevende, se punkt 10.1. Etter utvalgets syn er det grunn til å vurdere om det er mulig å etablere ressursbesparende tiltak som ikke svekker interessene til fornærmede og etterlatte.
+
+Dagens lov åpner for å skjære til bistandsadvokatoppdraget ut fra behovet til den enkelte fornærmede, jf. § 107 c første ledd. I praksis begrenses oppdraget i tillegg gjennom rettens kontroll av salæroppgaven. Et spørsmål er om retten i større grad bør benytte muligheten til å begrense rammene for bistandsadvokatoppdraget.
+
+I praksis oppnevnes bistandsadvokater i to omganger, først under etterforskingen og deretter ved en eventuell hovedforhandling. Etter tiltale har retten ut fra etterforskingen et grunnlag for å vurdere om det er behov for bistandsadvokat under forhandlingene, og i tilfelle i hvilken utstrekning. Påtalemyndigheten kan da også uttale seg om den har kapasitet til å ivareta fornærmedes interesser. I saker hvor erstatningskravene er klare, herunder standardiserte, vil bistandsadvokaten kunne ha begrensede oppgaver når saken står for retten, utover å forberede fornærmede til hovedforhandlingen og å ivareta fornærmedes behov for informasjon under sakens gang.
+
+Den enkeltes behov vil variere betraktelig fra sak til sak, og forutsetningen skal fortsatt være at fornærmede og etterlattes interesser skal bli tilstrekkelig ivaretatt. Samtidig bør det legges til rette for hensiktsmessig begrensning av ressursbruk. Det kan være mer effektivt å sette rammene for bruken av bistandsadvokat på forhånd for å få en viss kontroll med det som utføres, fremfor at retten eventuelt må gripe inn i et pågående arbeid eller beskjære salærkravet i etterkant. Utvalget peker på at slike rammer ikke skal bestå i en forhåndsbegrensning til antall timer, jf. Borgarting lagmannsretts avgjørelse 8. oktober 2015.[^391] Det bør imidlertid kunne fremgå av oppnevningen at bistand gis for en bestemt del av saken, for eksempel for et bevisopptak.
+
+1.  **Pålegg om felles bistandsadvokat**
+
+Etter gjeldende rett kan fornærmede og etterlatte fritt velge bistandsadvokat såfremt det ikke fører til forsinkelse av saken eller for øvrig er utilrådelig. Utvalget har vurdert om retten i enkelte tilfeller bør kunne gripe inn i det frie valget, ved å bestemme at flere fornærmede og etterlatte skal representeres av samme bistandsadvokat. Bistandsadvokatprosjektet i Oslo tingrett har pekt på følgende:
+
+«Det bør være mulig å pålegge de fornærmede å ha samme bistandsadvokat i samme straffesak så langt det ikke foreligger motstridende interesser, eller en klar risiko for at dette vil oppstå. Helt klart må dette være i familievoldsaker, men også i en rekke andre saker må retten gis adgang til å pålegge dette. \[…\]
+
+Et eksempel på en sak hvor de fornærmede burde kunne pålegges å bruke felles advokat og det også burde vært adgang til mer begrenset oppnevning er i en straffesak som ble avviklet i Oslo tingrett våren 2011. I saken representerte ni bistandsadvokater tolv fornærmede. Det var en tiltalt i saken som gjaldt seksuell handling med barn under 16 år og forsøk på å forlede barn under 16 år til å utvise seksuell krenkende adferd, jf straffeloven § 200 annet ledd. Ingen av de fornærmede møtte under hovedforhandlingen. Det ble fremmet og avgjort et erstatningskrav på 10.000 kroner. Alle bistandsadvokatene hadde vært oppnevnt under etterforskningen og begjærte seg oppnevnt til hovedforhandlingen. Utgiftene til bistandsadvokat under hovedforhandlingen alene beløp seg til ca 350.000 kroner.»[^392]
+
+Utvalget mener det bør åpnes for å gi pålegg om felles bistandsadvokat når det er saklig grunn til det, og det ikke foreligger fare for interessekonflikt mellom de klientene bistandsadvokaten oppnevnes for å representere. Det må også være en forutsetning at oppnevningen ikke går på bekostning av fornærmede og etterlattes mulighet til å få sine interesser ivaretatt. Er disse forutsetningene oppfylt, vil en ordning med oppnevning av felles bistandsadvokat ikke være betenkelig.
+
+De typiske tilfeller vil være saker med flere fornærmede. I svært store saker må retten vurdere om det er mer hensiktsmessig med koordinerende bistandsadvokat, jf. punkt 10.3.8. Det kan også være aktuelt med flere felles bistandsadvokater og én eller flere koordinerende, slik som for eksempel i 22. juli-saken.
+
+1.  **Koordinerende bistandsadvokater**
+
+Adgangen til å oppnevne én eller flere koordinerende bistandsadvokater følger i dag av straffeprosessloven § 107 h. Bestemmelsen kom inn i loven i forbindelse med gjennomføringen av 22. juli-saken i Oslo tingrett.[^393] Det synes som om aktørene er fornøyd med ordningen.
+
+Utvalget går inn for å videreføre muligheten for å oppnevne koordinerende bistandsadvokater, og foreslår også at den koordinerende bistandsadvokatens oppgaver skal være som etter gjeldende lov og praksis.
+
+Da muligheten for å oppnevne koordinerende bistandsadvokat ble innført, var ordningen ment for «saker med et høyt antall aktører og et spesielt vanskelig sakskompleks», jf. Prop. 65 L (2011–2012) s. 40. De store sakene vil fortsatt være det typiske eksempelet der det er behov for koordinerende bistandsadvokat. Men også i andre tilfeller bør det etter utvalgets syn være mulig å oppnevne koordinerende advokat hvis det er gunstig for gjennomføringen av saken.
+
+I lovforslaget er dagens vilkår for oppnevning av koordinerende bistandsadvokat tatt ut. Det styrende for vurderingen skal være om det er behov for koordinering i lys av hensynet til de berørte og effektiviteten i saksbehandlingen. I avveiningen vil det være naturlig å se hen til vilkårene for oppnevning av felles bistandsadvokat, se punkt 10.3.7 ovenfor og merknadene til utkastet § 4-3 annet ledd. Det forutsettes at en felles bistandsadvokat gjennomgående vil være anvendelig og aktuelt før det blir nødvendig med en koordinerende advokat.
+
+1.  **Bruk av faste bistandsadvokater**
+
+I dagens straffeprosesslov § 107 g første ledd heter det: «Domstoladministrasjonen antar et tilstrekkelig antall advokater til å gjøre tjeneste som faste offentlige bistandsadvokater.» Når fornærmede eller etterlatte ikke har noe ønske om en bestemt bistandsadvokat, skal en av de faste oppnevnes.
+
+Utvalget mener at ordningen med bruk av faste bistandsadvokater bør videreføres. Det er positivt for fornærmede og etterlatte, og systemet for øvrig, at en gruppe godt kvalifiserte advokater påtar seg slike oppdrag. Spørsmålet om ordningen bør utvides står i det vesentlige i samme stilling som for de faste forsvarerne, se nærmere punkt 9.4.3.8, der det også fremgår at utvalget er delt i synet på antall advokater som bør omfattes av ordningene.
+
+Et samlet utvalgt går inn for at det i forskrift fastsettes nærmere krav til erfaring og faglig kompetanse. Se nærmere om tilsvarende vurderinger for så vidt gjelder faste forsvarere i punkt 9.4.3.8.
+
+1.  **Domstolene. Rettens sammensetning**
+
+    1.  **Innledning**
+
+Domstolene spiller en sentral rolle i straffesaksbehandlingen. Utvalget kommer inn på ulike sider ved domstolenes virke i tilknytning til drøftelsen av de ulike stadiene i en sak, se særlig utkastet del 6 til 8, herunder kapittel 18 om tingrettens behandling av straffekravet og kapittel 20 om anke.
+
+Dommersammensetningen i den enkelte sak er en viktig del av regelverket om behandlingen av straffesaker for domstolene. Utvalget er bedt om å «se nærmere på rettens sammensetning, både i underinstansen og ankeinstansen», jf. mandatet punkt. 4.9. I mandatet heter det videre:
+
+«Utvalget skal legge til grunn at juryordningen håndteres i et selvstendig lovarbeid basert på NOU 2011: 13. Når det gjelder lagmannsrettens sammensetning for øvrig, bør utvalget se hen til forslagene i NOU 2011: 13.»
+
+Sammensetningen av domstolene har vært hyppig diskutert, og særlig har det vært betydelig offentlig debatt og interesse knyttet til juryordningens fremtid. Som nevnt forutsetter mandatet at Straffeprosessutvalget ikke skal utrede spørsmålet om dommersammensetningen i saker som i dag behandles av jury. Per 1. oktober 2016 har departementet ikke fremmet noen lovproposisjon for Stortinget som følger opp NOU 2011: 13.[^394] Utvalget drøfter for øvrig dommersammensetningen i lagmannsretten i punkt 11.5.
+
+Når det gjelder sammensetningen av tingretten, er utvalgets oppfatning at dagens ordning fungerer tilfredsstillende, og den har i liten grad vært gjenstand for kritikk. Det foreslås derfor ingen større revisjon av disse reglene, men behovet for enkelte mindre justeringer drøftes i punkt 11.4. Dommerfullmektigordningen er stadig gjenstand for diskusjon, og det kunne i forbindelse med endringer i reglene om rettens sammensetning ha vært naturlig å foreta en bred vurdering av kompetansen som er gitt dommerfullmektigene. En slik utredning av spørsmålet om bruk av dommerfullmektiger måtte imidlertid også omfatte sivile saker, noe som faller utenfor utvalgets mandat. Ordningen drøftes kort i punkt 11.4.2.5.
+
+Henvisningen til entallsformen «ankeinstansen» i utvalgets mandat må forstås som en referanse til lagmannsretten.
+
+Høyesteretts sammensetning ble grundig utredet i forbindelse med utarbeidelsen av tvisteloven.[^395] Utvalgets forslag til sammensetning av lagmannsretten i straffesaker medfører etter utvalgets mening ikke noe behov for endringer i reglene om Høyesteretts sammensetning.
+
+Straffeprosessloven skal være informativ og brukervennlig, jf. mandatet punkt 3. I dag er bestemmelsene om rettens sammensetning dels inntatt i domstolloven, dels i straffeprosessloven. Dobbeltregulering bør i utgangspunktet unngås, og det er derfor et spørsmål om reglene om rettens sammensetning bør reguleres fullt ut i én av lovene.
+
+Utvalget anbefaler likevel av pedagogiske grunner å regulere rettens sammensetning og lovens regler om domstolens kompetanse i et felles kapittel i straffeprosessloven. Dette innebærer at enkelte regler vil fremgå to steder, men løsningen lar seg forsvare ved at bestemmelsene er få, og at reguleringen vil gjøre det enkelt å finne frem til hvilken domstol som skal ha saken til behandling, og med hvilken sammensetning.
+
+I det følgende klargjøres i punkt 11.2 enkelte grunnleggende hensyn av betydning for dommersammensetningen i retten. I punkt 11.3 gis det en kort oversikt over kravene til utforming av domstolene etter overordnede rettsnormer. Utvalgets forslag til endringer for tingrettens del drøftes i punkt 11.4 og for lagmannsrettens del i punkt 11.5.
+
+1.  **Grunnleggende hensyn av betydning for rettens sammensetning**
+
+Det bærende for valget av dommersammensetning bør være om ordningen sikrer riktige og forsvarlige avgjørelser og allmennhetens tillit. Samtidig er det viktig at straffesaker behandles hurtig og ikke blir for kostnadskrevende. Også dette valget beror således på en avveining av kvalitet og ressursinnsats.
+
+De ytre rammer for avveiningen er de krav som følger av reglene i Grunnloven og i internasjonale konvensjoner, jf. punkt 11.3. Innenfor disse rammene er det særlig løsningene som innbyr til færrest mulig feil og uklarheter, som bør prioriteres. Videre bør ankeinstansen være sterkere sammensatt enn underinstansen. Det vil også være hensiktsmessig om de samme avstemningsregler kan gis anvendelse på tvers av rettsinstansene.
+
+I norsk rett står prinsippet om lekdommeres deltakelse i rettspleien meget sterkt, og et grunnleggende spørsmål er hvordan forholdet mellom fagdommere og lekdommere skal være; hvor mange det skal være fra hver gruppe, hvilke oppgaver de skal ha, og hvordan samarbeidet mellom dem bør organiseres.
+
+Det er behov for fagdommere med juridiske kvalifikasjoner til å lede rettsforhandlingene. I Norge er fagdommerne i alminnelighet generalister som administrerer og behandler alle typer saker.
+
+Lekdommere skal på sin side bidra til å sikre kontroll med rettsvesenet, ved å bringe folkelige erfaringer og den alminnelige rettsbevissthet inn i domstolene. Prinsippet om lekfolks deltakelse antas å være sentralt for tilliten til domstolene og kvaliteten og rettssikkerheten i domstolenes saksbehandling og avgjørelser. Lekdommerne har en særlig viktig rolle knyttet til bevisbedømmelse, men skal også ta stilling det skjønn rettsreglene etterspør. Utvalget slutter seg til følgende uttalelse fra Juryutvalget:
+
+«\[L\]ekdommere skal ha betydelig innflytelse i strafferettspleien, og \[…\] være i flertall ved avgjørelsen av skyldspørsmålet. At lekdommere deltar i tillegg til fagdommere, må anses å styrke kvaliteten på saksbehandlingen. Det gjør prosessordningen mer robust og rettssikker at en domfellelse må ha tilslutning fra lekdommere.»[^396]
+
+1.  **Overordnede rettsnormer – grunnlovsvern og folkerettslige forpliktelser**
+
+Retten til en rettferdig rettergang er slått fast i Grunnloven § 95. Første ledd første og annet punktum lyder:
+
+«Enhver har rett til å få sin sak avgjort av en uavhengig og upartisk domstol innen rimelig tid. Rettergangen skal være rettferdig og offentlig.»
+
+I annet ledd heter det:
+
+«Statens myndigheter skal sikre domstolenes og dommernes uavhengighet og upartiskhet.»
+
+Grunnlovsvernet bygger på og må forstås i lys av Den europeiske menneskerettskonvensjon (EMK) artikkel 6 nr. 1, som fastslår at enhver har krav på å få en straffsiktelse mot seg avgjort «innen rimelig tid ved en uavhengig og upartisk domstol opprettet ved lov». Også FN-konvensjonen om sivile og politiske rettigheter (SP) artikkel 14 nr. 1 gir rett til rettferdig rettergang. Ordlyden er annerledes utformet enn EMK artikkel 6 nr. 1, men innholdet og anvendelsesområdet antas i det vesentlige å være det samme.[^397]
+
+Bestemmelsenes ordlyd stiller ikke krav til den dømmende retts sammensetning. Grunnloven § 88, inntatt i kapittel D om den dømmende makt, forutsetter imidlertid et hierarkisk domstolsystem med ankeadgang og stiller minstekrav til sammensetningen i Høyesterett:
+
+«Høyesterett dømmer i siste instans. Dog kan innskrenkninger i adgangen til å få Høyesteretts avgjørelse bestemmes ved lov.
+
+Høyesterett skal bestå av en justitiarius og minst fire andre medlemmer.»
+
+Kravet i EMK artikkel 6 nr. 1 om «domstol opprettet ved lov» omfatter rettens sammensetning i den enkelte sak.[^398] Bestemmelsen er forstått slik at det i stor utstrekning er aksept for de ulike domstolsordningene i de europeiske stater, og det overlates til statene å velge system, herunder rene fagdommerdomstoler, meddomsretter med fagdommere og lekdommere og domstoler bestående av fagdommer og jury.[^399]
+
+Domstolen må imidlertid være sammensatt og fungere «uavhengig og upartisk» og ha myndighet til å behandle og avgjøre sakens rettslige og faktiske sider med bindende virkning.[^400] I saken Taxquet mot Belgia ga Den europeiske menneskerettsdomstol (EMD) klart uttrykk for at domstolen ikke ser det som sin oppgave å standardisere de mange ulike systemer som eksisterer i medlemsstatene:
+
+«A State’s choice of a particular criminal-justice system is in principle outside the scope of the supervision carried out by the Court at European level, provided that the system chosen does not contravene the principles set forth in the Convention \[…\]. Furthermore, in cases arising from individual petitions the Court’s task is not to review the relevant legislation in the abstract. Instead, it must confine itself, as far as possible, to examining the issues raised by the case before it \[…\].
+
+The Contracting States enjoy considerable freedom in the choice of the means calculated to ensure that their judicial systems are in compliance with the requirements of Article 6. The Court’s task is to consider whether the method adopted to that end has led in a given case to results which are compatible with the Convention, while also taking into account the specific circumstances, the nature and the complexity of the case. In short, it must ascertain whether the proceedings as a whole were fair \[…\].»[^401]
+
+Kravet i EMK artikkel 6 om at domstolen må være «opprettet ved lov», innebærer at de relevante regler om domstolens sammensetning og funksjon i den enkelte sak skal overholdes. EMD vil som utgangspunkt respektere nasjonale domstolers fortolkning om sammensetning og funksjon, med mindre den er åpenbart feilaktig.[^402]
+
+1.  **Dommersammensetningen i tingretten**
+
+    1.  **Gjeldende rett**
+
+Tingretten behandler saker i første instans, og det følger av domstolloven § 21 annet ledd første punktum og straffeprosessloven § 276 første ledd at den skal settes med én fagdommer om ikke annet er bestemt. Dette gjelder for eksempel ved avgjørelser av spørsmål om bruk av tvangsmidler og når en sak pådømmes som tilståelsesdom.
+
+Under hovedforhandling settes retten i tillegg med to meddommere, jf. domstolloven § 21 annet ledd og straffeprosessloven § 276 første ledd første punktum. Fagdommeren fungerer som administrator. Ellers er fagdommeren og meddommerne likestilte.
+
+I saker som er særlig omfattende, eller hvor andre særlige grunner foreligger, kan tingretten settes som forsterket rett med to fagdommere og tre meddommere, jf. straffeprosessloven § 276 annet ledd. I slike tilfeller kan behandlingen av saken fortsette selv om noen av rettens medlemmer får forfall etter at hovedforhandlingen er startet, jf. § 276 annet ledd siste punktum. I langvarige saker er det adgang til å bestemme at varamedlemmer skal følge saken, jf. § 276 femte ledd.
+
+Retten kan settes uten meddommere i visse saker som gjelder ikke vedtatt forelegg.[^403] Loven krever da at retten ikke finner behandlingsmåten betenkelig, jf. straffeprosessloven § 276 første ledd annet punktum.
+
+Etter straffeprosessloven § 276 fjerde ledd kan tingretten ikke settes med dommerfullmektig i saker om lovbrudd som kan medføre fengsel i mer enn seks år, unntatt i saker som gjelder overtredelse av straffeloven § 274 første ledd om grov kroppsskade.[^404] Begrensningen gjelder ikke for tilståelsessaker, jf. Rt. 2007 s. 1040. Hvis tingretten er lovlig satt med dommerfullmektig ved hovedforhandlingens begynnelse, kan saken fortsette selv om det senere viser seg at forholdet rammes av et straffebud med høyere strafferamme enn seks års fengsel, jf. Rt. 2015 s. 65.
+
+Når det er behov for det, kan retten settes med fagkyndige meddommere, jf. straffeprosessloven § 277. Domstolloven § 94 fastsetter nærmere bestemmelser om fagkyndige meddommere.
+
+Etter straffeprosessloven § 274 første ledd annet punktum treffer rettens leder avgjørelser om prosessuelle spørsmål under saksforberedelsen, jf. straffeprosessloven §§ 272 og 273.
+
+1.  **Utvalgets vurderinger og forslag**
+
+    1.  *Sammensetningen av tingretten utenfor hovedforhandling*
+
+For de fleste saker som i dag behandles utenfor hovedforhandling, for eksempel beslutninger om tvangsmidler, er det ikke behov for endringer verken av hensyn til rettssikkerheten eller mer effektiv saksbehandling. Hovedregelen om at retten skal settes med én fagdommer, bør derfor videreføres.
+
+Utvalget har vurdert om det er grunn til å behandle tilståelsessaker – noen eller alle – med lekdommere. Spørsmålet melder seg som følge av utvalgets generelle standpunkt redegjort for i punkt 11.2 om at lekfolk bør delta i prosessen, og utkastet § 5-6 annet ledd bokstav b, som innebærer at det i lagmannsretten skal delta lekdommere i alle straffutmålingsanker.
+
+Juryutvalget oppsummerte begrunnelsen for sitt forslag om lekdommerdeltakelse i straffutmålingsanker slik:
+
+«Kort oppsummert er begrunnelsen at lekdommerinnslaget skal sikre at rettshåndhevelsen ikke fjerner seg for langt fra den alminnelige rettsbevissthet. Dette styrker tilliten til domstolenes behandling av straffesaker.»[^405]
+
+Utvalget deler dette synet og er heller ikke i tvil om at lekdommere kan øve like stor innflytelse på utmålingen av straff når saken behandles forenklet. Likevel er det utvalgets oppfatning at behovet for slik kontroll er mindre når vilkårene for å pådømme saken som tilståelsesdom er oppfylt.[^406]
+
+Utvalget foreslår i lovutkastet kapittel 36 i det vesentlige å videreføre betingelsene for tilståelsespådømmelse, som etter gjeldende rett fremgår av straffeprosessloven § 248. Det kreves at mistenkte avgir en uforbeholden tilståelse og samtykker i forenklet behandling. Retten skal vurdere om det er noen betenkeligheter knyttet til den forenklede behandlingen, og dommeren kan når som helst sende saken tilbake til påtalemyndigheten dersom det kommer frem at vilkårene ikke er til stede.
+
+I lys av dette kontrollregimet har utvalget blitt stående ved at det er fullt ut forsvarlig om tilståelsessaker fortsatt behandles av én fagdommer. Dette er da å foretrekke av hensyn til effektivitet og kostnadsbesparelser.
+
+I utkastet § 5-5 første ledd bokstav c videreføres adgangen til å pådømme saken uten meddommere når det er tale om en sak fremmet på grunnlag av et ikke vedtatt forelegg, jf. straffeprosessloven § 276 første ledd annet punktum.[^407] Ved behandling av slike saker foreslås én vesentlig presisering av dommersammensetningen. Begrunnelsene for lekdommerdeltakelse tilsier at lekdommere alltid bør delta når det er spørsmål om å idømme fengsel. Adgangen til å behandle slike såkalte foreleggssaker uten meddommere er i utkastet derfor forbeholdt saker hvor det kun er snakk om å idømme bot. Dersom det er aktuelt med en meget stor bøtestraff, slik det ofte er i saker om foretaksstraff, kan retten velge å sette retten med meddommere, jf. kravet om at behandlingsmåten ikke må være betenkelig.
+
+1.  *Sammensetningen av tingretten ved hovedforhandling*
+
+I dag deltar én fagdommer og to meddommere under hovedforhandling i tingretten. Et første spørsmål er om det er grunn til å forsterke sammensetningen, enten med flere lekdommere, flere fagdommere eller begge deler, og om dette i tilfelle bør gjelde for alle saker eller bare noen.
+
+Dagens ordning synes å være velfungerende og tilstrekkelig betryggende. Utvalgets forslag til regulering av rettens sammensetning ved hovedforhandling viderefører derfor i det vesentlige gjeldende rett, se utkastet § 5-5 annet ledd.
+
+I dag er lekdommerne i flertall. Dette er antatt å være tillitvekkende og er i samsvar med tradisjonen og den vanlige oppfatningen om hvordan det bør være.[^408] Utvalget kan vanskelig se at det å styrke lekdommerinnslaget ytterligere vil gi mistenke bedre rettsikkerhet eller på annen måte styrke straffesaksbehandlingen. Ressurshensyn taler imot, og en slik løsning anbefales derfor ikke.
+
+Et reformspørsmål i motsatt retning er om det i tingretten bør være større adgang til å pådømme straffesaker uten lekdommere, for eksempel dersom mistenkte samtykker. Hovedregelen i Finland er én fagdommer og tre meddommere, men retten kan settes med fagdommer alene i saker hvor strafferammen er fengsel inntil to år, eller det er tale om overtredelse av enkelte oppregnede straffebud.[^409]
+
+En slik adgang vil åpenbart virke effektiviserende. Utvalget mener imidlertid at det knytter seg rettssikkerhetsmessige betenkeligheter til en utvidelse av ordningen med enedommersaker. Hovedforhandling med bare én fagdommer når mistenkte ikke har tilstått, vil innebære en betydelig realitetsforskjell fra dagens ordning og gå på bekostning av hensynene bak lekdommerinnslaget i saker som betyr mye for den det gjelder. På denne bakgrunn finner utvalget ikke å kunne anbefale en større adgang til å gjennomføre hovedforhandling i straffesaker uten meddommere.
+
+En ordning med flere fagdommere kan ha sine fordeler. Det vil gi ytterligere faglig tyngde, og dommerne kan rådføre seg med hverandre. En slik økning er imidlertid ikke etterspurt og vil kreve omfattende ressurser. Det vil dessuten kunne påvirke sammensetningen i lagmannsretten, dersom man fastholder tanken om at det skal skje en kvantitativ styrking av domstolens sammensetning fra første til annen instans. Utvalget vil derfor ikke anbefale å øke antall fagdommere som en generell ordning.
+
+1.  *Bruk av forsterket rett*
+
+Det er i dag adgang til å forsterke retten etter en konkret vurdering, jf. straffeprosessloven § 276 annet ledd. Spørsmålet om å forsterke dommersammensetningen i første instans i visse sakstyper ble vurdert i forbindelse med to-instansreformen. Utgangspunktet for vurderingen var den gang om en overflytting av de alvorligste sakene fra lagmannsretten burde føre til en sterkere dommersammensetning ved behandling i lavere instans. To-instansutvalget uttalte:
+
+«\[E\]t større antall dommere kan gi bedre garantier for en allsidig vurdering av saken. Det er mindre fare for at retten skal overse bevis eller rettslige synspunkter av betydning for avgjørelsen. Videre fremholdes det gjerne at en sterkere sammensetning gir retten større tyngde, og skaper et mer alvorlig og høytidelig preg over forhandlingene. Dette kan ha betydning i flere henseender. Det kan være grunn til å anta at en sterkere sammensatt rett kan opptre med større autoritet, og dermed holde et fastere grep over avviklingen av hovedforhandlingen. Videre kan domstolens tyngde ha betydning for tilliten, både hos de personer som er implisert i saken og hos allmennheten, til at saken blir forsvarlig behandlet. I store og alvorlige saker kan det også være et behov for å avlaste rettens formann.»[^410]

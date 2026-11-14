@@ -1,2170 +1,473 @@
-# NOU 2024: 12, del 9 av 33 (side 110–122)
+# NOU 2024: 12, del 9 av 34
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/51c0ce0a-nou-2024-12.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-12/id3045610/
 - Original-PDF: https://www.regjeringen.no/contentassets/bdaa4218a48946cd950812e0f62837fb/no/pdfs/nou202420240012000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 25 tabeller, 33 figurer, 573 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 110]
+# Fremmed rett og innspill
 
-108
+## Behandling av mindre alvorlige narkotikalovbrudd i andre land
 
-NOU 2024: 12
+### Sverige
 
-Kapittel 8
+#### De straffbare handlinger
 
-Håndheving av mindre narkotikaovertredelser
+Ulovlig befatning med narkotika reguleres av narkotikastrafflagen (1968:64). Etter 1 § første stk. er følgende handlinger straffbare:
 
-Det presiseres i bøtedirektivet at bøtesatsene
-er satser for en «normalovertredelse», og at
-skjerpende og formildende omstendigheter kan
-tilsi en annen reaksjon. Bøtedirektivet viser også
-til det særlige straffutmålingsregimet som gjelder
-overfor rusmiddelavhengige, og til riksadvokatens brev 13. mai 2022. For enkelte narkotiske
-stoffer er det gitt særlige direktiver, for eksempel
-er det ved heroin presisert: «Ved salg/fare for
-videre spredning skal tiltale tas ut».
-Hvis boten ikke blir betalt og heller ikke lar
-seg inndrive, skal det treffes vedtak om at den
-subsidiære fengselsstraffen skal fullbyrdes dersom siktede har evne til å betale boten eller allmenne hensyn tilsier det, jf. straffeprosessloven
-§ 456 annet ledd. Vedtak om fullbyrdelse treffes av
-påtalemyndigheten i politiet.
-Når det er truffet vedtak om fullbyrdelse av
-subsidiær fengselsstraff, kan kriminalomsorgen
-etter søknad beslutte at den subsidiære fengselsstraffen skal gjennomføres ved bøtetjeneste dersom den botlagte har bosted og opphold i Norge i
-gjennomføringstiden, jf. straffegjennomføringsloven § 16 b. Bøtetjeneste er en form for soning i
-frihet hvor bøtesoneren utfører samfunnsnyttig
-arbeid i regi av friomsorgen, på tilsvarende måte
-som ved samfunnsstraff.
-Riksadvokatens direktiver om straffereaksjoner overfor
-rusmiddelavhengige
-På bakgrunn av de tre avgjørelsene fra Høyesterett 8. april 2022 om straffutmåling ved rusmiddelavhengiges befatning med narkotika til egen
-bruk, sendte Riksadvokatembetet ut et brev
-datert 13. mai 2022. Brevet oppsummerer rettstilstanden etter de tre avgjørelsene, og gir utfyllende
-direktiver om reaksjonspraksis overfor rusmiddelavhengige. De sentrale direktivene om
-straffereaksjoner overfor rusmiddelavhengige
-lyder:
-Forhold som gjelder en rusavhengigs bruk av
-narkotika, eller erverv, besittelse eller oppbevaring av mindre mengder narkotika til egen
-bruk, skal avgjøres med ubetinget påtaleunnlatelse, jf. straffeprosessloven § 69. En rusavhengigs erverv eller oppbevaring av narkotika til
-egen bruk avgjøres med siktelse for tilståelsesdom eller tiltalebeslutning dersom mengden i
-beskjeden grad overstiger den veiledende grensen etablert av Høyesterett i HR-2022-731-A.
-Det gis også uttalelser om hva som ligger i
-begrepet «mindre mengder narkotika», blant
-
-annet ved at det henvises til en tabell som angir
-mengdebegrensninger for de mest vanlige narkotiske stoffene. Utvalget viser til den nærmere
-omtalen av brevet i punkt 3.11, hvor tabellen også
-er gjengitt.
-Brevet angir at en rusmiddelavhengigs erverv
-eller oppbevaring av narkotika til egen bruk som i
-«beskjeden grad overstiger den veiledende grensen», bør lede til en kort betinget fengselsstraff.
-Inntil nærmere rettsavklaring foreligger, angis det
-at påtalemyndigheten kan legge til grunn at
-beskjeden mengde utgjør inntil det dobbelte av
-den veiledende grensen. Se også punkt 10.5.10.
-
-8.2.3.3 Statistikk over straffereaksjoner
-Utvalget presenterer her tall over straffereaksjoner som er gitt de siste årene i saker om bruk av
-narkotika og befatning med narkotika til egen
-bruk. Disse lovbruddene faller inn under legemiddelloven § 31 annet ledd, jf. § 24, og straffeloven § 231, avhengig av mengden narkotika og
-hva slags befatning lovbruddet gjelder.20 Det er
-dermed nødvendig å presentere tall for overtredelser av begge disse straffebestemmelsene.
-Det skal presiseres at straffeloven § 231 har et
-større virkeområde enn narkotika til egen bruk,
-og blant annet omfatter salg og oppbevaring med
-sikte på videre overdragelse. Dette innebærer at
-statistikken ikke gir et helt presist bilde av straffereaksjonene som er gitt for bruk og befatning
-med narkotika til egen bruk.
-Det gis først en fremstilling av antallet straffereaksjoner som er gitt i perioden 2013–2022, som
-er det siste året SSB har publisert statistikk for.
-Deretter oppgis tall for straffereaksjoner som er
-brukt overfor personer under 18 år i perioden
-2019–2022. Utvalget har også mottatt tall fra riksadvokaten som belyser utviklingen i straffereaksjoner i 2023, noe som presenteres avslutningsvis
-i dette punktet.
-Straffereaksjoner i narkotikasaker 2013–2022
-Tabell 8.2 viser hvilke strafferettslige reaksjoner
-som er ilagt i saker hvor hovedlovbruddet er legemiddelloven § 31 annet ledd, jf. § 24, og straffeloven § 231. Hovedlovbruddet kan noe forenklet
-defineres som det lovbruddet i saken som har
-høyest strafferamme. Dette innebærer at reaksjonen kan være gitt også som følge av andre
-straffbare forhold.
-20
-
-Jf. redegjørelsen for bestemmelsenes virkeområde i punkt
-8.2.1 og 8.2.2.
-
-[Side 111]
-
-109
-
-NOU 2024: 12
-Håndheving av mindre narkotikaovertredelser
-
-Kapittel 8
-
-Tabell 8.2 Antallet straffereaksjoner ved overtredelse av legemiddelloven § 31 jf. § 24 og straffeloven § 231 –
-unntatt ubetingede påtaleunnlatelser.
-2013
-
-2015
-
-2017
-
-2018
-
-2019
-
-2020
-
-2021
-
-Endring
-2022 2020–2022
-
-Lml § 31
-
-8273
-
-7796
-
-5449
-
-5360
-
-4824
-
-3978
-
-2211
-
-814
-
--80 %
-
-Strl §231
-
-7992
-
-7386
-
-5818
-
-5009
-
-4686
-
-4579
-
-3580
-
-2439
-
--47 %
-
-Betinget påtaleunnlatelse Lml § 31
-
-731
-
-798
-
-705
-
-926
-
-917
-
-1818
-
-1241
-
-318
-
--83 %
-
-Strl §231
-
-252
-
-241
-
-258
-
-273
-
-236
-
-657
-
-445
-
-235
-
--64 %
-
-Lml § 31
-
-6832
-
-6450
-
-4627
-
-4350
-
-3828
-
-2095
-
-920
-
-476
-
--77 %
-
-Strl §231
-
-4563
-
-4293
-
-2986
-
-2525
-
-2271
-
-1981
-
-1509
-
-941
-
--52 %
-
-Lml § 31
-
-164
-
-132
-
-103
-
-77
-
-72
-
-64
-
-43
-
-20
-
--69 %
-
-Strl §231
-
-123
-
-97
-
-101
-
-64
-
-65
-
-53
-
-62
-
-41
-
--23 %
-
-Lml § 31
-
-23
-
-13
-
-0
-
-1
-
-0
-
-0
-
-0
-
-0
-
-0%
-
-Strl §231
-
-501
-
-412
-
-424
-
-348
-
-406
-
-385
-
-371
-
-293
-
--24 %
-
-Lml § 31
-
-233
-
-179
-
-5
-
-4
-
-4
-
-1
-
-2
-
-0
-
--100 %
-
-Strl §231
-
-1339
-
-1171
-
-903
-
-803
-
-761
-
-580
-
-433
-
-477
-
--18 %
-
-Lml § 31
-
-289
-
-224
-
-8
-
-2
-
-3
-
-0
-
-2
-
-0
-
-0%
-
-Strl §231
-
-1214
-
-1171
-
-1146
-
-994
-
-947
-
-920
-
-757
-
-446
-
--52 %
-
-Alle typer reaksjoner
-
-Forelegg på bot
-Bot ved dom
-Samfunnsstraff
-Betinget fengsel
-Ubetinget fengsel
-Kilde: SSB, tabell 10622.
-
-Tallene for «alle typer reaksjoner» viser en
-betydelig nedgang i antallet straffereaksjoner,
-både for overtredelser av legemiddelloven og
-straffeloven § 231. Nedgangen kan ses i hele tiårsperioden, men den er særlig sterk i årene 2021
-og 2022. Tallene kan ses i sammenheng med nedgangen i antallet anmeldelser i disse sakstypene i
-samme tidsperiode, jf. punkt 8.3.1.
-Nedgangen er størst for overtredelser av legemiddelloven, hvor antallet straffereaksjoner er
-gått ned med 80 % fra 2020. For overtredelser av
-straffeloven § 231 har nedgangen vært noe lavere
-over tid. Fra 2020 ble det for første gang gitt flere
-straffereaksjoner for overtredelse av straffeloven
-§ 231 enn for overtredelse av legemiddelloven
-§ 31, jf. § 24.
-Ved overtredelse av legemiddelloven ble det i
-2022 i hovedsak reagert med bot (ved forelegg
-eller dom), betinget påtaleunnlatelse og ubetinget
-påtaleunnlatelse. I 2018–2022 var det noen helt få
-tilfeller hvor det ble reagert med samfunnsstraff,
-betinget fengsel eller ubetinget fengsel i saker
-hvor hovedlovbruddet var overtredelse av lege-
-
-middelloven. Hvorvidt disse sakene omfattet
-andre lovbrudd enn overtredelsen av legemiddelloven, vites ikke. Det er likevel tale om så få saker
-at det kan legges til grunn at det i praksis ikke
-reageres med strengere straff enn bot.
-Ved overtredelse av straffeloven § 231 første
-ledd viser tallene for 2022 at det i praksis er vanlig
-både med påtaleunnlatelser, bot, samfunnsstraff
-og fengsel. I perioden 2018–2022 har det imidlertid vært en kraftig nedgang i bruken av alle de
-strafferettslige reaksjonene. Nedgangen er noe
-større når det gjelder betinget påtaleunnlatelse
-enn for bruken av forelegg, samfunnsstraff og
-fengsel. Samtidig har det skjedd en sterk økning i
-bruken av ubetingede påtaleunnlatelser, jf. tabell
-8.3.
-Tabell 8.3 viser at bruken av ubetingede
-påtaleunnlatelser har økt jevnlig fra 2013 til 2022,
-både i saker etter legemiddelloven og etter straffeloven. For overtredelser av straffeloven har
-økningen av ubetingede påtaleunnlatelser vært
-særlig sterk, og bare fra 2020 til 2022 har antallet
-doblet seg.
-
-[Side 112]
-
-110
-
-NOU 2024: 12
-
-Kapittel 8
-
-Håndheving av mindre narkotikaovertredelser
-
-Tabell 8.3 Antallet personer som er gitt ubetinget påtaleunnlatelse for overtredelse av legemiddelloven § 31
-jf. § 24 og straffeloven § 231
-2013
-
-2014
-
-2015
-
-2016
-
-2017
-
-2018
-
-2019
-
-2020
-
-2021
-
-2022
-
-Legemiddelloven
-
-133
-
-167
-
-178
-
-169
-
-274
-
-179
-
-226
-
-441
-
-491
-
-559
-
-Straffeloven § 231
-
-141
-
-144
-
-101
-
-98
-
-185
-
-135
-
-152
-
-243
-
-257
-
-486
-
-Kilde: SSB
-
-Statistikken viser videre at det har vært en
-kraftig nedgang fra 2019 til 2022 i det totale
-antallet strafferettslig reaksjoner som er gitt overfor personer under 18 år i narkotikasaker. Endringen i rene tall er klart størst når det gjelder
-bruken av betinget påtaleunnlatelse – fra 689
-saker i 2019 til 169 saker i 2022.
-Bruken av betingede påtaleunnlatelser overfor
-ungdom omtales nærmere av utvalget i punkt
-16.3.2.
-
-Straffereaksjoner i U18-saker
-I saker hvor gjerningspersonen er under 18 år vil
-det gjennomgående bli reagert mildere enn overfor personer over 18 år. Dette gjelder også i
-mindre alvorlige narkotikasaker, jf. omtalen av
-direktiver om straffutmåling i punkt 8.2.3.2. I riksadvokatens rundskriv nr. 2/2014 er det beskrevet
-at det er ønskelig å unngå å benytte bøter i saker
-mot personer under 18 år, og at betinget
-påtaleunnlatelse er en foretrukket reaksjon. Det
-er også gitt uttalelser om at ungdomsoppfølging
-kan være egnet i mindre alvorlige narkotikasaker
-hvor ungdommen har sammensatte problemer og
-et oppfølgingsbehov.
-Tallene viser at den vanligste strafferettslige
-reaksjonen overfor ungdom i narkotikasaker fortsatt er betinget påtaleunnlatelse. Dette er godt i
-samsvar med direktivene i riksadvokatens rundskriv nr. 2/2014. Betinget påtaleunnlatelse utgjør
-imidlertid en minkende andel av de strafferettslige reaksjonene mot ungdom. I 2019 ble det gitt
-betinget påtaleunnlatelse i 68 % av sakene, mens
-andelen hadde sunket til 50 % i 2022. Andelen ubetinget påtaleunnlatelse har økt fra 4 % i 2019 til
-22 % i 2022.
-
-Utvikling 2022–2023 – tall mottatt fra riksadvokaten
-Utvalget har mottatt tall fra riksadvokaten over
-antallet forhold etter legemiddelloven § 31 annet
-ledd, jf. 24, og straffeloven § 231 som er avgjort
-med en strafferettslig reaksjon i 2022 og 2023.
-Tallene er fordelt etter saksavgjørelseskode hos
-politiet.
-Utvalget presenterer her et utvalg av tallene
-som er mottatt fra riksadvokaten. Det gjøres oppmerksom på at tallene ikke er direkte sammenlignbare med tallene fra SSB som er presentert
-over. Dette gjelder for det første fordi tallene fra
-riksadvokaten gjelder antallet forhold som er
-avgjort med en straffereaksjon, mens tallene fra
-
-Tabell 8.4 Straffereaksjoner i narkotikasaker hvor lovbryteren er under 18 år.
-2019
-
-2020
-
-2021
-
-2022
-
-Endring
-2019–2022
-
-Alle typer reaksjoner
-
-1017
-
-851
-
-600
-
-332
-
--67 %
-
-Avgjort i konfliktråd
-
-62
-
-70
-
-56
-
-19
-
--69 %
-
-Påtaleunnlatelse uten vilkår
-
-41
-
-39
-
-50
-
-72
-
-76 %
-
-Betinget påtaleunnlatelse
-
-689
-
-548
-
-379
-
-169
-
--75 %
-
-Forelegg
-
-186
-
-153
-
-93
-
-44
-
--76 %
-
-Samfunnsstraff eller ungdomsstraff
-
-8
-
-13
-
-9
-
-9
-
-13 %
-
-Betinget fengsel
-
-30
-
-25
-
-10
-
-15
-
--50 %
-
-:
-
-:
-
-:
-
-:
-
-Ubetinget fengsel eller særreaksjon
-Kilde: SSB, tabell 13723.
-
-[Side 113]
-
-111
-
-NOU 2024: 12
-Håndheving av mindre narkotikaovertredelser
-
-Kapittel 8
-
-Tabell 8.5 Antall forhold etter legemiddelloven § 31, jf. § 24 og straffeloven § 231 avgjort med strafferettslig
-reaksjon1 for 2022–2023.
-Forholdets avgjørelse
-
-2022
-
-2023
-
-Endring
-
-Påtaleunnlatelse uten vilkår (068)
-
-1691
-
-1858
-
-10%
-
-Bot (053,137,087)
-
-2111
-
-1635
-
--23%
-
-Påtaleunnlatelse med prøvetid (074)
-
-573
-
-426
-
--26%
-
-Påtaleunnlatelse med prøvetid og særvilkår (055)
-
-79
-
-137
-
-73%
-
-Betinget dom (081,094)
-
-463
-
-351
-
--24%
-
-Betinget dom med særvilkår (109,096,169)
-
-275
-
-197
-
--28%
-
-Straffutmålingsfrafall (250)
-
-83
-
-232
-
-180%
-
-Samfunnsstraff (122,126,123)
-
-687
-
-428
-
--38%
-
-Ubetinget fengsel (080,085,091,082,117,131)
-
-1926
-
-1464
-
--24%
-
-Sum antall forhold avgjort med strafferettslig reaksjon
-
-9687
-
-8197
-
--15%
-
-1
-
-Tallene omfatter de avgjørelseskodene som er oppgitt i tabellen.
-Kilde: Riksadvokaten
-
-SSB gjelder antallet straffereaksjoner (én reaksjon kan omfatte flere forhold). For det andre er
-tallene fra riksadvokaten satt opp etter saksavgjørelseskode, slik at det må gjøres et skjønnsmessig
-utvalg av hvilke kategorier som skal medregnes.
-Utvalget anser tallene likevel som nyttige for å
-belyse utviklingen frem til og med 2023, slik at
-man har et mest mulig oppdatert bilde.
-Tallene fra riksadvokaten viser at det totale
-antallet straffereaksjoner falt med 15 % fra 2022 til
-2023. Dette viser at den nedadgående trenden de
-siste ti årene fortsetter, jf. beskrivelsen av dette
-over. Det kan likevel være grunn til å påpeke at
-antallet anmeldelser i narkotikasaker har økt fra
-2022 til 2023 (se punkt 8 3.1). Det gjenstår å se om
-dette vil føre til at antallet strafferettslige reaksjoner også vil øke i 2024.
-Tallene viser en betydelig nedgang fra 2022 til
-2023 i antallet forhold som er avgjort med straff –
-det vil bot, samfunnsstraff, betinget fengsel og ubetinget fengsel.21 Derimot øker bruken av strafferettslige reaksjoner som ikke er straff i tradisjonell
-forstand – det vil si ubetinget påtaleunnlatelse og
-straffutmålingsfrafall. Når det gjelder bruken av
-betinget påtaleunnlatelse, kan man merke seg at
-det er en nedgang i antallet påtaleunnlatelser med
-prøvetid, mens det er en økning i antallet
-betingede påtaleunnlatelse med særvilkår. Sær21
-
-Jf. definisjonen av straff i straffeloven § 29, se også § 30 om
-andre strafferettslige reaksjoner.
-
-vilkår vil i denne sakstypen typisk kunne omfatte
-pålegg om oppmøte hos den kommunale rådgivende enheten for russaker, jf. straffeloven § 37
-bokstav k. Det skal likevel bemerkes at antallet
-betingede påtaleunnlatelse med særvilkår er svært
-lavt i forhold til det totale antallet saker.
-Tallene i tabell 8.5 gjelder alle aldersgrupper.
-Utvalget har mottatt særskilte tall fra Riksadvokatembetet over straffereaksjoner mot personer
-under 18 år. Disse tallene presenteres i punkt
-16.2.1
-Oppsummering
-Tallene og statistikken som er gjennomgått i dette
-punktet, viser at det de siste årene har vært en
-betydelig nedgang i det totale antallet straffereaksjoner som er gitt for mindre alvorlige narkotikaovertredelser. For perioden 2020–2023 gjelder
-nedgangen samtlige strafferettslige reaksjoner
-unntatt ubetingede påtaleunnlatelser og straffutmålingsfrafall, som har hatt en kraftig økning i
-samme periode. Tallene viser en tydelig dreining i
-retning av at lovbrudd som tidligere ville blitt gitt
-betinget påtaleunnlatelse eller bot, i større grad
-resulterer i ubetinget påtaleunnlatelse eller straffutmålingsfrafall.
-For narkotikasaker mot ungdom under 18 år,
-kan det observeres en tydelig nedgang i antallet
-straffereaksjoner totalt sett. Når det gjelder
-bruken av betingede påtaleunnlatelser, som skal
-
-[Side 114]
-
-112
-
-Kapittel 8
-
-NOU 2024: 12
-Håndheving av mindre narkotikaovertredelser
-
-være den foretrukne reaksjonen overfor ungdom
-for å forebygge videre narkotikabruk,22 er nedgangen fra 2019 til 2022 på 75 %.
-Riksadvokatens tall over utviklingen for 2022–
-2023 viser generelt sett at nedgangen i antallet
-ilagte straffereaksjoner fortsetter. Det observeres
-en økning i bruken av betingede påtaleunnlatelser
-med særvilkår, dog slik at det i rene tall er tale om
-en beskjeden økning.
-
-8.2.4 Registrering og attester
-Utvalget nøyer seg her med å omtale registrering
-av og opplysninger om straff og andre reaksjoner
-for lovbrudd som omfattes av utvalgets mandat,
-dvs. bot, straffutmålingsfrafall og straffutmålingsutsettelse samt betinget og ubetinget påtaleunnlatelse for befatning med mindre kvanta narkotika
-og dopingmidler til egen bruk. Videre omtales
-ungdomsoppfølging.
-Etter politiregisterloven § 9 skal personer som
-er ilagt straff eller andre strafferettslige reaksjoner eller andre tiltak som følge av lovbrudd, jf.
-straffeloven §§ 29 og 30 og politiregisterforskriften § 44-4, registreres i et reaksjonsregister.
-Det skal registreres personalia, reaksjoner og tiltak. Bot er definert som straff, jf. straffeloven § 29
-første ledd bokstav e, og blir derfor registrert
-uavhengig av om boten er ilagt ved et forelegg
-som siktede har vedtatt, eller ved dom, jf. politiregisterforskriften § 44-4 første ledd nr. 5. Påtaleunnlatelse etter straffeprosessloven § 69 (både
-betinget og ubetinget påtaleunnlatelse) er ikke
-straff, men er definert som en strafferettslig reaksjon i straffeloven § 30 bokstav f og skal derfor
-registreres, jf. politiregisterforskriften § 44-4
-første ledd nr. 9. Det samme gjelder straffutmålingsutsettelse og straffutmålingsfrafall etter
-straffeloven §§ 60 og 61, jf. straffeloven § 30 bokstav a og b og politiregisterforskriften § 44-4
-første ledd nr. 8 og 15. Også overføring til oppfølging i konfliktråd og ungdomsoppfølging i
-konfliktråd blir registrert, jf. straffeloven § 30
-bokstav g og politiregisterforskriften § 44-4 første
-ledd nr. 10.
-Utfyllende personalia registreres i Personidentitets- og politiopplysningsregisteret, som også er
-hjemlet i politiregisterloven § 9 (i tillegg til § 4), se
-politiregisterforskriften kapittel 49. Opplysningene
-i disse registrene danner grunnlag for politiattester og vandelsvurderinger, jf. politiregisterforskriften §§ 44-1 og 49-1.
-
-Etter politiregisterloven § 40 nr. 2 bokstav f
-skal «ordinær politiattest» opplyse om bot for lovbrudd «med øvre strafferamme på fengsel i mer
-enn 6 måneder». Ettersom legemiddelloven § 31
-annet ledd om besittelse og bruk av narkotika
-samt erverv, besittelse og bruk av dopingmidler,
-har strafferamme bot eller fengsel inntil seks
-måneder «eller begge deler», er strafferammen
-høyere enn fengsel i seks måneder. Det er likevel
-ikke tale om «fengsel i mer enn 6 måneder». Bøter
-for overtredelse av legemiddelloven § 31 annet
-ledd skal derfor ikke opplyses på ordinær straffattest.23
-Det følger av politiregisterloven § 40 nr. 3 at
-betinget dom med straffutmålingsutsettelse (§ 40
-nr. 3 bokstav a, jf. straffeloven § 60), dom med
-straffutmålingsfrafall (§ 40 nr. 3 bokstav g, jf.
-straffeloven § 61), påtaleunnlatelse etter straffeprosessloven §§ 69 og 70 (§ 40 nr. 3 bokstav b),
-overføring til behandling i konfliktråd (§ 40 nr. 3
-bokstav e og bot for lovbrudd med øvre strafferamme på fengsel inntil seks måneder (§ 40 nr. 3
-bokstav c) ikke skal oppgis på ordinær politiattest.
-Som nevnt ovenfor, omfatter det sistnevnte bøter
-etter legemiddelloven § 31 annet ledd.
-Politiregisterloven § 40 nr. 5 inneholder en
-foreldelsesbestemmelse. Hovedregelen er at
-anmerkning på ordinær politiattest faller bort tre
-år etter at reaksjonen er ilagt. Etter politiregisterloven § 40 nr. 6 forkortes fristen til to år dersom
-lovbruddet er begått av person under 18 år.
-«Uttømmende og utvidet politiattest» er regulert i politiregisterloven § 41. Slik attest utstedes
-bare der det fremgår uttrykkelig av hjemmelsgrunnlaget at det kreves utvidet politiattest. Der
-hjemmelsgrunnlaget angir politiattest, betyr altså
-det ordinær politiattest, jf. politiregisterloven § 40
-nr. 1. Uttømmende politiattest skal som hovedregel anmerke alle straffer, andre strafferettslige
-reaksjoner og andre tiltak som er registrert i reaksjonsregisteret som følge av lovbrudd, jf. § 41
-nr. 1. Tidsbegrensningene i § 40 gjelder ikke.
-Visse unntak følger av § 41 nr. 1 tredje punktum.
-Således oppgis ikke reaksjon ilagt en person som
-var under 18 år på gjerningstidspunktet, som ikke
-har begått alvorlig eller gjentatte lovbrudd, og
-som heller ikke har begått nye lovbrudd (tredje
-punktum bokstav c). Videre gjør tredje punktum
-bokstav a unntak for opplysning om ungdomsoppfølging hvis personen ikke har begått nye lovbrudd innen to år etter at det er inngått godkjent
-avtale, ungdomsplan eller plan i konfliktrådet. Se
-23
-
-22
-
-Riksadvokatens rundskriv nr. 2/2014.
-
-Holmboe mfl., Politiregisterloven – Karnov Lovkommentar,
-note 9 til § 40, à jour 28. februar 2024.
-
-[Side 115]
-
-NOU 2024: 12
-Håndheving av mindre narkotikaovertredelser
-
-også nærmere nedenfor politiregisterforskriften
-§ 30-3.
-Uttømmende politiattest kan kreves for en del
-viktige stillinger og verv, som dommere og
-ansatte i politiet og påtalemyndigheten (se domstolloven § 55, politiloven § 18 og straffeprosessloven § 55 a).
-Et praktisk viktig eksempel på en delvis uttømmende politiattest er barneomsorgsattest etter
-politiregisterloven § 39, der reaksjon for nærmere
-opplistede lovbrudd skal anmerkes etter reglene i
-§ 41. Straffeloven § 231 om narkotikalovbrudd er
-med i paragrafoppregningen; det er derimot ikke
-straffeloven § 234 om dopingovertredelse og
-heller ikke legemiddelloven § 31 annet ledd om
-besittelse og bruk av narkotika, og erverv, besittelse og bruk av dopingmidler.
-For lovbrytere under 18 år er det gitt egne
-regler om utstedelse av uttømmende politiattest i
-politiregisterforskriften § 30-3. Bestemmelsen
-innebærer at for denne gruppen skal uttømmende
-attest utstedes i samsvar med reglene om ordinær
-attest, med mindre det er begått alvorlig eller
-gjentatt kriminalitet eller nye lovbrudd innenfor
-nærmere angitte tidsfrister. Femte ledd gir ved
-henvisning til tidsbegrensningene i politiregisterloven § 40 regler om hvor lenge slike forhold skal
-registreres. Etter utløpet av fristen sperres opplysningene, jf. politiregisterforskriften § 30-3 femte
-ledd. Sperring innebærer at opplysningene ikke
-lenger blir anmerket på noen form for politiattest.
-Opplysningene beholdes i politiet, men tilgangen
-begrenses, og opplysningene kan bare benyttes til
-spesifikke formål angitt i loven eller politiregisterforskriften. Særreglene for unge lovbrytere ble
-etablert på bakgrunn av et anmodningsvedtak fra
-Stortinget.
-Politiregisterloven og -forskriften inneholder
-også andre bestemmelser om sperring av opplysninger, jf. loven § 50 og forskriften § 44-12.
-Således sperres opplysning om ilagt bot etter 15
-år, og etter 20 år sperres opplysning om annen
-ilagt reaksjon enn bot for lovbrudd med øvre
-strafferamme på fengsel inntil 3 år, jf. § 44-12
-første ledd. Dersom vedkommende i dette tidsrommet er ilagt ny reaksjon for lovbrudd, regnes
-fristen fra siste ilagte reaksjon, jf. § 44-12 annet
-ledd.
-I forbindelse med behandlingen av rusreformen fattet Stortinget 3. juni 2021 blant annet
-dette anmodningsvedtaket (nr. 1116):
-Stortinget ber regjeringen sørge for at opplysninger i reaksjonsregisteret om personer som
-er ilagt strafferettslige reaksjoner for bruk og
-
-113
-
-Kapittel 8
-
-besittelse av narkotika til eget bruk, sperres
-etter tre år. Sperring forutsetter at det ikke er
-registrert flere straffbare forhold i den aktuelle
-perioden.
-Justis- og beredskapsdepartementet sendte
-11. februar 2022 på høring et forslag om å endre
-politiregisterforskriften § 44-12 for å gjennomføre
-Stortingets vedtak. I høringsnotatet ble det foreslått som ny nr. 3 i politiregisterforskriften § 44-12
-første ledd at opplysning skal sperres om «ilagt
-reaksjon for overtredelse av bestemmelser gitt i
-medhold av legemiddelloven § 22 annet ledd, eller
-overtredelse av nevnte lov § 24, jf. § 31, ved egen
-bruk av narkotika eller besittelse av narkotika til
-egen bruk, etter 3 år».
-Høringen omfattet også andre forslag om lovendringer og endringer i politiregisterforskriften.
-Høringsfristen var 20. april 2022, men forskriften
-er ennå ikke endret. I Justisdepartementets
-budsjettproposisjon for 202424 opplyser departementet om oppfølging av anmodningsvedtak nr.
-1116: «Vedtaket er under behandling. Departementet vurderer moglege endringar i politiregisterforskrifta.»
-En endring som foreslått vil først og fremst ha
-betydning for voksne ettersom opplysninger om
-strafferettslige reaksjoner mot personer under
-18 år for overtredelse av legemiddelloven allerede
-sperres etter forskriften § 30-3, jf. ovenfor.
-
-8.2.5 Nødanrop
-Ved behandlingen av rusreformen traff Stortinget
-et anmodningsvedtak om nødanrop, jf. vedtak
-nr. 1115 av 3. juni 2021:
-Stortinget ber regjeringen sørge for at politiet
-ikke straffeforfølger overtredelse av legemiddelloven § 24 første ledd, der overtreder
-yter assistanse eller tilkaller nødetater i akutte
-nødssituasjoner, eller der en slik overtredelse
-avdekkes hos fornærmede ved anmeldelse av
-andre straffbare forhold.
-Regjeringens oppfølging av dette anmodningsvedtaket er beskrevet i Meld. St. 4 (2022–2023)
-punkt 7.2:
-Dokumenta som ligg til grunn for vedtaket, er
-Prop. 92 L (2020–2021) og Innst. 612 L (2020–
-2021).
-24
-
-Prop. 1 S (2023–2024) Justis- og beredskapsdepartementet
-s. 50–51.
-
-[Side 116]
-
-114
-
-NOU 2024: 12
-
-Kapittel 8
-
-Håndheving av mindre narkotikaovertredelser
-
-Vedtaket er følgt opp. Departementet har
-vore i dialog med Riksadvokaten, som peikar
-på at dei resultata Stortinget ønskjer, langt på
-veg følgjer av eksisterande reglar, føringar og
-praksis. Riksadvokaten vil klargjere dette for
-politiet på eigna måte.
-
-anmeldelser dermed være en indikator på
-politiets innsats mot narkotikakriminalitet.
-Utvalget presenterer under tall på utviklingen i
-antallet anmeldelser for ulike typer narkotikalovbrudd.
-Figur 8.1 viser en betydelig nedgang i antallet
-anmeldelser for overtredelse av lovbestemmelsene som rammer mindre alvorlige narkotikalovbrudd, dvs. legemiddelloven § 31 annet ledd, jf.
-§ 24, og straffeloven § 231. I toppåret 2013 var det
-over 24 000 anmeldelser for overtredelser av legemiddelloven mens det i 2022 var under 6000, noe
-som utgjør en nedgang på mer enn 75 %. For overtredelse av straffeloven § 231 har nedgangen også
-vært kraftig, men relativt sett noe mindre enn nedgangen for anmeldelser for overtredelse av legemiddelloven. Man kan merke seg at det over lang
-tid har vært slik at antallet overtredelser av legemiddelloven har vært høyere enn antallet overtredelser av straffeloven § 231. Denne trenden
-endret seg imidlertid fra 2020, slik at antallet
-anmeldte overtredelser av straffeloven § 231 nå
-overstiger antallet anmeldelser for overtredelser
-av legemiddelloven.
-For helhetens skyld omtales også utviklingen
-i antallet anmeldelser for grove narkotikalovbrudd, se figur 8.2. I perioden 2003–2020 varierte
-antallet saker mellom 950 og 1300 saker årlig. I
-2021 og 2022 har tallene sunket til ca. 800 saker
-
-Dette anmodningsvedtaket er nevnt i flere av innspillene til utvalget. Vedtaket er ikke en del av
-utvalgets mandat og er fulgt opp av departementet
-på annen måte. Utvalget nøyer seg derfor med å
-vise til omtalen i stortingsmeldingen.
-
-8.3
-
-Straffesaksutvikling
-
-8.3.1
-
-Antallet anmeldelser for
-narkotikalovbrudd
-Utvalget omtaler i punkt 8.2.3.3 statistikk og tall
-over bruken av ulike straffereaksjoner i mindre
-alvorlige narkotikasaker. I dette punktet presenteres tall over anmeldelser for narkotikalovbrudd. Tallene vil vise hvor mange saker som
-er blitt anmeldt hos politiet, uten at det nødvendigvis har endt med en strafferettslig reaksjon.
-Narkotikalovbrudd er en sakstype som i stor
-grad anmeldes av politiet. Forutsatt et likt kriminalitetsnivå i samfunnet, vil utviklingen i antallet
-
-30 000
-
-24 168
-
-25 000
-21 262
-
-20 000
-
-19 080 19 289 19 329
-
-22 061
-20 368
-
-15 000
-
-16 163
-
-21 726
-
-21 286
-21 947
-
-19 140
-18 590
-
-20 319
-
-20 642
-18 879
-
-17 966 17 779
-
-23 257
-
-22 545
-
-19 686
-20 865
-
-17 494
-
-18 760
-
-17 060
-
-17 556
-
-15 422
-
-16 475
-15 439 15 123
-
-15 009 15 671
-
-13 679
-
-12 384
-12 464
-12 460
-
-10 000
-
-9 183
-8218
-7 521
-
-5 943
-
-5 000
-
-0
-2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
-Legemiddelloven
-
-Strl § 231
-
-Figur 8.1 Antall anmeldelser for overtredelser av legemiddelloven (bruk, besittelse) og straffeloven § 231, for
-årene 2003–2022.
-Kilde: SSB, tabell 08484.
-
-[Side 117]
-
-115
-
-NOU 2024: 12
-Håndheving av mindre narkotikaovertredelser
-
-Kapittel 8
-
-1400
-
-1200
-
-1312
-
-1307
-
-1300
-
-1246
-1190
-1143 1143
-
-1171
-
-1100
-
-1112
-1059
-
-1106
-1072 1060
-
-1000
-900
-
-1284
-
-968
-954
-
-955
-
-894
-
-907
-814
-
-800
-
-793
-
-700
-600
-2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
-
-Figur 8.2 Antallet anmeldelser for overtredelse av straffeloven § 232 (grov narkotikaovertredelse), for årene
-2003–2022.
-Kilde: SSB, tabell 08484.
-
-årlig, noe som er det klart laveste nivået de siste
-20 årene.
-Riksadvokaten har oversendt tall til utvalget
-om antallet anmeldelser i 2023 for narkotikalovbrudd etter legemiddelloven, straffeloven
-§ 231 og straffeloven § 232. Tallene har en annen
-kilde enn statistikken til SSB, og de rene tallene er
-derfor ikke direkte sammenlignbare med SSBs
-statistikk. Tallene oppgis likevel her for å vise
-utviklingen fra 2022 til 2023.
-Tallene viser en fortsatt nedgang i antallet
-anmeldelser etter legemiddelloven, mens antallet
-anmeldelser for overtredelse av straffeloven § 231
-har økt. Det er også en oppgang i antallet
-anmeldelser for grove narkotikaovertredelser.
-Økningen i anmeldelser etter §§ 231 og 232 er en
-endring i forhold til utviklingen frem mot 2022,
-hvor det i disse sakstypene over tid har vært en
-betydelig nedgang. Endringene i 2023 endrer
-imidlertid ikke det større bildet som er presentert
-
-over, som viser en nedgang i alle kategorier
-narkotikasaker de siste ti årene.
-
-8.3.2
-
-Antallet etterforskede saker mot
-ungdom
-
-Avdekking og etterforsking av narkotikalovbrudd
-begått av barn og ungdom er gitt særskilt oppmerksomhet i utvalgets mandat. Det presenteres
-her tall over utviklingen i narkotikasaker som
-politiet har etterforsket mot personer som på
-gjerningstidspunktet var under 18 år.
-Det har vært en nedgang i antallet narkotikasaker som har vært etterforsket mot barn i
-alderen 15–17 år i perioden fra 2019 til 2022. I
-2019 ble det etterforsket totalt 1794 narkotikasaker mot denne gruppen (inkludert både overtredelser av legemiddelloven og straffeloven
-§ 231). I 2022 var dette tallet nede i 533 saker, en
-nedgang på ca. 70 %.
-
-Tabell 8.6 Utvikling i antallet anmeldelser fra 2022–2023 i narkotikasaker.
-2022
-
-2023
-
-Legemiddelloven – bruk og besittelse av narkotika
-
-6771
-
-6258
-
-Straffeloven § 231 – narkotikaovertredelse
-
-8218
-
-9510
-
-Straffeloven § 232 – grov narkotikaovertredelse
-
-789
-
-850
-
-Kilde: Riksadvokaten, JUS065.
-
-[Side 118]
-
-116
-
-NOU 2024: 12
-
-Kapittel 8
-
-Håndheving av mindre narkotikaovertredelser
-
-1800
-1535
-
-1600
-
-1200
-
-1184
-
-1444
-
-1429
-
-1300
-
-1400
-1189
-
-1313
-1168
-
-1181
-
-1089
-1006
-
-1000
-
-791
-
-800
-600
-
-477
-
-400
-
-395
-
-421
-
-446
-
-455
-313
-
-319
-
-319
-
-2015
-
-2016
-
-2017
-
-338
-
-350
-
-337
-
-346
-258
-
-200
-
-196
-
-0
-2010
-
-2011
-
-2012
-
-2013
-
-2014
-
-Legemiddelloven
-
-2018
-
-2019
-
-2020
-
-2021
-
-2022
-
-Straffeloven § 231
-
-Figur 8.3 Antallet siktelser mot personer 15–17 år, 2010–2022, for narkotikalovbrudd etter legemiddelloven
-og straffeloven § 231.
-Kilde: SSB, tabell 09410.
-
-Politiet etterforsker også narkotikasaker hvor
-siktede er under den kriminelle lavalder på 15 år.
-Antallet saker i denne kategorien fremstilles i
-figur 8.4.
-Antallet U15-saker har på landsbasis variert
-betydelig i løpet av de siste ti årene, med det
-
-laveste nivået i 2015 på 79 saker og det høyeste
-antallet i 2018 på 217 saker. Fra 2019 til 2022 har
-det hvert år vært en nedgang i antallet saker
-politiet har etterforsket overfor denne persongruppen, og til sammen er antallet saker halvert i
-denne perioden.
-
-180
-159
-160
-
-142
-
-140
-109
-
-120
-
-107
-
-103
-
-100
-80
-
-71
-
-64
-
-64
-
-59
-
-60
-40
-
-88
-
-86
-
-49
-
-43
-31
-
-19
-
-30
-
-27
-
-2012
-
-2013
-
-66
-
-58
-35
-
-34
-23
-
-20
-
-35
-
-20
-
-2015
-
-2016
-
-45
-
-31
-
-0
-2010
-
-2011
-
-2014
-
-Legemiddelloven
-
-2017
-
-2018
-
-2019
-
-2020
-
-2021
-
-2022
-
-Straffeloven § 231
-
-Figur 8.4 Antallet siktelser mot personer under 15 år, 2010–2022, for overtredelse av legemiddelloven og
-straffeloven § 231.
-Kilde: SSB, tabell 09410.
-
-[Side 119]
-
-117
-
-NOU 2024: 12
-Håndheving av mindre narkotikaovertredelser
-
-Kapittel 8
-
-Tabell 8.7 Antallet anmeldte forhold, utvalgte grupper lovbrudd, 2014–2022.
-2014
-
-Endring
-2022 2014–2022
-
-2016
-
-2018
-
-2019
-
-2020
-
-2021
-
-Eiendomstyveri
-
-132989 105144
-
-92866
-
-94966
-
-86949
-
-79515
-
-99729
-
--25 %
-
-Annen vinning
-
-26285
-
-31064
-
-30540
-
-28869
-
-26055
-
-25066
-
-28971
-
-10 %
-
-Eiendomsskade
-
-17639
-
-17293
-
-17270
-
-17651
-
-21367
-
-19881
-
-19716
-
-12 %
-
-Vold og mishandling
-
-34111
-
-34969
-
-37461
-
-38013
-
-37063
-
-35988
-
-39465
-
-16 %
-
-Seksuallovbrudd
-
-4780
-
-7079
-
-8386
-
-6744
-
-6873
-
-7989
-
-7396
-
-55 %
-
-Rusmiddellovbrudd
-
-58450
-
-50293
-
-45699
-
-41873
-
-39602
-
-30241
-
-29218
-
--50 %
-
-Ordens- og integritetskrenkelse
-
-41744
-
-36646
-
-36307
-
-34304
-
-31490
-
-28906
-
-30903
-
--26 %
-
-Trafikk
-
-51102
-
-49032
-
-44953
-
-43188
-
-45608
-
-43014
-
-43852
-
--14 %
-
-Alle lovbruddsgrupper
-
-372107 336413 317927 310120 300636 278833 304621
-
--18 %
-
-Kilde: SSB, tabell 08484.
-
-8.3.3 Utvikling i andre typer lovbrudd
-Fremstillingen så langt har vist at antallet registrerte narkotikasaker hos politiet har falt kraftig
-de siste ti årene. Det fremgår også at bruken i
-samfunnet av de vanligste typene narkotika har
-økt de siste ti årene (jf. punkt 4.2). Det må dermed
-antas at nedgangen i antallet narkotikasaker ikke
-skyldes mindre narkotikakriminalitet, men at politiet prioriterer denne typen lovbrudd lavere. Det
-er av interesse å se på utviklingen i andre typer
-lovbrudd i samme periode.
-Statistikken viser at det kun er to grupper av
-lovbrudd som har økt fra 2014 til 2022. Dette
-gjelder for det første lovbruddsgruppen «vold og
-mishandling», hvor det har vært en økning på
-16 %, og dernest «seksuallovbrudd» hvor det har
-vært en økning på 55 %. For alle andre lovbruddsgrupper har det vært en nedgang i antall
-anmeldelser, og det totale antallet anmeldelser er
-gått ned med 18 % i 2022 sammenlignet med 2014.
-Bruk av narkotika og omsetning av narkotika
-kan erfaringsmessig stå i sammenheng med
-andre lovbrudd, herunder vold og andre integritetskrenkelser.25 Det å ha vært utsatt for
-traumer i form av vold, mishandling eller seksuelle overgrep, er også viktige risikofaktorer for
-utvikling av rusmiddelproblemer.26 Årsaker og
-sammenhenger i kriminalitetsutviklingen er et
-25
-26
-
-Jf. bl.a. Kripos' høringssvar 2.mars 2020 til NOU 2019: 26.
-Jf. FHI, Folkehelserapporten, «Rusmiddellidelser i Norge»,
-oppdatert 15. juni 2022 (fhi.no).
-
-komplekst tema, og det ligger utenfor rammene
-for utvalgets oppdrag å utrede dette nærmere.
-
-8.3.4 Oppklaringsprosent
-Oppklaring av straffesakene et overordnet mål for
-etterforskingen, og høy oppklaringsprosent er en
-av flere sentrale og generelle kvalitetsmarkører
-for straffesaksbehandlingen.27 Utvalget presenterer her utviklingen i oppklaringsprosenten de
-siste ti årene for ulike typer lovbrudd. Formålet er
-i denne sammenheng for det første å vise oppklaringsprosenten for narkotikalovbrudd sammenlignet med andre typer lovbrudd. Det er også
-av interesse å se på oppklaringsprosenten i lys av
-den generelle straffesaksutviklingen.
-For rusmiddellovbrudd (som inkluderer både
-narkotika- og dopingovertredelser) har oppklaringsprosenten gått ned fra 84 % i 2014 til 74 % i
-2022. Dette kommer i tillegg til nedgangen i
-antallet anmeldte saker på 50 % i samme periode,
-jf. punkt 8.3.3.
-Rusmiddellovbrudd har fortsatt en høy oppklaringsprosent i forhold til andre typer lovbrudd. Det må antas at dette skyldes at sakene i
-stor grad avdekkes av politiet, herunder gjennom politiets egne observasjoner og kontrollvirksomhet i trafikken mv. Sett i sammenheng
-med nedgangen i antallet anmeldelser kan det
-også antas at politiet i noen grad begrenser seg
-til å opprette anmeldelse i de sakene hvor det
-27
-
-Jf. riksadvokatens rundskriv nr. 3/2018 (kvalitetsrundskrivet).
-
-[Side 120]
-
-118
-
-Kapittel 8
-
-NOU 2024: 12
-Håndheving av mindre narkotikaovertredelser
-
-Tabell 8.8 Oppklaringsprosent, utvalgte typer lovbrudd, 2014–2022.
-2014
-
-2015
-
-2016
-
-2017
-
-2018
-
-2019
-
-2020
-
-2021
-
-2022
-
-Alle lovbruddsgrupper
-
-50
-
-51
-
-52
-
-51
-
-49
-
-49
-
-48
-
-49
-
-43
-
-Eiendomstyveri
-
-19
-
-20
-
-21
-
-21
-
-19
-
-19
-
-20
-
-21
-
-17
-
-Annet vinningslovbrudd
-
-52
-
-50
-
-42
-
-41
-
-37
-
-39
-
-39
-
-42
-
-31
-
-Eiendomsskade
-
-20
-
-19
-
-19
-
-20
-
-20
-
-21
-
-17
-
-18
-
-17
-
-Vold og mishandling
-
-53
-
-52
-
-50
-
-49
-
-49
-
-49
-
-47
-
-49
-
-44
-
-Seksuallovbrudd
-
-50
-
-53
-
-54
-
-53
-
-53
-
-56
-
-52
-
-53
-
-59
-
-Rusmiddellovbrudd
-
-84
-
-84
-
-84
-
-82
-
-80
-
-80
-
-78
-
-77
-
-74
-
-Ordens- og integritetskrenkelse
-
-72
-
-73
-
-74
-
-70
-
-67
-
-69
-
-67
-
-67
-
-66
-
-Trafikkovertredelse
-
-79
-
-80
-
-82
-
-81
-
-80
-
-81
-
-81
-
-81
-
-79
-
-Kilde: SSB, tabell 09408.
-
-antas at forholdet kan bevises med de etterforskingsmetoder som er tilgjengelige. Den relativt høye oppklaringen av rusmiddellovbrudd må
-også ses i lys av at en del rusmiddellovbrudd
-avdekkes i sammenheng med trafikklovbrudd. I
-slike tilfeller vil man etter veitrafikkloven ha
-hjemmel til prøvetaking for å avdekke rusmiddelpåvirkning. I tilfeller hvor rusmiddellovbruddet
-ikke omfattes av slik særlovgivning, og hvor
-prøvetaking eventuelt må besluttes etter straffeprosessloven, er det grunn til å tro at oppklaringsprosenten er lavere enn det som fremkommer av tabellen.
-
-Nedgangen i oppklaringsprosent og antallet
-anmeldelser er ikke enestående for rusmiddellovbrudd. Den negative utviklingen i oppklaringsprosenten for rusmiddellovbrudd følger samme
-nedadgående trend som de fleste andre typer lovbrudd, slik det fremkommer av tabellen. For de
-fleste andre typer lovbrudd har også antallet
-anmeldelser gått ned i samme tidsperiode, jf.
-punkt 8.3.3. Når alle sakstyper ses under ett, har
-politiet opplevd en nedgang i antallet anmeldelser
-på 18 % fra 2014–2022. I samme periode har den
-generelle oppklaringsprosenten gått ned fra 50 %
-til 43 %.
-
-[Side 121]
-
-NOU 2024: 12
-Håndheving av mindre narkotikaovertredelser
-
-119
-
-Kapittel 9
-
-Kapittel 9
-
-Fremmed rett og innspill
-9.1
-
-Behandling av mindre alvorlige
-narkotikalovbrudd i andre land
-
-9.1.1
-
-Sverige
-
-9.1.1.1 De straffbare handlinger
-Ulovlig befatning med narkotika reguleres av
-narkotikastrafflagen (1968:64). Etter 1 § første
-stk. er følgende handlinger straffbare:
 Den som olovligen
-1. överlåter narkotika,
-2. framställer narkotika som är avsedd för
-missbruk,
-3. förvärvar narkotika i överlåtelsesyfte,
-4. anskaffar, bearbetar, förpackar, transporterar, förvarar eller tar annan sådan
-befattning med narkotika som inte är
-avsedd för eget bruk, eller
-5. innehar, brukar eller tar annan befattning med narkotika
-döms för narkotikabrott till fängelse i högst
-tre år.
-Bestemmelsen rammer i utgangspunktet alle former for befatning med narkotika, herunder bruk
-av narkotika og innehav av narkotika til egen
-bruk. Bestemmelsen suppleres imidlertid av 2 §
-om «ringa narkotikabrott», som er særlig aktuell
-for lovbrudd som gjelder bruk og befatning med
-narkotika til egen bruk.
-Bestemmelsen om ringa narkotikabrott lyder
-slik:
-Är brott som avses i 1 § första stycket med hänsyn till arten och mängden narkotika samt
-övriga omständigheter att anse som ringa,
-döms för ringa narkotikabrott till böter eller
-fängelse i högst sex månader.
-Grensen mellom normalgradsovertredelser etter
-1 § første stk. og 2 § om ringa narkotikabrott, skal
-etter ordlyden i 2 § bero på en vurdering av arten
-og mengden av det aktuelle stoffet samt øvrige
 
-omstendigheter ved lovbruddet. Arten og mengden av stoffet er i alminnelighet de avgjørende
-faktorene ved grensedragningen.1 I tillegg kreves
-det at saken gjelder narkotika ment for egen bruk.
-Hvilke mengder narkotika som kan falle innenfor narkotikastrafflagen 2 § følger av rettspraksis
-og direktiver fra påtalemyndigheten.2 For de vanligste stoffene er grensene som følger:
-– Amfetamin: 5,0 gram
-– Cannabis: 50 gram
-– Benzodiazepiner: 250 tabletter
-– GHB: 50 cl.
-– Heroin: 0,05 gram
-– Khat: 4000 gram
-– Kokain: 0,60 gram
-– LSD og ecstasy: 50 tripper/tabletter alt. 5,0
-gram.
-Over disse mengdene anses lovbruddet som
-normalgradslovbrudd etter 1 §, selv om narkotikaen er ment til egen bruk.
-For at et narkotikalovbrudd skal være omfattet
-av bestemmelsen i 2 § om ringa narkotikabrott
-kreves det, som nevnt, at saken gjelder befatning
-med narkotika til egen bruk. Overdragelse eller
-oppbevaring i overdragelseshensikt medfører
-normalt at 2 § ikke kan anvendes. Lovgiver har i
-forarbeidene likevel åpnet for at overdragelse av
-svært små mengder i en lukket forsamling av
-brukere kan omfattes av bestemmelsen.3
-Bruk av narkotika og befatning med narkotika
-til egen bruk er straffbart også for rusmiddelavhengige. Det er noen særlige regler om straffereaksjoner som er aktuelle for rusmiddelavhengige, jf. punkt 9.1.1.2. Det skal også nevnes
-at etter svensk rett har politiet ved mindre alvorlige lovbrudd en skjønnsmessig adgang til å gi
-1
-2
+1\. överlåter narkotika,
 
-3
+2\. framställer narkotika som är avsedd för missbruk,
 
-Prop. 2022/23:53 s. 94, jf. også NJA 2012 s. 849 «femtiotablettersdomen».
-Rättslig vägledning 2021:21, Normalstraff för vissa bötesbrott, Utvecklingscentrum, desember 2021, oppdatert
-15. juni 2023.
-Prop. 1991/93:142 s. 17.
+3\. förvärvar narkotika i överlåtelsesyfte,
 
-[Side 122]
+4\. anskaffar, bearbetar, förpackar, transporterar, förvarar eller tar annan sådan befattning med narkotika som inte är avsedd för eget bruk, eller
 
-120
+5\. innehar, brukar eller tar annan befattning med narkotika
 
-Kapittel 9
+döms för narkotikabrott till fängelse i högst tre år.
 
-NOU 2024: 12
-Håndheving av mindre narkotikaovertredelser
+Bestemmelsen rammer i utgangspunktet alle former for befatning med narkotika, herunder bruk av narkotika og innehav av narkotika til egen bruk. Bestemmelsen suppleres imidlertid av 2 § om «ringa narkotikabrott», som er særlig aktuell for lovbrudd som gjelder bruk og befatning med narkotika til egen bruk.
 
-«rapporteftergift», som innebærer at politiet unnlater å opprette straffesak for forholdet.4 I praksis
-medfører dette at svensk politi i enkelte tilfeller
-unnlater å iverksette etterforsking overfor voksne
-personer med en kjent rusmiddellidelse.5
-Bruk er definert som en egen straffbar handling etter narkotikastrafflagen. Den som har brukt
-narkotika som vedkommende tidligere selv har
-innehatt, skal imidlertid kun holdes ansvarlig for
-innehavet og ikke også for bruken, jf. NJA 2017
-side 415. Bruken konsumeres dermed rettslig sett
-av innhavet.
+Bestemmelsen om ringa narkotikabrott lyder slik:
 
-9.1.1.2 Strafferettslige reaksjoner
-Det gis her først en fremstilling av hvilke straffereaksjoner som er aktuelle ved ringa narkotikabrott etter den svenske narkotikastrafflagen 2 §.
-Dette er, som beskrevet over, den mest aktuelle
-straffebestemmelsen ved bruk og befatning med
-narkotika til egen bruk. Deretter gis en
-beskrivelse av straffenivået ved befatning med
-narkotika til egen bruk som rammes av bestemmelsen om narkotikabrott av normalgraden, dvs.
-narkotikastrafflagen 1 §. Det gis også en oversikt
-over strafferettslige reaksjoner overfor ungdom i
-narkotikasaker.
+Är brott som avses i 1 § första stycket med hänsyn till arten och mängden narkotika samt övriga omständigheter att anse som ringa, döms för ringa narkotikabrott till böter eller fängelse i högst sex månader.
+
+Grensen mellom normalgradsovertredelser etter 1 § første stk. og 2 § om ringa narkotikabrott, skal etter ordlyden i 2 § bero på en vurdering av arten og mengden av det aktuelle stoffet samt øvrige omstendigheter ved lovbruddet. Arten og mengden av stoffet er i alminnelighet de avgjørende faktorene ved grensedragningen.[^161] I tillegg kreves det at saken gjelder narkotika ment for *egen bruk*.
+
+Hvilke mengder narkotika som kan falle innenfor narkotikastrafflagen 2 § følger av rettspraksis og direktiver fra påtalemyndigheten.[^162] For de vanligste stoffene er grensene som følger:
+
+- Amfetamin: 5,0 gram
+
+- Cannabis: 50 gram
+
+- Benzodiazepiner: 250 tabletter
+
+- GHB: 50 cl.
+
+- Heroin: 0,05 gram
+
+- Khat: 4000 gram
+
+- Kokain: 0,60 gram
+
+- LSD og ecstasy: 50 tripper/tabletter alt. 5,0 gram.
+
+Over disse mengdene anses lovbruddet som normalgradslovbrudd etter 1 §, selv om narkotikaen er ment til egen bruk.
+
+For at et narkotikalovbrudd skal være omfattet av bestemmelsen i 2 § om ringa narkotikabrott kreves det, som nevnt, at saken gjelder befatning med narkotika *til egen bruk*. Overdragelse eller oppbevaring i overdragelseshensikt medfører normalt at 2 § ikke kan anvendes. Lovgiver har i forarbeidene likevel åpnet for at overdragelse av svært små mengder i en lukket forsamling av brukere kan omfattes av bestemmelsen.[^163]
+
+Bruk av narkotika og befatning med narkotika til egen bruk er straffbart også for rusmiddelavhengige. Det er noen særlige regler om straffereaksjoner som er aktuelle for rusmiddelavhengige, jf. punkt 9.1.1.2. Det skal også nevnes at etter svensk rett har politiet ved mindre alvorlige lovbrudd en skjønnsmessig adgang til å gi «rapporteftergift», som innebærer at politiet unnlater å opprette straffesak for forholdet.[^164] I praksis medfører dette at svensk politi i enkelte tilfeller unnlater å iverksette etterforsking overfor voksne personer med en kjent rusmiddellidelse.[^165]
+
+Bruk er definert som en egen straffbar handling etter narkotikastrafflagen. Den som har brukt narkotika som vedkommende tidligere selv har innehatt, skal imidlertid kun holdes ansvarlig for innehavet og ikke også for bruken, jf. NJA 2017 side 415. Bruken konsumeres dermed rettslig sett av innhavet.
+
+#### Strafferettslige reaksjoner
+
+Det gis her først en fremstilling av hvilke straffereaksjoner som er aktuelle ved ringa narkotikabrott etter den svenske narkotikastrafflagen 2 §. Dette er, som beskrevet over, den mest aktuelle straffebestemmelsen ved bruk og befatning med narkotika til egen bruk. Deretter gis en beskrivelse av straffenivået ved befatning med narkotika til egen bruk som rammes av bestemmelsen om narkotikabrott av normalgraden, dvs. narkotikastrafflagen 1 §. Det gis også en oversikt over strafferettslige reaksjoner overfor ungdom i narkotikasaker.
+
 Straffereaksjoner ved ringa narkotikabrott
-Ringa narkotikabrott straffes normalt med bot, i
-henhold til et bøtedirektiv fastsatt av påtalemyndigheten.6 Bøtedirektivet fastsetter straffenivået
-for bruk av narkotika og innehav av de fleste typer
-narkotika opp til mengdegrensene (se liste i punkt
-9.1.1.1).
-Bruk av narkotika skal normalt straffes med
-30 dagsbøter. Innehav av narkotika starter på 30
-dagsbøter og går opp til 150 dagsbøter, som er det
-høyeste nivået av dagsbot som etter svensk
-straffelov kan settes. Størrelsen på hver dagsbot
-fastsettes ut fra lovbryterens betalingsevne, fra
-SEK 50 opp til SEK 1000. Minste bøtebeløp etter
-svensk straffelov er SEK 750.7
-Bøter ilegges av påtalemyndigheten ved forelegg – «strafföreläggande» – eller ved at det tas ut
-tiltale og at domstolene idømmer bot.
 
-Åtalsunderlåtelse er en beslutning fra påtalemyndigheten om å unnlate å reise tiltale («underlåta åtal») mot en mistenkt, jf. Rättegångsbalken
-(RB) 20 kap. 7 §. Vedtaket kan sammenlignes med
-påtaleunnlatelse etter norsk straffeprosess, ved at
-det innebærer en skyldkonstatering. Etter svensk
-rett har åtalsunderlåtelsen virkning som en dom,
-og lovbruddet havner i strafferegisteret.8 En åtalsunderlåtelse kan kalles tilbake dersom særskilte
-omstendigheter tilsier det, jf. RB 20 kap. 7 § og 7 b
-§. Tilbakefall til likeartet kriminalitet kan gi
-grunnlag for at åtalsunderlåtelsen tilbakekalles og
-at det blir vurdert en annen reaksjon. Det skal
-normalt ikke legges vekt på nye omstendigheter
-som tilkommer senere enn to år etter beslutningen om åtalsunderlåtelse.9
-Et vilkår for å gi åtalsunderlåtelse er at «något
-väsentligt allmänt eller enskilt intresse ej åsidosätts», jf. RB 20 kap. 7 §. Påtalemyndigheten har
-gitt retningslinjer om hvilke sakstyper det kan gis
-åtaleunderlåtelse i, basert blant annet på en vurdering av de allmenne hensynene som loven viser til.
-Når det gjelder narkotika- og dopinglovbrudd,
-fastslås det at åtalsunderlåtelse «bör inte ske».10
-Alternativer til bøter finnes i liten grad for
-voksne. Straffelovgivningen inneholder reaksjonstyper som åpner for å sette vilkår om hjelp og
-behandling, men disse er ikke aktuelle som alternativ til bøter. Dette innebærer at bøter benyttes
-også overfor rusmiddelavhengige i saker om
-ringa narkotikabrott.
-Det skal nevnes at bøter kan omdannes til
-fengselsstraff i minst 14 dager og inntil 3 måneder, jf. brottsbalken 25 kap. 8 §. Dette reguleres
-nærmere i bötesverkställighetslagen (1979:189).
-Etter sistnevnte lov skal bøter først forsøkes inndrevet før det er aktuelt å beslutte omdannelse til
-fengselsstraff, se 15 § flg. Omdannelse til fengsel
-kan besluttes i de tilfeller hvor bøter ikke har latt
-seg inndrive, og dette beror på manglende betalingsvilje fra den bøtelagte. Omdannelse til fengsel kan også skje om det «av särskilda skäl är
-motiverat från allmän synpunkt». I praksis har
-omdannelse av bøter til fengsel skjedd i noen helt
-få saker årlig.11
-Statistikken over straffereaksjoner viser at det
-i 2021 ble gitt ca. 43 000 straffereaksjoner for
-ringa narkotikabrott, og i ca. 25 000 saker var
-8
+Ringa narkotikabrott straffes normalt med bot, i henhold til et bøtedirektiv fastsatt av påtalemyndigheten.[^166] Bøtedirektivet fastsetter straffenivået for bruk av narkotika og innehav av de fleste typer narkotika opp til mengdegrensene (se liste i punkt 9.1.1.1).
 
-4
-5
-6
+Bruk av narkotika skal normalt straffes med 30 dagsbøter. Innehav av narkotika starter på 30 dagsbøter og går opp til 150 dagsbøter, som er det høyeste nivået av dagsbot som etter svensk straffelov kan settes. Størrelsen på hver dagsbot fastsettes ut fra lovbryterens betalingsevne, fra SEK 50 opp til SEK 1000. Minste bøtebeløp etter svensk straffelov er SEK 750.[^167]
 
-7
+Bøter ilegges av påtalemyndigheten ved forelegg – «strafföreläggande» – eller ved at det tas ut tiltale og at domstolene idømmer bot.
 
-Polislag (1984:387) 9 §.
-Jf. SOU 2023: 62 s. 263.
-Rättslig vägledning 2021:21, Normalstraff för vissa bötesbrott, Utvecklingscentrum, desember 2021, oppdatert
-15. juni 2023.
-Brottsbalken 25 kapittel 2 §.
+Åtalsunderlåtelse er en beslutning fra påtalemyndigheten om å unnlate å reise tiltale («underlåta åtal») mot en mistenkt, jf. Rättegångsbalken (RB) 20 kap. 7 §. Vedtaket kan sammenlignes med påtaleunnlatelse etter norsk straffeprosess, ved at det innebærer en skyldkonstatering. Etter svensk rett har åtalsunderlåtelsen virkning som en dom, og lovbruddet havner i strafferegisteret.[^168] En åtalsunderlåtelse kan kalles tilbake dersom særskilte omstendigheter tilsier det, jf. RB 20 kap. 7 § og 7 b §. Tilbakefall til likeartet kriminalitet kan gi grunnlag for at åtalsunderlåtelsen tilbakekalles og at det blir vurdert en annen reaksjon. Det skal normalt ikke legges vekt på nye omstendigheter som tilkommer senere enn to år etter beslutningen om åtalsunderlåtelse.[^169]
 
-9
-10
-11
+Et vilkår for å gi åtalsunderlåtelse er at «något väsentligt allmänt eller enskilt intresse ej åsidosätts», jf. RB 20 kap. 7 §. Påtalemyndigheten har gitt retningslinjer om hvilke sakstyper det kan gis åtaleunderlåtelse i, basert blant annet på en vurdering av de allmenne hensynene som loven viser til. Når det gjelder narkotika- og dopinglovbrudd, fastslås det at åtalsunderlåtelse «bör inte ske».[^170]
 
-SOU 2023: 62 s. 264.
-Prop. 1984/85:3 s. 42.
-Se Riksåklagarens riktlinjer RåR 2021:1 s. 12.
-Prop. 2020/21:8 s. 6–7. Et eksempel på omdannelse fra
-bøter til fengsel er Högsta domstolens avgjørelse 4. januar
-2024 i saksnr. B 1058-23, som gjaldt gjentatte trafikkovertredelser.
+Alternativer til bøter finnes i liten grad for voksne. Straffelovgivningen inneholder reaksjonstyper som åpner for å sette vilkår om hjelp og behandling, men disse er ikke aktuelle som alternativ til bøter. Dette innebærer at bøter benyttes også overfor rusmiddelavhengige i saker om ringa narkotikabrott.
+
+Det skal nevnes at bøter kan omdannes til fengselsstraff i minst 14 dager og inntil 3 måneder, jf. brottsbalken 25 kap. 8 §. Dette reguleres nærmere i bötesverkställighetslagen (1979:189). Etter sistnevnte lov skal bøter først forsøkes inndrevet før det er aktuelt å beslutte omdannelse til fengselsstraff, se 15 § flg. Omdannelse til fengsel kan besluttes i de tilfeller hvor bøter ikke har latt seg inndrive, og dette beror på manglende betalingsvilje fra den bøtelagte. Omdannelse til fengsel kan også skje om det «av särskilda skäl är motiverat från allmän synpunkt». I praksis har omdannelse av bøter til fengsel skjedd i noen helt få saker årlig.[^171]
+
+Statistikken over straffereaksjoner viser at det i 2021 ble gitt ca. 43 000 straffereaksjoner for ringa narkotikabrott, og i ca. 25 000 saker var dette hovedlovbruddet. I sakene hvor ringa narkotikabrott var hovedlovbruddet, ble reaksjonen satt til bot i mer enn 80 % av tilfellene. Den resterende andelen er i hovedsak åtalsunderlåtelser gitt i saker hvor lovbryteren skal straffes for et annet lovbrudd, og det ikke er behov for noen ytterligere reaksjon for narkotikalovbruddet.[^172] Etter norske forhold dreier dette seg om såkalte prosessøkonomiske påtaleunnlatelser etter straffeprosessloven § 70.
+
+Straffereaksjoner ved narkotikabrott av normalgraden
+
+For de narkotikalovbrudd som ligger like over bøtegrensene – og dermed over grensen mellom ringa narkotikabrott og normalgraden – er utgangspunktet en kort fengselsstraff.[^173] I sakene som er i det nedre sjikt av normalsgradslovbrudd, og særlig i de sakene som gjelder befatning med narkotika til egen bruk, er det likevel et anvendelsesområde for bruk av ikke-frihetsberøvende straffereaksjoner.
+
+Högsta domstolen har i NJA 2019 side 1032 («tablettförvaringen») gitt uttalelser om valg av straffereaksjoner i det nedre sjikt av narkotikalovbrudd av normalgraden. Domstolen tar her utgangspunkt i at narkotikabrott av normalgraden er en type lovbrudd hvor det «normalt finns en presumtion» for fengselsstraff. Domstolen uttaler videre at det i saker om befatning med narkotika til egen bruk vil være rom for bruk av betinget dom med dagsbøter eller «skyddstilsyn» dersom straffverdigheten («straffvärdet»)[^174] ikke overstiger fengsel i én måned. Dersom straffverdigheten er høyere enn fengsel i én måned, men ikke overstiger tre måneder, kan det idømmes betinget dom eller skyddstilsyn i forening med samfunnstjeneste («samhällstjänst»). Forutsetningen for å idømme disse alternative reaksjonene er normalt at det dreier seg om narkotika til egen bruk. Dersom det ikke dreier seg om egen bruk, eller straffverdigheten overstiger fire måneders fengsel, er det en sterk presumsjon for fengselsstraff.[^175]
+
+For personer med et hjelpebehov vil skyddstillsyn være en aktuell straffereaksjon ved narkotikalovbrudd av normalgraden. Dette er en reaksjon som kan idømmes i stedet for fengselsstraff, i tilfeller hvor bøter ikke anses som en tilstrekkelig reaksjon.[^176] Skyddstilsyn innebærer i likhet med betinget dom at det gjelder en prøvetid, som ved skyddstilsyn er tre år. Skyddstillsyn innebærer i tillegg at den domfelte skal undergis tilsyn («övervakning») av Kriminalvården (tilsvarende Kriminalomsorgen i Norge) i minst ett år. Kriminalvården kan som ledd i slikt tilsyn beslutte at den domfelte skal pålegges tiltak for å redusere risikoen for tilbakefall til nye lovbrudd. Dette kan for eksempel innebære deltakelse i misbruksrelatert programvirksomhet, psykiatrisk behandling eller plikt til å avgi rusprøver for å kontrollere at domfelte ikke er påvirket av alkohol eller andre rusmidler.[^177]
+
+Ved idømmelse av skyddstilsyn kan domstolen fastsette en særskilt behandlingsplan som ledd i reaksjonen, kalt «kontraktsvård». Dette er aktuelt for personer som har en avhengighetslidelse, og hvor lovbruddet er begått som ledd i avhengigheten. Den domfelte må samtykke til de tiltak som fastsettes.
+
+Statistikken over ilagte straffereaksjoner viser at det i 2020 ble ilagt straff i saker om narkotikalovbrudd av normalgraden i 4110 saker. Kun de mest brukte reaksjonene nevnes her: Det ble dømt til fengsel i 1561 saker, til skyddstilsyn i 1475 saker, til samfunnstjeneste i 231 saker og i 811 saker ble det idømt betinget dom.[^178] Åtalsunderlåtelser er en strafferettslig reaksjon som kommer i tillegg til disse. Statistikk fra 2021 viser at åtalsunderlåtelse nesten ikke brukes i denne sakstypen.[^179]
+
+Straffereaksjoner overfor ungdom i narkotikasaker
+
+Ungdom blir særbehandlet i svensk straffelovgivning. De straffes gjennomgående mildere enn voksne, og det finnes flere egne straffereaksjoner spesielt for ungdom som tar sikte på å forebygge nye lovbrudd. De strafferettslige reaksjonene forutsetter at politiet, påtalemyndigheten og domstolene har kunnskap om den enkelte ungdommens livssituasjon og oppfølgingsbehov. Derfor er det også gitt regler om personutredning i straffesaker mot ungdom. Det redegjøres kort for dette her, samt for de ulike strafferettslige reaksjonene som er aktuelle for ungdom i mindre alvorlige narkotikasaker.
+
+Når politiet iverksetter etterforsking mot en person under 18 år for et lovbrudd som kan medføre fengselsstraff, skal socialnämnden underrettes om dette, jf. lov 1964:167 om särskilda bestämmelser om unga lagöverträdare (LUL). Socialnämndene er kommunale organer som har ansvaret for kommunenes oppgaver etter socialtjänstlagen og andre lover, blant annet når det gjelder støttetiltak og inngrep overfor barn. Det er også hjemmel for å innhente personutredning i saker hvor ungdommen har passert 18 år på gjerningstiden, dersom dette vurderes å ha betydning for reaksjonsspørsmålet. I slike tilfeller er det Kriminalvården som står for personutredningen.[^180]
+
+I normaltilfeller skal det i U18-saker gjøres en personutredning parallelt med etterforskingen av straffesaken. Dette gjøres gjennom en uttalelse fra socialnämnden. Politiet og påtalemyndigheten er forpliktet til å innhente en slik uttalelse før det treffes påtalevedtak i saken. Dette gjelder likevel ikke dersom det antas at straffesaken vil resultere i straffvarning eller åtalsunderlåtelse, eller det ellers anses unødvendig, jf. LUL 11 §.
+
+Uttalelsen skal inneholde en vurdering av om ungdommen har behov for tiltak for å motvirke en uheldig utvikling. Uttalelsen skal også inneholde en redegjørelse for de tiltak som tidligere har vært forsøkt, og hvilke tiltak som socialnämnden har til hensikt å iverksette. Tiltakene skal fremkomme i en ungdomskontrakt dersom de planlegges vedtatt etter socialtjänstlagen, eller i en omsorgsplan («vårdplan») dersom de skal vedtas med hjemmel i lov 1990:52 om «särskilda bestämmelser om vård av unga». Det skal også gis en uttalelse om egnetheten av ulike straffereaksjoner for ungdom.[^181]
+
+De aktuelle strafferettslige reaksjonene for ungdom i mindre alvorlige narkotikasaker er i praksis bøter med ungdomsreduksjon[^182], straffvarning, ungdomsvård og ungdomstjänst. Det vises til tabell 9.1 under med statistikk over de mest brukte reaksjonene overfor ungdom.
+
+Det skal knyttes noen bemerkninger til enkelte av reaksjonene.
+
+*Straffvarning* er en egen type åtalsunderlåtelse (påtaleunnlatelse) for barn mellom 15 og 17 år.[^183] Begrepet straffvarning ble innført i lovgivningen i 2015, for å tydeliggjøre at det handler om en strafferettslig reaksjon på et lovbrudd og at det er en advarsel om at nye lovbrudd kan føre til en strengere reaksjon. Straffvarning innebærer at påtalemyndigheten ikke reiser tiltale og at det ikke gis noen straff i tradisjonell forstand. I likhet med åtalsunderlåtelse for voksne kan straffvarning trekkes tilbake dersom ungdommen begår nye lovbrudd.
+
+Straffvarning kan gis i situasjoner hvor ungdommen undergis tiltak etter socialtjänstlagen (2001:453), lov om vård av unga (1990:52), eller andre tiltak som innebærer at den unge får hjelp og støtte.[^184] Dette kan ses i sammenheng med socialnämndens utredning av ungdommen, som er beskrevet over. Det må også gjøres en vurdering fra påtalemyndigheten om at de planlagte tiltakene innebærer en reaksjon som anses som mest egnet for ungdommen. Straffvarning innebærer dermed en reaksjon med videre oppfølging.
+
+Det skal nevnes at straffvarning etter LUL også kan gis i tilfeller hvor det er åpenbart at ungdommen har begått lovbruddet «av okynne eller förhastande» (uvitenhet mv.). Riksåklagaren har i retningslinjene for behandlingen av ungdomssaker gitt direktiv om at dette alternativet ikke skal benyttes i narkotikasaker:[^185]
+
+«Straffvarning bör inte ges p.g.a. brottets art och då den unge ofta kan ha ett vårdbehov.»
+
+*Ungdomsvård* er en egen straffereaksjon som kan idømmes overfor ungdom mellom 15 og 17 år som har et særskilt behov for omsorg («vård») eller tiltak etter socialtjänstlagen eller lov om vård av unga (1990:63).[^186] Reaksjonen kan også gis til ungdom mellom 18 og 20 år, dersom særlige grunner tilsier det. For å kunne idømme ungdomsvård må det foreligge en uttalelse fra socialnämnden som nevnt i LUL 11 § (eller Kriminalvården i saker om ungdom over 18 år), som beskriver oppfølgingsbehovet og de aktuelle tiltakene, nedfelt i en ungdomskontrakt. Dommen skal fastsette at ungdommen må følge ungdomskontrakten, og innholdet av kontrakten skal fremgå av dommen.[^187]
+
+*Ungdomstjänst* er en reaksjon som kan idømmes overfor personer som er mellom 15 og 17 år dersom reaksjonen er egnet på bakgrunn av vedkommendes personlige forhold og øvrige omstendigheter. Reaksjonen innebærer ulønnet arbeid og annen særskilt pålagt virksomhet i mellom 20 og 150 timer. Reaksjonen kan også idømmes overfor personer mellom 18 og 20 år dersom særlige grunner taler for det.
+
+Ungdomstjänst kan idømmes dersom reaksjonen anses som en tilstrekkelig reaksjon tatt i betraktning lovbruddets straffverdighet og ungdommens tidligere lovbrudd, og det ikke er tilstrekkelig grunn til å reagere med ungdomsvård. Dette tilsier at ungdomstjänst er aktuelt dersom det ikke foreligger oppfølgingsbehov overfor ungdommen. I 2021 ble det også lovfestet at i valget mellom bøter og ungdomstjänst skal ungdomstjänst velges dersom reaksjonen «inte är alltför inngripande».[^188]
+
+Reaksjonene ungdomsvård og ungdomstjänst gjennomføres av socialnämndene.[^189] De lignende reaksjonstypene for voksne, slik som samhällstjänst, iverksettes og gjennomføres av Kriminalvården. Dette har sammenheng med at straffereaksjonene for ungdom har nær tilknytning til tiltak overfor barn etter blant annet sosialtjänstlagen, som socialnämndene har det lovfestede
+
+Straffereaksjoner overfor ungdom 15–17 år for brudd på narkotikastrafflagen i 2017.ansvaret for.
+
+02J1xt1
+
+|                                  |       |
+|----------------------------------|-------|
+|                                  | Andel |
+| Bot (enten i dom eller forelegg) | 32 %  |
+| Straffvarning                    | 33 %  |
+| Ungdomsvård                      | 27 %  |
+| Ungdomstjänst                    | 7 %   |
+| Øvrig                            | 1 %   |
+
+Kilde: Socialstyrelsens rapport «Vårdinsats som rättslig reaktion för unga som lagförs för narkotikabrott», juni 2022, s. 49.
+
+#### Antallet anmeldelser og straffereaksjoner for narkotikalovbrudd
+
+I Sverige var det i 2021 ca. 118 000 anmeldte forhold etter narkotikastrafflagen, som omfatter alt fra mindre alvorlige til grove narkotikalovbrudd. Antallet anmeldelser i 2021 innebærer en økning på 25 % sammenlignet med 2012. Antallet personer som er straffet etter den minst alvorlige narkotikabestemmelsen som gjelder ved bruk av og befatning med narkotika til egen bruk – «ringa narkotikabrott» etter narkotikastrafflagen 2 § – fremkommer av tabell 9.2.
+
+Antallet straffede personer for ringa narkotikabrott 2010–2021
+
+07J2xt2
+
+<table>
+<colgroup>
+<col style="width: 8%" />
+<col style="width: 11%" />
+<col style="width: 6%" />
+<col style="width: 8%" />
+<col style="width: 12%" />
+<col style="width: 24%" />
+<col style="width: 6%" />
+<col style="width: 8%" />
+<col style="width: 12%" />
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2">År</td>
+<td rowspan="2">Sum totalt</td>
+<td rowspan="2"></td>
+<td colspan="2">Alder</td>
+<td rowspan="2">Derav hovedlovbruddtotalt</td>
+<td rowspan="2"></td>
+<td colspan="2">Alder</td>
+</tr>
+<tr>
+<td>15–20</td>
+<td>21–</td>
+<td>15–20</td>
+<td>21–</td>
+</tr>
+<tr>
+<td>2010</td>
+<td>40 186</td>
+<td></td>
+<td>8 674</td>
+<td>31 512</td>
+<td>16 952</td>
+<td></td>
+<td>4 809</td>
+<td>12 143</td>
+</tr>
+<tr>
+<td>2011</td>
+<td>43 438</td>
+<td></td>
+<td>9 783</td>
+<td>33 655</td>
+<td>18 623</td>
+<td></td>
+<td>5 318</td>
+<td>13 305</td>
+</tr>
+<tr>
+<td>2012</td>
+<td>43 177</td>
+<td></td>
+<td>10 545</td>
+<td>32 631</td>
+<td>20 027</td>
+<td></td>
+<td>6 104</td>
+<td>13 923</td>
+</tr>
+<tr>
+<td>2013</td>
+<td>39 391</td>
+<td></td>
+<td>9 537</td>
+<td>29 853</td>
+<td>18 103</td>
+<td></td>
+<td>5 608</td>
+<td>12 495</td>
+</tr>
+<tr>
+<td>2014</td>
+<td>40 923</td>
+<td></td>
+<td>9 062</td>
+<td>31 861</td>
+<td>18 484</td>
+<td></td>
+<td>5 292</td>
+<td>13 192</td>
+</tr>
+<tr>
+<td>2017</td>
+<td>39 887</td>
+<td></td>
+<td>9 416</td>
+<td>30 471</td>
+<td>18 192</td>
+<td></td>
+<td>5 361</td>
+<td>12 831</td>
+</tr>
+<tr>
+<td>2018</td>
+<td>41 384</td>
+<td></td>
+<td>10 020</td>
+<td>31 363</td>
+<td>20 007</td>
+<td></td>
+<td>6 029</td>
+<td>13 977</td>
+</tr>
+<tr>
+<td>2019</td>
+<td>44 861</td>
+<td></td>
+<td>11 412</td>
+<td>33 449</td>
+<td>22 682</td>
+<td></td>
+<td>7 090</td>
+<td>15 592</td>
+</tr>
+<tr>
+<td>2020</td>
+<td>46 142</td>
+<td></td>
+<td>11 019</td>
+<td>35 123</td>
+<td>24 861</td>
+<td></td>
+<td>7 114</td>
+<td>17 747</td>
+</tr>
+<tr>
+<td>2021</td>
+<td>42 962</td>
+<td></td>
+<td>9 492</td>
+<td>33 470</td>
+<td>24 667</td>
+<td></td>
+<td>6 480</td>
+<td>18 187</td>
+</tr>
+</tbody>
+</table>
+
+Kilde: SOU 2023: 62 s. 273.
+
+Det er også en høy prosent av narkotikasakene som ender med oppklaring – 97 % i 2022.[^190] Den høye oppklaringsprosenten forklares i SOU 2023: 62 med at befatning med narkotika til egen bruk er relativt lett oppklarte lovbrudd, da det finnes en mistenkt og lovbruddet lett kan bevises gjennom prøvetaking.[^191] Det uttales videre at statistikken viser at politiet prioriterer narkotikalovbrudd, og at politiet har tilstrekkelige virkemidler for å oppklare en høy andel av sakene:[^192]
+
+Dock visar antalet lagförda brott att polisen prioriterar brottstypen och har tillräckliga bevismedel för att uppnå en hög uppklaringsprocent.
+
+### Danmark
+
+#### De straffbare handlinger i narkotikasaker
+
+De straffbare handlingene i mindre alvorlige narkotikasaker følger av lov om euforiserende stoffer (lovbekentgørelse nr. 1334 av 9. desember 2019) §§ 1 og 2. Bestemmelsene fastslår at inn- og utførsel, salg, kjøp, utlevering, mottakelse, fremstilling, produksjon og besittelse av narkotika er forbudt. Bruk er ikke en straffbar handling i seg selv. Besittelse og erverv av narkotika til egen bruk er imidlertid straffbart. Det innebærer at politiet kan iverksette etterforsking av besittelse eller erverv av narkotika når de påtreffer en person som fremstår påvirket av narkotika.
+
+Strafferammen og aktuelle straffereaksjoner er regulert i lov om euforiserende stoffer § 3 stk. 1:
+
+Overtrædelse af denne lov eller de i medfør af den udfærdigede forskrifter straffes med bøde eller fængsel indtil 2 år. Ved udmåling af straffen, herunder ved fastsættelse af bøder, skal der lægges vægt på skadevirkningerne af de pågældende stoffer. Advarsel kan i almindelighed ikke meddeles, medmindre sociale forhold taler for at meddele en advarsel og besiddelsen af stoffet er udslag af en stærk afhængighed som følge af et længere og vedvarende misbrug af euforiserende stoffer.
+
+De mer alvorlige narkotikalovbruddene rammes av dansk straffelov § 191. Bestemmelsen rammer grovt sett den profittmotiverte befatningen med store mengder narkotika. Strafferammen er fengsel i inntil 10 år og inntil 16 år hvis lovbruddet gjelder et særlig farlig eller skadelig stoff.
+
+Erverv og besittelse av narkotika er straffbart også for rusmiddelavhengige. For tunge rusmiddelavhengige er det en egen ordning for advarsel ved besittelse av narkotika til egen bruk, som omtales nærmere nedenfor.
+
+#### Brukerrom – «stofindtagelsesrum»
+
+I Danmark er det flere steder opprettet brukerrom drevet av kommunen eller av selveiende institusjoner. Besittelse av narkotika til egen bruk inne på slike brukerrom (og i umiddelbar nærhet av disse), forfølges i praksis ikke av politiet hvis personen er over 18 år, og hvis personen som følge av lang og vedvarende misbruk av narkotika har en sterk avhengighet av det aktuelle stoffet. Politiet vil i slike situasjoner normalt heller ikke beslaglegge narkotika fra denne persongruppen. For personer som *ikke* har en sterk avhengighet som nevnt, skal politiet reagere som ellers, også når det gjelder besittelse av narkotika til egen bruk.[^193]
+
+#### Straffereaksjoner ved befatning med narkotika til egen bruk
+
+Generelt
+
+Besittelse av narkotika til egen bruk straffes som det helt klare utgangspunkt med bøter, i overensstemmelse med bøtesatser fastsatt av Rigsadvokaten (se tabell 9.3). Dette gjelder også i gjentakelsestilfeller, likevel slik at bøtene økes ved gjentatte lovbrudd.
+
+Bøtegrenser ved besittelse av narkotika til egen bruk i Danmark.
+
+02J1xt1
+
+|                       |              |
+|-----------------------|--------------|
+| Stoffnavn             | Bøtegrense   |
+| Hasj mv.              | 99,9 gram    |
+| Marihuana             | 499,9 gram   |
+| Hampeplanter          | 999,9 gram   |
+| Khat                  | 2999 gram    |
+| Heroin                | 4,9 gram     |
+| LSD                   | 49 doser     |
+| Amfetamin             | 4,9 gram     |
+| Kokain                | 4,9 gram     |
+| Ecstasy               | 19 tabletter |
+| Morfinbase og -klorid | 4,9 gram     |
+| Morfinpiller          | 49 tabletter |
+| Råopium               | 4,9 gram     |
+| Legemidler            | 99 tabletter |
+
+Kilde: Rigsadvokatmeddelelsen, Narkotika, versjon 22. mai 2024, punkt 5.1
+
+Bøtene ved førstegangsovertredelser varierer fra DKK 2000–8000, mens det ved tredjegangs eller senere overtredelser gis fra DKK 6000–16000.
+
+Besittelse av narkotika over bøtegrensene medfører i utgangspunktet fengselsstraff, også i de tilfeller hvor det ikke kan bevises at det er tale om besittelse med sikte på overdragelse. Fengsel vil være utgangspunktet ved salg av narkotika, også innenfor bøtegrensene som er nevnt over.[^194]
+
+Bøtegrensene gjelder for besittelse av narkotika til egen bruk. Hvorvidt besittelsen er til egen bruk, er et bevisspørsmål i den enkelte sak. Rigsadvokaten har laget en egen tabell som angir hvilke mengder narkotika som i utgangspunktet skal anses å være til egen bruk – altså en presumsjonsregel.[^195] Tabellen angir lavere grenser enn bøtegrensene, men det oppgis samtidig at dette ikke er absolutte grenser for hva som skal kunne anses å være til egen bruk. Tabellen er nærmere omtalt i punkt 10.5.3.2 om terskelverdier.
+
+Antall strafferettslige reaksjoner i Danmark for brudd på lov om euforiserende stoffer, for personer over 18 år. Utvalgte reaksjoner.<sup>1</sup>
+
+06J1xt2
+
+|  |  |  |  |  |  |
+|----|----|----|----|----|----|
+|  | 2019 | 2020 | 2021 | 2022 | 2023 |
+| Bot<sup>2</sup> | 15 178 | 13 311 | 8 055 | 11 613 | 13 231 |
+| Ubetinget fengsel | 2 765 | 2 585 | 2 896 | 2 721 | 3 146 |
+| Betinget fengsel | 505 | 689 | 680 | 656 | 769 |
+| Tiltalefrafald med og uten vilkår | 327 | 430 | 593 | 418 | 545 |
+| – hvorav prosessøkonomisk begrunnet (rpl. § 722 stk. 1 nr. 4) | 295 | 354 | 441 | 326 | 458 |
+| Antall reaksjoner totalt | 20 491 | 18 687 | 16 651 | 17 195 | 19 641 |
+| Bot i % av antallet reaksjoner totalt | 74 % | 71 % | 48 % | 68 % | 67 % |
+
+<sup>1</sup> Tabellen bygger på tall mottatt fra Rigsadvokaten, hentet ut fra Politiets Sagsstyringssystem (POLSAS). Tallene er beheftet med noe usikkerhet, blant annet fordi avgjørelser i enkeltsaker kan bli endret i ettertid. Tallene bør derfor kun benyttes som en indikasjon.
+
+<sup>2</sup> Tallene omfatter «bøteforelegg» og bøter idømt av retten ved «dom uden retsmøde».
+
+Tabell 9.4 viser tall for de vanligst brukte strafferettslige reaksjonene ved overtredelse av lov om euforiserende stoffer. For mindre alvorlige overtredelser er det i all hovedsak bot som benyttes som straffereaksjon. Sett bort fra 2021, som fremstår som et unntaksår, har bot blitt gitt i ca. 70 % av sakene. Tallene for tiltalefrafald omfatter i det vesentlige saker hvor tiltalefrafald er gitt av prosessøkonomiske grunner.[^196] Tiltalefrafald av andre grunner forekommer i liten utstrekning. Det benyttes også andre typer reaksjoner enn de som nevnes i tabellen, og kombinasjoner av reaksjoner, men disse reaksjonene utgjør små andeler av det samlede antallet reaksjoner. Tall over bruken av advarsel fremkommer i figur 9.1 under.
+
+Advarsel som strafferettslig reaksjon ved narkotikalovbrudd
+
+Lov om euforiserende stoffer § 3 inneholder som nevnt over en hjemmel til å gi *advarsel* for besittelse av narkotika til egen bruk. Advarsel betyr i denne sammenheng det samme som «tiltalefrafald» etter retsplejeloven § 722. Sistnevnte bestemmelse gir generelle regler om når tiltale kan frafalles i sin alminnelighet. Hjemmelen til advarsel etter lov om euforiserende stoffer § 3 kan anses som en spesialregel i saker om befatning med narkotika til egen bruk.
+
+Rigsadvokaten har gitt retningslinjer for bruk av advarsel i saker om besittelse av narkotika til egen bruk.[^197] Retningslinjene legger opp til at advarsel kan gis i to ulike situasjoner.
+
+For det første kan advarsel gis i tilfeller hvor lovbryteren *ikke er tidligere straffet* for narkotikalovbrudd, og det etter en konkret vurdering anses mest formålstjenlig å gi en advarsel for forholdet. Det er et tilleggskrav at hensynet til en «effektiv strafforfølgning» tilsier dette, eller at bøtestraff vil medføre «administrativt besvær» som ikke står i rimelig forhold til sakens omstendigheter. Advarsel kan gis også i gjentakelsestilfeller for besittelse av hasj til eget forbruk. Advarsel gis i dette tilfellet med hjemmel i retsplejeloven § 722 stk. 1 nr. 7, som gir hjemmel for tiltalefrafall i tilfeller hvor dette følger av bestemmelser satt av justisministeren eller Rigsadvokaten. Tall som utvalget har mottatt fra Rigsadvokaten viser at denne hjemmelen for advarsel kun brukes i noen helt få saker hvert år.
+
+For det andre kan advarsel gis når *sosiale hensyn* taler for det, og besittelsen av stoffet er utslag av en *sterk avhengighet som følge av et lengre og vedvarende misbruk av narkotika*. I disse tilfellene kan advarsel gis både ved førstegangs overtredelse og ved senere overtredelser. Vilkårene er kumulative, slik at det både kreves en sterk rusmiddelavhengighet og at sosiale forhold taler for at det gis advarsel. Etter ordlyden «kan» det gis advarsel når vilkårene er oppfylt. Rigsadvokatens retningslinjer uttaler imidlertid at advarsel *skal gis* når vilkårene er oppfylt.[^198]
+
+Det fremkommer av retningslinjene at sosiale forhold taler for en advarsel dersom lovbryteren har begrensede inntekter og heller ikke har oppsparte midler til å betale en bot. Dersom vedkommende har arbeidsinntekt eller mottar dagpenger, er vilkåret om sosiale hensyn ikke oppfylt.
+
+Når det gjelder vilkåret om sterk avhengighet, uttaler retningslinjene:
+
+Brugen af euforiserende stoffer anses som et udslag af stærk afhængighed som følge af et længere og vedvarende misbrug af euforiserende stoffer, hvis der er tale om personer, som igennem år har opbygget en så stærk afhængighed af hårde stoffer, at de bruger disse stoffer dagligt.
+
+Det forutsettes altså at det er tale om et daglig forbruk, og at avhengigheten gjelder «hårde stoffer». Retningslinjene gir ikke nærmere veiledning om hvilke stoffer dette gjelder.
+
+Det presiseres at personer som kun leilighetsvis, for eksempel i helger og på fester, bruker narkotika, ikke kvalifiserer til en advarsel av sosiale hensyn. Dette gjelder selv om de skulle ha «en vis avhængighed af stoffet». Dette innebærer at den danske advarselsordningen skiller mellom ulike grader av avhengighet, og at man forbeholder advarselsordningen for den tyngre gruppen av rusmiddelavhengige.
+
+Adgangen til å gi advarsel gjelder besittelse av narkotika til egen bruk. Hvorvidt besittelsen gjelder narkotika til egen bruk, må avgjøres etter en konkret vurdering. Retningslinjene punkt 4.1 angir veiledende grenser for hvilke mengder narkotika som kan anses å være til egen bruk. Ved besittelse av mengder som overstiger de veiledende grensene i tabellen, anses forholdet som besittelse med sikte på overdragelse. Det vil dermed ikke være anledning til å gi advarsel.
+
+I praksis er advarsel svært lite brukt som strafferettslig reaksjon i mindre alvorlige narkotikasaker i Danmark. Tall som utvalget har mottatt fra Rigsadvokaten, viser at antallet advarsler normalt ligger under 100 i året, jf. figur 9.1. Til sammenligning ilegges det årlig ca. 20 000 strafferettslige reaksjoner i denne sakstypen i Danmark.
+
+Antall advarsler gitt i saker etter lov om euforiserende stoffer, 2014–2023.
+
+Kilde: Rigsadvokaten
+
+Straffereaksjoner overfor ungdom
+
+Personer under 18 år kan i utgangspunktet idømmes de samme straffereaksjoner som voksne personer. Lav alder er imidlertid, som i Norge, generelt sett et formildende forhold ved reaksjonsfastsettelsen, jf. dansk straffelov § 82 nr. 1. Saker med lovbrytere under 18 år søkes generelt avgjort med bøter, tiltalefrafall (herunder advarsel), betinget dom eller såkalt ungdomsanksjon.[^199] For ungdommers befatning med mindre mengder narkotika til egen bruk er det bøter, tiltalefrafall og betinget dom som er de aktuelle reaksjonene.
+
+Saker som overfor voksne kan avgjøres med bot, skal som hovedregel avgjøres med bøter også overfor personer under 18 år. Dette innebærer at bot er den normale straffereaksjonen overfor ungdom som besitter narkotika til egen bruk innenfor bøtegrensene. Bøtene skal likevel nedsettes for ungdom etter nærmere direktiver fra Rigsadvokaten. Bøtene skal nedsettes til halvparten av nivået for voksne, dog ikke lavere enn DKK 500.[^200]
+
+Dansk straffelovgivning inneholder, som tidligere nevnt, regler om såkalt tiltalefrafald, jf. retsplejeloven § 722. Tiltalefrafald innebærer at påtalemyndigheten avstår fra ytterligere straffeforfølgning, og kan gis både med og uten vilkår.
+
+Antallet strafferettslige reaksjoner overfor personer under 18 år i saker etter lov om euforiserende stoffer, utvalgte reaksjoner, 2019–2023.<sup>1</sup>
+
+06J1xt2
+
+|                                       |       |       |      |      |       |
+|---------------------------------------|-------|-------|------|------|-------|
+|                                       | 2019  | 2020  | 2021 | 2022 | 2023  |
+| Bot<sup>2</sup>                       | 978   | 848   | 647  | 805  | 901   |
+| Tiltalefrafald med og uten vilkår     | 8     | 26    | 32   | 33   | 25    |
+| Betinget fengsel                      | 46    | 51    | 52   | 49   | 62    |
+| Antall reaksjoner totalt              | 1 145 | 1 030 | 834  | 990  | 1 085 |
+| Bot i % av antallet reaksjoner totalt | 85 %  | 82 %  | 78 % | 81 % | 83 %  |
+
+<sup>1</sup> Tall mottatt fra Rigsadvokaten, hentet ut fra Politiets Sagsstyringssystem (POLSAS). Tallene bør kun benyttes som en indikasjon.
+
+<sup>2</sup> Tallene omfatter «bøteforelegg» og bøter idømt av retten ved «dom uden retsmøde».
+
+Tabell 9.5 viser at det overfor ungdom i all hovedsak gis bot i saker om mindre alvorlige narkotikalovbrudd. Tiltalefrafall forekommer i liten grad, både med og uten vilkår. Det forekommer også andre typer reaksjoner enn de som nevnes i tabellen, herunder fengsel og kombinasjoner av ulike reaksjoner. Disse reaksjonene utgjør hver for seg små andeler av det totale antallet reaksjoner.
+
+#### Antallet anmeldelser for narkotikalovbrudd
+
+Utvalget har mottatt tall fra Rigsadvokaten over antallet anmeldelser i saker om mindre alvorlige narkotikalovbrudd. Figur 9.2 viser at antallet anmeldelser etter den minst alvorlige narkotikabestemmelsen i Danmark har ligget nokså stabilt rundt 20 000 saker årlig.
+
+Antall anmeldelser for overtredelse av lov om euforiserende stoffer, fra 2014–2023.
+
+Kilde: Rigsadvokaten
+
+## Innspill til utvalget – generelt
+
+Utvalgets invitasjon til innspill, oversikt over hvilke aktører som har gitt innspill og gjennomføringen av innspillsmøter er omtalt i punkt 1.3. I dette punktet gis det en oversikt over innspillene som knytter seg til den strafferettslige delen av utvalgets mandat, nemlig å utrede en lovregulering av straffutmålingsordningen ved rusmiddelavhengiges befatning med narkotika til egen bruk. Utvalget vil her begrense seg til å redegjøre for noen overordnede temaer som er berørt i innspillene, samt å gi en oversikt over øvrige strafferettslige temaer det er gitt innspill om. Utvalget vil komme tilbake til innspillene i tilknytning til vurderingene av de enkelte strafferettslige temaer i kapittel 10.
+
+Det er bred støtte blant innspillsaktørene til regjeringens uttrykte mål om at rusmiddelavhengige skal møtes med god helsehjelp og oppfølging istedenfor straffereaksjoner, i saker om bruk av og befatning med narkotika til egen bruk. Det synes å være stor grad av enighet på tvers av aktørene om at straff i tradisjonell forstand er lite hensiktsmessig overfor personer som er rusmiddelavhengige.
+
+Til tross for at det er stor enighet om dette formålet, er det delte meninger om hvorvidt det bør være en egen straffutmålingsordning for rusmiddelavhengige. *Universitet i Oslo, Senter for Rus- og Avhengighetsforskning (SERAF)*, gir uttrykk for at den medisinske diagnosen rusmiddelavhengighet ikke er hensiktsmessig for å avgjøre hvilken samfunnsmessig reaksjon som skal gis ved narkotikabruk, og at det ikke bør differensieres ut fra om vedkommende har en ruslidelse eller ikke. Personer som har befatning med ulovlige rusmidler bør vurderes for en reaksjon uavhengig av om de er rusmiddelavhengige eller ikke. Andre aktører har gitt innspill om at de støtter et differensiert reaksjonssystem for personer med rusmiddellidelser.
+
+Behovet for lovregulering av straffutmålingsordningen for rusmiddelavhengige er behandlet av noen innspillsaktører. I hovedsak kommer dette til uttrykk gjennom innspill om temaer som er uavklart i dagens rettstilstand, eller om temaer hvor det er behov for at lovgiver foretar endringer. Utvalget har mottatt en rekke innspill om temaer som det er behov for lovregulering av. Et eksempel på dette er innspillet fra *Vestfold, Telemark og Buskerud statsadvokatembeter* om at ungdom bør være unntatt fra straffutmålingsordningen for rusmiddelavhengige, slik at det kan settes forebyggende særvilkår overfor ungdom selv om de har en rusmiddellidelse. Et annet eksempel er terskelverdier for hvor mye narkotika som skal kunne anses å være til egen bruk, hvor en rekke aktører har gitt innspill om at terskelverdiene bør reduseres i forhold til dagens rettstilstand. Et tredje eksempel er *Riksadvokatembetets* innspill om at den nedre grensen for hvem som i strafferettslig forstand skal anses som rusmiddelavhengig, er uklar etter gjeldende rett.
+
+Det er få eksempler på aktører som mener at det ikke er behov for lovregulering av straffutmålingsordningen for rusmiddelavhengige. *Møre og Romsdal statsadvokatembeter* tar til orde for at det ikke er behov for noen lovregulering av straffutmålingsordningen. Gjeldende rett gir en fleksibilitet i straffutmålingen som man vil kunne miste ved en lovregulering. Videre rettsutvikling bør skje gjennom domstolenes praksis og gjennom direktiver i påtalemyndigheten. *Foreningen Tryggere Ruspolitikk* gir uttrykk for at det ikke er naturlig å lovfeste straffutmålingsordningen ved bestemte typer lovbrudd, da hjemlene for straffutmålingsfrafall og påtaleunnlatelse mv. er generelle og skjønnsmessige. *Sør-Øst politidistrikt* gir på sin side uttrykk for at det er usikkert om det er behov for en egen hjemmel for straffutmålingsfrafall og påtaleunnlatelse overfor rusmiddelavhengige, ut over de føringer man per i dag har i rettspraksis og direktiver fra riksadvokaten.
+
+Ut over de mer overordnede temaer som er nevnt her, har utvalget fått innspill om en rekke problemstillinger knyttet til den strafferettslige delen av utvalgets mandat. Innspillene gjelder i hovedtrekk følgende strafferettslige temaer:
+
+- Rettslig avgrensning av begrepet rusmiddelavhengig (omtales nærmere i punkt 10.2.4).
+
+- Gradering av rusmiddelavhengigbegrepet (omtales nærmere i punkt 10.2.6).
+
+- Virkeområdet for straffutmålingsordningen, herunder om den bør begrenses til personer over 18 år og avgrenses mot lovbrudd på visse steder eller situasjoner (omtales nærmere under punkt 10.7, se også kapittel 16 og 17).
+
+- Beviskrav og bevisvurdering (omtales nærmere i punkt 10.6).
+
+- Terskelverdier (omtales nærmere i punkt 10.5).
+
+# Utvalgets vurderinger og forslag
+
+## Mandatet
+
+Det vises til punkt 1.2 og punkt 7 der mandatet er nærmere omtalt. Overordnet er strafferettsdelen av utvalgets oppdrag beskrevet slik i mandatets punkt 2:
+
+Utvalget skal utrede og foreslå en lovregulering av utgangspunktet om at rusavhengige normalt skal møtes med straffutmålingsfrafall eller ubetinget påtaleunnlatelse i saker som gjelder bruk av og befatning med mindre mengder narkotika til egen bruk.
+
+Videre er utvalget i mandatets punkt 2 gitt i oppdrag å «utarbeide forslag til lovendringer som innebærer at fengselsstraff avvikles som straffereaksjon for bruk og besittelse av narkotika etter legemiddelloven § 24 første ledd, jf. § 31 andre ledd, i tråd med Stortingets anmodningsvedtak 3. juni 2021 nr. 1114». Anmodningsvedtaket lyder slik:
+
+Stortinget ber regjeringen foreslå lovendringer som sørger for at fengsel ikke lenger blir straffereaksjon for brudd på legemiddellovens bestemmelser om bruk og besittelse av narkotika til eget bruk, herunder også foreslå avbøtende tiltak for konsekvenser av endringer i lov.

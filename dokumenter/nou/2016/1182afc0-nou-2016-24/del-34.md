@@ -1,982 +1,244 @@
-# NOU 2016: 24, del 34 av 73 (side 369–378)
+# NOU 2016: 24, del 34 av 69
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/1182afc0-nou-2016-24.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-24/id2517932/
 - Original-PDF: https://www.regjeringen.no/contentassets/6fe1d875248042b4a09b43b85aa46832/no/pdfs/nou201620160024000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 9 tabeller, 1 figur, 52 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 369]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-«I engelsk og amerikansk rett er det en velkjent
-praksis at påtalemyndigheten tilsier en av de
-medskyldige i en kriminell virksomhet straffrihet eller mildere behandling mot at han opptrer
-som vitne (‘kronvitne’) mot hovedmennene.
-Særlig i kampen mot den organiserte kriminalitet regnes dette som et uunnværlig virkemiddel.
-Slike avtaler om straffrihet ville ikke være lovlige hos oss. […] Men vi har fra praksis eksempler på at påtalemyndigheten har frafalt ansvar
-overfor noen av de impliserte i et lovbrudd for å
-kunne bruke dem som vitner i en straffesak mot
-den eller de hovedansvarlige.»43
-Spørsmålet om adgangen til å gi påtaleunnlatelse
-til impliserte for å utløse vitneplikt har vært
-omdiskutert. I Rt. 1930 s. 344 er det lagt til grunn
-at en slik praktisering av reglene om påtaleunnlatelse vil være illojal, og at den ikke skal ha betydning for vitneplikten. Det er delte meninger om
-hvorvidt avgjørelsen gir et dekkende uttrykk for
-gjeldende rett i dag.44 Som Andenæs og Myhrer
-påpeker, kan det for enkelte sakstyper være gode
-grunner for en slik bruk av påtaleunnlatelse:
-«I saker om menneskesmugling […] har også
-de som er smuglet inn foretatt en straffbar
-handling. De vil samtidig være de viktigste vitner under etterforskingen mot de som organiserer virksomheten. I disse saker vil det derfor
-ofte være aktuelt formelt å frafalle straffeforfølgningen mot de innsmuglede slik at det
-kan foretas rettslig avhør av disse i saken mot
-den eller de som har organisert virksomheten,
-før de innsmuglede bortvises fra riket.»45
-16.8.2.6
-
-foretaket gir en «uforbeholden innrømmelse av
-overtredelsen», jf. tredje ledd annet punktum.
-Reglene er utformet etter mønster av en tilsvarende ordning i EU/EØS.46
-Vesentlig større gebyrreduksjon kan gis til
-foretak som også bidrar til å avsløre andre foretak
-som har tatt del i kartellvirksomhet. Det foretak
-som i en bestemt sak er først ut med å oppfylle
-nærmere bestemte vilkår, herunder av eget tiltak
-fremlegger alle bevis det besitter om det samarbeidet som har funnet sted, kan oppnå såkalt hel
-lempning, det vil si fullstendig fritak fra gebyr, jf.
-konkurranseloven § 30. Foretak som ikke tilfredsstiller vilkårene for hel lempning, kan på nærmere
-vilkår oppnå delvis lempning på inntil 50 prosent.
-Et av vilkårene er at foretaket «fremlegger bevis
-som vesentlig styrker Konkurransetilsynets
-muligheter til å bevise en overtredelse av konkurranseloven § 10», jf. konkurranseloven § 31.
-Formålet med lempningsadgangen er å gi deltakere i ulovlig samarbeid insentiver til å bryte ut
-av samarbeidet og bidra til å avsløre brudd på
-konkurranseloven.47 Overveielsene som ligger til
-grunn for at det i konkurranseloven ble innført
-regler om lempning, fremgår av NOU 2003: 12:
-«Kartellsamarbeid er en form for organisert
-kriminalitet som kjennetegnes ved at flere gjerningsmenn går sammen om en forbrytelse. En
-tilståelse fra en av kartelldeltakerne kan derfor
-medføre at andres overtredelser blir oppdaget.
-Regler om sanksjonslempning er således særlig effektivt i kartellsaker. Lempning er også et
-effektivt virkemiddel fordi kartellvirksomhet
-normalt dreier seg om vedvarende ulovlig prissamarbeid, ikke om enkeltstående episoder.
-En tilståelse vil altså ikke bare bety at forbrytere får sin straff, med de mulige avskrekkende
-virkninger dette kan ha, men vil også stoppe et
-pågående forbrytersk samarbeid.
-Etter økonomisk teori er karteller grunnleggende ustabile. Det vil som regel være fordeler
-forbundet med å bryte ut av et kartell, fordi det
-foretaket som gjør det vil kunne øke sine markedsandeler på bekostning av de øvrige deltakere ved å bryte kartellavtalen. Situasjonen
-kan også være den at et foretak som deltar i et
-kartell får ny ledelse, og at den nye ledelsen
-ikke ønsker å være med på det lovbrudd som
-den forrige ledelsen la opp til. Siden kartellavtalen ikke er rettslig forpliktende, vil det være
-andre forhold enn avtalerettslige forpliktelser
-
-Konkurranselovens regler om kartellforlik
-og ansvarslempning ved samarbeid
-
-Konkurransetilsynet kan ilegge overtredelsesgebyr overfor foretak som har drevet konkurransebegrensende samarbeid med andre foretak,
-herunder prissamarbeid mv., såkalt kartellvirksomhet, jf. konkurranseloven § 29, jf. § 10.
-Ved lov 15. april 2016 nr. 2 ble det innført en
-ordning med såkalt kartellforlik, jf. konkurranseloven § 29 a, som innebærer at foretak kan oppnå
-en 10 prosent reduksjon i overtredelsesgebyr
-gjennom forliksforhandlinger med Konkurransetilsynet. Et av vilkårene for redusert gebyr er at
-43
-
-Andenæs og Myhrer (2009) s. 203–204 (petit).
-Andenæs og Myhrer (2009) s. 204 (petit) og Bjerke, Keiserud og Sæther (2011) s. 297.
-45
-Andenæs og Myhrer (2009) s. 204 (petit).
-
-367
-
-Kapittel 16
-
-44
-
-46
-47
-
-Prop. 37 L (2015–2016) punkt 7.6.3.
-Konkurransetilsynet (01.01.14).
-
-[Side 370]
-
-368
-
-NOU 2016: 24
-
-Kapittel 16
-
-Ny straffeprosesslov
-
-som avholder kartelldeltakerne fra å bryte ut.
-Slike forhold kan være frykt for ikke-rettslige
-sanksjoner fra de øvrige kartelldeltakerne, men
-også frykten for rettslige sanksjoner fra konkurransemyndighetene for brudd på konkurransereglene. Slik sett vil straffetrusselen faktisk virke som et hinder mot at kartelldeltakere
-bryter ut, og dermed stabiliserende på karteller
-som allerede er etablert. Grunntanken bak
-regler om sanksjonslempning i kartellsaker, er
-at kartelldeltakere som ønsker å bryte ut av et
-kartell og dermed bidra til å bringe det konkurranseskadelige samarbeidet til opphør, ikke
-skal avholdes fra det gjennom trusselen om
-straff for det foretaket har vært med på.
-Som det følger nedenfor har flere rettssystemer innført programmer for hel eller delvis lempning av sanksjoner for deltagere som
-overfor konkurransemyndighetene avslører
-kartellsamarbeid. Hovedbegrunnelsen bak
-disse reglene er økt oppdagelsesrisiko, som
-igjen minsker foretakets insentiver til å gå inn i
-et kartellsamarbeid. Utvalget har vurdert om et
-lempningssystem vil effektivisere kontrollen
-med forbudet mot konkurransebegrensende
-avtaler mellom foretak i forslagets § 3-1.
-Dagens konkurranselov har ingen særlige
-bestemmelser om nedsettelse av straff ved
-samarbeid med konkurransemyndighetene.
-Etter den generelle bestemmelsen om straffnedsettelse i straffeloven § 59, kan det gis
-reduksjon av straffen etter en konkret vurdering. Det beror på rettens skjønn om straffen
-skal settes ned. En kartelldeltaker som gir
-Konkurransetilsynet eller påtalemyndigheten
-informasjon om et kartell, vil ikke kunne stole
-på at retten reduserer straffen. Det kan derfor
-anføres at dagens system ikke gir tilstrekkelig
-insentiver for aktørene til å bistå myndighetene
-til å avdekke karteller. […]
-Erfaringer fra andre rettssystemer viser at
-lempningsregler kan være et effektivt virkemiddel i kampen mot karteller. EU har seks års
-erfaring med dette, og stadig flere europeiske
-land innfører lempningsprogrammer for kartellsaker. Dette kan tyde på at lempningsregler
-også kan være et nyttig virkemiddel i Norge. I
-tillegg taler hensynet til harmonisering med
-EU/EØS-reglene i seg selv for å innføre regler
-om sanksjonslempning.
-Lempningsregler virker preventivt fordi de
-bidrar til og forsterker ustabilitet i karteller.
-Ved ustabilitet blir den interne disiplinen i kartellet vanskelig å opprettholde, og det er en
-
-reell mulighet for at enkeltmedlemmer i kartellet bryter ut.
-En ulempe med et lempningssystem, er at
-dette innebærer en fravikelse av prinsippet om
-likebehandling ved ileggelse av reaksjoner for
-lovbrudd. Kartellvirksomhet regnes generelt
-som en alvorlig forbrytelse som i utgangspunktet kvalifiserer for en streng reaksjon. Det at en
-kartelldeltaker som samarbeider med myndighetene skal kunne innrømmes en betydelig
-sanksjonsreduksjon eller fullstendig fritak
-mens resten av kartelldeltakerne ilegges
-strenge sanksjoner, vil innebære at samme lovbrudd sanksjoneres forskjellig i forhold til de
-enkelte deltakerne i kartellet. En regel som tillater at det gis ulik reaksjon for samme forbrytelse kan gi resultater som kan virke støtende
-på folks rettsfølelse. I tillegg er det klart at
-systemet går vesentlig lenger enn praksis
-under straffeloven § 59, og således innebærer
-en nyskapning i norsk rett.
-Hensynet til likebehandling har størst vekt
-i forhold til straffebestemmelser. For sivilrettslige bøter kan det legges større vekt på hensynet til effektivitet og prevensjon enn hensynet
-til skyld, rettferdighet og ansvar. Utvalget viser
-i denne sammenheng til Kommisjonens kunngjøring om bøtefritak eller bøtenedsettelse i
-kartellsaker, hvor det uttales at den interesse
-som forbrukerne og borgerne har i at hemmelige karteller avsløres og straffes, veier tyngre
-enn hensynet til å bøtelegge de foretakene som
-gjør det mulig for Kommisjonen å avsløre og
-forby slike karteller.
-Et system med sanksjonslempning kan
-innebære en risiko for falske anklager eller feilaktige opplysninger. Kravet om at kartelldeltakeren som gir opplysninger skal medvirke
-lojalt under hele etterforskningen, medfører
-imidlertid at denne har en stor interesse av å gi
-korrekte opplysninger. Ved domstolsprøvelse
-vil det i tillegg være opp til domstolene å
-bedømme bevisverdien av de opplysninger
-som påberopes.»48
-
-16.8.3 Fremmed rett
-16.8.3.1
-
-Danmark
-
-I dansk rett er det i utgangspunktet ikke adgang
-til å inngå straffeprosessuelle avtaler mellom
-påtalemyndigheten og siktede. Det påhviler
-påtalemyndigheten en objektivitetsplikt og en
-48
-
-NOU 2003: 12 punkt 6.7.1.
-
-[Side 371]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-plikt til likebehandling, som setter snevre grenser
-for adgangen til å benytte plea bargaining som
-ledd i straffeforfølgningen.49 Domstolene er som i
-norsk rett ubundet av påtalemyndighetens straffepåstand.50
-Danmarks Højesteret har i et par avgjørelser
-uttalt seg om bruken av kronvitner som bevis. På
-bakgrunn av avgjørelsen i UfR 1982.1027H har det
-vært antatt at det som utgangspunkt overhodet
-ikke er adgang til å føre vitner som forklarer seg
-mot medsiktede som ledd i en plea bargainingavtale. I Straffelovrådets betænkning 1424/2002
-Straffastsættelse og strafferammer, der betydningen av siktedes tilståelse og samarbeid med politiet drøftes utførlig, er avgjørelsen gjengitt slik:
-«Højesterets kendelse […] vedrørte en sag om
-overtrædelse af straffelovens § 191, hvor anklagemyndigheden ønskede som vidne at føre en
-person, som såvel i USA, hvor han opholdt sig,
-som i Danmark var sigtet for overtrædelse af
-narkotikalovgivningen.
-Den
-pågældende
-havde i USA i overværelse af repræsentanter
-for den danske anklagemyndighed afgivet forklaring under edsaflæggelse om sine og andres
-aktiviteter med hensyn til import af narkotika i
-USA og Danmark. Der var indgået aftale om, at
-der ikke i Danmark ville blive iværksat yderligere retsforfølgning, og at en udleveringsanmodning ville blive trukket tilbage, såfremt
-han i USA ville blive dømt for de forhold, hvori
-han havde erkendt sig skyldig, og indgik på
-sandfærdigt at afgive forklaring under domsforhandling i Danmark om disse forhold. Da
-den pågældende efter indholdet af aftalen
-havde en åbenbar interesse i under domsforhandlingen at forklare som under efterforskningen og under hensyn til de omstændigheder, hvorunder forklaringerne var tilvejebragt,
-fandtes det uanset sagens omfang og karakter
-betænkeligt at tillade vidneførslen.»51
-Ved Højesterets kjennelse 9. januar 2009, som
-gjelder et lignende saksforhold, ble vitnet likevel
-tillatt ført, idet det synes å være tillagt avgjørende
-vekt at danske myndigheter ikke var direkte part i
-plea bargaining-avtalen:
-«Den danske anklagemyndighed er ikke deltager i de tilståelsesaftaler, der er indgået i denne
-49
-
-Smith mfl. (2008) s. 135.
-Smith mfl. (2008) s. 135.
-51
-Betænkning nr. 1424/2002 kapittel 11, punkt 3.3.2.
-50
-
-369
-
-Kapittel 16
-
-sag, og kan heller ikke – som det ellers er
-anført i byrettens kendelse af 20. november
-2007 – anses for at have tiltrådt aftalerne. Tilkendegivelsen om, at de pågældende ikke vil
-blive strafforfulgt i Danmark for de samme forhold som dem, der er omfattet af sagerne i
-USA, har alene karakter af en oplysning om,
-hvad der følger af princippet om, at ingen må
-strafforfølges to gange for det samme forhold.
-Selv om tilståelsesaftaler som de omhandlede ikke lovligt kan indgås af en dansk anklagemyndighed, kan de dog ikke anses for stridende mod grundlæggende danske retsprincipper. Ordninger, som i et vist omfang har
-samme karakter og formål som de amerikanske tilståelsesaftaler, kendes også i dansk ret.
-Således indeholder straffelovens § 82, nr. 10,
-en bestemmelse om strafnedsættelse i tilfælde,
-hvor gerningsmanden har givet oplysninger,
-som er afgørende for opklaringen af strafbare
-handlinger begået af andre. Efter konkurrencelovens § 23 a kan en virksomhed, der deltager i
-kartel, opnå tiltalefrafald eller strafnedsættelse,
-hvis den samarbejder med myndighederne om
-opklaringen.
-På denne baggrund, og da der ved behandlingen af sager om international kriminalitet
-må tages hensyn til, at andre lande kan have
-straffeprocessuelle regler, som adskiller sig fra
-de danske, kan de retssikkerhedsmæssige
-betænkeligheder, som er baggrunden for, at tilståelsesaftaler som de foreliggende ikke anerkendes i dansk ret, ikke føre til, at anklagemyndigheden afskæres fra at føre de fire personer
-som vidner i den danske straffesag. Ved vurderingen af forklaringernes bevisværdi må det
-imidlertid tages i betragtning, at forklaringerne kan være usande, fordi de er motiverede
-af de lovede fordele.»
-Højesteret tok ikke direkte stilling til påtalemyndighetens anførsler om at UfR 1982.1027H ikke
-lenger gir uttrykk for gjeldende dansk rett. Men
-henvisningen til straffeloven § 82 nr. 10 og til konkurrenceloven § 23 a, sammenholdt med at vitneforklaringene ble tillatt ført til tross for at de reelt
-sett var beheftet med de samme svakheter som i
-1982-avgjørelsen, kan tilsi at rettstilstanden er
-endret.
-I Straffelovrådets ovennevnte betenkning fra
-2002 finner man en vurdering av ulike spørsmål
-knyttet til betydningen av siktedes tilståelse og
-samarbeid med politiet:
-
-[Side 372]
-
-370
-
-NOU 2016: 24
-
-Kapittel 16
-
-Ny straffeprosesslov
-
-«Som det fremgår af ovenstående, kan både
-hensynet til at opklare alvorlig kriminalitet og
-procesøkonomiske hensyn tale for, at der som
-led i kriminalitetsbekæmpelsen gives mulighed for at stille en sigtet eller tiltalt person fordele i udsigt som ‘modydelse’ for, at den pågældende aflægger tilståelse om egne strafbare
-forhold og/eller afgiver forklaring om medgerningsmænds eller tredje-mænds strafbare forhold. Udsigten f.eks. til en mildere straf kan
-føre til, at den pågældende med sin forklaring
-afdækker forbrydelser, som ellers ikke eller
-kun under anvendelse af ganske betydelige
-ressourcer ville være opklaret. Det må erkendes, at megen af den alvorlige organiserede kriminalitet, herunder den grænseoverskridende
-kriminalitet, kun lader sig opklare til bunds
-gennem forklaringer fra de personer, som har
-deltaget. At forklare belastende om andres kriminalitet er ikke uden risiko. Den, der vælger
-at udtale sig, må ofte påregne hævnaktioner fra
-medsigtede og eventuelle bagmænd og grov
-chikane under afsoning fra medindsatte m.fl.
-Det er derfor naturligt og forståeligt, at den sigtede rejser spørgsmål om, hvad vedkommende
-har ud af at tilstå og/eller at forklare om medgerningsmænds eller tredjemænds strafbare
-forhold.
-At give adgang til at indgå sådanne ‘aftaler’
-er imidlertid heller ikke uden betænkelighed.
-Overordnet kan det anføres, at formålet med
-straffeprocessen er at finde den materielle
-sandhed, og at det ville stride mod dette formål
-at åbne mulighed for at indgå aftaler om skyld
-og straf. Det kan videre anføres, at det ville
-stride mod dansk retstradition at åbne for en
-ordning, hvor man f.eks. på forhånd indhentede et tilsagn fra retten om ikke at idømme
-mere end en mellem parterne nærmere aftalt
-straf. Det kan også hævdes, at de strafforfølgende myndigheder ikke bør tilskynde til
-handlinger, der kan øge faren for, at det villige
-vidne udsættes for repressalier, og at der sker
-en yderligere forråelse i de kriminelle miljøer.
-Mere konkret kan det anføres, at der, når der
-er spørgsmål om at formå den sigtede til at tilstå
-egne strafbare forhold, er risiko for, at den
-pågældende fristes til at afgive en (eventuelt delvist) urigtig tilståelse af frygt for en videregående og ligeledes urigtig domfældelse. Er der
-spørgsmål om at formå den sigtede til at forklare
-om medgerningsmænd i samme sag eller
-afsløre gerningsmænd i helt andre sager, skabes endvidere et klart motiv hos den pågældende til at afgive en belastende forklaring om
-
-de andre for selv at slippe så billigt som muligt.
-Herved øges risikoen for urigtige domfældelser,
-som ikke nødvendigvis opvejes af, at retten og
-forsvarerne for dem, der belastes af forklaringen, underrettes om aftalen. Der er i øvrigt
-ingen sikkerhed for, at den sigtede fastholder
-sin forklaring. Bliver den sigtedes sag behandlet
-før den sag, som den pågældende skal vidne i,
-og får den pågældende i den forbindelse f.eks.
-reduceret sin straf, kan man risikere, at den
-pågældende mister tilskyndelsen til at medvirke
-og fragår sin tidligere belastende forklaring.
-Som det fremgår af afsnit 3 ovenfor, har forbudet i § 752, stk. 3, 2. pkt., sammenhæng med
-afskaffelsen af inkvisitionsprincippet, herunder den sigtedes pligt til at tale sandt, og indførelsen af princippet om, at den sigtede ikke
-skal kunne presses eller lokkes til at inkriminere sig selv. Visse ‘løfter’ falder efter deres
-natur uden for anvendelsesområdet for retsplejelovens § 752, stk. 3, 2. pkt. Hermed sigtes til
-de såkaldte ‘lovbundne løfter’, dvs. løfter om
-fordele, der i forvejen følger af lovbestemmelser, jf. herved Ib Henricson, Politiret, s. 170.
-Som eksempel kan nævnes tilfælde, hvor politiet – så vidt muligt gennem den sigtedes forsvarer – tilkendegiver, at en tilståelse, herunder også tilståelse, som involverer tredjemand, efter retsplejelovens § 768 vil medføre,
-at arrestanten tages ud af isolation og eventuelt
-tillige løslades fra varetægtsfængsling. Som et
-andet eksempel kan peges på neutral oplysning
-om, at det efter straffelovens § 84 kan indvirke
-på strafudmålingen, når gerningsmanden medvirker til opklaring af egne strafbare forhold.
-Det kan give anledning til tvivl, hvorvidt og i
-bekræftende fald i hvilket omfang løfter ud over
-de lovbundne er omfattet af forbudet ifølge retsplejelovens § 752, stk. 3, 2. pkt. Som nævnt i pkt.
-4.5 ovenfor kan flere forhold tale imod at anse
-løfter, der indgår i aftaler med den sigtede, for
-omfattet af bestemmelsen. For det første kan det
-anføres, at aftalen i det enkelte tilfælde kan
-udformes, så den sigtede, eventuelt med bistand
-af sin forsvarer, kan gennemskue, vurdere og
-afveje de fordele og ulemper, der er forbundet
-med at gå ind på aftalen. Den forledelse til at
-prisgive tavshedsretten, som søges modvirket
-ved retsplejelovens § 752, stk. 3, 2. pkt., træder
-derfor i baggrunden. Dernæst kan det fremdrages, at bestemmelsen efter sit formål ikke kan
-antages at afskære den part, i hvis interesse forbudet er givet, fra at opnå en gunstigere retsstilling, hvor det er muligt og bedst stemmende
-med den pågældendes interesser.
-
-[Side 373]
-
-371
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-På den anden side kan en række principielle betragtninger tale for, at sådanne aftaler
-– uanset deres udformning og den sigtedes forståelse af deres rækkevidde – må anses for
-omfattet af forbudet i retsplejelovens § 752, stk.
-3, 2. pkt. Der tænkes hermed navnlig på hensynet til at modvirke, at de retshåndhævende
-myndigheder administrerer spørgsmålene om
-skyld og straf på en måde, som er uforenelig
-med grundlæggende principper i strafferetsplejen, og som åbner mulighed for en udglidning af retshåndhævelsen, der er uforenelig
-med straffeprocessens overordnede formål om
-at udfinde den materielle sandhed.
-Der kan nævnes mange eksempler på løfter
-udover de lovbundne. Som eksempel kan
-peges på følgende løfter:
-1) Tilbud om at skære sagen til, så bevisbare forhold frafaldes i videre omfang, end
-retsplejelovens § 721, stk. 1, nr. 3, giver mulighed for, dvs. tilfælde hvor sagens gennemførelse vil medføre vanskeligheder, omkostninger eller behandlingstider, som ikke står i rimeligt forhold til sagens betydning og den straf,
-som i givet fald kan forventes idømt.
-2) Tilbud om at henføre det strafbare forhold under en mildere straffebestemmelse end
-den, hvorunder det rettelig henhører, f.eks.
-under straffelovens § 191, stk. 1, 1. pkt., fremfor 2. pkt., eller om undladelse af at nedlægge
-påstand om bestemte strafforhøjelsesgrunde,
-f.eks. straffelovens § 88.
-3) Tilbud om at undlade at nedlægge
-påstand om konfiskation, rettighedsfortabelse
-eller udvisning.
-For dem alle gælder, at tilladeligheden af at
-indgå aftaler af denne art må bero på en nærmere fortolkning af retsplejelovens § 752, stk.
-3, 2. pkt. Afgørelsen heraf henhører i sidste
-instans under domstolene.
-Det er Straffelovrådets opfattelse, at
-spørgsmålet om politiets og anklagemyndighedens adgang til at indgå aftaler med den sigtede i efterforskningsøjemed mest hensigtsmæssigt lader sig regulere gennem forskrifter
-fra øverste anklagemyndighed udarbejdet i
-lyset af konkrete retstilfælde på samme måde,
-som det er sket med hensyn til behandlingen af
-sager, hvor sigtede gøres bekendt med muligheden for strafnedsættelse som følge af forklaringer om medgerningsmænd, jf. Rigsadvokatens Meddelelse nr. 11/1998. I de tilfælde, hvor
-der er indgået aftale med den sigtede som led i
-den pågældendes medvirken under efterforskningen, finder rådet, at det er afgørende, at
-
-Kapittel 16
-
-notat om aftalen indgår i sagens akter vedrørende den gerningsmand, der belastes af den
-sigtedes forklaring.»52
-16.8.3.2
-
-Sverige
-
-Svensk straffeprosess har ikke noen formalisert
-ordning for straffe- eller påtaletilsagn. Etterforskings- og påtaleplikten har vært ansett for å stå i
-veien for dette,53 og spørsmålet om utmåling av
-straff anses tradisjonelt som domstolenes anliggende.54 Spørsmålet om innføring av påtale- eller
-straffetilsagnsordninger har imidlertid vært gjenstand for diskusjon og utredning i ulike sammenhenger.
-I SOU 2005:117 Ett effektivare brottmålsförfarande tas det utgangspunkt i at svensk straffeprosess bygger på et prinsipp om absolutt påtaleplikt (legalitetsprinsippet). Utredningen behandler så spørsmålet om det burde etableres unntak
-fra dette utgangspunktet, slik at mistenktes tilståelse eller medvirkning til etterforskingen skal
-kunne medføre at påtale unnlates for visse forhold, eller at subsumsjonen gjøres mildere enn
-mistanken skulle tilsi (påtaletilsagn).55
-Det fremheves at prinsippet om absolutt
-påtaleplikt skal sikre likebehandling, og at
-påtalemyndigheten ikke vektlegger utenforliggende hensyn.56 Dersom mistenkte gis innflytelse over påtalespørsmålet gjennom avtaler med
-påtalemyndigheten, antas det å være en risiko for
-at mistenktes forhandlingsevner kan påvirke
-utfallet. Det sies at dette kan gjøre det vanskelig
-for påtalemyndigheten å overholde objektivitetsplikten og prinsippet om likhet i rettsanvendelsen.57 Også hensynet til kriminalitetsofrenes
-interesser fremheves.58
-Det stilles også spørsmål ved effektivitetsgevinsten av et system med plea bargaining. Synspunktet er at risikoen for feilaktige opplysninger
-fra mistenkte kan være stor, og at det dermed uansett vil være behov for etterforsking for å kontrollere riktigheten av opplysningene. Dette anføres
-særlig å gjelde opplysninger mistenkte gir om
-andre.59
-
-52
-53
-54
-55
-56
-57
-58
-59
-
-Betænkning nr. 1424/2002 kapittel 11, punkt 7.4.
-SOU 2005:117 s. 49.
-SOU 2013:17 s. 236.
-SOU 2005:117 s. 49.
-SOU 2005:117 s. 61.
-SOU 2005:117 s. 62.
-SOU 2005:117 s. 63.
-SOU 2005:117 s. 62.
-
-[Side 374]
-
-372
-
-NOU 2016: 24
-
-Kapittel 16
-
-Ny straffeprosesslov
-
-Det konkluderes slik:
-«Det finns inte nu tillräckliga skäl att införa
-undantag från förundersökningsplikten och
-åtalsplikten som tar sikte på att den misstänktes erkännande och medverkan i en brottsutredning skulle kunna leda till att åtal för vissa
-brott inte väcks eller väcks för lindrigare brott
-än det som misstanken avser.»60
-Straffprocessutredningen har i SOU 2013:17 Brottmålsprocessen foreslått å endre den svenske ordningen slik at retten ikke skal kunne idømme en strengere straff eller mer inngripende reaksjon enn det
-som følger av påtalemyndighetens straffepåstand.
-Etter forslaget skal retten bare kunne idømme en
-sammenfallende eller mildere reaksjon.61 Forslaget er nærmere omtalt i punkt 17.6.6.2.
-Det drøftes særskilt om en slik ordning vil
-medføre en risiko for avtaler mellom påtalemyndigheten og tiltalte om straff.62 Utredningen fremhever det som positivt at partene har dialog om
-straffespørsmålet, slik at relevante momenter blir
-best mulig opplyst på et tidlig stadium. Samtidig
-anses det som uheldig dersom påtalemyndigheten
-skulle benytte ordningen til å fremforhandle en tilståelse fra mistenkte. Det anføres dessuten at
-dette vil kunne være i strid med løfteforbudet i
-rättegångsbalken 23 kap. 12 §. Påtalemyndighetens plikt til å redegjøre for momentene som er
-vektlagt ved straffepåstanden, sammen med
-offentligheten under domstolsbehandlingen, antas
-tilstrekkelig til å hindre misbruk av ordningen.63
-16.8.3.3
-
-retten, og ikke partene, som både formelt og reelt
-har hovedansvaret for bevisføringen og eksaminasjonen av tiltalte og vitner under hovedforhandlingen, og retten har et selvstendig ansvar for sakens
-opplysning, jf. Strafprozessordnung §§ 238 (1) og
-244 (2).65
-Dette rammeverket har tradisjonelt ikke vært
-ansett for å gi rom for noen ordning med plea bargaining.66 Rettstilstanden ble imidlertid endret i
-2009, ved vedtakelsen av Strafprozessordnung
-§ 257 c, som lyder slik:
-«§ 257c Verständigung zwischen Gericht
-und Verfahrensbeteiligten
-(1) Das Gericht kann sich in geeigneten
-Fällen mit den Verfahrensbeteiligten nach
-Maßgabe der folgenden Absätze über den weiteren Fortgang und das Ergebnis des Verfahrens verständigen. § 244 Absatz 2 bleibt
-unberührt.s
-(2) Gegenstand dieser Verständigung dürfen nur die Rechtsfolgen sein, die Inhalt des
-Urteils und der dazugehörigen Beschlüsse
-sein können, sonstige verfahrensbezogene
-Maßnahmen im zugrundeliegenden Erkenntnisverfahren sowie das Prozessverhalten der
-Verfahrensbeteiligten. Bestandteil jeder Verständigung soll ein Geständnis sein. Der
-Schuldspruch sowie Maßregeln der Besserung und Sicherung dürfen nicht Gegenstand
-einer Verständigung sein.
-(3) Das Gericht gibt bekannt, welchen
-Inhalt die Verständigung haben könnte. Es
-kann dabei unter freier Würdigung aller
-Umstände des Falles sowie der allgemeinen
-Strafzumessungserwägungen auch eine Oberund Untergrenze der Strafe angeben. Die Verfahrensbeteiligten erhalten Gelegenheit zur
-Stellungnahme. Die Verständigung kommt
-zustande, wenn Angeklagter und Staatsanwaltschaft dem Vorschlag des Gerichtes zustimmen.
-(4) Die Bindung des Gerichtes an eine Verständigung entfällt, wenn rechtlich oder
-tatsächlich bedeutsame Umstände übersehen
-worden sind oder sich neu ergeben haben und
-das Gericht deswegen zu der Überzeugung
-gelangt, dass der in Aussicht gestellte Strafrahmen nicht mehr tat- oder schuldangemessen
-ist. Gleiches gilt, wenn das weitere Prozessverhalten des Angeklagten nicht dem Verhalten
-entspricht, das der Prognose des Gerichtes
-
-Tyskland
-
-Tysk straffeprosess har utpregede inkvisitoriske
-trekk. Det er ikke påtalemyndigheten, men retten
-som avgjør om det foreligger tilstrekkelige bevis
-til at saken kan fremmes til hovedforhandling, jf.
-Strafprozessordnung § 199 (1), jf. § 203. Videre er
-retten bare i begrenset grad bundet av påtalemyndighetens angivelse av det straffbare forhold,
-jf. Strafprozessordnung § 206.64 Under behandlingen av spørsmålet om hvorvidt saken skal fremmes til hovedforhandling, og under den senere
-forberedelsen til hovedforhandlingen kan retten
-av eget tiltak beslutte å supplere bevisføringen, jf.
-Strafprozessordnung §§ 202 og 221. Det er videre
-60
-
-SOU 2005:117 s. 49 flg.
-SOU 2013:17 s. 234 flg.
-62
-SOU 2013:17 s. 240 flg.
-63
-SOU 2013:17 s. 240–242.
-64
-Bohlander (2012) s. 106.
-61
-
-65
-66
-
-Bohlander (2012) s. 119.
-Bohlander (2012) s. 120.
-
-[Side 375]
-
-373
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-zugrunde gelegt worden ist. Das Geständnis
-des Angeklagten darf in diesen Fällen nicht
-verwertet werden. Das Gericht hat eine
-Abweichung unverzüglich mitzuteilen.
-(5) Der Angeklagte ist über die Voraussetzungen und Folgen einer Abweichung des
-Gerichtes von dem in Aussicht gestellten
-Ergebnis nach Absatz 4 zu belehren.»67
-Bestemmelsen etablerer en straffetilsagnsordning
-der domstolen kan inngå avtale med tiltalte og
-påtalemyndigheten vedrørende reaksjonsspørsmålet, forutsatt at tiltalte tilstår, jf. første ledd og
-annet ledd første og annet punktum. Det åpnes
-ikke for forhandlinger om skyldspørsmålet, subsumsjonen eller om lovbestemte sanksjoner som
-tar sikte på rehabilitering og samfunnsvern, jf.
-annet ledd tredje punktum.68 Rettens ansvar for
-sakens opplysning skal dessuten gjelde uavhengig
-av eventuell avtale med partene, jf. første ledd
-annet punktum.
-67
-
-I engelsk oversettelse: «Section 257 c Negotiated Agreement
-(1) In suitable cases the court may, in accordance with the
-following subsections, reach an agreement with the participants on the further course and outcome of the
-proceedings. Section 244 subsection (2) shall remain
-unaffected.
-(2) The subject matter of this agreement may only
-comprise the legal consequences that could be the content of the judgment and of the associated rulings, other
-procedural measures relating to the course of the
-underlying adjudication proceedings, and the conduct
-of the participants during the trial. A confession shall be
-an integral part of any negotiated agreement. The verdict of guilt, as well as measures of reform and prevention, may not be the subject of a negotiated agreement.
-(3) The court shall announce what content the negotiated
-agreement could have. It may, on free evaluation of all
-the circumstances of the case as well as general sentencing considerations, also indicate an upper and lower
-sentence limit. The participants shall be given the opportunity to make submissions. The negotiated agreement
-shall come into existence if the defendant and the public
-prosecution office agree to the court’s proposal.
-(4) The court shall cease to be bound by a negotiated agreement if legal or factually significant circumstances
-have been overlooked or have arisen and the court therefore becomes convinced that the prospective sentencing range is no longer appropriate to the gravity of the
-offence or the degree of guilt. The same shall apply if
-the further conduct of the defendant at the trial does
-not correspond to that upon which the court’s prediction was based. The defendant’s confession may not
-be used in such cases. The court shall notify any deviation without delay.
-(5) The defendant shall be instructed as to the prerequisites for and consequences of a deviation by the court
-from the prospective outcome pursuant to subsection
-(4).» Se det tyske justisministeriets lovdatabase: http://
-www.gesetze-im-internet.de/index.html.
-68
-Jf. Bohlander (2012) s. 121.
-
-Kapittel 16
-
-Etter tredje ledd skal retten etter en fri vurdering av straffutmålingsmomentene som gjør seg
-gjeldende, og etter at partene har fått uttale seg,
-meddele hvilket innhold avtalen om reaksjonsspørsmålet kan ha, ved å angi straffens øvre og
-nedre grense. Avtalen etableres ved at tiltalte og
-påtalemyndigheten aksepterer rettens avtaleforslag, jf. tredje ledd. De vesentlige elementer i
-forhandlingene og avtalen med partene skal nedtegnes i rettsboken, jf. Strafprozessordnung
-§ 273(1a).
-Avtalen opphører dersom nærmere bestemte
-uriktige eller bristende forutsetninger viser seg
-eller inntrer, jf. fjerde ledd første og annet punktum. Tiltaltes tilståelse kan i så fall ikke benyttes
-ved den videre behandlingen av saken, jf. fjerde
-ledd tredje punktum. Disse forhold skal tiltalte
-orienteres om, jf. femte ledd.
-Selv om § 257 c er plassert i lovens kapittel om
-hovedforhandlingen, er det lovens forutsetning at
-spørsmålet om å avgjøre saken etter fremforhandlet avtale kan tas opp med partene under den forberedende domstolsbehandlingen, jf. Strafprozessordnung §§ 202 a og 212, jf. § 243(4).
-Uansett om saken avgjøres etter avtale med
-partene eller etter ordinær hovedforhandling, fastsettes straffen ved dom etter de vanlige reglene i
-Strafprozessordnung §§ 260 flg. Dersom det er
-inngått avtale etter § 257 c, skal det opplyses om
-dette i dommens premisser, jf. § 267 tredje ledd
-siste punktum.
-16.8.3.4
-
-England
-
-Tiltaltes standpunkt til skyldspørsmålet er etter
-engelsk rett avgjørende for hvorledes saken skal
-behandles i domstolene. Det avgjør både om
-saken kan undergis forenklet førsteinstansbehandling (summary trial) i Magistrates’ Court, og
-– for overtredelser der Crown Court er første
-instans – om saken skal behandles med jury (trial
-hearing) eller kun fagdommer (sentence hearing).
-Dersom tiltalte avgir en tilståelse, og denne aksepteres av domstolen, anses skyldspørsmålet som
-avgjort:
-«Following a plea of guilty there is no need to
-empanel a jury as the accused has convicted
-himself out of his own mouth. The court may
-proceed straight to sentence […].»69
-Prosessreglene er i stor grad innrettet mot å søke
-en avklaring av om, og eventuelt i hvilken utstrek69
-
-Sprack (2012) s. 271.
-
-[Side 376]
-
-374
-
-NOU 2016: 24
-
-Kapittel 16
-
-Ny straffeprosesslov
-
-ning, tiltalte erkjenner straffskyld etter tiltalen.70
-Etter at tiltale er utferdiget og under saksforberedelsen for domstolen skal partene avklare hvor
-langt en eventuell enighet rekker, og ved enighet
-nedfelle denne i en plea agreement.
-I den forbindelse har påtalemyndigheten en
-viss adgang til å inngå en avtale (accept a plea)
-som avviker fra tiltalen, for eksempel ved at forholdet bedømmes etter et mildere straffebud,
-eller ved at videre forfølgning av enkelte forhold i
-siktelsen unnlates. En slik aksept trenger ikke å
-være basert på forhandlinger, men kan være det:
-«Plea bargaining [in the sense that the prosecution agrees with the defence that if the accused pleads guilty to a lesser offence they will
-accept the plea or the prosecution agree not to
-proceed on one or more counts if he will plead
-guilty to the remainder] is a frequent occurrence, approved by the courts. It is not usually in
-the public interest to spend time and money proving the accused guilty precisely as charged if
-he is prepared to admit the bulk of the case
-against him, either by pleading guilty to a lesser
-offence or by pleading guilty to some but not all
-the counts. The bargain is usually struck by prosecution and defence counsel outside court
-before the commencement of the trial.»71
-Påtalemyndigheten står ikke fritt i slike forhandlinger. Både The Code of Crown Prosecutors og
-Attorney General’s Guidelines on the acceptance of
-pleas and the prosecutor’s role in the sentencing
-angir retningslinjer for hva som kan avtales.
-Tiltaltes tilståelse og partenes avtale er ikke
-uten videre bindende for retten. Dommeren skal
-blant annet vurdere om tilståelsen er «properly
-grounded»,72 og om et omforent faktum («agreed
-basis of plea») er «fair and in the interest of
-justice».73 Retten kan av eget tiltak gi pålegg om
-at partene skal fremlegge bevis.74
-Partene kan heller ikke binde domstolen ved
-avtaler om straff, jf. blant annet avgjørelsen
-R. v. Innospec ltd.:
-«It is clear […] that the SFO [Serious Fraud
-Office] cannot enter into an agreement under
-the laws of England and Wales with an offender
-as to the penalty in respect of the offence char70
-
-Se Consolidated Criminal Practice Direction IV.45.4 flg.
-Sprack (2012) s. 277.
-72
-Consolidated Criminal Practice Direction IV.45.5
-73
-Consolidated Criminal Practice Direction IV.45.10.
-74
-Consolidated Criminal Practice Direction IV.45.12.
-71
-
-ged. […] [I]t is for the court to decide on the
-sentence and to explain that to the public, as I
-have endeavoured to do, in a manner that is
-both open and transparent, as that is what
-justice requires.»75
-Tiltalte kan imidlertid i visse tilfeller søke en avklaring hos retten vedrørende hvilken straff vedkommende risikerer under forutsetning av at vedkommende tilstår forholdet. Ordningen kalles
-indication of sentence og gjelder i saker som
-behandles av Crown Court. Etter begjæring fra tiltalte kan retten angi den strengeste straffen som
-vil kunne idømmes dersom tiltalte på det aktuelle
-tidspunkt avgir en guilty plea. Slik straffangivelse
-kalles også «Goodyear indications» etter prejudikatet R. v. Goodyear, hvor det uttales følgende om
-formålet med ordningen:
-«The objective of these Guidelines is to ensure
-common process and continuing safeguards
-against the creation or appearance of judicial
-pressure on the defendant. The potential advantages include, first and foremost, that the defendant himself would make a better informed decision whether to plead, or not. Experience tends
-to suggest that this would result in an increased
-number of early guilty pleas, which a consequent reduction in the number of trials, and the
-number of cases which are listed for trial, and
-then, to use current language, ‘crack’ at the last
-minute, usually at considerable inconvenience
-to those involved in the intended trial, and in particular, victims and witnesses. Properly applied,
-too, there may be a reduced number of sentences to be considered by the Attorney General,
-and where appropriate, referred to this Court as
-unduly lenient. In short, an increase in the efficient administration of justice will not impinge on
-the defendant’s entitlement to tender a voluntary plea.»76
-Den angitte maksimumsstraffen er bindende for
-retten, også om den settes med en annen dommer. Det er imidlertid en forutsetning at saken
-normalt skal avgjøres umiddelbart etter at
-straffangivelsen er avgitt, og som regel av samme
-dommer. Dersom tiltalte, etter å ha hatt rimelig
-mulighet til å vurdere sin posisjon i lys av den
-angitte maksimumsstraff, ikke erkjenner straffskyld, opphører straffangivelsens bindende virkning.
-75
-76
-
-Innospec (2010) Crim LR 665, avsnitt 26 og 46.
-R. v. Goodyear (2005) EWCA Crim 888, avsnitt 53.
-
-[Side 377]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-I februar 2014 ble det i England innført en ordning med såkalt Deferred Prosecution Agreement
-(DPA), som kan anvendes overfor foretak i økonomiske straffesaker, og som innebærer at påtalemyndigheten kan inngå en avtale om å unnlate
-videre strafferettslig forfølgning av et selskap,
-mot at selskapet oppfyller nærmere bestemte vilkår. Avtalen kan gå ut på at selskapet skal betale
-bot eller erstatning, eventuelt også at det skal
-samarbeide med påtalemyndigheten, herunder
-som ledd i straffeforfølgning mot enkeltpersoner.
-Avtalen må godkjennes av en dommer, som skal ta
-stilling til om den er «in the interests of justice»,
-og om vilkårene er «fair, reasonable and proportionate». Overholdes ikke vilkårene i avtalen, kan
-forfølgningen gjenopptas.77
-16.8.3.5
-
-USA
-
-Dersom tiltalte avgir en skylderkjennelse som retten
-aksepterer, kan saken etter amerikansk som etter
-engelsk rett behandles ved forenklet rettergang
-uten jurybehandling. I USA avgjøres ca. 90 prosent
-av alle straffesaker for domstolene på grunnlag av
-tiltaltes skylderkjennelse (plea of guilty).78
-Tiltaltes plea of guilty trenger ikke nødvendigvis å være fremkommet etter forhandlinger med
-påtalemyndigheten, men dette er det vanlige.79
-Plea bargaining har derfor meget stor praktisk og
-prosessøkonomisk betydning, og mange hevder
-det amerikanske rettssystemet ikke ville fungere
-uten.80 Praksisen – som med små variasjoner
-eksisterer i alle delstater – er av USAs høyesterett
-ansett som «necessary and proper».81
-I USA er det lang tradisjon for å gi påtalemyndigheten en utstrakt diskresjonær kompetanse
-ved avgjørelsen av om straffeforfølgning skal
-iverksettes eller ikke,82 samt til å avgjøre om tiltale skal utferdiges, og hvilket straffebud som skal
-anvendes.83
-Spørsmålet om hvorvidt det foreligger tilstrekkelig bevis for tiltale, er underlagt domstolskontroll ved grand jury eller preliminary hearing. Men
-utover dette er det ikke tradisjon for verken domstolskontroll eller administrativ kontroll med
-påtalemyndighetens avgjørelser.84
-77
-
-Crime and Courts Act 2013, Schedule 17.
-LaFave mfl. (2004) s. 968.
-79
-LaFave mfl. (2004) s. 968.
-80
-LaFave mfl. (2004) s. 968.
-81
-Bordenkircher vs. Hayes, 434 U.S. 357 (1978).
-82
-LaFave mfl. (2004) s. 679.
-83
-LaFave mfl. (2004) s. 679−680.
-84
-LaFave mfl. (2004) s. 685.
-78
-
-375
-
-Kapittel 16
-
-Det er visstnok ikke uvanlig at påtalemyndigheten gjør tiltalen mer omfattende enn det er
-grunnlag for, for å «motivere» tiltalte til å gå med
-på en avtale:
-«However, sometimes the prosecutor will initially charge a defendant with a higher offence
-than can be proved or than would be ‘just,’
-hoping to use that charge as leverage to obtain
-a guilty plea to a lesser crime. […] Resort to
-multiple charges is most common when undertaken to encourage a plea of guilty to one of the
-crimes or when deemed necessary to provide
-the judge with a sufficient range of sentencing
-options.»85
-Tiltaltes plea of guilty og partenes plea agreement
-må fremlegges for retten, som skal sikre at tiltaltes skylderkjennelse oppfyller visse prosessuelle
-krav, først og fremst at den er «voluntary and
-intelligent», jf. blant annet USAs høyesteretts
-avgjørelse Brady v. United States:
-«That a guilty plea is a grave and solemn act to
-be accepted only with care and discernment
-has long been recognized. Central to the plea
-and the foundation for entering judgment
-against the defendant is the defendant’s admission in open court that he committed the act
-charged in the indictment. He thus stands as a
-witness against himself, and he is shielded by
-the Fifth Amendment from being compelled to
-do so – hence the minimum requirement that
-his plea be the voluntary expression of his own
-choice. But the plea is more than an admission
-of past conduct; it is the defendant’s consent
-that judgment of conviction may be entered
-without a trial – a waiver of his right to trial
-before a jury or a judge. Waivers of constitutional rights not only must be voluntary, but must
-be knowing, intelligent acts done with sufficient awareness of the relevant circumstances
-and likely consequences.»86
-Retten er i utgangspunktet ikke bundet av partenes nærmere disposisjoner etter at tiltale er tatt
-ut, og kan nekte å godta partenes avtale enten den
-gjelder straffutmåling, anvendelse av straffebud
-eller tilskjæring av tiltalen.87 Tiltalte har således
-som regel ingen garanti for at avtalen legges til
-grunn av retten:
-85
-86
-87
-
-LaFave mfl. (2004) s. 680.
-Brady v. United States, 397 U.S. 742 (1970).
-Jf. Federal Rules of Criminal Procedure, Rule 11
-
-[Side 378]
-
-376
-
-NOU 2016: 24
-
-Kapittel 16
-
-Ny straffeprosesslov
-
-had, in fact, been convicted of two previous felonies. In our system, so long as the prosecutor
-has probable cause to believe that the accused
-committed an offense defined by statute, the
-decision whether or not to prosecute, and what
-charge to file or bring before a grand jury, generally rests entirely in his discretion. Within the
-limits set by the legislature’s constitutionally
-valid definition of chargeable offenses, ‘the conscious exercise of some selectivity in enforcement is not, in itself, a federal constitutional violation’ so long as ‘the selection was [not] deliberately based upon an unjustifiable standard such
-as race, religion, or other arbitrary classification.’ […] To hold that the prosecutor’s desire to
-induce a guilty plea is an ‘unjustifiable standard,’
-which, like race or religion, may play no part in
-his charging decision, would contradict the very
-premises that underlie the concept of plea bargaining itself. Moreover, a rigid constitutional
-rule that would prohibit a prosecutor from
-acting forthrightly in his dealings with the
-defense could only invite unhealthy subterfuge
-that would drive the practice of plea bargaining
-back into the shadows from which it has so
-recently emerged. […].
-There is no doubt that the breadth of discretion that our country’s legal system vests in prosecuting attorneys carries with it the potential
-for both individual and institutional abuse. And
-broad though that discretion may be, there are
-undoubtedly constitutional limits upon its exercise. We hold only that the course of conduct
-engaged in by the prosecutor in this case, which
-no more than openly presented the defendant
-with the unpleasant alternatives of forgoing trial
-or facing charges on which he was plainly subject to prosecution, did not violate the Due
-Process Clause of the Fourteenth Amendment.»
-
-«[The Judge] will usually have a critical role to
-play whenever the defendant tenders a plea as a
-consequence of the negotiations. If the plea
-agreement contemplates the granting of sentence concessions to the defendant, then quite
-obviously the judge will play an essential part,
-for sentencing is the responsibility of the judge.
-In those many jurisdictions where charges that
-have been filed may be dropped only with the
-consent of the court, the judge will likewise perform a necessary part whenever the plea contemplates the reduction of the charge or the
-dropping of some counts. In all of these circumstances, quite clearly the judge is under no obligation to grant the contemplates concessions
-merely because the parties are agreeable.»88
-En annen sak er at retten i praksis utviser tilbakeholdenhet med å overprøve partenes avtaler.89 I
-tillegg vil en kunne ha avtaler som inngås mellom
-partene før tiltale utferdiges, hvilket vil avskjære
-domstolenes mulighet til å gripe inn.90
-USAs høyesterett har i flere avgjørelser tatt
-stilling til spørsmål av prinsipiell betydning for
-plea bargaining-instituttet. Bordenkircher v.
-Hayes91 er en sentral avgjørelse som det ofte henvises til, og som inneholder interessante uttalelser
-både om påtalemyndighetens diskresjonære kompetanse, dens adgang til å forhandle med tiltalte
-og betydningen av det tilståelsespress tiltalte kan
-oppleve ved å bli stilt overfor en vesentlig mer
-alvorlig straffetrussel dersom vedkommende ikke
-erkjenner straffskyld.
-Hayes var tiltalt for et sjekkbedrageri på 88,30
-dollar, og påtalemyndigheten opplyste at dersom
-han erkjente straffskyld, ville han bli tiltalt etter en
-straffebestemmelse med en strafferamme på 2 til
-10 år og med et straffeforslag fra påtalemyndigheten på fem år. Dersom Hayes nektet straffskyld,
-slik at saken måtte behandles for en jury, ville han
-i stedet bli tiltalt etter Kentucky Habitual Criminal
-Act, som på grunn av hans straffehistorikk ville
-kunne medføre fengsel på livstid. Hayes aksepterte ikke påtalemyndighetens tilbud og ble dømt
-til livstidsstraff. Under dissens 5–4 la USAs
-høyesterett til grunn at påtalemyndighetens fremgangsmåte ikke var grunnlovsstridig:
-«It is not disputed here that Hayes was properly
-chargeable under the recidivist statute, since he
-88
-
-LaFave mfl. (2004) s. 1004.
-LaFave mfl. (2004) s. 967.
-90
-LaFave mfl. (2004) s. 974–975.
-91
-Bordenkircher v. Hayes, 434 U.S. 357 (1978).
-89
-
-Avgjørelsen er i juridisk teori kritisert for å være én
-av flere avgjørelser som innebærer at politi og påtalemyndighet får for mye makt i straffeprosessen.92
-16.8.4 Tidligere utredninger
-Spørsmålet om å innføre forhandlingsbaserte
-eller plea bargaining-lignende ordninger i norsk
-straffeprosess har siden slutten av 1990-tallet vært
-berørt i flere offentlige utredninger. For sammenhengens skyld gjengis i det følgende utdrag av de
-mest aktuelle utredningene.
-92
-
-Stuntz (2005), s. 33–34.
+«No one shall be liable to be tried or punished again in criminal proceedings under the jurisdiction of the same State for an offence for which he has already been finally acquitted or convicted in accordance with the law and penal procedure of that State.»
+
+Ileggelse av administrative reaksjoner kan således bli ansett som straffeforfølgning i relasjon til bestemmelsen og dermed sperre for eller bli sperret av straffeforfølgning i straffeprosessens former. I forvaltningsloven § 43 – som er vedtatt, men ikke i kraft – er «administrativ sanksjon» definert som «en negativ reaksjon som kan ilegges av et forvaltningsorgan, som retter seg mot en begått overtredelse av lov, forskrift eller individuell avgjørelse, *og som regnes som straff etter den europeiske menneskerettskonvensjon*».[^985]
+
+En forutsetning for forbud mot gjentatt forfølgning etter EMK P7-4 er altså at både den opprinnelige og den gjentatte forfølgningen gjelder *sak om straff* i konvensjonens forstand, og forfølgningene må dessuten gjelde *samme forhold*. Et nokså selvsagt vilkår er at forfølgningen må rette seg mot *samme ansvarssubjekt*, og det må videre være truffet *realitetsavgjørelse om skyld* i den første forfølgningen. Realitetsavgjørelsen i den første saken må dessuten som utgangspunkt være *endelig*.[^986] Etter EMK er det også et vilkår at de to forfølgningene skjer i samme lands rettssystem, men andre rettskraftsregler kan begrense adgangen til å forfølge lovbrudd som har medført straffeforfølgning i et annet rettssystem.[^987]
+
+Ved reguleringen av forbudet mot gjentatt forfølgning i straffeprosessloven må utvalget ta stilling til to hovedspørsmål: For det første hvilke situasjoner av betydning for forbudet mot gjentatt forfølgning som bør reguleres i straffeprosessloven (punkt 17.8.2.2), og for det andre hvilken type avgjørelser som bør ha sperrevirkning i de situasjonene som reguleres (punkt 17.8.2.3 og 17.8.2.4). Dessuten behandles spørsmålet om hvor detaljerte regler som bør gis om utenlandske avgjørelsers sperrevirkning, samt hvor reguleringen bør plasseres (punkt 17.8.2.5). Videre knyttes det enkelte bemerkninger til spørsmålet om hva som skal anses som samme forhold (punkt 17.8.2.6). Avslutningsvis behandles reguleringen av inndragning etter rettskraftig dom (punkt 17.8.2.7).
+
+1.  *Hvilke dobbeltforfølgningssituasjoner bør reguleres i straffeprosessloven?*
+
+Kjernen i reguleringen av negativ materiell rettskraft i straffeprosessen er avvisningsregelen i straffeprosessloven § 51; rettskraftige straffedommer hindrer gjentatt forfølgning for domstolene. Utvalget finner det klart at avvisningssituasjonen for domstolene fortsatt bør reguleres i loven. Men *ne bis in idem*-prinsippets begrunnelse rekker utover dette.
+
+Når et forhold er endelig avgjort, tilsier prinsippet ikke bare vern mot ny domfellelse, men også mot ny forfølgning overhodet. Eksistensen av en sperrende avgjørelse er således av avgjørende betydning for om straffeforfølgning i det hele tatt kan iverksettes. Er det først klart nok at det foreligger en relevant rettskraftig avgjørelse, skal det som et utgangspunkt heller ikke iverksettes etterforsking, anvendes tvangsmidler eller treffes positivt påtalevedtak.[^988]
+
+Prinsippet har altså en overgripende karakter. Forbudet mot gjentatt forfølgning retter seg ikke bare mot domstolene, men utgjør også en grunnleggende premiss for påtalemyndighetens virksomhet. Dette kunne tale for å gi prinsippet en helt generell regulering, plassert i lovens innledende del. På den annen side er det ønskelig med en klar regulering av de konkrete situasjonene der forbudet mot dobbeltforfølgning har betydning. For påtalemyndigheten har forbudet først og fremst betydning for utformingen av reglene om omgjøring av påtalevedtak. Disse vil igjen ha betydning for om vilkårene for etterforsking er til stede. Avvisningsregelen for domstolene peker dessuten mot en prosessforutsetning som det er selvsagt at påtalemyndigheten må forholde seg til.
+
+Utvalget foreslår på denne bakgrunn å videreføre en avvisningsregel som i straffeprosessloven § 51, jf. utkastet § 32-12 annet ledd, og for øvrig ta høyde for dobbeltforfølgningsforbudets betydning gjennom vilkårene for etterforsking, jf. utkastet § 13-2 og reglene om påtalevedtak, jf. utkastet kapittel 28 og 29, jf. særlig § 28-2.
+
+Situasjonen der en sak allerede verserer for domstolene (litispendens), har visse likhetstrekk med situasjonen ved dobbeltforfølgning, og de samme hensyn gjør seg i noen grad gjeldende. Men for situasjonen ved verserende saker er et hovedpoeng å unngå formålsløs dobbeltbehandling, og avvisning i slike tilfeller følger ikke som en virkning av rettens *avgjørelser* – som er det som reguleres i utkastet kapittel 32. Virkningen av at en sak allerede verserer for domstolene, er derfor regulert for seg i innledningskapitlet til utkastets del 6 om generelle regler om rettens saksbehandling og avgjørelser, jf. § 30-2.
+
+1.  *Hvilke avgjørelser bør ha sperrevirkning i straffeprosessen?*
+
+Et hovedspørsmål for utvalget er hvilke avgjørelser som bør angis i bestemmelsen som viderefører straffeprosessloven § 51, jf. utkastet § 32-12 annet ledd.
+
+Et selvsagt utgangspunkt er at loven fortsatt må gi uttrykk for den grunnleggende regel at rettskraftige *straffedommer avsagt i Norge* utelukker gjentatt forfølgning for samme forhold.
+
+Med den definisjon av «administrative sanksjoner» som følger av den nå vedtatte forvaltningsloven § 43, der det kreves at det er tale om reaksjoner som anses som straff etter EMK, bør også sperrevirkningen av slike sanksjoner fremgå uttrykkelig av straffeprosessloven.
+
+Videre finner utvalget det klart at *påtalevedtak* som etter våre nasjonale omgjøringsregler har vært forutsatt å ha sperrevirkning, bør tas med som avvisningsgrunn for domstolene i lovutkastet. Det gjelder påtaleunnlatelser samt henleggelsesbeslutninger (på personnivå), jf. straffeprosessloven § 75 annet ledd, men det samme må selvfølgelig også gjelde for andre vedtak som avgjør påtalespørsmålet endelig, det vil si vedtak om overføring til konfliktråd etter utkastet § 28-4 eller vedtatt forelegg, jf. utkastet § 28-5.
+
+I utkastet § 32-12 annet ledd bokstav a til c foreslås således følgende norske avgjørelser angitt som grunnlag for avvisning av norsk straffesak: rettskraftig dom, endelig avgjørelse av påtalespørsmålet og endelig vedtak om administrativ sanksjon. Hvilke utenlandske avgjørelser som må eller bør tillegges sperrevirkning, behandles for seg i punkt 17.8.2.4.
+
+1.  *Særlig om utenlandske avgjørelsers rettskraftvirkning*
+
+Forbudet mot gjentatt forfølgning etter straffeprosessloven § 51 og EMK P7-4 gjelder som nevnt i punkt 17.8.2.1 kun norske avgjørelser, og det rettslige utgangspunkt er at avgjørelser truffet av utenlandske myndigheter ikke har rettskraftsvirkninger i Norge.[^989]
+
+Fra dette utgangspunktet gjør straffeloven § 8 enkelte unntak. Etter bestemmelsen vil det som utgangspunkt ikke være adgang til å reise straffesak her i landet dersom det er avsagt endelig dom for samme straffbare forhold i utlandet, og dommen omfattes av lov 20. juli 1991 nr. 67 om overføring av domfelte, lov 25. mars 1977 nr. 22 om overføring av straffeforfølging fra eller til et annet europeisk land eller internasjonal avtale innenfor Schengen-samarbeidet.
+
+Straffeloven § 8 bygger på og viderefører i all hovedsak straffeloven 1902 § 12 a[^990] og gjennomfører Norges folkerettslige forpliktelser til å tillegge utenlandske avgjørelser rettskraftsvirkninger i Norge.[^991] Samtidig går § 8 noe lenger i å gi utenlandske rettsavgjørelser slik virkning enn Norge er forpliktet til.[^992] Endelig dom som går inn under lov 20. juli 1991 nr. 67 om overføring av domfelte, jf. bokstav b, er således tillagt sperrevirkning selv om loven har regler om soningsoverføring både etter Den europeiske konvensjon om internasjonal gyldighet av straffedommer og Den europeiske konvensjon om overføring av domfelte, og sistnevnte konvensjon ikke har regler om negativ materiell rettskraft.[^993] Lovgiver fant det likevel riktig at også dommer som omfattes av overføringskonvensjonen, skal ha rettskraftsvirkninger i Norge.[^994]
+
+Ved vurderingen av hvilke utenlandske avgjørelser som bør tillegges sperrevirkning, er det grunn til å skille mellom avgjørelser Norge er *forpliktet til å gi rettskraftvirkninger*, og avgjørelser som ikke innebærer en slik forpliktelse.
+
+Utvalget finner det klart at det på en eller annen måte bør fremgå av straffeprosessloven at utenlandske avgjørelser etter folkerettslige forpliktelser kan sperre for straffeforfølgning i Norge. Spørsmålet er hvordan dette skal gjøres, og det er i hovedsak to mulige løsninger: Man kan angi presist hvilke utenlandske avgjørelser Norge er folkerettslig forpliktet til å tillegge sperrevirkning, som i straffeloven § 8, eller man kan gjøre slik forpliktelse til lovens kriterium. Utvalget har falt ned på det siste som den beste løsning for så vidt gjelder straffeprosesslovens regulering, først og fremst fordi det her er tale om et dynamisk felt. Det kan således dels være uklart hvor langt de folkerettslige forpliktelser rekker per i dag, dels kan det skje en utvikling over tid. Dessuten er det nokså sjelden tale om å avvise en norsk straffesak på grunn av en utenlandsk avgjørelse, og i en slik situasjon bør ikke straffeprosessloven belastes med detaljerte regler om våre folkerettslige forpliktelser. Hvorvidt det kan være grunn til å gi en mer detaljert regulering i annet regelverk, behandles kort nedenfor, i punkt 17.8.2.5.
+
+Et siste spørsmål er så om det er enkelte utenlandske avgjørelser som norske myndigheter ikke er folkerettslig forpliktet til å gi sperrevirkning, som likevel bør ha det etter norsk rett.
+
+I mange tilfeller vil de hensyn som begrunner prinsippet om *ne bis in idem*, gjøre seg gjeldende på samme måte når det er truffet endelig avgjørelse i utlandet, som når avgjørelsen er truffet i Norge, og uavhengig av hvilke folkerettslige forpliktelser som gjelder. På den annen side er det meget vanskelig å overskue hvordan det kan slå ut om man tilla påtaleavgjørelser og dommer fra ethvert rettssystem sperrevirkning i norsk rett. Det vil åpenbart kunne tenkes avgjørelser som ikke bør ha slik virkning, herunder fra land som står fjernt fra norsk rett i avgrensningen av området for det straffbare og i synet på hva som er en adekvat reaksjon. Skulle man åpne for sperrevirkning av enhver utenlandsk avgjørelse – fra påtalemyndighet eller domstol –, ville man således måtte ha en eller annen begrensende standard. En slik vag regulering er ikke ønskelig for spørsmålet om når domstolene skal avvise en sak. I en sak der det foreligger en utenlandsk avgjørelse uten sperrevirkning om samme saksforhold, vil det kunne tas høyde for de hensyn som ligger til grunn for forbudet mot gjentatt forfølgning gjennom andre regler enn avvisning. Påtalemyndigheten kan således legge vekt på den utenlandske avgjørelsen ved utøvelsen av påtaleskjønn, og domstolene kan – hvis det kommer til sak – ta hensyn til en tidligere avgjørelse ved straffutmålingen, se straffeloven § 84 om fradrag for fullbyrdet strafferettslig reaksjon ilagt i utlandet.
+
+Utvalget foreslår på denne bakgrunn ingen utvidelse av hvilke utenlandske avgjørelser som skal tillegges sperrevirkning, men antar at det bør være adgang til å bestemme i forskrift at visse utenlandske avgjørelser skal ha sperrevirkning uavhengig av våre folkerettslige forpliktelser dersom det anses hensiktsmessig. Straffeloven § 8 første ledd bokstav b gir som nevnt et eksempel på det ved at dommer som går inn under lov 20. juli 1991 nr. 67 om overføring av domfelte, likestilles uavhengig av om Norge er folkerettslig forpliktet til å tillegge avgjørelsene sperrevirkning.
+
+1.  *Reguleringen i straffeloven § 8. Detaljeringsgrad og plassering*
+
+Straffeloven § 8 regulerer «\[a\]dgangen til å strafforfølge forhold som er pådømt i utlandet». Dette er utvilsomt en bestemmelse om negativ rettskraft, som således er av prosessuell karakter. I utgangspunktet ville det dermed være nærliggende å overføre bestemmelsen til straffeprosessloven, og dette ble da også vurdert i forarbeidene til straffeloven:
+
+«Etter sin art er bestemmelsen av prosessuell karakter. Mye kan derfor tale for å plassere den i straffeprosessloven, jf punkt 4.1.6. Når departementet likevel velger å beholde den i straffeloven, er det fordi den er nært knyttet til de øvrige bestemmelser i kapitlet. Men av pedagogiske grunner bør det samtidig tas inn en henvisning til bestemmelsen fra straffeprosessloven § 51.»[^995]
+
+I Danmark og Sverige er også rettskraftsvirkningen av utenlandske dommer regulert i straffelovgivningen, se henholdsvis straffeloven § 10 a og brottsbalken 2 kap. 10 a §.
+
+Utvalget er likevel ikke overbevist om at § 8 har en slik tilknytning til reglene i straffeloven kapittel 1 at det taler for å plassere bestemmelsen der. Tvert imot synes bestemmelsen å passe nokså dårlig inn i kapittel 1 i straffeloven, som har overskriften «Straffelovgivningens virkeområde».
+
+Den internasjonale anvendelsen av *ne bis in idem*-prinsippet må antas å være under utvikling. Det er grunn til å tro at Norge vil komme til å knytte seg til nye instrumenter som knesetter prinsippet. På denne bakgrunn finner ikke utvalget det hensiktsmessig med en uttømmende oppregning av våre folkerettslige forpliktelser i *lov*. Dette ville i så fall fordre lovendring hver gang Norge tiltrer et nytt instrument som regulerer transnasjonal rettskraft av dommer. Oppregningen ville også kunne komme til å bli temmelig omfattende i tråd med en slik utvikling.[^996]
+
+Utvalget foreslår etter dette at straffeloven § 8 oppheves. En oversikt over hvilke utenlandske avgjørelser som sperrer for gjentatt forfølgning etter folkerettslig avtale, kan gis i forskrift, fortrinnsvis i ny påtaleinstruks, se punkt 17.8.2.4 og 29.2.6. I forskrift kan det som nevnt, om det er ønskelig, også angis utenlandske avgjørelser som skal tillegges sperrevirkning uten at slik virkning følger av folkerettslig avtale.
+
+I utkastet § 32-12 annet ledd bokstav d foreslås på denne bakgrunn følgende utenlandske avgjørelser angitt som grunnlag for avvisning: «utenlandsk avgjørelse som etter folkerettslig avtale eller bestemmelse som Kongen kan gi, stenger for forfølgning.»
+
+1.  *Særlig om identitetsspørsmålet: Hva er «samme forhold»?*
+
+Reglene om negativ materiell rettskraft sperrer for ny forfølgning av «samme forhold», jf. punkt 17.8.2.1. Spørsmålet i det følgende er hva som er ett og samme forhold. Dette omtales gjerne som et identitetsspørsmål.
+
+Tradisjonelt har man tolket «samme forhold» slik at det kreves både faktisk *og* rettslig identitet. Etter tidligere praksis var det således adgang til å reise ny sak om samme faktiske forhold dersom sakene dreide seg om forskjellige rettslige forhold.[^997] En forutsetning var at den nye forfølgningen gjaldt et annet straffebud, men ikke enhver omsubsumering medførte at forholdet skiftet rettslig identitet. Sentralt ved vurderingen stod den såkalte interesselæren. Også EMD tolket tidligere rettskraftregelen i EMK P7-4 slik at den bare kom til anvendelse dersom den nye saken gjaldt et forhold som både faktisk og rettslig var identisk med den tidligere forfølgningen.[^998] I storkammerdom 10. februar 2009 i saken Zolotukhin mot Russland[^999] kom EMD imidlertid til at identitetsspørsmålet skulle avgjøres etter en vurdering av faktum alene:
+
+«82. Accordingly, the Court takes the view that Article 4 of Protocol No. 7 must be understood as prohibiting the prosecution or trial of a second ‘offence’ in so far as it arises from identical facts or facts which are substantially the same. \[…\]
+
+84. The Court’s inquiry should therefore focus on those facts which constitute a set of concrete factual circumstances involving the same defendant and inextricably linked together in time and space, the existence of which must be demonstrated in order to secure a conviction or institute criminal proceedings.»
+
+Det følger av Høyesterettspraksis at den normen EMD har gitt anvisning på i Zolotukhin-saken, må legges til grunn av norske domstoler.[^1000] Dette innebærer at straffeprosessloven § 51 om rettskraft må tolkes i samsvar med konvensjonsforpliktelsen, jf. også straffeprosessloven § 4 første ledd, og bestemmelsen får dermed et videre nedslagsfelt enn etter tidligere praksis.[^1001]
+
+Hva som er ett og samme «forhold» etter utkastet § 32-12 annet ledd, må på samme måte fastlegges i lys av Norges folkerettslige forpliktelser. For så vidt gjelder avgjørelser som har sperrevirkning etter EMK P7-4, er det således identitetsbegrepet etter konvensjonen som må legges til grunn. Tilsvarende gjelder avgjørelser som har sperrevirkning etter Den europeiske konvensjon om internasjonal gyldighet av straffedommer, Den europeiske konvensjon om overføring av straffeforfølging fra eller til annet europeisk land og Schengenkonvensjonen.[^1002] For avgjørelser som er omfattet av utkastet § 32-12 annet ledd, og som ikke har sperrevirking etter folkerettslig avtale – hvilket i første rekke gjelder enkelte påtalevedtak, jf. bokstav b –, er det nærliggende at identitetsbegrepet fastlegges etter samme kriterier som etter EMK P7-4.[^1003]
+
+Identitetsspørsmål oppstår også etter utkastet § 29-7 første ledd første punktum om påtalemyndighetens adgang til å endre tiltalen. Bestemmelsen, som også kommer til anvendelse under hovedforhandlingen, svarer til straffeprosessloven § 254 tredje ledd. Endringsadgangen etter første ledd første punktum gjelder bare innenfor samme forhold, jf. merknadene til bestemmelsen. Avgrensningen av forholdets identitet bør etter utvalgets syn skje etter de samme kriterier som etter regelen om negativ materiell rettskraft, altså ut fra hva som er samme faktiske forhold. Bakgrunnen er følgende: Hvis påtalemyndighetens adgang til å endre tiltalen avgrenses snevrere enn omfanget av den negative materielle rettskraft, vil det medføre at bestemmelser påtalemyndigheten ikke har hatt mulighet til å bringe inn i saken under hovedforhandlingen, omfattes av rettskraften.[^1004] Dette ville begrense mulighetene for å rette opp feil og kunne føre til at rettskraftregelen får uheldige utslag.
+
+Videre oppstår spørsmålet om hva som er samme forhold i relasjon til utkastet § 32-3 om rettens forhold til partenes krav og påstander mv., jf. annet ledd annet punktum: «Ved avgjørelsen av skyldspørsmålet kan retten ikke gå utenfor det *forhold* som er beskrevet i tiltalen, men den er ikke bundet av tiltalens nærmere angivelse av tid, sted og andre omstendigheter.» Bestemmelsen gjelder kun rettens adgang til å fravike det faktiske grunnlaget i tiltalen. System- og koherenshensyn tilsier at spørsmålet om hva som er samme faktiske handling, som utgangspunkt bør avgrenses på samme måte som etter rettskraftregelen.[^1005] Dette innebærer at retten vil ha samme mulighet til å fravike tiltalens faktiske grunnlag som påtalemyndigheten har til å endre det. En mer begrenset adgang ville innebære at påtalemyndigheten i for stor grad kunne binde rettens bevisvurdering, hvilket ville være prinsipielt problematisk. Spørsmålet om rettens adgang til å fravike rettsanvendelsen i tiltalen er nærmere behandlet i punkt 17.6.4.
+
+1.  *Inndragning etter rettskraftig dom*
+
+Det er en viss usikkerhet om hvilke typer inndragning som kan bli ansett som straff i relasjon til EMK, og det er således også noe uklart i hvilken grad en rettskraftig straffedom kan sperre for senere inndragningssak som springer ut av samme forhold. Ved ikrafttredelsen av straffeloven 15. oktober 2015 ble straffeprosessloven § 51 gitt et nytt annet ledd som avklarer forutsetningene for å reise slik ny inndragningssak.
+
+Bestemmelsen åpner i korthet for at det senere fremmes sak om inndragningskrav som ikke er avgjort i den første saken. En forutsetning er etter annet ledd tredje punktum at «tiltalte varsles om at slik sak vil bli fremmet» før hovedforhandling i straffesaken starter, før tilståelsesdom avsies, eller før forelegg vedtas. Etter fjerde punktum har straffedommen positiv rettskraftvirkning i inndragningssaken; avgjørelsen av skyldspørsmålet «legges uprøvd til grunn i den senere inndragningssaken i den utstrekning den er avgjørende for spørsmålet om inndragning». Dette innebærer at den etterfølgende inndragningssaken – for det tilfellet at det er tale om en form for inndragning som anses som straff etter EMK – kan ses som en del av den samlede reaksjonsfastsettelse for det forhold sakene gjelder.[^1006]
+
+I høringen i tilknytning til straffelovens ikrafttredelse uttalte Oslo statsadvokatembeter seg kritisk til straffeprosessloven § 51 annet ledd:
+
+«Etter vår oppfatning er endringen av strpl § 51 annet ledd problematisk av flere grunner. Dels er det slik at loven synes å gå lenger enn det som er nødvendig i forhold til EMK. Det vises her til Matningsdals kommentar om rekkevidden av dobbeltforfølgningsvernet i forhold til inndragningsak som reises etter at straffekravet er avgjort. Videre fremstår lovendringen som forholdsvis upraktisk. En senere inndragningssak vil normalt reises på bakgrunn av at det tilkommer nye opplysninger i saken, opplysninger som setter inndragningsspørsmålet i et nytt lys. Normalt vil inndragningsspørsmålet av prosessøkonomiske grunner avgjøres og iretteføres samtidig med straffespørsmålet. Det vil da ikke være noe behov for å varsle om en senere inndragningssak. Slik loven nå er utformet, vil den ha den effekt at det rutinemessig må tas forbehold om å reise senere inndragningsak i alle saker idet en må gardere seg i tilfelle det dukker opp nye opplysninger som tilsier inndragning. Endelig fremstår endringen av strpl § 51 annet ledd å gå lenger enn det som er nødvendig ut fra den begrunnelse som gis i Ot.prp.nr.90. Hvis varsling er nødvendig i forhold til senere sak om utvidet inndragning, burde varslingsplikten vært begrenset til dette og ikke omfattet alle typer inndragning.»[^1007]
+
+På denne bakgrunn foreslo Oslo statsadvokatembeter at § 51 annet ledd tredje punktum oppheves, eventuelt at varslingsplikten begrenses til utvidet inndragning etter straffeloven § 68. Departementet uttalte at det «har merket seg innspillet, men peker på at et slikt forslag ikke kan vurderes i en ikraftsettingsomgang hvor det er tale om å sette i kraft en allerede vedtatt bestemmelse».
+
+Utvalget har vurdert om dagens regulering bør videreføres, og kommet til at den bør det.
+
+Det råder fortsatt en viss uklarhet om hvilke former for inndragning som vil bli ansett som straff etter EMK. Utvidet inndragning vil nokså klart måtte vurderes som straff i relasjon til dobbeltforfølgningsforbudet. Det samme er nærliggende å anta for brutto inndragning av utbytte,[^1008] og for øvrig vil spørsmålet etter omstendighetene kunne stille seg nokså tvilsomt for ulike typer inndragning. I en slik situasjon er det ønskelig med en enkel regel som avklarer situasjonen. Hever man blikket fra den enkelte sak, vil det formentlig også virke effektiviserende med en regel som i straffeprosessloven § 51 annet ledd. Påtalemyndigheten vil vite at den rutinemessig i forbindelse med straffesaken, så langt det lar seg gjøre, må sørge for alle nødvendige avklaringer av betydning for inndragningskravet. Utvalget har vanskelig for å se at en videreføring av dagens regulering vil «ha den effekt at det rutinemessig må tas forbehold om å reise senere inndragningssak i alle saker idet en må gardere seg i tilfelle det dukker opp nye opplysninger som tilsier inndragning». Utgangspunktet må klart nok være det motsatte; dersom det ikke foreligger opplysninger som tilsier (ytterligere) inndragningskrav, skal slikt krav ikke varsles, og saken vil bli endelig avgjort også for så vidt gjelder inndragningsspørsmålet. Nye opplysninger vil – her som ellers – eventuelt måtte vurderes etter reglene om gjenåpning til skade for mistenkte. Det vises til utkastet §§ 28-5 tredje ledd og 32-13 og merknadene til bestemmelsene.
+
+1.  **Tingrettens behandling av straffekravet**
+
+    1.  **Forberedelse til hovedforhandling**
+
+        1.  **Oversikt**
+
+I det store flertall av straffesaker er saksforberedelsen relativt begrenset. Det vanlige er at påtalemyndigheten etter § 262 oversender tiltalebeslutning og summarisk bevisoppgave til retten ved et skriv der det kort angis hvor lang tid som bør settes av til hovedforhandling. Dessuten adresseres særlige spørsmål av betydning for gjennomføringen av saken, blant annet om det skal benyttes telefonavhør av vitner, om det er behov for tolk, osv. Ut over dette gis vanligvis ikke noen nærmere redegjørelse verken for saken eller bevisene som ønskes ført.
+
+På grunnlag av oversendelsen oppnevner retten forsvarer for tiltalte og berammer hovedforhandling, jf. §§ 262 annet ledd og 275. Når stevning og tiltalebeslutning går til forkynning for tiltalte, skal påtalemyndigheten samtidig sende kopi av tiltalebeslutningen, bevisoppgaven og øvrige saksdokumenter til forsvareren, jf. § 264 første ledd. Forsvarer kan supplere påtalemyndighetens bevisoppgave og begjære ytterligere bevisinnhenting, jf. §§ 265 og 266.
+
+Det er således partene som tar initiativet under saksforberedelsen, og noen utstrakt plikt for retten til å drive aktiv saksstyring er det ikke. Andenæs og Myhrer beskriver forholdet mellom aktørene slik:
+
+«Rettens leder tar som regel ikke noen aktiv del i saksforberedelsen. Det regnes som en fordel at han kommer med åpent sinn til hovedforhandlingen. Under hovedforhandlingen har retten plikt til å sørge for at saken blir fullstendig opplyst (§ 294). Man har regnet med at når det er partene som er pålagt ansvaret for forberedelsen, vil retten under hovedforhandlingen lettere kunne påby bevisførselen supplert uten på noen måte å føle seg bundet av tidligere disposisjoner \[…\]. Når tiltalte har forsvarer er det bare ved uenighet mellom påtalemyndigheten og forsvareren at retten blir nødt til å treffe en avgjørelse under saksforberedelsen.»[^1009]
+
+Etter at dette ble skrevet, har nok saksmengden økt betraktelig, samtidig som det er flere kompliserte saker, flere langvarige hovedforhandlinger og flere saker med fremmedspråklige tiltalte og vitner. Dette gjør at det ikke lenger er hensiktsmessig med passive dommere som bare avgjør tvister under saksforberedelsen og for øvrig stiller med «blanke ark» til hovedforhandlingen. Det er ikke på noe annet felt i samfunnet opphøyd til et ideal å møte uforberedt, og det bør etter utvalgets syn heller ikke være det ved behandlingen av straffesaker. Det vises til utvalgets generelle overveielser om dommerstyrt saksbehandling i punkt 17.1.3.
+
+Muligheten for å legge til rette for en forsvarlig, konsentrert og effektiv behandling av straffekravet etter tiltale vil som regel være størst under saksforberedelsen. På dette stadiet ligger forholdene normalt til rette for at retten og partene kan avklare aktuelle spørsmål, og for at det legges en nærmere plan for den videre behandlingen. Avklaringer forutsetter imidlertid at domstolene og de øvrige aktørene har nødvendige ressurser, og at det settes av tid. Hvorvidt det er hensiktsmessig med avklaring og planlegging forut for forhandlingene, beror blant annet på om det samlet sett vil føre til ressursbesparelser.
+
+I det følgende drøfter utvalget hvorvidt det bør innføres regler om ytterligere saksforberedelse i straffesaker, herunder om saksforberedelsen i større grad bør skje etter tilsvarende mønster som i sivile saker. I punkt 18.1.2 drøfter utvalget om det bør gjelde ulike behandlingsspor for henholdsvis små og store saker. I punkt 18.1.3 til 18.1.9 går utvalget nærmere inn på hvilke rammer som bør gjelde for saksforberedelsen, herunder hvilke virkemidler retten bør ha til rådighet med sikte på saksstyring, planlegging og avklaring. Reglene om frist for hovedforhandling og forhåndsberammelse er omtalt i punkt 18.1.10.
+
+1.  **Ulike behandlingsspor for små og store saker?**
+
+Behovet for saksstyring og avklaringer under saksforberedelsen beror som et utgangspunkt på sakens størrelse og kompleksitet. Det er grunn til å forvente at man i større straffesaker vil tjene på å sette av tid til å avklare spørsmål og legge en plan for gjennomføringen av forhandlingene. Sentrale temaer for avklaring er omfanget av bevisføringen og samordning dersom flere saker er forent til felles behandling.
+
+I de minste sakene vil man oftest være best tjent med å gå rett til forhandlingene uten noen egentlig saksforberedelse. Er faktum begrenset og bevisene få, vil aktørene enkelt danne seg et bilde av hva som vil kreves under forhandlingene, og for retten er det ikke behov for mer forhåndskunnskap om saken enn det som fremgår av tiltalebeslutningen og bevisoppgaven, eventuelt supplert med praktiske opplysninger om påtalemyndighetens syn på hvor lang tid som bør avsettes til hovedforhandling, om det er behov for tolk, hvorvidt det kreves åstedsbefaring mv. Samtidig er det slik at det er de minste sakene det er klart flest av,[^1010] og små effektivitetsgevinster i hver sak vil dermed gi store utslag i sum.
+
+De ulike hensyn som gjør seg gjeldende, gir grunn til å stille spørsmål om hvorvidt det vil være hensiktsmessig å etablere to behandlingsspor med ulike regler for saksforberedelse, ett for små saker og ett for større saker.
+
+Et slikt skille finnes i tvisteloven, der det er gitt egne bestemmelser om forenklet behandling av småkrav, det vil si saker der tvistesummen er under 125 000 kr (småkravsprosess). De forenklede reglene for småkravsprosess kan også benyttes dersom begge parter samtykker og retten beslutter det, eller dersom saken ikke gjelder formuesverdier, retten finner det forsvarlig og hensiktsmessig, og ingen av partene motsetter seg det.
+
+I straffeprosessloven finnes det et system for forenklet pådømmelse ved tilståelsesdom, jf. straffeprosessloven § 248. Ordningen krever imidlertid at det foreligger en uforbeholden tilståelse, og at ytterligere betingelser er oppfylt, og forutsetter begjæring om slik behandling fra påtalemyndigheten og samtykke fra siktede.
+
+Spørsmålet om å etablere et eget behandlingsspor for mindre saker har vært et tema de siste par årene, særlig i tilknytning til saker der det er risiko for at mistenkte vil unndra seg straffeforfølgning. I høringsnotat 10. april 2015 fremmet Justis- og beredskapsdepartementet forslag til prøveprosjekt i Oslo for raskere gjennomføring av straffesaker (hurtigspor):
+
+«Departementet foreslår i dette høringsnotatet regelendringer for å etablere et prøveprosjekt med et såkalt hurtigspor for straffesaker i Oslo. Hensikten er at saker med et klart og oversiktlig bevisbilde hvor det er unndragelsesfare skal pådømmes i Oslo tingrett snarlig etter pågripelse, og at eventuelle anker raskt blir behandlet av Borgarting lagmannsrett og Høyesterett.
+
+Det er videre ønskelig at domfelte soner straffen umiddelbart etter rettskraftig dom. Der det er aktuelt skal det raskt fattes utvisningsvedtak med påfølgende transport ut av landet.»[^1011]
+
+I forlengelsen er det i Oslo tingrett fra 1. september 2016 igangsatt et hurtigbehandlingsprosjekt for rask iretteføring av straffesaker mens siktede er pågrepet eller varetektsfengslet. Målet er at hovedforhandling skal avholdes innen første fengslingsperiode, fortrinnsvis innen 14 dager. I utgangspunktet omfatter prosjektet mindre saker som kan medføre ubetinget fengselsstraff, og hvor det på grunn av unndragelsesfare er aktuelt med varetektsfengsling frem til hovedforhandling.
+
+I statsråd 7. mai 2015 ble det oppnevnt et offentlig utvalg som skal utrede særdomstoler for barne- og familiesaker og forvaltningsdomstol for utlendingssaker, og som dessuten skal vurdere spørsmål om hurtigspor i de alminnelige domstolene for enkelte typer straffesaker. Utvalget skal særlig vurdere om det er sakstyper der hurtigere behandling vil kunne forhindre at personer kan unndra seg straffansvar eller medvirke til en bedre samlet ressursutnyttelse. Utvalget skal levere sin utredning innen 31. januar 2017.
+
+Straffeprosessutvalget foreslår å videreføre ordningen med pådømmelse ved tilståelsesdom med enkelte endringer, jf. punkt 18.3. Benyttes denne behandlingsformen, vil det i alminnelighet ikke være behov for annen saksforberedelse enn den som kan skje uformelt.
+
+Slik utvalget vurderer det, er det vanskelig å finne egnede kriterier for ytterligere sporvalg. Selv om behovet for mer utførlig saksforberedelse som utgangspunkt er ulikt i små og større straffesaker, kan det etter omstendighetene melde seg et slikt behov i de aller fleste sakstyper. En kunne løse dette ved å åpne for at retten etter en vurdering i det enkelte tilfelle gis adgang til å overføre en sak fra ett prosessuelt spor til et annet, men mye av gevinsten ved en modell bygget på sporvalg ville i så fall gå tapt.
+
+Utvalget er på denne bakgrunn kommet til at reglene om saksforberedelse bør gjelde generelt, uavhengig av sakens art og størrelse. Reglene i utkastet gir anvisning på en grunnleggende fremgangsmåte som skal benyttes i alle saker, jf. §§ 34-1 til 34-6. Reglene er imidlertid fleksible og åpner for at mindre saker kan behandles med en helt begrenset saksforberedelse. Muligheten for hurtigbehandling av enkelte saker er således ivaretatt. Samtidig gis retten adgang til å benytte ulike virkemidler for avklaringer og planlegging mv. ut fra behovet i den enkelte sak, jf. utkastet §§ 34-7 til 34-12. De ulike elementer i saksforberedelsen, herunder virkemidler retten kan velge å ta i bruk, behandles nærmere i det følgende.
+
+1.  **Tilsvar**
+
+Av hensyn til det videre saksopplegget vil det være hensiktsmessig både for aktor og for retten å få klargjort hvilke spørsmål tiltalte og forsvarer anser som omtvistet, før hovedforhandlingen starter. I saker der mistenkte har forsvarer, bør det derfor kreves at forsvarer skal gi tilsvar til påtalemyndighetens oversendelse av saken til retten, jf. utkastet § 34-4.
+
+Kravet om tilsvar medfører imidlertid ingen plikt til å gi nærmere bestemte opplysninger, og forsvareren skal vurdere hvilke opplysninger det vil være forenelig med forsvareroppdraget å gi på dette stadiet. Det skal ikke utøves noen form for press overfor mistenkte og forsvareren når det gjelder å avklare spørsmål. Se nærmere punkt 17.1.3. De andre aktørene må være seg bevisst at forsvaret kan ha et annet perspektiv på saken og ha foretatt overveielser på et annet grunnlag enn påtalemyndigheten. En forutsetning er at dette privilegiet for forsvaret ikke misbrukes, og det må derfor blant annet kunne forventes at det gis opplysninger om bevis forsvaret vet skal føres. Se også punkt 20.4.2.1 om situasjonen ved anke.
+
+I mange saker vil det ikke være behov for tilsvar, og utkastet åpner for at retten kan beslutte at tilsvar kan unnlates. Det vil særlig være aktuelt å treffe slik beslutning i små og enkle saker som skal behandles hurtig.
+
+1.  **Rettens plan for behandlingen**
+
+Et generelt utslag av prinsippet om saksstyring er at retten skal sørge for at behandlingen skjer planmessig. Behovet for planmessighet gjør seg imidlertid særlig gjeldende under saksforberedelsen, hvor hovedformålet nettopp er å sørge for nødvendige avklaringer og en plan for den videre behandlingen av saken.
+
+Utkastet § 34-7 første ledd bestemmer således: «Retten skal legge en plan for den videre behandlingen, herunder fastsette frister for innlegg fra partene og treffe nødvendige beslutninger, jf. § 30-1 annet ledd.» Bestemmelsen svarer til tvisteloven § 9-4 annet ledd første punktum.
+
+Planen vil kunne fungere som en sikkerhet for at nødvendige spørsmål er avklart, være et nyttig styringsverktøy for retten og sikre partene og øvrige aktører forutberegnelighet med sikte på den videre behandling.
+
+Også andre enn aktørene vil kunne ha nytte av at opplegget for hoved- eller ankeforhandlingen blir nedfelt. Det vil således være verdifullt at vitner og sakkyndige i god tid får beskjed om når de skal møte. I større saker av offentlig interesse vil det dessuten være av betydning at det blir klart når det skal forhandles om sakens ulike temaer.
+
+Utkastet forutsetter ikke at planen alltid formaliseres skriftlig, og i små og enkle saker vil det ikke være behov for noen plan utover det som følger av alminnelige rutiner ved domstolen. Hvorvidt det skal utarbeides en skriftlig plan, må bero på behovet i den enkelte sak, men skal dette virkemidlet kunne fungere som styringsverktøy under hovedforhandlingen, må det foreligge en formalisert plan som partene er innforstått med. Dersom planen fastsettes i saksforberedende rettsmøte (planmøte), jf. punkt 18.1.5, skal den nedtegnes etter reglene om føring av rettsbok, på samme måte som i sivile saker.
+
+Planen bør angi sakens tidsrammer, sakens temaer, tidspunkter for bevisføring og andre forhold av betydning, som for eksempel når det skal innkalles tolk. Temaer som typisk er aktuelle, er nærmere angitt i utkastet § 34-7 annet ledd.
+
+1.  **Saksforberedende rettsmøte**
+
+Reglene om rettsmøte for behandling av spørsmål som nevnt i straffeprosessloven § 272 suppleres av § 274 annet ledd, som gir en generell adgang til å avholde rettsmøte under saksforberedelsen. Det er opp til rettens skjønn å avgjøre om adgangen skal benyttes. Selv om det ikke fremgår uttrykkelig av loven, har tiltalte krav på varsel om rettsmøter under saksforberedelsen.[^1012] Det samme gjelder formentlig fornærmede og etterlatte med bistandsadvokat.[^1013] Saksforberedende rettsmøte kan ikke gjennomføres som fjernmøte.
+
+Verken straffeprosessloven §§ 272 eller 274 annet ledd er til hinder for uformell kontakt mellom retten og de øvrige aktørene.[^1014] I større straffesaker er det relativt vanlig å avholde *uformelle møter* mellom aktørene under saksforberedelsen om praktiske spørsmål knyttet til sakens gjennomføring. Tiltalte, fornærmede og etterlatte er som regel ikke til stede i slike møter, og selv om møtene ikke munner ut i bindende avtaler, blir opplegg det er enighet om, i praksis fulgt. At det har vært enighet, kan også få betydning dersom det senere skal treffes formell avgjørelse om spørsmål som har vært drøftet.[^1015]
+
+Etter tvistelovens regler om allmennprosess skal det som regel holdes *planmøte* straks tilsvar er inngitt, og retten skal etter drøftelse med partene legge en plan for den videre behandlingen av saken, jf. tvisteloven § 9-4. Planmøtet er et rettsmøte, men kan gjennomføres som fjernmøte. I praksis skjer gjennomføringen per telefon, og det vanlige er at kun partenes prosessfullmektiger deltar. Det er adgang til skriftlig avklaring dersom «sakens framdrift tilsier det, eller drøfting i rettsmøte åpenbart er unødvendig». Erfaringene med planmøte i sivile saker synes i all hovedsak å være gode.[^1016]
+
+Utvalget mener det ikke bør innføres en hovedregel om planmøte i straffesaker etter modell av tvisteloven. Dels har partenes autonomi mindre gjennomslag i straffeprosessen, og det vil derfor ikke være samme mulighet for formell tilskjæring av saken, se punkt 17.1.3. Dels vil slike møter ofte være overflødig i småsaker, og en for vidtrekkende presumsjon om behov for rettsmøte kan lede til at møtet blir en ren formalitet som innebærer unødig ressursbruk. Hvorvidt det skal finne sted planmøte i form av et saksforberedende rettsmøte, bør derfor som i dag overlates rettens skjønn i lys av behovet for å sikre forsvarlig og konsentrert behandling, jf. utkastet § 34-9 første punktum.
+
+Det er imidlertid viktig å legge til rette for at saksforberedende rettsmøte, herunder planmøte, kan bli et praktisk og effektivt verktøy. Det bør derfor åpnes for at slike kan gjennomføres som fjernmøte, hvilket det vil være adgang til på bakgrunn av utvalgets forslag til ny § 122 a i domstolloven, se punkt 6.4.5.3. Det bør også ved behov være adgang til å avholde saksforberedende rettsmøte uten at tiltalte, fornærmede og etterlatte innkalles, når deres tilstedeværelse ikke er nødvendig, jf. utkastet § 34-9 annet punktum.
+
+Utvalgets forslag utelukker ikke at avklaringer kan skje ved uformell kontakt mellom retten og påtalemyndigheten, forsvareren og bistandsadvokaten.
+
+1.  **Avgjørelser under saksforberedelsen**
+
+Straffeprosessloven § 272 gir retten adgang til å treffe visse avgjørelser allerede under saksforberedelsen, blant annet om avvisning av saken, frifinnelse av tiltalte fordi forholdet beskrevet i tiltalen ikke er straffbart, avskjæring av bevis, fjernavhør av vitner mv.
+
+Lovutkastet viderefører i det vesentlige rettens adgang til å treffe avgjørelser under saksforberedelsen, både om den videre behandlingen av saken og om avvisning og frifinnelse av grunner som nevnt i straffeprosessloven § 272 første ledd bokstav b. Det vises til utkastet §§ 34-7 første og tredje ledd og 34-13. Etter utkastet kan avgjørelser som lagmannsretten treffer under saksforberedelsen med noen få unntak, treffes av saksforberedende dommer, jf. § 5-6 fjerde ledd.
+
+Det har vært omdiskutert om det etter § 272 må avholdes rettsmøte før spørsmålene avgjøres, eller om de også kan avgjøres etter skriftlig behandling. Antakelig må det legges til grunn at enkelte beslutninger ikke kan treffes uten muntlig behandling, blant annet gjelder dette ved spørsmål om avvisning og bevisavskjæring.[^1017]
+
+Utkastet bygger på at alle beslutninger under saksforberedelsen skal kunne treffes etter skriftlig behandling, så lenge det gir et forsvarlig avgjørelsesgrunnlag, og retten til og behovet for kontradiksjon ivaretas. I mange tilfeller vil de spørsmål retten skal ta stilling til, kunne bli vel så godt opplyst ved skriftlig som ved muntlig behandling. Det bør overlates rettens skjønn å avgjøre om det er hensiktsmessig med muntlig forhandling, ut fra hensynene til forsvarlig saksbehandling.[^1018] Dette bør også gjelde for spørsmål om avvisning og frifinnelse etter utkastet § 34-13. Avgjørelsen kan være så opplagt at det vil være unødvendig anstaltmakeri å gjennomføre muntlige forhandlinger. Se utkastet §§ 34-7 første og tredje ledd og 34-13, jf. § 31-1 første ledd, og merknadene til bestemmelsene.
+
+1.  **Skriftlig redegjørelse**
+
+Etter straffeprosessloven kan retten i særlige tilfeller, der det etter sakens art er hensiktsmessig, pålegge påtalemyndigheten å utarbeide en skriftlig redegjørelse for saken, jf. § 262 tredje ledd. Redegjørelsen skal forelegges for tiltalte og forsvarer for eventuelle merknader. Bestemmelsen benyttes relativt sjelden i praksis og fortrinnsvis i store og kompliserte straffesaker.
+
+Utvalget antar ordningen bør benyttes oftere enn etter dagens praksis. Det vil formentlig relativt ofte kunne være behov for å få klargjort hvordan påtalemyndigheten ser på saken, også i saker av mindre omfang enn der det i dag er vanlig å be om redegjørelse.
+
+Formålet med redegjørelsene er at de skal tjene som verktøy for videre saksforberedelse og saksstyring. For å sikre formålet bør retten sette rammer for fremstillingens form og omfang.[^1019] I alminnelighet må det antas å være hensiktsmessig om redegjørelsen begrenses til en oversikt over sentrale punkter som er omtvistet, anførsler og bevis, eventuelt at fremstillingen begrenses til nærmere bestemte spørsmål. Det er viktig at redegjørelsen ikke svulmer for mye opp, idet den dermed lett kan bli utjenlig som verktøy. Se utkastet § 34-10 og merknadene til bestemmelsen.
+
+1.  **Felles saksfremstilling**
+
+Utvalget anbefaler videre at det inntas en bestemmelse i loven som åpner for at retten kan oppfordre partene til å utarbeide en felles saksfremstilling, med sikte på å avklare om det er deler av sakens faktiske sider som er omforent, og hvilke deler av saksforholdet enigheten i så fall omfatter, jf. utkastet § 34-11.
+
+Straffeprosessens sannhetsideal og rettens ansvar for sakens opplysning innebærer at retten ikke er bundet av enighet mellom partene om faktiske forhold. Det er likevel klart at enighet om hele eller deler av det hendelsesforløpet tiltalen gjelder, vil kunne forenkle den videre behandlingen, særlig hva gjelder omfanget av bevisføringen. Det må også som et generelt utgangspunkt antas å være en presumsjon for sammenfall mellom det enigheten gjelder, og de faktiske forhold, og dette er noe retten kan ta hensyn til ved bevisvurderingen, jf. utkastet § 7-5.
+
+Partenes felles saksfremstilling vil måtte utformes skriftlig, og formålet er at den skal kunne forelegges retten til bruk under saksforberedelsen, hovedforhandlingen og domsskrivingen. Fremstillingen vil i tillegg til henvisninger til og gjengivelse av skriftlige bevis kunne inneholde elementer av forklaringer avgitt i anledning saken, og ordningen innebærer således et unntak fra bevisumiddelbarhetsprinsippet, se punkt 17.3.3.
+
+Adgangen til kontradiksjon er imidlertid sikret gjennom felles utforming og partenes muligheter til å kommentere fremstillingen under hovedforhandlingen. Hensynet til et best mulig avgjørelsesgrunnlag ivaretas ved at fremstillingen utformes av dem som kjenner saksforholdet best, hvilket reduserer faren for uklarheter, misforståelser mv.[^1020]
+
+Utvalget mener på denne bakgrunn det er uproblematisk å åpne for bruk av felles saksfremstilling som en del av rettens avgjørelsesgrunnlag. Utkastet § 10-9 fjerde ledd siste punktum presiserer at det er adgang til å gjengi partenes felles saksfremstilling selv om den inneholder forklaringselementer.
+
+Felles saksfremstilling vil neppe være aktuelt å benytte i ordinære småsaker, men vil formentlig kunne være et nyttig verktøy i store og kompliserte saker.
+
+1.  **Sluttinnlegg**
+
+Saksforberedelsen i sivile saker avsluttes som regel to uker før hovedforhandlingen, og før dette skal partene normalt inngi et sluttinnlegg, som kort skal angi påstander, påstandsgrunnlag, de rettsregler som påberopes, og de bevis partene vil føre, jf. tvisteloven § 9-10. Det skal også følge med et forslag til fremdriftsplan for hovedforhandlingen.
+
+Bestemmelsens formål er å få partene til å tenke gjennom opplegget for hovedforhandlingen, slik at den lar seg gjennomføre mest mulig konsentrert. Sluttinnleggene skal være oversiktspregede, og argumentasjon om juss og faktum skal utelates. Når saksforberedelsen er avsluttet, er det ikke lenger adgang til å sette frem nye krav, utvide påstanden, fremsette nye påstandsgrunnlag eller tilby nye bevis, med mindre det følger av tvisteloven § 9-16.[^1021]
+
+For straffeprosessen er det ikke rom for å la saksforberedelsen ende i en tilsvarende formalisert avslutning med preklusiv virkning for partenes adgang til å fremsette nye anførsler og bevis mv., jf. punkt 17.1.3. Men en adgang for retten til å pålegge partene å inngi sluttinnlegg vil i forlengelsen av de øvrige virkemidlene være et naturlig og nyttig verktøy for endelige avklaringer. Også sluttinnlegg vil formentlig være mest aktuelt i større saker, men det må antas at det også i enkelte mindre saker kan være praktisk å benytte dette, for eksempel som eneste saksforberedende skritt utover påtalemyndighetens oversendelse etter utkastet § 34-1 og forsvarers tilsvar etter utkastet § 34-4. Det vises til utkastet § 34-12.
+
+1.  **Særlig om frist for hovedforhandling og forhåndsberammelse**
+
+Etter straffeprosessloven § 275 annet ledd skal hovedforhandling avholdes så snart som mulig. Dersom den siktede var under 18 år da lovbruddet ble begått, eller er varetektsfengslet når saken berammes, skal hoved- og ankeforhandling som hovedregel være påbegynt innen seks uker etter at saken kom inn til tingretten, og innen åtte uker etter at anke til lagmannsretten er henvist til ankeforhandling.
+
+Som det fremgår av punkt 16.2 om frist for påtalevedtak, kan fristregler ha utilsiktede og uheldige konsekvenser. At de fristbelagte sakene prioriteres på bekostning av andre saker, kan i utgangpunktet være en ønsket effekt, men fristregler kan også føre til uønskede forskyvninger. Således kan frister på noen områder føre til at andre saker får en uforholdsmessig lang saksbehandlingstid. Det er heller ikke gitt at den gjennomsnittlige saksbehandlingstiden totalt sett vil bli kortere. For domstolenes del må spørsmålet om å innføre fristregler i straffesaker dessuten ses i sammenheng med fristreglene som gjelder i sivile saker.
+
+Utvalget er på denne bakgrunn i utgangspunktet skeptisk til å utvide bruken av fristregler. I likhet med synspunktene det gis uttrykk for i rapporten *Ressurs- og tidsbruk i omfattende straffesaker* fra 2011, mener utvalget at en styrking av samhandlingen mellom domstolene og påtalemyndigheten, forsvareren og bistandsadvokaten i utgangspunktet er et mer hensiktsmessig tiltak for rask berammelse og avvikling tilpasset behovet i den enkelte sak enn ytterligere lovbestemte frister.[^1022]
+
+Gjeldende fristregler etter straffeprosessloven § 275 annet ledd foreslås videreført. Det er tale om en relativt begrenset gruppe saker, og det er utvilsomt viktig at saker der tiltalte holdes varetektsfengslet, og som involverer unge lovbrytere, prioriteres. Det er utvalgets inntrykk at reglene stort sett har fungert bra. Det foreslås en justering ved at fristen skal gjelde når mistenkte er under 20 år når saken kommer inn til retten eller på henvisningstidspunktet. Endringen tar utgangspunkt i at det er tiltaltes alder når saken tas til rettslig behandling, og ikke på gjerningstidspunktet, som er det sentrale. Endringen vil medføre en viss utvidelse av saker der fristregelen kommer til anvendelse. Det vises til utkastet §§ 34-2 tredje ledd og 39-5 siste punktum.
+
+Spørsmålet om å lovfeste en plikt for retten til *forhåndsberammelse* av hoved- og ankeforhandling ble drøftet av departementet i forbindelse med endringene i straffeprosessloven § 275 om frist for hoved- og ankeforhandling. Departementet la til grunn at det etter gjeldende rett er adgang til forhåndsberammelse, og mente det ikke var noe stort behov for lovregulering.[^1023] Spørsmålet er også vurdert i rapporten *Ressurs- og tidsbruk i omfattende straffesaker.*[^1024]

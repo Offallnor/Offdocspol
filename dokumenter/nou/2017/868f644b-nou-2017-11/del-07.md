@@ -1,1226 +1,295 @@
-# NOU 2017: 11, del 7 av 26 (side 78–90)
+# NOU 2017: 11, del 7 av 25
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2017/868f644b-nou-2017-11.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2017-11/id2553617/
 - Original-PDF: https://www.regjeringen.no/contentassets/8e638734347b4e93ab97f597a8ac0bc8/no/pdfs/nou201720170011000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 32 tabeller, 55 figurer, 209 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 78]
-
-78
-
-NOU 2017: 11
-
-Kapittel 7
-
-Bedre bistand. Bedre beredskap
-
-Justis- og
-beredskapsdepartementet
-
-Kunnskapsdepartementet
-
-Politidirektoratet
-
-NOKUT
-
-Politihøgskolens styre
-
-Rektor ved Politihøgskolen
-
-Figur 7.2 Forslag til de endrede styringslinjer mellom Politidirektoratet, styret og rektor ved
-Politihøgskolen
-tering og kvalitet. Som tidligere nevnt, er det
-meget viktig med en nær og god dialog mellom
-Politidirektorat, styreleder og rektor, slik at styringslinjen og respekten for denne ivaretas i alle
-ledd.
-Disse vurderingene går noe videre enn, og er
-for øvrig også i samsvar med, de konklusjoner
-som Sefland-utvalget i sin tid trakk om at Politidirektoratet i større grad må bruke sitt handlingsrom. Gjennom de forslag utvalget her har kommet
-med, vil muligheten for at direktoratet kan bruke
-sitt handlingsrom, bli ivaretatt og styrket. Dette vil
-ikke være i strid med den akademiske friheten.
-Sefland-utvalget foreslo også at det skulle opprettes et strategisk kompetanseråd. Utvalgets forslag
-vil gjøre det lettere for Politidirektoratet å etablere
-et slikt råd, fordi det vil være enklere å få gjennomført de anbefalinger et slikt råd vil gi, gjennom styringsstrukturen.
-Bør Politihøgskolen fortsatt ha et eget budsjettkapittel?
-Tildelingen til Politihøgskolen skjer som nevnt via
-et eget budsjettkapittel, kapittel 442. Dette trass i
-at det i forskriften heter at høgskolen er underlagt
-Politidirektoratet. Det er et særskilt spørsmål om
-man bør opprettholde et eget budsjettkapittel i
-Justis- og beredskapsdepartementet for Politihøgskolen, og i den forbindelse om det er departementet eller Politidirektoratet som skal bestemme
-antall studentopptak per år. Et eget budsjettkapit-
-
-tel kan bidra til forutsigbarhet og styrke høgskolens institusjonelle autonomi.
-Utvalget ser at det kan være fordeler med å
-oppleve en viss skjerming ved å være i et eget
-kapittel, og at det kan gi en viss forutsigbarhet
-som kan være særlig nyttig i en periode hvor man
-skal redusere antall studenter. Utvalget kan imidlertid ikke se at dette prinsipielt sett er en forutsetning for den akademiske frihet. Det som gir
-stor grad av frihet, er den samlede styringsstrukturen for Politihøgskolen. Det innebærer at også
-etter utvalgets forslag vil Politihøgskolen i stor
-grad fortsatt ha institusjonell autonomi og akademisk frihet.
-Politidirektoratet vil få et bedre samlet grep
-om Politihøgskolen, herunder mulighet til å justere rammer og studentantall etter behov. Rent
-prinsipielt vil utvalget slutte seg til at det bør være
-Politidirektoratet som gis et totalansvar, hvor
-kapittel 442 inngår i totalbevilgningen til Politidirektoratet. Dette vil styrke direktoratets totale styring over høgskolen og derved styrkeproduksjonen. Imidlertid kommer også andre hensyn. Gjennom de øvrige grep utvalget foreslår, vil Politidirektoratet få mulighet til å utøve sterkere direkte
-eierstyring. Samtidig erkjennes det at antall politistudenter og bevilgningene til Politihøgskolen
-kan være av en viss politisk interesse, slik at det
-kan være hensiktsmessig at ikke det blir for
-mange endringer samtidig. Utvalget antar det heller ikke vil spille noen stor rolle i styringsdialogen
-om man fortsatt har 442 som et eget kapittel,
-
-[Side 79]
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-såfremt direktorat og departement har en god dialog om prosessen i forkant.
-Samlet sett foreslår derfor utvalget at Politihøgskolen fortsatt har et eget budsjettkapittel inntil videre. Ved en sammenslåing med KRUS må
-dette likevel vurderes på nytt.
-Andre tiltak
-Politihøgskolen ivaretar i tillegg til utdannings- og
-forskningsvirksomheten flere driftsfunksjoner,
-herunder drift av to kurs- og øvingssentre, kantinen i Justis- og beredskapsdepartementet og et
-internat for etter- og videreutdanningsstudenter i
-Oslo. Det pågår en prosess for å innlemme deler
-av disse funksjonene under PFT (Politiets Fellestjenester). Utvalget støtter at Politihøgskolens
-portefølje gjennomgås med sikte på rendyrking av
-kjerneoppgaver. Utvalget anbefaler at drift av Justissektorens kurs- og øvingssenter (JKØ) i Stavern og drift av øvingssenter på Kongsvinger
-overføres til PFT. I tillegg anbefaler utvalget at
-kantinedriften ved Justis- og beredskapsdepartementet og overnattingsfasilitetene i Dronning
-Astrids gate blir driftet av andre enn Politihøgskolen. Det er en utfordring med bredt lederspenn,
-
-79
-
-Kapittel 7
-
-og nevnte driftsfunksjoner kan ikke i seg selv
-anses som en sentral oppgave for en høgskole av
-begrenset størrelse som Politihøgskolen er.
-Fagansvar
-Utvalget er kjent med at Politihøgskolen ønsker et
-bredere fag- og metodeansvar enn i dag. Politihøgskolen ønsker et operativt fagforvalteransvar, herunder ansvar for å gi faglige instrukser, retningslinjer og føringer for hvordan faget skal utøves.
-Dette begrunnes i at den faglige styringen skal
-være forsknings- og kunnskapsbasert, herunder
-være i samsvar med relevant forskning, og i at
-PHS som høgskole mener å ha best kompetanse
-på området. PHS er samtidig klar på at POD bør
-ha fagansvar på strategisk nivå.
-Utvalget har merket seg at det er omdiskutert
-hva som ligger i fagansvar, og hvordan det utøves,
-og at det er flere av de øvrige av dagens særorgan
-som mener at de har og bør ha et slikt ansvar.
-Siden denne uklarheten hindrer effektiv styring
-og ledelse, behandler utvalget dette spørsmålet i
-kapittel 16.
-
-[Side 80]
-
-80
-
-NOU 2017: 11
-
-Kapittel 8
-
-Bedre bistand. Bedre beredskap
-
-Kapittel 8
-
-Kripos
-8.1
-
-Generelt
-
-Kripos er den nasjonale enhet for bekjempelse av
-organisert og annen alvorlig kriminalitet med
-riksdekkende ansvar for bistand, etterforskning
-og påtale for visse saker innen organisert og
-annen alvorlig kriminalitet. Kripos er i tillegg et
-nasjonalt kompetansesenter med ansvar for fagog metodeutvikling på flere områder.
-I etterforskning og påtalespørsmål er Kripos
-underlagt Det nasjonale statsadvokatembetet for
-bekjempelse av organisert og annen alvorlig kriminalitet (NAST). Rammer og retningslinjer knyttet til etterforskning og påtale, herunder bistand
-til politidistrikt og andre sentrale politiorgan, er
-særskilt regulert i påtaleinstruksens kapittel 37.
-Prioriteringer ellers følger av Riksadvokatens
-årlige mål- og prioriteringsskriv.
-Som politiorgan er Kripos underlagt Politidirektoratet (POD). Oppgaver og ansvar er gitt
-gjennom en egen instruks,1 årlige disponeringsskriv og den løpende styringsdialogen. Ved opprettelsen av enheten for etterforskning av alvorlige uoppklarte saker («cold case-enheten») i
-2015, ble det gitt egen instruks.
-
-8.1.1 Oppgaver og ansvar
-Siden 2005 har Kripos vokst betydelig både i størrelse og i oppgaveportefølje. Kripos har fått tildelt
-en rekke nye oppgaver, både av midlertidig og
-varig karakter. Dette er oppgaver det har blitt vurdert som lite hensiktsmessig eller kostnadseffektivt å legge til politidistriktene eller andre særorgan. Eksempelvis gjelder dette saker med begrenset volum, behov for spesialisert kompetanse eller
-utstyr eller saker med behov for nasjonal eller
-internasjonal koordinering, som for eksempel
-behandleransvaret for politiets registre.
-I instruksen for Kripos heter det at oppgavene
-skal omfatte
-– etterforskning og påtale
-1
-
-Instruks for Kripos gitt av Politidirektoratet 11. mai 2005.
-
-–
-–
-–
-–
-–
-–
-–
-–
-–
-–
-
-kriminaletterretning og analyse
-bistand til åstedsundersøkelser og etterforskning
-kriminaltekniske undersøkelser, analyser og
-vurderinger
-datakriminalitet
-kommunikasjonskontroll
-undersøkelser og observasjoner
-internasjonalt politisamarbeid
-registeransvar
-identifiseringsarbeid gjennom egen ID-gruppe
-kompetanse- og metodeutvikling, samt kompetanseoverføring til politidistriktene
-
-8.1.2
-
-Opprettelsen av
-Kriminalpolitisentralen
-Særorganet Kriminalpolitisentralen ble opprettet
-som en selvstendig bistandsorganisasjon for politiet i 1959 ved at Kriminalregisteret (de sentrale
-politiregistrene), identifiseringssentralen og kriminallaboratoriet ble skilt ut fra Oslo politikammer. Det nye særorganet ble ledet av en politiinspektør og hadde 35 ansatte.
-Ved siden av kriminaltekniske undersøkelser
-av innhentet og innsendt materiale for politi, påtalemyndighet og domstoler skulle det nye særorganet bistå stedlig politi i hele landet med åstedsundersøkelser og kriminalteknisk ekspertise samt
-være konsultativt organ for Justis- og politidepartementet i kriminaltekniske spørsmål. Kriminalpolitisentralen skulle registrere fingeravtrykk, fotografier og andre identifikasjonsmidler som ble
-innsendt eller innhentet, samt føre registre over
-personer, forbrytelser, gjenstander mv. som
-kunne være av betydning for politiets arbeid. Særorganet skulle dessuten forestå utgivelsen av det
-landsdekkende bladet Polititidende.
-I forbindelse med revidert nasjonalbudsjett for
-2004 vedtok Stortinget å legge ned Kriminalpolitisentralen og opprette et nytt særorgan – Den
-nasjonale enhet for bekjempelse av organisert og
-annen alvorlig kriminalitet (Nye Kripos) – med
-virkning fra 1. januar 2005.
-
-[Side 81]
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-81
-
-Kapittel 8
-
-Boks 8.1 Kripos tilførte oppgaver 2005–2017
-2013 Etablerer eget fagmiljø innenfor internetSiden 1. januar 2005 er Kripos tilført en rekke
-trelatert etterforskningsstøtte.
-oppgaver. Her nevnes noen av disse oppgavene:
-2014 Politiregisterloven blir vedtatt, og Kripos
-2005 Tildelt nasjonalt ansvar for å forebygge,
-blir behandlingsansvarlig for majoriteten
-etterforske og straffeforfølge komplekse
-av politiets registre.
-og alvorlige saker knyttet til organisert kriI forbindelse med regjeringens handminalitet.
-lingsplan mot radikalisering får Kripos i
-Får et eksklusivt ansvar for å etterforoppdrag å forebygge radikalisering på nett.
-ske krigsforbrytelser, folkemord og forbry2015 Blir nasjonalt kontaktsenter for Eurosur.
-telser mot menneskeheten.
-Får i oppdrag å lede det norske bidraget
-Tildeles ansvar for det nasjonale vitnetil grensekontroll/redning i Middelhavet.
-beskyttelsesprogrammet.
-Får ansvar for å etablere en enhet for alPolitiets Datakrimsenter overføres fra
-vorlige uoppklarte saker (cold case-enheØkokrim til Kripos.
-ten) i Norge.
-2007 Tildelt nasjonalt ansvar for forebygging av
-Nasjonalt kontaktpunkt for kontroll
-seksuelle overgrep mot barn.
-med bombekjemikalier blir opprettet.
-Funksjonen som sjef for PTN (det nordiske politi- og tollsamarbeidet) overført
-Andre ansvarsoppgaver som er tildelt Kripos:
-fra Politidirektoratet til sjef Kripos.
-– nasjonalt ansvar for informantbehandling
-2008 Politiets «Røde knapp» blir etablert, en
-– nasjonal kommunikasjonskontroll
-kanal der barn og unge kan komme i rask
-– UC (undercover) på nett
-kontakt med politiet på internett dersom
-– ansvar for å lede den nasjonale identifisede blir utsatt for uønskede hendelser.
-ringsgruppen som blir mobilisert ved ulyk2010 Får i oppdrag fra Politidirektoratet å etaker og katastrofer
-blere voldtektsgruppe.
-2012 Tildeles nasjonalt fag- og metodeansvar for
-kriminalteknikk.
-
-Bakgrunnen for opprettelsen var et ønske om
-forsterket og samordnet innsats for bekjempelse
-av alvorlig organisert kriminalitet. Nye Kripos fikk
-vesentlig endring i ansvarsområde og myndighet
-sammenliknet med den tidligere Kriminalpolitisentralen og kunne nå etterforske egne saker
-innenfor alvorlig organisert kriminalitet. Ledelsen
-i det nye særorganet ble gitt påtalekompetanse på
-politimesternivå. Nye Kripos fikk blant annet
-sekretariatsfunksjonen i ROK (Rådet for samordnet bekjempelse av organisert kriminalitet).
-Politiets datakrimsenter ble flyttet fra Økokrim til Nye Kripos for å etablere Nye Kripos som
-nasjonalt kompetansesenter for bekjempelse av
-kriminalitet begått ved bruk av IKT.
-I 2006 ble navnet Den nasjonale enhet for
-bekjempelse av organisert og annen alvorlig kriminalitet (Nye Kripos) endret til Den nasjonale enhet
-for bekjempelse av organisert og annen alvorlig kriminalitet (Kripos). Ingen endring i oppgaveporteføljen ble foretatt, men som boks 8.1 viser er en
-rekke oppgaver blitt tilført i ettertid.
-
-8.2
-
-Dagens organisering av Kripos
-
-Kripos ble i sin tid etablert som selvstendig politiorgan fordi det var ansett som hensiktsmessig å
-etablere landsdekkende tjenester i ett organ. Det
-var likevel først i forbindelse med politireformen i
-år 2000 og overgangen fra 54 til 27 politidistrikter
-at det ble vurdert endring i oppgaver og organisering. I St.meld. nr. 22 (2000–2001), Politireform
-2000 – Et tryggere samfunn, ble det påpekt at særorganene generelt bør konsentrere seg mer om
-sine kjernefunksjoner og styrke sin rolle som
-nasjonale kompetansesentra. Om Kripos ble det
-anført:
-«Departementet foreslår ikke konkrete
-endringer verken med hensyn til Kriminalpolitisentralens organisering eller primæroppgaver, men understreker at bistandsfunksjonene
-bør inneholde en komplementær fagkompetanse i forhold til politidistriktenes. Et av siktemålene med å redusere antallet er som tidli-
-
-[Side 82]
-
-82
-
-NOU 2017: 11
-
-Kapittel 8
-
-Bedre bistand. Bedre beredskap
-
-Boks 8.2 Noen sentrale utviklingstrekk i Kripos’ historie:
-minaletterretningsavdelingen. Førstnevnte
-1959 Kriminalpolitisentralen ble opprettet.
-retter seg mot ulovlig innvandring og
-1960 Kripos overtar ansvaret for internasjonalt
-menneskesmugling, herunder avdekking av
-politisamarbeid ved at det nasjonale Interforfalskede pass, visum og andre reisedokupol-kontoret blir flyttet dit fra Oslo politimenter. Kriminaletterretningsavdelingen får
-kammer.
-ansvar for kriminaletterretning og analyse.
-1967 E-gruppen opprettes som forløper til Etter1996 Kripos blir tillagt det nasjonale ansvaret for
-forskningsavdelingen (fra 1978). Gruppen
-kriminaletterretning, herunder ansvar for
-bistår stedlig politi med taktisk etterforså koordinere politiets arbeid med kriminakning i spesielle og kompliserte saker,
-letterretning i forbindelse med organisert
-særlig i draps- og voldssaker.
-og grensekryssende kriminalitet.
-1969 Kriminalpolitisentralen får i oppgave å anaAnsvaret for det nordiske politi- og tolllysere alle narkotikabeslag i Norge.
-samarbeidet (PTS – senere betegnet PTN)
-1975 ID-gruppen blir etablert, og det besluttes
-blir overført fra Oslo politidistrikt til Kripos.
-at den skal ledes av Kriminalpolitisentra1999 DNA-registeret blir etablert.
-len.
-2001 Norge blir medlem av Schengen-samarbei1977 Det opprettes en gruppe for økonomisk
-det, og Sirene-kontoret blir opprettet ved
-etterforskning, som året etter blir omgjort
-Kripos. Det inngås samarbeidsavtale med
-til Avdeling for økonomisk etterforskning,
-Europol.
-med mål om å utvikle spisskompetanse
-2004 Kripos får nasjonalt ansvar for å etterforinnenfor bekjempelse av økonomisk krimiske krigsforbrytelser begått i utlandet og
-nalitet og ansvar for å bistå politidistrikutført av personer som oppholder seg i
-tene i økonomiske straffesaker.
-Norge.
-1978 Strafferegisteret blir overført til Kripos.
-Stortinget vedtar å nedlegge KriminalKripos har senere blitt registeransvarlig
-politisentralen og oppretter et nytt særorfor flere av politiets sentrale dataløsninger.
-gan – Den nasjonale enhet for bekjempelse
-1989 Avdeling for økonomisk etterforskning og
-av organisert og annen alvorlig kriminalitet
-dens 14 ansatte blir utskilt fra Kripos, og
-(Nye Kripos), med virkning fra 1. januar
-Økokrim blir etablert som eget særorgan
-2005.
-med påtalemyndighet.
-1993 Kripos’ oppgaveportefølje blir utvidet med
-opprettelsen av Utlendingsenheten og Kri-
-
-gere nevnt, å legge ressursmessig grunnlag for
-mer slagkraftige og bærekraftige politidistrikter, dvs. politidistrikter som i større grad kan
-løse sine oppgaver med egne ressurser. Denne
-forutsetning bør på sikt kunne redusere behovet for bistand av den type Kriminalpolitisentralen i dag yter. På den annen side nødvendiggjør
-utviklingen innenfor etterforskningsmetoder
-at det også i tiden framover må finnes et nasjonalt kompetansesenter som kan bistå politidistriktene med kriminalteknisk spisskompetanse.»2
-
-2
-
-St.meld. nr. 22 (2000–2001) Politireform 2000 – Et tryggere
-samfunn, s. 273.
-
-Utviklingen siden har vist en eskalering i tilførte
-oppgaver, særlig etter etableringen av Nye Kripos
-i 2005, se boks 8.1. Med et bredt mandat som
-nasjonal enhet for bekjempelse av organisert og
-annen alvorlig kriminalitet, er det naturlig at
-mange oppgaver blir lagt til Kripos. Flere av oppgavene hører imidlertid i mindre grad inn under
-definisjonen av nasjonal spisskompetanse og kan
-heller ikke alltid defineres som organisert eller
-alvorlig kriminalitet.
-I takt med tilføringen av nye oppgaver har
-Kripos
-gjennomgått
-flere
-organisatoriske
-endringer. Som resultat har organet vokst betydelig, fra 336 medarbeidere i 2005 til 533 medarbeidere per desember 2016.3 Dagens organisasjons3
-
-Kilde: Kripos.
-
-[Side 83]
-
-83
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-Kapittel 8
-
-SJEFEN FOR KRIPOS
-ASSISTERENDE SJEF FOR KRIPOS
-
-RETTS- OG
-PÅTALEENHETEN
-
-SJEFENS STAB
-
-ADMINISTRASJONSAVDELINGEN
-
-AVDELING FOR
-INTERNASJONALT
-POLITISAMARBEID
-OG SENTRALE
-REGISTRE
-
-KRIMINALTEKNISK
-AVDELING
-
-TAKTISK
-ETTERFORSKNINGSAVDELING
-
-AVDELING FOR
-TEKNOLOGI OG
-OPERATIVE TJENESTER
-
-HR-seksjonen
-
-Seksjon for
-Desken
-
-Seksjon for
-brann og
-kjemi
-
-Seksjon for
-datakriminalitet
-
-Seksjon for
-elektroniske spor
-
-Kommunikasjonsseksjonen
-
-Seksjon for
-Interpol og
-Europol
-
-Teknisk
-seksjon
-
-Seksjon for
-etterretning
-
-Seksjon for
-internettrelatert
-etterforskningsstøtte
-
-Seksjon for
-økonomi og
-styring
-
-SIRENEseksjonen
-
-Seksjon for
-narkotikaanalyse
-
-Seksjon for
-organisert
-kriminalitet
-
-Seksjon for nasjonal
-kommunikasjonskontroll
-
-Seksjon for bygg
-og fellestjenester
-
-Seksjon for
-kriminalregistre
-
-Dokument- og
-skriftseksjonen
-
-Seksjon for
-internasjonale
-forbrytelser
-
-Seksjon for
-operativ
-kriminalanalyse
-
-IKT-seksjonen
-
-Seksjon for
-ID-registre
-
-Seksjonen for
-fingeravtrykksregisteret
-
-Seksjon for
-strategisk
-analyse
-
-Seksjon for
-operative
-tjenester
-
-Språkseksjonen
-
-Fingeravtrykksseksjonen
-
-Voldsseksjonen
-
-Seksjon for
-seksuallovbrudd
-
-Voldtektsseksjonen
-Seksjonen for
-alvorlige
-uoppklarte saker
-
-Figur 8.1 Organisering Kripos
-Kilde: Kripos
-
-modell består av fem avdelinger, hver inndelt i
-fem–ni ulike seksjoner. Ansvar og arbeidsoppgaver fremgår av seksjonsnavnene i organisasjonskartet vist i figur 8.1.
-En av Kripos’ hovedoppgaver er å bistå politidistriktene i oppgaver som de selv ikke har kompetanse til å løse.
-Kripos har særlig de siste 10–15 årene fått en
-rekke nye oppgaver. Det er vanskelig å gi en
-uttømmende liste over alle de oppgaver Kripos
-har ansvaret for. Generelt sett er politiets oppga-
-
-veportefølje relativt dynamisk, og dette gjelder
-spesielt Kripos, som ofte tillegges oppgaver som
-ikke kan eller bør ivaretas av øvrige deler av politiet. Flere politiledere omtaler denne utviklingen
-som at Kripos nærmest har blitt et «landhandleri»
-for ulike prioriterte politioppgaver.
-Oppgavene har også vært styrende for organiseringen og bemanningen av Kripos.
-Kripos oppgir selv at det er utfordrende for en
-hensiktsmessig organisering at oppgavespennet
-er stort, og at det stadig tilføres små og store til-
-
-[Side 84]
-
-84
-
-NOU 2017: 11
-
-Kapittel 8
-
-Bedre bistand. Bedre beredskap
-
-leggsoppgaver, ofte med manglende finansiering.4
-Flere politiledere mener også overfor utvalget at
-det er viktig å se på Kripos’ oppgaveportefølje,
-både overfor POD og overfor politidistriktene. I
-grensesnittet mellom Kripos og POD blir det særlig pekt på at enkelte oppgaver kan synes noe tilfeldig plassert, og at hensiktsmessigheten av den
-grunn bør vurderes, herunder at strategiske og
-operasjonelle nivåer bør avklares. Dette gjelder
-blant annet etterretning og analyse, internasjonalt
-samarbeid og internasjonale operasjoner.
-Kripos peker blant annet på en hyppig forventning fra PODs side om at organet skal være tungt
-involvert i ulike høringsprosesser. Kripos mener
-selv dette kan være svært tid- og ressurskrevende, og at Kripos til en viss grad kompenserer
-for at POD synes å mangle juridisk kapasitet til å
-dekke etatens overordnede strategiske behov. Tilsvarende gis Kripos oppgaver innenfor etterretning og analyse som er på et strategisk nivå og
-derfor naturlig burde tilligge direktoratet. Kripos
-mener at det er oppgaver av operasjonell eller taktisk karakter som i dag ligger til POD, og som er
-mer egnet til å bli løst hos Kripos eller andre deler
-av ytre etat.5
-4
-5
-
-Samtale med Kripos 27. september 2016.
-Ibid.
-
-Når det gjelder oppgavedeling mellom Kripos
-og politidistriktene, peker flere politiledere på at
-det kan være oppgaver som kan flyttes ut av
-Kripos og over på politidistriktene for å skape en
-mer strømlinjeformet og slagkraftig organisering
-av Kripos, som samtidig bidrar til å styrke politidistriktene.
-I utvalgets spørreundersøkelse rettet mot
-ansatte i politietaten fremgår det at dagens organisering av særorganene oppleves som hensiktsmessig for effektiv oppgaveløsning. Respondentene gav videre gjennomgående uttrykk for at
-Kripos besitter høy faglig spisskompetanse som
-bidrar til å styrke politidistriktenes oppgaveløsning. Tilgjengelighet til bistandstjenestene og
-samhandling mellom særorgan og politidistrikt
-ble vurdert å være ganske godt tilpasset politidistriktenes behov. Resultatene indikerte også at
-respondentene nok har større kunnskap om
-Kripos og deres virksomhet og bistandsfunksjon
-enn de øvrige særorganene.
-Kripos har utarbeidet et estimat for fordeling
-av årsverk innenfor virksomhetsmodellen. Dette
-er imidlertid en stilisert fremstilling med betydelige forbehold, ettersom kategoriene er flytende
-(figur 8.2).
-Oversikten viser at Kripos benytter størst
-andel av sine årsverk (ca. 34 prosent) til straffesaksarbeid. I dette inngår kriminalteknisk og
-
-600
-Støtte
-Styring
-
-500
-
-Forvaltning
-Internasjonalt politisamarbeid
-
-400
-
-Etterretning og analyse
-Forebygging
-300
-Politioperativt/beredskap
-Straffesaksarbeid
-200
-
-Kvalitet, kompetanseoverføring,
-metodeutvikling
-
-100
-
-0
-Totalt antall årsverk 2016
-
-Figur 8.2 Fordeling årsverk per virksomhetsområde
-Kilde: Kripos
-
-[Side 85]
-
-85
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-Kapittel 8
-
-Tabell 8.1 Budsjett og antall årsverk Kripos 2012–2016
-2012
-
-2013
-
-2014
-
-2015
-
-2016
-
-Budsjett (budsjettramme per april)*
-
-430,5
-
-446,1
-
-474,9
-
-475,0
-
-520,5
-
-–
-
-Hvorav lønnskostnader
-
-269,2
-
-289,2
-
-309,1
-
-328,8
-
-352,1
-
-–
-
-Hvorav driftskostnader
-
-161,3
-
-156,9
-
-165,8
-
-146,2
-
-168,4
-
-464
-
-482
-
-494
-
-528
-
-524
-
-Årsverk (per 31. 12.)
-
-* Totalt budsjett kan endres gjennom året i takt med tilføring av nye midler. Tallene inkluderer ordinære øremerkede midler.
-Årene 2012 og 2013 omfatter annet prinsipp for regnskapsførsel. Innføring av nettoføring av MVA i 2015 gjør at tallene ikke er direkte sammenlignbare før og etter dette.
-Kilde: Kripos/POD
-
-taktisk bistand samt egen etterforskning. Ca. 15
-prosent av ressursene benyttes på kompetanseoverføring/metodeutvikling. Dette er en sentral
-aktivitet for Kripos, som kompetansesenter for
-norsk politi. Kripos er også nasjonalt kontaktpunkt for internasjonalt politisamarbeid. I tillegg
-er internasjonal samhandling en stadig viktigere
-komponent for etterforskningsmiljøene, både i
-forbindelse med rent saksarbeid og ved utvikling
-av fagområdet. Kripos bruker ca. 10 prosent av
-ressursene på internasjonalt politisamarbeid.
-
-8.2.1 Ressurser
-Kripos har i flere år hatt en relativt stabil ressurstilførsel, der økte bevilgninger følger endringer i
-porteføljen. Kripos er også de siste årene tilført
-midler for å styrke blant annet etterforskning av
-uoppklarte saker og overgrepssaker. Jf. tabell 8.1.
-8.2.2
-
-Bistand
-
-Kripos er først og fremst et bistandsorgan for
-norsk politi og yter primært ulike typer bistand
-innen en rekke områder til politidistriktene, men
-også til andre særorgan, overordnet myndighet
-(direktorat, departement og påtalemyndigheten),
-Spesialenheten for politisaker, PST og andre lands
-politimyndigheter.
-Hoveddelen av Kripos’ bistand består i:
-– kriminalteknisk bistand
-– taktisk bistand
-Innenfor begge bistandsformer inngår både stedlig og konsultativ bistand. I tillegg bistår Kripos
-gjennom kriminaltekniske laboratorietjenester og
-gjennomfører analyser og undersøkelser av innsendt materiale.
-Kriminalteknisk bistand er en del av Kripos’
-kjernevirksomhet. Selv med naturlige variasjoner
-
-fra år til år, er etterspørselen etter kriminalteknisk
-bistand forholdsvis stabil.
-Det er en uttalt forventning at nærpolitireformen skal resultere i sterkere fagmiljøer på distriktsnivå som reduserer bistandsbehovet. Kripos
-mener det er for tidlig å si noe sikkert om dette,
-fordi sammenslåing av flere kriminaltekniske miljøer ikke automatisk øker kompetansen. Kripos
-mener en slik utvikling vil ta flere år, og at øvrige
-faktorer, som Etterforskningsløftet,6 med større
-vekt på kvalitet, fagansvar og standardisering, vil
-være viktigere enn størrelsen på miljøene. Over
-tid vil et større fagmiljø kunne utvikle kompetanse
-på et høyere nivå.
-Etter Kripos’ mening er det foreløpig få tegn til
-at sammenslåingen av politidistrikter reduserer
-etterspørselen etter bistand, selv ikke for tradisjonell bistand til åstedsundersøkelse eller ved
-obduksjoner.
-Redusert bistandsbehov ut fra en forventning
-om at større distrikt skulle være mer selvhjulpne,
-var en uttalt forventning også ved Politireform
-2000,7 da antall politidistrikt ble redusert fra 54 til
-27. Slik Kripos ser det, vil Nærpolitireformen, med
-stor vekt på et tilstedeværende lokalt forankret
-politi med generalistkompetanse, fortsatt innebære at de fleste politidistriktene vil ha behov for
-støtte fra ekspertise på et nasjonalt nivå. Politimestrene bekrefter dette, men påpeker samtidig
-at behovene varierer med størrelsen på distriktene. Politimestrene for de største distriktene
-mener de i liten grad vil ha behov for verken teknisk eller taktisk etterforskningsbistand.
-Taktisk bistand varierer i karakter og omfang.
-Noen saker er svært ressurskrevende og innebærer avgivelse av hele årsverk, mens andre kan
-være svært enkle. Kripos ser så langt ingen gene6
-7
-
-Se kapittel 16.
-St.meld. nr. 22 (2000–2001) Politireform 2000 – et tryggere
-samfunn.
-
-[Side 86]
-
-86
-
-Kapittel 8
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-rell nedgang i etterspørselen i lys av nærpolitireformen. På noen områder, som for eksempel operativ kriminalanalyse, synes det å være for liten
-kapasitet i politiet totalt, og bistandsetterspørselen
-blir større enn leveringsevnen. Når det gjelder tilrettelagte avhør, er kapasiteten i distriktene styrket. På dette området synes det å være en utvikling i form av spisset bistandsbehov ved at distriktene selv har tilegnet seg tilstrekkelig kompetanse
-til å ta de fleste tilrettelagte avhør, mens Kripos gir
-bistand til avhør av svært små barn og andre med
-spesielle behov.
-Kripos har i hovedsak to politioperative elementer – en døgnkontinuerlig operativ desk (Desken) og en enhet som blant annet har ansvar for
-skjult metodebruk og operative oppgaver som
-spaning, vitnebeskyttelse og fremstilling/transport. Innenfor virksomhetsområdet politioperativt
-definerer Kripos etterretningselementer og teknologiske kapasiteter som benyttes i blant annet
-beredskapsøyemed og nødrettssituasjoner.
-Kripos har i tillegg nasjonalt ansvar for:
-– kommunikasjonskontroll (KK) i politiet, herunder internasjonal kommunikasjonskontroll
-og nasjonal avtaleforvaltning knyttet opp mot
-tele- og internettilbydere
-– iverksettelse av nasjonal og internasjonal varsling etter anmodning fra politidistrikt eller særorgan
-– ID-gruppen som rykker ut i forbindelse med
-alvorlige ulykker eller hendelser med mange
-døde, både nasjonalt og internasjonalt
-For kommunikasjonskontroll er det gjennomsnittlig koplet opp 1100 kommunikasjonsanlegg
-(hovedsakelig mobiltelefoner) hvert år de siste
-fem år. Det er gitt bistand til alle politidistrikt, med
-en hovedvekt på Oslo politidistrikt og Romerike
-politidistrikt (nå: Øst politidistrikt). I tillegg gir
-Kripos bistand til PST, Økokrim og Spesialenheten. Det er gjennomført internasjonal kommunikasjonskontroll (KK) i flere land, hovedsakelig
-Spania, Nederland, Belgia, Danmark og Sverige.
-Kripos har i dag både ansvar for drift og forvaltning av løsningene og for fag- og metodeutviklingen. Spisskompetansen innen KK må i dag
-utgjøres av teknologispesialister. I dag er fagmiljøene som håndterer IKT-kriminalitet, elektroniske
-spor og metodeutvikling innen KK, fragmentert.
-På tvers av disse fagmiljøene er det uklart for
-utvalget hvordan ressursene og ansvaret for metodeutvikling av dataavlesning er organisert.
-
-8.2.3 Etterforskning og påtale
-I påtalespørsmål forholder Kripos seg til Det
-Nasjonale statsadvokatembete (NAST) og etterforsker saker innenfor eget ansvarsområde. Av de
-årsverkene som blir benyttet innenfor virksomhetsområdet straffesaksarbeid, er det estimert at
-ca. 2,5 ganger så mange ressurser blir brukt på
-bistand som på egen etterforskning.8
-Det følger av påtaleinstruksen kapittel 37 at
-Kripos kan etterforske saker om organisert og
-annen alvorlig kriminalitet av eget tiltak og overta
-saker fra andre politidistrikt.
-Ved avgjørelsen av om Kripos skal etterforske
-en sak, skal det særlig legges vekt på om saken
-– er av prinsipiell karakter
-– omfatter personer eller miljøer hvor enheten
-har særlig erfaring eller kunnskap
-– strekker seg over flere politidistrikter
-– ikke naturlig hører under noe politidistrikt
-– av sikkerhetshensyn bør etterforskes utenfor
-det distrikt den hører under
-– vil kreve utstrakt internasjonalt samarbeid
-Kripos er også gitt kompetanse til å etterforske og
-påtale saker om krigsforbrytelser, folkemord og
-forbrytelser mot menneskeheten, der lovbruddene er begått i utlandet av personer som befinner
-seg i Norge.
-Kripos kan etterforske alvorlig IKT-kriminalitet. Ved avgjørelsen om slike saker skal etterforskes ved Kripos, skal det legges vekt på om saken:
-– er av prinsipiell karakter
-– vil kreve utstrakt internasjonalt samarbeid
-– ikke naturlig hører under noe politidistrikt
-– er særlig kompetanse- eller teknologikrevende
-Avgjørelse om å åpne slike saker tas av sjefen for
-Kripos eller assisterende sjef. Riksadvokaten kan
-også gi nærmere regler om inntak av saker, herunder beslutte at enheten skal etterforske andre
-sakstyper eller enkeltsaker Riksadvokaten overlater til enheten, jf. straffeprosessloven § 59.
-Det er ulike oppfatninger av i hvilken grad
-Kripos bør ha adgang til etterforskning av egne
-saker. Blant enkelte politimestre blir det uttrykt
-bekymring for at ressursbehovet i enkelte saker
-over tid kan forringe Kripos’ kapasitet til å gi nødvendig bistand på andre områder. Noen politimestre mener at en negativ konsekvens av Kripos’
-adgang til egen etterforskning, er at distriktene
-ikke får den direkte kompetanseoverføring som
-skjer når Kripos yter bistand til et distrikt. Andre
-8
-
-E-post til sekretariatet fra Kripos 30.12.2016.
-
-[Side 87]
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-politimestre mener at Kripos bør ha noen få saker
-selv for å opprettholde egen kompetanse, noe som
-sikrer relevans og kvalitet på den bistand som tilbys. Kripos mener å være bevisst de dilemma som
-ligger her.
-I utvalgets spørreundersøkelse blant ansatte i
-politietaten er det en bred oppfatning både om at
-Kripos bør ha krav til produksjon av egne etterforskningssaker, og om at Kripos bør ha en påtalefunksjon, som i dag. Nesten 60 prosent mener
-Kripos bør ha en påtalefunksjon, mens bare ni
-prosent er helt eller delvis uenig, og 23 prosent
-svarer «vet ikke». På spørsmål om hvorvidt Kripos
-bør ha egen etterforskning, støtter over 75 prosent dette, mens i overkant av syv prosent er imot,
-og 17 prosent svarer «vet ikke».
-Flere politimestre peker på at det fortsatt vil
-være behov for nasjonal spisskompetanse på
-områder som sekvensielle avhør av små barn og
-psykisk utviklingshemmede samt spesielle områder som krigsforbrytelser og folkemord. Samtidig
-peker flere politimestre på at omorganiseringen
-av politidistriktene nødvendigvis må medføre at
-flere oppgaver blir flyttet ut, og at fremtidig organisering av Kripos bør reflektere behovsendringene.
-Et særskilt område som flere politiledere trekker frem, er sedelighetsområdet, der uklare grensedragninger mellom Kripos og politidistriktene
-kan bidra til målkonflikter. Her blir særlig Voldtektseksjonen9 trukket frem som et område som
-hører bedre hjemme i politidistriktene. På den
-andre siden berører ikke disse innvendingene den
-nasjonale monitorering og etterretning Kripos
-utfører på området. Ingen politiledere ser det som
-hensiktsmessig å flytte ut denne delen av Kripos’
-virksomhet.
-
-8.2.4 Kompetanse
-Kripos driver utvikling og vedlikehold av politiets
-kompetanse gjennom metodeutvikling, kompetansedeling og forvaltning av tildelt fagansvar. I tillegg er Kripos oppdatert på internasjonale erfaringer, beste praksis og relevant forsknings- og
-utviklingsarbeid. Kripos organiserer sin kompetanseoverføring på ulike måter og i ulike arenaer.
-Gjennom bistand til distriktene, men også
-gjennom andre kanaler, bidrar Kripos i stor grad
-til kompetanseutvikling i distriktene på mange
-områder. Som nasjonalt kompetansesenter ønsker
-Kripos å være i front av utviklingen innenfor sine
-9
-
-Etablert som følge av et stortingsforslag om å opprette et
-eget sentralt organ for sedelighetsetterforskning (SEPOL).
-
-87
-
-Kapittel 8
-
-fagområder og drive aktiv kunnskapsdeling og
-kompetanseoverføring til politidistriktene. Slik
-kompetanseoverføring foregår blant annet gjennom kursvirksomhet, fagseminar, fagportalen
-KO:DE (som forvaltes av Kripos) og i konkret
-saksarbeid (stedlig og konsultativ bistand).
-Kripos avgir personell til Politihøgskolen (PHS)
-på både kort- og langvarig basis. Foruten instruksjon og annen kursvirksomhet samarbeider
-Kripos og PHS tett om fagutvikling og andre relevante grenseflater.
-Kripos deltar med fagekspertise i en rekke
-sentrale prosjekter både innenfor og utenfor etaten, blant annet overfor POD, og på cyberområdet
-sammen med Forsvaret og Nasjonal sikkerhetsmyndighet (NSM). Det ble 31. mars 2017 etablert et formalisert felles cyberkoordineringssenter med deltakelse fra E-tjenesten, PST, NSM og
-Kripos.
-Kripos har på flere områder et nasjonalt fagansvar, med til dels svært spisset kompetanse.
-Innenfor enkeltområder er Kripos langt fremme
-internasjonalt, særlig innenfor såkalt digital forensics. Selv om dette er et smalt felt, åpner det likevel muligheter for mer internasjonalt samarbeid,
-også på beslektede områder.
-I utvalgets spørreundersøkelse rettet mot
-ansatte i politietaten mener også 85 prosent av
-respondentene at Kripos fortsatt bør ha en funksjon som kompetanse- og utviklingsenhet i politiet. Dette får også støtte blant politimestrene.
-Flere politiledere mener Kripos innehar en spisskompetanse og har nasjonale oppgaver som politidistriktene ikke kan være foruten. Riksadvokaten
-mener videre at Kripos på mange måter har vært
-av avgjørende betydning for norsk politi gjennom
-sin etterforskning, analyse, kunnskaps- og kompetansedeling samt bistandsfunksjon.10
-
-8.2.5 Internasjonalt politisamarbeid
-Kripos er nasjonalt kontaktpunkt for internasjonalt politisamarbeid.11 I følge Kripos’ instruks fra
-2005, skal Kripos være nasjonalt kontaktpunkt for
-Interpol, Europol, Schengen Information System
-(SIS), Østersjøsamarbeidet, European Border
-Agency og bilateralt samarbeid. Kripos skal for
-øvrig delta i internasjonalt politisamarbeid etter
-Politidirektoratets direktiver.
-10
-11
-
-Samtale med Riksadvokaten 16. september 2016.
-Internasjonalt politisamarbeid er regulert i forskrift 14.
-desember 2012 nr. 1227 om internasjonalt politisamarbeid i
-straffesaker og regulerer blant annet Kripos’ rolle som
-internasjonalt kontakt og koordineringspunkt.
-
-[Side 88]
-
-88
-
-NOU 2017: 11
-
-Kapittel 8
-
-Bedre bistand. Bedre beredskap
-
-Operativt samarbeid og bistand til/fra utenlandske politimyndigheter skal i henhold til forskrift om internasjonalt straffesaksamarbeid normalt skje gjennom Kripos. 12 For anmodning om
-politibistand som enten kommer fra eller skal til
-Danmark, Finland, Island eller Sverige, gjelder
-avtale mellom de nordiske lands politimyndigheter om politisamarbeid av 22. august 2012.
-Kommer anmodningen om bistand direkte fra,
-eller skal til, politimyndighet utenfor Norden, skal
-Kripos underrettes. Gjelder anmodningen innhenting av registeropplysninger, skal svaret sendes
-gjennom Kripos.
-Interpol er med sine 190 medlemsland verdens
-største internasjonale politiorganisasjon og verdens nest største internasjonale organisasjon,
-etter FN. Organisasjonen tilrettelegger for politisamarbeid globalt og arbeider særlig for å
-bekjempe terrorisme, organisert kriminalitet, narkotikaproduksjon og -handel, våpensmugling,
-menneskehandel, hvitvasking, seksuelle overgrep
-mot barn på nett, økonomisk kriminalitet, høyteknologisk kriminalitet og korrupsjon. Interpolsamarbeidet er upolitisk og praktisk innrettet med
-rask informasjonsutveksling og store databaser
-med oversikt over savnede og etterlyste personer
-samt stjålne reisedokumenter og kjøretøy. Interpols systemer er praktisk viktig for internasjonale
-etterlysinger av personer som er savnet, ettersøkt
-eller bes om å holdes under observasjon.
-Kripos er nasjonalt kontaktpunkt for Interpol.
-Dette ansvaret ivaretas 24/7 av desken ved Kripos
-og en fagseksjon for Interpol og Europol. Norge
-har videre per i dag fire utsendte eksperter til
-Interpol, to ved hovedkontoret i Lyon, en i Singapore (Interpols cybercrime-senter) og en på
-Seychellene. Disse ligger både faglig og administrativt under sine egne organisasjoner, respektivt
-Kripos og POD.
-Europol er EUs organisasjon for politisamarbeid innen kriminaletterretning, og Norges samarbeids-avtale med Europol gir mulighet til å
-utveksle person- og saksopplysninger på lik linje
-med medlemslandene i EU. Kripos er Europols
-nasjonale kontor i Norge og saksbehandler og
-videresender anmodninger fra Europols medlemslands og tredjepartsland. Alle Europol-medlemsland og flere av tredjepartslandene, deriblant
-Norge, har sambandskontor (DESK) i Europol.
-Kripos har ansvar for den faglige oppfølgingen av
-12
-
-Internasjonalt politisamarbeid er regulert i Forskrift om
-internasjonalt samarbeid i straffesaker (FOR-2012-12-141227) og regulerer blant annet Kripos’ rolle som internasjonalt kontakt og koordineringspunkt.
-
-de norske polititjenestepersonene ved Europoldesken.
-Det nordiske politi- og tollsamarbeidet (PTN)
-ble etablert på 1970-tallet og ansvaret for funksjonen som PTN-sjef ble overført fra Politidirektoratet til Kripos i 2007. Samarbeidet innebærer blant
-annet en felles utstasjonering av liaisoner (NLO).
-En NLO skal på de nordiske lands vegne være
-koordinator for informasjonsutveksling og etterforsking i sitt virkeområde (vertsland og sideakkrediterte land). Særegent for PTN er at politi- og
-tolltjenestemenn fra ett nordisk land representerer alle de nordiske landene, og det er et forpliktende gjensidig samarbeid, også økonomisk. NLO
-fra politi eller tollvesen blir utstasjonert i land
-hvor det er strategisk eller operativt viktig for
-Norden å ha et forsterket bindeledd. Kripos er
-faglig ansvarlig for de norske NLOene. Norske
-NLOer er spesialutsendinger for politisaker ifølge
-Lov om Utenrikstjenesten og Instruks for Utenrikstjenesten. Det bør også nevnes at det nordiske
-samarbeidet ikke er begrenset til PTN og at det
-foregår et tett nordisk samarbeid på en rekke polisiære og teknologiske fagområder.
-Kripos er nasjonalt kontaktpunkt for Eurosur
-som er et felles europeisk grenseovervåkingssystem for Schengens yttergrense. Fra sommeren
-2015 ble Kripos operativt og administrativt ansvarlig for det norske bidraget i rednings-/ grensekontrolloperasjonene i Middelhavet.13
-Norsk politi deltar i en rekke internasjonale
-operasjoner (INTOPS), i regi av FN, EU, OSSE,
-m.fl. Det er Politidirektoratet som har det strategiske og operasjonelle ansvaret for politiets deltakelse i INTOPS. I Frontex-operasjonene Poseidon
-og Triton er det som nevnt Kripos som har det
-operative ansvaret.
-Flere politiledere påpeker uklare grenseflater
-mellom Politidirektoratet og særorganene med
-hensyn til operativt og strategisk nivå. Dette får
-blant annet konsekvenser for Kripos’ rolle som
-internasjonalt kontaktpunkt. Det er her flere
-eksempler på at både POD og Kripos inntar operative og strategiske oppgaver om hverandre, i en
-dels ulogisk arbeidsdeling, noe som bidrar til utydelige styringslinjer.
-Kripos er nasjonalt kontaktpunkt for Østersjøregionens grensekontrollsamarbeid BSRBCC.14
-Norge har formannskapet for BSRBCC fra 2017
-og Kripos er delegert myndighet for gjennomføring av dette.
-13
-14
-
-Op Triton og Op Poseidon.
-Baltic Sea Regional Border Control Cooperation.
-
-[Side 89]
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-Prüm-avtalen innebærer en effektivisering av
-informasjonsutveksling mellom ulike lands politimyndigheter, ved at det skal kunne gjøres automatiserte søk i andre lands registre. Politiregisterloven med forskrifter hjemler overføring av opplysninger som omfattes av Prüm-avtalen. Kripos
-er behandlingsansvarlig for de registrene som
-omfattes av avtalen.
-Det er bred enighet blant politiledere om at
-det er viktig å ivareta denne funksjonen i Kripos.
-Dette bekreftes gjennom utvalgets spørreundersøkelse rettet mot politietaten, der 65 prosent av
-respondentene mener funksjonen som internasjonal kontaktpunkt bør forbli i Kripos, rundt 10 prosent mener funksjonen bør flyttes ut, mens rundt
-18 prosent svarer «vet ikke». De resterende er
-«delvis uenig» i at Kripos bør ha funksjonen som
-internasjonalt kontaktpunkt.
-Kripos’ ansvar for å etterforske krigsforbrytelser, folkemord og forbrytelser mot menneskeheten innebærer også et utstrakt internasjonalt
-straffesakssamarbeid.15 Denne typen etterforskning innebærer blant annet politisamarbeid i landet der forbrytelsene skal ha skjedd16, samt samarbeid med andre lands politimyndigheter eller
-internasjonale institusjoner som etterforsker tilsvarende saker fra samme konflikt eller konfliktområde. Den kompetansen på internasjonalt politisamarbeid som Kripos har opparbeidet i forbindelse med denne type etterforskning, har blitt
-benyttet også i andre type saker internasjonalt
-hvor gjerningsmann eller offer er fra Norge. I sistnevnte type saker samarbeider Kripos tett med
-blant annet Utenriksdepartementet.
-Samarbeid med andre lands politimyndigheter
-og laboratoriemiljøer er avgjørende for kompetanse- og metodeutviklingen innenfor de fleste disipliner ved Kripos. De spesialiserte fagmiljøene
-ved Kripos utveksler «best practice» og metoder
-med tilsvarende fagmiljø i andre land. Dette skjer
-både bilateralt og gjennom større nettverk, som
-for eksempel det europeiske kriminaltekniske
-nettverket (ENFSI).17 Formålet med organisasjonen er å dele kunnskap, utveksle erfaringer og
-oppnå felles enighet mellom både private og statlige institusjoner som arbeider for respektive politimyndigheter.
-I Norge finnes det ikke ett nasjonalt kontaktpunkt for internasjonalt rettslig samarbeid. Retts15
-
-Internasjonalt samarbeid i straffesaker er regulert i FOR2012-12-14-1227.
-16
-De siste tre årene har Kripos etterforsket saker i blant
-annet Rwanda, Liberia.
-17
-The European Network of Forensie Science Institutes.
-
-89
-
-Kapittel 8
-
-lig samarbeid mellom de nordiske land18 skal
-foregå direkte mellom de berørte politimyndigheter, mens anmodninger om rettslig samarbeid
-innen EU/Schengen området skal fremsendes på
-statsadvokatnivå.19 Til og fra land utenfor EU/
-Schengen-området skal anmodninger om rettslig
-samarbeid fremmes via diplomatisk kanal til
-ansvarlig departement (Justis- og beredskapsdepartementet i Norge). På tross av denne reguleringen, og som følge av at rettsanmodninger i hastesaker kan fremsendes via nasjonalt kontaktpunkt for Interpol, sendes mange rettsanmodninger til Norge til Kripos. Disse videresendes så
-sant det er mulig til det aktuelle politidistrikt eller
-statsadvokatembetet. I en del tilfeller behandles
-og besvares likevel slike rettsanmodninger av
-Kripos da anmodningen enten ikke hører naturlig
-hjemme i et distrikt, eller fordi anmodningen faller
-innenfor ett eller flere av Kripos’ særlige ansvarsområder. Tilsvarende gjelder for utleveringsbegjæringer. Kripos mottar og behandler også
-rettsanmodninger og utleveringsbegjæringer via
-Det nasjonale statsadvokatembetet (NAST).
-Siden 2007 har en politiadvokat ved Kripos
-vært oppnevnt som kontaktperson for påtalemyndigheten i saker som gjelder internasjonal bortføring av barn. Oppnevningen gjøres av NAST etter
-delegasjon fra Riksadvokaten. Kontaktpersonen
-skal bl.a. tjene som fagperson og ressurs for etterforskere og påtalejurister i politidistriktene,
-undervise og formidle informasjon om fagfeltet og
-delta i relevante møter og samarbeidsfora. Kripos
-besitter også særskilt kompetanse i barnebortføringssaker på saksbehandlernivå (internasjonalt
-samarbeid), og bistår på denne måten politidistriktene i barnebortføringssaker.
-
-8.3
-
-Kripos’ oppgaveløsning
-
-Spørsmål om oppgaveløsning innebærer en vurdering av ressurstilfang og effektiv bruk av dette,
-herunder politikompetanse, juridisk kompetanse
-og sivil kompetanse. Som nasjonal enhet for
-bekjempelse av organisert og annen alvorlig kriminalitet er bistand til politidistriktene en sentral
-oppgave. Dette omfatter:
-
-18
-19
-
-Nordisk overenskomst 26 april 1974.
-Den europeiske konvensjon om gjensidig hjelp i straffesaker 20 april 1959 samt Konvensjon 29 mai 2000 om gjensidig hjelp i straffesaker mellom Den europeiske unionens
-medlemsstater og Norges tilknytningsavtale til denne av
-19. desember 2003.
-
-[Side 90]
-
-90
-
-NOU 2017: 11
-
-Kapittel 8
-
-–
-–
-–
-
-Bedre bistand. Bedre beredskap
-
-stedlig og konsultativ bistand innen enkeltsaker og på definerte områder, herunder åstedsundersøkelser og etterforskning
-bistand i form av kriminaltekniske undersøkelser og analyser av innsendt materiale, herunder laboratorieundersøkelser
-bistand i form av skjulte etterforskningsmetoder, herunder kommunikasjonskontroll
-
-De øvrige av Kripos’ oppgaver vil også bli vurdert,
-herunder
-– egen etterforskning og påtale
-– kriminaletterretning og analyse
-– IKT-kriminalitet
-– internasjonalt politisamarbeid
-– registeransvar
-– kompetanse- og metodeutvikling
-Øvrige oppgaver, som identifiseringsgruppen,
-Cold Case-enheten og andre spesifikke oppgaver,
-vil ikke bli behandlet.
-I likhet med det øvrige politiet driver Kripos
-forebyggende arbeid for å verne mot alt som truer
-den alminnelige trygghet i samfunnet. Ved siden
-av generelle informasjons- og holdningskampanjer på sine områder har Kripos særlig publikumskontakt og driver forebygging gjennom politipatrulje på nett. Denne delen av virksomheten er
-heller ikke vurdert.
-
-–
-–
-–
-–
-–
-–
-–
-–
-
-bekjempe seksuelle overgrep
-sikre god kvalitet på registrene
-sikre kvalitet og effektivitet innenfor internasjonalt politisamarbeid
-iverksette etterforskning innenfor prioriterte
-saksområder
-redusert saksbehandlingstid og restanser i kriminaltekniske undersøkelser
-utvide Enhet for etterforskning av alvorlig
-uoppklarte saker
-sikre effektiv og kvalitativ god kompetanseoverføring
-styrke beredskapsevnen
-
-Under følger en gjennomgang av oppgaveløsning
-og resultatutvikling for Kripos i perioden 2012–
-2016.
-
-8.3.2
-
-Stedlig og konsultativ kriminalteknisk
-bistand
-
-Videre blir det stilt krav til gjennomføring av følgende tiltak:
-– støtte og bistand til politidistriktene, med særlig vekt på prioriterte sakstyper
-– Kripos’ etterretningsprodukter skal utgjøre
-gode beslutningsgrunnlag for politi- og lensmannsetaten
-– forebygge og forhindre ulovlig produksjon av
-eksplosiver
-– styrke forebyggende arbeid mot radikalisering
-og voldelig ekstremisme på internett
-
-Kriminalteknikken er i stadig utvikling, og det stiller økte krav til kvalitet i etterforskningen. Kripos
-forventer en utvikling hvor bistandsbehovet ikke
-blir redusert i kvantitet, men endres i retning av
-mer spisset spesialistbistand. Åstedskoordinator,
-blodsportolkning og våpentekniske undersøkelser kan være eksempler på slike spissede kriminaltekniske bistandstjenester. Kripos har fått
-nasjonalt fagansvar for det kriminaltekniske området, men POD har foreløpig ikke avklart hva dette
-fag- og metodeansvaret skal omfatte, eller hvordan det skal utøves.21
-Figur 8.3 viser teknisk bistand (stedlig og konsultativ) til alle politidistrikt i perioden 2012–2016.
-Figuren viser antall registrerte bistandsoppdrag
-fordelt på type, men sier ikke nødvendigvis noe
-om bistandsoppdragets omfang eller varighet som
-vil variere.
-Tallene for elektroniske spor i figur 8.3 inkluderer kun konsultativ bistand. Det gjennomføres i
-gjennomsnitt 140 datatekniske undersøkelser
-årlig på materiale (datamaskiner, mobiltelefoner,
-GPS-er mv.) innsendt fra politidistriktene. Dette
-har hovedsakelig vært i saker som omfattet drap /
-grov vold, grov narkotikakriminalitet, voldtekt og
-seksuelle overgrep, IKT-kriminalitet og terror.
-Øvrig stedlig bistand knyttet til datatekniske
-undersøkelser omfatter ca. ti saker i året.
-Økt etterspørsel etter bistand knyttet til elektroniske spor har medført at Kripos har innført
-strengere inntakskriterier for når bistand ytes.
-
-20
-
-21
-
-8.3.1 Resultatutvikling
-Politiets måloppnåelse er som hovedregel gitt av
-saksbehandlingstid og oppklaringsprosent.
-I Politidirektoratets årlige disponeringsskriv
-for Kripos er målene for 2017 at Kripos skal20
-– bidra til reduksjon i den alvorlige kriminaliteten
-– bidra til en effektiv straffesakskjede
-– bidra til å redusere sårbarheten i samfunnet
-
-Politidirektoratet (2017): Disponeringsskriv 2017, særskilt
-del for Kripos.
-
-Kripos’ årsmelding 2015, s. 15 og samtale med Kripos 27.
-september 2016.
+I utvalgets spørreundersøkelse rettet mot ansatte i politietaten fremgår det at Kripos’ bistandsfunksjon vurderes å være ganske godt tilpasset politidistriktenes behov. Nesten 36 prosent er «enig» eller «helt enig» i at bistanden er godt tilpasset, mens rundt 20 prosent er «noe enig». På den andre siden oppgir under 4 prosent å være «uenig» eller «helt uenig» i at bistanden er godt tilpasset. Her svarer nesten en tredjedel «vet ikke». Det er en sterkere positiv opplevelse av at Kripos’ bistand er tilgjengelig. Tilsvarende mener et klart flertall at det er god samhandling mellom politidistriktene. Her svarer over 62 prosent at Kripos bidrar positivt, mens 30 prosent svarer «vet ikke». På spørsmål om hvorvidt Kripos har bidratt til uhensiktsmessig forskyvning av kompetanse fra politidistrikt til særorgan, er bildet mer delt. I underkant av 20 prosent er «uenig» eller «helt uenig» i påstanden, mens i underkant av 19 prosent er «enig» eller «helt enig». Her svarer rundt 8 prosent at de er «noe uenig», mens 17 prosent er «noe enig». Gjennomgående var disse tallene høyere for Kripos enn tilsvarende for de øvrige særorganene på nær sagt alle kategorier.
+
+1.  **<u>Stedlig og konsultativ taktisk bistand</u>**
+
+Kripos har etter eget utsagn god kompetanse på taktisk etterforskning og etterforskningsledelse, men miljøene oppgis å være forholdvis små. I tillegg blir den samme kompetansen ofte benyttet i andre sammenhenger enn i bistand til distriktene. Enkelte politimestre gir her også uttrykk for behov for etterforskningsledelse på noen områder.
+
+Figur 8.4 viser stedlig og konsultativ bistand for perioden 2012–2016, mens figur 8.5 viser taktisk bistand for perioden 2012–2016, fordelt på kriminalitetstype.
+
+**<u>\[:figur:figX-X.jpg\]</u>**
+
+1.  <u>Stedlig og konsultativ bistand – taktisk og teknologisk, 2012–2016</u>
+
+<u>Kripos</u>
+
+**<u>\[:figur:figX-X.jpg\]</u>**
+
+1.  <u>Taktisk bistand 2012–2016, fordelt på kriminalitetstype</u>
+
+<u>Kripos</u>
+
+Medregnet tallene for siste tertial i 2016 er det anslått at taktisk bistand vil ligge på omtrent samme nivå som 2015, unntatt for kategorien voldtekt og seksuelle overgrep. Det er ifølge Kripos foreløpig vanskelig å se merkbare endringer i antall bistandsanmodninger som følge av nærpolitireformen.
+
+Bistand til politidistriktene i saker som gjelder drap og grov vold, har vært blant Kripos’ kjerneoppgaver i flere tiår. Disse sakene er fordelt mellom *Voldsseksjonen*, som gir bistand til ledelse og taktisk etterforskning av drapssaker, mistenkelige dødsfall og savnetsaker, og *Seksjon for alvorlige uoppklarte saker (Cold case-enheten).* Sistnevnte bistår med fornyet gjennomgang og eventuell etterforskning av uløste saker innenfor samme sakstyper.
+
+Sedelighetssaker blir primært håndtert av *Seksjon for seksuallovbrudd* og *Voldtektsseksjonen*. En viktig del av arbeidet foregår gjennom bistand til politidistriktene etter bestemte kriterier. Bistanden omfatter blant annet etterretning, et område få politidistrikter har ressurser til. Ettersom flere sedelighetsforbrytere erfaringsmessig er gjengangere, er det en prioritert oppgave å drive aktiv etterretning for å forebygge overgrep. Flere politimestre oppgir imidlertid både i samtale med utvalget og i utvalgets kompetansekartlegging at særlig på sedelighetsområdet anser de seg for å være mer selvhjulpne. I utvalgets spørreundersøkelse svarer elleve av tolv politimestre at de i «meget stor grad» eller «svært stor grad» har tilstrekkelig etterforskningskompetanse og erfaring på området.
+
+Dette står imidlertid i kontrast til en nylig utgitt kvalitetsundersøkelse av etterforskning i voldtektssaker.[^160] Det ble her konkludert med at manglende etterforskningsinnsats medfører en for høy andel henleggelser og frifinnelser sammenlignet med andre sakstyper. Rapporten konkluderer også med at politiet er for dårlig på sporsikring, at avhørskvaliteten varierer, og at det i mindre grad blir brukt etterforskningsplaner. I tillegg blir det blant annet påpekt manglende bruk av skjulte etterforskningsmetoder, til tross for at dette er vurdert som aktuelt i et flertall av sakene.
+
+Kategorien «annet» omfatter blant annet internettrelatert etterforskning, som er en relativt ny bistandstype for Kripos. Dette er stedlig og konsultativ bistand innen alle typer internettetterforskning, så som OSINT (*open-source intelligence*), sikring av informasjon/bevis på internett samt utlevering og beslag fra tilbyder/besitter. I 2016 hadde seksjon *Internettrelatert etterforskningsstøtte* (IRES) 132 rådgivningssaker og forespørsler om utlevering av data fra tilbydere og leverandører. Det aktuelle fagmiljøet ved Kripos tilbyr også bistand til politidistriktene innen skjult spaning (undercovervirksomhet), infiltrasjon og provokasjon på internett.
+
+1.  **<u>Kriminaltekniske unders</u><u>ø</u><u>kelser, analyser og vurderinger</u>**
+
+Kriminaltekniske laboratorietjenester inngår i Kripos’ bistandskonsept, og det gjennomføres analyser og undersøkelser av innsendt materiale. Grovt sett blir innsendt materiale delt i to kategorier: det som *skal* sendes inn (eksempelvis narkotika, dopingmidler, falske penger, skytevåpen mv), og det som *kan* sendes inn (eksempelvis overflatespor, datamaskiner og mobiltelefoner).
+
+Figur 8.6 viser utvikling i antall innsendte saker til analyse fra politidistriktene for perioden 2012–2016.
+
+Figur 8.6 sier imidlertid lite om Kripos’ ressursbruk innenfor de ulike områdene, fordi én sak kan inneholde ett eller flere beslag, og det kan bli utført én eller flere analyser per beslag. I statistikken vil dette likevel kun telle som én sak. Noen eksempler for å illustrere: Én sak fra 2016 besto av 260 beslag av dopingmidler, hvor det ble gjennomført over 300 analyser. Et annet eksempel fra 2016 er en narkotikasak med et beslag av totalt 638 kg hasj. I tillegg til flerfoldige analyser av narkotikaen, ble det gjennomført DNA- og fingeravtrykksanalyser av emballasjen.[^161]
+
+Nedgangen i antall saker innsendt til narkotikaanalyse skyldes i stor grad at kvantumsgrensene for foreleggssaker er hevet.[^162]
+
+**<u>\[:figur:figX-X.jpg\]</u>**
+
+1.  <u>Antall innsendte saker til analyse fra politidistriktene, per undersøkelsestype</u>
+
+<u>Kripos</u>
+
+Laboratorieundersøkelsene som gjennomføres ved Kripos i dag, er mer tidkrevende og omfattende enn tidligere, blant annet benyttes flere metoder enn tidligere i forbindelse med undersøkelsene. For eksempel ser Kripos økt omfang av syntetisk fremstilt narkotika (særlig fra Litauen og Polen). Dette krever nye og mer avanserte metoder for å anslå om et stoff er ulovlig, herunder fastslå type stoff. I analysering av et ukjent stoff må laboratoriet ofte forholde seg til biblioteker på flere tusen stoffer, der det for få år siden bare var noen hundre. Denne tiltakende kompleksiteten kan i noen grad forklare tilbakemeldingen fra enkelte politimestre om økt saksbehandlingstid og begrenset kapasitet. Samtidig har Kripos hatt stor oppmerksomhet på nedbygging av restanser gjennom 2016, og status våren 2017 er at Kripos har de laveste restansene på flere år.[^163]
+
+På området *datatekniske undersøkelser* er det liten kapasitet i distriktene og stort behov for bistand. Inntil distriktene får tilstrekkelig kompetanse og kapasitet, må derfor Kripos bistå også i saker som burde kunne løses på distriktsnivå. Kripos’ kapasitet er imidlertid begrenset, og inntakskriteriene tilsier derfor at bistandsoppdraget skal være knyttet til svært alvorlig kriminalitet, som krever spisskompetanse eller utvikling av nye metoder.
+
+Spisskompetansen til seksjon for elektroniske spor ivaretas gjennom utvikling av metoder for datatekniske undersøkelser, og de kompenserer for de områdene hvor kommersielle verktøy kommer til kort. Kripos har en høy grad av spesialistkompetanse og kvalitet på bistandssakene. Som eksempel bidro gjenskaping av slettede SMSer i et bistandsoppdrag i 2016 til utvikling av en ny metode, som nå blir benyttet i andre saker.
+
+Innen datatekniske undersøkelser har politidistriktene samlet sett, som beskrevet i kapittel 5, begrenset kompetanse og kapasitet innen sikring og analysering av digitale spor. Dette påpekes av politimestrene i samtalene med utvalget. Selv etter sammenslåingen av politidistriktene er det noen regioner som kun har noen få medarbeidere med teknologikunnskap som er dedikert til bistand til etterforskning, mens Oslo politidistrikt til sammenligning har rundt 40 medarbeidere på området. Kripos har på sin side rundt 16 medarbeidere på datatekniske undersøkelser til sammenligning. Kripos bistår med datatekniske undersøkelser til politidistriktene og har fra 2012 til 2016 analysert rundt 140 saker per år. I samme periode har digitaliseringen av samfunnet og kriminaliteten tiltatt i omfang. Fagmiljøet i Kripos er anerkjent både nasjonalt og internasjonalt, men har ofte begrenset kapasitet til å bistå politidistriktene.
+
+1.  **<u>Beredskap</u>**
+
+Utover støtte i en krisesituasjon ved bruk av kommunikasjonskontroll (KK) eller ID-gruppen til Kripos har særorganet også en beredskapsfunksjon i det digitale rom. Politiet er en sentral aktør innenfor krisehåndtering generelt, og ett av flere premisser for å kunne ivareta denne rollen er politiets fullmakt som statens sivile maktapparat også i og mot det digitale rom.
+
+Kripos er politiets kontaktpunkt overfor NSM i forbindelse med cyberhendelser og samarbeider med tilstedeværelse av en liaison med utvidet Cyberkoordineringsgruppen (CKG) hvor NSM, Etterretningstjenesten og PST samarbeider om koordinering og informasjonsdeling om alvorlige angrep mot kritiske samfunnsfunksjoner eller rikets sikkerhet. Tiltak CKG ønsker å iverksette umiddelbart i en krisesituasjon som vil kreve maktmidler, kan være vanskelig å gjennomføre uten politiet. Politiets, og da særskilt Kripos’ rolle, ved digital beredskap kan syntes uklar da det ikke er enighet nasjonalt om aktørenes beredskapsroller. Hvis digitale angrep får følgeskader i det fysiske rom, er det enighet om at politiets rolle er avklart.
+
+I 2016 ble det gjennomført en øvelse, IKT16, hvor et nyutviklet nasjonalt rammeverk for digital hendelseshåndtering skulle øve roller, ansvar og samarbeid. Kripos hadde i liten grad kapasitet til å prioritere beredskapsrollen i IKT16 eller å forankre Politiets beredskapssystem (PBS) i det digitale rom på en tilstrekkelig måte.
+
+1.  **<u>Etterforskningsansvar</u>**
+
+Frem til 2005 var Kripos et rent bistandsorgan uten egen påtalemyndighet eller ansvar for egen etterforskning. Etterforskning av organisert kriminalitet ble en del av Kripos’ portefølje etter at det såkalte Catch-prosjektet for bekjempelse av grov narkotikakriminalitet samt annen alvorlig organisert kriminalitet ble overført fra POD i forbindelse med etableringen av Nye Kripos i 2006. Kripos’ etterforsknings- og påtalefunksjon er regulert i påtaleinstruksen kapittel 37 og Riksadvokatens rundskriv.
+
+Riksadvokaten kan gi nærmere regler om inntak av saker ved enheten, herunder beslutte at enheten skal etterforske andre sakstyper eller enkeltsaker Riksadvokaten overlater til enheten, jf. straffeprosessloven § 59.
+
+Tabell 8.2 viser antall utstedte etterforskningsordrer ved Kripos i perioden 2012–2016, fordelt på kriminalitetsområde.
+
+Antall etterforskningsordrer sier noe om hvor mange etterforskninger som er påstartet i løpet av et år, men sier lite om varighet og ressursbruk. En etterforskningsordre er heller ikke ensbetydende med én sak, da én etterforskning oftest genererer en rekke saker.
+
+1.  <u>Antall utstedte etterforskningsordrer 2012–2016, fordelt på kriminalitetsområde</u>
+
+|  |  |  |  |  |  |
+|----|----|----|----|----|----|
+| Utstedte etterforskningsordrer | <u>2012</u> | <u>2013</u> | <u>2014</u> | <u>2015</u> | <u>2016</u> |
+|  |  |  |  |  |  |
+| Datakriminalitet | <u>4</u> | <u>3</u> | <u>3</u> | <u>6</u> | <u>2</u> |
+| Organisert kriminalitet | <u>8</u> | <u>4</u> | <u>1</u> | <u>2</u> | <u>5</u> |
+| Særskilte objekter (SO) og Seksualisert vold (SV) | <u>3</u> | <u>1</u> | <u>2</u> | <u>1</u> |  |
+| Særskilte internasjonale forbrytelser (SIF) | <u>1</u> | <u>2</u> |  | <u>3</u> | <u>1</u> |
+| Annet |  | <u>2</u> |  |  |  |
+| Totalt antall | <u>16</u> | <u>12</u> | <u>6</u> | <u>12</u> | <u>8</u> |
+|  |  |  |  |  |  |
+
+<u>Kripos</u>
+
+Kripos har de siste årene opplevd en dreining i sakstyper på noen områder. Et gjennomgående trekk er at sakene i økende grad reiser behov for *internasjonal samhandling*, fordi gjerningsmenn og ofre ofte har tilknytning til eller befinner seg i andre land.[^164] I flere av sakene innenfor IKT-kriminalitet er gjerningsperson og teknologi lokalisert i andre land. Sakene på området organisert kriminalitet omfatter grensekryssende aktiviteter og nettverk som opererer i flere land.
+
+Sakene Kripos etterforsker på de ulike kriminalitetsområdene, i tillegg til organets særskilte ansvar for å etterforske krigsforbrytersaker, gjør at Kripos har særlige forutsetninger for å etterforske hendelser i utlandet der ofre eller gjerningsmenn er norske. Eksempler på dette de siste årene er terroraksjon i In Amenas (Algerie) i januar 2015, i tillegg til flere kidnappingssaker med norske ofre samt alvorlige straffesaker med norske mistenkte.
+
+Ved saksinntak legges det vekt på om saken vil medføre *utvikling av nye metoder* og bruk av ny teknologi. På flere områder ser Kripos at kriminelle blir mer sofistikerte og kyndige, ikke minst på teknologiområdet. Dette krever at politiet supplerer tradisjonell etterforskning med stadig mer avansert metodebruk. I en etterforskning i 2016 som gjaldt omsetning av narkotika på det såkalte mørke nettet, ble taktiske etterforskere, internettetterforskere, dataingeniører og politioperativt personell (hemmelig ransaking) ved Kripos involvert i et effektivt samvirke for å utvikle nye metoder. Metodene har siden kommet til nytte også i andre relaterte saker.
+
+Etterforskning av egne saker, uavhengig av kriminalitetstype, krever særskilt kompetanse om kriminalitetstypen som etterforskes, og samvirke med andre kompetansemiljøer innen for eksempel datatekniske analyser, skjulte etterforskningsmetoder, internettetterforskning, operative analyser og internasjonalt politisamarbeid (Interpol og Europol). Gjennom egen etterforskning utvikler Kripos kompetanse og metoder som senere kommer politidistriktene til gode gjennom bistand. Dette kommer tydelig til uttrykk i Kripos’ strategi, som sier at de «gjennom egen etterforskning skal (…) utvikle kompetanse og metoder som gir merverdi i vår bistand til politidistriktene».[^165]
+
+Kripos’ etterforskningsadgang er som hovedregel komplementær. Dette mener Kripos gir god dynamikk med politidistriktene med hensyn til avklaringer av hvem som følger opp saker der det er iverksatt innledende etterforskning, og gir Kripos mulighet til å velge saker som er relevante for metodeutvikling eller kompetanseoppbygging, eller som har internasjonale aspekter som tilsier at Kripos skal prioritere saken.
+
+Kripos etterforsker årlig rundt åtte–ti egne sakskomplekser på ulike områder. Dette er saker som ikke har geografisk tilknytning til et politidistrikt, og er vurdert som prinsipielle, ressurs- og kompetansekrevende, ofte med omfattende internasjonale forgreininger.
+
+Blant politimestrene er det ulike oppfatninger om Kripos’ adgang til egen etterforskning. Noen mener bistand til distriktenes egen etterforskning bør være tilstrekkelig for å opprettholde nødvendig spisskompetanse, samtidig som dette bidrar til direkte kompetanseoverføring. Andre mener at de åtte–ti sakene Kripos håndterer årlig, er nødvendige for å opparbeide god bistandskompetanse, samtidig som sakene er så omfattende og prinsipielle at det er mer ressurseffektivt at etterforskningen blir gjennomført sentralt. Flere har uttrykt bekymring for at disse sakene kan bli så omfattende og ressurskrevende at det går på bekostning av nødvendig bistand til distriktene. Andre politimestre peker på en helt motsatt problemstilling, at uklarhet om hvorvidt en sak skal etterforskes hos Kripos eller i lokalt politidistrikt, ikke er heldig og kan medføre at grenseflaten mellom Kripos og politidistrikt kan bli gjenstand for uklare ansvarsforhold og unødige konfliktlinjer. Det blir i mindre grad vist til konkrete eksempler.[^166] Kripos er oppmerksom på innvendingene og mener selv de er bevisst på problemstillingen i sin saksprioritering.[^167] Flere politimestre påpeker at selv om Kripos har egne saker, har det aldri vært til hinder for å dekke distriktets bistandsbehov. Noen politimestre opplyser om enkelttilfeller, men uten at det er oppfattet som et faktisk problem.[^168]
+
+1.  **<u>Kriminaletterretning og analyse</u>**
+
+Kripos har nasjonalt ansvar for å produsere etterretning innenfor sitt ansvarsområde[^169], som i praksis innebære etterretning innenfor kriminalitetsområder som IKT-kriminalitet, organisert kriminalitet og annen alvorlig kriminalitet (som f.eks. voldtekt). I 2015 ble Kripos i tillegg tildelt nasjonalt ansvar for å koordinere politiets etterretningsarbeid knyttet til migrasjonsstrømmen.[^170] Samme år fikk Kripos ansvar for operativt etterretningsarbeid i en nasjonal krisesituasjon (ved terror i samarbeid med PST). Kripos ivaretar dessuten funksjonen som Bomb Data Centre i Norge, hvilket handler om etterretning og nasjonal beredskap knyttet til illegal bruk av eksplosiver og eksplosiver på avveie.[^171] Kripos er også nasjonalt kontaktpunkt for meldinger om utgangsstoffer for bomber og kjemikalier. [^172]
+
+Kripos er behandlingsansvarlig for etterretningssystemet Indicia og har ansvar for bl.a. å utvikle opplæringskonsepter for systemet. Kripos har også en nasjonal funksjon som fagansvarlig for Indicia og skal gjennom dette sørge for en enhetlig bruk av systemet. Alle begjæringer om innsyn i Indicia skal behandles av Kripos.
+
+*<u>Operativ og strategisk et</u><u>terretning</u>*
+
+Innenfor etterretningsfeltet er det grovt sett et skille mellom operativ og strategisk etterretning. Den operative etterretningen bidrar til operasjonell og taktisk styring, mens strategisk etterretning bidrar til strategisk beslutningsstøtte. Gjennom operativ etterretning og strategisk analyse bidrar Kripos til at kriminalitetsbekjempelsen får et nasjonalt strategisk preg. Kripos utarbeider årlige trusselvurderinger for organisert og annen alvorlig kriminalitet – eksempler fra 2016 er *Voldtektsrapporten*, *Risikoanalyse Schengens yttergrense*, *IKT trusselvurdering* og den årlige rapporten om organisert kriminalitet (Trendrapport).[^173] Mange politiledere og andre interessenter oppgir at analysene har stor verdi.
+
+Kripos utarbeider beslutningsgrunnlag til støtte for prioriteringer innenfor politiets bekjempelse av organisert kriminalitet. Beslutningsgrunnlaget består av ulike etterretningsprodukter som beskriver nasjonale og internasjonale trender og utviklingstrekk. På bakgrunn av denne kunnskapen initieres prosjekter/saker for Kripos eller politidistriktene.
+
+Politidistriktene driver i liten grad etterretning innenfor sedelighetsfeltet, og Kripos spiller derfor en viktig rolle. Sedelighetsforbrytere er ofte gjengangere og kan operere på tvers av distriktsgrenser. Aktiv etterretning er nødvendig for å forebygge overgrep. I voldtektssaker bidrar Kripos med monitorering av anmeldte voldtekter, og bidrar gjennom dette til at voldtektsforbrytere med felles modus identifiseres. Det var gjennom denne type monitorering at Kripos opparbeidet kunnskap om forekomsten av festrelaterte voldtekter, som i sin tur ble lagt til grunn for holdningskampanjen «Kjernekar» (lansert i 2015).
+
+Innenfor etterretning og analyse tillegges Kripos stadig flere og mer omfattende oppgaver av strategisk karakter. I styringsdialogen har Politidirektoratet signalisert at denne utviklingen vil forsterkes. Flere politiledere gir her uttrykk for at Politidirektoratet i større grad bør rendyrke sin strategiske rolle, både overfor Kripos og øvrige særorgan.
+
+*<u>Operativ kriminalanalyse</u>*
+
+I henhold til Kripos’ instruks vedrørende kriminaletterretning og analyse, skal Kripos «samle inn, bearbeide og analysere informasjon innenfor eget ansvarsområde og videreformidle denne til politidistrikter og særorganer». Et sentralt fagmiljø i innsamlingen og bearbeidingen av informasjon er operativ kriminalanalyse. Dette er en bistandsressurs som er sterkt etterspurt i politidistriktene. På området operativ kriminalanalyse yter Kripos også betydelig bistand til andre særorgan og spesialenheten for politisaker. På dette området er det bred oppfatning blant politiledere og andre interessenter at Kripos utgjør en viktig innsats for den samlede politiinnsats.
+
+Kripos driver aktiv kompetansedeling på området og gjennomfører årlig modulbaserte kurs og konferanser for politiansatte. Til tross for dette synes bistandsbehovet å øke, i takt med økt kompleksitet og økt antall sporkilder.
+
+1.  **<u>Forebygging</u>**
+
+Kripos driver planlegging og gjennomføring av en rekke kriminalitetsforebyggende aktiviteter av både strategisk og operativ karakter.
+
+Det er vanskelig å skille forebygging som virksomhetsområde fra resten av virksomheten til Kripos, siden forebygging inngår i alle deler av politiarbeidet, både etterretning, etterforskning og iretteføring.
+
+Kripos har kunnskap som bidrar til å identifisere kriminalitetsforebyggende tiltak og målrettet informasjon til særskilte grupper. Et eksempel er som nevnt holdningskampanjer, som «Kjernekar», som søkte å forebygge voldtekt blant unge. Kampanjens innhold og budskap var basert på kunnskap ervervet gjennom etterretning og etterforskning på området. Kampanjen «Ikke alle hemmeligheter skal holdes» omhandlet overgrep mot barn. Kampanjen baserte seg på bruk av sosiale medier og har gitt konkrete resultater i form av avdekking av ukjente forhold. Kripos har også på vegne av politiet driftet en kampanje mot vold i nære relasjoner, «Hvor lite skal du finne deg i?».
+
+Kripos har konkret ansvar for å forebygge internettrelaterte overgrep mot barn, forebygge radikalisering på nett og forebygge uønskede hendelser knyttet til eksplosiver og bomber.[^174]
+
+Politiets nettpatrulje driftes av Kripos og er etablert som Facebook-gruppe. Nettpatruljen skal være til stede på nett der folk ferdes, på samme måte som i den fysiske verden. Kripos vurderer politiets tilstedeværelse på nett som et svært virkningsfullt forebyggende tiltak. Forebygging har også i flere sammenhenger vist seg effektivt i samarbeid med andre aktører som blant annet kommuner, kontrolletater, næringslivet og organisasjoner.
+
+Flere politiledere gir uttrykk for at Kripos’ forebyggende arbeid er både viktig og effektivt.
+
+1.  **<u>IKT-kriminalitet</u>**
+
+Kripos er nasjonalt kompetansesenter innen sporsikring og bekjempelse av IKT-kriminalitet. Dette innebærer at Kripos yter stedlig og konsultativ bistand til politidistriktene i tillegg til selv å etterforske alvorlige og kompliserte saker.
+
+Den nasjonale satsingen på bekjempelse av IKT-kriminalitet ble synliggjort da Politiets datakrimsenter ble etablert under Økokrim i 2003. Særorganutredningen i 2004 medførte at virksomheten ble flyttet til Kripos i 2005 og omgjort til Datakrimavdelingen. Avdelingen hadde blant annet ansvar for å avdekke, etterforske og utføre etterretning. I tillegg hadde avdelingen ansvar for å føre IKT-krimsaker for retten og bistå politiet og påtalemyndigheten i straffesaksarbeidet. Et nasjonalt datateknisk laboratorium ble opprettet for å ivareta behovet for spesialutstyr og spisskompetanse. Gjennom flyttingen til Kripos ønsket politiet å styrke sin evne til å håndtere fremtidens kriminalitet og trusler gjennom tilstedeværelse på den digitale arenaen, kompetansehevende tiltak, rådgivning, forskning og utvikling på området.
+
+I dag er Kripos’ arbeid innenfor IKT-kriminalitet sentralt innenfor følgende seksjoner:
+
+- <u>datakrimetterforskning</u>
+
+- <u>internettrelatert etterforskningsstøtte</u>
+
+- <u>elektroniske spor</u>
+
+- <u>nasjonal kommunikasjonskontroll (datatrafikk og dataavlesning)</u>
+
+- <u>seksuallovbrudd (overgrep på nett)</u>
+
+Kripos har gjennom dette arbeidet også ansvar for bredere former for IKT-kriminalitet knyttet til overgrep og misbruk av barn og unge på nett.
+
+Politiets nettpatrulje ble opprettet i november 2015 og er en del av Kripos’ satsing på politiarbeid på internett. Politiets nettpatrulje handler om å være til stede der folk ferdes på internett. Kripos’ Facebook-side benyttes til å informere om en rekke tema, blant annet radikalisering og forebygging av hatkriminalitet, radikalisering og voldelig ekstremisme. I mars 2017 ble det blant annet vært postet informasjon om omsetning av narkotika på det mørke nettet, om det meget farlige narkotiske stoffet Fentanyl, om «tingenes internett», om politiets tipsmottak og om etterforskning av seksuelle overgrep mot barn på nett.
+
+På flere områder innen IKT-kriminalitet, enten det dreier seg om kriminalitet ved hjelp av dataverktøy eller rettet mot IKT-systemer, har Kripos høy nasjonal spisskompetanse. På noen områder er også Kripos langt fremme i europeisk målestokk. Dette har gjort Kripos til en attraktiv samarbeidspartner i internasjonalt politisamarbeid og har etter Kripos’ mening vært en «døråpner» for tilgang til kompetanse og teknologi samt i enkelttilfeller vært direkte bidragsytende til oppklaring av saker.
+
+Som eksempel mottar Kripos ved internettrelaterte overgrep kontinuerlig informasjon fra andre land om norske IP-adresser som laster ned eller deler ulovlig overgrepsmateriale. Kripos vil deretter vurdere sakene og kan iverksette innledende etterforskning for å identifisere personene samt samle bevismateriale og opprette sak, som blir oversendt lokalt politidistrikt for videre etterforskning. Identifiserte ofre og gjerningspersoner blir også lagt inn i INTERPOLs bildedatabase ICSE. I henhold til Europol Cybercrime center (EC3) er det et betydelig overlapp mellom de teknologiske metodene som benyttes av dem som begår overgrep på internett, og dem som begår annen teknologiintensiv kriminalitet. Derfor er det naturlig å omhandle temaet særskilt under dette kapittelet. Kripos er internasjonalt ledende innen håndtering av barneovergrepsmateriell, men politiet mangler nasjonal kapasitet på området, selv etter den økte rammen for 2017.
+
+De siste årene har Kripos vært involvert i et økende antall IKT-krimsaker. Gjennomgående utfordringer er knyttet til kompleksitet i etterforskningen, manglende rapportering av kriminalitet og mørketall. Politiets innbyggerundersøkelse for 2016[^175] peker på at IKT-kriminalitet er det området med lavest tillit. Det er en bred oppfatning om at den samlede nasjonale innsatsen er for lav både på bygging av kunnskap og kapasitet i distriktene og særorganene. De tolv politidistriktene har til sammen i underkant av ti medarbeidere med ansvar for datateknisk analyse i forbindelse med etterforskning av IKT-kriminalitet.
+
+Kripos skal på alle sine ansvarsområder i hovedsak yte bistand til politidistriktene. Innen etterforskning av IKT-kriminalitet ble det i 2016 registrert én bistandssak til et politidistrikt fra Kripos. For utvalget kan det oppleves som at IKT-kriminalitet (seksjon for Datakriminalitet) har lav status, noe som gjenspeiles i antall saker som etterforskes av enheten. Kripos etterforsket to egne saker i 2016.
+
+Kripos etterforsker egne saker innenfor alvorlig IKT-kriminalitet (kriminalitet mot datasystemer) og bistår politidistriktene i lokale saker. Årlig blir anslagsvis 20–30 slike saker etterforsket. Flere av anmeldelsene sees i sammenheng med hverandre og etterforskes i samlede sakskompleks, og tallene må derfor tas med forbehold.
+
+De siste årene har Kripos særlig lagt vekt på saker med stort skadepotensial (økonomisk og infrastruktur) samt saker der kriminelle benytter nye metoder og teknologi. Sakstypene omfatter blant annet nettbankbedrageri (*phishing*), nettbanktrojanere, skadeverk mot banksektoren, hvor finanssektoren har vært særlig aktiv med anmeldelser og tett etterforskningssamarbeid med Kripos. Økonomisk vinning er ofte drivkraften bak IKT-kriminalitet, og på dette området har blant annet finansinstitusjoner i tillegg et samarbeid med Økokrim om felles kriminaletterretning for å oppdage mistenkelige transaksjoner. En utfordring i store deler av etterforskningen av IKT-kriminalitet er i følge Datakrimstrategien,[^176] at det ofte er uklart om saker skal etterforskes som økonomisk kriminalitet eller datakriminalitet. Flere politiledere gir uttrykk for at det kan være utydelig hvor grensene mellom Kripos og Økokrim går på dette området.
+
+Ved avdekking av digital spionasje, er det ofte høyst usikkert om statlige (statlig spionasje) eller private aktører står bak angrepet. Kripos har i denne sammenheng ansvaret for forebygging og etterforskning av industrispionasje, mens PST har ansvaret for etterforskning av statlig spionasje. Samarbeidet mellom PST og Kripos er viktig, ettersom saker som initielt etterforskes som statlig spionasje, etter analyser kan vise seg å være industrispionasje, og omvendt. Det er ikke tydelig for utvalget hvordan oppgave- og ansvarsdelingen forvaltes, og hvordan saker i praksis overleveres slik at begge enheter effektivt kan etterforske saker innenfor sine ansvarsområder. Dagens nasjonale rammeverk for digital hendelseshåndtering løser ikke opp i denne potensielle konfliktlinjen.
+
+Kripos har de siste årene hatt flere saker med tjenestenektangrep (DDoS) samt spredning av skadevare. I tillegg har Kripos hatt flere saker med bruk av såkalt «crime as service», der Kripos har koordinert og tilrettelagt saker der gjerningspersoner har benyttet ulike lett tilgjengelige nettverktøy til å begå kriminelle handlinger (eksempelvis informasjonstyveri, ID-tyveri, utpressing, stjålne kredittkortdata mv.).
+
+Som tidligere påpekt i kapittel 5 er IKT-kriminalitet som *ransomware*, hacking av elektroniske innretninger og cyberangrep av særlig størrelse foreløpig ikke registrert i stort antall i Norge. Det massive dataangrepet i mai 2017, som rammet over 100 land, deriblant norske mål er det foreløpig siste og største eksempelet. Uavhengig av mulige mørketall er det forventet at denne kriminaliteten vil øke og behovet for spisskompetanse i Kripos og i de enkelte politidistriktene vil bli forsterket.
+
+En stor del av Kripos’ innsats på området er forebyggende. De siste årene er det blant annet utviklet ulike samarbeidsavtaler for utveksling av informasjon, eksempelvis med næringslivet og kontrolletatene. En særlig voksende angrepsform mot næringslivet er *CEO-svindel*, eller såkalt direktørsvindel, og Kripos lanserte derfor sammen med Næringslivets sikkerhetsråd i mars 2017 forenklede rutiner for å anmelde denne typen kriminalitet. Ettersom bare i underkant av ti prosent av virksomheter som blir utsatt for datakriminalitet velger å anmelde dette,[^177] er tiltaket viktig for å sikre bedre etterretningsinformasjon slik at politiet både nasjonalt og internasjonalt kan styrke innsatsen.
+
+Kripos yter mye bistand, særlig innen datatekniske undersøkelser og håndtering av elektroniske spor. Flere politidistrikter har etter hvert oppnådd god kompetanse på dette området, men fortsatt har flere behov for denne bistanden. Sikring og analyse av spor og bevis fra elektronisk utstyr, digitale lagringsmedier og internett er også avgjørende i svært mange straffesaker. Økende kompleksitet gjør at fagfeltet er i rask utvikling, noe som i mange saker krever høy kompetanse, avansert utstyr og utvikling av nye metoder. Kripos’ saksgjennomgang viser at politiet åpenbart har en vei å gå med å sikre elektroniske spor. Blant annet trengs en oppbygging av kompetanse og ressurser både i form av utstyr og personell. Kripos oppgir at kartlegging har vist at det manglet helt eller delvis sikring av elektroniske spor i hele 52 prosent av sakene hvor det fremsto som nødvendig. Fra Kripos’ egne intervjuer fremgår det at dette i stor grad skyldes lang ventetid hos intern IKT-ekspertise samt manglende utstyr for enkel mobiltømming. I intervjuer kom det også frem at det flere steder ikke tas beslag i saker der det normalt ville vært aktuelt, fordi man ser det som nytteløst grunnet køen hos IKT-ekspertisen. Dette betyr at politiets kapasitet på IKT er enda dårligere enn ventelistene tilsier.[^178]
+
+Etter Kripos’ erfaring er det fortsatt stort behov for bistand fra Kripos, men grunnet kapasitetsutfordringer kan Kripos kun yte bistand i de mest alvorlige sakene. Dette innebærer at det kan utvikle seg et «mellomsjikt» av saker som er for store for det enkelte politidistrikt, men samtidig ikke alvorlige nok til at Kripos kan prioritere disse sakene. I lys av nevnte mørketall for flere saker på dette området uttrykker både Kripos og flere politiledere bekymring over utviklingen.
+
+Målet om to politiårsverk per 1000 innbyggere står i konflikt med Justis- og beredskapsdepartementets strategiske mål om at «Norges innsats mot IKT-kriminalitet skal være blant de ledende i Europa» i den grad det bidrar til å forskyve ressursinnsatsen på bekostning av andre områder herunder IKT.
+
+IKT-kriminalitetsområdet krever tverrfaglig kompetanse innen blant annet informatikk herunder dataingeniører, i tillegg til politiutdannede medarbeidere. Politiets grunnutdanning er fokusert på politigeneralisten og politifaget, ikke på teknologikompetanse. I Justis- og beredskapsdepartementets strategi er dette temaet omhandlet ved konkrete tiltak i utdanningen, og i etter- og videreutdanningen i politiet, og for påtale og dommere. Det kan synes som det er begrenset IKT-kunnskap i politiets ledelsesledd og fag-/saksledd.
+
+En stor utfordring for Kripos’ oppgaveløsning på IKT-området er både å rekruttere riktig og tilstrekkelig kompetanse, og å finne rom for nødvendige investeringer. Kostnader knyttet til utvikling av kompetanse og infrastruktur på datakriminalitetsområdet må i all hovedsak dekkes innenfor ordinær budsjettramme. Kostnadskrevende investeringer på området må derfor sees i sammenheng med andre aktivitetsområder, og prioritering kan derfor gå på bekostning av kvalitet på bistand innenfor datakriminalitetsområdet. Et eksempel er den nye metoden for dataavlesning,[^179] som vil kreve 60 millioner kroner i investeringer og et distribuert IT-system for overføring mellom distrikt og særorgan samt lagring og analyse av store datamengder. Det er her viktig å se på effektiviseringsgevinstene i en etterforskning eller krise ved å kunne overføre elektroniske spor digitalt.
+
+Kripos ønsker og trenger tunge endringsprosesser som de kapasitetsmessig ikke er rigget for i dag. Et sentralt område er lovendring lagring av IP-adresser, hvor dagens regelverk vedrørende åpner for lagring i 21 dager. I praksis er det i dag flere basestasjoner som kun lagrer IP-adresser i fire dager. En endring på dette området vil kreve betydelig ressurser, men vil ha store samfunnsmessige konsekvenser. Disse endringsprosessene kan i fremtiden innebære endret arbeidsdeling mellom Politidirektoratet, særorganer og politidistrikter.
+
+IKT-kriminalitetsområdet krever høy grad av innovasjon i arbeidsprosesser, kompetanse og verktøy hvor politiet fremover skal jobbe på en helt annen måte enn i dag. Fagmiljøene etterlyser nyutvikling og gradvise endringer i metoder med bakgrunn i etterforskning.
+
+For å nå Justis- og beredskapsdepartementets strategiske ambisjon om å kunne håndtere fremtidens kriser og være blant Europas fremste[^180] innen bekjempelse av IKT-kriminalitet, er det nødvendig å prioritere innovasjon. Justis- og beredskapsdepartementet har utarbeidet en forskningsstrategi som vil være viktig for å nå dette målet.[^181] Politidirektoratet har fått ansvar for å iverksette flere av tiltakene i strategier, blant annet utarbeiding av en felles årlig trusselvurdering for IKT-kriminalitet og en forskningsstrategi for å forebygge og bekjempe IKT-kriminalitet. For å sikre tilstrekkelig kunnskap om kriminalitetsområdet har politiet valgt å finansiere tre professorater over en tiårsperiode.[^182]
+
+Det er bred enighet blant politiledere at Kripos’ innsats på området er av stor nasjonal betydning, og at Kripos yter viktig bistand til politidistriktene i form av opplæring og erfaringsveksling. Flere mener likevel det er viktig å se på forutsetningene for en mer slagkraftig innsats, og påpeker at ambisjonsnivået på fagområdet er stort, men at politiets handlingsplaner og rapporter ikke blir tilstrekkelig fulgt opp. Det blir videre påpekt at IKT-kriminalitet får liten plass på møter i Politidirektørens nasjonale ledergruppe (NLG).
+
+Både Kripos og Nasjonal sikkerhetsmyndighet (NSM) anslår at kriminalitet knyttet til cyberområdet trolig er mer utbredt enn kapasiteten spesialistmiljøene er innrettet for å håndtere. Antall bistandssaker og bistandsnivå har vært forholdsvis konstant de siste årene, noe som blir forklart med et betydelig kapasitetsunderskudd. Flere politiledere bekrefter dette og etterlyser et kompetanseløft og en større satsing, eksempelvis gjennom etablering av et eget NC3 (Norwegian Cyber Crime Centre). Flere støtter at Norge trenger et slagkraftig NC3, i likhet med konklusjonene fra PODs *Datakrimstrategi*, Regjeringens *Digitalt Sårbarhetsutvalg* og JDs egen strategi på området.[^183] Investeringene til et NC3 vil være betydelige og ble i 2015 estimert av Kripos til 190 millioner kroner.
+
+Kripos fremhever det som særlig viktig med egne etterforskningssaker på dette området for å opparbeide kunnskap og kompetanse som kan komme politidistriktene til del. Dette har også god gjenklang hos flere politimestre. Samtidig blir det påpekt at fagområdet ikke kan behandles isolert fra andre kriminalitetstyper, fordi IKT-relaterte spørsmål finnes i nær sagt alle typer straffesaker. I tillegg er det tette relasjoner både til etterretning og kriminalanalyse.
+
+1.  **<u>Internasjonalt politisamarbeid</u>**
+
+Internasjonalt politisamarbeid er en viktig del av Kripos’ etterforskning av egne saker. Sakene som Kripos etterforsker og straffeforfølger, har ofte et internasjonalt tilsnitt. Innretningen på samarbeidet kan variere fra sak til sak, men kan også være fundert i formalisert (ofte bilateralt) samarbeid. Et eksempel på dette er det formaliserte bilaterale samarbeidet med Litauen,[^184] med fokus på styrket samarbeid innen grenseoverskridende organisert kriminalitet. I tillegg er samarbeid med andre lands politimyndigheter og laboratoriemiljøer avgjørende for kompetanse- og metodeutviklingen innenfor de fleste disipliner ved Kripos.
+
+Kripos’ ansvar for å etterforske krigsforbrytelser, folkemord og forbrytelser mot menneskeheten innebærer også et utstrakt internasjonalt straffesakssamarbeid. Dette omfatter blant annet utlevering av mistenkte til hjemlandet dersom hjemlandet er villig og kan yte tilstrekkelige rettssikkerhetsgarantier for den mistenkte. Effektiv bekjempelse av internasjonale forbrytelser innebærer behov for aktivt internasjonalt samarbeid med internasjonale organer som er opprettet for å bekjempe slike forbrytelser, samt med politimyndigheter i andre land.[^185]
+
+Internasjonalt politisamarbeid omfatter også informasjon fra teknologileverandører og sosiale medier, som i mange saker utgjør sentrale bevis i en etterforskning. Ofte har saker internasjonale forgreninger, spesielt innen det digitale rom. Anmodninger til andre lands myndigheter og samarbeid med internasjonale tjenesteleverandører er både utfordrende og tidkrevende. Dagens prosedyrer for internasjonal informasjonsutveksling mellom politi på tvers av landegrenser er krevende. Muligheten til å få innsyn i data fra Facebook-kontoer har stått sentralt i etterforskningen av flere norske straffesaker, og et eksempel er da en kvinne i Oslo ble bortført i august 2012, og politiet måtte vente i over en uke før de fikk full tilgang til hennes Facebook-konto. Innsyn i slike saker er forbundet med rettslige prosesser som kommer i tillegg til andre krevende prosesser i en etterforskning.[^186] Avtalene er i stor grad basert på tradisjonell praksis for utlevering av fysiske bevis mellom land og tar ikke innover seg den teknologiske utviklingen. Kripos er det internasjonale kontaktpunktet og har et ansvar for at det eksisterer avtaler som sikrer tidsriktig utlevering av informasjon.
+
+Kripos har ansvaret for kontakt og kommunikasjon med Interpol, Europol, SIRENE og Eurodac. Kripos jobber kontinuerlig med å opprettholde og forbedre dagens nivå på saksbehandling innen internasjonalt politisamarbeid. Dette utgjør en stor saksmengde, og det krever oppmerksomhet på god tilrettelegging av saksbehandlingen. Det jobbes kontinuerlig med å oppdatere rutiner i henhold til nye og endrede krav.
+
+Kripos’ rolle i internasjonalt samarbeid begrenser seg ikke til etterforskning og annen kriminalitetsbekjempelse. En utvikling hvor nordmenn stadig oftere reiser til og oppholder seg i utlandet, samtidig som norske interesser øker i andre land, reiser større krav til norske myndigheters hjelp og støtte. Kripos bidrar til å understøtte Utenriksdepartementet ved ulykker og kriser som omhandler nordmenn eller norske interesser utenlands. Et ekstremt eksempel er identifiseringsarbeidet etter tsunamien Sør-Asia i 2004. Kripos avgir personell til utenrikstjenestens utrykningsteam (URE) som skal kunne reise ut for å bistå utenriksstasjoner ved større hendelser.
+
+Ansvaret for samarbeid i internasjonale spørsmål er i flere sammenhenger delt både horisontalt og vertikalt, der for eksempel POD har både strategisk og operativt ansvar for politiets internasjonale bidrag til FN-operasjoner, mens Kripos har strategisk og operativt ansvar for politiets Frontex-operasjoner i Middelhavet, gjennom operasjonene *Poseidon* og *Triton*.
+
+Det synes å være bred enighet i utvalgets interessentanalyse om at Kripos ivaretar disse oppgavene på en god måte. I utvalgets spørreundersøkelse rettet mot ansatte i politietaten fremgår det også tydelig stor enighet i at Kripos bidrar til bedre internasjonalt samarbeid; mer enn to tredjedeler av respondentene har et positivt eller svært positivt inntrykk, mens nesten 28 prosent svarer «vet ikke». Samtidig gir flere politiledere uttrykk for at det er nødvendig å vurdere arbeidsdelingen mellom POD og Kriops på området. Særlig er det påpekt uklare skiller mellom strategiske og operative oppgaver.
+
+1.  **<u>Forvaltningsoppgaver</u>**
+
+Ved siden av etterforsknings- og bistandsoppgaver på sine fagområder er Kripos gitt behandlingsansvar for politiets registre og ansvar for gjennomføring av andre pålagte forvaltningsoppgaver.
+
+Behandlingsansvaret innebærer at Kripos skal påse at behandlingen av opplysninger i registrene er i tråd med gjeldende regelverk. Kripos er også ansvarlig for selve forvaltningen av flere registre.
+
+Kripos er ansvarlig for 17 av politiets 19 sentrale registre (tabell 8.3). For de lokale registrene og øvrig informasjonsbehandling som faller utenfor de sentrale registrene, har politimesteren i det enkelte politidistrikt registeransvar. Kripos har i tillegg ansvaret for SIS (*Schengen Informasjonssystem* – norsk del), men her er behandlingsansvaret hjemlet i SIS-loven (og ikke politiregisterloven).
+
+1.  <u>Kripos’ behandlingsansvar sentrale registre</u>
+
+|  |  |
+|----|----|
+| Reaksjonsregisteret (SSP) | Etterlysningsregisteret (ELYS II) |
+|  |  |
+| Personidentitet- og politiopplysningsregisteret (SSP) | Straffesaksregisteret (STRASAK) |
+| Politioperativt register (PO) | Kriminaletterretningsregisteret (Indicia) |
+| Lydlogg | Bekymringssamtaler |
+| Arrestjournal | Informantregisteret |
+| Opptak av lyd og bilde i arrest | Saknetregisteret |
+| Foto- og fingeravtrykks-registeret (POF, AFIS) | DNA-registeret |
+| Grensekontrollregisteret |  |
+|  |  |
+
+<u>Kripos</u>
+
+Behandlingsansvarlig skal påse at behandlingen av opplysninger i registeret er i tråd med gjeldende regelverk. Instruksjonsmyndighet tilligger behandlingsansvaret. Ansvaret består hovedsakelig av følgende oppgaver:
+
+- <u>å utarbeide og vedlikeholde instruks for det enkelte register</u>
+
+- <u>å utarbeide og vedlikeholde internkontrollsystem for registeret</u>
+
+- <u>å utarbeide informasjons- og opplæringsmateriell for det enkelte register samt gi opplæring</u>
+
+- <u>å sikre tilfredsstillende informasjonssikkerhet i registeret</u>
+
+- <u>å utarbeide nødvendige avtaler med eksterne samarbeidsorganer og databehandlere</u>
+
+- <u>å kvalitetskontrollere og følge opp bruk av registeret</u>
+
+- <u>å behandle begjæringer fra den registrerte</u>
+
+- <u>å håndtere eksternt tilsyn fra tilsynsmyndigheter</u>
+
+Politidirektoratet har utarbeidet en forvaltningsmodell som skal bidra til å sikre god kvalitet i registrene. I denne modellen skal prosessforvalter for de ulike registrene etableres. POD er i ferd med å definere de ulike rollene og har allerede pekt på Kripos for noen av registrene. Det forventes at Kripos blir tildelt forvalterrollen for flere områder, noe som vil kreve ytterligere ressursbruk.
+
+Flere politiledere stiller spørsmål ved om dette er en oppgave som bør ligge til Kripos. Særlig blir det vurdert som uhensiktsmessig at eventuelle pålegg om endringer, eksempelvis etter tilsyn fra Datatilsynet, likevel må følges opp gjennom tiltak besluttet av Politidirektoratet. Dette mener flere er lite effektivt. Datatilsynet mener også denne løsningen fremstår som lite hensiktsmessig.[^187]
+
+I utvalgets spørreundersøkelse ble det videre stilt spørsmål om hvorvidt behandleransvaret for politiets dataregistre helt eller delvis burde overtas av andre aktører, men det ble ikke spesifisert hvilke aktører. Av 1857 respondenter var 48,2 prosent «uenig» eller «helt uenig» i at behandleransvaret burde overtas av andre virksomheter, mens 15,3 prosent var «enig» eller «helt enig», og 18,1 prosent svarte «vet ikke». Her fremgikk det likevel av kommentarfeltene at flere var usikre på hvilke aktører som kunne være aktuelle mens andre pekte på POD som naturlig forankring. Mange ga også uttrykk for at de visste for lite om problemstillingen. Det er derfor ut fra dette vanskelig å konkludere hvor i politiet respondentene ønsker at registeransvaret skal ligge.
+
+Utover dette blir Kripos’ særlige kompetanse i stor grad benyttet i andre forvaltningssaker, eksempelvis
+
+- <u>våpentekniske undersøkelser i forbindelse med spørsmål om typegodkjenning av halvautomatiske skytevåpen og til bruk for saksforberedelsen i våpensaker for øvrig</u>
+
+- <u>ivareta oppgaver knyttet til sikkerheten i pass og ID-dokumenter og vurdere ekthet av dokumenter fremlagt i forvaltningssaker</u>
+
+- <u>adressesperre</u>
+
+- <u>akkreditere personell ved lufthavner med tilgang til sikkerhetsbegrensede områder</u>
+
+  1.  **<u>Kompetanse-, fag- og metodeutvikling</u>**
+
+Som flere politimestre og ledere i kontrolletatene bemerker, vil begrenset sakstilfang og kompetanse på flere kriminalitetsområder i politidistriktene, gjøre det nødvendig med et eget miljø for nasjonal spisskompetanse. Dette vil bidra til nødvendig fag- og metodeutvikling og innovasjon. Samtidig gir utvalgets kartlegging et tydelig bilde av at Kripos driver god utvikling og overføring av kompetanse til distriktene, både gjennom bistand og andre tiltak.
+
+Manglende ressurseffektivitet viser seg på flere områder i politiets oppgaveløsning og kompetansebygging. Et viktig område her er identitetsarbeid og flere uklare avgrensninger mellom Nasjonalt ID-senter (NID), Kripos og andre ID-miljø i politietaten.
+
+Kripos har på flere områder[^188] et nasjonalt ansvar for fag- og metodeutvikling, med til dels svært spisset kompetanse, blant annen kriminalteknikk, avhørsteknikk og biometri. Innenfor enkeltområder er Kripos langt fremme internasjonalt, og på såkalt *digital forensics* på mobiltelefonhardware er Kripos av flere oppfattet som å være i verdenstoppen. Selv om dette er et smalt felt, åpner det likevel dører internasjonalt og gir ringvirkninger på beslektede områder. Denne metodeutviklingen fordrer imidlertid satsing på kompetanseutvikling og innovasjon samt rekruttering.[^189]
+
+I utvalgets spørreundersøkelse rettet mot ansatte i politietaten ble respondentene spurt om hvorvidt Kripos oppfattes som en viktig pådriver og premissgiver for politidistriktenes fag- og metodeutvikling. Av undersøkelsens nesten 2000 respondenter svarte nesten 57 prosent at Kripos bidrar positivt, mens 26 prosent svarte «vet ikke». At sistnevnte andel er så stor, har sammenheng med at flertallet i denne kategorien har lite med Kripos å gjøre i sitt daglige virke. I underkant av 12 prosent mente at Kripos «i liten grad» eller «svært liten grad» bidro som pådriver for politidistriktenes fag- og metodeutvikling. På spørsmål om hvorvidt Kripos bidrar til god kompetanseoverføring til politidistriktene, var tilbakemeldingene noe mer positive: I overkant av 63 prosent mente Kripos bidrar til god kompetanseoverføring, mens i underkant av 12 prosent mente Kripos i liten eller svært liten grad bidrar positivt. Mer spesifikt er det en klar overvekt av respondenter som mener Kripos bidrar til å styrke politidistriktenes kompetanse på etterforskning. Hele 77 prosent mener Kripos bidrar i «noe grad», «stor grad» eller «svært stor grad».

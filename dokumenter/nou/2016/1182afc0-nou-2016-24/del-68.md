@@ -1,1243 +1,1198 @@
-# NOU 2016: 24, del 68 av 73 (side 737–746)
+# NOU 2016: 24, del 68 av 69
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/1182afc0-nou-2016-24.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-24/id2517932/
 - Original-PDF: https://www.regjeringen.no/contentassets/6fe1d875248042b4a09b43b85aa46832/no/pdfs/nou201620160024000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 9 tabeller, 1 figur, 52 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 737]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-Fra 2006 til 2013 er det derimot en dobling i
-antall saker med bistandsadvokat (fra ca. 780 til
-over 1400 i 2011–2013).85 Det er også en dobling
-av antall rettstimer for bistandsadvokater (fra
-8612 i 2006, over 18 000 timer i 2010–2013, med
-29 058 timer i 2012 som høyeste tall).86
-Også antallet saker med bruk av tolk er doblet
-fra 2006 til 2013 (fra 1158 til 2318 saker i 2013).87
-Tallene for tolk og tolkeutgifter underbygger konklusjonen ovenfor om en økning i antall utenlandske parter i straffesakene.
-Som tidligere påpekt er disse forhold vesentlige
-kostnadsdrivere i straffeprosessen. Til tross for
-denne markante utvikling er gjennomsnittlig rettstimer i store saker og den generelle saksbehandlingstid for alle saker (pkt. 4.3), likevel nokså stabilt.88 Men det kan selvsagt ikke utelukkes at antallet langvarige saker og/eller tidsbruken i enkelte
-saker ville vært lavere enn det er, dersom denne
-utviklingen ikke hadde funnet sted i samme periode.
-DA har oversendt tall for antall vitneoppmøter i
-meddomsrettssaker for 2008–2013. Tallene kan si noe
-om omfanget og eventuelle endringer i bevisførselens omfang, men gir etter vårt syn et usikkert
-grunnlag for bastante konklusjoner. Tallene sier
-intet om hvor lang tid som brukes på hvert vitne
-eller vitnets relevans for sakens bevistema(er). Det
-bemerkes kort her at antall vitneoppmøter for 2008
-og 2013 var henholdsvis 35 560 og 36 882, og 37 792
-for 2009. Årene 2010–2012 ligger høyest, med henholdsvis 39 200, 39 500 og 38 600. Det er altså i 2013
-en nedgang fra stabile 2010–2012, men en nokså
-liten forskjell fra 2008 og 2009. Det er derfor, basert
-på disse tall, ikke grunnlag for å si at omfanget av
-antall vitner har endret seg i særlig grad.
-Tall vi har mottatt om «rettsmøtetimer i tingrettene i meddomsrettssaker avgjort ved dom»,
-85
-
-Antall meddomsrettssaker med bistandsadvokat i 2006–2007
-var henholdsvis 783 og 776. Det økte til ca. 860 i 2008, ca.
-1140 i 2009, for deretter å flate ut på omkring 1300–1400
-saker årlig (med ca. 18 500 rettstimer pr. år, med unntak av
-2012, der antall rettstimer var over 29 000 timer).
-86
-Salær til bistandsadvokatene er da også en betydelig og
-økende post i det samlede straffesaks-regnskapet, se tall fra
-DA presentert i Rett på sak nr. 3/4 2013 s. 4, hvor økningen
-fra 2005 til 2013 er på 315 prosent. Økningen er på hele 97
-prosent i perioden 2009–2014 (https://www.domstol.no/statistikk).
-87
-Antall meddomsrettsaker med tolk er jevnt stigende i perioden 2006–2014 (henholdsvis 1158, 1188, 1436, 1639, 1951,
-2098, 2235 og 2318). Ifølge ovennevnte kilder har totalkostnadene for tolkutgiftene økt med 67 prosent i perioden
-2008–2012. Bare for perioden 2009–2014 er økningen på 80
-prosent.
-88
-Gjennomsnittlig saksbehandlingstid for meddomsrettssakene er som nevnt i pkt. 4.3.4 svakt økende – i vårt materiale angitt som 2,7 (2010), 2,8 (2011), 2,8 (2012), 2,9 (2013)
-og 3,1 måneder (2014).
-
-735
-
-Vedlegg 2
-
-viser for øvrig en nedgang i samlet tidsbruk i perioden 2005–2014, fra ca. 67 000 timer (2005) til ca.
-58 300 (2014). Disse tall underbygger heller ikke
-en påstand om at det stadig brukes mer tid til
-rettsforhandlingen.
-5.2.8
-
-Utviklingstrekk i sakstypene i meddomsrett i
-perioden 2005–2014
-
-Sammensetningen av «kriminalitetstyper» avgjort
-ved dom i meddomsrett har endret seg i perioden.
-Her angis kun noen grove hovedtrekk basert på
-saksantall i det materiale vi har mottatt («Ulike
-områder i MED-saker avgjort ved dom»).
-– Tingrettene behandler og pådømmer langt
-færre saker som omfatter overtredelser av
-vegtrafikklovgivningen. Det gjelder de aller
-fleste typer overtredelser. For eksempel er
-antall saker for hastighet og kjøring uten førerkort redusert med 50 prosent fra 2005 til 2014.
-For ATK-saker (automatisk trafikk-kontroll) er
-nedgangen på over 70 prosent og for etterfølgende alkoholnytelse over 80 prosent. Promillesakene ligger derimot nokså jevnt fordelt
-mellom 1503 (i 2005) og 1213 (i 2014).
-– Forsikringsbedrageri har gått jevnt ned fra 86
-(2005) til 31 saker (2014). Det samme gjelder
-alminnelig bedrageri (strl. 1902 § 270) – fra 317
-(2005) til 76 (2014). Antall grove bedragerier
-ligger derimot stabilt mellom 40-60 saker i perioden. Trygdebedrageriene er et unntak. Her er
-det en jevn økning fra 232 (2005) til 388 (2014).
-– Antall ordinære helerisaker har falt betydelig,
-samtidig som de grove helerier ligger stabilt på
-ca. 30 saker pr. år.
-– Det er en dobling i antall saker som omfatter
-simple og grove narkotikaovertredelser (strl.
-1902 § 162 første og annet ledd) i perioden
-2005–2014 (fra ca. 600 til 1400). Tallene for
-tredje ledd-sakene er derimot stabile (mellom
-20 og 30 pr. år).
-– Det er en betydelig økning i saker registrert som
-mishandling i familieforhold (strl. 1902 § 219),
-fra 15 (2007) til 372 (2014). Endringen skyldes
-nok både lovendringer (skjerpelser) og intensivert håndheving.89 Toppåret var 2011, med 397
-saker. Økningen av saker som omfatter brudd
-på besøksforbud, har sammenheng med dette
-og økte fra 18 (2005) til 58 (2014).
-– Tall for voldtekter (strl. 1902 § 192 første og
-annet ledd) varierer fra 90 til 138 pr. år i perioden, men med en nedgang fra 129 (2013) til 101
-(2014). Det er nedgang i forsøk på voldtekt.
-– Det er nokså stabile tall for antall seksualforbrytelser mot barn (strl. 1902 §§ 195–196). En
+[^792]: Straffeprosessloven § 202 a ble opprinnelig plassert i lovens kapittel 15 om ransaking, men ble ved en revisjonen av metodereglene i 1999 endret og flyttet til et eget kapittel 15 a om skjult fjernsynsovervåking og teknisk sporing, jf. lov 3. desember 1999 nr. 82 om endringer i straffeprosessloven og straffeloven m.v. (etterforskningsmetoder m.v.). Bestemmelsen er senere endret ved lov 14. april 2000 nr. 31 og 21. juni 2013 nr. 86 (ikke i kraft).
 
-[Side 738]
+[^793]: Se NOU 2004: 6 s. 275.
 
-736
+[^794]: Se Rt. 1984 s. 1076, Rt. 1992 s. 1088, Rt. 1993 s. 473, Rt. 1994 s. 319, Rt. 1997 s. 1659, Rt. 1998 s. 407, Rt. 2000 s. 1223, Rt. 2000 s. 134, Rt. 2000 s. 1482, Rt. 2006 s. 120, Rt. 2007 s. 268, Rt. 2008 s. 1659 og Rt. 2011 s. 1455.
 
-NOU 2016: 24
+[^795]: Se riksadvokaten (2/2000).
 
-Vedlegg 2
+[^796]: Hopsnes (2003) s. 97.
 
-Ny straffeprosesslov
+[^797]: Se riksadvokaten (2/2000) punkt III, 2.3.
 
-Tabell 2.2 Saker i lagmannsrettene over 60 timer 2005–2014 (Jf. pkt. 5.3.1)
-År
+[^798]: Straffeprosesslovkomiteen (1969) s. 259.
 
-Antall
-Gj.snitt timer
+[^799]: Kjelby og Skyberg (2016) punkt 4 og 7.1.
 
-2005
+[^800]: Prop. 97 LS (2011–2012) s. 5.
 
-2006
+[^801]: Se Bjerke, Keiserud og Sæther (2011) s. 47–48, 56–57 og 822, med videre henvisninger.
 
-2007
+[^802]: Lov 13. juni 1975 nr. 39 om utlevering av lovbrytere m.v., arrestordreloven, lov 20. juli 1991 nr. 67 om overføring av domfelte og lov 15. november 1963 om fullbyrding av nordiske dommer på straff m.v.
 
-2008
+[^803]: Se Prop. 97 LS (2011–2012) punkt 4.1.
 
-2009
+[^804]: Om forståelsen av uttrykket «bevisopptak» i utleveringsloven § 23 b nr. 1, se Prop. 97 LS (2011–2012) s. 65–66. Om det tilsvarende uttrykk i domstolloven § 47, se Bøhn (2013a) s. 165–166.
 
-2010
+[^805]: Se Ot.prp. nr. 30 (1974–75) s. 46.
 
-2011
+[^806]: For domstolenes del, se Bøhn (2013a) s. 171.
 
-2012
+[^807]: Prop. 97 LS (2011–2012) s. 31.
 
-2013
+[^808]: Riksadvokaten (1/2016) s. 4.
 
-2014
+[^809]: Riksadvokaten (12.05.15).
 
-26
+[^810]: Riksadvokaten (1/2016) s. 4.
 
-16
+[^811]: Riksadvokaten (1/2015) s. 4.
 
-20
+[^812]: Riksadvokatens (1/2016) s. 5.
 
-27
+[^813]: Justis- og politidepartementet (2000a) s. 90.
 
-25
+[^814]: Betænkning nr. 1492/2007 s. 118.
 
-29
+[^815]: Ot.prp. nr. 90 (2003–2004) s. 487. Se også Prop. 64 L (2014–2015) s. 134.
 
-23
-
-27
+[^816]: For gjeldende rett se Bjerke, Keiserud og Sæther (2011) s. 297 med videre henvisninger.
 
-20
+[^817]: Se nærmere riksadvokaten (2/2015) punkt VIII, 1.
 
-19
+[^818]: Ot.prp. nr. 22 (2008–2009) punkt 14.5 s. 392–393. Se for eksempel straffeloven § 203 femte ledd, markedsføringsloven § 48 a tredje ledd, varemerkeloven § 61 tredje ledd, lov 15. juni 1990 nr. 27 om vern av kretsmønstre for integrerte kretser § 9 tredje ledd og svalbardmiljøloven § 99 annet ledd.
 
-82,31
+[^819]: Se for eksempel forurensingsloven § 78 siste ledd, konkurranseloven § 33, helsepersonelloven § 67 annet ledd, folkehelseloven § 18 annet ledd, lov 12. mai 2000 nr. 36 om strålevern og bruk av stråling § 23 siste ledd, diskrimineringsombudsloven § 14, grensereinbeiteloven § 55, lov 27. juni 2003 nr. 64 om alternativ behandling av sykdom § 9 siste ledd og åndsverkloven § 54 sjette ledd.
 
-1002
+[^820]: Kjelby (2013) s. 24.
 
-1063
+[^821]: Jf. også Kjelby (2013) s. 657 og riksadvokaten (2/2015) punkt VIII, 1.3.
 
-98,94 103,15 106,96 121,77 106,68 104,29 106,910
+[^822]: NOU 2002: 4 s. 466 og 494.
 
-1
+[^823]: NOU 1992: 23 s. 245.
 
-For 2005 var det kun fem saker med varighet over 100 timer (to begrensede anker over straffutmåling, henholdsvis 133 og 200
-timer, og tre fullstendige anker).
-2
-For 2006 var det kun én sak på over 100 timer, og to saker på over 200 timer (henholdsvis 282 og 214).
-3
-For 2007 var det tre saker på over 100 timer, to saker på mellom 15 og 175 timer og én sak – som trekker snittet for dette året opp –
-på 490,5 timer (fullstendig anke, meddomsrett i Gulating (etter tilsidesatt kjennelse) for én av de tiltalte i NOKAS saken.
-4
-For 2008 var det ni saker på over 100 timer (100-192). Lengste sak var på 192,5 timer («Wonderboy»-saken i Borgarting. Grov
-narkotika, kriminell gruppe mv, se Rt. 2008 s. 1217).
-5
-For 2009 var det elleve fullstendige ankesaker med varighet mer enn 100 timer. Lengste sak gjaldt den såkalte Søndre Land-saken
-(tre tiltalt for overlagt drap). Det er usikkert om timetallet registrert i 2009 også omfatter annen gangs behandling av (deler) av
-saken i januar 2010, men det antas, fordi saksnummeret ikke fremgår av tallene for 2010.
-6
-For 2010 var det tolv ankesaker med varighet over 100 timer (fullstendige anker, med unntak for én sak om sivilt krav i straffesak).
-To saker varte ca. 300 timer. Til sammen 345,5 timer i «Vannverk-saken» i Eidsivating (Økokrimsak, grov korrupsjon) og 291 timer
-i Borgarting («Brasil-saken»), hvor sju brødre var tiltalt for heleri og hvitvasking som ledd i kriminell gruppe med forgreninger til
-Brasil og Pakistan.
-7
-For 2011 var det ti saker med varighet mer enn 100 timer, hvorav to av disse var på ca. 200 timer og én på 343,5 timer. Sistnevnte sak
-var en grov korrupsjonssak i Borgarting (bl.a. i tilknytning til oppdrag for Bærum kommune) mot tre brødre, utført som kriminell
-gruppe, se RG 2012 s. 98. Det var flere prosessuelle spørsmål under hovedforhandlingen, se HR-2010-2146-U og Rt. 2010 s. 456.
-8
-For 2012 var det åtte fullstendige ankesaker over 100 timer, hvorav én på 261 og én på 361 timer. Sistnevnte var en Økokrim-sak (utroskap og bedrageri ved innkjøp av skip). Førstnevnte var en narkotikasak mot seks menn (kriminell gruppe) av nigeriansk opprinnelse,
-idømt tre til tolv år for innførsel og forsøk på innførsel av narkotika. Flere prosessuelle spørsmål om KK-materiale, se RG 2012 s. 434.
-9
-For 2013 var det ti saker over 100 timer (ca. 150–160). Den lengste saken (192,5 timer) var fra Hålogaland lagmannsrett. Åtte
-norske statsborgere var her tiltalt for befatning med meget betydelig kvantum narkotika, organisert kriminell gruppe (MC-miljø).
-10
-For 2014 var det sju saker over 100 timer. Én sak på 217 timer var fra Eidsivating. Her var et foreldrepar dømt til fengsel i 17 år
-for gjentatte massive og grove seksuelle overgrep og vold over flere år mot parets tre sønner (barn/stebarn).
+[^824]: Riksadvokaten (2/2015) punkt VIII, 1.3.
 
-tendens er at det er en liten nedgang i saker
-med fornærmede under ti år, ellers omkring
-90–100 de siste fire år (fornærmede under 14
-år) og en nedgang fra 133 (2011) til 105 (2014)
-for fornærmede under 16 år.
-Tallmaterialets treffsikkerhet er usikkert, og det
-viser uansett ikke annet enn grove hovedtrekk.
-Det illustrerer likevel det nokså opplagte: at politiog påtalemyndighetens aktivitet, kompetanse og
-ressurssituasjon er avgjørende for hva som forfølges og iretteføres. Økningen, særlig innen familievold, narkotika og trygdebedrageri, har naturlig
-sammenheng med en intensivert håndheving,
-basert på endring i syn på grovhet og samfunnsskadelighet. Nedgangen i veitrafikkforhold og
-89
+[^825]: NOU 2002: 4 s. 184.
 
-Lovgivers og påtalemyndighetens økte fokus er den nærliggende årsak til flere saker. Strl. 1902 § 219 ble endret i 2005
-og strafferammen skjerpet i 2010. Håndhevingen ble innskjerpet ved Riksadvokatens rundskriv om familievold fra
-2008. Om alt er reelle økninger eller om det dreier seg om
-saker som ellers ville blitt subsumert og registret i andre
-lovbruddskategorier, er usikkert. Det bemerkes at det er
-en nedgang i saker om legemsfornærmelser (strl. 1902
-§ 228) og legems-beskadigelser (strl. 1902 § 229) i samme
-periode. Også trusler (på annen måte enn ved bruk av kniv
-eller skytevåpen) har falt fra over 700 saker (2005) til under
-300 (2014).
+[^826]: Ot.prp. nr. 90 (2003–2004) s. 487 (uthevet her).
 
-mer ordinære bedrageri- og helerisaker kan ha
-sammenheng med økt bruk av forelegg i slike
-saker samt lav grad av håndhevingsintensitet, herunder ressurser til håndheving.90
-5.3
-5.3.1
+[^827]: Ot.prp. nr. 22 (2008–2009) s. 392.
 
-Lagmannsrettene – tall og
-utviklingstrekk
-Antall saker over 60 rettstimer
+[^828]: Prop. 64 L (2014–2015) s. 55–56.
 
-Antall saker i lagmannsrettene i perioden 2005–
-2014 hvor det har medgått mer enn 60 rettstimer,
-fordeler seg som vist i øverste kolonne i tabell 2.2
-nedenfor. Tallene omfatter både fullstendige
-anker og begrensede ankesaker.
-Gjennomsnittlig antall timer angis i nederste
-kolonne. Det foreligger ikke tall fra DA om antall
-tiltalte i hver sak i lagmannsrettene. For de lengste sakene er dette søkt klarlagt ved søk på saksnummer i Lovdata (se saksopplysninger i noter).
-90
+[^829]: Se Prop. 64 L (2014–2015) s. 135.
 
-Tall for henleggelser på grunn av manglende saksbehandlingskapasitet for perioden 2006–2013 gir en viss indikasjon
-på det. Det er en jevn økning fra 3516 i 2006 til 11 440 saker
-i 2013, se SSB, tabell 09405 i Statistikkbanken. For 2013
-gjaldt det ca. 7200 forbrytelser, hvor bedrageri og tyveri
-dominerer klart. Av de ca. 4245 forseelser henlagt i 2013
-dominerer naskeri og vegtrafikk.
+[^830]: Ot.prp. nr. 66 (2001–2002) s. 121.
 
-[Side 739]
+[^831]: Jf. punkt 16.8.2 nedenfor.
 
-737
+[^832]: Jf. Ot.prp. nr. 64 (1998–99) kap. 17.3, Innst. O. nr. 3 (1999–2000) kap. 15 og Rt. 1995 s. 1922.
 
-NOU 2016: 24
-Ny straffeprosesslov
+[^833]: Andenæs og Myhrer (2009) s. 203.
 
-Vedlegg 2
+[^834]: Andenæs og Myhrer (2009) s. 78, 203–204 og 437.
 
-Tabell 2.3 Saker i lagmannsrettene over 100 timer 2005–2014
-År
+[^835]: Riksadvokaten (3/2007), punkt 9.1.
 
-Antall
+[^836]: Rt. 2007 s. 616 (avsnitt 29).
 
-2005
+[^837]: Rt. 2009 s. 1336 (avsnitt 20), jf. Rt. 2007 s. 616 (avsnitt 36).
 
-2006
+[^838]: Rt. 2009 s. 1336 (avsnitt 28).
 
-2007
+[^839]: Jf. riksadvokaten (3/2007) punkt 2.
 
-2008
+[^840]: Bjerke, Keiserud og Sæther (2011) s. 298.
 
-2009
+[^841]: Ot.prp. nr. 90 (2003–2004) s. 470.
 
-2010
+[^842]: Jf. riksadvokatens (3/2007) punkt 2.
 
-2011
+[^843]: Rt. 1995 s. 1922 på s. 1924–1925.
 
-2012
+[^844]: Jf. straffeprosessloven § 232 annet ledd annet punktum.
 
-2013
+[^845]: Øyen (2010) s. 209 med videre henvisninger.
 
-2014
+[^846]: Jf. Rt. 1995 s. 1922, Rt. 2005 s. 1453 og Rt. 2007 s. 616, Rt. 2009 s. 1336 og Øyen (2010) s. 212 flg.
 
-5
+[^847]: Øyen (2010) s. 210.
 
-1
+[^848]: Se nærmere Øyen (2010) s. 208 flg.
 
-3
+[^849]: Jf. straffeloven § 78 bokstav f annet alternativ og Ot.prp. nr. 8 (2007–2008) s. 276.
 
-9
+[^850]: Andenæs og Myhrer (2009) s. 203–204 (petit).
 
-11
+[^851]: Andenæs og Myhrer (2009) s. 204 (petit) og Bjerke, Keiserud og Sæther (2011) s. 297.
 
-12
+[^852]: Andenæs og Myhrer (2009) s. 204 (petit).
 
-10
+[^853]: Prop. 37 L (2015–2016) punkt 7.6.3.
 
-8
+[^854]: Konkurransetilsynet (01.01.14).
 
-10
+[^855]: NOU 2003: 12 punkt 6.7.1.
 
-7
+[^856]: Smith mfl. (2008) s. 135.
 
-Tabell 2.4 Rettsmøtetimer – bevisanker i lagmannsretten 2010–2014 (Jf. pkt. 5.3.2)
-2010
+[^857]: Smith mfl. (2008) s. 135.
 
-2011
+[^858]: Betænkning nr. 1424/2002 kapittel 11, punkt 3.3.2.
 
-2012
+[^859]: Betænkning nr. 1424/2002 kapittel 11, punkt 7.4.
 
-2013
+[^860]: SOU 2005:117 s. 49.
 
-2014
+[^861]: SOU 2013:17 s. 236.
 
-670,5 (86)
+[^862]: SOU 2005:117 s. 49.
 
-587 (75)
+[^863]: SOU 2005:117 s. 61.
 
-794 (75)
+[^864]: SOU 2005:117 s. 62.
 
-887 (73)
+[^865]: SOU 2005:117 s. 63.
 
-702,5 (78)
+[^866]: SOU 2005:117 s. 62.
 
-Borgarting
+[^867]: SOU 2005:117 s. 49 flg.
 
-1800,5 (101)
+[^868]: SOU 2013:17 s. 234 flg.
 
-1904 (112)
+[^869]: SOU 2013:17 s. 240 flg.
 
-2402 (129)
+[^870]: SOU 2013:17 s. 240–242.
 
-1754,5 (121)
+[^871]: Bohlander (2012) s. 106.
 
-1638,5 (122)
+[^872]: Bohlander (2012) s. 119.
 
-Eidsivating
+[^873]: Bohlander (2012) s. 120.
 
-357 (23)
+[^874]: I engelsk oversettelse: «Section 257 c Negotiated Agreement
 
-308 (28)
+    \(1\) In suitable cases the court may, in accordance with the following subsections, reach an agreement with the participants on the further course and outcome of the proceedings. Section 244 subsection (2) shall remain unaffected.
 
-253,5 (29)
+    \(2\) The subject matter of this agreement may only comprise the legal consequences that could be the content of the judgment and of the associated rulings, other procedural measures relating to the course of the underlying adjudication proceedings, and the conduct of the participants during the trial. A confession shall be an integral part of any negotiated agreement. The verdict of guilt, as well as measures of reform and prevention, may not be the subject of a negotiated agreement.
 
-389,5 (32)
+    \(3\) The court shall announce what content the negotiated agreement could have. It may, on free evaluation of all the circumstances of the case as well as general sentencing considerations, also indicate an upper and lower sentence limit. The participants shall be given the opportunity to make submissions. The negotiated agreement shall come into existence if the defendant and the public prosecution office agree to the court’s proposal.
 
-737 (39)
+    \(4\) The court shall cease to be bound by a negotiated agreement if legal or factually significant circumstances have been overlooked or have arisen and the court therefore becomes convinced that the prospective sentencing range is no longer appropriate to the gravity of the offence or the degree of guilt. The same shall apply if the further conduct of the defendant at the trial does not correspond to that upon which the court’s prediction was based. The defendant’s confession may not be used in such cases. The court shall notify any deviation without delay.
 
-Frostating
+    \(5\) The defendant shall be instructed as to the prerequisites for and consequences of a deviation by the court from the prospective outcome pursuant to subsection (4).» Se det tyske justisministeriets lovdatabase: http://www.gesetze-im-internet.de/index.html.
 
-326,5 (37)
+[^875]: Jf. Bohlander (2012) s. 121.
 
-333,5 (40)
+[^876]: Sprack (2012) s. 271.
 
-529,5 (49)
+[^877]: Se Consolidated Criminal Practice Direction IV.45.4 flg.
 
-532 (52)
+[^878]: Sprack (2012) s. 277.
 
-426,5 (39)
+[^879]: Consolidated Criminal Practice Direction IV.45.5
 
-Gulating
+[^880]: Consolidated Criminal Practice Direction IV.45.10.
 
-1051,5 (102)
+[^881]: Consolidated Criminal Practice Direction IV.45.12.
 
-1023,5 (92)
+[^882]: Innospec (2010) Crim LR 665, avsnitt 26 og 46.
 
-1066 (89)
+[^883]: R. v. Goodyear (2005) EWCA Crim 888, avsnitt 53.
 
-1285,5 (92)
+[^884]: Crime and Courts Act 2013, Schedule 17.
 
-873,5 (74)
+[^885]: LaFave mfl. (2004) s. 968.
 
-Hålogaland
+[^886]: LaFave mfl. (2004) s. 968.
 
-562,5 (59)
+[^887]: LaFave mfl. (2004) s. 968.
 
-534 (73)
+[^888]: Bordenkircher vs. Hayes, 434 U.S. 357 (1978).
 
-613 (60)
+[^889]: LaFave mfl. (2004) s. 679.
 
-402 (48)
+[^890]: LaFave mfl. (2004) s. 679­680.
 
-425,5 (50)
+[^891]: LaFave mfl. (2004) s. 685.
 
-Agder
+[^892]: LaFave mfl. (2004) s. 680.
 
-Tabell 2.5 Rettsmøterimer – lagrettesaker 2010–2014
-2010
+[^893]: Brady v. United States, 397 U.S. 742 (1970).
 
-2011
+[^894]: Jf. Federal Rules of Criminal Procedure, Rule 11
 
-2012
+[^895]: LaFave mfl. (2004) s. 1004.
 
-2013
+[^896]: LaFave mfl. (2004) s. 967.
 
-2014
+[^897]: LaFave mfl. (2004) s. 974–975.
 
-Agder
+[^898]: Bordenkircher v. Hayes, 434 U.S. 357 (1978).
 
-564,5 (36)
+[^899]: Stuntz (2005), s. 33–34.
 
-821,5 (46)
+[^900]: Ot.prp. nr. 64 (1998–99) punkt 17.3.
 
-788 (43)
+[^901]: Innst. O. nr. 3 (1999–2000) punkt 15.
 
-747,5 (40)
+[^902]: Justis- og politidepartementet (2000a) s. 90.
 
-785,5 (50)
+[^903]: Justis- og politidepartementet (28.09.06) punkt 11.4.
 
-Borgarting
+[^904]: Prop. 141 L (2009–2010) punkt 8.1.
 
-3862 (135)
+[^905]: NOU 2001: 32 Bind A punkt 9.2 og Ot.prp. nr. 51 (2004–2005) punkt 13.6.
 
-3431 (148)
+[^906]: Justis- og beredskapsdepartementet (2013) s. 38.
 
-3714,5 (139)
+[^907]: Domstoladministrasjonen (2005), Den norske dommerforening (2005) og Domstoladministrasjonen (2011).
 
-2504 (100)
+[^908]: Justis- og beredskapsdepartementet (2013), s. 37–39.
 
-2722,5 (118)
+[^909]: Andenæs og Myhrer (2009) s. 389, Straffeprosesslovkomitéen (1969) kapittel 21 og Innst. O. nr. 37 (1980–1981) s. 32.
 
-Eidsivating
+[^910]: Se Rui (2013) s. 252.
 
-789,5 (29)
+[^911]: Se blant annet Domstoladministrasjonen (2015) og Den norske Dommerforening (2005).
 
-592,5 (26)
+[^912]: Schei mfl. (2013) s. 536.
 
-423 (20)
+[^913]: Andenæs og Myhrer (2009) s. 164.
 
-604 (22)
+[^914]: Andenæs og Myhrer (2009) s. 168.
 
-609 (25)
+[^915]: Jf. også tvisteloven § 29-16 annet ledd.
 
-Frostating
+[^916]: Bjerke, Keiserud og Sæther (2011) s. 1173.
 
-352,5 (17)
+[^917]: Rt. 2004 s. 425 avsnitt 41.
 
-599 (33)
+[^918]: Rt. 2010 s. 597 avsnitt 17.
 
-413 (22)
+[^919]: Rt. 2010 s. 807 avsnitt 31.
 
-594,5 (29)
+[^920]: Rui (2014a) s. 35–40.
 
-624,5 (32)
+[^921]: Se Rui (2014a) s. 41–42, som foreslår en slik løsning.
 
-Gulating
+[^922]: Unntak gjelder i saker der tiltalte ikke har forsvarer, jf. straffeprosessloven § 267 annet ledd første punktum.
 
-1022 (62)
+[^923]: Bjerke, Keiserud og Sæther (2011) s. 978.
 
-1062,5 (62)
+[^924]: Bjerke, Keiserud og Sæther (2011) s. 978 og 1092.
 
-1152,5 (62)
+[^925]: HR-2016-612-U avsnitt 12.
 
-999 (62)
+[^926]: Bjerke, Keiserud og Sæther (2011) s. 1092–1093.
 
-1083 (59)
+[^927]: Straffeprosesslovkomitéen (1969) s. 293 og Innst. O. nr. 37 (1980–1981) s. 32.
 
-Hålogaland
+[^928]: Lie (2013) s. 519.
 
-537 (35)
+[^929]: Slik også Langbach (2013) s 503 og Lie 2013 s. 520.
 
-340,5 (24)
+[^930]: HR-2016-612-U avsnitt 9.
 
-518 (31)
+[^931]: Bjerke, Keiserud og Sæther (2011) s. 110 og Andenæs og Myhrer (2009) s. 146 flg.
 
-596 (27)
+[^932]: Andenæs og Myhrer (2009) s. 558.
 
-461,5 (34)
+[^933]: Andenæs og Myhrer (2009) s. 33.
 
-Også i lagmannsrettene viser tallene et forholdsvis stabilt antall saker, med en topp i 2010
-(29 saker) og en beskjeden nedgang i perioden
-2012–2014. Gjennomsnittlig tidsbruk ligger også
-nokså stabilt omkring 100 (med en topp i 2011 på
-ca. 122 timer).
-Med utgangspunkt i lagmannsrettenes samlede antall straffesaker behandlet i årene 2010–
-2014 (fagdommersaker, begrensede anker, bevisanke i meddomsrett og lagrettesaker) ligger andelen store saker mellom 1,45 og 1,5 prosent (2013
-og 2014) og ca. 1,9–2 prosent (2010 og 2012). Det
-er en nedgang i antallet fra toppåret 2010 til 2013–
-2014. Arbeidsgruppens funn viser til sammenligning et snitt på henholdsvis 1,5 (2005), 1,9 (2009)
-og 1,7 prosent (2010).91 Dette må betraktes som
-nokså stabilt.
+[^934]: Andenæs og Myhrer (2009) s. 262 (kursiv i original).
 
-Ser en særskilt på antall saker pr. år med varighet over 100 timer, ser bildet slik ut, se tabell 2.3.
-Tendensen er isolert sett stigende for 2006–
-2008, men det flater ut igjen om en sammenligner
-antallet pr. år i hele perioden og særlig for 2008–
-2014.
-Antallet saker over 200 timer er likevel noe
-økende i perioden fra 2010–2012, men med en
-nedgang igjen i 2013–2014.
-Som det ses, er både antall saker og gjennomsnittlig tidsbruk i store saker – slik det her defineres – nokså stabilt.
-91
+[^935]: Straffeprosesslovkomitéen (1969) s. 94–95.
 
-Forskjellen mellom tallene vi har mottatt, og Arbeidsgruppens tall for 2010 beror på at forholdstallet i vårt materiale
-er 29 saker/1398 (behandlede saker). Arbeidsgruppens forholdstall er 23 saker/1358 (avsluttede anker over dom).
+[^936]: Se NOU 2014: 10 s. 241–242.
 
-[Side 740]
+[^937]: Bjerke, Keiserud og Sæther (2011) s. 924.
 
-738
+[^938]: Se også § 270 om begjæring fra tiltalte eller forsvarer om bevisopptak forut for hovedforhandling.
 
-Vedlegg 2
+[^939]: Jf. også Ot.prp. nr. 11 (2007–2008) s. 114, der det fremgår at lovfestingen av bistandsadvokatens rett til å anmode om etterforskingsskritt ikke var tilsiktet å medføre realitetsendringer.
 
-5.3.2
+[^940]: Se Kjelby (2013) s. 120 med henvisninger til høyesterettspraksis.
 
-NOU 2016: 24
-Ny straffeprosesslov
+[^941]: Jf. NOU 2014: 10 s. 238–239.
 
-Samlet antall rettstimer brukt i lagmannsretten
+[^942]: Se Andenæs og Myhrer (2009) s. 381.
 
-I tallmaterialet vi har mottatt, er det opplysninger
-om «rettsmøtetimer i lagmannsrettene for 2010–
-2014», fordelt på henholdsvis fagdommersaker,
-begrensede anker, bevisanker i meddomsrett og
-lagrettsaker. De to siste er særlig relevant her.
-For bevisanker i meddomsrett er timeantallet
-fordelt som vist i tabell 2.4. Antall behandlede
-saker angis i parentes.
-Det er variasjoner mellom de ulike år. Hovedtrekkene er en viss økning i antall rettstimer for
-saker i Agder (670–702) og Frostating (326–426).
-Det er en økning i Eidsivating fra ca. 390 timer i
-2013 til 737 timer i 2014.92 Det er en nedgang i
-Borgarting, Gulating og Hålogaland.
-Gjennomsnittet i rettstimer ligger samlet for
-alle lagmannsrettene mellom 7,5–18,8 timer for
-bevisanker i meddomsrett i perioden 2010–2014.
-Det er fra 2010 til 2014 en nedgang i Borgarting,
-jevnt i Gulating og 1–2 timers oppgang i de øvrige
-(med unntak for Eidsivating).
-For tidsbruken i lagrettesakene er timetallet
-som vist i tabell 2.5. Antall behandlede saker angis
-i parentes.
-Det er også her variasjoner mellom de ulike år.
-Hovedtrekkene er en økning i antall rettstimer i
-Agder fra 2010–2011, deretter en utflating, tross
-økt antall saker. Det er en nokså tilsvarende utvikling i Frostating. Det er stabilt i Gulating og en
-viss nedgang i Borgarting, Eidsivating og Hålogaland.
-Gjennomsnittet i rettstimer ligger samlet for
-alle lagmannsrettene mellom 13,5 og 27,4 timer
-pr. lagrettesak i perioden 2010–2014. Det er nedgang i Agder og Hålogaland, jevnt i Borgarting
-og Gulating og – sett under ett – også i Eidsivating.
-Som det vil ses, er det heller ikke basert på
-disse tall grunnlag for å si annet enn at antall
-saker og tidsbruk pr. sak i grove trekk er stabilt.
+[^943]: Se Ot.prp. nr. 35 (1978–79) s. 110.
 
-92
+[^944]: HR-2015-354-U.
 
-Noen åpenbar forklaring på økningen ses ikke i materiale
-vi har mottatt. Det er behandlet 7 saker flere i 2014. Økningen synes høy, men den er i realiteten ikke stor. Forskjellen
-utgjør kun noe over 6 timer (ca. 1 rettsdag) mer pr. sak i
-2014, enn i 2013 (ca. 12,1 timer vs. 18, 8 timer).
+[^945]: Bjerke, Keiserud og Sæther (2011) s. 136–137.
 
-6
+[^946]: Ot.prp. nr. 8 (1998–99). s. 8.
 
-Vurdering av behovet for
-ytterligere og saksspesifikke
-undersøkelser
+[^947]: Ot.prp. nr. 8 (1998–99) s. 48–49.
 
-Vi har – i likhet med Arbeidsgruppen – ikke gjennomgått rettsbok og dom i sakene med varighet
-over 60 rettstimer. En slik gjennomgang kunne ha
-avdekket om det har vært spesielle forhold ved
-saken eller forhold under iretteføringen som har
-medført utsettelser/forsinkelser (f.eks. avgjørelser om bevis, nye etterforskingsskritt mv). Konklusjonene basert på de tall vi har mottatt, er etter
-vårt syn så entydige at vi ikke har funnet det formålstjenlig å foreta en slik saksspesifikk gjennomgang innenfor rammen av denne undersøkelsen.
-Noen generelle trekk ved sakene er fremhevet i
-notene ovenfor og beskrives i tillegg noe mer i
-detalj i pkt. 7.2.1.
+[^948]: Andenæs og Myhrer (2009) s. 33–34.
 
-7
+[^949]: SOU 2013:17 s. 233.
 
-Vurdering og anbefalinger
+[^950]: SOU 2013:17 s. 233–264.
 
-7.1
+[^951]: Justis- og beredskapsdepartementet (2014) s. 125.
 
-Holdbarheten av premissene i Straffeprosessutvalgets mandat
+[^952]: Justis- og beredskapsdepartementet (2014) s. 121–125.
 
-Vi er bedt om å undersøke om – og i tilfelle i hvilken grad – premissene om at «kriminalitetsbildet
-er i endring og kjennetegnes av økt profesjonalisering, organisering og internasjonalisering» og at
-det er «stadig mer komplekse saker med en stadig
-mer omfattende bevisførsel», er holdbare.
-Vi viser her til de fortløpende konklusjoner og
-vurderingen ovenfor under pkt. 5.
-Gjennomgangen av kildematerialet og det tallmaterialet vi har mottatt, og som er gjengitt ovenfor, gir grunnlag for følgende hovedkonklusjoner:
-– Premissene om at kriminalitetsbildet er i endring og kjennetegnes av økt profesjonalisering,
-organisering og internasjonalisering, er det en
-viss dekning for. Men kildegrunnlaget er
-begrenset (først og fremst forankret i politiets
-analyser), uttalelser om dette er inntrykksbasert og generelle (angitt som «trender» eller
-at det er «innslag av» slike forhold), og i hvilken grad og – ikke minst – i hvor mange saker
-disse forholdene er til stede, er usikkert.
-– Økningen i antall siktede og tiltaler mot personer med utenlandsk statsborgerskap synes å
-være en entydig endring i kriminalitetsbildet i
-de større byer.
-– Endringer i kriminalitetsbildet har ført til flere
-aktører i rettsprosessene (jf. tall for meddomsrettsaker i tingretten), først og fremst tolker og
-bistandsadvokater, men uten at det ses at dette
-har gitt målbare utslag (jf. neste pkt.).
+[^953]: Dokument No. 1 s. 586.
 
-[Side 741]
+[^954]: Høyesteretts kontor (14.12.06). Se også Juryutvalgets tilslutning til høringsuttalelsen i NOU 2011: 13 s. 92.
 
-739
+[^955]: Taxquet mot Belgia (926/05), dom 16.11.10, avsnitt 91. Se nærmere i NOU 2011: 13 s. 24–28.
 
-NOU 2016: 24
-Ny straffeprosesslov
+[^956]: Pedersen (2016) s. 147–150.
 
-–
+[^957]: Ot.prp. nr. 78 (1992–93) s. 77–78. Se også s. 44–45.
 
-–
+[^958]: Rt. 2001 s. 121 på s. 123.
 
-–
+[^959]: Rt. 2001 s. 989 på s. 991–992.
 
-Dersom det legges til grunn at disse endringer
-har vært virksomme i perioden 2005–2014, er
-det vanskelig å finne statistisk belegg for at de
-faktisk har medført vesentlige endringer i antall
-store og omfattende saker og for tidsbruken i
-domstolene.
-Premisset om at det er «stadig mer komplekse
-saker med en stadig mer omfattende bevisførsel», har ikke generell gyldighet. Straffesaker
-med tidsbruk over 60 rettstimer har over år
-vært stabilt både i antall, tidsbruk og i antall tiltalte i hver sak.
-Basert på det samlede antall saker som hvert
-år behandles i domstolene, er det kun et svært
-begrenset antall saker som kan karakteriseres
-som «komplekse med (…) omfattende bevisførsel».
+[^960]: Rt. 2009 s. 750 avsnitt 75 og 76.
 
-Konklusjonene innebærer at de faktiske premissene som ligger til grunn for behovet for en reform
-og en ny lov, er svekket. Behovet må følgelig
-begrunnes på en annen måte eller presiseres nærmere.
-7.2
+[^961]: Rt. 2009 s. 1439. Se også Rt. 2011 s. 172 avsnitt 26 flg.
 
-Forhold eller mekanismer av betydning
-for straffesaksbehandlingens effektivitet
+[^962]: Rt. 2010 s. 865 avsnitt 22 og 43.
 
-Vi er også blitt bedt om å foreta en rettsdogmatisk/rettssosiologisk undersøkelse som mer generelt tematiserer «hvilke forhold eller mekanismer
-som har betydning for straffesaksbehandlingens
-effektivitet» og «hvordan disse forholdene påvirkes av den 'nye' kriminaliteten».
-Med effektivitet legger vi til grunn den forståelse av begrepet som vi har gjort rede for i pkt. 2.4
-ovenfor, med det forbehold at kvalitative vurderinger i mer begrenset grad enn kvantitative lar seg
-måle.
+[^963]: Bjerke, Keiserud og Sæther (2011) s. 181–182.
 
-7.2.1
-7.2.1.1
+[^964]: Bjerke, Keiserud og Sæther (2011) s. 185.
 
-Faktorer som fremgår av vårt materiale
-Antall aktører
+[^965]: Rt. 2008 s. 1764.
 
-Det er særlig tre forhold som kjennetegner de
-«omfattende» sakene som inngår i vårt materiale
-(og i materialet fra Arbeidsgruppens rapport fra
-2011):
-– behov for tolk
-– flere bistandsadvokater og/eller
-– flere tiltalte i samme sak
-Også i vårt materiale dreier det seg særlig om
-saker i kategoriene økonomiske straffesaker, større
-narkotikasaker og «omfattende» sedelighetssaker.
+[^966]: Rt. 2011 s. 1734 avsnitt 10–11 og Rt. 2008 s. 144 avsnitt 10.
 
-Vedlegg 2
+[^967]: Rt. 2009 s. 1590 avsnitt 29.
 
-De aller lengste sakene finnes i kategorien økonomiske straffesaker.
-Det er derfor nærliggende å anta at disse faktorer og kjennetegn påvirker tidsbruk og kostnader under iretteføringen. Rett til bistandsadvokat
-og tolk er velkjente kostnadsdrivende faktorer som
-ligger nokså fast. De i stor grad forankret i lov og
-prosessuelle rettigheter, blant annet basert på de
-minimumskrav til en «rettferdig rettergang» som
-følger av EMK. Som allerede sitert fra Arbeidsgruppen, er de «(…) knyttet til lovgivningstiltak
-som er villet, og ressursbehovet knyttet til iretteføringen forutsettes vurdert i forbindelse med de
-enkelte lovendringene».
-I hvilken grad de også er tidsdrivende for selve
-iretteføringen, er det vanskeligere å måle, men
-materialet vårt viser altså ingen tydelige sammenhenger her, jf. pkt. 5.2.7 og 7.1. For berammingstidens lengde er derimot antall aktører av betydning, se pkt. 7.2.1.3.
-Betydningen av flere tiltalte i samme sak, det vil
-si forening av flere saker slik strpl. § 13 gir hjemmel for, er vanskeligere å vurdere, både når det
-gjelder hva det har å si for tidsbruk og kompleksitet. Flere tiltalte vil i praksis medføre behov for
-flere rettstimer til behandling av den aktuelle sak.
-I slike saker er ofte bevistema og bevisførselen
-noenlunde felles for alle, og forening er derfor
-prosessøkonomisk velbegrunnet. Alternativet –
-en særskilt iretteføring mot hver enkelt tiltalt –
-ville neppe medført noen større tids- eller ressursmessige gevinster.93
-7.2.1.2
+[^968]: Rt. 2008 s. 1764 avsnitt 106.
 
-«Prosessuelle sidespor»
+[^969]: Rt. 1994 s. 1136 på s. 1337 og Rt. 2003 s. 656 avsnitt 13.
 
-Et forhold som i tillegg viser seg i flere av de
-saker vi har sett på, er det man kan kalle prosessuelle sidespor, det vil si begjæringer og rettsmidler
-særlig knyttet til bevisførselen, dokumentinnsyn
-og/eller beslag i saken. Slike parallelle prosesser
-forsinker rettsforhandlingene (og etterforskingen) og virker i tillegg «ankedrivende» – om enn i
-varierende grad.94
-93
+[^970]: Se Pedersen (2016), NOU 2011: 13 s. 84–92 og NOU 2001: 32 Bind A s. 577–578.
 
-94
+[^971]: Ot.prp. nr. 78 (1992–93) s. 44.
 
-Kanskje med unntak av saker hvor flere av de medtiltaltes
-saker kunne vært avgjort med tilståelsesdom. Men i slike
-tilfeller vil vitneforklaringer fra disse uansett måtte påregnes i en hovedforhandling mot medskyldige. Lovens regler
-om bevisførsel og forklaringsplikt før rettskraftig dom i
-egen sak – herunder praktiske problem med manglende
-forklaringsvilje – kan skape problemer, jf. blant annet Rt.
-2003 s. 1808, Rt. 1994 s. 1324, Rt. 1992 s. 1500 og Rt. 1999
-s. 757.
-Slik også Knut Erik Sæther, «Politisering og straffeprosessuelle reformbehov», Tidsskrift for Strafferett nr. 4/2013 på
-s. 464.
+[^972]: Rt. 2008 s. 1764 avsnitt 105 og Rt. 2009 s. 1439 avsnitt 34.
 
-[Side 742]
+[^973]: Rt. 2012 s. 65 avsnitt 147–148 og Rt. 1997 s. 437.
 
-740
+[^974]: Ot.prp. nr. 78 (1992–93) s. 77.
 
-NOU 2016: 24
+[^975]: Taxquet mot Belgia, (926/05), dom 16.11.10, avsnitt 91.
 
-Vedlegg 2
+[^976]: Se Horn (2015) s. 390–395.
 
-Ny straffeprosesslov
+[^977]: Se likevel straffeprosessloven § 453 første ledd om såkalt foregrepet soning og § 452 annet ledd om at det kan besluttes at fullbyrdingen av en rettskraftig straffedom skal utstå dersom dommen angripes ved anke eller en begjæring om gjenåpning er tatt til følge.
 
-«[d]omstidens [tiden fra påtalemessig avgjørelse og frem til endelig dom i domstolene] for
-bedragerier og skattesvik er lang, sammenliknet med de fleste andre type lovbrudd. (…)
-Med unntak av de nevnte typene økonomiske
-forbrytelsene er det, i stigende rekkefølge, seksuell omgang med barn, incest, voldtekt, grove
-narkotikaforbrytelser og drap som tar lengst
-tid å behandle i domstolsapparatet (…) For
-mange typer lovbrudd går det gjennomsnittlig
-lengre tid å få en avgjørelse i domstolene enn
-det gjør å få en avgjørelse av påtalemyndigheten. Dette er blant annet tilfellet for de groveste
-volds- og seksualforbrytelsene.»95
+[^978]: Se straffeprosessloven § 382 annet ledd om anke som gjelder blant annet spørsmål om vitneplikt. Se også domstolloven § 120 og utleveringsloven § 17 nr. 3.
 
-Et nokså markant eksempel fra vårt materiale
-er Oslo tingretts dom 1. november 2012 (sak 10113392MED-OTIR/04), se pkt. 5.2.3. Det dreier
-seg om en Økokrim-sak mot tre personer tiltalt for
-omfattende bedragerier mot finansinstitusjoner.
-Det ble 7. desember samme år avsagt tilleggsdom
-og kjennelse vedrørende erstatningskrav i saken.
-Det er registrert brukt til sammen 428,5 timer i
-tingretten. I tingrettens dom heter det:
-«Saka kom inn til tingretten i juli 2010. Hovudforhandlinga skulle ha begynte 18. mai 2011,
-men den blei utsett etter at Borgarting lagmannsrett i ein orskurd av 4. mai 2011 [LB2011-67542] kom at dei tiltalte hadde rett til innsyn i fleire dokument enn det dei hadde fått innsyn i. Sidan det var ikkje mogleg å finne eit nytt
-tidspunkt som høvde for alle forsvararane,
-begynte hovudforhandlinga fyrst måndag 23.
-april 2012 i rettslokala i Oslo tinghus. Den
-pågjekk i 56 rettsdagar til og med fredag 13. juli
-2012, og dessutan torsdag 14. og fredag 15.
-august 2012.»
-Forut for oppstart var det behandlet et krav om tilbakelevering av databeslag (TOSLO-2010-1133921). Lagmannsrettens kjennelse (LB-2011-67542),
-som forsinket sakens oppstart i mai 2011, ble
-senere opphevet av Høyesterett, se Rt. 2011 s.
-1188. Høyesterett la her til grunn en mer begrenset rett for tiltalte til innsyn i speilkopier som politiet hadde tatt av beslaglagte harddisker og andre
-elektroniske lagringsmedier.
-Tingrettsdommens videre skjebne? Borgarting (LB-2012-199711) opphevet alle sakens avgjørelser på grunn av den ene fagkyndige meddommers inhabiliserende uttalelser rettet mot to av de
-tiltalte. Uttalelsene var fremsatt i et politiavhør
-meddommeren avga under tingrettens behandling av saken. Avhøret ble foretatt i anledning et
-innbrudd hos hans nabo. Avgjørelse ble opprettholdt av Høyesterett, se Rt. 2014 s. 59.
-7.2.1.3
+[^979]: Rui (2010) s. 497 flg.
 
-Tidsbruk utenfor rettsforhandlingen –
-berammingstid
+[^980]: Det eneste unntak er forenklede forelegg, som kan utferdiges etter særlovgivningen og av personer som ikke tilhører påtalemyndigheten, se vegtrafikkloven § 31 b, matloven § 28, tolloven § 16-9 og småbåtloven § 42.
 
-Fokuset i mandatet og i fremstillingen ovenfor har
-vært sakens omfang og tidsbruken til selve iretteføringen av straffesaken. Men også tiden som går
-og ressurser som benyttes mellom tiltale, iretteføring og rettskraftig dom, kan bidra til å forsterke
-et inntrykk av at flere saker er mer omfattende og
-tar lengre tid. For de sakstyper som her er aktuelle, konkluderte Stene i 2002, med at
+[^981]: Ved etterfølgende privat straffesak gjør ikke dette seg gjeldende på samme måte, se til illustrasjon Rt. 2010 s. 454 (politidistriktets vedtatte forelegg for overtredelse av straffeloven 1902 § 325 jf. § 48 a sperret for privat straffesak om overtredelse av straffeloven 1902 § 239 i tilknytning til samme dødsfall i arrest).
 
-Tidsforløpet forut for hovedforhandlingen – tid det
-tar å beramme saken og ventetid frem til hovedforhandling starter – er ofte vesentlig lengre enn
-irettføringstiden i flere saker i vårt materiale, se
-blant annet ovennevnte sak og begrunnelsen for
-fristoversittelsen i strpl. § 275.96 Et annet eksempel er Fredrikstad tingretts dom 18. februar 2013
-(11-147123MED), som gjaldt en straffesak mot
-seks personer, tiltalt for omfattende bankbedragerier. Det medgikk til sammen 463,5 rettstimer. I
-dommen heter det:
-«Saken innkom til tingretten den 14. september 2011. Hovedforhandling ble avholdt den 13.
-august 2012 og avsluttet 17. januar 2013.
-Hovedforhandlingen ble ikke avholdt innen
-den frist som er satt i straffeprosessloven § 275
-annet ledd bokstav b [varetekt]. Saken er
-meget omfattende og de [sic] var ikke mulig
-for samtlige forsvarere å avsette så lang tid tidligere.»
-Det er ovenfor påpekt at det er blitt flere aktører i
-straffesakene. Berammingstidspunktet skal da
-passe for alle, både forsvarerne, tolker, bistandsadvokater og aktoratet. Retten til tolk ligger fast,
-men tilgangen på kvalifiserte tolker kan påvirkes
-gjennom andre tiltak enn lovgivning. Slik rettstilstanden er pr. i dag, står det frie forsvarervalg og
-det frie bistandsadvokatvalg (jf. Rt. 2012 s. 1679)
-95
+[^982]: Se for eksempel Rt. 2005 s. 1430 (rettskraftig dom for overtredelse av vegtrafikkloven § 31 jf. § 3 sperret ikke for sak om overtredelse av § 31 jf. § 22 i tilknytning til samme episode).
 
-96
+[^983]: Se Rui (2009a). For en oversikt over reglene og sentrale avgjørelser fra Høyesterett og EMD, se Holmboe og Jahre (2011).
 
-Reid J. Stene, «Politiet er mest avgjørende i rettssystemet»
-Samfunnsspeilet 3/2002 s. 16 (basert på tall fra 1997 til
-2001). Tilsvarende i Lotte Rustad Thorsen, Stian Lid og
-Reid J. Stene, Kriminalitet og rettsvesen 2009 på s. 70.
-Tall fra materialet vårt viser en viss økning i antall varetektssaker hvor hovedforhandling i tingretten påbegynnes senere
-enn de lovbestemte frister på henholdsvis 6 og 8 uker i strpl.
-§ 275 annet ledd. Tallet er stabilt i lagmannsrettene. I saker
-med tiltalte under 18 år, er det nedgang i antallet både for
-tingrett og lagmannsrett. Den prosentvise andel saker med
-oversittelser, er ikke angitt.
+[^984]: Se dessuten SP artikkel 14 nr. 7, EUs charter artikkel 50 og Konvensjonen for implementering av Schengen-avtalen (CISA) artikkel 54.
 
-[Side 743]
+[^985]: Lov 27. mai 2016 nr. 15 om endringer i forvaltningsloven mv. (administrative sanksjoner mv.) (uthevet her).
 
-NOU 2016: 24
-Ny straffeprosesslov
+[^986]: Adgangen til parallellforfølgning er usikker, jf. blant annet Frisvold og Flom-Jacobsen mot Norge (24130/11 og 29758/11), der avgjørelse foreløpig ikke er avsagt.
 
-meget sterkt i norsk rett. Det er – særlig i ankeinstansen – begrenset rom for omberamming og
-«tvangsberamminger»97 som griper inn i disse
-rettighetene, med mindre det er tale om lengre
-forsinkelser i fremdrift, som etter praksis ligger
-mellom seks uker og to måneder.98
-Berammingstider på nærmere ett år – slik de
-ovennevnte saker er eksempel på – er uheldig.
-Det har gjennomgående vært oppmerksomhet
-rettet mot å redusere «liggetid» – det vil si den tid
-hvor det ikke gjøres noe i saken – på etterforskings- og påtalestadiet. Her ligger åpenbare
-effektiviseringsgevinster, men også på domstolstadiet må «ligge- og ventetiden» kunne reduseres. Påtalemyndigheten og domstolenes frister
-har begrenset virkning i møte med de øvrige aktørenes rettskrav på forsvar, tolk og bistand. Visse
-innskrenkinger i det frie forsvarervalg kan være
-virksomt.99 Men det må erkjennes at handlingsrommet både for lovgiver og domstolene p.t. er
-noe begrenset. Nærmere vurderinger av dette ligger under utvalgets mandat pkt. 4/8.
-7.2.2
+[^987]: Se særlig Konvensjonen for implementering av Schengen-avtalen (CISA) artikkel 54.
 
-97
+[^988]: Ot.prp. nr. 90 (2003–2004) s. 406–407.
 
-siktes til med dette, og premissene for mandatet er
-som nevnt ikke ubetinget holdbare.
-Flere mulige forhold kan likevel trekkes frem.
-Som fremhevet tidligere er partenes prosesshandlinger og samlede prosessatferd i en sak –
-ved siden av dommerens saksstyring – etter vår
-oppfatning sentrale faktorer for hvor omfattende
-straffesakens forberedelse og gjennomføring blir i
-domstolene.100 Partenes prosessatferd og -valg
-styres både av prosesslovgivningen og av aktørenes «vante sakstilnærming» – prosesskulturen.101
-Straffeprosessutvalget skal blant annet se på
-tvistelovens løsninger som en mulig modell for
-en ny straffeprosesslov. Et virkemiddel for å oppfylle tvistelovens effektiviseringsmål var nettopp
-å påvirke/endre alle aktørenes atferd i prosessen, blant annet gjennom lovregler om aktiv
-dommerstyring. I forarbeidene fremhevet
-departementet:
-«Lovforslaget legger grunnlaget for en kulturendring blant dommere, advokater og parter
-når det gjelder behandlingen av sivile tvister.
-Det legger opp til en aktiv saksstyring fra dommerens side, med større vekt på saksforberedelsen og kortere hovedforhandling enn i dag.
-Håndteringen av den enkelte sak skal gjennomsyres av et proporsjonalitetsprinsipp, slik
-at saksbehandlingens omfang står i forhold til
-tvistens betydning.»102
+[^989]: Ot.prp. nr. 56 (1998–99) punkt 7.1.
 
-Andre forhold – en kort oversikt
+[^990]: Ot.prp. nr. 90 (2003–2004) s. 406.
 
-Som tidligere nevnt er vi er enig i de generelle
-forhold som er påpekt og de anbefalinger som er
-gitt i Arbeidsgruppens rapport fra 2011 (se pkt.
-2.2.3).
-I innledningen til Straffeprosessutvalget mandat heter det: «Det er mange forhold som tyder på at
-straffeprosessloven av 1981 ikke er rustet til å møte
-disse utfordringene [økt profesjonalisering, organisering og internasjonalisering og stadig mer komplekse saker med en stadig mer omfattende bevisførsel]». Det er på ingen måte klart hva det konkret
-Se Rt. 2009 s. 417 pkt. 19, med videre henvisninger. I den
-spesielle saken ble likevel en forsinkelse på ca. åtte uker
-godtatt, selv om det ikke var fristsak. «Tvangsberamming»
-ble ikke godtatt i Rt. 2009 s. 637 U og Rt. 2009 s. 1000. I Rt.
-2003 s. 1869 ble tvungen beramming for lagmannsrett opprettholdt, på grunn av fire måneders forsinkelse dersom
-nyvalgt forsvarer ble oppnevnt. Se likevel Rt. 2005 s. 1010,
-hvor seks ukers forsinkelse ikke var nok til å nekte omberamming på grunn av nytt forsvarer-valg for lagmannsretten. Tilsvarende i Rt. 2004 s. 1175 og Rt. 2005 s. 1161.
-98
-Lovens krav er «forsinkelser av betydning», jf. strpl. § 102,
-sammenholdt med fristene i strpl. § 275 andre ledd. Se Rt.
-2003 s. 1627, hvor en forsinkelse på to måneder medførte at
-ønskede forsvarer for tingretten, ikke ble oppnevnt. Se for
-ankeforhandling blant annet Rt. 2004 s. 950, hvor det var
-dissens 3–2 om hvorvidt en forsinkelse på fire måneder
-veide tyngre enn tiltaltes frie forsvarervalg, og Rt. 2004 s.
-1161, hvor syv uker var betydelig forsinkelse, men den frie
-forsvarervalg slo igjennom.
-99
-Slik Nils Erik Lie, «Noen tanker om fremtidens straffeprosess» Tidsskrift for Strafferett nr. 4 2013, på s. 518, som gir
-uttrykk for at «(…) det frie forsvarervalget er drevet for
-langt».
-
-741
-
-Vedlegg 2
-
-Sammenlignende undersøkelser av lignende
-straffesaker iretteført i Norge og Sverige fremhever nokså sterkt slike forhold. I Torolv Groseth
-og Tor Langbachs rapport En sammenlignende
-gjennomgang av «Fadime»-saken og «Anooshe»saken påpeker de følgende:
-«En påfallende forskjell mellom de to sakene vi
-undersøkte, var den tid det tok å behandle dem
-i retten. Fadimesaken tok 3 dager i tingsrätten
-og 3 dager i hovrätten. Anooshesaken tok 12
-100
-
-Dette er en nokså alminnelig oppfatning, se de ulike bidrag
-i Tidsskrift for Strafferett nr. 4 2013. En rekke av Arbeidsgruppens forslag til endringer innenfor gjeldende regelverk tar sikte på å endre aktørenes praksis og tilvante
-arbeidsmåter.
-101
-Med «prosesskultur» menes her dommeres og partenes
-«vante sakstilnærming», slik det formuleres i NOU 2001:
-32 Rett på sak Bind A, på s. 238 (om at regler om «aktiv
-saksstyring» vil innebære en «omlegging av den vante sakstilnærmingen (…) – prosesskulturen»).
-102
-Ot.prp. nr. 51 (2004–2005) Om lov om mekling og rettergang
-i sivile tvister (tvisteloven) s. 13 (uthevet her), jf. også
-Tvistelovutvalget om «rettskultur» like ovenfor.
-
-[Side 744]
-
-742
-
-NOU 2016: 24
-
-Vedlegg 2
-
-Ny straffeprosesslov
-
-rettsdager i tingretten og 3 uker i lagmannsretten. Som nevnt innledningsvis er det vel få
-som vil hevde at svenskene setter rettssikkerheten i fare.
-(…)
-Det kan reises spørsmål om det trengs en
-ytterligere lovregulering av domstolenes
-arbeid med slike saker. Vi ser det ikke slik. Retten er, særlig med de seneste lovendringene
-med hensyn til frister, avskjæring av bevis mv
-utstyrt med det nødvendige lovmessige grunnlag for å effektivisere behandlingen av sakene.
-Problemet ligger mer i retning av elementer i
-den kulturen som særlig de senere år har utviklet
-seg i rettsvesenet, både når det gjelder dommere,
-aktorer og forsvarere. Dels gjelder dette som
-nevnt ‘ting tar tid’-syndromet.»103
-Tilsvarende funn er gjort av Kallerud i hans spørreundersøkelse gjennomført i Sverige, Danmark,
-Finland og Norge, basert på to fiktive saker. Når
-det gjelder angivelse av behovet for antall vitner
-og tidsbruk, er «ulikhetene betydelige (…), og
-mer enn det er naturlig å forvente i land med så
-like rettstradisjoner».104 Han fremhever at det for
-Norges del også er «tankevekkende at det kan se
-ut til at praksis varierer i betydelig grad mellom
-statsadvokatregionene».105
-Hvorvidt dette er en «særnorsk» prosesskultur, som det antydes, er det ikke mulig å fastslå
-her, men noen rettskulturelle dimensjoner utdypes nærmere i pkt. 8 nedenfor. Her fremheves
-kort noen rettslige forhold av betydning.
-De element av kritikk som ligger i de ovennevnte undersøkelser, er også med varierende
-styrke fremhevet i den juridiske teori.106 Den
-knytter seg dels til straffeprosesslovens (manglende) regulering, men rammer kanskje først og
-fremst partenes og dommernes atferd innenfor de
-gjeldende rettslige rammer, og kan sammenfattes
-slik: Partene fører flere og mer bevis enn hva den
-konkrete sakens bevistema krever og utover den
-103
-
-Se rapporten på s. 7, uthevet her (se https://www.domstol.no/globalassets/upload/internett_fillister/da/publikasjoner/rapporter/fadime-og-anooshe-saken-rapport2003.doc).
-104
-Se Knut H. Kallerud, «Håndtering av komplekse straffesaker i domstolene – Straffesaksbehandling i Norden
-belyst ved to fiktive saker», Tidsskrift for Strafferett nr. 1/
-2015 s. 7–26, på s. 14–15.
-105
-Samme sted, på s. 15.
-106
-Se blant annet de ulike bidrag i Tidsskrift for Strafferett nr. 4
-2013 og Jon Petter Rui, «Mer effektiv gjennomføring av
-hovedforhandling i store straffesaker – Bruk av saksdokumenter, skriftlige redegjørelser og forberedende rettsmøte» Lov og Rett 2013 på s. 248–253.
-
-frie bevisføringsrettens krav til «relevans»; uomtvistede faktiske forhold blir ikke avklart mellom
-partene i forkant; dommerne får ikke tilstrekkelig
-kjennskap om saken (og sakens dokumenter)
-under saksforberedelsen til å gripe inn, de tar i for
-liten grad selv initiativ til å skaffe en slik oversikt
-(ved innhenting av dokument, krav om begrunnelser fra partene, saksforberedende møter mv.), og
-de er under rettsforhandlingene for passive overfor partenes bevisførsel.
-Hva som eventuelt er årsakene til at det er
-slik, er et sammensatt og komplisert spørsmål.
-Når det gjelder passivitet og manglende inngripen fra dommerne, pekes det gjerne mot forhold
-som rettstilstandens kompleksitet, rettsuklarhet
-og manglende forutberegnelighet, særlig på
-grunn av praksis fra EMD, og «frykt» for opphevelser ved anke over saksbehandlingsfeil som
-følge av det.107 Rapporten Snubletråder i straffeprosessen – Kartlegging av opphevede straffedommer viser likevel at opphevelsesprosenten er lav.
-Av ca. 85 000 straffesaker behandlet i perioden
-2011–2013 fant Arbeidsgruppen kun 256 opphevelser på grunn av feil saksbehandling eller
-lovanvendelse (hvilket tilsvarte ca. 0,3 %). Mangelfulle/utilstrekkelige domsgrunner utgjorde
-grunnlaget for opphevelse i noe over halvparten
-av sakene i materialet.108 Som påpekt ovenfor i
-pkt. 2.1 har dette først og fremst sammenheng
-med den rettslige utvikling mot skjerpede krav
-til domsgrunner. Denne utvikling kan nok også
-ha en viss betydning for rettens aksept av bevisførsel: Det godtas mer – for å få et mer robust
-avgjørelsesgrunnlag.
-Høyesterett har gitt uttrykk for tilbakeholdenhet med å overprøve lagmannsrettens vurderinger av om det er behov for ytterligere bevis, i
-saker hvor bevisbildet og den samlede bevisbedømmelsen er sammensatt, se Rt. 2008 s. 1350
-(pkt. 16). I senere års høyesterettspraksis finnes
-det kun noen få eksempel på at Høyesterett har
-kommet til at retten har beskåret partenes bevisførsel for mye, eller ikke besørget saken fullsten-
-
-107
-
-Slik bl.a. Tor-Aksel Busch, «Moderne kriminalitet – tradisjonell rettergang», Tidsskrift for strafferett 2011 s. 349–367,
-på s. 365, Sæther, op.cit. s. 463 og s. 467–468, Jo Hov, «Straffeprosessloven under debatt ‘… alt det gamle vi med jorden
-jevner …’» Tidsskrift for strafferett nr. 1 2014 s. 87–88.
-108
-Se DAs rapportserie 1/2014 Snubletråder i straffeprosessen
-– Kartlegging av opphevede straffedommer. Rapport fra
-arbeidsgruppe nedsatt av Domstoladministrasjonen, på s. 3.
-De vanligste opphevelsesgrunnene ellers var feil i rettens
-sammensetning, manglende påtalekompetanse og brudd
-på siktedes rett til forsvarer.
-
-[Side 745]
-
-743
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-dig opplyst.109 Et eksempel på at lagmannsretten
-urettmessig har tillatt «forenklinger» i bevisførselen, er Rt. 2014 s. 1292.110
-Om manglende saksstyring – herunder passivitet i forhold til partenes bevisførsel – fremheves
-det gjerne at dommerne ikke har tilstrekkelig
-grunnlag for slik styring, blant annet fordi de ikke
-bruker adgangen til å få en redegjørelse for saken
-og/eller innhente sakens dokumenter, alene eller
-i forbindelse med rettsmøte under saksforberedelsen.111 Straffeprosesslovens regler er neppe til
-hinder for det, se strpl. § 272, jf. § 274 og § 262
-første ledd siste pkt. og tredje ledd,112 og forbedringer kan oppnås med utgangspunkt i loven slik
-den er i dag.113
-Når det gjelder spørsmålet om at uomtvistede
-faktiske forhold bør avklares mellom partene i forkant, vises det til at Arbeidsgruppen (pkt. 2.2.3)
-blant annet foreslo at det bør åpnes opp for at det
-kan utarbeides en omforent faktumbeskrivelse som
-tiltalte kan tiltre, og som skal inngå i rettens avgjørelsesgrunnlag. Dersom uomtvistede faktiske forhold blir avklart mellom partene i forkant, kan
-bevisførselen
-konsentreres.
-«Unødvendige»
-hovedforhandlinger kan også unngås om saken på
-denne måten kan avgjøres som tilståelsessak. Tillit og gode relasjoner er en forutsetning for slik
-samhandling og kommunikasjon mellom partene.
-I tillegg må det være forutberegnelighet om virkningen av omforente standpunkt til faktum. Men
-lovregler som er ment å fremme eller skape et
-klima for slik samhandling/kommunikasjon, kan
-utfordre partenes rolleforståelse, og er møtt med
-skepsis tidligere.114
-
-109
-
-Se Rt. 2008 s. 605 hadde lagmannsretten urettmessig
-avskåret en «rekonstruksjon» utført av forsvarer fordi den
-var «uten beviskraft», jf. strpl. § 292 bokstav c og Rt. 2013 s.
-1501, hvor lagmannsretten uriktig nektet påtalemyndigheten å fremlegge en tidligere fellende dom før lagrettens
-rådslagning.
-110
-I Rt. 2014 s. 1292, var det (bl.a.) dissens 4–1 om hvorvidt det
-var adgang til å høre et «sentralt vitne» ved telefonavhør
-under ankeforhandlingen. Samtlige dommere var imidlertid
-enig om at «toveis-kommunikasjon med både lyd og bilde»
-var å foretrekke. Flertallet la avgjørende vekt på at «en
-direkte forklaring måtte forventes å ville gi retten et vesentlig
-mer avklart grunnlag for bevisbedømmelsen [vitnets forklaring og påliteligheten av den] enn et telefonavhør» (pkt. 31).
-111
-Slik bl.a. Kallerud, op.cit. s. 233 og Rui, op.cit. særlig s.
-250–251.
-112 Se Rui, op.cit. s. 250–251 og Gert Johan Kjelby, «Bevisrettens grunnprinsipper og hovedregler i straffesaker» i
-Ragna Aarli mfl. (red.), Bevis i straffesaker. Utvalgte emner
-2015, på s. 133.
-113
-Slik Hov, op.cit. s. 84–89, særlig på s. 86. En revisjon av gjeldende lov og endring i praksis fremheves av Hov som det
-foretrukne alternativ til en helt ny straffeprosesslov.
-
-Vedlegg 2
-
-Gjeldende regler åpner til en viss grad for
-avtale- og samtykkebaserte «partsløsninger»,
-gjennom «påstandstilsagn» ved tilståelse, jf. strl.
-2005 § 78 bokstav f. Tross økt fokus på disse
-reglene konstateres det likevel en jevn nedgang i
-antall tilståelsesdommer.115 En nærmere vurdering av disse spørsmålene ligger under utvalgets
-mandat i pkt. 4/6.116
-Sentral er også strpl. § 331 tredje og fjerde
-ledd, som gir adgang til å begrense/avgrense
-bevistema i lagmannsretten basert på hva som
-bestrides / ikke bestrides, gjenbruk av protokollerte forklaringer opptatt i førsteinstans eller
-avspilling av lyd- og billedopptak fra førsteinstansbehandlingen. En tilsvarende bestemmelse kan med
-fordel vurderes også for tingrettsbehandlingen, med
-tilsvarende adgang til bruk av politiforklaringer
-avgitt under etterforskingen.
-Inntrykket fra rettspraksis er likevel at gjeldende regler benyttes i nokså begrenset grad. Domstolene er også her tilbakeholdne, forsvarerne
-kan ikke eller vil ikke «binde» opp prosedyregrunnlaget for sine klienter, og påtalemyndigheten tilrettelegger som regel saken i ankeinstansen
-som for førsteinstans – uten å utfordre den tradisjonelle fremgangsmåte eller grunnlaget for den.
-
-8
-
-Rettskultur og prosessatferd
-– særlig med tanke på praktisering
-av muntlighets- og
-umiddelbarhetsprinsippene
-
-8.1
-
-Innledning og utgangspunkt
-
-I Straffeprosessutvalgets mandat om å utrede en ny
-straffeprosesslov som er bedre tilpasset vår tid, inngår oppgaven å vurdere muntlighets- og bevisumiddelbarhetsprinsippet.117 Utvalget er særlig bedt om
-å vurdere prinsippene i henhold til «muligheter og
-gevinster som ligger i tilpasning til og rasjonell
-utnyttelse av moderne teknologi, herunder bruk av
-lyd-/bildeopptak ved bevisopptak/etterforskning
-114
-
-Et lovforslag om å pålegge forsvarer å varsle påtalemyndigheten om at en sak kan avgjøres som tilståelsessak, ble
-blant annet av den grunn ikke fulgt opp, se Prop. 141 L
-(2009–2010) Endringer i straffeprosessloven mv. på s. 103–
-105.
-115
-Se tallene i pkt. 4.3.4, note 76.
-116 «I lys av formålet om en mer effektiv straffesaksavvikling
-bør utvalget vurdere virkemidler for å øke antallet tilståelsessaker. Utvalget bør i den sammenheng vurdere særskilt
-om det er grunn til å innføre en ordning hvor påtalemyndighetene kan gi bindende tilsagn om strafferabatt dersom
-siktede tilstår (‘plea bargaining’).»
-117
-Utvalgsmandatet pkt. 3.
-
-[Side 746]
-
-744
-
-Vedlegg 2
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-og i domstolen».118 Utvalget er videre bedt om å
-vurdere «hvilke konsekvenser eventuelle opptak
-under bevisførselen bør få for gjennomføringen av
-for eksempel hovedforhandlingen».119 Det påpekes
-videre at det er grunn til å vurdere om straffeprosessloven bør bringes mer i samsvar med sivilprosessen, da denne representerte en oppmykning av
-prinsippenes innvirkning på rettergangen.120
-Utvalget har bedt oss om å foreta en rettsdogmatisk/rettssosiologisk undersøkelse som tematiserer forhold og mekanismer som har betydning
-for straffesaksbehandlingens effektivitet.121 Prinsippene om bevisførselen, både hvordan de er gjennomført i loven og praktiseringen av dem, er viktige mekanismer av betydning for en effektiv straffesaksbehandling, både kvalitativt og kvantitativt.
-Spørsmålet om hvilken presentasjonsform som
-både kvalitativt og kvantitativt gir mest effektiv
-behandling, dreier seg mye om rettskultur og prosessatferd. Prinsippene om muntlighet og bevisumiddelbarhet står historisk sterkt i nyere norsk
-rett og rettstradisjon. Med utgangspunkt i presiseringen av effektivitetsbegrepet som ble gjort i pkt.
-2.4, vil vi i det følgende undersøke hvordan muntlighets- og bevisumiddelbarhetsprinsippet er knyttet til
-rettskulturelle oppfatninger om kvalitativ og kvantitativ effektivitet i rettergangen.122
-Vi definerer prosesskultur som dommeres og
-parters vante sakstilnærming.123 Den amerikanske rettsteoretikeren William Ewald har sagt
-at det å forstå et rettssystem innebærer at man
-innenfor en bestemt rettskultur må kunne
-beskrive hva det innebærer «to think like a
-lawyer».124 En slik forståelse kan ifølge Ewald
-verken reduseres til et tekstualistisk («rules in
-books-») eller et kontekstualistisk («rules in
-action»-) perspektiv. Begge tilnærmingene kommer ifølge Ewald til kort, fordi de betrakter rettssystemer som en ytre ting – objektive fakta som
-skal forstås gjennom å samle en tilstrekkelig
-mengde fakta, enten om systemets regler eller
-systemets kontekst. Ewald vil imidlertid flytte
-oppmerksomheten over til juridisk praksis. For å
-
-forstå et rettssystem må man forstå hvordan
-«judges and lawyers and scholars think about
-their jobs and how they go about their business».
-Den institusjonelle kulturen som juristene er del
-av, blir derfor helt sentral.125 Kanskje kan begrepet om en slik institusjonell kultur bidra til å forklare at forholdet mellom lovregler og faktisk
-prosesskultur ikke er entydig. På den ene siden
-finnes det flere eksempler på at lovendringer
-ikke alene er nok til å endre en rettskultur, og på
-den andre siden finnes det flere eksempler på at
-man har forsøkt å endre rettskulturen innenfor et
-eksisterende regelsett.
-I sin sammenlignende studie av «Fadime-» og
-«Anooshe-saken» uttaler Langbach og Groseth,
-som nevnt ovenfor, at de ikke anser det nødvendig
-med ytterligere lovreguleringer av domstolens
-arbeid med slike saker: «Problemet ligger mer i
-retning av elementer i den kulturen som særlig i
-de senere årene har utviklet seg i rettsvesenet».126 Det er også flere eksempler på at
-systemendringer alene ikke nødvendigvis er nok
-til å endre aktørers «tilvente måte å gjøre ting på»,
-i hvert fall ikke på kort sikt. Se for eksempel
-Gamst om uteblitt endring av praksis tross
-endrede regler for saksomkostninger.127 I evalueringen av tvisteloven pekes det tilsvarende på at
-«de nye reglene om hoved- og ankebehandling
-representerer en kulturendring som krever ytterligere tid».128 Tilsvarende viser en rapport fra
-Svea hovrätt fra 2015 at En modernare rättegång
-(EMR-reformen) fra 2008 ikke har bidratt til
-ønsket effektivitetsgevinst, og at det finnes
-eksempler på at retten ikke utnytter mulighetene
-som ligger i lovverket.129 Tilsvarende hevdet allerede Jurykommisjonen i 1885 at endringer i prosessreglene alene ikke var nok til å endre praksis,
-og at også den sosiale rammen som prosessreglene skulle utøves innenfor, måtte endres for å gi
-regelendringene
-realitet.
-Jurykommisjonen
-brukte dette som et tilleggsargument for lekfolks
-deltakelse i prosessen.130
-125
-
-118
-
-Utvalgsmandatet pkt. 3.
-
-119 Utvalgsmandatet pkt. 4.
-120
-
-Utvalgsmandatet pkt. 2 og 4.
-Se pkt. 1.2.
-122
-Analysen er basert på en gjennomgang av noen sentrale
-rettspolitiske, rettsteoretiske, rettspsykologiske og rettssosiologiske drøftelser som det vil bli henvist til underveis i
-fremstillingen.
-123
-Se ovenfor i pkt. 7.2.2, med utgangspunkt i Tvistelovutvalgets fremstilling.
-124
-William Ewald, «Comparative Jurisprudence (1): What Was
-it Like to Try a Rat?» U.PA.L.REV 1995, s. 1986.
-121
-
-Ewald, op.cit. s. 1973–1974.
-Torolv Groseth og Tor Langbach, En sammenliknende gjennomgang av «Fadime»-saken og «Anooshe»-saken pkt. 3.
-127
-Oddmund Gamst, «Bør reglene om saksomkostninger i
-straffesaker oppheves?» Tidsskrift for Strafferett 2007 nr. 4,
-s. 390–393.
-128
-Evaluering av tvisteloven, rapport 4. juli 2013, s. 13, se også
-s. 6, 31 og 57.
-129
-En skräddarsydd rättegång – och vägen dit. Svea hovrätts
-projekt om handläggningen av stora och komplicerade brottmål. Rapport 2015, s. 35. Se nærmere i pkt. 8.3.1.
-130
-Jurykommisjonen av 1885 i Dok. No. 1 1885: Indstilling fra
-Jurykommisjonen Indeholdende udkast til Lov om Rettergangsmaaden i Straffesager mv., på s. 491–492.
-126
+[^991]: Tre konvensjoner innebærer slik forpliktelse: den europeiske konvensjon 28. mai 1970 om internasjonal gyldighet av straffedommer (gyldighetskonvensjonen), den europeiske konvensjon 15. mai 1972 om overføring av strafforfølgning fra eller til annet europeisk land og Schengenkonvensjonen 19. juni 1990.
+
+[^992]: Ot.prp. nr. 47 (1990–91) s. 16.
+
+[^993]: Ot.prp. nr. 47 (1990–91) s. 3.
+
+[^994]: Ot.prp. nr. 47 (1990–91) s. 16.
+
+[^995]: Ot.prp. nr. 90 (2003–2004) s. 193.
+
+[^996]: Jf. tilsvarende Betænkning nr. 1488/2007 punkt 19.2.3.1.
+
+[^997]: Holmboe og Jahre (2011) punkt 3.2.
+
+[^998]: Holmboe og Jahre (2011) punkt 3.2.
+
+[^999]: Zolotukhin mot Russland (14939/03), dom 10.02.09.
+
+[^1000]: Rt. 2010 s. 72 (avsnitt 13) og Rt. 2010 s. 1121 (avsnitt 28).
+
+[^1001]: Holmboe og Jahre (2011) punkt 6.1.1, jf. Rt. 2010 s. 454. Se også Rt. 2011 s. 172 (avsnitt 18).
+
+[^1002]: Om identitetsbegrepet etter Schengenkonvensjonen artikkel 54, se Rui (2010) punkt 4.
+
+[^1003]: Se nærmere Torgersen (2012) s. 213.
+
+[^1004]: Rui (2009b) s. 297.
+
+[^1005]: Se i denne forbindelse Rt. 2011 s. 172 (avsnitt 18 og 19).
+
+[^1006]: Et slikt perspektiv er lagt til grunn i Ot.prp. nr. 90 (2003–2004) s. 359–360 med henvisning til EMDs avgjørelse i Phillips mot Storbritannia (41087/98, dom 05.07.01).
+
+[^1007]: Gjengitt i Prop. 64 L (2014–2015) s. 132–133.
+
+[^1008]: J.P. Rui (2015).
+
+[^1009]: Andenæs og Myhrer (2009) s. 389.
+
+[^1010]: Jf. Kjelby og Skyberg (2016) punkt 3.2.
+
+[^1011]: Justis- og beredskapsdepartementet (10.04.15), punkt 1.1.
+
+[^1012]: Bjerke, Keiserud og Sæther (2011) s. 350.
+
+[^1013]: Straffeprosessloven § 93, b jf. § 243 annet ledd.
+
+[^1014]: Bjerke, Keiserud og Sæther (2011) s. 1002.
+
+[^1015]: Domstoladministrasjonen (2011) s. 25.
+
+[^1016]: Justis- og beredskapsdepartementet (2013) s. 41 og 44.
+
+[^1017]: Ot.prp. nr. 66 (2001–2002) punkt 8.4.3 på s. 85 og Rt. 2012 s. 642.
+
+[^1018]: Slik også Jahre (2013).
+
+[^1019]: Jf. tvisteloven § 9-9 tredje ledd tredje punktum.
+
+[^1020]: Domstoladministrasjonen (2011) s. 26–27.
+
+[^1021]: Ot.prp. nr. 51 (2004–2005) s. 395–396.
+
+[^1022]: Domstoladministrasjonen (2011) s. 16.
+
+[^1023]: Ot.prp. nr. 66 (2001–2002) s. 66.
+
+[^1024]: Domstoladministrasjonen (2011) s. 13–17.
+
+[^1025]: Ot.prp. nr. 66 (2001–2002) s. 66.
+
+[^1026]: NOU 2001: 32 Bind A s. 238. Se også s. 133–136.
+
+[^1027]: Se Ot.prp. nr. 51 (2004–2005) s. 466 og NOU 2001: 32 Bind B s. 978.
+
+[^1028]: Se Ot.prp. nr. 35 (1978–79) s. 213.
+
+[^1029]: Ot.prp. nr. 11 (2007–2008) s. 71.
+
+[^1030]: Se nærmere om instituttet i for eksempel Matningsdal (2007b), s. 251–272.
+
+[^1031]: Rt. 2007 s. 1040 avsnitt 16.
+
+[^1032]: Ot.prp. nr. 79 (1988–89) s. 32–33.
+
+[^1033]: Ot.prp. nr. 18 (2000–2001) s. 23–24.
+
+[^1034]: Se Jalloh mot Tyskland (54810/00), dom 11.07.06, avsnitt 105.
+
+[^1035]: Bohlander (2012) s. 270.
+
+[^1036]: Straffeprosesslovkomitéen (1969) s. 325.
+
+[^1037]: Udkast til Lov om Rettergangsmaaden i Straffesager med Motiver. Af en af den Kgl. Norske Regjerings Justis og Politidepartement i Henhold til Kgl. Resol. Af 31te Oktober 1885 nedsat Komite (1886), Specielle motiver, s. 91.
+
+[^1038]: Udkast til Lov om Rettergangsmaaden i Straffesager med Motiver. Af en af den Kgl. Norske Regjerings Justis og Politidepartement i Henhold til Kgl. Resol. Af 31te Oktober 1885 nedsat Komite (1886), Specielle motiver, s. 91–92.
+
+[^1039]: Avsnitt 82.
+
+[^1040]: Se Straffeprosesslovkomitéen (1969) s. 324–325.
+
+[^1041]: Rt. 2005 s. 907 avsnitt 44.
+
+[^1042]: Se mer inngående om dette i Løvlie (2014) s. 536 flg.
+
+[^1043]: Se Andenæs og Myhrer (2009) s. 523.
+
+[^1044]: Rt. 1994 s. 1139 på s. 1142 og Rt. 2004 s. 1561 avsnitt 11.
+
+[^1045]: For fornærmedes vedkommende, se nærmere i straffeloven kapittel 7. Et eksempel på at begjæring fra offentlig myndighet er nødvendig for påtale, er forurensningsloven § 78 tredje ledd. Et annet eksempel er at straffeforfølgning av de kongelige prinser og prinsesser forutsetter beslutning fra Kongen i statsråd, jf. Grunnloven § 37.
+
+[^1046]: Straffeprosesslovkomitéen (1969) s. 326. Disse synspunkter om reparasjon av manglende påtalebegjæring er for øvrig lagt tilsvarende til grunn for det tilfellet at påtalemyndigheten har unnlatt å vurdere om påtale er påkrevd av allmenne hensyn, jf. Rt. 1991 s. 431. Dette er imidlertid en saksbehandlingsfeil som er relativ og skal bedømmes etter straffeprosessloven § 343 første ledd.
+
+[^1047]: Se Straffeprosesslovkomitéen (1969) s. 326.
+
+[^1048]: Se nærmere om hvordan bestemmelsen er forstått i Bjerke, Keiserud og Sæther (2011) s. 1200–1202.
+
+[^1049]: Se nærmere i Bjerke, Keiserud og Sæther (2011) s. 1202.
+
+[^1050]: Se Straffeprosesslovkomitéen (1969) s. 326.
+
+[^1051]: Se nærmere om bestemmelsen i Bjerke, Keiserud og Sæther (2011) s. 1203 og særlig Andenæs og Myhrer (2009) s. 525.
+
+[^1052]: Se Ot.prp. nr. 78 (1992–93) s. 78 og Rt. 2010 s. 1042 avsnitt 24. Se nærmere om bestemmelsen i straffeprosessloven § 343 annet ledd nr. 8 i Bjerke, Keiserud og Sæther (2011) s. 1203–1204.
+
+[^1053]: Se Bjerke, Keiserud og Sæther (2011) s. 1199. I relasjon til straffeprosessloven § 342 annet ledd nr. 4 se Rt. 2005 s. 1775.
+
+[^1054]: Se for eksempel Rt. 2012 s. 1246 og Rt. 2003 s. 52 avsnitt 30.
+
+[^1055]: Se Bjerke, Keiserud og Sæther (2011) s. 214 ved spørsmål om gyldigheten av påtalevedtak fattet av inhabile tjenestemenn.
+
+[^1056]: Sml. Rt. 2005 s. 907 avsnitt 44 (sitert ovenfor i punkt 19.3.3) og Rt 2008 s. 27 avsnitt 37.
+
+[^1057]: NOU 1992: 28 s. 20.
+
+[^1058]: Straffeprosesslovkomitéen (1969) s. 107.
+
+[^1059]: Straffeprosessloven § 331 første ledd.
+
+[^1060]: Lov 11. juni 1993 nr. 80 om endringer i straffeprosessloven m.v. (to-instansbehandling, anke og juryordning). Loven trådte i kraft 1. august 1995.
+
+[^1061]: NOU 2011: 13 s. 120.
+
+[^1062]: Straffeprosessloven §§ 322 og 323 tredje ledd.
+
+[^1063]: Straffeprosessloven § 321 første ledd. Bestemmelsen omfatter saker hvor påtalemyndigheten ikke har påstått og det ikke er idømt annen reaksjon enn bot, inndragning eller tap av førerkort.
+
+[^1064]: Straffeprosessloven § 321 tredje ledd første punktum, jf. annet ledd annet punktum.
+
+[^1065]: Annet ledd omtales ofte som «den egentlige silingshjemmelen».
+
+[^1066]: NOU 1992: 28 s. 144.
+
+[^1067]: Se Rt. 2008 s. 1764, Rt. 2008 s. 1783 og Rt. 2008 s. 1786. For en nærmere redegjørelse for gjeldende rett og rettsutviklingen på dette punktet, se Prop. 141 L (2009–2010) s. 11 flg. og NOU 2011: 13 s. 187–188.
+
+[^1068]: Jf. straffeprosessloven §§ 323 og 306 annet ledd.
+
+[^1069]: «Fullstendig anke» eller «bevisanke». Andre anker er «begrensede».
+
+[^1070]: Sml. også straffeprosessloven § 38 om forholdet mellom tiltalebeslutning og dom.
+
+[^1071]: Bjerke, Keiserud og Sæther (2011) s. 1318.
+
+[^1072]: Bjerke, Keiserud og Sæther (2011) s. 1309.
+
+[^1073]: Jf. blant annet Monnell og Morris mot Storbritannia (9562/81), dom 02.03.87, Sawalha mot Sverige (64299/01), dom 13.01.04, Juma mot Australia, Communication no. 984/2001, avsnitt 7.5 og Rt. 2008 s. 1764.
+
+[^1074]: Council of Europe Explanatory (ETS no. 117) avsnitt 19.
+
+[^1075]: Lumley mot Jamaica, Communication no. 662/1995, avsnitt 7.3.
+
+[^1076]: Monnell og Morris mot Storbritannia, 2. mars 1987, (9562/81; 9818/82), dom 02.03.87, avsnitt 55–70.
+
+[^1077]: Bryhn mot Norge, Communication no. 789/1997, avsnitt 7.2.
+
+[^1078]: Lumley mot Jamaica, Communication no. 662/1995, avsnitt 7.3.
+
+[^1079]: Aboushanif mot Norge, Communication no. 1542/2007, avsnitt 7.2.
+
+[^1080]: Høyesterett (25.05.16).
+
+[^1081]: Straffeprosessloven § 331 første ledd.
+
+[^1082]: Eksempler på slike er den høyeste domstolen i Belgia, Nederland og Frankrike.
+
+[^1083]: Se blant annet NOU 2011: 13 s. 190–194.
+
+[^1084]: Se nærmere NOU 2011: 13 punkt 11.3.1.
+
+[^1085]: Se i samme retning NOU 1992: 28 s. 25.
+
+[^1086]: Jf. Ot.prp. nr. 78 (1992–93) s. 5.
+
+[^1087]: NOU 1992: 28 s. 54–55.
+
+[^1088]: Arbeidsgruppe nedsatt 16.06.99 med mandat å vurdere tiltak for å redusere saksbehandlingen i straffesaker for perioden fra påtalevedtak til fullbyrding. Gruppen ble ledet av lagmann Jan Martin Flod. Gruppen avga sin sluttrapport 26. juni 2000 (Justis- og politidepartementet 2000b).
+
+[^1089]: Justis- og politidepartementet (2000b) s. 45. Arbeidsgruppen foreslo også ubetinget rett til ankebehandling i saker hvor det er påstått eller gitt en reaksjon etter de tidligere sikringsreglene når strafferammen er over seks år (enten alene eller sammen med fengselsstraff).
+
+[^1090]: Justis- og politidepartementet (2000) s. 46.
+
+[^1091]: Justis- og politidepartementet (28.09.06).
+
+[^1092]: Enkelte av de andre forslagene i arbeidsgruppens sluttrapport og høringsnotatet 2006 er fulgt opp i Ot.prp. nr. 66 (2001–2002) og Ot.prp. nr. 13 (2008–2009).
+
+[^1093]: Se NOU 2011: 13 s. 151–155.
+
+[^1094]: NOU 2011: 13 s. 153.
+
+[^1095]: Arbeidsgruppen ble oppnevnt 30.11.14 og leverte sin sluttrapport 01.07.15 (Domstoladministrasjonen (2015a)).
+
+[^1096]: Domstoladministrasjonen (2015a) s. 28.
+
+[^1097]: NOU 2011: 13 s. 155.
+
+[^1098]: Jf. Rättegångsbalken 49. kap. 13 §.
+
+[^1099]: SOU 2013: 17 s. 608.
+
+[^1100]: Tilsvarende ble påpekt i NOU 1992: 28 s. 27.
+
+[^1101]: Rt. 2008 s. 1764 avsnitt 51.
+
+[^1102]: Rt. 2008 s. 1764 avsnitt 68. Se også Lumley mot Jamaica, Communication no. 662/1995, avsnitt 7.3.
+
+[^1103]: NOU 1992: 28 punkt 3.6
+
+[^1104]: Se i denne retning SOU 2013: 17 s. 611– 612.
+
+[^1105]: NOU 1992: 28 punkt 4.2.6
+
+[^1106]: NOU 1992: 28 punkt 4.2.6
+
+[^1107]: Se NOU 1992: 28 s. 55.
+
+[^1108]: Se NOU 1992: 28 s. 55.
+
+[^1109]: Straffeprosessloven § 321 femte ledd.
+
+[^1110]: Rt. 2008 s. 1764 avsnitt 106 flg. Se også Prop. 141 L (2009–2010) s. 140.
+
+[^1111]: Straffeprosessloven § 321 sjette ledd.
+
+[^1112]: Rt. 2012 s. 1342 avsnitt 15 med videre henvisning til tidligere rettspraksis.
+
+[^1113]: NOU 2011: 13 s. 220 jf. s. 227.
+
+[^1114]: Regelutvalgets anbefaling bygger på et innspill fra tidligere lagdommer Iver Huitfeldt.
+
+[^1115]: Straffeprosesslovkomitéen (1969) s. 352.
+
+[^1116]: HR-2016-1803-A.
+
+[^1117]: R-2016-1803-A, avsnitt 11.
+
+[^1118]: Prinsippet omtales tradisjonelt som *reformatio in pejus*.
+
+[^1119]: Bjerke, Keiserud og Sæther (2011) s. 1217.
+
+[^1120]: Andenæs og Myhrer (2009) s. 538.
+
+[^1121]: Se omtalen i Straffeprosesslovkomitéen (1969) s. 333–334.
+
+[^1122]: Se Straffeprosesslovkomitéen (1969) s. 334.
+
+[^1123]: NOU 1992: 28 s. 68.
+
+[^1124]: Ot.prp. nr. 51 (2004–2005) s. 480.
+
+[^1125]: Jf. straffeprosessloven §§ 323 og 306 annet ledd.
+
+[^1126]: Robberstad (2014) s. 236–238.
+
+[^1127]: Ot.prp. nr. 11 (2007–2008) s. 82–83 og NOU 2006: 10 s. 165–166.
+
+[^1128]: Se for eksempel Rt. 2014 s. 792.
+
+[^1129]: Justis- og beredskapsdepartementet (2012) og **Regjeringen (2012).
+
+[^1130]: For nærmere fremstilling se Bjerke, Keiserud og Sæther (2011) s. 1321–1356.
+
+[^1131]: Ot.prp. nr. 70 (2000–2001) punkt 3.6.4.
+
+[^1132]: Straffeprosesslovkomitéen (1969) s. 345.
+
+[^1133]: Se nærmere Moen (2014) s. 190–191 og Justis- og beredskapsdepartementet (2012) s. 16–21.
+
+[^1134]: Se særlig Ot.prp. nr. 70 (2000–2001) og Justis- og beredskapsdepartementet (2012).
+
+[^1135]: Se Rt. 2012 s. 519 avsnitt 76.
+
+[^1136]: Justis- og beredskapsdepartementet (2012) s. 119.
+
+[^1137]: Stepanyan mot Armenia (2004/45081), dom 27.10.09, avsnitt 30.
+
+[^1138]: Justis- og beredskapsdepartementet (2012) s. 114.
+
+[^1139]: Rt. 2009 s. 1681 avsnitt 10.
+
+[^1140]: Se Straffeprosesslovkomitéen (1969) s. 341.
+
+[^1141]: Sak GK 2013/161.
+
+[^1142]: Sak GK 2013/161 (dissens 3–2).
+
+[^1143]: Sak GK 2014/191.
+
+[^1144]: Rt. 2015 s. 935 avsnitt 26. Se også avsnittene 22 og 23.
+
+[^1145]: Justis- og beredskapsdepartementet (2012) s. 106.
+
+[^1146]: Retsplejeloven § 979 første ledd, jf. § 977.
+
+[^1147]: Gjenopptakelseskommisjonen (01.02.13) s. 2–3.
+
+[^1148]: Ot.prp. nr. 70 (2000–2001) s. 55.
+
+[^1149]: Moen (2014) s. 207.
+
+[^1150]: Moen (2014) s. 197 og 202.
+
+[^1151]: Justis- og beredskapsdepartementet (2012) s.117–118 og 119–120.
+
+[^1152]: Gjenopptakelseskommisjonen (01.02.13) s. 6.
+
+[^1153]: Se i samme retning Ot.prp. nr. 43 (1993–94) s. 9.
+
+[^1154]: Se nærmere om ansvarsprinsippet i Justis- og beredskapsdepartementet (2015) s. 31.
+
+[^1155]: Se Dahl (2015) s. 23. Arne Willy Dahl var Norges generaladvokat i perioden 1988–2014.
+
+[^1156]: Dahl (2015) s. 25.
+
+[^1157]: Se for eksempel Jaloud mot Nederland (47708/08), dom 20.11.14 og Dahl (2015) s. 26–28.
+
+[^1158]: Se Al-Skeini og andre mot Storbritannia (55721/07), dom 07.06.11, avsnitt 167, og Jaloud mot Nederland (47708/08), dom 20.11.14, avsnitt 186.
+
+[^1159]: Dahl (2015) s. 23.
+
+[^1160]: Se for eksempel Justis- og beredskapsdepartementet (2015) s. 27.
+
+[^1161]: Se Bjerke, Keiserud og Sæther (2011) s. 1511.
+
+[^1162]: Se Johansen (1997) s. 8.
+
+[^1163]: Lov 29. mars 1900 om rettergangsmåten i militære straffesaker. Se også Justis- og beredskapsdepartementet (2015) punkt 2.
+
+[^1164]: Se Bjerke, Keiserud og Sæther (2011) s. 1511 og Johansen (1997). 31.
+
+[^1165]: Ot.prp. nr. 43 (1993–94) s. 9.
+
+[^1166]: Se Bjerke, Keiserud og Sæther (2011) s. 1511.
+
+[^1167]: Se dog straffeprosessloven § 466.
+
+[^1168]: Se Bjerke, Keiserud og Sæther (2011) s. 1513.
+
+[^1169]: Se Bjerke, Keiserud og Sæther (2011) s. 1524.
+
+[^1170]: Straffeprosessloven §§ 471 og 473.
+
+[^1171]: Lov 20. mai 1988 nr. 33 om militær politimyndighet § 5.
+
+[^1172]: Se Justis- og beredskapsdepartementet (2015) s. 35.
+
+[^1173]: Endret ved lov 28. juni 2002 nr. 55 om endringer i straffeprosessloven mv. (hurtigere straffesaksbehandling, varetektsfengsling i isolasjon mv.), i kraft 01.10.02.
+
+[^1174]: Instruks for generaladvokaten og krigsadvokatene § 9 første og annet ledd.
+
+[^1175]: Instruks for generaladvokaten og krigsadvokatene § 9 tredje og fjerde ledd.
+
+[^1176]: Jf. Justis- og beredskapsdepartementet (2015) s. 20 med videre henvisning til brev fra generaladvokat Morten Bjørkholt til Justis- og beredskapsdepartementet 1. oktober 2015 (Bjørkholt (01.10.15)).
+
+[^1177]: NOU 1988: 25 s. 19 og 20.
+
+[^1178]: Antallet var 19 stk. i 2014, 26 stk. i 2013 og 28 stk. i 2012.
+
+[^1179]: Morten Ruud er spesialrådgiver i Justis- og beredskapsdepartementet og tidligere departementsråd (1997–2012) samme sted.
+
+[^1180]: Justis- og beredskapsdepartementet (2015) s. 26.
+
+[^1181]: Prop. 1 S (2015–2016) Statsbudsjettet 2016, kapittel 446 «Den militære påtalemyndighet».
+
+[^1182]: Justis- og beredskapsdepartementet (2015) s. 31.
+
+[^1183]: Justis- og beredskapsdepartementet (2015) s. 43.
+
+[^1184]: Justis- og beredskapsdepartementet (2015) s. 37.
+
+[^1185]: Justis- og beredskapsdepartementet (2015) s. 35 og 43.
+
+[^1186]: Ot.prp. nr. 43 (1993–94) s. 9.
+
+[^1187]: Dahl (2015) s. 32–33.
+
+[^1188]: Dahl (11.04.14) s. 9.
+
+[^1189]: Formelt sett forutsetter krig en krigserklæring mellom to stater. Se Prop. 44 L (2015–2016) s. 11 flg.
+
+[^1190]: Dahl (11.04.14) s. 9. For eksempel knyttet til beredskapslovgivningen, se blant annet beredskapsloven §§ 1 og 3 og kapittel IV og V.
+
+[^1191]: Dahl (11.04.14) s. 1.
+
+[^1192]: Dahl (11.04.14) s. 2.
+
+[^1193]: Justis- og beredskapsdepartementet (2015) s. 27.
+
+[^1194]: Justis- og beredskapsdepartementet (2015) s. 31.
+
+[^1195]: Dahl (03.01.14) s. 14. Se også Etterretningstjenesten (2015).
+
+[^1196]: Justis- og beredskapsdepartementet (2015) s. 36.
+
+[^1197]: Justis- og beredskapsdepartementet (2015) s. 26 og 29.
+
+[^1198]: Dahl (11.04.14) s. 2.
+
+[^1199]: I denne retning går også Justis- og beredskapsdepartementet (2015) s. 35.
+
+[^1200]: I dag finnes en egen etterforskingsavdeling i militærpolitiet, se Justis- og beredskapsdepartementet (2015) s. 20.
+
+[^1201]: Trenden er kommentert i Dahl (2015) s. 21 på bakgrunn av en komparativ studie gjennomført av The International Society for Military Law and the Law of War i 2001 og 2011.
+
+[^1202]: Dahl (2015) s. 28.
+
+[^1203]: Justis- og beredskapsdepartementet (2015) s. 13–14.
+
+[^1204]: Jf. straffeprosessloven §§ 466–468.
+
+[^1205]: Jaloud mot Nederland (47708/08), dom 20.11.11, avsnitt 195–196.
+
+[^1206]: Domstoladministrasjonen(2009b) s. 4 og Domstoladministrasjonen (2010) s. 5.
+
+[^1207]: Skadelidte som ikke er fornærmet i straffeprosessuell forstand, kan ikke reise privat straffesak, jf. straffeprosessloven § 3 siste ledd.
+
+[^1208]: Jf. straffeprosessloven § 415 og Bjerke, Keiserud og Sæther (2011) s. 1362.
+
+[^1209]: Før ikraftsettingen av straffeloven 2005 rettet § 402 nr. 2 seg mot bestemmelser hvor påtale var betinget av allmenne hensyn, enten alene eller sammen med påtalebegjæring fra fornærmede.
+
+[^1210]: Se Bjerke, Keiserud og Sæther (2011) s. 1362.
+
+[^1211]: Etter påtaleinstruksen § 17-2 annet ledd annet punktum skal det gis underretning om adgangen til å reise privat straffesak til blant annet fornærmede og etterlatte ved innstilling av straffeforfølgning.
+
+[^1212]: Se Bjerke, Keiserud og Sæther (2011) s. 1363.
+
+[^1213]: Se lov 19. juni 2015 nr. 65 om ikraftsetting av straffeloven 2005 (straffelovens ikraftsettingslov) § 1 og Prop. 64 L (2014–2015) s. 126.
+
+[^1214]: Se mer om § 62 a i Ot.prp. nr. 22 (2008–2009) pkt. 14.5, Prop. 64 L (2014–2015) pkt. 6.2 og Justis- og beredskapsdepartementets høringsnotat juni 2014 om forslag til lov om ikraftsetting av straffeloven 2005 punkt 4.3.2.
+
+[^1215]: Se også Smith mfl. (2008) s. 130.
+
+[^1216]: Betænkning nr. 1485/2006 s. 17 og 22 med videre henvisninger.
+
+[^1217]: Betænkning nr. 1485/2006 s. 75 flg.
+
+[^1218]: Betænkning nr. 1485/2006 punkt 4.2.2. s. 75. Se også punkt 4.2.1.
+
+[^1219]: Jf. Retsudvalgets betænkning over forslag til lov om ændring af retsplejeloven og retsafgiftsloven s. 7, og lov 6. juni 2007 nr. 517. Merk: Spørsmålet har, så vidt utvalget er kjent med, ikke blitt vurdert igjen.
+
+[^1220]: SOU 2013: 17 s. 298–300.
+
+[^1221]: SOU 2013:17 s. 299.
+
+[^1222]: Da utvalget besøkte Svea hovrätt, tok enkelte av hovrättsdommerne til orde for at ordningen med «enskilt åtal» burde avskaffes.
+
+[^1223]: SOU 2013:17 s. 276–277.
+
+[^1224]: Straffeprosesslovkomitéen (1969) s. 117 flg.
+
+[^1225]: Straffeprosesslovkomitéen (1969) s. 120.
+
+[^1226]: Straffeprosesslovkomitéen (1969) s. 119.
+
+[^1227]: Straffeprosesslovkomitéen (1969) s. 119.
+
+[^1228]: Ot.prp. nr. 35 (1978–79) s. 84–86.
+
+[^1229]: NOU 2002: 4 s. 188. Straffelovkommisjonen foreslo i delutredning V at adgangen til å reise privat straffesak burde bestå, jf. NOU 1992: 23 s. 246–247.
+
+[^1230]: Se s. 188.
+
+[^1231]: Se Ot.prp. nr. 22 (2008–2009) s. 389.
+
+[^1232]: Se Domstoladministrasjonen (2009b) s. 4.
+
+[^1233]: Se Domstoladministrasjonen (2010) s. 5.
+
+[^1234]: Se Domstoladministrasjonen (2010) s. 5.
+
+[^1235]: Hov (1983) s. 164.
+
+[^1236]: Hov (1983) s. 163.
+
+[^1237]: Hov (1983) s. 162.
+
+[^1238]: Robberstad (2014) s. 177.
+
+[^1239]: Se Andenæs og Myhrer (2009) s. 85.
+
+[^1240]: Robberstad (2014) s. 176.
+
+[^1241]: Opplysninger innhentet fra Domstoladministrasjonen. Av disse åtte sakene kan enkelte være avgjørelser av saker som kom inn året før.
+
+[^1242]: Ot.prp. nr. 11 (2007–2008) s. 92.
+
+[^1243]: Skadeserstatningsloven § 1-3, se blant annet Rt. 2005 s. 104 og Rt. 2010 s. 1203.
+
+[^1244]: Straffeprosesslovkomitéen (1969) s. 355–356. Se nærmere om utviklingen med videre henvisninger i Bjerke, Keiserud og Sæther (2011) s. 1396–1398.
+
+[^1245]: Straffeprosesslovkomitéen (1969) s. 357.
+
+[^1246]: NOU 2000: 33 s. 12.
+
+[^1247]: Se også NOU 2000: 33 s. 163–174.
+
+[^1248]: Se nærmere i NOU 2011: 13 s. 91.
+
+[^1249]: Se Y mot Norge (56568/00), dom 11.02.13. Se også Rt. 2004 s. 321 avsnitt 23 flg. og Rt. 2009 s. 1456.
+
+[^1250]: NOU 2000: 33 s. 203 og 212.
+
+[^1251]: NOU 2016: 9 s. 57–58.
+
+[^1252]: NOU 2016: 9 s. 57–58.
+
+[^1253]: NOU 2000: 33 s. 153–174.
+
+[^1254]: NOU 2000: 33 s. 157. Se også s. 205.
+
+[^1255]: Se NOU 2000: 33 s. 156–157.
+
+[^1256]: Brath (2015) s. 46–49.
+
+[^1257]: Meddelelse fra Kontoret for voldsoffererstatning 2016.
+
+[^1258]: NOU 2016: 9 s 182–185.
+
+[^1259]: Andorsen (2000) s. 317. Se også NOU 2000: 33 s. 173–174.
+
+[^1260]: Rt. 2006 s. 164 avsnitt 23.
+
+[^1261]: Prop. 62 L (2015–2016) punkt 17.4.2.
+
+[^1262]: Se NOU 2003: 15 punkt 10.7.4.3.
+
+[^1263]: Ot.prp. nr. 11 (2007–2008) s. 122.
+
+[^1264]: Se Ot.prp. nr. 11 (2007–2008) s. 100. Se også s. 98.
+
+[^1265]: Se NOU 2006: 10 s. 204 og Ot.prp. nr. 11 (2007–2008) s. 93.
+
+[^1266]: Robberstad (2014) s. 186–195.
+
+[^1267]: Robberstad (2014) s. 189–190.
+
+[^1268]: Robberstad (2014) s. 190.
+
+[^1269]: Se NOU 2011: 13 s. 24, 40 og 92.
+
+[^1270]: NOU 2011: 13 s. 148 og 175.
+
+[^1271]: Se nærmere Hov (1983) s. 142.
+
+[^1272]: Rt. 2009 s. 1070 avsnitt 16 flg. (3–2).
+
+[^1273]: Se Rt. 2012 s. 201 avsnitt 44.
+
+[^1274]: Straffeprosesslovkomitéen (1969) s. 359.
+
+[^1275]: Se lov 15. juli 1994 nr. 51 om enkelte endringer i rettergangslovgivningen og Ot.prp. nr. 45 (1993–94) s. 4–5 og s. 9–10.
+
+[^1276]: Andorsen (1988) s. 232.
+
+[^1277]: Se for øvrig Borgarting lagmannsretts kjennelse 12. september 2016 (LB-2014-197809-2), som er påanket.
+
+[^1278]: Se Rt. 2012 s. 1615 avsnitt 42 om betydningen av standardsatsene etter straffeprosessloven § 447 første ledd for fortolkningen av uttrykket «passende beløp» i annet ledd, og dermed for omfanget av retten til oppreisning på grunnlag av rimelighet etter annet ledd: «Det har i perioden vært en mer alminnelig utvikling av oppreisningsinstituttet, som blant annet går ut på at kompensasjonshensynet er trukket mer frem og det generelle nivået er hevet \[…\]. Standardsatsene fra 2003 blir derfor stadig mindre aktuelle som sammenligningsgrunnlag.»
+
+[^1279]: For eksempel fremholdt allerede Jeremy Bentham det offentliges erstatningsplikt i slike tilfeller som selvsagt, se Bentham (1931) s. 320–321 (Theory of Legislation, Principles of Penal Law, del II Political Remedies for the Evil of Offences, kapittel 18 Of Subsidiary Satisfaction at the Expense of the Public Treasure).
+
+[^1280]: Se nærmere om de historiske linjer i Uggerud (1998) s. 23 og Straffeprosesslovkomitéen (1969) s. 362.
+
+[^1281]: NOU 1996: 18 s. 35.
+
+[^1282]: Se Ot.prp. nr. 77 (2001–2002) s. 15.
+
+[^1283]: Se Uggerud (1998) s. 363–364.
+
+[^1284]: Se Statens sivilrettsforvaltning (2014) s. 12–13.
+
+[^1285]: Se også Uggerud (1998) s. 363.
+
+[^1286]: Se drøftelsen nedenfor i punkt 27.3.2 og 27.4.
+
+[^1287]: Se Allen mot Storbritannia (25424/09), dom 12.07.13 (storkammer) og Rui (2014b).
+
+[^1288]: Se Ot.prp. nr. 77 (2001–2002) begge steder s. 15.
+
+[^1289]: Se Ot.prp. nr. 77 (2001–2002) s. 15.
+
+[^1290]: Se Frøberg (2014) s. 281 flg. om koherens- og konsekvensbasert argumentasjon.
+
+[^1291]: Ot.prp. nr. 77 (2001–2002).
+
+[^1292]: Ot.prp. nr. 77 (2001–2002) s. 45.
+
+[^1293]: Se Ot.prp. nr. 77 (2001–2002) s. 45.
+
+[^1294]: Ot.prp. nr. 77 (2001–2002) s. 45.
+
+[^1295]: Ot.prp. nr 75 (1983–84) s. 35.
+
+[^1296]: Se Rt. 1877 s. 828 «Hunden på Karl Johan» på s. 830 (flertallet) og Rt. 1967 s. 697 «Lierdommen» på s. 700.
+
+[^1297]: Hagstrøm og Stenvik (2015) s. 95. Se også Lødrup (2009) s. 147 sammenholdt med s. 375.
+
+[^1298]: Ot.prp. nr. 77 (2001–2002) s. 15.
+
+[^1299]: Se Bjerke, Keiserud og Sæther (2011) s. 1448.
+
+[^1300]: Se Ot.prp. nr. 77 (2001–2002) s. 44 og 46.
+
+[^1301]: Se Hagstrøm og Stenvik (2014) s. 446 flg. og Sundby (1969) s. 271 flg
+
+[^1302]: Se Hagstrøm og Stenvik (2014) s. 447.
+
+[^1303]: Ot.prp. nr. 77 (2001–2002)
+
+[^1304]: Se Jebens (2004) s. 294.
+
+[^1305]: Se også Øyen (2010) s. 184–185.
+
+[^1306]: Se for eksempel Rt. 2014 s. 1292 avsnitt 15 med videre henvisninger.
+
+[^1307]: For nærmere redegjørelser for selvinkrimineringsvernets rettspolitiske grunnlag, se Øyen (2010) s. 78 flg., Torgersen (2009) s. 401 flg. og Rui (2009a) s. 50 flg.
+
+[^1308]: Øyen (2010) s. 186.
+
+[^1309]: Innst. O. nr. 21 (2002–2003) s. 6.
+
+[^1310]: Ot.prp. nr. 77 (2001–2002) s. 44.
+
+[^1311]: Ot.prp. nr. 77 (2001–2002) s. 82.
+
+[^1312]: Ot.prp. nr. 77 (2001–2002) s. 35.
+
+[^1313]: Statens sivilrettsforvaltning, vedtak ESTR-2011-2824.
+
+[^1314]: Statens sivilrettsforvaltning, vedtak ESTR-2011-2824.
+
+[^1315]: Rt. 2015 s. 606 avsnittene 47–48.
+
+[^1316]: Se NOU 2014: 10 s. 89–90.
+
+[^1317]: Det kan her blant annet vises til slike psykiske symptomer og lidelser som Tilregnelighetsutvalget har redegjort for i NOU 2014: 10 s. 95 flg.
+
+[^1318]: Ot.prp. nr. 24 (2002–2003) s. 62.
+
+[^1319]: Se Andenæs og Myhrer (2009) s. 625.
+
+[^1320]: Se Andenæs og Myhrer (2009) s. 625.
+
+[^1321]: Ot.prp. nr. 77 (2001–2002) s. 89.
+
+[^1322]: Ot.prp. nr. 24 (2002–2003) s. 62–63.
+
+[^1323]: Slik også Bjerke, Keiserud og Sæther (2011) s. 1475.
+
+[^1324]: Rt. 2012 s. 975.
+
+[^1325]: Se Rt. 2012 s. 1615 avsnitt 48.
+
+[^1326]: Se motsatt Rt. 2012 s. 975 avsnitt 19.
+
+[^1327]: Ot.prp. nr. 77 (2001–2002) s. 104.
+
+[^1328]: Se Ot.prp. nr. 74 (2005–2006).
+
+[^1329]: Se motsatt Rt. 2012 s. 975 avsnittene 19 og 20, som imidlertid ikke tok opp den ovenfor siterte forarbeidsuttalelsen i Ot.prp. nr. 77 (2001–2002) på s. 104.
+
+[^1330]: NOU 2000: 33 s. 154.
+
+[^1331]: Kontoret for voldsoffererstatning (2011) s. 19.
+
+[^1332]: Kontoret for voldsoffererstatning (2015) s. 9.
+
+[^1333]: Se f.eks. Anda mfl. (2009), Halkjelsvik og Jørgensen (2012) og Jørgensen og Moløkken-Østvold (2004).
+
+[^1334]: Domstoladministrasjonen (2009a) og Domstoladministrasjonen (2015b).
+
+[^1335]: En terrabyte (TB) er tusen gigabyte (GB) eller en million megabyte (MB).
+
+[^1336]: Opptak med mye bevegelse i bildene krever høyere bitrate (mer data pr. sekund) enn stillestående bilder, so kan komprimeres mer uten tap av kvalitet. Derfor brukes det normalt høyere bitrater i reportasjer, særlig i sportssendinger. Opptak i retten vil ha lite bevegelse og vil derfor kunne gi samme opplevde billedkvalitet med høyere kompresjon og dermed en lavere bitrate.
+
+[^1337]: I 1991 kostet en diskkapasitet på én GB drøyt 19 000 kroner hvis man som forbruker kjøpte standard produkter over disk. I 2016 kostet den samme kapasiteten ca. 28 øre. Profesjonelle kjøpere med store anlegg betaler selvsagt mindre.
+
+[^1338]: Dette vil være en typisk arkivløsning med lite lesing av data, idet opptakene bare vil bli brukt etter at dom er avsagt når saken ankes – hvilket gjelder et mindretall av dommene. Ytelsesmessig stilles det derfor beskjedne krav til lagringsløsningen sammenlignet med mange andre anvendelser.
+
+[^1339]: EMC er en av de ledende leverandørene av lagringsløsninger på verdensbasis.
+
+[^1340]: NOU 2001: 32 Bind B s. 606. Se generelt om Tvisteloven og moderne informasjons- og kommunikasjonsteknologi (IKT) på s. 606–621.
+
+[^1341]: Ot.prp. nr. 51 (2004–2005) s. 353.
+
+[^1342]: Se NOU 2001: 32 Bind B s. 622–623. Tvisteloven ble vedtatt med to-leddet paragrafnummerering uten at departementet kommenterte valget, se Ot.prp. nr. 51 (2004–2005) punkt 27.4.1 jf. punkt 27.2.1.
+
+[^1343]: En tilsvarende vurdering ble lagt til grunn av Tvistemålsutvalget ved revisjonen som ledet frem til tvisteloven, se NOU 2001: 32 Bind A s. 638.
+
+[^1344]: NOU 2001: 32 Bind A s. 638.
+
+[^1345]: De ulike bestemmelsene i påtaleinstruksen er hjemlet i straffeprosessloven §§ 4 a, 28, 55, 57, 59 a, 62, 67, 102, 160, 161, 224, 228, 230, 242 og 457 og i politiloven § 20.
+
+[^1346]: Gert Johan Kjelby (f. 1968) er utdannet cand.jur. og ph.d. fra Det juridiske fakultet i Bergen og er ansatt som forsker samme sted. Han var tidligere statsadvokat i Hordaland (1999–2015). Lisbeth Fullu Skyberg (f. 1969) er utdannet sosiolog fra Universitet i Oslo. Skyberg arbeider p.t. med sin ph.d.-avhandling ved Institutt for kriminologi og rettssosiologi samme sted.
+
+[^1347]: Utvalgsmandatet pkt. 2 (Behovet for revisjon) og 3 (Målsettingene med en ny lov).
+
+[^1348]: Utvalgsmandatet pkt. 2 (Behovet for revisjon). Uthevet her.
+
+[^1349]: For noen ansatser til en slik diskusjon, se Advokatforeningens årstale 2014: En straffeprosess for vår tid – dilemmaer og utfordringer, gjengitt i *Tidsskrift for Strafferett nr. 1 2015*.
+
+[^1350]: Den foreløpig siste lovproposisjon med særlig fokus på «effektiviseringstiltak» er Prop. 141 L (2009–2010) *Endringer i straffeprosessloven mv.* Se forslagene i kapittel 8, vedtatt som endringslov 10. desember 2010 nr. 76. Endringene var basert på et omfattende høringsnotat fra Justisdepartementet om «Hurtigere behandling av straffesaker» fra 2006, som var et resultat av Stortingets anmodning til regjeringen i 2004 om å «utarbeide en samlet tiltakspakke for å redusere straffesaksbehandlingstiden». Se Prop. 141 L (2009–2010) s. 94.
+
+[^1351]: Rapporten ble utarbeidet av en arbeidsgruppe nedsatt 4. mars 2011, ledet av lagdommer Monica Nylund Hansen. Rapportens tallmateriale, funn og anbefalinger omtales nedenfor i pkt. 2.2.
+
+[^1352]: Se også tilsvarende retningslinjer i LOK-prosjektets delrapport nr. 6, *Aktiv saksstyring og saksavvikling i straffesaker*.
+
+[^1353]: Se utvalg oppnevnt i statsråd 7. mai 2015. Utvalget skal innen 31. januar 2017 blant annet «identifisere sakstyper innenfor straffesakskjeden hvor det anses formålstjenlig med et eget hurtigspor i de alminnelige domstolene. Raskere og mer effektiv straffesakskjede vil virke preventivt og kostnadsbesparende.»
+
+[^1354]: Se Justis- og beredskapsdepartementets høringsnotat 10. april 2015 «Forslag til prøveprosjekt i Oslo for raskere gjennomføring av straffesaker (hurtigspor)». Høringsfristen var 22. mai 2015.
+
+[^1355]: Foranledningen var en kronikk av Riksadvokat Tor-Aksel Busch og Domstoladministrasjonens direktør Tor Langbach, i Aftenposten 10. desember 2012 med tittelen «Mer effektive rettsaker – moderne rettergang».
+
+[^1356]: Se særlig Knut Erik Sæther, «Politisering og straffeprosessuelle reformbehov» på s. 464, note 25, Anders Brosveet, «Reformbehovet i straffeprosessen sett fra en praktiserende advokats ståsted» s. 492–493 og Nils Erik Lie, «Noen tanker om fremtidens straffeprosess» på s. 513, alle i *Tidsskrift for Strafferett 2013 nr. 4*. Vi er enige i det forfatterne etterlyser, se pkt. 2.2.3.
+
+[^1357]: Se særlig NOU 1997: 15 *Etterforskingsmetoder for bekjempelse av kriminalitet. Delinnstilling II*, kapittel 3 og Ot.prp. nr. 64 (1998–99) *Om lov om endringer i straffeprosessloven og straffeloven m v (etterforsk-ningsmetoder m v)* s. 32–34, på s. 34, hvor de siterte innvendingene er gjengitt.
+
+[^1358]: Ot.prp. nr. 64 (1998–99) på s. 34 (uthevet her). Justiskomiteen var enig, jf. Innst. O. nr. 3 (1999–2000) *Innstilling fra justiskomiteen om lov om endringer i straffeprosessloven og straffeloven m.v. (etterforskningsmetoder m.v.)* s. 5. Se tilsvarende Politimetodeutvalgets NOU 2004: 6 *Mellom effektivitet og personvern* kapittel 9 og Ot.prp. nr. 60 (2004–2005) *Om lov om endringer i straffeprosessloven og politiloven (romavlytting og bruk av tvangsmidler for å forhindre alvorlig kriminalitet)* særlig s. 24 flg. og departementets vurderinger på s. 32–34.
+
+[^1359]: Erfaringer fra tvisteloven viser at partenes prosessatferd og dommernes rolle også påvirker hvordan saker forberedes og iretteføres, se nærmere nedenfor i pkt. 7–8.
+
+[^1360]: Se særlig Ot.prp. nr. 24 (2002–2003) *Om lov om endringer i straffeprosessloven mv. (begrensninger i adgangen til dokumentinnsyn og bevisførsel)* beskrivelsen på s. 7 flg. og s. 27–31 og Ot.prp. nr. 66 (2001–2002) *Om lov om endringer i straffeprosessloven mv. (hurtigere straffesaksbehandling, varetektsfengsling i isolasjon mv.)* s. 75.
+
+[^1361]: Innst. O. nr. 65 (1994–95) *Innstilling fra justiskomiteen om lov om endringer i straffeloven, veitrafikkloven og straffeprosessloven* på s. 3.
+
+[^1362]: Gjengitt i Ot.prp. nr. 66 (2001–2002) på s. 75 (uthevet her). Se *Prosjekt hurtigere straffesaksbehandling – Arbeidsgruppe II, sluttrapport 26. juni 2000* på s. 52. Arbeidsgruppen vurderte tiltak for hurtigere behandling av straffesaker i perioden mellom påtalevedtak og fullbyrdelse.
+
+[^1363]: Slik det ble anført for Metodeutvalgets (1997) virkelighetsbeskrivelse, se ovenfor.
+
+[^1364]: NOU 2009: 15 *Skjult informasjon – åpen kontroll*, s. 75 (uthevet her).
+
+[^1365]: Se også Inge Lorange Backer, «I lovgivningsperspektiv: Er straffeprosessloven moden for revisjon?» *Tidsskrift for Strafferett 2013 nr. 4* s. 447–457, på s. 453: «Komplekse straffesaker er blitt et tydeligere trekk i straffeprosessen» (uthevet her).
+
+[^1366]: Riksadvokat Tor-Aksel Busch, «Moderne kriminalitet – tradisjonell rettergang», *Tidsskrift for strafferett 2011* s. 349–367, på s. 364 (uthevet her).
+
+[^1367]: Nils Erik Lie, «Utviklingstrekk i det praktiske bevisbildet» i Ragna Aarli mfl. (red.), *Bevis i straffesaker. Utvalgte emner*. 2015, s. 51 (uthevet her).
+
+[^1368]: Sluttrapport fra arbeidsgruppe nedsatt av Justisdepartementet 4. september 2003 om effektivisering av straffesaksavviklingen, pkt. 8.2.1 (uthevet her). (https://www.regjeringen.no/globalassets/upload/kilde/jd/rap/2003/0012/ddd/word/193729- sluttrapport_fra_arbeidsgruppen.doc).
+
+[^1369]: NOU 2013: 9 *Ett politi – rustet til å møte fremtidens utfordringer. Politianalysen*, s. 59 (uthevet her). Se også s. 67–75 med videre henvisninger. Politianalysens vurdering er langt på vei i tråd med Politimetodeutvalgets og Metodekontrollutvalgets vurderinger, se henholdsvis NOU 2004: 6 *Mellom effektivitet og personvern* s. 163 og NOU 2009: 15 *Skjult informasjon – åpen kontroll* s. 78–79.
+
+[^1370]: *Driftsanalyse av politi- og lensmannsetaten for perioden 2002–2008*, Politidirektoratets publikasjon 2010/03, s. 15–16. Analysen er basert på datagrunnlag og funn som fremkom i Agenda-rapporten *Analyse av ressursbruken i politiet* (2008) og Politidirektoratets rapport *Politiet mot 2020* (2008).
+
+[^1371]: *Driftsanalyse av politi- og lensmannsetaten for perioden 2002–2008*, s. 16, fig. 7, med videre henvisninger til Riksadvokatens årsrapport for henholdsvis 2005 og 2008.
+
+[^1372]: LOK-prosjektet, Delrapport nr. 6 (https://www.domstol.no/no/Domstoladministrasjonenno/Publikasjoner/Rapporter/).
+
+[^1373]: Se Riksadvokatens årsrapport for 2012, hvor det for perioden 2011–2012 påvises en nedgang på 86 aktorat, men tross dette en økning i antall rettsdager på 10 dager. I *Årsrapport 2014 for Den høyere påtalemyndigheten* s. 12 angis det en nedgang på 30 aktorater (2,7 %) i forhold til 2013, men samtidig en økning på 114 flere rettsdager (fra 3090 til 3204, dvs. ≈ 3,7 %). Tross økningen fra 2013 til 2014 innebærer tallene for 2014 likevel en nedgang både i antall aktorater og rettsdager i forhold til årene 2010–2012, se rapporten s. 15.
+
+[^1374]: Se forrige note og Riksadvokatens andre tertialrapport for 2015, som viser en nedgang både i antall aktorat (48 færre) og i antall rettsdager (25 færre) i forhold til samme periode i 2014.
+
+[^1375]: Se tallene i *Årsrapport 2014 for Den høyere påtalemyndigheten* s. 15.
+
+[^1376]: Det vil si mer enn 60 rettstimer, se *Ressurs- og tidsbruk i omfattende straffesaker* s. 9.
+
+[^1377]: Kun tall fra de sju største tingrettene var omfattet, se pkt. 3.2.
+
+[^1378]: Arbeidsgruppens tall for antall tiltalte avviker noe fra de tall vi har innhentet fra DA, se pkt. 5.2.1.
+
+[^1379]: Rapporten s. 11–12. Antall bistandsadvokater i hver sak er ikke spesifisert, men det dreier seg om flere i hver sak. I lagmannsretten for 2010 var tallet 21 advokater på ti saker, i tingrettene 19 advokater på seks saker.
+
+[^1380]: I tall fra perioden 1997–2001 påpekes de samme sakskategoriene, se Reid J. Stene, «Politiet er mest avgjørende i rettssystemet», *Samfunnsspeilet 3/2002*, særlig på s. 16.
+
+[^1381]: Rapporten s. 12.

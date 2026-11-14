@@ -1,938 +1,266 @@
-# NOU 2016: 24, del 43 av 73 (side 464–473)
+# NOU 2016: 24, del 43 av 69
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/1182afc0-nou-2016-24.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-24/id2517932/
 - Original-PDF: https://www.regjeringen.no/contentassets/6fe1d875248042b4a09b43b85aa46832/no/pdfs/nou201620160024000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 9 tabeller, 1 figur, 52 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 464]
-
-462
-
-Kapittel 22
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-I de nevnte situasjoner er dommen å anse som
-rettskraftig etter rettsmiddelfristens utløp, jf.
-straffeprosessloven § 50. Det betyr i praksis at
-partene kan velge om de vil benytte seg av anke
-eller gjenåpning når avgjørelsen angripes. Dersom en begjæring om anke og en begjæring om
-gjenåpning fremmes samtidig, skal kommisjonen
-avvise sistnevnte.
-Det nærmere forholdet mellom § 318 og gjenåpningsinstituttet er tematisert i Rt. 2009 s. 1681,
-der det fremgår at vilkåret om at «retten finner at
-oversittelsen ikke bør legges den ankende til
-last», bør forbeholdes «relativt korte» fristoversittelser.12
-I Rt. 2010 s. 1495 var anke over dom fremsatt
-over tre år etter vedtakelsen. Etter domstidspunktet var det avsagt en høyesterettsdom som tilsa at
-lovtolkningen som lå til grunn for domfellelsen,
-var uriktig, slik at domfelte skulle vært frifunnet.
-Adgangen til forsinket anke var avskåret fordi det
-hadde gått for lang tid fra domfelte vedtok tingrettens dom, og til domfelte anket til lagmannsretten.
-Det mest naturlige rettsmiddelet ble da ansett å
-være gjenåpning etter straffeprosessloven § 392
-annet ledd.
-Gjenåpning kan for øvrig besluttes før en dom
-er rettskraftig, dersom dommen er «avsagt av lagmannsretten og den omfatter bevisbedømmelsen
-under skyldspørsmålet», jf. straffeprosessloven
-§ 389 første ledd annet punktum. I en slik situasjon vil bevisbedømmelsen være avgjort med
-endelig virkning av lagmannsretten, fordi Høyesterett er avskåret fra å prøve bevisbedømmelsen
-under skyldspørsmålet, jf. straffeprosessloven
-§ 306 annet ledd. Bestemmelsen stammer fra
-tiden da domstolene selv besluttet gjenåpning, og
-skillet mellom anke og begjæring om gjenåpning
-således var av mindre betydning.13
-De til dels overlappende reglene om gjenåpning og anke gir partene frihet i valg av rettsmiddel. Utvalget mener det bør tilstrebes at grensen
-mellom de ulike rettsmidler defineres klart. Friheten i valget mellom anke og gjenåpning etter gjeldende lov kan føre til uklarhet om hvilket rettsmiddel som skal anvendes, og kan – ettersom
-gjenåpning er lagt til en egen kommisjon – føre til
-uklarhet om hvem som har kompetanse til å treffe
-avgjørelse.
-Hensynet til effektivitet taler dessuten mot at
-grensen mellom rettsmidlene vurderes fra sak til
-sak; en skjønnsbasert grense kan føre til usikkerhet og merarbeid ved at sakene blir dobbelt12
-13
-
-Rt. 2009 s. 1681 avsnitt 10.
-Se Straffeprosesslovkomitéen (1969) s. 341.
-
-behandlet. Det er heller ikke prosessøkonomisk
-gunstig med et system som innebærer at et organ
-må avvente en avgjørelse før den kan ta en sak til
-behandling.
-Adgangen påtalemyndigheten i dag har til å
-anke rettskraftige avgjørelser etter straffeprosessloven § 309, bør derfor fjernes. Isolert sett
-kan det nok være effektivt om påtalemyndigheten
-selv retter opp uriktige avgjørelser ved bruk av et
-ordinært rettsmiddel. Men i et større perspektiv
-må forutberegnelighet ved valg av rettsmiddel
-antas å gi den største effektivitetsgevinsten, især
-fordi man da unngår dobbeltbehandling. Ved å la
-én sentralisert instans avgjøre alle saker, får man
-dessuten større mulighet til å fange opp eventuelle systemfeil. Selv om Gjenopptakelseskommisjonens mandat er å behandle enkeltsaker, vil den
-for eksempel kunne gjøre påtalemyndigheten oppmerksom på feil som begås regelmessig.
-Utvalget mener videre at særreguleringen om
-gjenåpning før rettskraftig dom dersom dommen
-er «avsagt av lagmannsretten og den omfatter
-bevisbedømmelsen under skyldspørsmålet», jf.
-§ 389 første ledd annet punktum, ikke bør videreføres. Kommisjonens rolle bør være subsidiær
-også i denne situasjonen. For det første fordi en
-anke over saksbehandlingen kan rette seg mot
-den skriftlige begrunnelsen for bevisbedømmelsen som Høyesterett kan prøve. For det andre
-fordi behovet for en særregulering uansett er ikke
-stort, ettersom det ikke skal ta lang tid fra lagmannsrettens avgjørelse av skyldspørsmålet til
-dommen er rettskraftig. Skulle tiden likevel
-trekke ut, kan det motvirkes med bruk av ordinære rettsmidler. Så vidt vites har ikke kommisjonen noen gang vært forelagt en begjæring på
-dette tidspunktet i saksgangen.
-22.3.4 Hvilke avgjørelser bør kunne gjenåpnes?
-Straffeprosessloven gir adgang til gjenåpning av
-rettskraftige dommer og andre avgjørelser som
-innebærer at en straffesak eller en selvstendig del
-av den avsluttes, jf. §§ 389 og 401. I praksis har
-dette vært begrenset til avgjørelser som omhandler konstatering av straffansvar og straffutmåling,
-herunder også konverteringsdommer når man
-går fra ett straffutmålingssystem til et annet.14
-Avgjørelser som omhandler straffegjennomføringen, har derimot vært ansett å falle utenfor
-ordningen med gjenåpning, selv om avgjørelsen
-avsies i form av dom. Kommisjonen har lagt til
-grunn at det ikke er adgang til å få gjenåpnet
-14
-
-Sak GK 2013/161.
-
-[Side 465]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-saker om dom for prøveløslatelse fra forvaring15
-eller dom for gjeninnsetting for fullbyrding av
-reststraff etter vilkårsbrudd.16
-I lys av formålet med ordningen er det grunn
-til å drøfte om også avgjørelser som er truffet på
-gjennomføringsstadiet, bør kunne gjenåpnes.
-Avgjørelser det kunne være aktuelt å la omfattes,
-er:
-– dom på gjeninnsetting for fullbyrding av reststraff, jf. straffeloven § 39 annet ledd
-– brudd på vilkår for samfunnsstraff, jf. straffeloven § 52
-– brudd på vilkår for ungdomsstraff, jf. straffeloven § 52 c
-– prøveløslatelse fra forvaring, jf. straffeloven
-§ 44
-– opphør av reaksjonene tvunget psykisk helsevern og tvungen omsorg, jf. straffeloven § 65
-Alle disse avgjørelsene angår særlig inngripende
-tiltak overfor borgerne. Når det er lagt til domstolene å avgjøre slike spørsmål, skyldes det nettopp
-en erkjennelse av inngrepenes alvor, og dermed
-ønsket om en særlig rettssikker behandlingsform.
-Når man først velger å avgjøre disse sakene – formelt og reelt – ved dom, bør etter utvalgets syn
-også gjenåpningsordningens rettssikkerhetsgarantier få anvendelse.
-Utvalget kan vanskelig se at samfunnet er tjent
-med at en rettskraftig dom knyttet til noen av de
-ovennevnte sakstypene blir stående dersom det
-skulle hefte slike mangler ved dommen som ellers
-kan begrunne gjenåpning. Uten gjenåpning blir
-man stående uten straffeprosessuelle midler for å
-kontrollere og rette opp avgjørelser som ikke har
-vært lovformelige, eller som det ellers er grunn til
-å stille spørsmål ved om er riktige.
-Samlet vil det kunne svekke den generelle tilliten til rettsavgjørelser om det ikke gis adgang til
-gjenåpning. Dertil kommer at mer rettstekniske
-hensyn taler for at avgjørelser som etter loven
-avsies som dom, har samme prosessuelle status.
-Dersom det ikke gis adgang til gjenåpning, vil
-det dessuten lettere kunne oppstå situasjoner som
-står i et problematisk forhold til Grunnloven § 94
-og EMK artikkel 5 og til verdiene disse bestemmelsene er uttrykk for. Grunnloven § 94 første
-ledd lyder:
-«Ingen må fengsles eller berøves friheten på
-annen måte uten i lovbestemte tilfeller og på
-den måte som lovene foreskriver. Frihetsbe15
-16
-
-Sak GK 2013/161 (dissens 3–2).
-Sak GK 2014/191.
-
-463
-
-Kapittel 22
-
-røvelsen må være nødvendig og ikke utgjøre et
-uforholdsmessig inngrep.»
-I bestemmelsens annet ledd er det stilt krav om at
-den som er berøvet sin frihet, skal kunne få frihetsberøvelsen prøvet for domstolene «uten
-ugrunnet opphold». Uten adgang til gjenåpning
-blir man stående med begrensede rettslige og faktiske muligheter til reell og effektiv kontroll med
-frihetsberøvelsens lovlighet. Det gir i seg selv
-risiko for grunnlovs- og konvensjonsbrudd i form
-av ulovlig frihetsberøvelse og at en eventuell kontroll ikke skjer uten «ugrunnet opphold».
-Dertil kommer at man etter EMK har krav på
-at krenkelsen konstateres, noe man vanskelig vil
-oppnå uten adgang til gjenåpning. Også systemhensyn tilsier at det gis adgang til gjenåpning i det
-straffeprosessuelle sporet. Den frihetsberøvede
-vil kunne ha aktuell interesse i en fastsettelsesdom etter løslatelse, for eksempel hvis det fremmes krav om erstatning. I en slik situasjon må det
-tas prejudisiell stilling til om avgjørelsen som foranlediget frihetsberøvelsen, var mangelfull, og det
-er da liten grunn til at dette ikke skal få sin avklaring i det sporet som ellers benyttes for å ta stilling til om det hefter feil ved straffeprosessuelle
-avgjørelser.
-Enkelte særspørsmål gjør seg gjeldende for
-gjenåpning av avgjørelser om prøveløslatelse fra
-forvaring og opphør av reaksjonene tvungent psykisk helsevern og tvungen omsorg. Virkningen av
-slike avgjørelser er ikke endelig, ettersom spørsmålene om prøveløslatelse og opphør kan begjæres behandlet på ny etter ett år, jf. straffeloven
-§§ 44 fjerde ledd og 65 tredje ledd. En forutsetning for avgjørelsen er dessuten at det er avsagt
-dom for reaksjonsformen, og for forvaring med
-angivelse av en tidsramme, som kan gjøres til
-gjenstand for gjenåpning.
-Det taler for å la avgjørelsene omfattes av ordningen at de først og fremst skal avklare om gjerningspersonen anses som så farlig at videre frihetsberøvelse kan rettferdiggjøres. Det er hensynet til rettssikkerhet som er grunnen til at avgjørelsene i det hele tatt er lagt til domstolene, se hva
-gjelder forvaring NOU 1990: 5 s. 76. At det må gå
-ett år før spørsmålet på ny kan bringes inn for
-domstolene, er alene begrunnet i hensynet til å
-hindre grunnløse begjæringer, se Ot.prp. nr. 87
-(1993–94) s. 91.
-I ytterste konsekvens vil den som er uriktig
-fengslet, i perioden frem til neste prøving stå uten
-midler til å angripe grunnlaget for frihetsberøvelsen når det hefter alvorlige mangler ved
-denne, herunder når det er begått straffbare
-
-[Side 466]
-
-464
-
-Kapittel 22
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-handlinger i tilknytning til avgjørelsen. Også hensynet til samfunnsvernet tilsier at påtalemyndigheten etter omstendighetene må kunne begjære
-gjenåpning av en dom som uriktig innvilger prøveløslatelse fra forvaring eller opphør av reaksjonene tvungent psykisk helsevern og tvungen
-omsorg.
-På denne bakgrunn mener utvalget at alle de
-nevnte avgjørelser som treffes ved dom og kan
-resultere i frihetsberøvelse, bør kunne gjenåpnes
-etter de straffeprosessuelle regler så sant det foreligger rettslig interesse. De ulike vilkårene for
-gjenåpning bør ellers benyttes så langt de passer
-for avgjørelser truffet i form av dom på gjennomføringsstadiet.
-Utvalget har vurdert om avgjørelser etter straffeloven § 39 om opphevelse, endring, forlengelse
-og fastsettelse av nye særvilkår i prøvetiden for
-dom også bør kunne gjenåpnes, men har konkludert med at de ikke bør det. Ved vurderingen legges det dels vekt på at inngrepene det er snakk
-om, selv om de er alvorlige, ikke medfører frihetsberøvelse, dels at lovgiver har besluttet at avgjørelsene skal treffes ved beslutning (kjennelse) og
-ikke ved dom. Avgjørende for utvalget har likevel
-vært at slike endringer må anses som en naturlig
-forlengelse av den underliggende dommen, og at
-denne kan gjenåpnes.
-Heller ikke øvrige beslutninger bør kunne
-gjenåpnes, for eksempel spørsmål om utlevering.
-Muligheten for omgjøring og periodisk kontroll
-må her antas tilstrekkelig.
-22.3.5 Gjenåpning og bruk av tvangstiltak
-Et grunnleggende trekk ved en rettsstat er at statens prosesser mot borgerne får sin avslutning;
-borgerne skal ikke oppleve langvarige og tilbakevendende forfølgninger for samme forhold. Selv
-om det er adgang til å gjenåpne dommer etter
-EMK, står utgangspunktet og idealet om endelighet sterkt i den europeiske rettstradisjon. Det
-kommer klart til uttrykk i EMK artikkel 6, som
-bestemmer at for å «få avgjort […] en straffesiktelse mot seg, har enhver rett til […] rettergang innen rimelig tid […]», sammenholdt med
-forbudet mot dobbeltforfølgning i EMK P7-4.
-Et særlig spørsmål er i hvilken utstrekning
-påtalemyndigheten etter at en straffesak er avsluttet, skal kunne benytte tvangstiltak under etterforsking med sikte på å få gjenåpnet en sak. Bruk av
-tvangstiltak kan innebære betydelige inngrep
-overfor den mistenkte og vil i ytterste konsekvens
-foregripe spørsmålet om hvorvidt vilkårene for
-gjenåpning er oppfylt.
-
-I Rt. 2015 s. 935 kom problemstillingen opp for
-spørsmålet om bruk av rettshåndhevelsesarrest
-etter straffeprosessloven § 172. Saken gjaldt en
-mann som var rettskraftig frifunnet for drap, men
-som tolv år senere på ny ble siktet for det samme
-drapet. Bakgrunnen var nytt bevis som følge av
-nye vitenskapelige metoder for tolkning av DNAfunn. Spørsmålet i saken var om § 172 bokstav a
-var anvendt for vidt.
-Ankeutvalgets flertall fant lagmannsrettens
-lovforståelse korrekt, uten å tematisere forholdet
-mellom bruk av tvangstiltak og gjenåpning.
-Mindretallet mente derimot at frifinnelsen var en
-ekstraordinær omstendighet som det måtte tas
-hensyn til ved anvendelsen av § 172. Om forholdet
-mellom bruk av tvangstiltak og gjenåpning uttalte
-mindretallet blant annet:
-«I saken her er siktede fengslet på tross av at
-riksadvokaten ikke hadde tatt stilling til om
-saken skal begjæres gjenåpnet. Det er systematisk sett klart uheldig at domstolene ved
-behandling av begjæring om varetekt dermed
-må foregripe riksadvokatens vurdering av om
-saken skal begjæres gjenåpnet, og ikke minst
-foregripe Gjenopptakelseskommisjonens eventuelle vurdering av om vilkårene for gjenåpning vil være oppfylt.»17
-Utvalgets syn er at rettskraftige avgjørelser av
-straffekravet så langt som mulig bør behandles
-som endelige, og at dette i særlig grad må gjelde
-for frifinnelser. Samtidig står sannhetsidealet
-sterkt. Straffedommers legitimitet avhenger langt
-på vei av at det ikke kan settes spørsmålstegn ved
-domfellelser, og at det i det minste foreligger
-rimelig tvil om saksforholdet ved frifinnelser.
-Dersom nye bevis eller omstendigheter gir
-holdepunkter for at saksforholdet som er lagt til
-grunn for en dom, avviker fra det faktiske hendelsesforløpet, kan det derfor etter omstendighetene
-være grunn til å undersøke bevisene nærmere for
-å avklare om vilkårene for gjenåpning er oppfylt.
-Det vil blant annet kunne være situasjonen når et
-nytt vitne melder seg for politiet med sentral informasjon om saken, eller når analyser av biologisk
-materiale kaster nytt lys over saken.
-I forlengelsen av dette bør påtalemyndigheten
-under etterforskingen etter omstendighetene
-også kunne benytte tvangstiltak for å fremskaffe,
-undersøke eller sikre bevis. Hensynet til at rettsavgjørelser, og især frifinnelser, skal være endelige, tilsier imidlertid at man da utviser stor grad
-17
-
-Rt. 2015 s. 935 avsnitt 26. Se også avsnittene 22 og 23.
-
-[Side 467]
-
-465
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-av skjønnsomhet og tilbakeholdenhet. En ubetinget adgang til å holde straffesaken gående med
-bruk av tvangstiltak etter rettskraftig dom vil lett
-kunne utfordre våre rettsstatsidealer.
-Utvalget mener at terskelen for inngrep i mistenktes privatsfære bør være meget høy etter en
-rettskraftig frifinnelse. Rettsteknisk er det tilstrekkelig å håndheve terskelen ut fra de alminnelige
-vilkårene for bruk av tvangstiltak. Kravet til forholdsmessighet vil begrense adgangen til å
-benytte tvangstiltak etter rettskraftig dom.
-Utgangspunktet for forholdsmessighetsvurderingen skal være hvilken retning det underliggende påtalevedtaket eller dommen har; om
-straffekravet førte til frifinnelse eller straffansvar.
-Etter en frifinnelse vil forholdsmessighetskravet
-innebære en sterk begrensning i adgangen til
-bruk av tvangstiltak. Ny etterforsking vil i alminnelighet innebære en betydelig belastning for den
-som har innrettet seg etter at straffeforfølgningen
-er avgjort. Særlig mistenkte, men også fornærmede, etterlatte og lokalsamfunn, kan være best
-tjent med at det ikke rokkes ved saken.
-Videre skal sakens alvor og tvangstiltakets
-karakter være sentrale momenter for forholdsmessighetsvurderingen. Det skal i alminnelighet
-gjelde en lavere terskel for å ta i bruk tvangstiltak
-i en sak om drap enn i en sak om underslag, og
-terskelen skal være lavere for å innhente biologisk materiale enn for å varetektsfengsle.
-Etter utvalgets lovforslag skal tvangsinngrepet
-rettshåndhevelsesarrest være utelukket før gjenåpning er begjært, ettersom det innebærer å foregripe spørsmålet om gjenåpning, se utkastet § 41-20
-fjerde ledd.
-
-føres, og som i dag bør det avgjørende være hvilken
-betydning det ville hatt om det nye forholdet hadde
-vært kjent for den dømmende rett, sett i sammenheng med sakens øvrige omstendigheter og bevis.
-22.3.6.2
-
-22.3.6.1
-
-Gjenåpning fordi det er grunn til å stille
-spørsmål ved bevisene en avgjørelse bygger
-på
-
-Utgangspunktet er at den dømmende rett med
-endelig virkning avgjør om bevismaterialet retten
-er forelagt, innebærer at det ikke er rimelig tvil
-om tiltaltes skyld og straffansvarets omfang. Etter
-at en dom er avsagt, kan det imidlertid fremkomme opplysninger som ikke var kjent for den
-dømmende rett, og som gir grunn til å stille spørsmål om hvorvidt avgjørelsen er riktig. For eksempel kan et nytt vitne gi domfelte alibi, eller ny
-vitenskapelig kunnskap kan tilsi at et bevismiddel
-skulle vært bedømt annerledes.
-Etter straffeprosessloven kan slike forhold føre
-til gjenåpning, se punkt 22.2.1. Adgangen bør videre-
-
-Gjenåpning fordi det er grunn til å stille
-spørsmål ved andre omstendigheter
-
-I straffeprosessloven er gjenåpning på grunn «ny
-omstendighet» og «nytt bevis» sidestilt for gjenåpning til gunst etter § 391 nr. 3 og for gjenåpning
-til skade etter § 393 første ledd nr. 2. Med «nye
-bevis» siktes det til informasjon om forhold som
-ble vurdert i den opprinnelige avgjørelsen, mens
-det med «omstendigheter» og «opplysninger»
-først og fremst siktes til forhold som ikke er
-vurdert i avgjørelsen som begjæres gjenåpnet.
-Ettersom de øvrige vilkårene for gjenåpning er
-de samme for begge alternativer, er det ikke alltid
-det blir skilt mellom dem. I praksis har man med
-«bevis» gjerne forstått ny informasjon i saken,
-mens «omstendigheter» er brukt som betegnelse
-på sakkyndige uttalelser eller andre former for
-ekstern bedømmelse av bevismaterialet, se Rt.
-2001 s. 1521 på s. 1565 og Rt. 1991 s. 810.
-Det legislative grunnlaget for gjenåpning kan
-være ulikt for de to alternativene. Mens nye bevis
-kan begrunne gjenåpning av hensyn til riktige
-avgjørelser, vil nye omstendigheter eller opplysninger kunne begrunne gjenåpning også av hensyn til sammenheng i rettssystemet.
-Utvalget foreslår å videreføre adgangen til å
-gjenåpne på disse grunnlagene, se utkastet § 41-6
-og merknaden til bestemmelsen.
-22.3.6.3
-
-22.3.6 Vilkårene for gjenåpning
-
-Kapittel 22
-
-Gjenåpning fordi det er grunn til å stille
-spørsmål om hvorvidt lovanvendelsen er
-korrekt
-
-Dersom man effektuerer en dom som bygger på
-uriktig lovanvendelse, bryter man med det grunnleggende rettsstatlige krav om lovhjemmel for
-bruk av straff. I tillegg risikerer man å forskjellsbehandle borgerne. Dette er forhold som kan
-svekke rettssystemets legitimitet, og som taler for
-en adgang til å få gjenåpnet dommer som bygger
-på uriktig lovanvendelse.
-Skulle enhver lovanvendelsesfeil gi ubetinget
-rett til gjenåpning, ville imidlertid realiteten bli at
-gjenåpningsadgangen kan benyttes som alternativ til anke. Det ville bryte med utvalgets ønske
-om å skille skarpt mellom de ordinære rettsmidlene og gjenåpning og undergrave formålet
-med bruk av ankefrister. Dersom Gjenopptakelseskommisjonen helt generelt skulle kunne
-
-[Side 468]
-
-466
-
-Kapittel 22
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-pålegge domstolene, med Høyesterett i spissen,
-å revurdere egen lovanvendelse, ville det også
-bryte med grunnleggende forutsetninger om
-rollefordelingen mellom domstolene og Gjenopptakelseskommisjonen.
-Straffeprosessloven inneholder ingen generell bestemmelse om gjenåpning på grunn av feil
-lovanvendelse. En sak kan imidlertid gjenåpnes til
-gunst for siktede når dommen bygger på en lovtolkning som Høyesterett har bygget på, men
-senere fraveket, og dersom lovtolkningen er i
-strid med en folkerettslig regel som Norge er bundet av, og ny behandling må antas å burde føre til
-en annen avgjørelse, jf. straffeprosessloven §§ 392
-første ledd og 391 annet ledd bokstav a.
-En sak kan dessuten gjenåpnes på grunn av
-feil lovanvendelse i medhold av den generelle
-gjenåpningsadgangen i § 392 annet ledd når «særlige forhold gjør det tvilsomt om dommen er riktig», og «tungtveiende hensyn tilsier at spørsmålet
-om siktedes skyld blir prøvd på ny». Også feil ved
-saksbehandlingen kan tenkes å ha ført til feil
-lovanvendelse, og gjenåpning på dette grunnlaget
-vil da kunne være en vei til å få rettet lovanvendelsesfeil, se punkt 22.3.6.4.
-Utvalget mener det bør være adgang til gjenåpning begrunnet i uriktig lovanvendelse ved kvalifiserte hjemmelsmangler, der det er åpenbart at
-én eller flere sentrale rettskilder er oversett.
-Utvalget har vurdert om det i tillegg bør kreves at
-de alminnelige rettsmidlene er uttømt, men har
-kommet til at dette ikke bør være et vilkår. Et slikt
-vilkår kunne tenkes å medføre at det inngis
-grunnløse anker uten annet formål enn å sikre at
-adgangen til gjenåpning ikke stenges. Viktigere er
-imidlertid at et slikt vilkår vanskelig lar seg forsvare ut fra det hensyn som begrunner gjenåpningsadgangen. Åpenbart uriktige avgjørelser
-bør kunne rettes til domfeltes gunst også etter
-ankefristens utløp.
-22.3.6.4
-
-Gjenåpning fordi det er grunn til å stille
-spørsmål ved saksbehandlingen som ligger
-til grunn for avgjørelsen
-
-Rettsavgjørelser treffes innenfor et rammeverk av
-sannhetsfremmende mekanismer som umiddelbar
-bevisføring og formelle rettssikkerhetsgarantier av
-ulik karakter, som for eksempel kontradiksjonsrett.
-Feil ved gjennomføringen av rettergangen kan således gi grunn til å stille spørsmål ved om avgjørelsen bygger på en riktig forståelse av hendelsesforløpet i saken, og om loven er korrekt anvendt.
-Utvalget mener at dagens adgang til gjenåpning på grunn av feil ved saksbehandlingen bør
-
-videreføres, herunder når en dommer har vært
-utelukket fra dommerstillingen eller har vært
-inhabil, det er begått straffbart forhold i anledning
-saken av en aktør eller en som har bistått denne,
-et vitne har forklart seg uriktig, eller et dokument
-har vært forfalsket, og det er konstatert konvensjonskrenkelse mot Norge i saken, se §§ 390, 391
-nr. 1 og nr. 2 og 393 første ledd nr. 1. Se nærmere
-utkastet §§ 41-8 og 41-9.
-Også andre typer feil, som manglende etterlevelse av regler som skal sikre sakens opplysning, kan gi grunn til å stille spørsmål ved om
-dommen er riktig. Det kan gjelde faktiske så vel
-som rettslige forhold, for eksempel at domfelte
-ikke er gitt anledning til å undersøke et dokumentbevis eller imøtegå en vitneforklaring, eller
-at det ikke ble hentet inn tilstrekkelig informasjon
-om praksis på et bestemt område av betydning for
-aktsomhetskravet etter straffebestemmelsen tiltalen gjelder. Slike feil vil etter utkastet falle utenfor §§ 41-8 og 41-9 og skal eventuelt bedømmes
-etter den generelle adgangen til å gjenåpne saken
-til gunst for domfelte i særlige tilfeller, se utkastet
-§ 41-10.
-Av samme grunner som det kan være utfordrende å vurdere hvilken betydning et nytt bevis
-ville hatt for den dømmende rett, kan det være
-utfordrende å fastslå hvilken betydning feil ved
-saksbehandlingen har hatt for dommen. Derfor
-bør det begrensende vilkåret for gjenåpning av
-eldre saker redegjort for i punkt 22.3.6.5 også
-gjelde ved gjenåpning på grunn av feil i saksbehandlingen.
-Et særlig spørsmål er hvilket beviskrav som
-bør gis anvendelse for alternativene som forutsetter at saksbehandlingsfeilen er en straffbar handling. Etter gjeldende rett kreves det klare holdepunkter for å anta at det har vært utvist straffbart
-forhold, se Rt. 2001 s. 1521 på s. 1537.
-Hensynet til å verne den som anklages for uregelmessigheter, taler for et strengt beviskrav, og i
-et større perspektiv må også et vern for rettslige
-aktører mot uriktige anklager antas å bidra til prosessystemets effektivitet. På den annen side taler
-det mot å stille strenge krav til bevis at det vil
-gjøre gjenopptakelsesgrunnen mindre effektiv og
-vil kunne stå i veien for gjenåpning av saker der
-det faktisk har funnet sted straffbare forhold som
-kan ha hatt betydning for dommens innhold. Dertil kommer at tilliten til rettssystemet nok vil svekkes over tid dersom avgjørelser blir stående til
-tross for at det er grunn til å tro at det har funnet
-sted lovbrudd.
-Utvalget finner avveiningen av de kryssende
-hensynene vanskelig. Man kan imidlertid i noen
-
-[Side 469]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-grad unngå å sette problemstillingen på spissen i
-den enkelte sak ved å oppstille som vilkår for gjenåpning at det er begått feil, uten å kreve at feilen
-består i straffbare forhold. For eksempel er det
-mulig å gjenåpne en sak fordi det foreligger en
-«ny omstendighet» eller «nytt bevis», jf. straffeprosessloven § 391 tredje ledd, eller «særlige
-grunner», jf. straffeprosessloven § 392 annet ledd.
-Dette er gjenåpningsgrunner utvalget ønsker
-å videreføre, og som vil sikre gjenåpning i tilfeller
-der et strengt beviskrav for at det er begått straffbare forhold, ikke lar seg oppfylle. På denne bakgrunn går utvalget inn for et skjerpet beviskrav for
-å legge til grunn at det er begått lovbrudd, samtidig som det altså forutsettes at de samme forhold
-kan føre til gjenåpning uten at det uttrykkelig fastslås at det har funnet sted lovbrudd.
-22.3.6.5
-
-Gjenåpning av eldre saker – tidsfrist
-
-Et særlig spørsmål er hvordan man skal håndtere
-gjenåpning av eldre saker. Spørsmålet melder seg
-i særlig grad ved gjenåpning på grunn av nye
-bevis eller omstendigheter, men også ved gjenåpning på grunn av feil lovanvendelse eller saksbehandlingsfeil når det etter gjenåpning skal foretas en ny bedømmelse av bevisene.
-Å få brakt klarhet i et saksforhold etter gjenåpning kan være utfordrende. Det gjelder særlig
-når bevisbedømmelsen må baseres på eldre og
-bortkomne bevis. Ikke sjelden vil vitner ha falt fra
-og vitneforklaringer være preget av at hukommelsen svekkes og erindringer forskyves over tid. I
-en viss utstrekning kan bevisverdien fastslås ut fra
-den tidligere bedømmelsen, men ofte vil nok ikke
-dette fullt ut kompensere for forringelsen av
-bevissituasjonen. I enkelte tilfeller er det umulig å
-realitetsbehandle en sak etter gjenåpning.
-Dersom det innføres en ordning med lyd- og
-bildeopptak av hovedforhandlinger, og slike opptak lagres, vil man få et adskillig bedre grunnlag
-enn i dag for å ta stilling til om vilkårene for gjenåpning er oppfylt, se punkt 6.5.4. Men også med
-en slik sikkerhet for hva som skjedde under forhandlingene, vil det kunne hefte usikkerhet ved
-bevisbildet.
-Dersom behandling av den gjenåpnede straffesaken må baseres på et svakere bevisgrunnlag
-enn i den opprinnelige behandlingen, svekkes
-hensynet til flest mulige riktige avgjørelser – et
-hensyn som er bærende for selve ordningen med
-gjenåpning. Dette taler for at hensynet til rettskraft gis et noe større gjennomslag når saken ikke
-vil la seg opplyse slik den en gang gjorde. En slik
-innstramning vil gi ordningen et visst slektskap
-
-467
-
-Kapittel 22
-
-med gjenåpning av sivile saker, hvor det stilles
-krav om at begjæring om gjenåpning fremsettes
-innen seks måneder etter at parten ble kjent med
-eller burde vært kjent med det forhold begjæringen bygger på, og det gjelder en absolutt frist på ti
-år.
-En absolutt frist er imidlertid ikke aktuelt for
-straffesaker. I sivile saker er fristen i hovedsak
-begrunnet i hensynet til motparten, et hensyn
-som ikke har samme gjennomslag for straffesaker. Dertil kommer at disposisjonsprinsippet
-som gjelder for sivile saker, i større grad åpner for
-å stille partene til ansvar for å unnlate å foreta prosesshandlinger. I straffesaker bør sannhetsidealet
-gis større gjennomslag.
-Det har tidligere vært fremsatt forslag om frist
-for gjenåpning av eldre saker, blant annet av
-arbeidsgruppen som foretok etterkontroll av
-Gjenopptakelseskommisjonen etter opprettelsen.
-Den mente det ikke burde gjelde en generell og
-absolutt frist for begjæring om gjenåpning av
-saker, men foreslo en «ti års frist for å fremsette
-begjæring om gjenåpning av saker hvor det ikke
-er idømt strengere straff enn bot eller fengsel i
-inntil seks måneder».18 Unntatt for fristen var tilfeller som ble omfattet av straffeprosessloven
-§ 391 nr. 1 om straffbare forhold hos dommer,
-aktor mv. i straffesaken, slik at det i alle tilfeller
-skulle kunne begjæres gjenåpning etter unntaksregelen i § 392 annet ledd når «særlige forhold
-gjør det tvilsomt om dommen er riktig og
-tungtveiende hensyn tilsier at spørsmålet om siktedes skyld blir prøvd på nytt». Begrunnelsen for
-forslaget var at betydningen av å få slike saker
-gjenåpnet gjennomgående vil være mindre for
-domfelte og allmennheten.
-I dansk rett gjelder det ingen frist for gjenåpning på grunn av nye bevis. Derimot gjelder det
-en frist på fem år for gjenåpning på grunnlag som
-svarer til straffeprosessloven § 392 annet ledd –
-«når der i øvrigt foreligger særlige omstændigheder, der gør det overvejende sandsynligt, at de
-foreliggende bevisligheder ikke har været rigtigt
-bedømt» –, men slik at fristen uansett utløper først
-to år etter endt soningsopphold dersom fengsel er
-idømt.19
-Utvalget mener reglene om gjenåpning bør gis
-en utforming som sikrer at de i minst mulig grad
-leder til frifinnelse alene fordi bevisbildet er svekket av tidens tann. Dette kunne tale for å utforme
-reglene om gjenåpning slik at det stilles særskilte
-krav i saker der bevisbildet er vesentlig endret. Et
-18
-19
-
-Justis- og beredskapsdepartementet (2012) s. 106.
-Retsplejeloven § 979 første ledd, jf. § 977.
-
-[Side 470]
-
-468
-
-NOU 2016: 24
-
-Kapittel 22
-
-Ny straffeprosesslov
-
-slikt bevistema – å ta stilling hvilken bevissituasjon man står overfor ved ny behandling – forutsetter imidlertid en fullstendig oversikt over bevisene og bedømmelse av disse, både på tidspunktet for domfellelse og etter gjenåpning. Det er ikke
-hensiktsmessig at kommisjonen foretar en slik
-vurdering når det skal avgjøres om saken skal
-gjenåpnes.
-Det er imidlertid grunn til å anta at et alminnelig og utbredt trekk ved saker som ligger langt tilbake i tid, er at de ikke kan behandles på nytt ut
-fra samme bevismessige betingelser. Utvalgets
-anbefaling er derfor at man stiller noe strengere
-vilkår for gjenåpning av eldre dommer. Gjenopptakelseskommisjonen har i høringsuttalelsen til
-rapporten Etterkontroll av kommisjonen for gjenopptakelse av straffesaker anbefalt at man vurderer
-å sette en høyere terskel for gjenåpning av dommer som har vært rettskraftige i 20 år.20
-Utvalget anbefaler at alle saker som har vært
-rettskraftig i mer enn 25 år, vurderes etter en
-regel tilsvarende dagens § 392 annet ledd, slik at
-det kreves «forhold som gjør det meget tvilsomt
-om dommen er riktig», se utkastet § 41-11 med
-merknad. Ordlyden forutsetter at det utøves et
-skjønn der de hensyn som måtte tale henholdsvis
-for og mot gjenåpning av eldre saker, tas i betraktning. Skjønnet bør utøves i lys av de øvrige
-reglene om gjenåpning, og dersom det er klart at
-saken vil bli fullgodt opplyst ved ny behandling,
-skal dette også kunne tas hensyn til. Kriteriet vil
-avskjære gjenåpning av eldre saker i tilfeller der
-en ny behandling må bli usikker; de klart uriktige
-domfellelser vil fremdeles bli gjenåpnet.
-22.3.6.6
-
-Forholdet mellom begjæringen og
-kommisjonens avgjørelse
-
-Viser det seg at grunnlag som ikke er gjort gjeldende, kan tilsi gjenåpning, er et spørsmål i hvilken utstrekning Gjenopptakelseskommisjonen
-skal være bundet av begjæringen om gjenåpning.
-Situasjonen kan for eksempel være at det er
-begjært gjenåpning på grunn av nytt bevis, samtidig som det på bakgrunn av saksdokumentene er
-spørsmål om hvorvidt domfelte var tilregnelig på
-handlingstidspunktet fordi vedkommende er
-ansett strafferettslig utilregnelig i en annen sak
-enn den som er begjært gjenåpnet.
-Etter gjeldende rett forutsetter et vedtak om
-gjenåpning som hovedregel begjæring fra en part,
-jf. § 398 første ledd. Begjæringen skal angi grunnlaget for gjenåpning, jf. § 394 annet ledd. I tillegg
-20
-
-Gjenopptakelseskommisjonen (01.02.13) s. 2–3.
-
-kan kommisjonen selv gjenåpne en avgjørelse
-som retter seg mot en avdød person, dersom det
-foreligger særlige grunner, jf. § 394 annet ledd.
-Kommisjonen skal innenfor rammen av det
-som skal behandles, sørge for at saken er så godt
-opplyst som mulig, herunder skal den etter
-omstendighetene innhente informasjon utover det
-som fremgår av begjæringen og sakens dokumenter, jf. § 398 første ledd. Ut fra loven og øvrige
-rettskilder er det ikke klart om kommisjonen kan
-gå utenfor grunnlaget for gjenåpning slik det er
-angitt i begjæringen. I praksis har kommisjonen
-håndtert slike problemstillinger fra sak til sak ut
-fra rimelighet.
-Når andre grunnlag enn det påberopte kan
-tilsi gjenåpning, må det være uproblematisk om
-kommisjonen tar kontakt med domfelte for å
-avklare om vedkommende ønsker grunnlaget vurdert. Besvarer vedkommende spørsmålet bekreftende, må det aktuelle grunnlaget anses å være
-omfattet av begjæringen. Spørsmålet om kommisjonens forhold til begjæringen kommer på spissen dersom domfelte gir uttrykk for ikke å ville
-påberope seg det alternative grunnlaget for gjenåpning – typisk utilregnelighet – eller dersom
-kommisjonen ikke oppnår kontakt med vedkommende.
-Om, og i tilfelle i hvilken utstrekning, kommisjonen bør kunne behandle og avgjøre saker på
-rettslige grunnlag som ligger utenfor begjæringen, beror på en avveining av hensynet til partenes autonomi på den ene side og hensynet til
-materielt riktige rettsavgjørelser på den annen.
-Ved avveiningen av disse kryssende hensynene er det grunn til å skille mellom gjenåpning til
-ugunst og gjenåpning til gunst for domfelte. En
-forutsetning for skillet er at det på forhånd lar seg
-gjøre å etablere en oppfatning om hvorvidt et
-grunnlag eller et bevis vil virke i den ene eller
-annen retning.
-For spørsmålet om gjenåpning til ugunst for
-domfelte oppstår problemstillingen først og
-fremst dersom kommisjonen kommer over nye
-bevis som ikke påtalemyndigheten kjenner til,
-men det kan også være at det er grunn til å gjenåpne saken på annet grunnlag, eller at kommisjonen selv oppdager eller får tips om at vedkommende er uriktig frifunnet for et annet forhold.
-Utgangspunktet bør være det alminnelige forholdet mellom påtalemyndighet og domstol.
-Straffeprosessen bygger på et anklageprinsipp,
-som i dag er uttrykt i straffeprosessloven § 63:
-«Domstolene trer bare i virksomhet etter begjæring fra en påtaleberettiget, og deres virksomhet
-opphører når begjæringen blir tatt tilbake.» Som
-
-[Side 471]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-det fremgår i punkt 8.3.1 anbefaler utvalget å
-styrke dette prinsippet.
-Til grunn for rollefordelingen ligger særlig
-ønsket om en maktfordeling og en oppfatning om
-at det er av stor betydning med uavhengighet for
-påtalemyndighet og domstol. Arbeidsfordelingen
-mellom påtalemyndighet og domstol – som innebærer at domstolene ikke skal ta initiativ til rettsforfølgning – er for spørsmålet om gjenåpning
-kommet til uttrykk i straffeprosessloven § 393 første ledd. Bestemmelsen fastslår at begjæring om
-gjenåpning til ugunst for domfelte må fremmes av
-påtalemyndigheten.
-Av anklageprinsippet følger også hvilket forhold det skal være mellom en tiltalebeslutning og
-en påfølgende dom. Straffeprosessloven § 38 første ledd fastslår: «Retten kan ikke gå utenfor det
-forhold tiltalen gjelder, men er ubundet av den
-nærmere beskrivelse med hensyn til tid, sted og
-andre omstendigheter.» Det følger av annet ledd
-at retten ikke er bundet av tiltalen eller de påstander som er fremsatt hva gjelder hvilket «straffebud som skal anvendes på forholdet».
-Utvalget ønsker dette prosessuelle utgangspunktet videreført og rendyrket, se punkt 17.6. I
-naturlig forlengelse følger at heller ikke Gjenopptakelseskommisjonen bør gjenåpne en sak til
-ugunst for domfelte i tilfeller der det ikke er
-begjært av påtalemyndigheten.
-Situasjonen er likevel en noe annen ved gjenåpning enn når påtalemyndigheten bringer en sak
-inn for domstolene etter tiltale, ved at det kan
-være på det rene at man står overfor en uriktig frifinnelse. Det kan hevdes at staten har en berettiget interesse i å rette opp avgjørelser som er til
-behandling for å sikre tilliten til rettsapparatet, og
-at kommisjonen derfor i det minste bør kunne
-varsle påtalemyndigheten om forhold som påtalemyndigheten kan ta stilling til om bør inngå i gjenåpningsgrunnlaget.
-Dersom kommisjonen tar selvstendig initiativ til
-å endre grunnlaget for gjenåpning, kombinert med
-en påfølgende aktivitet for å få opplyst en sak til
-domfeltes ugunst, vil det bryte med funksjons- og
-arbeidsfordelingen mellom kommisjonen og påtalemyndigheten og vil kunne gå på bekostning av uavhengigheten som følger med denne. Dette vil igjen
-kunne gå på bekostning av tilliten til kommisjonen.
-Det klare utgangspunkt og lovens system er ellers
-at påtalemyndigheten har hovedansvaret for å føre
-tilstrekkelig bevis for siktedes straffeskyld.
-Utvalget mener på denne bakgrunn at Gjenopptakelseskommisjonen ikke bør være prinsipielt avskåret fra å utvise aktivitet for å få rettet
-opp uriktige frifinnelser, men at det bør utvises
-
-469
-
-Kapittel 22
-
-stor varsomhet før kommisjonen spør påtalemyndigheten om avklaringer som innebærer å gå
-utenfor de grunner som er gjort gjeldende.
-Spørsmålet er så om man bør kunne gå utenfor de grunner som er gjort gjeldende, til gunst for
-domfelte.
-Samfunnet har en særlig interesse i korrekte
-domfellelser; en uriktig domfellelse er urettferdig
-og en ulykke for den som rammes, og riktige
-dommer er avgjørende for å ivareta tilliten til rettssystemet. Dette er blant annet kommet til uttrykk
-i lovverket ved at domstolene har ansvar for å påse
-at straffbarhetsbetingelsene foreligger, at det gjelder et særlig strengt beviskrav i straffesaker og i
-vilkårene for gjenåpning av straffesaker. Hensynet
-til tillit er ansett å være av særlig betydning for
-ordningen med gjenåpning, noe som klart kom til
-uttrykk ved opprettelsen av Gjenopptakelseskommisjonen og i etterkontrollen av kommisjonens
-virksomhet, se punkt 22.2.2.
-Den domfeltes interesser vil i alminnelighet
-være sammenfallende med samfunnets. Derfor
-må det antas at en ordning der gjenåpningsbehandlingen beror på og følger av domfeltes autonomi og private initiativ, langt på vei vil være tilstrekkelig for å få korrigert uriktige avgjørelser.
-Det klare utgangspunktet ved gjenåpning til gunst
-for den domfelte vil således også være at kommisjonens behandling holder seg innenfor rammene
-av begjæringen.
-Det forekommer imidlertid enkelte situasjoner
-der det ikke er sammenfall mellom domfeltes aktivitet eller ønsker og samfunnets interesse i å unngå
-uriktige domfellelser. Dette har blant annet vist seg
-i tilfeller der det har vært grunn til å stille spørsmål
-om hvorvidt domfelte var utilregnelig på handlingstiden. Også i andre tilfeller kan det tenkes at domfelte er interessert i å få gjenåpnet saken på et
-bestemt grunnlag. En særlig spenning oppstår dersom domfeltes forsvarer mener saken må gjenåpnes på et grunnlag som domfelte selv ikke
-ønsker, og problemstillingen har således en side til
-forsvarerens rolle for spørsmålet om gjenåpning.
-Det kan være gode grunner til at domfelte
-ikke ønsker en rettskraftig domfellelse gjenåpnet.
-Vedkommende kan ha ansett seg ferdig med
-saken og ønsker å gå videre i livet – for eksempel
-kan domfelte ha etablert seg i et miljø som ikke
-kjenner til vedkommendes fortid eller sykdomshistorie. Det vil for øvrig ikke alltid være
-klart hva som er domfeltes motiv for å begjære
-eller ikke begjære gjenåpning eller for å gjøre et
-bestemt grunnlag gjeldende. Videre kan det
-knytte seg usikkerhet til vedkommendes prosessuelle handleevne på tidspunktet for gjenåpning.
-
-[Side 472]
-
-470
-
-Kapittel 22
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-Utvalget mener samfunnets interesser i å
-unngå uriktige domfellelser bør gis prioritet. Når
-samfunnet først iverksetter sitt apparat for å gjenopprette urett, bør det ikke la være å gripe inn
-mot uriktige domfellelser som avdekkes.
-Det bør likevel bero på partenes autonomi om
-det i det hele tatt blir igangsatt en sak om gjenåpning; kommisjonen bør ikke selv kunne ta initiativ til å opprette en sak om gjenåpning. Men når
-det først er begjært gjenåpning, bør kommisjonen
-stå fritt til å vurdere grunnlag den kommer over,
-og som kan tilsi gjenåpning til domfeltes gunst. I
-forlengelsen bør også oppnevnte forsvarere innenfor det advokatetiske regelverket stå fritt til å
-argumentere for gjenåpning på andre grunnlag
-enn de domfelte har gjort gjeldende. Domfelte vil
-riktignok kunne trekke begjæringen, men det kan
-da være aktuelt at påtalemyndigheten ut fra sitt
-objektivitetsideal begjærer gjenåpning til vedkommendes gunst.
-Kommisjonen bør utvise varsomhet og tilbakeholdenhet med å gå utenfor gjenåpningsgrunnen
-som er gjort gjeldende. For det første fordi det vil
-være en sterk presumsjon for at det ikke hefter
-noe ved andre sider ved dommen, men også fordi
-domfelte kan være best tjent med at dommen blir
-stående, og samfunnets interesser i å få rettet opp
-avgjørelsen kan være begrenset. En slik praksis
-vil være å anse som utslag av den generelle tanken om rettskraftens gjennomslagskraft redegjort
-for i kapittel 22.3.1.
-22.3.7 Fornærmedes og etterlattes stilling
-Etter straffeprosessloven skal fornærmede og
-etterlatte underrettes om at det er fremsatt en
-begjæring om gjenåpning, med mindre begjæringen forkastes som grunnløs, jf. § 397. Gruppene
-har rett til dokumentinnsyn, til å uttale seg skriftlig, til å be om å avgi forklaring for kommisjonen,
-og det kan oppnevnes bistandsadvokat.
-Ordningen med bruk av bistandsadvokat ved
-gjenåpning ble blant annet begrunnet med at den
-fornærmede bør få uttale seg og ha rett til dokumentinnsyn, og at det kan være aktuelt med
-avhør. Ettersom kompetansen til å beslutte gjenåpning ble flyttet fra domstolene, som hadde kompetanse til slik oppnevning, og til kommisjonen,
-burde også denne gis adgang til oppnevning.
-Langt på vei synes stillingen fornærmede og
-etterlatte i dag har etter loven, å være basert på et
-syn om at spørsmålet om gjenåpning kommer i
-forlengelse av den opprinnelige straffesaksbehandlingen. Om retten til dokumentinnsyn heter
-det for eksempel i forarbeidene:
-
-«Retten til dokumentinnsyn henger nøye
-sammen med og er langt på vei en forutsetning
-for en reell kontradiksjon. Departementet er
-derfor enig med riksadvokaten i at både siktede
-og fornærmede bør gis rett til innsyn i sakens
-dokumenter, også etter at saken er avsluttet, jf.
-§§ 28, 242 og 264 som alle får anvendelse.»21
-Utvalget mener også at gjenåpningssaken kan
-ligge slik an at begrunnelsene for fornærmedes
-og etterlattes rettigheter gjør seg gjeldende for
-spørsmålet om gjenåpning. Herunder kan det
-være behov for oppnevning av bistandsadvokat i
-tråd med prinsippet i utkastet § 4-9, jf. § 4-5. Formentlig vil dette oftere gjelde fornærmede enn
-etterlatte, og da først og fremst i saker der fornærmedes forklaring står sentralt for spørsmålet om
-gjenåpning. Behovet vil også være til stede i saker
-der begjæringen om gjenåpning knytter seg til
-bevisbedømmelsen, og domfelte er død. I slike
-saker skal det avsies dom uten hovedforhandling,
-og dermed får kommisjonen i praksis det siste ord
-med hensyn til sakens utfall.
-Det påberopte grunnlaget for gjenåpning kan
-imidlertid også være av en slik art at det ikke er
-nødvendig å involvere fornærmede og etterlatte
-under behandlingen av gjenåpningsbegjæringen.
-Det gjelder særlig begjæringer begrunnet i forhold knyttet til lovanvendelsen og feil ved saksbehandlingen. Men også for en begjæring begrunnet i nye bevis kan det være unødvendig å involvere fornærmede og etterlatte, for eksempel dersom grunnlaget er at gjerningspersonen var utilregnelig på gjerningstidspunktet.
-Det å involvere fornærmede og etterlatte kan
-være uheldig for den det gjelder, ikke minst hvis
-vedkommende har lagt saken bak seg og gått
-videre i livet. I mange tilfeller, og kanskje særlig
-når forholdet ligger langt tilbake i tid, vil det være
-uhensiktsmessig å involvere fornærmede og
-etterlatte. Sentralt i denne sammenheng er at det
-ikke skal gjelde noen tidsfrist for å begjære gjenåpning, slik at behandlingen kan komme til å løfte
-frem forhold og opplevelser som ligger flere tiår
-tilbake i tid. Dertil kommer at gjenåpningsprosenten er lav; de fleste begjæringer om gjenåpning
-fører ikke frem.
-Utvalget mener det er grunn til å endre vilkårene for når fornærmede og etterlatte skal kontaktes, og hvilken rolle de skal ha under behandlingen av gjenåpningsbegjæringen. Utvalget foreslår
-at gruppene først skal informeres om begjærin21
-
-Ot.prp. nr. 70 (2000–2001) s. 55.
-
-[Side 473]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-gen, og bistandsadvokat eventuelt oppnevnes, når
-saken tilsier det.
-Lovforslaget bygger på en behovsbasert
-adgang til varsling og eventuell oppnevning av
-bistandsadvokat som ikke vil svekke fornærmedes og etterlattes stilling etter loven, men virke
-mer treffsikkert enn dagens ordning. Begrensningen vil ikke frata fornærmede og etterlatte
-nødvendige rettigheter; kontaktes de av kommisjonen, skal ordningen med bruk av bistandsadvokat gjelde. Dersom saken besluttes gjenåpnet, vil
-begge gruppene få sin ordinære straffeprosessuelle status. Hensynet til saksopplysning vil
-heller ikke svekkes. I den utstrekning fornærmede og etterlatte kan kaste lys over spørsmålet
-om gjenåpning, skal de kontaktes av kommisjonen. Det er grunn til å anta at behandlingen
-med dette vil bli mer effektiv og dermed virke
-kostnadsbesparende, og dessuten vil den skåne
-de berørte fra unødige belastninger.
-22.3.8 Domstolskontroll av kommisjonens
-avgjørelser
-Domstolskontroll av forvaltningens avgjørelser er
-en sentral rettssikkerhetsgaranti. Hovedregelen i
-forvaltningsretten er at domstolene fullt ut kan
-kontrollere forvaltningens generelle lovanvendelse, konkrete rettsanvendelse, bevisvurdering
-og saksbehandling. På enkelte områder er imidlertid kontrollen begrenset, nemlig der domstolene ikke har de beste forutsetninger for å
-foreta prøvingen.
-Domstolenes har i dag begrenset kompetanse
-til å prøve Gjenopptakelseskommisjonens avgjørelser ved gyldighetssøksmål, se punkt 22.2.3.
-Generelle tolkningsspørsmål kan prøves, men
-bevisbedømmelsen og den konkrete anvendelsen
-av bestemmelsene om gjenåpning er overlatt til
-kommisjonen. Rettstilstanden er begrunnet med
-at en inngående domstolskontroll vil åpne for
-omkamp om bevisbedømmelsen og være i strid
-med lovgivers forutsetninger.
-I Rt. 2012 s. 519 (storkammer) ble det konkludert med at domstolens prøving skulle være
-begrenset. Prøvingsomfanget ble beskrevet slik i
-avsnittene 73–77:
-«Etter dette går jeg mer konkret inn på hva
-domstolene kan prøve. Jeg holder meg da til de
-bestemmelsene som A påberoper som grunnlag for gjenåpning, nemlig straffeprosessloven
-§ 391 nr. 3 og § 392 annet ledd. For andre gjenåpningsgrunner kan prøvingskompetansen
-stille seg annerledes, jf. Rt. 2010 side 1170, som
-
-471
-
-Kapittel 22
-
-gjaldt gjenåpning etter § 392 første ledd. Dette
-går jeg imidlertid ikke nærmere inn på.
-At domstolene kan prøve kommisjonens
-generelle tolkning av § 391 nr. 3 og § 392
-annet ledd, må etter min mening være klart.
-Dersom domstolene først skal kunne foreta
-en overprøving av vedtakene, må den generelle lovtolkningen være i kjernen av denne
-prøvingen.
-Domstolene må derimot være avskåret fra å
-prøve kommisjonens bevisbedømmelse. De
-hensyn som bar etableringen av en egen kommisjon, har særlig relevans for bevisbedømmelsen. Kritikken mot praksis etter den tidligere ordningen rettet seg først og fremst mot
-denne siden. Gjennom den mulighet og plikt
-kommisjonen har til å utrede sakene på egen
-hånd, er den særlig godt rustet til å håndtere
-bevisbedømmelsen. Jeg anser det som uheldig
-og i strid med tanken bak etableringen av kommisjonen, om domstolene skulle kunne gjøres
-til en arena for omkamp om bevisene. Som det
-pekes på i proposisjonen side 64, ville en slik
-ordning lett ha redusert kommisjonens rolle til
-en utredningsenhet for domstolene.
-Etter min mening kan heller ikke den konkrete rettsanvendelsen prøves. De aktuelle
-bestemmelsene i straffeprosessloven gir til
-dels anvisning på meget skjønnsmessige vurderinger. Etter § 391 nr. 3 er det således avgjørende om en ny omstendighet eller et nytt
-bevis ‘synes egnet’ til å føre til frifinnelse, og
-etter § 392 annet ledd er det spørsmål om ‘særlige forhold’ gjør det tvilsomt om dommen er
-riktig. For å avgjøre om disse kriteriene er oppfylt, må kommisjonen nødvendigvis gå relativt
-grundig inn på de bevisene som ble ført i
-straffesaken. Jeg kan vanskelig se at domstolene skal kunne overprøve kommisjonens konkrete rettsanvendelse uten å gjøre det samme.
-En prøving av denne rettsanvendelsen vil derfor reelt sett lett åpne for en omkamp om bevisbedømmelsen – noe jeg som nevnt mener er i
-strid med lovgivers forutsetninger.
-Domstolene må derimot prøve om kommisjonen har fulgt grunnleggende saksbehandlingsregler, for eksempel at kravene til habilitet
-og kontradiksjon er oppfylt – noe som også er
-forutsatt av Høyesteretts ankeutvalg i Rt. 2008
-side 1571. Med mindre det er tale om grove og
-åpenbare feil, må imidlertid andre sider av
-kommisjonens saksbehandling falle utenfor
-prøvingsadgangen. Jeg finner grunn til særlig å
-nevne kommisjonens utredningsplikt. Utredningsplikten er helt sentral i kommisjonens
+Betydningen av slike synspunkter må ikke overdrives. Det er nok heller andre forhold som bidrar til at myndighetene i stor grad etterlever de regler som begrenser deres virke, og som verner enkeltmennesket mot overgrep under straffeforfølgningen. Muligheten for at staten må betale erstatning, spiller nok en beskjeden – om noen – rolle. Langt viktigere er tjenestemennenes trening og opplæring og forståelsen for sentrale straffeprosessuelle prinsipper. I den grad det er ønskelig å styrke regler som begrenser myndighetsmisbruk under straffeforfølgningen, og slik verne borgeren ytterligere mot overgrep, er alternative virkemidler som disiplinærreaksjoner og bevisforbud å foretrekke fremfor erstatningsregler med prevensjonsformål, se punkt 13.3.4.4.
+
+Statsfinansene belastes dessuten i så liten grad ved ordningen at det ikke er grunn til å regne med at den vil virke adferdsregulerende. Dagens utgifter til erstatningsordningen har de siste fem årene med tilgjengelige data (2010–2015) i snitt ligget på ca. 20 millioner kroner, med 2010 som det året med høyest utbetalinger (30,6 millioner kroner).[^1284] Utgiftene må sies å være relativt små gitt det iboende skadepotensialet som følger med offentlig straffeforfølgning.
+
+På denne bakgrunn mener utvalget at det ikke er grunn til å anta at en erstatningsordning vil påvirke politiets og påtalemyndighetens arbeid. Det er heller ikke grunn til å tro at den som straffeforfølges, innretter seg etter erstatningsordningen på en bestemt måte.[^1285] Derimot kan man ikke se bort fra at prevensjonssynspunkter kan gjøre seg sterkere gjeldende ved innretningen av enkelte sider av erstatningsordningen, for eksempel ansvaret overfor juridiske personer og reglene om skadelidtes medvirkning til straffeforfølgningen.[^1286]
+
+1.  **Betydningen av uskyldspresumsjonen**
+
+Uskyldspresumsjonen er et strafferettslig prinsipp som innebærer at en person skal anses som uskyldig i å ha begått en straffbar handling inntil det er bevist at vedkommende er skyldig. Se nærmere punkt 13.2.7 og 13.2.8. Dersom reglene om erstatning for forfølgning utformes på en måte som innebærer at det tas stilling til vedkommendes skyld, vil det kunne medføre at praksis kan komme i konflikt med uskyldspresumsjonen.
+
+Et sentralt formål med den siste revisjonen av reglene om erstatning fra staten i anledning straffeforfølgning var å styrke uskyldspresumsjonens gjennomslag. Sentralt var at reglene skulle sikre oppfyllelse av statens forpliktelser etter Den europeiske menneskerettskonvensjon (EMK) artikkel 6 nr. 2 og FN-konvensjonen om sivile og politiske rettigheter (SP) artikkel 14 nr. 2. Uskyldspresumsjonen er nå også inntatt i Grunnloven § 96 annet ledd. Det er holdepunkter for at adgangen til å utforme erstatningsordninger som innebærer at man stiller spørsmål ved skadelidtes uskyld, er noe videre enn tidligere antatt, herunder at det kan stilles krav om at skadelidte må sannsynliggjøre sin uskyld i straffesaker som har endt med henleggelse eller frifinnelse.[^1287]
+
+Utvalget mener uansett det er grunn til å holde fast ved idealet som uskyldspresumsjonen er utslag av ved avgjørelse av erstatningskrav, og at man derfor bør unngå å tematisere skyldspørsmålet nærmere etter avsluttet straffesaksbehandling.
+
+I forarbeidene til de gjeldende reglene i straffeprosessloven kapittel 31 ble det fremhevet to mulige og uheldige konsekvenser av å gi den strafferettslige uskyldspresumsjonen et sterkt gjennomslag også i erstatningsordningen, slik at det åpnes for at «reelt skyldige» kan få erstatning.
+
+For det første ble det uttrykt en bekymring for at «retten til erstatning kan bli utnyttet i organisert kriminalitet», og «at kriminalitetsbekjempelsen uthules ved at \[den\] gir mulighet til å finansiere fortsatt kriminalitet».[^1288] Grunnlaget for å anta stor grad av korrelasjon mellom «reell skyld» og at erstatningen går til kriminell virksomhet, er rimeligvis usikkert. Dertil kommer at også reelt uskyldige kan tenkes å bruke erstatningen på kriminalitet. Det må anses tvilsomt om det å begrense «reelt skyldiges» rett til erstatning på dette grunnlaget er et treffsikkert eller egnet middel i kriminalitetsbekjempelsen. Det kan legges til at det vil være fremmed for vår rettsorden om den som utsettes for skadevoldende handlinger, ikke skulle ha rett til erstatning for økonomisk tap av preventive grunner som knytter seg til den senere bruken av erstatningsutbetalingen.
+
+For det andre antok man i forarbeidene til dagens lov at det kunne svekke tilliten til rettspleien at reelt skyldige «kan få erstatning og på den måten få en gevinst av straffbare handlinger som de ikke blir dømt for».[^1289] Argumentet er et utslag av en gammel tanke som gjerne formuleres som at «ingen skal tjene på egen urett» (*commodum ex iniuria sua non habere debet*), som blant annet har gitt seg uttrykk i arveloven § 73 om avskjæring av arv til den som har forvoldt arvelaters død. Utvalget mener det vil være å strekke denne rettferdighetstanken for langt om den også skal føre til bortfall av erstatning for den som er frifunnet i en straffesak, fordi kravet til å bli ansett uskyldig etter frifinnelse bør stå særlig sterkt etter straffeprosessens egne regler som ordningen med erstatning etter straffeforfølgning er del av.
+
+Det ovennevnte tilsier at man bør holde fast ved utgangspunktet om at skadelidte kompenseres for tap og lidelse som staten har påført vedkommende, uten en nærmere tematisering av om vedkommende «tjener» på egen urett.
+
+I det lange løp er tilliten til rettspleien og statsforvaltningen antakelig bedre tjent med et system som utbetaler erstatning til personer som er «reelt» skyldige, enn et system som regelmessig stiller spørsmål ved om personer som er frifunnet, likevel er skyldige. Kraften i en strafferettslig frifinnelse vil formentlig svekkes dersom det for erstatningsspørsmålet stilles spørsmål ved eller legges til grunn at vedkommende har begått handlingen. Se også om ensrettingsprinsippet i punkt 25.2.
+
+Endelig nevnes at en erstatningsordning hvor skadelidte må sannsynliggjøre sin uskyld, blir utfordrende og problematisk å håndtere forsvarlig ved en slik administrativ prosess som vårt nåværende behandlingssystem bygger på, og som har vist seg å være effektiv.
+
+1.  **Betydningen av behandlingsform**
+
+Et viktig mål for en ordning om erstatning etter straffeforfølgning må være at den kan administreres på en effektiv måte. Dagens ordning innebærer at erstatningskravene i første omgang behandles av forvaltningen, ved Statens sivilrettsforvaltning. Behandlingen av kravene har vist seg effektiv og har bidratt til en hensiktsmessig avlasting av domstolene.
+
+Erstatningsordningen bør gis en utforming som ivaretar og forbedrer denne innordningen av saksbehandlingen. Dette innebærer at de *prosessuelle reglene* må gis en utforming som sikrer en betryggende, men effektiv behandling. Saksbehandlingen er i dag i liten grad gjenstand for uttrykkelig regulering. God behandling i første instans med klare rammer for saksbehandlingen kan bidra til å redusere behovet for domstolsbehandling og styrke tilliten til hvordan kravene behandles. Påtalemyndigheten er gitt en rolle i saksbehandlingen men det er noe uklart om dette gir verdifulle bidrag, og kanskje heller forsinker prosessen. Disse spørsmålene behandles nærmere i punkt 27.5.
+
+Hvis den administrative førsteinstansbehandlingen skal ivareta sitt formål, kan det også være nødvendig å gi de *materielle reglene* en bestemt utforming. De materielle reglene bør utformes med sikte på at erstatningskravene skal få en tilfredsstillende avklaring ved den administrative behandlingen, som verken kan stille krav til muntlighet eller bevisumiddelbarhet. Herunder bør reglene rettsteknisk sett være enkle og begrense rommet for skjønnsutøvelse for å sikre rettssikkerhet og likebehandling. Dette vil også kunne bidra til at behandlingen i første instans blir enda mer effektiv, og kan dessuten redusere behovet for behandling i domstolene.
+
+1.  **Betydningen av de løsninger som er valgt i erstatningsretten, og hensynet til sammenheng i rettssystemet**
+
+Spørsmålet er hvilken betydning erstatningsrettens alminnelige løsninger bør ha for hvordan ordningen med erstatning etter forfølgning utformes. Løsningene i erstatningsretten er et resultat av lang tids erfaringer og må i alminnelighet antas å ha gode grunner for seg og reflektere sentrale rettslige verdier i samfunnet vårt.
+
+Et viktig hensyn for alt lovgivningsarbeid er at det velges løsninger som harmonerer godt med verdier og synspunkter som ligger til grunn for likeartede regler i rettssystemet, med mindre det kan utpekes særlige hensyn som tilsier avvikende løsninger. Gjør man ikke det, kan systemet bli usammenhengende, med løsninger som er vanskelige å begrunne. Det kan igjen gi konkrete, uheldige utslag når reglene skal praktiseres.[^1290]
+
+For ordningen med erstatning i anledning straffeforfølgning er det i denne sammenheng sentralt at erstatningsordningen verken tar eller kan ta sikte på å regulere retten til erstatning uttømmende. Det taler for at reglenes utforming bør harmonere godt med de alminnelige erstatningsrettslige løsningene.
+
+Etter den gjeldende erstatningsordningen kan det i hvert fall gis tre eksempler på reguleringer som kan bidra til at krav i anledning straffeforfølgning heller behandles etter alminnelige erstatningsrettslige regler: For det første er retten til erstatning og oppreisning avgrenset ut fra straffeprosessuelle begrepsdannelser ved at det er «siktede» i straffeprosessloven §§ 444, 445 og 447 som er berettiget jf. § 82. Ut fra en erstatningsrettslig betraktning må det være likegyldig om skadelidtes straffeprosessuelle status var «mistenkt» eller «siktet» da skadeforvoldelsen skjedde, se punkt 27.3.1. For det andre er utformingen og praktiseringen av avkortingsregelen i straffeprosessloven § 446 langt strengere mot skadelidte enn det som ville være tilfellet etter skadeserstatningsloven § 5-1, se punkt 27.4. For det tredje er retten til erstatning for tredjepersoner («andre enn siktede») etter straffeprosessloven § 448 begrenset til skade som er påført ved bestemte straffeprosessuelle tvangsmidler eller andre etterforskingsskritt.
+
+En restriktiv utforming av vilkårene etter erstatningsordningen kan på den ene siden gjøre det mer attraktivt å fremme erstatningskrav på alminnelig grunnlag. Ressurssterke personer må antas å ville søke slike muligheter, for eksempel hvis det innføres en øvre beløpsgrense. På den annen side kan ressurssvake personer, som bare har krav etter de alminnelige reglene, helt gå glipp av retten til erstatning på grunn av byrdene ved å gå til sak.
+
+En innretning av erstatningsordningen som avviker fra alminnelig erstatningsrettslig tenkemåte, vil altså som følge av ulik tilgang på ressurser kunne medføre rettsulikhet og ujevn og lite effektiv realisering av de materielle erstatningsreglenes formål. Selv om det er usikkert om og hvilken grad slike virkninger vil inntre, bør slike åpenbart utilsiktede konsekvenser av reglene motvirkes ved å utforme erstatningsordningen med et blikk for de løsninger som er lagt til grunn i erstatningsretten ellers.
+
+Dette utgangspunktet må imidlertid fravikes når forhold tilsier en særskilt innretning av ordningen for erstatning etter straffeforfølgning, som ikke bør gjelde for den alminnelige erstatningsretten. Et eksempel er behandlingen av krav fra juridiske personer, se punkt 27.3.2.
+
+1.  **Kravshavere**
+
+    1.  **Mistenkte**
+
+Etter straffeprosessloven er ordningen med erstatning etter straffeforfølgning forbeholdt den som har fått status som siktet etter straffeprosessloven § 82, jf. §§ 444, 445 og 447. Noen begrunnelse for å begrense ordningen til denne gruppen er ikke gitt i forarbeidene til loven.[^1291]
+
+Utvalget mener det ikke er grunn til å begrense reglene om erstatning til personer som har vært siktet. Dersom en mistenkt har blitt slik rammet av forfølgningen at vilkårene for erstatning i bestemmelsene er oppfylt, er det vanskelig å se hvorfor det ikke skulle kunne kreves kompensasjon for tapet. En annen sak er at man i alminnelighet vil ha vært siktet. Det foreslås på denne bakgrunn at erstatningsordningen utvides til å omfatte alle som har vært mistenkt i en straffesak.
+
+Det følger av utvalgets overordnede lovtekniske overveielser i punkt 9.2 at uttrykket «siktede» erstattes med «mistenkte». Vedkommende vil imidlertid ikke lenger være mistenkt på det tidspunktet erstatningskravet fremmes, i så fall vil kravet stort sett ikke kunne tas til følge på grunn av krav om at saken må være avsluttet. Da det ikke finnes andre uttrykk som er korte og konsise, og det heller ikke er uvanlig i andre lover å benytte en persons tidligere status for å angi subjektet for reguleringen, anser utvalget dette uansett ikke som en avgjørende innvending mot å benytte ordet «mistenkte» i lovteksten.
+
+1.  **Juridiske personer og erstatning i anledning straffeforfølgning**
+
+Ved utformingen av dagens ordning om erstatning i anledning straffeforfølgning er det situasjonen for privatpersoner lovgiver har hatt for øye. Situasjonen for juridiske personer er ikke tematisert i lovforarbeidene som ledet frem til ordningen.
+
+Det finnes juridiske personer med virksomhet som ut fra begrunnelsene for erstatningsordningen bør omfattes av denne, for eksempel en liten håndverksbedrift med et mindre antall aksjonærer som også er aktive i selskapets daglige drift. Særlig hensynet til å pulverisere tapet som en statlig driftsomkostning kan i en slik situasjon gjøre seg gjeldende, men det kan også ligge en viss form for reparasjon for bedriften og dens omdømme utad i at staten tar ansvaret.
+
+Samtidig er det visse særtrekk ved selskaper og sammenslutninger som tilsier at erstatningsordningen for personer ikke kan benyttes fullt ut for disse. Et første spørsmål er hvilke juridiske personer som bør falle inn under den erstatningsrettslige særordningen med objektivt ansvar: Når bidrar dette ansvarsgrunnlaget til en rimelig risikofordeling for erstatningskrav som fremmes av juridiske personer? Videre er det spørsmål om når det er hensiktsmessig å la juridiske personer omfattes av den forenklede behandlingsformen og de gunstige reglene om sakskostnader.
+
+Sentralt her står skillet mellom fysiske og juridiske subjekter. Det menneskelige behov for gjenopprettelse etter straffeforfølgning er av en helt annen karakter enn et forretningsmessig begrunnet behov for gjenreisning av tapt omdømme. Som det er sagt i andre sammenhenger, har selskapet «no body to be kicked or soul to be damned». Straffeforfølgningen rammer dessuten den alminnelige borger økonomisk på en ganske annen måte enn det som er situasjonen for et større selskap.
+
+Ordningen bør for det første avgrenses mot tilfeller hvor det vil virke støtende om fellesskapet på objektivt grunnlag skulle bære byrdene ved en forfølgning som ikke fører frem. Et objektivt erstatningsansvar for staten overfor enhver juridisk person synes ikke å ivareta hensynet til en rimelig avveining mellom samfunnets straffeforfølgningsinteresse på dette området og foretakets interesse i å holdes skadesløs. Mange foretak, i hvert fall foretak av en viss størrelse, har god evne til selv å bære det tap som en straffeforfølgning har påført dem. Behovet for å pulverisere tapet over skatteseddelen er da også tilsvarende mindre. Og hvis foretaket har vært utsatt for misligheter, vil erstatningskrav uansett kunne gjøres gjeldende på grunnlag av alminnelige erstatningsregler. De fleste foretak vil ha ressurser til å forfølge et slikt krav. Store erstatningssummer med utgangspunkt i et objektivt ansvar for staten virker i slike tilfeller derfor lite rimelig.
+
+Erstatningsordningen bør dessuten avgrenses mot saker som reiser vanskelige utmålingsspørsmål, for eksempel krav hvor det er nødvendig med særlig kyndighet for å vurdere tapspostene, og det samtidig kan bli tale om at staten må betale meget store pengesummer. Det er ikke hensiktsmessig eller forsvarlig å vurdere erstatningsspørsmålet i slike saker innenfor rammene av en forenklet forvaltningsbehandling. Dersom det skulle legges til rette for også å behandle slike krav, vil det som er vunnet gjennom behandlingsformen, lett gå tapt. I forlengelsen av dette kommer at det objektive ansvaret staten påtar seg, i en viss utstrekning finner sin begrunnelse i rettstekniske hensyn, det vil si at vurderingstemaene som reglene gir opphav til, skal være håndterlige for Statens sivilrettsforvaltning og legge til rette for en effektiv saksbehandling.
+
+En regel om erstatning i anledning straffeforfølgning for juridiske personer kan ikke utformes absolutt, men må åpne for et visst skjønn som bør utøves og utvikles i et samspill mellom Statens sivilrettsforvaltning og domstolene. Det følger av drøftelsen at en erstatningsordning overfor juridiske personer på enkelte områder vil bli utfordrende å håndheve, og den nærmere grensedragningen av hvilke juridiske personer som faller henholdsvis innenfor og utenfor erstatningsordningen, må avklares gjennom praksis.
+
+I utkastet § 45-6 første ledd er det inntatt en momentliste som det skal ses hen til. Sentralt for om en juridisk person skal falle inn under ordningen, er omsetning og hvor mange som deltar i virksomheten. En liten familiebedrift med moderat inntjening bør omfattes, ettersom det vil være nærliggende å identifisere enkeltpersonene med det foretaket som forfølgningen retter seg mot. Et selskap med mange ansatte bør som et utgangspunkt ikke være omfattet av erstatningsordningen. Men også mindre bedrifter med komplisert virksomhet og stor omsetning, for eksempel innen valuta- eller aksjehandel, bør falle utenfor.
+
+1.  **Nedsettelse av erstatning og oppreisning som følge av skadelidtes medvirkning mv.**
+
+    1.  **Oversikt**
+
+Etter gjeldende rett kreves det ikke at myndighetene har begått bestemte feil, eller at skadelidte sannsynliggjør at vedkommende ikke har foretatt den handling som dannet grunnlag for mistanken. En slik ordning nødvendiggjør visse begrensninger dersom statens ansvar ikke skal favne videre enn det som er rimelig. I straffeprosessloven § 446 er det derfor tatt inn en regel om mulighet for nedsettelse og bortfall av erstatning når mistenkte har medvirket til forfølgningen mot seg:
+
+«Erstatningen etter §§ 444 til 445 skal settes ned eller falle bort dersom siktede uten rimelig grunn
+
+1.  har benyttet sin rett til å nekte å forklare seg eller har motvirket opplysning av saken,
+
+2.  har gitt foranledning til etterforskningstiltak eller den fellende dommen, eller
+
+3.  har latt være etter evne å begrense skaden av forfølgningen eller dommen.
+
+Erstatningen kan ikke settes ned eller falle bort med den begrunnelse at det er mistanke om at siktede har utvist straffeskyld.
+
+Erstatningen etter §§ 444 til 445 kan settes ned eller falle bort i saker der forfølgningen er innstilt etter § 72 første ledd annet punktum annet alternativ.»
+
+Bestemmelsen utpeker bestemte typer av adferd og påbyr nedsettelse av erstatningen dersom skadelidte uten «rimelig grunn» har handlet som beskrevet, uten å kreve verken skyld eller årsakssammenheng mellom medvirkningshandlingen og den skade som ble påført ved forfølgningen. I forarbeidene til bestemmelsen er det imidlertid forutsatt at skyld skal være et moment ved vurderingen av om skadelidte hadde «rimelig grunn» til å opptre slik vedkommende gjorde.[^1292]
+
+Nedsettelse av erstatning og oppreisning som følge av skadelidtes medvirkning aktualiserer en rekke spørsmål: Om det bør kreves at skadelidte har handlet med skyld, drøftes i punkt 27.4.2; om det bør kreves årsakssammenheng mellom medvirkningshandlingen og skaden, drøftes i punkt 27.4.3; om mistenktes taushet bør føre til nedsettelse eller bortfall av erstatning, og hvordan det eventuelt bør komme til uttrykk i loven, drøftes i punkt 27.4.4; om det bør gjelde særlige regler for medvirkning for psykisk avvikende personer og utilregnelige lovbrytere, drøftes i punkt 27.4.5; om det bør gjelde særregler når straffeforfølgningen innstilles, fordi en begjæring om å nekte innsyn eller avskjæring av bevis for å hindre spredning av sensitiv informasjon ikke etterkommes, drøftes i punkt 27.4.6.
+
+1.  **Bør medvirkningsregelen inneholde et vilkår om skyld?**
+
+Utformingen av straffeprosesslovens medvirkningsbestemmelse utgjør et markant avvik fra den alminnelige medvirkningsregelen i skadeserstatningsloven § 5-1 første punktum:
+
+«Dersom den direkte skadelidte eller erstatningssøkeren har medvirket til skaden ved egen skyld, kan erstatningen settes ned eller falle bort for så vidt det er rimelig når en tar hensyn til atferden, og dens betydning for at skaden skjedde, omfanget av skaden og forholdene ellers.»
+
+Det er forskjell på en medvirkningsregel som denne, som oppstiller skyld som et ubetinget vilkår for erstatningsnedsettelse, og straffeprosessloven § 446, som legger opp til at dette skal være ett av flere momenter i en bred og åpen vurdering av «hvem som er nærmest til å bære den økonomiske risikoen for strafforfølgningen i det konkrete tilfellet».[^1293]
+
+Et slikt avvik fra alminnelige erstatningsrettslige regler krever en særskilt begrunnelse, se punkt 27.2.5. I forarbeidene til straffeprosessloven § 446 er begrunnelsen begrenset til denne uttalelsen:
+
+«Departementet foreslår ikke at det settes som vilkår for nedsetting av erstatningen at siktede har utvist skyld (uaktsomhet eller forsett) mht. fremkallingen av strafforfølgningen eller domfellelsen. \[…\] Forslaget skiller seg \[…\] fra skadeserstatningsloven § 5-1 som stiller krav om at skadelidte har medvirket til skaden ‘ved egen skyld’. En siktet som for eksempel uberettiget blir strafforfulgt for drap på noen som han gjentatte ganger har truet med å drepe, kan etter forslaget nektes erstatning for strafforfølgningen, selv om han ikke kunne ha forutsett at hans atferd skulle resultere i en drapssiktelse.»[^1294]
+
+Dette resonnementet kan vanskelig begrunne særregelen i straffeprosessloven § 446, ettersom eksempelet som gis, trolig ville ført til erstatningsnedsettelse også etter skadeserstatningsloven § 5-1.
+
+Avgrensningen av skyldbegrepet i § 5-1 følger som et utgangspunkt de samme prinsipper som for alminnelig erstatningsbetingende uaktsomhet, selv om vurderingen foretas i en annen sammenheng og med et annet mål for øye. Det kreves ikke at adferden kan karakteriseres som rettsstridig: «\[Det\] avgjørende er om skadelidtes opptreden er av en slik karakter at den bør kunne få betydning for hans erstatningskrav».[^1295]
+
+Et sentralt element i den alminnelige uaktsomhetsvurderingen er sannsynligheten for at handlingen ville føre til skade. Det er imidlertid ikke krav om at den konkrete skaden er en nærliggende følge av handlingen, og det følger av rettspraksis at et uventet hendelsesforløp normalt ikke har betydning for aktsomhetsvurderingen hvis den generelle risikoen først var synbar.[^1296] Også i erstatningsrettslitteraturen er det lagt til grunn at det er skaderisikoen i sin alminnelighet som er av interesse for vurderingen, ikke om skadevolder kunne forutse at handlingen skulle resultere i den aktuelle skadeforvoldelsen:
+
+«Det kreves altså ikke noen ‘konkret’ påregnelighet, i den betydning at nettopp den skade som konkret har inntrådt, skulle ha stått som en nærliggende følge av handlingen. Det avgjørende er at gjerningsmannen burde innsett at handlingen innebar en fare for at skader *kunne* oppstå.»[^1297]
+
+Skyldkravet i skadeserstatningsloven § 5-1 kan da heller ikke innebære et krav om at den skadelidte kunne forutse at medvirkningshandlingen skulle resultere i den aktuelle og konkrete skaden som oppstod. Spørsmålet er snarere om den alminnelige skaderisikoen var synbar, og om skadelidte burde handlet på en annen måte som ville forhindret eller begrenset skaden.
+
+På denne bakgrunn er utvalget ikke overbevist av dagens begrunnelse for ikke å ha skyld som et vilkår for erstatningsnedsettelse i straffeprosessloven § 446.
+
+En objektiv medvirkningsregel må eventuelt begrunnes langs andre linjer. Et hensyn som ligger utenfor tradisjonelle medvirkningsbetraktninger, men som er trukket frem av departementet som et alminnelig hensyn ved utformingen av erstatningsordningen, er ønsket om at personer som er «reelt skyldige» i det underliggende forholdet, ikke skal få erstatning selv om forfølgningen ikke ender med straffansvar:
+
+«Det vil kunne svekke tilliten til rettspleien om disse kan få erstatning og på den måten få en gevinst av straffbare handlinger som de ikke blir dømt for. \[…\] Man må unngå den situasjonen at kriminalitetsbekjempelsen uthules ved at erstatningen gir \[reelt skyldige\] mulighet til å finansiere fortsatt kriminalitet eller ved at den fører til overforsiktighet fra politiet og påtalemyndighetens side for å unngå at staten pådrar seg erstatningsansvar.»[^1298]
+
+En objektiv medvirkningsregel vil kunne føre til at «reelt skyldige» i mindre grad vil få erstatning. Men en slik virkning inntrer ikke fordi disse reelt sett er skyldige, men fordi færre personer vil få erstatning i det hele tatt. Også de som er reelt uskyldige, vil omfattes; en medvirkningsbestemmelse uten skyldvilkår treffer altså langt flere enn dem man søker å ramme, også dem man ønsker inn under ordningen. En avkortingsregel som ikke tar hensyn til skyld hos medvirkeren, er derfor *for det første* en urettferdig regel fordi den kan ramme uskyldige.
+
+*For det andre* er en slik regel uhensiktsmessig for lovformålet fordi det er usikkert om den reduserer erstatningsutbetalingene til «reelt skyldige» i større grad enn den vil frarøve de uskyldige og reelt berettigede krav på erstatning. Denne usikkerheten knytter seg blant annet til at «reell skyld» verken kan eller bør iakttas når regelen skal praktiseres, jf. straffeprosessloven § 446 annet ledd og ovenfor i punkt 27.2.3.
+
+*For det tredje*, og som nevnt i punkt 27.2.3, er det heller ikke uproblematisk å tillegge «reell skyld» betydning for den nærmere innretningen av en ordning med objektivt erstatningsansvar. Hvis man ved utformingen av reglene legger stor vekt på hensynet til å unngå at reelt skyldige mottar erstatning, vil dette lett stå i et spenningsforhold til det overordnede rettspolitiske valget av ansvarsmodell; erstatning uten hensyn til skyld. Samtidig vil det kunne være vanskelig å forhindre at dette spenningsforholdet kommer til overflaten når reglene skal praktiseres. Hvis det danner seg et inntrykk av at lovgiver taler med to tunger, kan dette svekke tilliten til rettspleien og erstatningsordningen. Etter utvalgets syn ville dette være uheldig, og det bør motvirkes.
+
+Bevismessige forhold kan anføres til fordel for en objektiv medvirkningsregel ved at man med en slik regel unngår usikkerhet som følge av kompliserende vurderings- og bevistemaer. I forlengelsen kan det vises til at den administrative skriftlige behandlingsformen ikke er egnet for å vurdere den forfulgtes skyld i forfølgningen, og at medvirkningsregelen bør ta høyde for dette for å sikre en effektiv og forsvarlig behandling.
+
+Men behandlingsformen kan vel så gjerne sies å tale mot en objektiv avkortingsregel som den i straffeprosessloven § 446. Hensynene til rettssikkerhet og likebehandling taler mot å la avkortingen følge av en regel med så åpen avveiningsstruktur, når behandlingen er administrativ utenfor domstolene. Og når det er gitt rett til domstolsbehandling med gunstige sakskostnadsregler til fordel for en administrativ klageordning er det vanskelig å se argumenter mot at medvirkningsspørsmålet bør løses etter en regel i tråd med alminnelige erstatningsrettslige prinsipper.
+
+Det kan legges til at man for andre erstatningsordninger som skal ivareta interessene til ofre for samfunnsgagnlig virksomhet, ikke benytter medvirkningsregler som avviker så sterkt fra skadeserstatningsloven § 5-1 som det straffeprosessloven § 446 gjør. Snarere er skyld et vilkår for avkorting etter medvirkning, og det skal ses bort fra medvirkning når «skadelidaren kan leggjast berre lite til last», se for eksempel bilansvarsloven § 7 og pasientskadeloven § 4.
+
+Det kan også nevnes at enkelte har lagt til grunn at medvirkningsregelen og dens begrunnelse har slektskap med den såkalte læren om «aksept av risiko».[^1299] Enkelte passasjer i forarbeidene til medvirkningsbestemmelsen som gir uttrykk for at bestemmelsen er utslag av en «risikoavveining», kan kanskje lede tanken i denne retning.[^1300]
+
+Læren om «aksept av risiko» kan komme til anvendelse overfor skadelidte som på forhånd kunne regne med muligheten for skade og kunne holde seg unna denne faren, men som med åpne øyne likevel valgte å utsette seg for fare. Etter en helhetsvurdering av om skadelidte har akseptert risikoen, og hvor langt aksepten rekker, vil rettsvirkningen av lærens anvendelse være at skadevolders handling, uansett ansvarsgrunnlag, ikke anses ansvarsbetingende. Denne absolutte virkningen står i motsetning til hva som nettopp gjelder etter regler om skadelidtes medvirkning, som åpner for erstatningsnedsettelse etter en bred vurdering av skadelidtes skyld og hva som er rimelig.[^1301]
+
+«Aksept av risiko»-synspunkter kan for øvrig verken forklare eller begrunne avkortingsregelen i straffeprosessloven § 446. Læren hviler på et usikkert rettskildemessig grunnlag, og dens rettspolitiske begrunnelse gjør seg i hovedsak gjeldende på livsområder som har liten eller ingen overføringsverdi til tap som skriver seg fra skade som er påført ved straffeforfølgning. Som Hagstrøm og Stenvik fremholder, må «\[e\]n grunnleggende betraktning \[…\] være at regelen om aksept av risiko anvendes på livsområder og i situasjoner hvor erstatningsreglene ikke har noen berettiget plass, men tvert imot kan virke hemmende på aktiviteter som er positive og ønskelige sosialt og samfunnsmessig, slik som sport og fritidsaktiviteter».[^1302] Risikobetraktninger ligger nok her som ellers i erstatningsretten under som en viktig del av begrunnelsen for regelverkets innretning. Men den erstatningsrettslige læren om aksept av risiko skiller seg altså på viktige punkter fra medvirkningsregelen og bestemmelsen i straffeprosessloven § 446.
+
+Etter dette er det vanskelig å forsvare straffeprosessloven § 446 på dette punkt. Verken argumentet i forarbeidene eller andre argumenter tilsier en løsning som avviker så sterkt fra den alminnelige medvirkningsregelen i skadeserstatningsloven § 5-1. Derfor bør skyld i medvirkningshandlingen være et ubetinget vilkår før det kan komme på tale å redusere skadelidtes erstatningskrav, se også punkt 27.2.5.
+
+1.  **Bør medvirkningsregelen inneholde et krav om årsak mellom medvirkningshandlingen og skaden?**
+
+Straffeprosessloven § 446 krever ikke for avkorting at det er årsakssammenheng mellom medvirkningshandlingen og skaden. Et slikt krav følger av skadeserstatningsloven § 5-1 og for så vidt av en naturlig forståelse av hva uttrykket «medvirkning» betyr i denne sammenhengen.
+
+I ytterste konsekvens kan fraværet av krav om årsakssammenheng få regelen og praksis under den til å fremstå som en sanksjon for uønsket opptreden fremfor et uttrykk for hvem det er rimelig at bærer tapet når skaden kan tilbakeføres til forhold på både skadevolder og skadelidtes side.
+
+Å se bort fra kravet til årsakssammenheng måtte eventuelt begrunnes i bevismessige hensyn ved at årsakssammenheng vil være vanskelig å oppnå tilstrekkelig sikkerhet om i en administrativ behandling. Tanken ville da være at adferd beskrevet i straffeprosessloven § 446 første ledd bokstavene a til c gir en presumsjon for årsakssammenheng, og at et uttrykkelig krav til årsakssammenheng i ordlyden vil svekke medvirkningsregelen praktiske betydning. En slik bekymring er det neppe grunnlag for.
+
+Spørsmålet er ikke omtalt i departementets proposisjon som ligger til grunn for dagens regel.[^1303] Utvalget finner det klart at skadelidtes forhold må stå i sammenheng med tapet før det kan bli tale om bortfall eller nedsettelse av erstatning.
+
+1.  **Forholdet mellom medvirkning til straffeforfølgningen og mistenktes vern mot selvinkriminering**
+
+Medvirkningsbestemmelsen åpner i dag eksplisitt for nedsettelse eller bortfall av erstatning når den mistenkte «uten rimelig grunn» har benyttet seg av retten til å forholde seg taus, jf. straffeprosessloven § 446 første ledd bokstav a.
+
+Det har vært reist spørsmål om bestemmelsen krenker EMK artikkel 6 ved at bokstav a åpner for nedsettelse ved utøvelse av vernet mot selvinkriminering. I juridisk teori har Jebens uten nærmere begrunnelse tatt til orde for at bestemmelsen neppe har noe anvendelsesområde som følge av selvinkrimineringsvernet etter EMK artikkel 6 nr. 1.[^1304]
+
+Dette er nok ikke riktig.[^1305] Erstatningsordningen ligger utenfor spørsmålet om straffskyld, avkorting etter § 446 første ledd bokstav a er ikke å forstå som en direkte sanksjon av mistenktes taushet, og uansett er det en viss åpning etter EMK for å trekke slutninger fra mistenktes taushet hva gjelder skyldspørsmålet.[^1306]
+
+Uansett er det grunn til å vurdere utformingen av avkortingsregelen i lys av de hensyn som søkes ivaretatt ved vernet mot tvungen selvinkriminering. Begrunnelsen for selvinkrimineringsvernet er sammensatt, se nærmere punkt 9.3.3. Sentralt står hensynet til borgernes integritet og vern mot overgrep fra myndighetene.[^1307]
+
+Umiddelbart kan det virke lite ønskelig å begrense den skadelidtes erstatning fordi vedkommende har benyttet seg av en grunnleggende straffeprosessuell rettighet. Om erstatningsnedsettelse ikke er en oppfordring til å avgi forklaring eller en sanksjon for å forholde seg taus, er det i hvert fall en merkbar følge for den straffeforfulgte.
+
+På den annen side ligger erstatningsordningen på siden av straffeforforfølgningen, som på dette stadiet har fått sin endelige avklaring. Og i lys av dagens medvirkningsregels uttalte formål om å hindre at personer som reelt sett er skyldige, får erstatning, se punkt 27.2.3, er det ikke overraskende at loven angir utøvelse av taushetsretten som ett av flere grunnlag for erstatningsnedsettelse. Som en gjennomsnittsbetraktning er det nok så at det fortrinnsvis er skyldige som gjør bruk av retten til ikke å forklare seg. Men samtidig kan en uskyldig mistenkt ha gode grunner til å forholde seg taus, for eksempel hvis vedkommende ikke vil forklare seg fordi han eller hun faktisk ikke husker hva som skjedde, eller har lett for å snakke seg inn i ansvar som det reelt sett ikke er grunnlag for, som følge av begrenset evne til å uttrykke seg eller svake intellektuelle evner. I slike situasjoner er det urimelig å avkorte erstatningen ut fra en gjennomsnittsbetraktning om at den som tier, egentlig er skyldig.
+
+Uansett kan det hevdes at det ikke er særlig problematisk å knytte rettsvirkninger til mistenktes utøvelse av sin straffeprosessuelle rett til å forholde seg taus, fordi erstatningsreglene ligger fjernt fra situasjonen hvor det er spørsmål om å utøve retten. Det er liten grunn til å tro at mistenke har kunnskap om eller lar seg motivere av avkortingsregelen for erstatning etter straffeforfølgning mens straffeforfølgningen pågår, og spørsmålet om hvorvidt vedkommende skal forholde seg taus, melder seg.[^1308]
+
+Dersom mistenkte kunne hindret eller begrenset straffeforfølgningen, men gjennom sin taushet har unnlatt å gjøre dette, vil kostnadene etter omstendighetene kunne ligge utenfor hva det er grunn til å se på som påregnelige straffeprosessuelle driftskostnader for samfunnet. Det vil for eksempel være rimelig å avkorte erstatning til en person som har vært pågrepet og varetektsfengslet fordi bevisene uriktig pekte mot vedkommende, dersom vedkommende uten noen risiko for seg eller andre kunne oppklart misforståelsen.
+
+I den enkelte sak vil det imidlertid lett bli utfordrende, om ikke umulig, å ta stilling til om vedkommende hadde «rimelig grunn» til å forholde seg taus. Det er fordi rettighetens karakter åpner for mange og sammensatte grunner til ikke å forklare seg. Uten nærmere presisering er det uklart hva som skal anses som en rimelig grunn til å benytte seg av taushetsretten. Og når det er brakt på det rene, vil det ofte knytte seg usikkerhet til om den erstatningssøkende faktisk hadde slike grunner.
+
+Disse to utfordringene forsterkes ytterligere ved at grunnen til at vedkommende forholdt seg taus, fremdeles kan gjøre seg gjeldende på tidspunktet for erstatningsoppgjøret, slik tilfellet for eksempel er dersom grunnen til at vedkommende unnlater å forklare seg, er et ønske om ikke å trekke inn en nærstående. Dette ble også betont og vektlagt av justiskomiteens mindretall ved den forrige lovrevisjonen.[^1309]
+
+Rettstekniske hensyn og ønsket om å unngå risiko for uriktige avgjørelser taler derfor klart mot en regel som går ut på at erstatningen skal avkortes når noen uten rimelig grunn har benyttet sin rett til å forholde seg taus.
+
+Det er, samlet sett, likevel grunn til å videreføre ordningen med avkorting på grunn av taushet. Avgjørende for dette standpunktet er at det vil oppstå situasjoner hvor det klart lar seg fastslå at forfølgningen kunne vært unngått, og det vil være urimelig og gi et uheldig signal dersom staten utbetaler erstatning til den som forårsaket at så ikke skjedde. Avkortingsregelen bør forbeholdes saker hvor det vil være klart urimelig om staten lastes for kostnadene ved straffeforfølgningen, og som følge av den usikkerhet som knytter seg til vurderingstemaet, bør man gå meget varsomt frem før erstatningen avkortes på dette grunnlag alene.
+
+Vurderingstemaet om avkorting som følge av at mistenkte med tilstrekkelig grad av skyld har medvirket til forfølgningen mot seg, vil dekke også taushetstilfellene. Utvalget mener at det ikke er grunn til å skille i lovteksten mellom om medvirkningen har skjedd ved taushet eller positiv villedelse. Ved ikke å løfte dette frem særskilt unngår man dessuten å gi inntrykk av at den straffeprosessuelle retten til å forholde seg taus ikke er absolutt.
+
+1.  **Særlig om skadelidte med psykiske avvik**
+
+    1.  *Nærmere om rettstilstanden og sentrale problemstillinger*
+
+Straffeprosessloven § 446 regulerer etter sin ordlyd ikke betydningen av psykiske avvikstilstander for medvirkningsspørsmålet. I Ot.prp. nr. 77 (2001–2002) er det enkelte uttalelser om spørsmålet, og det er lagt til grunn at hvis det er «på det rene at siktede har begått den straffbare handlingen, men han frifinnes pga. for eksempel utilregnelighet \[…\], vil det kunne fremstå som urimelig om han skal ytes erstatning for uberettiget strafforfølgning».[^1310]
+
+I spesialmerknadene til § 446 er tilregnelighetssakene også angitt som et eksempel der medvirkningsreglene typisk vil få anvendelse og føre til nedsettelse av erstatningen.[^1311] Det ble også vurdert om man skulle lage en generell regel som gjorde unntak fra retten til erstatning i slike tilfeller, noe som imidlertid ble forkastet av rettstekniske hensyn og på grunn av forholdet til uskyldspresumsjonen.[^1312]
+
+På denne bakgrunn og særlig under henvisning til Høyesteretts avgjørelse i Rt. 2005 s. 104 har det utviklet seg en praksis i Statens sivilrettsforvaltning hvor erstatningen til utilregnelige lovovertredere i stor utstrekning nedsettes på grunnlag av en vurdering av om den mistenkte hadde en «rimelig grunn» til å medvirke til forfølgningen mot seg. Etter denne praksisen har det avgjørende for om vedkommende har hatt «rimelig grunn» til sin opptreden, vært om den «mistankepådragende atferden har vært forårsaket av siktedes psykiske tilstand og i hvilken grad sykdommen eventuelt har begrenset siktedes reelle handlingsalternativer».[^1313]
+
+Vurderingstemaet er altså knyttet til hvilken sammenheng det er mellom vedkommendes tilstand og handlinger. Et eksempel på en konklusjon etter redegjørelse for ulike sider ved vedkommendes sinnstilstand og adferd er:
+
+«Uavhengig av om man skulle komme til at kravstillers psykose var direkte utløsende for hans handlinger i denne saken, anser Statens sivilrettsforvaltning ikke at det er godtgjort at han var uten handlingsalternativer på grunn av sin tilstand.»[^1314]
+
+Regjeringsadvokaten og Statens sivilrettsforvaltning har anmodet utvalget om å vurdere om denne forvaltningspraksisen bør få et klarere grunnlag i loven, eventuelt ved at det utformes et unntak for disse sakene.
+
+Før det tas stilling til dette spørsmålet, må det imidlertid tas stilling til om det ut fra begrunnelsen for medvirkningsregelen er ønskelig å videreføre dagens praksis med avkorting i erstatning overfor utilregnelige lovbrytere.
+
+Det må her skilles mellom tre spørsmål: 1) Om den som er strafferettslig utilregnelig, overhodet bør omfattes av erstatningsordningen, 2) om det eventuelt bør være adgang til avkorting overfor den som var i en strafferettslig utilregnelighetstilstand ved medvirkningen til straffeforfølgningen, og 3) om det bør være adgang til avkorting overfor den som i en annen psykisk avvikstilstand motvirker etterforskingen.
+
+1.  *Bør utilregnelige lovbrytere omfattes av erstatningsordningen?*
+
+Spørsmålet om den som er strafferettslig utilregnelig på handlingstidspunktet, bør omfattes av erstatningsordningen, melder seg fordi et vilkår for erstatning ved straffeforfølgning er at forfølgningen innstilles eller ender med frifinnelse – prosessen når ikke sitt mål, i den forstand at straffansvar ikke blir en realitet.
+
+Tilregnelighet er en straffbarhetsbetingelse. Ved straffeforfølgning av en person som på handlingstidspunktet er utilregnelig, følger det derfor av lovens system at saken skal innstilles ved henleggelse, eller at det skal avsies dom på frifinnelse, eventuelt idømmelse av en strafferettslig særreaksjon dersom forholdet gjelder en alvorlig integritetskrenkelse, og det er nærliggende fare for gjentakelse, jf. straffeloven §§ 62 og 63.
+
+Når det er forutsatt at lovovertredelser begått av utilregnelige skal etterforskes og behandles i straffeprosessens former, er det ikke grunn til å betale erstatning for tap som oppstår som følge av forfølgningen, selv om forfølgningen ikke resulterer i straffansvar. Man kan si at straffeprosessen når sitt mål, i den forstand at årsaksforhold avdekkes, og reaksjon eventuelt idømmes. Til sammenligning erstatter ikke staten tap som oppstår som følge av myndighetenes inngrep overfor psykisk syke personer etter lov om etablering og gjennomføring tvungent psykisk helsevern, som også kan være begrunnet i begåtte handlinger.
+
+Annerledes stiller det seg dersom forfølgningen avdekker at vedkommende person ikke har begått de aktuelle handlinger, og saken derfor henlegges eller ender med frifinnelse, eller at det reises sak som ender i frifinnelse eller at et krav om idømmelse av strafferettslig særreaksjon ikke tas til følge. I disse tilfellene bør utgangspunktet være at også den som er utilregnelig, har krav på erstatning for tap forfølgningen har påført vedkommende. Det samme må gjelde dersom staten under forfølgningen har gått utenfor lovens rammer, for eksempel ved rettsstridig frihetsberøvelse.
+
+1.  *Bør erstatningen kunne avkortes overfor den som var i en strafferettslig utilregnelighetstilstand ved medvirkningen til straffeforfølgningen?*
+
+Spørsmålet om hvorvidt det eventuelt bør være adgang til avkorting overfor den som var strafferettslig utilregnelig på handlingstidspunktet, har bare betydning for den gruppen som frifinnes fordi de ikke har begått den angjeldende handling, eller som ikke idømmes særreaksjon etter påstand om dette, jf. drøftelsen i punkt 27.4.5.2.
+
+Praksis fra Statens sivilrettsforvaltning er som nevnt at erstatning avkortes eller faller bort dersom det ikke antas å være sammenheng mellom psykisk avvikstilstand og medvirkning til forfølgningen.
+
+Det er grunn til å vurdere nærmere om erstatning bør avkortes dersom det er reist sak om særreaksjon som ikke fører frem. Skal man ha regler om avkorting i slike tilfeller, bør det påvises forhold som tilsier at tapet ikke bør dekkes av staten, men bæres av vedkommende selv.
+
+Utgangspunktet etter alminnelig erstatningsrett er at reduksjon i erstatning på grunn av skadelidtes medvirkning som følge av «egen skyld» etter skadeserstatningsloven § 5-1 nr. 1 ikke er aktuelt dersom det er på det rene at skadelidte var psykotisk på handlingstidspunktet, og det samtidig var godtgjort at det var årsakssammenheng mellom psykosen og skaden, jf. Rt. 2015 s. 606.
+
+Ut fra et slikt perspektiv kan man si at lovbrytere som er strafferettslig utilregnelige, i tilfeller der det ikke er sammenheng mellom tilstand og handling, selv har skyld i forfølgningen mot dem. En eventuell erstatning bør derfor avkortes eller falle helt bort. Denne lovforståelsen er, som det fremgår ovenfor, også lagt til grunn av Statens sivilrettsforvaltning i saker om erstatning etter straffeforfølgning.
+
+Men type sammenheng mellom tilstand, handling og skade som etterspørres, er meget vanskelig å bevise, noe som også fremheves i den nevnte høyesterettsavgjørelsen inntatt i Rt. 2015 s. 606:
+
+«Den konkrete vurderingen av om en psykotisk person på handlingstidspunktet hadde selvskyldevne kan være svært komplisert og by på stor usikkerhet. Til illustrasjon kan nevnes at det i NOU 2014:10 side 111 heter at det ikke kan utelukkes at en symptomtung psykotisk person har adekvate ‘lommer’ hvor vedkommende har en tilnærmet normal adferd. Videre uttales at selv om psykosen rammer hele personligheten ‘er det ikke gitt at det alltid er en forbindelse mellom sykdommen og de utførte handlinger’.
+
+Selv om disse uttalelsene er avgitt i en strafferettslig sammenheng, er den usikkerheten det pekes på, også relevant ved bedømmelsen av den sivilrettslige skyldevnen hos psykotiske personer.»[^1315]
+
+Vanskelighetene med å påvise slike sammenhenger tilsier etter utvalgets syn at avkortingsspørsmålet bør bortfalle dersom det er lagt til grunn at vedkommende på tidspunktet for medvirkningshandlingen var så psykisk forstyrret at vedkommende var eller ville vært strafferettslig utilregnelig. Et slikt «medisinsk prinsipp» er, med den samme begrunnelsen, også lagt til grunn for den strafferettslige utilregnelighetsregelen i straffeloven § 20 og er foreslått videreført av Tilregnelighetsutvalget i NOU 2014: 10.
+
+Enkelte vil også hevde at slike sammenhenger mellom psykisk tilstand og handling ikke bare er vanskelige å påvise, men at de overhodet ikke finnes, og at det derfor ikke gir mening å la en rettsregel omhandle et slikt bevistema.[^1316] Selv om man innenfor erstatningsretten, som i privatretten ellers, tradisjonelt riktignok har forutsatt at slike sammenhenger finnes, er dette omdiskuterte spørsmål i strafferetten, hvor slike spørsmål er tematisert hyppigere og grundigere.
+
+Selv om man mener at det er mulig å påvise sammenhenger mellom psykiske avvikstilstander og menneskelige handlingsvalg, kan ikke behandlingen i Statens sivilrettsforvaltning anses tilrettelagt for å ta stilling til slike spørsmål. Skriftlig saksbehandling uten innslag av bevisumiddelbarhet og ytterligere utredning kan ikke anses tilstrekkelig i så henseende, særlig fordi den informasjonen som finnes i saken, ikke er innhentet eller utformet med tanke på å belyse erstatningsrettslige avkortingsspørsmål.
+
+Gitt utvalgets standpunkt om at medvirkningsbestemmelsen skal inneholde et skyldvilkår, og i lys av de utfordringer som knytter seg til sinnsforvirrede personers medvirkningshandlinger, bør vurderingstemaet justeres sammenlignet med det som i dag er praksis hos Statens sivilrettsforvaltning, slik at man ikke avkorter for utilregnelige lovbrytere.
+
+For dem som er psykotiske i strafferettslig forstand på tidspunktet for medvirkningshandlingen, eller på annet grunnlag faller innunder straffeloven § 20 – utilregnelighetsregelen – er det ikke aktuelt å avkorte erstatning. Dels fordi de ikke bør anses å ha «skyld» i egen medvirkning, og dels fordi det ikke er lagt til rette for å vurdere betydningen av disse tilstandene ved behandlingen hos Statens sivilrettsforvaltning. Avkortning bør av de samme grunner heller ikke skje overfor personer med andre tilstander med svært uttalte og hemmende symptomer.[^1317]
+
+1.  *Hvordan bør erstatningsordningen håndtere personer som medvirker til egen forfølgning, i en psykisk avvikstilstand som ikke er en utilregnelighetstilstand?*
+
+Det siste spørsmålet er hvordan øvrige psykiske avvikstilstander bør håndteres, det vil si de som ikke vil kvalifisere til utilregnelighet i strafferettslig forstand.
+
+Andre og mindre alvorlige psykiske lidelser, som lettere depresjoner og mindre uttalte alderdomssvekkelser, må komme inn som et moment i vurderingen av om det foreligger skyld og eventuelt hvilken skyldgrad. Slike tilstander vil sjelden utelukke at erstatningen settes ned, men kan ha betydning for hvor mye erstatningen bør settes ned. Vurderingene her bør følge det mønster man ellers ser for den alminnelige culpavurdering i erstatningsretten, men slik at det i mindre grad spørres om sammenhenger mellom den psykiske lidelsen og medvirkningshandlingen og i større grad om hvor uttalte symptomene var, og om erstatningsnedsettelse alt tatt i betraktning fremstår som rimelig.
+
+1.  **Avkorting når forfølgningen innstilles for hemmelighold av opplysninger**
+
+Påtalemyndigheten kan innstille forfølgningen under henvisning til at man ikke har fått medhold i en begjæring om å nekte innsyn eller avskjære bevis for å hindre spredning av sensitiv informasjon, jf. straffeprosessloven § 72 første ledd. I utgangspunktet skulle innstilling av forfølgningen på et slikt grunnlag utløse erstatning for økonomisk tap etter straffeprosessloven § 444 første ledd bokstav b, men dette begrenses av § 446 tredje ledd:
+
+«Erstatningen etter §§ 444 til 445 kan settes ned eller falle bort i saker der forfølgningen er innstilt etter § 72 første ledd annet punktum annet alternativ.»
+
+Retten til oppreisning er omfattet av den samme begrensningen, jf. § 447 fjerde ledd.

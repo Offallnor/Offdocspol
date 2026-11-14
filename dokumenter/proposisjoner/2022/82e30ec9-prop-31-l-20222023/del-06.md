@@ -1,762 +1,188 @@
-# Prop. 31 L (2022–2023), del 6 av 6 (side 58–69)
+# Prop. 31 L (2022–2023), del 6 av 7
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2022/82e30ec9-prop-31-l-20222023.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-31-l-20222023/id2949174/
 - Original-PDF: https://www.regjeringen.no/contentassets/25adb45602fb4edcbace3eab80a9c964/no/pdfs/prp202220230031000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 58]
-
-56
-
-2022–2023
-
-Prop. 31 L
-
-Endringer i politiloven og politiregisterloven (PSTs etterretningsoppdrag og bruk av åpent tilgjengelig informasjon)
-
-Slettefristen er en lengstefrist, slik at opplysningene vil måtte slettes tidligere dersom det er klart
-at de ikke har betydning for utarbeidelse av analyser og etterretningsvurderinger. Dette innebærer
-ikke at PST fortløpende må vurdere om opplysningene skal slettes, men plikt til å slette før fristen
-kan for eksempel inntre dersom PST laster ned et
-kryptert datasett som ut fra tittel, forfatter eller
-lignende antas å ha betydning, men der PST etter
-å ha åpnet filene ser at datasettet ikke inneholder
-noen opplysninger av verdi. Det samme gjelder
-dersom det ikke er noe behov for å beholde et
-datasett etter at en analyse eller etterretningsvurdering på et område er ferdigstilt.
-I høringsnotatet ble det vist til at departementets foreløpige vurdering var at det ikke var behov
-for en mulighet til å beslutte utsatt sletting, slik
-det finnes i etterretningstjenesteloven § 9-8. Når
-slettefristen nå blir atskillig kortere, finner departementet at det bør være en åpning for å beslutte
-utsatt sletting, slik også Forsvarsdepartementet
-og Medietilsynet har påpekt. Det er på det rene at
-en slettefrist på fem år i noen tilfeller vil kunne
-være for kort, for eksempel vil det kunne være
-vanskelig å kartlegge påvirkningsvirksomhet i tilknytning til valg over flere valgperioder. For slike
-behov bør det være mulig å beslutte at nærmere
-bestemte opplysninger skal beholdes i en lengre
-periode.
-En beslutning om utsatt sletting forutsetter at
-opplysningene etter en konkret vurdering fortsatt
-er nødvendige for utarbeidelse av analyser og
-etterretningsvurderinger. Utsatt sletting vil derfor
-representere et unntak. Samtidig må det etter
-departementets syn settes en ytre ramme for hvor
-lenge de sperrede opplysningene kan være lagret.
-Det foreslås derfor at de sperrede opplysningene
-ikke kan beholdes lenger enn 15 år totalt. Det er
-viktig at det er notoritet om beslutninger om
-utsatt sletting, og departementet tar derfor sikte
-på å regulere i forskriften at slike beslutninger
-skal være skriftlig og begrunnet.
-Departementet understreker at slettefristen
-etter den nye bestemmelsen gjelder opplysningene som er sperret. Slettefunksjonalitet vil måtte
-bygges inn i systemet og kunne kontrolleres, slik
-EOS-utvalget påpeker. Dersom opplysningene tas
-i bruk i forebyggende sak eller i etterforsking, jf.
-forslaget til § 65 a annet ledd nr. 2 og 3, vil de
-måtte flyttes over i og behandles i PSTs ordinære
-systemer, og de alminnelige slettereglene vil
-gjelde for disse opplysningene. Når det gjelder de
-ferdige analysene og vurderingene som er laget
-på bakgrunn av opplysningene, vil den generelle
-regelen om at opplysningene skal slettes når de
-
-ikke lenger er nødvendige for formålet komme til
-anvendelse. Departementet vil vurdere å tydeliggjøre disse forholdene i forskriften. Departementet tar også sikte på å tydeliggjøre at sletting av
-opplysninger som er sperret etter den nye
-bestemmelsen skal skje i form av tilintetgjøring,
-slik at disse ikke skal avleveres til Arkivverket og
-bevares for ettertiden, jf. politiregisterforskriften
-§ 16-2 annet ledd nr. 2.
-
-8.9
-
-Bruk av automatiserte
-analyseverktøy
-
-8.9.1 Forslaget i høringsnotatet
-I høringsnotatet ble det vist til det vil kunne være
-nødvendig at behandling av opplysningene for
-etterretningsformål skjer helt eller delvis ved
-hjelp av automatiserte metoder. Forslaget la ikke
-føringer på hvordan opplysningene skal behandles for å ivareta etterretningsformålet. Av pedagogiske hensyn ble det likevel foreslått å innta i politiregisterforskriften at behandling for etterretningsformål kan skje ved bruk av automatiserte
-analyseverktøy. Det ble understreket at bruk av
-automatiserte analyseverktøy ikke kan skje med
-det formål å kartlegge enkeltindividers aktivitet
-på nett.
-8.9.2 Høringsinstansenes syn
-Forsvarsdepartementet savner en nærmere vurdering av om automatisk behandling av åpent tilgjengelig informasjon bør kunne benyttes for etterforskings- og forebyggingsformål. Forsvarsdepartementet skulle også gjerne sett en mer utfyllende
-beskrivelse av hva som menes med automatiserte
-analyseverktøy, og om dette kan inkludere for
-eksempel bildegjenkjenning og ansiktsgjenkjenning, herunder bruk av kunstig intelligens.
-Digitaliseringsdirektoratet (Digdir) viser til at
-regelverk som en klar hovedregel bør utformes
-teknologinøytralt. Digdir er derfor kritiske til
-regulering av bruk av automatiserte analyseverktøy av pedagogiske hensyn, da det kan bidra til at
-det stilles spørsmål ved om bruk av metoder som
-ikke er nevnt er tillatt. Om bestemmelsen beholdes, kan det med fordel gå klarere fram hvilken
-type automatisert behandling bestemmelsen tillater.
-Stortingets kontrollutvalg for etterretnings-,
-overvåkings- og sikkerhetstjeneste (EOS-utvalget)
-mener at bruk av automatiserte analyseverktøy
-reiser rettslige, tekniske og kontrollrelaterte problemstillinger. Utvalget peker på at det er nødven-
-
-[Side 59]
-
-2022–2023
-
-Prop. 31 L
-
-Endringer i politiloven og politiregisterloven (PSTs etterretningsoppdrag og bruk av åpent tilgjengelig informasjon)
-
-dig at PST tilrettelegger sine systemer for kontroll
-ved å bygge inn kontrollmuligheter som del av
-systemene, og at dette også gjelder eventuelle
-automatiserte analyseverktøy.
-Datatilsynet påpeker at verktøyene i liten grad
-er beskrevet. Det er derfor vanskelig å si hvor
-grensen for de ulike søkene og analyseverktøyene
-går. Det fremstår som uklart om PSTs behandling
-innebærer profilering. Høringsnotatet behandler
-ikke hvordan den forslåtte behandlingen skal
-reguleres slik at den blir i samsvar med politidirektivet og de generelle prinsippene knyttet til
-profilering i personvernforordningen. Et perspektiv som ikke i tilstrekkelig grad er drøftet, er hvordan en automatisert innsamling og analyse av
-ytringer og handlinger som for eksempel å være
-medlem av en gruppe vil kunne gi opplysninger
-som den enkelte ikke ønsker å dele med offentligheten.
-Norges institusjon for menneskerettigheter (NIM)
-legger til grunn at automatiserte analyseverktøy
-vil kunne omfatte verktøy basert på maskinlæring/kunstig intelligens. En iboende risiko ved
-automatiserte analyseverktøy er diskriminering
-og forutinntatthet. I EU-kommisjonens etiske retningslinjer for kunstig intelligens, som også ligger
-til grunn for Nasjonal strategi for kunstig intelligens, anbefales blant annet at kunstig intelligens
-som bygger på personopplysninger, eller som retter seg mot personer, skal følge personvernforordningen. Videre anbefales det at identifiserbare og
-diskriminerende skjevheter bør fjernes i innsamlingsfasen av datasett. Bruk av slike verktøy for
-kriminalitetsbekjempelsesspørsmål reiser særlige
-spørsmål. Etter NIMs oppfatning bør automatiske
-analyseverktøy bygge på etiske prinsipper, og
-utformes med tanke på menneskerettighetene.
-NIM savner i lys av disse grunnleggende utfordringene en nærmere beskrivelse av analyseverktøyene, hvordan disse tenkes brukt, herunder
-hvilke mekanismer som er tenkt iverksatt for å
-forhindre og redusere diskriminering, misvisende
-resultater eller andre uønskede utfall ved bruk av
-slike verktøy, herunder falsk og villedende informasjon.
-Advokatforeningen mener at det bør lovfestes
-begrensninger for bruken av visse typer teknologi, eksempelvis teknologi med kunstig intelligens som i praksis er egnet for masseovervåking.
-I den forbindelse fremheves det at EU-kommisjonens forslag til forordning om bruk av kunstig
-intelligens, vil få betydning også innenfor offentlige samfunnsområder. Bruk av kunstig intelligens innenfor politi og annen myndighetsutøvelse
-vil være definert som høyrisiko på noen områder,
-
-57
-
-og forslaget fra EU-kommisjonen forutsetter da
-etablering av risikohåndtering og en rekke andre
-krav. Advokatforeningen mener på denne bakgrunn at departementets forslag må gi klarere
-føringer på hvilke typer teknologi det skal være tillatt å benytte, samt relevante tilleggskrav ved
-bruk av teknologi som innebærer høy risiko.
-Dataforeningen mener at forslaget i begrenset
-grad beskriver de verktøyene som skal benyttes,
-og den teknologiske utviklingen og utviklingen i
-bruk av maskinlæring og kunstig intelligens vil
-medføre stadig mer inngripende muligheter. Bruk
-av analyseverktøyene vil skape ny informasjon om
-enkeltpersonene, uten at de selv er informert om
-dette. De etiske prinsippene som bør legges til
-grunn for bruk av kunstig intelligens til analyse av
-de innsamlede dataene burde vært drøftet, og forslagene burde inneholdt krav til eventuell bruk av
-kunstig intelligens for analyseformål og til etterfølgende bruk for etterforskingsformål.
-Dataforeningen mener at loven bør fastsette
-hvorledes den foreslåtte behandlingen skal reguleres, slik at den blir i samsvar med politidirektivets artikkel 11 og de generelle prinsippene knyttet til profilering i personvernforordningen. Dataforeningen mener at det eksplisitt må avgrenses
-mot at automatiserte metoder skal kunne benyttes til å identifisere personer som det skal opprettes forebyggende sak mot. Mangelen på transparens, risikoen for feil og risiko for at fordommer i
-algoritmene har en diskriminerende effekt medfører et betydelig tilbakeskritt for rettssikkerheten.
-IKT-Norge mener at det at forslaget åpner for
-at PST kan bruke algoritmer på store mengder
-data om samtlige borgere for å finne sannsynligheter for mulige kriminelle handlinger i fremtiden, aktualiserer andre problemstillinger enn om
-man bruker teknologien til å målrettet søke tilbake i tid for etterforskning av spesielle miljøer
-eller konkrete personer. Automatisk profilering
-og beslutninger gir risiko for uberettiget mistanke
-og diskriminering. IKT-Norge vil fremheve risikoen for nedkjølingseffekt, og redusert tillit i samfunnet, dersom det ikke oppstilles sterke rettssikkerhetsgarantier for å forhindre uberettiget mistanke og diskriminering som følge av bruk av
-slike verktøy.
-IKT-Norge mener at lovforslaget er tvetydig
-når det gjelder hva automatiske analyseverktøy
-skal og ikke skal kunne brukes til. Dersom
-høringsnotatets definisjon av etterretningsformål
-legges til grunn, vil PST avskjæres fra å bruke
-automatiserte analyseverktøy opp imot enkeltpersoner. Vernet som her tilsynelatende oppstilles,
-uthules imidlertid av at PST likevel kan bruke
-
-[Side 60]
-
-58
-
-Prop. 31 L
-
-2022–2023
-
-Endringer i politiloven og politiregisterloven (PSTs etterretningsoppdrag og bruk av åpent tilgjengelig informasjon)
-
-opplysninger de «kommer over» for etterretningsformål, til å registrere enkeltpersoner i PSTs
-øvrige registre.
-IKT-Norge mener at det er uklart i hvilken
-utstrekning man har ment å tillate bruken av automatiserte analyseverktøy til å etterforske og forfølge enkeltpersoner, og hvilke rettssikkerhetsgarantier som i så fall skal gjelde. Bruken av slike
-verktøy reiser etiske problemstillinger som i liten
-grad er berørt. Etter IKT-Norges mening må det
-gjøres tydeligere hva PST skal ha adgang til å
-bruke automatiserte analyseverktøy til. Dersom
-bruk av automatiserte analyseverktøy mot enkeltpersoner skal tillates, forutsetter det i alle tilfelle
-en klar hjemmel i lov.
-NITO ser det som uklart hvordan en teknolog
-skal skrive en algoritme som følger med på trender uten at det også følges med på individer. NITO
-er bekymret for faren for feil, og risiko ved å stole
-blindt på «output» fra en kunstig intelligens. NITO
-viser i den anledning til EUs AI regulativ Annex
-III. Systemet som trengs for å analysere dataene
-her vil mest sannsynlig ikke er lovlig etter dette
-EU-regulativet. En kjerne i dette er risiko for at
-PST feilaktig flagger og kategoriserer personer
-som farlige eller presumtivt kriminelle basert på
-datainnsamling og -analyse, spesielt hvis denne
-blir gjennomført av en mer eller mindre trent
-kunstig intelligens.
-Tekna uttaler at bruk av automatiserte analyseverktøy vil generere nye data om enkeltpersoner, som personen ikke har valgt å dele åpent.
-Ulike problemstillinger knyttet til bruk av automatiserte analyseverktøy er ikke utredet i forslaget.
-Det bør avklares i loven om det gis adgang til profilering, jf. personvernforordningen artikkel 22.
-Anskaffelse av analyseverktøy kan i seg selv gi
-grunn til bekymring. Bruk av verktøy som er
-utviklet og driftes av aktører i andre land, åpner
-opp en rekke spørsmålsstillinger knyttet til personvernforordningen, dataeierskap med mer.
-Tekna mener derfor at det bør være åpenhet om
-valg av leverandør av analyseverktøy.
-
-8.9.3 Departementets vurderinger
-Flere av høringsinstansene har stilt spørsmål ved
-hva som menes med automatiserte analyseverktøy, og om forslaget innebærer at det kan benyttes
-profilering, bruk av kunstig intelligens mv. Noen
-fremholder at det bør lovfestes hvilke metoder
-som kan benyttes og ikke, særlig når det gjelder
-bruk rettet mot enkeltpersoner. Departementet vil
-derfor innledningsvis presisere at behandlingsbegrepet, slik dette er definert i politiregisterloven
-
-§ 2 nr. 2, omfatter enhver behandling av opplysninger, herunder også automatisert behandling
-og analyse. I utgangspunktet er det derfor ikke
-behov for å regulere automatiserte metoder for at
-slike skal kunne benyttes.
-Begrunnelsen for likevel å regulere bruk av
-slike verktøy, er behovet for å synliggjøre at det
-ikke vil være mulig å «følge med» på internett
-eller analysere store mengder informasjon for å
-følge med på trender og utvikling, ved manuelle
-metoder. Mengden data fordrer at dataene må
-systematiseres og sees i sammenheng for å kunne
-avdekke ukjente sammenhenger og avvik fra en
-«normalsituasjon». Bearbeiding av informasjonen
-slik at ulike opplysninger kan sees i sammenheng,
-vil være en forutsetning for at dataene som innhentes kan komme til nytte. Det vil i mange tilfeller ikke være mulig å se på utvikling over tid uten
-hjelp av automatiserte verktøy. Formålet er å kartlegge trender og utviklingstrekk for å benytte
-informasjonen til å utarbeide analyser og etterretningsvurderinger om forhold i Norge som kan
-true nasjonale sikkerhetsinteresser. Formålet
-med behandlingen er dermed ikke individrettet.
-Samtidig vil informasjonen som analysene lages
-på bakgrunn av, inneholde personopplysninger.
-Gitt mengden data som kan samles inn, vil det
-ikke være mulig å anonymisere opplysninger om
-enkeltpersoner for så å foreta ulike analyser. Analysene vil således berøre enkeltindivider, selv om
-formålet ikke er å danne grunnlag for beslutninger på individnivå.
-Forslaget åpner for at det kan utvikles og
-benyttes maskinlæringsmodeller. Modellene kan
-eksempelvis utvikles gjennom statistikk, indikatorer og vekting av disse, og basert på eldre data
-kunne gi en prediksjon om fremtiden. Eksempler
-på slike modeller kan være trendanalyser, sentimentanalyser, det vil si analyse av positive og
-negative holdninger, følelser og meninger, og
-utvikling av grafer. Slike analyser vil så være en
-del av den informasjonen som ligger til grunn for
-etterretningsvurderingene, som igjen skal gi grunnlag for beslutningsstøtte.
-Departementet har etter en fornyet vurdering
-kommet til at adgangen til å benytte automatiserte
-analyseverktøy i forbindelse med utarbeidelse av
-analyser og etterretningsvurderinger bør inntas i
-lovteksten, og ikke kun i forskrift. Selv om begrepet inntas i loven, må det imidlertid tas høyde for
-at betydningen av begrepet kan endres over tid,
-ettersom den teknologiske utviklingen går svært
-raskt og er vanskelig å forutsi. Begrensningen til
-bruk til utarbeidelse av analyser og etterretningsvurderinger er derfor sentral. Departementet
-
-[Side 61]
-
-2022–2023
-
-Prop. 31 L
-
-Endringer i politiloven og politiregisterloven (PSTs etterretningsoppdrag og bruk av åpent tilgjengelig informasjon)
-
-bemerker at en lovfesting av at det kan benyttes
-automatiserte analyseverktøy i denne sammenheng knytter seg til behovet for klarhet og inngrepets karakter. Det følger ellers av politiregisterlovens system at det er behandlingen av opplysninger som reguleres, og ikke hvilke verktøy som
-kan benyttes for behandlingen. Departementet
-presiserer således at man med forslaget ikke tar
-stilling til lovfesting av andre ulovfestede metoder
-som PST og politiet for øvrig benytter.
-At bruken av automatiserte analyseverktøy er
-begrenset til utarbeidelse av analyser og etterretningsvurderinger om forhold i Norge som kan
-true nasjonale sikkerhetsinteresser, innebærer at
-slike verktøy ikke kan benyttes for å finne personer som det kan være aktuelt å opprette forebyggende sak på, eller i forbindelse med etterforsking. Som beskrevet i høringsnotatet skal verktøyene ikke benyttes for å følge enkeltpersoners
-aktivitet på internett. Det kan således ikke brukes
-verktøy basert på profilering for å identifisere
-enkeltindivider eller med det formål å predikere
-om enkeltpersoner i fremtiden, ut fra bestemte
-kriterier, vil antas å begå kriminalitet. Som beskrevet ovenfor vil maskinlæringen berøre opplysninger om personer i den forstand at de vil inngå som
-data i maskinlæringsmodeller, men det vil ikke bli
-fattet beslutninger basert på modellen på individnivå. Ettersom det ikke er anledning til å benytte
-profilering eller på annen måte benytte automatiserte analyseverktøy til vurderinger eller avgjørelser på individnivå, vil reglene i personvernforordningen og direktiv (EU) 2016/680 artikkel 11 om
-automatiserte beslutninger etter departementets
-mening ikke få betydning i denne sammenheng.
-Avgrensningen mot profilering og automatiserte
-individuelle avgjørelser gjør også at risikoen for at
-feil, diskriminering, og forutinntatthet ved bruk av
-automatiserte analyseverktøy som er basert på
-kunstig intelligens vil kunne ha negative konsekvenser for enkeltpersoner, er begrenset.
-Ettersom opplysningene som ligger til grunn
-for analysene vil inneholde personopplysninger,
-kan det likevel ikke helt utelukkes at en automatisert analyse avdekker personer som det er grunn
-til å undersøke nærmere, selv om dette ikke er
-
-59
-
-formålet med og innretningen på analysen. I slike
-tilfeller legger departementet til grunn at PST må
-kunne foreta nærmere undersøkelser på vanlig
-måte, slik tjenesten for eksempel gjør ved tips.
-Det vil imidlertid ikke kunne opprettes forebyggende sak eller åpnes etterforsking utelukkende
-basert på en automatisert analyse.
-Det at bruk av automatiserte analyseverktøy
-begrenses til utarbeidelse av analyser og etterretningsvurderinger, avskjærer ikke at annen
-behandling skjer automatisert i større eller mindre grad. Ettersom opplysningene er lagret elektronisk, vil ethvert søk som foretas i en mengde
-data kunne anses å være automatisert, all den tid
-det skjer en prosess som utføres av en maskin,
-applikasjon eller lignende for å vise de relevante
-resultatene. Forslaget her er ikke til hinder for
-det.
-Avslutningsvis vil departementet understreke
-at selv om det kan benyttes automatiserte analyseverktøy ved utarbeidelse av analyser og etterretningsvurderinger, innebærer ikke dette at resultatene ikke vil bli gjennomgått og bearbeidet manuelt eller at de alene vil kunne brukes som beslutningsstøtte. Det kan oppstå feil i resultater som
-kommer ut av eventuelle maskinlæringsmodeller.
-Selv om det ikke direkte rammer enkeltpersoner
-ettersom det ikke kan opprettes saker kun basert
-på modellene, kan feil eller skjevheter i modellene
-gi et uriktig bilde av situasjonen, grupper mv. Analysene vil derfor kun være én kilde til informasjon,
-som igjen må ses i sammenheng med annen informasjon PST besitter for å kunne gi et helhetlig og
-korrekt bilde. Bruk av automatiserte analyseverktøy fordrer også en kontinuerlig styring av algoritmens tolkning og forståelse av begreper, samt
-manuell vurdering.
-Hva gjelder kontroll av PSTs behandling av
-opplysninger i denne sammenheng, herunder
-bruk av eventuelle automatiserte analyseverktøy,
-må det legges til rette for at EOS-utvalget kan
-foreta reelle kontroller av disse. EOS-utvalget vil
-ha fullt innsyn i de systemer og algoritmer som
-benyttes. Ved utvikling og kjøp av nye verktøy må
-det sikres at kontrollbehovene ivaretas i løsningene.
-
-[Side 62]
-
-60
-
-Prop. 31 L
-
-2022–2023
-
-Endringer i politiloven og politiregisterloven (PSTs etterretningsoppdrag og bruk av åpent tilgjengelig informasjon)
-
-9 Økonomiske og administrative konsekvenser
-Forslaget om å tydeliggjøre PSTs etterretningsoppdrag i politiloven og gi en korresponderende
-hjemmel for behandling av opplysninger for dette
-formålet vil i seg selv ikke ha økonomiske eller
-administrative konsekvenser av betydning. Forslaget krever begrensede tekniske tilpasninger, og
-vil derfor kunne tre i kraft raskt etter vedtakelse.
-Det vil imidlertid være krevende for tjenesten å gi
-god beslutningsstøtte innenfor et bredere felt enn
-det som følger av dagens mandat, i tillegg til å
-forebygge og etterforske straffbare forhold etter
-dagens bestemmelser. Gitt dagens trusselbilde,
-og avhengig av hvilken ambisjon som besluttes
-for PSTs arbeid, vil det derfor kunne være økt
-behov for personell for å ivareta oppgaven fullt ut.
-Forslaget om å etablere en hjemmel for
-behandling av åpent tilgjengelig informasjon for
-utarbeidelse av analyser og etterretningsvurderinger vil kreve tekniske endringer før bestemmelsene kan settes i kraft. Kostnadene vil blant annet
-avhenge av hvor mye informasjon som skal lagres
-og antall kilder. Det må etableres en ny plattform
-hvor de sperrede opplysningene skal ligge, som
-gjør det mulig å behandle opplysningene atskilt
-fra opplysninger som ellers behandles hos PST.
-Kostnadene vil fordeles på personell og teknologi,
-og knytter seg hovedsakelig til innhenting og
-behandling av opplysninger, lagring av data, analyseverktøy, analyser, maskinvare og programvare.
-Det vil være behov for rekruttering knyttet til
-utvikler- og analysekompetanse og IT-driftsressurser, i tillegg til kompetanse PST allerede besitter.
-Det anslås et merbehov på 15 årsverk, som tilsvarer merutgifter på om lag 23 mill. kroner årlig.
-Kostnadene for teknologi knytter seg til anskaffelse av hyllevare og selvutviklet program- og maskinvare, hvor det er lagringsbehovet som hovedsakelig styrer kostnaden. Investeringskostnadene til etablering av plattformen anslås til om lag
-40 mill. kroner, med en påfølgende varig kostnad
-anslått til om lag 25 mill. kroner årlig for maskinvare og lisensiering. I tillegg til tekniske og personellmessige behov, må PST utarbeide gode rutiner og retningslinjer internt for hvordan opplysningene skal behandles.
-
-I denne proposisjonen bes det om Stortingets
-tilslutning til det rettslige grunnlaget som muliggjør en tydeliggjøring av PSTs etterretningsoppdrag, med korresponderende lovhjemmel, og
-hjemmel for behandling av åpent tilgjengelig
-informasjon. Alle de økonomiske og administrative konsekvensene er ikke endelig avklart, og
-anslagene over kostnader er usikre. Det foreslås
-ikke en bevilgning til formålet i regjeringens forslag til statsbudsjettet for 2023. Eventuelle videre
-forslag om anskaffelse og drift av tiltak vil legges
-frem for Stortinget i forbindelse med de årlige
-budsjettfremleggene.
-Flere høringsinstanser, blant annet Norges
-institusjon for menneskerettigheter (NIM), Medietilsynet, Advokatforeningen og Tekna har pekt på at
-det er sentralt at EOS-utvalget har tilstrekkelige
-ressurser til å føre betryggende kontroll med
-PSTs bruk av de foreslåtte verktøyene. EOS-utvalget mener selv at en vedtakelse av de foreslåtte
-reglene vil kreve betydelig mer av utvalgets kontroll med PST.
-EOS-utvalgets kontroll vil komme i tillegg til
-PSTs egen interne kontroll. PST har styrket sin
-internkontroll vesentlig det siste året, både i form
-av personell og verktøy, og departementet legger
-til grunn at dette vil bidra til å effektivisere også
-den kontrollen EOS-utvalget skal foreta. Dersom
-det legges til rette for kontroll i form av prosedyrer for notoritet ved innhenting, bruk og sletting
-av opplysninger, vil det forenkle den etterfølgende
-kontrollen. I tillegg må de tekniske systemene tilrettelegge for utvalgets kontroll.
-Med den innramming av forslaget som foreslås i denne proposisjonen, legger departementet
-til grunn at kontroll med behandling etter den nye
-bestemmelsen vil kunne gjøres som en del av
-utvalgets alminnelige kontroll med PST, herunder
-kontroll med PSTs etterforskingssaker og forebyggende saker. Det kan imidlertid ikke utelukkes at forslaget vil medføre at EOS-utvalget vil
-motta flere begjæringer om kontroll. Departementet antar at dette vil kunne dekkes innenfor utvalgets tildelte budsjettrammer.
-
-[Side 63]
-
-2022–2023
-
-Prop. 31 L
-
-Endringer i politiloven og politiregisterloven (PSTs etterretningsoppdrag og bruk av åpent tilgjengelig informasjon)
-
-61
-
-10 Merknader til de enkelte bestemmelsene
-10.1 Til endringene i politiloven
-Til § 17 a
-Bestemmelsen endres slik at den angir PSTs oppgaver som innenlands etterretningstjeneste. PST
-skal etter bestemmelsen bidra til å sikre Norges
-suverenitet, territorielle integritet, demokratiske
-styreform og andre nasjonale sikkerhetsinteresser. Begrepet «nasjonale sikkerhetsinteresser»
-skal forstås på samme måte som definisjonen i sikkerhetsloven § 1-5 nr. 1. Dette skal gjøres ved å
-utarbeide analyser og etterretningsvurderinger
-om forhold i Norge som kan true disse interessene. Analysene og vurderingene skal gi grunnlag
-for beslutningsstøtte, det vil si å danne grunnlag
-for taktiske, operasjonelle og strategiske beslutninger. Ved at vurderingene skal gjelde forhold i
-Norge, avgrenses mandatet mot de forhold som
-hører under E-tjenestens ansvarsområde.
-Til § 17 b
-Som følge av at § 17 a endres til en bestemmelse
-som regulerer PSTs oppgaver som etterretningstjeneste, tydeliggjøres det i overskriften til bestemmelsen at § 17 b angir PSTs oppgaver som politiorgan.
-
-10.2 Til endringene i politiregisterloven
-Til § 3
-I annet ledd tilføyes at PSTs etterretningsvirksomhet er omfattet av lovens virkeområde. Med etterretningsvirksomhet menes PSTs oppgaver som
-innenlands etterretningstjeneste slik disse er foreslått regulert i politiloven § 17 a. Behandling av
-opplysninger for disse oppgavene skal reguleres
-av politiregisterloven.
-Til § 64
-I første ledd tilføyes at PST kan behandle opplysninger for tjenestens etterretningsvirksomhet, jf.
-også endringene i § 3 og i politiloven § 17 a. I til-
-
-legg gjøres enkelte språklige justeringer som ikke
-innebærer realitetsendringer.
-Tilføyelsen av tredje ledd nytt nr. 6 er en følge
-av at PSTs oppgaver som innenlands etterretningstjeneste inntas i politiloven § 17 a. Ettersom
-nødvendighetskravet i politiregisterloven er knyttet til PSTs oppgaver slik de er definert i politiloven, må det gis en korresponderende hjemmel
-for å behandle opplysninger som er nødvendige
-for denne oppgaven. Dette gjør at PST kan
-behandle opplysninger utelukkende fordi de er
-nødvendige for utarbeidelse av analyser og etterretningsvurderinger.
-Til ny § 65 a
-Etter første ledd gis PST anledning til å behandle
-åpent tilgjengelig informasjon dersom det antas å
-være nødvendig for å utarbeide analyser og etterretningsvurderinger som nevnt i politiloven 17 a.
-Kravet om at det må «antas» å være nødvendig
-innebærer ikke et strengt sannsynlighetskrav, og
-terskelen for å kunne behandle opplysningene er
-lavere enn det alminnelige nødvendighetskravet i
-loven for øvrig. Det kreves ikke visshet om eller
-sannsynlighetsovervekt for at behandlingen er
-nødvendig. Det vil være tilstrekkelig at det er en
-rimelig, men ikke helt fjern, mulighet for at
-behandlingen er nødvendig.
-I første ledd annet punktum presiseres at informasjon ikke er åpent tilgjengelig dersom tilgang
-krever aktivt fordekt opptreden eller forsering av
-passord eller lignende beskyttelsesmekanismer.
-Begrepet er dermed negativt avgrenset. Avgrensningen av hva som skal regnes som åpent tilgjengelig informasjon tilsvarer reguleringen i etterretningstjenesteloven § 6-2, og skal forstås på samme
-måte. Det sentrale vil være at opplysningene er tilgjengelige for allmennheten. Informasjon publisert på lukkede nettsteder eller private samtaler
-på chattetjenester, eposter eller annen kryptert
-eller privat kommunikasjon vil ikke være åpent tilgjengelig. Avgrensningen mot aktivt fordekt opptreden innebærer eksempelvis at informasjonen
-ikke er åpent tilgjengelig dersom en tjenesteperson må utgi seg for å være en annen, ikke-fiktiv
-
-[Side 64]
-
-62
-
-Prop. 31 L
-
-2022–2023
-
-Endringer i politiloven og politiregisterloven (PSTs etterretningsoppdrag og bruk av åpent tilgjengelig informasjon)
-
-person og gjennom samhandling med mennesker
-oppnå tilgang til informasjon fra et forum på Internett. Det er ikke aktiv fordekt opptreden å betale
-vederlag for tilgang til informasjon som tilbys til
-allmennheten.
-Første ledd tredje punktum åpner for at
-behandling i forbindelse med utarbeidelse av analyser og etterretningsvurderinger kan skje ved
-bruk av automatiserte analyseverktøy. Dette
-muliggjør at store mengder informasjon kan analyseres for å følge med på trender og utvikling
-over tid, noe som ikke er mulig med manuelle
-metoder. Bestemmelsen åpner for at det eksempelvis kan benyttes maskinlæringsmodeller som
-kan utvikle trendanalyser, grafer og sentimentanalyser, det vil si analyse av positive og negative
-holdninger, følelser og meninger. Automatiserte
-analyseverktøy kan ikke benyttes til forebygging
-og etterforsking. Det kan derfor ikke brukes
-verktøy basert på profilering for å identifisere
-enkeltindivider eller med det formål å predikere
-om enkeltpersoner i fremtiden, ut fra bestemte
-kriterier, vil antas å begå kriminalitet.
-Etter første ledd fjerde punktum kommer kravene etter politiregisterloven § 6 om opplysningenes kvalitet mv. og § 7 om behandling av særlige
-kategorier av personopplysninger ikke til anvendelse for opplysninger som innhentes og lagres
-etter bestemmelsens første ledd. Dette innebærer
-at den enkelte opplysning ikke vil underlegges
-individuell vurdering, slik at disse bestemmelsene
-ikke er til hinder for at det kan lagres store mengder åpent tilgjengelig informasjon dersom det
-antas å være nødvendig for utarbeidelse av analyser og etterretningsvurderinger.
-Kravene etter §§ 6 og 7 kommer heller ikke til
-anvendelse når behandlingen skjer ved hjelp av
-automatiserte analyseverktøy. Begrunnelsen for
-dette er at slike verktøy nettopp benyttes for å systematisere og analysere store mengder data, også
-data som inneholder opplysninger som ikke i seg
-selv er relevante.
-For annen behandling i forbindelse med utarbeidelse av analyser og etterretningsvurderinger
-vil kravene etter §§ 6 og 7 gjelde fullt ut. Det innebærer blant annet at opplysninger som inngår i
-analyser og etterretningsvurderinger må være
-relevante og oppdaterte, og at særlige kategorier
-av opplysninger ikke kan inngå i slike analyser
-med mindre det er strengt nødvendig. Kravene i
-§§ 6 og 7 vil også gjelde fullt ut for bruk til forebygging og etterforsking.
-Annet ledd angir at opplysningene skal være
-sperret. Sperring innebærer «markering av
-lagrede opplysninger i den hensikt å begrense den
-
-fremtidige behandlingen av disse opplysningene», jf.
-politiregisterloven § 2 nr. 10. Opplysninger som er
-sperret kan bare brukes til de konkret angitte formålene, og er ellers ikke ansett registrert. Sperrede opplysninger skal holdes atskilt fra opplysninger som ellers behandles hos PST.
-Når opplysninger sperres, må det samtidig
-angis hvilke formål de sperrede opplysningene
-kan brukes til. Annet ledd nr. 1 til 3 innebærer
-dermed en formålsbegrensning, ved at de sperrede opplysningene ikke kan brukes til andre formål enn de opplistede. Etter bestemmelsen kan
-opplysningene bare brukes til analyser og etterretningsvurderinger, opprettelse av eller i forebyggende sak eller til etterforsking av lovbrudd
-innenfor PSTs ansvarsområde.
-Bruk til forebyggende sak og etterforsking
-forutsetter at vilkårene for opprettelse av slike
-saker er oppfylt, og kravene til behandling av opplysninger i den aktuelle sakstypen gjelder på vanlig måte. For etterforsking innebærer dette at det
-må være rimelig grunn til å undersøke om det
-foreligger et straffbart forhold som PST har i oppgave å etterforske, jf. straffeprosessloven § 224.
-Adgangen til å behandle opplysninger i straffesak
-følger reglene i straffeprosessloven, jf. politiregisterloven § 64 annet ledd. Kravet for opprettelse av
-forebyggende sak er at det er grunn til å undersøke om noen forbereder et lovbrudd som Politiets sikkerhetstjeneste har til oppgave å forebygge,
-jf. politiregisterloven § 64 tredje ledd nr. 1 bokstav a.
-I forebyggende sak kan det behandles opplysninger som har saklig tilknytning til saken, jf. politiregisterforskriften § 21-5 første ledd første punktum.
-Dersom opplysningene tas i bruk til disse formålene, må de flyttes over i PSTs alminnelige
-systemer, og de vil ikke lenger være sperret. De
-vanlige behandlingsreglene i politiregisterloven
-og -forskriften vil gjelde for opplysningene, herunder reglene om utlevering og sletting.
-Etter tredje ledd skal opplysninger som er sperret etter bestemmelsen slettes senest etter fem år,
-med en mulighet for å beslutte utsatt sletting for
-nærmere bestemte opplysninger eller datasett for
-inntil fem år av gangen dersom opplysningene etter
-en konkret vurdering fremdeles er nødvendige for
-utarbeidelse av analyser og etterretningsvurderinger. Dette vil eksempelvis kunne være tilfelle ved
-kartlegging av påvirkningsvirksomhet rettet mot
-valg over flere valgperioder. Opplysninger som er
-sperret etter bestemmelsen kan likevel ikke
-beholdes i mer enn 15 år, som vil danne den ytre
-rammen. Regelen gjelder kun for de sperrede
-opplysningene, og ikke for opplysninger som er
-
-[Side 65]
-
-2022–2023
-
-Prop. 31 L
-
-Endringer i politiloven og politiregisterloven (PSTs etterretningsoppdrag og bruk av åpent tilgjengelig informasjon)
-
-flyttet over i PSTs vanlige systemer. Adgangen til
-å beslutte utsatt sletting er ment å være en unntaksregel. Beslutningene må være skriftlige og
-begrunnet, slik at de kan kontrolleres av EOSutvalget. Krav til skriftlighet og begrunnelse vil bli
-fastsatt i forskrift, jf. bestemmelsens fjerde ledd.
-Etter fjerde ledd gir Kongen i forskrift nærmere regler om behandling av opplysninger etter
-bestemmelsen, herunder om utlevering, utsatt
-sletting, tilgangsbegrensning og kontroll. Oppregningen av hvilke forhold det kan gis forskrifter om
-er ikke uttømmende. Departementet tar blant
-annet sikte på å gi bestemmelser i forskriften som
-tydeliggjør krav til sporbarhet, kravene til beslutninger om å beholde opplysninger lenger enn slettefristen, regler om utlevering av sperrede opplysninger og at sperrede opplysninger skal slettes i
-
-63
-
-form av tilintetgjøring. Videre vil departementet
-vurdere om det bør gis regler som ytterligere
-tydeliggjør at opplysninger som tas i bruk i konkrete saker må flyttes over i PSTs alminnelige
-registre, og at den videre behandlingen da vil
-følge de alminnelige behandlingsreglene i loven
-og forskriften.
-Justis- og beredskapsdepartementet
-tilrår:
-At Deres Majestet godkjenner og skriver under
-et framlagt forslag til proposisjon til Stortinget om
-endringer i politiloven og politiregisterloven (PSTs
-etterretningsoppdrag og bruk av åpent tilgjengelig
-informasjon).
-
-Vi HARALD, Norges Konge,
-stadfester:
-Stortinget blir bedt om å gjøre vedtak til lov om endringer i politiloven og politiregisterloven (PSTs
-etterretningsoppdrag og bruk av åpent tilgjengelig informasjon) i samsvar med et vedlagt forslag.
-
-[Side 66]
-
-64
-
-Prop. 31 L
-
-2022–2023
-
-Endringer i politiloven og politiregisterloven (PSTs etterretningsoppdrag og bruk av åpent tilgjengelig informasjon)
-
-Forslag
-til lov om endringer i politiloven og politiregisterloven
-(PSTs etterretningsoppdrag og bruk av åpent tilgjengelig
-informasjon)
-I
-I lov 4. august 1995 nr. 53 om politiet gjøres følgende endringer:
-§ 17 a skal lyde:
-§ 17 a Oppgavene til Politiets sikkerhetstjeneste som
-innenlands etterretningstjeneste
-Politiets sikkerhetstjeneste skal utarbeide analyser og etterretningsvurderinger om forhold i Norge
-som kan true Norges suverenitet, territorielle integritet, demokratiske styreform og andre nasjonale
-sikkerhetsinteresser.
-§ 17 b overskriften skal lyde:
-Oppgavene til Politiets sikkerhetstjeneste som politiorgan
-II
-I lov 28. mai 2010 nr. 16 om behandling av opplysninger i politiet og påtalemyndigheten gjøres følgende endringer:
-§ 3 annet ledd skal lyde:
-Forvaltningsvirksomhet og etterretningsvirksomhet i Politiets sikkerhetstjeneste er likevel
-omfattet av loven.
-§ 64 første ledd første punktum skal lyde:
-Politiets sikkerhetstjeneste kan behandle opplysninger når det er nødvendig for politimessige formål, etterretningsvirksomhet og forvaltningsvirksomhet i tjenesten.
-§ 64 tredje ledd nr. 4, 5 og nytt nr. 6 skal lyde:
-4. er nødvendig for personkontroll eller akkreditering med de begrensninger som følger av
-§ 67,
-5. er nødvendig for å dokumentere hvilken overskuddsinformasjon som er gjort tilgjengelig
-for andre, eller
-
-6. er nødvendig for å utarbeide analyser og etterretningsvurderinger som nevnt i politiloven § 17 a.
-Ny § 65 a skal lyde:
-§ 65 a Behandling av åpent tilgjengelig informasjon
-til etterretningsformål
-Politiets sikkerhetstjeneste kan behandle
-åpent tilgjengelig informasjon dersom det antas å
-være nødvendig for utarbeidelse av analyser og
-etterretningsvurderinger, jf. politiloven § 17 a.
-Informasjon er ikke åpent tilgjengelig dersom tilgang krever aktivt fordekt opptreden eller forsering av passord eller lignende beskyttelsesmekanismer. Behandling etter første punktum kan skje
-ved hjelp av automatiserte analyseverktøy. Når
-opplysningene etter dette leddet innhentes, lagres
-eller behandles ved hjelp av automatiserte analyseverktøy, kommer §§ 6 og 7 om krav til opplysningenes kvalitet og behandling av særlige kategorier av personopplysninger ikke til anvendelse.
-Opplysninger som behandles etter første ledd
-skal være sperret, og kan bare brukes til følgende
-formål:
-1. utarbeidelse av analyser og etterretningsvurderinger, jf. politiloven § 17 a
-2. opprettelse av eller bruk i forebyggende sak,
-jf. § 64 tredje ledd nr. 1 bokstav a
-3. etterforskning av lovbrudd som nevnt i politiloven § 17 b, jf. straffeprosessloven § 224
-Opplysningene skal slettes senest etter 5 år.
-Sjefen for Politiets sikkerhetstjeneste eller den
-denne bemyndiger kan beslutte at nærmere
-angitte opplysninger skal beholdes i ytterligere 5
-år av gangen, men ikke lenger enn 15 år totalt,
-dersom opplysningene etter en konkret vurdering
-fremdeles er nødvendige for formål som nevnt i
-annet ledd nr. 1.
-Kongen gir i forskrift nærmere regler om
-behandling av opplysninger etter denne bestemmelsen, herunder om utlevering, utsatt sletting,
-tilgangsbegrensning og kontroll.
-
-[Side 67]
-
-2022–2023
-
-Prop. 31 L
-
-Endringer i politiloven og politiregisterloven (PSTs etterretningsoppdrag og bruk av åpent tilgjengelig informasjon)
-
-III
-1. Loven gjelder fra den tid Kongen bestemmer.
-Kongen kan sette i kraft de enkelte bestemmelsene til ulik tid.
-
-2. Kongen kan gi nærmere overgangsregler.
-
-65
-
-[Side 68]
-
-2
-
-Meld. St. 18
-Oppleve, skape, dele
-
-2020–2021
-
-[Side 69]
-
-Bestilling av publikasjoner
-Departementenes sikkerhets- og serviceorganisasjon
-publikasjoner.dep.no
-Telefon: 22 24 00 00
-Publikasjonene er også tilgjengelige på
-www.regjeringen.no
-
-ME
-
-R K E T T RY
-
-1
-
-46
-
-20
-4
-
-KK
-K
-
-MI
-
-JØ
-
-SA
-
-L
-
-Trykk: Departementenes sikkerhets- og
-serviceorganisasjon – 12/2022
-
-De
-
-p M edia
-
-04
+## Bruk til forebyggende sak og etterforsking
+
+### Forslaget i høringsnotatet
+
+Selv om formålet med behandlingen er ivaretakelse av PSTs etterretningsvirksomhet, ble det foreslått at de sperrede opplysningene også kan brukes i de tilfellene der det er åpnet etterforsking eller opprettet forebyggende sak, samt for åpning av etterforsking eller opprettelse av forebyggende sak. Det ble vist til at hvis det i de sperrede opplysningene finnes informasjon om personer som PST allerede har i søkelyset, eller om personer som utgjør en reell trussel, bør PST kunne behandle denne informasjonen.
+
+Når PST først har gått til det skritt å opprette en forebyggende sak, søker tjenesten å forebygge alvorlige straffbare handlinger. Dersom PST allerede har en forebyggende sak, vil de etter forslaget derfor kunne søke i det sperrede materialet for å finne informasjon som har saklig tilknytning til den forebyggende saken. Adgangen til å søke i det sperrede materialet ble også foreslått å gjelde dersom opplysningene skal brukes til å *opprette* forebyggende sak. Dette innebærer eksempelvis at dersom PST, når de bruker opplysninger for etterretningsformål, kommer over opplysninger om en person som det er grunn til å undersøke om forbereder et straffbart forhold som PST skal forebygge, vil de kunne registrere denne personen i sine alminnelige registre. Det samme vil gjelde dersom PST får tips om en person det er knyttet en bekymring til, og de avdekker opplysninger som kan danne grunnlag for en forebyggende sak ved et søk i det sperrede materialet.
+
+Når det gjelder bruk til etterforsking, ble det ikke foreslått ytterligere begrensninger enn at det må dreie seg om etterforsking av lovbrudd som nevnt i politiloven § 17 b. PST er gitt i oppgave å etterforske svært alvorlige lovbrudd. Dersom det først er rimelig grunn til å undersøke om det foreligger et straffbart forhold av denne art, mente departementet at PST må kunne søke i de sperrede opplysningene for å klarlegge om det finnes opplysninger der av betydning for straffesaken.
+
+Både forebygging og etterforsking av de straffbare handlinger som er nevnt i politiloven § 17 b har nær sammenheng med PSTs etterretningsmandat. Departementet anså derfor ikke slik bruk for å være en formålsutglidning. Det ble vist til at PST allerede i dag har mulighet til å benytte åpent tilgjengelig informasjon i forbindelse med forebygging og etterforsking. Det ble også vist til at PST kan benytte skjulte tvangsmidler både i etterforskingssporet og i det forebyggende sporet, noe som er langt mer inngripende enn den behandlingen forslaget her åpner for. På denne bakgrunn ville det etter departementets syn fortone seg som lite logisk å stenge for tilgang til informasjon som er offentlig tilgjengelig eller som har vært offentlig tilgjengelig i disse tilfellene.
+
+Ved bruk til forebygging og etterforsking vil søk være rettet mot enkeltpersoner, og en slik bruk vil kunne være mer inngripende for personene det søkes etter. I høringsnotatet ble det uttalt at departementet hadde vurdert om det burde oppstilles ytterligere vilkår for bruk av de sperrede opplysningene for disse formålene, herunder om det burde stilles krav om en forutgående kontroll. Det ble vist til at departementet ikke var kjent med eksempler på ordninger hvor det oppstilles krav om domstolskontroll ved bruk av opplysninger det allerede er lovlig grunnlag for å behandle, og at et slikt krav etter departementets syn ikke kan utledes av EMDs praksis. Det ble derfor lagt til grunn at det ikke burde stilles krav om forutgående kontroll for søk til disse formålene.
+
+### Høringsinstansenes syn
+
+*Riksadvokaten* og *Oslo statsadvokatembeter* er kritiske til at opplysningene bare skal kunne benyttes til etterforsking av lovbrudd som nevnt i politiloven § 17 b. *Det nasjonale statsadvokatembetet* understreker viktigheten av at den innhentede informasjonen kan brukes i etterforskingssak.
+
+*Oslo statsadvokatembeter* mener at opplysningene generelt bør kunne brukes til etterforsking. PST bør kunne videreformidle innhentet åpent tilgjengelig informasjon til det ordinære politi og til påtalemyndigheten med ansvar for strafforfølgning av andre lovbrudd enn de som etterforskes av PST. *Riksadvokaten* mener at dersom departementet ikke finner grunn til fullt ut å åpne for bruk i etterforskingsøyemed, kan muligens en løsning etter modell av straffeprosessloven § 216 i om bruk av overskuddsinformasjon fra kommunikasjonskontroll, særlig bokstavene d til f, være tjenlig.
+
+*Stortingets kontrollutvalg for etterretnings-, overvåkings- og sikkerhetstjeneste (EOS-utvalget)* bemerker at selv om det i overskriften til bestemmelsen bare blir nevnt «etterretningsformål», fremgår det at den innsamlede informasjonen også kan benyttes til å opprette en forebyggende sak eller til etterforskingsformål. Med en slik generell åpning for overføring til andre formål tjener allerede innsamlingen egentlig alle de tre formålene som PST skal ivareta. Dermed er hele innsamlingssystemet også et langt mer kraftfullt verktøy for PST, og dermed et potensielt langt større personverninngrep, enn overskriften til bestemmelsen kan gi inntrykk av. *Politidirektoratet* og *Kripos* har lignende synspunkter.
+
+En utvisking av skillet mellom politi- og etterretningsvirksomhet for PSTs del har etter *EOS-utvalgets* syn prinsipielle, rettslige og faktiske konsekvenser. Sett fra et kontrollperspektiv kunne dette med fordel ha vært utredet nærmere. Bruk av opplysninger fra masseinnsamlingen i konkrete forebyggende saker og etterforsking vil utgjøre et nytt og kraftigere inngrep i de berørtes personvern og privatliv. Hvis tankegangen fra de nyeste EMD-dommene legges til grunn, bør det på dette stadiet legges inn ytterligere rettssikkerhetsgarantier. Også hensynet til utvalgets kontroll taler for at det defineres hva «bruk» av opplysninger som er innhentet for etterretningsformål i forebyggende sak innebærer, og på hvilke vilkår personopplysninger kan flyte mellom disse sporene.
+
+*Norges institusjon for menneskerettigheter (NIM)* viser til at opplysningene i realiteten kan benyttes til samtlige av PSTs ansvarsområder. Dette gir en svært vid adgang til bruk av opplysningene, uten reell avgrensning, og uten forutgående kontroll. Etter NIMs oppfatning gir en såpass vid adgang til bruk av opplysningene grunn til å anse inngrepet som langt mer omfattende enn dersom formålet kun var å kartlegge trender og «følge med på internett». NIM forutsetter at vilkårene i politiregisterloven § 64 første ledd bokstav a må være oppfylt ved søk i materialet dersom man ønsker å undersøke om forebyggende sak overhodet skal opprettes, og at søkene som utføres må stå i saklig sammenheng med det som danner grunnlaget for å utføre undersøkelsen. At søket må ha en slik saklig sammenheng kan med fordel presiseres i lovteksten.
+
+NIM savner en bredere og mer prinsipiell diskusjon om adgangen er nødvendig opp mot hvert av de tre formålene, hvordan disse samlet sett påvirker inngrepsgraden, og i hvilken grad disse formålene gir borgeren tilstrekkelig beskyttelse for at opplysningene ikke benyttes utover det som er strengt nødvendig.
+
+Departementet burde videre understreket tydeligere hvordan PST skal unngå at søk i materialet blir tilfeldig, gitt at formålet er såpass vidt. Dette har også en klar side til å unngå misbruk og formålsutglidning. En tydeligere avgrensning vil også gi borgerne mulighet til å forutse når opplysningene kan hentes ut. Endelig er en tydeligere avgrensning en forutsetning for at kontrollorganer skal kunne føre en meningsfull kontroll med hva som er lovlig lagring og bruk, og hva som ikke er det.
+
+*Datatilsynet* kan ikke se at de foreslåtte reglene innebærer noen reelle eller praktiske begrensninger for PSTs bruk av opplysningene. Spesielt ved bruk til forebygging og etterforsking vil søk være rettet mot enkeltpersoner, uten at det legges opp til en uavhengig forhåndskontroll.
+
+*Medietilsynet* mener det er stor forskjell på et formål om bedre risikoanalyser og på å bruke denne informasjonen til å overvåke enkeltpersoner. Det er behov for en tydelig formålsbegrensning, og en begrunnelse i lys av hvilke formål regelverksendringene åpner for. Medietilsynets tolkning er at de innsamlede dataene kan brukes til alle de tre delene av PSTs oppdrag, etterretning, forebygging og etterforsking, kun begrenset av sperring og adgangskontroll. Slik sett tar forslaget til orde for en omfattende overvåking, som stiller strengere krav til en begrunnelse enn det høringsnotatet legger opp til. Medietilsynet mener departementet bør klargjøre hvilket eller hvilke av PSTs formål innsamling og bruk av data er en del av, og begrunne inngrepene i ytringsfriheten på dette grunnlaget.
+
+*Advokatforeningen* er ikke enig i forslaget om at de sperrede opplysningene uten videre også skal kunne brukes i de tilfellene der det er åpnet etterforsking av lovbrudd som nevnt i politiloven § 17 b eller i forbindelse med en forebyggende sak. I disse tilfellene har PST andre og mer målrettede virkemidler til rådighet. Bruk av masseinnhentet informasjon kan også stilles seg forskjellig avhengig av om det er snakk om bruk som grunnlag for å åpne en straffesak eller bruk i en pågående straffesak. I tillegg er de straffbare forholdene som er opplistet i politiloven § 17 b svært ulikeartet. Dersom opplysningene skal kunne brukes til andre formål enn etterretningsvirksomhet, må dette etter Advokatforeningens syn vurderes nærmere på prinsipielt grunnlag og det må også vurderes eksplisitt og særskilt for de ulike straffbare forholdene opplistet i politiloven § 17 b.
+
+*Tekna* savner en utredning av konsekvensene av at PST kan bruke innsamlet informasjon til både etterretning, forebygging og etterforsking.
+
+*Dataforeningen* mener at det bør etableres klare kriteria for en uavhengig forhåndskontroll av adgangen til å gjøre søk mot enkeltpersoner og bruk av innsamlede opplysninger i etterforsking av konkrete saker som faller inn under PST sitt ansvarsområde.
+
+### Departementets vurderinger
+
+Departementet har merket seg at en rekke instanser mener at muligheten for at PST kan bruke opplysningene til forebyggende sak og etterforsking uthuler effekten av sperringen. Departementet vil derfor understreke at inngangsvilkåret for å behandle opplysningene er at det antas å være nødvendig for utarbeidelse av analyser og etterretningsvurderinger, jf. omtalen i punkt 8.3.3 ovenfor. Dette gjør at PST ikke kan *innhente* åpent tilgjengelig informasjon, uten at vilkårene i §§ 6 og 7 er oppfylt, til andre formål enn utarbeidelse av analyser og etterretningsvurderinger. Innhenting etter bestemmelsen med det formål å drive forebygging eller etterforsking er derfor avskåret. Departementet finner også grunn til å minne om at PST allerede i dag har full anledning til å behandle opplysninger som stammer fra åpne kilder til alle sine oppgaver, så fremt vilkårene for å behandle opplysningene er oppfylt, det vil blant annet si at de er nødvendige, formålsbestemte og relevante.
+
+Hovedformålet med og inngangen for å kunne behandle opplysninger etter den foreslåtte bestemmelsen er behovet for opplysningene ved utarbeidelse av analyser og etterretningsvurderinger. Enkelte høringsinstanser synes å mene at øvrig bruk bør avskjæres eller begrenses i større grad enn det som ble foreslått i høringsnotatet. Departementet er ikke enig i dette, og ser det som svært uheldig dersom PST ikke skulle ha muligheten til å kunne bruke opplysninger de har lagret etter den nye bestemmelsen til etterforsking og forebyggende sak. Departementet mener heller ikke at det er behov for å innføre ytterligere sikkerhetsmekanismer for bruk til disse formålene, ut over mekanismene som allerede finnes i regelverket. Merverdien av å kunne bruke de sperrede opplysningene sammenlignet med søk på internett er at PST vil kunne finne og nyttiggjøre seg av opplysninger som er slettet på det åpne nettet. Opplysninger som fremdeles er åpent tilgjengelige vil PST fritt kunne søke opp og lagre uten at de hentes fra de sperrede opplysningene. Departementet mener derfor at søk i det sperrede materialet sammenlignet med søk på det åpne nettet vil være et begrenset ytterligere inngrep overfor den enkelte.
+
+Samtidig finner departementet grunn til å minne om at bruk både til etterforsking og forebyggende sak innebærer at en del vilkår må være oppfylt. Forslaget her innebærer ingen unntak fra disse vilkårene. Etterforsking kan etter straffeprosessloven § 224 foretas når det som følge av anmeldelse eller andre omstendigheter er rimelig grunn til å undersøke om det foreligger straffbart forhold som forfølges av det offentlige. Etterforsking besluttes av påtalemyndigheten, jf. straffeprosessloven § 225. I den enkelte straffesak følger adgangen til å behandle opplysninger reglene i straffeprosessloven, jf. politiregisterloven § 64 annet ledd.
+
+Inngangsvilkåret for å opprette en forebyggende sak er som nevnt i punkt 4.2 at det er grunn til å undersøke om noen forbereder et straffbart forhold som PST har til oppgave å forebygge. De forebyggende sakene er grundig regulert i politiregisterforskriften § 21-5. Sjef PST eller den han bemyndiger skal godkjenne opprettelsen, det kan bare behandles opplysninger som har saklig tilknytning til saken, og saken skal gjennomgås hvert år for vurdering av om den skal avsluttes eller videreføres. Departementet anser det derfor ikke nødvendig å innføre ytterligere krav eller rettssikkerhetsmekanismer for at opplysningene skal kunne brukes til dette formålet. Departementet finner igjen grunn til å understreke at personer som ytrer seg på en slik måte på nett at det er grunn til å undersøke om de forbereder et straffbart forhold innenfor PSTs mandat, uavhengig av dette forslaget vil kunne registreres, og opplysninger som finnes åpent tilgjengelig vil allerede i dag kunne brukes for å opprette en forebyggende sak.
+
+De lovbrudd PST har i oppgave å forebygge og etterforske, er alle svært alvorlige og kan ha et betydelig skadepotensial for samfunnet. Departementet ser det derfor ikke som en aktuell løsning å begrense bruken til bare noen av de lovbruddene som er listet opp i politiloven § 17 b. Samtidig er det heller ikke grunn til å utvide adgangen til bruk til etterforsking av lovbrudd utenfor PSTs mandat, eller til andre formål enn de som er nevnt. Det er ikke unikt at PST har opplysninger som ikke kan deles med andre. Eksempelvis legger politiloven § 17 f begrensninger på hvilke formål opplysninger som er innhentet ved forebyggende tvangsmiddelbruk kan benyttes til. Også for opplysninger som PST har mottatt fra samarbeidende tjenester vil det kunne være begrensninger i adgangen til å utlevere opplysningene til andre. Det understrekes at dersom opplysningene først er tatt i bruk i en etterforsking, vil de alminnelige reglene i straffeprosessloven gjelde, eksempelvis reglene om dokumentinnsyn i straffeprosessloven § 242. Opplysningene vil dermed kunne inngå i sakens dokumenter og brukes som bevis i en eventuell straffesak.
+
+Også der opplysningene tas i bruk i en forebyggende sak, vil de alminnelige reglene gjelde for videre behandling av opplysningene. Når opplysningene tas i bruk, vil de måtte flyttes over i PSTs vanlige registre, og de vil da ikke lenger være sperret. Som omtalt i punkt 8.4.3 gjelder ikke unntakene fra §§ 6 og 7 for bruk av opplysninger i forebyggende sak eller i etterforsking, slik at opplysningene blant annet må være korrekte og oppdaterte, og behandling av særlige kategorier av personopplysninger må være strengt nødvendig.
+
+En rekke instanser har stilt spørsmål ved adgangen til å bruke opplysningene til *opprettelse* av forebyggende sak, særlig i kombinasjon med muligheten til å benytte automatiserte analyseverktøy. Som omtalt i punkt 8.9.3. åpnes det ikke for at automatiserte analyseverktøy kan brukes for å finne personer som det kan være aktuelt å opprette forebyggende sak på. At PST kan bruke slike verktøy i forbindelse med utarbeidelse av analyser og etterretningsvurderinger er derfor ikke et argument mot at PST skal kunne bruke opplysningene til å opprette forebyggende sak, dersom opplysningene først er av den karakter at de gir grunn til å opprette en slik sak.
+
+Når innhentingen rammes inn, jf. punkt 8.3.3 ovenfor, vil informasjonen som hentes inn i større grad være rettet mot nettsteder mv. der det kan tenkes å være informasjon av betydning for analyser og etterretningsvurderinger. PST vil dermed ikke kunne samle inn all informasjon som finnes åpent tilgjengelig. Det foreslås også en atskillig kortere lagringstid, jf. punkt 8.8.3 nedenfor, noe som gjør at faren for at informasjonen er gammel og utdatert er mindre. Dette gjør samlet sett at departementet mener at det ikke bør legges begrensninger på PSTs muligheter til å benytte opplysningene til å opprette forebyggende sak.
+
+Dersom det finnes opplysninger i det sperrede materialet som kunne bidratt til å forebygge for eksempel en terrorhandling, ville det vært utenkelig å pålegge PST å se bort fra disse opplysningene. Dette må gjelde selv om personen opplysningene gjelder ikke tidligere har vært i PSTs søkelys. Også der det kommer inn tips på en person som gir grunn til bekymring, bør man kunne forvente at PST forsøker å avdekke all relevant informasjon om personen for enten å bekrefte eller ta ned bekymringen.
+
+Departementet opprettholder etter dette at de sperrede opplysningene skal kunne brukes i etterforsking av lovbrudd som nevnt i politiloven § 17 b, og til opprettelse av eller i en forebyggende sak, og at det ikke oppstilles ytterligere krav for å kunne bruke opplysningene til disse formålene enn de som allerede finnes i regelverket. Departementet understreker samtidig viktigheten av å sikre notoritet og kontroll med bruken av opplysningene. Dersom opplysninger tas ut av det sperrede materialet og benyttes i en forebyggende sak eller i etterforsking, skal det derfor fremgå klart av saken hvilke opplysninger som er hentet fra det sperrede materialet. Dette vil EOS-utvalget kunne kontrollere ved deres alminnelige kontroll med PSTs etterforskingssaker og forebyggende saker, jf. EOS-kontrolloven § 6 fjerde ledd nr. 1. På samme måte skal det fremgå klart dersom en sak er opprettet på bakgrunn av opplysninger som er hentet fra det sperrede materialet.
+
+## Kontrollmekanismer
+
+### Forslaget i høringsnotatet
+
+I høringsnotatet ble det foreslått enkelte forskriftsregler om saksbehandling og kontroll, herunder krav om at tilgang bare skal gis til bemyndigede personer, og at all bruk av opplysningene skal kunne spores. Det ble ikke foreslått egne, detaljerte regler for behandling etter den nye bestemmelsen. Grunnen til dette er at det i politiregisterloven og politiregisterforskriften allerede er en rekke regler som vil komme til anvendelse for behandlingen, selv om de ikke nevnes særskilt. Departementet la til grunn at særskilte regler om lagring av opplysningene, begrensinger i bruken og etterfølgende kontroll, sett i sammenheng med politiregisterlovgivningens alminnelige regler om informasjonssikkerhet, internkontroll og sporing, ville ivareta de nødvendige kravene til sikkerhetsmekanismer.
+
+I høringsnotatet ble det vist til at EOS-utvalgets kontroll vil være en viktig sikkerhetsmekanisme, og at kontroll med hvem som har tilgang til de sperrede opplysningene og kontroll med at søk i opplysningene kun skjer for de formålene loven åpner for vil være en naturlig del av EOS-utvalgets kontroll med tjenesten.
+
+Det ble ikke foreslått å åpne for innsyn i opplysninger som behandles etter den nye bestemmelsen, både fordi det ville kunne innebære en risiko for at det avsløres hvilke områder på nettet PST velger å laste ned informasjon fra, og fordi merverdien av innsyn ville være begrenset, all den tid den enkelte fritt kan søke opp informasjon som er publisert på internett om en selv, og det ikke er aktuelt å føre kontroll med opplysningenes riktighet.
+
+### Høringsinstansenes syn
+
+*Politiets sikkerhetstjeneste (PST)* støtter rettsikkerhetsmekanismene i forslaget, og finner at disse på en god måte vil balansere inngrepene i privatliv og ytringsfrihet.
+
+*Riksadvokaten* mener at de foreslåtte saksbehandlings- og kontrollmekanismene fremstår hensiktsmessige.
+
+*Stortingets kontrollutvalg for etterretnings-, overvåkings- og sikkerhetstjeneste (EOS-utvalget)* reiser spørsmål ved om inngrepet burde vært ledsaget av ytterligere vilkår for å ivareta borgernes personvern og rettsikkerhet – og i forlengelsen sikre mulighet for reell kontroll fra utvalget. Hvis tankegangen fra de nyeste EMD-dommene legges til grunn, bør det ved bruk til forebygging og etterforsking legges inn ytterligere rettssikkerhetsgarantier. EOS-utvalget påpeker at de ikke er en garantist for at feil ikke skjer eller ikke kan skje i EOS-tjenestene, og at utvalgets eksterne kontroll ikke erstatter den forvaltningsmessige styringen og kontrollen av PST.
+
+*Norges institusjon for menneskerettigheter (NIM)* bemerker at forslaget ikke inneholder noen begrensninger på hvordan søk skal foregå eller gjennomføres. Høringsnotatet burde inneholdt avgrensninger av hvilke søkekriterier som kan benyttes, og mekanismer for å sikre at disse står i saklig sammenheng med formålet opplysningene skal uthentes for. Det er generelt et sentralt poeng at rettssikkerhetsmekanismene må fungere i praksis, herunder at garantiene mot misbruk bygges inn i systemet, og at det foreligger reelle avgrensninger av hvilke søkekriterier som kan benyttes. Slik forslaget er lagt opp, mener NIM at det gir PST en ubestemt skjønnsmyndighet uten kriterier for overprøving. Dette gjør også den foreslåtte kontrollen av søk lite effektiv som kontrollmekanisme, ettersom skillet mellom lovlig og ikke lovlige søk, ikke er tydelig.
+
+Samlet mener NIM at departementets begrunnelse for å ikke innføre forhåndskontroll når det skal gjennomføres søk i det innsamlede materialet, ikke er tilfredsstillende. At informasjonen er åpen er ikke tilstrekkelig begrunnelse for å unnta forslaget fra rettssikkerhetsmekanismene som normalt kreves for etterretningsinnsamling. Forhåndskontroll med søk kan eventuelt gjøres ved at det innføres en godkjenningsordning for hvilke opplysninger, søkeord eller andre parametere som kan ligge til grunn for søk i materialet. Etter NIMs syn er det mange likhetstrekk med bulkinnsamling som indikerer at det bør iverksettes ytterligere rettsikkerhetsmekanismer.
+
+*Datatilsynet* mener at etterkontroll ved EOS-utvalget samlet sett ikke er et robust nok system for å verne mot misbruk. Både fordi den er etterfølgende og at formålene er så vide at det er vanskelig å se hvilken del av PSTs kjernevirksomhet som ikke vil kunne benytte seg av opplysningene, noe som vanskeliggjør kontroll.
+
+Forslaget innebærer også unntak fra rettsikkerhetsgarantier som underretning og innsyn. Datatilsynet mener det ikke er riktig at merverdien av innsyn er begrenset fordi den enkelte selv kan søke opp informasjonen, ettersom PST vil være de eneste som sitter med en oversikt som går 15 år tilbake i tid. Internett er dynamisk og opplysningene som finnes der vil forandre seg over tid.
+
+Datatilsynet vurderer at dette tilsammen ikke er i tråd med EMDs praksis som krever en ende til ende kontroll, hvor blant annet en uavhengig forhåndskontroll også for innhentingen og søkene vil være en sentral rettsikkerhetsmekanisme. Det mangler også en målrettethet og begrensning av innsamlingen.
+
+*Medietilsynet* støtter departementets konklusjon om at det må etableres gode sikkerhetsmekanismer for å forebygge maktmisbruk, og at det må sikres at EOS-utvalget kan føre tilstrekkelig kontroll med bruken. Slik forslaget er formulert er det etter Medietilsynets vurdering behov for en klarere avgrensning og tydelig definerte kontrollmekanismer. Overvåking, slik forslaget legger opp til, er svært inngripende opp mot grunnleggende menneskerettigheter. Klare retningslinjer for hvordan og hva slags informasjon som hentes inn, hvor lenge informasjonen lagres, hvordan en KI-løsning sammenstiller dataene og hvordan dataene sikres, er sentrale spørsmål, både i mandatet til PST, men også i et kontrollperspektiv. Medietilsynet støtter EOS-utvalgets innspill om at utvalgets arbeidsmåte og ressurser ikke står i forhold til omfanget av PSTs overvåking, og at kontrollfunksjonen i større grad må utredes.
+
+*Advokatforeningen* er ikke enig i departementets konklusjon om at forslaget ikke innebærer aspekter som gjør EMDs uttalelser om at inngrepet i individets rettigheter etter EMK artikkel 8 tiltar underveis i prosessen, overførbare. Selv om EMDs uttalelser gjelder bulkinnsamling av grensekryssende informasjon relatert til en annen form for masseinnhenting, vil innsamlingen og potensiell bruk av opplysningene åpenbart medføre at inngrepet i individets rettigheter tiltar etter hvert som det gjøres søk i opplysningene og disse benyttes for formålene. Dersom forutgående kontroll av søk og bruk av opplysningene ikke skal innføres som kontrollmekanisme, er Advokatforeningen av den oppfatning at det blir særskilt viktig at all bruk av opplysninger registreres og kan spores, samt at registreringer faktisk gjennomgås regelmessig med det formål å avdekke eventuell uautorisert tilgang til og bruk av opplysningene som foreslått.
+
+Advokatforeningen mener at det bør sikres at EOS-utvalgets budsjettrammer legger til rette for at en slik regelmessig kontroll utføres i praksis for å sikre at tilgangen og bruken av informasjonen skjer i henhold til de formålene og i tråd med de kravene som er satt.
+
+Advokatforeningen foreslår at departementet vurderer å lovfeste krav til at de foreslåtte hjemlene og bruken av disse skal evalueres etter en nærmere angitt tidsperiode, eksempelvis 5 år. Et slikt evalueringskrav skal omfatte vurdering av om hovedformålet med hjemlene oppfylles, og om de etablerte kontrollmekanismene fungerer tilfredsstillende. *Rettspolitisk forening* stiller seg bak Advokatforeningens høringssvar.
+
+*Dataforeningen* mener at det ikke er foreslått tilstrekkelige tiltak til å redusere risikoen ved den foreslåtte innsamlingen. I tillegg er Dataforeningen bekymret for den løpende kontrollen med et slikt regime – EOS-utvalget bevilges ikke nok ressurser, og kan kun uttale seg med anbefalinger basert på stikkprøver. Dataforeningen mener forslaget må styrkes vesentlig med hensyn til mekanismer for saksbehandling og garantier for rettssikkerhet knyttet til den foreslåtte innsamling og bruk av åpent tilgjengelig informasjon. Dataforeningen mener at det bør etableres klare kriteria for en uavhengig forhåndskontroll av adgangen til å gjøre søk mot enkeltpersoner og bruk av innsamlede opplysninger i etterforsking av konkrete saker som faller inn under PST sitt ansvarsområde.
+
+*IKT-Norge* mener at mangelen på kontrollmekanismer kan være negativt for norsk næringsliv. Det legges ikke opp til noen særskilt kontroll med innsamlingen eller PSTs bruk av det innsamlede materialet, utover EOS-utvalgets kontroll. Særlig i lys av at det også foreslås unntak fra kravene til kvalitet og kravene tilknyttet behandling av særlige kategorier av personopplysninger, fremstår dette som noe underlig. Det kan med fordel utredes om den enkelte sak hvor PST ønsker tilgang til materialet, bør underlegges domstolskontroll.
+
+*Tekna* merker seg at EOS-utvalget i sin høringsuttalelse finner det nødvendig å avgrense sitt ansvar ved å påpeke at deres kontroll er stikkprøvebasert og at de ikke er en garantist for at feil ikke kan skje. Tekna mener dette ikke er tilstrekkelig, og at det er viktig at utvalget får kapasitet og ressurser til å utføre tilsynsrollen på en god måte. Det bør også vurderes å gjøre tilsynsanalysene som utføres åpent tilgjengelig for allmenheten.
+
+Tekna mener at mekanismene som er foreslått for kontroll og etterprøving ikke er tilstrekkelige. Det bør tydeliggjøres hvordan man skal sikre at kontrollmekanismene er på plass før datainnsamling starter, og avklares hvordan man kan sikre en bedre kontroll enn EOS-utvalget selv mener de har anledning til å gjennomføre. Videre er det viktig å sikre åpenhet om bruk av leverandører og innretning av algoritmer.
+
+### Departementets vurderinger
+
+Departementet understreker viktigheten av gode kontrollmekanismer, rutiner og retningslinjer internt i PST, både når det gjelder innhentingen, bruken av opplysningene og sletting. PSTs internkontroll er styrket de senere år, blant annet ved at det er opprettet en ny enhet som skal ha ansvar for internkontroll og risikostyring i tjenesten. I tillegg fører Justis- og beredskapsdepartementet overordnet kontroll med tjenesten gjennom den alminnelige etatsstyringen av PST.
+
+Som EOS-utvalget har påpekt, er utvalget ikke noen garantist for at ikke feil kan skje, eller en erstatning for god internkontroll. PST må derfor etablere rutiner som sikrer at det er notoritet over all bruk av opplysninger fra systemet med de sperrede opplysningene, slik at det på en enkel måte kan foretas kontroll av bruken. Videre forutsetter departementet at PST har løpende dialog med EOS-utvalget slik at det sikres at systemene innrettes på en måte som gjør at utvalget kan ivareta sine kontrolloppgaver.
+
+Som omtalt i høringsnotatet oppstiller både politiregisterloven og politiregisterforskriften en rekke krav til informasjonssikkerhet og internkontroll som også vil gjelde for behandling av de sperrede opplysningene. Denne typen krav er det derfor ikke nødvendig å regulere særskilt for behandling etter den nye bestemmelsen. I tillegg er PST underlagt særskilte krav til informasjonssikkerhet i sikkerhetsloven som følge av de behandler sikkerhetsgradert informasjon i sine systemer. Det følger av politiregisterforskriften § 40-13 at all bruk av opplysninger skal registreres og kunne spores for å kontrollere om søkene er tillatt eller ikke. Videre skal registreringene gjennomgås regelmessig med det formål å avdekke uautorisert tilgang til opplysningene. Dette vil bli regulert i forskrift slik at det tydelig fremgår at denne bestemmelsen også gjelder for PST i denne sammenheng.
+
+Det er flere av høringsinstansene som etterlyser en vurdering av om det bør etableres en ordning med uavhengig forhåndskontroll både av innhentingen og bruken av opplysningene. Som omtalt i punkt 8.3.3 og 8.6.3 anser departementet at det ikke er behov for å innføre krav om uavhengig forhåndskontroll med innhenting eller bruk av opplysningene. Det legges til grunn at det vil være tilstrekkelig med gode interne rutiner og dokumentasjon for det som hentes inn. Hva som til enhver tid ligger i det atskilte systemet vil også kunne kontrolleres, og departementet mener dette, sammen med logging av bruk og tilgangskontroll, er en mer egnet sikkerhetsmekanisme i denne sammenheng.
+
+EOS-utvalget har påpekt at det er viktig at adekvat sperrefunksjonalitet er på plass i PSTs systemer før innhentingen settes i gang, og at utvalget må kunne kontrollere sperrefunksjonaliteten. Departementet er enig i dette. Det må sikres at opplysningene holdes helt atskilt fra PSTs øvrige systemer, altså at det etableres en egen «boks» for disse opplysningene, før innhentingen starter. Det er videre sentralt at PST tilrettelegger systemene for EOS-utvalgets kontroll.
+
+Når det gjelder bruken av opplysningene, må det etableres rutiner som sikrer at det kun foretas søk i systemet ut i fra konkrete informasjonsbehov av personer som er bemyndiget til å foreta søkene. I tillegg til bemyndigelse vil personene som har tilgang være underlagt taushetsplikt og være sikkerhetsklarert for høyeste nivå. For å sikre kontroll med hvem som har foretatt søk og hvorfor søket er foretatt, må dette kunne dokumenteres og foreligge i en form som til enhver tid kan kontrolleres. Dersom det foretas søk, eksempelvis på bakgrunn av et konkret tips, som resulterer i at det opprettes en forebyggende sak eller etterforskingssak må saken besluttes opprettet i tråd med gjeldende regler, og opplysningene må flyttes over i PSTs vanlige registre og følge reglene for behandling der. Det må sikres notoritet over hvilke saker som er opprettet og hvilke opplysninger som er flyttet over i ordinært register, slik at dette kan kontrolleres internt i PST og av EOS-utvalget på vanlig måte. All bruk av opplysningene vil dessuten måtte logges og kunne spores.
+
+I EMDs praksis vedrørende bulkinnsamling er det lagt til grunn at etterfølgende kontroll må gjennomføres av et uavhengig organ. Det oppstilles ikke som vilkår at kontrollen må skje av en uavhengig domstol. Det sentrale i de to kriteriene om etterfølgende kontroll er at kontrollen må gjennomføres av et uavhengig organ, og at kontrollorganet har reelle og formelle fullmakter til å vurdere etterlevelsen av de formelle kravene i lovgivningen, samt vurdere forholdsmessigheten av eventuelle inngrep. Videre oppstilles det krav om reell etterkontroll av behandlingen av opplysningene og klagerett for den enkelte.
+
+EOS-utvalget er et uavhengig organ opprettet av Stortinget, og kan kontrollere alle deler av PSTs virksomhet. Selv om EOS-utvalget ikke kan treffe bindende avgjørelser overfor forvaltningen, er det utviklet gode og effektive systemer for å følge opp rapporterte avvik. I tillegg avgir utvalget årlig en melding til Stortinget om sin virksomhet, herunder om kontroll med PST. Utvalget kan også gi særskilte meldinger dersom det er avdekket forhold hos PST som Stortinget straks bør kjenne til. Den etterfølgende kontrollen ved PSTs virksomhet foretas gjennom inspeksjoner, klagesaker og behandling av saker som tas opp av eget tiltak. Enkeltpersoner kan be utvalget kontrollere om opplysningene om vedkommende er behandlet i samsvar med loven. Det er også anledning til å reise sak for domstolene. Samlet sett mener derfor departementet at de eksisterende mekanismene for uavhengig kontroll ivaretar de krav som følger av EMDs praksis.
+
+Hva gjelder den enkeltes mulighet til å begjære kontroll med opplysningene, følger det av politiregisterloven § 68 at EOS-utvalget, etter begjæring fra *den registrerte eller den som antar å være registrert*, skal kontrollere om opplysningene om vedkommende er behandlet i samsvar med loven. En sentral følge av at opplysningene er sperret er at personer ikke skal anses registrert hos PST, og at det for personer som kun finnes i det sperrede materialet, derfor i utgangspunktet heller ikke er noe å kontrollere. Departementet har vurdert om det bør etableres særskilte regler for at EOS-utvalget kan føre kontroll med om opplysninger om konkrete enkeltpersoner finnes i det sperrede materialet. Imidlertid ville en slik kontrollmekanisme ha liten reell effekt. Ettersom det åpnes for innsamling av store mengder informasjon, der det ikke er konkrete vilkår knyttet til innsamling og lagring ut over at behandlingen må antas å være nødvendig for analyser og etterretningsvurderinger, vil kontrollen kun gå ut på å undersøke om det ligger opplysninger om vedkommende i opplysningene som er sperret. I og med at opplysningene ikke er underlagt krav til individuell vurdering, vil resultatet være at kontrollen ikke gir grunnlag for kritikk, uavhengig av om det ligger opplysninger i materialet eller ikke. Videre vil det være vanskelig for PST å verifisere om den enkelte opplysning faktisk knytter seg til den personen som ber om kontrollen. Opplysningene vil ikke ligge strukturert, og det vil i mange tilfeller ikke være mulig å fastslå hvilken person en opplysning knytter seg til. For å sikre en entydig identifikasjon kan det bli behov for å samle inn enda flere opplysninger om vedkommende, noe som kan medføre ytterligere inngrep overfor den som ber om kontrollen.
+
+EOS-utvalget har imidlertid, i tråd med EOS-kontrolloven, innsyn i og kan kontrollere ethvert system, register, arkiv, installasjoner mv., samt PSTs behandling av personopplysninger. Utvalget kan dermed kontrollere opplysninger om enkeltpersoner i det atskilte systemet. Ettersom innhentingsadgangen er såpass vid vil det likevel være vanskelig å vurdere den enkelte opplysning som ligger i det sperrede materialet, og departementet mener at det vil ha mer for seg å kontrollere hva opplysningene faktisk er brukt til etter at de er hentet ut av systemet. Opplysninger som er flyttet over i PSTs alminnelige systemer vil EOS-utvalget kunne kontrollere på vanlig måte.
+
+Hva gjelder algoritmer og leverandører av systemer vil også dette kunne kontrolleres av EOS-utvalget. Det følger av EOS-kontrolloven § 6 annet ledd at utvalgets kontroll skal omfatte tjenestens tekniske virksomhet, herunder overvåking og innhenting av informasjon og behandling av personopplysninger.
+
+Departementet opprettholder at det ikke er grunn til å gjøre unntak fra dagens hovedregel om at det ikke er innsyn i opplysninger som behandles hos PST. Når innhentingen er mer begrenset og informasjonen lagres i kortere tid, gjør argumentene mot innsyn seg enda sterkere gjeldende. Innsyn vil kunne innebære en risiko for at det avsløres hvilke områder på nettet PST velger å laste ned informasjon fra, slik at trusselaktører tilpasser sin aktivitet ut fra dette. Videre vil det som nevnt være vanskelig og ressurskrevende å identifisere om opplysningene faktisk gjelder den personen som ber om innsyn, samtidig som merverdien for den enkelte vil være begrenset.
+
+## Sletting
+
+### Forslaget i høringsnotatet
+
+I høringsnotatet ble det vist til at det vil være behov for å lagre opplysninger over tid for å kunne følge med på utvikling og endringer i trusselbildet. Enkelte typer trusler og aktivitet som det er ønskelig at PST skal kunne kartlegge, som påvirkningsoperasjoner fra andre land og ulovlig etterretningsvirksomhet, kan pågå over flere år. Dersom en ny type trussel oppstår, kan informasjon tilbake i tid være av stor betydning for å kunne vurdere og forutse fremtidig utvikling innenfor feltet. Det er derfor vanskelig å sette en klar grense for hvor lenge opplysningene vil anses nødvendige for etterretningsformål, og departementet mente at det er viktig at opplysningene ikke slettes så tidlig at formålet med forslaget ikke oppnås. Samtidig ville for lang lagringstid kunne innebære at inngrepet etter hvert anses uforholdsmessig.
+
+Det ble foreslått at opplysningene skal slettes senest etter 15 år, tilsvarende reglene i etterretningstjenesteloven § 9-8 om sletting av rådata i bulk. Det ble understreket at 15 år er en lengstefrist. Etterretningstjenesteloven § 9-8 åpner for å lagre informasjonen ut over 15 år dersom vesentlige hensyn tilsier at sletting utsettes. Departementets foreløpige vurdering i høringsnotatet var at det ikke var behov for å åpne for en mulighet for forlenget lagring av opplysninger som behandles etter den nye bestemmelsen.
+
+### Høringsinstansenes syn
+
+*Forsvarsdepartementet, Datatilsynet, Stortingets kontrollutvalg for etterretnings-, overvåkings- og sikkerhetstjeneste (EOS-utvalget), Kripos, Medietilsynet, Nasjonal kommunikasjonsmyndighet (NKOM), Norges institusjon for menneskerettigheter (NIM), Politidirektoratet, Advokatforeningen, Den Norske Dataforening, Elektronisk Forpost Norge, Rettspolitisk forening, Tekna* og *UTSYN* har uttalt seg om slettefristen. Nær samtlige av høringsinstansene mener at fristen er for lang.
+
+*Forsvarsdepartementet* har ikke synspunkter på når slettefristen bør inntre, men mener det er nærliggende å påpeke at E-tjenesten behandler opplysninger for et annet formål enn PST, og at etterretningstjenesteloven § 5-3 har klare vilkår for behandling av data i bulk. Tilsvarende behandlingsregler synes å mangle i lovforslaget her. Det bør vurderes om man eventuelt kombinert med en kortere slettefrist bør innta en bestemmelse om fristforlengelse knyttet til nærmere vilkår. Også *Medietilsynet* mener en kortere lagringstid bør vurderes, og at man eventuelt kan vurdere å innta unntaksbestemmelser for opplysninger som det av særlige grunner er viktig at kan lagres lenger.
+
+*Politidirektoratet* kan ikke se at behovet for en så vidt lang lagringstid er tilstrekkelig begrunnet, og at det i vurderingen av lagringstid bør legges vekt på at graden av inngrepet blir større jo lenger opplysningene lagres. Politidirektoratet og *Kripos* anbefaler at departementet ytterligere begrunner behovet for en så lang lagringstid.
+
+*Datatilsynet* kan ikke se noen tungtveiende begrunnelse for en så lang lagringstid som 15 år. Når det gjelder henvisningen til etterretningstjenesteloven § 9-8 om sletting av rådata i bulk, så omfatter «rådata i bulk» lite informasjon om norske borgere, noe som heller ikke er formålet med innsamlingen. Hvis en skal velge en bestemmelse fra etterretningsloven som inspirasjon er § 7-7 om innhenting og lagring av metadata i bulk etter tilrettelagt innhenting mer relevant, med en lagringstid på 18 måneder. Også *Dataforeningen* mener lagringstiden bør være vesentlig kortere, og viser til etterretningstjenesteloven § 7-7.
+
+*EOS-utvalget* savner en faglig begrunnelse for lengden på fristen. I vurderingen av hvor lenge opplysningene kan beholdes, mener utvalget det er relevant å legge vekt på at inngrepet overfor den enkelte borger blir større jo lenger opplysningene lagres. Utvalget vil påpeke at ved innføring av en ny metode med en lengstefrist for sletting, er det viktig at fungerende slettefunksjonalitet er på plass i PSTs systemer før innhenting settes i gang. EOS-utvalget må også kunne kontrollere slettefunksjonaliteten.
+
+*NIM* mener lagringstiden er for lang, og viser til at inngrepet vil være større jo lengre lagringstid det åpnes for, samtidig som det reelle behovet for opplysningene gjerne vil være redusert. Risikoen for formålsutglidning i hva opplysningene kan brukes til vil også øke jo lenger lagringstid det er tale om. Også øvrige rettssikkerhetshensyn, slik som muligheten for å verifisere opplysningenes sannhet, kan gjøre lang lagringstid mer betenkelig. Det er ikke gitt noen nærmere redegjørelse for behovet for en såpass lang frist som 15 år. Så lenge forslaget ikke inneholder noen plikt til å revidere og slette materialet innenfor denne fristen må det legges til grunn at store deler av innsamlede opplysninger vil beholdes ut lengstefristen.
+
+*Advokatforeningen*, *Rettspolitisk forening* og *UTSYN* mener lagringsperioden på 15 år er for lang og i liten grad begrunnet. *Advokatforeningen* peker på at jo lenger tid som går, jo vanskeligere vil det også være å kontrollere om opplysningene er korrekte. For en registrert person vil det også være svært vanskelig å forholde seg til, og eventuelt forsvare seg mot, informasjon som er gammel.
+
+Advokatforeningen og *Rettspolitisk forening* mener at det er uklart hvordan sletteregelen skal anvendes dersom PST genererer ny informasjon av gammel informasjon, eksempelvis ved berikelse av data, eller der gammel informasjon sammenstilles med annen informasjon av nyere dato.
+
+*Tekna* viser til at ved langvarig lagring vil dataene kunne anses tatt ut av tidligere kontekst, være lite representative, og kan for eksempel være dårlig formulerte kommentarer på en nettside som man selv har slettet eller redigert etter kort tid. Tidshorisonten fremstår uforholdsmessig lang, og kan oppfattes som en form for langvarig overvåking.
+
+Tekna stiller også spørsmål ved hvilket tidspunkt man legger til grunn for tidsberegningen og hvordan dette skal implementeres i praksis. Tekna mener videre at mellomlagret informasjon må slettes når bruken i et etterretningsoppdrag, forebyggende sak eller etterforskning er ferdig. Dette er spesielt viktig ved etterretningsoppdrag, ettersom disse inneholder informasjon om langt flere personer. *Elektronisk Forpost Norge* har lignende synspunkter.
+
+*NKOM* mener det er uklart når fristen begynner å løpe i forbindelse med oppretting av sak, og om det er ment at lagring i 15 år vil være den ytre ramme.
+
+### Departementets vurderinger
+
+For at PST skal kunne identifisere eventuelle avvik fra normalsituasjonen, må PST ha et godt bilde av denne. Dette vil være enklere jo lenger tilbake i tid man har mulighet til å se data. Lagringstiden vil også ha betydning ved bruk av automatiserte analyseverktøy. Jo flere data som er tilgjengelig, og jo lenger tidsrom dataene stammer fra, jo mer erfaring har man å bygge på når man skal utvikle en modell for å forstå et fenomen. Bruk av informasjon for å kunne vise trender og utvikling i trusselvurderingssammenheng er avhengig av at dataene lagres i noe tid. Jo lenger tilbake i tid man har data, jo lenger frem i tid vil man kunne predikere utviklingen. Departementet mener derfor at det er viktig at lagringstiden ikke blir for kort til at PST kan nyttiggjøre seg informasjonen. 18 måneders lagringstid, slik som etter etterretningstjenesteloven § 7-7, vil ikke være tilstrekkelig til å imøtekomme behovet. Departementet mener at det heller ikke er egnet med en mellomlagring til et konkret «oppdrag», og at opplysningene deretter slettes. En slik begrenset behandling kan tenkes å være aktuelt i enkelttilfeller, men vil ikke være egnet i alle sammenhenger.
+
+Samtidig må lagringstiden avveies mot det inngrepet forslaget utgjør. Som en rekke instanser har pekt på vil inngrepet for den enkelte bli større jo lengre dataene lagres. Jo lenger opplysningene er lagret, jo større er sannsynligheten for at informasjonen er utdatert eller slettet på det åpne nettet. Departementet har derfor vurdert lagringstiden på nytt, og kommet til at opplysningene bør slettes senest etter fem år. Dette tilsvarer fristen som gjelder for når opplysninger utenfor forebyggende sak, der det ikke er registrert nye opplysinger om personen, må gjennomgås, jf. politiregisterforskriften § 22-3 tredje ledd. Også fem år er lang tid. Samtidig er det i andre sammenhenger akseptert at PST, på grunn av sin særlige virksomhet, må kunne behandle opplysninger over lengre tid. Det vises til Ot.prp. nr. 108 (2008–2009) punkt 17.3.1.1 på side 272, der det i forbindelse med nødvendighetskravet ved behandling av opplysninger i forebyggende sak er uttalt:
+
+«\[…\] nødvendighetsvurderingen for PST må skje i et vesentlig lenger tidsperspektiv enn for politiet for øvrig. Årsaken er at de som står bak sikkerhetstruslene arbeider langsiktig, og for tidlig sletting av usikker informasjon som senere kunne vist seg å ha hatt en vesentlig kriminalitetsbekjempende verdi, vil være svært uheldig på et område som gjelder grunnleggende sikkerhetsinteresser. I tidsperspektivet ligger også at de som står bak truslene, særlig på etterretningssiden, også driver en lovlig virksomhet, dels i tillegg til og dels som dekke for, den ulovlige virksomheten. For å være i stand til å vurdere hva som konkret har sammenheng med ulovlig virksomhet, er det nødvendig å vurdere virksomheten i en helhet, og følgelig vil det over noe tid også være behov for å kartlegge og behandle opplysninger om lovlig virksomhet hos dem som mistenkes for å forberede og utføre ulovligheter.»
+
+Slettefristen er en lengstefrist, slik at opplysningene vil måtte slettes tidligere dersom det er klart at de ikke har betydning for utarbeidelse av analyser og etterretningsvurderinger. Dette innebærer ikke at PST fortløpende må vurdere om opplysningene skal slettes, men plikt til å slette før fristen kan for eksempel inntre dersom PST laster ned et kryptert datasett som ut fra tittel, forfatter eller lignende antas å ha betydning, men der PST etter å ha åpnet filene ser at datasettet ikke inneholder noen opplysninger av verdi. Det samme gjelder dersom det ikke er noe behov for å beholde et datasett etter at en analyse eller etterretningsvurdering på et område er ferdigstilt.
+
+I høringsnotatet ble det vist til at departementets foreløpige vurdering var at det ikke var behov for en mulighet til å beslutte utsatt sletting, slik det finnes i etterretningstjenesteloven § 9-8. Når slettefristen nå blir atskillig kortere, finner departementet at det bør være en åpning for å beslutte utsatt sletting, slik også Forsvarsdepartementet og Medietilsynet har påpekt. Det er på det rene at en slettefrist på fem år i noen tilfeller vil kunne være for kort, for eksempel vil det kunne være vanskelig å kartlegge påvirkningsvirksomhet i tilknytning til valg over flere valgperioder. For slike behov bør det være mulig å beslutte at nærmere bestemte opplysninger skal beholdes i en lengre periode.
+
+En beslutning om utsatt sletting forutsetter at opplysningene etter en konkret vurdering fortsatt er nødvendige for utarbeidelse av analyser og etterretningsvurderinger. Utsatt sletting vil derfor representere et unntak. Samtidig må det etter departementets syn settes en ytre ramme for hvor lenge de sperrede opplysningene kan være lagret. Det foreslås derfor at de sperrede opplysningene ikke kan beholdes lenger enn 15 år totalt. Det er viktig at det er notoritet om beslutninger om utsatt sletting, og departementet tar derfor sikte på å regulere i forskriften at slike beslutninger skal være skriftlig og begrunnet.
+
+Departementet understreker at slettefristen etter den nye bestemmelsen gjelder opplysningene som er sperret. Slettefunksjonalitet vil måtte bygges inn i systemet og kunne kontrolleres, slik EOS-utvalget påpeker. Dersom opplysningene tas i bruk i forebyggende sak eller i etterforsking, jf. forslaget til § 65 a annet ledd nr. 2 og 3, vil de måtte flyttes over i og behandles i PSTs ordinære systemer, og de alminnelige slettereglene vil gjelde for disse opplysningene. Når det gjelder de ferdige analysene og vurderingene som er laget på bakgrunn av opplysningene, vil den generelle regelen om at opplysningene skal slettes når de ikke lenger er nødvendige for formålet komme til anvendelse. Departementet vil vurdere å tydeliggjøre disse forholdene i forskriften. Departementet tar også sikte på å tydeliggjøre at sletting av opplysninger som er sperret etter den nye bestemmelsen skal skje i form av tilintetgjøring, slik at disse ikke skal avleveres til Arkivverket og bevares for ettertiden, jf. politiregisterforskriften § 16-2 annet ledd nr. 2.

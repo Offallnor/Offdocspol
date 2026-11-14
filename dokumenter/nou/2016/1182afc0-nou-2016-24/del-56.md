@@ -1,885 +1,422 @@
-# NOU 2016: 24, del 56 av 73 (side 601–610)
+# NOU 2016: 24, del 56 av 69
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/1182afc0-nou-2016-24.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-24/id2517932/
 - Original-PDF: https://www.regjeringen.no/contentassets/6fe1d875248042b4a09b43b85aa46832/no/pdfs/nou201620160024000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 9 tabeller, 1 figur, 52 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 601]
+Beslutninger etter utkastet § 38-4 krever begrunnelse, jf. utkastet § 32-7 og merknadene til bestemmelsen. Begrunnelsen skal reflektere alvoret i beslutningen ved at sakens realitet får sin endelige avgjørelse, og skal sikre kontroll med at ankedomstolen har foretatt en reell vurdering av om anken skal tillates fremmet i tråd med våre folkerettslige forpliktelser, se nærmere Rt. 2010 s. 987. *Fjerde ledd tredje punktum* er en spesialregulering som vil slå igjennom det alminnelige begrunnelseskravet etter § 32-7.
 
-NOU 2016: 24
-Ny straffeprosesslov
+*Til § 38-5. Henvisning*
 
-inngrep i mistenktes formue – heftelse og båndlegging.
-Annet ledd angir det selvsagte at tvangsinngrep kan gjennomføres med makt, men understreker samtidig nødvendighets- og forholdsmessighetskravet som ramme for maktbruken. Foruten direkte maktbruk ved for eksempel pågripelse
-og ransaking er det således blant annet adgang til
-å gjennomføre undersøkelser av ting som forringer eller ødelegger gjenstanden. Forhåndsdekning av tap som følge av tiltaket kan være
-aktuelt og vil ha betydning for forholdsmessighetsvurderingen.
-Tredje ledd gir i forlengelsen av adgangen til
-maktbruk etter første ledd særskilt hjemmel for
-innbrudd for å gjennomføre de angitte tvangstiltak. Når det er gitt tillatelse til et av de angitte
-tvangstiltakene, følger adgangen til å begå innbrudd direkte av bestemmelsen. Men retten kan
-sette vilkår for sin tillatelse til tvangsinngrep og i
-den forbindelse også beslutte at det ikke kan foretas innbrudd.
-Fjerde ledd hjemler bruk av uriktig legitimasjon i tilknytning til gjennomføring av tvangstiltak
-og plikt for offentlig myndighet til å utstede slike
-dokumenter. Se drøftelsen i punkt 14.10.2 og
-14.10.6. Bruk av uriktige legitimasjonsdokumenter er særlig aktuelt ved infiltrasjon etter utkastet
-§ 21-4, men kan tenkes å være «nødvendig» også
-for andre tvangstiltak, for eksempel for å kunne
-gjennomføre ransaking. Nødvendigheten kan
-knytte seg både til selve muligheten for å gjennomføre det aktuelle tvangstiltaket og til behovet
-for sikker gjennomføring. Tilliten til offentlige
-identifikasjonsdokumenter tilsier en høy terskel
-for å ta hjemmelen i bruk.
-Til § 14-6. Plikt til å medvirke til gjennomføring av
-tvangstiltak. Tilgangsopplysninger. Biometrisk
-autentisering
-Første ledd hjemler – i forlengelsen av vitneplikten
-– at påtalemyndigheten kan gi tredjepersoner
-med vitneplikt pålegg om ulike typer bistand som
-er nødvendig for å gjennomføre et besluttet
-tvangstiltak. Slike pålegg kan tvinges gjennom
-ved fengsling etter utkastet § 15-8 tredje ledd. Sikringspålegg og utleveringspålegg er i utkastet
-§§ 19-6 og 19-7 regulert som egne tvangstiltak
-med bistandsplikt for tredjepersoner.
-Bestemmelsens annet ledd gir – i motsetning
-til straffeprosessloven, se Høyesteretts kjennelse 30. august 2016 (HR-2016-01833-A) – hjemmel for pålegg om og eventuelt tvangsmessig
-gjennomføring av såkalt biometrisk autentise-
+Se straffeprosessloven § 325 første ledd første punktum. Se også tvisteloven § 29-14.
 
-599
+Beslutning om henvisning kan ikke ankes, jf. utkastet § 37-2 femte ledd. Når saken er henvist, skal den forberedes og avgjøres etter utkastet kapittel 39. Annet punktum skal legge til rette for at man under ankebehandlingen konsentrerer seg om det som er omstridt, og er et uttrykk for at hensynet til konsentrasjon skal ivaretas på alle stadier i saksbehandlingen. Bestemmelsen innebærer likevel ingen formell binding av ankedomstolens kompetanse.
 
-Kapittel 30
+Lagmannsretten eller Høyesterett i avdeling kan avvise en anke selv om den er henvist av ankeutvalget, se for så vidt gjelder Høyesterett Rt. 1981 s. 334, 570 og 926 og Rt. 1989 s. 1245.
 
-ring. Det kan for eksempel skje ved bruk av mistenktes finger for å få tilgang til en låst mobiltelefon som kan åpnes ved bruk av fingeravtrykk.
-Adgangen til pålegg og bruk av tvang er ikke
-begrenset til å gjelde for personer med vitneplikt
-i saken, slik som etter første ledd. Biometrisk
-autentisering kan således benyttes også overfor
-mistenkte og personer som kan påberope seg
-forklaringsfritak. Det vises til drøftelsen i punkt
-14.3.6.
-Til § 14-7. Taushetspålegg
-Se straffeprosessloven §§ 200 a, 202 g, 208 a, 210 a
-og 210 c.
-Pålegg om taushet etter bestemmelsen omfatter også begjæringen om tiltaket og resultatene av
-det, og er ikke begrenset til å gjelde overfor den
-mistenkte.
-Til § 14-8. Varigheten av tvangstiltak
-Se straffeprosessloven §§ 167, 202 a, 202 c, 210 b,
-216 f og 216 m.
-Bestemmelsen regulerer bare varigheten av
-rettslig besluttede tvangstiltak. For tvangstiltak
-som påtalemyndigheten kan beslutte, skal den
-selv føre løpende kontroll med at vilkårene for
-inngrepet til enhver tid er oppfylt, og enkelte
-tvangstiltaksbestemmelser fastsetter særlige
-frister.
-Til § 14-9. Rapport om tvangstiltak
-Se straffeprosessloven §§ 199 og 207 og kommunikasjonskontrollforskriften §§ 7 flg.
-Bestemmelsen fastslår helt generelt – i overenstemmelse med kravet til dokumentasjon av
-etterforskingen i utkastet § 13-5 tredje ledd – at
-det skal skrives rapport om tvangstiltak. Utkastet
-§ 14-11 hjemler nærmere forskriftsregler om
-dette. For en del tvangstiltak har utkastet også
-særlige bestemmelser om krav til rapport, se
-§ 19-3 om beslagsrapport og § 21-6 om krav til
-plan og dokumentasjon for tiltak etter kapittel 21,
-herunder påvirkning av hendelsesforløp og
-bevisprovokasjon.
-Til § 14-10. Underretning om tvangstiltak. Utsatt eller
-unnlatt underretning
-Se straffeprosessloven §§ 177, 200, 200 a, 202 c,
-202 e, 208 a, 210 a, 210 c, 215 a, 216 j og 222 d.
-Etter første ledd skal underretning om tvangstiltak som utgangspunkt gis til den tiltaket er
+**Til kapittel 39. Realitetsbehandling av anke**
 
-[Side 602]
+*Til § 39-1. Behandlingsform og avgjørelsesgrunnlag ved anke over beslutning*
 
-600
+Se straffeprosessloven §§ 385 første ledd, 387 første ledd første og annet punktum og 387 a første ledd første punktum. Utkastet bygger på tvisteloven § 29-15.
 
-Kapittel 30
+Om det skal besluttes muntlig forhandling ved anke over beslutning, skal bero på en vurdering av om skriftlig behandling vil være betryggende, jf. for eksempel Rt. 2002 s. 930 og Rt. 2004 s. 66. Det må tas i betraktning om det er krav om muntlig behandling etter EMK artikkel 6. Det er adgang til å beslutte muntlig forhandling etter at saken først har vært forsøkt behandlet skriftlig.
 
-NOU 2016: 24
-Ny straffeprosesslov
+Gjennomføringen av den muntlige behandlingen vil som regel være tilnærmet lik muntlig ankeforhandling ved anke over dom. Ankedomstolen kan bestemme omfanget av partenes prosedyrer og bevisføring under den muntlige behandlingen i medhold av de alminnelige reglene om saksstyring.
 
-«rettet mot», det vil si enhver som er vesentlig
-berørt, enten det er mistenkte eller en tredjeperson. For eksempel vil uttrykket omfatte den
-som har rådigheten over et avlyttet kommunikasjonsanlegg.
-Annet ledd første punktum gjør unntak fra
-kravet til underretning ved iverksettelsen for
-tvangstiltak som etter sin art må holdes hemmelige. Det gjelder inngrep i kommunikasjon mv.
-etter kapittel 20 og observerende, kontrollerende
-og påvirkende tiltak etter kapittel 21 samt tiltak
-som «etter særskilt bestemmelse besluttes uten at
-mistenkte eller andre tiltaket rammer, varsles
-eller gis anledning til å uttale seg». Etter utkastet
-gjelder det hemmelig ransaking, beslag, sikringspålegg, utleveringspålegg og båndlegging, jf.
-utkastet §§ 18-5, 19-2, 19-6 annet punktum, 19-8 og
-22-3 annet ledd annet punktum. Annet ledd annet
-punktum fastsetter at underretning gis når tiltaket
-er avsluttet, «med mindre annet er bestemt», og
-regler om fortsatt utsatt underretning er gitt i
-tredje og fjerde ledd.
-Til § 14-11. Forskrifter om rapport og undersetning om
-tvangstiltak
-Se straffeprosessloven § 184 a annet ledd.
-Forskriftshjemmelen åpner for at det kan gis
-nærmere regler om krav til rapport og undersetning etter utkastet §§ 14-9 og 14-10.
-Til kapittel 15. Meldeplikt, pågripelse og
-fengsling mv.
-Se straffeprosessloven kapittel 14 og drøftelsen i
-punkt 14.4.
-Kapitlet regulerer foruten pågripelse og fengsling slike tiltak som etter gjeldende rett gjerne
-betegnes som pågripelses- og varetektssurrogater,
-jf. straffeprosessloven §§ 181 og 188. I utkastet er
-de ulike tiltakene gitt selvstendig status og er ikke
-knyttet direkte til pågripelse og fengsling som det
-primære. Dersom et tilgjengelig og mindre inngripende tiltak vil sikre inngrepsformålet i tilstrekkelig grad, vil et strengere tiltak alltid være uforholdsmessig jf. utkastet § 14-1 annet ledd. Utkastet fastsetter enkelte særlige vilkår som bare gjelder for fengsling.
-De nærmere situasjonsbetingelsene for frihetsinnskrenkninger etter kapitlet er regulert i
-utkastet §§ 15-1 til 15-9, jf. også grunnvilkårene i
-§ 14-1. Bestemmelsene i §§ 15-10 og 15-11 angir
-særlige skranker for inngrep overfor utilregnelige
-og personer under 18 år, og § 15-12 regulerer
-adgangen til å benytte restriksjoner ved varetekts-
+*Til § 39-2. Behandlingsform og avgjørelsesgrunnlag ved anke over dom*
 
-fengsling. Utkastet §§ 15-13 til 15-19 har blant
-annet bestemmelser om beslutningsmyndighet og
-om gjennomføring og opphør av pågripelse, fengsling og sikkerhetsstillelse.
-Til § 15-1. Begrensninger i bevegelsesfriheten ved
-unndragelsesfare
-Se straffeprosessloven §§ 171 første ledd nr. 1,
-181, 184 annet ledd og 188. Det vises til drøftelsen
-i punkt 14.4.5.4.
-Første ledd gir anvisning på ulike tiltak som
-kan besluttes når det er «grunn til å frykte» unndragelse. Vilkåret skal forstås som etter gjeldende
-rett, og innebærer et krav til objektive holdepunkter for å konstatere unndragelsesrisiko. Det kreves som utgangspunkt ikke at det kan konstateres
-sannsynlighetsovervekt for unndragelse. Sannsynlighetskravet er ment å være relativt til sakens
-alvor og betydningen av en eventuell unndragelse.
-Det må i den forbindelse blant annet ses hen til
-om og eventuelt når forfølgning vil kunne skje på
-et senere tidspunkt dersom mistenkte flykter.
-Selvmordsrisiko har vært vurdert som unndragelsesfare, jf. Rt. 2003 s. 1016. Umiddelbart kan
-det gi en viss mening ved at videre straffeforfølgning av mistenkte er utelukket hvis vedkommende
-dør. Men det kan innvendes at det ved selvmord
-ikke lenger vil være noe ansvarssubjekt, og det
-treffer dermed ikke helt å si at faren for død er fare
-for unndragelse (på det hypotetiske unndragelsestidspunktet). Under enhver omstendighet bør slik
-risiko håndteres av psykisk helsevernloven og
-ikke danne grunnlag for varetektsfengsling. Fra
-rettsordenens side bør oppmerksomheten rettes
-mot å verne livet til den mistenkte av hensyn til
-mistenktes menneskeverd og ikke av hensyn til
-samfunnets interesse i å beholde et ansvarssubjekt
-som kan holdes straffansvarlig. I den grad vilkårene for bruk av tvang etter psykisk helsevernloven ikke er oppfylt, bør det heller ikke anses forholdsmessig å fengsle mistenkte.
-Oppregningen i bokstav a til g er uttømmende,
-men åpner etter sitt innhold i betydelig grad for å
-vurdere egnede alternativer til mer inngripende
-tiltak. Hvilke tiltak som kan besluttes etter alternativene i bokstav a til e, avgrenses først og fremst
-av formålsangivelsen i bestemmelsen og forholdsmessighetskravet i utkastet § 14-1 annet ledd. Det
-vises til drøftelsen i punkt 14.4.4.
-Annet ledd fastsetter et særlig kriminalitetskrav; lovbrudd som etter loven kan medføre
-«fengsel i 2 år eller mer». Dette innebærer at det
-ikke kan fengsles på grunn av unndragelsesfare i
-saker som gjelder straffebud med strafferamme i
+Se straffeprosessloven §§ 322 og 323, § 327 første ledd jf. § 278 første ledd og § 333 annet til fjerde ledd.
 
-[Side 603]
+*Annet ledd* erstatter det som i dag fremgår av § 322. Uttrykket «klart» skal forstås slik at det er de mer åpenbare tilfeller som kan avgjøres uten ankeforhandling, jf. Rt. 2007 s. 1349 avsnitt 17. For spørsmålet om hvorvidt et resultat er «mildere» etter *annet ledd bokstav b*, er vurderingstemaet om det konkrete resultatet vil være til mistenktes gunst. Er retten i tvil om dette, er det grunn til å fremme anken. Adgangen til å oppheve dommen etter *annet ledd bokstav c* gjelder for frifinnende og fellende dommer og for hele eller deler av avgjørelsen. Opphevelse kan således skje til gunst så vel som til skade for tiltalte. Dersom en del av dommen oppheves, fastsettes ny straff for de deler av domfellelsen som blir stående, jf. utkastet §§ 39-10 fjerde ledd og 39-11 femte ledd.
 
-NOU 2016: 24
-Ny straffeprosesslov
+Utgangspunktet etter *tredje ledd* er at alle anker skal kunne behandles skriftlig etter ønske om forenklet skriftlig behandling fra partene selv, eller etter beslutning av retten. Bestemmelsen utvider adgangen til skriftlig behandling sammenlignet med straffeprosessloven § 333. I vurderingen av om slik behandling er «hensiktsmessig og forsvarlig», skal det tas hensyn til sakens rettslige og faktiske problemstillinger, forhold ved tiltalte og partenes ønsker. Tiltalte har også ved skriftlig realitetsbehandling av anke over dom krav på forsvarer etter utkastet § 3-18 annet ledd.
 
-det lavere sjikt, se punkt 14.3.3.3. Bestemmelsen
-oppstiller en absolutt skranke, men peker også
-mot betydningen av sakens alvor for forholdsmessighetsvurderingen.
-Til § 15-2. Begrensninger i bevegelsesfriheten ved
-bevisforspillelsesfare
-Se straffeprosessloven §§ 171 første ledd nr. 2 og
-184 annet ledd. Det vises til drøftelsen i punkt
-14.4.5.5.
-Første ledd åpner for tiltak som angitt i § 15-1
-når det er «nærliggende fare» for bevisforspillelse.
-Vilkåret skal forstås som etter gjeldende rett og
-innebærer et krav til sannsynlighetsovervekt for
-at mistenktes reelle mulighet til å forspille bevis
-vil bli benyttet.
-Annet ledd første punktum fastsetter særlige vilkår for fengsling. For det første er kriminalitetskrav at lovbruddet mistanken gjelder, må ha en
-strafferamme på fengsel i 2 år eller mer. Videre er
-det angitt et kvalifisert krav til bevisforspillelsesfare, idet denne må representere en «betydelig
-risiko» for straffeforfølgningen. Sentrale momenter ved denne risikovurderingen vil være graden
-av bevisforspillelsesfare, behovet for å hindre
-bevisforspillelse og informasjonsgrunnlagets kvalitet, det vil si hvilke holdepunkter som tilsier at
-det foreligger betydelig risiko.
-Bevisforspillelsesfaren må vurderes i lys av
-sannsynligheten for at bevisforspillelse vil skje, og
-denne sannsynlighetsvurderingen må ta i betraktning både mistenktes vilje og evne til å ødelegge
-bevis. Dessuten må vekten av inngrepsformålet
-tas i betraktning, nemlig hvor viktig det er å hindre slik bevisforspillelse som det er fare for. I den
-sammenheng er det nødvendig med en viss konkretisering av hvilket eller hvilke mulige bevis
-som fryktes fjernet eller påvirket. Den nærmere
-vurderingen må ta hensyn til muligheten for å
-sikre bevis gjennom bevisopptak eller på annen
-måte, og til hvilken betydning en eventuell bevisforspillelse antas å ville ha for straffeforfølgningen. Dessuten har det betydning hvor effektiv
-fengsling antas å være for å hindre slik bevisforspillelse som det er fare for. Behovet for å hindre
-bevisforspillelse må vurderes i lys av hvilken
-straffbar handling mistanken gjelder, og sakens
-alvor for øvrig. Endelig må risikovurderingen ta
-hensyn til informasjonsgrunnlagets kvalitet, på
-den måten at man skal være forsiktig med å
-benytte fengsling på bakgrunn av antakelser om
-høy risiko som er svakt underbygget.
-Annet ledd annet punktum understreker at fare
-for at mistenkte tilpasser sin egen forklaring til
+*Fjerde ledd* er ment å videreføre det som i dag følger av § 323 siste ledd med enkelte språklige og tekniske justeringer. Uttrykket «dommen» i bokstav b utelukker ikke delvis opphevelse, jf. merknadene til utkastet § 37-1 om ankebegrepet.
 
-601
+*Til § 39-3. Rettens forhold til ankegrunnene ved anke over beslutning*
 
-Kapittel 30
+Se straffeprosessloven § 385 tredje ledd for så vidt gjelder saksbehandlingsfeil.
 
-øvrige bevis, ikke er et relevant fengslingsformål,
-verken alene eller som ledd i en helhetsvurdering.
-Tredje ledd fastsetter at bevisforspillelsesfare
-aldri kan begrunne fengsling i mer enn 3 måneder,
-men vilkåret «betydelig risiko» i annet ledd sammenholdt med kravet til saksfremdrift i utkastet
-§ 15-16 fjerde ledd bokstav b innebærer at den
-absolutte tidsgrensen bare unntaksvis bør kunne få
-betydning. Fengslingsformålet har slektskap med –
-og samme absolutte tidsgrense som – fengslig
-forvaring for å gjennomtvinge vitneplikt mv., jf.
-utkastet § 15-8 tredje ledd og merknadene til
-bestemmelsen.
-Til § 15-3. Begrensninger i bevegelsesfriheten av
-hensyn til allmennhetens retts- og trygghetsfølelse
-Se straffeprosessloven §§ 172 og 184 annet ledd.
-Det vises til drøftelsen i punkt 14.4.5.7.
-I tilfeller som kvalifiserer til inngrep etter
-bestemmelsen, vil det nok ofte være såkalt rettshåndhevelsesarrest, det vil si fengsling, som er
-mest aktuelt. Men alternative tiltak etter § 15-1
-kan etter omstendighetene være aktuelle, og må
-vurderes. For eksempel kan det være aktuelt å
-pålegge mistenkte ikke å oppholde seg i et lokalmiljø der den straffbare handling er begått.
-Til § 15-4. Pågripelse og fengsling etter mistenktes
-begjæring
-Se straffeprosessloven §§ 171 første ledd nr. 4 og
-184 annet ledd. Det vises til drøftelsen i punkt
-14.4.5.8.
-Bestemmelsen hjemler kun pågripelse og
-fengsling, idet øvrige tiltak som angitt i utkastet
-§ 15-1 første ledd, ikke er aktuelle for å ivareta inngrepsformålet, som er begrenset til at mistenkte i
-særlige tilfeller skal gis adgang til å komme i gang
-med foregrepet soning forut for dom.
-Mistenkte må selv overfor påtalemyndigheten
-begjære seg fengslet. Samtykke er ikke tilstrekkelig, og forutsetningen er også at initiativet til fengsling skal komme fra mistenkte. Mistenkte kan ikke
-selv fremme fengslingsbegjæring for retten, og
-påtalemyndigheten står ved utøvelsen av kan-skjønnet etter bestemmelsen meget fritt i sin vurdering
-av om fengsling er hensiktsmessig. Det kan i tillegg til mistenktes situasjon og sakens nærmere
-omstendigheter tas ulike prioriteringshensyn, herunder knyttet til kapasiteten i fengslene.
-Kravet til at fengsling må være «ubetenkelig»,
-vil normalt innebære at det må foreligge tilståelse
-idet foregrepet soning på mistenktes initiativ vil gi
-liten mening om vedkommende hevder seg uskyl-
+Ankedomstolen har som hovedregel full kompetanse når den prøver anke over beslutning, og er ikke bundet av de anførte ankegrunner. Retten må imidlertid holde seg innenfor begrensningene i adgangen til å anke over beslutninger som følger av utkastet § 37-2. Bestemmelsen må ses i sammenheng med utkastet § 39-8 om avgjørelser av anke over beslutning.
 
-[Side 604]
+*Til § 39-4. Rettens forhold til ankegrunnene ved anke over dom*
 
-602
+Se straffeprosessloven §§ 315 tredje ledd, 331 første ledd, 342 og 344. Bestemmelsen må ses i sammenheng med utkastet §§ 39-9 til 39-11 om avgjørelser av anke over dom.
 
-Kapittel 30
+*Første ledd* slår fast prinsippet om at ankedomstolens behandling i utgangspunktet skal rette seg mot de ankegrunnene som er henvist.
 
-NOU 2016: 24
-Ny straffeprosesslov
+Rettens kompetanse til å gå utenfor anken følger av *annet ledd*. Behandlingen skal for øvrig skje med utgangspunkt i henvisningsbeslutningen, jf. utkastet § 38-5, men sistnevnte bestemmelse innebærer ingen formell begrensning i ankedomstolens kompetanse.
 
-dig. Men tilståelse er ikke et formelt krav etter
-bestemmelsen, og det vil ikke nødvendigvis være
-helt utelukket med fengsling selv om det ikke avgis
-noen fullstendig tilståelse som dekker alle sider av
-saken. Men at fengsling må være «ubetenkelig»,
-innebærer et krav til straffskyld som tilsier en ubetinget fengselsstraff som utvilsomt dekker den
-aktuelle varetektstiden. Vilkåret innebærer også et
-krav om at det etter den samlede bevissituasjonen
-må være klart at mistenkte vil bli domfelt.
-Til § 15-5. Begrensninger i bevegelsesfriheten ved fare
-for ny straffbar handling
-Se straffeprosessloven §§ 171 første ledd nr. 3 og
-184 annet ledd. Det vises til drøftelsen i punkt
-14.4.5.7.
-Første ledd åpner for tiltak som angitt i utkastet
-§ 15-1 når det er «påkrevd» for å hindre ny kriminalitet. Det er ikke nok at det er mer sannsynlig at
-mistenkte vil forgå seg på nytt enn at vedkommende ikke vil det. Basert på objektive forhold i
-saken må det som utgangspunkt foreligge sterk
-sannsynlighetsovervekt for gjentakelse. Det må
-således gjennomgående fremstå som nokså klart
-at mistenkte på frifot vil begå en straffbar handling. Sannsynlighetskravet må imidlertid i noen
-grad vurderes relativt til andre forhold, i første
-rekke hvilke nye lovbrudd som søkes hindret, og
-det aktuelle inngrepets karakter.
-Annet ledd fastsetter at fengsling bare kan
-besluttes for å hindre ny kriminalitet av kvalifisert
-art, mens andre tiltak som angitt i utkastet § 15-1
-første ledd kan benyttes for å hindre også mindre
-alvorlig kriminalitet. Bare vektige interesser kan
-således beskyttes gjennom fengsling, men faren
-for nytt lovbrudd kan konstateres på bakgrunn av
-lovbrudd i saken som ikke i seg selv har høy
-strafferamme, og bestemmelsen fastsetter ikke
-noe særskilt kriminalitetskrav. Det sentrale er om
-det lovbruddet som allerede er begått, har prediksjonskraft. I den sammenheng vil det nok ofte ha
-betydning om det begåtte lovbruddet er av
-samme karakter som den kriminaliteten fengslingen tar sikte på å hindre, men noe formelt likhetskrav oppstiller bestemmelsen ikke.
-Lovbruddet fengslingen tar sikte på å forebygge, må etter første alternativ innebære en nærliggende og konkret trussel mot de underliggende interesser – liv, helse eller frihet – som kan
-vernes gjennom inngrepet. Dessuten åpner
-bestemmelsen i annet alternativ for varetektsfengsling ved «gjentatte lovbrudd» av «samfunnsskadelig eller særlig plagsom art». Dette innebærer skjerpede krav til grunnlaget for vurderin-
+Begrensningen i *annet ledd første punktum* gjelder når disse sidene ved avgjørelsen ikke er gjort til ankegrunn. Vilkåret «særlige forhold» forutsetter en vurdering av feilens betydning for avgjørelsen. Rettens skjønn skal praktiseres som etter gjeldende rett. Spørsmål om å gå utenfor anken kan tas opp av retten selv eller av partene under ankeforhandlingen.
 
-gen av faren for nye lovbrudd, ved at gjentakelse
-er et absolutt vilkår og ikke kun én av flere prediksjonsfaktorer. Hvilke lovbrudd som er relevante
-ved vurderingen, skal forstås på samme måte som
-i straffeloven § 62 første ledd om vilkår for å
-idømme overføring til tvungent psykisk helsevern.
-Til § 15-6. Begrensninger i bevegelsesfriheten ved
-vilkårsbrudd
-Se straffeprosessloven §§ 173 a og 184 annet ledd.
-Bestemmelsen oppstiller særlige grunnvilkår
-for tiltak som angitt i utkastet § 15-1 første ledd
-overfor den som «med skjellig grunn mistenkes»
-for nærmere angitt vilkårsbrudd. Dette er nødvendig fordi det alminnelige mistanke- og kriminalitetskravet i utkastet § 14-1 ikke kommer til anvendelse, idet grunnlaget for tiltak ikke nødvendigvis
-knytter seg til en begått straffbar handling. Grunnkravet til forholdsmessighet i utkastet § 14-1 annet
-ledd kommer imidlertid direkte til anvendelse også
-ved fengsling på grunn av vilkårsbrudd.
-Inngrepsformålet i bokstav a har sin parallell i
-utkastet § 15-1 om fengsling av mistenkte på
-grunn av unndragelsesfare, og fengslingsvurderingen vil langt på vei måtte skje etter de samme
-linjer som etter den bestemmelsen. Noen parallell
-til kriminalitetskravet i utkastet § 15-1 annet ledd
-har bestemmelsen ikke, og vilkårsbruddets alvor
-må tas i betraktning ved forholdsmessighetsvurderingen. I den forbindelse har det betydning at
-det er tale om å håndheve forutsetningene for en
-avsagt dom eller annen endelig avgjørelse som
-går ut på at betinget, subsidiær eller gjenstående
-frihetsstraff utstår i en prøvetid på nærmere vilkår, i motsetning til situasjonen ved unndragelsesfare etter § 15-1. Det vil derfor lettere kunne være
-forholdsmessig å fengsle selv om den utestående
-frihetsstraffen som unndragelsesfaren knytter seg
-til, er av kortere varighet. Men er det også usikkerhet om at det foreligger vilkårsbrudd, bør man
-være mer forsiktig.
-Inngrepsformålet i bokstav b har sin parallell i
-utkastet § 15-4 om fengsling etter mistenktes
-begjæring. Fengslingsvurderingen vil måtte skje
-etter de samme linjer som ved vurderingen etter
-denne bestemmelsen.
-Bokstav c om fengsling for å hindre nye vilkårsbrudd har sin parallell i utkastet § 15-5, men
-perspektivet er et annet. Fengsling for å hindre
-nye vilkårsbrudd tar sikte på å håndheve forutsetningene for en dom, og det er ikke en betingelse
-at de nye vilkårsbruddene som skal hindres, truer
-liv, helse eller frihet.
+*Annet ledd annet punktum* innebærer at retten bare kan prøve bevisbedømmelsen under skyldspørsmålet og straffutmålingen til skade for tiltalte når en slik anke er henvist til behandling.
 
-[Side 605]
+Etter *tredje ledd* kan retten gå utenfor ankegjenstanden i samme utstrekning som etter gjeldende § 342 tredje ledd.
 
-NOU 2016: 24
-Ny straffeprosesslov
+*Til § 39-5. Forberedelse til ankeforhandling. Berammelse*
 
-Til § 15-7. Pågripelse og fengsling av mistenkte for å
-sikre fremstilling
-Se straffeprosessloven §§ 88 og 230 tredje ledd.
-Bestemmelsen hjemler tiltak som angitt i utkastet § 15-1 første ledd bokstav e, f og g, det vil si sikkerhetsstillelse, pågripelse og fengsling – og lovens
-øvrige regler om slike tiltak kommer til anvendelse.
-Uteblivelse etter bestemmelsen forutsetter at mistenkte er lovlig innkalt og ikke har gyldig fravær.
-Første ledd åpner, som det fremgår av bestemmelsens ordlyd, kun for pågripelse og tar bare sikte
-på avklaring av om mistenkte vil forklare seg. Reguleringen må ses i sammenheng med utkastet § 10-2
-første ledd annet punktum om at den som ikke
-ønsker å avgi forklaring for politiet, eller har gyldig
-fravær, ikke skal innkalles til politiavhør.
-Annet ledd åpner for maktbruk for å få gjennomført en personundersøkelse eller psykiatrisk
-undersøkelse eller psykologisk undersøkelse. Etter
-annet ledd første punktum kan det besluttes pågripelse, og forutsetningen er således at undersøkelse
-kan gjennomføres innen fremstillingsfristen for
-fengsling i § 15-15. Fengsling kan skje etter
-bestemmelsen i annet ledd annet punktum. Et vilkår er at det er grunn til å frykte at mistenkte
-«igjen» vil utebli. Dette innebærer at mistenkte tidligere må ha uteblitt, det er ikke tilstrekkelig at
-andre forhold ligger til grunn for frykten for uteblivelse. Fengsling kan bare besluttes for å sikre oppmøte til psykiatrisk undersøkelse eller psykologisk
-undersøkelse etter utkastet § 16-2, ikke med tanke
-på å få gjennomført personundersøkelse etter
-§ 16-1.
-Tredje ledd første punktum åpner for pågripelse
-og fengsling av mistenkte ved uteblivelse fra rettsmøte etter lovlig innkalling. Pågripelse er aktuelt
-ved fremstilling straks i det rettsmøtet vedkommende har uteblitt fra, mens fengsling kan være
-nødvendig dersom det er aktuelt å holde på mistenkte til et senere rettsmøte som ikke avholdes
-innen fremstillingsfristen i utkastet § 15-15. Det vil
-sjelden kunne være aktuelt å fastsette annen
-fengslingsfrist enn til et berammet rettsmøte, som
-må avholdes så raskt det lar seg gjøre. Langvarig
-fengsling vil lett være uforholdsmessig, og det vil
-formentlig være helt upraktisk med fengslingsforlengelse, selv om reglene om dette i prinsippet
-kommer til anvendelse. Tredje ledd annet punktum
-gjelder forventet uteblivelse. Vilkåret om «grunn
-til å frykte» uteblivelse innebærer at det må foreligge konkrete holdepunkter for at vedkommende
-mest sannsynlig ikke vil møte.
-Fjerde ledd er en spesialregulering for å sikre
-domsforkynning. I motsetning til etter annet og
+Se straffeprosessloven § 327 første ledd annet punktum for så vidt gjelder dom. Se også straffeprosessloven § 385 første ledd.
 
-603
+Saksforberedelsen er som hovedregel skriftlig både ved anke over dom og anke over beslutning.
 
-Kapittel 30
+Etter *tredje punktum* er fristen for å holde ankeforhandling i tilfeller hvor mistenkte er fengslet eller under 20 år, åtte uker, se til sammenligning for hovedforhandling utkastet § 34-2 tredje ledd. For så vidt gjelder mistenktes alder, vil det avgjørende være om mistenkte var under 20 år på henvisningstidspunktet.
 
-tredje ledd er det bare pågripelse som er aktuelt,
-ikke fengsling. Fjerde ledd bokstav a forutsetter at
-det foreligger lovlig stevning. Etter fjerde ledd bokstav b kreves det ikke noen form for uteblivelse,
-men det må – til tross for slike forsøk som med
-rimelighet kan kreves – ha vist seg umulig å forkynne dommen i løpet av en måned.
-Femte ledd regulerer betydningen av at mistenkte møter beruset etter innkalling som angitt i
-bestemmelsens første til fjerde ledd. Bestemmelsen åpner kun for pågripelse, hvilket innebærer
-at beruselse ikke kan være grunnlag for å holde
-på mistenkte utover fremstillingsfristen for
-fengsling i utkastet § 15-15. At mistenkte har
-møtt beruset, kan rimeligvis heller ikke danne
-grunnlag for fortsatt pågripelse etter at vedkommende «ikke lenger er påvirket». Dette må forstås slik at mistenktes tilstand ikke lenger er til
-hinder for formålet med innkallingen. Pågripelse
-av en person som har møtt beruset, utover dette
-tidsrommet, må eventuelt skje i medhold av
-annet eller tredje ledd.
-Til § 15-8. Avhenting og fengslig forvaring av vitner.
-Fengsling for å sikre oppfyllelse av vitneplikt mv.
-Se straffeprosessloven §§ 115, 137 og 230 tredje
-ledd.
-Bestemmelsen hjemler slik sikkerhetsstillelse
-som angitt i utkastet § 15-1 første ledd bokstav e,
-mens «avhenting» og «fengslig forvaring» trer i
-stedet for pågripelse og fengsling, som utkastet
-forbeholder for tiltak overfor mistenkte. Uteblivelse etter bestemmelsen forutsetter at mistenkte
-er lovlig innkalt og ikke har gyldig forfall.
-Første ledd må ses i sammenheng med reguleringen i utkastet § 10-2 første ledd annet punktum
-om at den som ikke ønsker å avgi forklaring for
-politiet, ikke skal innkalles til politiavhør. Innkallingen er lovlig selv om forkynning er unnlatt etter
-unntaket i § 10-2 tredje ledd, og i slike tilfeller er
-det avgjørende for møteplikten vitnets faktiske
-kunnskap om innkallingen.
-Annet ledd hjemler tiltak overfor vitner ved uteblivelse fra rettsmøte etter lovlig innkalling.
-Reglene om fengsling kommer til anvendelse så
-langt de passer. Det innebærer blant annet at forholdsmessighetskravet i utkastet § 14-1 annet ledd
-kommer til anvendelse, og at fengslig forvaring må
-besluttes av retten, jf. utkastet § 14-3, jf. § 15-13.
-Videre gjelder fremstillingsreglene i utkastet § 1515, og vitnet må få oppnevnt advokat etter tilsvarende anvendelse av reglene om rett til forsvarer, jf.
-utkastet § 3-13. Avhenting etter annet ledd bokstav
-a er aktuelt ved fremstilling straks i det rettsmøtet
+*Til § 39-6. Gjennomføring av ankeforhandling*
 
-[Side 606]
+Se straffeprosessloven §§ 327 første ledd første punktum og 339. Det vises til drøftelsen i punkt 20.4.6.
 
-604
+Det følger av *første ledd* at ankeforhandling som hovedregel gjennomføres etter reglene om hovedforhandling i første instans. Bestemmelsen gjelder i utgangspunktet både for lagmannsrettens og Høyesteretts behandling, men for Høyesterett er det gitt enkelte særskilte regler, se særlig utkastet § 39-7.
 
-Kapittel 30
+Bestemmelser om gjennomføring av hoved- og ankeforhandling er gitt i utkastet kapittel 35. Av sentral betydning er rettens plikt til saksstyring, jf. § 35-1. Det legges dessuten opp til at det skal være en særlig konsentrasjon om sakens substansielle tvistetemaer når saken står for ankeinstansen. Bestemmelsen må således ses i sammenheng med utkastet § 38-5 annet punktum, som fastslår at henvisningsbeslutningen når det er hensiktsmessig, skal angi hvilke faktiske og rettslige forhold behandlingen bør konsentreres om.
 
-NOU 2016: 24
-Ny straffeprosesslov
+Ankeforhandlingen skal gjennomføres som angitt i utkastet §§ 35-2 til 35-5. Forklaringer føres etter utkastet § 10-9. Bestemmelsen åpner for at avspilling av opptak med lyd og bilde både kan benyttes til erstatning for og i kombinasjon med forklaring direkte for retten, jf. § 10-9 annet ledd med merknader. Se også punkt 6.5.4.5. For så vidt gjelder bevisføring i Høyesterett, se utkastet § 39-7.
 
-vedkommende har uteblitt fra, mens det må besluttes fengslig forvaring dersom det er aktuelt å holde
-på vitnet til et senere rettsmøte som ikke avholdes
-samme dag. Bestemmelsen i annet ledd bokstav b
-åpner ikke for frihetsberøvelse utover den tiden
-vedkommende er påvirket, og slikt inngrep gir ikke
-mistenkte rett til varetektsfradrag. Er det grunn til
-å frykte unndragelse, må grunnlaget for frihetsberøvelse søkes i annet ledd bokstav c.
-Tredje ledd første punktum regulerer fengslig
-forvaring av vitner for å gjennomtvinge vitneplikt.
-Inngrepsformålet er beslektet med bevisforspillelsesfengsling av mistenkte etter utkastet § 15-2 ved
-at informasjon som omfattes av vitneplikt, uberettiget avskjæres fra å komme til rettens kunnskap.
-Risikovurderingen etter § 15-2 annet ledd har således betydelig slektskap med og overføringsverdi
-for vurderingen av om det er tilstrekkelig grunn
-til fengsling for å gjennomtvinge vitneplikt. En viktig forskjell er likevel at mens vurderingen av
-bevisforspillelsesfare etter nevnte bestemmelse er
-usikker, vil det ved spørsmål om fengsling av et
-vitne være helt på det rene om vitneplikten ikke er
-etterkommet, jf. vilkåret om «rettskraftig pålegg».
-Det er dessuten av generell betydning for rettshåndhevelsen at vitneplikten håndheves, og
-bestemmelsen i domstolloven § 206 åpner således
-også for straff og erstatningsansvar for den som
-nekter å oppfylle sin vitneplikt. Ved forholdsmessighetsvurderingen etter § 14-1 annet ledd må
-dette tas i betraktning når fengsling vurderes. Det
-kan videre ha betydning hvorvidt det uten fengslig forvaring er utsikt til at vitnet vil forklare seg
-på et senere tidspunkt, før det treffes endelig realitetsavgjørelse i saken. Etter tredje ledd annet
-punktum kan også personer som ikke etterkommer pålegg om å gi tilgangsopplysninger eller
-sikrings- eller utleveringspålegg, fengsles for å
-gjennomtvinge plikten. Også i slike tilfeller ligger
-beslutningsmyndigheten til retten, som ved sin
-behandling av fengslingsspørsmålet må føre
-kontroll med pålegget hvis det i utgangspunktet
-er gitt av påtalemyndigheten.
-Til § 15-9. Midlertidig overføring av frihetsberøvet
-person mellom Norge og utlandet
-Se utleveringsloven §§ 25 og 25 a.
-Bestemmelsen viderefører med noen endringer utleveringsloven §§ 25 og 25 a om midlertidig overføring av frihetsberøvede personer, men
-bare for så vidt gjelder overføring til bruk for
-straffesak i Norge. Ettersom det er tale om et tiltak til bruk for norsk straffesak, er reguleringen
-plassert i utkastets del om tvangstiltak og ikke i
+Etter *annet ledd første punktum* skal den ankende part som hovedregel ha ansvar for å presentere saken slik den står for ankedomstolen. Bestemmelsen gjelder for alle ankegrunner, og er ment å bidra til en konsentrasjon av ankeforhandlingen. Se nærmere om bakgrunnen for bestemmelsen i punkt 20.4.6.
 
-del 4 om internasjonalt samarbeid. I medhold av
-utkastet § 25-2 annet ledd annet punktum vil
-bestemmelsen kunne anvendes tilsvarende som
-ledd i rettslig bistand til utenlandske myndigheter.
-Overføring etter første ledd første punktum er
-mest praktisk for at personen skal kunne avgi vitneforklaring. Det kreves ikke samtykke fra den
-som skal overføres, men et slikt vilkår kan følge
-av lovgivningen i staten vedkommende overføres
-fra. Hvorvidt det foreligger samtykke, og hvilke
-grunner vedkommende eventuelt oppgir for å
-motsette seg overføring, har uansett betydning
-for tiltakets forholdsmessighet, jf. utkastet § 14-1
-annet ledd.
-Første ledd annet punktum gir hjemmel for frihetsberøvelse i perioden vedkommende er overført. Beslutningen skal treffes av retten, jf. utkastet § 14-3 første ledd. Dersom frihetsberøvelsen i
-utlandet skjer på grunnlag av dom fra Norge, for
-eksempel som ledd i soningsoverføring, vil frihetsberøvelsen under overføringen følge de
-alminnelige regler om straffegjennomføring og
-ikke regimet etter annet til fjerde punktum.
-Første ledd tredje punktum er et utslag av at
-Norge i situasjoner der en midlertidig overføring
-er regulert ved overenskomst med fremmed stat,
-gjennomgående vil være forpliktet til ikke å løslate
-personen som er overført. Også utenfor konvensjonstilfellene vil det i alminnelighet stride mot forutsetningene for overføringen dersom løslatelse
-besluttes uten godkjenning fra den annen stat.
-Annet ledd svarer til ordningen etter utleveringsloven § 25 om overføring av frihetsberøvet
-person fra Norge til utlandet til bruk for straffesak
-i Norge. I vurderingen av om tiltaket er forholdsmessig, jf. utkastet § 14-1 annet ledd, skal det særlig legges vekt på om vedkommende samtykker til
-overføringen, hvilken medvirkning som kreves,
-overføringens antatte varighet, betydningen av
-det etterforskingsskritt som skal gjennomføres,
-fengselsforholdene i den annen stat og om overføringen vil kunne forlenge frihetsberøvelsen.
-Annet ledd annet punktum forutsetter at spørsmålet om overføring som utgangspunkt skal
-avgjøres av retten, jf. utkastet § 14-3 første ledd,
-men avgjørelsen kan treffes av påtalemyndigheten dersom vedkommende samtykker skriftlig i
-overføringen.
-Annet ledd tredje punktum hjemler – for norsk
-retts vedkommende – frihetsberøvelse i utlandet
-av den som overføres. Forutsetningen er at det
-foreligger avgjørelse om frihetsberøvelse i Norge.
-Tredje ledd presiserer at den som overføres,
-ikke skal utsettes for straffeforfølgning eller frihetsberøvelse utover det som følger av første og
+*Til § 39-7. Realitetsbehandling av anke til Høyesterett*
 
-[Side 607]
+Se straffeprosessloven §§ 338 og 339 annet ledd annet punktum.
 
-NOU 2016: 24
-Ny straffeprosesslov
+Bestemmelsen samler særreglene for gjennomføring av ankeforhandling i Høyesterett. For øvrig gjelder utkastet § 39-6. Vilkårene for bevisopptak og regler om gjennomføringen følger av utkastet kapittel 12.
 
-annet ledd, og avgrenser med det mot reglene om
-utlevering og overlevering til straffeforfølgning og
-fullbyrding av straff. Bestemmelsen er ikke til hinder for parallell bruk av reglene om utlevering og
-overlevering til straffeforfølgning og fullbyrding av
-straff. Ved overføring til utlandet skal det stilles vilkår om tilsvarende begrensninger.
-Til § 15-10. Pågripelse og fengsling av utilregnelige
-Se straffeprosessloven §§ 171 annet ledd og 184
-annet ledd.
-Bestemmelsen angir ingen selvstendige inngrepsformål, men hjemler pågripelse og fengsling av utilregnelige etter kapitlet når strafferettslig reaksjon som innebærer frihetsberøvelse, har aktualitet. Hvis det ikke allerede
-er reist sak om eller avsagt dom for særreaksjon,
-må det være «sannsynlig» at slik sak vil bli reist.
-Dette innebærer at det må være mer sannsynlig
-at særreaksjonssak vil bli reist enn at det ikke vil
-bli det. Ved vurderingen av vilkåret vil påtalemyndighetens pretensjoner og (foreløpig) erklæring fra psykiatrisk sakkyndig gjennomgående
-måtte stå sentralt. Tilkjennegir påtalemyndigheten at den – for det tilfellet at mistenkte anses
-utilregnelig – vil reise sak om særreaksjon, må
-det være klart at det i normaltilfeller også er det
-sannsynlige utfall.
-Til § 15-11. Fengsling av mistenkte under 18 år
-Se straffeprosessloven §§ 183 annet og tredje
-ledd, 184 annet ledd og 185 annet ledd.
-Bestemmelsen samler alle skjerpede krav som
-gjelder ved fengsling av mindreårige.
-Første ledd fastslår at mistenkte under 18 år
-bare kan fengsles «helt unntaksvis», og vilkåret er
-meget strengt. Det vises til punkt 14.3.4.2.
-Annet ledd innskjerper fremstillingsfristen
-som gjelder for mistenkte over 18 år etter utkastet
-§ 15-15 første ledd.
-Tredje ledd innskjerper den alminnelige reguleringen av tillatelsens varighet, som etter utkastet § 14-8 er 4 uker.
-Fjerde ledd utelukker isolasjon av mindreårige. Understrekningen av at restriksjoner i
-mindreåriges kontakt med omsorgspersoner «så
-vidt mulig» skal unngås, skal forstås strengt.
-Til § 15-12. Restriksjoner under pågripelse og fengsling.
-Isolasjon
-Se straffeprosessloven §§ 186 og 186 a. Det vises
-til drøftelsen i punkt 14.4.5.6.
+*Til § 39-8. Avgjørelse av anke over beslutning*
 
-605
+Se straffeprosessloven §§ 385 og 387 a. Se også drøftelsen i punkt 19.4.
 
-Kapittel 30
+Vilkåret «har grunnlag for det» i *første ledd første punktum* innebærer at underinstansens beskrivelse av de faktiske forhold må være tilstrekkelig til at ankedomstolen kan avgjøre spørsmålet på en fullt ut betryggende måte. Betydningen av umiddelbar bevisføring for de vurderingstemaer det da må tas stilling til, er sentralt for vurderingen, ettersom anker over beslutninger normalt skal behandles skriftlig, jf. utkastet § 39-1 første punktum.
 
-Første ledd første punktum gjør det klart at
-restriksjoner etter bestemmelsen bare er aktuelt
-når inngrepsformålet er bevisforspillelsesfare. Det
-er i slike tilfeller et ytterligere vilkår at «hensynet
-til etterforskingen» tilsier den aktuelle restriksjonsbruken gitt den frihetsberøvelse som allerede er besluttet etter utkastet § 15-2.
-Første ledd annet punktum hjemler «isolasjon»,
-det vil si at mistenkte «helt» nektes samvær med
-andre innsatte, jf. første ledd første punktum bokstav d.
-Annet ledd fastslår at isolasjon ikke kan besluttes for lenger enn inntil 2 uker av gangen, og bare
-«unntaksvis» kan forlenges. Om uttrykket vises
-det til punkt 14.3.4.2, jf. også punkt 14.4.5.6 om
-den høye terskelen som bør gjelde for isolasjon ut
-over 2 uker. Som forutsatt i første ledd annet
-punktum, er utelukkelse fra samvær med
-bestemte innsatte ikke å anse som isolasjon etter
-bestemmelsen. For slik delvis begrensing av
-samvær gjør ikke de samme tungtveiende mothensyn som for isolasjon seg gjeldende. Utkastet
-gjør for øvrig heller ikke som straffeprosessloven
-§ 186 bruk av uttrykket «delvis isolasjon», som
-språklig sett er noe misvisende.
-Til § 15-13. Beslutningsmyndighet og adgang til
-rettslig prøving
-Se straffeprosessloven §§ 175, 176 og 181.
-Bestemmelsen supplerer hovedregelen i
-utkastet § 14-3 om at retten har primærkompetanse til å beslutte tvangstiltak, med hastekompetanse for påtalemyndigheten.
-Etter første ledd første punktum har (også) påtalemyndigheten ordinær myndighet til å beslutte
-ulike pålegg etter utkastet § 15-1 første ledd
-bokstav a til e og pågripelse etter bokstav f. Beslutningsmyndigheten omfatter avhenting av vitner
-etter utkastet § 15-8. «Fengslig forvaring» av vitner
-etter utkastet § 15-8 må derimot besluttes av retten
-i tråd med hovedregelen i utkastet § 14-3. Etter
-første ledd annet punktum kan alle beslutninger
-truffet av påtalemyndigheten etter utkastet kapittel
-15 bringes inn for retten av den som berøres.
-Annet ledd åpner for såkalt borgerarrest, men
-har sin viktigste praktiske anvendelse i at politiet
-særlig i tilknytning til ordenstjeneste kan foreta
-pågripelser uten beslutning fra påtalemyndigheten
-i politiet.
-Til § 15-14. Underretning til nærstående om pågripelse
-og fengsling
-Se straffeprosessloven § 182.
+*Første ledd annet punktum bokstav a og b* angir de saksbehandlingsfeil som kan føre til opphevelse av beslutningen uten noen nærmere vurdering av om feilen har virket inn på resultatet. Vilkåret i *bokstav a* skal forstås på samme måte som i utkastet § 39-10 første ledd bokstav a til g for så vidt gjelder dom. *Bokstav b* skal forstås som i utkastet § 39-10 første ledd bokstav h.
 
-[Side 608]
+Innvirkningsvurderingen i *bokstav c* er todelt. Først skal det tas stilling til virkningene den konkrete saksbehandlingsfeilen har hatt for grunnlaget for rettens avgjørelse. Dersom det påvises en slik virkning, skal det så tas stilling til om den delen av grunnlaget som er uberørt av feilen, likevel er tilstrekkelig for å kunne treffe beslutningen. Kravet til innvirkning skal praktiseres som etter gjeldende rett. Terskelen for innvirkning er relativ og beroende på momenter som nevnt i punkt 19.4.4. Det skal blant annet tas hensyn til feilens karakter og grovhet.
 
-606
+Dersom ankedomstolen ikke har tilstrekkelig grunnlag for å prøve om feilen har innvirket, skal avgjørelsen oppheves.
 
-Kapittel 30
+*Til § 39-9. Avgjørelse av anke over dom når det er anket over bevisbedømmelsen under skyldspørsmålet*
 
-NOU 2016: 24
-Ny straffeprosesslov
+Se straffeprosessloven §§ 345 første ledd og 348 første ledd.
 
-Vilkårene for å unnlate varsling av den pågrepnes nærstående etter første ledd skal forstås som
-etter gjeldende rett. Det tilligger påtalemyndigheten alene å ta stilling til spørsmålet om underretning til nærstående på pågripelsesstadiet, og riksadvokaten har gitt nærmere retningslinjer om når
-underretning kan unnlates i rundskriv nr. 4/2006
-punkt IX,1. Rettslig prøving av om det skal gis
-underretning om frihetsberøvelsen, er bare aktuelt etter annet ledd dersom den pågrepne fremstilles for fengsling.
-Til § 15-15. Løslatelse eller fremstilling for fengsling
-Se straffeprosessloven § 183. Det vises til drøftelsen i punkt 14.4.5.9.
-Hovedregelen i første ledd første punktum om
-fremstilling «snarest mulig» innebærer at unødig
-tidsbruk ikke er akseptabelt, og lengstefristen gir
-ikke generell anvisning på hvor lenge en pågripelse kan tjene som grunnlag for frihetsberøvelse.
-Fristen må praktiseres strengt i lys av våre menneskerettslige forpliktelser, og ikke minst kan det
-bare rent unntaksvis aksepteres at den pågrepne
-fremstilles mer enn 48 timer etter pågripelse. Som
-etter gjeldende rett vil ikke oversittelse av fremstillingsfristen innebære en begrensning i domstolenes adgang til å beslutte fengsling, jf. Rt. 2014
-s. 1102, men oversittelsen kan ha betydning for
-forholdsmessighetsvurderingen. Uansett vil oversittelse av fristen være en alvorlig sak ved at den
-normalt vil innebære frihetsberøvelse uten et virksomt rettsgrunnlag, noe som etter omstendighetene endog kan medføre straffansvar for den
-påtaleansvarlige.
-Bestemmelsen i annet ledd fastsetter som
-utgangspunkt at påtalemyndigheten har plikt til å
-stille i fengslingsmøte, og det gjelder to kumulative
-vilkår for å unnlate å møte. Kravet til at oppmøte må
-være forbundet med «betydelig ulempe», skal forstås strengt. Hvorvidt oppmøte etter omstendighetene er «unødvendig», må først og fremst vurderes
-i lys av sakens kompleksitet og behovet for forsvarlig saksopplysning, og det vil bare unntaksvis
-kunne aksepteres at påtalemyndigheten ikke
-møter. Det har i denne sammenheng betydning at
-tjenesteperson i politiet som ikke tilhører påtalemyndigheten, etter utkastet § 2-12 fjerde ledd bokstav b, kan møte på påtalemyndighetens vegne for
-tingretten.
-Virkningen etter tredje ledd – at andre tiltak
-etter utkastet § 15-1 første ledd bortfaller ved
-fengsling – vil nok gjennomgående uansett følge
-av at vilkårene for tiltakene ikke lenger er til
-stede, gitt fengslingen. Reguleringen er gitt av
+Bestemmelsen gjelder kun for anke til lagmannsretten og skal forstås og praktiseres som etter gjeldende lov. Kravene til dommens innhold og begrunnelse følger av utkastet §§ 32-7 og 32-8.
 
-ordensmessige hensyn og innebærer at en slik
-vurdering ikke er nødvendig, og ved løslatelse må
-det eventuelt vurderes på nytt om det er behov for
-å beslutte tiltak som angitt i § 15-1 første ledd
-bokstav a til e.
-Til § 15-16. Fengslingsforlengelse. Løslatelse ved
-manglende fremdrift
-Se straffeprosessloven §§ 185 og 187 a.
-Fjerde ledd fastsetter uttrykkelig den selvfølge
-at mistenkte skal løslates når fristen for rettens tillatelse til fengsling er utløpt, og det ikke lenger
-foreligger et virksomt rettslig grunnlag for frihetsberøvelse. Også bestemmelsen i fjerde ledd bokstav a understreker bare det som uansett ville
-gjelde, nemlig at vilkårene for fengsling må være
-oppfylt i hele varetektsperioden. Påtalemyndigheten må påse at så er tilfellet, og plikter i motsatt
-fall å løslate mistenkte før utløpet av den besluttede fengslingsperiode. Også retten kan beslutte
-løslatelse på dette grunnlaget underveis i en
-fengslingsperiode hvis den har foranledning å vurdere spørsmålet, herunder etter mistenktes
-begjæring. Fjerde ledd bokstav b er strengt tatt
-omfattet av bokstav a, ved at også forholdsmessighet er et vilkår for fengsling, men bestemmelsen
-oppstiller en klar aktivitetsplikt som skal stå sentralt for forholdsmessighetsvurderingen. Det er
-hele «saken» som må fremmes med tilstrekkelig
-hurtighet, det vil si både etterforsking og rettslig
-behandling, og manglende saksfremdrift vil
-kunne begrunne løslatelse for alle typer fengslingsgrunner. Hva som er «tilstrekkelig» hurtighet, må dels vurderes ut fra hva som konkret har
-vært mulig, men har også en normativ komponent. Praktiske hindringer og manglende ressurser er således relevant, men ikke avgjørende for
-hva som kan aksepteres av tidsbruk. Hvorvidt utilstrekkelig saksfremdrift innebærer at fortsatt
-varetekt «ikke er rimelig», må – som ellers – vurderes ut fra situasjonen på vurderingstidspunktet.
-Men dersom fengslingen så langt fremstår som
-unødvendig fordi etterforsking allerede kunne
-vært ferdigstilt eller saken berammet og pådømt,
-vil det lett fremstå som uforholdsmessig med fortsatt fengsling.
-Til § 15-17. Fortsatt fengsling ved hovedforhandling og
-etter dom
-Se straffeprosessloven § 187.
-Bestemmelsen angir ikke selvstendige fengslingsformål, men første ledd åpner for fengslingsforlengelse uten beslutning etter utkastet § 15-16.
+*Til § 39-10. Avgjørelse av anke over dom når det er anket over saksbehandlingen*
 
-[Side 609]
+Se straffeprosessloven §§ 343, 345 annet ledd, 347, 348 annet ledd og 351.
 
-NOU 2016: 24
-Ny straffeprosesslov
+Bestemmelsen gjelder for anke til lagmannsrett og til Høyesterett. *Første ledd første punktum* erstatter gjeldende § 343 annet ledd nr. 2 til 8. Om forståelsen av kravet til innvirkning etter *første ledd annet punktum*, se kommentaren til utkastet § 39-8 første ledd annet punktum bokstav c.
 
-Første ledd bokstav a regulerer situasjon mens
-hovedforhandling pågår og den dømmende rett
-således kan føre løpende kontroll med fengslingen. Første ledd bokstav b åpner for fortsatt fengsling i to uker i påvente av dom, regnet fra da saken
-ble tatt opp til doms, og første ledd bokstav c hjemler fortsatt fengsling i fire uker uten uttrykkelig
-forlengelse i påvente av mulig soning. Men selv
-om adgangen til fortsatt fengsling uten beslutning
-om fengslingsforlengelse i disse situasjonene som
-utgangspunkt følger direkte av loven, er det, som
-det fremgår av første ledd annet og tredje punktum,
-ikke tale om noen egentlig automatikk i fengslingsforlengelsen.
-Annet ledd første punktum beskriver situasjoner der det gitt sakens utfall som utgangspunkt
-ikke vil være grunnlag for fortsatt fengsling, og
-understreker det selvsagte at mistenkte da skal
-løslates. Annet ledd annet punktum gir anvisning
-på at den dømmende rett ved spørsmål om anke
-over slik dom kan avgjøre spørsmålet om fortsatt
-fengsling, og gjør således unntak fra bestemmelsene om lagmannsrettens myndighet i utkastet
-§ 5-3, rettens sammensetning i utkastet §§ 5-5 og
-5-6 og verneting i utkastet § 5-10.
-Til § 15-18. Plassering av fengslede i institusjon eller
-kommunal boenhet
-Se straffeprosessloven § 188.
-Etter bestemmelsen kan fengsling gjennomføres ved plassering i institusjon som angitt. Det er
-således etter utkastet ikke tale om et alternativ til,
-men en form for, fengsling.
-Første punktum gir en vid skjønnsmessig
-adgang til plassering i institusjon eller kommunal
-boenhet av den som fengsles, når det fremstår
-som hensiktsmessig. Det kan ikke stilles strenge
-krav til at den som fengsles, er i en «tilstand som
-tilsier» plassering – gitt at stedsansvarlig samtykker, slik bestemmelsen forutsetter. Plassering
-etter annet punktum forutsetter at den som fengsles, er psykotisk eller psykisk utviklingshemmet.
-Det kreves derimot ikke – som etter straffeprosessloven § 188 tredje ledd – at tilstandsvurderingen bygger på en «entydig sakkyndig
-utredning», idet et slikt kriterium ville innebære
-et krav til legalbevis som er nokså fremmed og
-vanskelig kan forsvares.
-Til § 15-19. Sikkerhetsstillelse
-Se straffeprosessloven §§ 189 og 190.
-Reglene i første og annet ledd tar sikte på å
-sikre tilstrekkelig klarhet om forutsetningene for
+Er det begått en saksbehandlingsfeil ved underinstansens avgjørelse, kan dommen oppheves helt eller delvis. Hovedregelen etter *annet ledd* er at opphevelse av en dom også skal føre til opphevelse av den underliggende hovedforhandlingen. Det vil imidlertid kunne være «tilstrekkelig» å oppheve dommen, for eksempel ved mangelfulle domsgrunner. Om den videre behandling av saken etter opphevelse, se utkastet § 39-12.
 
-607
+*Tredje ledd* slår fast at når påtalemyndigheten anker over brudd på saksbehandlingsregler som skal verne mistenkte, som for eksempel bestemmelsene om rett til forsvarer, kan ankedomstolen ikke gå utenfor ankegrunnene etter utkastet § 39-4 til mistenktes skade, se straffeprosessloven § 351. Bestemmelsen bygger på en objektiv vurdering av hva som skal anses å være til gunst eller skade, med utgangspunkt i rettssystemets forutsetninger og ikke påtalemyndighetens pretensjoner. Ankedomstolen står, som ellers, fritt til å oppheve avgjørelsen innenfor ankegrunnen.
 
-Kapittel 30
+*Fjerde ledd* erstatter det som i dag er slått fast i § 348 annet ledd for så vidt gjelder anke over saksbehandlingen.
 
-sikkerhetsstillelsen. Det som er fastsatt i medhold
-av disse bestemmelsene, danner grunnlaget for
-rettens prøving etter tredje ledd av om sikkerheten
-er «brutt».
-Til § 15-20. Forskrifter om elektronisk kontroll og om
-forholdene i politiarrest mv.
-Bestemmelsen gir hjemmel for nærmere bestemmelser om slike forhold som i dag er regulert i
-forskrift 30. juni 2006 nr. 749 om bruk av politiarrest.
-Til kapittel 16. Personundersøkelse, psykiatrisk
-undersøkelse og psykologisk undersøkelse
-Til § 16-1. Personundersøkelse
-Se straffeprosessloven §§ 161, 161 a, 162, 163 og
-164 og påtaleinstruksens kapittel 14 «personundersøkelse» og i Justis- og beredskapsdepartementet regler om personundersøkelse i straffesaker av 22. oktober 1986 nr. 2373. Se ellers riksadvokatens rundskriv 8. mars 2010 (nr. 1/2010)
-s. 11 og 26. september 1991 (Del II – nr. 2/1991)
-s. 3.
-Personundersøkelse etter § 16-1 skal benyttes
-for å sikre påtalemyndigheten og retten et bredt
-informasjonsgrunnlag med sikte på å kunne fastsette korrekt påtalevedtak eller strafferettslig
-reaksjon. En personundersøkelse kan også ha
-relevans for skyldspørsmålet, for eksempel dersom saken reiser spørsmål om hvorvidt mistenkte
-har forstått at vedkommende objektivt sett har
-medvirket til et lovbrudd.
-Første ledd klargjør hva en personundersøkelse er. I alminnelighet er det av betydning å få
-en avklaring av mistenktes situasjon i fortid og
-nåtid samt vurderinger av hvilke fremtidige utsikter mistenkte har, gitt ulike betingelser. Det er
-utelukkende mistenktes forhold som skal avklares, men det kan også være behov for å fastslå
-mistenktes sosiale rammer. Det tilligger ikke den
-som utfører undersøkelsen, å vurdere om og i tilfelle hvilken reaksjon mistenkte eventuelt bør
-møtes med, men har vedkommende utreder
-kunnskap om straffegjennomføring eller kjennskap til mistenkte, og derfor særlig forutsetning
-for å si noe om dette spørsmålet, bør også dette
-kunne omfattes av mandatet.
-Ofte vil det være behov for å ta kontakt med
-ulike instanser for å fremskaffe opplysninger, og
-ettersom opplysningene kan være omfattet av
-regler om taushetsplikt, er det i praksis av betydning å innhente samtykke fra mistenkte til at informasjonen innhentes. Kriminalomsorgens behand-
+*Til § 39-11. Avgjørelse av anke over dom når det er anket over lovanvendelsen eller reaksjonsfastsettelsen*
 
-[Side 610]
+Se straffeprosessloven §§ 344, 345 annet ledd, 347, 348 annet ledd og 351.
 
-608
+Bestemmelsen gjelder for anke til lagmannsrett og til Høyesterett. Ankedomstolens adgang til å avgjøre anke over lovanvendelsen ved ny dom følger av *første ledd*. Underinstansens beskrivelse av faktum i domsgrunnene må i så fall være tilstrekkelig til at ankedomstolen kan avgjøre saken ut fra sitt syn på hva som er riktig lovanvendelse. Bestemmelsen utelukker ikke domfellelse dersom det ligger til rette for det.
 
-Kapittel 30
+Dersom en anke over straffutmålingen fører frem, jf. *annet ledd første punktum*, kan ankedomstolen fastsette ny reaksjon ut fra sitt syn på saken, eventuelt ved supplerende bevisføring.
 
-NOU 2016: 24
-Ny straffeprosesslov
+*Annet ledd annet punktum* erstatter gjeldende § 344 med en annen ordlyd. Det følger av bestemmelsen at ankeinstansen bare kan fastsette ny straff dersom det er «klart» synlig for ankeinstansen at underinstansens straffutmåling er uriktig. Om misforholdet er lite eller betydelig er i prinsippet ikke relevant. Bestemmelsen gjelder også for valget mellom straffarter. Se nærmere drøftelsen i punkt 20.4.8.
 
-ling av personopplysninger ved personundersøkelsen reguleres av straffegjennomføringsloven
-kapittel 1 a, jf. personopplysningsloven. Politiets
-behandling av personopplysninger ved personundersøkelsen, herunder sletting av slike personopplysninger, reguleres av politiregisterloven.
-Videre klargjør første ledd til hvilke formål det
-skal utarbeides personundersøkelse. Personundersøkelse skal ikke innhentes til andre formål.
-Det innebærer blant annet at bestemmelsen som
-et utgangspunkt ikke gir hjemmel til å fremskaffe
-opplysninger om skyldspørsmålet i etterforskingsøyemed.
-Uttrykket «betydning for sakens opplysning» i
-første ledd bokstav a skal forstås vidt, slik at det
-omfatter opplysning med sikte på påtalevedtak og
-saksopplysning under den rettslige behandlingen.
-Det avgjørende for om undersøkelse bør iverksettes, er om det er behov for å få klarlagt vedkommendes personlighet, livsforhold og fremtidsutsikter. Det skal legges særlig legges vekt på mistenktes alder og miljøforhold, sakens alvor, undersøkelsens betydning for sakens avgjørelse og om undersøkelsen vil kunne føre til en uheldig forsinkelse av
-saken. Det bør så hurtig som mulig tas stilling til
-om det er behov for mer omfattende opplysninger
-om mistenktes personlige forhold enn det som vil
-fremgå av personaliarapporten som i alminnelighet
-utarbeides i straffesaker. Dersom mistenkte selv
-mener en slik undersøkelse er av betydning for
-reaksjonsspørsmålet, bør begjæringen i alminnelighet etterkommes.
-Etter straffeloven § 40 femte ledd er det krav
-om personundersøkelse før det kan avsies dom
-på for varing, alternativt kan det utføres psykiatrisk undersøkelse. Også ellers når man står
-overfor flere mulige reaksjonsformer, kan personundersøkelse være aktuelt, for eksempel når
-det er spørsmål om det skal reageres med betinget eller ubetinget straff. Andre sentrale typetilfeller er når det er aktuelt med samfunnsstraff, å
-fastsette vilkår for betinget dom eller å gi dom
-på narkotikaprogram med domstolskontroll
-eller program mot ruspåvirket kjøring, jf. riksadvokatens rundskriv 8. mars 2010 (nr. 1/2010)
-s. 11.
-Personundersøkelsen skal gjenspeile mistenktes situasjon på det tidspunktet den benyttes. I
-alminnelighet bør undersøkelsen oppdateres eller
-ny undersøkelse gjennomføres dersom mistenktes personlighet, livsforhold eller fremtidsmuligheter er vesentlig endret, eller undersøkelsen er
-mer enn ett år gammel. Det har også vært ordningen hva gjelder bruk ved pådømmelse, se påtaleinstruksen § 14-1 fjerde ledd.
+*Fjerde ledd* erstatter § 351 for så vidt gjelder begrenset anke over lovanvendelsen eller straffutmålingen. Straffen kan ikke skjerpes, og det kan ikke legges til grunn en strengere subsumsjon når påtalemyndigheten har anket til gunst for domfelte. Hvordan saken skal behandles etter opphevelse, er løst i utkastet § 39-12.
 
-Første ledd bokstav b uttrykker en presumsjon
-for at det vil være av betydning for reaksjonsspørsmålet å få systematisert opplysninger om personlighet, livsforhold og fremtidsutsikter når lovbruddet er begått av et barn, og fastslår at det derfor
-skal innhentes personundersøkelse dersom
-mistenkte var under 18 år på handlingstidspunktet, med mindre presumsjonen imøtegås, jf. at
-undersøkelse er «klart uhensiktsmessig», eller
-det er tale om en foreleggssak eller sak avgjort
-ved påtaleunnlatelse.
-I annet ledd er det gjort unntak fra hovedregelen i utkastet § 14-3 om at tvangstiltak utelukkende besluttes av retten foruten i hastetilfellene.
-Retten kan i tråd med den generelle reguleringen
-beslutte undersøkelse når den har saken til
-behandling, og den mener det er av betydning for
-sakens opplysning.
-Tredje ledd gjør Kriminalomsorgen ansvarlig for
-undersøkelsen. Utgangspunktet er at Kriminalomsorgen skal benytte egne ansatte, og det vanlige
-vil være at oppgaven utføres av personer ved friomsorgskontorene. Personer utenfor Kriminalomsorgen bør bare utpekes dersom de har særlig
-kjennskap til mistenkte, eller geografiske forhold
-tilsier det. Kriminalomsorgen er da ansvarlig for
-undersøkelsen og har instruksjonsmyndighet overfor undersøkeren.
-Straffeprosessloven fastslår i § 163 annet ledd at
-«som personundersøker kan ingen gjøre tjeneste
-når han etter domstolsloven § 106 eller § 108 ville
-være ugild som dommer». Se nærmere Justis- og
-politidepartementets rundskriv 18. august 2003
-(G-2003-13) punkt 6. Det er ikke lenger behov for
-en slik særskilt habilitetsbestemmelse, ettersom
-det er lagt til Kriminalomsorgen å utføre undersøkelsen eller utpeke den som skal gjennomføre
-undersøkelsen, og da gjelder habilitetsreglene
-etter forvaltningsloven, jf. straffegjennomføringsloven § 7, jf. forvaltningsloven § 6.
-Mandatet til Kriminalomsorgen utformes konkret ut fra behovet i den enkelte sak og skal besvares i skriftlig erklæring. Ved behov kan erklæringen utfylles ved muntlig forklaring, noe som er
-påkrevd dersom den som har gjennomført undersøkelsen, er kjent med at situasjonen for mistenkte har endret seg i tiden etter undersøkelsen.
-Personundersøkeren har plikt til å møte for retten, noe som følger av den generelle reguleringen
-om vitner som skal forklare seg i rettsmøte, se
-utkastet § 10-1.
-Tredje ledd annet punktum gir hjemmel for å
-føre register over personundersøkelser. Registeret skal kunne benyttes ved senere behov for personundersøkelse. Det bør også etter særskilt
+*Til § 39-12. Videre behandling av saken etter opphevelse*
+
+Se straffeprosessloven §§ 347 og 350.
+
+*Første ledd* gir en påminnelse om plikten til videre behandling av saken etter ankebehandling som har resultert i opphevelse.
+
+Etter *annet ledd første punktum* skal retten settes med nye fagdommere og nye lekdommere eller fagkyndige meddommere når også hovedforhandlingen som ligger til grunn for dommen, oppheves. Ved mindre domstoler kan det bli behov for å tilkalle dommere fra andre embeter for å oppfylle kravet.
+
+*Tredje ledd* binder avgjørelsen av skyldspørsmålet i den første dommen for så vidt gjelder de forhold opphevelsesgrunnen ikke omfatter. Retten står imidlertid fritt med hensyn til reaksjonsfastsettelsen. Henvisningen til bestemmelsen i utkastet §§ 39-10 tredje ledd og 39-11 fjerde ledd innebærer at prinsippet om at dommen ikke kan endres til skade for tiltalte, både gjelder ved ankedomstolens behandling av saken og ved den nye behandlingen i underinstansen etter opphevelse.
+
+**Til del 9. Fullbyrding og gjenåpning**
+
+**Til kapittel 40. Fullbyrding**
+
+*Til § 40-1. Fullbyrding av straff eller annen strafferettslig reaksjon*
+
+Se straffeprosessloven §§ 452 første punktum, 453 første punktum, 454 og 460 første punktum. Se også påtaleinstruksen kapittel 29 og 30.
+
+Bestemmelsen angir når fullbyrding finner sted, samt enkelte regler om hvordan fullbyrdingen skal skje.
+
+*Annet ledd annet punktum* omfatter også tilfellene der en anke er tatt til behandling på tross av fristoversittelse.
+
+*Tredje ledd* *annet punktum bokstav a* fastslår at subsidiær frihetsstraff kun skal fullbyrdes når det er betalingsviljen det står på og ikke betalingsevnen, med mindre allmenne hensyn gjør seg gjeldende, jf. *tredje ledd annet punktum bokstav b*, se nærmere Ot.prp. nr. 90 (2003–2004) s. 492–493.
+
+*Til § 40-2. Iverksetting*
+
+Se straffeprosessloven §§ 452 annet ledd, 455 annet ledd, 456 første ledd og annet ledd annet punktum, 458 og 459 første og fjerde ledd.
+
+Bestemmelsen angir hvem som står for iverksettelsen av straff som skal fullbyrdes, absolutte og relative utsettelsesgrunner og regler for Kriminalomsorgens saksbehandling.
+
+*Første ledd* fordeler ansvar mellom myndighetene til å iverksette fullbyrding når vilkårene er oppfylt etter utkastet § 40-1. Med uttrykket «bøter» i *første ledd bokstav b* siktes det til straff som angitt i straffeloven § 29 første ledd bokstav e. Herunder omfattes rettergangsbøter. Uttrykket «andre tilfeller» i *første ledd bokstav c* omfatter rettighetstap, jf. straffeloven § 29 første ledd bokstav f, og inndragning, jf. straffeloven § 30 bokstav e, og tap av retten til å føre motorvogn mv., jf. straffeloven § 30 bokstav h.
+
+*Annet ledd* gir regler om når iverksettelsen «skal» utsettes. *Annet ledd bokstav a* må ses i sammenheng med den særlige adgangen til å bringe tvist om fullbyrding med Kriminalomsorgen inn for retten etter utkastet § 40-4 første ledd bokstav d.
+
+*Tredje ledd* gir en skjønnsmessig hjemmel for å utsette iverksettelsen, jf. «kan». *Tredje ledd bokstav a* legger kompetansen til å beslutte utsettelse både til ankedomstolen som skal behandle saken, og til den dømmende rett som mottar en for sent fremsatt anke, jf. utkastet §§ 37-4 tredje ledd og 37-5 annet ledd. Utsettelse før iverksettelse når det er fremsatt begjæring om gjenåpning og frem til saken eventuelt besluttes gjenåpnet, reguleres av *tredje ledd bokstav b*.
+
+*Fjerde ledd* gir departementet adgang til å avbryte fullbyrdingen når det er utsikt til at en begjæring om gjenåpning vil føre frem og ende i en dom som innebærer at fortsatt fullbyrding bør opphøre, sml. situasjonen i Rt. 2010 s. 1046. Retten vil da i tråd med utkastet ikke lenger ha en slik kompetanse som ble lagt til grunn i denne avgjørelsen.
+
+For departementets behandling etter *tredje ledd bokstav b* og *fjerde ledd* gis forvaltningsloven ikke anvendelse, jf. unntaket for rettspleielovene i forvaltningsloven § 4 første ledd bokstav b. Behandlingen skal være i tråd med alminnelige prinsipper om forsvarlig og god saksbehandling.
+
+*Til § 40-3. Pålegg om oppmøte til fullbyrding. Avhenting*
+
+Se straffeprosessloven § 461.
+
+*Til § 40-4. Tvist om fullbyrding. Fastsetting av straff ved utlevering*
+
+Se straffeprosessloven §§ 459 siste punktum, 462 og 463 b.
+
+Ved valg av domstol gjelder vernetingsreglene i utkastet §§ 5-10 og 5-11. Det vil kunne være hensiktsmessig å benytte stedets rett eller den rett som har dømt i saken.
+
+Saksanlegg etter *første ledd* *bokstav d* kan ikke avskjæres med en påstand om manglende rettslig interesse under henvisning til at begjæring om soningsutsettelse ikke har blitt gitt oppsettende virkning og fullbyrding av straff allerede er iverksatt, se Rt. 2014 s. 216.
+
+*Til § 40-5. Forskrifter om fullbyrding*
+
+Se straffeprosessloven §§ 456 tredje ledd, 457 og 462 a.
+
+*Bokstav a og c* gir generell adgang for Kongen til å fastsette regler om saksbehandlingen hos de involverte organer for saker om fullbyrding, mens *bokstav b* også gir mulighet til å gi nærmere regler om avhenting til fullbyrding. *Bokstav d* gir adgang til å videreføre regelinnholdet som følger av straffeprosessloven § 456 tredje ledd med tilhørende forskriftsregulering.
+
+**Til kapittel 41. Gjenåpning**
+
+Gjenåpning er et ekstraordinært rettsmiddel mot rettskraftige avgjørelser, regulert i straffeprosesslovens kapittel 27. Om bakgrunnen for dagens regulering vises det til Ot.prp. nr. 35 (1978–79), Ot.prp. nr. 78 (1992–93), Ot.prp. nr. 70 (2000–2001), Ot.prp. nr. 54 (2005–2006), Ot.prp. nr. 74 (2005–2006), Ot.prp. nr. 6 (2007–2008) og Ot.prp. nr. 11 (2007–2008). Se også rapporten *Etterkontroll av Kommisjonen for gjenopptakelse av straffesaker* fra 2012.
+
+Utvalgets generelle vurderinger av ordningen med gjenåpning fremgår i punkt 22.3. Om rettskraft vises det til punkt 17.8. Forholdet mellom gjenåpning og de ordinære rettsmidlene er behandlet i punkt 22.3.3.
+
+Utkastet viderefører i hovedsak de sentrale vilkårene for gjenåpning. Regelutformingen er imidlertid endret for å gjøre innholdet lettere tilgjengelig, og bestemmelsene er som i utkastet for øvrig gitt en forklarende overskrift.
+
+*Til § 41-1. Avgjørelser som kan gjenåpnes*
+
+Se straffeprosessloven §§ 389 og 401. Se drøftelsen i punkt 22.3.4.
+
+*Første ledd* fastslår adgangen til å gjenåpne rettsavgjørelser som innebærer at en straffesak eller en selvstendig del av den avsluttes, og som er rettskraftige. Hvilke sider ved avgjørelsene som kan gjenåpnes, behandles nærmere i tilknytning til vilkårene for gjenåpning, som alle viser tilbake til avgjørelsesbegrepet i § 41-1 ved at de innledes med uttrykket «en avgjørelse skal gjenåpnes» eller «en avgjørelse kan gjenåpnes».
+
+Bestemmelsen omfatter avgjørelser både i førsteinstans og i ankeinstans. Begjæringen om gjenåpning skal rettes mot avgjørelsen i den siste instans som behandlet det kravet gjenåpningen gjelder.
+
+Uttrykket «dommer» omfatter enhver avgjørelse som etter loven formelt er betegnet som dom, herunder avgjørelser om straffekravet og strafferettslige reaksjoner samt nektelse av prøveløslatelse fra slike reaksjoner.
+
+Andre typer beslutninger enn de som er nevnt, kan ikke gjenåpnes. Utenfor ordningen med gjenåpning faller blant annet beslutninger om utlevering og beslag av førerkort. Utenfor faller også prosessledende beslutninger, ettersom disse ikke er avgjørelser med avsluttende karakter.
+
+En avgjørelse av en begjæring om gjenåpning kan ikke gjenåpnes. Dersom begjæringen ikke har ført frem, kan det imidlertid fremsettes ny begjæring om gjenåpning av avgjørelsen i den underliggende straffesaken. Har en begjæring ført frem, og det har vært en ny straffesak, er det den nye avgjørelsen en eventuell gjenåpningsbegjæring skal rettes mot.
+
+Sivile krav som er behandlet sammen med straffesak, gjenåpnes etter reglene i kapitlet om sivile krav, se utkastet § 43-16.
+
+Gjenåpning av forelegg, herunder inndragningsforelegg, er regulert særskilt, se utkastet § 29-12.
+
+*Annet ledd* fastslår at vilkårene for gjenåpning ved inndragning følger av tvisteloven, men slik at tidsfristen for gjenåpning etter tvisteloven § 31-6 ikke skal anvendes. Prosessuelt følger behandlingen reglene i straffeprosessloven.
+
+Bestemmelsen gjelder generelt, uavhengig av om kravene har vært avgjort alene eller sammen med et krav om straff. Den er ikke til hinder for at det ved begjæring om gjenåpning av en avgjørelse om et straffekrav også kan skje en prøving av avgjørelsen om inndragning.
+
+*Til § 41-2. Beslutningsmyndighet. Kommisjonen for gjenopptakelse av straffesaker*
+
+Se straffeprosessloven § 394. Se drøftelsen i punkt 22.3.2 og 22.3.6.6.
+
+Gjenopptakelseskommisjonen har saklig kompetanse til å behandle begjæringer om gjenåpning og beslutte at saker som er besluttet gjenåpnet, skal behandles i det ordinære domstolsapparatet. Kommisjonens virksomhet er regulert i utkastet § 41-12 flg.
+
+*Til § 41-3. Rett til å begjære gjenåpning*
+
+Se straffeprosessloven §§ 389 første ledd og 389 annet ledd, jf. § 308, og 394 annet ledd.
+
+Bestemmelsen angir uttømmende hvem som har rett til å fremsette begjæring om gjenåpning. De ulike grunnlag begjæringen kan bygge på, følger av vilkårene for gjenåpning angitt i utkastet §§ 41-5 til 41-11. Påtalemyndigheten kan alltid begjære gjenåpning til domfeltes gunst.
+
+*Første ledd* uttrykker utgangspunktet om at partsautonomien er styrende for om det skal igangsettes en gjenåpningssak.
+
+*Annet ledd* supplerer partsinitiativet ved domfeltes død, for gjenåpning til domfeltes gunst. Adgangen vil typisk benyttes når det er grunn til å fjerne et uriktig straffestempel fra en persons ettermæle.
+
+*Til § 41-4. Krav til begjæring om gjenåpning*
+
+Se straffeprosessloven § 394 første ledd.
+
+Kravene til utforming av begjæring om gjenåpning skal gi kommisjonen et tilstrekkelig grunnlag for å prøve gjenåpningsspørsmålet og må forstås med det for øye.
+
+Begjæringen skal avvises dersom kravene ikke er oppfylt. Kommisjonen har imidlertid veiledningsplikt overfor den som fremsetter begjæringen, og kommisjonens ansvar for sakens opplysning kan også innebære en plikt til rettledning med sikte på korrekt utforming av begjæringen, se utkastet §§ 41-17 og 41-15. Det bør i alminnelighet settes en frist for retting før en sak avvises.
+
+*Til § 41-5. Gjenåpning til domfeltes gunst på grunn av nytt bevis eller en ny omstendighet*
+
+Se straffeprosessloven § 391 nr. 3. Se drøftelsen i punkt 22.3.6.1 og 22.3.6.2.
+
+Med «nytt bevis» forstås ny informasjon om de spørsmål retten tok stilling til, men som ikke forelå for den dømmende rett og derfor ikke kunne påvirke dommens innhold. Det kan være nye vitner, nye forklaringer fra den som har forklart seg for retten, eller reelle bevismidler.
+
+Også ny kunnskap om hva som kan utledes av den informasjonen retten hadde tilgjengelig, er å anse som nytt bevis. Det vil blant annet gjelde nye sakkyndige erklæringer som uttrykker andre erfaringssetninger enn de dommen bygger på, eller ny innsikt for øvrig. Et eksempel kan være en ny måte å analysere biologisk materiale for å avdekke DNA.
+
+Bestemmelsen retter seg mot informasjon og erfaringssetninger som har betydning for vurderingen av strafferettslig relevant faktum. Betydningen av ny informasjon og nye erfaringssetninger av betydning for lovforståelsen skal bedømmes etter utkastet §§ 41-7 eller 41-10.
+
+Kravet om at beviset skal være «nytt» forutsetter at beviset ikke er påberopt under saken eller i forbindelse med bruk av ordinære rettsmidler i tilknytning til gjenåpningsgrunnlaget. En part som har påberopt seg et bevis i en straffutmålingsanke, kan således begjære gjenåpning av skyldspørsmålet på grunnlag av dette beviset såfremt det ikke var fremme ved behandlingen av skyldspørsmålet under hoved- eller ankeforhandling.
+
+I utgangspunktet kan domfelte kreve gjenåpning selv om det nye beviset var kjent på domstidspunktet, også når det kan bebreides den domfelte at informasjonen ikke lå til grunn for dommen. Hensynet til rettskraft er likevel i *annet punktum* gitt gjennomslag når det er idømt en mindre alvorlig reaksjon. I en slik situasjon kan det imidlertid besluttes gjenåpning til gunst for domfelte etter begjæring fra påtalemyndigheten.
+
+Innvirkningskriteriet om at beviset skal «synes egnet» til å lede til en endring som angitt, skal som etter gjeldende rett forstås slik at det er tilstrekkelig med en rimelig mulighet for slik virkning – det kreves ikke sannsynlighetsovervekt. Videre skal vurderingen etter innvirkningskriteriet være mer abstrakt enn konkret, i den forstand at det ikke foretas en inngående og fullstendig bevisvurdering, men en vurdering av om resultatet etter sakens karakter vil kunne bli et annet, jf. «synes egnet til».
+
+Dersom domfelte er død, er det likevel grunn for kommisjonen til å gå noe dypere inn i vurderingen av bevisene i saken, ettersom en eventuell beslutning om gjenåpning vil føre til en endelig avgjørelse i form av frifinnelse, jf. utkastet § 41-23 annet ledd bokstav a.
+
+Alternativet «frifinnelse» omhandler ny informasjon om straffbarhetsbetingelsene som ble tematisert i saken.
+
+Alternativet «anvendelse av en mildere straffebestemmelse» benyttes når det er utsikt til at forholdet skal straffes som overtredelse av et mindre alvorlig straffebud.
+
+Alternativet «vesentlig mildere rettsfølge» retter seg mot straff, strafferettslige særreaksjoner og rettighetstap. For de andre strafferettslige reaksjonene i straffeloven § 30 vil det formodentlig ikke være aktuelt med «vesentlig mildere» rettsfølger enn disse.
+
+De nye bevisene må kunne hatt betydning på domstidspunktet. Bevis for etterfølgende forhold gir ikke grunnlag for gjenåpning, men kan etter omstendighetene gi grunnlag for benådning, jf. Grunnloven § 20. Er mistenkte dømt for flere forhold, og kun har begjært enkelte av dem gjenåpnet, er vurderingstemaet om den samlede straffen vil bli vesentlig mildere.
+
+Uttrykket «ny omstendighet» omfatter for det første nye rettsfakta. Rettsfakta er faktiske forhold med umiddelbar rettslig betydning, som for eksempel straffbortfallsgrunnen provokasjon. Også rettsfakta av betydning for straffutmålingen kan begrunne gjenåpning, jf. «vesentlig mildere rettsfølge».
+
+I praksis har spørsmålet om tilregnelighet stor betydning som gjenåpningsgrunn etter dette alternativet. Situasjonen vil da være at domfeltes tilregnelighet ikke ble tematisert av den dømmende rett, mens det senere viser seg at det er grunn til å stille spørsmål om hvorvidt straffbarhetsbetingelsen forelå på handlingstidspunktet. Dette er en «ny omstendighet» fordi informasjonen knytter seg til et nytt rettfaktum og skiller seg fra situasjonen der spørsmålet har vært vurdert, men saksopplysningen har vært mangelfull og som således skal vurderes etter alternativet «nytt bevis».
+
+Med «ny omstendighet» siktes det videre til rettslige avgjørelser om samme saksforhold og samme bevistemaer – omhandler samme rettsfakta – som er tilkommet etter dommen og bedømt annerledes. Som eksempel på en dom hvor de samme bevisene er vurdert annerledes, se Rt. 1991 s. 810. Praktisk for gjenåpning på dette grunnlaget vil være dommer i samme sakskompleks der flere er tiltalt for det samme forhold, men bare noen av de domfelte anker avgjørelsen, og ankeinstansen legger til grunn en annen lovforståelse eller et saksforhold som resulterer i frifinnelse. Et eksempel hentet fra praksis gjaldt en person som var straffet for å ha lånt bort bilen sin og ikke ha forvisset seg om at sjåføren var edru. Den samme føreren ble imidlertid senere frifunnet for å ha kjørt i alkoholpåvirket tilstand.
+
+Også for dette gjenåpningsgrunnlaget er hensynet til rettskraft gitt gjennomslag ved at det ikke kan påberopes nye omstendigheter som burde vært gjort gjeldende før dom i mindre alvorlige saker.
+
+*Til § 41-6. Gjenåpning til mistenktes ugunst på grunn av nytt bevis eller en ny omstendighet*
+
+Se straffeprosessloven § 393 første ledd nr. 2.
+
+Bestemmelsen gjelder gjenåpning til skade for mistenkte og retter seg mot frifinnende så vel som fellende dommer. Gjenåpning kan kreves av begge parter.
+
+Uttrykkene «bevis» og «omstendigheter» skal forstås som i utkastet § 41-5.
+
+Uttrykket «tilsier» skal forstås strengt. Det kreves bevis eller omstendigheter som klart peker ut vedkommende, for eksempel en tilståelse, sterke vitnemål eller et uomtvistelig DNA-bevis.
+
+Er dommen fellende, krever loven at domfelte må antas å være skyldig i en vesentlig grovere straffbar handling enn den vedkommende er domfelt for. Det stilles ikke krav om at det er grunnlag for endret subsumsjon.
+
+Det er ikke anledning til gjenåpning på grunnlag av bevis som påtalemyndigheten burde gjort gjeldende tidligere. Det siktes da først og fremst til at opplysninger er tilbakeholdt før dommen, typisk ved at påtalemyndigheten har vært kjent med bevis av betydning for saken uten å føre dem for den dømmende rett. Men gjenåpning kan også nektes på dette grunnlag dersom påtalemyndigheten har ventet for lenge med å begjære gjenåpning.
+
+*Til § 41-7. Gjenåpning til domfeltes gunst på grunn av forhold ved lovanvendelsen*
+
+Se straffeprosessloven §§ 391 nr. 2 og 392 første ledd. Se drøftelsen i punkt 22.3.6.3.
+
+Kommisjonens kompetanse er utformet diskresjonært, jf. «kan gjenåpnes». Kommisjonen skal for de enkelte alternativene vurdere om det er tilstrekkelig grunn til å tillate gjenåpning. Terskelen for å gjenåpne må for de enkelte typetilfellene få nærmere avklaring gjennom rettspraksis.
+
+Vilkåret i *bokstav a* om at det skal være klart at dommen savner hjemmel, skal forstås strengt. Det er kun opplagte hjemmelsmangler som omfattes. Det kan være at det hefter formelle feil ved loven som er anvendt, for eksempel manglende kunngjøring i Norsk Lovtidend, se til illustrasjon Rt. 2005 s. 1401. Også en domfellelse som baserer seg på et straffebud anvendt i strid med regler om straffrihet i konvensjoner Norge er forpliktet etter, vil normalt føre til gjenåpning, jf. Gjenopptakelseskommisjonens avgjørelse 18. desember 2014 (GK-2014-156), som gjaldt flyktningkonvensjonen artikkel 31 nr. 1. En tredje type avgjørelser som vil omfattes, er domfellelser basert på forbudsskilt uten lovhjemmel, se til illustrasjon Rt. 1960 s. 83 (parkering) og Gjenopptakelseskommisjonens avgjørelse 19. juni 2013 (GK-2013-15), jf. RG 2011 s. 1395 (miljøfartsgrense).
+
+Også ny informasjon og nye erfaringssetninger av betydning for tolkingen av et straffebud kan etter omstendighetene gi grunnlag for gjenåpning etter bokstav a. Det vil for eksempel være tilfellet hvis innholdet i en aktsomhetsnorm er basert på en bransjestandard, og det viser seg at en klart uriktig standard ble lagt til grunn.
+
+Utgangspunktet er at gjenåpning besluttes når det fastslås at lovhjemmel mangler, men likevel ikke dersom det nærmest vil være uten betydning om saken gjenåpnes, for eksempel fordi det er opplagt at bruk av et alternativt straffebud ville ført til samme resultat.
+
+*Bokstav b* retter seg mot situasjoner der Høyesterett har gitt direkte uttrykk for en abstrakt lovforståelse, ikke situasjoner der lovforståelsen kommer til uttrykk gjennom en konkret subsumsjon. Det avgjørende for spørsmålet om gjenåpning skal være om det vil virke støtende om dommen blir stående etter at Høyesterett har skiftet kurs. Endringer over tid av innholdet i rettsregler som gjør bruk av såkalte rettslige standarder – der adferdsnormen får sitt innhold ved at gjerningsbeskrivelsen utfylles med moraloppfatninger, bransjepraksis og lignende – skal ikke gi grunnlag for gjenåpning etter bestemmelsen.
+
+Også situasjoner der Høyesterett har fraveket en lovforståelse på grunn av folkerettslige forpliktelser, og saken som begjæres gjenåpnet, kan bringes inn for et internasjonalt konvensjonsorgan med konstatering av konvensjonsbrudd som resultat, er omfattet. Se til illustrasjon Rt. 2010 s. 1170 avsnitt 84–85, som gjaldt begrunnelseskravet ved ankenektelse.
+
+Gjenåpning etter *bokstav c* forutsetter at et av de angitte internasjonale håndhevingsorganene har kommet til at den avgjørelsen som søkes gjenåpnet, er i strid med folkeretten. Gjenåpning etter dette alternativet forutsetter at håndhevingsorganet har vurdert det samme konkrete saksforholdet som gjenåpningssaken gjelder.
+
+For tilfeller som nevnt i bokstav c er også det klare utgangspunktet at det skal besluttes gjenåpning. Det kan likevel unnlates gjenåpning dersom staten har reparert konvensjonskrenkelsen på annet vis, for eksempel gjennom en avtale med den det gjelder, om en annen form for kompensasjon.
+
+En avgjørelse fra et internasjonalt håndhevingsorgan, for eksempel EMD, av betydning for saksforhold i andre saker skal vurderes etter bokstav a eller bokstav b dersom Høyesterett har tatt stilling til det samme spørsmålet. Men at en internasjonal domstol i en mer eller mindre sammenlignbar sak bygger på en annen forståelse av folkeretten enn den norske domstol som har truffet en avgjørelse, er ikke en gjenåpningsgrunn før det følger av en avgjørelse avsagt av norske domstoler at man utvilsomt står overfor en krenkelse. Det er ikke Gjenopptakelseskommisjonens oppgave å foreta inngående analyser av denne typen rettskildemateriale, og kommisjonen har heller ikke de beste forutsetninger for det, se Ot.prp. nr. 70 (2000–2001) s. 76–77.
+
+*Til § 41-8. Gjenåpning til domfeltes gunst på grunn av feil ved saksbehandlingen*
+
+Se straffeprosessloven §§ 390 og 391 nr. 1. Se drøftelsen i punkt 22.3.6.4.
+
+En saksbehandlingsfeil kan etter omstendighetene føre til feil avgjørelse, og bestemmelsen angir de materielle vilkårene for gjenåpning på grunn av forhold ved rettergangen til domfeltes gunst. Overskriften fremhever at det gjelder gjenåpning «på grunn av feil» ved saksbehandlingen. Vurderingen av om det foreligger feil, er objektiv, og vilkåret innebærer ikke et krav om at saken er håndtert galt av myndighetene ut fra forutsetningene på behandlingstidspunktet. Også forhold som ikke var kjent eller burde vært kjent, kan begrunne gjenåpning.
+
+Gjenåpning etter *første ledd* er aktuelt når det påvises at det pådømte forhold allerede var rettskraftig avgjort. Alternativet gir også grunnlag for gjenåpning ved manglende innkalling eller gyldig forfall. Beviskravet er strengt, jf. «klart», men i alminnelighet vil det ikke hefte usikkerhet omkring dette, for eksempel vil det kunne bringes klarhet i om saken allerede var rettskraftig avgjort.
+
+*Annet ledd* angir konkrete saksbehandlingsfeil som skal føre til gjenåpning. Kravene til sannsynlighet for at det er begått feil, og at feilen har innvirket, må forstås i lys av det strenge strafferettslige beviskravet for domfellelse. Det alminnelige prosessuelle beviskravet er relativt, og det må etter omstendighetene kunne være tilstrekkelig å legge til grunn at det ikke kan utelukkes at forholdet som utgjør feilen, har funnet sted, for eksempel dersom en domfellelse for et alvorlig forhold bygger på et bevis som nå hevdes å være falskt. Innvirkningskravet er ikke strengt, idet saken skal gjenåpnes dersom det «ikke kan utelukkes» at forholdene kan ha innvirket på dommen. Det er tilstrekkelig med en liten mulighet for at forholdet kan ha innvirket på resultatet.
+
+*Annet ledd bokstav a* omfatter forhold som tilsier at dommeren etter loven ikke kunne gjøre tjeneste generelt eller ikke kunne gjøre tjeneste i den aktuelle saken. Det klart viktigste typetilfellet vil være inhabilitet etter domstolloven §§ 106 til 108. Bestemmelsen må ses i sammenheng med regelen i utkastet § 39-10 første ledd om saksbehandlingsfeil som ubetinget skal føre til opphevelse. Særlig hensynet til domstolenes tillit tilsier at det ikke bør kreves mye for gjenåpning på dette grunnlaget; mangler ved rettergangen som det her er tale om, er så alvorlige at det er stilt krav om at innvirkning kan utelukkes.
+
+Med uttrykket «aktør» siktes det til aktørene i lovutkastet del 1 og med uttrykket «noen som har bistått denne» til andre som har sitt virke knyttet til straffesaksbehandlingen. Bestemmelsen omfatter således persongruppen som er opplistet i straffeprosessloven § 391 første alternativ, «dommer, lagrettemedlem, protokollfører, tjenestemann i politi eller påtalemyndighet, aktor, forsvarer, sakkyndig eller rettstolk», men også andre grupper er omfattet dersom formålet tilsier det. For eksempel kan det tenkes at domstolens tekniske personell har bistått under saken og handlet på en måte som bør gi grunnlag for gjenåpning.
+
+*Annet ledd bokstav c og d* om gjenåpning på bakgrunn av falsk vitneforklaring og bevisforfalskning overlapper dels med gjenåpningsgrunnen «nye bevis» etter § 41-5, ettersom de omhandler ny informasjon som kaster lys over sakens bevistema. Gjenåpning på dette grunnlaget er likevel plassert i bestemmelsen om saksbehandlingsfeil for å markere betydningen av at en avgjørelse ikke bygger på en lovformelig prosess. I tillegg kommer at man for gjenåpning til gunst stiller strengere krav om innvirkning etter utkastet § 41-5.
+
+Det gjelder etter ulovfestet rett et nokså strengt krav for å legge til grunn at et vitne har forklart seg falskt, eller at noen har forfalsket et dokument, ettersom det er en anklage som er belastende for den det gjelder. Det samme grunnlaget vil imidlertid kunne begrunne gjenåpning etter utkastet § 41-5.
+
+*Til § 41-9. Gjenåpning til mistenktes ugunst på grunn av feil ved saksbehandlingen*
+
+Se straffeprosessloven §§ 390 og 393 første ledd nr. 1.
+
+Bestemmelsen gjelder gjenåpning til ugunst på grunnlag som nevnt i utkastet § 41-8 annet ledd. For *alternativ b* gjelder et skjerpet krav til sakens alvor. Kravene til sannsynlighet for at det er begått feil, skal ikke praktiseres i lys av det strenge strafferettslige beviskravet for domfellelse. Kravet til innvirkning er noe strengere enn etter utkastet § 41-8 annet ledd, jf. «grunn til å anta», som skal forstås som innvirkningskravet etter straffeprosessloven 393 første ledd nr. 1.
+
+*Til § 41-10. Gjenåpning til domfeltes gunst i særlige tilfeller*
+
+Se straffeprosessloven § 392 annet ledd.
+
+Bestemmelsen gir adgang til gjenåpning til gunst i tilfeller som faller utenfor reguleringene i utkastet §§ 41-5, 41-7 og 41-8 om forhold ved bevissituasjonen, lovanvendelsen og saksbehandlingen. Bestemmelsen er en siste sikkerhetsventil og skal som etter gjeldende rett benyttes med varsomhet, se Ot.prp. nr. 78 (1992–93) s. 63 og Rt. 2001 s. 1521 på s. 1538.
+
+Med uttrykket «til gunst» siktes det til at det er en domfellelse som angripes, eller at det ligger en domfellelse til grunn for avgjørelsen som angripes. Det begrenser adgangen til å begjære gjenåpning for den som er frifunnet, med mindre det faktiske forhold tiltalen gjelder, er lagt til grunn i dommen.
+
+Det avgjørende er om det er «tvilsomt» om den aktuelle avgjørelsen er korrekt, og om saken etter en totalvurdering stiller seg slik at «tungtveiende hensyn» tilsier ny prøving, det vil si at hensynet til riktige rettsavgjørelser med styrke tilsier at det bør skje en ny prøving av saken.
+
+Det følger av dette at de fleste tilfeller som bør gjenåpnes, vil falle inn under lovens øvrige regler om gjenåpning. Det klare utgangspunktet er at gjenåpning skal vurderes etter de øvrige bestemmelsene. Det kan likevel tenkes at vilkårene etter disse bestemmelsene ikke er oppfylt, og saken likevel bør prøves på nytt. For eksempel kan det hefte flere betenkelige forhold ved saken, som ikke hver for seg kan begrunne gjenåpning, eller det kan være forhold som klart tilsier at rimelig tvil ikke har kommet tiltalte til gode.
+
+To avgjørelser av Gjenopptakelseskommisjonen fra 2013 (GK-2013-107 og GK-2013-110) er illustrerende for hvordan bestemmelsen skal praktiseres. Begge sakene gjaldt straffansvar for uaktsomt drap – for henholdsvis en person og et foretak – etter at en gesims i murkronen på en bygård i Oslo hadde rast ut og truffet en person, som senere døde av skadene. I begjæringen om gjenåpning var det med henvisning til nye sakkyndige utredninger gjort gjeldende at årsaksforholdene var andre enn de som var lagt til grunn for domfellelsene. Kommisjonen oppnevnte også ytterligere sakkyndige. Samtlige nye sakkyndige fant andre skademekanismer og årsaksforhold enn det lagmannsretten hadde lagt til grunn. Kommisjonen konkluderte, uten å ta stilling til årsaksforholdene, med at det ikke var grunnlag for en slik sikker konklusjon som lagmannsretten hadde lagt til grunn, og dette, sammenholdt med at det ut fra domsbegrunnelsen var uklart om det strafferettslige beviskravet var anvendt korrekt, tilsa gjenåpning.
+
+*Til § 41-11. Gjenåpning av dommer eldre enn 25 år*
+
+Se drøftelsen i punkt 22.3.6.5.
+
+Bestemmelsen gir hensynene til rettskraft og bevisbarhet gjennomslag for reglene om gjenåpning, ved at det for gjenåpning av eldre avgjørelser i tillegg til de alminnelige vilkårene kreves at det påvises forhold som gjør det meget tvilsomt at dommen er riktig. Forholdene kan være de samme som begrunner gjenåpning etter de generelle bestemmelsene, og skjønnet skal utøves i lys av i de øvrige reglene om gjenåpning. Er det klart at saken vil bli fullgodt opplyst ved ny behandling, skal dette også kunne tas hensyn til. Vilkåret «meget tvilsomt» er en høyere terskel enn «tvilsomt» i utkastet § 41-10.
+
+*Til § 41-12. Kommisjonen for gjenopptakelse av straffesaker. Uavhengighet*
+
+Se straffeprosessloven § 395 femte ledd.
+
+Gjenopptakelseskommisjonen avgjør alle saker om gjenåpning etter loven. Bestemmelsen fastslår kommisjonens status som uavhengig organ i *første ledd* og uavhengighetens grenser i *annet ledd*.
+
+*Til § 41-13. Kommisjonens sammensetning*
+
+Se straffeprosessloven § 395.
+
+*Til § 41-14. Regler om habilitet, taushetsplikt og politiattest*
+
+Se straffeprosessloven § 396.
+
+*Første ledd* knytter kommisjonens virksomhet opp mot domstollovens alminnelige regler om habilitet og taushetsplikt. Det er tatt utgangspunkt i domstollovens regler fordi avgjørelsene som treffes, har nær tilknytning til dømmende virksomhet. Annerledes enn for dommere er imidlertid at kommisjonsmedlemmene ikke er fulltidsansatt i kommisjonen, og at de derfor vil drive annen virksomhet og ha verv som kan aktualisere spørsmål om habilitet. Habilitetsreglenes nærmere innhold må forstås i lys av rettspraksis.
+
+*Første ledd annet punktum* begrenser domstollovens habilitetsregler av hensyn til situasjonen der det fremmes en ny begjæring i en sak som tidligere er behandlet av kommisjonen. Bestemmelsen sikrer at kommisjonen ved sine medlemmer, utredere eller andre ikke er forhindret fra å behandle saken på nytt, med mindre vilkårene i domstolloven § 108 er oppfylt. Det må således foreligge særlige forhold som kan tilsi inhabilitet, utover den tidligere befatningen med saken.
+
+*Første ledd tredje punktum* sikter først og fremst til domstollovens regulering av hvordan habilitetsspørsmål skal behandles, særlig §§ 111, 113, 116, 117 annet ledd, 118, 120 og 121.
+
+Etter *første ledd fjerde punktum* avgjør kommisjonen selv spørsmål om habilitet og tar stilling til habilitetsinnsigelser. Blir det behov for settemedlemmer, oppnevnes disse av departementet, jf. utkastet § 41-13 fjerde ledd. En eventuell rettslig prøving av habilitetsspørsmålet må skje i forbindelse med gyldighetskontroll av kommisjonens vedtak.
+
+*Annet ledd* innebærer også at straffeloven § 209 om straffansvar for taushetsbrudd kan få anvendelse.
+
+*Til § 41-15. Kommisjonens utrednings-, behandlings- og begrunnelsesplikt*
+
+Se straffeprosessloven § 398 første ledd.
+
+Utredningsplikten etter første ledd skal forstås i sammenheng med kommisjonens veiledningsplikt etter utkastet § 41-17 og kompetansen kommisjonen har til å iverksette undersøkende tiltak etter §§ 41-19 til 41-21.
+
+Ved behandlingen skal kommisjonen være den drivende aktør. Utgangspunktet er at saksbehandlingen skal være mer inkvisitorisk enn partsprosessen ved rettslig behandling, i alle fall i saker som gjelder spørsmål om gjenåpning til gunst for domfelte. I hvilken utstrekning saken skal søkes opplyst, og hvilke tiltak som skal iverksettes, må bedømmes konkret. Det avgjørende skal være hva som er praktisk mulig og økonomisk forsvarlig, tatt i betraktning sakens alvor og dens betydning for domfelte.
+
+Kommisjonen avgjør også selv hvordan saken best opplyses, herunder om kommisjonen bør dra på befaring, gjennomføre rekonstruksjon eller avholde muntlige høringer. Om kommisjonens adgang til å gå utenfor begjæringen vises det til drøftelsen i punkt 22.3.6.6.
+
+Uttrykket «uten ugrunnet opphold» i *annet ledd* innebærer at avgjørelse skal treffes så raskt som mulig. Hva dette nærmere innebærer, må avgjøres ut fra behovet i den konkrete saken og arbeidssituasjonen. Herunder skal det ses hen til sakens karakter og hvilket behov det er for undersøkelser i de øvrige sakene kommisjonen har til behandling.
+
+Som et utgangspunkt skal sakene behandles i den rekkefølgen de kommer inn, men kommisjonen er nærmest til å vurdere og bør derfor selv avgjøre om det er grunn til å fravike utgangspunktet.
+
+Domfeltes personlige forhold kan tilsi rask behandling, og for eksempel saker der vedkommende soner eller skal sone frihetsstraff eller er alvorlig syk, bør prioriteres. Også institusjonelle forhold kan tilsi rask behandling hos kommisjonen, for eksempel dersom det er behov for en generell avklaring av hvordan en bestemt type saker skal håndteres.
+
+I saker der det er rettet sterk kritikk mot påtalemyndigheten eller domstolene, kan tilliten til disse institusjonene tilsi en hurtig avklaring. Også bevismessige forhold bør vektlegges, for eksempel kan det være grunn til å prioritere en sak hvis det er fare for at bevis vil gå tapt, eller dersom det er behov for å gjennomføre tidkrevende undersøkelser.
+
+*Til § 41-16. Avgjørelsesmyndighet*
+
+Se straffeprosessloven §§ 395 tredje ledd annet punktum, 397 tredje ledd og 399 første punktum.
+
+*Annet ledd bokstav a og b* gir adgang, men ikke plikt, til å avvise og forkaste begjæringer uten nærmere behandling.
+
+Kravet til sammensetning i *tredje ledd* skal sikre en forsvarlig og bred vurdering av viktige beslutninger for gjenåpningssaken. Det vil blant annet gjelde spørsmålet om hvorvidt det skal iverksettes bevisopptak, gjennomføres høring eller treffes avgjørelse om vitneforklaring.
+
+*Til § 41-17. Kommisjonens forhold til partene*
+
+Se straffeprosessloven § 397 annet ledd femte punktum.
+
+Veiledningsplikten etter *første ledd* gjelder først og fremst overfor domfelte og skal sikre at avgjørelsen om gjenåpning treffes på grunnlag av en klar begjæring. Plikten gjelder prosessuelle så vel som materielle spørsmål og rekker lenger enn domstolenes veiledningsplikt, som i større grad skal være basert på partenes aktivitet. Sentrale vurderingstemaer for veiledningspliktens omfang er sakens alvor og kompleksitet, personlige forhold hos domfelte og om domfelte har bistand av advokat. Kommisjonen avgjør av eget tiltak om og i hvilket omfang det er behov for å gi veiledning.
+
+*Annet ledd* virker i forlengelsen av veiledningsplikten etter første ledd ved å gi hjemmel for å oppnevne forsvarer til å bistå den som begjærer gjenåpning. Vurderingstemaet er om det er hensiktsmessig med oppnevning for å sikre at vedkommendes interesser i gjenåpningssaken ivaretas. Oppnevning er blant annet aktuelt når det er grunn til å anta at domfelte var eller er i en tilstand som nevnt i straffeloven § 20, og når det foreligger opplysninger av betydning for avgjørelsen som domfelte ikke har innsyn i.
+
+Spørsmålet om oppnevning av forsvarer og omfanget av arbeidet som skal utføres, avgjøres av kommisjonen, jf. utkastet § 41-24 annet ledd annet punktum.
+
+*Tredje ledd* fastslår prinsippet om kontradiktorisk behandling gjennom en varslingsplikt som gjelder etter at det er besluttet ikke å avvise eller forkaste begjæringen. Varslingsplikten og retten til kontradiksjon gjelder også for opplysninger som er unntatt fra innsyn når forsvarer har rett til å gjøre seg kjent med disse, men da slik at forsvarer gis innsyn og må ivareta mistenktes interesser.
+
+De alminnelige reglene om innsyn i utkastet kapittel 6 får også anvendelse for spørsmålet om gjenåpning.
+
+*Til § 41-18. Kommisjonens forhold til fornærmede og etterlatte*
+
+Se straffeprosessloven §§ 397 annet ledd annet punktum og 398 annet ledd. Se drøftelsen i punkt 22.3.7.
+
+Fornærmede og etterlatte skal kun involveres i sak om gjenåpning i den grad «saken tilsier det». Bestemmelsen gjelder bare selve gjenåpningsspørsmålet. Dersom saken besluttes gjenåpnet, vil begge gruppene ha sin alminnelige straffeprosessuelle status.

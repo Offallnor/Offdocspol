@@ -1,892 +1,486 @@
-# NOU 2016: 24, del 58 av 73 (side 621–630)
+# NOU 2016: 24, del 58 av 69
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/1182afc0-nou-2016-24.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-24/id2517932/
 - Original-PDF: https://www.regjeringen.no/contentassets/6fe1d875248042b4a09b43b85aa46832/no/pdfs/nou201620160024000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 9 tabeller, 1 figur, 52 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 621]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-gjelde det samme straffbare forhold som danner
-grunnlaget for avlyttingen. Hva som er «det straffbare forhold», må i denne sammenheng forstås
-nokså vidt.
-Annet ledd trekker konsekvensen av innhentingsforbudet som følger av bevisreglene og
-av reguleringen i første ledd. Det er her tale om
-sletting av informasjon som det blir klart at ikke
-er rettslig tilgjengelig, og reguleringen må
-således holdes fra de generelle slettereglene i
-utkastet § 20-6.
-Til § 20-6. Lagring. Sletting og sperring av
-avlyttingsmateriale etter endelig avgjørelse
-Se straffeprosessloven § 216 g.
-Til § 20-7. Taushetsplikt og adgang til å benytte
-informasjon
-Se straffeprosessloven § 216 i.
-Reguleringen gjelder blant annet såkalt overskuddsinformasjon, men denne betegnelsen er
-ikke benyttet i lovteksten fordi bestemmelsen
-regulerer adgangen til å benytte alle typer
-informasjon, også – og i praksis først og fremst –
-informasjon om forhold som begrunnet metodebruken.
-Utgangspunktet for reguleringen er etter
-første punktum en særlig taushetsplikt om all
-informasjon innhentet etter kapittel 20. Pliktsubjekt er «alle», og taushetsplikten gjelder som
-utgangspunkt all informasjon i tilknytning til
-metodebruken. Dette omfatter også ulike forberedelser av betydning for begjæring om eller
-gjennomføring av inngrepet. Annet punktum
-angir uttømmende hvilke unntak som gjelder fra
-taushetsplikten.
-Adgangen til å bruke opplysningene «i straffesak» omfatter både den saken opplysningene er
-innhentet i anledning av, og andre straffesaker der
-opplysningene har relevans. Bestemmelsen skiller
-ikke mellom bruk av informasjon på ulike stadier
-av saken eller mellom rettslig og utenrettslig bruk.
-Opplysningene kan bare brukes i en straffesak
-der strafferammen er minst fengsel i 2 år. På grunn
-av kriminalitetskravene i utkastet §§ 20-1 til 20-4
-har dette vilkåret bare aktualitet for bruk av informasjon i andre saker enn den som dannet grunnlag
-for metodebruken (såkalt overskuddsinformasjon).
-Bestemmelsen oppstiller ikke noe vektleggingsforbud for retten. Dersom en avlyttingsopplysning er lovlig ført, og taushetsplikten etter
-bestemmelsen således ikke er krenket, kan opplysningen derfor tas i betraktning av retten for alle
-
-619
-
-Kapittel 30
-
-straffbare forhold den måtte være relevant for i
-saken, uavhengig av strafferamme.
-Til § 20-8. Underretning til personer som har vært
-underlagt kommunikasjonskontroll
-Se straffeprosessloven § 216 j.
-Underretningsplikten er begrenset til å gjelde
-inngrep som er besluttet etter 21. april 1995. Dette
-har sin bakgrunn i at det ikke foreligger systematisk tilgjengelig informasjon om slik metodebruk
-forut for dette, og den nøyaktige datoen svarer til
-ikrafttredelsen av straffeprosessloven § 216 j, se
-Ot.prp. nr. 40 (1991–1992) s. 43.
-Til § 20-9. Kontrollutvalget
-Se straffeprosessloven § 216 h.
-Til § 20-10. Forskrifter om inngrep i kommunikasjon og
-om Kontrollutvalget
-Se straffeprosessloven § 216 k.
-Til kapittel 21. Observerende, kontrollerende og
-påvirkende tiltak
-Det vises til drøftelsen i punkt 14.10.
-Til § 21-1. Spaning
-Se drøftelsen i punkt 14.10.3.
-Adgangen til bruk av «optisk utstyr» i tilknytning til spaning må avgrenses mot slik bruk som
-krever tillatelse etter utkastet § 21-3 om skjult
-kameraovervåking.
-Til § 21-2. Teknisk sporing
-Se straffeprosessloven §§ 202 b og 202 c og drøftelsen i punkt 14.10.4.
-Til § 21-3. Skjult kameraovervåking
-Se straffeprosessloven § 202 a og drøftelsen i
-punkt 14.10.2 og 14.10.5
-Til § 21-4. Infiltrasjon. Adgang til å foreta ellers
-straffbare handlinger. Avlytting og opptak av samtale
-med samtykke fra en samtalepart
-Se straffeprosessloven § 216 l og drøftelsen i
-punkt 14.10.6.
-Første ledd annet punktum lovfester en rettsstridsreservasjon og åpner for at infiltratøren kan
-
-[Side 622]
-
-620
-
-Kapittel 30
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-begå ellers straffbare handlinger for å «kunne
-opptre fordekt» under operasjonen. Det er således
-et vilkår at formålet med den ellers straffbare
-adferden er å muliggjøre infiltrasjonen, og at
-handlingen derfor er nødvendig. Kravet til nødvendighet og forholdsmessighet kan ses som en
-presisering av den alminnelige reguleringen i
-utkastet § 14-1 annet ledd, og det oppstilles et forbud mot handlinger som «går ut over hva som er
-forsvarlig under hensyn til oppdragets viktighet
-og hvilke interesser som krenkes». Forsvarlighetsvurderingen er et stykke på vei relativ til de to
-angitte komponentene «oppdragets viktighet» og
-de «interesser som krenkes». Jo viktigere oppdraget er – ikke minst i lys av den mistenkte kriminalitetens karakter –, desto mer kan aksepteres.
-Samtidig kan det ikke under noen omstendighet
-gripes inn i enhver interesse etter bestemmelsen.
-Alvorlige integritetskrenkelser kan aldri aksepteres, og lovbrudd som krenker private interesser
-for øvrig, vil bare unntaksvis kunne være rettmessige. Ved den nærmere bedømmelsen av de
-interesser det er aktuelt å gripe inn i, kan de hensyn og vurderinger som ligger til grunn for skadefølgeprinsippet, være retningsgivende, se for
-eksempel Ot.prp. nr. 90 (2003–2004) punkt 7.5.2
-med videre henvisninger.
-Til § 21-5. Påvirkning av hendelsesforløp og
-bevisprovokasjon
-Se riksadvokatens rundskriv nr. 2/2000 «Vederlag
-til politiets kilder og provokasjon som etterforskingsmetode» og drøftelsen i punkt 14.10.7.
-Til § 21-6. Beslutningsmyndighet og krav til
-gjennomføring, kontroll og dokumentasjon
-Se riksadvokatens rundskriv nr. 2/2000 «Vederlag
-til politiets kilder og provokasjon som etterforskingsmetode».
-Første ledd legger beslutningsmyndighet for
-tiltak etter kapitlet til påtalemyndigheten, med
-unntak for skjult kameraovervåking etter utkastet § 21-3. Krav til internt beslutningsnivå følger
-av utkastet § 14-3 første ledd annet punktum dersom det ikke er gitt forskrift eller instruks om at
-beslutning for det aktuelle tiltak skal treffes av
-overordnet nivå i påtalemyndigheten, jf. punkt
-14.10.7.
-Annet ledd stiller særlige krav til kontroll med
-tiltak og til notoritet. Kravene gjelder for alle tiltak
-etter kapitlet, men må tilpasses den enkelte
-metode. Reguleringen har ikke minst stor betydning for påvirkning av hendelsesforløp og bevis-
-
-provokasjon etter utkastet § 21-5, idet kontroll
-med hendelsesforløpet etter gjeldende rett – som
-videreføres – er et tilleggsvilkår for metodebruken. Men også ellers, ikke minst ved infiltrasjon,
-er god planlegging og kontroll med operasjonen
-meget viktig. Om politiets adgang til å foreta
-ellers straffbare handlinger, se merknadene til
-utkastet § 21-4 første ledd annet punktum.
-Til § 21-7. Forskrifter om observerende, kontrollerende
-og påvirkende tiltak
-Det vil formentlig være nærliggende at nærmere
-reguleringer i første rekke gis ved instruks fra
-riksadvokaten, men bestemmelsen åpner for at
-det også kan gis regler i forskrift.
-Til kapittel 22. Inngrep i mistenktes formue.
-Heftelse og båndlegging
-Det vises til punkt 14.11.
-Til § 22-1. Heftelse
-Se straffeprosessloven §§ 217 og 219 annet ledd.
-Første ledd inneholder ikke en slik presisering
-som finnes i tvisteloven § 33-1 annet ledd om at
-pengekrav mot staten eller offentlige organer ikke
-kan sikres ved arrest, idet det aldri vil være nødvendig å sikre et krav mot staten etter reglene om
-heftelse.
-Uttrykket «antas å ville bli ilagt» tilsier at det
-aktuelle kravet i rimelig grad må være godtgjort
-før heftelse kan komme på tale, men det kreves
-ikke sannsynlighetsovervekt for at det vil bli ilagt.
-Kravet som skal sikres ved heftelsen, må ha tilknytning til det samme forholdet som mistanken i
-saken gjelder.
-Når «kravet er rettskraftig avgjort» etter første
-ledd annet punktum, avløses reglene om heftelse
-av reglene om fullbyrding i utkastet kapittel 40.
-Etter annet ledd kan mistenkte, på samme
-måte som etter bestemmelsen i straffeprosessloven § 219 annet ledd, avverge inngrepet ved selv
-å stille sikkerhet. Uttrykket «avverges» forutsetter at vilkårene for heftelse allerede er til stede.
-Hvis mistenkte går med på å avverge heftelse ved
-frivillig å stille sikkerhet, vil den rettslige kontrollen etter utkastet § 22-5 utsettes fordi det ikke vil
-foreligge noen beslutning å kontrollere.
-Etter tredje ledd kan påtalemyndigheten
-beslutte heftelse. Fornærmede og andre tredjepersoner har ingen selvstendig rett til å begjære
-heftelse til sikring av sine private krav, men har i
-alminnelighet adgang til å anmode påtalemyndig-
-
-[Side 623]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-heten om at dette virkemiddelet benyttes. En
-annen sak er at arrestreglene i tvisteloven kapittel 33 kan komme dem til unnsetning.
-Til § 22-2. Båndlegging av formue ved unndragelse
-Se straffeprosessloven §§ 220 og 221 første ledd.
-Formuesbegrepet i første ledd omfatter alle formuesgjenstander hos den mistenkte, likevel slik
-at vedkommendes plikt til å forsørge nærstående
-og lignende sikres, se utkastet § 22-4 første ledd,
-som henviser til tvisteloven § 33-6 og de der
-angitte grenser for dekningsretten etter dekningsloven § 2-7. En «oppfordring» om å innfinne seg i
-riket må meddeles på den måte som i lys av
-omstendighetene er mest hensiktsmessig, jf. domstolloven § 186.
-Til § 22-3. Båndlegging av formue i terrorsaker. Utsatt
-underretning
-Se straffeprosessloven §§ 202 d og 202 e.
-I første ledd er det presisert at formålet med
-inngrepet er å forhindre fremtidige terrorhandlinger. Et slikt uttrykkelig formål setter en ramme
-for den forholdsmessighetsvurderingen som må
-foretas. Krav til skjellig grunn til mistanke følger
-av utkastet § 14-1 første ledd.
-Etter annet ledd annet punktum kan det besluttes utsatt varsel om båndlegging når det er «nødvendig av hensyn til etterforskingen». Etter utkastet § 14-10 tredje ledd vil fristen for underretning
-være åtte uker og ikke fire uker som i dag. Rettens adgang til å unnlate å varsle mistenkte og
-andre berørte om rettsmøte om båndlegging
-reguleres av utkastet § 22-5 første ledd annet
-punktum, jf. henvisningen der.
-Til § 22-4. Iverksetting
-Se straffeprosessloven §§ 218 første ledd, 219 første ledd, 221 annet og tredje ledd og 222 første
-ledd.
-Til § 22-5. Rettslig prøving. Tvist om rett til
-formuesgode
-Se straffeprosessloven §§ 202 e annet ledd og 218
-annet ledd.
-Etter første ledd annet punktum skal mistenkte og andre berørte varsles og «gis anledning til å uttale seg». Dette innebærer imidlertid
-ikke at det er nødvendig å avholde muntlige forhandlinger i alle saker etter dette kapitlet, men
-som en hovedregel bør dette gjøres i heftelsessa-
-
-621
-
-Kapittel 30
-
-kene. Bestemmelsen gir adgang til utsatt varsling i terrorsaker og viderefører straffeprosessloven § 202 e annet ledd med enkelte endringer, se
-merknadene til utkastet § 22-3 annet ledd annet
-punktum.
-Annet ledd innebærer at en regel som den som
-i dag gjelder for beslag etter straffeprosessloven
-§ 214 annet punktum, også vil gjelde for tvangstiltak etter dette kapitlet ved tvist om rett til det aktuelle formuesgodet.
-Til § 22-6. Opphør
-Se straffeprosessloven §§ 202 f og 219 tredje ledd.
-Bestemmelsen i straffeprosessloven § 222
-annet ledd om at forvaltningen «heves når siktede
-kommer til stede eller grunnlaget for øvrig faller
-bort», er fjernet som overflødig. Den generelle
-reguleringen av slike spørsmål i utkastet § 14-8 er
-her tilstrekkelig. Første ledd angir derfor kun
-myndigheten til å beslutte opphør og ikke de
-materielle vilkår for opphør.
-Til kapittel 23. Kontakt- og oppholdsforbud
-Bestemmelsene må ses i sammenheng med de
-alminnelige reglene om tvangstiltak i kapittel 14,
-herunder særlig §§ 14-1 annet ledd om krav til forholdsmessighet mv., 14-4 om krav til påtalemyndighetens beslutninger mv. og § 14-8 om varigheten av tvangstiltak. Se punkt 14.12.
-Til § 23-1. Kontakt- og oppholdsforbud ved fare for
-personkrenkelse
-Se straffeprosessloven § 222 a første ledd første
-punktum, annet ledd første punktum og tredje ledd.
-Bestemmelsen svarer til og viderefører i det alt
-vesentlige straffeprosessloven § 222 a om besøksforbud. Uttrykket «besøksforbud» er erstattet av
-«kontakt- og oppholdsforbud», som anses å være
-mer dekkende for det det er tale om. Utvalget har
-ikke funnet det avgjørende at uttrykket «kontaktforbud» også er benyttet i straffeloven § 57.
-Uttrykket «kvalifisert krenkende eller belastende» opptreden konsumerer og viderefører i det
-vesentlige straffeprosessloven § 222 a første ledd
-bokstav a til d. Adferd som kan foranledige et forbud, vil ofte være straffbar, jf. for eksempel straffeloven § 266 om hensynsløs adferd og § 267 om
-krenkelse av privatlivets fred. I så fall vil vilkåret
-være oppfylt. Ikke straffbar adferd kan tilfredsstille vilkåret, men det kreves «kvalifisert» krenkende eller belastende adferd. Grensen for det
-straffbare kan gi en viss veiledning, men er ikke
-
-[Side 624]
-
-622
-
-Kapittel 30
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-avgjørende. Samtidig kreves det markert mer enn
-ubehagelig oppførsel, utover slikt man for eksempel kan oppleve i forbindelse med en krangel eller
-annen form for uoverensstemmelse med naboer,
-bekjente mv. Det må være tale om en objektivt sett
-merkbar belastning for den som rammes. Uttrykket «grunn til å tro» innebærer at det ikke kreves
-sannsynlighetsovervekt, og viderefører i så måte
-gjeldende rett. I stedet for forbud kan det besluttes at opphold skal skje på nærmere bestemte
-vilkår.
-Til § 23-2. Oppholdsforbud i eget hjem
-Se straffeprosessloven § 222 a annet ledd annet
-punktum og tredje ledd.
-Bestemmelsen viderefører uten realitetsendringer straffeprosessloven § 222 a annet ledd
-om oppholdsforbud i eget hjem. I stedet for forbud kan det besluttes at opphold bare kan skje på
-nærmere bestemte vilkår.
-Til § 23-3. Oppholdsforbud rettet mot barn
-Se straffeprosessloven § 222 c første ledd.
-Bestemmelsen viderefører uten realitetsendringer straffeprosessloven § 222 c første ledd
-om oppholdsforbud rettet mot personer under 15
-år. I stedet for forbud kan det besluttes at opphold
-bare kan skje på nærmere bestemte vilkår.
-Til § 23-4 Oppholdsforbud ved fare for voldelige
-sammenstøt mellom grupper
-Se straffeprosessloven § 222 b første ledd første
-og annet punktum og annet ledd første punktum.
-Bestemmelsen viderefører straffeprosessloven § 222 b første ledd første og annet punktum
-og annet ledd første punktum om oppholdsforbud
-for voldelige grupper. I stedet for forbud kan det
-besluttes at opphold bare kan skje på nærmere
-bestemte vilkår.
-Til § 23-5. Forutsetninger for forbud og varighet
-Se straffeprosessloven §§ 222 a første ledd annet
-punktum og fjerde ledd, 222 b tredje ledd og 222 c
-annet og fjerde ledd.
-Til § 23-6. Underretning mv.
-Se straffeprosessloven §§ 222 a femte ledd annet
-til sjette punktum og sjette ledd annet punktum,
-222 b annet ledd annet punktum og 222 c tredje
-ledd siste punktum og fjerde ledd siste punktum.
-
-Sammen med utkastet § 14-4 om krav til påtalemyndighetens beslutninger om tvangstiltak
-viderefører bestemmelsen i det alt vesentlige gjeldende rett for så vidt angår krav til skriftlighet og
-underretning om beslutninger, følgene av å bryte
-fastsatt forbud, eventuelt fastsatte vilkår og adgangen til rettslig prøving.
-Til § 23-7 Rettslig prøving
-Se straffeprosessloven § 222 a sjette ledd første og
-tredje punktum, syvende og åttende ledd, 222 b
-fjerde ledd og 222 c fjerde ledd.
-Til del 4. Internasjonalt samarbeid
-Utkastet del 4 inneholder regler om samarbeid
-mellom norske og utenlandske myndigheter i
-straffesaker. Bestemmelsene gjelder straffeprosessuelt samarbeid, ikke bistand som ledd i
-politisamarbeid. Se nærmere om sondringen i
-punkt 15.3.1.
-En rekke folkerettslige avtaler forplikter Norge
-til å gi bistand som ledd i internasjonalt samarbeid,
-se punkt 15.2.2. Reglene i del 4 er utformet for å
-sikre nødvendig gjennomføring av forpliktelsene
-og må tolkes og anvendes i samsvar med avtalene
-disse springer ut av. Bestemmelsene er imidlertid
-utformet generelt og skal gis anvendelse uavhengig av om forholdet er regulert folkerettslig, med
-mindre noe annet er uttrykkelig fastsatt.
-Bakgrunnen for forslagene er nærmere omtalt
-i kapittel 15.
-Til kapittel 24. Bistand fra utenlandske
-myndigheter
-Kapittel 24 inneholder generelle regler om
-bistand fra utenlandske myndigheter i anledning
-behandlingen av straffesaker i Norge. Sentrale
-reguleringer er hvem som har myndighet til å
-fremsette anmodning om bistand, krav til anmodningens innhold, oversendelsesmåte og betydningen av at utenlandske myndigheter har fastsatt
-vilkår for bistanden.
-Til § 24-1. Anmodning til utenlandsk myndighet om
-bistand. Beslutningsmyndighet mv.
-Se domstolloven §§ 47 første ledd første punktum
-og tredje og fjerde ledd og 48 første ledd første
-punktum og utleveringsloven § 23 b nr. 1 første
-punktum.
-Første ledd første punktum fastslår at både
-påtalemyndigheten og retten «kan anmode» uten-
-
-[Side 625]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-623
-
-Kapittel 30
-
-landsk myndighet om bistand i straffesak.
-Bestemmelsen tildeler således beslutningsmyndighet samtidig som reguleringen forutsetter at
-henvendelser om bistand skal sendes som formell
-bistandsanmodning.
-Uttrykket «bistand i straffesak» omfatter
-ethvert skritt for å sikre gjennomføring av beslutninger og tiltak loven ellers gir adgang til. Det kan
-ikke anmodes om bistand utover hva det ellers er
-hjemmel for i norsk rett.
-Utgangspunktet er at påtalemyndigheten, som
-leder av etterforskingen, skal fremsette anmodninger. I den grad retten beslutter at det skal
-anmodes om bistand fra utenlandsk myndighet,
-vil det kunne være praktisk at den overlater til
-påtalemyndigheten å utforme og fremsette
-anmodningen, jf. første ledd annet punktum.
-Mistenkte kan – i samme utstrekning som det
-er adgang til å begjære etterforsking og bevissikring foretatt i Norge, jf. utkastet §§ 12-2 og 13-7 –
-fremsette begjæring overfor påtalemyndigheten
-og retten om at dette søkes gjennomført i utlandet
-med bistand fra utenlandsk myndighet. Adgangen
-til å kreve sikkerhetsstillelse etter annet ledd svarer til ordningen som gjelder ved bevissikring i
-retten, jf. utkastet § 12-2 tredje ledd. Se også domstolloven § 47 tredje ledd.
-Det er ingenting i veien for at påtalemyndigheten og retten anmoder om at gjennomføringen i
-anmodede stat skjer på en bestemt måte, herunder slik at særskilte krav som følger av norsk
-rett, overholdes. Etter omstendighetene bør dette
-gjøres for å sikre at beviset kan benyttes som forutsatt, se nærmere punkt 15.3.2.
-Tredje ledd er et utslag av at det ikke kan
-anmodes om bistand utover hva det er hjemmel
-for i norsk rett. Det er således en forutsetning for
-å fremsette anmodning som gjelder bruk av
-tvangstiltak, at det foreligger beslutning om dette
-etter norske regler.
-
-Annet ledd fastslår at det skal gis dokumentasjon for at det er truffet særskilt beslutning om
-bruk av tvangstiltak etter utkastet § 24-1 tredje
-ledd. Dette gjelder uavhengig av om slik dokumentasjon kreves etter folkerettslig avtale.
-Tredje ledd tar som utgangspunkt at den
-anmodede stats offisielle språk skal benyttes for
-hele eller deler av anmodningen, med mindre
-annet er «avtalt». Det kan for eksempel avklares
-med utenlandsk myndighet at det bare besørges
-oversettelse i den utstrekning som er nødvendig
-for å ta stilling til de spørsmål anmodningen reiser.
-
-Til § 24-2. Krav til anmodningens innhold
-
-Til § 24-4. Vilkår for bistand fra utenlandsk myndighet
-
-Se domstolloven § 48 annet ledd til fjerde ledd, jf.
-forskrift 14. desember 2012 nr. 1227 om internasjonalt samarbeid i straffesaker § 13.
-Flere folkerettslige avtaler om internasjonalt
-samarbeid stiller særlige krav til utforming av
-anmodninger. Første ledd forutsetter at det klargjøres om det gjelder slike krav for den aktuelle
-bistandsanmodning, og fastslår at disse i så fall må
-etterleves. I alle tilfeller er det etter første ledd bokstav a til c stilt visse minstekrav til utformingen.
-Disse svarer i det vesentlige til kravene etter 1959konvensjonen artikkel 14.
-
-Flere folkerettslige avtaler fastsetter vilkår for
-bruk av opplysninger som mottas som ledd i rettslig samarbeid, jf. blant annet Schengenkonvensjonen artikkel 50 nr. 3, 2000-konvensjonen artikkel
-23 og annen tilleggsprotokoll artikkel 26. Vilkår
-kan dessuten følge av annen avtale eller være fastsatt særskilt i den enkelte sak.
-Plikten til å overholde vilkår gjelder for all
-norsk myndighetsutøvelse og ikke bare de aktører
-som håndterer straffesaken som foranlediget utleveringen. Vilkår som er satt, skal således respekteres også av domstolene og kan medføre bevisfor-
-
-Til § 24-3. Oversendelsesmåte
-Se domstolloven § 48 første ledd annet punktum
-og utleveringsloven § 23 b nr. 1 annet punktum. Se
-også forskrift 14. desember 2012 nr. 1227 om
-internasjonalt samarbeid i straffesaker § 10.
-Første ledd første punktum forutsetter utgangspunktet om at kontakt skjer mellom statenes sentrale administrasjon, med mindre annet er avtalt.
-På en rekke områder gjelder imidlertid «folkerettslig avtale» om direkte oversendelse, jf. 1959konvensjonen artikkel 15, annen tilleggsprotokoll artikkel 4, 2000-konvensjonen artikkel 6 og
-Nordisk overenskomst 26. april 1974 nr. 1 artikkel 1. Direkte oversendelse skal dessuten benyttes når det følger av «bestemmelser fastsatt i forskrift». Det kan være aktuelt å gi slik forskrift når
-det er etablert en adgang til direkte oversendelse
-på annet grunnlag enn «folkerettslig avtale». Se
-utkastet § 24-5.
-Med «departementet» i første ledd annet punktum siktes det per i dag til Justis- og beredskapsdepartementet, som skal besørge den videre
-behandlingen av anmodningen og eventuelt videresende den til Utenriksdepartementet eller rette
-myndighet i utlandet.
-
-[Side 626]
-
-624
-
-Kapittel 30
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-bud hvis partene fremsetter bevistilbud i strid med
-de aktuelle begrensningene.
-Til § 24-5. Forskrifter om utforming og oversendelse av
-anmodning til utlandet
-Etter bestemmelsen kan det i forskrift blant annet
-gis regler om direkte oversendelse og bruk av
-elektronisk kommunikasjon. Se forskrift 14.
-desember 2012 nr. 1227 om internasjonalt samarbeid i straffesaker §§ 10 og 11.
-Til kapittel 25. Bistand til utenlandske
-myndigheter og internasjonale domstoler
-Utkastet kapittel 25 inneholder regler om bistand
-til utenlandske myndigheter og internasjonale
-domstoler som ledd i strafferettslig forfølgning
-utenfor Norge. Kapitlet inneholder generelle
-regler om slik bistand, i tillegg til mer detaljerte
-reguleringer om bistand til fjernmøte og fjernavhør, overlevering av beslaglagte ting og enkelte
-former for bistand i anledning inngrep i kommunikasjon mv.
-Virkeområdet for reglene i kapitlet følger av
-utkastet § 25-1. Innenfor sitt virkeområde trer
-reglene i stedet for domstolloven § 46. Utkastet
-kapittel 25 erstatter dessuten reglene i utleveringsloven kapittel V. Se nærmere punkt 15.3.1 og
-15.3.3.
-Anvendelsesområdet for reglene i utkastet
-kapittel 25 må avgrenses mot andre former for
-internasjonalt samarbeid som er undergitt
-særskilt regulering, herunder utkastet kapittel
-26 om bording av fartøy mv. og kapittel 27 om
-overføring av straffesaker, samt utleveringsloven, arrestordreloven, lov 20. juli 1991 nr. 67
-om overføring av domfelte og lov 15. november
-1963 om fullbyrding av nordiske dommer på
-straff m.v.
-Til § 25-1. Bistand etter anmodning fra utenlandsk
-myndighet og internasjonal domstol
-Etter første ledd er det en forutsetning at den som
-fremsetter anmodningen, har kompetanse til det
-etter hjemlandets regler, jf. «[u]tenlandsk
-myndighet». Norske myndigheter må som
-utgangspunkt kunne legge til grunn at dette er
-tilfellet, med mindre det foreligger særlige forhold som tilsier at det bør iverksettes nærmere
-undersøkelser.
-Uttrykket «strafferettslig forfølgning» viser til
-et materielt straffebegrep med referanse til forfølgningssituasjonen i staten som anmoder om
-
-bistand. Det avgjørende er om forfølgningen der
-kan medføre en reaksjon som tradisjonelt og i
-ulike folkerettslige instrumenter har vært og er
-ansett som «criminal matters», og som derved
-faller inn under virkeområdet for reglene om gjensidig hjelp i straffesaker, jf. blant annet 1959-konvensjonen artikkel 1 nr. 1, 2000-konvensjonen
-artikkel 3 nr. 1 og annen tilleggsprotokoll artikkel
-1 nr. 3. Se punkt 15.3.3.
-Uttrykket «i forbindelse med» peker mot at det
-kan ytes bistand til behandling og gjennomføring
-av krav og tiltak som ikke gjelder selve forfølgningen med sikte på straffansvar, men som har tilknytning til denne. Uttrykket skal forstås vidt, blant
-annet omfattes saker om erstatning etter straffeforfølgning, benådningssaker, sivile krav i forbindelse
-med straffesaker, forkynning av dokumenter i
-anledning fullbyrding av straff, tiltak i forbindelse
-med betinget dom mv., jf. Schengenkonvensjonen
-artikkel 49 bokstavene b til f. Også bistand i forbindelse med gjenåpning av straffesaker omfattes.
-Det følger av annet ledd at det uten særskilt
-regulering kan ytes bistand til domstol som er etablert etter overenskomst mellom stater eller som
-del av en mellomstatlig organisasjon. Også for
-dette alternativet må bistanden gjelde «strafferettslig forfølgning», og dermed er det bistand til internasjonale straffedomstoler som har aktualitet. At
-reglene gis «tilsvarende» anvendelse, innebærer
-videre at vilkårene for å yte bistand må tolkes og
-anvendes i lys av at det nå er tale om bistand til et
-domstolsorgan. Det innebærer blant annet at det
-for bruk av tvangstiltak ikke kan kreves at «tilsvarende tiltak kunne vært anvendt i anmodende stat»,
-jf. § 25-2 annet ledd annet punktum; det må være tilstrekkelig at anmodningen er fremmet i henhold til
-domstolens egne saksbehandlingsregler.
-Til § 25-2. Forholdet til norsk rett. Bruk av tvangstiltak
-Se domstolloven § 46 tredje ledd første punktum
-og utleveringsloven §§ 23 a nr. 5 og 24 nr. 1 til 3.
-Reglene i straffeprosessloven eller andre
-norske regler får ikke direkte anvendelse i saker
-som forfølges av utenlandske myndigheter, men
-gis tilsvarende anvendelse etter første ledd.
-Reser vasjonen «med mindre annet er bestemt i
-dette kapitlet» sikter til regler i kapitlet som
-åpner for at norske regler i noen utstrekning
-kan fravikes ved gjennomføring av anmodning
-fra utenlandsk myndighet, jf. utkastet §§ 25-5 om
-anmodning om særskilt fremgangsmåte mv. og
-25-10 om fjernmøte og fjernavhør. Videre gjelder
-særlige vilkår for bruk av tvangstiltak i annet
-ledd.
-
-[Side 627]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-Det er etter annet ledd første punktum i
-utgangspunktet ikke et vilkår for å yte bistand at
-den handling anmodningen gjelder, rammes av
-norsk straffelovgivning. Se utleveringsloven § 23 a
-nr. 5 første punktum.
-For å benytte tvangstiltak kreves imidlertid
-dobbel straffbarhet, jf. annet ledd annet punktum
-bokstav a. Se utleveringsloven § 24 nr. 3. Uttrykket «handlingen forfølgningen gjelder, eller en tilsvarende handling» skal forstås på samme måte
-som det tilsvarende uttrykk i utleveringsloven, jf.
-blant annet Rt. 2014 s. 680. Utleveringsloven § 24
-nr. 3 siste punktum, som gjør unntak fra kravet om
-dobbel straffbarhet ved begjæring fra et av de nordiske land, er ikke videreført i utkastet, se punkt
-15.3.3.
-Etter annet ledd annet punktum bokstav b må
-det i tillegg godtgjøres at tilsvarende tiltak kunne
-vært anvendt i anmodende stat. Det kreves ikke at
-det med anmodningen følger beslutning om
-tvangstiltak. Det er tilstrekkelig at norske myndigheter finner det sannsynliggjort at handlingen
-som forfølges, kunne begrunnet tilsvarende
-tvangstiltak i anmodende stat, typisk på grunnlag
-av en redegjørelse fra anmodende myndighet.
-Bakgrunnen for regelen i utkastet er at det etter
-enkelte lands nasjonale lovgivning ikke er anledning til å beslutte bruk av tvangstiltak som forutsetter gjennomføring utenfor landets grenser, selv
-om gjennomføringen skal skje med bistand fra
-myndighetene i den annen stat.
-Til § 25-3. Plikt til å etterkomme anmodning fra
-utenlandsk myndighet. Avslagsgrunner
-Se utleveringsloven § 23 a.
-Første ledd gir som et utgangspunkt norske
-myndigheter plikt til å etterkomme en bistandsanmodning fra utenlandsk myndighet.
-Annet ledd angir obligatoriske avslagsgrunner.
-Uttrykket «grunnleggende nasjonale interesser»
-skal forstås som i straffeloven kapittel 17 og
-omfatter hensynene til Norges suverenitet, rikets
-sikkerhet og andre vesentlige statlige interesser,
-jf. merknadene til utleveringsloven § 23 a nr. 2 i
-Prop. 97 LS (2011–2012) på s. 64. En anmodning
-skal dessuten avslås dersom gjennomføringen
-ville «stride mot rettsordenen» (ordre public).
-Annet ledd må tolkes i lys av 1959-konvensjonen
-artikkel 2 bokstav b.
-Tredje ledd angir fakultative avslagsgrunner.
-Hvor stor skjønnsfriheten er, må for det enkelte
-alternativet vurderes i lys av om det foreligger en
-folkerettslig forpliktelse til å yte bistand, jf. også
-Prop. 97 LS (2011–2012) s. 64–65.
-
-625
-
-Kapittel 30
-
-Om det nærmere innehold i uttrykket
-«politiske lovbrudd» i tredje ledd bokstav a vises
-det til 1959-konvensjonen artikkel 2 bokstav a og
-videre til merknadene til utleveringsloven § 5 i
-Ot.prp. nr. 30 (1974–75) s. 29, hvor det blant
-annet er lagt til grunn at formuleringen skal
-anses som en rettslig standard som må tolkes i
-samsvar med den til enhver tid alminnelige rettsoppfatning. Norges folkerettslige forpliktelser
-begrenser på enkelte områder hvilke lovbrudd
-som kan anses som politiske, jf. for eksempel
-den europeiske konvensjon 27. januar 1977 om
-bekjempelse av terrorisme artikkel 8 nr. 1. Unntaket for politiske lovbrudd kan ikke gjøres gjeldende overfor stater som er tilsluttet Schengensamarbeidet eller EU, jf. blant annet 2001-protokollen artikkel 9.
-Tredje ledd bokstav b om «militære lovbrudd»
-gjelder for alle stater, også stater som er tilsluttet
-Schengen-samarbeidet og EU. Unntaket som i
-dag gjelder for disse landene, videreføres således
-ikke, jf. utleveringsloven § 23 a nr. 4. Norge er
-ikke folkerettslig forpliktet til å bistå ved forfølgning av rent militære lovbrudd, jf. 1959-konvensjonen artikkel 1 nr. 2.
-Avslag etter tredje ledd bokstav c krever ikke at
-det foreligger avgjørelse som sperrer for forfølgning på grunn av reglene om negativ materiell
-rettskraft. Det er tilstrekkelig at det i Norge eller
-utlandet pågår en parallell behandling, eller at det
-foreligger en avgjørelse som ut fra omstendighetene tilsier at norske myndigheter ikke bør
-bidra til forfølgningen. Bestemmelsen er i tråd
-med Norges forbehold til 1959-konvensjonen
-artikkel 2. Undersøkelsesplikten til gjennomførende myndigheter er begrenset, jf. «har kjennskap til».
-Tredje ledd bokstav d er en sikkerhetsventil
-som gir adgang til å avslå anmodninger dersom
-andre tungtveiende grunner enn de som er nevnt i
-bokstav a til c, taler for det, jf. tilsvarende utleveringsloven § 23 a nr. 3 bokstav c.
-Til § 25-4. Ansvar for behandlingen. Prøving av
-anmodning fra utenlandsk myndighet
-Se domstolloven § 46 første og annet ledd og utleveringsloven § 24 nr. 4. Se også forskrift
-14. desember 2012 nr. 1227 om internasjonalt
-samarbeid i straffesaker §§ 7 og 8 annet ledd.
-Utkastet angir hvem som har kompetanse til å
-etterkomme og behandle anmodninger fra utenlandske myndigheter, samt rolle- og ansvarsfordelingen mellom påtalemyndigheten, domstolene og
-departementet. Se nærmere punkt 15.3.4.
-
-[Side 628]
-
-626
-
-Kapittel 30
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-Første ledd forutsetter at anmodninger fra
-utlandet skal behandles av departementet – i dag
-Justis- og beredskapsdepartementet – med mindre det etter folkerettslig avtale eller forskrifter
-gitt av Kongen er anledning til direkte oversendelse til påtalemyndigheten eller retten. Se
-merknadene til utkastet § 24-3 første ledd. Forskrifter om direkte oversendelse kan gis i medhold av utkastet § 25-13. Mottar påtalemyndigheten eller retten en anmodning som feilaktig er
-oversendt direkte, skal anmodningen forelegges
-departementet, jf. også forskrift 14. desember
-2012 nr. 1227 om internasjonalt samarbeid i
-straffesaker § 3 tredje ledd.
-Annet ledd første punktum uttrykker prinsippet
-om at departementet har et prinsipielt og selvstendig ansvar for å vurdere om Norge skal gi bistand
-til utenlandsk myndighet ved strafferettslig forfølgning i utlandet, se punkt 15.3.4. I tilfeller der
-anmodninger oversendes direkte til påtalemyndigheten eller retten, vil departementet rent faktisk være avskåret fra å gripe inn. Departementet
-bør imidlertid underrettes dersom det under gjennomføringen fremkommer opplysninger som tilsier vurdering derfra, særlig gjelder dette spørsmål om å avslå anmodningen av grunner som
-nevnt i utkastet § 25-3 annet og tredje ledd, jf. også
-utkastet § 25-9. En anmodning som etter regulær
-oversendelse eller etter kontroll etter direkte
-oversendelse ikke avslås av departementet, skal
-etter annet ledd annet punktum oversendes påtalemyndigheten for videre behandling.
-Etter tredje ledd første punktum har påtalemyndigheten hovedansvaret for den praktiske gjennomføringen av anmodninger fra utenlandske
-myndigheter. Dette gjelder enten anmodningen er
-sendt via departementet eller mottatt direkte.
-Påtalemyndigheten skal vurdere om anmodningen skal eller bør avslås etter utkastet § 25-3 annet
-og tredje ledd, samt ta stilling til om vilkårene for
-å gjennomføre bistanden det anmodes om, ellers
-er til stede. I dette øyemed må påtalemyndigheten
-av eget tiltak sikre et tilstrekkelig avgjørelsesgrunnlag, jf. også utkastet § 7-1 om ansvar for forsvarlig saksopplysning mv. Er det behov for supplerende opplysninger fra anmodende myndighet,
-skal slike innhentes, jf. § 25-6 annet ledd.
-Tredje ledd annet punktum regulerer medvirkning fra domstolene, som er nødvendig blant
-annet når anmodningen gjelder bistand til rettslig
-avhør eller bruk av tvangstiltak mv. Anmodningen
-oversendes først etter at påtalemyndigheten har
-funnet at vilkårene for å fremme begjæringen er
-til stede. Retten skal også selv prøve om det er
-adgang til å etterkomme og gjennomføre anmod-
-
-ningen. Ivaretakelsen av grunnleggende nasjonale interesser tilligger imidlertid utøvende myndighet, det vil her si påtalemyndigheten og departementet, og skal ikke prøves av retten, jf. tredje
-ledd tredje punktum.
-Til § 25-5. Anmodning om særskilt fremgangsmåte.
-Varsel til partene
-Se domstolloven § 46 tredje ledd annet og tredje
-punktum.
-Første ledd svarer til regelen i domstolloven
-§ 46 tredje ledd tredje punktum, jf. også 2000-konvensjonen artikkel 4 nr. 1 og annen tilleggsprotokoll artikkel 8.
-Første ledd første punktum skal sikre at bistand
-ytes på en måte som anmodende stat kan gjøre
-bruk av etter egen lovgivning. Med «særskilte
-formkrav eller en bestemt fremgangsmåte» siktes
-det til gjennomføringsmåten. Bestemmelsen gir
-ikke selvstendig hjemmel for etterforskingsskritt
-eller inngrep uten hjemmel i norsk rett.
-Første ledd annet punktum gir adgang til å fravike norske regler når det er nødvendig for å etterkomme en anmodning om særskilt fremgangsmåte
-mv. Begrensningen som ligger i at bistanden må
-være «forenlig med sentrale rettsprinsipper og rettigheter», innebærer at norske myndigheter ikke
-kan medvirke til straffeforfølgning i utlandet som
-bryter med grunnleggende rettsikkerhetsgarantier. Reservasjonen må tolkes i samsvar med
-Norges forpliktelser etter folkerettslige avtaler, jf.
-2000-konvensjonen artikkel 4 nr. 1 og annen tilleggsprotokoll artikkel 8.
-Annet ledd gjør unntak fra plikten til å varsle
-om rettsmøter, jf. utkastet § 31-2, og viderefører
-domstolloven § 46 tredje ledd annet punktum. At
-varsel ikke er påkrevd, utelukker ikke at påtalemyndigheten eller retten etter omstendighetene
-kan og bør orientere involverte om rettsmøtet.
-Dette kan i visse tilfeller være nærliggende, for
-eksempel dersom mistenke er bosatt eller oppholder seg i Norge.
-Til § 25-6. Frister. Ufullstendig anmodning
-Se forskrift 14. desember 2012 nr. 1227 om internasjonalt samarbeid i straffesaker §§ 5 og 6.
-Til § 25-7. Kostnader
-Se forskrift 14. desember 2012 nr. 1227 om internasjonalt samarbeid i straffesaker § 20.
-Internasjonalt samarbeid skal bygge på velvillighet og gjensidighet, og som hovedregel bør
-
-[Side 629]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-kostnader ikke kreves refundert. Dette er forutsatt i første punktum, jf. «vesentlige kostnader».
-Adgangen til å kreve refusjon kan være begrenset etter folkerettslig avtale, jf. for eksempel
-1959-konvensjonen artikkel 20, annen tilleggsprotokoll artikkel 5, 2000-konvensjonen artiklene
-10 nr. 7, 11 nr. 5 og 21. Dekning vil først og
-fremst være aktuelt for omfattende etterforskingsoppdrag, salær til forsvarere og eventuelt
-bistandsadvokater samt utbetalinger til sakkyndige og vitner, typisk i større saker som pågår
-over noe tid. Mener påtalemyndigheten at det er
-grunn til å kreve refusjon, bør spørsmålet i
-alminnelighet tas opp med departementet før
-krav fremmes. At det ikke er gitt varsel etter
-annet punktum, utelukker ikke nødvendigvis et
-senere krav.
-Til § 25-8. Vilkår for bistand til utenlandsk myndighet.
-Spesialitetsprinsippet
-Første ledd pålegger den som besvarer en anmodning fra utenlandsk myndighet, å stille vilkår som
-innholdsmessig svarer til spesialitetsprinsippet
-etter Schengenkonvensjonen artikkel 50 nr. 3.
-Formålet er å sikre kontroll med bruken av opplysninger som overleveres eller gjøres tilgjengelig
-for andre lands myndigheter. Slike vilkår skal
-angis uttrykkelig også når de følger av folkerettslig avtale med vedkommende stat.
-Annet ledd gir en generell adgang til å stille
-nødvendige eller hensiktsmessige vilkår ut fra
-omstendighetene i det enkelte tilfelle, innenfor
-rammene av folkerettslige avtaler, sml. utleveringsloven § 12 nr. 2.
-Til § 25-9. Svar til anmodende myndighet i utlandet
-Se forskrift 14. desember 2012 nr. 1227 om internasjonalt samarbeid i straffesaker § 3 siste ledd.
-Hovedregelen er at anmodninger besvares
-samme vei som de er fremsendt. Svar skal likevel
-sendes via departementet når det er grunn til å
-vurdere bistanden i en større sammenheng enn
-den konkrete straffesaken. I slike tilfeller bør
-departementet gis det endelige ord, jf. utkastet
-§ 25-4 annet ledd. Avslag etter utkastet § 25-3 bør
-det også underrettes om via departementet. Alternativet «andre særlige forhold» tar særlig sikte på
-tilfeller hvor bistand kan ha utenrikspolitiske
-implikasjoner, eller som reiser spørsmål av mer
-generell betydning for det rettslige samarbeid
-med vedkommende stat mv.
-
-627
-
-Kapittel 30
-
-Til § 25-10. Rettslig fjernmøte og fjernavhør etter
-anmodning fra utenlandsk myndighet
-Se utleveringsloven § 24 a.
-Retten må kontrollere at det er gitt samtykke
-til fjernmøte etter første ledd. Samtykket kan trekkes tilbake på ethvert tidspunkt, og et påbegynt
-fjernmøte skal da avbrytes. Ved vurderingen av
-om fremgangsmåten er «ubetenkelig», skal det
-særlig ses hen til sakens alvor og kompleksitet.
-De norske reglene om fjernmøte er retningsgivende, men ikke nødvendigvis avgjørende. Blant
-annet bør det tillegges selvstendig betydning at
-anmodende stats rett åpner for bruk av fjernmøte.
-Også alternativene til fjernmøte, herunder om
-dette kan føre til dom in absentia eller til at vedkommende vil bli begjært utlevert, bør tas i
-betraktning, se punkt 15.3.5.
-I annet ledd skal uttrykket «utenlandsk domstol» tolkes i samsvar med Norges folkerettslige
-forpliktelser, jf. 2000-konvensjonen artikkel 10 og
-annen tilleggsprotokoll artikkel 9. Uttrykket
-«vitne» omfatter også sakkyndige vitner. Etter
-annet ledd første punktum kan retten gi tillatelse til
-fjernavhør, herunder kan vitner og sakkyndige
-pålegges å møte og forklare seg. Reglene om innkalling, møteplikt og forklaringsplikt gjelder tilsvarende i kraft av utkastet § 25-2 første ledd.
-Tredje ledd stiller krav til tilstedeværelse, som
-ivaretas av en dommer ved avhør fra domstol og
-av en offentlig tjenestemann ved avhør fra politistasjon mv.
-Utgangspunktet i fjerde ledd om at gjennomføringen av avhøret kan skje etter anmodende stats
-lovgivning, må forstås i lys av utkastet § 25-5 første ledd om særskilt fremgangsmåte. Retten skal
-føre kontroll med at gjennomføringen er forenlig
-med sentrale rettsprinsipper og rettigheter. Det er
-uttrykkelig angitt at dette også omfatter reglene
-om bevisforbud og forklaringsfritak, jf. utkastet
-kapittel 8 og 9, hvilket blant annet innebærer at
-vedkommende kan nekte å avgi forklaring i den
-utstrekning dette følger enten av norske regler
-eller av lovgivningen i anmodende stat. Ved fjernmøte etter første ledd må retten særlig påse at
-mistenkte har forsvarer der dette er et krav etter
-norske regler, at vernet mot tvungen selvinkriminering overholdes, og at gjennomføringen av
-avhør ikke strider mot utkastet § 10-6.
-Nærmere regler om fjernmøte og fjernavhør
-etter anmodning fra utenlandsk myndighet kan
-gis i forskrift, jf. utkastet § 25-13.
-Forslaget er nærmere omtalt i punkt 15.3.5.
-
-[Side 630]
-
-628
-
-Kapittel 30
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-Til § 25-11. Overlevering av beslaglagte ting til
-utenlandsk myndighet
-Se utleveringsloven § 24 nr. 1 og 5.
-Bestemmelsen svarer med enkelte endringer
-til utleveringsloven § 24 nr. 1 og 5. I likhet med
-utleveringsloven § 24 regulerer ikke utkastet
-overlevering av gjenstander til utenlandsk myndighet med sikte på inndragning. Internasjonalt
-samarbeid om inndragning er regulert særskilt, jf.
-Ot.prp. nr. 53 (2005–2006) punkt 6.4 flg. og straffeloven § 75 tredje ledd. Overføring av ting til utenlandsk myndighet med sikte på tilbakelevering til
-rette eier, jf. utleveringsloven § 24 nr. 1 annet og
-tredje punktum, reguleres heller ikke av utkastet
-§ 25-11, men slik overlevering kan skje etter
-utkastet § 19-4 tredje ledd.
-Overlevering etter første ledd forutsetter at tingen er «beslaglagt». Det må altså foreligge et virksomt grunnlag for beslaget etter reglene i utkastet
-kapittel 19. Den som er rammet av beslaget, kan
-kreve rettslig prøving etter utkastet § 19-1. Ved
-vurderingen av om det er forholdsmessig å opprettholde beslaget, må retten ta i betraktning at
-det er spørsmål om å overlevere tingen til utenlandske myndigheter, og de ulemper dette kan
-medføre for den som er rammet.
-Etter annet ledd skal det som hovedregel stilles vilkår om at ting som er overlevert til bevisformål, skal tilbakeleveres, jf. også utleveringsloven
-§ 24 nr. 5 og 1959-konvensjonen artikkel 6 nr. 2.
-Vilkåret om tilbakelevering «uten opphold dersom
-beslaget oppheves i Norge» skal sikre gjennomføringen av reglene om varighet og opphør av
-beslag. Plikten til å stille vilkår om tilbakelevering
-er ikke absolutt, jf. «som regel». Vilkår kan blant
-annet unnlates dersom det på forhånd er klart at
-det ikke er behov for å få tingen tilbake, for
-eksempel fordi ingen er rammet av beslaget. Det
-kan også gis avkall på tingen dersom behovet for å
-få den tilbake bortfaller.
-Til § 25-12. Særlige former for bistand i anledning
-inngrep i kommunikasjon mv.
-Se straffeprosessloven §§ 203 annet ledd, 210 første ledd tredje punktum og 216 b tredje ledd, jf.
-216 a fjerde ledd tredje og fjerde punktum og
-femte og sjette ledd. Se også forskrift 14. desember 2012 nr. 1227 om internasjonalt samarbeid i
-straffesaker kapittel 5.
-Bestemmelsen regulerer enkelte særlige former for bistand til utenlandske myndigheter i
-anledning inngrep i kommunikasjon mv. De
-nevnte straffeprosessuelle regler ble vedtatt i for-
-
-bindelse med implementering og ratifikasjon av
-2000-konvensjonen, jf. Prop. 97 LS (2011–2012) s.
-32–46. Til forskjell fra gjeldende lov gjelder
-reglene etter utkastet uavhengig av Norges folkerettslige forpliktelser, se nærmere punkt 15.3.6.
-Første ledd regulerer situasjonen når det i
-utlandet er besluttet kommunikasjonsinngrep
-mv. overfor person som oppholder seg i Norge, og
-vedkommende utenlandske myndighet kan gjennomføre inngrepet uten teknisk bistand fra norske myndigheter. I slike tilfeller kan det etter
-anmodning gis tillatelse til at myndighetene i vedkommende stat selv gjennomfører inngrepet så
-lenge det er «grunnlag for inngrepet etter norske
-regler». Dette innebærer at vilkårene om dobbel
-straffbarhet og at tilsvarende tiltak kunne vært
-anvendt i anmodende stat, må være oppfylt, se
-utkastet § 25-2 annet ledd annet punktum. Det
-siste vil regelmessig være klart, ettersom det er
-en forutsetning at det i anmodende stat er truffet
-beslutning om inngrepet. Videre må vilkårene for
-det aktuelle inngrepet etter reglene i utkastet
-kapittel 20 være oppfylt, jf. utkastet § 25-2 første
-ledd. Myndigheten til å gi tillatelse etter første
-ledd følger reglene i utkastet § 14-3.
-Annet ledd gjelder teknisk bistand til utenlandsk myndighet med sikte på gjennomføring av
-beslutning truffet i vedkommende stat om kommunikasjonsinngrep mv. overfor person som ikke
-oppholder seg i Norge. Behovet for bistand kan
-melde seg blant annet fordi kommunikasjonen
-som skal kontrolleres, rutes via en kommunikasjonsinnretning på norsk jord. Bistanden kan ytes
-selv om det er behov for mellomlagring av opplysningene. Ettersom det er tale om inngrep overfor
-personer som oppholder seg utenfor Norge, er det
-ikke som etter første ledd et vilkår at det er grunnlag for inngrepet etter norske regler. Påtalemyndigheten må imidlertid som ellers vurdere om det
-er forsvarlig at norske myndigheter medvirker til
-inngrepet, jf. utkastet § 25-3.
-Tredje ledd regulerer overføringsmåten til
-utlandet av opplysninger som norske myndigheter innhenter som ledd i bistand ved bruk av
-visse tvangstiltak. Selve tvangstiltaket må være
-besluttet på ordinær måte, jf. utkastet § 25-2 første
-ledd og annet ledd annet punktum. Bestemmelsen
-gir hjemmel for å beslutte at anmodende myndighet skal motta opplysninger ved direkte overføring (i «sanntid»). Dette har bare aktualitet for
-opplysninger som ikke allerede eksisterer eller er
-tilgjengelige, og er derfor begrenset til opplysninger som innhentes ved utleveringspålegg etter
-utkastet § 19-7 annet ledd om fremtidig utlevering,
-for eksempel som ledd i overvåking av banktrans-
+*Annet ledd* er et unntak fra forhandlingsprinsippet som gjelder ved behandlingen av sivile krav etter tvisteloven. Unntaket innebærer at saksøker i stedet for ikke å få medhold i de deler av et krav som ikke er opplyst, gis anledning til å få behandlet disse delene på nytt etter tvisteloven. Adgangen gjelder ikke for kravet som sådan, men for kravets størrelse, for eksempel slik at retten avgjør den delen av kravet som knytter seg til lidt tap, mens spørsmålet om erstatning for tap i fremtidig erverv ikke avgjøres i straffesaken.
+
+Rettens adgang til å dele behandlingen av kravet på denne måten forutsetter at den manglende opplysningen skyldes at kravet ble behandlet i straffeprosessens former. Bare dersom saksøker ikke har hatt de samme forutsetninger for å få opplyst kravet som ved behandling etter tvisteloven, kan det avises dom for en del av kravet. Adgangen etter lovutkastet er således mer begrenset enn etter straffeprosessloven. Det vises til drøftelsen i punkt 25.4.11.
+
+*Tredje ledd* fastslår ensrettingsprinsippet. Bestemmelsen gjelder for enhver frifinnelse uansett grunnlag, herunder frifinnelse for straff på grunn av mindreårighet. Det vises til drøftelsen i punkt 25.2.
+
+*Til § 43-12. Krav som ikke tas til behandling. Ny behandling av krav. Nye krav. Særskilt anke.*
+
+Se straffeprosessloven § 428 fjerde ledd og 434.
+
+*Første ledd* fastslår at krav som avvises fra behandling i straffeprosessens former, kan behandles etter de alminnelige reglene for behandling av sivile krav i tvisteloven. *Første ledd første punktum* klargjør fremgangsmåten når et sivilt krav ikke tas til behandling etter § 43-8 eller nektes videre behandling § 43-10 tredje ledd. Mottar retten slik begjæring, skal sivil sak opprettes og videre behandling skje etter reglene i tvisteloven. I motsatt fall heves denne delen av saken. Fristen i *første ledd annet punktum* er preklusiv. En tilsvarende bestemmelse gjelder der lagmannsretten nekter å behandle det sivile kravet i straffesaken, utkastet jf. § 43-14.
+
+*Annet ledd* fastslår at behandlingen av det sivile kravet følger straffesaken også i ankeomgangen. Grunnvilkårene for fellesbehandling etter utkastet §§ 43-2 og 43-8 må være oppfylt. Det sivile rettskrav behandles ikke i større utstrekning enn det straffekravet kravet knytter seg til. Dersom det for eksempel er anket over saksbehandlingen, er det ikke adgang til å få prøvd bevisbedømmelsen hva gjelder det faktiske grunnlaget for det sivile kravet. I så tilfelle må det ankes særskilt etter tredje ledd. Kravet til at det skal være «rimelig», skal praktiseres med utgangspunkt i tvisteloven § 29-4 fjerde ledd, jf. utkastet 43-3 annet punktum bokstav a.
+
+*Tredje ledd* angir vilkårene for videre behandling av krav når straffekravet ikke lenger er til behandling. Fristen for særskilt ny behandling er preklusiv.
+
+*Til § 43-13. Begjæring om ankebehandling. Saksbehandling*
+
+Se straffeprosessloven § 434.
+
+*Til § 43-14. Ankebehandling. Bortfall*
+
+Se straffeprosessloven §§ 434 og 435.
+
+*Første ledd* uttrykker at lagmannsretten og Høyesterett kan nekte å behandle kravet dersom vilkårene i utkastet § 43-8 ikke er oppfylt. Regelen uttrykker at en forutsetning for å behandle sivile krav i straffesaken i ankeomgangen er at det etter loven er hensiktsmessig med fellesbehandling, og virker i forlengelsen av utkastet §§ 43-2, 43-8 og 43-10 tredje ledd.
+
+Også på dette stadiet skal man ved vurderingen ta utgangspunkt i den faktiske situasjon. Forhold som kan tilsi at kravet tas til behandling på dette stadiet, kan være ressursene som så langt er lagt ned, at partene har innrettet seg på at kravet blir avgjort i tilknytning til straffesaken, og eventuelle fornærmedes belastinger ved prosessen. Er det på den annen side klart at ankebehandlingen for straffekravet skal begrenses til et springende punkt som ikke angår det sivile kravet, kan det tale for at kravet ikke lenger behandles i straffesaken.
+
+Med «bortfaller» i *annet ledd første punktum* siktes det til situasjoner der straffesaken avvises, ikke henvises til ankeforhandling eller heves. *Annet ledd tredje punktum* regulerer den særlige situasjon at et sivilt krav første gang skulle bli eller ble behandlet i ankeinstansen etter utkastet § 43-12 annet ledd annet punktum.
+
+*Til § 43-15. Innkreving*
+
+Se straffeprosessloven § 456 første ledd.
+
+*Til § 43-16. Gjenåpning*
+
+Se straffeprosessloven § 435 annet punktum.
+
+Bestemmelsen gjelder gjenåpning både til gunst og til ugunst. Utsettelse av fristen etter tvisteloven § 31-6 første punktum gjelder frem til Gjenopptakelseskommisjonen har ferdigbehandlet saken. Partene i det sivile kravet avgjør om de ønsker behandling av dette i den nye straffesaken, jf. «begjærer». Staten har partsinteresse i det sivile kravet for den delen som ikke ville kunne pådømmes dersom de ordinære foreldelsesreglene var gitt anvendelse.
+
+*Til § 43-17. Sakskostnader*
+
+Se straffeprosessloven §§ 100, 107, 107 c, 107 d.
+
+**Til kapittel 44. Sakskostnader**
+
+*Til § 44-1. Krav om dekning av sakskostnader når saken ender uten konstatering av straffansvar*
+
+Se straffeprosessloven § 438.
+
+*Første ledd* gir mistenkte rett til dekning av sakskostnader dersom saken ender uten konstatering av straffansvar, herunder dekning av nødvendige reiseutgifter. Dette gjelder også utgifter når saken ikke ender i retten. Som etter gjeldende rett kommer bestemmelsen også til anvendelse når tiltalte frifinnes for enkelte av de forholdene som tiltalen gjelder.
+
+*Annet ledd* viderefører i det hovedsakelige gjeldende rett, men med mulighet for i noe større grad å erstatte mistenktes utgifter, jf. uttrykket «med mindre utgiftene har vært nødvendige på grunn av sakens art». Det vises til drøftelse i kapittel 26.
+
+*Til § 44-2. Statens krav om dekning av sakskostnader*
+
+Se straffeprosessloven §§ 436, 437 og 456 første ledd.
+
+Bestemmelsen regulerer statens rett til sakskostnader overfor mistenkte eller domfelte og gir i første ledd uttrykk for utvalgets syn på hvordan sakskostnadsansvaret bør innrettes overfor mistenkte, se kapittel 26.
+
+De utgifter som kan kreves dekket etter *første ledd*, er meromkostninger som følge av uhensiktsmessig prosessadferd fra mistenktes side og prosesshandlinger som finner sted uten rimelig grunn. Slik adferd kan skje på alle stadier av prosessen, både i og utenfor retten. Utgifter til statens behandling kan for eksempel bestå i kostnader ved aktors tilstedeværelse utover det nødvendige, men ikke domstolens utgifter, jf. tredje ledd. Imidlertid må det kreves konkrete holdepunkter for at det er de aktuelle handlingene som har ført til at kostnadene ved å avvikle saken har økt. Hvis det er mistenktes forsvarer som selv er årsak til at kostnadene øker, bør mistenkte ikke bære risikoen for dette.
+
+Selv om mistenkte er omfattet av regelen i første ledd, kan det foreligge konkrete omstendigheter som kan tilsi at sakskostnadsansvar ikke bør ilegges, og som ikke fanges opp av bestemmelsens annet ledd. Loven påbyr derfor ikke retten å idømme sakskostnader, men gir rom for skjønn, jf. uttrykket «kan». Relevante momenter kan for eksempel være domfeltes alder, sykdom og rehabiliteringshensyn.
+
+Angår saken flere straffbare forhold, kan vedkommende bare idømmes sakskostnadsansvar for behandlingen av de forholdene hvor «utfallet i det vesentlige har gått mistenkte imot». Økes kostnadene ved behandling av forhold mistenkte ikke dømmes for eller får en vesentlig mildere reaksjon for enn det påtalemyndigheten har påstått, kan vedkommende ikke pålegges å dekke meromkostningene.
+
+Bestemmelsen gjelder også ved anke og under ankeinstansens behandling, og i utgangspunktet er det de samme vurderinger som må foretas her. Hva som konkret utgjør vidløftiggjørende prosessadferd, kan imidlertid i noen grad tenkes å bero på behandlingen som ligger til grunn for den påankede avgjørelsen, og hvor grundig denne fremstår.
+
+*Til § 44-3. Avgjørelse av krav om sakskostnader*
+
+Se straffeprosessloven §§ 441 og 442.
+
+*Til § 44-4. Mistenktes forsvarer og retten til dekning av sakskostnader*
+
+Se straffeprosessloven § 443.
+
+**Til kapittel 45. Erstatning etter straffeforfølgning**
+
+*Til § 45-1. Statens erstatningsansvar i anledning straffeforfølgning*
+
+Bestemmelsen er ny.
+
+*Første punktum* angir staten som ansvarssubjekt for erstatningsreglene, slik det også er etter gjeldende rett. Unntak fra denne angivelsen følger av utkastet § 45-8, som angir statens adgang til å kreve tilbakebetaling av erstatning og muligheten til å gjøre regressansvar gjeldende.
+
+*Annet punktum* angir at krav etter en straffeprosessuell erstatningsordning ikke utelukker erstatningskrav som fremmes på annet grunnlag. Utvalgets utkast regulerer i liten grad situasjonen når erstatningskrav som er en følge av straffeforfølgningen, fremmes på alminnelig grunnlag. Et unntak er utkastet § 45-9 annet ledd, som er en særregel om foreldelse av alminnelige erstatningskrav når det er fremmet krav etter reglene i erstatningsordningen.
+
+*Til § 45-2. Mistenkte og domfeltes rett til erstatning for økonomisk tap*
+
+Bestemmelsens første og annet ledd er i hovedsak en videreføring av straffeprosessloven § 444, men i en noe annen språklig og lovteknisk utforming og med en annen systematikk. Tredje ledd viderefører § 445.
+
+I *første ledd* gis «\[m\]istenkte» rett til erstatning når forfølgningen ikke ender i at det konstateres straffansvar. Tapet må ligge hos den straffeforfølgningen har vært rettet mot. Hvis en mistenkt person er påført tap i form av redusert aksjeutbytte som følge av at forfølgningen har vanskeliggjort vedkommende deltakelse i virksomheten, vil dette ikke gi rett til erstatning, da tapet ligger hos aksjeselskapet, se Rt. 2004 s. 1816. Bestemmelsen gir en videre rett til erstatning for økonomisk tap som følge av frihetsberøvelse enn det som følger av annet ledd, idet første ledd ikke sondrer mellom om frihetsberøvelsen var lovlig eller rettsstridig.
+
+Også foretak som frifinnes etter det fakultative skjønn ved foretaksansvaret etter straffeloven § 27 første ledd, vil etter bestemmelsen som et utgangspunkt ha rett til erstatning. Erstatningen vil imidlertid kunne avkortes i medhold av utkastet § 45-7 første ledd.
+
+Den som har vært mistenkt, gis ubetinget rett til erstatning når saken mot vedkommende «avsluttes uten at det konstateres straffansvar». Det følger for så vidt også av de påfølgende situasjonsbetingelsene i *bokstavene a til c* at saken må være avsluttet på denne måten. Bestemmelsen i *bokstav b*, som gir rett til erstatning ved avvisning, er ny og i samsvar med mindretallet i Rt. 2004 s. 1868, se særlig avsnittene 90 flg.
+
+*Annet ledd* retter seg mot den som er «domfelt». I tilfeller hvor mistenkte ikke dømmes, vil nemlig retten til erstatning for tap som skyldes frihetsberøvelse, allerede følge av bestemmelsens første ledd.
+
+I *annet ledd bokstav a* skal uttrykket «rettsstridig frihetsberøvelse» omfatte alle normer som er relevante for å vurdere frihetsberøvelsens lovlighet, herunder de som i dag er angitt i straffeprosessloven § 444 første ledd bokstav c. Bestemmelsen retter seg mot alle former for «frihetsberøvelse», herunder frihetsberøvelse etter pågripelse, varetektsfengsling, tvungen observasjon i psykiatrisk sykehus mv., så lenge frihetsberøvelsen skjer i anledning straffeforfølgningen.
+
+Ikke enhver frihetsberøvelse som ikke er tillatt, eller som det hefter mindre feil ved, er å anse som «rettsstridig». Med mindre det ikke var grunnlag for pågripelsen i utgangspunktet, vil en mistenkt som fremstilles for varetektsfengsling innen fristen i utkastet § 15-15, og som løslates av retten fordi det ikke er grunnlag for fengsling, ikke ha rett til erstatning. Det samme gjelder når en fengslingsbeslutning omgjøres etter anke. Så lenge frihetsberøvelsen bygger på en domstols avgjørelse, må den som et utgangspunkt anses som rettmessig, med mindre det hefter slike grove feil ved avgjørelsen at den må anses for å være en nullitet. Rettsstridsbegrepet i bestemmelsen må tolkes og fastlegges blant annet i lys av den forståelsen av legalitetskravet som følger av EMK og praksis fra EMD.
+
+Erstatning gis for økonomisk tap som skyldes rettsstridig frihetsberøvelse. Dette innebærer at rettskravet begrenses til skade som har sammenheng med at vernet mot rettsstridig fengsling ikke er overholdt. Uttrykket «i anledning straffeforfølgningen» markerer at det må dreie seg om et økonomisk tap som har oppstått på grunn av rettsstridig frihetsberøvelse i den aktuelle saken søkeren ble domfelt i. En alminnelig innbringelse etter politiloven § 8 vil således som regel ikke danne grunnlag for erstatning. Annerledes kan situasjonen tenkes dersom vedkommende bringes inn etter bestemmelsens første ledd nr. 4, som retter seg mot «den som treffes på eller ved et sted der det må antas å være begått en forbrytelse umiddelbart forut». Dersom den som er innbrakt, ikke raskt slippes løs, og vedkommende etter innledende undersøkelser ikke kan utelukkes som mistenkt for lovbruddet, vil frihetsberøvelsen kunne anses som en straffeprosessuell pågripelse.
+
+*Annet ledd bokstav b* regulerer erstatning på grunn av fullbyrdet «straff» som går utover det som idømmes etter gjenåpning av straffesaken. Resulterer gjenåpningen i full frifinnelse, vil retten til erstatning følge av første ledd bokstav c. Bestemmelsen regulerer dessuten erstatning på grunn av fullbyrding av andre strafferettslige reaksjoner enn det som er straff etter straffeloven, herunder reaksjoner som nevnt i straffeloven § 30 bokstavene c, d, e og h.
+
+*Tredje ledd* åpner for at det også i andre tilfeller kan tilkjennes erstatning. Ved vurderingen av om det er «rimelig» å tilkjenne erstatning, skal det tas hensyn til en rekke momenter, herunder om mistenkte eller myndighetene har handlet kritikkverdig, hvor nær årsakssammenheng det er mellom forfølgningen og skaden, samt mistenktes situasjon for øvrig. Ikke ethvert tap som er oppstått i anledning forfølgningen, vil kunne kreves dekket etter bestemmelsen. Et særlig viktig moment i rimelighetsvurderingen er nemlig om skaden fremstår som «særlig eller uforholdsmessig» jf. tredje ledd *annet punktum*.
+
+*Til § 45-3. Mistenkte og domfeltes rett til oppreisningserstatning*
+
+Se straffeprosessloven § 447.
+
+Uttrykket «frihetsberøvelse» i *bokstav a* omfatter både lovlig og rettsstridig frihetsberøvelse.
+
+*Til § 45-4. Erstatning til tredjepersoner*
+
+Se straffeprosessloven § 448.
+
+*Første ledd* gir hjemmel for å tilkjenne erstatning til tredjepersoner. Persongruppen som er vernet etter bestemmelsen, er vid. «Andre enn mistenkte og domfelte» omfatter i prinsippet alle tredjepersoner, herunder ektefelle, samboer, barn og arbeidsgiver.
+
+Det kreves ikke at det har funnet sted bestemte former for skadetilføyelse fra myndighetenes side, hvilke typer handlinger som omfattes, skal bedømmes ut fra rimelighetskriteriet. For eksempel kan mediaomtale eller at det opprettes barnevernssak, være en voldsom opplevelse for mistenktes nærstående, som etter omstendighetene tilsier at det bør gis oppreisning, se til sammenligning Rt. 2012 s. 1615. Begrensningen som ligger i uttrykket «rimelig», skal ikke praktiseres strengere enn hva det vil være grunnlag for etter alminnelige erstatningsrettslige regler.
+
+*Annet ledd* regulerer utmålingen av erstatning etter første ledd. Spørsmålet om nedsettelse av erstatning til tredjeperson på grunn av dennes medvirkning skal etter lovens system ikke være en del av rimelighetsskjønnet etter bestemmelsen, men håndteres ved den alminnelige medvirkningsregelen i utkastet § 45-7 første ledd.
+
+*Til § 45-5. Erstatning ved aksjoner om bord på utenlandsk skip eller fartøy*
+
+Se straffeprosessloven § 446 a.
+
+Bestemmelsen henviser generelt til relevante folkerettsforpliktelser og har ellers nær sammenheng med bestemmelsen om samarbeid om bording av fartøy mv. i utkastet § 26-1. Bestemmelsen her er ikke er nevnt blant erstatningsgrunnlagene som regelen i § 45-6 første ledd om begrensninger i retten til erstatning for juridiske personer kommer til anvendelse for. Det innebærer at også juridiske personer, i den utstrekning Norge er folkerettslig forpliktet til det, har rett til erstatning i den spesielle situasjonen som utkastet § 45-5 regulerer.
+
+*Til § 45-6. Erstatning til juridiske personer*
+
+Bestemmelsen er ny.
+
+*Første ledd* fastslår juridiske personers rett til erstatning etter §§ 45-2 til 45-4. Selv om retten til erstatning for en juridisk person er avskåret etter § 45-6, har denne bestemmelsen ikke betydning for spørsmålet om krav på erstatning etter alminnelige erstatningsrettslige regler.
+
+Juridiske personer har kun rett til erstatning etter disse bestemmelsene «når det er hensiktsmessig og rimelig at staten erstatter tapet» etter reglene i straffeprosessloven. Det særlige ansvarsgrunnlaget i § 45-5 er ikke omfattet av begrensningen, se merknadene til den bestemmelsen.
+
+Uttrykket «særlig legges vekt på» markerer at de påfølgende momentene inntatt i strekpunktene ikke er uttømmende for vurderingen av hva som skal anses «hensiktsmessig og rimelig». Det kan være forhold ved virksomheten som kan tilsi at erstatning ikke bør komme på tale, men som ikke nødvendigvis fanges så godt opp av strekpunktene.
+
+Etter *første ledd første strekpunkt* er det fremhevet at «virksomhetens karakter, omsetning og størrelse» vil ha betydning i vurderingen av om det er grunnlag for kravet. En liten familiebedrift med moderat inntjening vil i alminnelighet ikke være omfattet av regelen. Tapet på selskapets hånd vil ofte også ramme deltakerne hardt personlig, mulighetene for å håndtere tapet vil være små, og skaden vil hyppig også føre med seg sosiale omkostninger for de involverte. Annerledes vil situasjonen være for en større virksomhet med mange ansatte. Men selv om selskapet er drevet av få personer, kan det likevel ha stor omsetning, noe som kan gi grunn til at kravet bør falle utenfor erstatningsvernet.
+
+Momentene i første strekpunkt står i nær sammenheng med og må vurderes i lys av *første ledd annet strekpunkt*, som fastslår at det skal legges vekt på hvorvidt «det er nærliggende å identifisere enkeltpersoner med virksomheten». For en mindre bedrift vil det være mer nærliggende å identifisere deltakerne i virksomheten med det foretaket som forfølgningen retter seg mot. Dette gjør at skadene som påføres selskapet, i større grad vil ramme enkeltpersoner og på en måte som kan gjøre behovet for en form for gjenopprettelse større. Et selskap med mange ansatte, anslagsvis 15–20 personer eller flere, bør derimot som et utgangspunkt ikke være omfattet av erstatningsordningen. Men også dette momentet må vurderes i lys av omsetningen og hva slags virksomhet det konkret er tale om. Selv om det er få ansatte, og det kan være grunn til å identifisere enkeltpersoner med virksomheten, bør ikke erstatning etter lovens ordning alltid bli resultatet, særlig hvis andre momenter trekker i motsatt retning, herunder inntjeningens størrelse og at det vil være vanskelig å ta stilling til tapets omfang.
+
+Av *første ledd tredje strekpunkt* følger det da også at det skal legges vekt på «kravets grunnlag og størrelse, tapspostene som kreves dekket, og om kravet reiser vanskelige utmålingsspørsmål». Krav som fremmes av juridiske personer, vil ofte kunne reise både kompliserte rettslige og faktiske spørsmål. Det kan bli tale om meget store summer og det kan være nødvendig med særlig kyndighet for å vurdere tapspostene, for eksempel hvilken betydning straffeforfølgningen har hatt for selskapets omdømme eller svingninger i aksjekurser. Dette kan særlig tenkes ved betydelige krav fra store selskaper. Men også mindre bedrifter, herunder bedrifter med få ansatte, kan tjene store penger på komplisert vis, for eksempel på valuta- eller aksjehandel. Her vil dessuten avanserte utmålingsspørsmål kunne oppstå, noe som også vil tilsi at kravet ikke er omfattet av straffeprosesslovens erstatningsregler.
+
+*Til § 45-7. Skadelidtes medvirkning og erstatningsutmåling*
+
+Se straffeprosessloven § 446.
+
+*Første ledd* er utformet generelt slik at en enhver skadelidt kan få erstatningen redusert etter medvirkning til den oppståtte skade. I tråd med alminnelige erstatningsrettslige prinsipper stilles det krav om skyld og årsakssammenheng mellom medvirkningshandlingen og den skade som ble påført ved forfølgningen.
+
+Kravet om «skyld» innebærer at et grunnvilkår for nedsettelse er at det foreligger *uaktsom* medvirkning. Skyldgraden, og da særlig om skadelidtes adferd skjedde med forsett eller må anses som grovt uaktsom, får betydning for spørsmålet om *hvorvidt* nedsettelse er «rimelig», om forvaltningen *bør* benytte seg av muligheten til å sette ned erstatningen, og eventuelt *hvor mye*.
+
+Regelen er ikke tvingende; erstatningen eller oppreisningen «kan» settes ned. Det åpner for at det kan tas hensyn til forhold som er eksterne til den konkrete medvirkningshandlingen, for eksempel kan det være hensiktsmessig å la være å foreta inngående og ressurskrevende vurderinger av medvirkningsspørsmålet som ikke står i forhold til de pengesummer som det står om. Det kan også tas hensyn til at vurderingen vil kreve ressursbruk i form av at det innhentes materiale fra den underliggende straffesaken, samt statens økte kostnader ved fri rettshjelp dersom medvirkningsspørsmålet reises.
+
+*Første ledd annet punktum bokstav a* omfatter medvirkning som består i å «gi foranledning til etterforskingstiltak eller den fellende dommen». Dette favner vidt. Å forklare seg uriktig og dermed pådra seg mistanke vil klart nok være omfattet av dette alternativet. Men også det å omgås kriminelle kan etter omstendighetene være omfattet. Riktignok må det ved enkeltstående tilfeller for eksempel være mulig å oppholde seg i klubbhuset til en motorsykkelbande som antas forbundet med organisert kriminalitet, uten at det skal føre til erstatningsnedsettelse. Men antar samkvemmet med sentrale personer i miljøet og deltakelsen ved sosiale arrangementer en slik karakter at det fra utsiden kan være grunn til å tro at man er tett forbundet med MC-klubbens mer skjulte aktiviteter, må man regne med å være i politiets søkelys. Har man solidarisert seg med organisasjonen, skjer det en ingen urett om erstatningen settes ned i etterkant av en straffeforfølgning som ikke fører frem.
+
+Også virksomhet som i det ytre kan fremstå mer tilforlatelig, kan etter omstendighetene danne grunnlag for erstatningsnedsettelse etter alternativet i bokstav a. Den som for eksempel innordner seg etter eller har bidratt til et høyst tvilsomt skatterettslig arrangement, kan få redusert erstatningen selv om straffeforfølgningen skulle ende i en konklusjon som går ut på at skatteplanleggingen akkurat lå innenfor lovens grenser. At den konkrete medvirkningshandlingen ikke er rettsstridig, utelukker ikke at den kan danne grunnlag for erstatningsnedsettelse.
+
+*Første ledd annet punktum bokstav b og c* viderefører deler av straffeprosessloven § 446 bokstav a og c.
+
+Uttrykket «blant annet» markerer at også handlinger som ikke lar seg henføre under alternativene i annet punktum, kan utgjøre medvirkning og danne grunnlag for erstatningsnedsettelse. Utøvelse av taushetsretten er et eksempel. Hvorvidt mistenktes taushet skal føre til erstatningsnedsettelse, må vurderes innenfor de øvrige vilkår i bestemmelsen og etter retningslinjene som det er gitt uttrykk for i punkt 27.4.4.
+
+Utøvelsen av taushetsretten må under enhver omstendighet stå i sammenheng med skaden som oppstod, for at erstatningsnedsettelse skal være aktuelt. Det må være klart at mistenktes taushet hadde betydning for at forfølgningen resulterte i de aktuelle skadene. I noen situasjoner, også der mistenkte er uskyldig, kan presset i etterforskingen være så høyt at betydningen av mistenktes forklaring, hvor sann den enn måtte være, vil ha lite å si for de inngrep vedkommende utsettes for. I hvert fall vil det ofte kunne være situasjonen på et tidlig stadium av etterforskingen i en alvorlig sak. Er dette tilfellet, er det ikke grunnlag for erstatningsnedsettelse etter bestemmelsen.
+
+Dessuten må det foreligge en uaktsom utnyttelse av taushetsretten. Man må ved vurderingen her også ha for øye at det å forholde seg taus kan være en helt legitim måte å føre sitt forsvar på og helt adekvat prosessadferd. Det må her også tas hensyn til personlige forhold, som intellektuelle forutsetninger, begrensede talegaver og eventuelle negative erfaringer med politiet eller straffesaksapparatet fra tidligere.
+
+Behovet for å forholde seg taus kan videre variere med forhold som sakens alvorlighet og om mistenkte på tidspunktet for tausheten hadde fått tilgang til forsvarer. Et illustrerende eksempel er Statens sivilrettsforvaltnings avgjørelse 10. september 2014 (ESTR-2014-1932), som nektet erstatning til en person som ble pågrepet og frihetsberøvet i over et døgn i en voldtektssak som senere ble henlagt. Vedkommende ønsket ikke å forklare seg før forsvarer kunne delta under avhøret. Gitt den vanskelige bevissituasjonen i mange voldtektssaker, og det alvor som preger behandlingen av slike straffesaker, tar ikke utkastet sikte på å la medvirkningsregelen komme til anvendelse alene fordi mistenkte har forholdt seg taus i en slik presset situasjon. Derimot kan det tenkes at erstatningsnedsettelse bør bli løsningen i situasjoner hvor mistenkte hadde en særlig oppfordring til å oppklare situasjonen, for eksempel fordi vedkommende påviselig satt på opplysninger som utelukker ham som gjerningsmann.
+
+Foretak som frifinnes etter det fakultative skjønn ved foretaksansvaret etter straffeloven § 27 første ledd, og som har rett til erstatning, vil kunne få denne avkortet etter bestemmelsen.
+
+Bestemmelsen i *annet ledd* er ny, og åpner for nedsettelse av erstatning og oppreisning overfor utilregnelige lovbrytere når skaden er en følge av etterforskingstiltak som skal utføres etter loven. Det kan for eksempel gjelde avklaring av mistenktes psykiske tilstand eller en nærmere avklaring av omstendigheter ved et ellers straffbart hendelsesforløp. Skjønnet som bestemmelsen innbyr til ved uttrykkene «kan» og «rimelig», og hvor mye erstatningen eller oppreisningen bør settes ned, skal praktiseres i tråd med retningslinjene i punkt 27.4.5. At etterforskingstiltakene må være «nødvendige», innebærer at de må stå i forhold til mistenktes situasjon og handling. Betydningen av psykiske avvikstilstander som ikke har medført strafferettslig utilregnelighet, skal vurderes etter den alminnelige medvirkningsbestemmelsen i første ledd.
+
+*Til § 45-8. Tilbakebetaling. Regress*
+
+Se straffeprosessloven § 451 første ledd.
+
+Adgangen for staten til å kreve regress etter *annet ledd* er begrenset ved at det må foreligge grov uaktsomhet, og at det ikke er urimelig å gjøre kravet gjeldende, for eksempel på grunn av vanskelige økonomiske eller sosiale forhold hos den det vurderes å søke regress hos.
+
+*Til § 45-9. Foreldelse*
+
+Bestemmelsen er ny.
+
+*Første ledd* presiserer at foreldelsesfristen for skadelidtes krav tidligst begynner å løpe når den underliggende straffesaken er endelig avgjort, og at fristen avbrytes ved å fremme krav overfor Statens sivilrettsforvaltning. For en del krav etter reglene om erstatning i anledning straffeforfølgning ville foreldelsesfristen starte å løpe ved et tidligere tidspunkt, noe som kunne være uhensiktsmessig.
+
+*Annet ledd* sikrer at mistenkte som ønsker å fremme krav både på alminnelig grunnlag og etter reglene her ikke tvinges til å starte en domstolprosess om det alminnelige erstatningskravet på grunn av reglene om fristavbrytelse i foreldelsesloven.
+
+*Til § 45-10. Samordning av utbetaling med internasjonale og utenlandske myndigheter*
+
+Bestemmelsen er ny.
+
+Bestemmelsen regulerer situasjonen når det har oppstått skader i forbindelse med Norges deltakelse i internasjonalt samarbeid i straffesaker. Etter *bokstav a* er det ikke lenger grunnlag for krav etter norske regler hvis internasjonale eller utenlandske myndigheter alt har utbetalt passende erstatning. Hvis det er grunn til å tro at slik betaling vil forekomme innen rimelig tid, kan kravet foreløpig avvises, men det vil fortsatt være hjemmel for å kreve det dekket etter straffeprosesslovens regler om erstatning etter forfølgning, se *bokstav b*.
+
+*Til § 45-11. Avgjørelsesmyndighet og saksbehandling*
+
+Se straffeprosessloven § 449.
+
+*Første ledd* legger avgjørelsesmyndigheten etter loven til departementet. Krav om erstatning i anledning straffeforfølgning avgjøres etter innarbeidet praksis av sivilrettsforvaltningen etter delegasjonsvedtak.
+
+*Annet ledd* åpner for at departementet, etter delegasjon Statens sivilrettsforvaltning, kan be om påtalemyndighetens uttalelse ved behov. Forholdene i saken og hva slags spørsmål den reiser, vil være bestemmende for om påtalemyndighetens uttalelse bør innhentes. Uttrykket «kravet» omfatter alle krav etter bestemmelsene om erstatning i anledning forfølgning, også statens egne krav i form av regress eller tilbakebetaling etter utkastet § 45-8. Er det tale om å sette ned erstatningen under henvisning til at skadelidte har medvirket, eller skal det vedtas tilbakebetaling eller regress etter utkastet § 45-8, vil det typisk tale for at påtalemyndighetens syn innhentes. Videre angir bestemmelsen at Statens sivilrettsforvaltning henter inn sakens opplysninger. Av de alminnelige innsynsreglene følger det da at Statens sivilrettsforvaltning blant annet ikke vil ha tilgang på opplysninger som er omfattet av utkastet § 6-8.
+
+*Til § 45-12. Rettslig prøving*
+
+Se straffeprosessloven § 449.
+
+*Annet ledd* fastslår at søksmål om rettsforhold etter loven følger reglene i tvisteloven, herunder reglene om verneting, sml. straffeprosessloven § 449 annet ledd annet punktum. *Annet ledd annet punktum* er en særskilt regulering av sakskostnadsspørsmålet ved rettslig behandling. Se nærmere i punkt 27.5.4. Etter sin utforming vil dette unntaket for småkravprosessens sakskostnadsregel også omfatte situasjonen der staten vinner med saksomkostninger. Også staten vil da i utgangspunktet kunne kreve de fulle omkostninger innenfor en behandling i småkravprosessens former, men utgangspunktet om full dekning i tvisteloven § 20-2 første ledd, jf. § 20-5 første ledd, vil begrenses ved at saksøker bare kan pålegges å betale statens sakskostnader for tingretten «dersom søksmålet var grunnløst». Denne regelen må for øvrig antas å dekke de samme tilfellene som adgangen etter tvisteloven § 10-5 tredje ledd til å pålegge sakskostnader i saker om små krav uaktet begrensningene i samme bestemmelse første og annet ledd hvis saksøker «åpenbart uten grunn har anlagt sak».
+
+Den snevre adgangen til å pålegge saksomkostninger for ugrunnede søksmål gjelder kun «for tingretten», mens de alminnelige sakskostnadsreglene i tvisteloven vil gjelde ved ankebehandlingen, jf. første punktum.
+
+*Tredje ledd* fastslår uttrykkelig at en dommer som har deltatt i avgjørelsen av straffesaken mot mistenkte, ikke kan delta også i behandlingen av en etterfølgende erstatningssak. Uttrykket «pådømmelsen» innebærer at denne absolutte inhabilitetsregelen ikke kommer til anvendelse for en dommer som kun har deltatt i for eksempel en fengslingsavgjørelse i straffesaken mot mistenkte – habiliteten må i så fall vurderes etter domstolloven § 108. Særlig hvis erstatningssaken angår forhold vedrørende mistenktes opphold i varetekt, vil det kunne tale for at dommeren er utelukket etter sistnevnte bestemmelse.
+
+*Til § 45-13. Forskrifter om erstatning etter straffeforfølgning*
+
+Se straffeprosessloven § 447 første ledd og annet ledd annet punktum.
+
+**Til del 12. Ikrafttredelse mv.**
+
+**Til kapittel 46. Ikrafttredelse og opphevelse og endring av lover**
+
+*Til § 46-1. Ikrafttredelse*
+
+Se straffeprosessloven § 482.
+
+*Til § 46-2. Opphevelse av lover*
+
+Se straffeprosessloven § 483.
+
+Om bakgrunnen for forslaget om å oppheve lov 25. mars 1977 nr. 22 om overføring av straffeforfølging fra eller til annet europeisk land, se punkt 15.3.8.
+
+Om bakgrunnen for forslaget om å oppheve lov 13. juni 1997 nr. 47 om gjennomføring av europarådsavtale 31. januar 1995 om ulovlig håndtering av og handel med narkotika og psykotrope stoffer til sjøs, se punkt 15.3.7.
+
+*Til § 46-3. Lovendringer*
+
+Merknader til forslagene til lovendringer er nærmere omtalt i kapittel 31.
+
+1.  **Merknader til forslag til endringer i Grunnloven og andre lover**
+
+**Til endringer i Grunnloven**
+
+Det vises til drøftelsen i punkt 8.5.
+
+**Til endringene i domstolloven**
+
+Forslagene til endringer i domstolloven tar blant annet sikte på å gi felles regler for sivile saker og straffesaker om rettsbøker, lyd- og bildeopptak av rettsforhandlingene og bruk av fjernmøte og fjernavhør, se punkt 29.2.3. Forslagene forutsetter tilpasninger i tvisteloven. I tillegg foreslås enkelte endringer foranlediget av utkast til ny straffeprosesslov. Det gjelder utkastets regler om internasjonalt samarbeid, tilpasninger i reglene om forkynning, og regler om elektronisk kommunikasjon og informasjonssikkerhet ved domstolenes behandling av opplysninger.
+
+*Til endringene i §§ 46 og 47*
+
+Forslagene til endringer i §§ 46 femte ledd annet punktum og 47 annet og fjerde ledd skal tydeliggjøre at reglene i domstolloven om rettsanmodninger ikke skal gjelde for rettsanmodninger i straffesaker som omfattes av utkastet til ny straffeprosesslov kapittel 24 og 25.
+
+Om bakgrunnen for forslagene vises det til punkt 15.3.1.
+
+*Til ny § 122 a*
+
+Se straffeprosessloven §§ 109 a, 149 a, 185 fjerde ledd tredje punktum flg. og 248 fjerde ledd.
+
+Fjernavhør og fjernmøte skal som utgangspunkt kunne benyttes både i sivile saker og i straffesaker når retten etter en konkret vurdering finner at det er hensiktsmessig og forsvarlig. Unntak forutsetter særskilt regulering, jf. utkastet til ny straffeprosesslov § 31-1 annet ledd, som stiller krav om at mistenkte i visse rettsmøter skal være fysisk til stede, eller at mistenktes deltakelse ved fjernmøte bare kan skje på nærmere vilkår. Det er en forutsetning at forsvareren, enten mistenkte deltar ved fjernmøte eller er til stede i rettsalen, som den klare hovedregel skal være på samme sted og sammen med mistenkte. Mistenkte og forsvareren skal i alle tilfeller gis mulighet til å kommunisere fortrolig og uforstyrret, jf. utkastet § 3-7 annet ledd bokstav b.
+
+Forslaget er nærmere omtalt i punkt 6.4.5.
+
+*Til ny § 134 a*
+
+Se straffeprosessloven §§ 18, 19, 21 a, 24 til 27 og 29 og tvisteloven §§ 13-5 første punktum og 13-6.
+
+Bestemmelsen er ikke til hinder for at rettsboken føres, signeres og lagres digitalt.
+
+Hvor detaljert nedtegningen etter *annet ledd første punktum* skal gjøres, avhenger av formålet og om notoritet sikres gjennom opptak. Selv om det ikke er uttrykkelig nevnt, må det gå frem at påbudte saksbehandlingsregler er fulgt, herunder at mistenkte og vitner er gjort kjent med sine rettigheter mv. Det må fremgå hvilke skriftlige bevis som er fremlagt for retten, og hvilke deler av disse som er ført, enten ved at dette angis i rettsboken, eller ved at dokumentet vedlegges rettsboken med nødvendig påtegning.
+
+Etter *annet ledd tredje punktum* er det overlatt til rettens skjønn hvorvidt det skal kreves at påstander og begjæringer skal settes opp skriftlig. Det forutsettes at dette normalt ikke mot vedkommendes ønske kreves av selvprosederende parter eller en mistenkt som ikke har forsvarer.
+
+*Tredje ledd* sammenholdt med femte ledd svarer til straffeprosessloven § 21 a.
+
+Etter *femte ledd* kan det gis nærmere forskrifter blant annet om oppbevaring av rettsbøker, herunder opptak av forhandlingene, jf. forslaget til ny § 134 b tredje ledd. I hvilken utstrekning opptak bør lagres etter rettskraft, er omtalt nærmere i punkt 28.3.4.1.
+
+*Til ny § 134 b*
+
+Se straffeprosessloven § 23 og tvisteloven § 13-7.
+
+Etter *første ledd første punktum* skal det som utgangspunkt tas lyd- og bildeopptak av rettsforhandlingene i sin helhet, herunder av forklaringer som avgis der fra parter, vitner og sakkyndige. Hvilken kvalitet som skal kreves av opptakene, må ses i lys av formålet. Skal opptak av forklaringer kunne gjenbrukes under ankebehandling, er det helt sentralt at de har god lyd- og bildekvalitet og sikrer best mulig gjengivelse. For øvrige deler av forhandlingene vil det i alminnelighet ikke være samme behov for detaljert gjengivelse, og det vil kunne være tilstrekkelig for eksempel med et oversiktsbilde som i det vesentlige fanger inn det som skjer i rettssalen.
+
+Unntakene i *første ledd annet punktum* er uttømmende. Bokstav c skal fortolkes strengt. Utkastet forutsetter at det finnes nødvendig utstyr for opptak i alle rettssaler, og «ekstraordinære forhold» tar således ikke sikte på den situasjon at utstyr mangler.
+
+Opptak inngår som en del av rettsboken, jf. *tredje ledd,* se forslaget til ny § 134 a om rettsbøker.
+
+Om bakgrunnen for forslaget, se punkt 6.5.3.3.
+
+*Til ny § 134 c*
+
+Se straffeprosessloven §§ 20 og 21 og tvisteloven §§ 13-8 og 13-9.
+
+*Til endringene i § 159 a*
+
+Se straffeprosessloven § 310 annet ledd annet og tredje punktum.
+
+Forslaget bygger på at reglene om forkynning bør samles i domstolloven kapittel 9, og reguleringen som i dag følger av straffeprosessloven § 310 annet ledd annet og tredje punktum, foreslås således flyttet til domstolloven § 159 a. I tillegg foreslås enkelte tekniske og språklige tilpasninger.
+
+*Til endringene i § 163 a*
+
+Endringene i *første ledd* åpner for elektronisk forkynning. Nærmere regler om dette kan gis i forskrift, jf. *femte ledd* Om bakgrunnen for forslaget vises det til punkt 6.4.4.2.
+
+Forslaget til endringer i *fjerde ledd* innebærer at også forsvarer, når vedkommende er advokat, kan forkynne vitneinnkalling etter reglene i første ledd annet punktum. Se utkastet til ny straffeprosesslov § 10-3 første ledd annet punktum, som åpner for at forsvarer kan innkalle vitner for mistenkte.
+
+*Til endringene i § 197 annet ledd*
+
+Se straffeprosessloven §§ 263 annet punktum og 265 annet ledd.
+
+Forslaget bygger på at reglene om forkynning bør samles i domstolloven kapittel 9, og reguleringen som i dag følger av straffeprosessloven §§ 263 annet punktum og 265 annet ledd, foreslås således overført til domstolloven 197 annet ledd.
+
+*Til endringene i § 197 a*
+
+Endringen i *første ledd* åpner generelt for elektronisk kommunikasjon med domstolene. Nærmere regler kan gis i forskrift, jf. *annet ledd*, men det er ikke et vilkår for bruk av elektronisk kommunikasjon at forskrifter er gitt. Om bakgrunnen for forslaget vises det til punkt 6.4.3.2.
+
+*Til ny § 197 b*
+
+Forslaget regulerer krav til informasjonssikkerhet ved domstolenes behandling av opplysninger. Om bakgrunnen for forslaget vises det til punkt 6.4.2.3.
+
+**Til endringene i utleveringsloven**
+
+Reglene i utleveringsloven kapittel V konsumeres av utkastet til ny straffeprosesslov kapittel 24 og 25 samt § 15-9 om midlertidig overføring av frihetsberøvet person mellom Norge og utlandet. Utleveringsloven kapittel V kan følgelig oppheves. Dersom forslaget tas til følge, blir utleveringsloven rendyrket til å gjelde utlevering, hvilket bør reflekteres i lovens tittel. Endringene i § 26 er tekniske følgeendringer.
+
+Om bakgrunnen for forslagene vises det til punkt 15.3.1.
+
+**Til endringene i barnevernloven**
+
+*Til endringene i § 3-5*
+
+Se straffeprosessloven §§ 71 b annet punktum og 183 tredje ledd.
+
+Forslaget bygger på at barnevernets plikter i straffesaker bør fremgå av barnevernloven. Det er imidlertid særlig viktig at også straffesakens aktører er oppmerksom på barnevernets plikter i forbindelse med fremstilling av personer under 18 år til rettsmøte om varetektsfengsling, og disse pliktene fremgår sammen med varslingsplikten i utkastet til ny straffeprosesslov § 15-11 annet ledd annet punktum.
+
+Dagens påpekning i § 3-5 tredje punktum om at «straffeprosessloven § 118 gjelder tilsvarende», tar sikte på å klargjøre at pliktreglene ikke gjør unntak fra forklaringsforbudet. Formuleringen er noe misvisende ettersom forklaringsforbudet gjelder direkte og ikke «tilsvarende». Barnevernets plikter i anledning rettens behandling av spørsmål om fengsling av barn innebærer klart nok ikke unntak fra bevisforbud for opplysninger som er underlagt taushetsplikt, og gjeldende påpekning om dette foreslås ikke videreført.
+
+**Til endringene i lov 24. juni 1994 nr. 38 om gjennomføring i norsk rett av De forente nasjoners sikkerhetsråds vedtak om å opprette internasjonale domstoler for forbrytelser i det tidligere Jugoslavia og Rwanda**
+
+Om bakgrunnen for endringsforslagene vises det til punkt 15.3.3.
+
+**Til endringene i straffegjennomføringsloven**
+
+*Til § 6 a. Kriminalomsorgens myndighet i straffesaker*
+
+Se straffeprosessloven §§ 68 sjette ledd første og tredje punktum, 76 femte ledd og 455 første ledd siste punktum.
+
+Forslaget bygger på at Kriminalomsorgens myndighet i straffesaker – som er nær knyttet til straffegjennomføringen – bør reguleres i straffegjennomføringsloven, se punkt 8.2.5.
+
+*Første og annet ledd* svarer til straffeprosessloven §§ 68 sjette ledd første punktum og 76 femte ledd.
+
+Utkastet til ny straffeprosesslov viderefører ikke ordningen med særskilt fullbyrdingsordre fra påtalemyndigheten, men bygger på at straff og andre strafferettslige reaksjoner skal fullbyrdes straks vilkårene er til stede, se punkt 21. Beslutning om iverksettelse skal treffes av regionalt nivå i Kriminalomsorgen, jf. *tredje ledd.*
+
+*Fjerde ledd* innebærer at Kriminalomsorgen trer inn i påtalemyndighetens sted og er underlagt de samme plikter som påhviler påtalemyndigheten etter straffeprosessloven. Også straffeprosessens øvrig regler kommer tilsvarende til anvendelse, herunder reglene om innkalling til rettsmøter, ankefrist, krav til ankeerklæringen mv.
+
+**Til endringene i lov 15. juni 2001 nr. 65 om gjennomføring i norsk rett av Den internasjonale straffedomstols vedtekter 17. juli 1998 (Roma-vedtektene)**
+
+Om bakgrunnen for endringsforslagene vises det til punkt 15.3.3.
+
+**Til endringene i straffeloven**
+
+*Til endringene i § 8*
+
+Reguleringen som i dag følger av straffeloven § 8 om adgangen til å straffeforfølge forhold som er pådømt i utlandet, foreslås regulert i utkastet til ny straffeprosesslov § 32-12 annet ledd bokstav d, se punkt 17.8.2.5.
+
+Foruten å oppheve gjeldende § 8 implementerer endringen forpliktelsene etter 1972-konvensjonen artikkel 7 nr. 2, som stiller visse krav til straffelovens anvendelse på handlinger begått i utlandet av eller mot en person i offentlig tjeneste eller mot en offentlig institusjon mv. Se punkt 15.3.8. Den foreslåtte bestemmelsen er imidlertid gitt en generell utforming og den gjelder således uavhengig av Norges folkerettslige forpliktelser.
+
+*Til endringene i § 88*
+
+Endringen implementerer forpliktelsene etter 1972-konvensjonen artikkel 26 nr. 2 om foreldelse, som krever at enhver gyldig preskripsjonsavbrytende handling i den anmodende stat skal ha samme virkning i den anmodede stat og omvendt. Se punkt 15.3.8.
+
+*Til endringene i § 221 første ledd*
+
+Se utleveringsloven § 24 a nr. 5.
+
+Endringen gjelder straffansvar for uriktig forklaring i forbindelse med rettslig fjernmøte eller fjernavhør etter anmodning fra utenlandsk myndighet, jf. utkastet til ny straffeprosesslov § 25-10. Se punkt 15.3.5.
+
+**Kilder**
+
+Litteratur
+
+Aall (1995): Aall, Jørgen, *Rettergang og menneskerettigheter: den europeiske menneskerettighetskonvensjons artikkel 6 og norsk straffeprosess* (doktoravhandling), 1995.
+
+Aall (2011): Aall, Jørgen, «Waiver of Human Rights; Waiver of Procedural Rights According to ECHR Article 6 (Part III/III)», *Nordic Journal of Human Rights* nr. 2–3 (2011), s. 206–278.
+
+Aall (2015a): Aall, Jørgen, «Uskyldspresumsjonen og beviskravet i straffesaker», I: *Bevis i straffesaker. Utvalgte emner*, Ragna Aarli mfl. (red.), 2015, s. 459–480.
+
+Aall (2015b): Aall, Jørgen, *Rettsstat og menneskerettigheter*, 4. utg., 2015b.
+
+Aarli (2004): Aarli, Ragna, ««Dørvaktkjennelsen» – et understatement om pressens kildevern. Kommentar til Høyesteretts avgjørelse 15. september 2004 (HR-2004-1533-A)», *Tidsskrift for strafferett* nr. 4 (2004) s. 452–462.
+
+Aarli (2010): Aarli, Ragna, *Offentlig rettergang. Publikums adgang til innsyn i og omtale av straffesaker*, 1. utg., 2010.
+
+Aarli (2015): Aarli, Ragna, «Massemedienes kildevern», I: *Bevis i straffesaker*. *Utvalgte emner*, Ragna Aarli mfl. (red.) 2015, s. 407–455.
+
+Anda (2009): Anda, Bente C. D., Dag I. K. Sjøberg og Audris Mockus, «Variability and Reproducibility in Software Engineering: A Study of Four Companies that Developed the Same System» *IEEE Transactions on Software Engineering* nr.3 (2009) s. 407–429.
+
+Andenæs (1992): Andenæs, Johs., «Den europeiske menneskerettighetskonvensjon og norsk straffeprosess», *Lov og Rett* nr. 7 (1992), s. 375–387).
+
+Andenæs (1995): Andenæs, Johs., «Strafferett og straffeprosess», I: *Gjennomføring av internasjonale menneskerettigheter i norsk rett; Torkel Opsahls minneseminar 1995*, Njål Høstmælingen (red.), 1995, s. 81–88.
+
+Andenæs og Fliflet (2006): Andenæs, Johs. og Arne Fliflet, *Statsforfatningen i Norge*, 2006.
+
+Andenæs og Myhrer (2009): Andenæs, Johs., *Norsk straffeprosess*, ved Tor-Geir Myhrer, 4. utgave, 2009.
+
+Andenæs mfl. (2016): Andenæs, Johs., *Alminnelig strafferett*, ved Georg Fredrik Rieber-Mohn og Knut Erik Sæther, 6. utg., 2016.
+
+Andorsen (1988): Andorsen, Kjell V., «Saksomkostninger i straffesaker», *Lov og Rett* nr. 4 (1988), s. 231–250.
+
+Andorsen (2000): Andorsen, Kjell V., «Ensretningsprinsippet og forholdet til juryen», *Lov og rett* 2000 s. 315–317.
+
+Backer (2015): Backer, Inge Lorange, *Norsk sivilprosess*, 2015.
+
+Bentham (1825): Bentham, Jeremy, *A Treatise on Judicial Evidence*, ved Étienne Dumont, 1825.
+
+Bentham (1931): Bentham, Jeremy, *Theory of Legislation*, ved Charles Kay Ogden, 1931, 2. opplag 1950.
+
+Bjerke (1973): Bjerke, Hans Kristian, *En undersøkelse av norsk fengslingspraksis 1972/73*, 1973.
+
+Bjerke (1985): Bjerke, Hans Kristian, *Straffeprosessuelle tvangs- og rettsmidler*, 1985.
+
+Bjerke, Keiserud og Sæther (2011): Bjerke, Hans Kristian, Erik Keiserud og Knut Erik Sæther, *Straffeprosessloven: kommentarutgave*, 4. utg., 2011.
+
+Bohlander (2012): Bohlander, Michael, *Principles of German Criminal Procedure*, 2012.
+
+Brath (2015): Brath, Henning, *Voldsoffererstatningsloven med kommentarer*, 2. utg., 2015.
+
+Bratholm (1957): Bratholm, Anders, *Pågripelse og varetektsfengsel*, 1957.
+
+Busch (2002): Busch, Tor-Aksel, «Påtalemyndighetens uavhengighet – bl.a. om forholdet mellom politiske myndigheter og riksadvokaten for så vidt gjelder mål og prioriteringer i straffesaksbehandlingen» I: *Rettsteori og rettsliv. Festskrift til Carsten Smith* Peter Lødrup mfl. (red.) 2002, s. 155–165.
+
+Busch (2013): Busch, Tor-Aksel, «Ytring: Tiden er inne for en ny straffeprosesslov», *Tidsskrift for Strafferett* nr. 4 (2013) s. 444–447.
+
+Bøhn (2013a): Bøhn, Anders, *Domstolloven: kommentarutgave*, 2013.
+
+Bøhn (2013b): Bøhn, Anders, Merknad til domstolloven §§ 130 og 230 i Lovdata.
+
+Dahl (2015): Dahl, Arne Willy, «Military Justice and Self-Interest in Accountability», I: *Military Self-Interest in Accountability for Core International Crimes*, Morten Bergsmo og SONG Tianying (red.) *FICHL Publication Series No. 25* (2015) s.21–34.
+
+de Wilde (2013): de Wilde, Bas, «A fundamental review of the ECHR right to examine witnesses in criminal cases», *The International Journal of Evidence & Proof* nr. 2 (2013), s. 157–182.
+
+Eckhoff, Torstein og Eivind Smith, *Forvaltningsrett*, 10. utg., 2014.
+
+Elgesem og Wahlen (2010): Elgesem, Frode og Henning Rosenlund Wahlen, «Vernet mot selvinkriminering og forklaringsplikter overfor forvaltningen; særlig om i rettigheter under Konkurransetilsynets forklaringsopptak og øvrige bevissikring», *Tidsskrift for forretningsjus* nr. 2/3 (2010), s. 59–75.
+
+Finstad og Salomonsen (2015): Finstad, Fredrik Bøckman og Torunn Salomonsen, «Fra Valle til Brussel: Om EUs betydning for norsk strafferett», *Tidsskrift for strafferett* nr. 4 (2015) s. 396–427.
+
+Frøberg (2014): Frøberg, Thomas, *Rettslig prinsippargumentasjon*, 2014.
+
+Gammeltoft-Hansen (1981): Gammeltoft-Hansen, Hans, *Straffeprocessuelle tvangsindgreb. Retspolitiske studier,* 1981.
+
+Gamst (2007): Gamst, Oddmund, «Bør reglene om saksomkostninger i straffesaker oppheves?» *Tidsskrift for Strafferett* nr. 4 (2007), s. 391–395.
+
+Getz (1878): Getz, Bernhard, *Om en Reform i Varetægtsarrestvæsenet*, 1878.
+
+Gröning mfl. (2016): Gröning, Linda, Erling Johannes Husabø og Jørn Jacobsen, *Frihet, forbrytelse og straff – En systematisk fremstilling av norsk strafferett*, 2016.
+
+Hagerup (1904): Hagerup, Francis, *Den norske straffeproces: 1*, 1904.
+
+Hagstrøm og Stenvik (2015) Hagstrøm, Viggo og Are Stenvik, *Erstatningsrett*, 2015.
+
+Halkjelsvik og Jørgensen (2012): Halkjelsvik, Torleif og Magne Jørgensen, «From Origami to Software Development: A Review of Studies on Judgment-Based Predictions of Performance Time», *Psychological Bulletin* nr. 2 (2012) s. 238–271.
+
+Havre (2015): Havre, Merete, *Varetektsfengsling og proporsjonalitetsprinsippet – en balansetest*, 2015.
+
+Hiorthøy (1964): Hiorthøy, Finn, «Påtalemyndighetens uavhengighet», *Lov og rett* (1964) s. 308–316.
+
+Holmboe og Jahre (2011): Holmboe, Morten og Hans Petter Jahre, «Dobbeltstraff er ikke enkelt – Gjentatt straffeforfølgning etter Den europeiske menneskerettskonvensjons protokoll 7 artikkel 4 – en oppdatering» *Lov og Rett* nr. 4 (2011) s. 191–212.
+
+Hopsnes (2003): Hopsnes, Roald, «Provokasjon som politimetode», *Jussens Venner* nr. 2 (2003) s. 62–130.
+
+Horn (2012): Horn, Thomas, «Er isolasjon av innsatte i politiarrest i strid med EMK artikkel 8?», *Tidsskrift for strafferett* nr. 1 (2012) s. 27–61.
+
+Horn (2015): Horn, Thomas, *Fullstendig isolasjon ved risiko for bevisforspillelse – rettspolitiske vurderinger* (doktoravhandling), 2015.
+
+Hov (1983): Hov, Jo, *Fornærmedes stilling i straffeprosessen*, 1983.
+
+Hov (2010a): Hov, Jo, *Rettergang I*, 2010.
+
+Hov (2010b): Hov, Jo, *Rettergang II*, 2010.
+
+Hov (2014): Hov, Jo, «Straffeprosessloven under debatt '… alt det gamle vi med jorden jevner …'» *Tidsskrift for strafferett* nr. 1 (2014) s. 85–89.

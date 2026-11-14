@@ -1,989 +1,272 @@
-# NOU 2026: 8, del 27 av 28 (side 295–309)
+# NOU 2026: 8, del 27 av 31
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2026/cb093a85-nou-2026-8.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2026-8/id3167083/
 - Original-PDF: https://www.regjeringen.no/contentassets/518452a8cbd04c30a9cd3ef95751a5e2/no/pdfs/nou202620260008000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 21 tabeller, 11 figurer, 20 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 295]
-
-NOU 2026: 8
-Samarbeid og informasjonsdeling for å forebygge kriminalitet
-
-For å sikre at forbudet mot å dele geolokaliserende opplysninger overholdes, må forvaltningsorganet som vurderer informasjonsdeling undersøke i folkeregisteret om vedkommendes adresse
-er sperret før informasjonsdeling skjer. Det
-enkelte forvaltningsorgan må utvikle rutiner for
-dette. En slik undersøkelse er særlig relevant for
-forebyggingsformålet vold og overgrep i nære
-relasjoner, men kan også være relevant for de to
-andre forebyggingsformålene.
-Til § 9 Deling av særlige kategorier av personopplysninger
-Paragrafen åpner for et begrenset unntak fra forbudet i personvernforordningen artikkel 9 mot å
-dele særlige kategorier av personopplysninger og
-er omtalt i kapittel 10.5.7 ovenfor.
-Deling av særlige kategorier av personopplysninger er i utgangspunktet forbudt, jf. personvernforordningen artikkel 9. Bestemmelsen oppstiller
-et begrenset unntak fra dette forbudet. Deling av
-særlige kategorier av personopplysninger forutsetter at lovens øvrige vilkår for deling er oppfylt.
-Paragrafen oppstiller tilleggsvilkår for deling av
-særlige kategorier av personopplysninger etter
-loven. For at det skal være tillatt med deling av
-opplysninger nevnt i § 9 kreves det at deling av
-alminnelige personopplysninger etter § 8 ikke vil
-oppfylle formålet med delingen. Det betyr at dersom formålet bak delingen, å forebygge kriminalitet som nevnt i lovens § 1 første ledd bokstav a) til
-c), kan oppnås ved deling av alminnelige personopplysninger etter § 8, kan det ikke deles særlige
-kategorier av personopplysninger etter denne
-paragrafen.
-Bakgrunnen for det begrensede unntaket fra
-forbudet mot å dele særlige kategorier personopplysninger, er at det i enkelte tilfeller kan være nødvendig å dele opplysninger om vedkommende
-persons filosofiske og politiske oppfatning, religion, livssyn eller helse eller andre særlige kategorier opplistet i § 9, for å være i stand til å forebygge handlingene.
-Grensen mellom alminnelige personopplysninger og særlige kategorier personopplysninger
-er glidende. Alminnelige personopplysninger
-som vil kunne avsløre forhold beskyttet etter personvernforordningen artikkel 9, vil også kunne
-være beskyttet etter forbudet i artikkel 9. Etter
-EU-domstolens praksis, som er omtalt i kapittel
-3.5.6, vil opplysninger som kan avsløre særlige
-kategorier av personopplysninger kunne regnes
-som artikkel 9-opplysninger. Lovens § 9 er ment
-å ta høyde for denne utviklingen i EU-dom-
-
-293
-
-Kapittel 15
-
-stolens praksis. Deling av særlige kategorier av
-personopplysninger etter lovens § 9 skal kun
-skje når det er nødvendig og forholdsmessig i en
-konkret sak. Det er en høy terskel for å dele slike
-opplysninger mellom forvaltningsorganene som
-er omfattet av loven.
-Til § 10 Behandlingsansvar for deling av personopplysninger
-Paragrafen omhandler behandlingsansvaret for
-deling av personopplysninger etter loven og er
-behandlet i kapittel 10.5.10 ovenfor.
-Første ledd konstaterer at avgiver- og mottakerorganet er behandlingsansvarlige for egen
-behandling av personopplysninger før og etter
-delingen. Loven regulerer ikke behandlingen av
-personopplysningene før og etter delingen. Det er
-regulert i annet regelverk som gjelder for det
-enkelte organ. Første ledd har derfor ikke selvstendig rettslig betydning, men er inntatt av pedagogiske årsaker for å unngå misforståelser.
-Andre ledd fastsetter behandlingsansvaret for
-selve delingen av personopplysninger. Hvis organene som seg imellom deler personopplysninger
-er underlagt samme personvernregelverk, vil
-avsender- og mottakerorganene være felles
-behandlingsansvarlig for behandling i form av
-deling. Denne regelen om felles behandlingsansvar gjelder ikke for politiet. Politiet vil alene
-være behandlingsansvarlig også for behandlingen
-i form av deling, jf. reglene i politiregisterloven og
-Direktiv 2016/680. Det vises til redegjørelsen for
-regelen om felles behandlingsansvar i kapittel
-10.5.10 ovenfor.
-Ved felles behandlingsansvar, må organene
-som inngår i det felles ansvaret fastsette ansvaret
-seg imellom, inkludert ansvaret for å gi den registrerte informasjon, i en «ordning» mellom organene, jf. personvernforordningen artikkel 26 nr. 1.
-Eventuelt kan et supplerende rettsgrunnlag om
-felles behandlingsansvar fastsette de respektive
-behandlingsansvarliges ansvar. Dette betyr at selv
-om ansvaret er felles utad, må ansvaret mellom de
-behandlingsansvarlige innad fastsettes enten i den
-enkelte sak eller i rettsgrunnlaget som etablerer et
-felles ansvar. Denne loven fastsetter ikke det
-respektive ansvaret innad og utpeker heller ikke et
-felles kontaktpunkt. Det forebyggende arbeidet
-særpreges av ulik organisering i norske kommuner. En slik fastsetting, av det respektive ansvaret
-og et felles kontaktpunkt, i loven er en lite hensiktsmessig løsning. Utgangspunktet i personvernforordningen artikkel 26 nr. 1, om at de enkelte
-organene må fastsette dette selv, gjelder derfor.
-
-[Side 296]
-
-294
-
-Kapittel 15
-
-NOU 2026: 8
-Samarbeid og informasjonsdeling for å forebygge kriminalitet
-
-Organene som seg imellom deler personopplysninger og taushetspliktige opplysninger i et fast
-møteforum kan utpeke et fast kontaktpunkt som
-personer som får personopplysningene sine delt
-kan kontakte, se nærmere personvernforordningen artikkel 26 nr. 1. Et slikt fast kontaktpunkt
-kan for eksempel være en personvernrådgiver
-eller noen med personvernkompetanse i ett av
-organene som deltar i et tverretatlig samarbeid
-for å forebygge kriminalitet.
-Til § 11 Myndighet til å ta beslutning om å dele
-opplysninger
-Bestemmelsen regulerer myndigheten til å
-beslutte at taushetsbelagte opplysninger og personopplysninger skal deles etter loven og er
-behandlet i kapittel 10.5.11 ovenfor.
-Første ledd fastslår at det er den behandlingsansvarlige som kan beslutte om personopplysninger skal deles etter loven. Beslutningen skal
-tas i tråd med den behandlingsansvarliges interne
-beslutningsrutiner. Det er den eller de personene,
-som etter de interne rutinene har beslutningskompetanse, som kan ta beslutningen.
-Andre ledd slår fast at det er den enkelte ansatte
-som selv må avgjøre om lovens vilkår for å dele
-taushetsbelagte opplysninger er oppfylt. Loven har
-et tosporet system ved at den gir rettslig grunnlag
-både for deling av personopplysninger og for deling
-av taushetsbelagte opplysninger. For å hindre at
-enkeltansatte skal bli instruert av en overordnet til
-å dele taushetsbelagte opplysninger etter en personlig taushetsplikt, klargjør andre ledd at det er
-den enkelte ansatte som selv skal vurdere om det
-kan deles taushetsbelagte opplysninger.
-På den andre siden er det den behandlingsansvarlige som er pliktsubjekt etter personvernregelverket. I en situasjon der forvaltningsorganet
-mener at opplysninger bør deles, men en ansatt
-med personlig taushetsplikt mener at det ikke kan
-gjøres unntak fra taushetsplikten, vil deling eventuelt kunne skje ved at en annen ansatt som anser
-vilkårene for oppfylt deler opplysningene.
-Til § 12 Notoritet og underretning om at
-opplysninger er delt
-Paragrafen inneholder krav til notoritet og underretning om informasjonsdeling etter loven og er
-behandlet i kapittel 10.5.11 ovenfor.
-Første ledd første punktum bestemmer at informasjonsdelingen mellom forvaltningsorganene
-fortrinnsvis skal skje skriftlig. Forebygging er ofte
-hendelsesstyrt. Derfor er det nødvendig at munt-
-
-lig deling av opplysninger kan foretas når det
-haster eller i en konkret situasjon er mest hensiktsmessig for å oppnå formålet med delingen.
-Første ledd andre punktum krever at hvert enkelt
-organ, når delingen skjer muntlig, sørger for
-skriftlig nedtegnelse i etterkant. Uavhengig av om
-delingen skjer skriftlig eller muntlig stiller første
-ledd tredje punktum krav om at den skriftlige
-dokumentasjonen minst skal inneholde hvilke
-opplysninger som er delt, hvem de er delt med og
-hvorfor de er delt.
-Andre ledd fastslår at opplysningene som deles
-skal være korrekte. Alle personopplysninger skal
-være korrekte sett hen til behandlingsformålet, jf.
-riktighetsprinsippet i personvernforordningen
-artikkel 5 nr. 1 bokstav d). Hovedmåten for å
-sørge for at personopplysninger og taushetsbelagte opplysninger er korrekte, vil være ulike
-former for verifisering. Etter bestemmelsens
-andre ledd skal informasjonsdelingen skje med
-korrekte personopplysninger som etter lovens
-hovedregel skal være verifiserte. Dersom det, for
-eksempel fordi det haster, er nødvendig å dele
-uverifiserte opplysninger, skal mottakeren av opplysningene opplyses om dette, jf. andre ledd andre
-punktum. Dette skal i så fall også fremgå i den
-skriftlige dokumentasjonen av delingen. Medvirkning etter lovens § 5 kan bidra til å verifisere opplysningenes riktighet. Med verifisering etter
-andre ledd menes også annen type verifisering
-enn verifisering ved å snakke med den opplysningen gjelder. Verifisering kan for eksempel
-bestå i oppslag i ulike registre for å undersøke om
-opplysningene som deles er korrekte og oppdaterte.
-Tredje ledd oppstiller hovedregelen om at personen opplysningen gjelder skal underrettes om
-at de taushetsbelagte opplysningene og personopplysningene har blitt delt med et annet forvaltningsorgan. Slik etterfølgende underretning kan
-bare unnlates dersom et unntak fra personopplysningsloven § 16 eller personvernforordningen
-artikkel 14 gjør seg gjeldende. Det vises til merknadene til lovens § 5 for en oversikt over disse
-unntakene.
-Hvis ikke unntak etter personopplysningsloven § 16 eller personvernforordningen artikkel
-14 kommer til anvendelse, skal personen som opplysningene gjelder gis informasjon om at delingen
-faktisk har skjedd, hvem som mottok opplysningene og hvorfor opplysningene ble delt. Hvis
-delingen har ført til at det er lagt en plan for videre
-oppfølging bør det også opplyses om det. Slik
-etterfølgende informasjon er viktig av hensyn til
-tillit, forutberegnelighet og muligheten til å korri-
-
-[Side 297]
-
-NOU 2026: 8
-Samarbeid og informasjonsdeling for å forebygge kriminalitet
-
-gere misforståelser. Underretningen i etterkant er
-særlig viktig i saker der medvirkning før deling
-måtte begrenses eller utsettes på grunn av risiko,
-fordi det hastet eller på grunn av andre tungtveiende hensyn i tråd med unntaket i § 5 tredje ledd.
-
-295
-
-Kapittel 15
-
-Til § 13 Ikrafttredelse
-Etter lovens § 13 avgjør Kongen ikrafttredelsestidspunktet.
-
-[Side 298]
-
-296
-
-Kapittel 16
-
-NOU 2026: 8
-Samarbeid og informasjonsdeling for å forebygge kriminalitet
-
-Kapittel 16
-
-Forslag til lov om deling av personopplysninger
-og taushetsbelagte opplysninger for å forebygge
-bestemte former for kriminalitet
-§ 1. Lovens formål
-Formålet med loven er å gi rettslig grunnlag
-for deling av personopplysninger og taushetsbelagte opplysninger mellom forvaltningsorganer
-når det er nødvendig for å forebygge
-a) at barn og unge under 25 år begår kriminalitet
-som kan få vesentlige negative konsekvenser
-for deres utvikling
-b) vold og overgrep i nære relasjoner
-c) voldelig ekstremisme.
-Loven skal ivareta den enkeltes rett til privatliv
-og personvern. Personopplysninger og taushetsbelagte opplysninger kan deles bare når det er
-nødvendig og forholdsmessig.
-Deling av opplysninger etter denne loven kan
-ikke skje når formålet er etterforskning av straffesaker.
-§ 2. Lovens virkeområde
-Loven gjelder også for Svalbard og Jan Mayen.
-Departementet kan gi forskrift om lovens anvendelse på Svalbard og Jan Mayen og kan fastsette
-særlige regler etter de stedlige forhold.
-§ 3. Definisjoner
-I denne loven forstås med
-a) forebygging: tiltak rettet mot enkeltpersoner for
-å motvirke fremtidig kriminalitet
-b) vold og overgrep i nære relasjoner: trusler,
-tvang, frihetsberøvelse, vold, seksuallovbrudd
-og andre fysiske og psykiske krenkelser i en
-nær relasjon
-c) nær relasjon: relasjonen til
-– tidligere eller nåværende ektefelle, samboer, forlovede, kjæreste eller annen partner, uavhengig av om man har eller har hatt
-felles husstand
-– egen slektning i opp- eller nedstigende linje
-– nåværende eller tidligere partners slektning i rett nedstigende linje
-– noen i husstanden
-
-– noen i ens omsorg
-d) voldelig ekstremisme: bruk av vold motivert av
-politikk, ideologi, religion, livssyn eller hat
-mot personer eller grupper, blant annet på
-grunn av hudfarge, nasjonal eller etnisk opprinnelse, religion eller livssyn, seksuell orientering, kjønnsidentitet, kjønnsuttrykk eller
-nedsatt funksjonsevne.
-§ 4. Deling av opplysninger for å forebygge bestemte
-former for kriminalitet
-Organer nevnt i § 7 kan dele personopplysninger og ellers taushetsbelagte opplysninger seg
-imellom for å forebygge kriminalitet hvis det foreligger en konkret begrunnet bekymring for
-a) at barn eller unge under 25 år kan begå kriminalitet som kan få vesentlige negative konsekvenser for deres utvikling
-b) vold og overgrep i nære relasjoner
-c) at noen kan utføre eller bidra til voldelig
-ekstremisme.
-Første ledd gjelder tilsvarende for deling av
-taushetsbelagte opplysninger internt mellom
-ansatte i et organ nevnt i § 7.
-§ 5. Rett til medvirkning i spørsmål om deling av
-opplysninger
-Den som personopplysningene og de taushetsbelagte opplysningene gjelder, har rett til reell
-medvirkning i spørsmålet om deling. Foresatte for
-barn under 18 år har den samme retten, med
-mindre medvirkning fra foresatte ikke vil være til
-barnets beste.
-Reell medvirkning innebærer at organet skal
-sørge for
-a) at det forklares hvilke opplysninger som vurderes delt, til hvilket annet organ og hvorfor
-b) at forklaringen skal være forståelig og tilpasset
-personens alder og forutsetninger
-c) at personen gis anledning til å uttrykke sine
-synspunkter før opplysningene deles
-
-[Side 299]
-
-NOU 2026: 8
-Samarbeid og informasjonsdeling for å forebygge kriminalitet
-
-d) at synspunktene tillegges vekt når det vurderes om, når og hvordan deling skal skje.
-Det kan gjøres unntak fra retten til medvirkning på grunn av private og offentlige interesser i
-tilfeller nevnt i personopplysningsloven § 16 eller
-personvernforordningen artikkel 14.
-§ 6. Nødvendig og forholdsmessig deling
-Personopplysninger og taushetsbelagte opplysninger kan deles bare hvis det er nødvendig for
-å forebygge kriminalitet nevnt i § 4 og formålet
-med delingen veier tyngre enn hensynet til personvernet og taushetsplikten.
-Deling skal begrenses til det som er nødvendig og forholdsmessig, både når det gjelder hvilke
-opplysninger som deles, og hvem de deles med.
-Opplysninger kan bare deles med personer
-som har lovbestemt taushetsplikt.
-§ 7. Organer som omfattes av loven
-Etter § 4 kan følgende organer seg imellom
-dele personopplysninger og taushetsbelagte opplysninger:
-a) arbeids- og velferdsetaten
-b) asylmottak
-c) barnehager
-d) familievernkontorer
-e) grunnskoler
-f) kommunale helse- og omsorgstjenester
-g) kommunale krisesenter
-h) konfliktrådet
-i) kriminalomsorgen
-j) politiet, herunder Politiets sikkerhetstjeneste
-k) privatskoler godkjent etter privatskolelova
-eller opplæringslova § 22-1
-l) sosialtjenesten
-m) spesialisthelsetjenesten
-n) statlig og kommunalt barnevern
-o) videregående skoler, inkludert oppfølgingstjenesten
-p) andre kommunale tjenester som ikke har sitt
-grunnlag i en særskilt lov.
-Første ledd gjelder tilsvarende for private som
-utfører oppgavene til et organ nevnt i første ledd
-etter avtale med organet.
-§ 8. Personopplysninger som kan deles
-Når lovens vilkår er oppfylt, kan det deles opplysninger om
-a) navn
-b) adresse
-c) kjønn, sivilstatus, fødselsdato og fødested
-d) fødselsnummer
-e) familierelasjoner og andre relasjoner
-f) stønader og ytelser
-
-297
-
-Kapittel 16
-
-g) straffedommer og lovovertredelser
-h) risiko for at barn og unge under 25 år kan
-begå kriminalitet som kan få vesentlige negative konsekvenser for sin utvikling
-i) risiko for vold og overgrep i nære relasjoner
-j) risiko for at noen utfører eller bidrar til voldelig ekstremisme.
-Det kan ikke deles geolokaliserende opplysninger om personer som har adressesperre i medhold av folkeregisterloven § 10-4.
-§ 9. Deling av særlige kategorier av personopplysninger
-Når lovens vilkår er oppfylt og deling av alminnelige personopplysninger ikke vil oppfylle formålet med delingen, kan organene dele personopplysninger om
-a) helseopplysninger
-b) etnisk opprinnelse
-c) politisk oppfatning
-d) filosofisk overbevisning
-e) religion
-f) livssyn
-g) seksuelle forhold
-h) seksuell orientering.
-§ 10. Behandlingsansvar for deling av personopplysninger
-Organer som nevnt i loven her er behandlingsansvarlige for egen behandling av personopplysninger før og etter deling.
-Organene som deler og mottar personopplysninger, er felles behandlingsansvarlige for selve
-delingen av personopplysninger. Slikt felles
-behandlingsansvar gjelder likevel ikke for politiet
-når politiet deler opplysninger til og mottar opplysninger fra forvaltningsorganer.
-§ 11. Myndighet til å ta beslutning om å dele opplysninger
-Det er den behandlingsansvarlige som kan
-beslutte om personopplysninger skal deles.
-Beslutningen skal tas i tråd med den behandlingsansvarliges interne beslutningsrutiner.
-Den enkelte ansatte som er underlagt taushetsplikt, må ta stilling til om vilkårene for deling
-av taushetsbelagte opplysninger etter loven er
-oppfylt.
-§ 12. Notoritet og underretning om at opplysninger
-er delt
-Personopplysninger og taushetsbelagte opplysninger skal fortrinnsvis deles skriftlig. Når opplysninger deles muntlig, skal det enkelte organ
-sørge for skriftlig nedtegnelse. Det skal fremgå
-
-[Side 300]
-
-298
-
-Kapittel 16
-
-NOU 2026: 8
-Samarbeid og informasjonsdeling for å forebygge kriminalitet
-
-hvilke opplysninger som er delt, hvem de er delt
-med og hvorfor.
-Opplysningene som deles, skal være korrekte
-og så langt som mulig verifiserte. Dersom opplysningene ikke er verifiserte, skal mottaker opplyses om dette, og det skal nedtegnes skriftlig.
-Personen som opplysningene gjelder, skal
-underrettes om at personopplysningene og de
-
-taushetsbelagte opplysningene er delt, hvem de er
-delt med og hvorfor. Det kan gjøres unntak fra
-plikten til å underrette når det følger av personopplysningsloven eller personvernforordningen.
-§ 13. Ikrafttredelse
-Loven trer i kraft fra det tidspunktet Kongen
-bestemmer.
-
-[Side 301]
-
-Del VI
-Dissens
-
-[Side 302]
-
-[Side 303]
-
-NOU 2026: 8
-Samarbeid og informasjonsdeling for å forebygge kriminalitet
-
-301
-
-Kapittel 17
-
-Kapittel 17
-
-Dissens og merknad om konsekvenser fra medlemmene
-Svendsen og Lid
-Medlemmene Svendsen og Lid slutter seg ikke til
-lovforslaget slik det er utformet i utredningen. Vi
-mener at det må gjøres viktige endringer før ny
-lov fremmes for Stortinget.
-I mandatet ble ekspertgruppen bedt om å vurdere tiltak for tverretatlig samarbeid og rettslige
-rammer for informasjonsdeling i kriminalitetsforebyggende arbeid. Vi stiller oss bak flertallets
-forslag om organisering av tverretatlig samarbeid.
-Vi stiller oss ikke bak flertallets lovforslag i sin
-helhet.
-Vi deler ekspertgruppens vurdering av at
-dagens rettslige rammer for informasjonsdeling i
-kriminalitetsforebyggende samarbeid er utilstrekkelige, uklare og krevende å praktisere. Vi legger
-også til grunn utredningens juridiske vurdering
-av at samtykke som hovedregel ikke kan brukes
-som behandlingsgrunnlag for tverretatlig deling
-av personopplysninger mellom offentlige organer.
-Dette følger av gjeldende rett, og er ikke et valg
-ekspertgruppen har tatt.
-Vi støtter behovet for klarere rettslige rammer
-i form av en ny lov for informasjonsdeling. Vi er
-også enige i lovforslagets tydelige avgrensninger
-for å beskytte privatliv, personvern og taushetsplikt, og at deling av informasjon må bygge på
-sentrale rettssikkerhetsgarantier som nødvendighet, forholdsmessighet, reell medvirkning og
-dokumentasjon.
-Vår dissens gjelder
-– lovens formålsavgrensninger – altså hvilke former for kriminalitet loven avgrenser til og hvordan avgrensningene gjøres
-– hvilke personer loven gir adgang til å dele
-informasjon om – altså om det skal kunne deles
-informasjon om utøver, utsatt eller personer
-som rekrutterer andre
-– måten loven er utformet på når det gjelder
-praksisfeltets behov for styring og støtte i
-deres vurderinger
-En av hovedårsakene til dissensen, er ulike oppfatninger mellom flertallet og mindretallet om
-
-handlingsrommet i mandatet. Flertallet har forholdt seg til det tildelte mandatet – og utviklet
-egne hjemler for – de tre kriminalitetsområdene
-som sto i mandatet: kriminalitet begått av barn og
-unge, vold og overgrep i nære relasjoner og voldelig ekstremisme. Dette var mindretallet ikke enige
-i. Vi deltok allikevel aktivt i arbeidet med sikte på
-å bidra til en best mulig utredning innenfor rammene som ble valgt. Ved avslutningen av arbeidet
-valgte vi å ta dissens på deler av utredningen, som
-vi i det følgende redegjør for.
-Mindretallet mener at mandatet ga handlingsrom for å utrede de tre kriminalitetsområdene
-uten at det nødvendigvis måtte utvikles hjemler i
-lov for hvert av områdene. Etter vårt syn burde
-utredningen vært bredere og sett disse kriminalitetsområdene i sammenheng med tilgrensende
-former for kriminalitet. Vi foreslår at informasjonsdelingen reguleres gjennom mer helhetlige
-hjemler avgrenset av type handlinger og alvorlighet heller enn spesifikke kriminalitetsområder.
-Et alternativ ekspertgruppen drøftet var om det
-burde etableres en generell hjemmel for alle former for kriminalitet uavhengig av type eller alvorlighetsgrad. Her stiller vi oss bak flertallets vurdering om at en slik generell hjemmel ikke kan anbefales. Den vil ikke ha tydelige nok formålsavgrensning og vil medføre et for stort inngrep i personvernet. Vi vil advare mot en slik hjemmel.
-I det følgende redegjør vi for dissensen. Deretter foreslår vi tre endringer departementet bør
-vurdere før ny lov fremmes: en annen avgrensning av typene kriminalitet loven skal gjelde for,
-tydeligere bestemmelser for hvilke personer og
-roller det kan deles informasjon om og tydeligere
-styring av vurderingene som skal gjøres før opplysninger deles. Avslutningsvis redegjør vi for
-noen generelle bekymringer rundt konsekvenser
-ny lov kan medføre, som bør arbeides med parallelt med videre lovarbeid.
-Til slutt i dissensen finnes en samlet oversikt
-over hvilke deler av utredningen og paragrafene vi
-tar dissens på.
-
-[Side 304]
-
-302
-
-Kapittel 17
-
-NOU 2026: 8
-Samarbeid og informasjonsdeling for å forebygge kriminalitet
-
-17.1 Dissens til lovforslaget
-Som nevnt i innledningen stiller vi oss ikke bak
-lovens formålsavgrensninger, hvilke personer
-loven gir adgang til å dele informasjon om og
-måten loven er utformet på når det gjelder praksisfeltets behov for styring og støtte i deres vurderinger. Grunnen til at vi ikke kan stille oss bak
-dette, er fordi vi ser noen vesentlige mangler ved
-lovforslaget:
-Tredelingen treffer ikke praksisfeltet godt nok
-Forebyggende arbeid vil alltid kreve faglige vurderinger og bruk av skjønn. Vår innvending er
-knyttet til hvilke vurderinger loven ber praktikere
-gjøre. I praksis er forebygging å håndtere bekymringer på et tidlig og uavklart stadium. Personene
-og familiene tjenestene møter har ofte sammensatte og overlappende bekymringer, og de kan
-ikke enkelt kategoriseres i én bestemt kriminalitetstype.
-Lovforslaget skiller mellom særskilte definerte kriminalitetsområder. Dette gjør at ansatte
-må vurdere om en kompleks og ofte uavklart
-bekymring faller inn under spesifikke kategorier
-av handlinger. Dette kan bli et kunstig og krevende kategoriseringsarbeid for de som skal
-anvende loven. Dette gjelder særlig for vold og
-overgrep i nære relasjoner og voldelig ekstremisme siden de er avgrensede deler av et større
-felt av vold, overgrep, trusler og alvorlige krenkelser.
-På et forebyggende stadium kan det være
-uklart om bekymringsfulle ytringer, voldsfantasier eller voldsrisiko skyldes ekstremistisk motivasjon, psykisk uhelse, sosial isolasjon, provokasjon, gruppepress eller andre forhold. Lovforslaget forsøker å håndtere dette ved å åpne for
-deling også der det ikke er avklart at det foreligger et ekstremistisk motiv. Det gjør loven mer
-anvendelig, men viser samtidig svakheten ved
-kategoriene som er valgt: For at kategoriene skal
-fungere i praksis, må de kunne brukes også i
-saker som ikke klart ligger innenfor kategoriens
-kjerneområde.
-Dette mener vi også er gjeldende for hjemlene
-for å dele informasjon om barn og unge som kan
-begå kriminalitet som nå omfatter unge voksne
-frem til 25 år. Selv om det finnes gode grunner til
-at hjelp og oppfølging ikke bør stoppe ved 18 år,
-kan det være inngripende at myndige personer
-opp til 25 år omfattes av en delingshjemmel som
-ikke gjelder andre voksne. For unge voksne med
-lang erfaring fra barnevern, politi eller institusjon
-
-kan dette oppleves som en forlengelse av systemkontroll.
-Samlet sett kan kunstig kategorisering føre til
-både underdeling og overdeling. Underdeling kan
-oppstå dersom ansatte lar være å dele opplysninger fordi de er usikre på om saken faller innenfor
-lovens kategorier. Overdeling kan oppstå dersom
-sammensatte saker «presses» inn i en kategori for
-å etablere hjemmel for deling. I tillegg kan loven
-bidra til praksisvridning, ved at saker som passer
-inn i lovens kategorier, får mer oppmerksomhet
-og lettere tilgang til tverretatlig informasjonsdeling enn andre alvorlige bekymringer. Kategoriene kan også påvirke hvordan tjenestene forstår
-personen, problemet, risikoen og sitt eget ansvar.
-Dersom en sak først forstås som for eksempel
-vold i nære relasjoner, kan det påvirke hvilke
-aktører som kobles på, hvilke tiltak som vurderes,
-og om andre deler av risikobildet blir tilstrekkelig
-fanget opp.
-Etter at praktikere har gjort denne første kategoriseringen, har loven som vilkår at de skal vurdere om deling er nødvendig og forholdsmessig.
-Disse kravene er viktige rettssikkerhetsgarantier.
-Mange av forholdene som bør inngå i en nødvendighets- og forholdsmessighetsvurdering er
-beskrevet i forarbeider og merknader. Vår bekymring er likevel at i selve lovteksten anvendes kun
-begrepene «nødvendig» og «forholdsmessig»
-deling. Dette er samlebetegnelser for mange
-krevende vurderinger som skal gjøres i praksis,
-men loven gir begrenset veiledning i hva som skal
-vurderes. Vi er bekymret for at det kan skape
-uønskede forskjeller i praktikerens vurderinger.
-Lovens formålsavgrensning er etter vårt syn
-for smal og fragmentert, mens de påfølgende
-kravene til vurderinger blir for generelle. Samlet
-sett stiller dette store krav til den enkelte ansatte
-og til lokale tjenester som skal anvende loven i
-komplekse, uavklarte og ofte emosjonelt belastede saker.
-Manglende avklaringer om hvilke personer det skal
-kunne deles informasjon om
-Lovforslaget tydeliggjør heller ikke godt nok
-hvilke personer det skal kunne deles informasjon
-om. I alvorlige forebyggingssaker kan bekymringen rette seg mot ulike personer: den som kan
-begå kriminalitet, den som kan rekruttere, utnytte
-eller bidra til at andre begår kriminalitet og den
-som kan bli utsatt for kriminalitet eller utnyttelse.
-For å forebygge alvorlig kriminalitet kan det være
-relevant å vurdere tiltak overfor alle disse tre
-gruppene.
-
-[Side 305]
-
-NOU 2026: 8
-Samarbeid og informasjonsdeling for å forebygge kriminalitet
-
-I lovforslaget er det ulikt regulert hvilke personer det kan deles informasjon. For alle områdene reguleres delingen når det gjelder utøveren.
-For voldelig ekstremisme er det eksplisitt skrevet
-at loven omfatter også de som kan bidra til voldelig ekstremisme. For vold og overgrep i nære relasjoner er det i forarbeidene tydelig beskrevet at
-forebygging også kan rette seg mot den voldsutsatte. For kriminalitet begått av barn og unge er
-det kun utøveren som er eksplisitt nevnt.
-Det er imidlertid utydelig om loven gir grunnlag for deling av informasjon om personer som
-rekrutterer, utnytter eller på annen måte bidrar til
-at barn og unge begår kriminalitet. Det er heller
-ikke tydelig om loven gir grunnlag for deling for å
-beskytte barn og unge som står i fare for å bli
-utsatt for alvorlig kriminalitet. Hvis for eksempel
-en ansatt blir bekymret for at en ungdom er i fare
-for å bli utsatt for vold – og ønsker å sette inn tiltak for å hindre dette – er det uklart om den
-ansatte kan dele informasjon med andre instanser.
-Tilsvarende kan være aktuelt for hatkriminalitet.
-Eksempelvis kan det være behov for å vurdere om
-det bør iverksettes beskyttelsestiltak overfor personer det er uttrykt hat ovenfor.
-Etter vårt syn bør det videreutvikles og tydeliggjøres hvilke personer og roller informasjonsdelingen skal kunne omfatte for å forebygge alvorlige former for kriminalitet.
-Lovforslaget gir ikke lovgiver et godt nok
-rammeverk for senere utvidelser
-Lovforslaget gjelder bare tre kriminalitetsområder. Flere alvorlige forebyggingssituasjoner faller
-dermed utenfor. Et eksempel er seksuelle overgrep mot barn begått av voksne utenfor nær relasjon, for eksempel en trener, lærer, religiøs leder,
-nabo eller annen voksen barnet har tillit til. Tilsvarende gjelder nettbasert grooming, digital
-seksuell utnyttelse, menneskehandel, alvorlig
-stalking, grov utnyttelse i asymmetriske relasjoner
-eller alvorlig vold fra voksne mot personer uten
-nær relasjon, i tillegg til voksnes rekruttering av
-barn og unge til kriminalitet.
-Vi mener at det er viktig at lovgiver også vurderer hjemler for deling i andre alvorlige situasjoner enn de som lovforslaget omhandler. Flertallet i ekspertgruppen viser til at loven senere
-kan utvides med flere kriminalitetsområder. Vår
-innvending er at den kategoriseringen som nå
-velges, ikke gir et godt nok rammeverk for slike
-utvidelser. Etter vår oppfatning mangler lovforslaget en helhetlig logikk for formålsavgrensninger. For kriminalitet begått av barn og unge er
-
-303
-
-Kapittel 17
-
-det gruppen som begår lovbrudd som er avgrensningen. For vold og overgrep i nære relasjoner er
-det konteksten og for voldelig ekstremisme er det
-motivet til handlingene.
-Mangelen på en helhetlig logikk skaper
-utfordringer for de utvidelsene som etter vårt
-skjønn er nødvendige. Dette er særlig tydelig for
-andre former for vold. Hvordan skal man definere
-andre former for vold, skal det avgrenses til andre
-spesielle grupper, kontekster eller motiver? Skal
-vold der psykisk uhelse, rus eller andre risikofaktorer inngår, reguleres som egne kriminalitetsområder? Skal vold begått av voksne uten kjent
-motiv utgjøre en egen restkategori? Hvis en slik
-logikk legges til grunn, blir det også uklart om
-seksuallovbrudd bør behandles som ett samlet
-kriminalitetsområde, eller om enkelte former for
-seksuallovbrudd bør reguleres særskilt.
-Dette illustrerer etter vårt syn at hva som skal
-være den førende logikken ved utvidelsen til
-andre typer lovbrudd er uklar. Vi er bekymret for
-at dette kan føre til unødvendige mange nye kategorier eller overlappende kategorier. For hver ny
-kategori vil det kreves nye definisjoner, nye
-grensedragninger og nye randsoner. Resultatet
-kan bli en lovgivning som blir stadig vanskeligere
-å anvende.
-Risiko for ny fragmentering
-En viktig del av bakgrunnen for ekspertgruppens
-arbeid er at dagens regler om taushetsplikt og
-informasjonsdeling oppleves som fragmenterte av
-praktikere. Mange tjenester opplever det som
-krevende at adgangen til å dele opplysninger
-reguleres ulikt i ulike sektorlover. Ekspertgruppen foreslår derfor en felles lov for flere
-offentlige organer. Det er et viktig grep.
-Samtidig kan spesifiseringsgraden av kriminalitetsområder i lovforslaget bidra til en ny form for
-fragmentering. Der dagens utfordring i stor grad
-er sektorfragmentering, kan lovforslagets oppdeling skape kriminalitetsområdefragmentering.
-Fragmenteringen forsterkes av at det pågår
-flere tilgrensende lovarbeider. Det arbeides blant
-annet med bedre informasjonsdeling mellom
-helsetjenesten og politiet/PST i saker der psykiske problemer og antatt voldsrisiko inngår. I tillegg er det fremmet forslag om ny lov om særskilt
-innsats mot negativ sosial kontroll og æresmotivert vold, som også inneholder regler om deling
-av taushetsbelagte opplysninger. Slike lovarbeider
-kan være godt begrunnet hver for seg, men samlet kan de bidra til et stadig mer uoversiktlig regelverk.
-
-[Side 306]
-
-304
-
-Kapittel 17
-
-NOU 2026: 8
-Samarbeid og informasjonsdeling for å forebygge kriminalitet
-
-Vi mener lovgiver bør etterstrebe å utvikle et
-helhetlig lovverk og unngå unødvendig fragmentering.
-
-–
-–
-–
-
-17.2 Mindretallets forslag til videre
-lovarbeid: en mer praksisnær
-modell
-
-Med «utnyttelse, tvang og kontroll med vesentlige
-konsekvenser» mener vi alvorlige krenkelser i
-avhengighets-, tillits- eller maktforhold, som for
-eksempel negativ sosial kontroll, krenkelser i
-nære relasjoner, menneskehandel og stalking.
-Endelige beskrivelser krever mer inngående
-vurderinger, blant annet må det vurderes om det
-er hensiktsmessig med kun én bestemmelse for
-hver av disse tre typene eller om det trengs å dele
-opp i noen få bestemmelser for hver av dem. Det
-må også avklares hvilke former for vold, seksuallovbrudd og grov utnyttelse, kontroll og krenkelser det skal kunne deles opplysninger for å forebygge. Helt sentralt er det å avgrense mot mindre
-alvorlige forhold der risikoen for skade er begrenset, og der tverretatlig deling av taushetsbelagte
-opplysninger normalt ikke vil være nødvendig
-eller forholdsmessig.
-Avgrensningene må være rettslig presise, men
-samtidig praktisk anvendelige. Det taler for at lovgiver bør beskrive lovens anvendelsesområde
-gjennom kvalitative kriterier som knytter seg til
-alvorlighet og skadepotensial, heller enn at anvendelsen forutsetter at praktikere som ikke er jurister identifiserer riktig straffebud.
-Som vi eksemplifiserte overfor kan et slik
-kritierie være «vesentlige konsekvenser» eller
-«risiko for betydelig fysisk/psykisk skade». Henvisninger til relevante straffebud kan imidlertid
-gjøres i forarbeider og merknader for å veilede
-brukerne om hvilken type handlinger som kan gi
-grunn til å dele informasjon.
-Slik vi forstår det er dette en lovteknikk som
-anvendes i lovforslaget. Hjemmelen for barn og
-unge har et slikt kvalitativt alvorlighets-/konsekvenskriterium. I paragrafen er det formulert som
-«kriminalitet som kan få vesentlige negative
-konsekvenser for deres utvikling». I forarbeider
-og merknader er det lagt inn henvisninger til
-straffebud.
-Vi mener at departementet bør vurdere en slik
-lovteknikk som kombinerer handlingstyper og
-alvorlighetsgrad for en lov om informasjonsdeling. Fordelen med dette er at lovgiver ikke til
-stadighet må utvikle nye kategorier som praktikere må «presse» folk inn i med de negative
-konsekvensene det kan få for oppfølgingen. I tillegg minskes utfordringene med at noen handlinger ikke har hjemmel for deling fordi de faller
-utenfor kategoriene. Hvis lovgiver allikevel velger
-
-Et videre lovarbeid mener vi bør ivareta manglene
-beskrevet ovenfor. Dette mener vi er nødvendig
-for å gjøre loven mer helhetlig og anvendelig i
-praksis, og gi et bedre rammeverk for senere
-utvidelser. Vi er ikke jurister og tar ikke mål av
-oss å utforme et ferdig alternativt lovforslag. Vi
-ønsker imidlertid å peke på tre endringer departementet bør vurdere før det fremmes et lovforslag.
-
-17.2.1 Annen kategorisering av hvilke typer
-kriminalitet loven skal gjelde for
-For å løse utfordringene beskrevet ovenfor mener
-vi det bør vurderes en annen måte å avgrense kriminalitetsområdene på. Poenget er ikke å fjerne
-formålsavgrensninger, men å utvikle avgrensninger som er mer helhetlige og bedre tilpasset
-praksisfeltet.
-De tre kriminalitetsområdene i lovforslaget er
-avgrenset til hovedsakelig former for vold,
-seksuallovbrudd og andre fysiske og psykiske
-krenkelser. Statens ansvar for å forebygge alvorlig
-vold, seksuallovbrudd og krenkelser med stort
-skadepotensial, går imidlertid utover om de involverte er i en nær relasjon eller utøveren har
-ekstremistisk motiv. «Tryggest» er tiltak som er
-tatt i bruk i mer enn 100 kommuner med mål om å
-beskytte risikoutsatte voksne i sårbare situasjoner. Hensikten er beskytte personer med for
-eksempel nedsatt kognitiv fungering, demens
-eller annen sykdom fra å bli utsatt for vold, overgrep og utnyttelse av personer i – eller utenfor –
-nære relasjoner. Tiltaket synliggjør behov for at
-det utvikles hjemler for å beskytte alle mennesker
-som er i særlig risiko for å bli utsatt for alvorlige
-former for vold, overgrep og andre krenkelser.
-Vi mener derfor at en lov bør regulere informasjonsdeling for mer enn de tre kriminalitetsområder som lovforslaget omfatter. For å utvikle
-et helhetlig lovverk mener vi departementet bør
-vurdere om formålsavgrensningene kan bygge på
-handlingstyper og alvorlighetsgrad i stedet for forhåndsbestemte kriminalitetsområder. Hvordan
-formålsavgrensningene skal utformes må vurderes, men et eksempel på hvordan det kan gjøres
-er:
-
-voldslovbrudd med vesentlige konsekvenser
-seksuallovbrudd med vesentlige konsekvenser
-utnyttelse, tvang og kontroll med vesentlige
-konsekvenser
-
-[Side 307]
-
-NOU 2026: 8
-Samarbeid og informasjonsdeling for å forebygge kriminalitet
-
-å bruke kriminalitetsområder til å avgrense formålene, vil lovgiver antagelig måtte bruke en slik
-lovteknikk uansett for å gi hjemler til handlinger
-som faller utenfor de definerte kriminalitetsområdene. Ved å kombinere type handling og alvorlighet i lovformuleringen mener vi at det ivaretar
-kravet om tydelig formålsavgrensning.
-Barn og unge står i en særstilling fordi formålet med forebyggingen ikke hovedsakelig er å
-beskytte andre mot skade, men å forhindre negativ utvikling for barn og unge selv. Dette betyr at
-for barn og unge må praktikere gjøre en mer helhetlig vurdering, uavhengig av om barnet er utsatt
-for og/eller utøver av vold, seksuallovbrudd eller
-utnyttelse. Derfor mener vi at forslaget om en
-egen bestemmelse for barn og unge bør beholdes
-med enkelte justeringer, blant annet at det kan
-deles informasjon også når barn er i fare for å bli
-utsatt for kriminalitet med betydelige konsekvenser.
-
-17.2.2 Tydeliggjøre hvilke personer det skal
-kunne deles informasjon om
-For å forebygge alvorlig kriminalitet kan det være
-relevant å sette inn tiltak overfor personen som
-kan begå kriminaliteten, den som rekrutterer,
-utnytter eller bidrar til at andre begår kriminalitet,
-eller den som kan bli utsatt for kriminalitet eller
-utnyttelse.
-Utfordringen de siste årene med at kriminelle
-nettverk rekrutterer barn og unge til å utføre
-alvorlige voldshandlinger, har aktualisert problemstillingen med rekruttering av barn og unge
-til å begå kriminalitet. At personer bidrar til at
-andre begår kriminalitet, er også høyst relevant
-blant annet for flere former for seksuallovbrudd.
-Det kan også være behov for å sette inn tiltak
-overfor personer som står i reell fare for å bli
-utsatt for kriminalitet, både ved volds- og seksuallovbrudd og i situasjoner med alvorlig utnyttelse.
-Vi mener derfor at videre lovarbeid bør vurdere hvilke personer det skal kunne deles informasjon om for å forebygge alvorlige former for
-vold, seksuallovbrudd og utnyttelse, tvang og
-krenkelser. Etter vårt syn bør formålsavgrensningene tydelig inkludere alle tre «roller» – utsatt,
-utøver og rekrutterer. Dette tror vi er mulig ved å
-utforme formålsavgrensninger som kombinerer
-handling og alvorlighetsgrad. I vurderingen om
-handlingene kvalifiserer til å dele informasjon er
-handlingenes potensielle alvorlighet helt sentralt
-både i vurderingene om å dele informasjon om
-utøver, den som rekrutterer eller utsatt.
-
-305
-
-Kapittel 17
-
-En slik utvidelse av hvilke personer det kan
-deles opplysninger om, vil kunne innebære større
-inngrep i privatliv og personvern. Det må derfor
-vurderes særskilt hvordan personkretsen bør
-avgrenses, og når deling kan anses nødvendig og
-forholdsmessig. Poenget er ikke at tjenester skal
-kunne dele informasjon om enhver utsatt person,
-men at loven avklarer når deling om potensielt
-utsatte eller utnyttede personer er nødvendig for å
-forebygge kriminalitet med alvorlige konsekvenser.
-
-17.2.3 Tydeligere styring av hvilke
-vurderinger som skal gjøres
-For å hjelpe praktikere i deres krevende vurderinger av om bekymringen gir grunnlag for å dele
-informasjon, mener vi at det bør vurderes om
-selve lovteksten kan gi tydeligere styring av
-vurderingene som skal ligge til grunn for deling.
-Det innebærer at lovteksten ikke bare bør vise til
-generelle vilkår som «nødvendig» og «forholdsmessig», men i større grad synliggjøre hva som
-skal vurderes.
-Det bør vurderes om lovteksten kan angi
-sentrale overordnede momenter som skal inngå i
-vurderingen, etter mønster av den foreslåtte
-bestemmelsen om medvirkning. Sentrale momenter er alvorligheten i saken, mulige konsekvenser
-og behovet for beskyttelse, delingens formål,
-delingens omfang og hvor inngripende delingen
-er for den eller de opplysningene gjelder. Det bør
-også vurderes om loven bør gi tydeligere føringer
-for dokumentasjon og oppfølging etter at deling
-har skjedd.
-Slik styring vil kunne gjøre loven lettere å
-bruke i praksis, og redusere risikoen for at den
-brukes ulikt fra kommune til kommune eller fra
-tjeneste til tjeneste. De foreslåtte endringene
-reiser nye avgrensnings- og personvernspørsmål
-som må vurderes.
-17.2.4 Konklusjon
-Ekspertgruppen utredet i hovedsak om loven for
-informasjonsdeling i kriminalitetsforebyggende
-arbeid bør avgrenses til de tre kriminalitetsområdene i mandatet, eller om det bør etableres
-en generell hjemmel for alle former for kriminalitet uavhengig av type eller alvorlighetsgrad. Vi
-mener altså at det er et tredje alternativ som
-ekspertgruppen i fellesskap ikke drøftet eller
-utredet. Alternativet er at informasjonsdeling
-reguleres gjennom mer helhetlige hjemler
-avgrenset av type handlinger og alvorlighet.
-
-[Side 308]
-
-306
-
-Kapittel 17
-
-NOU 2026: 8
-Samarbeid og informasjonsdeling for å forebygge kriminalitet
-
-Boks 17.1 Oversikt over dissensen
-Medlemmene Svendsen og Lid slutter seg til
-avklaring av personkretsen, herunder
-behovet for en egen lov og til sentrale rettssikutsatte, utøvere og de som rekrutterer til
-kriminalitet.
-kerhetsgarantier, herunder krav om konkret
-begrunnet bekymring, nødvendighet, forholds– Kapittel 15 og 16: Lovforslaget slik det er
-utformet, særlig §§ 1 og 4:
-messighet, medvirkning, dokumentasjon og
-– § 1: Avgrensningen av hvilke kriminalinotoritet. Vi støtter utredningens forslag til organisering og samarbeid.
-tetsområder loven skal omfatte.
-– § 3: Ingen særskilt dissens isolert sett,
-men merknaden følger av dissensen til
-Dissensen gjelder:
-formålsavgrensningen i §§ 1 og 4.
-– Kapittel 1.3.4 og 1.3.5: Mandatforståelsen,
-avgrensningen av kriminalitetsområdene og
-– § 4: At delingsadgangen knyttes til de tre
-kriminalitetsområdene, og at bestemmelhvilke personer forebyggingen og informasjonsdelingen kan rette seg mot.
-sen ikke tydelig nok avklarer hvem infor– Kapittel 10.2 og 10.5.2: Lovforslagets formålsmasjonsdelingen kan gjelde.
-avgrensninger om at kriminalitetsområdene i
-– § 6: Ingen dissens til kravet om nødvenmandatet legges til grunn som lovens katedighet og forholdsmessighet, men en
-gorier.
-særskilt merknad om at bestemmelsen
-burde gitt tydeligere styring av vurde– Kapittel 10.5.2.3–10.5.2.5: Avgrensningen av
-ringstemaene.
-de tre forebyggingsformålene og manglende
-
-Som vi har beskrevet ovenfor, mener vi at å
-følge tredelingen i mandatet medførte noen følgefeil som vi har redegjort for. Dersom lovforslaget
-om regulering av informasjonsdeling for de tre kriminalitetsområdene vedtas, vil det fortsatt være
-behov for at lovgiver vurderer delingshjemler for
-andre klart avgrensede alvorlige forebyggingssituasjoner. Lovforslaget gir derfor ikke en samlet
-regulering av informasjonsdeling for alle de alvorlige situasjonene hvor det etter vårt syn kan være
-behov for delingshjemler. Dette taler for at formålsavgrensningene, hvilke personer som loven
-skal omfatte og hvordan loven støtter brukerne av
-loven vurderes på nytt nå, før et endelig lovforslag
-fremmes.
-Vi mener at gjøres dette vil vi få en lov som
-bedre ivaretar helheten, er mer brukervennlig for
-ansatte i tjenestene, mer egnet til utvidelse til
-andre kriminalitetsområder og samtidig ivaretas
-nødvendige personvernhensyn.
-
-17.3 Merknad om konsekvenser og
-gjennomføring
-I tillegg til dissensen til selve lovmodellen vil vi
-peke på noen bredere konsekvenser av utredningen som vi ønsker å gjøre lovgiver oppmerksom på.
-
-For det første er sammenhengen mellom
-utvidet delingsadgang og bedre forebygging ikke
-tilstrekkelig avklart. Utredningen dokumenterer
-uklar rettstilstand og svakt organisert samarbeid.
-Manglende hjemmel er imidlertid ikke den eneste
-årsaken til svikt i forebyggingen. Utfordringene
-handler også om begrenset tid, kapasitet, uklare
-roller, svak ledelsesforankring, manglende
-kompetanse, svakt tiltaksapparat og manglende
-oppfølging. For å få til god forebygging må også
-disse utfordringene løses.
-For det andre mener vi at en ny delingshjemmel bør følges av en tydelig og forpliktende
-plan for hvordan hjemmelen skal tas i bruk. Utredningen peker på behovet for nasjonale faglige
-anbefalinger, økt kompetanse, bedre metodikk,
-organisering og samarbeidsstrukturer. Vår bekymring er at dette ikke er på plass når loven skal tas i
-bruk, og at hjemmelen dermed blir innført uten tilstrekkelig praktisk støtte, finansiering og ledelsesforankring. Vi oppfordrer derfor til at dette arbeidet påbegynnes parallelt med videre lovarbeid.
-For det tredje mener vi at konsekvensene av at
-samtykke ikke kan brukes som praktisk hovedgrunnlag for deling av personopplysninger, burde
-vært bedre belyst. Utredningen konkluderer med
-at samtykke som hovedregel ikke kan være
-behandlingsgrunnlag for tverretatlig deling av
-personopplysninger mellom offentlige organer i
-
-[Side 309]
-
-NOU 2026: 8
-Samarbeid og informasjonsdeling for å forebygge kriminalitet
-
-kriminalitetsforebyggende samarbeid. Dette forklarer hvorfor det trengs en ny hjemmel. Samtidig
-har samtykke i praksis ikke bare vært et rettslig
-grunnlag for deling, men også en måte å strukturere samarbeidet mellom tjenestene og personen
-det gjelder på. Når informasjonsdeling med ny lov
-i større grad kan skje uten samtykke, kan det
-redusere opplevelsen av eierskap, frivillighet og
-kontroll over egne opplysninger. Etter vårt syn
-burde det vært tydeligere utredet hvordan denne
-endringen kan påvirke relasjonen mellom tjenester og brukere. Medvirkning, informasjon og dialog kan avhjelpe noe av dette, men medvirkning er
-ikke det samme som samtykke og gir ikke den
-enkelte en vetorett mot deling når lovens vilkår
-ellers er oppfylt.
-For det fjerde vil vi peke på at mange tjenester i
-praksis ikke arbeider med «kriminalitetsforebygging» som en avgrenset kategori. De arbeider
-med å hjelpe, behandle, beskytte, stabilisere og
-hindre at mennesker skader seg selv eller andre.
-Vi anerkjenner at en delingshjemmel må ha et
-klart og avgrenset formål av hensyn til personvern og forutberegnelighet. Poenget er derfor
-ikke at loven bør åpne for generell informasjonsdeling i velferdstjenestene, men at det bør vurderes hvordan lovens kriminalitetsforebyggende formål vil forstås og brukes av tjenester som i praksis
-arbeider med hjelp, behandling, beskyttelse og
-oppfølging.
-For det femte gjelder lovforslaget informasjonsdeling mellom offentlige tjenester, men forebygging skjer ikke bare i og mellom offentlige tjenester. Mye viktig forebyggende arbeid skjer i frivillige organisasjoner, på arbeidsplasser, hos fritidsledere, trenere, mentorer, trossamfunn eller
-andre tillitspersoner. Vi ser innvendingene mot å
-inkludere privat og frivillig sektor i loven.
-Men når samtykke ikke kan brukes som
-behandlingsgrunnlag for slik deling, og det heller
-
-307
-
-Kapittel 17
-
-ikke foreligger en klar hjemmel for deling mellom
-offentlige tjenester og sivile aktører, kan viktige
-aktører som gjør en avgjørende forebyggende innsats bli stående utenfor. Vi mener derfor at lovgiver bør vurdere nærmere hvordan nødvendig
-og begrenset samhandling mellom offentlige
-tjenester og sivile aktører kan ivaretas på en rettssikker og personvernmessig forsvarlig måte. Private aktører som utfører oppgaver på vegne av
-offentlige organer omfattes også av § 7 i lovforslaget. Hvilke handlingsrom denne bestemmelsen
-gir for deling mellom offentlige og private aktører
-bør departementet vurdere.
-For det sjette er forholdet mellom politiets forebyggende arbeid og politiets etterretningsarbeid ikke
-tilstrekkelig utredet. Lovforslaget er tydelig avgrenset mot etterforskning, men det er mindre klart
-hvordan opplysninger som deles i forebyggende
-samarbeid kan brukes i politiets kunnskapsgrunnlag, risikovurderinger og etterretningsarbeid.
-Dette bør avklares tydeligere, fordi andre tjenester kan dele opplysninger for å bidra til hjelp og
-forebygging, mens opplysningene også kan få
-betydning for politiets vurdering av personer, nettverk eller miljøer.
-Til slutt vil vi understreke at informasjonsdeling ikke er forebygging i seg selv. Mer informasjon kan gi bedre beslutningsgrunnlag, men kan
-også føre til flere møter, flere vurderinger og flere
-registreringer uten at tiltak blir satt inn, eller uten
-at tiltakene virker. Dette var også et hovedpoeng i
-innspillene fra personer med egenerfaring, omtalt
-i kapittel 7. Lovforslaget må derfor vurderes
-sammen med organisering, kompetanse, kapasitet, tiltak og oppfølging. Dersom disse forutsetningene ikke er på plass, kan loven bidra til å
-regulere deling av ofte sensitive personopplysninger uten at forebyggingen faktisk blir bedre.
+# Merknader til de enkelte bestemmelsene i loven
+
+Til § 1 Lovens formål
+
+Paragrafen angir lovens formål og er omtalt i kapittel 10.5.2 ovenfor.
+
+*Første ledd* fastslår at formålet med loven er å gi rettslig grunnlag for deling av personopplysninger og taushetsbelagte opplysninger (informasjonsdeling) mellom forvaltningsorganer for å forebygge kriminalitet som begås av barn og unge, vold og overgrep i nære relasjoner og voldelig ekstremisme.
+
+Loven etablerer både et behandlingsgrunnlag for behandling av personopplysninger og unntak fra lovbestemt taushetsplikt.
+
+Det er ikke alltid sammenfall mellom personopplysninger etter personvernforordningen artikkel 4 nr. 1 og personlige forhold som er taushetsbelagt etter forvaltningsloven eller en sær- eller sektorlov. Noen opplysninger er eksempelvis personopplysninger etter personvernforordningen artikkel 4, men ikke taushetsbelagte opplysninger etter forvaltningsloven eller særlovgivningen. Derimot vil opplysninger som er taushetsbelagt fordi de gjelder personlige forhold (forvaltningsloven § 13 første ledd nr. 1 m.m.) som regel være personopplysninger etter personvernforordningen. Om forskjellene, se kapittel 3.3 ovenfor.
+
+Formålsbestemmelsen benytter ordlyden «rettslig grunnlag» som en fellesbetegnelse på et kombinert supplerende rettsgrunnlag etter personvernforordningen artikkel 6 nr. 1 bokstav e) og et unntak fra taushetsplikten i form av en opplysningsrett.
+
+Loven vil gi hjemmel for behandling av personopplysninger i form av behandlingsaktiviteten *deling*.
+
+Behandling av personopplysninger før og etter deling vil skje etter annet regelverk og andre supplerende rettsgrunnlag, først og fremst personvernforordningen artikkel 6 nr. 1 bokstav e) og supplerende rettsgrunnlag i det enkelte forvaltningsorgans sektorlov. For politiet gjelder reglene i politiregisterloven for behandlingen før og etter deling, jf. politiregisterloven §§ 27 fjerde ledd, 30 og 31 og Direktiv 2016/680 artikkel 8 nr. 1.
+
+*Første ledd bokstav a) til c)* opplister formålene som gir grunnlag for å dele personopplysninger og taushetsbelagte opplysninger. Etter bokstav a) kan det deles opplysninger mellom forvaltningsorganer når det er nødvendig for å forebygge kriminalitet som begås av barn og unge. Formuleringen «under 25 år» skal forstås slik at deling etter dette alternativet bare kan skje frem til personen fyller 25 år.
+
+Med «kriminalitet» etter *første ledd bokstav a)* menes handlinger som oppfyller de objektive vilkårene i en bestemmelse i straffeloven eller i den strafferettslige spesiallovgivningen. Det subjektive vilkåret for straff trenger ikke å være oppfylt. Det er ikke et vilkår at personen skal være fylt 15 år (sml. straffeloven § 20 første ledd) eller er tilregnelig (sml. straffeloven § 20 andre ledd). På et tidlig stadium av forebygging kan det være usikkert om det foreligger tilstrekkelig kunnskap til å oppfylle kravet om forsett. Typisk kan det ved rekruttering av barn til kriminalitet være tale om medvirkningshandlinger hvor det ikke er opplagt at barnet forstår rekkevidden av sine handlinger.
+
+Ikke all kriminalitet er omfattet av forebyggingsformålet i første ledd bokstav a). Det kreves at kriminaliteten kan få «vesentlige negative konsekvenser» for barnet eller den unges utvikling, se merknadene til § 4.
+
+Om avgrensningen av forebyggingsformålet vold og overgrep i nære relasjoner i *første ledd bokstav b)*, vises det til merknadene til bestemmelsen i § 3 bokstav b) og c). Ordlyden «mishandling i nære relasjoner» er bevisst ikke benyttet, for å unngå at begrepet får ulik betydning i loven her og i straffeloven § 282. Vold og overgrep i nære relasjoner omfatter flere handlinger og relasjoner enn det som kan straffes etter straffeloven § 282. Begrepene er nærmere definert i lovens § 3. Ordlyden «vold og overgrep i nære relasjoner» er valgt for bedre å oppfylle Norges folkerettslige forpliktelser etter Europarådets konvensjon CETS 210 (Istanbulkonvensjonen) artikkel 28.
+
+Forebyggingsformålet voldelig ekstremisme i *første ledd bokstav c)*, er omtalt i merknadene til § 3 *bokstav d)*. Ordlyden «voldelig ekstremisme» er benyttet fordi ekstremistiske meninger i seg selv ikke er straffbare. «Voldelig ekstremisme» klargjør at forebyggingsformålet er straffbare voldshandlinger med et ekstremistisk motiv.
+
+*Andre ledd* fastslår at lovens formål også skal ivareta den enkeltes rett til privatliv og personvern. Loven rammer inn adgangen til å dele opplysninger for kriminalitetsforebygging med konkrete vilkår, inkludert blant annet krav til medvirkning fra den enkelte og at deling skal være nødvendig og forholdsmessig. Loven skal hindre at det deles flere personopplysninger og taushetsbelagte opplysninger enn det som er nødvendig og forholdsmessig, sett hen til formålet.
+
+*Tredje ledd* presiserer at deling ikke kan skje når formålet er etterforskning av straffesaker. Loven kan ikke brukes til å omgå reglene i straffeprosessloven som regulerer politiets adgang til å innhente opplysninger i en straffesak, for eksempel reglene om utleveringspålegg og vitneplikt. Formålet med delingen etter loven skal være fremoverskuende og forebygge fremtidig kriminalitet.
+
+Selv om formålet med delingen ikke kan være etterforskning av straffbare forhold, er loven ikke til hinder for at politiet i en straffesak benytter opplysninger som opprinnelig er innhentet for forebyggingsformål dersom det er nødvendig av hensyn til straffesaken. Slik bruk bør likevel skje med varsomhet fordi det kan svekke tilliten i det forebyggende samarbeidet. Det kan imidlertid være nødvendig å benytte opplysninger delt etter denne loven i en straffesak, for eksempel for å hindre at en person blir uskyldig dømt eller at det er nødvendig med voldsalarm eller omvendt voldsalarm etter straffeprosessloven for å beskytte en voldsutsatt.
+
+Til § 2 Lovens virkeområde
+
+Paragrafen fastsetter lovens geografiske virkeområde.
+
+Etter svalbardloven § 2 andre ledd og lov om Jan Mayen § 2 første ledd gjelder ikke andre lovbestemmelser enn norsk privatrett, strafferett og den norske lovgivningen om rettspleien for Svalbard og Jan Mayen, med mindre det er særskilt fastsatt. Både personopplysningsloven og personvernforordningen, samt forvaltningsloven gjelder på Svalbard. Personopplysningsloven gjelder også på Jan Mayen, jf. personopplysningsforskriften § 1 første ledd.
+
+Reglene om taushetsplikt og behandling av personopplysninger vil altså gjelde på Svalbard, mens reglene etter personvernregelverket vil gjelde på Jan Mayen. Loven bør også gjelde på Svalbard og Jan Mayen. Longyearbyen er et norsk familiesamfunn. Selv om det trolig er begrenset behov for å anvende loven på grunn av at det er få straffesaker på Svalbard, er det ingen grunn til at adgangen til å dele personopplysninger og taushetsbelagte opplysninger for å forebygge kriminalitet skal være annerledes på Svalbard enn ellers i riket.
+
+Forholdet mellom Sysselmesteren, Longyearbyen lokalstyre og skolen på øygruppen kan likevel medføre behov for lokale tilpasninger av enkelte regler. Det foreslås derfor en egen forskriftshjemmel i *§ 2 første ledd andre punktum*. Forskriftshjemmelen gir Justis- og beredskapsdepartementet adgang til å fastsette særskilte regler som er nødvendig av hensyn til forholdene på stedet.
+
+Det er heller ingen grunn til å unnta Jan Mayen fra lovens virkeområde. Øya er en del av Kongeriket Norge, se Jan Mayen-loven § 1.
+
+Til § 3 Definisjoner
+
+Paragrafen inneholder definisjoner av flere sentrale begreper i loven, og er nærmere behandlet i punkt 10.5.2 ovenfor.
+
+I *bokstav a)* defineres hva som forstås med forebygging etter loven. Forebygging retter seg mot konkrete enkeltpersoner og omfatter ikke kriminalitetsforebygging rettet mot samfunnet eller mot større grupper mennesker. Loven kan ikke benyttes til eksempelvis å produsere statistikk eller utarbeide universelle kriminalitetsforebyggende tiltak. Om adgangen til å gi opplysninger til statistisk bruk, se forvaltningsloven § 13 a nr. 2, personopplysningsloven § 8 og statistikkloven kapittel 3.
+
+Ordlyden «tiltak» skal ikke forstås slik at det allerede når opplysninger deles må være avgjort at det er behov for et konkret kriminalitetsforebyggende tiltak rettet mot enkeltpersonen. Opplysninger kan deles for å vurdere om det er behov for tiltak, eller så kan opplysninger deles for at flere forvaltningsorganer i felleskap skal kunne vurdere om det er slikt behov. Deling av opplysninger kan gjøre de involverte tjenestene bedre i stand til å avgjøre om personen har behov for tiltak fra det offentlige, og hva et eventuelt tiltak kan bestå av. Deling av opplysninger kan både bekrefte og avkrefte om det er behov for å sette i verk kriminalitetsforebyggende tiltak overfor en person.
+
+*Bokstav b)* definerer vold og overgrep i nære relasjoner. Bruken av begrepene «vold og overgrep» og den tilhørende legaldefinisjonen klargjør at det er et stort spekter av fysiske, psykiske og seksuelle krenkelser i nære relasjoner som omfattes av dette forebyggingsformålet. Begrepene og lovens legaldefinisjon har blant annet som mål å ivareta Norges folkerettslige forpliktelser etter Istanbulkonvensjonen.
+
+Det er bevisst valgt begreper som omfatter flere krenkelser enn det som omfattes av bestemmelsen i straffeloven § 282 om mishandling i nære relasjoner.
+
+Definisjonen fastsetter at det med *vold og overgrep* i nære relasjoner i denne loven menes «trusler, tvang, frihetsberøvelse, vold, seksuallovbrudd og andre fysiske og psykiske krenkelser i en nær relasjon». Dette omfatter alle handlingsalternativene i straffeloven § 282, men uten kvalifiseringen i § 282 om at krenkelsene må utgjøre «alvorlig eller gjentatt» mishandling. Det er tilstrekkelig at bekymringen gjelder at en person blir eller kan bli utsatt for en av de alternative krenkelsene som nevnes for å være omfattet av forebyggingsformålet. I tillegg til handlingsalternativene i straffeloven § 282, er det presisert at «seksuallovbrudd» i nære relasjoner også omfattes.
+
+Definisjonen omfatter også «andre fysiske eller psykiske krenkelser» i nære relasjoner. Dette alternativet skal sikre at andre krenkelser enn de som er uttrykkelig nevnt i de ulike alternativene, som er skadelige på grunn av den nære relasjonen mellom gjerningsperson og fornærmet, omfattes. Det kan være tale om andre straffbare krenkelser, for eksempel handlinger som rammes av straffeloven § 266 (hensynsløs atferd) eller straffeloven § 267 a (deling av krenkende bilder mv.). Alternativet kan også omfatte krenkelser som ikke er straffbare i seg selv, men som kan være en utvikling mot et mishandlingsregime etter straffeloven § 282. For eksempel kan annen nedverdigende, skremmende eller forulempende adferd, som kan gå ut på å utnytte et avhengighetsforhold, isolere personen fra sitt nettverk, kontroll av personen eller som på annen måte kan være skadelige for personens psykiske eller fysiske helse, omfattes.
+
+*Bokstav c) definerer* «nære relasjoner». Personkretsen er bevisst angitt videre enn personkretsen for nære relasjoner etter straffeloven § 282. Utvidelsen av personkretsen søker å ivareta Norges folkerettslige forpliktelser etter Istanbulkonvensjonen. Definisjonen legger også til rette for forebygging i andre nære partnerrelasjoner enn relasjoner mellom tidligere eller nåværende ektefeller eller samboere. I tillegg omfattes også tidligere eller nåværende forlovede, kjæreste og annen partner uavhengig av om man har eller har hatt felles husstand.
+
+Begrepene forlovede, kjæreste og annen partner er delvis overlappende. Forlovede omfatter personer når det er inngått et løfte om ekteskap, sml. Ot.prp. nr. 90 (2003–2004) side 408. Forlovelsen trenger ikke være offisielt kunngjort. Forlovede kan samtidig være samboere eller kjærester, uten at dette er et krav, for eksempel ved arrangerte ekteskap. Ekteskapslignende forbindelser som nevnt i straffeloven § 253 første ledd bokstav b) vil omfattes selv om forbindelsen er frivillig.
+
+Begrepene «kjæreste» og «annen partner» bør ses i sammenheng, og kan reise spørsmål om den nedre grensen for relasjoner som omfattes. «Annen partner» er et videre begrep enn «kjæreste», men kjæreste er likevel tatt med i definisjonen av pedagogiske grunner. Relasjoner der begge parter definerer hverandre som kjærester, er omfattet. Begrepet «annen partner» tar sikte på å inkludere flere relasjoner enn der to personer gjensidig definerer hverandre som kjærester. Begrepet kan omfatte ulike relasjoner som ligner på kjæresteforhold. Det kan for eksempel være aktuelt for relasjoner mellom personer som har et forhold som er av og på, der forholdet er relativt nytt slik at statusen mellom personene ikke er avklart, eller det kan være tale om en intim, seksuell eller romantisk relasjon uten eksklusivitet eller forpliktelser. Det sentrale er om det er tale om en nær relasjon som kan være egnet til å føre til en følelsesmessig eller psykologisk binding mellom partene. I denne vurderingen kan både varigheten, intensiteten og karakteren i kontakten mellom partene ha betydning. Det må avgrenses mot relasjoner som, fordi de var kortvarige eller fordi det kun har vært et fåtall kontaktpunkter, ikke er naturlig å omtale som en nær relasjon. Se ytterligere om f.eks. stalking i kapittel 10.5.2.4.
+
+De øvrige relasjonene som omfattes av § 3 tredje ledd bokstav c) svarer i hovedsak til alternativene i straffeloven § 282 bokstav b) med enkelte språklige endringer. Egne slektninger i rett opp- eller nedstigende linje er omfattet av bokstav c) andre strekpunkt. Videre er nåværende eller tidligere partners slektning i rett nedstigende linje omfattet etter tredje strekpunkt. Her er personkretsen noe utvidet sammenlignet med straffeloven § 282 fordi også barn og barnebarn mv. av andre partnere enn ektefeller og samboere blir inkludert.
+
+Etter bokstav c) fjerde og femte strekpunkt er i tillegg «noen i husstanden» og «noen i ens omsorg» omfattet. Disse alternativene svarer til alternativene i straffeloven § 282 første ledd bokstav d) og e), og fanger opp relasjoner mellom andre personer som man bor sammen med eller som er i ens omsorg enn de som omfattes av andre og tredje strekpunkt. For eksempel kan et fosterbarn omfattes av disse alternativene.
+
+*Bokstav d)* definerer voldelig ekstremisme. Det kreves for det første bruk av vold, som her skal forstås som enhver form for fysisk vold, for at det skal være tale om voldelig ekstremisme. Loven gir adgang til informasjonsdeling både for å forebygge at en person selv utfører handlinger som utgjør voldelig ekstremisme, og for å forebygge at en person bidrar til at andre utfører slike handlinger, se nærmere lovforslagets § 4 og merknaden til den paragrafen.
+
+Volden må i tillegg være «motivert av politikk, ideologi, religion, livssyn eller hat mot personer eller grupper, blant annet på grunn av hudfarge, nasjonal eller etnisk opprinnelse, religion eller livssyn, seksuell orientering, kjønnsidentitet, kjønnsuttrykk eller nedsatt funksjonsevne». Det er tilstrekkelig at volden er motivert av ett av de alternative forholdene som nevnes i ordlyden.
+
+Definisjonen omfatter også vold motivert av livssyn, for å likestille livssyn med religion.
+
+Voldelig hatkriminalitet er også inkludert i bestemmelsen. Dette følger av at formuleringen om vold som er motivert av *«hat mot personer eller grupper, blant annet på grunn av hudfarge, nasjonal eller etnisk opprinnelse, religion eller livssyn, seksuell orientering, kjønnsidentitet, kjønnsuttrykk eller nedsatt funksjonsevne.»* De forhold som er inntatt i bestemmelsen, samsvarer med det som er inkludert i straffeloven § 185 om hatefulle ytringer og straffeloven § 186 om diskriminering. Disse straffebestemmelsene omhandler ikke vold og er derfor ikke omfattet av forebyggingsformålet voldelig ekstremisme etter loven her. Etter omstendighetene kan overtredelser av straffeloven §§ 185 og 186 likevel føre til konkret begrunnet bekymring for at personen kan utføre eller bidra til voldelig ekstremisme. I så fall kan loven benyttes som grunnlag for informasjonsdeling forutsatt at lovens øvrige vilkår er oppfylt.
+
+Bruken av ordene «blant annet» i § 3 første ledd bokstav d) medfører at de opplistede forholdene som kjennetegner personer eller grupper som kan bli rammet av vold, ikke er ment å være uttømmende. Det er vanskelig å nevne alle felles kjennetegn ved personer eller grupper som kan føre til hat som motiverer til vold fra potensielle gjerningspersoner. De forholdene som nevnes i ordlyden, favner om minoritetsgrupper som har behov for beskyttelse mot voldelig hatkriminalitet. Hat som fører til vold kan også ha bakgrunn i andre kjennetegn ved en person. Dersom hatet har sammenheng med den antatt voldsutsattes gruppetilhørighet, eller med andre vesentlige kjennetegn ved en person som er felles for flere mennesker, bør forholdet anses omfattet av definisjonen.
+
+Vold som er motivert av hat på grunn av uvenn- eller fiendskap, sjalusi eller lignende i en personlig relasjon, faller utenfor definisjonen. Det må foretas en konkret vurdering i det enkelte tilfelle.
+
+Dersom vold har sammenheng med pågående trender med digital ekstremistisk voldsforherligelse, kan det omfattes av minst et av alternativene i definisjonen. Disse trendene, også betegnet som «nihilistic extremist violence», kjennetegnes av bruk og forherligelse av vold uten et klart politisk, religiøst eller ideologisk motiv, se nærmere om dette i kapittel 10.5.2.5. Særlig vil alternativene om at volden er motivert av livssyn eller av hat, være aktuelle i slike tilfeller.
+
+Vold som er motivert av at gjerningspersonen glorifiserer vold på grunn av sitt dystopiske og nihilistiske verdenssyn, kan i noen tilfeller anses å være motivert av et livssyn. Det bør videre ikke stilles høye krav til at risiko for vold som kan bli utført mot tilfeldige personer eller grupper i samfunnet anses å være motivert av en type hat som omfattes av lovforslaget. Studenter og elever med risiko for å kunne begå skoleskytinger, vil kunne anses omfattet av definisjonen på dette grunnlaget. At voldsforherligende trender inkluderes innenfor ekstremismeforebygging, er i tråd med anbefalinger fra EU-Counter Terrorism Coordinator.
+
+Motivasjonen for volden må ikke være avklart før informasjonsdeling for å forebygge volden skal kunne skje etter loven. En konkret begrunnet bekymring for vold er tilstrekkelig dersom informasjonen som foreligger samlet sett gir holdepunkter for at motivasjonen kan være omfattet av minst et av alternativene i definisjonen.
+
+Dersom det foreligger en konkret begrunnet bekymring for vold, men det hefter usikkerhet ved om motivasjonen er ekstremistisk, vil loven etter omstendighetene kunne benyttes for informasjonsdeling frem til dette er nærmere avklart. Hvis en person for eksempel har psykiske problemer og ekstremistiske synspunkt samtidig, kan det i noen tilfeller være utfordrende å avklare om en eventuell voldsrisiko skyldes ekstremisme eller om vedkommende har en psykisk lidelse.
+
+Til § 4 Deling av opplysninger med sikte på å forebygge bestemte former for kriminalitet
+
+Bestemmelsen gir rettslig grunnlag for deling av personopplysninger og taushetsbelagte opplysninger mellom organene som er nevnt i lovens § 7, og oppstiller grunnvilkårene for at deling kan skje.
+
+*Første ledd* gir opplysningsrett, ikke en opplysningsplikt, jf. ordlyden «kan». Spørsmålet om deling er overlatt til skjønn når lovens vilkår for deling er oppfylt. Det er den ansatte i organet som i den enkelte sak skal foreta en konkret, yrkesetisk vurdering av om det er hensiktsmessig å dele opplysninger i det enkelte tilfellet. Vurderingen kan bli forskjellig i ulike forvaltningsorganer. I vurderingen av om opplysninger bør deles, kan det for eksempel være relevant å legge vekt på eventuell risiko for at personen opplysningen gjelder vil unndra seg hjelpeapparatet og dermed ikke motta nødvendig hjelp fra det offentlige. Ulik fagbakgrunn kan føre til ulik vekting av hensynene for og mot deling av informasjon.
+
+Det vises for øvrig til kapittel 10.5.6 om strafferettslige og arbeidsrettslige grenser for utøvelsen av «kan»-skjønnet.
+
+Loven regulerer først og fremst deling av personopplysninger og taushetsbelagte opplysninger som gjelder personen eller personene som forebyggingen retter seg mot. Ved forebygging av vold og overgrep i nære relasjoner, kan forebyggingen være rettet både mot en potensiell voldsutsatt og en potensiell utøver. Ved forebygging av kriminalitet som begås av barn og unge og voldelig ekstremisme, vil objektet for forebyggingen være den potensielle utøveren. Loven gir en viss adgang til å dele personopplysninger og taushetsbelagte opplysninger om tredjepersoner, se nærmere lovforslaget § 8 første ledd bokstav e) som åpner for at det kan deles personopplysninger om «familierelasjoner og andre relasjoner». I noen tilfeller kan en konkret begrunnet bekymring om en person knytte seg til personens familie eller omgangskrets. Da kan det være behov for å dele personopplysninger om tredjepersoner mellom forvaltningsorganer for å forebygge fremtidig kriminalitet. Forutsetningen for deling om tredjepersoner er at det er nødvendig og forholdsmessig, og at opplysningene om andre personene er saklig forbundet med personen som forebyggingen er rettet mot.
+
+Første ledd oppstiller videre grunnvilkårene for deling. Det må foreligge en «konkret begrunnet bekymring» for at det kan bli begått kriminalitet som omfattes av ett av de tre forebyggingsformålene i bokstavene a) til c). Formuleringen av kunnskapskravet, «konkret begrunnet bekymring», skal hindre at deling av personopplysninger og taushetsbelagte opplysninger skjer rutinemessig. Det må foretas en konkret vurdering i hver enkelt sak. Vurderingen av risikoen for at bekymringen materialiserer seg må bygge på konkrete, faktiske forhold som foreligger på delingstidspunktet. En vag bekymring for at barn og unge kan begå kriminalitet, for at noen kan begå voldelig ekstremisme eller at noen blir eller kan bli utsatt for vold og overgrep i en nær relasjon er ikke tilstrekkelig.
+
+Den skjønnsmessige vurderingen av om kunnskapskravet «konkret begrunnet bekymring» er oppfylt, må foretas av den enkelte yrkesutøver som har tilknytning til personen saken gjelder. Begrepet «konkret» innebærer at det ikke i seg selv er tilstrekkelig at det foreligger generelle sårbarhetsfaktorer hos en person, for eksempel at barn lever i en familie med vedvarende lavinntekt med foreldre som er straffedømt. Vurderingen må være knyttet opp mot konkrete bekymringsfulle forhold som gjelder personen.
+
+Kunnskapskravet må ses i sammenheng med hva bekymringen knytter seg til. Hvis konsekvensene kan bli svært alvorlige, for eksempel ved bekymring for et terrorangrep eller for at et lite barn blir utsatt for alvorlig vold, bør det stilles relativt sett lavere krav til den konkrete kunnskapen enn i andre tilfeller. Tidsaspektet kan også spille inn. Er det bekymring for at noe kan skje i løpet av kort tid, vil det trekke i retning av at organet bør handle raskt. Kunnskapskravet kan derfor måtte vurderes noe ulikt avhengig av hva bekymringen knytter seg til. En bekymring må likevel alltid kunne begrunnes konkret basert på faktiske forhold.
+
+Etter *bokstav a)* må kriminalitet som begås av barn og unge kunne ha vesentlige negative konsekvenser for barnet eller den unges utvikling for at det skal kunne deles opplysninger med et annet organ for å forebygge fremtidige handlinger. Vilkåret stiller dermed krav til hvilke potensielle lovbrudd som gir rett til å dele informasjon. Det er alvorlighetsgraden som potensielle lovbrudd kan ha for den enkeltes utvikling, som er avgjørende i denne vurderingen. Hvor alvorlige konsekvenser som kriminaliteten kan ha for den enkelte påvirkes av kriminalitetens art og alvorlighetsgrad. Den enkeltes alder og forutsetninger og hvilke risikofaktorer og beskyttende faktorer det er i miljøet rundt barnet eller den unge vil ha betydning. Vurderingen av hva som omfattes vil være fremtidsrettet, konkret og dynamisk fra sak til sak.
+
+I Prop. 57 L (2025–2026), som ble fremmet 27. mars 2026, foreslo Regjeringen et nytt straffebud mot å involvere mindreårige i kriminalitet, straffeloven § 200, som lyder:
+
+Den som involverer en mindreårig i en straffbar handling som kan medføre fengsel i 3 år eller mer, eller som nevnt i §§ 160, 189, 190, 231, 263, 271, 321, 332, 336, 337 eller 341, straffes med bot eller fengsel inntil 3 år.[^598] Involveringen kan for eksempel gå ut på å gi oppdrag, yte fordeler eller overlevere gjenstander til den mindreårige eller å medbringe den mindreårige.
+
+Lovbrudd som omfattes av det foreslåtte nye straffebudet vil gjerne også oppfylle vilkåret om «kriminalitet som kan få vesentlige negative konsekvenser» for barnet eller den unges utvikling. Forutsatt at forslaget blir vedtatt av Stortinget, vil også bekymring for overtredelse av det nye straffebudet i § 200 kunne gi rettslig grunnlag for deling av opplysninger mellom forvaltningsorganer etter denne loven. Andre typer lovbrudd enn de som er omfattet av forslaget til straffeloven § 200, kan også etter en konkret vurdering omfattes av kriminalitet som kan ha «vesentlige negative konsekvenser» for barnet eller den unges utvikling.
+
+Ett kjerneområde av kriminalitet som generelt vil kunne ha «vesentlige negative konsekvenser» for barnet eller den unges utvikling, er volds- og seksualforbrytelser og annen kriminalitet som er alvorlig eller gjentatt. Randsonen av vilkåret vil være mer vurderingspreget. Alderen til barnet eller den unge kan ha betydning for hvor alvorlig en potensiell kriminell handling blir vurdert å være for barnets eller den unges utvikling. Enkeltstående mindre alvorlige lovbrudd som mindre tyveri (straffeloven § 323), mindre skadeverk (§ 353) eller lignende er bare omfattet hvis det på grunn av konkrete omstendigheter er risiko for mer alvorlige lovbrudd. For eksempel vil ikke ett enkelt mindre tyveri fra en butikk av en spenningssøkende tenåring være tilstrekkelig for å oppfylle kravet. Gjentatte butikktyverier utført av en syvåring, som ikke har foreldrestøtte og som beveger seg fritt rundt i byen, kan derimot gi grunnlag for deling av informasjon.
+
+Rusrelatert kriminalitet vil ofte kunne ha vesentlige konsekvenser for barnet eller den unges utvikling. Hvis et barn er involvert i omsetning av narkotika eller på annen måte har befatning med en ikke ubetydelig mengde narkotika, bør det anses som et lovbrudd som kan ha vesentlige negative konsekvenser for barnets utvikling. Slik kriminalitet vil gjerne også kunne ha vesentlige negative konsekvenser for en ung voksen under 25 år. Bruk eller besittelse av en mindre mengde narkotika til eget bruk er også bekymringsfullt hos et barn eller en ung person, men om slike lovbrudd når opp til terskelen må vurderes konkret. Barnets eller den unges alder, det ulovlige stoffets art og om det er tale om gjentakende bruk, vil være viktige momenter.
+
+Det vises til merknadene til legaldefinisjonene i § 3, for en nærmere forklaring av hva som inngår i forebyggingsformålene i *bokstav b) og c).*
+
+Ved forebyggingsformålet i *bokstav c),* voldelig ekstremisme, kreves det at det må foreligge en konkret begrunnet bekymring for at «en person kan utføre eller bidra til voldelig ekstremisme». Ordlyden «utføre eller bidra til» tar sikte på å klargjøre at det ikke bare er tilfeller der det er bekymring for at vedkommende selv vil utføre en handling som er voldelig ekstremisme, som omfattes. Er det en konkret begrunnet bekymring for at vedkommende kan bidra til at andre utfører slike handlinger, er vilkåret for deling oppfylt.
+
+Begrepet «bidra til» er benyttet fremfor det strafferettslige medvirkningsbegrepet, jf. straffeloven § 15, for å omfatte flere handlinger enn det som normalt anses som strafferettslig medvirkning. Det vises særlig til at straffelovens kapittel 18 om terrorhandlinger og terrorrelaterte handlinger fastsetter straff for handlinger som ikke i seg selv alltid er vold eller medvirkning til vold vurdert ut fra straffelovens medvirkningsbegrep. Det vises for eksempel til straffebudet i straffeloven § 135 om terrorfinansiering, straffeloven § 136 om oppfordring, rekruttering og opplæring til terrorhandlinger, § 136 a om straff for deltakelse mv. i en terrororganisasjon og § 136 b om reise med terrorformål. Ordlyden «bidra» til voldelig ekstremisme omfatter slike handlinger.
+
+*Andre ledd* fastslår at første ledd gjelder tilsvarende for deling av taushetsbelagte opplysninger mellom ansatte i samme forvaltningsorgan for å forebygge handlingene.
+
+Behandling av personopplysninger ved å dele dem mellom ansatte i samme forvaltningsorgan, vil dekkes av forvaltningsorganets behandlingsgrunnlag i personvernforordningen artikkel 6 nr. 1 bokstav e) og det supplerende rettsgrunnlaget som gjelder for det aktuelle organet. Derfor er det ikke behov for at loven gir et nytt rettsgrunnlag for deling av personopplysninger internt i et organ. Derimot vil det kunne være behov for unntak fra taushetsplikt for deling mellom ansatte innenfor samme forvaltningsorgan. Regelen i andre ledd har betydning i tilfeller der ansatte i samme forvaltningsorgan har taushetsplikt etter forskjellig regelverk. I slike tilfeller kan det oppstå behov for taushetspliktsunntak for deling mellom de ansatte for å forebygge kriminalitet. Det vil for eksempel kunne være aktuelt hvis helsepersonell er ansatt i politietaten og har taushetsplikt etter helsepersonelloven. Andre ledd gir tilsvarende grunnlag for unntak fra taushetsplikt internt i et forvaltningsorgan som den gir for deling mellom ulike forvaltningsorganer. Vilkårene for å dele opplysninger etter loven vil i et slikt tilfelle være de samme som for å dele taushetspliktige opplysninger mellom ulike forvaltningsorganer.
+
+Til § 5 Rett til medvirkning i spørsmål om deling av opplysninger
+
+Paragrafen gjelder rett til medvirkning og er nærmere omtalt i kapittel 10.5.4 ovenfor.
+
+Etter *første ledd* er hovedregelen om at personen opplysningene gjelder har rett til reell medvirkning i spørsmålet om deling. «Personen opplysningene gjelder» er i de fleste tilfeller den personen som forebyggingen er rettet mot. Loven gir en viss adgang til å dele personopplysninger og taushetsbelagte opplysninger også om tredjepersoner, se nærmere i kommentaren til § 4 og § 8 første ledd bokstav e). Hvis det deles opplysninger om en tredjeperson, har denne personen i utgangspunktet rett til reell medvirkning etter paragrafen. Dette gjelder ikke i alle tilfeller. Unntak er beskrevet nærmere nedenfor.
+
+Bestemmelsen skal forstås slik at det er et vilkår for å dele opplysninger at retten til reell medvirkning blir oppfylt, hvis ikke et unntak kommer til anvendelse, jf. tredje ledd. Medvirkning fra personen det gjelder bidrar til å skape tillit. De fleste vil ønske å bli involvert og å ha innflytelse over hvordan opplysninger som gjelder dem blir behandlet og eventuelt delt. Retten til reell medvirkning skal blant annet bidra til å hindre at det deles opplysninger når det ikke er nødvendig og forholdsmessig for forebyggingsformålet. Medvirkning har også en viktig funksjon for at korrektheten av opplysninger kan bli kontrollert, og feil og misforståelser kan avdekkes på et tidlig stadium.
+
+*Første ledd andre punktum* slår fast at dersom personen er under 18 år, har barnets foresatte den samme retten til reell medvirkning. Dersom medvirkning fra barnets foresatte ikke vil være til barnets beste, for eksempel dersom det er risiko for at barnet vil bli utsatt for æresrelatert vold eller oppdragervold, skal medvirkning fra foresatte unnlates. Med ordlyden «foresatt» menes den som har foreldreansvaret for den mindreårige, jf. vergemålsloven § 16. Dersom den mindreårige har en oppnevnt verge fra statsforvalteren, regnes vergen som den mindreåriges foresatte etter denne loven.
+
+Begrepet *reell* medvirkning er valgt for å sikre at medvirkning fra berørte ikke skal anses som en formalitet. Det er ikke tilstrekkelig at berørte personer spørres og at det innhentes et «ja» eller «nei» til deling. Reell medvirkning skal være en prosess som sikrer at berørte får muligheter til å påvirke vurderingene av om og hvordan deling av opplysninger om dem eventuelt skal skje. Vilkåret om reell medvirkning er likevel ikke det samme som krav til samtykke, og innebærer ikke at personen har vetorett i spørsmålet om det skal deles opplysninger.
+
+I *andre ledd bokstav a) til d)* er det fastsatt hva reell medvirkning etter loven skal inneholde. For det første skal den berørte personen forklares hvilke opplysninger som vurderes delt, til hvilket annet organ, og hvorfor, jf. bokstav a). Det stilles videre krav om at denne forklaringen skal gis i en form som vedkommende kan forstå og med et klart og tilgjengelig språk som tar hensyn til alder og forutsetninger, jf. *bokstav b)*. Bokstav b) medfører at barn og unge skal få informasjon som er tilpasset deres alder og modenhet, men også for voksne kan det være nødvendig med tilpasninger. I *bokstav c) og d)* er det videre bestemt at personen skal gis anledning til å uttrykke sine synspunkter før opplysningene deles, og at eventuelle synspunkter skal tillegges vekt både i spørsmålene *om, når og hvordan* deling eventuelt skal skje.
+
+Samlet skal medvirkningsprosessen sikre at personen får anledning til å korrigere faktiske feil og misforståelser og å komme med sine synspunkter om delingsspørsmålet. Personen skal gis anledning til å beskrive forhold som kan påvirke vurderingen av nødvendighet og forholdsmessighet etter lovens § 6. Det er viktig at personen gis mulighet til å opplyse om mulig risiko knyttet til at det deles opplysninger. For eksempel kan risiko ved deling handle om frykt for represalier eller eskalering av vold og overgrep i nære relasjoner.
+
+Reell medvirkning etter § 5 innebærer ikke et krav om at det skal være aktiv og omfattende deltakelse fra den opplysningen gjelder i alle saker. Personen kan også medvirke ved å gi uttrykk for at vedkommende ønsker begrenset involvering i spørsmålet om deling, og at forvaltningsorganet selv vurderer hvilke opplysninger som bør deles innenfor lovens rammer.
+
+Det er organet som vurderer å dele opplysninger som skal sørge for at retten til reell medvirkning oppfylles. I tilfeller der en enkeltperson vurderes for drøfting av flere organer i felleskap, for eksempel i et tverretatlig samarbeidsforum for kriminalitetsforebygging, er det hensiktsmessig at medvirkningen samordnes. I et slikt tilfelle kan det avtales at ett organ gjennomfører medvirkningen på vegne av alle organene, og at de øvrige organene blir informert om eventuelle synspunkter personen har.
+
+Retten til medvirkning før deling av opplysninger er ikke absolutt. *Tredje ledd* regulerer unntakene. Når unntakene får anvendelse, kan det deles opplysninger etter loven uten at personen det gjelder involveres før delingen. Loven fastsetter ikke egne unntak fra retten til medvirkning, men viser til de eksisterende unntakene fra retten til informasjon som er fastsatt i personvernregelverket, nærmere bestemt personopplysningsloven artikkel 16 og personvernforordningen § 14. Det vises til gjennomgangen av unntakene i personopplysningsloven og personvernforordningen i tabell 10.1 i kapittel 10.5.4 ovenfor.
+
+Dersom det for eksempel er en konkret begrunnet mistanke om at et barn er i kontakt med et kriminelt nettverk og medvirkning i informasjonsdelingsspørsmålet vil sette barnet eller andre personer i fare, vil medvirkning og informasjon om behandlingen av personopplysninger kunne unnlates, jf. tredje ledd, jf. personopplysningsloven § 16 første ledd bokstav a) eller c).
+
+I utgangspunktet vil retten til medvirkning etter § 5 gjelde for tredjepersoner som det deles personopplysninger og taushetsbelagte opplysninger om. Unntaket i personvernforordningen artikkel 14 nr. 5 bokstav d) og personopplysningsloven § 16 første ledd bokstav d) er særlig aktuelle når opplysningene gjelder tredjepersoner. Disse bestemmelsene gir unntak fra informasjonsplikten for opplysninger omfattet av lovfestet taushetsplikt.
+
+De ansatte i organene som er omfattet av loven her, er alle underlagt taushetsplikt etter forvaltningsloven § 13 om opplysninger om noens «personlige forhold». Opplysninger om en konkret begrunnet bekymring for at en person kan begå eller bli utsatt for kriminalitet vil være opplysninger om personlige forhold som er underlagt taushetsplikt. Taushetsplikten vil da gjelde overfor tredjepersoner som er omtalt i opplysningene som fører til bekymringen. Hvis tredjepersonen gis anledning til å medvirke i delingsspørsmålet, vil opplysningene om personen bekymringen gjelder kunne bli røpet overfor tredjepersonen. I tilfeller der medvirkning vil kunne føre til at taushetsbelagte opplysninger røpes, vil unntaket fra retten til medvirkning i tredje ledd, få anvendelse, jf. personvernforordningen artikkel 14 nr. 5 bokstav d) og personopplysningsloven § 16 første ledd bokstav d). Vurderingen av om unntakene kan benyttes er konkret og må foretas i hvert enkelt tilfelle.
+
+Særlige forhold vil kunne gjøre seg gjeldende ved vurdering av om en antatt voldsutøver skal medvirke i spørsmålet om deling av opplysninger etter loven. Hovedregelen etter § 5 er at deling kun skal skje etter medvirkning fra den opplysningen gjelder. Dersom slik medvirkning vil være farlig for den antatt voldsutsatte, kan medvirkning likevel unnlates i medhold av unntaket i tredje ledd, jf. personopplysningsloven § 16 bokstav c) eller f).
+
+På forebyggingsområdet voldelig ekstremisme kan det være vektige grunner til at medvirkning ikke skal skje. Dersom medvirkning kan føre til at individer fremskynder planene om voldelig ekstremisme, kan medvirkning unnlates. Det er den enkelte yrkesutøver som er nærmest til å vurdere om medvirkning kan unnlates etter tredje ledd, jf. unntakene i personopplysningsloven § 16 og i personvernforordningen § 14.
+
+Til § 6 Nødvendig og forholdsmessig deling
+
+Bestemmelsen oppstiller kravene til at deling av personopplysninger og taushetsbelagte opplysninger skal være nødvendig og forholdsmessig, se nærmere omtale i kapittel 10.5.3 og 10.5.5 ovenfor.
+
+*Første ledd* fastsetter at personopplysninger og taushetsbelagte opplysninger bare kan deles hvis det er nødvendig for å forebygge kriminalitet nevnt i § 4 og formålet med delingen veier tyngre enn hensynet til personvernet og taushetsplikten. Vurderingen av om deling av opplysninger er nødvendig og forholdsmessig skal gjøres konkret i det enkelte tilfellet av det forvaltningsorganet som vurderer å dele opplysninger.
+
+Vilkåret om nødvendighet innebærer at forvaltningsorganet skal vurdere om mindre inngripende virkemidler enn deling av personopplysninger og taushetsbelagte opplysninger kan oppnå det kriminalitetsforebyggende formålet. Hva som kan oppnås med å dele opplysninger må sammenholdes med hva som kan oppnås ved andre fremgangsmåter. Hvis for eksempel anonyme drøftinger er tilstrekkelig til å oppnå formålet godt nok, vil deling av personopplysninger og taushetspliktige opplysninger ikke være nødvendig. På samme måte vil deling ikke være nødvendig hvis formålet om forebygging av kriminalitet kan oppnås godt nok med virkemidler som organet selv har til rådighet.
+
+Nødvendighetsvilkåret skal ikke forstås slik at delingen alltid må skje med sikte på et konkret tiltak eller en bestemt form for oppfølging av personen fra det offentliges side. Deling etter loven kan skje i forbindelse med gjennomføring av et konkret tiltak som for eksempel én til én-oppfølging. Det kan også være nødvendig med gjensidig deling mellom to eller flere forvaltningsorganer for å kunne foreta en risikovurdering, eller for å foreta en felles vurdering av hvilke tiltak som eventuelt bør settes inn. Videre kan det være nødvendig å dele personopplysninger og taushetsbelagte opplysninger med andre forvaltningsorganer for å få en god nok oversikt over enkeltpersonens situasjon.
+
+*Første ledd* oppstiller vilkår om at personopplysninger og taushetsbelagte opplysninger bare kan deles hvis «formålet med delingen veier tyngre enn hensynet til personvernet og taushetsplikten». Dette innebærer at det skal foretas en konkret avveining mellom det som kan oppnås ved å dele opplysninger på den ene siden, og ulempene det vil medføre for den enkeltes personvern og hensynene som begrunner taushetsplikten på den andre siden. Hensynene som begrunner taushetsplikten, er blant annet hensynet til personvern som nevnes spesifikt i § 6 første ledd. Videre er tilliten mellom en enkeltperson og et forvaltningsorgan et sentralt hensyn som begrunner taushetsplikten. Hvis det er risiko for at en person kan komme til å avstå fra å motta hjelp fra det offentlige hjelpeapparatet på grunn av deling av opplysninger, vil det tale mot at deling er forholdsmessig. Hvis en person avstår fra å motta hjelp, kan det være fare for at forebyggingen blir dårligere enn om opplysninger ikke blir delt. Hensynene som nevnes her er ikke ment å være uttømmende.
+
+I forholdsmessighetsvurderingen har det også betydning hvordan personen opplysningene gjelder, og eventuelt også foresatte for personer under 18 år, stiller seg til at opplysningene deles. Hvis de berørte motsetter seg deling, taler det mot at deling er forholdsmessig. Deling mot personens ønske kan oppleves mer inngripende og kan i større grad gå ut over tilliten. Dette innebærer ikke at det alltid er uforholdsmessig å dele ellers taushetsbelagte opplysninger når personen motsetter seg deling, men at hensynene som taler mot deling da blir mer tungtveiende. Det må gjøres en konkret og realistisk vurdering av de sannsynlige konsekvensene det vil ha å dele opplysninger, og dette må avveies mot konsekvensene det vil ha om det ikke deles.
+
+Dersom personen opplysningene gjelder sier seg enig i at opplysninger kan deles, innebærer ikke det at det uten videre kan legges til grunn at deling vil være forholdsmessig. Det vil være en skjevhet i styrkeforholdet mellom forvaltningsorganet som vurderer å dele informasjon for å forebygge kriminalitet og enkeltpersonen. Forvaltningsorganet plikter å sørge for at hensynet til personvern og hensynene som begrunner taushetsplikten blir tilstrekkelig vektlagt i forholdsmessighetsvurderingen, også i tilfeller der personen uttrykker enighet i at opplysninger kan deles.
+
+Forholdsmessighetsvurderingen vil kunne bli svært ulik avhengig av hva bekymringen gjelder. I noen saker kan forebyggingsformålet gjelde en konkret mulig hendelse der de mulige konsekvensene hvis risikoen materialiserer seg er relativt tydelige. I andre saker kan det være tale om en kumulativ bekymring knyttet til en gradvis utvikling, for eksempel blant barn og unge, der konsekvensene om utviklingen får fortsette er usikker. Vurderingen av sannsynlighet og alvorlighetsgrad av mulige fremtidige hendelser må gjøres konkret, og det må vurderes hvordan risikoen kan bli påvirket av informasjonsdelingen.
+
+*Andre ledd* presiserer at deling av opplysninger skal begrenses til det som er nødvendig og forholdsmessig både for hvilke opplysninger som deles og hvem de deles med. Personkretsen som gis tilgang til opplysningene skal ikke være større enn det som er nødvendig for å oppnå formålet. I tverrfaglige møtefora for å forebygge kriminalitet må det være bevissthet rundt hvem som trenger å være til stede når det deles personopplysninger og taushetsbelagte opplysninger etter loven. Videre må den enkelte ansatte i et forvaltningsorgan ha et bevisst forhold til hvilke konkrete opplysninger det faktisk er nødvendig å dele for å oppnå forebyggingsformålet.
+
+Delingen vil som oftest gjelde personopplysninger og taushetsbelagte opplysninger om gjerningspersonen eller den antatte fremtidige gjerningspersonen. For forebygging av vold og overgrep i nære relasjoner, vil den taushetsbelagte informasjonen og personopplysningene i tillegg ofte kunne gjelde den antatt volds- og overgrepsutsatte. Bestemmelsen i § 6 innebærer at det må vurderes om det er nødvendig og forholdsmessig å dele taushetsbelagte opplysninger og personopplysninger også om andre personer. Det vil kunne oppstå spørsmål om det er nødvendig å dele personopplysninger og taushetsbelagte opplysninger om familiemedlemmer, venner og andre bekjente hvis slik deling er nødvendig for å forebygge handlingene.
+
+I *tredje ledd* fremgår det at det bare kan deles opplysninger med ansatte i andre forvaltningsorganer som har lovbestemt taushetsplikt. Det kan kun deles taushetsbelagt informasjon og personopplysninger med organene opplistet i lovens § 7.
+
+Til § 7 Organer som omfattes av loven
+
+Paragrafen fastsetter uttømmende de organene som er omfattet av loven og som seg imellom kan dele personopplysninger og taushetsbelagte opplysninger. Utvalget av organer som omfattes er drøftet i kapittel 10.5.9 ovenfor.
+
+Første ledd bokstav a) til p) opplister organene som seg imellom kan dele opplysninger etter loven. Alle organene har oppgaver som er relevante for individrettet forebygging innenfor forebyggingsformålene angitt i loven.
+
+Det vises til den nærmere begrunnelse for hvorfor organene er tatt med i kapittel 10.5.9.
+
+Ordlyden «politiet» i lovens *første ledd bokstav j)* vil inkludere Statens barnehus og støttesenter for kriminalitetsutsatte fordi disse forvaltningsorganene organisatorisk er underlagt politiet. Deling fra politiet vil ofte kunne skje med hjemmel i politiregisterloven, men også politiet vil ha en videre adgang til å dele opplysninger etter loven her enn det som ville følge av politiregisterloven.
+
+Ordlyden «politiets sikkerhetstjeneste» i *første ledd bokstav j)* vil inkludere både PST i politidistriktene og Den sentrale enhet (DSE).
+
+Andre kommunale tjenester som ikke har sitt grunnlag i en særskilt lov, jf. *første ledd bokstav p)* vil eksempelvis omfatte kommunale brukerrom, utekontakten, fritidsklubber eller én-til-én oppfølging.
+
+*Andre ledd* fastsetter at første ledd gjelder tilsvarende for private som utfører oppgavene til organene i første ledd etter avtale med organet. Andre ledd vil eksempelvis gjelde for en privat driftsoperatør av asylmottak og for en privat helseaktør som utfører oppgaver for spesialisthelsetjenesten etter avtale med spesialisthelsetjenesten. Videre vil private og ideelle organisasjoner som har avtale med et forvaltningsorgan om å drive individrettet forebygging på vegne av organet kunne omfattes.
+
+Til § 8 Personopplysninger som kan deles
+
+Paragrafen angir hvilke alminnelige kategorier personopplysninger som kan deles når lovens vilkår er oppfylt og er omtalt i kapittel 10.5.7 ovenfor.
+
+*Første ledd bokstav a) til j)* er en uttømmende opplisting av hvilke kategorier alminnelige personopplysninger som kan deles når lovens vilkår er oppfylt. Det innebærer blant annet at vilkårene om nødvendighet og forholdsmessighet i lovens § 6 må være oppfylt for den enkelte opplysning som faller under kategoriene i *bokstav a) til j)*.
+
+Opplysninger om familierelasjoner og andre relasjoner i *første ledd bokstav e)* vil være personopplysninger om personen som kriminalitetsforebyggingen er rettet mot. Slike opplysninger vil samtidig være personopplysninger om andre personer. Det må være nødvendig og forholdsmessig å dele personopplysninger om andre, for at det skal være lovlig.
+
+I *andre ledd* er det fastsatt at det ikke kan deles geolokaliserende opplysninger om personer med adressesperre etter folkeregisterloven § 10-4 og beskyttelsesinstruksen. Opplysninger om slike personers adresse og oppholdssted kan sette personen i livsfare dersom de kommer på avveie. Myndigheten som har besluttet adressesperre, enten politiet eller barnevernet, har foretatt en vurdering og kommet til at det er nødvendig å sperre den trusselutsatte adresse i offentlige registre. Informasjonsdeling av geolokaliserende opplysninger vil kunne sette formålet med en slik adressesperre i fare.
+
+Som geolokaliserende opplysninger regnes alle opplysninger som kan si noe om hvor en trusselutsatt befinner seg eller kommer til å befinne seg i fremtiden, eller hvor vedkommende har oppholdt seg tidligere. Dette innebærer at alle opplysninger om bosted, arbeidsplass, skole, barnehage og andre daglige oppholdssteder må beskyttes. I tillegg må andre opplysninger som kan fortelle noe om den trusselutsattes oppholdssted beskyttes, inkludert opplysninger om offentlige og private brukersteder, for eksempel opplysninger om fastlege, barnevernstjeneste og hvilket sykehus den trusselutsatte sogner til.
+
+For å sikre at forbudet mot å dele geolokaliserende opplysninger overholdes, må forvaltningsorganet som vurderer informasjonsdeling undersøke i folkeregisteret om vedkommendes adresse er sperret før informasjonsdeling skjer. Det enkelte forvaltningsorgan må utvikle rutiner for dette. En slik undersøkelse er særlig relevant for forebyggingsformålet vold og overgrep i nære relasjoner, men kan også være relevant for de to andre forebyggingsformålene.
+
+Til § 9 Deling av særlige kategorier av personopplysninger
+
+Paragrafen åpner for et begrenset unntak fra forbudet i personvernforordningen artikkel 9 mot å dele særlige kategorier av personopplysninger og er omtalt i kapittel 10.5.7 ovenfor.
+
+Deling av særlige kategorier av personopplysninger er i utgangspunktet forbudt, jf. personvernforordningen artikkel 9. Bestemmelsen oppstiller et begrenset unntak fra dette forbudet. Deling av særlige kategorier av personopplysninger forutsetter at lovens øvrige vilkår for deling er oppfylt. Paragrafen oppstiller tilleggsvilkår for deling av særlige kategorier av personopplysninger etter loven. For at det skal være tillatt med deling av opplysninger nevnt i § 9 kreves det at deling av alminnelige personopplysninger etter § 8 ikke vil oppfylle formålet med delingen. Det betyr at dersom formålet bak delingen, å forebygge kriminalitet som nevnt i lovens § 1 første ledd bokstav a) til c), kan oppnås ved deling av alminnelige personopplysninger etter § 8, kan det ikke deles særlige kategorier av personopplysninger etter denne paragrafen.
+
+Bakgrunnen for det begrensede unntaket fra forbudet mot å dele særlige kategorier personopplysninger, er at det i enkelte tilfeller kan være nødvendig å dele opplysninger om vedkommende persons filosofiske og politiske oppfatning, religion, livssyn eller helse eller andre særlige kategorier opplistet i § 9, for å være i stand til å forebygge handlingene.
+
+Grensen mellom alminnelige personopplysninger og særlige kategorier personopplysninger er glidende. Alminnelige personopplysninger som vil kunne avsløre forhold beskyttet etter personvernforordningen artikkel 9, vil også kunne være beskyttet etter forbudet i artikkel 9. Etter EU-domstolens praksis, som er omtalt i kapittel 3.5.6, vil opplysninger som kan avsløre særlige kategorier av personopplysninger kunne regnes som artikkel 9-opplysninger. Lovens § 9 er ment å ta høyde for denne utviklingen i EU-domstolens praksis. Deling av særlige kategorier av personopplysninger etter lovens § 9 skal kun skje når det er nødvendig og forholdsmessig i en konkret sak. Det er en høy terskel for å dele slike opplysninger mellom forvaltningsorganene som er omfattet av loven.
+
+Til § 10 Behandlingsansvar for deling av personopplysninger
+
+Paragrafen omhandler behandlingsansvaret for deling av personopplysninger etter loven og er behandlet i kapittel 10.5.10 ovenfor.
+
+*Første ledd* konstaterer at avgiver- og mottakerorganet er behandlingsansvarlige for egen behandling av personopplysninger før og etter delingen. Loven regulerer ikke behandlingen av personopplysningene før og etter delingen. Det er regulert i annet regelverk som gjelder for det enkelte organ. Første ledd har derfor ikke selvstendig rettslig betydning, men er inntatt av pedagogiske årsaker for å unngå misforståelser.
+
+*Andre ledd* fastsetter behandlingsansvaret for selve delingen av personopplysninger. Hvis organene som seg imellom deler personopplysninger er underlagt samme personvernregelverk, vil avsender- og mottakerorganene være felles behandlingsansvarlig for behandling i form av deling. Denne regelen om felles behandlingsansvar gjelder ikke for politiet. Politiet vil alene være behandlingsansvarlig også for behandlingen i form av deling, jf. reglene i politiregisterloven og Direktiv 2016/680. Det vises til redegjørelsen for regelen om felles behandlingsansvar i kapittel 10.5.10 ovenfor.
+
+Ved felles behandlingsansvar, må organene som inngår i det felles ansvaret fastsette ansvaret seg imellom, inkludert ansvaret for å gi den registrerte informasjon, i en «ordning» mellom organene, jf. personvernforordningen artikkel 26 nr. 1. Eventuelt kan et supplerende rettsgrunnlag om felles behandlingsansvar fastsette de respektive behandlingsansvarliges ansvar. Dette betyr at selv om ansvaret er felles utad, må ansvaret mellom de behandlingsansvarlige innad fastsettes enten i den enkelte sak eller i rettsgrunnlaget som etablerer et felles ansvar. Denne loven fastsetter ikke det respektive ansvaret innad og utpeker heller ikke et felles kontaktpunkt. Det forebyggende arbeidet særpreges av ulik organisering i norske kommuner. En slik fastsetting, av det respektive ansvaret og et felles kontaktpunkt, i loven er en lite hensiktsmessig løsning. Utgangspunktet i personvernforordningen artikkel 26 nr. 1, om at de enkelte organene må fastsette dette selv, gjelder derfor.
+
+Organene som seg imellom deler personopplysninger og taushetspliktige opplysninger i et fast møteforum kan utpeke et fast kontaktpunkt som personer som får personopplysningene sine delt kan kontakte, se nærmere personvernforordningen artikkel 26 nr. 1. Et slikt fast kontaktpunkt kan for eksempel være en personvernrådgiver eller noen med personvernkompetanse i ett av organene som deltar i et tverretatlig samarbeid for å forebygge kriminalitet.
+
+Til § 11 Myndighet til å ta beslutning om å dele opplysninger
+
+Bestemmelsen regulerer myndigheten til å beslutte at taushetsbelagte opplysninger og personopplysninger skal deles etter loven og er behandlet i kapittel 10.5.11 ovenfor.
+
+*Første ledd* fastslår at det er den behandlingsansvarlige som kan beslutte om personopplysninger skal deles etter loven. Beslutningen skal tas i tråd med den behandlingsansvarliges interne beslutningsrutiner. Det er den eller de personene, som etter de interne rutinene har beslutningskompetanse, som kan ta beslutningen.
+
+*Andre ledd* slår fast at det er den enkelte ansatte som selv må avgjøre om lovens vilkår for å dele taushetsbelagte opplysninger er oppfylt. Loven har et tosporet system ved at den gir rettslig grunnlag både for deling av personopplysninger og for deling av taushetsbelagte opplysninger. For å hindre at enkeltansatte skal bli instruert av en overordnet til å dele taushetsbelagte opplysninger etter en personlig taushetsplikt, klargjør andre ledd at det er den enkelte ansatte som selv skal vurdere om det kan deles taushetsbelagte opplysninger.
+
+På den andre siden er det den behandlingsansvarlige som er pliktsubjekt etter personvernregelverket. I en situasjon der forvaltningsorganet mener at opplysninger bør deles, men en ansatt med personlig taushetsplikt mener at det ikke kan gjøres unntak fra taushetsplikten, vil deling eventuelt kunne skje ved at en annen ansatt som anser vilkårene for oppfylt deler opplysningene.
+
+Til § 12 Notoritet og underretning om at opplysninger er delt
+
+Paragrafen inneholder krav til notoritet og underretning om informasjonsdeling etter loven og er behandlet i kapittel 10.5.11 ovenfor.
+
+*Første ledd første punktum* bestemmer at informasjonsdelingen mellom forvaltningsorganene fortrinnsvis skal skje skriftlig. Forebygging er ofte hendelsesstyrt. Derfor er det nødvendig at muntlig deling av opplysninger kan foretas når det haster eller i en konkret situasjon er mest hensiktsmessig for å oppnå formålet med delingen. *Første ledd andre punktum* krever at hvert enkelt organ, når delingen skjer muntlig, sørger for skriftlig nedtegnelse i etterkant. Uavhengig av om delingen skjer skriftlig eller muntlig stiller *første ledd tredje punktum* krav om at den skriftlige dokumentasjonen minst skal inneholde hvilke opplysninger som er delt, hvem de er delt med og hvorfor de er delt.
+
+*Andre ledd* fastslår at opplysningene som deles skal være korrekte. Alle personopplysninger skal være korrekte sett hen til behandlingsformålet, jf. riktighetsprinsippet i personvernforordningen artikkel 5 nr. 1 bokstav d). Hovedmåten for å sørge for at personopplysninger og taushetsbelagte opplysninger er korrekte, vil være ulike former for verifisering. Etter bestemmelsens andre ledd skal informasjonsdelingen skje med korrekte personopplysninger som etter lovens hovedregel skal være verifiserte. Dersom det, for eksempel fordi det haster, er nødvendig å dele uverifiserte opplysninger, skal mottakeren av opplysningene opplyses om dette, jf. *andre ledd andre punktum*. Dette skal i så fall også fremgå i den skriftlige dokumentasjonen av delingen. Medvirkning etter lovens § 5 kan bidra til å verifisere opplysningenes riktighet. Med verifisering etter andre ledd menes også annen type verifisering enn verifisering ved å snakke med den opplysningen gjelder. Verifisering kan for eksempel bestå i oppslag i ulike registre for å undersøke om opplysningene som deles er korrekte og oppdaterte.
+
+*Tredje ledd* oppstiller hovedregelen om at personen opplysningen gjelder skal underrettes om at de taushetsbelagte opplysningene og personopplysningene har blitt delt med et annet forvaltningsorgan. Slik etterfølgende underretning kan bare unnlates dersom et unntak fra personopplysningsloven § 16 eller personvernforordningen artikkel 14 gjør seg gjeldende. Det vises til merknadene til lovens § 5 for en oversikt over disse unntakene.
+
+Hvis ikke unntak etter personopplysningsloven § 16 eller personvernforordningen artikkel 14 kommer til anvendelse, skal personen som opplysningene gjelder gis informasjon om at delingen faktisk har skjedd, hvem som mottok opplysningene og hvorfor opplysningene ble delt. Hvis delingen har ført til at det er lagt en plan for videre oppfølging bør det også opplyses om det. Slik etterfølgende informasjon er viktig av hensyn til tillit, forutberegnelighet og muligheten til å korrigere misforståelser. Underretningen i etterkant er særlig viktig i saker der medvirkning før deling måtte begrenses eller utsettes på grunn av risiko, fordi det hastet eller på grunn av andre tungtveiende hensyn i tråd med unntaket i § 5 tredje ledd.
+
+Til § 13 Ikrafttredelse
+
+Etter lovens § 13 avgjør Kongen ikrafttredelsestidspunktet.

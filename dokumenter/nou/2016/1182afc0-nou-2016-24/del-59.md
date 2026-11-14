@@ -1,888 +1,596 @@
-# NOU 2016: 24, del 59 av 73 (side 631–640)
+# NOU 2016: 24, del 59 av 69
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/1182afc0-nou-2016-24.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-24/id2517932/
 - Original-PDF: https://www.regjeringen.no/contentassets/6fe1d875248042b4a09b43b85aa46832/no/pdfs/nou201620160024000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 9 tabeller, 1 figur, 52 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 631]
+Jahre (2015): Jahre, Hans Petter, «Bruk av tidligere avgitte forklaringer», I: i *Bevis i straffesaker. Utvalgte emner*, Ragna Aarli mfl. (red.) 2015, s. 257–307.
 
-NOU 2016: 24
-Ny straffeprosesslov
+Jebens (2004): Jebens, Sverre Erik, *Menneskerettigheter i straffeprosessen*, 2004.
 
-aksjoner, eller gjennom kommunikasjonsavlytting og andre former for inngrep etter utkastet
-kapittel 20.
-Påtalemyndigheten kan pålegge eier eller tilbyder av nett eller tjeneste å yte nødvendig
-bistand til gjennomføring av beslutninger etter
-annet og tredje ledd, jf. utkastet § 14-6 første ledd
-annet punktum, som gjelder tilsvarende, jf. utkastet § 25-2 annet ledd annet punktum.
-Til § 25-13. Forskrifter om bistand til utenlandsk
-myndighet
-Etter bestemmelsen kan det i forskrift blant annet
-gis regler om direkte oversendelse og bruk av
-elektronisk kommunikasjon, se forskrift 14.
-desember 2012 nr. 1227 om internasjonalt samarbeid i straffesaker §§ 3 og 4. Videre kan det gis
-forskrifter om bistand til fjernmøte og fjernavhør,
-jf. utleveringsloven § 24 a nr. 6, jf. nevnte forskrift
-kapittel 4. I tillegg kan det gis forskrifter om
-bistand til inngrep i kommunikasjon mv. jf. utkastet § 25-12. Det vil være behov for revisjon av
-bestemmelsene i forskrift 14. desember 2012 nr.
-1227 om internasjonalt samarbeid i straffesaker
-kapittel 5.
-Til kapittel 26. Bording av fartøy mv.
-Kapittel 26 har bestemmelser om internasjonalt
-samarbeid om bording av fartøy mv. samt om
-visse operasjoner utenfor Norges territorialfarvann.
-Til § 26-1. Samarbeid om bording av fartøy mv.
-Se straffeprosessloven § 4 a og lov 13. juni 1997 nr.
-47 om gjennomføring av europarådsavtale 31.
-januar 1995 om ulovlig håndtering av og handel
-med narkotika og psykotrope stoffer til sjøs §§ 1
-og 2, jf. påtaleinstruksen kapittel 32.
-Bestemmelsen gjennomfører Norges folkerettslige forpliktelser etter protokoll 2005 til konvensjon 10. mars 1988 om bekjempelse av ulovlige
-handlinger mot sikkerheten ved skipsfart og europarådsavtale 31. januar 1995 om ulovlig håndtering av og handel med narkotika og psykotrope
-stoffer til sjøs. Lov om europarådsavtale om handel med narkotika foreslås opphevet. Forslagene
-er nærmere omtalt i punkt 15.3.7.
-Til § 26-2. Samarbeid om særskilte operasjoner utenfor
-Norges territorialfarvann
-Se straffeprosessloven § 4 annet ledd.
+Johansen (2007) Johansen, Geir-Otto, *Generaladvokaten og det militære rettsvesen. En historisk oversikt*, Militærjuridiske småskrifter nr. 12, 2007.
 
-629
+Johnsen og Keiserud (2016): Johnsen, Ann og Erik Keiserud, «Advokaters taushetsplikt», I: *Rettsavklaring og rettsutvikling: festskrift til Tore Schei på 70-årsdagen 19. februar 2016*, Magnus Matningsdal mfl. (red.) 2016, s. 490–515.
 
-Kapittel 30
+J. Rui (2015): Rui, Jorun, *Mistenktes innsyn i straffesaken. I spenningsfeltet mellom tillit og kontroll* (doktoravhandling), 2015.
 
-Bestemmelsen viderefører i det alt vesentlige
-straffeprosessloven § 4 annet ledd, jf. lov 14. juni
-2013 nr. 43, som ble vedtatt på bakgrunn av Norges deltakelse i NATO-operasjonen «Ocean Shield» til bekjempelse av piratvirksomhet i Det
-indiske hav. I likhet med straffeprosessloven § 4
-annet ledd er utkastet generelt utformet, hvilket
-innebærer at det kan gis forskrifter om lignende
-internasjonalt samarbeid andre steder.
-Straffeprosessloven gjelder overalt hvor norske myndigheter behandler saker om straff, med
-de begrensninger som blant annet følger av folkerettens regler om jurisdiksjon, jf. utkastet § 1-2 om
-lovens forhold til folkeretten. Utkastet § 26-2
-endrer ikke dette utgangspunktet, men gir i første
-punktum hjemmel for at det i forskrift kan gis nærmere regler for saker som har sitt opphav til sjøs,
-utenfor norsk territorialfarvann, og hvor behandlingen skjer som ledd i samarbeid med andre stater.
-Etter annet punktum kan det i slik forskrift
-bestemmes at deler av loven ikke skal gjelde, og
-fastsettes særlige regler som avviker fra lovens
-bestemmelser. Slik særregulering kan bare skje i
-den utstrekning det er nødvendig, enten av hensyn til «de rådende forhold», det vil si den faktiske
-situasjonen det er tale om å regulere, eller av hensyn til «formålet med samarbeidet», herunder for
-å vareta forpliktelser og forutsetninger som følger
-av avtale med andre stater. Det er ikke ubetenkelig å sette til side lovens regler ved forskrift, og
-det må påvises et reelt behov for særregulering, jf.
-nødvendighetskriteriet. I lys av utkastet bør forskrift 14. juni 2013 nr. 622 om behandling av saker
-om straff for personer mistenkt for piratvirksomhet i Det indiske hav endres, slik at det tas
-utgangspunkt i at straffeprosessloven gjelder med
-mindre annet er bestemt i forskriften, se punkt
-15.3.7.
-Tredje punktum presiserer annet punktum og
-gir uttrykkelig hjemmel for to typer særregulering. For det første kan det gis regler om bruk av
-tvangstiltak på andre vilkår enn det som følger av
-loven. Det kan ikke gis regler om bruk av andre
-tvangstiltak, men om bruk av de samme tvangstiltakene på andre og eventuelt lempeligere vilkår.
-For det andre kan det gis særlige regler om overføring til annen stat av personer som er pågrepet
-av norske myndigheter. I begge tilfeller er det et
-krav at reguleringen oppfyller vilkårene i annet
-punktum. Bestemmelsen hjemler regulering tilsvarende forskrift 14. juni 2013 nr. 622 om behandling av saker om straff for personer mistenkt for
-piratvirksomhet i Det indiske hav § 4 annet ledd
-om pågripelse og §§ 10 og 11 om overføring til
-annen stat av pågrepne personer mv.
+Jørgensen og Moløkken-Østvold (2004): Jørgensen, Magne og Kjetil Moløkken-Østvold «Reasons for Software Effort Estimation Error: Impact of Respondent Role, Information Collection Approach, and Data Analysis Method», *IEEE Transactions on Software Engineering* nr.12 (2004) s. 993–1007.
 
-[Side 632]
+Kjelby (2013): Kjelby, Gert Johan, *Mellom rett og plikt til straffeforfølgning: den relative etterforsknings- og påtalepliktens rettslige rammer og rettslige utvikling i norsk straffeprosess,* Bergen 2013.
 
-630
+Kjelby og Øyen (2013): Kjelby, Gert Johan og Ørnulf Øyen, «Every reasonable effort? – om domstolenes og påtalemyndighetens plikt til å sikre tiltaltes rett til krysseksaminasjon» I: Karl Harald Søvig mfl. (red.), *Undring og erkjennelse: Festskrift til Jan Fridthjof Bernt 70 år,* 2013, s. 293–307.
 
-Kapittel 30
+Kjerschow (1897): Kjerschow, Peder, *Lov om Rettergangsmaaden i Straffesager af 1 Juli 1887 med Love indeholdende forandringer i samme af 4 April 1981, 10 Mai 1893, 13 Juni 1894, 14 Juli 1894 og 6 Juni 1896 samt Loven vedrørende Retsafgjørelser, Resolutioner , Cirkulærer og Skrivelser m.v,* 1897.
 
-NOU 2016: 24
-Ny straffeprosesslov
+Kjølbro (2010): Kjølbro, Jon Fridrik, *Den Europæiske Menneskerettighedskonvention – for praktikere*, 3. utg., 2010.
 
-Til kapittel 27. Overføring av straffesaker
-Kapittel 27 inneholder generelle regler om overføring av straffesaker mellom norske og utenlandske myndigheter og mellom Norge og internasjonale domstoler. Bestemmelsene tar –
-sammen med enkelte forslag til endringer i
-straffeloven – også høyde for Norges forpliktelser etter 1972-konvensjonen. Lov om overføring
-av straffeforfølging foreslås opphevet, se punkt
-15.3.8.
-Til § 27-1. Overføring av straffesak til utlandet
-Etter første ledd er påtalemyndigheten gitt en vid
-og skjønnsmessig adgang til å anmode utenlandsk
-myndighet om overtakelse av norsk straffesak når
-det er grunn til det. Flere grunner kan tilsi at forfølgning bør skje i utlandet. Det typiske er, som
-angitt i utkastet, at mistenkte er bosatt i vedkommende stat. Enkelte andre typetilfeller er nevnt i
-1972-konvensjonen artikkel 8. Som regel bør påtalemyndigheten mene at det er grunnlag for å konstatere straffskyld før forfølgningen begjæres
-overtatt av utenlandsk myndighet, men dersom
-det gjenstår etterforskingsskritt som mest hensiktsmessig kan gjennomføres i den annen stat, er
-det ingenting i veien for at saken søkes overført
-før den er ferdig etterforsket.
-Annet ledd pålegger påtalemyndigheten å
-foreta rimelige undersøkelser for å avklare om
-handlingen er straffbar i den annen stat. Dette
-gjelder likevel bare såfremt spørsmålet er «tvilsomt». Innenfor strafferettens kjerneområde er
-det normalt ikke behov for nærmere undersøkelser. Bringes det på det rene at handlingen ikke
-kan straffes i den annen stat, skal ikke anmodningen fremsettes.
-Etter tredje ledd første punktum skal sakens
-opplysninger følge med anmodningen, jf. også
-1972-konvensjonen artikkel 15.
-Innstilling etter fjerde ledd første punktum skjer
-etter loven (ex lege) og krever følgelig ikke særskilt henleggelsesvedtak. Overføring stenger i
-utgangspunktet for videre forfølgning av samme
-forhold i Norge, jf. også 1972-konvensjonen artikkel 21 nr. 1. At forfølgningen er innstilt i Norge, er
-imidlertid ikke til hinder for at det ytes bistand til
-utenlandsk myndighet som ledd i forfølgningen av
-forholdet i vedkommende stat, jf. utkastet § 25-3
-tredje ledd bokstav c, som er en fakultativ avslagsgrunn. Etter fjerde ledd annet punktum kan forfølgningen tas opp på ny dersom ansvaret for
-straffeforfølgningen tilbakeføres til påtalemyndigheten i Norge.
+Kolflaath og Strandberg (2015): Kolflaath, Eivind og Magne Strandberg «Tre epoker i norsk bevisteori – med særlig vekt på straffeprosessen» I: Ragna Aarli mfl. (red.) *Bevis i straffesaker. Utvalgte emner*, 2015, s. 33–48.
 
-Til § 27-2. Overføring av straffesak fra utlandet til
-Norge
-Første ledd forutsetter en bred og skjønnsmessig
-vurdering av om en sak bør overtas, ut fra hensynene til forfølgningssituasjonen og statenes forfølgningssinteresser. Loven angir den i praksis
-vanligste grunnen til at norske myndigheter
-anmodes om å overta straffeforfølgning, nemlig
-at mistenkte er bosatt i Norge. Andre grunner
-kan være at mistenkte er norsk statsborger, at
-vedkommende allerede er under straffeforfølgning i Norge for andre forhold, eller at sentrale
-bevis finnes i Norge, og eventuell gjenstående
-etterforsking og iretteføring derfor enklest kan
-gjennomføres her. Også opphold av kortere
-varighet mistenkte har i Norge, kan etter
-omstendighetene tilsi overtakelse. Eventuelle
-hindringer for at straffeforfølgning eller en eventuell dom kan gjennomføres i Norge, må også tas
-i betraktning.
-Dersom straffansvar er foreldet etter den
-anmodende stats lovgivning, må det vurderes særskilt om Norge har en tilstrekkelig selvstendig
-interesse i å forfølge handlingen. Det samme gjelder dersom handlingen er begått utenfor den
-anmodende stats territorium. Er utlevering eller
-overlevering til den annen stat utelukket, må det
-tas hensyn til at overføring av straffesaken til
-Norge ofte vil være eneste mulighet for rettshåndhevelse, jf. prinsippet aut dedere aut judicare, som
-medfører en forpliktelse til enten å utlevere eller
-straffeforfølge mistenkte. Prinsippet gjenfinnes i
-flere konvensjoner Norge er part i.
-Ved vurderingen må det også ses hen til
-avslagsgrunnene i utkastet § 25-3 tredje ledd. Selv
-om bestemmelsen ikke gjelder direkte, vil de
-samme hensyn kunne gjøre seg gjeldende for
-spørsmålet om hvorvidt en straffesak skal overtas
-eller ikke.
-For stater som er tilsluttet 1972-konvensjonen,
-må det ses hen til konvensjonens bestemmelser
-om når det kan anmodes om at en annen stat overtar straffeforfølgningen, og når slik anmodning
-kan avslås.
-Avslag etter annet ledd bokstav a må praktiseres i lys av at Norges strafferettslige jurisdiksjonsområde utvides etter 1972-konvensjonen, jf. artikkel 2 nr. 1 og 7 nr. 1, jf. også Rt. 2011 s. 31. Jurisdiksjonsregimet etter konvensjonen må anses
-gjennomført i norsk rett gjennom straffeloven § 6.
-For avslag etter annet ledd bokstav b har det
-betydning at enhver gyldig preskripsjonsavbrytende handling i den anmodende stat etter 1972konvensjonen artikkel 26 nr. 2 skal ha samme
+LaFave mfl. (2004): LaFave, Wayne R., Israel, Jerold H. Israel, Nancy J King, og Orin S. Kerr, *Criminal Procedure*, 2004.
 
-[Side 633]
+Langbach (2013): Langbach, Tor, «I domstolsperspektiv: Straffeprosessloven og fremtiden», *Tidsskrift for Strafferett*, nr. 4 (2013), s. 500–509.
 
-NOU 2016: 24
-Ny straffeprosesslov
+Langbach (2015): Langbach, Tor, *Forsvareren*, 2015.
 
-virkning i den anmodede stat og omvendt. Denne
-forpliktelsen foreslås implementert i et nytt tredje
-ledd i straffeloven § 88, jf. merknadene til denne
-bestemmelsen.
-Etter annet ledd bokstav c skal en anmodning
-avslås dersom det i Norge eller i utlandet foreligger en avgjørelse som har negativ materiell
-rettskraft etter norsk rett, jf. utkastet § 32-12 annet
-ledd. Bestemmelsen avviker fra utkastet § 25-3
-tredje ledd bokstav c, dels ved at det er tale om en
-absolutt avslagsgrunn, dels ved at den kun retter
-seg mot avgjørelser som sperrer mot videre forfølgning etter reglene om negativ materiell rettskraft. Parallellforfølgning eller gjentatt forfølgning
-som ikke omfattes av bokstav c, kan etter omstendighetene begrunne avslag etter første ledd, jf.
-ovenfor.
-Avslagsgrunnen etter annet ledd bokstav d må
-ses i sammenheng med utkastet § 25-3 annet ledd.
-Til § 27-3. Overføring av straffesak til eller fra
-internasjonal domstol
-Bestemmelsen gir en generell adgang til overføring av straffesaker til eller fra internasjonal domstol på tilsvarende vilkår som ved overføring til
-eller fra annen stat. Bestemmelsen står tilbake for
-eventuell særregulering i lov.
-Til del 5. Påtalevedtak
-Til kapittel 28. Avgjørelse av påtalespørsmålet
-mv.
-Til § 28-1. Frist for påtalevedtak
-Første ledd fastslår at spørsmålet om påtale skal
-avgjøres så snart saken er avgjørelsesmoden, jf.
-«tilstrekkelig opplyst». Vilkåret skal forstås i sammenheng med utkastet § 7-1 første ledd om aktørenes ansvar for å sikre et betryggende avgjørelsesgrunnlag. Kriteriet «rimelig tid» er ikke et
-ideal, men en relativ yttergrense for tidsbruk.
-Hvor grensen går, må bero på et skjønn i den
-enkelte sak, og sentrale momenter for vurderingen følger av annet ledd tredje punktum. Bestemmelsen skal ikke stå i veien for ordinær tidsbruk,
-og for alvorlige straffesaker, der etterforskingen
-er omfattende og kompleks, gir bestemmelsen
-rom for adskillig saksbehandlingstid. Derimot
-skal lang saksbehandlingstid som følge av liggetid, manglende planmessighet, koordinering,
-dimensjonering mv., kunne medføre at kravet til
-rimelig tid ikke anses overholdt.
-Etter annet ledd kan retten fastsette en preklusiv frist for påtalevedtak. Vurderingstemaet for ret-
+Lie (2013): Lie, Nils Erik, «Noen tanker om fremtidens straffeprosess» *Tidsskrift for Strafferett nr. 4 2013*, på s. 524.
 
-631
+Lindahl (2009): Lindahl, Ina, *Massemedienes kildevern. En lærebok*, 2009.
 
-Kapittel 30
+Lødrup (2009): Lødrup, Peter, *Lærebok i erstatningsrett*, 2009.
 
-ten er om videre forfølgning vil være «urimelig», jf.
-annet ledd annet punktum. Det skal relativt mye til
-for at vilkåret er oppfylt. Det er en nødvendig forutsetning at fristen etter første ledd – «rimelig tid» –
-er oversittet, men det er ikke tilstrekkelig. Det må
-kreves noe mer, og vurderingstemaet knytter seg
-til virkningene av fortsatt forfølgning. Grensen på
-1 år og 6 måneder for å bringe spørsmålet inn for
-retten skal ikke være utgangspunktet for vurderingen. Det må, som det fremgår av annet ledd tredje
-punktum, foretas en konkret vurdering, der hensynet til mistenkte avveies mot samfunnets behov for
-å gjøre straffansvar gjeldende. Det er særlig lang
-saksbehandlingstid som følge av liggetid, manglende planmessighet, koordinering, dimensjonering mv. som kan tale for at videre forfølgning er
-urimelig, jf. merknadene til første ledd.
-Omstendigheter som gjør videre forfølgning særlig tyngende for mistenkte, for eksempel at vedkommende er varetektsfengslet, særlig ung, alvorlig syk eller lignende, skal tillegges vekt. Den
-offentlige interesse i forfølgning vil blant annet
-avhenge av sakens karakter og hensynet til fornærmede mv. Ønsker påtalemyndigheten forlengelse av fristen etter annet ledd fjerde punktum, er
-det tilstrekkelig at begjæring om dette sendes retten innen fristens utløp.
-Begjæres ikke utsettelse, eller avslås begjæringen, uten at påtalespørsmålet avgjøres innen
-den frist retten har fastsatt, anses forfølgningen
-innstilt, jf. tredje ledd. Med innstillingen følger
-sperrevirkning etter utkastet § 32-12 annet ledd
-bokstav b. Sperrevirkningen vil gjelde for det eller
-de identifiserbare faktiske forhold retten har knyttet fristen til, se merknadene til utkastet § 28-2.
-Om bakgrunnen for bestemmelsen vises det
-til punkt 16.2, der det også fremgår at ett utvalgsmedlem er uenig i forslaget om rettslig prøving av
-om saken fremmes med tilstrekkelig hurtighet.
-Til § 28-2. Henleggelse
-Se straffeprosessloven §§ 62 a, 71 b første punktum, 71 c, 72 og 73.
-I tråd med alminnelig språkbruk heter det i
-bestemmelsen at «[s]aken» skal eller kan henlegges. Hvilke(t) forhold henleggelsesbeslutningen nærmere bestemt gjelder, må i prinsippet
-bero på en fortolkning av avgjørelsen. Ikke sjelden knytter avgjørelsen seg til en bestemt sak
-(identifisert ved saksnummer), som kan inneholde opplysninger om flere identifiserbare faktiske forhold. I slike tilfeller må det som et
-utgangspunkt kunne antas at henleggelsen gjelder alle forholdene.
+Løvlie (2014): Løvlie, Anders, *Rettslige faktabegreper*, 2014.
 
-[Side 634]
+Løvlie (2015): Løvlie, Anders, «Sakkyndigbeviset» I: *Bevis i straffesaker. Utvalgte emner*, Ragna Aarli mfl. (red.), 2015, s. 537–562.
 
-632
+Matningsdal (2007a): Matningsdal, Magnus, *Siktedes rett til å eksaminere vitner. Opplesning av politiforklaringer, anonyme vitner og dommeravhør av barn*, 2007.
 
-Kapittel 30
+Matningsdal (2007b): Matningsdal, Magnus, «Tilståelsesdom», *Jussens Venner* nr. 5 (2007), s. 251–272.
 
-NOU 2016: 24
-Ny straffeprosesslov
+Matningsdal (2013): Matningsdal, Magnus, «Kontradiksjon i sivile saker og straffesaker», *Jussens Venner* nr. 1 (2013), s. 1–115.
 
-Første ledd pålegger påtalemyndigheten å henlegge saken når nødvendige rettslige eller faktiske betingelser for forfølgning ikke er til stede.
-Rettslige grunner som må føre til henleggelse,
-kan typisk være at forholdet ikke rammes av
-straffelovgivningen, men det kan også skyldes
-prosessuelle hindringer, for eksempel som følge
-av forbudet mot dobbeltstraff. Som redegjort for i
-punkt 13.2.7 gjelder det strafferettslige beviskravet også for positive påtalevedtak, og dersom påtalemyndigheten ut fra dette beviskravet ikke finner
-tilstrekkelig bevis for straffskyld, skal forholdet
-henlegges av bevismessige grunner. Også når
-nødvendige bevis ikke er rettslig tilgjengelig,
-typisk som følge av bevisforbud, må utfallet bli
-henleggelse, som i så fall skjer dels av rettslige og
-dels av bevismessige grunner.
-Etter annet ledd kan påtalemyndigheten
-beslutte henleggelse etter en skjønnsmessig vurdering når «forfølgning ikke er i det offentliges
-interesse». Det er fraværet av en slik offentlig
-interesse som må påvises, jf. også utgangspunktet
-om at overtredelser av straffelovgivningen skal
-forfølges, jf. utkastet § 2-2 første punktum. Om
-bakgrunnen for bestemmelsen vises det til punkt
-16.4.
-Vurderingen etter annet ledd må ta utgangspunkt i straffens begrunnelser, det vil si hensynet
-til allmennprevensjon, individualprevensjon og
-sosial (offentlig) ro. I hvilken utstrekning disse
-hensyn gjør seg gjeldende, vil i stor grad bero på
-overtredelsens grovhet sammenholdt med hvilke
-interesser som er krenket ved lovbruddet. Hvorvidt fornærmede, skadelidte eller berørte offentlige myndigheter ønsker at forholdet forfølges
-strafferettslig, vil være et viktig og etter omstendighetene avgjørende moment.
-Selv om visse hensyn taler for forfølgning, kan
-det gjøre seg gjeldende mothensyn som bør tillegges avgjørende vekt. Dersom lovbruddet vil
-kunne få andre følbare konsekvenser for gjerningspersonen, for eksempel i form av erstatningskrav, administrativ sanksjon eller lignende,
-kan dette tilsi at det ikke er behov for å reagere
-strafferettslig. For unge lovbrytere kan møtet
-med politiet i seg selv ha en slik avskrekkende virking at individualpreventive hensyn får mindre
-betydning. Nødvendige ressursprioriteringer og
-samfunnsøkonomiske betraktninger kan også
-etter omstendighetene tale for henleggelse. Det
-kan dessuten foreligge helt spesielle grunner, slik
-som for eksempel behovet for å beskytte svært
-sensitive opplysninger mot innsyn mv.
-Mistenktes samarbeidsvilje, herunder om vedkommende er villig til å erkjenne straffskyld for
+Moen (2014): Moen, Olav Haugen, «Domstolskontrollen med Gjenopptakelseskommisjonens avgjørelser – med særlig henblikk på Rt. 2012 side 159», *Lov og Rett* nr.4 (2014), s. 189–209.
 
-andre forhold eller gi opplysninger om lovbrudd
-begått av andre, kan etter omstendighetene være
-relevant ved vurderingen av om forfølgning er i
-det offentliges interesse. Det vises blant annet til
-merknadene nedenfor til bokstav c om situasjonen
-på forvaltningsområder der det er etablert ordninger med lempning av ansvar ved samarbeid mv.
-Bestemmelsen legger imidlertid ikke opp til at
-avgjørelsen av påtalespørsmålet skal bli gjenstand
-for forhandlinger mellom påtalemyndigheten og
-mistenkte, og den restriktive praksis som påtalemyndigheten i så henseende har fulgt under gjeldende lov, skal videreføres.
-Annet ledd bokstav a til d angir typetilfeller
-som illustrerer vektingen av nevnte hensyn i ulike
-situasjoner. Typetilfellene er ikke uttømmende, jf.
-«herunder».
-Hvorvidt et forhold skal anses «bagatellmessig» etter annet ledd bokstav a, må vurderes
-konkret, men det er grunn til å tro at dette ikke
-sjelden vil være en treffende karakteristikk for
-overtredelser med strafferamme i det «nedre
-sjikt», det vil si fengsel inntil 1 år.
-Annet ledd bokstav b åpner for henleggelse på
-grunnlag av prosessøkonomiske overveielser og
-kapasitetshensyn. Bestemmelsen forutsetter at
-det skal skje en forholdsmessighetsvurdering.
-Hva som er rimelig og forholdsmessig tids- og ressursbruk, kan ikke vurderes løsrevet fra de ressurser som faktisk er tilgjengelige. Begrenset
-saksbehandlingskapasitet gjør prioriteringer nødvendig, og bestemmelsen åpner til en viss grad for
-kapasitetshenleggelser. Det vises til utvalgets vurderinger om adgangen til kapasitetshenleggelser i
-punkt 16.5.
-Annet ledd bokstav c er uttrykk for et skjønnsmessig subsidiaritetsprinsipp i situasjoner der forholdet kan medføre administrativ sanksjon. Påtalemyndigheten må her som ellers sikre et forsvarlig avgjørelsesgrunnlag, og må som ledd i dette ha
-nødvendig kontakt med vedkommende forvaltningsorgan, blant annet for å avklare hvilke forvaltningsmessige sanksjoner som kan være aktuelle. I slike tilfeller kan påtalemyndigheten – med
-mindre den administrative behandlingen sperrer
-for strafferettslig forfølgning – vurdere om det i
-tillegg er behov for å reagere strafferettslig. Den
-offentlige interesse i forfølgning må ses i lys av
-det rettslige regime og de hensyn som gjør seg
-gjeldende på vedkommende forvaltningsområde,
-herunder må det vurderes om straffeforfølgning
-vil kunne undergrave formålet med den forvaltningsmessige behandlingen. Lempningsreglene
-etter konkurranseloven §§ 30 flg. er ett eksempel
-på en ordning der det etter omstendighetene kan
+Myhrer (2001): Myhrer, Tor-Geir «Etterforskningsbegrepet», Tidsskrift for strafferett, nr. 1 (2001) s. 6–30.
 
-[Side 635]
+Mæhle (2014): Mæhle, Kirsten Vikesland, *Varetektsfengsling av barn*, 2014. (masteroppgave)
 
-NOU 2016: 24
-Ny straffeprosesslov
+Nielsen (2005): Nielsen, Gorm Toftegaard, «Hvad er et tvangsindgreb? : om straffeproces og forvaltningsret», *Juristen* nr. 5 (2005), s. 153–160.
 
-være grunn til å avstå fra straffeforfølgning for at
-formålet med reglene skal kunne realiseres.
-Annet ledd bokstav d åpner for henleggelse når
-det er nødvendig for å hindre spredning av sensitive opplysninger. Selv om retten ikke tar en begjæring fra statsadvokaten om å nekte innsyn til følge
-etter utkastet § 6-11, jf. § 6-8, kan saken likevel henlegges når påtalemyndigheten finner at risikoen
-forbundet med mulig spredning av opplysningene
-er tilstrekkelig stor. Henleggelsesadgangen står
-åpen helt frem til det foreligger rettskraftig dom, jf.
-utkastet § 29-7 annet ledd bokstav c.
-Tredje ledd svarer til straffeprosessloven § 71 b
-første punktum. Barneverntjenestens plikt til å
-underrette påtalemyndigheten om vedtak i saken
-foreslås regulert i barnevernloven, se punkt
-29.2.6. Forslag til endringer i barnevernloven § 3-5
-fremgår av utkastet § 46-3 nr. 3.
-Til § 28-3. Påtaleunnlatelse
-Se straffeprosessloven §§ 69 og 70.
-Bestemmelsen er nærmere omtalt i punkt
-16.3, der det blant annet fremgår at adgangen til
-å stille vilkår om konfliktrådsbehandling ikke
-foreslås videreført, se også merknadene til utkastet § 28-4. Om adgangen til å stille vilkår om
-erstatningsbetaling vises det til punkt 25.4.1 og
-25.4.4.
+Pedersen (2016): Pedersen, Jussi Erik, *Begrunnelse av rettsavgjørelser*, 2016.
 
-633
+Rieber-Mohn (1996): Rieber-Mohn, Georg Fredrik, «Etterforsking og påtalemyndighet», *Nytt i strafferetten* nr. 2 (1996) s. 19–47.
 
-Kapittel 30
+Robberstad (1999): Robberstad, Anne, *Mellom tvekamp og inkvisisjon – Straffeprosessens grunnstruktur belyst ved fornærmedes stilling*, 1999.
 
-krav om inndragning på grunnlag av et forhold
-som er avgjort ved forelegg. Se for øvrig utkastet
-§ 32-13 om krav om inndragning etter rettskraftig
-dom og merknadene til bestemmelsen.
-Til § 28-6. Tiltale
-Se straffeprosessloven §§ 250 og 251.
-Første ledd bygger på et materielt tiltalebegrep. Tiltalen er påtalemyndighetens beslutning
-om å fremme krav om straff eller andre strafferettslige reaksjoner for domstolene. Et forelegg
-vil være uttrykk for en beslutning om tiltale når
-det oversendes retten for pådømmelse. Det er
-uten betydning om det skal avholdes hovedforhandling etter utkastet kapittel 35, eller om
-saken skal behandles forenklet etter utkastet
-kapittel 36, jf. annet ledd. Kravene til tiltalens
-form og innhold følger av utkastet § 28-8 første,
-tredje og femte ledd.
-Adgangen etter tredje ledd til midlertidig utsettelse av tiltaleavgjørelsen suspenderer ikke fristen
-for påtaleavgjørelse etter utkastet § 28-1 første
-ledd, men dersom det foreligger hindringer som
-nevnt i utkastet § 13-8 første ledd, vil det få betydning for «rimelig tid»-vurderingen. Foreligger
-uoverkommelige hindringer som det ikke er
-grunn til å anta vil falle bort innen en forsvarlig
-tidsramme, bør det som et alternativ til utsettelse
-vurderes om saken skal henlegges.
+Robberstad (2014): Robberstad, Anne, *Bistandsadvokaten*, 3. utg, 2014.
 
-Til § 28-4. Overføring til konfliktråd
-Se straffeprosessloven § 71 a.
-Bestemmelsen regulerer uttømmende påtalemyndighetens adgang til å beslutte overføring til
-konfliktråd. Adgangen til å stille konfliktrådsbehandling som vilkår for vedtak om påtaleunnlatelse er ikke videreført. Noen realitetsendring av
-betydning innebærer dette imidlertid ikke, ettersom det kan knyttes de samme vilkår til beslutning om overføring til konfliktråd som til beslutning om påtaleunnlatelse, jf. tredje ledd. Det vises
-til punkt 16.3.
-Til § 28-5. Forelegg
-Se straffeprosessloven §§ 51 annet ledd, 255 og
-257 første punktum.
-Om adgangen til å stille vilkår om erstatningsbetaling vises det til punkt 25.4.1 og 25.4.4 og
-merknadene til utkastet § 43-1.
-Kravet om «signatur» i annet ledd utelukker
-ikke bruk av elektronisk signatur, se punkt 6.2.3.
-Tredje ledd svarer til straffeprosessloven § 51
-annet ledd for så vidt gjelder adgangen til å fremme
+Robberstad (2016): Robberstad, Anne, «Viljen til å skape lov og Grunnlov», *Lov og Rett* nr. 1 (2016), s 49–64.
 
-Til § 28-7. Tilsagn om straffepåstand
-Bestemmelsen er ny.
-Om bakgrunnen for forslaget vises det til
-punkt 16.8.5.
-Regelen etter første ledd er begrunnet i prosessøkonomiske hensyn og kan anvendes når
-mistenkte tilstår eller gir opplysninger som
-bidrar til oppklaring, eller som letter etterforskingen eller iretteføringen. Utenfor tilståelsestilfellene må påtalemyndigheten vurdere særskilt
-om de opplysninger som gis, er av en slik betydning at det er hensiktsmessig å benytte tilsagnsordningen. Det er et vilkår for å gi tilsagn at mistenkte tilstår eller gir opplysninger «av betydning», forutsetningsvis for egen sak. Det er ikke
-tilstrekkelig at mistenkte utelukkende gir opplysninger om lovbrudd begått av andre.
-Nivået på straffepåstanden det gis tilsagn om,
-må bestemmes ut fra de alminnelige materielle
-straffutmålingsreglene. I denne sammenheng kan
-påtalemyndigheten ta i betraktning alle relevante
-straffutmålingsmomenter, herunder om mistenkte i vesentlig grad har bidratt til oppklaring av
+Rui (2009a): Rui, Jon Petter, *Forbudet mot gjentatt straffeforfølgning*, 2009.
 
-[Side 636]
+Rui (2009b): Rui, Jon Petter, «Forbudet mot gjentatt straffeforfølgning (ne bis in idem) i Den europeiske menneskerettighetskonvensjon protokoll 7 artikkel 4 – på ny», *Lov og Rett* nr. 5 (2009), s. 283–298.
 
-634
+Rui (2009c): Jon Petter Rui, «Om retten til å forholde seg taus og retten til ikke å måtte bidra til egen domfellelse», *Tidsskrift for Rettsvitenskap* nr. 1 (2009), s. 47–68.
 
-Kapittel 30
+Rui (2010): Rui, Jon Petter, «Ne bis in idem», *Nordisk Tidsskrift for Kriminalvidenskab* nr. 3 (2010), s. 497–506.
 
-NOU 2016: 24
-Ny straffeprosesslov
+Rui (2013): Rui, Jon Petter, «Mer effektiv gjennomføring av hovedforhandling i store straffesaker – Bruk av saksdokumenter, skriftlige redegjørelser og forberedende rettsmøte», *Lov og Rett* nr. 3 (2013), s. 248–253.
 
-andre lovbrudd, jf. straffeloven § 78 bokstav f.
-Mistenkte skal ikke forespeiles en strengere reaksjon enn det er grunnlag for, dersom vedkommende ikke samarbeider.
-Det skal sikres notoritet for at mistenkte er
-gjort kjent med adgangen til og vilkårene for
-omgjøring av tilsagnet, jf. annet ledd.
-Krav til utforming av tilsagnet følger av utkastet § 28-8 første og tredje ledd. Tilsagnet kan
-omgjøres på grunn av uriktige eller bristende forutsetninger, jf. utkastet § 29-8. Betydningen av at
-tilsagn er gitt for domstolenes reaksjonsfastsettelse, er regulert i første ledd siste punktum i
-utkastet § 32-3 om rettens forhold til partenes
-krav og påstander mv.
-Til § 28-8. Utforming av påtalevedtak
-Se straffeprosessloven §§ 252 og 256 samt påtaleinstruksen §§ 17-3 og 18-7.
-Kravene til form og innhold etter første ledd
-gjelder for alle påtalevedtak. Skriftlighetskravet er
-ikke til hinder for elektronisk behandling og kravet om signatur omfatter elektronisk signatur, se
-punkt 6.2.3.
-Kravet til begrunnelse for henleggelsesbeslutninger er ikke strengt, jf. annet ledd. Det reelle
-grunnlaget for henleggelsen må fremgå, men det
-er tilstrekkelig at dette skjer ved bruk av henleggelseskoder i kombinasjon med en stikkordsmessig angivelse av det rettslige og faktiske grunnlag
-for avgjørelsen, slik praksis er etter gjeldende lov.
-Etter omstendighetene kan det være grunn til å gi
-en nærmere begrunnelse, og dersom henleggelsen påklages, bør den myndighet som har truffet
-vedtaket, begrunne dette i tråd med det som har
-vært vanlig praksis. Se riksadvokatens rundskriv
-nr. 2/2015 punkt VIII, 1.1.
-Det bemerkes at forfølgningen kan måtte
-anses som innstilt selv om det ikke foreligger en
-formalisert beslutning om henleggelse. Innstilling
-kan etter omstendighetene reelt også tenkes å
-skje på andre måter, for eksempel på grunnlag av
-passivitet, ved konkludent adferd e.l. Spørsmål om
-henleggelse på grunn av konkludent adferd kan
-for eksempel oppstå når en forfølgning har omfattet flere mulige straffbare forhold, og det så treffes positivt påtalevedtak for bare ett eller noen av
-forholdene. I så fall kan det være rimelig å tolke
-påtalemyndighetens avgjørelse slik at forfølgningen er innstilt for de øvrige forhold forfølgningen
-har omfattet, selv om dette ikke formaliseres i en
-uttrykkelig henleggelsesbeslutning. Spørsmålet
-må avgjøres konkret og vil avhenge av en tolking
-av det aktuelle positive påtalevedtak, sett i sam-
+Rui (2014a): Rui, Jon Petter, «Om rammene for siling av bevisanker etter straffeprosessloven § 321 annet ledd», *Lov og rett* nr. 1 (2014) s. 33–44.
 
-menheng med faktum i saken, se Torgersen
-(2012) s. 219–221.
-Tredje ledd krever at alle beslutninger om
-påtalespørsmålet som fra påtalemyndighetens
-side innebærer konstatering av straffskyld – de
-såkalte positive påtalevedtak –, skal inneholde en
-rettslig og faktisk beskrivelse av det forhold
-beslutningen gjelder, jf. bokstav a og b. Av hensyn til mistenktes forsvar kan det være behov for
-en nærmere redegjørelse for påtalemyndighetens syn på saken enn det som etter bestemmelsen skal fremgå av tiltalen. Dette hensyn må
-ivaretas ved at påtalemyndigheten utarbeider en
-redegjørelse for saken, jf. utkastet § 34-1 annet
-ledd. Dessuten kan retten pålegge påtalemyndigheten å utarbeide en slik redegjørelse, jf. utkastet § 34-10.
-Tilsagn om straffepåstand etter utkastet § 28-7
-vil det regelmessig være aktuelt å gi allerede i forbindelse med avhør av mistenkte, og dermed på et
-stadium der forholdene normalt ikke ligger til
-rette for at påtalemyndigheten kan ta stilling til
-spørsmål om straffskyld. Kravene til form og innhold etter første og tredje ledd skal imidlertid
-sikre notoritet for innholdet i tilsagnet og hvilke(t)
-forhold tilsagnet knytter seg til.
-Selv om det etter femte ledd ikke er et krav at
-påtalemyndighetens straffepåstand angis i tiltalen,
-er det ikke noe i veien for at dette gjøres dersom
-det etter forholdene anses hensiktsmessig til veiledning for tiltalte mv.
-Til § 28-9. Underretning om påtalevedtak
-Se straffeprosessloven §§ 73 annet ledd, 257 annet
-punktum og 263 samt påtaleinstruksen §§ 17-2,
-17-4, 18-3 til 18-7, 18 A-4 og 20-5 til 20-7.
-Til kapittel 29. Omgjøring og overprøving av
-påtalevedtak mv.
-Til § 29-1. Generelt om omgjøring av påtalevedtak
-Bestemmelsen er ny.
-Etter første ledd er hovedregelen at omgjøring
-til gunst for mistenkte alltid kan skje. Det er unntak fra denne hovedregelen som krever særskilt
-regulering. Unntak følger av utkastet §§ 29-6 om
-opphevelse av vedtatt forelegg og 29-7 annet ledd
-om frafallelse av tiltalen.
-Annet ledd får bare anvendelse når beslutningen det er spørsmål om å omgjøre, er rettet mot
-en mistenkt, jf. «til skade for mistenkte». Dersom
-forfølgningen innstilles uten at noen har vært mistenkt i saken, kan omgjøring skje uten hensyn til
-begrensningene i bestemmelsen. Om mistenkte-
+Rui (2014b): Rui, Jon Petter, «Uskyldspresumsjonens vern mot omtale av straffesaker før straffedom og etter frifinnelse», *Tidsskrift for strafferett* nr. 2 (2014) s.120–144.
 
-[Side 637]
+Rui (2014c): Rui, Jon Petter, «Straffeprosessen i perspektiv», *Jussens venner* nr. 6 (2014), s. 382–443.
 
-NOU 2016: 24
-Ny straffeprosesslov
+Sandvig (2012): Sandvig, Jenny Arge, *Rekkevidden av selskapers selvinkrimineringsvern* (masteroppgave), 2012.
 
-begrepet vises det til utkastet § 3-1 og merknadene til bestemmelsen.
-Omgjøringsvernet er begrunnet i innrettelseshensyn. Omgjøringsadgangen står derfor åpen så
-lenge mistenkte ikke er «kjent med avgjørelsen».
-På hvilken måte mistenkte har blitt kjent med
-beslutningen, er ikke avgjørende.
-Til § 29-2. Overordnet påtalemyndighets
-omgjøringsadgang
-Se straffeprosessloven §§ 75 annet ledd og 59 a
-fjerde ledd siste punktum.
-Til § 29-3. Omgjøring av vedtak om henleggelse
-Se straffeprosessloven § 74 første ledd.
-Med «avgjørende bevis» menes i første punktum bevis som alene eller sammen med allerede
-eksisterende bevismateriale er tilstrekkelig til at
-straffskyld anses bevist.
-Til § 29-4. Omgjøring av vedtak om påtaleunnlatelse
-Se straffeprosessloven § 74 annet til fjerde ledd.
-Til § 29-5. Omgjøring av vedtak om overføring til
-konfliktråd
-Se konfliktrådsloven §§ 21 annet ledd siste punktum, 25 femte ledd siste punktum, 33 tredje ledd
-tredje punktum, 34 første ledd første punktum og
-36 annet og tredje ledd.
-Forslaget om å regulere omgjøring av vedtak
-om overføring til konfliktråd i ny straffeprosesslov forutsetter tekniske endringer konfliktrådsloven.
-Til § 29-6. Opphevelse av vedtatt forelegg
-Se straffeprosessloven § 258 første ledd.
-Det er kun vedtakelsen av «strafferettslig reaksjon» som kan oppheves. Påtalemyndigheten kan
-følgelig ikke oppheve vedtakelsen for så vidt gjelder eventuelt sivilt krav som er tatt med i forelegget, jf. utkastet § 43-1. Dette er det heller ikke
-adgang til etter den generelle omgjøringsregelen i
-utkastet § 29-1 første ledd, ettersom den kun gjelder avgjørelser om påtalespørsmålet og tilsagn
-om straffepåstand.
+Schartum og Bygrave (2016): Schartum, Dag Wiese og Lee A. Bygrave, *Personvern i informasjonssamfunnet. En innføring i vern av personopplysninger*, 3. utg., 2016.
 
-635
+Schei mfl. (2013): Schei, Tore, Arnfinn Bårdsen, Dag Bugge Nordén, Christian Reusch, Toril M. Øie, *Tvisteloven. Kommentarutgave. Bind 1,* 2. utg. 2013.
 
-Kapittel 30
+Skoghøy (2013): Skoghøy, Jens Edvin, «Advokaters taushetsplikt og de korresponderende bevisforbud i tvisteloven § 22-5 og straffeprosessloven § 119», *Tidsskrift for strafferett*, nr.2 (2013), s. 166–199).
 
-Gjenstanden for positive påtalevedtak, herunder vedtak om tiltale, er et bestemt straffbart
-forhold. Det følger av dette at første ledd første
-punktum gjelder endring av tiltalen innenfor
-samme forhold. Bestemmelsen gjelder også etter
-at hovedforhandlingen er påbegynt. Avgrensningen av forholdets identitet skal skje etter de
-samme kriterier som i utkastet § 32-12 annet ledd
-om negativ materiell rettskraft. Dette innebærer
-at identitetsspørsmålet må avgjøres med utgangspunkt i hva som er samme faktiske forhold, se
-punkt 17.8.2.6 og merknadene til utkastet § 32-12
-annet ledd. Bakgrunnen for sammenhengen er
-følgende: Hvis påtalemyndighetens adgang til å
-endre tiltalen avgrenses snevrere enn omfanget
-av den negative materielle rettskraft, vil det medføre at bestemmelser påtalemyndigheten ikke har
-hatt mulighet til å bringe inn i saken under hovedforhandlingen, omfattes av rettskraften, se punkt
-17.8.2.6. Ved endringer av tiltalen under hovedforhandlingen kan det av hensyn til tiltaltes forsvar være behov for utsettelse, se utkastet § 31-6.
-Påtalemyndigheten står naturligvis fritt til å
-utferdige tiltale for andre straffbare forhold. Det
-gjelder imidlertid visse begrensninger med hensyn til adgangen til utvidelse av saken etter at
-hovedforhandling er påbegynt, og under ankebehandling, jf. utkastet § 30-3 annet ledd. Av pedagogiske grunner er det vist til bestemmelsen i første
-ledd annet punktum.
-Annet ledd regulerer påtalemyndighetens
-adgang til å frafalle tiltalen, som står åpen inntil
-dom er avsagt i første instans. Etter at det foreligger dom i tingretten, kan tiltalen bare frafalles
-når vilkårene i annet ledd bokstav a til c foreligger.
-Påtalemyndighetens objektivitetsplikt, sammenholdt med første ledd i utkastet § 28-2 om henleggelse, medfører at tiltalen skal frafalles dersom
-påtalemyndigheten mener at straff eller strafferettslige reaksjoner ikke kan gjøres gjeldende av
-rettslige eller bevismessige grunner. Utkastet
-åpner ikke for at påtalemyndigheten kan nedlegge
-påstand om frifinnelse uten å frafalle tiltalen. Se
-punkt 8.3.4. Virkningen av at tiltalen frafalles, er
-regulert i tredje ledd i utkastet § 32-3 om rettens
-forhold til partenes krav og påstander mv.
-Møtende aktor har kompetanse til å endre tiltalen innenfor samme forhold og til å frafalle tiltalen, jf. utkastet § 2-13 bokstav a og b.
-Til § 29-8. Omgjøring av straffetilsagn
+Skoghøy (2014): Skoghøy, Jens Edvin, *Tvisteløsning*, 2. utgave, Oslo 2014.
 
-Til § 29-7. Endring av tiltalen. Frafall
-Se straffeprosessloven §§ 72 første ledd, 253 annet
-ledd, 254 tredje ledd og 322 tredje ledd.
+Skoghøy og Vang (2005): Skoghøy, Jens Edvin og Tonje Vang, «I hvilken utstrekning kan vitneforklaringer som er avgitt under etterforskningen, leses opp under hovedforhandlingen i straffesaker?», *Lov og Rett* nr. 5–6 (2005), s. 283–307.
 
-Bestemmelsen er ny.
-Straffetilsagn er ikke bindende for påtalemyndigheten dersom det foreligger bristende eller
+Smith mfl. (2008): Smith, Eva, Jørgen Jochimsen, Michael Kistrup og Jakob Lund Poulsen, *Straffeprocessen*, 2. utg., 2008.
 
-[Side 638]
+Smith (2015): Smith, Eivind, *Konstitusjonelt demokrati; Statsforfatningsretten i prinsipielt og komparativt lys*, 3. utg., 2015.
 
-636
+Sprack (2012): Sprack, John, *A practical approach to Criminal procedure*, 2012.
 
-Kapittel 30
+Stene (2001): Stene, Reid Jone, «Seksualforbrytelser – skjebner i rettssystemet», *Samfunnsspeilet* nr. 3 (2001).
 
-NOU 2016: 24
-Ny straffeprosesslov
+Stene (2002): Stene, Reid Jone, «Politiet er mest avgjørende i rettssystemet», *Samfunnsspeilet* nr. 3 (2002).
 
-uriktige forutsetninger som angitt i første og
-annet punktum. For å sikre forutberegnelighet
-for mistenkte og bidra til at ordningen ikke
-undergraves, bør imidlertid påtalemyndigheten
-utvise tilbakeholdenhet med å gå ifra tilsagn som
-er gitt. Ved vurderingen må det ses hen til om de
-endrede forutsetningene har negative prosessøkonomiske virkninger av betydning. Etter annet
-punktum er det bare nye opplysninger som kan
-begrunne omgjøring. At forholdet, på grunnlag
-av den opprinnelige bevissituasjonen, vurderes
-som mer alvorlig på et senere tidspunkt, for
-eksempel av en annen påtalejurist enn den som
-har gitt tilsagnet, er uten betydning.
-Betydningen for rettens reaksjonsfastsettelse
-av at tilsagn er gitt, er regulert i første ledd siste
-punktum i utkastet § 32-3 om rettens forhold til
-partenes krav og påstander mv.
-Til § 29-9. Klage over påtalevedtak
-Se straffeprosessloven § 59 a.
-Bestemmelsen regulerer ikke klage over utferdiget forelegg, ettersom dette er upraktisk, og
-omgjøring til skade for mistenkte etter vedtakelse
-er utelukket.
-Påtalemyndighetens beslutning om ikke å
-behandle sivilt krav sammen med straffekravet
-kan påklages etter utkastet §§ 43-1 annet ledd og
-43-7 fjerde ledd.
-Bestemmelsen er ikke til hinder for at påtalemyndigheten realitetsbehandler klage over andre
-beslutninger enn dem som er uttrykkelig nevnt,
-eller som gjelder saksbehandlingen, herunder
-saksbehandlingstiden.
-Til § 29-10. Rettslig prøving av vedtak om
-påtaleunnlatelse
-Se straffeprosessloven § 71.
-Til § 29-11. Anke over vedtatt forelegg
-Se straffeprosessloven §§ 259 og 260.
-Anken kan bare rette seg mot selve vedtakelsen. Oppregningen i annet ledd bokstav b til d er
-typetilfeller der forutsetningene for vedtakelsen
-brister. Straffutmålingen i forelegget kan ikke i
-seg selv gjøres til gjenstand for anke, men unntaksvis kan den gi grunnlag for å angripe vedtakelsen, for eksempel dersom mistenkte har blitt
-forledet til å vedta en bot som ligger vesentlig
-over etablerte bøtenivå for den aktuelle overtredelsen.
+Strandbakken (2003): Strandbakken, Asbjørn, *Uskyldspresumsjonen*, 2003.
 
-Til § 29-12. Gjenåpning ved vedtatt forelegg
-Se straffeprosessloven § 261.
-Til del 6. Generelle regler om rettens
-saksbehandling og avgjørelser
-Til kapittel 30. Saksstyring og veiledning.
-Virkning av at sak er reist. Forening og oppdeling
-av straffesaker
-Til § 30-1. Rettens saksstyring og veiledning
-Bestemmelsen svarer til tvisteloven §§ 11-5 og 11-6
-og er et overordnet uttrykk for lovens krav til rettens saksstyring og veiledning. Konkrete utslag av
-regelen er blant annet utkastet § 34-7 om saksstyring under forberedelse til hovedforhandling og
-§ 35-1 om rettens styring av hovedforhandlingen.
-Saksstyring etter første ledd skal ikke bryte
-med den øvrige reguleringen i utkastet om forholdet mellom retten og partene, herunder særlig
-§ 5-1 om forholdet mellom domstolene og straffesakens øvrige aktører, § 7-4 om rettens kontroll
-med bevisføringen og § 32-3 om rettens forhold til
-partenes krav og påstander mv. Dette innebærer
-at saksstyringen som et utgangspunkt må være
-mer prosessuell enn materiell; den skal i første
-rekke omhandle hvordan forhold skal håndteres,
-og ikke at de skal håndteres, se punkt 17.1.3. Planmessighet er en nødvendig forutsetning for at
-formålet om en konsentrert og effektiv behandling skal oppnås.
-Annet ledd angir virkemidler for saksstyring.
-Aktuelle spørsmål for avklaring kan være partenes syn på behandlingsmåten, hvilke rettslige og
-faktiske spørsmål partene anser som omtvistet,
-spørsmål knyttet til partenes bevistilbud mv.
-Frister skal benyttes til å drive saken fremover.
-Oversittelse av en fastsatt frist har ikke i seg selv
-preklusiv virkning, men frister vil bidra til å sikre
-at partenes rett til kontradiksjon blir ivaretatt og
-derigjennom at saken blir avgjørelsesmoden, jf.
-utkastet § 32-1 om tidspunktet for rettens avgjørelser. Retten kan treffe saksstyrende beslutninger av enhver art, jf. «avgjørelser om behandlingen».
-Til § 30-2. Avvisning på grunn av verserende sak.
-Utsettelse
-Se straffeprosessloven § 17.
-Første ledd er en kodifisering av gjeldende rett
-om litispendens i straffesaker, jf. Rt. 2008 s. 907.
-Det vises til omtalen av litispendensprinsippet i
-punkt 17.8.2.2. Se også tvisteloven § 18-1.
+Stuntz (2005): Stuntz, William, J., *Bordenkircher v. Hayes: The Rise of Plea Bargaining and the Decline of the Rule of Law*, Harvard Law School Public Law, Research Paper No. 120 (2005).
 
-[Side 639]
+Sundby (1969): Sundby, Nils Kristian, «Betydningen av skadelidtes forhold i erstatningsretten», *Jussens Venner* nr. 8/9 (1969) s. 257–319.
 
-NOU 2016: 24
-Ny straffeprosesslov
+Thorsen mfl. (2009): Thorsen, Lotte Rustad, Stian Lid og Reid Jone Stene, *Kriminalitet og rettsvesen*, Statistisk sentralbyrå: statistiske analyser, 2009.
 
-Uttrykket «krav» omfatter både enkeltstående rettergangsskritt og forhold som bringes inn for domstolene ved tiltale. Hva som ved
-tiltale er «samme forhold», må fastlegges ut fra
-kriteriene som gjelder for negativ materiell rettskraft, jf. utkastet § 32-12 annet ledd og punkt
-17.8.2.6.
-Unntak fra regelen om litispendens kan følge av
-spesialregulering. En innsynsbegjæring fra forsvarer skal for eksempel ikke stenge for behandling av en begjæring fra påtalemyndigheten om
-unntak fra rett til innsyn i opplysninger som ikke
-påberopes som bevis i saken, jf. utkastet § 6-11, jf.
-§ 6-8. Lovens forutsetning er at begjæringen fra
-påtalemyndigheten, som vil være rettslig utilgjengelig for andre enn aktørene som deltar i behandlingen, jf. § 6-11 fjerde ledd, må behandles selv om
-spørsmål om innsyn også behandles på annet
-grunnlag.
-At det pågår straffesak i utlandet, er ikke til
-hinder for parallellbehandling av samme forhold
-i Norge. Påtalemyndigheten skal imidlertid ta
-hensyn til den utenlandske forfølgningen ved
-vurderingen av om nasjonal forfølgning er i det
-offentliges interesse, jf. utkastet § 28-2 annet
-ledd.
-Utsettelse i påvente av behandling i «høyere
-instans» etter annet ledd kan være aktuelt ved
-anke over beslutning truffet under hovedforhandlingen, jf. utkastet § 37-2 annet ledd. Rettskraftsvirkningen av beslutninger truffet av overordnet
-domstol følger av utkastets omgjøringsregler, jf.
-§§ 32-16 og 30-4 tredje ledd.
-Utsettelse kan også skje når det kan påregnes
-at et omtvistet forhold av betydning vil bli
-nærmere klarlagt i en «annen sak» for domstolene. Det kreves ikke at spørsmål av betydning blir «avgjort». Utsettelse kan blant annet
-skje i påvente av en sivil sak dersom forhold med
-prejudisiell betydning for straffesaken vil få sin
-avklaring der. Ved vurderingen av om utsettelse
-skal skje, skal det særlig tas hensyn til om det er
-grunn til å anta at avgjørelsesgrunnlaget vil bli
-styrket ved å avvente utfallet i en annen sak. Kan
-det ikke oppnås et forsvarlig avgjørelsesgrunnlag uten utsettelse, vil retten etter omstendighetene ha plikt til å beslutte utsettelse.
-Bestemmelsen gjelder bare utsettelse for å
-avvente utfallet av en «sak for domstolene» og
-omfatter ikke saker som behandles av et forvaltningsorgan, utenlandsk domstol mv. Utsettelse i
-påvente av avgjørelse fra et slikt organ kan skje
-etter utkastet § 31-6 om utsettelse av rettsmøter,
-og dersom straffesaken ikke kan bli tilstrekkelig
-opplyst uten at retten kjenner utfallet, må den
+Torgersen (2006): Torgersen, Runar, «Bør adgangen til bevisavskjæring i straffesaker utvides?», i Ole Kristian Fauchald mfl. (red.), *dog Fred er ei det Bedste … Festskrift til Carl August Fleischer*, 2006, s. 533–576.
 
-637
+Torgersen (2009): Torgersen, Runar, *Ulovlig beviserverv og bevisforbud i straffesaker*, 2009.
 
-Kapittel 30
+Torgersen (2011): Torgersen, Runar, «Påtalejuristens rolle, hvordan den har forandret seg de siste 50 år og hva som forventes for fremtiden», *Lov og Rett* nr. 1–2 (2011), s. 42–62.
 
-avvente å treffe avgjørelse, jf. utkastet § 32-1 første
-ledd.
-Avgjørelsen i en annen sak er ikke bindende
-ved avgjørelsen av straffesaken som er utsatt.
-Til § 30-3. Forening av saker
-Se straffeprosessloven §§ 13, 254 annet ledd, 331
-annet ledd og 353.
-Retten avgjør spørsmålet om forening av saker
-etter første ledd. Forutsetningen er imidlertid at
-påtalemyndigheten vurderer behovet for og hensiktsmessigheten av felles behandling og eventuelt sender begjæring om dette til retten. En tiltale
-som omfatter flere forhold, eller som retter seg
-mot flere tiltalte, skal anses som en begjæring om
-forening, og beslutning om forening kan skje ved
-at retten berammer hovedforhandling til behandling av slik tiltalebeslutning. Det samme gjelder
-dersom det berammes rettsmøte til behandling av
-flere enkeltstående rettergangsskritt. I alminnelighet er det ikke behov verken for ytterligere
-begrunnelse eller formalisering, med mindre tiltalte eller forsvareren protesterer, jf. utkastet § 32-7
-om begrunnelse og § 32-8 om krav til skriftlighet
-mv. En beslutning om forening kan omgjøres etter
-utkastet § 32-16 første ledd.
-Hvorvidt forening er «hensiktsmessig», må
-avgjøres særlig ut fra hensynet til sakens opplysning og at behandlingen skal være effektiv, konsentrert og forsvarlig, jf. utkastet § 30-1 første
-ledd. Vil forening kunne medføre forsinkelse av
-betydning for enkelte av sakene, kan det tale for
-oppdeling.
-Uttrykket «berørte interesser» tar særlig sikte
-på tiltaltes interesse i samlet behandling, men det
-må etter omstendighetene også tas hensyn til
-belastningen for vitner og andre, for eksempel dersom forening medfører lang reisevei til rettsstedet.
-Annet ledd gjelder adgangen til forening gjennom utvidelse med «nye straffbare forhold» etter
-påbegynt hovedforhandling. Ubetenkelighetsvilkåret i annet ledd annet punktum skal forstås i
-lys av at slik behandling innebærer at bevisbedømmelsen under skyldspørsmålet kun vil bli
-behandlet i én instans. Endringer av tiltalen
-innenfor samme forhold kan skje etter utkastet
-§ 29-7 første ledd.
-Til § 30-4. Oppdeling av forhandlingene eller
-avgjørelsen
-Se straffeprosessloven §§ 285 til 288.
-Første ledd første punktum gir hjemmel for å
-fravike rekkefølgen av de ulike trinn i hovedfor-
+Torgersen (2012): Torgersen, Runar, «Noen ord om formalisering, individualisering og tolking av henleggelsesbeslutninger», *Kritisk Juss*, nr. 3/4 (2012), s. 204–222.
 
-[Side 640]
+Trechsel (2006): Trechsel, Stefan, *Human Rights in* *Criminal Proceedings*, 2006.
 
-638
+Uggerud (1998): Uggerud, Ken, *Erstatning etter straffeforfølgelse*, 1998.
 
-Kapittel 30
+Wigmore (1940): Wigmore, John H., *A treatise on the Anglo-American system of evidence in trials at common law, including the statutes and judicial decisions of all jurisdictions of the United States and Canada*, 1940.
 
-NOU 2016: 24
-Ny straffeprosesslov
+Øyen (2010): Øyen, Ørnulf, *Vernet mot selvinkriminering i straffeprosessen*, 2010.
 
-handlingen som følger av kapittel 35. Se til sammenligning tvisteloven § 16-1. For enkeltstående
-rettergangsskritt stiller ikke loven krav til noen
-bestemt rekkefølge ved muntlig behandling, og
-retten står da følgelig fritt til å legge opp forhandlingene slik den finner det hensiktsmessig.
-Adgangen til å avgjøre enkelte forhold for seg
-etter første ledd annet punktum forutsetter at retten har et forsvarlig avgjørelsesgrunnlag, jf. utkastet § 32-1 første ledd.
-Annet ledd første punktum åpner for at
-behandlingen kan konsentreres om ett eller flere
-bestemte spørsmål, for eksempel om saken skal
-avvises, om forholdet i tiltalen er foreldet, om tiltalte skal frifinnes på grunn av utilregnelighet mv.
-Når det er forhandlet særskilt om ett eller flere
-spørsmål, kan retten frifinne tiltalte dersom det er
-grunnlag for det, jf. annet ledd annet punktum:
-«Dersom saken etter slike forhandlinger ikke
-avgjøres etter § 32-1 […]». Retten kan også avstå
-fra å treffe noen avgjørelse og fortsette forhandlingene om de øvrige spørsmål saken reiser. Om
-adgangen til å treffe særskilt beslutning etter
-annet ledd annet punktum, bestemmelsen i tredje
-ledd om omgjøring av slik beslutning og adgangen
-til anke, vises det til punkt 17.2.
-Til kapittel 31. Rettsmøter
-Til § 31-1. Behandling i rettsmøte. Fjernmøte
-Se straffeprosessloven §§ 93 c annet ledd, 248
-fjerde ledd og 185 fjerde ledd tredje punktum flg.
-Første ledd innebærer, sammenholdt med
-utkastet § 32-4 om det faktiske grunnlaget for
-rettens avgjørelser, at det med mindre annet er
-bestemt, er opp til retten hvorvidt avgjørelser skal
-treffes etter skriftlig eller muntlig behandling. Se
-til sammenligning tvisteloven § 13-1 første ledd.
-Krav om muntlig behandling følger blant annet
-av utkastet kapittel 35 om hovedforhandling,
-kapittel 36 om forenklet behandling og § 15-15 om
-rettens behandling av påtalemyndighetens begjæring om fengsling.
-Når muntlig behandling ikke er obligatorisk,
-skal valg av behandlingsform bero på hva som er
-hensiktsmessig og forsvarlig i det enkelte tilfellet.
-Avgjørelsens betydning for partene og deres syn
-på behandlingsmåten skal tas i betraktning.
-Første ledd gir hjemmel for å beramme hovedforhandling før tiltale, såkalt forhåndsberamming,
-forutsatt at dette er begjært av påtalemyndigheten, jf. utkastet § 5-1 første ledd første punktum.
-Ved påtalemyndighetens oversendelse av tiltalen
-etter utkastet § 34-1 er saken brakt inn for domstolene, og lagmannsretten kan fra dette tidspunkt
+Øyen (2012): Øyen, Ørnulf, «Bortfall av retten til krysseksaminasjon som følge av tiltaltes opptreden, omdømme eller miljøtilhørighet: – rettstilstanden etter storkammersaken Al-Khawaja og Tahery mot Storbritannia», *Tidsskrift for strafferett*, nr.2 (2012), s. 166–184.
 
-forhåndsberamme ankeforhandling uten særskilt
-begjæring fra påtalemyndigheten. Forhåndsberamming kan imidlertid reise enkelte prinsipielle
-spørsmål, og det kan være grunn til å utvise en
-viss varsomhet med å benytte adgangen, se punkt
-18.1.10.
-Annet ledd gjør unntak fra den foreslåtte regelen
-i domstolloven § 122 a om fjernavhør og fjernmøte
-og innebærer et krav om at mistenkte skal være
-fysisk til stede i visse rettsmøter, eller at
-mistenktes deltakelse ved fjernmøte bare kan skje
-på nærmere vilkår. Annet ledd bokstav a innebærer at mistenkte ikke kan ta del i rettsmøte om
-førstegangsfengling ved fjernmøte. Annet ledd
-bokstav b begrenser adgangen til å benytte fjernmøte ved fengslingsforlengelse. Hvorvidt det er
-«ubetenkelig» å gjennomføre hovedforhandling
-mv. uten at tiltalte er fysisk til stede, jf. annet ledd
-bokstav c, må vurderes konkret. Kriteriet er
-strengt, og under hoved- og ankeforhandling kan
-det bare bli tale om å la tiltalte ta del i forhandlingene via fjernmøte dersom saken er enkel og
-oversiktlig. Det er i alle tilfeller et vilkår at tiltalte
-samtykker. Annet ledd gjelder kun mistenktes deltakelse. For øvrige aktører reguleres adgangen til
-deltakelse gjennom fjernmøte av den foreslåtte
-bestemmelsen i domstolloven § 122 a. Når
-mistenkte tar del i rettsmøte ved bruk av fjernmøteteknikk, er det en forutsetning at forsvareren
-som hovedregel skal være fysisk til stede sammen
-med mistenkte, og mistenkte og forsvarer skal i
-alle tilfeller gis mulighet til å kommunisere fortrolig og uforstyrret, jf. utkastet § 3-7 annet ledd
-bokstav b. Se for øvrig merknadene til den foreslåtte bestemmelsen i domstolloven § 122 a. Om
-bakgrunnen for forslaget vises det til punkt 6.4.5.3.
-Tredje ledd svarer til straffeprosessloven § 93 c
-annet ledd. Reguleringen i forskrift 12. august
-2011 nr. 835 om fjernmøter og fjernavhør i straffesaker § 4 er dekket av den generelle reguleringen i utkastet. Det antas således ikke å være
-behov for en egen hjemmel for nærmere forskriftsregulering.
-Til § 31-2. Innkalling til og varsling om rettsmøte
-Se straffeprosessloven §§ 84 annet ledd, 86, 87, 93
-b, 93 e annet ledd siste punktum, 107 c annet ledd
-første punktum, 185 femte ledd annet punktum,
-243, 248 sjette ledd, 271 annet ledd, 275 fjerde og
-femte ledd, 334 og 335.
-Etter bestemmelsen er ansvaret for innkalling
-til og varsling om rettsmøter prinsipielt lagt til retten. Retten kan imidlertid overlate gjennomføringen til påtalemyndigheten, jf. femte ledd.
+Øyen (2015a): Øyen, Ørnulf, «Behovet for lyd- og bildeopptak av rettsmøtene i straffesaker, og Justisdepartementets passive holdning», *Lov og Rett* nr. 2 (2015), s. 63–64.
+
+Øyen (2015b): Øyen, Ørnulf, «Rettens kontroll med bevisføringens omfang i straffesaker», I: Ragna Aarli mfl. *Bevis i straffesaker* (2015b) s.153–193.
+
+Øyen (2016a): Øyen, Ørnulf, «Høyesterett og vernet mot selvinkriminering; Særlig om politiets plikt til å gjøre mistenkte kjent med retten til taushet», *Rettsavklaring og rettsutvikling: Festskrift til Tore Schei på 70-årsdagen* *19. februar 2016* Magnus Matningsdal mfl. (red.), Oslo 2016, s. 316–344.
+
+Øyen (2016b): Øyen, Ørnulf, *Straffeprosess*, 2016.
+
+Forarbeider
+
+Forarbeide til 1887–lov *Dokument No. 1*
+
+*Udkast til Lov om Rettergangsmaaden i Straffesager med Motiver. Af en af den Kgl. Norske Regjerings Justis og Politidepartement i Henhold til Kgl. Resol. Af 31te Oktober 1885 nedsat Komite (1886), Specielle motiver*
+
+NOU 1980: 28 *Varetektsfengsling.*
+
+NOU 1984: 27 *Ny påtaleinstruks.*
+
+NOU 1988: 25 *Ny militær straffeprosesslov m.v.*
+
+NOU 1992: 16 *Sterkere vern og økt støtte for kriminalitetsofre.*
+
+NOU 1992: 23 *Ny straffelov – alminnelige bestemmelser. Straffelovkommisjonens delutredning V.*
+
+NOU 1992: 28 *To-instansbehandling, anke og juryordning i straffesaker.*
+
+NOU 1993: 3 *Strafferettslige regler i terroristbekjempelsen.*
+
+NOU 1996: 15 *Liland-saken.*
+
+NOU 1996: 18 *Erstatning i anledning strafforfølgning*.
+
+NOU 1997: 15 *Etterforskingsmetoder for bekjempelse av kriminalitet. Delutredning* II.
+
+NOU 2000: 33 *Erstatning til ofrene hvor tiltalte frifinnes for straff.*
+
+NOU 2001: 12 *Rettsmedisinsk sakkyndighet i straffesaker.*
+
+NOU 2001: 32 A *Rett på sak Lov om tvisteløsning (tvisteloven)*.
+
+NOU 2001: 32 B *Rett på sak. Lov om tvisteløsning (tvisteloven)*.
+
+NOU 2002: 4 *Ny straffelov. Straffelovkommisjonens delutredning VII.*
+
+NOU 2002: 11 *«Dømmes av likemenn». Lekdommere i norske domstoler.*
+
+NOU 2003: 12 *Ny konkurranselov.*
+
+NOU 2003: 15 *Fra bot til bedring. Et mer nyansert og effektivt sanksjonssystem med mindre bruk av straff.*
+
+NOU 2003: 21 *Kriminalitetsbekjempelse og personvern. Politiets og påtalemyndighetens behandling av opplysninger.*
+
+NOU 2004: 6 *Mellom effektivitet og personvern. Politimetoder i forebyggende øyemed.*
+
+NOU 2006: 10 *Fornærmede i straffeprosessen – nytt perspektiv og nye rettigheter.*
+
+NOU 2007: 7 *Fritz Moen og norsk strafferettspleie*.
+
+NOU 2009: 15 *Skjult informasjon – åpen kontroll. Metodekontrollutvalgets evaluering av lovgivningen om politiets bruk av skjulte tvangsmidler og behandling av informasjon i straffesaker.*
+
+NOU 2011: 13 *Juryutvalget – Når sant skal skrives.*
+
+NOU 2013: 9 *Ett politi – rustet til å møte fremtidens utfordringer. Politianalysen.*
+
+NOU 2014: 10 *Skyldevne, sakkyndighet og samfunnsvern.*
+
+NOU 2015: 3 *Advokaten i samfunnet. Lov om advokater og andre som yter rettslig bistand.*
+
+NOU 2015: 13 *Digital sårbarhet – sikkert samfunn. Beskytte enkeltmennesker og samfunn i en digitalisert verden.*
+
+NOU 2016: 9 *Rettferdig og forutsigbar – voldsskadeerstatning.*
+
+Ot.prp. nr. 23 (1961–62) *Om lov om tillegg til rettergangslovgivningen når det gjelder folkerettslig immunitet.*
+
+Ot.prp. nr. 39 (1961–62) *Om lov om endring i reglene om pågriping og fengsling m.v.*
+
+Ot.prp. nr. 30 (1974–75) *Om 1) lov om utlevering av lovbrytere og annen rettshjelp i straffesaker 2) lov om endringer i lov 3 mars 1961 nr. 1 om utlevering av lovbrytere til Danmark, Finland, Island og Sverige.*
+
+Ot.prp. nr. 35 (1978–79) *Om lov om rettergangsmåten i straffesaker (straffesakloven).*
+
+Ot.prp. nr. 63 (1980–81) *Om lov om endringer i straffeprosessloven (advokathjelp til fornærmede i voldtektsaker).*
+
+Ot.prp. nr. 53 (1983–84) *Om lov om ikraftsetting og endring av den nye straffeprosessloven m m.*
+
+Ot.prp. nr. 79 (1988–89) *Om endringer i straffeloven og straffeprosessloven m.m (skjerpete strafferammer for voldsforbrytelser, straff for innførsel av pornografi, styrking av domstolenes fagkyndighet i saker om økonomisk kriminalitet, raskere behandling av straffesaker m.m).*
+
+Ot.prp. nr. 27 (1990–91) *Om lov om endringer i straffeloven m.m. (straffansvar for foretak).*
+
+Ot.prp. nr. 47 (1990–91) *Om lov om overføring av domfelte m.m.*
+
+Ot.prp. nr. 40 (1991–92) *Om lov om endringer i straffeprosessloven (telefonavlytting i narkotikasaker).*
+
+Ot.prp. nr. 78 (1992–93) *Om lov om endringer i straffeprosessloven m.v (to-instansbehandling, anke og juryordning).*
+
+Ot.prp. nr. 33 (1993–94) *Om lov om endringer i straffeprosessloven mv (styrking av kriminalitetsofres stilling).*
+
+Ot.prp. nr. 43 (1993–94) *Om lov om endringer i straffeprosessloven m.v (rettergangsmåten i militære straffesaker).*
+
+Ot.prp. nr. 45 (1993–94) *Om lov om enkelte endringer i rettergangslovgivningen.*
+
+Ot.prp. nr. 87 (1993–94) *Om lov om endringer i straffeloven m.v (strafferettslige utilregnelighetsregler og særreaksjoner).*
+
+Ot.prp. nr.4 (1994–95) *Om lov om endringer i straffeloven m.m.*.
+
+Ot.prp. nr. 55 (1997–98) *Om lov om endringer i rettergangslovene m.m (kildevern og offentlighet i rettspleien).*
+
+Ot.prp. nr. 8 (1998–99) *Om lov om endringer i straffeloven og straffeprosessloven mv (inndragning av utbytte).*
+
+Ot.prp. nr. 56 (1998–99) *Om lov om Schengen informasjonssystem (SIS) og lov om endringer i utlendingsloven.*
+
+Ot.prp. nr. 64 (1998–99) *Om lov om endringer i straffeprosessloven og straffeloven m v (etterforskningsmetoder m v).*
+
+Ot.prp. nr. 92 (1998–99) *Om lov om behandling av personopplysninger (personopplysningsloven).*
+
+Ot.prp. nr. 81 (1999–2000) *Om lov om endringer i straffeloven og straffeprosessloven (bruken av varetektsfengsling mv.).*
+
+Ot.prp. nr. 82 (1999–2000) *Om lov om elektronisk signatur.*
+
+Ot.prp. nr. 5 (2000–2001) *Om lov om gjennomføring av straff mv. (straffegjennomføringsloven).*
+
+Ot.prp. nr. 18 (2000–2001) *Om lov om endringer i straffeprosessloven og domstolloven mv. (forkynnelse av dommer og enkelte justeringer i to-instansreglene mv.).*
+
+Ot.prp. nr. 44 (2000–2001) *Om lov om endringer i domstolloven m.m. (den sentrale domstoladministrasjon og dommernes arbeidsrettslige stilling).*
+
+Ot.prp. nr. 70 (2000–2001) *Om lov om endringer i straffeprosessloven mv. (gjenopptakelse).*
+
+Ot.prp. nr. 26 (2001–2002) *Om lov om endringer i smittevernloven og i enkelte andre lover.*
+
+Ot.prp. nr. 61 (2001–2002) *Om lov om endringer i straffeloven og straffeprosessloven mv. (lovtiltak mot terrorisme – gjennomføring av FN-konvensjonen 9. desember 1999 om bekjempelse av finansiering av terrorisme og FNs sikkerhetsråds resolusjon 1373 28. september 2001).*
+
+Ot.prp. nr. 66 (2001–2002) *Om lov om endringer i straffeprosessloven mv. (hurtigere straffesaksbehandling, varetektsfengsling i isolasjon mv.).*
+
+Ot.prp. nr.77 (2001–2002) *Om lov om endringer i straffeprosessloven mv. (erstatning etter strafforfølgning).*
+
+Ot.prp. nr. 8 (2002–2003) *Om lov om endringer i rettergangslovgivningen mv. (elektronisk kommunikasjon med domstolene mv.).*
+
+Ot.prp. nr. 24 (2002–2003) *Om lov om endringer i straffeprosessloven mv. (begrensninger i adgangen til dokumentinnsyn og bevisførsel).*
+
+Ot.prp. nr. 62 (2002–2003) *Om lov om endringer i straffeloven og straffeprosessloven mv. (lovtiltak mot organisert kriminalitet og menneskehandel, gjengangerstraff mv.).*
+
+Ot.prp. nr. 59 (2003–2004) *Om endringer i straffeloven, straffeprosessloven og sjøloven mv. (fast promillegrense og avholdspliktregler for større skip, et eget straffebud mot tortur, forklaringsplikt for ansatte i finansinstitusjoner mv.).*
+
+Ot.prp. nr. 90 (2003–2004) *Om lov om straff (straffeloven)*.
+
+Ot.prp. nr. 51 (2004–2005) *Om lov om mekling og rettergang i sivile tvister (tvisteloven).*
+
+Ot.prp. nr. 60 (2004–2005) *Om lov om endringer i straffeprosessloven og politiloven (romavlytting og bruk av tvangsmidler for å forhindre alvorlig kriminalitet).*
+
+Ot.prp. nr. 81 (2004–2005) *Om lov om endringer i straffeloven (prøveordning med narkotikaprogram med domstolskontroll).*
+
+Ot.prp. nr. 90 (2004–2005) *Om lov om endringar i menneskerettslova (inkorporasjon av protokoll nr. 13 og 14 til den europeiske menneskerettskonvensjon).*
+
+Ot.prp. nr. 27 (2005–2006) *A) Om lov om oppløsning av stamhuset Ekeberg B) Om lov om endringer i lov 13. august 1915 nr. 5 om domstoler (domstolloven) og enkelte andre lover.*
+
+Ot.prp. nr. 53 (2005–2006) *Om lov om endringer i straffeloven 1902 og utleveringsloven (gjennomføring av FN-konvensjonen mot korrupsjon).*
+
+Ot.prp. nr. 54 (2005–2006) *Om lov om endringar i straffeprosesslova m.m. (sakshandsaminga i Kommisjonen for gjenopptaking av straffesaker m.m.).*
+
+Ot.prp. nr. 74 (2005–2006) *Om lov om endringer i tvisteloven (endringer i straffeprosessloven og andre lover).*
+
+Ot.prp. nr. 76 (2006–2007) *Om lov om endringar i straffeprosessloven (avgrensa dokumentinnsyn og provføring).*
+
+Ot.prp. nr. 6 (2007–2008) *Om lov om endringar i straffeprosessloven og tvisteloven m.m.*
+
+Ot.prp. nr. 8 (2007–2008) *Om lov om endringer i straffeloven 20. mai 2005 nr. 28 mv. (skjerpende og formildende omstendigheter, folkemord, rikets selvstendighet, terrorhandlinger, ro, orden og sikkerhet, og offentlig myndighet).*
+
+Ot.prp. nr. 11 (2007–2008) *Om lov om endringer i straffeprosessloven mv. (styrket stilling for fornærmede og etterlatte).*
+
+Ot.prp. nr. 34 (2007–2008) *Om lov om endringer i straffeprosessloven mv. (overføring av kompetanse til å innkalle til soning og behandle søknader om soningsutsettelse).*
+
+Ot.prp. nr. 13 (2008–2009) *Om lov om endringar i straffeprosessloven mv. (tingretten si handsaming av saker om ikkje vedtekne førelegg mv.).*
+
+Ot.prp. nr. 22 (2008–2009) *Om lov om endringer i straffeloven 20. mai 2005 nr. 28 (siste delproposisjon – sluttføring av spesiell del og tilpasning av annen lovgivning).*
+
+Ot.prp. nr. 108 (2008–2009) *Om lov om behandling av opplysninger i politiet og påtalemyndigheten (politiregisterloven).*
+
+Prop. 141 L (2009–2010) *Endringer i straffeprosessloven mv.*
+
+Prop. 151 L (2009–2010) *Endringar i forvaltningslova og straffegjennomføringslova (behandling av personopplysningar i kriminalomsorga, innsyn i benådingssaker o.a.).*
+
+Prop. 135 L (2010–2011) *Endringer i straffeloven, straffeprosessloven, straffegjennomføringsloven, konfliktrådsloven m.fl. (barn og straff).*
+
+Prop. 97 LS (2011–2012) *Endringer i utleveringsloven m.m. og samtykke til ratifikasjon av Avtale 19. desember 2003 mellom Den europeiske union og Republikken Island og Kongeriket Norge og Annen tilleggsprotokoll 8. november 2001 til Den europeiske konvensjon om gjensidig hjelp i straffesaker.*
+
+Prop. 71 L (2012–2013) *Endringer i straffeprosessloven mv. (elektronisk kontroll som varetektssurrogat mv.).*
+
+Prop. 92 L (2012–2013) *Endringar i straffegjennomføringsloven mv.*
+
+Prop. 114 L (2012–2013) *Endringer i politiregisterloven mv.*
+
+Prop. 147 L (2012–2013) *Endringer i straffeprosessloven mv. (behandling og beskyttelse av informasjon).*
+
+Prop.169 L (2012–2013) *Endring i straffeprosessloven*
+
+Prop. 120 L (2013–2014) *Endringer i straffegjennomføringsloven mv. (Infoflyt-systemet mv.).*
+
+Prop. 61 LS (2014–2015) *Endringer i politiloven mv. (trygghet i hverdagen – nærpolitireformen).*
+
+Prop. 64 L (2014–2015) *Lov om ikraftsetting av straffeloven 2005 (straffelovens ikraftsettingslov).*
+
+Prop. 112 L (2014–2015) *Endringer i straffeprosessloven (avhør av barn og andre særlig sårbare fornærmede og vitner).*
+
+Prop. 37 L (2015–2016) *Endringer i konkurranseloven (Konkurranseklagenemnda, kartellforlik mm.).*
+
+Prop. 42 L (2015–2016) *Endringer i straffeloven og straffeprosessloven (personforfølgelse, forberedelse til tvangsekteskap mv.).*
+
+Prop. 44 L (2015–2016) *Endringer i straffeloven mv. (militær virksomhet i væpnet konflikt m.m.).*
+
+Prop. 62 L (2015–2016) *Endringer i forvaltningsloven mv. (administrative sanksjoner mv.).*
+
+Prop. 68 L (2015–2016) *Endringer i straffeprosessloven mv. (skjulte tvangsmidler).*
+
+Prop. 1 S (2015–2016) *For budsjettåret 2016.*
+
+Prop. 1 S (2016–2017) *For budsjettåret 2017.*
+
+Innst.O. nr. 37 (1980–1981) *Om rettergangsmåten i straffesaker (Straffeprosessloven).*
+
+Innst.O. nr. 72 (1984–1985) *Om ikraftsetting og endring av den nye straffeprosesslova m.m..*
+
+Innst.O. nr. 65 (1994–1995) *Innstilling fra justiskomiteen om lov om endringer i straffeloven, veitrafikkloven og straffeprosessloven*.
+
+Innst.O. nr. 3 (1999–2000) *Innstilling fra justiskomiteen om lov om endringer i straffeprosessloven og straffeloven m.v. (etterforskningsmetoder m.v.).*
+
+Innst.O. nr. 21 (2002–2003) *Endringer i straffeprosessloven mv. (erstatning etter strafforfølgning).*
+
+Innst. 300 S (2010–2011) *Innstilling fra justiskomiteen om kampen mot organisert kriminalitet – en felles innsats.*
+
+Innst. 268 L (2012–2013) *Innstilling fra justiskomiteen om endringer i straffeprosessloven mv. (elektronisk kontroll som varetektssurrogat mv.).*
+
+St.meld. nr. 42 (2004–2005) *Politiets rolle og oppgaver.*
+
+Rapporter og utredninger
+
+Advokatforeningen mfl. (2014a): Anders Ryssdal mfl., *Kunnskapskløft og kommunikasjonsbehov. Utredning fra et utvalg nedsatt av Advokatforeningen, Den norske Dommerforening, riksadvokaten og Regjeringsadvokaten for utarbeidelse av retningslinjer for sakkyndigarbeid i domstolene*, rapport med retningslinjer avgitt til Advokatforeningen, Den norske Dommerforening, Riksadvokatembetet og Regjeringsadvokaten 06.10.14.
+
+Den norske Dommerforening (2005): *Dommerstyring av straffesaker – god praksis for rask avvikling.*
+
+Direktoratet for forvaltning og IKT (2012): *Uavhengig eller bare uavklart? Organisering av statlig myndighetsutøvelse,* Difi–rapport 2012:7.
+
+Domstoladministrasjonen (2005): Domstoladministrasjonen, LOK-prosjektet, delrapport nr. 6 *Aktiv saksstyring og saksavvikling i straffesaker*.
+
+Domstoladministrasjonen (2009a): Yngve Svendsen mfl., *Forstudie: Lyd- / bildeopptak fra parts- og vitneforklaringer i retten*, rapport avgitt til Domstoladministrasjonen 29.06.09.
+
+Domstoladministrasjonen (2009b): Domstoladministrasjonens regelutvalg, *rapport nr. 3.*
+
+Domstoladministrasjonen (2010): Domstoladministrasjonens regelutvalg, *rapport nr. 4.*
+
+Domstoladministrasjonen (2011): Monica Hansen Nylund mfl., *Ressurs- og tidsbruk i omfattende straffesaker,* rapport avgitt til Domstoladministrasjonen 23.12.11.
+
+Domstoladministrasjonen (2015a): Eirik Akerlie mfl., *Reformer i andre instans,* rapport avgitt til Domstoladministrasjonen 01.07.15.
+
+Domstoladministrasjonen (2015b): Yngve Svendsen mfl., *Opptak i retten. Fornyet gjennomgang av Domstoladministrasjonens forslag om opptak av parts- og vitneforklaringer i retten,* rapport avgitt Domstoladministrasjonen 28.01.15.
+
+J.P. Rui (2015): Jon Petter Rui, *Betenkning: Sivilrettslig inndragning rettet direkte mot formuesgoder,* 31.07.15.
+
+Justis- og politidepartementet (2000a): Hans Petter Jahre mfl., *Prosjekt hurtigere straffesaksbehandling – Arbeidsgruppe I*, rapport avgitt til Justis- og beredskapsdepartementet 20.06.00.
+
+Justis- og politidepartementet (2000b): Jan Martin Flod mfl., *Prosjekt hurtigere straffesaksbehandling – arbeidsgruppe II*, rapport avgitt til Justis– og politidepartementet 26.06.00.
+
+Justis- og politidepartementet (2001): Richard H. Knoff, *Lyd på lager. Evaluering av prøveordningen med lydopptak i straffesaker*, rapport avgitt til Justis- og beredskapsdepartementet 01.08.01.
+
+Justis- og politidepartementet (2005): Kristian Jahr mfl. *Rett til tolk. Tolking og oversettelse i norsk straffeprosess*, rapport avgitt til Justis- og beredskapsdepartementet 14.03.05.
+
+Justis- og beredskapsdepartementet (2012): Ulf Stridbeck mfl., *Etterkontroll av kommisjonen for gjenopptakelse av straffesaker. Rapport fra arbeidsgruppe for etterkontroll av Gjenopptakelseskommisjonen,* rapport avgitt til Justis- og beredskapsdepartementet 15.06.12.
+
+Justis- og beredskapsdepartementet (2013) *Evaluering av tvisteloven*, rapport 04.07.13.
+
+Justis- og beredskapsdepartementet (2014): Tron Løkken Sundet, *Ny domstollov*, enmannsutredning avgitt til Justis- og beredskapsdepartementet 31.10.14.
+
+Justis- og beredskapsdepartementet (2015): Morten Ruud, *Gjennomgang av ordningen med Generaladvokat og krigsadvokater \[«Generaladvokatutredningen»\],* rapport avgitt til Justis- og beredskapsdepartementet 01.10.15.
+
+Oslo tingrett, Anne Margrethe Lund mfl., *Bistandsadvokatprosjektet i Oslo tingrett 2012–2013*, rapport avgitt til Oslo tingrett 06.01.14.
+
+Politidirektoratet (2012): *Tilsyn ved Økokrim 6.–8. desember 2011,* rapport 02.03.12.
+
+Politidirektoratet (2015): *Digitale aktoraters evalueringsrapport av 30. juni 2015.*
+
+Politidirektoratet/riksadvokaten (31.05.16): *Handlingsplan for løft av etterforskningsfeltet 1.0.*
+
+Riksadvokaten (2010): Geir Fornebo mfl., *Mål og arbeidsoppgaver i den høyere påtalemyndighet. Rapport fra arbeidsgruppe*. Rapport avgitt til riksadvokaten mai 2010.
+
+Riksadvokaten (2016): *Rapport om «Monika–saken» – enkelte tilrådninger og pålegg*, 26.01.06.
+
+Riksrevisjonen (2012): *Riksrevisjonens undersøkelse av IKT-forvaltningen i straffesakskjeden, Dokument 3:12 (2011–2012)*, 31.06.12.
+
+Spesialenheten for politisaker (2011): *Årsrapport for 2011*.
+
+Straffeprosesslovkomitéen (1969): Komitéen til revisjon av straffeprosessloven oppnevnt ved Kronprinsregentens resolusjon av 1. februar 1957, *Innstilling om Rettergangsmåten i straffesaker*, 01.06.69.
+
+Vista Analyse (2016): *Evaluering av soning med fotlenke*. Rapport 2016/02.
+
+Retningslinjer og rundskriv
+
+CPT standards (2015): *European Committee for the Prevention of Torture and Inhuman or Degrading Treatment or Punishment (CPT) 2015*. Rapport for 2015, tilgjengelig på http://www.cpt.coe.int/en/documents/eng-standards.pdf \[sist sjekket 10.10.16\]
+
+Danmarks domstole (2014): Præsidenterne for Veste og Østre Landsret, Danmarks domstole, *Vejledende takster pr. 1. oktober 2014 for salærer til forsvarere i straffesager, bi-standsadvokater samt til beskikkede advokater i ægteskabs-, forældreansvars- og bør-nefjernelsessager*, 2014, tilgjengelig på https://www.domstol.dk/oestrelandsret/Taksterogsalaeer/Documents/Vejledende%20takster%20forsvarere%20mfl%20%20straffesager%20okt%202014.pdf \[sist sjekket 10.10.16\]
+
+Justis- og politidepartementet, rundskriv G-50/1980
+
+Justis- og politidepartementet, rundskriv G 19/2001 *Internasjonalt rettslig samarbeid i straffesaker.*
+
+Justis- og politidepartementet, rundskriv G-22/2001 *Om offentlighet i rettspleien.*
+
+Justis- og politidepartementet, rundskriv G-13/2003–4 *Retningslinjer for personundersøkelse i straffesaker.*
+
+Oslo tingrett (2014): *Beslag – oppbevaring og utlevering. Retningslinjer for oppbevaring og utlevering av beslag.* 26.06.14.
+
+Riksadvokaten (1/1981): Rundskriv Del II nr. 1/1981 *Meddelelser til offentligheten om straffesaker. Opplysninger om etterforskning, påtaleavgjørelser m.v.*
+
+Riksadvokaten (3/1999): Rundskriv Del II nr. 3/1999 *Etterforsking.*
+
+Riksadvokaten (2/2000): Rundskriv nr. 2/2000 *Vederlag til politiets kilder og provokasjon som etterforskingsmetode.*
+
+Riksadvokaten (5/2004): Rundskriv 5/2004 *Saknetmeldinger – etterforsking.*
+
+Riksadvokaten (3/2006): Rundskriv nr. 3/2006 *Etterforsking av saker mot ansatte i politiet og påtalemyndigheten – Spesialenheten for politisaker.*
+
+Riksadvokaten (4/2006): Rundskriv nr. 4/2006 *Varetekt.*
+
+Riksadvokaten (02.07.07): Riksadvokaten, brev til politimestrene og statsadvokatene: *Fritz Moen – granskingsutvalgets rapport (NOU 2007: 7) – politiets og påtalemyndighetens oppfølging*.
+
+Riksadvokaten (3/2007): Rundskriv nr. 3/2007 *Tilståelsesrabatt.*
+
+Riksadvokaten (3/2008): Rundskriv nr. 3/2008 *Familievold.*
+
+Riksadvokaten (16.10.09): Retningslinjer, *Lyd- og bildeopptak av* politiforklaringer, 16. oktober 2009.
+
+Riksadvokaten (1/2010): Rundskriv nr.1/2010 *Mål og prioriteringer for straffesaksbehandlingen i politiet – 2010.*
+
+Riksadvokaten (08.11.13): Riksadvokaten, brev til statsadvokatene og politimestrene: *Politiets og påtalemyndighetenes behandling av voldtektssaker - oppfølging av Regjeringens handlingsplan mot voldtekt 2012-2014 - direktiver og anbefalinger*.
+
+Riksadvokaten (1/2015): Rundskriv nr. 1/2015 *Mål og prioriteringer for straffesaksbehandlingen i 2015 – politiet og statsadvokatene.*
+
+Riksadvokaten (2/2015): Rundskriv nr. 2/2015 *Ny straffelov.*
+
+Riksadvokaten (30.03.15): Riksadvokaten, brev til statsadvokatembetene, politimestrene og sjefen for Kripos: *Direktiv om bruk av etterforskningsplaner - utvidelse*.
+
+Riksadvokaten (12.05.15): Riksadvokaten, brev til Justis- og beredskapsdepartementet: *Straffesaksbehandlingen i politiet - første tertial 2015*.
+
+Riksadvokaten (1/2016): Rundskriv nr. 1/2016 *Mål og prioriteringer for straffesaksbehandlingen i 2016 – politiet og statsadvokatene.*
+
+Riksadvokaten (2/2016): Rundskriv nr. 2/2016 *Politiavhør.*
+
+Sveriges domstolar (2016): Sveriges domstolar, *Rättshjälp och taxor 2016*, 2016, tilgjengelig på http://www.domstol.se/Publikationer/Rattshjalp_och_taxor/rattshjalp_och_taxor_2016.pdf \[sist sjekket 10.10.16\].
+
+UNODC (2013): United Nations Office on Drugs and Crime, *United Nations Principles and Guidelines on Access to Legal Aid in Criminal Justice Systems,* 2013, tilgjengelig på https://www.unodc.org/documents/justice-and-prison-reform/UN_principles_and_guidlines_on_access_to_legal_aid.pdf \[sist sjekket 10.10.16\].
+
+Høringsdokumenter
+
+Gjenopptakelseskommisjonen (01.02.13): Høringssvar 1. februar 2013 til *Høring om rapport om etterkontroll av Kommisjonen for gjenopptakelse av straffesaker* 24.oktober 2012.
+
+Høyesteretts kontor (14.12.06): Høringsuttalelse 14. desember 2006 til *Høring – Hurtigere behandling av straffesaker* 28. september 2006.
+
+Justis- og politidepartementet (28.09.06) Høringsnotat 28.september 2006 til *Høring – Hurtigere behandling av straffesaker.*
+
+Justis- og politidepartementet (01.12.10): Høringsbrev 1. desember 2010 til *Høring – etterkontroll av utvidelsen av fremstillingsfristen for fengsling.*
+
+Justis– og beredskapsdepartementet (10.04.15): Høringsnotat 10. april 2015, *Forslag til prøveprosjekt i Oslo for raskere gjennomføring av straffesaker (hurtigspor).*
+
+Riksadvokaten (07.07.10): Riksadvokaten, høringssvar 7. juli 2010 til *Høyring – NOU 2009:15 Skjult informasjon – åpen kontroll. Høyring om Metodekontrollutvalets evaluering av politiet sin bruk av skjulte tvangsmiddel og behandling av informasjon i straffesaker*, 15. desember 2009.
+
+Riksadvokaten (15.03.11): Høringssvar til *Høring – etterkontroll av fremstillingsfristen for fengsling*, 01.12.10.
+
+Riksadvokaten (19.05.14): *Forslag til endringer i reglene om påtalekompetanse ved ikrafttredelse av ny straffelov*, 19. mai 2014. Notat vedlagt Justis- og beredskapsdepartementets høringsbrev *Høring – Forslag til lov om ikraftsetting av straffeloven 2005* 17. juni 2014.
+
+Økokrim (22.12.16): Økokrim, høringssvar 22. desember 2016 til *Høring – Advokatlovutvalgets utredning, NOU 2015: 3 – advokaten i samfunnet*, 13. mai 2015.
+
+Brev og publikasjoner
+
+Advokatforeningen (2012): Advokatforeningens årstale 2012: *Sakkyndighet i rettspleien – hjelp for dommeren eller fare for rettssikkerheten?*
+
+Bjørkholt (01.10.15): Generaladvokat Morten Bjørkholt, brev til Justis- og beredskapsdepartementet.
+
+Dahl (03.01.14): Tidligere generaladvokat Arne Willy Dahl, brev til Justis- og beredskapsdepartementet.
+
+Dahl (11.04.14): Tidligere generaladvokat Arne Willy Dahl, brev til Justis- og beredskapsdepartementet.
+
+Datatilsynet (2012): Datatilsynet, *Strategi for godt personvern i justissektoren mv. – Politi, påtalemyndighet, domstol og kriminalomsorg – offentlige kontrollmyndigheter og utlendingsforvaltningen*, 15.03.12.
+
+Den rettsmedisinske kommisjon, Gruppe for psykiatri, *nyhetsbrev nr. 22*, februar 2016.
+
+Domstoladministrasjonen (2015c): Domstoladministrasjonen, *Fra papir, permer og post til digitale, sømløse rettsprosesser* (brosjyre), tilgjengelig på https://www.domstol.no/globalassets/upload/digdom/digitale-domstoler_web.pdf \[sist sjekket 10.10.16\]
+
+Domstoladministrasjonen (2015d): Domstoladministrasjonen, *Årsstatistikk 2015.*
+
+Etterretningstjenesten (2015): *Etterretningstjenestens vurdering – Fokus 2015.*
+
+European Court of Human Rights (2016): European Court of Human Rights, Public Relations Unit, *Overview1959-2015,* tilgjengelig på http://www.echr.coe.int/Documents/Overview_19592015_ENG.pdf \[sist sjekket 10.10.16\]
+
+Høyesterett (25.05.16): Høyesterett, skriv til riksadvokaten, Den Norske Advokatforening og de faste forsvarerne ved Høyesterett, med kopi til førstelagmennene.
+
+Konkurransetilsynet (01.01.14): Konkurransetilsynet, faktaark, *Amnesti og lempning for avsløring av karteller.*
+
+Kontoret for voldsoffererstatning (2011): *Årsrapport 2011.*
+
+Kontoret for voldsoffererstatning (2015): *Årsrapport 2015*.
+
+Kriminalomsorgen (2014): *Kriminalomsorgens årsstatistikk – 2014.*
+
+Norges nasjonale institusjon for menneskerettigheter, *Årsmelding 2015, Dok. 18 (2015–2016)*.
+
+Qvigstad (28.11.95): Daværende embetsleder ved Eidsvating statsadvokatembeter, førstestatsadvokat Lasse Qvigstad, notat til riksadvokaten, *Intern instruksjonsmyndighet ved statsadvokat- og politimesterembetene*.
+
+SSB (2015): Statistisk sentralbyrå, Søbye, Espen, *Folkemengdens bevegelse 1735–2014. En tabellstudie.*
+
+Statens sivilforvaltning (2014): *Årsrapport 2014.*
+
+Statistisk sentralbyrå (2013): *Statistisk årbok 2013.*
+
+Nettsider
+
+Advokatforeningen (29.05.09): Advokatforeningen, *Retningslinjer for forsvarere*, https://www.advokatforeningen.no/advokatetikk/god-advokatskikk/retningslinjer-for-forsvarere/ \[sist sjekket 10.10.16\].
+
+Domstoladministrasjonen, *Digitale domstoler*, https://www.domstol.no/no/Enkelt-domstol/digitale-domstoler/ \[sist sjekket 10.10.16\].
+
+Regjeringen (2012): *Høring om rapport om etterkontroll av Kommisjonen for gjenopptakelse av straffesaker; Høringssvar* https://www.regjeringen.no/no/dokumenter/horing-om-rapport-om-etterkontroll-av-ko/id705529/
+
+\[sist sjekket 10.10.16\]
+
+SSB (2016a): Statistisk sentralbyrå, *Straffereaksjoner 2014*, 17.02.16, https://www.ssb.no/straff/ \[sist sjekket 10.10.16\].
+
+SSB (2016b): Statistisk sentralbyrå, *Fengslinger, 2014.*, 16.03.16. https://www.ssb.no/sosiale-forhold-og-kriminalitet/statistikker/fengsling/aar/2016-03-16 \[sist sjekket 10.10.16\].
+
+Statistisk sentralbyrå, *Sosiale forhold og kriminalitet: Kriminalitet og rettsvesen*, https://www.ssb.no/sosiale-forhold-og-kriminalitet?de=Kriminalitet+og+rettsvesen \[sist sjekket 10.10.16\].
+
+Universitetet i Bergen (2011), *Om strafferettens funksjonalitet*, 18.11.11, http://www.uib.no/prosjekt/srf/23408/om-strafferettens-funksjonalitet \[sist sjekket 10.10.16\].
+
+Danske forarbeider
+
+Betænkning nr. 1401/2001 *Reform af den civile retspleje I: Instansordningen, byrettens sammensætning og almindelige regler om sagsbehandlingen i første instans. Afgivet af Retsplejerådet.*
+
+Betænkning nr. 1424/2002 *Straffelovrådets betænkning om straffastsættelse og strafferammer*
+
+Betænkning nr. 1485/2006 *Betænkning om forurettedes processuelle retsstilling i straffesager*
+
+Betænkning nr. 1492/2007 *Begrænsning af langvarige sigtelser og varetægtsfængslinger*
+
+Betænkning nr. 1513/2010 *Betænkning om optagelse og protokollering af forklaringer i straffesager. Justitsministeriets Strafferetsplejeudvalg.*
+
+L 168 2005–2006 *Forslag til Lov om ændring af retsplejeloven og forskellige andre love (Politi- og domstolsreform).* 01.03.06.
+
+L 159-2008–2009 *Forslag til lov om ændring af retsplejeloven og udlændingeloven (Videokommunikation ved fristforlængelser og justering af dommernormering).,* 26.02.09.
+
+L 186-2009–2010 *Forslag til Lov om ændring af retsplejeloven og lov om ændring af retsplejeloven (Gengivelse af forklaringer i straffesager og justering af landsdommernormering)* 26.03.10.
+
+Finske forarbeider
+
+RP 85/2008 rd *Regeringens proposition till Riksdagen med förslag till revidering av bestämmelserna om tingsrätternas sammansättning*
+
+Svenske forarbeider
+
+SOU 2001:103 *En modernare rättegång*
+
+SOU 2005:117 *Ett effektivare brottsmålsförfarande – några ytterligare åtgärder*
+
+SOU 2013:17 *Brottmålsprocessen*
+
+Prop. 2004/05:131 *En modernare rättegång – reformering av processen i allmän domstol*
+
+**Lovspeil**

@@ -1,959 +1,400 @@
-# NOU 2016: 24, del 46 av 73 (side 496–505)
+# NOU 2016: 24, del 46 av 69
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/1182afc0-nou-2016-24.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-24/id2517932/
 - Original-PDF: https://www.regjeringen.no/contentassets/6fe1d875248042b4a09b43b85aa46832/no/pdfs/nou201620160024000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 9 tabeller, 1 figur, 52 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 496]
-
-494
-
-NOU 2016: 24
-
-Kapittel 25
-
-Ny straffeprosesslov
-
-lukket fra å få pådømt erstatningskravet i straffesaken og blir henvist til å forfølge sitt krav i sivil
-rettergang, jf. bestemmelsens annet ledd. Det finnes en voldsoffererstatningsordning, administrert
-av Erstatningsnævnet.
-I svensk rett synes spørsmålet om forholdet
-mellom erstatningskrav og straffekrav å være lite
-tematisert, noe som kan henge sammen med at
-beviskravet er strengere når det er aktuelt å
-idømme straff for et forhold, enn når det kun er
-spørsmål om å dømme skadevolder til å betale
-erstatning. Når det sivilrettslige kravet utelukkende bygger på en handling som er straffbar, vil
-beviskravene i praksis bli like.9 Et annet forhold
-som kan forklare dette, er at det er vanligere at
-forsikringsordninger omfatter personskader.10
-Det finnes en voldsoffererstatningsordning, administrert av Brottsoffermyndigheten.11
-
-25.2.3 Utvalgets vurdering
-25.2.3.1
-
-Utgangspunkt – ensrettingsprinsipp
-
-Når en straffesak først er oppe til behandling, er
-det av stor betydning at fornærmede og andre
-skadelidte kan få behandlet sine krav. Samtidig er
-argumentene for et ensrettingsprinsipp tungtveiende. Utvalget mener man bør unngå at avgjørelser som går ut på at mistenkte skal frifinnes for et
-straffekrav, samtidig inneholder argumentasjon
-som leder frem til en konklusjon om sivilrettslig
-skyld for det samme forhold. Den strafferettslige
-frifinnelsen blir i for stor grad utfordret i slike tilfeller, selv om det fremgår av domsbegrunnelsen
-at det gjelder ulike krav til bevis for henholdsvis
-kravet om straff og det sivile kravet, eller ved at de
-faktiske premissene for avgjørelsen gis en utforming som viser at argumentasjonen ikke knytter
-seg til kravet om straff.
-Det å la samme rett behandle sivile krav etter
-frifinnelse for straffekravet gir etter utvalgets syn
-dessuten en viss risiko for at utenforliggende hensyn vektlegges. Det er risiko for at retten frifinner
-for det sivile kravet for å verne om frifinnelsen for
-straffekravet. Det er også risiko for at det sivile
-kravet pådømmes fordi retten mener det – sammenholdt med frifinnelsen for straffekravet –
-totalt sett vil føre til et rimelig resultat, uavhengig
-av en korrekt rettslig bedømmelse av erstatningskravet.
-
-9
-
-NOU 2000: 33 s. 203 og 212.
-NOU 2016: 9 s. 57–58.
-11
-NOU 2016: 9 s. 57–58.
-
-Om og i hvilken utstrekning slike hensyn tas
-bevisst eller ubevisst, kommer ikke til uttrykk i
-den skriftlige begrunnelsen for dommen og lar
-seg vanskelig påvise ved systematiske og empiriske studier. Blant annet lar det seg vanskelig
-redegjøre i detalj for det nærmere innholdet i
-beviskravet som er lagt til grunn for behandlingen
-av det sivile kravet. Ut fra egne erfaringer og samtaler med andre aktører i rettspleien mener utvalget likevel at risikoen for at det tas utenforliggende hensyn, er reell i en slik grad at det bør tas
-i betraktning.
-Et ensrettingsprinsipp får først betydning dersom tiltalte frifinnes for straffekravet. Dersom tiltalte domfelles, er prinsippet uten betydning for
-skadelidtes stilling. Selv om det ikke finnes statistikk som viser hvor mange saker det gjelder, er
-det klart at de langt fleste saker fører til domfellelse. Dessuten er beviskravet strengt også i
-sivile saker som innebærer å legge til grunn et
-belastende faktum. Det skulle tilsi at antall saker
-som resulterer i erstatningsansvar etter frifinnelse, vil være relativt begrenset. Det lar seg etablere kompenserende ordninger for fornærmede i
-sakstyper der prinsippet må antas å kunne få praktisk betydning av et visst omfang, se nedenfor i
-punkt 25.2.3.2.
-På denne bakgrunn mener utvalget at det bør
-innføres et absolutt ensrettingsprinsipp for den
-enkelte straffesak; det bør ikke være adgang til å
-pådømme et sivilt krav for et forhold som tiltalte
-frifinnes for.
-25.2.3.2
-
-Statlig garantiordning
-
-Om det innføres et ensrettingsprinsipp i straffesaker, får det betydning for den som ellers ville
-fått pådømt et sivilt krav i saken. Uheldige virkninger av prinsippet lar seg imidlertid motvirke dersom man ved frifinnelse for straffekravet lar sivile
-krav som springer ut av den samme handling,
-dekkes av en statlig garantiordning.
-Bruk av en offentlig erstatningsordning for å
-sikre ensrettingsprinsippet har vært vurdert av
-professor Jon T. Jonsen i en utredning om erstatning til ofrene hvor tiltalte frifinnes for straff.
-Utredningen kom i kjølvannet av en straffesak
-som fikk mye oppmerksomhet fordi det var idømt
-erstatning etter frifinnelse, og hvor EMD senere
-la til grunn at Norge hadde krenket EMK artikkel
-6, se nærmere nedenfor.12 Jonsen konkluderte
-slik: «Alt i alt har jeg vanskelig for å se at en kan
-oppnå noe vesentlig mht renvasking av den
-
-10
-
-12
-
-NOU 2000: 33 s. 153–174.
-
-[Side 497]
-
-495
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-enkelte tiltalte ved å gjøre det offentlige ansvarlig
-for erstatningskravet ved frifinnelse.»13
-Drøftelsen knyttet seg til en ordning som
-skulle løfte den videre behandlingen av det sivile
-kravet ut av domstolene etter frifinnelse for
-straffekravet ved at det utenfor retten ble tatt
-stilling til de bevistemaer kravet aktualiserte. Ordningen som ble vurdert, innebar altså at det skulle
-foretas «en vurdering av sannsynligheten for at
-den frikjente fyller et[t] eller flere av de vilkår som
-inngår i straffbarhetsvurderingen», og utfallet av
-behandlingen skulle være tilgjengelig for offentligheten.14 Utvalget er enig i at en slik ordning –
-hvor det tas stilling til de samme bevistema som
-for straffekravet – ikke i tilstrekkelig grad vil
-styrke ensrettingsprinsippet.
-En garantiordning kan imidlertid innrettes slik
-at det ikke tas stilling til bevistemaer som i praksis
-vil medføre at det settes spørsmålstegn ved frifinnelsens holdbarhet, eller at grunnlaget for frifinnelsen presiseres. Det kan oppnås dersom erstatningsutbetalingen baseres på at tiltalen i alminnelighet vil gi en sterk presumsjon for at ansvarsgrunnlaget foreligger, og at det derfor ikke er
-behov for å ta konkret stilling til kravet – skyldspørsmål eller ansvarsforhold for øvrig.
-Urimelige utslag av en slik garanti kan unngås
-ved å la garantien bortfalle når det er klart at det
-ikke foreligger ansvarsgrunnlag, for eksempel
-fordi forholdet åpenbart ikke fant sted, skadelidte
-har løyet om sentrale sider ved det straffbare forholdet, eller lignende.
-Mot å innføre en slik ordning taler at den vil
-utgjøre et markant innhugg i alminnelig erstatningsrett, ettersom en frifinnelse for straffekravet
-vil stå i veien for at skadevolder må stå til ansvar i
-situasjoner der det foreligger ansvarsgrunnlag og
-øvrige betingelser for å idømme erstatningsansvar
-er oppfylt.
-Det må videre påregnes at det i noen tilfeller
-vil virke støtende å la kostnadene pulveriseres og
-dekkes av fellesskapet fremfor å holde ansvarlig
-det individet som har handlet erstatningsbetingende.
-I enkelte saker kan det dessuten være et selvstendig poeng at erstatning betales av skadevolder. Det gjelder særlig for oppreisningsansvar,
-som ikke bare skal kompensere for krenkelsen
-som er påført, men også skal virke som «straff» og
-gi uttrykk for samfunnets misbilligelse av handlingen. Men nettopp i disse tilfellene kan de hensyn
-13
-14
-
-NOU 2000: 33 s. 157. Se også s. 205.
-Se NOU 2000: 33 s. 156–157.
-
-Kapittel 25
-
-som taler for et ensrettingsprinsipp, sies å gjøre
-seg særlig sterkt gjeldende.
-Det er videre et argument mot en garantiordning at man risikerer å betale erstatning til en
-fornærmet uten at det er grunnlag for det.
-Utvalget mener likevel at hensynet til et «rent»
-resultat i straffesaken, og da særlig den tillit til
-straffesaksbehandlingen som kan oppnås på lang
-sikt, bør medføre at nevnte erstatningsrettslige
-interesser ikke får stå i veien for en garantiordning.
-Selv om situasjonen vil bli at man ikke får
-holdt alle som etter loven er erstatningsansvarlig,
-personlig til ansvar for kravet, vil den det gjelder,
-være godt kjent med og ha følt på samfunnets
-bedømmelse av den påtalte handlingen ved å ha
-vært undergitt straffeforfølgning med den belastning det medfører. Urimelige utslag i form av for
-godt vern for skadelidte kan unngås ved å la
-garantien falle bort dersom det er på det rene at
-det ikke foreligger ansvar.
-Hvorvidt et krav dekkes av en slik ordning, vil
-avhenge av om det er reist straffesak og om
-straffesaken har resultert i frifinnelse, noe som
-sett fra skadelidtes side kan være tilfeldig. Ordningen vil imidlertid ikke gå ut over skadelidtes
-materielle erstatningsvern.
-Ordningen vil derimot medføre at skadelidte
-blir sikret også i tilfeller hvor ansvarsgrunnlaget er
-mer usikkert, og i tilfeller der skadevolder er uten
-betalingsevne, dersom dekningen går utover det
-som i dag dekkes etter voldsoffererstatningsloven.
-Dette innebærer at skadelidtes vern normaliseres i retning av alminnelig erstatningsrett, ettersom vernet ikke begrenses av et strengt beviskrav
-– klar sannsynlighetsovervekt –, men også vil
-omfatte saker hvor kun det alminnelige beviskravet anses oppfylt. Ut fra den tradisjonelle begrunnelsen for det alminnelige beviskravet må dette
-antas å bidra til å fremme den materielle retten,
-ettersom det over tid vil gi flere riktige resultater.
-På denne bakgrunn mener utvalget at hensynet til et «rent» resultat i straffesaken tilsier at staten bærer kostnadene for erstatningskravene i
-straffesaker som ender med frifinnelse i form av
-obligatorisk ansvarsunntak for den som frikjennes
-for straffekravet.
-25.2.3.3
-
-Utforming og avgrensing av ordningen
-
-En garantiordning som beskrevet i punkt 25.2.3.2
-kan utformes på mange måter.
-Én mulighet er å la påtalemyndigheten
-gjennom tiltalen garantere for fornærmedes
-erstatningskrav på vegne av staten. Det vil medføre at det ikke tas stilling til forhold som angår
-
-[Side 498]
-
-496
-
-Kapittel 25
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-skyldspørsmålet, dersom mistenkte frifinnes, og
-erstatningsspørsmålet kan da anses endelig
-avgjort i og med tiltalen.
-Utvalget har funnet det hensiktsmessig å la
-garantiordningen virke i forlengelsen av dagens
-voldsoffererstatningsordning, som gir rett til
-erstatning fra staten for den som har lidd personskade som følge av en straffbar handling som
-krenker livet, helsen eller friheten, når det foreligger klar sannsynlighetsovervekt for handlingen, jf. voldsoffererstatningsloven §§ 1 første ledd
-og 3 fjerde ledd.
-For å få erstatning etter voldsoffererstatningsordningen kreves som hovedregel at den straffbare
-handlingen er anmeldt til politiet, og at søkeren har
-krevd at erstatningskravet tas med i straffesak mot
-skadevolderen, jf. lovens § 3 tredje ledd. Etter loven
-dekkes erstatning for skade på person, menerstatning og oppreisningserstatning, jf. §§ 4–6. I tillegg ytes erstatning for skade på personlige
-bruksting som den skadelidte hadde på seg da skaden ble voldt, jf. § 8. Erstatning til etterlatte er regulert særskilt i § 7.
-Etter voldsoffererstatningsloven kan det ytes
-erstatning for krav som springer ut av en handling
-som skadevolder er strafferettslig frifunnet for.
-Det foretas da en selvstendig bevisbedømmelse
-for å avgjøre om beviskravet – klar sannsynlighetsovervekt – er oppfylt. Dette innebærer at
-myndighetene må utvise varsomhet ved utforming av begrunnelsene for å unngå krenkelse av
-EMK artikkel 6 annet ledd.15 I praksis skjer dette
-i saker hvor det kommer frem ny dokumentasjon,
-i saker hvor gjerningspersonen er psykotisk eller
-erstatningen av andre grunner lempes grunnet
-forhold hos gjerningspersonen, etc.16
-Utvalget mener det grunnleggende hensynet
-bak ensrettingsprinsippet – at det ikke skal settes
-spørsmålstegn ved frifinnelsen for straffekravet –
-tilsier at supplementet til voldsoffererstatningsordningen utformes på en måte som gjør at det
-som et utgangspunkt ikke blir tatt stilling til spørsmål om skyld eller sakens øvrige bevistemaer, se
-punkt 25.2.3.2.
-Garantiordningen kan ikke omfatte alle typer
-sivile krav eller dekke alle typer straffbare
-handlinger. Det vil utgjøre et for stort innhugg i
-alminnelige sivilrettslige og prosessuelle reguleringer og påføre det offentlige for store utgifter.
-Kun sakstyper hvor hensynet til ensretting gjør
-seg sterkt gjeldende, bør omfattes. Det vil si saker
-hvor det er av særlig stor betydning å få en ren
-15
-16
-
-Brath (2015) s. 46–49.
-Meddelelse fra Kontoret for voldsoffererstatning 2016.
-
-avgjørelse av straffekravet og samtidig en enkel
-behandling av sivile krav.
-Med et slikt utgangspunkt kan ikke ensrettingsprinsippet gis et så vidtrekkende gjennomslag at en frifinnelse i straffesak er til hinder for
-videre behandling av sivile krav. Det bør kun være
-et prosessuelt forbud mot pådømmelse i straffesak som har ført til frifinnelse. Krav som ikke har
-vært til behandling sammen med straffekravet,
-bør kunne behandles i særskilt sak etter tvisteloven, og krav som er behandlet sammen med
-straffekravet og faller utenfor garantiordningen,
-bør etter frifinnelse kunne behandles og pådømmes i særskilt sak etter tvisteloven. Men for sivile
-krav som er tatt til behandling i en straffesak som
-fører til frifinnelse, og som faller inn under garantiordningen, bør behandlingsformen med garantiordning være obligatorisk, slik at adgangen til
-videre forfølgning av kravet blir avskåret.
-En prosessuell konsekvens av at ensrettingsprinsippet sikres slik, er at det ikke kan tas stilling
-til sivile erstatningskrav før det er tatt stilling til
-spørsmål om straffskyld for de forhold erstatningskravet springer ut av.
-Utvalget mener behovet for ensretting er størst
-i saker om integritetskrenkelser. Dertil kommer at
-en garantiordning vil kunne være verdifull for fornærmede i slike saker, ettersom vedkommende
-unngår ytterligere prosess rundt kravet.
-Dersom enhver sak om integritetskrenkelse
-omfattes av ordningen, vil det gi et for vidt ansvar
-for staten. Den nærmere avgrensningen er utfordrende, fordi det er vanskelig å si presist hvor
-behovet for ensretting er størst, og hvilke kravstyper det er hensiktsmessig å behandle på denne
-måten. Også kostnadene ved de ulike alternativer
-vil måtte bero på nokså løse antakelser.
-En mulig måte å avgrense ordningen på er å
-knytte den opp mot retten til bistandsadvokat
-etter utkastet § 4-9 første ledd bokstav b om saker
-«hvor det er grunn til å tro at fornærmede som
-følge av handlingen får betydelig skade på kropp
-eller helse». Med et slikt kriterium vil man imidlertid måtte supplere med ytterligere opplisting av
-konkrete straffebud for å omfatte sakstyper hvor
-det i praksis har vært ulikt utfall for sivile krav og
-straffekrav, og hvor det er grunn til å styrke frifinnelsen, blant annet saker om voldtekt.
-Utvalget mener garantiordningen heller bør
-knyttes opp mot det generelle kravet etter voldsoffererstatningsloven og rette seg mot handlinger
-som krenker «livet, helsen eller friheten». Det er
-handlinger man også ellers mener staten bør kompensere for, og bruk av et slikt kriterium vil dermed også gi et konsekvent regelverk. En slik
-
-[Side 499]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-rettslig standard vil dessuten gi rom for nødvendig tilpasning av ordningens omfang.
-Når det gjelder kravstyper, mener utvalget at
-ordningen bør begrenses til erstatning for lidt tap
-og oppreisning. Dette er de mest vanlige typene
-krav, og i alminnelighet vil omfanget av ansvarsgrunnlaget og utmålingen være oversiktlige størrelser som egner seg for en slik summarisk og
-lovbunden behandling som garantiordningen forutsetter. Andre erstatningskrav, som for eksempel
-menerstatning, kan innebære komplekse og sammensatte vurderinger og bør undergis alminnelig
-domstolsbehandling.
-Samtidig med Straffeprosessutvalgets arbeid
-har et annet utvalg vurdert voldsoffererstatningsordningen. Dette arbeidet har munnet ut i et
-utkast til ny lov om voldsoffererstatning.17 Forslaget om et statlig ansvar for erstatning for personskade og oppreisningserstatning for krav som er
-behandlet i straffesak som ender med frifinnelse
-for straffekravet, bør følges opp i arbeidet med
-forslaget til ny voldsoffererstatningslov. Ordningen bør utformes slik at påtalemyndigheten
-avgjør om ansvarsgrunnlaget omfattes av tiltalen,
-og voldsoffererstatningsmyndigheten fastsetter
-utmålingsnivået.
-25.2.3.4
-
-17
-18
-
-åpenbart at det ikke foreligger ansvarsgrunnlag.
-Også Kontoret for voldsoffererstatning bør kunne
-nekte garanti på dette grunnlaget.
-
-25.3 Hvilke sivile krav skal behandles
-i straffesak?
-25.3.1 Avgrensning av type krav som kan
-pådømmes
-Etter gjeldende rett kan fornærmede og «andre
-skadelidte» gjøre krav gjeldende i tilknytning til
-straffesak, jf. § 3 første ledd. Om forbindelsen
-kravet må ha til straffekravet, har Høyesterett
-uttalt følgende:
-«Grensen etter § 3 må – slik jeg ser det – særlig
-trekkes mot erstatningskrav som gjelder fjerne
-og klart indirekte følger av den straffbare
-handlingen. Det er nok så – som påpekt av
-Bjerke og Keiserud – at slike krav i atskillig
-utstrekning ikke vil være erstatningsrettslig
-vernet. Men lovens ordning er at straffeprosessloven § 3 her har selvstendig betydning
-som en begrensning når det gjelder behandlingsmåten. Begrensningen vil ha betydning
-for erstatningskrav for utgifter som har sammenheng med den straffbare handling, men
-hvor det ikke fremstår som treffende å si at kravet springer ut av den straffbare handling. Jeg
-antar at dette særlig vil kunne være aktuelt for
-krav som kan tenkes fremsatt av tredjemenn.»19
-
-Adgangen til å avsi frifinnelsesdom
-
-Begrunnelsen for et ensrettingsprinsipp rekker
-ikke lenger enn at avgjørelsen av skyldspørsmålet
-for det sivile kravet ikke må stå i direkte motstrid
-til avgjørelsen av straffekravet.18 Et særlig spørsmål er derfor om retten, når det frifinnes for
-straffekravet, bør kunne avsi frifinnelsesdom for
-andre krav i de sakstyper som faller inn under
-garantiordningen.
-Problemet med en adgang til å avsi frifinnelsesdom er at retten ved sin beslutning vil tilkjennegi et syn på kravet, herunder i mange tilfeller ta
-stilling til de samme temaene som straffekravet
-omhandlet. Dertil kommer at beslutningen vil ha
-en slik karakter at den i henhold til alminnelige
-prosessuelle prinsipper bør begrunnes. Dersom
-det etter en slik bedømmelse likevel ikke avsies
-frifinnelsesdom, vil frifinnelsen for straffekravet
-svekkes i større eller mindre grad.
-En adgang til å avsi frifinnende dom for erstatningskravet i åpenbare tilfeller vil imidlertid ikke
-gi særlig risiko for at frifinnelser for straffekravet
-undergraves. Det bør derfor legges til retten å
-avgjøre om garantien skal bortfalle når det er
-NOU 2016: 9 s 182–185.
-Andorsen (2000) s. 317. Se også NOU 2000: 33 s. 173–174.
-
-497
-
-Kapittel 25
-
-Utvalget foreslår ikke endringer i dette tilknytningskravet som sådan, jf. utkastet §§ 43-1 og 43-2.
-Men som det fremgår, er det en nær sammenheng
-mellom hvilke typer krav som kan tas til behandling i en straffesak, og spørsmålet om hvem som
-kan være saksøker eller saksøkt, som behandles i
-neste punkt.
-25.3.2 Hvem som skal kunne fremme krav, og
-hvem krav skal kunne rettes mot
-Omfanget av ordningen med behandlingen av
-sivile krav sammen med straffekrav beror på
-hvem som skal kunne fremme sivile krav i straffesak, og hvem krav skal kunnes rettes mot.
-I tillegg til dem som er umiddelbart skadelidte, angir loven andre som kan fremme erstatningskrav knyttet til den straffbare handlingen.
-Det gjelder regresskrav som forsikringsselskap
-19
-
-Rt. 2006 s. 164 avsnitt 23.
-
-[Side 500]
-
-498
-
-Kapittel 25
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-«eller annen» får ved utbetaling av erstatning,
-trygd eller pensjon «i anledning av skaden», jf. § 3
-nr. 4. Også andre enn skadelidte kan fremme krav.
-Krav om tap av arverett kan fremmes av den
-enkelte medarving og påtalemyndigheten, og retten kan fradømme den av eget tiltak, jf. straffeprosessloven § 3 nr. 5 og arveloven § 73 tredje ledd.
-Sivile krav kan klart nok rettes mot tiltalte,
-men også mot dem som omfattes av såkalt aktiv
-identifikasjon – i praksis tilfeller hvor skadelidte
-kan bygge krav på ansvarsgrunnlag hos tredjeperson. Herunder faller krav mot tiltaltes foreldre
-etter skadeserstatningsloven § 1-2, krav mot
-kringkastere og eier eller utgiver av trykt skrift
-etter skadeserstatningsloven § 3-6 og krav mot
-forsikringsselskap, jf. straffeprosessloven § 3
-annet ledd nr. 1–3.
-Utvalget mener gruppen mulige saksøkte ut
-fra hensynene til fornærmede, etterlatte og prosessøkonomi bør utvides til å omfatte medvirkere
-til den straffbare handling som har det samme
-sivilrettslige ansvar, men som av ulike grunner
-allerede har fått sitt straffansvar konstatert. Derimot bør man ikke kunne fremme erstatningskrav
-mot noen for et forhold som ikke allerede er
-pådømt.
-Et særlig spørsmål er om rettens adgang til å
-idømme tap av arverett etter arveloven § 73 tredje
-ledd annet punktum bør videreføres. Bestemmelsen fastslår at retten av eget tiltak kan treffe avgjørelse om tap av arverett når noen idømmes fengselsstraff. Det kan hevdes at dette er i strid med
-disposisjonsprinsippet og domstolenes uavhengige rolle om dette tas opp av eget tiltak, og at
-man derfor i tråd med den styrking av anklageprinsippet utvalget anbefaler, bør forutsette
-begjæring fra påtalemyndigheten i alle tilfeller.
-Utvalget mener imidlertid det er grunn til å
-videreføre dagens ordning. Den aktivitet det er
-tale om, vil i liten grad ramme domstolenes uavhengighet, ettersom det gjelder et vilkår om at
-vedkommende idømmes fengselsstraff – noe som
-forutsetter skyldkonstatering etter påtale. For så
-vidt gjelder det rent arverettslige utover dette, har
-ikke det strafferettslige anklageprinsippet noen
-gjennomslagskraft.
-Utover de tilfeller som omfattes av dagens
-straffeprosesslov, har det vært reist spørsmål om
-hvorvidt det sammen med straffekravet bør
-kunne idømmes administrative sanksjoner. Sanksjonsutvalget foreslo dette i NOU 2003: 15 punkt
-10.7.4.3. Justis- og beredskapsdepartementet har
-nylig vurdert spørsmålet, jf. Prop. 62 L (2015–
-2016) punkt 17.4.3. Departementet gikk ikke inn
-for å lovfeste en generell adgang til å ta med admi-
-
-nistrative sanksjoner som sivile krav i straffesaker
-og foreslo heller ikke at det ble gitt bestemmelser
-i straffeprosessloven som skulle komme til anvendelse hvis en i særlov ønsket å gi hjemmel for en
-slik ordning.
-Departementet la til grunn at behovet for å
-kunne ta med krav om ileggelse av administrative
-sanksjoner i straffesaker må antas å være forholdsvis begrenset. Det ble ikke utelukket at det
-innenfor særskilte områder kan være et slikt
-behov, for eksempel for administrative rettighetstap eller krav mot et foretak i en straffesak mot en
-fysisk person. Alt i alt ble departementet likevel
-stående ved standpunktet om ikke å foreslå generelle regler som legger til rette for slike ordninger
-i særlovgivningen, og uttalte at «[s]kulle det vise
-seg å være et praktisk behov for å ta med krav om
-administrative sanksjoner i straffesaker, får en
-heller komme tilbake til spørsmålet om lovregulering». Departementet ser for øvrig «visse betenkeligheter» ved å åpne for en adgang til å ta med
-administrative sanksjoner i straffesaker, uten å
-klargjøre nærmere hvilke problemer man ville stå
-overfor. Det er imidlertid vist til at også Finansdepartementet og Skattedirektoratet påpeker at en
-ordning med administrative krav i straffesak kan
-være problematisk. Disse høringsinstansenes
-uttalelser er gjengitt slik:
-«Finansdepartementet og Skattedirektoratet
-uttrykker tvil om hvor langt en administrativ
-sanksjon bør kunne tas med i en straffesak som
-et borgerlig rettskrav. Finansdepartementet
-uttaler at for at ‘… forvaltningen skal kunne be
-domstolen ta med krav om tilleggsskatt som
-borgerlig rettskrav i straffesak, må det altså
-foreligge et vedtak om slik sanksjon. Foreligger slikt vedtak vil det imidlertid ikke være
-adgang til å straffeforfølge personen/den juridiske personen for samme forhold, jf. Tilleggsprotokoll 7 artikkel 4.’ Skattedirektoratet spør
-om det er hensiktsmessig at domstolene kan
-avgjøre kompliserte ligningsspørsmål som
-førstegangsbehandler.»20
-Videre ser departementet «også en viss fare for at
-en gjennom å åpne for å ta med administrative
-sanksjoner i en straffesak, kan bidra til å viske ut
-grensen mellom det som må og det som ikke må
-regnes som straff etter Grunnloven § 96 første
-ledd». Endelig vises det til at «saksbehandlingen
-hos påtalemyndigheten og i domstolene kan […]
-bli mer komplisert og arbeidskrevende dersom
-20
-
-Prop. 62 L (2015–2016) punkt 17.4.2.
-
-[Side 501]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-man samtidig må forholde seg til to ulike regelsett».
-Vekten av de argumenter som er gjengitt ovenfor, kan etter utvalgets syn i høy grad diskuteres.
-Dobbeltforfølgningsargumentet synes å bero
-på en misforståelse. Dersom den ordningen Sanksjonsutvalget foreslo, skulle bli vedtatt, ville forvaltningen i tilfeller der det er aktuelt å pådømme
-krav om administrativ sanksjon i straffesak, ikke
-treffe vedtak om slik sanksjonering, men derimot
-begjære at kravet tas med i straffesaken.
-Hva gjelder grunnlovsargumentet, er det vanskelig å se at behandling av administrative sanksjoner i en straffesak vil kunne viske ut grensen
-mellom det som er og ikke er straff i Grunnlovens
-forstand. Dette er en grense man uansett må ha
-klart for seg, og som ikke påvirkes av at krav
-fremmes i tilknytning til en straffesak. Det er for
-øvrig på det rene at det etter gjeldende rett i
-straffesak kan pådømmes både reaksjoner som
-utvilsomt er straff etter Grunnloven, sivile krav
-som utvilsomt ikke er straff, og strafferettslige
-reaksjoner som det kan være mer usikkert om er
-straff eller ikke i Grunnlovens forstand.
-Argumentet knyttet til at det er problematisk å
-la domstolen avgjøre kompliserte spørsmål som
-førstegangsbehandler, svekkes betydelig av at en
-eventuell behandling sammen med straffesaken
-bare vil være aktuelt etter forvaltningens begjæring. Det aktuelle forvaltningsorgan står formentlig
-selv nærmest til å vurdere hensiktsmessigheten av
-en slik behandlingsform. Dertil kommer at det i
-alle tilfeller vil kunne reises sivilt søkmål mot vedtak om en administrativ sanksjon, og domstolene
-har i så fall full kompetanse til å avgjøre spørsmålet
-om ileggelse og omfang av sanksjonen.
-Det at saksbehandlingen hos påtalemyndigheten og i domstolene vil bli for komplisert og
-arbeidskrevende som følge av at man må forholde
-seg til to ulike regelsett, er et argument som kan
-tenkes å gjøre seg gjeldende på enkeltområder
-eller i enkeltsaker. Men dette kan vanskelig
-aksepteres som et vektig argument for helt å
-avskjære adgangen til å pådømme administrative
-sanksjoner i straffesaker.
-Hva gjelder behovet for en ordning med
-pådømmelse av administrative sanksjoner, kan det
-nok være vanskelig å vurdere det med særlig presisjon i en situasjon der ordningen ikke har vært
-rettslig tilgjengelig. At behovet for en ordning er
-begrenset, er for øvrig i og for seg ikke et argument mot at det legges til rette for den hvis og når
-behovet skulle melde seg.
-Utvalget mener på bakgrunn av det ovennevnte, og i tråd med Sanksjonsutvalgets anbefa-
-
-499
-
-Kapittel 25
-
-ling,21 at mye taler for å åpne for å pådømme krav
-om administrative sanksjoner i tilknytning til en
-straffesak i tilfeller der det samlet sett er prosessøkonomisk gunstig eller kan bidra til effektiv
-håndheving. Særlig vil det kunne være aktuelt i tilfeller der man i forvaltningssporet og i straffesaken skal ta stilling til tilnærmet samme bevistema, og bevissituasjonen er kompleks. Se utkastet § 43-2 første ledd bokstav e.
-25.3.3 Adgang for påtalemyndigheten og
-retten til å nekte behandling av sivile
-krav
-Utvalgets utgangspunkt er som nevnt i punkt
-25.1.3 at den straffbare handlingen som utgjør
-grunnlaget for straffesaken, skal fastsette rammen for den prosessuelle behandlingen. Det går
-da en grense for hvilke krav som kan tas med,
-dels knyttet til hvilke krav som kan fremmes, dels
-knyttet til hvem de kan fremmes mot.
-Hvilke krav som bør kunne nektes behandling,
-beror på vektingen av ulike hensyn. Ønsker man å
-gi hensynet til prosessøkonomi gjennomslag, er
-det for eksempel grunn til å la det være avgjørende om det sivile kravet og straffesaken aktualiserer bruk av samme bevis og opplysning av
-samme forhold.
-Utgangspunktet etter gjeldende rett er at det
-beror på påtalemyndighetens skjønn om kravet
-skal tas med til behandling. De sentrale vurderingstemaene er hvor komplisert kravet bevismessig og rettslig er, saksøkers evne til selv å
-fremme kravet og påtalemyndighetens alminnelige arbeidssituasjon.
-De «umiddelbart skadelidende» ved den straffbare handling er imidlertid gitt en særlig garanti
-for at kravet tas til behandling. Med uttrykket
-«umiddelbart skadelidende» siktes det til personer som har vært direkte utsatt for den straffbare
-handlingen. Overfor denne gruppen kan påtalemyndigheten bare nekte å ta med kravet dersom
-det er «åpenbart ugrunnet», eller det vil være en
-«uforholdsmessig ulempe» for påtalemyndigheten
-om kravet fremmes, jf. straffeprosessloven § 427
-annet ledd. I praksis fremmes de fleste sivile krav
-i tilknytning til straffesak av denne typen skadelidte. Utenfor gruppen «umiddelbart skadelidende» faller regresskrav fra et forsikringsselskap, erstatningskrav fra en som har kjøpt tyvegods, etc.
-Adgangen til å få sivile krav behandlet i
-straffesaken ble i 2008 forsterket for å sikre at de
-21
-
-Se NOU 2003: 15 punkt 10.7.4.3.
-
-[Side 502]
-
-500
-
-NOU 2016: 24
-
-Kapittel 25
-
-Ny straffeprosesslov
-
-fornærmede i større grad fikk håndhevet sine
-rettigheter. Én vesentlig endring var at det i
-saker med oppnevnt bistandsadvokat ble lagt til
-bistandsadvokaten å fremme krav for fornærmede og etterlatte. En annen endring var at
-behandling av kravet kun kan nektes av retten
-dersom det «åpenbart er mest hensiktsmessig å
-behandle kravet i sivilprosessens former»,
-jf. straffeprosessloven § 428 fjerde ledd. Om vilkåret ble det uttalt:
-«Den klare hovedregelen skal være at kravet
-skal behandles sammen med straffesaken. Forslaget er ment som en snever unntaksregel.
-‘Åpenbart mest hensiktsmessig’ er ment som
-en høy terskel. Det er ikke nok at sivilprosessens regler på enkelte punkter kunne være
-mer egnet.»22
-Utvalget mener i tråd med den senere tids utvikling på området at hensynet til belastningen for
-fornærmede, etterlatte og andre skadelidte bør
-vektes tungt. Dette tilsier at man bør gå langt i å
-inkludere behandlingen av sivile krav under
-straffeforfølgningen. Som et klart utgangspunkt
-foreslås derfor dagens vilkår for å nekte å ta med
-et sivilt krav i straffesak videreført.
-Én tilpasning er det likevel grunn til å gjøre.
-De nevnte begrensningene i retten til å få behandlet krav etter § 427 gjelder påtalemyndighetens
-adgang til å unnlate å fremme kravene. Det innebærer at retten har plikt til å behandle kravet når
-påtalemyndigheten velger å fremme det, men likevel slik at retten kan begrense pådømmelsen til
-«den del av kravet som den finner godtgjort», jf.
-§ 432 annet ledd. Utvalget mener at vilkårene for å
-behandle sivile krav bør gjelde generelt. Se utkastet § 43-8.
-25.3.4 Rettens adgang til å nekte behandling
-Ved hovedforhandling og fullstendig anke er
-eneste hjemmel for retten til å nekte å behandle
-sivile krav i straffesaken at det «åpenbart er mest
-hensiktsmessig å behandle kravet i sivilprosessens former», jf. §§ 428 fjerde ledd og 434, jf. § 428
-fjerde ledd.
-Før lovendringen i 2008 kunne retten også
-nekte å behandle krav dersom det ville være til
-uforholdsmessig ulempe for straffesaken. Vurderingstemaet ble endret for å styrke fornærmedes stilling; det avgjørende var ikke lenger hen22
-
-Ot.prp. nr. 11 (2007–2008) s. 122.
-
-synet til behandlingen av straffekravet, men hensynet til behandlingen av erstatningskrav.
-Straffesaken er først og fremst en sak om
-påtalemyndighetens krav om idømmelse av straff
-og andre strafferettslige reaksjoner. Retten bør derfor gis en viss adgang til å nekte å behandle sivile
-krav når hensynet til straffesaksbehandlingen tilsier det.
-Ordlyden «åpenbart er mest hensiktsmessig å
-behandle kravet i sivilprosessens former» foreslås
-endret til «klart mest hensiktsmessig om kravet
-ikke tas til behandling», se utkastet § 43-8 bokstav
-d. Vilkåret «klart mest hensiktsmessig» skal, i lys
-av lovhistorikken, fortsatt forstås som en snever
-nektelsesgrunn, men mindre strengt enn «åpenbart mest hensiktsmessig». Sentralt er at det etter
-utkastet er relevant å se hen til hva som vil gi en
-effektiv behandling av straffekravet. Retten står
-altså noe friere i sitt skjønn enn tidligere, og
-bestemmelsen skal gis anvendelse dels når det er
-hensiktsmessig for behandlingen av kravet at det
-håndteres sivilprosessuelt, dels når det er hensiktsmessig for gjennomføringen av straffesaken.
-Ankedomstolen har i dag en utvidet adgang til
-å nekte å ta med sivile krav i ankesaken ved
-begrensede anker i medhold av straffeprosessloven § 434 første ledd bokstav b og c. Etter bokstav b kan det kreves ny behandling under straffutmålingen når det «ikke er til vesentlig ulempe å
-behandle kravet under ankeforhandlingen» og
-etter bokstav c ved anker over lovanvendelsen og
-saksbehandlingen når ankedomstolen «samtykker i samlet behandling».
-Med endringen som foreslås, er det ikke lenger nødvendig med særlige nektelseskriterier ved
-ankeforhandling. De kravene som i dag ville falt
-utenfor på grunn av samtykkevilkåret etter bokstav c, vil nå kunne håndteres med bruk av det
-generelle hensiktsmessighetsvilkåret.
-
-25.4 Behandlingsform mv.
-25.4.1 Påtalevedtak og rettslige forhandlinger
-Dagens regulering av sivile krav etter straffeprosessloven omhandler først og fremst behandling
-av krav etter tiltale. Skadelidtes rett til selv å
-fremme krav i saken, og til status som part, gjelder bare såfremt det blir holdt hovedforhandling,
-jf. § 264 b.
-Sivile krav behandles imidlertid også i tilknytning til andre påtalevedtak. Det gjelder for påtaleunnlatelse, jf. straffeprosessloven § 69 tredje ledd,
-jf. straffeloven § 35, og når en sak søkes avgjort
-ved forelegg, kan påtalemyndigheten ta med sivile
-
-[Side 503]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-krav i forelegget, jf. straffeprosessloven § 256
-tredje ledd.
-Utvalget mener det er hensiktsmessig med en
-samlet regulering av sivile krav for påtalevedtak
-og rettergang. Det vil gi en rettsteknisk enkel løsning og en mer pedagogisk lov og vil formentlig
-kunne bidra til økt bevissthet om behandling av
-sivile krav i straffeprosessens former.
-25.4.2 Påtalemyndighetens informasjonsplikt
-under etterforskingen
-Under etterforskingen skal fornærmede informeres om muligheten til å fremme sivile krav, jf.
-straffeprosessloven § 236 og påtaleinstruksen
-§ 8-6 annet ledd. Frem til 2008 hadde også retten
-en plikt til å informere om denne adgangen, jf.
-opphevet § 426.
-Loven regulerer ikke direkte om og hvordan
-andre skadelidte skal få tilsvarende informasjon.
-Ut over de personer politiet og påtalemyndigheten
-kommer i kontakt med under etterforskingen,
-gjelder det neppe noen plikt til å oppsøke skadelidte.
-Utvalget mener det er grunn til å innta i loven
-en eksplisitt, om enn relativ, informasjonsplikt for
-påtalemyndigheten overfor skadelidte om adgangen til å få behandlet sivile krav ved straffeforfølgning, se utkastet § 43-4 første ledd.
-25.4.3 Utredning av sivile krav i straffeprosessen
-Straffeprosessloven § 237 annet ledd fastslår at
-retten under etterforskingen etter begjæring fra
-fornærmede kan oppnevne en sakkyndig for å
-utrede hvilke helseskader fornærmede er påført,
-dersom det er nødvendig for å avgjøre vedkommendes erstatningskrav.
-Et sentralt spørsmål er i hvilket omfang
-straffesaksapparatet skal benyttes for å få opplyst
-sivile krav.
-Det vil gjøre et for stort og til dels uoversiktlig
-innhugg i straffeprosessen om den benyttes til å
-opplyse spørsmål som ikke kommer straffespørsmålet ved. I hvilken utstrekning krav som har
-begrenset betydning for straffespørsmålet, skal
-søkes opplyst som ledd i straffeforfølgningen, bør
-reguleres gjennom et forholdsmessighetskrav, jf.
-utkastet § 43-7 annet ledd. Er det for eksempel tale
-om å få opplyst et erstatningskrav som i noen
-utstrekning er relevant for straffutmålingen, bør
-dette tillates såfremt undersøkelsene er lite ressurskrevende. Det vil typisk være situasjonen når det er
-behov for en nærmere klargjøring av ulike sider av
-
-501
-
-Kapittel 25
-
-et i utgangspunktet godt opplyst skadeomfang, og
-særlig hvis det er snakk om å benytte samme
-sakkyndige som allerede har foretatt undersøkelser, og kjenner saken. Omfattende undersøkelser
-som i liten grad kan ha betydning for behandlingen
-av straffekravet, bør ikke skje. Den nærmere
-avgrensningen må skje gjennom rettspraksis.
-I praksis vil de sakkyndige etter denne
-bestemmelsen ta stilling til skadeomfang, ettersom det er en forutsetning at straffekravet opplyses som ledd i den ordinære straffesaksbehandlingen.
-25.4.4 Betydningen av mistenktes samtykke –
-påtalevedtak og forenklet behandling
-Betydningen av mistenktes samtykke ved behandling av sivile krav i straffesakssporet gjør seg gjeldende i flere sammenhenger.
-For spørsmålet om hvorvidt det skal kunne
-kreves at sivile krav er vedtatt, kan det for påtalevedtakene påtaleunnlatelse, overføring til konfliktråd og forelegg tenkes tre alternativer: krav om
-vedtakelse, som vil innebære at det kan settes
-som vilkår for påtalevedtaket at vedkommende
-påtar seg ansvaret; tilbud om vedtakelse, som vil
-innebære å legge til rette for behandling av sivile
-krav, men uten at mistenktes valg skal være
-bestemmende for påtalevedtaket; ingen behandling av sivile krav, som vil innebære at man på
-disse områdene holder behandlingen av straffekravet helt adskilt fra behandlingen av sivile
-krav.
-For å stille krav eller gi tilbud om vedtakelse
-taler hensynet til skadelidte og prosessøkonomiske hensyn. Mot å stille krav om vedtakelse taler
-at det kan føre til et urimelig press på mistenkte.
-Mot å begrense ordningen til et tilbud om vedtakelse av sivile krav taler også det at mistenktes
-betaling av erstatning for skade vedkommende
-har forvoldt, kan være et moment i den påtalemessige vurderingen.
-Utvalget anbefaler å videreføre dagens adgang
-til å stille som vilkår for de nevnte påtalevedtak at
-sivile krav vedtas, særlig fordi vedtakelse som
-nevnt kan være avgjørende for påtalevurderingen,
-samtidig som det sikrer effektiv behandling av
-kravene.
-Utvalget mener imidlertid at vilkår om vedtakelse av sivilt krav bare skal stilles i den utstrekning påtalemyndigheten finner kravet utvilsomt,
-slik ordningen er i dag for behandling ved tilståelsesdom, jf. straffeprosessloven § 432 annet ledd.
-Hva som skal anses «utvilsomt», må forstås i
-lys av behandlingsformen for de ulike vedtak og
-
-[Side 504]
-
-502
-
-Kapittel 25
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-den konkrete sak. Etter omstendighetene kan det
-ikke kreves en selvstendig og separat utredning
-av kravet, såfremt det ikke er forhold i saken som
-gir grunn til å betvile ansvarsgrunnlaget.
-Også ellers må det utvises varsomhet med å
-oppstille vilkår om vedtakelse for påtalevedtak.
-Særlig viktig er det at det ikke gis signaler om at
-vedtakelsen er en nødvendig betingelse for et
-påtalevedtak av et bestemt innhold, dersom det
-ikke er tilfellet.
-Et annet spørsmål er betydningen av samtykke for forenklet rettslig behandling av straffekravet. I dag er det som utgangspunkt et vilkår for
-å fremme sivile krav at det avholdes hovedforhandling, foruten i tilståelsessaker etter § 248, der
-fornærmede har bistandsadvokat, jf. § 428 første
-ledd tredje punktum. Det er ikke adgang for en
-som er selvprosederende, til å fremme sivile krav
-til pådømmelse ved tilståelsesdom.
-I utvalgets lovutkast er ordningen med forenklet rettergang i det vesentlige videreført, men
-uten krav om samtykke fra mistenkte. Spørsmålet
-er om det bør være et vilkår for forenklet behandling at det gis samtykke til pådømmelse av eventuelle sivile krav.
-Hvilke virkninger alternativene vil få i praksis,
-er det vanskelig å si noe om. Gis mistenkte anledning til å velge om det sivile kravet skal behandles, kan det føre flere sivile krav inn i det sivile
-sporet. Men et krav om at det må samtykkes til
-behandling av sivile krav, kan tenkes å føre til at
-færre samtykker i forenklet behandling.
-Utvalget antar at mistenkte i de fleste tilfeller
-vil være like interessert som skadelidte i å få et
-sivilt krav ut av verden, og at dette særlig gjelder
-den gruppen mistenkte som forklarer seg slik at
-det ligger til rette for forenklet behandling. Videre
-er det grunn til å tro at de fleste vil anse det sikrest – og dermed foretrekke – å få en rettslig
-behandling av kravet fremfor å løse det utenrettslig. Ytterligere en motivasjon for rettslig behandling i straffesakssporet kan være å unngå
-sakskostnadsansvaret som følger av tvistelovens
-regler.
-På denne bakgrunn antar utvalget at de fleste
-vil samtykke i behandling av det sivile kravet, og
-dersom kravet eller deler av det har en slik karakter at det best egner seg for behandling etter
-tvisteloven, skal det uansett henvises til slik
-behandling. Skulle spørsmålet komme på spissen
-ved at mistenkte ikke ønsker forenklet behandling av det sivile kravet, bør det etter utvalgets syn
-ikke åpnes for dette. Forutsetningen for behandlingsformen er at mistenktes straffskyld er på det
-rene og tilstått, og at det sivile kravet er egnet for
-
-behandling sammen med straffekravet. Hensynet
-til at skadelidte kan få sitt krav pådømt på en enkel
-måte i straffeprosessens former, bør da slå igjennom.
-25.4.5 Frister
-Når sivile krav skal behandles sammen med
-straffesak, fastsetter påtalemyndigheten en frist for
-å fremsette kravet, jf. § 428 tredje ledd, jf. § 264 b
-annet ledd første punktum. Kravet skal fremsettes
-for retten, og det skal angis størrelse, faktiske og
-rettslige grunnlag samt hvilke bevis som vil bli ført.
-Retten sender kopi av kravet til tiltalte og fastsetter
-en frist for bemerkninger til kravet.
-Ved behandlingen av sivile krav i ankesak er
-adgangen til å få behandlet krav knyttet opp mot
-tiltaltes rett til kontradiksjon ved at kravet skal
-«fremsettes så tidlig at den annen part har tilstrekkelig tid til å forberede seg på behandlingen», jf.
-§ 434 femte og sjette ledd. Fristen for tiltalte, som
-er knyttet til inngivelsen av anke eller motanke, er
-derimot i utgangspunktet preklusiv, jf. straffeprosessloven § 434 tredje ledd, med en viss adgang til
-å ta kravet til behandling tross fristoversittelse
-etter § 434 tredje ledd, jf. §§ 314 tredje ledd i.f. og
-318 første ledd.
-Begrunnelsen for denne ulikheten er hensynet
-til fornærmede og at tiltalte i alle tilfeller vil være
-garantert en forsvarlig behandling av kravet ved
-at forhandlingen utsettes når det er behov:
-«Det vises til at den siktede på tidspunktet hvor
-det må tas stilling til om han skal begjære ny
-behandling, vil vite hva resultatet ble i tingretten eller lagmannsretten. For den fornærmede
-kan det stille seg annerledes. Det kan fremdeles tenkes at det etter tidspunktet hvor det bes
-om at fornærmede oppgir om han ønsker ny
-behandling av sivile krav, kan bli påvist
-endringer i det sivile kravet, så som nye skadevirkninger eller bedre dokumentasjon på en
-skade. Hensynet til den fornærmedes muligheter til å be om å få behandlet krav som er påvist
-eller oppstått senere, taler med styrke mot å
-gjøre fristen preklusiv, og dette gjelder uavhengig av om kravet fremsettes av den fornærmede selv eller via påtalemyndigheten. Departementet foreslår derfor å videreføre den generelle regelen om at fornærmede og
-påtalemyndigheten må sette frem et krav så tidlig at den annen part har tilstrekkelig tid til å
-forberede seg på behandlingen.»23
-23
-
-Se Ot.prp. nr. 11 (2007–2008) s. 100. Se også s. 98.
-
-[Side 505]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-Utvalget mener hensynet til en forutberegnelig og
-dermed effektiv behandling av straffesaken taler
-for at det gis en fast frist for å få behandlet sivile
-krav under rettergang. Det at kravet eventuelt kan
-endre seg, presiseres eller bli bedre klarlagt
-underveis, er ikke et argument mot at kravet ikke
-meldes med én gang.
-Fristen for skadelidte til å melde krav bør knyttes til en informasjonsplikt for påtalemyndigheten
-om adgangen til å fremme krav under straffeforfølgning. Dersom det tas ut tiltale, skal påtalemyndigheten spørre om vedkommende ønsker krav
-tatt med i saken, og i den forbindelse bør det fastsettes en preklusiv frist for å fremsette begjæringen, jf. utkastet § 43-4 annet ledd annet punktum.
-For å unngå urimelige utslag av fristen bør
-påtalemyndigheten kunne forlenge denne. De
-sentrale vurderingstemaene for om forlengelse
-skal innrømmes når det er tatt ut tiltale, er om det
-vil føre til forsinkelse av saken og merarbeid for
-de øvrige aktørene. Etter utkastet § 43-8 kan også
-retten beslutte at et krav skal tas til behandling
-etter oversittet frist.
-Etter at kravet er meldt, bør det være en relativt
-vid adgang til å gjøre endringer under saksforberedelsen så lenge retten til kontradiksjon blir ivaretatt, men også dette må skje innenfor rammer som
-ikke fører til forsinkelse eller annen ulempe av
-betydning for gjennomføringen av saken.
-
-503
-
-Kapittel 25
-
-videre ivaretakelse av kravet etter omstendighetene kan overlates påtalemyndigheten dersom det
-er hensiktsmessig, og hensynet til fornærmede
-ikke taler mot det. Særlig i større og langvarige
-saker med enkle krav kan det tenkes å være
-behov for en slik ordning, og særlig dersom fornærmede ikke skal forklare seg og heller ikke
-ønsker å overvære forhandlingene.
-Som et utgangspunkt bør dette være en
-adgang påtalemyndigheten og fornærmede ved
-bistandsadvokaten finner hensiktsmessig og kommer til enighet om, men også uten slik enighet
-kan retten bestemme at et eventuelt sivilt krav i
-saken skal behandles av påtalemyndigheten, med
-den følge at bistandsadvokaten heller ikke trenger
-å være til stede, se utkastet § 43-9 annet ledd
-annet punktum.
-25.4.7 Partsstatus og innsynsrett
-
-I dag er det to hovedspor som fører til behandling
-av sivile krav under hovedforhandling: Skadelidte
-kan i medhold av straffeprosessloven § 428
-fremme kravet selv, eventuelt gjennom sin
-bistandsadvokat, eller påtalemyndigheten kan
-fremme kravet på vegne av skadelidte etter begjæring fra vedkommende i medhold av § 427.
-Adgangen til å fremme krav via påtalemyndigheten er unntatt for skadelidte med bistandsadvokat, som må fremme kravet gjennom advokaten,
-jf. §§ 427 annet ledd og 428 første ledd annet
-punktum. Begrunnelsen for dette er i hovedsak
-behovet for tydelig ansvarsfordeling, klare regler
-og hensynet til ikke å belaste politiet og påtalemyndigheten med en selvstendig plikt til å forberede erstatningskravet unødig.24
-Utvalget foreslår å videreføre ordningen med
-at bistandsadvokaten fremmer kravet for fornærmede, men slik at det etter loven åpnes for at
-
-Dersom fornærmede fremmer kravet selv etter
-straffeprosessloven § 428, får vedkommende formell partsstatus i relasjon til det sivile kravet ved
-at det henvises til reglene om private straffesaker,
-jf. annet ledd og § 404, jf. § 409. Tilsvarende status
-tilkommer andre saksøkere, jf. § 3 fjerde ledd,
-som sidestiller disse med fornærmede.
-Skadelidte kan holde innledningsforedrag,
-føre bevis, stille spørsmål, prosedere og legge ned
-påstand med hensyn til det sivile kravet, men slik
-at de sider av saken som kun har betydning for
-straffekravet, faller utenfor.
-Utvalget mener det ikke er behov for å knytte
-skadelidtes rettigheter til en formell partsstatus.
-Hvilke nærmere rettigheter vedkommende har
-under behandlingen, fremgår klart av enkeltbestemmelsene i lovforslaget.
-Fornærmede og etterlatte i lovbestemt rekkefølge har i utgangspunktet rett til å gjøre seg kjent
-med saksdokumentene, jf. straffeprosessloven
-§ 242. For andre skadelidte skal det gis innsyn i
-sakens opplysninger så langt det er nødvendig for
-å ivareta vedkommendes interesser som kravshaver.
-I juridisk teori har Robberstad tatt til orde for
-at straffeprosessloven § 428, med videre henvisning til § 404, jf. § 409, gir fornærmede nokså vidtgående rettigheter. Resonnementet er at loven for
-private straffesaker angir at reglene om påtalemyndigheten for enkelte kapitler får anvendelse
-for saksøker, og at lovens regler ellers får anvendelse «så langt det er mulig og ikke annet er
-bestemt».25
-
-24
-
-25
-
-25.4.6 Ansvaret for å fremme krav – forholdet
-mellom påtalemyndigheten og bistandsadvokaten
-
-Se NOU 2006: 10 s. 204 og Ot.prp. nr. 11 (2007–2008) s. 93.
-
-Robberstad (2014) s. 186–195.
+*Tredje ledd første punktum* angir positivt i hvilke tilfeller påtalespørsmålet kan avgjøres av «påtalemyndigheten i politiet». Etter *tredje ledd* *annet punktum* har påtalemyndigheten i politiet kompetanse til å beslutte henleggelse i alle saker. Det vises til punkt 8.4.1, der utvalget forutsetter at det internt i påtalemyndigheten etableres gode organisatoriske rammer og rutiner for kontroll med henleggelser, og at politiets henleggelsesmyndighet i nødvendig utstrekning begrenses ved forskrift eller instruks.
+
+Delegasjonsadgangen etter *fjerde ledd* bør i første rekke benyttes i tilfeller der særlige hensyn gjør seg gjeldende, for eksempel for overtredelser som til tross for høy strafferamme ikke er av de mest alvorlige, eller saker der underordnet nivå har særlige faglige forutsetninger for å treffe avgjørelse. Se punkt 8.4.1.
+
+*Til § 2-12. Adgang til å møte for domstolene*
+
+Se straffeprosessloven § 76.
+
+Kriminalomsorgen er ikke en del av påtalemyndigheten, jf. utkastet § 2-1, og gjeldende § 76 femte ledd om Kriminalomsorgens myndighet til å møte for domstolene i visse tilfeller foreslås flyttet til straffegjennomføringsloven, jf. punkt 8.2.5.2.
+
+Bestemmelsen regulerer adgangen til å «møte for» domstolene, det vil si ta del i rettsmøte på vegne av påtalemyndigheten. Ved skriftlig behandling har i utgangspunktet alle tjenestepersoner i påtalemyndigheten kompetanse til å opptre for domstolene. Dette gjelder likevel bare så langt ikke annet følger av loven, hvilket det blant annet gjør for ankekompetanse, jf. utkastet § 2-14.
+
+*Første ledd* skal forstås slik at også assisterende riksadvokat kan møte og foreta aktoroppnevning i kraft av at vedkommende har samme myndighet som riksadvokaten, jf. utkastet § 2-4 tredje ledd bokstav a. Selv om det for riksadvokatens vedkommende kun er adgangen til å møte for Høyesterett som er uttrykkelig regulert etter utkastet, kan riksadvokaten og assisterende riksadvokat møte på vegne av påtalemyndigheten i alle typer saker og i alle instanser.
+
+«Ankeforhandling» etter *annet ledd* refererer til muntlig behandling av anke over dom. Det er en forutsetning at beslutning om oppnevning etter bokstav b til d skjer i hver enkelt sak og etter en konkret vurdering av om det er hensiktsmessig og forsvarlig.
+
+*Tredje ledd* *bokstav b* gir tjenestepersoner i politiet som ikke tilhører påtalemyndigheten, adgang til å møte i såkalte foreleggsaker. En forutsetning er at påtalemyndigheten vurderer det som forsvarlig og hensiktsmessig å overlate aktoratet til tjenesteperson utenfor påtalemyndigheten.
+
+Etter *fjerde ledd* *bokstav a* kan enhver tjenesteperson i påtalemyndigheten møte for tingretten og lagmannsretten utenfor hoved- og ankeforhandling, det vil si ved enkeltstående rettergangsskritt, herunder ved forenklet behandling etter utkastet kapittel 36. Adgangen etter *fjerde ledd bokstav b* antas å være særlig aktuell i forbindelse med rettslig avhør og annen bevissikring på etterforskingsstadiet.
+
+*Til § 2-13. Aktors kompetanse*
+
+Se straffeprosessloven §§ 254 første og tredje ledd og 341.
+
+Bestemmelsen gir særlig myndighet til aktor under hoved- og ankeforhandling.
+
+Etter *første ledd bokstav a* kan møtende aktor «endre» tiltalen etter § 29-7 første ledd, det vil si foreta endringer innenfor *samme forhold*. Møtende aktor har ikke videre myndighet enn ellers til å ta ut tiltale for andre straffbare forhold.
+
+Frafallelse av tiltalen under hoved- eller ankeforhandling etter *første ledd bokstav b* vil i praksis skje av bevismessige grunner eller fordi straff ikke kan anvendes på forholdet, jf. utkastet § 29-7 annet ledd, jf. § 28-2 første ledd. Etter utkastet er det ikke adgang til å påstå frifinnelse uten at tiltalen samtidig frafalles, jf. punkt 8.3.4. Virkningen av å frafalle tiltalen under hoved- og ankeforhandling er regulert i tredje ledd i utkastet § 32-3 om rettens forhold til partenes krav og påstander mv.
+
+Spørsmålet om å frafalle eller endre tiltalen mv. bør etter omstendighetene tas opp med den som har påtalekompetansen, men aktors myndighet etter loven er ikke betinget av samtykke fra riksadvokaten eller den som har tatt ut tiltale i saken.
+
+*Til § 2-14. Ankekompetanse*
+
+Se straffeprosessloven § 68 og påtaleinstruksen § 27-3 annet ledd.
+
+Om bakgrunnen for forslaget vises det til punkt 8.4.3, der det blant annet fremgår at politimesterens kompetanse til å erklære anke etter gjeldende lov ikke foreslås videreført.
+
+Utenfor de særlige tilfellene regulert i *første ledd første og annet punktum* kan enhver tjenesteperson som tilhører påtalemyndigheten, erklære anke, jf. *første ledd tredje punktum*. Avgjørende for ankekompetansen etter *første ledd første punktum* er hvilket nivå i påtalemyndigheten som har «besluttet tiltale». Selv om statsadvokaten har påtalekompetanse, hører følgelig spørsmålet om anke under riksadvokaten dersom sistnevnte har avgjort tiltalespørsmålet. Den som er ankeberettiget, har også myndighet til å frafalle anken etter utkastet § 37-7. Om møtende aktors adgang til å frafalle erklært anke, se utkastet § 2-13 bokstav d.
+
+Vedtakelseskompetansen i *annet ledd første punktum* er som et utgangspunkt lagt til den som er ankeberettiget. Påtalemyndigheten i politiet er imidlertid gitt vedtakelsesmyndighet i saker der den har avgjort tiltalespørsmålet, jf. *annet ledd* *annet punktum*. Møtende aktor har ikke utvidet kompetanse til å beslutte vedtakelse. *Annet ledd tredje punktum* er en kodifisering av overordnet påtalemyndighets adgang til å omgjøre en beslutning om vedtakelse innen ankefristens utløp, jf. Rt. 2006 s. 1214.
+
+*Til § 2-15. Spesialenheten for politisaker*
+
+Se straffeprosessloven § 67 sjette til niende ledd og påtaleinstruksen kapittel 34.
+
+Den særlige reguleringen av Spesialenheten for politisaker må ses i sammenheng med at enheten etter utkastet er en del av påtalemyndigheten, jf. § 2-1 bokstav b. Tjenestepersoner som utøver påtalemyndighet på vegne av enheten, er følgelig underlagt de reglene som ellers gjelder for påtalemyndigheten og dens virksomhet, herunder reglene i §§ 2-3 om objektivitetsplikt, uavhengighet og taushetsplikt, 2-7 om kvalifikasjonskrav og politiattest og 2-8 om habilitet.
+
+Etter *første ledd* er riksadvokaten «overordnet påtalemyndighet», med instruksjons- og omgjøringsmyndighet etter utkastet § 2-9 første ledd.
+
+Enhetens ansvarsområde følger av første ledd bokstav a til c. Uttrykket «tjenesteperson tilknyttet politiet» i *første ledd bokstav a* omfatter, foruten personer med formelt ansettelsesforhold i politiet, også politihøgskolestudenter i praksis og innkalte mannskaper fra politireserven. Andre myndighetspersoner med politimyndighet uten direkte tilknytning til politiet omfattes ikke, se om dette Bjerke, Keiserud og Sæther (2011) s. 288 og 290 og Ot.prp. nr. 4 (1994–95) s. 30 og 56.
+
+Vilkåret «i forbindelse med» i *første ledd bokstav b* skal forstås vidt og omfatter både død og skade som er en direkte følge av tjenestehandlinger, og som inntrer mens vedkommende er tatt hånd om av påtalemyndigheten eller politiet. Hvorvidt etterforsking skal iverksettes, må vurderes etter utkastet § 13-2 om vilkår for etterforsking.
+
+*Første ledd bokstav c* åpner for at riksadvokaten kan overføre saker til enheten også i tilfeller som ikke omfattes av bokstav a eller b. Dette kan være aktuelt i saker med flere mistenkte eller flere forhold, der bare deler av sakskomplekset er underlagt enhetens alminnelige ansvarsområde. Overføring etter bokstav c kan videre benyttes når behovet for avstand til politiet eller den øvrige påtalemyndighet, hensynet til offentlighetens tillit eller andre særlige forhold tilsier det, se punkt 8.2.4.
+
+Etter *annet ledd første punktum* gjelder reglene i utkastet om statsadvokatens kompetanse tilsvarende for «sjefen for enheten», jf. blant annet utkastet §§ 2-11 om påtalekompetanse, 2-12 om adgang til å møte for domstolene og 2-14 om ankekompetanse. Vedkommende har også myndighet til å gi pålegg direkte til tjenestepersoner i politiet som ikke tilhører påtalemyndigheten, jf. utkastet § 2-10.
+
+*I annet ledd annet punktum* er det ansett overflødig å gjøre den assisterende sjefens myndighet betinget av sjefens fullmakt eller forfall, ettersom vedkommende uansett vil være underlagt sjefens instruksjons- og omgjøringsmyndighet, jf. utkastet § 2-9 annet ledd. I samsvar med etablert praksis og det som gjelder for statsadvokater, er det uttrykkelig bestemt at sjefen og den assisterende sjefen for enheten er embetsmenn.
+
+Riksadvokaten kan i kraft av sin alminnelige instruksjonsmyndighet fastsette retningslinjer for bruk av fullmaktshjemmelen i *annet ledd tredje punktum*, men utad vil fullmakten gjelde etter sitt innhold selv om den skulle være i strid med slik instruks, jf. merknadene til utkastet § 2-4 første ledd.
+
+*Til § 2-16. Forskrifter om påtalemyndigheten*
+
+Se straffeprosessloven §§ 62 og 67 femte og syvende ledd.
+
+Utkastet § 2-16 gir Kongen i statsråd hjemmel til å gi presiserende og utfyllende regler om påtalemyndigheten og dens virksomhet. At forskriftskompetansen er gitt «Kongen i statsråd», medfører at den ikke kan delegeres.
+
+Det kan blant annet gis regler om fordeling av (geografisk) stedlig og saklig myndighet, herunder om at visse grupper av saker skal behandles av en særskilt myndighet innen påtalemyndigheten. Videre kan det gis nærmere regler om Spesialenheten for politisaker, herunder om etablering av regionale etterforskingsavdelinger mv.
+
+**Til kapittel 3. Mistenkte og forsvareren**
+
+Kapittel 3 i lovutkastet inneholder sentrale bestemmelser om mistenkte og forsvareren. Se straffeprosessloven kapittel 8 og 9.
+
+Kapitlet gjelder for alle mistenkte, uansett stadium i prosessen. Hvem som skal anses som mistenkt, er regulert i utkastet § 3-1. Flere bestemmelser som i dag er regulert i straffeprosessloven kapittel 8 og 9, og som har nær sammenheng med mistenktes mulighet til å gjøre bruk av sine rettigheter, er flyttet til øvrige deler av loven. Se for eksempel straffeprosessloven §§ 86 til 92 om varsel og innkalling mv., som i lovutkastet er plassert i kapittel 31 om rettsmøter og kapittel 10 om avhør. Det er inntatt en oversiktsbestemmelse i utkastet § 3-1 som viser til sentrale rettigheter og plikter for mistenkte under rettergangen.
+
+Kapitlet regulerer videre forsvarerens rolle som representant for mistenkte. Forsvarerens oppgaver og rettigheter under forfølgningen klargjøres, og det gis regler om hvem som kan gjøre tjeneste som forsvarer, og om oppnevning og godtgjørelse til forsvarere. Til slutt i kapitlet er det regulert når det skal oppnevnes særskilt advokat for mistenkte i forbindelse med hemmelige etterforskingsskritt, og hvilke oppgaver advokaten har.
+
+*Til § 3-1. Mistenktes rettigheter*
+
+Bestemmelsen angir hvem som er mistenkt etter loven. Det kreves at det objektiv sett er eller har vært mistanke mot vedkommende. Uttrykket «mistenkte» omfatter også den som etter straffeprosessloven betegnes som «siktet». Den særskilte statusen som siktet i snever forstand etter § 82 er ikke videreført. Se drøftelsen i punkt 9.2.7.
+
+Uttrykket «retter seg mot» skal forstås som etter gjeldende rett, slik at dersom mistanken er bestemt – det er uklart om det er begått en straffbar handling, men hvis så er tilfellet, er det klart hvem som er gjerningsmannen – anses etterforskingen vanligvis å være rettet mot vedkommende, uavhengig av mistankens styrke. Man har status som mistenkt selv om antakelsen mistanken hviler på, er ubegrunnet, så lenge mistanken har kommet til uttrykk. Er mistanken ubestemt – det er uklart hvem som har begått et mulig lovbrudd – må det bero på en konkret vurdering om vedkommende ut fra sin stilling er spesielt utpekt. Ved dobbeltsidig mistanke – det er enten person A eller B som er skyldig – skal normalt begge anses som mistenkt.
+
+Rettighetskatalogen for mistenkte i *bokstav a til i* viser til andre deler av loven og er inntatt av pedagogiske grunner. Oppregningen er ikke ment å være uttømmende.
+
+*Til § 3-2. Uskyldspresumsjonen. Selvinkriminering*
+
+Se straffeprosessloven §§ 90, 123 og 230. Se også påtaleinstruksen § 8-1 første ledd annet punktum.
+
+Uskyldspresumsjonen er forankret i utkastet § 3-2 *første ledd*. Mistenkte har krav på å bli behandlet som uskyldig under hele prosessen inntil det foreligger rettskraftig avgjørelse som konstaterer straffansvar. Se også Grunnloven § 96 annet ledd. Om bakgrunnen for forslaget vises det til punkt 13.2.8.
+
+*Annet ledd første punktum* slår fast mistenktes vern mot tvungen selvinkriminering. Se nærmere om vernets innhold i punkt 9.3. Første del av bestemmelsen er rettet mot staten og slår fast det overordnede vernet mot selvinkriminering. Andre del av bestemmelsen fokuserer på rettighetsperspektivet, ved at to sentrale utslag av prinsippet er særskilt løftet frem i ordlyden. Mistenkte har ikke forklaringsplikt overfor politiet eller retten, jf. utkastet § 9-1 og kommentaren til bestemmelsen, og har heller ikke plikt til å utlevere inkriminerende dokumenter eller andre bevis, jf. utkastet § 19-7 første ledd med merknader.
+
+For så vidt gjelder fysiske personer, skal bestemmelsen forstås som etter gjeldende rett. Det følger imidlertid av utkastet til *annet ledd annet punktum* at juridiske personer ikke omfattes av vernet. Se drøftelsen i punkt 9.3.5.
+
+Politiets og rettens plikt *etter annet ledd tredje punktum* til å orientere mistenkte om rettighetene er nærmere regulert i utkastet § 10-4. Er en forklaring innhentet i strid med vernet etter § 3-2, det vil si enten gjennom tvang, forledelse eller ved å oppta forklaring uten å gjøre vedkommende kjent med sin rett, er den ulovlig ervervet. Se nærmere om betydningen av det i utkastet § 8-5 og kommentaren til denne bestemmelsen.
+
+*Til § 3-3. Utøvelse av partsrettigheter for personer under 18 år og andre under vergemål*
+
+Se straffeprosessloven §§ 83, 84 og 94 annet ledd.
+
+Når mistenkte har verge, er utgangspunktet etter *første ledd første punktum* at mistenktes prosessuelle rettigheter etter loven tilkommer vergen. Om vergemål for mindreårige vises det til vergemålsloven kapittel 3, særlig §§ 8, 9 og 16 til 18. Vilkårene for vergemål for voksne følger av vergemålsloven § 20.
+
+*Første ledd annet punktum* innebærer en realitetsendring sammenlignet med gjeldende rett. Det slås fast at dersom mistenkte er over den kriminelle lavalder kan vedkommende som utgangspunkt velge å utøve rettighetene selv. Vergen har rett til å være til stede i rettsmøter selv om mistenkte velger å utøve partsrettighetene selv.
+
+Første ledd stiller ikke krav om at det oppnevnes verge for mistenkte. Saken kan gjennomføres uten verge, med mindre vilkårene i annet ledd er oppfylt. Vilkåret i *annet ledd* om at vedkommende ikke skal være «i stand til å vareta sine interesser», skal forstås nokså snevert, noe som er reflektert ved at loven angir tilstander som nevnt i straffeloven første ledd bokstav b til d som typetilfeller. Gruppen som omfattes av annet ledd, er noe snevrere enn kretsen angitt i vergemålsloven § 20 første ledd. Verge oppnevnes av fylkesmannen. Den oppnevnte vergen utøver mistenktes partsrettigheter etter første ledd.
+
+*Til § 3-4. Utøvelse av partsrettigheter for foretak*
+
+Se straffeprosessloven § 84 a.
+
+Bestemmelsen gis anvendelse når mistenkte er et foretak, det vil si en juridisk person som angitt i straffeloven § 27 annet ledd.
+
+Personen som skal representere foretaket etter *første ledd*, utpekes av det organ som har slik myndighet etter alminnelige selskaps- og foreningsrettslige regler mv. Det kan for eksempel være styret i et selskap. Daglig leders myndighet som sådan vil vanligvis ikke omfatte utøvelsen av partsrettigheter. Er ingen utpekt, eller er opplysninger om dette ikke gitt fra foretaket til påtalemyndigheten, kan påtalemyndigheten holde seg til den som tegner firmaet eller på annen måte fremstår utad som leder. Se nærmere Ot.prp. nr. 27 (1990–91) s. 41.
+
+*Annet punktum* forutsetter ikke at det er innledet forfølgning mot vedkommende, det er tilstrekkelig at det er holdepunkter for at etterforsking vil bli iverksatt. Uttrykket «i tilknytning til saken» skal forstås slik at det heller ikke bør utpekes noen som kan bli mistenkt i andre saker i samme sakskompleks.
+
+*Til § 3-5. Mistenktes plikter*
+
+Se straffeprosessloven §§ 85 første ledd og 230 tredje ledd annet punktum.
+
+Mistenkte skal oppgi personalia til offentlige myndigheter i anledning straffeforfølgning, jf. *første ledd*. Vedkommende har ikke forklaringsplikt, jf. utkastet §§ 3-2 og 9-1, men har likevel plikt til å møte til avhør, i rettsmøter og til undersøkelser vedkommende er innkalt til etter *annet ledd*. Mistenkte som klart har tilkjennegitt ikke å ville forklare seg, skal ikke innkalles, og vedkommende plikter heller ikke å møte, jf. § 10-1 annet ledd og merknadene til bestemmelsen. Reglene for innkalling til avhør og rettsmøter følger av §§ 10-2 og 31-2.
+
+*Til § 3-6. Rett til å la seg bistå av forsvarer. Fritt forsvarervalg*
+
+Se straffeprosessloven §§ 94 første ledd første punktum og annet ledd og 102 første ledd tredje til femte punktum.
+
+Bestemmelsen slår fast det grunnleggende straffeprosessuelle prinsippet om mistenktes rett til forsvarer og fritt forsvarervalg. Bestemmelsen viderefører gjeldende rett. Valgfriheten begrenses av § 3-22 annet ledd. Rett til bistand på det offentliges bekostning har mistenkte når vilkårene i §§ 3-11 til 3-20 er oppfylt, jf. utkastet § 3-24 første ledd. Mistenkte skal gjøres kjent med sin rett til forsvarer og muligheter for å få bistanden dekket av det offentlige, jf. § 10-4 første ledd bokstav d.
+
+Etter *første ledd annet punktum* er det opp til mistenkte om vedkommende ønsker å benytte flere forsvarere. Det er likevel ikke gitt at alle blir oppnevnt og får offentlig godtgjørelse, jf. utkastet § 3-22 tredje ledd, jf. § 3-24. Har mistenkte flere forsvarere, skal det gjøres klart for retten og sakens øvrige aktører hvem av dem som opptrer på vegne av mistenkte, og som man skal forholde seg til.
+
+Mistenktes rett til å la seg bistå av forsvarer etter utkastet § 3-6 suppleres av bestemmelser som fastslår når det skal være, eller som et utgangspunkt skal være, forsvarer, jf. utkastet §§ 3-11 til 3-20. Retten skal i slike tilfeller påse at oppnevning finner sted, og kostnadene dekkes som et utgangspunkt av det offentlige, jf. §§ 3-22 og 3-24.
+
+*Til § 3-7. Forsvarerens oppgaver*
+
+Se straffeprosessloven §§ 93 annet ledd, 98 tredje ledd, 186 første ledd, 242 til 244 og 264. Se også påtaleinstruksen §§ 8-4, 8-8 og 8-13.
+
+Den ytre rammen for forsvareroppdraget er loven og bestemmelsene om god advokatskikk, jf. domstolloven § 224 første ledd. Utdypende bestemmelser er gitt i advokatforskriften kapittel 12.
+
+*Første ledd* presenterer forsvarerens hovedoppgaver som mistenktes representant. Forsvareren skal beskytte mistenktes grunnleggende interesser, herunder påse at rettigheter slått fast i Grunnloven §§ 83 annet ledd og 94 respekteres av staten.
+
+Forsvareren plikter å påse at mistenkte får en rettferdig rettergang, jf. Grunnloven § 96, EMK artikkel 6 og SP artikkel 14, og at mistenktes prosessuelle rettigheter blir ivaretatt på alle stadier i forfølgningen. Råd og strategiske innspill om utøvelse av forsvaret bør gis av forsvareren, jf. *første ledd bokstav d*. Herunder vil det være forsvarerens oppgave å opplyse mistenkte om betydningen av å avgi forklaring eller forholde seg taus.
+
+*Annet ledd* slår fast sentrale rettigheter forsvareren har ved utførelsen av oppdraget. Forsvareren kan for øvrig utøve mistenktes prosessuelle rettigheter etter § 3-1 bokstav e, f og h på mistenktes vegne. Rettighetene etter annet ledd er nødvendige for å kunne etterleve pliktene i første ledd, og innholdet i rettighetene skal derfor forstås i lys av forsvarerens oppgaver.
+
+Forsvarerens rettigheter er i det vesentlige som etter straffeprosessloven, men det er en utvidelse ved at retten til innsyn, jf. *bokstav a*, og uforstyrret kommunikasjon, jf. *bokstav b*, gjelder for alle forsvarere. Innsynsretten følger hovedreglene i lovutkastet kapittel 6, og avgjørelsen av om innsyn skal gis eller nektes, vil kunne slå noe ulikt ut avhengig av hvem som ber om det.
+
+Effektiv kommunikasjon mellom mistenkte og forsvareren, jf. bokstav b, kan innebære at det benyttes tolk. Loven forutsetter at det etableres hensiktsmessige løsninger for utvelgelse og kontroll av de tolker som benyttes. Tolk som allerede har gjort tjeneste i rettsmøte, bør som hovedregel kunne benyttes også under forsvarerens samtaler med klienten.
+
+*Til § 3-8. Formelle krav for å være forsvarer. Bistand til forsvareroppdraget*
+
+Se straffeprosessloven § 95 første til tredje ledd.
+
+Uttrykket «annen skikket person» skal forstås som i dag, jf. § 95 annet ledd annet punktum.
+
+Oppdraget som forsvarer er personlig, jf. *annet ledd*. Den som vet at vedkommende selv ikke har anledning til å følge opp de vesentlige sider ved saken, skal ikke påta seg oppdraget. Se nærmere drøftelsen i punkt 9.4.3.6. Loven er imidlertid ikke til hinder for at forsvareren lar en advokatfullmektig opptre på sine vegne, jf. domstolloven § 223, får bistand fra en kollega ved enkeltstående rettergangsskritt eller lar en kollega vikariere for seg ved korte fravær i langvarige saker.
+
+*Til § 3-9. Habilitet*
+
+Se straffeprosessloven §§ 95 fjerde ledd og 106.
+
+Bestemmelsen retter seg mot alle forsvarere, både privat antatte og forsvarere som oppnevnes etter utkastet § 3-22.
+
+*Annet og tredje ledd* viderefører gjeldende krav til forsvarerens uavhengighet fra andre klienter ved utførelsen av oppdraget. En tilnærmet lik bestemmelse som den i annet ledd finnes i dag i Advokatforeningens retningslinjer for forsvarere punkt 1.7. Holdepunktene etter annet ledd skal være konkrete.
+
+Vilkåret etter *tredje ledd* om at det ikke må være utilrådelig at forsvareren gjør tjeneste, skal forstås strengt. Bestemmelsen omfatter situasjoner der en advokat tidligere har opptrådt i strid med loven eller på annen måte som ikke lar seg forene med utførelsen av vervet.
+
+*Til § 3-10. Forsvarerens taushetsplikt*
+
+Se straffeprosessloven § 106 a.
+
+Forsvarerens taushetsplikt omfatter all informasjon forsvareren får i forbindelse med oppdraget, uavhengig av form eller hvem informasjonen mottas fra. Taushetsplikten omfatter dessuten enhver som utfører tjeneste eller arbeid for forsvareren, herunder fullmektiger, advokatkollegaer og administrativt ansatte. Bestemmelsen må ses i sammenheng med reglene om taushetsplikt for advokater i advokatloven §§ 27 og 28, se merknadene til disse bestemmelsene i NOU 2015: 3 s. 431 flg. Overtredelse av taushetsplikten kan straffes etter straffeloven § 209.
+
+*Til § 3-11. Forsvarer under hele saken*
+
+Se straffeprosessloven §§ 96 siste ledd og 100 annet ledd.
+
+Retten til forsvarer etter utkastet § 3-11 gjelder «alltid» og kan således slå inn på ethvert trinn av saken. Er vilkåret oppfylt, skal påtalemyndigheten eller retten oppnevne forsvarer av eget tiltak. Det kan ikke gis avkall etter § 3-21. Oppnevningen består frem til saken er rettskraftig avgjort.
+
+*Første punktum* *bokstav b* viderefører straffeprosessloven § 100 annet ledd for så vidt gjelder forhold ved mistenktes person. Bestemmelsen omfatter klart nok situasjonen der det er grunn til å anta at mistenkte er utilregnelig, men også andre typer personlige forhold omfattes, som språkkunnskaper og helseforhold. Personer som er funksjonshemmet (eksempelvis døve eller blinde), fysisk redusert (blant annet skadede, syke eller svært gamle) eller som har alvorlige psykiske problemer, vil ha krav på forsvarer etter bestemmelsen dersom forholdene gjør at vedkommende «ikke er i stand til å ivareta sine interesser». Bestemmelsen stiller også krav om forsvarer når det iverksettes etterforsking mot en person under 15 år, jf. utkastet § 13-2 annet ledd og merknadene til bestemmelsen.
+
+*Første punktum bokstav c* skal sikre likestilling mellom sakens aktører og rette opp skjevheten som i dag følger av at det ofte oppnevnes bistandsadvokat uten at den som er mistenkt for den straffbare handlingen, har krav på forsvarer.
+
+*Til § 3-12. Forsvarer ved politiavhør av mistenkte*
+
+Se nærmere om bakgrunnen for bestemmelsen i punkt 9.4.3.2.
+
+I uttrykket «kan bli spørsmål om» ligger en vurdering av om det er en realistisk mulighet for ubetinget reaksjon. Terskelen må ses i lys av at det for mistenkte er av sentral rettssikkerhetsmessig betydning at vedkommende har forsvarerbistand tidlig i prosessen, jf. særlig EMDs storkammeravgjørelse Salduz mot Tyrkia 27. november 2008 avsnitt 54–55. Se også avgjørelsene HR-2016-92-U, Rt. 2015 s. 844 og Rt. 2015 s. 860. Forsvareroppdraget omfatter nødvendigvis noe arbeid i for- og etterkant av selve avhøret.
+
+Gjennomføres avhøret uten forsvarer, kan det etter omstendighetene føre til at avhøret ikke kan benyttes senere i saken, heller ikke til konfrontasjon ved endret forklaring. Se utkastet § 8-5 og merknadene til bestemmelsen. Se også drøftelsen i punkt 9.4.3.2. og Rt. 2015 s. 844 avsnitt 51. Mistenkte kan gi avkall etter utkastet § 3-21.
+
+*Til § 3-13. Forsvarer ved pågripelse og fengsling*
+
+Se straffeprosessloven § 98. Se drøftelsen i punkt 9.4.3.4.
+
+Regelen gjelder unntaksfritt, jf. utkastet § 3-21. Terskelen for forsvareroppnevning er senket sammenlignet med gjeldende lov. Det skal oppnevnes forsvarer straks det er «grunn til å tro» at mistenkte vil være berøvet friheten utover 24 timer, jf. *første punktum*. Mistenkte skal ha forsvarer så lenge vedkommende er berøvet friheten. Utkastet skal forstås slik at forsvareren kan arbeide med andre sider av saken enn selve fengslingsspørsmålet i løpet av fengslingsperioden.
+
+Etter *tredje punktum* skal det være forsvarer når det er spørsmål om å ilegge begrensninger i mistenktes bevegelsesfrihet, jf. utkastet § 15-1 første ledd bokstav a til e og merknadene til bestemmelsen. Det vil i hovedsak være aktuelt med forsvarer når slik beslutning skal treffes av påtalemyndigheten. Når spørsmålet bringes inn for retten, har mistenkte i mange tilfeller allerede forsvarer etter regelen i første punktum. Tidspunktet for forsvareroppnevningen må vurderes i lys av mistenkte og forsvarerens behov for forberedelse.
+
+*Til § 3-14. Forsvarer ved særskilte rettergangsskritt*
+
+Se straffeprosessloven §§ 97, 99 og 100 b.
+
+I mange tilfeller vil mistenkte ha forsvarer på annet grunnlag når det gjennomføres rettslig avhør, men i motsatt fall vil *bokstav a* gi selvstendig hjemmel for oppnevning.
+
+*Bokstav b* fastslår at mistenkte ikke skal være dårligere stilt når bevis sikres ved bevisopptak, enn under hovedforhandlingen. Bestemmelsen omfatter også bevisopptak til bruk for ankeforhandling. Den rett som foretar bevisopptaket, kan forestå forsvareroppnevningen. Dersom bevisopptak gjennomføres uten forsvarer, uten at mistenkte har gitt avkall på forsvarer etter utkastet § 3-21, skal beviset nektes ført under hovedforhandlingen. Se utkastet § 8-5 og merknadene til bestemmelsen samt punkt 13.3.4.4.
+
+Utenfor oppregningen i bokstav a til e kan det ved særskilte rettergangsskritt bli aktuelt å oppnevne forsvarer på skjønnsmessig grunnlag, jf. utkastet § 3-20. For så vidt gjelder fengsling, vises det til utkastet § 3-13 og merknadene til bestemmelsen.
+
+Ved særskilte rettergangsskritt kan mistenkte gi avkall på forsvarer etter utkastet § 3-21. Ved betenkelighetsvurderingen etter utkastet § 3-21 første punktum inngår sakens karakter og alvor og forhold ved mistenkte. Er det tale om et bevisopptak, vil bevisets antatte betydning være relevant.
+
+*Til § 3-15. Forsvarer ved tilrettelagt avhør*
+
+Bestemmelsen gir mistenkte rett til forsvarer når det gjennomføres avhør av barn og særlig sårbare personer. Om tilrettelagt avhør, se utkastet § 10-7 og merknadene til bestemmelsen. Ved tilrettelagt avhør vil for øvrig den som avhøres i mange tilfeller ha bistandsadvokat, og mistenkte vil i så fall allerede ha krav på forsvarer etter utkastet § 3-11 bokstav c.
+
+*Til § 3-16. Forsvarer under hovedforhandling*
+
+Se straffeprosessloven § 96 første, annet og tredje ledd. For så vidt gjelder ankeforhandling, se utkastet § 3-18. Det vises til drøftelsen i punkt 9.4.3.5.
+
+Tiltalte har som hovedregel krav på forsvarer ved forberedelse og gjennomføring av hovedforhandling for tingrett, jf. *første punktum*. Mistenkte kan gi avkall etter utkastet § 3-21.
+
+Uttrykket «spørsmål om» i annet punktum må ses i sammenheng med det tilsvarende uttrykket i utkastet § 3-12. Ved oversendelsen til retten, må påtalemyndigheten angi om det skal oppnevnes forsvarer, jf. utkastet § 34-1 bokstav e. Dersom spørsmålet oppstår under forhandlingene, skal saken stanses eller stilles i bero slik at forsvarer kan oppnevnes og sette seg inn i saken.
+
+*§ 3-17. Forsvarer ved forenklet behandling*
+
+Se straffeprosessloven § 99.
+
+Etter forslaget har mistenkte krav på forsvarer i alle tilfeller hvor det er spørsmål om å idømme en ubetinget reaksjon etter forenklet behandling. Påtalemyndigheten må angi straffepåstand ved oversendelse av saken til retten, jf. § 36-2 bokstav c. Se nærmere drøftelsen i punkt 9.4.3.5.
+
+*Til § 3-18. Forsvarer ved anke*
+
+Se straffeprosessloven §§ 96 første ledd, 313 og 328 første ledd.
+
+*Første ledd* er et uttrykk for at en sentral del av forsvareroppgaven er å vurdere holdbarheten av rettslige avgjørelser og legge til rette for anke ved eventuelle feil. Mistenkte skal ha forsvarer i forbindelse med spørsmål om anke når vedkommende har hatt forsvarerbistand ved særskilt rettergangsskritt etter § 3-14 og ved hovedforhandling etter § 3-16. For utkastet § 3-13 følger det allerede av bestemmelsen selv at den som er pågrepet eller fengslet, har forsvarer til å ta seg av et eventuelt spørsmål om anke. Innenfor oppdraget kan forsvarer som er oppnevnt etter § 3-22, vurdere spørsmålet om anke og bistå ved forberedelse og gjennomføring av ankebehandlingen. Det er således ikke nødvendig med ny oppnevning i forbindelse med ankebehandling.
+
+*Annet ledd* fastslår at dersom mistenkte ikke har hatt krav på forsvarer tidligere, skal vedkommende likevel ha slik representasjon dersom det er besluttet at en anke over dom skal tas til behandling, eller det skal være muntlig behandling av anke over beslutning. Bistanden etter annet ledd omfatter forberedelse til og tilstedeværelse under forhandlingene, ikke vurdering av om det skal inngis ankeerklæring, eller utarbeidelse av erklæring.
+
+*Til § 3-19. Forsvarer ved brudd på vilkår for betinget straff, samfunnsstraff mv.*
+
+Se straffeprosessloven § 100 c, som ble tilføyd ved lov 19. juni 2015 nr. 65.
+
+Når det er spørsmål om å fastsette eller fullbyrde frihetsstraff, skal den domfelte som hovedregel ha forsvarer etter bestemmelsen. Dersom det er tale om mindre alvorlige forhold, og det er ubetenkelig at domfelte er uten forsvarer, kan oppnevning unnlates dersom domfelte gir avkall etter utkastet § 3-21.
+
+*Til § 3-20. Forsvarer i særlige tilfeller*
+
+Se straffeprosessloven § 100 annet ledd.
+
+Bestemmelsen viderefører praksis under straffeprosessloven § 100 annet ledd for situasjonene utenfor dem som er uttrykkelig oppregnet i utkastet § 3-11. Se også utkastet § 3-12 og merknadene til bestemmelsen.
+
+Uttrykket «særlige forhold» forutsetter en konkret og bred vurdering, slik som etter vilkåret om særlige grunner i straffeprosessloven § 100 annet ledd, jf. HR-2016-92-U. Det siktes blant annet til spesielt store saker, saker med uklart og komplisert faktum, og saker som byr på vanskelige rettslige spørsmål. Spesielt stor pågang fra media kan også begrunne oppnevning. Se nærmere om forståelsen av dagens vilkår i Rt. 2015 s. 844 avsnitt 19 og 20 med videre henvisning til Ot.prp. nr. 66 (2001–2002) s. 26.
+
+Oppnevning etter § 3-20 kan skje etter begjæring eller på rettens initiativ, jf. § 3-22 første ledd. I tilfeller som omfattes av bestemmelsen, vil det vanligvis være mest aktuelt å oppnevne forsvarer for hele saken, men det kan også tenkes at behovet bare gjør seg gjeldende for et enkeltstående rettergangsskritt eller en bestemt del av saken. Det kan for eksempel bli aktuelt med forsvarerbistand i forbindelse med et spørsmål om straffetilsagn etter § 28-7.
+
+*Til § 3-21. Avkall på forsvarer*
+
+Se straffeprosessloven §§ 96 femte ledd og 98 annet ledd.
+
+Mistenkte kan i visse tilfeller gi avkall på forsvarer, jf. *første punktum*. Det kan ikke gis avkall på forsvarer ved pågripelse og fengsling, ved tilrettelagt avhør, eller i saker om opphevelse eller endring av vilkår for prøveløslatelse fra forvaring, jf. *annet punktum*. Det ligger i bestemmelsenes natur at det ikke kan gis avkall i tilfeller som nevnt i utkastet §§ 3-11 og 3-20. Paragrafene er likevel med i oppregningen for å synliggjøre at adgangen er stengt i slike saker.
+
+Et avkall må være uttrykkelig. Før avkall gis, skal mistenkte få tilstrekkelig og klar informasjon om sin rett til forsvarer, og om muligheten for å få bistanden betalt av det offentlige, jf. *tredje punktum* og HR-2016-379-A. Mistenktes rett til å rådføre seg med forsvarer omfatter i utgangspunktet vurderingen av om det skal gis avkall – en problemstilling som trolig vil være mindre praktisk. I praksis vil spørsmålet om avkall oppstå i politiavhør av mistenkte. Når det tas opptak av avhør mv., bør det fremgå av lydopptaket at nødvendig informasjon er gitt. Retten må i tillegg foreta en selvstendig vurdering av om det er ubetenkelig i den konkrete saken at mistenkte ikke har representasjon.
+
+*Til § 3-22. Oppnevning av forsvarer*
+
+Se straffeprosessloven § 102 første ledd.
+
+Som hovedregel oppnevnes forsvarer av retten, jf. *første ledd første punktum*. Retten har selv plikt til å sørge for oppnevning i saker der mistenkte *skal* ha forsvarer, og skal ellers vurdere spørsmålet etter begjæring. Bestemmelsen må ses i sammenheng med utkastet § 3-24 første ledd som slår fast at alle forsvarere som skal ha offentlig salær, må være oppnevnt.
+
+Før oppnevning skal det kontrolleres at forsvareren oppfyller lovens vilkår for vervet, jf. utkastet §§ 3-8 og 3-9.
+
+Etter *første ledd annet punktum* er påtalemyndigheten gitt kompetanse til å oppnevne forsvarer i forbindelse med politiavhør av mistenkte, tilrettelagt avhør, pågripelse og fengsling. Oppnevningen kontrolleres i ettertid av retten, som kan omgjøre beslutningen, jf. *første ledd tredje punktum*.
+
+Forsvarervalget er som det klare utgangspunkt fritt. Begrensningen i *annet ledd* tar sikte på å videreføre det som følger av straffeprosessloven § 102 første ledd tredje og fjerde punktum. Uttrykket «forsinkelse av betydning» skal forstås som etter straffeprosessloven, herunder er overskridelse av fristen for å avholde hovedforhandling etter § 34-2 tredje ledd omfattet.
+
+Forsvareroppdraget kan begrenses til bestemte gjøremål eller en bestemt del av saken – et avhør eller et bevisopptak osv., jf. *fjerde ledd.*
+
+*Til § 3-23. Faste forsvarere*
+
+Se straffeprosessloven §§ 101 og 103.
+
+Utkastet viderefører dagens ordning med bruk av faste forsvarere. Disse oppnevnes etter tur i tilfeller der mistenkte ikke benytter sin valgrett, jf. *første ledd*. Rekkefølgen kan fravikes, jf. *annet ledd*. Uttrykket «særlige forhold» omfatter tilfeller hvor forsvareren er inhabil, selv om dette også vil følge av vilkårene for oppnevning. Det kan videre være at forhold ved saken eller ved forsvareren innebærer at den som står for tur, ikke kan påta seg vervet. Det kan tenkes at helsemessige eller praktiske årsaker er til hinder, eller at forsvareren ikke har nødvendig sikkerhetsklarering. Faste forsvarere for Høyesterett må ha møterett for Høyesterett.
+
+Nærmere kvalifikasjonskrav fastsettes i forskrift, jf. utkastet § 3-27.
+
+*Til § 3-24. Godtgjørelse til forsvarere*
+
+Se straffeprosessloven § 107. Se også forskrift 3. desember 1997 nr. 1441 om salær fra det offentlige til advokater mv. og forskrift 12. desember 2005 nr. 1442 om salær fra det offentlige til advokater m.fl. etter faste satser (stykkprissatser) ved fri rettshjelp og straffesaker.
+
+Det offentlige dekker salæret til oppnevnte forsvarere, jf. *første ledd*. Salæret skal begrenses til arbeid som er «nødvendig» for å dekke behovet for bistand, og fastsettes etter reglene i salærforskriften. *Første ledd annet punktum* skal sikre at det offentlige normalt ikke dekker dobbeltarbeid som følge av at mistenkte bytter forsvarer.
+
+Mistenkte kan få betalt forsvarer i alle tilfeller der vedkommende har krav på forsvarer etter reglene i kapitlet. I andre tilfeller må mistenkte anta forsvarer for egen regning. I tilfeller der mistenkte har krav på offentlig betalt forsvarer, har forsvareren ikke anledning til å motta offentlig salærsats og tilleggsbetaling fra mistenkte. Vil mistenkte i slike tilfeller betale forsvareren selv, må hele salæret dekkes privat, jf. *annet ledd*. Forsvareren har imidlertid anledning til å påta seg tilleggsoppdrag for mistenkte. Tilleggsoppdrag må avgrenses mot oppdraget i saken forsvareren får godtgjørelse for.
+
+*Tredje ledd* erstatter det som etter gjeldende rett følger av § 107 første ledd annet og tredje punktum om betaling for forsvarer som antas utenfor rettskretsen. Loven forutsetter at reglene om utgiftsdekning skal knyttes til det enkelte lagdømme. Bestemmelser om betaling for slike utgifter fastsettes i forskrift.
+
+Etter *fjerde ledd* kan forsvarer som er antatt på privat bekostning, få dekket salær av det offentlige når det er rimelig ut fra rettshjelpsbehovet i saken. I vurderingen skal det legges vekt på sakens karakter og utvikling og forhold ved mistenkte. I uttrykket «endelig avgjort» ligger at saken må være rettskraftig.
+
+*Til § 3-25. Særskilt advokat for mistenkte ved hemmelige etterforskingsskritt mv.*
+
+Se straffeprosessloven § 100 a første ledd.
+
+Bestemmelsen regulerer bruk av særskilt advokat («skyggeadvokat») for mistenkte når det ikke kan benyttes forsvarer på grunn av at behandlingen skal holdes hemmelig. Det skal oppnevnes særskilt advokat i samme type saker som etter gjeldende lov. Situasjonene bestemmelsen regulerer, har alle til felles at mistenkte ikke er kjent med at det foretas etterforskingsskritt eller at det finnes opplysninger som vedkommende ikke får innsyn i. Det ligger i uttrykket «skal» at advokat oppnevnes uansett om mistenkte allerede har forsvarer.
+
+*Annet ledd* er ment å erstatte det som følger av straffeprosessloven § 100 a første ledd tredje punktum.
+
+Advokaten oppnevnes av retten så raskt som mulig etter at begjæringen er mottatt. Bestemmelsene om oppnevning, krav til forsvareren og godtgjørelse er de samme som for forsvarere, jf. *tredje ledd*.
+
+*Til § 3-26. Den særskilte advokatens oppgaver*
+
+Se straffeprosessloven § 100 a annet og tredje ledd.
+
+*Første ledd* presiserer at formålet med å benytte anonym advokat er å ivareta samfunnets interesse i at mistenkte får rettferdig behandling. Advokatens oppgaver og rettigheter ved utførelsen av oppdraget videreføres i hovedsak som i dag. Advokaten kan ikke ta kontakt med mistenkte, jf. *første ledd bokstav b.*
+
+*Tredje ledd* skal sikre en klar rollefordeling og stenger muligheten for at den anonyme advokaten senere opptrer som forsvarer i saken.
+
+*Til § 3-27. Forskrifter om forsvarere og særskilt advokat for mistenkte*
+
+Se straffeprosessloven § 102 annet og tredje ledd.
+
+Bestemmelsen gir hjemmel for at det i forskrift fastsettes utfyllende bestemmelser om forsvarere og særskilt advokat for mistenkte. *Første ledd* forutsetter at det skal utarbeides nærmere krav til kvalifikasjoner og prosedyreerfaring for faste forsvarere, jf. uttrykket «gir». Utvalget er delt i synet på om antallet faste forsvarere bør økes betydelig, se nærmere drøftelsen i punkt 9.4.3.8.
+
+**Til kapittel 4. Fornærmede og bistandsadvokaten mv.**
+
+Lovutkastet kapittel 4 inneholder generelle regler om fornærmede og etterlattes prosessuelle rettsstilling og om bistandsadvokatens rolle og oppgaver. Se straffeprosessloven kapittel 8 a og 9 a.
+
+Kapitlet inneholder bestemmelser som gir oversikt over de særskilte rettigheter og plikter som tilkommer disse aktørene andre steder i loven, se §§ 4-2 og 4-5 annet ledd. Rettigheter og plikter med nær tilknytning til saksbehandlingsregler, som rett til varsel og innkalling, og regler om når og hvordan fornærmede og etterlatte skal forklare seg mv., er ikke plassert i kapittel 4. Slike bestemmelser fremgår der de systematisk hører hjemme, det vil si i lovens kapitler om rettsmøter og rettens avgjørelser, forklaringer osv.
+
+Kapitlet må ses i sammenheng med utkastet kapittel 43 om adgangen til å fremme sivilt krav i straffesak.
+
+*Til § 4-1. Fornærmede, etterlatte og skadelidte*
+
+Se straffeprosessloven §§ 3 siste ledd og 93 a. Se også drøftelsen i punkt 10.3.2.
+
+Paragrafen angir hvem som etter loven kan utøve rettigheter som fornærmet, etterlatt og skadelidt. Innenfor den enkelte krets av rettighetshavere skilles det ikke mellom ulike grupper.
+
+Uttrykket «fornærmede» i *første ledd* skal forstås som etter straffeprosessloven. Typisk vil fornærmede være den som har blitt utsatt for en voldshandling, er frastjålet en gjenstand mv. Personer som står fjernere fra den strafferettslig vernede interesse, og som ikke er direkte berørt, som for eksempel foreldrene til den som er direkte krenket, faller utenfor. Hvem som hører til kretsen av fornærmede, må løses særskilt i relasjon til hver enkelt straffebestemmelse. I tvilstilfeller må det legges vekt på om en person er så direkte rammet at det er grunn til å la vedkommende få rettigheter som fornærmet.
+
+Etter *annet ledd* er kretsen av etterlatte den samme som etter gjeldende lov. Steforeldre er omfattet. Bestemmelsen slår fast at det alltid bare er én av de etterlatte som kan utøve rettigheter etter loven.
+
+Uttrykket «skadelidte» i *tredje ledd* skal forstås som etter straffeprosessloven. Kretsen omfatter alle personer som er påført skade eller tap ved lovbruddet. Fornærmede vil ofte være skadelidt, men en skadelidt kan også være noen med fjernere tilknytning til lovbruddet, og som ikke er «direkte krenket». Et eksempel er huseieren som får gjerdet ødelagt i forbindelse med en overtredelse av vegtrafikklovens straffebestemmelser.
+
+*Til § 4-2. Rettigheter for fornærmede, etterlatte og andre skadelidte*
+
+Se straffeprosessloven §§ 59 a, 93 c, 93 e annet ledd, 93 f, 237 annet ledd, 242, 264 a, 304, 398 annet ledd og 434 fjerde ledd. Se også drøftelsen i punkt 10.3.3.
+
+Bestemmelsen gir en oversikt over sentrale rettigheter etter loven for fornærmede, etterlatte og skadelidte som aktører i straffesaken. Enkelte reguleringer av saksbehandlingen er det ikke henvist til. Det gjelder blant annet politiets plikt til i avhør å informere fornærmede og etterlatte om deres rettigheter, jf. utkastet § 10-4 fjerde ledd, påtalemyndighetens plikt til å underrette fornærmede om at det er tatt ut tiltale, jf. utkastet § 34-3 fjerde ledd og varsel om rettsmøter, jf. utkastet § 31-2 annet ledd.
+
+Rettighetene angitt i *første ledd* skal tilkomme alle fornærmede og etterlatte. Forslaget må ses i sammenheng med utkastet § 4-5 om bistandsadvokatens oppgaver. Enkelte av rettighetene skal utøves av en profesjonell aktør.
+
+Rettighetskatalogen i § 4-2 *første ledd* viser først og fremst til andre bestemmelser i loven og er inntatt av pedagogiske grunner. *Første ledd bokstav f* om fornærmedes rett til å forklare seg er imidlertid en selvstendig regulering, som riktignok også kommer til uttrykk andre steder i loven, for eksempel i utkastet § 35-4 om rekkefølgen av forklaringer og om fornærmede og etterlattes rett til å komme med sluttbemerkning.
+
+Etter *første ledd bokstav b* skal fornærmede underrettes om etterforskingen, noe som blant annet konsumerer informasjon om at mistenkte er avhørt første gang, jf. påtaleinstruksen § 8-5. Etter *første ledd bokstav e* har fornærmede og etterlatte som hovedregel rett til å være til stede i rettsmøter. De kan imidlertid utelukkes etter utkastet § 31-5.
+
+Anmodning om ytterligere etterforskingsskritt etter *første ledd bokstav k* vil gjerne blir fremsatt av bistandsadvokat, jf. utkastet § 4-5 annet ledd bokstav a. Loven forutsetter at påtalemyndigheten bør søke å samarbeide i slike tilfeller. Dersom anmodningen ikke etterkommes, kan den ikke prøves for retten jf. utkastet § 13-7 tredje ledd.
+
+Skadelidte har formell partsstilling i relasjon til det sivile kravet, og skadelidtes rettigheter vil i praksis først og fremst være knyttet til dette. Regler om behandling av sivile krav og partenes rettigheter og plikter i forbindelse med behandlingen av kravet fremgår av utkastet kapittel 43, jf. *annet ledd*. Skadelidte kan også tenkes å ha interesse i å følge saken uten at vedkommende fremmer sivilt krav, og vil da ha rett til innsyn i sakens opplysninger etter utkastet § 6-2 første ledd.
+
+*Til § 4-3. Rettslig bistand til fornærmede og etterlatte*
+
+Se straffeprosessloven §§ 107 b annet og fjerde ledd, 107 f og 427 første ledd. Se også drøftelsen i punkt 10.3.4.
+
+Bestemmelsen skal sikre fornærmede og etterlatte bistand til å ivareta sine interesser i straffesaken. Det angis tre alternativer, jf. *bokstav a til c*. Vilkårene for krav på bistandsadvokat, jf. *bokstav a*, følger av utkastet § 4-9. Retten gjelder for straffesaker i Norge.
+
+*Bokstav b* er en pedagogisk påminnelse om at fornærmede og etterlatte alltid kan engasjere advokat på egen regning. I så fall gjelder de alminnelige reglene for bruk av prosessfullmektig etter tvisteloven.
+
+*Til § 4-4. Utøvelse av rettigheter for personer under 18 år og andre under vergemål*
+
+Se straffeprosessloven § 93 g.
+
+Er fornærmede og etterlatte under 15 år, skal vergen utøve rettigheter etter loven på vegne av vedkommende. Har fornærmede eller etterlatte fylt 15 år, kan vedkommende som utgangspunkt velge å selv utøve rettighetene etter loven, jf. *første ledd annet punktum.*
+
+Vergemålsloven regulerer det nærmere forholdet mellom rettighetshaver og vergen. Vergen utøver rettighetene for en fornærmet eller etterlatt som oppfyller vilkårene for vergemål. Ved uenighet mellom verger for en person som er under 18 år, skal det oppnevnes midlertidig verge (setteverge), jf. vergemålsloven § 27.
+
+*Til § 4-5. Bistandsadvokatens oppgaver*
+
+Se straffeprosessloven §§ 43 fjerde ledd, 107 c, 244, 271, 291 a. Se også domstolloven § 224, advokatforskriften kapittel 12 og Advokatforeningens retningslinjer for bistandsadvokater punkt 2.5.
+
+*Første ledd* gir uttrykk for bistandsadvokatens rolle i prosessen. Bistandsadvokatens hovedoppgave er å sørge for at fornærmede og etterlattes interesser og rettigheter blir ivaretatt under etterforskingen og under eventuell hovedforhandling, jf. *første ledd*. Det siktes da først og fremst til vedkommendes rettslige interesser. Under hele sakens gang skal bistandsadvokaten sørge for at fornærmede og etterlatte får veiledning og informasjon om prosessen, og se til at de blir behandlet hensynsfullt. Det vil kunne være aktuelt å gi råd om hvordan fornærmede bør gjøre bruk av sine rettigheter, for eksempel ved spørsmål om å klage over påtalevedtak, jf. § 4-2 første ledd bokstav c.
+
+Det er også en viss adgang til å bistå utover dette dersom saken foranlediger det, jf. «annen hjelp og støtte». Det kan dreie seg om å søke om voldsoffererstatning eller støtte etter andre offentlige ordninger og å sørge for at fornærmede får hjelp fra helsevesenet eller myndighetene for øvrig. Fornærmedes behov vil kunne variere betraktelig. Det ligger her en begrensning i at bistanden må holdes innenfor det som må anses som «naturlig og rimelig». Det skal ikke ytes slik innsats som faller inn under andre offentlige organers arbeidsområder, som for eksempel forvaltningens veiledningsplikt, med mindre det foreligger et særlig behov. Bistanden må holdes innenfor advokatgjerningen.
+
+Fremmer fornærmede sivilt krav i saken, er bistandsadvokaten som et utgangspunkt prosessfullmektig, se nærmere lovutkastet kapittel 43. Bistandsadvokatens arbeid med å fremme kravet er omfattet av oppdraget.
+
+Bistandsadvokaten har under utførelsen av oppdraget dels samme rettigheter som fornærmede selv har, jf. *annet ledd bokstav a*. Av sentral betydning er bistandsadvokatens rett til å prosedere det sivile kravet på fornærmedes vegne etter annet ledd bokstav a, jf. § 4-2 bokstav j. Bistandsadvokaten har visse egne prosessuelle rettigheter som det er naturlig at utøves av en profesjonell aktør, jf. *annet ledd bokstav b til f*.
+
+Annet ledd gir bistandsadvokaten midler til å påse at saken blir godt opplyst fra fornærmedes eller etterlattes side. Det kan anmodes om ytterligere etterforskingsskritt, etter *annet ledd bokstav a*, jf. § 4-2 første ledd bokstav k.
+
+Under etterforskingen har bistandsadvokaten også selvstendig rett til å delta ved åstedsbefaringer mv. så langt det er behov for det for å ivareta fornærmedes interesser, jf. *annet ledd bokstav b*. Det er ikke et krav at klienten selv skal delta. Også i rettsmøter etter *annet ledd bokstav c* legges det i loven opp til at bistandsadvokaten deltar etter behov, jf. «nødvendig utstrekning». For hovedforhandling bør det under saksforberedelsen søkes avklart hvilken tilstedeværelse som er nødvendig for ivaretakelsen av oppdraget.
+
+Av hensyn til å opplyse saken har bistandsadvokaten rett til å stille spørsmål til tiltalte og vitner etter *annet ledd bokstav c*. Også her ligger en begrensning i vilkåret om «nødvendig utstrekning» ved at det kun skal stilles spørsmål som kan tilføre noe til forhold som ikke er tilstrekkelig belyst. Bistandsadvokaten kan stille supplerende spørsmål om straffekravet, men skal ikke gjenta spørsmål som er stilt av andre aktører. Retten til å stille spørsmål av betydning for det sivile kravet følger av kapittel 43.
+
+*Annet ledd bokstav d* om supplerende bevisføring sikter mot situasjoner der bistandsadvokaten har informasjon etter samtaler med fornærmede eller etterlatte som gir grunn til ytterligere vitneførsel. Forslaget rettes til påtalemyndigheten, jf. § 34-5 annet ledd.

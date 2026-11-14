@@ -1,988 +1,356 @@
-# NOU 2016: 24, del 61 av 73 (side 651–660)
+# NOU 2016: 24, del 61 av 69
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/1182afc0-nou-2016-24.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-24/id2517932/
 - Original-PDF: https://www.regjeringen.no/contentassets/6fe1d875248042b4a09b43b85aa46832/no/pdfs/nou201620160024000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 9 tabeller, 1 figur, 52 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 651]
+**En vurdering av enkelte premisser for en ny straffeprosesslov**
 
-NOU 2016: 24
-Ny straffeprosesslov
+Gert Johan Kjelby og Lisbeth Fullu Skyberg[^1346]
 
-etter gjeldende lov er kjennelser eller beslutninger,
-se om avgjørelsesformene i punkt 17.5. Uttrykket
-«anke» skal forstås snevert. Hver ankegrunn (for
-hver tiltalepost) er én anke. I utkastet § 37-1
-benyttes likevel «anke» som betegnelse på situasjonen hvor det inngis en ankeerklæring – som
-etter lovens system i de fleste tilfeller vil inneholde flere anker.
-Uttrykket «rettslig interesse» i annet punktum
-innebærer at den som anker, må ha tilstrekkelig
-tilknytning til avgjørelsen som ankes, og et aktuelt
-behov for å få prøvd saken for en høyere rettsinstans. Hvem som har tilstrekkelig tilknytning til
-avgjørelsen, må løses ut fra hvilken rolle vedkommende er gitt etter loven.
-For dom tilkommer ankeretten partene. Det
-vil i alminnelighet si tiltalte og påtalemyndigheten,
-men også Kriminalomsorgen vil for enkelte
-avgjørelser være å anse som part med ankerett, se
-Rt. 2006 s. 1259. Om hvem som innen påtalemyndigheten kan anke, se utkastet § 2-14.
-Forsvareren har ikke selvstendig ankerett.
-Fornærmede har heller ikke rett til å anke straffekravet, men kan ha rettslig interesse i å få overprøvd rettens avgjørelse av et sivilt krav, se
-nærmere utkastet §§ 43-12 til 43-14 og merknadene
-til bestemmelsene.
-Den som er frifunnet, har kun rettslig
-interesse i anke når det er lagt til grunn at
-vedkommende har begått handlingen. Påtalemyndigheten kan anke til mistenktes gunst. Også
-slik anke må fremsettes innen ankefristen.
-Kravet om rettslig interesse må ses i sammenheng med utkastet §§ 28-2 første ledd og 29-7
-annet ledd bokstav d, jf. straffeloven § 100. Dersom
-tiltalte dør etter at dom er avsagt i tingretten, skal
-påtalemyndigheten frafalle tiltalen uavhengig av
-om avgjørelsen var påanket. Tiltaltes etterlatte vil
-følgelig ikke ha rettslig interesse i å anke dommen.
-For beslutninger vil kravet om rettslig interesse
-langt på vei videreføre praksis etter straffeprosessloven § 377. Hvem som har tilstrekkelig
-tilknytning til saken, må løses ut fra den funksjon
-eller posisjon vedkommende er gitt etter loven.
-For eksempel skal tvangstiltak kunne påankes
-av den det er rettet mot. Mistenkte kan således
-normalt ikke påanke et beslag rettet mot tredjeperson, se Rt. 2015 s. 1022. Forsvareren kan ha
-selvstendig rett til å anke en beslutning som
-nekter vedkommende innsyn i sakens opplysninger,
-og fornærmede kan anke avgjørelser om sin rett
-til innsyn. En organisasjon som opptrer som partshjelper, kan ha rettslig interesse i å anke spørsmål
-om rett til tilstedeværelse eller om utlevering og
-avskjæring av bevis.
+1.  **Bakgrunn og mandat**
 
-649
+    1.  **Straffeprosessutvalgets mandat**
 
-Kapittel 30
+Straffeprosessutvalget, som ble oppnevnt i juni 2014, er bedt om å se på forhold som kan bidra til å effektivisere strafferettspleien, herunder vurdere behovet for bruk av informasjonsteknologi og sterkere dommerstyring. I mandatet fremheves det at en «god straffeprosess må bidra til kvalitet, effektivitet og rettssikkerhet i strafferettspleien, og den må åpne for rasjonell bruk av moderne informasjonsteknologi». Straffeprosessutvalget skal
 
-Det følger av lovens system at den særskilte
-advokaten oppnevnt etter utkastet § 3-25 kan anke
-avgjørelser om å nekte innsyn etter utkastet § 6-11
-jf. § 6-8, se til illustrasjon Høyesteretts avgjørelser
-i HR-2016-604-U og HR-2016-605-U.
-I tredje punktum er det alminnelige kravet til
-tilknytning fraveket ved at forsvareren er gitt en
-særskilt ankerett over avgjørelser som hever
-saken med hjemmel i § 33-3 annet ledd, avgjørelser om det skal iverksettes tiltak for å sikre hemmelighold av et vitnes identitet etter § 10-10 og
-avgjørelser om å nekte innsyn i opplysninger som
-kan føre til at identiteten til et vitne som skal forklare seg anonymt blir kjent etter § 6-4 første ledd
-bokstav d.
-Kravet om aktualitet medfører blant annet at
-den som er løslatt fra varetektsfengsel, ikke vil ha
-rettslig interesse i å anke beslutning om fengsling
-(Rt. 1979 s. 1695). En allerede gjennomført
-ransaking vil av samme grunn ikke kunne ankes av
-den som er rammet (Rt. 1997 s. 1590), og en som
-var rammet av et beslag, vil ikke ha rettslig
-interesse i en anke etter at beslaget er utlevert
-(Rt. 2007 s. 1111). En avgjørelse om avvisning vil
-ikke kunne påankes dersom saken likevel tas opp
-til pådømmelse og ender med dom (Rt. 2003 s. 30).
-Derimot vil det være adgang til å påanke en rettslig
-beslutning som tillater at det tas blodprøve, også
-etter at prøvetakingen er gjennomført, idet
-vedkommende også vil «kunne være interessert i å
-motsette seg at politiet lar blodprøven undersøke
-eller på annen måte disponerer over prøven»
-(Rt. 2000 s. 1723).
-Til § 37-2. Begrensninger i adgangen til å anke over
-beslutning
-Se straffeprosessloven §§ 315 første ledd, 325
-første ledd annet punktum, 377, 378 og 388 første
-ledd.
-Første ledd viser til at loven på noen områder
-uttrykkelig har begrenset adgangen til å anke
-over saksbehandlingsfeil, og fastslår dessuten at
-saksbehandlingsfeil heller ikke kan ankes når den
-aktuelle beslutningen er uangripelig etter sin art.
-Bestemmelsen skal forstås som en videreføring av
-straffeprosessloven § 377 første ledd i.f.
-Eksempler på beslutninger som etter «særskilt lovbestemmelse» ikke kan ankes, er utkastet
-§§ 5-5 annet ledd siste punktum og 6-11 annet
-ledd annet punktum. Beslutninger som etter sin
-«art» ikke kan påankes, er slike som gjelder
-saksbehandlingens
-mer
-praktiske
-sider,
-herunder beslutninger om i hvilken rekkefølge
-bevisene skal føres, eller endringer i tidspunktet
+«utrede en ny straffeprosesslov som er bedre tilpasset vår tid, og som legger til rette for å avvikle straffesaker rettssikkert og effektivt (…). Forslaget til ny straffeprosesslov skal utarbeides på grunnlag av en overordnet målsetting om en effektiv, rettssikker og tillitvekkende behandling av straffesaker. Forslaget bør reflektere en balansert avveining mellom effektivitet og rettssikkerhet.»[^1347]
 
-[Side 652]
+I tillegg til disse generelle *rettslige* krav og føringer er det antatte revisjonsbehovet også forankret i noen *sentrale faktiske premisser*:
 
-650
+«*Kriminalitetsbildet er i endring* og kjennetegnes av *økt profesjonalisering, organisering og internasjonalisering*. *Stadig mer komplekse saker med en stadig mer omfattende bevisførsel* reiser spørsmålet om mer organisert saksforberedelse og sterkere dommerstyring. Det er *mange forhold som tyder på* at straffeprosessloven av 1981 ikke er rustet til å møte disse utfordringene.»[^1348]
 
-Kapittel 30
+Reformbehovet begrunnes altså i oppfatninger om generelle utviklingstrekk som antas å ha betydning for gjennomføringen av straffeforfølgningen. Hva det ellers siktes til med formuleringen i siste setning om «mange forhold som tyder på (…)», er ikke utdypet i mandatteksten. De to sentrale premisser er at *kriminalitetsbildet har endret seg* siden gjeldende straffeprosesslov ble utformet, og at det i dag er *flere komplekse saker* med *mer omfattende bevisførsel* enn da gjeldende lov ble utformet (eller sist endret). I det siste ligger implisitt at straffesakene tar *lengre tid å behandle i rettsapparatet*, særlig i domstolene, og/eller er mer ressurskrevende, og at en ny lov skal legge til rette for blant annet begrensinger i bevisførsel og kortere saksbehandlings- og iretteføringstid.
 
-NOU 2016: 24
-Ny straffeprosesslov
+1.  **Vårt oppdrag og mandat**
 
-for hovedforhandlingen, jf. Rt. 1998 s. 76 og
-Rt. 2009 s. 637.
-En beslutning skal likevel kunne ankes på
-grunnlag av at den er «uforsvarlig eller urimelig».
-Dette er ment å sikre mulighet for ankeprøving av
-grunnleggende krav til innhold og saksbehandling, se til sammenligning tvisteloven § 29-3.
-Eksempler på at det kan være grunnlag for anke,
-er at beslutningen bygger på uriktig lovtolking
-eller er beheftet med grove saksbehandlingsfeil,
-se Rt. 1995 s. 1581 og Rt. 2000 s. 713.
-Annet ledd bokstav a til f angir uttømmende
-hvilke beslutninger truffet under hoved- og ankeforhandling som kan ankes, jf. «bare». Etter
-avsagt dom kan beslutningene kun angripes som
-ankegrunn mot dommen, jf. prinsippet i tredje
-ledd.
-Annet ledd bokstav f åpner for avklaring av prosessuelle spørsmål som er av en slik art at de kan
-føre til at en påfølgende dom med forhandlinger
-oppheves om de besvares feil. Ankeadgangen er
-tiltenkt saker med langvarige forhandlinger, eller
-der andre forhold gjør at det er særlig uheldig om
-dommen oppheves. Se nærmere drøftelsen i
-punkt 20.4.5.
-Tredje ledd gjelder generelt og således også
-for beslutninger som kunne vært anket særskilt
-under hoved- eller ankeforhandling etter annet
-ledd.
-Fjerde ledd angir særskilte begrensninger ved
-anke over beslutning etter anke – såkalt videre
-anke. Høyesterett har kompetanse til å prøve
-saken innenfor rammene av bokstav a til d.
-Bokstav a gjelder alle avvisningsgrunner,
-herunder beslutning om at en sak er rettskraftig
-avgjort, eller at en part mangler rettslig interesse i
-å få behandlet anken.
-Med uttrykket «den generelle forståelse av en
-rettsregel» i bokstav b siktes det til uttrykkelig lovfestede regler så vel som regler som lar seg utlede
-av lovens system, dens alminnelige prinsipper og
-de hensyn og forutsetninger prosesslovgivningen
-hviler på, jf. Rt. 1988 s. 490 og Rt. 2006 s. 217.
-Utgangspunktet er at det er tolkingen – i betydningen den abstrakte regelforståelsen – som skal
-prøves, og ikke den konkrete subsumsjonen. Men
-fordi reell kontroll av skjønnsmessige regler vil
-forutsette at det også tas stilling til subsumsjonen
-som er foretatt, skal også denne etter omstendighetene kunne prøves for å sikre etterlevelse av
-overordnede rettsnormer. Se nærmere drøftelsen
-i punkt 20.4.10.2.
-Bokstav c erstatter gjeldende § 388 nr. 2, og
-bokstav d tar sikte på å videreføre det som i dag
-følger av § 388 nr. 4.
+Straffeprosessutvalget har bedt oss om å
 
-Til § 37-3. Begrensninger i adgangen til å anke over
-dom
-Se straffeprosessloven § 306 annet ledd.
-Til § 37-4. Ankefrist
-Se straffeprosessloven §§ 310, 311, 318 første og
-annet ledd, 336 fjerde ledd tredje punktum og 379
-annet ledd.
-Ved beregningen av ankefristen gjelder
-domstolloven §§ 146 til 149, jf. § 187. Fristen for
-anke over sivile krav som er fremmet i straffesak,
-er regulert i utkastet §§ 43-12 og 43-14 annet ledd.
-Uttrykket «tjenestested» i annet ledd skal
-forstås slik at det er nok at anken har kommet
-frem til embetet eller politidistriktet som sådan,
-det kreves ikke at anken har kommet frem til en
-bestemt person i påtalemyndigheten, jf. Rt. 1997
-s. 2077. Bestemmelsen i annet ledd tredje
-punktum innebærer at fristen for politiet eller
-statsadvokaten ikke løper ut mens forhold riksadvokaten har ankekompetansen for, fortsatt er
-til vurdering.
-Tredje ledd gir en særskilt ankefrist for avgjørelser av «betydning for sakens fremdrift» og
-retter seg typisk mot spørsmål om å gi forklaring,
-se til sammenligning straffeprosessloven § 379
-annet ledd. Kravet «uten ugrunnet opphold» innebærer at det skal ankes umiddelbart dersom den
-ankende part er til stede i rettsmøtet, og ellers
-reageres så raskt som situasjonen tillater.
-Tredagersfristen gjelder også for den som ikke er
-til stede når avgjørelsen treffes, og utgangspunktet for fristen er da den dag beslutningen
-kom frem til vedkommende, jf. domstolloven
-§ 186. Retten kan fastsette en lengre frist, noe som
-for eksempel kan være aktuelt ved sykdom eller
-andre hindringer, men også dersom det er grunn
-til å la parten utrede et forhold nærmere. Betydningen forsinkelsen vil få for sakens fremdrift er
-sentralt for avveiningen.
-For å sikre effektiv behandling av saken og
-ensartet praksis er det i fjerde ledd angitt en
-absolutt frist for å inngi støtteskriv til anke.
-Bestemmelsen gir ikke plikt til å inngi støtteskriv.
-Fristen må ses i sammenheng med at påtalemyndigheten også vil kunne varsle motparten om
-når saken vil bli oversendt retten, noe som i
-praksis vil fungere som en frist til å inngi støtteskriv innen oversendelsen. Fristen løper fra domfeltes kunnskap om at det er satt frist, se Rt. 2015
-s. 334. Det vises til drøftelsen i punkt 20.4.2.1.
-En anke fremsatt etter ankefristen skal som
-hovedregel avvises, jf. utkastet § 38-1 første ledd
+1.  undersøke hvorvidt og i tilfelle i hvilken grad ovennevnte premisser er holdbare og
 
-[Side 653]
+2.  foreta en rettsdogmatisk/rettssosiologisk undersøkelse som tematiserer generelt hvilke forhold eller mekanismer som har betydning for straffesaksbehandlingens effektivitet, og hvordan disse forholdene påvirkes av den «nye» kriminaliteten.
 
-NOU 2016: 24
-Ny straffeprosesslov
+Undersøkelsen ble forutsatt gjennomført som en *begrenset teoretisk studie* av strafferettspleien.
 
-bokstav a. Spørsmålet om hvorvidt det etter femte
-ledd foreligger «særlige forhold» som tilsier at
-anken likevel tas til behandling, skal vurderes av
-retten av eget tiltak, jf. Rt. 2003 s. 1490. Vurderingen skal være bred og konkret, og det sentrale er
-om den ankende parten er å klandre for fristoversittelsen. Se til illustrasjon avgjørelsene Rt. 2004
-s. 663 (domfelte hadde språkproblemer) og
-Rt. 2005 s. 63 (domfelte hadde psykiske lidelser),
-der ankene ble tatt til behandling til tross for fristoversittelse. Feil begått av forsvarer eller bistandsadvokat skal heller ikke gå ut over mistenkte eller
-fornærmede, jf. blant annet Rt. 2010 s. 12.
-Til § 37-5. Motanke
-Se straffeprosessloven § 311.
-Uttrykket «tjenestested», jf. annet ledd annet
-punktum, skal forstås som det tilsvarende uttrykket
-i utkastet § 37-4 annet ledd.
-Til § 37-6. Ankeerklæringen
-Se straffeprosessloven §§ 8 annet ledd, 312, 314
-og 380.
-Ankefristen avbrytes ved inngivelse av ankeerklæring. Ankeerklæringen skal gi grunnlag for
-en forsvarlig og konsentrert behandling av anken.
-Kravene til erklæringen følger av første ledd
-bokstav a til e. Loven krever at det i erklæringen
-angis hvilke feil som gjøres gjeldende, hvilke
-bevis som vil bli påberopt, og hvilken endring som
-påstås. Slike opplysninger vil skape klarhet om
-hva anken gjelder, og legge til rette for den videre
-behandling av saken.
-Mangler ved erklæringen fører som hovedregel til avvisning, jf. § 38-1 første ledd bokstav b,
-såfremt feilen ikke rettes. Avvisningsbestemmelsen må ses i sammenheng med reguleringen i
-utkastet § 37-9 om den foreløpige behandlingen av
-ankesaken ved den domstol som mottar den.
-Etter annet ledd inngis anke til den rett som
-har avsagt avgjørelsen. Muligheten for å inngi
-anken til påtalemyndigheten er fjernet, se
-drøftelsen i punkt 20.4.2.2. Anke kan heller ikke
-formelt settes frem for frihetsberøvende myndighet. Slike myndigheter er imidlertid gitt en plikt
-til å legge til rette for at vedkommende kan få
-bistand til å utforme og inngi anke, herunder gi
-opplysninger om utfylling av skjema for inngivelse av anke, og å opprette kontakt mellom
-domfelte og domstolen. Dersom plikten ikke
-etterleves og det resulterer i oversittelse av ankefristen, bør anken likevel kunne behandles etter
-utkastet § 37-4 femte ledd.
+Straffeprosessutvalget har videre gitt uttrykk for at konklusjonene og hypotesene som fremkommer, burde følges opp av en spørreundersøkelse rettet mot prosessens aktører (gjennomført med bruk av Questback eller annet verktøy som er lett å administrere), men innenfor rammen for dette arbeidet, har ikke vi hatt anledning til å foreta en slik undersøkelse.
 
-651
+Mandatet vårt omfatter hele «straffesaksbehandlingen», det vil si både etterforskingsfasen, påtalestadiet og domstolsbehandlingen (iretteføringsfasen). Straffeprosessutvalgets mandat legger på de siterte punkt særlig vekt på domstolsbehandlingen, og hovedtyngden i denne fremstilling ligger også på vurdering av premissene for domstolsbehandlingen.
 
-Kapittel 30
+Virkelighetsbeskrivelsen og premissene i Straffeprosessutvalgets mandat – og i det utvalg av andre kilder det vises til nedenfor – kan problematiseres (se særlig pkt. 2.1–2.4). Holdbarheten kan også etterprøves, blant annet gjennom tallmateriale (se pkt. 4 og 5). Men hva virkelighetsbeskrivelsen i mandatet – om den viser seg treffende – aktualiserer av behov for rettslig regulering og eventuell rettsendring, er en omfattende oppgave som Straffeprosessutvalget skal vurdere.[^1349]
 
-En muntlig anke inngitt til domstolen er fristavbrytende, men skal settes opp skriftlig. Om
-anke som sendes domstolen i elektronisk form
-og om krav til signatur, se drøftelsen i punkt
-6.4.3.2.
-Anke over beslutning signert av forsvareren
-etter tredje ledd forutsetter at erklæring om anke
-er innhentet fra den ankeberettigede. Det stilles
-ingen formelle krav til kontakten mellom domfelte
-og forsvareren etter tredje ledd, men det bør,
-dersom det ligger til rette for det, sikres dokumentasjon ved skriftlig bekreftelse, som også kan
-gis i tekstmelding, i e-post eller på annet vis.
-Fjerde ledd angir prosessen for søknad om
-samtykke til direkte anke til Høyesterett. Vilkårene
-for slik anke følger av utkastet § 5-4 bokstav b.
-Til § 37-7. Frafall av erklært anke
-Se straffeprosessloven § 341.
-Forsvareren kan på mistenktes vegne samtykke i at anken trekkes dersom mistenkte ikke er
-til stede. Det er tilstrekkelig at forsvarer kan vise til
-tekstmelding eller e-post om at mistenkte ønsker at
-anken trekkes. For påtalemyndigheten kan samtykke gis av møtende aktor. Med at ankeforhandlingen «er slutt», siktes det til at saken er tatt opp til
-doms. Anken kan trekkes helt eller delvis.
-Til § 37-8. Utsettende virkning ved anke over
-beslutning
-Se straffeprosessloven § 382.
-Bestemmelsen må ses i sammenheng med
-§§ 32-9 om avsigelse og 32-11 annet ledd om
-virkninger av rettens avgjørelser. Som hovedregel
-skal en beslutning om å gi eller avslå utsettende
-virkning ikke kunne ankes, jf. utkastet § 37-2
-første ledd og Rt. 2002 s. 324.
-I annet ledd er det lovbestemt utsatt virkning
-for tredjeperson. Andre eksempler på lovbestemt
-utsatt virkning er domstolloven § 120 første ledd
-og utleveringsloven § 17 nr. 3.
-Til § 37-9. Foreløpig behandling av ankesaken ved den
-domstol som mottar anken
-Se straffeprosessloven §§ 8, 316, 317, 324 første
-ledd annet punktum og annet ledd, 381 tredje ledd
-og 383 første ledd annet punktum og annet ledd
-første punktum og påtaleinstruksen § 28-2.
-Bestemmelsen er utformet etter mønster av tvisteloven § 29-10.
-Første ledd forutsetter at domstolen som
-mottar anken, skal foreta en foreløpig kontroll av
+1.  **En oversikt over tidligere og pågående arbeid av betydning**
 
-[Side 654]
+Ulike utvalg og arbeidsgrupper har allerede gjort mye utredningsarbeid omkring disse spørsmål, men implementering i lovverket av konklusjoner og anbefalinger fra tidligere utredninger har tatt tid, vært begrenset, blitt stykkevis fulgt opp eller ikke blitt fulgt opp overhodet.[^1350]
 
-652
+Våre vurderinger vil derfor i noen grad begynne med å «børste støv» av tidligere arbeider og bygge videre på funn og konklusjoner fra allerede foreliggende undersøkelser. Det er her særlig grunn til å nevne følgende:
 
-Kapittel 30
+- *Prosjekt hurtigere straffesaksbehandling – Arbeidsgruppe II, sluttrapport 26. juni 2000* om effektiviseringstiltak i perioden mellom påtalevedtak og fullbyrdelse, og sluttrapporten fra samme prosjekts Arbeidsgruppe I for etterforskings- og påtalestadiet. Flere lovendringer har fulgt i kjølvannet av disse rapportene, men uten at vi ser noen endring i den nokså alminnelige oppfatning av at straffesakene behandles for langsomt og tar for langt tid i retten.
 
-NOU 2016: 24
-Ny straffeprosesslov
+- Rapporten *Ressurs- og tidsbruk i omfattende straffesaker*, avgitt til Domstoladministrasjonen 23. desember 2011.[^1351] Arbeidsgruppens anbefalinger (se pkt. 2.2.3) er hittil ikke fulgt opp. En eventuell implementering av disse hører nå naturlig under Straffeprosessutvalgets mandat.
 
-de formelle sidene ved den. Kontrollen skal ikke
-være så inngående som etter utkastet § 38-1,
-hvoretter ankeinstansen skal foreta ytterligere
-kontroll av erklæringen, se kommentaren til
-denne bestemmelsen.
-Annet ledd skal sikre kontradiksjon. Ankemotparten har plikt til å inngi tilsvar, men det
-stilles ikke krav om innholdsmessige avklaringer
-for de temaer anken omhandler. Både påtalemyndigheten og forsvarer bør rimeligvis bidra til
-en effektiv behandling i ankesaker, men for
-sistnevnte kan hensynet til å ivareta forsvareroppdraget på best mulig måte etter omstendighetene
-begrense muligheten for avklaringer på tidspunktet for anketilsvar.
-Til kapittel 38. Avvisning og henvisning av anke
-Til § 38-1. Ankedomstolens plikter når anken er
-mottatt. Retting. Avvisning
-Se straffeprosessloven §§ 317 til 319, § 379, jf.
-§ 318 første ledd, og § 380, jf. § 319 annet ledd.
-Før anke avvises etter første ledd bokstav a,
-skal ankedomstolen av eget tiltak vurdere fristoppreisning etter utkastet § 37-4 femte ledd. Om
-det er grunnlag for avvisning etter første ledd
-bokstav b, må fastslås ut fra utkastet § 37-6 om krav
-til ankeerklæringen, se merknadene til bestemmelsen. Bokstav c om «annen feil» omfatter blant
-annet situasjonen at anken er fremsatt av påtalemyndighet uten ankekompetanse.
-Om saksbehandlingen ved spørsmål om
-avvisning, se utkastet § 38-4 og merknadene til
-bestemmelsen.
-Annet ledd kan benyttes i saker som klart ikke
-kan føre frem, og hvor det derfor er formålsløst
-først å sikre at anken er formriktig. Det kreves
-enstemmighet og begrunnelse, jf. utkastet §§ 38-4
-fjerde ledd og 32-7.
-Til § 38-2. Nektelse av anke over beslutning til
-Høyesterett
-Se straffeprosessloven §§ 387 a og 388 annet ledd.
-Bokstav a omfatter anke over avgjørelser lagmannsretten har truffet som første instans, i
-motsetning til avvisningsgrunnen i straffeprosessloven § 388. Selv om den påankede beslutningen
-avvises etter bestemmelsen, kan den benyttes
-som ankegrunn ved angrep på dom. Bestemmelsen svarer til regelen for sivile saker etter tvisteloven § 30-5 første punktum.
-Spørsmål om hvorvidt anken må avvises på
-formelt grunnlag, reguleres av utkastet § 38-1.
-Ankeutvalgets vurdering av om en anke kan føre
+- Uttalelsen «Dommerstyring av straffesaker – God praksis for rask avklaring» fra Den norske dommerforening, avgitt i januar 2005.[^1352] Uttalelsen retter seg først og fremst til dommere. Den legger vekt på en aktiv dommerstyring for raskere fremdrift og gjennomføring *innenfor gjeldende regelverk*, men inneholder en rekke anbefalinger av betydning for utformingen av nye straffeprosesslov, jf. utvalgets mandat pkt. 6.
 
-frem, jf. straffeprosessloven § 387 a første
-punktum, foretas etter utkastet §§ 39-1 og 39-8
-annet ledd.
-Spørsmålet om å nekte en anke over
-beslutning etter bestemmelsen avgjøres etter
-reglene om saksbehandling ved spørsmål om
-avvisning og henvisning av anker i utkastet § 38-4.
-Til § 38-3. Nektelse av og samtykke til
-realitetsbehandling av anke over dom
-Se straffeprosessloven §§ 321 første til tredje ledd
-og 323 første ledd. Om bakgrunnen for bestemmelsen vises det til punkt 20.4.4.
-Om en anke over dom skal fremmes, avgjøres
-i lagmannsretten av tre dommere og i Høyesterett
-av ankeutvalget etter reglene i utkastet § 38-4. Å
-nekte eller gi samtykke til realitetsbehandling av
-en anke krever enstemmighet og begrunnelse,
-jf. utkastet §§ 38-4 fjerde ledd og 32-7. Se nærmere
-drøftelsen i punkt 20.4.4.5.
-Første ledd bokstav a oppstiller hovedregelen
-om siling av anker over dom til lagmannsretten.
-Unntak følger av første ledd annet punktum, jf.
-nedenfor. Det skal foretas en reell prøving av de
-spørsmål anken reiser. Bestemmelsen legger opp
-til siling av anker i alle saker. Se drøftelsen i punkt
-20.4.4.3 der det også fremgår at et mindretall i
-utvalget går inn for å videreføre en ordning med
-ubetinget rett til ankebehandling i visse saker.
-Vilkåret for å nekte en anke fremmet er
-strengt, jf. «klart». Det må være på det rene at
-resultatet ikke vil bli et annet etter ankebehandling, og er det behov for ytterligere undersøkelser,
-eller saken ellers fremstår som uklar, skal anken
-fremmes. Det er en viss adgang til å praktisere
-vilkåret relativt, slik at meget alvorlige saker kan
-fremmes også i tilfeller der muligheten for et
-annet resultat er minimal, men det er her snakk
-om små nyanser, fordi silingskriteriet som nevnt
-er strengt.
-Første ledd bokstav b gir et supplerende grunnlag for å nekte anker som kan føre frem når påtalemyndigheten har anket til tiltaltes ugunst. Er
-vilkårene etter bestemmelsen oppfylt, skal anken
-normalt nektes fremmet. Når det skal tas stilling
-til om anken gjelder «spørsmål av mindre betydning», kan det legges vekt både på betydningen
-for den konkrete saken, og på om anken reiser
-spørsmål av betydning utenfor den foreliggende
-sak. Alternativet «ellers ikke er grunn til at anken
-realitetsbehandles» omfatter blant annet situasjonen der det er begått mindre alvorlige feil.
-Første ledd annet punktum tar sikte på å videreføre samtykkeordningen som i dag følger av straf-
+I tillegg er det nylig tatt flere initiativ til å utrede «hurtigspor i de alminnelige domstolene for enkelte sakstyper innenfor straffesakskjeden». Oppdragene synes særlig å være innrettet mot behandlingen av saker mot utenlandske statsborgere, jf. mandatet «\[for\] å kunne forhindre at personer kan unndra seg straffeansvar (…)».[^1353] Også et «hurtigsporprosjekt» for Oslo, rettet mot saker mot utenlandske statsborgere, er under behandling.[^1354] Arbeidet med disse sakene skal formentlig skje parallelt med og uavhengig av Straffeprosessutvalgets arbeid og dets tidsfrist.
 
-[Side 655]
+I slike hurtigsporprosjekt ligger det et klart premiss om at det forhold at *vitner og/eller tiltalte er utenlandske statsborgere*, og/eller at saken har *forgreninger til annet land*, er sentrale faktorer som påvirker tidsbruk og kostnader i alle ledd av straffesaksbehandlingen. Disse faktorer fremheves som «trend»/«tendenser» (pkt. 2.1), og de viser seg også i det materialet vi har gjennomgått (pkt. 5).
 
-NOU 2016: 24
-Ny straffeprosesslov
+Tiltak av typen «hurtigsporprosjekt» rettet mot utlendinger har særlig betydning for *tidsbruken under etterforskings- og påtalefasen* og for inndriving av bøter. For *iretteføring* er stevning av tiltalte og tiltaltes tilstedeværelse nødvendig under hovedforhandling eller rettsmøte for tilståelsesdom. Lykkes det, kan likevel den senere forkynning av dom for å sikre rettskraft og fullbyrding være en utfordring, særlig i de større byer, hvor andelen pågrepne utenlandske statsborgere er høyt. I Oslo statsadvokatembeters uttalelse i forkant av ovennevnte «hurtigsporprosjekt», fremgår det blant annet at ca. 60 prosent av de pågrepne i Grønland krets er utenlandske statsborgere, at ca. 33 prosent av begjæringer om tilståelsesdom returneres fordi stevning ikke har lyktes, og at «et stort antall» hovedforhandlinger utsettes av samme grunn (jf. Brev til riksadvokaten datert 22. mars 2013 – ref. 2013/00123-2).
 
-feprosessloven § 321 første ledd første og annet
-punktum. Vilkåret om «særlige forhold» for å få
-anken behandlet skal forstås som etter gjeldende
-rett.
-Om tillatelse til å få en anke behandlet i Høyesterett etter annet ledd vises det til drøftelsen i punkt
-20.4.10.2. Vilkårene for å få en sak behandlet i
-Høyesterett skal forstås som etter gjeldende rett.
-En avgjørelse etter første eller annet ledd kan
-begrenses til en del av saken, det vil si til enkelte
-tiltaleposter (ankegjenstander) eller enkelte ankegrunner. Hver ankegrunn er én anke. Etter
-omstendighetene kan anken avgjøres ved
-silingen, jf. utkastet § 39-2 annet ledd.
-Til § 38-4. Saksbehandling ved spørsmål om avvisning
-og henvisning av anke
-Se straffeprosessloven §§ 324 første ledd, 321
-fjerde til sjette ledd, 323 annet ledd, 326 første
-ledd, 387 a første ledd annet punktum og 388
-annet ledd.
-Retten til å uttale seg etter første ledd virker i
-forlengelsen av kontradiksjonsretten i tilknytning
-til anken, og retter seg mot behandlingen av opplysninger innhentet under silingsbehandlingen.
-Annet ledd fastslår at en part skal få anledning
-til å rette alle typer feil som lar seg avhjelpe.
-Ankedomstolen har plikt til å veilede om lovens
-krav til anke. I hvilket omfang det skal veiledes,
-og hvor lenge tilbakemelding skal avventes, beror
-på den ankende parts forutsetninger. Er vedkommende bistått av advokat, kreves ikke mer enn en
-kort klargjøring. Det er en feil ved saksbehandlingen om tilstrekkelig veiledning ikke gis, se
-Rt. 2015 s. 334.
-Ankedomstolen skal gi frist for retting, om
-retting ikke allerede har skjedd etter partens eget
-initiativ. Det er uten betydning for adgangen til å
-rette feil om vedkommende er å klandre. Er det
-bebudet innspill til anken i form av et støtteskriv
-som ikke er innkommet til domstolen, bør det i
-alminnelighet ikke treffes avgjørelse før dette er
-etterlyst.
-Loven forutsetter at det kan få praktisk betydning at feilen rettes. Er anken beheftet med feil
-som innebærer at den i alle tilfeller skal avvises,
-kan beslutningen treffes uten at andre feil rettes.
-Tredje ledd første punktum regulerer situasjonen
-når det er gjort gjeldende flere ankegrunner for
-lagmannsretten. Retten skal som regel først prøve
-spørsmålet om å henvise en anke over bevisbedømmelsen under skyldspørsmålet, men foreligger en
-åpenbar lovanvendelsesfeil eller saksbehandlingsfeil ved avgjørelsen, kan det etter tredje ledd annet
+En rekke delprosjekt av betydning er pågående eller gjennomført, for eksempel Videokonferanseprosjektet i justissektoren (Evalueringsrapport, Domstoladministrasjonen november 2007) og pilotprosjektet i det såkalte MERVERDI-programmet, om forberedelser og gjennomføringen av en digital straffesak. Disse er forutsatt å være premissleverandører for utvalget, jf. mandatets pkt. 6.
 
-653
+En rekke revisjonsbehov, revisjonsforslag og analyser av gjeldende lov og praksis er også drøftet av erfarne aktører i et temanummer av *Tidsskrift for Strafferett* (TfS) nr. 4 2013.[^1355] Det er her særlig verd å merke seg at flere av forfatterne etterlyser en oppfølgning av forslagene i rapporten *Ressurs- og tidsbruk i omfattende straffesaker*.[^1356]
 
-Kapittel 30
+Vi har også valgt å følge den nevnte Arbeidsgruppens metodologiske tilnærming idet vi har innhentet opplysninger for å kartlegge antall store og omfangsrike straffesaker for perioden 2005–2014 for å etterprøve premissene i utvalgets mandat (se pkt. 5).
 
-punktum likevel treffes beslutning etter utkastet
-§ 39-2 annet ledd.
-Tredje ledd tredje punktum er uttrykk for en
-presumsjon om at det utenfor tilfellene der det er
-anket til lagmannsretten over bevisbedømmelsen
-under skyldspørsmålet, vil være hensiktsmessig å
-behandle anken over saksbehandlingen først.
-Dersom en anke over bevisbedømmelsen er
-fremmet og senere bortfaller, skal retten ta stilling
-til eventuelle øvrige ankegrunner, jf. «først».
-Beslutninger etter utkastet § 38-4 krever
-begrunnelse, jf. utkastet § 32-7 og merknadene til
-bestemmelsen. Begrunnelsen skal reflektere
-alvoret i beslutningen ved at sakens realitet får sin
-endelige avgjørelse, og skal sikre kontroll med at
-ankedomstolen har foretatt en reell vurdering av
-om anken skal tillates fremmet i tråd med våre
-folkerettslige forpliktelser, se nærmere Rt. 2010
-s. 987. Fjerde ledd tredje punktum er en spesialregulering som vil slå igjennom det alminnelige
-begrunnelseskravet etter § 32-7.
-Til § 38-5. Henvisning
-Se straffeprosessloven § 325 første ledd første
-punktum. Se også tvisteloven § 29-14.
-Beslutning om henvisning kan ikke ankes, jf.
-utkastet § 37-2 femte ledd. Når saken er henvist,
-skal den forberedes og avgjøres etter utkastet
-kapittel 39. Annet punktum skal legge til rette for
-at man under ankebehandlingen konsentrerer seg
-om det som er omstridt, og er et uttrykk for at
-hensynet til konsentrasjon skal ivaretas på alle
-stadier i saksbehandlingen. Bestemmelsen
-innebærer likevel ingen formell binding av
-ankedomstolens kompetanse.
-Lagmannsretten eller Høyesterett i avdeling
-kan avvise en anke selv om den er henvist av
-ankeutvalget, se for så vidt gjelder Høyesterett
-Rt. 1981 s. 334, 570 og 926 og Rt. 1989 s. 1245.
-Til kapittel 39. Realitetsbehandling av anke
-Til § 39-1. Behandlingsform og avgjørelsesgrunnlag
-ved anke over beslutning
-Se straffeprosessloven §§ 385 første ledd, 387
-første ledd første og annet punktum og 387 a
-første ledd første punktum. Utkastet bygger på
-tvisteloven § 29-15.
-Om det skal besluttes muntlig forhandling ved
-anke over beslutning, skal bero på en vurdering
-av om skriftlig behandling vil være betryggende,
-jf. for eksempel Rt. 2002 s. 930 og Rt. 2004 s. 66.
-Det må tas i betraktning om det er krav om muntlig behandling etter EMK artikkel 6. Det er
+1.  **Undersøkelsens utgangspunkt og begrensinger**
 
-[Side 656]
+    1.  **Henvisninger til kriminalitetsbildet som premiss for lovendringer**
 
-654
+Henvisninger til «kriminalitetsbildet» som premiss for lovendringer som tar sikte på å effektivisere straffesaksbehandlingen – slik som i Straffeprosessutvalgets mandat –, er velkjent i lovgivningsprosesser. Kriminalitetsbildet (eller trekk ved det) trekkes særlig frem som argument for å innføre nye *straffebestemmelser* for å bekjempe «nye» eller mer dagsaktuelle kriminalitetsformer (for eksempel strafferettslig vern for aktører i rettsvesenet for å møte et antatt «hardere klima») og for å innføre nye *etterforskingsmetoder* som tar sikte på å avdekke og oppklare flere saker på etterforskings- og påtalestadiet.
 
-Kapittel 30
+I det følgende gis eksempler på slik argumentasjon fra et utvalg sentrale kilder.
 
-NOU 2016: 24
-Ny straffeprosesslov
+Metodeutvalgets (1997) beskrivelse av kriminalitetsutviklingen og den metode den baseres på ble møtt med kritikk fra flere høringsinstanser, særlig fra kriminologien. Advokatforeningen etterspurte en mer fullstendig gjennomgang av kriminalitetsutviklingen og behovet for nye etterforskingsmetoder og anførte at Metodeutvalgets beskrivelse av kriminalitetsutviklingen i liten grad var etterprøvbar. Norsk forening for kriminalreform (KROM) kritiserte metodebruken, særlig det at økningen i antall registrerte lovbrudd ble brukt som indikator på økt kriminalitet. Institutt for kriminologi fremhevet blant annet at kriminalitetsøkningen hovedsakelig gjaldt mindre alvorlig vinningskriminalitet, og at det var «meget uheldig» at det ikke ble fremhevet at de kriminalitetsformene som utvalget mente krevde nye metoder, utgjorde «en svært liten del av totalbildet».[^1357] Departementet la større vekt på kvalitative enn kvantitative endringer i kriminalitetsbildet og konkluderte med at det ikke er
 
-adgang til å beslutte muntlig forhandling etter at
-saken først har vært forsøkt behandlet skriftlig.
-Gjennomføringen av den muntlige behandlingen vil som regel være tilnærmet lik muntlig
-ankeforhandling ved anke over dom. Ankedomstolen kan bestemme omfanget av partenes prosedyrer og bevisføring under den muntlige behandlingen i medhold av de alminnelige reglene om
-saksstyring.
-Til § 39-2. Behandlingsform og avgjørelsesgrunnlag
-ved anke over dom
-Se straffeprosessloven §§ 322 og 323, § 327 første
-ledd jf. § 278 første ledd og § 333 annet til fjerde
-ledd.
-Annet ledd erstatter det som i dag fremgår av
-§ 322. Uttrykket «klart» skal forstås slik at det er
-de mer åpenbare tilfeller som kan avgjøres uten
-ankeforhandling, jf. Rt. 2007 s. 1349 avsnitt 17. For
-spørsmålet om hvorvidt et resultat er «mildere»
-etter annet ledd bokstav b, er vurderingstemaet om
-det konkrete resultatet vil være til mistenktes
-gunst. Er retten i tvil om dette, er det grunn til å
-fremme anken. Adgangen til å oppheve dommen
-etter annet ledd bokstav c gjelder for frifinnende og
-fellende dommer og for hele eller deler av avgjørelsen. Opphevelse kan således skje til gunst så
-vel som til skade for tiltalte. Dersom en del av
-dommen oppheves, fastsettes ny straff for de
-deler av domfellelsen som blir stående, jf. utkastet
-§§ 39-10 fjerde ledd og 39-11 femte ledd.
-Utgangspunktet etter tredje ledd er at alle
-anker skal kunne behandles skriftlig etter ønske
-om forenklet skriftlig behandling fra partene selv,
-eller etter beslutning av retten. Bestemmelsen
-utvider adgangen til skriftlig behandling sammenlignet med straffeprosessloven § 333. I vurderingen av om slik behandling er «hensiktsmessig og
-forsvarlig», skal det tas hensyn til sakens rettslige
-og faktiske problemstillinger, forhold ved tiltalte
-og partenes ønsker. Tiltalte har også ved skriftlig
-realitetsbehandling av anke over dom krav på
-forsvarer etter utkastet § 3-18 annet ledd.
-Fjerde ledd er ment å videreføre det som i dag
-følger av § 323 siste ledd med enkelte språklige og
-tekniske justeringer. Uttrykket «dommen» i
-bokstav b utelukker ikke delvis opphevelse, jf.
-merknadene til utkastet § 37-1 om ankebegrepet.
-Til § 39-3. Rettens forhold til ankegrunnene ved anke
-over beslutning
-Se straffeprosessloven § 385 tredje ledd for så vidt
-gjelder saksbehandlingsfeil.
+«avgjørende hvor stor økningen i kriminaliteten har vært. Vel så viktig er det at kriminaliteten har *endret karakter*. Særlig er det av betydning at alvorlig kriminalitet *i større grad enn tidligere skjer* *organisert*, innenfor lukkede kriminelle miljøer som til dels har internasjonal tilknytning.»[^1358]
 
-Ankedomstolen har som hovedregel full
-kompetanse når den prøver anke over beslutning,
-og er ikke bundet av de anførte ankegrunner.
-Retten må imidlertid holde seg innenfor begrensningene i adgangen til å anke over beslutninger
-som følger av utkastet § 37-2. Bestemmelsen må
-ses i sammenheng med utkastet § 39-8 om
-avgjørelser av anke over beslutning.
-Til § 39-4. Rettens forhold til ankegrunnene ved anke
-over dom
-Se straffeprosessloven §§ 315 tredje ledd, 331
-første ledd, 342 og 344. Bestemmelsen må ses i
-sammenheng med utkastet §§ 39-9 til 39-11 om
-avgjørelser av anke over dom.
-Første ledd slår fast prinsippet om at ankedomstolens behandling i utgangspunktet skal
-rette seg mot de ankegrunnene som er henvist.
-Rettens kompetanse til å gå utenfor anken
-følger av annet ledd. Behandlingen skal for øvrig
-skje med utgangspunkt i henvisningsbeslutningen,
-jf. utkastet § 38-5, men sistnevnte bestemmelse
-innebærer ingen formell begrensning i ankedomstolens kompetanse. Begrensningen i annet ledd
-første punktum gjelder når disse sidene ved
-avgjørelsen ikke er gjort til ankegrunn. Vilkåret
-«særlige forhold» forutsetter en vurdering av
-feilens betydning for avgjørelsen. Rettens skjønn
-skal praktiseres som etter gjeldende rett. Spørsmål om å gå utenfor anken kan tas opp av retten
-selv eller av partene under ankeforhandlingen.
-Annet ledd annet punktum innebærer at retten
-bare kan prøve bevisbedømmelsen under skyldspørsmålet og straffutmålingen til skade for
-tiltalte når en slik anke er henvist til behandling.
-Etter tredje ledd kan retten gå utenfor ankegjenstanden i samme utstrekning som etter
-gjeldende § 342 tredje ledd.
-Til § 39-5. Forberedelse til ankeforhandling.
-Berammelse
-Se straffeprosessloven § 327 første ledd annet
-punktum for så vidt gjelder dom. Se også straffeprosessloven § 385 første ledd.
-Saksforberedelsen er som hovedregel skriftlig
-både ved anke over dom og anke over beslutning.
-Etter tredje punktum er fristen for å holde
-ankeforhandling i tilfeller hvor mistenkte er fengslet eller under 20 år, åtte uker, se til sammenligning for hovedforhandling utkastet § 34-2 tredje
-ledd. For så vidt gjelder mistenktes alder, vil det
-avgjørende være om mistenkte var under 20 år på
-henvisningstidspunktet.
+Fokuset i sitatet er primært kriminalitetsbildet og kriminalitetsutviklingens betydning for atferd som negativt påvirker politiets mulighet til å etterforske og avdekke kriminalitet, og som derfor aktualiserer behovet for nye eller andre etterforskingsmetoder.
 
-[Side 657]
+Men forhold ved kriminalitetsbildet påvirker også aktørenes opptreden og sakens behandling *under iretteføringen* *i domstolene*, for eksempel i form av hvilke prosessuelle valg partene foretar eller avstår fra. Partenes konkrete prosesshandlinger og samlede prosessatferd i en sak er, ved siden av dommerens saksstyring, av betydning for hvor omfattende straffesakens forberedelse og gjennomføring blir i domstolene.[^1359] Henvisninger til (sider ved) kriminalitetsbildet preger derfor også flere lovendringer av betydning for iretteføringen, særlig reguleringen av ulike bevisrettslige spørsmål, først og fremst for å gi domstolene hjemmel til å begrense partenes bevisføringsrett.[^1360]
 
-NOU 2016: 24
-Ny straffeprosesslov
+Ved en lovendring i 2002 ble behovet for utvidet adgang til bevisavskjæring vurdert, og strpl. § 292 endret. Et lignende lovforslag var fremsatt allerede i 1988–1989 og i 1994–1995 med lignende begrunnelse, men ble da ikke vedtatt. Justiskomiteen var den gang ikke uenig i at det kunne være grunnlag for å gi retten muligheter til å avskjære bevis «av uvesentlig betydning for avgjørelsen», og hadde «forståelse for de tidsbesparende fordelene en mer omfattende adgang til bevisavskjæring vil ha», men uttalte at «forslaget vil kunne bidra til å svekke rettssikkerheten». Komiteen la vekt på at det er «viktig at forsvareren har et rimelig vidt spillerom for måten forsvaret legges opp på, slik at tiltalte føler at han eller hun har kommet til orde, og at saken har fått en grundig og objektiv behandling.»[^1361]
 
-Til § 39-6. Gjennomføring av ankeforhandling
-Se straffeprosessloven §§ 327 første ledd første
-punktum og 339. Det vises til drøftelsen i punkt
-20.4.6.
-Det følger av første ledd at ankeforhandling
-som hovedregel gjennomføres etter reglene om
-hovedforhandling i første instans. Bestemmelsen
-gjelder i utgangspunktet både for lagmannsrettens og Høyesteretts behandling, men for
-Høyesterett er det gitt enkelte særskilte regler, se
-særlig utkastet § 39-7.
-Bestemmelser om gjennomføring av hovedog ankeforhandling er gitt i utkastet kapittel 35.
-Av sentral betydning er rettens plikt til saksstyring, jf. § 35-1. Det legges dessuten opp til at
-det skal være en særlig konsentrasjon om sakens
-substansielle tvistetemaer når saken står for
-ankeinstansen. Bestemmelsen må således ses i
-sammenheng med utkastet § 38-5 annet punktum,
-som fastslår at henvisningsbeslutningen når det
-er hensiktsmessig, skal angi hvilke faktiske og
-rettslige forhold behandlingen bør konsentreres
-om.
-Ankeforhandlingen skal gjennomføres som
-angitt i utkastet §§ 35-2 til 35-5. Forklaringer
-føres etter utkastet § 10-9. Bestemmelsen åpner
-for at avspilling av opptak med lyd og bilde både
-kan benyttes til erstatning for og i kombinasjon
-med forklaring direkte for retten, jf. § 10-9 annet
-ledd med merknader. Se også punkt 6.5.4.5. For
-så vidt gjelder bevisføring i Høyesterett, se
-utkastet § 39-7.
-Etter annet ledd første punktum skal den
-ankende part som hovedregel ha ansvar for å
-presentere saken slik den står for ankedomstolen.
-Bestemmelsen gjelder for alle ankegrunner, og er
-ment å bidra til en konsentrasjon av ankeforhandlingen. Se nærmere om bakgrunnen for bestemmelsen i punkt 20.4.6.
-Til § 39-7. Realitetsbehandling av anke til Høyesterett
-Se straffeprosessloven §§ 338 og 339 annet ledd
-annet punktum.
-Bestemmelsen samler særreglene for gjennomføring av ankeforhandling i Høyesterett. For
-øvrig gjelder utkastet § 39-6. Vilkårene for bevisopptak og regler om gjennomføringen følger av
-utkastet kapittel 12.
-Til § 39-8. Avgjørelse av anke over beslutning
-Se straffeprosessloven §§ 385 og 387 a. Se også
-drøftelsen i punkt 19.4.
+Ved endringen i 2002 var situasjonen og vurderingen en noe annen. Endringen var blant annet basert på en arbeidsgruppe som uttalte at
 
-655
+«\[e\]n del straffesaker har et omfang som legger beslag på store ressurser over lang tid. Det er arbeidsgruppens *inntrykk* at straffesaker har blitt langt m*er omfattende hva angår tidsforbruk enn tidligere*. Det er ikke helt sjelden at straffesaker berammes over mange uker og måneder, jf for eksempel meget omtalte saker som AUF-saken, Rasool-saken, Skriksaken og ikke minst en rekke økonomiske straffesaker. Også narkotikasaker blir ofte meget omfattende.»[^1362]
 
-Kapittel 30
+De premisser som Arbeidsgruppen fremhevet, bygger et stykke på vei på statistikk og tall, supplert av prognoser for fremtiden og med referanser til (medie)omtalte saker. Men langt på vei dreier det seg om synspunkter på kriminalitetsutviklingen og dens betydning for domstolsbehandlingen av sakene, i form av «inntrykk» og/eller «antakelser» fra ulike premissleverandører, for eksempel utvalgsmedlemmer og særorgan. Et annet forhold er at synspunktene er svært generelle og unnlater å påpeke at de sakene det refereres til, utgjør «en svært liten del av totalbildet».[^1363] Den enkeltes fokus og ståsted i straffesakssystemet kan ha nokså stor betydning for hvilket inntrykk man har, og hvordan tilgjengelige tall tolkes.
 
-Vilkåret «har grunnlag for det» i første ledd
-første punktum innebærer at underinstansens
-beskrivelse av de faktiske forhold må være tilstrekkelig til at ankedomstolen kan avgjøre spørsmålet på en fullt ut betryggende måte. Betydningen av umiddelbar bevisføring for de vurderingstemaer det da må tas stilling til, er sentralt for
-vurderingen, ettersom anker over beslutninger
-normalt skal behandles skriftlig, jf. utkastet § 39-1
-første punktum.
-Første ledd annet punktum bokstav a og b angir
-de saksbehandlingsfeil som kan føre til opphevelse av beslutningen uten noen nærmere vurdering av om feilen har virket inn på resultatet.
-Vilkåret i bokstav a skal forstås på samme måte
-som i utkastet § 39-10 første ledd bokstav a til g for
-så vidt gjelder dom. Bokstav b skal forstås som i
-utkastet § 39-10 første ledd bokstav h.
-Innvirkningsvurderingen i bokstav c er todelt.
-Først skal det tas stilling til virkningene den
-konkrete saksbehandlingsfeilen har hatt for
-grunnlaget for rettens avgjørelse. Dersom det
-påvises en slik virkning, skal det så tas stilling til
-om den delen av grunnlaget som er uberørt av
-feilen, likevel er tilstrekkelig for å kunne treffe
-beslutningen. Kravet til innvirkning skal praktiseres som etter gjeldende rett. Terskelen for innvirkning er relativ og beroende på momenter som
-nevnt i punkt 19.4.4. Det skal blant annet tas
-hensyn til feilens karakter og grovhet.
-Dersom ankedomstolen ikke har tilstrekkelig
-grunnlag for å prøve om feilen har innvirket, skal
-avgjørelsen oppheves.
-Til § 39-9. Avgjørelse av anke over dom når det er anket
-over bevisbedømmelsen under skyldspørsmålet
-Se straffeprosessloven §§ 345 første ledd og 348
-første ledd.
-Bestemmelsen gjelder kun for anke til lagmannsretten og skal forstås og praktiseres som
-etter gjeldende lov. Kravene til dommens innhold
-og begrunnelse følger av utkastet §§ 32-7 og 32-8.
-Til § 39-10. Avgjørelse av anke over dom når det er
-anket over saksbehandlingen
-Se straffeprosessloven §§ 343, 345 annet ledd,
-347, 348 annet ledd og 351.
-Bestemmelsen gjelder for anke til lagmannsrett og til Høyesterett. Første ledd første punktum
-erstatter gjeldende § 343 annet ledd nr. 2 til 8. Om
-forståelsen av kravet til innvirkning etter første
-ledd annet punktum, se kommentaren til utkastet
-§ 39-8 første ledd annet punktum bokstav c.
+Disse forhold, som har betydning blant annet for premissholdbarhet og metode, ble påpekt av Metodekontrollutvalget i 2009:
 
-[Side 658]
+«Det har vist seg at hoveddelen av de eksisterende, tilgjengelige kildene om dagens kriminalitetsbilde i Norge i all hovedsak stammer fra politiet. Dette er en svakhet, særlig i forhold til de kildene som består av *mer subjektive analyser*. Det illustrerer imidlertid en svakhet ved det generelle tilfanget av kilder om kriminalitetsbildet i Norge, nemlig at få andre foretar omfattende innsamling av data eller analyser av kriminalitetsbildet av større format.»[^1364]
 
-656
+Det dreier seg her om *nokså etablerte oppfatninger*, som fremføres i ulike fora og i offentlige dokument, slik mandatet til Straffeprosessutvalget er et eksempel på.[^1365] Sentrale aktører med et bredt overblikk har for eksempel uttalt:
 
-Kapittel 30
+«I vårt land tar *domstolsbehandlingen stadig lenger tid*, utvilsomt et sammensatt og komplisert spørsmål hvor årsakene krever mer analyse enn plassen her tillater. Etter min oppfatning kan det vanskelig dokumenteres at det økte tidsforbruk fører til bedre rettssikkerhet, herunder riktigere avgjørelser.»[^1366]
 
-NOU 2016: 24
-Ny straffeprosesslov
+Nils Erik Lie, mangeårig førstelagmann i Borgarting, peker på noen lange linjer i kriminalitetsbildet, med en utvikling fra ca. 90 000 straffereaksjoner i 1970 til 336 000 i 2010, mer organisert kriminalitet og nye sakstyper som for eksempel miljøkriminalitet, menneskehandel og terror. Det er verd å merke at Lie deretter inntar et tjueårsperspektiv, og uttaler:
 
-Er det begått en saksbehandlingsfeil ved underinstansens avgjørelse, kan dommen oppheves helt
-eller delvis. Hovedregelen etter annet ledd er at
-opphevelse av en dom også skal føre til opphevelse av den underliggende hovedforhandlingen.
-Det vil imidlertid kunne være «tilstrekkelig» å
-oppheve dommen, for eksempel ved mangelfulle
-domsgrunner. Om den videre behandling av
-saken etter opphevelse, se utkastet § 39-12.
-Tredje ledd slår fast at når påtalemyndigheten
-anker over brudd på saksbehandlingsregler som
-skal verne mistenkte, som for eksempel bestemmelsene om rett til forsvarer, kan ankedomstolen
-ikke gå utenfor ankegrunnene etter utkastet § 394 til mistenktes skade, se straffeprosessloven
-§ 351. Bestemmelsen bygger på en objektiv vurdering av hva som skal anses å være til gunst eller
-skade, med utgangspunkt i rettssystemets forutsetninger og ikke påtalemyndighetens pretensjoner. Ankedomstolen står, som ellers, fritt til å oppheve avgjørelsen innenfor ankegrunnen.
-Fjerde ledd erstatter det som i dag er slått fast i
-§ 348 annet ledd for så vidt gjelder anke over saksbehandlingen.
-Til § 39-11. Avgjørelse av anke over dom når det er
-anket over lovanvendelsen eller reaksjonsfastsettelsen
-Se straffeprosessloven §§ 344, 345 annet ledd,
-347, 348 annet ledd og 351.
-Bestemmelsen gjelder for anke til lagmannsrett og til Høyesterett. Ankedomstolens adgang til
-å avgjøre anke over lovanvendelsen ved ny dom
-følger av første ledd. Underinstansens beskrivelse
-av faktum i domsgrunnene må i så fall være tilstrekkelig til at ankedomstolen kan avgjøre saken
-ut fra sitt syn på hva som er riktig lovanvendelse.
-Bestemmelsen utelukker ikke domfellelse dersom
-det ligger til rette for det.
-Dersom en anke over straffutmålingen fører
-frem, jf. annet ledd første punktum, kan ankedomstolen fastsette ny reaksjon ut fra sitt syn på
-saken, eventuelt ved supplerende bevisføring.
-Annet ledd annet punktum erstatter gjeldende
-§ 344 med en annen ordlyd. Det følger av bestemmelsen at ankeinstansen bare kan fastsette ny
-straff dersom det er «klart» synlig for ankeinstansen at underinstansens straffutmåling er
-uriktig. Om misforholdet er lite eller betydelig er i
-prinsippet ikke relevant. Bestemmelsen gjelder
-også for valget mellom straffarter. Se nærmere
-drøftelsen i punkt 20.4.8.
-Fjerde ledd erstatter § 351 for så vidt gjelder
-begrenset anke over lovanvendelsen eller straff-
+«Samtidig ser vi *en klar tendens* til at flere saker i domstolene blir mer og mer omfattende. *Ingen offisiell statistikk* viser gjennomsnittlig varighet av sakene i retten. *Min erfaring* fra mange år i gamle Eidsivating og Borgarting lagmannsrett er at varigheten av ankesakene hadde en klar økende tendens. Lagrettesaker som tok fire–fem dager eller mer, var etter hvert heller regelen enn unntaket, mens de for 20 år siden gjerne ble avviklet på to, maksimum tre dager.»[^1367]
 
-utmålingen. Straffen kan ikke skjerpes, og det kan
-ikke legges til grunn en strengere subsumsjon
-når påtalemyndigheten har anket til gunst for
-domfelte. Hvordan saken skal behandles etter
-opphevelse, er løst i utkastet § 39-12.
-Til § 39-12. Videre behandling av saken etter
-opphevelse
-Se straffeprosessloven §§ 347 og 350.
-Første ledd gir en påminnelse om plikten til
-videre behandling av saken etter ankebehandling
-som har resultert i opphevelse.
-Etter annet ledd første punktum skal retten
-settes med nye fagdommere og nye lekdommere
-eller fagkyndige meddommere når også hovedforhandlingen som ligger til grunn for dommen,
-oppheves. Ved mindre domstoler kan det bli
-behov for å tilkalle dommere fra andre embeter
-for å oppfylle kravet.
-Tredje ledd binder avgjørelsen av skyldspørsmålet i den første dommen for så vidt gjelder
-de forhold opphevelsesgrunnen ikke omfatter.
-Retten står imidlertid fritt med hensyn til reaksjonsfastsettelsen. Henvisningen til bestemmelsen i utkastet §§ 39-10 tredje ledd og 39-11 fjerde
-ledd innebærer at prinsippet om at dommen ikke
-kan endres til skade for tiltalte, både gjelder ved
-ankedomstolens behandling av saken og ved den
-nye behandlingen i underinstansen etter opphevelse.
-Til del 9. Fullbyrding og gjenåpning
-Til kapittel 40. Fullbyrding
-Til § 40-1. Fullbyrding av straff eller annen
-strafferettslig reaksjon
-Se straffeprosessloven §§ 452 første punktum, 453
-første punktum, 454 og 460 første punktum. Se
-også påtaleinstruksen kapittel 29 og 30.
-Bestemmelsen angir når fullbyrding finner
-sted, samt enkelte regler om hvordan fullbyrdingen skal skje.
-Annet ledd annet punktum omfatter også tilfellene der en anke er tatt til behandling på tross av
-fristoversittelse.
-Tredje ledd annet punktum bokstav a fastslår
-at subsidiær frihetsstraff kun skal fullbyrdes når
-det er betalingsviljen det står på og ikke
-betalingsevnen, med mindre allmenne hensyn
-gjør seg gjeldende, jf. tredje ledd annet punktum
-bokstav b, se nærmere Ot.prp. nr. 90 (2003–2004)
-s. 492–493.
+Også utvalg som har vurdert situasjonen for enkelte domstoler, konkluderer på samme måte. I en undersøkelse fra Oslo heter det:
 
-[Side 659]
+«Antallet anmeldte forbrytelser og forseelser i Oslo har vært relativt konstant siden 1996. Det har imidlertid i samme periode vært *en markert økning i antallet hovedforhandlinger og rettsdager for Oslo tingrett*. Årsaken til dette ligger dels i restanseavvikling, dels i en økning i politiets oppklaringsprosent og dels i endringer i hovedstadens kriminalitetsbilde. *Tendensen går i retning av mer omfattende og komplekse saker og en større del av kriminaliteten har grenseoverskridende karakter eller bedrives av personer som samarbeider i nettverk. Økonomisk kriminalitet har videre vært et satsingsområde, hvilket har ført til en rekke store straffesaker i den senere tid*.»[^1368]
 
-NOU 2016: 24
-Ny straffeprosesslov
+Uttalelsen ovenfor angir at kriminalitetsbildet og politiets satsinger på enkelte kriminalitetsområder er faktorer som påvirker og forlenger behandlingstidene i domstolene.
 
-Til § 40-2. Iverksetting
-Se straffeprosessloven §§ 452 annet ledd, 455
-annet ledd, 456 første ledd og annet ledd annet
-punktum, 458 og 459 første og fjerde ledd.
-Bestemmelsen angir hvem som står for iverksettelsen av straff som skal fullbyrdes, absolutte
-og relative utsettelsesgrunner og regler for Kriminalomsorgens saksbehandling.
-Første ledd fordeler ansvar mellom myndighetene til å iverksette fullbyrding når vilkårene er
-oppfylt etter utkastet § 40-1. Med uttrykket
-«bøter» i første ledd bokstav b siktes det til straff
-som angitt i straffeloven § 29 første ledd bokstav
-e. Herunder omfattes rettergangsbøter. Uttrykket
-«andre tilfeller» i første ledd bokstav c omfatter rettighetstap, jf. straffeloven § 29 første ledd bokstav
-f, og inndragning, jf. straffeloven § 30 bokstav e,
-og tap av retten til å føre motorvogn mv., jf. straffeloven § 30 bokstav h.
-Annet ledd gir regler om når iverksettelsen
-«skal» utsettes. Annet ledd bokstav a må ses i
-sammenheng med den særlige adgangen til å
-bringe tvist om fullbyrding med Kriminalomsorgen inn for retten etter utkastet § 40-4 første ledd
-bokstav d.
-Tredje ledd gir en skjønnsmessig hjemmel for
-å utsette iverksettelsen, jf. «kan». Tredje ledd bokstav a legger kompetansen til å beslutte utsettelse
-både til ankedomstolen som skal behandle saken,
-og til den dømmende rett som mottar en for sent
-fremsatt anke, jf. utkastet §§ 37-4 tredje ledd og
-37-5 annet ledd. Utsettelse før iverksettelse når
-det er fremsatt begjæring om gjenåpning og frem
-til saken eventuelt besluttes gjenåpnet, reguleres
-av tredje ledd bokstav b.
-Fjerde ledd gir departementet adgang til å
-avbryte fullbyrdingen når det er utsikt til at en
-begjæring om gjenåpning vil føre frem og ende i en
-dom som innebærer at fortsatt fullbyrding bør opphøre, sml. situasjonen i Rt. 2010 s. 1046. Retten vil
-da i tråd med utkastet ikke lenger ha en slik kompetanse som ble lagt til grunn i denne avgjørelsen.
-For departementets behandling etter tredje
-ledd bokstav b og fjerde ledd gis forvaltningsloven
-ikke anvendelse, jf. unntaket for rettspleielovene i
-forvaltningsloven § 4 første ledd bokstav b.
-Behandlingen skal være i tråd med alminnelige
-prinsipper om forsvarlig og god saksbehandling.
-Til § 40-3. Pålegg om oppmøte til fullbyrding.
-Avhenting
-Se straffeprosessloven § 461.
+Tilsvarende koblinger og uttalelser om «*utviklingstendenser*» er gjort av andre utvalg. Om sammenhengen mellom kriminalitetsbildet/-utviklingen og straffesaksbehandlingen heter det i *Politianalysen* fra 2013:
 
-657
+«Kriminalitetsbildet blir også *mer komplekst og sammenvevd*, bl.a. gjennom mer *grenseoverskridende og organisert* kriminalitet. Etterforskningen og iretteføringen av saker blir *mer ressurskrevende*. Dette utfordrer politiets kapasitet, kompetanse og organisering på nye måter.»[^1369]
 
-Kapittel 30
+Tilgjengelige tall fra politiet om ressursbruken, gir en viss støtte for dette. I *Driftsanalysen for politi- og lensmannsetaten* for perioden 2002–2008 heter det at
 
-Til § 40-4. Tvist om fullbyrding. Fastsetting av straff ved
-utlevering
-Se straffeprosessloven §§ 459 siste punktum, 462
-og 463 b.
-Ved valg av domstol gjelder vernetingsreglene
-i utkastet §§ 5-10 og 5-11. Det vil kunne være
-hensiktsmessig å benytte stedets rett eller den
-rett som har dømt i saken.
-Saksanlegg etter første ledd bokstav d kan ikke
-avskjæres med en påstand om manglende rettslig
-interesse under henvisning til at begjæring om
-soningsutsettelse ikke har blitt gitt oppsettende
-virkning og fullbyrding av straff allerede er iverksatt, se Rt. 2014 s. 216.
-Til § 40-5. Forskrifter om fullbyrding
-Se straffeprosessloven §§ 456 tredje ledd, 457 og
-462 a.
-Bokstav a og c gir generell adgang for
-Kongen til å fastsette regler om saksbehandlingen hos de involverte organer for saker om fullbyrding, mens bokstav b også gir mulighet til å gi
-nærmere regler om avhenting til fullbyrding.
-Bokstav d gir adgang til å videreføre regelinnholdet som følger av straffeprosessloven § 456
-tredje ledd med tilhørende forskriftsregulering.
-Til kapittel 41. Gjenåpning
-Gjenåpning er et ekstraordinært rettsmiddel mot
-rettskraftige avgjørelser, regulert i straffeprosesslovens kapittel 27. Om bakgrunnen for
-dagens regulering vises det til Ot.prp. nr. 35
-(1978–79), Ot.prp. nr. 78 (1992–93), Ot.prp. nr. 70
-(2000–2001), Ot.prp. nr. 54 (2005–2006), Ot.prp.
-nr. 74 (2005–2006), Ot.prp. nr. 6 (2007–2008) og
-Ot.prp. nr. 11 (2007–2008). Se også rapporten
-Etterkontroll av Kommisjonen for gjenopptakelse av
-straffesaker fra 2012.
-Utvalgets generelle vurderinger av ordningen
-med gjenåpning fremgår i punkt 22.3. Om rettskraft vises det til punkt 17.8. Forholdet mellom
-gjenåpning og de ordinære rettsmidlene er
-behandlet i punkt 22.3.3.
-Utkastet viderefører i hovedsak de sentrale
-vilkårene for gjenåpning. Regelutformingen er
-imidlertid endret for å gjøre innholdet lettere
-tilgjengelig, og bestemmelsene er som i utkastet
-for øvrig gitt en forklarende overskrift.
+«Vårt klare inntrykk er at *kostnadsdriverne* for straffesaksutgiftene ligger i de store og komplekse sakene på disse områdene \[voldskriminalitet og alvorlige narkotikasaker, vår anm.\]. Sakene (…) er i dag både mer omfattende og med mer komplekse sammenhenger enn tidligere. Vi ser også at flere av de store sakene involverer personer med utenlandsk bakgrunn, noe som innebærer utstrakt bruk av tolker og større utgifter knyttet til dette. (…) Vi ser også en klar tendens til at hver enkelt sak tar lengre tid i retten, noe som også er et uttrykk for kompleksiteten i sakene. I en oversikt fra høyere påtalemyndighet sine aktorater og rettsdager kan man finne støtte for antagelsen om at straffesakene har blitt mer komplekse og omfattende.»[^1370]
 
-[Side 660]
+Konklusjonen om at det er *«en klar tendens»* til at sakene tar lengre tid i retten enn tidligere – i tillegg til henvisninger til kriminalitetsendringer – begrunnes i at antall rettsdager er uforandret selv om antall saker går ned – en utvikling som også ses for perioden 2001–2004.[^1371] Aktoratene *«antas»* å være mer ressurskrevende enn tidligere, de tar lengre tid å gjennomføre, og de krever gjerne to statsadvokater, fordi det iretteføres stadig mer omfattende og komplekse saker knyttet til kriminelle nettverk og organisert kriminalitet, ofte med mange tiltalte og behov for tolking. Tilsvarende ligger til grunn også for Domstoladministrasjonens rapport *Aktiv saksstyring og saksavvikling i straffesaker.*[^1372]
 
-658
+Utviklingen med en nedgang i antall aktorater, men en økning i antall rettsdager, er imidlertid ikke entydig, men kan påvises i ulike perioder fra 2001 og frem til 2014.[^1373] Det er årsvariasjoner,[^1374] men tallene gir *en viss indikasjon* på at sakene krever – eller i det minste blir vurdert å kreve – mer tid under iretteføring for enkelte år. Riksadvokatens tall for perioden 2009–2014 viser likevel at *gjennomsnittlig antall rettsdager* pr. statsadvokataktorat (primært saker med strafferamme over seks års fengsel) varierer nokså lite i perioden. Gjennomsnittet ligger jevnt mellom 2,66 (2009–2010), 2,8 (2011 og 2013) og ca. 3 dager (2012 og 2014).[^1375]
 
-Kapittel 30
+1.  **Særlig om rapporten Ressurs- og tidsbruk i omfattende straffesaker fra 2011**
 
-NOU 2016: 24
-Ny straffeprosesslov
+    1.  *Arbeidsgruppens tallmateriale*
 
-Til § 41-1. Avgjørelser som kan gjenåpnes
-Se straffeprosessloven §§ 389 og 401. Se drøftelsen i punkt 22.3.4.
-Første ledd fastslår adgangen til å gjenåpne
-rettsavgjørelser som innebærer at en straffesak
-eller en selvstendig del av den avsluttes, og som er
-rettskraftige. Hvilke sider ved avgjørelsene som
-kan gjenåpnes, behandles nærmere i tilknytning til
-vilkårene for gjenåpning, som alle viser tilbake til
-avgjørelsesbegrepet i § 41-1 ved at de innledes med
-uttrykket «en avgjørelse skal gjenåpnes» eller «en
-avgjørelse kan gjenåpnes».
-Bestemmelsen omfatter avgjørelser både i førsteinstans og i ankeinstans. Begjæringen om gjenåpning skal rettes mot avgjørelsen i den siste
-instans som behandlet det kravet gjenåpningen
-gjelder.
-Uttrykket «dommer» omfatter enhver avgjørelse som etter loven formelt er betegnet som
-dom, herunder avgjørelser om straffekravet og
-strafferettslige reaksjoner samt nektelse av prøveløslatelse fra slike reaksjoner.
-Andre typer beslutninger enn de som er
-nevnt, kan ikke gjenåpnes. Utenfor ordningen
-med gjenåpning faller blant annet beslutninger
-om utlevering og beslag av førerkort. Utenfor
-faller også prosessledende beslutninger, ettersom disse ikke er avgjørelser med avsluttende
-karakter.
-En avgjørelse av en begjæring om gjenåpning
-kan ikke gjenåpnes. Dersom begjæringen ikke
-har ført frem, kan det imidlertid fremsettes ny
-begjæring om gjenåpning av avgjørelsen i den
-underliggende straffesaken. Har en begjæring
-ført frem, og det har vært en ny straffesak, er det
-den nye avgjørelsen en eventuell gjenåpningsbegjæring skal rettes mot.
-Sivile krav som er behandlet sammen med
-straffesak, gjenåpnes etter reglene i kapitlet om
-sivile krav, se utkastet § 43-16.
-Gjenåpning av forelegg, herunder inndragningsforelegg, er regulert særskilt, se utkastet
-§ 29-12.
-Annet ledd fastslår at vilkårene for gjenåpning
-ved inndragning følger av tvisteloven, men slik at
-tidsfristen for gjenåpning etter tvisteloven § 31-6
-ikke skal anvendes. Prosessuelt følger behandlingen reglene i straffeprosessloven.
-Bestemmelsen gjelder generelt, uavhengig av
-om kravene har vært avgjort alene eller sammen
-med et krav om straff. Den er ikke til hinder for at
-det ved begjæring om gjenåpning av en avgjørelse
-om et straffekrav også kan skje en prøving av
-avgjørelsen om inndragning.
+Vi har som nevnt i pkt. 1.3 valgt å følge Arbeidsgruppens metodologiske tilnærming i vår undersøkelse og redegjør derfor i det følgende for hovedinnholdet i Arbeidsgruppens rapport.
 
-Til § 41-2. Beslutningsmyndighet. Kommisjonen for
-gjenopptakelse av straffesaker
-Se straffeprosessloven § 394. Se drøftelsen i punkt
-22.3.2 og 22.3.6.6.
-Gjenopptakelseskommisjonen har saklig kompetanse til å behandle begjæringer om gjenåpning
-og beslutte at saker som er besluttet gjenåpnet,
-skal behandles i det ordinære domstolsapparatet.
-Kommisjonens virksomhet er regulert i utkastet
-§ 41-12 flg.
-Til § 41-3. Rett til å begjære gjenåpning
-Se straffeprosessloven §§ 389 første ledd og 389
-annet ledd, jf. § 308, og 394 annet ledd.
-Bestemmelsen angir uttømmende hvem som
-har rett til å fremsette begjæring om gjenåpning.
-De ulike grunnlag begjæringen kan bygge på,
-følger av vilkårene for gjenåpning angitt i utkastet
-§§ 41-5 til 41-11. Påtalemyndigheten kan alltid
-begjære gjenåpning til domfeltes gunst.
-Første ledd uttrykker utgangspunktet om at
-partsautonomien er styrende for om det skal
-igangsettes en gjenåpningssak.
-Annet ledd supplerer partsinitiativet ved domfeltes død, for gjenåpning til domfeltes gunst.
-Adgangen vil typisk benyttes når det er grunn til å
-fjerne et uriktig straffestempel fra en persons
-ettermæle.
-Til § 41-4. Krav til begjæring om gjenåpning
-Se straffeprosessloven § 394 første ledd.
-Kravene til utforming av begjæring om gjenåpning skal gi kommisjonen et tilstrekkelig
-grunnlag for å prøve gjenåpningsspørsmålet og
-må forstås med det for øye.
-Begjæringen skal avvises dersom kravene
-ikke er oppfylt. Kommisjonen har imidlertid veiledningsplikt overfor den som fremsetter begjæringen, og kommisjonens ansvar for sakens opplysning kan også innebære en plikt til rettledning
-med sikte på korrekt utforming av begjæringen,
-se utkastet §§ 41-17 og 41-15. Det bør i alminnelighet settes en frist for retting før en sak avvises.
-Til § 41-5. Gjenåpning til domfeltes gunst på grunn av
-nytt bevis eller en ny omstendighet
-Se straffeprosessloven § 391 nr. 3. Se drøftelsen i
-punkt 22.3.6.1 og 22.3.6.2.
-Med «nytt bevis» forstås ny informasjon om de
-spørsmål retten tok stilling til, men som ikke
-forelå for den dømmende rett og derfor ikke
+Arbeidsgruppen definerte «store, omfangsrike straffesaker», som «saker hvor hoved- eller ankeforhandlingen varer mer enn 10 rettsdager».[^1376] Tallmaterialet presenteres nærmere i pkt. 3.2 nedenfor, men som det vil fremgå der, er *gjennomsnittsandelen av det man kan karakterisere som omfattende straffesaker, svært liten i forhold til det totale antall saker* som ble behandlet i domstolene i 2005, 2009 og 2010. I prosent dreier det seg om mellom 0,43 og 0,6 prosent av sakene i tingrettene og mellom 1,5 og 1,9 prosent av sakene i lagmannsrettene.[^1377]
+
+1.  *Type saker og faktorer som påvirker tids- og ressursbruk*
+
+Et kjennetegn ved de omfattende straffesakene som Arbeidsgruppen gjennomgikk, var at det i stor grad gjaldt straffesaker med *flere tiltalte*. I tingretten var det et snitt på henholdsvis 5,1 (2005), 4,4 (2009) og 3,5 (2010) tiltalte.[^1378] I lagmannsrettene var snittet henholdsvis 4, 3,6 og 3,4 tiltalte for samme år.
+
+Et annet vesentlig trekk både i tingrett og lagmannsrett var at det var en høy andel saker hvor det ble anvendt *tolk* (grovt sett i 50 prosent eller mer av sakene). Det var også oppnevnt flere *bistandsadvokater* i hver sak.[^1379]
+
+De store og omfattende sakene i Arbeidsgruppens materiale hørte særlig til kategoriene *økonomiske straffesaker, narkotikasaker* og *omfattende sedelighetssaker*.[^1380] Det påpekes at det fra 2005 har vært en «klar utvikling» mot flere store økonomisaker og «en økning» av omfangsrike sedelighetssaker i begge instanser, men at tallene er «svært lave og at det er begrenset hva som kan tolkes ut av årvisse endringer».[^1381]
+
+Arbeidsgruppens rapport går ikke i detalj inn i hver sak og på hvilke forhold ved den enkelte sak som påvirket tids- og ressursbruken. I oppsummeringen påpekes imidlertid noen generelle trekk, men uten at det spesifiserer om – og i så fall i hvilken grad – disse forhold konkret gjorde seg gjeldende i det undersøkte materialet:
+
+«Generelt kan det pekes på *flere utviklingstrekk de senere årene* som *kan* føre til mer omfattende hovedforhandlinger. For eksempel har *den teknologiske utviklingen* og ny straffeprosesslovgivning medført *muligheter for å skaffe og å føre, bevis som tidligere ikke var mulig,* for eksempel teletrafikk- og posisjoneringsdata, kommunikasjonskontrollmateriale, databeslag og andre elektroniske spor. Ellers kan nevnes *økt fokus på straffebud som tar sikte på å ramme handlinger som i sin natur er skjulte* og derved vanskelig å bevise uten å presentere *et omfattende ‘puslespill’ som bevis*. Eksempler på dette er korrupsjon, innsidehandel og konkurranselovbrudd. Nye inndragningsregler og økt bruk av inndragning reiser *nye og komplekse problemstillinger*. Fornærmede og etterlatte er gitt styrkede rettigheter, og *flere erstatningskrav behandles* i forbindelse med straffesakene. De nevnte faktorene er langt på vei knyttet til lovgivningstiltak som er villet, og ressursbehovet knyttet til iretteføringen forutsettes vurdert i forbindelse med de enkelte lovendringene.»[^1382]
+
+Arbeidsgruppen er forbeholden med å antyde årsak–virkning og angir at det dreier seg om utviklingstrekk som «kan» føre til mer omfattende hovedforhandlinger i fremtiden.[^1383] Flere av de faktorer som angis her, gjenfinnes, som vi vil se, i de øvrige kilder i pkt. 2.1.
+
+Arbeidsgruppen ga i første rekke en generell prognose for fremtidig utvikling, men prognosen er usikker. Det ser i vårt materiale ikke ut til at de utviklingstrekk Arbeidsgruppen angir, har slått til eller vist seg i årene etter Arbeidsgruppens rapport, i hvert fall ikke i form av en økning i antall og/eller lengde på store saker. Tall vi har innhentet fra 2011– 2014 (pkt. 5), gir *ikke grunn til å konkludere med at det faktisk er blitt særlig flere saker og/eller «mer omfattende hovedforhandlinger»* enn det Arbeidsgruppen la til grunn for 2005 og 2009–2010.
+
+1.  *Arbeidsgruppens anbefalinger*
+
+Basert på de generelle utviklingstrekk foreslår Arbeidsgruppen ulike tiltak, både i form av *administrative tiltak* (endring i rutiner, økt samhandling, effektivisering av tolketjenester, kompetanseheving mv.), *mer* *aktiv bruk av gjeldende lovregulering* og *lovendringer*. Flere av forslagene samsvarer med anbefalingen i Domstoladministrasjonens tidligere nevnte rapport *Aktiv saksstyring og saksavvikling i straffesaker*. Arbeidsgruppens forslag illustrerer ulike faktorer/forhold ved en sak som antas å påvirke tids- og ressursbruk, og gjengis derfor her.
+
+Arbeidsgruppen vurderte lovfesting av en generell plikt til forhåndsberamming av saker. Dette ble ikke anbefalt. Arbeidsgruppen mente at behovet måtte vurderes for hver sak, at den foreliggende praksis om forhåndsberamming fungerte og at økt samhandling (blant annet med varsel til retten om kommende saker) ville ivareta behovet.[^1384]
+
+*Anbefalingene om mer aktiv bruk av gjeldende lovregulering* kan sammenfattes slik:
+
+- skriftlig saksforberedelse for avklaring, konsentrasjon og et best mulig avgjørelsesgrunnlag:
+
+  - økt bruk av redegjørelse fra påtalemyndigheten, jf. strpl. § 262 tredje ledd, og forberedende møter, jf. strpl. § 272
+
+  - en omforent faktumbeskrivelse som tiltalte gis anledning til å tiltre, og som skal inngå i rettens avgjørelsesgrunnlag
+
+  - krav om at partene i komplekse bevisanker angir hvilke bevisvurderinger i tingrettens dom som angripes, slik at bevisvurderingene ellers kan legges uprøvd til grunn, jf. strpl. § 331 tredje ledd
+
+<!-- -->
+
+- innledningsforedrag gjennomføres etter sivilprosessuell modell. Dokumentbevis fremlegges i sammenheng med redegjørelsen for saksforholdet, og begge parter presenterer rettslige og faktiske anførsler
+
+- oppdeling av rettsforhandlingene bør oftere vurderes, jf. strpl. § 288 (særlig erstatningskrav og inndragningskrav)
+
+- tiltak som kan bidra til å øke antallet tilståelsessaker:
+
+  - hyppigere oppnevning av forsvarer i tilståelsessaker
+
+  - økt bruk av saksomkostninger i saker uten tilståelse
+
+*Arbeidsgruppens forslag til lovendringer* omfatter følgende punkt:
+
+- lovendring for mer effektiv saksforberedelse:
+
+  - planmøter etter tvistelovens mønster i komplekse straffesaker
+
+  - endring i strpl. § 262: angivelse av bevis og pålegg om skriftlig redegjørelse
+
+  - innledningsforedrag etter tvistelovens mønster, jf. strpl. § 289
+
+  - ny bestemmelse om partenes felles utkast til beskrivelse av uomtvistet saksforhold til bruk i rettens avgjørelsesgrunnlag
+
+  - krav til skriftlig redegjørelse fra ankende part om hvilke feil som påstås å foreligge i den påankede dom
+
+  - retten kan pålegge partene å angi konkret hvilke deler av det faktiske forhold i den påankede dom som bestrides
+
+  - adgang til bevisavskjæring under saksforberedelsen, uten muntlige forhandlinger. Dagens ordning er for omstendelig, og «frykt» for opphevelse ved avskjæring er til stede
+
+<!-- -->
+
+- adgang til å fremme en begrenset anke og stille en bevisanke i bero
+
+- adgang til å oppnevne koordinerende bistandsadvokat(er) i saker med flere fornærmede/etterlatte og andre med bistandsadvokat (er nå lovfestet i strpl. § 107 h)
+
+- begrensning i ankeadgangen for saker som etter loven kan medføre fengsel i mer enn seks år (suppleres med også «idømt eller påstått mer enn to år (…)»)
+
+Arbeidsgruppen anbefaler også *en nærmere utredning av*:
+
+- strpl. § 99, slik at straffens lengde som vilkår for offentlig oppnevnt forsvarer reduseres eller faller bort (for å øke antallet tilståelsesaker)
+
+- utvidet adgang til å oppnevne annen bistandsadvokat enn den fornærmede ønsker, og adgang for retten til å begrense antallet bistandsadvokater i en sak
+
+Vi utreder ikke videre de siste to punktene.[^1385]
+
+1.  **Noen foreløpige vurderinger og presiseringer**
+
+Det er en nær sammenheng mellom de siterte premissene i Straffeprosessutvalgets mandat. At kriminalitetsbildet (og endringer i det) og politiets satsinger på enkelte kriminalitetsområder er faktorer som påvirker og forlenger behandlingstidene i domstolene, er isolert sett rimelige hypoteser. De er lagt til grunn for mandatet, i flere av de uttalelser som er gjengitt i pkt. 2.1, og i Arbeidsgruppens rapport fra 2011.
+
+Men hvilke konklusjoner som kan trekkes fra det ovennevnte utvalg kilder, er likevel usikkert, av flere grunner. Som det fremgår i de nevnte referanser, er begrep som «tendens», «antakelse»/«anta» og «inntrykk» sterkt representert, uttalelsene er generelle, tallgrunnlaget er noe begrenset, tallene er ikke entydige, og antall kilder for tallmateriale er begrenset.
+
+Sentrale aktørers inntrykk og antakelser, basert på egen kjennskap til det praktiske rettsliv, er det verd å legge vekt på, men særlig *tidsperspektivet* som inntrykket er basert på, må klarlegges, blant annet for å ta høyde for endringer som *ikke* først og fremst kan knyttes til kriminalitetsbildet.
+
+*Endringer i den samlede straffeprosessuelle regulering over tid* som påvirker tidsbruk uavhengig av forhold ved «kriminalitetsbildet», må det tas hensyn til. Her nevnes kort at nye og skjerpede rettslige krav og føringer, særlig skjerpede krav til (doms)begrunnelser og andre saksbehandlingskrav, påvirker tidsbruk og hva som kreves av det bevismessige grunnlaget som dommen skal bygge på. Også ny erkjennelse av skadevirkninger av ulike typer lovbrudd og/eller *endringer i syn på straffverdighet og håndhevelsesintensitet* spiller inn, for eksempel i voldssaker (særlig vold i nære relasjoner), ved seksuallovbrudd og ved korrupsjon og annen økonomisk kriminalitet.
+
+*Strukturelle endringer*, som for eksempel innføring av toinstansbehandling, trekker også tid og ressurser, men heller ikke disse (menneskerettslig forankrede) endringer er i første rekke knyttet til endringer i kriminalitetsbildet. Dette er endringer i rettslig regulering og rettslige strukturer, basert på endret syn på rettslige krav til en rettferdig rettergang, både i de små og i de store sakene.
+
+Videre må elementer av *medieskapte inntrykk* av kriminalitetsbildet og et økende antall «store saker» i domstolene tas bort for å få et riktigere bilde. Mediedekning av enkelte store straffesaker kan utvilsomt skape et feilaktig inntrykk av hva som er vanlig, og/eller danne grunnlag for oppfatninger om «en tendens», selv om den aktuelle sak er langt fra representativ for det samlede antall saker som behandles.[^1386] Fokus i enkeltsaker på element fra kriminalitetsbildet/-utviklingen (som for eksempel «organisert kriminalitet» og «internasjonale forgreninger») kan på samme måte bidra til å tilsløre det store antall saker hvor slike element *ikke* er til stede.
+
+1.  **Om mandatets begrepsbruk: effektiv, rettssikker og tillitvekkende**
+
+Vi er bedt om å undersøke «generelt hvilke forhold eller mekanismer som har betydning for *straffesaksbehandlingens effektivitet*», jf. pkt. 1.2. I Straffeprosessutvalgets mandat heter det at utvalget skal foreslå regler basert på «en overordnet målsetting om en effektiv, rettssikker og tillitvekkende behandling av straffesaker».
+
+Formuleringene rører ved et grunnleggende problem knyttet til bruk av begrepet *effektivitet*.[^1387] Det er ikke uvanlig at dette anvendes upresist; at det ikke presiseres hva som legges i begrepet når ulike former for *«effektivitetsargumenter»* anføres som (del av) premissene for lovendringer. Til mandatets «målsetting» kan det for eksempel reises spørsmål om hvorvidt «effektiv, rettssikker og tillitvekkende» og «kvalitet, effektivitet og rettssikkerhet» angir *selvstendige* målsettinger ved eller kun *ulike element i* det som samlet sett kan betegnes som *«effektiv»* behandling av straffesaker eller – mer overordnet – «effektiv kriminalitetsbekjempelse».
+
+Utvalgets mandat benytter formuleringen «*en* overordnet målsetting», men slik mandatet ellers er formulert, legger vi til grunn at det er sistnevnte betydning det siktes til. I mandatets pkt. 1 heter det at den gjeldende lovens «(…) system bygger likevel på en forutsetning om at hensynet til effektivitet ikke skal gå på bekostning av hensynet til mistenktes grunnleggende rettssikkerhet. I tillegg skal loven på forsvarlig vis ivareta hensynet til fornærmede». Utvalgets oppgave er å fremme et forslag til lov som «bør reflektere en balansert *avveining* mellom effektivitet og rettssikkerhet.»
+
+*Effektiv(t)* og *effektivitet* betyr «virke»/«virksom», det vil si noe som virker eller har virkning. Begrepet gir visse assosiasjoner, men det gir liten selvstendig mening med mindre det relateres til *hva det er eller skal være effektivt i forhold til*, **og på hvilken måte det eventuelt er effektivt.[^1388] Begrepet benyttes derfor ofte i sammensatt form (for eksempel «tidseffektiv» eller «kostnadseffektiv») eller i sammenkoblet form (for eksempel «effektiv etterforsking», «effektiv kontradiksjon», «effektivt forsvar», «effektiv ressursutnyttelse» og – som i vårt mandat – «straffesaksbehandlingens effektivitet»).
+
+Effektivitet kan i grove trekk sies å omfatte både *formålseffektivitet* (hvor godt virksomheten \[her: straffesaksbehandlingen og dens aktører\] innretter seg i forhold til de grunnleggende formål og målsettinger), *kostnadseffektivitet* (hvor godt virksomheten bruker ressursene som stilles til rådighet for å fremme disse)[^1389] og *tidseffektivitet* (hvor hurtig virksomheten utfører sine oppgaver).
+
+I argumentasjon og drøftelser om effektivitet må det rimeligvis presiseres hva som er målsettingen, i det minste ved å angi én eller flere primærmålsettinger, og om det er rom for en gradering av målrealisering ved den aktuelle virksomhet. En moderne straffeprosesslov bør formentlig angi det i en formålsparagraf. Men også i tilfeller hvor lovens formål – og virkemidler for å oppnå disse formålene – angis, benyttes vide begreper med delvis overlappende innhold. Slik også i tvistelovens formålsbestemmelse (§ 1–1), hvor det heter at loven «skal legge til rette for en rettferdig, forsvarlig, rask, effektiv og tillitskapende behandling av rettstvister». Uttrykket «effektiv» i formålsbestemmelsen var ikke med i Tvistelovutvalgets forslag.[^1390] Det ble tilføyet av departementet, men uten noen nærmere begrunnelse eller presisering av hva det tilførte lovens formål, eller hva «effektiv» her sto i forhold til.[^1391] I kommentarutgaven er tids- og kostnadsbruk særlig fremhevet i forklaringen av dette begrepet i lovens formålsbestemmelse.[^1392]
+
+Et annet problem ved effektivitetsspørsmålet er *mulighetene for å måle* om målsettinger eller formål oppnås. I forvaltningsprosessen fremheves det at «effektivitetsidealet» går ut på å «oppnå så meget som mulig med minst mulig innsats.»[^1393] Det er en realitet at *tidsbruk og kostnader* er og blir en åpenbar «prestasjonsindikator» og ofte de vanligste kriterier for å måle «effektivitet». Straffesaksbehandlingens effektivitet måles derfor oftest i slike *ytre faktiske kjennemerker,* som tidsbruk (samlet og/eller på aktørnivå), antall oppklarte saker, økonomiske omkostninger og personellbruk. Det er også på kvantitative punkt det produseres resultatmål og måloppnåelse rapporteres og evalueres.[^1394] Det er derfor en fare for at effektivitetsspørsmål reduseres til et spørsmål om anvendt tid og ressurser, eller at det blir et for ensidig fokus på det.[^1395] Enkelte forskningsresultater tyder også på at slike kriterier er mindre egnet til å vurdere og sammenligne effektivitet og som grunnlag for styring av virksomheten.[^1396]
+
+Men sentrale mål ved straffesaksbehandlingen er (også) å fremme et riktig resultat, høy kvalitet samt forholdsmessighet mellom krav og prosessbruk og reaksjon. Med hensyn til å måle straffesaksbehandlingens effektivitet er slik *«indre» ideelle og kvalitative formål* av en annen karakter enn spørsmålet om tidsbruk og kostnader. De kvalitative krav er spørsmål om straffeprosessen gir siktede et effektivt rettsvern, den fornærmede og andre en effektiv rettsbeskyttelse («rettsikkerhet»), og – ikke minst – om prosessen sikrer domstolene et materielt riktig avgjørelsesgrunnlag.
+
+Hvorvidt reglene for straffesaksbehandlingen effektivt fremmer disse målsettinger, verdier og hensyn, kan vanskelig telles eller måles. Om behandlingen av en konkret sak tilfredsstiller disse krav, viser seg gjerne først når saksbehandlingen overprøves i en høyere rettsinstans eller etterfølgende vurderes av EMD etter rettighetsvernet i EMK. At en dom *ikke* ankes, kan – i hvert fall i en viss utstrekning – være en indikator på at behandlingen av saken er tilfredsstillende.
+
+Det er etter vårt syn opplagt at en straffesaksbehandling som med rette kan kalles «effektiv», må fremme begge de nevnte dimensjoner, det vil si både de *ytre faktiske kjennemerker* og de *«indre» ideelle og rettslige hensyn og formål*.
+
+Men hvilke økonomiske og personellmessige ressurser som samfunnet kan og bør benytte for å fremme disse, oppnås det neppe rettslig eller politisk enighet om. Kriminalpolitikken begrenses her av rettslige krav. I noen grad vil de grunnleggende forfatnings- og menneskerettslige føringene for prosessen gi lite handlingsrom både for utøvende, lovgivende og dømmende myndigheter.
+
+Heller ikke spørsmålet om hvilke prinsipp og virkemidler som prosesslovgivningen skal eller bør knesette for å oppnå disse mål, er uomtvistet. Er prinsippene (f.eks. straffeprosesslovens sterke fokus på muntlighet og bevisumiddelbarhet) og de øvrige regler i strpl. de beste sannhetssøkende mekanismer, og gir lovens saksbehandlingsregler de beste eller mest effektive midler for å oppnå rettssikkerhet og materielt riktige avgjørelser?
+
+Denne fremstillingen gir begrenset anledning til å forfølge disse spørsmålene videre, men i pkt. 8 nedenfor vurderes noen premisser for muntlighet- og bevisumiddelbarhetsprinsippene i straffeprosessen. Vi vil imidlertid sterkt understreke at lett tilgjengelige målekriterier som tidsbruk og omkostninger lett kan overskygge de(t) viktige spørsmål; «Var tidsbruken og kostnadene nødvendig for å sikre *den aktuelle saken* en forsvarlig, tillitvekkende og rettssikker saksbehandling og nødvendig for å gi domstolene et tilstrekkelig grunnlag for å avsi *den aktuelle dom* på et materielt riktig faktum?»
+
+Løftes perspektivet ytterligere, bør det også påpekes at selv om *straffeforfølgningens* og *straffereaksjonenes* preventive virkninger regelmessig best ivaretas når de iverksettes og ilegges kort etter lovbruddet, ligger det *svært viktige preventive signaler i at rettsapparatet er i stand til å håndtere, oppklare og sanksjonere også de mer komplekse sakene,* selv om saksbehandlingstiden i de sakene som tas til behandling, i alle ledd blir lang.
+
+1.  **Tyngdepunkter i straffesakskjeden og antallet «store og omfangsrike» saker**
+
+    1.  **De fleste reaksjoner ilegges uten domstolsbehandling**
+
+I den gjeldende straffeprosesslovens bestemmelser er tyngdepunktet knyttet til regler for domstolsprosessen og forberedelsene til den. Men et domstolsperspektiv, med hovedfokus på domstolsbehandlingen, blir noe misvisende og snevert, fordi de fleste straffesaker ikke avgjøres av domstolene, og de fleste straffereaksjoner *ilegges uten domstolsbehandling.*
+
+Tall fra Statistisk sentralbyrå (SSB) viser at det i 2013 ble registrert 309 376 straffereaksjoner i Norge.[^1397] Av disse var 34 800 straffereaksjoner i forbrytelsessaker, de øvrige forseelser.
+
+Hvilken aktør i strafferettssystemet ila disse reaksjonene? Tallene fordeler seg slik:
+
+Domstolene:
+
+- 21 900 av straffereaksjonene ble ilagt av domstolene, derav[^1398]
+
+  - 20 600 av tingrett (dvs. at 94 % avgjøres i førsteinstans)[^1399]
+
+  - 1250 av lagmannsrett
+
+  - 41 av Høyesterett
+
+Politi/påtalemyndighet (og Tollvesen):
+
+- 228 723 av straffereaksjonene er reaksjoner ilagt som forenklede forelegg av politiet eller tollvesenet (90 % av disse gjelder veitrafikkovertredelser).
+
+- 58 653 av straffereaksjonene er reaksjoner ilagt av påtalemyndigheten (som forelegg og påtaleunnlatelser).
+
+Tallene viser altså at hele *92,9 prosent av de registrerte straffereaksjoner ble ilagt av påtalemyndigheten (*forenklede forelegg medregnet). Ser man kun på de ordinære forelegg og påtaleunnlatelser, utgjør andelen likevel så mye som 72,8 prosent.
+
+*Målt etter antall straffereaksjoner ligger altså «tyngdepunktet» i straffeprosessen utenfor domstolene –* i politi- og påtalemyndighet.[^1400] Disse sakene er naturligvis de enkle og mest kurante saker, hvor siktede har full anledning til å kreve domstolsprøving. Effektivitetsbestrebelser og balansering av rettssikkerhetshensyn i en ny lov for disse sentrale avgjørelsene i strafferettspleien, vil formentlig dreie seg om regulering som bidrar til
+
+- hurtigere behandling og avgjørelse i politi- og påtalemyndighet, herunder regler om krav, eventuelt forenklede krav, til avgjørelsesgrunnlaget (se f.eks. påtaleinstruksen § 7-5 fjerde og femte ledd)
+
+- større adgang til å ilegge forenklet forelegg og ordinære forelegg, både hva angår personellkompetanse, *sakstyper* og *krav* (sml. ny strpl. § 255 og ny strpl. § 214 a og § 214 b ved ikrafttredelsen av strl. 2005)[^1401]
+
+- forenklinger ved en eventuell domstolsprøving/-behandling av slike saker (jf. f.eks. strpl. § 276 første ledd om enedommer, utvidet adgang til skriftlig og middelbar bevisførsel, jf. strpl. § 297 første ledd siste pkt. og krav om særskilt samtykke for anke til lagmannsrett, jf. strpl. § 321 første ledd)
+
+  1.  **Antallet «store og omfangsrike» saker for domstolene er samlet sett svært lavt**
+
+*Mindre enn 7–8 prosent av alle straffereaksjoner ilegges altså etter domstolsbehandling*, og de aller fleste av disse blir endelig idømt etter førsteinstansbehandling.[^1402] I domstolene ligger som nevnt tyngdepunktet i tingrettene, som avgjør 94 prosent av sakene. Omkring 45 prosent av disse avgjøres som tilståelsessak, og de fleste av de øvrige straffesakene er rimelig oversiktlige både når det gjelder faktiske og rettslige spørsmål. Tidsbruk til rettsbehandlingen overskrider normalt ikke 1 – én– rettsdag.[^1403]
+
+Når det henvises til kriminalitetsutviklingens betydning for iretteføringen, er fokuset i utvalgets mandat – som vi har sett – på *langvarige og* *komplekse saker med omfattende bevisførsel*. Hvor mange saker kan da karakteriseres som dette?
+
+I rapporten *Ressurs- og tidsbruk i omfattende straffesaker* fra 2011 definerer Arbeidsgruppen de «store, omfangsrike straffesaker» som «saker hvor hoved- eller ankeforhandlingen varer mer enn 10 rettsdager.»[^1404] Dette er etter vår oppfatning et rimelig avgrensingskriterium.[^1405] En varighet på 60 rettstimer antas å tilsvare ti rettsdager (det vil si to arbeidsuker).
+
+Basert på tall fra alle lagmannsretter og de største tingretter (Oslo, Bergen, Stavanger, Kristiansand, Sør-Trøndelag/Trondheim, Salten og Nord-Troms) for årene 2005, 2009 og 2010 konkluderte Arbeidsgruppen med at *«andelen store, omfattende straffesaker er svært lav sett i forhold til alle hoved- og ankeforhandlinger* (…)».[^1406]
+
+I prosent utgjorde disse 0,1–0,6 prosent i tingrettene (snitt 0,4 %) og 0–3,9 prosent i lagmannsrettene (snitt 1,7 %). I tingrettene var det kun mindre variasjoner, men Oslo lå rimeligvis høyest (henholdsvis 0,5, 0,7 og 0,6 prosent i år 2005, 2009 og 2010). Både i 2009 og i 2010 lå Borgarting høyest (3,9 %), etterfulgt av Gulating i 2009 (3,2 %). Det var ingen slike saker i Frostating og Agder i 2009–2010.
+
+For tingretten var gjennomsnittlig tidsbruk i disse sakene 125 (2005), 108 (2009) og 95 (2010) rettstimer. I lagmannsrettene var gjennomsnittet henholdsvis 122, 108 og 104. Det vil si at de store/langvarige sakene grovt sett tar 3–4 arbeidsuker i snitt, for begge instanser.
+
+Arbeidsgruppens funn står i kontrast til premisset i Straffeprosessutvalgets mandat og «den alminnelige» oppfatning som er påpekt ovenfor, om «stadig mer komplekse saker med en stadig mer omfattende bevisførsel». Situasjonen er, som det vil fremgå senere, den samme i dag som for de årene Arbeidsgruppen undersøkte. Vi har innhentet oppdaterte tall fra DA for å foreta en tilsvarende kvantifisering av antall store og omfattende saker, se konklusjonene i pkt. 5.
+
+Arbeidsgruppens tall – og de tilsvarende tall som presenteres i pkt. 5 – er viktige som premisser for behovet for en ly lov, og utformingen av den. Når antall «store saker» er så beskjedent, er det grunn til å stille spørsmål om ikke en ny straffeprosesslov først og fremst må utformes med sikte på å gi saksbehandlingsregler for «normaltilfellene» og «allmennprosessen», men med særlige bestemmelser i begge retninger, det vil si både for behandling av *de enkle saker* (tilståelsesdom, foreleggsaker) og for behandling av *de kompliserte og omfattende saker*.
+
+1.  **Relevante sakstall og saksbehandlingstid – perioden 2006–2014**
+
+    1.  **Innledning og avgrensninger**
+
+For videre å undersøke og vurdere om premisset om at det er flere komplekse saker *i domstolene* med mer omfattende bevisførsel, stemmer, tar vi først utgangspunkt i tilgjengelige tall for saksmengde og saksbehandlingstid i tingrett og lagmannsrett (pkt. 4-5) for å se om tallene støtter en slik konklusjon.
+
+Det er etter vårt syn *de senere års utvikling som er særlig relevant.* Tingrettene ble ordinær førsteinstans i alle straffesaker ved to-instansreformen i 1995, og det er straffeprosessloven slik den har virket etter dette tidspunkt, som bør ha særlig interesse ved den nåværende reformutredning. Det er videre på det rene at tallmateriale av betydning for straffesakenes omfang fra før 2000 i svært begrenset grad er tilgjengelig, blant annet fordi domstolenes straffesakssystem LOVISA først var tilgjengelig fra 2005.[^1407]
+
+Undersøkelsen her begrenses derfor til utviklingen i *domstolene* fra 2005–2006, men med noen sammenlignende referanser til tilgjengelig tall også for årene forut.
+
+Først gis en oversikt over kriminalitetsbildet og kriminalitetsutviklingen slik den er fremstilt og vurdert i *Politianalysen* fra 2013.[^1408] *Politianalysen*s primærfokus var kriminalitetsutviklingens *betydning for politiets rolle og organisering*. Men anvendt som et grunnlag for å peke på «forhold eller mekanismer som har betydning for straffesaksbehandlingens effektivitet» er det nærliggende å peke på noen hovedkonklusjoner derfra.
+
+1.  **Politianalysens vurdering av kriminalitetsbildet og kriminalitetsutviklingen**
+
+Tall fra *Politianalysen* viser at det *ikke* har vært noen økning i anmeldt kriminalitet i perioden 2003–2013. Tvert imot har det – i motsetning til årene 1993–2001 – vært en *nedgang* på mellom 10 og 24 prosent for henholdsvis forseelser og forbrytelser:
+
+«Målt i antall anmeldte lovbrudd har kriminaliteten gått ned de siste ti årene. Dette til tross for at det i samme periode har vært en sterk befolkningsvekst, som ventelig kunne ført til flere anmeldte lovbrudd.»[^1409]
+
+Levekårsundersøkelsene fra Statistisk sentralbyrå (SSB), som i noen grad kan gi holdepunkt for eventuelle mørketall (det vil si ikke anmeldt/registrert kriminalitet), viser også en tilsvarende utvikling.
+
+*Politianalysen* påpeker likevel – til tross for nedgangen – på «noen negative utviklingstrekk» i kriminalitetsbildet, i form av «en økning innenfor noen alvorlige kriminalitetstyper» og et mer «komplekst og sammenvevd» kriminalitetsbilde, blant annet «gjennom et større innslag av grenseoverskridende kriminalitet».
+
+*Politianalysen*s konklusjoner om at *kriminaliteten endres*, kan oppsummeres slik:[^1410]
+
+- I perioden 2005–2011 var det flere anmeldelser for seksualkriminalitet, narkotikakriminalitet, voldskriminalitet og miljøkriminalitet, enn for de tidligere år.
+
+- Omfanget av anmeldelser innenfor saker med de strengeste strafferammene og de laveste strafferammene, øker.
+
+- Et stigende antall anmeldte seksualforbrytelser forklarer størstedelen av økningen i kategorien med høyest strafferamme.
+
+- Ny teknologi har gitt nye muligheter til å utføre kriminelle handlinger og til å unndra seg kontroll og straffeforfølgelse.
+
+- IKT-kriminalitet – det vil si kriminalitet rettet mot IKT-systemer og bruk av IKT som redskap for å gjennomføre kriminalitet – har fått stor utbredelse og de to formene henger ofte sammen. IKT-kriminaliteten *antas* å være økende, den gir høy profitt, og det er lav oppdagelsesrisiko.
+
+Politianalysens konklusjoner om at *kriminaliteten flyttes*, kan oppsummeres slik:[^1411]
+
+- Det er relativt sett mer kriminalitet i områder med høy befolkningstetthet, illustrert med at det er tre ganger så mange anmeldelser pr. innbygger i Oslo som i Sogn og Fjordane.
+
+- Forskjellen er størst for vinningskriminalitet, illustrert ved at denne sakstype utgjorde 60 prosent av anmeldelsene i Oslo, 44 prosent i Østfold og 26 prosent i Sogn og Fjordane (2011). Den er ellers nokså jevnt fordelt på andre kriminalitetsområder.
+
+- Basert på forventet befolkningsutvikling og sentralisering forventes det at kriminaliteten vil konsentreres ytterligere i byer og tettbebygde strøk.
+
+Det *Politianalysen* her poengterer, er vel først og fremst at kriminaliteten «fortettes» rundt de større befolkningsområder mer enn at den «flyttes».
+
+Politianalysens konklusjoner om mer organisert kriminalitet og flere utenlandske kriminelle kan oppsummeres slik:[^1412]
+
+- 82 prosent av de ca. 40 000 vinningslovbruddene i 2011 med kjent gjerningsperson ble begått av norske statsborgere. For den resterende del utgjør lovbrytere fra Litauen, Polen og Romania den største andelen.[^1413]
+
+- Det er ukjent gjerningsperson (og ukjent statsborgerskap) i 70 prosent av den registrerte vinningskriminaliteten.
+
+- Kriminalitet som begås av utenlandske statsborgere, har økt, noe som underbygges med at antallet innsatte i perioden 2006–2012 var nokså stabilt, mens *andelen utenlandske statsborgere i fengsel nesten* *ble fordoblet* i samme tidsrom.

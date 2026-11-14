@@ -1,1228 +1,408 @@
-# NOU 2017: 5, del 5 av 20 (side 52–63)
+# NOU 2017: 5, del 5 av 19
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2017/c209b959-nou-2017-5.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2017-5/id2540653/
 - Original-PDF: https://www.regjeringen.no/contentassets/5e7d542157dc4037856658fbf6edbe9f/no/pdfs/nou201720170005000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 14 tabeller, 24 figurer, 582 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 52]
-
-50
-
-NOU 2017: 5
-
-Kapittel 3
-
-En påtalemyndighet for fremtiden
-
-Tabell 3.5 Budsjett for Den høyere påtalemyndighet
-2012
-
-Bevilget ordinært
-Revidert nasjonalbudsjett
-Totalt bevilget
-
-2013
-
-2015
+Begrepet *styring* er et samlebegrep som handler om å minimere forskjeller. Fokus settes på aktiviteter som korrigerer organisasjonens avvik fra den planlagte kurs. Disse aktivitetene er normalt strukturert og formalisert på en bestemt måte og betegnes gjerne som *styringsverktøy*, se figur 4.2.[^110]
 
-2016
+**\[:figur:figX-X.jpg\]**
 
-2017
+Grunnlaget for all styring ligger i at ledelsen har et hensiktsmessig beslutningsgrunnlag som setter den i stand til å treffe gode og riktige beslutninger. For påtalemyndigheten er målet særlig å bidra til en effektiv kriminalitetsbekjempelse. Denne måten å styre en virksomhet på står i kontrast til såkalt regel- og aktivitetsstyring, som går ut på å gi lederen informasjon om nivået/volumet på foretakets aktiviteter, samt påse at disse utøves på riktig måte.
 
-142 356 000 146 130 000 162 990 000 191 205 000 210 979 000 244 538 000
-6 100 000
-142 356 000 152 230 000 162 990 000 191 205 000 210 979 000 244 538 000
+1.  **Mål- og resultatstyring**
 
-Den samlede økningen i budsjettet i tidsrommet 2012 frem til 2017 har vært på over 100 millioner kroner. Se tabell 3.5.
+Mål- og resultatstyring har vært det overordnede styringsprinsippet i staten siden midten av 1980-tallet. Senter for Statlig Økonomistyring[^111] sier det slik i en veileder:
 
-3.4.2 Stillinger og stillingskategorier
-Riksadvokaten har budsjettansvar for Den høyere
-påtalemyndighet. Statsadvokater er embetsmenn.
-Endringer i antall embeter (i betydningen stillinger) fastsettes i vedtak truffet av Kongen i statsråd. Den stillingsveksten som har skjedd i statsadvokatkorpset, har skjedd ved tildelinger over
-statsbudsjettet.
-Statsadvokatene er i dag fordelt på Riksadvokatembetet, Det nasjonale statsadvokatembetet, ti
-regionale statsadvokatembeter og Økokrim.
-I Hovedtariffavtalen opereres det med fire stillingskategorier i Den høyere påtalemyndighet:16
-1. riksadvokatfullmektig
-2. statsadvokatfullmektig
-3. statsadvokat
-4. førstestatsadvokat
-I forbindelse med utarbeidelsen av en ny lønnspolitikk i den høyere påtalemyndighet er det foreslått å operere med totalt åtte stillingskategorier:
-1. riksadvokatfullmektig
-2. statsadvokat
-3. statsadvokat med spesialistoppgaver
-4. statsadvokat ved Riksadvokatembetet
-5. førstestatsadvokat, avdelingsleder ved Oslo
-statsadvokatembeter
-6. førstestatsadvokat ved Riksadvokatembetet
-7. førstestatsadvokat ved Riksadvokatembetet
-(ledergruppen ved Riksadvokatembetet)
-8. førstestatsadvokat (embetsleder)
-Kravene til de fire første stillingskategoriene er
-stort sett de samme. Det er imidlertid noe variasjon hva gjelder stillingens innhold, og da særlig
-for statsadvokat med spesialistoppgaver og stats16
+«Mål- og resultatstyring er det grunnleggende styringsprinsippet i statlige virksomheter. Det innebærer at overordnede, politisk fastsatte mål for den enkelte virksomhet må konkretiseres på en slik måte at resultatene kan måles, vurderes og følges opp gjennom nødvendige utviklings- og forbedringstiltak.»
 
-2014
+Formuleringen «politisk fastsatte mål» må forstås dit hen at det er effektivitetsstyring SSØ her sikter til, jf. punkt 2.7 («mer *mål* per krone», ikke «mer *drift* per krone»). Bak innføringen av et slikt styringsverktøy ligger troen på at økt effektivitet oppnås ved at det underliggende nivå gis frihet til å bestemme hvilke virkemidler som skal benyttes til å nå målene. Ledelsens oppmerksomhet rettes mot om enheten, gjennom effektiv ressursbruk, når sine overordnede mål. Med utgangspunkt i ønskede resultater, fastsatt i dialog med overordnet nivå, har ledelsen på hvert nivå et selvstendig ansvar for å utlede hva som skal prioriteres. Overordnede mål og strategi må konkretiseres gjennom styringsparametere som gjør det mulig å måle de oppnådde resultatene. Informasjon om kostnader er en viktig del av styringen. Visuelt kan dette fremstilles som vist i figur 4.3.
 
-Hovedtariffavtalen i staten 1. mai 2016–30. april 2018 for
-Akademikerne side 54 vedlegg 1 – Lønnsplaner.
+**\[:figur:figX-X.jpg\]**
 
-advokat ved riksadvokatembetet, hvor det er tillagt et særlig fagansvar innenfor nærmere bestemte områder.
-Hva gjelder de fire neste kategoriene, er det
-også små forskjeller hva gjelder kravene til søkerne, med unntak av at avdelingslederstillingene
-og embetslederstillingene stiller krav om ledererfaring. Stillingenes innhold varierer noe, hvor de
-to ovennevnte har større innslag av lederoppgaver, mens de to resterende har et større innslag av
-fagansvar.
+Mål- og resultatstyring som styringsform ble innført i politi- og lensmannsetaten med virkning fra 1. januar 1996. Dette innebar et radikalt brudd med tidligere års praksis, hvor man hadde operert med et strengt regelstyrt og hierarkisk regime, og hvor fokus og ressursbruk ble rettet mot inntrufne hendelser av mer eller mindre påregnelig karakter. Som et grep for å komme denne «brannslukkingen» til livs, ble det besluttet å innføre et styringssystem som hadde fokus på mål og resultater. Den nye styringsformen var på dette tidspunktet allerede innført i de fleste andre statlige institusjoner og etater, og hadde bred tilslutning i Stortinget.
 
-3.4.3 Dagens antall
-Tabell 3.6 viser antallet statsadvokater i den høyere påtalemyndighet i 2002 og utviklingen fra 2012
-frem til 2016.17 Det har vært en jevn økning av antallet ansatte frem til og med 2014. Fra 2014 til
-2015 økte antallet statsadvokater, inkludert de ved
-Riksadvokatembetet, markant fra 96 til 108,
-hvorav to ble ansatt ved Riksadvokatembetet og
-de ti øvrige ved de andre embetene. Økningen
-kom blant annet som en følge av satsingen på
-fagledelse.18
-Per 2016 var det i tillegg 21 faste statsadvokater i Økokrim, inkludert økokrimsjefen og assisterende økokrimsjef.
-3.4.4
+I Justisdepartementets rundskriv G0231/97 heter det:
 
-Krav til søkere – generelle krav utover
-juridisk utdanning?
+«Hovedmålet med innføring av mål- og resultatstyring som styringsform, er å bidra til en effektiv og lokalt tilpasset ressursbruk, hvor alle forholder seg til overordnede og lokale prioriteringer.»
 
-Utgangspunktet er juridisk embetseksamen eller
-master i rettsvitenskap og relevant yrkeserfaring,
-som vurderes konkret. Bakgrunn fra påtalemyndigheten i politiet er naturligvis relevant, men
-17
+Faren for fragmentering og målforskyvning var samtidig noe man på sentralt hold var meget klar over da man i 1996 innførte verktøyet målstyring i etaten, og i veilederen for den lokale styringsdialogen ble utfordringen illustrert med følgende to skisser, vist i figur 4.4.
 
-18
+**\[:figur:figX-X.jpg\]**
 
-Embetene: HOP – Hedmark og Oppland, VT – Vestfold og
-Telemark, MRSF – Møre og Romsdal, Sogn og Fjordane,
-TF – Troms og Finnmark.
-I tabellen fremgår det for 2015 og 2016 at konstitusjoner er
-medregnet. For 2015 fikk man budsjettmidler til å opprette
-tolv nye faste statsadvokatembeter. I påvente av Nærpolitireformen ble åtte av disse foreløpig opprettet som konstitusjoner. Disse konstitusjonene vil etter hvert gå over til å bli
-faste. Derfor er de tatt med. Som regel er konstitusjoner
-forbeholdt vikariat for statsadvokater som er i permisjon.
+1.   
 
-[Side 53]
+Målene som oppstilles i målhierarkiet, er i hovedsak av kvantitativ art, med begrenset oppmerksomhet på måling av kvalitet og kunnskapsutvikling. Oppmerksomheten rettes eksempelvis mot hvor mange narkotikaforbrytelser som skal etterforskes kommende år, hvor mange påtaleavgjørelser som skal treffes, og hvor mange kjøretøy som skal kontrolleres. Den kvantitative størrelsen for enkelte resultatmål synes langt på vei å være den samme for samtlige politidistrikt, uavhengig av lokale forhold, kriminalitetsbildet på stedet og ressurstilgang. Samtidig går utviklingen i retning av flere like målkrav på nasjonalt nivå.
 
-51
+1.  **Riksadvokatens Mål- og prioriteringsrundskriv**
 
-NOU 2017: 5
-En påtalemyndighet for fremtiden
+Riksadvokatens årlige mål og prioriteringer for straffesaksbehandlingen utgis i form av et rundskriv. Hovedlinjene (de landsdekkende prioriteringene) har ligget fast over tid. Det sentrale målet for den høyere påtalemyndighet er å sikre en målrettet og effektiv straffesaksbehandling. I rundskrivet for 2016 er det også inntatt kapitler om etterforsking som satsingsområde og statsadvokatenes fagledelse.
 
-Kapittel 3
+Riksadvokatembetet har over tid hatt et godt og tillitsbasert samarbeid med Justis- og beredskapsdepartementet. Dette har gitt påtalemyndigheten mulighet til å øve innflytelse på utformingen av sentrale styringsdokumenter, hvor St.prp. nr. 1 står i en særstilling. I forbindelse med utarbeidelse av mål og prioriteringer i det tosporede system synes vekselvirkningene mellom det politiske nivå (regjering og storting), det administrative og politifaglige nivå (departement og direktorat) og det påtalefaglige nivå å være både tett og godt.
 
-Tabell 3.6
-2002
+I Mål- og prioriteringsskrivet for 2016 er inntatt følgende:
 
-2012
+«Departementets tildelingsbrev til Den høyere påtalemyndighet er utarbeidet i samråd med riksadvokaten. Det har vært dialog mellom Politidirektoratet og riksadvokaten om de deler av Politidirektoratets disponeringsskriv til politi- og lensmannsetaten som har betydning for straffesaksbehandlingen, og om disponeringsskrivet til ØKOKRIM. Riksadvokaten har forelagt dette rundskriv for departementet og direktoratet før utsendelse.»
 
-2013
+Riksadvokaten har i møte med utvalget vist til at embetet opplever det som relativt uproblematisk å bli enige med departement og direktorat om sammenfallende prioriteringer og mål. Det synes i det hele tatt å være stor grad av samstemthet om viktigheten av at ytre etat får entydige målformuleringer å forholde seg til. Riksadvokatembetet har redegjort for at den nærmere fremgangsmåten i all hovedsak følger fire faser:
 
-2014
+- Politidirektoratet, riksadvokaten og Justis- og beredskapsdepartementet samarbeider om utkast til Prop. 1 S. Dette gjelder blant annet satsingsområder og mål.
 
-2015
+- Prop. 1 S behandles politisk.
 
-Statsadvokater
+- Politidirektoratet, riksadvokaten og Justis- og beredskapsdepartementet samarbeider om målformuleringer samt avstemmer ulike vurderinger i sine respektive styringsdokumenter.
 
-Statsadvokater
+- Det sendes ut styringsdokumentene fra nevnte etater.
 
-Statsadvokater
+I dokumentet angis generelle mål for straffesaksbehandlingen og hvilke saker som skal gis forrang dersom det er knapphet på ressurser. Målene er generelle og på et overordnet nivå. Verd å merke seg er at den alt overveiende del av den anmeldte kriminalitet faller utenfor riksadvokatens sentrale prioriteringer eller føringer fra storting og regjering i sentrale styringsdokumenter. Statsadvokatene og politimestrene må derfor ta stilling til hvorledes denne kriminaliteten skal behandles. Her åpnes det for regional og lokal prioritering, innenfor rammen av riksadvokatens overordnede prioriteringer. En viktig oppgave for påtalemyndigheten *lokalt* er å foreta en påtalemessig vurdering av innkomne saker og prioritere hvilke som skal etterforskes, og hvilke som bør avgjøres umiddelbart.
 
-Embete
+Det årlige mål- og prioriteringsrundskrivet har tradisjonelt hatt et relativt stabilt preg. Riksadvokaten har ved gjentatte anledninger understreket at embetets direktiver skal være både helhetlige, gjenkjennbare, konkrete og aktuelle. Samtidig understrekes viktigheten av at man klarer å fornye seg i tråd med endringer i omgivelsene. Ideelt sett kan det hevdes at rundskriv 1 burde foreligge så tidlig at det inngikk i politidistriktenes planprosess for kommende år, gjerne tilnærmet samtidig med Politidirektoratets plan- og rammeskriv. Sistnevnte foreligger normalt i mai året før.
 
-Faste
+I realiteten er det to sett av vurderinger Riksadvokatembetet må ta hensyn til ved utformingen av sine mål og prioriteringer: det kriminalpolitiske og det faglige. Det kriminalpolitiske er behandlet i det foranstående. Det faglige perspektivet kan systematisk inndeles i tre underkategorier:
 
-Faste
+- rettsutviklingen
 
-Faste
+- strategiske kriminalitets- og trusselvurderinger
 
-Faste
+- erfaringer og innspill fra egen etat
 
-Oslo
+I de følgende punktene vil utvalget redegjøre for hvorledes disse underkategoriene håndteres, inkorporeres og virker inn på de samlede prioriteringene.
 
-21
+1.  **Rettsutvikling**
 
-31
+    1.  **Generelt**
 
-31
+Den høyere påtalemyndighet med riksadvokaten i spissen arbeider for at det rettslige rammeverket skal anvendes og utvikles på en måte som bidrar til en best mulig kriminalitetsbekjempelse. Det legges stor vekt på regelverksutvikling gjennom høringsuttalelser og ved at lovgiver for øvrig gjøres oppmerksom på behovet for lovendringer. En deltar i den løpende offentlige debatt om kriminalpolitiske spørsmål (for eksempel i radio eller TV) og besvarer daglige henvendelser fra journalister. Riksadvokatembetet er en synlig aktør i kriminalpolitikken og i det offentlige ordskifte. Det mottas og besvares et stort antall henvendelser fra andre lands myndigheter om norsk rettspraksis, og henvendelser i forbindelse med Stortingets spørretime. Rettsanmodninger til og fra andre land som faller inn under riksadvokatens ansvarsområde, blir saksbehandlet ved embetet, og det avholdes møter (årlig og på sak) med Sivilavdelingen i Justisdepartementet i den forbindelse.
 
-31
+Statsadvokater underviser ved ulike universiteter samt på studier ved Politihøgskolen. I tillegg sitter flere i ulike referansegrupper og styringsgrupper. Det bedrives utadrettet virksomhet, blant annet ved at det holdes innlegg på alle påtalemøter som statsadvokatembetene arrangerer, og på ulike seminarer knyttet opp mot riksadvokatens ansvarsområde.
 
-35
+1.  **Riksadvokaten om rettsutvikling gjennom aktorater**
 
-35
+Et punkt som har vært diskutert i Den høyere påtalemyndighet de senere år, og som flere av respondentene uoppfordret har kommet inn på, knytter seg til rettsutviklingen som skjer gjennom aktorering i Høyesterett.
 
-HOP
+I riksadvokatens virksomhetsplan for 2016 heter det på side 11:
 
-3
+«Bidra til rettsutvikling gjennom aktorater:
 
-3
+Bidra til at saker som har prinsipiell betydning for lovanvendelse eller reaksjonsfastsettelse blir bragt inn for Høyesterett
 
-3
+Oppnevne aktorer for Høyesterett
 
-4
+Aktorere enkelte prinsipielle saker for Høyesterett
 
-5
+Gi tilbud til kollokvier med møtende aktor under saksforberedelsen i prinsipielle saker og til aktorer som ikke tidligere har aktorert saker for Høyesterett, eller har begrenset erfaring i så måte.»
 
-4
+Riksadvokaten har i ulike sammenhenger gitt uttrykk for at det – gitt nødvendig kapasitet – hadde vært ønskelig at statsadvokatene ved Riksadvokatembetet aktorerte flere saker for Høyesterett.
 
-VT
+Det arbeides for tiden med å sluttføre en revisjon av rundskrivet om kvalitet i straffesaksbehandlingen. Her vil etter det opplyste følgende avsnitt bli inntatt:
 
-5
+«Riksadvokaten minner om at påtalemyndigheten har et selvstendig ansvar for å bidra til rettsavklaring og rettsutvikling, herunder reaksjonsnivå, ved å fremme egnede saker for Høyesterett. I ankeerklæringer, eventuelt i påtegning til riksadvokaten, skal det konkret angis hvorfor anken gjelder spørsmål som har betydning utenfor den foreliggende sak eller det av andre grunner er særlig viktig å få prøvd saken i Høyesterett, jf. straffeprosessloven § 323 første ledd.»
 
-5
+Den høyere påtalemyndighet har over tid hatt fokus på rettsutvikling. Denne oppmerksomheten har medført viktige og nødvendige endringer innen saksfelt som drap og voldtekt. Enkelte av Påtaleanalyseutvalgets respondenter har samtidig etterlyst strategiske mål for utvelgelse av saker for vår øverste domstol. Begrunnelsen er at dette vil gi rettsutviklingen en tydeligere strategisk styring og profil. Spørsmålet omtales nærmere i kapittel 12.
 
-5
+1.  **Fornebo-utvalget**
 
-6
+Fornebo-utvalget anfører følgende om rettsutvikling gjennom aktorater:[^112]
 
-7
+«Ved de alminnelige embetene utføres i hovedsak de aktorater som etter loven ligger til statsadvokatene. En stor andel av aktoratene er av kortere varighet, og i et gjennomsnittlig aktorat er antakelig utfordringen knyttet til konkret bevisføring og bevisbedømmelse. Antakelig har bare en mindre andel av sakene et særlig potensial for rettsutvikling.
 
-7
+Et vesentlig siktemål med aktoratene i den høyere påtalemyndighet bør være å yte substansielle bidrag til rettsutviklingen, og dette bør i størst mulig grad skje på grunnlag av strategiske valg.
 
-Agder
+I 2009 ble det i Høyesterett registrert 411 saker med anke over dom i straffesak. Av de totalt registrerte anker hadde (også) påtalemyndigheten anket i 33 av sakene – altså en andel på ca 8 %.
 
-4
+Henvisningsandelen totalt var på ca. 16 %, mens den for påtalemyndighetens anker var på ca 48 %. Av ankesaker som ble tillatt fremmet hadde (også) påtalemyndigheten anket i ca. ¼ av sakene.
 
-5
+Høringsrunden ved embetene viser at disse i ulik grad tar begrensede anker for lagmannsretten. Mange av embetene overlater de fleste av disse sakene til politiet, mens to av embetene oppgir en høy andel for statsadvokatene. Det er særlig fra ett embete fremhevet at få begrensede anker i lagmannsretten antakelig innvirker på ankefrekvensen til Høyesterett, og at det bør være et mål å øke statsadvokatenes andel.
 
-5
+Dette er generelt sett fornuftig, men heller ikke her bør andelen saker i seg selv være målsettingen. Det viktige er at embetenes saksutvalg – enten dette gjelder ankesaker eller aktorater i tingretten – i større grad bør inngå som en del av et planmessig arbeid for rettsutvikling på bestemte områder. Oppmerksomheten mot vold i nære relasjoner og endringen i straffeloven § 219 i 2006, burde som eksempel medført at embetene hadde flere slike aktorater både i tingretten og lagmannsretten. Statsadvokatene ville gjennom flere aktorater vunnet den nødvendige erfaring for en systematisk utvikling av saksfeltet, og det ville sannsynligvis vært anket flere saker til Høyesterett.
 
-5
+Generelle kriterier som definerer de ‘riktige sakene’ vurdert etter sakenes alvor, kompleksitet og prinsipielle betydning, er i seg selv neppe tilstrekkelige til å dreie virksomheten mot et mer profilert utvalg av aktorater. Både vanetenkning og faglige preferanser hos den enkelte gjør seg gjeldende, og kriteriene er skjønnsmessige og i blant vanskelig å anvende i den praktiske hverdag. Aktorressursen styres best hvis saksutvalget knyttes til bestemte faglige mål. Dette betyr ikke at statsadvokatene ikke skal engasjere seg i prinsipielle saker som oppdages utenfor ‘målområdet’, men at fokus mot bestemte sakskriterier er en mer effektiv innfallsvinkel.»
 
-6
+1.  **Erfaringer fra Danmark og Sverige**
 
-6
+I Danmark har Rigsadvokaten utarbeidet et eget dokument til bruk i påtalemyndigheten som angir områder som påtalemyndigheten skal ha fokus på i utviklingen av rettspraksis.[^113] I innledningen av dokumentet fastslås:
 
-Rogaland
+«Det er en vigtig opgave for den samlede anklagemyndighed at sikre løbende fokus på, at anklagemyndigheden bidrager aktivt til i retspraksis at få afklaret de spørgsmål, der opstår i forbindelse med behandling af straffesager. Det kan være spørgsmål om lovfortolkning, strafniveau, bevisspørgsmål, processuelle temaer mv.»
 
-4
+Fokusområdene er videre delt inn i fire områder som vurderes som aktuelle:
 
-7
+- oppfølging av nyere lovgivning
 
-7
+- områder hvor det er behov for å skape rettspraksis
 
-8
+- områder hvor rettspraksis bør utvikles – behov for tydeligere eller endret praksis
 
-9
+- prosessuelle spørsmål
 
-9
+Innenfor hver av disse delene er nærmere saksområder (for eksempel menneskehandel, fremmedkrigere, hatkriminalitet mv.) angitt som aktuelle for rettsutvikling, enten fordi det er ny lovgivning eller man ønsker å endre eller tydeliggjøre rettspraksis.
 
-Hordaland
+I vurderingen av hvorvidt det er statsadvokaten eller påtalejuristen i politiet som skal aktorere en sak i første instans, er et av de relevante momentene angitt slik i styringsdokumentet:[^114]
 
-5
+«Hvis der er tale om den første sag på et område, der er utpeget som særligt indsats- eller fokus-område for anklagemyndigheden, eller hvor der i øvrigt gør sig særlige principielle eller generelle forhold gældende, f. eks. om anvendelse av nye bevismidler eller efterforsknings-metoder mv.»
 
-7
+I slike tilfeller er det statsadvokaten som normalt aktorerer saken og som da vil ha oppgaven med å skape rettsutvikling på vegne av påtalemyndigheten.
 
-7
+I Sverige har Riksåklagaren utarbeidet et dokument kalt «Prioriterade prejudikatsfrågor».[^115] Dette dokumentet er en veiledning i hvilke rettslige områder som fra påtalesynspunkt bør prioriteres. På samme måte som i Danmark er dokumentet inndelt i hva som er begrunnelsen eller behovet bak avklaringen eller rettsutviklingen:
 
-7
+- områder der det ikke finnes praksis
 
-8
+- områder der praksisen bør følges med på – er det behov for tydeligere eller endret praksis?
 
-8
+- der det er ny lovgivning
 
-MRSF
+Under hvert av punktene er det angitt hvilke rettsområder som er aktuelle (menneskesmugling, hvitvasking, bedrageri mv). Hvordan dette i praksis skal gjennomføres, fremgår av «Åklagarmyndighetens föreskrifter om mål som är av interesse för rättsutvecklingen og prejudikatbildningen». Der fremgår det i § 1 at Riksåklagaren skal utarbeide et dokument som angir områdene som skal prioriteres nærmere, jf. dokumentet ovenfor. I § 2 fremgår det at Åklagarmyndighetens *utviklingscentrum* har ansvaret for rettsutviklingen og prejudikatbildningen i det daglige. Etter § 3 skal kammaråklagarne ha oppmerksomhet omkring spørsmål som kan være interessante, og bringe disse spørsmålene videre til det utvicklingscentrum som de svarer til. Slike utvicklingscentrum forefinnes tre steder: Stockholm, Göteborg og Malmö.
 
-3
+1.  **Strategiske analyser**
 
-4
+    1.  **Innledning**
 
-4
+Begrepet strategisk analyse har intet entydig innhold. Utvalget bruker i det følgende begrepet som et samlebegrep for ulike kategorier av dokumenter – med andre ord en vid forståelse av begrepet.
 
-4
+En strategisk analyse skal bidra til at det operative leddet har en klar formening om hvilke type saker og miljøer man skal prioritere *utover* de oppdukkende sakene. I praksis er det ikke mulig for politiet å jobbe like aktivt mot alle former for kriminalitet og kriminelle miljøer samtidig. Hva skal prioriteres, og hvorfor?
 
-4
+Europol[^116], Eurojust[^117], Interpol[^118] og Frontex[^119] publiserer internasjonale rapporter om ulike kriminalitetsfenomener. Hva gjelder Europol, er det særlig tre rapporter som bør fremheves:
 
-4
+- SOCTA. Rammen er organisert kriminalitet. Rapporten utgis hvert fjerde år (oppdatering hvert annet år), basert på innspill fra ca. 40 land («Slik ser vi på verden»)[^120]
 
-Trøndelag
+- iOcta. Omhandler datakriminalitet og utarbeides årlig
 
-4
+- TE-SAT. Omhandler terror og utarbeides årlig
 
-5
+I tillegg kan nevnes *Exploring tomorrow’s crime*, en forskningsbasert rapport om nye kriminalitetsformer. Europol utgir også ulike temarapporter – normalt på bestilling. Eksempler på slike temaer kan være fremmedkrigere, migrasjon, osv.
 
-5
+Mens SOCTA baserer seg på innspill fra medlemslandene, er de såkalte EMPACT-rapportene bestillinger på identifiserte satsingsområder. Landene inviteres til deltakelse. Et kjennetegn i disse prosessene er den tydelige koblingen mellom penger og strategiske satsinger. Det å falle «utenfor» målhierarkiet innebærer i praksis ressursutfordringer. På norsk nasjonalt nivå er denne koblingen i mindre grad en absolutt forutsetning for tildeling av midler.
 
-5
+Nasjonalt er det en rekke rapporter som beskriver ulike sider ved kriminalitetsutviklingen. Som illustrasjon gis en kortfattet oppstilling over noen av de mest sentrale:
 
-5
+- Politidirektoratet utgir blant annet en omverdenanalyse og diverse STRASAK-rapporter.
 
-5
+- Kripos publiserer årlig en rapport om organisert kriminalitet[^121].
 
-Nordland
+- Økokrim har sin årsrapport/trusselvurdering om økonomisk og miljøkriminalitet.
 
-3
+- PST utgir årlig en trusselvurdering, hvor blant annet fremmedkrigerproblematikken har synliggjort kapasitetsutfordringene og viktigheten av et tverrfaglig aspekt (barnevern, skole, politiet, sikkerhetstjenesten).
 
-4
+- UP publiserer en tilstandsanalyse om trafikk.
 
-4
+- Politidistriktene utarbeider egne etterretningsprodukter (kommer normalt på høstparten).
 
-4
+- Statistisk sentralbyrå utarbeider årlig en statistikk over anmeldte lovbrudd.
 
-4
+- Øvrige kontrolletater utgir egne årsrapporter og trusselvurderinger.
 
-4
+En kunnskapsbasert tilnærming er både ønskelig og viktig. Samtidig sitter utvalget med et inntrykk av et noe uferdig helhetsbilde. En av respondentene uttrykte det slik:
 
-TF
+«Du skal ha ganske god totaloversikt for å forstå hvilke dokumenter som er bindende, hva som går foran og hvordan trinnhøyden mellom de ulike dokumentene er. I tillegg står noen av planene i motstrid til hverandre – i alle fall er de ikke avstemt. Jeg ønsker meg en overordnet, nasjonal kriminalitetsrapport som tar opp i seg de ulike rapportene og prioriterer/avveier.»
 
-3
+1.  **Sentrale arenaer**
 
-4
+    1.  *Samordningsorganet*
 
-4
+Samordningsorganet ble etablert i 1. juni 2010 og består av fire faste medlemmer: assisterende politidirektør, assisterende riksadvokat, sjef i Kripos og politimesteren i Oslo. Formålet er å bidra til å styrke politiets innsats mot alvorlig kriminalitet, ikke minst kriminalitet av organisert og grenseoverskridende karakter. Konkret skjer dette ved å tildele politimesteren ekstraordinære ressurser eller på andre måter understøtter politiets innsats, og i noen grad ved å initiere igangsetting av etterforsking og kriminalitetsforebyggende tiltak. I 2015 ble det delt ut NOK 25 millioner, i hovedsak til de prioriterte satsingsområdene.
 
-4
+1.  *Etterretnings- og analysesenteret (Økokrim)*
 
-4
+Med bakgrunn i regjeringens strategi for å styrke innsatsen mot arbeidslivskriminalitet ble det i 2016 etablert et nasjonalt tverretatlig analyse- og etterretningssenter (NTAES), som et samarbeid mellom politiet, Skatteetaten, Tolletaten, Nav og Arbeidstilsynet. Senteret skal utarbeide nasjonale trussel- og risikovurderinger som grunnlag for strategiske beslutninger om tiltak innen økonomisk kriminalitet, herunder arbeidslivskriminalitet, og etterretningsrapporter som gir grunnlag for innsats mot kriminelle aktører og nettverk.
 
-4
+1.  **Påtalemyndighetens involvering**
 
-Det nasjonale
+Det er bred enighet om viktigheten av oppdatert og relevant kunnskap om viktige kriminalitetsområder. Utviklingen de senere år har gått i retning av en mer aktiv bruk av strategiske analyser i prioriteringssammenhenger. Mens det tidligere kunne være et ikke-ubetydelig handlingsrom for en politileder til å iverksette et «prosjekt» mot et kriminelt miljø etter eget forgodtbefinnende, kreves i dag at slike satsinger har en forankring i strategiske analyser. Dette innebærer at oppmerksomheten og betydningen av disse analysene/dokumentene øker. Samtidig ligger det betydelig definisjonsmakt i å beskrive virkeligheten, herunder vekte ulike kriminalitetsområder. Påtaleanalyseutvalget er kjent med at denne vektingen kan være basert på relativt krevende og marginale avveininger, som ikke nødvendigvis kommer like godt til syne i selve rapporten.
 
-0
+*Påtalejuristene i politiet* bør være involvert i politidistriktets interne prosesser.
 
-6
+*Statsadvokatene* bør delta både i regionale prosesser og i en samhandling med riksadvokaten.
 
-6
+*Riksadvokaten* har en tett og god dialog med Politidirektøren, deltar i den nasjonale ledergruppen for politiet (NLG) og oppleves som en aktiv og viktig bidragsyter i sentrale prioriteringsspørsmål. Dette har gjort at riksadvokaten tradisjonelt har hatt stor påvirkning på politiets strategiske innsats mot spesielt den grovere kriminaliteten.
 
-6
+Utvalget skal samtidig vurdere hensiktsmessigheten av dagens ordning i et fremtidsperspektiv. Utgangspunktet er at Den høyere påtalemyndighet per i dag ikke har noen egen analyseenhet, og i realiteten legger politiets analyser og premisser til grunn *as is*. Den tradisjonelle tenkningen rundt dette har vært at strategisk etterretningsarbeid ligger til politiet, og at påtalemyndigheten og politiet er tett sammenvevde organisasjoner.
 
-6
+Selv om den *samlede* utredningskapasiteten i politiet og påtalemyndigheten muligens er tilfredsstillende, anser utvalget det legitimt å stille spørsmål ved om påtalemyndigheten er riktig dimensjonert, og i denne sammenheng innehar den rette kompetansen. Rapportene som utarbeides av sentrale analyseenheter, utgjør viktige beslutningsgrunnlag. På strategisk nivå vil de påvirke sentrale prioriteringsspørsmål, og på operativt nivå vil de kunne påvirke enkeltsaker (avgrensninger, prioriteringer etc.).
 
-6
+Dette er bakgrunnen for at flere av respondentene har pekt på at riksadvokaten bør få større kapasitet og en tydeligere rolle når det gjelder prosessen og premissene for utarbeidelsen av disse produktene. Særlig viktig blir det for Den høyere påtalemyndighet å kunne forstå og ha innsyn i hvilke avveininger og prioriteringer som gjøres. På en slik bakgrunn kan det hevdes at det ikke er tilstrekkelig at Den høyere påtalemyndighet/riksadvokaten blir involvert *etter* at selve sluttproduktet foreligger, eller man er over i etterforskingssporet. Utvalget kommer tilbake til problemstillingen under drøftelsen av økt stabskraft til Riksadvokatembetet i kapittel 12.
 
-Sum
+1.  **Erfaringer fra egen etat**
 
-55
+    1.  **Hvorfor er innspill fra egen etat viktig?**
 
-81
+Som beskrevet over skjer riksadvokatens angivelse av mål og prioriteringer i et tett samarbeid med andre, og under iakttakelse av politiske føringer fra storting og regjering. Skal det ha noen hensikt å utarbeide slike måldokumenter, må resultatene følges opp og etterleves. Ved Riksadvokatembetet gjøres dette gjennom periodiske analyser og ved årlige rapporter om straffesaksbehandlingen i politiet og den høyere påtalemyndigheten. I teorien omtales denne prosessen som *ledelse av ledelsesprosessen*.
 
-81
+For at ledelsesprosessen i påtalemyndigheten skal fungere optimalt, er det avgjørende at lederne har tilgang på tilstrekkelig og adekvat informasjon om statsadvokatenes og andre interessenters behov, relevant rettsutvikling, aktuelle strategiske rapporter, hva disse bygger på, hvorvidt oppstilte mål er nådd, osv. Av samme grunn er det ledelsen i organisasjonen som er storbruker av slike rapporteringsverktøy. Målstyring har som viktigste hensikt å
 
-84
+1.  gjøre organisasjonen mer mål- og resultatorientert i motsetning til aktivitets- og regelorientert,
 
-94
+<!-- -->
 
-93
+1.  få en bedre ressursutnyttelse gjennom økt produktivitet og effektivitet,
 
-Stats- Statsadvokater inkl. Statsadvokater
-advokater
-konstitusjoner
-Faste
-Faste
+2.  etablere en kobling mellom mål, planer, styring og kontroll, og
 
-Vakant
-Sum ansatte
+3.  påvirke de ansattes ressursdisponeringsatferd.[^122]
 
-2016
+I plansystemer er det spesielt tilbakemeldingene til sentralenheten i hierarkiet som kan være problematisk. Det kan være at relevant informasjon ikke kommuniseres tilbake/oppover, de lokale målene som utarbeides støtter ikke opp under de overordnede, strategisk fastsatte målene, osv. Slike uønskede avvik omtales som *målforskyvning*.
 
-1
-62
+1.  **Embetslederne**
 
-92
+Embetslederne har totalansvaret for de enkelte statsadvokatembetene. I så henseende kan ansvaret sammenlignes med politimesteren og dennes totalansvar i politidistriktet. Ansvaret omfatter straffesaksbehandlingen innenfor eget embete (kontroll, tilsyn og oppfølging av politiets straffesaksbehandling), dialog med politiledelsen, informasjon til media og allmennheten, samarbeid med andre etater i strafferettspleien, osv. Kort sagt, alle forhold knyttet til driften av embetet (økonomistyring, personalforvaltning og HMS-arbeid).
 
-også søkere med erfaring fra arbeid i domstolene
-eller med praksis som advokat har erfaringsmessig vært særlig interessante for Den høyere påtalemyndighet. Det legges vekt på faglig dyktighet,
-integritet, gode samarbeidsevner og personlige
-egenskaper.
-De fleste av statsadvokatene er rekruttert fra
-politiet. Det legges like fullt vekt på å søke å
-oppnå en variert sammensetning av statsadvokatkorpset ved å ansette kvalifiserte personer med
-annen bakgrunn enn flertallet.
+Fornebo-utvalget[^123] peker på viktigheten av at embetsleder aktivt og løpende bidrar i utviklingen av embetet:
 
-3.4.5 Rekruttering
-Rekrutteringen til Den høyere påtalemyndighet er
-i dag omtrent den samme som da Fosheim-utvalget og Fornebo-utvalget beskrev og redegjorde
-for situasjonen. Fornebo-utvalget skriver på side
-77 flg.:
-«Til tross for klart uttalte bekymringer om rekrutteringssituasjonen både fra Fosheim-utvalget og Riksadvokaten, har anbefalinger i liten
-grad blitt fulgt opp med konkrete tiltak. Stats-
+«Videre ligger det til embetslederfunksjonen å påse at embetets ansatte har den nødvendige kompetanse, og at både statsadvokater og kontoransatte gis muligheter for å vedlikeholde og utvikle sin kompetanse i arbeidsforholdet.
 
-92
+Embetsleder må også sørge for at ressurser og kompetanse utnyttes på best mulig måte, og at embetet utvikles i takt med endrede krav og forventninger. Det siste er særlig viktig å ha for øye i en virksomhet som i grunntrekkene har vært organisert og utøvet på samme måte i svært lang tid (…).».
 
-96
+Embetslederne kan sies å være riksadvokatens forlengede arm ut i distriktene, med ansvar for at prioriteringer, direktiv og anbefalinger som riksadvokaten utferdiger, gjennomføres og følges opp. I sum innebærer dette at embetslederne får en viktig rolle i styringen av straffesaksbehandlingen og politiets virksomhet.
 
-108
+God strategisk forståelse understrekes av Fosheim-utvalget, som peker på at embetsleder har et betydelig ansvar for å organisere virksomheten på en måte som skaper balanse mellom virksomhetsområdene og understøtter at embetet når de mål som er fastsatt av overordnet myndighet i styringsdokumenter og styringsdialog.
 
-108
+Flere respondenter peker på at rollen praktiseres, forstås og utøves relativt ulikt. Særlig gir dette seg utslag i fagledelsen. Kritikken går blant annet på at enkelte av embetslederne i for stor grad har lent seg på de årlige inspeksjoner og påtalemøtene som nær sagt de eneste formene for fagledelse.
 
-advokatene har tvert om i årenes løp blitt ytterligere akterutseilt i forhold til sammenlignbare
-yrkesgrupper, både hva gjelder lønnsutvikling
-og tidsmessig tilrettelegging av arbeidsforholdene.
-Statsadvokatene rekrutteres i all hovedsak
-fra påtalemyndigheten i politiet. Av landets 90
-statsadvokater er det kun 5 statsadvokater som
-ikke hadde påtaleerfaring fra politiet ved utnevnelse. 4 av disse 5 er ved Oslo statsadvokatembeter. (…)
-Arbeidsgruppen har kartlagt politiadvokatenes interesse for å søke jobb som statsadvokat, og vi har sendt ut en spørreundersøkelse
-til alle landets politidistrikter. 263 politijurister
-har svart, 60 % av respondentene hadde mer
-enn 6 års tjeneste i politiet. Hovedfunnet vi
-gjorde fra undersøkelsen var at 75 % av respondentene, av ulike grunner, ikke ønsket å søke
-jobb som statsadvokat.
-Som det fremgår er politijuristenes begrunnelse for ikke å søke seg statsadvokatembete
-tredelt: 1) for stort arbeidspress 2) for dårlige
-lønnsbetingelser og 3) jobben som statsadvo-
+I Fornebo-rapporten heter det videre:
 
-[Side 54]
+«I en høringsrunde fremkommer at embetslederne selv mener å bruke fra i overkant av 50 % til under 10 % til eksterne og interne oppgaver som oppfattes som oppgaveløsning i egenskap av embetsleder. Dette fordeler seg igjen på interne administrative oppgaver, oppgaver knyttet til generell fagledelse og forskjellig utadrettet virksomhet.
 
-52
+De fleste mener at straffesaksoppgavene i perioder tar for mye tid på bekostning av lederoppgaver. Spesielt lengre perioder med aktorater gjør at det blir for liten kontinuitet i lederfunksjonene. På den annen side mener embetslederne at det \[er\] ønskelig å ha straffesaksoppgaver, fordi dette gir det nødvendige grunnlag for utøvelse av fagledelsen – både internt og i forhold til politiet.
 
-NOU 2017: 5
+Noen uttrykker ønske om en viss reduksjon i kjerneoppgavene, og det pekes eksempelvis på at embetslederne som hovedregel ikke bør utføre de lengste aktoratene. Saksforberedelse og hovedforhandling i lange aktorater vil samlet ta for mye sammenhengende tid, og gå utover kontinuiteten i embetsledelsen.»
 
-Kapittel 3
+Påtaleanalyseutvalget er enig i at en forklaring på den store forskjellen på hvorledes rollen utøves, har sammenheng med at mesteparten av virksomheten flere steder er konsentrert og innrettet mot enkeltsaksbehandlingen ved eget embete. Viktige faktorer har vært saksmengdens totale størrelse og det faktum at enkeltsaksbehandlingen tradisjonelt har vært mest i fokus. Resultatet er uansett at fagledelsen overfor politiet har blitt nedprioritert.
 
-En påtalemyndighet for fremtiden
+Hva gjelder kontrollen med politiets virksomhet, er embetslederne fra og med 2016 invitert til å delta i styringsdialogen mellom Politidirektoratet og politimestrene. Tidligere deltok de kun på et forberedende møte. Dette betyr at embetslederne nå er gitt tilgang til en viktig arena hvor det bør være mulig å påvirke hvorledes politiet driver straffesaksbehandlingen og ellers innretter sin virksomhet.
 
-kat er ikke forenlig med familieliv. Uttalelsene
-gjenspeiler de bekymringer Fosheim-utvalget
-ga uttrykk for i sin rapport.»
-Hva gjelder spørsmålet om hvem som i fremtiden
-bør rekrutteres til statsadvokatstillinger, vil det
-formentlig fortsatt være slik at den naturlige rekrutteringsplattformen vil være påtalejuristene i
-politiet. Dette har sammenheng med at disse utfører mange av de samme sentrale arbeidsoppgavene som statsadvokatene, herunder å treffe
-påtaleavgjørelser og utføre aktorater for retten.
-Praksis fra politiet vil derfor være meget god og
-riktig erfaringsbakgrunn.
-Samtidig er det et ønske å rekruttere statsadvokater også med annen yrkesbakgrunn, og Fosheim-utvalget sier om dette på side 113:
-«Slik utvalget ser det, hadde det derfor vært
-ønskelig med en noe større bredde i rekrutteringen til statsadvokatstillingene. Dette ville
-styrke allsidigheten og mangfoldet og i sum
-bidra [til å gi] en høyere kompetanse innen etaten. Annen interessant yrkesbakgrunn som
-også kan gi den ønskede erfaringskompetanse
-er for eksempel som privatpraktiserende advokat, annen advokatpraksis for eksempel hos
-regjeringsadvokaten, praksis som dommer
-eller dommerfullmektig eller eventuelt som
-utreder i Høyesterett.»
-Ved siden av juridiske kvalifikasjoner pekes det på
-behovet for jurister med ledererfaring og strategiske evner. Dette tiltres av Fornebo-utvalget,
-som på side 81 bemerker følgende:
-«Med endrede rammebetingelser, herunder en
-mer målrettet ledelse av den regionale straffesaksvirksomheten, vil dette i særlig grad
-gjelde embetsledergruppen. Etter arbeidsgruppens syn vil høy juridisk fagkunnskap fortsatt være et grunnleggende krav, men i tillegg
-vil det stilles økte krav til lederkompetanse herunder evne til strategisk tenkning og samarbeid.»
+Politidirektøren har uttrykt at Politidirektoratet både ønsker seg og er tjent med en engasjert og oppdatert påtalemyndighet. Politidistriktene er de senere år vesentlig endret med en ny strategisk plattform, de ledes annerledes enn tidligere og etaten har fått et mer profesjonelt og større Politidirektorat. Resultatet er store styringsendringer i norsk politi. Også påtalemyndigheten er styrket. Samtidig styres og ledes etaten stort sett som tidligere. Politidirektøren etterlyser på denne bakgrunn embetsledere som i større grad ansvarliggjøres, og anbefaler at de i større grad følges opp og styres fra Riksadvokatembetet. Dette vil bidra til at de fremover må jobbe likere og gradvis kan bli en mer profesjonell og aktuell samarbeidspartner for politimestrene.
 
-dige embeter og konstitusjoner har fremdeles
-bakgrunn fra påtalemyndigheten i politiet. I de
-aller fleste tilfeller har de aktuelle søkerne fra
-påtalemyndigheten i politiet også annen relevant erfaring som f. eks dommerfullmektiger
-eller advokater. De siste årene har vi imidlertid
-sett en markert økning av søkere med annen
-bakgrunn også (dette gjelder i alle fall for Oslo
-statsadvokatembeter). Både advokater, dommere, jurister med bakgrunn fra forvaltningen,
-herunder flere med bakgrunn fra Justisdepartementets lovavdeling, figurerer nå på søkerlistene.
-Statsadvokatene fikk et markant tillegg i
-lønnen i 2014 og 2015. Vi tror at dette har hatt
-stor betydning for søkingen til statsadvokatembetene. Det skal nevnes at søkermassen endret
-seg i noen grad også før de nevnte lønnsøkningene. Tendensen har imidlertid forsterket seg
-fra 2014 og utover.
-Det gjenstår å se om lønnsøkningen også
-vil bidra til større stabilitet i statsadvokatkorpset.
-Vi finner også grunn til å nevne at de som
-begynner som politijurister i 2016 gjennomgående har en bredere erfaring enn de som begynte for ti år siden. Vi har fulgt alle nye politiadvokater gjennom kursene for nye politijurister siden 2002/2003. Den gang var politifullmektigjobben ofte den første jobben for
-mange. I dag er det praktisk talt ingen nyansatte som kommer rett fra studiet.»
-Riksadvokatembetet har i dialogen med utvalget i
-det vesentlige gitt sin tilslutning til denne redegjørelsen, likevel slik at det skal bemerkes at Oslo
-statsadvokatembeter nok, sett i et perspektiv over
-flere år, i mindre grad enn de øvrige embetene har
-opplevd utfordringer med rekrutteringen. Enkelte
-steder har det vært et noe svakt rekrutteringsgrunnlag, hvilket gjør det enkelte embete svært
-sårbart. De betydelige lønnsmessige oppjusteringer i 2014 og 2015 synes så langt å ha snudd disse
-negative utviklingstrekkene.
+1.  **Styringsprosessen i Den høyere påtalemyndighet**
 
-3.4.7
-3.4.6
+Riksadvokaten har to årlige fellesmøter med embetslederne. Her gjennomgås resultater og utfordringer i straffesaksbehandlingen ved embetene. Erfaringer utveksles, aktuelle problemstillinger drøftes og styringssignalene formidles.
 
-Oslo statsadvokatembeter om rekrutteringen til statsadvokatembetene
-Oslo statsadvokatembeter har uttalt følgende om
-rekrutteringen til statsadvokatembetene:
-«Siden Fornebo-utvalgets innstilling har rekrutteringsgrunnlaget til DHP endret seg i positiv retning. Størsteparten av søkerne til le-
+Videre avvikles hvert år ett bilateralt møte[^124] med den enkelte embetsleder, et såkalt styringsdialogmøte. Her gjennomgås situasjonen ved det enkelte statsadvokatembete – resultater, budsjettmessige utfordringer, personalsituasjonen og fremtidige mål.
 
-Hvor blir det av statsadvokater som
-slutter?
+Gjennom året er det ulike former for kontakt mellom riksadvokaten og den enkelte embetsleder. Her diskuteres både budsjettmessige og andre utfordringer.
 
-Nedenstående figur viser hvilke stillinger statsadvokatene som sluttet i årene 2010–2014, gikk til.
-Figuren omfatter sluttårsaker som pensjon og internt bytte av stilling.
-En overveiende andel av statsadvokatene gikk
-over til domstolene da de sluttet i påtalemyndigheten. Ser man bort fra de som byttet internt, for ek-
+Styringen og samhandlingen omfatter også tre årlige formelle rapporteringer. Her er det særlig måloppnåelsen og eventuelle avvik som vies oppmerksomhet.
 
-[Side 55]
+Den høyere påtalemyndighet er en liten organisasjon hvor de enkelte medarbeidere, ikke minst på ledernivå, kjenner hverandre godt. De fleste har samarbeidet over mange år. Utvalget sitter med et klart inntrykk av at riksadvokaten oppleves som en tydelig og troverdig leder.
 
-NOU 2017: 5
-En påtalemyndighet for fremtiden
+De overordnede prioriteringene, med riksadvokatens årlige mål- og prioriteringsrundskriv i spissen, er godt gjennomarbeidede dokumenter. Samtidig har utvalget merket seg at enkelte respondenter har pekt på at samspillet mellom nivåene i påtalemyndigheten ved *utarbeidelsen* av styringsdokumentene bør kunne utvikles, med større grad av involvering av statsadvokatnivået.
 
-Annet
-5,4 %
-Internt
-13,5 %
-Dommere
-29,7 %
+1.  **Gjennomslagskraft**
 
-Pensjon
-13,5 %
+    1.  **Formell gjennomslagskraft**
 
-Private
-21,6 %
+Anvisninger og direktiver fra riksadvokaten må ses i lys av straffeprosessloven § 55 annet ledd om at riksadvokaten har den overordnede ledelsen av påtalemyndigheten, straffeprosessloven § 58 annet ledd om at riksadvokaten kan gi pålegg umiddelbart til politiets tjenestepersoner, og straffeprosessloven § 225 annet ledd om at riksadvokaten kan gi pålegg om hvordan etterforskingen skal gjennomføres.
 
-Andre
-offentlige
-stillinger
-16,2 %
+Påtalemyndighetens praksis som rettskilde er drøftet av professor Tor-Geir Myhrer.[^125] Han skiller mellom autoritative uttalelsers vekt ved vurderingen i domstolene, og hvilken vekt slike uttalelser må tillegges internt i politiet og påtalemyndigheten.
 
-Figur 3.4
+Overfor domstolene vil et rundskriv fra riksadvokaten i begrenset utstrekning ha en *direkte* autoritativ rettskildemessig betydning. En annen sak er at slike anvisninger *i praksis* tillegges stor vekt. Et enkelt søk i Høyesteretts avgjørelser viser at det i en rekke avgjørelser er vist til riksadvokatens rundskriv.
 
-antall politijurister i regionen. Enkelte embeter
-har også spesialansvar for visse saksfelt; Rogaland
-statsadvokatembeter har blant annet det påtalemessige ansvaret for såkalte kontinentalsokkelsaker. Ansvaret for saker som gjelder brudd på lovgivningen om Norges økonomiske sone, er delt
-mellom statsadvokatene i Rogaland og i Troms og
-Finnmark.
-Det ovennevnte synliggjør at det er mer enn
-kun antallet politijurister i den enkelte statsadvokatregion som påvirker arbeidsmengden. Bruk av
-forholdstall som nøkkel til fordeling av statsadvokatressursene er omstridt, blant annet fordi det
-reduserer riksadvokatens mulighet til gjennom
-fordeling av stillinger, og påvirkning av de politiske myndigheter, å prioritere innsatsen ved det
-enkelte embete.
-Påtaleanalyseutvalget ser det slik at etablering
-av forholdstall som nevnt ikke vil være hensiktsmessig.
+Internt i politi og påtalemyndighet stiller dette seg annerledes:[^126]
 
-3.5
-sempel fra et statsadvokatembete til et annet, eller
-gikk av med pensjon, utgjør andelen av de som
-sluttet og gikk over til domstolene 41 prosent. Av
-dem som gikk til andre yrker, gikk 30 prosent til
-privat virksomhet. Det vil si at disse to instansene
-utgjorde i overkant av 70 prosent av dem som sluttet i Den høyere påtalemyndigheten i denne perioden.
+«… påtalemyndighetens hierarkiske oppbygging (…) at overordnet nivå generelt kan instruere underordnede, og at underordnede er forpliktet til å følge disse instrukser. Det siste er temmelig klart lagt til grunn i provokasjonsdommene i Rt-1984-1076 og Rt-1998-407. Overordnet nivås rolle som klageorgan, jf. straffeprosessloven § 59a, og adgang til å omgjøre underordnedes avgjørelser av eget tiltak, jf. straffeprosessloven § 75, innebærer også at overordnet myndighet rent faktisk kan tvinge sitt syn igjennom. Samlet leder dette til at generelle direktiver fra overordnet myndighet om myndighetsutøvelsen, eller avgjørelser med prinsipielt innhold, blir en avgjørende rettskilde for underordnet påtalemyndighet. For spørsmål eller sakstyper som ikke blir gjenstand for rettslig overprøving, vil påtalemyndighetens praksis derfor rent faktisk bli avgjørende for rettstilstanden.»
 
-3.4.8
+1.  **Doble styringssignaler – en systemisk utfordring**
 
-Forholdstall
+Når et begrenset gode skal fordeles, vil det kunne oppstå interessemotsetninger og målkonflikter mellom ulike interessenter – herunder mellom Politidirektoratet og Riksadvokatembetet. Fordelingen av, og viljen til å bruke makt og tilgang til ressurser, står sentralt. Dette synliggjør utfordringen med det doble styringsløpet. Politidirektøren sitter på ressursene som riksadvokaten ønsker å benytte til bestemte oppgaver. Er vurderingen dem imellom synkron, fungerer ting, men i praksis er det selvsagt omtrent umulig å få et helt stringent system.
 
-Påtaleanalyseutvalget har vurdert om det vil være
-naturlig forsøksvis å angi noe om ønsket sammenheng mellom antall etterforskere, påtalejurister
-og statsadvokater. I dialogen med Riksadvokatembetet har en slik tilnærming blitt møtt med noe
-skepsis ut fra følgende argumentasjon:
-Kriminalitetsbildet varierer mellom statsadvokatregionene og påvirker andelen av saker hvor
-statsadvokatene skal avgjøre tiltalespørsmålet, og
-andelen saker som etter loven skal aktoreres av
-statsadvokatene. En annen faktor som påvirker
-ressursbruken ved statsadvokatembetene, er antallet politijurister uten utvidet påtalekompetanse.
-Erfaring viser at utskiftinger/nytilsettinger av politijurister kan ha betydelig – og varierende – innvirkning på statsadvokatenes arbeidsmengde.
-Dette bidrar til at saksmengden ved det enkelte
-statsadvokatembete kan veksle fra år til år. En stor
-økonomisk straffesak, som dukker opp fra tid til
-annen, kan medføre betydelige belastninger over
-flere år og kan få langt større konsekvenser enn
+Politidirektoratet har også andre oppgaver, illustrert i figur 4.5.
 
-53
+**\[:figur:figX-X.jpg\]**
 
-Kapittel 3
+Politidirektoratet har om denne problemstillingen vist til at politimestrene har en krevende utfordring når de skal ressurssette de ulike virksomhetsområdene. I de senere år har det vært mye oppmerksomhet rettet mot politioperative gjøremål, og i noe mindre grad mot etterforsking og påtale. Handlingsplanen for løft av etterforskingsfeltet representerer derfor noe nytt, og forventningene til denne satsingen er stor, både internt og eksternt.
 
-Påtalemyndigheten i politiet –
-roller og rollebeskrivelser
+1.  **Erfaringer fra Danmark og Sverige**
 
-3.5.1 Innledning
-Som utvalget vil redegjøre nærmere for senere i
-dette kapitlet, er påtalejuristrollen både kompleks,
-variert, utfordrende og spennende. Dette utgangspunktet innebærer samtidig at det blir viktig å definere rollen – hva ligger i ansvar og myndighet?
-Og samsvarer disse elementene? Som leder av etterforskingen ligger det en klar forutsetning om
-at påtalemyndigheten skal ha en sentral rolle i etterforskingen. «Godt påtalearbeid i politiet er således en nøkkel til kvalitet», som uttrykt av Straffeprosessutvalget.19 Et tett og godt samarbeid med
-de politifaglige ansatte er selvsagt en avgjørende
-forutsetning for å lykkes i rollen. Samtidig blir
-fagutøvelsen enklere hvis det ligger en prinsipiell
-klargjøring av ansvaret og myndigheten påtalejuristen har.
-3.5.2 Politimester
-Politimesteren er den øverste lederen av politidistriktet og er utnevnt i åremål på seks år. I Prosjekt
-nye politidistrikt (PNP)20 er politimesterens rolle
-beskrevet på følgende måte:
-«Politimesteren har som politidistriktets øverste leder totalansvaret i politidistriktet. Politi19
-20
+I Danmark utga Riksadvokaten og rikspolitisjefen for perioden 2011–2015 en felles strategisk plan for «politiets og anklagemyndighedens arbejde».[^127] Det er i forordet til strategiplanen presisert at den innebærer noe mer enn en «række velmente hensigtserklæringer. Den skal være den fælles platform, vi alle arbejder ud fra». Dokumentet går deretter gjennom hvilke felles utfordringer de to etatene står overfor, og hvilke forandringer som må gjøres før det formuleres en felles misjon og visjon for de to etatene. Deretter er det en gjennomgang av de overordnede mål man skal jobbe mot, og til slutt noe om fokusområder det skal rettes særlig oppmerksomhet mot.
 
-NOU 2016: 24 side 188.
-PNP er innføringsprosjektet til Nærpolitireformen.
+Det heter innledningsvis at formålet er fremtidig planlegging av «hvordan de samlede ressourcer helt overordnet bør anvendes». Videre sies det at «i de lokale strategier i politikredsene udmøtes denne overordnede strategiske plan, politiets handlingsplaner, den nationale strategiplan for politiets operative innsats og anklagemyndighetens delstrategi i èn felles strategi, som sætter retningen for arbejdet i politi og anklagemyndighet i den enkelte kreds».
 
-[Side 56]
+I tillegg til dette felles dokumentet har Anklagemyndigheden også et eget styringsdokument for sin virksomhet.[^128] De strategiske målene og områder de fokuserer på i 2016, er:
 
-54
+- kvalitet i straffesaksbehandlingen
 
-NOU 2017: 5
+- anklagemyndighetens produktivitet
 
-Kapittel 3
+- styring av saker om økonomisk kriminalitet
 
-En påtalemyndighet for fremtiden
+- et samlet konsern
 
-riksadvokat, rutinemessig sørger for å bli orientert om saker som er av særlig stor allmenn
-interesse, er særskilt alvorlig eller reiser spesielt prinsipielle spørsmål. Politimesteren har
-både rett og plikt til å handle når vedkommende blir gjort oppmerksom på forhold som
-gir grunn til å stille spørsmål ved behandlingen
-av en straffesak i distriktet. Det ligger ikke i
-dette at politimesteren selv forventes å sette
-seg inn i sakens enkeltheter, men at han eller
-hun må sørge for at saken følges opp på adekvat måte, det være seg ved selv eller gjennom
-underordnede å gi direktiver om behandlingen, be påtaleleder vurdere hva som skal gjøres i saken, få saken overført til en annen påtalejurist, forelegge den for statsadvokaten for
-vurdering eller anmode om en uttalelse fra
-Kripos. Hva som er påkrevd, beror naturligvis
-på den enkelte sak; det avgjørende er at politimesteren påser at saken følges opp på forsvarlig måte. Det understrekes at de forventninger
-som her er beskrevet ikke er ønskemål fra riksadvokatens side, men pålegg til politimestrene
-i egenskap av å høre til påtalemyndigheten.»
+Denne planen er koordinert med mål- og resultatplanen for politiet og utgjør til sammen det samlede styringsgrunnlag for politiet og anklagemyndigheden (2016).[^129]
 
-mesteren deltar i politidirektørens nasjonale
-ledergruppe og rapporterer til Politidirektøren.»
-Særlig relevant for utvalget er politimesterens
-funksjon som øverste ansvarlig for påtalemyndigheten i sitt distrikt. Politimesteren er en del av påtalemyndigheten, jf. straffeprosessloven § 55 første ledd nr. 3. Som utgangspunkt må vedkommende da ha juridisk embetseksamen eller master i rettsvitenskap, men det er adgang for Kongen
-å bestemme at en person uten slik utdanning kan
-tilhøre påtalemyndigheten, jf. § 55 annet ledd. I utlysningsteksten til politimesterstillingene i de nye
-distriktene ble det stilt krav om mastergrad, fortrinnsvis i juss/rettsvitenskap. Av dagens politimestere er elleve av tolv jurister, hvorav fire av
-dem også er politiutdannet. Den ene av de tolv er
-politiutdannet med et tillegg av en mastergrad i offentlig ledelse. Totalt sett har fem av tolv politimestere politiutdanning.
-Ansvaret som leder av påtalemyndigheten i
-distriktet fremgår også av PNP, og de rammene og
-retningslinjene som der er gitt. Dette ansvaret er
-fastslått av riksadvokaten: «Politimesteren har ansvaret for straffesaksbehandlingen i distriktet,
-herunder at målene nås».21 I forlengelsen er det i
-samme rundskriv uttalt at dette betyr et ansvar for
-at «straffesaksbehandlingen i distriktet holder
-høy kvalitet. Kvalitetskravet gjelder alle sider ved
-straffesaksbehandlingen, og knytter seg både til
-generelle rutiner og til den enkelte sak».22 Dette
-ansvaret ble ytterligere tydeliggjort av riksadvokaten i hans brev av 26. januar 2016 i anledning den
-såkalte Monika-saken, hvor det avslutningsvis er
-uttalt:
-«Når det er sagt, så er det selvsagt ikke praktisk mulig, og heller ikke hensiktsmessig, at
-politimesteren driver detaljledelse av den ordinære saksbehandling som utføres av etterforskere eller jurister i politidistriktet. I enda mindre grad vil dette gjelde i den nye politistruktur
-med større distrikter. Det kan heller ikke forventes at faglige spørsmål i enkeltsaker bringes opp til politimesteren, ei heller at politimesteren skal holdes løpende orientert om alle
-alvorlige saker som etterforskes i politidistriktet. Men riksadvokaten forventer at politimesteren, i egenskap av å være leder for den lokale
-påtalemyndighet i linjen under statsadvokat og
-21
+1.  **Faktisk gjennomslagskraft**
 
-Rundskriv 2/2012, Krav til straffesaksbehandlingen i politiet og ved statsadvokatembetene side 2.
-22
-Rundskriv 2/2012 side 3.
+Et sentralt spørsmål er hvilken *faktisk* gjennomslagskraft riksadvokatens styringssignaler har.
 
-Av brevet fremgår det at politimesteren må ha en
-instruksjonsrett internt i eget distrikt om utføringen av etterforskingen utover det å flytte en sak til
-en annen.23
-I PNP er ansvaret og nøkkeloppgavene for politimesteren i straffesaksarbeidet beskrevet slik:24
-– utøve strategisk styring og lokal ledelse av
-straffesaksarbeidet.
-– gjennom virksomhetsstyring sikre at lokal påtalemyndighet gis nødvendige betingelser –
-både økonomisk og organisatorisk – for å utøve
-påtalearbeidet på en effektiv og kvalitetsmessig forsvarlig måte
-– sørge for systematisk oppfølging av kvalitet og
-måloppnåelse i straffesaksarbeidet
-– holde seg orientert om saker som er av særlig
-stor allmenn interesse, er særskilt alvorlige eller reiser prinsipielle spørsmål
-– på en adekvat og forsvarlig måte følge opp saker hvor man er gjort oppmerksom på forhold
-som gir grunn til å stille spørsmål ved behandlingen av en straffesak i distriktet, herunder gi
-pålegg om behandling av pågående straffesaker i distriktet – i tråd med det som ellers gjelder i forholdet mellom over- og underordnede
-i den offentlige forvaltning – med de begrens23
-24
+Her kan en for tankens skyld se for seg at totalen av innkomne oppgaver på tjenestested X legger beslag på 150 prosent av den samlede kapasiteten. Noe må legges til side. I realiteten står en her overfor to sett av spørsmål:
 
-Se punkt 2.8.3.
-Rammer og retningslinjer for etablering av nye politidistrikt, side 139-140.
+- *Hva* prioriteres når summen av oppgaver overgår tilgjengelige ressurser?
 
-[Side 57]
+- *Hvem* skal (og bør) foreta denne prioriteringen?
 
-NOU 2017: 5
-En påtalemyndighet for fremtiden
+Politiets ledelse har en krevende jobb når den skal utnytte det tildelte budsjettet på en effektiv måte og skape balanse mellom pålagte gjøremål og tilgjengelige ressurser. I alle organisasjoner er det slik at det til tross for noenlunde balanserte styringssignaler uansett vil oppstå en lang rekke situasjoner hvor den enkelte må gjøre konkrete valg, det vil si identifisere hvilke av flere prioriterte saker/oppgaver som skal nedprioriteres. Valget står i realiteten mellom to ytterpunkter:
 
-–
-–
-–
+- redusere kravet til kvalitet («ostehøvelprinsippet»)
 
-ninger som følger av lov, forskrift eller instruks
-fra overordnet påtalemyndighet
-beslutte politimesteranke, jf. straffeprosessloven § 68, tredje ledd
-beslutte bruk av særskilte etterforskningsmetoder, jf. straffeprosessloven §§ 216d, 216m,
-202 b–c, 202a og § 208 a
-varsle Spesialenheten for politisaker ved mistanke om straffbare handlinger begått av ansatte jf. straffeprosessloven § 67, sjette ledd, jf.
-påtaleinstruksen § 34-5, og iverksette nødvendig etterforskning jf. påtaleinstruksen § 34-6
-andre og fjerde ledd, jf. RA rundskriv 3/2006
-kap. VI, pkt. 2.2.
+- unnlate å utføre enkelte oppgaver («bortprioritere»)
 
-3.5.3 Visepolitimester
-I PNP er rollen visepolitimester beskrevet på følgende måte:
-«Politidistriktene skal ha en visepolitimester
-som fast stedfortreder for politimester. Visepolitimester rapporterer til politimesteren.»
-Gjennom Nærpolitireformen er det lagt opp til at
-visepolitimestrene ikke skal lede en organisatorisk enhet, slik det har vært praksis for tidligere. I
-stedet vil vedkommende ivareta og få delegert
-ulike oppgaver innen politimesterens totale fag-,
-personell- og budsjettansvar. Dette anses i et organisasjons- og ledelsesmessig perspektiv som klart
-fordelaktig. Det prinsipielt vanskelige spørsmålet
-har knyttet seg til spørsmålet om tildeling av påtalekompetanse. Politimesteren er som kjent leder
-av den lokale påtalemyndighet. Av dagens visepolitimestere er syv juristutdannet, mens fem er
-politiutdannet. To av de fem har tidligere hatt påtalekompetanse i kraft av sine stillinger som politimester og visepolitimester.
-Lovens utgangspunkt er at visepolitimesteren
-anses som en del av påtalemyndighetens tjenestemenn dersom vedkommende innehar juridikum/master i rettsvitenskap, jf. straffeprosessloven § 55 første ledd nr. 3. Annet ledd gir Kongen
-adgang til å bestemme at også personer uten
-denne kompetansen skal tilhøre påtalemyndigheten. Lovgiver har forutsatt at adgangen skal praktiseres med varsomhet og etter en individuell vurdering. Departementet begrunnet ordningen med
-at det ikke kunne «utelukkes at det i særskilte tilfeller kan bli spørsmål om å gi en kvalifisert politiembetsmann eller -tjenestemann påtalemyndighet
-selv om han ikke har juridisk embetseksamen».25
-Justiskomiteen understreket for sin del at unntak
+Hvordan skjer i slike situasjoner de *egentlige* prioriteringene? Hvordan foregår prosessene, hva er styrende for valgene? Er det politiet eller påtalemyndigheten som rent faktisk foretar denne prioriteringen? Og i hvilken grad tas det hensyn til riksadvokatens prioriteringer?
 
-55
+Til tross for at politiets og påtalemyndighetens ressurser ikke strekker til for å etterforske alt, anser Påtaleanalyseutvalget det nødvendig å minne om at prioriteringer er et sentralt ansvar, og at dette ansvaret ligger til henholdsvis riksadvokaten og Politidirektoratet. Innenfor definerte rammer er det på nivået under (den enkelte politidistrikt) behov for et visst handlingsrom. Kriminalitetsbildet i de ulike politidistriktene kan variere, og det oppstår jevnlig hendelser som må prioriteres selv om de ikke direkte fremgår av de sentrale prioriteringene. Likevel må hovedregelen være at sentrale prioriteringer etterleves og har lokal gjennomslagskraft. Graden av oppfølging i distriktene må derfor synliggjøres overfor de sentrale myndigheter, slik at avvik identifiseres og følges opp.
 
-Kapittel 3
+1.  **Tilbakemeldinger fra respondentene**
 
-fra kompetansekravet i første ledd nr. 3 forutsatte
-at det «ligg føre spesielle tilhøve».26
-Da visepolitimester-stillingene ble utlyst høsten 2016 ble spørsmålet om tildeling av påtalekompetanse til visepolitimestre uten juridisk embetseksamen eller mastergrad i rettsvitenskap aktualisert.
-Riksadvokatens grunnsyn har vært at juridisk
-utdanning må være en forutsetning.27
-Bakgrunnen for denne restriktive praktiseringen av de særlige kompetansekravene som oppstilles i loven, har formentlig flere begrunnelser:
-– For det første det faktum at politimester/visepolitimesters påtalemyndighet utgjør en vesentlig rettssikkerhetsgaranti. De avgjørelser
-som ligger til rollen i form av skjulte metoder,
-er svært inngripende for enkeltpersoner. Dette
-tilsier at personene som tildeles slik påtalemyndighet nødvendigvis må ha særlige kunnskaper som setter dem i stand til å foreta den
-pålagte legalitetskontrollen.
-– For det andre betyr dette at en visepolitimester
-uten juridikum/master i rettsvitenskap får en
-instruksjonsmyndighet overfor politidistriktets påtalejurister, se punkt 2.8.3.
-– For det tredje er det en generell uro i påtalemyndigheten for at «generelle tildelinger» vil
-kunne skape forventninger om en ny praksis
-for administrativ tildeling av påtalemyndighet,
-noe som på sikt kan bidra til å underminere påtalejurist-rollen og dens gjennomslagskraft.
-I brev av 12. desember 2016 anmoder Justis- og
-beredskapsdepartementet riksadvokaten og Politidirektoratet om en felles tilrådning.
-På denne bakgrunn skriver riksadvokaten i
-brev av 5. januar 2017 følgende:
-«Slik visepolitimesterrollen nå er definert, hvor
-funksjonen som politimesterens stedfortreder
-står sentralt i den daglige virksomhet, vil det i
-praksis utvilsomt være hensiktsmessig, og formentlig også et behov for at visepolitimesteren
-kan gis påtalemyndighet. Riksadvokaten har
-vurdert om det bør foretas en egen høring for
-å kartlegge behovet og andre mulige organisasjonsmessige alternativer nærmere, men det
-synes allerede klart at påtalemyndighet for visepolitimesteren er en viktig forutsetning for
-25
-26
-27
+Utvalgets hovedinntrykk, etter at tematikken har vært et sentralt samtaleemne med samtlige respondenter, er at den reelle gjennomslagskraften til de sentrale prioriteringene er varierende. Flere uttrykker at de sentrale prioriteringene er viktige og ses hen til når man skal prioritere saker. Andre peker på utfordringer i det daglige når de konkrete prioriteringene gjøres. Spenningsforholdet mellom produksjon og måloppnåelse på den ene siden og kvalitet på den andre siden, kommer på spissen.
 
-Ot.prp. nr. 35 (1978–79) side 113.
-Innst. O. nr. 37 (1980–81) side 16.
-Se riksadvokatens brev av 5. september 2002 til Politidirektoratet.
+Det pekes på at den faktiske gjennomslagskraften til de sentrale prioriteringene lider av at Riksadvokatembetet er underdimensjonert, sett i forhold til den viktige oppgaven embetet forvalter og leder. Ubalansen forsterkes av at Politidirektoratet både har vesentlig større kapasitet enn Riksadvokatembetet, og dessuten har hånd om pengebruken i politiet. Fra utøvende påtalejurister i politiet uttrykkes det bekymring for at denne ubalansen mellom de to styrende myndighetene påvirker balansen mellom produksjon og kvalitet. Politidirektoratet har et særlig fokus på produksjonen av saker, og at sakene går gjennom systemet. Riksadvokaten har det overordnede ansvaret for å påse at den faglige kvaliteten er god nok. I dette spenningsforholdet gis det uttrykk for at kvaliteten i mange tilfeller blir taperen.
 
-[Side 58]
+En av respondentene formulerte seg slik:
 
-56
+«Jeg opplever å ha en daglig leder og en faglig leder. Jeg kommer stadig i en skvis mellom disse to. Produksjon står mot kvalitet. Jobben min bør gå ut på noe mer enn bare å levere produksjonstall til POD, men slik er det dessverre ikke!«
 
-NOU 2017: 5
+En annen:
 
-Kapittel 3
+«Påtalejuristene har blitt saksbehandlere. Volum og produksjon dominerer. Jeg etterlyser en vilje fra toppen hvor det signaliseres at man skal/bør ha innflytelse på prioriteringene i politiet.»
 
-En påtalemyndighet for fremtiden
+Fra Politijuristene var følgende dekkende for tilbakemeldingen til utvalget:
 
-en vellykket gjennomføring av politireformen,
-og hvor også «enhetstanken» står sentralt. (…)
-På denne bakgrunn er riksadvokaten villig
-til å tilrå overfor departementet at også visepolitimestre uten juridisk embetseksamen eller
-mastergrad i rettsvitenskap skal kunne anses
-som en del av påtalemyndigheten. Som nevnt
-krever imidlertid § 55 annet ledd at det foretas
-en konkret og individuell vurdering av om den
-enkelte visepolitimester er skikket til å tildeles
-påtalemyndighet. Erfaring fra rettsanvendelse,
-straffesaksbehandling og især skjult metodebruk må stå sentralt i denne vurderingen.
-(…).»
-Påtaleanalyseutvalget mener at problemstillingen
-har en viktig side til påtalemyndighetens uavhengighet og gjennomslagskraft, og fortjener en
-grundig overveielse. En alternativ løsning vil
-være at distriktets påtaleleder ivaretar politimesterrollen i påtalespørsmål for de tilfeller at visepolitimester ikke har juridisk embetseksamen eller
-master i rettsvitenskap. Se også Straffeprosessutvalget punkt 8.2.3.2.
-
-–
-–
-
-sikre kunnskaps- og informasjonsflyt og kompetanse- og fagutvikling
-ha overordnet ansvar for rekruttering, opplæring, planlegging, utvikling og vedlikehold av
-kompetanse
-
-3.5.5 Påtalejurist
-En påtalejurist i politiet kan ha mange forskjellige
-oppgaver. Grovt sett kan man si at rollen omfatter
-det å ha den påtalemessige ledelsen av etterforskingen, ansvar for egen portefølje, jourtjeneste
-og aktorering. Rollen som etterforskingsleder
-skal skje i tett samarbeid med den politifaglige etterforskingslederen. Samspillet mellom disse
-funksjonene omtales nærmere i kapittel 5.
-Rollene utøves nok på forskjellig måte fra distrikt til distrikt, innad i samme distrikt eller endog
-innad i samme enhet. Dette vil ofte variere på
-grunn av forutsetninger og personlighet, men
-også hvordan man forstår rollen og ansvaret man
-er tillagt. Klare og gode rammer for å utøve rollen
-og ansvaret er derfor av stor betydning.
-
-3.6
-3.5.4 Påtaleleder
-Påtaleleder er i de nye politidistriktene faglig og
-administrativ leder for Felles enhet for påtale,
-med alminnelig budsjett-, personal-, mål- og resultatansvar for påtalejuristene i distriktet. Påtalelederen er faglig ansvarlig for distriktets straffesaksarbeid, med direktivmyndighet innen eget
-fagområde.
-Det nærmere ansvaret og nøkkeloppgavene er
-i PNP beskrevet slik:28
-– på vegne av politimester ivareta løpende kontakt med den høyere påtalemyndighet, domstolene og andre eksterne aktører og samarbeidsparter på straffesaksområdet
-– følge opp styringssignaler og øvrige direktiver
-fra den høyere påtalemyndighet og sørge for at
-disse operasjonaliseres i politidistriktet
-– følge opp statsadvokatens tilsynsrapporter og
-iverksette tiltak for å avhjelpe avvik
-– forestå løpende statusrapporteringer til politimester om distriktets straffesakarbeid, herunder kvalitet og måloppnåelse
-– legge til rette for en effektiv samhandling med
-distriktets etterforskingsmiljøer og øvrige fagmiljøer
-28
-
-Rammer og retningslinjer for etableringen av nye politidistrikt, side 140–141.
-
-Den høyere påtalemyndighet –
-roller og rollebeskrivelser
+«Med et underdimensjonert Riksadvokatembete har Politidirektoratet tatt hele det strategiske rommet. En dramatisk ubalanse. Påtalemyndigheten burde ivareta kvaliteten, sette standardene. Da må Riksadvokaten settes i stand til det. Det mangler en bærekraftig struktur sentralt. I dag gjør Politidirektoratet i realiteten som de vil.»
 
-3.6.1 Innledning
-Riksadvokatembetet opererer med stillingskrav
-og stillingsbetegnelse for de enkelte rollene man
-kan ha som påtalejurist i Den høyere påtalemyndighet. Det er i alt åtte stillingskategorier. Kravene og funksjonsbeskrivelsene er i stor grad lik
-for alle de åtte rollene, med enkelte unntak.
-3.6.2 Førstestatsadvokat
-Stillingskategorien førstestatsadvokat finner en
-både ved Riksadvokatembetet og ved statsadvokatembetene, blant annet i stillingen som embetsleder. Førstestatsadvokatstillingen er i hovedsak en
-lederstilling.
-3.6.3 Statsadvokat
-Statsadvokat er den alminnelige betegnelsen på en
-påtalejurist ansatt i Den høyere påtalemyndigheten. En statsadvokat ved Riksadvokatembetet har
-imidlertid et noe utvidet ansvar ved i tillegg å ha et
-fordypnings- og fagansvar innenfor særskilte områder. Ved Oslo statsadvokatembeter er enkelte
-statsadvokater spesialister, tillagt særskilt fagansvar.
-
-[Side 59]
-
-NOU 2017: 5
-En påtalemyndighet for fremtiden
-
-57
+En av respondentene (med tilslutning fra ledelsen i det aktuelle politidistriktet) ga følgende redegjørelse for tematikken gjennomslagskraft da utvalget besøkte politidistriktet:
 
-Kapittel 4
+«Min opplevelse i hverdagen er at sentrale prioriteringer i liten grad forstås som nettopp det i førstelinjen. Statsadvokater, politimestre, påtaleledere, og til dels påtalejurister og ledere på etterforskning, forstår føringene. Men nedover i rekkene er erfaringen at det er prioriteringer nedenifra som står seg best. Det gir seg ulike utslag – eksempelvis i kvaliteten på straksetterforskningen og hvilken skjebne sakene får hos etterforskerne (som i stor utstrekning identifiserer seg med ordensmannskapet). I neste omgang påvirker det selvsagt rollen til påtalejuristen og hvilken innsats denne må legge ned for å sikre at de viktige sakene faktisk blir prioritert. La meg ta et par eksempler som jeg har opplevd i en rekke voldssaker (både §§ 271/272/273 men også 282/283).
 
-Kapittel 4
+- Voldsutøvelse innad i et kriminelt miljø. Her synes en viktig (avgjørende) faktor å være hva som er mulig å få til snarere enn de sentrale prioriteringene.
 
-Hva er styrende for påtalemyndighetens arbeid?
-4.1
-
-Innledning
-
-Påtalemyndighetens arbeidsoppgaver er mange.
-Frem til påtalemyndigheten treffer et påtalevedtak, er det foretatt en rekke valg og prioriteringer.
-Det er politimesteren som er den lokale leder
-av påtalemyndigheten. Det daglige, praktiske arbeidet skjer imidlertid i en samhandling mellom
-påtalejurist og etterforsker. Riksadvokatens prioriteringer gjelder for påtalemyndigheten på alle nivåer. For påtalejuristene gjelder også politimesterens operasjonalisering av disse prioriteringene,
-og også av Politidirektoratets prioriteringer. Her
-kan det oppstå et spenningsforhold.1
-Politimesteren styrer ressurser inn mot å bekjempe én type kriminalitet, helt eller delvis på bekostning av en annen type kriminalitet. Påtalejuristen beslutter at det skal innledes etterforsking
-av sak A, men ikke av sak B. Noen prioriteringer
-gir seg selv; alvorlig kriminalitet skal prioriteres
-fremfor den mindre alvorlige. Samtidig er det ikke
-alltid åpenbart hva som er alvorlig, eller hvor alvorlig en type lovbrudd er. Dette kan også endres
-over tid; vold i nære relasjoner anses for eksempel
-i dag som betydelig mer alvorlig enn for få år tilbake.
-I påtaleinstruksen § 7-5 tredje ledd heter det:
-«Påtalemyndigheten gir nærmere generelle
-regler om prioritering og gjennomføring av
-etterforskingen i straffesaker.»
-Samtidig viser utvalgets undersøkelser og tilbakemeldingene fra respondentene at påtalemyndighetens gjennomslagskraft, spesielt på operativt nivå,
-oppleves svært varierende. I tråd med at det i
-mandatet heter at analysen skal vie «særlig oppmerksomhet til påtalemyndighetens (…) gjennomslagskraft», har utvalget diskutert hva som
-eventuelt kan være årsaken og forklaringen(e) til
-misforholdet mellom formell myndighet gitt av
-1
-
-Se punkt 4.9.2.
-
-lovgiver, og reell gjennomslagskraft i daglige og
-løpende prioriteringer.
-En mulig forklaring kan være av systemisk art
-og karakter – det følger av det tosporede system
-at ressursene ligger i det andre sporet, og at påtalejuristen ikke har et «ris bak speilet» hvis prioriteringer ikke følges. Med dette for øyet har Stortinget presisert og understreket viktigheten av at
-riksadvokatens prioriteringer følges.2
-I dette kapittel behandles rammene og sentrale påvirkningsfaktorer som riksadvokaten for
-sin del må ta hensyn til når han gir sine prioriteringer og direktiver. Underveis omtales også respondentenes syn på prosessen som ligger til
-grunn for utformingen av prioriteringene. Avslutningsvis reises spørsmålet om hvilken reell gjennomslagskraft påtalemyndighetens prioriteringer
-har i hverdagen for den enkelte påtalejurist og etterforsker. Er det andre faktorer som påvirker den
-daglige virksomheten og prioriteringen? I så fall
-hvilke? Dette samspillet mellom en rekke faktorer
-er illustrert med følgende skisse, se figur 4.1.
-
-4.2
-
-Samfunnsoppdraget
-
-Helt grunnleggende i påtalemyndighetens virksomhet er samfunnsoppdraget. Dette er ikke uttrykkelig definert i lovgivningen, men kan utledes
-av den rollen påtalemyndigheten er gitt i straffesaksbehandlingen gjennom lov og forskrifter. I
-utvalgets mandat heter det:
-«Påtalemyndighetens samfunnsoppdrag er å
-ivareta borgernes rettssikkerhet under politiets etterforskning.»
-Det heter videre i mandatet:
-«Gjennom god ledelse av etterforskningsarbeidet skal påtalemyndigheten bidra til at håndheving av lover og regler gir en effektiv kriminali2
-
-Innst. 6 S - 2014–2015 side 35
-
-[Side 60]
-
-58
-
-NOU 2017: 5
-
-Kapittel 4
-
-En påtalemyndighet for fremtiden
-
-Politiske føringer
-
-Samfunnsoppdraget
-(pkt. 4.2)
-
-Kriminalpolitikken
-(pkt. 4.3)
-
-Riksadvokatembetet
-(pkt. 4.4, 4.5)
-
-PÅVIRKNINGSFAKTORER
-Rettsutvikling (pkt. 4.6)
-Riksadvokatembetet
-Strategiske
-analyser (pkt. 4.7)
-(pkt. 4.4,
-4.5) etat (pkt. 4.8)
-Erfaringer
-fra egen
-
-Påtalemyndigheten og politiet
-(pkt. 4.9)
-
-Gjennomslagskraft
-
-Figur 4.1
-tetsbekjempelse og legger til rette for et best
-mulig grunnlag for at domstolene treffer riktige avgjørelser og ilegger adekvate reaksjoner.»
-Regjeringens hovedmål for straffesakskjeden ble i
-2016 angitt på følgende måte:
-– redusert alvorlig kriminalitet
-– styrket forebygging
-– en mer effektiv straffesaksbehandling
-I budsjettproposisjonen for 20173 fremgår det at
-politiet skal forebygge og bekjempe kriminalitet
-og skape trygghet for befolkningen, hvilket skal
-skje gjennom et moderne og handlekraftig politi.
-Dette samsvarer godt med riksadvokatens forståelse av samfunnsoppdraget til den høyere påtalemyndighet, slik denne er nedfelt i Riksadvokatembetets virksomhetsplan for 2016:
-«Hovedmålet for Riksadvokatembetet er å
-bidra til redusert kriminalitet ved målrettet og
-effektiv straffesaksbehandling, samtidig som
-kravene til høy kvalitet og rettssikkerhet ivaretas.»
-Riksadvokaten har utdypet dette slik:4
-3
-4
-
-Prop. 1 S (2016–2017).
-Riksadvokatembetets gjennomgang på Svalbardkurset
-2015.
-
-–
-–
-–
-–
-
-Strafferettssystemet, inkludert oppgaveløsningen, skal til enhver tid tåle et kritisk lys.
-Det humane preget på strafferettspleien har en
-egenverdi og må beholdes.
-Rettssikkerhet i vid forstand er av avgjørende
-betydning, også i et tillitsperspektiv.
-Kritisk distanse til etterforskingen i politiet,
-men heller ikke fjern og passiv.
-
-Til tross for at samfunnsoppdraget legger grunnlaget for påtalemyndighetens virksomhet, kan Påtaleanalyseutvalget ikke se at det foreligger en
-omforent definisjon av oppdraget. Utvalget har
-derfor funnet det hensiktsmessig selv å definere
-dette, se punkt 11.2.
-
-4.3
-
-Kriminalpolitikken
-
-4.3.1 Lovgivningen
-Påtalemyndigheten skal bidra til håndheving av
-lover og regler. Det er Stortinget som vedtar
-hvilke handlinger som skal kunne straffes, i første
-rekke gjennom straffeloven, men også ved en
-rekke straffebestemmelser i spesiallovgivningen.
-Når Stortinget vedtar en straffebestemmelse, ligger det i dette en forutsetning om at påtalemyndigheten skal håndheve bestemmelsen ved å etterforske det som er definert som straffbart, og
-påtaleavgjøre sakene. Som utvalget kommer til-
-
-[Side 61]
-
-NOU 2017: 5
-En påtalemyndighet for fremtiden
-
-bake til, er det imidlertid ikke praktisk mulig å etterforske og iretteføre alle typer lovbrudd. Det er
-nødvendig å foreta prioriteringer.
-Lovgivningen er også styrende for hvordan påtalemyndigheten skal jobbe, i første rekke gjennom straffeprosessloven. Også påtaleinstruksen
-er sentral ved at den regulerer mange sider ved
-påtalemyndighetens arbeid.
-
-4.3.2 Økt politisk oppmerksomhet
-En sentral form for prioritering er kriminalpolitikken. Gjennom den rådende kriminalpolitikken gis
-politiske signaler om hvilke typer kriminalitet som
-skal prioriteres. Det politiske engasjementet
-rundt dette feltet har vært økende. Jørn R.T. Jakobsen redegjør i Fragment til forståing av den
-rettsstatlege strafferetten5 for en strafferettsutvikling preget av økt politisering, internasjonalisering og effektiviseringskrav. Mens eksperten på
-1800-tallet først og fremst var strafferettsjuristen,
-ble vedkommende utover på 1900-tallet supplert
-av kriminologer, sosiologer og psykologer.
-På slutten av forrige årtusen begynte også politikerne å vise interesse for utformingen av strafferetten, en endring Jakobsen beskriver særlig
-har kommet til syne på to måter:
-«For det fyrste ventar ikkje lenger politikarane
-på eksperten, men tek sjølve initiativ til å gjera
-endringar i strafferetten. Det er til dømes snarere vanleg å sjå at politikarar både i valkampar
-og i den daglege politiske diskusjonen tek til
-orde for kriminalisering og bruk av strengare
-straff som respons på ulike (gjerne mediaformidla) sosiale problem eller utfordringar. For
-det andre viser politikarane seg meir og meir
-sjølvstendige i møte med eksperten og denne
-sin kunnskap, i den meininga at politikaren
-gjerne set sine eigne erfaringar og common
-sense-resonnement framfor dei meir vitenskapleg funderte kunnskapene (…).»
-Årsakene til inntoget av politikere på strafferettens område er sammensatt. Det er samtidig ingen tvil om at mange enkeltsaker gis stor oppmerksomhet i media, og fra slike oppslag er veien
-til politikerne kort, ikke minst i saker som har en
-negativ vinkling. Uansett må det legges til grunn
-at dette er et område hvor politikerne fremover vil
-ønske å vise handlekraft, hvor de kan være både
-aktive og synlige i medielandskapet. For påtale5
-
-Jørn R.T. Jakobsen: Fragment til forståing av den rettsstatlege strafferetten 2009 side 48 flg.
-
-59
-
-Kapittel 4
-
-myndigheten har denne utviklingen medført at
-tangeringspunktene og båndene til våre folkevalgte blir stadig tettere. Også det økende tempoet i lovgivningsprosessen, ofte utledet av enkeltsaker som er gitt stor oppmerksomhet i media,
-har bidratt til å minske avstanden mellom enkeltsaksbehandlingen og kriminalpolitikken.
-Dette underbygger viktigheten av å verne om
-uavhengigheten.
-
-4.3.3
-
-Kriminalpolitikkens betydning for
-påtalemyndigheten
-Den gjeldende kriminalpolitikken er styrende for
-de prioriteringer som foretas internt i påtalemyndigheten. Direktiver, mål og prioriteringer fra
-riksadvokaten er forankret i kriminalpolitiske føringer. Gjennom sin bevilgende myndighet trekker Stortinget opp hovedlinjene i kriminalpolitikken, også for påtalemyndighetens virksomhet.
-Innenfor disse rammene har regjeringen, ved Justis- og beredskapsdepartementet, det overordnede ansvar for gjennomføringen av kriminalpolitikken. De styringssignaler som riksadvokaten
-skal fastsette, er slik sett i betydelig grad under
-innflytelse fra andre. Ved fastsettelsen av målene
-vektlegger riksadvokaten særlig det som kommer
-til uttrykk i St.prp. nr. 1 og Budsjett-innst. S. Også
-andre signaler, eksempelvis uttalelser fra Stortinget om straffenivået i forbindelse med lovendringer, blir hensyntatt. På den annen side må
-nevnes at riksadvokaten slik som andre etatsledere, har en viss innflytelse på innholdet i Prop. 1
-S idet det er dialog med departementet om mål og
-prioriteringer før proposisjonen behandles i regjeringen.
-Etter at statsbudsjettet er vedtatt, skjer budsjettfordelinger i påtalemyndigheten og politiet.
-Første steg i denne prosessen er tildelingsbrevet
-fra Justis- og beredskapsdepartementet. Tildelingsbrevet i 2015 inneholdt viktige endringer, forankret i regjeringens politikk og formuleringene i
-statsbudsjettet. Blant annet ble det vedtatt en ny
-målstruktur, basert på det såkalte kjedeperspektivet – «asylkjeden, straffesakskjeden og området
-samfunnssikkerhet og beredskap». Av synlige
-endringer for øvrig kan nevnes at oppklaringsprosent (tidligere 38 prosent for forbrytelser på
-landsbasis) ble fjernet og erstattet av et økt fokus
-på forebygging og prioritering av de mest alvorligste sakene: grov profittmotivert og alvorlig integritetskrenkende kriminalitet.
-I Tildelingsbrevet for 20176 heter det blant annet:
-
-[Side 62]
-
-60
-
-NOU 2017: 5
-
-Kapittel 4
-
-En påtalemyndighet for fremtiden
-
-«Departementet ser frem til en god dialog med
-riksadvokaten med hensyn til arbeidet med å
-følge opp Straffeprosesslovutvalgets utredning
-(NOU 2016:24), Påtaleanalyseutvalgets utredning og utredningen om særorganstrukturen.»
-Denne type styringssignaler er viktige for påtalemyndigheten, og inkorporeres og synliggjøres i
-riksadvokatens årlige Mål- og prioriteringsrundskriv. I rundskrivet for 2016 heter det:
-«I tillegg må rundskrivet sammenholdes med
-sentrale styringsdokumenter, særlig:
-– Politisk plattform av 7. oktober 2013 for en
-regjering utgått av Høyre og Fremskrittspartiet
-– Prop. 1 S (2015–2016), særlig side 12–15,
-76–90
-– Innst. 6 S (2015–2016), særlig side 34–44
-– Innst. 306 S (2014–2015), med vedlegg, om
-Nærpolitireformen
-– Justis- og beredskapsdepartementets tildelingsbrev til Den høyere påtalemyndighet
-av 25. januar 2016
-– Justis- og beredskapsdepartementets tildelingsbrev til Politidirektoratet av 2. februar
-2016
-– Politidirektoratets disponeringsskriv for
-2016 til politi- og lensmannsetaten (…)»
-Riksadvokat Tor-Aksel Busch har om kriminalpolitikken fremhevet følgende:7
-«En sterk og tydelig uavhengighet mellom
-påtalemyndigheten og politikere i enkeltsaker
-kan ikke overføres til andre områder av vår
-virksomhet. Det er selvsagt i et demokrati at
-Stortinget gjennom sin bevilgende myndighet
-– og departementet ved fordelingen av bevilgninger – trekker opp hovedlinjene, også for
-påtalemyndighetens virksomhet. Innenfor de
-rammer som er fastlagt av Stortinget, har regjeringen det overordnede ansvar for kriminalpolitikken. Denne utøves av Justisdepartementet
-på regjeringens vegne, og riksadvokatens styringssignaler til politiet og påtalemyndigheten
-tar naturlig nok utgangspunkt i den politisk
-fastlagte kriminalpolitikk.»
-
-6
-7
-
-Tildelingsbrev 2017 fra Justis- og beredskapsdepartementet til Den høyere påtalemyndighet, 6. januar 2017 side 2.
-Tidsskrift for strafferett nr. 4 2010 side 348.
-
-Påtaleanalyseutvalget mener kriminalpolitikkens
-betydning for påtalemyndigheten kan oppsummeres i følgende hovedpunkter:
-– Kriminalpolitikken har vesentlig betydning for
-påtalemyndigheten og dens prioriteringer.
-– Denne interaksjonen, som i et demokratisk
-samfunn er helt avgjørende, oppleves som
-ukontroversiell, med stor grad av prinsipiell
-enighet.
-– Det konkrete samarbeidet fremheves som
-godt.
-
-4.4
-
-Riksadvokaten som leder av
-påtalemyndigheten
-
-4.4.1 Innledning
-Et hovedmål for påtalemyndighetens virksomhet
-er å bidra til å redusere kriminalitet. Som øverste
-ansvarlige har riksadvokaten den overordnede ledelse av påtalemyndigheten, hvilket uttrykkelig er
-lovfestet i straffeprosessloven § 56 annet ledd.
-Riksadvokatens ansvar og oppgaveutførelse
-kan tematisk deles inn i fire funksjonsområder:
-– etatsledelse
-– fagledelse
-– straffesaksbehandling
-– utadrettet virksomhet
-4.4.2 Etatsledelsen
-Etatsledelsen omfatter riksadvokatens faglige og
-administrative ledelse av statsadvokatene og den
-faglige ledelsen av påtalemyndigheten i politiet.
-Dialogen med Justis- og beredskapsdepartementet og Politidirektoratet før mål og prioriteringer
-for straffesaksbehandlingen fastsettes, er viktig.
-For å sikre at straffesaksbehandlingen ved statsadvokatembetene og i politidistriktene holder høy
-kvalitet, og at de mål som er fastsatt blir nådd, har
-embetet både styringsdialog og annen kontakt
-med embetslederne. Fagledelse og etatsstyring
-utgjør en sentral del av arbeidet ved embetet og
-omfatter retningslinjer, møtevirksomhet, systematisk kvalitetskontroll (rutiner, utvalgte enkeltsaker) og årlige møter med alle statsadvokatene.
-Det øverste nivået i påtalemyndigheten skal også
-bidra til at påtalemyndighetens representanter har
-den nødvendige kompetanse.
-Hva gjelder den administrative ledelsen, kan
-nevnes stikkord som rammevilkår, økonomi- og
-personalforvaltning, arbeidsmiljø, sikkerhet og
-beredskap, IKT, administrative rutiner og det ytre
-miljø.
-
-[Side 63]
-
-NOU 2017: 5
-En påtalemyndighet for fremtiden
-
-4.4.3 Fagledelsen
-Påtalemyndighetens fagledelse nasjonalt ble på
-1990-tallet nærmere utviklet av riksadvokaten i
-konstruktiv dialog med Justisdepartementet og
-nedfelt i politiske styringsdokumenter. I budsjettinnstillingen 1993–948 heter det på side 15:
-«Komiteen har merket seg at påtalemyndigheten i politiet vil få overført påtalekompetanse i
-en del forbrytelsessaker, nå når arbeidet med å
-endre straffeprosessloven er gjennomført.
-Komiteen viser til at lovendringen åpnet for en
-omfattende delegering av påtalekompetanse
-fra statsadvokatene til politiet. Komiteen forutsatte i den forbindelse at statsadvokatene
-benyttet den reduksjon de får i sitt arbeid til å
-intensivere tilsynet med politikamrene, og
-redusere saksbehandlingstiden. Et flertall i
-komiteen pekte også på at endringene ville gi
-statsadvokatene anledningen til å prioritere
-arbeidet med de mest alvorlige sakene. Komiteen er på denne bakgrunn tilfreds med at
-departementet i 1994 vil satse på å utvikle statsadvokatenes faglige lederrolle i forhold til påtalemyndigheten i politiet.»
-I stortingsproposisjonen samme år9 heter det på
-side 8:
-
-og mellom direktoratet og statsadvokatene.
-For komiteen er det også viktig at det fortsatt
-er et godt samarbeid mellom departementet og
-Riksadvokaten.»
-En viktig milepæl i prosessen med å operasjonalisere innholdet i fagledelsen var et foredrag som
-daværende riksadvokat Rieber-Mohn holdt på politisjefmøte 1/1994. Her redegjorde han for behovet og skisserte en ønsket utvikling, se også riksadvokatens brev til embetene av 2. august 199510
-med vedlegg (sluttdokument)11.
-Riksadvokatens egen fagledelse fremgår blant
-annet av embetets virksomhetsplan. Denne inneholder en rekke eksempler på tiltak innenfor riksadvokatens fagledelse:12
-– Mål og prioriteringer for virksomheten (punkt
-1b)
-– Instruksjon og oppfølging (punkt 1c)
-– Kompetanseheving (punkt 1d)
-– Rettsutvikling gjennom aktorater (punkt 2c)
-Fra og med 2011 er det som vedlegg til Mål- og
-prioriteringsrundskrivet tatt inn en oversikt over
-siste års generelle uttalelser og retningslinjer for
-straffesaksbehandlingen fra riksadvokaten.
-Riksadvokatembetet har i en merknad til utvalget pekt på følgende:
-«Den stillingsvekst som Den høyere påtalemyndighet er blitt tilført har riksadvokaten
-gjennom år søkt å plassere ved statsadvokatembetene i stedet for å satse på å bygge opp et
-større riksadvokatembete. Dette for å støtte
-statsadvokatene der ute i deres daglige gjerning i bekjempelse av kriminalitet (…).
-En styrket fagledelse av noe størrelse ved
-Riksadvokatembetet forutsetter i realiteten en
-markert styrking av bemanningen ved Riksadvokatembetet.»
-
-«For påtalemyndigheten vil det være en sentral
-oppgave å bedre kvaliteten og effektiviteten i
-virksomheten. Sentralt her er å utvikle statsadvokatenes lederrolle innen påtalemyndigheten.»
-Stortinget har også senere gitt sin fulle tilslutning
-til riksadvokatens rolle når det gjelder fagledelsen. Spørsmålet ble aktualisert ved opprettelsen
-av Politidirektoratet, hvor Justiskomiteen i forbindelse med Budsjett-innst. S. nr. 4 (2000–2001) s.
-26 uttalte:
-«For komiteen er det viktig at etableringen av
-Politidirektoratet ikke gjør noen endringer i
-det tosporede system, slik at ansvaret for fagledelse av straffesaksbehandlingen i politiet fortsatt ligger hos Riksadvokaten og statsadvokatene. Komiteen er tilfreds med at det legges
-vekt på å etablere gode rutiner for samarbeidet
-mellom Riksadvokaten og Politidirektoratet,
-
-Riksadvokaten er som nevnt administrativt underlagt Justis- og beredskapsdepartementet. Men i
-straffesaksbehandlingen, herunder ved fagledelsen av denne, er statsadvokatene og påtalemyndigheten i politiet ikke underlagt Politidirektoratet
-eller departementet, kun riksadvokaten. Sistnevnte kan bare instrueres av Kongen i statsråd,
-jf. straffeprosessloven § 56 annet ledd.
-10
-
-8
-9
-
-Budsjett-innst. S nr. 4 (1993–94) Innstilling fra Justiskomiteen om bevilgninger på statsbudsjettet for 1994.
-St.prp. nr. 1 (1993–94).
-
-61
-
-Kapittel 4
-
-11
-12
-
-Riksadvokatens ref. 16/95.
-Utarbeidet av redaksjonsgruppe ledet av førstestatsadvokat
-Walter Wangberg.
-Riksadvokatembetets virksomhetsplan 2016 side 5–11.
+- Forsvinningssaker med utlendinger. Prioriteres ofte ikke – i motsetning til hvis en norsk tenåringsjente meldes savnet.
+
+En typisk ‘prioritert sak’ nedenfra er vold mot tjenestemann (§ 155). Her reageres det om jourhavende jurist avslår pågripelse og ransaking. Tilsvarende våre lokale gjengangere, som ønskes fengslet så tidlig som mulig (selv om deres vinningsforhold sjelden er særlig omfattende). Min ‘sosiologiske’ tanke er at ordensstyrken ønsker å markere sin dominans i bybildet. Slike saker får derfor høyere prioritet enn hva de sentrale prioriteringene tilsier.
+
+Sikreste kanal hos oss for å fremme de sentrale prioriteringene skjer når påtaleansvarlig aktivt griper inn og styrer hvilke saker som skal jobbes med, og hvilke som må vente (i praksis henlegges). Men også i slike tilfeller merker vi innflytelsen nedenfra ved at saker vi har bedt om skal prioriteres tar lengre tid enn nødvendig da de ikke anses viktige i det ‘uoffisielle’ prioriteringshierarkiet i førstelinjen.
+
+Inntrykket er at de sentrale prioriteringene oppleves som praktiske. For påtales del har det tunge trykket de senere årene innen områder som tilrettelagte avhør og familievold gjort det enklere å få sving på disse sakene. Men igjen, her er innslaget langt høyere opp i organisasjonen.
+
+En utfordring som påtalemyndigheten må ta på alvor er at avstand fra initialfasen til en eventuell suksess blir for stor (lang saksbehandlingstid). Dermed mister vi de gode historiene hvor mannskapet på bakkeplan får tilbakemelding om hva deres innsats betydde for å oppklare saken.»
+
+Et tydelig unntak blant respondentene var Politiets Fellesforbund, som i samtalen med utvalget pekte på at beredskap og operative disipliner ikke nådde opp i ressurskampen. Etter deres syn er en hovedutfordring at riksadvokatens prioriteringer er så mange og sterke at de i realiteten blokkerer for politimesterens adgang til å drive strategisk og helhetlig ledelse.
+
+I samtalene ble det også vist til en rapport[^130] hvor det under punkt 6.2 heter:
+
+«Det er en betydelig lederutfordring når POD, som har det politifaglige totalansvaret, personalansvaret og budsjettansvaret ikke har fagansvaret for straffesaksarbeidet.»
+
+I neste avsnitt heter det videre:
+
+«Dagens tosporede system gir en ekstra ledelsesutfordring. Riksadvokaten og resten av påtalemyndigheten har ingen direkte styring og ledelse over politiressursene, men påtalemyndighetens prioriteringer veier svært tungt (…).
+
+Politiet er ressursmessig underdimensjonert til å klare å følge opp overordnede føringer om måltall. Økt innsats på prioriterte områder vil føre til nedprioritering av andre. Et eksempel på dette er økt fokus på etterforskning som vil påvirke ordens- og beredskapsfunksjonen i sterk grad.»
+
+I dialogen med utvalget anmodet Politijuristene om å få komme med et skriftlig innlegg om tematikken gjennomslagskraft, noe utvalget har etterkommet:
+
+«Den norske modellen har gjennomgått store endringer som ikke er stadfestet eller begrunnet i lov eller andre overordnete politiske vedtak. Selv om dagens straffeprosesslov er endret mange ganger, er det få, om noen, endringer som har adressert påtalemyndighetens status eller ansvarsområde. Bare under herværende straffeprosesslov har en sett en endring fra en politifullmektig i hvert politidistrikt som var politimesterens naturlige nummer to, til dagens virkelighet hvor mange påtalejurister opplever at deres rolle er redusert til saksbehandlere. Denne omveltningen uten noen form for utredning, representerer neppe et bevisst og tydelig valg fra våre folkevalgte. En skal ikke trekke sammenlikningen med domstolen altfor langt, men det er vanskelig å tenke seg en så omfattende endring i dommerens stilling uten en omfattende samfunnsdebatt og diverse utredninger. Samtidig synes det å være vanskelig på en rasjonell måte å forklare denne maktforskyvningen mellom politi og påtalemyndighet. Reduksjonen i påtalemyndighetens innflytelse er møtt av en tilsvarende styrking av politiets rolle. Det oppleves ikke å være noe maktvakuum, men har som nevnt skjedd uten lovendring og uten noen overordnet drøftelse som viser at dette har vært et bevisst, politisk valg.
+
+Dagens reelle situasjon harmonerer således dårlig med hva som er sagt over om påtalemyndighetens ‘*generelle og overordnede ansvar for å forfølge straffbare handlinger og for å føre kontroll med politiets straffesaksbehandling’,* men står også i grell kontrast til at den påtaleansvarlige har et straffebelagt ansvar knyttet til sin sentrale rolle i straffesaksbehandlingen. Dette ansvaret rimer også dårlig med hvilke kompetansekrav som i dag stilles til påtalejuristen. Det er i det hele tatt en utbredt oppfatning at dagens ansvar er lite tilpasset den reelle myndighet og mulighet vedkommende har til å utøve rollen sin. Tilsvarende betraktninger gjelder også påtalelederne, som har relativt sett liten gjennomslagskraft overfor de andre politilederne når en ser hen til den viktige rollen vedkommende har i straffesaksarbeidet. I sum illustrerer ovennevnte at lovgiver har et syn på den påtaleansvarliges rolle, fullmakt og gjennomslagskraft som harmonerer dårlig med en utvikling i retning av påtalejurister som rene saksbehandlere.
+
+Fremveksten av et stadig større Politidirektorat forsterker endringsbehovene ytterligere. Jo større kapasitet i Politidirektoratet, jo mer innflytelse kan og vil de i praksis få over straffesaksbehandlingen. Dette harmonerer dårlig med anklageprinsippet og vår nåværende og foreslåtte straffeprosesslov. Det er som kjent stor forskjell på å ha rett og å få rett, og på samme måte er det forskjell på formell og reell makt. En stor ubalanse mellom Politidirektoratet på den siden og Riksadvokatembetet og påtalemyndigheten på den andre siden utfordrer denne grensen. Ubalansen forsterkes ytterligere ved at Politidirektoratet ensidig sitter med budsjettstyringen. En formell styring som ikke følges opp med de nødvendige budsjetter, vil over tid ha begrenset gjennomslagskraft.»
+
+Avslutningsvis vises også til utvalgsmedlem Colls vedlagte notat, hvor problemstillingen med manglende oppfølging av sentrale prioriteringer på området for økonomisk kriminalitet utdypes.
+
+1.  **Oppsummering**

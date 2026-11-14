@@ -1,883 +1,218 @@
-# NOU 2016: 24, del 32 av 73 (side 348–358)
+# NOU 2016: 24, del 32 av 69
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/1182afc0-nou-2016-24.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-24/id2517932/
 - Original-PDF: https://www.regjeringen.no/contentassets/6fe1d875248042b4a09b43b85aa46832/no/pdfs/nou201620160024000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 9 tabeller, 1 figur, 52 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 348]
-
-346
-
-NOU 2016: 24
-
-Kapittel 14
-
-Ny straffeprosesslov
-
-Reguleringen i gjeldende lov videreføres innholdsmessig i det alt vesentlige.
-Etter straffeprosessloven 1887 § 459 var ordningen at bare retten kunne beslutte heftelse, og
-den siktede skulle innkalles til rettsmøte, med
-mindre varsling ville forspille formålet med heftelsen. Ved den någjeldende straffeprosesslov ble
-påtalemyndigheten gitt hastekompetanse til å
-beslutte heftelse, og siktede skal aldri varsles dersom det er retten som beslutter inngrepet. I stedet
-er ordningen at en slik beslutning kan sies å være
-foreløpig, ved at det alltid skal holdes muntlig forhandling etter at heftelse er iverksatt, for å ta stilling til om inngrepet skal opprettholdes. Straffeprosesslovkomitéen begrunnet ordningen slik:
-«Tanken bak utkastets ordning er at når det
-begjæres heftelse, vil det normalt være fare for
-at formålet forspilles om siktede varsles før heftelsen settes i verk. På den annen side vil det
-normalt være grunn til muntlig forhandling om
-berettigelsen av forføyningen. […] Det er derfor naturlig å foreskrive den samme formelle
-fremgangsmåte i alle tilfelle hvor heftelse blir
-begjært.»173
-Etter utvalgets syn er det grunn til å føre denne
-tanken et steg videre, slik at påtalemyndigheten
-gis primærkompetanse til å treffe den foreløpige
-beslutningen om heftelse som grunnlag for
-iverksettelse. Det vil – i tillegg til å være praktisk
-– kunne hevdes å stemme bedre med den kontrollfunksjon retten bør ha. Uten kontradiksjon
-173
-
-Straffeprosesslovkomiteen (1969) s. 259.
-
-vil retten ha et begrenset grunnlag for ikke å ta
-en begjæring om heftelse til følge. Det kan også
-hevdes å være uheldig at den etterfølgende
-muntlige forhandling i noen grad vil fortone seg
-som en prøving av hvorvidt rettens foreløpige
-beslutning var riktig. En mulig motforestilling er
-selvsagt at det kan medføre betydelig skade for
-den det rammer, dersom heftelse blir iverksatt
-uten at vilkårene for det er til stede. I lys av det
-som er sagt om rettens mulighet for kontroll,
-antar utvalget likevel at dette hensynet ikke bør
-gis gjennomslag. Det vises til utkastet § 22-1
-tredje ledd.
-
-14.12 Kontakt- og oppholdsforbud
-Bestemmelsene i utkastet kapittel 23 viderefører i
-det alt vesentlige og i noe omstrukturert form
-straffeprosessloven § 222 a om besøksforbud,
-§ 222 b om oppholdsforbud for personer med tilknytning til voldelige grupper og § 222 c om oppholdsforbud for barn under 15 år. Etter sitt innhold gjelder paragrafene inngrep i bevegelsesfriheten, og det kunne slik sett passet å innta reguleringen i utkastet kapittel 15 om meldeplikt, pågripelse og fengsling mv. Bestemmelsene har
-imidlertid en særegenhet ved at det er tale om
-inngrep overfor personer som ikke nødvendigvis
-er mistenkt i noen straffesak. Inngrepene kan heller ikke – i alle fall ikke regulært – ses som avvergende tiltak, idet beslutning om kontakt- og oppholdsforbud ofte vil treffes på et tidlig stadium.
-Det er således tale om en så vidt særskilt form for
-inngrep at tiltakene bør skilles ut i eget kapittel.
-
-[Side 349]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-347
-
-Kapittel 15
-
-Kapittel 15
-
-Internasjonalt samarbeid
-15.1 Innledning
-Utvalget skal ifølge mandatet vurdere om det i ny
-straffeprosesslov er hensiktsmessig med regler
-om gjensidig bistand mellom stater i straffesaker,
-jf. punkt 4.5:
-«Det moderne kriminalitetsbildet preges av
-økt mobilitet over landegrensene. Det aktualiserer behovet for gjensidig bistand mellom
-stater i straffesaker. Det er nylig vedtatt
-endringer i bl.a. utleveringsloven i forbindelse
-med implementeringen av flere EU-instrumenter, herunder EUs konvensjon om gjensidig
-hjelp i straffesaker. Utvalget kan vurdere om
-det i den nye straffeprosessloven er hensiktsmessig å innta regler om gjensidig bistand mellom stater i straffesaker.»
-Forutsetningen om et kriminalitetsbilde som kjennetegnes ved mobilitet over landegrensene, støttes av materialet Kjelby og Skyberg har gjennomgått og analysert på vegne av utvalget, se vedlegg
-2 til utredningen. Kriminalitet begått i Norge av
-utenlandske statsborgere har økt, og en ser et stadig større innslag av grenseoverskridende organisert kriminalitet. Utvalget legger til grunn at de
-generelle trekk og tendenser som beskrives i
-mandatet, er rimelig dekkende for den faktiske
-situasjonen, selv om kildegrunnlaget er noe
-begrenset.1
-Internasjonaliseringen innebærer at norsk og
-utenlandsk påtalemyndighet i større utstrekning
-enn tidligere er avhengig av bistand fra andre
-lands myndigheter for å oppklare og forfølge
-straffbare handlinger. For eksempel vil bevissikring under etterforskingen i form av beslag og
-avhør ofte måtte skje i utlandet. Også under iretteføringen kan det bli aktuelt med bistand, for
-eksempel i forbindelse med fjernavhør av vitner
-fra andre land.
-
-Utfordringene dette bringer med seg, har i
-lang tid vært et oppmerksomhetsområde på mellomstatlig og overnasjonalt nivå. FN og Europarådet har gjennom flere tiår utviklet en rekke
-folkerettslige instrumenter for samarbeid i straffesaker. De senere år har oppmerksomheten særlig
-vært rettet mot bekjempelse av narkotikatrafikk
-og terrorhandlinger. Også piratvirksomhet har
-vært et oppmerksomhetsområde, og i regi av
-NATO er det utviklet et samarbeid for bekjempelse av piratvirksomhet i Det indiske hav. Norge
-deltar i stor utstrekning i samarbeidet på de ulike
-områdene.
-I Europa er det særlig reisefrihetsområdet
-innen Schengen som har skapt behov for kompenserende tiltak for de negative virkninger fravær av
-grensekontroll har for kriminalitetsutviklingen.2
-Norge deltar som tredjeland i det strafferettslige
-samarbeidet innen EU, både gjennom å være tilknyttet avtaler om gjensidig hjelp og gjennom å
-delta i etterforskings- og påtalesamarbeid i regi av
-Den europeiske unions organisasjon for politisamarbeid innen kriminaletterretning (Europol) og
-European Union’s Judicial Cooperation Unit
-(Eurojust).
-
-15.2 Oversikt over gjeldende regelverk
-15.2.1 Norsk rett
-Internasjonalt samarbeid i straffesaker er i dag
-nokså fragmentarisk regulert i lover og forskrifter.3
-Gjensidig hjelp i straffesaker reguleres av
-bestemmelser i domstolloven og utleveringsloven.
-I domstolloven er det gitt felles regler for behandling av rettsanmodninger i sivile saker og straffesaker, jf. §§ 46 flg. Utleveringsloven kapittel V
-inneholder enkelte særlige bestemmelser om
-gjensidig hjelp, blant annet om bruk av tvangs2
-3
-
-1
-
-Kjelby og Skyberg (2016) punkt 4 og 7.1.
-
-Prop. 97 LS (2011–2012) s. 5.
-Se Bjerke, Keiserud og Sæther (2011) s. 47–48, 56–57 og
-822, med videre henvisninger.
-
-[Side 350]
-
-348
-
-Kapittel 15
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-midler som ledd i bistand til utenlandske myndigheter. Utfyllende regler er gitt ved forskrift
-14. desember 2012 nr. 1227 om internasjonalt
-samarbeid i straffesaker.
-Overføring av straffesaker reguleres av lov
-25. mars 1977 nr. 22 om overføring av straffeforfølging fra eller til annet europeisk land. Loven
-gjennomfører Norges forpliktelser etter den europeiske konvensjon 15. mai 1972 om overføring av
-straffeforfølging fra eller til annet europeisk land.
-Utenfor lovens og konvensjonens anvendelsesområde må spørsmålet om overføring løses etter
-alminnelige straffeprosessuelle regler og prinsipper, herunder jurisdiksjonsregler og opportunitetsprinsippet.
-I straffeprosessloven og særlovgivningen er
-det gitt regler om særlige former for internasjonalt samarbeid om kriminalitetsbekjempelse til
-sjøs. Straffeprosessloven § 4 a og lov 13. juni 1997
-nr. 47 om gjennomføring av europarådsavtale
-31. januar 1995 om ulovlig håndtering av og
-handel med narkotika og psykotrope stoffer til
-sjøs har regler om samarbeid med andre stater
-om bording av skip mv. Nærmere regler er gitt i
-påtaleinstruksen kapittel 32. Straffeprosessloven
-§ 4 annet ledd har dessuten en bestemmelse som
-gir adgang til å gi forskrifter om lovens anvendelse utenfor norsk territorialfarvann. Slike regler
-er gitt i forskrift 14. juni 2013 nr. 622 om behandling av saker om straff for personer mistenkt for
-piratvirksomhet i Det indiske hav.
-Utlevering av personer til straffeforfølgning
-eller fullbyrding av straff reguleres av utleveringsloven og arrestordreloven. Sistnevnte lov, som
-legger til rette for en forenklet utleveringsprosedyre basert på prinsippet om gjensidig anerkjennelse av pågripelsesbeslutninger, er foreløpig bare
-delvis satt i kraft, og gjelder derfor foreløpig bare
-ved overlevering mellom de nordiske landene.
-I tillegg til reglene om samarbeid med andre
-stater finnes enkelte særlig regler om rettslig samarbeid, utlevering mv. overfor Den internasjonale
-straffedomstolen og Jugoslavia- og Rwandatribunalene, jf. lov 15. juni 2001 nr. 65 om gjennomføring i norsk rett av Den internasjonale straffedomstols vedtekter 17. juli 1998 (Roma-vedtektene) §§ 2 til 4 og lov 24. juni 1994 nr. 38 om gjennomføring i norsk rett av De forente nasjoners
-sikkerhetsråds vedtak om å opprette internasjonale domstoler for forbrytelser i det tidligere
-Jugoslavia og Rwanda §§ 2 og 3.
-
-15.2.2 Folkerettslige avtaler mv.
-Norge er tilknyttet en rekke internasjonale avtaler
-om gjensidig hjelp og annet samarbeid i straffesaker. De viktigste avtalene er
-– 1959-konvensjonen: Den europeiske konvensjon 20. april 1959 om gjensidig hjelp i straffesaker,
-– 1972-konvensjonen: Den europeiske konvensjon 15. mai 1972 om overføring av straffesaker,
-– Nordisk overenskomst 1974: Nordisk overenskomst 26. april 1974 om gjensidig rettshjelp,
-– Schengenkonvensjonen: Konvensjon 19. juni
-1990 om gjennomføring av Schengen-avtalen
-av 14. juni 1985 om gradvis avskaffelse av kontrollen på de felles grenser,
-– Annen tilleggsprotokoll: Annen tilleggsprotokoll
-8. november 2001 til den europeiske konvensjon om gjensidig hjelp i straffesaker,
-– Tilknytningsavtalen 19. desember 2003: Avtale
-mellom Den europeiske union og Republikken
-Island og Kongeriket Norge om anvendelsen
-av visse bestemmelser i konvensjon av 29. mai
-2000 om gjensidig hjelp i straffesaker mellom
-Den europeiske unions medlemsstater og i
-protokoll av 2001 til denne konvensjonen, og
-– Nordisk politisamarbeidsavtale 2016: Overenskomst 1. april 2016 mellom de nordiske landenes politimyndigheter om politisamarbeid.
-Gjennom tilknytningsavtalen 19. desember 2003 og
-Schengenkonvensjonen er Norge tilknyttet de
-fleste bestemmelsene i konvensjon 29. mai 2000
-om gjensidig hjelp i straffesaker mellom Den europeiske unions medlemsstater (2000-konvensjonen)
-og protokoll 16. oktober 2001 til konvensjon om
-gjensidig hjelp i straffesaker mellom Den europeiske unions medlemsstater (2001-protokollen).
-En nærmere oversikt over avtaler Norge er
-part i eller tilknyttet på annen måte, er gitt i
-Prop. 97 LS (2011–2012), jf. kapittel 1 og punkt
-4.2.1. 2000-konvensjonen, 2001-protokollen og
-annen tilleggsprotokoll er inntatt i vedlegg 2 til 4
-i proposisjonen. 1959-konvensjonen, utdrag av
-Schengenkonvensjonen og nordisk overenskomst 1974 er gjengitt i Justis- og politidepartementets rundskriv G 19/2001.
-
-[Side 351]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-15.3 Utvalgets vurderinger og forslag
-15.3.1 Generelt om regulering av internasjonalt
-samarbeid i ny straffeprosesslov
-Behovet for gjensidig bistand og annet samarbeid
-mellom stater i forbindelse med straffeforfølgning
-er ikke et nytt fenomen, men de nevnte endringene
-i kriminalitetsbildet som følge av internasjonalisering har gitt reglene om samarbeid økt aktualitet.
-Internasjonalt samarbeid er i dag en viktig forutsetning for å realisere straffeprosessens formål, og
-bistand mellom stater har i større grad enn tidligere preg av å være en alminnelig og integrert del
-av straffesaksbehandlingen. Reglene om internasjonalt samarbeid bør derfor ses i sammenheng
-med straffeprosessens øvrige regler og tas hensyn
-til ved utformingen av ny straffeprosesslov.
-Det er imidlertid i liten grad behov for regler
-om ytterligere samarbeidsmuligheter, idet dagens
-regler i betydelig grad åpner for gjensidig hjelp på
-tvers av landegrensene. Norske myndigheter kan
-i utgangspunktet både anmode om og yte bistand
-til gjennomføring av ethvert etterforskingsskritt
-som loven ellers åpner for. I tillegg ligger rammevilkårene for internasjonalt samarbeid i noen grad
-fast som følge av at rettsområdet er preget av
-folkerettslige avtaler og internasjonalt etablerte
-samarbeidsformer, og eventuelle lovendringer må
-ivareta Norges internasjonale forpliktelser. Utvalget foreslår derfor ingen vesentlige realitetsendringer i gjeldende regler.
-Derimot er det et klart behov for en samlet
-rettslig regulering av internasjonalt samarbeid i
-straffesaker. Gjeldende regelverk bygger på et
-temmelig uoversiktlig og unødig komplisert
-rettskildebilde, og det er utvilsomt behov for økt
-bevissthet om de muligheter som finnes, både for
-å sikre et effektivt internasjonalt samarbeid og for
-å sikre etterlevelse av gjeldende regelverk. Dersom reglene samles og omstruktureres, vil de
-utvilsomt kunne bli vesentlig tydeligere og lettere
-tilgjengelige.
-Et selvstendig spørsmål er hvorvidt regler om
-internasjonalt samarbeid bør inntas i ny straffeprosesslov, eller om det bør gis en egen lov om
-samarbeid i straffesaker, slik man blant annet har
-i svensk rett, jf. lagen (2000:562) om internationell
-rättslig hjälp i brottmål. Utvalget mener sammenhengen mellom reglene om gjensidig hjelp i
-straffesaker og straffeprosesslovens øvrige regler
-tilsier felles regulering. Sentralt er at norske
-myndigheters adgang til å anmode om bistand fra
-utlandet etter reglene om gjensidig hjelp virker i
-forlengelsen av straffeprosessens alminnelige
-
-349
-
-Kapittel 15
-
-saksbehandlingsregler. Og for anmodninger fra
-utlandet om bistand i anledning strafferettslig forfølgning kommer straffeprosessens regler tilsvarende til anvendelse, jf. prinsippet i domstolloven
-§ 46 tredje ledd første punktum. Videre er det
-straffeprosessens aktører som i det vesentlige har
-behov for og skal håndtere de konkrete forespørslene om bistand.
-På denne bakgrunn anbefaler utvalget at det
-gis regler om internasjonalt samarbeid i ny
-straffeprosesslov, se lovutkastet del 4. Forslaget
-omfatter regler om gjensidig hjelp i straffesaker,
-som konsumerer reguleringen i utleveringsloven
-kapittel V om annen rettshjelp, og som dessuten
-erstatter reguleringen i domstolloven for så vidt
-gjelder rettsanmodninger i straffesaker. Regler
-om midlertidig overføring av frihetsberøvede personer, jf. utleveringsloven §§ 25 og 25 a, foreslås i
-utkastet § 15-9, jf. § 25-2 annet ledd annet punktum. Utleveringsloven kapittel V foreslås opphevet, og relevante bestemmelser i domstolloven
-foreslås endret slik at det klart fremgår at disse
-ikke skal gjelde for straffeprosessuelt samarbeid,
-se forslag til lovendringer inntatt i utkastet § 46-3
-nr. 1 og 2.
-I tillegg til regler om gjensidig hjelp i straffesaker som er særskilt nevnt i mandatet, anbefaler
-utvalget at det gis generelle regler om overføring
-av straffesaker mellom stater. Også disse reglene
-er nær knyttet til straffeprosessens alminnelige
-regler, og det er derfor hensiktsmessig å synliggjøre sammenhengen i regelverket i loven. Dersom forslaget i utkastet følges opp, kan lov 25.
-mars 1977 nr. 22 om overføring av straffeforfølging fra eller til annet europeisk land oppheves, se
-punkt 15.3.8.
-I utkastet er det også inntatt enkelte bestemmelser om visse andre særlige former for samarbeid, herunder regler om samarbeid om bording
-av fartøy og om særskilte operasjoner utenfor
-norsk territorialfarvann mv. Reguleringen erstatter straffeprosessloven §§ 4 annet ledd og 4 a og
-dessuten lov 13. juni 1997 nr. 47 om gjennomføring av europarådsavtale 31. januar 1995 om
-ulovlig håndtering av og handel med narkotika og
-psykotrope stoffer til sjøs, se punkt 15.3.7.
-Reglene om arrest, utlevering og overlevering
-av personer til straffeforfølgning eller straffullbyrding og overføring av domfelte personer er i
-dag gitt i fire lover.4 Selv om også disse reglene
-4
-
-Lov 13. juni 1975 nr. 39 om utlevering av lovbrytere m.v.,
-arrestordreloven, lov 20. juli 1991 nr. 67 om overføring av
-domfelte og lov 15. november 1963 om fullbyrding av nordiske dommer på straff m.v.
-
-[Side 352]
-
-350
-
-Kapittel 15
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-har nær tilknytning til straffeprosessen, har utvalget valgt å holde dem utenfor utkastet til ny
-straffeprosesslov. Begrunnelsen for dette er at det
-er tale om et omfattende sett av regler, med struktur og systematikk som er sterkt avledet av internasjonale avtaler. Etter utvalgets lovutkast vil
-imidlertid utleveringsloven kapittel V om annen
-rettshjelp oppheves, med den følge at utleveringsloven blir en rendyrket lov om utlevering.
-Etter gjeldende rett går det et skille mellom
-henholdsvis rettslig samarbeid i straffesaker og
-politisamarbeid, herunder etterretningssamarbeid
-mv.5 Det er ikke uten videre klart hvor grensen
-for dette skillet går, og sondringen praktiseres
-nok noe forskjellig i ulike sammenhenger, jf. blant
-annet nordisk politisamarbeidsavtale 2016, som i
-kapittel 3 har bestemmelser om politiavhør. Det
-såkalte polisiære spor benyttes i en ikke ubetydelig utstrekning til å innhente opplysninger til bruk
-i straffesak.
-Etter utvalgets syn er nevnte sondring, slik
-den har utviklet seg i praksis og i ulike folkerettslige instrumenter på området, et lite egnet
-utgangspunkt for å avklare hvilke former for samarbeid som bør reguleres i ny straffeprosesslov.
-Utvalgets syn er at det avgjørende for reglenes
-anvendelsesområde bør være hvorvidt det er tale
-om straffeprosessuelt samarbeid, forstått som
-bistand som etter sin art har et straffeprosessuelt
-formål. Anvendelsesområdet for reglene i utkastet
-er nærmere omtalt i punkt 15.3.2 og 15.3.3, og i
-merknadene til utkastet §§ 24-1 og 25-1. Reglene
-utelukker ikke at opplysninger kan innhentes som
-ledd i et polisiært samarbeid når det er adgang til
-det overfor vedkommende stat, men det er selvsagt en forutsetning at utkastets kompetanseregler, formkrav mv. overholdes.
-15.3.2 Bistand fra utenlandske myndigheter
-Utgangspunktet etter gjeldende rett er at norske
-myndigheter, ved påtalemyndigheten og domstolene, kan be utenlandsk myndighet om bistand til
-å gjennomføre enhver beslutning og ethvert tiltak
-som det ellers er adgang til etter loven, jf. blant
-annet domstolloven §§ 47 og 48 og utleveringsloven § 23 b.6 Påtalemyndigheten kan for eksempel anmode om bistand til gjennomføring av alle
-typer etterforskingsskritt, herunder bruk av
-5
-6
-
-Se Prop. 97 LS (2011–2012) punkt 4.1.
-Om forståelsen av uttrykket «bevisopptak» i utleveringsloven § 23 b nr. 1, se Prop. 97 LS (2011–2012) s. 65–66. Om
-det tilsvarende uttrykk i domstolloven § 47, se Bøhn
-(2013a) s. 165–166.
-
-tvangsmidler mv. Domstolene kan blant annet
-anmode om bistand til å gjennomføre en rettslig
-beslutning, for eksempel dersom et vitne skal
-avhøres ved fjernavhør. Begrensninger i hva
-norske myndigheter kan forvente å få bistand til,
-kan følge av folkerettslig avtale.
-Utvalget mener det i det vesentlige er grunn til
-å holde fast ved gjeldende rett for så vidt gjelder
-norske myndigheters adgang til å anmode utenlandske myndigheter om bistand i straffesaker.
-I utkastets kapittel 24 er det i tråd med dette gitt
-nærmere regler om påtalemyndighetens og
-rettens adgang til å fremsette anmodning om
-bistand, krav til anmodningens innhold, oversendelsesmåte og betydningen av at utenlandske
-myndigheter har fastsatt vilkår for bistanden.
-Reglene i utkastet kapittel 24 vil erstatte utleveringsloven § 23 b og vil, innenfor sitt virkeområde,
-tre i stedet for domstollovens regler, jf. punkt
-15.3.1. Dersom utviklingen gjør det aktuelt for
-norske myndigheter å søke bistand direkte hos
-overnasjonale organer, må reglene kunne gis analogisk anvendelse for slikt formål.
-Bistand fra utenlandske myndigheter aktualiserer spørsmålet om forholdet til norske gjennomføringsregler, herunder om betydningen av at
-disse ikke følges ved bevisinnhenting i utlandet.
-Man kan selvsagt ikke forvente at utenlandske
-myndigheter skal forholde seg til norsk straffeprosesslov. Norske myndigheter kan anmode om
-gjennomføring på en bestemt måte, herunder
-således at de krav som følger av norsk lovgivning,
-overholdes, men det er ikke gitt at en slik anmodning kan eller vil bli tatt til følge. Spørsmålet blir
-så hvorledes norske myndigheter skal forholde
-seg til bevis som ikke er innhentet i samsvar med
-de krav som følger av norsk rett.
-Spørsmålet er i dag regulert i domstolloven
-§ 48 femte ledd: «Bevisopptak i utlandet betraktes
-som feilfrie dersom enten den fremmede retts
-eller den norske retts former er iakttatt.» Til tross
-for ordlyden innebærer ikke bestemmelsen mer
-enn at «et bevisopptak i utlandet formelt sett kan
-likestilles med et bevisopptak holdt for norske
-domstoler», jf. Rt. 1997 s. 869, der det videre uttales at dersom «prosessreglene i det land bevisopptaket er holdt gir adgang til å beskytte vitnets
-identitet på en måte som ikke følger av norsk
-straffeprosesslov, hører det under de norske domstoler å ta stilling til om bevisopptaket likevel kan
-tillates framlagt og dokumentert». Gitt en slik forståelse av domstolloven § 48 femte ledd mener
-utvalget det ikke er behov for en tilsvarende regulering i utkastet. Det følger uten videre av reglene
-i utkastet at norske myndigheter kan be om
-
-[Side 353]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-bistand til innhenting av bevis, og forutsetningsvis
-også at bevisene som utgangspunkt kan benyttes i
-norsk straffesak. Dette er også i samsvar med
-prinsippet om fri bevisføringsadgang.
-Spørsmål om begrensninger i bruken av bevisene må avgjøres for seg etter utkastets regler om
-bevisforbud, som kommer direkte til anvendelse. I
-denne sammenheng bemerkes at bestemmelsen
-om bevisforbud ved rettsstridig innhenting og tilgang til bevis i utkastet § 8-5 skal forstås slik at det
-ikke nødvendigvis er avgjørende at prosessreglene i den anmodede stat er overholdt. Norske
-myndigheter har et selvstendig ansvar for å påse
-at grunnleggende rettssikkerhetsgarantier er ivaretatt ved gjennomføringen av en anmodning om
-bistand. Er de tilsidesatt, vil rettsstridsvilkåret i
-utkastet § 8-5 også være oppfylt, og beviset må
-avskjæres «når det er grunn til det». Momentene i
-bestemmelsens annet punktum må i utgangspunktet vurderes etter de samme retningslinjer
-som det er gitt uttrykk for i merknadene til § 8-5
-og i punkt 13.3.4.4. Å anvende bevisforbudsbestemmelsen i oppdragende øyemed overfor
-utenlandske tjenestepersoner er ikke aktuelt, men
-forholdene kan likevel ligge slik an at disiplineringshensynet må vektlegges, for eksempel
-hvis norske tjenestepersoner burde vært mer
-påpasselige i forbindelse med anmodningen.
-Ledetråden må være at dersom det i lys av norske
-prosessregler hefter feil ved beviservervet som
-tilsier bevisforbud, så kan ikke løsningen bli en
-annen fordi beviset er innhentet med bistand fra
-utenlandsk myndighet.
-15.3.3 Bistand til utenlandske myndigheter og
-internasjonale domstoler
-Utvalget mener det i det alt vesentlige er grunn til
-å videreføre gjeldende rett om bistand til utenlandske myndigheter, jf. særlig domstolloven § 46
-og utleveringsloven §§ 23 a, 24 og 24 a. Regler om
-dette er inntatt i utkastet kapittel 25. De samme
-reguleringene gjelder ved anmodning fra internasjonale domstoler, jf. utkastet § 25-1 annet ledd.
-Dersom utviklingen gjør det aktuelt med bistand
-direkte til overnasjonale organer, må reglene
-kunne gis analogisk anvendelse.
-Anvendelsesområdet for reglene i utkastet
-kapittel 25 følger av at bistand kan gis «i forbindelse med strafferettslig forfølgning» i annen stat
-eller for internasjonal domstol. Det formelle straffebegrepet i norsk rett omfatter ikke utenlandsk
-sak om strafferettslig forfølgning. Virkeområdet
-for reglene om bistand til utenlandsk myndighet
-bør etter utvalgets syn bero på et materielt straffe-
-
-351
-
-Kapittel 15
-
-begrep, som etter sitt innhold svarer til det som
-tradisjonelt og i ulike folkerettslige avtaler Norge
-er part i, har vært ansett som «criminal matters»,
-jf. nærmere utkastet § 25-1 første ledd og merknadene til bestemmelsen.
-Rettsanmodninger fra utenlandske myndigheter som faller utenfor anvendelsesområdet for
-reglene i utkastet, bør behandles etter domstollovens regler. For øvrig må reglene i utkastet ses
-i sammenheng med særregulering i enkelte
-lover. Det foreslås henvisninger til reglene i
-utkastet fra lov 24. juni 1994 nr. 38 om gjennomføring i norsk rett av De forente nasjoners sikkerhetsråds vedtak om å opprette internasjonale
-domstoler for forbrytelser i det tidligere Jugoslavia og Rwanda § 3 og lov 15. juni 2001 nr. 65 om
-gjennomføring i norsk rett av Den internasjonale
-straffedomstols vedtekter 17. juli 1998 (Romavedtektene) §§ 3 og 4, se forslag til lovendringer
-inntatt i utkastet § 46-3 nr. 4 og 6.
-Etter gjeldende rett er det i utgangspunktet
-ikke et vilkår for å yte bistand til utenlandsk myndighet at handlingen anmodningen gjelder, er
-straffbar etter norsk rett, jf. utleveringsloven
-§ 23 a nr. 5 første punktum. Dette utgangspunktet
-foreslås videreført, jf. utkastet § 25-2 annet ledd
-første punktum. Det skal med andre ord ikke
-gjelde et generelt krav om dobbel straffbarhet.
-Det er tilstrekkelig at handlingen kan forfølges
-etter den anmodende stats lovgivning, jf. prinsippet i 1959-konvensjonen artikkel 1 nr. 1.
-Unntak gjelder for bruk av tvangstiltak, der
-det både bør gjelde et krav om dobbel straffbarhet
-og et vilkår om at tilsvarende inngrep kunne vært
-anvendt i anmodende stat, jf. utleveringsloven
-§ 24 nr. 2 i.f. og nr. 3. Se utkastet § 25-2 annet ledd
-annet punktum. Utleveringsloven § 24 nr. 3 siste
-punktum, som gjør unntak fra kravet om dobbel
-straffbarhet ved begjæring fra myndighetene i de
-nordiske land, foreslås ikke videreført. Etter utvalgets vurdering er det ikke noe behov for et slikt
-unntak, og dessuten er det prinsipielt betenkelig å
-åpne for bruk av tvangstiltak ved forfølgning av
-forhold som ikke er straffbare etter norsk rett.
-Begrunnelsen som i sin tid ble gitt for ordningen
-– at det ikke gjelder krav om dobbel straffbarhet
-for utlevering innen Norden –, gir etter utvalgets
-syn ikke grunnlag for å gjøre unntak fra kravet om
-dobbel straffbarhet for bruk av tvangstiltak.7
-Utkastet bygger på at norsk rett som et
-utgangspunkt skal gis tilsvarende anvendelse ved
-bistand til utenlandske myndigheter og domstoler, jf. § 25-2 første ledd. Dette er i samsvar med
-7
-
-Se Ot.prp. nr. 30 (1974–75) s. 46.
-
-[Side 354]
-
-352
-
-Kapittel 15
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-gjeldende rett, jf. domstolloven § 46 tredje ledd
-første punktum og utleveringsloven § 24 nr. 1.
-Samtidig bør det være en viss anledning til å etterkomme en anmodning om særskilte formkrav
-eller en bestemt fremgangsmåte som avviker fra
-straffeprosessens alminnelige regler, så lenge
-denne er forenlig med sentrale rettsprinsipper og
-rettigheter, jf. utkastet § 25-5 første ledd. Også
-dette viderefører gjeldende rett, jf. domstolloven
-§ 46 tredje ledd tredje punktum.
-15.3.4 Ansvarsfordeling
-Utvalget mener det er behov for at loven klargjør
-rollene og ansvarsfordelingen mellom departementet, domstolene og påtalemyndigheten ved
-behandlingen av anmodninger om bistand.
-Justis- og beredskapsdepartementet er ansvarlig departement for Norges internasjonale samarbeid i sivile saker og straffesaker. Rettsanmodninger både til og fra utlandet skal sendes via departementet med mindre det er adgang til annen
-fremsendelsesmåte etter folkerettslig avtale eller
-bestemmelser gitt av Kongen, jf. domstolloven
-§§ 46 første ledd og 48 første ledd. Se også utleveringsloven §§ 23 a nr. 1, 23 b nr. 1 og 24 nr. 2.
-Departementet har et prinsipielt og selvstendig ansvar for å vurdere om anmodninger fra
-utlandet skal søkes etterkommet, og skal – eventuelt i samarbeid med Utenriksdepartementet –
-særlig påse at Norges utenrikspolitiske interesser
-og forholdet til fremmede stater ivaretas. Departementets oppgaver er likevel i stor grad av praktisk
-karakter, blant annet ved at det fungerer som sentralmyndighet for forsendelser og andre henvendelser fra utenlandske myndigheter.
-Departementets kan således beslutte at
-bistandsanmodninger fra utlandet ikke skal etterkommes, jf. blant annet domstolloven § 46 første
-ledd og utleveringsloven § 24 nr. 4 første punktum. For anmodninger som domstolene og påtalemyndigheten ønsker å fremsette, stiller det seg
-imidlertid annerledes. Disse organenes uavhengige stilling innebærer at departementet ikke kan
-overprøve deres beslutning om å fremsette
-rettsanmodning til utlandet.8
-Reglene om departementets ansvar for
-behandlingen av anmodninger om bistand i
-straffesaker, herunder reglene om hvordan
-anmodninger skal oversendes, foreslås i det
-vesentlige videreført, jf. utkastet §§ 24-3 og 25-4
-første og annet ledd. Departementets vurdering
-av om en anmodning fra utenlandsk myndighet
-8
-
-For domstolenes del, se Bøhn (2013a) s. 171.
-
-skal søkes etterkommet, må skje med utgangspunkt i utkastet § 25-3 om avslagsgrunner mv.,
-som svarer til utleveringsloven § 23 a.
-Ved bistandsanmodning fra utenlandsk myndighet er det i utgangspunktet påtalemyndigheten
-som står for den videre behandlingen og gjennomføringen. Påtalemyndigheten har et selvstendig
-ansvar for å prøve om anmodningen kan og bør
-etterkommes, og må både vurdere om det foreligger avslagsgrunner, og om vilkårene for å gjennomføre anmodningen ellers er til stede. Dersom
-det er behov for rettens medvirkning, for eksempel for å gjennomføre et rettslig avhør eller fordi
-det er anmodet om et tvangstiltak som krever rettens beslutning, bringer påtalemyndigheten saken
-inn for domstolene, såfremt den finner at vilkårene for dette er til stede. Se nærmere utkastet
-§ 25-4 tredje ledd, som i det alt vesentlige viderefører gjeldende rett.
-Etter domstolloven har departementet selvstendig adgang til å anke rettsavgjørelser som
-gjelder behandlingen av rettsanmodninger fra
-utenlandsk myndighet, jf. § 46 annet ledd tredje
-punktum. Denne regelen foreslås ikke videreført i
-utkastet. Etter hva utvalget er kjent med, benyttes
-departementets ankeadgang i praksis ikke. Slik
-utvalget ser det, ville det også harmonere dårlig
-med prinsippet om påtalemyndighetens uavhengighet dersom departementet kunne gripe inn i
-den rettslige behandlingen gjennom anke. Statens
-interesse i å anke bør etter utvalgets oppfatning
-ivaretas av påtalemyndigheten etter de alminnelige ankereglene.
-15.3.5 Særlig om bistand til fjernmøte og
-fjernavhør
-Utleveringsloven § 24 a åpner for at norske
-myndigheter kan bistå slik at vitner og sakkyndige
-som oppholder seg i Norge, kan forklare seg for
-domstol i utlandet gjennom fjernavhør. Bestemmelsen ble vedtatt i forbindelse med implementeringen
-av reglene om video- og telefonavhør i 2000konvensjonen og annen tilleggsprotokoll, jf. lov
-22. juni 2012 nr. 52. Norske myndigheter kan,
-innenfor rammene av straffeprosesslovens regler
-om fjernavhør i straffesaker, be om tilsvarende
-bistand fra utenlandske myndigheter.
-Utvalget mener det er grunn til en viss utvidelse av adgangen til å yte bistand til fjernavhør
-over landegrensene. Utkastet åpner således for at
-fjernavhør ikke bare kan skje fra domstol, men
-også fra politistasjon, fengsel eller annen institusjon når den som skal avhøres, samtykker, og det
-anses ubetenkelig. Enhver står i utgangspunktet
-
-[Side 355]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-fritt til å reise til en annen stat og avgi vitneforklaring der, og det er da vanskelig å se tungtveiende
-grunner som taler mot løsningen i lovutkastet.
-Myndighetene i anmodende stat kan imidlertid ha
-et særlig ønske om at det fra norsk side skjer en
-rettslig kontroll med gjennomføringen, hvilket det
-i så fall bør tas hensyn til.
-2000-konvensjonen artikkel 10 nr. 9 og annen
-tilleggsprotokoll artikkel 9 nr. 9 åpner for at
-reglene om videoavhør over landegrensene også
-kan gis anvendelse for personer som er under
-straffeforfølgning. Norge har imidlertid avgitt
-erklæring om at norske myndigheter ikke vil yte
-bistand til videoavhør i slike tilfeller. Om bakgrunnen for reservasjonen uttaler departementet at «[d]et er et grunnleggende prinsipp i norsk
-straffeprosess at tiltalte skal være tilstede (sic)
-under rettsforhandlingene i egen sak. Unntak
-gjelder kun for mindre alvorlige straffesaker, jf.
-straffeprosessloven § 281». Det ble ikke ansett
-avgjørende at det etter straffeprosessloven i
-noen grad er åpnet for bruk av fjernmøte i
-straffesaker.9
-Utvalget slutter seg til utgangspunktet om at
-en person som er under straffeforfølgning, enten
-det er i Norge eller i utlandet, normalt bør gis
-anledning til å være fysisk til stede under behandlingen av egen sak – ikke minst gjelder dette
-under hoved- og ankeforhandling. Fjernmøte som
-alternativ til fysisk tilstedeværelse kan imidlertid i
-mange sammenhenger være fullt forsvarlig, og
-dessuten ønskelig, også sett fra mistenktes
-ståsted, jf. også punkt 6.4.5. Det siste er antakelig
-særlig aktuelt når forfølgningen skjer i en annen
-stat enn der mistenkte oppholder seg, ettersom
-fysisk tilstedeværelse i slike tilfeller vil kunne
-være byrdefullt for vedkommende. Fjernmøte
-over landegrensene kan dessuten etter omstendighetene være bedre enn alternativene, som for
-eksempel kan være at det avsies dom in absentia,
-eller at det må iverksettes prosess med sikte på
-utlevering til straffeforfølgning.
-På denne bakgrunn mener utvalget at loven
-bør åpne for at norske myndigheter kan bistå ved
-gjennomføring av fjernmøte med person som er
-under straffeforfølgning i utlandet, men slik at det
-kreves samtykke fra vedkommende, og at det
-ellers er ubetenkelig at rettsforhandlingene gjennomføres slik. Det vises til utkastet § 25-10 med
-merknader.
-Utkastet legger også opp til at norske myndigheter kan be utenlandske myndigheter om
-bistand til å gjennomføre fjernmøte i samme
-9
-
-Prop. 97 LS (2011–2012) s. 31.
-
-353
-
-Kapittel 15
-
-utstrekning som det er adgang til dette innenfor
-landets grenser, jf. utkastet § 24-1 første ledd.
-15.3.6 Særlig om enkelte former for bistand
-som ledd i kommunikasjonsinngrep mv.
-I forbindelse med implementeringen av Norges
-tilknytningsavtale til 2000-konvensjonen ble det
-vedtatt regler som åpner for enkelte særlige
-former for bistand til utenlandske myndigheter
-som ledd i rettslig hjelp til kommunikasjonskontroll mv., jf. lov 22. juni 2012 nr. 52, med tilhørende
-endringer i straffeprosessloven §§ 203 annet ledd,
-210 første ledd tredje punktum, 216 a fjerde ledd
-tredje og fjerde punktum og femte og sjette ledd
-og 216 b tredje ledd. Bakgrunnen for lovendringene er nærmere omtalt i Prop. 97 LS
-(2011–2012) s. 32–46. Se også forskrift 14. desember 2012 nr. 1227 om internasjonalt samarbeid i
-straffesaker kapittel 5.
-Lovendringene åpnet for det første for at det
-ved bistand til kommunikasjonskontroll og utleveringspålegg kan besluttes at opplysningene som
-innhentes, skal overføres umiddelbart til anmodende stats myndigheter, slik at de får løpende tilgang til opplysningene (i «sanntid»), som et alternativ til lagring og senere overføring.
-For det andre er det åpnet for at det kan gis
-teknisk bistand til kommunikasjonskontroll i situasjoner der utenlandske myndigheter har behov
-for dette for selv å kunne gjennomføre kontrollen
-overfor personer som oppholder seg i vedkommende stat eller i en tredjestat. Dette kan for
-eksempel være aktuelt dersom kommunikasjon
-rutes via en teknisk innretning på norsk jord.
-For det tredje kan det gis tillatelse til at utenlandske myndigheter selv gjennomfører kommunikasjonskontroll overfor personer som oppholder seg i Norge, når dette kan skje uten teknisk
-bistand fra norske myndigheter.
-Bistand som nevnt i de foregående avsnittene
-kan etter gjeldende rett bare ytes i den utstrekning det er nødvendig for å oppfylle forpliktelser
-etter folkerettslig avtale, det vil i dag si etter 2000konvensjonen. Utvalget mener det er grunn til å
-oppheve denne begrensningen. Reglene legger til
-rette for en mer hensiktsmessig og effektiv gjennomføring av bistand som det uansett er adgang
-til å gi etter de vanlige reglene om bruk av tvangstiltak som ledd i bistand til annen stat.
-At utenlandske myndigheter selv skal kunne
-gjennomføre kommunikasjonskontroll overfor personer som oppholder seg i Norge, kan virke dramatisk, men realiteten er at dette i dag er en etterforskingsmetode som kan forekomme også uten at
-
-[Side 356]
-
-354
-
-Kapittel 15
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-norske myndigheter orienteres overhodet. I den
-grad norske myndigheter anmodes om bistand,
-bør en ha et rettslig regime for å behandle spørsmålet om hvorvidt inngrepet skal aksepteres.
-Bistand bør også kunne ytes til stater utenfor
-EU. Norge har for eksempel et langt tettere samarbeid med USA enn vi har med mange av EU-landene. Reglene bør heller ikke nødvendigvis
-begrenses til bare å gjelde slike tvangstiltak som
-bestemmelsene i 2000-konvensjonen omhandler,
-for eksempel kan det også ved romavlytting være
-behov for umiddelbar overføring.
-På denne bakgrunn foreslår utvalget at anvendelsesområdet for nevnte regler utvides noe, herunder at det åpnes for at reglene kan anvendes
-uavhengig av folkerettslig avtale.
-15.3.7 Enkelte særlige former for samarbeid til
-sjøs
-Utvalget foreslår at det i lovens del om internasjonalt samarbeid også gis regler om enkelte særlige
-former for samarbeid til sjøs.
-Straffeprosessloven § 4 a har, som nevnt i det
-foregående, regler om at påtalemyndigheten kan
-gi tillatelse til at utenlandske myndigheter border
-norsk fartøy og gjør bruk av tvangsmidler mv. i
-samsvar med protokoll 2005 til konvensjon
-10. mars 1988 om bekjempelse av ulovlige
-handlinger mot sikkerheten ved skipsfart. Et tilsvarende samarbeidsregime følger av lov 13. juni
-1997 nr. 47 om gjennomføring av europarådsavtale
-31. januar 1995 om ulovlig håndtering av og handel med narkotika og psykotrope stoffer til sjøs
-§§ 1 og 2. Nærmere regler om samarbeid etter
-nevnte bestemmelser er gitt i påtaleinstruksen
-§§ 32-1 og 32-2.
-Utvalget foreslår at Norges folkerettslige forpliktelser til samarbeid om bording av fartøy mv.
-etter nevnte avtaler implementeres samlet i
-utkastet § 26-1. Tas forslaget til følge, kan lov 13.
-juni 1997 nr. 47 om gjennomføring av europarådsavtale 31. januar 1995 om ulovlig håndtering
-av og handel med narkotika og psykotrope stoffer oppheves. Utkastet § 26-1 viderefører lovens
-§§ 1 og 2. Lovens § 3 om kystvaktens bistandsfunksjon er formentlig dekket av lov 13. juni 1997
-nr. 42 om Kystvakten §§ 17 første ledd og 21
-annet ledd. Forpliktelsene som ligger til grunn
-for lovens § 4 om jurisdiksjon, antas gjennomført
-i norsk rett ved bestemmelsen i straffeloven § 6
-om jurisdiksjon på folkerettslig grunnlag. Lovens
-§ 5 om erstatning foreslås regulert i utkastet
-§ 45-5.
-
-Straffeprosessloven § 4 annet ledd bestemmer
-at «Kongen kan ved forskrift gi bestemmelser om
-hvordan loven kommer til anvendelse ved
-behandlingen av saker om straff utenfor norsk
-territorialfarvann og kan fastsette at deler av loven
-ikke skal gjelde, og særlige regler under hensyn
-til de aktuelle forhold». Bestemmelsen ble vedtatt
-ved lov 14. juni 2013 nr. 43, på bakgrunn av
-Norges deltakelse i NATO-operasjonen «Ocean
-Shield», som har til formål å bekjempe piratvirksomhet i Det indiske hav. Nærmere regler er gitt i
-forskrift 14. juni 2013 nr. 622 om behandling av
-saker om straff for personer mistenkt for piratvirksomhet i Det indiske hav.
-Utvalget foreslår at en tilsvarende forskriftshjemmel tas inn i lovens del om internasjonalt
-samarbeid, jf. utkastet § 26-2. Adgangen til å gi forskrifter er etter utkastet begrenset til situasjoner
-der behandlingen skjer «som ledd i samarbeid
-med andre stater». Dette er i samsvar med bakgrunnen for straffeprosessloven § 4 annet ledd og
-etter utvalgets syn også en forutsetning for at det
-skal være forsvarlig å gi en så vid adgang til å fravike lovens regler som reguleringen legger opp
-til. I den grad det også utenfor samarbeidssituasjonene identifiseres behov for å gi særlige regler om
-behandling av straffesaker utenfor norsk territorialfarvann, bør spørsmålet gjøres til gjenstand for
-særskilt regulering. Utkastet § 26-2 forutsetter
-revisjon av forskrift 14. juni 2013 nr. 622 om
-behandling av saker om straff for personer mistenkt for piratvirksomhet i Det indiske hav, jf.
-merknadene til bestemmelsen.
-15.3.8 Overføring av straffesaker
-Etter gjeldende rett reguleres overføring av straffesaker mellom Norge og andre land som er tilsluttet 1972-konvensjonen av lov 25. mars 1977 nr.
-22 om overføring av straffeforfølging fra eller til
-annet europeisk land. Utenfor lovens anvendelsesområde gjelder ingen særskilt internrettslig regulering, se punkt 15.2.1.
-Utvalget foreslår at det i ny straffeprosesslov
-gis generelle regler om overføring av straffesaker
-mellom norske og utenlandske myndigheter samt
-mellom Norge og internasjonale straffedomstoler,
-jf. utkastet kapittel 27. Reglene i utkastet gjelder
-etter sitt innhold uavhengig av folkerettslig avtale,
-men er samtidig – sammen med forslag til enkelte
-endringer i straffeloven – utformet med tanke på
-nødvendig gjennomføring av Norges forpliktelser
-etter 1972-konvensjonen. Tas forslagene til følge,
-kan lov 25. mars 1977 nr. 22 om overføring av
-
-[Side 357]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-straffeforfølging fra eller til annet europeisk land
-oppheves.
-Straffeloven foreslås endret med sikte på å
-implementere enkelte forpliktelser etter 1972konvensjonen som berører den materielle strafferetten. Konvensjonens artikkel 26 nr. 2 om foreldelse, som krever at enhver gyldig preskripsjonsavbrytende handling i den anmodende stat
-skal ha samme virkning i den anmodede stat og
-omvendt, foreslås implementert i et nytt tredje
-
-355
-
-Kapittel 15
-
-ledd i straffeloven § 88. Artikkel 7 nr. 2, som stiller
-visse krav til straffelovens anvendelse på
-handlinger begått i utlandet av eller mot en person
-i offentlig tjeneste eller mot en offentlig institusjon mv., foreslås implementert i ny § 8. Jurisdiksjonsforpliktelsene etter artikkel 2 nr. 1 og 7 nr. 1 i
-konvensjonen må anses gjennomført ved straffeloven § 6 om særlig folkerettslig grunnlag for å
-straffeforfølge og krever dermed ingen endringer.
-
-[Side 358]
-
-356
-
-Kapittel 16
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-Kapittel 16
-
-Påtalevedtak
-16.1 Innledning
-
-16.2 Frist for påtalevedtak
-
-Utkastet del 5 har regler om påtalevedtak. Uttrykket «påtalevedtak» er en vanlig betegnelse for
-beslutninger der påtalemyndigheten tar stilling til
-påtalespørsmålet. Det innebærer å avgjøre om forholdet skal henlegges, eller om det skal utferdiges
-tiltale, forelegg, påtaleunnlatelse mv. Beslutning
-om henleggelse omtales gjerne som «negativt
-påtalevedtak», mens vedtak der påtalemyndigheten legger til grunn at vilkårene for straffansvar er
-til stede, omtales som «positivt påtalevedtak». Ved
-utferdigelse av forelegg omfatter påtalevedtaket
-også den reaksjon som ilegges. I utkastet benyttes
-«påtalevedtak» i overskrifter, mens lovteksten har
-beholdt den tradisjonelle formen «avgjørelse av
-spørsmålet om påtale».
-Utkastet viderefører stort sett gjeldende rett
-for så vidt gjelder de ulike typer påtalevedtak og
-vilkårene for disse. Utvalget har likevel funnet
-grunn til å ta opp enkelte spørsmål om
-endringer, som behandles nærmere i det
-følgende. I punkt 16.2 drøfter utvalget hvorvidt
-loven bør ha regler om frist for påtalevedtak, og i
-punkt 16.3 knyttes enkelte bemerkninger til
-reglene om påtaleunnlatelse. Dernest behandles
-i punkt 16.4 spørsmålet om hvorvidt påtalemyndigheten bør ha en generell adgang til å beslutte
-henleggelse når forfølgning ikke er i det offentliges interesse. Spørsmålet om hvorvidt påtalemyndigheten bør ha adgang til å beslutte henleggelse av kapasitetsgrunner, vurderes i punkt
-16.5. Ordningen med påtalebegjæring fra offentlig myndighet som vilkår for forfølgning drøftes i
-punkt 16.6. Enkelte spørsmål om omgjøring av
-påtalevedtak er omtalt i punkt 16.7. Straffetilsagn, som etter systematikken i utkastet er
-behandlet sammen med reglene om påtalevedtak, behandles i punkt 16.8.
-
-Etter straffeprosessloven § 249 første ledd skal
-spørsmålet om tiltale avgjøres så snart saken er
-tilstrekkelig forberedt til det. Dersom mistenkte
-var under 18 år på handlingstiden, er fristen som
-hovedregel 6 uker. Nærmere fristregler er gitt
-gjennom direktiver fra riksadvokaten. For visse
-kroppskrenkelser skal saksbehandlingstiden i
-oppklarte saker i utgangspunktet ikke overstige
-90 dager, regnet fra anmeldelse til det treffes påtalevedtak. For 2016 er det også innført et mål om at
-gjennomsnittlig saksbehandlingstid i voldtektssaker ikke skal overstige 130 dager.1 Fristene
-etter lov og instruks er ikke preklusive. De
-instruksfestede fristene er dessuten formulert
-mer som mål for gjennomsnittlig saksbehandlingstid enn som frister i den enkelte sak.
-Vurdert ut fra et landsgjennomsnitt synes de
-fristene som gjelder, i det vesentlige å bli overholdt.2 Den gjennomsnittlige saksbehandlingstiden for oppklarte saker var for landet som helhet
-95 dager i 2015.3 Dette er 25 dager kortere enn
-målet samme år, som var 120 dager.4 Saksbehandlingstiden varierer imidlertid mellom politidistriktene og innen ulike sakskategorier. Ved utgangen
-av 2015 var det for landet som helhet 37 415 ikke
-påtaleavgjorte saker eldre enn tre måneder,
-hvorav 7911 var eldre enn tolv måneder.5
-Selv om saksbehandlingstiden i politiet og
-påtalemyndigheten må sies å ha utviklet seg i
-positiv retning de senere år, er lang saksbehandlingstid fremdeles en betydelig utfordring. Et
-stort antall saker tar vesentlig lengre tid enn det
-gjennomsnittstallene viser. Dette gjelder ikke
-bare komplekse og omfattende saker; også relativt oversiktlige og enkle saker blir i et betydelig
-1
-2
-3
-4
-5
-
-Riksadvokaten (1/2016) s. 4.
-Riksadvokaten (12.05.15).
-Riksadvokaten (1/2016) s. 4.
-Riksadvokaten (1/2015) s. 4.
-Riksadvokatens (1/2016) s. 5.
+I straffeprosessloven §§ 285 til 288 finnes regler om oppdeling av forhandlingene og avgjørelsen. Oppdeling kan skje for spørsmål om avvisning eller frifinnelse fordi det forhold som er beskrevet i tiltalen, ikke er straffbart, eller fordi straffansvaret er falt bort, jf. §§ 285 og 286. Når flere saker er forent til felles behandling etter § 13, kan det forhandles særskilt for hver enkelt handling eller tiltalt, og retten kan avsi dom om en del av saken dersom den finner det ubetenkelig, jf. § 287. Etter § 288 kan retten beslutte at det skal forhandles særskilt om skyldspørsmålet når det er tvil om tiltaltes sinnstilstand, eller andre grunner gjør det ønskelig. Dersom tiltalte etter slike forhandlinger ikke frifinnes, kan retten avsi kjennelse om at tiltalte er skyldig eller har foretatt den handling tiltalen gjelder. Andre deler av skyldspørsmålet er det ikke anledning til å avgjøre særskilt.
+
+Tvisteloven har regler om oppdeling av forhandlingene eller pådømmelsen i § 16-1. Det kan forhandles særskilt om ett eller noen av flere krav i saken eller om ett eller flere tvistepunkter for et krav, og det kan treffes særskilt avgjørelse av ett eller noen av flere krav eller en del av et krav. Avgjørelsen av erstatningskrav eller andre krav hvor omfanget er omtvistet, kan deles slik at avgjørelsen av omfanget utsettes til retten har tatt stilling til om det er grunnlag for kravet. Bestemmelsen åpner også for særskilt avgjørelse av påstandsgrunnlag som ikke leder til avgjørelse av et krav, for eksempel om at en foreldelsesinnsigelse ikke tas til følge, men det er et vilkår at retten er enstemmig, eller at partene samtykker i det. Særskilt avgjørelse treffes i alle tilfeller ved dom, jf. § 19-1 første ledd bokstav a og b. Dommen kan ankes på vanlig måte, jf. § 29-2 første ledd. Når et påstandsgrunnlag er rettskraftig avgjort, er dette bindende ved den videre behandlingen av kravet.[^912]
+
+Utvalget har fått tilbakemeldinger om, og har selv inntrykk av, at oppdeling av forhandlingene nokså sjelden benyttes i straffesaker, og at det ville være en fordel om denne prosessuelle adgangen ble benyttet i noe større utstrekning, og da særlig i større saker hvor ett eller flere springende punkter kan tenkes å løse saken. En slik formalisert oppdeling av forhandlingene vil styrke konsentrasjonen, herunder slik at man unngår å bruke tid på spørsmål uten betydning for utfallet.
+
+Selv om adgangen til oppdeling etter straffeprosessloven er relativt vid, mener utvalget det er grunn til å utvide adgangen i retning av tvistelovens modell.
+
+I tillegg til de delavgjørelser gjeldende lov åpner for, anbefaler utvalget at det skal være en adgang til å ta særskilt stilling til sivilrettslige spørsmål som er av betydning for straffbarheten i den enkelte sak. En slik avklaring kan være bestemmende for hvilke øvrige spørsmål det blir behov for å ta stilling til i saken. Det samme gjelder for spørsmålet om hvorvidt tiltalte var strafferettslig tilregnelig på gjerningstidspunktet. Spørsmål om hvorvidt tiltalte har utvist nødvendig grad av skyld, vil nok sjelden være egnet for selvstendig avgjørelse, men også dette spørsmålet kan det etter omstendighetene være hensiktsmessig å få avklart sammen med spørsmålet om hvorvidt tiltalte har foretatt handlingen, for eksempel slik at et eventuelt spørsmål om tilregnelighet utsettes. Utvalget mener det heller ikke er grunn til å stenge muligheten for å ta stilling til andre delspørsmål, for eksempel om tiltalte var på åstedet på gjerningstidspunktet mv.
+
+Etter lovutkastet er det på denne bakgrunn en vid adgang til å treffe særskilt avgjørelse om spørsmål av betydning for straffansvaret, og det er overlatt til rettens skjønn å avgjøre når det er hensiktsmessig å treffe slik delavgjørelse. Se utkastet § 30-4 annet ledd. Hvorvidt det er hensiktsmessig å dele opp saken, skal vurderes i lys av kravet om forsvarlig avgjørelsesgrunnlag, jf. utkastet § 7-1. Når det er forhandlet særskilt om ett eller flere spørsmål, kan retten frifinne tiltalte dersom det er grunnlag for det, eller retten kan avstå fra å treffe avgjørelse og fortsette forhandlingene.
+
+Adgangen til å treffe særskilt avgjørelse om deler av skyldspørsmålet innebærer et unntak fra voteringsreglene, hvor utgangspunktet er at det skal stemmes over skyldspørsmålet under ett, jf. utkastet § 32-6 annet ledd første punktum, som viderefører straffeprosessloven § 33 første punktum. For at det ikke skal få betydning for det endelige utfallet av saken at det er truffet delavgjørelse, må regelen om at en dommer som har stemt for frifinnelse, skal anses for å stemme til gunst for tiltalte i videre avstemninger om skyldspørsmålet, også gjelde når en dommer har stemt for frifinnelse i forbindelse med en særskilt avgjørelse. Dette er presisert i utkastet § 32-6 tredje ledd annet punktum.
+
+Dersom de videre forhandlingene gir grunnlag for det, skal en særskilt avgjørelse kunne omgjøres til gunst for tiltalte i tråd med prinsippet i straffeprosessloven § 288 fjerde ledd første punktum, se utkastet § 30-4 tredje ledd.
+
+Etter straffeprosessloven er det ikke adgang til å anke en delavgjørelse, jf. § 288 annet ledd nr. 2 i.f. Slik utvalget ser det, bør utgangspunktet fremdeles være at en sak behandles og avgjøres i én instans av gangen. Sakens problemstillinger bør som regel ses i sammenheng, og det bør derfor utvises varsomhet med å foregripe en eventuell ankebehandling av saken. Likevel bør det være en viss adgang til å anke delavgjørelser, for eksempel vil det dersom saken reiser et vanskelig rettsspørsmål, kunne være mye å tjene på å få spørsmålet avklart i høyere rettsinstanser. Vilkårene for slik ankebehandling bør være at det er hensiktsmessig av hensyn til den videre behandlingen av saken, og at retten samtykker. Ankeadgangen følger regelen etter utkastet § 37-2 annet ledd bokstav f. Omgjøringsadgangen etter utkastet § 30-4 tredje ledd gjelder også for beslutninger som etter anke er truffet av overordnet domstol.
+
+1.  **Det faktiske grunnlaget for rettens avgjørelser**
+
+    1.  **Utgangspunkter**
+
+Straffeprosessloven § 305 fastslår at retten ved avgjørelsen av hvilket saksforhold som skal legges til grunn for en dom, kun skal ta i betraktning de bevis som er ført under hovedforhandlingen. Et bærende hensyn for regelen er at tiltalte skal gis anledning til å ta til motmæle og forsvare seg, jf. kontradiksjonsprinsippet, som er nærmere omtalt i punkt 5.3.6.
+
+Bestemmelsen gjelder som et utgangspunkt bare for avgjørelser som hører til hovedforhandlingen og pådømmelsen.[^913] For øvrige avgjørelser, herunder avgjørelser som treffes under etterforskingen mv., gjelder begrensningen ikke. Slike avgjørelser kan treffes på grunnlag av sakens dokumenter, eventuelt i kombinasjon med det som er fremkommet i rettsmøte.[^914] Retten til kontradiksjon ivaretas da enten skriftlig eller muntlig.
+
+Utvalget anbefaler at utgangspunktene etter gjeldende rett videreføres. I utkastet § 32-4 første ledd er det fastslått at rettens avgjørelser skal treffes på grunnlag av «sakens opplysninger», som svarer til «sakens dokumenter» i gjeldende lov, jf. punkt 12.4.1.2. Prinsippet i straffeprosessloven § 305 videreføres i annet ledd første punktum: «Avgjørelse etter hoved- og ankeforhandling treffes på grunnlag av behandlingen i rettsmøte.»
+
+I lovutkastet finnes også bestemmelser som gjør unntak fra, eller som fastslår rekkevidden av, nevnte utgangspunkter. For det første er det en adgang for ankeinstansen til å bygge på uomtvistede deler av underinstansens dom, uten at de aktuelle deler av dommen leses opp under ankeforhandlingene, se nærmere punkt 17.3.2. For det andre åpner utkastet for bruk av skriftlige redegjørelser og at slike i en viss utstrekning kan dokumenteres for retten på annen måte enn ved opplesning, se nærmere punkt 17.3.3. For det tredje innebærer utkastet en klargjøring og tilstramning av hvilket faktisk grunnlag ankeinstansen kan bygge silingsavgjørelser på, se punkt 17.3.4.
+
+1.  **Adgangen til å bygge på uomtvistede deler av underinstansens dom**
+
+Etter gjeldende rett kan lagmannsretten ved anke over bevisvurderingen under skyldspørsmålet beslutte at bevisføringen skal begrenses til de deler av bevisbedømmelsen i tingrettens dom som bestrides, jf. straffeprosessloven § 331 tredje ledd. Forutsetningsvis kan da de deler av faktum som tingrettens dom bygger på, og som ikke er omtvistet, i utgangspunktet legges til grunn også for lagmannsrettens dom, uten ytterligere bevisføring.[^915] I tråd med prinsippet i § 305 må imidlertid de uomtvistede deler av tingrettens dom leses opp under ankeforhandlingen.[^916]
+
+Utkastet bygger på at ankeforhandlingene skal konsentreres om omtvistede faktiske og rettslige spørsmål, se punkt 20.4.3 og 20.4.6. Som ledd i denne behandlingsformen mener utvalget at bevisføringen også må kunne avgrenses mot de deler av saksforholdet som er lagt til grunn av underinstansen, og som ikke er omstridt. Hvilke sider ved avgjørelsen dette gjelder, vil etter utkastets krav til ankeerklæring, anketilsvar og øvrig forberedelse til ankeforhandling normalt være klarlagt forut for ankeforhandlingen. Såfremt det under saksforberedelsen er tilstrekkelig klarlagt hvilke deler av underinstansens dom som er omforent, mener utvalget det er overflødig å dokumentere de aktuelle deler ved opplesning. Hensynet til offentlighet i rettspleien er etter utvalgets syn tilstrekkelig ivaretatt, blant annet ved at underinstansens avgjørelse som hovedregel er offentlig. Utkastet § 32-4 annet ledd annet punktum lyder: «Ankedomstolen kan i tillegg bygge på faktiske sider ved underinstansens dom, som ikke er omtvistet.»
+
+1.  **Skriftlige redegjørelser som en del av avgjørelsesgrunnlaget mv.**
+
+Utvalget mener bruken av skriftlige redegjørelser og saksfremstillinger fra partene under rettergang bør videreutvikles som del av saksforberedelsen, se punkt 18.1.7 og 18.1.8. Spørsmålet som drøftes i det følgende er om og eventuelt i hvilken utstrekning retten bør kunne bygge på slike skriftlige innlegg uavhengig av om disse har blitt dokumentert under hoved- eller ankeforhandlingen.
+
+Etter straffeprosessloven skal ikke partenes skriftlige redegjørelser inngå i rettens avgjørelsesgrunnlag, med mindre de har vært dokumentert ved opplesning under hovedforhandlingen, jf. §§ 302 og 305. Etter tvisteloven kan derimot skriftlige redegjørelser i stor utstrekning inngå direkte i avgjørelsesgrunnlaget, selv om de ikke har vært behandlet under de muntlige forhandlingene, jf. tvisteloven § 11-1 første ledd, jf. § 9-9 første ledd, jf. tredje og fjerde ledd, jf. § 29-16 tredje og fjerde ledd.
+
+Grunnleggende forutsetninger for straffeprosessen er etter utvalgets syn til hinder for en vidtrekkende adgang for retten til å bygge på skriftlige redegjørelser og fremstillinger som ikke har vært behandlet i rettsmøte. Rettens selvstendige ansvar for sakens opplysning innebærer at det skal føres kontroll med holdbarheten av partenes innlegg. Dette stiller seg annerledes i dispositive sivile saker, der partene gjennom disposisjonsprinsippet har større rådighet over saken. Behandling av skriftlige innlegg i rettsmøte er viktig for å sikre rettens kontroll med bevisføringen og for å gi gode forutsetninger for kontradiksjon. Stor grad av skriftlighet under prosessen vil dessuten gå på bekostning av hensynet til offentlighet i rettspleien.
+
+På denne bakgrunn, og i tråd med hovedregelen i utkastet, mener utvalget at partenes redegjørelser må legges frem og behandles under de muntlige forhandlingene for at retten skal kunne bygge på dem. Det foreslås likevel en bestemmelse om at opplesning av skriftlige bevis under hoved- og ankeforhandlingen kan unnlates dersom opplesning vil være uforholdsmessig tidkrevende, og det er forsvarlig å unnlate det, se punkt 18.2.3 og utkastet § 35-2 annet ledd siste punktum. Bestemmelsen åpner for at partenes redegjørelser kan anses ført på lik linje med andre skriftlige bevis uten at de nødvendigvis er lest opp i sin helhet.
+
+Bruken av skriftlige saksfremstillinger fra partene reiser også enkelte spørsmål om forholdet til muntlighets- og bevisumiddelbarhetsprinsippet som er behandlet nærmere i punkt 18.1.8.
+
+1.  **Det faktiske grunnlaget for silingsavgjørelser**
+
+Etter gjeldende rett treffes lagmannsrettens henvisningsavgjørelser på grunnlag av sakens dokumenter, inkludert tingrettens rettsbok og dom, jf. straffeprosessloven § 316. Lagmannsretten står imidlertid ikke fritt i bruken av dokumentene, idet den skal «utvise varsomhet med hensyn til å vektlegge forhold som tingretten etter umiddelbar bevisføring og kontradiksjon ikke har bygget på».[^917] Det er ikke anledning til å etablere «eit nytt grunnlag for domfelling» basert på opplysninger i saksdokumentene,[^918] men det kan i en viss utstrekning legges vekt på disse, i tillegg til tingrettens dom.[^919] Hvor grensene går for å basere silingsavgjørelsen på saksdokumentene, er ikke helt klart.[^920]
+
+Utvalget mener at ankedomstolens henvisningsavgjørelser i utgangspunktet bare bør kunne bygge på opplysninger som har vært gjenstand for behandling, og dermed kontradiksjon, i underinstansen. Dette bør i alle fall gjelde for avgjørelse til domfeltes ugunst. Henvisningsspørsmålet bør således avgjøres ut fra den påankede dommens egne premisser. Dersom ankedomstolen ser hen til andre opplysninger enn dem underinstansen har bygget på, er det ikke lenger en ren overprøving, men en ny realitetsbehandling av saken man står overfor. En slik skriftlig prøving uten ankeforhandling vil harmonere dårlig med tanken om ankebehandling som en kontrollordning, og dessuten med partenes rett til kontradiksjon.
+
+Utvalget foreslår i punkt 6.5.3.3 at det som regel skal tas lyd- og bildeopptak av rettsforhandlingene, herunder av forklaringer som avgis under hoved- og ankeforhandling. Slik utvalget ser det, er det da nærliggende at silingsbehandlingen som et utgangspunkt bare skal kunne bygges på underinstansens dom og rettsbok, inkludert slike opptak.[^921] Dette vil sikre at ankedomstolen bare tar i betraktning opplysninger som har vært gjenstand for behandling i underinstansen. Til domfeltes gunst – det vil si som grunnlag for å tillate fremmet domfeltes anke eller en anke fra påtalemyndigheten til domfeltes gunst – bør også opplysninger som ikke har vært behandlet i underinstansen, kunne tas i betraktning, under forutsetning av at kravene til kontradiksjon ivaretas. Regelen bør være den samme for anke over bevisbedømmelsen under skyldspørsmålet og anke over straffutmålingen, og, for så vidt gjelder sistnevnte, bør regelen også gjelde for Høyesterett. Se utkastet § 32-4 tredje ledd.
+
+1.  **Rettens tilgang til og bruk av sakens dokumenter**
+
+    1.  **Gjeldende rett**
+
+Utenfor hoved- og ankeforhandling er regelen etter straffeprosessloven at rettens avgjørelser treffes på grunnlag av sakens dokumenter, eventuelt i kombinasjon med opplysninger som er fremkommet gjennom muntlig behandling i rettsmøte, se punkt 17.3.1. Regelen forutsetter at retten har tilgang til dokumentene, som normalt oversendes sammen med påtalemyndighetens prosesskriv, for eksempel i forbindelse med begjæring om varetektsfengsling.
+
+Under forberedelse til og gjennomføring av hovedforhandling er regelen derimot at retten i utgangspunktet ikke har tilgang til sakens dokumenter, jf. straffeprosessloven § 262 første ledd første punktum, der det fremgår at det som utgangspunkt kun er kopi av tiltalebeslutningen og bevisoppgaven som skal sendes retten.[^922] Etter første ledd siste punktum kan imidlertid «\[r\]ettens leder \[…\] om han finner behov for det, be om utlån av sakens dokumenter». Det er helt opp til rettens skjønn når slikt utlån skal finne sted.[^923]
+
+Adgangen til å be om utlån av sakens dokumenter er i hovedsak begrunnet i hensynet til saksforberedelsen, men retten kan beholde dokumentene også under hovedforhandlingen. Det har imidlertid vært antatt at loven skal forstås slik at dokumentene i utgangspunktet ikke skal være tilgjengelige for retten etter avsluttet hovedforhandling, jf. Rt. 1970 s. 187.[^924] Påtaleinstruksen § 26-1 annet ledd bestemmer i tråd med dette at «\[n\]år saken tas opp til doms, skal aktor ta med de av sakens dokumenter som ikke er lagt frem i retten».
+
+Spørsmålet om rettens forhold til saksdokumenter som ikke har vært lagt frem som bevis, var tema i Høyesteretts kjennelse 18. mars 2016. Problemstillingen var om opplysninger i dokumentutdrag som ingen av partene hadde ført som bevis under hovedforhandlingen, skulle vært fjernet fra utdraget etter avsluttet forhandling. Høyesterett viste til utgangspunktet om at retten bare kan bygge på bevis som er fremkommet under hovedforhandlingen, jf. straffeprosessloven § 305, og påtaleinstruksens forutsetning om at aktor skal ta med dokumenter som ikke har vært fremlagt for retten, og fastslo:
+
+«Dette betyr ikke at det er i strid med loven eller med det overordnede prinsipp om rettferdig rettergang, herunder rett til kontradiksjon, at dommere har tilgang til dokumenter som ikke har vært ført som bevis i retten. Rettergangen må bedømmes samlet, og det må vurderes konkret ut fra domsgrunnene og eventuelt andre opplysninger man måtte ha, om dommerne i strid med § 305 kan ha lagt vekt på bevis som ikke er ført i retten, og om det i tilfelle kan ha virket inn på avgjørelsens innhold.»[^925]
+
+Loven inneholder ingen uttrykkelig regulering av spørsmålet om fremleggelse av forklaringer som leses opp under forhandlingene, eller om rettens adgang til å be om slike dokumenter. Det er imidlertid en utbredt oppfatning at forklaringer som leses opp, ikke skal fremlegges for den dømmende rett, men at retten i stedet, som for muntlige forklaringer, er henvist til å bygge på egne notater. Det har i denne sammenheng vært fremhevet som et argument for denne ordningen at retten kan komme til å legge uforholdsmessig stor vekt på oppleste forklaringer dersom disse også fremlegges skriftlig.[^926]
+
+1.  **Utvalgets vurderinger og forslag**
+
+Utvalget foreslår å videreføre regelen om at rettens avgjørelser utenfor hoved- og ankeforhandling skal bygge på sakens dokumenter, se punkt 17.3.1 og utkastet § 32-4 første ledd, og retten må følgelig også ha tilgang til dokumentene i slike tilfeller. Uttrykket «sakens dokumenter» er i utkastet erstattet med uttrykket «sakens opplysninger», se punkt 12.4.1.2.
+
+Et vanskeligere spørsmål er om retten også bør ha tilgang til sakens opplysninger i forbindelse med saksforberedelsen, under hoved- og ankeforhandling og etter at saken er tatt opp til doms. Dette må besvares ut fra en vurdering av rettens behov holdt opp mot hensyn som taler for å begrense tilgangen. Begge deler kan tenkes å stille seg forskjellig i ulike typer saker og på de ulike stadier av saksbehandlingen.
+
+En utbredt oppfatning er at rettens medlemmer bør møte til hovedforhandling «med blanke ark», uten annen kjennskap til saken enn det den får gjennom å lese tiltalebeslutningen og bevisoppgaven. Tanken er at dersom retten gjennomgår saksdokumentene under saksforberedelsen, vil det være en fare for at dommerne danner seg en forhåndsoppfatning om saken og dens utfall, eller at det kan oppstå mistanke om at så har skjedd.[^927]
+
+Gjør retten seg kjent med saken ved selvstudium, kan det i prinsippet også lede til at den bevisst eller ubevisst bygger avgjørelsen på opplysninger som ikke har vært gjenstand for behandling i rettsmøte, noe som kan gå på bekostning av partenes muligheter for kontradiksjon, se punkt 17.3.1. Det er også risiko for at retten kan bli kjent med bevis det ikke vil være adgang til å føre under hovedforhandlingen, for eksempel en vitneforklaring som påtalemyndigheten vil være avskåret fra å lese opp dersom vitnet ikke møter og forklarer seg, se punkt 13.5. Begge deler er forhold som også kan gå på bekostning av tilliten til rettens objektivitet.
+
+Videre kan det hevdes å være uheldig, og gi en ubalanse mellom rettens medlemmer, dersom fagdommerne gis en mulighet til å gjøre seg kjent med opplysninger som ikke lekdommerne har. Meddommerne har normalt ikke de samme juridiske kunnskaper som fagdommerne. Dersom også informasjonstilgangen blir asymmetrisk, kan det forsterke en allerede eksisterende «skjevhet» i forholdet mellom dommerne. Manglende forhåndskjennskap til saken kan også begrense lekdommernes mulighet til å følge med under bevisføringen og partenes saksfremlegg.
+
+Utvalgets *flertall* mener retten bør ha tilgang til sakens opplysninger både under saksforberedelsen og den videre behandlingen av saken. Dette er ordningen i de fleste europeiske land, herunder i Sverige og Danmark.
+
+Etter flertallets syn vil saken i alminnelighet bli best opplyst med bredest mulig tilgang til informasjon om de temaer som søkes belyst. Dette utgangspunktet tilsier, sammenholdt med rettens ansvar for saksopplysningen og for å ivareta mistenktes rettigheter, at det krever en særlig begrunnelse om retten skal ha dårligere informasjonstilgang enn partene. I denne sammenheng er det grunn til å fremheve at mange av bevisene i en straffesak ikke fremkommer for første gang i retten, men er resultat av en omfattende etterforskingsfase. Uten tilgang til sakens opplysninger vil retten kunne gå glipp av viktige forutsetninger for å ta stilling til partenes forslag til saksopplegg. Manglende kjennskap til sakens opplysninger vil således kunne gå ut over hensynene til konsentrasjon og effektivitet, ettersom retten i stor utstrekning vil være prisgitt partenes fremstillinger og mangle eller ha begrensede forutsetninger for å prøve om partenes bevistilbud er tilstrekkelig, relevant og forholdsmessig.[^928]
+
+Risikoen for at retten på grunnlag av politiforklaringer eller andre opplysninger danner seg en forhåndsoppfatning som går på bekostning av rasjonell bevisbedømmelse og hensynet til sannhetssøken, kan etter flertallets syn lett overdrives. Det er snarere grunn til å tro at en viss forhåndskunnskap om av saken, basert på kjennskap til dens opplysninger, vil styrke rettens forutsetninger for å oppfatte hvilke deler av bevisføringen som står sentralt, og gi grunnlag for god saksstyring.
+
+I sivile saker får saksforberedende dommer inngående kjennskap til saken gjennom partenes prosesskriv med saksfremstilling, argumentasjon og redegjørelser for bevisene. Det vanlige er at rettens leder under hoved- og ankeforhandling også har hatt ansvaret for eller har tatt del i saksforberedelsen, uten at det av den grunn stilles spørsmål ved om vedkommende er forutinntatt eller vil vektlegge bevis som ikke er ført for den dømmende rett.[^929] Tvisteloven forutsetter – på samme måte som straffeprosessloven § 305 – at det skal ses bort fra opplysninger som er fremkommet under saksforberedelsen, og som ikke er behandlet under hovedforhandlingen, jf. § 11-1 første ledd.
+
+Også i straffesaker vil rettens leder i mange tilfeller ha hatt hånd om saksdokumentene under etterforskingen, for eksempel i forbindelse med spørsmål om bruk av tvangsmidler, rettslig bevisopptak mv. At en dommer har hatt slik befatning med saken, er som regel ikke til hinder for at vedkommende senere gjør tjeneste som dommer under en hovedforhandling. I Høyesteretts nevnte kjennelse av 18. mars 2016 legges det i tråd med dette til grunn at prinsippet om at dommen bare kan bygge på bevis som er ført under hovedforhandlingen, ikke er til hinder for at retten har tilgang til opplysninger som ikke har vært ført som bevis i retten.[^930]
+
+Flertallet mener det må kunne forutsettes at profesjonelle dommere er i stand til å håndheve et skille mellom hva man har tilgang til av informasjon, og hva man kan bygge på av den informasjonen man har tilgang til. Dette er en forutsetning man vanskelig kommer utenom, og som blant annet ligger til grunn for håndhevelse av bevisforbudene, se punkt 13.3. Det er ingen stor fare for at dette vil medføre at retten, ut fra et ønske om et rimelig resultat eller av andre grunner – bevisst eller ubevisst – vil bygge på opplysninger det etter loven skal ses bort fra.
+
+Spørsmålet om hvilke opplysninger retten skal ha tilgang til, bør således løses for seg og holdes adskilt fra spørsmålet om hvilke opplysninger retten skal kunne bygge på ut fra reglene om bevisforbud, det faktiske grunnlaget for rettens avgjørelser og retten til kontradiksjon.
+
+I tilknytning til argumentet om at tilgang til sakens opplysninger vil gi en ubalanse mellom fagdommere og lekdommere, må det innledningsvis påpekes at det etter flertallets forslag er den samlede rett som skal ha tilgang til opplysningene. Under saksforberedelsen er det riktignok kun saksforberedende dommer som har tilgang, og en lekdommer vil nok i praksis ikke ha anledning til å sette seg nærmere inn i sakens dokumenter verken på forhånd eller underveis i forhandlingene. Men etter flertallets syn er det grunn til i denne sammenheng å fremheve at selv om dommerne er sidestilte med hensyn til de avgjørelser som skal treffes, har de ulike roller når saken er til behandling. Fagdommerne har ansvar for å administrere saken, og for å utføre denne oppgaven på best mulig måte kan det være nyttig å ha forhåndskjennskap til saken. Det er vanskelig å forstå at tilgang til sakens opplysninger med dette formål for øye vil føre til en ubalanse utover den som allerede følger av fagdommerens ansvar som administrator. Dersom det er behov for at meddommerne gjøres kjent med visse opplysninger, kan dette skje på andre måter enn ved at også de på forhånd gis tilgang til sakens opplysninger. Normalt avholdes en konferanse forut for hovedforhandlingen, og meddommerne kan da orienteres om viktig informasjon som er fremkommet under saksforberedelsen. I denne sammenheng kan de også gis direkte tilgang til dokumenter i den grad det er hensiktsmessig. En slik orientering vil det også kunne være behov for etter gjeldende lov, for eksempel når det har vært avholdt saksforberedende rettsmøte.
+
+Også spørsmålet om hvorvidt retten bør ha tilgang til politiforklaringer som leses opp under forhandlingene, har vært omstridt. Det er anført at det er en mulig risiko for at politiforklaringene – dersom retten får tilgang til disse – bevisst eller ubevisst kan bli tillagt for stor vekt. En slik fare lar seg vanskelig belegge empirisk. Dommerne vil uansett kunne skrive ned det som leses opp. I tillegg til at nedtegning er lite effektivt, er det vanskelig å se at det er noen reell fare for at politiforklaringene tillegges for stor vekt fordi de er tilgjengelige i skriftlig form. Det kan vel like gjerne tenkes at manglende tilgang til forklaringer fører til at de tillegges mindre betydning enn de bør, fordi det er krevende for retten å følge med når politiforklaringene kun dokumenteres ved opplesning. Hvis retten henvises til å bygge på notater, med de feilkildene disse kan ha, er det dessuten en risiko for at forklaringene ved bevisvurderingen ubevisst blir tillagt mindre betydning enn de etter sitt innhold bør ha, holdt opp mot mer håndfast dokumentasjon i form av teledata, SMS-er, opplysninger fra Facebook, videoopptak, regnskap mv. Flertallet har vanskelig for å forstå annet enn at partene i alminnelighet vil påpeke feil og unøyaktigheter i det relevante bevismaterialet, også for så vidt gjelder politiforklaringer. Det er grunn til å tro at retten vil håndtere betydningen av slike forhold rasjonelt i den samlede bevisbedømmelse.
+
+Selv om flertallet mener retten prinsipielt sett skal ha tilgang til sakens opplysninger, tilsier ikke det at alle opplysninger automatisk må oversendes til retten. Heller ikke bør loven kreve at retten i alle saker orienterer seg i materialet og setter seg inn i opplysningene. Rettens faktiske tilgang og bruk av opplysningene bør styres ut fra de behov som gjør seg gjeldende i den enkelte sak. Hva som vil være hensiktsmessig bruk av saksopplysningene, må bedømmes ut fra sakens karakter og informasjonen partene har gitt, herunder bevistilbudet. I enkle og oversiktlige saker vil retten som regel ikke ha behov for annet enn opplysningene som skal bevisføres.
+
+Slik flertallet ser det, bør ordningen etter dette være at retten gis tilgang til sakens opplysninger når og i den utstrekning den finner behov for det av hensyn til saksforberedelsen eller sakens videre behandling, jf. utkastet § 34-8. Utkastet §§ 34-1 og 34-4 om påtalemyndighetens og forsvarerens oversendelser til retten under saksforberedelsen fastslår at oversendelsene skal inneholde «utdrag av sakens opplysninger av betydning for bevisføringen». Dette omfatter bevis som skal fremlegges for retten, herunder politiforklaringer det kan være aktuelt å gjengi under hovedforhandlingen. Ellers skal opplysninger vedlegges i den utstrekning det er behov for det. Er det for eksempel ved oversendelsen klart at partene er uenige om behovet for å høre forklaringen fra et bestemt vitne, skal eventuelle politiforklaringer vedkommende har avgitt, vedlegges slik at retten får et best mulig grunnlag for å avgjøre spørsmålet.
+
+Flertallet mener det ikke er grunn til å begrense rettens tilgang til saksopplysningene under rådslagningen. Dommen skal bare bygge på opplysninger som er behandlet, det vil si ført, i rettsmøte, se punkt 17.3.1, og retten vil på dette stadiet derfor ikke ha interesse av å lese saksopplysninger som ikke har vært tematisert. Hvilke opplysninger som har vært ført, og som retten dermed kan bygge på, vil til en viss grad måtte bero på et skjønn, jf. merknadene til utkastet § 32-4 om det faktiske grunnlaget for rettens avgjørelser.
+
+Utvalgets *mindretall* – medlemmene Sunde, Keiserud, Kvisberg og Lie – mener gjeldende rett for så vidt gjelder rettens tilgang til saksdokumentene, i det vesentlige bør videreføres. Hensynene det er redegjort for ovenfor, herunder til å sikre tilliten til domstolene og rettens objektivitet, og til å motvirke ubalanse mellom fagdommer og meddommerne, bør gis gjennomslag overfor hensynene for å tillate en generell tilgang til saksdokumentene.
+
+Mindretallet mener flertallets forslag innebærer et system som kan påvirke rettens forståelse av saken før det er mulighet for reell kontradiksjon, og at en slik oppfatning av saken på en uheldig måte – bevisst eller ubevisst – kan legge føringer for den videre forståelsen og bedømmelsen av sakens bevis. Det har i denne sammenheng betydning at opplysninger i straffesaker først blir gjenstand for kontradiksjon under de muntlige forhandlingene, i motsetning til i sivile saker, der det i forkant av forhandlingene inngis prosesskriv.
+
+Særlig problematisk er det å gi retten tilgang til avhør av mistenkte og vitner, ettersom det som er nedtegnet i politirapportene, ikke alltid gir et korrekt og dekkende uttrykk for det som er fremkommet i avhør. Selv om retten eventuelt gis tilgang til lyd- og bildeopptak av det samme avhøret, er det urealistisk å legge opp til at materialet skal være gjennomgått før saken starter opp. I de fleste tilfeller vil det også være uhensiktsmessig bruk av tid med en slik gjennomgang under saksforberedelsen.
+
+Mindretallet mener retten heller ikke bør gis tilgang til politiforklaringer som dokumenteres ved opplesning, ettersom det gir risiko for at disse blir tillagt uforholdsmessig stor betydning i den samlede bevisbedømmelsen. Utfordringene som knytter seg til dette, vil i noen grad avbøtes dersom det i tråd med utvalgets forslag tas opptak av forhandlingene, fordi man da under rådslagningen og domsskrivingen kan benytte opptaket til å klargjøre hva som ble gjengitt. Retten bør likevel ikke gis direkte tilgang til politiforklaringene, fordi det ikke kan forventes at retten regulært skal ta seg tid til å se igjennom opptakene forut for domsavsigelse.
+
+Mindretallet stiller også spørsmål om hvorvidt tilgang til sakens opplysninger, og især tilgang til politiforklaringene, i tråd med flertallets forslag vil påføre dommerne unødig merarbeid som vil innebære at domstolene må tilføres ressurser. Mindretallet mener dessuten at det vil være meget uheldig om meddommerne rett før hovedforhandlingen gis innsyn i for eksempel politiforklaringer, uansett om det kan være aktuelt å lese dem opp helt eller delvis eller ikke under hovedforhandlingen.
+
+Mindretallet går på denne bakgrunn inn for at det som oversendes retten forut for forhandlingene etter utkastet § 34-1 første ledd bokstav c, utelukkende skal være «utdrag av skriftlige bevis som skal føres». Retten bør som etter gjeldende rett kunne be om utlån av sakens dokumenter, men kun til bruk for saksforberedelsen. Utkastet § 34-8 om rettens tilgang til sakens opplysninger bør således lyde slik: «Retten skal gis tilgang til sakens opplysninger når den finner behov for det av hensyn til saksforberedelsen.»
+
+1.  **Avgjørelsesform mv.**
+
+Etter straffeprosessloven § 30 skal rettens avgjørelser treffes i én av tre former: *Dom* benyttes ved realitetsavgjørelse av det krav saken gjelder. *Kjennelse* benyttes når det er særskilt bestemt, og når avgjørelsen avslutter saken eller en selvstendig del av den. Andre avgjørelser treffes ved *beslutning*. Hvorvidt en avgjørelse skal treffes ved dom, kjennelse eller beslutning, har betydning for hvordan avgjørelsen skal avsies og begrunnes, for adgangen til omgjøring og for bruken av rettsmidler.[^931] Også tvisteloven sondrer mellom dommer, kjennelser og beslutninger, jf. § 19-1.
+
+Utvalget foreslår at man i ny straffeprosesslov ikke viderefører skillet mellom kjennelser og beslutninger. De to kategoriene avgjørelser er i mange tilfeller likestilt med sikte på videre reguleringer, og det er derfor til dels misvisende og unødig kompliserende å operere med to formelle avgjørelseskategorier. Det er i så måte illustrerende at det etter gjeldende rett etter omstendighetene stilles krav til begrunnelse også for beslutninger, til tross for at lovens regel er at beslutninger ikke trenger grunner, se punkt 17.7.2.
+
+Uansett hvordan en inndeling mellom avgjørelser gjennomføres, vil grensedragningen omfatte avgjørelser av svært ulik karakter og bli nokså tilfeldig. Et formelt skille vil dermed i liten grad være egnet som kobling for særskilte rettslige virkninger. Etter utvalgets syn er det heller ikke behov for en sondring mellom kjennelser og beslutninger, idet reglene om avsigelsesmåte, krav til begrunnelse, omgjørings- og overprøvingsadgang mv. enkelt kan reguleres direkte, og da blir sondringen overflødig.
+
+Poenget kan også illustreres med kravet til skriftlig utforming av avgjørelser. Etter gjeldende rett er skriftlighet den klare hovedregelen, men som nevnt i punkt 17.7.2 treffes en rekke beslutninger av praktisk og administrativ karakter formløst, noe det klart nok må være en viss adgang til. Det lar seg vanskelig gjøre å knytte kravet om skriftlighet til et skille mellom formelle og administrative avgjørelser.[^932] Kravet bør i stedet reguleres direkte, og i utkastet er det derfor fastslått at rettens avgjørelser «skal utformes skriftlig \[…\] med mindre det er åpenbart unødvendig», jf. 32-8 første ledd første punktum.
+
+På bakgrunn av ovennevnte skiller utkastet bare mellom avgjørelseskategoriene *dommer* og *beslutninger*, jf. § 32-2.
+
+1.  **Anklageprinsippet. Rettens forhold til partenes krav og påstander mv.**
+
+    1.  **Oversikt**
+
+Anklageprinsippet og dets gjennomføring i straffeprosessloven er omtalt i punkt 5.3.2. Som det fremgår der, er ikke anklageprinsippet gjennomført fullt ut etter gjeldende rett – vår straffeprosess har vært karakterisert som en anklageprosess med visse inkvisitoriske innslag.[^933]
+
+I utvalgets mandat er anklageprinsippet og ulike sider ved spørsmålet om forholdet mellom domstolene og partene nevnt flere steder. Fra mandatet gjengis følgende:
+
+«Vår straffeprosesslovgivning bygger på grunnleggende prinsipper som anklageprinsippet, offentlighetsprinsippet, muntlighetsprinsippet og bevisumiddelbarhetsprinsippet. Utvalget skal se nærmere på anvendelsen av disse prinsippene i møte med de utfordringene som dagens kriminalitetsbilde stiller oss overfor. \[…\]
+
+Det er et mål for den nye loven at den i større grad enn den gjeldende skal legge til rette for en effektiv og samhandlende straffesakskjede.»
+
+I punkt 17.6.2 nedenfor presenterer utvalget sine generelle overveielser om gjennomføringen av anklageprinsippet i ny straffeprosesslov. Anklageprinsippets nærmere gjennomslag bestemmes særlig av reglene om hvordan et saksforhold som bringes inn for retten, skal avgrenses, hvordan retten skal forholde seg til partenes krav og påstander, og rettens ansvar for sakens opplysning. Rettens forhold til påtalemyndighetens begjæringer under etterforskingen behandles i punkt 17.6.3. Forholdet mellom tiltalebeslutning og dom er tema i punkt 17.6.4. Rettens forhold til partenes krav drøftes i punkt 17.6.5. Rettens forhold til påtalemyndighetens straffepåstand behandles i punkt 17.6.6. I punkt 17.6.7 knyttes enkelte bemerkninger til forholdet mellom anklageprinsippet og reglene om rettergangsstraff i domstolloven. Rettens ansvar for sakens opplysning er behandlet i punkt 13.2.5.
+
+1.  **Anklageprinsippet i ny straffeprosesslov: Generelle betraktninger**
+
+Det er et selvsagt utgangspunkt for enhver prosessordning at reglene skal legge til rette for riktige avgjørelser, og straffeprosessen er i større grad enn sivilprosessen innrettet mot at rettens avgjørelser skal bli riktige, uavhengig av partenes disposisjoner. Også på straffeprosessens område må imidlertid rettens avgjørelser treffes innen visse prosessuelle rammer, herunder innebærer anklageprinsippet at retten ikke kan stå fritt i forhold til de begjæringer som fremmes av påtalemyndigheten. Også gjeldende lov bygger således på at påtalemyndighetens disposisjoner til en viss grad er bindende for retten.
+
+Etter utvalgets syn er det grunn til å vurdere om gjeldende rettslige rammer for domstolens dømmende virksomhet i straffesaker gir uttrykk for en hensiktsmessig arbeids- og funksjonsdeling mellom påtalemyndigheten og retten. Utvalget finner det klart at det ikke er et alternativ å foreslå ytterligere inkvisitoriske innslag i norsk straffeprosess. Tvert imot mener utvalget at de hensyn anklageprinsippet bygger på, kan tale for at påtalemyndigheten i noe større grad enn i dag gis myndighet til å trekke opp rammene for rettens avgjørelser.
+
+Straff er et så alvorlig inngrep overfor borgerne at det av prinsipielle grunner bør være en forutsetning at alle tre statsmakter stiller seg bak straffekravet, se punkt 8.5. Regler som legger til rette for at domstolene av eget tiltak kan ta initiativ til å opplyse saken til skade for tiltalte, gå utenfor anklagen eller idømme strengere reaksjon enn påstått, kan sies å bryte med en slik forutsetning. Det kan anføres at domstolene i så fall ikke fungerer som et rent dømmende organ, men at retten selv tar et initiativ til sider ved forfølgningen og dermed utøver en funksjon som det ut fra maktfordelingshensyn kan hevdes burde ligge hos utøvende myndighet.
+
+Tilliten til domstolene kan tilsi at retten bør avstå fra aktivitet som kan gi prosessen et inkvisitorisk preg. Domstolenes uavhengighet og objektivitet er best ivaretatt ved at domstolene begrenser sin virksomhet til – innenfor relativt strenge rammer – å avgjøre de krav som fremmes av påtalemyndigheten. Særlig for mistenkte kan det fortone seg som lite betryggende dersom ikke bare påtalemyndigheten, men også retten, skal trekke opp rammene for anklagen og ha ansvar for opplysning av saken til ugunst for vedkommende.
+
+Påtalemyndigheten er i kraft av opportunitetsprinsippet gitt betydelig rådighet over straffekravet, se punkt 5.3.1 og 8.3.3. I den grad domstolene går utover påtalemyndighetens begjæringer og krav, vil det kunne oppstå spenninger mot de hensyn som ligger til grunn for prinsippet. Jo større frihet retten har, desto mer beskjæres påtalemyndighetens rådighet over saken etter at den er brakt inn for domstolene, noe som kan være betenkelig, for eksempel dersom retten griper tak i elementer i saken som påtalemyndigheten bevisst har ønsket å la ligge. System- og koherensbetraktninger kan også tale for at påtalemyndigheten som utgangspunkt bør beholde sin rådighet over saken også etter at den er brakt inn for retten.
+
+Hensynet til sannhetssøken og riktige avgjørelser fremheves regelmessig til støtte for at domstolene ikke bør være for sterkt bundet av påtalemyndighetens prosesshandlinger. Samtidig er det klart at det i straffesaker må være påtalemyndigheten som har bevisbyrden, og det strafferettslige beviskrav innebærer at man systematisk prioriterer feil til tiltaltes gunst. Det kan synes paradoksalt dersom retten – til tross for disse forutsetninger – skal ha et selvstendig ansvar for å opplyse saken også til mistenktes ugunst.
+
+En må dessuten erkjenne at retten i straffesaker uansett bare blir presentert for et utsnitt av virkeligheten, som regelmessig vil avhenge av hvorledes partene på forhånd har lagt opp saken. I all hovedsak er det partenes disposisjoner og bevistilbud som blir reelt avgjørende for hvilke muligheter retten har til å foreta endringer av eget tiltak. Det kan stilles spørsmål om hvorvidt disse faktiske forutsetninger gir retten et godt utgangspunkt for å bedømme om elementer som i utgangspunktet ikke er omfattet av saken, skal trekkes inn.
+
+Maksimen om at domstolen kjenner retten «*iura novit curia*», er grunnleggende i rettssystemet, og retten har naturligvis ansvaret for fortolkningen av de straffebud det er spørsmål om å legge til grunn for en dom. Rettens frihet til å fravike den rettsanvendelse som er påberopt av påtalemyndigheten, har imidlertid også en side til anklageprinsippet. Dette har en delvis tatt konsekvensen av etter gjeldende rett ved at det med utgangspunkt i den såkalte interesselæren gjelder visse grenser for rettens adgang til å bygge på en annen subsumsjon enn det påtalemyndigheten har tatt til orde for. Retten står imidlertid nokså fritt; domstolene kan i realiteten domfelle etter straffebestemmelser som kvalitativt avviker temmelig vesentlig fra subsumsjonen i tiltalen. De grunner anklageprinsippet bygger på, kan tilsi at retten i større grad enn i dag bør være bundet av påtalemyndighetens subsumsjoner.
+
+En mer rendyrket partsprosess, herunder en klar rolle- og arbeidsfordeling mellom påtalemyndigheten og domstolene, vil formentlig virke konsentrerende og effektiviserende samt styrke forutsetningene for god samhandling. Det vil antakelig virke skjerpende på påtalemyndigheten dersom den alene har ansvaret for å definere sakens rammer og føre nødvendige bevis for sine krav. Domstolen på sin side vil kunne konsentrere sin oppmerksomhet om å ta stilling til om vilkårene for de krav påtalemyndigheten fremmer, er til stede, herunder å virke som uavhengig garantist for tiltaltes rettssikkerhet.
+
+Også hensynet til forutberegnelighet og kontradiksjon taler for at det er påtalemyndigheten som bør trekke opp rammene for saken. Som et alminnelig utgangspunkt bør mistenkte kunne innrette seg etter tiltalen uten å måtte frykte for eller forberede seg på at saken kan ta en ny vending under domstolsbehandlingen, etter initiativ fra retten. Dertil kommer at hvis ikke arbeidsdelingen mellom domstolene og påtalemyndigheten er klar, kan det føre til at saken blir lagt bredere opp enn nødvendig for å ta høyde for eventuelle justeringer.
+
+Anklageprinsippet kommer generelt til uttrykk i utkastet § 5-1 første ledd om forholdet mellom domstolene og straffesakens øvrige aktører:
+
+«Domstolene behandler bare saker etter begjæring. Behandlingen opphører dersom begjæringen tas tilbake.»
+
+De grunner som er nevnt, kan etter utvalgets syn tale for at anklageprinsippet gjennomføres mer konsekvent i ny straffeprosesslov enn etter gjeldende lov. De ulike hensyn gjør seg imidlertid gjeldende med noe ulik styrke på forskjellige stadier av straffesaksbehandlingen og for ulike situasjoner, se nærmere punkt 17.6.3 til 17.6.7 nedenfor.
+
+1.  **Enkeltstående rettergangsskritt på etterforskingsstadiet**
+
+    1.  *Gjeldende rett*
+
+For enkeltstående rettergangsskritt på etterforskingsstadiet begjært av påtalemyndigheten er utgangspunktet etter straffeprosessloven at domstolen bare skal behandle og ta stilling til det begjæringen går ut på. Andenæs og Myhrer uttrykker det slik:
+
+«At det blir rettslig etterforsking, betyr ikke at ledelsen av etterforskingen går over til retten. *Retten skal som regel ikke gjøre annet eller mer enn den blir bedt om.* Det fremgår både av den generelle bestemmelse i strpl. § 63 om forholdet mellom partene og retten, og av særlige bestemmelser om etterforskingen i § 237.»[^934]
+
+Det overordnede spørsmålet om domstolenes involvering under etterforskingen ble kommentert av Straffeprosesslovkomitéen som en kritikk mot ordningen med bruk av rettslig forundersøkelse etter straffeprosessloven 1887:
+
+«Det lar seg reise vektige prinsipielle og praktiske innvendinger mot rettslig forundersøkelse i et prosess-system som vårt.
+
+For det første kan man si at det naturlige er at påtalemyndigheten, som skal ta standpunkt til tiltalespørsmålet, selv er herre over den undersøkelse som er nødvendig for dette formål. Etter reglene om etterforskingen kan påtalemyndigheten påkalle rettens bistand i den utstrekning den finner at det er behov for det.
+
+Å pålegge dommeren ledelsen av forundersøkelsen er å gi ham en oppgave av en annen art enn hans virksomhet for øvrig. Vårt prosess-system bygger ellers, både i sivile saker og straffesaker, på at det er partene som skal være aktive, mens dommeren vesentlig har en kontrollerende stilling, og det er ikke lett for ham å innstille seg på den rolle som loven egentlig forutsetter at han skal ha under forundersøkelsen. Dette viser seg også i praksis. Det er sjelden at forhørsretten under en forundersøkelse viser noe selvstendig initiativ, og en forundersøkelse vil derfor i de fleste tilfelle arte seg som en sammenhengende rekke rettslige avhør begjært av partene.
+
+I herreds- og byrettssaker har forundersøkelsen en særlig ulempe ved at det ofte er den dommer som har ledet forundersøkelsen som senere får pådømmelsen av saken. Dette kommer i strid med den betraktning som anklageprinsippet hviler på, nemlig at det er vanskelig for den som har hatt til oppgave å fremskaffe bevisene i saken, å stå helt fritt ved vurderingen av dem.
+
+Det viktigste praktiske argument mot den rettslige forundersøkelse er at den fører til forsinkelse av rettergangen og til gjentatte avhøringer av vitnene. Disse blir først avhørt av politiet, så av retten under forundersøkelsen, og til slutt av den dømmende rett under hovedforhandlingen. Disse gjentatte avhøringer volder bryderi og omkostninger og reduserer spontaniteten av vitnenes forklaringer under hovedforhandlingen.
+
+Noe behov for rettslig forundersøkelse som en beskyttelse mot at tiltalespørsmålet blir avgjort på ufullstendig grunnlag, har den siktede neppe. Påtalemyndigheten er selv interessert i at saken er forberedt slik at den unngår å reise tiltale på et sviktende grunnlag.
+
+\[…\]
+
+Etter de erfaringer som man i dag har om rettslig etterforsking og rettslig forundersøkelse, er det egentlig bare to argumenter som kan anføres i favør av å beholde instituttet rettslig forundersøkelse:
+
+a\. I visse saker føles det utvilsomt som en betryggelse at undersøkelsen ligger i rettens hånd. Således hvis f.eks. betrodde embets- eller tjenestemenn i politi eller påtalemyndighet er blitt beskyldt for korrupsjon eller maktmisbruk. Vekten av dette argument er imidlertid neppe så stor som det umiddelbart kan synes. For almenheten er nok det vesentlige at det blir holdt rettslige – helst offentlige – avhør. Om det skjer ved rettslig forundersøkelse er en juridisk finesse som folk flest neppe oppfatter betydningen av. Derimot vekker spørsmålet om åpne eller lukkede dører gjerne interesse i saker av den art som det her er tale om. – Som garanti for at rettspleien går sin gang uten persons anseelse har forundersøkelsesinstituttet for øvrig den svakhet, at det forutsetter at det er reist siktelse mot en bestemt mistenkt. Det kan derfor ikke hindre at påtalemyndigheten på grunnlag av en rent utenrettslig etterforsking henlegger en sak på grunn av bevisets stilling.
+
+b\. Et praktisk hensyn som kan anføres til fordel for å beholde adgangen til rettslig forundersøkelse, er at det mange steder i vårt land er atskillig avstand fra forhørsretten til nærmeste politikammer. Det kan da kanskje være en lettelse for politiet å sende en sak til forhørsretten med anmodning om rettslig forundersøkelse, idet forhørsretten her er forpliktet til å sørge for sakens opplysning uten å forelegge saken for politiet hver gang det blir spørsmål om noe nytt. Med nåtidens kommunikasjoner kan dog dette argument ikke tillegges stor vekt.»[^935]
+
+Et unntak fra utgangspunktet nevnt over følger av straffeprosessloven § 237 fjerde ledd, hvoretter retten «av eget tiltak \[kan\] ta slike skritt som hensiktsmessig kan gjøres i forbindelse med det som begjæringen går ut på». Bestemmelsen fastsetter imidlertid i realiteten snevre rammer for hva domstolene av eget initiativ kan foreta seg, idet det må antas å være en forutsetning for rettens kompetanse at det dreier seg om et rettergangsskritt som påtalemyndigheten ønsker foretatt, og at utsettelse vil kunne skade etterforskingen.[^936]
+
+Et annet unntak følger av straffeprosessloven § 247, som bestemmer at retten, etter anmodning fra påtalemyndigheten, kan overta ledelsen av etterforskingen når særlige grunner tilsier det. Denne bestemmelsen, som er begrunnet i behovet for uavhengig etterforsking i saker mot påtalemyndighetens tjenestemenn, har imidlertid ingen praktisk betydning i dag, etter opprettelsen av Spesialenheten for politisaker (tidligere SEFO).[^937] Se punkt 14.2.2.
+
+En mistenkt som det pågår etterforsking mot, kan overfor retten begjære foretatt rettergangsskritt til avkreftelse av mistanken, jf. straffeprosessloven § 241.[^938] Forsvarer kan også begjære etterforskingsskritt hos retten etter § 266 første ledd, jf. § 265. Dette gir en partsdrevet rettssikkerhetsgaranti og innebærer ikke at etterforskingen går over til retten.

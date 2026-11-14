@@ -1,967 +1,234 @@
-# NOU 2016: 24, del 24 av 73 (side 267–276)
+# NOU 2016: 24, del 24 av 69
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/1182afc0-nou-2016-24.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-24/id2517932/
 - Original-PDF: https://www.regjeringen.no/contentassets/6fe1d875248042b4a09b43b85aa46832/no/pdfs/nou201620160024000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 9 tabeller, 1 figur, 52 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 267]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-nærmere innholdet i beviskrav for avgjørelser
-som ikke innebærer en konstatering av straffansvar, må fastlegges på selvstendig grunnlag.
-13.2.8 Uskyldspresumsjonen
-Uskyldspresumsjonen skal forhindre at uskyldige personer blir straffet, og ivareta omdømmet
-til personer som er eller har vært under etterforsking eller straffeforfølgning. Som nevnt i punkt
-13.2.7 ble uskyldspresumsjonen grunnlovfestet i
-2014 ved et nytt annet ledd i Grunnloven § 96:
-«Enhver har rett til å bli ansett som uskyldig
-inntil skyld er bevist etter loven.»
-Et spørsmål for utvalget er om uskyldspresumsjonen med dette er gitt et hensiktsmessig uttrykk i
-det norske rettssystemet.
-I Tilregnelighetsutvalgets utredning er det
-foreslått å endre uskyldspresumsjonen i Grunnloven § 96 annet ledd for å forbedre bestemmelsens språklige utforming. Synspunktet som ligger
-til grunn for forslaget, er at det ikke er hensiktsmessig å basere utformingen på ordlyden i EMK
-artikkel 6 nr. 2:
-«Uttrykket ‘bevist etter loven’ i Grunnloven
-§ 96 andre ledd gir imidlertid ganske ulike
-assosiasjoner beroende på om det benyttes i en
-konvensjon som forplikter staten eller i statens
-egen konstitusjon. Mens dette uttrykket i konvensjonsforpliktelsen i større grad markerer
-hvordan statene må gå frem for å anse noen
-straffskyldige, gir uttrykket ‘etter loven’ i konstitusjonen heller inntrykk av at den siktedes
-grunnlovsvern vil bero på den til enhver tid
-gjeldende lovgivning. Dette har neppe vært
-meningen, men rent ordlydsmessig er det en
-plausibel tolkning.
-Særlig når det gjelder en så sentral bestemmelse som § 96, og en så viktig rettsstatlig
-garanti som uskyldspresumsjonen, er det etter
-utvalgets syn viktig at ordlyden alene peker
-direkte mot det vernet bestemmelsen er ment
-å gi.»25
-På denne bakgrunn foreslo Tilregnelighetsutvalget
-å gi Grunnloven § 96 annet ledd følgende ordlyd:
-«Enhver er å anse som uskyldig inntil det motsatte er bevist.»
-25
-
-NOU 2014: 10 s. 196.
-
-265
-
-Kapittel 13
-
-Endringsforslaget ble begrunnet slik:
-«Utformingen gir et mer presist uttrykk for det
-vernet konstitusjonen bør gi og er lettere
-språklig tilgjengelig.
-Utvalget har også vurdert om dagens utforming om at man skal ‘anses’ uskyldig inntil det
-motsatte er bevist, gir feil assosiasjoner. Meningen er at jo at man etter loven ‘er’ uskyldig inntil
-det foreligger en endelig dom som konkluderer
-med at det er tilstrekkelig med bevis for det motsatte. I tillegg til dette definitoriske poenget
-kommer at ‘er’, formentlig i større grad enn
-‘anses’, markerer hvordan vedkommende skal
-behandles innenfor rettssystemet. Etter en
-samlet vurdering har utvalget likevel kommet til
-at det bør stå ‘anses’, ettersom man ikke nødvendigvis kan vite om vedkommende faktisk er
-skyldig eller uskyldig, og at uttrykket derfor gir
-den mest realistiske beskrivelsen av hva som er
-den faktiske situasjonen for den som skal
-behandles som uskyldig.»
-Utvalget slutter seg til Tilregnelighetsutvalgets
-formulering og de begrunnelser som er anført til
-støtte for endring av Grunnloven. Samtidig går
-utvalget inn for å lovfeste uskyldspresumsjonen i
-kapitlet om mistenkte, se utkastet § 3-2.
-
-13.3 Bevisforbud
-13.3.1 Oversikt
-Hensynet til sakens opplysning har og må ha stor
-vekt i straffeprosessen. Begrensninger i informasjonstilgangen i den enkelte sak innebærer en
-risiko for at straffeforfølgningen ikke lar seg gjennomføre, og i ytterste konsekvens at avgjørelser
-treffes på grunnlag av et uriktig faktum. For tiltalte kan det dessuten oppleves som en stor urett
-dersom beviset som hevdes å bekrefte vedkommendes uskyld, ikke kan føres. I et større perspektiv kan begrensninger i adgangen til bevisføring hindre at verdiene straffelovgivningen hviler
-på, utbres og ivaretas, og svekke tilliten til strafferettspleien.
-Det straffeprosessuelle sannhetsidealet og
-prinsippet om fri bevisføring møter likevel sine
-grenser i konkurranse med andre interesser. Det
-er for eksempel viktig å bevare statshemmeligheter og å beskytte fortrolige relasjoner, som forholdet mellom lege og pasient og advokat og klient.
-Dessuten kan det tenkes fremgangsmåter for
-informasjonsinnhenting som er så støtende at
-bruk av bevisene ikke bør aksepteres, med bruk
-
-[Side 268]
-
-266
-
-Kapittel 13
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-av tortur for å sikre sakens opplysning som det
-fremste eksempel. Dette taler for å oppstille visse
-bevisforbud til vern av viktige interesser.
-Bevisforbudene etter straffeprosessloven er
-ikke regulert generelt, slik som i tvisteloven kapittel 22. I straffeprosessloven er det særlig kapittel
-10 om vitner som inneholder bestemmelser om
-bevisforbud til vern av bestemte relasjoner eller
-visse typer opplysninger. Et eksempel er § 119,
-som blant annet forbyr retten å ta imot vitnemål
-fra leger om noe som er betrodd dem i deres stilling, med mindre den som har krav på hemmelighold, samtykker i at det gis forklaring.
-Enkelte bevisforbud er ulovfestede og utviklet
-gjennom praksis i Høyesterett. Et eksempel er
-regelen om forbud mot å føre bevis om drøftelser i
-regjeringskonferanse, se blant annet Rt. 1996
-s. 1101. Regelen er utviklet i sivilprosessen og nå
-kodifisert i tvisteloven § 22-2, men den antas også
-å gjelde på straffeprosessens område.26 Et annet
-eksempel er den ulovfestede læren om ulovlig
-ervervede bevis.
-Utvalget foreslår endringer i bevisforbudenes
-utforming ut fra utvalgets generelle syn på bevisreglenes rolle i straffeprosessen. Det er tatt
-utgangspunkt i at lovens bevisregler bør få et
-tydeligere uttrykk i lovverket ved at de reguleres i
-et eget kapittel av generell karakter, og at de bør
-gi et mer dekkende uttrykk for de rettslige realiteter enn det som følger av dagens bestemmelser.
-Bevisforbudene gis også et mer allment uttrykk,
-som i kortform kan betegnes som «bevismiddel-»,
-«stadie-», «bruksmåte-» og «aktørnøytralitet», se
-nærmere i punkt 13.3.3.
-Bevisforbud som stiller krav til relevant og
-forholdsmessig bevisføring, har en noe annen
-karakter enn de ovennevnte forbud ved at de
-omfatter alle typer informasjon, og at håndhevelsen utelukkende knytter seg til den rettslige
-behandlingen. Utvalget mener disse reglene
-hører hjemme i et kapittel om alminnelige bevisregler. Dette er også løsningen i tvisteloven. Se
-drøftelsen i punkt 13.2.5.1.
-Hvordan den nærmere interessen i å få opplyst
-straffesaker skal avstemmes mot interesser som
-tilsier tilbakehold av informasjon, er regelmessig
-gjenstand for debatt, og det er store forskjeller
-mellom ulike land og ulike rettstradisjoner i hvilke
-løsninger som er valgt. Utvalget finner det klart at
-prinsippet om fri bevisføring må tåle visse
-begrensninger i form av bevisforbud, og at den
-interesseavveiningen gjeldende rett er uttrykk for,
-langt på vei bør videreføres.
-26
-
-Se Andenæs og Myhrer (2009) s. 222.
-
-Hvilket gjennomslag hensynene bak bevisforbud bør gis i møte med motstående interesser,
-blir drøftet for enkelte avgrensede områder i
-punkt 13.3.4. I punkt 13.3.5 drøftes et særlig spørsmål i tilknytning til bevisforbud og beslag, nemlig
-hvilken betydning det bør ha at den tingen det
-skal tas beslag i, besittes av den som har interesse
-i hemmelighold. I punkt 13.3.6 tas det stilling til
-betydningen av at informasjon som er omfattet av
-bevisforbud, har blitt alminnelig kjent. Avslutningsvis, i punkt 13.3.7, behandles den særlige
-problematikken som knytter seg til bevis som i
-utgangspunktet er omfattet av bevisforbud, men
-som taler i mistenktes favør.
-13.3.2 Sentrale hensyn ved lovregulering av
-bevisforbud
-I mange tilfeller kan det være utfordrende å klargjøre begrunnelsen for og innholdet i et bevisforbud i detalj. Det har sammenheng med at bevisforbudet kan verne om ulike individ- og samfunnsinteresser, og verdiene forbudet hviler på,
-kan være nokså vagt angitt. Videre vil bevisforbud
-kunne bygge på nokså usikre faktiske antakelser
-om mulige nyttevirkninger av reguleringen. For
-enkelte forbud trekker verdiene og de faktiske
-antakelser i samme retning, mens de for andre er
-mer motstridende. To eksempler er egnet til illustrasjon:
-Forbudet mot bruk av bevis fremskaffet under
-tortur kan på individnivå begrunnes ut fra
-omtanke for den som måtte utsettes for slik grusomhet, og på samfunnsnivå ut fra at en slik metodebruk ikke er rettsstaten verdig. Forbudet kan
-videre begrunnes i dets mulige gunstige virkninger, blant annet er det grunn til å anta at en human
-strafferettspleie i større grad enn prosesser som
-ofrer menneskeverdet, vil sikre tillit til statsapparatet og styrke samfunnsmoralen. En eventuell tillitssvikt må dessuten kunne antas å gå på bekostning av opplysningen av straffesaker ved at flere
-vegrer seg for å ta kontakt med statsapparatet.
-Dertil kommer at belastningene vedkommende
-utsettes for, svekker påliteligheten til tilståelser og
-vitneforklaringen, slik at det hefter generell usikkerhet ved bruk av bevis fremskaffet under tortur.
-Endelig kan det hevdes at det er moralsk problematisk å pålegge offentlige tjenestemenn å måtte
-nyttiggjøre seg fruktene av tortur, og at det heller
-ikke bør gis en indirekte oppfordring til bruk av
-tortur i pressede situasjoner ved at bevis som er
-fremskaffet på denne måten, tillates benyttet.
-Forbudet mot bruk av bevis som omfattes av
-helsepersonells taushetsplikt etter straffe-
-
-[Side 269]
-
-267
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-prosessloven § 119, kan begrunnes ut fra ønsket
-om å verne den enkelte pasient mot spredning av
-personsensitive opplysninger fremkommet under
-konsultasjon. Det kan videre begrunnes i hensynet til det alminnelige vern av betroelser og tillitsforholdet mellom lege og pasient, som har vært
-en sentral del av profesjonsetikken fra den ble
-nedfelt i den hippokratiske ed. Konfidensialitet
-om betroelsene antas også å være en forutsetning
-for helsevesenets evne til å yte tilfredsstillende
-behandling og slik fylle sin samfunnsrolle:
-«Dersom pasienten ikke kan ha tiltro til at sensitiv informasjon som meddeles helsepersonellet
-ikke gjøres kjent for en videre personkrets, kan
-det være fare for at enkelte vil unnlate å oppsøke
-helsevesenet for behandling eller være forbeholden hva gjelder hvilke opplysninger som
-meddeles. Hvis pasienten eller pasientgrupper
-tilbakeholder helseopplysninger av redsel for at
-disse opplysningene spres på uønskede måter,
-kan konsekvensen bli at den enkelte pasient
-ikke får riktig behandling og at det helsetilbudet
-samfunnet kan tilby blir dårligere.»27
-Disse to eksemplene viser at virkningene av å
-endre bevisforbud kan være vanskelig å overskue,
-fordi det er mange interesser og forutsetninger i
-spill på én gang. Dette er viktig å ha for øye når
-man vurderer hvor omfattende bevisforbudene
-bør være, og hvordan de bør utformes. Særlig er
-det usikkert hvilke virkninger det kan ha å innsnevre forbudenes rekkevidde. Virkningen av å
-utvide forbudene synes klarere i alle fall for straffesaksbehandlingens del, ved at det gjennomgående vil føre til en svekkelse av sakens opplysning. Men hvilke virkninger en utvidelse av ulike
-bevisforbud vil kunne ha i et større perspektiv, er
-det like fullt vanskelig å si noe om.
-Utvalget mener hensynet til sannhetssøken
-bør stå sterkt, og at det som et utgangspunkt derfor må kreves svært gode grunner for unntak fra
-utgangspunktet om fri bevisføring. Samtidig er
-sannhetsidealet asymmetrisk, slik at «usannhet i
-form av uriktig skyldkonstatering anses som en
-større omkostning enn usannhet i form av en
-uriktig frifinnelse», se punkt 13.2.7 og 13.3.7.28
-Dette innebærer at betenkelighetene ved å
-utvide området for bevisforbud begrenses dersom mistenkte likevel gis adgang til å føre bevis
-det er grunn til å tro er i vedkommendes favør.
-27
-28
-
-NOU 2014: 10 s. 257.
-Se Torgersen (2009) s. 23.
-
-Kapittel 13
-
-13.3.3 Nøytralitetsprinsipper
-13.3.3.1
-
-Behovet for nøytral utforming av
-bevisforbudene
-
-Utvalget mener dagens regler om bevisforbud i
-hovedsak er uttrykk for en hensiktsmessig avveining av de kryssende hensyn som gjør seg gjeldende. Reglene har virket og utviklet seg i praksis
-over lang tid og synes i det alt vesentlige å ha oppslutning blant straffeprosessens aktører og ulike
-interessegrupper. Spørsmålet for utvalget er derfor først og fremst om bevisforbudene bør få en
-noe annen innretning i loven enn den som gjelder
-i dag, og ikke om det er behov for markante
-endringer ved å gi ytterligere interesser beskyttelse eller ved å svekke de i dag beskyttede
-interesser.29
-Begrunnelsene for det vernet bevisforbud gir
-om nærmere angitte opplysninger, gjør seg som et
-utgangspunkt gjeldende generelt og uavhengig av
-i hvilken situasjon spørsmålet om å bruke beviset
-oppstår. For å sikre bevisforbudenes effektivitet
-er det behov for at de gis et konsekvent gjennomslag og fremstilles lett tilgjengelig.
-Dagens lov legger etter sin ordlyd opp til et
-system der informasjonstilgangen varierer med
-bevismiddelet, hvilket stadium man befinner seg
-på, hvilken aktør man er, og hvordan man har
-tenkt å benytte et bevis. Utvalgets forslag til regler
-bygger på et ønske om å forlate den noe kasuistiske tilnærmingen som følger av straffeprosessloven.
-Selv om dette skulle medføre at bevisforbudene får et videre anvendelsesområde enn det
-som gjelder i dag, er dette velbegrunnet ut fra
-bevisforbudenes formål og begrunnelse. Endringen vil imidlertid først og fremst være en mer
-presis og samlet angivelse av bevisforbudenes
-gjenstand etter gjeldende rett enn den som kommer til uttrykk i straffeprosessloven.
-Lovutkastets bevisforbud er basert på fire nøytralitetsprinsipper, som innebærer at bevisforbudene etter sin ordlyd gjelder samtlige bevismidler
-(prinsippet om bevismiddelnøytralitet), på alle stadier av prosessen (prinsippet om stadienøytralitet),
-overfor enhver aktør i prosessen (prinsippet om
-aktørnøytralitet) og enhver bruk av beviset (prinsippet om bruksmåtenøytralitet). Det gjøres nærmere rede for disse prinsippene i det følgende.
-29
-
-Se likevel punkt 13.3.4, hvor det drøftes om bevisforbudet
-for regjeringsnotater bør utvides tilsvarende for byrådsnotater i kommuner med parlamentarisk styreform, samt
-enkelte spørsmål i tilknytning til bevisforbud ved yrkesmessig taushetsplikt og rettsstridig ervervede bevis.
-
-[Side 270]
-
-268
-
-NOU 2016: 24
-
-Kapittel 13
-
-13.3.3.2
-
-Ny straffeprosesslov
-
-Bevismiddelnøytralitet
-
-Med «bevismiddelnøytrale» bevisforbud menes at
-forbudene angir hvilken type opplysninger som
-omfattes av forbudet, uten at de er knyttet opp
-mot et bestemt bevismiddel, for eksempel en
-vitneforklaring.
-Dette er ordningen etter tvisteloven kapittel
-22, men skiller seg fra ordningen etter straffeprosessloven, der de fleste bevisforbud er plassert i
-vitnekapitlet og utformet som rene forklaringsforbud. For eksempel fastslår straffeprosessloven
-§ 119 at retten «ikke [må] ta imot forklaring av»
-prester, leger, advokater osv. om noe som er
-betrodd dem i deres stilling. Bestemmelsen er
-likevel forstått slik at det ikke er anledning til å
-omgå forbudet for eksempel ved å lese opp fra
-legejournalen eller spille av et opptak fra konsultasjonen.30
-I lovutkastet er den fortrolige kommunikasjonen gjort til direkte gjenstand for bevisforbudet. I
-tillegg til at endringen gjør bevisforbudets omfang
-tydeligere, gjør den enkelte presiseringer av
-bevisforbudets rekkevidde i dagens lov overflødige. Det gjelder for eksempel § 119 annet ledd
-om forklaringsforbud for sekretærer osv. tilknyttet profesjonsutøverne nevnt i første ledd.
-Det at ordlyden er gjort bevismiddelnøytral,
-innebærer ikke at bevisforbudet utvides med den
-følge at det også er forbud mot bevis om temaet
-for det som er betrodd. Bevis om innholdet i
-betrodde forhold som eksisterer uavhengig av
-selve betroelsen, skal fremdeles kunne benyttes
-fullt ut under etterforskingen og eventuelt kunne
-føres for domstolene. En annen sak er at visse
-bevisforbud også forbyr nærmere bestemte bevistemaer, for eksempel bevisforbudet for opplysninger som holdes hemmelig av hensyn til grunnleggende nasjonale interesser, se utkastet § 8-2
-bokstav a.
-13.3.3.3
-
-Stadienøytralitet
-
-Det at bevisforbudene er stadienøytrale i sin utforming, innebærer at de etter sin ordlyd begrenser
-adgangen til å benytte beviset gjennom hele prosessen.
-Bevisforbudene i straffeprosessloven er først
-og fremst knyttet opp mot bevisføring for retten.
-Forbudene er klart nok av særlig betydning under
-hovedforhandlingen, men det følger også av ordlyden at retten ikke kan begrunne ransaking eller
-30
-
-Se Torgersen (2009) s. 307 flg.
-
-varetektsfengsling med bevis som omfattes av
-bevisforbud.
-Et prinsipielt viktig spørsmål er om påtalemyndigheten og politiet under etterforskingen bør
-kunne benytte bevis som omfattes av bevisforbud.
-Verdigrunnlaget som de enkeltstående bevisforbudene bygger på, er langt på vei det samme for
-alle stadier av prosessen. Bruken av beviset vil i
-alle tilfeller innebære en krenkelse og tilsidesettelse av de vernede interessene. Når påtalemyndigheten vurderer om det strafferettslige beviskravet er oppfylt for å fatte et positivt påtalevedtak,
-må dette også skje i lys av de bevis som vil være
-tilgjengelige under iretteføring, se punkt 13.2.7.
-På denne bakgrunn er bevisforbudene i lovforslaget gitt en stadienøytral utforming, slik at de
-har virkning for ethvert trinn i straffeprosessen.
-13.3.3.4
-
-Aktørnøytralitet
-
-I forlengelsen av spørsmålet om stadienøytralitet
-følger spørsmålet om hvorvidt bevisforbudene
-bør være aktørnøytrale, det vil si om de etter sin
-ordlyd bør rette seg mot samtlige av straffeprosessens aktører.
-De gjeldende bestemmelsene om bevisforbud
-i straffeprosessloven kapittel 10 retter seg kun
-mot retten, ved at de er utformet som forklaringsforbud overfor domstolene. Begrunnelsen for å
-oppstille bevisforbud tilsier at øvrige aktører
-heller ikke bør få benytte seg av bevisene det er
-tale om.
-Skal vernet av de interesser bevisforbudene er
-satt til å beskytte, bli effektivt, kan verken forsvarsadvokat, bistandsadvokat, påtalemyndighet,
-domstol eller andre organer som er involvert i
-straffeprosessen, gis anledning til å benytte beviset. Utvalgets forslag til regler om bevisforbud
-gjenspeiler dette og baserer seg på et prinsipp om
-aktørnøytralitet.
-13.3.3.5
-
-Bruksmåtenøytralitet
-
-Med «bruksmåtenøytralitet» siktes det til at bevisforbudene utformes generelt, slik at enhver bruk
-av bevis som omfattes, er utelukket, herunder
-både innhenting, føring og vektlegging av beviset.
-Bevisforbudene i straffeprosessloven er utformet som forbud mot bevisføring. De retter seg
-etter sin ordlyd kun mot én form for bruk av bevis
-under straffeforfølgningen, nemlig å føre bevis for
-retten. Men de forstås samtidig som vektleggingsforbud for domstolene; dersom retten blir kjent
-med et bevis som er omfattet av bevisforbud og
-derfor ikke skulle vært tillatt ført, kan retten ikke
-
-[Side 271]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-ta beviset i betraktning under saken eller når det
-skal treffes en avgjørelse.
-Ut fra begrunnelsene for de ulike bevisforbudene er det ikke grunn til å begrense dem til å
-gjelde bevisføring for retten. I straffeprosessen
-benyttes bevis også i en rekke andre sammenhenger, blant annet for å drive etterforskingen fremover, treffe påtalevedtak og fremme gjenåpningsbegjæringer. Utvalget mener det bør tas hensyn
-også til øvrige bruksmåter, herunder et vektleggingsforbud for alle avgjørelser som skal treffes
-etter loven.
-
-13.3.4 Justeringer i enkelte bevisforbud
-13.3.4.1
-
-Bevisforbud for drøftelser i kommuneråd og
-fylkesråd med parlamentarisk styreform
-
-I straffeprosessloven er det ikke noe uttrykkelig
-forbud mot bevis for drøftelser i regjeringskonferanser eller for såkalte R-notater. En slik regel
-utviklet seg først i rettspraksis på sivilprosessens
-område og ble lovfestet ved tvisteloven § 22-2:
-«Det kan ikke føres bevis om drøftelser i regjeringskonferanser.» Rettstilstanden innenfor straffeprosessen er antatt å være den samme.31
-Begrunnelsen for denne regelen er regjeringens
-behov for å drøfte spørsmål i fortrolighet. Utvalget
-legger til grunn at en slik regel også bør lovfestes
-i ny straffeprosesslov.
-Et tilsvarende unntak som for regjeringsdrøftelsene og R-notatene følger etter lovendring nå av
-offentlighetsloven § 16 første ledd tredje punktum
-for kommuner og fylkeskommuner med parlamentarisk styreform.32 Spørsmålet er om også
-denne reguleringen bør ha en parallell i bevisforbud i prosesslovgivningen.
-Utvalget foreslår ikke et slikt bevisforbud.
-Spørsmål som behandles i kommuner, er gjennomgående av en annen karakter enn de som
-behandles på regjeringsnivå, og behovet for hemmelighold av opplysningene må antas å være mindre. Dermed bør heller ikke sannhetsidealets
-gjennomslag begrenses på dette grunnlaget.
-Reguleringen ville videre medføre en forskjellsbehandling av samme typer opplysninger fra kommuner med og uten parlamentarisme som vanskelig lar seg begrunne. Endelig nevnes at den nye
-bestemmelsen om unntak fra innsynsretten for
-kommuner med parlamentarisk organisering har
-
-møtt en viss motstand i offentligheten, og ordningen synes derfor ikke å være moden for å følges
-opp med bevisforbud i prosesslovgivningen.
-13.3.4.2
-
-32
-
-Se Andenæs og Myhrer (2009) s. 222.
-Lov 19. juni 2015 nr. 64 om endringer i lov 19. mai 2006 nr.
-16 om rett til innsyn i dokument i offentleg verksemd
-(offentleglova).
-
-Bevisforbud ved yrkesmessig taushetsplikt –
-alminnelig utstrekning
-
-Straffeprosessloven § 119 fastslår at retten ikke
-må ta imot forklaring fra personer som tilhører
-nærmere angitte yrkesgrupper, som advokater og
-leger, «om noe som er betrodd dem i deres stilling».
-Utvalget mener det er mer treffende å knytte
-bevisforbudet til uttrykket «fortrolig kommunikasjon». I større grad enn «betrodd», vil det markere
-at det ikke bare er informasjon fra den som betror
-seg, som er vernet, men alt det som fremgår av
-den fortrolige samtalen, også for eksempel de råd
-advokaten gir klienten sin.
-Samtidig mener utvalget at rekkevidden av
-bevisforbud knyttet til yrkesmessig taushetsplikt i
-samsvar med rettspraksis bør presiseres i utkastet
-§ 8-3 første ledd, slik at det også gjelder «materiale som står i nær sammenheng med den fortrolige kommunikasjonen».33 Dermed vil for eksempel materiale som en advokat innhenter for å gi
-rettslige råd, eller de opplysninger en lege innhenter for å gi tilfredsstillende behandling, ha en forankring i bevisforbudets ordlyd, slik at det vil
-være tydeligere at også denne typen opplysninger
-har vern.
-For øvrig gjentas at gjeldende straffeprosessloven § 119 annet ledd, som gir bevisforbudet anvendelse også for profesjonsutøverens
-medhjelpere, er overflødig i lys av utvalgets forslag om å innføre bevismiddelnøytrale bevisforbud, se punkt 13.3.3.2.
-Selv om det innføres bevismiddelnøytralitet,
-må bevisforbudene ved såkalt kallsmessig taushetsplikt, som i dag, i en viss utstrekning avgrenses i lys av de underliggende reglene om den
-aktuelle profesjonsutøvers taushetsplikt. Reguleringer om unntak fra taushetsplikt vil således etter
-omstendighetene kunne innebære at kommunikasjon som i utgangspunktet er vernet, ikke skal
-anses som fortrolig i relasjon til bevisforbud for
-denne typen opplysninger. Et eksempel er unntaket i helsepersonelloven § 33 annet ledd, som
-bestemmer at helsepersonell av eget tiltak, blant
-33
-
-31
-
-269
-
-Kapittel 13
-
-Se for eksempel Rt. 2006 s. 1071, Rt. 2012 s. 868 og Rt. 2013
-s. 92. Om bevisforbudets utstrekning for advokater, se for
-eksempel Johnsen og Keiserud (2016) s. 493 flg. Se også
-Advokatlovutvalgets forslag til ny bestemmelse om taushetsplikt i § 27, som i femte ledd også knytter an til bevisforbudet i prosesslovene, se NOU 2015: 3 s. 493–494.
-
-[Side 272]
-
-270
-
-NOU 2016: 24
-
-Kapittel 13
-
-Ny straffeprosesslov
-
-annet ved mistanke om mishandling av barn, uten
-hinder av taushetsplikt etter § 21 skal gi opplysninger om forholdene til barneverntjenesten.
-Etter utvalgets syn må det være klart at reguleringen forutsetter at slike opplysninger, uten hensyn
-til bevisforbudet i tvisteloven § 22-5, kan benyttes
-av barneverntjenesten for de formål de er mottatt
-– å beskytte barnet –, herunder i etterfølgende
-sivil sak om omsorgsovertakelse. Det er derfor
-neppe grunn til slike bekymringer som Barneombudet hadde i forbindelse med ikrafttredelsen av
-tvisteloven, og som medførte at den tilsvarende
-bestemmelsen til straffeprosessloven § 119 annet
-ledd om profesjonsutøverens medhjelpere ble
-gjeninnført i tvisteloven § 22-5 annet punktum ved
-lov 26. januar 2007 nr. 3.34 Unntak fra taushetsplikt vil for øvrig kunne slå ulikt ut for fortolkningen av bevisforbud i tvisteloven og straffeprosessloven på grunn av formålet med den aktuelle
-unntaksregel.
-Etter utvalgets syn kan det også være ønskelig
-å endre tvisteloven § 22-5 i retning av bevismiddelnøytralitet, men det er ikke nødvendig å fremme
-et selvstendig endringsforslag i tillegg til Tvistemålsutvalgets opprinnelige forslag.35
-13.3.4.3
-
-Bevisforbud ved yrkesmessig taushetsplikt –
-særlig om advokaters granskningsoppdrag
-
-Det har vært en viss tvil knyttet til hva slags
-utveksling av opplysninger straffeprosessloven
-§ 119 verner. For advokater har dette i rettspraksis vært formulert som et spørsmål om hvor grensen for den «egentlige advokatvirksomhet», som
-det skal knytte seg bevisforbudsvirkninger til, bør
-trekkes:
-«[D]et [er] bare ‘den egentlige advokatvirksomhet – juridisk bistand og rådgivning’ som
-er omfattet av bevisforbudet i straffeprosessloven § 119. I tilfeller hvor en advokat driver eiendomsmegling eller formuesrådgivning eller
-bestyrer dødsbo, vil bevisforbudet i § 119 som
-utgangspunkt ikke gjelde for disse virksomhetene. Dersom det i forbindelse med eiendomsmegling eller formuesrådgivning oppstår
-rettsspørsmål som oppdragsgiveren har behov
-for rådgivning om, vil imidlertid den juridiske
-
-rådgivningen være omfattet av bevisforbudet i
-§ 119.»36
-Utvalget mener at bevisforbudet fortsatt bør forstås slik, men ønsker å knytte enkelte merknader
-til hva som utgjør «egentlig advokatvirksomhet»
-med tanke på advokaters granskningsoppdrag.
-Slike granskningsoppdrag er i dag hyppigere forekommende enn tidligere og utføres ofte i saker av
-offentlig interesse.
-Den sivilprosessuelle parallellen til straffeprosessloven § 119 om bevisforbudet for betroelser til
-advokater, er tvisteloven § 22-5. Høyesterett la i
-Rt. 2014 s. 773 (dissens 4–1) til grunn at dette
-bevisforbudet fikk anvendelse for opplysninger i
-en granskningsrapport utarbeidet under ledelse
-av en advokat. Den samlede rett la til grunn at vurderingen av om granskningsmateriale er omfattet
-av bevisforbudet, ikke kan besvares generelt for
-granskningsrapporter, men må bero på en konkret vurdering av det reelle innholdet i arbeidet.
-Oppdraget omfattes dersom faktum i det vesentlige er klarlagt, og oppdragets formål er å stå for
-juridiske vurderinger, men et oppdrag som går ut
-på kartlegging av faktum, som hovedregel vil falle
-utenfor bevisforbudet.37
-Høyesterett delte seg i synet på de mer konkrete retningslinjene for denne vurderingen. For
-flertallet var det et sentralt poeng om faktum som
-kartlegges, kan få «rettslige konsekvenser»:
-«Dersom granskningen kan få rettslige konsekvenser, vil også mer omfattende kartlegging
-av faktum etter mitt syn etter omstendighetene
-kunne være egentlig advokatvirksomhet. Innhentingen og systematiseringen av faktum og
-de juridiske vurderingene vil da ofte henge
-nært sammen. I alle fall når formålet er å vurdere om det har skjedd lovbrudd, kreves det
-juridisk kompetanse for å identifisere hva som
-er det relevante faktum som undersøkelsen
-særlig bør rettes mot, og for å sette de ulike
-deler av faktum i sin rettslige sammenheng. Og
-bevisbedømmelsen vil vanligvis baseres på
-domstolenes prinsipper for bevisbedømmelse.»38
-Til dette bemerket mindretallet:
-«Førstvoterende fremhever for det første at
-også ‘mer omfattende kartlegging av faktum’
-
-34
-
-Se Ot.prp. nr. 74 (2005–2006) s. 36–37.
-35
-En regulering som i tvisteloven § 22-5 annet punktum ble
-av Tvistemålsutvalget og Justisdepartementet først forkastet som overflødig, da bevisforbudet ble gitt en mer generell utforming, se NOU 2001: 32 Bind B s. 959 og Ot.prp. nr.
-51 (2004–2005) s. 458.
-
-36
-37
-
-Rt. 2008 s. 645 avsnitt 47.
-Se Rt. 2014 s. 773 avsnittene 49–50 (flertallet) og 64
-(mindretallet).
-
-[Side 273]
-
-271
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-vil kunne være ‘egentlig advokatvirksomhet’
-‘dersom granskningen kan få rettslige konsekvenser’. Det vil en klarlegging av faktum tilnærmet alltid kunne ha, og muligheten for
-rettslige konsekvenser er ikke egnet som kriterium for når faktumavklaring kan sees som
-‘egentlig advokatvirksomhet’.
-Dernest introduseres det kjennemerke på
-‘egentlig advokatvirksomhet’ at undersøkelsene, når oppdragsgivers formål er å avklare
-om det har skjedd lovbrudd, vil ha nytte av/
-være betinget av juridisk kompetanse. Jeg er
-enig i at det i slike tilfeller gjennomgående vil
-være nyttig med juridisk kompetanse for å
-identifisere hva som er relevant faktum, hva
-undersøkelsen bør søke å avklare. Det vil for så
-vidt være en naturlig del av en advokats arbeid,
-men det følger ikke at dette er ‘egentlig advokatvirksomhet’ i relasjon til tvisteloven § 22-5.
-Det er en situasjon der oppdragets karakter av
-rådgivning mangler, i hvert fall rådgivning av
-den karakter der det er naturlig å betrakte
-datainnsamlingen som betroelser.»39
-Utvalget har en viss forståelse for mindretallets
-innvendinger. Begrunnelsen for bevisforbudet er
-at fortroligheten mellom advokat og klient bør
-vernes for å sikre at personer med behov for juridisk rådgivning føler seg trygge på at de kan søke
-dette, og at rådene som gis, kan baseres på et korrekt faktisk grunnlag. Denne begrunnelsen slår
-ikke til når elementer av juridisk rådgivning ikke
-er en del av det oppdraget advokaten påtar seg og
-leverer.40 Bevisforbudet bør kun få anvendelse for
-de deler av kommunikasjonen som omhandler
-rettslige råd.
-Hvis alt materiale fra en granskning ledet av
-advokat underkastes bevisforbud i straffeprosessuell sammenheng, vil det lett kunne få uheldige
-virkninger som kan hevdes å være vanskelige å
-forklare ut fra bevisforbudets begrunnelse. På sikt
-kan det også få betydning for hvilken type virk-
-
-Kapittel 13
-
-somhet som knyttes til advokatrollen, og føre til
-en svekkelse av profesjonsvernet. Dersom bevisene i sin opprinnelige form ikke er fortrolig kommunikasjon med advokat og lovlige å innhente for
-straffesaksapparatet, men ikke lenger tilgjengelige – for eksempel fordi elektronisk materiale
-slettes, eller dokumenter makuleres – bør heller
-ikke bevisene kunne unntas saken bare fordi det
-har vært gjennomført en granskning ledet av en
-advokat i mellomtiden.41
-Det kan legges til at mange yrkesgrupper har
-klarlegging av fakta og undersøkelser av virkningsforhold som en sentral del av sitt arbeid.
-Dersom bare advokaters tjenester medfører bevisforbud, vil det kunne virke konkurransevridende.
-På tross av nevnte forhold er utvalget av den
-oppfatning at det ikke er hensiktsmessig å gjøre
-endringer i rettstilstanden. Det er vanskelig i loven
-å oppstille et generelt og operasjonaliserbart kriterium som, ut fra bevisforbudets begrunnelse, er
-egnet til å avgrense slik advokatvirksomhet som
-bør være vernet, mot granskningsvirksomhet av en
-slik art som ikke bør gis vern. Høyesteretts avgjørelse illustrerer disse vanskelighetene. Utvalget
-mener spørsmålet om bevisforbudets nærmere
-rekkevidde må overlates til rettspraksis, ut fra en
-vurdering av om oppdraget har karakter av advokatrådgivning, i lys av begrunnelsen for vernet. En
-rekke momenter vil være relevante, og sentrale
-temaer vil være om det fremstår som nærliggende
-at granskningsoppdraget kan få rettslige konsekvenser, og om det ligger innenfor oppdraget å gi
-rettsråd om disse.
-13.3.4.4
-
-Bevisforbud ved rettsstridig ervervede bevis
-
-Det klare utgangspunktet i norsk rett er at eventuelle feil ved innhenting av et bevis ikke er til hinder for at beviset føres. Dette følger av straffeprosesslovens forarbeider og fast rettspraksis, og det
-har utviklet seg en ulovfestet lære om avskjæring
-av ulovlig ervervede bevis. Høyesterett har sammenfattet innholdet og strukturen i læren slik:
-
-38
-
-Se Rt. 2014 s. 773 avsnittene 50–51. Advokatlovutvalget kan
-se ut til å tillegge synspunktet om rettslige virkninger om
-mulig enda større betydning i vurderingen av hva som
-utgjør «egentlig advokatvirksomhet», ved at det i forslaget
-deres skal være selve vurderingstemaet og ikke bare et
-moment i en samlet vurdering, slik førstvoterende i Rt.
-2014 s. 773 legger opp til, se NOU 2015: 3 s. 99: «Utvalget
-mener […] at vurderingstemaet bør være hvorvidt et
-granskningsoppdrag som gjelder faktum, kan få rettslige
-konsekvenser. I så fall bør oppdraget anses å omfatte rettslig bistand og dermed være omfattet av bevisforbudet.»
-39
-Rt. 2014 s. 773 avsnittene 63–66.
-40
-Det kan også nevnes at avgjørelsen i Rt. 2014 s. 773 i juridisk teori har vært kritisert for å ha «strukket [bevisforbudet] urimelig langt», se Backer (2015) s. 300.
-
-«Ved vurderingen av om et ulovlig ervervet
-bevis skal tillates ført, må det blant annet legges vekt på om føring av beviset vil representere en gjentakelse eller fortsettelse av det
-rettsbrudd som ble begått ved ervervet av beviset. I tilfeller hvor føring av beviset vil representere en gjentakelse eller fortsettelse av rettsbruddet, må beviset normalt nektes ført. I
-andre tilfeller må spørsmålet bero på en
-41
-
-I samme retning Økokrim (22.10.16) s. 8.
-
-[Side 274]
-
-272
-
-NOU 2016: 24
-
-Kapittel 13
-
-Ny straffeprosesslov
-
-interesseavveining. Ved denne avveiningen må
-det blant annet legges vekt på grovheten av den
-krenkelse som ble begått ved ervervet av beviset, om den som satt med beviset pliktet å forklare seg eller utlevere dette, hvor alvorlig eller
-viktig saken er, og bevisverdien av beviset
-[…].»42
-Utover dette utgangspunktet reiser læren om
-ulovlig ervervede bevis mange sammensatte og
-kompliserte spørsmål og inneholder en rekke
-detaljer som kommer til uttrykk i konkrete
-avveininger og retningslinjer.43 Utvalget mener
-derfor innholdet i en regel om avskjæring av
-bevis på slikt grunnlag i det alt vesentlige bør få
-sin nærmere avklaring gjennom rettspraksis.
-Det er likevel grunn til å drøfte om læren bør
-gis en forankring i straffeprosessloven, slik den
-har i tvisteloven § 22-7: «Retten kan i særlige tilfeller nekte føring av bevis som er skaffet til veie på
-utilbørlig måte.» Dessuten er det grunn til å vurdere om den gjeldende praksis i så fall bør justeres på visse punkter.
-Straffeprosesslovkomitéen kommenterte spørsmålet om lovfesting slik:
-«Etter komitéens mening lar det seg ikke gi
-noe generelt svar på spørsmålet om hvilken
-virkning prosessuelle feil bør ha for adgangen
-til å bruke et bevis. Hensynet til å motvirke
-ulovlige metoder fra politiets side som har spilt
-så stor rolle i amerikansk praksis, har under
-våre forhold ikke samme vekt. Mulige misbruk
-fra politiet lar seg mer hensiktsmessig motarbeide ved administrative og disiplinære
-forholdsregler enn ved å avskjære bevis som
-kanskje er avgjørende for oppklaring av saken.
-Hovedregelen bør visstnok være at beviset kan
-føres til tross for feilen, med mindre lovgrunnen for vedkommende prosessuelle regel
-tilsier det motsatte. Om dette er tilfellet vil
-imidlertid ofte kunne stille seg tvilsomt. Det
-kan undertiden også anføres andre grunner til
-fordel for avskjæring, f.eks. at det vil være
-støtende at rettsvesenet benytter seg av et
-materiale som er skaffet til veie ved grove
-brudd på gjeldende regler. En lovregulering av
-disse spørsmål er imidlertid vanskelig, og ville
-belaste loven uforholdsmessig i betraktning av
-den nokså beskjedne praktiske betydning
-
-problemet har hos oss. Man er derfor blitt stående ved å overlate løsningen til teori og praksis på samme måte som hittil.»44
-Utvalgets deler ikke dette synet og er generelt av
-den oppfatning at det er hensiktsmessig om sentrale bevisregler får en forankring i loven, se
-punkt 13.2.1. Forutsetningene er i dag dessuten
-andre enn da Straffeprosesslovkomitéen uttrykte
-sitt syn. For selv om læren om avskjæring av rettsstridig ervervede bevis er skjønnspreget, har det
-gjennom rettspraksis skjedd en viss avklaring av
-innholdet. Videre er det nå dessuten et spørsmål
-om hvorvidt ulovlig beviserverv i visse tilfeller må
-avbøtes ved bevisforbud som følge av det rettighetsvernet Grunnloven og EMK gir, noe som
-også gir økt behov for uttrykkelig lovregulering.45
-Høyesterett og juridisk litteratur har videre
-lagt til grunn at det ikke eksisterer noe prinsipielt
-skille mellom avskjæring av ulovlig ervervede
-bevis i sivilprosessen og i straffeprosessen, selv
-om vurderingene kan få ulike utslag.46 Den domstolskapte rett skulle da være mulig å videreføre i
-en lovtekst tilsvarende eller lignende tvisteloven
-§ 22-7.
-Når ambisjonen i det vesentlige er å videreføre
-gjeldende rett, vil lovfesting av regelen være rettsteknisk overkommelig ved å gi en fleksibel regulering. Det vil også åpne for at læren vil kunne
-videreutvikles av domstolene innenfor rammene
-av ordlyden. Utvalget mener imidlertid at gjeldende praksis også bør endres på visse punkter,
-og det mest effektive virkemiddelet for å oppnå
-dette er å gi uttrykk for de ønskede endringer i og
-i forbindelse med vedtakelsen av en lovbestemmelse.
-Det sentrale argumentet mot bevisforbud på
-grunnlag av ulovlig beviserverv er sannhetsidealet og hensynet til sakens opplysning, se punkt
-13.3.1 og 13.3.2. På den annen side står en rekke
-forskjelligartede hensyn, som etter utvalgets syn
-til dels har blitt tillagt for liten oppmerksomhet og
-vekt i rettspraksis. Det er særlig to hensyn som tilsier at domstolenes praksis bør justeres noe:
-Bevisavskjæring kan for det første bidra til å
-forebygge ulovligheter, og da særlig under etter44
-45
-
-42
-
-Rt. 1999 s. 1269 på s. 1272. Se også Rt. 2006 s. 582 avsnitt
-22.
-43
-Se nærmere i Torgersen (2009). Se også Øyen (2016 b) s.
-410–420.
-
-46
-
-Straffeprosesslovkomitéen (1969) s. 197. Dette sluttet også
-departementet seg til, se Ot.prp. nr. 35 (1978–79) s. 139.
-Se for eksempel Rt. 2014 s. 1105 i avsnitt 50, der Høyesteretts flertall la til grunn at det å tillate at de aktuelle bevisene ble benyttet i straffesaken, ville utgjøre en krenkelse
-av Grunnloven § 102 om privatlivets fred og av hjemmelskravet i § 113. Se for øvrig Robberstad (2016) s. 53 flg.,
-som er kritisk til avgjørelsen.
-Se for eksempel Rt. 2014 s. 1105 avsnitt 48.
-
-[Side 275]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-forskingen. Det tradisjonelle synet har – slik det
-er uttrykt av Straffeprosesslovkomitéen i sitatet
-ovenfor – vært at slike hensyn ikke har så stor
-vekt «under våre forhold», og at eventuelt misbruk «lar seg mer hensiktsmessig motarbeide
-ved administrative og disiplinære forholdsregler
-enn ved å avskjære bevis som kanskje er avgjørende».
-Også i rettspraksis kommer det frem at disiplineringshensyn ikke har nevneverdig vekt ved den
-interessevurdering som etter gjeldende rett må
-foretas når føring av beviset ikke vil innebære en
-fortsettelse eller gjentakelse av det rettsbrudd
-som ligger til grunn for beviservervet:
-«Etter min mening er det klart at beviset heller
-ikke kunne vært avskåret på grunnlag av en
-interesseavveining. Avskjæring kunne riktignok ha en pedagogisk effekt ved at politiet fikk
-en ekstra oppfordring til å overholde de materielle og formelle vilkår for ransaking. Men som
-sitatet foran viser, har lovgiveren akseptert at
-et bevis kan føres selv om det knytter seg formelle feil til det.»47
-Det er grunn til å stille spørsmål om hvorvidt hensynet til å forebygge ulovligheter blir tilstrekkelig
-ivaretatt i dagens praksis. Gitt begrunnelsen for
-ikke å avskjære bevis av disiplineringshensyn – at
-ulovligheter motvirkes mer hensiktsmessig ved
-andre reaksjoner, herunder administrative og disiplinære forholdsregler – skulle man forvente at
-slike alternative virkemidler blir fremhevet i
-større grad enn det man ser i praksis.48
-Trekk ved samfunnsutviklingen har ført til at
-premissene for vurderingen av hvilket gjennomslag disiplineringshensyn bør ha for bevisforbud,
-er andre enn da Straffeprosesslovkomitéen tok
-stilling til spørsmålet. Særlig den teknologiske
-utviklingen – med nye kommunikasjonsmetoder
-som griper inn i alle sider av vår livsførsel, og de
-tilhørende muligheter for overvåking, den økte
-vilje til kriminalisering, også av forberedelseshandlinger, og den medfølgende muligheten til å
-benytte et videre spekter av tvangsmidler og etterforskingsmetoder enn før – har gitt et større
-potensial for misbruk enn det som eksisterte den
-gang. Dette er en risiko som i en viss utstrekning
-må antas å kunne reduseres ved i større grad å
-vektlegge hensynet til å forebygge ulovligheter
-ved spørsmål om bevisforbud for ulovlig
-ervervede bevis.
-47
-48
-
-Rt. 2006 s. 582 avsnitt 24.
-Se Torgersen (2009) s. 179.
-
-273
-
-Kapittel 13
-
-Endelig nevnes at hensynet til disiplinering
-ikke er gitt et konsekvent gjennomslag, idet det
-vektlegges for å motvirke ulovlige beviserverv i
-sivile saker og for private personers ulovligheter
-ved beviserverv.49 Det er vanskelig å se begrunnelsen for et slikt skille, ikke minst fordi farene
-ved misbruk fra myndighetene potensielt er
-større enn fra private, gitt forskjellen i tilgjengelige maktmidler og maktapparatets omfang. Og i
-motsetning til politiet befinner privatpersoner og
-andre som er parter i sivile tvister, seg sjelden i
-situasjoner hvor det er tale om å erverve bevis.
-Bevisavskjæring må derfor antas å være mer
-egnet for å påvirke adferd hos politi og påtalemyndighet. Offentlige myndigheter har dessuten gode
-forutsetninger for å kunne endre handlemåter
-innenfor institusjonelle rammer.
-Utvalget mener på denne bakgrunn at
-gjeldende praksis bør endres i retning av at også
-disiplineringshensyn tillegges en viss vekt ved
-vurderingen av om et rettsstridig ervervet bevis
-bør tillates benyttet. Det vises til merknadene til
-utkastet § 8-5.
-Idealet om en lovformelig prosess kan for det
-andre tilsi at bevis bør avskjæres hvis det er ulovlig innhentet. Når borgere utsettes for statens
-maktutøvelse, bør statsapparatet respektere
-lovens rammer for straffeforfølgningen. Bevisforbud kan bidra til å avbøte krenkelser og således
-understøtte tillitsforholdet mellom stat og borger.
-Utvalget mener at lovformelighetsidealet tilsier at utgangspunktet må være at det oppstilles
-bevisforbud hvis sentrale regler til vern av enkeltpersoners frihet og privatliv ikke respekteres
-under etterforskingen eller rettergangen, og at
-unntak fra dette må gis en overbevisende begrunnelse.
-Utvalget har også funnet grunn til å stille
-spørsmål om hvorvidt det formelle utgangspunktet i norsk rett – at eventuelle feil ved innhenting
-ikke er til hinder for at beviset føres – underspiller betydningen av idealet om lovformelig
-prosess. I så fall kunne det være grunn til at det
-argumentative utgangspunktet etter bestemmelsens ordlyd burde være at et ulovlig ervervet
-bevis ikke skal tillates, med mindre det gis en tilstrekkelig begrunnelse for at det bør kunne
-benyttes.
-Selv om bestemmelsen skulle utformes med
-et slikt utgangspunkt, ville det ikke måtte med49
-
-Se for eksempel Rt. 1991 s. 616 og Rt. 1997 s. 795. I en viss
-utstrekning kan slike forskjeller i rettspraksis kanskje forklares ved at sannhetsidealet står i en noe annen stilling
-innenfor straffeprosessen enn i sivilprosessen, se Torgersen (2009) s. 152.
-
-[Side 276]
-
-274
-
-NOU 2016: 24
-
-Kapittel 13
-
-Ny straffeprosesslov
-
-føre en omfattende omlegging av praksis.
-Bestemmelsen kunne for eksempel lyde:
-«Det gjelder bevisforbud for bevis som er innhentet eller tilgjengeliggjort på rettsstridig
-måte. Beviset kan likevel benyttes når det foreligger særlige grunner. Ved vurderingen skal
-det særlig tas hensyn til
-– det rettsstridige beviservervets grovhet,
-– om bruken av beviset vil krenke beskyttelsesverdige interesser, og
-– om det er reagert mot beviservervet på en
-måte som må antas å forebygge fremtidige
-krenkelser.»
-Utvalget har likevel blitt stående ved ikke å markere det nevnte idealet uttrykkelig i ordlyden. Det
-er forskjell på spørsmålet om det foreligger et
-ulovlig beviserverv, og om det bør oppstilles forbud mot senere bruk av beviset, og vekten av hensynet til en lovformelig prosess varierer dessuten
-med alvorligheten av krenkelsen som ble begått
-ved det ulovlige ervervet. Bestemmelsen bør derfor utformes nøytralt.
-13.3.5 Bevisforbud og beslag
-En følge av at bevisforbudene er utformet i tråd
-med nøytralitetsprinsippene redegjort for i punkt
-13.3.3, er at bestemmelsen om beslagsforbud i
-straffeprosessloven § 204 første ledd blir overflødig:
-«Det kan ikke tas beslag i dokumenter eller
-annet hvis innhold et vitne kan nekte å forklare
-seg om etter §§ 117–121 og 124–125, og som
-besittes enten av den som kan nekte å forklare
-seg, eller av den som har rettslig interesse i
-hemmelighold. I den utstrekning det etter de
-nevnte bestemmelser kan pålegges vitneplikt i
-visse tilfelle, gjelder dette tilsvarende for
-adgangen til beslag.»
-Dette regelinnholdet vil etter utkastet følge
-direkte av de enkelte bevisforbudene og rettsvirkningen som omfatter forbud mot innhenting, jf.
-utkastet § 8-1.
-Det er imidlertid et selvstendig spørsmål om
-det er grunn til å videreføre forbeholdet om at
-gjenstanden for beslag må besittes av noen som
-kan nekte å forklare seg, eller som har rettslig
-interesse i hemmelighold, for at den skal være
-omfattet av beslagsforbudet.
-
-Forbeholdet har, så vidt utvalget kan se, aldri
-vært gitt noen egentlig begrunnelse. Én begrunnelse kunne være at manglende besittelse er en
-indikasjon på at interessen i hemmelighold er oppgitt. En annen begrunnelse kunne være at ordningen gir insentiver til å verne om hemmeligheter,
-herunder ta nødvendige forholdsregler for å
-verne om informasjonen og forsikre seg mot at
-den kommer på avveie.
-Utvalget mener slike argumenter ikke kan
-begrunne en innskrenkning av bevisforbudet med
-tanke på bevisinnhenting i form av beslag. Hensynene som begrunner bevisforbudene, gjør seg tilsvarende gjeldende også i denne situasjonen, og
-om interessen i hemmelighold er oppgitt, bør derfor bero på en tolkning og anvendelse av de
-enkelte bevisforbud med sine tilhørende unntak.
-Om tingen som eventuelt skal beslaglegges,
-befinner seg i tredjemanns besittelse, er ikke alltid en god indikasjon på om interessen i hemmelighold er oppgitt. Å overlate opplysningene til
-andre kan man ha gode og fullt berettigede
-grunner til, også når det er behov for fortrolighet
-om informasjonen.
-13.3.6 Betydningen av at opplysninger omfattet
-av bevisforbud er blitt offentlig kjent
-Konfidensielle opplysninger som det i rettslig
-sammenheng knytter seg bevisforbud til, kan bli
-kjent for personer de ikke er ment for. Blir opplysningene kjent for rettens aktører, skal aktørene se
-bort fra opplysningene når det treffes en avgjørelse i saken, og manglende håndhevelse av bevisforbud kan i ytterste konsekvens medføre at
-avgjørelsen oppheves. Et særlig spørsmål er hvilken betydning det har at opplysninger omfattet av
-bevisforbud er blitt mer alminnelig kjent.
-I Rt. 2012 s. 268, som omhandlet oppnevning av
-ytterligere psykiatrisk sakkyndige i 22. juli- saken,
-hadde informasjon som kunne være omfattet av
-bevisforbudet i straffeprosessloven § 119, blitt
-bredt kringkastet i media. Den aktuelle formidlingen bestod i «et oppslag på TV 2 allerede kvelden
-den 3. januar om at helsepersonell på Ila fengsel
-verken vurderte siktede som psykotisk, paranoid
-schizofren eller suicidal», opplysninger som ble
-«omtalt i media, både i aviser og under debattprogrammer, senere samme uke».50 Høyesteretts
-ankeutvalg la da til grunn at informasjonen kunne
-benyttes når den var blitt kjent for så mange:
-50
-
-Se Høyesteretts gjengivelse av Oslo tingretts redegjørelse
-overfor Borgarting lagmannsrett av 27. januar i Rt. 2012 s.
-268 avsnitt 40.
+Betydningen av klarhet i mandatet er understreket i en rekke utredninger, herunder i utredningene i kjølvannet av gjenåpningene av Liland-saken og Moen-sakene.[^623] Blant annet påpekes viktigheten av at spørsmålene som stilles i mandatene, omhandler faktiske forhold som den sakkyndige har særlige forutsetninger for å uttale seg om, og at det klargjøres at det må opplyses hvilke sider av den sakkyndige uttalelsen som beror på faktiske forutsetninger som retten må bedømme holdbarheten av.
+
+Utvalget mener det er av stor betydning at det er bevissthet om utforming og den videre oppfølging av mandater under sakens gang. I forslaget til regulering er det derfor forsøkt angitt så detaljerte krav som mulig til hvordan mandater skal utformes og besvares, og til de underliggende begjæringene om oppnevning av sakkyndige, se utkastet §§ 11-2, 11-3 og 11-5.
+
+1.  *Oppnevning under etterforsking – forholdet til anklageprinsippet*
+
+Av avgjørelsen inntatt i Rt. 2012 s. 268 følger det at retten på etterforskingsstadiet, etter at påtalemyndigheten har begjært oppnevnt sakkyndige, på eget initiativ kan oppnevne ytterligere sakkyndige dersom dette er «påkrevet». Saken gjaldt spørsmål om oppnevning av ytterligere sakkyndige for å bedømme om siktede i 22. juli-saken var tilregnelig.
+
+Oppnevningen ble forankret i straffeprosessloven § 139 annet ledd og gjelder derfor for sakkyndige generelt. En forutsetning for at retten på denne måten kan handle på egen hånd, er at påtalemyndigheten har begjært den eller de opprinnelige sakkyndige oppnevnt i medhold av straffeprosessloven § 237.
+
+Spørsmålet om hvorvidt rettstilstanden burde videreføres, ble drøftet av Tilregnelighetsutvalget. Det var delte meninger i utvalget, men det var enighet om at spørsmålet heller burde besvares av Straffeprosessutvalget for å sikre en helhetlig vurdering av problemstillingen og at den ble drøftet i sammenheng med forholdet mellom påtalemyndigheten og domstolene i sin alminnelighet samt oppgavefordelingen mellom dem.[^624]
+
+Utvalgets standpunkt er at anklageprinsippet også på dette området bør legges konsekvent til grunn, se nærmere punkt 17.6. Hvilken adgang retten har til å gå utover påtalemyndighetens begjæring, vil bero på en fortolkning av begjæringen og det aktuelle hjemmelsgrunnlaget.
+
+På etterforskingsstadiet er det påtalemyndigheten som er nærmest til å vurdere om besvarelsen av mandatet tilsier behov for ytterligere undersøkelser, og retten skal derfor etter utvalgets forslag kun «oppnevne sakkyndig etter begjæring», se utkastet § 11-4 første ledd bokstav a. Er det tatt ut tiltale, skal retten imidlertid kunne ta initiativ til ytterligere undersøkelser, se lovutkastet § 11-4 annet ledd. Dette innebærer at rettstilstanden etter straffeprosessloven § 139, slik den er lagt til grunn i Rt. 2012 s. 268, ikke videreføres.
+
+1.  *Private sakkyndige/sakkyndige vitner – sakkyndige uten oppnevning*
+
+Det vanlige i norsk straffeprosess er at det er påtalemyndigheten og retten som, eventuelt etter initiativ fra mistenkte, besørger oppnevning av sakkyndige. Det henger sammen med påtalemyndighetens ansvar for etterforskingen, herunder objektivitetsplikt, og rettens plikt til å sørge for sakens opplysning.
+
+Særlige spørsmål er om det i større grad bør legges til rette for bruk av private sakkyndige, og hvilke rammer som skal legges til grunn for bruk av slike. Om det skal benyttes rettsoppnevnte sakkyndige, eller om partene selv skal føre sine sakkyndige, er et spørsmål knyttet til valg av prosessform og i hvilken utstrekning den skal være partsdrevet.
+
+Prinsippet om fri bevisføring innebærer at partene vil ha adgang til å føre sakkyndige som ikke er rettsoppnevnte. Det kan være flere grunner til at man ønsker det. For påtalemyndigheten er det hensiktsmessig og vanlig å føre sakkyndige vitner som har vært involvert i etterforskingen av saken. På grunn av tilknytningen som dermed har oppstått, vil det i slike tilfeller ofte være det mest ryddige ikke å gå inn for å få slike sakkyndige rettsoppnevnt.
+
+For mistenkte kan bruk av egen sakkyndig tenkes motivert blant annet av at habilitetskravene for oppnevning ikke er oppfylt, eller at retten ikke ser behovet for ytterligere sakkyndige. Det kan likevel fra forsvarets side være ønskelig å få etterprøvd uttalelser fra rettsoppnevnte sakkyndige og presentere et annet, alternativt perspektiv på forhold i saken. I noen tilfeller vil det også være behov for sakkyndige for å forberede forsvaret, for eksempel ved bruk av revisorer i økonomiske straffesaker.
+
+Etter straffeprosessloven har oppnevnte og private sakkyndige ulike roller og rettigheter. Straffeprosessloven § 149 fastslår at sakkyndige som partene fremstiller for retten uten oppnevning, avhøres muntlig som vitner, altså i tråd med prinsippet i straffeprosessloven § 296.
+
+Det er kun rettsoppnevnte sakkyndige som er gitt adgang til å stille spørsmål til parter og vitner. Spørsmål fra en privat sakkyndig til parter, vitner eller andre sakkyndige skal skje gjennom advokaten til den part de bistår under saken, eventuelt gjennom retten. En annen forskjell er at rettsoppnevnte sakkyndige normalt vil bli spurt ut av retten først og deretter av sakens parter, mens en privat sakkyndig normalt blir spurt ut av parten som fører vitnet først, og deretter av motparten eller retten.
+
+Det er dessuten begrenset adgang til å lese opp erklæringer vitner har skrevet, jf. straffeprosessloven § 296 annet ledd, men det kan tillates etter § 133 for temaer der «forklaringens art krever det». Dette vil typisk være tilfellet når hensynet til kommunikasjon taler for det, for eksempel hvis man skal vise frem en tabell eller lignende.
+
+For enkelte typer bevismidler er det ved undersøkelser etter straffeprosessloven § 154 vanskelig å sidestille de private med de rettsoppnevnte sakkyndige som følge av bevismiddelets karakter eller undersøkelsesmetoden som skal benyttes. Det vil blant annet kunne gjelde gjennomføring av DNA-analyse etter straffeprosessloven § 158.
+
+Hvor strengt det rettslige skillet mellom oppnevnte og private sakkyndige etterleves i praksis, beror nok på den enkelte sak. Særlig bestemmelsen om opplesning praktiseres nok liberalt, i den forstand at retten gjerne tillater at erklæringer fra partssakkyndige leses, med mindre den annen part protesterer.
+
+Retten vil også ellers innenfor det gjeldende rettskildebildet langt på vei kunne gi den private sakkyndige samme stilling som de oppnevnte under rettergangen, og kan også i noen utstrekning være forpliktet til det. Særlig prinsippet om likebehandling, som blant annet er forankret i EMK artikkel 6, kan begrense adgangen til å behandle rettsoppnevnte sakkyndige og private sakkyndige forskjellig.
+
+Utvalget antar hensynet til sakens opplysning best vil bli ivaretatt innenfor et system basert på bruk av rettsoppnevnte sakkyndige uten bindinger til sakens parter. Utgangspunktet i norsk straffeprosess bør derfor fortsatt være at saken opplyses med bruk av rettsoppnevnte sakkyndige etter begjæring, supplert med påtaleantatte sakkyndige der det er behov for slike under etterforskingen, se utkastet §§ 11-2 og 11-4. Også mistenkte, og i noen tilfeller fornærmede, skal kunne fremsette begjæring om oppnevning, noe som er tydeliggjort i utkastet, se §§ 11-4 første ledd bokstav b og 43-7 annet ledd.
+
+Utgangspunktet skal altså være at forsvareren henholder seg til den rettsoppnevnte, eventuelt påtaleantatte sakkyndige, og medvirker til at mandatet dekker de punkter vedkommende mener bør belyses, se slik i Rt. 2001 s. 1109 på s. 1110 med henvisning til Rt. 1998 s. 1632 på s. 1636. Det er i utstrakt grad lagt til rette for kontradiksjon om oppnevningen og prosessen i tilknytning til denne, se utkastet §§ 11-5 tredje ledd og 11-6 fjerde ledd.
+
+Det er grunn til å tydeliggjøre og formalisere påtalemyndighetens bruk av sakkyndige i større grad enn det som er gjort i straffeprosessloven § 148, for å sikre ytterligere bevissthet om sakkyndigrollen og betydningen av uavhengighet. Lovutkastet regulerer på denne bakgrunn særskilt «sakkyndige antatt av påtalemyndigheten», se blant annet utkastet § 11-2 første ledd om mandat, § 11-5 fjerde ledd om begjæring om påtaleantatt sakkyndig og § 11-7 annet ledd om krav til habilitet.
+
+Selv om det ikke er ønskelig at loven legger opp til et såkalt «battle of experts», der hver part fører sine sakkyndige, bør det legges til rette for bruk av partsantatte sakkyndige. Det er avgjørende å sikre gode arbeidsbetingelser, slik at også den partsantatte sakkyndige får redegjort for sine kunnskaper og vurderinger. Se utkastet § 11-10, jf. § 11-1 annet ledd.
+
+En følge av prinsippet om fri bevisføring er at det ikke kan stilles formelle krav av absolutt karakter for mistenktes bruk av sakkyndige. Loven legger imidlertid klare føringer for hvordan sakkyndigbeviset bør behandles. Ett grep som er tatt for å sikre best mulig bruk av antatt sakkyndig fra mistenktes side, er at det er gitt en oppfordring om å besvare mandatet på samme måte som kreves av påtaleantatte og rettsoppnevnte sakkyndige, se utkastet § 11-3 tredje ledd.
+
+Nytt er også at plikten til å sende inn erklæringer til Den rettsmedisinske kommisjon er gjort generell for medisinsk sakkyndige, uavhengig av om den sakkyndige er rettsoppnevnt eller partsantatt. Kommer spørsmålet på spissen, vil imidlertid en mistenkt i medhold av prinsippet om fri bevisføring kunne kreve at en antatt sakkyndig skal kunne uttale seg også om forhold som ikke har vært forelagt kommisjonen, dersom disse har relevans.
+
+Bevisføringsadgangen har videre den betydning at det vanskelig kan stilles krav til habilitet for mistenktes bruk av sakkyndige. For påtaleantatte sakkyndige er det imidlertid grunn til å gi kravene til habilitet anvendelse så langt det lar seg gjøre, se utkastet § 11-7 annet ledd. På noen fagområder vil dette kunne være utfordrende, fordi gruppen sakkyndige er få, og de sakkyndige nødvendigvis vil måtte samarbeide tett med påtalemyndigheten og politiet under etterforskingen. Krav til habilitet og uavhengighet kan heller ikke være til hinder for at politi og påtalemyndighet knytter til seg særskilte fagmiljøer eller selv bygger opp slike.
+
+En praktisk begrensning for mistenktes bruk av sakkyndig, er at den enkelte part selv må dekke utgiftene. Vitnegodtgjørelsesloven § 10 annet ledd fastslår at en sakkyndig som ikke er oppnevnt, «efter omstændighetene» kan tilkjennes godtgjørelse. Det avgjørende er om forsvareren hadde rimelig grunn til å fremstille den sakkyndige, og ikke om retten har bygget på vedkommendes konklusjoner.[^625] Utvalget mener denne praksisen bør videreføres.
+
+1.  *Etterprøving*
+
+Den som treffer beslutninger etter loven, har selv det endelige ansvaret for bevisbedømmelsen, se utkastet § 7-1 første ledd. Dette innebærer at det må tas stilling til holdbarheten av uttalelser fra sakkyndige. Samtidig ligger det her en praktisk begrensning som følge av at reell kontroll forutsetter kunnskap som beslutningstakeren i alminnelighet ikke har når det oppnevnes sakkyndige.
+
+Sakkyndigbeviset er på denne bakgrunn karakterisert som autoritativt; sakkyndige anses langt på vei som pålitelige i kraft av sin profesjon og sin status innenfor fagmiljøet og i samfunnet. Autoriteten forsterkes ved at en sakkyndig oppnevnt av retten presumptivt vil være uten interesse i sakens utfall.
+
+Straffeprosessens øvrige aktører er imidlertid ikke helt uten mulighet til å øve kontroll med det som blir sagt. Det er blant annet mulig, i det minste i en viss utstrekning, å ta stilling til den sakkyndiges hypoteser og erfaringssetninger, å avklare om metoden som er brukt, har aksept i fagmiljøet, og om relevant materiale tilbakeholdes. Det kan ellers søkes klarhet i den sakkyndiges premisser og forholdet mellom premisser og konklusjon gjennom spørsmålsstilling under hovedforhandlingen eller forut for denne, og til dette kan det også søkes bistand fra andre sakkyndige, se drøftelsen i punkt 13.6.3.6.
+
+Utvalget mener det er viktig at det legges til rette for etterprøving av sakkyndigbeviset. Med det menes ikke at det i hver enkelt sak der det er oppnevnt sakkyndige, skal foretas inngående kontroll av deres uttalelser, men at straffeprosessloven må legge til rette for mulig kontroll av det som fremlegges. Samtidig må det ikke underspilles at fagkyndighet i en viss utstrekning forutsetter bruk av avansert språk for fagintern kommunikasjon som for utenforstående kan være utilgjengelig.
+
+Grunnleggende for at det skal kunne utøves kontroll, og at eventuelle feilkilder skal kunne avdekkes, er at den sakkyndige formidler sin faglige innsikt og sine vurderinger på en måte som gjør at den kan bli gjort til gjenstand for analyse. I utkastet er det for dette formål stilt detaljerte krav til utformingen av mandatet og til hvordan dette skal besvares, herunder er det blant annet presisert at den sakkyndige skal besvare mandatet i et «klart og tydelig språk», og at eventuell usikkerhet skal tydeliggjøres, jf. utkastet § 11-3 første ledd.
+
+Skriftlighet er av stor betydning for etterprøving, i tillegg til at selve skriveprosessen må antas å bidra til samvittighetsfulle, rasjonelle og reelle overveielser. Hovedregelen om skriftlighet i straffeprosessloven § 143 videreføres, med kun en snever adgang til muntlig uttalelse, se utkastet § 11-3 første ledd annet punktum. Det nærmere omfanget og utformingen av den skriftlige redegjørelsen lar det seg vanskelig gjøre å formulere generelle krav til utover å kreve at den er informativ, sannferdig og relevant. Dette er søkt uttrykt i kravene til struktur og innhold etter § 11-3 første ledd tredje punktum bokstav a til d.
+
+Utvalget mener det er grunn til å videreføre ordningen med særskilt kontroll av medisinske uttalelser i Den rettsmedisinske kommisjon og åpner samtidig for at det kan opprettes kontrollordninger for andre typer sakkyndighet, se utkastet § 11-9.
+
+1.  **Bevissikring i retten**
+
+    1.  **Gjeldende rett**
+
+Som ledd i etterforsking og iretteføring er det behov for å kunne benytte formaliserte fremgangsmåter for å kunne undersøke og sikre vitneforklaringer og andre bevis.
+
+I straffeprosessloven kapittel 12 er det gitt særskilte regler om «rettslig granskingsforretning», jf. § 150. Dette vil si undersøkelse av ting i regi av retten utenfor hovedforhandling, eventuelt satt ut til sakkyndige. Formålet er å sikre at bevismidlet eller informasjon fra dette ikke skal gå tapt. Det vanlige er at påtalemyndigheten selv tar initiativ til slik gransking, jf. §§ 148 og 155 og redegjørelsen i punkt 13.6.1 om sakkyndige. Ønsker påtalemyndigheten i stedet rettslig granskingsforretning til bruk under etterforskingen, skal begjæring om slik normalt etterkommes, jf. § 237 første og tredje ledd:
+
+«Påtalemyndigheten kan begjære rettslig avhør, rettslig gransking eller oppnevning av sakkyndige til bruk for etterforskingen. Retten plikter å etterkomme begjæringen, med mindre den finner at det forhold som etterforskingen gjelder, ikke er straffbart, eller at straffansvaret er falt bort, eller at det ikke er lovlig adgang til å ta begjæringen til følge. Ved begjæring fra lensmann prøver retten likevel fullt ut om begjæringen er tilstrekkelig begrunnet.
+
+\[…\]
+
+Bevisopptak til bruk for hovedforhandlingen kan holdes når vilkårene etter § 270 første ledd foreligger, og det ikke uten skade, tidsspille eller omkostning kan utstå til spørsmålet om tiltale er avgjort.»
+
+Vitneavhør sikres ved bruk av bevisopptak, det vil si et enkeltstående rettergangsskritt der forklaringen nedtegnes i rettsboken. Bevisopptak som gjennomføres før tiltale, skjer i medhold av § 237 tredje ledd, mens bevisopptak etter tiltale reguleres av straffeprosessloven § 270:
+
+«Bevisopptak forut for hovedforhandlingen kan holdes når et vitne er fritatt for møteplikt etter § 109 første ledd annet punktum, beviset ikke kan føres under hovedforhandlingen uten uforholdsmessig ulempe eller utgift, eller det er fare for at beviset ellers kan gå tapt eller verdien av det bli forringet.
+
+Når påtalemyndigheten begjærer bevisopptak, bedømmer den selv om vilkårene etter første ledd er til stede. Ved begjæring fra tiltalte eller hans forsvarer hører avgjørelsen under den rett som begjæringen er fremsatt for.
+
+Begjærer tiltalte eller hans forsvarer bevisopptak, skal retten som regel kreve at det blir innbetalt et tilstrekkelig beløp til å dekke utgiftene. Finner påtalemyndigheten eller den dømmende rett at det har vært rimelig grunn til bevisopptaket, erstattes utgiftene av staten.»
+
+1.  **Utvalgets vurderinger**
+
+Det er viktig å ha tilgjengelig formelle fremgangsmåter som kan benyttes til å sikre bevis. Reguleringer som ivaretar dette, er nødvendig dels for å kunne etterleve den generelle plikten etter utkastet § 7-1 tredje ledd, som fastslår at bevis skal innhentes og behandles på en måte som sikrer og bevarer bevisenes pålitelighet, dels for å kunne legge opp til en hensiktsmessig gjennomføring av straffeforfølgningen.
+
+Utvalget mener de materielle hjemlene i kapittel 12 om «granskning» og § 270 om «bevisopptak» i det vesentlige bør videreføres etter sitt innhold, og at aktørene skal kunne begjære dette slik §§ 237, 241 og 265, jf. § 266 åpner for i dag.
+
+Når det gjelder kapittel 12 om «granskning», går utvalget inn for en strukturell omlegging, se også punkt 14.7.1 om forholdet mellom undersøkelse av ting og ransaking.
+
+Den sammenheng det er mellom tiltakene, samt pedagogiske grunner, tilsier at bevisopptak med sikte på undersøkelse av ting og avhør av personer reguleres samlet. Dette er videre så vidt særegne reguleringer at de bør inntas i et eget kapittel om rettslig bevissikring i utkastes del 2 om bevis, se utkastet kapittel 12.
+
+Bestemmelsene i straffeprosessloven kapittel 12 og §§ 237 og 270 regulerer en rekke forhold utover selve den formelle adgangen til undersøkelse av ting og avhør av personer, herunder krav til kontradiksjon og oppnevning og den nærmere bruken av sakkyndige. Slike supplerende tiltak for selve gjennomføringen er i lovforslaget regulert generelt i andre deler av utkastet, se for eksempel utkastet § 7-1 annet ledd om kontradiksjon og kapittel 11 om sakkyndige.
+
+Om det nærmere innholdet i utvalgets forslag til regulering av bevissikring vises det til særmerknadene til utkastet kapittel 12.
+
+1.  **Etterforsking og tvangstiltak**
+
+    1.  **Innledning**
+
+Utvalgets mandat sier lite om straffeprosesslovens regler om etterforsking, og de alminnelige reglene om etterforsking er ikke særskilt omtalt. På flere punkter er det likevel ønskelig med klargjøringer, blant annet hva gjelder etterforskingsbegrepet, ansvarsforhold og vilkår for etterforsking.
+
+Heller ikke slike etterforskingsmetoder som gjerne omtales som åpne eller tradisjonelle tvangsmidler, er uttrykkelig nevnt i utvalgets mandat, herunder pågripelse, fengsling, ransaking og beslag. Det er derimot de såkalte skjulte tvangsmidlene, det vil si skjult fjernsynsovervåking og teknisk sporing, kommunikasjonskontroll og annen avlytting samt hemmelig ransaking, beslag og utleveringspålegg. Om disse metodene heter det i punkt 5 i mandatet:
+
+«Lovreglene om de skjulte tvangsmidlene i straffeprosesslovens fjerde del er under revisjon. Det vises til Prop. 147 L (2012–2013) og en proposisjon som ventelig vil fremmes for Stortinget i løpet av 2014. Proposisjonene følger opp NOU 2009: 15. Departementet legger til grunn at innholdet i disse reglene, etter ikraftsetting av de siste endringene, i all hovedsak vil være tilfredsstillende. Utvalget kan likevel foreslå endringer.»
+
+Utvalget står således fritt til å foreslå endringer av enhver art for alle typer tvangsmidler, men gitt lovhistorikken, rettstilstanden og utvalgets mandat, sammensetning og tid til rådighet, er ikke alle sider av regelverket like grundig vurdert.
+
+Straffeprosesslovens regler om «tvangsmidler» har vært hyppig endret, og feltet har vært grundig utredet i flere omganger. Av viktige utredninger fra de senere år kan nevnes NOU 1997: 15 (*Metodeutvalget*), NOU 2004: 6 *(Politimetodeutvalget)* og NOU 2009: 15 *(Metodekontrollutvalget).* Sistnevnte utredning er for så vidt gjelder skjulte tvangsmidler, fulgt opp i Prop. 68 L (2015–2016) og endringslov 17. juni 2016 nr. 54.
+
+Behovet for et «samlet oversyn og en lovteknisk gjennomgang», som er fremhevet helt generelt i punkt 2 i mandatet, er likevel fortsatt utvilsomt til stede også for tvangsmiddelbestemmelsene, ikke minst i lys av de mange enkeltstående lovendringer gjennom årene.
+
+Det er mindre opplagt hvor langt utvalget bør gå i å vurdere de rettspolitiske kjernespørsmålene, det vil si hvilke metoder som skal være tilgjengelige for politiet, og hvilke inngrepsterskler som skal gjelde.
+
+Om *de åpne tvangsmidlene* er det fra ulikt hold fremholdt at det er et reformbehov for reglene om beslag, særlig med tanke på håndteringen av store databeslag der det er aktuelt med beslagsfrihet for deler av materialet. Reglene om fengsling står dessuten i en særstilling. Frihetsberøvelse i en straffesak forut for dom er et meget tyngende inngrep, og det er fremsatt kritikk mot regelverk og praksis, særlig knyttet til bruk av politiarrest og isolasjon, fra så vel nasjonalt som internasjonalt hold. Innholdet i disse reglene behandles derfor mer utførlig enn for de øvrige åpne tvangsmidlene.
+
+*De skjulte tvangsmidlene* er et resultat av relativt omfattende lovarbeid de senere år, samt av politiske kompromisser, og utvalget er ikke særlig sammensatt med tanke på endringer av metodereglene. Det ligger derfor ikke til rette for grunnleggende endringer i politiets metodetilgang. Utvalget foreslår først og fremst strukturelle endringer og forenklinger på dette feltet, men det innebærer på en rekke punkter justeringer av terskelen for ulike typer inngrep.
+
+Et «samlet oversyn» i tråd med mandatet avdekker at det et stykke på vei synes å være noe tilfeldige terskler for de ulike inngrep når de ses i sammenheng, og det gis fellesreguleringer. Utvalget har derfor forsøkt å foreta en viss harmonisering innenfor rammene av dagens inngrepsnivå. Endelig tilsier den menneskerettslige utviklingen lovfesting av enkelte observerende, kontrollerende og påvirkende tiltak som i dag benyttes av politiet på ulovfestet grunnlag.
+
+I gjeldende straffeprosesslov er «Tvangsmidler» regulert i fjerde del, mens «Etterforsking» følger som første kapittel i femte del, «Saksbehandlingens enkelte ledd». I utkastet til ny straffeprosesslov er bestemmelsene samlet i en felles del, «Etterforsking og tvangstiltak», for å fremheve tvangstiltakenes rolle som etterforskingsmidler. Valget av uttrykket «tvangs*tiltak*» drøftes i punkt 14.3.2.
+
+Første kapittel i fjerde del i lovutkastet behandler alminnelige regler om etterforskingen (kapittel 13), jf. punkt 14.2, og etterfølges av et kapittel med grunnvilkår og fellesregler for tvangstiltak (kapittel 14), jf. punkt 14.3. De enkelte tvangstiltak behandles for seg i de følgende kapitler, jf. punkt 14.4 til 14.12. Utkastet samler alle inngrepshjemler med karakter av tvangstiltak i delen om «etterforsking og tvangstiltak».
+
+1.  **Alminnelige regler om etterforsking**
+
+    1.  **Formålet med etterforskingen**
+
+Etterforsking er innhenting, sikring og analyse av informasjon med nærmere bestemte formål. Kjernen i etterforskingsbegrepet – det man kan kalle *egentlig* straffeprosessuell etterforsking – er undersøkelser som har som formål å skaffe til veie opplysninger av betydning for straffesaksbehandlingen, herunder for å avgjøre spørsmålet om tiltale, forberede domstolsbehandlingen eller sikre fullbyrding, jf. straffeprosessloven § 226 første ledd bokstav a, b, d og f. Etterforskingsbegrepet etter gjeldende rett strekker seg imidlertid utover dette, idet også undersøkelser i avvergende øyemed, om årsaksforhold ved ulykker og visse dødsfall og med sikte på visse sider ved barneverntjenestens saksbehandling, er omfattet, jf. straffeprosessloven §§ 226 første ledd bokstav c og e og 224 fjerde ledd.
+
+Utvalget har vurdert om etterforskingsbegrepet etter gjeldende rett bør videreføres. Straffeprosessens formål er i utgangspunktet å realisere straffansvar, herunder å avdekke om et straffbart forhold er begått, og hvem som i så fall er ansvarlig, samt å skaffe til veie opplysninger av betydning for reaksjonsspørsmålet. Det kan dermed sies å bryte med straffeprosessens systematiske forutsetninger dersom reglene også gis anvendelse for situasjoner der det (ennå) ikke foreligger lovbrudd. Isolert sett kan dette tale for å reservere etterforskingsbegrepet for den egentlige straffeprosessuelle etterforskingen.
+
+Flere hensyn taler imidlertid imot en slik snever tilnærming. *Rettssikkerhetshensyn* taler for at politiets undersøkende virksomhet, som har som ett av flere mulige utfall at informasjonen kan komme til å bli brukt i straffeforfølgende øyemed, bør anses som straffeprosessuell etterforsking.[^626] Dette vil sikre at straffeprosessens særlig betryggende rammer regulerer virksomheten og dermed også informasjonshåndteringen. I forlengelsen av dette gjør *institusjonelle hensyn* seg gjeldende, idet virksomhet som anses som etterforsking, vil høre under påtalemyndigheten, mens annen politivirksomhet vil høre under Politidirektoratets og Justis- og beredskapsdepartementets overordnede ansvar og myndighetsområde. I tillegg taler *praktiske hensyn* for at etterforskingsapparatet i visse tilfeller stilles til rådighet også utenfor straffesakene.
+
+Spørsmålet om å inkludere politiets *avvergende virksomhet* i etterforskingsbegrepet er nærmere behandlet i Ot.prp. nr. 60 (2004–2005).[^627] Hovedbegrunnelsen for å åpne for etterforsking i avvergende øyemed er at det er en nær kobling mellom slike undersøkelser og tradisjonell etterforsking. Helt sentralt er at opplysningene som politiet innhenter som ledd i avvergende virksomhet, ofte kan komme til å bli brukt som ledd i straffeforfølgning.[^628]
+
+Likevel er det etter gjeldende rett et vilkår for etterforsking i avvergingsøyemed at etterforsking er iverksatt etter § 224, som krever at det må være rimelig grunn til å undersøke om det «foreligger» straffbart forhold.[^629] Det er følgelig en forutsetning at man står i en ordinær etterforskingssituasjon – og i så fall er det et lovlig *tilleggsformål* å innhente opplysninger for å hindre (ytterligere) straffbare handlinger. Samtidig er det ikke noe formelt krav til sammenheng mellom forholdet som gir grunnlag for å iverksette etterforskingen, og forholdet som søkes avverget.[^630]
+
+Etter utvalgets syn står dagens modell i et noe uavklart forhold til de hensyn som gjør seg gjeldende. Det bør være underordnet om noe straffbart forhold allerede har funnet sted eller ikke. Det sentrale er som nevnt at opplysningene som innhentes, med stor sannsynlighet kan komme til å bli brukt som ledd i straffeforfølgning. Virksomheten bør av denne grunn betraktes som *foregrepet etterforsking,* som av prinsipielle og institusjonelle grunner bør høre under påtalemyndigheten. Dette taler for å løsrive adgangen til etterforsking i avvergende øyemed fra dagens krav om at det også må være rimelig grunn til å undersøke om det «foreligger» straffbart forhold.
+
+Dersom det på forhånd både er klart at det ennå ikke *er* begått noen straffbar handling, og at det avvergende siktemål vil oppnås – slik at det heller ikke *vil bli* begått noe straffbart – slår begrunnelsen riktignok ikke til fullt ut. Ettersom forutsetningen er at man har å gjøre med avverging og dermed i tid står relativt nær en konkret straffbar overtredelse, vil imidlertid dette i praksis sjelden eller aldri være en aktuell situasjon. Og i alle tilfeller taler institusjonelle grunner – her særlig at påtalemyndigheten bør ha ansvaret for bruk av tvangsinngrep i avvergende øyemed – for å anse virksomheten for etterforsking også i et slikt tilfelle. Avvergingsbegrepet og dets grenser er nærmere omtalt i merknadene til utkastet § 13-1 annet ledd bokstav a.
+
+Reglene om *ulykkesetterforsking mv*. ligger i utgangspunktet på en helt annen kant enn tradisjonell straffeprosessuell etterforsking, jf. straffeprosessloven § 224 fjerde ledd, som bestemmer at etterforsking av brann og andre ulykker, og der barn dør plutselig og uventet, kan foretas «selv om det ikke er grunn til mistanke om straffbart forhold». Også ved slike undersøkelser må det imidlertid ofte tas i betraktning at et straffbart forhold kan ligge bak, og virksomheten er således ikke uten kobling til alminnelig straffeprosessuell etterforsking. Adgangen til å benytte etterforskingsapparatet er dessuten – i fravær av andre ordninger – av stor praktisk betydning og innebærer etter utvalgets syn en hensiktsmessig løsning for ivaretakelse av samfunnets behov for å klarlegge årsaksforhold og hendelsesforløp ved visse uønskede hendelser.
+
+Utvalget ser på denne bakgrunn ingen avgjørende grunner for å skille reglene om ulykkesetterforsking og dødsfallsundersøkelser ut fra straffeprosessloven. Tvert om mener utvalget det kan være grunn til å åpne for formell etterforsking også av *forsvinningssaker*. Etter gjeldende rett er behandlingen av savnetmeldinger, herunder undersøkelser, ettersøking, leteaksjoner mv., i utgangspunktet rent polisiær virksomhet som hører under Politidirektoratets overordnede ansvar. Også innhenting av forklaringer som ledd i ettersøkingen og sikring av spor faller – i alle fall i en innledende fase – utenfor etterforskingsbegrepet. Men dersom et av formålene er å avklare om det foreligger et straffbart forhold, skal etterforsking iverksettes på vanlig måte, jf. straffeprosessloven § 224 første ledd.[^631] Som riksadvokaten påpeker i rundskriv 5/2004, kan gode grunner tale for at straffeprosesslovens regler følges også i ettersøkingssaker:
+
+«Det er \[…\] intet til hinder for at reglene i straffeprosessloven og påtaleinstruksen følges utenfor det lovbestemte anvendelsesområdet, forutsatt at det ikke er aktuelt å pålegge tredjemann plikter eller foreta inngrep som krever hjemmel i lov. Riksadvokaten anbefaler at reglene om bevisinnhenting og bevissikring i nevnte regler følges så langt det er praktisk også i ettersøkingssaker. Dette vil bl.a. bidra til at det strenge notoritetskravet som gjelder for straffesaksbehandlingen preger ettersøkingsmaterialet, og at informasjonen innhentes og sikres på en slik måte at den kan brukes under senere formell etterforsking dersom saken skulle utvikle seg slik at dette er påkrevd.»[^632]
+
+Sammenhengen med straffeprosesslovens regler viser seg også ved bestemmelsene om at ansatte i finansinstitusjoner mv. har forklarings- og utleveringsplikt «uten hensyn til om det er åpnet etterforsking i straffesak», når «sterke allmenne hensyn» tilsier at opplysninger gis, jf. §§ 230 annet ledd siste punktum og 210 tredje ledd siste punktum. Bestemmelsene tar særlig sikte på forsvinningssaker, hvor det kan være grunn til å frykte at noe har tilstøtt den savnede.[^633] Utvalget foreslår tilsvarende regler, jf. utkastet §§ 9-2 annet ledd bokstav c og 19-7 fjerde ledd.
+
+Slik utvalget ser det, er det ikke grunn til å endre på utgangspunktet om at politiet kan foreta innledende undersøkelser i savnetsaker uten at det iverksettes formell etterforsking. Samtidig tilsier sammenhengen i regelverket og koblingen til alminnelig straffeprosessuell etterforsking at innhenting av opplysninger for å avklare årsaksforhold og hendelsesforløp i forsvinningssaker bør være et lovlig etterforskingsformål på linje med ulykkes- og dødsfallsundersøkelsene. På denne bakgrunn foreslås det at behandlingen av forsvinningssaker skal kunne bringes over i et straffeprosessuelt spor, underlagt påtalemyndighetens ansvar, når det er rimelig grunn til det, uten hensyn til om det er holdepunkter for at det foreligger straffbart forhold, jf. merknadene til utkastet §§ 13-1 annet ledd bokstav c og 13-2.
+
+I praksis oppstår det fra tid til annen spørsmål om *forholdet mellom etterforsking og undersøkende virksomhet som utføres av andre enn politiet og påtalemyndigheten*, for eksempel undersøkelser som foretas av offentlige kontroll- og undersøkelsesorganer, herunder granskingskommisjoner og -utvalg, ved privat gransking mv. Det forhold at en hendelse, for eksempel en ulykke, blir gjenstand for undersøkelse på annet hold, er ikke til hinder for parallell straffeprosessuell etterforsking.[^634] Feltet reiser imidlertid flere problemstillinger. Særlig vil reglene om taushetsplikt kunne begrense adgangen til informasjonsutveksling med politiet og påtalemyndigheten. For forklaringer som mistenkte pliktmessig har avgitt til kontroll- og undersøkelsesorganer, kan det oppstå spørsmål om forholdet til selvinkrimineringsvernet, jf. blant annet Rt. 1994 s. 610 (Bølgepapp) og Rt. 2007 s. 932.[^635] Samarbeid mellom påtalalemyndigheten og ulike offentlige kontrolletater kan dessuten reise enkelte spørsmål om uavhengighet og habilitet, men utgangspunktet er – og bør etter utvalgets syn være – at ansettelsesforhold i et kontrollorgan, og eventuell befatning der med det saksforhold som ligger til grunn for straffesaken, ikke i seg selv utelukker deltakelse i etterforskingsteam eller opptreden som sakkyndig vitne eller bisitter for påtalemyndigheten under iretteføring, jf. Rt. 2015 s. 1204 med videre henvisninger. Kontrolletatene er profesjonelle myndighetsorganer som skal kontrollere etterlevelse av lovgivningen på et område og har ikke status som «fornærmet» i prosessuell forstand. I praksis er samarbeid – herunder at ansatte i kontrolletatene bidrar med sin særlige ekspertise – nødvendig og ønskelig, og det må også som utgangspunkt anses forsvarlig såfremt alminnelige krav til saklighet og objektivitet overholdes. Utvalget tar imidlertid ikke sikte på å vurdere nærmere ulike sider av dette problemfeltet, som kunne være egnet for selvstendig utredning.
+
+1.  **Ansvaret for og styringen av etterforskingen**
+
+Ansvaret for etterforskingen er etter straffeprosessloven § 225 første ledd første punktum lagt til «politiet». Loven etterlater etter sin ordlyd en uklarhet med hensyn til om ansvaret alene hører under påtalemyndigheten i politiet eller også under tjenestepersoner i politiet som ikke tilhører påtalemyndigheten. Bestemmelsens utforming har sammenheng med den profesjonskamp som fant sted mellom påtalemyndigheten og tjenestepersoner i politiet som ikke tilhører påtalemyndigheten i forbindelse med vedtakelsen av gjeldende lov. Andenæs og Myhrer uttaler om dette:
+
+«Det var under forberedelsen av strpl. 1981 en del diskusjon om utformingen av paragrafen om ledelsen av etterforskingen. I komitéutkastet hadde bestemmelsen denne formulering: ‘Etterforsking besluttes og ledes av påtalemyndigheten. Uten ordre av påtalemyndigheten kan politimann foreta skritt som ikke uten skade kan utsettes.’ Norsk politiforbund, som representerer de polititjenestemenn som ikke hører til påtalemyndigheten, var misfornøyd med denne formulering \[…\]. Det ble fremholdt at ved de fleste politikamre blir mottatte anmeldelser registrert av kontorpersonalet og tildelt etterforskere uten at det treffes noen beslutning av påtalemyndigheten. Enda mindre er det noen ledelse av tjenestemannens etterforsking ved påtalemyndigheten. Politietterforskeren arbeider på egen hånd, og informerer etter behov tjenestemann med påtalemyndighet. Organisasjonen foreslo en formulering som skulle gi uttrykk for denne arbeidsfordeling. Proposisjonen fastholdt Straffeprosesslovkomitéens formulering, og bemerket at utkastet ga uttrykk for det som etter påtaleinstruksen var gjeldende ordning. Norsk Politiforbund forfulgte saken ved en henvendelse til Justiskomitéen \[…\]. Politiembedsmennenes Landsforening forsvarte proposisjonen. Justiskomitéen fremholdt at det ikke var grunn til å gjøre noen endring i den gjeldende kompetansefordeling mellom påtalemyndigheten og polititjenestemennene i forbindelse med den foreliggende lovsak. Skulle det foretas slike endringer måtte det utredes på bredt grunnlag. For å gjøre det klart at det ikke var meningen å foreta noen endring, valgte komitéen en formulering som svarer til den som var brukt i påtaleinstruksen, ved å bytte ut ordet ‘påtalemyndigheten’ i § 225, 1. ledd med ‘politiet’.»[^636]
+
+Til tross for uklar ordlyd er det ikke tvilsomt at det etter gjeldende rett er *påtalemyndigheten* i politiet som har det formelle og overordnede ansvar for etterforskingen i straffesaker, jf. også påtaleinstruksen § 7-5. Både avgjørelsen av om etterforsking skal settes i verk, og hvordan den skal gjennomføres – herunder om den skal utvides eller begrenses – samt om den skal stanses, tilligger i prinsippet påtalemyndigheten i politiet.[^637] Myndigheten til å iverksette etterforsking kan delegeres – uttrykkelig eller stilltiende – til tjenestepersoner i politiet som ikke tilhører påtalemyndigheten. Uten delegasjon har tjenestemenn som ikke hører til påtalemyndigheten, bare selvstendig myndighet til å foreta etterforskingsskritt som ikke uten skade kan utsettes, jf. § 225 første ledd annet punktum.[^638]
+
+Utvalget finner det klart at påtalemyndighetens ansvar for etterforskingen bør videreføres. Ansvaret virker i forlengelsen av påtalemyndighetens generelle og overordnede ansvar for å forfølge straffbare handlinger og for å føre kontroll med politiets straffesaksbehandling. Det er også påtalemyndigheten som er nærmest til å vurdere hvilke etterforskingsskritt det er behov for i den enkelte sak, før påtalevedtak kan treffes. Ordningen med integrert påtalemyndighet i politiet, som er nærmere omtalt i punkt 8.2.3.1, har som sin største styrke at straffesaksbehandlingen allerede fra anmeldelse kan skje i et politi- og påtalefaglig samarbeid. For å unngå uheldig sammenblanding av roller og sikre nødvendig objektivitet og uavhengighet er det imidlertid etter utvalgets vurdering en forutsetning at ordningen bygger på klare ansvarslinjer. På denne bakgrunn mener utvalget det bør følge uttrykkelig av loven at det er påtalemyndigheten som har ansvaret for alle sider ved etterforskingen.
+
+Samtidig bør myndigheten til å iverksette etterforsking kunne delegeres til tjenestepersoner i politiet som ikke tilhører påtalemyndigheten, slik det er adgang til etter gjeldende rett. Delegasjonsadgangen er av stor praktisk betydning og har vist seg å fungere tilfredsstillende. Delegasjon bør kunne skje uttrykkelig eller stilltiende. For eksempel bør det være tilstrekkelig at myndigheten følger av etablerte rutiner i politidistriktet.
+
+Som etter gjeldende lov bør hovedregelen være at etterforskingen gjennomføres av polititjenestepersoner som ikke hører til påtalemyndigheten. Tjenestepersoner i politiet med politifaglig bakgrunn eller annen spesialkompetanse vil regelmessig ha de beste forutsetninger for å treffe beslutninger om den taktiske og tekniske gjennomføringen av etterforskingen. Deler av etterforskingen kan også overlates til aktører utenfor politiet, for eksempel utenrikstjenesten eller andre offentlig myndigheter, sakkyndige, utenlandske myndigheter etter rettsanmodning mv. Også etterforskerne i Spesialenheten for politisaker representerer et unntak fra hovedregelen. Uansett hvem som utfører etterforskingen, er det imidlertid en klar forutsetning at gjennomføringen skjer på vegne av påtalemyndigheten og under dennes ledelse og ansvar.
+
+Riksadvokaten har flere ganger påpekt at straffesaksbehandlingen både blir best og mest effektiv når påtalemyndigheten og etterforskerne samarbeider godt helt fra anmeldelsestidspunktet.[^639] Utvalget slutter seg til dette synet. At samarbeid bør finne sted, fritar imidlertid ikke påtalemyndigheten fra dens overordnede styringsansvar. Behovet for aktiv påtalestyring vil variere med ulike sakstyper, men det er i alle tilfeller påtalemyndigheten som skal sikre at etterforskingen blir formålsrettet, og at grunnleggende krav til gjennomføringen ivaretas. Påtalemyndigheten må således blant annet sørge for forsvarlig fremdrift i etterforskingen, slik at påtalevedtak kan treffes innen rimelig tid, se punkt 14.2.4.2 om tidsbruk og fremdrift i etterforskingen og punkt 16.2 om frist for påtalevedtak. Utvalget mener påtalemyndighetens ansvar for å styre etterforskingen bør komme klart til uttrykk i loven, på linje med kravet til aktiv dommerstyring.
+
+Hvor formalisert påtalestyringen av etterforskingen skal være, må bero på behovet i den enkelte sak. Etter omstendighetene bør det i samråd med etterforsker utarbeides en skriftlig etterforskingsplan, som angir de etterforskingsskritt som skal gjennomføres, eventuelt med nærmere bestemmelser om gjennomføringen, samt frister mv. Nærmere retningslinjer om etterforskingsledelse, bruk av etterforskingsplaner mv. bør gis av riksadvokaten.[^640]
+
+For øvrig bygger utkastet på at retten ikke skal ha noe ansvar for etterforskingen. Retten skal kun behandle saker etter begjæring, se utkastet § 5-1 om forholdet mellom domstolene og straffesakens øvrige aktører og § 32-3 om rettens forhold til partenes krav og påstander mv. Retten har riktignok et selvstendig utredningsansvar etter reglene om rettens kontroll med partenes bevistilbud, men dette gjelder bare så langt hensynet til opplysning av det saksforhold retten har til behandling, tilsier det, se punkt 13.2.5 og utkastet § 7-4. Straffeprosessloven § 247 om rettens adgang til å overta ledelsen av etterforskingen etter anmodning fra påtalemyndigheten foreslås ikke videreført. Bestemmelsen, som er begrunnet i behovet for uavhengig etterforsking i saker mot påtalemyndighetens tjenestemenn, har mistet sin betydning etter opprettelsen av Spesialenheten for politisaker (tidligere SEFO)[^641] og bryter dessuten med de hensyn som ligger til grunn for anklageprinsippet, se punkt 17.6.3.2.
+
+Det vises til utkastet § 13-4 om ansvaret for og styringen av etterforskingen.
+
+1.  **Vilkår for etterforsking**
+
+Straffeprosessloven § 224 første ledd og kriteriet «rimelig grunn til å undersøke» er antatt å regulere både når det er *forbudt* å etterforske, når det er en *adgang* til å gjøre det, og når det foreligger en etterforskings*plikt*.[^642] Bestemmelsen er videre utlagt slik at spørsmålet om hvorvidt det foreligger rimelig grunn til etterforsking, i tvilstilfeller må avgjøres ut fra en samlet vurdering der det særlig skal legges vekt på *sannsynligheten* for at det foreligger et straffbart forhold, om forholdet er så alvorlig at nødvendig etterforsking er *forholdsmessig*, og at etterforskingen i det hele skal være *saklig* begrunnet.[^643] Det er også antatt at § 224 første ledd fastsetter en ramme for hvor lenge etterforskingen kan pågå; etterforskingen kan ikke fortsette når det ikke lenger er «rimelig grunn» til det.[^644]
+
+Et særlig spørsmål som har vært gjenstand for noe diskusjon, er om det etter straffeprosessloven § 224 første ledd kan utledes et vilkår om at det må foreligge «mistanke» om straffbart forhold.[^645] Diskusjonen har i noen grad vært preget av en manglende klargjøring av hva som menes med «mistanke». Det må uten videre være klart at det ikke kan kreves mistanke rettet mot noen person, og at det heller ikke gjelder noe krav om kvalifisert mistanke. Overalt hvor spørsmålet har vært grundig vurdert, er det imidlertid antatt at det kreves *en viss sannsynlighet for* at det foreligger et straffbart forhold, jf. blant andre Myhrer, som uttaler om dette:
+
+«Men også ut over disse lovregulerte tilfeller, fastsetter riksadvokatens direktiv at det kreves en viss sannsynlighetsprosent for at straffbart forhold foreligger, før det er adgang til å iverksette etterforsking. Sannsynligheten er imidlertid ikke kvantifisert, idet den må variere med bl.a. forholdets alvorlighet og behovet for undersøkelser. Kravet til sannsynlighet er derfor vanskelig å vurdere isolert, idet en nesten alltid vil gli over i forholdsmessighetsvurderingen.»[^646]
+
+Som det fremkommer, er sannsynlighetsdimensjonen en helt sentral komponent i forholdsmessighetsvurderingen. Hvorvidt en under denne forutsetning vil omtale sannsynlighetskravet som et krav om «mistanke», blir mest et spørsmål om hensiktsmessig språkbruk. Men som påpekt av mindretallet i NOU 2004: 6 kan et mistankekrav gi «gale assosiasjoner», i alle fall dersom det blir oppfattet som et krav om relativt klare holdepunkter for at det er begått en straffbar handling.[^647] Poenget er snarere at sannsynlighetskravet er relativt, og at sannsynligheten for at straffbart forhold er begått, må vurderes sammen med andre momenter som gjør seg gjeldende, herunder særlig forholdets alvorlighet.
+
+Utvalget går inn for å videreføre kriteriet «rimelig grunn» til undersøkelser som uttrykk for den generelle og overordnede norm for når etterforsking kan og skal skje. Det bør som etter gjeldende rett ved ordinær etterforsking være en forutsetning at det foreligger en viss sannsynlighet for at det er begått et straffbart forhold, men noe mistankekrav utover dette bør ikke kreves. For å klargjøre at det er tale om en skjønnsmessig vurdering innenfor visse rammer, foreslås det etter utkastet en angivelse av enkelte sentrale momenter som særlig skal tas i betraktning. Momentene tar også sikte på å synliggjøre at kriteriet «rimelig grunn» gir rom for opportunitetsvurderinger, se punkt 8.3.3.
+
+Ressurs- og kapasitetshensyn bør kunne tillegges vekt, og bestemmelsen åpner for at påtalemyndigheten gjør prioriteringer med hensyn til bruk av etterforskingsressurser. Adgangen til å vektlegge ressurshensyn må ses i sammenheng med utkastet § 28-2 annet ledd bokstav b, som i en viss utstrekning åpner for henleggelse av kapasitetsgrunner, se punkt 16.5.
+
+Etter gjeldende rett har tjenestepersoner i politiet som ikke tilhører påtalemyndigheten, en viss adgang til å løse bagatellsaker ved en advarsel på stedet uten anmeldelse (OPS – «oppgjort på stedet»), se punkt 5.3.1 om straffeforfølgningsplikten og opportunitetsprinsippet. Utvalget foreslår i så henseende ingen endringer. Etter utvalgets syn er det tilstrekkelig at denne adgangen følger av en fortolkning av tjenestepersonenes rapporterings- og anmeldelsesplikt og at det således ikke er behov for lovregulering.[^648]
+
+For øvrig vises det til utkastet § 13-2 og merknadene til bestemmelsen.
+
+1.  **Grunnleggende krav til etterforskingen**
+
+    1.  *Oversikt*
+
+Straffeprosessloven oppstiller flere grunnleggende krav til etterforskingen. *Objektivitetskravet* følger særlig av straffeprosessloven § 226 tredje ledd, som bestemmer at når en bestemt person er mistenkt, «skal etterforskingen søke å klarlegge både det som taler mot ham og det som taler til fordel for ham». Etterforskingen skal være *hurtig og hensynsfull,* jf. fjerde ledd i samme bestemmelse. Dessuten forutsetter loven at etterforskingen skal dokumenteres, slik at det sikres *notoritet* for de undersøkelser som gjennomføres.
+
+Kravene til objektivitet, hurtighet og hensynsfullhet må selvsagt videreføres i ny lov, og foreslås regulert samlet i utkastet § 13-5 om grunnleggende krav til etterforskingen.
+
+I det følgende drøfter utvalget enkelte særlige spørsmål knyttet til tidsbruk og fremdrift i etterforskingen, herunder hvilke implikasjoner ønsket om redusert saksbehandlingstid bør ha for utformingen av ny straffeprosesslov, jf. punkt 14.2.4.2. Videre drøfter utvalget i punkt 14.2.4.3 hvorvidt kravet til notoritet omkring etterforskingen bør lovfestes.
+
+1.  *Tidsbruk og fremdrift i etterforskingen*
+
+Straffeprosessloven § 226 fjerde ledd lyder: «Etterforskingen skal gjennomføres så raskt som mulig og slik at ingen unødig utsettes for mistanke eller ulempe.» Den mistenktes rett til behandling av saken innen rimelig tid følger av Grunnloven § 95 første ledd og Den europeiske menneskerettskonvensjon (EMK) artikkel 6 nr. 1.
+
+I punkt 16.2 om frist for påtalevedtak redegjør utvalget nærmere for gjennomsnittlig tidsbruk fra iverksettelse av etterforsking til påtalevedtak treffes. Som påpekt i nevnte punkt har saksbehandlingstiden i politiet og påtalemyndigheten utviklet seg i en positiv retning de senere år, men det er fremdeles et gjentakende problem at etterforskingen i mange saker trekker ut i tid. I et stort antall saker tar etterforskingen vesentlig lengre tid enn det gjennomsnittstallene viser. Blant annet var det ved utgangen av 2015 totalt 7911 ikke påtaleavgjorte saker eldre enn tolv måneder.[^649]
+
+Etterforsking av de fleste typer saker innebærer en rekke ulike oppgaver som løses av forskjellige personer i og utenfor politiet. Det dreier seg typisk om straksetterforsking, bevissikring, politiavhør av mistenkte og vitner, innhenting av informasjon fra ulike kilder samt analyse og vurdering.
+
+Utvalget er ikke kjent med tidsstudier av etterforskingsprosesser som måler aktiviteter, liggetid mv. for ulike sakstyper. Det er likevel all grunn til å anta at tidsbruken knyttet til de arbeidsoperasjoner som gjennomføres, ikke på langt nær svarer til den samlede behandlingstiden. For eksempel tok det i 2015 i gjennomsnitt 108 dager å etterforske saker om skadeverk,[^650] samtidig som medgått tid til aktiv etterforsking og påtalebehandling antakelig var langt kortere. Tilsvarende gjelder formentlig for de fleste sakstyper. En vesentlig del av saksbehandlingstiden er dermed «liggetid».
+
+Dersom en skal ha ambisjoner om å redusere den samlede saksbehandlingstiden, er det viktig å vurdere tiltak som kan virke positivt inn på behandlingstiden hos politiet. Enkelte tiltak av administrativ og styringsmessig art er allerede iverksatt. Internt i påtalemyndigheten oppstilles *kort saksbehandlingstid som resultatmål* (på linje med høy oppklaring og adekvat reaksjon).[^651] På enkelte områder er det oppstilt konkrete nasjonale mål for gjennomsnittlig saksbehandlingstid. Dette gjelder for nærmere angitte voldssaker (90 dager), voldtektssaker (130 dager) og i saker med lovbrytere under 18 år (6 uker). I tillegg har riksadvokaten fastsatt følgende:

@@ -1,1033 +1,218 @@
-# NOU 2016: 24, del 10 av 73 (side 115–128)
+# NOU 2016: 24, del 10 av 69
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/1182afc0-nou-2016-24.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-24/id2517932/
 - Original-PDF: https://www.regjeringen.no/contentassets/6fe1d875248042b4a09b43b85aa46832/no/pdfs/nou201620160024000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 9 tabeller, 1 figur, 52 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 115]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-Generaladvokatembetet, slik at påtalemyndigheten alene vil ha myndighet til å gi ordre og pålegg
-om etterforskingen.
-Etter utvalgets forslag skal retten som hovedregel ikke settes med militære meddommere i
-militære straffesaker. Behov for ekspertise skal
-vurderes etter lovens generelle regel om oppnevning av fagkyndige meddommere. Videre legges
-det opp til at behandlingen av militære straffesaker skal sentraliseres til utvalgte domstoler. Nærmere regler forutsettes fastsatt i forskrift.
-3.3.12 Private straffesaker
-I kapittel 24 foreslår utvalget å avvikle ordningen
-med private straffesaker. Forslaget er i hovedsak
-begrunnet med at straffeforfølgning bør være en
-offentlig oppgave. Straffeforfølgning innebærer et
-betydelig ansvar som alene bør tilligge en uavhengig og objektiv påtalemyndighet. Det offentliges
-sanksjonsapparat bør ikke stilles til privates disposisjon. Standpunktet må ses i sammenheng med
-det som er sagt om hvorvidt fornærmede bør gis
-partsstatus, jf. punkt 10.3.1.
-Det konkrete behovet for privat straffeforfølgning fremstår som lite, og det er i vår tid få slike
-saker for norske domstoler. Det praktiske anvendelsesområdet for privat forfølgning har særlig
-vært saker om ærekrenkelser. Ved ikraftsettingen
-av straffeloven ble straffansvaret for ærekrenkelser opphevet, og det er således grunn til å anta at
-antallet private straffesaker vil synke ytterligere.
-Fornærmedes rettmessige interesse i å få
-fremsatt sitt syn på påtalespørsmålet er etter utvalgets syn tilstrekkelig ivaretatt ved adgangen til å
-klage over påtalevedtak. Dertil kommer at påtalemyndighetens saksbehandling kan klages inn for
-Sivilombudsmannen. For så vidt gjelder et mulig
-erstatningskrav, er fornærmedes interesse ivaretatt gjennom adgangen til å reise sivil sak etter
-tvisteloven. Utvalgets forslag legger dessuten opp
-til at overordnet påtalemyndighet i større grad
-enn i dag skal føre et særlig tilsyn med underordnet påtalemyndighet. Dette må antas å styrke
-påtaleavgjørelsers kvalitet i tillegg til å legge til
-rette for at det kan rettes opp i konkrete feilvurderinger. Kritikk av påtalemyndighetens generelle
-prioriteringer bør skje gjennom de ordinære politiske kanaler.
-3.3.13 Pengekrav mv. (lovutkastet del 11)
-Kapittel 25 inneholder utvalgets drøftelser av
-adgangen til å behandle sivile krav i straffesak
-(lovutkastet kapittel 43). Utvalget mener at det
-
-113
-
-Kapittel 3
-
-som i dag bør være en vid adgang til å behandle
-ulike krav sammen med straffekrav. Fellesbehandling gir betydelige ressursbesparelser og
-sparer fornærmede med erstatningskrav for
-belastningen med ytterligere prosess. Det foreslås
-en viss utvidelse av ordningen, blant annet ved at
-administrative sanksjoner skal kunne pådømmes i
-forbindelse med straffesak.
-Dagens regler for behandling av sivile krav i
-straffeprosessuelle former finnes i ulike kapitler i
-straffeprosessloven og er utformet nokså komplisert. Utvalget har sett det som viktig å gjøre
-reglene lettere tilgjengelig og har valgt å samle
-bestemmelsene om sivile krav i ett kapittel.
-I utkastet er saksbehandlingsreglene mer
-detaljerte enn i dagens straffeprosesslov.
-Utgangspunktet skal, som i dag, være at reglene
-for behandlingen av straffekravet også får anvendelse for behandlingen av det sivile kravet så langt
-de passer. Nytt er at det fremgår uttrykkelig at
-behandlingen skal skje innenfor grunnleggende
-rammer etter mønster av tvisteloven.
-Det skal etter utvalgets forslag i større grad
-enn i dag legges forpliktelser på kravshaver når
-sivile krav fremmes til behandling i straffeprosessuelle former. Blant annet skal det fastsettes en
-frist for å fremme begjæring om behandling av
-sivile krav. Etter utkastet er utgangspunktet at
-krav som er forkynt for motparten eller satt frem i
-rettsmøte, er å regne som oppgitt dersom det
-trekkes tilbake fra behandling før rettens avgjørelse er truffet. Slike skjerpede krav til behandlingen av sivile krav må forstås i lys av at fornærmede og etterlatte i stor utstrekning vil ha bistand
-ved behandlingen av kravet. Påtalemyndigheten
-er dessuten i utkastet gitt en plikt til å informere
-skadelidte om adgangen til å få behandlet sivile
-krav under straffeforfølgning. Samlet vil disse formelle rammene formentlig bidra til en mer forutberegnelig – og dermed mer effektiv – behandling
-av sivile krav i straffesaker.
-En vesentlig forskjell fra gjeldende rett er at
-utkastet gjeninnfører ensrettingsprinsippet. Prinsippet, som lå til grunn for den tidligere straffeprosessloven, går ut på at dersom noen frifinnes
-for et straffekrav, skal det ikke i samme sak være
-adgang til å pådømme sivile krav som springer ut
-av samme forhold. Utvalgets anbefaling på dette
-punkt har sin bakgrunn i at det gjelder ulike beviskrav og ulike krav til stemmeforhold for straffekrav og sivile krav, noe som ved fellesbehandling
-innebærer at tiltalte kan frifinnes for straffekravet
-og samtidig holdes sivilrettslig til ansvar for det
-samme saksforhold. Utvalget mener et slikt sprikende resultat i samme sak er problematisk, fordi
-
-[Side 116]
-
-114
-
-Kapittel 3
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-det svekker frifinnelsen for straffekravet. Dessuten byr det på betydelige utfordringer å behandle
-sivile krav etter en frifinnelse for straffekravet,
-særlig fordi det følger av Den europeiske menneskerettskonvensjon artikkel 6 nr. 2 at retten i en
-slik situasjon ikke kan uttrykke seg på en måte
-som sår tvil om skadevolders strafferettslige
-uskyld. Med et ensrettingsprinsipp unngår man
-disse uheldige virkningene.
-For å sikre den skadelidte mot å lide tap som
-følge av at det sivile kravet ikke lenger skal
-behandles i saken ved frifinnelse for straffekravet,
-mener utvalget det bør innføres en ordning hvor
-det offentlige i visse sakstyper dekker fornærmedes krav. Det foreslås at ordningen skal gjelde i
-saker der tiltalen gjelder forhold som innebærer
-en krenkelse eller forsøk på krenkelse av «livet,
-helsen eller friheten». Påtalemyndigheten bør
-avgjøre om ansvarsgrunnlaget omfattes av tiltalen,
-og voldsoffererstatningsmyndigheten bør fastsette utmålingsnivået. Kravet bør videre dekkes
-uten at det tas stilling til om den som er frifunnet,
-har utvist skyld. I tillegg til å styrke uskyldspresumsjonen vil en slik ordning normalisere skadelidtes erstatningsrettsrettslige vern, ettersom
-utbetaling ikke begrenses av det strengere beviskravet som ellers gjelder for behandling av sivile
-krav som springer ut av straffbare forhold. Ved frifinnelse vil krav som faller utenfor erstatningsordningen (garantiordningen), kunne fremmes i særskilt sak etter tvistelovens regler.
-I kapittel 26 drøfter utvalget spørsmålet om
-dekning av sakskostnader (lovutkastet kapittel
-44). Utvalget tar som utgangspunkt at staten bør
-stå for utgiftene til straffesaksbehandling. Mistenktes begrensede muligheter til å disponere
-over saken, så vel som sosiale og rettssystematiske hensyn, trekker i samme retning. På denne
-bakgrunn mener utvalget at adgangen etter gjeldende rett til å pålegge mistenkte ansvaret for
-sakskostnader er videre enn ønskelig. Etter utkastet skal mistenkte kun ilegges ansvar for utgifter
-ved straffesaksbehandlingen som skyldes vedkommendes vidløftiggjøring av saken.
-Kapittel 27 inneholder utvalgets drøftelser av
-reglene om rett til erstatning etter straffeforfølgning (lovutkastet kapittel 45). Gjeldende regulering videreføres i sine hovedtrekk, men det er
-foretatt justeringer på enkelte punkter. Utvalget
-mener bestemmelsen i straffeprosessloven § 446
-om bortfall eller nedsettelse av erstatning ved
-medvirkning er vanskelig å begrunne, og anbefaler at den bringes mer i tråd med prinsippet i
-skadeserstatningsloven § 5-1. Videre foreslår utvalget en regel som ut fra erstatningsordningens
-
-begrunnelse begrenser retten til erstatning for
-visse juridiske personer.
-3.3.14 Økonomiske og administrative
-konsekvenser
-I kapittel 28 behandles økonomiske og administrative konsekvenser av utvalgets forslag.
-
-3.4
-
-Merknader til utvalgets lovforslag
-(utredningen del IV)
-
-I kapittel 29 gis en oversikt over oppbygningen av
-forslaget til ny straffeprosesslov og forholdet til
-annet regelverk. I punkt 29.1 begrunner utvalget
-forslaget om at den nye lovens tittel skal være «lov
-om behandling av straffesaker (straffeprosessloven)». Videre redegjøres det for lovens oppbygning i deler og kapitler. I punkt 29.2 behandles forholdet til blant annet tvisteloven, domstolloven,
-straffeloven, straffegjennomføringsloven, politiregisterloven og påtaleinstruksen. Utvalgets forslag
-vil kreve omfattende konsekvensendringer i annet
-regelverk, og det er grunn til å vurdere nærmere
-om blant annet tvisteloven bør harmoniseres med
-de reguleringer som vedtas. Dette arbeidet må
-gjøres på et senere stadium av lovarbeidet. Påtaleinstruksen må dessuten revideres, og utvalget
-gir enkelte overordnede anbefalinger for en slik
-revisjon.
-Kapittel 30 inneholder merknader til de
-enkelte deler, kapitler og bestemmelser i utkastet
-til ny straffeprosesslov, med forklaring av innholdet i de foreslåtte endringer. Forholdet til gjeldende rett er i merknadene stort sett begrenset til
-en henvisning til sentrale bestemmelser som videreføres, og til drøftelser i de alminnelige motiver.
-Et lovspeil er tatt inn som vedlegg 1.
-Kapittel 31 inneholder utvalgets merknader til
-forslag til endringer i Grunnloven og andre lover.
-Utvalget foreslår å endre Grunnloven 96, slik
-at den skal stille krav til «uavhengig anklage», se
-drøftelsen i punkt 8.5. Forslaget må ses i sammenheng med utvalgets forslag om å styrke påtalemyndighetens uavhengighet fra politiske myndigheter i utkastet til ny straffeprosesslov, se punkt
-3.3.2 og 8.2.1, samt forslaget om å oppheve ordningen med private straffesaker, se punkt 3.3.12
-og kapittel 24.
-Domstolloven foreslås endret for å gi regler
-om informasjonssikkerhet, se punkt 6.4.2.3, kommunikasjon med domstolene, se punkt 6.4.3.2,
-elektronisk forkynning, se punkt 6.4.4.2, fjernavhør og fjernmøte, se punkt 6.4.5.3, opptak under
-
-[Side 117]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-rettsmøte, se punkt 6.5.3.3, og rettsmøter og rettsbøker, se punkt 29.2.3.
-Utvalgets forslag til regler om internasjonalt
-samarbeid i lovutkastet del 4 foranlediger
-endringer i utleveringsloven, domstolloven, straffeloven, lov 15. juni 2001 nr. 65 om gjennomføring
-i norsk rett av Den internasjonale straffedomstols
-vedtekter 17. juli 1998 (Roma-vedtektene) og lov
-24. juni 1994 nr. 38 om gjennomføring i norsk rett
-av De forente nasjoners sikkerhetsråds vedtak om
-å opprette internasjonale domstoler for forbrytelser i det tidligere Jugoslavia og Rwanda. Som
-følge av reguleringen i utkastet del 4 foreslås det
-dessuten å oppheve lov 25. mars 1977 nr. 22 om
-
-115
-
-Kapittel 3
-
-overføring av straffeforfølging fra eller til annet
-europeisk land og lov 13. juni 1997 nr. 47 om gjennomføring av europarådsavtale 31. januar 1995 om
-ulovlig håndtering av og handel med narkotika og
-psykotrope stoffer til sjøs. Se nærmere punkt 15.3.
-Kriminalomsorgens myndighet til å treffe
-beslutninger og fremme begjæringer og møte for
-domstolene i visse tilfeller foreslås overført til
-straffegjennomføringsloven, se punkt 8.2.5.2.
-Barneverntjenestens plikt til å underrette påtalemyndigheten om vedtak i barnevernssaker foreslås regulert i barnevernloven, se merknadene til
-utkastet § 28-2 tredje ledd og til forslaget til endring av barnevernloven § 3-5.
-
-[Side 118]
-
-[Side 119]
-
-Del II
-Grunnleggende forutsetninger for reform
-av straffeprosessen
-
-[Side 120]
-
-[Side 121]
-
-119
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-Kapittel 4
-
-Kapittel 4
-
-Kriminalitetsbildet og straffesakskjeden
-4.1
-
-Innledning
-
-En sentral premiss i Straffeprosessutvalgets mandat er at kriminalitetsbildet forandrer seg, jf.
-punkt 2:
-«Kriminalitetsbildet er i endring og kjennetegnes av økt profesjonalisering, organisering og
-internasjonalisering. Stadig mer komplekse
-saker med en stadig mer omfattende bevisførsel reiser spørsmålet om mer organisert saksforberedelse og sterkere dommerstyring. Det
-er mange forhold som tyder på at straffeprosessloven av 1981 ikke er rustet til å møte
-disse utfordringene.»
-Betydningen av kunnskap om kriminalitet for
-utformingen av en ny straffeprosesslov behandles nedenfor i punkt 4.2. I punkt 4.2.1 gis det en
-oversikt over hvordan straffeprosessloven har
-blitt tilpasset kriminalitetsbildet, og hvordan
-kunnskap om kriminalitet har betydning for
-utformingen av regelverket, herunder for strafferettspleiens organisatoriske oppbygning og for
-konkrete bestemmelser om gjennomføring av
-etterforsking og rettergang. I punkt 4.2.2
-behandles særskilt betydningen av statistikk om
-kriminalitet for utformingen av en ny lov om
-behandling av straffesaker.
-I punkt 4.3 behandles straffesakskjeden. I
-punkt 4.3.1 gjøres det kort rede for betydningen
-av kunnskap om behandlingen av straffesaker. I
-punkt 4.3.2 er temaet betydningen av statistikk
-om straffesaksbehandlingen for utformingen av
-en ny straffeprosesslov. I punkt 4.3.3 gjøres det
-rede for enkelte hovedfunn fra en rapport utvalget
-har bestilt om holdbarheten av de faktiske premissene for utvalgets mandat og om forhold av betydning for straffesaksbehandlingens effektivitet og
-hvordan disse forholdene påvirkes av den «nye»
-kriminaliteten. Rapporten er inntatt som vedlegg
-2 til utredningen.
-
-4.2
-
-Kriminalitetsbildets betydning for
-en ny straffeprosesslov
-
-4.2.1
-
-Generelt om kriminalitetens betydning
-for reguleringen av straffesaksfeltet
-
-Med uttrykket «kriminalitet» forstås i utgangspunktet handlinger som etter loven er straffbare.
-Det er loven som fastsetter rammene for hva som
-er straffbart, og hvilke handlinger som skal anses
-som kriminelle, beror derfor på en fortolkning av
-straffelovgivningen. En annen sak er at man i dagligtalen nok ofte forutsetter at kriminaliteten er av
-mer kvalifisert art. Karakteristikken «kriminelt»
-leder tanken mot mer alvorlige lovovertredelser
-og betegnelsene «kriminell» og «kriminelle miljøer» forbindes med en person eller flere personer
-som regelmessig overtrer straffelovgivningen.
-Disse uttrykkene forstås således ofte snevrere
-enn enhver lovovertredelse som begås av en person eller institusjon. Hva som i alminnelighet oppfattes som kriminelt, vil i noen grad også bero på
-om lovovertredelsen er av en type som sanksjoneres. Dersom den moralske eller verdimessige
-begrunnelsen for straffetrusselen ikke lenger gjør
-seg gjeldende, og det resulterer i at det ikke på
-noen måte blir reagert mot overtredelsen – straffebudet blir «sovende» –, vil heller ikke handlingen betraktes som kriminell.
-Straffeprosessloven angir hvilke fremgangsmåter som kan benyttes når staten skal forfølge
-straffbare handlinger, og i en viss utstrekning
-også hvilke fremgangsmåter som skal benyttes
-for å forhindre kriminalitet. Det primære formål
-med loven er å legge til rette for at kriminelle
-handlinger kan avdekkes, og at det så kan reageres strafferettslig mot gjerningspersonen.
-Skal man lykkes i å få skyldige dømt, må man
-ha kunnskap om kriminalitet, herunder hva kriminaliteten består i, og hvordan den lar seg avdekke.
-På et mer overordnet nivå er det avgjørende å ha
-kunnskap om kriminaliteten og virkningene av at
-det begås kriminalitet, for å kunne foreta prioriteringer i strafferettspleien. Ressursene er også her
-
-[Side 122]
-
-120
-
-NOU 2016: 24
-
-Kapittel 4
-
-Ny straffeprosesslov
-
-begrensede, og kapasitetshensyn gjør det nødvendig å foreta prioriteringer både generelt og på
-enkeltsaksnivå for at kreftene skal kunne settes
-inn der det er mest å vinne på etterforsking og
-oppklaring av og reaksjoner mot kriminalitet.
-Ved prioriteringen av ressurser må det tas
-stilling til hvilke kriminalitetstyper, personer og
-saker som skal straffeforfølges. Det er da sentralt å
-se hen til kriminalitetens skadevirkninger. Straffeprosessloven gir det formelle rammeverket for prioriteringene, og i stor utstrekning har loven overlatt prioriteringene til påtalemyndighetens skjønn.1
-I vårt to-sporede system skjer for øvrig prioriteringer innenfor rammene av kriminalpolitiske føringer
-i forbindelse med tildeling av budsjettmidler mv.,
-som hører under Justis- og beredskapsdepartementet og Politidirektoratet, men påtalemyndigheten er alene ansvarlig for vurderingen i den
-enkelte sak.2 Slik vil det fremdeles måtte være, og
-det er bevissthet om dette. Det heter blant annet i
-forarbeidene til gjeldende straffelov:
-«I de siste tiårene har kriminalitetsutviklingen
-dessuten vært så kraftig at det er blitt tydeligere at strafferettsapparatet ikke har kapasitet
-til å forfølge alle straffbare handlinger. Politiet
-og påtalemyndigheten må i større grad enn før
-prioritere hvilke saker som skal følges opp.»3
-Denne beskrivelsen av kriminalitetsutviklingen er
-imidlertid ikke uten videre dekkende for den
-generelle utviklingen. Statistikken viser at det i
-perioden 2003–2013 ikke var noen økning, men
-tvert imot en nedgang i den registrerte kriminaliteten på mellom 10 og 24 prosent for forseelser og
-forbrytelser holdt opp mot årene 1993–2001:
-
-plekst og sammenvevd kriminalitetsbilde gjennom et større innslag av grenseoverskridende
-kriminalitet.5 Dette illustrerer at kunnskap om kriminaliteten er viktig for straffesaksbehandlingen.
-Endringer i kriminalitetsbildet og i prioriteringer av hvilke saker som tas til behandling, vil på
-ulike måter virke inn på strafferettspleien. Dersom kvinner begår mer kriminalitet enn tidligere,
-eller man i større grad velger å prioritere straffeforfølgning av kvinner, vil man for eksempel måtte
-sørge for flere kvinnefengsler dersom innsatte
-kvinner og menn fortsatt skal holdes adskilt i
-varetekt og under soning.
-Særtrekk som knytter seg til kriminalitetsområder, har også betydning for strafferettspleiens organisatoriske rammer, blant annet ved at det
-opprettes særskilte grupper, avdelinger og etater
-for å håndtere utvalgte sakstyper fordi det er hensiktsmessig – og antakelig langt på vei påkrevd –
-med spesialkompetanse for å sikre en forsvarlig
-og effektiv straffeforfølgning.
-Et eksempel på dette er Den sentrale enhet for
-etterforskning og påtale av økonomisk kriminalitet
-og miljøkriminalitet (Økokrim), som ble opprettet i
-1989, se påtaleinstruksen § 35-4.
-IKT-relatert kriminalitet er et annet eksempel
-på et kriminalitetsområde som har fått oppmerksomhet den senere tid. Dette må betraktes som en
-naturlig følge av den generelle teknologiske utviklingen:
-«IKT-kriminalitet kan deles inn i to hovedformer. Den ene er kriminalitet rettet inn mot
-selve IKT-systemene, og den andre er bruk av
-IKT som redskap for å gjennomføre kriminalitet. Begge hovedformene av IKT-kriminalitet
-har fått stor utbredelse, og de henger ofte
-sammen.
-[…] Den høye profitten og den lave oppdagelsesrisikoen tilsier at omfanget er stort og
-voksende.
-Det vil være avgjørende at politiet organiseres slik at de har forutsetninger for å møte
-denne utviklingen. Politiet må bygge opp en
-sterk kompetanse og beredskap innenfor IKTkriminalitet. Spesialisering og samarbeid med
-andre etater er viktig for at politiet skal kunne
-møte denne utviklingen.»6
-
-«Målt i antall anmeldte lovbrudd har kriminaliteten gått ned de siste ti årene. Dette til tross
-for at det i samme periode har vært en sterk
-befolkningsvekst, som ventelig kunne ført til
-flere anmeldte lovbrudd.»4
-Likevel er det trekk ved utviklingen i kriminaliteten på enkeltområder som kan gi grunnlag for å
-karakterisere kriminalitetsutviklingen som «kraftig». Tallene viser blant annet en økning innenfor
-noen alvorlige kriminalitetstyper og et mer kom1
-2
-
-3
-4
-
-Se nærmere Kjelby (2013).
-Om ulike styringsdokumenter og dialogen med Politidirektoratet om mål og prioriteringer, se riksadvokaten (1/2016)
-punkt I.
-Ot.prp. nr. 90 (2003–2004) s. 82.
-NOU 2013: 9 s. 59.
-
-Kunnskap om kriminalitetens skadevirkninger og
-effekten av straffeforfølgningen har også betydning for den konkrete utformingen av prosesslovgiv5
-6
-
-NOU 2013: 9 s. 69–71.
-NOU 2013: 9 s. 71.
-
-[Side 123]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-ningen. For eksempel kan de siste tiårenes styrking av fornærmedes rettigheter i tilknytning til
-behandlingen av straffesaker forstås som et resultat av økt bevissthet om skadevirkningene av kriminalitet for denne gruppen:
-«I de senere år har man fått økt kunnskap om
-de store skadevirkningene ofre for kriminalitet
-kan påføres. Dette gjelder ikke minst psykiske
-skadevirkninger. Man er også i økende grad
-blitt oppmerksom på hvor belastende en [rettssak] kan være for offeret.»7
-
-kriminalitet er svært samfunnsskadelig og skal slås
-hardt ned på, medfører den at det kan benyttes
-ekstraordinære etterforskingsskritt i slike saker,
-ettersom adgangen til å benytte slike etterforskingsskritt er knyttet opp mot lovbruddenes
-strafferammer:
-«Utvidet adgang til bruk av ekstraordinære
-etterforskningsmetoder vil etter departementets oppfatning være et hensiktsmessig virkemiddel i kampen mot organisert kriminalitet.
-Også flere av høringsinstansene har påpekt
-behovet for dette. Nettopp ved organisert kriminalitet er det flere lovbrudd hvor den skjerpede strafferammen vil gjøre at behovet for
-bruk av ekstraordinære etterforskningsmetoder blir dekket […].»10
-
-Videre har man fått økt bevissthet om fornærmedes behov i videre forstand:
-«Det er ikke tvilsomt at fornærmede og etterlatte rent faktisk berøres av straffesaken på
-ulike måter, og at måten straffesaken behandles på og dens utfall kan ha følelsesmessig,
-symbolsk, praktisk og rettslig betydning for
-dem.»8
-Et eksempel på en konkret bestemmelse som tar
-hensyn til en særlig sårbar gruppe, er straffeprosessloven § 284 femte ledd:
-«Ved avhør av fornærmede, etterlatte eller av et
-vitne under 18 år, kan retten treffe beslutning
-om at tiltalte eller andre skal forlate rettssalen
-også dersom særlige grunner gjør at hensynet
-til henholdsvis fornærmede, etterlatte eller vitnet tilsier det.»
-Et annet eksempel på hvordan oppfatninger om
-kriminalitetsbildet blir bestemmende for straffeprosessuell regulering, er vedtakelsen av bestemmelsen i straffeloven av 1902 som lå til grunn for
-§ 79 første ledd bokstav c i gjeldende straffelov,
-som fastslår at maksimumsstraffen i et straffebud
-«forhøyes inntil det dobbelte» dersom «en straffbar
-handling er utøvet som ledd i aktivitetene til en
-organisert kriminell gruppe». Bestemmelsen var et
-resultat av en lengre tids oppfatning om at kriminaliteten i økende grad var kjennetegnet ved «økt profesjonalisering, organisering og internasjonalisering», blant annet i form av velorganiserte
-mafialignende organisasjoner i utlandet, som
-benyttet seg av vold og trusler for å sikre inntjening.9 Samtidig som straffeskjerpingsregelen for
-organisert kriminalitet uttrykker at organisert
-
-Dette peker videre mot nok en side ved kriminalitetens betydning for utformingen av en ny straffeprosesslov, nemlig at kunnskap om kriminalitetens virkninger er bestemmende for hvilke inngrep det er akseptabelt å benytte overfor borgerne når staten skal forfølge kriminelle
-handlinger. Interessen av å få oppklart kriminelle
-handlinger kan ikke rettferdiggjøre ethvert inngrep. At kriminalitetens alvor er medbestemmende for hvilke inngrep som kan aksepteres i
-den private sfære – ut fra forholdsmessighetsprinsippet –, går som en rød tråd gjennom alle
-revisjoner av straffeprosessloven:
-«Den kriminalitetstrussel som man står overfor, vil være et viktig element når politiets etterforskingsmetoder skal vurderes.
-Politiets metodebruk må stå i forhold til
-trusselbildet. Man skal ikke gå lenger i metodebruk enn hva som er nødvendig for å kunne
-oppklare begåtte forbrytelser.»11
-Endelig skal det nevnes at kjennskap til særtrekk
-ved hvordan ulike typer kriminalitet lar seg bevise,
-er avgjørende for å besørge tilstrekkelige og hensiktsmessige etterforskingsmetoder. Blant annet
-har et endret trusselbilde over tid ført til at politiet
-og påtalemyndigheten gjennom en rekke lovendringer har fått adgang til å benytte flere og
-mer inngripende tvangsmidler i etterforskingen
-av terrorhandlinger og annen alvorlig kriminalitet.12 Det er således viktig med kunnskap om
-10
-
-7
-8
-9
-
-Ot.prp. nr. 33 (1993–94) s. 16.
-Ot.prp. nr. 11 (2007–2008) s. 24.
-Se for eksempel NOU 1997: 15 punkt 3.1.1 og 3.1.3.1.
-
-121
-
-Kapittel 4
-
-11
-12
-
-Ot.prp. nr. 62 (2002–2003) s. 52.
-NOU 1997: 15 punkt 3.1.1. Se også Prop. 68 L (2015–2016)
-s. 258–259.
-Se NOU 2009: 15. Se også Prop. 68 L (2015–2016).
-
-[Side 124]
-
-122
-
-NOU 2016: 24
-
-Kapittel 4
-
-Ny straffeprosesslov
-
-hvordan kriminalitet eller forberedelse til kriminalitet lar seg bevise, noe som stadig er i endring. Se
-som illustrasjon departementets argumentasjon
-for at det var behov for adgang til en ny type
-tvangsinngrep i form av dataavlesing:
-«Fremveksten av krypteringsløsninger og
-andre metoder for informasjonsbeskyttelse
-fører utvilsomt til utfordringer for politiet. I forbindelse med forebygging, avverging og etterforskning av alvorlig kriminalitet, kan politiet
-ha behov for å skaffe seg tilgang til kommunikasjon eller informasjon som finnes lagret i
-elektronisk utrustning som disponeres av mistenkte, uten den mistenktes viten. Etter departementets oppfatning viser utredningen og
-høringen at de eksisterende skjulte tvangsmidlene har tapt mye av sin effekt som følge av den
-teknologiske utviklingen, herunder fremveksten av ulike løsninger for informasjonsbeskyttelse. Adgangen til meningsinnholdet i
-informasjonen er rettslig sett uendret, men i
-praksis vanskeliggjort.»13
-Fremstillingen ovenfor viser hvordan forståelsen
-av særskilte trekk ved kriminalitetsbildet ligger til
-grunn for og et stykke på vei blir styrende for
-hvordan straffesaksbehandlingen organiseres, for
-hvordan enkeltbestemmelser i straffeprosessloven får sin utforming, og for hvilke prioriteringer som gjøres.
-4.2.2
-
-14
-
-«Det totale omfanget av straffereaksjoner i
-2014 er som tidligere år dominert av de mange
-forenklede forelegg […]. De 224 900 forenklede foreleggene utgjør 74 prosent av alle
-straffereaksjonene i 2014. Av alle forenklede
-forelegg i 2014 ble 92 prosent gitt for veitrafikkforseelser, i hovedsak på grunn av ulovlig hastighet, mens de resterende 8 prosent ble gitt
-for mindre alvorlige forseelser mot tolloven.»15
-Videre gir statistikken informasjon om hvordan
-bruken av sanksjoner endres over tid:
-«Til tross for den generelle nedgangen i bruken av de fleste andre typene straffereaksjoner
-er bruken av betinget påtaleunnlatelse stadig
-økende. De i alt 5 250 betingete påtaleunnlatelsene i 2014 er hele 61 prosent flere enn i 2013.
-Denne økningen har først og fremst sammenheng med at påtalemyndigheten brukte denne
-typen straffereaksjon i mer enn dobbelt så
-mange forseelsessaker i 2014 som året før.»16
-Statistikken kaster også lys over arbeidsfordelingen i straffesakskjeden:
-«Påtalemyndigheten ilegger langt flere straffereaksjoner enn domstolene […]. Dette gjelder
-også for forbrytelsessaker, hvor 59 prosent av
-alle reaksjonene i 2014 var ilagt av påtalemyndigheten – og ni av ti av disse igjen avgjøres
-med forelegg. 13 450 forbrytelsessaker ble
-avgjort i domstolene. I mer enn ni av ti tilfeller
-ble forbrytelsessakene i domstolene endelig
-avgjort allerede i tingretten.»17
-
-Særlig om betydningen av
-kriminalstatistikken
-
-Kjennskap til kriminalitetsbildet er, som gjennomgangen i punkt 4.2.1 viser, en grunnleggende forutsetning for utformingen av straffeprosessloven.
-Kriminalitetens omfang og utvikling gjenspeiles
-i kriminalstatistikken, blant annet i statistikk over
-anmeldte lovbrudd med egen statistikk over fornærmede («ofre»), politistatistikk om lovbrudd
-etterforsket av politiet, reaksjonsstatistikk om
-strafferettslige reaksjoner og fengselsstatistikk om
-fengslinger og gjennomføring av straff og andre
-reaksjoner.14 Kriminalstatistikken avgrenses tradisjonelt mot behandlingen i straffesakskjeden, se
-punkt 4.3.2.
-Statistikken over straffereaksjoner kaster i en
-viss utstrekning lys over straffesaksbehandlingen.
-13
-
-Blant annet tegner den et bilde av hvilke saker og
-sakstyper som behandles etter straffeprosessloven:
-
-Prop. 68 L (2015–2016) s. 259–260.
-Thorsen mfl. (2009) og Andenæs mfl. (2016) s. 29–39. Se
-ellers statistikkområdet Sosiale forhold og kriminalitet: Kriminalitet og rettsvesen på www.ssb.no.
-
-For utformingen av en ny straffeprosesslov har
-imidlertid statistikk om kriminalitet nokså
-begrenset betydning. For det første reflekterer
-ikke statistikken hele kriminalitetsbildet. Den
-registrerte kriminaliteten er den som anmeldes
-eller kommer til politiets kunnskap på andre
-måter. Mye kriminalitet kommer aldri til politiets
-kunnskap, og mange hendelser forblir uoppklarte.
-Statistikken angir heller ikke årsaker og sier ikke
-noe om hvilken kriminalitetsutvikling man kan
-vente seg – vurderinger som i de fleste tilfeller må
-15
-16
-17
-
-SSB (2016a).
-SSB (2016a).
-SSB (2016a).
-
-[Side 125]
-
-123
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-baseres på sammensatte og usikre antakelser om
-samfunnsforhold.
-Kriminalitetsstatistikken er dessuten av begrenset betydning fordi en lov om behandling av straffesaker prinsipielt sett må kunne håndtere forfølgning av alle typer lovbrudd. Uavhengig av hvilke
-saker som behandles og de til enhver tid gjeldende
-prioriteringer, bør loven kunne benyttes til å etterforske og iretteføre enhver overtredelse av straffeloven eller spesiallover med straffetrusler.
-Selv om tre av fire straffereaksjoner er forenklede forelegg og avgjøres utenfor domstolene, må
-straffeprosessloven være tilrettelagt for domstolsbehandling av store og omfattende straffesaker, se
-punkt 4.3.2. Og uavhengig av hva kriminalstatistikken sier om antall lovbrudd som involverer barn,
-bør loven inneholde særskilte reguleringer som tar
-høyde for at denne gruppen er særlig sårbar.
-Dertil kommer at kriminalitetsbildet er i stadig
-endring, og prioriteringen av hvilke saker som bør
-behandles i strafferettsapparatet, vil variere, avhengig av hvilken kriminalitet som anmeldes, faglige
-overveielser av hvilken kriminalitet som bør
-straffeforfølges, og hvilke typer kriminalitet og
-hvilke saker som vies offentlig oppmerksomhet.
-Helt uten betydning for utformingen av straffeprosessloven er kriminalitetsstatistikken likevel
-ikke. Blant annet kan statistikk benyttes til å
-undersøke om loven virker etter sin intensjon. Et
-illustrerende eksempel er varetektsfengsling av
-barn. Det har i den senere tid vært en særlig
-bevissthet om barns sårbarhet, og det er holdepunkter for at lovrevisjoner har begrenset bruken
-av varetektsfengsling overfor barn. I årene før
-barnekonvensjonen ble inkorporert, lå antall varetektsfengslinger av barn på godt over hundre i
-året, før omfanget ble betydelig redusert, til 76 i
-2003 og til 47 i 2004.18
-I spørsmålet om hvilke saker som skal prioriteres, vil kriminalitetsbildet og de særegenheter
-som knytter seg til kriminalitetstypene, ha betydning for hvilke prioriteringer som vil være hensiktsmessige. Hvis det på et område vokser frem
-en særlig form for kriminalitet som er ressurskrevende å etterforske, og som forutsetter spesialkunnskap hos politi og påtalemyndighet, vil det
-for eksempel kunne tale for at etterforskings- og
-påtaleressurser sentraliseres.
-Dagens straffeprosesslov er et resultat av samfunnsutviklingen, og den har vært revidert fortløpende i takt med endringer i kriminalitetsbildet,
-ut fra de behov som har gjort seg gjeldende.
-
-Utvalget mener at de virkemidler som loven per i
-dag gir, langt på vei uttrykker hva som kreves for
-å kunne straffeforfølge lovbrudd, i dag og i den
-nærmeste fremtid.
-
-4.3
-
-Straffesakskjeden
-
-4.3.1
-
-Generelt om betydningen av kunnskap
-om straffesaksbehandlingen
-
-«Straffesakskjeden» er betegnelsen på politiets og
-påtalemyndighetens arbeid med å forebygge,
-etterforske og oppklare kriminalitet, domstolsbehandlingen og kriminalomsorgens arbeid med
-straffegjennomføring og tilbakeføring til samfunnet etter endt soning. I noen tilfeller brukes
-uttrykket noe snevrere, som en betegnelse på den
-offentlige behandlingen av lovbrudd fra oppdagelse eller anmeldelse og frem til saken har fått
-sin endelige avgjørelse i rettssystemet.19
-Straffesakskjeden består av en rekke institusjoner og aktører som har ulike oppgaver og roller. Behovet for å se behandlingen av straffesaker
-som et hele er fremhevet av flere. Et ferskt
-uttrykk for dette er det omfattende forskningsprosjektet Strafferettens funksjonalitet ved Det juridiske fakultet ved Universitetet i Bergen, som
-undersøker forholdet mellom systemets rettslige
-rammeverk og dets evne til å realisere gitte mål,
-oppgaver eller funksjoner. Prosjektets mål er å
-bidra til en «dypere forståelse av funksjonspremissene for ulike slags (rettslige) normer, begreper
-og institusjonelle systemløsninger, i tillegg til en
-dypere forståelse for systemet som et fungerende
-hele».20
-Store deler av straffesakskjeden reguleres av
-straffeprosessloven. Utformingen av en ny straffeprosesslov for fremtiden, forutsetter rimeligvis inngående kunnskap om straffesakskjeden, herunder
-hva som i dag er henholdsvis positivt og negativt og
-i hvilken grad man innenfor systemet evner å realisere straffansvar på en rettssikker og effektiv måte.
-I det følgende gjøres det i punkt 4.3.2 rede for
-hvilken betydning statistikk om straffesakskjeden har ved utformingen av en ny lov. I punkt 4.3.3
-presenteres enkelte særlige forhold av betydning
-for straffesakskjeden som det er redegjort for i
-rapporten En vurdering av enkelte premisser for en
-ny straffeprosesslov, som ble bestilt av utvalget og
-er inntatt som vedlegg 2 til utredningen.
-19
-
-18
-
-Se nærmere Mæhle (2014).
-
-Kapittel 4
-
-20
-
-Se Stene (2002).
-Se nærmere Universitetet i Bergen (2011).
-
-[Side 126]
-
-124
-
-NOU 2016: 24
-
-Kapittel 4
-
-Ny straffeprosesslov
-
-Tabell 4.1 Gjennomsnittlig saksbehandlingstid for lagrettesaker i antall måneder (2011–2015)
-2011
-
-2012
-
-2013
-
-2014
-
-2015
-
-Agder
-
-4,5
-
-4,5
-
-4,7
-
-4,1
-
-3,6
-
-Borgarting
-
-6,1
-
-5,9
-
-5,1
-
-5,9
-
-6,1
-
-Eidsivating
-
-5,1
-
-5,1
-
-5,0
-
-6,4
-
-4,8
-
-Frostating
-
-6,7
-
-5,5
-
-7,1
-
-7,6
-
-7,1
-
-Gulating
-
-6,6
-
-8,3
-
-6,7
-
-6,0
-
-6,3
-
-Hålogaland
-
-3,4
-
-3,5
-
-4,4
-
-4,0
-
-4,2
-
-Vektet gjennomsnitt
-
-5,8
-
-5,9
-
-5,5
-
-5,6
-
-5,6
-
-4.3.2
-
-Betydningen av statistikk om straffesaksbehandlingen
-
-Nær knyttet til, men utenfor den tradisjonelle kriminalitetsstistikken som det er redegjort for i
-punkt 4.2.2, hører statistikk om straffesaksbehandlingen. Det siktes da til statistikk som viser
-hvordan det går med alle lovbrudd, fra anmeldelse til endelig avgjørelse i rettssystemet.
-Slik statistikk vil blant annet klargjøre hvilke
-kriminalitetstyper som oftest ender med henleggelse eller frifinnelse, hvilke som oftest oppklares
-og sanksjoneres, og hvor lang tid sakene tar å
-behandle. Statistikken vil kunne gi et overordnet
-bilde av tidsbruk og endelig resultat av rettsprosessen, men ikke av hvilke forhold som medfører
-at tidsbruken er som den er.
-Samlet statistikk for behandlingen i straffesakskjeden finnes ikke, men føres i noen
-utstrekning av aktørene i strafferettspleien, da
-særlig politiet, påtalemyndigheten og domstolene.
-Det finnes i mindre grad statistikk som kaster lys
-over forsvarerens og bistandsadvokatens virksomhet. Svar på dette kan en imidlertid finne indirekte, gjennom den informasjon om behandlingen
-som er gitt av de andre aktørene. Det samme gjelder for øvrige deltakere i prosessen, som vitner,
-sakkyndige og tolker.
-Skal statistikk over straffesakskjeden fullt ut
-kunne benyttes til å avdekke årsaksforhold, må
-informasjonen brytes ned til de enkelte trinnene i
-saksbehandlingen. Før statistikken brytes ned, er
-den av begrenset betydning, ettersom loven
-benyttes – og etter mandatets forutsetning fortsatt
-skal benyttes – til å håndtere alle typer saker.
-Betydningen av detaljert statistikk kan
-illustreres med betydningen av saksbehandlingstid, som har vært et tilbakevendende tema i evalueringer av straffeprosessen og straffeprosess-
-
-loven.21 En særlig utfordring er at det er ansett
-som verdifullt å kutte ned på saksbehandlingstiden, samtidig som kortere saksbehandlingstid
-ikke skal gå på bekostning av muligheten for oppklaring og kvaliteten på saksbehandlingen.
-I spørsmålet om saksbehandlingstid er det for
-det første av interesse å klarlegge tiden det tar fra
-anmeldelse til det foreligger en endelig avgjørelse
-i saken. Dessuten kan det ha adskillig interesse å
-foreta en mer detaljert kartlegging, blant annet av
-tiden fra anmeldelse og frem til politiet og påtalemyndigheten har tatt sin avgjørelse, tiden det tar
-fra påtalemyndigheten har bestemt seg for tiltale,
-tiden frem til berammelse, tiden frem til domstolene er ferdig med saken, og tiden frem til fullbyrdingsordre.22
-Domstoladministrasjonen
-publiserer
-for
-eksempel statistikk over innkomne og behandlede saker og over gjennomsnittlig saksbehandlingstid fra tidspunktet sakene kommer inn, og til
-de er avsluttet.23 Se tabell 4.1 over gjennomsnittlig
-saksbehandlingstid for lagrettesaker i antall
-måneder for årene 2011–2015.
-Skal denne statistikken gi særlig mening, er
-det – avhengig av formål – behov for en presisering av hvordan saksbehandlingstiden fordeler
-seg på sakstyper, ettersom disse er av høyst ulik
-karakter, og årsakene til og konsekvensene av
-tidsbruk vil bero på hvilke egenskaper saken
-har.24 Av stor betydning er det blant annet om det
-er en fornærmet i saken, om bevisbildet er enkelt
-21
-
-22
-23
-24
-
-Se for eksempel Justis- og politidepartementets høringsnotat Hurtigere behandling av straffesaker, (Justis- og politidepartementet (28.09.06)), etter nedsettelse av en arbeidsgruppe som hadde til mandat å foreslå prosessuelle effektivitetsgrep.
-Se til sammenligning Stene (2002).
-Se Domstoladministrasjonen (2015d).
-Se til illustrasjon Stene (2001).
-
-[Side 127]
-
-125
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-eller sammensatt, om det ble benyttet tolk, etc.
-Videre er det av interesse å klarlegge betydningen av forhold utenfor saken, for eksempel om
-saken ble behandlet sammen med andre saker,
-eller om den av ulike grunner ble utsatt.
-Statistikk angir ikke årsaker og gir ikke svar
-på om tallene er uttrykk for en hensiktsmessig
-saksbehandling. For eksempel sier ikke nevnte
-statistikk over gjennomsnittlig saksbehandlingstid for behandling av lagrettesaker noe om saksbehandlingstiden er hensiktsmessig for partenes
-mulighet til å forberede ankebehandlingen, om
-den er tilstrekkelig til at aktørene kan innpasse
-behandlingen i sin øvrige timeplan, om den i tilstrekkelig grad åpner for at det kan finne sted forsvarerbytte, om den i tilstrekkelig grad åpner for
-at en sak kan utsettes av hensyn til sakens opplysning, om den i tilstrekkelig grad legger til rette for
-forening av saker, om den går på bekostning av
-saksbehandlingstiden i andre saker, osv.
-Dette viser at det til grunn for statistikken ligger sammensatte forhold og verdivalg, som det i
-mange tilfeller ikke vil la seg gjøre å få full oversikt over og ta endelig stilling til. Det er mange
-grunner til at rettssystemet virker som det gjør,
-og tilsvarende mange hensyn som skal ivaretas.
-Utvalgets undersøkelser og forespørsler viser
-dessuten at det er en rekke forhold det ikke føres
-statistikk over, at statistikken på enkelte områder
-er eller kan være upålitelig, og at det kan være
-usikkerhet knyttet til om tallene som innhentes,
-er representative.25
-Utvalget har på denne bakgrunn ikke vurdert
-det som hensiktsmessig å innhente statistikk med
-sikte på en helhetlig fremstilling av straffesaksbehandlingen, men har innhentet statistikk om
-forhold som sammen med erfaringer uttrykt i
-andre kilder belyser spørsmål om ressurs- og tidsbruk i strafferettspleien eller på annen måte har
-relevans for spørsmål utvalget har tatt stilling til.
-Utvalget har blant annet innhentet et omfattende
-tallmateriale fra Domstoladministrasjonen og ellers
-benyttet offentlig tilgjengelig informasjon. Materialet er trukket frem i drøftelsen der det er funnet
-naturlig.
-På ett område har imidlertid utvalget funnet
-grunn til å foreta en noe nærmere undersøkelse.
-En sentral premiss for utvalgets mandat er at kriminalitetsbildet har ført til «stadig mer komplekse
-saker med en stadig mer omfattende bevisførsel»,
-og at dette er av betydning for utforming av ny
-straffeprosesslov. Utvalget har derfor innhentet
-25
-
-Se til illustrasjon Kjelby og Skyberg (2016) punkt 5.2.8.
-
-Kapittel 4
-
-en særlig vurdering av denne premissen, se nærmere punkt 4.3.3.
-Men som fremhevet i tilknytning til redegjørelsen for betydningen av kriminalitetsstatistikken i
-punkt 4.2.2, må tallenes betydning ikke overdrives. En ny straffeprosesslov må prinsipielt sett
-kunne benyttes til å behandle alle sakstyper –
-store og små, oversiktlige og kompliserte – uavhengig av hvordan de fordeler seg i antall. Det bør
-således tas høyde for alle særegenheter av betydning for en rettssikker og effektiv behandling.
-For eksempel tilsier forekomsten av komplekse saker med omfattende bevisføring at loven
-har særlige reguleringer for å sikre konsentrasjon
-under behandlingen, se blant annet lovutkastet
-kapittel 34 om saksforberedelse. Motsatt tilsier
-forekomsten av enkle og oversiktlige saker at det
-åpnes for en enklere behandling uten saksforberedelse, se lovutkastet kapittel 36. Men dette er altså
-reguleringer loven bør ha uansett antall store og
-små saker.
-
-4.3.3
-4.3.3.1
-
-Rapporten En vurdering av enkelte
-premisser for en ny straffeprosesslov
-Bakgrunn
-
-At det finnes store og omfattende saker som
-legger beslag på betydelige ressurser i straffesakskjeden, herunder ved behandlingen i domstolene, er ikke tvilsomt. Mer usikker er holdbarheten av forutsetningen i utvalgets mandat om at
-slike sakstyper er økende. Svaret på dette spørsmålet vil antakelig avhenge av hvilket tidsperspektiv som anlegges, men mandatet synes å forutsette at dette er en pågående utvikling som det er
-presserende å møte med endringer i gjeldende
-straffeprosesslov.
-Utvalget rettet på denne bakgrunn en forespørsel til cand.jur. ph.d. Gert Johan Kjelby og
-cand.polit. Lisbeth Fullu Skyberg om å vurdere
-1. holdbarheten av premissen lagt til grunn for
-utvalgets mandat om at kriminaliteten kjennetegnes ved «økt profesjonalisering, organisering og internasjonalisering» og at det resulterer i «stadig mer komplekse saker med en stadig mer omfattende bevisførsel», og
-2. hvilke forhold eller mekanismer som er av
-betydning for straffesaksbehandlingens effektivitet, og hvordan disse påvirkes av den «nye»
-kriminaliteten.
-Spørsmålene er besvart i rapporten En vurdering av enkelte premisser for en ny straffeprosesslov. Undersøkelsen er omfattende og
-bygger dessuten på tidligere sentrale under-
-
-[Side 128]
-
-126
-
-NOU 2016: 24
-
-Kapittel 4
-
-Ny straffeprosesslov
-
-lige krav til en rettferdig rettergang, både i de
-små og i de store sakene.
-Videre må elementer av medieskapte inntrykk av kriminalitetsbildet og et økende antall
-‘store saker’ i domstolene tas bort for å få et riktigere bilde. Mediedekning av enkelte store
-straffesaker kan utvilsomt skape et feilaktig
-inntrykk av hva som er vanlig, og/eller danne
-grunnlag for oppfatninger om ‘en tendens’, selv
-om den aktuelle sak er langt fra representativ
-for det samlede antall saker som behandles.26
-Fokus i enkeltsaker på element fra kriminalitetsbildet/-utviklingen (som for eksempel
-‘organisert kriminalitet’ og ‘internasjonale forgreninger’) kan på samme måte bidra til å tilsløre det store antall saker hvor slike element
-ikke er til stede.»27
-
-søkelser og utredningsarbeid. Rapporten er
-lagt til grunn for flere av utvalgets overveielser.
-Den ble første gang publisert på utvalgets
-hjemmeside 21. mars 2016 og er inntatt som
-vedlegg 2 til utredningen.
-I det følgende redegjøres det tematisk for enkelte
-sentrale funn knyttet til spørsmålet om det er riktig at «kriminalitetsbildet er i endring og kjennetegnes av økt profesjonalisering, organisering og
-internasjonalisering», og at det derfor er «stadig
-mer komplekse saker med en stadig mer omfattende bevisførsel».
-4.3.3.2
-
-Grunnlaget for antakelser om økt tidsbruk
-og kompleksitet
-
-Forfatterne redegjør for en rekke tidligere utredninger som forutsetter at kriminalitetsbildet er
-endret, og at dette har påvirket straffeprosessen.
-De fremhever at disse fremstillingene i det vesentlige bygger på inntrykk og antakelser fra sentrale
-aktører, basert på egen kjennskap til det praktiske
-rettsliv, og at uttalelsene er generelle. De fremhever videre at tallgrunnlaget er noe begrenset og at
-det ikke foreligger entydige tall.
-Videre understrekes det at oppfatninger om at
-behandlingen krever økt tidsbruk, også må forstås i lys av den samlede straffeprosessuelle regulering over tid, og som påvirker tidsbruken uavhengig av forhold ved kriminalitetsbildet:
-«Endringer i den samlede straffeprosessuelle
-regulering over tid som påvirker tidsbruk uavhengig av forhold ved ‘kriminalitetsbildet’, må
-det tas hensyn til. Her nevnes kort at nye og
-skjerpede rettslige krav og føringer, særlig
-skjerpede krav til (doms)begrunnelser og
-andre saksbehandlingskrav, påvirker tidsbruk
-og hva som kreves av det bevismessige grunnlaget som dommen skal bygge på. Også ny
-erkjennelse av skadevirkninger av ulike typer
-lovbrudd og/eller endringer i syn på straffverdighet og håndhevelsesintensitet spiller inn,
-for eksempel i voldssaker (særlig vold i nære
-relasjoner), ved seksuallovbrudd og ved korrupsjon og annen økonomisk kriminalitet.
-Strukturelle endringer, som for eksempel
-innføring av toinstansbehandling, trekker også
-tid og ressurser, men heller ikke disse (menneskerettslig forankrede) endringer er i første
-rekke knyttet til endringer i kriminalitetsbildet.
-Dette er endringer i rettslig regulering og rettslige strukturer, basert på endret syn på retts-
-
-4.3.3.3
-
-Tyngdepunkter i straffesakskjeden
-
-I rapporten påvises det at de fleste reaksjoner ilegges uten domstolsbehandling, og at «tyngdepunktet» i straffeprosessen derfor ligger utenfor domstolene, hos politiet og påtalemyndigheten:
-«Tallene viser altså at hele 92,9 prosent av de
-registrerte straffereaksjoner ble ilagt av påtalemyndigheten (forenklede forelegg medregnet).
-Ser man kun på de ordinære forelegg og påtaleunnlatelser, utgjør andelen likevel så mye
-som 72,8 prosent.»28
-Det poengteres at slike saker i alminnelighet er
-enkle og kurante, og at effektivitetsbestrebelser
-og balansering av rettssikkerhetshensyn i en ny
-lov formentlig vil omhandle følgende reguleringer
-for disse avgjørelsene:
-«– hurtigere behandling og avgjørelse i politiog påtalemyndighet, herunder regler om
-krav, eventuelt forenklede krav, til avgjørelsesgrunnlaget (se f.eks. påtaleinstruksen
-§ 7-5 fjerde og femte ledd)
-– større adgang til å ilegge forenklet forelegg
-og ordinære forelegg, både hva angår personellkompetanse, sakstyper og krav (sml.
-ny strpl. § 255 og ny strpl. § 214 a og § 214
-b ved ikrafttredelsen av strl. 2005)
-26
-
-27
-28
-
-Som allerede påpekt utgjør de store sakene kun en liten
-brøkdel av det totale antall saker som behandles i domstolene hvert år.
-Kjelby og Skyberg (2016) punkt 2.3.
-Kjelby og Skyberg (2016) punkt 3.1.
+Grunnloven og ulike folkerettslige forpliktelser innebærer *absolutte rettslige skranker* for utforming – og praktisering – av lovgivningen. Ikke minst stiller menneskerettighetene krav til reguleringen. På straffeprosessens område har dette betydning for en rekke spørsmål, og det er en selvsagt ambisjon at utvalgets lovforslag skal være forenlig med de overordnede rettsnormer som gjelder. Dermed kunne det i prinsippet være ønskelig med en generell kartlegging av lovgivers handlingsrom på feltet. Det er imidlertid urealistisk å avklare dette på et abstrakt plan. I stedet må det vurderes løpende ved utarbeidelsen av den enkelte bestemmelse om den løsning som fremstår som den foretrukne, vil være forenlig med Grunnloven og folkeretten. Det ville sprenge rammene for utredningen å gjøre løpende rede for utvalgets overveielser om dette, men spørsmålet behandles uttrykkelig for enkelte forslag til regulering, se særlig punkt 9.3.2 og 9.3.5.2 om forbudet mot tvungen selvinkriminering og punkt 13.5.2.2 om retten til kontradiksjon.
+
+Selv om det ikke er aktuelt med en abstrakt kartlegging av lovgivers handlingsrom eller en uttrykkelig vurdering av forholdet til Grunnloven og folkeretten for alle bestemmelsene i lovutkastet, er det grunn til å peke på ulike typer forpliktelser som fastsetter rammer for utformingen av en ny lov, jf. punkt 5.2.2. I tilknytning til gjennomgangen av straffeprosessuelle prinsipper i punkt 5.3 vises det også til sentrale rettighetsbestemmelser. Det har sammenheng med at overordnede rettsnormer, foruten å innebære absolutte skranker for lovgiver, også kan gi *føringer* for utformingen og praktiseringen av loven. Lovforslaget bør således ta opp i seg verdier som er nedfelt i blant annet menneskerettighetene, først og fremst fordi det er viktige verdier. Dessuten vil en slik tilnærming bidra til å sikre en lovregulering – og praktisering av loven – som er forenlig med overordnede rettsnormer.
+
+Umiddelbart kunne det kanskje synes nærliggende å tilkjennegi utvalgets generelle syn på hvorvidt en ny straffeprosesslov bør utformes med en *sikkerhetsmargin* mot å komme i strid med Grunnloven og folkeretten. Høyesterett har for domstolenes del avvist en slik tilnærming hva gjelder løsningen av rettsspørsmål som aktualiserer forholdet mellom norske rettsregler og Den europeiske menneskerettskonvensjon (EMK).[^38] Sett fra lovgivers ståsted kan spørsmålet imidlertid vanskelig løses helt generelt, noe som har sammenheng med at lovgivers handlingsrom ikke kan kartlegges abstrakt, og at risikoen for brudd på overordnede rettsnormer knytter seg vel så mye til den fremtidige praktiseringen av loven som til utformingen av lovteksten. For lovgiver bør uansett det overordnede mål være å gi den beste reguleringen av ulike forhold, selv om det å unngå brudd på overordnede rettsnormer også er viktig – ikke minst i lys av EMKs overordnede subsidiaritetsprinsipp.
+
+For utvalget har det uansett vært en ambisjon å la de verdier som de overordnede rettsnormene bygger på, prege lovforslaget. Det innebærer i mange tilfeller forslag til regulering – for eksempel av retten til forsvarer betalt av det offentlige – som går lenger enn Norges forpliktelser, uten at det er direkte motivert av et ønske om «overoppfyllelse» for å begrense risikoen for motstrid med overordnede rettsnormer. Spørsmålet om hvordan slik risiko skal håndteres kommer sjelden på spissen, og forutsetter at en regulering som samlet sett fremstår som den beste løsning, står i et tvilsomt forhold til Grunnloven eller folkeretten. Hvordan en slik situasjon skal håndteres rettspolitisk, må vurderes i det enkelte tilfelle. Utvalget har i liten grad støtt på denne problemstillingen i sitt arbeid. Et eksempel er imidlertid spørsmålet om hvorvidt selskaper må gis vern mot tvungen selvinkriminering, som behandles nærmere i punkt 9.3.5.
+
+1.  **Kort om ulike typer forpliktelser for staten**
+
+Overordnede rettsnormer pålegger staten ulike typer forpliktelser. I enkelte tilfeller er det tale om uttrykkelige og mer eller mindre konkrete *krav til lovgivningen*. På straffeprosessens område forekommer slike reguleringer i en ikke ubetydelig utstrekning, ikke minst i konvensjoner om internasjonalt samarbeid, jf. motivene til utkastet del 4 i kapittel 15. Andre eksempler er konvensjonsforpliktelser om at lovgivningen må åpne for bestemte metoder i kriminalitetsbekjempelsen,[^39] og om behandling av persondata i forbindelse med kriminalitet.[^40] Heller ikke slike forpliktelser kan vurderes på et generelt nivå, men må håndteres konkret ved at de søkes identifisert der de har betydning, og at det tas høyde for dem på aktuelle punkter i lovforslaget.
+
+Helt sentralt er ulike *rettighetsbestemmelser*, og særlig *menneskerettighetene*, som fastsetter rammer for lovgivning og praksis uten direkte å tematisere hvordan rettighetene skal sikres. En helt skarp sondring mot forpliktelser som stiller krav til lovgivningen, er det likevel ikke. For eksempel vil det ikke være særlig forskjell på en overordnet rettsnorm som sier at en domfelt skal ha rett til å anke, og en bestemmelse som stiller krav til at lovgivningen har regler om ankeadgang.
+
+En sondring som ofte fremheves, og som også er nedfelt i Grunnloven § 92 hva gjelder menneskerettigheter, er mellom «negative» forpliktelser til å *respektere* rettighetene og «positive» forpliktelser til å *sikre* dem. Plikten til å respektere rettighetene innebærer at rettigheter ikke må krenkes av myndighetsorganer i praksis, mens plikten til å sikre rettighetene – også mot privatpersoners krenkelser – stiller krav til nødvendige tiltak, ikke minst til lovgivningen. Helt adskilte forpliktelser er det ikke tale om; snarere er det tale om en såkalt *dobbel gjennomføringsforpliktelse*, der sikringsplikten ikke kan vurderes uavhengig av den enkelte rettighet.[^41] En viktig side av gjennomføringsforpliktelsene er at straffeprosessuelle inngrep i rettigheter forutsetter lovhjemmel.
+
+1.  **Særlig om Grunnlovens betydning**
+
+Grunnloven er vår formelt høyeste rettskilde, og dens grenser må utvilsomt vurderes og respekteres ved utarbeidelsen av utvalgets forslag. Det er heller ikke tvil om at Grunnloven har reguleringer av betydning for straffeprosessen, ikke minst etter grunnlovsreformen i 2014, da det ble tilføyd et nytt kapittel E, *Menneskerettigheter*. Praktiseringen av loven må også skje i lys av andre bestemmelser. For eksempel er Grunnloven § 66 til hinder for å pågripe stortingsrepresentanter på vei til Stortinget med mindre de tas for et lovbrudd på veien.[^42]
+
+Et spørsmål er likevel om Grunnloven setter rammer for lovgivningen som ikke uansett følger av andre forpliktelser med et sikrere innhold, ikke minst EMK. Ser man kun på normformuleringene i tekstene, og tilhørende avklaringer fra Høyesterett og Den europeiske menneskerettsdomstol (EMD), er det nok med få unntak slik at konvensjonsforpliktelsene rekker lenger eller i alle fall lettere lar seg fastslå.[^43] Flere av Grunnlovens bestemmelser om menneskerettigheter er nokså vagt formulert, særlig gjelder det dem som kom inn ved grunnlovsreformen i 2014, og som langt på vei er utformet etter mønster av rettighetsbestemmelser i EMK. I en viss utstrekning kan det være aktuelt å tolke grunnlovsbestemmelsene i lys av parallelle konvensjonsbestemmelser.[^44] Høyesterett har så langt ikke hatt anledning til å presisere de krav som følger av de nye bestemmelsene i Grunnloven i langt nær samme grad som konvensjonsforpliktelsene etter EMK er utviklet i nasjonal praksis og av EMD.
+
+Situasjonen kan selvsagt endre seg, og man ser allerede tendenser til at Grunnlovens rettighetsbestemmelser trekkes aktivt inn i Høyesteretts behandling av straffeprosessuelle spørsmål. Man kan ikke utelukke at det er et større potensial for utvikling av rettigheter i medhold av Grunnloven enn med utgangpunkt i EMK og andre konvensjonsbestemmelser. Ikke minst kan en slik utvikling følge som en naturlig konsekvens av at EMD i senere tid, også på straffeprosessens område, kan synes å vike noe tilbake fra å oppstille klare materielle skranker for statene, og heller har vurdert den nasjonale prosessen frem mot det innklagede vedtaket.[^45]
+
+Situasjonen per i dag er at Grunnloven i nokså begrenset grad presiserer norminnhold utvalget må forholde seg til i større grad enn det som følger av våre konvensjonsforpliktelser. Grunnlovsreformen innebærer imidlertid en understreking av sentrale verdier som bør tillegges vekt ved utformingen av en ny straffeprosesslov.
+
+1.  **Særlig om internasjonale menneskerettsforpliktelser**
+
+Folkerettslige forpliktelser har fått stadig større betydning på straffeprosessens område.
+
+Hva gjelder *menneskerettigheter*, er de grunnleggende konvensjonene av eldre dato. FN-pakten av 26. juni 1945 slo fast Generalforsamlingens ansvar for å overvåke medlemsstatenes forpliktelse til å sikre «universal respect for and observance of human rights and fundamental freedoms for all without distinction to race, sex, language or religion» (artikkel 55 c), og en rettighetskatalog kom til ved FNs menneskerettighetserklæring av 1948. Kort tid senere kom sentrale rettslig bindende instrumenter til: først Den europeiske menneskerettskonvensjon (EMK) i 1950, så FN-konvensjonene om sivile og politiske rettigheter (SP) og om økonomiske, sosiale og kulturelle rettigheter (ØSK) i 1966, i tillegg til en rekke konvensjoner om spesielle rettigheter.[^46]
+
+Men selv om sentrale konvensjonsforpliktelser er av eldre dato, har menneskerettigheter fått stadig større praktisk betydning i norsk straffeprosess de senere tiår, ikke minst gjennom EMKs og EMDs innflytelse:
+
+«Selv om konvensjonen er fra 1950 (i kraft for Norge fra 1953), gikk det lang tid før en for alvor ble oppmerksom på den. Tross uvitenhet, skepsis og nøling i startfasen, har gjennomføringen i det store og hele skjedd i et harmonisk samspill mellom internasjonale og nasjonale myndigheter, også før lovgiveren i 1994 aktivt hentet dette internasjonale rettsstoffet hjem ved Grl. § 110 c (nå § 92) og den oppfølgende menneskerettsloven \[…\].»[^47]
+
+Menneskerettskonvensjonene som skranke for lovgivningen fikk liten oppmerksomhet i arbeidet som ledet frem til vår gjeldende straffeprosesslov. Straffeprosesslovkomiteens innstilling nevner ikke problemstillingen, og i proposisjonen er det bare for noen få spørsmål vist til konvensjonsforpliktelser uten videre problematisering. Andenæs uttaler om dette:
+
+«Forarbeidene til straffeprosessloven inneholder så å si ingenting om de bånd som menneskerettskonvensjonene legger på de enkelte lands straffeprosess. Det kan i ettertid synes påfallende, men har sin naturlige forklaring. Europakonvensjonen var ikke den gang så kjent som nå, EMDs praksis var meget sparsom, og under lovarbeidet forestilte man seg ikke at den nye lov, hvor det var lagt stor vekt på å sikre siktedes rettssikkerhet, skulle kunne komme i strid med menneskerettighetene. Akkurat dette kan jeg uttale meg om med autoritet, siden jeg var formann i den komité som utarbeidet lovforslaget.»[^48]
+
+I Høyesteretts praksis ble således EMK omhandlet i åtte saker gjennom hele 1980-tallet, mens konvensjonen ble nevnt i 177 avgjørelser i løpet av 1990-tallet.[^49] Ser man på utviklingen av EMDs praksis, finner man en meget sterk utvikling i saksmengden. Siden etableringen av domstolen i 1959 og frem til 2015 tok den stilling til omkring 674 000 klager og avsa omkring 18 500 dommer – og nær 95 prosent av dommene har kommet til etter årtusenskiftet.[^50] Selv om mange av avgjørelsene ikke angår straffeprosessen – eller for øvrig er uten særlig betydning for Norge –, må man nå forholde seg til et meget stort kildetilfang ved tolkingen av EMK. Til dette kommer at andre overvåkingsorganers konvensjonspraksis har betydning for forståelsen av ulike menneskerettighetsforpliktelser, for eksempel FNs menneskerettskomité (HRC) for så vidt gjelder SP.[^51] Konvensjonsorganers tolkningspraksis har bidratt til at rettighetene er blitt nærmere presisert, og det er derfor heller ikke overraskende at forholdet til menneskerettskonvensjoner er et hyppigere tema i norsk rettspraksis enn det var tidligere. Dette har også en klar sammenheng med vedtakelsen av menneskerettsloven i 1999. Loven fastslår i § 2 at nærmere angitte menneskerettskonvensjoner og protokoller «skal gjelde som norsk lov i den utstrekning de er bindende for Norge», og disse reguleringene skal etter § 3 «ved motstrid gå foran bestemmelser i annen lovgivning».
+
+I tilknytning til menneskerettighetene er det også særlig grunn til å nevne den straffeprosessuelle rettighetsreguleringen innen EU, som er av interesse selv om det ikke er tale om EØS-relevant regelverk.[^52] Av interesse er både EUs charter om grunnleggende rettigheter,[^53] og ikke minst arbeidet som pågår om mistenktes rettigheter, se nærmere punkt 9.4.2.4.
+
+Foruten de folkerettslige forpliktelsene finnes det en stor mengde internasjonale instrumenter som uten å være rettslig forpliktende gir menneskerettslige *anbefalinger* av interesse for straffeprosessen.[^54]
+
+1.  **Rettigheter av betydning for straffeprosessen. Retten til en rettferdig rettergang**
+
+De ulike menneskerettighetene av betydning for straffeprosessen, slik de er vernet i blant annet Grunnloven og EMK, er etter hvert velkjente i norsk rettsliv, og dette er ikke stedet for en detaljert fremstilling av rettighetene på generelt nivå – ikke minst i lys av det meget omfattende kildematerialet som er kort skissert i foregående punkt.[^55]
+
+Helt sentralt for arbeidet med en ny straffeprosesslov står selvsagt ulike sider ved retten til en rettferdig rettergang, jf. Grunnloven § 95 og EMK artikkel 6. Sistnevnte bestemmelse omfatter en rekke ulike aspekter som det knytter seg en meget omfattende praksis til, og som berøres på en rekke punkter i utredningen. En del sentrale rettigheter omtales også under fremstillingen av straffeprosessuelle prinsipper i det følgende.
+
+1.  **Straffeprosessuelle prinsipper og grunntrekk**
+
+    1.  **Straffeforfølgningsplikten og opportunitetsprinsippet**
+
+Straffeprosessens overordnede mål er å realisere straffansvar. Når lovgivende myndighet har besluttet at visse handlinger skal være belagt med straff, tilsier hensynene til håndheving av den materielle retten og til likebehandling at det må påhvile påtalemyndigheten lojalt å forfølge slike handlinger. I tråd med dette er lovens utgangspunkt at påtalemyndigheten har plikt til å forfølge straffbare handlinger, jf. straffeprosessloven § 62 a første ledd:
+
+«Den offentlige påtalemyndighet skal påtale straffbare handlinger når ikke annet er bestemt ved lov.»
+
+Et rettssystem der utgangspunktet om påtaleplikt er mer eller mindre absolutt, sies gjerne å bygge på et *straffeprosessuelt legalitetsprinsipp*. Flere land i Europa – for eksempel Tyskland og Sverige – har legalitetsprinsippet som et grunnleggende prosessrettslig utgangspunkt.
+
+I Norge begrenses imidlertid straffeforfølgningsplikten av *opportunitetsprinsippet*, som innebærer at påtalemyndigheten har en viss skjønnsmessig adgang til å unnlate å igangsette straffeforfølgning selv om de rettslige og faktiske betingelser for forfølgning er til stede. Det følger således av straffeprosessloven § 62 a første ledd at påtaleplikten bare gjelder så langt «ikke annet er bestemt ved lov». Etter flere regelsett har påtalemyndigheten – på ulike stadier av straffesaksbehandlingen og etter mer eller mindre skjønnspregede vurderingskriterier – adgang til å unnlate etterforsking og videre straffeforfølgning, selv om det er klart at vilkårene for straffansvar foreligger.
+
+Det klareste eksempel på opportunitetsprinsippets gjennomslag er reglene om *påtaleunnlatelse*, jf. straffeprosessloven §§ 69 og 70. Bestemmelsen i § 69 første ledd fastslår at «\[s\]elv om straffeskyld anses bevist, kan påtalemyndigheten når helt særlige grunner tilsier det, unnlate å påtale handlingen». En slik avgjørelse kan gjøres betinget, eventuelt på nærmere bestemte vilkår, og den innebærer en skyldkonstatering og en strafferettslig reaksjon, men medfører ingen sanksjoner utover dette.
+
+I kravet om «helt særlige grunner» ligger en presumsjon for påtale i form av tiltale, eventuelt forelegg eller tilståelsespådømmelse der det er aktuelt, mens påtaleunnlatelse må begrunnes. Kriteriet er imidlertid utpreget skjønnsmessig, og bestemmelsen setter ingen absolutte grenser for hvilke overtredelser som kan avgjøres ved påtaleunnlatelse. Sentrale momenter for vurderingen vil følge av om begrunnelsene for bruk av straff gjør seg gjeldende, slik som for eksempel allmennpreventive hensyn, særlige forhold hos lovbryteren mv.
+
+Påtaleunnlatelse benyttes ofte ved mindre alvorlige forhold, atypiske overtredelser på siden av de tilfeller loven er myntet på, overfor førstegangsovertredere, spesielt unge eller aldrende lovbrytere mv. For utlendinger som er eller er i ferd med å bli utvist fra riket, kan også påtaleunnlatelse være en praktisk avgjørelsesform for å få en avslutning av saken. Påtaleunnlatelse har også vært benyttet i tilfeller der en videre straffeforfølgning etter omstendighetene ville ramme gjerningspersonen uforholdsmessig hardt.
+
+Straffeprosessloven § 70 første ledd åpner for *påtaleunnlatelse av prosessøkonomiske grunner*: «Påtale kan unnlates når reglene for straffutmålingen ved sammenstøt av flere lovbrudd medfører at ingen eller bare en ubetydelig straff ville komme til anvendelse.» Bestemmelsen er begrunnet i subsidiaritetshensyn, det vil si at den mistenkte er eller vil bli ilagt en tilstrekkelig straff for andre forhold.[^56] Også her kreves at skyldspørsmålet er avklart. Vilkårene er mindre skjønnspregede og anvendelsesområdet vesentlig snevrere enn etter § 69, men formuleringen om at påtale «kan» unnlates forutsetter et skjønn over om adgangen skal benyttes.
+
+Med vedtakelsen av straffeloven i 2005 ble reglene om *betinget offentlig påtale* endret, og ordningen med påtalebegjæring fra fornærmede ble avskaffet. I stedet fikk man straffeprosessloven § 62 a annet ledd, som fastslår at påtale kan unnlates i saker med en strafferamme på inntil to år når ikke *allmenne hensyn* tilsier at forholdet bør forfølges:
+
+«For overtredelse av straffebud med en strafferamme på 2 år eller lavere kan påtale unnlates hvis ikke allmenne hensyn tilsier påtale. Ved vurderingen av om allmenne hensyn foreligger, legges det blant annet vekt på overtredelsens grovhet, hensynet til den alminnelige lovlydighet og om den fornærmede, en annen som har lidt skade ved overtredelsen, eller vedkommende berørte myndighet ønsker påtale.»
+
+Bestemmelsen i § 62 a annet ledd bruker formuleringen «kan påtale unnlates», men det er ikke tale om påtaleunnlatelse i egentlig forstand, ettersom det ikke kreves at straffskyld anses bevist som etter §§ 69 og 70. Avgjørelsen om å unnlate videre forfølgning fordi allmenne hensyn ikke krever påtale, kan treffes før saken er ferdig etterforsket, og medfører i alle tilfeller at forholdet henlegges.[^57]
+
+Også avgjørelsen *om hvorvidt etterforsking kan og skal iverksettes,* krever en skjønnsmessig vurdering, jf. punkt 14.2.3 om vilkår for etterforsking. Kriteriet «rimelig grunn» i straffeprosessloven § 224 innebærer at det også «på dette stadium \[kan\] utøves et skjønn innenfor rammen av det opportunitetsprinsipp som gjelder i norsk straffeprosess».[^58]
+
+I drøftelser av opportunitetsprinsippet nevnes ofte også sakene som blir «oppgjort på stedet» (OPS-sakene). Det vil si tilfeller der politiet i sin ordenstjeneste kommer over forhold som i prinsippet er straffbare, men der en likevel nøyer seg med å gi mistenkte en advarsel, irettesettelse eller lignende, eventuelt kombinert med et polisiært tiltak, for eksempel bortvisning. I realiteten blir det avgjort på tjenestemannsnivå at saken ikke skal etterforskes. Om denne praksis uttaler riksadvokaten:
+
+«I praksis er det akseptert en skjønnsmessig adgang for polititjenestemenn til å løse bagatellsaker på stedet (OPS – ‘oppgjort på stedet’). I slike tilfeller settes det ikke i gang etterforsking og det skrives ikke rapport eller anmeldelse. Rundskrivet her gjør ingen endring i dette.»[^59]
+
+Et spørsmål som har vært noe omdiskutert, er om – eller i hvilken grad – kriteriet «rimelig grunn» i straffeprosessloven § 224 gir påtalemyndigheten adgang til å henlegge forhold på grunn av manglende kapasitet til å etterforske saken. Slike henleggelser forekommer i praksis – blant annet henlegges et stort antall straffesaker hvert år på grunn av manglende etterforskingskapasitet. Mange finner praksisen vanskelig å akseptere, ikke minst gjelder dette for saker med antatt kjent gjerningsperson, der en tilstrekkelig etterforsking må antas å kunne gjennomføres med begrenset ressursbruk. Men også de aller fleste saker av denne typen vil uansett kreve et minimum av etterforsking før det eventuelt kan treffes påtaleavgjørelse, slik som avhør av mistenkte og vitner mv. Med dagens kapasitet i politiet og påtalemyndigheten ville det være en umulig oppgave å forfølge alle straffbare forhold. Det er således også anerkjent i både teori og praksis at påtalemyndigheten har adgang til å prioritere hvilke saker som skal etterforskes, og hvilke som skal henlegges av kapasitetsgrunner.[^60]
+
+Mer tvilsomt er det om påtalemyndigheten – utenfor tilfellene som reguleres av straffeprosessloven § 62 a annet ledd – kan henlegge ferdig etterforskede forhold når vilkårene for å gjøre straffansvar gjeldende er til stede. Det vil i så fall være tale om *henleggelse på ulovfestet grunnlag*, hvilket ikke umiddelbart fremstår som forenlig med ordlyden i § 62 a første ledd eller den tradisjonelle forståelse av straffeloven 1902 § 77. Som utgangspunkt er det ikke adgang til henleggelse i disse tilfellene.[^61] Det er imidlertid eksempler på at også denne formen for henleggelser i en viss utstrekning forekommer i påtalemyndighetens praksis.[^62] Det skjer endog at saker henlegges etter at tiltale er tatt ut, på grunn av manglende aktorkapasitet.
+
+Utvalgets overveielser om straffeforfølgningsplikten og gjennomføringen av opportunitetsprinsippet i ny straffeprosesslov er drøftet i punkt 8.3.2 og 8.3.3.
+
+1.  **Anklageprinsippet**
+
+Anklageprinsippet innebærer at en egen påtalemyndighet eller eventuelt en privat anklager, og ikke domstolene, skal ta initiativ til rettsforfølgning, jf. maksimen «uten anklager ingen dommer» (*nemo judex sine actore*).[^63] Anklageprosess er således et motstykke til prosessordninger som bygger på inkvisitoriske prinsipper, der ansvaret for etterforskingen eller initiativet til straffeforfølgning helt eller delvis hører under den dømmende makt.
+
+Anklageprinsippet er et utslag av tanken om behov for maktfordeling: Straffeforfølgning er en inngripende form for myndighetsutøvelse, og de hensyn som ligger til grunn for å skille mellom lovgivende, utøvende og dømmende makt – at statsmaktene skal holde hverandre i tømme slik at man unngår vilkårlig maktutøvelse og dermed verner om borgernes frihetssfære – gjør seg sterkt gjeldende. Om påtalemyndighetens stilling som uavhengig av den øvrige utøvende makt, se punkt 8.2.1.
+
+En slik gjennomføring av maktfordelingsprinsippet har for en del vært begrunnet med de faglige krav som må stilles til påtalemyndigheten, og med uavhengighetens betydning for oppgaveløsningen.[^64] Anklageprinsippet har dessuten blitt begrunnet med at domstolenes uavhengighet og uhildethet vil kunne bli utfordret dersom en dommer involveres aktivt i utformingen av det faktiske og rettslige grunnlaget for anklagene mot tiltalte.[^65]
+
+Straffeprosessloven § 63 foreskriver i tråd med anklageprinsippet at domstolenes aktivitet forutsetter påtalemyndighetens initiativ:
+
+«Domstolene trer bare i virksomhet etter begjæring fra en påtaleberettiget, og deres virksomhet opphører når begjæringen blir tatt tilbake.»
+
+Påtalemyndigheten er, som en konsekvens av den funksjons- og kompetansedeling som ligger til grunn for reguleringen, organisatorisk adskilt fra domstolene.
+
+Det er nær forbindelse mellom anklageprinsippet og vår rettergangsordning som en *partsprosess*. Det er påtalemyndigheten som trekker opp rammene for saken. Retten skal bare avgjøre «det forhold tiltalen gjelder», jf. straffeprosessloven § 38 første ledd første punktum, og det er påtalemyndigheten som har hovedansvaret for å føre tilstrekkelig bevis for tiltaltes straffskyld. Retten er imidlertid i utgangspunktet ubundet både av partenes anførsler, den foreslåtte subsumsjon og påtalemyndighetens straffepåstand. Og selv om det er partene som har det primære ansvar for bevisføringen, har også retten et visst selvstendig ansvar for sakens opplysning, særlig under hovedforhandlingen, jf. straffeprosessloven § 294.
+
+Straffeprosessen har følgelig ikke samme preg av partsprosess som *sivile saker,* der partene i større utstrekning kan binde retten ved sine prosesshandlinger. I sivilprosessen innebærer således *disposisjonsprinsippet* at domstolen ikke kan pådømme et krav som ikke er brakt inn i saken av noen av partene, eller gå utenfor partenes påstander.[^66] *Forhandlingsprinsippet* går ut på at partene har hovedansvaret for å føre bevis og gjøre rede for faktiske forhold av betydning for avgjørelsen, samt at domstolen ikke kan bygge sin avgjørelse på et annet faktisk grunnlag (påstandsgrunnlag) enn det som er påberopt av en part.[^67] Forskjellene er en konsekvens av at partene i sivile saker i alminnelighet kan gjøre avtale om rettsforholdene seg imellom i kraft av prinsippet om avtalefrihet.
+
+At retten i straffesaker kan forholde seg noe friere til partenes disposisjoner, har sammenheng med den offentlige interesse i at straffelovgivningen håndheves etter lovgivers intensjoner, og at en tradisjonelt har oppfattet domstolene som en garantist for ivaretakelsen av denne interessen. Liknende betraktninger ligger til grunn for sivilprosessens regler i saker uten fri rådighet, der såkalte offentlige hensyn gjør seg gjeldende, og hvor loven gjør unntak fra disposisjons- og forhandlingsprinsippet, se tvisteloven § 11-4.
+
+Anklageprinsippet har også en side til *konsentrasjonsprinsippet*. Gitt den arbeidsdeling som er beskrevet ovenfor, legges bevisføringen naturligvis opp for å belyse nettopp det forhold påtalemyndigheten har brakt inn for domstolen. Går man utenfor den rammen påtalemyndigheten har lagt for saken, vil det gjennomgående gå ut over idealet om en konsentrert prosess. Av lignende grunner har anklageprinsippet en side til *kontradiksjonskravet*, som går ut på at begge parter skal gis adgang til å belyse saken, herunder gis anledning til å motsi motparten.
+
+Strengt tatt er det ingen nødvendig sammenheng mellom et anklageprinsipp og en ordning med offentlig straffeforfølgning. Men vår prosessordning bygger som utgangspunkt på et *stats*anklageprinsipp, der den offentlige påtalemyndighet har anklagerrollen. Straffeprosessloven kapittel 28 har likevel regler som åpner for private straffesaker på nærmere vilkår, herunder at forholdet ikke forfølges av det offentlige, se nærmere kapittel 24. Reglene om riksrett i Grunnloven §§ 86 flg. åpner dessuten for at Stortinget kan anlegge sak mot statsrådets, Høyesteretts eller Stortingets medlemmer for straffbart eller annet rettsstridig forhold ved brudd på konstitusjonelle plikter.
+
+Anklageprinsippet er ikke fullt ut gjennomført etter gjeldende rett: Vår straffeprosess har vært karakterisert som en anklageprosess med visse inkvisitoriske innslag.[^68] Reglene om rettergangsstraff etter domstolloven §§ 213 og 214 innebærer dessuten et unntak fra anklageprinsippet, idet slik straff ikke bare kan ilegges etter begjæring fra partene, men også kan idømmes av domstolene «uten særskilt søksmaal eller tiltale».
+
+Utvalgets generelle overveielser om gjennomføringen av anklageprinsippet i ny straffeprosesslov fremgår i punkt 17.6.2. Anklageprinsippets nærmere gjennomslag bestemmes særlig av reglene om hvordan et saksforhold som bringes inn for retten, skal avgrenses, og om rettens ansvar for sakens opplysning. Se nærmere punkt 17.6.3 til 17.6.7 om rettens forhold til partenes krav og påstander mv. og punkt 13.2.5 om rettens ansvar for sakens opplysning.
+
+1.  **Offentlighetsprinsippet**
+
+Det er et grunnleggende rettsstatsprinsipp at rettsforhandlingene, dersom det ikke foreligger tungtveiende grunner for å gjøre unntak, skal være offentlige. Et viktig formål med prinsippet er å sikre offentlig kontroll med – og mulighet for kritikk av – rettergangen.[^69]
+
+Offentlighetsprinsippet anses som en viktig rettssikkerhetsgaranti for mistenkte, og som et sentralt bidrag til å sikre tilliten til domstolenes virke. I vår straffeprosess har prinsippet lang tradisjon. Hagerup omtaler det slik:
+
+«At rettergangen skal være offentlig, er et i selve straffeprocessens væsen begrundet krav. Skal denne i sandhed være en reaktion mod forbrydelser som et indgrep i det hele samfunds interesser, maa den ikke fremtræde som noget almenheden uvedkommende og fra dens kritik og kontrol unddraget, men maa virke i offentlighedens fulde lys. Kun derved vil den byde fuld garanti for og blant almenheden udbrede følelsen af, baade at samfundet ved den beskyttes, og at den individuelle frihed er betrygget. Den hemmelige proces vil altid \[…\] staa for folkets bevisthed som noget uhyggeligt, noget ubekjendt og uberegneligt \[…\].»[^70]
+
+Hovedregelen om rettergang for åpne dører er forankret i Grunnloven § 100 femte ledd, hvor det heter at «\[e\]nhver har rett \[…\] til å følge forhandlingene i rettsmøter», og i Grunnloven § 95 første ledd, hvor det er slått fast at «\[r\]ettergangen skal være \[…\] offentlig». Offentlighetsprinsippet er også knesatt i EMK artikkel 6 nr. 1, FN-konvensjonen om sivile og politiske rettigheter artikkel 14 nr. 1 og i domstolloven § 124 første ledd, som lyder:
+
+«Rettsmøtene er offentlige og forhandlingene og rettsavgjørelsene kan gjengis offentlig, hvis ikke annet er bestemt i lov eller av retten i medhold av lov.»[^71]
+
+Åpenhet har også sine ulemper. Offentlighet kan være uheldig for etterforskingen, bruk av tvangsmidler og bevisene i saken. Videre tilsier hensynet til mistenkte, fornærmede og andre berørte at det utvises varsomhet med å gi allmennheten tilgang til det som kommer frem under rettergangen. Domstolloven fastsetter således flere begrensninger i offentlighetsprinsippet. Begrensningene er begrunnet i ulike hensyn. Det er særlig tale om vern av enkeltpersoner, hensynet til en effektiv og forsvarlig prosess og hensynet til grunnleggende nasjonale interesser.[^72]
+
+I dag er det særlig gjennom medias dekning av straffesakene at informasjon om prosessen når et bredt publikum. Omtalen i media er imidlertid ikke alltid ønsket og heller ikke alltid treffende. Andenæs og Myhrer viser til at «\[d\]et er en konflikt mellom offentlighet og den enkeltes rettsvern mot uønsket publisitet».[^73]
+
+I tilknytning til pressens rolle har det flere ganger vært reist spørsmål om hvorvidt forhåndsomtale i media hvor det tas stilling til skyldspørsmålet i en sak, skal forbys.[^74] Om dette uttalte Høyesterett i Rt. 1988 s. 314:
+
+«\[I\] Norge råder trykkefrihet og åpenhet omkring rettspleien, og \[det står ikke\] i domstolenes makt å hindre mediaomtale av straffesaker på forhånd. Diskusjonen om hvorvidt dette medfører en risiko for påvirkning av domstolene – og særlig av de legfolk som medvirker i straffesaker – er velkjent i Norge og andre land. En slik mulig risiko kan lede til at spørsmålet reises om å overføre en bestemt straffesak til en annen domstol, men den kan klarligvis ikke lede til at domstolene generelt erklæres uegnet til å behandle saken. Loven har bestemmelser som, så langt det er mulig, skal skape sikkerhet for en upartisk avgjørelse.»[^75]
+
+I England kan forhåndsomtale av straffesaker bli ansett som «Contempt of court».[^76] I dansk rett er det straffbart å fremsette uttalelser som på uforsvarlig måte er egnet til å påvirke dommere, jurymedlemmer mv.[^77] Norsk rett har ikke slike regler, men påtalemyndighetens adgang til å offentliggjøre straffesaksopplysninger er regulert i politiregisterloven § 34, og det er gitt utfyllende bestemmelser i politiregisterforskriften § 9-8, samt nærmere retningslinjer i rundskriv fra riksadvokaten.[^78] Myndighetspersoners offentlige omtale av en straffesak i retning av skyldkonstatering kan etter omstendighetene krenke uskyldspresumsjonen i EMK artikkel 6 nr. 2.[^79] For advokater følger det av punkt 2.4.2 i Advokatforeningens regler for god advokatskikk– som er tatt inn i advokatforskriften kapittel 12 – at advokaten skal hindre faren for forhåndspåvirkning av dommere, lagrette og vitner. Det kan være aktuelt med rettergangsbot etter domstolloven dersom en aktør omgår en beslutning om bevisavskjæring ved å kommunisere beviset til juryen gjennom bruk av offentlige kanaler.[^80]
+
+For straffesaksdokumentenes vedkommende har vi ingen hovedregel om offentlighet, i motsetning til det som gjelder for møte- og referatoffentlighet, jf. domstolloven § 124. Domstolsprosessen skiller seg på dette punktet fra forvaltningsprosessen, hvor allmennheten i utgangspunktet har rett til innsyn i forvaltningsdokumentene, jf. offentlighetsloven § 3.
+
+Partsoffentlighet innebærer at partene har rett til å være til stede i alle rettsmøter og til å gjøre seg kjent med alle dokumentene i en sak. Prinsippet er en grunnleggende forutsetning for kontradiksjon og er således synlig på alle stadier i saken, se for eksempel straffeprosessloven § 244, som fastsetter partenes rett til å være til stede i rettsmøter under etterforskingen og straffeprosessloven § 280, jf. § 327, som slår fast at tiltalte som hovedregel skal være til stede i hoved- og ankeforhandling inntil dom er avsagt.[^81] Partene har rett til å være til stede i rettsmøter selv om dørene lukkes. Det har også fornærmede og etterlatte som nevnt i straffeprosessloven § 93 a første ledd, jf. domstolloven § 127 annet og tredje punktum.
+
+Innsyn i dokumentene i straffesaken er en grunnleggende prosessuell rettighet.[^82] Innsyn er en forutsetning for den mistenktes mulighet til å kunne imøtegå anklagen mot seg, og er også en forutsetning for flere andre rettssikkerhetsgarantier.[^83] Etter gjeldende rett har mistenkte, mistenktes forsvarer, fornærmede, etterlatte og bistandsadvokaten som hovedregel krav på innsyn i sakens dokumenter under etterforskingen. Etter at det er reist tiltalte, har aktørene adgang til å gjøre seg kjent med saksdokumentene etter straffeprosessloven §§ 264, 264 a og 267 (tiltalt uten forsvarer), jf. § 327.
+
+Retten til innsyn etter straffeprosessloven utfylles av forpliktelsene som følger av EMK, særlig artikkel 5 og 6. De nærmere grensene konvensjonen oppstiller for retten til dokumentinnsyn, har en rekke ganger vært behandlet av Høyesterett. I Rt. 2003 s. 877 uttalte Høyesterett at spørsmålet om hvorvidt en nektelse av dokumentinnsyn strider mot siktedes prosessuelle rettigheter, beror på en omfattende vurdering av ulike hensyn. Høyesterett viste til at «\[m\]ens det ofte vil være grunnlag for nektelse av dokumentinnsyn på de tidligere stadier i etterforskingen, vil kravet om dokumentinnsyn stå sterkere etter hvert som tiden går» (avsnitt 32).
+
+Utvalgets overveielser om rett til innsyn i straffesaker fremgår i punkt 12.4.
+
+1.  **Bevisumiddelbarhetsprinsippet**
+
+Bevisumiddelbarhet er hovedregelen i vår straffeprosess. Bevisene skal presenteres direkte for retten i sin mest umiddelbare form. Dommerne skal få høre forklaringene fra tiltalte, vitner og sakkyndige og få anledning til å studere dokumenter og øvrige bevisgjenstander. Bevisumiddelbarhet har også en nær side til gjennomføringen av muntlighetsprinsippet, se punkt 5.3.5. Det motsatte av umiddelbarhet er middelbarhet, det vil si at bevisene presenteres via andre kilder, for eksempel ved opplesning eller fremleggelse av en nedskrevet forklaring.
+
+Begrunnelsen for bevisumiddelbarhet er at det antas å gi bedre *beviskvalitet* enn middelbar bevisføring. Ved direkte kontakt med vitner, parter osv. blir bevisvurderingen enklere, og det legges bedre til rette for kontradiksjon. I enkelte saker kan imidlertid et middelbart bevis være bedre enn et umiddelbart, for eksempel når det er tale om bevisføring som gjelder kompliserte tekniske forhold.[^84] Muligheten for lyd- og bildeopptak åpner for at tidsnære forklaringer kan gjengis uten at man taper informasjon slik som ved opplesning av nedtegnede forklaringer. Den vesentlige betenkeligheten ved middelbar vitneførsel knytter seg da til manglende anledning til reell kontradiksjon, se punkt 5.3.6. Antakelsen om bevisumiddelbarhetens sannhetsfremmende funksjoner kommer blant annet til uttrykk ved at Høyesterett viser til prinsippet som begrunnelse for ikke å overprøve lagmannsrettens bevisbedømmelse, selv i situasjoner der det kan være grunn til å «reise spørsmål» ved denne.[^85]
+
+Prinsippet om direkte bevisføring var en revolusjonerende reform ved straffeprosessloven 1887. Tidligere traff domstolen sin avgjørelse basert på protokollerte forklaringer og annet skriftlig bevis («sakens akter»). I Høyesterett er bevisføringen fortsatt middelbar, slik at den skjer ved opplesing fra saksdokumentene, jf. straffeprosessloven § 340. Ellers kan middelbart bevis tillates når umiddelbart bevis ikke kan skaffes, eller som supplement til det umiddelbare.[^86]
+
+En forutsetning for bevisumiddelbarhet var tidligere at den som skulle forklare seg, møtte opp i rettssalen. Med vår tids teknologi kan retten motta forklaringer selv om vedkommende befinner seg langt unna rettssalen.[^87]
+
+Bevisumiddelbarhetsprinsippet er ikke direkte lovfestet i straffeprosessloven, men kommer til uttrykk i flere paragrafer, herunder de enkelte bestemmelsene om bevismidler, se nedenfor. I utgangspunktet gjelder bevisumiddelbarhetsprinsippet bare for rettens behandling av skyldspørsmålet og ikke for straffespørsmålets vedkommende.[^88]
+
+Hovedregelen er at bevisføringen er umiddelbar under hovedforhandlingen i tingretten og ankeforhandling i lagmannsretten. Utenfor hovedforhandlingen kan bevisføringen være middelbar. Når retten tar stilling til spørsmål om bruk av tvangsmidler, eller når retten settes som tilståelsessak etter straffeprosessloven § 248, har dommeren sakens dokumenter foran seg. Tilsvarende gjelder for påtalemyndighetens avgjørelser.
+
+Når bevisføringen er umiddelbar, er utgangspunktet at den som har noe å forklare, skal gi forklaringen direkte for retten. Imidlertid lar bevisumiddelbarhetsprinsippet seg ikke alltid gjennomføre fullt ut, for eksempel fordi det kan medføre store kostnader eller ulemper. Straffeprosessloven tillater derfor på visse vilkår opplesning av tidligere avgitte forklaringer i stedet for direkte avhør, jf. straffeprosessloven §§ 290, 296, 297, 299 og 300.
+
+Under saksforberedelsen kan det bli aktuelt å sikre vitneforklaringer gjennom rettslig bevisopptak etter straffeprosessloven §§ 269 til 271. Straffeprosessloven §§ 290, 296 og 297, jf. § 327, bestemmer når et bevisopptak kan brukes under hovedforhandlingen. Et vitne som er avhørt av politiet under etterforskingen, må i utgangspunktet føres på ny under hovedforhandlingen.[^89] Straffeprosessloven §§ 239 flg., jf. § 298, fastsetter særlige regler for tilrettelagt avhør, som kan sies å være en særegen form for bevisopptak i regi av politi og påtalemyndighet.[^90]
+
+Adgangen til å lese opp *tiltaltes* tidligere forklaring reguleres av straffeprosessloven § 290. Bestemmelsen skiller ikke mellom forklaringer gitt til politiet og forklaringer avgitt i retten.[^91] Brudd på vilkårene for opplesning vil være en saksbehandlingsfeil som kan føre til opphevelse av dommen. Straffeprosessloven § 290 stenger etter sin ordlyd ikke for bevisføring om tiltaltes tidligere forklaring. I utgangspunktet kan for eksempel en politibetjent som har foretatt avhør av tiltalte, føres som vitne om forklaringens innhold.[^92]
+
+Etter bestemmelsen er opplesning tillatt når det foreligger «motstrid mellom \[tiltaltes\] forklaringer, eller når det gjelder punkter som han nekter å uttale seg om eller erklærer at han ikke husker». Når tiltalte ikke møter, er det ingen begrensninger i adgangen til opplesning. Bestemmelsen gjelder tilsvarende for skriftlig erklæring tiltalte tidligere har gitt «i anledning saken». Begrensningene i § 290 gjelder således ikke når forklaringen har blitt til i forbindelse med en annen sak eller uten sammenheng med noen bestemt sak.
+
+Forut for hovedforhandlingen kan tiltalte ha avgitt forklaring til offentlige kontroll- og undersøkelsesmyndigheter. Dersom en slik forklaring foranlediger straffeforfølgning, er adgangen til opplesning av forklaringen i straffesaken regulert av straffeprosessloven § 290.[^93] Er forklaringen avgitt under forklaringsplikt, kan det aktualisere spørsmål om vern mot selvinkriminering, jf. SP artikkel 14 nr. 3 bokstav g og EMK artikkel 6 nr. 1.[^94]
+
+Bestemmelsene i §§ 296 annet ledd og 297 regulerer opplesning av forklaringer fra *vitner* og er etter forarbeidene ment å gjelde for hele hovedforhandlingen, ikke bare behandlingen av skyldspørsmålet.[^95] Straffeprosessloven § 296 annet ledd regulerer situasjonen hvor et vitne er til stede i retten, og tillater opplesning på samme vilkår som for en tiltalt som er til stede, jf. ovenfor. Adgangen til å lese opp en forklaring fra et vitne som ikke er til stede, er åpen «såfremt muntlig avhør ikke er mulig eller ville medføre uforholdsmessig ulempe eller utgift», jf. straffeprosessloven § 297. Straffeprosesslovens regler om vitneførsel bygger altså på et sterkt utgangspunkt om at vitner skal forklare seg umiddelbart for den dømmende rett. Unntakene fra bevisumiddelbarhet begrenses dessuten av kontradiksjonsprinsippet og mistenktes rett til krysseksaminasjon etter EMK artikkel 6, se punkt 13.5.2.
+
+Bevisumiddelbarhetsprinsippet utgjør, med sine innarbeidende unntak, en sentral del av norsk prosesskultur og -tradisjon. Se om prinsippets gjennomslag også punkt 6.5.4, 13.5.1 og 18.2.2.
+
+1.  **Muntlighetsprinsippet**
+
+Muntlighetsprinsippet innebærer at bevismaterialet skal presenteres muntlig for retten, for eksempel ved at dokumenter leses opp, og at forhandlingene for retten skjer ved muntlige innlegg. Prinsippet er nær knyttet til bevisumiddelbarhetsprinsippet og offentlighetsprinsippet.[^96] I juridisk teori har sammenhengen mellom muntlighet og direkte bevisføring blitt beskrevet slik:
+
+«Men det ses let, at mundtligheten staar i nær forbindelse med bevisumiddelbarheden, og at denne kun under en mundtlig rettergangsform kan finde en fuld udvikling. Mundtlighetens store betydning i den moderne proces har netop været den – ved siden af at betrygge offentligheden \[…\] – at aabne muligheden af en genemført umidelbarhed.»[^97]
+
+Muntlig saksbehandling antas altså å være en forutsetning for gjennomført bevisumiddelbarhet, i tillegg til å legge til rette for offentlighet i rettspleien. Når alle bevis, også de skriftlige, som retten kan legge vekt på, må presenteres muntlig, er det mulig for tilhørerne å kontrollere hvilke bevis retten benytter.[^98] Prinsippet er da også en integrert del av vernet etter EMK artikkel 6 nr. 1 i kraft av at enhver ved avgjørelse av straffesiktelse eller borgerlige rettigheter og plikter, som hovedregel har krav på en «public hearing». Dette innebærer etter EMDs praksis krav til muntlig behandling i minst én instans.[^99] Av EMDs praksis fremgår det for øvrig at retten til muntlighet dessuten knyttes opp mot andre prosessuelle garantier, især retten til kontradiksjon. Dette er blant annet kommet til uttrykk i utformingen av vilkårene for å gjøre unntak fra hovedregelen om muntlige forhandlinger, som er at «no issues of credibility or contested facts \[…\] necessitate a hearing», og at «the courts may fairly and reasonably decide the case on the basis of the parties’ submissions and other written materials».[^100]
+
+Vanligvis fremheves det at muntlig saksbehandling er mer effektivt enn skriftlig saksbehandling, og at prosessformen styrker bevisverdien. Muntlig saksbehandling antas å konsentrere prosessen og gi bedre grunnlag for effektiv prosessledelse. Det vises dessuten gjerne til at dommeren bedre kan bedømme et vitnes troverdighet ved muntlig (og umiddelbar) forklaring, og at enkelte bevismomenter ikke kan tas i betraktning av en dommer som ikke selv har sett materialet.[^101] I en uttalelse fra Høyesterett i forbindelse med arbeidet som ledet frem til tvistemålsloven 1915, het det:
+
+«Den skriftlige gjengivelse av forklaringer er en meget vanskelig sak og vil altid i fuldkommenhet staa langt tilbake for det mundtlige ords naturlighet og farverigdom. Den som har hat nogen praktisk befatning med vor straffeproces vil vistnok tilfulde ha erfaret rigtigheten herav.»[^102]
+
+I tillegg til at muntlighet legger til rette for andre sannhetsfremmende mekanismer, herunder umiddelbar bevisføring og kontradiksjon, er den muntlige fremstillingsformen i seg selv ansett for å virke sannhetsfremmende. Særlig det at bearbeiding og overlevering av kunnskap skjer muntlig, og dermed i sammenhengende forklaringer, har blitt tillagt vekt. I tvisteloven kommer dette til uttrykk i § 24-9 annet ledd, som fastslår at «\[v\]itnet bør normalt gi en sammenhengende forklaring om hele eller bestemte deler av saksforholdet før mer detaljerte spørsmål stilles».
+
+En muntlig behandlingsform kan ha sine ulemper, blant annet kan det knytte seg praktiske utfordringer til en fullstendig gjennomføring av muntlighetsprinsippet. Muntlig saksbehandling stiller store krav til dommerens årvåkenhet og konsentrasjon, særlig i omfattende saker. Ved skriftlig bevisføring gis dommeren mulighet til å gå tilbake og lese forklaringen gjentatte ganger. En annen utfordring knyttet til muntlighet oppstår ved behandlingen av anker. Når behandlingen er muntlig, har det tradisjonelt vært lagt til grunn at bevisvurderingen utelukkende kan prøves gjennom en helt ny behandling av saken, med fare for at man ikke lenger kan fremskaffe de opprinnelige bevismidler. Det kan således bli lagt til grunn et annet faktum i ankeomgangen. Vekten av slike argumenter vil imidlertid svekkes betydelig om forhandlingene og bevisføringen også foreligger på opptak med lyd og bilde.
+
+I vår straffeprosess er hovedregelen at hovedforhandlingen er muntlig, jf. straffeprosessloven § 278 første ledd. Skriftlige bevis skal etter § 302 leses opp for retten. Det følger videre av straffeprosessloven § 305 at domstolen bare kan bygge på de bevis som er ført under hovedforhandlingen. Straffeprosessloven § 296 første ledd fastslår ikke bare hovedregelen om bevisumiddelbarhet for vitnebeviset, se punkt 5.3.4, men også at vitnet skal forklare seg *muntlig* under hovedforhandlingen.
+
+Muntlighetsprinsippet gjelder som et utgangspunkt i alle tre instanser, jf. straffeprosessloven § 327, som bestemmer at «\[a\]nkeforhandling \[…\] gjennomføres etter de regler som gjelder for behandlingen i første instans, så langt de passer og ikke annet er bestemt». Utenfor hovedforhandlingen er imidlertid saksbehandlingen langt på vei skriftlig, for eksempel i fengslingssaker. Skriftlig behandling er også regelen for saksbehandlingen i Høyesteretts ankeutvalg og ved lagmannsrettens siling av anker, jf. straffeprosessloven § 324, som fastslår at avgjørelser etter straffeprosessloven §§ 318 til 323 skal treffes uten partsforhandling. Videre er skriftlig behandling aktuelt ved begrensede anker til lagmannsretten, unntatt straffeutmålingsanker i såkalte seksårssaker, jf. straffeprosessloven § 333. En forutsetning for skriftlig behandling er at partene samtykker. Videre slår straffeprosessloven § 385 fast at anker over kjennelser og beslutninger avgjøres etter skriftlig behandling.
+
+Muntlighetsprinsippet er innarbeidet og legger føringer for utformingen av en ny lov om straffesaksbehandlingen. I mange sammenhenger bidrar det til en effektiv og betryggende behandling, og øker muligheten for en demokratisk kontroll med rettsvesenet.
+
+Kravene til muntlighet i den gjeldende straffeprosessordningen står sterkt, og endringer må nødvendigvis kreve en overbevisende begrunnelse. Utvalgets nærmere overveielser om prinsippets gjennomslag fremgår særlig av punkt 18.2.2 og 18.2.3.
+
+1.  **Kontradiksjonsprinsippet**
+
+Retten til kontradiksjon er et grunnleggende prinsipp både i sivilprosess og straffeprosess. Prinsippet refererer til partenes rett til å ha kjennskap til og mulighet til å imøtegå det rettslige og faktiske grunnlaget for motpartens anførsler, og eventuelt også grunnlag retten vil bygge på av eget tiltak.[^103]
+
+Retten til kontradiksjon skal ivareta flere interesser, herunder de grunnleggende hensyn til sannhetssøken og rettssikkerhet, og til partenes og andres tillit til rettsapparatet. Som det har fremgått, legger også en rekke av de andre straffeprosessuelle prinsippene, ikke minst bevisumiddelbarhetsprinsippet og muntlighetsprinsippet, til rette for kontradiksjon. Det at kontradiksjon virker opplysende, er en grunnfestet og sjelden motsagt oppfatning i vestlig tradisjon. Et tydelig uttrykk for dette er Grunnloven § 100, som verner ytringsfriheten, blant annet i form av kontradiksjon i det offentlige rom. Det er fordi ytringsfrihet anses å sikre «Sandhedssøgen».
+
+Foruten det vern som følger av EMK artikkel 6, har kjernen i kontradiksjonskravet på straffeprosessens område – at mistenkte må gjøres kjent med anklagen og gis anledning til å kunne forsvare seg mot den – tradisjonelt vært innfortolket i domskravet i Grunnloven § 96 første ledd. Men også andre elementer av kontradiksjonsprinsippet vil kunne være av konstitusjonell rang etter vedtakelsen av Grunnloven § 95 og dermed unndratt lovgivers myndighet.[^104]

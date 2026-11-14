@@ -1,1162 +1,302 @@
-# NOU 2017: 9, del 9 av 25 (side 101–112)
+# NOU 2017: 9, del 9 av 24
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2017/8bd6d95e-nou-2017-9.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2017-9/id2545750/
 - Original-PDF: https://www.regjeringen.no/contentassets/1a1e793002264d9cb5b940e673622984/no/pdfs/nou201720170009000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 15 tabeller, 42 figurer, 158 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 101]
-
-NOU 2017: 9
-Politi og bevæpning
-
-En utfordring for byen er sosioøkonomiske
-forskjeller. Disse kommer ofte til uttrykk som
-sosiale forskjeller langs etniske skillelinjer.
-Samtidig pekes det på at etnisitet i seg selv ikke
-er en utfordring. Mangfold er normalen, men
-flere av beboerne med sosiale og økonomiske
-utfordringer har annen etnisk bakgrunn enn
-norsk. Lovbrudd, ordensforstyrrelser og alternative normsett finner man i kriminelle miljøer,
-hos enkeltaktører, familier og på enkeltadresser der ofte rus og psykiatri også er et problem.
-Flere mente at tendensene til lukkede kriminelle miljøer i nærmiljøene var større før.
-Undersøkelsen viser altså at det finnes utfordringer og områder preget av fattigdom og marginalisering. Ingen av disse områdene er steder hvor
-politiet ikke går inn. Undersøkelsens informanter
-opplever at politiet jobber godt med områdene
-som har utfordringer, og at de har fokus på problemområder og jobber for å sikre tilstedeværelse
-av et reelt nærpoliti.
-Undersøkelsen er av begrenset omfang og har
-kun sett på politiets oppfatning av fenomenet. Det
-presiseres også at å intervjue andre samfunnsaktører kunne gitt mer nyanserte funn eller andre
-funn. Like fullt er politiets opplevelse av hvorvidt
-deler av samfunnet fungerer på siden av storsamfunnet, viktig kunnskap i denne sammenhengen.
-Rapporten fra Oslo Politidistrikt gir ikke grunnlag
-for å hevde at det finnes parallellsamfunn i Oslo,
-men kan tvert indikere at det ikke forekommer
-slike delsamfunn. Den underbygger således at
-beskrivelsene fra Sverige ikke er gjeldende for
-Norge.
-
-6.6
-
-Andre relevante trekk fra
-samfunnsutviklingen
-
-6.6.1 Psykiatriutvikling og politihåndtering
-Dette delkapittelet vil redegjøre for forskning og
-annen kunnskap om politioppdrag hvor de politiet
-møter oppfattes som psykisk syke. Bakgrunnen
-for dette er særlig at polititjenestepersoner overfor utvalget har trukket frem at det har vært en
-økning i det de omtaler som psykiatrioppdrag, og
-at dette er en samfunnsutvikling av betydning for
-bevæpningsspørsmålet. Polititjenestepersonene
-opplever risiko forbundet med disse oppdragene
-og det fortelles om høy grad av uforutsigbarhet
-knyttet til dem. Et distrikt beskrev i møte med
-utvalget at de opplever psykiatri og rus som en
-større del av hverdagen enn før, og fra et annet
-distrikt ble det vist til psykisk ustabile med våpen/
-
-101
-
-Kapittel 6
-
-kniv, og samfunnets håndtering av psykisk syke,
-som svar på spørsmålet om det er noe i samfunnsutviklingen som gjør at politiet har behov for
-generell bevæpning. Samtidig ble det poengtert at
-slike oppdrag alltid har vært en del av politiets
-oppdragsportefølje. Å vite noe om utviklingen på
-dette feltet er viktig for å vite om det har skjedd
-sentrale endringer i politiets arbeidshverdag.
-Det eksisterer altså flere antakelser om oppdrag med psykisk syke involvert. Forskning har
-også beskrevet dette, blant annet Haugland
-(2015) og Kaasa og Repål (2010). Derfor har utvalget sett nærmere på omfang og utvikling av slike
-oppdrag, samt på eventuell voldsrisiko knyttet til
-ulike former for psykisk sykdom.
-Politiet møter ofte personer med ulike former
-for lidelser, både i forbindelse med arbeid med
-ulike former for kriminalitet, men også i situasjoner som ikke handler om lovbrudd. Det kan være
-bistandsoppdrag til helsevesenet15 eller å søke
-etter savnede og/eller suicidale personer. I noen
-tilfeller er politiet den første offentlige instansen
-som møter en person med psykisk sykdom. I
-andre tilfeller blir politiet tilkalt når andre instanser ikke har nødvendig kapasitet eller ressurser til
-å håndtere den syke. Politilovens § 12 pålegger
-politiet en hjelpeplikt ovenfor syke personer, og
-helselovene har bestemmelser om bistandsplikt
-overfor andre offentlige tjenester.
-Et relevant moment knyttet til hvorfor politiet
-har en opplevelse av at det er flere oppdrag knyttet til psykiatri enn tidligere, har sammenheng
-med den samfunnsutvikling vi har vist til, hvor kriminaliteten på en god del områder viser nedgang.
-Dersom det blir færre oppdrag knyttet til ulike
-grovere kriminalitetsformer, vil nødvendigvis
-andelen oppdrag knyttet til psykiatri kunne bli
-større, dersom det ikke også er nedgang på dette
-feltet. I sin trendrapport for 2017 påpeker Oslo
-Politidistrikt dette: «Nedgangen i kriminaliteten
-generelt kan også bidra til at psykiske problemer
-fremstår som en mer synlig drivkraft bak morgendagens kriminalitet» (Sætre et.al 2015, s. 9).
-I mange alvorlige hendelser kan psykisk sykdom være en del av bildet. IPCC (Independent
-Police Complaints Comission, Storbritannias svar
-på Spesialenheten) finner at i saker som ble etterforsket av IPCC, hadde en av fem problemer med
-mental helse (IPCC, 2016). Samtidig finnes det
-15
-
-Politidirektoratet og Helsedirektoratet har utgitt et rundskriv for å klargjøre ansvars- og oppgavefordelingen de to
-etatene i forhold til personer med psykiske lidelser og for å
-styrke og forenkle samarbeidet (se «Helsetjenesten og politiets ansvar for psykisk syke: Oppgaver og samarbeid»,
-Rundskriv 2012/007, 15-5/2012)
-
-[Side 102]
-
-102
-
-Kapittel 6
-
-NOU 2017: 9
-Politi og bevæpning
-
-solid kunnskap om at psykisk syke er en ekstra
-utsatt gruppe. Blant annet finner IPCC at denne
-gruppen er signifikant mer utsatt for bruk av
-våpen og elektrosjokkvåpen (Taser) fra politiets
-side, og at blant dødsfallene i, eller i etterkant av,
-politiets varetekt er mental helse en faktor i to av
-fem.
-
-6.6.1.1 Omfang og utvikling
-Antakelsen om at det er en økning i antall psykiatrioppdrag for politiet, og at disse oppdragene er
-farligere enn tidligere, gjør det nødvendig å se
-nærmere på utviklingen i omfang og farlighet. Det
-er svært utfordrende å skulle si noe om hvorvidt
-det er flere hendelser som involverer psykisk
-syke personer nå enn før, og hvorvidt disse hendelsene er forbundet med større fare enn før. Det
-er ikke funnet dokumentasjon på verken opp- eller
-nedgang i omfang av psykiske lidelser som involverer farlighet. Det er vanskelig å finne dokumentasjon på utviklingen i psykisk sykdom hos befolkningen over tid, og slike tall vil være forbundet
-med stor usikkerhet. En eventuell endring kan
-være påvirket av endrede definisjoner for ulike
-diagnoser, endring i hvor mange av de syke som
-tar kontakt med, eller fanges opp av helsevesenet,
-eller det kan indikere en endring i den faktiske
-forekomsten i befolkningen. For utvalgets del er
-det også relevant å reflektere over hvorvidt det
-kan ha skjedd endringer hos politiet i måten de
-tolker, opplever og/eller håndterer møter med de
-syke.
-Det er viktig å understreke at de aller fleste
-personer som har en psykisk lidelse aldri vil bli et
-politianliggende. Helsedirektoratet er også opptatt
-av å unngå stigmatisering av psykisk syke. I møte
-med utvalget redegjorde de for at lidelser som
-angst og depresjon er relativt vanlig og i løpet av
-livet vil det forekomme hos mellom 15 % og 25 %
-av befolkningen. Forekomsten av psykiske lidelser blant voksne er relativt stabil, men en kan
-muligens se en økning hos unge. Dette er blant
-annet blitt knyttet opp mot økte prestasjonskrav
-og det som er blitt omtalt som «generasjon prestasjon». Slike lidelser har ikke relevans for bevæpningsspørsmålet. Redegjørelsen som følger er
-kun ment å undersøke hvorvidt det finnes hold i
-påstanden om at psykiske lidelser av ulike slag
-øker i omfang. Helsedirektoratet (26.10.2016) ser
-noe vekst innen poliklinisk, ambulant og døgnbehandling (en økning på 5 % fra 2014–2015), noe
-økning i de polikliniske konsultasjonene (13 %
-økning fra 2014 til 2015) og noe økning i antall
-døgnplasser. Dette antas å henge sammen med
-
-utvidet kapasitet i kommunenes behandlingsapparat.
-En indikator for å vurdere om det har vært en
-utvikling i omfang av psykisk syke som politiet
-møter, er å se på tvangsinnleggelser i psykiatrien.
-Det er ikke lett å finne oppdatert, tilgjengelig og
-god statistikk på dette feltet. En gjennomgang av
-tvangsbruken i perioden 2003–2009 viser imidlertid stabile rater i denne perioden (Hjemås, 2011).
-Tilsvarende finner Helsedirektoratet en marginal
-økning på 0,3 prosent i antall innleggelser i årene
-2010–2014 (Helsedirektoratet, 2016). I utredningen Økt selvbestemmelse og rettsikkerhet (NOU
-2011: 9, s. 91) står følgende:
-Beregninger tyder på at antall vedtak om tvang
-økte fra 2001 til 2005, og at endringene fra 2005
-til 2009 har vært små. De siste fem årene har
-det vært mellom 185 og 206 tvangsinnleggelser
-per 100 000 innbyggere per år. Antall vedtak
-om tvungen observasjon kan se ut til å ha gått
-litt ned, ellers er det ingen endringstrekk.
-Blant de tvangsinnlagte ble én av fem tvangsinnlagt mer enn én gang. […] Ca. 4 000 pasienter ble tvangsinnlagt én gang i 2009, 660 ble
-tvangsinnlagt to ganger, 200 ble tvangsinnlagt
-tre ganger, og ytterligere 200 ble tvangsinnlagt
-fra 4 til 18 ganger i 2009.
-Pasienter som er dømt til tvungen psykisk
-helsevern, telles ikke med som tvangsinnlagte
-i tall fra SAMDATA 2009. På forespørsel fra
-sekretariatet, har Helsedirektoratet oppgitt at
-det i 2009 skjedde elleve innleggelser til døgninstitusjoner etter at pasienten ble dømt til
-tvungent psykisk helsevern, mens det skjedde
-omtrent 7 200 tvangsinnleggelser av 5 000 personer etter vanlige innleggelsesprosedyrer.
-Det er store regionale variasjoner og bruken av
-tvang i psykiatrien er høyt i Norge sammenlignet
-med andre land.
-Denne utviklingen kan ikke si noe om farlighet, ettersom psykiske lidelser i all hovedsak ikke
-har noe med farlighet å gjøre. Helsedirektoratet
-(26.10.2016) viser til at de aller sykeste er lite farlige blant annet fordi de er fanget opp av behandlingsapparatet. De kanskje mest farlige er de
-helsevesenet ikke kjenner til; de som ikke er fanget opp, gjerne uten påvist diagnose og som misbruker rusmidler. Ettersom disse ikke er kjent av
-behandlingsapparatet, finnes det liten oversikt
-over omfanget. En annen indikator, som kan si
-noe om omfanget av psykisk syke som er farlige,
-er antall personer som dømmes til tvungent psykisk helsevern. I årsrapporten for 2015 skriver
-
-[Side 103]
-
-NOU 2017: 9
-Politi og bevæpning
-
-Koordineringsenheten at 18 personer ble idømt
-denne særreaksjonen, og at 168 pasienter var
-under aktiv gjennomføring av dom til tvungent
-psykisk helsevern ved utgangen av året» (Oslo
-Universitetssykehus, 2015).
-En annen studie tok for seg ordensoppdrag i
-Oslo (i området rundt Karl Johan) i et ti-årsperspektiv og fant følgende (Furøy, 2012):
-Jeg hadde likevel på forhånd antatt at en relativt stor andel av dem som er involvert i ordensforstyrrelser skulle være psykiatriske pasienter, og hvor oppdragene blir løst ved å overføre
-dem til helsevesen. Mitt materiale viser imidlertid at kun 1 % av disse hendelsene i 1998 ble
-forårsaket av psykiatriske pasienter, mens de
-utgjorde 1,5 % i 2008. Dette er også i samsvar
-med Kaasa og Repåls (2010) undersøkelse av
-PO oppdrag med psykiatriske pasienter, som
-viste at disse pasientene er langt mindre utagerende og farlige enn man kanskje før har antatt.
-
-6.6.1.2 Psykisk sykdom og voldsrisiko
-Bjørkly og Grøndal skriver at selv om det kan se
-ut til at mennesker med alvorlig psykisk lidelse
-har høyere risiko for å begå vold enn andre, er det
-viktig å understreke at det kun er «en liten undergruppe av de med alvorlig psykisk lidelse som har
-utøvd vold» (Bjørkly & Grøndal, 2016, s. 214).
-Noen få psykisk syke mennesker utgjør en risiko,
-og blant annet vil man i oversikter over rettspsykiatriske saker finne igjen gjerningspersoner som
-er eller har vært «psykotiske» (jf. straffeloven.
-Den medisinske diagnosen vil for eksempel være
-vrangforestillinger eller paranoid schizofreni). I
-følge Narud16 (26.10.2016) er det i en studie fremkommet at 20 % av de som hadde begått drap var
-utilregnelige. I en annen studie av rettspsykiatriske saker fra 2013 og 2014 ble det funnet at
-observanden var psykotisk i 8 av 31 saker. Disse
-nivåene har vært stabile over flere år. Studiene av
-andelen psykotiske blant de som har begått drap
-eller drapsforsøk i løpet av de siste tre årene,
-antas ikke å endres vesentlig dersom man ser på
-andre år enn de belyst over. En annen studie
-(Narud, 26.10.2016) har vist at blant Den Rettsmedisinske kommisjonens (DRK) rettspsykiatriske
-vurderinger de tre siste årene, ble 3 av 47 funnet
-«psykotiske» etter straffeloven, én hadde en
-«alvorlig psykisk lidelse» og 13 hadde en «sterk
-16
-
-Kjersti Narud er overlege, dr. med ved Kompetansesenteret for sikkerhets-, fengsels og rettpsykiatri, Helse SørØst,
-Oslo Universitetssykehus
-
-103
-
-Kapittel 6
-
-bevissthetsforstyrrelse» som følge av rus. Personene var siktet for ulike lovbrudd.
-Det er kun et fåtall psykiske lidelser som er
-voldsfremmende. Det er for eksempel slik at
-vrangforestillinger i seg selv ikke kan predikere
-vold, og hørselshallusinasjoner er ikke voldfremmende i seg selv, men det ser ut til at voldbefalende stemmer øker voldsrisikoen noe (studier
-gjengitt av Narud, 26.10.2016).
-Det er liten tvil om at en del lidelser er langt
-mer utbredt blant fengselsbefolkningen enn i
-befolkningen for øvrig – også sammenlignet med
-pasienter hos DPS (flere studier, sitert av Narud,
-26.10.2016). Eksempelvis kan nevnes at antisosialitet17 finnes hos 59 % av fengselsbefolkningen,
-hos 3,4 % ved DPS og kun hos 0,6 % av befolkningen forøvrig. Når det gjelder paranoide18 finnes
-denne diagnosen hos 21 % av fengselsbefolkningen, 11,8 % av de ved DPS og 2,2 % av befolkningen forøvrig. Det er slik at en rekke levekårsproblemer viser en opphopningstendens hos fengselsbefolkningen (se blant annet Friestad og Hansen, 2004 og Skardhamar, 2002).
-
-6.6.1.3 Politiets møter med psykisk syke
-Møter mellom politi og psykiatriske pasienter har
-også blitt studert fra helsesiden. Det kan være
-variasjoner mellom hva politiet kategoriserer som
-psykiatri og de eventuelle diagnoser som gis etter
-medisinsk vurdering. Psykiatrioppdrag utgjør 3 %
-av alle politioppdrag, samlet aktiv tid utgjør 5 % av
-total aktiv tid og kostnaden er i underkant av 1 %
-av politibudsjettet (NOU 2010: 3).
-17
-
-18
-
-Diagnosene her bygger på diagnosekriterier i det offisielle
-diagnosesystemet ICD-10. Her beskrives dyssosial personlighetsforstyrrelse (tidligere kalt antisosial personlighetsforstyrrelse) som en «Personlighetsforstyrrelse kjennetegnet ved likegyldighet for sosiale forpliktelser og uttalt mangel på forståelse for andres følelser. Det foreligger stor
-diskrepans mellom atferd og gjeldende sosiale normer.
-Atferden er ikke særlig påvirkelig av negative erfaringer,
-herunder straff. Pasienten har lav frustrasjonstoleranse og
-lav terskel for aggresjonsutbrudd, herunder voldshandlinger. Det er en tendens til å bebreide andre, eller til å gi
-plausible rasjonaliseringer for den atferden som bringer
-pasienten i konflikt med samfunnet».
-Paranoid personlighetsforstyrrelse er etter diagnosekriterier i det offisielle diagnosesystemet ICD-10 beskrevet som
-en «Personlighetsforstyrrelse kjennetegnet ved overdreven følsomhet for krenkelser, manglende tilgivelse ved fornærmelser, mistenksomhet og tilbøyelighet til å forvrenge
-erfaring ved å oppfatte andres nøytrale eller vennlige
-handlinger som fiendtlige eller hånlige. Tilbakevendende
-ubegrunnede mistanker angående ektefellens eller partnerens seksuelle troskap, og en kamppreget og innbitt holdning til personlige rettigheter er vanlig. Overdreven følelse
-av egen betydningsfullhet, og overdreven selvhenføring
-forekommer ofte».
-
-[Side 104]
-
-104
-
-NOU 2017: 9
-
-Kapittel 6
-
-Politi og bevæpning
-
-Utredningen vil om litt vise til Kaasa og Repåls
-(2010) studie av hendelser kategorisert som psykiatri i politiets systemer. Først skal vi redegjøre
-for en undersøkelse av legevaktens oppdrag som
-viser hva som kjennetegner disse når det gjelder
-psykiatri og behov for politibistand (NOU
-2015: 17, s. 160–161):
-Om lag 6 pst. av henvendelsene til AMK-sentraler er relatert til psykiske lidelser eller rusproblematikk (Zakariassen, Burman & Hunskaar,
-2010). Av disse er 38 pst. forårsaket av akutt
-alkoholmisbruk, mens resten dreier seg om
-forskjellige psykiske plager.
-I en studie fra Hordaland skjedde 30 pst. av
-akuttinnleggelsene fra legevakt til psykiatrisk
-avdeling med assistanse fra politiet (Johansen,
-Mellesdal & Jørgensen, 2012). I en annen studie fra 2012 fra legevakter over hele landet, var
-politiet involvert i 148 av 853 (17 pst.) legevaktkontakter relatert til rus eller psykisk lidelse
-(Johansen, Mellesdal & Jørgensen, 2012). I 83
-pst. av de 148 kontaktene var politiet involvert
-før pasienten kom til legevakten. Disse tallene
-samsvarer med funnene i en rapport fra Vestfold (Kaasa & Repål, 2010). Her blir det oppgitt
-at legevakt eller akuttmottak var melder ved 10
-pst. av alle psykiatrioppdrag. Samtidig var legevakt mottaker i forbindelse med fremstilling for
-innleggelse i 35 pst. av oppdragene, og for
-annen vurdering i 6 pst. av oppdragene.
-Zetterberg (2012) kartla alle oppdrag om
-psykiske lidelser og rus i Trondheim i 2011.
-Det var 511 registrerte oppdrag gjennom hele
-året, og et gjennomsnitt på 1,5 oppdrag per
-døgn. Oppdragene var relativt jevnt fordelt
-gjennom hele døgnet. Av oppdragene ble 17
-pst. vurdert som akuttturer, Det vil si at umiddelbar utrykning av ambulanse var nødvendig.
-I 47 pst. av oppdragene ble det vurdert at det
-var behov for ambulanse uten ventetid (hastetur). Politiet var til stede ved 25 pst. av oppdragene.
-Denne koblingen mellom psykiatri og politiets
-oppdrag, fremkommer også i Haugland (2015, s.
-17–18). Han refererer til en kanadisk undersøkelse som har vist at to av fem mennesker med
-psykisk sykdom hadde blitt arrestert av politiet, at
-ett av 20 politioppdrag eller konfrontasjoner involverte mennesker med psykiske lidelser og at
-mennesker med psykiske lidelser var overrepresentert i skyteepisoder med politiet (Haugland,
-2015).
-
-6.6.1.4 Kjennetegn ved politiets psykiatrioppdrag
-Som vi har vært inne på varierer politioppdragene,
-knyttet til psykiatri i art og alvorlighet, fra rene
-bistandsoppdrag til akutte oppdrag. Hendelser
-etterforsket av IPCC viser at dersom en sammenligner saker der psykisk syke er involvert med
-saker som involverer friske personer, er oppdragene med de psykisk syke oftere et resultat av
-bekymringsmeldinger, og det er tre ganger mindre sannsynlig at kontakten er et resultat av kriminalitet (IPCC, 2016).
-For Norges del finnes det kunnskap om hva
-som kjennetegner psykiatrioppdragene til politiet
-i studien gjennomført av Kaasa og Repål (2010).
-De viser at det finnes mange antagelser om psykisk syke og politioppdrag. Antagelsene de undersøker i studien handler både om farlighet, tidsbruk, manglende tilbud fra hjelpeapparat, gjengangeres dominans i oppdragene og oppdragenes
-art. Studien er et kartleggingsprosjekt av politiets
-psykiatrioppdrag, hvor datagrunnlaget er hendelser fra politiets operasjonslogg (PO).19 De finner
-stor variasjon i de 757 oppdragene de har sett på
-(Kaasa og Repål 2010, s.13):
-Den hyppigste enkeltårsaken viste seg å være
-politibistand til fremstilling og/eller (tvangs-)
-innleggelse, disse henvendelsene står for en
-fjerdedel av henvendelsene[25,3 %][…]126
-startet som politioppdrag – dette innebærer at
-meldingen som kom inn dreide seg om andre
-forhold enn psykiatri, men at oppdraget
-utviklet seg til et psykiatrioppdrag [her finner
-vi ordensforstyrrelser, tvang/trusler, husbråk,
-trafikkforhold mm].
-De dominerende oppdragsformene politiet er
-involvert i, som er kodet med psykiatri, er bistand
-til fremstilling og innleggelse (25,3 % av oppdragene), ulike ordensoppdrag20 (16 %) og meldinger
-om selvmordsfare (ca. 16 %). Andre typer av oppdrag er andre former for bekymringsmeldinger
-(12,6 %). Blant de mindre hyppige formene for
-henvendelser finner vi bistand til AMK/lege/hel19
-
-20
-
-Studien er basert på oppdrag kodet som psykiatri i Vestfold
-Politidistrikt i 2009. Den er altså noen år gammel, men sett
-opp mot kapittelets øvrig kilder om fenomenet psykiatri og
-politi er det grunn til å tro at dette er nokså uproblematisk.
-Dersom ikke annet presiseres legges det til grunn at de
-beskrivelser som hentes ut fra rapporten og brukes i utredning er relevant og beskrivende også i dag.
-Ordensoppdrag brukes her om det Kaasa og Repål (2010,
-s. 14) kaller politioppdrag, oppdrag kategorisert i PO som
-«ordensproblem på offentlig eller privat sted, tvang/trusler, husbråk, trafikkforhold m.m»)
-
-[Side 105]
-
-105
-
-NOU 2017: 9
-Politi og bevæpning
-
-Kapittel 6
-
-4%
-
-7%
-Mental
-illness
-
-26%
-
-10%
-No mental
-illness
-
-22%
-
-15%
-
-35%
-
-37%
-
-63%
-
-11%
-
-5%
-11%
-
-4%
-19%
-
-58%
-
-28%
-
-58%
-
-11%
-
-Firearm1
-
-Taser1
-
-Restraint equipment1
-
-Baton1
-
-Physical strike1
-
-Taken to ground
-
-Physical hold
-
-CS spray/PAVA
-
-Dogs
-
-Figures calculated based on information that was known.
-One person may have had more than one type of force used against them so the precentages will not equal 100%.
-1
-Statistically significant difference
-
-Figur 6.10 Typer makt brukt på personer med og uten psykisk sykdom.
-Kilde: IPCC 2016, s.59
-
-sepersonell/barnevern (6,3 %), personer som selv
-ber om hjelp (5,7 %), meldinger om savnede/
-rømte beboere/pasienter (4,9 %), utagering eller
-fare for utagering i bolig (4,7 %), bistand til tilbakeføring til institusjon (3,2 %), samt seks ulike andre
-henvendelseskategorier som hver utgjør 1,2 %
-eller mindre av den totale oppdragsmengden
-knyttet til psykiatri.
-Politiets oppdrag kan være akutte eller ikkeakutte. Studien viser at 11,5 % av oppdragene var
-utrykningsoppdrag, noe som kan indikere at de
-ble opplevd som akutte. «De fleste psykiatrioppdrag er dermed ikke vurdert til å være hasteoppdrag» (Kaasa og Repål 2010, s. 17).
-
-6.6.1.5 Bruk av makt i psykiatrioppdrag
-De hendelsene den britiske spesialenheten IPCC
-har etterforsket viser at det er mer sannsynlig at
-politiet bruker skytevåpen mot personer med psykiske sykdommer, enn mot personer uten psykisk
-sykdom (IPCC, 2016). Dette gjelder også bruk av
-tvangsutstyr som håndjern og belter, og også elektrosjokkvåpen (Taser). Det er også økt sannsynlighet for gjentatt bruk av elektrosjokkvåpen mot
-disse. Psykisk syke er mindre utsatt for bruk av
-batong og fysiske slag, enn friske personer.
-Studien viser videre at for psykisk syke er
-sannsynligheten for å bli dødelig såret under eller
-etter en hendelse større enn for den øvrige befolkningen. I studien redegjøres det for de ulike dødsårsakene blant de 19 psykisk syke som har dødd i
-
-slike oppdrag. Syv personer døde etter fysisk
-maktbruk eller etter å ha sloss med politiet og
-disse var ofte ruset. Seks personer døde av skudd,
-tre personer tok sitt eget liv, to døde som følge av
-narkotika- og alkoholmisbruk og én døde som
-følge av ulykke/fallskade. IPCC vurderer sakene
-de får inn, og basert på den informasjonen de finner, uttrykker de om det er grunn til bekymring
-for hvordan makt ble brukt. De uttrykker bekymring for 13 % av sakene der det er anvendt makt
-mot psykisk syke. Bekymringsnivået er høyere i
-saker hvor det ikke er psykisk sykdom hos den
-involverte. IPCCs arbeid gir like fullt en indikasjon på at psykisk syke kan være mer utsatt for de
-mest alvorlige maktmidlene politiet har tilgang på,
-og at bruk av makt ovenfor psykisk syke er et
-tema av høy relevans når en drøfter politiets maktbruk. Maktbruken kan selvsagt henge sammen
-med hva slags type oppdrag de psykisk syke er
-involvert i, og hva slags motstand de viser, og
-viser i særdeleshet behovet for kunnskap og kompetanse om psykiatri blant operativt politipersonell.
-Dersom politiet ofte må bruke makt i en oppdragstype kan dette fortelle oss noe om oppdragenes karakter og risikoen forbundet med dem. I 24
-av de 757 oppdragene som ble studert av Kaasa og
-Repål (2010) er det oppgitt bruk av maktmidler fra
-politiets side. Det må her understrekes at det ikke
-foregår noen systematisk loggføring av bruken av
-maktmidler i PO, det er derfor sannsynlig at det
-her er en underrapportering. I studien ble det
-
-[Side 106]
-
-106
-
-Kapittel 6
-
-NOU 2017: 9
-Politi og bevæpning
-
-gjort en vurdering av om makt sannsynligvis ble
-brukt, basert på opplysningene som fremkom om
-oppdraget. Tas disse oppdragene med, er andelen
-oppdrag med maktbruk 5,5 %. Dette tallet stemmer godt overens med statistikk fra Psykiatrisk
-ambulanse (PA) ved Haukeland Universitetssykehus. PA har eksistert siden 2006 og fører oversikt
-over bruk av makt og tvang (se Rapport fra Psykiatrisk ambulanse Bergen, 2016). For oppdrag
-hvor det er gitt bevæpningsordre er tallene sikrere. Kaasa og Repål (2010) viser til at omtalt bruk
-av makt kan innebære bruk av håndjern eller
-fysisk makt, at politiet brøt opp dør/vindu for å
-komme frem, samt bruk av pepperspray. Variasjonen gir et inntrykk av hvilke maktmidler som kan
-være aktuelle i slike hendelser.
-Tallene for bevæpningsordre anses som sikre.
-Av 690 oppdrag hvor operative tiltak ble satt inn
-ble det gitt bevæpningsordre åtte ganger (altså i
-1,15 % av oppdragene). Dette underbygger forståelsen forfatterne har av at politioppdrag som involverer psykisk syke, i all hovedsak ikke er særlig
-dramatiske oppdrag. Det fremkommer ikke om
-det ble truet med våpen, men det ble ikke avfyrt
-skudd i noen av oppdragene. Kjennetegn ved oppdragene var at i fem av de åtte tilfellene dreide det
-seg om selvmordsfare, i to tilfeller gjaldt det
-ordensoppdrag og for ett oppdrag var henvendelsen en person som ba om hjelp til seg selv. Årsaken til at bevæpningsordre ble gitt i oppdrag som
-gjaldt selvmordsfare var at vedkommende hadde,
-eller ble antatt å ha, tilgang til skytevåpen (Kaasa
-og Repål, 2010, s. 18).
-Studien ser også på politiets utsatthet i oppdragene. Det presiseres at disse tallene er forbundet
-med usikkerhet og at det kan være underrapportering også her. I studien har politiet rapportert å
-ha blitt truet med våpen/farlig gjenstand i åtte av
-757 psykiatrioppdrag i 2009. Disse truslene besto
-av syv trusler med kniv og én trussel med slagvåpen.21 Dette viser at det er svært få hendelser
-hvor det er blitt rapportert om trusler mot politiet.
-
-6.6.1.6 Enkelthendelsers påvirkning
-Kaasa og Repåls (2010) konklusjoner imøtegår
-flere vanlige antagelser om psykisk syke og politi.
-De to antagelsene vi her vil fremheve er antagelsen om at det er mange som havner «mellom to stoler» og som ikke har noe tilbud fra hjelpeapparatet,
-og antagelsen om at psykiatriske pasienter er farlige, og oppdragene krever ofte bruk av makt.22
-21
-
-Studien omtaler også vold og trusler mot tjenesteperson,
-dette behandles senere i dette kapittelet.
-
-Når det gjelder antakelsen om at mange havner mellom to stoler, viser Kaasa og Repål, (2010)
-til at frivillighet er det bærende elementet i psykiatrien, og at det er strenge kriterier dersom tvangs
-skal benyttes. Personer kan være «påfallende i
-form av avvikende atferd uten at kriterier for bruk
-av tvang er oppfylt» (Kaasa og Repål, 2010, s 28).
-De beskriver at de personene som er involvert i
-hendelser med utagering, trusler om selvmord,
-selvskading, forvirring og rus ofte er pasienter
-hvor lengre innleggelse ikke har noen effekt: For
-polititjenestemenn som må bruke tid på fremstilling av pasienter de ser på gaten noen dager
-senere, kan nok dette virke frustrerende. Det er
-imidlertid ikke nødvendigvis et tegn på at pasienten faller «mellom to stoler». Dette kan gjelde
-blant annet de som politiet innbringer etter politilovens § 12 (å ta personer som er til fare for seg
-selv eller andre i midlertidig forvaring).
-Når det gjelder påstanden om at psykiatriske
-pasienter er farlige, og oppdragene krever ofte bruk
-av makt, slår rapporten fast at det ikke er grunnlag for å si at psykiatriske pasienter generelt er
-farlige. De fremhever at kun et fåtall hendelser i
-PO er registrert med at politiet har blitt truet med
-gjenstander eller utsatt for vold, og at det kun i
-noen saker ble anvendt, eller er sannsynliggjort,
-at det ble brukt makt (24–38 av 757 saker). De
-viser til en kontrast mellom sitt eget materiale og
-hva som dominerer i samfunnsdebatten og mediene:
-En rekke hendelser som involverer polititjenestemenn og personer med psykiske lidelser
-har fått stor oppmerksomhet i media. Fordi
-traumatiske hendelser huskes bedre enn dagligdagse hendelser kan slike hendelser bli en
-del av polititjenestemenns kollektive hukommelse og bidra til en oppfatning av personer
-med psykiske lidelser som farlige. Ulykkes- og
-skadestatistikk viser dog at det er en rekke
-hendelser som involverer polititjenestemenn
-og personer med en psykisk lidelse [viser til
-ulike tall og undersøkelser][…]Denne rapporten har vist at «psykiatrioppdrag» er en heterogen betegnelse – det er mange ulike typer oppdrag som sorterer under denne betegnelsen.
-Enkelte psykiatrioppdrag vil utvilsomt være
-beheftet med risiko for den enkelte polititje22
-
-De øvrige antagelsene som drøftes er: et lite antall ‘gjengangere’ står for størstedelen av oppdragene, at politiet bruker
-svært mye tid på psykiatrioppdrag, at meldinger kommer ofte
-inn når andre instanser har stengt, dvs. etter klokken 16 og i
-helger og at mange av oppdragene er rene transportoppdrag
-som egentlig tilfaller helsevesenet (Kaasa og Repål, 2010)
-
-[Side 107]
-
-107
-
-NOU 2017: 9
-Politi og bevæpning
-
-nestemann, men dette gjelder også mange
-andre oppdrag som politiet utfører. Det finnes
-ikke grunnlag for å sette merkelappen «farlig»
-på hverken de fleste psykiatriske pasienter
-eller de fleste psykiatrioppdrag (Kaasa og
-Repål, 2010, s. 27).
-Studien viser altså at få, men alvorlige hendelser
-kan feste seg i politiets kollektive hukommelse og
-være med å forme oppfatninger om psykisk syke
-som særlig farlige. Det er grunn til å anta at politiets risikooppfatning forbundet med slike oppdrag,
-i stor grad kan preges av et fåtall, kanskje svært
-alvorlige hendelser, som de enten selv har vært en
-del av, eller som har angått kollegaer.
-I følge Kaasa og Repål (2010) er det altså ikke
-grunn til å hevde at de fleste psykiatriske pasienter er farlige eller at såkalte psykiatrioppdrag
-medfører fare for politiet. Hva kan det da komme
-av at slike saker er så fremtredende i politifolks
-bevissthet når det argumenteres for bevæpning?
-Det kan handle om flere ting. Det kan handle om
-den enkelte tjenestepersons usikkerhet i møte
-med psykisk syke, om enkelterfaringer han eller
-hun har gjort seg, og/eller det kan handle om historiene som fortelles blant kolleger. Flere tjenestepersoner har uttrykt at de opplever møte med
-psykisk syke som uforutsigbart og det kan derfor
-assosieres med fare. Når det gjelder enkelterfaringer, har disse ofte stor betydning for folks vurdering av risiko. Forskning på risikopersepsjon har
-vist at vanlige folk har problemer med å vekte
-sannsynligheter og konsekvenser opp mot hverandre (Brun, 1997, Hellesø-Knutsen, 2013). Vi har
-en tendens til å vurdere sannsynlighet for en hendelse ut i fra hvor lett vi kan hente frem tilfellet
-eller hendelsen i tankene (Bazerman, 2006).
-Enkelthendelser som har opplevdes som truende
-eller farlig vil gjøre inntrykk, og det kan bidra til at
-disse lettere hentes frem enn andre hendelser.
-Dette igjen kan bidra til at man overestimerer
-sannsynligheten for at slike hendelser skjer.
-Videre kan historier som løftes frem i kollegafellesskapet påvirke hva den enkelte tjenesteperson
-oppfatter som en risiko. Historiene blir gjerne
-utløst av en eller flere konkrete hendelser. Det
-kan være én eller to tjenestepersoner som er
-involvert i hendelsen, men etter hvert blir historien allemannseie ved at den sprer seg som ringer i vannet (Teigen, 2001). Den opprinnelige
-trusselen eller oppfatning av hendelsen forsterkes
-og kringkastes gjennom sosiale relasjoner. Sosiale
-interaksjoner kan forsterke en risikoopplevelse.
-Medieomtale vil videre kunne påvirke hvordan
-historier vokser og lever videre, noe som igjen
-
-Kapittel 6
-
-påvirker hvor mentalt tilgjengelige historiene blir
-for tjenestepersonene (Hellesø-Knutsen, 2013,
-s.237). Historier bidrar til å konstruere en måte å
-betrakte verden på (Shearing & Ericson, 2005, s.
-323) ved at oppfatninger som deles sier noe om
-hvilke risikosituasjoner politiet står overfor i sin
-arbeidshverdag (Hellesø-Knutsen, 2013).
-Studien til Kaasa og Repål viser altså at de få,
-men alvorlige hendelsene kan feste seg i politiets
-kollektive hukommelse og være med å forme oppfatninger om psykisk syke som spesielt farlige,
-selv om det kun er noen få oppdrag som er beheftet med særlig risiko, slik det også er for oppdrag
-som ikke involverer psykisk syke.
-
-6.7
-
-Vold i yrkeslivet, med fokus på
-politiet
-
-Utvalget har videre sett nærmere på utviklingen
-av, og innholdet i, lovkategorien vold mot offentlig
-tjenestemann, og på hva vi vet om politiets utsatthet for vold. Offentlige tjenestemann er en kategori
-som dekker flere yrker enn politi. I en mastergrad
-i kriminologi viser Høivik (2015) at i kategorien
-vold mot forskjellige kategorier offentlig tjenestemenn, utgjorde vold mot politiet mellom 69 og
-72 prosent av det totale antallet saker i perioden
-2009 til 2013. Interessant er det å merke seg at i
-perioden var økningen i vold mot polititjenestemenn på 25 prosent, men for andre offentlig
-ansatte tjenestemenn var økningen på nesten 40
-prosent.
-
-6.7.1 Indikasjoner på voldens grovhet
-Det er betydelig variasjon i grovheten i den volden
-politiet er utsatt for. Det er imidlertid et statistisk
-problem knyttet til å avdekke grovheten i disse
-sakene, og den eventuelle utviklingen. Det går et
-skille mellom saker der vold mot offentlig tjenestemann er eneste eller groveste sak (de med høyest strafferamme) og saker der denne volden er
-del av et større sakskompleks (ofte med flere forhold som har en høyere strafferamme enn volden
-mot offentlig tjenestemann). Figur 6.11 viser
-utviklingen i straffeutmålingen i form av betinget
-og ubetinget fengsel i vold mot offentlig tjenestemann der dette er groveste (hoved-)sak. Figuren
-gir to hovedinntrykk: Gjennomsnittssaken medfører sjelden over 60 dagers betinget eller ubetinget
-fengsel og det er vanskelig å finne hold for en
-utvikling i retning av klart grovere saker. Men det
-må altså tas to tydelige forbehold: Bildet vil være
-påvirket også av saker med andre offentlige tje-
-
-[Side 108]
-
-108
-
-NOU 2017: 9
-
-Kapittel 6
-
-Politi og bevæpning
-
-90
-80
-70
-60
-50
-40
-30
-20
-10
-0
-2002
-
-2003
-
-2004
-
-2005
-
-2006
-
-2007
-
-2008
-
-2009
-
-2010
-
-2011
-
-2012
-
-2013
-
-2014
-
-Figur 6.11 Utviklingen i gjennomsnittlig straffeutmåling for vold mot offentlig tjenestemann 2002–
-2014. Antall dager betinget (sort søyle) og ubetinget (gul søyle) fengsel.
-Kilde: SSB
-
-nestepersoner enn politi. Vi vet heller ikke noe om
-utviklingen i mer sammensatte saker der den
-aktuelle volden ikke er hovedsak.
-I den tidligere nevnte masteravhandlingen til
-Høivik (2015) ble det undersøkt saker som
-omhandler vold mot polititjenestepersoner. Et
-gjennomgående inntrykk er at volden ikke er av
-det alvorligste slaget. Men også her har man bare
-bevitnet saker der volden mot offentlig tjenestemann var hovedsak.
-
-6.7.2 Kunnskap fra Lovdata
-Det er her gjort en gjennomgang av saker i Lovdata fra 2015 og 2016 der vold mot offentlig tjenestemann enten var en del av sakskomplekset,
-eller hovedsak. Også her observeres samme tendens som i Høiviks materiale: De fleste sakene
-omhandler mindre alvorlige forhold. Det er viktig
-å være oppmerksom på at Lovdata gjengir et
-selektivt materiale. Det gjøres redaksjonelle grep
-for å finne de sakene som kan tenkes å skape presedens og/eller kan fungere som avklarende referanser i nye saker.
-To typer saker er hyppig forekommende:
-1. Saken er anket av gjerningspersonen og vedkommendes advokat fordi man mener seg urimelig strengt behandlet. Volden var av bagatellmessig art, og gjerningspersonen var tidligere ustraffet eller bare straffet for mindre
-alvorlige forhold. Her har retten ofte valgt ube-
-
-tinget fengselsstraff på grunn av det særlige
-vern som polititjenestemenn og noen andre
-grupper offentlige tjenestemenn har krav på.
-2. Saken er anket av påtalemyndigheten fordi de
-mener det bør brukes ubetinget straff. Forholdet er ofte av lignende karakter som under
-punkt 1, men retten har valgt å gjøre straffen
-betinget eller har idømt samfunnsstraff nettopp fordi man mente gjerningen ikke kvalifiserte til ubetinget fengsel.
-Disse sakene kan tolkes dithen at man tidvis opplever at et rigid krav om ubetinget fengselsstraff
-blir for strengt. I noen få saker blir en betinget
-dom eller en dom på samfunnsstraff stående.
-Dette er gjerne i saker der gjerningspersonen har
-en lengre periode med rus og/eller kriminalitet
-bak seg og nå er inne i en situasjon hvor tiltalte er
-«på rett vei», ofte fordi vedkommende deltar i et
-behandlingsopplegg.
-
-6.7.3
-
-Levekårsundersøkelser om
-arbeidsmiljø for politi og andre
-Utvalget har videre sett nærmere på data fra SSB
-om politiets utsatthet for vold.23 Statistisk sentralbyrå gjennomfører omlag hvert tredje år en levekårsundersøkelse med temaet arbeidsmiljø. Den
-23
-
-Dette arbeidet er gjort av Dag Ellingsen på oppdrag fra
-Bevæpningsutvalget.
-
-[Side 109]
-
-109
-
-NOU 2017: 9
-Politi og bevæpning
-
-siste som er tilgjengelig er fra 2013. Undersøkelsen omhandler et bredt spekter av spørsmål om
-fysisk, ergonomisk og psykososialt arbeidsmiljø,
-herunder spørsmål om utsatthet for vold og trusler. De tre siste undersøkelsene (2006, 2009, 2013)
-har vært gjennomført med store utvalg (ca. 8–
-10 000 respondenter netto). Dette gjør det mulig å
-finne utsattheten for mindre underutvalg av yrkesgrupper som politiet. I SSBs ordinære publiseringer er politiet slått sammen med andre yrkesgrupper – blant annet vektere, brannkonstabler, fengselsbetjenter, tollere og militære – til samlekategorien «sikkerhetsarbeidere, politi, tollere og militære». Dette er, som vi skal se, en av de mest
-utsatte gruppene i levekårsundersøkelsen om
-arbeidsmiljø.
-I det følgende skal vi for hvert spørsmål om
-vold og trusler presentere noen resultater fra
-2013-undersøkelsen til SSB, fordelt på de mest
-utsatte gruppene. I tillegg vises gjennomsnitt for
-alle yrker. Denne presentasjonen er mulig for et
-bredere sett av spørsmål i denne levekårsundersøkelsen. Deretter skal vi for noen av spørsmålene
-vise resultatene for en særskilt bestilling til SSB
-som gir resultatene for politiansatte24 på alle
-nivåer for alle de tre undersøkelsene (2006, 2009
-24
-
-Politiansatte betyr her: Politiinspektør, utrykningssjef
-(politi), lensmannsbetjent, lensmannsfullmektig, lensmannsførstebetjent, passkontrollør (politi), politibetjent,
-politiførstebetjent, politikonstabel, politioverbetjent, politioverkonstabel, polititjenestemann og passkontrollør på ferjer.
-
-Kapittel 6
-
-og 2013). Vi har vært nødt til å slå sammen de tre
-årgangene for å få et tilstrekkelig tallgrunnlag,
-ettersom det bare har vært 32 (2006), 40 (2009) og
-40 (2013) politiansatte som har svart. Til sammen
-blir dette kun 112 respondenter.25 Tallgrunnlaget
-for hvert år er for lite til å si noe om det har vært
-signifikante endringer mellom de tre årgangene.
-For flere av spørsmålene kan vi bare bruke de to
-siste årene, fordi spørsmålene ikke var med i
-2006. Tallene gir et situasjonsbilde for politiets
-utsatthet i denne perioden, og utsattheten er rimelig lik for de tre årene, de små tallene tatt i betraktning.
-
-6.7.4 Utsatthet for vold
-Figur 6.12 under viser prosentandel av de som i
-2013-undersøkelsen har vært utsatt for vold på
-arbeidsplassen i løpet av de siste 12 månedene. I
-spørsmålene er begrepet «vold» ikke definert, det
-er altså respondentenes tolkning av dette som er
-utslagsgivende for om de svarer ja eller nei.
-Utsattheten er høyest for «sikkerhetsarbeidere,
-politi osv.», men avstanden til sykepleiere og spesialsykepleiere, samt pleie- og omsorgsarbeidere,
-er ikke så stor.
-25
-
-Dette betyr imidlertid ikke at det er en underrepresentasjon av politifolk i Levekår Arbeidsmiljø. Snarere er antallet
-svar som andel av undersøkelsens nettoutvalg omtrent som
-man kunne forvente gitt politiets beskjedne andel av alle
-sysselsatte.
-
-Sikkerhetsarbeidere, politi og militære
-
-Pleie- og omsorgsarbeidere
-
-Yrker innen personlig tjenesteyting
-
-Helserelaterte yrker
-
-Sykepleiere og spesialsykepleiere
-
-Alle yrker
-0
-
-5
-
-10
-
-15
-
-20
-
-25
-
-Figur 6.12 Prosentandel utsatt for vold på arbeidsplassen i løpet av siste tolv måneder. 2013.
-Kilde: SSB
-
-30
-
-[Side 110]
-
-110
-
-NOU 2017: 9
-
-Kapittel 6
-
-Politi og bevæpning
-
-Sikkerhetsarbeidere, politi og militære
-
-Pleie- og omsorgsarbeidere
-
-Yrker innen personlig tjenesteyting
-
-Helserelaterte yrker
-
-Sykepleiere og spesialsykepleiere
-
-Alle yrker
-0
-
-1
-
-2
-
-3
-
-4
-
-5
-
-6
-
-7
-
-8
-
-Figur 6.13 Antall ganger de som har opplevd vold på arbeidsplassen oppgir å ha vært utsatt for vold siste
-tolv måneder. 2013.
-Kilde: SSB
-
-Når vi går inn på den avgrensete kategorien
-politiansatte (spesialbestillingen) blir andelen
-utsatte vesentlig høyere. Gjennomsnittet for 2009
-og 2013 er på hele 48 prosent. Her har vi også
-mulighet til å skille mellom vold som har ført til
-synlige merker eller kroppsskader og vold som ikke
-har hatt slike konsekvenser. Andelen politiansatte
-som har opplevd vold av den antatt mest alvorlige
-typen, synker her til et gjennomsnitt på 23 prosent, mot 2,5 prosent for alle yrker. Utsattheten er
-likevel svært høy i forhold til andre sysselsatte.
-Det er også sett på antall ganger de som har
-oppgitt å være utsatt for vold har opplevd vold de
-siste tolv måneder. Figur 6.13 over viser antall
-ganger man har vært utsatt for vold i løpet av det
-siste året, for de personene som har vært utsatte.
-Her er det mange andre yrker som har vært hyppigere utsatt enn sikkerhetsarbeidere, politi osv.
-Vi har ikke mulighet til å vise hyppigheten av
-utsatthet for politiansatte isolert på grunn av for
-svakt tallgrunnlag.
-
-6.7.4.1
-
-Trusler om vold
-
-Respondentene har også blitt spurt om trusler om
-vold av en type som var så alvorlig at man ble
-redd. Her er det «sikkerhetsarbeidere, politi osv.»
-
-og «sykepleiere og spesialsykepleiere» som topper med 16 prosent utsatte, se figur 6.14.
-For politiansatte isolert er utsattheten i 2009
-og 2013 samlet på høye 27,5 prosent. Merk også at
-det for truslenes del er satt inn en terskel i spørsmålstillingen: Respondenten må ha opplevd trusselen som så alvorlig at han eller hun ble redd.
-Hvorvidt man blir redd eller ikke vil kunne
-avhenge av mange faktorer: Trekk ved den som
-fremsetter trusselen, egen evne til å håndtere
-eventuelle voldelige handlinger, nærvær av andre
-kolleger og konstellasjonen mellom de to partene.
-Det er rimelig å anta at politiansatte som er trent
-til å takle vold vil ha høyere terskel for å si at trusselen gjorde dem redde. Samtidig kan også det å
-innrømme redsel være lite ønskelig hos enkelte.
-Disse to faktorene kan sees som indikatorer på
-underrapportering. På den annen side er politiansatte de siste årene blitt oppfordret til å anmelde
-vold i tjenesten, noe som kan ha senket deres terskel for hva de definerer som vold og trusler.
-Det er også sett på hyppigheten av slike trusler.
-Vi mangler igjen muligheten til å se hvor mange
-ganger politiansatte isolert har blitt utsatt for slike
-trusler som vist tidligere, men samlekategorien
-med «Sikkerhetsarbeidere osv.» viser så høye frekvenser og så betydelig overrepresentasjon at det
-er rimelig å anta at de politiansatte trekker opp.
-
-[Side 111]
-
-111
-
-NOU 2017: 9
-Politi og bevæpning
-
-Kapittel 6
-
-Sikkerhetsarbeidere, politi og militære
-
-Pleie- og omsorgsarbeidere
-
-Yrker innen personlig tjenesteyting
-
-Helserelaterte yrker
-
-Sykepleiere og spesialsykepleiere
-
-Alle yrker
-0
-
-2
-
-4
-
-6
-
-8
-
-10
-
-12
-
-14
-
-16
-
-18
-
-Figur 6.14 Prosentandel av ulike yrkeskategorier som har opplevd trussel om vold som har vært så
-alvorlig at man ble redd. 2013.
-Kilde: SSB
-
-6.7.5 Samlet bilde
-Slår vi sammen utsatthet for vold og trusler for
-alle tre årgangene levekårsundersøkelsen er
-gjort, ser vi at 56 prosent av de spurte politiansatte
-(N=112) isolert i gjennomsnitt har vært utsatt for
-en eller flere hendelser av forskjellig alvorlighetsgrad i hvert av årene. Tilsvarende frekvens for
-alle yrker er 7 prosent, altså en massiv overrepresentasjon. Det er ingen signifikant forskjell i
-utsatthet for politiansatte mellom de tre undersøkelsene, men tallgrunnlaget for de tre undersøkelsene er så små at forskjellen i utsatthet måtte vært
-svært omfattende for at vi skulle kunne si at det
-hadde skjedd signifikante endringer.
-Vi har også gjort en spesialbestilling til SSB,
-knyttet til denne samlekategorien av vold og trusler. Her har vi spesifisert syv yrker som vi antok
-var særlig utsatte, i tillegg til de politiansatte.
-Figur 6.15 viser at vernepleiere og politiansatte er
-like utsatte, selv om begge kategorier er små (hhv
-61 og 40 respondenter) og den statistiske usikkerheten er derfor stor. Vernepleiere og politiansatte
-er også signifikant mer utsatte enn to andre kategorier helsepersonell (sykepleiere og helsepersonell), mens forskjellen i forhold til sikkerhetsarbeidere26 ikke er signifikant fordi denne kategorien også er liten (61 respondenter).
-
-Det er også verdt å merke seg kjønnssammensetningen blant respondentene. Blant politiansatte
-er en fjerdedel kvinner og resten menn. Blant vernepleiere er en fjerdedel menn og resten kvinner.
-Hvis man tar som et utgangspunkt at menn i gjennomsnitt er fysisk sterkere, og at politifolk er særlig trent i å håndtere vold og alvorlige trusler, kan
-dette antyde at vernepleiere kan oppleve seg mer
-voldsutsatt enn politiansatte.
-Et vanskelig og viktig spørsmål er om det er
-overraskende at politifolk er mer utsatt for vold og
-trusler enn andre yrkesgrupper. Det er viktig å
-være klar over at levekårsundersøkelsene spør
-om utsatthet i løpet av siste 12 måneder. Gitt at
-politifolk hyppig er i situasjoner som kan ende i
-voldsbruk, er det vanskelig å ta disse undersøkelsene til inntekt for et utsagn av typen: Å bli utsatt
-for vold og alvorlige trusler er en del av politiets
-hverdag.
-
-6.7.6
-
-Innspill fra HMS-seksjonen
-i Politidirektoratet
-Bevæpningsutvalget har kontaktet HMS-seksjonen i Politidirektoratet og etterspurt svar på om
-26
-
-Sikkerhetsarbeidere rommer her undergruppene brannkonstabler, fengselsbetjenter, vektere og «andre sikkerhetsarbeidere»
-
-[Side 112]
-
-112
-
-NOU 2017: 9
-
-Kapittel 6
-
-Politi og bevæpning
-
-Grunnskolelærere
-Sikkerhetsarbeidere
-Servitør og bartender
-Andre helseyrker
-Pleiemedarbeider
-Sykepleiere
-Vernepleiere
-Politibetjenter mv.
-Alle sysselsatte
-0
-
-10
-
-20
-
-30
-
-40
-
-50
-
-60
-
-Figur 6.15 Prosentandel i ulike yrkesgrupper utsatt for vold og trusler 2013.
-Kilde: SSB
-
-POD besitter en nasjonal oversikt over omfang av
-hendelser de siste år der en tjenesteperson har
-blitt skadet i oppdrag hvor gjerningspersonen(e)
-hadde en eller annen form for våpen.
-Dersom POD ikke besitter denne oversikten,
-men har annen dokumentasjon som er relevant
-for HMS-aspektet i bevæpningsspørsmålet,
-ønsket utvalget å få dette oversendt.
-Utvalget mottok så en rapport som svar på
-denne bestillingen. Den ser på de siste tre år
-(2014, 2015 og 2016) (Politidirektoratet, HMS-seksjonen, 2016). Her sies det at det ikke finnes noen
-slik nasjonal oversikt over hendelser som nevnt i
-bestillingens første avsnitt. I rapporten sammenstilles informasjonen ansett relevant for HMSaspektet i bevæpningsspørsmålet. Her tar de for
-seg hvilke systemer som kan gi informasjon om
-dette, begrensningene i disse systemene, samt
-presentasjon og diskusjon av de hendelser som
-anses relevant for utvalgets arbeid.
-Det finnes pr i dag ikke enhetlige føringer, prosesser, opplæring, eller etablerte standarder
-for å rapportere inn uønskede hendelser og
-avvik i politi- og lensmannsetaten. Det blir
-benyttet flere ulike systemer i tillegg til flere
-forskjellige papirmaler både innen HMS, personvern og sikkerhetsområdet:[…] Det er i
-2016 igangsatt et prosjekt for anskaffelse av
-nytt felles system for avvik og hendelser for
-hele politietaten (Politidirektoratet, HMS-seksjonen, 2016, s. 4).
-
-Bevæpningsutvalget spør etter en nasjonal
-oversikt over omfang av hendelser hvor tjenesteperson har blitt skadet i oppdrag hvor gjerningsperson hadde våpen. Som det fremkommer av forklaringen over har vi ikke en slik
-oversikt direkte (Politidirektoratet, HMS-seksjonen, 2016, s. 14).
-Det er altså store begrensinger i materialet fra
-HMS-seksjonen i Politidirektoratet. Vi vil her se
-på hvilken informasjon rapporten får ut fra kategorien «vold og trusler» mot ansatte i HMS-modulen
-i TTA27. Det er her sett til kategorier hvor det er
-registrert et visst antall saker i 2014 og 201528.
-Noen hendelseskategorier er tilnærmet identiske
-i omfang; dette gjelder spytting (95 saker i 2014, 92
-saker i 2015), trusler (133 saker i 2014, 148 saker i
-2015) og vold (363 saker i 2014, 372 saker i 2015).
-I saker registrert som trusler med våpen er det
-flere hendelser registrert i 2014 (22 saker) enn i
-2015 (10), mens vold med våpen er registrert med
-færre hendelser i 2014 (28) enn i 2015 (33). Etter27
-
-28
-
-TTA er «et turnusplanleggingsverktøy og et verktøy for ‘fritidsregnskap’, dvs oversikt over variabel lønn, ferie og lignende. HMS-modulen er en tilleggsmodul som er etablert
-med hensikt å registrere såkalte «HMS-avvik og uønskede
-hendelser» (POD, HMS-seksjonen, 2016, s. 5).
-Utvalget har kun sett på årene 2014 og 2015. Rapporten
-presenterer også tall fra de fire første månedene i 2016,
-men vi utelater denne perioden her av metodiske årsake;
-disse tallene er små og det ikke er metodisk forsvarlig å
-sammenligne hendelser i disse få månedene, men hendelser for hele år.
+Samtidig som samfunnet jobber for å forhindre terror, er det dermed relevant å spørre hva det er med terror som fenomen som gjør at vi ikke forholder oss til at det faktisk er så liten sannsynlighet for at det skal inntreffe (jf. Jore, 4.1.2017)? Terror består av alle de elementer som gjør oss opprørte og det oppfattes som angrep på menneskeverdet. Dette kan skyldes at terror er en risiko vi blir påført mot vår vilje, det er uforståelig og uforutsigbart, det kan potensielt ramme oss alle og det har dramatiske konsekvenser. Slik fremstår terror som totalt uakseptabelt og vi reagerer intuitivt med avsky (Engen et.al, 2016). I tillegg får terror, spesielt når det skjer i vestlige land, stor mediedekning, noe som gjør at det også påvirker vår oppfatning av terror som en stor risiko. Uønskede hendelser, som terroranslag eller trussel om terror, kan slik bidra til å rette oppmerksomheten mot forhold som ikke nødvendigvis utgjør noen stor fare for samfunnssikkerheten (Engen et.al, 2016). Terroristenes viktigste våpen er iscenesetting gjennom media og effekten av dette kan være at politikere tvinges til å foreta valg som ikke nødvendigvis er fornuftige ut fra de kunnskapene man har om risikoen (Engen et.al, 2016, s. 379). Når man velger å forebygge og prioritere noen trusler, innebærer det gjerne å prioritere ned innsatsen mot andre trusler som kan være vel så viktige for samfunnet. Det kan medføre at vi bruker ressurser på å bekjempe de mindre, men symbolsk viktige risikoene på bekostning av andre mer alvorlige samfunnsrisikoer (Engen, et.al, 2016). I tillegg kan det bidra til at vi i større grad aksepterer tiltak som iverksettes i kampen mot terror, selv om det kan medføre et mer ufritt samfunn (Hammerlin, 2009). Vedtak som gjøres for å beskytte vanlige borgere kan gå utover menneskerettigheter og borgerrettigheter (Engen et.al, 2016).
+
+1.  **<u>Utfordringer i </u><u>å</u><u> m</u><u>å</u><u>le omfang av terrorisme</u>**
+
+Når en skal se på utviklingen i terror er det en rekke utfordringer knyttet til datamaterialet, som en må være klar over (Engene, 4.1.2017). Engene beskriver fire utfordringer:
+
+1.  <u>Det er utfordringen knyttet til å telle konsekvent (Har samme type hendelser alltid blitt kategorisert likt? Har kategoriseringen vært den samme hos de ulike folkene som har utført den?)</u>
+
+<!-- -->
+
+1.  <u>Det er utfordring knyttet til variert informasjonsgrunnlag (for eksempel måtte man på 70-tallet lese om terrorhendelser i aviser, nå går slik rapportering automatisk).</u>
+
+2.  <u>Det er utfordringer knyttet til variasjon i metoden for innsamling (Hvem gjør innsamlingen? Hvor gode er kildene fra ulike verdensdeler og hvert land? Hva betyr de historiske endringene i mediebildet?)</u>
+
+3.  <u>Det er utfordringer knyttet til endringer i definisjonen av terror (Det er vanskelig å skille terrorangrep fra andre typer konflikter og politisk vold, særlig opprørskrig, borgerkrig og krig).</u>
+
+På tross av utfordringer vil vi i det følgende se til utviklingstrekk dokumentert av både myndigheter og forskning. I følge Engene (4.1.2017) ville vi sett en enda tydeligere nedgang i terror enn den dette kapittelet vil vise, dersom det var mulig å korrigere for de overnevnte utfordringene.
+
+Det er også sentralt å merke seg at på samme måte som for sekkebetegnelsen kriminalitet, er terrorisme en sekkebetegnelse som rommer veldig ulike fenomener. Det kan være alt fra angrep i det offentlige rom til angrep på nett og på teknologisk infrastruktur. Sett opp mot bevæpningsmodell i politiet, er det kun de formene for terrorisme som vil møtes av bevæpnet politi som er relevante, og ikke for eksempel IKT-angrep og lignende.
+
+1.  **<u>Store globale variasjoner i utsatthet</u>**
+
+*Politiets omverdensanlyse 2015* viser at det har vært en markant vekst i antall terrorangrep på verdensbasis og at fire islamistiske terrororganisasjoner sto bak 66 % av angrepene i 2013 (Politidirektoratet, 2015, s. 48). Analysen inneholder ikke beskrivelser av utviklingen i Europa spesielt (Politidirektoratet, 2015, s. 48). I utredningen vil det i det videre kun fokuseres på Vest-Europa, og vi vil her se at trenden som er beskrevet av Politidirektoratet ikke nødvendigvis gir et riktig bilde for vår del av verden.
+
+En global fremstilling tar ikke høyde for at terrorismen konsentreres i noen få land. I 2015 ble det i følge en rapport utarbeidet for utenriksdepartementet i USA vist at det ble begått terrorangrep i 92 land i verden, men at disse var svært konsentrert geografisk: 55 % av alle angrep fant sted i fem land (Irak, Afghanistan, Pakistan, India og Nigeria), og 74 % av alle drap knyttet til terror fant sted i fem land (Irak, Afghanistan, Nigeria, Syria og Pakistan) (National Consortium for the Study of Terrorism and Responses to Terrorism, 2016). Dette tallmaterialet stammer fra Global Terrorism Database (GTD).
+
+Noe tilsvarende fant Engene da han analyserte alle terrorangrep i 2010 (Engene, 2011, s. 66). Tallene fra 2010 viste at angrepene i Europa var få sammenlignet med verden for øvrig. Både når det gjelder antall angrep og antall drepte i slike angrep ble statistikken dominert av Sør-Asia og Midtøsten. Deretter fulgte Afrika/Øst-Asia[^80], Eurasia, Mellom- og Sør-Amerika. Europa (inkl. Tyrkia) ligger nest nederst og Nord-Amerika og Karibia hadde dette året færrest angrep og færrest drepte. Dette bildet ligner øvrige år.
+
+1.  **<u>Terrorisme i Vest-Europa 1950</u><u>–</u><u>2016</u>**
+
+De siste femti årene har det vært utvikling i terrorbildet i Vest-Europa. Engene (2007; 2011) bruker et datasett over angrep og dødsfall som følge av angrep i 18 Vesteuropeiske land, i perioden 1950–2004, for å se på utvikling og trekk ved terrorisme.
+
+<u>I forskningslitteraturen var det lenge vanlig å skille mellom internasjonal og innenlandsk (intern) terrorisme. Mens internasjonal terrorisme involverer to eller flere lands territorium eller borgere, foregår innenlandsk terrorisme innad i et land ved at terrorister angriper egne medborgere. Skillet er ikke lenger så viktig som det var tidligere, da oppmerksomheten var rettet mot internasjonal terrorisme og den rådende oppfatning var at denne typen terrorisme representerte den alvorligste trusselen. Ettersom mer enn en stat var involvert var dette også et problem som det internasjonale samfunn var opptatt av, mens innenlandsk terrorisme mer ble sett på som et internt problem for den enkelte stat. Et resultat av dette skillet er at statistikk over terrorisme lenge konsentrerte seg om internasjonal terrorisme, selv om det er anslått at 85 % av terrorismen er innenlandsk (Bowie og Schmid 2011: 337) (Engene 2012, s.2).</u>
+
+Det er ofte den internasjonale terrorismen som får mest oppmerksomhet. Skillet mellom de to formene for terror er ikke nødvendigvis så entydig og vi vil derfor her benytte en fremstilling som viser begge formene samlet. Ser man på utviklingen over tid er antall angrep og antall drepte tydelig og kraftig redusert. Engene (4.1.2017) viser til at denne reduksjonen nok egentlig er enda større, ettersom det nå er flere hendelser som kategoriseres som terror enn tidligere. Dette er et viktig metodisk poeng når en ser på utvikling over tid, og her kunne en mindre variert kategorisering ført til at reduksjonen i antall hendelser ble enda mer markant.
+
+Terroren har i disse årene vært i endring, og variert både i omfanget av angrep og antall døde og med hensyn til hvor og når angrep har funnet sted. Det har også variert hvilke terrorgrupper som har dominert trusselbildet. Mens høyreekstreme har stått for noen av de mest dødelige angrepene, har flertallet av angrepene blitt begått av personer med annen politisk tilhørighet. Det er separatistiske gruppene som har begått mest dødelig terror (Engene, 2011). Sammenstilling av internasjonal og intern terrorisme fra 1970 til 2015 ser vi i figur 6.16. Figuren viser utviklingen i antall terrorangrep og antall drepte i slike angrep i perioden 1970–2015: Det har vært et særlig stort antall angrep i perioden 1970–1986, før det sank kraftig frem til tidlig 2000-tallet. Etter ca. 2002 har det vært et oppsving, men fremdeles med langt lavere antall angrep enn tidligere (se også Engene, 2007). Antallet drepte som følge av terroraksjoner viser den samme utviklingen, men her ser vi at angrepene på 90-tallet innebar flere drepte pr angrep enn i angrep etter dette. Toppene i figuren er forbundet med perioder hvor både høyreekstrem, venstreekstrem og separatistisk terror fant sted. Den seneste utviklingen er knyttet til jihadisme. Oppsvinget rundt 2014 er for tidlig å si om kun er normalvariasjon mellom ulike år, eller om det kan bli en lengre trend. Dette vil drøftes under delkapittelet om jihadistisk terrorisme.
+
+**<u>\[:figur:figX</u><u>-X.jpg\]</u>**
+
+1.  <u>Angrep og drepte som følge av internasjonal terrorisme, Europa 1970–2015 (gul linje er drap, sort linje er angrep)</u>
+
+<u>Engene 4.1.2017</u>
+
+Ser vi på den dominerende formen for terrorisme, den innenlandske (jf. tabell 6.1), ser vi at flest angrep mellom 1950 og 2004 fant sted i Storbritannia (4263 angrep), Frankrike (3046), Spania (866), Italia (583) og Hellas (249) (Engene, 2007). Norge befinner seg i den andre delen av skalaen, med svært få angrep (2), og ligger også i helt nedre del for antall drepte i slike angrep (1).
+
+1.  <u>Antall terrorangrep og antall drepte i slike angrep</u>
+
+|  |  |  |  |
+|----|----|----|----|
+| Country | <u>Number of terroristinitiated events recorded</u> | <u>Total number of deaths</u> | <u>Number of groups recorded with events</u> |
+|  |  |  |  |
+| Austria | <u>17</u> | <u>5</u> | <u>2</u> |
+| Belgium | <u>79</u> | <u>39</u> | <u>6</u> |
+| Denmark | <u>5</u> | <u>0</u> | <u>0</u> |
+| Finland | <u>0</u> | <u>0</u> | <u>0</u> |
+| France | <u>3,046</u> | <u>179</u> | <u>48</u> |
+| Germany | <u>301</u> | <u>96</u> | <u>11</u> |
+| Greece | <u>249</u> | <u>28</u> | <u>26</u> |
+| Iceland | <u>0</u> | <u>0</u> | <u>0</u> |
+| Ireland (Republic) | <u>32</u> | <u>50</u> | <u>0</u> |
+| Italy | <u>583</u> | <u>303</u> | <u>32</u> |
+| Luxembourg | <u>1</u> | <u>0</u> | <u>0</u> |
+| Netherlands | <u>34</u> | <u>10</u> | <u>6</u> |
+| Norway | <u>2</u> | <u>1</u> | <u>2</u> |
+| Portugal | <u>208</u> | <u>28</u> | <u>14</u> |
+| Spain | <u>866</u> | <u>682</u> | <u>34</u> |
+| Sweden | <u>6</u> | <u>4</u> | <u>1</u> |
+| Switzerland | <u>38</u> | <u>6</u> | <u>6</u> |
+| United Kingdom | <u>4,263</u> | <u>1,507</u> | <u>26</u> |
+| Total | <u>9,730</u> | <u>2,938</u> | <u>214</u> |
+|  |  |  |  |
+
+<u>Engene (2007).</u>
+
+I dette datasettet fordeler angrepene seg noe mellom høyreekstrem terror på 12 % (340 drepte) og venstreekstrem terror på 8 % (220 drepte), men domineres av separatistisk terror, som utgjør hele 78 % (2200 drepte) (Engene, 2007). De senere års terrorbilde preges av økning i jihadistisk terror. Den første terroraksjonen i Europa fra slike miljøer fant sted i 1994. I perioden fra 1994 til 2004 var slike miljøer ansvarlig for 256 drepte. Jihadistisk terrorisme vil bli behandlet senere i kapittelet og da vil også perioden etter 2004 omhandles.
+
+I et historisk lys har det vært nokså lite terrorisme i Vest-Europa etter tidlig 1990-tall. Engene beskriver perioden frem til 2011 slik (Engene, 2011, s. 64):
+
+<u>Det har vært forholdsvis lite terrorisme i Vest-Europa. Både fra det ekstreme høyre og ekstreme venstre, selv om separatistisk terror fortsatt gjør seg gjeldende i Spania (Baskerland), Frankrike (Korsika) og delvis Storbritannia (Nord-Irland). Unntaket er de to store terrorangrepene fra militante muslimer i 2004 og 2005, samt bomben i Oslo og skytemassakren på Utøya i år.</u>
+
+<u>Tall fra det europeiske politiorganet Europol bekrefter dette inntrykket. I sine årlige rapporter om terrorisme i EUs medlemsland de siste fem-seks år, er det rapportert om lite dødelig terrorisme.</u>
+
+Engene (2011) viser til at terrorproblemet er sammensatt og at det varierer hvilke grupper som dominerer. For Europas del har separatisme vært den mest vedvarende ideologien bak terrorhandlinger. Den internasjonale terroren, som primært er knyttet til midtøstenkonflikten, sto bak mange angrep på 70- og 80-tallet. Fremstillingen viser videre hvordan høyreekstrem terror periodevis har vært svært dødelig og hvordan jihadisme har vært til stede i to perioder, både på midten av 1990-tallet og igjen fra midten av 2000-tallet (Engene, 2011, s. 70). Denne utviklingen tilsier at utvalget bør se nærmere på nettopp slike formene for terrorisme. I det følgende vil det derfor redegjøres for utviklingen i jihadistisk terror[^81] og høyreekstrem terror.
+
+1.  **<u>Dagens trusselbilde i Norge</u>**
+
+Europol utgir hvert år en rapport om situasjonen og trender i Europeisk terrorisme (*EU Terrorism Situation & Trend Report (Te-Sat)*). Denne er basert på kunnskap fra Europol og medlemslandene. I 2016-rapporten nevnes Norge i forbindelse med at det her finnes personer tilknyttet den høyreekstreme organisasjonen som kaller seg «den Nordiske Motstandsbevegelsen», og som har medlemmer i Sverige og Danmark, i tillegg til Norge (Europol, 2016). Det samme gjelder for rapporten fra 2015, hvor Norge nevnes i forbindelse med den samme organisasjonen (Europol, 2015).[^82] I rapporten fra 2012 omtales 22. juli-angrepene, som også ble utført av en høyreekstremist.
+
+Rapportene omtaler ellers en alvorlig trusselsituasjon for en rekke EU-land. Dette er de samme utsatte landene som vi kjenner fra forskningen for øvrig. Enkelte av de sentraleuropeiske landene er langt mer utsatt, og Norge nevnes ikke spesifikt. Europol poengterer også at: «IS terrorist cells currently operating in the EU are largely domestic and/or locally based» (Europol, 2016, s.7). Det innebærer at terroristene fra IS i hovedsak er lokale celler som opererer i de landene de bor i, uten å forflytte seg i nevneverdig grad. Dette viser at det kan være store variasjoner mellom å omtale trusselnivået for Europa på overordnet nivå, og hvordan bildet ser ut når en går inn og ser på konkrete land. Når en skal se på trusselsituasjonen for Norge, må en derfor særlig se til egne, landspesifikke trusselvurderinger. Europeiske trender er ikke nødvendigvis trender som angår hverken Skandinavia eller Norge; det er altså ikke slik at europeiske trender nødvendigvis sammenfaller med bildet for Skandinavia eller Norge.
+
+PST beskriver flere trekk ved trusselbildet for Norge. I sine trusselvurderinger bruker de såkalte standardiserte sannsynlighetsord i vurderingene av politisk motivert vold og trusler mot myndighetspersoner (se tabell 6.2). Formålet med begrepsbruken er «å skape en mer ensartet beskrivelse av sannsynlighet i vurderingene og derigjennom redusere uklarhet og faren for misforståelser. Begrepene og de tilhørende beskrivelse av begrepenes betydning er utarbeidet i et samarbeid mellom politiet, PST og Forsvaret» (PST, 2017, s. 22).
+
+1.  <u>Sannsynlighetsord brukt av bl.a. PST (PST, 2017).</u>
+
+|                       |                                         |
+|-----------------------|-----------------------------------------|
+| Norsk begrep          | Beskrivelse                             |
+|                       |                                         |
+| Meget sannsynlig      | Det er meget god grunn til å forvente   |
+| Sannsynlig            | Det er grunn til å forvente             |
+| Mulig                 | Det er like sannsynlig som usannsynlig  |
+| Lite sannsynlig       | Det er liten grunn til å forvente       |
+| Svært lite sannsynlig | Det er svært liten grunn til å forvente |
+|                       |                                         |
+
+<u>For året 2017 oppsummerer PST trusselbildet for Norge slik (PST, 2017, s. 4 (sannsynlighetsbegrepene er ikke kursivert i original)):</u>
+
+- <u>Norge og norske interesser vil i 2017 utsettes for fremmed etterretningsvirksomhet som kan ha et stort skadepotensial. Aktiviteten vil blant annet rettes mot mål innenfor norsk forsvars og beredskapssektor samt mot politiske beslutningsprosesser og kritisk infrastruktur. Fremmede tjenester bruker både avanserte datanettverksoperasjoner og tradisjonelle metoder mot norske mål.</u>
+
+- <u>Ekstreme islamister representerer fortsatt den største terrortrusselen mot Norge. Også for 2017 vurderes det som </u>*<u>mulig</u>*<u> at det vil bli gjennomført terrorangrep mot Norge. Flere europeiske land er imidlertid mer utsatt for terrorangrep enn Norge.</u>
+
+- <u>Antall nye personer som radikaliseres til ekstrem islamisme, vil fortsatt være lavt, og svært få personer forventes å reise fra Norge for å slutte seg til ISIL i 2017.</u>
+
+- <u>Det er </u>*<u>lite sannsynlig</u>*<u> at høyreekstreme vil gjennomføre en terrorhandling i Norge i 2017. Høyreekstremisme i Norge karakteriseres fortsatt av uorganiserte og løst tilknyttede nettverk. Høyreekstremisme gir imidlertid grunn til økt bekymring på grunn av tilvekst, bedre organisering og forhøyet aktivitetsnivå i en mindre del av miljøet.</u>
+
+- <u>Det er </u>*<u>sv</u><u>æ</u><u>rt lite sannsynlig</u>*<u> at venstreekstreme vil gjennomføre terrorhandlinger mot norske interesser i 2017.</u>
+
+- <u>Det er </u>*<u>sannsynlig</u>*<u> at stortingsvalget i 2017 vil medføre økt trusselaktivitet mot myndighetspersoner. Samtidig har antall alvorlige trusselsaker som PST arbeider med, vært stabilt de siste ti årene. Vi forventer ingen endring i denne situasjonen i 2017.</u>
+
+Flere av PSTs momenter har mindre direkte relevans for spørsmålet om generell bevæpning av ordinær patruljetjeneste, som for eksempel bekymring knyttet til utenlandsk etterretning i Norge og trusler mot myndighetspersoner.
+
+Høyreekstreme og ekstreme islamister var også omtalt i trusselvurderingen for 2016 (PST 2016), hvor det ble pekt på at det var *mulig* at det i løpet av 2016 vil bli forsøkt gjennomført terrorangrep av jihadister i Norge. Trusselen og sannsynligheten for voldshandlinger fra de høyreekstreme miljøene i Norge ble da vurdert som økende. I 2015 ble de samme fenomenene omtalt. Her ble det også pekt på norske, hjemvendte fremmedkrigere, noe som ikke omtales i vurderingene fra 2016 og 2017. I 2015-vurderingen er organiserte høyre- og venstreekstreme miljøer betraktet som å i liten grad utgjøre noen trussel mot samfunnet – en potensiell terrortrussel ble primært knyttet til enkeltpersoner eller små grupper (PST, 2015).
+
+I 2014 ble terrortrusselen for Norge beskrevet som skjerpet, og at den største trusselen kom fra et miljø på Østlandet bestående av ekstreme islamister, samt at ekstreme islamister deltok i kamp og trening i utlandet og kunne utgjøre en potensiell trussel ved retur til Norge. I 2014-vurderingen ble høyre- og venstreekstreme omtalt som primært et ordensproblem, med størst utfordringer knyttet til enkeltpersoner fra høyreekstreme miljøer.
+
+Vi ser altså en viss utvikling i trusselvurderingene sett over et visst tidsrom (2014–2017). Overordnet ser det ut til at trusselen fra høyreekstreme fremstår som noe økende fra 2014 tom 2017. Hva gjelder trusselen fra ekstreme islamister ble denne beskrevet som skjerpet i 2014 og 2015, for i 2017 å beskrives som fremdeles å utgjøre den største trusselen, men hvor det presiseres at de utgjør en mindre trussel i Norge enn i mange andre europeiske land og at antallet som rekrutteres til slike miljøer er lavt, samt at svært få vil reise for å tilslutte seg ISIL (PST, 2017).
+
+Med dette som bakgrunn vil det nå redegjøres for de to mest aktuelle formene for terrorisme; høyreekstrem terror og vold, og jihadistisk terror. Det vil være fokus på utvikling og på fremgangsmåte (ofte kalt *modus operandi*), altså terroristenes handlingsmønstre og valg, for å vurdere en eventuell effekt bevæpning av politiet vil kunne ha på slike handlinger.
+
+1.  **<u>H</u><u>ø</u><u>yreekstrem terrorisme og voldskriminalitet</u>**
+
+    1.  **<u>Utvikling i omfang og angrep</u>**
+
+Høyreekstreme grupper har i tiden etter andre verdenskrig stått bak svært alvorlige handlinger og terroraksjoner i Europa. Engene (2011) beskriver hvordan høyreekstrem terror preger tre ulike perioder av europeisk historie; tidlig 1960-tall, sent 1960-tall til tidlig 1980-tall og tidlig 1990-tall (etter sammenslåingen av Vest- og Øst-Tyskland). Dette er også beskrevet av Ravndal (2015), som viser at antallet døde og skadde i høyreekstreme angrep har vært høyest i Italia, Frankrike, Tyskland og Spania fra 1950–2004. Etter dette har utviklingen vært preget av forholdsvis lite høyreekstrem terrorisme.
+
+Som nevnt tidligere er det også i forbindelse med terrorangrepene 22.juli 2011 og organisasjonen den nordiske motstandsbevegelsen at Norge omtales i Europols årlige rapport om Europeisk terrorisme. Begge disse fenomenene handler om høyreekstremisme.
+
+Det lave nivået av terrorhandlinger innebærer imidlertid ikke at høyreekstreme grupper og miljøer ikke har stått bak alvorlige voldshandlinger, men disse faller utenfor definisjonen av terrorisme. Engene (2011) viser til at blant annet Europol peker på at flere land har et problem med høyreekstremisme, men at dette ikke vil vises i oversikter over terror fordi «all terrorisme er ekstremisme, men at all ekstremisme ikke er terrorisme» (Engene, 2011, s. 64). Slik er det for mye av den høyreekstreme volden. For eksempel har Tyskland mye høyreekstrem vold som er kategorisert som legemsbeskadigelse (Engene, 2011).
+
+Ravndal (2016) har sett på utviklingen i høyreekstrem vold i Europa fra 1990 til 2015. Voldshendelsene han har undersøkt utgjør tilsammen 578 alvorlige angrep, hvorav 190 er drapshendelser med totalt 303 drapsofre. Dette gjelder altså ikke kun terrorhandlinger, men omfatter det som er definert som alvorlige angrep. Figur 6.17 viser at det i perioden 1990–2015 har vært en nedgang i antall drapshendelser utført av høyreekstreme.
+
+**<u>\[:figur:figX-X.jpg\]</u>**
+
+1.  <u>Drapshendelser fra høyreekstreme i perioden 1990–2015: «RTV \[datasett over høyreekstrem terror og vold\] drapshendelser, N = 190».</u>
+
+<u>Ravndal, 2016</u>
+
+Ravndals (2016) drøfting av hvorfor denne reduksjonen er så tydelig peker på seks ulike hypoteser: Mindre politisk aktivisme, mer politisk aktivisme er flyttet fra gata og til nettet, den generelle nedgangen i kriminalitetsratene, endringer i subkulturelle trender og aksjonsformer, tilgang på alternative politiske kanaler og en økt aksept for det multikulturelle samfunnet.
+
+Ravndal beskriver hvordan den fremtidige utviklingen i omfanget av slike angrep blant annet vil kunne henge sammen makrotrender i samfunnet, spesielt utviklingen i flyktningestrømmer og politikken på dette feltet. Også økt tilstrømming til ekstreme høyrepartier, islamistisk terror og arbeidsløshet kan være faktorer som spiller inn på den fremtidige utviklingen (Ravndal 2016).
+
+1.  **<u>Kjennetegn ved h</u><u>ø</u><u>yreekstreme angrep</u>**
+
+Det vil videre kort redegjøres for kjennetegn ved angrep gjennomført av høyreekstreme i Vest-Europa i perioden 1990–2015, basert på analyse av 578 angrep (Ravndal, 2016). Sverige ligger høyest i drapshendelser per innbygger i perioden. Andre land som skiller seg ut er Tyskland, Storbritannia, Spania, Hellas og Italia.
+
+I følge Ravndal (2016) utføres angrepene ofte av løse nettverk eller grupper, eventuelt enkeltpersoner, og i mindre grad av organiserte høyreekstreme. Disse nettverkene står bak flest angrep og de har forårsaket flest døde og skadde som følge av angrep.
+
+De høyreekstreme angrepene har rettet seg mot ulike grupper, og særlig mot innvandrere og venstreaktivister, med henholdsvis 249 og 138 angrep (av 578). Andre utsatte grupper er muslimer (28 angrep), politikere (25), uteliggere (25) og homofile (23) (Ravndal, 2016).
+
+Ravndals (2016) datasett viser til følgende kjennetegn ved angrepene: De utføres oftest med kniv (119 angrep), slag og spark (108), eksplosiver (86), skytevåpen (85) og slagvåpen av ulik art (68). I tillegg er det en del angrep med brannbomber (38) og brannstiftelse (28). Den type komplekse terrorangrep som skjedde i Norge i 2011, hvor bombeangrep og skytevåpen ble kombinert, er kun sett denne ene gangen i perioden 1990–2015.
+
+Basert på informasjon tilgjengelig fra Europol (2015 og 2016) og PST (2015, 2016, 2017), er høyreekstremisme et fenomen som angår Norge og det fremstår som nødvendig å følge med på utviklingen av dette.
+
+1.  **<u>Jihadistisk terrorisme fra 1994-dd</u>**
+
+I perioden etter at det første angrepet utført av jihadlister i Europa fant sted i 1994, og frem til i dag, har det vært en reduksjon i det totale antallet terrorhandlinger i Vest-Europa, både hva gjelder antall anslag og antall drepte. De siste årene har det imidlertid funnet sted flere jihadistiske terrorangrep med et stort antall drepte.
+
+1.  **<u>Utvikling og omfang i jihadistisk terror</u>**
+
+Utviklingen innenfor den jihadistiske terrorismen i Europa er studert inngående ved Forsvarets forskningsinstitutt (FFI), og utvalget vil her se til nyere forskning derfra. Forskerne ved FFI ser på europeiske trender, og funnene vil dermed i varierende grad samsvare med skandinaviske eller norske forhold.
+
+1.  *<u>Geografisk utvikling</u>*
+
+Som nevnt tidligere opererer primært terrorcellene til IS først og fremst i de landene hvor de holder til (Europol, 2016). Nesser (25.10.2017) viser til at IS i Europa består av nettverk som primært finnes i Nederland, Belgia, Frankrike og Tyskland, samt i et noe mindre omfang i England og Spania. Det er disse nettverkene som har preget de siste års hendelser, og som antas å prege bildet i fremtiden. Skandinavia fremsto som et særlig mål for slike terrorister i forbindelse med striden rundt Mohammed-karikaturene, men dette har gått over:
+
+<u>It thus appears as if the wave of terrorist plots in Scandinavia, which was witnessed especially in 2008–2011 and motivated to a large extent by the publication of the Mohammed Cartoons by the Danish Newspaper </u>*<u>Jyllands-Posten, </u>*<u>has abated (Nesser, Stenersen og Oftedal, 2016, s.14).</u>
+
+Nesser, Stenersen og Oftedal beskriver en endring hvor det har vært en kraftig økning i antall angrep i Frankrike, stabilitet i Storbritannia og Tyskland og dramatisk nedgang i antall plot i Skandinavia (Nesser, Stenersen og Oftedal, 2016).
+
+1.  *<u>Antall plot</u>*
+
+Plot er betegnelsen på angrep som er gjennomført, samt planlagte, veldokumenterte angrep, som av ulike grunner ikke har blitt gjennomført. Gjennom også å inkludere angrep som ikke ble gjennomført, kan man i større grad se på trender i utviklingen, noe som ellers er vanskelig fordi man snakker om et begrenset antall gjennomførte angrep. Dette er et viktig poeng og det understrekes at det er begrenset hvor mye man kan si om en utvikling når tallene er såpass små. Utviklingen beskrives som følger:
+
+<u>Overall, we have registered 135 well-documented plots in Europe from 1994 to 1 November 2016, which makes an average of six plots per year (see figure 1). In 2014–16 alone we have registered 42 well-documented plots: 9 in 2014, 17 in 2015 and 16 so far in 2016. Jihadis have launched 50 attacks in Europe in total since 1994. One-third of those attacks have been launched in 2014–16: 2 in 2014, 6 in 2015 and 10 so far in 2016. (Nesser, Steneresen og Oftedal, 2016, s. 4).</u>
+
+Det er altså registrert 135 veldokumenterte jihadistiske plot i Europa de siste 22 årene. Dette gir et gjennomsnitt på seks plot i året. De siste årene trekker gjennomsnittet opp. Utviklingen i denne kategorien av terror er altså ikke lik utviklingen i terror generelt. 2016 var året med klart flest gjennomførte angrep (10). Slike angrep har drept 273 personer i årene 2014–2016, dette er flere drepte enn de tidligere årene (1994–2014) sammenlagt (Hegghammer, 2016). Lenge var 1995 det året med flest angrep, men dette ble forbigått i 2016.
+
+1.  **<u>Fremgangsm</u><u>å</u><u>ter</u>**
+
+Basert på data fra 2014–2016 fremkommer det at aktiviteten til IS i Europa har gitt en økning i antall plot og gjennomførte angrep, men det er ikke dramatiske endringer i fremgangsmåte ved angrepene.[^83] Nesser, Stenersen og Oftedal (2016) beskriver hvordan IS’ handlinger på mange måter er en fortsettelse av trender som går tilbake til terror utført av Al-Qaida-nettverk i perioden 2008–2013. Disse trendene handler om småskalaangrep med enkle våpen, som kniv eller kjøretøy, enkeltaktørangrep og koordinerte skyteangrep. IS har også vist seg i stand til å utføre angrep som medfører massedød, på samme måte som Al-Qaida gjorde i perioden 2001–2006. Samtidig ser en at flere angrep enn tidligere utføres av soloterrorister (Nesser, 25.10.2016).
+
+I følge Nesser, Stenersen og Oftedal (2016) har det i perioden fra 1994–2016 vært en økning i soloterrorisme. I siste del av perioden ble omtrent halvparten av angrepene utført av soloterrorister, som ofte kan ha bakgrunn fra nettverk og grupper. Halvparten av angrepene ble utført av grupper. Det er stor ulikhet i oppdagelsesrisikoen for de ulike aktørene med færre avslørte angrep fra enkeltpersoner enn fra grupper.
+
+1.  **<u>Valg av m</u><u>å</u><u>l for terrorangrep</u>**
+
+Terroristers valg av mål og angrepsmetode kan bli påvirket av andre terroristers valg av angrepsmåte (for eksempel som vi har sett når det gjelder bruk av kjøretøy etter Nice-angrepene sommeren 2016). Det innebærer også at valg av mål kan forskyves, dersom det opprinnelige målet vurderes som uangripelig.
+
+Nesser og Stenersen (2014) viser til økning i selekterte angrep, det de kaller «discriminate targeting». Slike selekterte mål er mål som er spesifikke og som har høy symbolverdi. Dette kan for eksempel bety angrep rettet mot politi- og militærpersonell, mot religiøse grupper (primært jødiske) eller mot andre symboler (som f.eks. tegnere som har fornærmet profeten). Perioden 1994–2007 var dominert av tilfeldige mål. Etter det har det vært en kraftig økning i selekterte mål. I en artikkelen fra 2016 (Nesser, Stenersen og Oftedal, 2016) oppdateres funn fra Nesser og Stenersen (2014). Der beskrives en utvikling for årene 2014–2016 som mer preget av variasjon i målutvelgelsen.
+
+1.  **<u>Valg av v</u><u>å</u><u>pen</u>**
+
+Nesser og Stenersen (2014) beskriver de taktiske valgene til terrorister i perioden etter 1994. I begynnelsen dominerte bombeangrep og etter 2008 var kjennetegnet økt bruk av kniver og skytevåpen. Vi ser at valg av våpen har variert. Terrorhandlinger i form av dataangrep og bruk av kjemiske/radioaktive/nukleære våpen har vært fraværende. Det har ikke vært bruk av teknologisk avanserte våpen og det har ikke vært terrorhendelser hvor gisler er brukt som skjold, eller angrep i lufta eller til sjøs (Nesser, Stenersen og Oftedal, 2016). Forskerne vurderer særlig om det foregår en smitteeffekt gjennom media som inspirerer andre, og at dette kan gjelde valg av våpen. Det kan gjøre at noen valg av våpentyper brukes i flere angrep. Det finner sted en økt variasjon i valg av våpen og taktikk. Bruk av skytevåpen er for første gang mer dominerende enn eksplosiver.
+
+1.  **<u>Perioden 2014</u><u>–</u><u>2016: de nyeste trendene</u>**
+
+I artikkelen fra 2016 (Nesser, Stenersen og Oftedal, 2016) ser vi hovedsakelig at trendene fra 2014-artikkelen vedvarer, med noe mer tilfeldige mål, men fremdeles dominert av spissede mål. Fremdeles er det flere angrep utført av enkeltaktører (12), enn av grupper (4). Det dødeligste ble utført av en gruppe (Paris). Enkeltindivider som utfører angrep har ofte tilknytning til nettverk.
+
+Artikkelen viser at det var spesielt mange angrepsplot i perioden 2014–16, også spesielt mange drepte (særlig ved angrepene i Paris, Nice og Brussel). Alle hendelsene i perioden (unntatt én) har koblinger, dog tidvis svake, til terrornettverk som IS og Al-Qaida. To utviklingstrekk er tilstede: Det brukes mer skytevåpen enn bomber (men bomber utgjør fremdeles en betydelig faktor), og for første gang er et kjøretøy brukt i massedrap i Europa, i angrepet i Nice sommeren 2016 (dette skjedde igjen på et marked i Berlin julen 2016). Forfatterne peker på bruk av sosiale medier som en endring i planleggingen, og det har også blitt brukt streaming på nett under utføringen av enkelte angrep.
+
+1.  **<u>Fremtidige trender</u>**
+
+Terrorismen er på et relativt lavt nivå i Europa, sammenlignet med tidligere. Imidlertid har det funnet sted noen angrep med mange drepte de siste årene, og disse hendelsene får enormt mye mediedekning og de blir slik svært synlige. Dette vil antakelig også gjelde fremtidige angrep. Det er altså ikke nødvendigvis slik at det hverken er antall angrep eller antall drepte som avgjør hvor stort fokus terror får, men heller den frykten som skapes, og som terroren har som formål å skape. Ofte omtales det som om «terroren kommer nærmere», men vi ser at det ofte er de samme landene som rammes og at handlingene begås av personer tilknyttet de samme nettverkene som tidligere.
+
+Det er ikke gitt at en økning i trusselnivået for andre europeiske land har noe å si for det norske trusselnivået. Samtidig som terrorfaren i Europa ikke antas å gå ned de neste årene, er det ikke gitt at dette har noe å si for Norge. Sjef for etterretningstjenesten presiserte dette ovenfor NRK (4.1.2017):
+
+- *<u>Vi forventer at antall angrep i Europa vil holde seg der de er eller kanskje </u><u>ø</u><u>ke litt, sier sjef for Etterretningstjenesten, generall</u><u>ø</u><u>ytnant Morten Haga Lunde, til NRK.</u>*<u> \[…\] Terrorfaren i Norge er imidlertid uendret.</u>
+
+- <u>Norge er ikke et prioritert mål for hverken ISIL eller Al Qaida sin ledelse, men organisasjonene anser Norge som et legitimt mål.</u>
+
+<u>Samtidig sier E-sjefen at trussel mot norske mål vil øke hvis IS og Al Qaida konkret innlemmer Norge i sine erklæringer og trusler.</u>
+
+- <u>Men så langt ser vi ingen slik prioritet, sier Lunde.</u>
+
+Norge er altså ikke per nå et prioritert mål. Det er imidlertid grunn til å anta at deler av Europa også i nær fremtid vil kunne bli usatt for nye terrorhandlinger (Hegghammer, 2016). FFI-forsker Thomas Hegghammer uttaler til VG at Europa bør gjøre en innsats for forebygging, blant annet gjennom fokus på å inkludere sårbare individer i arbeidsmarkedet (VG 31.12.2016).
+
+Trekk ved jihadismen har vært i en viss utvikling, og påvirkes også av geopolitiske endringer og særlig av situasjonen i Syria. Det er vanskelig å forutse den videre utviklingen, men i følge Etterretningstjenesten er IS kraftig utfordret og svakere enn tidligere (Lunde, 4.1.2017). Nesser, Stenersen og Oftedal (2016) antar at modus og taktikk i fremtidige angrep også vil avhenge av IS’ styrke. Et sterkt IS kan bety at angrep som utføres kan bli av større karakter, mens et svakt IS kan bety at angrep blir gjennomført som småskala angrep begått av enkeltaktører.
+
+Hvor mange angrep jihadister gjennomfører fremover vil avhenge av flere faktorer. Per i dag ser vi ikke indikasjoner på at Norge vil være et mål, men enkelte land i Europa vil nok rammes av terrorangrep utført av jihadister også de neste årene. Kjennetegn ved angrepene som potensielt kan finne sted er noe som drøftes av Nesser, Stenersen og Oftedal (2016), med bakgrunn i trender fra de siste årene:
+
+<u>For all the talk of a new threat we argue that, apart from scope, less is new than most assume. IS wants largely the same as al-Qaida did by attacking Europe. Their tactics are similar and their networks overlap in time and space. The core dynamics of the threat endure. It is premature to talk of a new paradigm in recruitment, but more terrorists are instructed online than before. Patterns in funding remain relatively stable, but there is an increase in plots financed from abroad. Despite military setbacks, IS remains a formidable terrorist actor, with territorial control, economic muscle and thousands of Europeans in its ranks. These things, combined with the group’s skillful social media usage, are exhausting European security services’ capacities. So is the refugee situation, which is exploited by IS to transfer personnel. If IS’s territorial control persists, we foresee attempts at large scale operations, including attempts at using improvised chemical or radiological devices. If IS continues to lose ground, small-scale attacks by single actors will become even more frequent (Nesser, Stenersen og Oftedal, 2016, s.3).</u>
+
+Det er altså mindre nytt som skjer enn hva man kanskje kunne forvente. IS’ taktikker ligner al-Qaida sine. Nesser, Stenersen og Oftedal (2016) ser noe økning i online-instruksjon og stabilitet i finansieringen, og noe økning i plot finansiert fra utlandet. De omtaler IS som en terroraktør med økonomisk styrke, territorialkontroll og tusenvis av europeiske tilknyttede. Dette på tross av at de er blitt slått tilbake militært. IS beskrives som en utfordring for europeiske sikkerhetsmyndigheter.
+
+1.  **<u>Flyplasser som terrorm</u><u>å</u><u>l</u>**
+
+Utvalget har sett nærmere på terrorisme mot flyplasser, ettersom det vil drøftes mot ulike modeller for bevæpning i kapittel 9. Fra nyere tid kjenner vi angrep hvor flyplasser har vært mål.[^84] For perioden 1998–2011 er det i GDT (Global Terrorism Database) blitt registrert 20 forsøk på angrep mot flyplasser i USA, Canada, Australia og Europa (Stewart & Mueller, 2014 s. 102). De fleste av disse angrepene skadet ingen personer og gjorde heller ingen øvrig vesentlig skade, men totalt ble 64 drept, hvorav 37 i et angrep i Moskva i 2011 (Stewart & Mueller, 2014, s. 102).[^85]
+
+Tønnesen (2008) har skrevet en rapport fra FFI om luftfart som terrormål. Rapporten beskriver at luftfarten lenge er blitt ansett som et attraktivt mål for terrorister, og har blant annet vært det for Al-Qaida. Samtidig har enkelte flyselskaper og enkelte lands lufthavner vært mer utsatt enn andre. Dette har sammenheng med den generelle variasjonen mellom ulike lands trusselbilder. USA, Storbritannia, Frankrike og Israel har vært særlig utsatt. Det er også variasjon i utsatthet, hvor mindre fly og flyplasser ofte er mindre utsatt enn de større, men Tønnesen beskriver at sikringstiltak ved de store kan føre til forflytning i angrep mot de mindre (se under).
+
+Rapporten ser på angrep og utviklingstrekk tilbake til 1960-tallet. Norge har hatt få angrep når en ser på historien, dette har vært kapringer gjort av personer som har ønsket å søke asyl i Norge, og enkelte tilfeller hvor traumatiserte asylsøkere har gjennomført eller planlagt voldsaksjoner mot luftfarten (Tønnesen, 2008, s. 3).
+
+1.  **<u>Sikringstiltak og dilemmaer </u>**
+
+Rapporten beskriver hvordan luftfartssektoren skiller seg fra andre transportmål fordi den har et særlig høyt sikkerhetsnivå. Dette sikkerhetsnivået har også implikasjoner for terroristers handlemåter:
+
+<u>Sikkerheten har implikasjoner for valg av virkemiddel; de blir tilpasset eksisterende sikkerhetstiltak og endret eller erstattet med andre aksjonsformer hvis nye regler gjør de opprinnelige virkemidlene ubrukbare. Dermed har terrorgruppenes taktikker mot flysektoren en tendens til å være hyppig brukt i en periode for så å bli erstattet av et annet virkemiddel i en annen periode (Tønnesen, 2008, s. 3).</u>
+
+Rapporten viser også til flere dilemma knyttet til økte sikringstiltak og følgene av slike. Det beskrives at «et høyt sikkerhetsnivå \[kan\] i seg selv muligens bidra til at et mål er attraktivt, selv om det vanligvis fører til at terroristene velger å angripe andre typer mål eller å angripe fly og flyplasser som er dårligere beskyttet» (Tønnesen, 2008, s. 46). Det er også en utfordring at «\[h\]istorien har også vist at terroristene tilpasser og fornyer sine angrepsplaner etter hvert som sikkerhetstiltakene blir oppdatert» (Tønnesen, 2008, s. 43). Det er altså ikke gitt at innførte sikringstiltak vil ha den ønskede effekten.
+
+1.  **<u>Forebygging</u>**
+
+Det foregår som beskrevet omfattende sikringstiltak ved flyplasser. En amerikansk doktorgrad fra 2016 om situasjonelle forebyggingsstrategier mot flyplassterrorisme (Block, 2016) har sett på gjennomførte angrep mot flyplasser og anbefaler særlig iverksetting av to nye tiltak som ikke i dag finner sted på mer enn et begrenset antall flyplasser. Blocks første tiltak er implementering av et tiltak fra Essex, Plane Watch[^86], hvor flyentusiaster får tilgang til Stansted flyplass for å drive med sin hobby, mot at de gis noe opplæring i å fange opp mistenkelig adferd og forpliktelse til å drive varsling. Dette vil øke den sosiale kontrollen ved flyplassene, og er i følge Block kostnadseffektivt og effektfullt. Det andre tiltaket hun vektlegger er en teknologisk innretning hvor en implementerer et datasystem for fusjonering av ulike systemer som til sammen avslører smugling av eksplosiver. Dette kan i følge Block brukes til å fange opp trusler som menneskelige operatører ikke alene kan fange opp. Hun drøfter også terrorangrep ved sikkerhetskontrollen og anbefaler her «human guardianship»; det kan være tilstedeværelse av frivillige som på Stansted, eller at flyplassens sikkerhetspersonell overvåker disse stedene. Dette kan gjøres via kameraer eller ved tilstedeværelse.
+
+1.  **<u>Terrorisme og bev</u><u>æ</u><u>pning</u>**
+
+Spørsmålet om politibevæping og betydningen det vil ha for terror, har primært vært drøftet av forskere på jihadisme.
+
+Terrorisme og utviklingen i jihadisme henger i følge Hegghammer (2016) sammen med makrotrender i samfunnet. Han peker på fire nødvendige fokusområder dersom utviklingen i jihadistisk terror skal endres; EU bør forsøke å øke den sosiale mobiliteten blant innvandrere, det bør jobbes mot at fengslede jihadister kan bygge nettverk og politiet bør satse på digital virksomhet. I tillegg bør en finne andre tilnærminger enn de som krigen mot terror har vært dominert av når en skal møte konflikter i de muslimske delene av verden. Dette er alle trender som har innvirkning på rekrutteringen til ytterliggående grupper:
+
+<u>If the jihadi radicalization problem in Europe does indeed get worse, it may be worth considering radical new approaches, both of the soft and the hard kind. Perhaps Europe needs to spend significantly more to improve education in immigrant-heavy areas. Perhaps we must consider longer prison sentences for terrorism offences. I do not purport to know exactly what might work. However, continuing as we do today, with small, incremental policy adjustments, arguably has a predictable outcome. It is a Europe with much larger intelligence services, an entrenched Muslim economic underclass, and more anti-Muslim sentiment. (Hegghammer, 2016).</u>
+
+For utvalgets del er det sentralt å vurdere hvilken effekt bevæpning kan ha på terror, og om generell bevæpning kan avgjøre forekomst eller utfall av terrorhandlinger. Forskere ved FFI, Hegghammer, Stenersen og Nesser (2014), har sett på jihadistiske terrorplot i Europa og på terroristenes handlingsvalg og bruk av våpen. På grunnlag av dette reflekterer de over hvilke av disse hendelsene som har blitt, eller kunne blitt, forhindret av politiets skytevåpen. De fleste tilfeller av terror har funnet sted i land hvor politiet bærer våpen i daglig tjeneste. Det gjør forskerne i stand til å reflektere over hvilken betydning bevæpning kan ha hatt.
+
+Hegghammer, Stenersen og Nesser (2014) har drøftet betydningen av bevæpning ut fra sin forskning på jihadistplot (altså både utførte angrep og veldokumenterte, planlagte angrep som ikke ble gjennomført) fra 2001 til 2014. De viser til at 55 av 76 slike plot involverte bomber og fire involverte forgiftning. For begge disse formene for angrep er det lite aktuelt å tro at vanlig gatepoliti (det antas her at forfatterne mener ordinært patruljerende politi) med våpen skal kunne avverge terrorangrep. Fem angrep skjedde ved bruk av kniv eller øks. Dette var angrep mot enkeltpersoner som i praksis var over før politiet kom til stedet. Det samme gjaldt fire angrep med skytevåpen som var rettet mot personer. Forskerne står da igjen med åtte plot som har involvert skyting mot folkemengder, som de anser mest aktuelt når en vurderer om bevæpnet, ordinært, patruljerende politi kan spille en rolle.[^87] Tre av plotene ble utført, men karakteriseres som såkalte «hit and run», hvor gjerningspersonen raskt angrep et forhåndsbestemt mål for så å forlate stedet. Det var i følge forskerne ingen politifolk til stede for å trekke våpen i noen av disse tilfellene, som alle fant sted i land med bevæpnet politi. Væpnet politi må altså befinne seg på stedet i utgangspunktet, for at de skal kunne avverge et slikt angrep. Den type scenarier hvor væpnet ordinært politi være avgjørende, avgrenses av forskerne til å være såkalte «Mumbai-angrep», altså angrep hvor en gjerningsperson dreper så mange som mulig, frem til politi kommer til stedet. Det er likevel ikke gitt at væpnet politi vil utgjøre en forskjell i alle slike angrep; i kronikken nevnes både Utøya og det opprinnelige Mumbai-angrepet som hendelser som ikke ble stoppet av ordinært politi. De viser også til et forsøk på angrep mot Canadas parlament, hvor en angriper ble drept av en politivakt før han fikk utført angrep på medlemmene av parlamentet. Forskerne konkluderer med at mye tyder på at politiet må være på stedet når angrepet starter for at bevæpning skal ha en betydning.
+
+De viser videre til planlagte «Mumbai-angrep» mot steder (hoteller/ avisredaksjoner/ offentlige arrangementer) hvor ordinært politi raskere kan komme til stedet enn antiterrorpoliti, og hvor responstid vil ha mye å si for antall drepte. Andre scenarier forfatterne ser for seg er scenarier hvor forskjellen i våpen i bil eller på hoften ikke nødvendigvis vil spille noen rolle. Forfatterne avslutter med en drøfting av Storbritannia og hvordan de på tross av større terrortrussel ikke bevæpner sitt ordinære politi, men har flere væpnede innsatsstyrker og mer væpnet vakthold på strategiske punkter enn Norge. De anser punktbevæpning ved strategiske mål som noe som kan vurderes, men fremhever at:
+
+<u>Vår beste beskyttelse mot terror \[er ikke\] pistolen, men god etterretning. Modige infiltratører og skarpe analytikere har avverget langt flere terrorangrep i Europa de siste årene enn bevæpnede politipatruljer. Flere våpen i gatene kan i beste fall bare begrense – neppe forhindre – terroren</u>[^88]<u> som truer Norge (Hegghammer, Stenersen og Nesser, 2014).</u>
+
+Utvalget er også kjent med studier av andre forskere som indikerer det samme. Cato Hemmingby (25.10.2016) ved Politihøgskolen, har i sin forskning på terrorisme i Europa gjort en lignende vurdering av 66 hendelser. Hemmingby finner at generell bevæpning ikke ville være relevant i 26 av disse tilfellene. I 36 av dem ville modellen med fremskutt lagring være tilstrekkelig. Han viser til fire hendelser hvor en generell bevæpning av politiet potensielt *kunne* utgjort en forskjell. To hendelser var angrep med kniv/øks på to ulike franske politistasjoner hvor gjerningspersonen ble skutt og drept (i 2014 og 2016). En hendelse var en ubevæpnet politikvinne som under håndtering av en trafikkhendelse ble skutt i ryggen av en mann involvert i terroraksjonen mot Charlie Hebdo i 2015, under unntakstilstanden som fulgte etter angrepet. Den siste hendelsen var et angrep i Tyskland hvor en ung, radikalisert jente plutselig stakk en politimann i halsen under en id-sjekk av henne. I alle disse hendelsene var politiet mål for angrepet og alle hendelsene fant sted i land hvor politiet er bevæpnet.
+
+Hegghammer viser til at væpnet gatepoliti frem til 2015 ikke én gang har stoppet terror i Europa (Dagsavisen, 25.2.2015):[^89]
+
+<u>– De femten siste årene har ikke væpnet gatepoliti én eneste gang stoppet terror i Europa.</u>
+
+<u>Det sier terrorforsker Thomas Hegghammer ved Forsvarets forskningsinstitutt (FFI). Under et seminar på Stortinget i går påpekte han at en generell bevæpning av politiet trolig vil ha liten effekt for å avverge terrorangrep. Da er det mer effektiv med væpnet objektsikring av særlig utsatte mål, påpeker forskeren. \[…\] Hegghammer påpeker at væpnet gatepoliti som kom til under terrorangrepet i Paris</u>[^90]<u> hadde lite å stille opp med mot tungt væpnede terrorister. Derfor vil generell bevæpning av politiet med pistol på hofta ha liten effekt, mener han. Under terrorangrepet mot ytringsfrihetsseminaret i København var politiet væpnet på grunn av truslene mot karikaturtegner Lars Vilks.</u>[^91]<u> Politiet besvarte ilden. Slik væpning er lov i Norge med dagens lovverk, understreker Hegghammer.</u>
+
+Hegghammer har også drøftet effekten av mindre dødelige våpen, som elektrosjokkvåpen, og hvilken betydning det kan ha for terror. Han er kritisk til elektrosjokkvåpen i terrorforebyggingsøyemed (Nettavisen, u.å):
+
+<u>At elektrosjokkpistol skulle hindre et terrorangrep, tror Hegghammer ikke noe på.</u>
+
+- <u>Meg bekjent har ingen terrorangrep blitt avverget eller begrenset av elektrosjokkpistol. Jeg mener at jakten på et beskyttelsesvåpen på hofta er et blindspor, sier Hegghammer.</u>
+
+<u>Han er riktignok for punktbevæpning – bevæpnede vakter på utsatte steder, som for eksempel Stortinget og regjeringslokalene. Hegghammer får støtte av terrorforsker Cato Hemmingby ved Politihøgskolen.</u>
+
+- <u>Intet i forhold til terrorisme tilsier generell bevæpning av politi i hele Norge. Det bør begrenses til særlig utsatte objekter og folketette nøkkelpunkter, og det burde vært justert lokalt og geografisk fra starten av, sier han.</u>
+
+1.  **<u>Publikums forventning om beskyttelse?</u>**
+
+Knyttet til terror vil vi her se på hvilken kunnskap vi har om publikums forventninger til beskyttelse, og til politiets håndtering av en eventuell terrorhendelse.
+
+Artikkelen *Terrorbekjempelse – hva mener folk flest?* (Egge, artikkel under utarbeidelse/2017) ønsker å besvare to spørsmål. Det første er hvilke tiltak publikum tror er terror-forebyggende. Dernest drøfter artikkelen om det er sammenfall mellom de tiltakene publikum har tiltro til og tiltakene som er blitt iverksatt.

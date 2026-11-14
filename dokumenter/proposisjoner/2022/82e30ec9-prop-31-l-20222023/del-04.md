@@ -1,826 +1,166 @@
-# Prop. 31 L (2022–2023), del 4 av 6 (side 40–48)
+# Prop. 31 L (2022–2023), del 4 av 7
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2022/82e30ec9-prop-31-l-20222023.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-31-l-20222023/id2949174/
 - Original-PDF: https://www.regjeringen.no/contentassets/25adb45602fb4edcbace3eab80a9c964/no/pdfs/prp202220230031000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 40]
-
-38
-
-Prop. 31 L
-
-2022–2023
-
-Endringer i politiloven og politiregisterloven (PSTs etterretningsoppdrag og bruk av åpent tilgjengelig informasjon)
-
-glene i politiregisterloven fordi det meste av opplysningene som vil måtte behandles, vil være
-unødvendige, ikke-relevante opplysninger for tjenesten. Det var etter departementets syn behov
-for å etablere en egen hjemmel for denne typen
-behandling, og det ble foreslått en ny bestemmelse som regulerer alle sider ved behandlingen,
-inkludert en forskriftshjemmel som oppstiller et
-krav til nærmere regulering i forskrift.
-I høringsnotatet ble det uttalt at departementet
-hadde vurdert om adgangen til å behandle offentlig tilgjengelig informasjon burde begrenses, for
-eksempel basert på konkrete informasjonsbehov
-eller lignende. Departementet mente imidlertid at
-en slik avgrensning ville være vanskelig å gjennomføre i praksis, og at det ikke ville være mulig å
-etablere egnede og tilstrekkelig presise avgrensingskriterier i regelverket for hvilke opplysninger som kan lastes ned. Det ble derfor ikke foreslått noen begrensninger i regelverket i hva som
-kan hentes inn, så lenge det er snakk om åpent tilgjengelig informasjon.
-I høringsnotatet ble det vist til at det forekommer at åpen informasjon må lastes ned og lagres
-lokalt før det er mulig å foreta søk i innholdet.
-Slike datasett har blitt en viktig kilde til informasjon for akademia, journalister, kommersielle
-aktører, aktivister og organisasjoner i sivilsamfunnet. Etter departementets syn burde slik bruk av
-åpne kilder også være mulig for PST.
-
-8.3.2 Høringsinstansenes syn
-Forsvarsdepartementet støtter forslaget. Åpne kilder er i dagens informasjonssamfunn en relevant
-metode for å samle inn informasjon om flere av
-forholdene som PST skal forebygge og etterforske. Metoden vil mest sannsynlig komplementere
-andre metoder som PST kan benytte. Sett i sammenheng med tvangsmidlene som PST har tilgjengelig for å forebygge og etterforske saker, er
-metoden i seg selv ikke særlig inngripende. Ettersom innhentingen ikke skjer etter samtykke, og
-fordi summen av informasjonen over tid kan bli
-omfattende, kan innhentingen likevel bli inngripende i et personvernperspektiv selv om informasjonen er tilgjengeliggjort av personen selv. Forsvarsdepartementet støtter derfor forslaget om at
-metoden lovreguleres. Det bør også vurderes om
-politiets behandling av informasjon fra åpne kilder
-generelt bør reguleres.
-Politiets sikkerhetstjeneste (PST) støtter forslaget. Det er ikke mulig å «følge med» ved å «se på»
-nettet i sanntid. På grunn av åpne kilders karakter
-
-må opplysningene som er relevante lagres og
-bearbeides over tid.
-Riksadvokaten mener at tatt i betraktning
-dagens bruk av moderne informasjonsteknologi,
-sier det seg nærmest selv at PST som ledd i sin
-virksomhet i stor utstrekning må ha anledning til
-å gjøre bruk av informasjon som er åpent tilgjengelig på internett. I den grad relevante opplysninger ikke kan nyttiggjøres uten at også opplysninger uten betydning følger med, mener Riksadvokaten at det i stor utstrekning må aksepteres at
-tjenesten behandler slik overskuddsinformasjon.
-Stortingets kontrollutvalg for etterretnings-,
-overvåkings- og sikkerhetstjeneste (EOS-utvalget)
-savner en vurdering av behovet for å lovfeste innhenting av åpent tilgjengelig informasjon som en
-metode for PST. Utvalget reiser spørsmål ved om
-inngrepet burde vært ledsaget av ytterligere vilkår for å ivareta borgernes personvern og rettsikkerhet – og i forlengelsen sikre mulighet for reell
-kontroll fra utvalget.
-Datatilsynet ser at PST har et behov for å følge
-med og etterforske på internett, men på grunn av
-det betydelige overvåkingspotensialet som digital
-overvåking med de muligheter kunstig intelligens
-og andre stordataverktøy åpner for, må denne
-aktiviteten foregå under streng kontroll og rammer for den enkeltes rettsikkerhet. En løsning
-hvor innhentingen er målrettet og underlagt en
-uavhengig forhåndskontroll vil være mer i tråd
-med praksis fra EMD og EU-domstolen, der målretting står sentralt.
-Tilsynet mener at innhentingsmetode burde
-vært drøftet. Det er ikke beskrevet hvordan PST
-skal innhente informasjon fra nettet, om dette skal
-gjøres manuelt og målrettet, gjennom verktøy
-utviklet av PST eller av underleverandører som tilbyr «skraping» av nettet. Det er heller ikke drøftet
-om det vil være tillatt å bruke såkalte «data brokers» som selger opplysninger fra apper eller nettet.
-Norges institusjon for menneskerettigheter (NIM)
-mener at omfanget av den foreslåtte innsamlingen
-er iøynefallende. Etter NIMs oppfatning bør det
-vurderes om adgangen til innsamling av opplysninger bør presiseres og konkretiseres nærmere.
-Bruk til etterretningsvirksomhet er et vidt virkeområde, og er ikke en entydig rettslig størrelse.
-Hvem eller hvordan det skal avgjøres om bruken
-kan rubriseres som «etterretningsvirksomhet», er
-ikke angitt. NIM forstår departementet dithen at
-«etterretning» blant annet skal omfatte innhenting, analyse og vurdering av informasjon, eksempelvis med formål å forebygge straffbare forhold,
-men også forut for det som tradisjonelt omfattes
-
-[Side 41]
-
-2022–2023
-
-Prop. 31 L
-
-Endringer i politiloven og politiregisterloven (PSTs etterretningsoppdrag og bruk av åpent tilgjengelig informasjon)
-
-av begrepet forebygging. Det er vanskelig for
-befolkningen å skulle overskue konsekvensene av
-dette, all den tid det er vanskelig å avgjøre hva
-som omfattes. Forslaget inneholder ikke noen
-begrensninger på hvordan søk skal foregå eller
-gjennomføres. Høringsnotatet burde inneholdt
-avgrensninger av hvilke søkekriterier som kan
-benyttes, og mekanismer for å sikre at disse står i
-saklig sammenheng med formålet opplysningene
-skal uthentes for. Hvilke søkebegrep som brukes
-kan være avgjørende for om en konkret bruk av
-informasjonen er forholdsmessig eller ikke.
-Rettssikkerhetsmekanismene må fungere i
-praksis, herunder må garantiene mot misbruk
-bygges inn i systemet, og det må foreligge reelle
-avgrensninger av hvilke søkekriterier som kan
-benyttes. Slik forslaget er lagt opp, mener NIM at
-det gir PST en ubestemt skjønnsmyndighet uten
-kriterier for overprøving. Dette gjør også den foreslåtte kontrollen av søk lite effektiv som kontrollmekanisme, ettersom skillet mellom lovlig og
-ikke lovlige søk ikke er tydelig.
-På bakgrunn av den vide innsamlingsadgangen og den lange lagringstiden anbefaler NIM at
-departementet legger til rette for forhåndskontroll når det foretas søk i det innsamlede materialet. Dette kan eventuelt gjøres ved at det innføres
-en godkjenningsordning for hvilke opplysninger,
-søkeord eller andre parametere som kan ligge til
-grunn for søk i materialet.
-Medietilsynet savner en vurdering av om det
-identifiserte formålet kan oppnås på en mindre
-inngripende måte. Forslaget fremstår mer inngripende for privatlivet og ytringsfriheten enn hva
-som er tilfellet i de fleste land i Norden, uten en
-forklaring på om trusselbildet i Norge er vesensforskjellig fra våre naboland.
-Også Advokatforeningen påpeker at det ikke er
-tilstrekkelig klargjort om forslaget om bulkinnsamling av åpen tilgjengelig informasjon samsvarer med eller går lengre enn lovhjemlene til etterretningstjenestene i land som Norge har tradisjon
-for å sammenligne seg med. Både fra et menneskerettighetsperspektiv og fra et personvernståsted ser Advokatforeningen betydelige betenkeligheter ved forslaget. Slik hjemmelen er utformet, vil det være opp til PST å avgjøre hvorvidt
-innsamlingen skjer i tråd med etterretningsformålet. En så vid formålsbeskrivelse innebærer i praksis ingen begrensning.
-Advokatforeningen mener det burde vært
-utredet nærmere om adgangen til å behandle
-offentlig tilgjengelig informasjon bør begrenses.
-For eksempel kan det være aktuelt å begrense
-PSTs adgang til å samle inn og lagre åpent tilgjen-
-
-39
-
-gelig informasjon om barn, som nyter en særskilt
-beskyttelse etter personvernregelverket.
-Det rettslige kravet om at en behandling av
-personopplysninger skal være nødvendig betyr i
-utgangspunktet at terskelen er høy. Advokatforeningen har problemer med å se at det er mulig å
-ivareta kravet til nødvendighet samtidig som PST
-gis hjemler som foreslått.
-Tekna anerkjenner PST sitt behov for å få nye
-verktøy for å møte digitale utfordringer og løse
-samfunnsoppdraget. De savner imidlertid en
-grundigere redegjørelse for hvilke verktøy og
-metoder som skal benyttes ved innhenting. Det er
-uklart om dataene som innhentes kan bli beriket
-med andre data som PST allerede har. Det fremgår ikke hvordan man tenker å plukke ut, filtrere,
-analysere og lagre relevant informasjon fra alle
-relevante deler av internett, med fortløpende
-endringer, og samtidig holde informasjonen mest
-mulig korrekt og representativ. PSTs formål med
-dataene skiller seg fra formålene som de individuelle datakildene har for dataene, og dataene vil bli
-gjenstand for blant annet utvalg og filtrering før
-PST lagrer dem. Denne behandlingen vil kunne
-gjøre at informasjonen tas ut av kontekst og ikke
-lenger er representativ. Et system som skal gjøre
-utdrag fra hele internett, vil nødvendigvis bare
-kunne lagre utdrag og «bruddstykker» av all relevant informasjon.
-Dataforeningen uttaler at forslaget innebærer
-en generell og udifferensiert innhenting av åpen
-informasjon. Dette innebærer i praksis en masseovervåking av borgernes ytringer i det offentlige
-rom, som etter Dataforeningens syn ikke er et
-akseptabelt virkemiddel. Høringsnotatet inneholder svært begrensede begrunnelser for de
-behovene som beskrives, og det er derfor vanskelig å vurdere forholdsmessigheten av et slikt inngrep.
-IKT-Norge mener at oppgaven som skal ivaretas og tilrettelegges for gjennom lovforslaget,
-fremstår som svært tynt begrunnet. Forslaget
-underbygges ikke verken med konkrete eksempler på situasjoner som kan avverges ved tiltaket,
-erfaringer fra andre land eller tilsvarende. IKTNorge hadde forventet å se en begrunnelse for at
-tiltaket kan ha en faktisk effekt, som et minimumskrav for å akseptere inngrepet.
-NITO mener at forslaget åpner for å registrere
-informasjon om enkeltpersoner, lagre denne, for
-så å kunne drive etterretning mot egne borgere i
-etterkant, noe som strider mot demokratiets prinsipper for innsamling av elektroniske spor. NITO
-frykter at en såpass massiv innsamling av informasjon vil kunne føre til svært mange ønsker om
-
-[Side 42]
-
-40
-
-Prop. 31 L
-
-2022–2023
-
-Endringer i politiloven og politiregisterloven (PSTs etterretningsoppdrag og bruk av åpent tilgjengelig informasjon)
-
-sekundærbruk som ikke er forenelig med det opprinnelige formålet med tiltaket. En del av løsningen kan være å avgrense anvendelsen slik at innsamlede data anonymiseres fra starten av, før lagringen finner sted i PSTs systemer. Det er da viktig at anonymiseringen er reell, slik at det ikke er
-mulig å identifisere personer eller små grupper.
-UTSYN mener det er grunn til å anta at oppdraget kan la seg løse på en måte som lar PST innhente informasjon fra åpne kilder i bulk, samtidig
-som innsamlingen begrenses til det som vil være
-relevant for formålet med innhentingen. Innhenting av informasjon i bulk fra åpne kilder vil måtte
-innrettes på ulike måter mot ulike trusselaktører
-og fenomener. Innhentingen kan begrenses ved at
-den for eksempel retter seg mot spesifikke nettsteder eller plattformer, eller at det defineres terskelverdier for hva som er å anse som en identifikator på budskap som kan knyttes opp mot for
-eksempel ekstremisme. Slike vurderinger vil uansett måtte gjøres av PST selv i forbindelse med
-innhenting og analyse av dataene, uavhengig av
-type trussel- og kriminalitetsfenomen. Man kan se
-for seg at PST tar utgangspunkt i en liste av nøkkelbegreper som identifiserer relevante nettsteder, og at hele eller deler av innholdet på de relevante nettstedene lagres. En slik liste kan revideres av interne og eksterne kontrollmekanismer,
-slik at det etableres en form for demokratisk kontroll over innhentingen samtidig som at PST gis
-forutsetninger til å løse sine lovpålagte oppgaver.
-Innretningen må understøttes av teknologiske løsninger, og hvilken teknologi som velges vil
-påvirke hva som er praktisk gjennomførbart. Lovteksten må utformes på en måte som muliggjør
-utvikling eller anskaffelse av informasjonssystemer og applikasjoner som understøtter
-behandlingen.
-
-8.3.3 Departementets vurderinger
-Departementet opprettholder at det er behov for
-at PST skal kunne benytte åpent tilgjengelig informasjon for å utarbeide analyser og etterretningsvurderinger om forhold i Norge som kan true
-nasjonale sikkerhetsinteresser. Når aktiviteten i
-stor grad foregår på nett, bør PST ha mulighetene
-og verktøyene til å kunne følge med den. Dette vil
-som beskrevet i høringsnotatet ikke være mulig
-uten at informasjonen kan lastes ned og analyseres nærmere. Etter departementets vurdering må
-det i en slik sammenheng også aksepteres at mye
-av informasjonen i seg selv er av liten eller ingen
-interesse for PSTs oppgaveløsning.
-
-Departementet ser imidlertid at det er behov
-for å beskrive hva informasjonen er ment brukt til
-noe nærmere. Formålet med behandlingen er
-ikke individrettet, men å gi beslutningsstøtte, det
-vil si å danne grunnlag for taktiske, operasjonelle
-og strategiske beslutninger. Analyser og etterretningsvurderinger vil kunne bidra til å gi en retning og en prioritering for PSTs arbeid på ulike
-felter. Ved å kunne analysere omfanget av trusler
-på ulike områder vil PST i større grad kunne innrette sin innsats mot de områdene der det er nødvendig. Som eksempel kan nevnes at dersom analyse av åpent tilgjengelig informasjon tilsier at det
-foregår omfattende påvirkningsoperasjoner, er
-dette et område PST bør prioritere. Er omfanget
-av høyreekstreme uttalelser eller hets mot myndighetspersoner økende, kan PST måtte rette
-større oppmerksomhet mot disse feltene.
-Videre vil vurderingene gi norske myndigheter verdifull informasjon om omfanget av ulike
-trusler i Norge i dag, samt potensielle trusler i
-fremtiden, slik at myndigheten kan innrette tiltak
-og ressurser mot dette. For eksempel kan omfang
-av strategiske oppkjøp eller russisk aktivitet i
-Norge være av betydning for hvilke tiltak som prioriteres. Det samme gjelder innenfor ulike sektorer der det er stort behov for å vite hvordan ulike
-trusselaktører opererer for å kunne forsvare seg
-mot uønskede hendelser, det være seg ulovlig
-etterretning, cyberangrep eller sabotasje.
-Flere høringsinstanser er kritiske til at det
-ikke gjøres noen begrensninger på selve innsamlingen av informasjon, og peker på at målretting
-står sentralt i praksis fra EMD og EU-domstolen. I
-høringsnotatet la departementet til grunn at en
-avgrensning av innhentingen kunne være vanskelig å gjennomføre i praksis, og det ble ikke foreslått noen begrensninger i regelverket i hva som
-kan hentes inn.
-Etter en fornyet vurdering har departementet
-imidlertid kommet til at det er ønskelig å ramme
-inn innhentingen til en viss grad. Dette vil bidra til
-å møte bekymringer for at PST kan lagre «hva
-som helst» helt uavhengig av om det har noen
-betydning for tjenestens oppgaver. Også for PSTs
-egen del er det ønskelig at informasjonen som
-behandles er mest mulig relevant for tjenestens
-oppgaveløsning, selv om den enkelte opplysning i
-seg selv ikke nødvendigvis er av interesse.
-Grunnleggende for all etterretning er at den
-har til formål å danne grunnlag for beslutninger.
-Etterretningsprosessen er en styrt prosess, som
-utløses av at en beslutningstaker har et behov for
-økt kunnskap, for eksempel om fenomener som
-kan utgjøre en trussel. Dette behovet vil normalt
-
-[Side 43]
-
-2022–2023
-
-Prop. 31 L
-
-Endringer i politiloven og politiregisterloven (PSTs etterretningsoppdrag og bruk av åpent tilgjengelig informasjon)
-
-kunne dokumenteres. Informasjonsbehovet kan
-oppstå på ulike måter, enten det er at overordnet
-organ eller andre offentlige organer har behov for
-informasjon til støtte for sine beslutninger, eller at
-PST selv ser behov for å kartlegge en mulig trussel nærmere. Det kan være et planmessig ønske
-om eksempelvis å få oversikt over utvikling på et
-område, eller mer tilfeldig. Sistnevnte kan være
-dersom PST blir kjent med noe som kan være
-indikasjon på en mulig trussel, og det er ønskelig
-å finne ut om det er mer informasjon om denne på
-åpne kilder. Det kan også være aktuelt der et lekket datasett eller et nettsted antas å inneholde
-informasjon som kan være nødvendig for å utarbeide analyser og etterretningsvurderinger, og
-PST ønsker å laste dette ned for å kunne arbeide
-videre med materialet.
-Som flere har pekt på vil PST selv måtte gjøre
-visse valg og avgrensninger når informasjonen
-skal lagres. En slik avgrensning kan gjøres på
-mange måter, eksempelvis ved at hele nettsteder
-som kan inneholde informasjon av interesse,
-lagres, at det først gjøres målrettede søk for å
-finne de aktuelle nettstedene, eller i form av nærmere undersøkelser etter mer tilfeldig funn av
-informasjon som det er grunn til å se nærmere på.
-Samtidig kan mulighetene til å behandle informasjon etter den nye bestemmelsen ikke være for
-snever dersom virkemiddelet skal få den ønskede
-effekten. Vurderingen av hva som skal behandles
-må nødvendigvis være overordnet og kunne favne
-bredt. Det kan heller ikke kreves sikker kunnskap
-om at det for eksempel finnes informasjon av
-betydning for analyser og etterretningsvurderinger på et bestemt nettsted for at informasjon fra
-nettstedet kan lagres og analyseres. Det er behov
-for et bredt informasjonsgrunnlag dersom tjenesten skal kunne følge utvikling og trender i
-trusselbildet. For å kunne oppdage avvik eller en
-negativ utvikling, må PST ha nok informasjon til at
-tjenesten vet hva som er «normalsituasjonen». Det
-er heller ikke ønskelig å avgrense mot at PST for
-eksempel kan laste ned datasett for å undersøke
-om de inneholder opplysninger av etterretningsmessig verdi, selv om det ikke er direkte knyttet
-til et konkret informasjonsbehov på nedlastingstidspunktet. I slike tilfeller vil det være tilstrekkelig at datasettet antas å inneholde informasjon
-som kan være nødvendig for å utarbeide analyser
-og etterretningsvurderinger.
-Regelverket må derfor formuleres på en måte
-som ikke innebærer en risiko for at PST går glipp
-av viktig og etterretningsrelevant informasjon,
-eller som gjør det mulig for trusselaktørene å forutse hvor PST vil rette oppmerksomheten og til-
-
-41
-
-passer sin virksomhet for å unngå å komme i
-PSTs søkelys. Hvordan PST skal avgrense innhentingen kan derfor ikke reguleres i detalj, men må
-konkretiseres i interne retningslinjer og rutiner.
-Departementet foreslår etter dette som et vilkår for behandling etter bestemmelsen at behandlingen «må antas å være nødvendig» for utarbeidelse av analyser og etterretningsvurderinger.
-Kravet om at behandlingen må «antas» å være
-nødvendig, innebærer at det ikke kreves sannsynlighetsovervekt eller sikkerhet for at det vil være
-nødvendig å behandle opplysningene. Det vil
-være tilstrekkelig med at en rimelig og ikke helt
-fjern mulighet for at behandlingen er nødvendig.
-Dette er en følge av at PST etter departementets
-syn må kunne gå bredt ut for å finne informasjon
-av betydning for analyser og etterretningsvurderinger for å bidra til å sikre nasjonale sikkerhetsinteresser. I en slik situasjon må det aksepteres at
-tjenesten også behandler informasjon som det kan
-vise seg at er uten betydning for tjenestens oppgaveløsning.
-Et krav om at behandlingen må antas å være
-nødvendig vil like fullt innebære en reell konkretisering av innhentingsadgangen. PST kan dermed
-ikke laste ned datasett, nettsteder eller lignende
-der det kun er en teoretisk eller fjern mulighet for
-at det kan finnes informasjon av etterretningsmessig verdi. Det er imidlertid ikke krav om at opplysningene må være nødvendige.
-Etter departementets vurdering vil denne innrammingen av innhentingen av åpent tilgjengelig
-informasjon ytterligere understreke forskjellen
-mellom den behandlingen bestemmelsen her
-åpner for og E-tjenestens hjemmel for bulkinnhenting av kommunikasjon i transitt. Ved at innhentingen er betinget av at den antas nødvendig for utarbeidelse av analyser og etterretningsvurderinger,
-er innhentingen etter bestemmelsen mer begrenset og målrettet enn ved tilrettelagt innhenting.
-Dette gjør at forslaget i denne proposisjonen skiller seg fra systemene dommene fra EMD og EUdomstolen tok stilling til, og gjør at de krav som
-der er oppstilt har begrenset overføringsverdi til
-forslaget her.
-En mer målrettet innhenting, kombinert med
-at informasjonen er offentlig tilgjengelig, gjør også
-at departementet ikke ser behov for en uavhengig
-forhåndskontroll med eller autorisasjon for innhentingen. Det anses tilstrekkelig at det foreligger interne rutiner hvor vilkårene for innhentingen fremgår og at det kan dokumenteres at innhentingen knytter seg til konkrete informasjonsbehov. Dette vil EOS-utvalget kunne kontrollere
-som ledd i sin alminnelige kontroll med tjenesten.
-
-[Side 44]
-
-42
-
-2022–2023
-
-Prop. 31 L
-
-Endringer i politiloven og politiregisterloven (PSTs etterretningsoppdrag og bruk av åpent tilgjengelig informasjon)
-
-Når det gjelder valg av innhentingsmåte og
-tekniske løsninger for dette, legger lovforslaget
-ikke føringer for hvordan opplysningene teknisk
-hentes inn. Ut over at det etter denne bestemmelsen er snakk om større mengder informasjon,
-skiller innhentingen seg ikke fra innhenting av
-åpent tilgjengelig informasjon i andre sammenhenger. Det sentrale er at opplysningene er åpent
-tilgjengelig, slik at det ikke vil kunne behandles
-opplysninger etter bestemmelsen dersom de ikke
-er allment tilgjengelig for offentligheten på innhentingstidspunktet.
-Når det gjelder den videre bruken av opplysninger i forbindelse med utarbeidelse av analyser
-og etterretningsvurderinger, ser departementet
-ikke behov for en forhåndskontroll med søk i opplysningene eller behandlingen for øvrig. I disse tilfellene behandles opplysningene for det formål de
-er innhentet for, og det bør derfor ikke begrenses
-hvordan denne behandlingen kan skje. Informasjonen som behandles etter forslaget er åpent tilgjengelig, og er dermed av en annen karakter enn
-informasjon som EMD-dommene dreier seg om.
-Åpen tilgjengelig informasjon vil også kunne
-søkes opp på nett så fremt informasjonen ikke er
-slettet, og det gjelder da ingen begrensninger i
-PSTs søkemuligheter. Det at PST har opplysningene lagret hos seg fremfor å måtte søke de opp
-på nett, er etter departementets vurdering ikke
-noe som tilsier at det må etableres forhåndskontroll for at PST skal kunne behandle opplysningene for det formål de er innhentet for. Eventuelle
-ytterligere krav for behandling til forebygging og
-etterforsking omtales nærmere i punkt 8.6 nedenfor.
-Det er stilt spørsmål ved om dataene som innhentes kan berikes med andre data PST allerede
-har. Selv om informasjonen ligger atskilt fra PSTs
-øvrige registre, må PST likevel kunne se informasjonen i sammenheng med annen informasjon tjenesten besitter. Søk i opplysningene innenfor de
-oppstilte formålene vil kunne skje på bakgrunn av
-opplysninger PST allerede har registrert i sine
-alminnelige systemer. Videre vil de ferdige analysene og etterretningsvurderingene kunne inneholde opplysninger fra en rekke kilder, enten det
-er forskning, informasjon fra samarbeidende tjenester eller fra tidligere trusselvurderinger.
-Departementet ser det på nåværende tidspunkt ikke som aktuelt å regulere innhenting av
-åpen tilgjengelig informasjon som en metode for
-politiet eller for PST. En slik bestemmelse er etter
-departementets syn heller ikke nødvendig. Åpne
-kilder er en av mange kilder for de opplysninger
-som allerede behandles av PST og politiet for
-
-øvrig. Politiregisterloven regulerer behandlingen
-også av disse opplysningene, ettersom loven ikke
-skiller på hvor opplysningene stammer fra. Opplysninger kan behandles så lenge lovens vilkår er
-oppfylt, uavhengig av om de stammer fra åpne kilder, andre offentlige organer, tips, kontakt med
-publikum eller andre kilder.
-
-8.4
-
-Unntak fra krav til opplysningenes
-kvalitet, behandling av særlige
-kategorier av personopplysninger
-mv.
-
-8.4.1 Forslaget i høringsnotatet
-Adgangen til å laste ned store mengder åpent tilgjengelig informasjon passer ikke inn i politiregisterlovens alminnelige regler om behandling av
-opplysninger. Det ble derfor foreslått å gjøre unntak fra kravene i politiregisterloven § 6, herunder
-kravene til at opplysningene som behandles skal
-være relevante og korrekte. Det ble vist til at når
-informasjon publiseres på internett vil PST ikke
-ha noen mulighet til å vurdere om den enkelte
-opplysning faktisk er korrekt.
-I tillegg ble det vurdert å være behov for å
-gjøre unntak fra politiregisterloven § 7, som gir
-anvisning på at behandling av særlige kategorier
-av personopplysninger bare kan finne sted dersom det er strengt nødvendig ut fra formålet med
-behandlingen. Mange publiserer denne typen
-opplysninger på internett, eksempelvis om politisk eller religiøs overbevisning, seksuell orientering osv. I høringsnotatet ble det vist til at det ikke
-vil være mulig å filtrere ut slike opplysninger.
-8.4.2
-
-Høringsinstansenes syn
-
-Riksadvokaten stiller spørsmål ved hvorvidt det er
-behov for generelle unntak fra §§ 6 og 7. Både
-relevanskravet og det strenge nødvendighetskravet for behandling av visse personopplysninger
-burde i prinsippet gjelde også ved masseinnhenting av informasjon, og så vidt riksadvokaten forstår er det i første rekke praktiske begrensninger
-som begrunner forslaget om unntak. I den grad
-det lar seg gjøre å sortere ut overskuddsinformasjon, enten i forbindelse med innhenting eller
-senere, antas det at lovens utgangspunkt burde
-være at denne muligheten i rimelig grad skal
-benyttes. Det kunne således vurderes å oppstille
-som vilkår for behandling av overskuddsinformasjon at utsortering og sletting ville være umulig
-eller uforholdsmessig ressurskrevende.
-
-[Side 45]
-
-2022–2023
-
-Prop. 31 L
-
-Endringer i politiloven og politiregisterloven (PSTs etterretningsoppdrag og bruk av åpent tilgjengelig informasjon)
-
-Datatilsynet viser til at det ikke er drøftet om
-en mer målrettet metode kunne ha oppfylt formålene. Målretting står helt sentralt både i praksis
-fra EMD og EU-domstolen. Datatilsynet understreker betydningen av korrekte opplysninger ved
-bruk av automatiserte analyseverktøy og eventuell bruk av kunstig intelligens, og den fare for
-algoritmeskjevhet (bias) det ellers kan medføre.
-Det må også tas med i betraktningen at noen
-publiserer sensitive opplysninger om andre mot
-deres vilje og på en ulovlig måte. Selv om opplysningene lagres ustrukturert, kan analyseverktøy
-raskt og enkelt kategorisere opplysningene.
-Medietilsynet mener at innsamlingen av data
-om etnisitet, seksuell orientering, politisk tilhørighet, i tillegg til datainnsamling om mindreårige, i
-liten grad er problematisert i høringsnotatet.
-Norges institusjon for menneskerettigheter (NIM)
-viser til at avgrensning mot lagring av sensitive
-personopplysninger ikke har annen begrunnelse
-enn at det ikke vil være mulig å skille ut disse opplysningene. NIM savner en mer grundig redegjørelse for betenkelighetene med en slik innsamling, både av hensyn til personvernet og av hensyn til ytringsfriheten. Videre savner NIM en
-omtale av om det kan innføres mekanismer for å
-unngå betenkelighetene ved å samle inn slike opplysninger. Det er eksempelvis ikke innført eller
-diskutert noen begrensninger knyttet til bruk av
-disse opplysningene.
-Advokatforeningen har forståelse for at det er
-vanskelig å anvende prinsippene etter lovens §§ 6
-og 7 for bulkinnsamling av data. Samtidig er de
-rettslige prinsippene som det gjøres unntak fra
-sentrale rettssikkerhetsprinsipper og ivaretar
-interesser som anses som sterkt beskyttelsesverdige, for eksempel fagforeningstilhørighet, politisk syn, etnisitet mv. Advokatforeningen mener at
-ulempene ved å bruke slike unntak burde vært
-vurdert.
-Dataforeningen mener at det må etableres en
-mekanisme for kvalitetskontroll av den informasjonen som samles inn for å benyttes til analyse,
-og at mekanismene må være etterprøvbare. Det
-må etableres en kvalitetskontroll og kontroll av
-korrektheten i resultatet av analysene når resultatet skal benyttes, og rettssikkerhetsgarantier for
-at resultatet av analysevirksomheten skal kunne
-benyttes til å etablere konkret sak rettet mot
-enkeltpersoner eller grupper.
-Tekna viser til at selv om det er krav om at
-informasjonen skal være en korrekt kopi av det
-PST har funnet på det åpne nettet, kan «korrekt
-kopi» av begrenset, utvalgt informasjon likevel gi
-et feil helhetsbilde. Det vises i den forbindelse til
-
-43
-
-at åpen tilgjengelig informasjon også vil omfatte
-uriktig informasjon som er lagt ut av andre.
-
-8.4.3 Departementets vurderinger
-Departementet har merket seg at flere instanser
-uttrykker forståelse for at det vil være vanskelig å
-filtrere ut opplysninger som ikke er relevante eller
-særlige kategorier av personopplysninger ved innsamlingen av åpent tilgjengelig informasjon.
-Flere av kravene som stilles i politiregisterloven § 6 vil ikke være mulig å oppfylle for den
-typen behandling forslaget her åpner for. Som det
-ble vist til i høringsnotatet er det ikke mulig å
-sikre at opplysninger i det sperrede materialet er
-korrekte og oppdaterte, eller at det ikke behandles flere opplysninger enn det som er nødvendig
-for å oppnå formålet. Angivelsen i § 6 fjerde ledd
-om at opplysninger i noen sammenhenger anses å
-være korrekte dersom de er gjengitt slik kilden ga
-dem, kan i og for seg være aktuell for opplysningene, ved at de vil behandles i den form de har
-fremkommet på den åpne kilden. Bestemmelsen
-er imidlertid utformet med tanke på andre situasjoner enn det som her er tilfelle, typisk referatsituasjoner som avhør av vitner mv.
-For at PST skal kunne utarbeide analyser og
-etterretningsvurderinger om forhold i Norge som
-kan true nasjonale sikkerhetsinteresser, er det
-behov for et bredt informasjonsgrunnlag. Dersom
-PST skal se på utviklingen innenfor et område
-over tid, eksempelvis omfanget av høyreekstreme
-i Norge, må tjenesten ha nok informasjon til å
-kunne etablere en «normaltilstand» for å se om og
-i tilfelle hvordan denne endrer seg. For å avdekke
-om det foregår påvirkningsoperasjoner, er det
-nødvendig med informasjon om hva som er «vanlig» aktivitet i sosiale medier for å kunne identifisere eventuelle avvik. Som det ble beskrevet i
-høringsnotatet vil dette innebære at PST vil kunne
-behandle svært store mengder informasjon der
-mange av opplysningene er av liten eller ingen
-interesse for PSTs virksomhet.
-Det er mange som publiserer særlige kategorier av personopplysninger om seg selv eller
-andre. Opplysningene vil kunne fremkomme i
-mange ulike former, eksempelvis i en løpende diskusjon på et chan-fora, eller i fritekst på en nettside som ellers kan tenkes å inneholde informasjon av betydning for utarbeidelse av analyser og
-etterretningsvurderinger. Å filtrere ut disse opplysningene ved innsamlingen, uavhengig av i hvilken form de fremkommer, vil ikke være mulig.
-Selv om dette betyr at opplysninger for eksempel
-om en persons seksuelle legning kan tenkes å fin-
-
-[Side 46]
-
-44
-
-2022–2023
-
-Prop. 31 L
-
-Endringer i politiloven og politiregisterloven (PSTs etterretningsoppdrag og bruk av åpent tilgjengelig informasjon)
-
-nes i det innhentede materialet uten at opplysningene er strengt nødvendig for å utarbeide analyser og etterretningsvurderinger, mener departementet at dette må aksepteres. Opplysningen er
-uansett åpent tilgjengelig. Den tilleggsulempen
-PSTs behandling innebærer for den enkelte, reduseres ved at opplysningene vil være sperret, jf.
-omtalen i punkt 8.5 nedenfor, og derfor kun kan
-behandles for særskilt angitte formål. I andre sammenhenger anses opplysningene ikke å være
-registrert hos PST.
-Departementet opprettholder derfor at det er
-behov for å gjøre unntak fra kravene etter §§ 6 og
-7. Imidlertid foreslås det å gjøre unntakene mer
-begrenset enn i høringsnotatet. Det er først og
-fremst ved innhentingen og lagringen at behovet
-for unntak fra bestemmelsene gjør seg gjeldende.
-Når det ikke stilles krav om at PST på forhånd må
-ha sikker kunnskap om at et nettsted, datasett
-eller lignende inneholder opplysninger som er
-nødvendige for analyser og etterretningsvurderinger, kan det heller ikke stilles krav om at opplysninger som er irrelevante eller gjelder særlige
-kategorier av personopplysninger ikke samles inn
-eller lagres.
-I tillegg er det behov for å opprettholde unntakene når opplysningene behandles ved hjelp av
-automatiserte analyseverktøy. Slike verktøy skal
-blant annet kunne brukes til å kartlegge trender
-og utviklingstrekk og gi prediksjoner om forventet utvikling. Denne typen automatiserte analyser
-krever et bredt informasjonsgrunnlag for å kunne
-gi mest mulig presise resultater. Automatiserte
-analyseverktøy må derfor kunne benyttes på alle
-de innhentede opplysningene, uavhengig av om
-den enkelte opplysning er relevant og oppdatert
-eller om det kan finnes særlige kategorier av personopplysninger i materialet.
-Unntakene fra kravene etter §§ 6 og 7 vil etter
-dette kun gjelde for innhenting, lagring og bruk
-av automatiserte analyseverktøy. For all annen
-behandling i forbindelse med utarbeidelse av analyser og etterretningsvurderinger vil kravene
-gjelde fullt ut. Heller ikke ved bruk i forebyggende sak eller til etterforsking gjøres det noen
-unntak fra kravene. Behandling av eventuelle særlige kategorier av opplysninger i en analyse eller
-etterretningsvurdering, en forebyggende sak og i
-etterforsking må derfor være strengt nødvendig,
-og opplysningene må være relevante, korrekte og
-oppdaterte.
-Riksadvokaten har foreslått å oppstille som vilkår for behandling av overskuddsinformasjon at
-utsortering og sletting ville være umulig eller
-uforholdsmessig ressurskrevende. Departemen-
-
-tet mener at en utsortering og sletting av overskuddsinformasjon gjennomgående vil være tilnærmet umulig eller uforholdsmessig ressurskrevende, og at det er vanskelig å begrense hva som
-lagres ut over den målrettingen av innhentingen
-som er beskrevet i punkt 8.3.3 ovenfor. En mer
-målrettet innhenting vil gjøre at mengden irrelevant informasjon er mindre. Dersom PST etter å
-ha analysert for eksempel et datasett finner at det
-er uten betydning for utarbeidelse av analyser og
-etterretningsvurderinger, skal informasjonen slettes, jf. omtalen i punkt 8.8.3. Det samme vil gjelde
-dersom deler av materialet er uten betydning, gitt
-at det er mulig å skille de relevante og irrelevante
-delene fra hverandre.
-
-8.5
-
-Sperring
-
-8.5.1
-
-Forslaget i høringsnotatet
-
-I høringsnotatet ble det vist til at de personvernmessige betenkelighetene ved ordningen må
-kompenseres så langt det lar seg gjøre, herunder
-gjennom etablering av tilstrekkelige sikkerhetsmekanismer for å unngå misbruk.
-For å begrense følgene for den enkelte i størst
-mulig grad, foreslo departementet at opplysningene i sin helhet skal sperres. Den mest sentrale
-konsekvensen av sperring er at sperrede opplysninger ikke anses for å være «registrert» i politiregisterlovens forstand. Dette gjør at opplysningene
-ikke kan brukes som ledd i den virksomheten
-registrerte opplysninger vanligvis brukes til. PST
-kan derfor ikke søke i disse opplysningene i forbindelse med for eksempel sikkerhetsklareringer,
-henvendelser fra andre organer eller andre
-løpende oppgaver. Opplysninger som er sperret
-vil heller ikke kunne utleveres til andre. Dersom
-opplysningene skal kunne brukes til andre formål
-enn etterretningsvirksomhet, må dette reguleres
-særskilt.
-
-8.5.2 Høringsinstansenes syn
-Forsvarsdepartementet ber om at det presiseres
-hva som menes med at opplysningene ikke vil
-kunne utleveres til andre. Det er Forsvarsdepartementets syn at evaluerte data skal kunne utleveres etter de generelle reglene om utlevering i politiregisterloven kapittel 6, selv om de er innhentet i
-bulk.
-Politidirektoratet og Kripos mener det ikke er
-nødvendig – og heller ikke riktig – å gjøre bruk av
-begrepet sperring når bestemmelsen uansett
-entydig avgrenser hvilke formål opplysningene
-
-[Side 47]
-
-2022–2023
-
-Prop. 31 L
-
-Endringer i politiloven og politiregisterloven (PSTs etterretningsoppdrag og bruk av åpent tilgjengelig informasjon)
-
-skal kunne brukes til, og at de skal slettes etter en
-viss tid.
-De lagrede opplysningene kan brukes i PSTs
-etterretningsvirksomhet, samt at det kan foretas
-søk i opplysningene for å opprette forebyggingssak, i forebyggingssak og i etterforskningsøyemed, dvs. i praksis innenfor stort sett hele PSTs
-ansvarsområde. Det blir således noe misvisende
-at overskriften i § 65 a har overskriften «Behandling av åpent tilgjengelig informasjon til etterretningsformål». Dersom de lagrede opplysningene
-benyttes for forebygging og etterforsking, kan
-PST registrere opplysningene i sine alminnelige
-registre. Det kan derfor stilles spørsmål ved sperringens funksjon som sikkerhetsmekanisme.
-Oslo statsadvokatembeter, Politidirektoratet og
-Kripos peker på at i gitte tilfeller vil PST ha en plikt
-til å videreformidle informasjon til det øvrige
-politi, jf. plikten etter straffeloven § 196 til å
-avverge straffbare forhold. PST kan også ha plikt
-til å gi opplysninger til andre. For Kripos fremstår
-det som helt klart at det behandlingsformål og de
-bruksbegrensninger som angis i § 65 a ikke fritar
-PST for å vurdere sin aktivitetsplikt etter annen
-lovgivning, herunder straffeloven § 196 og § 226,
-samt barnevernloven § 6-4.
-Riksadvokaten støtter i utgangspunktet forslaget om at åpent tilgjengelig informasjon som innhentes til formål som angitt i høringsnotatet, skal
-sperres. Fordi utkastet til endring i politiloven
-§ 17 b ikke sondrer mellom etterretningsopplysninger innhentet til ulike formål, kan det imidlertid fremstå uklart om sperreplikten også vil gjelde
-der etterretningsopplysninger er innhentet som
-ledd i etterforsking.
-Stortingets kontrollutvalg for etterretnings-,
-overvåkings- og sikkerhetstjeneste (EOS-utvalget)
-mener det i utgangspunktet er positivt at opplysninger fra masseinnsamlingen via åpne kilder holdes adskilt fra annen informasjon som PST lagrer,
-og at det oppstilles klare adgangsbegrensninger.
-Selv om dette ikke er «registrering» i politiregisterlovens forstand, innebærer imidlertid også en
-slik sperret behandling en lagring av personopplysninger som bør være omsluttet av klare regler.
-Utvalget påpeker at det ved innføring av en ny
-metode der sperring utgjør en sentral del av reguleringen, er viktig at adekvat sperrefunksjonalitet
-er på plass i PSTs systemer før innhenting settes i
-gang. EOS-utvalget må kunne kontrollere sperrefunksjonaliteten. Det er nødvendig at PST tilrettelegger sine systemer for kontroll, ved å bygge inn
-kontrollmuligheter. Dette bør gjøres i samråd
-med utvalget, for å sikre at kontrollbehovene ivaretas.
-
-45
-
-Sperring vil etter Norges institusjon for menneskerettigheters (NIMs) syn bidra til å sikre at opplysningene holdes atskilt og ikke benyttes i større
-utstrekning enn loven gir anvisning på. Samtidig
-gir loven en svært vid adgang til å innsamle og
-benytte opplysningene, og lite begrensninger på
-hvilke personer som kan få tilgang til dem. Dette
-reduserer vekten av sperring som et egnet sikkerhetstiltak.
-Datatilsynet kan ikke se at de foreslåtte
-reglene innebærer noen reelle eller praktiske
-begrensninger for PSTs bruk av opplysningene.
-Spesielt ved bruk til forebygging og etterforsking
-vil søk være rettet mot enkeltpersoner, uten at det
-legges opp til en uavhengig forhåndskontroll.
-Advokatforeningen støtter forslaget om at opplysningene i sin helhet skal sperres, slik at opplysningene ikke kan søkes i eller benyttes for andre
-formål eller deles med andre.
-Tekna viser til at det at opplysningene skal
-«sperres», slik at kun personer med særskilt
-bemyndigelse skal få adgang, er omtalt som en
-sentral sikkerhetsmekanisme. Tekna savner en
-nærmere vurdering av om denne sikkerhetsmekanismen er tilstrekkelig. Det er en fare for formålsutglidning, slik at data, inkludert analyser og
-andre sammenstilte data, på sikt vil brukes på en
-annen måte enn det som er tenkt i dag.
-
-8.5.3 Departementets vurderinger
-De fleste høringsinstansene som har uttalt seg om
-spørsmålet, støtter forslaget om at opplysningene
-skal sperres. På bakgrunn av at både Politidirektoratet og Kripos mener at det ikke er nødvendig, og
-heller ikke riktig, å gjøre bruk av begrepet sperring
-når bestemmelsen uansett entydig avgrenser
-hvilke formål opplysningene skal kunne brukes til,
-redegjøres det likevel nærmere for hvorfor opplysningene etter forslaget skal være sperret.
-Som det fremgår av punkt 4.2 innebærer sperring at den fremtidige behandlingen av opplysninger begrenses, samt at det ved sperring alltid må
-oppgis hvilke formål sperrede opplysninger kan
-brukes til. Formålsbegrensning kan oppnås også
-uten å benytte seg av sperreinstituttet, ved at det
-reguleres hvilke formål de registrerte opplysningene kan brukes til. Sperring innebærer normalt
-at politiet har behandlet opplysningene før de
-sperres, jf. politiregisterloven § 2. nr. 10 om at
-hensikten med sperring er å begrense den «fremtidige» behandlingen. Samtidig finnes det enkelte
-regler i politiregisterforskriften der sperring skal
-benyttes også før opplysningene er behandlet.
-Eksempelvis følger det av politiregisterforskriften
-
-[Side 48]
-
-46
-
-Prop. 31 L
-
-2022–2023
-
-Endringer i politiloven og politiregisterloven (PSTs etterretningsoppdrag og bruk av åpent tilgjengelig informasjon)
-
-§ 59-11 at opplysninger i registeret for Nasjonalt
-tverretatlig etterretningssenter (NTAES) skal
-sperres for å sikre at de bare kan benyttes i
-NTAES til registerets formål.
-Sperring har også andre konsekvenser enn at
-det begrenses hvilke formål opplysningene kan
-brukes til. Den fremste grunnen til at det foreslås
-at opplysningene skal være sperret er at de da i
-politiregisterlovens forstand ikke anses for å være
-registrert. Dette fremgår ikke eksplisitt av politiregisterloven, men er forutsatt i forarbeidene til
-loven, jf. Ot.prp. nr. 108 (2008–2009) punkt 21.7
-side 314.
-Dersom opplysningene ikke sperres, er konsekvensen at de lagrede opplysningene vil utgjøre et
-register på lik linje med politiets øvrige registre,
-med den følge at alle personer som figurerer i det
-lagrede materialet også er «registrert» hos PST.
-Hovedhensikten med politiets øvrige registre er at
-det behandles opplysninger om enkeltpersoner til
-de formål som er angitt i regelverket. Dette er
-ikke hensikten med lagringen etter forslaget her.
-Tvert imot er lagringen av opplysninger om
-enkeltpersoner her en ulempe man må ta på kjøpet for å gi PST de nødvendige verktøyene for at
-de kan utføre sitt samfunnsoppdrag. På grunn av
-inngrepets art er det svært viktig å beskytte opplysningene på best mulig måte, samt å etablere en
-klar forskjell til politiets øvrige registre. Begge
-målsettingene oppnås best ved at opplysningene i
-sin helhet er sperret.
-Enkelte høringsinstanser har stilt spørsmål
-ved om opplysningene kan utleveres til andre. I
-forslaget til § 65 a annet ledd er det gitt en uttømmende opplisting over de formålene opplysningene kan brukes til. Samtlige av formålene de
-sperrede opplysningene kan brukes til gjelder
-PSTs virksomhet. Så lenge opplysningene er sperret kan de ikke brukes til andre formål enn de
-oppgitte, og derved heller ikke utleveres til andre.
-Dette gjør at de sperrede opplysningene ikke vil
-kunne utleveres som følge av opplysningsplikt i
-annen lovgivning eller etter avvergingsplikten i
-straffeloven § 196. Imidlertid vil de samme opplysningene ligge åpent tilgjengelig på nett, med mindre de har blitt slettet fra det åpne nettet etter det
-tidspunktet PST lagret dem. Dersom PST kommer over opplysninger i det sperrede materialet
-som normalt ville blitt utlevert etter regler om
-opplysningsplikt eller avvergingsplikt, er det
-ingenting i veien for at PST undersøker om disse
-fremdeles finnes åpent tilgjengelig på nett. Gjør
-de det, kan PST varsle aktuell mottaker om opplysningene uten at de utleveres fra det sperrede
-materialet.
-
-Opplysningene vil kunne utleveres til andre i
-form av analyser og etterretningsvurderinger, det
-vil si når de er bearbeidet og funnet relevante for
-etterretningsformål. Det samme gjelder for opplysninger som er tatt i bruk og flyttet over i PSTs
-vanlige registre, enten det er til forebyggende sak
-eller i etterforsking. Opplysningene vil i slike tilfeller ikke lenger være sperret, og vil behandles,
-herunder kan de utleveres, etter de vanlige
-reglene i politiregisterloven. Opplysninger som er
-sperret og ikke tatt i bruk vil derimot ikke kunne
-utleveres. Ettersom denne begrensningen ikke
-fremkommer eksplisitt i dagens regler om sperring, tar departementet sikte på å regulere dette i
-forskrift.
-
-8.6
-
-Bruk til forebyggende sak og
-etterforsking
-
-8.6.1 Forslaget i høringsnotatet
-Selv om formålet med behandlingen er ivaretakelse av PSTs etterretningsvirksomhet, ble det
-foreslått at de sperrede opplysningene også kan
-brukes i de tilfellene der det er åpnet etterforsking eller opprettet forebyggende sak, samt for
-åpning av etterforsking eller opprettelse av forebyggende sak. Det ble vist til at hvis det i de sperrede opplysningene finnes informasjon om personer som PST allerede har i søkelyset, eller om personer som utgjør en reell trussel, bør PST kunne
-behandle denne informasjonen.
-Når PST først har gått til det skritt å opprette
-en forebyggende sak, søker tjenesten å forebygge
-alvorlige straffbare handlinger. Dersom PST allerede har en forebyggende sak, vil de etter forslaget derfor kunne søke i det sperrede materialet
-for å finne informasjon som har saklig tilknytning
-til den forebyggende saken. Adgangen til å søke i
-det sperrede materialet ble også foreslått å gjelde
-dersom opplysningene skal brukes til å opprette
-forebyggende sak. Dette innebærer eksempelvis
-at dersom PST, når de bruker opplysninger for
-etterretningsformål, kommer over opplysninger
-om en person som det er grunn til å undersøke
-om forbereder et straffbart forhold som PST skal
-forebygge, vil de kunne registrere denne personen i sine alminnelige registre. Det samme vil
-gjelde dersom PST får tips om en person det er
-knyttet en bekymring til, og de avdekker opplysninger som kan danne grunnlag for en forebyggende sak ved et søk i det sperrede materialet.
-Når det gjelder bruk til etterforsking, ble det
-ikke foreslått ytterligere begrensninger enn at det
-må dreie seg om etterforsking av lovbrudd som
+## Overordnet om forslaget og de menneskerettslige rammene
+
+### Forslaget i høringsnotatet
+
+I høringsnotatet ble det foreslått en ny § 65 a i politiregisterloven som åpner for at PST kan behandle åpent tilgjengelig informasjon for etterretningsformål, uten at politiregisterloven § 6 om krav til opplysningenes kvalitet og § 7 om behandling av særlige kategorier av personopplysninger kommer til anvendelse. Informasjon regnes ikke som åpent tilgjengelig dersom tilgang til informasjonen krever forsering av passord eller andre lignende beskyttelsesmekanismer. Som følge av at forslaget åpner for behandling av svært store mengder informasjon, anså departementet det viktig å begrense de mulige negative konsekvensene i størst mulig grad. Det ble derfor foreslått at opplysningene skal sperres, slik at de kun kan brukes til konkret angitte formål, og ellers ikke anses å være registrert hos PST. I tillegg til bruk for etterretningsformål mente departementet at opplysningene også burde kunne brukes til opprettelse av eller bruk i forebyggende sak og til etterforsking av lovbrudd innenfor PSTs ansvarsområde. Det ble foreslått at opplysningene skulle slettes senest etter 15 år, en frist som tilsvarte slettefristen i etterretningstjenesteloven § 9-8 for rådata innhentet i bulk.
+
+I politiregisterforskriften ble det foreslått en forskriftsbestemmelse om at opplysninger som behandles etter den nye bestemmelsen skal holdes atskilt, og at tilgang kun skal gis til personer som har fått særskilt bemyndigelse. Det ble foreslått at bruk av opplysningene skal registreres og kunne spores for å kunne kontrollere om søkene og bruken er tillatt eller ikke. Registreringene skal gjennomgås regelmessig med det formål å avdekke uautorisert tilgang til opplysningene. I tillegg ble det foreslått at behandling av opplysningene for etterretningsformål kan skje ved bruk av automatiserte analyseverktøy. Det ble understreket at bruk av automatiserte analyseverktøy ikke kan skje med det formål å kartlegge enkeltindividers aktivitet på nett.
+
+I høringsnotatet ble det vist til at forslaget vil innebære behandling av en slik art at det vil utgjøre et inngrep i privatlivet, og det ble redegjort for de rettslige rammene som følger av Grunnloven og EMK. Det ble ansett nødvendig å etablere tilstrekkelige sikkerhetsmekanismer for å ivareta de rettslige krav som følger av Grunnloven § 102 og EMK artikkel 8. I tillegg til å gi en klar hjemmel for behandlingen, måtte det etableres klare rammer for behandlingen slik at inngrepet overfor den enkelte ikke blir større enn nødvendig. Det måtte også etableres sikkerhetsmekanismer for å unngå misbruk, og det måtte sikres at EOS-utvalget kan føre tilstrekkelig kontroll med bruken. Omfanget av sikkerhetsmekanismer og kontroll måtte vurderes i lys av inngrepets alvor. Departementet anså det i den sammenheng sentralt at det er tale om offentlig tilgjengelig informasjon som ikke innhentes ved bruk av tvangsmidler eller ved skjult overvåking.
+
+Det ble uttalt at det er en risiko for at tiltaket vil kunne ha en nedkjølende effekt på ytringsfriheten, ved at den enkelte vil kunne modifisere eller sensurere ytringene sine, eller helt unnlate å ytre seg på internett, på grunn av frykt for eller kunnskap om at ytringene vil kunne lagres hos PST. Etter departementets skjønn ville imidlertid tiltaket være en grunnleggende forutsetning for at PST skal kunne ivareta etterretningsoppdraget. Risikoen for en eventuell nedkjølende effekt kunne etter departementets syn ikke tillegges avgjørende vekt. På samme vis som inngrepet i retten til privatliv vil kunne anses rettferdiggjort etter EMK artikkel 8 nr. 2, la departementet til grunn at en eventuell dempende effekt på den frie meningsytringen i sin alminnelighet kan anses rettferdiggjort etter EMK artikkel 10 nr. 2 av hensyn til å bekjempe alvorlig kriminalitet og ivareta nasjonal sikkerhet. Hensynet til personvernet ble også ansett tilstrekkelig ivaretatt.
+
+### Høringsinstansenes syn
+
+*Forsvarsdepartementet, Politiets sikkerhetstjeneste (PST), Direktoratet for samfunnssikkerhet og beredskap (DSB), Det nasjonale statsadvokatembetet* og *Finnmark politidistrikt* støtter forslaget.
+
+*Riksadvokaten* viser til at forslaget reiser vanskelige spørsmål om avveining av ulike og til dels sterkt motstridende hensyn, men understreker betydningen av at PST gis rammebetingelser som gjør det mulig for tjenesten å utføre sitt samfunnsoppdrag på en fullgod måte. Tatt i betraktning dagens bruk av moderne informasjonsteknologi, sier det seg nærmest selv at PST som ledd i sin virksomhet i stor utstrekning må ha anledning til å gjøre bruk av informasjon som er åpent tilgjengelig på internett. I den grad PST ikke kan nyttiggjøre seg relevante opplysninger uten at også opplysninger uten betydning følger med, mener riksadvokaten at det i stor utstrekning må aksepteres at tjenesten behandler slik overskuddsinformasjon.
+
+Utstrakt registrering av overskuddsinformasjon vil imidlertid kunne innebære inngrep i grunnleggende friheter og menneskerettigheter. Det er dermed av største betydning at slik behandling har grunnlag i klar lovhjemmel og skjer innenfor klare rettslige rammer, som ikke åpner for behandling utover det som er nødvendig og forholdsmessig, samt ivaretar behovet for kontroll mv.
+
+*PST* støtter forslaget. Internett er en enorm kilde til informasjon om nesten alle former for aktivitet i samfunnet. Dette er informasjon en sikkerhets- og etterretningstjeneste forventes å nyttiggjøre seg. For å kunne forutse fremtidige endringer både i trusselbildet og på aktørsiden må PST være tilstede på denne arenaen. Det er ikke mulig å «følge med» ved å «se på» nettet i sanntid. På grunn av åpne kilders karakter må opplysningene som er relevante lagres og bearbeides over tid.
+
+Innføring av regler som gir adgang til bruk av informasjon fra åpne kilder, må nedfelles i lov for ikke å komme i konflikt med enkeltpersoners grunnleggende rettigheter. Regelverket må finne sin balanse mellom hensynet til samfunnets behov for sikkerhet og enkeltindividers personvern, og det må inneholde rettssikkerhetsgarantier og kontrollmekanismer.
+
+*Politidirektoratet* uttaler at lovforslaget fordrer en balansering av hensynet til personvern og ytringsfrihet på den ene siden og hensynet til sikkerhet på den andre siden, som med fordel kunne vært grundigere drøftet i høringsnotatet. Politidirektoratet etterlyser en nærmere vurdering av hvilken overføringsverdi dommene *Big Brother Watch og andre mot Storbritannia* og *Centrum för Rättvisa mot Sverige* har til departementets forslag.
+
+*Politidirektoratet* og *Kripos* mener at Europarådskonvensjon nr. 108 om personvern med tilleggsprotokoller bør vurderes nærmere i det videre arbeidet.
+
+*Stortingets kontrollutvalg for etterretnings-, overvåkings- og sikkerhetstjeneste (EOS-utvalget)* peker på at i *Big Brother Watch og andre mot Storbritannia* og *Centrum för Rättvisa mot Sverige* har EMD utviklet et sett med vurderingskriterier som er mer tilpasset innsamling av store datamengder (bulk) enn i tidligere rettspraksis. Særlig viktig er prinsippet om «end-to-end-safeguards». Selv om de to sakene gjaldt utenlandsetterretning (kommunikasjon ut og inn av landet), er mange av betraktningene like relevante for innenlandsetterretning, som tradisjonelt blir ansett som enda mer inngripende. Det er riktig nok en vesentlig forskjell mellom innsamling og lagring av hemmelig og åpent tilgjengelig informasjon. Utvalget mener likevel at forskjellen er mindre vesentlig enn høringsnotatet kan gi inntrykk av. Utvalget reiser spørsmål ved om inngrepet burde vært ledsaget av ytterligere vilkår for å ivareta borgernes personvern og rettsikkerhet – og i forlengelsen sikre mulighet for reell kontroll fra utvalget.
+
+*Datatilsynet* viser til at forslaget berører sentrale spørsmål knyttet til personvern, ytringsfrihet og sikkerhet som krever en grundig utredning og avveining. Forslaget må sees i sammenheng med andre større overvåkingstiltak som politiet og etterretningstjenesten har fått hjemmel til, så som tilrettelagt innhenting i form av lagring av metadata om internettbruk, lagring av IP-adresser og overvåking av flypassasjerer. Samlet sett innebærer dette at myndighetenes mulighet til å overvåke borgerne har blitt betydelig utvidet de siste årene.
+
+Datatilsynet ser at PST har et behov for å følge med og etterforske på internett. På grunn av det betydelige overvåkingspotensialet som digital overvåking med de muligheter kunstig intelligens og andre stordataverktøy åpner for, må imidlertid denne aktiviteten foregå under streng kontroll og rammer for den enkeltes rettsikkerhet. Forslaget utgjør et betydelig større inngrep i norske borgeres privatliv enn det departementet gir utrykk for, og skadepotensialet for vårt demokratiske samfunn er utvilsomt tilstede. Datatilsynet mener at konsekvensene av forslaget kan bli for store og at det derfor ikke bør innføres i sin nåværende form.
+
+Tilsynet mener det er nødvendig å se på om *Big Brother Watch og andre mot Storbritannia* og *Centrum för Rättvisa mot Sverige* vil få anvendelse på innhenting fra åpne kilder, og at prinsippene fra disse dommene må legges til grunn. Etter Datatilsynets syn er forslaget ikke i samsvar med praksis fra EMD og EU-domstolen om masseinnsamling av personopplysninger til bruk for etterretnings- og politiformål.
+
+I høringsnotatet er det lagt vekt på at masseinnhenting fra åpne kilder i stor grad skiller seg fra hemmelig overvåking, uten at dette er nærmere grunngitt. Det kan synes som om det legges vekt på at bulkinnhenting av kommunikasjonsdata er mer å regne som «skjult» enn innhenting fra åpne kilder. Når det gjelder bulkinnhenting, er det allment kjent gjennom blant annet lov om etterretningstjenesten at den foregår og hva den på et generelt nivå samler inn. Det som er hemmelig er hvordan opplysningene behandles, hvilke søkekriterier som legges til grunn og hvem som er gjenstand for en nærmere undersøkelse. I tillegg er den enkeltes rettigheter, som underretning om registrering og rett til innsyn, begrenset. Dette vil i stor grad også gjelde for PSTs innhenting fra åpne kilder. Det kan derfor argumenteres for at prinsippene fra EMDs dommer får anvendelse.
+
+Datatilsynet mener at en løsning hvor innhentingen er målrettet og underlagt en uavhengig forhåndskontroll også vil være mer i tråd med EU-retten, herunder avgjørelsen i *La Quadrature du Net and Others* (sak C-511/18).
+
+Når det gjelder lovskravet, mener Datatilsynet at det er vanskelig å forstå begrepet åpent tilgjengelig og hvor omfattende innsamlingen skal være. På grunn av vag begrepsbruk i lovforslaget, samt uklarheter om hvem som omfattes, er det stor usikkerhet rundt hvem som faktisk rammes. Dette gjør at Datatilsynet mener at kravet til klarhet og forutberegnelighet neppe er oppfylt.
+
+Datatilsynet mener at etterkontroll ved EOS-utvalget samlet sett ikke er et robust nok system for å verne mot misbruk, både fordi den er etterfølgende og fordi formålene er så vide at det er vanskelig å se hvilken del av PSTs kjernevirksomhet som ikke vil kunne benytte seg av opplysningene. Dette vanskeliggjør kontroll. Forslaget innebærer også unntak fra rettsikkerhetsgarantier som underretning og innsyn.
+
+Datatilsynet vurderer at forslaget samlet sett ikke er i tråd med EMDs krav om ende-til-ende-kontroll, som blant annet innebærer uavhengig forhåndskontroll også av innhentingen og søkene som en sentral rettsikkerhetsmekanisme. Det mangler også en målrettethet og begrensning av innsamlingen.
+
+*Norges institusjon for menneskerettigheter (NIM)* mener at flere sentrale problemstillinger og momenter ikke er tilstrekkelig berørt. Det savnes en bredere diskusjon om PSTs behov for å lagre så store mengder opplysninger, og avveiningen mot de sentrale menneskerettighetene dette berører. NIM mener forslaget er mer inngripende enn departementet legger til grunn. Masseinnsamling av data fra internett vil utfordre grunnleggende menneskerettigheter, som retten til privatliv, personvern og ytringsfriheten. Det bør derfor begrunnes mer inngående hvorvidt behandlingen er nødvendig i så stor utstrekning som foreslått. Etter NIMs oppfatning vil forslaget ikke være forholdsmessig slik det foreligger.
+
+NIM mener at EMD-dommene *Big Brother Watch og andre mot Storbritannia* og *Center för Rättvisa mot Sverige* i noen grad gir veiledning om hvilke krav som stilles til den type innsamling og behandling som forslaget legger opp til. Det kan ikke utledes direkte av EMDs praksis at prinsippene for bulkovervåking ikke kommer til anvendelse for innhenting fra åpne kilder. Det forhold at forslaget gjelder åpne kilder kan også medføre at det stilles andre eller strengere krav.
+
+I *Big Brother Watch og andre mot Storbritannia* stilles det opp åtte kriterier for bulkovervåkingssystemer. Videre legger dommen opp til en samlet vurdering. Etter NIMs syn har flere av prinsippene oppstilt i dommen overføringsverdi til dette tilfellet. Selv om selve innsamlingsmetoden er ulik og det er andre data som samles inn, vil forvaltning, sammenstilling, analyse, lagring samt senere bruk av dataene, i mindre grad skille seg fra problemstillingene i EMD-dommene, hvor poenget er å forhindre misbruksfaren som alltid foreligger ved slike personverninngrep.
+
+Bruk av analyseverktøy kan frembringe nye mønstre og ny informasjon med utgangspunkt i de åpne kildene. Denne informasjonen kan være gjenstand for feilslutninger, og den kan ikke imøtegås. Problemstillingene som oppstår etter at opplysningene er samlet inn, skiller seg følgelig i liten grad fra problemstillingene i EMD-dommene.
+
+NIM mener at høringsnotatet ikke i tilstrekkelig grad drøfter hvor tyngende inngrepet er, og hvilke rettssikkerhetsmekanismer som bør ledsage forslaget for at tiltaket skal kunne anses som forholdsmessig. Det er heller ikke drøftet om forskjellen mellom innsamling av informasjon om henholdsvis utenlandske aktører og egne borgere, påvirker inngrepsgraden. NIM mener at den vide innsamlingsadgangen, den lange lagringstiden, vide rammer for bruk, kombinert med bruken av automatiserte analyseverktøy, tilsier at forslaget må ledsages av strengere regler for lagring og andre rettssikkerhetsgarantier.
+
+NIM legger til grunn at retten til et effektivt rettsmiddel på stadiet der innsamlingen eller behandlingen av opplysningene fortsatt er hemmelig, vil måtte ivaretas av EOS-utvalget. På bakgrunn av EOS-utvalgets høringsuttalelse ber NIM departementet vurdere hvorvidt utvalgets kontroll på dette punkt vil være tilstrekkelig som sikkerhetsmekanisme. NIM etterlyser en nærmere vurdering av hvordan retten til et effektivt rettsmiddel skal ivaretas, herunder hvordan ulik rettspraksis fra EMD har overføringsverdi til vår sak, og hvordan retten til et effektivt rettsmiddel skal sikres på de ulike stadiene av prosessen.
+
+NIM etterlyser en grundigere vurdering av hvordan forslaget vil kunne virke nedkjølende på individers ønske om å ytre seg, særlig på nett, og hvilke samfunnsmessige konsekvenser dette kan få. NIM etterlyser også en grundigere redegjørelse for hvorvidt dette eventuelt vil påvirke samfunnet og demokratiet mer overordnet, og i hvilken grad dette avveies mot de formål forslaget søker å oppnå. NIM minner om at selv muligheten for en tendens i denne retning er ansett som et avgjørende argument i norsk rett.
+
+Det er ikke utenkelig at masseinnsamling av informasjon på internett vil kunne utgjøre et inngrep i kildevernet og ha en nedkjølende effekt på fremtidige kilder ved at systemer for kunstig intelligens med stor informasjonstilgang har kapasitet til å identifisere og gjenkjenne hvem som er avsender av en skjult melding. NIM ber departementet vurdere og klargjøre at forslaget tar høyde for pressens kildevern i det videre arbeidet. Det bør videre foretas en drøftelse av kilders tillit til at de kan ha fortrolig kommunikasjon med journalister. Dette vil gjelde uavhengig av om forslaget direkte rammer kommunikasjon mellom kilder og journalister, ettersom eksistensen av stadig flere tiltak vil kunne etterlate et inntrykk av at slik kommunikasjon overvåkes av offentlige myndigheter. Denne ytterligere «nedkjølingseffekten» er noe som bør adresseres eksplisitt.
+
+*Medietilsynets* vurdering er at de foreslåtte regelverksendringer medfører en betydelig inngripen i privatlivet og ytringsfriheten, noe som krever en langt mer omfattende begrunnelse enn høringsnotatet legger opp til. Medietilsynet mener at inngrepet i ytringsfriheten er større enn notatet tar høyde for, og at begrunnelsen for regelverksforslagene ikke står i forhold til inngrepet i ytringsfriheten og privatlivet. Medietilsynet kan derfor ikke støtte forslaget i sin nåværende form. Det er behov for å avklare hvordan kildevernet kan ivaretas, og hvordan risikoen for nedkjølingseffekter, særlig for redaktørstyrte medier, kan reduseres.
+
+*Advokatforeningen* mener at flere sider av saken er utilstrekkelig utredet, herunder potensielle negativer konsekvenser for barn, nedkjølende effekter samt forholdsmessighetsvurderinger. Foreningen er bekymret for at en slik innsamling og lagring av informasjon for etterretningsformål vil ha en nedkjølende effekt på demokratiet og informasjonssamfunnet, for eksempel kritikk av myndighetene. Forslaget har både menneskerettslige og personvernmessige betenkeligheter. EMDs uttalelser i saker om bulkinnsamling om at inngrepet i individets rettigheter etter EMK artikkel 8 tiltar underveis i prosessen, er overførbare. Relevante likheter og forskjeller er ikke beskrevet og analysert nærmere. Innsamlingen og potensiell bruk av opplysningene vil åpenbart medføre at inngrepet i individets rettigheter tiltar etter hvert som det gjøres søk i opplysningene og disse benyttes for formålene.
+
+*UTSYN* mener det burde vært grundigere vurdert hvordan lovforslaget kan virke nedkjølende på samfunnsdebatten og deltakernes vilje til å ytre seg. Et lovforslag som griper direkte inn i forholdet mellom stat og borger og som sterkt berører ytringsfriheten, må være grundig utredet. Også *Tekna* og *NITO* er bekymret for den nedkjølende effekten av forslaget. NITO mener at det er hensiktsmessig å avvente ytringsfrihetskommisjonens vurdering av overvåkingens konsekvens for ytringsfriheten.
+
+*IKT-Norge* er spesielt opptatt av nødvendigheten av kritiske vurderinger og gode begrunnelser på grunn av faren for redusert tillit og nedkjølingseffekt som overvåking kan ha på bruken av digitale tjenester. Etter deres syn er vurderingen av nedkjølingseffekten for overfladisk. Betydningen forslaget har for tilliten til digitaliserte tjenester, samt betydningen av at frimodige ytringer kan bli sensurert, er ikke drøftet. Faren for nedkjølingseffekt er reell, og slik effekt vil kunne være skadelig for både norsk offentlig debatt og norsk næringsliv.
+
+*Elektronisk Forpost Norge* mener at forslaget legger opp til svært omfattende overvåking av, i praksis, alle landets borgere.
+
+### Departementets vurderinger
+
+Departementet har merket seg at en rekke høringsinstanser har forståelse for behovet for forslagene, selv om de ikke nødvendigvis støtter den innretningen som er foreslått. Departementet fastholder at det er behov for at PST kan lagre, analysere og systematisere åpent tilgjengelig informasjon for å utarbeide analyser og etterretningsvurderinger om forhold i Norge som kan true nasjonale sikkerhetsinteresser. Dagens teknologiske virkelighet gjør at stadig mer informasjon nå kun finnes på nett, og at trusselaktørene i økende grad flytter sin aktivitet fra det fysiske til det digitale rom. Lagring, analyse og sammenstilling av åpent tilgjengelig informasjon er derfor etter departementets syn et sentralt verktøy for at PST skal kunne ivareta oppgaven med å utarbeide analyser og etterretningsvurderinger, slik denne oppgaven er beskrevet i punkt 7 i denne proposisjonen. Ved å endre formuleringen av oppgaven som innenlands etterretningstjeneste, blir det etter departementets syn også klarere hva hjemmelen for behandling av åpent tilgjengelig informasjon er ment brukt til.
+
+Flere høringsinstanser er uenige i departementets vurdering av at dommene fra EMD i *Big Brother Watch og andre mot Storbritannia* og *Center för Rättvisa mot Sverige* har begrenset overføringsverdi til forslaget, og de etterlyser en grundigere vurdering av disse dommene. Informasjonen som kan behandles etter forslaget her skiller seg fra informasjonen det er snakk om i EMD-dommene, ved at forslaget her er begrenset til åpent tilgjengelig informasjon. Informasjon som ligger i åpne kilder er åpent tilgjengelig for alle, og det eksisterer etter departementets syn ikke en berettiget forventning om samme vern for slik informasjon som for opplysninger som ikke er åpent tilgjengelige. Departementet opprettholder derfor vurderingen av at dommene ikke har direkte overføringsverdi. Med de justeringene som foreslås i punktene nedenfor, blir også parallellen til bulkinnsamling av grensekryssende informasjon (tilrettelagt innhenting) mindre treffende enn det høringsinstansene synes å legge til grunn. I den grad det kan trekkes en parallell til E-tjenestens virkemidler, mener departementet at det er mer nærliggende å sammenligne forslaget med E-tjenestens muligheter til å innhente rådata i bulk i form av åpent tilgjengelig informasjon, jf. etterretningstjenesteloven §§ 5-3 og 6-2. Slik innhenting kan også berøre norske borgere, jf. § 4-4 som åpner for innhenting fra åpne kilder selv om informasjonen er publisert av eller på annen måte berører personer i Norge.
+
+Etter forslaget her vil innhentingen rammes inn ved at behandlingen må antas å være nødvendig for utarbeidelse av analyser og etterretningsvurderinger, jf. omtalen i punkt 8.3.3. Dette vurderes som sammenlignbart med kravene i etterretningstjenesteloven § 5-3 om at innhenting kan skje for å få tilgang til et «relevant og tilstrekkelig informasjonsgrunnlag». Behandlingen vil med andre ord være mer målrettet enn tilrettelagt innhenting. For innhenting av rådata i bulk er det ikke etablert et regime med uavhengig forhåndskontroll, og det er heller ikke etablert særlige beføyelser for EOS-utvalget. Departementet vil likevel kommentere kravene som er oppstilt i *Big Brother Watch og andre mot Storbritannia* og *Center för Rättvisa mot Sverige* i de senere punktene i denne proposisjonen der disse er relevante.
+
+Innrammingen vil også bidra til å ivareta Ytringsfrihetskommisjonens vurderinger i NOU 2022: 9 En åpen og opplyst offentlig samtale – Ytringsfrihetskommisjonens utredning. Kommisjonen advarer i punkt 7.9.8 side 128 mot bruk av generelle og vidtrekkende lovbestemmelser på områder som kan påvirke ytringsfriheten. Etter kommisjonens syn var forslaget som ble sendt på høring for generelt utformet. Forslaget som fremmes i denne proposisjonen er innrettet på en mer målrettet måte enn høringsforslaget.
+
+Flere høringsinstanser har etterlyst en grundigere vurdering av den nedkjølende effekten av forslaget og inngrepet i ytringsfriheten, herunder ivaretakelse av pressens kildevern. Departementet ser at forslaget vil kunne ha en nedkjølende effekt ved at personer vil kunne unnlate å ytre seg av frykt for at opplysningene blir lagret hos PST. Selv om forslaget ikke legger begrensninger på retten til å ytre seg, kan det derfor like fullt gripe inn i ytringsfriheten. Inngrep kan være tillatt dersom det har hjemmel i lov, ivaretar et legitimt formål og er nødvendig i et demokratisk samfunn. Departementet mener at kravene som kan utledes av EMK artikkel 10 og Grunnloven § 100 er ivaretatt i forslaget her, og at tiltaket er nødvendig og forholdsmessig, særlig i lys av de endringene som nå er foreslått og rettssikkerhetsmekanismene det legges opp til i kombinasjon med allerede gjeldende regelverk.
+
+PST og det øvrige politiet har også i dag mulighet til å følge med på ytringer på internett, og dersom politiregisterlovens regler er oppfylt, registrere disse. Det må derfor antas at de som vil unnlate å ytre seg som følge av forslagene her, til en viss grad lar være allerede i dag. En stor del av PSTs arbeid er knyttet til å verifisere informasjon og å ta ned bekymringer om personer som man tror kan utgjøre en trussel. Således kan det være i personens egen interesse at PST har et tilstrekkelig informasjonsgrunnlag til å kunne konkludere med at vedkommende ikke utgjør en trussel eller bør registreres. Dette kan være vel så viktig for å sikre at PST evner å gi riktig beslutningstøtte om omfang og utvikling av trusler.
+
+Enkelte høringsinstanser har etterlyst en vurdering av om forslaget ivaretar kildevernet. Kildevernet omfatter journalistisk materiale som direkte eller indirekte kan avsløre identiteten til en kilde som journalisten har benyttet. Vernet omfatter opplysninger som kan identifisere kilden ved navn, bilde eller annen personidentifikasjon, samt uredigert og upublisert materiale såfremt informasjonen kan avsløre journalistens kilder. Forslaget i denne lovproposisjonen er begrenset til åpent tilgjengelig informasjon. Informasjon er ikke åpent tilgjengelig dersom den er beskyttet av passord eller andre sikkerhetsmekanismer, og informasjonen er heller ikke åpent tilgjengelig dersom tilgang krever aktivt fordekt opptreden. Opplysningene som kan behandles etter forslaget er med andre ord opplysninger som hvem som helst kan få tilgang til, og som dermed ikke kan forventes å holdes fortrolig. Det er etter departementets syn tvilsomt om opplysninger som er åpent tilgjengelig i det hele tatt vil være av en slik art at de er omfattet av kildevernet. I den grad korrespondanse mellom pressen og en kilde vil behandles etter den nye bestemmelsen, må denne korrespondansen ha foregått på en plattform som er allment tilgjengelig for offentligheten. Det har etter departementets syn formodningen mot seg at fortrolig kommunikasjon med kilder foregår på offentlig tilgjengelige plattformer i særlig omfang. Spørsmålet om vern om fortrolige kilder kommer derfor neppe på spissen.
+
+Høringsinstansene som uttrykker bekymring for pressens kildevern, viser særlig til at automatiserte analyser og bruk av kunstig intelligens kan avsløre hvem som snakker med hvem. Etter forslaget kan automatiserte analyseverktøy bare benyttes ved utarbeidelse av analyser og etterretningsvurderinger om forhold i Norge som kan true nasjonale sikkerhetsinteresser. I disse tilfellene er bruken av analyseverktøyene ikke rettet mot enkeltpersoner eller kartlegging av deres aktivitet, jf. omtalen i punkt 8.9.3 nedenfor. Også av denne grunn mener departementet at forslaget ikke vil gripe inn i kildevernet.
+
+Etter departementets syn er kravet til effektive rettsmidler ivaretatt med det alminnelige systemet med EOS-utvalgets kontroll og mulighetene for å reise sak for domstolene. EOS-utvalget skal sikre at PSTs virksomhet holdes innenfor rammen av tjenestens fastlagte oppgaver og føre kontroll med tjenestens behandling av forebyggende saker og etterforskningssaker, dens bruk av skjulte tvangsmidler og andre skjulte metoder for informasjonsinnhenting. Dette vil også omfatte kontroll med PSTs bruk av den nye bestemmelsen. Departementet forutsetter at PST legger særskilt til rette for utvalgets kontroll av behandlingen som forslaget her åpner for.
+
+Som omtalt i punkt 5.3 ovenfor åpner Europarådskonvensjon nr. 108 om personvern i forbindelse med elektronisk databehandling av personopplysninger med senere tilleggsprotokoller for en rekke unntak når behandlingen skjer av hensyn til nasjonal sikkerhet eller kriminalitetsbekjempelse, dersom det følger av lov og er et nødvendig tiltak i et demokratisk samfunn. Forslaget i denne proposisjonen er innenfor unntaksmulighetene som konvensjonen åpner for, og er dermed etter departementets vurdering i tråd med konvensjonens krav.
+
+Samlet sett mener departementet at forslaget er i tråd med de krav som kan utledes av Grunnloven, EMK og EMDs praksis. Forslaget ivaretar et legitimt formål og går etter departementets syn ikke lenger enn nødvendig. De sikkerhetsmekanismer som foreslår i proposisjonen her, kombinert med de mekanismer som allerede finnes i regelverket og EOS-utvalgets kontroll med tjenesten, ivaretar også kravene til nødvendige sikkerhetsmekanismer.
+
+## Hva menes med åpent tilgjengelig informasjon?
+
+### Forslaget i høringsnotatet
+
+Forslaget i høringsnotatet var begrenset til behandling av åpent tilgjengelig informasjon. Med åpent tilgjengelig informasjon menes informasjon som er allment tilgjengelig for offentligheten, i hovedsak informasjon i det digitale rom. Det er ikke avgjørende hvor eller på hvilken måte informasjonen er gjort åpent tilgjengelig. Åpent tilgjengelig informasjon omfatter for eksempel nettavisartikler, åpne offentlige registre, åpne diskusjoner i sosiale medier, kommentarfelt, blogger mv. Hvorvidt et nettsted kan anses som offentlig tilgjengelig, vil bero på om og i hvilken grad det utøves en reell kontroll med tilgangen til nettstedet. Informasjon regnes derfor som åpen selv om det kreves et abonnement eller registrering for å få tilgang, for eksempel et abonnement på en nettavis eller at det må opprettes en bruker på sosiale medier.
+
+Informasjon regnes som åpent tilgjengelig selv om den er publisert på «det mørke nettet» og ikke er tilgjengelig gjennom vanlige søkemotorer, med mindre det er etablert spesielle mekanismer for å beskytte innholdet. Kryptert informasjon kan være åpent tilgjengelig hvis enhver kan laste den ned, for eksempel hvis en bruker på et åpent forum laster opp en kryptert fil som andre brukere fritt kan laste ned.
+
+Avgrensningen til åpent tilgjengelig informasjon innebærer at for eksempel informasjon publisert på lukkede nettsteder eller private samtaler på chattetjenester, e-poster eller annen kryptert eller privat kommunikasjon, ikke omfattes.
+
+I høringsnotatet ble det vist til at det er vanskelig å angi uttømmende hva som kan anses som åpent tilgjengelig informasjon. Det ble derfor foreslått en negativ avgrensning etter mal av etterretningstjenesteloven § 6-2, som fastsetter at informasjon ikke er åpent tilgjengelig dersom tilgang til informasjonen krever forsering av passord eller andre lignende beskyttelsesmekanismer.
+
+### Høringsinstansenes syn
+
+*Datatilsynet, Norges institusjon for menneskerettigheter (NIM), Advokatforeningen, Den Norske Dataforening* og *Tekna* etterlyser en tilsvarende avgrensning som i etterretningstjenesteloven § 6-2 om at informasjon ikke er åpent tilgjengelig dersom tilgang krever «aktivt fordekt opptreden». Det stilles spørsmål ved hvorfor ikke denne begrensningen er med, og det er dermed uklart om PST vil kunne benytte seg av falske identiteter eller brukere på nett for å få tilgang til informasjon som en bruker av sosiale medier kun deler med venner, følgere eller en liknende avgrenset krets. Avgrensning mot bruk av aktivt fordekt opptreden bør omtales og reguleres tydelig.
+
+*Politidirektoratet* og *Kripos* støtter at begrepet «åpent tilgjengelig informasjon» defineres i lovforslaget. De mener at det bør inntas en definisjon av begrepet «åpent tilgjengelig informasjon» i politiregisterloven § 2 om definisjoner.
+
+*Datatilsynet* mener det fremstår som om forslaget hviler på en antakelse om at informasjon som finnes på internett ofte eller i hovedsak er selvpublisert. Internett fungerer ikke alltid på denne måten. Falske kontoer kan opprettes. Beskyldninger og karakteristikker av andre brukere hagler i kommentarfeltet. Intim og personlig informasjon kan bli ulovlig tilgjengeliggjort, og brukere kan bli «doxxet» mot sin vilje – det vil si at personopplysninger blir samlet inn og publisert for å ramme enkeltpersoner.
+
+Tilsynet viser til at selv om deler av «det mørke nettet» er kryptert og krever ulike typer autorisasjon for å få tilgang til informasjon og nettsteder, brukes det også til fritt å utveksle opplysninger til bruk for eksempelvis hackere, publisering etter løsepengeangrep hvor løsepenger ikke ble betalt og til å publisere materiale, herunder taushetsbelagt informasjon, etter datainnbrudd. Ved større og flere lekkasjer, med tilsvarende lang lagringstid, kan det i realiteten bli langt mer informasjon om enkeltpersoner enn hva som postes online og er søkbart gjennom tradisjonelle søkemotorer. Også *Medietilsynet* og *Tekna* peker på disse forholdene.
+
+Datatilsynet savner en prinsipiell vurdering av hva som er å anse som åpent tilgjengelig. Vurderingen bør ta utgangspunkt i behovet for vern av ytringsfrihet og privatliv, veid opp mot myndighetenes behov for overvåking av elementer som kan anses som en trussel mot samfunnet. I stedet for en tilnærming hvor alt anses åpent tilgjengelig dersom ikke brukerne selv aktivt har tatt grep for å beskytte opplysningene, kan definisjonen ta utgangspunkt i en generell vurdering av hva som er ytret i det offentlige rom. Som eksempel nevnes straffeloven § 10, som definerer offentlig sted og offentlig handling i straffelovens forstand.
+
+Borgernes forventning om å kunne ytre seg fritt utenfor myndighetenes kontroll, vil trolig være større i mindre fora enn i grupper eller steder som når ut til en større krets. Datatilsynet vil påpeke at uavhengig av definisjonen vil en omfattende registrering av ytringer fremsatt i det offentlige rom kunne ha negative konsekvenser.
+
+Et perspektiv som ikke i tilstrekkelig grad er drøftet er hvordan en automatisert innsamling og analyse av ytringer og handlinger som for eksempel å være medlem av en gruppe vil kunne gi opplysninger som den enkelte ikke ønsker å dele med offentligheten.
+
+Det må også fremgå klart at informasjon som ikke er lagt ut på nettet i tråd med personvernforordningen eller som er taushetsbelagt ikke kan anses som «åpent tilgjengelig informasjon». I så fall vil personer som mot sin vilje har fått lagt ut informasjon på nettet og i strid med taushetsplikt ha et dårligere vern mot inngrep i privatlivet fra PST enn andre.
+
+*NIM* viser til at begrepet «åpent tilgjengelig informasjon» ikke er nærmere definert eller avgrenset utover at det ikke skal kreve «forsering av passord eller lignende beskyttelsesmekanismer». Forslaget åpner for innsamling av personopplysninger og annen informasjon om enhver, uten at de noen gang har vært eller vil være i politiets søkelys. Dette kan inkludere sensitive personopplysninger. Videre vil det kunne inkludere offentlig tilgjengelige opplysninger som kan være feilaktige eller misvisende, opplysninger som er tilveiebrakt eller publisert ulovlig og opplysninger publisert om enkeltpersoner uten deres kjennskap eller samtykke. Dette er opplysninger som det vil kunne være vanskelig for den det gjelder å ha kjennskap til, eksempelvis der opplysningene er publisert på sider som ikke er indeksert via søkemotorer, eller på det mørke nettet. Forutsetningen om at noe er publisert åpent, og at det dermed implisitt er gitt samtykke til at andre kan få kjennskap til opplysningene, slår ikke til for denne typen opplysninger.
+
+NIM anser at innsamling og lagring av informasjon og aktivitet i sosiale medier reiser særlige spørsmål. Selv om informasjon publisert i sosiale medier etter lovforslaget vil kunne kategoriseres som «åpent tilgjengelig», er det grunn til å anta at befolkningen kan oppfatte denne typen informasjon som mer privat enn informasjon som fremgår av andre åpne kilder. Hva som deles offentlig i sosiale medier kan dessuten avhenge av hvilke brukerinnstillinger hver enkelt har valgt og endringer i plattformens brukervilkår. Dette gjør at den enkelte kan ha varierende innsikt i hva som deles med offentligheten.
+
+*Medietilsynet* mener at definisjonen av «åpent tilgjengelig informasjon» fremstår som upresis, og at det er vanskelig å forstå rekkevidden av endringene og omfanget av datainnsamlingen. Definisjonen må i større grad presiseres og avgrenses. Informasjon på det mørke nettet oppfattes ikke som allment tilgjengelig, noe som illustrerer at departementets forståelse av «åpent tilgjengelig» trolig er avvikende fra befolkningens.
+
+*Advokatforeningen* oppfatter at begrepet «åpent tilgjengelig informasjon» skal forstås svært vidt og antar at PST i praksis kan samle inn og lagre alt som er observerbart. Advokatforeningen er bekymret for at en slik innsamling og lagring av informasjon for etterretningsformål vil ha en nedkjølende effekt på demokratiet og informasjonssamfunnet, for eksempel kritikk av myndighetene. Resultatet kan være at vi reduserer eller fjerner offentlige debatter som vi ønsker å ha i det åpne rom, selv om det kan være ubehagelige ytringer.
+
+Også Advokatforeningen påpeker at forslagets definisjon av åpent tilgjengelig informasjon ikke nødvendigvis gjenspeiler befolkningens oppfatning av hvilken informasjon som er offentlig og åpen. Det er glidende overganger fra informasjon som er fremsatt i private nettfora til generell informasjon fremsatt på en offentlig arena rettet mot et bredt publikum. Det er etter Advokatforeningens syn svært viktig at departementet klargjør hvilke grenser som gjelder for PSTs informasjonsinnhenting. En negativ avgrensing er lite egnet til dette. Videre mener foreningen at begrepet «lignende beskyttelsesmekanismer» er uklart og vanskelig å forstå. Legalitetsprinsippet tilsier at PSTs adgang til å gripe inn i den private sfæren må være klart angitt.
+
+Advokatforeningen fremhever at en slik hjemmel for PST kan føre til at kriminaliteten går over i lukkede fora hvor dialogen er beskyttet av passord eller andre beskyttelsesmekanismer. Dette synes i begrenset grad å være utredet av departementet. Også *IKT-Norge* og *NITO* peker på disse forholdene.
+
+*Rettspolitisk forening* mener definisjonen er vid, og lett kan ramme informasjon som avsenderen har ment å holde privat, for eksempel i små grupper på sosiale medier som ikke er lagt bak en teknisk beskyttelsesmekanisme. Den enkeltes forventning om privatliv er et vesentlig element i vurderingen av hvor inngripende et tiltak er. Den vide definisjonen av «åpent tilgjengelig informasjon» må antas å i seg selv ha en nedkjølende effekt på den enkeltes meningsytringer. Avgrensningen av hva som skal regnes som offentlig og privat bør både innstrammes og presiseres.
+
+*Tekna* viser til at forslaget vil omfatte informasjon fra systemer som er hacket og delt på det mørke nettet, selv om dette er informasjon som aldri var ment å være offentlig tilgjengelig. Det oppstår da spørsmål om hvordan man har man tenkt å skille mellom informasjon som er lovlig og lovstridig lagt ut. Videre vil åpen informasjon ikke bare være informasjon man har lagt ut selv, men også informasjon andre har lagt ut uten at man selv har godkjent dette. Med lang lagringstid kan man også oppleve at informasjon som ikke er tilgjengelig for en selv eller andre fortsatt vil være tilgjengelig for etterretningen.
+
+### Departementets vurderinger
+
+Angivelsen av hva som regnes som åpent tilgjengelig informasjon er ment å forstås på samme måte som etter etterretningstjenesteloven § 6-2. I høringsnotatet ble det vist til at det ikke er mulig å gi en uttømmende definisjon av begrepet. Høringsinnspillene har understreket dette.
+
+Departementet er klar over at mye informasjon som er åpent tilgjengelig kan være publisert uten at personen det gjelder er kjent med det, eller at informasjonen er publisert urettmessig. Dersom man først åpner for at PST kan innhente åpent tilgjengelig informasjon uten en vurdering av om den enkelte opplysning i seg selv er nødvendig, kan det heller ikke avgrenses mot informasjon som omhandler mindreårige, er lovstridig lagt ut, underlagt taushetsplikt eller lignende. Slike begrensninger gjør seg heller ikke gjeldende i andre sammenhenger der PST og politiet for øvrig behandler åpent tilgjengelig informasjon, så fremt politiregisterlovens regler ellers er oppfylt.
+
+Det sentrale må derfor være at opplysningene rent faktisk er åpent tilgjengelig, det vil si at informasjonen er allment tilgjengelig for offentligheten. Hvordan eller hvorfor opplysningene er publisert er dermed uten betydning. Avgrensning av hvilke opplysninger som kan innhentes omtales i punkt 8.3.3 nedenfor.
+
+Når det gjelder avgrensning mot behandling av informasjon der tilgang krever «aktivt fordekt opptreden», har det ikke vært hensikten med forslaget å åpne for at PST kan behandle opplysninger innhentet ved slik opptreden etter den nye bestemmelsen. Forslaget åpner dermed ikke for at en tjenesteperson eksempelvis utgir seg for å være en annen, ikke-fiktiv person og gjennom samhandling med mennesker oppnår tilgang til for eksempel et forum på Internett, Det åpnes heller ikke for at PST gjennom en fiktiv bruker kan opptre manipulerende for å få eller opprettholde tilgang til et lukket forum eller gruppe på et nettsamfunn. I lys av høringsinnspillene ser departementet at avgrensningen mot «aktivt fordekt opptreden» bør inntas i bestemmelsen, for å unngå tvil om hva som er ment med åpent tilgjengelig informasjon.
+
+Advokatforeningen mener at begrepet «lignende beskyttelsesmekanismer» er uklart. Departementet viser til at begrepet benyttes i etterretningstjenesteloven § 6-2 og skal forstås på samme måte i denne bestemmelsen. Lignende beskyttelsesmekanismer omfatter andre beskyttelsestiltak enn passordbeskyttelse som gjør at informasjonen ikke er åpent tilgjengelig for allmennheten. Det kan eksempelvis være biometrisk autentisering, at informasjonen kun kan nås fra spesifikke fysiske enheter eller at den på andre måter er utilgjengelig for uvedkommende.
+
+Departementet opprettholder etter dette en negativ avgrensning av hva som regnes som åpent tilgjengelig, på samme måte som etter etterretningstjenesteloven § 6-2. Det anses ikke hensiktsmessig med en definisjon av begrepet i politiregisterloven § 2. Begrepet benyttes kun i de reglene som gjelder PST, og forslaget er ikke en generell regulering av bruk av åpent tilgjengelig informasjon. Bestemmelsen får dermed ikke betydning for PSTs muligheter til å bruke åpent tilgjengelig informasjon i andre sammenhenger, eller for det øvrige politiets adgang til å benytte åpent tilgjengelig informasjon.
+
+Risikoen for at personer som ønsker å skjule sin kommunikasjon kan flytte seg til plattformer som ikke er offentlig tilgjengelige er ikke ny med dette forslaget. Det er grunn til å tro at mange av disse allerede velger å benytte plattformer som ikke er åpent tilgjengelige. Dette er derfor etter departementets syn ikke et argument mot at PST skal få den muligheten som forslaget her legger opp til. Ved å kunne analysere, sammenstille og vurdere åpent tilgjengelig informasjon over tid vil PST like fullt kunne utarbeide gode analyser og etterretningsvurderinger, selv om enkelte personer vil avstå fra å ytre seg på åpne plattformer og deres ytringer derfor ikke vil finnes i informasjonsgrunnlaget.

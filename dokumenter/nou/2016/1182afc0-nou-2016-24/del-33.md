@@ -1,952 +1,272 @@
-# NOU 2016: 24, del 33 av 73 (side 359–368)
+# NOU 2016: 24, del 33 av 69
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/1182afc0-nou-2016-24.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-24/id2517932/
 - Original-PDF: https://www.regjeringen.no/contentassets/6fe1d875248042b4a09b43b85aa46832/no/pdfs/nou201620160024000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 9 tabeller, 1 figur, 52 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 359]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-omfang liggende inaktive i lang tid på grunn av
-kapasitetsproblemer mv.
-Lang saksbehandlingstid kan medføre en betydelig merbelastning for mistenkte, fornærmede og
-etterlatte. Etterforskingen og den påtalemessige
-behandlingen utgjør dessuten en vesentlig del av
-saksbehandlingstiden frem til rettskraftig dom, og
-dersom en skal ha ambisjoner om å redusere den
-samlede saksbehandlingstiden, er det viktig å
-vurdere tiltak som kan virke positivt inn på behandlingstiden i politiet og påtalemyndigheten.
-Etter utvalgets syn er det på denne bakgrunn
-på nytt grunn til å vurdere behovet for lovregulerte frister for avgjørelse av påtalespørsmålet.
-Spørsmålet har vært vurdert tidligere, blant annet
-i rapport 20. juni 2000 Prosjekt hurtigere straffesaksbehandling, Arbeidsgruppe I, der det gis
-uttrykk for følgende generelle overveielser:
-«Innføring av frister kan lett fremstå som et
-nærliggende tiltak for å oppnå kortere saksbehandlingstid. Dette krever imidlertid nærmere
-overveielse. Fristregler løser i seg selv ingen
-problemer. Dersom de underliggende forhold,
-f. eks. etterforskings- og påtalekapasitet, er slik
-at fristene ikke lar seg overholde, vil fristregler
-bare bli et slag i luften. I så fall er det bedre å la
-være å innføre dem. Fristregler kan også føre
-til forskyvninger. Hvis det stilles krav til saksbehandlingstiden for noen sakstyper, vil dette
-virke styrende på politiets og påtalemyndighetens prioriteringer. Således kan frister på noen
-områder føre til [at] andre saker får lengre
-saksbehandlingstid. En slik forskyvning vil
-være ønskelig dersom den fører til at tempoet
-øker i de saker der dette er viktigst, men man
-må være oppmerksom på at det slett ikke er gitt
-at den gjennomsnittlige saksbehandlingstid
-totalt sett vil bli kortere.»6
-Utvalget kan i stor grad slutte seg til det som her
-er sagt. Detaljerte fristregler for ulike sakstyper
-hører etter utvalgets syn uansett ikke hjemme i
-loven, men bør i stedet reguleres gjennom forskrifter, rundskriv mv., som enklere kan justeres i
-takt med endringer i behov over tid. Det er også
-vanskelig å se for seg at absolutte frister er egnet,
-ettersom loven må ta høyde for variasjonene
-mellom ulike straffesaker. Ønsket om effektiv
-saksavvikling bør dermed, slik utvalget ser det, i
-første rekke sikres gjennom andre tiltak enn lovbestemte frister.
-6
-
-Justis- og politidepartementet (2000a) s. 90.
-
-357
-
-Kapittel 16
-
-Etter utvalgets syn kan likevel mye tale for at
-loven bør inneholde en relativ frist for avgjørelse
-av påtalespørsmålet, sett i lys av fristreglene som
-følger av overordnede rettsnormer. Retten til
-behandling innen rimelig tid følger av Grunnloven
-§ 95 og Den europeiske menneskerettskonvensjon (EMK) artikkel 6 nr. 1. En ren gjentakelse i
-loven av kravet om avgjørelse innen rimelig tid vil
-ikke i seg selv tilføre noe. I kombinasjon med
-saksbehandlings- og kontrollregler som sikrer
-reell håndhevelse, vil imidlertid en slik regulering
-kunne få selvstendig betydning.
-Kontroll med saksbehandlingstiden må i første
-rekke skje internt i påtalemyndigheten, og det er
-viktig at det eksisterer interne frister og rutiner
-som sikrer kontroll med fremdriften, også i enkeltsaker. I dag skjer internkontroll i stor grad innen
-det enkelte politidistrikt og gjennom tilsyn fra overordnet påtalemyndighet, se punkt 8.2.2. Dessuten
-kan mistenkte og fornærmede bringe spørsmålet
-om hvorvidt saken fremmes med tilstrekkelig hurtighet, inn for overordnet påtalemyndighet, som
-normalt vil behandle slike henvendelser utenfor
-klageordningen etter straffeprosessloven § 59 a.
-Utvalget har vurdert om det bør lovfestes en
-plikt for påtalemyndigheten i politiet til å forelegge saker for statsadvokaten med redegjørelse
-for saksfremdriften innen visse frister. En slik ordning vil kunne bedre forutsetningene for statsadvokatens kontroll og utgjøre et insentiv for påtalemyndigheten i politiet til å avgjøre saker innenfor de frister som er fastsatt. På den annen side vil
-en slik regulering – avhengig av hvordan ordningen innrettes – kunne medføre uhensiktsmessig
-merarbeid og dermed virke mot sin hensikt.
-Utvalget har kommet til at nærmere regler om
-internkontroll – herunder om en eventuell foreleggelsesordning som nevnt – i stedet bør gis i forskrift eller retningslinjer fra riksadvokaten. Utkastet gjør for øvrig ingen endringer i muligheten for
-mistenkte og fornærmede til å bringe spørsmål
-om saksbehandlingen, herunder om fremdriften i
-etterforskingen, inn for overordnet påtalemyndighet, se merknadene til utkastet § 29-9 om klage
-over påtalevedtak.
-Et annet spørsmål er om det i tillegg til internkontroll i påtalemyndigheten bør innføres en ordning med rettslig kontroll med saksbehandlingstiden frem til påtalevedtak. I Danmark er det etablert en slik ordning, der retten på nærmere vilkår kan fastsette en frist for avgjørelse av påtalespørsmålet, og hvor oversittelse av fristen
-medfører at «påtale mod sigtede [anses] for opgivet», jf. retsplejeloven § 718 b stk. 1–3:
-
-[Side 360]
-
-358
-
-NOU 2016: 24
-
-Kapittel 16
-
-Ny straffeprosesslov
-
-«Er afgørelse om påtaleopgivelse, tiltalefrafald
-eller tiltalerejsning ikke truffet, eller er der
-ikke anmodet om retsmøde med henblik på
-sagens behandling som tilståelsessag i medfør
-af § 831 inden 1 år og 6 måneder efter det tidspunkt, hvor politiet har gjort sigtede bekendt
-med sigtelsen, kan sigtede indbringe sagen for
-retten.
-Stk. 2. Hvis der efter en samlet vurdering af
-hensynet til den sigtede, forurettede, sagens
-beskaffenhed og omstændigheder samt
-sagens samfundsmæssige betydning er særlig
-grund til at kræve fremskyndelse af anklagemyndighedens afgørelse af tiltalespørgsmålet,
-kan retten undtagelsesvis fastsætte en frist herfor. Fristen skal være på mindst 3 måneder og
-højst 1 år. Hvis anklagemyndigheden ikke træffer afgørelse om tiltalespørgsmålet inden for
-den frist, som retten har fastsat, anses påtale
-mod sigtede for opgivet af anklagemyndigheden, jf. dog stk. 3.
-Stk. 3. Retten kan efter anmodning fra
-anklagemyndigheden forlænge en frist fastsat
-efter stk. 2 med højst 1 år ad gangen, hvis der
-foreligger særlige omstændigheder. Anklagemyndighedens anmodning skal fremsættes
-over for retten senest 2 uger inden udløbet af
-den frist, som retten tidligere har fastsat. Hvis
-retten ikke finder grundlag for at forlænge fristen, anses påtale mod sigtede for opgivet af
-anklagemyndigheden, medmindre denne træffer afgørelse om tiltalespørgsmålet inden 2
-måneder fra rettens afgørelse om ikke at forlænge fristen.»
-Ut fra tilbakemeldinger i forbindelse med utvalgets studietur til København samt på grunnlag av
-egne undersøkelser er det utvalgets inntrykk at
-denne bestemmelsen sjelden benyttes i praksis.
-Noe annet var imidlertid heller ikke forutsetningen. En vesentlig del av begrunnelsen for ordningen var ønsket om å sikre siktede et effektivt rettsmiddel for håndhevelse av retten til avgjørelse
-innen rimelig tid, jf. EMK artikkel 6.7
-Utvalgets flertall mener at mistenkte bør sikres
-et effektivt vern mot at straffeforfølgning pågår
-uforholdsmessig lenge, og etter flertallets syn er
-det behov for uavhengig kontroll med saksbehandlingstiden frem til avgjørelse av påtalespørsmålet.
-At domstolene tillegges en slik funksjon, er etter
-flertallets syn ikke i strid med de hensyn anklageprinsippet bygger på: At påtalespørsmålet skal
-avgjøres av en uavhengig anklager, har ikke som
-7
-
-Betænkning nr. 1492/2007 s. 118.
-
-nødvendig konsekvens at domstolene ikke kan
-føre kontroll med anklageadgangen.
-Flertallet foreslår på denne bakgrunn at det
-etter dansk modell inntas en bestemmelse i ny
-straffeprosesslov som innebærer at mistenkte
-etter 1 år og 6 måneder kan bringe spørsmålet om
-saken fremmes med tilstrekkelig hurtighet, inn
-for domstolene, og at retten skal kunne fastsette
-en preklusiv frist for avgjørelse av påtalespørsmålet dersom den finner at «videre forfølgning mot
-mistenkte vil være urimelig». Terskelen for å anse
-vilkåret som oppfylt vil måtte være relativt høy, og
-avgjørelsen må treffes etter en konkret vurdering
-i den enkelte sak. Det bør særlig være lang saksbehandlingstid som følge av liggetid, manglende
-planmessighet, koordinering, dimensjonering mv.
-som kan føre til at videre forfølgning anses urimelig. Hensynet til fornærmede kan tale imot at
-adgangen til straffeforfølgning prekluderes, og
-dette er ett av flere forhold retten må ta hensyn til.
-Mistenkte og fornærmede har imidlertid i
-utgangspunktet en felles interesse i at saken
-behandles så raskt som mulig, og det kan således
-også for fornærmede være en fordel med en
-bestemmelse som bidrar til å fremskynde behandlingen.
-Om frist for påtalevedtak og rettslig kontroll
-vises det til utkastet § 28-1 og merknadene til
-bestemmelsen.
-Utvalgsmedlem Schea er enig med flertallet i at
-loven bør inneholde en relativ frist for avgjørelse
-av påtalespørsmålet. Lang saksbehandlingstid er
-en betydelig utfordring, også i store saker om
-økonomisk kriminalitet. Men dette utvalgsmedlemmet mener at en ordning som foreslått
-med rettslig kontroll av fristen er problematisk.
-Domstolen kommer her i en posisjon som bryter
-med den tilbaketrukne rollen domstolen har og
-bør ha i forhold til påtalemyndigheten i etterforskingsfasen.
-Dette kan illustreres med det inntrykket en
-mistenkt kan få når vedkommende bringer saken
-inn for retten – som så kommer til at det kan etterforskes videre. Mistenktes inntrykk vil kunne
-være at domstolen har tatt stilling i saken ved å
-mene at den fortjener videre etterforsking selv
-etter at 18 måneder har gått. På dette punktet kan
-den danske bestemmelsen sies å være mindre
-problematisk. Utgangspunktet i denne er nettopp
-at retten ikke setter noen frist; bare når retten finner at det foreligger «særlig grunn» kan den «undtagelsesvis» sette en frist.
-Etter dette utvalgsmedlemmets syn kan formålet (at mistenkte skal kunne agere for å få vurdert
-om etterforskingen går framover med tilstrekke-
-
-[Side 361]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-lig hurtighet) oppnås på en annen måte som er
-mer nærliggende i den norske straffeprosessordningen, nemlig i form av klage til overordnet påtalemyndighet. Etter gjeldende lov kan enkelte av
-påtalemyndighetens vedtak påklages til overordnet påtalemyndighet etter straffeprosessloven
-§ 59 a. Noen tilsvarende klagerett for så vidt gjelder langvarig etterforsking finnes ikke, selv om
-slike klager riktignok behandles av overordnet
-påtalemyndighet i praksis. Etter dette utvalgsmedlemmets syn ville en slik lovfestet klagerett
-være fornuftig, i bedre samsvar med alminnelige
-forvaltningsrettslige prinsipper og hensiktsmessig også sett hen til statsadvokatenes fagansvar
-overfor politiets straffesaksbehandling.
-Den bestemmelsen flertallet foreslår, er ment
-å motvirke at straffeforfølgningen skal ta urimelig
-lang tid. Selv om 18 måneder vil være passende i
-det store flertall av saker, vil dette tidsforløpet
-etter dette utvalgsmedlemmets syn – i et lite
-mindretall saker – være for kort. Dette vil imidlertid dreie seg om alvorlige saker hvor etterforskingsmessige hensyn kan tilsi at mistenkte ikke
-gis slikt innsyn i saken som følger av behandlingen av en begjæring om rettslig prøving av fremdriften som foreslått av flertallet.
-Dette utvalgsmedlemmet mener etter dette at
-det er grunn til å foreslå innført en rett for mistenkte til å få overprøvd spørsmålet om saken fremmes med tilstrekkelig hurtighet, med preklusiv
-virkning. Men det bør være overordnet påtalemyndighet – ikke retten – som foretar overprøvingen.
-
-16.3 Påtaleunnlatelse
-Reglene om påtaleunnlatelse etter straffeprosessloven §§ 69 og 70 foreslås videreført. Det
-vises til redegjørelsen for bestemmelsene i punkt
-5.3.1 og utvalgets generelle vurderinger om
-opportunitetsprinsippet i ny straffeprosesslov i
-punkt 8.3.3.
-I forbindelse med ikrafttredelsen av gjeldende
-straffelov ble ordlyden i § 69 endret, og bestemmelsen fastsetter nå at påtaleunnlatelse kan gis
-når «helt særlige grunner tilsier det». Tidligere
-het det at påtale kan unnlates når «slike særlige
-forhold er til stede at påtalemyndigheten etter en
-samlet vurdering finner at overveiende grunner
-taler for ikke å påtale handlingen». Endringen tok
-ikke sikte på å endre innholdet, kun å modernisere språket.8
-
-Utvalgets syn er at uttrykket «helt særlige
-grunner» ikke er treffende for det bestemmelsen
-tar sikte på å regulere. Den tidligere formuleringen var kanskje noe gammelmodig, men pekte
-tydeligere mot det som skal vurderes, nemlig om
-det foreligger forhold som etter en «samlet vurdering» tilsier at påtalepresumsjonen bør fravikes.
-Videre oppstilles det etter ordlyden et for strengt
-vilkår når det kreves «helt særlige» grunner, idet
-det ikke er tvilsomt at påtaleunnlatelse både kan
-og bør kunne begrunnes i ganske alminnelige forhold, for eksempel gjerningspersonens alder og
-subjektive forutsetninger, at det er tale om første
-gangs lovovertredelse mv.9 Slik sett er den tidligere ordlyden etter utvalgets syn å foretrekke.
-Utvalget foreslår imidlertid en språklig forenkling, uten at det tas sikte på realitetsendringer, jf.
-utkastet § 28-3 første ledd bokstav a.
-Adgangen til å stille vilkår for påtaleunnlatelse
-foreslås videreført, med unntak av muligheten for
-å stille vilkår om konfliktrådsbehandling, som
-anses overflødig ved siden av bestemmelsen om
-overføring til konfliktråd i utkastet § 28-4. Noen
-realitetsendring av betydning innebærer imidlertid forslaget ikke, ettersom overføring til konfliktråd etter utkastet kan skje på de samme vilkår
-som beslutning om påtaleunnlatelse, jf. utkastet
-§ 28-4 tredje ledd.
-
-16.4 Henleggelse når forfølgning ikke er
-i det offentliges interesse
-Ved vedtakelsen og ikrafttredelsen av den nye
-straffeloven ble reglene om betinget offentlig
-påtale endret, og ordningen med påtalebegjæring
-fra fornærmede avskaffet. I stedet fikk man
-straffeprosessloven § 62 a, som i annet ledd fastslår at påtale kan unnlates i saker med en strafferamme på inntil 2 år når ikke allmenne hensyn
-tilsier at forholdet bør forfølges.10 Det er gjort
-nærmere rede for bestemmelsen i punkt 5.3.1 om
-straffeforfølgningsplikten og opportunitetsprinsippet.
-Det er gjort unntak fra utgangspunktet i § 62 a
-annet ledd både i straffeloven og i spesiallovgivningen. For enkelte straffebud med en strafferamme over 2 år er det angitt at påtale likevel kan
-unnlates når ikke allmenne hensyn tilsier påtale,
-og motsatt er det for noen straffebud med en
-strafferamme lavere enn 2 år uttrykkelig bestemt
-9
-
-8
-
-Ot.prp. nr. 90 (2003–2004) s. 487. Se også Prop. 64 L (2014–
-2015) s. 134.
-
-359
-
-Kapittel 16
-
-10
-
-For gjeldende rett se Bjerke, Keiserud og Sæther (2011) s.
-297 med videre henvisninger.
-Se nærmere riksadvokaten (2/2015) punkt VIII, 1.
-
-[Side 362]
-
-360
-
-NOU 2016: 24
-
-Kapittel 16
-
-Ny straffeprosesslov
-
-at påtalen er ubetinget offentlig.11 Dessuten ble
-ikke ordningen med betinget offentlig påtale fullstendig opphevet ved vedtakelsen av § 62 a. Etter
-enkelte bestemmelser i spesiallovgivningen er det
-fremdeles et vilkår for påtale at (sterke) allmenne
-hensyn tilsier det, eller at det foreligger påtalebegjæring fra særskilt myndighet.12
-Reguleringen som følger av straffeprosessloven § 62 a annet ledd og de ulike tilpasningene i
-straffeloven og spesiallovgivningen, er unødvendig komplisert og uoversiktlig. Det kan etter
-utvalgets syn dessuten stilles spørsmål om hvorvidt regelverket ivaretar de hensyn som gjør seg
-gjeldende. På den ene side går ordningen svært
-langt i å overlate spørsmålet om straffeforfølgning
-til påtalemyndighetens skjønn. Omkring 80 prosent av den anmeldte kriminaliteten gjelder forhold med en strafferamme på inntil 2 år.13 På den
-annen side kan det meget vel tenkes forhold med
-en strafferamme på mer enn 2 år, der overveiende
-grunner kan tale for å unnlate videre forfølgning.
-Unntakene i lovgivningen som åpner for dette, er i
-så måte illustrerende.
-Utkastet tar utgangspunkt i at det er den offentlige interesse i straffeforfølgning som bør være
-avgjørende for om forfølgning skal finne sted, og at
-interessevurderingen i prinsippet og i likhet med
-det som gjelder ved påtaleunnlatelse, bør kunne
-skje løsrevet fra strafferammen for det forhold
-saken gjelder, jf. utkastet § 28-2 annet ledd:
-«Saken kan henlegges når forfølgning ikke er i
-det offentliges interesse, herunder fordi
-a) forholdet er bagatellmessig, og berørte
-interesser ikke i avgjørende grad taler for
-forfølgning,
-b) forfølging vil medføre saksbehandlingstid og
-kostnader eller øvrig ressursbruk som ikke
-står i rimelig forhold til sakens betydning,
-c) forholdet kan medføre administrativ sanksjon, og det er mest hensiktsmessig at forholdet forfølges administrativt, eller
-11
-
-Ot.prp. nr. 22 (2008–2009) punkt 14.5 s. 392–393. Se for
-eksempel straffeloven § 203 femte ledd, markedsføringsloven § 48 a tredje ledd, varemerkeloven § 61 tredje ledd,
-lov 15. juni 1990 nr. 27 om vern av kretsmønstre for integrerte kretser § 9 tredje ledd og svalbardmiljøloven § 99
-annet ledd.
-12
-Se for eksempel forurensingsloven § 78 siste ledd, konkurranseloven § 33, helsepersonelloven § 67 annet ledd, folkehelseloven § 18 annet ledd, lov 12. mai 2000 nr. 36 om
-strålevern og bruk av stråling § 23 siste ledd, diskrimineringsombudsloven § 14, grensereinbeiteloven § 55, lov 27.
-juni 2003 nr. 64 om alternativ behandling av sykdom § 9
-siste ledd og åndsverkloven § 54 sjette ledd.
-13
-Kjelby (2013) s. 24.
-
-d) det foreligger rettskraftig avgjørelse om
-ikke å ta en begjæring om å nekte innsyn
-etter § 6-11, jf. § 6-8, til følge.»
-At påtalemyndigheten også før skyldspørsmålet
-anses avklart, gis en skjønnsmessig adgang til å
-vurdere om forfølgning skal finne sted ut fra et
-slikt kriterium, vil være i tråd med de hensyn som
-ligger til grunn for opportunitetsprinsippet og
-påtalemyndighetens ansvar for å ivareta statens
-straffeforfølgningsinteresse, se punkt 8.3.3.
-Det kan innvendes mot utkastet at påtalemyndigheten gis en for omfattende adgang til henleggelse. Dette har vært en innsigelse mot straffeprosessloven § 62 a annet ledd, og utkastet går i
-prinsippet lenger ved at strafferammebegrensningen sløyfes. Utkastet har imidlertid en annen
-innretning og bygger i utgangspunktet på en
-sterk presumsjon for at forfølgning av straffbare
-handlinger er i det offentliges interesse. Det er
-fraværet av forfølgningsinteresse som må påvises. De typetilfeller som er angitt i bestemmelsen, gir dessuten veiledning med hensyn til i
-hvilke situasjoner det kan være aktuelt å unnlate
-forfølgning, og hvilke momenter påtalemyndigheten skal ta i betraktning. Dermed klargjøres
-det etter utvalgets syn i tilstrekkelig grad hvor
-grensene for påtalemyndighetens skjønnsfrihet
-går. Momentene kan eventuelt presiseres ytterligere i direktiver fra riksadvokaten.
-
-16.5 Særlig om henleggelse av
-kapasitetsgrunner
-Som det fremgår av punkt 5.3.1, er det både i teori
-og praksis anerkjent at påtalemyndigheten etter
-gjeldende rett har en viss adgang til å henlegge
-straffesaker på grunn av manglende saksbehandlingskapasitet, selv om det ikke fremgår uttrykkelig av gjeldende lov.14 Spørsmålet i det følgende er
-om påtalemyndigheten bør ha en slik henleggelsesadgang, og eventuelt om denne bør lovreguleres.
-Straffelovkommisjonen gikk i delutredning VII
-inn for å lovfeste adgangen til kapasitetshenleggelser, og fremmet forslag om at det i straffeprosessloven skulle tas inn en bestemmelse med
-følgende ordlyd:
-«Politiet kan henlegge en sak av mindre alvorlig karakter når manglende etterforskings14
-
-Jf. også Kjelby (2013) s. 657 og riksadvokaten (2/2015)
-punkt VIII, 1.3.
-
-[Side 363]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-kapasitet gjør dette helt nødvendig og gjerningspersonen ikke er kjent.»15
-Forslaget bygget på et utkast fra delutredning V,
-som der var begrunnet slik:
-«Forslaget er begrunnet i et synspunkt om at
-den henleggelse som i dag faktisk skjer av slike
-grunner, er en uønsket, men nødvendig konsekvens av den manglende etterforskingskapasitet hos politiet. Ettersom denne henleggelsesadgangen i praksis synes å være godkjent som
-en type påtalemessig avgjørelse, bør dette
-komme til uttrykk i lovverket. Henleggelse på
-dette grunnlag bør likevel være underlagt
-sterke begrensninger. Adgangen skal bare
-gjelde saker av ‘mindre alvorlig karakter’, og
-henleggelse bør bare skje når det anses ‘helt
-nødvendig’. Saker med kjent gjerningsperson
-skal ikke kunne henlegges med hjemmel i
-denne bestemmelsen. Det bør også utvises
-særlig varsomhet med å henlegge en sak som
-er anmeldt av offentlig myndighet som forvalter eller fører tilsyn med de verdier som rammes av den straffbare handlingen.»16
-Departementet har ikke fulgt opp forslaget, uten
-at en derved kan slutte at det har vært meningen å
-gjøre endringer i påtalemyndighetens kompetanse til å henlegge forhold på dette grunnlaget.17
-Slik utvalget ser det, er henleggelser på grunn
-av manglende saksbehandlingskapasitet uunngåelig. Realistisk sett gjelder dette nærmest uansett
-hvor mye ressurser politiet og påtalemyndigheten
-tilføres. Det er heller ikke rimelig å forvente at
-staten skal bruke ressurser på å etterforske og forfølge alle forhold som anmeldes eller avdekkes.
-Det må imidlertid være en forutsetning at
-kapasitetshenleggelser bare skjer i forsvarlig
-utstrekning og etter rasjonelle prioriteringer.
-Særlig kan det være uheldig dersom henleggelse
-på grunn av kapasitetsbegrensninger skjer systematisk for enkelte sakstyper. Dette vil kunne
-undergrave formålet med straffelovgivningen,
-bryte med lovgivers forutsetninger og svekke
-publikums tillit til politi og påtalemyndighet. Dersom saker av en viss karakter henlegges i markant større utstrekning enn andre, kan det dessuten reelt skyldes andre forhold enn manglende
-ressurser. Det er for eksempel grunn til å anta at
-manglende kompetanse på enkelte områder –
-15
-
-NOU 2002: 4 s. 466 og 494.
-NOU 1992: 23 s. 245.
-17
-Riksadvokaten (2/2015) punkt VIII, 1.3.
-16
-
-361
-
-Kapittel 16
-
-forårsaket av skjevprioriteringer over tid snarere
-enn av ressursmangel – kan føre til at påtalemyndigheten er mer tilbakeholden med å forfølge
-enkelte sakstyper. For å unngå uforsvarlig bruk
-av adgangen til kapasitetshenleggelser er det
-svært viktig at det i påtalemyndigheten etableres
-gode rutiner for internkontroll. Det vises til det
-som er sagt om dette i punkt 8.3.3 om opportunitetsprinsippet.
-At gjerningspersonen antas å være kjent, bør
-ikke nødvendigvis utelukke henleggelse av kapasitetsgrunner. Selv om en mulig gjerningsperson er
-navngitt, for eksempel av anmelder, vil det som
-regel være behov for å gjennomføre etterforskingsskritt, slik som avhør av mistenkte og vitner mv.
-Hvorvidt det er rimelig å bruke ressurser på slik
-etterforsking, må vurderes fra sak til sak, men
-hvorvidt gjerningspersonen antas å være identifisert, må være et moment i vurderingen. Saker bør i
-prinsippet også kunne henlegges på grunn av manglende kapasitet selv om det kun er den påtalemessige behandlingen som gjenstår. Også påtalemyndigheten har begrensede ressurser, og prioriteringer må gjøres. Alternativet er at det bygges opp
-restanser, hvilket etter utvalgets syn har lite for seg.
-Etter utvalgets syn bør adgangen til å beslutte
-henleggelse av kapasitetsgrunner komme til
-uttrykk i loven, jf. særlig utkastet § 28-2 annet ledd
-bokstav b: «Saken kan henlegges når forfølgning
-ikke er i det offentliges interesse, herunder fordi
-[…] forfølgning vil medføre saksbehandlingstid og
-kostnader eller øvrig ressursbruk som ikke står i
-rimelig forhold til sakens betydning.» Reguleringen bygger på at adgangen til henleggelse av
-kapasitetsgrunner systematisk hører under spørsmålet om hvorvidt forfølgning er i «det offentliges
-interesse», og at kapasitetshensyn bør være et
-moment i en forholdsmessighetsvurdering. Kapasitetshensyn kan også trekkes inn i vurderingen av
-om en sak i det hele tatt skal etterforskes, se punkt
-14.2.3 og utkastet § 13-2 første ledd.
-Det er viktig at påtalemyndigheten ved henleggelse oppgir det reelle grunnlaget for beslutningen. Påtalemyndigheten skal således ikke søke å
-kamuflere en kapasitetshenleggelse for eksempel
-ved å henlegge forholdet etter «bevisets stilling»,
-jf. også utkastet § 28-8 annet ledd første punktum
-og merknadene til bestemmelsen.
-
-16.6 Påtalebegjæring som vilkår for
-forfølgning
-Som nevnt i punkt 16.4 ble ordningen med påtalebegjæring fra fornærmede som vilkår for straffe-
-
-[Side 364]
-
-362
-
-NOU 2016: 24
-
-Kapittel 16
-
-Ny straffeprosesslov
-
-forfølgning avskaffet med vedtakelsen og ikrafttredelsen av den nye straffeloven. Hvorvidt fornærmede ønsker at et forhold skal straffeforfølges, kan være et sentralt moment ved vurderingen
-av om forfølgning skal skje, jf. straffeprosessloven
-§ 62 a annet ledd, men er ikke formelt avgjørende.
-Spørsmålet i det følgende er om det samme bør
-gjelde for påtalebegjæring fra offentlig myndighet.
-Straffelovkommisjonen foreslo i delutredning
-VII å avskaffe ordningen med påtalebegjæring fra
-fornærmede og offentlig myndighet som vilkår
-for straffeforfølgning.18 Tilrådningen ble i første
-omgang tilsynelatende tatt til følge av departementet, jf. Ot.prp. nr. 90 (2003–2004), der det
-heter:
-«Det andre hovedmoment som skal tillegges
-vekt er standpunktet til den fornærmede,
-andre skadelidte eller særskilt myndighet. Dette
-er den krets som tidligere kunne fremme mer
-formelle begjæringer om påtale. Deres synspunkter på påtalespørsmålet er fremdeles av
-sentral betydning, men ikke formelt avgjørende.»19
-I det videre arbeidet med straffeloven ble imidlertid forutsetningen endret, jf. Ot.prp. nr. 22 (2008–
-2009), der det uttales:
-«Offentlig påtale vil også kunne være betinget
-av begjæring fra annen offentlig myndighet.
-Det gjøres ikke endringer i denne ordningen.»20
-Dette standpunktet ble opprettholdt i forbindelse
-med straffelovens ikrafttredelse, jf. Prop. 64 L
-(2014–2015):
-«Selv om ordlyden i § 62 a annet ledd annet
-punktum kunne tyde på det motsatte, er det
-ikke gjort endringer i ordningen med påtalebegjæring fra særskilt offentlig myndighet, jf.
-Ot.prp. nr. 22 (2008–2009) punkt 14.5 side
-392.»21
-
-å inngi påtalebegjæring på vegne av offentlig myndighet.22 Det er heller ingen fare for at særskilte
-kontrollorganer og andre berørte myndigheter
-skal få for liten innflytelse på spørsmålet om hvorvidt forfølgning skal skje, og i hvilke saker. I praksis er politiet og påtalemyndigheten avhengig av
-anmeldelse eller opplysninger fra vedkommende
-myndighet for at det i det hele tatt skal bli aktuelt
-å iverksette etterforsking.
-På denne bakgrunn bygger utkastet på at påtalebegjæring fra fornærmede og offentlig myndighet ikke i noe tilfelle skal være et vilkår for straffeforfølgning. Påtalemyndigheten skal imidlertid,
-ved vurderingen av om forfølgning er i det offentliges interesse, jf. utkastet § 28-2 annet ledd, ta
-hensyn til hvorvidt fornærmede, skadelidte eller
-berørte offentlige myndigheter ønsker at forholdet forfølges strafferettslig. Det vises til merknadene til bestemmelsen.
-
-16.7 Omgjøring av påtalevedtak. Særlig
-om vernet mot omgjøring
-Straffeprosessloven begrenser påtalemyndighetens adgang til å omgjøre påtalevedtak til skade
-for den forfølgningen har vært rettet mot. Omgjøringsvernet gjelder imidlertid kun for personer
-som har status som «siktet», ikke for mistenkte, jf.
-§§ 74 første ledd og 75 annet ledd. Vernet gjelder
-uavhengig av om vedkommende er gjort kjent
-med siktelsen.
-Rekkevidden av omgjøringsvernet ble drøftet i
-Ot.prp. nr. 66 (2001–2002), der høringsinstansene
-hadde tatt opp spørsmålet om hvorvidt det er saklig grunn til å ha ulike regler for omgjøringsadgangen avhengig av om den anmeldte har stilling
-som siktet eller mistenkt, og om begrensningen i
-omgjøringsadgangen bør gjelde når den siktede
-ikke er gjort kjent med siktelsen. Departementet
-hadde følgende syn på disse spørsmålene:
-«Departementet er skeptisk til å gå bort fra siktelse som skjæringspunkt for hvilken beskyttelse den som har vært i politiets søkelys, skal
-ha mot en senere omgjøring, slik flere
-høringsinstanser har tatt til orde for. Å gi en
-mistenkt samme beskyttelse som en som har
-vært siktet, eller gi en siktet som ikke hadde
-kunnskap om siktelsen, dårligere beskyttelse
-enn en som var kjent med siktelsen, vil virke
-unødig kompliserende.»23
-
-Utvalget kan bare se fordeler ved å oppheve ordningen. Det vil innebære en forenkling, blant
-annet ved at det ikke vil være behov for å videreføre straffeprosessloven § 81 a om kompetanse til
-18
-
-NOU 2002: 4 s. 184.
-Ot.prp. nr. 90 (2003–2004) s. 487 (uthevet her).
-20
-Ot.prp. nr. 22 (2008–2009) s. 392.
-21
-Prop. 64 L (2014–2015) s. 55–56.
-19
-
-22
-23
-
-Se Prop. 64 L (2014–2015) s. 135.
-Ot.prp. nr. 66 (2001–2002) s. 121.
-
-[Side 365]
-
-363
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-I tråd med det som gjelder i forvaltningen ellers,
-bør det utvilsomt gjelde visse begrensninger i
-påtalemyndighetens adgang til å endre påtalevedtak til skade for den som avgjørelsen retter seg
-mot. Det er i første rekke innrettelseshensyn som
-taler for dette, og slik utvalget vurderer det, bør
-hovedtrekkene i dagens omgjøringsregler videreføres i ny lov.
-Utvalget går imidlertid inn for å fjerne
-sondringen mellom mistenkte og siktede, jf. punkt
-9.2. Slik utvalget ser det, er det ikke behov for
-regler som på annet vis begrenser persongruppen
-som skal nyte godt av begrensningene i omgjøringsadgangen. Omgjøringsvernet bør være det
-samme for alle som har vært utsatt for forfølgning. Dette vil gi en enkel regulering, som ikke
-lett medfører utilsiktede og urimelige utslag. Innrettelseshensyn gjør seg dessuten i utgangspunktet gjeldende for alle som har vært utsatt for straffeforfølgning, og som er underrettet om at saken
-har fått et bestemt utfall. Belastningen som forfølgningen har medført for mistenkte forut for
-henleggelse, har mindre betydning.
-I tråd med prinsippet i forvaltningsloven § 35
-første ledd bokstav b foreslås det imidlertid at
-omgjøringsvernet ikke skal komme til anvendelse
-når mistenkte ikke er kjent med avgjørelsen det er
-spørsmål om å omgjøre. I slike tilfeller gjør ikke
-innrettelseshensyn seg gjeldende, og hensynet til
-å kunne treffe riktig avgjørelse bør bli utslagsgivende.
-
-16.8 Særlig om straffetilsagn
-(plea bargaining)
-16.8.1 Oversikt
-Etter mandatet skal utvalget vurdere ulike tiltak
-for å øke antallet tilståelsessaker og i denne forbindelse særskilt vurdere om det er grunnlag for
-å innføre en ordning med tilsagn om strafferabatt
-ved tilståelse, såkalt plea bargaining.
-Plea bargaining omfatter etter tradisjonell forståelse mer enn «tilsagn om strafferabatt ved tilståelse», som er det som er nevnt i mandatet.
-Uttrykket refererer til forhandlinger og avtaler,
-normalt mellom påtalemyndigheten og mistenkte,
-der mistenkte tilgodeses med lavere straff, mildere subsumsjon eller unnlatt straffeforfølgning
-mot at vedkommende tilstår egne lovbrudd eller
-bidrar til oppklaring av straffbare forhold begått
-av andre. Problemfeltet omhandler blant annet
-hvorvidt partene bør kunne sette rammer for
-domstolenes avgjørelser.
-
-Kapittel 16
-
-Spørsmålet om hvilken plass plea bargaining i
-videre forstand har eller bør ha i norsk straffeprosess, har vært gjenstand for diskusjoner i Norge
-gjennom flere år. Det har vært ansett uklart i hvilken utstrekning påtalemyndigheten etter gjeldende rett har anledning til å forhandle med mistenkte om skyld- og straffespørsmål.24 Videre har
-både politiske myndigheter og Høyesterett tatt til
-orde for at spørsmålet om å innføre plea bargaining utredes på et prinsipielt grunnlag.25
-Utvalget er bedt om å foreta en helhetlig vurdering av den norske straffeprosessordningen, og det
-anses derfor naturlig at utredningen ikke begrenses til utelukkende å drøfte spørsmålet om innføring av regler om straffetilsagn, men at den også
-tar for seg plea bargaining-ordninger mer generelt.
-
-16.8.2 Gjeldende rett
-16.8.2.1
-
-Bakgrunn
-
-Ordninger med plea bargaining har sin opprinnelse i USA og enkelte andre rettssystemer som
-bygger på common law-tradisjonen, der tiltaltes
-plea – standpunkt til spørsmålet om straffskyld –
-normalt er avgjørende for om saken undergis
-jurybehandling eller ikke. Dersom tiltalte avgir en
-gyldig plea of guilty, anses skyldspørsmålet normalt som avklart, og retten kan gå direkte over til
-straffutmålingen, som regel uten deltakelse av
-lekdommere. Under denne ordningen har det
-særlig i USA utviklet seg et institutt der påtalemyndigheten og mistenkte, eventuelt med bistand
-av domstolen, i en viss utstrekning kan forhandle
-seg frem til en guilty plea – derav plea bargaining.
-Forhandlingene kan som nevnt innledningsvis gå ut på at mistenkte forespeiles en mildere
-straff (sentence bargaining), eventuelt en mildere
-subsumsjon eller unnlatelse av forfølgning for
-enkelte forhold (charge bargaining). Særlig i USA
-er det i forlengelsen av plea bargaining-instituttet
-etablert en såkalt kronvitneordning, som innebærer at påtalemyndigheten også kan gå med på
-en lavere straffepåstand eller en mer fordelaktig
-tiltale dersom mistenkte gir opplysninger om
-straffbare forhold begått av andre.26
-I norsk rett er den tradisjonelle oppfatningen
-at forhandlinger og avtaler mellom påtalemyndigheten og mistenkte vedrørende strafferettslige
-eller -prosessuelle konsekvenser av at vedkom24
-25
-26
-
-Jf. punkt 16.8.2 nedenfor.
-Jf. Ot.prp. nr. 64 (1998–99) kap. 17.3, Innst. O. nr. 3 (1999–
-2000) kap. 15 og Rt. 1995 s. 1922.
-Andenæs og Myhrer (2009) s. 203.
-
-[Side 366]
-
-364
-
-NOU 2016: 24
-
-Kapittel 16
-
-Ny straffeprosesslov
-
-«Med hensyn til det straffebud som skal anvendes på forholdet, er retten ikke bundet av tiltalen eller de påstander som er fremsatt. Det
-samme gjelder med hensyn til straff og andre
-rettsfølger.»
-
-mende tilstår eller på annen måte samarbeider
-med politiet, går på akkord med grunnleggende
-prinsipper i straffeprosessen.27
-16.8.2.2
-
-Tilsagn om straffepåstand
-
-Etter gjeldende rett vil det ha betydning for straffutmålingen dersom siktede tilstår eller bidrar til å
-oppklare lovbrudd begått av andre, jf. straffeloven
-§ 78 bokstav f:
-«Ved straffutmålingen skal det i formildende
-retning især tas i betraktning at […] lovbryteren har avgitt en uforbeholden tilståelse, eller i
-vesentlig grad bidratt til oppklaring av andre
-lovbrudd […].»
-
-I Rt. 2007 s. 616 (dissens 3–2) fremholdt likevel
-flertallet at en straffepåstand som er fremsatt etter
-avtale mellom påtalemyndigheten og mistenkte,
-bør tillegges en viss selvstendig betydning ved
-straffutmålingen:
-«Gode grunner kan etter omstendighetene tale
-for at påtalemyndigheten inngår denne type
-avtaler for på den måten å begrense rettsforhandlingen. Dette gjelder spesielt i store, kompliserte saker med mange aktører, slik forholdene har vært i dette tilfelle, der påtalemyndigheten ofte vil ha den beste oversikt over
-hvilken betydning en tilståelse vil ha for avviklingen av saken. Skal formålet kunne oppnås,
-må det være en viss forutberegnlighet med
-hensyn til hvilket gjennomslag påtalemyndigheten vil kunne regne med å få i domstolen.
-Dette tilsier at domstolen må være villig til å tillegge slike tilsagn en viss selvstendig betydning, selv om de ikke gis rekkevidde som i det
-lovforslag som er presentert i Justisdepartementets høringsnotat av september 2006 om
-hurtigere behandling av straffesaker. Forutsetningen er selvfølgelig at påtalemyndigheten
-ved inngåelse av slike avtaler opptrer lojalt i forhold til de retningslinjer for strafferabatt som
-er trukket opp i Høyesteretts praksis.»29
-
-I praksis har det forekommet avtaler mellom
-påtalemyndigheten og mistenkte der påtalemyndigheten forplikter seg til å nedlegge en bestemt
-staffepåstand for domstolene, under forutsetning
-av at vedkommende tilstår. Denne praksis synes
-akseptert av Høyesterett, jf. Rt. 2005 s. 1453 og
-Rt. 2007 s. 616, jf. også riksadvokatens rundskriv
-3/2007:
-«Riksadvokaten legger etter disse avgjørelsene
-til grunn at det ikke knytter seg betenkeligheter til at påtalemyndigheten avgir forhåndstilsagn om straffepåstand, jf. ovenfor. Som fremholdt av Høyesterett, kan siktede ofte ha behov
-for en slik avklaring på forhånd. Også i forarbeidene til den nye straffeloven oppfordres
-påtalemyndigheten til å gi informasjon på et tidlig tidspunkt.»28
-Det kan også vises til Rt. 2009 s. 1336 (avsnitt 12):
-«I norsk rett er det ingen lovregulering av avtaler mellom påtalemyndigheten og den siktete
-om straffepåstanden. Høyesterett har i to
-avgjørelser om slike avtaler – Rt. 2005 s. 1453
-og Rt. 2007 s. 616 – ikke reist spørsmål ved
-adgangen til å inngå avtalene. Det er heller
-ikke spørsmålet i vår sak; det Høyesterett nå
-skal ta stilling til, er om, og i tilfelle i hvilken
-grad, avtalene skal få betydning for domstolenes straffutmåling.»
-
-I storkammeravgjørelsen i Rt. 2009 s. 1336 ble
-imidlertid dette standpunktet tilbakevist, idet
-Høyesterett enstemmig sluttet seg til følgende
-uttalelse fra mindretallet i 2007-avgjørelsen:
-«Det finnes imidlertid ingen holdepunkter for
-at lovgiverne ved [bestemmelsen i § 59 annet
-ledd] tok sikte på å åpne for ‘plea bargaining’,
-slik at det skal gis større strafferabatt for tilståelser som blir avgitt som ledd i avtale med påtalemyndigheten, enn for tilståelser som siktede
-avgir uten at det skjer som ledd i en slik avtale.
-Etter min mening vil en slik ordning både være
-prinsipielt betenkelig og virke sterkt urimelig.
-Det er vanskelig å forstå hvorfor den som ikke
-tilstår straks, men først tilstår etter forhandlinger med påtalemyndigheten om hvilken
-straffepåstand som skal nedlegges, skal
-
-Samtidig er det klart at domstolene ikke er bundet
-av påtalemyndighetens straffepåstand, jf. straffeprosessloven § 38 annet ledd annet punktum:
-27
-28
-
-Andenæs og Myhrer (2009) s. 78, 203–204 og 437.
-Riksadvokaten (3/2007), punkt 9.1.
-
-29
-
-Rt. 2007 s. 616 (avsnitt 29).
-
-[Side 367]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-komme bedre ut enn den som – uten noe løfte
-om redusert straffepåstand – tilstår på et tidlig
-stadium av etterforskningen. Som påpekt i
-Ot.prp.nr.81 (1999–2000), punkt 6.3.2, bør det
-tvert imot gis større strafferabatt for en ‘uforbeholden tilståelse som kommer uoppfordret i
-første politiavhør’ enn for en tilståelse som
-‘først foreligger under hovedforhandlingen
-etter at tiltalte innser at bevismaterialet mot
-ham er overveldende’, idet den prosessøkonomiske gevinst er større og belastningen på fornærmede mindre i det førstnevnte tilfellet enn
-i det sistnevnte. I tillegg kommer at en ordning
-hvor påtalemyndigheten skal kunne tilby redusert straff som ‘vederlag’ for en uforbeholden
-tilståelse, vil innebære en fare for forskjellsbehandling og favorisering av ressurssterke siktede og vil kunne fungere som et uheldig pressmiddel overfor en siktet som faktisk er uskyldig, men som er redd for ikke å bli trodd. For
-meg fremstår en rettstilstand hvor tiltaltes
-rettsstilling skal være avhengig av aktors forhandlingsvilje og forsvarerens forhandlingsdyktighet, som svært uheldig.»30
-Rettstilstanden er etter dette at påtalemyndigheten overfor mistenkte kan forplikte seg til å nedlegge en bestemt straffepåstand, men at det ved
-domstolenes straffutmåling ikke har selvstendig
-betydning at påstanden er fremsatt som ledd i en
-slik avtale.31
-16.8.2.3
-
-Tilsagn vedrørende påtalespørsmålet
-
-Utover det som er sagt om straffetilsagn, er det
-som et klart utgangspunkt ikke adgang for påtalemyndigheten til å forhandle eller inngå avtale med
-mistenkte om påtaleavgjørelser. Dette følger av de
-rettslige rammer for påtalemyndighetens avgjørelser, særlig likebehandlings- og objektivitetsplikten. Det er i hovedsak andre kriterier enn tilståelse eller øvrig samarbeid med politiet som skal
-være styrende for påtalemyndighetens vedtak.
-Det er således for eksempel antatt at det ikke
-er adgang for påtalemyndigheten til å henlegge
-eller nedsubsumere et straffbart forhold som
-vederlag for tilståelse eller vedtakelse av forelegg
-for andre forhold.32 Vurderingstemaet for slike
-avgjørelser ligger hovedsakelig på en annen kant
-– det er bevissituasjonen og den korrekte strafferettslige subsumsjon som skal være avgjørende.
-
-Men selv om utgangspunktene synes relativt
-klare, kan det oppstå enkelte grensespørsmål.
-Bjerke, Keiserud og Sæther uttaler om dette:
-«En unnlatelse av å forfølge forhold som anses
-som bevismessig sikre, for å oppnå en tilståelse
-om andre forhold, vil normalt ikke kunne skje
-etter norsk rett. For øvrig synes rettstilstanden
-som nevnt å være uklar.»33
-I visse tilfeller kan en tilståelse være et selvstendig
-argument for en mildere reaksjon. Etter straffeloven § 80 første ledd bokstav a nr. 2 kan straffen
-settes til en mildere straffart når lovbryteren har
-avgitt en uforbeholden tilståelse. Bestemmelsen
-retter seg både til domstolene og til påtalemyndigheten.34 Regelen innebærer blant annet at påtalemyndigheten etter omstendighetene kan utferdige
-et forelegg i stedet for tiltale, eller gi påtaleunnlatelse i stedet for å fremme saken for retten, dersom
-mistenkte avgir en uforbeholden tilståelse.35 Informasjon til mistenkte om hvilke avgjørelsesalternativer som kan være aktuelle etter denne regelen, er
-neppe særlig problematisk.
-Særlig i store og kompliserte økonomiske
-straffesaker forekommer det i praksis at påtalemyndigheten, mistenkte og forsvarer diskuterer
-ulike alternative avgjørelsesmuligheter, som
-avhenger av i hvilken utstrekning mistenkte tilstår
-eller medvirker til forenklet behandling ved vedtakelse av forelegg. Et kjent eksempel er Rt. 1995
-s. 1922, der Økokrim hadde tilbudt å avgjøre
-saken ved forelegg mot de involverte selskapene,
-uten tiltale mot selskapenes ledere, under forutsetning av at samtlige selskaper vedtok sine
-respektive forelegg. Tilbudet ble avslått, og det
-ble reist straffesak mot både selskapene og
-lederne. Om Økokrims fremgangsmåte uttalte
-Høyesterett følgende:
-«De problemer som er reist i forsvarernes
-anførsel, ville ha knyttet seg til foreleggene
-dersom disse var blitt vedtatt av selskapene. I
-forbindelse med forelegg kan nok et slikt
-utspill som Økokrim gjorde, etter omstendighetene ha betenkelige sider. Størst betenkelighet knytter det seg til at selskapenes administrerende direktører kunne bli påvirket til å gå
-inn for at selskapene skulle vedta sine forelegg
-for at de selv skulle slippe unna strafforfølgning, og til at styrene i selskapene kunne
-
-30
-
-33
-
-31
-
-34
-
-Rt. 2009 s. 1336 (avsnitt 20), jf. Rt. 2007 s. 616 (avsnitt 36).
-Rt. 2009 s. 1336 (avsnitt 28).
-32
-Jf. riksadvokaten (3/2007) punkt 2.
-
-365
-
-Kapittel 16
-
-35
-
-Bjerke, Keiserud og Sæther (2011) s. 298.
-Ot.prp. nr. 90 (2003–2004) s. 470.
-Jf. riksadvokatens (3/2007) punkt 2.
-
-[Side 368]
-
-366
-
-NOU 2016: 24
-
-Kapittel 16
-
-Ny straffeprosesslov
-
-komme i en vanskelig valgsituasjon. På den
-annen side er det nødvendig at påtalemyndigheten kan gi informasjon om de alternativer til
-vedtakelse av forelegg som er aktuelle. Når det
-spesielt gjelder det forhold at et forelegg gjøres
-mer begrenset enn en eventuell tiltale, peker
-jeg på at prosessøkonomiske hensyn taler for
-at straffesaker som den foreliggende må kunne
-søkes avgjort ved forelegg slik at sakene kan
-bli behandlet med rimelig bruk av tid og ressurser. De nærmere grenser for påtalemyndighetens og eventuelt forsvarerens adgang til å
-kunne diskutere innholdet av et forelegg opp
-mot en alternativ tiltale, fortjener overveielse
-på prinsipielt grunnlag.»36
-Et selvsagt utgangspunkt må uansett være at påtalemyndighetens avgjørelser – de alternativer som
-forespeiles – må bygge på et forsvarlig skjønn ut
-fra de hensyn som er relevante etter de ulike kompetansegrunnlag. Samtidig vil avgjørelsen av om
-og eventuelt hvor langt en sak skal etterforskes,
-og hvordan påtalespørsmålet skal avgjøres, ofte
-være preget av skjønnsmessige vurderinger, der
-påtalemyndigheten også må ta hensyn til prosessøkonomi og kapasitet. Hvor langt påtalemyndigheten innenfor disse rammer kan gå i å vektlegge
-at mistenkte forenkler behandlingen ved tilståelse
-eller vedtakelse av forelegg, gjenstår imidlertid
-som et til dels uavklart spørsmål.
-16.8.2.4
-
-Forbudet mot bruk av løfter
-
-I straffeprosessloven § 92 annet ledd første punktum, som også gjelder ved politiavhør,37 heter det:
-«Løfter, uriktige opplysninger, trusler eller tvang
-må ikke brukes.» Formålet med bestemmelsen er
-å hindre at mistenkte blir utsatt for utilbørlig
-press eller fristelse til å inkriminere seg selv eller
-andre.38
-Bestemmelsen må antas å kunne ha selvstendig betydning for påtalemyndighetens adgang til å
-inngå avtaler med mistenkte, ettersom slike avtaler ofte vil forutsette bruk av løfter. Det er imidlertid ikke opplagt at løfteforbudet rammer alle typer
-tilsagn fra påtalemyndigheten, og det må antakelig legges til grunn at løftebegrepet er noe snevrere enn ordlyden tilsier, slik at det må leses inn et
-utilbørlighetsvilkår.
-
-Påtalemyndigheten kan formentlig som
-utgangspunkt gi tilsagn om straffepåstand og
-avgjørelse ved forelegg, uten at det rammes av løfteforbudet.39 Tilsagn om henleggelse av enkelte
-poster i siktelsen mot at mistenkte tilstår én eller
-flere av de øvrige postene, er imidlertid antatt å
-være i strid med forbudet.40 Uttalelsene i Rt. 1994
-s. 1139 (obiter dictum) gir en viss støtte for dette:
-«Det vil være i strid med straffeprosessloven
-§ 92 annet ledd dersom den som avhøres av
-politiet får et løfte om at det ikke vil bli reagert
-strafferettslig overfor han for forhold han forklarer seg om i avhøret.»
-Påtaleinstruksen § 8-2 tredje ledd annet punktum
-inneholder i så måte en klargjøring og mulig utvidelse av lovens løfteforbud, idet også forespeilinger om henleggelse rammes:
-«Under avhøret må det ikke forespeiles mistenkte at siktelsens omfang kan påregnes redusert dersom han tilstår eller gir andre viktig
-opplysninger.»
-Hvorvidt løfteforbudet er krenket, vil neppe
-avhenge av om man står overfor et tilsagn eller tilbud som rent språklig må anses som et «løfte».
-Antakelig vil det ha stor betydning om det er saklig grunnlag for tilsagnet, og ikke minst om tilsagnet og situasjonen ellers medfører at mistenkte
-blir utsatt for utilbørlig press.41
-16.8.2.5
-
-Straffeprosessuelle kronvitneordninger åpner for
-straffrihet begrunnet i at mistenkte bidrar med
-opplysninger om straffbare forhold begått av
-andre. I norsk rett eksisterer det ikke noe slikt
-grunnlag for straffrihet, men det at tiltalte har
-bidratt til å oppklare lovbrudd begått av andre,
-kan være et formildende moment ved straffutmålingen.42
-Selv om Norge ikke har noen kronvitneordning, finnes det eksempler på at det har vært gitt
-påtaleunnlatelse til mistenkte for å utløse vitneplikt mot medsammensvorne. Andenæs og
-Myhrer uttaler om dette:
-39
-40
-
-36
-
-Rt. 1995 s. 1922 på s. 1924–1925.
-37
-Jf. straffeprosessloven § 232 annet ledd annet punktum.
-38
-Øyen (2010) s. 209 med videre henvisninger.
-
-Særlig om kronvitneordninger mv.
-
-41
-42
-
-Jf. Rt. 1995 s. 1922, Rt. 2005 s. 1453 og Rt. 2007 s. 616, Rt.
-2009 s. 1336 og Øyen (2010) s. 212 flg.
-Øyen (2010) s. 210.
-Se nærmere Øyen (2010) s. 208 flg.
-Jf. straffeloven § 78 bokstav f annet alternativ og Ot.prp. nr.
-8 (2007–2008) s. 276.
+Fornærmede har ikke tilsvarende rettigheter, jf. straffeprosessloven § 107 c annet ledd siste punktum, som forutsetningsvis bare gjelder anmodning til påtalemyndigheten.[^939] Etter begjæring fra fornærmede kan retten imidlertid oppnevne sakkyndig for å utrede helseskader av betydning for sivile krav, jf. § 237 annet ledd.
+
+Utgangspunktet om at retten er bundet av rammene for påtalemyndighetens begjæringer, gjelder også for begjæringer om tvangsmiddelbruk.[^940] Ved begjæringer om fengsling har retten en viss adgang til å gå utenfor de fengslingsgrunnlag som er påberopt av påtalemyndigheten, jf. blant annet Rt. 1997 s. 127 med videre henvisninger. Et fengslingsgrunnlag som påtalemyndigheten uttrykkelig har frafalt, er retten likevel formentlig avskåret fra å bygge på, se Rt. 1999 s. 701 (som riktignok ikke tar endelig stilling til spørsmålet).
+
+1.  *Utvalgets vurderinger og forslag*
+
+Utvalget har vurdert hvordan forholdet bør være mellom partene og retten på etterforskingsstadiet, se også punkt 14.2.2. Det er klart at retten også på dette stadium bør ha et ansvar for å sikre at den har et forsvarlig grunnlag for å ta stilling til de begjæringer som fremsettes av partene, se punkt 13.2.5.2. Spørsmålet er om retten av eget tiltak bør kunne ta initiativ utover dette.
+
+For at domstolene ikke bør være helt avskåret fra å ta initiativ til etterforskingsskritt, taler hensynet til å sikre bevis som ellers står i fare for å gå tapt. Også praktiske grunner kan tilsi at det er hensiktsmessig om retten gis adgang til å treffe beslutninger om etterforskingsskritt, for eksempel for å unngå senere utsettelse av hovedforhandlingen.[^941]
+
+Mot at domstolene av eget tiltak bidrar til å opplyse saken på etterforskingsstadiet utover det som er nødvendig for å ta stilling til begjæringer fra partene, taler særlig at det vil gi prosessen et inkvisitorisk preg. Det vil være uheldig dersom retten bidrar til å opplyse saken til mistenktes ugunst, fordi det vil svekke oppfatningen av domstolene som et uavhengig organ.
+
+Det er påtalemyndigheten som har kontroll over etterforskingsapparatet, og som ut fra sin posisjon og kompetanse er best skikket til å vurdere hvilke etterforskingsskritt det er behov for. Påtalemyndigheten er dermed også nærmest til å vurdere de ressursmessige sidene av saken, herunder hva som bør prioriteres. Dette bør suppleres med muligheter for initiativ fra mistenkte og forsvareren, ved at det kan fremsettes begjæring om etterforskingsskritt overfor påtalemyndigheten, og ved at begjæringen kan bringes inn for retten dersom påtalemyndigheten ikke tar den til følge, se utkastet § 13-7.
+
+Utvalget slutter seg til overveielsene sitert fra Straffeprosesslovkomitéen i punkt 17.6.3.1. Hovedregelen etter gjeldende lov bør videreføres og rendyrkes, slik at retten på etterforskingsstadiet ikke skal gjøre annet eller mer enn den blir bedt om. I punkt 13.6.3.5 er det klargjort at dette også må gjelde for oppnevning av nye sakkyndige, slik at rettstilstanden i Rt. 2012 s. 268 ikke videreføres.
+
+Videre mener utvalget ut fra de samme betraktninger at retten heller ikke bør kunne bygge en avgjørelse om fengsling på et fengslingsgrunnlag som ikke er påberopt av påtalemyndigheten. Det kan hevdes at påtalemyndighetens begjæring må antas å hvile på en forutsetning om at det ønskes fengsling uaktet fengslingsgrunn. Dette må retten kunne forhøre seg om. Spenningen som skal unngås, oppstår dersom retten selv tar initiativ til å undersøke om det finnes forhold utenfor påtalemyndighetens anførsler som kan gi grunnlag for å ta begjæringen til følge.
+
+Utkastet § 32-3 første ledd første og annet punktum bestemmer således: «Retten kan bare avgjøre krav som er reist av partene, jf. § 5-1 første ledd. Avgjørelsen må ligge innenfor rammen av partenes påstander.» Videre heter det i annet ledd første punktum: «Til skade for mistenkte kan retten bare bygge på et faktisk grunnlag som er påberopt.»
+
+Straffeprosessloven § 247 om adgangen for retten til i særlige tilfeller å overta ledelsen av etterforskingen etter anmodning fra påtalemyndigheten foreslås ikke videreført, se punkt 14.2.2.
+
+1.  **Forholdet mellom tiltalebeslutning og dom**
+
+    1.  *Gjeldende rett*
+
+Tiltalebeslutningen peker ut det aktuelle ansvarssubjekt, og anklageprinsippet har som selvsagt konsekvens at domstolen bare kan dømme *personer* påtalemyndigheten har reist sak mot. Tiltalebeslutningen trekker samtidig opp rammene for *saksforholdet* som skal behandles – det straffbare forholdets identitet. Straffeprosessloven § 38 første ledd første punktum lyder:
+
+«Retten kan ikke gå utenfor det forhold tiltalen gjelder, men er ubundet av den nærmere beskrivelse med hensyn til tid, sted og andre omstendigheter.»
+
+Det er uten videre klart at retten har adgang til å pådømme saken selv om den finner bevist noe avvikende detaljer knyttet til det hendelsesforløp som er beskrevet i tiltalen, for eksempel at et skudd i en drapssak ble avfyrt kl. 17 og ikke kl. 17.30, at et overfall fant sted på vestsiden og ikke østsiden av et torg, at et innbrudd ble begått ved hjelp av et spett og ikke et brekkjern, eller at tiltalte slo fornærmede med flat og ikke knyttet hånd.
+
+Til tider oppstår vanskelige grensespørsmål om hvor store avvik som må til før det forhold som anses bevist, skal anses som et annet enn det tiltalen gjelder. Det henger sammen med at det ut fra begrunnelsen for begrensningen etter § 38 første ledd første punktum kan være utfordrende å avklare kriteriene for hva som skal anses likt og ulikt. Enkelte typesituasjoner har imidlertid fått sin avklaring gjennom rettspraksis.
+
+For eksempel er bestemmelsen til hinder for at det domfelles for et faktum som avviker fra tiltalen på en slik måte at retten bygger på faktiske omstendigheter som *i tid ligger etter* det tidsrom som er relevant etter det straffebud tiltalen gjelder. Et klassisk eksempel er at det ikke kan domfelles for heleri hvis tiltalen gjelder tyveri.
+
+Men der tiltalen gjelder et sammenhengende straffbart forhold, det vil si der en straffbar virksomhet – for eksempel narkotikaimport eller overgrep i familieforhold – pågår over tid, står retten relativt fritt til å domfelle for faktiske omstendigheter og enkeltepisoder som ikke er omhandlet i tiltalen.
+
+Avgrensningen av det straffbare forhold saken gjelder, følger først og fremst av angivelsen av det faktiske grunnlaget for tiltalen, og *retten kan som et utgangspunkt domfelle for et annet straffebud* enn det som er angitt i tiltalen, jf. straffeprosessloven § 38 annet ledd første punktum:
+
+«Med hensyn til det straffebud som skal anvendes på forholdet, er retten ikke bundet av tiltalen eller de påstander som er fremsatt.»
+
+Retten står fritt til å gjøre bruk av en strengere bestemmelse, og dette gjelder selv om det innebærer å ta stilling til faktiske omstendigheter som ikke er relevante etter vilkårene i det straffebud tiltalen gjelder. For eksempel kan retten avsi dom for kroppsskade selv om tiltalen gjelder kroppskrenkelse.
+
+Domstolene skal likevel vise en viss tilbakeholdenhet med av eget tiltak å undersøke om det kan være grunnlag for skjerpet subsumsjon, jf. straffeprosessloven § 38 første ledd annet punktum:
+
+«Bare når den finner særlig grunn til det, prøver retten om det foreligger omstendigheter som ville bringe forholdet inn under en strengere straffebestemmelse enn etter tiltalen.»
+
+Bestemmelsen er imidlertid ingen skranke for at retten endrer subsumsjonen i skjerpende retning når den etter bevisføringen finner grunnlag for dette. Tvert om vil retten innenfor rammen av § 38 ha en plikt til å subsumere forholdet slik retten etter bevisføringen finner det riktigst.[^942]
+
+Domstolens subsumsjonsfrihet har imidlertid sin grense, som i forarbeidene er beskrevet slik: «Betingelsen for å gå utenfor tiltalebeslutningen er i alle tilfelle at det fortsatt er tale om det samme forhold som tiltalen gjelder.» I forlengelsen av dette heter det at «det lar seg ikke gjøre i en lovtekst uttømmende å regulere spørsmålet om forholdets identitet». Etter forarbeidene er det overlatt til andre rettskilder å klargjøre dette.[^943]
+
+Det sentrale prejudikat er Rt. 1980 s. 360, der Høyesterett kom til at det ikke var adgang til å domfelle for uaktsomt drap etter straffeloven 1902 § 239 i en sak om trafikkuhell med dødsfølge der det kun var reist tiltale etter grunnregelen i vegtrafikkloven § 3 om hensynsfull og aktpågivende ferdsel i trafikken. Ved avgjørelsen la Høyesterett særlig vekt på at de to bestemmelsene *verner forskjellige interesser* og således har ulike strafferettslige siktemål.
+
+I senere rettspraksis er den såkalte interesselæren videreutviklet, og i tillegg til hvilke interesser de aktuelle straffebestemmelsene verner, må det foretas en helhetsvurdering, jf. blant annet Rt. 2011 s. 172 avsnitt 19:
+
+«For at retten skal kunne dømme etter en annen straffebestemmelse enn den som er angitt i tiltalen, må det \[…\] stilles krav om at bestemmelsen ikke har en vesentlig annen rettslig karakter enn den bestemmelse som er angitt i tiltalen. Sentrale momenter ved denne vurderingen er om straffebudene tar sikte på å beskytte vesensforskjellige interesser, de grunnleggende trekk ved gjerningsbeskrivelsene og om det er stor forskjell på strafferammene, jf. blant annet Rt. 2006 s. 279.»
+
+1.  *Utvalgets vurderinger og forslag*
+
+Utvalget mener det er grunn til å stille spørsmål ved om gjeldende identitetslære etter straffeprosessloven § 38 på en tilfredsstillende måte ivaretar hensynene som ligger til grunn for anklageprinsippet, se punkt 17.6.2 om utvalgets generelle betraktninger om anklageprinsippet i ny straffeprosesslov.
+
+Avgjørelsen av hva som etter gjeldende rett er «samme forhold» i faktisk og rettslig henseende, kan ofte være tvilsom, og kriteriene for avgjørelsen kan gi tilfeldige utslag. Dette gjelder særlig for spørsmål om subsumsjonsendring. Samlet sett står retten i realiteten så fritt etter straffeprosessloven § 38 at det kan hevdes at anklageprinsippet bare delvis er gjennomført.
+
+Noen eksempler fra rettspraksis kan tjene til illustrasjon: Etter Høyesteretts beslutning 12. februar 2015 må det legges til grunn at § 38 ikke står i veien for at retten kan dømme for ran når tiltalen gjelder grovt tyveri.[^944] Rt. 2002 s.1451 synes å bygge på at retten kan endre subsumsjonen fra kroppsskade til drapsforsøk. At retten kan endre subsumsjonen fra voldtekt til legemsfornærmelse, er lagt til grunn i Rt. 2011 s. 172 (avsnitt 20) og Rt. 2012 s. 1857 (avsnitt 21).
+
+Straffeprosessloven § 38 er ikke til hinder for at retten kan trekke inn faktiske elementer i saken som påtalemyndigheten bevisst eller ubevisst har holdt utenfor. Eksemplene viser også at selv om det alternative straffebudet helt eller delvis verner samme interesser som straffebudet i tiltalen, kan det være tale om temmelig ulikeartede virkelighetsfenomener. Retten kan endre subsumsjonen på en slik måte at det kan stilles spørsmål om hvorvidt påtalemyndigheten ville ha forfulgt forholdet dersom den på forhånd var kjent med rettens standpunkt. Endring fra voldtekt til legemsfornærmelse kan tjene som eksempel, og også nedsubsumering kan slik sett være problematisk ut fra de hensyn anklageprinsippet og opportunitetsprinsippet bygger på.
+
+Etter utvalgets syn er det beste mål for hva påtalemyndigheten ønsker pådømt, tiltalens angivelse av det faktiske forhold sammen med den rettslige karakteristikken. Det et dette som angir og definerer den straffbare handlingen som forfølges. Også interesselæren, som det er redegjort for i punkt 17.6.4.1, bygger på det syn at påtalemyndighetens subsumsjon skal ha betydning for hvor fritt retten står med hensyn til rettsanvendelsen. Regelen som bygger på interesselæren, er imidlertid relativt uklar og etter utvalgets syn lite prinsipiell. Et enstemmig utvalg mener det er behov for tydeligere å markere betydningen av den rettslige karakteristikken. Utvalget har imidlertid delt seg i et flertall og et mindretall med hensyn til hvordan dette bør løses.
+
+Utvalgets *flertall* mener spørsmålet om subsumsjonsendring i prinsippet bør være underlagt påtalemyndighetens rådighet. I tråd med de hensyn anklageprinsippet og opportunitetsprinsippet bygger på, bør det fullt ut overlates påtalemyndigheten å vurdere og bestemme hvilke lovbrudd det er i det offentliges interesse å forfølge. Som en konsekvens av dette bør regelen være at retten kan endre subsumsjonen, men bare så lenge påtalemyndigheten ikke motsetter seg det.
+
+Flertallet ser få betenkeligheter ved en slik løsning. Som nevnt ovenfor gjelder det også i dag grenser for rettens subsumsjonsfrihet som følge av påtalemyndighetens disposisjoner, og prinsippet blir det samme, selv om påtalemyndigheten ut fra forslaget får større rådighet over spørsmålet om hvilken straffebestemmelse som kan anvendes.
+
+Forslaget endrer ikke prinsippet om at retten har selvstendig ansvar for rettsanvendelsen, jf. utkastet § 32-5. Innenfor subsumsjonen etter tiltalen og eventuelle subsumsjonsendringer som godtas av påtalemyndigheten, skal retten ha selvstendig ansvar for fortolkningen av de aktuelle straffebud. Dersom påtalemyndigheten motsetter seg subsumsjonsendring, må imidlertid retten avgjøre saken ut fra den straffebestemmelse tiltalen bygger på, herunder eventuelt frifinne tiltalte selv om retten mener vedkommende kunne vært domfelt etter et annet straffebud.
+
+Etter flertallets vurdering er det ingen grunn til å frykte at forslaget i praksis vil utgjøre et hinder for at feil domstolen oppdager, rettes opp. Spørsmålet om subsumsjonsendring må uansett tas opp med partene under hovedforhandlingen, og påtalemyndigheten vil i praksis normalt ikke ha noen grunn til å motsette seg anvendelse av et annet straffebud enn det tiltalen bygger på. Men skulle spørsmålet komme på spissen, bør påtalemyndigheten etter flertallets syn av prinsipielle grunner ha det avgjørende ord.
+
+Etter flertallets syn taler ikke rettskraftreglene mot at påtalemyndigheten gis en slik rådighet over subsumsjonsspørsmålet som foreslått. Reglene om negativ materiell rettskraft innebærer at det ikke kan reises ny straffesak om et straffbart forhold som er rettskraftig avgjort ved en tidligere dom. Det vises til punkt 17.8.2.6, der det også fremgår at avgrensingen av den negative materielle rettskraft må skje ut fra en vurdering av om forfølgningene angår samme faktiske handling. Etter at en dom er rettskraftig, vil det dermed være utelukket å reise ny tiltale om samme faktiske forhold med påstand om anvendelse av et annet straffebud. Slik er det også etter gjeldende rett. Hensynet til å unngå uønskede utslag av reglene om negativ materiell rettskraft er tilstrekkelig ivaretatt ved at dommens sperrende virkning er noe påtalemyndigheten må ta i betraktning når den vurderer om det er grunn til å motsette seg endringer i subsumsjonen.
+
+I tillegg til at prinsipielle hensyn ivaretas, er det etter flertallets oppfatning en betydelig fordel ved den reguleringen som foreslås, at den blir enkel å anvende i praksis. Interesselæren, og de uklarheter og vanskelige grensespørsmål som følger med denne, kan forlates – slik flertallet ser det – uten omkostninger.
+
+I tråd med flertallets forslag heter det i utkastet § 32-3 første ledd tredje punktum: «Retten kan \[…\] dømme for overtredelse av et annet straffebud enn etter tiltalen når påtalemyndigheten ikke motsetter seg det.» For så vidt gjelder rettens forhold til tiltalens angivelse av det faktiske forhold, heter det i samme bestemmelse annet ledd annet punktum: «Ved avgjørelsen av skyldspørsmålet kan retten ikke gå utenfor det forhold som er beskrevet i tiltalen, men den er ikke bundet av tiltalens nærmere angivelse av tid, sted og andre omstendigheter.»
+
+Utvalgets *mindretall,* medlemmene Jahre, Kvisberg, Langbach og Groth, kan ikke slutte seg til forslaget om at retten, innenfor det forhold som er beskrevet i tiltalen, bare kan endre subsumsjonen hvis påtalemyndigheten ikke motsetter seg det. Etter mindretallets syn trekkes anklageprinsippet her for langt på bekostning av prinsippet om at retten har ansvaret for rettsanvendelsen, sml. utkastet § 32-5, tvisteloven § 11-3 og gjeldende straffeprosesslov § 38.
+
+Mindretallet ser det slik at retten, på samme måte som i dag, må stå fritt til å anvende loven på det forholdet tiltalen gjelder. Sakens ramme bør fortsatt være det forhold påtalemyndigheten har brakt inn for retten til pådømmelse, jf. utkastet § 32-3 annet ledd annet punktum. Mindretallet mener imidlertid uttrykket «samme forhold» med fordel kan avgrenses snevrere enn i dag, slik at det avgjørende er tiltalens beskrivelse av det faktiske forhold sammen med den rettslige karakteristikken. Som utgangspunkt bør det legges til grunn at forholdets identitet endres dersom retten må bygge på andre rettsfakta enn de som er beskrevet i grunnlaget i tiltalen, for eksempel hvis det er tale om å endre subsumsjon fra tyveri til ran. Elementet av vold eller tvang som er en betingelse for at det skal være et ran, vil her ikke være beskrevet i grunnlaget for tyveritiltalen. Forholdets identitet bør også anses endret hvis den nye subsumsjonen gjør at forholdet får en vesentlig annen rettslig karakter enn etter tiltalen, for eksempel hvis det er tale om å domfelle for drapsforsøk etter en tiltale for kroppsskade.
+
+Mindretallet mener på denne bakgrunn at utkastet § 32-3 første ledd tredje punktum bør lyde slik: «Innenfor det forhold tiltalen gjelder, kan retten likevel dømme for overtredelse av et annet straffebud enn etter tiltalen.»
+
+1.  **Rettens forhold til partenes krav**
+
+Etter gjeldende lov er retten ubundet av påtalemyndighetens påstand om straff og andre rettsfølger, jf. § 38 annet ledd annet punktum. Regelen innebærer blant annet at retten kan idømme andre reaksjoner og rettsfølger enn straff selv om påtalemyndigheten ikke har fremmet krav om det.[^945]
+
+Tidligere var regelen at inndragning bare kunne skje når det var fremmet krav om det. Denne ordningen ble imidlertid endret ved lov 11. juni 1999 nr. 39, slik at retten kan beslutte inndragning av eget tiltak. Formålet med endringen var, sammen med en rekke andre lovendringer, å legge til rette for mer effektiv inndragning og slik bidra til å gjøre inndragning til et sterkere kriminalpolitisk virkemiddel.[^946] Endringen ble dessuten begrunnet med at inndragning er en strafferettslig reaksjon, og at retten bør kunne se reaksjonene i sammenheng.[^947] Andenæs og Myhrer beskriver lovendringen som «et tvilsomt innhugg i anklageprinsippet» og fremholder at resonnementet om at retten bør kunne se reaksjonene i sammenheng, «overser at det ofte er en dyptgående forskjell mellom straff og inndragning».[^948]
+
+Etter utvalgets syn bryter gjeldende ordning med rollefordelingen mellom påtalemyndigheten og retten. Når påtalemyndigheten kan avgjøre om saken i det hele tatt skal bringes inn for domstolene, bør det også være opp til påtalemyndigheten om saken skal omfatte krav om annet enn straff. Utvalget er videre enig i Andenæs og Myhrer sitt syn på spørsmålet om inndragning og mener det også er en vesentlig forskjell mellom straff og overføring til tvungent psykisk helsevern, tvungen omsorg og tap av retten til å føre motorvogn. Det er tale om reaksjoner som i hovedsak har andre formål enn å tjene som formell straff.
+
+Hertil kommer at gjeldende regler er egnet til å undergrave hensynet til forsvarlig utredning og kontradiksjon, ettersom en utvidelse av saken etter rettens initiativ som regel vil reise spørsmål som normalt ikke er forberedt eller fullt ut utredet fra partenes side. Manglende forberedelse kan kompenseres med en utsettelse, men dette vil hindre konsentrasjon, forsinke behandlingen og medføre ulemper for mistenkte mv.
+
+Utvalget kan heller ikke se at det er noe praktisk behov for at retten skal kunne gå utenfor de krav som er fremmet av påtalemyndigheten. Det må antas å være tilstrekkelig at retten gjennom veiledning kan ta opp spørsmålet om hvorvidt påtalemyndigheten har overveiet å fremme andre krav i saken, og eventuelt minne om virkningen av at dette ikke er gjort, jf. blant annet utkastet § 32-13 om adgangen til å fremme krav om inndragning etter rettskraftig dom.
+
+Utkastet § 32-3 første ledd første punktum bestemmer således: «Retten kan bare avgjøre krav som er reist av partene, jf. § 5-1 første ledd.»
+
+1.  **Rettens forhold til påtalemyndighetens straffepåstand**
+
+    1.  *Gjeldende rett*
+
+Straffeprosessloven pålegger ikke uttrykkelig påtalemyndigheten å nedlegge straffepåstand, men det følger av påtaleinstruksen at «\[t\]il vegledning for retten bør aktor i sin prosedyre uttale seg om hva slags straff som etter hans mening er passende, om de tilleggsstraffer som bør anvendes og om andre krav i saken», jf. § 26-1 første ledd. Retten er imidlertid ikke bundet av påtalemyndighetens påstand om straff, jf. straffeprosessloven § 38 annet ledd annet punktum.
+
+1.  *Utvalgets vurderinger og forslag*
+
+Utvalget har vurdert om og eventuelt i hvilken utstrekning påtalemyndighetens påstand om straff bør være bindende, slik at retten er avskåret fra å idømme strengere reaksjon enn påstått.
+
+Mot at retten bør kunne gå utover påtalemyndighetens straffepåstand, taler hensynene til maktfordeling, uavhengighet og objektivitet, se punkt 17.6.2 om utvalgets generelle overveielser om anklageprinsippet. Domstolenes avgjørelse av straffespørsmålet skiller seg ikke på disse punkter fra skyldspørsmålet, hvor utvalget mener anklageprinsippet gjør seg sterkt gjeldende, og for tiltalte kan reaksjonsspørsmålet være vel så viktig som avgjørelsen av ansvarsspørsmålet.
+
+At domstolene ikke av eget tiltak skal virke for å drive straffene opp, harmonerer dessuten godt med rollefordelingen mellom påtalemyndigheten og domstolene. Dersom man aksepterer at påtalemyndigheten skal ha det primære ansvaret for å ivareta statens straffeinteresse, er det naturlig at det også er påtalemyndigheten, og ikke domstolene, som gis oppgaven med å virke som drivkraft for å heve straffenivået ved behov. Antakelig er det heller ikke noe stort praktisk behov for domstolenes bidrag på området. Det forekommer relativt sjelden at retten i dag går utover påtalemyndighetens straffepåstand.
+
+Det er også ellers vanskelig å se for seg at for lave straffepåstander fra påtalemyndigheten vil bli et systematisk problem. Objektivitetsplikten tilsier riktignok at påtalemyndigheten ikke bør påstå høyere straff enn den finner grunnlag for etter samvittighetsfull overveielse. Likevel er det nok realistisk betraktet slik at aktor som regel vil argumentere for straff i det øvre sjikt av det intervall som er aktuelt i den enkelte sak.
+
+Også etter svensk rett er domstolene ubundet av påtalemyndighetens straffepåstand.[^949] I SOU 2013:17 foreslås imidlertid grunnleggende endringer i reglene om påtalemyndighetens ansvar for å utrede og ta stilling til reaksjonsspørsmålet og om domstolenes forhold til påtalemyndighetens straffepåstand. Det anbefales blant annet at retten ikke skal ha anledning til å idømme en strengere reaksjon enn det som er påstått av påtalemyndigheten. Forslaget er begrunnet med at en slik regel vil fjerne en rest av en inkvisitorisk prosessordning, tydeliggjøre rollefordelingen mellom påtalemyndigheten og retten samt gjøre prosessen mer forutsigbar for tiltalte. Ettersom retten kan avvike fra straffepåstanden til tiltaltes gunst, oppstår det ifølge utredningen ingen økt risiko for at straffene blir for strenge, og ordningen medfører dermed ingen fare for tiltaltes rettssikkerhet. Sammen med en plikt for påtalemyndigheten til å redegjøre for sitt standpunkt i straffespørsmålet antas det at regelen vil medføre en mer enhetlig straffutmålingspraksis, og at ordningen ikke vil øke risikoen for forskjellsbehandling og juridisk uriktige dommer. At det fra tid til annen kan oppstå en situasjon der påtalemyndigheten etter rettens oppfatning har foreslått en for mild straff, anses ikke som en trussel mot en enhetlig rettsanvendelse.[^950]
+
+For at retten bør kunne gå utover påtalemyndighetens straffepåstand, taler at det i Norge tradisjonelt har vært ansett som en sentral oppgave for Høyesterett å fastlegge og utvikle straffenivået på ulike områder. Dersom straffepåstanden skulle utgjøre en ytre ramme i den enkelte sak, vil ikke domstolene på samme måte som i dag kunne bidra til rettsavklaringer og nyanseringer innenfor de strafferammer som gjelder. Selv om det ikke nødvendigvis er ønskelig at Høyesterett beskjeftiger seg med finjustering av straffutmålingen i enkeltsaker, ville en binding til straffepåstanden medføre et markert brudd med norsk rettstradisjon og endre Høyesteretts ansvar for utviklingen av straffenivået i sin alminnelighet.
+
+Også likebehandlingshensyn taler mot at påtalemyndighetens påstand skal binde retten. Som fremhevet i den svenske utredningen kan det riktignok ikke ses som en trussel mot likebehandlingsidealet dersom retten en sjelden gang vil være bundet til en straffepåstand som den oppfatter å være for lav. Men dersom påtalemyndigheten kan binde retten, vil forholdene etter utvalgets vurdering i for stor grad ligge til rette for forhandlinger og avtaler mellom påtalemyndigheten og mistenkte om straffepåstand. Man vil i realiteten åpne for avtaler eller plea bargaining uten rettslig kontroll. Det vises til drøftelsen i punkt 16.8.5, der utvalget foreslår at det åpnes for straffetilsagn, men at slike tilsagn ikke skal være bindende for domstolene.
+
+Utvalget er på denne bakgrunn blitt stående ved at påtalemyndighetens straffepåstand ikke skal være bindende for domstolene. De hensyn som taler mot en slik løsning, herunder den prinsipielle rollefordelingen som er tillagt påtatalemyndigheten og retten, tilsier imidlertid at domstolene bør utvise tilbakeholdenhet med å idømme strengere straffer enn påtalemyndigheten ber om.
+
+På denne bakgrunn lyder utkastet § 32-3 første ledd fjerde og siste punktum slik:
+
+«Ved fastsettelse av straff og andre strafferettslige reaksjoner enn inndragning er retten ikke bundet av påstandene. Foreligger bindende tilsagn etter § 28-7, kan retten likevel bare gå utover påstanden det er gitt tilsagn om, når det fremstår som klart at reaksjonsfastsettelsen ellers vil bli feil.»
+
+1.  **Særlig om rettergangsstraff**
+
+Reglene om rettergangsstraff etter domstolloven representerer unntak fra anklageprinsippet, idet slik straff ikke bare kan ilegges etter begjæring fra partene, men også kan idømmes av domstolene «uten særskilt søksmaal eller tiltale», jf. domstolloven §§ 213 og 214.
+
+I en enmannsutredning med forslag til ny domstollov, utarbeidet av dommer og nestleder i Arbeidsretten Tron Løkken Sundet og avgitt til Justis- og beredskapsdepartementet 31. oktober 2014, foreslås ordningen med rettergangsstraff prinsipalt opphevet, subsidiært vesentlig beskåret.[^951] Det pekes i utredningen på at reglene om rettergangsstraff reiser prinsipielle spørsmål om domstolenes uavhengighet og objektivitet og om anklageprinsippet og forholdet til de alminnelige reglene i straffeloven og straffeprosessloven. Det fremheves også at det neppe er et stort praktisk behov for regler om rettergangsstraff ved siden av de regler som ellers gjelder om erstatningsansvar, saksomkostninger og aktiv saksstyring mv., og at det i alle fall ikke er behov for et så omfattende sanksjonsregime som domstolloven i dag foreskriver.[^952] Det subsidiære forslaget i utredningen inneholder bestemmelser om rettergangsstraff i tre situasjoner, henholdsvis ved krenkelse av rettens verdighet, brudd på bestemmelser om medieforbud og taushetsplikt, og ugyldig fravær for lekdommere. Forslaget er sendt på høring, med høringsfrist 1. november 2016.
+
+Straffeprosessutvalget tar ikke stilling til forslagene, men vil peke på at et ønske om en tydeligere gjennomføring av anklageprinsippet og klarere rolledeling mellom påtalemyndigheten og domstolene kan tilsi at det også gjøres visse tilpasninger i reglene om rettergangsstraff. Dersom det prinsipale forslaget i enmannsutredningen ikke får gjennomslag, kan en løsning være å behandle sanksjoner ved rettergangsovertredelser på lik linje med forvaltningssanskjoner, således at ordningen ikke formelt anses som straff. De grunnleggende og institusjonelle forskjeller det er mellom det alminnelige strafferettslige sanksjonsapparat og ordningen med rettergangsstraff, kan tale for en slik løsning. Ettersom det ved rettergangsstraff uansett bare kan reageres med bøter, vil en slik innordning også være funksjonelt dekkende. En vil selvsagt ikke derved komme unna de prinsipielle betenkelighetene ved at retten, som selv normalt er berørt av overtredelsen, også kan ilegge en reaksjon. Men dersom det er tale om en adgang til å ilegge et gebyr av begrenset omfang, er det vanskelig å se at en slik ordning vil være særlig problematisk.
+
+1.  **Rettens begrunnelser**
+
+    1.  **Oversikt**
+
+Da det med straffeprosessloven 1887 ble innført en plikt for domstolene til å gi skriftlig begrunnelse for sine avgjørelser, ble det ansett nødvendig for at loven skulle «vinde ikke blot Lovtvangens, men ogsaa Kjærlighedens, Agtelsens og Respektens Feste i Landet».[^953] Kravet om skriftlige begrunnelser for rettslige avgjørelser bygger på en forutsetning om at innholdet i alminnelighet gjenspeiler de vesentligste sider ved de underliggende overveielsene.
+
+Forventningen om at beslutninger av stor betydning skal begrunnes skriftlig, står sterkt i norsk rettsliv, både i forvaltningssaker og i saker som behandles i domstolene. I den senere tid har det vært økt oppmerksomhet om og blitt stilt strengere krav til omfanget og utformingen av skriftlige begrunnelser. I straffeprosessen har dette kommet klart til uttrykk ved at hovedargumentet for å avskaffe lagretteordningen er at juryen ikke begrunner sitt standpunkt til skyldspørsmålet. Høyesterett uttaler følgende om dette i en høringsuttalelse om hurtigere straffesaksbehandling:
+
+«Når det gjelder spørsmålet om juryen skal pålegges å gi en begrunnelse for sitt svar, vil vi bemerke at det fra et rettssikkerhetssynspunkt er meget betenkelig at de mest inngripende avgjørelser mot enkeltpersoner i vårt samfunn, og som endelig avgjør skyldspørsmålet i de mest alvorlige straffesakene, er ubegrunnete. Det må være et overordnet mål å utforme prosessreglene slik at grunnleggende rettssikkerhetshensyn ivaretas.»[^954]
+
+I det følgende redegjøres det først for begrunnelsesplikten etter gjeldende rett i punkt 17.7.2. I punkt 17.7.3 drøftes så hvilke nærmere krav som bør stilles til skriftlig begrunnelse, og hvordan begrunnelsesplikten bør komme til uttrykk i ny straffeprosesslov.
+
+1.  **Gjeldende rett**
+
+Kravet til begrunnelse følger av retten til rettferdig rettergang etter Den europeiske menneskerettskonvensjon (EMK) artikkel 6 nr. 1, slik denne er fortolket av Den europeiske menneskerettsdomstol (EMD): «The national courts must indicate with sufficient clarity the grounds on which they base their decisions.»[^955] Et tilsvarende vern følger nå formentlig også av Grunnloven § 95.[^956]
+
+I straffeprosessloven er plikten til å begrunne avgjørelser regulert i § 39, jf. §§ 40 og 52. For skyldspørsmålet skal domsgrunnene ved domfellelse «bestemt og uttømmende angi det saksforhold retten har funnet bevist som grunnlag for dommen», jf. § 40 annet ledd. Ved frifinnelse skal det etter fjerde ledd fremgå hvilke «vilkår for straffeskyld som antas å mangle, eller de omstendigheter som utelukker straff eller annen rettsfølge».
+
+Når retten konstaterer skyld, skal domsgrunnene i saker som behandles for meddomsrett, «angi hovedpunktene i rettens bevisvurdering», jf. § 40 femte ledd. I forarbeidene er kravet til den alminnelige begrunnelsesplikten formulert slik:
+
+«Retten skal først og fremst redegjøre for hva som har vært de springende punkter ved bevisvurderingen, og kort angi hva som har vært avgjørende for bevisvurderingen. \[…\] Det kreves ikke at retten gir en detaljert beskrivelse.»[^957]
+
+I rettspraksis er det lagt til grunn at begrunnelsesplikten er relativ til sakens alvor:[^958]
+
+«Domfellelse for uaktsomt drap representerer en alvorlig karakteristikk av handlingen fra samfunnets side. Det må derfor gis en grundig beskrivelse av de faktiske forhold domfellelsen er basert på slik at ankedomstolen har et forsvarlig grunnlag for å overprøve lovanvendelsen \[…\].»[^959]
+
+Femte ledd skal etter rettspraksis anvendes analogisk for lagmannsrettens bevisvurdering under straffutmålingsspørsmålet i saker med lagrette.[^960]
+
+I lagrettesaker skal domsgrunnene for skyldspørsmålet kun bestå i en henvisning til kjennelsen, jf. § 40 første ledd. Høyesterett har imidlertid fastslått at femte ledd skal anvendes analogisk også her, og i domsgrunnene må således hovedpunktene i rettens bevisvurdering angis.[^961] Dette innebærer at fagdommerne etter omstendighetene har plikt til å supplere lagrettens kjennelse med en skriftlig begrunnelse, slik at sentrale punkter i bevisvurderingen ikke blir stående uforklart.[^962]
+
+Etter straffeprosessloven § 52 skal også kjennelser ha grunner, men det nærmere innholdet av kravet er ikke regulert, utover at det må opplyses om eventuell dissens mv., jf. § 41. I juridisk teori er det antatt at begrunnelsen, avhengig av sakens karakter, kan ha et mer summarisk preg enn i dommer. Kjennelser som avgjør kravet i saken, må alltid begrunnes på samme måte som en dom.[^963]
+
+Andre beslutninger enn dommer og kjennelser behøver som utgangspunkt ingen grunner, jf. straffeprosessloven § 53 første ledd. I rettspraksis er det imidlertid lagt til grunn at det etter omstendighetene stilles krav til begrunnelse også for beslutninger, noe som i første rekke vil bero på beslutningens innhold.[^964] En rekke beslutninger av praktisk og administrativ art er dessuten formløse. For eksempel innebærer rettens prosessledelse etter domstolloven § 123 første ledd en kontinuerlig beslutningsprosess, uten at de beslutninger som treffes, nødvendigvis protokolleres i rettsboken eller formaliseres på annen måte. Loven må således antakelig forstås slik at det gjelder en viss terskel for kravet om formalisering.
+
+Særreglene i straffeprosessloven §§ 321 femte ledd og 323 annet ledd gjennomfører folkerettslige forpliktelser og fastslår at beslutninger om å nekte anke til lagmannsretten og Høyesterett skal være begrunnet.[^965] Høyesterett har presisert at begrunnelsen skal «inneholde det som trengs for å vise at det har skjedd en reell overprøving».[^966] Det må således fremgå at de feil som er påberopt, er oppfattet, og forklares hvorfor anken klart ikke vil føre frem. Høyesterett prøver regelmessig om lagmannsretten «gir \[…\] tydelig uttrykk for hvilket grunnlag retten bygger sin avgjørelse på».[^967] Praksis viser at begrunnelseskravet er relativt og «vil måtte variere betydelig alt etter karakteren av den enkelte sak – fra begrunnelser på en eller to setninger, til noe mer utførlige vurderinger av rettslig eller faktisk art».[^968]
+
+Loven inneholder også enkelte særskilte begrunnelsesplikter. Ved varetektsfengsling skal for eksempel behovet for bruk av restriksjoner som brev- og besøksforbud begrunnes særskilt, jf. straffeprosessloven § 186 tredje ledd. Også i rettspraksis er det utviklet særskilte krav til skriftlig begrunnelse, blant annet er det lagt til grunn at det for varetektsfengsling for å hindre at bevis mot medskyldige forspilles etter straffeprosessloven § 171 første ledd nr. 2, «kreves atskillig», og at det må fremgå av begrunnelsen at bevisforspillelsesfaren er vurdert ekstra grundig.[^969]
+
+Eventuelle mangler ved domsgrunnene er å anse som saksbehandlingsfeil. Mangelfull begrunnelse er formelt inkludert i oppregningen av absolutte saksbehandlingsfeil, som ubetinget skal føre til opphevelse, jf. straffeprosessloven §§ 343 første ledd nr. 8 og 385 tredje ledd. En slik saksbehandlingsfeil kan imidlertid vanskelig sies å være absolutt i egentlig forstand, da det å avgjøre om domsgrunnene har «mangler som hindrer prøving», forutsetter en innvirkningsvurdering i lys av de formål begrunnelsesplikten skal ivareta.
+
+1.  **Utvalgets vurderinger**
+
+Utvalget mener dagens krav til skriftlige begrunnelser for rettslige avgjørelser i det vesentlige bør videreføres. Hvilke nærmere krav som skal gjelde, bør bero på hvilke formål begrunnelsen skal ivareta.[^970] Skriftlige begrunnelser ivaretar mange ulike hensyn:
+
+Det at retten strukturerer argumentasjonen skriftlig, antas å bidra til samvittighetsfulle og rasjonelle overveielser og dermed riktige rettsavgjørelser.[^971] Videre gir skriftlige begrunnelser et grunnlag for at tiltalte og offentligheten kan ha tillit til og mulighet for å etterprøve avgjørelser.[^972]
+
+At det gis skriftlig begrunnelse, er også en nødvendig forutsetning for overprøving av avgjørelser i en høyere domstol ved begrenset anke. Med mindre ankedomstolen skal ta stilling til saken etter en fullstendig ny behandling, er det stort sett en nødvendig forutsetning at premissene for underrettens avgjørelse på en eller annen måte er tilgjengelige.
+
+Skriftlighet kan dessuten sikre en viss notoritet for bevisføringen i første instans, herunder omkring innholdet av vitneforklaringer. Dette kan bidra til å demme opp for endrende, tilpassede forklaringer under en eventuell ankeforhandling.
+
+Skriftlighet og offentliggjøring muliggjør også at domsbegrunnelser kan virke normdannende ved at rettstilstanden klargjøres og formidles. Dette kan bidra til forutberegnelighet og likebehandling. Høyesterett har en særlig rolle for rettsutvikling og rettsavklaring – som i sin tur bidrar til rettsenhet. Det har vært vanlig å forbeholde uttrykket «prejudikat» om Høyesteretts retningsgivende avgjørelser. Men også avgjørelser fra underinstansene, og særlig lagmannsretten, kan i noen grad ha en slik funksjon. Denne gradsforskjellen i gjennomslag reflekteres i at man gjerne snakker om presendensvirkningen – og ikke prejudikatsvirkningen – av lagmannsrettenes og i noen grad tingrettenes avgjørelser.
+
+Hvilket gjennomslag de nevnte hensyn skal ha for begrunnelsesplikten, må avstemmes mot hvor stor innsats det er hensiktsmessig å legge i den nærmere utformingen. Særlig mindre betydningsfulle beslutninger kan det være unødvendig å begrunne nærmere, men også dersom avgjørelsen skal formidles raskt, vil et strengt krav til skriftlig begrunnelse kunne være uhensiktsmessig.
+
+Behovet for begrunnelse beror også på om man kan ivareta de nevnte hensyn gjennom andre mekanismer. For eksempel vil lyd- og bildeopptak i første instans i større grad enn skriftlige begrunnelser sørge for dokumentasjon for bevisføring og virke preventivt for forklaringsendinger fra vitner. Dersom utvalgets forslag om at det skal tas lyd- og bildeopptak av rettsforhandlinger tas til følge, se punkt 6.5.3.3, vil det ikke lenger være behov for å gjengi forklaringer i domspremissene ut fra notoritetshensyn.
+
+Begrunnelsesplikten møter i alle tilfeller sin grense ved hva som lar seg gjøre å angi skriftlig – til illustrasjon kan nevnes beskrivelse av visuelle forhold. Det er heller ikke mulig å gjengi fullstendig de overveielser som ligger til grunn for en rettslig avgjørelse. Blant annet av den grunn er det tradisjon for forsiktighet med å avsi fellende dommer basert på underinstansens beskrivelse av saksforhold.[^973]
+
+De ulike hensyn som skal ivaretas gjennom skriftlig begrunnelse, gjør seg gjeldende i varierende grad avhengig av hva slags avgjørelse det er tale om, og begrunnelsespliktens nærmere innhold er vanskelig å beskrive nærmere på et helt generelt nivå.[^974] Den må derfor vurderes i det enkelte tilfellet i lys av begrunnelsespliktens ulike formål, slik det også har vært lagt til grunn for vernet som følger av kravet til rettferdig rettergang etter EMK artikkel 6:
+
+«\[T\]he extent of the duty to give reasons varies according to the nature of the decision and must be determined in the light of the circumstances of the case \[…\]. While courts are not obliged to give a detailed answer to every argument raised \[…\] it must be clear from the decision that the essential issues of the case have been addressed.»[^975]
+
+Utvalget mener bevissthet om hvilke funksjoner begrunnelsen skal tjene, kan bidra til at man unngår både mangler og overflødige redegjørelser, ved at utformingen av premisser tilpasses det konkrete begrunnelsesbehovet i saken. Det sentrale for dommer er at retten, i tråd med det som er hovedregelen for dommer i dag, angir hovedpunktene i bevisvurderingen. Oppmerksomheten bør også i begrunnelsen konsentreres om de springende punkter og det rettslig relevante faktum.
+
+Et eksempel på en begrunnelsespraksis som etter utvalgets syn er for omfattende, og som man ser en del av, er at dommer og beslutninger fra tingretten – i tråd med Høyesteretts begrunnelsestradisjon – har inngående redegjørelser for hvilke kilder det er sett hen til i lovtolkingen. Tingretten skal anvende rettsreglene, og det er da i alminnelighet tilstrekkelig å klargjøre hvilket nærmere innhold tingretten legger til grunn at reglene har. Det er med andre ord i første rekke behov for presisering av normen, men ikke av kildebruken. Høyesterett er derimot en prejudikatsdomstol, og en nærmere begrunnelse for rettsregelens grunnlag og rekkevidde kan da ha betydning. Praksis med henvisinger til ulike forarbeider og lovhistorikk kan riktignok i en del tilfeller synes å gå lenger enn dette formål skulle tilsi. Men særlig for begrunnelser i tingretten vil overdrevne redegjørelser for kildemateriale først og fremst bidra til å gjøre avgjørelsen utilgjengelig for partene og offentligheten, og det er ikke hensiktsmessig ressursbruk. Samtidig kan det tenkes tilfeller der det er hensiktsmessig med en slik begrunnelsesform også i tingretten, for eksempel dersom lovspørsmålet har vært omtvistet, og en klargjøring av rettens syn på saken kan hindre en unødig anke.
+
+Et annet eksempel er at tingrettene ofte tar inn i dommen lange referater av forklaringene fra tiltalte og de mest sentrale vitnene, uten at dette knyttes til rettens begrunnelse for avgjørelsen av skyldspørsmålet. Dette gjør at dommene svulmer opp, og er unødvendig for å oppfylle formålet med begrunnelsen.
+
+For begrenset og skjematisk begrunnelsespraksis er også problematisk. Dette synes å forekomme i nokså stor utstrekning ved begrunnelser for bruk av inngripende tvangstiltak, ikke minst varetektsfengsling med bruk av isolasjon.[^976] Det er problematisk dersom man i begrunnelsen for bruk av slike tiltak nøyer seg med å henvise til tidligere kjennelser, ettersom det kan gå på bekostning av en slik selvstendig vurdering som loven krever.
+
+Spørsmålet er så hvordan et relativt begrunnelseskrav best kan uttrykkes i loven. Et alternativ er å videreføre dagens ordning med særskilte begrunnelseskrav for ulike typer avgjørelser, se punkt 17.7.2. Et annet alternativ er å benytte en formålsbasert standard som skal gjelde for alle typer av avgjørelser.
+
+I tvisteloven er formkrav og de nærmere innholdsmessige kravene til begrunnelse samlet i § 19-6 fjerde til sjette ledd:
+
+«(4) Dommer og kjennelser skal begrunnes. Begrunnelsen skal omfatte
+
+a\) framstilling av saken,
+
+b\) partenes påstander med påstandsgrunnlag, og
+
+c\) rettens vurdering.
+
+\(5\) Saksframstillingen og redegjørelsen for påstandsgrunnlagene skal konsentrert beskrive det rettsforhold som er tvistegjenstand, sakens bakgrunn og partenes rettslige og faktiske anførsler så langt det er nødvendig for å forklare avgjørelsen. Deretter gjør retten rede for den bevisvurdering og rettsanvendelse avgjørelsen er bygd på. Overordnede domstoler kan i sin begrunnelse henholde seg helt eller delvis til de underordnede domstolers begrunnelse i saken.
+
+\(6\) Avgjørelser av Høyesterett som avsies ved muntlig avstemning, begrunnes ved dommernes stemmegiving.»
+
+Fjerde og femte ledd gjelder generelt ved utforming av begrunnelser for dommer og kjennelser, men slik at de ikke gjelder for småkravsprosess i tingretten eller for dommer i forliksrådet, jf. tvisteloven §§10-4 fjerde ledd og 6-12 tredje ledd.
+
+Det alminnelige krav til begrunnelse gjelder heller ikke for beslutninger. Begrunnelsen for dette er at de fleste beslutninger er enkle saksstyrende avgjørelser som treffes etter en hensiktsmessighetsvurdering, og det vil være unødvendig og uforholdsmessig tungvint om det alltid skulle utformes en begrunnelse. Men heller ikke dette skillet har latt seg gjennomføre konsekvent for begrunnelseskravets del. For eksempel følger det av loven at beslutninger om ankenektelse på det grunnlag at lagmannsretten enstemmig finner det klart at anken ikke vil føre frem etter tvisteloven § 29-13 annet ledd, skal være begrunnet, jf. femte ledd tredje punktum. Det vil nok også gjelde en begrunnelsesplikt for andre beslutninger med stor betydning for saken.
+
+Utvalget mener at kravet til begrunnelse best reguleres gjennom en relativ standard som den enkelte sak eller sakstype kan vurderes etter. Kravet må forstås med utgangspunkt i de underliggende hensyn som taler for å gi skriftlige begrunnelser, og regelen anvendes i lys av hvilke formål begrunnelsen kan tjene, ut fra den beslutning det er tale om, sakens karakter og om begrunnelsen gjelder rettens standpunkt til faktiske eller rettslige spørsmål.
+
+Innholdet skal variere i henhold til ulike egenskaper ved avgjørelsene som treffes. I en viss utstrekning vil det være mulig å peke på særskilte trekk ved typer avgjørelser som tilsier et særskilt begrunnelseskrav. Et ytterpunkt er at meget enkle saksstyrende avgjørelser med begrenset betydning for partene ikke skal begrunnes skriftlig, ettersom det vil være unødig bruk av tid og ressurser. Et annet ytterpunkt er at en dom i en drapssak skal begrunnes utførlig.
+
+Det vises til utkastet § 32-7 og merknadene til bestemmelsen.
+
+1.  **Virkninger av rettens avgjørelser. Rettskraft og tvangskraft**
+
+    1.  **Oversikt**
+
+Etter gjeldende rett har dommer som det klare utgangspunkt virkning etter sitt innhold og kan fullbyrdes fra de er rettskraftige, jf. straffeprosessloven §§ 50 og 452 første ledd.[^977] Andre avgjørelser har som hovedregel virkning – herunder tvangskraft – fra de er avsagt, jf. § 382 første ledd. Etter sistnevnte bestemmelse kan anke gis såkalt oppsettende virkning av den rett som har truffet avgjørelsen, eller av ankedomstolen. Det kan også følge av særlig lovbestemmelse at anke har oppsettende virkning.[^978]
+
+Utvalget foreslår uttrykkelig lovfesting av de nevnte utgangspunkter, jf. utkastet § 32-11 om virkninger av rettens avgjørelser, § 32-12 om rettskraft og § 37-8 om utsettende virkning ved anke over beslutning. Forslaget innebærer enkelte lovtekniske og terminologiske endringer i klargjørende øyemed, men tar sikte på å videreføre gjeldende regulering av når en avgjørelse blir rettskraftig («formell rettskraft») og av de virkninger som følger av avgjørelsen («positiv materiell rettskraft»).
+
+Reguleringen av dommer og andre avgjørelsers sperrende virkning mot ny forfølgning («negativ materiell rettskraft») behandles nærmere nedenfor i punkt 17.8.2.
+
+Hvilken virkning en avgjørelse har for den rett som selv har truffet den, er i hovedsak et spørsmål om omgjøringsadgang, jf. straffeprosessloven §§ 52 fjerde ledd første punktum, 53 annet ledd første punktum, 272 sjette ledd og 315 tredje ledd og utkastet § 32-16.
+
+1.  **Forbudet mot gjentatt forfølgning. Avvisning av rettskraftig avgjorte forhold mv.**
+
+    1.  *Straffesaker og administrative sanksjoner*
+
+En sak bør av mange grunner få en avslutning, og det er et allment akseptert rettsprinsipp at ingen skal utsettes for gjentatt straffeforfølgning for samme overtredelse. Denne tanken har nedfelt seg i ulike bestemmelser som setter forbud mot dobbeltforfølgning, i tråd med det såkalte *ne bis in idem*-prinsippet:
+
+«Det er i hovedsak tre hensyn som begrunner ne bis in idem-prinsippet. For det første belastningshensynet; den som har vært utsatt for en forfølgning, skal slippe den belastning det medfører å gjennomgå en ny straffeforfølgning for samme saksforhold. For det andre gir et forbud mot gjentatt straffeforfølgning forutberegnelighet. Samfunnsborgerne kan innrette seg på at de ikke vil bli forfulgt på ny for samme forhold, som de er endelig domfelt eller frifunnet for. For det tredje er det ineffektivt å gjennomføre flere prosesser om samme saksforhold.»[^979]
+
+I straffeprosessen er det på denne bakgrunn en selvsagt regel at retten av eget tiltak skal avvise en sak som bringes inn for den, dersom det forhold tiltalen gjelder, allerede er avgjort ved rettskraftig dom, jf. straffeprosessloven § 51.
+
+I saker som utelukkende gjelder straff i formell forstand etter straffeloven § 29, aktualiseres denne rettskraftregelen sjelden. Straff ilegges etter gjeldende rett i straffeprosessens former, og etter påtalemyndighetens initiativ.[^980] Med unntak for vedtakelse av forelegg på bot må dessuten straff idømmes av domstolene, og stort sett er det klart hvor en sak hører hjemme. Dette innebærer i praksis en koordinering som gjør at samme sak ikke bringes inn for retten to ganger som straffesak, og i alle fall ville neppe noen påtalejurist finne på å gjøre det med vilje.[^981] At det kan tenkes å oppstå spørsmål om hvorvidt en forfølgning gjelder samme forhold som en allerede avgjort sak, er en sak for seg.[^982]
+
+For overtredelser som kan forfølges både strafferettslig og administrativt, oppstår det lettere spørsmål om hvorvidt en avsluttet forfølgning i det ene sporet sperrer for en ny forfølgning i det andre sporet, enten det er straffesaken eller forvaltningssaken som kommer først. I de senere års høyesterettspraksis har det vært reist en rekke problemstillinger med utgangpunkt i denne situasjonen, der påtalemyndigheten og et tilsynsorgan – hver på sin kant – reagerer mot lovbrudd, og emnet er utførlig behandlet i juridisk teori.[^983]
+
+Bakgrunnen for dette er særlig forbudet mot gjentatt straffeforfølgning i EMK syvende tilleggsprotokoll artikkel 4 (P7-4), som inneholder et autonomt, materielt straffebegrep, og straffeprosessloven § 51 har vært tolket i lys av konvensjonsforpliktelsen.[^984] Forbudet i P7-4 lyder slik:

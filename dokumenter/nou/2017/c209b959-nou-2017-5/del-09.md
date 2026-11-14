@@ -1,907 +1,611 @@
-# NOU 2017: 5, del 9 av 20 (side 100–111)
+# NOU 2017: 5, del 9 av 19
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2017/c209b959-nou-2017-5.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2017-5/id2540653/
 - Original-PDF: https://www.regjeringen.no/contentassets/5e7d542157dc4037856658fbf6edbe9f/no/pdfs/nou201720170005000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 14 tabeller, 24 figurer, 582 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 100]
-
-98
-
-NOU 2017: 5
-
-Kapittel 5
-
-En påtalemyndighet for fremtiden
-
-5.10.5 Oslo statsadvokatembeter versus de
-øvrige embetene
-Når det gjelder å beskrive hvorledes statsadvokatenes fagledelse rent faktisk utøves og hva denne
-består i, har utvalget i stor grad lent seg på Oslo
-statsadvokatembeter. Dette har sammenheng
-med at dette embetet er landets klart største, og
-har gått foran i en videreutvikling av spesielt inspeksjons- og tilsynsvirksomheten.
-Slik utvalget ser det, har nettopp embetets
-størrelse gjort det mulig å drive en noe mer spesialisert og profesjonell fagledelse enn hva som er
-tilfelle i flere av de øvrige embetene. Saksfremstillingen i foregående punkt er derfor ikke fullt ut representativt for hvorledes fagledelsen utøves over
-hele landet.
-
-5.11 Statsadvokatenes rolle og ansvar i
-pågående etterforskinger
-5.11.1 Problemstillingen
-Som en konsekvens av at enkelte respondenter
-har problematisert statsadvokatenes rolle og ansvar i pågående etterforskinger, og fordi spørsmålet i nyere tid har blitt aktualisert gjennom profilerte enkeltsaker, har utvalget funnet det nødvendig å behandle dette temaet.
-For å påse at etterforskingen har riktig kvalitet
-sett hen til tilgjengelige ressurser, er det en forutsetning at påtalemyndigheten er tilstrekkelig involvert. Samtidig er det klare utgangspunktet at
-det er påtalejuristen i politiet som er etterforskingsleder. Avveiningene i dette skjæringspunktet behandles i det følgende.
-5.11.2 Fornebo-utvalget
-Spørsmålet om statsadvokatenes saksstyring i etterforskingsfasen ble utredet av Fornebo-utvalget.33
-«Det er i dag ikke uvanlig at det er kontakt mellom statsadvokat og etterforskningsledelse/
-påtaleledd om ulike forhold knyttet til etterforskningen i alvorlige og omfattende straffesaker, der statsadvokaten skal treffe påtaleavgjørelse og føre aktoratet.
-I særlige tilfelle foreligger varslingsplikt etter påtaleinstruksen, og statsadvokaten kan videre bli involvert på grunn av metodespørsmål
-og rettsanmodninger.
-33
-
-Fornebo-utvalget side 52 flg.
-
-I alminnelighet er det politiet som kontakter statsadvokaten og ber om å få drøfte saken.
-Det kan også skje at statsadvokaten engasjerer
-seg etter å ha blitt kjent med saken gjennom
-media, eller gjennom henvendelser fra forsvarer eller bistandsadvokat. I slike tilfeller kan saken ha vært under etterforskning en tid, og
-statsadvokatens engasjement kan skyldes at etterforskningen har tatt uforholdsmessig lang
-tid.
-Inntrykket etter arbeidsgruppens høringsrunde er at det forholdsvis sjelden er snakk om
-styring av etterforskningen, i den forstand at
-statsadvokaten løpende tar beslutninger av taktisk eller annen art som blir bestemmende for
-hvordan etterforskningen som helhet gjennomføres.
-Det er ulike grunner til at statsadvokatenes
-engasjement blir forholdsvis begrenset. For
-det første er det som regel ikke kapasitet til en
-mer aktiv saksstyring, og det kan nok være at
-noen kvier seg for å gripe styrende inn, med
-det ansvar dette innebærer.
-Embetene og politiet ser i all hovedsak fordeler ved en mer aktiv saksstyring.
-Ett embete uttaler: ‘Vi ser ingen prinsipielle
-innvendinger mot det, tvert om. God kjennskap
-til saken er en ubetinget fordel når den senere
-skal avgjøres og eventuelt aktoreres. I tillegg sikrer saksstyring fra statsadvokaten at etterforskningen ledes i en hensiktsmessig og rettssikkerhetsmessig betryggende retning.’
-Et annet embete påpeker at i dagens situasjon ‘blir mangler ved etterforskningen ofte ikke
-avdekket før saken kommer inn hit for påtalemessig behandling. Ofte blir det da gitt pålegg om
-ytterligere etterforskning, hvilket gjerne medfører
-uforholdsmessig forsinkelse av fremdriften. I
-noen tilfeller er det for sent å reparere mangler
-ved etterforskningen på det tidspunkt saken mottas av statsadvokatene. På den annen side forekommer det også at saker blir overetterforsket, og
-dermed tar unødvendig mye tid og ressurser.’
-Flere politidistrikter peker også på fordeler
-med en mer aktiv saksstyring i visse saker, og
-ett distrikt peker nettopp på at dette kan få en
-ressursbesparende effekt, ved at etterfølgende
-etterforskningspålegg unngås i større grad.
-Et annet distrikt uttaler at det ikke er behov
-for mer aktiv saksstyring, men at det ikke er
-noen prinsipielle motforestillinger mot dette ‘så
-lenge man er klar på hvem som tar beslutninger,
-særlig med tanke på fremtidig klagebehandling
-m.m. En må vokte seg for å komme i en situasjon
-
-[Side 101]
-
-NOU 2017: 5
-En påtalemyndighet for fremtiden
-
-Statsadvokatene bør oftere enn i dag orientere seg om alvorlige og spesielle saker i en tidlig fase, og etablere rutiner som sikrer at statsadvokatene får kunnskap om at etterforskning
-er, eller vil bli, iverksatt. Det kan så gis råd og
-veiledning til saksansvarlig jurist i politiet.
-Statsadvokatene bør også vise interesse i en
-tidlig fase når politidistriktet ytes bistand fra
-Kripos eller Økokrim. Statsadvokaten må imidlertid vite om saken, og det bør foreligge rutiner som sikrer at statsadvokatene er kjent med
-bistandsoppdrag fra Økokrim.
-Slik arbeidsgruppen ser statsadvokatrollen,
-ligger det ikke naturlig innenfor denne at statsadvokatene skal styre omfattende og alvorlige
-saker så aktivt at det nærmer seg etterforskningsledelse, og dermed et mer helhetlig ansvar for etterforskingen. En slik styring ville
-også bli for ressurskrevende for de fleste embeter. Frie ressurser bør i sammenheng med
-arbeidsgruppens øvrige forslag heller anvendes til generell ledelse av det regionale straffesaksarbeidet.
-Noen systematisk økning i statsadvokatenes involvering i etterforskningen av de alvorligste sakene ser arbeidsgruppen dermed ingen grunn til å anbefale.»
-
-hvor en ikke vet hvem/hvilke nivå som har fattet
-beslutninger i saken.’«
-Fornebo-utvalget vurderer mulige faktiske og
-prinsipielle innvendinger mot en noe mer aktiv
-saksstyring fra statsadvokatene. Gjennomgangen
-oppsummeres på følgende måte:
-«Overnevnte innvendinger har etter vårt syn
-mindre rekkevidde. Det er ingen holdepunkter
-for at involvering i saken på etterforskningsstadiet er rettssikkerhetsmessig uheldig ved den
-senere påtalebehandling. Den vesentlige trussel mot rettssikkerheten ligger i mangelfull og
-ensidig etterforskning.
-Statsadvokatene bør involvere seg i alvorlige og omfattende saker, og straffeprosessloven åpner for at dette kan gjøres i sterk grad.
-Det er etter vårt syn særlig viktig at statsadvokaten følger opp fremdriften i de alvorlige og
-prioriterte sakene, og spesielt i saker hvor det
-er noen som er siktet/varetektsfengslet. Etter
-vårt syn bør det så langt som mulig, og i samråd med ansvarlig politijurist, settes frister/milepæler for etterforskningen i slike tilfeller. Erfaringsmessig er oppfølgning av fremdriften
-også kvalitetsdrivende.
-I dansk påtalemyndighet utpekte Riksadvokaten i 2009 langvarige siktelser og varetektsfengslinger som ‘særlige fokusområder’. Om
-langvarige siktelser heter det fra Riksadvokatens hånd: ‘Med henblikk på at oppnå en generelt hurtigere behandling av straffesager, skal politidirektørerne og statsadvokaterne således sætte
-særlig fokus på at begrænse antallet av langvarige sigtelser (…)’. Det er i Danmark også innberetningsordning knyttet til fengslinger over
-3 måneders varighet.
-Statsadvokatene kan i dag ved systematisk
-bruk av PAL/STRASAK følge opp sakene og
-påskynde etterforskningen fra embetet uten at
-dette blir for ressurskrevende.
-En mer direkte faglig styring vil særlig
-være aktuelt i saker med særlige metodespørsmål, ved utenlandsetterforskning og rettsanmodninger, og for øvrig når saken eksempelvis
-reiser vanskelige spørsmål med hensyn til avgrensninger og rettsanvendelse. I egne aktorater kan det også være hensiktsmessig å engasjere seg i avslutningsfasen av etterforskningen for å sikre en hensiktsmessig redigering,
-og at viktig bevismateriale har en hensiktsmessig form og ligger godt tilrette med sikte på arbeidet i domstolen.
-
-99
-
-Kapittel 5
-
-5.11.3 Påtaleanalyseutvalget
-I tråd med forslaget til samfunnsoppdrag34 ser utvalget for seg fremtidige statsadvokater som er interessert i, og aktivt involverer seg i, politiets virksomhet. En slik tilnærming medfører samtidig at
-grensedragningen mellom statsadvokaten og politimesteren, og mellom statsadvokaten og påtalejuristen, blir enn viktigere.
-Påtaleanalyseutvalget har merket seg at statsadvokatenes rolle i pågående etterforskinger i liten grad er formalisert. I påtaleinstruksen finnes
-enkelte bestemmelser vedrørende statsadvokatenes involvering, se eksempelvis § 12-2 om rettslig
-oppnevning av sakkyndige.
-Også påtaleinstruksen § 7-2 bør nevnes. Bestemmelsen omhandler underretning til overordnet påtalemyndighet om enkelte kategorier anmeldelser, og har følgende ordlyd:
-«Politiet skal underrette statsadvokaten eller
-riksadvokaten når det får kjennskap til at det er
-begått særlig alvorlige lovbrudd i distriktet
-eller når det ellers er begått straffbare forhold
-som vekker stor oppsikt. Det samme gjelder
-34
-
-Punktene 4.2 og 11.2.
-
-[Side 102]
-
-100
-
-NOU 2017: 5
-
-Kapittel 5
-
-En påtalemyndighet for fremtiden
-
-dersom det er grunn til å tro at politikammeret
-ikke selv har tilstrekkelig ressurser til å gjennomføre etterforskingen eller dersom det bør
-overveies å sentralisere ledelsen av etterforskingen.»
-Underretningsplikten har en viktig side til statsadvokatenes instruksjonsrett og til behovet for å
-kunne planlegge virksomheten.
-Utvalget avgrenser mot en omfattende redegjørelse av de nærmere grensedragningene, likevel slik at enkelte viktige hensyn og avveininger
-bør omtales.
-Fagledelse vs. enkeltsaksbehandling – Det er
-viktig at statsadvokaten er seg bevisst at anbefalingen i denne rapport om økt involvering og engasjement opp mot politiets virksomhet i hovedsak
-retter seg mot virksomhetsområdet fagledelse.
-Utvalget omtaler i liten grad spørsmålet om statsadvokatenes opptreden i enkeltsaker.
-Statsadvokat vs. politimester – Politimesteren
-er leder av den lokale påtalemyndighet. Utvalget
-går ikke nærmere inn på spørsmålet om grensesnittet mellom underordnet og overordnet påtalemyndighet i sin alminnelighet, men minner om at
-involvering vil kunne medføre et økt ansvar. Det
-er derfor viktig at statsadvokatene er seg bevisste
-at involvering og innflytelse ofte er to sider av
-samme sak.
-Statsadvokat vs. politiadvokat – Påtalejuristen
-er etterforskingsleder, og det er viktig å støtte oppunder dennes posisjon og rolle. Dette alene tilsier at statsadvokaten bør utvise en viss skjønnsomhet hva gjelder omfang og intensitet i sin involvering. I tillegg kommer at statsadvokatene
-skal ivareta en viktig og uavhengig kontroll- og
-klagefunksjon. Samtidig tilsier hensynet til planlegging, løpende kontroll og effektivitetshensyn at
-statsadvokaten holder seg orientert om utviklingen i spesielt de alvorligere og mer kompliserte
-sakene. Utvalget tiltrer i det vesentlige det som er
-gjengitt i foregående punkt.
-Informasjon vs. ansvar – Et dagsaktuelt spørsmål er hvilken aktivitetsplikt som inntreffer når
-statsadvokaten blir orientert eller på annen måte
-får informasjon av vekt, gitt sitt overordnede faglederansvar. Poenget med underretningsplikten i
-påtaleinstruksen § 7-2 er som nevnt å gi overordnet påtalemyndighet en mulighet til å gripe inn
-ved behov. Informasjon kan etter omstendighetene medføre en plikt til å gripe in. Det tilligger
-statsadvokaten å forstå når behovet for veiledning
-har oppstått.
-Skriftlighet vs. muntlighet – Eventuelle direktiver og føringer fra statsadvokaten bør, spesielt
-
-hvis dette gjelder substansielle føringer og
-veivalg, gis skriftlig.
-
-5.12 Den utadrettede virksomheten
-5.12.1 Innledning
-Som beskrevet i Fosheim-utvalget består statsadvokatenes utadrettede virksomhet særlig av
-– samarbeid med andre etater i strafferettspleien
-– høringsuttalelser og utredninger
-– informasjon til media og allmennheten
-– internasjonalt samarbeid
-Påtaleanalyseutvalget avgrenser sin redegjørelse
-til å omfatte de sider ved den utadrettede virksomheten hvor utvalget vurderer å foreslå endringer.
-
-5.12.2 Fornebo-utvalget
-Fornebo-utvalget tar på side 66 opp tråden fra Fosheim-utvalget og uttaler følgende:
-«Fosheim-utvalget påpekte i sin tid at statsadvokatene bør delta aktivt i offentlig meningsutveksling på sitt fagområde, og at det er en oppgave for embetsleder å tilrettelegge for dette.
-Utvalget uttalte videre at embetsleder selv må
-ta stilling til ‘policy-spørsmål’, og eventuelt informere media om slike.
-Det er arbeidsgruppens totalinntrykk at
-statsadvokatene utenfor enkeltsaker er forholdsvis lite synlige i media, jf. ovenfor, og at
-dette ikke har endret seg mye i tiden etter Medieutvalgets arbeid.
-Det vil etter arbeidsgruppens syn være en
-lederoppgave å bekjentgjøre faglige målsetninger og resultater i den regionale påtalemyndighet, og likeledes spesielle utviklingstrekk i
-straffesaksbehandlingen som må antas å ha offentlig interesse i regionen.»
-
-5.12.3 Kommunikasjonsstrategi
-For en institusjon som påtalemyndigheten er informasjon, kommunikasjon og omdømme grunnleggende viktig. Disse elementene står helt sentralt når påtalemyndigheten skal videreutvikle sin
-identitet og legitimitet.
-Erkjennelsen av dette opplyses å ha vært en
-medvirkende årsak til at det ved Riksadvokatembetet i 2015 ble tilsatt en kommunikasjonsrådgiver. Flere av respondentene har etterlyst en tydeligere medieprofil i den høyere påtalemyndighet.
-Om dette opplyser Riksadvokatembetet følgende:
-
-[Side 103]
-
-NOU 2017: 5
-En påtalemyndighet for fremtiden
-
-«Kommunikasjon er et satsningsområde for påtalemyndigheten; vi ønsker å få til en mer tydelig og konsekvent kommunikasjon både eksternt og internt. En kommunikasjonsstrategi
-for Den høyere påtalemyndighet er under utarbeidelse.
-Den høyere påtalemyndighet har generelt
-et godt omdømme. I Ipsos MMIs årlige profilundersøkelse er riksadvokaten i 2016 på
-plass 27 av 87 offentlige etater. Vi lever imidlertid i en tid med generelt lav tillit til offentlige
-myndigheter verden over. Edelman Trust Barometers årlige tillitsundersøkelse viste i 2015
-at i 19 av de 27 landene som ble undersøkt
-hadde befolkningen liten tillit til myndighetene. Selv om nordmenn fortsatt har forholdsvis høy tillit til myndighetene er det ikke lenger
-bare samfunnsoppdraget i seg selv, men måten
-vi løser oppgavene våre og hvordan vi kommuniserer om det, som er avgjørende for den grad
-av tillit vi kan nyte. Vi må med andre ord ikke
-bare være tydelige om hva vi gjør, men også
-hvorfor, eller eventuelt hvorfor ikke, vi gjør det
-vi gjør. Kommunikasjonsstrategien skal bidra
-til forbedring blant annet med hensyn til:
-– Tydelig kommunikasjon: Det er viktig at vi
-er til stede på flere plattformer og at vi bruker verdibudskap om hva vi gjør og hvorfor
-det har betydning for samfunnet.
-– Enhetlig kommunikasjon: Det er rundt 100
-med uttalelsesrett i påtalemyndigheten og
-vi må etterstrebe å fremstå som én påtalemyndighet, ikke bare i forståelsen av oppgavene men også i hvordan vi kommuniserer om dem.
-– Strategisk (proaktiv) kommunikasjon: Vi er
-i dag ganske reaktive i måten vi forholder
-oss til omverdenen, og spesielt mediene,
-på. Vi bør i det daglige jobbe mer strategisk
-og proaktivt med kommunikasjon ved på
-forhånd å forberede oss på medieoppmerksomhet og lage opplegg for det, ved større
-saker for eksempel. Hva er våre budskap til
-hvem, når, i hvilken kanal? Vi bør ta enda
-mer aktivt eierskap til våre områder; delta
-mer i den offentlige debatten og bidra til å
-sette dagsorden.
-Følgende kommunikasjonsverktøy skal bidra til forbedringer:
-– Medierutiner for Riksadvokatembetet. Ferdigstilt i 2016.
-– Medierutiner for påtalemyndigheten. Under arbeid.
-– Ny hjemmeside med egen presseside, bruk
-av Twitter som ekstra nyhetskanal, god in-
-
-–
-–
-
-–
-
-–
-
-101
-
-Kapittel 5
-
-formasjon om hvem vi er og hva vi gjør, kontaktinformasjon og bedre oversikt over dokumenter. Kravspesifikasjonen er klar og vi
-forventer å gå ut med anbudsrunde på dette
-i 2017, som også vil inkludere anbud på nytt
-intranett og felles profilmanual (retningslinjer for bruk av logo, fonter etc).
-Felles retningslinjer for bruk av sosiale medier. Under arbeid.
-Medietrening. For å sikre at vi har god bevissthet om hvordan vi kommuniserer, tilbys årlig to medietreningsdager ved eksternt byrå i tillegg til løpende rådgiving og
-oppfølging av kommunikasjonsrådgiver
-ved Riksadvokatembetet.
-Felles medieovervåking for å ha bedre
-oversikt over og kunne respondere på mediedekningen. Avtale med mediebyrå er
-inngått i 2016.
-Felles retningslinjer for publisering av dokumenter på ulike plattformer (hjemmesiden, intranett, Kilden, KO:DE, Lovdata).
-Tas når nye plattformer er på plass.»
-
-5.13 Oppsummering
-5.13.1 Respondenter om endringsbehov og
-fagledelse
-Sammenligner en beskrivelsen av faglederrollen i
-1995 og 2016, kan følgende bemerkes. For det første er det egentlig ingen store endringer i beskrivelsen av innholdet i rollen. Dernest er mange av
-de tiltak som ble foreslått i 1995-dokumentet, gjennomført.
-Hva er da behovet for endring? Tidligere politimester Tormod Bakke både reiser og besvarer
-problemstillingen i et notat til Politidirektoratet:35
-«I den tid som har gått siden ‘faglederrollen’
-ble introdusert har det skjedd vesentlige
-endringer som har hatt/har stor betydning for
-rammevilkårene. I de nærmeste år vil det skje
-ytterligere endringer som det må tas hensyn til.
-Av aktuelle problemstillinger og endringer
-nevnes:
-– Innføring av to-instansordningen (fra 1. august 1995)
-– Delegasjon av påtalekompetanse fra statsadvokatnivå til politinivå
-
-35
-
-Notat datert 15. august 2016 – Fagledelse og samhandling
-på straffesaksområdet – behovet for en justering av retningslinjer og rutiner.
-
-[Side 104]
-
-102
-
-NOU 2017: 5
-
-Kapittel 5
-
-En påtalemyndighet for fremtiden
-
-–
-
-Politireform 2000 (reduksjon av antallet politidistrikter fra 54 til 27)
-– Det administrative ansvar for høyere påtale
-overført fra JD til riksadvokaten
-– Nærpolitireformen (reduksjon av antallet
-politidistrikter fra 27 til 12)
-– Endringer i struktur – statsadvokatembeter
-– Fremveksten av digitale/sosiale medier
-– Økt fokus på etterforsking (etterforskingsløftet)
-Dersom riksadvokatens forslag til justering
-av embetenes distriktsinndeling går gjennom36, vil det regionalt ha skjedd store
-endringer i den tiden som er gått siden arbeidet med faglederrollen ble systematisert. Blant
-annet vil åtte av ti statsadvokatembeter fremover bare omfatte ett politidistrikt. Målt etter
-folketall vil bare det største av statsadvokatembetene (Oslo statsadvokatembeter) og det minste (Troms og Finnmark statsadvokatembeter)
-omfatte flere politidistrikter, nemlig to (…).
-For femten år siden var situasjonen i Vestfold og Telemark i 2001 at det var ni politidistrikter. Et eller flere årlige møter med ni politimestre (og kanskje også ni påtaleledere) ga da
-i seg selv en ganske stor og fornuftig kontaktflate mellom statsadvokater og politidistrikter.
-Fra 2016 er situasjonen i den utvidede statsadvokatregionen (Vestfold, Telemark og Buskerud) at det i det nye distriktet er ‘igjen’ én politimester og én påtaleleder. En fortsatt møtesyklus som bare omfatter politimester og påtaleleder gir derfor ingen fornuftig kontaktflate
-mellom statsadvokater og politiet.
-De organisatoriske endringer som har
-skjedd og fortsatt vil skje, tilsier derfor med
-styrke at det er nødvendig med en ny gjennomgang og avklaring av hvordan statsadvokatembetene skal ivareta fagledelsen og hvilke møteplasser/punkter det bør være mellom statsadvokatene og politiet. Det må defineres og etableres et nytt nettverk.»
-
-men vil medføre betydelige endringer av politiets organisering og måten å løse oppgavene på.
-Dette gjelder ikke minst på straffesaksområdet. Politireformen – og Politianalysen – nødvendiggjør derfor en gjennomgang av måten
-høyere påtalemyndighet og politiet, hver for
-seg og sammen, skal jobbe på i årene som kommer. En slik gjennomgang bør ta utgangspunkt
-i Den høyere påtalemyndighets fagansvar. Det
-overordnede perspektiv bør være hvordan høyere påtalemyndighet og politiet i praksis skal
-fordele arbeidsoppgaver og samarbeide/samhandle under endrede rammevilkår.»
-Gjennomgående synes respondentene å være av
-den oppfatning at fagledelsen i den høyere påtalemyndighet både må styrkes og videreutvikles.
-Med styrkes menes å settes i stand til, både kapasitets- og kompetansemessig, å fylle faglederrollen på en måte som gjør at den høyere påtalemyndighet blir en profesjonell aktør som forstår
-den samlede virksomheten i politidistriktet, og
-som oppfattes som aktuell og relevant for politiets
-ledelse.
-Med videreutvikles menes at faglederrollen i
-fremtiden må omfatte mer enn tilsyn og inspeksjoner. Rollen må også utvikles til å bli en mer aktiv
-og løpende interaksjon med aktørene i straffesaksarbeidet. En slik nødvendig utvikling beskrives på litt ulike måter og med bruk av ulike
-begreper. Tormod Bakke bruker begrepet dynamisk fagledelse, og uttaler følgende i sitt notat:
-«Etter min oppfatning bør arbeidet konsentreres om den dynamiske delen av faglederrollen, og i mindre grad om kontrollfunksjonen. Med begrepet ‘dynamisk’ menes i denne
-sammenheng den forpliktelse høyere påtalemyndighet har til å ta initiativ og involvere seg
-i den generelle fagutvikling på straffesaksområdet, herunder for kompetanseutvikling og
-arbeidsprosesser.»
-
-Fra Politidirektoratets ledelse gis det uttrykk for
-lignende tanker. I møtet med utvalget ble følgende
-fremhevet:
-
-Andre respondenter har brukt termen forsterket
-fagledelse.
-
-«Fagledelsen er i for stor grad avgrenset til
-inspeksjoner og tilsyn. Virksomheten burde i
-større grad vært orientert inn mot hele politidistriktet. Statsadvokatene må sette seg inn i,
-og forstå, hele politidistriktet. Nærpolitirefor-
-
-5.13.2 Utvalget om endringsbehov og
-fagledelse
-Påtaleanalyseutvalget har for sin del funnet det
-hensiktsmessig å anvende termen utvidet fagledelse nettopp for å belyse at man i fremtiden skal
-gjøre noe mer enn i dag. I den forbindelse viser utvalget til den viktige sondringen mellom såkalt enkelt- og dobbeltkretslæring.37 Enkeltkretslæring
-
-36
-
-Riksadvokatens brev av 28. juni 2016 til JBD – riksadvokatens ref. 2013/0191-109HST/ggr09.
-
-[Side 105]
-
-103
-
-NOU 2017: 5
-En påtalemyndighet for fremtiden
-
-Mål eller verdier
-
-Kapittel 5
-
-Mangelfull
-måloppnåelse
-
-Atferd
-
-Enkeltkretslæring
-Endre atferd
-Dobbeltkretslæring
-Endre mål og verdier
-
-Figur 5.6
-er uttrykk for at organisasjonen korrigerer for eller utbedrer registrerte feil eller dårlige resultater.
-Ved dobbeltkretslæring søker man ikke bare å
-korrigere avvik og feil, men det evalueres også
-med henblikk på hvordan prosesser, mål og verdier kan gjøres på en ny og mer hensiktsmessig
-måte. Se figur 5.6.
-Som illustrasjon til behovet for å tenke nytt viser utvalget til at arbeidet med å styrke etterforskingen av straffesaker har materialisert seg i en
-omforent handlingsplan.38 Isolert sett er det bred
-enighet om at dette er et viktig og nødvendig
-grep. Utfordringen knytter seg til det faktum at de
-tyngste problemstillingene i etterforskingsløftet
-befinner seg i kjerneområdet for den høyere påtalemyndighets fagansvar. Når de 20 tiltakene i planen skal fylles med innhold, kreves en løpende og
-aktiv deltagelse fra påtalemyndigheten, som ikke
-37
-
-Argyris og Schön skisserer to former for læring: enkelt- og
-dobbelkretslæring, og argumenterer for at mye av læringen i organisasjoner kan karakteriseres som enkeltkretslæring.
-38
-Handlingsplan for løft av etterforskningsfeltet 1.0 med politidirektørens og riksadvokatens forord, datert 31. mai 2016.
-
-kan avgrenses til formelle møtepunkter. I noen
-grad er dette forsøkt etterkommet, men ubalansen mellom Politidirektoratet og påtalemyndigheten gjør at den reelle påvirkningsmuligheten er
-begrenset.
-Etter utvalgets syn er det både logisk og helt
-nødvendig at Den høyere påtalemyndighet har et
-betydelig ansvar for og påvirkning på både det løpende og det langsiktige arbeidet som skjer på etterforskingsfeltet. Eksempelet med handlingsplanen er på ingen måte unikt. Etter utvalgets syn vil
-behovet for en aktiv påtalemyndighet, som også
-tar et betydelig ansvar for implementering og oppfølging av direktiver og retningslinjer i nært samarbeid med de øvrige straffesaksaktørene, ganske
-sikkert forsterkes i tiden fremover.
-Svaret ligger i tiltak og grep som understøtter
-utviklingen av en mer strategisk og styrket fagledelse, og som gradvis vil sette påtalemyndigheten
-i stand til å ta regien for utviklingen på sentrale deler av straffesaksområdet. En slik utvikling har
-både et demokratisk og et kvalitetsmessig perspektiv.
-
-[Side 106]
-
-104
-
-NOU 2017: 5
-
-Kapittel 6
-
-En påtalemyndighet for fremtiden
-
-Kapittel 6
-
-Samfunnsmessige utviklingstrekk – aktuell teori
-Men det finnes forskjellige kilder som kan
-kaste lys over kvalitative endringer i kriminaliteten (…).
-Politimetodeutvalget2 la til grunn at kriminalitetsbildet på det tidspunktet kvalitativt
-skilte seg fra det tradisjonelle. Det ble særlig
-pekt på bedre organisering og fleksibilitet hos
-de kriminelle, økt samarbeid mellom ulike kriminelle nettverk, en større mobilitet over landegrenser, en større grad av sammenblanding
-av illegal og legal virksomhet og fare for økt
-brutalitet. Et flertall av høringsinstansene sa
-seg enig i denne oppfatningen av kriminalitetsutviklingen, som hovedsakelig var basert på
-inntrykk og erfaringer fra enkeltsaker. Departementet la den inntrykksbaserte kriminalitetsutviklingen til grunn i det videre lovarbeidet. Metodekontrollutvalget fant ikke grunnlag
-for at utviklingen hadde endret seg vesentlig siden 1997, jf. NOU 2009: 15 s 78.»3
-
-En fremtidig styring, organisering og innretning
-av påtalemyndigheten må vurderes i lys av de
-endringer og utviklingstrekk som finner sted i omgivelsene. Kriminalitets- og samfunnsutviklingen,
-globale endringskrefter, inntoget av New Public
-Management i offentlig sektor og nye normative
-krav til styring og ledelse av statlige virksomheter,
-utgjør sterke endringskrefter.
-Utvalget vil i det følgende gjengi et utvalg kilder som beskriver denne utviklingen.
-Beskrivelsen inneholder viktige premisser for
-utvalgets senere drøftinger.
-
-6.1
-
-Kriminalitets- og samfunnsutviklingen
-
-6.1.1 Johs. Andenæs, alminnelig strafferett
-I boken Alminnelig strafferett redegjøres det for
-sentrale hovedtall i statistikken for forbrytelser,
-slik begrepet ble brukt i straffeloven av 1902. En
-viktig observasjon er at de ca. 253 000 forbrytelsene som ble anmeldt i 2014, representerer en
-nedgang på seks prosent sammenholdt med foregående år. Tar man også hensyn til at befolkningen i dag har økt til over 5 millioner,
-
-6.1.2 Politianalysen
-Politianalysen har et eget kapittel om
-utviklingstrekk i samfunnet og kriminaliteten,
-hvor det blant annet heter:4
-
-«… er omfanget av anmeldte lovbrudd lavere
-enn i alle tidligere år det finnes sammenlignbar
-statistikk for (1993–2013)».1
-
-«Kriminaliteten er totalt sett fallende, og målt i
-antall anmeldelser pr 1000 innbyggere har den
-anmeldte kriminaliteten gått kraftig ned.»
-
-Samtidig som den samlede registrerte kriminaliteten har gått ned de siste ti år, noe som særlig har
-sammenheng med et betydelig fall i antall vinningslovbrudd, reiser forfatterne spørsmålet om
-hvorvidt det er grunnlag for å si at kriminaliteten
-også har endret seg rent kvalitativt:
-
-Samtidig peker analysen på et kriminalitetsbilde i
-endring, med
-
-«Spørsmålet om kvalitative endringer lar seg
-ikke lese ut av de registrerte tall på samme
-måte som endringer i kriminalitetens omfang.
-1
-
-Andenæs, Johs, Alminnelig strafferett, ved Georg Fredrik
-Rieber-Mohn og Knut Erik Sæther, 6. utgave 2016 side 31.
-
-«… vekst innenfor noen alvorlige kriminalitetstyper som er krevende å etterforske, blant
-annet seksualforbrytelser, organisert og grenseoverskridende kriminalitet og cyber-kriminalitet».
-2
-3
-4
-
-NOU 1997: 15 side 24 flg.
-Andenæs, Johs, Alminnelig strafferett side 39.
-NOU 2013: 9 side 67 flg.
-
-[Side 107]
-
-NOU 2017: 5
-En påtalemyndighet for fremtiden
-
-Den økte kompleksiteten i kriminalitetsbildet, og
-betydningen dette vil få for politietaten, blir fremhevet. Det er flere trekk ved kriminalitetsutviklingen som trolig vil endre kravene til fremtidens polititjenester:
-– Kriminalitetsbildet vil endre seg.
-– Kriminaliteten vil flytte på seg.
-– Kriminalitetsbildet vil bli mer komplekst, sammenvevd og mangfoldig.
-– Etterforskningen og iretteføringen er mer ressurskrevende.
-I oppsummeringen heter det at det er «et behov
-for færre politidistrikter, mer spesialisering, vektlegging av internasjonalt samarbeid og samarbeid
-med andre offentlige etater.»
-
-6.1.3 Politiets omverdenanalyse 2015
-Omverdensanalysen vurderer faktorer som er viktige for fremtidige kriminalitetsutfordringer i
-Norge.
-Analysen gir et overordnet bilde av kriminalitetsutfordringene og skal danne et kunnskapsgrunnlag for utvikling og styring av politiet. I det
-følgende gis et kortfattet sammendrag.
-Samfunnsutvikling – Konflikter, naturkatastrofer og fattigdom driver mange på flukt. Migrantstrømmene har økt kraftig de siste årene,
-også til Norge. Den kraftige økningen i tilstrømning av asylsøkere og andre migranter kan skape
-kriminalitetsutfordringer, både på kort og lang
-sikt.
-Teknologisk utvikling – I dag griper den teknologiske utviklingen inn i en stadig større del av
-folks hverdag. Internett bidrar til å gjøre kriminaliteten mer grenseoverskridende. Utviklingen stiller nye krav til politiets oppgaveløsning, både i
-form av mer spisset kompetanse og nye IKT-verktøy.
-Økonomisk utvikling – Den økonomiske utviklingen fører til samfunnsendringer, som igjen påvirker kriminalitetsbildet. Kriminalitet over landegrenser skaper utfordringer når det gjelder internasjonal og nasjonal etterretning og etterforsking,
-og ved utlevering av lovbrytere. Økt grenseoverskridende kriminalitet krever løpende utvikling av
-systemer og løsninger innenfor det internasjonale
-politisamarbeidet.
-Miljøutvikling – Klimaendringene er globale,
-men konsekvensene er lokale og vil ramme regioner og land ulikt. Klimaendringer kan føre til migrasjon, som igjen kan gi sikkerhetspolitiske utfordringer for landene som mottar menneskene
-som flytter på seg.
-
-105
-
-Kapittel 6
-
-Politisk utvikling – I store deler av Midtøsten
-har konflikt og uro destabilisert allerede skjøre
-statsdanninger. Globaliseringen knytter verden
-tettere sammen, og for Norge og norske interesser kan utvikling og hendelser langt unna raskt få
-alvorlige konsekvenser. Internett benyttes for å
-spre ekstreme synspunkter. Korrigert for folketallet er andelen norske fremmedkrigere blant de
-høyeste i Europa.
-
-6.1.4 Straffeprosessutvalgets vurderinger
-En vellykket kriminalpolitikk forutsetter kunnskap for å kunne foreta hensiktsmessige prioriteringer. Både generelt og på enkeltsaksnivå krever
-ressurshensyn at det tas stilling til hvilke kriminalitetstyper, personer og saker som skal straffeforfølges. Straffeprosessutvalget var opptatt av at
-straffeprosessloven reflekterer det reelle trusselog kriminalitetsbildet, og rettet en forespørsel til
-sosiolog Lisbeth Fullu Skyberg og tidligere statsadvokat, nå forsker, Gert Johan Kjelby, som ble
-bedt om å vurdere henholdsvis
-1. holdbarheten av premissene lagt til grunn for
-utvalgets mandat om at kriminaliteten kjennetegnes ved «økt profesjonalisering, organisering og internasjonalisering», og at det resulterer i «stadig mer komplekse saker med en stadig mer omfattende bevisførsel», og
-2. hvilke forhold eller mekanismer som er av betydning for straffesaksbehandlingens effektivitet, og hvordan disse påvirkes av den «nye» kriminaliteten.
-Spørsmålene er besvart i rapporten En vurdering
-av enkelte premisser for en ny straffeprosesslov, hvor
-det blant annet heter:5
-«Premissene om at kriminalitetsbildet er i endring og kjennetegnes av økt profesjonalisering,
-organisering og internasjonalisering, er det en
-viss dekning for. Men kildegrunnlaget er begrenset (først og fremst forankret i politiets
-analyser), uttalelser om dette er inntrykksbasert og generelle (angitt som ‘trender’ eller at
-det er ‘innslag av’ slike forhold) og i hvilken
-grad og – ikke minst – i hvor mange saker disse
-forholdene er til stede, er usikkert. Økningen i
-antall siktede og tiltaler mot personer med
-utenlandsk statsborgerskap synes å være en
-entydig endring i kriminalitetsbildet i de større
-byer. Endringer i kriminalitetsbildet har ført til
-flere aktører i rettsprosessene (jf. tall for med5
-
-NOU 2016: 24 side 738 (vedlegg 2).
-
-[Side 108]
-
-106
-
-NOU 2017: 5
-
-Kapittel 6
-
-En påtalemyndighet for fremtiden
-
-domsrettsaker i tingretten), først og fremst tolker og bistandsadvokater, men uten at det ses
-at dette har gitt målbare utslag (jf. neste pkt.).
-Dersom det legges til grunn at disse endringer
-har vært virksomme i perioden 2005–2014, er
-det vanskelig å finne statistisk belegg for at de
-faktisk har medført vesentlige endringer i antall store og omfattende saker og for tidsbruken i domstolene.»
-«Premisset om at det er ‘stadig mer komplekse saker med en stadig mer omfattende bevisførsel’, har ikke generell gyldighet. Straffesaker med tidsbruk over 60 rettstimer, har
-over år vært stabilt både i antall, tidsbruk og i
-antall tiltalte i hver sak. Basert på det samlede
-antall saker som hvert år behandles i domstolene, er det kun et svært begrenset antall saker
-som kan karakteriseres som ‘komplekse med
-… omfattende bevisførsel’.»
-
-6.2
-
-New Public Management
-
-Fremveksten og oppbyggingen av den moderne
-velferdsstaten har preget utviklingen av de vesteuropeiske demokratiene i tiden etter andre verdenskrig. Staten/offentlig sektor har grepet inn
-på stadig nye samfunnsområder, og etterkrigstiden har vært en tid med vekst og ekspansjon. Utover 1980-tallet ble det stadig oftere satt spørsmålstegn ved offentlig sektors begrunnelse og
-rolle, og kritiske røster argumenterte for behovet
-for en fornying og styrking («modernisering») av
-hele sektoren. Utfordringene gikk særlig på legitimitet, økonomisk effektivitet, fleksibilitet og styrbarhet. Kjernen i den kritiske argumentasjonen
-var og er at offentlig sektor må ta inn over seg
-markante endringer i samfunnsutviklingen. Glo-
-
-balisering, miljø og individualisering har vært
-fremhevet, og i kombinasjon med store og ekspanderende budsjettunderskudd bidro dette til at
-landene gradvis begynte å søke etter nye måter å
-organisere og styre offentlig sektor på. Denne moderniseringen går under samlebetegnelsen New
-Public Management (NPM), og omtales av Kurt
-Klaudi Klausen som et samlekonsept for en rekke
-reformer og teknikker. Tankegodset bygger dels
-på en økonomisk-rasjonal søyle (effektiv bruk av
-finansielle ressurser, det vil si hvordan gjøre offentlig sektor mer effektiv ved bruk av markedsinspirerte virkemidler), dels på en organisasjons- og
-ledelsessøyle (effektiv bruk av menneskelige ressurser).6 I sistnevnte finner vi forestillinger om
-(og troen på) universelle styringsinstrumenter
-som kan gjøres gjeldende uansett kontekst. Økt
-bruk av konsulenter og innføringen av ulike organisasjonsmodeller («halvfabrikata») er uttrykk for
-dette. Tilhengere anfører at dette har effektivisert
-politiet. Skeptikere viser gjerne til at klassisk produksjonstenkning ikke passer like godt innenfor
-alle deler av politietaten.
-Påtalemyndigheten er en planstyrt etat. I praksis innebærer dette at ulike virkemidler aktivt benyttes til å nå oppstilte mål. Leif Johansen7 har utviklet følgende modell som illustrerer hvorledes
-virkemidler (politiets ressurser og metoder) aktivt
-brukes på variabelen X (kriminaliteten). I motsetning til andre virksomheter kjennetegnes politiets
-virksomhet ved at kriminaliteten er uforutsigbar.
-Løsningen er en dynamisk politistruktur, illustrert
-i figur 6.1.
-
-6
-7
-
-Busch, Tor m.fl., 2005 side 28 flg.
-Johansen, Leif, Prinsipielle betraktninger om prognoser og
-langtidsplanlegging, side 58.
-
-Preferanseskala
-Ikkekontrollerbare element
-
-xz
-Struktur og funksjon i
-økonomien
-
-Aksjonsparametere
-(politikk)
-
-Figur 6.1
-
-Målstørrelser
-
-X
-
-[Side 109]
-
-NOU 2017: 5
-En påtalemyndighet for fremtiden
-
-Moderniseringen har satt påtalemyndigheten
-og politiet bedre i stand til å føre en løpende kontroll med kostnader og aktiviteter. Samtidig utfordres helhetstenkningen. Innenfor deler av den organiserte kriminaliteten har det eksempelvis vist
-seg krevende å skape egnede strukturer for sakstilfang og saksansvar, formulere hensiktsmessige måleparametere og indikatorer, utvikle adekvate og tilstrekkelig gode belønningssystemer
-og implementere systematiske evalueringer.
-
-6.3
-
-Generelle signaler om virksomhetsstyring i statsforvaltningen
-
-6.3.1 Innledning
-Alle sosiale systemer er i konstant utvikling. Samtidig viser historien at det er vanskelig å spå om
-fremtiden. Strategiarbeid er ingen eksakt vitenskap. Dette er imidlertid ikke et argument for
-ikke å jobbe aktivt og målrettet med å utvikle organisasjonens strategiske plattform.8
-Innen statsforvaltningen gjør nye krav til styring og ledelse seg gjeldende. Mye av denne utviklingen er knyttet til ledelse, hvor nye normative
-krav og forventninger kommer til uttrykk på ulike
-måter og i ulike sammenhenger. 22. juli-kommisjonen mente eksempelvis at hovedutfordringene
-etter terrorangrepene mot regjeringskvartalet og
-på Utøya var knyttet til holdninger, kultur og lederskap.
-Påtaleanalyseutvalget har sett det nødvendig å
-plassere problemstillingene knyttet til styring og
-ledelse inn i en organisasjonsteoretisk kontekst,
-og rettet derfor en forespørsel til professor Jan
-Ole Vanebo ved Nord universitet. Oppdraget besto i å gi en fremstilling av hvilke krav og forventninger som i dag stilles til styring og ledelse av offentlige virksomheter.9
-6.3.2 Strategi og policy
-Strategi og policy er sentrale begreper for en etat
-med en egen identitet – som påtalemyndigheten.
-Begrepet strategi har en militær opprinnelse
-og mening, og det er vanlig å henvise til Sun Tzus
-The Art of War fra ca. år 500 f.Kr. som den første
-læreboken i faget. I militær betydning betegner
-strategi den overordnede planen for hvordan fienden skal nedkjempes og krigen vinnes, mens taktikk vil være de enkeltstående og konkrete hand8
-9
-
-Se punkt 6.3.3.
-Vanebo, Jan Ole: Ledelse og ledelsespraksis i det offentlige
-– Veikart til ledelseslisens, 2016.
-
-107
-
-Kapittel 6
-
-lingene på slagmarken.10 Alfred D. Chandler definerte i 1962 strategi som «fastlegging av de
-grunnleggende langsiktige målene til et foretak
-og allokering av ressurser som er nødvendig for å
-nå de målene». Begrepet har gradvis vunnet innpass på andre samfunnsområder,11 og innenfor organisasjonslivet defineres strategi gjerne som den
-langsiktige planen for hvilken retning organisasjonen på sikt skal ta for å nå sine overordnede mål.
-Strategiske planer bør normalt finnes på flere nivåer i organisasjonen, hvor alle bygger opp under
-en overordnet strategi.12
-Policy er en strategi som er resultatet av en politisk prosess. Selznick bruker begrepet «basic policy» (grunnleggende policy) om «something
-more than mere permanence; it has long-run implications for the organization, not merely in being
-permanent, but even more in deciding central
-aims and distinctive methods».13 Dette blir så fundamentet for institusjonalisering og institusjonens
-særpregede kompetanse («distinctive competence»).
-
-6.3.3 Strategisk plattform
-Offentlig strategi er virksomhetens systematiske
-bruk av offentlige ressurser og makt for å nå offentlige mål. Her synliggjøres samspillet mellom
-en organisasjon og dens omgivelser. Eksistensgrunnlaget er formet av relasjonene til nøkkelinteressentene. Gjennom ansvarlig og kreativt lederskap skal etaten sikres god måloppnåelse med
-hensyn til drift, nødvendig tilpasning og ønsket utvikling. Helt grunnleggende står spørsmålet om å
-skape, tilpasse og videreutvikle en strategisk plattform, se figur 6.2.14
-Alle offentlige organisasjoner og virksomheter
-har et definert og lovregulert formål eller mandat.
-Gjennom en hensiktsmessig strategisk plattform,
-tilpasset omgivelsenes krav, endringer og forventninger, skal oppdraget løses. Denne strategiske
-plattformen er en kombinasjon av påførte (imposed), fremvoksende (emerging) og egeninitierte
-strategier. Organisasjoner omformes over tid til
-institusjoner,15 som kjennetegnes av forpliktelse
-og en engasjerende holdning til verdier, gjerne
-10
-11
-12
-13
-14
-15
-
-Robert Grant, Contemporary strategy analysis, 4. Utgave
-2002 side 16 flg.
-Chandler etablerte strategi som vitenskapelig disiplin med
-sin bok fra 1962, Strategy and structure.
-Johnson, Choles og Richard, Exploring corporate strategy,
-7. Utgave 2005 side 11 flg.
-Selznick 1957 side 56.
-Sanchez og Heene 2004.
-Selznick 1957 side 17.
-
-[Side 110]
-
-108
-
-NOU 2017: 5
-
-Kapittel 6
-
-En påtalemyndighet for fremtiden
-
-Egeninitierte
-(intensjonelle)
-strategier
-
-Ikke realiserte, intensjonelle strategier
-Bevisste, realiserte intensjonelle strategier
-
-Institusjonelle
-omgivelser
-
-Formål
-
-Politisk vedtatte og
-påførte strategier
-
-Strategisk
-plattform
-
-Tekniske
-omgivelser
-Emergerende
-(fremvoksende)
-strategier
-
-Figur 6.2
-bygget inn i den sosiale strukturen. På denne måten skaffer organisasjonen seg en egen identitet.
-
-6.3.4 Strategi og struktur
-Chandler hevdet at strategi og struktur nærmest
-er siamesiske tvillinger. Struktur omfatter design
-(formelt og uformelt) av en organisasjon som organisasjonen administreres gjennom. Det er to aspekter i strukturen. Det ene er autoritets- og kommunikasjonslinjene mellom de forskjellige organisatoriske enhetene, det andre er den informasjon
-og data som flyter gjennom disse linjene. Gjennom organisasjonsstrukturen angis hvem som
-skal ha ansvaret for ulike oppgaver. Denne må utformes med sikte på å oppnå nødvendig legitimitet16 i omgivelsene, ettersom strategisk ledelse i
-offentlig sektor i økende grad må akseptere og
-håndtere kritiske vurderinger av kvaliteten av beslutningsprosesser, myndighetsutøvelse og tjenestene. Strategi og strategisk ledelse i det offentlige innbefatter en planmessig utadrettet kommunikasjon og profilering, eller det som gjerne betegnes som omdømmehåndtering.
-6.3.5 Universelle utviklingstrekk
-Professor i sosiologi Anthony Giddens har beskrevet tre megatrender som i dag anerkjennes som
-universelle utviklingstrekk:
-16
-
-Begrepet kan tilbakeføres til Selznick (1948), som observerte at organisasjoner forsøkte å tilpasse seg verdiene i
-omgivelsene. Begrepet utgjør i dag et sentralt element
-innen nyinstitusjonell teori.
-
-–
-
-–
-–
-
-Globaliseringen. Denne slår inn på alle samfunnsområder. For påtalemyndigheten gir
-dette seg utslag i en mer mobil, organisert og
-grenseløs kriminalitet, oppblomstring av IKTkriminalitet, utfordringer knyttet til å fastslå
-identiteten på kriminelle, osv.
-Den digitale revolusjonen. Denne har vi på ingen måte sett slutten på.
-Individualiseringen. Utviklingen har ført til det
-man gjerne kaller rettighetssamfunnet. En
-konsekvens for politiet og påtalemyndigheten
-er at «alt» må dokumenteres, bruken av klagemuligheter tiltar, osv.
-
-Disse megatrendene slår inn i enhver organisasjon, og påvirker også statlige monopoler. For påtalemyndighetens del er inntoget av granskingsinstituttet et synlig eksempel på endringer i omgivelsene som på sikt kan påvirke egen virksomhet.
-
-6.3.6 Nye krav til statlige virksomheter
-Opprettelsen av Moderniseringsdepartementet,
-senere Kommunal- og moderniseringsdepartementet, må ses i sammenheng med inntoget av
-NPM og nye krav til statlige virksomheter. Disse
-nye kravene til styring er i dag å anse som institusjonaliserte og ufravikelige.
-Økonomireglementet fra 1996 (fornyet i 2013)
-baserer seg på prinsippene for mål- og resultatstyring, tar opp i seg gjeldende krav til virksomhetsstyring, og er premissgivende for all statlig virksomhet. Det nye styringsregimet har hatt et forsterket fokus på virksomhetsstyring, der forret-
-
-[Side 111]
-
-NOU 2017: 5
-En påtalemyndighet for fremtiden
-
-109
-
-Kapittel 6
-
-Figur 6.3
-ningslogikken koloniserer forvaltningslogikken
-med krav til effektivitet, manifestert i et nytt økonomireglement for staten. Konkret har dette gitt
-seg utslag i nye former for økonomistyring, budsjettpraksis, regnskapsføring og bruk av økonomiske insentiver. Krav til virksomhetens interne
-styring er omtalt i kapittel 2 i Reglement for økonomistyring i staten. Kapitlet omhandler virksomhetens interne styring, herunder krav til myndighets- og ansvarsstrukturer, styringsprosesser, internkontroll og kontroll av transaksjoner. Innledningsvis i kapitlet heter det:
-«Bestemmelsene i kapittel 1 om departementets styring av underliggende virksomheter
-kan så langt det passer benyttes for virksomhetens styring av driftsenheter innenfor virksomheten. Dersom virksomheten finner det
-hensiktsmessig å stille de tildelte midlene til
-disposisjon for virksomheter innenfor virksomheten, skal denne skje skriftlig.»
-I 2008 kom Plattform for ledelse, med sine krav til
-profesjonell ledelse. Plattformen er videreført av
-nåværende regjering (lederplakaten), se figur 6.3.
-
-Plattformen bygger på fire generelle ledelses(grunn)funksjoner og krav til lederatferd:
-– strategi
-– drift
-– relasjonsbygging
-– kommunikasjons- og informasjonsfunksjoner
-Statlige virksomheter er gitt et handlingsrom til å
-utøve disse funksjonene. Drift («kjernevirksomhet») får naturlig oppmerksomhet. Det kritiske
-kulepunktet er strategi. Klarer organisasjonen
-fortløpende å fornye seg, ta opp i seg løpende endringsbehov? Er man organisert på en måte som
-støtter oppunder og bidrar til at strategi og utvikling gis fortløpende og tilstrekkelig oppmerksomhet? Er strategiarbeidet gitt et «organisatorisk uttrykk»?
-Professor Vanebo understreker, at for hver
-strategisk målsetting må det være en organisatorisk struktur (en kobling av kompetanse, ansvar
-og roller) og en insentivstruktur. «Hvis ikke blir
-den strategiske målsettingen varm luft!». På
-denne måten sikres organisasjonens strategiske
-plattform. Gode planer er viktig, men sier erfa-
+- utvalgets egen vurdering (punkt 7.7)
+
+  1.  **JUS-tall og andre empiriske størrelser**
+
+En av faktorene utvalget har sett hen til, er empiri som politiet besitter, i første rekke såkalte JUS-tall. Hvorvidt slike tallstørrelser (040-koder, etc.) helt presist måler produksjon eller effektivitet, er diskutabelt. Utvalgets behov er avgrenset til tall som på aggregert nivå kan si noe om en utvikling over tid. I så måte anses disse tallstørrelsene som relevante og egnede.
+
+Enkelte av tallstørrelsene er også omhandlet i kapittel 3 og 8.
+
+1.  **Antall anmeldelser**
+
+Året 2002 var et rekordår, med over 437 000 anmeldte lovbrudd.[^202] [^203] Utviklingen har deretter vært jevnt nedadgående, til tross for en økning i både antall polititjenestemenn og borgere. Trenden er felles for de fleste vesteuropeiske land, og har sammenheng med en markant nedgang i anmeldt vinningskriminalitet. Tallet på anmeldte lovbrudd var i 2015 i overkant av 352 000.[^204]
+
+1.  **Produksjon/produktivitet**
+
+Tallmateriale per 25. oktober 2016 viser utviklingen av positive påtaleavgjørelser for årene 2009–2015, se figur 7.2.[^205]
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Antall positive påtaleavgjørelser (antall saker)
+
+Nedgangen i gjennomsnittlig produksjonen per påtalejurist illustreres ved følgende tall:
+
+- 2009: 340 saker
+
+- 2014: 294 saker
+
+- 2015: 266 saker
+
+Utviklingen må ses i sammenheng med nedgangen i antall anmeldelser og en økning i antall påtalejurister. Nedgangen er derfor ikke ensbetydende med at det jobbes mindre enn tidligere, men dokumenterer at gjennomsnittlig antall positive påtaleavgjørelser på landsbasis er synkende.
+
+I figur 7.3 fremgår den distriktsvise produksjonen av positive påtaleavgjørelser inndelt per påtalejurist. I denne og tabell 7.2 brukes den gamle distriktsinndelingen. Dette for å få med historiske tall og utvikling.
+
+**\[:figur:figX-X.jpg\]**
+
+1.   
+
+    1.   
+
+|  |  |  |  |
+|----|----|----|----|
+| Politidistrikt | Positive påtaleavgjørelser per påtalejurist |  |  |
+|  |  |  |  |
+|  | 2009 | 2014 | 2015 |
+|  |  |  |  |
+| Vestfold | 602 | 406 | 372 |
+| Agder | 555 | 450 | 406 |
+| Hedmark | 502 | 471 | 355 |
+| Gudbrandsdal | 460 | 268 | 246 |
+| Sogn og Fjordane | 411 | 316 | 290 |
+| Østfold | 409 | 262 | 306 |
+| Telemark | 402 | 387 | 348 |
+| Vestoppland | 400 | 262 | 253 |
+| Follo | 386 | 257 | 296 |
+| Romerike | 385 | 371 | 331 |
+| Hordaland | 374 | 316 | 235 |
+| Sunnmøre | 362 | 368 | 356 |
+| Sør-Trøndelag | 347 | 302 | 235 |
+| Søndre Buskerud | 347 | 300 | 289 |
+| Nord-Trøndelag | 341 | 280 | 257 |
+| Vestfinnmark | 337 | 273 | 229 |
+| Salten | 334 | 324 | 228 |
+| Nordre Buskerud | 319 | 231 | 278 |
+| Troms | 291 | 275 | 213 |
+| Haugaland og Sunnhordland | 283 | 380 | 302 |
+| Rogaland | 272 | 290 | 229 |
+| Asker og Bærum | 248 | 185 | 249 |
+| Nordmøre og Romsdal | 247 | 300 | 262 |
+| Helgeland | 237 | 265 | 328 |
+| Østfinnmark | 237 | 196 | 202 |
+| Oslo | 234 | 211 | 186 |
+| Midtre Hålogaland | 233 | 230 | 210 |
+| Gjennomsnitt | 340 | 294 | 266 |
+|  |  |  |  |
+
+Tallene viser store produksjonsforskjeller mellom politidistriktene. Samtidig har forskjellene blitt noe mindre enn for eksempel i 2009. Tallene angir positive påtaleavgjørelser og sier ingenting om antall saker som henlegges. Det skilles heller ikke mellom store og alvorlige saker og mindre ressurskrevende «mengdesaker».
+
+1.  **Restanser**
+
+Tallene viser at restanseutviklingen i politidistriktene er positiv, se figur 7.4.[^206] Fra 2013 til utgangen av 2016 gikk restansene over tre måneder ned med nesten 22 prosent. For restansene over 12 måneder er også utviklingen positiv. Her er nedgangen på ca. 26 prosent i samme periode.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  **En endring i den påtalemessige behandlingen av straffesakene?**
+
+    1.  *Problemstillingen*
+
+En mulig forklaring på nedadgående produksjonstall er at påtalejuristene jobber mindre enn tidligere. En slik konklusjon er likevel på ingen måte gitt, og vil også i noen grad variere mellom politidistriktene. Eksempelvis kan det ha skjedd endringer i måten påtalemyndigheten materielt sett behandler hver enkelt straffesak på, eller det brukes mer tid på oppgaver som ikke er direkte målbare. Det er ingen enkel oppgave å finne måleparametere som på en valid måte belyser problemstillingen. I det følgende vil utvalget likevel peke på enkelte ikke-uttømmende faktorer som anses relevante.
+
+1.  *Økt antall henleggelser?*
+
+I tabell 7.3[^207] gis en oversikt over antall henlagte saker for perioden 2009–2015. Tabellen skiller ikke mellom uoppklarte og oppklarte henlagte saker. I likhet med positive påtaleavgjørelser, dokumenteres en nedgang i det totale antallet. Særlig stor er nedgangen i Oslo politidistrikt; politidistriktet med det største straffesaksantallet. Utviklingen bør i noen grad ses i sammenheng med den generelle nedgangen i anmeldt kriminalitet, særlig innen vinningskriminaliteten. Oversikten sondrer ikke mellom de forskjellige sakstypene eller den konkrete henleggelsesgrunnen. Saker hvor det mangler informasjon om gjerningsperson, henlegges gjerne raskt og uten at det foretas etterforskingsskritt.
+
+1.   
+
+|  |  |  |  |  |  |  |  |
+|----|----|----|----|----|----|----|----|
+|  | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 |
+|  |  |  |  |  |  |  |  |
+|  | henlagte forhold/saker | henlagte forhold/saker | henlagte forhold/saker | henlagte forhold/saker | henlagte forhold/saker | henlagte forhold/saker | henlagte forhold/saker |
+|  |  |  |  |  |  |  |  |
+| 201 Oslo | 75 770 | 73 435 | 75 198 | 76 662 | 72 708 | 63 423 | 55 723 |
+| 202 Øst | 32 491 | 32 248 | 29 304 | 29 974 | 28 474 | 28 479 | 28 671 |
+| 203 Innlandet | 13 856 | 13 769 | 12 810 | 13 072 | 13 028 | 11 885 | 11 713 |
+| 204 Sør-Øst | 31 257 | 29 936 | 28 237 | 28 539 | 28 187 | 28 549 | 27 049 |
+| 205 Agder | 16 133 | 14 588 | 12 975 | 12 731 | 12 820 | 13 220 | 13 637 |
+| 206 Sør-Vest | 20 898 | 19 746 | 19 578 | 21 313 | 21 652 | 23 057 | 21 258 |
+| 207 Vest | 24 681 | 23 079 | 23 607 | 22 993 | 24 059 | 23 673 | 21 920 |
+| 208 Møre og Romsdal | 7 230 | 7 099 | 6 909 | 6 580 | 6 424 | 6 759 | 6 646 |
+| 209 Trøndelag | 16 807 | 19 430 | 17 805 | 16 748 | 17 988 | 17 459 | 14 842 |
+| 210 Nordland | 8 871 | 8 565 | 8 701 | 8 777 | 8 345 | 8 376 | 7 709 |
+| 211 Troms | 4 661 | 4 383 | 4 630 | 4 561 | 4 291 | 4 206 | 3 549 |
+| 212 Finnmark | 2 921 | 3 566 | 3 190 | 3 194 | 3 118 | 3 243 | 2 809 |
+| 56 Kripos | 42 | 47 | 45 | 93 | 387 | 97 | 49 |
+| 60 Økokrim | 75 | 29 | 49 | 57 | 49 | 78 | 25 |
+|  |  |  |  |  |  |  |  |
+| 62 Sysselmannen på Svalbard | 66 | 65 | 40 | 61 | 79 | 59 | 90 |
+|  |  |  |  |  |  |  |  |
+| Sum Distrikt | 255 759 | 249 985 | 243 078 | 245 355 | 241 609 | 232 563 | 215 690 |
+|  |  |  |  |  |  |  |  |
+
+I andre tilfeller som for eksempel voldssaker og annen alvorlig kriminalitet, kan en sak bli etterforsket over lenger tid, selv om den til slutt ender med henleggelse.
+
+1.  *Saksbehandlingstid*
+
+Den gjennomsnittlige saksbehandlingstiden varierer noe fra år til år, men har over tid vært relativt stabil, se tabell 7.4.
+
+1.  Saksbehandlingstid for oppklarte lovbrudd etter kriminalitetstype, 2012–2016
+
+|                 |      |      |      |      |      |
+|-----------------|------|------|------|------|------|
+|                 | 2012 | 2013 | 2014 | 2015 | 2016 |
+|                 |      |      |      |      |      |
+| Økonomi         | 199  | 204  | 202  | 177  | 183  |
+| Vinning         | 99   | 102  | 108  | 96   | 98   |
+| Vold            | 113  | 119  | 127  | 119  | 111  |
+| Seksuallovbrudd | 169  | 166  | 157  | 165  | 159  |
+| Narkotika       | 94   | 102  | 110  | 105  | 101  |
+| Skadeverk       | 103  | 110  | 112  | 108  | 100  |
+| Miljø           | 176  | 140  | 139  | 127  | 112  |
+| Arbeidsmiljø    | 264  | 307  | 280  | 236  | 253  |
+| Trafikk         | 72   | 77   | 84   | 74   | 68   |
+| Annen           | 76   | 75   | 82   | 80   | 85   |
+| Totalt          | 92   | 97   | 102  | 95   | 94   |
+|                 |      |      |      |      |      |
+
+Sett i sammenheng med at restansene også synker, og da særlig de eldste sakene, indikerer dette en positiv utvikling. Et logisk resonnement tilsier at nedarbeiding av de eldste sakene i en periode lett medfører økt saksbehandlingstid.
+
+1.  *Antall fengslinger*
+
+Fengslinger kan være ressurskrevende. Saken må gis høy prioritet, etterforskingsskritt må gjennomføres som forutsatt. Dessuten medfører førstegangsfengslinger og fengslingsforlengelser at det medgår tid til rettsmøter og andre forberedelser. Tabell 7.5 viser at antallet førstegangsfengslinger har hatt en økning på ca. 38 prosent fra 2005 til 2015. For fengslingsforlengelser er økningen i samme periode på ca. 99 prosent.
+
+1.  Antall fengslinger
+
+|      |                       |                      |
+|------|-----------------------|----------------------|
+| År   | Fengslingsforlengelse | Førstegangsfengsling |
+|      |                       |                      |
+| 2005 | 4 150                 | 3 292                |
+| 2006 | 4 457                 | 3 494                |
+| 2007 | 5 206                 | 3 506                |
+| 2008 | 5 756                 | 3 480                |
+| 2009 | 6 266                 | 4 239                |
+| 2010 | 7 800                 | 4 460                |
+| 2011 | 7 089                 | 4 287                |
+| 2012 | 7 638                 | 4 679                |
+| 2013 | 8 364                 | 5 056                |
+| 2014 | 8 739                 | 4 950                |
+| 2015 | 8 261                 | 4 545                |
+|      |                       |                      |
+
+1.  *Antall rettsdager*
+
+Straffeprosessutvalget fikk som del av sin utredning utarbeidet rapporten *En vurdering av enkelte premisser for en ny straffeprosesslov.*[^208] Hovedpunktene i denne rapporten er gjengitt i NOU 2016: 24 s. 125 flg. Når det gjelder «store og omfangsrike saker«[^209] viser undersøkelsen en stabil situasjon. Antallet meddomsrettssaker i tingrettene hvor det har medgått mer enn 60 rettstimer, er stabilt for perioden 2005–2014. Fra rapporten siteres:[^210]
+
+«Ser man bort fra år 2008 og 2011 (henholdsvis 43 og 46 saker), ligger saksantallet for ‘store og omfangsrike’ straffesaker, stabilt på 30–38 saker pr. år. Oslo tingrett dominerer, og behandler omtrent halvparten av sakene for hvert år, men også her er årlig antall nokså stabilt i hele perioden.
+
+Tallene gir etter vår oppfatning *ikke* grunnlag for å konkludere med at antall store saker, slik de her defineres, har vært økende i perioden 2005–2014.»
+
+Av det totale antallet meddomsrettssaker som er behandlet, utgjør de «store og omfangsrike» sakene kun et lite mindretall. Om dette heter det følgende:[^211]
+
+«I 2010 behandlet *tingrettene* til sammen 15 243 *meddomsrettssaker.* Av disse var altså 34 saker å anse som «store og omfangsrike», hvilket utgjør *beskjedne 0,22 % av det samlede antall saker.* Tilvarende er situasjonene for perioden 2011–2014: I 2011 var tallet 46 av 15 735 (0,29 %), i 2012 30 av 15 095 (0,20 %), i 2013 33 av 14 879 (0,22 %) og i 2014 35 av 14 629 (0,24 %).»
+
+Av dette materialet fremgår også at det har vært en liten nedgang i antallet meddomsrettssaker i tingrettene i perioden 2010–2015:
+
+2010: 15 243
+
+2011: 15 735
+
+2012: 15 095
+
+2013: 14 879
+
+2014: 14 629
+
+Tidsbruken i de store sakene viser også en relativt stabil situasjon og utvikling:
+
+«Over 60 prosent av det ellers lave antall store saker avvikles altså 2–4 uker (tilsvarende 60–120 rettstimer) – med forbehold om at det i større saker gjerne berammes noen ‘rettsfrie dager’. Variasjonene til tross ses det i perioden *ingen vesentlig endring i gjennomsnittlig tidsbruk for saker over 60 rettstimer,* med et mindre unntak for 2012, hvor antall saker er lavest (30 saker), men tidsbruken høyest (141,8 timer). I 2012 var det kun én sak med 10 eller flere tiltalte (Asker og Bærum tingrett), men én langvarig sak i Bergen tingrett (én tiltalt) på 578,5 timer, trekker opp snittet for tidsbruk i 2012.»[^212]
+
+Lagmannsretten har i samme periode hatt en lignende situasjon og utvikling av antall saker som betegnes som «store og omfangsrike», og i tidsbruken per sak.[^213]
+
+1.  *Oppsummering*
+
+Ut fra det foreliggende empiriske materialet er det vanskelig å finne gode tallmessige forklaringer på produksjonsnedgangen. Isolert sett gir dette grunnlag for å reflektere rundt spørsmålet om hvorvidt den enkelte påtalejurist jobber like effektivt og like mye som tidligere. Samtidig er det flere hensyn enn kun produksjonsperspektivet som utvalget skal iaktta. «Forklaringen» på hva påtalejuristene bruker tiden sin til, kan finnes andre steder og i andre kilder enn i de rene produksjonstallene.
+
+1.  **Sentrale «drivere«**
+
+Det er særlig innenfor tre av driverne at utvalget har mottatt empirisk materiale som gjør det mulig å konkretisere en signifikant utvikling. Dette er:
+
+- tilrettelagte avhør
+
+- jour/jourfri (arbeidstidsbestemmelsene)
+
+- sakenes kompleksitet
+
+  1.  **Tilrettelagte avhør**
+
+Avhør av barn og særlig sårbare voksne ble overført fra domstolene til politiet med virkning fra 2. oktober 2015. Endringen i regelverket er ment å styrke rettssikkerheten til disse gruppene, og gi bedre vern mot vold og seksuelle overgrep. Antall dommeravhør/tilrettelagte avhør har skutt i været de siste årene. Prioriteringen av saksområdet har vært tydelig både fra politisk ledelse, riksadvokat og politidirektør. Det er satt stramme frister for gjennomføringen av avhørene, og juristene er gitt en utvidet og langt mer sentral rolle.
+
+Siden 2013 har det vært en betydelig økning av slike avhør[^214]. Hvis man tar med supplerende avhør og fortsettende førstegangsavhør, ble det i 2016 gjennomført 5 955 avhør. Dette er en økning på 22 prosent i forhold til 2015 og en økning på 125 prosent i forhold til 2013.[^215] Se figur 7.5.
+
+Ser man antall avhør i sammenheng med de nye fristene og den mer aktive rollen som påtalejuristen er pålagt, står det helt klart for utvalget at dette området utgjør en signifikant kapasitetsmessig driver.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Antall tilrettelagte avhør 2013–16
+
+<!-- -->
+
+1.  **Arbeidstidsbestemmelsene (ATB)**
+
+I mail av 12. september 2016 anmodet Påtaleanalyseutvalget Politidirektoratet om en nærmere oversikt knyttet til ATB og det ressursuttak som følger av denne.
+
+I svaret heter det følgende:
+
+«De fleste politidistrikter har løst sin jourtjeneste for påtalejurister ved at deler av denne tjenesten dekkes ved bruk av hjemmevakt. I ATB er slik hjemmevakt avtalt ved at arbeidstiden beregnes i forholdet 1:4. Hovedregelen etter gammel arbeidsmiljølov og HTA[^216] er beregning i forholdet 1:5. ATB har slik sett en litt mer kostbar beregningsbrøk.
+
+Den beregnede tid inngår i den gjennomsnittlige arbeidstiden til den enkelte som følger ordningen. Dette tilsvarer ca. 22,1 årsverk. Av dette står ATB-avtalen for 4,4 årsverk. (Ett årsverk er satt til 1695 timer.)
+
+Det er videre påpekt at uttak av kompenserende hvile gir ekstra fravær fra den ordinære tjeneste. Kompenserende hvile skal gis når den sammenhengende døgnhvilen blir under 11 timer. Slikt fravær skal registreres i turnussystemet TTA[^217].
+
+Det er nå foretatt uttrekk fra TTA for å skaffe en oversikt på fraværskodene ‘kompenserende hvile’ og ‘arbeidsfri periode’, som gis i tilknytning til kortere hvile enn 11 timer. Dette er nok det fraværet som omtales som ‘ATB-fravær’. Slikt fravær kan avvikles både i en ordinær arbeidsperiode, samt når den enkelte har fri etter arbeidsplanen.
+
+Uttrekket er gjort for alle politidistrikter for året 2015. For begge fraværskodene kreves det at fraværet blir registrert. Her har distriktene varierende rutiner. Dersom fraværet ikke registreres gir dette en avviksfaktor for tallgrunnlaget. Vi antar at det er en stor feilkilde at distriktene er dårlige til å registrere dette fraværet.
+
+Vi har derfor tatt utgangspunkt i at det var \[Sic\] for politijuristene i 2015 ble gitt utbetaling for ca. 3600 tilfeller med unntak fra hviletidsbestemmelsene. Dersom hvert tilfelle i gjennomsnitt utløser krav om 5 timer fri fra arbeid (kompenserende hvile) estimers \[Sic\]18 000 tapte arbeidstimer. Dette tilsvarer 10,6 årsverk.
+
+I henhold til Ressursanalysen for 2015 har etaten ca. 690 årsverk for påtalejurister.
+
+Oppsummert viser tall fra SAP, samt estimert uttak av komp. hvile, et ‘ATB-fravær’ på ca. 32,7 årsverk, tilsvarende ca. 4,7 %.»
+
+Utvalget legger Politidirektoratets konklusjon til grunn. Her fremgår det at ATB-ordningen «koster» 32,7 påtalejuristårsverk på landsbasis (2016), tilsvarende ca. 4,7 prosent av påtalemyndigheten i politiets samlede kapasitet.
+
+Vaktordningen det legges opp til i de nye politidistriktene (to eller tre skift) i forbindelse med Felles straffesaksinntak (FSI), vil ganske sikkert bidra til å heve kvaliteten på initialfasen i viktige straffesaker. Bekymringen til flere av respondentene er at dette samtidig vil gå ut over kapasiteten til å behandle de resterende sakene. Dersom FSI krever x antall juristårsverk, vil et politidistrikt med 30 jurister ha (30 – x) jurister til å utføre alminnelig porteføljearbeid.
+
+Påtaleanalyseutvalget er enig i at den skisserte utviklingen er godt fundert i et kvalitetsperspektiv, men hvor en skiftordning samtidig reiser utfordringer i et produksjonsperspektiv. Til tross for ulike henvendelser, har utvalget ikke lyktes i å innhente beregninger over estimert samlet ressursuttak på landsbasis ved innføringen av FSI.
+
+1.  **Sakenes kompleksitet**
+
+    1.  *Generelt*
+
+*Økt kompleksitet i sakene* er av nesten samtlige respondenter fremhevet som en signifikant forklaring. En forsterket innsats på viktige områder som vold i nære relasjoner og overgrep mot barn, innebærer en vridning av politiets ressurser til områder som erfaringsmessig er mer krevende enn eksempelvis brukersaker for overtredelse av legemiddelloven. Problemstillingen opptar mange i etaten, illustrert ved avisinnlegg i boks 7.1.[^218]
+
+1.  ** **
+
+I fjor skrev Akers Avis Groruddalen at politiet håpet på en økning av antall anmeldelser av vold i nære relasjoner på grunn av kampen mot mørketallene. Dette har nå skjedd. I 2015 var tallet på 237 registrerte saker mot 145 i 2011 og 194 i 2013.
+
+– Av disse var 125 med dommeravhør tilrettelagt for barn, noe som betyr at i 125 saker var barn vitne til vold eller selv utsatt for voldshandlinger. Vi har nå fått egne dedikerte jurister og egne etterforskere, samt en gruppe med risikoanalytikere som jobber med å avverge gjentatt vold i familievoldssakene, forteller påtaleleder for familievold på Stovner, Trude Buanes.
+
+Selv om det har skjedd store endringer i 2015, ligger det en mørk undertone bak tallene. Familievold i samfunnet koster i følge Stortingsmeldingen 2012/2013 4–6 milliarder kroner årlig.
+
+– Det er viktig for oss at alle er trygge i sine hjem. Dette er et samfunnsproblem, og ingen privatsak sier Buanes.
+
+**\[Boks slutt\]**
+
+Respondentene har i sine redegjørelser pekt på alt fra «gjennomsnittlig tykkelse per straffesak er femdoblet» til «familievold handler ofte om personlige tragedier» til «i dag må politiet etterforske *alle* spor, tidligere var det større handlingsrom for faglige vurderinger og avgrensninger».
+
+Utvalget har for sin del innhentet tall fra Den rettsmedisinske kommisjon som viser at antall rettsmedisinske erklæringer økte fra 6700 i 2012, til 8214 i 2015.
+
+1.  *Politianalysen*
+
+I *Politianalysen*[^219] heter det:
+
+«Politiets innretning og løsning av oppgaver må reflektere det samfunnet det er en del av. Politiet må tilpasse seg endringene i befolkningen, kriminalitetsbildet og kravene som stilles til politiet fra samfunnet som helhet. Som denne gjennomgangen viser, er det viktige endringer i dette bildet som utvalget mener bør ligge til grunn for hvordan politiet innretter seg og løser sine oppgaver fremover:
+
+- (…)
+
+- Økt mengde bevismateriale og påfølgende krav til objektivitet og kontradiksjon for å ivareta rettssikkerheten gir økt arbeidsmengde og ressursinnsats for politiet.
+
+- Politiets muligheter til å løse kriminalitet blir stadig bedre, med bruk av teknologi som DNA-analyse og elektroniske spor, samtidig er det teknologi som krever betydelige ressurser.
+
+- Økt mengde bevismateriale og påfølgende krav til objektivitet og kontradiksjon for å ivareta rettssikkerheten gir økt arbeidsmengde og ressursinnsats for politiet.»
+
+  1.  *Oppsummering*
+
+Til tross for at det er krevende å tallfeste det i prosent og belegge det med empirisk dokumentasjon, står det klart for utvalget at sakenes kompleksitet er en vesentlig kapasitetsdriver. Følgende faktorer står helt sentralt:
+
+- et mer komplisert bevisbilde
+
+- et større bevistilbud (elektroniske spor etc.)
+
+- et mer aktivt forsvar og en utvidet plass for fornærmede/bistandsadvokat
+
+- en økning i antall fengslinger
+
+- mer krevende juss (internasjonale rettskilder, strengere krav til presisjon)
+
+- høyere krav til kvalitet
+
+Én av flere konsekvenser som flere respondenter har pekt på, er at mange påtalejurister bruker mer tid enn tidligere til forberedelser, skriftlige fremstillinger og aktorater. Det lyttes gjennom avhør, det oppnevnes oftere to aktorer ved større hovedforhandlinger, osv. Som en av respondentene pekte på da problemstillingen ble diskutert:
+
+«Høyere kvalitet er bra – og kanskje nødvendig. Det har samtidig en pris. Hvis kravene til kvalitet betyr at vi klarer å høyne sak A fra 95 % til 98 %, men hvor det samtidig medfører at sak B henlegges på kapasitet, har da totalen (kvaliteten) egentlig blitt til det bedre?!«
+
+1.  **Øvrige faktorer**
+
+De øvrige driverne omtales ikke eksplisitt i denne utredningen. Dette må ikke forstås dit hen at disse driverne ikke både er relevante og viktige forklaringer på hovedspørsmålet om hva ressurstilførselen til påtalemyndigheten de senere år har gått til.
+
+Det er heller ikke slik at utviklingen på alle områder entydig tilsier tilførsel av mer ressurser. På enkelte områder, eksempelvis antall rettsdager per påtalejurist, er utviklingen relativt *stabil*. Denne driveren – målt per time i retten – anses av utvalget følgelig ikke som en sentral forklaring på hvor ressursøkningen til påtalemyndigheten har tatt veien.
+
+Utvalget har også vært opptatt av utviklingstrekk som virker *positivt* på påtalemyndighetens samlede kapasitet. Særlig bør utviklingen av et hensiktsmessig dataverktøy nevnes. Innen IKT har påtalemyndigheten på langt nær tatt ut det foreliggende potensialet. Tematikken er nærmere omtalt under punkt 6.4.
+
+1.  **Respondentene**
+
+I det følgende gjengis et ekstrakt av samtaler utvalget har hatt med sentrale respondenter i kartleggingen og vurderingen av driverne. Gjengivelsen er basert på referater, likevel slik at meningsinnholdet er forsøkt holdt uendret.
+
+1.  **Politidirektoratet**
+
+I diskusjonen med direktoratet ble det, blant annet med henvisning til Femmeranalysen[^220], vist til de nesten uforklarlige store forskjellene i produksjonstall distrikter og enheter imellom. Ledelsens rolle som pådriver, inspirator og tilrettelegger ble understreket.
+
+Rekruttering ble fremhevet som en hovedutfordring. Politiet har av Universum blitt kåret til den mest attraktive arbeidsplass flere år på rad. Samtidig fokuseres det mye på eksamensresultat og lite på hvordan søkerne fungerer i arbeidssammenheng – retten, produksjon, porteføljeforvaltning. Det mangler per i dag en nasjonal «kravspesifikasjon». Det er også et forbedringspotensial innen oppfølging av nytilsatte. For de mer erfarne påtalejuristene betyr dagens struktur og et mer akademisert politikorps, at nåløyet for de som måtte ønske seg andre utfordringer enn tradisjonelt påtalearbeid, har blitt trangere.
+
+1.  **Sør-Vest politidistrikt**
+
+Innledningsvis ble det pekt på at oppgaveporteføljen til påtaleseksjonen preges av at det stadig dukker opp nye ting/oppgaver: ny politiregisterlov, nytt SSP[^221] mv. Et sett av nye kvalitetssikringskrav, hvor påtalejuristene tildeles en kontrolloppgave, trekker kapasitet. Siktelses- og tiltaleformuleringene i Grønnsak[^222] må samsvare med domsslutningen. Et annet eksempel som ble trukket frem, er den utstrakte bruken og utferdigelsen av politiattester, hvor påtalejuristen ofte får tidkrevende spørsmål og oppgaver.
+
+Politidistriktet estimerer at tilrettelagte avhør «koster» ca. ni årsverk mer enn tidligere. Forskriftens forutsatte kapasitetsberegninger anses å være helt urealistiske.
+
+«Vi hadde også tidligere jurister med ansvar for de samme saksfeltene, men med større bredde i porteføljen. Nå er porteføljene rendyrket til familievold med/uten tilrettelagte avhør og voldtekter (overgrep i videre forstand). Øvrige saker er flyttet ut til andre. Vi kan se en ganske direkte sammenheng mellom saksmengde/antall restanser før og etter innføringen av tilrettelagte avhør, tilsvarende 7 juristårsverk. I tillegg kommer 2 nye sivile stillinger som driver booking. Den reelle opp-prioriteringen av saksfeltet har krevd 9 årsverk.»
+
+Øvrige forhold som ble fremhevet, var:
+
+- Antallet påtaleavgjørelser per hode har gått ned siden 2002. Samtidig er arbeidet i hver straffesak vesentlig mer omfattende. «Tykkelsen» på sakene og prosessen i retten øker fra år til år. Kvalitetskrav og forventninger øker – fra domstolene, aktørene og samfunnet forøvrig.
+
+- Førstebetjentrollen er vesentlig redusert. Distriktet har hatt problemer med å rekruttere politibetjenter til Kriminalavdelingen. Dette er uheldig, da denne gruppen har stor betydning for kvaliteten på straffesaksarbeidet. En annen konsekvens er at juristen blir involvert selv i små saker. Det relativt sett lave antallet tilståelsessaker settes i sammenheng med fraværet av politiførstebetjent, og medfører mange unødige hovedforhandlinger for juristene.
+
+- Involveringen i styringen av etterforskingen er en helt annen i dag enn tidligere. Antallet jurister som jobber med alvorlige saker, har økt kraftig siden 2010.
+
+- Selv om antallet rettsmøter ikke har økt markant, brukes i snitt vesentlig mer tid enn tidligere på påtaleavgjørelser og forberedelser til rettsmøter.
+
+- Lyd- og bildeavhørene svulmer opp. Mange jurister føler at de «må» høre gjennom alle lydavhørene for å være tilstrekkelig forberedt.
+
+- Elektroniske spor blir en stadig viktigere faktor. Flere kilder, videoer, PC-er som skal sikres og gjennomgås. Bruken av internett har eksplodert. En rekke beslutninger ligger til påtalejuristen.
+
+- Arbeidstidsbestemmelsen (ATB) har stor betydning for påtalemyndighetens samlede kapasitet. Distriktet sitter ikke på konkrete tall, men utviklingen er signifikant.
+
+  1.  **Sør-Øst politidistrikt**
+
+Innledningsvis i samtalene ble det en diskusjon omkring prioriteringer, hvor møtedeltagerne ga uttrykk for et ønske om en tydeligere harmonisering. Riksadvokatens mål- og prioriteringsrundskriv inneholder 43 «skal», og dernest kommer kravene fra Politidirektoratet. Statsadvokatene oppleves som fraværende i prioriteringsspørsmål. Deres involvering etterlyses.
+
+Kunnskaps- og informasjonsdeling i påtalemyndigheten ble fremhevet som et «sårt punkt». I praksis er det vanskelig (nesten umulig) å finne frem til autoritative kilder med mindre man vet hvor man skal lete, og hva man leter etter.
+
+Om tilrettelagte avhør ble følgende opplyst:
+
+«Anslagsvis merkostnad i distriktet etter reformen er 4 politiadvokater Vestfold, 3 Drammen, 3 Hønefoss, Telemark 5 (på deltid). Estimert antall avhør i 2016 er på ca. 800 avhør. Økningen er formidabel. I tillegg bindes det opp mye tid (man kan ikke planlegge med hovedforhandlinger osv.). Hvorfor har antallet tilrettelagte avhør eksplodert? Dette har selvsagt en side til kvalitet – tidligere var det store forskjeller på hvordan disse sakene ble håndtert. Nesten litt som narkotikasaker. Hvor mye er vi villige til å bruke av tid/krefter? Terskelen for å si i fra har blitt mye lavere (barnehager, barnevern, skoler, …).»
+
+Representantene fra *Vestfold politidistrikt* fremhevet følgende faktorer:
+
+- Dokumentasjon er bra i et kvalitetsperspektiv, men også en faktor som spiser av påtalemyndighetens (og etterforskernes) samlede kapasitet.
+
+- Fornærmedes (og andres) rettigheter er i sterk utvikling.
+
+- ATB utgjør en kapasitetsmessig økning på ca. 15 prosent sammenlignet med 2002.
+
+- Økt spesialisering – i dag er eksempelvis tre årsverk avsatt til saker om økonomisk kriminalitet.
+
+De fire tidligere distriktene ble oppfordret til å gi et forsiktig overslag over kapasitetsutviklingen i tidsrommet 2002–2016 og anslo følgende i et kapasitetsregnskap:
+
+- nye årsverk – pluss 30 prosent
+
+- ATB – minus 15 prosent
+
+- tilrettelagte avhør – minus 15 prosent
+
+- notoritet/dokumentasjonskrav – minus x prosent
+
+- økte krav/høyere kvalitet (saksmengde, avhør mv.) – minus x prosent
+
+*Positive faktorer/drivere*
+
+- kriminalitetsbildet (og antallet vinningsforbrytelser) er nedadgående
+
+- politiarbeid på stedet, initialfasen
+
+- spesialiserte fagmiljøer gir bedre kvalitet i alvorlige saker
+
+- bedre porteføljekontroll (innsyn i hverandres produksjon, litt konkurranse, aktiv påtaleledelse)
+
+Konklusjonen var at driverne i sum mer enn tilsvarer ressursøkningen.
+
+1.  **Oslo politidistrikt**
+
+I møte med ledelsen ved Grønland politistasjon svarte distriktets representanter at juristbemanningen er akseptabel, gitt dagens oppgaveportefølje. Samtidig er handlingsrommet høyst begrenset – «skal noe inn, må noe ut». Det ble vist til Jahre-utvalget (2000–2002), som satte søkelys på restanser. I dag har påtalejuristene gjennomgående god kontroll på porteføljene. Det ble også vist til økt vekt på resultatoppfølging, konkretisert på følgende måte:
+
+- påtaleseksjonen formidler resultater til juristene
+
+- påtalelederne har månedlig oppfølging av sine jurister
+
+- strenge krav til notoritet
+
+- resultatkrav på personnivå
+
+- bedre koordinering, mer fokus på person, mer målrettet/VIC[^223]
+
+- jourkontor
+
+- bruk av etterforskingsplan/ordre med frister
+
+På spørsmål om hvorvidt straffesakene er blitt mer komplekse, opplyste distriktet følgende:
+
+- Det er ikke flere hovedforhandlinger.
+
+- Varighet per sak viser en svak økning, som kan ha sammenheng med færre forelegg.
+
+- Frifinnelsesprosenten har gått ned fra 8 til 6 prosent (resten av landet ligger rundt 7 prosent). Dette ses på som en kvalitetsindikator.
+
+Av faktorer som *trekker* kapasitet, ble det vist til følgende:
+
+- manglende avklaringer omkring påtalejuristens rolle
+
+- krav om stadig mer «rydding» i saker
+
+- mangel på merkantil støtte[^224]
+
+- fravær av politiførstebetjent
+
+- ID-utfordringer
+
+- økte krav og forventninger til fornærmede-/pårørendeoppfølging
+
+- forsvarerstrategier
+
+- fraværet av et oppdatert og mer intuitivt BL/styringssystem[^225]
+
+Av faktorer som *øker* kapasiteten, ble det vist til følgende:
+
+- politiarbeid på stedet
+
+- bedre arbeid i initialfasen
+
+- bedre porteføljestyring («fra enkeltsak til helhetsblikk»)
+
+  1.  **Politijuristene**
+
+I etterkant av møtet med Politijuristene har utvalgsleder akseptert en forespørsel fra foreningen om å få inntatt et skriftlig innspill om kapasitet og effektivitet.
+
+«Tradisjonelt har man i påtalemyndigheten ganske ensidig sett på forholdet mellom resultatene og antall årsverk (ressurser) som er brukt for å oppnå resultatene. Hvorvidt dette sier noe om påtalemyndighetens reelle produktivitet, gir en slik tilnærming ikke nødvendigvis et svar på. Politijuristene ønsker å dreie søkelyset over på hvilke oppgaver påtalemyndigheten skal løse (formålet). Oppgaver som ligger utenfor målhierarkiet, er krevende å angi eksakt. Hva gjøres av påtalejuristen og av etterforskeren? Selv om forberedelser til avhør ikke primært ligger til påtalejuristen, kan slike likevel kreve adskillig overveielser (også av politifaglig karakter) som påtalemyndigheten bør ha en klar formening om.
+
+Påtalejuristene må ha arbeidsmetodikk som gjør at vedkommende bruker tiden og kapasiteten sin til det som er riktig. I dette ligger noe mer enn ‘kontorstøtte’ og hjelpemidler. Tre sentrale dimensjoner er hvordan påtalejuristen forholder seg til den politifaglige kapasiteten, domstolen og fordelingen av egne arbeidsoppgaver. Det er viktig å ha et avklart forhold til hvilke deler av arbeidsoppgavene som krever involvering, og ikke minst hvilke tiltak eller oppgaver som ikke foranlediger påtalejuristens kapasitet.
+
+I perioden 2006–2016 har det vært en markant økning i politiet budsjetter og vekst i antall årsverk for påtalemyndigheten. Hvorvidt det har skapt en forbedring i påtalemyndighetens effektivitet, er usikkert. Det er store forskjeller mellom de enkelte påtaleenhetene og deres produktivitet. Tiltak som er i ferd med å implementeres gjennom nærpolitireformen, påvirker sannsynligvis effektiviteten langt mer enn en isolert endring av struktur eller organisering av påtaleenhetene i politiet. Et slikt eksempel er etablering av ‘felles straffesaksinntak’ og ‘politiarbeid på stedet’.
+
+Fordelene ved det integrerte systemet bør utnyttes bedre enn i dag. Straffeprosesslovutvalget foreslår en klar rolle- og ansvarsfordeling mellom påtalemyndigheten og andre tjenestepersoner i politiet. Påtalemyndigheten i politiet er ansvarlig for legalitetskontroll med straffesaksbehandlingen i politiet. Det er nødvendig å operasjonalisere dette ansvaret.
+
+Dernest motivasjonen for den enkelte. Politijuristene opplever at arbeidets karakter skaper engasjerte, oppofrende og motiverte arbeidstakere. Et ensidig produksjonsfokus kan medføre at man mister av syne det viktigste. Det er underkommunisert hvilken andel som har gått til å dekke overgangen til regulert arbeidstid. Før 2008 hadde samtlige politijurister pålagt utvidet arbeidstid. Det utgjorde 42 årsverk, basert på 600 produserende politijurister og et samlet årsverkstimer på 1700. Gjennom forhandlinger om arbeidstidsbestemmelser ble denne ressursen fjernet, uten at dette grepet i ettertid er kompensert. Aktiv tjeneste utenom normalarbeidstid er dyrere enn reservetjeneste, i den forstand at det konsumerer en god del av arbeidstiden. Dette valget står sentralt ved organiseringen av nye politidistrikter. Politijuristene tror tolv jourhavende jurister på landsbasis er utilstrekkelig.
+
+Alle påtaleenheter har de samme overordnete målsettinger og har relativt like mål for effektivitet og produktivitet. Likevel er det ulikt hvordan de organiserer arbeidsprosessene internt. Det er politijuristenes oppfatning at en rekke dimensjoner som i dag er ulike, kunne vært mer like – gjerne i form av arbeidsprosedyrer eller rutinebeskrivelser som i større grad legger føringer på de konkrete elementene i arbeidsprosessen. Det gjelder også med tanke på styring og kontroll. Ulike bemanningsanalyser har vist betydelige forskjeller mellom distriktenes ressursbruk per sak. Vi er usikre på hva som kan forklare slike forskjeller. Det er vår erfaring at forskjellene i hovedsak er individuelle og at det er små forskjeller i arbeidsmåter, organisering eller ledelse. Funn tyder på at politijuristene er på sitt mest produktive etter om lag fire år i stillingen.»
+
+1.  **Påtalemyndigheten i politiet – oppsummering**
+
+I mandatet heter det at analysen skal ha et særlig fokus på om påtalemyndigheten har riktig kapasitet til å ivareta de mål som er angitt, og identifisere forbedringspotensial og foreslå løsninger for en kapasitetsutvikling.
+
+I en slik vurdering ligger en latent utfordring, ved at en ressurstilgang ofte medfører at man rent faktisk kan bruke mer tid på de oppgavene man har. Får påtalejuristen mer tid, som kan brukes til å forberede neste hovedforhandling, vil vedkommende ofte bruke noe mer tid på nettopp dette. Ressurstilførselen vil således kunne medføre noe høyere kvalitet, men uten at dette nødvendigvis kommer til syne i den rene produksjonen.
+
+En annen dimensjon knytter seg til ledelse. Femmeranalysen har dokumentert viktigheten av ledelsens oppmerksomhet om straffesaksbehandlingen generelt, og påtaleleders rolle ved oppfølgingen av den enkelte påtalejurist spesielt. Oslo politidistrikt fremhevet også betydningen av god porteføljeforvaltning som en sentral forklaring på at antall gamle saker er bygget ned de senere år. Dette er perspektiver som Påtaleanalyseutvalget er enig i.
+
+Samtidig viser gjennomgangen at påtalemyndigheten i politiet parallelt med en bemanningsmessig økning er tilført nye oppgaver, som i sum kan synes å overgå den nevnte ressurstilførselen. Påtaleanalyseutvalgets vurdering er at handlingsrommet til å utøve viktige aktiviteter som etterforskingsledelse, er begrenset. En konsekvens av dette kan være redusert gjennomslagskraft, all den tid denne ikke bare er tuftet på formelle posisjoner, men også preges av fortløpende kunnskap om saken og involvering.
+
+Hvordan en slik utvikling vurderes, har nær sammenheng med hvordan man forstår påtalemyndighetens samfunnsoppdrag. Påtalemyndighetens kapasitet er en relativ størrelse.
+
+- Tolkes samfunnsoppdraget innskrenkende, med en påtalemyndighet som primært ses på som reaktiv kontrollør og produsent av straffesaker, anser Påtaleanalyseutvalget dagens kapasitet som akseptabel – med forbehold om ulikheter mellom og innad i politidistriktene.
+
+- Forstås samfunnsoppdraget som noe mer, med en påtalemyndighet som bidrar i prioriteringsspørsmål, utøver aktiv etterforskingsledelse og som engasjerer seg i politiets virksomhet og utvikling, er dagens samlede kapasitet ikke tilstrekkelig.
+
+En videreføring av dagens situasjon har ikke stått sentralt i utvalgets undersøkelser, men reiser like fullt et spørsmål om hvorvidt dagens kapasitet i påtalemyndigheten i politiet er tilstrekkelig. Her har det vært ulike syn i utvalget. Utvalget har kunnet enes om at en økt oppgaveportefølje og en satsing på kompetanseutvikling, fullt ut bør kompenseres i form av ressurstilførsel. Det har imidlertid vært delte meninger om hvorvidt kapasiteten per i dag er tilfredsstillende, gitt dagens oppgaveutførelse.
+
+Begrunnelsen for at utvalget er skeptisk til å foreslå en generell styrking av påtalemyndigheten i politiet nå, er stor usikkerhet knyttet til hvilke av de identifiserte utfordringene som skyldes ressursmangel, og hva som knytter seg til manglende rolleavklaring, usikkerhet og fravær av ledelse og oppfølging. Det er også naturlig å høste erfaringer fra den nye politistrukturen, hvor politimestrene for tiden organiserer og ressurssetter sine påtalemiljøer.
+
+1.  **Den høyere påtalemyndighet – kapasitet**
+
+Den høyere påtalemyndighet har tatt del i en ikke ubetydelig ressursøkning de senere år. Også for denne gruppen er det derfor rimelig å forvente en positiv kvalitetsmessig og effektivitetsmessig utvikling innenfor straffesaksarbeidet. I tråd med mandatet vil utvalget forsøke å gi et svar på om satsingen har gitt det forventede resultat. Hvis svaret helt eller delvis er nei, hvilke faktorer er det som i så fall tar kapasitet?
+
+Det empiriske materialet er noe mangelfullt. Samtidig peker mange av forklaringene i samme retning, og Påtaleanalyseutvalget anser det derfor mulig å gi et substansielt svar. Valg av tilnærming og fokusområder for Den høyere påtalemyndighet har mye til felles med gjennomgangen for påtalemyndigheten i politiet. Enkelte av de identifiserte driverne er sammenfallende, og beskrivelsene i kapittel 7.2–7.6 har i noen grad overføringsverdi til Den høyere påtalemyndighet.
+
+1.  **JUS-tall og andre tallstørrelser**
+
+    1.  **Datagrunnlaget**
+
+Fra Riksadvokatembetet har Påtaleanalyseutvalget mottatt nøkkeltall[^226] for årene 2007–2015, samt første halvår 2016. Enkelte av disse refereres i det følgende.
+
+1.  **Antall saker**
+
+Fra Riksadvokatembetet har utvalget mottatt tall som viser en markant utvikling i antall straffesaker[^227] i tidsrommet 2008–2016:
+
+Som tabell 7.6 viser, ble det i 2008 truffet ca. 53 000 avgjørelser, i 2015 ca. 77 000, en økning på ca. 45 prosent. Det er særlig de siste årene at antall avgjørelser har økt sterkt. Økningen fortsatte i 2016 med 39 251 avgjørelser per første halvår 2016 mot 37 076 på samme tid i fjor, men synes ved utløpet av annen tertial 2016 å ha stagnert. Halvårstallene er de høyeste noensinne.
+
+1.   
+
+|        |        |        |        |        |        |        |        |
+|--------|--------|--------|--------|--------|--------|--------|--------|
+| 2008   | 2009   | 2010   | 2011   | 2012   | 2013   | 2014   | 2015   |
+|        |        |        |        |        |        |        |        |
+| 53 686 | 52 892 | 61 521 | 65 375 | 60 225 | 63 798 | 68 016 | 77 505 |
+|        |        |        |        |        |        |        |        |
+
+Oslo statsadvokatembeters vurdering er at den betydelige økningen de siste to årene skyldes et økt antall påtalejurister uten utvidet påtalekompetanse. En kan merke seg at saksmengden i politiet, i form av anmeldelser og positive påtaleavgjørelser, har vært synkende de senere år.
+
+1.  **Saksbehandlingstid**
+
+Gjennomsnittlig saksbehandlingstid i straffesakene ved statsadvokatembetene i perioden 2012–2016 var som følger:
+
+2012: 16 dager
+
+2013: 17 dager
+
+2014: 18 dager
+
+2015: 18 dager
+
+2016: 17 dager
+
+Saksbehandlingstid regnes fra saken kommer inn til embetet til påtaleavgjørelse treffes, og omfatter både positive påtalevedtak (040-koder), henleggelser, godtakelse av dom, beslutning om anke mv.
+
+Gjennomsnittlig saksbehandlingstid i klagesakene ved statsadvokatembetene var følgende:
+
+2012: 21 dager
+
+2013: 18 dager
+
+2014: 20 dager
+
+2015: 17 dager
+
+2016: 19 dager
+
+Som nevnt har det vært en økning i antallet saker til behandling hos statsadvokatembetene. Saksbehandlingstiden har i samme periode vært stabil. Antall avgjørelser i klagesaker i 2016 var 2756, mot totalt 71 588 avgjørelser i straffesakene (påtalesakene), og utgjorde totalt 3,7 prosent av avgjørelsene.
+
+1.  **Antall aktorater**
+
+Antall aktorater utført av statsadvokater var 1259 i 2007 (71 statsadvokater) og 1076 i 2015 (94 statsadvokater). Høyest antall aktorater var i 2010, med 1773 aktorater.
+
+1.  **Antall rettsdager**
+
+Rettsdagsantallet (aktorater utført av statsadvokatene) varierer i perioden fra 3137 i 2007 til 3245 i 2015. Høyeste antall rettsdager var 3402 i 2012 (80 statsadvokater). Det er samtidig verd å merke seg en betydelig økning i antall rettsdager utført av statsadvokatene første halvår 2016, med 2161 mot 1728 på samme tid i 2015. Antall rettsdager har aldri vært høyere.[^228] Reisedager kommer i tillegg.
+
+1.  **Antall behandlede ankesaker i lagmannsretten**
+
+Antall behandlede ankesaker i lagmannsretten er inndelt etter begrensede anker, bevisanker og lagrettesaker, se tabell 7.7.
+
+1.   
+
+Samlet sett viser tallene en nedgang i antallet behandlede saker i lagmannsrettene fra 2011 til 2015.[^229] Det fremgår ikke av tallmaterialet hvorvidt sakene er aktorert av politijurister eller statsadvokater.
+
+1.  **Oppsummering av tallmaterialet**
+
+Slik Påtaleanalyseutvalget vurderer det, er det særlig økningen i antall saker inn til statsadvokatene fra 2008 til 2016, som fortjener oppmerksomhet. Dette forklares i noen grad med økningen i politijurister uten utvidet påtalekompetanse. Økningen har vært markant de siste par årene, og det er logisk at i alle fall deler av kapasitetsøkningen i 2014/15 i form av 16 nye statsadvokater har gått med til å dekke opp denne merbelastningen.
+
+1.  **En endring i statsadvokatenes påtalemessige behandling av straffesakene?**
+
+Sentralt i Påtaleanalyseutvalgets arbeid står påstander formidlet fra både statsadvokater, politijurister, og øvrige respondenter om at det i dag brukes mer tid per straffesak enn tidligere. Utvalget har ikke fått seg forelagt empirisk materiale som gir en samlet fremstilling av tematikken, eller som systematisk underbygger dette erfaringsbaserte inntrykket, men har merket seg at dette er noe nær sagt «alle» i påtalemyndigheten synes å mene.
+
+Gode måleparametere har vært vanskelig å finne. Påtaleanalyseutvalget har i sine undersøkelser og samtaler med respondentene derfor hatt fokus på å identifisere eventuelle endringer (økninger) i statsadvokatenes arbeidsoppgaver og oppgaveportefølje når man ser utviklingen over flere år.
+
+1.  **Økt medgått tid til fagledelse og utadrettet virksomhet?**
+
+Utvalget har ikke mottatt et presist tallmateriale for medgått tidsbruk til fagledelse og utadrettet virksomhet. Det legges likevel til grunn som dokumentert at det har vært en økning i medgått tid på disse områdene samlet sett, om enn i noe varierende grad og med til dels store ulikheter embetene imellom.
+
+Samtidig kan utvalget ikke se at det er dokumentert at denne økningen tilsvarer de totalt 16 årsverkene som den høyere påtalemyndighet fikk i 2014/2015.
+
+Av riksadvokatens brev til Justis- og beredskapsdepartementet datert 30. september 2016[^230] bekreftes at deler av stillingsveksten har medgått til tradisjonell straffesaksbehandling:
+
+«Aktorering og fagledelse er ikke et rapporteringspunkt. De inngår imidlertid i den totale oppgaveløsning i Den høyere påtalemyndighet, og bl.a. måloppnåelse kan vanskelig sees uavhengig av også denne delen av statsadvokatenes virksomhet. Statsadvokatene rapporterer hvert halvår rutinemessig til riksadvokaten om antall aktorater og rettsdager. Pr. første halvår 2016 hadde statsadvokatene stått i retten i 2 161 dager, mot 1 728 rettsdager på samme tid i 2015. Økningen i antall rettsdager på ett halvår utgjorde 433 dager. Antall rettsdager har aldri vært høyere enn nå. Det såkalte Fosheim-utvalget uttalte alt i 2001 at 50 retts- og reisedager bør være normen for hvor mange retts- og reisedager en statsadvokat bør ha pr. år. I løpet av annet tertial har statsadvokatene gjennomført en kvalitetsundersøkelse av etterforsking og påtalebehandling av voldtekts- og familievoldssaker, hvilket har krevd mer ressurser i fagledelsen enn tidligere på dette tidspunkt av året. I denne sammenheng minner en også om den kraftige økningen i antall saker inn til statsadvokatembetene fra politiet. Den fortsatt gode måloppnåelsen i Den høyere påtalemyndighet i 2016 ville på denne bakgrunn ikke vært mulig uten den betydelige stillingsvekst en fikk i statsbudsjettet for budsjettåret 2015. Antakelig ville ikke bare fagledelsen, men også utførelsen av primærfunksjonen – aktorering av de alvorligste straffesakene – blitt skadelidende uten stillingsveksten. Det er all grunn til å berømme medarbeiderne ved statsadvokatembetene for god innsats så langt i 2016. Arbeidspresset statsadvokatembetene nå opplever vil imidlertid utfordre gjennomføringen av fagledelsen både høsten 2016 og det kommende året.»
+
+Tradisjonelt rapporterer både den enkelte statsadvokat og embetene straffesakstall, og da særlig antall rettsdager. Med det økte fokus som nå er på de øvrige arbeidsoppgavene ved embetene, anbefaler utvalget at det fremover i større grad søkes innhentet tall fra embetene på arbeidsoppgaver utover den tradisjonelle straffesaksbehandlingen.
+
+1.  **Fornebo-utvalget**
+
+I Fornebo-utvalget heter det om ressurssituasjonen ved statsadvokatembetene følgende på side 72:
+
+«Arbeidsgruppen er under dette punkt bedt om å vurdere om det i dag er samsvar mellom oppgavene og foreliggende ressurser, hvilken ressurstilførsel som er nødvendig ved avvik, og eventuelt hvilke oppgaver som må reduseres eller fjernes for å oppnå balanse.
+
+Ressursspørsmålet er særdeles vanskelig, blant annet fordi det skjer en mer eller mindre synlig tilpasning av oppgaveløsningen til de ressurser som til enhver tid foreligger. Samtidig er det i dag ikke helt enkelt å gi en klar beskrivelse av oppgavene, og hvor godt disse i dag samlet sett løses. Med unntak av påtalebehandlingen av de saker som kommer inn til embetet, er det mulig å redusere eller øke innsatsen i alle deler av virksomheten. Typisk kan aktorater i større eller mindre grad overlates til politiet, og embetene kan i dag til en viss grad regulere volumet på, og bruken av aktorresursene \[Sic\]selv. Ett embete angir som eksempel at statsadvokatene tar nær alle begrensede anker, mens andre tar en liten brøkdel av disse sakene. Det fremkommer også betydelige forskjeller i bruken av politiaktorer i 6-årssaker, og samtidig er det som tidligere nevnt mindre kunnskap om saksutvalg og kriterier for dette ved embetene.
+
+Tiltak i den generelle fagledelsen og utadrettet virksomhet kan reduseres, uten at dette påkaller mye oppmerksomhet hvis årsaken er økning i kjerneoppgavene. Det er grunn til å tro at generelle faglige oppgaver av ulik art – typisk mer krevende høringsuttalelser og lignende – lett vil bli nedprioritert hvis ikke ressursene strekker til. Heller ikke dette synliggjøres i dagens situasjon som manglende oppgaveløsning, samtidig som det er lett å hevde at nettopp dette er en sentral oppgave.
+
+Alt i alt er det vanskelig å ha noen sikker oppfatning om det på etatsnivå er samsvar mellom arbeidsoppgaver og foreliggende ressurs. Oppgavene avhenger av de målsetninger arbeidet skal følge, og disse er, slik arbeidsgruppen ser det, ikke tilstrekkelig klarlagt. Hvis alle deler av virksomheten (alle oppgaver) ses i sammenheng og som ulike virkemiddel i et målrettet arbeid, blir også spørsmålet om å fjerne eller redusere enkeltoppgaver mindre viktig. Det er målsetningene som eventuelt må tilpasses ressurssituasjon.»
+
+1.  **Oslo statsadvokatembeter om ressursberegning**
+
+I brev datert 18. august 2016 anmodet utvalget Riksadvokatembetet om påtalemyndighetens bidrag til å klarlegge hvilke oppgaver og gjøremål som tilligger Den høyere påtalemyndighet. I anmodningen heter det blant annet:
+
+«Særlig vil oppgaver og gjøremål på siden av enkeltsakene måtte belyses. I så måte står den senere tids utvikling innenfor påtalemyndighetens fagledelse helt sentralt.»
+
+Oppdraget med å besvare utvalgets henvendelse ble gitt til Oslo statsadvokatembeter, hvilket har sammenheng med dette embetets sentrale posisjon i videreutviklingen av dagens fagledelse. Situasjonsbeskrivelsen som gis i det følgende, anses i utgangspunktet som relevant og dekkende for hele statsadvokatnivået, likevel slik at blant annet embetets størrelse har gitt Oslo statsadvokatembeter bedre forutsetninger for å utøve spesialisering enn de øvrige embetene.

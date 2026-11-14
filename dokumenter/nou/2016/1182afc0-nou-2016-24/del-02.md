@@ -1,2493 +1,902 @@
-# NOU 2016: 24, del 2 av 73 (side 21–35)
+# NOU 2016: 24, del 2 av 69
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/1182afc0-nou-2016-24.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-24/id2517932/
 - Original-PDF: https://www.regjeringen.no/contentassets/6fe1d875248042b4a09b43b85aa46832/no/pdfs/nou201620160024000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 9 tabeller, 1 figur, 52 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 21]
+a\) straffutmålingsutsettelse, jf. straffeloven § 60 tredje ledd, jf. § 39 annet ledd,
 
-19
+b\) fullbyrdingsutsettelse, jf. straffeloven § 39 annet ledd,
 
-NOU 2016: 24
-Ny straffeprosesslov
+c\) løslatelse på prøve fra fengselsstraff, jf. straffegjennomføringsloven § 44 annet ledd,
 
-Kapittel 1
+d\) løslatelse på prøve fra forvaring, jf. straffeloven § 46 første ledd, eller
 
-DEL 2.
+e\) samfunnsstraff, jf. straffeloven § 52 første ledd bokstav a.
 
-Bevis
+\(2\) Domfelte skal ha forsvarer i saker om opphevelse eller endring av vilkår for prøveløslatelse fra forvaring etter straffeloven § 45 femte ledd.
 
-Kapittel 10. Politiavhør og forklaringer i
-rettsmøte. Anonyme vitner
+*§ 3-20. Forsvarer i særlige tilfeller*
 
-Kapittel 7.
+Mistenkte skal ha forsvarer når sakens art og omfang tilsier det, eller andre særlige forhold tilsier at det er behov for det.
 
-Alminnelige regler om bevis
+*§ 3-21. Avkall på forsvarer*
 
-§ 10-1.
+Mistenkte som er over 18 år, kan skriftlig gi avkall på forsvarer når det er ubetenkelig. Det kan likevel ikke gis avkall på forsvarer etter §§ 3-11, 3-13, 3-15, 3-19 annet ledd og 3-20. Mistenkte skal før det gis avkall, gjøres kjent med retten til å rådføre seg med forsvarer betalt av det offentlige.
 
-§ 7-1.
+*§ 3-22. Oppnevning av forsvarer*
 
-Forsvarlig saksopplysning.
-Kontradiksjon. Håndtering av
-bevis
+\(1\) Retten skal etter begjæring eller av eget tiltak oppnevne forsvarer etter §§ 3-11 til 3-20. Påtalemyndigheten kan likevel oppnevne forsvarer etter §§ 3-12, 3-13 og 3-15. Retten kan omgjøre påtalemyndighetens beslutning.
 
-Møteplikt til politiavhør og
-rettslig avhør
+\(2\) Mistenktes ønske om en bestemt forsvarer skal etterkommes, med mindre oppnevning vil føre til forsinkelse av betydning. Tilsvarende gjelder ved spørsmål om hvorvidt oppnevningen skal stå ved lag.
 
-§ 10-2.
+\(3\) Det skal oppnevnes flere forsvarere dersom hensynet til effektiv og rettssikker behandling av saken gjør det nødvendig.
 
-Innkalling til politiavhør
+\(4\) Oppdraget kan avgrenses.
 
-§ 10-3.
+*§ 3-23. Faste forsvarere*
 
-Innkalling til rettslig avhør
+\(1\) Domstoladministrasjonen antar et tilstrekkelig antall faste forsvarere ved tingrettene, lagmannsrettene og Høyesterett som gjør tjeneste når mistenkte ikke ønsker en bestemt forsvarer.
 
-§ 10-4.
+\(2\) De faste forsvarerne oppnevnes etter tur med mindre
 
-Informasjon før avhør
+a\) det vil føre til forsinkelse av betydning, eller
 
-§ 10-5.
+b\) andre særlige forhold tilsier at en fraviker rekkefølgen.
 
-Opplysninger mistenkte og vitner
-plikter å oppgi
+*§ 3-24. Godtgjørelse til forsvarere*
 
-§ 10-6.
+\(1\) Forsvarer oppnevnt etter § 3-22 første ledd har krav på godtgjørelse av staten for nødvendig arbeid i saken. Ved forsvarerbytte skal det som regel gjøres fradrag for arbeid som er utført.
 
-Alminnelige regler om
-gjennomføringen av avhør
+\(2\) Forsvareren skal ikke motta godtgjørelse utover det som fastsettes av retten, med mindre mistenkte før oppnevningen har samtykket i privat betaling, og forsvareren har gitt avkall på godtgjørelse etter første ledd.
 
-§ 7-2.
+\(3\) Er det etter mistenktes ønske oppnevnt en forsvarer som har kontor utenfor lagdømmet, kan Kongen gi forskrift om i hvilken utstrekning forsvareren skal få skyss-, kost- og fraværsgodtgjørelse. For saker ved Høyesterett er det retten som bestemmer dette.
 
-Fri bevisføring. Partenes
-bevistilbud
+\(4\) Etter begjæring kan det tilkjennes godtgjørelse til forsvarer som ikke er oppnevnt etter første ledd, når det er rimelig. Begjæringen må fremsettes innen saken er endelig avgjort.
 
-§ 7-3.
+*§ 3-25. Særskilt advokat for mistenkte ved hemmelige etterforskingsskritt mv.*
 
-Rettens kontroll med at
-bevisføringen er relevant og
-forholdsmessig
+\(1\) Det skal oppnevnes særskilt advokat for mistenkte når retten skal behandle begjæring om
 
-§ 7-4.
+a\) bruk av hemmelige tvangstiltak som nevnt i §§ 18-5, 19-2, 19-8, 20-1 til 20-4, 21-2 og 22-3,
 
-Rettens kontroll med at
-bevisføringen er tilstrekkelig
+b\) å begrense mistenktes rett til innsyn etter § 6-8,
 
-§ 10-7.
+c\) bevisforbud etter § 8-2 bokstav d,
 
-§ 7-5.
+d\) tiltak for å sikre hemmelighold av et vitnes identitet, og det er begjært at forsvarer ikke skal opplyses om vitnets navn eller gis andre opplysninger som kan føre til at vitnets identitet blir kjent, jf. § 10-10.
 
-Bevisvurdering og beviskrav
+\(2\) Oppnevning skal likevel unnlates i saker som nevnt i første ledd bokstav b der påtalemyndigheten ikke motsetter seg at den mistenktes forsvarer får innsyn i opplysningene mot å bli pålagt taushetsplikt, og forsvareren mottar opplysningene.
 
-Tilrettelagt avhør. Avhør av barn
-og visse andre sårbare personer
+\(3\) Bestemmelsene om krav til forsvarere, oppnevning og godtgjørelse, jf. §§ 3-8, 3-9, 3-22 og 3-24, gjelder tilsvarende.
 
-§ 7-6.
+*§ 3-26. Den særskilte advokatens oppgaver*
 
-Forskrifter om lagring av bevis
+\(1\) Den særskilte advokaten
 
-§ 10-8.
+a\) skal på samfunnets vegne ivareta den mistenktes interesser og rettigheter i forbindelse med rettens behandling av begjæringer som nevnt i § 3-25, og
 
-Opptak og nedtegning av
-forklaringer
+b\) har taushetsplikt om alt som kommer frem i tilknytning til behandling av begjæring som nevnt i § 3-25, herunder overfor mistenkte og mistenktes forsvarer.
 
-§ 10-9.
+\(2\) Ved utførelsen av oppdraget har advokaten rett til å
 
-Føring av forklaringer under
-hoved- og ankeforhandling
+a\) gjøre seg kjent med begjæringen og grunnlaget for den,
 
-Kapittel 8.
+b\) få innsyn i sakens opplysninger etter kapittel 6,
 
-Bevisforbud
+c\) få varsel om rettsmøte etter § 31-2 annet ledd første punktum,
 
-§ 8-1.
+d\) uttale seg før retten treffer avgjørelse, og
 
-Bevisforbudenes virkninger
+e\) anke rettens beslutning etter kapittel 37.
 
-§ 10-10.
+\(3\) Den særskilte advokaten kan ikke gjøre tjeneste som forsvarer i saken.
 
-Anonyme vitner
+*§ 3-27. Forskrifter om forsvarere og særskilt advokat for mistenkte*
 
-§ 8-2.
+\(1\) Kongen gir forskrift om kvalifikasjonskrav for faste forsvarere og om antakelse av faste forsvarere.
 
-Bevisforbud til vern om
-grunnleggende nasjonale
-interesser, regjeringskonferanser,
-domskonferanser og opplysninger
-unntatt innsyn
+\(2\) Kongen kan gi forskrift om
 
-§ 10-11.
+a\) utenlandske advokaters adgang til å være forsvarer,
 
-Forskrifter om tilrettelagt avhør
+b\) påtalemyndighetens oppnevning av forsvarer,
 
-Kapittel 11. Sakkyndighet
+c\) oppnevning av forsvarer i saker hvor det vil bli gitt opplysninger som er sikkerhetsgradert etter sikkerhetsloven, og
 
-§ 8-3.
+d\) oppnevning av særskilt advokat for mistenkte.
 
-Bevisforbud til vern om
-fortrolighet
+**Kapittel 4. Fornærmede og bistandsadvokaten mv.**
 
-§ 8-4.
+*§ 4-1. Fornærmede, etterlatte og skadelidte*
 
-Bevisforbud som følge av
-forklaringsfritak. Pressens
-kildevern.
-Forretningshemmeligheter
+\(1\) Fornærmede er den som er direkte krenket ved en straffbar handling.
 
-§ 11-1.
+\(2\) Etterlatte er ektefelle eller samboer, barn og foreldre av en som er død som følge av en straffbar handling. Rettigheter etter loven disponeres av én av de etterlatte i rekkefølge som nevnt i første punktum. Var avdøde under 18 år, tilkommer rettighetene alltid først den som hadde foreldreansvar.
 
-Bistand fra sakkyndig
+\(3\) Skadelidte er den som har lidt skade eller tap ved en straffbar handling.
 
-§ 11-2.
+*§ 4-2. Rettigheter for fornærmede, etterlatte og andre skadelidte*
 
-Mandat
+\(1\) Fornærmede og etterlatte har rett til å
 
-§ 11-3.
+a\) la seg bistå etter § 4-3,
 
-Besvarelse av mandatet. Krav til
-sakkyndig uttalelse
+b\) bli underrettet om anmeldelse og etterforsking etter § 13-6,
 
-§ 11-4.
+c\) klage over påtalevedtak etter § 29-9,
 
-Rettens oppnevning av sakkyndig
+d\) få innsyn i sakens opplysninger etter kapittel 6,
 
-§ 11-5.
+e\) ta del i rettsmøter, med mindre annet er bestemt,
 
-Begjæring om sakkyndig
+f\) forklare seg,
 
-§ 11-6.
+g\) gi avsluttende bemerkninger før saken tas opp til doms etter § 35-4 fjerde ledd,
 
-Valg av rettsoppnevnt sakkyndig.
-Plikt til å gjøre tjeneste
+h\) bli underrettet om at en anke er henvist til behandling eller bortfalt etter § 32-10,
 
-§ 11-7.
+i\) motta godtgjørelse etter særskilt lov så langt vedkommende deltar under hoved- og ankeforhandlingen,
 
-Krav til habilitet og uavhengighet
-for rettsoppnevnte og
-påtaleantatte sakkyndige
+j\) fremme sivilt krav i straffesaken etter kapittel 43,
 
-§ 8-5.
+k\) anmode om etterforskingsskritt etter § 13-7,
 
-Bevisforbud ved rettsstridig
-innhenting og tilgang til bevis
+l\) uttale seg om gjenåpning etter § 41-18, og
 
-§ 8-6.
+m\) gjøres kjent med rettighetene etter denne bestemmelsen, jf. § 10-4 fjerde ledd.
 
-Unntak fra bevisforbud
+\(2\) Andre skadelidte har rett til å
 
-§ 8-7.
+a\) få innsyn i sakens opplysninger etter kapittel 6,
 
-Behandlingsmåten ved
-håndheving av bevisforbud
+b\) fremme sivilt krav i straffesaken etter kapittel 43, og
 
-§ 11-8.
+c\) la seg bistå av prosessfullmektig etter tvisteloven kapittel 3 ved behov.
 
-Kapittel 9.
+*§ 4-3. Rettslig bistand til fornærmede og etterlatte*
 
-Forklaringsplikt og
-forklaringsfritak
+Fornærmede og etterlatte har rett til å la seg bistå av
 
-Oppdragsbekreftelse og
-oppfølging. Bistand til innhenting
-av opplysninger
+a\) bistandsadvokat etter § 4-9,
 
-§ 11-9.
+b\) prosessfullmektig etter tvisteloven kapittel 3, og
 
-§ 9-1.
+c\) påtalemyndigheten når den fremmer sivile krav i saken etter § 43-9 tredje ledd på fornærmede og etterlattes vegne.
 
-Mistenktes taushetsrett
+*§ 4-4. Utøvelse av rettigheter for personer under 18 år og andre under vergemål*
 
-Den rettsmedisinske kommisjon.
-Ekstern kontroll
+Har fornærmede eller etterlatte verge, utøver vergen rettighetene etter § 4-2. Fornærmede og etterlatte som har fylt 15 år, kan utøve rettighetene selv, med mindre vedkommende er i en tilstand som angitt i straffeloven § 20 første ledd bokstav b til d, eller av andre grunner ikke er i stand til å ivareta sine interesser.
 
-§ 9-2.
+*§ 4-5. Bistandsadvokatens oppgaver*
 
-Forklaringsplikt for vitner
+\(1\) Bistandsadvokaten skal ivareta fornærmede og etterlattes interesser og rettigheter i saken og gi slik annen hjelp og støtte som er naturlig og rimelig.
 
-§ 11-10.
+\(2\) Ved utførelsen av oppdraget kan bistandsadvokaten
 
-§ 9-3.
+a\) utøve fornærmede og etterlattes rettigheter på deres vegne,
 
-Forklaringsfritak for mistenktes
-nærstående og om
-inkriminerende eller belastende
-opplysninger
+b\) ta del i politiets avhør av fornærmede og etterlatte og stille ytterligere spørsmål, og i nødvendig utstrekning delta ved åstedsbefaringer, rekonstruksjoner og lignende,
 
-Sakkyndiges møte i retten.
-Forsikring
+c\) i nødvendig utstrekning ta del i rettsmøter og stille spørsmål til fornærmede og etterlatte vedkommende representerer og supplerende spørsmål til tiltalte og vitner,
 
-§ 11-11.
+d\) foreslå supplerende bevisføring om straffekravet etter § 34-5,
 
-Taushetsplikt
+e\) uttale seg om prosessuelle spørsmål som angår fornærmede eller etterlatte, og
 
-§ 11-12.
+f\) underrettes om rettsavgjørelser i saken etter § 32-10.
 
-Godtgjørelse
+*§ 4-6. Formelle krav for å være bistandsadvokat. Bistand til advokatoppdraget*
 
-§ 11-13.
+\(1\) Bistandsadvokatoppdraget kan utføres av
 
-Forskrifter om sakkyndighet
+a\) advokat med norsk advokatbevilling, eller
 
-§ 9-4.
+b\) utenlandsk advokat når det er ubetenkelig, jf. § 4-7.
 
-Forklaringsfritak for pressen og
-kildevern
+Som bistandsadvokat ved Høyesterett brukes advokat med møterett for Høyesterett.
 
-§ 9-5.
+\(2\) Bistandsadvokatoppdraget skal utføres av den som påtar seg det. Advokatfullmektig kan bistå ved utførelsen av oppdraget med de begrensninger som følger av domstolloven § 223. Bistandsadvokaten kan også la seg bistå av andre når det er hensiktsmessig og ubetenkelig.
 
-Forklaringsfritak for
-forretningshemmeligheter
+*§ 4-7. Habilitet*
 
-[Side 22]
+\(1\) Ingen som selv er mistenkt, fornærmet eller etterlatt, eller som står i et slikt forhold til fornærmede, etterlatte eller mistenkte som nevnt i \[advokatloven § 76\], kan være bistandsadvokat.
 
-20
+\(2\) Samme person eller personer fra samme kontor kan ikke være bistandsadvokat for flere fornærmede eller etterlatte når det er holdepunkter for at disse har eller kan få motstridende interesser i saken. Det samme gjelder når andre ved kontoret er forsvarer i saken.
 
-NOU 2016: 24
+\(3\) Ingen kan være bistandsadvokat når det er utilrådelig at vedkommende gjør tjeneste i saken.
 
-Kapittel 1
+*§ 4-8. Bistandsadvokatens taushetsplikt*
 
-Ny straffeprosesslov
+\(1\) Bistandsadvokaten eller andre i bistandsadvokatens tjeneste plikter å hindre at andre får adgang eller kjennskap til det vedkommende i saken får vite om
 
-Kapittel 12. Bevissikring i retten
+a\) noens personlige forhold, eller
 
-§ 14-8.
+b\) tekniske innretninger og fremgangsmåter samt drifts- eller forretningsforhold som det vil være av konkurransemessig betydning å holde hemmelig av hensyn til den opplysningene angår.
 
-Varigheten av tvangstiltak
+\(2\) Taushetsplikten er ikke til hinder for at opplysningene brukes i den utstrekning det er nødvendig for å ivareta klientens interesser i saken.
 
-§ 12-1.
+*§ 4-9. Rett til bistandsadvokat*
 
-Rettslig avhør og rettslig
-undersøkelse av ting
+\(1\) Fornærmede har rett til bistandsadvokat i saker
 
-§ 14-9.
+a\) om overtredelse av straffeloven §§ 253, 257, 266 a, 274, 282, 284, 291, 294, 295, 296, 299, 302, 312, 314 og 327,
 
-Rapport om tvangstiltak
+b\) hvor det er grunn til å tro at fornærmede som følge av handlingen får betydelig skade på kropp eller helse, og
 
-§ 12-2.
+c\) der mistenkte har fått oppnevnt forsvarer for å delta i ungdomsstormøte.
 
-Krav til begjæring om
-bevissikring. Sikkerhetsstillelse
+\(2\) Etterlatte som hadde foreldreansvar, har rett til bistandsadvokat.
 
-§ 14-10.
+\(3\) Fornærmede, etterlatte og andre kan få bistandsadvokat når sakens art, alvor, hensynet til den berørte eller andre særlige forhold tilsier det.
 
-Underretning om tvangstiltak.
-Utsatt eller unnlatt underretning
+\(4\) Ved rettens behandling av kontakt- eller oppholdsforbud har den som skal beskyttes, krav på bistandsadvokat når tiltaket
 
-§ 14-11.
+a\) gjelder eget hjem, jf. § 23-2, eller
 
-Forskrifter om rapport og
-underretning om tvangstiltak
+b\) er ilagt på grunn av mistanke om overtredelse av straffeloven § 282.
 
-DEL 3.
+\(5\) Fornærmede har likevel ikke rett til bistandsadvokat i saker som nevnt i første ledd bokstav a og c når sakens karakter og forhold ved fornærmede gjør bruk av bistandsadvokat unødvendig.
 
-Etterforsking og tvangstiltak
+*§ 4-10. Koordinerende bistandsadvokat*
 
-Kapittel 13. Alminnelige regler om
-etterforsking
-§ 13-1.
+Én eller flere bistandsadvokater kan, når det er hensiktsmessig, gis i oppgave å
 
-Formålet med etterforskingen
+a\) samordne bistandsadvokatenes syn på ulike spørsmål i anledning saken, og
 
-§ 13-2.
+b\) stille spørsmål og fremsette krav for andre bistandsadvokater.
 
-Vilkår for etterforsking
+*§ 4-11. Oppnevning av bistandsadvokat. Felles bistandsadvokat*
 
-§ 13-3.
+\(1\) Bistandsadvokat oppnevnes av retten eller påtalemyndigheten. I hastetilfeller kan bistandsadvokat oppnevnes av tjenesteperson i politiet som ikke tilhører påtalemyndigheten. Beslutninger om oppnevning skal forelegges retten så raskt som mulig. Retten kan omgjøre beslutningen.
 
-Anmeldelse
+\(2\) Fornærmede og etterlattes ønske om en bestemt bistandsadvokat skal etterkommes, med mindre oppnevning vil føre til forsinkelse av betydning. Tilsvarende gjelder ved spørsmål om hvorvidt oppnevningen skal stå ved lag. Retten kan bestemme at én bistandsadvokat skal utføre hele eller deler av oppdraget for flere fornærmede eller etterlatte, når det ikke er holdepunkter for at det foreligger eller kan oppstå motstridende interesser, og det er hensiktsmessig for gjennomføringen på grunn av
 
-§ 13-4.
+a\) antallet fornærmede og etterlatte med krav på bistandsadvokat,
 
-Ansvaret for og styringen av
-etterforskingen
+b\) sakens omfang og kompleksitet,
 
-§ 13-5.
+c\) prosessøkonomiske hensyn, eller
 
-Grunnleggende krav til
-etterforskingen
+d\) andre særlige forhold.
 
-§ 13-6.
+\(3\) Oppdraget kan avgrenses.
 
-Underretning om anmeldelse og
-etterforsking. Skjult etterforsking
+\(4\) Hvis fornærmede dør, avgjør retten om oppnevning skal stå ved lag
 
-§ 13-7.
+*§ 4-12. Faste bistandsadvokater*
 
-Begjæring fra mistenkte og andre
-om etterforskingsskritt
+\(1\) Domstoladministrasjonen antar et tilstrekkelig antall faste bistandsadvokater ved tingrettene, lagmannsrettene og Høyesterett som gjør tjeneste når fornærmede eller etterlatte ikke ønsker en bestemt bistandsadvokat.
 
-§ 13-8.
+\(2\) Faste bistandsadvokater gjør tjeneste etter tur med mindre
 
-Midlertidig utsettelse
+a\) det vil føre til forsinkelse av betydning, eller
 
-§ 13-9.
+b\) andre særlige forhold tilsier at en fraviker rekkefølgen.
 
-Forskrifter om utføring av
-etterforskingen
+*§ 4-13. Godtgjørelse til bistandsadvokaten*
 
-Kapittel 14. Tvangstiltak. Grunnvilkår og
-fellesregler
-§ 14-1.
+Bistandsadvokat oppnevnt etter § 4-11 har krav på godtgjørelse av staten. Om godtgjørelsen gjelder § 3-24 tilsvarende.
 
-Grunnvilkår for tvangstiltak.
-Mistanke-, kriminalitets- og
-forholdsmessighetskrav
+*§ 4-14. Forskrifter om bistandsadvokater*
 
-§ 14-2.
+\(1\) Kongen gir forskrift om kvalifikasjonskrav for faste bistandsadvokater og om antakelsen av faste bistandsadvokater.
 
-Tvangstiltak for å avverge en
-straffbar handling
+\(2\) Kongen kan gi forskrift om oppnevning av bistandsadvokat som ikke besluttes av retten og om statens dekning av merutgifter ved oppnevning av bistandsadvokat med kontor utenfor lagdømmet.
 
-§ 14-3.
+**Kapittel 5. Domstolene**
 
-Myndighet til å beslutte
-tvangstiltak. Begjæring.
-Hastetilfeller. Kontroll
+*§ 5-1. Forholdet mellom domstolene og straffesakens øvrige aktører*
 
-§ 14-4.
+\(1\) Domstolene behandler bare saker etter begjæring. Behandlingen opphører dersom begjæringen tas tilbake.
 
-Krav til påtalemyndighetens
-begjæringer og beslutninger
+\(2\) Retten prøver av eget tiltak om den som fremsetter en begjæring, er berettiget til det.
 
-§ 14-5.
+*§ 5-2. Tingrettens myndighet*
 
-Gjennomføring av tvangstiltak.
-Adgang til maktbruk og krav til
-skånsomhet.
-Innbrudd. Uriktige
-identifikasjonsdokumenter
+Tingrettene behandler saker i første instans.
 
-§ 14-6.
+*§ 5-3. Lagmannsrettens myndighet*
 
-§ 14-7.
+Lagmannsrettene behandler anke over tingrettens avgjørelser, med mindre anken behandles av Høyesterett etter § 5-4 bokstav b.
 
-Plikt til å medvirke til
-gjennomføring av tvangstiltak.
-Tilgangsopplysninger.
-Biometrisk autentisering
-Taushetspålegg
+*§ 5-4. Høyesteretts myndighet*
 
-Kapittel 15. Meldeplikt, pågripelse og
-fengsling mv.
-§ 15-1.
+Høyesterett behandler, med de begrensninger som følger av §§ 37-2 og 37-3,
 
-Begrensninger i
-bevegelsesfriheten ved
-unndragelsesfare
+a\) anke over lagmannsrettens avgjørelser, og
 
-§ 15-2.
+b\) anke over tingrettens avgjørelser når saken reiser særlig viktige prinsipielle spørsmål som det er av betydning raskt å få Høyesteretts standpunkt til, og det er forsvarlig å unnlate behandling i lagmannsretten.
 
-Begrensninger i
-bevegelsesfriheten ved
-bevisforspillelsesfare
+*§ 5-5. Tingrettens sammensetning*
 
-§ 15-3.
+\(1\) Tingretten settes med én fagdommer
 
-Begrensninger i
-bevegelsesfriheten av hensyn til
-allmenhetens retts- og
-trygghetsfølelse
+a\) utenfor hovedforhandling, jf. domstolloven § 21 annet ledd,
 
-§ 15-4.
+b\) i saker om forenklet behandling etter kapittel 36, og
 
-Pågripelse og fengsling etter
-mistenktes begjæring
+c\) når tiltale er reist etter at forelegg ikke er vedtatt, det kun er spørsmål om å idømme bot, og retten ikke finner behandlingsmåten betenkelig.
 
-§ 15-5.
+\(2\) Tingretten settes med én fagdommer og to meddommere ved hovedforhandling i andre tilfeller enn etter første ledd bokstav c. I saker som er omfattende, eller hvor særlige forhold foreligger, kan tingretten settes med to fagdommere og tre meddommere. Beslutninger etter annet punktum treffes av domstolens leder eller den vedkommende bemyndiger, og kan ikke ankes.
 
-Begrensninger i
-bevegelsesfriheten ved fare for ny
-straffbar handling
+\(3\) Retten kan settes med fagkyndige meddommere når det er behov for det, jf. § 5-7. Er flere forhold forent til behandling i én sak, behandles hele saken med fagkyndige meddommere.
 
-§ 15-6.
+\(4\) Fagdommeren kan treffe avgjørelser som ikke etter sin art hører til hovedforhandlingen.
 
-Begrensninger i
-bevegelsesfriheten ved
-vilkårsbrudd
+*§ 5-6. Lagmannsrettens sammensetning*
 
-§ 15-7.
+\(1\) Lagmannsretten settes med tre fagdommere
 
-Pågripelse og fengsling av
-mistenkte for å sikre fremstilling
+a\) utenfor ankeforhandling, jf. domstolloven § 12, og
 
-§ 15-8.
+b\) ved ankeforhandling som gjelder saksbehandlingen eller lovanvendelsen.
 
-Avhenting og fengslig forvaring
-av vitner. Fengsling for å sikre
-oppfyllelse av
-vitneplikt mv.
+\(2\) Lagmannsretten settes, \[med mindre annet følger av …\], med tre fagdommere og fire meddommere ved ankeforhandling som gjelder
 
-§ 15-9.
+a\) bevisbedømmelsen under skyldspørsmålet, eller
 
-Midlertidig overføring av
-frihetsberøvet person mellom
-Norge og utlandet
+b\) reaksjonsfastsettelsen.
 
-§ 15-10.
+\(3\) Retten kan i saker etter annet ledd settes med fagkyndige meddommere når det er behov for det, jf. § 5-7. Er flere forhold forent til behandling i én sak, behandles hele saken med fagkyndige meddommere.
 
-Pågripelse og fengsling av
-utilregnelige
+\(4\) Avgjørelser under saksforberedelsen etter § 39-5, jf. kapittel 34, treffes av saksforberedende dommer. Avgjørelser etter §§ 10-10, 34-13 og 39-2 annet ledd treffes av tre dommere.
 
-§ 15-11.
+\(5\) Rettens leder kan treffe avgjørelser som ikke etter sin art hører til ankeforhandlingen.
 
-Fengsling av mistenkte under
-18 år
+*§ 5-7. Oppnevning av fagkyndige meddommere*
 
-§ 15-12.
+Fagkyndige meddommere oppnevnes av retten, jf. domstolloven § 94. Partene skal få uttale seg om oppnevningen og kan foreslå fagkyndige meddommere.
 
-Restriksjoner under pågripelse og
-fengsling. Isolasjon
+*§ 5-8. Varamedlemmer for meddommerne*
 
-§ 15-13.
+I langvarige saker, eller i andre saker hvor konsekvensene av forfall tilsier det, kan retten beslutte oppnevning av varamedlemmer for meddommerne. Varamedlemmene skal følge forhandlingene og tre inn i retten om noen får forfall.
 
-Beslutningsmyndighet og adgang
-til rettslig prøving
+*§ 5-9. Høyesteretts sammensetning*
 
-§ 15-14.
+\(1\) Dommersammensetningen i Høyesterett er fastsatt i domstolloven § 5.
 
-Underretning til nærstående om
-pågripelse og fengsling
+\(2\) Høyesteretts ankeutvalg avgjør
 
-§ 15-15.
+a\) anke over beslutning, med mindre saken henvises til behandling i avdeling etter domstolloven § 5 første ledd annet punktum,
 
-Løslatelse eller fremstilling for
-fengsling
+b\) om anke over dom skal fremmes for avdeling etter §§ 38-2 og 38-3 annet ledd,
 
-[Side 23]
+c\) om det skal gis samtykke til behandling av anke over tingrettens avgjørelse etter § 5-4 første ledd bokstav b.
 
-21
+*§ 5-10. Verneting*
 
-NOU 2016: 24
-Ny straffeprosesslov
+\(1\) Enkeltstående rettergangsskritt foretas som regel i den rettskrets der den som skal avhøres, bor eller oppholder seg, eller der den ting som rettshandlingen gjelder, antas å være.
 
-Kapittel 1
+\(2\) Hovedforhandling holdes i den rettskrets der den straffbare handling påstås foretatt, eller i en av de rettskretser der den kan være foretatt. Ved gjenåpning gjelder § 41-22.
 
-§ 15-16.
+\(3\) Er den straffbare handling foretatt om bord i norsk skip eller luftfartøy under reise i eller utenfor riket, kan hovedforhandling etter påtalemyndighetens valg holdes i den rettskrets der skipet eller luftfartøyet har hjemsted, eller der det først anløper, eller der etterforsking først blir satt i verk. Tilsvarende gjelder når handlingen er foretatt om bord på norsk boreplattform eller lignende flyttbar innretning under reise i eller utenfor riket. For luftfartøy regnes eierens bopel eller forretningskontor som hjemsted.
 
-Fengslingsforlengelse. Løslatelse
-ved manglende fremdrift
+*§ 5-11. Adgang til å fravike vernetingsreglene*
 
-§ 18-6.
+\(1\) Kan det ikke påvises verneting etter § 5-10, ville forfølgning ved vernetinget medføre vesentlig ulempe, forsinkelse eller utgift, eller er det for øvrig hensiktsmessig for sakens opplysning, kan påtalemyndigheten velge verneting der saken antas lettest å kunne bli opplyst.
 
-Gjennomføring av ransaking
+\(2\) Forhold som forenes til behandling i én sak etter § 30-3, kan forfølges i enhver rettskrets der et av forholdene kunne ha vært forfulgt. Ved valg av verneting skal påtalemyndigheten vurdere momentene i første ledd. Blir det besluttet at sakene likevel ikke skal forenes etter at de er innkommet domstolen, bestemmer retten om sak som bare på grunn av foreningen er brakt inn for den, skal fremmes til pådømmelse.
 
-§ 15-17.
+\(3\) Vernetingsreglene kan fravikes med mistenktes samtykke. Dersom mistenkte møter, prøver retten ikke av eget tiltak om saken er brakt inn for riktig domstol.
 
-Fortsatt fengsling ved
-hovedforhandling og etter dom
+\(4\) Med samtykke fra den rett saken er brakt inn for, kan påtalemyndigheten overføre forfølgningen av en påbegynt sak til en annen domstol der det er verneting for saken. Dersom det under hovedforhandlingen fremkommer nye opplysninger av betydning for valg av verneting, avgjør retten om saken skal fortsette for den domstol den er brakt inn for.
 
-§ 18-7.
+**Kapittel 6. Innsyn i sakens opplysninger**
 
-Undersøkelse av ting
+*§ 6-1. Rett til innsyn for mistenkte og forsvareren. Sakens opplysninger*
 
-§ 18-8.
+\(1\) Mistenkte og forsvareren har rett til innsyn i sakens opplysninger med mindre annet er bestemt i dette kapitlet.
 
-Avsperring av steder og pålegg
+\(2\) Sakens opplysninger omfatter all informasjon som er fremkommet som ledd i etterforskingen eller rettens behandling av saken. Informasjon som stammer fra politiets forebyggende virksomhet eller som foranlediget etterforskingen, omfattes ikke, med mindre den kan ha betydning for mistenktes forsvar. Det samme gjelder opplysninger utarbeidet for intern bruk.
 
-§ 15-18.
+*§ 6-2. Rett til innsyn for fornærmede, etterlatte, skadelidte og andre med rettslig interesse*
 
-Plassering av fengslede i
-institusjon eller kommunal
-boenhet
+Fornærmede, etterlatte og skadelidte har, med mindre annet er bestemt i dette kapitlet, rett til innsyn i sakens opplysninger så langt det er nødvendig for at de skal kunne ivareta sine interesser. Det samme gjelder den som har rettslig interesse i en sak hvor opplysningene kan ha betydning.
 
-§ 15-19.
+*§ 6-3. Rett til innsyn for enhver*
 
-Sikkerhetsstillelse
+\(1\) Enhver har rett til innsyn i
 
-§ 15-20.
+a\) tiltalebeslutningen, når den er forkynt for tiltalte, og det ikke er sannsynlig at saken helt eller delvis vil bli ført for lukkede dører,
 
-Forskrifter om elektronisk
-kontroll og om forholdene i
-politiarrest mv.
-
-Kapittel 16. Personundersøkelse,
-psykiatrisk undersøkelse og
-psykologisk undersøkelse
-§ 16-1.
-
-Personundersøkelse
-
-§ 16-2.
-
-Psykiatrisk undersøkelse og
-psykologisk undersøkelse.
-Opphold i institusjon
-
-§ 16-3.
-
-Forskrifter om
-personundersøkelse, psykiatrisk
-undersøkelse og psykologisk
-undersøkelse
-
-Kapittel 17. Kroppsundersøkelse og
-identifiseringstiltak mv.
-§ 17-1.
-
-Kroppsundersøkelse av mistenkte
-
-§ 17-2.
-
-Innhenting av biologisk materiale
-for utelukkelse eller identifikasjon
-
-§ 17-3.
-
-Undersøkelser med
-registreringsformål
-
-§ 17-4.
-
-Forskrifter om bruk av prøver og
-analysedata i forskning
-
-Kapittel 18. Ransaking og undersøkelse
-av ting
-
-Kapittel 19. Beslag og utleveringspålegg.
-Inndragning besluttet av
-påtalemyndigheten
-§ 19-1.
-
-Beslag av bevis og ting som kan
-inndras eller utleveres. Rettslig
-kontroll
-
-§ 19-2.
-
-Hemmelig beslag
-
-§ 19-3.
-
-Krav til beslagsrapport
-
-§ 19-4.
-
-Realisering av beslag. Bortfall og
-tilbakelevering. Tvist om rett til
-tingen
-
-§ 19-5.
-
-Inndragning besluttet av
-påtalemyndigheten. Farlige
-gjenstander,
-våpenetterligninger og ting uten
-kjent persontilknytning
-
-§ 19-6.
-
-Sikringspålegg
-
-§ 19-7.
-
-Utleveringspålegg. Pålegg med
-virkning for fremtiden.
-Sikkerhetsstillelse.
-
-§ 19-8.
-
-Hemmelig utleveringspålegg
-
-§ 19-9.
-
-Forskrifter om behandling av
-databeslag og oppbevaring av
-bevis
-
-Kapittel 20. Inngrep i kommunikasjon mv.
-§ 20-1.
-
-Innhenting av opplysninger om
-kommunikasjonsinnretninger.
-Avbryting av
-kommunikasjon
-
-§ 20-2.
-
-Avlytting og avlesing av
-kommunikasjonsinnretning.
-Identifisering av innretning
-
-§ 20-3.
-
-Romavlytting mv.
-
-§ 18-1.
-
-Ransaking av mistenktes person
-og bolig mv.
-
-§ 18-2.
-
-Ransaking av andre enn
-mistenktes bolig mv. og deres
-person
-
-§ 20-4.
-
-Dataavlesing
-
-§ 20-5.
-
-§ 18-3.
-
-Ransaking av boliger mv. i et
-større område
-
-Opphør av avlytting og opptak på
-grunn av bevisforbud mv. Sletting
-
-§ 20-6.
-
-§ 18-4.
-
-Ransaking av offentlig
-tilgjengelige bygninger og
-utendørsarealer
-
-Lagring. Sletting og sperring av
-opplysninger etter endelig
-avgjørelse
-
-§ 20-7.
-
-Taushetsplikt og adgang til å
-benytte informasjon
-
-§ 18-5.
-
-Hemmelig ransaking
-
-[Side 24]
-
-22
-
-NOU 2016: 24
-
-Kapittel 1
-
-Ny straffeprosesslov
-
-§ 20-8.
-
-Underretning til personer som
-har vært underlagt
-kommunikasjonskontroll
-
-§ 23-5.
-
-Forutsetninger for forbud og
-varighet
-
-§ 20-9.
-
-Kontrollutvalget
-
-§ 23-6.
-
-Underretning mv.
-
-§ 20-10.
-
-Forskrifter om inngrep i
-kommunikasjon og om
-Kontrollutvalget
-
-§ 23-7.
-
-Rettslig prøving
-
-DEL 4.
-
-Internasjonalt samarbeid
-
-Kapittel 21. Obser verende, kontrollerende
-og påvirkende tiltak
-§ 21-1.
-
-Spaning
-
-§ 21-2.
-
-Teknisk sporing
-
-§ 21-3.
-
-Skjult kameraovervåking
-
-§ 21-4.
-
-Infiltrasjon. Adgang til å foreta
-ellers straffbare handlinger.
-Avlytting og opptak av
-samtale med samtykke fra en
-samtalepart
-
-§ 21-5.
-
-Påvirkning av hendelsesforløp og
-bevisprovokasjon
-
-§ 21-6.
-
-Beslutningsmyndighet og krav til
-gjennomføring, kontroll og
-dokumentasjon
-
-§ 21-7.
-
-Forskrifter om observerende,
-kontrollerende og påvirkende
-tiltak
-
-Kapittel 22. Inngrep i mistenktes formue.
-Heftelse og båndlegging
-§ 22-1.
-
-Heftelse
-
-§ 22-2.
-
-Båndlegging av formue ved
-unndragelse
-
-§ 22-3.
-
-Båndlegging av formue i
-terrorsaker. Utsatt underretning
-
-§ 22-4.
-
-Iverksetting
-
-§ 22-5.
-
-Rettslig prøving. Tvist om rett til
-formuesgode
-
-§ 22-6.
-
-Opphør
-
-Kapittel 23. Kontakt- og oppholdsforbud
-
-Kapittel 24. Bistand fra utenlandske
-myndigheter
-§ 24-1.
-
-Anmodning til utenlandsk
-myndighet om bistand.
-Beslutningsmyndighet mv.
-
-§ 24-2.
-
-Krav til anmodningens innhold
-
-§ 24-3.
-
-Oversendelsesmåte
-
-§ 24-4.
-
-Vilkår for bistand fra utenlandsk
-myndighet
-
-§ 24-5.
-
-Forskrifter om utforming og
-oversendelse av anmodning til
-utlandet
-
-Kapittel 25. Bistand til utenlandske
-myndigheter og internasjonale
-domstoler
-§ 25-1.
-
-Bistand etter anmodning fra
-utenlandsk myndighet og
-internasjonal domstol
-
-§ 25-2.
-
-Forholdet til norsk rett. Bruk av
-tvangstiltak
-
-§ 25-3.
-
-Plikt til å etterkomme anmodning
-fra utenlandsk myndighet.
-Avslagsgrunner
-
-§ 25-4.
-
-Ansvar for behandlingen. Prøving
-av anmodning fra utenlandsk
-myndighet
-
-§ 25-5.
-
-Anmodning om særskilt
-fremgangsmåte. Varsel til partene
-
-§ 25-6.
-
-Frister. Ufullstendig anmodning
-
-§ 25-7.
-
-Kostnader
-
-§ 25-8.
-
-Vilkår for bistand til utenlandsk
-myndighet. Spesialitetsprinsippet
-
-§ 23-1.
-
-Kontakt og oppholdsforbud ved
-fare for personkrenkelse
-
-§ 25-9.
-
-Svar til anmodende myndighet i
-utlandet
-
-§ 23-2.
-
-Oppholdsforbud i eget hjem
-
-§ 25-10.
-
-§ 23-3.
-
-Oppholdsforbud rettet mot barn
-
-§ 23-4.
-
-Oppholdsforbud ved fare for
-voldelige sammenstøt mellom
-grupper
-
-Rettslig fjernmøte og fjernavhør
-etter anmodning fra utenlandsk
-myndighet
-
-§ 25-11.
-
-Overlevering av beslaglagte ting
-til utenlandsk myndighet
-
-[Side 25]
-
-23
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-Kapittel 1
-
-§ 25-12.
-
-Særlige former for bistand i
-anledning inngrep i
-kommunikasjon mv.
-
-§ 29-5.
-
-Omgjøring av vedtak om
-overføring til konfliktråd
-
-§ 25-13.
-
-Forskrifter om bistand til
-utenlandsk myndighet
-
-§ 29-6.
-
-Opphevelse av vedtatt forelegg
-
-§ 29-7.
-
-Endring av tiltalen. Frafall
-
-§ 29-8.
-
-Omgjøring av straffetilsagn
-
-§ 29-9.
-
-Klage over påtalevedtak
-
-§ 29-10.
-
-Rettslig prøving av vedtak om
-påtaleunnlatelse
-
-§ 29-11.
-
-Anke over vedtatt forelegg
-
-§ 29-12.
-
-Gjenåpning ved vedtatt forelegg
-
-DEL 6.
-
-Generelle regler om rettens
-saksbehandling og avgjørelser
-
-Kapittel 26. Bording av fartøy mv.
-§ 26-1.
-
-Samarbeid om bording av fartøy
-mv.
-
-§ 26-2.
-
-Samarbeid om særskilte
-operasjoner utenfor Norges
-territorialfarvann
-
-Kapittel 27. Overføring av straffesaker
-§ 27-1.
-
-Overføring av straffesak til
-utlandet
-
-§ 27-2.
-
-Overføring av straffesak fra
-utlandet til Norge
-
-§ 27-3.
-
-Overføring av straffesak til eller
-fra internasjonal domstol
-
-DEL 5.
-
-Påtalevedtak
-
-Kapittel 28. Avgjørelse av påtalespørsmålet
-mv.
-§ 28-1.
-
-Frist for påtalevedtak
-
-§ 28-2.
-
-Henleggelse
-
-§ 28-3.
-
-Påtaleunnlatelse
-
-§ 28-4.
-
-Overføring til konfliktråd
-
-§ 28-5.
-
-Forelegg
-
-§ 28-6.
-
-Tiltale
-
-§ 28-7.
-
-Tilsagn om straffepåstand
-
-§ 28-8.
-
-Utforming av påtalevedtak
-
-§ 28-9.
-
-Underretning om påtalevedtak
-
-Kapittel 29. Omgjøring og overprøving av
-påtalevedtak mv.
-§ 29-1.
-
-Generelt om omgjøring av
-påtalevedtak
-
-§ 29-2.
-
-Kapittel 30. Saksstyring og veiledning.
-Virkning av at sak er reist.
-Forening og oppdeling av
-straffesaker
-§ 30-1.
-
-Rettens saksstyring og veiledning
-
-§ 30-2.
-
-Avvisning på grunn av verserende
-sak. Utsettelse
-
-§ 30-3.
-
-Forening av saker
-
-§ 30-4.
-
-Oppdeling av forhandlingene eller
-avgjørelsen
-
-Kapittel 31. Rettsmøter
-§ 31-1.
-
-Behandling i rettsmøte.
-Fjernmøte
-
-§ 31-2.
-
-Innkalling til og varsling om
-rettsmøte
-
-§ 31-3.
-
-Utgiftsdekning og
-møtegodtgjørelse
-
-§ 31-4.
-
-Mistenktes plikt til å møte og ta
-del i rettsmøte
-
-§ 31-5.
-
-Utelukkelse fra rettsmøte
-
-§ 31-6.
-
-Utsettelse av rettsmøte
-
-Kapittel 32. Rettens avgjørelser
-§ 32-1.
-
-Overordnet påtalemyndighets
-omgjøringsadgang
-
-Tidspunktet for rettens
-avgjørelser
-
-§ 32-2.
-
-§ 29-3.
-
-Omgjøring av vedtak om
-henleggelse
-
-Avgjørelsesform. Dommer og
-beslutninger
-
-§ 32-3.
-
-§ 29-4.
-
-Omgjøring av vedtak om
-påtaleunnlatelse
-
-Rettens forhold til partenes krav
-og påstander mv.
-
-[Side 26]
-
-24
-
-NOU 2016: 24
-
-Kapittel 1
-
-Ny straffeprosesslov
-
-§ 32-4.
-
-Det faktiske grunnlaget for
-rettens avgjørelser
-
-§ 34-8.
-
-Rettens tilgang til sakens
-opplysninger
-
-§ 32-5.
-
-Det rettslige grunnlaget for
-rettens avgjørelser
-
-§ 34-9.
-
-Saksforberedende rettsmøte
-
-§ 32-6.
-
-Rådslagning og avstemning
-
-§ 34-10.
-
-Skriftlig redegjørelse
-
-§ 32-7.
-
-Begrunnelse
-
-§ 34-11.
-
-Felles saksfremstilling
-
-§ 32-8.
-
-Skriftlig utforming og innhold
-
-§ 34-12.
-
-Sluttinnlegg
-
-§ 32-9.
-
-Avsigelse
-
-§ 34-13.
-
-Avvisning, heving og frifinnelse
-under saksforberedelsen
-
-§ 32-10.
-
-Underretning
-
-§ 32-11.
-
-Virkninger av rettens avgjørelser
-
-Kapittel 35. Hovedforhandling
-
-§ 32-12.
-
-Rettskraft
-
-§ 35-1.
-
-§ 32-13.
-
-Krav om inndragning etter
-rettskraftig dom
-
-Rettens styring av
-hovedforhandlingen
-
-§ 35-2.
-
-Muntlig hovedforhandling
-
-§ 32-14.
-
-Felles avgjørelse i saker med
-rettskraftig dom
-
-§ 35-3.
-
-Innledning av forhandlingene
-
-§ 32-15.
-
-Tilleggsavgjørelse
-
-§ 35-4.
-
-Bevisføringen
-
-§ 32-16.
-
-Omgjøring
-
-§ 35-5.
-
-Prosedyre. Avslutning av
-forhandlingene
-
-§ 32-17.
-
-Retting
-Kapittel 36. Forenklet behandling
-
-Kapittel 33. Fravær fra rettsmøter.
-Fraværsavgjørelse mv.
-
-§ 36-1.
-
-Vilkår for forenklet behandling
-
-§ 36-2.
-
-Krav til begjæring om forenklet
-behandling
-
-§ 33-1.
-
-Gyldig fravær
-
-§ 33-2.
-
-Gjennomføring av rettsmøter ved
-fravær
-
-§ 36-3.
-
-Rettens behandling
-
-§ 33-3.
-
-Fraværsavgjørelse
-
-§ 33-4.
-
-Ny behandling eller omgjøring
-etter fraværsavgjørelse mv.
-
-DEL 8.
-
-Anke
-
-Kapittel 37. Ankeadgang og ankeerklæring
-§ 37-1.
-
-Ankerett, ankegjenstand og
-ankegrunner
-
-§ 37-2.
-
-Kapittel 34. Forberedelse til
-hovedforhandling
-
-Begrensninger i adgangen til å
-anke over beslutning
-
-§ 37-3.
-
-§ 34-1.
-
-Påtalemyndighetens oversendelse
-til retten
-
-Begrensninger i adgangen til å
-anke over dom
-
-§ 37-4.
-
-Ankefrist
-
-§ 34-2.
-
-Rettens innledende behandling
-
-§ 37-5.
-
-Motanke
-
-§ 34-3.
-
-Påtalemyndighetens underretning
-til tiltalte mv. Oversendelser
-
-§ 37-6.
-
-Ankeerklæringen
-
-§ 37-7.
-
-Frafall av erklært anke
-
-§ 34-4.
-
-Forsvarers tilsvar
-
-§ 37-8.
-
-§ 34-5.
-
-Bistandsadvokatens tilsvar mv.
-
-Utsettende virkning ved anke over
-beslutning
-
-§ 34-6.
-
-Endringer i tiltalebeslutningen
-eller bevistilbudet
-
-§ 37-9.
-
-§ 34-7.
-
-Saksstyring. Videre
-saksforberedelse ved behov
-
-Foreløpig behandling av
-ankesaken ved den domstol som
-mottar anke
-
-DEL 7.
-
-Tingrettens behandling av
-straffekravet
-
-[Side 27]
-
-25
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-Kapittel 1
-
-Kapittel 38. Avvisning og henvisning av
-anke
-
-DEL 9.
-
-§ 38-1.
-
-Kapittel 40. Fullbyrding
-
-Ankedomstolens plikter når
-anken er mottatt. Retting.
-Avvisning
-
-Fullbyrding og gjenåpning
-
-§ 40-1.
-
-Fullbyrding av straff eller annen
-strafferettslig reaksjon
-
-§ 38-2.
-
-Nektelse av anke over beslutning
-til Høyesterett
-
-§ 40-2.
-
-Iverksetting
-
-§ 38-3.
-
-Nektelse av og samtykke til
-realitetsbehandling av anke over
-dom
-
-§ 40-3.
-
-Pålegg om oppmøte til
-fullbyrding. Avhenting
-
-§ 40-4.
-
-Tvist om fullbyrding. Fastsetting
-av straff ved utlevering
-
-§ 40-5.
-
-Forskrifter om fullbyrding
-
-§ 38-4.
-
-Saksbehandling ved spørsmål om
-avvisning og henvisning av anke
-
-§ 38-5.
-
-Henvisning
-Kapittel 41. Gjenåpning
-
-Kapittel 39. Realitetsbehandling av anke
-
-§ 41-1.
-
-Avgjørelser som kan gjenåpnes
-
-§ 39-1.
-
-Behandlingsform og
-avgjørelsesgrunnlag ved anke
-over beslutning
-
-§ 41-2.
-
-Beslutningsmyndighet.
-Kommisjonen for gjenopptakelse
-av straffesaker
-
-§ 39-2.
-
-Behandlingsform og
-avgjørelsesgrunnlag ved anke
-over dom
-
-§ 41-3.
-
-Rett til å begjære gjenåpning
-
-§ 41-4.
-
-Krav til begjæring om gjenåpning
-
-§ 41-5.
-
-Gjenåpning til domfeltes gunst på
-grunn av nytt bevis eller en ny
-omstendighet
-
-§ 41-6.
-
-Gjenåpning til mistenktes ugunst
-på grunn av nytt bevis eller en ny
-omstendighet
-
-§ 41-7.
-
-Gjenåpning til domfeltes gunst på
-grunn av forhold ved
-lovanvendelsen
-
-§ 41-8.
-
-Gjenåpning til domfeltes gunst på
-grunn av feil ved
-saksbehandlingen
-
-§ 39-3.
-
-Rettens forhold til ankegrunnene
-ved anke over beslutning
-
-§ 39-4.
-
-Rettens forhold til ankegrunnene
-ved anke over dom
-
-§ 39-5.
-
-Forberedelse til ankeforhandling.
-Berammelse
-
-§ 39-6.
-
-Gjennomføring av
-ankeforhandling
-
-§ 39-7.
-
-Realitetsbehandling av anke
-til Høyesterett
-
-§ 39-8.
-
-Avgjørelse av anke over
-beslutning
-
-§ 41-9.
-
-§ 39-9.
-
-Avgjørelse av anke over dom
-når det er anket over
-bevisbedømmelsen under
-skyldspørsmålet
-
-Gjenåpning til mistenktes ugunst
-på grunn av feil ved
-saksbehandlingen
-
-§ 41-10.
-
-Gjenåpning til domfeltes gunst i
-særlige tilfeller
-
-§ 41-11.
-
-Gjenåpning av dommer eldre enn
-25 år
-
-§ 41-12.
-
-Kommisjonen for gjenopptakelse
-av straffesaker. Uavhengighet
-
-§ 41-13.
-
-Kommisjonens sammensetning
-
-§ 41-14.
-
-Regler om habilitet, taushetsplikt
-og politiattest
-
-§ 41-15.
-
-Kommisjonens utrednings-,
-behandlings- og
-begrunnelsesplikt
-
-§ 39-10.
-
-Avgjørelse av anke over dom
-når det er anket over
-saksbehandlingen
-
-§ 39-11.
-
-Avgjørelse av anke over dom når
-det er anket over lovanvendelsen
-eller reaksjonsfastsettelsen
-
-§ 39-12.
-
-Videre behandling av saken etter
-opphevelse
-
-[Side 28]
-
-26
-
-NOU 2016: 24
-
-Kapittel 1
-
-Ny straffeprosesslov
-
-§ 43-5.
-
-Forsvarerens og
-bistandsadvokatens ansvar for
-sivile krav
-
-§ 43-6.
-
-Krav til begjæring mv.
-
-Avhør
-
-§ 43-7.
-
-§ 41-20.
-
-Tvangstiltak. Bevissikring.
-Sakkyndige
-
-Saksbehandling. Underretning til
-skadelidte. Utredning
-
-§ 43-8.
-
-§ 41-21.
-
-Muntlige høringer
-
-Vilkår for ikke å fremme krav til
-pådømmelse
-
-§ 41-22.
-
-Valg av domstol til å behandle
-gjenåpnet sak
-
-§ 43-9.
-
-Ansvar for kravet ved rettslig
-behandling
-
-§ 41-23.
-
-Behandling av gjenåpnet sak
-
-§ 43-10.
-
-§ 41-24.
-
-Domstolsprøving av
-kommisjonens avgjørelser
-
-Rettslig behandling. Utsettelse,
-frafall, oppfyllelse
-
-§ 43-11.
-
-§ 41-25.
-
-Tilbakekall av begjæring om
-gjenåpning
-
-Pådømmelse. Dom for del av
-kravet. Ensrettingsprinsippet.
-Oppfyllelse
-
-§ 43-12.
-
-Krav som ikke tas til behandling.
-Ny behandling av krav. Nye krav.
-Særskilt anke
-
-§ 43-13.
-
-Begjæring om ankebehandling.
-Saksbehandling
-
-§ 43-14.
-
-Ankebehandling. Bortfall
-
-§ 43-15.
-
-Innkreving
-
-§ 43-16.
-
-Gjenåpning
-
-§ 43-17.
-
-Sakskostnader
-
-§ 41-16.
-
-Avgjørelsesmyndighet
-
-§ 41-17.
-
-Kommisjonens forhold til partene
-
-§ 41-18.
-
-Kommisjonens forhold til
-fornærmede og etterlatte
-
-§ 41-19.
-
-DEL 10.
-
-Militære straffesaker
-
-Kapittel 42. Militære straffesaker
-§ 42-1.
-
-Militære straffesaker
-
-§ 42-2.
-
-Militærperson
-
-§ 42-3.
-
-Den militære påtalemyndighet
-
-§ 42-4.
-
-Etterforsking av militære
-straffesaker. Forholdet mellom
-den militære påtalemyndighet og
-militærpolitiet
-
-§ 42-5.
-
-Påtalekompetanse
-
-§ 42-6.
-
-Orientering om påtalevedtak til
-militær sjef
-
-Kapittel 44. Sakskostnader
-§ 44-1.
-
-Krav om dekning av
-sakskostnader når saken ender
-uten konstatering av straffansvar
-
-§ 44-2.
-
-Statens krav om dekning av
-sakskostnader
-
-§ 42-7.
-
-Adgang til å møte for domstolene
-
-§ 42-8.
-
-Hoved- og ankeforhandling i
-tiltaltes fravær
-
-§ 44-3.
-
-Avgjørelse av krav om
-sakskostnader
-
-§ 42-9.
-
-Forelegg på arrest
-
-§ 44-4.
-
-§ 42-10.
-
-Forskrifter om ordningen av den
-militære påtalemyndighet mv.
-
-Mistenktes forsvarer og retten til
-dekning av sakskostnader
-
-DEL 11.
-
-Pengekrav mv.
-
-Kapittel 43. Sivile krav
-
-Kapittel 45. Erstatning etter
-straffeforfølgning
-§ 45-1.
-
-Statens erstatningsansvar i
-anledning straffeforfølgning
-
-§ 45-2.
-
-Mistenkte og domfeltes rett til
-erstatning for økonomisk tap
-
-§ 45-3.
-
-Mistenkte og domfeltes rett til
-oppreisningserstatning
-
-§ 43-1.
-
-Behandling av erstatningskrav
-sammen med påtalevedtak
-
-§ 43-2.
-
-Pådømmelse av rettskrav
-
-§ 43-3.
-
-Saksbehandling
-
-§ 45-4.
-
-Erstatning til tredjepersoner
-
-§ 43-4.
-
-Informasjon til skadelidte mfl.
-
-§ 45-5.
-
-Erstatning ved aksjoner om bord
-på utenlandsk skip eller fartøy
-
-[Side 29]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-§ 45-6.
-
-Erstatning til juridiske personer
-
-§ 45-7.
-
-Skadelidtes medvirkning og
-erstatningsutmåling
-
-§ 45-8.
-
-Tilbakebetaling. Regress
-
-§ 45-9.
-
-Foreldelse
-
-§ 45-10.
-
-Samordning av utbetaling med
-internasjonale og utenlandske
-myndigheter
-
-§ 45-11.
-
-Avgjørelsesmyndighet og
-saksbehandling
-
-§ 45-12.
-
-Rettslig prøving
-
-§ 45-13.
-
-Forskrifter om erstatning etter
-straffeforfølgning
-
-DEL 12.
-
-Ikrafttredelse mv.
-
-Kapittel 46. Ikrafttredelse og opphevelse
-og endring av lover
-§ 46-1.
-
-Ikrafttredelse
-
-§ 46-2.
-
-Opphevelse av lover
-
-§ 46-3.
-
-Lovendringer
-
-1.2
-
-Utvalgets lovutkast
-
-Lov om behandling av straffesaker
-(straffeprosessloven)
-
-27
-
-Kapittel 1
-
-Kapittel 2. Påtalemyndigheten
-§ 2-1. Påtalemyndigheten
-Påtalemyndigheten består av
-a) riksadvokaten, statsadvokatene og påtalemyndigheten i politiet, jf. §§ 2-4 til 2-6,
-b) Spesialenheten for politisaker, jf. § 2-15, og
-c) den militære påtalemyndighet, jf. § 42-3.
-§ 2-2. Påtalemyndighetens oppgaver. Straffeforfølgningsplikten
-Påtalemyndigheten skal forfølge overtredelser av straffelovgivningen når ikke annet er
-bestemt ved lov. Som ledd i forfølgningen skal
-påtalemyndigheten
-a) beslutte og lede etterforsking,
-b) beslutte og fremsette begjæring om tvangstiltak,
-c) avgjøre spørsmålet om påtale,
-d) møte for domstolene, og
-e) sende avgjørelser til fullbyrding.
-§ 2-3. Påtalemyndighetens objektivitetsplikt og uavhengighet. Taushetsplikt
-(1) Påtalemyndigheten skal opptre objektivt i
-hele sin virksomhet.
-(2) Ingen kan instruere påtalemyndigheten i
-enkeltsaker eller omgjøre påtalemyndighetens
-avgjørelser.
-(3) Påtalemyndighetens tjenestepersoner har
-taushetsplikt etter politiregisterloven kapittel 6.
-
-§ 1-1. Lovens virkeområde
-(1) Saker om straff og andre strafferettslige
-reaksjoner behandles etter reglene i denne lov.
-(2) Saker om bistand til utenlandsk myndighet
-i forbindelse med strafferettslig forfølgning i
-annen stat behandles etter kapittel 25. Sivile krav
-og krav om sakskostnader behandles sammen
-med sak som nevnt i første ledd etter kapittel 43
-og 44. Krav om erstatning etter straffeforfølgning
-behandles etter kapittel 45.
-
-§ 2-4. Riksadvokaten
-(1) Riksadvokaten leder påtalemyndigheten
-og kan gi generelle bestemmelser om påtalemyndighetens virksomhet.
-(2) Riksadvokaten er embetsmann og kan
-avskjediges av Kongen uten dom etter Grunnloven § 22 første ledd.
-(3) Ved riksadvokatens kontor kan det utnevnes eller ansettes
-a) assisterende riksadvokat, som er embetsmann, og som kan utøve myndighet på riksadvokatens vegne, og
-b) statsadvokater og riksadvokatfullmektiger,
-som etter fullmakt kan utøve myndighet på
-riksadvokatens vegne.
-(4) Riksadvokaten kan selv ansette riksadvokatfullmektiger.
-
-§ 1-2. Lovens forhold til folkeretten
-Loven gjelder med de begrensninger som følger av folkerettens regler om immunitet og jurisdiksjon.
-
-§ 2-5. Statsadvokatene
-(1) Statsadvokatene, herunder førstestatsadvokatene, er embetsmenn og overordnet påtalemyndigheten i politiet.
-
-DEL 1. Innledende bestemmelser.
-Straffesakens aktører. Innsyn
-Kapittel 1. Lovens virkeområde og forhold til
-folkeretten
-
-[Side 30]
-
-28
-
-Kapittel 1
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-(2) Kongen fastsetter antallet statsadvokater,
-deres ansvarsområder og stedet for embetskontoret. Ved hvert kontor utnevnes en førstestatsadvokat som leder og én eller flere statsadvokater.
-(3) Statsadvokatene skal føre tilsyn med
-straffesaksbehandlingen i politiet og gi faglig veiledning til påtalemyndigheten i politiet.
-§ 2-6. Påtalemyndigheten i politiet
-(1) Påtalemyndigheten i politiet er
-a) politimestrene, sjefen for Kripos og sjefen for
-Politiets sikkerhetstjeneste,
-b) visepolitimestrene, de assisterende sjefene for
-Kripos og Politiets sikkerhetstjeneste,
-c) politiinspektørene, og
-d) politiadvokatene og politifullmektigene.
-(2) Påtalemyndigheten i politiet skal påse at
-straffesaksbehandlingen i politidistriktene skjer i
-samsvar med loven.
-§ 2-7. Kvalifikasjonskrav. Politiattest
-(1) Påtalemyndighetens tjenestepersoner skal
-ha mastergrad i rettsvitenskap eller tilsvarende
-grad. Kongen kan gjøre unntak fra kravet for tjenestepersoner nevnt i § 2-6 første ledd bokstav a og b.
-(2) Tilsettingsmyndigheten kan kreve uttømmende politiattest.
-§ 2-8. Habilitet
-(1) Tjenesteperson som hører til påtalemyndigheten, eller en som handler på vegne av denne, er
-inhabil når det foreligger forhold som er egnet til å
-svekke tilliten til vedkommendes upartiskhet. Den
-som står i et forhold til saken som nevnt i domstolloven § 106 nr. 1–5, er i alle tilfeller inhabil. Når en
-tjenesteperson er inhabil, er også direkte underordnede ved samme tjenestested inhabile.
-(2) Den som er inhabil, kan ikke utøve påtalemyndighet eller handle på påtalemyndighetens
-vegne. Tjenestehandling som ikke uten skade kan
-utsettes eller overlates til en annen, kan likevel
-utføres.
-(3) Tjenestepersonen skal av eget tiltak vurdere sin habilitet. Dersom det kreves av en part
-eller for øvrig er grunn til det, skal spørsmålet om
-habilitet avgjøres av tjenestepersonens nærmeste
-overordnede. For riksadvokatens vedkommende
-avgjøres spørsmålet av Kongen i statsråd. Departementet kan likevel beslutte at riksadvokaten
-ikke er inhabil.
-§ 2-9. Instruksjons- og omgjøringsmyndighet
-(1) Overordnet påtalemyndighet har instruksjons- og omgjøringsmyndighet og kan blant
-annet
-
-a) beordre etterforsking,
-b) overføre en sak til en annen underordnet eller
-selv overta behandlingen,
-c) gi ordre om avgjørelsen av spørsmålet om
-påtale, og
-d) omgjøre vedtak etter kapittel 29.
-(2) Ved det enkelte kontor eller politidistrikt
-har lederen instruksjonsmyndighet etter første
-ledd og samme omgjøringsmyndighet som den
-som har truffet vedtaket.
-§ 2-10. Forholdet mellom påtalemyndigheten og politiet
-Riksadvokaten, statsadvokatene og påtalemyndigheten i politiet kan gi pålegg direkte til tjenestepersoner i politiet som ikke tilhører
-påtalemyndigheten, om behandlingen av saker
-etter denne lov.
-§ 2-11. Påtalekompetanse
-(1) Riksadvokaten avgjør spørsmålet om
-påtale når saken gjelder lovbrudd
-a) begått i tjenesten av personer som er tilsatt av
-Kongen,
-b) som kan straffes med fengsel inntil 30 år,
-c) som kan straffes med fengsel inntil 21 år, unntatt forsøk på slikt lovbrudd,
-d) etter straffeloven kapittel 17 eller §§ 151 til
-154, 183 eller 211, og
-e) som forfølges i medhold av straffeloven § 5
-tredje og femte ledd, unntatt når forfølgningen
-skjer etter anmodning fra fremmed stat.
-(2) Statsadvokaten kan avgjøre spørsmålet om
-påtale når avgjørelsen ikke hører under riksadvokaten.
-(3) Påtalemyndigheten i politiet kan avgjøre
-spørsmålet om påtale når saken gjelder lovbrudd
-a) som kan straffes med fengsel inntil 2 år, unntatt overtredelse av straffeloven § 221 når forklaringen er avgitt i straffesak,
-b) etter straffeloven §§ 233, 235, 254 og 272 når
-handlingen ikke har hatt døden til følge, 273,
-322, 325, 333 første ledd, 338 første ledd, 352
-første ledd, 367 første ledd, 372, 393 og 405, og
-c) etter tolloven § 16-7 og utlendingsloven § l08
-tredje ledd, jf. sjette ledd.
-Påtalemyndigheten i politiet kan treffe beslutning om henleggelse i alle saker.
-(4) Riksadvokaten kan ved generell instruks
-og i den enkelte sak overlate beslutning etter
-første ledd bokstav c til statsadvokaten og ved
-generell instruks bestemme at avgjørelse som
-hører under statsadvokaten, kan treffes av
-påtalemyndigheten i politiet. Statsadvokaten
-kan i den enkelte sak overlate avgjørelsen av
-
-[Side 31]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-spørsmålet om påtale til påtalemyndigheten i
-politiet.
-§ 2-12. Adgang til å møte for domstolene
-(1) For Høyesterett møter riksadvokaten, eller
-etter riksadvokatens beslutning
-a) statsadvokat,
-b) riksadvokatfullmektig, eller
-c) advokat med møterett for Høyesterett.
-(2) For lagmannsrett møter i ankeforhandling
-a) statsadvokat,
-b) riksadvokatfullmektig, etter beslutning fra
-riksadvokaten,
-c) tjenesteperson som tilhører påtalemyndigheten i politiet, i sak om lovbrudd som kan medføre fengsel inntil 6 år, og hvor det ikke vil bli
-nedlagt påstand om forvaring, tvungent psykisk helsevern eller tvungen omsorg, og ellers
-etter beslutning fra den som har påtalekompetansen, eller
-d) advokat, etter beslutning fra den som har
-påtalekompetansen.
-(3) For tingrett møter i hovedforhandling
-a) personer som nevnt i annet ledd, eller
-b) tjenesteperson i politiet som ikke tilhører
-påtalemyndigheten, i sak hvor det har vært
-utferdiget forelegg.
-(4) Utenfor hoved- eller ankeforhandling kan
-a) enhver i påtalemyndigheten møte for tingrett
-og lagmannsrett, og
-b) tjenesteperson i politiet som ikke hører til
-påtalemyndigheten, møte for tingrett.
-§ 2-13. Aktors kompetanse
-Under hoved- og ankeforhandling kan den
-som møter for påtalemyndigheten,
-a) endre tiltalen, jf. § 29-7 første ledd,
-b) frafalle tiltalen, jf. § 29-7 annet ledd,
-c) omgjøre straffetilsagn, jf. § 29-8, og
-d) frafalle anken eller gi samtykke etter § 37-7.
-§ 2-14. Ankekompetanse
-(1) Anke over dom og over beslutning om
-avvisning besluttes av statsadvokaten, med mindre riksadvokaten har besluttet tiltale. Videre
-anke etter § 37-2 fjerde ledd besluttes av statsadvokaten. Ellers kan anke besluttes av enhver i
-påtalemyndigheten.
-(2) Rettens avgjørelser kan vedtas av den myndighet som kan beslutte anke etter første ledd.
-Påtalemyndigheten i politiet kan likevel vedta
-dom og beslutning om avvisning i saker der den
-har besluttet tiltale. Beslutning om vedtakelse kan
-omgjøres av overordnet påtalemyndig innen ankefristen.
-
-29
-
-Kapittel 1
-
-§ 2-15. Spesialenheten for politisaker
-(1) Spesialenheten for politisaker er direkte
-underordnet riksadvokaten og behandler saker
-a) om lovbrudd begått i tjenesten av tjenesteperson tilknyttet politiet eller påtalemyndigheten
-angitt i § 2-1 bokstav a og c,
-b) der noen dør eller blir alvorlig skadet i forbindelse med virksomheten til tjenestepersoner
-nevnt i bokstav a, og
-c) som overføres enheten av riksadvokaten etter
-§ 2-9 første ledd bokstav b.
-(2) Sjefen for enheten er embetsmann og har
-myndighet som statsadvokat. Det kan utnevnes en
-assisterende sjef for enheten, som er embetsmann, og som kan utøve myndighet på sjefens
-vegne. Sjefen for enheten kan ansette personer
-som etter fullmakt kan utøve myndighet på vedkommendes vegne.
-§ 2-16. Forskrifter om påtalemyndigheten
-Kongen i statsråd kan gi forskrift om påtalemyndigheten og dens virksomhet.
-Kapittel 3. Mistenkte og forsvareren
-§ 3-1. Mistenktes rettigheter
-Mistenkte er den forfølgningen retter seg mot.
-Mistenkte har rett til å
-a) bli behandlet som uskyldig og til ikke å tvinges
-til å bidra til egen domfellelse, jf. § 3-2,
-b) bli gjort kjent med mistanken og hva saken
-gjelder etter §§ 10-4, 13-6, 14-10 og 28-9,
-c) gjøre seg kjent med sakens opplysninger etter
-kapittel 6,
-d) la seg bistå av forsvarer etter eget valg etter § 3-6,
-e) imøtegå bevis og anføre omstendigheter til sin
-fordel etter §§ 7-1, 10-9, 32-4, 32-5 og 35-4,
-f) fremme begjæring om etterforsking overfor
-påtalemyndigheten eller retten etter § 13-7,
-g) ta del i alle rettsmøter, med mindre annet er
-bestemt,
-h) anke avgjørelser etter kapittel 37, og
-i) få saken avgjort innen rimelig tid, jf. §§ 13-5
-annet ledd, 28-1 første ledd, 30-1, 32-1 og 35-1.
-§ 3-2. Uskyldspresumsjonen. Selvinkriminering
-(1) Mistenkte skal anses som uskyldig inntil
-det foreligger en endelig avgjørelse som konstaterer straffansvar.
-(2) Mistenkte skal ikke tvinges til å bidra til
-straffeforfølgningen mot seg og har rett til å forholde seg taus og til ikke å utlevere bevis, jf. §§ 9-1
-og 19-7 første ledd. Dette gjelder ikke når mistenkte er et foretak. Mistenkte skal gjøres kjent
-med retten etter første punktum.
-
-[Side 32]
-
-30
-
-Kapittel 1
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-§ 3-3. Utøvelse av partsrettigheter for personer under
-18 år og andre under vergemål
-(1) Har mistenkte verge, utøver vergen rettighetene etter § 3-1. Mistenkte som har fylt 15 år,
-kan utøve rettighetene selv, med mindre vedkommende er i en tilstand som angitt i straffeloven
-§ 20 første ledd bokstav b til d, eller av andre grunner ikke er i stand til å ivareta sine interesser.
-(2) Dersom mistenkte som ikke har verge,
-ikke er i stand til å ivareta sine interesser i saken
-av grunner som nevnt i første ledd, skal det oppnevnes verge for straffeforfølgningen.
-(3) Dersom mistenktes verge ikke kan eller vil
-ivareta mistenktes interesser i saken, skal Fylkesmannen oppnevne en midlertidig verge.
-§ 3-4. Utøvelse av partsrettigheter for foretak
-Mistenkte foretak utpeker en person som utøver partsrettighetene etter § 3-1. Det bør så vidt
-mulig ikke utpekes noen som selv er eller kan bli
-mistenkt i tilknytning til saken.
-§ 3-5. Mistenktes plikter
-(1) Mistenkte plikter under straffeforfølgningen å oppgi navn, fødselsdato, stilling og
-bostedsadresse til offentlig myndighet.
-(2) Mistenkte plikter etter innkalling å møte til
-a) politiavhør, jf. § 10-1,
-b) rettsmøter, jf. § 31-4, og
-c) undersøkelse etter §§ 16-1 og 16-2.
-
-b) kommunisere fortrolig og uforstyrret med mistenkte,
-c) ta del i politiavhør av mistenkte og stille spørsmål,
-d) ta del i tilrettelagt avhør etter § 10-7,
-e) fremme begjæringer overfor påtalemyndigheten og retten, og
-f) ta del i rettsmøter.
-§ 3-8. Formelle krav for å være forsvarer. Bistand til
-forsvareroppdraget
-(1) Forsvaret kan utføres av
-a) advokat med norsk advokatbevilling, eller
-b) utenlandsk advokat eller annen skikket person
-når det er ubetenkelig, jf. § 3-9.
-Som forsvarer ved Høyesterett brukes advokat
-med møterett for Høyesterett.
-(2) Forsvareroppdraget skal utføres av den
-som påtar seg det. Advokatfullmektig kan bistå
-ved utførelsen av oppdraget med de begrensinger
-som følger av domstolloven § 223. Forsvareren
-kan også la seg bistå av andre når det er hensiktsmessig og ubetenkelig.
-
-§ 3-6. Rett til å la seg bistå av forsvarer. Fritt
-forsvarervalg
-(1) Mistenkte har rett til å la seg bistå av forsvarer under straffeforfølgningen. Mistenkte kan
-la forsvaret utføres av flere.
-(2) Mistenkte velger fritt sin forsvarer. For
-oppnevning av forsvarer gjelder § 3-22.
-
-§ 3-9. Habilitet
-(1) Ingen som selv er mistenkt, fornærmet eller
-etterlatt, eller som står i et slikt forhold til mistenkte, fornærmede eller etterlatte som nevnt i
-[advokatloven § 76 første ledd], kan være forsvarer.
-(2) Samme person eller noen fra samme kontor kan ikke være forsvarer for flere mistenkte når
-det er holdepunkter for at disse har eller kan få
-motstridende interesser i saken. Det samme gjelder når andre ved kontoret er bistandsadvokat i
-saken.
-(3) Ingen kan være forsvarer når det foreligger
-andre forhold som kan være til hinder for uavhengig bistand, eller det ellers er utilrådelig at vedkommende gjør tjeneste i saken.
-
-§ 3-7. Forsvarerens oppgaver
-(1) Forsvareren skal ivareta mistenktes
-interesser og rettigheter og herunder påse at mistenkte
-a) ikke utsettes for umenneskelig eller nedverdigende behandling,
-b) ikke berøves friheten uten lovlig grunn,
-c) får en rettferdig rettergang, og
-d) gis råd og veiledning om forsvaret, herunder
-om betydningen av å avgi forklaring eller forholde seg taus.
-(2) Ved utførelsen av oppdraget kan forsvareren
-a) gjøre seg kjent med sakens opplysninger etter
-kapittel 6,
-
-§ 3-10. Forsvarerens taushetsplikt
-(1) Forsvareren og andre i forsvarerens tjeneste plikter å hindre at andre får adgang eller
-kjennskap til det vedkommende i saken får vite om
-a) noens personlige forhold, eller
-b) tekniske innretninger og fremgangsmåter
-samt drifts- eller forretningsforhold som det vil
-være av konkurransemessig betydning å holde
-hemmelig av hensyn til den opplysningene
-angår.
-(2) Taushetsplikten er ikke til hinder for at
-opplysningene brukes i den utstrekning det er
-nødvendig for å ivareta mistenktes interesser i
-saken.
-
-[Side 33]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-§ 3-11. Forsvarer under hele saken
-Mistenkte skal alltid ha forsvarer når
-a) vedkommende er under 18 år, og det i saken
-kan bli spørsmål om å idømme ubetinget fengsel, samfunnsstraff eller ungdomsstraff,
-b) det er grunn til å anta at mistenkte på grunn av
-sin fysiske eller psykiske tilstand ikke er i
-stand til å ivareta sine interesser, eller
-c) fornærmede har rett til bistandsadvokat.
-Første punktum gjelder likevel ikke ved skjult
-etterforsking etter § 13-6 femte ledd.
-§ 3-12. Forsvarer i politiavhør av mistenkte
-Mistenkte skal ha forsvarer ved politiavhør av
-vedkommende når det i saken kan bli spørsmål
-om å idømme ubetinget fengsel, samfunnsstraff
-eller ungdomsstraff.
-§ 3-13. Forsvarer ved pågripelse og fengsling
-Den som er pågrepet, skal ha forsvarer straks
-det er grunn til å tro at frihetsberøvelsen vil vare
-utover 24 timer, eller utover 12 timer dersom mistenkte er under 18 år, og så lenge vedkommende
-er frihetsberøvet. Forsvarer skal møte til rettsmøte om fengsling. Mistenkte skal ha forsvarer
-når det skal treffes beslutning om tiltak som nevnt
-i § 15-1 første ledd bokstav a til e.
-§ 3-14. Forsvarer ved særskilte rettergangsskritt
-Mistenkte skal ha forsvarer
-a) ved rettslig avhør av vedkommende,
-b) ved bevisopptak til bruk under hovedforhandling i sak hvor det skal oppnevnes forsvarer
-etter § 3-16,
-c) ved rettsmøte som avholdes for å avgjøre om
-det skal iverksettes tiltak for å sikre hemmelighold av et vitnes identitet, jf. § 10-10,
-d) ved rettslig behandling av sak om oppholdsforbud etter § 23-1 ved mistanke om overtredelse
-av straffeloven § 282 om mishandling i nære
-relasjoner, oppholdsforbud i eget hjem etter
-§ 23-2 eller kontaktforbud i eget hjem etter
-straffeloven § 57, og
-e) i sak om båndlegging etter § 22-2.
-§ 3-15. Forsvarer ved tilrettelagt avhør
-Mistenkte skal ha forsvarer ved tilrettelagt
-avhør etter § 10-7.
-§ 3-16. Forsvarer under hovedforhandling
-Tiltalte skal ha forsvarer under hovedforhandling etter kapittel 35. Utenfor tilfellene i § 3-11 gjelder dette likevel ikke saker
-
-31
-
-Kapittel 1
-
-a) etter vegtrafikkloven §§ 22 første og femte
-ledd og 24 første ledd, jf. § 31, når det ikke er
-spørsmål om å idømme ubetinget fengselsstraff, samfunnsstraff eller ungdomsstraff,
-b) der forelegg har vært utferdiget, og det kun er
-spørsmål om å idømme bot,
-c) om rettslig prøving av beslutning om påtaleunnlatelse etter § 29-10, når det kun er spørsmål
-om å idømme straffutmålingsutsettelse, eller
-d) som kun gjelder inndragning.
-§ 3-17. Forsvarer ved forenklet behandling
-Mistenkte skal ha forsvarer ved forenklet
-behandling etter kapittel 36 når det er spørsmål
-om å idømme ubetinget fengsel, samfunnsstraff
-eller ungdomsstraff.
-§ 3-18. Forsvarer ved anke
-(1) Mistenkte som har hatt krav på forsvarer
-etter §§ 3-14 og 3-16, skal ha forsvarer ved vurderingen av spørsmål om anke og under behandlingen av anken.
-(2) Mistenkte skal ha forsvarer ved realitetsbehandling av anke over dom og muntlig behandling
-av anke over beslutning, jf. kapittel 39.
-§ 3-19. Forsvarer ved brudd på vilkår for betinget
-straff, samfunnsstraff mv.
-(1) Domfelte skal ha forsvarer når det er
-spørsmål om å fastsette eller fullbyrde ubetinget
-frihetsstraff etter brudd på vilkårene for
-a) straffutmålingsutsettelse, jf. straffeloven § 60
-tredje ledd, jf. § 39 annet ledd,
-b) fullbyrdingsutsettelse, jf. straffeloven § 39
-annet ledd,
-c) løslatelse på prøve fra fengselsstraff, jf. straffegjennomføringsloven § 44 annet ledd,
-d) løslatelse på prøve fra forvaring, jf. straffeloven
-§ 46 første ledd, eller
-e) samfunnsstraff, jf. straffeloven § 52 første ledd
-bokstav a.
-(2) Domfelte skal ha forsvarer i saker om opphevelse eller endring av vilkår for prøveløslatelse
-fra forvaring etter straffeloven § 45 femte ledd.
-§ 3-20. Forsvarer i særlige tilfeller
-Mistenkte skal ha forsvarer når sakens art og
-omfang tilsier det, eller andre særlige forhold tilsier at det er behov for det.
-§ 3-21. Avkall på forsvarer
-Mistenkte som er over 18 år, kan skriftlig gi
-avkall på forsvarer når det er ubetenkelig. Det
-kan likevel ikke gis avkall på forsvarer etter §§ 3-11,
-3-13, 3-15, 3-19 annet ledd og 3-20. Mistenkte skal
-
-[Side 34]
-
-32
-
-Kapittel 1
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-før det gis avkall, gjøres kjent med retten til å rådføre seg med forsvarer betalt av det offentlige.
-§ 3-22. Oppnevning av forsvarer
-(1) Retten skal etter begjæring eller av eget tiltak oppnevne forsvarer etter §§ 3-11 til 3-20. Påtalemyndigheten kan likevel oppnevne forsvarer
-etter §§ 3-12, 3-13 og 3-15. Retten kan omgjøre påtalemyndighetens beslutning.
-(2) Mistenktes ønske om en bestemt forsvarer
-skal etterkommes, med mindre oppnevning vil
-føre til forsinkelse av betydning. Tilsvarende gjelder ved spørsmål om hvorvidt oppnevningen skal
-stå ved lag.
-(3) Det skal oppnevnes flere forsvarere dersom hensynet til effektiv og rettssikker behandling av saken gjør det nødvendig.
-(4) Oppdraget kan avgrenses.
-§ 3-23. Faste forsvarere
-(1) Domstoladministrasjonen antar et tilstrekkelig antall faste forsvarere ved tingrettene, lagmannsrettene og Høyesterett som gjør tjeneste
-når mistenkte ikke ønsker en bestemt forsvarer.
-(2) De faste forsvarerne oppnevnes etter tur
-med mindre
-a) det vil føre til forsinkelse av betydning, eller
-b) andre særlige forhold tilsier at en fraviker
-rekkefølgen.
-§ 3-24. Godtgjørelse til forsvarere
-(1) Forsvarer oppnevnt etter § 3-22 første ledd
-har krav på godtgjørelse av staten for nødvendig
-arbeid i saken. Ved forsvarerbytte skal det som
-regel gjøres fradrag for arbeid som er utført.
-(2) Forsvareren skal ikke motta godtgjørelse
-utover det som fastsettes av retten, med mindre
-mistenkte før oppnevningen har samtykket i privat betaling, og forsvareren har gitt avkall på godtgjørelse etter første ledd.
-(3) Er det etter mistenktes ønske oppnevnt en
-forsvarer som har kontor utenfor lagdømmet, kan
-Kongen gi forskrift om i hvilken utstrekning forsvareren skal få skyss-, kost- og fraværsgodtgjørelse. For saker ved Høyesterett er det retten
-som bestemmer dette.
-(4) Etter begjæring kan det tilkjennes godtgjørelse til forsvarer som ikke er oppnevnt etter
-første ledd, når det er rimelig. Begjæringen må
-fremsettes innen saken er endelig avgjort.
-§ 3-25. Særskilt advokat for mistenkte ved hemmelige etterforskingsskritt mv.
-(1) Det skal oppnevnes særskilt advokat for
-mistenkte når retten skal behandle begjæring om
-
-a) bruk av hemmelige tvangstiltak som nevnt i
-§§ 18-5, 19-2, 19-8, 20-1 til 20-4, 21-2 og 22-3,
-b) å begrense mistenktes rett til innsyn etter
-§ 6-8,
-c) bevisforbud etter § 8-2 bokstav d,
-d) tiltak for å sikre hemmelighold av et vitnes
-identitet, og det er begjært at forsvarer ikke
-skal opplyses om vitnets navn eller gis andre
-opplysninger som kan føre til at vitnets identitet blir kjent, jf. § 10-10.
-(2) Oppnevning skal likevel unnlates i saker
-som nevnt i første ledd bokstav b der påtalemyndigheten ikke motsetter seg at den mistenktes forsvarer får innsyn i opplysningene mot å bli pålagt
-taushetsplikt, og forsvareren mottar opplysningene.
-(3) Bestemmelsene om krav til forsvarere,
-oppnevning og godtgjørelse, jf. §§ 3-8, 3-9, 3-22 og
-3-24, gjelder tilsvarende.
-§ 3-26. Den særskilte advokatens oppgaver
-(1) Den særskilte advokaten
-a) skal på samfunnets vegne ivareta den mistenktes interesser og rettigheter i forbindelse med
-rettens behandling av begjæringer som nevnt i
-§ 3-25, og
-b) har taushetsplikt om alt som kommer frem i
-tilknytning til behandling av begjæring som
-nevnt i § 3-25, herunder overfor mistenkte og
-mistenktes forsvarer.
-(2) Ved utførelsen av oppdraget har advokaten
-rett til å
-a) gjøre seg kjent med begjæringen og grunnlaget for den,
-b) få innsyn i sakens opplysninger etter kapittel 6,
-c) få varsel om rettsmøte etter § 31-2 annet ledd
-første punktum,
-d) uttale seg før retten treffer avgjørelse, og
-e) anke rettens beslutning etter kapittel 37.
-(3) Den særskilte advokaten kan ikke gjøre tjeneste som forsvarer i saken.
-§ 3-27. Forskrifter om forsvarere og særskilt advokat
-for mistenkte
-(1) Kongen gir forskrift om kvalifikasjonskrav
-for faste forsvarere og om antakelse av faste forsvarere.
-(2) Kongen kan gi forskrift om
-a) utenlandske advokaters adgang til å være forsvarer,
-b) påtalemyndighetens oppnevning av forsvarer,
-c) oppnevning av forsvarer i saker hvor det vil bli
-gitt opplysninger som er sikkerhetsgradert
-etter sikkerhetsloven, og
-d) oppnevning av særskilt advokat for mistenkte.
-
-[Side 35]
-
-NOU 2016: 24
-Ny straffeprosesslov
-
-Kapittel 4. Fornærmede og bistandsadvokaten mv.
-§ 4-1. Fornærmede, etterlatte og skadelidte
-(1) Fornærmede er den som er direkte krenket ved en straffbar handling.
-(2) Etterlatte er ektefelle eller samboer, barn
-og foreldre av en som er død som følge av en
-straffbar handling. Rettigheter etter loven disponeres av én av de etterlatte i rekkefølge som nevnt
-i første punktum. Var avdøde under 18 år, tilkommer rettighetene alltid først den som hadde foreldreansvar.
-(3) Skadelidte er den som har lidt skade eller
-tap ved en straffbar handling.
-§ 4-2. Rettigheter for fornærmede, etterlatte og andre
-skadelidte
-(1) Fornærmede og etterlatte har rett til å
-a) la seg bistå etter § 4-3,
-b) bli underrettet om anmeldelse og etterforsking
-etter § 13-6,
-c) klage over påtalevedtak etter § 29-9,
-d) få innsyn i sakens opplysninger etter kapittel 6,
-e) ta del i rettsmøter, med mindre annet er
-bestemt,
-f) forklare seg,
-g) gi avsluttende bemerkninger før saken tas opp
-til doms etter § 35-4 fjerde ledd,
-h) bli underrettet om at en anke er henvist til
-behandling eller bortfalt etter § 32-10,
-i) motta godtgjørelse etter særskilt lov så langt
-vedkommende deltar under hoved- og ankeforhandlingen,
-j) fremme sivilt krav i straffesaken etter kapittel 43,
-k) anmode om etterforskingsskritt etter § 13-7,
-l) uttale seg om gjenåpning etter § 41-18, og
-m) gjøres kjent med rettighetene etter denne
-bestemmelsen, jf. § 10-4 fjerde ledd.
-(2) Andre skadelidte har rett til å
-a) få innsyn i sakens opplysninger etter kapittel 6,
-b) fremme sivilt krav i straffesaken etter kapittel
-43, og
-c) la seg bistå av prosessfullmektig etter tvisteloven kapittel 3 ved behov.
-§ 4-3. Rettslig bistand til fornærmede og etterlatte
-Fornærmede og etterlatte har rett til å la seg
-bistå av
-a) bistandsadvokat etter § 4-9,
-b) prosessfullmektig etter tvisteloven kapittel 3,
 og
-c) påtalemyndigheten når den fremmer sivile
-krav i saken etter § 43-9 tredje ledd på fornærmede og etterlattes vegne.
 
-33
+b\) rettsavgjørelser, med mindre annet er bestemt, eller retten har unntatt avgjørelsen eller en del av den fra offentlig gjengivelse etter domstolloven § 130.
 
-Kapittel 1
+\(2\) Enhver har ellers rett til innsyn i sakens opplysninger når det er ubetenkelig. Ved vurderingen skal det særlig legges vekt på om opplysningene angår personlige forhold, hensynet til sakens behandling og allmennhetens behov for informasjon. Innsyn i opptak av rettsmøter etter domstolloven § 134 b krever domstolens samtykke og skal kun unntaksvis skje utenfor domstolen.
 
-§ 4-4. Utøvelse av rettigheter for personer under 18
-år og andre under vergemål
-Har fornærmede eller etterlatte verge, utøver
-vergen rettighetene etter § 4-2. Fornærmede og
-etterlatte som har fylt 15 år, kan utøve rettighetene selv, med mindre vedkommende er i en tilstand som angitt i straffeloven § 20 første ledd
-bokstav b til d, eller av andre grunner ikke er i
-stand til å ivareta sine interesser.
-§ 4-5. Bistandsadvokatens oppgaver
-(1) Bistandsadvokaten skal ivareta fornærmede og etterlattes interesser og rettigheter i
-saken og gi slik annen hjelp og støtte som er
-naturlig og rimelig.
-(2) Ved utførelsen av oppdraget kan bistandsadvokaten
-a) utøve fornærmede og etterlattes rettigheter på
-deres vegne,
-b) ta del i politiets avhør av fornærmede og etterlatte og stille ytterligere spørsmål, og i nødvendig utstrekning delta ved åstedsbefaringer,
-rekonstruksjoner og lignende,
-c) i nødvendig utstrekning ta del i rettsmøter og
-stille spørsmål til fornærmede og etterlatte
-vedkommende representerer og supplerende
-spørsmål til tiltalte og vitner,
-d) foreslå supplerende bevisføring om straffekravet etter § 34-5,
-e) uttale seg om prosessuelle spørsmål som
-angår fornærmede eller etterlatte, og
-f) underrettes om rettsavgjørelser i saken etter
-§ 32-10.
-§ 4-6. Formelle krav for å være bistandsadvokat.
-Bistand til advokatoppdraget
-(1) Bistandsadvokatoppdraget kan utføres av
-a) advokat med norsk advokatbevilling, eller
-b) utenlandsk advokat når det er ubetenkelig, jf.
-§ 4-7.
-Som bistandsadvokat ved Høyesterett brukes
-advokat med møterett for Høyesterett.
-(2) Bistandsadvokatoppdraget skal utføres av
-den som påtar seg det. Advokatfullmektig kan
-bistå ved utførelsen av oppdraget med de begrensninger som følger av domstolloven § 223.
-Bistandsadvokaten kan også la seg bistå av andre
-når det er hensiktsmessig og ubetenkelig.
-§ 4-7. Habilitet
-(1) Ingen som selv er mistenkt, fornærmet
-eller etterlatt, eller som står i et slikt forhold til fornærmede, etterlatte eller mistenkte som nevnt i
-[advokatloven § 76], kan være bistandsadvokat.
+*§ 6-4. Unntak fra rett til innsyn forut for tiltale*
+
+\(1\) Under etterforskingen kan det nektes innsyn i opplysninger dersom innsyn kan være til skade eller utgjøre en fare for
+
+a\) grunnleggende nasjonale interesser,
+
+b\) tredjeperson,
+
+c\) etterforskingens øyemed,
+
+d\) at identiteten til et anonymt vitne, jf. § 10-10, blir kjent,
+
+e\) andre saker, eller
+
+f\) muligheten for bruk av tvangstiltak i fremtidig etterforsking.
+
+\(2\) Forsvareren og bistandsadvokaten kan ikke nektes innsyn i opplysninger som har vært fremlagt i rettsmøte, unntatt opplysninger fremlagt i rettsmøte hvor mistenkte har fått oppnevnt særskilt advokat etter § 3-25.
+
+\(3\) For tilfeller som nevnt i første ledd bokstav a gjelder sikkerhetsloven § 12.
+
+\(4\) Forsvareren kan ved løfte om taushet gis innsyn selv om mistenkte nektes innsyn etter denne bestemmelsen.
+
+*§ 6-5. Unntak fra rett til innsyn etter tiltale*
+
+Etter tiltale kan det nektes innsyn i opplysninger
+
+a\) som bør holdes hemmelig av hensyn til grunnleggende nasjonale interesser, med mindre opplysningene kan ha betydning for mistenktes forsvar, og
+
+b\) om anonyme vitner, jf. § 10-10.
+
+*§ 6-6. Unntak fra rett til innsyn når saken er avsluttet*
+
+\(1\) Når saken er avsluttet, skal det nektes innsyn i
+
+a\) opplysninger som det av hensyn til grunnleggende nasjonale interesser ville være betenkelig å gi innsyn i,
+
+b\) opplysninger som kan føre til at identiteten til et anonymt vitne, jf. § 10-10, blir kjent,
+
+c\) beslutninger i saker som nevnt i § 3-25 første ledd bokstav a til d, og
+
+d\) opplysninger som det er grunn til å frykte at vil bli benyttet på urettmessig vis.
+
+\(2\) Personer som ikke har rett til innsyn etter §§ 6-1 og 6-2, kan nektes innsyn i
+
+a\) saker som er eldre enn 5 år,
+
+b\) saker som bare identifiseres ved mistenktes navn,
+
+c\) personaliarapporter og andre opplysninger som Kongen i forskrift bestemmer skal arkiveres særskilt, og
+
+d\) taushetsbelagte personopplysninger fra annet offentlig organ, som organet ikke har innhentet for bruk i straffesaken.
+
+*§ 6-7. Unntak fra rett til innsyn i opplysninger om tvangstiltak som ikke er iverksatt, og om anonyme vitner*
+
+Det kan nektes innsyn i opplysninger om tvangstiltak som ikke er iverksatt. Er det begjært tiltak etter § 10-10, kan det ikke gis innsyn i opplysninger som kan føre til at vitnets identitet blir kjent. Avslås begjæringen, gis det ikke innsyn i slike opplysninger med mindre de benyttes.
+
+*§ 6-8. Unntak fra rett til innsyn i opplysninger som ikke påberopes som bevis i saken, eller som er fremlagt som grunnlag for bruk av hemmelig tvangstiltak*
+
+\(1\) Det skal nektes innsyn i opplysninger som påtalemyndigheten ikke vil benytte som bevis eller som er fremlagt for retten som grunnlag for bruk av tvangstiltak som nevnt i § 3-25 første ledd, når det antas å være nødvendig for å hindre at
+
+a\) det begås et alvorlig lovbrudd som krenker liv, helse eller frihet,
+
+b\) muligheten for en person til å delta i skjult etterforsking av andre saker blir vesentlig vanskeliggjort,
+
+c\) politiets muligheter til å forebygge eller etterforske lovbrudd blir vesentlig vanskeliggjort fordi informasjon om andre saker eller om politiets metodebruk blir kjent,
+
+d\) politiets samarbeid med et annet lands myndigheter blir vesentlig vanskeliggjort, eller
+
+e\) identiteten til en person som har gitt opplysninger til politiet, blir avslørt.
+
+\(2\) Nektelsen må ikke i noe tilfelle medføre vesentlige betenkeligheter av hensyn til mistenktes forsvar.
+
+\(3\) Tas en begjæring som omhandler forhold nevnt i denne bestemmelsen, ikke til følge, kan innsyn likevel nektes dersom saken henlegges etter § 28-2 annet ledd bokstav d.
+
+*§ 6-9. Saksbehandling ved begjæring om innsyn*
+
+\(1\) Begjæring om innsyn rettes til påtalemyndigheten i det politidistrikt som leder etterforskingen, eller vedkommende domstol som har behandlet saken.
+
+\(2\) Begjæringen skal angi grunnlaget for innsyn og hvilke opplysninger det kreves innsyn i.
+
+\(3\) Spørsmålet om innsyn bedømmes for hver enkelt opplysning.
+
+\(4\) Blir innsyn nektet, kan spørsmålet begjæres avgjort av retten.
+
+*§ 6-10. Oversendelse av sakens opplysninger etter begjæring og ved tiltale. Betingelser for tilgang*
+
+\(1\) Når det gis innsyn etter begjæring, jf. § 6-9, eller når det tas ut tiltale, skal sakens opplysninger på forsvarlig og hensiktsmessig måte gjøres tilgjengelige for den som har rett til innsyn. Forsvarer eller bistandsadvokat skal så vidt mulig gis innsyn ved kopi.
+
+\(2\) Når særlige forhold tilsier det, kan påtalemyndigheten sette betingelser for tilgangen til opplysningene, herunder forby utlån til tiltalte eller at opplysningene blir mangfoldiggjort.
+
+*§ 6-11. Saksbehandling ved begjæring om å nekte innsyn*
+
+\(1\) Spørsmål om å nekte innsyn etter § 6-8 behandles av retten ved en særskilt dommer, etter begjæring fra statsadvokaten. Begjæringen skal angi grunnlaget for nektelse og hvilke opplysninger som kreves unntatt. Begjæringen bør fremsettes samtidig med avgjørelse av spørsmålet om påtale etter kapittel 28, og som regel ikke senere enn 2 uker før hovedforhandlingen starter.
+
+\(2\) Beslutning om å nekte innsyn kan bare omgjøres dersom det har kommet til nye opplysninger som tilsier at vilkårene for nektelsen ikke lenger er oppfylt. Beslutning om ikke å omgjøre kan ikke ankes.
+
+\(3\) Alle skal bevare taushet om at det er begjært eller besluttet nektet innsyn etter denne bestemmelsen. Rettens avgjørelse og begjæring med tilhørende opplysninger som ligger til grunn for den, er unntatt fra innsyn.
+
+\(4\) En avgjørelse om å nekte innsyn er bindende også under hovedforhandlingen, med mindre påtalemyndigheten likevel vil legge frem opplysningene, eller grunnen til å nekte innsyn har falt bort, og tungtveiende hensyn tilsier at avgjørelsen omgjøres.
+
+*§ 6-12. Forskrifter om gjennomføring av innsyn mv.*
+
+Kongen kan gi forskrift om
+
+a\) gjennomføring av innsyn etter dette kapitlet,
+
+b\) innsyn i lyd- og bildeopptak fra rettsmøter, og
+
+c\) tilgang til unike gjenstander som ikke kan mangfoldiggjøres.
+
+**DEL 2. Bevis**
+
+**Kapittel 7. Alminnelige regler om bevis**
+
+*§ 7-1. Forsvarlig saksopplysning. Kontradiksjon. Håndtering av bevis*
+
+\(1\) Enhver som treffer avgjørelse etter denne lov, skal påse at den bygger på bevis som gir et korrekt og tilstrekkelig avgjørelsesgrunnlag.
+
+\(2\) Partene skal gis mulighet til å imøtegå bevis før avgjørelsen treffes, med mindre annet er bestemt, eller det følger av avgjørelsens art.
+
+\(3\) Bevis skal innhentes og behandles på en måte som sikrer og bevarer bevisenes pålitelighet.
+
+*§ 7-2. Fri bevisføring. Partenes bevistilbud*
+
+\(1\) Partene kan fritt føre bevis for retten med mindre annet er bestemt, jf. § 7-3, kapittel 8 og § 10-9 fjerde ledd første punktum.
+
+\(2\) Partene skal, når det er bestemt i denne lov, retten ber om det, eller det er grunn til det, gi retten
+
+a\) en oversikt over de bevis som ønskes ført,
+
+b\) en kort begrunnelse for hva det enkelte bevis skal godtgjøre, og opplysninger av betydning for vurderingen av beviset, og
+
+c\) opplysning om aktuelle spørsmål om bevisføring og bevisforbud.
+
+*§ 7-3. Rettens kontroll med at bevisføringen er relevant og forholdsmessig*
+
+\(1\) Retten skal nekte at det føres bevis som ikke angår saken eller ikke har beviskraft.
+
+\(2\) Retten skal også nekte at det føres bevis når bidraget til sakens opplysning ikke står i et rimelig forhold til
+
+a\) hensynet til effektiv saksavvikling,
+
+b\) faren for at beviset virker villedende eller forstyrrende, eller
+
+c\) den skade bevisføringen kan påføre mistenkte, fornærmede, et vitne eller en tredjeperson.
+
+*§ 7-4. Rettens kontroll med at bevisføringen er tilstrekkelig*
+
+Når hensynet til sakens opplysning tilsier det, skal retten ta opp spørsmål om ytterligere bevisføring med partene, jf. § 30-1. Uten hensyn til partenes standpunkt kan retten beslutte ytterligere bevisføring, men i alminnelighet ikke for å opplyse saken til mistenktes ugunst.
+
+*§ 7-5. Bevisvurdering og beviskrav*
+
+Avgjørelsen av om et faktisk forhold skal legges til grunn som tilstrekkelig underbygget, skal treffes etter en samlet vurdering av bevisene i lys av alminnelige erfaringssetninger og kjensgjerninger. For straffansvar kreves bevis utover enhver rimelig tvil.
+
+*§ 7-6. Forskrifter om lagring av bevis*
+
+Kongen kan gi forskrift om lagring av bevis, jf. § 7-1 tredje ledd.
+
+**Kapittel 8. Bevisforbud**
+
+*§ 8-1. Bevisforbudenes virkninger*
+
+Straffesakens aktører kan ikke innhente eller benytte bevis som er omfattet av forbud etter §§ 8-2 til 8-5 på noe stadium av prosessen, med mindre annet er bestemt.
+
+*§ 8-2. Bevisforbud til vern om grunnleggende nasjonale interesser, regjeringskonferanser, domskonferanser og opplysninger unntatt innsyn*
+
+Det gjelder bevisforbud for
+
+a\) opplysninger som er hemmelige av hensyn til grunnleggende nasjonale interesser,
+
+b\) innholdet i regjeringsnotater og drøftelser i regjeringskonferanser,
+
+c\) drøftelser i domskonferanser, og
+
+d\) opplysninger som er unntatt innsyn etter §§ 6-7 annet punktum og 6-8.
+
+*§ 8-3. Bevisforbud til vern om fortrolighet*
+
+\(1\) Det gjelder bevisforbud for fortrolig kommunikasjon med
+
+a\) prester eller forstandere i registrerte trossamfunn,
+
+b\) advokater, forsvarere, meklingsmenn i ekteskapssaker,
+
+c\) leger, psykologer, apotekere, jordmødre, sykepleiere og annet helsepersonell etter helsepersonelloven § 48, og
+
+d\) andre i stillinger som innebærer sjelesorg, sosialt hjelpearbeid, rettshjelp eller medisinsk behandling som må likestilles med virksomhet angitt i bokstav a til c.
+
+Det gjelder også bevisforbud for materiale som står i nær sammenheng med den fortrolige kommunikasjonen.
+
+\(2\) Det gjelder bevisforbud for opplysninger som er underlagt lovbestemt taushetsplikt for noen i arbeid eller tjeneste for
+
+a\) forvaltningsorgan,
+
+b\) familievernkontor,
+
+c\) postoperatør,
+
+d\) tilbyder av tilgang til elektronisk kommunikasjonsnett eller elektronisk kommunikasjonstjeneste,
+
+e\) elektronisk kommunikasjonsinstallatør, eller
+
+f\) statens lufthavnsselskap.
+
+\(3\) Det gjelder bevisforbud om innholdet i rettsforhandlinger som en domstol har pålagt de tilstedeværende taushet om.
+
+*§ 8-4. Bevisforbud som følge av forklaringsfritak. Pressens kildevern. Forretningshemmeligheter*
+
+Det gjelder bevisforbud for
+
+a\) opplysninger som er omfattet av pressens vern av kilder etter § 9-4, og
+
+b\) forretnings- eller driftshemmeligheter noen har rett til ikke å forklare seg om etter § 9-5.
+
+*§ 8-5. Bevisforbud ved rettsstridig innhenting og tilgang til bevis*
+
+Det gjelder bevisforbud for opplysninger som er innhentet eller tilgjengeliggjort på rettsstridig måte, når det er grunn til det. Ved vurderingen skal det særlig legges vekt på
+
+- det rettsstridige beviservervets grovhet,
+
+- om bruken av beviset vil krenke beskyttelsesverdige interesser, og
+
+- om det er reagert mot beviservervet på en måte som må antas å forebygge fremtidige krenkelser.
+
+*§ 8-6. Unntak fra bevisforbud*
+
+\(1\) Det gjelder ikke bevisforbud ved samtykke fra
+
+a\) Kongen i tilfeller som nevnt i § 8-2 bokstav a,
+
+b\) påtalemyndigheten i tilfeller som nevnt i § 8-2 bokstav d,
+
+c\) den som har krav på hemmelighold i tilfeller som nevnt i § 8-3,
+
+d\) rett myndighet i tilfeller som nevnt i § 8-3 annet ledd, og
+
+e\) den som er vernet etter §§ 9-4 og 9-5 i tilfeller som nevnt i § 8-4.
+
+\(2\) Det gjelder ikke bevisforbud etter § 8-3 annet ledd når særlige forhold tilsier unntak fra bevisforbudet.
+
+\(3\) Det gjelder ikke bevisforbud etter §§ 8-3 første ledd eller 8-4 hvis noen som nevnt i bestemmelsene med skjellig grunn mistenktes å være medskyldig i det straffbare forholdet.
+
+\(4\) Det gjelder ikke bevisforbud ved nærliggende fare for at mistenkte vil bli uriktig straffet eller ilagt en vesentlig strengere reaksjon uten beviset.
+
+*§ 8-7. Behandlingsmåten ved håndheving av bevisforbud*
+
+\(1\) Retten kan pålegge taushet om bevis som tillates etter § 8-6, med mindre samtykke etter bestemmelsens første ledd gjør unntak også for slikt pålegg.
+
+\(2\) Spørsmål om å gjøre unntak fra bevisforbud etter § 8-6 annet ledd, jf. § 8-3 annet ledd, skal forelegges rett myndighet til uttalelse.
+
+\(3\) Spørsmål om å gjøre unntak fra bevisforbud etter § 8-6 fjerde ledd, jf. § 8-2 bokstav a eller d, behandles med særskilt advokat og dommer etter §§ 3-25 og 6-11.
+
+**Kapittel 9. Forklaringsplikt og forklaringsfritak**
+
+*§ 9-1. Mistenktes taushetsrett*
+
+Mistenkte kan la være å forklare seg.
+
+*§ 9-2. Forklaringsplikt for vitner*
+
+\(1\) Vitner plikter å forklare seg for retten.
+
+\(2\) Forklaringsplikt for politiet har bare
+
+a\) personer som avhøres etter § 10-7 første ledd første punktum,
+
+b\) offentlige tjenestemenn og andre som handler på vegne av stat eller kommune om forhold de er blitt kjent med i sin stilling eller sitt verv, dersom dette kan skje uten å krenke taushetsplikt de har etter lov, forskrift eller instruks, og
+
+c\) personer som har taushetsplikt etter finansforetaksloven § 9-6, forsikringsloven § 1-6, verdipapirhandelloven § 10-9 eller verdipapirregisterloven § 8-1 om forhold som omfattes av taushetsplikten eller taushetsplikt etter avtale.
+
+\(3\) Forklaringsplikt innebærer også at vitnet må friske opp sin kjennskap til saken, blant annet ved å undersøke eller gjennomgå bevis som vitnet har tilgang til, herunder regnskap, møtereferater mv., og om nødvendig gjøre notater eller ta med gjenstander, hvis den som har innkalt vitnet, har anmodet om det.
+
+*§ 9-3. Forklaringsfritak for mistenktes nærstående og om inkriminerende eller belastende opplysninger*
+
+\(1\) Enhver er fritatt fra å forklare seg i sak mot en av sine nærmeste, jf. straffeloven § 9.
+
+\(2\) Enhver er fritatt fra å besvare et spørsmål når svaret kan
+
+a\) utsette vedkommende eller en av dennes nærmeste for straff, eller
+
+b\) medføre et vesentlig tap av sosialt omdømme eller vesentlig velferdstap av annen art for vedkommende eller en av dennes nærmeste, og sakens art, svarets betydning for sakens opplysning og forholdene ellers gjør det urimelig å kreve at vedkommende forklarer seg.
+
+*§ 9-4. Forklaringsfritak for pressen og kildevern*
+
+\(1\) Ingen har forklaringsplikt om opplysninger fra fortrolig kommunikasjon i sitt journalistiske virke eller om kildene til opplysningene. Forklaringsfritaket gjelder også materiale som står i nær sammenheng med den fortrolige kommunikasjonen.
+
+\(2\) Det gjelder likevel forklaringsplikt når særlige forhold unntaksvis tilsier det. Ved vurderingen skal det særlig legges vekt på
+
+- om forklaringen er nødvendig for sakens opplysning,
+
+- om vektige samfunnsinteresser tilsier at opplysningen gis, og
+
+- journalistens arbeid og den samfunnsmessige betydningen av dette.
+
+*§ 9-5. Forklaringsfritak for forretningshemmeligheter*
+
+Ingen har forklaringsplikt om forretnings- eller driftshemmeligheter hvis ikke hensynet til sakens opplysning gjør forklaring påkrevd.
+
+**Kapittel 10. Politiavhør og forklaringer i rettsmøte. Anonyme vitner**
+
+*§ 10-1. Møteplikt til politiavhør og rettslig avhør*
+
+\(1\) Vitner som bor eller oppholder seg i Norge, har etter innkalling plikt til å møte for politiet og retten, med mindre annet er bestemt. For mistenkte gjelder det samme overfor politiet. Mistenkte plikter å møte til rettsmøte etter § 31-4.
+
+\(2\) Den som har gitt klart uttrykk for ikke å ville forklare seg, har ikke møteplikt for politiet, med mindre vedkommende har forklaringsplikt etter § 9-2 annet ledd.
+
+\(3\) Møteplikt gjelder ikke for den som har gyldig fravær etter § 33-1 første ledd. Vedkommende skal straks gi melding om fravær.
+
+*§ 10-2. Innkalling til politiavhør*
+
+\(1\) Påtalemyndigheten kan innkalle til politiavhør. Den som ikke har adgang til å avgi forklaring eller ikke har møteplikt etter § 10-1 annet og tredje ledd, skal ikke innkalles.
+
+\(2\) Innkallingen skal opplyse om hva saken gjelder, formålet med avhøret, tid og sted for oppmøtet og virkningene av ikke å møte uten gyldig fravær. Det skal også opplyses om unntaket fra møteplikt etter § 10-1 annet ledd.
+
+\(3\) Innkalling skal så vidt mulig skje senest 3 dager før tidspunktet for oppmøte og skal forkynnes, med mindre forkynning er åpenbart unødvendig. Innkalles et barn under 14 år som vitne, forkynnes innkallingen for barnets foresatte, som i så fall er ansvarlige for at barnet møter. Er barnet under 18 år, skal de foresatte i alminnelighet underrettes, og i så fall plikter de foresatte å sørge for at barnet så vidt mulig får anledning til å møte, og skal straks gi underretning om dette ikke kan skje.
+
+*§ 10-3. Innkalling til rettslig avhør*
+
+\(1\) Påtalemyndigheten eller retten kan innkalle vitner til rettsmøte for avhør. Forsvarer kan innkalle vitner for mistenkte. Mistenkte innkalles til rettsmøte etter § 31-2.
+
+\(2\) Vitner som ikke har adgang til å forklare seg, skal som regel ikke innkalles. Vitner som ikke har forklaringsplikt, kan innkalles når det er grunn til det. Spørsmål om forklaringsadgang og forklaringsplikt bør så vidt mulig avklares før innkalling skjer.
+
+\(3\) For innkallingen gjelder § 10-2 annet ledd første punktum og tredje ledd tilsvarende. Det skal i tillegg opplyses om rett til utgiftsdekning og møtegodtgjørelse, jf. § 31-3.
+
+\(4\) Innkaller forsvareren vitner etter første ledd, kan retten kreve at det blir innbetalt et tilstrekkelig beløp til å dekke utgiftene. Finner retten at det har vært rimelig grunn til innkallingen, erstattes utgiftene av staten.
+
+*§ 10-4. Informasjon før avhør*
+
+\(1\) Mistenkte skal før første avhør gjøres kjent med
+
+a\) retten til å forholde seg taus,
+
+b\) hva saken gjelder,
+
+c\) hva et avhør innebærer, og hva det benyttes til,
+
+d\) retten til å la seg bistå av forsvarer, og om slik bistand dekkes av det offentlige,
+
+e\) betydningen av uforbeholden tilståelse som formildende omstendighet, jf. straffeloven § 78 bokstav f, og
+
+f\) reglene om forenklet behandling etter kapittel 36 og straffetilsagn etter §§ 28-7 og 29-8 når det er aktuelt med sikte på nødvendige avklaringer.
+
+Ved gjentatte avhør skal mistenkte på ny gjøres oppmerksom på forhold som nevnt i bokstav a til f når det er grunn til det.
+
+\(2\) Enhver skal før avhør gjøres oppmerksom på reglene om forklaringsplikt og aktuelle forklaringsforbud og forklaringsfritak, jf. kapittel 8 og 9. Dette gjelder likevel ikke vitner som på grunn av alder eller psykisk avvikstilstand ikke har forutsetninger for å ta stilling til om vedkommende bør forklare seg.
+
+Oppgir noen at de ikke har rett eller plikt til å forklare seg etter reglene i kapittel 8 eller §§ 9-3 til 9-5, skal dette legges til grunn med mindre det er holdepunkter for det motsatte.
+
+\(3\) Enhver som skal forklare seg, skal oppfordres til å avgi en fullstendig og sannferdig forklaring og gjøres oppmerksom på det ansvar som følger med uriktig anklage, jf. straffeloven § 222. Vitner skal også informeres om det ansvar som følger med uriktig forklaring, jf. straffeloven § 221.
+
+\(4\) Fornærmede og etterlatte skal før første avhør gjøres kjent med sine rettigheter i saken, jf. § 4-2 første ledd.
+
+*§ 10-5. Opplysninger mistenkte og vitner plikter å oppgi*
+
+\(1\) Enhver som avhøres, skal før vedkommende forklarer seg, svare på spørsmål om navn, fødselsdato, stilling og bostedsadresse.
+
+\(2\) Ved avhør i retten kan rettens leder tillate at mistenkte eller vitnet oppgir arbeidssted i stedet for bopel. I så fall kan det kreves at bopel oppgis skriftlig til retten. Er det fare for at vedkommende eller en av vedkommendes nærmeste etter straffeloven § 9 ellers kan bli utsatt for et lovbrudd som krenker liv, helse eller frihet, eller for vesentlig velferdstap av annen art, kan arbeidsstedet oppgis skriftlig.
+
+\(3\) Vitner skal redegjøre for sitt forhold til mistenkte og fornærmede. De skal også opplyse om andre omstendigheter som kan ha betydning for bedømmelsen av forklaringen.
+
+*§ 10-6. Alminnelige regler om gjennomføringen av avhør*
+
+\(1\) Avhør skal gjennomføres hensynsfullt og på en måte som sikrer god kommunikasjon. Er vedkommende ung, i en psykisk avvikstilstand, døv, stum, eller tilsier andre forhold en særlig kommunikasjonsform, må det tas hensyn til dette. Enhver som ikke har tilstrekkelige ferdigheter i norsk, har rett til at det kommuniseres på et språk vedkommende behersker, om nødvendig med tolk.
+
+\(2\) Tortur, trusler, tvang, forledelse, bruk av midler som nedsetter bevisstheten eller evnen til fri selvbestemmelse, eller testing av fysiologiske reaksjoner skal ikke benyttes. Avhøret skal heller ikke trette ut den som avhøres.
+
+\(3\) Det skal ikke stilles spørsmål som ved innhold eller form innbyr til svar i en bestemt retning, eller forutsetter noe som er tvilsomt, med mindre det gjøres for å prøve påliteligheten av opplysninger den som forklarer seg, tidligere har gitt, eller andre særlige forhold gjør det forsvarlig.
+
+\(4\) Har den som avhøres, verge, skal vergen som regel gis anledning til å delta og uttale seg. Den som møter med barn under 16 år i retten, har krav på godtgjørelse som fastsatt for vitner.
+
+\(5\) Vitner avhøres enkeltvis med mindre forklaringene gir grunn til å stille dem opp mot hverandre.
+
+\(6\) Mistenkte skal gis anledning til å gjendrive de grunner som mistanken beror på, og anføre de omstendigheter som taler til fordel for vedkommende, jf. § 13-5 første ledd.
+
+*§ 10-7. Tilrettelagt avhør. Avhør av barn og visse andre sårbare personer*
+
+\(1\) Politiets avhør av vitner under 16 år eller som er psykisk utviklingshemmet eller har tilsvarende funksjonssvikt, skal som regel foretas av en særlig skikket person under ledelse av påtalemyndigheten, når saken gjelder overtredelse av straffeloven kapittel 26 eller §§ 273, 275, 282 eller 284. Avhør kan også ellers gjennomføres etter denne bestemmelsen når hensynet til den som skal avhøres, og sakens karakter tilsier det.
+
+\(2\) Avhøret gjennomføres så snart som mulig etter at etterforskingen ble igangsatt, eller påtalemyndigheten ble klar over behovet for avhør. Spørsmål som ønskes stilt av forsvarer eller bistandsadvokat, forelegges den som foretar avhøret. Spørsmålene skal stilles med mindre det er klart utilrådelig av hensyn til vitnet eller etterforskingen.
+
+\(3\) Varsel til mistenkte om avhøret kan utsettes dersom hensynet til etterforskingen krever det. Dersom mistenkte ikke er kjent med avhøret, skal den som foretar avhøret, særlig iaktta mistenktes interesser. Mistenkte skal varsles snarest mulig etter avhøret og orienteres om retten til å kreve supplerende avhør, jf. § 13-7.
+
+\(4\) Mistenkte skal snarest mulig orienteres skriftlig om at avspilling av avhøret kan tre i stedet for avhør under hovedforhandling, jf. § 10-9 tredje ledd bokstav c.
+
+*§ 10-8. Opptak og nedtegning av forklaringer*
+
+\(1\) Politiforklaringer skal sikres med lyd- og bildeopptak, med mindre det etter sakens art eller forklaringens betydning er unødvendig. Dersom det ikke gjøres opptak, skal forklaringen nedtegnes så raskt som mulig, jf. § 13-5 tredje ledd.
+
+\(2\) Det skal snarest mulig skrives rapport fra avhøret med
+
+a\) sammendrag med opplysninger av betydning for saken,
+
+b\) angivelse av avhørets varighet, og
+
+c\) angivelse av om lovens krav er fulgt, jf. §§ 10-4 og 10-6.
+
+Rapporten skal leses opp for eller gjennomleses av den som er avhørt, og så vidt mulig forelegges vedkommende for rettelser og merknader.
+
+\(3\) Rettslige forklaringer skal dokumenteres etter reglene i domstolloven §§ 134 a til 134 c.
+
+*§ 10-9. Føring av forklaringer under hoved- og ankeforhandling*
+
+\(1\) Under hoved- og ankeforhandling skal forklaringer gis muntlig og direkte for den dømmende rett, med mindre annet er bestemt. Mistenkte har rett til å imøtegå forklaringer og skal gis anledning til å stille spørsmål til vitnene i saken, jf. §§ 7-1 annet ledd og 35-4 tredje ledd og femte ledd.
+
+\(2\) Lyd- og bildeopptak av en forklaring avgitt for retten eller i tilrettelagt avhør etter § 10-7 skal som regel spilles av for helt eller delvis å tre i stedet for muntlig og direkte avhør når hensynet til forsvarlig saksopplysning ikke taler mot det. Ved vurderingen skal det særlig tas hensyn til partenes syn.
+
+\(3\) Forklaring avgitt i anledning saken kan ellers gjengis dersom den
+
+a\) er i strid med det som forklares for retten,
+
+b\) omhandler forhold som mistenkte eller vitnet ikke kan eller vil forklare seg om,
+
+c\) er avgitt av et vitne som ikke har møtt, og muntlig og direkte avhør ikke er mulig eller gjennomføringen vil være uforholdsmessig, eller
+
+d\) er avgitt av mistenkte som er fraværende uten gyldig grunn.
+
+\(4\) Tidligere avgitt forklaring kan ikke føres etter annet eller tredje ledd dersom det strider mot mistenktes rett til imøtegåelse, jf. § 7-1 annet ledd. Er retten til imøtegåelse uttrykkelig frafalt av partene, kan forklaringen i alle tilfeller gjengis. Felles saksfremstilling etter § 34-11 kan gjengis selv om den inneholder elementer av forklaring.
+
+*§ 10-10. Anonyme vitner*
+
+\(1\) Tiltak som sikrer hemmelighold av et vitnes identitet, kan besluttes av retten etter begjæring fra statsadvokaten når det er nødvendig til vern av person eller offentlig interesse som angitt i § 6-8 første ledd bokstav a til e, og det ikke medfører vesentlige betenkeligheter av hensyn til mistenktes forsvar.
+
+\(2\) Vitnets navn og forhold av betydning for spørsmålet om tiltak etter første ledd skal gjøres kjent for sakens aktører, foruten mistenkte. Ved særlig behov for å beskytte vitnet kan slik informasjon likevel holdes hemmelig for lekdommere, forsvarer og bistandsadvokat. Forsvareren og bistandsadvokaten kan motsette seg å motta opplysningene.
+
+\(3\) Den som mottar opplysninger etter annet ledd, plikter å bevare taushet om disse. Taushetsplikten faller bare bort hvis retten avslår begjæringen om tiltak etter første ledd, og det er klart at påtalemyndigheten likevel vil benytte forklaringen.
+
+\(4\) Bare de dommerne som er gjort kjent med taushetsbelagte opplysninger, behandler begjæringen. Aktører som ikke skal motta opplysningene, kan pålegges å forlate rettsmøtet når begjæringen behandles.
+
+*§ 10-11. Forskrifter om tilrettelagt avhør*
+
+Kongen kan gi forskrift om tilrettelagt avhør etter § 10-7.
+
+**Kapittel 11. Sakkyndighet**
+
+*§ 11-1. Bistand fra sakkyndig*
+
+\(1\) Partene, fornærmede og retten kan søke bistand hos personer med særlig kunnskap eller erfaring på et bestemt felt.
+
+\(2\) Den sakkyndige kan antas av partene eller fornærmede eller oppnevnes av retten etter reglene i dette kapitlet.
+
+*§ 11-2. Mandat*
+
+\(1\) Er den sakkyndige antatt av påtalemyndigheten eller oppnevnt av retten, skal det utarbeides skriftlig mandat. Mandatet kan gis muntlig dersom særlige forhold tilsier det. Når mistenkte eller fornærmede antar sakkyndig, bør det utarbeides mandat.
+
+\(2\) Det skal fremgå av mandatet
+
+a\) hvilke spørsmål den sakkyndige skal uttale seg om,
+
+b\) hvilken type kunnskap som etterspørres,
+
+c\) hvilket faktisk grunnlag sakkyndiguttalelsen skal bygge på,
+
+d\) at det skal gis uttrykk for eventuell usikkerhet,
+
+e\) hva som er oppdragets omfang, herunder om den sakkyndige i tillegg til skriftlig redegjørelse skal forklare seg i retten,
+
+f\) at oppdragsgiver skal kontaktes ved spørsmål om mandatets innhold, herunder hvordan oppdraget skal utføres,
+
+g\) hvilken frist som gjelder for besvarelse, og
+
+h\) at det skal gis oppdragsbekreftelse etter § 11-8.
+
+\(3\) Endringer i mandatet skal fastsettes skriftlig.
+
+\(4\) Når retten oppnevner sakkyndig, kan den pålegge påtalemyndigheten, forsvareren eller bistandsadvokaten å utarbeide forslag til mandat eller til endring i mandatet.
+
+*§ 11-3. Besvarelse av mandatet. Krav til sakkyndig uttalelse*
+
+\(1\) En rettsoppnevnt sakkyndig skal besvare mandatet skriftlig i et klart og tydelig språk. Besvarelsen kan gis muntlig dersom særlige forhold tilsier det. Uttalelsen skal
+
+a\) baseres på etterprøvbar kunnskap,
+
+b\) skille mellom premisser, vurderinger og konklusjon,
+
+c\) tydeliggjøre eventuell usikkerhet,
+
+d\) oppgi om det er innhentet opplysninger, og
+
+e\) leveres til fastsatt frist.
+
+\(2\) Endringer i besvarelsen skal skje skriftlig.
+
+\(3\) Reglene i første og annet ledd bør følges av enhver sakkyndig så langt de passer.
+
+*§ 11-4. Rettens oppnevning av sakkyndig*
+
+\(1\) Retten skal oppnevne sakkyndig etter begjæring fra
+
+a\) påtalemyndigheten, med mindre saken gjelder et forhold som ikke er straffbart, eller straffansvaret er falt bort, og
+
+b\) mistenkte, dersom påtalemyndigheten ikke etterkommer ønske om sakkyndigbistand som har betydning for saken.

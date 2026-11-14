@@ -1,923 +1,244 @@
-# NOU 2024: 12, del 32 av 33 (side 364–373)
+# NOU 2024: 12, del 32 av 34
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/51c0ce0a-nou-2024-12.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-12/id3045610/
 - Original-PDF: https://www.regjeringen.no/contentassets/bdaa4218a48946cd950812e0f62837fb/no/pdfs/nou202420240012000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 25 tabeller, 33 figurer, 573 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 364]
-
-362
-
-Kapittel 22
-
-NOU 2024: 12
-Håndheving av mindre narkotikaovertredelser
-
-fra. Dels er lovbruddene knyttet sammen gjennom gjerningsbeskrivelsen i straffebudene om
-heleri og hvitvasking («utbytte av en straffbar
-handling»). Dels vil heleri eller hvitvasking ofte
-ikke regnes som markert mindre straffverdig enn
-primærlovbruddet. Til en viss grad kan den
-samme tilnærming inntas i relasjon til narkotikakriminalitet. Samtidig har det her en viss betydning at befatning med narkotika til egen bruk
-regnes som markert mindre straffverdig enn
-vinningsmotivert befatning med narkotika.
-Selv med den foreslåtte utvidelsen av hvilke
-momenter som fremheves i lovteksten, vil formuleringen «forholdene ellers» omfatte momenter
-som er sentrale i vurderingen. Ikke minst vil formuleringen fortsatt dekke momenter som mistankens styrke og hvor sannsynlig det er at
-tvangsmiddelformålet vil oppnås dersom tiltaket
-tas i bruk.
-Det er ikke tvilsomt at formuleringen «kan
-ikke brukes» både omfatter beslutningen om og
-iverksettingen av tvangsmiddelbruk. Utvalget
-har derfor ikke funnet det nødvendig å presisere
-lovteksten slik at det uttrykkelig fremgår at
-begge aspekter omfattes av forholdsmessighetskravet.
-Til § 171
-Straffeprosessloven § 171 er den allmenne hjemmelen for pågripelse. Utvalget foreslår at straffeloven § 232 a og legemiddelloven § 31 annet ledd,
-jf. § 24 a, tilføyes i oppregningen i § 171 annet ledd.
-Annet ledd gjør i dag unntak fra strafferammekravet i første ledd for straffeloven § 323 om
-mindre tyveri. Tilføyelsen medfører at det samme
-vil gjelde for § 232 a om mindre narkotikaovertredelse og for dopingovertredelse etter legemiddelloven § 31 annet ledd, jf. § 24 a. Endringene
-er nærmere omtalt i punkt 14.3.5 og 20.2.3.2.
-Utvalget understreker at endringene bare
-innebærer at strafferammekravet i § 171 første
-ledd ikke vil være til hinder for pågripelse der mistanken gjelder overtredelse av § 232 a i straffeloven eller legemiddelloven § 31 annet ledd, jf.
-§ 24 a. Pågripelse forutsetter at de øvrige pågripelsesvilkår er oppfylt. Pågripelse i mindre alvorlige
-narkotikasaker og dopingsaker antas først og
-fremst å være aktuelt ved unndragelsesfare og
-bevisforspillelsesfare. Hvorvidt en unndragelsesfare eller bevisforspillelsesfare i henhold til § 171
-første ledd nr. 2 eller 3 kan begrunne en
-pågripelse, avhenger ikke minst av om pågripelse
-er forholdsmessig etter straffeprosessloven
-§ 170 a annet punktum. Dersom mistenkte er
-
-under 18 år, må pågripelse være «særlig påkrevd»,
-se straffeprosessloven § 174.
-Det foreslås ingen endring i straffeprosessloven § 184 annet ledd første punktum om varetektsfengsling, som viser til § 171. Formelt sett vil
-derfor endringen åpne for varetektsfengsling der
-mistanken gjelder overtredelse av § 232 a i straffeloven eller legemiddelloven § 31 annet ledd, jf.
-§ 24 a. Men forholdsmessighetskravet i § 170 a
-annet punktum vil normalt være til hinder for
-varetektsfengsling der siktelsen bare omfatter en
-mindre narkotikaovertredelse eller dopingovertredelse. I den grad en kortvarig varetektsfengsling skulle være aktuelt, antas fengslingsbehovet å gjelde unndragelse til utlandet, slik at
-§ 184 annet ledd første punktum, jf. § 173 annet
-ledd, er et alternativt fengslingsgrunnlag.
-Til § 192
-I straffeprosessloven § 192 om ransaking av
-«bolig, rom eller oppbevaringssted» foreslår
-utvalget en endring i annet ledd og en presisering
-i første og tredje ledd. Annet ledd endres ved at
-legemiddelloven § 31 annet ledd, jf. § 24 a, tilføyes. Endringen skyldes at fengsel tas ut av
-strafferammen i § 31 annet ledd, noe som er
-omtalt i punkt 20.2.4.2. Presiseringene skal bidra
-til å klargjøre virkeområdet for første og tredje
-ledd. De skal klargjøre hvilken sammenheng det
-må være mellom det lovbruddet som medfører at
-mistankekravet er oppfylt og det lovbruddet som
-ransakingsbehovet først og fremst knytter seg til.
-Presiseringene er omtalt i punkt 13.1.5.2.
-I første ledd er formuleringen «i saken» tilføyd
-for å presisere at det å ransake for å søke etter
-bevis mv. først og fremst må være begrunnet i
-etterforskingsbehov knyttet til det straffbare forhold som mistankekravet i første ledd er oppfylt
-for. Med andre ord må behovet for å ransake hos
-personen først og fremst knytte seg til etterforskingen av et straffbart forhold som personen
-med skjellig grunn kan mistenktes for å være
-skyldig i. Dersom behovet for ransaking først og
-fremst knytter seg til et annet straffbart forhold,
-ikke minst et forhold som en annen person mistenkes å ha begått, er det ransakingshjemmelen i
-tredje ledd som må anvendes.
-Formuleringen «i saken» er anvendt. Ordet
-«saken» sikter til det straffbare forhold som mistanken gjelder.
-Formuleringen «i saken» er bare tilføyd i tilknytning til ransakingsformålet «søke etter
-bevis». Selv om tilføyelsen er gjort i tilknytning til
-dette ransakingsformålet, er presiseringen ment å
-
-[Side 365]
-
-NOU 2024: 12
-Håndheving av mindre narkotikaovertredelser
-
-ha en allmenn rekkevidde. Den er også relevant
-for ransakingsformålene «søke […] etter ting som
-kan beslaglegges eller som det kan tas heftelse i».
-Lovteksten blir imidlertid noe omfattende og komplisert dersom presiseringen på en klar måte skal
-knyttes opp mot alle de tre nevnte ransakingsformålene. Og presiseringen har størst praktisk
-betydning for ransakingsformålet «søke etter
-bevis».
-I annet ledd foreslås det at legemiddelloven
-§ 31 annet ledd, jf. § 24 a, legges til i oppregningen
-av de lovbrudd hvor det gjøres unntak fra strafferammekravet i første ledd. Endringen innebærer
-at det fortsatt vil være hjemmel for ransaking av
-eiendom ved etterforsking av dopinglovbrudd
-etter legemiddelloven. Endringen innebærer bare
-at det gjøres unntak fra strafferammekravet; de
-øvrige vilkår for ransaking må være oppfylt.
-I tredje ledd nr. 3 foreslås det en tilsvarende
-presisering som i første ledd. Også denne presiseringen er ment å være allmenn. Den skal ikke
-bare presisere ransakingsformålet «finnes bevis» i
-nr. 3, men også ransakingsformålene «finnes […]
-ting som kan beslaglegges eller som det kan tas
-heftelse i» i nr. 3 og ransakingsformålene i nr. 1 og
-2.
-Som nevnt skal presiseringen i første ledd
-klargjøre virkeområdet til første ledd opp mot
-virkeområdet til tredje ledd. Presiseringen i tredje
-ledd skal klargjøre virkeområdet til tredje ledd
-mot situasjonen der § 192 ikke åpner for ransaking, dvs. situasjoner der en «bolig» eller et
-«oppbevaringssted» ikke kan ransakes, og et «hus
-eller rom» bare kan ransakes dersom § 193 åpner
-for dette. Presiseringen innebærer at ransaking i
-medhold av tredje ledd forutsetter at behovet for
-ransaking først og fremst gjelder etterforskingsbehov knyttet til det straffbare forhold som mistankekravet i tredje ledd er oppfylt for.
-Til § 195
-I straffeprosessloven § 195 om personransaking
-foreslås det en presisering i første ledd, en endring i annet ledd og tilføyelse av et nytt fjerde og
-femte ledd.
-I første ledd endres formuleringen «oppdagelse
-av bevis» til «oppdagelse av bevis i saken». Endringen er omtalt i punkt 13.2.3.1 og har sammenheng med den tilsvarende endringen i straffeprosessloven § 192 første ledd, som er begrunnet i
-punkt 13.1.5.2. Tilføyelsen av formuleringen «i
-saken» skal bidra til å klargjøre grensen mellom
-virkeområdet til § 195 første og tredje ledd. Første
-ledd opererer med mer liberale vilkår for person-
-
-363
-
-Kapittel 22
-
-ransaking. Endringen skal bidra til å klargjøre at
-første ledd bare kan anvendes dersom ransakingsformålet først og fremst knytter seg til det straffbare forhold som mistankekravet i første ledd er
-oppfylt for. For øvrig vises til merknadene til § 192
-første ledd.
-I annet ledd foreslås det at legemiddelloven
-§ 31 annet ledd, jf. § 24 a, legges til i oppregningen
-av de lovbrudd hvor det gjøres unntak fra strafferammekravet i første ledd. Endringen innebærer
-at det fortsatt vil være hjemmel for personransaking ved etterforsking av dopinglovbrudd
-etter legemiddelloven. Endringen innebærer bare
-at det gjøres unntak fra strafferammekravet. De
-øvrige vilkår for ransaking må være oppfylt. Det
-vises til omtalen av forslaget i punkt 20.2.5.2.
-I et nytt fjerde ledd foreslås det en presisering
-av hva en personransaking er. Gjennom bestemmelsen angis det positivt hva en personransaking
-kan bestå i. Samtidig følger det motsetningsvis av
-bestemmelsen at en mer omfattende eller inngripende undersøkelse er en kroppslig undersøkelse etter straffeprosessloven § 157. Videre gir
-bestemmelsen en viss veiledning når grensen skal
-trekkes mellom hva som er personransaking og
-ransaking av et «oppbevaringssted» etter straffeprosessloven § 192. Forslaget i fjerde ledd er
-omtalt i punkt 13.2.3.3. Det tar sikte på å klargjøre
-rettstilstanden.
-Første del av presiseringen omhandler «besiktigelse av kroppens overflater og inn i munnhulen». Det følger av formuleringen «kan bare» at en
-mer omfattende eller inngripende undersøkelse
-ikke er en personransaking. Dette vil være en
-kroppslig undersøkelse etter § 157. Ordet «besiktigelse» markerer at det i utgangspunktet bare
-kan være tale om å se på kroppen uten klær eller
-inn i munnhulen, uten at personen kan bes om å
-gjøre kroppsbevegelser og uten at den som ransaker har kroppslig kontakt med personens nakne
-hud. Men lite inngripende kroppsbevegelser må
-likevel regnes som en kroppsransaking, typisk at
-en arm løftes eller at personen bes om å åpne
-munnen slik at den som ransaker kan se inn i
-munnen. Men det vil være en kroppslig undersøkelse dersom det er tale om kroppsbevegelser
-for at den som ransaker skal kunne se mellom
-brystene til en kvinne eller mellom rumpeballene
-eller i skrittet til personen. Det samme gjelder der
-polititjenestepersonen ønsker å undersøke inne i
-munnen ved hjelp av fingre eller lignende.
-Formuleringen «gjennomsøkning av klær»
-viser at en undersøkelse av personens lommer
-mv. er en personransaking. Men formuleringen
-dekker også det å ta utenpå personens klær for å
-
-[Side 366]
-
-364
-
-Kapittel 22
-
-NOU 2024: 12
-Håndheving av mindre narkotikaovertredelser
-
-avklare om noe er skjult i klærne eller mellom
-klærne og kroppen.
-Siste del av formuleringen omhandler «gjennomsøkning» av «veske, håndbagasje mv.».
-Denne delen av presiseringen må ses i sammenheng med hjemmelen for ransaking av et «oppbevaringssted» i § 192. I utgangspunktet er en
-veske, en koffert mv. et oppbevaringssted, men
-der personen har oppbevaringsstedet med seg,
-bør undersøkelsen regnes som personransaking.
-Dette er i samsvar med rettstilstanden i dag. Men
-det går en grense for hvilke typer av oppbevaringssteder som kan undersøkes som ledd i en
-personransaking. Det å undersøke om personen
-har en mobiltelefon i lomma eller en PC i veska,
-kan gjøres som ledd i en personransaking. Men
-dersom ransakingen avdekker en digital lagringsenhet, vil en undersøkelse av innholdet på
-den digitale lagringsenheten, slik som i dag, være
-ransaking av et oppbevaringssted etter § 192. Det
-samme bør i utgangspunktet ikke legges til grunn
-for papirbaserte notatbøker og lignende. Og det å
-se på papirlapper og lignende som en person har i
-lomma eller veska, må klart regnes som en del av
-personransakingen.
-I et nytt femte ledd er det tatt inn en hjemmel
-for bruk av makt (tvang). Bestemmelsen skal bare
-gi bruk av makt ved personransaking et klarere
-grunnlag i straffeprosessloven. Den åpner ikke
-for bruk av makt i større grad eller på annen måte
-enn etter rettstilstanden i dag. Forslaget er omtalt
-i punkt 13.2.3.4.
-Forslaget åpner for to typer av maktbruk.
-Første punktum omhandler bruk av makt ved
-selve iverksettingen av personransakingen. Det
-kan typisk være tale om å holde personen fast slik
-at ransakingen kan gjennomføres, eller å bruke
-makt for å ta av personen et klesplagg, eller å få tilgang til personens veske mv.
-Annet punktum omhandler maktbruk i grenseland mot frihetsberøvelse. Gjennomføringen av en
-personransaking forutsetter at personen oppholder seg der ransakingen skal finne sted. Men etter
-omstendighetene kan kravet til hensynsfullhet
-ved ransaking gjøre at ransakingen bør gjennomføres et annet sted enn der personen påtreffes.
-Annet punktum åpner for maktbruk for å sikre
-dette. Samtidig er det presisert at politiet bare kan
-holde personen tilbake eller ta personen med til et
-annet sted i den grad dette er nødvendig for å
-iverksette ransakingen. Verken tidsmessig eller
-stedsmessig kan maktbruken gå ut over hva som
-er strengt nødvendig for ransakingen. I den grad
-ytterligere frihetsinnskrenkning er nødvendig, må
-personen eventuelt pågripes.
-
-Om makt kan tas i bruk i en konkret situasjon,
-og hvor mye makt og hvilken type makt som kan
-brukes, reguleres av andre regler. Det følger av
-straffeprosessloven § 170 a annet punktum at
-også iverksettingen av en ransaking må være forholdsmessig. Bruk av makt i den konteksten som
-omtales her, er en del av iverksettingen. Videre
-oppstiller politiloven § 6 allmenne krav til politiets
-tjenesteutførelse, som også gjelder der det er
-spørsmål om å anvende makt ved iverksetting av
-personransaking. Reglene innebærer blant annet
-at makt bare kan anvendes dersom det er nødvendig og forholdsmessig, og at det ikke kan tas i
-bruk sterkere maktmidler enn hva som er nødvendig og forholdsmessig.
-Til § 197
-Straffeprosessloven § 197 regulerer hvem som
-kan beslutte ransaking og kravene til en beslutning om ransaking. Når det gjelder beslutningskompetanse, må § 197 ses i sammenheng med
-§ 198. Utvalget foreslår flere endringer i § 197.
-Disse er omtalt i punkt 13.3.5.1, 13.3.5.3 og 13.4.5.
-Første ledd fastsetter at en beslutning om
-ransaking i medhold av de materielle reglene i
-§§ 192-195 må treffes av retten med mindre annet
-er bestemt. Med andre ord er hovedregelen at
-retten skal avgjøre om ransaking kan skje.
-Bestemmelsen er endret ved at unntaket ved
-skriftlig samtykke er tatt ut. Unntaket er flyttet til
-annet ledd om beslutningskompetanse for påtalemyndigheten. Endringen innebærer at polititjenestepersoner ikke lenger vil ha beslutningskompetanse ved skriftlig samtykke. Denne endringen medfører også at § 198 annet ledd første
-punktum endres.
-Annet ledd regulerer når påtalemyndigheten
-kan treffe en beslutning om ransaking. Ordet
-«kan» viser at påtalemyndigheten kan overlate til
-retten å treffe beslutningen selv om den har kompetanse etter annet ledd. Hvorvidt dette bør gjøres, er opp til påtalemyndighetens skjønn. Påtalemyndigheten må særlig se hen til sakens karakter,
-hvor sterkt ransakingen vil gripe inn i personvernet og hensynet til de berørtes rettsikkerhet.
-Annet ledd nr. 1 fastsetter at påtalemyndigheten kan treffe beslutningen når den ransakingen vil rettes mot samtykker skriftlig.
-Bestemmelsen viderefører uten endring det som i
-dag følger av første ledd.
-Annet ledd nr. 2 første punktum viderefører
-med visse endringer den hastekompetanse som i
-dag følger av § 197 annet ledd første punktum.
-Men lovteksten er klargjort for å få frem at det
-
-[Side 367]
-
-NOU 2024: 12
-Håndheving av mindre narkotikaovertredelser
-
-gjelder visse minstekrav til hvor sannsynlig det
-må være at ransakingsformålet vil forspilles dersom en avgjørelse fra retten avventes. I dag gjelder hastekompetansen når «det er fare ved opphold», mens når «det er grunn til å frykte» er den
-nye formuleringen. Formålet med endringen er at
-lovteksten på en bedre måte skal gjenspeile det
-krav Høyesterett oppstilte i HR-2023-805-A avsnitt
-43, der domstolen presiserte at det må foreligge
-«en konkret fare for at formålet med ransakingen
-ødelegges hvis man må vente på rettens beslutning».
-Annet ledd nr. 2 annet punktum viderefører
-bestemmelsen i § 197 annet ledd annet punktum
-uten endringer.
-I tredje ledd er det regler om ransakingsbeslutningen. Første punktum fastsetter at en beslutning
-om ransaking «så vidt mulig» skal være «skriftlig». Innholdsmessig svarer bestemmelsen til hva
-som i dag følger av § 197 tredje ledd første punktum. Men virkeområdet for bestemmelsen er
-endret. Dagens bestemmelse gjelder en ransakingsbeslutning truffet i medhold av første eller
-annet ledd i § 197, dvs. en beslutning truffet av
-retten eller påtalemyndigheten. Utvalgets forslag
-gjelder uavhengig av hvem som treffer beslutningen, noe som innebærer at skriftlighetskravet
-også gjelder der en polititjenesteperson treffer
-beslutningen i medhold av § 198. Men forbeholdet
-«så vidt mulig» er særlig aktuelt der beslutningen
-treffes av en polititjenesteperson. Ofte er det da
-ikke tid og mulighet til å nedtegne beslutningen
-skriftlig før ransakingen iverksettes. Endringen
-tar ikke sikte på å oppstille en høy terskel for når
-polititjenestepersoner kan ransake uten en skriftlig beslutning.
-Annet punktum regulerer kravene til innholdet
-i en skriftlig beslutning om ransaking. Etter forslaget skal beslutningen «på en presis måte angi
-hva ransakingen omfatter og hvem den retter seg
-mot, og inneholde opplysninger om det rettslige
-og faktiske grunnlaget for ransakingen, herunder
-om formålet». Kravene er noe strengere enn hva
-som i dag følger av § 197 tredje ledd første punktum, som fastsetter at beslutningen skal opplyse
-om «hva saken gjelder, formålet med ransakingen
-og hva den skal omfatte». Som påpekt i punkt
-13.4.5 følger forslaget langt på vei opp et forslag
-fra Straffeprosessutvalget. Hvilke opplysninger
-beslutningen skal inneholde samsvarer med forslaget til Straffeprosessutvalget. Men dette
-utvalget har presisert bestemmelsen dit hen at
-opplysningene skal angis «på en «presis måte».
-Hvor presis beskrivelsen må være, må et stykke
-på vei avhenge av hva som skal ransakes og hvor
-
-365
-
-Kapittel 22
-
-viktig god presisjon er for å ivareta personvernhensyn hos og rettssikkerheten til den som
-utsettes for ransaking.
-Tredje og fjerde punktum regulerer situasjonen der beslutningen om ransaking ikke er
-skriftlig. Bestemmelsen i tredje punktum er generell. Uavhengig av hvem som har truffet beslutningen om ransaking skal den «snarest mulig»
-nedtegnes skriftlig. Innholdsmessig svarer
-bestemmelsen til § 197 tredje ledd annet punktum, men virkeområdet er endret. Kravet om nedtegning gjelder også der en polititjenesteperson
-har fattet beslutningen. Det ligger implisitt i reguleringen at en nedtegning i henhold til tredje
-punktum skal tilfredsstille kravene til innhold i
-annet punktum.
-For å effektivisere arbeidet til polititjenestepersoner fastsetter fjerde punktum at en beslutning fra en polititjenesteperson kan nedtegnes i
-den rapporten om iverksetting som skal utarbeides i henhold til § 199 annet ledd. Polititjenestepersoner kan med andre ord utarbeide en felles
-rapport om beslutningen og iverksettingen.
-Til § 198
-Straffeprosessloven § 198 regulerer når polititjenestepersoner kan treffe en beslutning om
-ransaking. Utvalget foreslår endringer i første
-ledd nr. 2 og annet ledd første punktum. Det vises
-til punkt 13.3.5.2 og 13.3.5.3.
-I dag fastsetter første ledd nr. 2 at en polititjenesteperson kan beslutte ransaking «når mistenkte treffes eller forfølges på fersk gjerning
-eller ferske spor». Utvalget foreslår ingen endring
-av lovens formulering, men understreker at formuleringen må tolkes restriktivt. Utvalgets forslag
-går ut på å tilføye to presiserende tilleggskrav:
-mistanken må være «sterk», og det må være
-«grunn til å anta» at ransakingsformålet vil oppnås
-i tilfelle ransaking.
-Vilkåret om at mistanken må være «sterk»
-svarer til mistankekravet i første ledd nr. 3.
-Høyesterett har lagt til grunn at formuleringen
-«sterk mistanke» i nr. 3 skal forstås som «et krav
-om betydelig sannsynlighetsovervekt for at en
-straffbar handling er begått», se Rt-1993-1025.
-Kravet til mistankens styrke i nr. 2 skal forstås på
-samme måte.
-Mistankekravet er generelt og gjelder for alle
-de bevistemaene som er aktuelle. Mistanken om
-at det er begått en straffbar handling må være
-sterk. Videre må mistanken være sterk mot den
-som treffes på fersk gjerning. Alternativt må det
-foreligge en sterk mistanke om at de friske
-
-[Side 368]
-
-366
-
-Kapittel 22
-
-NOU 2024: 12
-Håndheving av mindre narkotikaovertredelser
-
-sporene stammer fra den straffbare handlingen og
-om at den personen som sporene leder mot er
-gjerningsperson eller en medvirker.
-Vilkåret om at det må være «grunn til å anta at
-ransakingsformålet vil oppnås» oppstiller et indikasjonskrav. Det må være en viss sannsynlighet
-for at ransakingsformålet vil oppnås i tilfelle ransaking. Formuleringen «grunn til å anta» svarer til
-det indikasjonskravet en finner i de materielle
-ransakingshjemlene i straffeprosessloven § 194
-(razzia) og § 195 første ledd (personransaking),
-og må forstås på samme måte. Kravet er ikke
-strengt, men det må foreligge konkrete holdepunkter for at ransakingsformålet vil oppnås i tilfelle ransaking.
-Det foreslåtte indikasjonskravet har bare realitetsbetydning i situasjoner der det materielle
-ransakingsgrunnlaget oppstiller et lavere indikasjonskrav. Konkret betyr dette at det foreslåtte vilkåret bare har realitetsbetydning når det er spørsmål om å ransake «bolig, rom eller oppbevaringssted» og det materielle grunnlaget for ransaking
-er straffeprosessloven § 192 første ledd eller
-tredje ledd nr. 1 eller 2.
-Annet ledd første punktum oppstiller et unntak
-fra kompetansebestemmelsene i første ledd nr. 2
-og 3 når det gjelder personransaking i medhold av
-§ 195 tredje ledd. I dag fastsetter bestemmelsen at
-slik ransaking ikke kan foretas «uten samtykke
-eller beslutning som nevnt i § 197». Endringen av
-straffeprosessloven § 197 medfører at polititjenestepersoner ikke lenger vil ha beslutningskompetanse ved skriftlig samtykke fra den ransakingen skal rettes mot. Av den grunn er samtykkealternativet tatt ut av annet ledd første
-punktum, slik at lovens formulering blir «uten
-beslutning som nevnt i § 197».
-Til § 199
-Straffeprosessloven § 199 annet ledd pålegger
-politiet å utferdige en rapport om iverksettingen
-av ransakingen. I et nytt annet punktum foreslår
-utvalget en bestemmelse om hva rapporten skal
-inneholde. Det vises til punkt 13.4.5.
-Første del av annet punktum fastsetter at rapporten skal vise til beslutningen om ransaking.
-Der retten eller påtalemyndigheten har besluttet
-ransaking, skal rapporten vise til en skriftlig eller
-nedtegnet beslutning som nevnt i straffeprosessloven § 197 tredje ledd første eller tredje
-punktum. I utgangspunktet gjelder det samme der
-beslutningen om ransaking er truffet av en polititjenesteperson. Men her må bestemmelsen ses i
-sammenheng med § 197 tredje ledd fjerde punk-
-
-tum. Når § 197 tredje ledd fjerde punktum og
-§ 199 annet ledd annet punktum ses i sammenheng, fremgår det at en beslutning om ransaking
-fattet av en polititjenesteperson, i en situasjon der
-det ikke var mulig å treffe beslutningen skriftlig,
-kan nedtegnes i rapporten om ransakingen.
-For øvrig skal rapporten opplyse om «hvem
-som iverksatte ransakingen, når ransakingen fant
-sted, hva ransakingen omfattet og hvordan ransakingen ble gjennomført». De første to kravene
-omhandler enkle opplysninger som det ikke tar
-mye tid å skrive ned i rapporten, og som også i
-dag må være med i en rapport. Det samme gjelder
-til en viss grad for det tredje kravet – hva ransakingen omfattet. Også i dag må det fremgå av
-rapporten hvilken person eller eiendom som ble
-ransaket. Formuleringen «hva ransakingen
-omfattet» må forstås slik at det ved personransaking alltid må fremgå hvem som ble ransaket.
-Når det gjelder ransaking av eiendom, må det
-fremgå hvem sin eiendom som ble ransaket og
-hvilken type eiendom som ble ransaket. Hvilke
-krav som gjelder ut over dette, er relativt. Hvor
-grundig rapporten skal beskrive avgrensningen
-av ransakingsstedet og hvor det konkret ble
-ransaket, må avhenge av omstendighetene. Det
-veiledende synspunktet må være at rapporten skal
-gi et forsvarlig grunnlag for å etterprøve lovligheten av iverksettingen.
-Det siste elementet er «hvordan ransakingen
-ble gjennomført». Kravet innebærer at det kort
-skal angis hvordan en person eller eiendom ble
-ransaket. Ved personransaking må det angis om
-politiet nøyde seg med å undersøke lommene og
-veska til personen, eller om også kroppen ble
-undersøkt. Og dersom kroppen uten klær ble
-besiktiget: hvilke deler av kroppen ble besiktiget.
-Ved ransaking av eiendom vil det ofte være naturlig å kort angi hvilke rom eller oppbevaringssteder som ble undersøkt. Samtidig er det ved
-ransaking av eiendom ikke en klar grense mellom
-kravet til beskrivelse av «hva ransakingen
-omfattet» og «hvordan ransakingen ble gjennomført».
-Også kravet til en beskrivelse av hvordan
-ransakingen ble gjennomført, er relativt. Et
-sentralt poeng er at rapporten skal gi et forsvarlig
-grunnlag for å etterprøve lovligheten av ransakingen. Kravene til hvor grundig rapporten skal
-være, må særlig avhenge av hvor stort inngrep i
-privatsfæren ransakingen innebar. Dersom makt
-er anvendt for å iverksette ransakingen må dette
-alltid omtales i rapporten.
-Plikten til å skrive rapport om eventuelle
-beslag som tas er regulert i straffeprosessloven
-
-[Side 369]
-
-NOU 2024: 12
-Håndheving av mindre narkotikaovertredelser
-
-§ 207 første ledd og påtaleinstruksen § 9-5.
-Utvalget foreslår ingen endringer i disse reglene.
-
-367
-
-Kapittel 22
-
-22.4 Til endringene i straffeloven
-Til § 37
-
-Til § 321
-Endringen i straffeprosessloven § 321 første ledd
-første punktum innebærer at de strafferettslige
-reaksjonene straffutmålingsutsettelse og straffutmålingsfrafall tilføyes oppregningen av hvilke
-straffer og strafferettslige reaksjoner som omfattes
-av virkeområdet til samtykkeregelen i § 321 første
-ledd. De to strafferettslige reaksjonene er regulert
-i straffeloven § 60 og § 61. Tilføyelsene medfører
-ingen realitetsendring, jf. Rt-2007-1153 og fremstillingen i punkt 11.3. Siden reaksjonene straffutmålingsutsettelse og straffutmålingsfrafall er mer
-aktuelle i lys av rettsutviklingen ved reaksjonsfastsetting i mindre alvorlige narkotikasaker, noe som
-befestes gjennom utvalgets forslag til ny § 232 a i
-straffeloven, bør lovteksten bringes i samsvar med
-rettstilstanden.
-
-22.2 Til endringene i legemiddelloven
-§ 31
-Endringen i § 31 annet ledd består for det første i
-at straffetrusselen for ulovlig bruk og besittelse av
-narkotika er tatt ut av bestemmelsen. Besittelse
-og bruk av narkotika skal etter utvalgets forslag
-straffes etter den nye bestemmelsen om mindre
-alvorlige narkotikaovertredelser i straffeloven
-§ 232 a. Dette foreslås presisert i legemiddellovens straffebestemmelse, jf. forslaget til § 31
-annet ledd annet punktum.
-Etter endringen gjelder § 31 annet ledd bare
-erverv, besittelse og bruk av dopingmidler.
-Strafferammen forslås endret til bot alene. Forslaget er ment å bringe strafferammen i samsvar
-med etablert reaksjonspraksis ved bruk og befatning med dopingmidler til egen bruk. Endringen
-tar ikke sikte på noen endring i gjeldende reaksjonsnivå. Det vises til punkt 20.1.
-
-22.3 Til endringen i brukerromsloven
-§4
-Endringen i § 4 første ledd bokstav b er en konsekvens av at straffetrusselen for bruk og besittelse
-av narkotika flyttes fra legemiddelloven til ny
-§ 232 a i straffeloven. Henvisningen til legemiddelloven § 31, jf. § 24 første ledd, må derfor endres til
-den nye bestemmelsen i straffeloven. Se punkt
-10.7.2.
-
-Straffeloven § 37 første ledd bokstav k gir hjemmel for å pålegge oppmøte for rådgivende enhet
-for russaker som et strafferettslig særvilkår, forutsatt at saken gjelder bruk, erverv eller innehav av
-narkotika til domfeltes egen bruk etter § 232 a.
-Det vises utvalgets omtale i punkt 10.7.2 hvor henvisningen i § 37 første ledd bokstav k til legemiddelloven § 31, jf. § 24 første ledd, er foreslått
-endret som en konsekvens av at straffetrusselen
-for bruk og besittelse av narkotika flyttes fra legemiddelloven til ny § 232 a i straffeloven.
-Utvalget foreslår videre at omfanget av møteplikten reguleres i § 37 første ledd bokstav k ved
-at det angis hva rammen for møteplikten kan
-være. Det kan fastsettes vilkår om å møte inntil tre
-ganger ved rådgivende enhet for russaker innenfor en tidsperiode (gjennomføringstid) på tre
-måneder. Antall møter og gjennomføringstid må
-fastsettes i påtaleunnlatelsen (eventuelt i dommen), og rådgivende enhet for russaker kan frita
-for ytterligere møter etter at personen har møtt
-dersom det ut fra enhetens faglige vurdering ikke
-anses nødvendig å gjennomføre flere møter for å
-oppfylle tiltakets formål.
-Vilkår om å møte ved enheten bør være den
-foretrukne reaksjonen for personer under 18 år
-ved overtredelse av straffeloven § 232 a. Vilkåret
-kan også være anvendelig overfor unge lovbrytere som har fylt 18 år ved førstegangs overtredelse av straffeloven § 232 a, og når personen
-antas å ha et oppfølgingsbehov. Forutsetningen er
-uansett at personen anses egnet for å gjennomføre
-tiltaket, og vilkåret vil være mindre formålstjenlig
-dersom personen allerede er i kontakt med hjelpeapparatet eller rusbruken har sammensatte og
-omfattende bakenforliggende årsaker.
-Om det nærmere innholdet i vilkåret, vises det
-til punkt 16.6.3.3 ovenfor. I samme punkt er også
-konsekvenser ved vilkårsbrudd omtalt.
-Til § 53
-Endringen i § 53 fjerde ledd annet punktum er en
-konsekvens av at straffetrusselen for bruk og besittelse av narkotika flyttes fra legemiddelloven til ny
-§ 232 a i straffeloven. Henvisningen til legemiddelloven § 31, jf. § 24 første ledd, må derfor endres til
-den nye bestemmelsen i straffeloven. Samtidig er
-alternativene «besittet eller oppbevart» erstattet
-med «innehatt». Se punkt 10.4 ovenfor og spesialmotivene til § 232 a om begrepet innehav.
-
-[Side 370]
-
-368
-
-Kapittel 22
-
-NOU 2024: 12
-Håndheving av mindre narkotikaovertredelser
-
-Til § 232 a
-§ 232 a er en ny bestemmelse om mindre narkotikalovbrudd. Første ledd første punktum angir
-handlingsnormen og strafferammen.
-På samme måte som i legemiddelloven er det
-ingen begrensning i personkretsen. Det er uten
-betydning om gjerningspersonen er rekreasjonsbruker, eksperimentbruker eller rusmiddelavhengig og om hen er voksen eller ung.
-Sammenlignet med legemiddelloven § 31 annet
-ledd, jf. § 24 første ledd, og straffeloven § 231, er det
-to endringer. For det første er erverv tilføyd, selv
-om denne befatningsmåten ikke er med i legemiddelloven, se nærmere i punkt 10.4 og 10.7.3. For
-det andre innføres begrepet «innehav», jf. punkt
-10.4. Innehav er en fellesbetegnelse på besittelse
-etter legemiddelloven og oppbevaring etter straffeloven av narkotika til egen bruk i kvanta under terskelverdi. Innehav erstatter alternativet «besittelse»
-i legemiddelloven og omfatter i tillegg oppbevaring
-av mindre mengder narkotika til egen bruk, som nå
-rammes av straffeloven § 231. Etter utkastet vil således alternativene erverv og oppbevaring i straffeloven § 231 være begrenset til mengder som overstiger terskelverdi uavhengig av formål, og dessuten mengder innenfor terskelverdi når formålet er
-et annet enn egen bruk eller der varigheten av innehavet er mer enn rent midlertidig.
-Utvalget antar at det vanligvis vil være slik
-sammenheng mellom ervervet og det etterfølgende innehav at dette strafferettslig blir ett
-fortsatt lovbrudd og at det straffeprosessuelt vil
-være samme forhold. Det skal da ikke siktes eller
-domfelles for erverv og innehav som separate
-straffbare forhold.
-Strafferammen i første ledd første punktum er
-bot eller fengsel inntil seks måneder. Normalreaksjonen ved bruk vil være bot for voksne personer
-som ikke er rusmiddelavhengige. Som nevnt ovenfor, omfatter innehav både det som var besittelse
-etter legemiddelloven og nedre sjikt av oppbevaring etter straffeloven. Også for slikt innehav skal
-normalreaksjonen være bot for en voksen som
-ikke er rusmiddelavhengig. Alternativet fengsel i
-strafferammen tar først og fremst sikte på det øvre
-sjikt av innehav. Det er ikke meningen å endre etablert påtalepraksis om grensen mellom forelegg
-på bot og tiltale med påstand om betinget fengsel
-for voksne personer som ikke er rusmiddelavhengige. Om anbefalt straffenivå for ulike grupper vises for øvrig til punkt 10.7.5 ovenfor.
-Første ledd annet punktum fastslår at også
-uaktsom overtredelse er straffbar, men her er det
-ikke behov for å ha med fengsel i strafferammen.
-
-Annet ledd inneholder en generell bestemmelse om at påtalemyndigheten kan velge å
-avgjøre saken med betinget eller ubetinget påtaleunnlatelse etter straffeprosessloven § 69 og at
-domstolen kan velge å reagere med straffutmålingsutsettelse etter straffeloven § 60 eller
-straffutmålingsfrafall etter straffeloven § 61. Disse
-reaksjonene er ikke straff, men såkalte andre
-strafferettslige reaksjoner, jf. straffeloven § 30 bokstav a, b og f, og vilkåret er at hensynet til straffens
-formål ikke tilsier at det bør reageres med straff
-eller annen strafferettslig reaksjon. Annet ledd i
-utkastet er i og for seg overflødig ettersom både
-straffeprosessloven § 69 og straffeloven §§ 60 og
-61 er generelle bestemmelser som uansett kan
-anvendes når vilkårene er oppfylt. Grunnen til at
-det likevel foreslås en særregel i § 232 a er henvisningen til straffens formål. På den måten understrekes det at straff bare bør velges som reaksjon
-der straffens formål tilsier dette. Videre tydeliggjøres at vilkåret i straffeloven § 61 om «helt særlige grunner» ikke skal gjelde i tillegg.
-Bestemmelsen angir i annet punktum momenter som det særlig skal legges vekt på. Den tar
-først og fremst sikte på unge lovovertredere (bokstav a) og personer som har en problematisk bruk
-av narkotika, men som ikke har utviklet avhengighet (bokstav b).
-Momentet «gjerningspersonens alder» (bokstav a) tar først og fremst sikte på unge. Som
-nevnt i punkt 10.7.5.3 og 16.6.3, mener utvalget at
-normalreaksjonen for ungdom mellom 15 og 18 år
-fortsatt bør være betinget påtaleunnlatelse med
-prøvetid etter straffeprosessloven § 69 annet ledd
-og med særvilkår om å møte hos rådgivende
-enhet for russaker, jf. straffeprosessloven § 69
-tredje ledd og straffeloven § 37 første ledd bokstav k. En slik reaksjon kan imidlertid etter
-omstendighetene også være aktuell for unge
-voksne, ettersom pålegg om å møte hos rådgivende enhet for russaker for denne aldersgruppen kan oppleves som en mer følbar reaksjon
-enn en bot.
-For personer med problematisk bruk av rusmidler (bokstav b), er det hensiktsmessig å ha et
-«ris bak speilet» ved at det kan settes vilkår. På
-samme måte som for rusmiddelavhengige beror
-det på et skjønn om en persons bruk av rusmidler
-skal anses som problematisk (altså om personen
-«har utviklet eller står i fare for å utvikle avhengighet av den aktuelle typen narkotika»), og momentene vil i hovedsak være de samme som i tredje
-ledd, se punkt 10.2.5 ovenfor.
-Vilkåret «rimelig grunn til å tro» i bokstav b er
-et svakt beviskrav. Det kreves ikke sannsynlig-
-
-[Side 371]
-
-NOU 2024: 12
-Håndheving av mindre narkotikaovertredelser
-
-hetsovervekt, men det må være holdepunkter for
-at personens bruk av narkotika er så problematisk
-at det er nærliggende at hen har utviklet eller står
-i fare for å utvikle avhengighet av den aktuelle
-typen narkotika. For alternativet «har utviklet […]
-avhengighet» kreves det imidlertid mindre enn
-etter tredje ledd der beviskravet for rusmiddelavhengighet er formulert «dersom det må antas
-at», jf. nærmere nedenfor.
-Gjerningsstedet kan tilsi at overtredelsen likevel bør møtes med straff (bokstav c), for eksempel
-der den har skjedd på en skole eller idrettsarena
-eller åpenlyst på et sted der ungdom samles.
-Momentene i annet punktum er ikke uttømmende, noe som uttrykkes ved formuleringen
-«skal det særlig legges vekt på». Som eksempel på
-andre relevante momenter kan nevnes gjerningspersonens stilling eller rolle. Hvis hen f.eks. er fotballtrener eller lærer kan hensynet til straffens
-formål tilsi at det velges en reaksjon som formelt
-er straff, i praksis normalt en bot.
-Bestemmelsen i annet ledd kan også være
-aktuell for rusmiddelavhengige dersom påtalemyndigheten eller domstolen finner at gode
-grunner taler for at det bør velges en reaksjon
-med vilkår (betinget påtaleunnlatelse eller straffutmålingsutsettelse) fremfor en slik ubetinget
-reaksjon som tredje ledd gir anvisning på skal
-være hovedregelen for denne persongruppen.
-Slike tilfeller omfattes av reservasjonen «normalt»
-i tredje ledd, og meningen er at påtalemyndigheten eller domstolen skal kunne velge den reaksjon som alt i alt fremstår som mest hensiktsmessig for den enkelte rusmiddelavhengige. Betinget
-påtaleunnlatelse med vilkår om oppmøte ved rådgivende enhet for russaker bør velges fremfor
-ubetinget påtaleunnlatelse eller straffutmålingsfrafall dersom det antas at den rusmiddelavhengige vil være tjent med en slik oppfølging.
-I tredje ledd lovfestes utgangspunktet i regjeringens mandat om at rusmiddelavhengige normalt skal møtes med straffutmålingsfrafall eller
-ubetinget påtaleunnlatelse i saker som gjelder
-bruk av og befatning med mindre mengder narkotika til egen bruk.
-Reservasjonen «normalt» innebærer at det
-unntaksvis kan tenkes tilfeller der det bør reageres
-med straff selv om det er tale om en rusmiddelavhengigs befatning med et mindre kvantum til
-egen bruk, for eksempel der misbruket skjer åpenlyst på et sted der allmennpreventive hensyn taler
-for at det bør velges en strengere reaksjon. Det
-kan eksempelvis være situasjonen dersom lovbruddet er begått på en skole, eller et annet sted
-hvor barn og unge skal beskyttes. Reservasjonen
-
-369
-
-Kapittel 22
-
-gir også grunnlag for unntak basert på mer generelle allmenne hensyn. For eksempel kan allmenne hensyn tale for en strengere reaksjon der
-lovbruddet har skjedd i et fengsel eller i Forsvaret.
-Andre eksempler der reservasjonen kan være
-aktuell er nevnt i merknadene til annet ledd ovenfor og fjerde ledd nedenfor.
-Om en person skal anses som rusmiddelavhengig i lovens forstand er overlatt til påtalemyndighetens (ved påtaleunnlatelse) og rettens
-(ved domstolsbehandling) skjønn. Tredje ledd
-annet punktum angir momenter som det særlig
-skal legges vekt på ved denne vurderingen. Se
-nærmere om disse i punkt 10.2.5.
-Selv om «rusmiddelavhengig» etter en naturlig
-språklig forståelse omfatter avhengighet av alle
-rusmidler, således også alkoholavhengighet, er det
-etter sammenhengen klart at begrepet i utkastets
-forstand kun gjelder avhengighet av narkotika,
-dvs. av stoffer som er oppført på narkotikalisten, jf.
-legemiddelloven § 4. Årsaken til avhengigheten er
-uten betydning. Avhengigheten kan for eksempel
-skyldes lovlig forskrevne legemidler.
-Beviskravet er regulert ved formuleringen
-«dersom det må antas at […]» i tredje ledd første
-punktum. Dette innebærer at det må foreligge noe
-mer enn sannsynlighetsovervekt for at personen
-er rusmiddelavhengig. Det kreves konkrete
-holdepunkter av en viss styrke for at dette skal
-legges til grunn, og det skal mer til her enn etter
-annet ledd. I fravær av slike holdepunkter må
-påtalemyndigheten og eventuelt domstolen legge
-til grunn at siktede ikke er rusmiddelavhengig.
-Det vises til punkt 10.6.4.2 og 10.7.4.
-Se nedenfor i merknaden til fjerde ledd om det
-spesialtilfelle at en person som er avhengig av ett
-stoff, blir tatt med et annet stoff i en mengde som
-er under terskelverdi.
-Det vil ofte være naturlig å behandle rusmiddelavhengiges befatning med dopingmidler til
-egen bruk på samme måte som narkotika til egen
-bruk. Dette er ikke regulert særskilt, men kan
-gjennomføres av påtalemyndigheten og domstolene ved anvendelsen av de alminnelige
-bestemmelsene om reaksjonsfastsettelse.
-Tredje ledd gjelder kun for voksne («gjerningsperson over 18 år»). Barn under 18 år vil sjelden ha utviklet en avhengighetsdiagnose, og uansett vil en betinget påtaleunnlatelse med særvilkår
-om oppmøte ved rådgivende enhet for russaker
-være en mer hensiktsmessig reaksjon for rusavhengige barn under 18 år, jf. annet ledd. Det
-vises til omtalen over i punkt 10.7.5.3 og punkt
-16.7.4. Med «over 18 år» menes alle som er 18 år
-og eldre, dvs. fra og med 18-årsdagen.
-
-[Side 372]
-
-370
-
-Kapittel 22
-
-NOU 2024: 12
-Håndheving av mindre narkotikaovertredelser
-
-Fjerde ledd første punktum gir hjemmel for at
-terskelverdier kan fastsettes i forskrift, se punkt
-10.5.8.4. I annet punktum er det presisert at
-terskelverdien også kan settes til null, jf. punkt
-10.5.8.3. Utkast til forskrift er inntatt i punkt 23.8
-nedenfor. Utvalgets forslag til terskelverdier for
-de enkelte stoffer fremgår av punkt 10.5.8.2 og
-utkastet til forskrift § 2. Forskriftsutkastet inneholder også forslag til regulering av situasjonen
-der gjerningspersonen har samtidig befatning
-med flere stoffer (§ 3), situasjonen der gjerningspersonen har befatning med et stoff som det ikke
-er fastsatt terskelverdi for (§ 4) og situasjonen der
-terskelverdien er satt til null (§ 5).
-Et spesialtilfelle, som er nevnt i et innspill til
-utvalget, er situasjonen der en person som er diagnostisert som avhengig av ett narkotisk stoff (for
-eksempel heroin), tas av politiet med et annet stoff
-(for eksempel hasj) i en mengde som er lavere enn
-terskelverdien for det sistnevnte stoffet. Spørsmålet er om den mildere reaksjonsvalgregelen for
-rusmiddelavhengige i tredje ledd kommer til
-anvendelse i et slikt tilfelle. Ordlyden taler for et
-bekreftende svar ettersom «rusmiddelavhengig»
-rettslig sett er et fellesbegrep og ikke er knyttet til
-det enkelte stoff. På den annen side kan det bli et
-slags «frikort» dersom avhengighet av ett stoff
-gjør at det blir «fritt frem» for befatning med andre
-stoffer. Det kan også oppstå utilsiktet og uheldig
-forskjellsbehandling. Rusmiddelavhengige som
-ikke har fått en diagnose, vil nyte godt av bestemmelsen i tredje ledd for alle stoffer selv om avhengigheten reelt kun gjelder ett stoff. Videre er det
-etter det utvalget har fått opplyst, ikke helt uvanlig
-at diagnosen F19 «avhengighet av flere rusmidler»
-benyttes der det ikke anses hensiktsmessig med
-videre utredning for å knytte avhengigheten til ett
-eller flere bestemte stoffer, se punkt 5.2.2 og 10.2.2
-om diagnosesystemet. Imidlertid skal betydningen
-ikke overdrives. Det dreier seg om en nokså
-marginal forskjell i reaksjon, hvor det vil bli gitt
-ubetinget påtaleunnlatelse hvis tredje ledd brukes
-og en mindre bot dersom bestemmelsen ikke får
-anvendelse. Dessuten kan annet ledd gi samme
-reaksjon som tredje ledd dersom dette alt i alt
-fremstår som mest hensiktsmessig. Utvalget antar
-at det i de fleste tilfeller ikke vil være tilstrekkelig
-grunn til at gjerningspersonen skal nyte godt av
-tredje ledd i slike tilfeller.
-Som nevnt, gir utkastet uttrykkelig hjemmel
-for at terskelverdien kan settes til null. Dette kan
-være aktuelt for særlig farlige stoffer, for eksempel
-syntetiske opioider, jf. punkt 10.5.8.2 ovenfor.
-Dette er stoffer som kan gi alvorlige forgiftninger
-og dødelig utfall i selv svært små doser, og som det
-
-ikke er noe reelt behov for at rusmiddelavhengige
-skal ha befatning med til egen bruk. Når terskelverdien er satt til null, vil § 232 a kun få anvendelse
-på bruk av stoffet, som bør straffes med bot ettersom det ved bruk ikke sondres mellom ulike stoffer, jf. punkt 8.2.3, mens besittelse av selv svært
-små kvanta ikke anses som innehav etter § 232 a,
-men som oppbevaring etter § 231. Selv om man
-skulle legge til grunn at det dreier seg om innehav
-til egen bruk, bør det reageres med straff etter
-§ 231, og det kan være aktuelt å benytte fengselsalternativet i strafferammen. Utvalget ser det altså
-slik at ved de nye og svært farlige syntetiske stoffene, taler mye for at enhver befatning bør straffes.
-Etter fjerde ledd tredje punktum i utkastet skal
-befatning som nevnt i første ledd innenfor terskelverdi, anses for å være til egen bruk med mindre
-det er konkrete holdepunkter for noe annet. Se
-nærmere i punkt 10.6.4.3. Påtalemyndigheten og
-eventuelt domstolen skal legge det mest sannsynlige formålet til grunn ved vurderingen av om den
-narkotikaen som siktede har ervervet eller innehatt, var til egen bruk eller bestemt for videresalg.
-Ved fravær av holdepunkter i noen retning skal
-det legges til grunn at stoffet var til egen bruk.
-Det skal altså være slik at bevisbyrden påhviler
-påtalemyndigheten som i tilfelle må føre bevis for
-at formålet med befatningen var et annet enn egen
-bruk (for eksempel videresalg); det er ikke siktede som skal godtgjøre at stoffet var til egen
-bruk.
-
-22.5 Til endringene i helse- og
-omsorgstjenesteloven
-Til helse- og omsorgstjenesteloven § 3-9 b
-I helse- og omsorgstjenesteloven § 3-9 b første
-ledd er det tilføyd et nytt tredje punktum. Det
-vises til punkt 17.5.1. Endringen er en konsekvens
-av utvalgets forslag til ny bestemmelse i straffeprosessloven § 71 d som gir politiet og påtalemyndigheten en særskilt hjemmel til å henvise personer til rådgivende enhet for russaker. Nye tredje
-punktum klargjør at enheten har plikt til å ta imot
-personer som er henvist dit, også i tilfellene hvor
-henvisningen ikke er et særvilkår for en strafferettslig reaksjon.
-
-22.6 Til endringene i påtaleinstruksen
-Til § 10-1
-Utvalget har foreslått å gjøre unntak fra strafferammekravet for kroppslig undersøkelse etter
-
-[Side 373]
-
-NOU 2024: 12
-Håndheving av mindre narkotikaovertredelser
-
-straffeprosessloven § 157, ved etterforsking av
-saker som gjelder dopingovertredelser etter legemiddelloven § 31 annet ledd, jf. § 24 a. Det vises til
-utvalgets forslag til nytt annet ledd i § 157. Forslaget gjør det det naturlig å endre påtaleinstruksen § 10-1 første ledd, slik at unntaket også
-fremgår av påtaleinstruksens bestemmelse om
-kroppslig undersøkelse. Det vises til utvalgets
-vurdering i punkt 20.2.2.4. Presiseringen er gjort
-gjennom forslaget i § 10-1 første ledd annet punktum.
-Dagens § 10-1 første ledd annet punktum blir
-nytt tredje punktum. Samtidig er formuleringen «i
-medhold av første punktum» tilføyd for å markere
-at tredje punktum, slik som i dag, bare gjør unntak fra mistankekravet i første punktum. Med
-andre ord har unntaket fra strafferammekravet
-ved dopinglovbrudd ingen betydning for adgangen til å innhente biologisk materiale med sikte på
-DNA-undersøkelse.
-Til § 10-5
-Påtaleinstruksen § 10-5 regulerer hvem som kan
-utføre ulike former for kroppslig undersøkelse. I
-tredje ledd er det regnet opp hvilke former for
-undersøkelse som kan utføres av en polititjenesteperson. I tredje ledd er «spyttprøve» tilføyd. Det
-vises til punkt 14.1.7.2. Tilføyelsen er gjort med
-henblikk på annet og tredje ledd i nye § 157 b i
-straffeprosessloven. Forutsetningen for at en
-polititjenesteperson selv kan innhente en spyttprøve, er at hen har fått relevant opplæring. I dag
-er spyttprøve ikke nevnt i § 10-5, heller ikke i
-første eller annet ledd om hvilke undersøkelser
-som skal utføres av helsepersonell.
-
-371
-
-Kapittel 22
-
-til tre måneder. Dersom påtalemyndigheten
-mener at det er behov for ruskontroll med lengre
-varighet enn tre måneder, for eksempel fordi mistenkte har et særlig oppfølgingsbehov, bør andre
-strafferettslige reaksjoner vurderes, blant annet
-overføring til ungdomsoppfølging i konfliktrådet,
-jf. straffeprosessloven § 71 a annet ledd.
-Ruskontroll som strafferettslig særvilkår for
-påtaleunnlatelse anses særlig aktuelt for lovbrytere under 18 år, i tilfeller hvor vilkåret fremstår som en egnet reaksjon på grunn av ungdommens situasjon og utvikling. Som omtalt i
-punkt 16.7.4.2, har rådgivende enhet for russaker
-ikke en lovbestemt rolle i oppfølgingen av personer som gjennomfører ruskontroll, ut over å ha
-ansvar for at kontrollen gjennomføres i medhold
-av helse- og omsorgstjenesteloven § 3-9 b. Utvalget
-antar derfor at vilkåret om ruskontroll etter straffeloven § 37 første ledd bokstav d regelmessig bør
-kombineres med vilkår om å møte ved rådgivende
-enhet for russaker etter bestemmelsens bokstav k,
-slik at enheten gis mulighet til å følge opp personen med rådgivning om aktuelle hjelpetilbud.
-Konsekvenser ved vilkårsbrudd er omtalt i
-punkt 16.7.4.3.
-
-22.7 Til endringen i forskrift om
-narkotikaprogram med
-domstolskontroll
-Endringen i § 3 første ledd bokstav a er en konsekvens av at straffetrusselen for bruk og besittelse
-av narkotika flyttes fra legemiddelloven til ny
-§ 232 a i straffeloven. Henvisningen til legemiddelloven § 31 må derfor endres til den nye bestemmelsen i straffeloven. Se punkt 10.7.2.
-
-Til § 18-4
-Påtaleinstruksen § 18-4 er en ny bestemmelse
-som klargjør rekkevidden og innholdet i straffeprosessloven § 69 tredje ledd, jf. straffeloven § 37
-første ledd bokstav d, når det i en påtaleunnlatelse
-fastsettes særvilkår om ruskontroll i saker som
-gjelder overtredelse av straffeloven § 232 a.
-Første setning klargjør at det i påtaleunnlatelsen må fastsettes hvilken type rusprøve som skal
-gjennomføres, gjennomføringstid og hyppigheten
-av ruskontrollen. For at en strafferettslig reaksjon
-med særvilkår om ruskontroll skal være forholdsmessig i sak om overtredelse av straffeloven § 232
-a, bør rusmiddeltestingen normalt gjennomføres
-ved bruk av spyttprøver i stedet for urinprøver.
-Annen setning fastsetter at gjennomføringstiden for ruskontrollen kan ha en varighet på inn-
-
-22.8 Til utkast til forskrift om
-terskelverdier
-Hjemmelen for å fastsette forskrift er inntatt i
-fjerde ledd i utkastet til ny § 232 a i straffeloven.
-Som det er redegjort nærmere for i punkt 10.5.8.4,
-bør terskelverdiene fastsettes i forskrift.
-Utvalgets forslag til terskelverdier for de
-enkelte stoffer fremgår av punkt 10.5.8.2 og
-utkastet til forskrift § 2. Forskriftsutkastet inneholder også forslag til regulering av situasjonen
-der gjerningspersonen har samtidig befatning
-med flere stoffer (§ 3), situasjonen der gjerningspersonen har befatning med et stoff som det ikke
-er fastsatt terskelverdi for (§ 4) og situasjonen der
-terskelverdien er satt til null (§ 5).
+## Til endringene i straffeprosessloven
+
+Til straffeprosessloven § 71 d
+
+Straffeprosessloven § 71 d er en ny bestemmelse som klargjør at politiet og påtalemyndigheten kan henvise en person til rådgivende enhet for russaker, enten uten å opprette straffesak eller i forbindelse med at straffesaken henlegges. Forslagene er omtalt i punkt 17.5.1.
+
+*Første ledd* angir at politiet kan henvise mistenkte til rådgivende enhet for russaker istedenfor å opprette straffesak etter straffeloven § 232 a. *Annet ledd* angir at påtalemyndigheten kan beslutte å henlegge en straffesak om overtredelse av straffeloven § 232 a og henvise mistenkte til rådgivende enhet for russaker.
+
+I begge tilfeller vil rådgivende enhet for russaker etter utvalgets forslag ha plikt til å ta imot personen som er henvist til enheten, jf. også forslaget til endring av helse- og omsorgstjenesteloven § 3-9 b, men det vil være frivillig for personen å møte. Manglende oppmøte etter innkalling, får ikke strafferettslige konsekvenser.
+
+*Tredje ledd* regulerer hvilke momenter som politiet og påtalemyndigheten særlig skal legge vekt på i vurderingen. Dette er de samme momentene som i utvalgets forslag til straffeloven § 232 a annet ledd, og det vises til spesialmerknadene til dette forslaget.
+
+Overfor personer under 18 år vil det ofte være uheldig at straffesak ikke opprettes, og mindreårige er også i kjerneområdet for hvem som bør gis påtaleunnlatelse med særvilkår om å møte ved rådgivende enhet for russaker. For personer under 18 år er derfor betinget påtaleunnlatelse med vilkår om å møte ved rådgivende enhet for russaker, den mest nærliggende påtaleavgjørelsen. Alternativet i annet ledd kan likevel etter omstendighetene være aktuelt blant annet dersom henleggelse vil kunne bidra til en vesentligere raskere saksbehandling overfor en person med et hjelpebehov, og personen ikke tidligere er ilagt en reaksjon for overtredelse av straffeloven § 232 a. Etter omstendighetene kan henleggelse og overføring av saken til rådgivende enhet for russaker også være aktuelt dersom det er tvil om det strafferettslige relevante faktum (bevisets stilling), eller forfølgningen ikke er i det offentliges interesse, jf. straffeprosessloven § 62 a annet og tredje ledd.
+
+Til § 157
+
+I straffeprosessloven § 157 om kroppslig undersøkelse foreslår utvalget for det første et nytt annet ledd. Forslaget har sammenheng med at strafferammen for erverv, bruk og besittelse av dopingmidler forslås senket til bot. Det er omtalt i punkt 20.2.2. For det andre foreslås det enkelte endringer i dagens tredje og fjerde ledd (som blir nye fjerde og femte ledd) og et nytt siste ledd. Disse endringene er omtalt i punkt 14.1.7.1 og 14.1.7.3, og har sammenheng med endringer som foreslås i reglene om ransaking.
+
+Nytt *annet ledd* gjør unntak fra strafferammekravet i første ledd for kroppslig undersøkelse i saker om dopinglovbrudd etter legemiddelloven § 31 annet ledd, jf. § 24 a. Forslaget er et tiltak for å avbøte de prosessuelle konsekvensene av utvalgets forslag om å fjerne fengselsstraff fra strafferammen for dopinglovbrudd etter legemiddelloven. Forslaget åpner for at det fortsatt vil være hjemmel for å benytte urin- og blodprøve for å påvise inntak av dopingmidler. Lovendringen innebærer bare at det gjøres unntak fra strafferammekravet i første ledd. De øvrige vilkår for å bruke kroppslig undersøkelse må være oppfylt.
+
+Forholdsmessighetskravet utgjør en viktig begrensning for adgangen til prøvetaking i dopingsaker. Dette må vurderes konkret i den enkelte sak, og det bør ikke gjelde noen generell presumsjon for om prøvetaking er forholdsmessig eller ikke i denne sakstypen. Prøvetaking bør normalt ikke benyttes overfor personer som er rusmiddelavhengige eller er avhengige av dopingmidler. Det vises til nærmere omtale av endringsforslaget i punkt 20.2.2.4.
+
+Dagens annet ledd endres ikke, men blir nytt *tredje ledd*.
+
+I dag regulerer tredje og fjerde ledd hvem som kan beslutte kroppslig undersøkelse og stiller krav til saksbehandlingen og beslutningen. Reguleringen er flyttet til nye fjerde og femte ledd og endret noe. I *fjerde ledd første punktum* er samtykkeunntaket tatt ut av lovteksten. Bestemmelsen oppstiller derfor bare hovedregelen om at retten må beslutte kroppslig undersøkelse. Endringen medfører at ordet «han» må erstattes med «mistenkte» i *annet punktum*.
+
+Samtykkeunntaket er flyttet til *femte ledd første punktum* for å markere at samtykke fra mistenkte bare leder til at påtalemyndigheten får beslutningskompetanse. Det er også tilføyd et krav om at samtykket må være skriftlig. På den måten blir samtykkekravet det samme som i straffeprosessloven § 197 om ransaking. Dagens fjerde ledd annet og tredje punktum er uten endring videreført i femte ledd *annet og tredje punktum*.
+
+I *femte ledd første punktum* er det også gjort en språklig klargjøring av når påtalemyndigheten har hastekompetanse. Klargjøringen svarer til den som er gjort i straffeprosessloven § 197 annet ledd om ransaking. Det vises til punkt 13.3.5.1 og merknadene til § 197 annet ledd.
+
+Dagens femte ledd endres ikke, men blir nytt *sjette ledd*.
+
+Utvalget foreslår et nytt *sjuende ledd* om iverksetting ved bruk av makt. Forslaget har dels sammenheng med at bruk av makt ikke er nevnt i § 157 selv om makt også i dag kan benyttes ved iverksetting av en kroppslig undersøkelse. Det vises til omtalen av gjeldende rett i punkt 14.1.1. Dels har forslaget sammenheng med at bruk av makt foreslås regulert i straffeprosessloven § 195 om personransaking. Dersom bruk av makt reguleres i tilknytning til personransaking, er det naturlig med en tilsvarende regulering i § 157. Det vises til utvalgets vurdering i punkt 14.1.7.3.
+
+Bestemmelsen skal bare gi bruk av makt (tvang) et klarere grunnlag i straffeprosessloven. Forslaget åpner ikke for bruk av makt i større grad eller på annen måte enn i dag.
+
+*Første punktum* omhandler bruk av makt ved selve iverksettingen av en kroppslig undersøkelse. Bestemmelsen gjelder uavhengig av om undersøkelsen skal foretas av politiet selv eller med bistand av helsepersonell. I begge situasjoner er det politiet som vil stå for maktbruken. Maktbruken kan typisk bestå i å holde personen fast slik at den kroppslige undersøkelsen kan gjennomføres.
+
+*Annet punktum* omhandler maktbruk i grenseland mot frihetsberøvelse. Gjennomføringen av en kroppslig undersøkelse forutsetter at personen oppholder seg der undersøkelsen skal finne sted. Der politiet selv skal foreta undersøkelsen på stedet, kan det være nødvendig å holde personen tilbake inntil undersøkelsen er utført. Vel så aktuelt er det at personen skal undersøkes et annet sted enn der hen ble påtruffet og må bringes dit. Flere typer av kroppslig undersøkelse skal utføres av helsepersonell, se påtaleinstruksen § 10-5. Og da må personen typisk bringes til legevakten. Samtidig er det i forslaget presisert at politiet bare kan holde personen tilbake i den utstrekning det er nødvendig for å gjennomføre den kroppslige undersøkelsen. Verken tidsmessig eller stedsmessig kan maktbruken gå ut over hva som er strengt nødvendig for å gjennomføre undersøkelsen. I den grad ytterligere frihetsinnskrenkning er nødvendig, må personen eventuelt pågripes.
+
+Om makt kan tas i bruk i en konkret situasjon, og hvor mye makt og hvilken type makt som kan brukes, reguleres av andre regler. Det følger av § 157 første ledd første punktum at kroppslig undersøkelse kan foretas «når det \[…\] ikke fremstår som et uforholdsmessig inngrep». Forholdsmessighetskravet gjelder også ved iverksettingen. Bruk av makt i den konteksten som omtales her, er en del av iverksettingen. Videre er det i påtaleinstruksen § 10-4 tredje ledd presisert at det «bare \[kan\] brukes makt i det omfang og så lenge det er nødvendig for å gjennomføre undersøkelsen på tilfredsstillende måte», og at det «ikke \[kan\] brukes makt som innebærer fare eller betydelig smerte for mistenkte». I tillegg oppstiller politiloven § 6 allmenne krav til politiets tjenesteutførelse, som også gjelder der det er spørsmål om å anvende makt ved iverksetting av en kroppslig undersøkelse. Reglene innebærer blant annet at makt bare kan anvendes dersom det er nødvendig og forholdsmessig, og at det ikke kan tas i bruk sterkere maktmidler enn hva som er nødvendig og forholdsmessig.
+
+Til § 157 a
+
+Straffeprosessloven § 157 a er en særlig bestemmelse om kroppslig undersøkelse av mistenkte for å avklare om hen er smittet av en seksuelt overførbar infeksjon. Bestemmelsen ble tilføyd i straffeprosessloven ved lov nr. 90/2017. En kroppslig undersøkelse i medhold av § 157 a foretas for å ivareta fornærmedes behov for avklaring. Det er med andre ord formålet med undersøkelsen som begrunner en særlig regulering i § 157 a.
+
+Bestemmelsen er utformet etter mønster av § 157, og § 157 a første ledd annet punktum fastsetter at reglene i «§ 157 første ledd annet punktum og annet ledd gjelder tilsvarende». Utvalget foreslår at oppregningen i *første ledd annet punktum* suppleres ved at det tilføyes en henvisning til den nye bestemmelsen om maktbruk i § 157 sjuende ledd. Det vises til omtalen av forslaget til endring av § 157 a i punkt 14.1.7.3. For øvrig vises det til merknadene til endringen av § 157.
+
+I tillegg er henvisningene i § 157 a til deler av § 157 justert på grunn av endringene i § 157. Henvisningen i *første ledd annet punktum* til § 157 annet ledd er endret til § 157 tredje ledd, mens henvisningen i *annet ledd annet punktum* til § 157 fjerde ledd annet og tredje punktum er endret til femte ledd annet og tredje punktum.
+
+Til § 157 b
+
+I § 157 b foreslår utvalget en helt ny bestemmelse. Første ledd regulerer undersøkelse av tegn og symptomer på bruk av narkotika, mens annet til fjerde ledd regulerer prøvetaking for å avklare om personen har inntatt narkotika. Den nye bestemmelsen modifiserer og supplerer den allmenne bestemmelsen om kroppslig undersøkelse i straffeprosessloven § 157. Forslagene er omtalt i punkt 14.1.7.2 og 14.2.2.
+
+*Første ledd* regulerer undersøkelse av tegn og symptomer på bruk av narkotika. Det bestemmelsen regulerer er en «særskilt undersøkelse». Med dette menes at politiet anmoder en person de er i kontakt med om å medvirke til at politiet kan observere eller undersøke ulike kroppslige funksjoner eller reaksjoner hos personen, slik som blant annet størrelsen på pupillene, pupillenes reaksjon på lys, personens puls, balanse, tidsforståelse mv. Formuleringen «særskilt undersøkelse» skal markere at politiet uavhengig av bestemmelsen og i kraft av handlefriheten passivt kan observere personer på avstand og personer de er i kontakt med. En «særskilt undersøkelse» foreligger først der politiet er i kontakt med personen og anmoder om medvirkning til at ulike observasjoner og undersøkelser kan gjennomføres.
+
+Politiet kan ikke bruke makt for å undersøke tegn og symptomer. En hjemmel for bruk av makt finnes ikke i første ledd, og første ledd viser ikke til bestemmelsen om bruk av makt i nye sjuende ledd i § 157. Politiet kan heller ikke utsette personen for et utilbørlig press for at hen skal medvirke. Men manglende medvirkning er i prinsippet en relevant omstendighet i en vurdering av om mistankekravet i annet ledd om spyttprøve er oppfylt. Men det må vurderes konkret om det er grunnlag for å trekke bevismessige slutninger fra manglende medvirkning hos mistenkte. Og i den grad bevismessige slutninger kan trekkes i en konkret situasjon, dreier det seg om et bevis med en usikker pålitelighet, og dermed begrenset vekt.
+
+Hjemmelen i første ledd opererer med tre grunnvilkår. Det første er at personen med «rimelig grunn» kan mistenkes for bruk av narkotika. Mistankekravet «rimelig grunn» stiller moderate krav til mistankens styrke og er et lavere mistankekrav enn «skjellig grunn». En «rimelig grunn» til mistanke forutsetter at det foreligger objektive holdepunkter for at personen har inntatt narkotika, men sannsynlighetsovervekt kreves ikke.
+
+Det andre grunnvilkåret er at en særskilt undersøkelse av tegn og symptomer antas å være av betydning for opplysningen av saken. Med «saken» menes saken om overtredelse av straffeloven § 232 a. Formålet med en undersøkelse av tegn og symptomer må være å klarlegge om det skal besluttes prøvetaking i medhold av § 157 b annet ledd, eventuelt i medhold av § 157. Med andre ord skal hjemmelen bare bidra til at politiet får et bedre grunnlag for å avgjøre om mistankekravet for prøvetaking er oppfylt.
+
+Det tredje grunnvilkåret er at en særskilt undersøkelse av tegn og symptomer ikke er et uforholdsmessig inngrep. Forholdsmessighetskravet skal tolkes på samme måte som det allmenne forholdsmessighetskravet i straffeprosessloven § 170 a annet punktum. Grunnen til at forholdsmessighet er inntatt som et vilkår i første ledd er at § 157 b ikke står i lovens fjerde del om tvangsmidler, der en finner § 170 a. Når det gjelder forholdsmessighetskravet i første ledd, er det særlig grunn til å fremheve to omstendigheter. Det ene er mistankens styrke. Mistankekravet i første ledd er moderat og graden av mistanke ut over minstekravet er et moment av vekt i forholdsmessighetsvurderingen. Videre må det tillegges vekt hvor undersøkelsen skal finne sted, ikke minst om andre personer vil kunne observere undersøkelsen mens den pågår.
+
+Dersom grunnvilkårene er oppfylt, «kan» det foretas en særskilt undersøkelse av tegn og symptomer. Politiet må konkret vurdere om det i den aktuelle saken er nødvendig og hensiktsmessig å foreta en slik undersøkelse, sml. § 170 a første punktum.
+
+Første ledd fastsetter at en «polititjenesteperson» kan «foreta» undersøkelsen. Ordet «foreta» skal tolkes vidt. Det sikter ikke bare til iverksettingen, men også til beslutningen om å ta metoden i bruk. Hvorvidt mistankekravet er oppfylt vil normalt avhenge av tjenestepersonens observasjoner på stedet, noe som innebærer at tjenestepersonen selv normalt har et sikrere beslutningsgrunnlag enn en politijurist som har fått informasjonen formidlet til seg. Tiltaket er også moderat inngripende.
+
+En særskilt undersøkelse av tegn og symptomer i medhold av første ledd er et etterforskingsskritt. Bruk av metoden forutsetter derfor at etterforsking er eller blir iverksatt. Om etterforsking ikke alt er iverksatt, blir etterforsking iverksatt i og med at metoden tas i bruk. Den metoden brukes mot vil ha status som mistenkt. Selv om mistanken om en straffbar handling kan være moderat, er målet med tiltaket å avklare om personen er skyldig i et lovbrudd. Men slik utvalget ser det, får personen ikke status som siktet ved at metoden tas i bruk. Etter straffeprosessloven § 82 første ledd tredje alternativ får en person riktig nok status som siktet når «det er besluttet eller foretatt pågripelse, ransaking, beslag eller liknende forholdsregler rettet mot ham». Frivilligheten rundt tiltaket og inngrepets moderate karakter tilsier at det ikke bør klassifiseres som «liknende forholdsregler».
+
+Annet og tredje ledd regulerer innhenting av spyttprøve. *Annet ledd første punktum* oppstiller tre materielle vilkår. Spyttprøve kan innhentes når en person med skjellig grunn kan mistenkes for overtredelse av straffeloven § 232 a, det antas at tiltaket har betydning for opplysning av saken og inngrepet ikke fremstår som et uforholdsmessig inngrep.
+
+Mistankekravet svarer til det i straffeprosessloven § 157 første ledd og skal forstås på samme måte. Med andre ord må det være sannsynlighetsovervekt for at personen er skyldig. Det er ikke tatt med en henvisning til § 157 tredje ledd (dagens annet ledd), som gjør unntak fra kravet om tilregnelighet og til en viss grad fra skyldkravet. Årsaken er at unntak er upraktisk der mistanken gjelder brudd på straffeloven § 232 a.
+
+Også vilkåret om at innhenting av spyttprøve må antas å ha betydning for opplysningen av saken svarer til et vilkår i § 157 første ledd. Vilkåret kan ikke tolkes så strengt at prøvetaking er utelukket dersom mistenkte har tilstått. Det må vurderes konkret om bevisinnhenting i form av prøvetaking er nødvendig ved siden av tilståelsen. En tilståelse bør støttes av andre bevis. Videre er det alltid en risiko for at en tilståelse kan trekkes. For øvrig er prøvetaking først og fremst egnet til å opplyse om mistenkte har brukt narkotika. Prøvetaking er i mindre grad egnet til å avklare om mistenkte har ervervet eller innehatt narkotika til egen bruk, men kan etter omstendighetene også være relevant for å belyse erverv eller innehav.
+
+Det tredje vilkåret er at prøvetaking ikke er et uforholdsmessig inngrep. I utgangspunktet må forholdsmessighetskravet tolkes på samme måte som i straffeprosessloven § 170 a annet punktum. Men det ligger forutsetningsvis i den nye hjemmelen at innhenting av spyttprøve ofte ikke er et uforholdsmessig inngrep. Formålet med bestemmelsen er nettopp å gjøre det mulig å håndheve straffebudet i straffeloven § 232 a på en hensiktsmessig måte. Hvorvidt prøvetaking er uforholdsmessig må vurderes konkret, og det skal ikke gjelde en allmenn presumsjon i en bestemt retning. Samtidig vil de momenter som er nevnt i annet ledd i straffeloven § 232 a, ha stor betydning for hvem det er forholdsmessig å innhente en spyttprøve fra. Disse momentene er mistenktes alder, om det er grunn til å tro at mistenkte har utviklet eller står i fare for å utvikle avhengighet av narkotika, og gjerningsstedet. Tidlig avdekking av narkotikabruk hos unge personer ligger i kjernen av formålet med den nye hjemmelen. På den annen side vil det normalt være uforholdsmessig å innhente en prøve når mistenkte må antas å være rusmiddelavhengig.
+
+*Annet ledd annet punktum* fastsetter at reglene i § 157 sjette ledd (dagens femte ledd) om bruk av en innhentet prøve gjelder tilsvarende.
+
+*Tredje ledd første punktum* regulerer hvem som kan beslutte at en spyttprøve skal innhentes. Beslutningskompetansen er lagt til påtalemyndigheten. Dette betyr at en kjennelse fra retten aldri er påkrevd, og at en polititjenesteperson aldri har beslutningskompetanse. Tredje ledd *annet punktum* fastsetter at reglene i § 157 femte ledd annet og tredje punktum (dagens fjerde ledd annet og tredje punktum) gjelder tilsvarende når påtalemyndigheten treffer en beslutning om innhenting av spyttprøve. Utgangspunktet er at beslutningen skal være skriftlig og begrunnet. Henvisningen til § 157 femte ledd annet og tredje punktum må forstås slik at også de supplerende reglene i påtaleinstruksen § 10-4 annet og tredje ledd gjelder. Særlig viktig er tredje ledd, som oppstiller en hovedregel om kontradiksjon.
+
+Innhenting av spyttprøve må klassifiseres som «liknende forholdsregler» etter straffeprosessloven § 82 første ledd tredje alternativ. En beslutning fra påtalemyndigheten om at spyttprøve skal innhentes medfører derfor at mistenkte får status som siktet.
+
+En beslutning om innhenting av spyttprøve iverksettes av en polititjenesteperson. I påtaleinstruksen § 10-5 tredje ledd foreslås det presisert at spyttprøve er en form for kroppslig undersøkelse som også kan utføres av en polititjenesteperson, dvs. at helsepersonell ikke må bistå med innhentingen. Forutsetningen for at en polititjenesteperson selv kan innhente prøve er imidlertid at hen har fått relevant opplæring.
+
+Etter at spyttprøven er innhentet, skal det skrives en rapport. Utvalget forslår ikke en egen regel om dette, verken i nye § 157 b eller i påtaleinstruksen. Bestemmelsen om rapportplikt ved kroppslig undersøkelse i påtaleinstruksen § 10-8 passer også ved innhenting av spyttprøve i medhold av § 157 b, og utvalget legger til grunn at bestemmelsen vil gjelde.
+
+Den nye hjemmelen for innhenting av spyttprøve åpner ikke for bruk av makt. Med andre ord forutsetter innhenting at mistenkte er villig til å medvirke. *Fjerde ledd* regulerer situasjonen der mistenkte ikke er villig til å medvirke. I *første punktum* er det fastsatt at reglene i § 157 gjelder. Dette betyr både at de materielle vilkårene, reglene om beslutningskompetanse og saksbehandling, og bestemmelsen om maktbruk i § 157, gjelder. Det som er aktuelt er å beslutte innhenting av urin- eller blodprøve, og eventuelt iverksette innhentingen med makt.
+
+Ved manglende medvirkning fra mistenkte skal det verken være slik at en urin- eller blodprøve alltid skal innhentes eller slik at prøvetaking skal vurderes helt uavhengig av mistenktes manglende vilje til å medvirke til spyttprøve. Dette er signalisert i *annet punktum*, som fastsetter at den manglende medvirkningen fra mistenkte skal vektlegges i forholdsmessighetsvurderingen. På den ene side skal manglende medvirkning til spyttprøve ikke enkelt lede til at en prøve ikke innhentes, og dermed til at mistenkte ikke risikerer straffeforfølgning. På den annen side må selvsagt den som treffer avgjørelsen se hen til om mistenktes motstand var velbegrunnet i lys av hvem som først og fremst er i målgruppen for prøvetaking i medhold av nye § 157 b.
+
+For øvrig er det i fjerde ledd *første punktum* markert at § 157 gjelder der det må antas at en spyttprøve ikke er egnet til å opplyse saken. Det siktes her til situasjonen der en spyttprøve ikke vil avdekke et inntak av narkotika. En spyttprøve er ikke alltid egnet til å avdekke inntak av narkotiske stoffer, jf. fremstillingen i punkt 14.1.6.2.
+
+Til § 158
+
+Straffeprosessloven § 158 er en særlig bestemmelse om innhenting av biologisk materiale med sikte på å gjennomføre en DNA-analyse. Bestemmelsen oppstiller noe mer liberale vilkår for denne typen kroppslig undersøkelse enn hva som følger av straffeprosessloven § 157.
+
+Første ledd annet punktum fastsetter at regelen i «§ 157 annet ledd gjelder tilsvarende». Utvalget foreslår at *første ledd annet punktum* suppleres ved at det tilføyes en henvisning til den nye bestemmelsen om maktbruk i § 157 sjuende ledd. Det vises til omtalen av forslaget til endring av § 158 i punkt 14.1.7.3. Endringen er naturlig, ikke minst fordi § 158 tredje ledd annet punktum forutsetter at innhenting av biologisk materiale kan skje ved bruk av «tvang». For øvrig vises det til merknadene til endringen av § 157.
+
+I tillegg er henvisningene i § 158 til deler av § 157 justert på grunn av endringene i § 157. Henvisningen i *første ledd annet punktum* til § 157 annet ledd er endret til § 157 tredje ledd, mens henvisningen i *tredje ledd fjerde punktum* til § 157 fjerde ledd annet og tredje punktum er endret til femte ledd annet og tredje punktum.
+
+Til § 160
+
+Straffeprosessloven § 160 første punktum regulerer adgangen til å ta fingeravtrykk og foto av mistenkte og domfelte personer. Innhenting av fingeravtrykk må ses på som en kroppslig undersøkelse. Det sentrale med § 160 første punktum når det gjelder fingeravtrykk, er at bestemmelsen opererer med vesentlig mer liberale vilkår enn straffeprosessloven § 157 om kroppslig undersøkelse.
+
+Annet punktum i § 160 fastsetter at regelen i «§ 157 annet ledd gjelder tilsvarende». Utvalget foreslår at *annet punktum* suppleres ved at det tilføyes en henvisning til den nye bestemmelsen om maktbruk i § 157 sjuende ledd. Det vises til omtalen av forslaget til endring av § 160 i punkt 14.1.7.3. Endringen er naturlig, ikke minst fordi påtaleinstruksen § 11-4 oppstiller en skranke for bruk av makt ved innhenting av fingeravtrykk eller foto. For øvrig vises det til merknadene til endringen av § 157.
+
+I tillegg er henvisningen i § 160 *annet punktum* til § 157 annet ledd endret til § 157 tredje ledd på grunn av endringene i § 157.
+
+Til § 170 a
+
+Forholdsmessighetskravet ved bruk av tvangsmidler fremgår av straffeprosessloven § 170 a annet punktum. Utvalget foreslår å endre hvordan *annet punktum* beskriver hvilke momenter som har betydning i vurderingen. I dag er lovens formulering «sakens art og forholdene ellers». Utvalget foreslår å supplere beskrivelsen av hvilke momenter som positivt angis, slik at den blir «sakens art, inngrepets art, hensynet til rettshåndhevelse, hensynet til den inngrepet rettes mot og forholdene ellers». Forslaget går i samme retning som forslaget til Straffeprosessutvalget, men valget av hvilke momenter som fremheves er noe annerledes. Det vises til punkt 12.5.6.
+
+Et sentralt formål med dette utvalgets forslag er å løfte frem momentet «hensynet til rettshåndhevelse». Momentet har to sider. Dels dekker momentet det mer allmenne: hvor viktig bruken av tvangsmidlet er for å kunne håndheve brudd på det aktuelle straffebudet. Momentet tilkjennegir at det bør unngås at en type lovbrudd nærmest reelt sett (de facto) blir avkriminalisert fordi effektive etterforskingsmetoder ikke er tilgjengelige. Når det gjelder etterforsking av mindre alvorlige narkotikasaker, har dette særlig en side mot ransaking for å avdekke innehav, og kroppslig undersøkelse i form av prøvetaking for å avdekke bruk.
+
+På den annen side tilkjennegir momentet også motsatsen til dette. Dersom andre etterforskingsmetoder er tilgjengelige for å håndheve brudd på det aktuelle straffebudet og disse er både effektive og mindre inngripende, er «hensynet til rettshåndhevelse» et argument som taler mot at bruken av tvangsmidlet er forholdsmessig. Med andre ord favner momentet tanken om at det minst inngripende tiltaket skal velges der flere tiltak er både egnet og effektive.
+
+Dels dekker momentet «hensynet til rettshåndhevelse» det konkrete i saken. Behovet for rettshåndhevelse vil kunne variere betydelig alt etter hvordan situasjonen ligger an. I mindre alvorlige narkotikasaker har det stor betydning om bruk eller innehav skjer i det private rom (en bolig, hage eller lignende) eller på eller nær en skole, et militært område eller lignende. Videre er det betydelig forskjell på å ransake en ung person som politiet mistenker kan være på vei inn i et uheldig miljø, kontra det å ransake en person som politiet med en høy grad av sikkerhet antar er rusmiddelavhengig. I tillegg har det betydning om tiltaket skal avklare om en person er skyldig eller bare omstendigheter av mindre betydning ved reaksjonsfastsettelsen. I mindre alvorlige narkotikasaker har det derfor betydning om en ransaking skal avklare om personen er skyldig i bruk av narkotika eller innehav av narkotika til egen bruk, eller bare om narkotikaen er ervervet, hvor hyppig hen har brukt narkotika mv. Når det gjelder innehav av narkotika, har det også betydning om mistanken gjelder et par brukerdoser eller en mengde som ligger tett opp mot terskelverdien.
+
+Forslaget løfter også frem to andre momenter. Momentet «inngrepets art» favner både tvangsmidlets art og hvordan tvangsmiddelbruken iverksettes. Det siste er sentralt, også i mindre alvorlige narkotikasaker. Det er mindre inngripende å avgi en spyttprøve enn en urinprøve eller blodprøve. Videre er det normalt mindre inngripende å få bilen ransaket enn boligen. Det er også mindre inngripende om politiet på stedet ser gjennom et avgrenset område på en mobiltelefon enn om telefonen speilkopieres og gjennomgås i sin helhet.
+
+Momentet «hensynet til den inngrepet rettes mot» er etter omstendighetene et sentralt moment, og er derfor løftet frem i lovteksten. En side av momentet er alderen på den inngrepet skal rettes mot, ikke minst om personen er under 18 år. Det vises til Grunnloven § 104 annet ledd og barnekonvensjonen. Men den omstendighet at personen er under 18 år veier ikke like tungt i alle sammenhenger. Det har betydning om den rettshåndhevingen inngrepet er en del av, også skal beskytte personer under 18 år. I mindre alvorlige narkotikasaker har dette en side mot barnekonvensjonen artikkel 33. Bruk av tvangsmidler mot personer under 18 år handler i vesentlig grad også om å forebygge at barn utvikler rusmiddelproblemer, både det barnet som utsettes for inngrepet og andre barn som kan påvirkes av rusmiddelbruken.
+
+En annen side av momentet «hensynet til den inngrepet rettes mot» er hvilken rolle personen har i straffesaken. Det skal i utgangspunktet mer til for at tvangsmiddelbruk mot andre enn mistenkte er forholdsmessig. Samtidig må det her tas i betraktning om den aktuelle tvangsmiddelhjemmelen et stykke på vei tar høyde for dette gjennom de vilkår som er oppstilt. Når det gjelder såkalt «tredjemannsransaking», tas det til en viss grad høyde for dette gjennom det tilleggsvilkåret som gjelder etter straffeprosessloven § 192 tredje ledd nr. 3 og § 195 tredje ledd.
+
+Også sakstypen er relevant for hvilken vekt dette hensynet kan tillegges. Selv om den personen som utsettes for tvangsmidlet ikke er mistenkt for det straffbare forholdet som begrunner tvangsmiddelbruken, kan hen være mistenkt innenfor samme sakskompleks. Et eksempel er situasjonen der sakskomplekset både omfatter ulike primærlovbrudd samt heleri eller hvitvasking (straffeloven §§ 332-341). Heleri og hvitvasking er strafferettslig sett nær forbundet med det primærlovbruddet som utbyttet stammer fra. Dels er lovbruddene knyttet sammen gjennom gjerningsbeskrivelsen i straffebudene om heleri og hvitvasking («utbytte av en straffbar handling»). Dels vil heleri eller hvitvasking ofte ikke regnes som markert mindre straffverdig enn primærlovbruddet. Til en viss grad kan den samme tilnærming inntas i relasjon til narkotikakriminalitet. Samtidig har det her en viss betydning at befatning med narkotika til egen bruk regnes som markert mindre straffverdig enn vinningsmotivert befatning med narkotika.
+
+Selv med den foreslåtte utvidelsen av hvilke momenter som fremheves i lovteksten, vil formuleringen «forholdene ellers» omfatte momenter som er sentrale i vurderingen. Ikke minst vil formuleringen fortsatt dekke momenter som mistankens styrke og hvor sannsynlig det er at tvangsmiddelformålet vil oppnås dersom tiltaket tas i bruk.
+
+Det er ikke tvilsomt at formuleringen «kan ikke brukes» både omfatter beslutningen om og iverksettingen av tvangsmiddelbruk. Utvalget har derfor ikke funnet det nødvendig å presisere lovteksten slik at det uttrykkelig fremgår at begge aspekter omfattes av forholdsmessighetskravet.
+
+Til § 171
+
+Straffeprosessloven § 171 er den allmenne hjemmelen for pågripelse. Utvalget foreslår at straffeloven § 232 a og legemiddelloven § 31 annet ledd, jf. § 24 a, tilføyes i oppregningen i § 171 *annet ledd*. Annet ledd gjør i dag unntak fra strafferammekravet i første ledd for straffeloven § 323 om mindre tyveri. Tilføyelsen medfører at det samme vil gjelde for § 232 a om mindre narkotikaovertredelse og for dopingovertredelse etter legemiddelloven § 31 annet ledd, jf. § 24 a. Endringene er nærmere omtalt i punkt 14.3.5 og 20.2.3.2.
+
+Utvalget understreker at endringene bare innebærer at strafferammekravet i § 171 første ledd ikke vil være til hinder for pågripelse der mistanken gjelder overtredelse av § 232 a i straffeloven eller legemiddelloven § 31 annet ledd, jf. § 24 a. Pågripelse forutsetter at de øvrige pågripelsesvilkår er oppfylt. Pågripelse i mindre alvorlige narkotikasaker og dopingsaker antas først og fremst å være aktuelt ved unndragelsesfare og bevisforspillelsesfare. Hvorvidt en unndragelsesfare eller bevisforspillelsesfare i henhold til § 171 første ledd nr. 2 eller 3 kan begrunne en pågripelse, avhenger ikke minst av om pågripelse er forholdsmessig etter straffeprosessloven § 170 a annet punktum. Dersom mistenkte er under 18 år, må pågripelse være «særlig påkrevd», se straffeprosessloven § 174.
+
+Det foreslås ingen endring i straffeprosessloven § 184 annet ledd første punktum om varetektsfengsling, som viser til § 171. Formelt sett vil derfor endringen åpne for varetektsfengsling der mistanken gjelder overtredelse av § 232 a i straffeloven eller legemiddelloven § 31 annet ledd, jf. § 24 a. Men forholdsmessighetskravet i § 170 a annet punktum vil normalt være til hinder for varetektsfengsling der siktelsen bare omfatter en mindre narkotikaovertredelse eller dopingovertredelse. I den grad en kortvarig varetektsfengsling skulle være aktuelt, antas fengslingsbehovet å gjelde unndragelse til utlandet, slik at § 184 annet ledd første punktum, jf. § 173 annet ledd, er et alternativt fengslingsgrunnlag.
+
+Til § 192
+
+I straffeprosessloven § 192 om ransaking av «bolig, rom eller oppbevaringssted» foreslår utvalget en endring i annet ledd og en presisering i første og tredje ledd. Annet ledd endres ved at legemiddelloven § 31 annet ledd, jf. § 24 a, tilføyes. Endringen skyldes at fengsel tas ut av strafferammen i § 31 annet ledd, noe som er omtalt i punkt 20.2.4.2. Presiseringene skal bidra til å klargjøre virkeområdet for første og tredje ledd. De skal klargjøre hvilken sammenheng det må være mellom det lovbruddet som medfører at mistankekravet er oppfylt og det lovbruddet som ransakingsbehovet først og fremst knytter seg til. Presiseringene er omtalt i punkt 13.1.5.2.
+
+I *første ledd* er formuleringen «i saken» tilføyd for å presisere at det å ransake for å søke etter bevis mv. først og fremst må være begrunnet i etterforskingsbehov knyttet til det straffbare forhold som mistankekravet i første ledd er oppfylt for. Med andre ord må behovet for å ransake hos personen først og fremst knytte seg til etterforskingen av et straffbart forhold som personen med skjellig grunn kan mistenktes for å være skyldig i. Dersom behovet for ransaking først og fremst knytter seg til et annet straffbart forhold, ikke minst et forhold som en annen person mistenkes å ha begått, er det ransakingshjemmelen i tredje ledd som må anvendes.
+
+Formuleringen «i saken» er anvendt. Ordet «saken» sikter til det straffbare forhold som mistanken gjelder.
+
+Formuleringen «i saken» er bare tilføyd i tilknytning til ransakingsformålet «søke etter bevis». Selv om tilføyelsen er gjort i tilknytning til dette ransakingsformålet, er presiseringen ment å ha en allmenn rekkevidde. Den er også relevant for ransakingsformålene «søke \[…\] etter ting som kan beslaglegges eller som det kan tas heftelse i». Lovteksten blir imidlertid noe omfattende og komplisert dersom presiseringen på en klar måte skal knyttes opp mot alle de tre nevnte ransakingsformålene. Og presiseringen har størst praktisk betydning for ransakingsformålet «søke etter bevis».
+
+I *annet ledd* foreslås det at legemiddelloven § 31 annet ledd, jf. § 24 a, legges til i oppregningen av de lovbrudd hvor det gjøres unntak fra strafferammekravet i første ledd. Endringen innebærer at det fortsatt vil være hjemmel for ransaking av eiendom ved etterforsking av dopinglovbrudd etter legemiddelloven. Endringen innebærer bare at det gjøres unntak fra strafferammekravet; de øvrige vilkår for ransaking må være oppfylt.
+
+I *tredje ledd nr. 3* foreslås det en tilsvarende presisering som i første ledd. Også denne presiseringen er ment å være allmenn. Den skal ikke bare presisere ransakingsformålet «finnes bevis» i nr. 3, men også ransakingsformålene «finnes \[…\] ting som kan beslaglegges eller som det kan tas heftelse i» i nr. 3 og ransakingsformålene i nr. 1 og 2.
+
+Som nevnt skal presiseringen i første ledd klargjøre virkeområdet til første ledd opp mot virkeområdet til tredje ledd. Presiseringen i tredje ledd skal klargjøre virkeområdet til tredje ledd mot situasjonen der § 192 ikke åpner for ransaking, dvs. situasjoner der en «bolig» eller et «oppbevaringssted» ikke kan ransakes, og et «hus eller rom» bare kan ransakes dersom § 193 åpner for dette. Presiseringen innebærer at ransaking i medhold av tredje ledd forutsetter at behovet for ransaking først og fremst gjelder etterforskingsbehov knyttet til det straffbare forhold som mistankekravet i tredje ledd er oppfylt for.
+
+Til § 195
+
+I straffeprosessloven § 195 om personransaking foreslås det en presisering i første ledd, en endring i annet ledd og tilføyelse av et nytt fjerde og femte ledd.
+
+I *første ledd* endres formuleringen «oppdagelse av bevis» til «oppdagelse av bevis i saken». Endringen er omtalt i punkt 13.2.3.1 og har sammenheng med den tilsvarende endringen i straffeprosessloven § 192 første ledd, som er begrunnet i punkt 13.1.5.2. Tilføyelsen av formuleringen «i saken» skal bidra til å klargjøre grensen mellom virkeområdet til § 195 første og tredje ledd. Første ledd opererer med mer liberale vilkår for personransaking. Endringen skal bidra til å klargjøre at første ledd bare kan anvendes dersom ransakingsformålet først og fremst knytter seg til det straffbare forhold som mistankekravet i første ledd er oppfylt for. For øvrig vises til merknadene til § 192 første ledd.
+
+I *annet ledd* foreslås det at legemiddelloven § 31 annet ledd, jf. § 24 a, legges til i oppregningen av de lovbrudd hvor det gjøres unntak fra strafferammekravet i første ledd. Endringen innebærer at det fortsatt vil være hjemmel for personransaking ved etterforsking av dopinglovbrudd etter legemiddelloven. Endringen innebærer bare at det gjøres unntak fra strafferammekravet. De øvrige vilkår for ransaking må være oppfylt. Det vises til omtalen av forslaget i punkt 20.2.5.2.
+
+I et *nytt fjerde ledd* foreslås det en presisering av hva en personransaking er. Gjennom bestemmelsen angis det positivt hva en personransaking kan bestå i. Samtidig følger det motsetningsvis av bestemmelsen at en mer omfattende eller inngripende undersøkelse er en kroppslig undersøkelse etter straffeprosessloven § 157. Videre gir bestemmelsen en viss veiledning når grensen skal trekkes mellom hva som er personransaking og ransaking av et «oppbevaringssted» etter straffeprosessloven § 192. Forslaget i fjerde ledd er omtalt i punkt 13.2.3.3. Det tar sikte på å klargjøre rettstilstanden.
+
+Første del av presiseringen omhandler «besiktigelse av kroppens overflater og inn i munnhulen». Det følger av formuleringen «kan bare» at en mer omfattende eller inngripende undersøkelse ikke er en personransaking. Dette vil være en kroppslig undersøkelse etter § 157. Ordet «besiktigelse» markerer at det i utgangspunktet bare kan være tale om å se på kroppen uten klær eller inn i munnhulen, uten at personen kan bes om å gjøre kroppsbevegelser og uten at den som ransaker har kroppslig kontakt med personens nakne hud. Men lite inngripende kroppsbevegelser må likevel regnes som en kroppsransaking, typisk at en arm løftes eller at personen bes om å åpne munnen slik at den som ransaker kan se inn i munnen. Men det vil være en kroppslig undersøkelse dersom det er tale om kroppsbevegelser for at den som ransaker skal kunne se mellom brystene til en kvinne eller mellom rumpeballene eller i skrittet til personen. Det samme gjelder der polititjenestepersonen ønsker å undersøke inne i munnen ved hjelp av fingre eller lignende.
+
+Formuleringen «gjennomsøkning av klær» viser at en undersøkelse av personens lommer mv. er en personransaking. Men formuleringen dekker også det å ta utenpå personens klær for å avklare om noe er skjult i klærne eller mellom klærne og kroppen.
+
+Siste del av formuleringen omhandler «gjennomsøkning» av «veske, håndbagasje mv.». Denne delen av presiseringen må ses i sammenheng med hjemmelen for ransaking av et «oppbevaringssted» i § 192. I utgangspunktet er en veske, en koffert mv. et oppbevaringssted, men der personen har oppbevaringsstedet med seg, bør undersøkelsen regnes som personransaking. Dette er i samsvar med rettstilstanden i dag. Men det går en grense for hvilke typer av oppbevaringssteder som kan undersøkes som ledd i en personransaking. Det å undersøke om personen har en mobiltelefon i lomma eller en PC i veska, kan gjøres som ledd i en personransaking. Men dersom ransakingen avdekker en digital lagringsenhet, vil en undersøkelse av innholdet på den digitale lagringsenheten, slik som i dag, være ransaking av et oppbevaringssted etter § 192. Det samme bør i utgangspunktet ikke legges til grunn for papirbaserte notatbøker og lignende. Og det å se på papirlapper og lignende som en person har i lomma eller veska, må klart regnes som en del av personransakingen.
+
+I et *nytt femte ledd* er det tatt inn en hjemmel for bruk av makt (tvang). Bestemmelsen skal bare gi bruk av makt ved personransaking et klarere grunnlag i straffeprosessloven. Den åpner ikke for bruk av makt i større grad eller på annen måte enn etter rettstilstanden i dag. Forslaget er omtalt i punkt 13.2.3.4.
+
+Forslaget åpner for to typer av maktbruk. *Første punktum* omhandler bruk av makt ved selve iverksettingen av personransakingen. Det kan typisk være tale om å holde personen fast slik at ransakingen kan gjennomføres, eller å bruke makt for å ta av personen et klesplagg, eller å få tilgang til personens veske mv.
+
+*Annet punktum* omhandler maktbruk i grenseland mot frihetsberøvelse. Gjennomføringen av en personransaking forutsetter at personen oppholder seg der ransakingen skal finne sted. Men etter omstendighetene kan kravet til hensynsfullhet ved ransaking gjøre at ransakingen bør gjennomføres et annet sted enn der personen påtreffes. Annet punktum åpner for maktbruk for å sikre dette. Samtidig er det presisert at politiet bare kan holde personen tilbake eller ta personen med til et annet sted i den grad dette er nødvendig for å iverksette ransakingen. Verken tidsmessig eller stedsmessig kan maktbruken gå ut over hva som er strengt nødvendig for ransakingen. I den grad ytterligere frihetsinnskrenkning er nødvendig, må personen eventuelt pågripes.
+
+Om makt kan tas i bruk i en konkret situasjon, og hvor mye makt og hvilken type makt som kan brukes, reguleres av andre regler. Det følger av straffeprosessloven § 170 a annet punktum at også iverksettingen av en ransaking må være forholdsmessig. Bruk av makt i den konteksten som omtales her, er en del av iverksettingen. Videre oppstiller politiloven § 6 allmenne krav til politiets tjenesteutførelse, som også gjelder der det er spørsmål om å anvende makt ved iverksetting av personransaking. Reglene innebærer blant annet at makt bare kan anvendes dersom det er nødvendig og forholdsmessig, og at det ikke kan tas i bruk sterkere maktmidler enn hva som er nødvendig og forholdsmessig.
+
+Til § 197
+
+Straffeprosessloven § 197 regulerer hvem som kan beslutte ransaking og kravene til en beslutning om ransaking. Når det gjelder beslutningskompetanse, må § 197 ses i sammenheng med § 198. Utvalget foreslår flere endringer i § 197. Disse er omtalt i punkt 13.3.5.1, 13.3.5.3 og 13.4.5.
+
+*Første ledd* fastsetter at en beslutning om ransaking i medhold av de materielle reglene i §§ 192-195 må treffes av retten med mindre annet er bestemt. Med andre ord er hovedregelen at retten skal avgjøre om ransaking kan skje. Bestemmelsen er endret ved at unntaket ved skriftlig samtykke er tatt ut. Unntaket er flyttet til annet ledd om beslutningskompetanse for påtalemyndigheten. Endringen innebærer at polititjenestepersoner ikke lenger vil ha beslutningskompetanse ved skriftlig samtykke. Denne endringen medfører også at § 198 annet ledd første punktum endres.
+
+*Annet ledd* regulerer når påtalemyndigheten kan treffe en beslutning om ransaking. Ordet «kan» viser at påtalemyndigheten kan overlate til retten å treffe beslutningen selv om den har kompetanse etter annet ledd. Hvorvidt dette bør gjøres, er opp til påtalemyndighetens skjønn. Påtalemyndigheten må særlig se hen til sakens karakter, hvor sterkt ransakingen vil gripe inn i personvernet og hensynet til de berørtes rettsikkerhet.
+
+Annet ledd *nr. 1* fastsetter at påtalemyndigheten kan treffe beslutningen når den ransakingen vil rettes mot samtykker skriftlig. Bestemmelsen viderefører uten endring det som i dag følger av første ledd.
+
+Annet ledd *nr. 2 første punktum* viderefører med visse endringer den hastekompetanse som i dag følger av § 197 annet ledd første punktum. Men lovteksten er klargjort for å få frem at det gjelder visse minstekrav til hvor sannsynlig det må være at ransakingsformålet vil forspilles dersom en avgjørelse fra retten avventes. I dag gjelder hastekompetansen når «det er fare ved opphold», mens når «det er grunn til å frykte» er den nye formuleringen. Formålet med endringen er at lovteksten på en bedre måte skal gjenspeile det krav Høyesterett oppstilte i HR-2023-805-A avsnitt 43, der domstolen presiserte at det må foreligge «en konkret fare for at formålet med ransakingen ødelegges hvis man må vente på rettens beslutning».
+
+Annet ledd *nr. 2 annet punktum* viderefører bestemmelsen i § 197 annet ledd annet punktum uten endringer.
+
+I *tredje ledd* er det regler om ransakingsbeslutningen. *Første punktum* fastsetter at en beslutning om ransaking «så vidt mulig» skal være «skriftlig». Innholdsmessig svarer bestemmelsen til hva som i dag følger av § 197 tredje ledd første punktum. Men virkeområdet for bestemmelsen er endret. Dagens bestemmelse gjelder en ransakingsbeslutning truffet i medhold av første eller annet ledd i § 197, dvs. en beslutning truffet av retten eller påtalemyndigheten. Utvalgets forslag gjelder uavhengig av hvem som treffer beslutningen, noe som innebærer at skriftlighetskravet også gjelder der en polititjenesteperson treffer beslutningen i medhold av § 198. Men forbeholdet «så vidt mulig» er særlig aktuelt der beslutningen treffes av en polititjenesteperson. Ofte er det da ikke tid og mulighet til å nedtegne beslutningen skriftlig før ransakingen iverksettes. Endringen tar ikke sikte på å oppstille en høy terskel for når polititjenestepersoner kan ransake uten en skriftlig beslutning.
+
+*Annet punktum* regulerer kravene til innholdet i en skriftlig beslutning om ransaking. Etter forslaget skal beslutningen «på en presis måte angi hva ransakingen omfatter og hvem den retter seg mot, og inneholde opplysninger om det rettslige og faktiske grunnlaget for ransakingen, herunder om formålet». Kravene er noe strengere enn hva som i dag følger av § 197 tredje ledd første punktum, som fastsetter at beslutningen skal opplyse om «hva saken gjelder, formålet med ransakingen og hva den skal omfatte». Som påpekt i punkt 13.4.5 følger forslaget langt på vei opp et forslag fra Straffeprosessutvalget. Hvilke opplysninger beslutningen skal inneholde samsvarer med forslaget til Straffeprosessutvalget. Men dette utvalget har presisert bestemmelsen dit hen at opplysningene skal angis «på en «presis måte». Hvor presis beskrivelsen må være, må et stykke på vei avhenge av hva som skal ransakes og hvor viktig god presisjon er for å ivareta personvernhensyn hos og rettssikkerheten til den som utsettes for ransaking.
+
+Tredje og fjerde punktum regulerer situasjonen der beslutningen om ransaking ikke er skriftlig. Bestemmelsen i *tredje punktum* er generell. Uavhengig av hvem som har truffet beslutningen om ransaking skal den «snarest mulig» nedtegnes skriftlig. Innholdsmessig svarer bestemmelsen til § 197 tredje ledd annet punktum, men virkeområdet er endret. Kravet om nedtegning gjelder også der en polititjenesteperson har fattet beslutningen. Det ligger implisitt i reguleringen at en nedtegning i henhold til tredje punktum skal tilfredsstille kravene til innhold i annet punktum.
+
+For å effektivisere arbeidet til polititjenestepersoner fastsetter *fjerde punktum* at en beslutning fra en polititjenesteperson kan nedtegnes i den rapporten om iverksetting som skal utarbeides i henhold til § 199 annet ledd. Polititjenestepersoner kan med andre ord utarbeide en felles rapport om beslutningen og iverksettingen.
+
+Til § 198
+
+Straffeprosessloven § 198 regulerer når polititjenestepersoner kan treffe en beslutning om ransaking. Utvalget foreslår endringer i første ledd nr. 2 og annet ledd første punktum. Det vises til punkt 13.3.5.2 og 13.3.5.3.
+
+I dag fastsetter *første ledd nr. 2* at en polititjenesteperson kan beslutte ransaking «når mistenkte treffes eller forfølges på fersk gjerning eller ferske spor». Utvalget foreslår ingen endring av lovens formulering, men understreker at formuleringen må tolkes restriktivt. Utvalgets forslag går ut på å tilføye to presiserende tilleggskrav: mistanken må være «sterk», og det må være «grunn til å anta» at ransakingsformålet vil oppnås i tilfelle ransaking.
+
+Vilkåret om at mistanken må være «sterk» svarer til mistankekravet i første ledd nr. 3. Høyesterett har lagt til grunn at formuleringen «sterk mistanke» i nr. 3 skal forstås som «et krav om betydelig sannsynlighetsovervekt for at en straffbar handling er begått», se Rt-1993-1025. Kravet til mistankens styrke i nr. 2 skal forstås på samme måte.
+
+Mistankekravet er generelt og gjelder for alle de bevistemaene som er aktuelle. Mistanken om at det er begått en straffbar handling må være sterk. Videre må mistanken være sterk mot den som treffes på fersk gjerning. Alternativt må det foreligge en sterk mistanke om at de friske sporene stammer fra den straffbare handlingen og om at den personen som sporene leder mot er gjerningsperson eller en medvirker.
+
+Vilkåret om at det må være «grunn til å anta at ransakingsformålet vil oppnås» oppstiller et indikasjonskrav. Det må være en viss sannsynlighet for at ransakingsformålet vil oppnås i tilfelle ransaking. Formuleringen «grunn til å anta» svarer til det indikasjonskravet en finner i de materielle ransakingshjemlene i straffeprosessloven § 194 (razzia) og § 195 første ledd (personransaking), og må forstås på samme måte. Kravet er ikke strengt, men det må foreligge konkrete holdepunkter for at ransakingsformålet vil oppnås i tilfelle ransaking.
+
+Det foreslåtte indikasjonskravet har bare realitetsbetydning i situasjoner der det materielle ransakingsgrunnlaget oppstiller et lavere indikasjonskrav. Konkret betyr dette at det foreslåtte vilkåret bare har realitetsbetydning når det er spørsmål om å ransake «bolig, rom eller oppbevaringssted» og det materielle grunnlaget for ransaking er straffeprosessloven § 192 første ledd eller tredje ledd nr. 1 eller 2.
+
+*Annet ledd første punktum* oppstiller et unntak fra kompetansebestemmelsene i første ledd nr. 2 og 3 når det gjelder personransaking i medhold av § 195 tredje ledd. I dag fastsetter bestemmelsen at slik ransaking ikke kan foretas «uten samtykke eller beslutning som nevnt i § 197». Endringen av straffeprosessloven § 197 medfører at polititjenestepersoner ikke lenger vil ha beslutningskompetanse ved skriftlig samtykke fra den ransakingen skal rettes mot. Av den grunn er samtykkealternativet tatt ut av annet ledd første punktum, slik at lovens formulering blir «uten beslutning som nevnt i § 197».
+
+Til § 199
+
+Straffeprosessloven § 199 annet ledd pålegger politiet å utferdige en rapport om iverksettingen av ransakingen. I et nytt *annet punktum* foreslår utvalget en bestemmelse om hva rapporten skal inneholde. Det vises til punkt 13.4.5.
+
+Første del av annet punktum fastsetter at rapporten skal vise til beslutningen om ransaking. Der retten eller påtalemyndigheten har besluttet ransaking, skal rapporten vise til en skriftlig eller nedtegnet beslutning som nevnt i straffeprosessloven § 197 tredje ledd første eller tredje punktum. I utgangspunktet gjelder det samme der beslutningen om ransaking er truffet av en polititjenesteperson. Men her må bestemmelsen ses i sammenheng med § 197 tredje ledd fjerde punktum. Når § 197 tredje ledd fjerde punktum og § 199 annet ledd annet punktum ses i sammenheng, fremgår det at en beslutning om ransaking fattet av en polititjenesteperson, i en situasjon der det ikke var mulig å treffe beslutningen skriftlig, kan nedtegnes i rapporten om ransakingen.
+
+For øvrig skal rapporten opplyse om «hvem som iverksatte ransakingen, når ransakingen fant sted, hva ransakingen omfattet og hvordan ransakingen ble gjennomført». De første to kravene omhandler enkle opplysninger som det ikke tar mye tid å skrive ned i rapporten, og som også i dag må være med i en rapport. Det samme gjelder til en viss grad for det tredje kravet – hva ransakingen omfattet. Også i dag må det fremgå av rapporten hvilken person eller eiendom som ble ransaket. Formuleringen «hva ransakingen omfattet» må forstås slik at det ved personransaking alltid må fremgå hvem som ble ransaket. Når det gjelder ransaking av eiendom, må det fremgå hvem sin eiendom som ble ransaket og hvilken type eiendom som ble ransaket. Hvilke krav som gjelder ut over dette, er relativt. Hvor grundig rapporten skal beskrive avgrensningen av ransakingsstedet og hvor det konkret ble ransaket, må avhenge av omstendighetene. Det veiledende synspunktet må være at rapporten skal gi et forsvarlig grunnlag for å etterprøve lovligheten av iverksettingen.
+
+Det siste elementet er «hvordan ransakingen ble gjennomført». Kravet innebærer at det kort skal angis hvordan en person eller eiendom ble ransaket. Ved personransaking må det angis om politiet nøyde seg med å undersøke lommene og veska til personen, eller om også kroppen ble undersøkt. Og dersom kroppen uten klær ble besiktiget: hvilke deler av kroppen ble besiktiget. Ved ransaking av eiendom vil det ofte være naturlig å kort angi hvilke rom eller oppbevaringssteder som ble undersøkt. Samtidig er det ved ransaking av eiendom ikke en klar grense mellom kravet til beskrivelse av «hva ransakingen omfattet» og «hvordan ransakingen ble gjennomført».
+
+Også kravet til en beskrivelse av hvordan ransakingen ble gjennomført, er relativt. Et sentralt poeng er at rapporten skal gi et forsvarlig grunnlag for å etterprøve lovligheten av ransakingen. Kravene til hvor grundig rapporten skal være, må særlig avhenge av hvor stort inngrep i privatsfæren ransakingen innebar. Dersom makt er anvendt for å iverksette ransakingen må dette alltid omtales i rapporten.
+
+Plikten til å skrive rapport om eventuelle beslag som tas er regulert i straffeprosessloven § 207 første ledd og påtaleinstruksen § 9-5. Utvalget foreslår ingen endringer i disse reglene.
+
+Til § 321
+
+Endringen i straffeprosessloven § 321 *første ledd første punktum* innebærer at de strafferettslige reaksjonene straffutmålingsutsettelse og straffutmålingsfrafall tilføyes oppregningen av hvilke straffer og strafferettslige reaksjoner som omfattes av virkeområdet til samtykkeregelen i § 321 første ledd. De to strafferettslige reaksjonene er regulert i straffeloven § 60 og § 61. Tilføyelsene medfører ingen realitetsendring, jf. Rt-2007-1153 og fremstillingen i punkt 11.3. Siden reaksjonene straffutmålingsutsettelse og straffutmålingsfrafall er mer aktuelle i lys av rettsutviklingen ved reaksjonsfastsetting i mindre alvorlige narkotikasaker, noe som befestes gjennom utvalgets forslag til ny § 232 a i straffeloven, bør lovteksten bringes i samsvar med rettstilstanden.

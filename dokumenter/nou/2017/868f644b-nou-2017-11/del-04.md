@@ -1,944 +1,314 @@
-# NOU 2017: 11, del 4 av 26 (side 44–53)
+# NOU 2017: 11, del 4 av 25
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2017/868f644b-nou-2017-11.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2017-11/id2553617/
 - Original-PDF: https://www.regjeringen.no/contentassets/8e638734347b4e93ab97f597a8ac0bc8/no/pdfs/nou201720170011000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 32 tabeller, 55 figurer, 209 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 44]
+I det digitale rom kan gjerningspersonen ofte være vanskelig å avdekke fordi det er få direkte digitale spor. I mange tilfeller kan det også være utfordrende å fastslå om det faktisk har skjedd en straffbar handling, ikke bare fordi regelverket ikke holder takt med kriminalitetsutviklingen, men også fordi det digitale rom reiser nye spørsmål om rekkevidden for politiets jurisdiksjon. I mange tilfeller blir kriminelle handlinger utført av personer, eller ved hjelp av systemer utenfor Norges grenser. Etterforskningen er derfor tid- og ressurskrevende og krever ofte tettere internasjonalt politisamarbeid.
 
-44
+Dette medfører at den raske teknologiutviklingen kombinert med økning i IKT-kriminalitet både i volum og kompleksitet har gitt politiet store kapasitetsutfordringer.
 
-Kapittel 5
+Mørketallsundersøkelsen (2016) viser at kun 9 prosent av virksomhetene som utsettes for cyberangrep tar saken videre til politiet. Det er grunn til å tro at bak dette skjuler det seg betydelige mørketall, og for de kriminelle nettverk er denne typen angrep mot norske virksomheter i praksis ofte straffefrie[^66].
 
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
+1.  **<u>Overf</u><u>ø</u><u>rer millioner til svindlere </u><u>–</u><u> Direkt</u><u>ø</u><u>r svindel</u>**
 
-sursinnsats og effekt ikke er tilfredsstillende. I
-særlig grad blir de antatt mest robuste politidistriktene, Vest (Bergen) og Oslo, trukket frem som
-eksempler der kapasitet og resultater ikke anses
-gode nok, med mange kapasitetshenleggelser og
-stor grad av tilskjæring for å forenkle sakene.16
-Tolletaten oppgir Økokrim som hovedmottaker av etatens politianmeldelser, og oppgir at politiets generelle ressursmangel på området er utfordrende.17
-Transparency International (TI) opplever noe
-bedring med færre politidistrikt, men inntrykket
-er fortsatt at økoteamene ikke har tilstrekkelig
-kompetanse og kapasitet, særlig innenfor korrupsjon. Økokrim bidrar med noe opplæring, men TI
-uttrykker bekymring for en utvikling der stadig
-flere gode etterforskere går over til granskermiljøene i privat sektor, som er en bransje i stor
-vekst. TI mener dette er en utvikling som bør
-bekymre politiet, fordi dette er en kompetanse
-som er vanskelig å erstatte.18
-I særlig grad vektlegger TI at korrupsjon ofte
-innebærer et nærhetsproblem. Å drive tilsyn som
-er inngripende, blir ofte vanskelig, fordi mange
-kjenner hverandre, særlig i små miljøer. Dette
-skaper mange barrierer som kan gjøre det vanskeligere å gripe inn, fordi mange er involvert.
-Det er derfor behov for større distanse til saker av
-denne typen. I tillegg er det behov for et saksomfang i distriktene som gir kompetanse, trening og
-erfaring, og et miljø som gir god arbeidsdeling.
-Slik sett har nærpolitireformen med omlegging til
-tolv distrikter fordeler. Mer robuste økoteam i de
-nye tolv politidistriktene er viktig. Samtidig etterlyser TI større bruk av administrative sanksjoner,
-med henvisning blant annet til Konkurransetilsynet.
-Konkurransetilsynet mener samarbeidet med
-politiet kan styrkes gjennom tettere kontakt, faste
-kontaktpunkter og utveksling av erfaringer/kompetanse knyttet til avdekking og etterforskning av
-økonomisk kriminalitet. Politiet kan gjennom styrket kunnskap om konkurransekriminalitet være i
-bedre stand til å avdekke denne type kriminalitet
-gjennom etterforskning av mer generell økonomisk kriminalitet, for eksempel korrupsjon.19
-Finanstilsynet anser kapasitet som hovedutfordringen for politiet, både på distriktsnivå og sær16
+Nettsvindel av toppledere har økt kraftig i Norge i 2015, og Oslo politidistrikt etterforsket i 2016 en sak hvor en bedrift anmeldte en såkalt direktør-svindel (eng. CEO fraud). Svindlerne manipulerte finansdirektøren til å overføre over 500 millioner kroner til utlandet. Til sammenligning var tapet i NOKAS-ranet på 50 millioner kroner. NOKAS-ranet hadde også et brutalt drap og svært mange mennesker som ble utsatt for grove trusler med våpen, men sammenlikningen er ment illustrativt ut fra pengetapene i de to sakene. Den totale verdien av midler som i 2016 ble forsøkt digitalt direktør-svindlet i Norge antas å være over 1 milliard kroner. FBI rapporterer at det er over 17500 ofre globalt innenfor direktør-svindel. Det kreves rask håndtering av bankene, og utstrakt internasjonalt politisamarbeid for å møte denne type kriminalitet.
 
-Samtale med skattedirektøren 15. november 2016.
-Samtale med tolldirektøren den 2. november 2016.
-18
-Samtale med TI: Samtale med Transparency International
-25. oktober 2016.
-19
-E-post fra Statens sivilrettsforvaltning (SRF) til sekretariatet 4. januar 2017.
-17
+**<u>\[Boks slutt\]</u>**
 
-organnivå: Det er for få etterforskere innen økonomisk og finansiell kriminalitet, og området får
-for lite ressurser. I tillegg er det et spørsmål om
-kompetanse; mange saker er kompliserte og krever spisskompetanse og betydelige ressurser. Det
-er etter tilsynets mening vanskelig å se at det er
-nødvendig å bygge opp dobbeltkompetanse i politidistriktene, men slike saker er ofte krevende, og
-det er uansett behov for å styrke kompetansenivået for å møte morgendagens utfordringer i straffesakskjeden.20
-Statens sivilrettsforvaltning (SRF) oppgir en
-særlig problemstilling knyttet til et voksende
-antall krav om erstatning i anledning straffeforfølgning med grunnlag i komplekse økonomiske
-straffesaker. Dette er ofte svært omfattende og
-ressurskrevende saker å behandle. SRF mener
-det derfor er svært viktig med en forsvarlig
-behandling av de større økonomiske straffesakene. Etter SRFs mening er fagmiljøene utenfor
-Oslo stort sett for små til å inneha en slik bredt
-sammensatt spesialistkompetanse. SRF vil derfor
-advare mot en overføring av større økonomiske
-straffesaker fra Økokrim til det enkelte politidistrikt, fordi sakenes omfang og kompleksitet krever uavbrutt konsentrasjon og innsats over tid. På
-den andre siden er sakene ofte ikke helt akutte.
-En risiko ved at disse sakene flyttes til de enkelte
-politidistriktene er at etterforskningen kan
-komme i konkurranse med forbrytelser som til
-enhver tid krever mer umiddelbar aksjon. På
-denne måten kan økosakene etter SRFs mening få
-lang saksbehandlingstid eller bli liggende ubehandlet i perioder, hvilket kan utgjøre brudd på
-EMK artikkel 6 nr. 1.21
+Flere utredninger[^67] peker på eksempler der både offentlige og private virksomheter blir utsatt for IKT-kriminalitet, men ressurs- og kompetansemangel gjør det vanskelig å få nødvendig bistand fra politiet. Av den grunn bruker særlig flere private virksomheter mye ressurser på å gjennomføre egne utredninger. En særlig utfordring i forlengelsen av dette er ifølge Riksadvokaten at et økende antall private virksomheter ønsker en «nødbrems» for å avslutte etterforskning av saker dersom den tar en uønsket vending. Eksempelvis vil anmeldelse av datainnbrudd for mange virksomheter være børssensitiv informasjon som krever kunngjøring. Enkelte virksomheter vil av samme grunn også velge å la være å anmelde slike saker.[^68]
 
-5.3.3
+Direktør-svindel er tradisjonell kriminalitet begått ved bruk av digitale hjelpemidler som e-post og telefon via fastnett og mobilnett. Det som endrer seg i disse svindelforholdene er metoden for å nå målet og nesten samtlige sporkilder er digitale. Med unntak av avhørene av økonomiansvarlig er det ingen «analoge» etterforskningsmetoder som fører fram. Politiet må spore IP-adresser og teletrafikk, undersøke beslaglagte data samt samarbeide tett med politi i andre land for å komme videre i saken.
 
-Miljøkriminalitet
+Politiet har erfart at det er nødvendig å benytte digitale sporkilder i straffesaksarbeidet, uansett type kriminalitet. Politiet ser at selv mindre alvorlige saker kan innebære kompleksitet i sporing av gjerningsmannen der etterforskingskrittene er digitale. I saker uten tradisjonelle etterforskingsskritt vil sakene ofte tape prioritet hvis de digitale etterforskningsskritt er krevende. De mest krevende forholdene er der hvor saken er alvorlig, med en komplisert og kompleks digital etterforskningsarena. I disse tilfellene vil det stilles store krav til samhandling mellom den taktiske og den tekniske etterforskning for å lykkes i å få et fullstendig bilde av hendelsesforløpet som etterforskes. Behovet for å analysere og systematisere informasjonen i disse store datamengdene er en stor utfordring for politiet i svært mange etterforskninger. Den taktiske betydningen av den digitale informasjonen har stadig større betydning, og krever digital kompetanse i hele straffesakskjeden, samt spesialister til å analyser store datamengder og gode IT-verktøy. Samspillet mellom den taktiske og den tekniske etterforskningen er derfor viktig også her.
 
-Tilbakemeldinger fra politimestrene gjennom
-samtaler og kompetansekartlegging tyder på dels
-store variasjoner i kompetanse og erfaring innen
-miljøkriminalitet, og at flere politidistrikt i ulik
-grad fortsatt vil ha behov for bistand innenfor alle
-typer miljøkriminalitet (natur-, fauna, og akvakulturkriminalitet, forurensningskriminalitet, kunstog kulturminnekriminalitet, dyrevelferdskriminalitet, arbeidsmiljø- og arbeidsmarkedskriminalitet).
-I utvalgets kompetansekartlegging oppgir ti av
-tolv politimestre i «noen grad», «stor grad» eller
-«svært stor grad» å ha tilstrekkelig etterforskningskompetanse og erfaring innen miljøkrimi20
-21
+IKT-kriminalitet kan også være lokalt forankret. Politiet etterforsket nylig en sak der et medlem av et politisk parti brøt seg inn i serveren til to andre politiske partier og benyttet anledningen til å sende ut SMS og e-post med politisk innhold som samsvarte med det politiske synet til den som brøt seg inn. I dette tilfellet hadde personen gjort en dårlig jobb med å skjule sporene, og vedkommende ble raskt pågrepet av politiet. Dette var lokalt forankret IKT-kriminalitet som ikke var komplisert å etterforske.[^69]
 
-Samtale med Finanstilsynet 7. november 2016.
-E-post til sekretariatet 13. februar 2017.
+En sammenligning av kriminalitet innen narkotikahandel og IKT-kriminalitet, viste allerede i 2011 at det globale økonomiske tapet innenfor IKT-kriminalitet var langt større enn for narkotikahandel.
 
-[Side 45]
+Hendelser i det digitale rom kan ha negative konsekvenser uten at det ligger kriminelle handlinger eller unnlatelser bak. Politiets oppmerksomhet vil likevel ofte være nødvendig av flere grunner; for å avdekke om det foreligger straffbare forhold, for å forebygge eller fordi politiets tilstedeværelse på nett er viktig ved eksempelvis samfunnsmessige ulykker.
 
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
+1.  **<u>IKT-sikkerhet</u>**
 
-45
+Sikring av informasjons- og kommunikasjonsteknologi med hensyn til konfidensialitet, integritet og tilgjengelighet. Dette innebærer tiltak på teknisk og organisatorisk nivå. Enhver virksomhet og person har eget ansvar for IKT-sikkerhet.
 
-Kapittel 5
+**<u>\[Boks slutt\]</u>**
 
-nalitet generelt. De øvrige oppga å ha tilstrekkelig
-kompetanse og erfaring i mindre grad eller liten
-grad. Samtidig forventer sju av tolv politimestre at
-nærpolitireformen i noen grad, stor grad eller i
-svært stor grad vil redusere behov for bistand
-innen alvorlig miljøkriminalitet, herunder naturog forurensningskriminalitet. Her svarer de
-øvrige at behovet i liten eller svært liten grad vil
-endre seg. Innenfor arbeidsmiljøkriminalitet
-mener imidlertid to tredjedeler at de i stor eller
-svært stor grad forventer å redusere sitt bistandsbehov.
-Flere kontrolletater bekrefter inntrykket av
-behovet for fortsatt spesialistkompetanse.
-Miljødirektoratet mener det er viktig at politiets spesialkompetanse på miljøkrimområdet styrkes. Innenfor regelverket direktoratet forvalter,
-oppgis det å være utfordringer med å få prioritert
-viktige saker på miljøkrimområdet i politidistriktene. Miljødirektoratet mener det derfor er viktig
-med et robust og kompetent særorgan på miljøkrimområdet for å bane vei for politiets håndtering av denne type saker, bidra til at de riktige
-sakene blir prioritert, samt sikre fremtidig bistand
-til politidistriktene i miljøkrimsaker.22
-Fiskeridirektoratet mener at til tross for signaler fra Riksadvokaten om at miljøkriminalitet skal
-prioriteres, er dette sammen med økonomisk kriminalitet en type kriminalitet som politidistriktene
-ofte ikke finner å kunne bruke tilstrekkelig ressurser på. Dels fordi arbeidsmengden er stor, dels
-fordi det krever en spesialkompetanse som politiet ikke har.23
-Fiskeridirektoratet mener i den forbindelse at
-Økokrim har en svært viktig rolle, først og fremst
-som støtte til lokalt politi i enkeltsaker ved etterforskning og straffeforfølgning av saker for domstolen. Det oppgis videre at samarbeidet med politidistriktene varierer fra distrikt til distrikt, men
-den største utfordringen er at sakene blir for
-gamle. Per januar 2017 oppgir direktoratet at
-minst fem–seks saker har blitt liggende i politidistriktet i mer enn fire år siden saken ble anmeldt,
-og at noen saker er enda eldre. Det oppgis at
-anmeldelsene gjerne blir etterforsket litt i starten,
-men etter en tid blir de ikke fulgt opp, til tross for
-at direktoratet i hver anmeldelse oppgir minst to–
-tre kontaktpersoner som ønsker å bistå så mye
-som mulig i etterforskningsfasen, herunder
-bistand ved avhør av ansatte samt hjelp i forbindelse med straffeforfølgning av saker. I de tilfellene der det blir gitt forelegg, blir det gitt utset-
+1.  **<u>Elektroniske spor og datatekniske unders</u><u>ø</u><u>kelser</u>**
 
-telse i flere år for vedtakelse. Når saken etter lang
-tid blir iretteført, er bevisene svekket, og selskapene blir ofte frikjent.
-Kystverket opplyser å ha noe varierende erfaring med ulike politidistrikt når det gjelder etterforskning og påtale i saker knyttet til akutt forurensning til sjøs. Kystverket har opplevd at i det
-vesentlige har like saker blitt behandlet noe ulikt i
-de ulike politidistriktene. Samtidig opplyser Kystverket å ha godt operativt samarbeid med lokalt
-politi under aksjoner mot akutt forurensning.
-Dette gjelder blant annet båttjenesten til politiet.
-Kystverket har fått bistand fra politiet med ressurser i forbindelse med en rekke aksjoner mot akutt
-forurensning.24
-Innenfor
-arbeidslivskriminalitet
-oppgir
-Arbeids- og velferdsetaten (Nav) at det er stor forskjell i kompetanse mellom politidistriktene. De
-mener det er behov for en generell kompetanseheving på arbeidsmarkedskriminalitet hos politiet. Arbeids- og velferdsetaten opplyser om at i
-politidistrikter og i saker der etterforskere og politijurist har en forståelse av regelverket og alvorligheten av brudd, er erfaringen at egne saker blir
-prioritert raskere, og at strafferammen gjerne er
-noe høyere. I særlig grad blir det fremhevet at
-politidistriktene ikke er tilstrekkelig rustet i svindelsaker. Erfaring viser her at særorganene, og
-spesialmiljøer i økoteamene, er bedre i stand til å
-utføre disse oppgavene. Det oppgis at dette er
-svært ressurskrevende saker for så vel kontrolletater, som for politi og særorgan.25
+Informasjon i elektronisk form som kan knyttes til en bruker, person, elektronisk enhet, sted eller hendelse. De elektroniske sporene inkluderer avlesning og analyse av for eksempel mobiltelefon og PC, innhenting og analyse av spor f eks fra Facebook og chat.
 
-22
+**<u>\[Boks slutt\]</u>**
 
-26
+1.  **<u>Politiarbeid p</u><u>å</u><u> internett</u>**
 
-23
-
-Skriftlig innspill fra Miljødirektoratet 15. januar 2017.
-Skriftlig innspill fra Fiskeridirektoratet 13. januar 2017.
-
-5.3.4 Trafikksikkerhet
-Det overordnede ansvaret for trafikksikkerhet er
-lagt til Samferdselsdepartementet, men det nasjonale arbeidet omfatter et tett samarbeid mellom
-flere etater på området, særlig gjennom Kontaktutvalget for trafikksikkerhet (KTS): Justis- og
-beredskapsdepartementet, Vegdirektoratet (herunder Statens vegvesen), Politidirektoratet,
-Utrykningspolitiet, Helsedirektoratet, Trygg Trafikk og Statens havarikommisjon for transport.
-Det nasjonale samarbeidet bygger på nullvisjonen, det vil si et transportsystem som ikke fører til
-tap av liv eller varig skade. Dette er et felles fundament for alt nasjonalt trafikksikkerhetsarbeid.26
-Som følge av nullvisjonen har innsatsen i større
-24
-25
-
-Skriftlig innspill fra Kystverket 7. mars 2017.
-Skriftlig innspill fra Arbeids- og velferdsdirektoratet
-26. januar 2017.
-St.meld. nr. 40 (2015–2016) Trafikksikkerhetsarbeidet – samordning og organisering.
-
-[Side 46]
-
-46
-
-Kapittel 5
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-grad blitt målrettet mot de alvorligste trafikkulykkene. I Politidirektoratets Strategiplan for polititjeneste på veg 2016–2019 fremgår det at trafikksikkerhet er en av politiets hovedoppgaver.
-Politiets innsats følger to hovedspor:
-1. Generell forebyggende innsats gjennom synlig
-tilstedeværelse, kontroll og overvåkning på
-veiene for å styrke den subjektive oppdagelsesrisikoen. Dette bygger på antakelsen om at økt
-opplevd risiko for å bli kontrollert og avdekket
-vil redusere sannsynligheten for at den enkelte
-foretar lovstridige handlinger på vei, og at dette
-reduserer antall alvorlige trafikkulykker.
-2. Politiets faktiske evne til å avdekke lovbrudd
-på veien, sikre bevis og gjennomføre etterforskning og straffeforfølgelse.27
-Selv om UP har nasjonalt ansvar for politiets trafikksikkerhetsarbeid, ligger etterforsknings- og
-påtalekompetansen i politidistriktene. På oppdrag
-fra Riksadvokaten leverte UP i desember 2015 en
-analyse av politiets etterforskning og straffesaksbehandling av alvorlige trafikkulykker. Rapporten
-konkluderte med at politiets etterforskning i for
-mange tilfeller var mangelfull og av dårlig kvalitet.28
-I kjølvannet av nærpolitireformen er det iverksatt et generelt kompetansetiltak, Etterforskningsløftet29, en handlingsplan for løft av etterforskningsfeltet. Det forventes at tiltaket også vil
-bidra til å styrke politiets trafikksikkerhetsarbeid.
-Denne handlingsplanen innebærer blant annet
-styrket utdanningstilbud, nasjonale standarder for
-god fagledelse samt nye arbeidsformer og metodebruk. I tillegg utvikles metoden «mer politiarbeid på stedet» i politidistriktene, noe som skal
-føre til bedre kvalitet på etterforsking, også av trafikkulykker.
-Kompetanse er likevel ikke den største utfordringen. Dette bekrefter også politimestrene. Den
-største utfordringen er heller knyttet til stort oppgavespenn og begrenset kapasitet. Flere utvalget
-har snakket med, herunder Vegvesenet og Trygg
-Trafikk, underbygger UPs rapport. De fremhever
-på den ene siden at politiet er en svært viktig
-aktør i trafikksikkerhetsarbeidet, men at politidistriktene generelt ikke prioriterer dette arbeidet.
-Som eksempel peker Vegvesenet på flere tilfeller
-27
-
-Politidirektoratet (2016): Strategiplan for polititjeneste på
-veg 2016–2019.
-28
-Riksadvokaten (2015): Analyse av dødsulykker og straffesaksbehandlingen i trafikksaker.
-29
-Handlingsplan for løft av etterforskingsfeltet. Politidirektoratet 2016.
-
-der potensielt store saker, som ofte er nærmest
-«ferdig etterforsket», blir overført til politidistrikter, men som regel med det resultat at sakene blir
-nedprioritert eller henlagt for å unngå merarbeid.30
-UP gir også uttrykk for at det er generelt liten
-interesse i politidistriktene for å prioritere trafikksikkerhet, og mener dette er et gjennomgående
-fenomen i andre europeiske land. Etter UPs
-mening har overgangen fra 27 til tolv distrikter
-foreløpig ikke gitt noen nevneverdig endring i verken holdning eller bevissthet til forbindelsen mellom UPs arbeid og generell kriminalitetsbekjempelse.31
-Samtidig er trafikksikkerhet et område de
-fleste politimestre mener de selv er best egnet til å
-styre ressursene for, blant annet med henvisning
-til totalansvarsprinsippet – at politimestrene selv
-bør ha kontroll med politioppgavene i eget distrikt. Begrunnelsen er at dette vil gi en mer effektiv og fleksibel politikraft fordi distriktets egne
-politistyrker kan håndtere flere typer politioppgaver med nødvendig kompetanse både i etterforsknings- og påtalesporet. I tillegg mener enkelte at
-med full kontroll på samlede trafikkpolitiressurser
-vil det være mulig å koordinere og prioritere
-andre målrettede trafikksikkerhetstiltak. I utvalgets kompetansekartlegging oppgir også ti av tolv
-politimestre at de etter nærpolitireformen i
-«meget stor grad» eller «svært stor grad» forventer å redusere sitt behov for bistand på området.
-Det er flere grunner til dette. Det ene er at større
-distrikter gir tilgang på flere ressurser. Det andre
-er, som Teknologirådet fremhever, at økt bruk av
-teknologi gradvis vil endre kontrollbehovet. Over
-tid vil sensorteknologi, automatiserte kontrollmetoder og innebygde løsninger i kjøretøyene bli
-mer vektlagt i trafikksikkerhetsarbeidet. Dette
-kan føre til gradvis mindre behov for tradisjonell
-politibistand på trafikkområdet.32
-Politianalysen33 berørte også spørsmålet om
-politiets ressursprioritering på området. Utvalget
-beskrev her delvis mulighetene for at UPs oppgaver i stor grad kunne inngå som del av porteføljen i politidistriktene. Utvalget fant det likevel vanskelig å konkludere, særlig fordi UP de seneste
-årene i større grad er blitt en støtte og ressurs for
-politiet i andre deler av landet og har oppnådd
-gode resultater med begrensede midler. Det ble
-likevel reist spørsmål om hvorvidt det kunne
-30
-31
-32
-33
-
-Samtale med Statens Vegvesen 3. november 2016
-Samtale med UP 21. september 2016.
-Samtale med Teknologirådet 28. februar 2017.
-NOU 2013: 9, «Politianalysen»
-
-[Side 47]
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-anses som en fornuftig bruk av politiressurser,
-ettersom UP legger beslag på ressurser som kanskje kunne vært utnyttet til mer effektiv og fleksibel politikraft i distriktene.
-Trygg Trafikk mener nasjonal måloppnåelse
-for trafikksikkerhet forutsetter et politi med spisskompetanse innen trafikksikkerhet. Politikontroller er etter deres mening det enkelttiltaket med
-størst dokumentert effekt på trafikksikkerheten.
-UP er garantist for at det blir foretatt kontroller på
-norske landeveier, også utenfor byene.
-UPs spisskompetanse kommer også politidistriktene til gode. Når et politidistrikt avgir folk til
-UPs tjeneste, får de tilbake en kompetanse som er
-«helt uvurderlig» i det lokale trafikksikkerhetsarbeidet. Det er også fordelaktig for politidistriktene
-at UP kan avgi ressurser ved større lokale arrangementer.34
-Statens vegvesen opplever UPs kompetanseoverføring til distriktene som uklar. Vegvesenet er
-likevel tilbakeholden med å vurdere om politidistriktene kunne opprettholde det gode trafikksikkerhetsarbeidet med en annen organisering der
-de overtok flere oppgaver fra UP i en mer målrettet løsning. Konklusjonen er dermed at de vil
-beholde UP slik den er i dag, fordi dette fungerer
-godt.
-Vegvesenet mener UP er viktig som kontinuerlig, pålitelig og faglig ressurs på trafikksikkerhetsområdet. Vegvesenet opplever videre at trafikksikkerhetsområdet er mindre prioritert i politidistriktene og frykter nedprioritering ved eventuell overflytting av ansvar fra UP. Etter Vegvesenets oppfatning er det nødvendig med en nasjonal enhet for
-spisskompetanse på trafikksikkerhet, da det blir
-vanskelig for politiet å nå nasjonale mål for trafikksikkerhet dersom ansvaret blir desentralisert.35
-
-5.3.5 Utlendingsfeltet
-Politiets oppgaver innen utlendingsforvaltningen
-er i stor grad delt mellom politidistriktene og Politiets utlendingsenhet (PU).
-Politidistriktenes oppgaver på utlendingsfeltet
-dreier seg i hovedsak om å ta imot, forberede og
-behandle søknader om oppholdstillatelser og
-statsborgerskap, i tillegg til utlendingskontroll.
-PUs hovedoppgaver er registrering av ankomne
-asylsøkere, identitetsfastsettelse, uttransportering
-av personer uten lovlig opphold og drift av Politiets utlendingsinternat på Trandum og utreisesenteret på Oslo lufthavn Gardermoen.
-
-Politimestrene oppgir at PUs døgnkontinuerlige operasjonssenter bistår politidistriktene på
-spørsmål knyttet til utlendingsfeltet, og at dette
-bidrar til at patruljene er bedre rustet til å starte
-operasjoner og overholde lovfastsatte tidsfrister. I
-tillegg jobber PU med politioperativ analyser som
-kan komme politidistriktene til gode i generell kriminalitetsbekjempelse. Etter PUs mening har
-overgangen fra 27 til tolv politidistrikt foreløpig
-ikke vist seg å ha stor faglig effekt. Kompetansen i
-politidistriktene på utlendingsfeltet er fortsatt
-ujevnt fordelt, og kapasiteten er ikke merkbart
-bedret. Den eneste endringen PU fremhever, er at
-selve kommunikasjonen med distriktene går
-enklere og raskere.36
-Det er ulike oppfatninger av hvilke deler av
-utlendingsfeltet som kan regnes blant politiets
-kjerneoppgaver. Politianalysen kom fram til at
-politidistriktene på området i hovedsak utfører
-forvaltningsoppgaver som ikke inngår i politiets
-kjerneoppgaver. Utvalget konkluderte dermed
-med at disse oppgavene kan bli overført til utlendingsforvaltningen,37 noe PU imøtegikk i sitt
-høringsbrev.38 Justis- og beredskapsdepartementet har i forlengelsen av dette planlagt en utredning om organisering av politiets oppgaver på asylområdet. Særlig vekt vil her bli lagt på avklaring
-av identitet og på å se utlendingsforvaltning og
-kriminalitetsbekjempelsen i sammenheng.39 Dersom en slik utredning konkluderer med en hel
-eller delvis utflytting av oppgaver innen utlendingsforvaltning fra politidistriktene, vil det redusere behovet for PUs bistand.
-Politiet har etter utlendingsloven myndighet til
-å foreta utlendingskontroll i eget distrikt, det vil si
-anledning til å pågripe og holde en utlending i forvaring ved mistanke om at vedkommende har
-oppgitt falsk identitet eller nekter å bidra til å
-avklare sin identitet. Dette er en kontrollaktivitet
-som bidrar til å avdekke personer uten lovlig opphold i landet og dermed initiere saker knyttet til
-bort- og utvisninger. I hovedsak ligger dette
-ansvaret til det enkelte politidistrikt, men PU har
-også adgang til å gjennomføre – og gjennomfører
-jevnlig – slike kontroller. Selv om hovedansvaret
-ligger til politidistriktene, argumenterer PU for at
-dette er nødvendig fordi flere distrikter mangler
-kapasitet, eller fordi lokalt ordenspoliti ofte ikke
-er bevisst utlendingssporet.40 Flere politimestre
-36
-37
-38
-
-34
-
-E-post fra Trygg Trafikk til sekretariatet januar 2017.
-35
-Samtale med Vegvesenet 3. november 2017.
-
-47
-
-Kapittel 5
-
-39
-40
-
-Samtale med PU 20. september 2016.
-NOU 2013: 9, s. 139.
-PUs høringssvar til POD 2013/00435-2 008.
-Prop. 61 LS (2014–2015) Endringer i politiloven mv., s. 46.
-Samtale med PU 20. september 2016.
-
-[Side 48]
-
-48
-
-NOU 2017: 11
-
-Kapittel 5
-
-Bedre bistand. Bedre beredskap
-
-argumenterer på sin side med eksempler fra ulike
-politidistrikt der PU under gjennomføring av territorialkontroll har brukt metoder og tilnærminger
-som etter deres mening har vist seg mindre
-egnet. Dette kan ha hatt en uheldig påvirkning på
-politiets arbeid med å bygge lokal tillit blant ulike
-miljøer, noe som er nødvendig både for forebygging og bekjempelse av flere typer kriminalitet.
-Samarbeidet med politidistriktene er særlig
-fremtredende i forbindelse med retur av personer
-uten lovlig opphold. Her oppgis det noe ulik praksis fra politimestrene, der politidistriktene enten
-alene eller i samarbeid med PU kan forestå pågripelse og transport til Politiets utlendingsinternat
-på Trandum. En stor utfordring med slike operasjoner er at en stor andel unndrar seg utsendelse
-etter avslag på opphold. PU oppgir at så mange
-som 40–50 prosent av asylsøkerne med avslag på
-opphold unndrar seg utsendelse, noe som utgjør
-50–80 personer ukentlig.41 Mange politimestre
-mener det høye antallet unndragelser og oppgavens art tilsier at PUs tilstedeværelse og
-bistand i slike saker viser en lite effektiv ressursbruk. Etter deres mening kan politidistriktene selv håndtere slike operasjoner, og dette vil
-samlet sett gi mer effektiv og fleksibel politikraft.
-Et sentralt politiarbeid på utlendingsfeltet er
-ID-arbeid. Som politiets kompetansesenter på
-identitet innenfor utlendingsfeltet yter PU bistand
-til politidistriktene i slike saker, blant annet i form
-av kontakt med andre lands myndigheter. I tillegg
-har PU sammen med Nasjonalt ID-senter (NID)
-nasjonal spisskompetanse i dokumentgransking. I
-utvalgets kompetansekartlegging oppgir tre av
-tolv politimestre at etterforskningskompetanse og
-erfaring på området «i mindre grad» er tilstrekkelig i politidistriktene, mens det er jevn fordeling
-mellom dem som oppgir at kompetanse og erfaring «i noen grad» og i «stor grad» er tilstrekkelig.
-Bare ett politidistrikt oppgir at kompetanse og
-erfaring på ID-arbeid i «svært stor grad» er ivaretatt. Her oppgir sju av tolv politimestre at nærpolitireformen i noen grad eller stor grad forventes å
-redusere behovet for bistand, mens tre mener
-bistandsbehovet «i mindre grad» vil bli endret. De
-øvrige forventer i liten eller «svært liten grad»
-endret bistandsbehov. Det er her som på andre
-områder et klart skille mellom de større og de
-mindre politidistriktene.
-Selv om de fleste politimestrene oppgir at PU
-yter god faglig bistand i utlendingssaker, er det
-ulike oppfatninger av samarbeid og bistand lokalt.
-Øst politidistrikt har i flere tilfeller mottatt bistand
-41
-
-Samtale med PU 20. september 2016.
-
-ved grenseovergangen ved Svinesund, og det
-fremgår at dette ofte er mer å regne som en hospiteringsløsning der lokale politimannskaper driver
-opplæring av PU-ansatte.
-Andre politidistrikt har mer positive erfaringer
-og opplever å få nødvendig bistand ved behov.
-Flere politimestre stiller imidlertid spørsmål ved
-om totalansvarsprinsippet burde vært tydeligere
-presisert også på dette området.
-
-5.4
-
-Digitalt politiarbeid og IKTkriminalitet
-
-De siste tiårenes raske teknologiske utvikling har
-ført til økende digitalisering av viktige samfunnsområder. Dette har gitt både den enkelte og samfunnet store muligheter og gevinster, men også
-utfordringer og økt sårbarhet.
-Dette ble slått fast av Seip-utvalget allerede i
-1986, og senere av både Sårbarhetsutvalget i år
-2000, og Infrastrukturutvalget i 2006.
-Det moderne samfunn er i stor grad avhengig
-av IKT for å fungere på mange områder. Samtidig
-er den teknologiske utviklingstakten raskere enn
-metodeutvikling, organisasjonsutvikling og lovutvikling. Konsekvensen er at samfunnets økende
-bruk og avhengighet av digitale verktøy og
-systemer har forsterket både skadepotensiale og
-sårbarhet for svikt i systemene.
-Etter politiloven og tilhørende forskrifter har
-politiet i oppgave å forebygge og motvirke kriminalitet, og regelverket gjør som utgangspunkt
-ikke et skille mellom den fysiske og digitale verden. Utvalget har derfor lagt til grunn at politiet
-har samme roller og ansvar i det digitale rom som
-for våre fysiske verdier. Politiet er blant annet
-ansvarlig for å opprettholde den alminnelige
-orden, forebygge og forhindre straffbare
-handlinger, etterforske lovbrudd, beskytte borgerne og deres lovlydige virksomhet, ivareta
-publikums trygghet og beskytte kritiske samfunnsfunksjoner og kritisk infrastruktur mot uønskede hendelser. I tillegg er politiet en vesentlig
-aktør i det sivile samfunnets beredskap. 42
-
-5.4.1
-
-Om IKT-kriminalitet
-
-IKT-kriminalitet er IKT-relaterte handlinger og
-hendelser som er kriminalisert etter norsk lov, og
-dekker som utgangspunkt to typer kriminalitet:
-42
-
-Justis- og beredskapsdepartementet og Forsvarsdepartementet (2015): Støtte og samarbeid: en beskrivelse av totalforsvaret i dag
-
-[Side 49]
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-kriminalitet som retter seg mot datasystemer, eller
-kriminalitet der sentrale deler av hendelsesforløpet skjer ved hjelp av datasystemer, utstyr eller
-nettverk.
-Eksempler på IKT-kriminalitet kan være dataangrep, identitetstyveri, ulovlig avlytting eller
-avlesning av data, nettbankbedrageri, spredning
-av overgrepsmateriale eller ulovlig omsetning av
-narkotika og andre illegale produkter på internett.
-Kriminalitet ved hjelp av datasystemer omfatter blant annet nettsvindel, netthets og overgrep
-mot barn, samt spredning av bilder uten samtykke. Dette er en type kriminalitet som fordrer
-gode muligheter til å avdekke informasjon og
-kunnskap som allerede er tilgjengelig på nett.
-Kripos har her et miljø som på mange områder er
-langt fremme, også i europeisk målestokk. Samtidig har flere politidistrikter økt fokus på området,
-eksempelvis gjennom «Dark room»-saken i Vest
-politidistrikt, som nevnt tidligere.
-Den andre typen IKT-kriminalitet, rettet mot
-IT-systemer og nettverk, er mer omfattende og
-krever god kompetanse og en stor grad av internasjonal samhandling. Dette er en stedsløs kriminalitet der sporene ofte kan være vanskelig å
-finne. Datainnbrudd, hacking og spredning av
-ondsinnet programvare, såkalt malware og
-ransomware er typiske eksempler. Dette er en
-type kriminalitet som krever stor grad av samarbeid, og selv om Kripos har en nasjonal spisskompetanse på området oppgir flere politiledere samt
-(NSM) at den nasjonale koordinering og kompetansebygging på området ikke er god nok. Nevnte
-mørketall og tilbakeholdenhet blant mange selskaper for å rapportere om slike hendelser er
-også et tydelig signal om at tilliten til politiets evne
-til å løse slike saker ikke er god nok.
-Det er mange typer gjerningspersoner som
-står bak IKT-kriminalitet, fra tenåringer på gutterommet, til organiserte multikriminelle miljøer, i
-tillegg til en økende tendens til bruk av profesjonelle medhjelpere.
-Et typisk trekk ved IKT-kriminalitet er at den
-kan være uten konkret gjerningssted og/eller
-være grenseoverskridende. Det vil si at de kriminelle kan oppholde seg i ett land, men bruker programvare som er plassert i et annet land for å
-begå den kriminelle handlingen i et tredje land. Et
-annet typisk trekk er at det er mulig å angripe
-mange mål samtidig, ofte med lav oppdagelsesrisiko.
-Den internasjonale dimensjonen reiser behov
-for tettere samarbeid, men avdekker også utfordringer med å harmonisere internasjonalt regelverk og tilpasse ulikheter i lovgivning slik at det er
-
-49
-
-Kapittel 5
-
-Boks 5.1 Hva er IKT-kriminalitet?
-Det er ikke én entydig internasjonal definisjon
-på datakriminalitet, cyberkriminalitet eller
-IKT-kriminalitet. Ofte sidestilles begrepene
-datakriminalitet, cyberkriminalitet, kriminalitet i det digitale rom og IKT-kriminalitet. En
-vanlig definisjon på IKT-kriminalitet er:
-– Kriminalitet rettet mot datasystemer
-– Kriminalitet ved hjelp av datasystemer
-
-mulig å opprettholde en effektiv kriminalitetsbekjempelse og straffeforfølgning.
-Regjeringen er opptatt av å styrke nasjonal
-evne til å avdekke og håndtere digitale angrep.
-Dette innebærer blant annet å gjøre politiet bedre
-i stand til å bekjempe alvorlig og kompleks kriminalitet i det digitale rom. Dette krever en målsetning om at de som utøver IKT-kriminalitet ikke
-skal kunne forberede eller gjennomføre kriminelle handlinger uten betydelig risiko for å bli oppdaget og straffeforfulgt.
-I tillegg til denne definerte IKT-kriminaliteten
-er innslag av teknologi og digitale spor fremtredende på stadig flere kriminalitetsområder.
-Digitale, eller elektroniske spor inngår nå i
-bevisførselen i nærmest enhver straffesak. Innenfor bruk av elektroniske spor har det skjedd en
-stor utvikling de siste årene. Som flere politiledere
-påpeker i samtale med utvalget var det bare for få
-år siden nødvendig for mange politidistrikt å
-sende beslaglagte mobiltelefoner til Kripos for å
-hente ut elektroniske spor, men nå kan nærmest
-hver eneste politistasjon og lensmannskontor
-gjøre dette selv.
-I utvalgets kompetansekartlegging svarer
-også ni av tolv politimestre at de i «noe grad» eller
-«stor grad» mener å ha tilstrekkelig etterforskningskompetanse og erfaring innen sikring av
-elektroniske spor, men samtidig oppgir bare halvparten at nærpolitireformen i «stor grad» eller
-«svært stor grad» forventes å redusere behov for
-bistand til sikring av elektroniske spor. De øvrige
-mener behovet i mindre eller ingen grad vil bli
-endret. Gjennom samtaler med politimestrene blir
-det bekreftet at den teknologiske endringstakten
-er så stor at flere politidistrikt opplever det som
-vanskelig å holde kompetanse ved like. Flere forventer derfor at bistandsbehovet fremover vil øke
-fordi nødvendig kompetanse er en begrenset ressurs.
-
-[Side 50]
-
-50
-
-Kapittel 5
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-Dette kommer også til uttrykk på spørsmål om
-nærpolitireformen vil medføre redusert bistandsbehov innenfor IKT-kriminalitet generelt, det vil si
-både kriminalitet ved hjelp av datasystemer, og
-kriminalitet rettet mot datasystemer. Her forventer halvparten av politimesterne at nærpolitireformen vil ha liten eller ingen betydning for bistandsbehovet, mens den andre halvparten forventer
-noe reduksjon. Her går det et tydelig skille mellom de største og de minste politidistriktene.
-For de mer spesifiserte former for IKT-kriminalitet er bildet mer variert. Innen radikalisering
-og ekstremisme på nett oppgir halvparten at politidistriktet «i noen grad» eller «stor grad» har tilstrekkelig etterforskningskompetanse og erfaring. I den andre enden av skalaen oppgir en tredjedel at politidistriktet i «liten grad» eller «svært
-liten grad» har tilstrekkelig kompetanse og erfaring, mens de øvrige oppgir i «mindre grad» å ha
-dette.
-Innenfor området digital valuta oppgir derimot
-syv av tolv at de forventer uendret eller økt
-bistandsbehov. På spørsmål om de forventer redusert bistand som følge av nærpolitireformen er en
-tredjedel «svært uenig», mens en tredjedel er
-«noe enig» eller «enig».
-I det omfang at industri- og andre former for
-spionasje gjør bruk av datasystemer er tilbakemeldingene enda tydeligere. På spørsmål om politimestrene forventer redusert bistand som følge av
-nærpolitireformen er fem av tolv «svært uenig»,
-mens ytterligere fire er «uenig» eller «noe uenig».
-De øvrige tre synes å forvente noe redusert
-bistandsbehov. Inntrykket bekreftes både gjennom samtaler med politimestrene og med faginstanser som NSM, samt gjennom Mørketallsundersøkelsene fra Næringslivets sikkerhetsråd.
-
-5.4.2 Utfordringer
-Norge er et åpent samfunn, med betydelig tillit
-mellom individer, institusjoner, næringsliv og det
-offentlige. Samtidig er Norge blant de mest digitaliserte landene i verden og verdiskaping, demokrati og velferd er i dag avhengig av verdikjeder
-som spenner over flere sektorer og land. Kompleksiteten er stor og kriminaliteten har for lengst
-flyttet inn i det digitale rom. Dette utfordrer tradisjonelle kriminalitetsbilder med en økende og
-uforutsigbar digital trussel, noe også politiets
-omverdensanalyse (2015) påpeker. Bruken av teknologi gir flere spor for politiet enn tidligere, og
-myndighetene i mange land står ovenfor nye
-utfordringer og nye muligheter.
-
-I politiets omverdensanalyse fra 2015 pekes
-det videre på at raskt tempo i teknologiutviklingen
-gjør at politiet hele tiden utfordres. Utviklingen
-stiller nye krav til politiets oppgaveløsning, både i
-form av mer spisset kompetanse og til ny teknologi.
-Gjerningspersoners bruk av digitale verktøy
-utgjør en stadig større del av de fleste kriminalsaker,43 selv om slike verktøy ikke utgjør kjernen i
-den kriminelle handlingen. Digitalt politiarbeid og
-søk etter elektroniske spor er blitt en integrert del
-av etterforskningen på de fleste områder, og
-mange sakstyper kan inneholde elementer av
-eksempelvis hacking, datainnbrudd, phishing
-(svindel med fiktive e-poster), tyveri av elektronisk informasjon og skjult digital kommunikasjon.
-Digital teknologi blir også brukt som verktøy i
-mer tradisjonell kriminalitet, som:
-– Økonomisk kriminalitet og svindel
-– ID-misbruk og ID-tyveri
-– Ulovlig innvandring
-– Seksuelt misbruk og overgrep mot barn
-– Narkotikakriminalitet
-– Organisert kriminalitet
-– Hatkriminalitet, radikalisering og voldelig
-ekstremisme
-– Terrorplanlegging
-Trusler rettet mot IKT-systemer i ulike virksomheter har økt i omfang de siste årene. Dette omfatter særlig ulike former for datainnbrudd, hacking
-og spionasje som ledd i profitt-basert kriminalitet.
-Gjennom blant annet identitetstyveri og planting
-av skadelig programvare forsøker organiserte kriminelle grupper å innhente personinformasjon
-som kan bli brukt til kriminelle handlinger.
-Riksadvokaten44 peker på at IKT-kriminalitet
-er et voksende område for såkalt åstedsløs kriminalitet og understreker at mange har undervurdert omfanget og utviklingen av kriminaliteten på
-det digitale området. Denne kriminaliteten påfører samfunnet årlig store kostnader, men er også
-et svært ressurskrevende område. Gjennom sine
-årlige rundskriv har Riksadvokaten de siste årene
-løftet dette frem som et prioritert område.
-I det digitale rom kan gjerningspersonen ofte
-være vanskelig å avdekke fordi det er få direkte
-digitale spor. I mange tilfeller kan det også være
-utfordrende å fastslå om det faktisk har skjedd en
-straffbar handling, ikke bare fordi regelverket
-43
-44
-
-Justis- og beredskapsdepartementets strategi for IKT-krim
-(2013).
-Samtale med Riksadvokaten 16. sept. 2016. Se også Rundskriv 1/2017.
-
-[Side 51]
-
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
-
-Boks 5.2 Overfører millioner til
-svindlere – Direktør svindel
-Nettsvindel av toppledere har økt kraftig i
-Norge i 2015, og Oslo politidistrikt etterforsket i 2016 en sak hvor en bedrift anmeldte en
-såkalt direktør-svindel (eng. CEO fraud).
-Svindlerne manipulerte finansdirektøren til å
-overføre over 500 millioner kroner til utlandet.
-Til sammenligning var tapet i NOKAS-ranet på
-50 millioner kroner. NOKAS-ranet hadde også
-et brutalt drap og svært mange mennesker
-som ble utsatt for grove trusler med våpen,
-men sammenlikningen er ment illustrativt ut
-fra pengetapene i de to sakene. Den totale verdien av midler som i 2016 ble forsøkt digitalt
-direktør-svindlet i Norge antas å være over 1
-milliard kroner. FBI rapporterer at det er over
-17500 ofre globalt innenfor direktør-svindel.
-Det kreves rask håndtering av bankene, og
-utstrakt internasjonalt politisamarbeid for å
-møte denne type kriminalitet.
-
-ikke holder takt med kriminalitetsutviklingen,
-men også fordi det digitale rom reiser nye spørsmål om rekkevidden for politiets jurisdiksjon. I
-mange tilfeller blir kriminelle handlinger utført av
-personer, eller ved hjelp av systemer utenfor Norges grenser. Etterforskningen er derfor tid- og
-ressurskrevende og krever ofte tettere internasjonalt politisamarbeid.
-Dette medfører at den raske teknologiutviklingen kombinert med økning i IKT-kriminalitet
-både i volum og kompleksitet har gitt politiet store
-kapasitetsutfordringer.
-Mørketallsundersøkelsen (2016) viser at kun 9
-prosent av virksomhetene som utsettes for cyberangrep tar saken videre til politiet. Det er grunn
-til å tro at bak dette skjuler det seg betydelige
-mørketall, og for de kriminelle nettverk er denne
-typen angrep mot norske virksomheter i praksis
-ofte straffefrie45.
-Flere utredninger46 peker på eksempler der
-både offentlige og private virksomheter blir utsatt
-for IKT-kriminalitet, men ressurs- og kompetansemangel gjør det vanskelig å få nødvendig bistand
-fra politiet. Av den grunn bruker særlig flere pri45
-
-Næringslivets Sikkerhetsråd (2016): Mørketallsundersøkelsen 2016.
-46
-NOU 2015: 13, PODs Datakrimstrategi, NSR Mørketallsundersøkelsen.
-
-51
-
-Kapittel 5
-
-vate virksomheter mye ressurser på å gjennomføre egne utredninger. En særlig utfordring i forlengelsen av dette er ifølge Riksadvokaten at et
-økende antall private virksomheter ønsker en
-«nødbrems» for å avslutte etterforskning av saker
-dersom den tar en uønsket vending. Eksempelvis
-vil anmeldelse av datainnbrudd for mange virksomheter være børssensitiv informasjon som krever kunngjøring. Enkelte virksomheter vil av
-samme grunn også velge å la være å anmelde
-slike saker.47
-Direktør-svindel er tradisjonell kriminalitet
-begått ved bruk av digitale hjelpemidler som epost og telefon via fastnett og mobilnett. Det som
-endrer seg i disse svindelforholdene er metoden
-for å nå målet og nesten samtlige sporkilder er
-digitale. Med unntak av avhørene av økonomiansvarlig er det ingen «analoge» etterforskningsmetoder som fører fram. Politiet må spore IP-adresser og teletrafikk, undersøke beslaglagte data
-samt samarbeide tett med politi i andre land for å
-komme videre i saken.
-Politiet har erfart at det er nødvendig å
-benytte digitale sporkilder i straffesaksarbeidet,
-uansett type kriminalitet. Politiet ser at selv mindre alvorlige saker kan innebære kompleksitet i
-sporing av gjerningsmannen der etterforskingskrittene er digitale. I saker uten tradisjonelle etterforskingsskritt vil sakene ofte tape prioritet hvis
-de digitale etterforskningsskritt er krevende. De
-mest krevende forholdene er der hvor saken er
-alvorlig, med en komplisert og kompleks digital
-etterforskningsarena. I disse tilfellene vil det stilles store krav til samhandling mellom den taktiske
-og den tekniske etterforskning for å lykkes i å få
-et fullstendig bilde av hendelsesforløpet som
-etterforskes. Behovet for å analysere og systematisere informasjonen i disse store datamengdene
-er en stor utfordring for politiet i svært mange
-etterforskninger. Den taktiske betydningen av
-den digitale informasjonen har stadig større
-betydning, og krever digital kompetanse i hele
-straffesakskjeden, samt spesialister til å analyser
-store datamengder og gode IT-verktøy. Samspillet
-mellom den taktiske og den tekniske etterforskningen er derfor viktig også her.
-IKT-kriminalitet kan også være lokalt forankret. Politiet etterforsket nylig en sak der et medlem av et politisk parti brøt seg inn i serveren til to
-andre politiske partier og benyttet anledningen til
-å sende ut SMS og e-post med politisk innhold
-som samsvarte med det politiske synet til den
-som brøt seg inn. I dette tilfellet hadde personen
-47
-
-Samtale med Riksadvokaten 16.09.16.
-
-[Side 52]
-
-52
-
-NOU 2017: 11
-
-Kapittel 5
-
-Bedre bistand. Bedre beredskap
-
-gjort en dårlig jobb med å skjule sporene, og vedkommende ble raskt pågrepet av politiet. Dette
-var lokalt forankret IKT-kriminalitet som ikke var
-komplisert å etterforske.48
-En sammenligning av kriminalitet innen narkotikahandel og IKT-kriminalitet, viste allerede i
-2011 at det globale økonomiske tapet innenfor
-IKT-kriminalitet var langt større enn for narkotikahandel.
-Hendelser i det digitale rom kan ha negative
-konsekvenser uten at det ligger kriminelle
-handlinger eller unnlatelser bak. Politiets oppmerksomhet vil likevel ofte være nødvendig av
-flere grunner; for å avdekke om det foreligger
-straffbare forhold, for å forebygge eller fordi politiets tilstedeværelse på nett er viktig ved eksempelvis samfunnsmessige ulykker.
-Politiets forebygging øker oppdagelsesrisikoen og styrker evnen til å etterforske og forfølge
-straffbare handlinger. Dette er viktige virkemidler
-for å redusere IKT-kriminalitet, enten den retter
-seg mot enkeltpersoner, næringsliv, offentlige
-myndigheter eller viktige samfunnsinstitusjoner
-og -funksjoner.49 Mange alvorlige angrep blir ikke
-oppdaget og en rekke saker blir ikke anmeldt.
-Dette gjelder både privatpersoner og virksomhe-
-
-Boks 5.3 IKT-sikkerhet
-Sikring av informasjons- og kommunikasjonsteknologi med hensyn til konfidensialitet, integritet og tilgjengelighet. Dette innebærer tiltak på teknisk og organisatorisk nivå. Enhver
-virksomhet og person har eget ansvar for IKTsikkerhet.
-
-Boks 5.4 Elektroniske spor og
-datatekniske undersøkelser
-Informasjon i elektronisk form som kan knyttes til en bruker, person, elektronisk enhet,
-sted eller hendelse. De elektroniske sporene
-inkluderer avlesning og analyse av for eksempel mobiltelefon og PC, innhenting og analyse
-av spor f eks fra Facebook og chat.
-
-Boks 5.5 Politiarbeid på internett
 Etterforskning, forebyggende arbeid og etterretning basert på informasjon fra internett.
 
-ter. Mange slike saker dreier seg om ulike former
-for identitetstyveri. Det anslås at det årlig blir
-gjennomført ca 60 000 ID-tyverier i Norge, men
-bare en brøkdel50 blir anmeldt, ofte fordi offeret
-gjerne opplever det som flaut, selv om det kan
-dreie seg om betydelige tap.51
+**<u>\[Boks slutt\]</u>**
 
-5.4.3
+Politiets forebygging øker oppdagelsesrisikoen og styrker evnen til å etterforske og forfølge straffbare handlinger. Dette er viktige virkemidler for å redusere IKT-kriminalitet, enten den retter seg mot enkeltpersoner, næringsliv, offentlige myndigheter eller viktige samfunnsinstitusjoner og -funksjoner.[^70] Mange alvorlige angrep blir ikke oppdaget og en rekke saker blir ikke anmeldt. Dette gjelder både privatpersoner og virksomheter. Mange slike saker dreier seg om ulike former for identitetstyveri. Det anslås at det årlig blir gjennomført ca 60 000 ID-tyverier i Norge, men bare en brøkdel[^71] blir anmeldt, ofte fordi offeret gjerne opplever det som flaut, selv om det kan dreie seg om betydelige tap.[^72]
 
-Politiets innsats for å bekjempe
-IKT-kriminalitet
-Regjeringen har som mål at Norges innsats mot
-IKT-kriminalitet skal være blant de ledende i
-Europa.52 Dette innebærer at politiets forebygging og innsatsevne skal sikre at de som utøver
-IKT-kriminalitet ikke kan forberede eller gjennomføre kriminelle handlinger uten betydelig
-risiko for å bli oppdaget og straffeforfulgt.
-Politiet har et hovedansvar for innsatsen mot
-IKT-kriminalitet i Norge, men en rekke offentlige
-etater har også et ansvar og en rolle i dette arbeidet. Internasjonalt samarbeider politiet og offentlige virksomheter med tilsvarende organ i andre
-land, der de viktigste aktørene er Europol, Eurojust og Interpol, samt enkeltlandenes egne
-responsmiljøer, ofte omtalt som CERT (Computer
-Emergency Response Team). I Norge er det
-nasjonale responsmiljøet NorCERT i Nasjonal sikkerhetsmyndighet (NSM).
-Politiets innsats blir ledet og samordnet av
-Politidirektoratet (POD), men operativt blir ansvaret ivaretatt i det enkelte politidistrikt. Flere av
-politiets særorganer har også viktige roller, ved
-siden av blant annet PST, påtalemyndigheten og
-NSM.
-På europeisk nivå er IKT-kriminalitet ett av de
-ni prioriterte kriminalitetsområdene. I følge Europol har europeiske innbygger i dag større sannsynlighet for å bli ofre for IKT-kriminalitet enn
-49
+1.  **<u>Politiets innsats for </u><u>å</u><u> bekjempe IKT-kriminalitet</u>**
 
-50
-51
-48
+Regjeringen har som mål at Norges innsats mot IKT-kriminalitet skal være blant de ledende i Europa.[^73] Dette innebærer at politiets forebygging og innsatsevne skal sikre at de som utøver IKT-kriminalitet ikke kan forberede eller gjennomføre kriminelle handlinger uten betydelig risiko for å bli oppdaget og straffeforfulgt.
 
-Aftenposten (2016) «Ung Oslo-mann har tilstått hacking av
-SV og Miljøpartiet de Grønne», 17. august, 2016.
+Politiet har et hovedansvar for innsatsen mot IKT-kriminalitet i Norge, men en rekke offentlige etater har også et ansvar og en rolle i dette arbeidet. Internasjonalt samarbeider politiet og offentlige virksomheter med tilsvarende organ i andre land, der de viktigste aktørene er Europol, Eurojust og Interpol, samt enkeltlandenes egne responsmiljøer, ofte omtalt som CERT (Computer Emergency Response Team). I Norge er det nasjonale responsmiljøet NorCERT i Nasjonal sikkerhetsmyndighet (NSM).
 
-52
+Politiets innsats blir ledet og samordnet av Politidirektoratet (POD), men operativt blir ansvaret ivaretatt i det enkelte politidistrikt. Flere av politiets særorganer har også viktige roller, ved siden av blant annet PST, påtalemyndigheten og NSM.
 
-Se bl.a. Politiets strategi for informasjonssikkerhet 2014–
-2018, Nasjonal strategi for informasjonssikkerhet (2012)
-og Handlingsplan for forebygging av kriminalitet 2013–
-2016.
-Politiets innbyggerundersøkelse 2016.
-Se bl.a. Mørketallsundersøkelsen (2016).
-Justis- og beredskapsdepartementets strategi for å
-bekjempe IKT-kriminalitet (2015).
+På europeisk nivå er IKT-kriminalitet ett av de ni prioriterte kriminalitetsområdene. I følge Europol har europeiske innbygger i dag større sannsynlighet for å bli ofre for IKT-kriminalitet enn konvensjonell kriminalitet. Med et krevende trusselbilde internasjonalt er kriminelle aktører raske til å ta i bruk ny teknologi og organisere seg tverrfaglig for å gå under radaren til politiet.[^74] I Europols Internet Organized Crime Threat Assessment (IOCTA) for 2016 rapporteres en vedvarende og økende akselerasjon av sikkerhetstrusler. Nettkriminaliteten er preget av et økt volum, omfang og økonomiske skader kombinert med asymmetrisk risiko. Kriminalitetsbildet har nådd et slikt nivå at IKT-kriminalitet i enkelte EU-land kan ha passert tradisjonell kriminalitet i form av antall anmeldelser. Mer aggresiv nettkriminalitet slik som ransomware, har i stor grad overtatt for tradisjonelle malware-trusler rettet mot banktjenester slik som trojanere. Det massive verdensomspennende dataangrepet i mai 2017 er bare det seneste eksempel på mulig skadeomfang.[^75]
 
-[Side 53]
+Nye og innovative modus operandi preger det internasjonale kriminalitetsbildet i tillegg til videreutvikling av bruken av kryptografi og anonymiseringstjenester som darknet og deepweb.
 
-NOU 2017: 11
-Bedre bistand. Bedre beredskap
+Det er vanskelig å få en helhetlig oversikt over kriminalitetsutviklingen på IKT-feltet. Store mørketall og manglende kunnskaps- og analysegrunnlag gjør det krevende å tegne et dekkende situasjonsbilde og finne utviklingstrekk som kan bidra til effektiv og målrettet innsats for å forebygge, avverge, avdekke, etterforske og straffeforfølge IKT-kriminalitet.[^76] *Etterretningsdoktrinen for politiet* beskriver særorganens etterretningsansvar og at det skal produseres etterretning om kriminalitet, personer, grupper og fenomener.[^77] I tillegg er POD gitt i oppdrag å utarbeide årlige trusselvurderinger for IKT-kriminalitet.
 
-konvensjonell kriminalitet. Med et krevende trusselbilde internasjonalt er kriminelle aktører raske
-til å ta i bruk ny teknologi og organisere seg tverrfaglig for å gå under radaren til politiet.53 I Europols Internet Organized Crime Threat Assessment (IOCTA) for 2016 rapporteres en vedvarende og økende akselerasjon av sikkerhetstrusler. Nettkriminaliteten er preget av et økt volum,
-omfang og økonomiske skader kombinert med
-asymmetrisk risiko. Kriminalitetsbildet har nådd
-et slikt nivå at IKT-kriminalitet i enkelte EU-land
-kan ha passert tradisjonell kriminalitet i form av
-antall anmeldelser. Mer aggresiv nettkriminalitet
-slik som ransomware, har i stor grad overtatt for
-tradisjonelle malware-trusler rettet mot banktjenester slik som trojanere. Det massive verdensomspennende dataangrepet i mai 2017 er bare det
-seneste eksempel på mulig skadeomfang.54
-Nye og innovative modus operandi preger det
-internasjonale kriminalitetsbildet i tillegg til videreutvikling av bruken av kryptografi og anonymiseringstjenester som darknet og deepweb.
-Det er vanskelig å få en helhetlig oversikt over
-kriminalitetsutviklingen på IKT-feltet. Store mørketall og manglende kunnskaps- og analysegrunnlag gjør det krevende å tegne et dekkende situasjonsbilde og finne utviklingstrekk som kan bidra
-til effektiv og målrettet innsats for å forebygge,
-avverge, avdekke, etterforske og straffeforfølge
-IKT-kriminalitet.55 Etterretningsdoktrinen for politiet beskriver særorganens etterretningsansvar og
-at det skal produseres etterretning om kriminalitet, personer, grupper og fenomener.56 I tillegg er
-POD gitt i oppdrag å utarbeide årlige trusselvurderinger for IKT-kriminalitet.
+1.  **<u>Tiltak</u>**
 
-5.4.4
+Justis- og beredskapsdepartementet har i en egen strategi identifisert flere viktige utfordringer i bekjempelsen av IKT-kriminalitet, uavhengig av om det er angrep rettet mot datasystemer, eller om IKT er brukt som verktøy for å gjennomføre annen kriminalitet.[^78]
 
-Tiltak
+Flere politiledere peker i tillegg på at for å gjøre politiet i stand til å møte utviklingen innenfor IKT-kriminalitet er det først og fremst behov for et kompetanseløft. Som blant annet Lysne-utvalget[^79] pekte på er det nødvendig å:
 
-Justis- og beredskapsdepartementet har i en egen
-strategi identifisert flere viktige utfordringer i
-bekjempelsen av IKT-kriminalitet, uavhengig av
-om det er angrep rettet mot datasystemer, eller
-om IKT er brukt som verktøy for å gjennomføre
-annen kriminalitet.57
-53
+- <u>Bygge opp et høykompetent fagmiljø innenfor politiet</u>
 
-Europol EC3s «The internet organised crime threat assessment (Iocta) 2016».
-54
-Aftenposten (2017), «Dataangrep:» - Jeg frykter at mandag
-kan bli en svært krevende dag for mange IT-avdelinger, 14.
-mai.
-55
-Viktige kildegrunnlag i dag er Mørketallsundersøkelsen,
-som årlig blir utgitt av Næringslivets sikkerhetsråd (NSR),
-og Helhetlig IKT-risikobilde, som årlig blir utgitt av NSM for
-å øke bevisstheten om IKT-sikkerhet.
-56 Politidirektoratet (2014): Etteretningsdoktrinen for politiet.
-57
-Justis- og beredskapsdepartementets strategi for bekjempelse av IKT-kriminalitet 2015.
+- <u>Styrke politidistriktenes grunnkompetanse og fagmiljøer</u>
 
-53
+- <u>Styrke kunnskap gjennom bedre utdanning i politiet</u>
 
-Kapittel 5
+**<u>Kompetansebygging</u>**
 
-Flere politiledere peker i tillegg på at for å
-gjøre politiet i stand til å møte utviklingen innenfor IKT-kriminalitet er det først og fremst behov
-for et kompetanseløft. Som blant annet Lysneutvalget58 pekte på er det nødvendig å:
-– Bygge opp et høykompetent fagmiljø innenfor
-politiet
-– Styrke politidistriktenes grunnkompetanse og
-fagmiljøer
-– Styrke kunnskap gjennom bedre utdanning i
-politiet
-Kompetansebygging
-Rask teknologisk utvikling øker behovet for bedre
-og mer spesialisert kompetanse og ferdigheter for
-å styrke politiets generelle etterforskningskompetanse innen IKT-kriminalitet, herunder behandle
-store mengder med elektroniske spor.
-Det er utfordrende å skaffe rett kompetanse
-og det er i dag ingen norsk utdanningsinstitusjon
-som dekker politiets krav og behov.59 Det er i tillegg et stort etterslep på analysebistand og sikring av elektroniske spor og liten kapasitet innenfor forebyggende aktivitet og etterretning på teknologiintensive områder. Konsekvensen er at politiets begrensede ressurser må benyttes på en
-mest mulig effektiv måte for å opprettholde en
-best mulig digital beredskap. I møte med ressurssterke og kompetente miljøer med sterke bindinger til organisert kriminalitet krever politiets innsats mer kunnskap og kompetanse, herunder
-flere generalister og spesialister.
-Et eksempel på den raske teknologiske utviklingen er innen analyse av elektroniske spor på
-mobiltelefon; i 2012 var dette ansett som en spesialkompetanse som krevde bistand fra Kripos-teknikere. Fem år senere er dette innarbeidede metoder ved de fleste politistasjoner ved alle landets
-politidistrikter.
-Det er store forskjeller på kompetansen i de
-ulike politidistriktene. Noen kan gjerne på enkeltområder ha en spisskompetanse på høyde med
-Kripos, mens andre kan ha stort bistandsbehov.
-Det er imidlertid bred enighet blant politimestrene om at det er nødvendig å drive mer målrettet strategisk kompetansebygging i distriktene.60
-Ettersom det digitale rom i stor grad er åstedsløst er det også vanskeligere å foreta pågripelser.
-58
-59
-60
+Rask teknologisk utvikling øker behovet for bedre og mer spesialisert kompetanse og ferdigheter for å styrke politiets generelle etterforskningskompetanse innen IKT-kriminalitet, herunder behandle store mengder med elektroniske spor.
 
-Forsvarsdepartementet (2016) Digitalt grenseforsvar –
-Lysne II-utvalget.
-Samtale med Nasjonal sikkerhetsmyndighet (NSM)
-8.11.2016.
-Samtale med politimestrene 23. november 2016.
+Det er utfordrende å skaffe rett kompetanse og det er i dag ingen norsk utdanningsinstitusjon som dekker politiets krav og behov.[^80] Det er i tillegg et stort etterslep på analysebistand og sikring av elektroniske spor og liten kapasitet innenfor forebyggende aktivitet og etterretning på teknologiintensive områder. Konsekvensen er at politiets begrensede ressurser må benyttes på en mest mulig effektiv måte for å opprettholde en best mulig digital beredskap. I møte med ressurssterke og kompetente miljøer med sterke bindinger til organisert kriminalitet krever politiets innsats mer kunnskap og kompetanse, herunder flere generalister og spesialister.
+
+Et eksempel på den raske teknologiske utviklingen er innen analyse av elektroniske spor på mobiltelefon; i 2012 var dette ansett som en spesialkompetanse som krevde bistand fra Kripos-teknikere. Fem år senere er dette innarbeidede metoder ved de fleste politistasjoner ved alle landets politidistrikter.
+
+Det er store forskjeller på kompetansen i de ulike politidistriktene. Noen kan gjerne på enkeltområder ha en spisskompetanse på høyde med Kripos, mens andre kan ha stort bistandsbehov. Det er imidlertid bred enighet blant politimestrene om at det er nødvendig å drive mer målrettet strategisk kompetansebygging i distriktene.[^81]
+
+Ettersom det digitale rom i stor grad er åstedsløst er det også vanskeligere å foreta pågripelser. Politiets forebyggende arbeid er derfor stadig viktigere, og dette stiller større krav til nødvendig kompetanse.
+
+Den digitale kompetanseutfordringen er også fremhevet i Påtaleanalysen fremlagt mars 2017, hvor det påpekes at: «IKT-utfordringene for både påtalemyndigheten i politiet og Den høyere påtalemyndighet synes særlig å være relatert til (…) kompetanse/kunnskap til å forstå og håndtere IKT-kriminalitet (…) og formidling/presentasjon av bevis i retten».[^82] Påtaleanalysen ser et klart behov for å øke påtalemyndighetens IKT-forståelse og kompetanse.
+
+Det er flere politiledere som påpeker at IKT-kompetanse i politidistriktene er mangelfull. Digital kompetanse må komme alle politidistrikt til gode, i form av kunnskap, ferdigheter og økt kvalitet, samt nødvendig utstyr. Enkelte gir også uttrykk for at det arbeidsintensive målet om to polititjenestemenn per 1000 innbyggere i særlig grad kan slå uheldig ut på dette området, der behovet snarere er riktig kompetanse og ny teknologi, og ikke antall hoder.
+
+I tillegg påpeker flere politiledere at dagens politiutdanning i for liten grad er dimensjonert for dette kompetansebehovet. Digital kompetanse i politiet må bygges i alle politidistrikt for å gi bedre og mer spesialisert kompetanse, ferdigheter og økt kvalitet på politiarbeidet. Dette er nødvendig for å oppnå målsetningen om et digitalt politiarbeid som ivaretar en bred, effektiv og hensiktsmessig bruk av digital informasjon og elektroniske spor i politiarbeidet, herunder etterretning, operativt politiarbeid, forebygging, etterforskning og straffeforfølgning. Bedre utnyttelse av teknologi og elektroniske spor vil dermed sikre at flere straffesaker kan etterforskes raskt, og med god kvalitet i bevissikring, analyse og metodebruk. Dette er også i tråd med nærpolitireformens forutsetninger.
+
+Mangelfull IKT-kompetanse i politiet er ikke først og fremst et spørsmål om Politihøgskolens fagplaner, utdanningsprogram eller fagressurser, men en erkjennelse av at nødvendig kompetanse er å finne ved andre læresteder. Det kan etter Politiledernes mening ikke være Politihøgskolens oppgave å bygge opp spesialisert fagkompetanse når forutsetningene er vesentlig bedre ved andre læresteder som PHS kan samarbeide med.
+
+Det er likevel nødvendig å heve politiutdanningen ved PHS på dette området, og dette inngår som ett av målene i JDs strategi for bekjempelse av IKT-kriminalitet.
+
+Et slikt kompetanseløft forutsetter både utvidet tilbud på grunnutdanning, samt etter- og videreutdanning, og en større innsats innen forskning og utvikling. Her bør Politihøgskolen innta en mer sentral rolle.
+
+Ved Politihøgskolen er undervisning i digitalt politiarbeid fra høsten 2015 blitt en del av den obligatoriske grunnutdanningen. Hensikten er å gi politistudentene grunnleggende forståelse for sikring av digitale spor fra datautstyr, over internett og fra mobiltelefoner.
+
+Politidirektoratet har i 2016 utarbeidet en forskningsstrategi for å forebygge og bekjempe IKT-kriminalitet samt en plan for å styrke etterforskningskapasiteten. Politidirektoratet har videre utarbeidet en strategi for digital kompetanseheving i politiutdanningen. Strategien omfatter både grunnutdanningen og etter- og videreutdanningen og tar utgangspunkt i arbeidet som er gjort ved Politihøgskolen.
+
+**<u>Teknologiutvikling</u>**
+
+Digitale utfordringer medfører økt behov for tverrfaglig kompetanse i politidistriktene, herunder antall sivilt ansatte. Flere politiledere etterlyser i tillegg nødvendige investeringer i IKT-utstyr og infrastruktur.
+
+Lysne-utvalget[^83] påpekte at IKT-situasjonen i politiet er kritisk, og at det er behov for langsiktige og omfattende løft for bedre stabilitet i grunnleggende infrastruktur og sikkerhet i applikasjoner og tjenester. I tillegg ble det påpekt behov for å etablere felles nasjonale løsninger som erstatning for ulike lokale løsninger.
+
+Effektiv innsats mot IKT-kriminalitet forutsetter at politiet har nødvendig teknisk utstyr og programvare, men teknologisk utviklingstakt krever stadig raskere utskifting av utstyr. Stramme budsjetter har imidlertid skapt et gap mellom politiets behov og beholdning. På denne bakgrunn har POD kartlagt politiets behov for investeringer i teknisk utstyr og programvare. Dette omfatter bruk av teknologiske løsninger som har som mål å:
+
+- <u>legge til rette for bedre info og dialog mellom innbyggere og myndigheter,</u>
+
+- <u>øke politiets tilstedeværelse på internett,</u>
+
+- <u>øke politiets beredskap for å håndtere alvorlige hendelser,</u>
+
+- <u>øke politiets evne til å sikre og analysere digitale spor,</u>
+
+- <u>øke innsatsen innen etterretning og analyse</u>
+
+- <u>øke kvaliteten og effektiviteten i straffesaksarbeidet.</u>
+
+Konklusjonen er at dette er tiltak som krever store investeringer, men det er per nå ikke gitt nødvendige midler til dette.
+
+1.  **<u>Sentrale akt</u><u>ø</u><u>rer i bekjempelsen av IKT-kriminalitet</u>**
+
+Det er flere sentrale aktører i bekjempelse av IKT-kriminalitet. Sikkerhetsleverandører, frivillige organisasjoner og teletilbydere bidrar til å forebygge og avdekke IKT-kriminalitet. Innenfor det offentlige er det, i tillegg til politidistriktene, flere aktører om beskrives under.
+
+*Kripos* utfører datakrimetterforskning, metodeutvikling innen datatekniske undersøkelser og bidrar internasjonalt med utvikling av arbeidsmetodikk samt hardware og software til bruk i kriminalitetsbekjempelse. Kripos er også nasjonalt kontaktpunkt for Interpol og Europol sine kompetansesentre for bekjempelse av IKT-kriminalitet.
+
+*Økokrim* har som nasjonalt kompetansesenter for bekjempelse av økonomisk kriminalitet og miljøkriminalitet en rekke saker der digitale verktøy og spor er en integrert og viktig del. Datakriminalitet var i utgangspunktet en spesiell type økonomisk kriminalitet som ledet på 1990-tallet til at ansvar for etterforskning og straffeforfølging ble sentralisert til Økokrim. Økokrim ga et stort bidrag til kunnskapen rundt rettsreglene for utnyttelse av databevis med boken Datakriminalitet (Lilleng 1995).
+
+*Politihøgskolen* (PHS) tilbyr grunnutdanning for tjeneste i politi- og lensmannsetaten samt etter- og videreutdanningstilbud til de tilsatte i etaten. Blant fagtilbudene er studier innen IKT-kriminalitet, herunder et mastertilbud i samarbeid med NTNU ved Center for Cyber and Information Security (CCIS). PHS og NTNU CCIS driver også forsknings- og utviklingsarbeid samt faglig formidling innenfor sine fagområder, herunder IKT-kriminalitet.
+
+*Politiets sikkerhetstjeneste* (PST) har primæransvar for å forebygge og etterforske straffbare handlinger mot rikets sikkerhet, herunder bidra til å avverge, forestå og undersøke alvorlige IKT-hendelser, samt bidra i trusselvurderinger og sikkerhetsrådgivning.
+
+*Nasjonal sikkerhetsmyndighet* (NSM) utøver på vegne av Forsvarsministeren og Justis- og beredskapsministeren overordnet og sektorovergripende ansvar for forebyggende sikkerhetstjeneste iht. sikkerhetsloven. I tillegg skal NSM, som det nasjonale fagmiljøet for IKT-sikkerhet i Norge, understøtte og bidra til utøvelsen av Forsvarsdepartementets (FD) og Justis- og beredskapsdepartementets (JD) ansvar på IKT-sikkerhetsområdet.
+
+*Etterretningstjenesten i Forsvaret* har et ansvar for å innhente og analysere informasjon om fremmede stater, organisasjoner og personer som utgjør en sikkerhetstrussel mot samfunnskritiske datasystemer, og skal blant annet varsle om forstyrrelser, kompromittering og manipulering av datasystemer som kan ramme rikets selvstendighet, sikkerhet og andre nasjonale interesser utenfor rikets grenser.
+
+*Cyberforsvaret* er en militær organisasjon som drifter, sikrer og forsvarer Forsvarets datasystemer, nettverk, og høyteknologiske plattformer mot angrep i og fra cyberdomenet. Forsvaret har IKT-kapasiteter som kan bistå politiet i henhold til gjeldende bestemmelser.
+
+*Næringslivets Sikkerhetsråd* (NSR) er næringslivets sentrale organisasjon med formål å bekjempe kriminalitet i og mot næringslivet. Dette gjøres gjennom et formalisert og aktivt nettverk mot politi og offentlige sikkerhetsmyndigheter, og mot næringslivet.
+
+*Norsk senter for informasjonssikring* (NorSIS) arbeider for at alle skal kunne bruke datateknologi og Internett trygt på jobb og privat. NorSIS driver blant annet tjenestene Slett meg.no og IDtyveri.info.
+
+**<u>\[Boks slutt\]</u>**
+
+Selv om politiets grunnleggende IKT-infrastruktur er gradvis modernisert de siste årene, påpeker flere politiledere at det er stort etterslep og mangler på flere områder, og at dette kan svekke mulig gevinstrealisering knyttet til nærpolitireformen. Eksempelvis kan felles IKT-løsninger på tvers av distriktene gi større mulighet for informasjonsdeling på tvers av distriktene. Dette vil forenkle politiets arbeid, og frigjøre kapasitet til mer effektiv kriminalitetsbekjempelse, men stiller høye krav til blant annet nettverketskapasitet.
+
+**<u>Norwegian Cybercrime centre (NC3)</u>**
+
+I Justis- og beredskapsdepartementets strategi for å bekjempe IKT-kriminalitet, ble det foreslått 15 tiltak for å styrke innsatsen på feltet. Ett av tiltakene er å etablere et nasjonalt senter for å forebygge og bekjempe IKT-kriminalitet, et «Cybercrime centre» (NC3) noe også Lysneutvalget har foreslått.[^84] Et slikt senter bør få i oppgave å forebygge og etterforske den mest alvorlige og komplekse IKT-kriminaliteten, samt drive fag- og metodeutvikling. Det er foreslått å etablere et nasjonalt cyber-krimsenter (NC3), men dette er et svært kostnadskrevende tiltak og det er per nå ikke tatt en beslutning på dette.[^85]
+
+Inntil videre har regjeringen valgt å forholde seg til dagens struktur der NSM NorCERT er sentral i den digitale hendelseshåndteringen. I arbeidet med å styrke politiets samlede innsats mener flere politiledere det er behov for et sterkere koordinerende Kripos, som kan håndtere de mest teknologisk kompliserte sakene og bidra til innovasjon og metodeutvikling i møte med nye utfordringer innenfor IKT-kriminalitet.
+
+**<u>Lovendring</u>**
+
+Regjeringen har også gitt politiet viktige verktøy i kampen mot alvorlig kriminalitet gjennom lovendringer og lovforslag. Stortinget vedtok i juni 2016, på grunnlag av Prop. 68 L (2015–2016) Endringer i straffeprosessloven mv. (skjulte tvangsmidler), å gi politiet utvidet adgang til å benytte skjulte tvangsmidler ved etterforskning, avverging og forebygging av alvorlige lovbrudd. Utvidelsene gjelder blant annet metoder som kommunikasjonskontroll, hemmelig ransaking, romavlytting, teknisk sporing og kameraovervåking. Lovendringene trådte i kraft 17. juni 2016.
+
+I tillegg åpnes det for bruk av et nytt skjult tvangsmiddel i form av dataavlesing. Disse reglene trådte i kraft 9. september 2016. Den 5. april 2017 la også Regjeringen frem et forslag til Stortinget om lovendringer som vil sikre politiet tilgang til mobiltelefoner, nettbrett og andre datasystemer som åpnes ved fingeravtrykk og annen biometrisk autentisering. Bakgrunnen for lovendringene og lovforslagene er et endret kriminalitets- og trusselbildet, der flere skjulte tvangsmidler er mindre effektive som følge av den teknologiske utviklingen.
+
+Det er behov for å gi politiet nødvendige virkemidler for å etterforske straffbare handlinger. Samtidig må det tas tilstrekkelige hensyn til borgernes vern mot inngrep, og iverksettes tiltak for å motvirke formålsutglidning.[^86]
+
+Den teknologiske utviklingstakten og det digitale rom sin grenseløse natur setter lovverket under press og gjør det vanskelig å holde lov- og regelverket oppdatert.
+
+Europarådets konvensjon nr. 185 om IKT-kriminalitet (Budapestkonvensjonen) ble ratifisert av Norge i 2006. Partene til Budapestkonvensjonen har forpliktet seg til gjensidig strafferettslig samarbeid i saker vedrørende IKT-kriminalitet, herunder til å bistå hverandre med innhenting av elektroniske bevis for IKT-kriminalitet. I forbindelse med Norges ratifisering av Europarådets Budapestkonvensjon ble det gjennomført en kartlegging av nødvendige lovendringer.[^87]
+
+1.  **<u>USAs politiarbeid viser at det nytter</u>**
+
+I april 2017 ble den russisk hackeren, Roman Seleznev (aka «Track2») dømt til 27 år. Straffen er den strengeste som noen gang er idømt i en cyberkrimsak i USA. Han er også dømt til å betale 1,5 milliarder kroner i oppreisning til bedriftene og bankene som ble utsatt for angrepene. I løpet av en periode på 15 år brøt Seleznev seg inn i betalingssystemene til over 500 selskaper, og stjal millioner av kredittkortnumre som han deretter solgte på nett. Han hadde nesten 3 millioner forskjellige kredittkortnumre da han ble pågrepet. Den 32-år gamle hackeren er sønn av Valery Seleznev, som er medlem av det russiske parlamentet.
+
+<u>New York Times (2017)«Russian hacker sentenced to 27 years in creditcard case». 27. april.</u>
+
+**<u>\[Boks slutt\]</u>**
+
+Strafferettslig regulering av IKT-kriminalitet omhandles i Inger Marie Sundes bok «Datakriminalitet – en fremstilling av strafferettslige regler om datakriminalitet» fra 2016. Hun foretar her sentrale drøftelser knyttet til om en IKT-kriminell handling med tilknytning både til Norge og til utlandet, kan straffes etter norsk lov. Sunde peker på at internett er globalt mens straffeloven er nasjonal. På lik linje med havrett og romrett er det reist spørsmål om det i fremtiden bør utarbeides en «cyberrett» hvor både et «fritt Internett» og suverenitet ivaretas. Det kan ikke være tvil om at regelverksutvikling vil ha en sentral plass i videre arbeid i det digitale rom.
+
+Det er ønskelig at Riksadvokaten gir klare føringer for hva som ligger i begrepet alvorlig IKT-kriminalitet.
+
+**<u>Samarbeid</u>**
+
+IKT-kriminalitet er grenseløs. En mer effektiv kriminalitetsbekjempelse innebærer derfor større samhandling mellom en rekke aktører, både nasjonalt og internasjonalt.
+
+Sammen med andre etater som Nasjonal sikkerhetsmyndighet (NSM), PST og Etterretningstjenesten, vil politiets digitale beredskapsressurser og -evne være avgjørende for nasjonal digital beredskapsevne. Både NSM og flere politiledere mener manglende koordinering og ansvarsdeling på det digitale området er utfordrende, og at det er et stort potensiale for bedre samhandling mellom ulike nasjonale aktører, blant annet politiet og forsvaret. Fra politihold blir det blant annet pekt på behovet for klart definerte fullmakter, også innen det digitale rom slik at kriser kan bli løst mer effektivt. Det blir fremhevet at det er liten grunn til å se den digitale sfæren som adskilt fra den analoge.[^88]
+
+1.  **<u>Internasjonalt politisamarbeid</u>**
+
+*Interpol* (International Criminal Police Organization ) er en internasjonal og politisk nøytral organisasjon med 188 medlemsstater som arbeider med internasjonalt kriminalpolitisamarbeid. Organisasjonens arbeid er hovedsakelig rettet mot sikkerhet og terrorisme, organisert kriminalitet, narkotikaproduksjon og -handel, våpensmugling, menneskehandel, hvitvasking, distribusjon av materiale som viser seksuelle overgrep mot barn, økonomisk kriminalitet, høyteknologisk kriminalitet og korrupsjon. Interpol åpnet i 2015 et nytt cyberkrimsenter Interpol Global Complex for Innovation (IGCI) i Singapore.
+
+*Europol* er EUs organisasjon for politisamarbeid. Europol har som formål å sikre økt effektivitet og samarbeid mellom myndighetene i medlemsstatene som har ansvar for å forebygge og bekjempe alvorlig internasjonal organisert kriminalitet og terrorisme. Europols oppgaver er å yte et vesentlig bidrag til EUs innsats mot organisert kriminalitet og terrorisme, særlig mot kriminelle organisasjoner. European Cybercrime Centre (EC3) ved Europol skal styrke EUs kamp mot datakriminalitet. Senteret skal være navet i EUs kamp mot IKT-kriminalitet og bidra til raskere reaksjoner ved lovbrudd på nett. Senteret skal dessuten støtte medlemsstatene og EUs institusjoner i å bygge operativ og analytisk kapasitet for undersøkelser og samarbeid med internasjonale partnere. EC3 startet offisielt sin virksomhet 1. januar 2013. Mandatet er å bekjempe følgende områder innen IKT-kriminalitet:
+
+- <u>kriminalitet begått av organiserte grupper for å generere stor kriminell fortjeneste, som for eksempel nettsvindel</u>
+
+- <u>kriminalitet som forårsaker alvorlig skade på offeret, som seksuell utnytting av barn på nett</u>
+
+- <u>alt som påvirker kritisk infrastruktur og informasjonssystemene i EU</u>
+
+**<u>\[Boks slutt\]</u>**
+
+En effektiv bekjempelse av IKT-kriminalitet krever også samarbeid og kompetansedeling mellom fagmiljøer både nasjonalt og internasjonalt. Nasjonalt er det behov for både et tett samarbeid på tvers av offentlige virksomheter og mellom politiet og privat sektor. Internasjonalt deltar Kripos i flere faste samarbeidsfora samt i ulike grupper i Interpol og Europol, herunder samarbeid med Europols EC3-senter (Cyber Crime Centre) i Haag i Nederland. Ansvaret for å følge opp dette arbeidet både nasjonalt og internasjonalt ligger hos Justis- og beredskapsdepartementet og Politidirektoratet i fellesskap.
+
+1.  **<u>Forutsetninger for mer robuste politidistrikt</u>**
+
+Samfunnet har forventninger til politiet om effektiv forebygging, tilstedeværelse med relevant kapasitet og kompetanse ved behov samt at politiet forfølger lovbrudd. Dette gir grunnlag for allmenn trygghet og rettssikkerhet.
+
+Som både Difis statusrapport om nærpolitireformen fra 2017 og særorganenes tilbakemeldinger til utvalget peker på, er det for tidlig å fastslå hvordan politidistriktenes nye organisering vil påvirke behovet for bistand fra særorganene, men foreløpige tall viser liten endring.[^89] Dette kan tyde på at politidistriktenes anmodninger om bistand fra særorganene i noen grad viser spennet mellom forventninger og tilgjengelige ressurser for politidistriktene på en rekke områder.
+
+Politimestrene er samstemte om at omorganiseringen vil gi styrket kompetanse og kapasitet til å håndtere flere og mer kompliserte saker, men det er større usikkerhet knyttet til hvilke områder dette gjelder. Samtidig er det innbyrdes forskjeller mellom distriktenes opplevde robusthet. Dette kommer tydelig til uttrykk i utvalgets samtaler med politimestrene samt gjennom utvalgets kompetansekartlegging av politidistriktene. Figur 5.6 illustrerer dette.
+
+**<u>\[:figur:figX-X.jpg\]</u>**
+
+1.  <u>Forutsetninger for mer robuste politidistrikt – spørreundersøkelse politimestre</u>
+
+På spørsmål om hvilke forutsetninger som bør være på plass for å sikre en bedre robusthet i lys av nærpolitireformen er det flere momenter som blir fremhevet, men ti av tolv politimestre mener flere politi- og påtalestillinger samt bedre IKT-løsninger er avgjørende. I tillegg blir særlig kompetanseheving innenfor IKT-kriminalitet og flere dataetterforskere fremhevet som viktige faktorer.
+
+På den andre side er det mindre oppslutning om samhandling gjennom intern samlokalisering, regionalisering av ansvarsoppgaver og andre former for samarbeid mellom politidistriktene, herunder nabohjelp.
+
+Det er også interessant at et stort flertall mener at det er et behov for å styrke styringslinjer og sikre bedre lederutvikling for å oppnå mer robuste politidistrikt er blant de mindre viktige forutsetningene.[^90] Dette fremgår av figur 5.5 der politimestrene ble stilt spørsmålet:
+
+«Hva er de viktigste forutsetningene for at ditt politidistrikt skal bli mer robust i lys av nærpolitireformen (flere svar er mulige)?»
+
+Funnene blir understøttet av flere rapporter og utredninger de siste årene som har analysert forutsetninger for bedre polititjeneste, blant annet 22. juli-kommisjonen, Politianalysen og Difis evaluering av POD.[^91] Det blir her særlig trukket frem betydningen av holdninger, kultur og ledelse, og ikke minst betydningen av mer åpenhet og ansvar inn i ledelsen av norsk politi, som i for stor grad er preget av et begrenset handlingsrom.
+
+Omorganiseringen til tolv politidistrikt er sett som et viktig grep for mer effektiv styring og ledelse som styrker forutsetningene for å fange opp nye trender og utfordringer med nødvendig kapasitet, kompetanse og politikraft. Det er derfor interessant at flertallet av politimestrene ikke fremhever dette som en viktigere faktor for å styrke distriktenes robusthet, særlig ettersom regjeringen de siste årene har lagt stor vekt på videreutvikling av lederutvikling i politietaten.[^92]
+
+1.  **<u>Utvalgets vurdering</u>**
+
+En viktig forutsetning for nærpolitireformen er at mer robuste politidistrikt skal føre til redusert bistandsbehov fra nasjonale enheter. Selv om politidistriktenes behov vil være ulike, er det på bakgrunn av tilbakemeldinger fra både politidistriktene og kontrollorganer konstatert fortsatt behov for nasjonal spisskompetanse og bistand på flere kriminalitetsområder. Dette handler ikke bare om kapasitet og kompetanse i politidistriktene, men også om effektiv utnyttelse av knappe ressurser fremfor å bygge opp parallellkompetanse, noe som kan komme alle politidistriktene til gode.
+
+Politidistriktene synes i liten grad å ha behov for bistand i påtalemessige spørsmål, selv der etterforskningsbistand er gitt. Samtidig registrerer utvalget det pågående arbeidet med Etterforskningsløftet, et samarbeid mellom POD og Riksadvokaten for å heve politiets generelle kompetanse på etterforskning. Utvalget legger til grunn at også den påtalemessige delen av etterforskningsfaget blir ivaretatt i Etterforskningsløftet.
+
+Innenfor nevnte kriminalitetsområder vurderer utvalget behovet for nasjonal bistand som følger:
+
+*<u>Organisert kriminalitet</u>*
+
+Dette er et område preget av både distriktsovergripende og grenseoverskridende kriminalitet, ofte med saker som omfatter multikriminelle eller flere kriminalitetstyper. Innenfor organisert og alvorlig kriminalitet vil det også i fremtiden være hensiktsmessig å ha en nasjonal spisskompetanse innenfor etterforsking, som kan yte bistand til politidistrikt og andre sentrale politiorgan. Den organiserte og alvorlige kriminaliteten vil i større grad en tidligere være kompleks, ha internasjonale forgreininger og være preget av særlig kompetanse innenfor IKT. Som eksempel kan enkelte sakstyper forene menneskehandel (til prostitusjon) med narkotika, som medfører hvitvasking, gjerne gjennom tilsynelatende legal virksomhet (Hells Angels’ tatoveringsstudioer) samt grov voldsutøvelse og utpressing. Mange av disse sakene omfatter gjerne aktører med høy grad av profesjonalitet, og nødvendige politimetoder kan innebære særskilt åpne og skjulte metoder. Dette er operasjoner politidistriktene har ulik grad av forutsetninger for å løse på egen hånd.
+
+Forebygging, etterforsking og straffeforfølging av denne type kriminalitet vil kreve kompetanse, utstyr og innsikt, som ikke er hensiktsmessig å bygge opp i tolv politidistrikt. I tillegg vil fag- og metodeutvikling skje fortløpende og tatt hensyn til antall repetisjoner og hvor ofte politidistriktene får bruk for denne kompetansen, er det mer effektivt at kompetansen bygges opp nasjonalt og at politidistriktene får bistand ved behov. Den spesialistkompetanse som bygges opp i nasjonale spisskompetansemiljøer, overføres til politidistrikt og andre sentrale politiorgan, blant annet gjennom bistand.
+
+Kripos har flere funksjoner innenfor forebygging og bekjempelse av alvorlig kriminalitet. Etterretning og analyse er viktige områder der politidistriktene benytter seg av ulike rapporter og fremleggelser i sitt strategiske arbeid. Utvalget ser også at det i fremtiden vil være behov for den type bistand til politidistriktene, sammen med ulike sentrale funksjoner som laboratoriestøtte og kriminaltekniske undersøkelser
+
+*<u>Ø</u><u>konomisk kriminalitet</u>*
+
+Utvalget mener det også innenfor alvorlig økonomisk kriminalitet vil være behov for bistand fra nasjonale spisskompetansemiljø. Det synes å være et klart ønske fra interessenter utvalget har snakket med, både internt og eksternt i politi- og lensmannsetaten, at Økokrim skal kunne etterforske og straffeforfølge betydelig flere saker enn de gjør i dag. Likeså er det et ønske at politidistriktenens økonomi- og miljøteam, skal gjøre det samme, slik at ikke så mange mellomstore saker innenfor dette området «faller mellom to stoler». I tillegg ønsker mange politimestre bedre tilgang til Økokrims kompetanse, særlig gjennom bistand i enkeltsaker.
+
+Straffesaker innenfor alvorlig økonomisk- og miljøkriminalitet vil ha samme kompleksitet og behov for utstyr og metodebruk, som saker knyttet til organisert og alvorlig kriminalitet og krever dermed en type kompetanse som ikke er hensiktmessig å bygge opp i tolv politidistrikt. I tillegg vil krav til kompetanse innenfor sivil rett, internasjonale økonomiske avtaler og utenlandsk rett, trolig være høyere på dette området. Antall repetisjoner og behov for denne type kompetanse tilsier at det er mest hensiktsmessig også her å ha samlet nasjonal spisskompetanse, som kan benyttes av politidistrikt og andre sentrale politiorgan ved behov (bistand).
+
+Basert på tilbakemeldinger fra politidistriktene og kontrolletatene samt andre politiledere har utvalget inntrykk av at det fortsatt er behov for en nasjonal spisskompetanse på de mest alvorlig økonomiske straffesakene, både på etterforsknings- og påtalesiden. Når effektene av Etterforskningsløftet viser seg, er det også grunn til å forvente at særlig de større politidistriktene vil være bedre i stand til å håndtere sakene i «mellomsjiktet», det vil si saker som ikke blir behandlet verken i det enkelte politidistrikt eller av Økokrim. Riksadvokaten har ved flere anledninger uttrykt bekymring for restansene i disse sakene, og utvalget deler denne bekymringen.[^93]
+
+Det vil fortsatt være nødvendig å løse de tyngste økonomiske straffesakene nasjonalt. Ofte involverer disse sakene spesialisert kriminalitet, der ressurssterke utøvere tar en kalkulert risiko. Slike saker er ofte svært tid- og ressurskrevende, og det kan derfor være lite hensiktsmessig for politidistriktets samlede politikraft at slike saker blir løst lokalt.
+
+Påtaleinstruksen angir tydelig at enhver straffesak som utgangspunkt skal etterforskes og påtales i politidistriktet der handlingen er antatt foretatt, men med unntak for blant annet alvorlig økonomisk kriminalitet. Utvalget vil likevel presisere hovedregelen om at slike saker bør bli løst i politidistriktet, og at det også for de tyngre sakene blir vurdert i hvilken grad Økokrim og det enkelte politidistrikt kan samarbeide lokalt, ved at Økokrim bistår, og ikke overtar saken. Dette vil etter utvalgets mening bidra til bedre kompetansebygging i økoteamene i de tolv politidistriktene.
+
+*<u>Milj</u><u>ø</u><u>kriminalitet</u>*
+
+Et flertall av politidistriktene mener selv de er godt rustet til å etterforske og påtale en større andel saker innenfor alle områder av miljøkriminalitet. Her er det likevel dels store forskjeller mellom de større og de mindre politidistriktene. Flere interessenter har overfor utvalget gitt uttrykk for fortsatt behov for en nasjonal spisskompetanse innenfor alvorlig miljøkriminalitet. Med utgangspunkt i totalansvarsprinsippet og overgang til færre og større politidistrikt, mener utvalget at flest mulig miljøsaker bør gjennomføres lokalt, men at det kan være behov for nasjonal spisskompetanse, som kan yte bistand til politidistriktene i de mest krevende sakene.
+
+*<u>Trafikksikkerhet</u>*
+
+Utvalget registrerer at det er delte meninger om politidistriktenes bistandsbehov innenfor trafikksikkerhet. På den ene siden peker flere politiledere, herunder politimestre samt kontrolletater og andre interessenter, på at UP gjør en viktig innsats på et område mange politidistrikt ofte nedprioriterer, herunder både etterforskning og påtale av trafikkrelaterte saker. På den andre siden mener flere politimestre at å disponere alle trafikkressursene i eget distrikt ville gitt en fleksibilitet som ville styrket samlet politikraft.
+
+Spørsmålet slik utvalget ser det, er dermed ikke hvilken innsats UP yter, men hvordan politiets samlede ressursprioritering kan gi mest effektiv politikraft i politidistriktene, samtidig som den viktige samfunnsoppgaven som UP i dag har og utfører innen trafikksikkerhet, blir ivaretatt på en god måte. Utvalget understreker at politiets trafikksikkerhetsarbeid og innsats mot lovovertredelser i veitrafikken er svært viktig. Det er likevel etter utvalgets mening grunn til å stille spørsmål om hvorvidt kravene til spesialistkompetanse og utstyr på området er av en slik grad at det behov for en egen enhet som ivaretar nasjonal spisskompetanse. En økende grad av digitalisering og bruk av teknologi på en rekke kriminalitetsområder vil også ventelig styrke politidistriktenes behov for en mer helhetlig tilnærming slik at trafikksikkerhetsarbeid i mindre grad kan anses som nasjonal spisskompetanse, men heller som en oppgave som naturlig inngår i politidistriktenes oppgaveportefølje. Politidistriktenes behov for bistand på området synes også å bli mindre over tid.
+
+*<u>Utlendingsfeltet</u>*
+
+Politidistriktenes bistandsbehov på utlendingsfeltet vil naturlig variere med antallet ankomster. Selv om politidistriktene har ulik kompetanse og kapasitet synes det ikke, med unntak av ID-fastsettelse, å være særlige krav til spesialistkompetanse eller utstyr som politidistriktene ikke selv er i stand til å håndtere.
+
+På bakgrunn av tilbakemeldinger fra politidistriktene er det rimelig å forvente redusert bistandsbehov. Dersom den varslede utredningen om arbeidsdelingen mellom Politiets utlendingsenhet og øvrig utlendingsforvaltning resulterer i en utflytting av oppgaver fra politidistriktene, vil bistandsbehovet bli ytterligere redusert.
+
+Utvalget mener det er behov for en samlet nasjonal spisskompetanse på noen områder innenfor utlendingsforvaltningen. Særlig gjelder det innenfor ID-avklaringer og koordinering av uttransporter. Utvalget ser også viktigheten av at registrering av asylsøkere skjer på ett sted og ikke i de tolv politidistriktene. Når nasjonale oppgaver eller funksjoner samles vil også høyere kompetanse oppstå og det er naturlig at den kompetansen blir gjort tilgjengelig for politidistriktene ved bistand, etter behov
+
+*<u>IKT-kriminalitet</u>*
+
+Særorganutvalget har sett at IKT-kriminalitet er et krevende område for politiet og at dette i liten grad ble adressert i Politianalysen i 2013. Gjennom utvalgets samtaler, med ledelsen både i særorganer og politidistrikter, samt gjennom spørreundersøkelser rettet mot politiansatte på alle nivåer, har det kommet tydelig frem at det er behov for et betydelig løft i politiets kapasitet og kompetanse på området.
+
+Ambisjonsnivået er gjenspeilet i Justis- og beredskapsdepartementets strategi for IKT-kriminalitet (2015) - der det heter at «visjonen for det digitale rom, som for andre områder, er at Norge skal være trygt og sikkert. Norge må være rustet til å håndtere fremtidige kriser». Ambisjonene er forsterket i Politidirektoratets Datakrimstrategi fra 2015, der det heter at «Norge skal være et av foregangslandene i bekjempelse av datakriminalitet og på denne måten bidra til en trygg bruk av datasystemer for å sikre verdiskaping, demokrati og velferd».
+
+Utvalget registrerer at IKT-kompetanse er sentralt i de aller fleste etterforskningssaker. Det voksende etterslepet på IKT-relaterte saker som ikke blir oppklart, kan svekke tilliten til politiet på området og føre til at flere velger ikke å anmelde slike saker.
+
+Etter utvalgets mening er det nødvendig å prioritere både kapasitet og kompetanse innenfor IKT-relatert kriminalitet. Dette kan gjøres både ved kompetanseløft på distriktsnivå og gjennom utvikling av nasjonal spisskompetanse, blant annet ved å etablere et nasjonalt senter for bekjempelse av IKT-kriminalitet (NC3), slik det regjeringsoppnevnte Sårbarhetsutvalget har beskrevet i NOU 2015: 13.
+
+Alvorlig IKT-kriminalitet er opplistet blant de sentrale og landsdekkende prioriterte områder for iverksetting av etterforskning i Riksadvokatens rundskriv og har vært det i mange år. I tillegg til prioritering fra Riksadvokaten, nasjonale strategier og føring ble det blant annet i PODs disponeringsskriv for 2015 angitt at IKT-kriminalitet var ett av tre områder som skulle prioriteres særskilt for de 349 nye politistillingene (de øvrige områdene var økonomisk kriminalitet og kriminalitet mot barn og andre sårbare). Utvalget har ikke sett hvordan dette har materialisert seg i forsterket innsats.
+
+Norge har ratifisert Europarådets konvensjon om IKT-kriminalitet (Budapestkonvensjonen) som forpliktet seg til gjensidig samarbeid i saker vedrørende IKT-kriminalitet og bistå med innhenting av elektroniske bevis. Budapestkonvensjonen forplikter Norge å aktivt bidra internasjonalt i hele spekteret av IKT-kriminalitet, og ikke kun det som er alvorlig IKT-kriminalitet.
+
+IKT-kriminalitetsaktørene følger både myndighetene og bedrifter tett og tar ofte kalkulert risiko på hvilke land og bransje som har lavest sannsynlighet for avdekking og reaksjon før de foretar sine handlingsvalg. Det er derfor viktig at fagmiljøet er tilstrekkelig dimensjonert til å etablere en høy avdekkings- og reaksjonsrisiko.
+
+IKT-kriminalitet er vesentlig mer utbredt enn anmeldelsesstatistikken gir inntrykk av. Oppdagelsesrisikoen er meget lav hvor sakene ikke blir avdekket, og der det blir avdekket er det få som anmelder de straffbare forhold til politiet, formodentlig siden tilliten til at politiet evner å etterforske og oppklare saken er lav. Det er få saker innen IKT-kriminalitet rettet mot teknologi som blir etterforsket i politidistriktene. De fleste politidistrikt har i dag ikke tilstrekkelig kompetanse innenfor det digitale rom. En gjennomgående tilbakemelding til utvalget er at kompetanse til å forebygge, avdekke, etterforske og straffeforfølge IKT-kriminalitet er en viktig kompetanse som i dag ikke er høyt nok prioritert.
+
+Flere politimestre fremhever viktigheten av bistand med spisskompetanse fra et særorgan innen IKT-kriminalitet og digitalt politiarbeid der de selv ikke kan bidra med nødvendig kraft og kapasitet. Selv med omorganisering til tolv politidistrikt er det uttrykt et tydelig og klart behov for nasjonal spisskompetanse innen IKT-kriminalitet og digitalt politiarbeid. I tillegg er det avgjørende at hvert politidistrikt videreutvikler sin organisasjon til å ta større ansvar for digital politiarbeid og IKT-kriminalitet, og raskt kan ta imot kompetanseflyten fra særorganet ved endringer i trusselbildet.
+
+Ansvaret for IKT-kriminalitet ble overført fra Økokrim til Nye Kripos i 2005 fordi det ble ansett å være et stort behov for å styrke kriminalitetsbekjempelsen på området. Utvalget observerer at kriminalitetsutviklingen i det digitale rom har gått langt raskere enn den styrkingen som lå til grunn for endringen i 2005. Gapet mellom evne og behov har økt betydelig for politiet både i lokale politidistrikt og i særorgan, de siste ti årene.
+
+Utvalget anbefaler å styrke politiets samlede evne til å sikre elektroniske spor samt analysere og sammenstille data på tvers av politidistrikt og særorgan. De store datamengdene, nye versjoner av teknologi, kryptering med mer gjør at en effektiv etterforskning fremover vil kreve et landsdekkende sporlager og støtte av maskinell analyse som maskinlæring. Dette arbeidet er ikke mulig å utføre manuelt. Utvalget fremhever her også Påtaleanalysen sin vurdering og at det er særskilt utfordrende å presentere nye typer teknolgiske bevis for retter i forbindelse med iretteføringen. Det mangler systemer for å bearbeide sporene på en oversiktlig måte. Samlet står polititjenestene innen digital politiarbeid i en kompleks og kostbar situasjon. Utvalget fremhever at spisskompetansen ikke kun må bistå de mest alvorlige sakene, men et mye bredere spekter av saker i fremtiden.
+
+Utvalget mener at økt IKT-kriminalitet kan bidra til å svekke befolkningens tillit til myndighetenes kriminalitetsbekjempelse og undergrave tilliten til retts- og velferdsstaten.
+
+De aller fleste IKT- kriminalitetssaker og digitale beredskapshendelser har sentrale etterforskingsskritt i andre land. Det medfører regelmessige behov for omfattende etterforskningsskritt også i andre land. Arbeidet stiller krav til høy kompetanse på fagområdet og godt samarbeid med utenlandske partnere både innen myndighetsorganer, men også med teknologiindustrien. Det er av stor viktighet at Norge har et nasjonalt spisskompetansemiljø innenfor IKT-kriminalitet, som samarbeider med andre land og har et ansvar for å fange opp internasjonale trender, metoder og følge med på den internasjonale kriminalitetsutvikling innenfor IKT-området.
+
+Utvalget ønsker også å fremheve de aspektene som gjør området særdeles komplekst og som krever kapasitet til å bygge effektive samarbeidsrelasjoner. Utvalget mener det er behov for et betydelig nasjonalt samarbeid mellom fagmiljøet og PST, Etterretningstjenesten, Nasjonal sikkerhetsmyndighet, sektor-CERTene, industrien og i økende grad fremover det nye Nasjonale beredskapssenteret.
+
+*<u>Del III</u>*
+
+*Særorganene og nasjonale beredskapsressurser*
+
+1.  **<u>Hvordan ivaretar s</u><u>æ</u><u>rorganene sine oppgaver?</u>**
+
+Særorganenes primære funksjon er å yte ulike former for direkte og indirekte bistand til politidistriktene. Med endret struktur som følge av nærpolitireformen er det naturlig at særorganenes innretning blir vurdert i lys av eksisterende og forventede behov for å sikre god ressursutnyttelse og samhandling mellom politidistrikt og særorgan.

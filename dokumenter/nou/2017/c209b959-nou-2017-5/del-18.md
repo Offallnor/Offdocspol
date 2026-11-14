@@ -1,889 +1,713 @@
-# NOU 2017: 5, del 18 av 20 (side 213–225)
+# NOU 2017: 5, del 18 av 19
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2017/c209b959-nou-2017-5.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2017-5/id2540653/
 - Original-PDF: https://www.regjeringen.no/contentassets/5e7d542157dc4037856658fbf6edbe9f/no/pdfs/nou201720170005000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 14 tabeller, 24 figurer, 582 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 213]
-
-NOU 2017: 5
-En påtalemyndighet for fremtiden
-
-211
-
-Kapittel 15
-
-Kapittel 15
-
-Tiltak
-15.1 Innledning
-Påtalemyndigheten har en viktig samfunnsrolle,
-og blir gjerne omtalt som «den første rettssikkerhetsgarantisten». Utvalget understreker viktigheten av at denne rollen videreføres, og ikke svekkes. Samtidig innebærer endringer i kriminaliteten og samfunnet et betydelig omstillingstrykk og
-endringspress. Dette berører påtalemyndigheten
-som etat.
-Det er i en slik kontekst de foreslåtte tiltakene
-må leses og forstås.
-Påtaleanalyseutvalget skriver for og om fremtidens påtalemyndighet, derav også tittelen på
-NOU-en: «En påtalemyndighet for fremtiden».
-Påtaleanalyseutvalget vil nedenfor presentere
-21 tiltak som i sum vil bidra til den ønskede og
-nødvendige utviklingen av fremtidens påtalemyndighet. Flere av tiltakene vil kreve langvarig og
-vedvarende oppfølging og arbeid, mens andre er
-mer spissede enkelttiltak. Noen kan implementeres raskt.
-For utvalget er det viktig å understreke den indre sammenhengen som eksisterer mellom flere
-av tiltakene. Eksempelvis gjelder dette utviklingen av en forsterket fagledelse. Her er det flere tiltak som må vurderes samlet. Å plukke ut enkelte
-tiltak, løsrevet fra konteksten, og samtidig forkaste andre, vil være problematisk og vil neppe gi
-den ønskede effekt.
-Enkelte problemstillinger har vært behandlet
-underveis i rapporten, likevel slik at de ikke har
-resultert i konkrete anbefalinger fra utvalget.
-Disse gjentas ikke her. Se eksempelvis påtalemyndighetens rolle i forebyggende arbeid og spørsmålet om påtalemyndighet til de nye visepolitimestrene.
-Utvalget har etter beste evne forsøkt å fremheve prinsipielle sider ved forslagene, hvor også
-en balansert redegjørelse av både positive og negative konsekvenser er hensyntatt. Spesielt gjelder dette de mer omfattende og inngripende forslagene.
-
-Utvalget har ikke foretatt en nærmere rangering av de 21 foreslåtte tiltakene, men følgende
-fire områder anses særlig viktige:
-– økt stabskraft ved Riksadvokatembetet
-– en styrking av fagledelsen
-– en klargjøring av påtalejuristenes rolle som etterforskingsleder
-– en systematisk kompetansebygging
-Påtaleanalyseutvalget vil presisere viktigheten av
-raskt å få på plass den overordnede strukturen,
-herunder styrkingen av Riksadvokatembetet.
-Dette er særlig begrunnet i to forhold:
-– For det første forutsetter en vellykket implementering en sentral og aktiv styring, oppfølging og koordinering.
-– For det andre er flere av tiltakene som foreslås
-på statsadvokatnivået og i påtalemyndigheten i
-politiet, avledet av det som skjer sentralt.
-Slik utvalget ser det, vil det på kort sikt særlig
-være et haste-element i det å få på plass 14 stillinger ved Riksadvokatembetet. Disse forutsettes å
-få en sentral rolle i det videre strategi- og
-utviklingsarbeidet i påtalemyndigheten.
-
-15.2 Forslag til tiltak
-Tiltak 1 – Påtalemyndighetens samfunnsoppdrag
-Påtaleanalyseutvalget har funnet det påkrevet å
-definere påtalemyndighetens samfunnsoppdrag,
-og foreslår følgende ordlyd:
-«Påtalemyndigheten skal gjennom sitt ansvar
-for straffesaksbehandlingen ivareta borgernes
-rettssikkerhet og bidra til å skape et trygt samfunn, ved aktivt og effektivt bekjempe og forebygge kriminalitet sammen med politiet.»
-En slik forståelse synliggjør påtalemyndighetens
-viktige rolle både som kontrollør og rettssikkerhetsgarantist, men også som deltakende, kompetent og aktuell samarbeidspartner og ressurs for
-
-[Side 214]
-
-212
-
-Kapittel 15
-
-NOU 2017: 5
-En påtalemyndighet for fremtiden
-
-politiet i prioriteringsspørsmål, utviklingsarbeid
-og annen ledelse av politidistriktet.
-For øvrig vises til utvalgets nærmere redegjørelse om dette i punktene 4.2 og 11.2.
-Tiltak 2 – Kompetanse
-Dagens kompetansetilbud til statsadvokatene og
-påtalejuristene i politiet er ikke godt nok. Ut over
-hva som kommer frem i Sjøvold-utvalgets rapporter, foreligger ingen synlige sentrale føringer eller
-en helhetlig strategi for dette viktige arbeidet.
-Utvalget foreslår at riksadvokaten gis det sentrale ansvaret for kompetanseutviklingen av hele
-påtalemyndigheten, også påtalemyndigheten i politiet.
-Utvalget viker tilbake for en nærmere konkretisering av det materielle innholdet i et forbedret
-kompetansetilbud til statsadvokatene og påtalemyndigheten i politiet. Et slikt innhold må forankres i et strategisk kompetanseplanverk, og ligge
-til riksadvokaten. Med bakgrunn i de relativt entydige tilbakemeldingene utvalget har mottatt, antar
-utvalget at spørsmål om mer obligatorisk utdanning, nettbasert læring, tettere kobling mellom
-funksjoner og formell utdanning, samt økt oppmerksomhet omkring politietatskompetanse, bør
-vurderes.
-Se utvalgets redegjørelse om og drøftelse av
-kompetansetilbudet, inntatt i kapittel 9 og punkt
-12.3.6.
-Tiltak 3 – Økt stabskraft ved Riksadvokatembetet
-Som leder av påtalemyndigheten har riksadvokaten en helt sentral rolle i utviklingen av etaten.
-Dette gjelder både etats- og fagledelse, strategi og
-utvikling, strategisk rettsutvikling, kompetanseutvikling og ulike prioriteringsspørsmål. Arbeidet
-som gjøres ved embetet holder generelt høy kvalitet, men dagens rammer setter klare begrensninger for graden av oppfølgings- og gjennomføringsevne, og utgjør en begrensende faktor. De nevnte
-områdene må styrkes og få en fastere struktur,
-forankret i et strategisk planverk.
-Som tiltak foreslår utvalget en kapasitets- og
-kompetansemessig styrking av Riksadvokatembetet, slik som beskrevet i punkt 12.3.8.
-Tiltak 4 – En mer fleksibel kompetansefordeling
-mellom riksadvokaten og statsadvokatene
-Straffeprosessutvalget har i sitt lovutkast i § 2-11
-foreslått en regulering av påtalekompetansen,
-som i det vesentlige innebærer at dagens system,
-
-med en detaljert regulering i lovs form, opprettholdes. En delegasjonsmulighet er bygget inn i
-fjerde ledd:
-«Riksadvokaten kan ved generell instruks og i
-den enkelte sak overlate beslutning etter første
-ledd bokstav c til statsadvokaten og ved generell instruks bestemme at avgjørelse som hører
-under statsadvokaten, kan treffes av påtalemyndigheten i politiet. Statsadvokaten kan i
-den enkelte sak overlate avgjørelsen av spørsmålet om påtale til påtalemyndigheten i politiet.»
-Påtaleanalyseutvalget mener utviklingen bør gå i
-retning av at påtalekompetansen flyttes nedover i
-etaten. Dette kan skje ved at delegasjonshjemlene
-som fremgår av § 2-11 (4) benyttes aktivt. Utvalget
-har drøftet om Straffeprosessutvalgets forslag går
-langt nok i en slik retning. Med de presiseringer
-som fremgår av 12.3.5 har Påtaleanalyseutvalget
-kommet til at man kan støtte Straffeprosessutvalgets forslag.
-Tiltak 5 – Økt bruk av forskning
-i straffesaksbehandlingen
-Viktigheten av en fri og uavhengig forskning understrekes. Også for påtalemyndigheten vil
-forskningsbasert kunnskap kunne bidra til å
-høyne kvaliteten på straffesaksarbeidet.
-Utvalget har identifisert to forhold som vil
-kunne bedre dagens situasjon. Det ene er at Riksadvokatembetets kobling til Politihøgskolen formaliseres og videreutvikles. Det andre er at forutsetningene for å drive løpende kompetansearbeid
-ved Riksadvokatembetet styrkes.
-Begge deler foreslås gjennomført, se begrunnelsen i punkt 12.3.7.
-Tiltak 6 – En redefinering av statsadvokatrollen
-Statsadvokatrollen foreslås redefinert. Utvalget
-mener at økt og mer systematisk fagledelse vil bidra til høyere kvalitet i straffesaksbehandlingen.
-Rollen bør fremover forstås som «fagledelse,
-hvorav en stor del består av enkeltsaksbehandling
-og aktorering». Den nye faglederrollen vil stille
-økte krav til etatskompetanse, og fordre løpende
-involvering fra statsadvokatenes side i politiets
-virksomhet.
-Også embetslederrollen bør profesjonaliseres,
-med økt vekt på etatskompetanse, strategi og utvikling. Målet må være en tettere interaksjon
-innad i Den høyere påtalemyndigheten.
-
-[Side 215]
-
-NOU 2017: 5
-En påtalemyndighet for fremtiden
-
-Problemstillingen er diskutert ulike steder i
-rapporten, se særlig punkt 12.4.2 og 12.4.3.
-Tiltak 7 – En styrking, videreutvikling og
-profesjonalisering av fagledelsen
-Fagledelsen i Den høyere påtalemyndighet er i
-stadig utvikling. Med tydelig støtte fra Riksadvokatembetet har særlig Oslo statsadvokatembeter
-bidratt til et forbedret og mer systematisk tilsynsog inspeksjonsarbeid. Spørsmålet er om det
-utviklingsarbeidet som har funnet sted den senere
-tid, er tilstrekkelig.
-Endringstrykket foranlediger etter utvalgets
-syn ytterligere utvikling av virksomhetsområdet,
-forankret i et strategisk planverk. Her vil utvalget
-trekke frem faktorer som kapasitet, kompetanse,
-strukturer, prioriteringer, strategisk planverk, implementeringsstrategi og motivasjon.
-Problemstillingen omhandles blant annet i kapittel 5 og under punkt 12.4.4.
-Tiltak 8 – Handlingsrom til økt fagledelse
-Skal fagledelsen prioriteres i større grad enn i
-dag, må det skapes et nødvendig handlingsrom.
-Dette kan tenkes å skje på flere måter, eksempelvis ved å ansette flere statsadvokater, gjennom å
-jobbe mer effektivt eller ved en reduksjon i oppgaveporteføljen.
-Påtaleanalyseutvalget mener at handlingsrommet best skapes ved en reduksjon i oppgaveporteføljen, hvor statsadvokatnivået avlastes med enkeltsaker og særlig aktorater. Statsadvokatene bør
-i større grad enn i dag konsentrere straffesaksbehandlingen sin om de mer kompliserte og prinsipielle sakene, og flere oppgaver bør overføres til
-påtalemyndigheten i politiet.
-Problemstillingen berøres en rekke steder i
-rapporten, blant annet i punkt 12.4.5.
-Tiltak 9 – En reduksjon i antall statsadvokatembeter og
-opprettelse av faglederstillinger
-Påtaleanalyseutvalget foreslår at antall statsadvokatembeter reduseres. Forslaget må ses i sammenheng med den foreslåtte satsingen på fagledelse, med gode regionale fagmiljøer.
-Seks regionale embeter1 fremstår som faglig
-fornuftig. Da vil hvert embete i utgangspunktet ha
-1
-
-I tillegg kommer NAST og Økokrim.
-
-213
-
-Kapittel 15
-
-to politidistrikter underlagt seg, noe som er en
-klar fordel i et komparativt perspektiv.
-Gitt en slik satsing på fagledelse, foreslår utvalget at det opprettes en faglederstilling ved
-hvert av de nye embetene. Disse stillingene blir
-sentrale i utviklingen av den regionale fagledelsen, og forutsettes å samhandle tett med den sentrale fagledelsen ved Riksadvokatembetet.
-En nærmere redegjørelse og begrunnelse
-fremgår av punktene 10.4, 12.4.6 og 12.4.7.
-Tiltak 10 – Statsadvokatenes rolle i påtalejuristenes
-ansettelses- og karriereløp
-Satsingen på fagledelse skal øke kvaliteten på
-straffesaksarbeidet i politiet, og støtte påtalemyndigheten i politiet i deres arbeid. Som et ledd i
-dette kan det argumenteres for at statsadvokaten
-bør ha en rolle opp mot hvem som ansettes i påtalemyndigheten i politiet. Konkret kan dette tenkes
-gjennomført på flere måter.
-Påtaleanalyseutvalget mener at statsadvokatene bør ha en rolle i ansettelsen av påtalejuristene i politiet. Særlig gjelder dette ved videre ansettelser eller faste ansettelser. Da vil statsadvokatene normalt sett ha et grunnlag for å kunne bidra
-i prosessen. Hvordan dette best kan skje, overlates til de involverte etatene å vurdere. Se nærmere om dette i punkt 14.3.
-Tiltak 11 – En klargjøring av påtalemyndighetens rolle
-som leder av etterforskingen
-Rollen som påtalefaglig ansvarlig for etterforskingen er i liten grad regulert, og utøves svært ulikt.
-Dette har bidratt til å skape usikkerhet.
-Påtaleanalyseutvalget mener at økt kompetanse og gjennomslagskraft hos påtalejuristene vil
-styrke kvaliteten i straffesaksbehandlingen. Kompetansehevingen må omfatte utvidet kunnskap om
-politietaten, og forståelse av hva rollen som etterforskingsleder faktisk krever og innebærer.
-Å konkretisere, eventuelt regulere, innholdet i
-rollen som påtalemessig etterforskingsleder på en
-måte som gir mening og veiledning, vil kunne by
-på utfordringer. Under henvisning til den usikkerhet som synes å gjelde, mener utvalget at et slikt
-arbeid likevel bør gjennomføres. Ansvaret bør legges til riksadvokaten. Problemstillingen er omhandlet i punktene 5.4 og 13.2.
-Også påtaleder har en funksjon i denne sammenheng, se punkt 13.5.
-
-[Side 216]
-
-214
-
-Kapittel 15
-
-NOU 2017: 5
-En påtalemyndighet for fremtiden
-
-Tiltak 12 – En ressurstilførsel til påtalemyndigheten i
-politiet
-Dels for å skape et handlingsrom til å prioritere etterforskingsledelse i større grad enn i dag, men
-også som en konsekvens av endringer i oppgaveporteføljen til Den høyere påtalemyndighet, må
-påtalemyndigheten i politiet styrkes. Særlig vil en
-økning i antall aktorater kunne medføre en ressursmessig merbelastning. Også behovet for
-etatskompetanse og økt oppmerksomhet omkring
-etterforskingsledelse vil medføre et ressursuttak.
-Når det gjelder merbelastningen ved den foreslåtte økningen i oppgaveporteføljen, foreslår utvalget at dette kompenseres i form av økte ressurser. Når utvalget likevel avstår fra å kvantifisere
-dette behovet, har det sammenheng med to forhold. Dels henger dette nøye sammen med hvilke
-tiltak som rent faktisk iverksettes i Den høyere påtalemyndighet, dels er det vanskelig å anslå behovet mer presist. Spørsmålet er ikke utredet.
-Utvalget mener videre at behovet for nødvendig kompetansepåfyll på både kort og lang sikt må
-kompenseres. Heller ikke dette spørsmålet er
-utredet.
-Når det gjelder spørsmålet om økte ressurser
-til en mer aktiv etterforskingsledelse, anbefaler
-utvalget at en utredning om dette utstår i noen tid.
-Det er flere årsaker til dette. Dels er påtalemyndigheten i politiet en del av Nærpolitireformen,
-hvor endringsprosessene fortsatt ikke er fullført.
-Dels er det vanskelig å konkretisere hvor mye av
-«fraværet» av den påtalemessige etterforskingsledelsen som skyldes ressursmangel, og hvor mye
-som skyldes usikkerhet, manglende rolleavklaring og fravær av ledelse og oppfølging. Etter utvalgets syn er det naturlig først å høste erfaringer
-fra den nye strukturen før det på dette punktet
-bes om nye ressurser.
-Etter at utvalgets forslag til endringer i Den
-høyere påtalemyndighet er avklart, foreslår Påtaleanalyseutvalget at påtalemyndigheten fullt ut
-kompenseres for økningen i oppgaveporteføljen
-og for fravær i tilknytning til kompetansehevende
-tiltak. For øvrig vises til punkt 7.7 og kapittel 13.
-Tiltak 13 – Nye stillingskategorier i påtalemyndigheten
-i politiet – et mer strukturert system
-Påtaleanalyseutvalget foreslår at det bør utarbeides et mer strukturert system når det gjelder innholdet i de forskjellige stillingskategoriene til påtalemyndigheten i politiet, herunder en plan for et
-helhetlig karriereløp. Til stillingene må det knyttes et nærmere spesifisert innhold og kvalifika-
-
-sjonskrav. Dagens praktisering er veldig tilfeldig
-og lokalt tilpasset. Hva gjelder spørsmålet om opprettelse av nye stillingskategorier viser utvalget til
-drøftelsen inntatt i punkt 13.6.
-Tiltak 14 – Merkantil støtte
-Påtaleanalyseutvalget ser det slik at den merkantile støtten til påtalejuristene i politiet i noen grad
-bør styrkes. I tillegg mener utvalget at det bør vurderes om ansvaret for straffesakskontorene skal
-underlegges påtalemyndighetens ansvarsområde, se punkt 13.8.
-Tiltak 15 – Utstyrspakke til påtalejuristene
-Det er bred enighet blant respondentene om at
-det bør lages en standardisert utstyrspakke til alle
-landets påtalejurister. Tiltaket skal bidra til å gi
-profesjonen gode rammebetingelser, slik at de
-kan utføre tillagte oppgaver på en hensiktsmessig
-og effektiv måte.
-Påtaleanalyseutvalget er enig i at dette er et
-godt forslag, men går ikke nærmere inn på hva en
-slik utstyrspakke skal bestå i, se likevel punkt
-13.9.
-Tiltak 16 – Bedre IKT-verktøy og brukeropplæring
-I en fremtid hvor en stadig større del av straffesaksbehandlingen forutsettes å skje elektronisk,
-er det avgjørende at datasystemene er gode og
-brukervennlige. Virkeligheten er et eldre og delvis utdatert dataverktøy.
-For utvalget er det viktig å understreke at valg
-av løsninger må skje i tråd med påtalemyndighetens behov, noe som igjen bør ses i sammenheng
-med den foreslåtte styrkingen av Riksadvokatembetet. Utvalget ser et klart behov for å øke påtalemyndighetens IKT-forståelse og kompetanse.
-Utvalget viser til handlingsplanen for løft av etterforskingsfeltet, hvor en IKT-satsing er omtalt.
-Med den presisering at det må tas hensyn til påtalemyndighetens særskilte behov, gir utvalget IKTdelen av planen sin støtte. Se punkt 13.10.
-Tiltak 17 – Kontrolletatene – utvidet bruk av forenklet
-forelegg, overføring til forvaltningen for vurdering av
-administrativ sanksjon, avkriminalisering
-En utvikling som vil kunne lette påtalemyndighetens arbeid, er å utvide rammene for kontrolletater til å avgjøre saker ved forenklet forelegg. Påtaleanalyseutvalget mener en slik utvikling er positiv. Her frigjøres kapasitet hos politiet og påtale-
-
-[Side 217]
-
-NOU 2017: 5
-En påtalemyndighet for fremtiden
-
-myndigheten, samtidig som ordningen rent prinsipielt ikke bryter med dagens prosessordning.
-Det bør gis et vidt rom for å benytte den vedtatte hjemmelen i straffeprosessloven § 71c til å
-henlegge straffesaker med overføring til forvaltningen for vurdering av administrativ sanksjon.
-Hensynet til å redusere påtalemyndighetens oppgaveportefølje bør tillegges atskillig vekt.
-Det bør også vurderes avkriminalisering av
-mindre overtredelser og av saksområder som er
-perifere i kriminalitetsbekjempelsen. Se punkt
-14.1.
-Tiltak 18 – Et tilgjengelig og oppdatert regelverk
-Påtalemyndigheten forholder seg til en rekke forskjellige rettskilder i sitt arbeid. Påtaleanalyseutvalget mener at tiden er moden for å utarbeide et
-mer strukturert system, hvor nødvendig kildemateriale samles, og hvor det innføres et tydelig redaktøransvar lagt til Riksadvokatembetet. Dette
-vil gi korte beslutningslinjer og bidra til at databasen kan holdes løpende oppdatert. Forslaget må
-ses i sammenheng med utvalgets forslag om en
-egen rettsenhet hos riksadvokaten. Se redegjørelsen inntatt i punkt 14.4.
-Tiltak 19 – En servicestrategi
-God service overfor publikum og samarbeidende
-aktører er viktig. Samtidig som det er gjort flere
-positive grep, etterlyser utvalget en samlet servicestrategi. Denne bør omfatte hele påtalemyn-
-
-215
-
-Kapittel 15
-
-digheten. Problemstillingen er omhandlet i punkt
-14.5.
-Tiltak 20 – Etiske retningslinjer
-Det er grunnleggende at påtalejurister på alle nivå
-holder en høy etisk standard i sin virksomhet. Det
-foreligger etiske retningslinjer for Den høyere påtalemyndighet. Utvalget er kjent med at slike også
-er under utarbeidelse for påtalemyndigheten i politiet.
-Det bør vurderes å etablere et uavhengig etisk
-råd eller tilsynsorgan, som kan behandle klager
-over uetisk atferd, og hvor rådets avgjørelser publiseres på samme måte som for advokater og
-dommere.
-Se for øvrig punkt 14.6.
-Tiltak 21 – Økt satsing på tilståelsesdommer
-At straffesaker avgjøres ved tilståelsesdom og
-ikke i hovedforhandling, innebærer klare ressursmessige besparelser, og en raskere og mer effektiv iretteføring av sakene. Det er store og til dels
-uforklarlige ulikheter mellom politidistriktene i
-andelen saker som avgjøres på denne måten.
-Å få avgjort flere saker som tilståelsessaker
-bør prioriteres sterkere enn i dag, både i den løpende ledelsen av politidistriktene og gjennom
-statsadvokatenes fagledelse.
-Tematikken rundt tilståelsesdommer er omhandlet i punkt 8.3.2.
-
-[Side 218]
-
-216
-
-NOU 2017: 5
-
-Kapittel 16
-
-En påtalemyndighet for fremtiden
-
-Kapittel 16
-
-Økonomiske og administrative konsekvenser
-16.1 Innledning
-
-16.2 Styrking av Riksadvokatembetet
-
-Større organisatoriske endringer vil alltid ha økonomiske og administrative konsekvenser. I utvalgets mandat fremgår det at utvalget skal:
-
-For å kunne ivareta de oppgavene som etaten er
-tillagt, og for å styrke forutsetningene for etatsledelse, foreslår utvalget at det etableres en ny enhet hos Riksadvokatembetet, se punkt 12.3.8.
-Dette vil etter utvalgets oppfatning kreve en nettotilførsel på minst 14 personer. Utvalget ser for seg
-at flere av disse stillingene besettes av personer
-med annen utdannings- og erfaringsbakgrunn
-enn statsadvokater.
-En slik enhet er av utvalget anslått å koste ca.
-22 millioner kroner. Dette inkluderer lønn, pensjonsforpliktelser, arbeidsgiveravgift og andre utgifter knyttet til den enkelte ansatte. I tillegg kommer eventuell leie av tilleggslokaler som er estimert å utgjøre ca. 1 million kroner per år. Totalt vil
-den foreslåtte styrkingen av Riksadvokatembetet
-ha en ramme på ca. 23 millioner kroner.
-I tillegg kommer såkalte overhead-kostnader.
-Flere ansatte medfører at embetet får arbeidsgiveransvar for flere, med tilhørende oppgaver som
-oppfølging i form av medarbeidersamtaler og annet. En rekrutterings- og ansettelsesprosess må
-gjennomføres, og medfører både enkelte direkte
-kostnader, men også administrative konsekvenser. Med flere ansatte vil det også påløpe ytterligere oppgaver for de sivile støttefunksjonene som
-allerede i dag eksisterer ved embetet. Hvorvidt
-det kreves ytterligere personell til den sivile støtteenheten, er for utvalget noe mer usikkert. Noen
-av kostnadene er etableringskostnader, andre vil
-vedvare så lenge man har en slik enhet.
-Flere av oppgavene som foreslås lagt til den
-nye enheten hos riksadvokaten, utføres også i
-dag. Den største endringen er at embetet får ansvaret for kompetanseutviklingen også for påtalejuristene i politiet. Dette vil medføre konsekvenser for Riksadvokatembetets virksomhet og planlegging. Særlig vil det påløpe administrative konsekvenser i form av utarbeidelse av kompetanseplaner, og annen intern samordning av
-virksomheten. Kompetanseplanleggingen kan
-
-«Vurdere og anbefale tiltak som kan effektivisere straffesaksbehandlingen og identifisere
-eventuelle mulige innsparinger. Minst ett av
-alternativene skal legge til grunn uendret ressursbruk på området».
-I tråd med Utredningsinstruksen skal det utredes
-alternativ, hvorav ett skal være ett nullalternativ.
-Hvilke totale økonomiske og administrative
-konsekvenser forslagene vil ha, er beheftet med
-betydelig usikkerhet. Det er samtidig klart at de
-foreslåtte tiltakene samlet sett vil medføre konsekvenser, selv om utvalget legger til grunn at de
-også vil medføre besparelser. Det vil forsøkes å gi
-beregninger hva gjelder hovedsatsingene til utvalget. Ett alternativ vil på de fleste områder være å
-fortsette som i dag, med uendrede organisatoriske endringer og uendret ressursbruk.
-Utredningen hviler på to tilnærminger til arbeidet i påtalemyndigheten.
-– Utvalget har foreslått et samfunnsoppdrag for
-påtalemyndigheten som tar utgangspunkt i en
-aktiv påtalemyndighet som spiller en sentral
-rolle i straffesaksbehandlingen og tilgrensende fagområder, så som for eksempel forebyggende arbeid. Dette omhandles i de følgende punktene.
-– Alternativt kan straffesaksbehandlingen fortsette som i dag. Dette vil ikke utløse nevneverdige økonomiske eller administrative konsekvenser. Den foreslåtte satsingen på kompetanseutvikling vil medføre et behov for
-ressurstilførsel til Riksadvokatembetet, men da
-kun i form av 3 stillinger.
-
-[Side 219]
-
-NOU 2017: 5
-En påtalemyndighet for fremtiden
-
-ikke skje løsrevet fra resten av embetets virksomhet.
-Utvalget har foreslått at antallet saker til behandling hos riksadvokaten må reduseres noe.
-Dette kan gjøres gjennom en utvidet bruk av delegasjonshjemmelen, slik som er foreslått av Straffeprosessutvalget. Hvilke saker som skal delegeres
-er et anliggende for påtalemyndigheten, og besluttes av riksadvokaten. Konsekvensene av slik delegasjon vil særlig være at påtalebeslutninger (tiltalebeslutninger, etc.) treffes av statsadvokaten. Utvalget kan ikke se at dette vil medføre økt ressursbruk hos statsadvokatene. Sakene er allerede
-forberedt og behandlet forut for innsendelse til
-riksadvokaten, og det normale er statsadvokatene
-selv utfører aktoratet. Delegasjonen kan i denne
-sammenheng ses på som et nullsumspill.
-
-16.3 Satsingen på økt fagledelse
-16.3.1 Reduksjon av antall embeter
-Utvalget foreslår at antallet statsadvokatembeter
-(hovedkontorer) reduseres til seks. Det vil antageligvis også bety færre kontorer, selv om det
-ikke er selvsagt. En lang rekke usikkerhetsfaktorer gjør det vanskelig å gi et konkret kostnadsanslag på hva en slik reduksjon innebærer.
-Det er likevel mulig å identifisere faktorer som vil
-måtte hensyntas i en slik prosess.
-Økonomiske konsekvenser ved et slikt forslag
-vil særlig vise seg på følgende områder:
-– Leie av lokaler. Det vil være naturlig at sammenslåtte embeter vil ha behov for større lokaler. Inngåelse av nye, og oppsigelse av gamle
-leiekontrakter vil være aktuelt. Alternativt vil
-utvidelse av allerede leide lokaler være aktuelt.
-Dersom man opprettholder leie av noen lokaler, typisk som avdelingskontorer underlagt et
-embete, vil dette medføre økte leiekostnader
-for embetet – i hvert fall for den perioden man
-har to kontorer underlagt ett embete. På sikt vil
-man antageligvis spare utgifter til leie av lokaler ved en reduksjon av antallet embeter. I følge
-arbeidsgruppen som gjennomgikk organiseringen av de regionale embetene i 2014, er det
-fire av embetene som har leieavtaler som løper
-til 2022 og 2027, mens tre avtaler løper til 2017/
-2018.1
-1
-
-«Arbeidsgruppe for gjennomgang av hvordan nivå 2 (de
-regionale statsadvokatembetene) i Den høyere påtalemyndighet best bør organiseres med utgangspunkt i Politianalysens tre alternative modeller for distriktsstruktur i politiet, jf. NOU 2013: 19» s. 49.
-
-–
-
-–
-
-–
-
-217
-
-Kapittel 16
-
-Lønnsutgiftene vil kunne reduseres. En reduksjon av antallet embeter vil kunne medføre en
-reduksjon i lønnsutgiftene ved at det blir færre
-embetsledere. Videre vil det kunne bli behov
-for færre kontoransatte. Lønnsutgiftene antas
-likevel ikke å berøres i særlig utstrekning.
-Reiseutgiftene vil kunne øke. Færre embeter
-vil i noen grad øke reiseavstanden til rettslokaler og politidistriktene man har ansvaret for.
-Det er vanskelig å anslå hvor mye dette vil bli,
-men det er grunn til å tro at økningen ikke vil
-bli av betydning siden man nå har færre politidistrikt.
-Flytting av personale vil kunne føre til en midlertidig økning i ressursene. Utvalget mener
-det ikke vil være nødvendig med oppsigelser,
-men det kan være at noen må flytte. Her må
-man påregne å dekke flytteutgifter for de berørte. Utvalget tar ikke stilling til hvorvidt den
-enkelte kan pålegges å flytte. Det må eventuelt
-utredes.
-
-De administrative konsekvensene som vil oppstå,
-vil særlig knytte seg til oppgavene som overføres
-og samles ved et hovedkontor. Det må tas høyde
-for at noen ikke ønsker å flytte med, hvilket igjen
-vil kunne medføre behov for nyansettelser og opplæring. Nedleggelse av embeter vil også innebære
-et ansvar for å ivareta dem det gjelder i prosessen.
-Flere av oppgavene kan ved en sammenslåing
-sentraliseres, noe som medfører en reduksjon i
-antallet kontorsjefstillinger. Selv i de tilfellene
-hvor man beholder noen avdelingskontor for en
-kortere eller lengre periode, vil en sentralisering
-av felles oppgaver som økonomistyring og lønnsutbetalinger være naturlig.
-
-16.3.2 Opprettelse av fagstillinger
-Utvalget foreslår opprettelse av fagstillinger ved
-de regionale embetene, under forutsetning av at
-antall embeter reduseres. Dette er nye stillinger.
-Oslo statsadvokatembeter har allerede en slik stilling, og omfattes ikke av styrkingen. Utvalgets forslag innebærer fem nye stillinger. Den umiddelbare økonomiske konsekvensen er at lønnskostnader vil påløpe for de nye stillingene. Utvalget anslår dette til 6,5 millioner kroner. Dette inkluderer
-lønn, pensjonsforpliktelser, arbeidsgiveravgift og
-andre utgifter knyttet til den enkelte ansatte.
-De administrative konsekvensene vil særlig
-være arbeidsgiveransvar for flere, merarbeid for
-administrasjonen, mv.
-
-[Side 220]
-
-218
-
-Kapittel 16
-
-NOU 2017: 5
-En påtalemyndighet for fremtiden
-
-16.3.3 Redefinering av statsadvokatrollen og
-reduksjon i saksbehandling
-For å få til satsingen på økt fagledelse, må det skapes et handlingsrom hos statsadvokatene. Utvalget har foreslått at dette handlingsrommet best
-skapes ved å redusere enkeltsaksbehandlingen
-hos statsadvokatene. Resultatet av færre saker til
-behandling og aktorering hos statsadvokatene, vil
-være at disse oppgavene må utføres av påtalejuristene i politiet.
-De økonomiske konsekvensene av forslaget
-for så vidt gjelder statsadvokatembetene, er usikre. Færre aktorater vil kunne medføre sparte utgifter til rettsoppmøter. Samtidig er målet at ressursene i stedet benyttes til økt fagledelse, noe
-som vil innebære økt aktivitet overfor politiet.
-Dette vil kunne medføre utgifter i form av reisevirksomhet. Dessuten er det knyttet usikkert til
-hvor mange saker og hvor stor reduksjon i antallet rettsdager forslaget vil medføre.
-En konsekvens av forslagene er en dreining av
-ressursbruken fra enkeltsaksbehandling til fagledelse. Utvalget kan imidlertid ikke se at dette er
-av en slik art og har et slikt omfang at det i vesentlig grad påvirker den totale ressursbruken hos
-statsadvokatene.
-
-16.4 Konsekvenser for påtalemyndigheten i politiet
-16.4.1 Innledning
-Som beskrevet under tiltak 12, er en konsekvens
-av endringer i oppgaveporteføljen til Den høyere
-påtalemyndighet at påtalemyndigheten i politiet
-vil få en viss økning i antall aktorater. Dette innebærer en ressursmessig merbelastning. Også behovet for etatskompetanse og økt oppmerksomhet omkring etterforskingsledelse vil medføre et
-ressursuttak.
-
-16.4.2 Endring i oppgaveporteføljen
-Økningen i oppgaveporteføljen medfører et behov
-for ressurstilførsel til påtalemyndigheten i politiet.
-Forslag vil måtte medføre en viss bemanningsøkning. Hvor stor en slik bemanningsøkning vil bli,
-avhenger blant annet av bruken av delegasjonshjemmelen for påtaleavgjørelser og aktorater.
-Økt delegasjon av påtaleavgjørelser vil også
-bety at påtalemyndigheten i politiet selv må treffe
-en påtaleavgjørelse, eventuelt etterfulgt av en iretteføring. Utvalget kan imidlertid ikke se at dette
-vil få betydelige konsekvenser i form av merar-
-
-beid eller nye oppgaver. Påtalejuristene i politiet
-forbereder i dag sakene før de sendes til statsadvokatene, både gjennom utferdigelse av siktelse,
-forslag til bevisoppgave og innstilling med tilhørende internt notat. Merarbeidet vil avhenge av
-hvilke saker som delegeres for påtaleavgjørelse
-ned til påtalemyndigheten i politiet.
-Etter utvalgets syn er det særlig forslaget om
-økt delegeringen av aktorater som vil kreve flere
-ressurser. Uten en full kompensasjon vil antall påtaleavgjørelser trolig synke, ettersom påtalejuristen i noe større utstrekning vil befinne seg er i retten fremfor på kontoret. Videre vil flere av de daglige gjøremålene måtte utføres av de som til enhver tid er til stede på kontoret. Forberedelser,
-gjennomføring og etterarbeid i forbindelse med
-aktorering vil også representere oppgaver som
-kommer i tillegg til det som utføres i dag.
-Slik utvalget vurderer det kan denne merbelastningen ikke påregnes å kunne avvikles på en
-tilfredsstillende måte innenfor dagens rammer, og
-svaret er derfor en ressurstilførsel.
-I tråd med satsingen på økt fagledelse vil utvalget samtidig fremheve at statsadvokatene i slike
-saker bør ha en rådgivende og veiledende rolle i
-forbindelse med aktoreringen. Et vesentlig poeng
-med økt fagledelse er nettopp å styrke påtalejuristene i politiet, og det må gjelde på alle stadier i
-straffesaksbehandlingen.
-
-16.4.3 Kompetanseutvikling
-Satsingen på kompetanseutvikling vil medføre et
-behov for ressurstilførsel. Spesielt vil det innledningsvis være behov for personelluttak og øvrige
-kostnader til studier og kurs. Dette vil kunne avta
-etter hvert som kompetanseutviklingen tar form
-og blir gjennomført. Det er imidlertid vanskelig å
-anslå hvor mye dette vil utgjøre i rene kostnader.
-Det foregår i en viss grad kompetanseutvikling
-også i dag. Kostnadene til en mer systematisk
-kompetanseutviklingen vil således ikke være rene
-tilleggskostnader. Dessuten vil de økonomiske
-konsekvensene avhenge av hvordan kompetanseutviklingen blir gjennomført, og omfanget. Bruk
-av e-læring vil eksempelvis være kostnadsbesparende.
-Administrative konsekvenser vil være at andre
-påtalejurister må dekke opp for påtalejurister som
-er fraværende. Her må det sørges for gode rutiner
-slik at saksporteføljen ikke blir skadelidende. Ved
-ansettelse av nye påtalejurister vil konsekvensene
-måtte bli at man må gjennomføre opplæring, og at
-det for kontorstøtten vil bety ressursbruk for understøttelse av flere påtalejurister.
-
-[Side 221]
-
-NOU 2017: 5
-En påtalemyndighet for fremtiden
-
-Et økonomisk anslag er vanskelig, og utvalget
-anbefaler at dette utstår til de foreslåtte
-endringene i Den høyere påtalemyndighet er avklart.
-
-16.4.4 Utvalgets konklusjon
-Den foreslåtte økningen i oppgaveporteføljen foreslås fullt ut kompensert i form av økte ressurser.
-Når utvalget likevel avstår fra å kvantifisere dette
-behovet mer presist, har dette sammenheng med
-at ressursuttaket må ses opp mot hvilke tiltak som
-rent faktisk iverksettes i Den høyere påtalemyndighet, dels at det er vanskelig å anslå dette mer
-presist. Spørsmålet er ikke utredet. Som et utgangspunkt bør ressurstilførselen som følger av
-en foreslått økning i oppgaveporteføljen samsvare
-med reduksjonen hos statsadvokatembetene. Det
-er i dag i overkant av 100 statsadvokater i de regionale embetene. Hvis man har som mål å redusere deres enkeltsaksbehandling med 15–20 prosent, betyr det mellom 15 og 20 nye årsverk til politiet som følge av endringen i oppgaveporteføljen.
-Utvalget foreslår at ressursuttaket som vil påløpe i forbindelse med nødvendig kompetansepåfyll, kompenseres fullt ut. Som beskrevet ovenfor,
-er et økonomisk anslag vanskelig. Utvalget anbefaler derfor at dette utstår til de foreslåtte
-endringene i Den høyere påtalemyndighet er avklart.
-Hva gjelder spørsmålet om økte ressurser til
-en mer aktiv etterforskingsledelse, anbefaler utvalget at en utredning om dette utstår i noen tid.
-Dels er påtalemyndigheten i politiet en del av den
-pågående Nærpolitireformen, hvor pågående endringsprosesser fortsatt ikke er fullført. Dels er
-det vanskelig å konkretisere hvor mye av «fraværet» av den påtalemessige etterforskingsledelsen
-som skyldes ressursmangel, og hvor mye som
-skyldes usikkerhet, manglende rolleavklaring og
-fravær av ledelse og oppfølging. Etter utvalgets
-syn er det naturlig først å høste erfaringer fra den
-nye strukturen, før det på dette punktet bes om
-nye ressurser.
-
-16.5 Økt bruk av forenklet forelegg
-Utvalget mener dette vil være et ressursbesparende tiltak. Kontrolletatene vil kunne benytte ressursene de i dag bruker på anmeldelser og annet
-forberedende arbeid til selv å avgjøre sakene med
-reaksjon. For politiet medfører dette at sakene avgjøres annet sted og ikke kommer til behandling.
-
-219
-
-Kapittel 16
-
-16.6 Økt bruk av tilståelsessaker
-Utvalget mener det er et effektiviseringspotensial
-i straffesaksbehandlingen gjennom økt bruk av tilståelsesinstituttet. Det betyr frigjøring av kapasitet ved at aktor som regel slipper å møte til rettsforhandlingene, samt at det for domstolen betyr at
-man slipper meddomsrett. Stevning av vitner og
-annet bortfaller også. Utvalget finner grunn til å
-påpeke at dette er en besparing som kan skje ganske umiddelbart, gjennom enkle grep. Det er
-imidlertid vanskelig å fastslå hvor mye som kan
-spares ved dette tiltaket. Det avhenger av mange
-faktorer. Uansett vil økt bruk av tilståelsesdommer være ressursbesparende.
-
-16.7 Utstyrspakke til påtalejuristene
-Forslaget vil etter utvalgets syn medføre noen
-merkostnader, men det antas ikke å være av særlig betydning da påtalejuristene har tilgang på en
-del av dette også i dag. Forslaget må kunne løses
-innenfor dagens rammer, i tråd med arbeidsgiveransvaret.
-
-16.8 Konklusjoner
-Flere av de foreslåtte tiltakene vil medføre både
-økonomiske og administrative konsekvenser
-skulle de bli gjennomført. Et nullalternativ er å
-fortsette virksomheten som i dag, uten å gjennomføre de tiltakene som utvalget foreslår. Enkelte tiltak vil i stor utstrekning kunne utføres innenfor
-dagens rammer, som for eksempel utstyrspakker
-til juristene, en tydeliggjøring av påtalejuristens
-rolle som etterforskingsleder og en økning av andelen tilståelsesdommer.
-For utvalget er det viktig å understreke den
-tette og indre sammenhengen mellom flere av tiltakene. Eksempelvis gjelder dette utviklingen av
-en forsterket fagledelse. Her er det flere tiltak
-som må vurderes samlet. Å plukke ut enkelte tiltak, løsrevet fra konteksten, og samtidig forkaste
-andre, vil være problematisk og vil neppe gi den
-ønskede effekt. Denne må ses i sammenheng
-med påtalemyndighetens viktige samfunnsoppdrag, og rollen som kontrollør og rettssikkerhetsgarantist.
-Utvalget mener at investeringene vil gi gevinst
-i form av en mer kompetent påtalemyndighet.
-Dette vil i neste omgang høyne kvaliteten i straffesaksbehandlingen. Flere riktige avgjørelser, en
-mer effektiv straffesaksbehandling og en bedre
-
-[Side 222]
-
-220
-
-Kapittel 16
-
-NOU 2017: 5
-En påtalemyndighet for fremtiden
-
-ressursutnyttelse. Samfunnsgevinsten vil vise seg
-i form av mindre kriminalitet, lavere erstatningsutbetalinger etter uberettiget straffeforfølgning og
-færre begjæringer om gjenopptagelse.
-Utvalget anser at det er et potensiale for store
-samfunnsgevinster gjennom små investeringer,
-
-og ser i en samfunnsøkonomisk kontekst på de
-foreslåtte tiltakene som «utgifter til utgiftsreduksjon». Som oppsummert i punkt 11.10 mener utvalget det er vanskelig å finne andre statlige etater
-hvor en så vidt beskjeden investering vil kunne gi
-like høy avkastning.
-
-[Side 223]
-
-NOU 2017: 5
-En påtalemyndighet for fremtiden
-
-221
-
-Litteraturliste
-
-Litteraturliste
-Litteratur
-Andenæs, Johs, Alminnelig strafferett, ved Georg
-Fredrik Rieber-Mohn og Knut Erik Sæther, 6.
-utgave, 2016.
-Bakke, Jostein, Kriminalitetens kostnader – En undersøkelse av tyverikriminalitetens kostnader og
-et anslag over kriminalitetens kostnader, Politihøgskolen, 2011.
-Busch, Tor-Aksel, Ytring: Tiden er inne for en ny
-straffeprosesslov, Tidsskrift for strafferett nr. 4,
-2013.
-Busch, Tor-Aksel, Påtalemyndighetens uavhengighet – bl.a. om forholdet mellom politiske myndigheter og riksadvokaten for så vidt gjelder mål og
-prioriteringer i straffesaksbehandlingen, Rettsteori og rettsliv. Festskrift til Carsten Smith,
-2002.
-Busch, Tor m.fl., Økonomistyring i det offentlige.
-Universitetsforlaget, 3. utgave, 2002.
-Busch, Tor m.fl., Modernisering av offentlig sektor.
-Utfordringer, metoder og dilemmaer. Universitetsforlaget, 2. utgave 2005.
-Busch, Tor m.fl., Endringsledelse i det offentlige.
-Universitetsforlaget, 3. utgave, 2003.
-Grant, Robert, Contemporary strategy analysis,
-Blackwell, 4 utgave, 2002.
-Holme, Jørn: Fra amtmann til statsadvokat. Om
-overgangen til en selvstendig påtalemyndighet,
-Universitetsforlaget 1985.
-Jakobsen, Jørn R. T., Fragment til forståing av den
-rettsstatlege strafferetten, Fagbokforlaget, 2009.
-Johansen, Leif, Plan eller marked, Politisk Forum,
-Samtiden nr. 6, 1980.
-Johansen, Leif, Prinsipielle betraktninger om prognoser og langtidsplanlegging, Sosialøkonomisk
-institutt, 1970.
-Johnson, Gerry m.fl., Exploring Corporate Strategy, Prentice Hall, 7. utgave, 2005.
-Mintzberg, Henry, Structures in five. Prentice
-Hall, 1983.
-Mintzberg, Henry Beyond configuration i The Strategy Process – Concepts, Contexts, Cases, 4. europeiske utgave, Pearson Education, 2003.
-
-Myhrer, Tor-Geir, Påtalemyndighetens praksis som
-rettskilde, Tidsskrift for rettsvitenskap, 2003.
-Myhrer, Tor-Geir, Kvalitet i etterforskningen – særlig om påtaleansvarliges rolle og betydning, Politihøgskolen, 2015.
-Opstad, Leiv, Økonomistyring i det offentlige. Gyldendal Norsk Forlag AS, 2006.
-Rieber-Mohn, Georg Fr., Innlegg og kommentar –
-etterforsking og påtalemyndighet.
-Nytt i strafferetten nr. 2, 1996.
-Roos, Göran m.fl., Innføring i strategi, Fagbokforlaget, 3. utgave, 2002.
-Torgersen, Runar, Påtalejuristens rolle, hvordan
-den har forandret seg de siste 50 år og hva som
-forventes for fremtiden, Lov og Rett nr. 1–2,
-2011.
-Vanebo, Jan Ole, Ledelse og ledelsespraksis i det offentlige – Veikart til ledelseslisens. Universitetsforlaget, 2016.
-Østre, Stein: Kommunaløkonomiske prinsipper,
-Bedriftsøkonomenes forlag, 1993.
-Forarbeider
-NOU 1988: 39 Politi- og påtalemyndighet – Arbeidsog ansvarsfordeling.
-NOU 2003: 15 Fra bot til bedring.
-NOU 2003: 19 Makt og demokrati – sluttrapport fra
-Makt- og demokratiutredningen.
-NOU 2013: 9 Ett politi – rustet til å møte fremtidens
-utfordringer (Politianalysen).
-NOU 2016: 24 Ny straffeprosesslov.
-Ot.prp. nr. 22 (2000–2001) Politireform 2000.
-Ot.prp. nr 60 (2004–2005) Om lov om endring i
-straffeprosessloven og politiloven (romavlytting
-og bruk av tvangsmidler for å forhindre alvorlig
-kriminalitet).
-Prop. 61 LS (2014–2015) Endringer i politiloven
-mv. (trygghet i hverdagen – nærpolitireformen).
-Prop. 62 L (2015–2016) Endringer i forvaltningsloven mv. (administrative sanksjoner mv.).
-
-[Side 224]
-
-222
-
-Litteraturliste
-
-NOU 2017: 5
-En påtalemyndighet for fremtiden
-
-Rundskriv
-Justisdepartementet rundskriv Mål- og resultatstyring, G-0231, 1997.
-Riksadvokatens rundskriv 3/1999 Etterforsking.
-Riksadvokatens rundskriv 2/2012 Krav til straffesaksbehandlingen i politiet og ved statsadvokatembetene.
-Riksadvokatens rundskriv 1/2015 Mål- og prioriteringer for straffesaksbehandlingen.
-Riksadvokatens rundskriv 1/2016 Mål- og prioriteringer for straffesaksbehandlingen.
-Riksadvokatens rundskriv 2/2016 Politiavhør.
-Rapporter, publikasjoner og øvrige utredninger
-Den danske politianalysen, Fremtidens politi, politiets fremtid, 2005.
-Det danske politiets og anklagemyndighedens
-strategi, 2011–2015.
-
-Justis- og politidepartementet, Kriminalitetens
-samfunnsmessige kostnader, 2005.
-Politidirektoratet, Politiet mot 2020 – bemanningsog kompetansebehov i politiet, 2008.
-Politidirektoratet, Politiets ressursanalyse, 2015.
-Politidirektoratet, Femmeranalysen, Riksadvokatembetets og Politidirektoratets dialogmøter
-med fem politidistrikter, 2015.
-Politidirektoratet, Rammer og retningslinjer for
-etablering av nye politidistrikter, 2016.
-Politidirektoratet, Etterforskningen i politiet 2013.
-Politidirektoratet/riksadvokaten, Handlingsplan
-for løft av etterforskingsfeltet, 2016.
-Politiets Fellesforbund, Politi og påtale – grundig
-utredning nødvendig, 2016.
-Politihøgskolens strategiplan, 2017–2021.
-Riksadvokaten, Avhørsmetodikk i politiet, 2013.
-Qvigstad, Lasse, Intern instruksjonsmyndighet ved
-statsadvokat- og politimesterembetene, notat
-28.11.95.
-
-[Side 225]
-
-NOU 2017: 5
-En påtalemyndighet for fremtiden
-
-223
-
-Vedlegg 1
-
-Vedlegg 1
-
-Påtalemyndighetens behandling av økonomiske
-straffesaker
-
-1
-
-Innledning og problemstilling
-
-En forutsetning for å redusere kriminaliteten er at
-straffbare handlinger blir avdekket, oppklart og
-straffet på adekvat måte, innen rimelig tid.
-Offentlige kontrollmyndigheter har som oppgave, pålagt av lovgiver, å følge opp ulike samfunnsviktige områder, avdekke avvik, og sørge for
-at disse rettes opp og at lovbrudd forfølges. Aktører som begår kriminalitet på ett område har ofte
-økt sannsynlighet for å begå kriminalitet også på
-andre områder. Det er derfor en nær sammenheng mellom bekjempelse av f eks skattekriminalitet og bekjempelse av kriminalitet som rammer
-banker, kunder, leverandører eller øvrig offentlig
-forvaltning.
-Skatt, toll og avgifter er med på å finansiere
-den norske velferdsstaten. Systemene er basert
-på tillit, og er dermed sårbare for misbruk. Misbruk kan føre til mindre lojalitet til systemene
-som igjen kan resultere i inntektssvikt for den norske stat.
-Dersom denne formen for kriminalitet ikke følges opp på en forsvarlig og god måte av påtalemyndigheten, vil dette kunne tilsi at det er behov
-for større endringer på påtalesiden.
-Det synes som om det pr i dag er et strukturelt
-problem der både organisering av politi- og påtalemyndighet og sviktende samordning mellom kontrollsiden og påtalemyndigheten spiller inn. Forholdene har blitt markert verre etter at skatteetaten i 2008 etablerte skattekrimenheter, uten at
-politiet og påtalesiden ble rustet opp til å fange
-opp den økte satsningen på denne type kriminalitet. Det er også til dels store geografiske forskjeller i oppfølgingen av økonomiske straffesaker
-rundt i landet.
-I Påtaleanalysens mandat fremgår det bl a at
-utredningen skal danne grunnlag for en videreutvikling av og en kvalitetsreform i påtalemyndigheten. Vi skal vurdere om påtalemyndigheten har
-riktig kapasitet og kompetanse til å ivareta de mål
-
-som er angitt, identifisere forbedringspunkter og
-foreslå løsninger, i forhold til organisering, effektive arbeidsformer og systemer for samhandling
-opp mot samarbeidende aktører. Det fremgår
-også at vi skal se vårt arbeid i sammenheng med
-Særorganutvalget.
-Som del av dette arbeidet har jeg utarbeidet
-nedenstående notat, som er en gjennomgang av
-dagens kriminalitetsbilde og foretatte trusselvurderinger, en oversikt over myndighetenes forventninger til kontrolletatene og politi/påtale, slik
-dette fremkommer i diverse styringsdokumenter,
-en gjennomgang av tallmateriale for etterforskning og påtaleavgjørelser på feltet, samt en
-skisse over mulige tiltak som utvalget etter min
-mening bør vurdere. I arbeidet har jeg hatt møter
-med de ulike kontrolletatene samt Økokrim, og
-mottatt skriftlige innspill fra Toll, Arbeidstilsynet
-og NAV Kontroll.
-
-2
-
-Kriminalitetsbildet og
-trusselvurderinger
-
-Dagens kriminalitetsbilde på kontrolletatenes
-område er i ulike kilder beskrevet som følger.
-
-2.1
-
-Prop. 1 S (2015 – 2016) Statsbudsjettet;
-Gul bok for budsjettåret 2016
-
-Her heter det om skatte- og avgiftsunndraging:
-– Skatte- og avgiftsunndragingar er økonomisk
-kriminalitet som råkar fellesskapen og svekkjer grunnlaget for velferdsstaten. Det er
-grunn til å tru at omfattande skatte- og
-avgiftsunndraging og svart arbeid i eit samfunn
-er med på å svekkje den allmenne lojaliteten til
-skattesystemet. Sakene som Skatteetaten
-arbeider med, vert større og meir innfløkte.
-Dette har samanheng med kompliserte selskapsstrukturar, auka aktivitet over landegrensene, arbeidsinnvandring, fleirnasjonale kon-
+Status pr dags dato er at politiets og påtalemyndighetens behandling av økonomiske straffesaker ikke er tilfredsstillende, hverken når det gjelder kapasitet eller kompetanse, bortsett fra for NAV-sakene og tildels for sakene fra Arbeidstilsynet, (som imidlertid jevnt over anmelder langt enklere saker enn det toll og skatt gjør). Man kan jo spørre seg hvordan denne situasjonen kunne oppstå, men for vårt formål er jo ikke dette nødvendig å besvare.
+
+Det er ingen saklig grunn til å tro at det kommer til å bli mindre økonomisk kriminalitet i fremtiden, sml. også Økokrims trusselvurdering. Antall anmeldelser vil sannsynligvis øke. Er påtalemyndigheten rustet til å møte større utfordringer på området?
+
+Nærpolitireformen skal gi færre distrikter og mer robuste økoteam, men vil dette fullt ut avhjelpe behovet for skjermede, samlokaliserte ressurser, enhetlig prioritering og oppgaveløsning på tvers av politidistrikter, slik at saksbehandlingen kommer opp på et tilfredsstillende nivå? Politidistriktene er ikke *pålagt* å samlokalisere de nye øko-seksjonene («Enhet for etterforsking av økonomisk kriminalitet og miljøkriminalitet»), og det er nærliggende å anta at flere av dem vil videreføre dagens spredte lokalisering.
+
+Det er, og vil antagelig dermed fortsatt være et klart avvik mellom de forventninger og føringer myndighetene har til etterforskning og iretteføring av økonomisk kriminalitet, og virkeligheten.
+
+Dette bør utgjøre et tilstrekkelig omstillingstrykk til å begrunne endringer på feltet. Spørsmålet er jo om dette er et *erkjent* omstillingsbehov, noe som er vilkåret for endring.
+
+Etter min mening må utvalget uttrykkelig ta stilling til om den eksisterende situasjonen for økonomiske straffesaker, og antatt fremtidig utvikling i samme spor, er akseptabelt eller ikke. Dersom situasjonen skal aksepteres som den er, må dette begrunnes. Dersom situasjonen ikke er akseptabel må utvalget komme med forslag til endringer.
+
+Når det gjelder kompetanse, påpekes det kort at etter- og videreutdanning på feltet må tilbys og prioriteres av lokal ledelse.
+
+1.  **Mulige tiltak som utvalget bør vurdere i lys av nå-situasjonen**
+
+    1.  **Innledning**
+
+Man kan tenke seg flere mulige tiltak for å bøte på situasjonen som er beskrevet ovenfor:
+
+- Bør politi- og påtalemyndigheten få økte øremerkede ressurser på øko-området?
+
+- Organiseringen av arbeidet på området: Bør Økokrim beholdes og eventuelt styrkes som særorgan på feltet, herunder få et direkte styringsansvar for de lokale økoteamene?
+
+- Bør kontrolletatene få større hjemler for å ilegge administrative sanksjoner i stedet for straffesak, kombinert med en avkriminalisering av mindre alvorlige overtredelser?
+
+- Bør enkelte kontrolletater få utvidede kontroll- og sanksjonshjemler og/eller påtalekompetanse, slik at presset på påtalemyndighetene letter?
+
+- Er det andre tiltak som kan bedre samhandlingen mellom påtalemyndigheten og samarbeidende aktører, typisk kontrolletatene?
+
+  1.  **Økte øremerkede ressurser til etterforskning og påtale på øko-området**
+
+Dette ville klart avhjelpe situasjonen, men vil kreve mye penger. Er det sannsynlig at dette vil bli gjennomført, og at midlene/personale ikke vil bli omdisponert av den enkelte politimester? Hvem skal i tilfellet øremerke midlene?
+
+1.  **Organiseringen av Økokrim og økoteamene**
+
+Utvalget bør vurdere å si noe om Økokrims stilling som særorgan på dette området, samordnet med særorgansutredningen.
+
+- Bør Økokrim få et nasjonalt fag- og styringsansvar for samtlige øko-team, uavhengig av lokal politimester?
+
+- Bør Økokrim legges direkte under Riksadvokaten, utenom POD?
+
+- Skal utvalget si noe om Økokrims indre organisering, der statsadvokaten er en integrert del av etterforskningen, og de sikkerhetsmekanismer som benyttes der for å sikre objektivitet (internkontrollsystemer)?
+
+- Bør Øko-teamene ta samtlige mengdesaker, slik at disse løftes ut av generalistsfæren, gjennom standardiserte rutiner og begrenset arbeidsinnsats? (Se Nasjonalt Fagansvar, delrapport 2, side 28).
+
+  1.  *Kort om integrert påtale og etterforskningsledelse på statsadvokatnivå*
+
+Det minnes innledningsvis om at Økokrim har hatt en domfellelsesprosent på 85, de siste fem årene, noe som underbygger at etterforskningsledelsen og påtalearbeidet forøvrig er mer enn forsvarlig i enheten.
+
+Her er det forøvrig av interesse å se på ordningen i Sverige, Danmark, Nederland osv. Også i disse landene har enhetene som tilsvarer Økokrim (Ekobrottsmyndigheten, SØIK) den samme ordningen som Økokrim har i dag, med integrert påtale på statsadvokatnivå, der samme statsadvokat følger saken fra oppstart til endelig dom.
+
+For å sikre objektivitet og rettssikkerhet har disse organene implementert internkontrollsystemer som skal gi «motstand» under etterforskningen og påtaleavgjørelsen. I Økokrim er følgende tiltak etablert for å sikre kvalitet, objektivitet og rettssikkerhet:
+
+- Etablert saksbehandlingsbase som omfatter en detaljert beskrivelse av obligatoriske rutiner for de ulike fasene i saksbehandlingen.
+
+- Etablert rutine for forprosjekt før saksinntak, for å sikre at det er de riktige sakene som plukkes ut til behandling.
+
+- Krav om løpende oppdatert arbeidssiktelse, som synliggjør påtalemessige beslutninger om avgrensning og målretting av etterforskningen.
+
+- Løpende bruk av etterforskningsplan, bevisnotat, saksmøter og sjekkliste ved påtalevedtak.
+
+- Samtlige saker Økokrim har hatt til behandling evalueres, både med henblikk på etterforskningen og iretteføringen.
+
+- Opplæringsprogram og fadderordning for nyansatte, internundervisning for samtlige ansatte.
+
+  1.  *Kort om nasjonalt fagansvar for Økokrim*
+
+Riksadvokatens oppdragsbrev av 9.10.2014 ber om en bred vurdering av et nasjonalt fagansvar for Økokrim på området. Som resultat av dette avga en arbeidsgruppe «Utredning om nasjonalt fagansvar for Økokrim, delrapport 2», den 30.4.2015. Denne rapporten tar for seg hvordan innsatsen på området best kan innrettes i de nye politidistriktene, og må sees i sammenheng med forslagene som kom i delrapport 1.
+
+I den første rapporten ble det foreslått at Økokrim skal ha ansvar for å utarbeide og ajourholde felles beste praksis for å håndtere saker på området. Det ble videre foreslått tettere dialog mellom Økokrim og økoteamene, samt evaluering av større saker for å avdekke utviklingsbehov. Det ble også foreslått tiltak for å styrke kompetanseoverføringen fra økokrim til økoteamene på ulike måter, samt at Økokrim etter avtale i enkeltsaker kunne få tildelt fagledelse over økoteamet.
+
+I delrapport 2 foreslås det i tillegg at Økokrim tildeles fagledelsesmyndighet over økoteamene på statsadvokatnivå, for store og kompliserte saker på området, samt at Økokrim gis formell kompetanse til å gi instrukser om arbeidsmetodikk i straffesaker på feltet. For å styrke oppfølgingen av måloppnåelse foreslås det videre at Økokrim får en formell rolle i styringsprosessen av økoteamene primært gjennom årlige lærings- og forbedringsprosesser basert på resultatmåling, samt at Økokrim utarbeider årlige måloppnåelsesrapporter.
+
+1.  **Nye hjemler for administrative sanksjoner**
+
+I NOU 2003: 15 «Fra bot til bedring» la utvalgets forslag til rette for at å avkriminalisere overtredelser som nå er belagt med straff, der administrative sanksjoner eller tvangsmulkt kan sikre etterlevelse. Reglen i straffeprosessloven § 71 c som gir adgang for påtale til å henlegge sak og overføre den til administrativ sanksjon i forvaltningen, har ennå ikke trådt i kraft.
+
+Både Riksadvokatens prioriteringsrundskriv, Nærpolitireformen samt Etterforskningsløftet underbygger at det å avgjøre saken på stedet, og i én etat, ansees å være mest ressurseffektivt. I Prop. 62 L (2015–2016) støtter Justis- og Beredskapsdepartementet følgende utsagn i NOU 2003:15 i pkt. 10.5.2.2:
+
+«Kostnadene reduseres (totalt sett) ved at saken normalt bare behandles i én etat (forvaltningen) istedenfor i to eller tre (forvaltningen, politiet/påtalemyndigheten og eventuelt domstolene)».
+
+Dersom enklere forhold tas ut av straffebestemmelsen, samsidig som kontrolletatene får hjemmel til å ilegge administrative sanksjoner i form av betydelige beløp, vil man kunne «flytte» de mindre alvorlige straffesakene ut fra politi- og påtale, og på den måten frigjøre kapasitet som kan brukes på de mer omfattende sakene. Se nærmere NOU 2003:15:
+
+«Mandatet fremhever to hovedsvakheter ved det nåværende sanksjonssystem for overtredelser av særlovgivningen: Altfor mange, til dels bagatellmessige regelbrudd er straffbare, og en altfor stor del av straffebestemmelsene er tomme trusler i den forstand at de i liten grad – eller ikke i det hele tatt – blir håndhevet. Begge deler er samfunnsmessig uheldig og svekker respekten for straff. På mange områder er det dessuten grunn til å anta at andre sanksjoner enn straff både kan gi bedre etterlevelse av reglene og kreve færre ressurser.» (pkt. 1.2)
+
+«Administrative sanksjoner vil normalt være mer effektive enn straff ved at man sparer tid og kostnader, samtidig som håndhevelsen bedres. Kostnadene reduseres (totalt sett) ved at saken normalt behandles i én etat (forvaltningen) istedenfor i to eller tre (forvaltningen, politiet/ påtalemyndigheten og eventuelt domstolene). Behandlingen i forvaltningen vil dessuten ofte være enklere enn i strafferettsapparatet. At saken behandles i én etat istedenfor i flere, medfører også at administrative sanksjoner normalt kan ilegges raskere enn straff. Kort tid mellom overtredelse og sanksjon er viktig for sanksjonens preventive virkning.» (pkt 1.3)
+
+I Riksrevisjonens undersøkelse av myndighetenes innsats mot arbeidsmiljøkriminalitet, Dok 3:15 (2015–16) blir det imidlertid fremhevet at Arbeidstilsynet ikke har vært flinke nok til å benytte den administrative sanksjonsmuligheten de fikk med hjemmel i lov, i 2013:
+
+«I juni 2013 vedtok Stortinget at Arbeidstilsynet skal kunne ilegge overtredelsesgebyr ved brudd på arbeidsmiljøregelverket. Det ble ved innføringen av dette virkemiddelet forutsatt at det ville gi en mer effektiv håndhevelse av og respekt for regelverket, og at virksomheter som gjør seg skyldig i brudd på regelverket, skulle få en merkbar økonomisk reaksjon. Flertallet i arbeids- og sosialkomiteen framhevet det økte omfanget av sosial dumping som en begrunnelse for å utvide Arbeidstilsynets sanksjonsmuligheter, jf. Innst. S. 333 (2011–2012).
+
+Riksrevisjonen registrerer at overtredelsesgebyr har blitt svært lite brukt etter at dette virkemiddelet ble innført 1. januar 2014. Det er i perioden 2014­2015 ilagt 33 overtredelsesgebyrer.
+
+Spørreundersøkelsen til Arbeidstilsynet viser at en viktig årsak er at det er ressurskrevende og komplisert å vurdere om det er grunnlag for å ilegge gebyr. Gebyrene er i all hovedsak ilagt for forhold som gjelder sikkerhet, for eksempel farlig arbeid i høyden. Riksrevisjonen ser det som uheldig at Arbeidstilsynet ikke har innfridd forutsetningene om å bruke overtredelsesgebyr som et virkemiddel mot sosial dumping ­ noe som var en viktig begrunnelse fra Stortingets side. Riksrevisjonen mener at Arbeidstilsynet i større grad burde ha tatt i bruk overtredelsesgebyr for å sikre mer effektiv håndhevelse av og respekt for arbeidsmiljøregelverket.»
+
+1.  **Utvidelse av kontroll- og sanksjonshjemlene til kontrolletatene**
+
+    1.  *Innledning*
+
+Utvalget bør ta stilling til om det er oppgaver som i dag tilligger politi/påtalemyndigheten, som heller kan legges til andre, slik at straffeforfølgningen og dermed etterlevelsen styrkes. Svært mange andre land har slike ordninger.
+
+Samtlige kontrolletater har i sitt mandat at de skal opptre objektivt i sin saksbehandling. Etatene møter av og til en «fordom» om at de på grunn av sin anmelderrolle er partiske og subjektive. Etatene er imidlertid ikke mindre objektive enn politiet. Beviskravene er selvsagt ulike, men det er liten grunn til å tro at jurister i kontrolletatene vil ha problemer med å vurdere en sak i lys av det relevante beviskravet avhengig av om saken er rent sivil eller om den skal vurderes strafferettslig. Dette er jo f.eks. vurderinger dommere klarer utmerket.
+
+*Regelverk i Danmark og Sverige mv.*
+
+I Danmark og Sverige har de andre ordninger enn i Norge, når det gjelder økonomisk kriminalitet. Det kan være god grunn til å vurdere disse som alternativer også her.
+
+I Danmark har skatteetaten hjemmel til å skrive ut administrative straffegebyr på opp mot Dkr 440 000 ved forsettlig skatteunndragelse på opp til Dkr 250 000, og straffegebyr uten maksgrense for grov uaktsom unndragelse, der skattyter erkjenner forholdet. Skatteetaten kan også skrive ut «ordensbøder» på mellom Dkr 1 000 og 5 000, for forhold som ikke har medført unndragelser. Dersom disse typene sanksjoner ikke vedtas av skattyter, oversender Skat en tiltalebegjæring til politiet, som i mange tilfeller vil kunne tas til retten uten ytterligere etterforskning.
+
+I Sverige har Skatteverkets skattebrottsenheter (SBE) etterforskningskompetanse i straffesaker. Etterforsknings-kompetansen er regulert i Lag (1997:1024) om Skatteverkets medverkan i brottsutredningar. Det er etablert SBE-kontorer i åtte av Sveriges største byer, og bemanningen er på totalt ca 200 personer.
+
+Det er statsadvokaten som beordrer og styrer etterforskingen i regi av Skattebrottsenheter. Sverige har et eget myndighetsorgan Ekobrottsmyndigheten, som er underlagt Justisdepartementet på linje med riksåklagaren og rikspolischefen. Enheten har ansvaret for saker om regnskapsovertredelser, skattesvik, konkurssaker, VPS-overtredelser, aksjelovbrudd og lignende kompliserte økonomisaker. De får saker gjennom egen etterretning, anmeldelser fra kontrollmyndigheter og andre, og fra Grov Organiserad Brottslighets-satsningen.
+
+Andre saker på området som ikke håndteres av Ekobrottsmyndigheten håndteres av ordinær politi- og påtalemyndighet.
+
+I 2014 behandlet Ekobrottsmyndigheten 5 573 saker, hvorav 2 514 var mengdesaker. Mengdesaker omfatter bl a enklere skattesaker, selskapslovbrudd og konkurssaker, og siles ut av utvalgte, erfarne jurister ved enheten. Selve etterforskning av en slik mengdesak skal ikke overstige 8 timer. En del av disse sakene er av samme type som i Norge i dag henlegges i stort omfang.
+
+I 2014 ble ca ¼ av Ekobrottmyndighetens saker etterforsket av Skattebrottenhetene innenfor det svenske skatteverket. Ekobrottsmyndigheten driver kompetansehevende tiltak for SBE for å sikre best mulig etterforskning av sakene.
+
+Som det fremgår av figuren er Skattebrott helt adskilt fra Skatteverkets øvrige drift.
+
+**\[:figur:figX-X.jpg\]**
+
+1.   
+
+Den svenske modellen utløser kapasitet hos politiet, gir klarhet i forhold til bevissikring og bevisopptak samt eierskap til ressursstyring og ansvar. Alt av maktutøvelse, sikkerhet i forhold til tjenestemenns arbeid ivaretas av det ordinære politiet. Skattebrott har slik det oppleves i Sverige vært en suksess både med hensyn til etterforsking av skattekriminalitet, og etterforsking av organisert kriminalitet.
+
+Nederlandske FIOD (som er den del av skatteadministrasjonen som har politimyndighet) har tydelig gitt uttrykk for at de ikke ville ha kunnet holde et nivå på etterforsking av økonomisk kriminalitet dersom de hadde vært nødt til å la dette skje gjennom det ordinære politisystemet.
+
+Politimessig etterforskningskompetanse er forøvrig gitt til skatteetaten i 28 land, hvorav vi sammenligner oss med de fleste av dem. Se Modell 1 og 2 i tabellen nedenfor, som er hentet fra OECD-rapporten «Effective Inter-Agency Co-operation in fighting tax crimes and other financial crimes – 2013, Second edition», der det også heter at landene bør:
+
+«\[E\]evaluate the legal and operational ability of the tax administration to be involved in tax crime investigations, where these are conducted by other agencies. Countries should explore ways to remove potential barriers, and consider requiring increased participation in investigations by tax officials, taking into account the peculiarities of the different organizational models discussed in the report.»
+
+Rapporten fremhever således fordelene ved å i større utstrekning involvere skatteansatte i etterforskningen av skatte- og avgiftssaker.
+
+De organisatoriske modellene det her vises til fremkommer på side 31 i rapporten:
+
+<table>
+<tbody>
+<tr>
+<td><p>Model 1</p>
+<p><em>Tax administration directs ad conducts investigations</em></p></td>
+<td><p>Model 2</p>
+<p><em>Tax administration conducts investigations, directed by prosecutor</em></p></td>
+<td><p>Model 3</p>
+<p><em>Specialist tax agency outside tax administration conducts investigations</em></p></td>
+<td><p>Model 4</p>
+<p><em>Police or public prosecutor conducts investigations</em></p></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><p>Australia</p>
+<p>Canada</p>
+<p>Germany</p>
+<p>Greece</p>
+<p>India</p>
+<p>Ireland</p>
+<p>Japan</p>
+<p>Korea</p>
+<p>Malaysia</p>
+<p>New Zealand</p>
+<p>Singapore</p>
+<p>South Africa</p>
+<p>Switzerland</p>
+<p>Uganda</p>
+<p>United Kingdom</p>
+<p>United States</p></td>
+<td><p>Austria</p>
+<p>Azerbaijan</p>
+<p>El Salvador</p>
+<p>Estonia</p>
+<p>Hungary</p>
+<p>Latvia</p>
+<p>Netherlands</p>
+<p>Portugal</p>
+<p>Serbia</p>
+<p>Sweden</p>
+<p>Spain<sup>1</sup></p>
+<p>United States</p></td>
+<td><p>Ghana</p>
+<p>Greece</p>
+<p>Iceland</p>
+<p>Turkey</p></td>
+<td><p>Belgium</p>
+<p>Brazil</p>
+<p>Burkina Faso</p>
+<p>Chile</p>
+<p>Colombia</p>
+<p>Costa Rica</p>
+<p>Czech Republic</p>
+<p>Denmark</p>
+<p>Finland</p>
+<p>France</p>
+<p>Iceland</p>
+<p>Lithuania</p>
+<p>Luxemburg</p>
+<p>Mexico</p>
+<p>Norway</p>
+<p>Peru</p>
+<p>Slovak Republic</p>
+<p>Slovenia</p>
+<p>Spain</p></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><p>16 countries</p></td>
+<td><p>12 countries</p></td>
+<td><p>4 countries</p></td>
+<td><p>19 countries</p></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+<sup>1</sup> In Spain, tax crime investigations are currently directed by an examining judge.
+
+Spørsmålet om påtalekompetanse til kontrolletatene ble også behandlet i Juristforbundets utredning av november 2013 «Bekjempelse av organisert økonomisk kriminalitet gjennom etterforsknings- og påtalesamarbeid mellom politiet og statlige kontrolletater»:
+
+«Juristforbundet mener at det haster med å vurdere ansvars- og oppgavefordelingen innenfor i alle fall området for mindre saker med økonomiske kriminalitet. Derfor har forbundet initiert et samarbeidsprosjekt mellom representanter for politijuristene og juristene i Skatteetaten, Arbeids- og velferdsetaten og Tollvesenet. Målet har vært å belyse i hvilken grad de ressurser samfunnet benytter til bekjempelse av økonomisk kriminalitet brukes hensiktsmessig og hvilke utfordringer etatene står overfor når de skal samarbeide om å bekjempe denne kriminaliteten, dessuten foreslå konkrete tiltak som kan bidra til en mer effektiv kriminalitetsbekjempelse. (...)
+
+En tildeling av etterforskningskompetanse til fagetatene vil fravike prinsippet i Norge om ett enhetlig politi som monopolist på å etterforske straffbare forhold. Men som beskrevet er det flere etater som avdekker, undersøker og oppklarer straffbare forhold. Forholdene blir så oversendt politiet, som vil kunne etterforske saken dersom det er grunnlag for det og dersom de har kapasitet. Denne modellen har lange tradisjoner i Norge. Spørsmålet er om tradisjon alene er en god nok grunn til å ikke tenke nytt på dette feltet. Det er etter vår oppfatning tvilsomt om dette er den optimale modellen for samfunnets straffeforfølgning av kriminalitet.
+
+Dersom man evner å skape organisasjoner og kultur som ivaretar rettssikkerhetsgarantier og personvern, med kontroll og styring fra en uavhengig påtalemyndighet, vil man kunne få flere ben å stå på. Det er grunn til å tro at de fagpersonene som kontinuerlig arbeider med disse problemstillingene, kan utføre dette vel så godt som politiet. (...)»
+
+1.  *Kontrolletatene gis (utvidet) hjemmel til å ilegge forenklet forelegg eller betydelige gebyr*
+
+Et mulig tiltak for å lette arbeidsbyrden for påtalemyndigheten er at man beholder kriminaliseringen av overtredelsen, men lar forvaltningen ilegge forenklet forelegg, eller betydelige gebyr.
+
+Som vist ovenfor er danske skattemyndigheter gitt hjemmel til å ilegge tildels betydelige bøter for skatte- og avgiftsunndragelser.
+
+I Norge har tollmyndighetene allerede i dag hjemmel til å utstede forenklet forelegg for tollovertredelser av mindre alvorlig art, jf. tolloven § 16-9. Dette gjelder innførsel av bestemte mengder alkoholholdige drikkevarer, tobakksvarer, drivstoff og andre varer. Overtredelser som overstiger disse mengde- og verdibegrensningene må forfølges ved anmeldelse til politiet. Forenklet forelegg kan heller ikke utstedes for vare som det krever særskilt tillatelse til å innføre, som for eksempel narkotika, legemidler og våpen. Det innebærer at alle tollovertredelser knyttet til innførsel av narkotika, legemidler og våpen som Tolletaten avdekker, må politianmeldes og avgjøres av politiet. Dette gjelder selv om overtredelsen gjelder mindre mengder.
+
+Det er imidlertid mest effektivt å få avgjort en straffesak på stedet, der det er grunnlag for det. Enkelte politidistrikt har utviklet en praksis der vanlig forelegg kan meddeles overtrederen på stedet mens han fortsatt står i tollkontrollen, fordi det har vist seg å være en effektiv og ressursbesparende måte å avgjøre mindre alvorlige saker på.
+
+Tolletatens beslagsstatistikk viser 69 372 beslag av alkohol- og tobakksvarer i årene 2013–2015
+
+som ble avgjort med forenklet forelegg av Tolletaten. Mengdegrensene for forenklet forelegg i dag er imidlertid såpass lave at selv en dobling av disse vil ha relativt liten effekt volummessig. For å sikre en betydelig besparelse for politiet ved at tolletaten tar flere av disse sakene, vil det antagelig være hensiktsmessig ikke bare å doble mengdegrensen, men å øke disse opp til det nivået for ordinære forelegg utstedt av politiet i Øst benytter, ved smugling av alkohol og tobakk. Da ville ytterligere ca. 1700 beslagstilfeller årlig vil kunne avgjøres med forenklet forelegg.
+
+Når det gjelder narkotika har tolletaten i årene 2013–2015 registrert 3737 beslag innenfor de mengdene som Riksadvokaten i rundskriv har angitt at det kan utstedes forelegg for innførsel av. Antall beslag av forholdsvis mindre mengde narkotika, alkoholholdig drikke og tobakksvarer alene, er så høyt at det er grunn til å anta at ressursbesparelsene for staten totalt kan være betydelig dersom behandlingen av sakene kan effektiviseres ved en høyere grad av behandling på stedet.
+
+Utvalget bør vurdere om det er hensiktsmessig å heve tolletatens mengde- og beløpsgrensene for forenklet forelegg opp til grensene for ordinært forelegg, herunder å innføre en registreringsordning for vedtatte forenklede forelegg.
+
+Det kan også være grunn til å vurdere om mindre mengder av restriksjonsbelagte varer som legemidler, narkotika og våpen skal kunne sanksjoneres med forenklet forelegg. Bruk av forenklet forelegg for narkotikaovertredelser reiser en del prinsipielle problemstillinger, og inngår i den generelle narkotikadebatten. Når det gjelder andre restriksjonsbelagte varer enn narkotika, er betenkelighetene mindre med å senke terskelen for bruk av forenklet forelegg.
+
+Se forøvrig NOU 2003:15 «Fra bot til bedring» på side 260, hvor utvalget anbefaler de samme tiltak.
+
+Videre bør utvalget vurdere å anbefale en utredning av hjemmel for skatteetaten til å ilegge forenklet forelegg/betydelige gebyrer i skatte- og avgiftssaker, etter mønster fra Danmark.
+
+1.  *Bevissikring/ etterforskningskompetanse i skatteetaten*
+
+Straffeprosessuelle elementer er allerede inne i forvaltningssporet. At tilleggsskatt er straff innebærer bl.a. forbud mot dobbelstraff, vern mot selvinkriminering og krav til bevis utover rimelig tvil ved ileggelse av skjerpet tilleggsskatt. Skattyter har på denne måten fått en del straffeprosessuelle rettigheter uten at forvaltningen samtidig har fått straffeprosessuelle virkemidler til å etterforske.
+
+Skatteetaten bidrar i straffesaksbehandlingen bl.a. gjennom bistandsrevisorordningen og operativ samarbeidsinstruks, og har avgitt ca 30 bistandsrevisorer som er tilknyttet økoteamene i politidistriktene der de styres av politiet. De utgjør ca 10  % av økoteamenes ressurser.
+
+I tillegg bistår skatterevisorer i betydelig grad i etterforskningen av saker som anmeldes fra skatteetaten. Dette avtales i den enkelte sak, med utgangspunkt i operativ samarbeidsinstruks mellom politi/påtale og skatteetaten. Skatterevisor deltar da i etterforskningen i straffesporet, f.eks. ved å delta på i ransaking/beslag, beslagsgjennomgang, forberedelser og deltagelse i avhør, bisitter/sakkyndig vitne i retten mv. Skatterevisors bidrag styres da av påtale/politi i den enkelte sak.
+
+Det er altså slik at forvaltningen allerede i dag deltar i straffeforfølgning av skatte- og avgiftskriminalitet. Spørsmålet er om dette bør utvides.
+
+1.  *Bevissikringshjemmel til skatteetaten*
+
+Stortinget har bedt regjeringen utrede om Skatteetaten kan få bedre muligheter til å innhente relevant informasjon og sikre bevis, blant annet gjennom beslag. Det vises til Representantforslag om tiltak for å styrke kampen mot svart arbeid, Dokument 8:7 S (2014–2015), Innst. 218 S (2014–2015) med tilhørende stortingsvedtak 513.
+
+Skatteetaten har hjemmel til å gjennomføre kontroll hos de opplysningspliktige ihht ligningsloven. De opplysningspliktige skal gi adgang til virksomhetens arkiver og fremlegge informasjon av betydning for skatter og avgifter og kontrollen av disse. Kontrollhjemlene forutsetter imidlertid her medvirkning fra den opplysningspliktige. Dersom opplysningspliktige har hjemmekontor, driver næring på bopelsadressen eller oppbevarer virksomhetens materiale på bopel vil imidlertid ikke skatteetaten ha hjemmel til å ta seg inn og få dette utlevert.
+
+Ved å innføre regler om bevissikringskompetanse, vil skatteetaten sikres tilgang også til informasjon oppbevart på bopel.
+
+1.  *Etterforskningskompetanse til skatteetaten*
+
+I tillegg til bevissikring kan en politimyndighet i skatteetaten omfatte hele eller deler av etterforskingen. En viktig del av etterforsking i straffesaker er avhør. Bistandsrevisorene har i dag avhørskompetanse når de jobber for politiet. Hvis skatteetaten får muligheter til å gjennomføre bevissikring og avhør på samme måte som politiet, vil etaten i enda større grad kunne levere «ferdig» etterforskede anmeldelser og på denne måten også luke ut saker som ikke vil føre frem strafferettslig.
+
+Man kan også tenke seg at Skatteetaten får etterforskningsansvar f.eks. etter modell fra Sverige, der påtalemyndigheten styrer Skattebrottsenhetens etterforskning. Ansatte i Skattebrott er helt adskilt fra skatteverkets øvrige ansatte og systemer. Den svenske modellen har gitt viktige resultater i arbeidet mot organisert kriminalitet, og svenske myndigheter er helt klare på at etableringen av Skattebrott i 1997 har gjort politiet bedre i stand til å bekjempe slik kriminalitet.
+
+Dersom skatteetaten gis etterforskningskompetanse, vil det antagelig bli nødvendig å tilby videreutdanning innen etterforskingsfaget for de aktuelle ansatte i etaten.
+
+1.  *Påtalekompetanse til skatteetaten*
+
+Utvalget bør vurdere å anbefale en utredning av en riksadvokatstyrt påtaleenhet i skatteetaten.
+
+Dette kunne f eks gjøres gjennom etablering av et etterforsknings- og påtaleorgan som er organisatorisk adskilt fra skattekontorets virksomhet forøvrig. Dette ville sikre et skille mellom forvaltningsoppgavene (fastsetting, kontroll og innkreving) og straffesaksbehandlingen, slik at man ikke risikerer sammenblanding av opplysninger. Enheten kunne ha ansvar for etterforskning og påtale, og kunne ligge i linje under statsadvokatembetet, ev. Økokrim, og riksadvokaten.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Modell: Etterforskning og påtale, organisatorisk adskilt fra skattekontoret forøvrig, og under faglig styring av Riksadvokat og Økokrim eller statsadvokatembete
+
+Modellen viderefører at det er politiet (her: den organisatorisk avgrensede enheten med politimyndighet) som skal «avdekke og stanse kriminell virksomhet og forfølge straffbare forhold i samsvar med regler gitt i eller i medhold av lov», jf. politiloven § 2 nr. 3. Grensesnittet mellom etatens påtaleenhet og ordinær påtalemyndighet kan tas inn i påtaleinstruksen.
+
+Organisatorisk kan etterforskning og påtale samles i samme organisatoriske enhet, eller holdes adskilt, dog slik at påtaledelen skal styre etterforskningen av sakene.
+
+Påtalekompetansen kunne begrenses til å omfatte konkrete lovbrudd, eller f eks lovbrudd med lavere strafferamme, og kunne omfatte forelegg/bøter og eventuelt fengsel. Det er en rekke formelle overtredelser det kunne vært aktuelt å la skatteetaten ilegge forelegg/bøter, på som f eks manglende innslag på kasse mv.
+
+For å få en reell bedring i politi- og påtalemyndighetens kapasitet er det viktig at også noen mer krevende saker kan tas av forvaltningen. Ved kun å flytte de enkleste foreleggssakene over til en påtaleenhet i skatteetaten, vil man neppe frigjøre tilstrekkelige ressurser til at ordinær politi- og påtale kan ta de største og mest krevende økonomiske straffesakene.
+
+Det kan derfor også vurderes å la en påtaleenhet i skatteetaten ta ut tiltale, og gjennomføre hovedforhandling på enklere saker om uteholdt omsetning, som ikke omfatter skjønn, saker om fiktiv fakturering, med medvirkeransvar på uttaksleddene for merverdiavgiftsbedrageri og skattesvik, samt f eks bostedssaker, der skattyter uriktig har meldt utflytting fra Norge for å unngå skatteplikt. Her vil bevissituasjonen være temmelig klar, og avhør av de involverte gjennomført av etterforskere i etaten kan gi tilstrekkelig grunnlag til å ta ut tiltale.
+
+En slik enhet kan gjøre det nødvendig å etter-/videreutdanne skatteansatte, for å kunne drive med etterforskningsledelse og iretteføring.
+
+1.  *Begrenset etterforsknings- og påtalekompetanse til tolletaten*
+
+Det er tidligere blitt redegjort for flere alternative modeller for gjennomføring av et slikt forslag, se «Utredning om Tolletaten bør gis etterforsknings- og/eller påtalekompetanse» av mars 2016, i de saker som har så lav alvorlighetsgrad at de kan avgjøres med alminnelig forelegg.
+
+I disse sakene er bevissituasjonen som regel såpass klar etter tolletatens kontrollarbeid, at sakene kan påtaleavgjøres direkte (på stedet), eller det gjenstår kun mindre inngripende etterforskningsskritt, som for eksempel gjennomføring av avhør.
+
+Grunnleggende hensyn som politisk uavhengig styring av påtalefunksjonen, vern mot selvinkriminering og rettssikkerhet sikres gjennom modellutformingen, domstolsprøving av enkeltsaker, kompetanseheving i etaten samt internkontroll.
+
+Gevinsten er økt effektivitet i straffesaksbehandlingen ved at flere saker avgjøres på stedet og at færre saker henlegges, samtidig som politiet kan frigjøre ressurser til de mer alvorlige lovovertredelsene.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Modell 2 – Kun påtale, ingen etterforskning
+
+Modellen er ressurseffektiv ved at det kan opprettes et begrenset antall sentrale påtaleenheter i Tolletaten, som kan innrettes for raskt å behandle påtalespørsmålet i tollfiltersakene og utstede eventuelle forelegg slik at de kan meddeles overtrederen mens vedkommende fortsatt står i tollkontrollen.
+
+[^1]: NOU 2013: 9 Ett politi – rustet til å møte fremtidens utfordringer (Politianalysen).
+
+[^2]: Se punkt 1.5.10.
+
+[^3]: Se punkt 2.3.4.
+
+[^4]: Kgl.res. 30. september 2016.
+
+[^5]: NOU 2013: 9 side 22.
+
+[^6]: NOU 2013: 9 side 108.
+
+[^7]: Visionsudvalget 2005 side 11.
+
+[^8]: Visionsudvalget 2005 side 140.
+
+[^9]: Politidirektoratet, Politiet mot 2020 side 7.
+
+[^10]: Analysen finnes på www.politi.no.
+
+[^11]: Vestfold, Østfold, Telemark, Rogaland og Hordaland politidistrikt.
+
+[^12]: Straffesaksregister.
+
+[^13]: Politidirektoratet, Beskrivelser og vurderinger av politiets resultater på ulike indikatorer i straffesaksbehandlingen, 1. september 2014.
+
+[^14]: Politidirektoratet og Riksadvokatembetets dialogmøter med fem politidistrikter, 8. april 2015.
+
+[^15]: Politiets Analyse og ledelsesverktøy.
+
+[^16]: Femmeranalysen side 5–6.
+
+[^17]: Power Point-slide fra Politidirektoratet i forbindelse med at funnene fra Femmeranalysen ble presentert på utvidet påtaleledermøte i april 2015.
+
+[^18]: Prop. 61 LS (2014–2015) Endringer i politiloven mv. (trygghet i hverdagen – nærpolitireformen).
+
+[^19]: Handlingsplan for løft av etterforskningsfeltet, et samarbeid mellom Politidirektoratet og Riksadvokatembetet.
+
+[^20]: Politidirektoratet, Analyse av politiarbeid på stedet, 29. oktober 2015.
+
+[^21]: Fritz Moen ble i 1978 dømt for å ha voldtatt og drept ei ung jente i Trondheim. I 1981 ble han på nytt dømt for drap på ei annen ung jente samme sted. Moen ble dømt til 21 år fengsel og 10 års sikring for de to drapene. Sakene ble gjenopptatt, og Moen ble frifunnet for drapene i henholdsvis 2004 og 2006. Moen døde i 2005.
+
+[^22]: Politihøgskolen, Kvalitet i etterforskningen – særlig om påtaleansvarliges rolle og betydning, 2015.
+
+[^23]: NOU 2003: 15 Fra bot til bedring side 139.
+
+[^24]: Prop. 62 L (2015–2016) side 17 – vedtakene 284, 285 og 286.
+
+[^25]: Prop. 62 L (2015–2016) side 7.
+
+[^26]: Prop. 62 L (2015–2016) side 21.
+
+[^27]: Prop. 62 L (2015-2016) side 8.
+
+[^28]: Prop. 62 L (2015–2016) side 119.
+
+[^29]: Lov 27. mai 2016 nr. 15. Endringslov til forvaltningsloven mv.
+
+[^30]: NOU 2016: 24 side 184.
+
+[^31]: Jørn Holme, Fra amtmann til statsadvokat. Om overgangen til en selvstendig påtalemyndighet, 1985.
+
+[^32]: Holme side 64.
+
+[^33]: Holme side 66.
+
+[^34]: NOU 1988: 39 Politi og påtalemyndighet side 11.
+
+[^35]: NOU 2003: 19 side 48 flg.
+
+[^36]: Stein Østre, Kommunaløkonomiske prinsipper, Bedriftsøkonomenes forlag 1993 side 36 flg.
+
+[^37]: Krav til straffesaksbehandlingen i politiet og ved statsadvokatembetene.
+
+[^38]: Se punkt 2.8.
+
+[^39]: Se punkt 1.5.2.
+
+[^40]: Rundskriv 3/1999.
+
+[^41]: Om lov om endring i straffeprosessloven og politiloven (romavlytting og bruk av tvangsmidler for å forhindre alvorlig kriminalitet).
+
+[^42]: Nytt i strafferetten nr. 2 1996 side 19 «Innlegg og kommentarer – etterforskning og påtalemyndighet» av daværende riksadvokat Georg Fr. Rieber-Mohn. På side 28 problematiseres hvorvidt det finnes et politifaglig område innenfor etterforskingen som er unndratt påtalemyndighetens ansvar. Spørsmålet besvares benektende under henvisning til at konsekvensen i så fall måtte bli at denne delen av virksomheten var underlagt politisk styring.
+
+[^43]: NOU 2016: 24 side 302.
+
+[^44]: Fremtidens politi – den danske politianalysen (se punkt 1.6.5).
+
+[^45]: Riksadvokatens vedlegg til brev til Justis- og beredskapsdepartementet av 14. januar 2016.
+
+[^46]: Riksadvokatens rundskriv 2/2012 – Krav til straffesaksbehandlingen i politiet og ved statsadvokatembetene.
+
+[^47]: Kvalitet i etterforskingen, side 33.
+
+[^48]: Se punkt 6.3.5.
+
+[^49]: Sture Bergwall (Thomas Quick) ble i perioden 1994–2001 dømt for åtte drap begått i årene 1976–1988. Han tilsto alle drapene. Tre domfellelser gjaldt drap på norske jenter i Norge. I 2008 trakk Bergwall alle tilståelsene, sakene ble gjenåpnet, og han ble frifunnet i samtlige. De tre norske sakene er per januar 2017 uoppklarte drapssaker.
+
+[^50]: Straffesak ved Hordaland politidistrikt. Åtte år gamle Monika ble funnet død i sitt hjem 14. november 2011. Opprinnelig ble saken henlagt som selvdrap, men er senere gjenopptatt. Mors tidligere samboer ble i tingretten domfelt for drap, og har inngitt en fullstendig anke.
+
+[^51]: Riksadvokatens publikasjoner 01/2015 Etterforskningen og den påtalemessige behandlingen i Monika-saken, 03/2015 Norsk politi og påtalemyndighets behandling av straffesaken mot Sture Bergwall, og 04/2015 Analyse av dødsulykker og straffesaksbehandlingen i trafikksaker.
+
+[^52]: Se vedlegg 1.
+
+[^53]: NOU 2016: 24 side 145.
+
+[^54]: Rundskriv 2/2012.
+
+[^55]: Busch, Tor, m.fl., Modernisering av offentlig sektor. Utfordringer, metoder og dilemmaer, 2005, side 28.
+
+[^56]: Prop. 1 S (2016–2017) tabell 1.1.
+
+[^57]: Stein Østre, Kommunalt selvstyre for demokrati og individtilpasset velferd, 2006, side 102 flg.
+
+[^58]: Busch, Tor, m.fl., Økonomistyring i det offentlige, 3. utgave 2002 side 60.
+
+[^59]: Georg Fr. Rieber-Mohn side 38.
+
+[^60]: NOU 2016: 24 side 185.
+
+[^61]: NOU 2016: 24 side 186.
+
+[^62]: Straffeprosessloven § 55 første ledd nr. 3.
+
+[^63]: Notat av 28. november 1995.
+
+[^64]: NOU 2016: 24 side 28 – ny bestemmelse i § 2-9 annet ledd.
+
+[^65]: NOU 2016: 24 side 190–194.
+
+[^66]: NOU 2016: 24 s. 195.
+
+[^67]: NOU 2016: 24 s. 134.
+
+[^68]: Riksadvokatens rundskriv nr. 3/2016 side 3–4.
+
+[^69]: Lov og Rett 2011 side 42–62 «Påtalejuristens rolle, hvordan den har forandret seg de siste 50 år og hva som forventes for fremtiden» av førstestatsadvokat ved Riksadvokatembetet Runar Torgersen.
+
+[^70]: NOU 1988: 39 side 13.
+
+[^71]: Politiets Årsrapport 2015 side 10
+
+[^72]: www.ssb/statistikkbanken - Statistisk sentralbyrå (SSB).
+
+[^73]: Tallene fra SSB gjelder t.o.m. 2014. Pga. innføringen av ny straffelov i 2015 har SSB foreløpig ikke publisert tall for dette året.
+
+[^74]: Marianne Sætre, Analyser av kriminalitet side 114-115. Politireform 2000 medførte en endring i registrering av lovbrudd med virkning fra oktober 2002. Ny registreringspraksis fungerer fullt ut fra 2004. Konsekvensen er en nedgang i antallet anmeldte lovbrudd i 2004, hvorav en ukjent størrelse kan tilskrives at tidligere dobbeltregistreringer er luket ut.
+
+[^75]: Andre enheter inkluderer Politidirektoratet, Nasjonalt ID-senter, Politiets IKT-tjenester, Politiets Fellestjenester, Politihøgskolen, Grensekommissariatet og Namsfogden i Oslo.
+
+[^76]: Det er et brudd i tallserien mellom 2012 og 2013. Til og med 2012 var alle politiinspektørstillinger definert som juriststillinger. Fra og med 2013 defineres politiinspektører i politifaglige stillinger som politi, etter instruks fra Justis- og beredskapsdepartementet. Politiinspektører uten politifaglig bakgrunn, eller uten krav til påtalekompetanse, er fra samme tidspunkt kategorisert som sivile. Stillingen til politiinspektører med påtalekompetanse blir fortsatt definert som «juriststilling».
+
+[^77]: Politiets ressursanalyse 2015.
+
+[^78]:
+    |  |  |  |  |  |  |  |  |  |  |
+    |----|----|----|----|----|----|----|----|----|----|
+    |  |  | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | Endring 2010–2015 | Endring 2014–2015 |
+    |  |  |  |  |  |  |  |  |  |  |
+    | Politi- stillinger | Distrikt | 7 354,3 | 7 344,3 | 7 429,5 | 7 771,2 | 8 056,2 | 8318,5 | 964,2 | 262,3 |
+    |  |  |  |  |  |  |  |  |  |  |
+    |  | Særorgan | 330,7 | 356,8 | 387,1 | 416,4 | 481,6 | 556,4 | 225,7 | 74,8 |
+    |  |  |  |  |  |  |  |  |  |  |
+    |  | Andre enheter | 85,2 | 100,1 | 109,3 | 145,0 | 145,5 | 152,9 | 67,7 | 7,4 |
+    |  |  |  |  |  |  |  |  |  |  |
+    |  | Totalt | 7 770,3 | 7 801,2 | 7 925,9 | 8 332,5 | 8 683,3 | 9027,8 | 1257,5 | 344,5 |
+    |  |  |  |  |  |  |  |  |  |  |
+    | Jurist- stillinger | Distrikt | 681,2 | 676,6 | 687,6 | 648,6 | 666,4 | 718,5 | 37,3 | 52,1 |
+    |  |  |  |  |  |  |  |  |  |  |
+    |  | Særorgan | 68,5 | 70,2 | 71,2 | 55,6 | 62,6 | 66,1 | -2,4 | 3,5 |
+    |  |  |  |  |  |  |  |  |  |  |
+    |  | Andre enheter | 57,3 | 59,3 | 59,7 | 18,5 | 15,8 | 16,1 | -41,2 | 0,3 |
+    |  |  |  |  |  |  |  |  |  |  |
+    |  | Totalt | 806,9 | 806,1 | 818,5 | 722,7 | 744,7 | 800,7 | -6,2 | 56,0 |
+    |  |  |  |  |  |  |  |  |  |  |
+    | Sivile stillinger | Distrikt | 3 620,6 | 3 532,5 | 3 528,5 | 3 606,5 | 3 629,0 | 3666,0 | 45,4 | 37,0 |
+    |  |  |  |  |  |  |  |  |  |  |
+    |  | Særorgan | 577,6 | 612,5 | 604,1 | 622,2 | 678,5 | 751,5 | 173,9 | 73,0 |
+    |  |  |  |  |  |  |  |  |  |  |
+    |  | Andre enheter | 682,2 | 729,6 | 815,8 | 885,8 | 952,5 | 1027,9 | 345,7 | 75,4 |
+    |  |  |  |  |  |  |  |  |  |  |
+    |  | Totalt | 4 880,3 | 4 874,6 | 4 948,4 | 5 114,6 | 5 260,0 | 5445,3 | 565,0 | 185,3 |
+    |  |  |  |  |  |  |  |  |  |  |
+    | Totalt | Distrikt | 11 656,0 | 11 553,4 | 11 645,6 | 12 026,4 | 12 351,6 | 12703,0 | 1047,0 | 351,4 |
+    |  | Særorgan | 976,8 | 1 039,5 | 1 062,4 | 1 094,1 | 1 222,7 | 1374,0 | 397,1 | 151,3 |
+    |  |  |  |  |  |  |  |  |  |  |
+    |  | Andre enheter | 824,7 | 889,0 | 984,8 | 1 049,3 | 1 110,5 | 1196,8 | 372,2 | 86,3 |
+    |  |  |  |  |  |  |  |  |  |  |
+    |  | Totalt | 13 457,5 | 13 481,9 | 13 692,8 | 14 169,8 | 14 684,8 | 15273,8 | 1816,3 | 589,0 |
+    |  |  |  |  |  |  |  |  |  |  |
+
+    Politidirektør Humlegård er i januarutgaven 2017 av Politiforum sitert på følgende: "Vi har sett på antall ansettelser de siste fem årene fram til november i år, og da snakker vi besatte årsverk som står på lønningslista vår. Det er ansatt 1281 politifolk i Norge. 157 jurister. Og 842 sivile. Totalt altså 2281 flere ansatte på fem år, og de aller fleste har gått til distriktene."
+
+[^79]: https://www.regjeringen.no/no/dokumenter/Prop-1-S-20142015/id2005414/sec2.
+
+[^80]: Politiets intranett.
+
+[^81]: Lov om statens tjenestemenn m.m. (tjml) § 1.
+
+[^82]: Politidirektoratet: Personalreglement for Politidirektoratet med underliggende etater (revidert 1. desember 2016).
+
+[^83]: Søylene markerer de som har svart «ja» på spørsmålet.
+
+[^84]: Hovedtariffavtalen i staten 1. mai 2016–30. april 2018 for Akademikerne side 54 vedlegg 1 – Lønnsplaner.
+
+[^85]: Embetene: HOP – Hedmark og Oppland, VT – Vestfold og Telemark, MRSF – Møre og Romsdal, Sogn og Fjordane, TF – Troms og Finnmark.
+
+[^86]: I tabellen fremgår det for 2015 og 2016 at konstitusjoner er medregnet. For 2015 fikk man budsjettmidler til å opprette tolv nye faste statsadvokatembeter. I påvente av Nærpolitireformen ble åtte av disse foreløpig opprettet som konstitusjoner. Disse konstitusjonene vil etter hvert gå over til å bli faste. Derfor er de tatt med. Som regel er konstitusjoner forbeholdt vikariat for statsadvokater som er i permisjon.
+
+[^87]: NOU 2016: 24 side 188.
+
+[^88]: PNP er innføringsprosjektet til Nærpolitireformen.
+
+[^89]: Rundskriv 2/2012, Krav til straffesaksbehandlingen i politiet og ved statsadvokatembetene side 2.
+
+[^90]: Rundskriv 2/2012 side 3.
+
+[^91]: Se punkt 2.8.3.
+
+[^92]: Rammer og retningslinjer for etablering av nye politidistrikt, side 139-140.
+
+[^93]: Ot.prp. nr. 35 (1978–79) side 113.
+
+[^94]: Innst. O. nr. 37 (1980–81) side 16.
+
+[^95]: Se riksadvokatens brev av 5. september 2002 til Politidirektoratet.
+
+[^96]: Rammer og retningslinjer for etableringen av nye politidistrikt, side 140–141.
+
+[^97]: Se punkt 4.9.2.
+
+[^98]: Innst. 6 S - 2014–2015 side 35
+
+[^99]: Prop. 1 S (2016–2017).
+
+[^100]: Riksadvokatembetets gjennomgang på Svalbardkurset 2015.
+
+[^101]: Jørn R.T. Jakobsen: Fragment til forståing av den rettsstatlege strafferetten 2009 side 48 flg.
+
+[^102]: Tildelingsbrev 2017 fra Justis- og beredskapsdepartementet til Den høyere påtalemyndighet, 6. januar 2017 side 2.
+
+[^103]: Tidsskrift for strafferett nr. 4 2010 side 348.
+
+[^104]: Budsjett-innst. S nr. 4 (1993–94) Innstilling fra Justiskomiteen om bevilgninger på statsbudsjettet for 1994.
+
+[^105]: St.prp. nr. 1 (1993–94).
+
+[^106]: Riksadvokatens ref. 16/95.
+
+[^107]: Utarbeidet av redaksjonsgruppe ledet av førstestatsadvokat Walter Wangberg.
+
+[^108]: Riksadvokatembetets virksomhetsplan 2016 side 5–11.
+
+[^109]: Prop 61 LS (2014–15) side 12.
+
+[^110]: Busch, Tor m.fl., Økonomistyring i det offentlige, 2002 side 55.
+
+[^111]: SSØ, 2006: 1.
+
+[^112]: Fornebo-utvalget side 42.
+
+[^113]: Anklagerfaglige fokusområder i retspraksis 2016 – Rigsadvokaten, 9. mars 2016.
+
+[^114]: Statsadvokaternes udførelse af nævningesager i 1. instans og statsadvokaternes samarbejde med politikredsene om udførelsen af straffesager i 1. instans – Rigsadvokatmeddelelsen 21.12.2012.
+
+[^115]: https://www.aklagare.se/globalassets/dokument/verksamheten-i-hogsta-domstolen/prioriterade-prejudikatfragor-2016.pdf.
+
+[^116]: Europol er Den europeiske unions organisasjon for politisamarbeid innen kriminaletterretning. Målet med organisasjonen er å forbedre effektiviteten og samarbeidet mellom medlemslandene i forbindelse med forebygging og bekjempelse av alvorlig internasjonal kriminalitet og terrorisme. Europol ble vedtatt opprettet i forbindelse med Maastricht-avtalen, og organet ble operativt i 1994. Norge er tilknyttet dette samarbeidet gjennom en traktat av 28. juni 2001.
+
+[^117]: Eurojust er en institusjon for EU-landene med representanter fra påtalemyndigheten i hvert land, opprettet i 2002 for å effektivisere etterforsking og påtale i straffesaker som gjelder grenseoverskridende og organisert kriminalitet. Norge inngikk samarbeidsavtale med Eurojust i april 2005. Relasjonene og oppgavefordelingen mellom Europol og Eurojust reguleres i en egen avtale av 9. juni 2004. Organene utfyller hverandre faglig ved at de representerer ulike sider og aspekter ved det europeiske politi- og straffesakssamarbeidet.
+
+[^118]: Interpol er en internasjonal organisasjon etablert i 1923 for å bidra til internasjonalt kriminalpolitisamarbeid.
+
+[^119]: Frontex er Den europeiske unions byrå for beskyttelse av EUs yttergrenser.
+
+[^120]: De fleste trender begynner andre steder i verden før de etter hvert treffer Norge, og rapporten representerer et antatt realistisk fremtidsbilde.
+
+[^121]: Utvalget er kjent med at det har vært diskutert om Kripos i fremtiden burde utgi en nasjonal kriminalitetsrapport. Alternativet er antakelig at Politidirektoratet gjør dette, basert på innspill fra underliggende etater.
+
+[^122]: Busch, Tor, mfl. 2003 side 235.
+
+[^123]: Fornebo-rapporten side 64.
+
+[^124]: For Oslo statsadvokatembeter avholdes to årlige styringsdialogmøter.
+
+[^125]: Myhrer side 219 flg.
+
+[^126]: Myhrer side 237.
+
+[^127]: Politiets og Anklagemyndighedens strategi – 2011–15. https://www.politi.dk/NR/rdonlyres/6257EAD5-9AF3-42C6-ACFE-E97658AA47DF/0/Politietoganklagemyndighedensstrategi201115.pdf.
+
+[^128]: Mål- og resultatplan for anklagemyndigheden 2016, http://www.anklagemyndigheden.dk/nyheder/Documents/maal-og-resultatplan-for-anklagemyndigheden-2016.pdf.
+
+[^129]: Mål- og resultatplan for anklagemyndigheden 2016 side 3.
+
+[^130]: Arbeidsgruppe nedsatt av Politiets Fellesforbund, april 2016.
+
+[^131]: Riksadvokaten – Politiets og påtalemyndighetens behandling av voldtektssaker – oppfølging av regjeringens handlingsplan mot voldtekt 2012–2014 – direktiver og anbefalinger, av 8. november 2013 punkt 4 side 3.
+
+[^132]: Tre menn var tiltalt for å ha voldtatt ei ung jente i Hemsedal i 2014. I tråd med prosessreglenes krav til kvalifisert flertall, ble de tre under dissens frifunnet i lagmannsretten.
+
+[^133]: Kåring foretatt av Universum i samarbeid med nettstedet E24. Se http://e24.no/spesial/universum-lister/studenter/?sector=juss-studenter.
+
+[^134]: Datasystemet Basisløsninger.
+
+[^135]: Prosjekt nye politidistrikter.
+
+[^136]: Utdanningstilbud for nytilsatte påtalejurister i politiet – delrapport 1 (2001) side 24.
+
+[^137]: Kapittel 7 side 30 flg.
+
+[^138]: Se punkt 1.3.
+
+[^139]: Se www.Politiforum.no/no/meninger/leserinnlegg («Politijuristene bør overføres til statsadvokatembetet!»).
+
+[^140]: Se punkt 2.4.1.
+
+[^141]: Daværende justisminister Odd Einar Dørum opprettet i 2001 spesialgruppen Catch, i dag Orgkrimseksjonen på Kripos. Dette representerte starten på den nasjonale innsatsen mot organisert kriminalitet.
+
+[^142]: Rundskriv om politiavhør del III.
+
+[^143]: Søylene i diagrammet markerer de som har svart «ja» på spørsmålet.
+
+[^144]: Riksadvokatens rundskriv 2/2016 om politiavhør kapittel III.
+
+[^145]: Rundskriv nr. 2/2012 side 4.
+
+[^146]: Etterretningsdoktrine for politiet utgitt i 2014
+
+[^147]: Rundskriv 1/2016 punkt II side 1.
+
+[^148]: I denne sammenheng ser en bort fra at etterforsking kan ha avvergende formål, jf. straffeprosessloven § 226 første ledd bokstav c. Da har påtalemyndigheten en klar rolle, jf. blant annet straffeprosessloven kapittel 17b om avvergende metodebruk.
+
+[^149]: Rundskriv 2/2012 side 2.
+
+[^150]: PBS 1 side 127 flg.
+
+[^151]: Rundskriv 2/2012.
+
+[^152]: Embetets arbeidsoppgaver er forankret i påtaleinstruksen kapittel 38.
+
+[^153]: Ved endringer i straffeprosessloven kapittel 27 i kraft fra 1. januar 2004 ble Gjenopptakelseskommisjonen etablert.
+
+[^154]: Ved lov 5. mars 2004 nr. 13, i kraft fra 1. januar 2005, ble Spesialenheten for politisaker opprettet. Gjennom denne lovendringen ble påtalekompetansen i sakene overført fra statsadvokatembetene til Spesialenheten.
+
+[^155]: Nye regler om strafferettslig utilregnelighet og strafferettslige særreaksjoner trådte i kraft 1. januar 2002.
+
+[^156]: Det ble i 2008 gjort flere endringer i straffeprosessloven for å styrke stillingen til fornærmede og etterlatte i strafferettspleien. Lovendringene trådte i kraft 1. juli 2008.
+
+[^157]: Lovendring som trådte i kraft fra 1. april 2004.
+
+[^158]: Riksadvokatens rundskriv 2/2012 del III.
+
+[^159]: Fornebo-utvalget punkt 3.5 side 44 flg.
+
+[^160]: Se punkt 1.6.
+
+[^161]: Riksadvokatens rundskriv 2/2012 er under revisjon, og en ajourført utgave vil komme i 2017. Her vil det bli identifisert en rekke generelle kvalitetsmarkører for straffesaksbehandlingen som sammen med relevante fagspesifikke standarder og øvrige overordnede direktiver vil stå sentralt i statsadvokatenes kvalitetskontroll av enkeltsaker.
+
+[^162]: Se utvalgets punkt 2.5.3.
+
+[^163]: Fornebo-utvalget side 52 flg.
+
+[^164]: Punktene 4.2 og 11.2.
+
+[^165]: Notat datert 15. august 2016 – Fagledelse og samhandling på straffesaksområdet – behovet for en justering av retningslinjer og rutiner.
+
+[^166]: Riksadvokatens brev av 28. juni 2016 til JBD – riksadvokatens ref. 2013/0191-109HST/ggr09.
+
+[^167]: Argyris og Schön skisserer to former for læring: enkelt- og dobbelkretslæring, og argumenterer for at mye av læringen i organisasjoner kan karakteriseres som enkeltkretslæring.
+
+[^168]: Handlingsplan for løft av etterforskningsfeltet 1.0 med politidirektørens og riksadvokatens forord, datert 31. mai 2016.
+
+[^169]: Andenæs, Johs, Alminnelig strafferett, ved Georg Fredrik Rieber-Mohn og Knut Erik Sæther, 6. utgave 2016 side 31.
+
+[^170]: NOU 1997: 15 side 24 flg.

@@ -1,913 +1,222 @@
-# NOU 2017: 9, del 12 av 25 (side 136–145)
+# NOU 2017: 9, del 12 av 24
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2017/8bd6d95e-nou-2017-9.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2017-9/id2545750/
 - Original-PDF: https://www.regjeringen.no/contentassets/1a1e793002264d9cb5b940e673622984/no/pdfs/nou201720170009000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 15 tabeller, 42 figurer, 158 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 136]
-
-136
-
-NOU 2017: 9
-
-Kapittel 7
-
-Politi og bevæpning
-
-Eksempel 1: «Politipatrulje var tilkalt til et sted
-der det var meldt om at en person forsøkte å
-angripe en person med kniv. Bilpatruljen var raskt
-på stedet, og grunnet bevæpning var det ikke tidstap for å bevæpne seg. Det kan ikke utelukkes at
-man avverget alvorlig personskade grunnet rask
-respons og fravær av tidstap for bevæpning».
-Eksempel 2: Patrulje ble tilkalt av en (be)ruset
-og ustabil person som fortalte at han ville kutte
-seg med kniv. Det var ingen trussel rettet mot
-politiet eller andre, slik at det var ikke gitt at
-denne meldingen tidligere ville gitt ordre om
-bevæpning. Politidirektoratet skriver:
-Ved politiets ankomst endret situasjonen slik at
-han ble oppfattet som trussel, slik at våpen
-raskt ble tatt opp av hylster. Vedkommende
-etterkom politiets pålegg, slik at politiet fikk
-kontroll på situasjonen. Uten bevæpning måtte
-tilsvarende situasjon vært håndtert ved at politiet måtte ha reddet seg ut av situasjonen, og
-bevæpnet seg fra ordningen med fremskutt
-lagring.
-Politidirektoratet finner i skrivet grunn til å
-påpeke at «bevæpningsordre ikke sjelden blir gitt
-i tilfeller som beskrevet i eksempel l og 2, slik at
-gjeldende midlertidige bevæpning har liten betydning».
-
-7.2.4
-
-Den fjerde anmodningen om samtykke
-til bevæpning – 6.3.2015
-Politidirektoratet ber i skrivet av 6.3.2015 om
-departementets samtykke til å forlenge gjeldende
-bevæpningsordning for 8 uker fra 19.4.2016, i
-medhold av våpeninstruksen § 10 fjerde ledd.
-Dette er den fjerde anmodningen om samtykke til
-bevæpning som oversendes departementet.
-I sitt svar av 10.4.2015 samtykker departementet igjen til at uniformerte mannskaper i kategori
-1, 3 og 4 kan være bevæpnet med pistol frem til
-7.6.2015, jf. våpeninstruksen § 10 fjerde ledd.
-Departementet presiserer at bevæpning kun skal
-finne sted i de distrikter/deler av distrikter hvor
-det «ut fra risiko- og sårbarhetsanalyser, vurdert
-opp mot politiets oppgaveløsning, anses nødvendig for å sette politiet i stand til å kunne avverge
-eller stanse handlinger som vil være særlig farlig
-for liv, helse eller viktige samfunnsinstitusjoner».
-Også denne gangen ber departementet om å bli
-holdt orientert om hvordan bevæpningen gjennomføres, og at direktoratet sørger for å ha oppdatert informasjon om bevæpningssituasjonen i politidistriktene til enhver tid. I tillegg ber departe-
-
-mentet direktoratet utarbeide tiltak som reduserer behovet for fortsatt bevæpning.
-I skriv av 20.4.2015 ber departementet om en
-orientering om hvordan bevæpningen konkret
-gjennomføres. Det vises til departementets skriv
-av 10.4.20156 om at bevæpning kun skal finne sted
-i de distrikter/deler der det «ut fra risiko- og sårbarhetsanalyser, vurdert opp mot politiets oppgaveløsning, anses nødvendig for å sette politiet i
-stand til å kunne avverge eller stanse handlinger
-som vil være særlig farlig for liv, helse eller viktige
-samfunnsinstitusjoner». Departementet gir svarfrist den påfølgende dag kl.12.00. Politidirektoratet bes om å opplyse hvorvidt det er utarbeidet tiltak som reduserer behovet for fortsatt bevæpning.
-Politidirektoratet viser i sitt svar av 21.4.2015
-til kommunikasjon mellom direktoratet og underliggende organer. Direktoratet oppsummerer med
-at det «ut fra en faglig vurdering antas det at det
-ikke vil bli vesentlig endring i bevæpningsordningen uten endret trusselvurdering». Direktoratet
-vedlegger et skriv som er sendt underliggende
-organer samme dag, der det er gitt føringer for
-den videre oppfølgingen av departementets skriv
-av 10.4.2015. Politidistrikt og relevante særorgan
-bes om å gjennomføre risiko- og sårbarhetsanalyse i samsvar med departementets føringer. Politimestrene bes videre om å fremme forslag til tiltak som kan redusere behovet for bevæpning.
-Forslag til slike tiltak bes om å oversendes direktoratet innen 30.4.2016.
-I et notat av 4.5.2015 fra Politidirektoratet til
-Justis- og beredskapsdepartementet skriver direktoratet at 16 politidistrikt og ett særorgan har gitt
-tilbakemelding om gjennomførte risiko- og sårbarhetsanalyser. Direktoratet oppsummerer innspillene slik:
-– Politidistriktene tar utgangspunkt i at nivået på
-terrortrusselen ikke er endret siden beslutning om bevæpning ble truffet ultimo november 2014, og at ut fra dette vil det være vanskelig å nedskalere gjeldende ordning med midlertidig bevæpning.
-– Spørsmål om bevæpning/ikke bevæpning må
-avgjøres ut fra en totalvurdering av tjenestens
-og oppdragets art og risiko, og ikke på grunnlag av geografi.
-– Alle patruljerende operative mannskaper utsettes for samme risiko, og må vurderes likt i forhold til midlertidig bevæpning. De inngår i et
-oppsett som skal ivareta politiets innsatsevne
-6
-
-I skrivet vises det til brev av 10.2.2015, men det må menes
-10.4.2015.
-
-[Side 137]
-
-NOU 2017: 9
-Politi og bevæpning
-
-–
-
-og vil ha samme behov for å ivareta egensikkerhet.
-Alle godkjente mannskaper må kunne brukes
-fritt i politidistriktet, uavhengig av geografisk
-primærområde. Det innebærer at mannskaper
-fra de ytre geografiske enhetene i gitte situasjoner må løse oppdrag i det største tettstedet.
-Man kan ikke skille ut deler av politidistriktet
-som mindre risikoutsatt enn andre. Ulike soner
-med ulik praksis vil være vanskelig for operasjonsleder i den daglige tjenesten.
-
-7.2.5
-
-Den femte anmodningen om samtykke
-til bevæpning – 11.5.2015
-Politidirektoratets femte anmodning om samtykke til forlengelse av bevæpningen fremkommer i skriv av 11.5.2015. Der redegjøres for innspillene fra distriktene etter gjennomførte risikoog sårbarhetsanalyser (som også omtalt i notatet
-av 4.5.2015). Det skrives at politidistriktene ikke
-har funnet egnede kompenserende tiltak, og de
-har derfor ikke gjort vesentlige endringer i den
-midlertidige bevæpningsordningen i distriktene.
-Videre står det:
-Under forutsetning av departementets samtykke til forlengelse av midlertidig bevæpning
-vil POD i løpet av samtykkeperioden vurdere
-bevæpningsbehovet slik at bevæpningen kun
-finner sted i de distrikter/deler hvor bevæpningen anses nødvendig for å ivareta innsatspersonellets egensikkerhet og innsatsevne.
-Politidirektoratet skriver videre om erfaringene
-fra tiden med midlertidig bevæpning at innrapportert tallmateriale på tilfeller av trusler om bruk og
-bruk av skytevåpen er tilnærmet lik tidligere,
-samt at det ikke har vært innrapporteringer om
-alvorlige uønskede hendelser knyttet til den midlertidige bevæpningen.
-Direktoratet vurderer situasjonen fortsatt som
-«uavklart» og at «trusselen er uendret». I medhold av våpeninstruksen § 10 fjerde ledd anmoder
-derfor direktoratet om departementets samtykke
-til å forlenge gjeldende bevæpningsordning for 8
-uker fra 7.6.2015.
-I sitt svar av 5.6.2015 skriver Justis- og beredskapsdepartementet at de finner å kunne gi samtykke til at uniformerte mannskaper i kategori IP
-1, 3 og 4 kan være bevæpnet med enhåndsvåpen
-(pistol) fram til 2.8.2015, jf. våpeninstruksen § 10
-fjerde ledd. Videre skriver departementet:
-Det presiseres at det er en forutsetning for
-bevæpning at det enkelte politidistrikt har utarbei-
-
-137
-
-Kapittel 7
-
-det risiko- og sårbarhetsanalyse som tilsier at det
-er behov for bevæpning av uniformerte innsatsmannskaper for at politiet skal være i stand til å
-utføre sitt samfunnsoppdrag.
-Departementet ber om at det utarbeides nye
-risiko- og sårbarhetsanalyser i det enkelte politidistrikt og at disse oversendes departementet.
-Direktoratet skal rapportere på fremdriften i dette
-arbeidet to ganger innen fristen for oversendelse.
-Departementet ber direktoratet sørge for å ha
-oppdatert informasjon til enhver tid om bevæpningsituasjonen i de enkelte politidistriktene. I tillegg skal det utarbeides tiltak som kan redusere
-behovet for fortsatt bevæpning, særlig sett opp
-mot oppdragets art. Det poengteres at det må
-gjennomføres løpende vurdering av tiltak som kan
-føre til at politiet ikke er bevæpnet i alle situasjoner.
-Justis- og beredskapsdepartementets ber i
-skriv av 9.6.2015 Oppfølging av stortingsvedtak av
-5. mai 2015, om at direktoratet utarbeider en evalueringsrapport om den midlertidige bevæpningen. I tillegg skal direktoratet utarbeide en utredning i samsvar med vedtak IV som ble fattet i Stortinget 5.5.2015: «Stortinget ber regjeringen utrede
-og vurdere konsekvensene av andre risikoreduserende tiltak, herunder blant annet objekt- og
-punktsikring». Svarfrist er satt til 1.9.2015.
-I e-post av 1.7.2015 gir Justis- og beredskapsdepartementet Politidirektoratet i oppdrag å vurdere om elektrosjokkvåpen kan være et alternativ
-til politiets skytevåpen.
-Politidirektoratet sammenstiller i skriv av
-16.7.2015 politidistriktenes risiko- og sårbarhetsanalyser (ROS-analyser). Direktoratet innleder med å redegjøre litt generelt for ROS-analysemetodikk og påpeker at det ikke er innført en
-lik metodikk i etaten på dette, noe som gjenspeiles
-i svarene fra politidistriktene. Direktoratet deler
-innspillene under to punkter; mulighet for differensiering på bakgrunn av geografi, og mulighet
-for differensiering på grunnlag av tjenestens art.
-Når det gjelder geografisk differensiering skriver
-direktoratet at alle politidistriktene oppgir at det
-vil være utfordrende å differensiere bevæpningen
-på grunnlag av geografi. Noen distrikter begrunner dette med at selv om en erkjenner at det i
-noen geografiske områder vil kunne være lavere
-sannsynlighet for en terrorhendelse, vil konsekvensene av en terrorhendelse der kunne bli tilsvarende større på grunn av lang avstand til politibistand. Derfor vurderes den samlede risikoen i
-disse områdene til å være like stor som i områder
-med høyere sannsynlighet for terrorhendelser,
-men med mer politiressurser tilgjengelig. Andre
-
-[Side 138]
-
-138
-
-NOU 2017: 9
-
-Kapittel 7
-
-Politi og bevæpning
-
-distrikter oppgir at det er utfordrende å differensiere bevæpning fordi det er vanskelig å se at noen
-områder har lavere sannsynlighet for hendelser
-som beskrevet i trusselvurderingen, enn andre. I
-følge skrivet har de fleste politidistriktene i tillegg
-oppgitt at det er utfordrende å skulle vurdere
-risiko lokalt når trusselvurderingene er nasjonale.
-Der lokale PST-avdelinger har bidratt i arbeidet
-med ROS-analysene, har de heller ikke klart å
-identifisere områder i distriktet der det klart kan
-utelukkes at terrorhandlinger kan skje.
-Politidirektoratet skriver videre at politidistriktene har oppgitt at det vil være utfordringer knyttet til å gjennomføre en differensiert bevæpningspraksis. Dagens totale politiberedskap baseres på
-flåtestyringsprinsippet, noe som innebærer å
-bruke ressursene der behovet til enhver tid er
-størst, uavhengig av geografiske grenser i distriktet. Dersom en likevel innførte bevæpning knyttet
-til geografiske deler av et politidistrikt, ville dette
-medføre økt kompleksitet i håndheving av den
-midlertidige ordningen med bevæpning. I tillegg
-vil fortløpende avvæpning og bevæpning i forhold
-til tjenestens art kunne medføre økt sannsynlighet
-for vådeskudd og personskade. Politidirektoratet
-oppsummerer:
-Basert på sentrale trusselvurderinger, og på
-innspill fra politidistriktene, kan det legges til
-grunn at sannsynligheten for en terrorhendelse ikke er like stor i hele landet. Imidlertid
-har ikke politiet klart å identifisere områder
-der risikoen vurderes til å være så lav at det
-ikke er behov for bevæpning for å ivareta egensikkerhet og innsatsevne. Risiko kan overføres
-fra et område til et annet, dersom politiet sikrer
-noen områder bedre enn andre gjennom
-bevæpning, og til område hvor politiet ikke
-opptrer bevæpnet.
-Når det gjelder differensiering på bakgrunn av tjenestens art, skriver Politidirektoratet at alle politidistrikter har rapportert at de har definert enkelte
-oppdrag som skal utføres ubevæpnet. Eksempel
-på slike oppdrag er forebyggende tjeneste, gjennomføring av avhør, psykiatritransporter og redningsoppdrag. I følge direktoratet har distriktene
-oppgitt at beslutning om hvilke oppdrag skal utføres ubevæpnet er basert på vurdering av risiko,
-samt hvorvidt bevæpningen vil være upraktisk,
-uhensiktsmessig eller kan virke støtende på publikum.
-Direktoratet skriver videre at innspillene fra
-distriktene viser at det varierer på hvilket nivå
-beslutningen om avvæpning tas. I noen distrikter
-
-er det forhåndsdefinerte tjenestearter og i tillegg
-kan innsatspersonellet selv vurdere om de vil
-gjennomføre oppdraget ubevæpnet. I enkelte distrikt blir patruljens vurdering av behov for avvæpning formidlet til operasjonssentralen, der beslutningen tas av operasjonsleder, og det loggføres i
-PO. Alle distriktene rapporterer at det gjøres
-risikovurderinger knyttet til hvorvidt en tjeneste
-kan utføres ubevæpnet. Tre distrikter har meldt at
-de anser at behovet for bevæpning vil være mindre dersom politiet øker tilstedeværelsen i form
-av flere menneskelige ressurser, samt at de intensiverer informasjonsinnhenting/etterretning. Det
-fremgår at distriktene selv ikke har anledning til
-dette gitt dagens rammer. Det fremgår også fra
-innspillene at en ikke nødvendigvis får samme sikkerhetsnivå ved å ta i bruk disse tiltakene som en
-får ved bevæpning, samt at disse tiltakene vil
-trenge noe tid før de får fullgod effekt.
-Politidirektoratet skriver videre at en styrket
-tilstedeværelse på forskjellige steder/arenaer vil
-gjøre behovet for bevæpning mindre, både ved at
-oppdagelsesrisikoen for å avdekke straffbare
-handlinger øker, samt at innsatsressurser vil være
-lettere tilgjengelig. I tillegg vil en styrket tilstedeværelse gi andre positive effekter, som mer synlig
-politi for innbyggerne, større muligheter til å forebygge og lettere tilgang på informasjon.
-Direktoratet skriver videre at det vil være hensiktsmessig å tydeliggjøre differensiering av tjenestens art noe mer enn det som er gjort tidligere. Det listes videre opp noen aktiviteter og
-noen grupper personell som kan være aktuelle
-[for å være ubevæpnet]. I følge direktoratet,
-mener politidistriktene at det fortsatt er nødvendig med bevæpning for å ivareta innsatspersonellets egensikkerhet og innsatsevne med bakgrunn
-i trusselvurderingens omtale av politiet som mål,
-samt at ikke andre tiltak kan gi tilstrekkelig effektiv beskyttelse mot ikke-varslede overraskende
-angrep.
-
-7.2.6
-
-Den sjette anmodningen om samtykke
-til bevæpning – 16.7.2015
-I skriv av 16.7.2015 anmoder direktoratet i medhold av våpeninstruksen § 10 fjerde ledd, departementet om samtykke til ytterligere å forlenge gjeldende bevæpningsordning for åtte uker fra
-2.8.2015. Dette er den sjette anmodningen fra Politidirektoratet til Justis- og beredskapsdepartementet. Direktoratet avslutter her med å anbefale at det
-ikke igangsettes noen prosess for å anskaffe elektrosjokkvåpen på nåværende tidspunkt, fordi det
-
-[Side 139]
-
-NOU 2017: 9
-Politi og bevæpning
-
-ikke vurderes som et kompenserende tiltak gitt
-begrunnelsen for den midlertidige bevæpningen.
-I skriv av 29.7.2015 gir Justis- og beredskapsdepartementet samtykke til å forlenge den midlertidige bevæpningen frem til 20.8.2015, jf. våpeninstruksen § 10, fjerde ledd. Departementet anmoder samtidig direktoratet om å tydeliggjøre en differensiering av tjenestens art hvor fortsatt midlertidig bevæpning ivaretas ut fra det til enhver tid
-gjeldende trusselbilde. Videre skriver departementet: «Det må fortløpende gjøres en vurdering
-av tiltak som kan føre til at politiet ikke er bevæpnet i alle situasjoner». Departementet ber om å bli
-holdt orientert om hvordan bevæpningen gjennomføres og om at direktoratet sørger for å ha
-oppdatert informasjon om bevæpningssituasjonen
-i det enkelte politidistrikt, til enhver tid. Departementet ber om statusrapport fra direktoratet
-innen 10.8.2015.
-
-7.2.6.1
-
-En tettere oppfølging
-
-Dagen etter departementets samtykke, den
-30.7.2015, mottok direktoratet en bestilling om
-Oppfølging i forbindelse med midlertidig bevæpning. Departementet ber her om en tilbakemelding om hvilken differensiering på gjøremål/funksjoner/tjenesteoppdrag som er vurdert og formidlet av Politidirektoratet til politidistriktene. Departementet ber også bl.a. om at elektrosjokkvåpen
-utredes tilstrekkelig – også i lys av et mulig fremtidig behov etter at ny våpeninstruks er trådt i
-kraft.
-I Politidirektoratets orientering til distrikter og
-særorgan i skriv av 31.7.2015 om forlengelse av
-den midlertidige bevæpningen, ber direktoratet
-distriktene rapportere om hvilken differensiering
-av gjøremål, funksjoner og tjenesteoppdrag som
-er vurdert og iverksatt.
-Den 10.8.2015 mottok Politidirektoratet en ny
-bestilling fra Justis- og beredskapsdepartementet
-knyttet til omfang av vådeskudd. Direktoratet bes
-om å hente inn fra politidistriktene antall vådeskudd/utilsiktede avfyringer med tjenestevåpen
-registrert i politiet i løpet av årene 2011, 2012,
-2013, 2014 og 2015. Det presiseres at det ikke gjelder avfyringer som har foregått i kontrollerte
-omgivelser «som nedspenning av våpen i kulefanger, skytebane eller lignende». Departementet
-ber om konkrete tall – uavhengig av om hendelsen har ført til skade på personell eller materiell.
-Samme dag, den 10.8.2015, ga direktoratet i
-skriv om Oppfølging i forbindelse med midlertidig
-bevæpning departementet en orientering om
-hvilke funksjoner og tjenesteoppdrag som forelø-
-
-139
-
-Kapittel 7
-
-pig skal gjennomføres ubevæpnet, basert på
-underliggende organers innspill. Direktoratet
-tydeliggjør at dersom enkelte politidistrikt mener
-at tjeneste innen de opplistede områdene på tross
-av hovedregel bør utføres bevæpnet, «skal det
-anmodes om bevæpning i det konkrete tilfellet til
-politimester, etter vanlige rutiner i medhold av
-politiets våpeninstruks. Politidirektoratet forutsetter at det gjennomføres lokale risikovurderinger i
-disse tilfellene, samt at en slik bevæpning rapporteres på vanlig måte i henhold til våpeninstruksen». Politidirektoratet skriver at fremskutt lagring er tilstrekkelig politiberedskap ved de typer
-tjeneste som er opplistet.
-Justis- og beredskapsdepartementet gir i skriv
-av 19.8.2015, med henvisning til direktoratets
-anmodning av 16.7.2015, videre samtykke til forlengelse av den midlertidige bevæpningsordningen for en periode på inntil åtte uker fra 20.8.2015
-frem til 15.10.2015, jf. våpeninstruksen § 10, fjerde
-ledd; «Departementet vil med dette samtykket
-sette politiet i stand til å kunne avverge eller
-stanse handlinger som vil være særlig fare for liv,
-helse eller viktige samfunnsfunksjoner». Departementet minner om at det er direktoratet som
-beslutter midlertidig bevæpning, mens det er
-lokal politimester som kan vurdere hvilke oppdrag som skal utføres ubevæpnet, basert på veileder fra direktoratet og trusselvurderinger fra Felles kontraterrorsenter (FKTS). Departementet
-skriver videre at distriktene praktiserer dette noe
-ulikt og at de forutsetter at retningslinjene fra
-direktoratet vil bidra til en mer ensartet praksis i
-politidistriktene. Samtidig forutsetter de at hver
-politimester er ansvarlig for de konkrete vurderingene for hvert enkelt oppdrag. Avslutningsvis ber
-departementet om å bli holdt orientert om hvordan bevæpningen gjennomføres og at Politidirektoratet sørger for å ha oppdatert informasjon til
-enhver tid om bevæpningssituasjonen. Det innebærer også at direktoratet blir varslet uten opphold av politimestrene om vådeskudd som blir
-avfyrt i det enkelte politidistrikt.
-I skriv av 20.8.2015 orienterer Politidirektoratet politidistrikt og særorgan om forlengelse av
-den midlertidige bevæpningen. Der tydeliggjør
-direktoratet også hvilke tjenesteoppdrag som skal
-utføres ubevæpnet. Direktoratet skriver videre
-eksplisitt at for personell som omfattes av den
-midlertidige bevæpningen «vil det ikke være nødvendig å gi lokal bevæpningsordre for det enkelte
-oppdrag, slik man praktiserte bevæpning før
-iverksettelse av den midlertidige ordningen»7 og
-påpeker videre at «den enkelte tjenesteperson vil
-alltid være ansvarlig for at beslutning om bruk av
-
-[Side 140]
-
-140
-
-NOU 2017: 9
-
-Kapittel 7
-
-Politi og bevæpning
-
-våpen er i samsvar med våpeninstruksen.» Direktoratet redegjør for at det fra skrivets dato fastsettes krav om «snarest mulig» å innrapportere vådeskudd/utilsiktede avfyringer med politiets tjenestevåpen i forbindelse med politiets tjenesteutøvelse.
-Oppfølging av stortingsvedtak
-I Politidirektoratets svar av 1.9.2015 til Justis- og
-beredskapsdepartementet om Oppfølging av stortingsvedtak av 5.mai 20158 (skriv av 9.6.2015) gis
-en sammenstilling av de erfaringer som er gjort
-fra perioden med midlertidig bevæpning, samt en
-redegjørelse for noen tiltak som er iverksatt som
-en konsekvens av disse erfaringene. Sammenstillingen bygger på innrapportert tallmateriale og
-kvalitative tilbakemeldinger gitt til Politidirektoratet fra politidistriktene. I skrivet redegjør direktoratet for omfanget av hendelser der det er truet
-med bruk av skytevåpen og hendelser der skytevåpen er brukt. Det konkluderes med at det ikke
-er noen vesentlig endring i antall innrapporterte
-hendelser der det er truet med bruk av tjenestevåpen fra 2013 frem til i dag. Når det gjelder bruk av
-skytevåpen, ble det i 2013 og 2014 rapportert inn
-like mange hendelser som «hittil i år [2015]«. I
-følge direktoratet er disse tallene så små at de
-ikke gir grunnlag for å si noe om en systematisk
-utvikling.
-Videre omtaler Politidirektoratet utviklingen i
-antall registrerte bevæpningsordre, og variasjoner mellom distriktene:
-Gjennom den politioperative loggen (PO),
-samt gjennom instrukser og/eller retningslinjer utarbeidet i politidistriktene i forbindelse
-med den midlertidige bevæpningen, er vi gjort
-kjent med at distriktene til nå har praktisert
-bevæpningsordre på pistol ulikt. Det betyr at
-de distriktene som ikke har gitt bevæpningsordre på pistol knyttet til konkrete oppdrag fordi
-tjenestepersonene allerede bærer våpen, har
-registrert færre bevæpnede oppdrag enn tidligere. (…) Figuren under viser antall oppdrag
-der det i PO er registrert at det er gitt bevæpningsordre på pistol, fra januar 2014 t.o.m. juli
-7
-
-8
-
-Dette refererer til at Politidirektoratet var blitt kjent med at
-politidistriktene praktiserte ordningen med bevæpningsordre ulikt. Dette vil omhandles mer senere, under 7.6.5
-Praksis knyttet til bevæpningsordre i politidistriktene.
-Stortingets anmodningsvedtak nr. 524, 5.mai 2015 lyder:
-Stortinget ber regjeringen vurdere hvordan Stortinget i
-større grad kan involveres når politiet bevæpnes over lengre tid, og komme tilbake på egnet måte.
-
-2015. Vi ser av kurven at antallet synker bratt
-siste måneder i 2014 etter at den generelle
-bevæpningsordren ble gitt, noe som betyr at
-antall registrerte bevæpningsordrer har gått
-ned.
-Politidirektoratet skriver videre:
-POD har sett behov for å presisere at bevæpningsordre ikke lenger skal innhentes for de
-enkelte oppdrag som omfattes av ordningen
-med midlertidig bevæpning. Derfor står det i
-brev av 20.08.15 fra POD til politidistrikter og
-særorgan om samtykke til forlengelse av midlertidig bevæpning av IP 1, 3 og 4 følgende:
-«For personellet som omfattes av ordningen
-med midlertidig bevæpning vil det ikke være
-nødvendig å gi lokal bevæpningsordre for det
-enkelte oppdrag, slik man praktiserte bevæpning før iverksettelse av den midlertidige ordningen.»
-I skrivet omtaler direktoratet i tillegg omfanget av
-vådeskudd/utilsiktede avfyringer, differensiert
-bevæpning på bakgrunn av tjenestetype og differensiering på bakgrunn av geografi.
-
-7.2.6.2 Vådeskudd
-I skriv av 2.9.2015 ber Justis- og beredskapsdepartementet Politidirektoratet om at de, på bakgrunn
-av «betydelig oppmerksomhet om vådeskudd i
-politiet», rapporterer etter en rekke kriterier; bl.a.
-antall utilsiktede avfyringer (vådeskudd) utenfor
-og i nedspenningskasse, antall skudd som uønsket har gått av på skytebane eller annen øvelse
-utenfor nedspenningskasse, antall tilfeller hvor
-noen har forsøkt å frata politiet våpenet, antall
-saker hvor politiet har mistet våpenet eller våpenet på annen måte er kommet på avveie og andre
-hendelser som har representert en fare eller
-risiko hvor politiets våpen var en del av risikoen.
-7.2.6.3 Ulike modeller for bevæpning
-Politidirektoratet mottok i skriv av 9.9.2015 fra
-Justis- og beredskapsdepartementet Oppdragsbrev
-25 – bevæpning – oppfølging. Departementet skriver at det bør vurderes ulike modeller for bevæpning av norsk politi som kan ivareta en forsvarlig
-beredskap i lys av den aktuelle trusselsituasjonen.
-Et sentralt vurderingstema er hvorvidt politiet
-generelt skal være bevæpnet, herunder om dette
-kun skal gjelde for en begrenset del av styrken.
-Departementet ønsker direktoratets vurdering av
-
-[Side 141]
-
-NOU 2017: 9
-Politi og bevæpning
-
-Boks 7.3 Endring i våpeninstruks for
-politiet
-Fastsatt av Justis- og beredskapsdepartementet 24. august 2015, med hjemmel i lov 4.
-august 1995 nr. 53 om politiet (politiloven)
-§ 29.
-I våpeninstruks for politiet av 1. august
-1989 gjøres følgende endring:
-§ 23 skal lyde:
-«Har politimann avfyrt skudd i tjeneste,
-herunder vådeskudd, skal han sørge for at
-politisjef snarest mulig gis underretning.
-Politisjef iverksetter nødvendige tiltak etter
-fastlagte prosedyrer. Politisjef skal innarbeide
-tiltak for å yte psykiatrisk bistand når våpen
-har vært benyttet.»
-§ 24 skal lyde:
-«Når politimann i tjeneste har brukt eller
-truet med bruk av skyte- eller sprengvåpen,
-skal politisjef snarest mulig og uavhengig av
-en eventuell strafferettslig etterforskning innrapportere til Politidirektoratet. Innrapporteringsplikten omfatter også vådeskudd.»
-Endringene trer i kraft straks.
-
-ulike bevæpningsmodeller på bakgrunn av den
-aktuelle trusselsituasjonen. I tillegg ønsker departementet svar på hvordan direktoratet vurderer de
-ulike modellene, hva som taler for og hva taler
-mot de ulike modellene, samt hvorvidt det finnes
-andre måter en kan begrense bevæpningens
-omfang med utgangspunkt i skisserte modeller
-eller andre typer modeller. Det er gitt svarfrist til
-17.9.2015.
-Politidirektoratets svar av 21.9.2015, Modeller
-for bevæpning av norsk politi og Politidirektoratets
-anbefaling, gjengis i store trekk nedenfor, ettersom vurderingene er av relevans for Bevæpningsutvalgets arbeid. Direktoratet skriver:
-Vi vil først presentere og drøfte den modellen
-POD mener er det beste alternativet for nedskalering gitt dagens trusselsituasjon: Tjenestepersonene bærer våpen og ammunisjon
-adskilt. Deretter drøfter vi hva som taler for og
-hva som taler mot modellene JD har skissert i
-sitt skriv. Modellene som omtales skal ivareta
-en forsvarlig beredskap i lys av den aktuelle
-trusselsituasjonen. De er altså ikke primært
-diskutert opp mot det generelle kriminalitetsbildet og den risiko dette innebærer for sam-
-
-141
-
-Kapittel 7
-
-funnet generelt og politiet spesielt. Avslutningsvis gjør vi kort rede for arbeidet som
-pågår med å redusere risikoen knyttet til
-bæring av våpen – noe som er viktig uavhengig
-av hvilken modell som velges.
-Uladd våpen på tjenesteperson
-Etter en helhetsvurdering av de erfaringene vi
-har gjort oss i tiden med den midlertidige
-bevæpningen, ser vi behov for noen endringer i
-dagens praksis. Samtidig er det fremdeles viktig
-å sikre en god innsatsevne samt å ivareta tjenestepersonenes sikkerhet på en tilfredsstillende
-måte. Vår oppfatning er at en tidsavgrenset ordning der tjenestepersonene bærer våpen og
-ammunisjon adskilt, vil bidra til dette. Slik regelverket i dag lyder, vil ikke en slik ordning anses
-som bevæpning av politiet fordi bevæpningsordre må innhentes fra politisjef i hvert enkelt tilfelle, på samme måte som før den midlertidige
-bevæpningen. Innføring av en slik modell vil
-kreve justering av våpeninstruksen, i det modellen ikke er en del av opsjonene i instruksen slik
-den er utformet nå. En slik endring av våpeninstruksen må synliggjøre at modellen vil innebære et nytt beredskapsnivå under bevæpning.
-Med forutsetning av at JD godtar innføringen av
-modellen, vil det etter vår vurdering, ikke være
-behov for samtykke fra departementet til forlengelse av den midlertidige bevæpningen, jf.
-våpeninstruksen § 10, fjerde ledd.
-Dette alternativet innebærer at politiet har
-en utgangsposisjon hvor ammunisjon oppbevares i magasinholder som er adskilt fra våpenet.
-Tjenestepersonen må dermed gjennomføre
-flere håndgrep før våpenet er klart til bruk.
-Beredskapsnivået er med dette likevel høyere
-enn ved fremskutt lagring i bil fordi det spares
-tid ettersom våpenet ikke må låses ut ved
-behov. Hvor mye tid som medgår til å utføre
-slike håndgrep, vil variere avhengig av stresstoleranse og grad av automatiserte og innøvde
-grep. Denne tidsbesparelsen kan uansett få
-sentral betydning ved en akutt situasjon som
-en terrorhendelse – også hvis politiet blir oppmerksomt på en trussel når de befinner seg i
-eller ved kjøretøyet. Den største gevinsten ved
-en slik ordning er at politiet har tilgang på
-våpen når de forlater kjøretøy eller andre steder hvor våpen oppbevares og ordningen vil
-derfor i stor grad ivareta tjenestepersonens
-innsatsevne, samt hans mulighet til å beskytte
-seg selv og kollegene i en gitt situasjon. Likevel
-vil beredskapen ved en slik ordning være
-
-[Side 142]
-
-142
-
-NOU 2017: 9
-
-Kapittel 7
-
-Politi og bevæpning
-
-lavere enn ved dagens midlertidige bevæpning
-eller ved en ordning med «halvladd» våpen
-som vil omtales under, og man må påregne mer
-tidsbruk fra situasjonen er identifisert til trusselen kan møtes. Imidlertid har prosedyren
-ved den skisserte ordningen til forskjell fra
-«halvladd» våpen, flere likhetstrekk med normalsituasjonen med fremskutt lagring i bil
-hvor våpenet oppbevares i låst skrin. Klargjøringsprosedyrene bygger således på innøvde
-grep. Denne løsningen kan derfor bidra til å
-redusere usikkerhet om hvorvidt det er skudd
-i kammer eller ikke.
-Vår vurdering er videre at politiet er godt
-nok trent for å ivareta egensikkerheten i en
-normalsituasjon. Det er likevel en avveiing om
-tjenestepersonenes egensikring er akseptabel
-med den klargjøringstiden et uladd våpen krever opp mot det potensielle angrepets karakter.
-Med utgangspunkt i modus operandi og
-sannsynlig angrepsform, kan man ikke utelukke situasjoner hvor sekunder får avgjørende betydning for utfallet. Samtidig må en
-slik risiko vurderes opp mot ulempene med å
-bære ladd våpen innenfor bredden av de oppdrag politiet skal løse.
-Politidirektoratet redegjør videre for den risiko de
-ser forbundet med å bære et ladd våpen:
-En aktuell risiko ved å bære et ladd våpen er
-knyttet at tjenestepersonen kan bli fratatt eget
-våpen. En klar fordel ved den skisserte modellen er derfor at skadepotensialet ved en slik
-hendelse er betraktelig redusert.
-I perioden med midlertidig bevæpning er
-det innrapportert 20 utilsiktede avfyringer.
-Dette er flere enn tidligere år, selv om det er
-usikkerhet knyttet til de historiske dataene. De
-aller fleste av de utilsiktede avfyringene har
-skjedd i forbindelse med tømming eller nedspenning av våpen. Dersom man velger en
-modell der våpenet ikke er ladd, vil behovet for
-tømming reduseres til det omfanget som var
-ved ordningen med fremskutt lagring i bil. Slik
-vil modellen som her skisseres med uladde
-våpen redusere sannsynligheten for utilsiktede
-avfyringer fordi antallet ladde våpen og antallet
-ildhåndgrep vil gå kraftig ned.
-Politidirektoratet vurderer den anbefalte modellen dithen at det igjen må gis bevæpningsordre fra
-politisjef for å lade våpen, med mindre det er
-snakk om egenbevæpning. Direktoratet skriver:
-
-Krav om bevæpningsordre vil gi en større grad
-av strategisk kontroll over bevæpningen enn
-det som er situasjonen med dagens ordning.
-Videre flyttes risikovurderingene og beslutningen om bevæpning tilbake fra patrulje til politimester eller operasjonsleder. I tillegg vil man få
-bedre notoritet rundt de oppdragene som har
-blitt vurdert til å innebære en slik risiko at de
-har hjemlet bevæpning.
-Politidirektoratet understreker at ordningen må
-betraktes som tidsavgrenset for å ivareta beredskapen i lys av terrortrusselen, ettersom politiet
-fremdeles vil fremstå som bevæpnet for publikum.
-De skriver videre at omfang og innhold av nødvendig opplæring må vurderes i samarbeid med Politihøgskolen. Direktoratet anbefaler at modellen
-skal gjelde for alle som jobber med vakt og beredskap (IP 1, 3 og 4). Slik vil vi ivareta prinsippet om
-ett politi, uavhengig av geografiske grenser.
-I skrivet omtaler direktoratet også ladd våpen
-med skudd i kammer, løsningen som var gjeldende på skrivende tidspunkt, halvladd våpen
-(ikke skudd i kammer), differensiert bevæpning
-på bakgrunn av geografi eller tjenestens art og differensiering mellom tjenestepersoner. Oppsummert skriver direktoratet at fordelene ved ladd
-våpen må veies opp mot risikoen dette innebærer.
-De anbefaler ikke halvladd våpen, bl.a. fordi ordningen kan være egnet til å skape usikkerhet
-knyttet til status på våpenet. Når det gjelder differensiert bevæpning på bakgrunn av geografi eller
-tjenestens art, skriver direktoratet:
-Det er rimelig å anta at det ikke er like stor
-sannsynlighet overalt for at en terrorhendelse
-kan skje. Imidlertid har det med bakgrunn i
-foreliggende trusselvurdering vist seg å være
-vanskelig å identifisere hvilke områder som
-har forhøyet risiko og hvilke områder som
-eventuelt har lavere risiko. Politidistriktene har
-av POD blitt utfordret på muligheten til å differensiere ut fra geografi. Distriktenes tilbakemeldinger har vært at dette er problematisk
-basert på den generelle trusselvurderingen
-(…).
-Dersom det likevel skulle være mulig å definere noen områder med en forhøyet risiko for
-en terrorhendelse, kan det være utfordrende å
-gjennomføre en differensiert bevæpning av innsatspersonellet i distriktene. Operasjonssentralen må slik dagens distriktstruktur er, kunne disponere ressursene på tvers av distriktet. Dersom en patrulje skal kjøre ut og inn av områder
-med bevæpning, vil det medføre mange av- og
-
-[Side 143]
-
-143
-
-NOU 2017: 9
-Politi og bevæpning
-
-påvæpninger. Det vil igjen kunne øke sannsynligheten for utilsiktede avfyringer. Kanskje vil
-det i fremtidig distriktstruktur være lettere å
-dedikere patruljer til gitte avgrensede geografiske områder, men per i dag anses det som
-vanskelig gjennomførbart. I forlengelsen av
-dette kan det være et alternativ midlertidig å
-bevæpne tjenestepersoner i de distriktene som
-f.eks. har de største byene – gitt en trusselvurdering kan gi grunnlag for å si noe om en forhøyet
-trussel her – slik at hele distrikter er bevæpnet,
-mens andre distrikter ikke er det. Det vil imidlertid stride mot prinsippet om «ett politi». Imidlertid kan man ved å sikre noen områder bedre
-enn andre ved differensiert bevæpning, bidra til
-å overføre risiko fra ett område til et annet der
-politiet opptrer ubevæpnet.
-Samlet sett kan det likevel virke rimelig å
-differensiere bevæpningen ut fra ulike geografiske områder, men det vurderes som utfordrende å gjøre det i praksis – med mindre det
-foreligger tydeligere trusselvurderinger som
-indikerer at politiet er eksponert for en høyere
-risiko i utvalgte områder eller deler av landet.
-Når det gjelder differensiering på bakgrunn av tjenestens art, møter vi noen av de
-samme utfordringene som skissert over. POD
-har per i dag likevel definert noen tjenestehandlinger som skal utføres ubevæpnet, som
-f.eks. ved transport av psykisk syke og forebyggende tjeneste. I andre konkrete situasjoner er
-det opp til politimesteren å beordre bevæpning
-når det vurderes som nødvendig innenfor gjeldende regelverk.
-Det redegjøres videre for differensiering mellom
-ulike kategorier innsatspersonell og det konkluderes med at med mindre en trusselvurdering kan
-bidra til å skille trusselen mellom ulike personellkategorier, synes en differensiering på bakgrunn
-av IP-kategorier å være uhensiktsmessig. Politidirektoratet ber i skriv av 22.9.2015 Politihøgskolen
-om 1) å gi Politidirektoratet faglig råd om ekstra
-trening/opplæring anses nødvendig for å innføre
-ny modell, 2) å gjøre rede for hvilket omfang og
-innhold denne treningen eventuelt må ha, samt 3)
-å være forberedt på å utarbeide opplæringsprogram til anvendelse i politidistriktene for at innsatspersonellet skal være nødvendig istandsatt ved
-eventuell etablering av ny ordning.
-Politihøgskolen besvarer spørsmålene i skriv
-av 21.10.2015. Anbefalingen fra Politihøgskolen er
-at dagens trening og prosedyrer opprettholdes
-med forsterket fokus på dagens innøvde prosedyrer.
-
-7.2.7
-
-Kapittel 7
-
-Den syvende anmodningen om
-samtykke til bevæpning – 22.9.2015
-
-Politidirektoratet anmoder i skriv av 22.9.2015 Justis- og beredskapsdepartementet for syvende
-gang om samtykke til midlertidig bevæpning,
-denne gang en forlengelse fra 15.10.2015 og inntil
-to måneder, jf. våpeninstruksen § 10, fjerde ledd.
-Siden forrige anmodning om forlengelse hadde
-altså Politidirektoratet etter oppdrag fra departementet vurdert ulike modeller for bevæpning og
-anbefalt en endring, til en modell der våpen og
-ammunisjon bæres adskilt.
-Før departementet ga sitt samtykke til forlengelse av bevæpningen ber de i skriv av 25.9.2015
-om svar på spørsmål knyttet til direktoratets anbefaling av modell. Politidirektoratet besvarte disse
-25.9.2015. Direktoratet skriver blant annet:
-Den anbefalte modellen der våpen og ammunisjon bæres adskilt, er ikke begrunnet med en
-endring i trusselbildet. Anbefalingen bygger på
-en helhetsvurdering av de erfaringene som er
-gjort i tiden med den midlertidige bevæpningen. Risiko knyttet til det å bære ladd våpen,
-herunder faren for å bli fratatt eget våpen og
-utilsiktede avfyringer, vurderes opp mot den
-risiko en senkning i beredskapen som modellen vil innebære i forhold til dagens midlertidige bevæpning. Vår vurdering er at den foreslåtte modellen vil ivareta tjenestepersonens
-innsatsevne, samt hans mulighet til å beskytte
-seg selv, kollegene og samfunnet i en gitt situasjon, samtidig som den reduserer risiko knyttet
-til det å bære et ladd våpen.
-Direktoratet avslutter sitt svar med:
-Den anbefalte modellen vil, som redegjort for i
-vårt brev av 21.9.2015, innebære at det må gis
-bevæpningsordre fra politisjef for å lade våpen.
-Slik vil det bli en større grad av strategisk kontroll over bevæpningen enn det som er situasjonen med dagens ordning. Avvæpning vil videre
-skje i kontrollerte former, på en måte som tjenestepersonene har trent på og vært vant til i
-tiden med fremskutt lagring i bil. Samlet sett
-forventer vi derfor at antall utilsiktede avfyringer i det offentlige rom ikke vil øke i forhold til
-ordningen med fremskutt lagring i bil.
-Justis- og beredskapsdepartementet gir i skriv av
-14.10.2015, «med bakgrunn i PODs anbefaling»,
-samtykke i at uniformert innsatspersonell i kategori 1, 3 og 4 kan være bevæpnet med enhåndsvå-
-
-[Side 144]
-
-144
-
-NOU 2017: 9
-
-Kapittel 7
-
-Politi og bevæpning
-
-pen (pistol), «dog slik at våpen og ammunisjon
-(magasin) bæres adskilt», frem til 10.12.2015, jf.
-våpeninstruksen § 10, fjerde ledd. Departementet
-legger til grunn at det skal gis bevæpningsordre fra
-politisjef for å lade våpen, jf. våpeninstruksen § 3-3.
-Felles kontraterrorsenter (FKTS) kom 27.10.
-2015 med en ny trusselvurdering. På bakgrunn av
-en totalvurdering konkluderte Politidirektoratet
-etter dette med at det ikke lenger var grunnlag for
-å opprettholde den midlertidige bevæpningen.
-Konklusjonen bygget bl.a. på at PST vurderte
-sannsynligheten for terrorangrep som redusert,
-herunder også faren for angrep på personell fra
-politi og forsvar. Politidirektoratet orienterte derfor politidistrikt og særorgan i skriv av 13.11.15
-om at den midlertidige bevæpningen skulle avvikles så snart som mulig, og senest fra og med
-17.11.2015. Innen det tidspunkt skulle alt innsatspersonell gå tilbake til alminnelig politiberedskap
-med fremskutt lagring i kjøretøy, slik det var før
-den midlertidige bevæpningen.
-Politidirektøren innkalte til pressekonferanse
-fredag 13.11.2015 der han formidlet beslutningen
-om å avvikle den midlertidige bevæpningen.
-Samme kveld utførte syv terrorister en rekke
-simultane bombe- og skyteangrep i Paris. Angrepene startet klokken 21.20 og i løpet av de neste
-tre timene slo terroristene til mot seks ulike steder; kafeer, restauranter, et konsertlokale og en
-fotballarena. 130 mennesker døde og 368 personer ble skadet, hvorav tre alvorlig.
-Som følge av hendelsene i Paris så Politidirektoratet behov for å få bedre oversikt over hvilken
-betydning disse angrepene kunne ha for det norske trusselbildet. Mandag 16.11.2015 gikk derfor
-følgende skriv fra Politidirektoratet til underliggende organer:
-UTSETTELSE AV OVERGANG TIL FREMSKUTT LAGRING
-Det er behov for å få en bedre oversikt over
-hvilken betydning hendelsene i Paris kan ha
-for norske forhold. Derfor har Politidirektøren
-besluttet at overgangen til fremskutt lagring av
-politiets skytevåpen utsettes til 30.11.2015
-kl. 23.59. Frem til det tidspunkt skal bevæpning med enhåndsvåpen opprettholdes for IP 1,
-3 og 4 slik det har vært til nå i perioden med
-midlertidig bevæpning. De politidistrikt som
-har gått tilbake til fremskutt lagring, skal gjeninnføre midlertidig bevæpning gjeldende fra
-nå. Våpen og magasin adskilles ikke.
-Det fremkommer i Politidirektoratets skriv av
-21.11.2015 til departementet at bakgrunnen for at
-
-direktoratet ga beskjed om at våpen og magasin
-ikke skal adskilles, skyldes flere forhold. Politidirektoratet skriver:
-I brevet fra JD datert 14. oktober godkjente
-departementet ordningen med adskilt våpen
-og magasin under forutsetning om nødvendig
-opplæring, og at gjeldende bevæpningspraksis
-skulle opprettholdes til dette var gjennomført.
-Politidistriktene hadde ikke påbegynt nødvendig opplæring knyttet til ny bevæpningsmodell
-før mottak av ny trusselvurdering datert 27.
-oktober som reduserte trusselnivået i Norge.
-POD vurderte at trusselvurderingen [ikke] ga
-et tilstrekkelig grunnlag for midlertidig bevæpning. Politidirektøren besluttet derfor å gå tilbake til fremskutt lagring i kjøretøy.
-
-7.2.8
-
-Den åttende anmodningen om
-samtykke til bevæpning – 21.11.2015
-
-Det fremkommer i Politidirektoratets skriv av
-21.11.2015, som omtalt over, at PST vurderte trusselen mot Norge som uendret etter angrepene i
-Paris, «men at situasjonen fremdeles ansees som
-uoversiktlig og uavklart». Politidirektoratet trekker frem flere forhold som de mener bidrar til
-usikkerhet knyttet til trusselbildet og «POD vurderer at trusselvurderingen gir grunnlag for å
-beskytte samfunnet generelt, og ønsker derfor
-ikke å redusere beredskapsnivået til norsk politi».
-Politidirektoratet anmoder i skrivet om samtykke
-til forlengelse av midlertidig bevæpning for uniformert innsatspersonell kategori 1, 3 og 4 med ladd
-pistol på hoften fra 10.12.2015 og inntil to måneder, jf. våpeninstruksen § 10, fjerde ledd. Dette var
-åttende gang direktoratet anmodet om samtykke
-til å forlenge bevæpningen.
-I Politidirektoratets skriv av 26.11.2015 til Justis- og beredskapsdepartementet anmoder direktoratet om samtykke til forlengelse av midlertidig
-bevæpning fra 1.12.2015 frem til 10.12.2015, jf.
-våpeninstruksen § 10, fjerde ledd, med bevæpningsmodell som før, med ladd våpen på tjenesteperson. Bakgrunnen for anmodningen er at «POD
-vurderer det som nødvendig å opprettholde forhøyet politiberedskap inntil Politiets sikkerhetstjeneste og politiet er gitt tilstrekkelig tid til å vurdere det nasjonale trusselbildet i lys av siste tids
-hendelser i Europa».
-Justis- og beredskapsdepartementet gir i sitt
-svar av 9.12.2015 samtykke til forlenging av midlertidig bevæpning fra 10.12.2015 og inntil
-3.2.2016. Departementet legger til grunn at det er
-løpende kontakt mellom direktoratet og Politiets
-
-[Side 145]
-
-145
-
-NOU 2017: 9
-
-25.1.16 - PODs brev til JD om opphør
-av den midlertidige bevæpningen
-
-11.1.16 - PODs 9. anmodning
-
-3/2-16
-
-Den midlertidige
-bevæpningen
-opphører 3.2.2016
-
-12.1.16 - JDs svar til POD på 9. anmodning
-19.1.16 - JDs brev til POD om ytterligere informasjon
-
-10/12-15
-
-9.12.15 - JD samtykker til bevæpning
-
-15/10-15
-
-16.11.15 - Utsettelse av overgang til fremskutt lagring
-21.11.15 - PODs 8. anmodning
-
-13.11.15 – Pressekonferanse
-om avvikling av bevæpning 17.11.15
-
-Kapittel 7
-
-27.10.15 - Trusselvurdering - FKTS
-
-19.8.15 - JD samtykker til bevæpning
-
-2/8-15 20/8-15
-
-29.7.15 - JD samtykker til bevæpning
-
-7/6-15
-
-5.6.15 - JD samtykker til bevæpning
-
-10.4.15 - JD samtykker til bevæpning
-
-19/4-15
-
-22.9.15 - PODs 7. anmodning
-
-16.7.15 - PODs 6. anmodning
-
-11.5.15 - PODs 5. anmodning
-
-6.3.15 - PODs 4. anmodning
-
-12.2.15 - JD samtykker til bevæpning
-
-3.2.15 - PODs 3. anmodning
-
-12.12.14 - PODs 2. anmodning
-
-15/2-15
-
-17.12.14 - JD samtykker til bevæpning
-
-25/11-14 19/12-14
-
-21.11.14 - JD samtykker til bevæpning
-
-4.11.14 - Åpen oppgradert trusselvurdering
-
-18.11.14 - PODs 1. anmodning
-
-Politi og bevæpning
-
-Figur 7.1 Tidslinjen viser en ikke uttømmende oversikt over korrespondansen mellom Politidirektoratet
-og Justis- og beredskapsdepartementet i perioden. De vertikale søylene illustrerer de ulike periodene.
-Kilde: Utarbeidet av Bevæpningsutvalget basert på materiale fra Politidirektoratet
-
-sikkerhetstjeneste om utviklingen i trusselbildet.
-Trusselvurderinger som skal utarbeides i perioden skal oversendes Politidirektoratet så fort de
-foreligger, slik at disse kan danne grunnlag for
-«fortløpende politifaglige vurderinger om hvilken
-bevæpningsmodell som skal praktiseres i perioden frem til 3.2.2016». Videre ber departementet
-om å bli holdt løpende orientert om hvordan
-bevæpningen gjennomføres og at Politidirektoratet sørger for å ha oppdatert informasjon til
-enhver tid om bevæpningssituasjonen.
-I skriv av 11.1.2016 anmoder Politidirektoratet
-Justis- og beredskapsdepartementet om samtykke
-til å forlenge bevæpningen ytterligere to måneder.
-Direktoratet skriver:
-
-POD er av den oppfatning av at det er et midlertidig behov for fortsatt bevæpning av norsk
-politi, «da det ikke kan utelukkes at en terrorhendelse kan finne sted i Norge med bakgrunn
-i senere tids terrorhendelser i Europa med
-utspring i ekstreme islamistiske miljø».
-Politidirektoratet uttrykker samtidig tvil om det er
-hjemmel til å fortsette ordningen med midlertidig
-bevæpning av politiet etter bestemmelsene i
-våpeninstruksen § 10, fjerde ledd. Direktoratet
-foreslår derfor at departementet «gjennomfører
-en juridisk vurdering av vilkårene i våpeninstruksen § 10, fjerde ledd eller andre bestemmelser
-som kan hjemle en eventuell fortsatt midlertidig
-bevæpning av politiet».
+En tredje innrapportert hendelse omhandler en tjenesteperson som rettet pistolen mot et speil i garderobelokalene på politistasjonen, og trakk av uten å forsikre seg om at våpenet ikke var ladd. Prosjektilet gikk gjennom speilet, gjennom veggen og inn i motsatt vegg inne på toalettet i tilstøtende rom, videre gjennom toalettrøret og stanset i et kobberrør i veggen. Det var ingen personer på toalettet.
+
+1.  **<u>Utilsiktet avfyring som f</u><u>ø</u><u>lge av testing av hylster</u>**
+
+Utilsiktede avfyringer har også skjedd i forbindelse med kontroll av våpen eller testing av hylster. I en sak som fant sted på vaktrommet på en politistasjon, ble en kollega truffet i leggen og som følge av dette, innlagt på sykehus med moderate skader. Skuddet skal ha gått av i forbindelse med kontroll av hylster.
+
+I et annet tilfelle avfyrte en tjenesteperson et skudd med våpenet til en kollega, som kollegaen bar i hylster på hoften. Prosjektilet gikk ned i gulvet og det oppsto skader i linoleum og betongdekket. En tredje tjenesteperson ble truffet i magen enten av en del av prosjektilet eller av en del av linoleumen/betongen. Ved undersøkelse på legevakten ble det påvist et rødt, mindre merke i huden på magen.
+
+En lignende hendelse skjedde da en tjenesteperson stakk fingeren ned i hylsteret til en kollega og trakk av. Meningen var å demonstrere at det var vanskelig å trekke av en annens tjenestevåpen som var i hylsteret. Prosjektilet gikk gjennom buksen til vedkommende som bar våpenet og deretter ned i gulvet. Ingen ble skadet.
+
+De resterende hendelsene oppgis å ha ulike omstendigheter. Utilsiktet avfyring har skjedd under lading, samt ved flytting og vedlikehold av våpen.
+
+1.  **<u>Politidirektoratet tydeliggj</u><u>ø</u><u>r rutiner</u>**
+
+Politidirektoratet så underveis i perioden med midlertidig bevæpning behov for å tydeliggjøre hvilke rutiner som skal gjelde ved håndtering av våpen. Det ble også, i samarbeid med PHS, besluttet at noen rutiner skulle strammes inn. Ettersom de fleste utilsiktede avfyringene hadde skjedd i forbindelse med tømming og nedspenning av våpen, ble prosedyrene for dette tydeliggjort. Politidirektoratet besluttet i skriv av 30.10.2015 til politidistriktene at følgende prosedyrer skal gjelde for politiets våpenhåndtering:
+
+<u>Tømming og nedspenning av våpen skal gjennomføres av to tjenestepersoner sammen. Begge tjenestepersoner skal verifisere at tømmeprosedyre følges og forsikre seg om at tjenestevåpen er tomt før nedspenning. Nedspenning skal skje på sikkert sted og i sikker retning. Det forutsettes at alle tjenestepersoner er godt kjent med gjeldende prosedyrebeskrivelse for tømming av våpen, utarbeidet av Politihøgskolen.</u>
+
+Politidirektoratet skriver at avvæpning skjer som følge av mindre behov for våpenet, og slike situasjoner vil normalt derfor ikke være preget av tidspress. Det fremkommer videre i skrivet at det ikke tillates egentrening hvor det gjennomføres øvelser alene. All egentrening skal gjennomføres med minimum to tjenestepersoner sammen. I tillegg listes det opp prosedyrer som skal gjennomføres for at slik egentrening skal kunne gjennomføres. Politidirektoratet skriver at det forutsettes at politidistriktene gjør sitt ytterste for å forbygge negative konsekvenser av våpenhåndtering, og at det jobbes kontinuerlig for en god sikkerhetskultur.
+
+Det fremkommer også av korrespondanse mellom Politidirektoratet og politidistriktene at distriktene jobbet systematisk med lokale risikovurderinger. Dette ble gjort ved fornyet gjennomgang av lokale instrukser, endringer av instrukser og/eller innskjerpede rutiner for gjennomgang av instruksene.
+
+1.  **<u>Spesialenhetens etterforskning av v</u><u>å</u><u>deskudd</u>**
+
+Spesialenheten for politisaker skal etterforske og påtaleavgjøre saker der det er spørsmål om ansatte i politiet eller påtalemyndigheten har begått straffbare handlinger i tjenesten, jf. påtaleinstruksen § 34-1. Spesialenheten etterforsket i løpet av 2015 til sammen 15 saker som gjaldt avfyrte vådeskudd. Det er politidistriktet selv som tar stilling til om det foreligger et mulig straffbart forhold som bør bringes til kunnskap for Spesialenheten, så lenge Spesialenheten eller politiet ikke har mottatt anmeldelse fra andre knyttet til hendelsen. Spesialenheten kan selv beslutte etterforskning dersom de får kjennskap til hendelser fra annet hold. Riksadvokatembetet besvarte i august 2015 en henvendelse fra VG om vådeskudd og uttalte da følgende om hvilke saker Spesialenheten skal behandle[^105]:
+
+<u>Dersom et skudd løsnes uten at det er meningen, vil det som hovedregel være grunnlag for å undersøke om det foreligger uaktsom overtredelse av straffelovens bestemmelser om håndtering av skytevåpen. Implisitt betyr dette at politimestrene skal rapportere inn slike typer saker slik at Spesialenheten kan avklare om det har skjedd noe straffbart.</u>
+
+Sakene Spesialenheten har fått oversendt er vurdert i forhold til straffeloven (1902) § 352 første ledd annet straffalternativ om uforsiktig omgang med skytevåpen, ettersom det er gjeldende lov på gjerningstidspunktet som hovedregel skal benyttes. Straffebestemmelsen er for øvrig i hovedsak videreført i straffeloven 2005 § 188, som trådte i kraft 1. oktober 2015. Straffansvar for hendelser før 1. oktober 2015 er altså vurdert i forhold til den gamle straffeloven.
+
+For å bli straffet etter § 352 første ledd, i straffeloven av 1902, kreves det at vedkommende gjør seg skyldig i uforsiktig adferd, og hvor denne adferden er egnet til å volde fare for andres liv eller helbred. Adferden kan anses «uforsiktig» når den etter de konkrete omstendigheter kan bebreides vedkommende som uaktsom. For at bestemmelsen skal komme til anvendelse må handlingen i tillegg altså ha vært «egnet til å volde fare for andres liv eller helbred». Det er her tilstrekkelig at opptredenen objektivt sett var egnet til å volde fare eller skade. Av rettspraksis og juridisk teori følger at det ved bruk av skytevåpen kreves at den eller de som eventuelt kunne rammes, var såpass nær at skuddet hadde skadeevne. Spesialenheten har i vurderinger av skuddets skadeevne blant annet sett hen til hvilken type ammunisjon som ble brukt da vådeskuddet ble avfyrt. Dette fordi faren for gjennomskyting og for at skudd kan rikosjettere, er noe mindre når det er benyttet «short stop»-ammunisjon. Skyldkravet er uaktsomhet.
+
+Felles for de 15 sakene Spesialenheten etterforsket, er at tjenestepersonen hadde glemt at våpen var ladd, eller at vedkommende ikke hadde forsikret seg om at våpen er uladd, før avtrekk ble foretatt. I tillegg til trening mv., er det særlig ved tømming/nedspenning av ladd våpen at skudd utilsiktet har gått av (Spesialenheten for politisaker, 2016, s. 10). I følge Spesialenheten er det i alle sakene opptrådt i strid med det som under opplæringen i politiet omtales som grunnleggende sikkerhetsregler for behandling av våpen.
+
+I samtlige av de 15 sakene Spesialenheten etterforsket, ble det konstatert at tjenestepersoner hadde brutt gjeldende sikkerhetsregler, ettersom det faktisk hadde skjedd en utilsiktet avfyring. Lovens første vilkår om «uforsiktig adferd» var derved oppfylt. Det fremgår imidlertid av samtlige vedtak er det videre er et krav om at denne handlingen «var egnet til å volde fare for andre». Spesialenheten fant ikke bevismessig grunnlag for å konkludere med at det var tilfelle i ni av sakene. I seks tilfeller ble det konkludert med slik fare, og disse ble derfor avgjort med forelegg.
+
+På spørsmål om det er grunnlag for å konkludere med om omfanget av utilsiktede avfyringer kan tilskrives den midlertidige bevæpningen, viser Spesialenheten til sine 15 vedtak og at det der fremgår at de utilsiktede avfyringene skyldtes at våpnene var ladd, eller ble ladet, og at det ble trykket på avtrekkeren i den tro at våpenet faktisk var tomt, eller i den tro at man ikke ville nå frem til avtrekkeren mens pistolen var i hylster. Dette var grunnen til at vådeskuddene kunne finne sted.
+
+1.  **<u>Fors</u><u>ø</u><u>k p</u><u>å</u><u> frata tjenesteperson ladd v</u><u>å</u><u>pen</u>**
+
+Fra perioden med midlertidig bevæpning er det til Politidirektoratet rapportert om 22 hendelser der tjenestepersonell er blitt forsøkt fratatt et ladd våpen[^106]. Politidirektoratet var oppmerksomt på risikoen knyttet til å bli fratatt eget våpen ved oppstarten av den midlertidige bevæpningen, og allerede i november 2014 ble det undersøkt andre bæreløsninger for pistol for å redusere sannsynligheten for dette.
+
+En slik hendelse fant sted i januar 2015 da politiet var på et bistandsoppdrag med Mattilsynet. Eieren av dyrene forsøkte å ta pistolen fra lårhylsteret til den ene polititjenestepersonen og truet med å trekke av. Det ble dermed et basketak og vedkommende ble slått av politiet og endte med tre brudd i ansiktet. Det er også rapportert om flere tilfeller der tjenestepersonen har blitt forsøkt fratatt våpenet i forbindelse med bistand til helsevesenet, herunder transport av psykisk syke personer.
+
+Andre situasjoner der tjenestepersoner er blitt forsøk fratatt våpen har vært i forbindelse med pågripelse. I minst to slike situasjoner ble tjenestepersoner skadet som følge av anvendelse av makt for å forsvare eget våpen.
+
+1.  **<u>Politidirektoratets risikovurderinger knyttet til v</u><u>å</u><u>deskudd og faren for </u><u>å</u><u> bli fratatt v</u><u>å</u><u>pen</u>**
+
+Før hver søknad om forlengelse av den midlertidige bevæpningen ble det innhentet erfaringer fra politidistriktene knyttet til bevæpningen. Etter den første perioden med midlertidig bevæpning ba Politidirektoratet politidistrikter og særorgan om rapportering på en rekke angitte punkter. Hensikten var bl.a. fortløpende å avdekke uønskede hendelser, nesten-ulykker eller ulykker som følge av bevæpningen, samt å få vite hvilke risikoreduserende tiltak som ble vurdert og iverksatt i distriktene. Politidirektoratet mottok tilbakemeldinger der det ble redegjort for hvilke tiltak politidistriktene hadde vurdert eller iverksatt. Noen punkter går igjen, disse var i hovedsak knyttet til politiets bevæpning i oppdrag som til vanlig ville blitt gjennomført ubevæpnet. Det ble bl.a. fremhevet behov for mer opplæring og tilpassing av hylster.
+
+Etter at det ble avdekket svakheter med noen av de gamle hylstrene, ble politidistriktene pålagt å gjennomføre en kartlegging av hvor mange hylstre det gjaldt. Parallelt ble Politiets fellestjenester gitt i oppdrag å fremskaffe hylstre uten de avdekkede svakhetene. Politidistriktene ble så pålagt å skifte ut hylster med svakheter, med nye hylstre. De nye hylstrene forhindrer ikke forsøk fra uvedkommende på å frata tjenestepersonene våpenet, men de reduserer muligheten for at de lykkes med det.
+
+Det kan ikke sies at det ble foretatt en sentral og systematisk risikovurdering av utilsiktet avfyring/vådeskudd i forkant av bevæpningen. Politidirektoratet merket seg imidlertid at det var to hovedproblemstillinger som ble særlig aktualisert av bevæpningen: Risikoen knyttet til utilsiktede avfyringer og faren for å bli fratatt eget våpen. Politidirektoratet registrerte gjennom tilbakemeldinger fra politidistriktene, at det ble utarbeidet lokale tiltak mot dette.
+
+1.  **<u>Politidirektoratets egne erfaringer fra perioden</u>**
+
+Politidirektoratet har i perioden med midlertidig bevæpning gjort noen erfaringer knyttet til hvordan politiet vurderte og håndterte ulike situasjoner. Nedenfor følger en kort gjennomgang av de viktigste erfaringer som Bevæpningsutvalget har fått oversendt. Utvalget mener denne gjennomgangen belyser viktige læringspunkter, dersom en skulle få en lignende situasjon i fremtiden.
+
+1.  **<u>Mottak av trusselvurderinger</u>**
+
+Innføringen av midlertidig bevæpning høsten 2014 skjedde på bakgrunn av trusselvurderinger fra Politiets sikkerhetstjeneste (PST) og Felles kontraterrorsenter (FKTS). Disse trusselvurderingene ble formidlet skriftlig til Politidirektoratet, hvorpå direktoratet tolket trusselvurderingene og iverksatte tiltak basert på sin forståelse av disse.
+
+Det var mange som vurderte sannsynligheten for terror som høyere enn den reelt var ment av PST. Dette preget også Politidirektoratet sin håndtering innledningsvis. Det er nødvendig å ta i betraktning at to måneder tidligere hadde politiet hatt en periode på nesten to uker med midlertidig bevæpning og en forhøyet beredskap, som følge av en mer spesifikk trussel. Når det så kom en ny trusselvurdering ble denne sett i sammenheng med trusselvurderingen fra sommeren 2014. Den korte tiden mellom de to trusselvurderingene førte nok til at sannsynligheten ble tolket som i det høyere sjiktet innenfor det prosentvis store spennet sannsynlighetsbegrepet viser til (60–90 %). Tolkning ble innledningsvis lagt opp mot den øverste delen av spennet, men etter samtaler med PST og FKTS ble det etter hvert klart at nivået var lavere.
+
+Etter hvert ble det innført en ordning med møter på saksbehandlernivå mellom de som faktisk utarbeidet trusselvurderingene i PST/FKTS og de i Politidirektoratet som foreslo tiltak basert på disse vurderingene. Slike møter ble avholdt når det kom nye trusselvurderinger. Politidirektoratet erfarte at det var svært nyttig å gjennomføre slike møter og samtaler for å avklare begrepene som ble benyttet og for å få en felles forståelse av innholdet i trusselvurderingene. Politidirektoratet er av den oppfatning at slike møter burde ha vært på plass fra begynnelsen.
+
+Praksisen med at fagmiljøene møtes i forbindelse med nye trusselvurderinger er videreført også etter perioden med midlertidig bevæpning. Dette har bidratt til å bedre samarbeidet mellom enhetene, og til å sikre at de tiltakene som vurderes og eventuelt iverksettes, er basert på en felles forståelse og mest mulig riktig beslutningsgrunnlag.
+
+I perioden etter den midlertidige bevæpningen har Politidirektoratet i etterkant av terrorhendelser i andre europeiske land, opplevd et til dels sterkt press for å bevæpne politiet nasjonalt. Dette har vært problematisk da det, basert på etterretning eller trusselvurderinger ikke har vært grunnlag for å gjøre dette. Politidirektoratet har i den sammenheng inntrykk av at den felles forståelsen av trusselvurderingene som ble etablert i fagmiljøene hos Politidirektoratet og PST/FKTS ikke ble oppfattet på samme måten i andre deler av justissektoren eller i andre departementer.
+
+1.  **<u>Risikovurderinger</u>**
+
+Risikovurderinger underveis i perioden dreide seg i hovedsak om selve bevæpningen og hvilke tiltak som skulle til for å redusere omfanget av bevæpningen. Da det etter hvert ble stort fokus på utilsiktede avfyringer, både i offentligheten og i politiet, ble det innført et sentralt rapporteringsregime for dette. Først gjennom arbeidet med ny modell for bevæpning ble det gjort en systematisk vurdering av risiko og tilhørende tiltak. Politidirektoratet ser i ettertid at risikovurdering i forkant av den midlertidige bevæpningen burde vært gjennomført, ettersom rammebetingelsene for bevæpning ble vesentlig endret.
+
+1.  **<u>Differensiering av bev</u><u>æ</u><u>pning </u><u>–</u><u> omfang og utstrekning</u>**
+
+I perioden før trusselvurderingen ble nedjustert, vurderte Politidirektoratet muligheten for å redusere omfanget av politibevæpning ut fra geografi – under en hypotese om at trusselen neppe var lik for hele landet. Likevel klarte verken Politidirektoratet eller politimestrene å finne gode nok holdepunkter for å konkludere med at det var tilstrekkelig redusert risiko i særskilte deler av distriktene. En stor utfordring var at det ikke var etablert felles mal eller systematikk for gjennomføring av risiko- og sårbarhetsanalyser (ROS-analyser) i politiet, noe som medførte stor variasjon i de ulike ROS-analysene fra distriktene. Svarene fra politidistriktene var ikke entydige og de kunne i liten grad anvendes til å gjennomføre endringer i bevæpningsordningen på nasjonalt nivå.
+
+Det ble også vurdert å differensiere bevæpningen ut fra ulike kategorier tjenestepersonell (IP-kategorier), men Politidirektoratet kom frem til at dersom en kun hadde bevæpning av IP1 og IP3, ville ikke dette gi særlig effekt utover i de aller største byene. En avgrenset bevæpning til kun å gjelde IP3 og IP1, ble derfor ikke iverksatt.
+
+Et fåtall av politidistriktene mente at det kunne være forsvarlig å redusere omfanget av bevæpning med en mer målrettet innsats på informasjonsinnhenting og etterretning, samt ved å øke den generelle tilstedeværelsen av polititjenestepersoner. Det ble likevel påpekt at en slik satsning ikke kunne gjennomføres av politidistriktene innenfor eksisterende rammer, fordi det ville forutsatt økte bevilgninger.
+
+1.  **<u>Ny bev</u><u>æ</u><u>pningsmodell ved midlertidig bev</u><u>æ</u><u>pning</u>**
+
+Politidirektoratet forslo etter hvert en ny bevæpningsmodell. Forslaget gikk (som omtalt i punkt 7.2.6.3) ut på at tjenestepersonene skulle bære våpenet uladd på seg og med ammunisjon adskilt fra våpenet. Dette tiltaket ble foreslått for å ivareta beredskapen samtidig som tiltaket ble vurdert til sterkt å redusere annen risiko, som faren for å bli fratatt våpenet og sannsynligheten for utilsiktede avfyringer. Den midlertidige bevæpningen ble avsluttet før ordningen ble iverksatt.
+
+1.  **<u>Praksis knyttet til bev</u><u>æ</u><u>pningsordre i</u><u> </u><u>politidistriktene</u>**
+
+Innføringen av midlertidig bevæpning innebar at politiet hadde enhåndsvåpen på hoften til enhver tid. POD erfarte underveis at politidistriktene hadde forskjellig oppfatning med hensyn til hvorvidt det skulle innhentes bevæpningsordre på oppdrag som ble løst med enhåndsvåpen. Dette ble synlig ved at antallet registrerte bevæpningsordre i politiets operative logg (PO) gikk ned etter innføringen av midlertidig bevæpning. Et fåtall av politidistriktene praktiserte fortsatt at det skulle innhentes bevæpningsordre på alle væpnede oppdrag, inkludert oppdrag som utelukkende var planlagt løst med enhåndsvåpen. De fleste politidistriktene gikk imidlertid bort fra denne praksisen. Det ble altså ikke innhentet og loggført bevæpningsordre i oppdrag som ble løst utelukkende med enhåndsvåpen.
+
+Politidirektoratet vurderte på dette tidspunktet at det juridisk ikke var nødvendig å innhente ordre om bevæpning når tjenestepersonene allerede var bevæpnet. Likevel var dette problematisk i et risikostyringsperspektiv, ettersom operasjonell og strategisk kontroll over situasjoner som ble håndtert som væpnede oppdrag ble redusert. Operasjonssentralene, i samråd med utpekt leder, mistet muligheten til å foreta en overordnet risikovurdering av oppdragene før de ble iverksatt. Det gjaldt også bortfall av vurderinger knyttet til antall mannskaper som måtte til for å håndtere oppdrag, samt hvilken kompetanse, spesialfunksjoner, verneutstyr, annet utstyr og fremgangsmåte som ville være nødvendig. Operasjonelt og taktisk nivå gjennomførte dermed i mindre grad planlegging av oppdrag, og væpnede oppdrag ble gjennomført uten utpekt leder. Dermed ble oppdrag som tidligere ville krevd bevæpningsordre løst uten involvering fra overordnet nivå.
+
+Fravær av bevæpningsordre førte i tillegg til at det ikke ble mulig i ettertid å få et systematisk bilde over politidistriktenes væpnede oppdrag i perioden.
+
+De politidistriktene som hadde opprettholdt tidligere praksis, med krav om bevæpningsordre, begrunnet dette med behovet for strategisk og operasjonell kontroll. De oppfattet også at samtykket til midlertidig bevæpning utelukkende gjaldt i situasjoner knyttet til terror og mulighet for egenbeskyttelse for polititjenenestepersoner. Disse distriktene mente altså at det skulle gis beslutning om bevæpning i alle andre oppdrag enn terrorisme. Det innebar at det ikke forelå et generelt samtykke til bevæpning i alle andre situasjoner der våpen måtte være påkrevd for oppdragsløsning. Disse politidistriktene argumenterte for at andre situasjoner («hverdagskriminalitet») måtte vurderes isolert ut fra hjemmelsgrunnlaget i våpeninstruksen, og at man eventuelt måtte innhente bevæpningsordre i slike situasjoner.
+
+Denne ulikheten i praksis angikk kun enhåndsvåpen. Alle politidistriktene praktiserte at det i oppdrag med behov for tohåndsvåpen, aktivt ble tatt stilling til bevæpningen gjennom bevæpningsordre.
+
+1.  **<u>Innrapportering til POD om trussel og bruk av v</u><u>å</u><u>pen</u>**
+
+Som nevnt gikk det totale antallet registrerte bevæpningsordre markant ned i perioden med midlertidig bevæpning. Innrapporterte tall på bruk av våpen, herunder trussel om bruk av våpen, var imidlertid noenlunde det samme som tidligere.
+
+1.  *<u>Ø</u><u>kning i antall bev</u><u>æ</u><u>pningsordrer i perioden etter midlertidig bev</u><u>æ</u><u>pning</u>*
+
+Etter at perioden med midlertidig bevæpning ble avsluttet i februar 2016 og politidistriktene gikk tilbake til vanlig praksis med fremskutt lagring av våpen og krav om bevæpningsordre for alle væpnede oppdrag, gikk antallet registrerte bevæpningsordrer markant opp i forhold til perioden før den midlertidige bevæpningen. Årsaken til dette er trolig sammensatt og Politidirektoratet kan foreløpig ikke gi et klart svar på hva som er årsaken til denne oppgangen. En årsak til økningen kan være endringene i våpeninstruksen som trådte i kraft 1. april 2016, hvor operasjonslederne i politiet ble gitt kompetanse til å gi bevæpningsordre[^107]. Likevel er det verdt å merke seg at vilkårene for å gi bevæpning ikke ble endret, og at delegert bevæpningskompetanse derfor ikke skulle gi grunnlag for en mer liberal holdning eller mindre behovsprøving av grunnlaget for bevæpning.
+
+1.  **<u>Bev</u><u>æ</u><u>pning og politiets oppdragsl</u><u>ø</u><u>sning</u>**
+
+Sandham og Todnem undersøkte i sin masteroppgave fra 2016 hvordan den midlertidige bevæpningen påvirket politiets utførelse av oppdrag. For å besvare problemstillingen gjennomførte de en kvalitativ, semistrukturert undersøkelse der de intervjuet 16 operasjons- og innsatsledere fra åtte ulike politidistrikter i Norge[^108]. Åtte av intervjuene ble gjennomført under den midlertidige bevæpningen og åtte intervjuer ble gjennomført i ukene etter at den midlertidige bevæpningen var avviklet.
+
+En av forfatterne jobber som operasjonsleder i Oslo politidistrikt, og noe av interessen for temaet bygget på hans inntrykk av at væpnede oppdrag de siste årene har blitt løst raskere enn tidligere[^109] og at planlegging av oppdragene i større grad enn tidligere skjer på vei til stedet. Disse endringene, kombinert med perioden med midlertidig bevæpning, vekket studentenes interesse for å se nærmere på om oppdragene ble tilstrekkelig styrt og om sikkerheten syntes å bli påvirket av den eventuelle hastighetsøkningen (Sandham & Todnem, 2016, s. 2). Formålet med oppgaven var derfor å undersøke hvordan sentrale utøvere i politiet opplevde at ulike faktorer påvirket oppdragsløsningen, og især hvordan den midlertidige bevæpningsordren syntes å spille inn. Det er politiet selv som er studieobjektet, mens publikum og de politiet møter i oppdragsløsningen ikke er inkludert i datamaterialet. Det betyr at det ikke kan utelukkes at publikum har oppfattet det som omhandles på en annen måte enn politiet. Videre er det viktig å understreke at det er intervjupersonenes egen opplevelse av fenomenene man får belyst gjennom intervjuene, med de begrensinger som ligger i det.
+
+Følgende spørsmål ble utforsket:
+
+1.  <u>På hvilken måte opplevde innsats- og operasjonsleder at bevæpningsordren \[om midlertidig generell bevæpning\] påvirket politiets utførelse av væpnede oppdrag?</u>
+
+<!-- -->
+
+1.  <u>På hvilken måte opplevde innsats- og operasjonsleder at bevæpningsordren \[om midlertidig generell bevæpning\] påvirket politiets utførelse av ordinære oppdrag?</u>
+
+2.  <u>Hvilke andre faktorer påvirket, etter innsats- og operasjonsleders opplevelse, politiets utførelse av oppdrag?</u>
+
+Ett av funnene fra studien er at politidistriktene under den midlertidige bevæpningen valgte to ulike løsninger for bevæpningen (også omtalt under 7.6.5 «Praksis knyttet til bevæpningsordre i distriktene) – noe som syntes å ha betydning for hvordan bevæpningen påvirket oppdragsløsningen. Innenfor de to løsningene var det også mindre variasjoner. Felles for begge løsningene var at tjenestepersonene i distriktet bar ladd våpen i beltet. Løsningene innebar imidlertid ulike beslutningsprosesser. Den ene løsningen, som et klart mindretall av distriktene praktiserte, innebar en tilsvarende beslutningsprosess som i normalordningen, med fremskutt lagring – der det var krav om bevæpningsordre ved behov for våpen[^110] selv om våpenet ble båret ladd på kroppen. Patruljer som hadde behov for våpen i et oppdrag, måtte altså innhente bevæpningsordre hos politimester eller operasjonsleder (OL). Operasjonsleder saksbehandlet anmodningen og loggførte eventuelt oppdraget som væpnet i vaktjournalen. Hvis oppdraget tilsa behov for tohåndsvåpen, var det politimester som tok beslutningen. Dersom et oppdrag hastet, besluttet operasjonsleder bruk av tohåndsvåpen og informerte politimester i etterkant (Sandham & Todnem, 2016). En informant forklarer hvordan det ble praktisert hos dem (Sandham & Todnem, 2016, s. 59):
+
+<u>Politimesteren bestemte at selv om det var midlertidig bevæpning, måtte bevæpningsordre innhentes hos OL på alle oppdrag. Vi har fremskutt lagring i beltet, men ellers gjør vi som før. Vi fører alle bevæpningene i PO, for å holde kontrollen med oppdragene. I motsetning til \[annet distrikt med løsning 2\]</u>[^111]<u> som ikke førte noen ting, som ikke kunne ha oversikt. Dette mener jeg var med på å redusere risikoen for uønskede hendelser. Vi er helt avhengige av å ha styring av oppdragene selv om det var en midlertidig bevæpning.</u>
+
+Den andre løsningen – som det store flertallet av politidistriktene praktiserte – skilte seg fra den normale ordningen med fremskutt lagring der det er krav om bevæpningsordre når det er vurdert behov for pistol. Operasjonslederne saksbehandlet ikke oppdragene som omhandlet bevæpning og loggførte ikke beslutningene om bevæpning i vaktjournalen. Hvis oppdraget tilsa behov for tohåndsvåpen, ble dette innvilget av operasjonsleder. Informantene som jobbet i distrikter som praktiserte denne løsningen, fortalte at dette medførte en vesentlig lettelse i tjenesten ved gråsoneoppdrag (Sandham & Todnem, 2016, s. 59). Gråsoneoppdrag ble beskrevet som oppdrag som befinner seg i randsonen av bevæpningsinstruksen der de materielle vilkårene for å innvilge bevæpning ikke er til stede, men der kunnskap om for eksempel adresser og personer tilsier at våpen kan være aktuelt (Sandham & Todnem, 2016, s. 59). Informantene fra distrikter der denne løsningen ble praktisert, hadde ikke oversikt over antall væpnede oppdrag i perioden med midlertidig bevæpning fordi kun noen av oppdragene hvor det ble bevæpning med tohåndsvåpen ble loggført i vaktjournalen. En operasjonsleder forklarte (Sandham & Todnem, 2016, s. 60):
+
+<u>Fremskutt på låret, ladd, kule i kammeret. Det er et ekstra verktøy i verktøykassa til mannskapene ute. Vi besluttet ikke bevæpning hvis vi ikke skulle ha tohåndsvåpen, da gjorde vi det på gammelmåten. Da måtte vi innhente beslutning fra politimesteren. Hvis vi ikke hadde tid til å ringe, besluttet OL tohåndsvåpen. (...) I praksis tok OL ofte denne avgjørelsen. (...) Maktpyramiden gjelder, vi bruker de maktmidlene som er formålstjenlig, våpen er alltid siste utvei. Denne vurderingen må de som står i situasjonen ta.</u>
+
+Informantene fra distrikter som praktiserte ordningen med bevæpningsordre, uttrykte at en praksis der operasjonslederne overvåket var nødvendig for å unngå at kvaliteten i beslutningene ble dårligere. Et krav om dokumentert og kontrollerbar loggføring ble opplevd som en faktor som kunne bidra til at kvaliteten ble holdt oppe (Sandham & Todnem, 2016, s. 64).
+
+Informantene argumenterte for den modellen som ble praktisert i sitt distrikt. Da informantene fikk opplysninger om hvilke løsninger andre distrikter hadde valgt, reagerte flertallet med å kritisere de andre løsningene og fremheve den de selv var en del av. Hovedargumentene fra de som praktiserte ordningen med bevæpningsordre på pistol var at det innebar videreføringen av kjente beslutningsrutiner, samt bedre styring og ledelse. Hovedargumentene til de som praktiserte ordningen uten bevæpningsordre, var hurtig respons, fleksibilitet og økt trygghet i gråsoneoppdrag. Alle mente eget distrikts løsning var den mest hensiktsmessige for å håndtere hverdagsoppdragene (Sandham & Todnem, 2016, s. 61).
+
+1.  **<u>Svekket styring og ledelse av bev</u><u>æ</u><u>pnede oppdrag</u>**
+
+I distriktene som praktiserte fravær av bevæpningsordre, som var det store flertallet politidistrikter, ser dette ut til å ha påvirket hvordan tjenestepersonene tilnærmet seg de oppdragene som i en normalsituasjon ville bli gitt beslutning om bevæpning. Informanter fra disse distriktene uttrykte at den midlertidige bevæpningen kunne medføre at innsatsleder og operasjonsleder mistet kontroll over oppdragene, f.eks. ved at bevæpnede oppdrag ble iverksatt uten at operasjons- og innsatsleder hadde utført sine oppgaver i forkant (Sandham & Todnem, 2016). Det medførte også at disse mistet muligheten til blant annet å iverksette risikoreduserende tiltak. En av innsatslederne i studien til Sandham og Todnem (2016, s. 62) uttalte:
+
+<u>Noen ganger har IL knapt visst om hva som skjer (...) Vi hører på sambandet, men vi kan være opptatt med andre ting. Vi kan være i andre talegrupper, eller på oppdrag med mye støy. Det har ikke blitt gitt en bevæpningsordre og vi har ikke fått det med oss. Det har dratt flere patruljer på oppdrag og løst det selv. Det har sikkert blitt pekt ut en leder, men jeg synes det er viktig å utpeke en kompetent leder. Det har vært oppdrag som har blitt løst bevæpnet, men som ikke har blitt behandlet som et væpnet oppdrag. Selv om vi ikke har identifisert en stor trussel i forkant, er det jo sånn at man må ta høyde for at ting kan være verre enn de fremstår. Da må vi utpeke en god leder for oppdraget. Jeg mener at den midlertidige bevæpningen har ført til dårligere ledelse på gråsoneoppdrag, der hvor trusselen ikke er særlig høy. De oppdragene har blitt løst av patruljer uten nødvendig ledelse og planlegging.</u>
+
+I enkelte tilfeller meldte patruljene inn i etterkant at oppdraget hadde vært løst med våpen. En av informantene fra et distrikt som ikke praktiserte bevæpningsordre på pistol, påpekte at slike oppdrag burde vært meldt inn på forhånd slik at de kunne blitt styrt av operasjonssentralen (Sandham & Todnem, 2016, s. 62). I den sammenheng er det relevant å nevne at flere av informantene i studien til Lade (2016, s. 2), som jobber på taktisk nivå, påpekte at de ikke er trent til å foreta bevæpningsvurdering på selvstendig grunnlag.
+
+Noen av informantene i studien til Sandham & Todnem (2016) fremhevet at manglende kontroll i gråsoneoppdrag var en alvorlig konsekvens av den midlertidige bevæpningen. Der man tidligere «tok en fot i bakken» og tenkte seg om, ble flere oppdrag med midlertidig bevæpning løst raskt – også de med våpen (Sandham & Todnem, 2016, s. 62). En informant sa:
+
+<u>Tidligere fikk man klare meldinger på slike endringer i oppdragene, for eksempel en mann med kniv. De bad om bevæpning og trakk seg ut. Nå blir vi informert i etterkant. Jeg tror det er færre som kommuniserer at de har tatt frem eller truet med våpenet.</u>
+
+På denne måten mistet operasjonssentralen mulighet til å styre oppdraget slik de gjør i en normalsituasjon, gjennom å koble på en innsatsleder, innhente væpningstillatelse for tohåndsvåpen ved behov, vurdere kompetanse og risiko og sende flere patruljer eller ambulanse i tilfelle noen skulle bli skadet. I stedet skred oppdraget videre frem, uten «en fot i bakken», og uten at operasjons- eller innsatsleder ble involvert (Sandham & Todnem, 2016, s. 63).
+
+1.  **<u>Bev</u><u>æ</u><u>pningen hadde liten betydning for </u><u>ø</u><u>yeblikkelige aksjoner</u>**
+
+Sandham og Todnem definerer *øyeblikkelige aksjoner* som oppdrag som krever umiddelbar respons, der det ikke er opp til politiet å velge tid og sted for å aksjonere (samtale med Sandham, 5.12.2016). Disse situasjonene kan likevel innebære noe planlegging i forkant, f.eks. i patruljen på vei til oppdraget. I følge Sandham og Todnem (2016) utgjorde den midlertidige bevæpningen liten forskjell ved slike aksjoner. Innsatslederne som ble intervjuet uttrykte at de potensielt forsinkende momentene; som det å låse opp våpenskrinet, lade pistolen og feste på seg utstyrsbeltet – og tid brukt på dette – ikke innebar noen praktisk forsinkelse i løsningen av et slikt bevæpnet case som informantene ble forelagt. Flere av informantene mente tidsbruken ved påkledning av verneutstyr oversteg tidsbruken ved å klargjøre våpen. Det som ble trukket frem var mer den generelle tidsknappheten i oppdraget og de mange stressfaktorer som gjør seg gjeldende i en slik situasjon, som f.eks. å kjøre bil i høy hastighet, planlegge egne handlinger, kommunisere på samband, finne riktig adresse og å skaffe seg riktig situasjonsforståelse. Stressfaktorene ved øyeblikkelige aksjoner økte proporsjonalt med hvor hurtig politiet skulle aksjonere (Sandham & Todnem, 2016, s. 70).
+
+Helstad og Ingjer (2016) fant noe annet da deres informanter fra politiet omtalte en av fordelene ved å være bevæpnet i perioden. Informantene framholdt at når politiet allerede er bevæpnet i det de rykker ut på et bevæpnet oppdrag, kan de løse situasjoner bedre fordi de går inn i usikre situasjoner med en annen ro og «de er godt forberedt og rustet til å møte det som venter dem» (s. 130).
+
+<u>I de usikre situasjonene, situasjonene de selv fortalte de ikke hadde full oversikt over farlighetsnivået ved, spilte denne roen en særlig viktig rolle. Da de var bevæpnet slapp de å frykte hva som møtte dem da de entret situasjonene, noe som forsterket roen de gikk inn med. Denne økte følelsen av ro hos politiet mente de førte til bedre oppgaveløsning, og at de i tillegg oppnådde en høy grad av tillit fra lovbrytere. Ved å bære skytevåpen kunne de lettere holde seg på det nederste trinnet av maktpyramiden, da lovbryteres bevissthet om at skytevåpenet var til stede kunne være nok for å oppnå kontroll over situasjoner. Da skytevåpenet kunne virke avskrekkende i seg selv, kunne de håndtere situasjoner med minst mulig maktmidler, noe som kan anses som ideelt. (Helstad & Ingjer, 2016, s. 130).</u>
+
+Helstad og Ingjer (2016) problematiserte i denne sammenheng at det å bære skytevåpen i situasjoner der det i utgangspunktet ikke er nødvendig, kan gjøre grensen mellom det nederste og det øverste trinnet på maktpyramiden uklart, fordi skytevåpen alltid er til stede. Når skytevåpen, som er øverst i maktpyramiden og det minst ønskelige maktmiddelet, tas med inn i det ideelle maktnivået (tilstedeværelse/presentasjon), hevder de at dette nederste trinnet kan bli forstyrret av tilstedeværelsen av våpen. De spør derfor om politiets tilstedeværelse da fortsatt kan anses som nederste trinn på maktpyramiden dersom politiet er bevæpnet (Helstad og Ingjer, 2016, s. 90).
+
+Dersom det er slik at skytevåpenet virker avskrekkende i seg selv, vil dette ikke kun gjelde for lovbrytere, men også befolkningen for øvrig. Dette kan også sees i sammenheng med våpeneffekten, omtalt i kapittel 3.
+
+1.  **<u>Bev</u><u>æ</u><u>pningen hadde liten betydning for forberedte aksjoner</u>**
+
+Ved *forberedte aksjoner* er det, i følge Sandham og Todnem, rom for at politiet i stor grad selv kan definere tidspunkt, og kanskje sted, for aksjonen (samtale med Sandham, 5.12.16). Informantene i studien til Sandham og Todnem (2016) var samstemte i at den midlertidige bevæpningen spilte liten rolle ved slike aksjoner, altså når liv ikke er direkte truet og der politiet har nok tid til å følge bevæpningsregimet fra fremskutt lagring i kjøretøyene. Tid trekkes frem som en avgjørende faktor. Flere informanter poengterte at nøkkelen til god håndtering er god planlegging som tar høyde for flere muligheter og scenarier. Det ble trukket frem et eksempel på en situasjon fra tiden med fremskutt lagring av skytevåpen der operasjonsleder, innsatsleder, involverte patruljer og jourhavende jurist samlet seg til et møte ved operasjonssentralen i forkant for å planlegge oppdraget. Før møtet hadde operasjonsleder innhentet bevæpningsordre fra politimesteren. Operasjonsleder la i møtet frem de overordnede operative rammene for oppdraget, juristen la frem de straffeprosessuelle rammene, og innsatsleder la frem detaljerte taktiske planer for godkjenning. «Uttrykk som «veie alternativer mot hverandre», «velge riktig løsning», «tid til å gjøre gode vurderinger» og «minimere risiko» ble brukt av informantene» (Sandham & Todnem, 2016, s. 74). Sandham og Todnem konkluderer med at den midlertidige bevæpningen hadde liten betydning i forberedte aksjoner.
+
+1.  **<u>Å</u><u> bli vant til alltid </u><u>å</u><u> b</u><u>æ</u><u>re v</u><u>å</u><u>pen</u>**
+
+Flere av informantene uttrykte at når et oppdrag får status som et væpnet oppdrag, blir dette automatisk forstått som at oppdraget innebærer noe spesielt og farlig. Eventuelle mistenkte personer blir automatisk kategorisert som en større trussel når en bevæpning blir gitt. Flere informanter mente den midlertidige bevæpning reduserte denne effekten og førte til lavere stressnivå også i forberedte aksjoner, noe som kunne medføre at politiet fikk en roligere tilnærming i slike oppdrag (Sandham & Todnem, 2016). En operasjonsleder sa (s. 76):
+
+<u>Den midlertidige bevæpningen spiller nok en rolle. Vi er mer vant til å gå inn i situasjoner med våpen. Mannskapene følte seg nok tryggere. Jeg husker fra da jeg kjørte patrulje som nyutdannet. Bevæpning medførte stress, skjelving på hendene, høye skuldrer. Noe farlig skulle skje.</u>
+
+Utvalgets vurdering er at når operasjonssentralen ikke formidler status og beslutning om bevæpning fra operasjonssentralen (noe som i mange distrikt altså ikke ble gjort under den midlertidige bevæpningen) kan slik risikokommunikasjon forsvinne også i situasjoner der det er nødvendig. Dette kan igjen medføre at patruljen ikke er så skjerpet som de burde være i møtet med en potensiell trussel.
+
+Det ble av noen informanter i studien til Sandham og Todnem (2016) trukket frem at det å gå med våpen på seg til daglig er positivt fordi det reduserer stressnivået når det skulle bli behov for våpenet. En innsatsleder sa (s. 77):
+
+<u>Den midlertidige bevæpningen har gjort oss mer modne med skytevåpen fordi vi har blitt mer vant til det. Når vi tidligere skulle inn i et væpnet oppdrag, eskalerte bevæpningen hele situasjonen, kroppen, hodet, kapasiteten. Vi går inn i de samme situasjonene nå med lavere skuldrer og har mer fokus på dialog. Vi er trygge på å løse situasjonen med dialog fordi vi selv har et lavere spenningsnivå. (...) At politifolk er trygge og vant til å jobbe med skytevåpen, fremmer gode løsninger uten bruk av maktmidler. (...) Jeg husker som nyutdannet hvordan våpenet brant på hofta, pulsen steg, ikke i stand til å gjøre gode vurderinger. (...) Bevæpning av et oppdrag medfører en strukturell eskalering av situasjonen. Dette har jeg flere eksempler på.</u>
+
+På den annen side har det fremkommet gjennom studien til Helstad og Ingjer (2017, se vedlegg 1) at det kan være en fordel med den ekstra refleksjonstiden fremskutt lagring kan medføre. Da kan den mentale tilstedeværelsen komme à jour med det som skjer rundt en og man kan legge en plan. Informanter fra gruppen med politifolk som var skeptiske til bevæpning, mente fremskutt lagring var en bedre løsning for at både de selv som politi, og publikum, skal være mest mulig sikre. Der flere i de andre politigruppene omtalte det å bevæpne seg som et stressmoment, mente denne gruppen at dersom stressnivået økte av dette, kunne det være et tegn på at man nettopp bør ta de skrittene tilbake for å roe seg ned, samle seg og ta på verneutstyr, slik at man ikke blir en fare for seg selv eller andre. Under en pågående, alvorlig situasjon var man antagelig nødt til å ha på verneutstyr, og derfor ville man likevel måtte tilbake til bilen hvis man var så opptatt av egensikkerheten som sikkerhetsfokuset skulle tilsi. Videre mente informantene at dersom man entret en usikker situasjon raskt, kunne det være farlig for politiet, og hvis politiet skader seg, forsvinner nytten av effektiviteten. Det å gå inn i en situasjon og samtidig redusere bruken av de nåværende polititaktiske metoder fordi man bærer våpen, mente de ble en falsk trygghet ettersom det kan føre til at politiet går raskere inn i situasjoner. Det kan medføre en større fare for betjentene. De vektla at dagens utstyr var bedre enn tidligere og tilpasset til at det skulle gå raskt. De mente politifolk var flinke til å forberede bilen i forkant, og dersom det ikke var automatisert hvor utstyr befant seg og hvordan man skulle få det på, så var det heller et tegn på at de var for dårlig trent (Helstad & Ingjer, 2017, s. 17).
+
+1.  **<u>Mulighet til </u><u>å</u><u> h</u><u>å</u><u>ndtere det uforutsette</u>**
+
+Flere av informantene i studien til Sandham og Todnem (2016) oppga at de syntes det var en fordel å være midlertidig bevæpnet når de beveget seg langt unna tjenestebilen. En av innsatslederne sa følgende om å være ubevæpnet og uten umiddelbar tilgang til bilen (Sandham og Todnem, 2016, s. 79):
+
+<u>For eksempel inne på Oslo Sentralbanestasjon. Du er til fots inne i det store bygget og bilen står utenfor et sted. Noen begynner å skyte, eller stikke ned folk med en kniv. Da er vi sjanseløse, vi må løpe feil vei uten å være i stand til å gripe inn. Skadepotensialet er enormt. Innfrir vi da samfunnets forventninger?</u>
+
+Sikkerhet var et gjennomgående tema hos informantene. De vektla konsekvenser over sannsynlighet. Dette viste de blant annet gjennom «ta-høyde for»-utsagn (Sandham & Todnem, 2016, s. 101). Informantene uttrykte at de må ta høyde for at svært alvorlige hendelser med lav sannsynlighet for å inntreffe, likevel kan skje. Den menneskelige tilbøyeligheten til å vektlegge konsekvenser og nærmest se bort fra sannsynlighet i vurderingen av risiko, er godt dokumentert i forskning (se f.eks. Brun, 1997; Hellesø-Knutsen, 2013). Dersom en hendelse potensielt har store og dødelige konsekvenser, så forsterkes risikoopplevelsen, selv om sjansen for at hendelsen vil inntreffe er svært liten (Brun, 1997). Selv om informantene ga uttrykk for at en uønsket hendelse, som for eksempel at noen ble skutt i et oppdrag, var lav, måtte de ta høyde for at det kunne skje.
+
+Et eksempel som ble trukket frem var en situasjon der en patrulje hadde møtt en mann med sabel i bysentrum. I dette tilfellet måtte den ene tjenestepersonen trekke seg unna gjerningsmannen, mens den andre løp til bilen og hentet våpen. Situasjonen løste seg uten personskader, men hendelsen kunne, i følge informanten, like gjerne fått et dårligere utfall (s. 70). Det ble uttrykt at en oppfatning om at samfunnet har forventninger til at politifolk skal være i stand til å gripe inn i slike situasjoner, og at publikum krever raskere evne til håndtering, særlig etter 22. juli-terroren. Flere informanter understreket at slike situasjoner har lav sannsynlighet for å inntreffe, og at våpen ikke kan løse alle slike situasjoner. Likevel ble det fremhevet at samfunnet har endret seg, og at politiarbeidet oppleves farligere nå enn tidligere (Sandham & Todnem, 2016, s. 79).
+
+Informantene oppga at bevæpningen gjorde dem bedre i stand til å håndtere oppdrag som underveis plutselig endret seg og fikk forhøyet risiko. Disse situasjonene var preget av at de i utgangspunktet fremsto som egnet for ubevæpnet taktikk, men at de endret seg slik at det opplevdes nødvendig med umiddelbart tilgjengelig våpen. Få informanter nevnte håndtering av terrortrusselen som begrunnelse for bevæpningen (Sandham & Todnem, 2016).
+
+1.  **<u>Ø</u><u>kt egensikkerhet og </u><u>ø</u><u>kt risiko</u>**
+
+Et argument for generell bevæpning handler om at det vil gjøre at politiet i større grad kan ivareta sin egen sikkerhet. Dette ble trukket frem av flere informanter i evalueringen Politihøgskolen har gjort fra perioden med midlertidig bevæpning (presentasjon for utvalget 1.2.17). Motargumentet handler om at dersom politiet er bevæpnet, vil det gi større risiko for at noen vil bli utsatt for skade (Helstad & Ingjer, 2016, s. 116). Tjenestepersonene i studien til Sandham og Todnem opplevde at pistolen, under den midlertidige bevæpningen, ga dem økt egensikkerhet. Samtidig nevnte flere informanter at faren for å miste eget våpen var en ulempe. Også i evalueringen til PHS kom det frem at tjenestepersonene gjorde noen tilpasninger, blant annet for å beskytte våpenet. Noen uttrykte at de ble mer årvåkne i store folkemengder, og at de opplevde et visst ubehag i situasjoner hvor de måtte bruke fysisk makt. En innsatsleder i studien til Sandham og Todnem (2016) hadde selv opplevd et forsøk på å bli fratatt våpenet (samme hendelse er omtalt under 7.4 Forsøk på frata tjenesteperson ladd våpen):
+
+<u>Jeg og makker var på oppdrag for Mattilsynet. Vi skulle fjerne besetningen på en gård og bidro med å få dyrene opp på en bil. Da kom bonden ut og forsøkte å ta besetningen tilbake fra bilen, selv om han hadde fått mange pålegg om å holde seg unna. Jeg og kollegaen grep tak i han, og midt oppi tumultene nappet han tak i våpenet mitt. Vi hadde den gangen taktiske våpenhylstre. Våpenet var halvveis ut av hylsteret da jeg fikk tatt tak i armen hans. Han var sterk, så jeg maktet bare å holde tak i hånda hans, og jeg måtte be makkeren om å slå han for å få han til å slippe. Bonden ropte «skal jeg trekke av kanskje?». Makker slo, og bonden endte opp med tre brudd i ansiktet – forholdsvis store skader (informant, Sandham & Todnem, 2016, s. 84–85).</u>
+
+Dette illustrerer også en risiko ved det å bære ladde våpen. Informantene fortalte at det, på grunn av faren for å bli forsøkt fratatt våpenet, opplevdes ubehagelig å bære våpen i tette folkemengder, eksempelvis på idrettsarrangement eller utesteder i helgene, men at de hadde blitt flinkere til å reflektere over slike situasjoner etter hvert. Enkelte informanter mente at man kunne øke sikkerheten ved å tømme våpenet for ammunisjon før man gikk inn i slike steder. Da hadde man fortsatt handlingsrom hvis situasjonen skulle endre seg, siden våpenet fortsatt var med, men man unngikk faren for å bli fratatt eget skarpladd våpen. Det ble i den sammenheng nevnt at risikovurderinger var viktig verktøy for å ta riktige beslutninger. Risikovurderinger ble i denne sammenhengen definert av en informant som det å gjøre en enkel analyse over fordeler og ulemper ved å bære våpen i situasjonen (Sandham & Todnem, 2016, s. 84).
+
+Et argument som ble fremhevet av informantene i studien var at mangel på overlegent maktmiddel i oppdrag der det ikke var bevæpning, kunne medføre at tjenestepersonene måtte kompensere med økt aggressivitet for å løse situasjonen (Sandham & Todnem, 2016). Dette ble synliggjort gjennom en uttalelse fra en av informantene i studien (Sandham & Todnem, 2016, s. 85):
+
+<u>Det var en hundepatrulje som kom til en fyr. Denne personen var kjent for å være voldelig, så oppdraget var ganske skarpt – et slags grensetilfelle i det området der man ubevæpnet enten måtte være veldig forsiktig, eller veldig aggressiv av taktiske hensyn for å håndtere situasjonen. I denne situasjonen ble ingen av disse tilnærmingene nødvendig. Siden vi var under midlertidig bevæpning, kunne vi bare gå inn å prate rolig med han, bruke dialog, og da løste det seg lett uten problem.</u>
+
+Her ble det fremhevet at økt aggressivitet fra politiet også kunne medføre økt risiko i situasjonen fordi politiets håndtering ble mer ukontrollert. Overlegenhet, enten i form av personell eller i maktmiddel, opplevdes som en anledning til å starte med en mildere tilnærming, fordi man hadde tryggheten hvis situasjonen skulle eskalere.
+
+Fra studien til Helstad og Ingjer (2017, vedlegg 1) kommer det frem at det var flere politifolk som verken følte seg mer eller mindre trygge når de bar våpen. Dette var ofte de som selv hadde opplevd at det hadde gått bra å være ubevæpnet i en usikker situasjon. En informant fortalte om en egenopplevd usikker situasjon der han mente det var en fordel at han var ubevæpnet (s. 20):
+
+<u>(...) tror jeg hadde blitt skutt hvis jeg hadde hatt våpen, nesten helt sikker på. Planta midt i panna, hvis jeg hadde begynt å fikla etter våpen, nesten sikker på jeg hadde blitt skutt da.</u>
+
+Gruppene viste ofte til skyteepisoder som hadde foregått på mindre sentrale steder, der politiet hadde blitt skutt i forbindelse med usikre situasjoner, og at de følte frykt rundt dette. Det virket viktig for flere å eksemplifisere med disse episodene for å få frem at det ikke kun var de større byene som hadde behov for bevæpning (Helstad & Ingjer, 2017, vedlegg 1).
+
+1.  **<u>Opplevelse av at bev</u><u>æ</u><u>pningen fungerte bra</u>**
+
+Flertallet av informantene i Sandham og Todnems studie mente at bevæpningen hadde fungert bra, og at perioden hadde ført til at politiet var blitt vant til å utføre oppdrag med våpen. Med bakgrunn i dette, trodde enkelte informanter at det ville komme flere anmodninger om bevæpning etter at midlertidig bevæpning ble avsluttet, sammenlignet med tiden før bevæpningen ble innført. Informantene trodde med det at terskelen for å be om bevæpning ville bli senket (Sandham & Todnem, 2016, s. 86). Med en lavere terskel for bevæpning vil patruljene i større grad kunne operere som de gjorde under midlertidig bevæpning i gråsoneoppdrag, også etter at den midlertidige bevæpningen er avsluttet. Uttrekk fra PO viser at i noen distrikter har dette inntruffet: Antall bevæpningsoppdrag har hatt en kraftig økning etter perioden med midlertidig bevæpning sammenlignet med tiden før (se kapittel 5). Det er ingenting som skulle tilsi at denne økningen kan forklares med en tilsvarende økning i risikosituasjoner (jf. kapittel 6).

@@ -1,959 +1,488 @@
-# NOU 2017: 9, del 23 av 25 (side 252–262)
+# NOU 2017: 9, del 23 av 24
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2017/8bd6d95e-nou-2017-9.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2017-9/id2545750/
 - Original-PDF: https://www.regjeringen.no/contentassets/1a1e793002264d9cb5b940e673622984/no/pdfs/nou201720170009000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 15 tabeller, 42 figurer, 158 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 252]
-
-252
-
-Vedlegg 1
-
-NOU 2017: 9
-Politi og bevæpning
-
-gruppen så det også som en mulig løsning at man
-kan ta i bruk midlertidig bevæpning oftere.
-Utsatte grupper
-Gruppen med tidligere innsatte så for seg en løsning med punktbevæpning, særlig i forbindelse
-med terror. De ønsket ikke bevæpning i bykjernen, men heller eksempelvis på travle flyplasser
-og togstasjoner dersom de måtte velge. De anså
-også å bevæpne enkelte grupper innen politiet,
-som hadde mer trening, som et alternativ. De
-hadde aksept for å sikre bygninger som Slottet og
-Stortinget ved terrorfare.
-Hvem bør bli hørt?
-I masteroppgaven vurderte vi at bevæpningsspørsmålet bør inkludere alle parter en eventuell
-bevæpning vil berøre, både politi og publikum.
-Publikum viste i større grad forståelse for argumentene til politiet enn omvendt. Det kom frem
-hvordan politiet mente de selv burde spille en viktig rolle i beslutningstakingen, da det var deres
-yrkeshverdag som ville bli berørt. Videre ble det
-hevdet at politiet dermed tok eierskap over et risikoforhold som også vil påvirke publikum, da de
-samfunnsmessige endringene og effektene av
-bevæpnet politi ville berøre alle samfunnsgrupper
-(Helstad og Ingjer 2016:129).
-Politi
-Politigruppene i Distrikts-Norge mente ikke at det
-kun var politiet som bør bli hørt i bevæpningsspørsmålet. De vektla at politifolk bør bli hørt –
-men ikke kun de operative, som er kjent for
-mange gjennom Politiets Fellesforbund. Politifolk
-med lang erfaring, og som har vært operative tidligere, mente de hadde nyttige bidrag i debatten.
-Andre nødetater bør også ha en stemme med, da
-de ofte rykket ut til steder sammen, uten at det
-nødvendigvis var politiet som kom først frem. De
-forestilte seg at andre nødetater kunne oppleve
-det som en trygghet at politiet rykket ut med
-våpen, men at det nødvendigvis ikke behøvde å
-være «på hofta», da fremskutt lagring kunne være
-en like stor trygghet for dem. De omtalte det som
-«rart» å være bevæpnet under den midlertidige
-bevæpningen, da de visste at det ikke kom til å
-oppstå en alvorlig hendelse der de var. Dette var
-også en grunn til at de mente at det var viktig å
-høre på andre distrikter enn de mer sentrale – da
-motstanden var større og behovet var mindre på
-små steder. Beslutningen bør være politisk, da
-
-politiet skal speile publikum, og dermed var det
-logisk at folkevalgte politikere bør ta beslutningen. I tillegg til publikum, mente også enkelte at
-objektiv forskning bør bli vektlagt, da de hadde tillit til at det kunne vise om behovet var reelt. Likevel, trodde de motstanden innad i politiet er mindre i dag enn den var på landsmøtet til Politiets
-Fellesforbund i 2012. Det ble også uttalt at dersom
-flere hadde deltatt på møtet, ville flere stemt for
-bevæpning, på grunn av overbevisning i innleggene under møtet.
-Også gruppen med etterforskere og forebyggere mente publikum bør bli hørt, og at dette
-skjer gjennom at det blir en politisk beslutning.
-Publikum bør bli hørt fordi politiets hovedoppgave er å dekke publikums trygghetsbehov. De
-mente også at de «mer» operative politifolkene
-bør bli hørt i større grad enn dem selv, da de selv
-ikke er like mye ute på gata som andre i politiet.
-Politigruppen som var skeptiske til bevæpning
-var kritiske til at kun «de med skoa på» skulle bli
-hørt i bevæpningsspørsmålet, da dette virket noe
-for «tilfeldig»; kun akkurat de som jobber operativt nå. Hovedårsaken til at det ikke er kun de som
-er operative nå som bør bli hørt, mente de grunnet i oppfattelse av risiko og at de operative politifolkene kan ha en urealistisk oppfattelse av risiko,
-og oppleve eget yrke og samfunnet generelt som
-farligere enn det egentlig er. Innad i politiet mente
-de det var for få som satt med definisjonsmakten i
-forbindelse med det operative miljøet, og at denne
-verstefallstenkningen også kunne smitte over på
-publikum, som igjen kunne få en lignende oppfatning av politiyrket og samfunnet som enkelte politifolk; det virker farligere enn det faktisk er. Dersom dette stemmer, og kan føre til en bevæpning
-av politiet, har man rigget norsk politi for noe som
-ikke finnes, noe som igjen vil føre til en falsk
-trygghet, både for politi og publikum. De kalte det
-et paradoks at de få med definisjonsmakt i det operative politimiljøet, også kan tenkes å være de som
-har minst kunnskap om relevant forskning og statistikk. De anså det som en ukultur at forskning
-ofte ble latterliggjort innad i miljøet, og at takhøyden var lav for å mene noe annet enn de med definisjonsmakt – noe som fører til at de politifolkene
-som er mer skeptiske til bevæpning trekker seg ut
-av diskusjonen, og som skaper en «ond sirkel»
-angående hvem som deltar i debatten. De fortalte
-selv at de ofte ikke «har ork» til å ytre meninger
-om temaet, og mente det kunne bidra til en forklaring på hvorfor denne gruppen i utvalget har vært
-mer utfordrende å rekruttere enn andre politigrupper. Definisjonsmakten og «pro-bevæpningskampanjen» ble omtalt som «trollet i politi-
-
-[Side 253]
-
-NOU 2017: 9
-Politi og bevæpning
-
-kulturen». De pekte på at et kjent argument fra
-Politiets Fellesforbund er ofte at «man har ingen
-kolleger å miste» – og at det blir de som er mer
-skeptiske til bevæpning som skal få skylden for
-dette. Dette mente de skaper et indre press og
-bidrar til at færre uttaler seg offentlig om dette.
-Dermed kom de også frem til at de få med definisjonsmakt får med seg mange, og grunnet dette
-kan det virke som det er langt flere i politiet som
-ønsker bevæpning, enn de som ikke gjør det.
-Gruppen hadde noe svekket tillit til Politiets
-Fellesforbund. Landsmøtet i 2012 ble omtalt som
-«kuppet», og de tvilte på at avstemmingen fikk et
-riktig utfall den gang. Det ble blant annet fortalt
-hvordan en representant skulle stemme imot,
-etter ønske fra tjenestestedet, men stemte likevel
-for, noe som heller ikke fikk konsekvenser i ettertid. Dette kan tenkes å ha en sammenheng med
-det en informant fra politiet i Distrikts-Norge fortalte angående overbevisning; hadde flere vært til
-stede på landsmøtet i 2012, hadde flere stemt for.
-Det generelle publikum
-I publikum ble det tydeliggjort at media hadde
-bidratt til at de var klare over hva som var de mest
-kjente argumentene til politiet i offentligheten.
-Her ble blant annet Politiets Fellesforbund nevnt
-som eksempel, og at politiets egen trygghetsfølelse var vektlagt. De viste forståelse for dette,
-men mente likevel ikke at det veide tungt nok opp
-mot andre argumenter, og at det ikke kun var politiet som burde bli hørt i spørsmålet, da også de
-som publikum ville bli påvirket av en eventuell
-bevæpning.
-Samarbeidspartnere
-Natteravnene fortalte om at siden de samarbeidet
-med politiet og er mye ute om nettene, syntes de
-det derfor var positivt at de selv gis en stemme
-gjennom dette. Psykisk syke har blitt gitt en
-stemme gjennom psykiatripersonell.
-Tillit og trygghet
-Avslutningsvis vil rapporten bli oppsummert med
-en gjennomgang av de ulike gruppenes argumentasjon rundt trygghet og tillit. Materialet viser
-hvordan alle grupper, både i politi og publikum,
-argumenterte ut ifra hvordan og hvilken grad av
-tillit de har, opplevd trygghetsfølelse, og hvordan
-dette kan forankres i de ulike informantenes virkelighetsforståelser.
-
-253
-
-Vedlegg 1
-
-Politiet: trygghet
-I politigruppene fra Distrikts-Norge var det ulikheter i hva som opplevdes som trygghet. Mens
-flere som hadde lengre erfaring som politi følte
-seg tryggere uten våpen, opplevde andre at våpenet ga en økt følelse av trygghet. Det fantes også
-unntak her; et mindretall av informantene med
-lengre erfaring i politiet, følte seg tryggere med
-mer utstyr, deriblant skytevåpen. Noen av de
-yngre tjenestepersonene mente ordningen med
-fremskutt lagring fungerte godt, og så ikke behovet for skytevåpen. I tillegg var det flere informanter i disse gruppene som verken følte seg mer
-eller mindre trygge med våpen. Dette var hovedsakelig det gruppen med etterforskere og forebyggere også vektla; ingen endring i trygghetsfølelse med våpen. Gruppen som var skeptiske til
-bevæpning trodde bevæpning ville føre til en falsk
-trygghetsfølelse, og at det ville svekke den faktiske tryggheten til politiet. I tillegg var dette den
-eneste gruppen som hadde et økt fokus på at
-publikum heller ikke ville bli tryggere av en eventuell bevæpning, og at de heller ikke ble tryggere
-under den midlertidige bevæpningen. Det de forestilte seg at publikum la i opplevd trygghet var
-heller at politiet kommer når de blir kontaktet, og
-at de tok publikum på alvor. Så lenge de innfrir
-publikums forventninger i forbindelse med dette,
-trodde de ikke det ville spille noen rolle om politiet var bevæpnet eller ikke.
-Politiet: tillit
-Politigruppene i Distrikts-Norge hadde fokus på
-trening med og håndtering av skytevåpen. Dersom politiet viser at de ikke har nok trening når
-det kommer til håndtering av våpen i form av
-vådeskudd, trodde de dette kunne svekke publikums tillit til politiet. De trodde også dette kan forsterkes hvis det skjer vådeskudd eksempelvis ved
-tømming, da de «får oppfatning av at politiet ikke
-kan håndtere våpen, i rolige omgivelser engang».
-En av gruppene satt norsk politi i kontrast til politi
-i andre land, der tilliten var lavere og politiet
-hadde en annen tilnærming til publikum enn i
-Norge. Grunnet dette, og erfaringer fra ulike
-hjemland, hadde de forståelse for at ikke-etnisk
-norske kunne ha lavere tillit til politiet enn øvrig
-publikum. De trodde man knyttet tilliten til politiet
-mer generelt, i tillegg til opplevelser man hadde
-med uniformen som publikummer. Gruppen som
-hovedsakelig besto av etterforskere og forebyggere vektla viktigheten av at publikum, og særlig
-ungdom, knyttet uniformen til noe positivt, og at
-
-[Side 254]
-
-254
-
-Vedlegg 1
-
-NOU 2017: 9
-Politi og bevæpning
-
-dette bygger tillit. Dermed kom de frem til at en
-mulig løsning kunne være at noen operative politifolk burde være ubevæpnet. Politigruppen som
-var skeptiske til bevæpning mente at et bevæpnet
-politi strider med verdiene etaten skal utstråle. De
-vektla at nærhet til publikum bygger tillit og
-respekt, noe de fryktet ville forsvinne dersom politiet blir bevæpnet. I tillegg trodde de sentraliseringsreformen ville bidra i negativ retning når det
-gjelder tillitsbygging, særlig dersom det også ville
-føre til at det heller ble et økt fokus på beredskap
-enn forebygging.
-
-våpenet, deriblant vådeskudd. De måtte selv være
-trygge på at politiet kunne håndtere våpen, og at
-det stilles strengere krav til opplæring i forbindelse med dette. Den høye tilliten politiet har opparbeidet seg, kan likevel gagne politiet ved en
-eventuell bevæpning; en av publikumsgruppene
-trodde ikke de ville reagert negativt ved synet av
-bevæpnet norsk politi, på grunn av den høye tilliten de hadde til politiet. De trodde heller ikke at
-en bevæpning ville påvirke tilliten deres direkte,
-da politiet i all hovedsak ble forbundet med politibilen de så i blant, og ikke var noe de hadde et forhold til utover dette.
-
-Det generelle publikum: trygghet
-Publikumsgruppene anså trygghetsfølelsen deres
-som høy, og at et ubevæpnet politi forsterker og
-viser at Norge er et trygt land ved at man ikke har
-behov for bevæpnet politi. Hvis politiet derimot
-var bevæpnet, uttalte flere at de ville føle seg mer
-utrygge, og de ville koble dette til at samfunnet er
-farligere, som fører til at politiet har behov for
-våpen. Her så de også til andre land der de hadde
-sett bevæpnet politi, og beskrev det som ubehagelig. En av informantene uttalte at han følte seg
-tryggere med våpen i nærheten, men at det var en
-falsk form for trygghet. Et mindretall av informantene sa de ville følt seg tryggere med bevæpnet
-politi, da de følte seg mindre trygge fra før, og
-ønsket at politiet skulle bære våpen grunnet dette.
-I likhet med det politigruppen som var skeptiske
-til bevæpning forestilte seg, knyttet publikum som
-holder til i Distrikts-Norge tryggheten sin til at
-politiet er til stede og at de er kapable til å håndtere situasjoner, og trodde at den generelle befolkningen opplever dette som trygghetsskapende.
-Det generelle publikum: tillit
-Publikumsgruppene hadde gjennomgående høy
-tillit til norsk politi. De begrunnet den høye tilliten
-med flere faktorer; utdanningen politiet har, deres
-kunnskap om hvordan mennesker skal behandles, at de viser myke sider som eksemplifiseres
-med barnehage- og skolebesøk, og hvordan dette
-viser at politiet ikke er farlige. De anså politiet
-som rolige, profesjonelle og nøytrale, og at synlighet og tilstedeværelse bygger tillit. Flere informanter i publikumsgruppene mente også at det
-var tillitsskapende at det var få hendelser som
-hadde ført til at tilliten kunne svekkes. Det som
-derimot kunne svekke tilliten deres, var dersom
-politiet og deres arbeidsmetoder endres som følge
-av bevæpning, og at man i fremtiden ville se flere
-hendelser i forbindelse med feil håndtering av
-
-Samarbeidspartnere: trygghet og tillit
-«Vi er levende avhengig av polititillit, både privat
-og profesjonelt.»
-Gruppen med psykiatripersonell trodde tilliten
-til politiet kunne svekkes ved en eventuell bevæpning, og i likhet med det øvrige publikum fryktet
-de enkeltepisoder som kunne påvirke tilliten. De
-så også for seg at politiet kunne utvikle seg til å få
-en rolle de ikke ønsker, ved at publikum reagerer
-negativt når politiet er til stede, og blir noe man
-heller vil holde på avstand.
-I likhet med de øvrige publikumsgruppene
-hadde natteravnene høy tillit til politiet, og forestilte seg at negative enkelthendelser kunne
-svekke tilliten deres. De mente det var viktig at
-politiet klarte å opprettholde tilliten de har, og at
-dette gjøres gjennom dialog og nærhet til publikum, at de innfrir publikums forventninger, bevarer verdiene i samfunnet og at de er en åpen etat.
-Åpenhet vises blant annet gjennom «politirealityTV», der de kunne se hvor flinke politiet er i jobben sin i de situasjonene de selv ikke har erfaringer med politiet fra. Tilliten deres knytter seg
-hovedsakelig til at publikum har positive opplevelser med politiet, at de driver forebyggende arbeid,
-at de kommer fra alle lag i samfunnet, og at det er
-få saker som har ført til mistillit.
-Utsatte grupper: trygghet og tillit
-I likhet med de øvrige publikumsgruppene følte
-de utsatte gruppene seg mindre trygge med
-bevæpnet politi i nærheten. Det som gjør at gruppen med tidligere innsatte skiller seg ut, er at flere
-hadde egenopplevde erfaringer med nettopp
-bevæpnet politi, og sa selv at de trodde det var
-derfor de følte seg utrygge med det. Også denne
-gruppen forbandt tilstedeværelse av bevæpnet
-politi med fare. Informantene hadde også fokus på
-at bevæpning ville være en falsk form for trygghet
-
-[Side 255]
-
-NOU 2017: 9
-Politi og bevæpning
-
-for politiet, særlig dersom de ikke klarte å håndtere våpen korrekt. De trodde heller politiets
-trygghet ligger i ordene de kan forhandle med og
-måten de går inn i ulike situasjoner på.
-De tidligere innsatte hadde et annet syn på
-politiets håndtering av hendelser enn andre publikumsgrupper, da de mente politiet ikke alltid
-hadde handlet rett. Det som hadde svekket tilliten
-deres, var særlig når politiets bruk av skytevåpen
-hadde blitt etterforsket, og at det aldri ble sådd
-tvil rundt dette. Dette kan ha sammenheng med
-deres tidligere negative erfaringer med politiet.
-Gruppen med norsk-somaliere vektla at politiets viktigste oppgave er å skape trygghet i samfunnet, og å bevare den. De knyttet Norge til
-«trygghet og fred», og satt det i motsetning til
-hjemlandet sitt og USA. Flere fortalte om at da de
-møtte bevæpnet politi under den midlertidige
-bevæpningen ble følelsen av trygghet svekket.
-Redselen de selv, og særlig norsk-somalisk ungdom, følte av å møte bevæpnet politi mente de er
-noe som bæres gjennom hele livet. Et bevæpnet
-politi vil skape mer frykt, mindre nærhet og ødelegge tillitsforholdet mellom politiet og publikum.
-De fremhevet skyteepisoden på Grønland i 2015
-som et skille – etter dette har tillitsforholdet og
-nærheten til politiet blitt svekket. De fremhevet
-særlig yngre mennesker i forbindelse med dette,
-og at en eventuell bevæpning ville svekke tilliten
-deres ytterligere. De følte seg mer utsatt for polisiær kontroll, særlig i form av «stopp og sjekk»,
-som tidligere omtalt. Følelsen av å bli overkontrollert mente de forsterker mistilliten til politiet.
-Det generelle publikum og samarbeidspartnerne i materialet vårt uttrykte høy tillit til politiet.
-Det som skiller dem, er om tilliten er ubetinget
-eller om de ser muligheten for at tilliten kan svekkes i fremtiden som en følge av bevæpning. De
-som hadde ubetinget høy tillit var mer usikre på
-hvorfor tilliten er høy, og knyttet den gjerne til
-enkeltpersoner i politiet. Den ubetingede høye tilliten viste seg også i at de hadde tillit til at politiet
-selv, til en viss grad, burde bestemme om de skal
-bære våpen eller ikke, da de stolte på at det er
-politiet som har mest kunnskap om dette. Likevel,
-var flere klare over at Politiets Fellesforbund har
-en positiv holdning til bevæpning, og at dette kan
-ha påvirket dem. Det ble vektlagt at synet deres
-på politiet ikke ville endres dersom de ikke gir
-grunn til det – noe som kan tyde på at enkelthendelser også for disse delene av publikum kan føre
-til svekket tillit. De uttrykte at de i tillegg følte seg
-mer utrygge generelt, og hadde en oppfattelse av
-risiko og av samfunnet som skiller seg fra de
-delene av utvalget som så en mulighet for at tilli-
-
-255
-
-Vedlegg 1
-
-ten kan svekkes. Disse informantene utgjør et
-mindretall av publikumsutvalget, og er mer tilbøyelige for at politiet bør bli fast bevæpnet. Det var
-en gjennomgående aksept for den midlertidige
-bevæpningen blant informantene i publikum, uavhengig av standpunkt til bevæpning, og flere så
-det også som en mulighet å benytte seg av midlertidig bevæpning oftere, i stedet for å innføre generell bevæpning.
-Informantene i politiet kan også tenkes å følge
-lignende logikk hva angår tillit og trygghet. De i
-politiet som hadde lavere tillit til publikum, følte
-seg også mer utrygge, særlig i usikre situasjoner,
-og argumenterte for bevæpning. Dersom tilliten
-til publikum var høy, følte de seg også tryggere,
-og så i likhet med publikumsgruppene ikke behovet for fast bevæpning. Her spiller erfaring (fartstid og antall episoder) inn som en bestemmende
-faktor. Både de som ikke har sett behov for våpen
-under oppdragsløsning, og de som anså våpen
-som en ulempe under oppdragsløsning, var som
-regel imot bevæpning. De anså behovet for
-bevæpning som mindre enn for de som enten; (1)
-ikke hadde like mye erfaring med at oppdrag
-løser seg uten våpen, som både henger sammen
-med hvor lenge de har vært i politiet og hvor
-lenge de har vært ubevæpnet kontra midlertidig
-bevæpnet; (2) selv hadde opplevd behovet for å
-bruke våpen; eller (3) hadde følt at egen trygghet
-i oppdragsløsning har sunket som følge av hendelser som har foregått andre steder eller med andre
-kolleger. For å begrunne argumentasjonen benyttet de seg av egne erfaringer både fra den midlertidige bevæpningen og andre situasjoner utenom,
-der de hadde hatt bruk for våpen for å løse oppdrag. Også oppdrag der de burde vært bevæpnet;
-at det enten kunne ført til at oppdraget ble løst på
-en bedre, tryggere eller mer effektiv måte, og
-oppdrag de omtalte som vellykkede grunnet flaks,
-ble brukt i argumentasjonen. De trakk også på
-andres erfaringer, og det var særlig politiet i Distrikts-Norge som så til andre steder.
-Hvor høy den opplevde tryggheten føltes, syntes å være bestemmende for på hvilken måte, og
-hva, man argumenterte for. De delene av publikum som følte seg trygge, så heller ikke behovet
-for bevæpning. Både informantene i politiet og
-publikum argumenterte ut ifra hva de forestilte
-seg at ville gjøre dem tryggest mulig. De delene
-av utvalget som ikke ønsket bevæpning, begrunnet dette med at de følte seg trygge, og da de følte
-seg mer utrygge med bevæpnet politi, ønsket de
-det ikke – nettopp for å opprettholde tryggheten.
-Informantene som ønsket bevæpning, la til grunn
-at de følte seg mer utrygge uten bevæpnet politi,
-
-[Side 256]
-
-256
-
-Vedlegg 1
-
-NOU 2017: 9
-Politi og bevæpning
-
-og ønsket derfor bevæpning for å føle seg tryggere. Siden man har ulik oppfattelse av risiko, vil
-det også være ulike tiltak som fører til at man vil
-føle seg tryggere.
-Faktorene som det generelle publikum og
-samarbeidspartnerne knyttet direkte til den høye
-tilliten de har til politiet, sier i tillegg noe om hva
-de forventer av politiet, hva slags politi de ønsker,
-hva de mener bør opprettholdes, og hvilke
-arbeidsmetoder de synes fungerer bra med
-dagens praksis. Det var gjennomgående i publikumsgruppene at de har høy tillit til politiet, men
-at de særlig fryktet at enkelthendelser som følge
-av en bevæpning kunne svekke tilliten deres.
-De utsatte gruppene har lavere tillit til politiet,
-noe som kan forstås ut ifra at de har vært, eller er,
-hyppigere utsatt for polisiær kontroll. De som har
-mest kontakt med politiet, har ofte minst tillit til
-dem, ifølge undersøkelser gjort på dette (Larsson
-2010:8). Likevel fortalte de hva de forventer av
-politiet, og hva de ønsket at skal opprettholdes.
-Gruppen med norsk-somaliere mente politiets
-fremste oppgave er å skape og bevare trygghet,
-og at dette opprettholdes ved å ha et ubevæpnet
-politi. Tidligere innsatte fremhevet at det å bli
-behandlet med respekt bygger tillit. Politi som ser
-og som har dialog med publikum, og som gjerne
-har lengre erfaring enn de yngre betjentene, oppnår høyere respekt og tillit ut ifra denne gruppens
-synspunkter.
-Vi finner det relevant å vektlegge viktigheten
-av å opprettholde den høye tilliten publikum har
-til norsk politi, både for publikums og politiets del.
-Politiet er avhengige av et godt tillitsforhold med
-publikum, og ut ifra flertallet av informantene i
-publikumsgruppene, vil en eventuell bevæpning
-kunne ha en ufordelaktig virkning på tillitsforholdet. Både politi og publikum forestiller seg at
-enkeltepisoder og uvøren håndtering av skytevåpen vil kunne svekke tilliten. Dersom det blir en
-økning av enkeltepisoder i fremtiden der publikum får inntrykk av at politiet har handlet uriktig,
-vil dette kunne påvirke tilliten, da et tillitsforhold
-fordrer gjensidig tillit. Faktorene og verdiene
-publikum mente bygger tillit, samsvarer ikke med
-verdiene et bevæpnet politi utstråler, ifølge store
-deler av publikum. Kan tillitsforholdet mellom
-politi og publikum opprettholdes like sikkert med
-et bevæpnet politi? Dersom tilliten svekkes kan
-dette særlig gå utover de som allerede føler seg
-trygge.
-I det følgende vil vi presentere noen hovedresultater fra masteroppgaven som omhandler
-trygghet og tillit, og diskutere om materialet i
-
-denne rapporten kan bidra med nye innsikter til
-disse resultatene.
-I forbindelse med trygghet, viste masteroppgaven at politi og publikum hadde forståelse
-for argumenter som omhandlet trygghet på motsatt side av debatten de selv sto. Det kan tyde på
-at informantene i dette materialet har satt seg inn i
-bevæpningsdebatten, ved at de har kjennskap til
-ulike argumenter, og har forståelse for at det er
-ulike tiltak som vil øke den opplevde tryggheten
-for ulike deler av befolkningen.
-Et annet hovedfunn var hvordan publikum
-forestilte seg at deres subjektive trygghet ville bli
-svekket ved en eventuell bevæpning. Dette viste
-seg å stemme overens med materialet i denne rapporten. Både tilstedeværende utrygghetsfaktorer
-under den midlertidige bevæpningen, som
-eksempelvis vådeskudd, og frykt for hvordan
-fremtidig politiarbeid ville foregå, påvirket dette.
-Dette kunne igjen påvirke tilliten deres til politiet.
-Vi fant også at innføring av generell bevæpning kunne virke mot sin hensikt, og at det kan
-være krevende å høyne et høyt trygghetsnivå. Da
-publikum i dette materialet hovedsakelig følte seg
-trygge, kan en bevæpning virke utrygghetsskapende, da det er vanskelig å trygge de delene av
-publikum som allerede føler seg trygge.
-I masteroppgaven fant vi at politiet følte seg
-tryggere med bevæpning. Denne rapporten viser
-mer variasjon når det gjelder politiets egen trygghetsfølelse. Dette kan ha sammenheng med at
-materialet er innhentet med bredere geografisk
-spredning. Det har i hovedsak foregått utenfor
-Oslo- og Østlandsområdet, og flertallet av tjenestestedene befant seg i Distrikts-Norge. Variasjonen reflekterer også trolig bredden i argumentene
-og standpunktene som finnes i norsk politi.
-Referanseliste
-Bevæpningsutvalget (2011): Generell bevæpning
-av norsk politi. Oslo: Politiets Fellesforbund.
-Tilgjengelig fra: https://www.pf.no/filestore/
-Politiets_Fellesforbund/Filer/Publikasjoner/
-Rapporter/Interne_rapporter/2011/
-6302_1.pdf
-Balvig, Flemming og Lars Holmberg (2004): Politi
-& Tryghed: Forsøg med nærpoliti i Danmark.
-København: Jurist- og Økonomforbundets Forlag.
-Fekjær, Silje Bringsrud og Jon Strype (2015):
-«Norwegian police students’ attitudes towards
-armament.», i: International Journal of Police
-Science & Management, 17 (3).
-
-[Side 257]
-
-NOU 2017: 9
-Politi og bevæpning
-
-Finstad, Liv (2011): «Politi og bevæpning – Hvordan kan nyere forskning informere diskusjonen om norsk politi bør bli permanent bevæpnet?». Oslo: Politiets Fellesforbund.
-Finstad, Liv (2012): Hva mener innsatspersonell
-om generell bevæpning? Resultater fra en spørreundersøkelse til IP-godkjente 1–5. Rapport til
-Bevæpningsutvalget 12.oktober 2012. Oslo:
-Politiets Fellesforbund.
-Finstad, Liv (2013): Politiblikket. (3. utg.). Oslo:
-Pax Forlag.
-Giertsen, Hedda (2003): «Er målene til bare for å
-kunne måles?», i: Rus og avhengighet, 6 1).
-Helstad, Christina og Silje Ingjer (2016): Bevæpning av politiet – for sikkerhets skyld? Master-
-
-257
-
-Vedlegg 1
-
-oppgave i kriminologi. Oslo: Universitetet i
-Oslo.
-Larsson, Paul (2010): «Tillit til politiet – fra nærhet
-til forhandlet legitimitet», i: Siv R, Runhovde,
-(red.) Tillit til politiet. Oslo: Politihøgskolen
-(PHS Forskningsserie 4: 2010).
-Lovdata (2016): Lov om politiet (politiloven). Justis- og beredskapsdepartementet. Tilgjengelig
-fra:
-https://lovdata.no/dokument/NL/lov/
-1995-08-04-53
-Politidirektoratet (2011): Trygghet og tillit – Politiets arbeid i et multietnisk samfunn. POD Publikasjon nr. 2011/3. Oslo: Politidirektoratet.
-Wibeck, Victoria (2011): Fokusgrupper: om fokuserade gruppintervjuer som undersökningsmetod.
-Lund: Studentlitteratur.
-
-[Side 258]
-
-258
-
-NOU 2017: 9
-
-Vedlegg 2
-
-Politi og bevæpning
-
-Vedlegg 2
-
-Våpeninstruks for politiet
-Kildemessig gjøres oppmerksom på at nedenstående i det alt vesentlige baserer seg på professor
-Tor-Geir Myhrers bok «Våpeninstruks for politiet
-– Kommentarutgave».1
-
-1
-
-Våpeninstruks for politiet 2. juli
-2015
-
-1.1
-Virkeområde
-Bestemmelsene i kapitlet tilsvarer «Våpen til tjenestebruk» i instruksen fra 1989. Flere av bestemmelsene har likevel ingen tilsvarende bestemmelser i den forrige instruksen. Grunnleggende sett
-kan det sies at de nye bestemmelsene har som
-siktemål å løse spørsmål om virkeområdet for
-politiets våpeninstruks som tidligere voldte tvil.
-De tre første bestemmelsene i kapitlet viser at virkeområdet for en våpeninstruks for politiet kan
-avgrenses på ulike måter; saklig, personellmessig
-og geografisk.
-1.1.1
-Saklig virkeområde
-§ 1-1. Instruksens saklige virkeområde
-(1) Instruksen gjelder for tjenestemessig lagring, bevæpning og bruk av gassvåpen, skytevåpen og sprengvåpen godkjent for bruk i polititjenesten.
-(2) Instruksen gjelder ikke for lagring, bevæpning og bruk av slagvåpen og OC-pepperspray,
-som reguleres i egen instruks fastsatt av Politidirektoratet.
-(3) Instruksen gjelder ikke for utlevering og
-bruk av politiets våpen
-a) til avliving av dyr,
-b) for å avverge eller begrense farer ved ulykker,
-branner eller naturkatastrofer
-c) til godkjent trening og opplæring.
-Når det gjelder det saklige virkeområdet, er det
-naturlig å ta utgangspunkt i våpenloven § 4 første
-ledd, første punktum, som unntar våpen som eies
-av politiet. Det er dette unntaket fra den alminnelige våpenlovgivningen, som det i stor grad kom1
-
-Teksten er utarbeidet av Anders Nerli.
-
-penseres for med våpeninstruksen. En grunnleggende forutsetning for våpeninstruksens virkeområde er derfor at våpnene eies av politietaten.
-Begrepet «tjenestemessig» i første ledd markerer at våpeninstruksens bestemmelser gjelder
-når politiets våpen brukes som ledd i tjenesten.
-Urettmessig bruk av tjenestevåpen, eventuelt
-bruk av tjenestevåpen i idrettslig sammenheng,
-faller derfor utenfor, og reguleres henholdsvis av
-straffeloven, den alminnelige våpenloven samt
-eventuelt internt regelverk.
-At instruksen bare gjelder for våpen som er
-«godkjent for bruk i politiet» innebærer både at
-selve våpentypen må være godkjent for politiet, og
-at vedkommende våpen er politiets eiendom.
-Bruk av privat anskaffede våpen er ikke tillatt selv
-om disse har tilsvarende egenskaper som politiets. Bruk av slike ikke godkjente våpen i tjenstlig
-sammenheng vil bare være rettmessig dersom vilkårene for nødrett, eventuelt nødverge er oppfylt.
-Bestemmelsen i annet ledd markerer at
-instruksen gjelder for de ekstraordinære tilfellene
-hvor politiet tar i bruk midler som ikke er en del
-av den ordinære utrustningen. Konsekvensen av
-reguleringen er at for eksempel batong og pepperspray i instruksens forstand ikke regnes som
-våpen, jf. § 1-4. Det er forutsatt at bruken av disse
-reguleres i egen instruks fastsatt av Politidirektoratet.
-Unntaket angitt i bestemmelsens tredje ledd
-bokstav a) omhandler tjenstlig bruk av skytevåpen som ikke aktualiserer noen av de faremomenter som begrunner instruksens bestemmelser om
-bevæpning og bruk. Bestemmelser i annen lovgivning stiller imidlertid krav om at avlivingen må
-skje på en dyrevelferdsmessig forsvarlig måte.
-Unntaket i tredje ledd bokstav b) er nytt i
-instruksen 2015. Fellesnevneren for tilfellene som
-fanges opp av denne bestemmelsen er at den
-umiddelbare fare som begrunner bruk av våpen
-ikke er menneskeskapt. Et typisk eksempel vil
-være at politiet skyter hull i en gassbeholder for å
-hindre eksplosjon. Det er først og fremst årsaken
-til faren som skiller tilfellene angitt i § 1-1 tredje
-ledd bokstav b) fra den taktiske bruken av skytevåpen i forbindelse med «skarpe» oppdrag som er
-regulert i instruksens § 4-3 annet ledd.
-
-[Side 259]
-
-NOU 2017: 9
-Politi og bevæpning
-
-Det siste unntaket gjelder godkjent trening og
-opplæring, jf. § 1-1 tredje ledd bokstav c). Bestemmelsen tydeliggjør at den ikke gjelder, og dermed
-heller ikke er til hinder for individuell trening med
-politiets våpen. «Godkjent» trening innebærer at
-den må skje i samsvar med egen lokal instruks
-eller etter godkjenning fra foresatt i det enkelte tilfellet.
-
-1.1.2
-Personellmessig virkeområde
-§ 1-2. Instruksens personellmessige virkeområde
-(1) Instruksen gjelder for alle som i medhold
-av politiloven § 20 har eller er gitt politimyndighet.
-(2) For Forsvarets personell som er gitt og
-utøver begrenset politimyndighet i medhold av
-politiloven § 20 gjelder instruksen så langt den
-passer.
-(3) For utenlandsk politi- og sikkerhetspersonell gjelder følgende unntak fra første ledd:
-a) Under livvakttjeneste gjelder særlig regulering
-fastsatt av sjef Politiets sikkerhetstjeneste i det
-enkelte tilfelle.
-b) Ved observasjon eller ved forfølgelse over landegrensen etter Schengenkonvensjonen art.
-40 nr. 3 eller 41 nr. 5, gjelder Konvensjonens
-art. 40 nr. 3. pkt. d eller art. 41 nr. 5 pkt. e.
-Bestemmelsen om det personellmessige virkeområdet er ny i våpeninstruksen 2015.
-Med den presiseringen som følger av annet
-ledd om «Forsvarets personell», angir første ledd
-ytterrammene for hvem våpeninstruksens
-bestemmelser kan gjelde for. For å regnes som
-«tjenesteperson» i våpeninstruksens forstand er
-det imidlertid ikke nok med politimyndighet, men
-kreves også at opplæring for bruk av våpen er
-bestått. Tjenestepersoner med begrenset politimyndighet vil oftest ikke oppfylle vilkårene om
-opplæring, og vil derfor i våpeninstruksens forstand ikke regnes som «tjenesteperson» med den
-kompetansen som følger av dette.
-Det følger av annet ledd at instruksen gjelder
-for personell fra forsvaret såfremt disse er gitt og
-utøver begrenset politimyndighet. I den ordinære,
-daglige tjenesten gjelder dette primært tjenestepersoner i Kystvakten og grensevaktstyrken ved
-Garnisonen i Sør-Varanger. Når Forsvaret ved
-ekstraordinære hendelser blir anmodet om å yte
-politiet bistand i medhold av politiloven § 27 a
-annet ledd, kan instruksen først komme til anvendelse når det aktuelle personellet er meddelt
-begrenset politimyndighet etter politiloven § 20
-femte ledd. Selv når dette er tilfellet, gjelder den
-bare «så langt den passer».
-
-259
-
-Vedlegg 2
-
-Hensikten med den felles innledningen til
-tredje ledd er å fastsette at våpeninstruksen ikke
-gjelder for det bevæpnede personellet angitt i bokstav a) og b). Når dette betegnes som et unntak
-fra første ledd, innebærer det ikke at personellet
-angitt i tredje ledd også er gitt politimyndighet,
-som jo er det avgjørende kriterium i første ledd.
-Når det eksempelvis ved statsbesøk medfølger
-egne sikkerhetsstyrker, fastsetter tredje ledd bokstav a) at bevæpningen for slikt personell reguleres i egen instruks som fastsettes av sjef for Politiets sikkerhetstjeneste i det enkelte tilfellet, og
-derfor ikke reguleres av våpeninstruksen.
-Etter Schengenkonvensjonen 19. juni 1990 del
-III om «politi og sikkerhet» har polititjenestepersoner fra andre land en begrenset anledning til å
-forfølge gjerningspersoner over grensen. I praksis vil dette først og fremst gjelde svensk og finsk
-politi som rutinemessig er bevæpnet, og som kan
-komme i situasjoner hvor det er nødvendig å fortsette en forfølgelse inn over grensen til Norge.
-Konvensjonen regulerer i disse tilfellene både retten til fortsatt å være bevæpnet, og adgangen til å
-gjøre bruk av våpenet. I tredje ledd bokstav b) er
-det for fullstendighetens skyld vist til dette regelverket, og at det er dette og ikke våpeninstruksen
-som kommer til anvendelse. Det vil imidlertid
-bare være adgang til å bruke våpenet i de tilfeller
-som er omhandlet i våpeninstruksen § 4-3 første
-ledd bokstav a), og ikke i pågripelsestilfellene, jf.
-§ 4-3 bokstav b).
-
-1.1.3
-Geografisk virkeområde
-§ 1-3. Instruksens geografiske virkeområde
-(1) Instruksen gjelder
-a) på norsk land- og sjøterritorium, herunder
-Svalbard, Jan Mayen og områder underlagt
-norsk statshøyhet som biland, og
-b) for personell som nevnt i § 1-2 første ledd i
-polititjeneste utenfor territorialgrensen. For
-personell som nevnt i § 1-2 annet ledd i polititjeneste utenfor territorialgrensen gjelder
-instruksen så langt den passer.
-(2) Instruksen gjelder også for norske polititjenestepersoner når tjenesteoppdrag fortsetter på
-annet lands territorium i medhold av Schengenkonvensjonen art. 40 nr. 3 eller 41 nr. 5, men
-slik at bruk av skytevåpen er begrenset i samsvar
-med konvensjonens art. 40 nr. 3. pkt. d eller art.
-41 nr. 5. pkt. e.
-Bestemmelsen om geografisk virkeområde er
-ny i instruksen 2015.
-§ 1-3 inneholder bestemmelser om i hvilken
-grad våpeninstruksen kommer til anvendelse
-
-[Side 260]
-
-260
-
-Vedlegg 2
-
-NOU 2017: 9
-Politi og bevæpning
-
-utenfor territorialgrensen, men gir ingen fullstendig regulering av i hvilken grad norske polititjenestepersoner kan være bevæpnet og bruke skytevåpen i utlandet.
-Til tider har over 100 norske tjenestepersoner
-utført polititjeneste utenfor landets grenser. I tillegg er norske polititjenestepersoner avgitt til EUorganet Frontex, som kontrollerer Schengenområdets yttergrenser. Våpeninstruksen gjelder
-ikke for personell i slik tjeneste, i hovedsak med
-det som begrunnelse at tjenestepersonene under
-slike oppdrag ikke opptrer på vegne av den norske stat og utøver norsk myndighet, men gjør tjeneste på vegne av en internasjonal organisasjon.
-Når § 1-3 første ledd bokstav a) slår fast at
-instruksen gjelder på norsk land- og sjøterritorium, tas dette nærmest for gitt. Bestemmelsens
-sentrale innhold er derfor at våpeninstruksen
-også gjelder for væpnede aksjoner gjennomført av
-sysselmannens tjenestepersoner på Svalbard og
-for norsk politi med ansvar for Jan Mayen. Annen
-lovgivning setter visse begrensninger i adgangen
-til å gripe inn overfor skip innenfor territorialgrensen, men i den grad det er adgang til det, og politiinnsatsen er bevæpnet, gjelder våpeninstruksen.
-Folkeretten gir statene en viss rett til myndighetsutøvelse også utenfor territorialgrensen. Primært gjelder dette «tilstøtende sone» (mellom 12
-og 24 mil utenfor grunnlinjen) og» økonomisk
-sone» (utenfor tilstøtende sone). I den grad polititjenestepersoner forestår polisiær myndighetsutøvelse i disse områdene, eksempelvis i forbindelse
-med bekjempelse av menneskehandel eller narkotikainnførsel, slår bestemmelsen i første ledd bokstav b) fast at væpnet tjeneste av personell omfattet av § 1-2 første ledd må følge våpeninstruksen
-også her.
-Det er først og fremst kystvaktens tjenestepersoner som forestår den polisiære myndighetsutøvelsen i havområdene utenfor norskekysten. Som
-en konsekvens av reguleringen i våpeninstruksen
-2015 § 1-2 annet ledd, fastsetter også den territoriale bestemmelsen i § 1-3 første ledd bokstav b),
-annet punktum at instruksen gjelder så langt den
-passer.
-Annet ledd regulerer den motsatte situasjonen
-av § 1-2 tredje ledd bokstav b). I dette tilfellet gjelder det norske polititjenestepersoner som foretar
-forfølgelse inn i annet Schengen-land, i praksis
-Sverige og Finland. Den praktiske betydningen av
-bestemmelsen i annet ledd er at i den grad
-våpeninstruksen innebærer begrensninger utover
-det som følger av vedkommende nabolands lovgivning og Schengenkonvensjonen, gjelder disse
-fortsatt. Selv om politiet i Sverige og Finland er
-
-rutinemessig bevæpnet, innebærer dette eksempelvis at norske polititjenestepersoner på oppdrag
-i disse landene ikke fritt kan bevæpne seg, men
-må forholde seg til begrensningene som følger av
-våpeninstruksen 2015 § 3-3 første ledd bokstav c.
-
-1.2
-Lagring
-Siden norsk politi ikke bærer våpen omfattet av
-våpeninstruksen under utførelse av ordinær polititjeneste, blir et viktig beredskapsfaglig tema
-hvor våpnene skal oppbevares når de ikke er i
-bruk. Som etter våpeninstruksen 1989 opererer
-våpeninstruksen 2015 med tre former for lagring:
-Ordinær, midlertidig og fremskutt lagring. Den
-nye instruksen inneholder i det hele få endringer
-når det gjelder lagring, noe som har sammenheng
-med at lagringsbestemmelsene var gjenstand for
-flere endringer i våpeninstruksen 1989 sin gyldighetstid.
-1.2.1
-Ordinær lagring
-§ 2-1. Ordinær lagring
-(1) Når våpnene ikke er i bruk eller gjenstand
-for fremskutt lagring, skal de som hovedregel
-oppbevares på det enkelte tjenestested i samsvar
-med bestemmelser gitt av Politidirektoratet og
-vedkommende politisjef.
-(2) Når det ikke er hensiktsmessig at tjenesten
-utføres og ledes fra fast tjenestested, kan politisjef
-bestemme at våpen og ammunisjon skal oppbevares på stedet hvorfra tjenesten utføres.
-(3) Sikker og forsvarlig oppbevaring i samsvar
-med retningslinjer fastsatt av Politidirektoratet må
-alltid ivaretas.
-Når politiets våpen ikke er i bruk, skal de være
-oppbevart i det eller de depoter som er fastsatt.
-Fremskutt lagring representerer et vesentlig unntak fra dette. Når det ikke er truffet beslutning om
-bevæpning, skal skytevåpen derfor enten befinne
-seg på de ordinære depotene, eller i fremskutt lagring når tjenestepersonen er i aktiv tjeneste. Er
-han/hun ikke det – selv om det er kort tid til neste
-tjenestesett begynner – er det depotet som er oppbevaringsstedet, og ikke f.eks. et garderobeskap
-eller en bil.
-Bestemmelsen i annet ledd tar sikte på tilfeller
-hvor det gjennomføres en planlagt og mulig væpnet tjeneste som strekker seg over tid, og som ofte
-blir gjennomført med forhåndsutvalgte tjenestepersoner. I tilfeller slik innsats skjer fjernt fra ordinære våpendepoter, kan det være behov for å
-lagre våpen nærmere innsatsområdet, og politisjef
-kan treffe beslutning om midlertidig fremskutt
-
-[Side 261]
-
-NOU 2017: 9
-Politi og bevæpning
-
-lagring. Tredje ledd tydeliggjør at en slik beslutning også må regulere kravene til sikker oppbevaring.
-
-1.2.2
-
-Fremskutt lagring
-
-§ 2-2. Fremskutt lagring av skytevåpen i motoriserte
-patruljer
-(1) Skytevåpen kan medbringes og oppbevares i motoriserte patruljer i samsvar med sikkerhetskrav fastsatt av Politidirektoratet. Ammunisjon skal oppbevares under forsvarlig tilsyn og
-kontroll i samsvar med retningslinjer gitt av Politidirektoratet. Bilpatruljer som styres av eller rapporterer til distriktets operasjonssentral skal medbringe skytevåpen, med mindre særlige forhold
-tilsier en annen ordning. Båtpatruljer skal medbringe skytevåpen etter retningslinjer fastsatt av
-Politidirektoratet.
-(2) Våpen og ammunisjon skal etter endt tjeneste tilbakeleveres til fast oppbevaringssted ved
-det enkelte tjenestested. Under beredskapsvakt
-eller hvor patruljen ved endt tjeneste ikke returnerer til tjenestestedet, oppbevares våpen og ammunisjon i samsvar med retningslinjer gitt av Politidirektoratet.
-(3) Verneutstyr skal alltid oppbevares i umiddelbar nærhet av våpnene.
-Med unntak av bestemmelsen om fremskutt
-lagring i båtpatruljer, svarer reglene om fremskutt
-lagring til reglene i våpeninstruksen 1989 § 5 etter
-forskriftsendringen 27. september 2013.
-Bruk av betegnelsen «skytevåpen» i første
-ledd første punktum viser at det ikke lenger skilles mellom enhånds og tohåndsvåpen , slik tilfellet
-var etter våpeninstruksen 1989 før endringene i
-2013. Formuleringen i første ledd gir Politidirektoratet mulighet for å gi retningslinjer for den sikreste og mest hensiktsmessige løsningen for oppbevaring i motoriserte patruljer, noe som er gjort
-gjennom rundskriv av 15. mars 2016 om «Direktiv
-for forvaltning av politiets tjenestevåpen og
-ammunisjon» pkt. 3.3.2. c.
-Inntil forskriftsendringen i 2013 i våpeninstruksen 1989 var kravet at våpen og ammunisjon
-skulle oppbevares nedlåst sammen. Fra da av har
-kravene til oppbevaring av ammunisjon vært regulert som i første ledd annet punktum. I dag
-bestemmer rundskriv fra Politidirektoratet 15.
-mars 2016 pkt. 3.3.2 at ved fremskutt lagring kan
-inntil to magasiner til enhåndsvåpen bæres i beltet
-eller på annen forsvarlig måte og at inntil to magasin til tohåndsvåpen oppbevares nedlåst
-Ordensmessig nevnes at det er blitt reist
-spørsmål om instruksen og PODs rundskriv er til
-
-261
-
-Vedlegg 2
-
-hinder for at enhåndsvåpen ligger ladet (med
-magasin i), men ikke spent (skudd i kammer) i
-den fremskutte lagringen.
-Bestemmelsen i første ledd tredje punktum
-fastsetter i utgangspunktet en plikt til å ha fremskutt lagring i de bilpatruljene som styres av eller
-rapporterer til operasjonssentralen. Kravet om
-denne type lagring er imidlertid ikke gjort absolutt, men kan unnlates når «særlige forhold tilsier
-annen ordning». Det vil ikke sjelden forekomme
-tilfeller hvor politiet av ulike årsaker gjør bruk av
-kjøretøyer som ikke er godkjent eller klargjort for
-fremskutt lagring, men som like fullt benyttes i tjeneste som styres av eller rapporterer til operasjonssentralen. Et eksempel på dette er tjenestebiler som benyttes i etterforskningsenheter ved
-utrykning i forbindelse med åstedsundersøkelser.
-Den fremskutte lagringen innebærer normalt
-ikke at skytevåpen kan oppbevares annerledes
-utenfor tjeneste enn det som følger av hovedregelen, jf. annet ledd første punktum. Annet ledd
-annet punktum regulerer imidlertid hvordan
-fremskutt lagring skal praktiseres i tilfeller der tjenestepersonene etter endt tjeneste ikke vender tilbake til fast tjenestested, men har med seg bilen
-hjem og utøver beredskapsvakt. De detaljerte
-bestemmelsene er å finne i Politidirektoratets
-rundskriv 15. mars 2016 pkt. 3.3.2 bokstav c).
-Bestemmelsen i tredje ledd innebærer at kjøretøyene må innredes slik at verneutstyret kan
-oppbevares hensiktsmessig. For øvrig kan den
-neppe tolkes innskrenkende med henvisning til
-§ 3-1 tredje ledd. Dette innebærer at verneutstyr
-må medbringes også i tilfeller hvor tjenestepersonene skal ut på oppdrag av en slik art at verneutstyr ikke kan benyttes ved en eventuell bevæpning. De problemer dette måtte volde i praksis
-antas enten å måtte løses gjennom et uttrykkelig
-unntak i våpeninstruksen, eller ved at Politidirektoratet gjør bruk av sin generelle adgang i § 1-5
-første ledd til å gi utfyllende bestemmelser.
-
-1.3
-Bevæpning
-Bestemmelsene om bevæpning svarer i stor
-utstrekning til de som gjaldt etter våpeninstruksen 1989, men er redigert vesentlig annerledes.
-Det er også gjort noen materielle endringer knyttet til vilkårene for bevæpning og kompetansen til
-å treffe beslutning om bevæpning.
-Siden det i våpeninstruksen 2015 stilles vilkår
-for å bevege seg fra lagringsstadiet til
-bevæpningsstadiet, og det dessuten er slik at
-endringen utløser visse plikter, er det viktig med
-en klar grensedragning mellom stadiene. Et
-
-[Side 262]
-
-262
-
-Vedlegg 2
-
-NOU 2017: 9
-Politi og bevæpning
-
-spørsmål som oppstår i denne forbindelse er om
-polititjenestepersoner er å anse som bevæpnet
-med skytevåpen hvis de ikke medbringer ammunisjon. Hensett til at et våpens tradisjonelle fareog skadepotensial først aktiveres når ammunisjon
-kommer til, kan det isolert sett argumenteres for
-at en tjenesteperson som for eksempel tar med
-seg tjenestevåpenet ut av patruljebilen, men ikke
-medbringer ammunisjon, ikke er å anse som
-bevæpnet. Problemstillingen er først og fremst
-knyttet til om en slik behandling av skytevåpen vil
-være urettmessig egenbevæpning etter § 3-3 første ledd bokstav c). Er det mulig å fremtre som
-bevæpnet ved å medbringe skytevåpenet, men
-unngå reaksjon for urettmessig egenbevæpning
-med henvisning til at man ikke hadde med ammunisjon? Under henvisning til blant annet signaleffekten, at også et uladd våpen kan trues med samt
-til kontrollhensyn, taler de beste grunner for at så
-ikke er tilfellet.
-
-1.3.1
-Generelle krav
-§ 3-1. Generelle krav
-(1) Bare tjenestepersoner med gyldig godkjenning kan bevæpnes, med mindre situasjonen
-antas å kreve umiddelbar væpnet innsats for å
-avverge eller stanse voldsanvendelse mot person,
-og godkjent personell ikke vil være tilgjengelig i
-tide.
-(2) Bevæpnet personell skal normalt være uniformert og skytevåpen skal bæres synlig med
-mindre tjenestens art eller situasjonen tilsier noe
-annet.
-(3) Når bevæpningsordre er gitt skal verneutstyr være tilgjengelig og benyttes, med mindre tjenestens art tilsier noe annet. Politidirektoratet kan
-fastsette særlige bestemmelser for bruk av verneutstyr ved beslutning om bevæpning i medhold av
-§ 3-2 tredje ledd.
-Første del av bestemmelsen i første ledd fastsetter at det bare er tjenestepersoner med gyldig
-godkjenning for vedkommende type våpen som i
-tjenesten vil bli utstyrt med dette. Om kravene til
-tjenesteperson vises for øvrig til § 1-4 fjerde ledd.
-Noen ganger oppstår situasjoner hvor det
-fremstår som nødvendig med umiddelbar væpnet
-innsats for å avverge eller stanse voldsanvendelse
-mot person, men hvor mannskapet som på kortest
-tid er tilgjengelig, ikke har gyldig godkjenning.
-Etter en forsvarlighetsvurdering med grunnlag i
-politiloven § 6 fjerde ledd, kan operasjonsleder i
-slike tilfeller bevæpne tjenestepersoner uten gyldig IP 4-godkjenning. Bestemmelsen antas å gå
-
-noe lenger enn det rene nødvergebetraktninger
-etter straffeloven § 18 ville resultert i.
-Bestemmelsen i annet ledd krever at væpnet
-personell som hovedregel skal være uniformert.
-Ut fra formålet med bestemmelsen antas det at
-ulike former for hurtiguniformering må oppfylle
-kravet, eks. gule vester med «POLITI». Kravet om
-uniformering er dog ikke absolutt, idet det er
-gjort unntak for tilfeller der tjenestens art eller
-situasjonen tilsier noe annet. Den siste formuleringen sikter først og fremst til de akutte tilfellene.
-Bestemmelsen i tredje ledd første punktum
-krever at det i bevæpningssituasjoner som hovedregel benyttes verneutstyr. Situasjoner som oppstår plutselig anses ikke å begrunne noe unntak.
-Unntaket angitt i tredje ledd første punktum
-begrenser seg til å gjelde «tjenestens art». Som
-eksempel på dette kan nevnes langvarig bevæpnet
-vakthold, hvor mye av de samme hensynene gjør
-seg gjeldende som for unntaket i tredje ledd annet
-punktum som direkte er knyttet en beslutning om
-varig bevæpning, og hvor Justis- og beredskapsdepartementet har uttalt at ordinær bruk av verneutstyr er lite tjenlig.
-
-1.3.2
-Vilkår for bevæpning
-§ 3-2. Vilkår for bevæpning med skytevåpen
-(1) Bevæpning med skytevåpen kan skje
-a) når omstendighetene gir grunn til å tro at tjenestepersonene i tjenesteoppdraget kan
-komme til å stå overfor en situasjon som er
-særlig farlig for dem eller andre, eller
-b) når det basert på trusselvurderinger og tilgjengelig informasjon anses som nødvendig for å
-kunne gi personer, objekter eller virksomheter tilstrekkelig beskyttelse.
-(2) Politisjef kan gi forhåndsordre om at
-bevæpning skal skje i spesielle typetilfeller, herunder livvakttjeneste, hvor det må antas at kriteriene i første ledd bokstav a) regelmessig vil være
-oppfylt.
-(3) Politidirektoratet kan etter samtykke fra
-departementet beslutte bevæpning i den daglige
-tjenesten for en periode på inntil tre måneder, når
-det ut fra risiko- og sårbarhetsanalyser vurdert
-opp mot politiets oppgaveløsning anses nødvendig
-for å sette politiet i stand til å kunne avverge eller
-stanse handlinger som vil være særlig farlig for liv
-og helse eller viktige samfunnsfunksjoner. Departementet kan samtykke til å forlenge bevæpningsadgangen med inntil åtte uker av gangen på de vilkår som er fastsatt i første punktum.
-Bestemmelsen i første ledd bokstav a) regulerer de akutt farlige situasjonene. Dette omfatter
+Bokstav a) stiller krav om at det er etablert rutiner som sikrer oversikt over beholdning og lagring av våpen og ammunisjon. Det er særlig tre forhold som er avgjørende for at politiets våpen ikke skal komme på avveie: 1) fysisk sikker lagring, 2) gode rutiner for inn- og utlevering og 3) god oversikt over beholdning av våpen og ammunisjon. I Politidirektoratets rundskriv 2016/004 er det gitt bestemmelser som ivaretar disse hensynene.
+
+Bokstav b) stiller krav om at det etableres rutiner som sikrer oversikt over vedlikehold og funksjonsdyktigheten til enhetens våpen og ammunisjon. Ikke minst er det av beredskapsmessige grunner viktig å ha visshet for at nødvendig utstyr er tilgjengelig og fungerer.
+
+Både i den daglige tjenesten og av hensyn til kriseberedskapen er det viktig å ha oversikt over hvilke tjenestepersoner som har fått hvilken opplæring. I bokstav c) er det inntatt et krav om dette. Kravet innebærer blant annet at man umiddelbart skal kunne få opplysninger om hvor mange som er opplært og godkjent, og på hvilket nivå, hvem de er, samt om, eventuelt når det må sørges for regodkjenning.
+
+1.  **<u>Oversikt over bev</u><u>æ</u><u>pning</u>**
+
+§ 5-2. *Oversikt over bevæpning*
+
+\(1\) Politisjef skal sørge for løpende registrering av alle bevæpningsbeslutninger.
+
+\(2\) Politidirektoratet gir nærmere retningslinjer om registreringen og innrapporteringen.
+
+Hvor ofte politiet må bevæpne seg med skytevåpen sier noe om temperaturen i samfunnet, og hvilken vei utviklingen går. Av samfunnsmessige grunner er det derfor viktig å ha oversikt over dette. Bestemmelsen fastsetter kun en plikt for politisjef til å sørge for en løpende registrering av alle bevæpningsbeslutninger. Det er overlatt til Politidirektoratet å gi nærmere retningslinjer for hva registreringen skal inneholde, og til hvem og hvor ofte registrerte data skal rapporteres videre.
+
+1.  **<u>Oversikt over bruk</u>**
+
+§ 5-3. *Oversikt over bruk*
+
+\(1\) Politisjef skal i hvert enkelt tilfelle rapportere til Politidirektoratet når
+
+<u>a) det verbalt eller i handling er truet med bruk av skytevåpen,</u>
+
+<u>b) det med skytevåpen er avfyrt skudd, herunder varselskudd og vådeskudd, eller</u>
+
+<u>c) gassvåpen og sprengvåpen er avfyrt.</u>
+
+\(2\) Politidirektoratet gir nærmere retningslinjer om rapportens innhold, og om hvilke undersøkelser som skal iverksettes.
+
+Siden registrering og løpende rapportering krever ressurser, bør disse aktivitetene være begrunnet i at de bidrar til at politiets tjenesteutøvelse og -utførelse blir bedre. Det er særlig tre hensyn som begrunner den registrerings- og rapporteringsplikt første ledd bokstav a) og b) pålegger politisjef når skytevåpen er brukt.
+
+Det mest grunnleggende er hensynet til rettssikkerhet for borgerne. Et forhold som bidrar til at reglene om våpen etterleves, er at det skapes notoritet omkring bruken. Særlig gjelder dette hvis kravene til notoritet også inneholder et krav om at bruken skal relateres til de relevante vilkårene i regelverket. Også av samfunnsmessige hensyn er det viktig med en oversikt over våpenbruken i politiet. Om politiet stadig oftere må gjøre bruk av de skarpeste midlene, sier dette noe om samfunnsutviklingen, og representerer en kunnskap som kan danne grunnlag for nødvendige tiltak. Det tredje og siste hensynet knytter seg til behovet for og ønsket om erfaringslæring. Ikke minst er dette viktig fordi hendelser der skytevåpen er truet med, er relativt sjeldent forekommende.
+
+Det fremgår av første ledd bokstav a) at i ord eller handling å true med skytevåpen anses som «bruk». Når plikten til å rapportere knyttes til en verbal trussel, tar det først og fremst sikte på de tilfellene hvor gjerningspersonene direkte blir truet med at skytevåpen vil bli anvendt hvis vedkommende ikke gir seg umiddelbart. I den grad trusselbegrepet volder tvil, knytter dette seg først og fremst til politiets ikke-verbale adferd. Det som typisk omfattes av «i handling er truet med bruk av skytevåpen» er tilfeller hvor tjenestepersonen med våpenet i «ferdigstilling» med hensikt retter dette dirkete mot/sikter på gjerningspersonen.
+
+Rapporteringsplikten i § 5-3 første ledd bokstav b) er knyttet til om det er avfyrt skudd, med tillegget «herunder vådeskudd». Den tvilen som måtte oppstå med tanke på hva som er å anse som vådeskudd vil derfor ikke volde problemer for så vidt gjelder rapporteringsplikten.
+
+I tilfeller hvor det er avfyrt skudd, sendes saken ganske rutinemessig til Spesialenheten, jf. Rundskriv fra riksadvokaten 6. september 2006. Dette innebærer likevel ikke at det ikke kan være behov for interne undersøkelser i gitte tilfeller. For å sikre en enhetlig praksis på området er det i annet ledd inntatt en bestemmelse om at Politidirektoratet gir nærmere retningslinjer om disse spørsmål.
+
+1.  **<u>Egenrapportering</u>**
+
+§ 5-4. *Egenrapportering*
+
+\(1\) Tjenestepersoner som har utført eller ledet handlinger som nevnt i § 5-3 skal snarest mulig skrive rapport om forholdet til politisjef, jf. politiinstruksens § 6-3 annet ledd if.
+
+Egenrapporteringsplikten angitt i bestemmelsen omfatter både avfyrt skudd, herunder vådeskudd, og tilfeller hvor det i ord eller handling er truet med bruk av skytevåpen.
+
+Plikten er lagt både på den som har utført handling som nevnt i § 5-3, og den som har ledet politioperasjonen, i praksis ofte innsatsleder.
+
+Om hvordan egenrapporteringen skal skje, fastsetter bestemmelsen at det skal skje ved å «skrive rapport om forholdet til politisjef». Bestemmelsen krever videre at dette skjer snarest mulig, hvilket er viktig både i et lærings-, kontroll- og korreksjonsperspektiv.
+
+1.  **<u>\[\[vedlegg resett\]\]</u>**
+
+**<u>N</u><u>æ</u><u>rmere om politiets innsatskategorier, oppl</u><u>æ</u><u>ring, videreutda</u><u>n</u><u>ning, v</u><u>å</u><u>pen og verneutstyr</u>**
+
+1.  **<u>Innsatskategorier</u>**
+
+    1.  **<u>Beredskapstroppen </u><u>–</u><u> Kategori 1</u>**
+
+Beredskapstroppen er politiets nasjonale innsatsenhet mot terror og organisert og annen alvorlig kriminalitet (Politidirektoratet, 2011). Beredskapstroppen er organisatorisk og fysisk plassert i Oslo politidistrikt. På anmodning skal Beredskapstroppen yte bistand til alle landets politidistrikter inkludert sysselmannen på Svalbard.
+
+Politihøgskolen tilbyr sammen med Beredskapstroppen, studium for innsatspersonell i kategori 1 som er vektet til 30 studiepoeng. Studiet er organisert som et deltidsstudium med en seleksjonsperiode på 2 uker og en grunnutdanning av totalt 13 ukers varighet. Selve grunnutdanningen er estimert til cirka 840 timer (Beredskapstroppen, 2013).
+
+For å løse sine kjerneoppgaver som nasjonal innsatsenhet innretter Beredskapstroppen sin virksomhet mot følgende hovedområder:
+
+1.  <u>Beredskap og oppdragsløsning</u>
+
+<!-- -->
+
+1.  <u>Kompetansebygging og metodeutvikling på enkeltmanns-, team- og avdelingsnivå</u>
+
+2.  <u>Samvirke og kompetansedeling med ulike samvirkeaktører både i og utenfor politietaten.</u>
+
+I tillegg deltar Beredskapstroppen i ordinær patruljetjeneste i Oslo politidistrikt, i enkelte tidsrom, og løser cirka 3 500 oppdrag hvert år, hvorav cirka 400 oppdrag med bevæpningsbeslutning. Denne ordningen bidrar til lavere responstid ved akutte hovedstadsoppdrag som krever kompetanse fra innsatspersonell i kategori 1 (IP1). Denne patruljetjenesten gir også operatørene god erfaring og kompetanse til å løse alle typer oppdrag. Oslo politidistrikt oppfatter Beredskapstroppen som en betydningsfull ressurs i patruljetjenesten, ved at de løser mange oppdrag som ellers måtte blitt ivaretatt av den ordinære styrken.
+
+1.  **<u>Livvakttjenesten </u><u>–</u><u> Kategori 2</u>**
+
+Politiets beredskapssystem del I (2011) beskriver livvakttjenesten i Norge. Det er Den Kongelige Politieskorte og Politiets Sikkerhetstjeneste/Den sentrale enhet (PST/DSE) som besørger livvakttjeneste.
+
+Den Kongelige Politieskorte er organisatorisk underlagt Oslo politidistrikt og inngår blant nasjonale beredskapsressurser. Den Kongelige Politieskorte har nasjonale bistandsoppgaver for livvakttjenesten for kongefamilien og skal utføre landsdekkende livvakttjeneste for disse på bakgrunn av informasjon i trusselvurdering. I tillegg skal Den Kongelige Politieskorte beskytte utenlandske overhoder ved statsbesøk i Norge, kongelige med videre, på privat og/eller offisielle reiser til Norge, selv om Kongehuset ikke er vertskap, og andre som skal ha beskyttelse av livvakt når Kongefamilien er vertskap.
+
+PST har det nasjonale ansvaret for å utføre livvakttjeneste for norske og utenlandske myndighetspersoner i Norge. Unntaket er besøkende med livvaktbeskyttelse som Den Kongelige Politieskorte har ansvaret for. Livvaktene følger også enkelte norske myndighetspersoner på utenlandsreiser (2011, ss. 44, 50).
+
+Livvaktene er permanent bevæpnet i sin tjenesteutførelse, men bærer vanligvis ikke uniform i tjenesten som ordinært innsatspersonell. I følge Våpeninstruks for politiet (2016) er det Politimesteren i Oslo som beslutter bevæpning av tjenestepersoner i Den Kongelige Politieskorte. For tjenestepersoner ved PST, treffes beslutning om bevæpning av sjef PST. Dersom PST er i synlig operativ tjeneste, og er bevæpnet, skal operasjonsleder i det aktuelle distriktet hvor tjenesteoppdraget utføres, varsles (2016, § 3-3).
+
+Politihøgskolen tilbyr sammen med de to livakttjenestene, studium for innsatspersonell i kategori 2 som er vektet til 20 studiepoeng. Studiet er organisert som et deltidsstudium med en seleksjonsperiode og en grunnutdanning som er estimert til cirka 560 timer (Politihøgskolen, 2014).
+
+1.  **<u>Innsatspersonell </u><u>–</u><u> Kategori 3</u>**
+
+For å bli tatt opp som innsatspersonell i kategori 3 kreves ett års arbeidserfaring etter avlagt eksamen fra Politihøgskolen. Det gjøres en lokal seleksjon av egnede kandidater i politidistriktene. Denne seleksjonen innebærer blant annet fysiske tester og fobitester. Det stilles krav om gode politioperative ferdigheter og holdninger, samt god fysisk og psykisk helse. Kandidatene som selekteres lokalt deltar på det tre ukers krevende grunnkurset i regi av Politihøgskolen. Kursdeltakerne evalueres fortløpende i forbindelse med de ulike delene av grunnkurset, med tanke på egnethet som innsatspersonell i kategori 3.
+
+1.  **<u>Utrykningsenheten</u>**
+
+Når kursdeltakerne har bestått grunnkurs for IP3-personell inngår de i Utrykningsenheten. Utrykningsenheten er politidistriktenes døgnkontinuerlige beredskap i nivået over IP4. Avdelingene i Utrykningsenheten utgjør nivået mellom IP4 og Nasjonale beredskapsressurser.
+
+Det skilles mellom kompetansenivået IP3 og Utrykningsenheten som enhet. Det betyr at Utrykningsenheten som enhet i patrulje først oppstår når den er bemannet av to tjenestepersoner med IP3-kompetanse. Disse to må i tillegg være tilknyttet distriktets Utrykningsenhet. I forbindelse med ny utgave av sambandsinstruksen for politiet har Utrykningsenheten fått sitt eget funksjonskallesignal – Echo.
+
+Politidirektoratet stiller krav til politidistriktene om at de skal ha personell med IP3-komptanse tilgjengelig til enhver tid. Noen politidistrikter har så langt valgt å sette opp egne patruljer fra Utrykningsenheten. Andre politidistrikter sprer sine ressurser over distriktet og setter IP3- og IP4-kompetanse sammen i patrulje. Bevæpningsutvalget er kjent med at Politidirektoratet har bedt politidistriktene om å utarbeide en lokal implementeringsplan. Denne planen skal beskrive hvordan politidistriktet vil organisere, dimensjonere og innrette arbeidet slik at det er tilstrekkelig IP3-kompetanse i politidistriktets døgnkontinuerlige beredskap, herunder bruk av eventuelle patruljer Utrykningsenheten.
+
+Blant Utrykningsenhetens hovedoppgaver er å være distriktets spesialtrente personell for skarpe politioppdrag og håndtere uønskede hendelser som terror og sabotasje. I tillegg skal Utrykningsenheten være trent til å operere som gruppe og lag, og ha særlig fokus på rask respons og øyeblikkelige aksjoner. Personellet skal også inngå i større politioperasjoner, sikre objekter ved trusler om/eller ved terror-/sabotasjehandlinger og utføre livvakt-/eskorteoppdrag.
+
+Utrykningsenheten skal i tillegg til disse oppgavene støtte taktisk og operasjonell ledelse med vurderings- og beslutningsgrunnlag i pågående hendelser. De skal også gi råd om politioperative disipliner som berører Utrykningsenhetens formål og ansvarsområde. Blant tilleggsoppgavene er seleksjon av nytt personell til enheten og undervisning av politidistriktets øvrige innsatspersonell og instruktører. Utrykningsenheten i distriktene skal også være et faglig kontaktpunkt mot Politidirektoratet, Politihøgskolen og de nasjonale beredskapsressursene innenfor sitt oppgaveområde.
+
+1.  **<u>Oslos s</u><u>æ</u><u>rordning: IP3</u>**
+
+Bevæpningsutvalget er kjent med at Oslo politidistrikt praktiserer en ordning der én til to patruljer med innsatspersonell i kategori 3 er permanent bevæpnet. Utvalget har fra Oslo politidistrikt fått ulike begrunnelser for denne ordningen.
+
+Utvalget er ikke kjent med kriminalitetsanalyser eller trusselvurderinger som tilsier et slikt behov. Utvalget vil advare mot å bruke slike tiltak som brekkstang i bevæpningsspørsmålet, og viser til hva som er beskrevet i kapittel 3 om skråplansargumentasjon. I lys av prinsippet om at norsk politi som hovedregel skal være ubevæpnet, mener utvalget at denne ordningen bør vurderes og evalueres.
+
+1.  **<u>Innsatspersonell </u><u>–</u><u> Kategori 4</u>**
+
+Innsatspersonell i kategori 4 tildeles denne statusen, under forutsetning av ansettelse i et politidistrikt. Kravet er fullført Politi(høg)skole og godkjenning på politiets skytevåpen.
+
+Etter avlagt eksamen ved Politihøgskolen omtales nyutdannede polititjenestepersoner som generalister, jf. St.meld. nr. 42 (2004–2005), samt Innstilling til Stortinget nr. 145 (2005–2006). De nyutdannede generalistene som tar arbeid i politiet vil i hovedsak arbeide med enten ordens-, etterforsking- eller forebyggende oppgaver. De skal kunne foreta helhetsvurderinger, se sitt arbeid i en bredere samfunnsmessig sammenheng og trekke inn relevant spesialkompetanse og samarbeidspartnere ved behov (…). De nyutdannede skal ha gode nok kunnskaper og ferdigheter til å kunne utføre alle typer generelle oppgaver og grunnleggende politiarbeid. Dette innebærer å kunne håndtere alt fra trivielle hendelser til svært krevende bevæpnede oppdrag.
+
+I forbindelse med ansettelse i et politidistrikt, hvor tjenestepersonene skal inngå som innsatspersonell, blir de innlemmet i politidistriktets ordning med vedlikeholdstrening. Da er de pålagt 48 treningstimer per år, med tilhørende godkjenningsprøve på politiets våpen.
+
+Det er personellet med IP4-status som er politiets grunnleggende beredskapsressurs og som utgjør den gripbare styrken i akuttfasen av en hendelse i de aller fleste delene av landet.
+
+1.  **<u>Innsatspersonell </u><u>–</u><u> Kategori 5</u>**
+
+Innsatspersonell i kategori 5 (IP5), som var tjenestepersoner med tilpasset opplæring, ble fjernet som innsatskategori med virkning fra 1.1.2016. Årsaken til dette var at Politidirektoratet ønsket å etablere et tydeligere skille mellom tjenestepersoner som er innsatspersonell og de som ikke er det. Innsatspersonell må nå ha godkjenning for politiets skytevåpen.
+
+Ved å fjerne IP5 stilles høyere krav til grunnberedskapen. Det stilles minimumskrav til kompetanse på håndtering og bruk av politiets skytevåpen for de tjenestepersonene som er en del av politidistriktenes vakt- og beredskapstjeneste.
+
+1.  **<u>Oppl</u><u>æ</u><u>ring og videreutdanning</u>**
+
+    1.  *<u>Oppl</u><u>æ</u><u>ring i v</u><u>å</u><u>penh</u><u>å</u><u>ndtering og v</u><u>å</u><u>penbruk ved Politih</u><u>ø</u><u>gskolen</u>*
+
+Rammeplanen for bachelorutdanningen er det overordnede utgangspunktet for grunnutdanningen som leder frem til den treårige bachelorgraden i politiutdanning. Utdanningen bygger på prinsippet om at nyutdannede polititjenestepersoner skal være generalister, jf. Stortingsmelding nr. 42 (2004–2005) og Innstilling til Stortinget nr. 145 (2005–2006) (Politihøgskolen, 2014). I følge rammeplanen er en generalist;
+
+- <u>«En tjenestemann/-kvinne som besitter grunnleggende kunnskaper og ferdigheter i politiets forebyggende, kriminalitetsbekjempende og trygghetsskapende arbeid. I løsning av oppgavene skal generalisten ha kompetanse til å utføre grunnleggende politiarbeid, foreta helhetsvurderinger, se sitt arbeid i en bredere samfunnsmessig sammenheng og trekke inn relevant spesialkompetanse og samarbeidspartnere ved behov. Generalisten skal ha utviklet grunnlag for fortsatt læring og utvikling gjennom utøvelsen av yrket» (Politihøgskolen, 2014).</u>
+
+Rammeplanen er grunnlaget for Politihøgskolens styres fastsettelse av fagplaner for politiutdanningen. Studiet utgjør totalt 180 studiepoeng og er inndelt i fem hovedområder, herunder «Politi og samfunn (27 studiepoeng)», «Metode (22 studiepoeng)», «Orden og beredskap (67 studiepoeng)», «Forebyggende oppgaver (20 studiepoeng)», samt «Etterforsking (44 studiepoeng)». Studiepoengene inkluderer andre studieår, hvor politihøgskolestudentene tjenestegjør i politidistriktene og utfører praktiske oppgaver som en del av utdanningen (Politihøgskolen, 2014).
+
+I hovedområdet Orden og beredskap skal politihøgskolestudentene, i følge rammeplanen, tilegne seg kunnskaper, ferdigheter og holdninger slik at de kan bidra til å opprettholde ro og orden, skape trygghet og sikkerhet, og yte hjelp og service i samfunnet (Politihøgskolen, 2014). Videre skal studentene tilegne seg kunnskaper om regelverket som regulerer politiets adgang til å anvende makt og tvang og være i stand til å gjennomføre tiltak i samsvar med grunnleggende rettssikkerhetsprinsipper. Studentene skal inneha kunnskaper og ferdigheter for å kunne bidra i taktisk oppgaveløsning. De skal også ha fokus på situasjonsvurdering som metode, og kommunikasjons- og konfliktløsningsstrategier. Det er videre beskrevet i rammeplanen at studentene skal ha god kunnskap om grupper som politiet møter i ulike situasjoner, være bevisst egne holdninger og adferd, slik at de er i stand til å håndtere situasjoner og personer på en konfliktdempende og respektfull måte (Politihøgskolen, 2014). Rammeplanen vektlegger at hovedfokuset i forbindelse med løsning av ordensoppdrag skal være «første enhet på stedet». Dette er en arbeidsmetodikk som kan tilpasses ulike ordensoppdrag og som involverer handlingskompetanse, tema fra flere praktiske fagområder i tillegg til teoretisk kunnskap (Politihøgskolen, 2014).
+
+Utdannelsen ved Politihøgskolen tar utgangspunkt i at norsk politi er ubevæpnet. Dette er beskrevet i de ulike fag- og emneplanene som er forankret i rammeplanen. To grunnpilarer i undervisningen i fagene som er relatert til ordenstjeneste er politiinstruksen fra 1990 og politiloven fra 1995. Politiinstruksen stiller blant annet opp noen krav til hvordan politiet skal opptre under utførelsen av tjenesten, mens politiloven gir føringer for hvilke arbeidsoppgaver politiet skal utføre og gir også retning for utførelsen av utvalgte deler av politiets arbeid, herunder politiets forhold til bruk av makt. Politiets våpeninstruks er sentral i undervisningen om bevæpning med og bruk av politiets bruk av skytevåpen. Undervisningen i forståelsen av våpeninstruksen ser særlig hen mot politilovens bestemmelse om bruk av makt.
+
+1.  *<u>Bachelorutdanningen </u><u>–</u><u> Politioperativ innsatstrening</u>*
+
+Godkjent bachelorgrad i politiutdanning gir status som innsatspersonell i kategori 4, under forutsetning av ansettelse i politidistrikt eller særorgan (Politihøgskolen, 2016).
+
+Våpenopplæringen ved Politihøgskolen er bygget opp for å ivareta både en eventuell midlertidig og fremtidig generell bevæpning av politiet. Politihøgskolens oppfatning er at det ikke er forskjell på betjening og bruk av våpen eller våpenteknisk utstyr under disse forskjellige forholdene. Den grunnleggende opplæringen gjennomføres med følgende prioriteringer av momenter. Dette er felles for alle utdanninger hvor våpentjeneste inngår:
+
+1.  <u>Trygg våpenbehandling</u>
+
+<!-- -->
+
+1.  <u>Hensiktsmessig våpenbruk i kombinasjon med tilbehør (hylster, lys osv.)</u>
+
+2.  <u>Skyteteknikker tilpasset polititjeneste</u>
+
+Politihøgskolen sin fagdidaktikk er basert på de fleste sivile skyttermiljøers basisteknikker i noen grad, men konseptet er tilpasset taktikk, naturlige reaksjonsmønstre, stresseffekter, samt de til enhver tid gjeldende lover, regler og instrukser. Politihøgskolen utgir emnehefter i skyting, taktikk og annet undervisningsmateriell som danner grunnlag for fagplanene og tjenesteutførelsen for innsatspersonellet i politiet (Politihøgskolen, 2014).
+
+1.  **<u>Overordnet oversikt over utdanningen i politioperative emner</u>**
+
+Første studieår ved Politihøgskolen gir studentene grunnleggende kunnskaper og ferdigheter om politiet og polititjeneste, og det forbereder for andre studieår, som er et praksisår. Introduksjonen til bevæpnet polititjeneste starter i andre studieår. Studentene har altså ingen våpenopplæring i det første året. Studentene deltar i IP-trening[^159] i opplæringsenheten samt i et dedikert leiropphold som har en varighet på 2 uker under det andre studieåret.
+
+Politihøgskolen disponerer to leirsteder hvor studentene får politioperativ innsatstrening; Justissektorens kurs- og øvingssenter i Stavern og Sæter gård på Kongsvinger. De samme leirstedene benyttes til utdanning av mannskaper i alle kategorier innsatspersonell.
+
+I tredje studieår får studentene politioperativ innsatstrening ved de ulike studiestedene. Undervisningen på studiestedene innebærer en teoretisk introduksjon til politiets våpeninstruks, caseløsning i treningssimulator og foredrag som er en del av det modulbaserte opplæringsprogrammet i leir. Studentene gis også et nytt leiropphold som har en varighet på 3 uker. Dette leiroppholdet bygger på leiroppholdet i andre studieår, praksisårets erfaringer og introduserer ytterligere momenter innenfor våpentjenesten i politiet. Under situasjonstreninger og øvelser i tredje studieår vektlegges særlig evnen til å kunne reversere bruken av maktmidler. Dette oppleves av politiet som en krevende øvelse som må trenes på. Politiets holdning om at de skal benytte minst mulig makt, bygger på politilovens § 6 bestemmelse om minstemiddelinngripen.
+
+Studentenes våpenopplæring under grunnutdanningen er, i følge Politihøgskolen, under kontinuerlig utvikling, og den har fra 2007 til 2014 økt betydelig. Dette skyldes blant annet innføringen av pistol som tjenestevåpen. I 2007 hadde politihøgskolestudentene 54 timer våpentrening. Treningstiden økte til 102,5 timer i 2014 og timeantallet er det samme i dag.
+
+Den nåværende våpenopplæringen fordeles på moduler og studieår som vist i tabell 3.1.
+
+1.  <u>Timeoversikt over praktisk våpenopplæring ved Politihøgskolen</u>
+
+|                           |        |         |
+|---------------------------|--------|---------|
+| Studieår/modul            | Våpen  | Timer   |
+|                           |        |         |
+| Andre studieår – modul 1  | Pistol | 31,5 t  |
+| Andre studieår – modul 2  | MP5    | 14,0 t  |
+| Tredje studieår – modul 3 | Pistol | 28,0 t  |
+| Tredje studieår – modul 4 | MP5    | 21,0 t  |
+| Sum bachelor              |        | 102,5 t |
+|                           |        |         |
+
+<u>Politihøgskolen, 2016</u>
+
+Det er Operativ seksjon ved Politihøgskolen som har det faglige ansvaret for våpentjeneste og taktikkundervisning i leiropphold for politihøgskolestudentene.
+
+Leiroppholdene ved Politihøgskolen er bygget opp i moduler. Sammen med operative moduler som gjennomføres ved studiestedene i tredje studieår og opplæringsenhetene i andre studieår dannes plattformen for den operative treningen som studentene gis under bachelorløpet. Det gis ikke våpenopplæring i første studieår.
+
+De operative modulene bygger på hverandre. I andre studieår er det fokus på ubevæpnet oppdragsløsning. Politihøgskolestudentene får likevel en tilnærming til våpentjeneste under leiroppholdet, gjennom opplæring i bruk av politiets tohåndsvåpen. Når studentene ankommer praksisstedet de har fått tildelt i andre studieår, får de grunnkurs i bruk av politiets tjenestepistol.
+
+I tredje studieår foregår det meste av opplæringen i leir bevæpnet med øvingsvåpen, og skarpe våpen. Tabell 3.2 gir en oversikt over modulene, innholdet og tidsbruk.
+
+1.  *<u>Undervisning i treningssimulator</u>*
+
+I tredje studieår får studentene 2 timer teoretisk innføring i politiets våpeninstruks. Deretter følger 10 timer á 5 dobbelttimer med situasjonstrening i treningssimulator. Deltagelsen i denne undervisningen er obligatorisk.
+
+Treningssimulatoren ved Politihøgskolen er et system som er levert av MILO Range i USA. Dette systemet er kjøpt inn til Politihøgskolen i Oslo, Bodø og Stavern. Politihøgskolen i Kongsvinger har et eldre system som er levert av FATS (Firearm Training Simulator). Systemet innebærer at en film vises på et stort lerret og studentene forholder seg til filmen som et reelt oppdrag. Studentene kan benytte batteridrevne OC-pepperspraybokser og gassrekyldrevne pistoler[^160] som sender ut en laserstråle mot lerretet. Når makt brukes, registreres dette av systemet og filmsekvensene endrer seg utfra den maktbruken som er anvendt. Dette vises på skjermen ved at gjerningspersonen overgir seg som følge av verbal makt, eller ved at gjerningspersonen skades/dør, for eksempel som følge av bruk av skytevåpen.
+
+Det er spilt inn en rekke ulike videosekvenser som er tilpasset til bruk i opplæringen ved Politihøgskolen. Flere av sekvensene tar utgangspunkt i reelle hendelser som har blitt etterforsket av Spesialenheten for politisaker. Sekvensene har ulikt innhold og kan innledes med en forutsetning som kan gis til studentene som skal øve. Det følger en anvisning med hver sekvens. Anvisningen forklarer hvilke elementer som kan øves i forbindelse med sekvensen og angir den rettslige forankringen i våpeninstruksen. Treningssimulatoren er på denne måten et pedagogisk verktøy som kan brukes for å øve på å reflektere over praktisk anvendelse av våpeninstruksens bestemmelser. Simulatoren kan også brukes til å øve praktiske ferdigheter.
+
+I tidligere år var undervisningen i treningssimulator en del av et fag som het Politilære, yrkesetikk og ordenstjeneste. Her var også undervisningen i våpeninstruksen en sentral del av undervisningen, og faget inkluderte mye av det som i dag dekkes i hovedområde Orden og Beredskap. Politilære, yrkesetikk og ordenstjeneste ble avsluttet med en omfattende 5 timers skriftlig eksamen under tilsyn.
+
+Da Politioperativ innsatstrening ble inntatt som et delemne i hovedområdet Orden og Beredskap, ble det tellende til 4 studiepoeng. Avgangsstudentene i 2017 skal blant annet fremstille seg for politiets godkjenningsprøve for en- og tohåndsvåpen, før de kan fremstille seg til en 4 timers avsluttende skriftlig eksamen under tilsyn, uten hjelpemidler. Etter fullført opplæring skal studentene kunne delta i ulike politiaksjoner og operasjoner på IP4-nivå, i samsvar med gjeldende lovverk, instrukser og planverk (Politihøgskolen, 2016).
+
+1.  *<u>Undervisning i leir</u>*
+
+Før studentene i tredje studieår deltar i leir, skal de ha gjennomgått taktikkopplæring «Modul 2». Dette er opplæring av 1 dags varighet. Opplæringen gjennomgår PLIVO-instruksen, teori for CBRN-E[^161] og en teoretisk gjennomgang av instruksen for tvangsmessig stansing av kjøretøy. I tillegg har politihøgskolestudentene noen øvelser på de respektive studiestedene i siste studieår, som blant annet involverer simulatortrening og andre politioperative gjøremål. Oversikten over den modulbaserte opplæringen i våpentjeneste og polititaktikk i leir er vist i tabell 3.2. Denne opplæringen leder frem mot status som innsatspersonell i kategori 4.
+
+1.  <u>Oversikt over moduler i utdanningen – Våpen og taktikk</u>
+
+<table>
+<tbody>
+<tr>
+<td><p>Modul</p></td>
+<td><p>Tema</p></td>
+<td><p>Hvem</p></td>
+<td><p>Tid</p></td>
+<td><p>Hvor</p></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><p>1-våpen</p></td>
+<td><p>Grunnkurs Pistol P30</p></td>
+<td><p>Andre studieår</p></td>
+<td><p>5 dager</p></td>
+<td><p>Lokal opplæringsenhet</p></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><p>1-taktikk</p>
+<p>2-våpen</p></td>
+<td><p>Grunnleggende politiets taktikk og teknikker. Ubevæpnet.</p>
+<p>Maskinpistol HK MP5</p></td>
+<td><p>Andre studieår</p></td>
+<td><p>7 dager</p>
+<p>3 dager</p></td>
+<td><p>Leir</p></td>
+</tr>
+<tr>
+<td><p>2-taktikk</p></td>
+<td><p>PLIVO (pågående livstruende vold)</p>
+<p>Tvangsmessig stansing av kjøretøy</p>
+<p>Eksplosiver</p></td>
+<td><p>Tredje studieår</p></td>
+<td><p>1 dag</p></td>
+<td><p>Studiestedene. Gjennomføres i forkant av leir.</p></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><p>3-våpen</p></td>
+<td><p>Tørrtrening våpen. Frivillig egentrening med øvingsvåpen.</p></td>
+<td><p>Tredje studieår</p></td>
+<td></td>
+<td><p>Studiestedene</p></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><p>3- taktikk</p>
+<p>4/5-våpen</p></td>
+<td><p>Politiets taktikk og teknikker. Situasjonstrening. Bevæpnet.</p>
+<p>Videregående opplæring pistol og MP5.</p></td>
+<td><p>Tredje studieår</p></td>
+<td><p>3 uker</p></td>
+<td><p>Leir</p></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+<u>Politihøgskolen, 2016</u>
+
+Som vist i tabell 3.2 tilbys studentene en opplæring i politioperative disipliner som bygger på hverandre i moduler fra andre til tredje studieår.
+
+Undervisningen i de politioperative disiplinene i leir er satt sammen slik at studentene får ta med seg grunnleggende teori og metode inn i taktikktreningen. Det legges vekt på at studentene skal få stadig større utfordringer gjennom kursene. Taktikktreningen avbrytes av skytetrening, situasjonstreninger og øvelser. Siste modul i tredje studieår innbefatter godkjenningsskyting for politiets tjenestevåpen. Det foreligger detaljerte timeplaner for leiroppholdet, som også deles ut til studentene. Alle leksjonene er bygget opp etter samme mal og inneholder læringsutbyttebeskrivelser, en nøye utarbeidet gjennomføringsplan for undervisningen og en pensumforankring. Øvingsaktiviteten er også vurdert med henblikk på risiko. Det gjør at alle leksjonene undervises på tilnærmet samme måte ved alle leirstedene. Måten leiroppholdet er utformet på, gjør at Politihøgskolen på en enkel måte kan sikre at taktikk, våpen og situasjonstrening kan formidles på en enhetlig måte.
+
+Den politioperative innsatstreningen sees i sammenheng med øvrige tema som undervises på Politihøgskolen, og som har direkte relevans for den bevæpnede delen av polititjenesten. Dette er blant annet arrestasjonsteknikk og opplæring i Ordenstjeneste og ordensjus. Dette er en blanding av teori, praktisk tjenesteutøvelse (caser), fysisk trening, samt kommunikasjon- og konflikthåndtering.
+
+Politihøgskolen oppgir i et internt notat at de etter 2007 har hevet kompetansen til instruktørene i leir, bedret utstyret og undervisningsforhold, økt timeantallet betraktelig og utviklet og tilpasset faget. Det har ført til at Politihøgskolen beskriver at de observerer vesentlig høyre ferdighets- og kunnskapsnivå blant politihøgskolestudentene enn tidligere (Politihøgskolen, 2014).
+
+1.  *<u>Undervisning i psykologifaglige emner</u>*
+
+Politiets møte med mennesker med ulike forutsetninger, fra ulike kulturer og mennesker som er psykisk syke, kan være en utfordrende del av yrkesutøvelsen. Utvalget vil gi en kort oversikt over fag som undervises ved Politihøgskolen, som også kan ha relevans i sammenheng med politiets våpenopplæring og våpenbruk.
+
+I faget Forvaltningsrett i første studieår går studentene gjennom psykisk helsevernloven i en teorileksjon. I Ordenstjeneste og ordensjus i første studieår omtales politiets håndtering av psykisk syke personer i forbindelse med gjennomgang av politilovens § 12[^162] og politiets bistandsplikt overfor helsevesenet.
+
+I løpet av første studieår har studentene undervisning i psykologi. I fagplanen beskrives det at emnet handler om menneskelige prosesser som utspiller seg i operative situasjoner og omhandler både individual- og sosialpsykologiske perspektiver. Blant de generelle kompetansemålene innbefattes blant annet at studentene etter endt emne kan ha økt forståelse for de psykologiske prosessene som utspiller seg i samspillet mellom politi og publikum. Videre at studentene kan kommunisere med og håndtere mennesker med ulike psykiske lidelser på en hensiktsmessig måte. I tredje studieår undervises det i psykologifaglige tema i faget Kommunikasjon og konflikthåndtering, samt i undervisningen i etterforsking (Politihøgskolen, 2014–2017).
+
+Kommunikasjon og konflikthåndtering ble innført som fag ved Politihøgskolen etter at rammeplanen for 2009 trådte i kraft. Faget har vært frittstående med undervisning både i første og tredje studieår på bacheloravdelingen. Våren 2016 var siste semester hvor Kommunikasjon og konflikthåndtering hadde selvstendig avsluttende eksamen for avgangsstudentene.
+
+I fagplanen for Kommunikasjon og konflikthåndtering i første studieår beskriver Politihøgskolen at de vektlegger at studentene skal tilegne seg basiskunnskap innenfor områdene Kommunikasjon og konflikthåndtering. Studentene skal også trene på å tilpasse kommunikasjon og egne reaksjoner til forskjellige operative situasjoner med ulikt konfliktnivå. I dette ligger det at studentene skal lære hvordan politiet kan kommunisere med publikum på en hensiktsmessig måte, og de skal lære hvordan de kan håndtere konflikter. I dette faget vektlegger Politihøgskolen erfaringsbasert læring som øvelser i tillegg til undervisning. Faget avsluttes som en individuell muntlig felleseksamen sammen med Ordenstjeneste og ordensjus, Fysisk trening og deler av Digitalt politiarbeid.
+
+I Kommunikasjon og konflikthåndtering i tredje studieår øves det i undervisningen både i teori og praksis. Studentene leser pensum om politiets håndtering av psykisk syke personer, og deltar i praktisk øvelse med markør. I undervisningen i Ordenstjeneste og ordensjus i første studieår og i Kommunikasjon og konflikthåndtering i tredje studieår, benyttes også sekvenser fra en film som er resultatet av et samarbeidsprosjekt mellom Politihøgskolen og Senter for medisinsk informatikk ved Universitetet i Oslo i 2015. Representanter fra lærerkollegiet ved de to studiestedene skrev hver sin del av manus til en undervisningsfilm om politiets og helsevesenets håndtering av psykisk syke. Den ferdige filmen ble tatt inn i undervisningen på henholdsvis Politihøgskolen og ved Det medisinske fakultet ved Universitet i Oslo, samme høst.
+
+Fagplanen for Kommunikasjon og konflikthåndtering i tredje studieår beskriver at studentene etter endt emne blant annet skal kunne kommunisere hensiktsmessig med personer med ulike forutsetninger, med ulike behov og fra ulike kulturer. Videre skal studentene blant annet kunne anvende, begrunne og drøfte ulike Kommunikasjonsformer. Dette innebærer også å kommunisere målrettet slik at konflikter blir håndtert på en god måte. Faget avsluttes med trekkeksamen mellom emnene Kommunikasjon og konflikthåndtering og Ordenstjeneste og ordensjus. De studentene som skal eksamineres i Kommunikasjon og konflikthåndtering, gjennomfører en individuell praktisk muntlig eksamen som vurderes i henhold til gradert karakterskala (Politihøgskolen, 2014–2017).
+
+Politihøgskolestudentene gjennomgår også én case i treningssimulator som er en del av utdanningen for å bli godkjent som innsatspersonell i kategori 4. I denne casen fremstår politiets motpart som suicidal. Denne undervisningen er ikke knyttet opp mot psykologi-, kommunikasjonsfag eller disse fagenes tilhørende pensum, men fokuserer utlukkende på den bevæpnede oppdragsløsningen og våpeninstruksens bestemmelser.
+
+1.  **<u>Etter- og videreutdanningen </u><u>–</u><u> Politioperative disipliner</u>**
+
+Politihøgskolen tilbyr ulike operative samlinger og etter- og videreutdanningstilbud hvor våpentjeneste inngår eller er sentralt. Til de fleste av disse aktivitetene benyttes operativt personell fra politidistriktene som undervisningsbistand. Dette innebærer at faget holdes oppdatert i forhold til beste kjente praksis, og at man får oppdaterte ressurser tilbake til lokale opplæringsenheter etter aktiviteten. Eksempler på etter- og videreutdanning hvor våpentjeneste inngår:
+
+- <u>Innsatspersonell kategori 1 (Beredskapstroppen)</u>
+
+- <u>Innsatspersonell kategori 2 (Livvakttjeneste)</u>
+
+- <u>Grunnutdanning innsatspersonell kategori 3</u>
+
+- <u>Spesialutdanning – taktikk</u>
+
+- <u>Spesialutdanning – våpen</u>
+
+- <u>Spesialutdanning – skarpskytter</u>
+
+- <u>Politioperative disipliner, instruktørutdanning</u>
+
+Instruktørutdanningen i politioperative disipliner er delt opp i tre samlinger. Disse gjennomføres hver over to uker med tema som pedagogikk, politioperative emner med fagdidaktikk, og praksis med avsluttende eksamen. På denne måten utdanner Politihøgskolen sine instruktører i forståelse av, og kunnskap om tidsriktige normer, strategier, taktikker og teknikker (Politihøgskolen, 2017).
+
+1.  *<u>Nasjonale referansegrupper</u>*
+
+I 2009 besluttet Politihøgskolen å etablere tre nasjonale referansegrupper innen henholdsvis politioperative disipliner (taktisk nivå), faget arrestasjonsteknikk, og faget hundetjeneste. Formålet med disse referansegruppene var å ivareta Politihøgskolens krav til kvalitetssikring innen fagdisiplinene.
+
+Representantene i de ulike referansegruppene er valgt med grunnlag i den funksjon den enkelte bekler, politifaglige kunnskaper generelt og spesielle kunnskaper innenfor den gruppen de deltar i. I tillegg har representantene ulik geografisk tilhørighet.
+
+Politihøgskolen bruker referansegruppene aktivt i forbindelse med fagutviklingsarbeid. Når utdanningstilbud revideres eller utvikles, er nasjonale referansegrupper alltid høringsinstans.
+
+1.  *<u>Fagm</u><u>ø</u><u>ter</u>*
+
+Ved endringer eller justeringer av praksis og/eller prosedyrer benyttes ulike samlingspunkt for å nå mannskaper i første linje. Politihøgskolen arrangerer to årlige samlinger for nøkkelpersonell relatert til innsatspersonell, samling for ledere i IP3/Utrykningsenheten og instruktørsamling. Politidistriktene tilbys å sende lokale instruktører på 2 ½- dags samling. På denne måten kan lokale instruktører gis råd og veiledes for å kvalitetssikre den lokale treningen og for å sikre enhetlighet i opplæringen av mannskapene i kategori 3 og 4. Innholdet på samlingen bestemmes av temalisten for det kommende året.
+
+Politihøgskolen gjennomfører også årlig samling for ledere fra Utrykningsenheten. Denne samlingen går også over 2 ½ dag og skal bidra til erfaringsutveksling, informasjon fra Politidirektoratet og andre særorgan, samt nettverksbygging (Politihøgskolen, 2016).
+
+1.  *<u>Temalister for </u><u>å</u><u>rlig trening </u><u>–</u><u> Kategori 3 og kategori 4</u>*
+
+Det gis hvert år ut en temaliste for vedlikeholdstrening av innsatspersonell i kategori 3 og 4. Temalisten er utarbeidet av Politihøgskolen og går deretter til høring hos den nasjonale referansegruppen. Det er Politidirektoratet som godkjenner de årlige temalistene.
+
+Temalisten inndeles med faste tema som gjentas hvert år, og variable tema. De variable temaene kan være nye fokusområder, ny taktikk eller teknikker. Temalisten angir fast treningstid.
+
+Politihøgskolen gjennomgår temalisten på den årlige instruktørsamlingen, og instruktørene tildeles undervisningsoppdraget på de enkelte temaene på disse samlingene.
+
+Innsatspersonellet gjennomfører årlig vedlikeholdstrening, basert på de samme elementene som inngår i grunnutdanningen. Timeantallet er tildelt i forhold til funksjon. Innsatspersonellet i kategori 4 mannskap trener 48 timer årlig, mens personell i kategori 3 trener 103 timer årlig.
+
+1.  *<u>Godkjenningspr</u><u>ø</u><u>ver for skytev</u><u>å</u><u>pen</u>*
+
+Politidirektoratets rundskriv 2016/007 ble iverksatt 1.7.2016 og omhandler godkjenningsprøver for politiets skytevåpen. Rundskrivet beskriver at Politihøgskolen allerede i 2010 implementerte forslag til nytt godkjenningsprogram som opplæringsøvelser. Dette programmet ble brukt i undervisning av IP3 og IP4. Godkjenningsprøvens formål er å verifisere at de som skal ha våpengodkjenning kan håndtere våpen på en sikker og trygg måte i tjenesten. Herunder skal tjenestepersonene ha tilstrekkelig god skyteferdighet. De nye godkjenningsprøvene ble iverksatt fra 1.1.2016 og beskrives som enkle å administrere, tidseffektive og gjennomførbare uansett årstid, uavhengig av øvrig treningsprogram. Alt innsatspersonell i kategori 1–4 skal gjennomføre opplæring og godkjenningsprøve for både pistol og MP5, alternativt karabin. Godkjenningsprøven må tas årlig og godkjent verneutstyr skal benyttes under prøven. Sikkerhet er et gjennomgående tema i rundskrivet. Ved sikkerhetsbrudd underkjennes prøven og tjenestepersonen kan i ytterste konsekvens bortvises fra standplass. Rundskrivet viser til at slike eksempler på sikkerhetsbrudd kan være:
+
+- <u>Peking med våpen mot personell</u>
+
+- <u>Finger på avtrekker under våpenhåndtering</u>
+
+- <u>Utilsiktet avfyring av våpen</u>
+
+- <u>Hylstring av pistol uten å ha tommel på hane</u>
+
+- <u>Unnlatelse av press-sjekk før nedspenning av pistol</u>
+
+Kilde: Politidirektoratet, 2016
+
+1.  **<u>Politiets maktmidler</u>**
+
+Politiets en- og tohåndsvåpen for innsatspersonell i kategori 3 og 4 er levert av den tyske fabrikanten Heckler & Koch GmbH.[^163]
+
+1.  **<u>Pistol</u>**
+
+Politiets tjenestepistol er HKP30L. Hver tjenesteperson som er IP-godkjent og har tjenstlig behov, får så langt det er mulig, hver sin personlige pistol til bruk i tjenesten. Pistolen er påmontert lykt eller laser, eller en kombinasjon av disse etter funksjon og behov.
+
+Pistolen er et rekyldrevet våpen med sikkerhetsavtrekk og kan utelukkende avfyre enkeltskudd. Våpenet har utskiftbare grep for tilpasning til hånden til enkelte tjenesteperson. Våpenet har picatinnyskinne[^164] for montering av lys eller siktemidler. Det leveres med sikter i tritium som lyser i mørket. Våpenet har preget inn et unikt serienummer og en angivelse av at det tilhører politiet.
+
+1.  **<u>Tekniske spesifikasjoner </u><u>–</u><u> HKP30L</u>**
+
+**<u>\[:figur:figX-X.jpg\]</u>**
+
+1.  <u>HKP30L</u>
+
+Kaliber: 9 x 19 mm
+
+Magasinkapasitet: 15 skudd
+
+Ildsorter grå sikringsfløy: Kun enkeltskudd
+
+Utgangshastighet: 360 m/sek
+
+Praktisk skyteavstand: 30 m
+
+Maksimal rekkevidde: 1 500 m
+
+<u>Politiets fellestjenester, 2017</u>
+
+**<u>\[Boks slutt\]</u>**
+
+Det er direktiv for forvaltning av politiets tjenestevåpen og ammunisjon som gir utfyllende bestemmelser om håndtering av politiets våpen og ammunisjon. Direktivet ble utarbeidet og avstemt med endringene i den nye våpeninstruksen av 2016. I forbindelse med fremskutt lagring av skytevåpen i bilpatruljer fastsetter direktivet at den enkelte tjenesteperson kan bære inntil to magasiner til enhåndsvåpen i beltet eller på annen forsvarlig måte.
+
+Polititjenestepersonene er utstyrt med et Safariland sikkerhetshylster til pistolen. Denne har innebygget slagsikring og er, etter Politihøgskolens oppfatning, et av de beste tjenestehylster på markedet. Dette hylsteret er designet for å redusere muligheten for at tjenestevåpenet skal kunne fratas tjenestepersonen. Tilpasning av hylsteret og plassering og riktig bruk av hylsteret sammen med pistolen, er pensum på Politihøgskolen i forbindelse med våpenopplæringen (Politihøgskolen, 2016).
+
+Selve hylsteret som omslutter pistolen kan monteres til tjenestepersonen med klips som bæres i tjenestepersonens belte. Hylsteret monteres deretter med bånd med klips omkring tjenestepersonens lår. En alternativ løsning til denne måten å bære hylsteret på er å fjerne hylsteret fra platen som er i kontakt med låret, og i stedet feste den til et skinnesystem som monteres direkte i beltet i stedet for klipsløsningen. Den siste løsningen gjør at våpenet heves opp til midjen og ikke er like synlig som når det er montert høyt oppe på låret. I forbindelse med bevæpning må tjenestepersonen i alle tilfelle montere hylsteret i klips i beltet eller i skinnen i beltet. Pistolen plasseres deretter i hylsteret.
+
+I forbindelse med den midlertidige bevæpningen av politiet oppstod det noen hendelser der politiet ble forsøkt fratatt tjenestevåpenet (se kapittel 7). Særlig en hendelse i Stavanger ble gjenstand for en del oppmerksomhet, da en mann hoppet over skranken i politivakta, angrep tjenestemannen og klarte å få sin finger ned i sikkerhetshylsteret, for deretter trekke av tjenestemannens ladde pistol.[^165] Ingen ble skadet som følge av denne hendelsen. Som følge av blant annet denne hendelsen tok politiet inn nye sikkerhetshylster fra produsenten Safariland, med noenlunde samme utseende og med samme mekanisme, som ble distribuert i politidistriktene. Dette førte til at muligheten for flere slike hendelser ble redusert, samtidig som politiet ikke måtte endre sine innarbeidede rutiner. Det ble også inntatt i temalisten for 2016 at politiet, i sin trening på arrestasjonsteknikk, også skulle trene på å forsvare eget tjenestevåpen.
+
+1.  **<u>Maskinpistol</u>**
+
+Politiets utgave av maskinpistol heter MP5 A3P og leveres til tjenestepersonene med horisontalt forskjefte, innskyvbar kolbe og aimpoint siktemiddel i tillegg til faste sikter.
+
+Det er et rekylladet våpen med tungt sluttstykke og halvstiv rullelåsning. Politiets utgave leveres normalt med sikringsfløy for enkeltskudd som umuliggjør automatild. Våpenet kan, etter behov, leveres med picatinnyskinne for påmontering av for eksempel vertikalt forskjefte, lys og laser. Våpenet har preget inn et unikt serienummer og en angivelse av at det tilhører politiet.
+
+Politipatruljer medbringer normalt to magasiner til hver MP5 A3P.
+
+1.  **<u>Tekniske spesifikasjoner </u><u>–</u><u> MP5 A3P</u>**
+
+**<u>\[:figur:figX-X.jpg\]</u>**
+
+1.  <u>MP5 A3P</u>
+
+Kaliber: 9 x 19 mm
+
+Magasinkapasitet: 30 skudd
+
+Ildsorter grå sikringsfløy: Kun enkeltskudd
+
+Ildhastighet: 800 skudd pr. min. (13–14 skudd pr sek. v/automatild)
+
+Utgangshastighet: Ca. 400 m/sek
+
+Praktisk skyteavstand: 100 m
+
+Maksimal rekkevidde: 1 700 m
+
+<u>Politiets fellestjenester, 2017</u>
+
+**<u>\[Boks slutt\]</u>**
+
+1.  **<u>Ammunisjon</u>**
+
+Daværende Politiets data- og materielltjeneste, som nå heter Politiets fellestjenester, fikk i 2013 i oppdrag fra Politidirektoratet å utrede ekspanderende ammunisjon som tjenesteammunisjon til bruk for norsk politi.
+
+Bakgrunnen for oppdraget var blant annet faren for mulig treff av tredjepart i forbindelse med avfyring av politiets tjenestevåpen. Da utredningen ble levert til Politidirektoratet i 2013, ble ekspanderende ammunisjon brukt som tjenesteammunisjon av en rekke land i Europa[^166], herunder Sverige, Finland, Danmark, Frankrike, Tyskland, Spania, Sveits, Østerrike, England, Nederland og Belgia. Frem til 2014 var det kun Norge, Italia og Tsjekkia som benyttet helmantel ammunisjon for pistol og rifle til polititjeneste i Europa.
+
+Overordnet forklart består en patron av en patronhylse, et prosjektil, krutt og en tennhette. Patronens egenskaper avgjøres av faktorer som kaliber[^167], prosjektilets vekt og utforming, hastighet når prosjektilet har når det treffer et mål og selve prosjektilets oppbygging/konstruksjon.
+
+Et helmantlet prosjektil er omsluttet av en metallmantel med blykjerne. På grunn av sin form vil prosjektilet deformeres i svært liten grad ved treff i kroppsvev. Et helmantlet prosjektil avgir 20 til 30 % av sin energi ved treff i en normal kropp og effekten på personen som blir truffet kan være liten. Det kan medføre at det er nødvendig for politiet å skyte flere skudd for å få en gjerningsperson satt ut av spill. Dette kan igjen medføre stor risiko for tjenestepersonen ved at gjerningspersonen kan fortsette sitt angrep mot politiet eller tredjepart. Dersom et helmantlet prosjektil treffer bein i kroppen, vil deformasjonen være begrenset. Restenergien i prosjektilet vil fortsatt utgjøre en betydelig trussel mot uskyldig tredjepart på grunn av gjennomskyting.
+
+Ekspanderende tjenesteammunisjon er konstruert på en annen måte enn et helmantlet prosjektil. Prosjektilet består en indre del av bly som er loddet sammen med det ytre laget som er mantelen[^168]. Et slikt prosjektil vil derfor utvide seg ved anslag og bremse opp hastigheten betydelig. Nyere utvikling av slike prosjektiler hindrer fragmentvirkning og større ødeleggelser av kroppsvev. Politiets data- og materielltjeneste gjorde undersøkelser som fant at sårkanalen i simulert vev av ekspanderende tjenesteammunisjon har mindre volum enn tidligere tester. Testene Politiets data- og materielltjeneste utførte, viste ingen fragmentering av prosjektilet.
+
+Ifølge Politiets fellestjenester har moderne ekspanderende tjenesteammunisjons prosjektiler de siste årene vært gjennom en stor utvikling. Politiets fellestjenester beskrev i beslutningsgrunnlaget til Politidirektoratet at: «Politiet i hele Europa er opptatt av å benytte ammunisjon som ivaretar sikkerheten til tjenestepersonen, og som effektivt kan stoppe en voldelig gjerningsperson som setter tjenestemannen eller andres liv i fare. Samtidig skal tredjepart bli skånet for gjennomskyting og rikosjetter» (Politiets data- og materielltjeneste, 2013).
+
+**<u>\[:figur:figX-X.jpg\]</u>**
+
+1.  <u>Tjenesteammunisjon</u>
+
+<u>Til venstre: Ekspanderende tjenesteammunisjon, til høyre: Helmantlet tjenesteammunisjon. Begge i .cal 9mm.</u>
+
+<u>Politiforum, 2014</u>
