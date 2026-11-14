@@ -27,6 +27,7 @@ Teksten fra PDF-en har et merke, `[Side N]`, der hver side begynner. Lenken til 
 ## Kjente feller
 
 - **Utredninger, meldinger og proposisjoner er ikke vedtak.** En NOU er et utvalgs forslag. En melding til Stortinget er regjeringens politikk på det tidspunktet. En lovproposisjon er regjeringens lovforslag og er en del av forarbeidene: Stortinget kan ha endret forslaget, så sjekk gjeldende lovtekst på lovdata.no. Si hvilken type dokument svaret bygger på, og at forslagene kan være endret eller forkastet.
+- **Politidirektoratet heter «Politiet» som mottaker.** Tildelingsbrevene til Politidirektoratet står med mottakeren «Politiet» i Kudos og i `dokumenter.tsv`. Søk på begge navnene.
 - **Tildelingsbrev kommer i flere deler.** Det første brevet for et år følges ofte av tillegg («Supplerende tildelingsbrev», «Tillegg nr. 3»). Et oppdrag eller en bevilgning kan være endret i et senere tillegg. Se alle brevene for samme mottaker og år før du svarer.
 - **Politidistriktene og særorganene har ikke egne tildelingsbrev fra departementet.** Politidirektoratet fordeler midlene videre. Spør brukeren om politidistrikter, Kripos, Politihøgskolen eller Politiets IKT-tjenester, finn svaret i brevet til Politidirektoratet, og si at direktoratets egne disponeringsskriv ikke er med.
 - **Utvalget er ikke fullstendig.** Basen har et utvalg NOU-er, meldinger, proposisjoner og strategier, ikke alle. Finner du ikke et dokument, si at det ikke er i dokumentbasen, og tilby å finne det og lese det, se regel 5 i `CLAUDE.md`.

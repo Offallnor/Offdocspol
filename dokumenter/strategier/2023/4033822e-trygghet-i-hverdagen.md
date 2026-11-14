@@ -4,7 +4,6 @@
 - Publisert: 2023-10-06
 - Eier: Justis- og beredskapsdepartementet
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/trygghet-i-hverdagen.-handlingsplan-mot-2025/id2998346
-- Original-PDF: /dokument/72e605d8-d9ff-4d78-8af1-62eb4033822e/filer/6e1e82b7-100e-432e-9286-553abd8757f6.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/72e605d8-d9ff-4d78-8af1-62eb4033822e
 - Hentet: 2026-11-13

@@ -2,7 +2,6 @@
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/strategier/2024/684800c7-handlingsplan-for-trygg-digital-oppvekst.md
 - Les hele dokumentet: https://www.medietilsynet.no/fakta/rapporter/mediepolitiske-utredninger/
-- Original-PDF: /dokument/f65179eb-4ba6-4290-af80-40de684800c7/filer/f1ab1c4c-119e-4f56-ab6e-ad7b2e7f7dd3.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 
 ---

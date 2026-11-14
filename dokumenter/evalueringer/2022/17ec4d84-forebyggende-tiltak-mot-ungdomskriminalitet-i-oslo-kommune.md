@@ -5,7 +5,6 @@
 - Eier: Barne-, ungdoms, og familiedirektoratet
 - Utført av: OsloMet - storbyuniversitetet
 - Les hele dokumentet: https://oda.oslomet.no/oda-xmlui/handle/11250/3054910
-- Original-PDF: /dokument/e2afbe47-8170-43d2-a1d1-8d2517ec4d84/filer/d9a0a724-659e-4b33-bb19-bd39bf58ac12.pdf
 - Tekst: hentet fra PDF. OBS: 7 figurer. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/e2afbe47-8170-43d2-a1d1-8d2517ec4d84
 - Hentet: 2026-11-13

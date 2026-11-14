@@ -2,7 +2,6 @@
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2026/9cee8194-nou-2026-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2026-3/id3149017/
-- Original-PDF: /dokument/df455153-67da-4ad4-8b6d-0a1a9cee8194/filer/ddf026f2-95d3-479d-8778-6affb8960167.pdf
 - Tekst: hentet fra PDF. OBS: 5 tabeller, 20 figurer, 145 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 
 ---

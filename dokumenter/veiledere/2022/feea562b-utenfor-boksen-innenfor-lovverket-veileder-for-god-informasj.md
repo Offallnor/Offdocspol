@@ -5,7 +5,6 @@
 - Eier: Oslo kommune, Politiet
 - Utført av: Oslo kommune, Politiet
 - Les hele dokumentet: https://urn.nb.no/URN:NBN:no-nb_pliktmonografi_000008745
-- Original-PDF: pliktmonografi_000008745/pliktmonografi_000008745_db8cda12-4a31-43e3-be0b-20359bdb3843_CONTENT.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/6c534112-bbec-4f27-b1f0-7424feea562b
 - Hentet: 2026-11-13

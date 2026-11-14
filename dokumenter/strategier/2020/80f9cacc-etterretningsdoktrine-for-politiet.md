@@ -5,7 +5,6 @@
 - Eier: Politiet
 - Utført av: Politiet
 
-- Original-PDF: /dokument/49d2526d-91ec-475e-8672-173380f9cacc/filer/bd5cab08-5733-4809-a58c-d8d2a9886720.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/49d2526d-91ec-475e-8672-173380f9cacc
 - Hentet: 2026-11-13

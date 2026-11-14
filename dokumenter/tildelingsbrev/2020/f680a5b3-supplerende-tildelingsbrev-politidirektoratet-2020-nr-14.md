@@ -5,7 +5,6 @@
 - Eier: Justis- og beredskapsdepartementet
 - Mottaker: Politiet
 
-- Original-PDF: /dokument/00e8ccb4-70c3-4e4e-a6ae-367af680a5b3/filer/16ac0427-cad5-466b-b815-4a420b8cc6ff.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/00e8ccb4-70c3-4e4e-a6ae-367af680a5b3
 - Hentet: 2026-11-13

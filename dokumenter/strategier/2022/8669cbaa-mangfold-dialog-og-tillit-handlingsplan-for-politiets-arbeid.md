@@ -4,7 +4,6 @@
 - Publisert: 2022-10-20
 - Eier: Politiet
 - Les hele dokumentet: https://www.politiet.no/om-politiet/dokumenter-strategier-og-horinger/dokumenter/?innholdstype=69&enhet=829&side=2
-- Original-PDF: /dokument/0fd3986b-a156-4c4b-8167-f00ece55798f/filer/f7e2f6c7-18fd-4c1a-b078-4fbc3349d52d.pdf
 - Tekst: hentet fra PDF. OBS: 40 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/54f79e2b-9b22-4c94-bdd6-49278669cbaa
 - Hentet: 2026-11-13

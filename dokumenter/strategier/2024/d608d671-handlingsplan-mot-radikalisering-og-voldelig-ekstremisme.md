@@ -4,7 +4,6 @@
 - Publisert: 2024-04-19
 - Eier: Justis- og beredskapsdepartementet
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/handlingsplan-mot-radikalisering-og-voldelig-ekstremisme/id3035416
-- Original-PDF: /dokument/ac0a9798-2a53-4044-8231-1192d608d671/filer/b535462f-be2f-4505-902e-5b7b515e507e.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/ac0a9798-2a53-4044-8231-1192d608d671
 - Hentet: 2026-11-13

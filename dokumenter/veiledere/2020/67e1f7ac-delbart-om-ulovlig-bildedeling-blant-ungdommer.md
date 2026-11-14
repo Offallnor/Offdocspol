@@ -4,7 +4,6 @@
 - Publisert: 2020-09-11
 - Eier: Politiet
 - Les hele dokumentet: https://www.politiet.no/om-politiet/dokumenter-strategier-og-horinger/dokumenter/?enhet=825&innholdstype=69&side=2
-- Original-PDF: /dokument/9582e500-9bf9-4845-a65d-060067e1f7ac/filer/bb0e1ef6-c989-476a-8fde-a163a0d93571.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/9582e500-9bf9-4845-a65d-060067e1f7ac
 - Hentet: 2026-11-13

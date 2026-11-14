@@ -1,7 +1,6 @@
 # «Omvendt voldsalarm» En evaluering av kontaktforbud med elektronisk kontroll (straffeloven § 57) i saker om vold i nære relasjoner, del 2 av 6 (side 21–37)
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/evalueringer/2020/6608983b-omvendt-voldsalarm-en-evaluering-av-kontaktforbud-med-elektr.md
-- Original-PDF: /dokument/df7a430c-04fc-4595-988d-c0f46608983b/filer/63408dc9-ed92-41e6-ae90-47ecf2e59793.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 
 ---

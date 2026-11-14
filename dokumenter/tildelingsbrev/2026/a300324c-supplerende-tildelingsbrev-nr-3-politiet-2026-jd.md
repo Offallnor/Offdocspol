@@ -5,7 +5,6 @@
 - Eier: Justis- og beredskapsdepartementet
 - Mottaker: Politiet
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/jd/tildelingsbrev-arsrapporter-og-instrukser--justis--og-beredskapsdepartementet/id710554/?expand=factbox2544985
-- Original-PDF: /dokument/2387e9cd-5997-4478-bf05-276fa300324c/filer/97732c59-2456-4f32-a57e-ae2b25241257.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/2387e9cd-5997-4478-bf05-276fa300324c
 - Hentet: 2026-11-13

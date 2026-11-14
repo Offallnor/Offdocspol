@@ -4,7 +4,6 @@
 - Publisert: 2021-01-01
 - Eier: Politiet
 - Les hele dokumentet: https://urn.nb.no/URN:NBN:no-nb_pliktmonografi_000028599
-- Original-PDF: pliktmonografi_000028599/pliktmonografi_000028599_d33e2549-f960-4b18-a81f-8954096a6cda_CONTENT.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/22c1bc91-08c5-4008-964d-d12333eded48
 - Hentet: 2026-11-13
