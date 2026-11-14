@@ -1,78 +1,32 @@
-# NOU 2022: 15, del 34 av 34 (side 351–352)
+# NOU 2022: 15, del 34 av 41
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2022/49d91474-nou-2022-15.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2022-15/id2940830/
 - Original-PDF: https://www.regjeringen.no/contentassets/dac114288c9f44f3b95af7dd46cf418b/no/pdfs/nou202220220015000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 351]
+# Økonomiske og administrative konsekvenser
 
-Norges offentlige utredninger
-2021
-Arbeids- og sosialdepartementet:
-NOU 2021: 2 Kompetanse, aktivitet og inntektssikring
-NOU 2021: 5 Grunnlaget for inntektsoppgjørene 2021
-NOU 2021: 8 Trygd over landegrensene
-NOU 2021: 9 Den norske modellen og fremtidens
-arbeidsliv
+Utvalgets forslag til utleverings- og arrestordrelov berører bl.a. personer som er ettersøkt med sikte på utlevering eller overlevering, politi- og påtalemyndigheten, forsvarere, domstolene, Justisdepartementet, Utenriksdepartementet og kriminalomsorgen.
 
-Helse- og omsorgsdepartementet:
-NOU 2021: 11 Selvstyrt er velstyrt
+Den foreslåtte loven er samlet sett antatt å medføre besparelser for det offentlige. Med «besparelser» menes her forskjellen mellom utgiftene som vil påløpe ved en gjennomføring av forslaget og utgifter knyttet til en videreføring av gjeldende regelverk; det siktes ikke til differansen mellom tidligere års utgifter og forventet utgiftsnivå de kommende år.
 
-Finansdepartementet:
-NOU 2021: 1 Endringer i verdipapirhandelloven
-NOU 2021: 4 Norge mot 2025
-NOU 2021: 7 Trygg og enkel eiendomsmegling
-NOU 2021: 10 Ny lov om folkefinansiering av
-næringsvirksomhet
+Når det gjelder *utlevering av lovbrytere fra Norge til stater utenfor EU og Norden*, foreslår utvalget flere endringer som kan effektivisere saksbehandlingen, samt redusere utgiftene og saksbehandlingstiden, uten at det går på bekostning av ettersøktes rettssikkerhet.
 
-Kulturdepartementet:
-NOU 2021: 3 Barneliv foran, bak og i skjermen
+Gjeldende regelverk legger opp til at domstolene skal avgjøre om vilkårene for utlevering er oppfylt, før Justisdepartementet – dersom vilkårene er oppfylt – avgjør hvorvidt utlevering skal skje. I praksis foregår det en dobbeltbehandling av vilkårene for utlevering i retten og i departementet. Utvalget foreslår at departementet skal kunne legge rettens vurdering av om vilkårene for utlevering er oppfylt til grunn, uten at det må foretas en selvstendig prøving. Dette vil redusere vurderingstemaene for departementet og være tids- og ressursbesparende.
 
-Kommunal- og moderniseringsdepartementet:
-NOU 2021: 6 Myndighetenes håndtering av
-koronapandemien
+Videre foreslår utvalget bl.a. å fjerne den ettersøktes adgang til å klage over departementets vedtak om utlevering (lovutkastet § 44); klager som praktisk talt aldri fører frem. Klagefristen etter gjeldende regelverk er tre uker, og klagen behandles av Kongen i statsråd. Opphevelse av klageadgangen medfører at vedtak om utlevering blir endelig på et tidligere tidspunkt enn etter gjeldende regelverk, slik at utlevering kan gjennomføres raskere. Dette betyr også at den ettersøkte vil tilbringe kortere tid i varetekt, noe som vil medføre mindre utgifter for kriminalomsorgen. Samtidig vil forslaget være besparende for departementet, som forbereder klagesaker for Kongen i statsråd, og for statsrådet, som ikke lenger må avgjøre klagene. Med utvalgets forslag vil det heller ikke påløpe utgifter til advokatbistand i klageomgangen.
 
-[Side 352]
+Utvalget foreslår også at retten skriftlig kan ta stilling til om vilkårene for utlevering er oppfylt når det vil være «ubetenkelig» (lovutkastet § 42). Skriftlig behandling kan påskynde saksbehandlingen i situasjoner hvor hverken hensynet til sakens opplysning eller til den ettersøktes rettssikkerhet tilsier at det holdes rettsmøte. En slik behandlingsform vil i seg selv virke ressurs- og prosessbesparende – den vil innebære bortfall av reiseutgifter og andre utgifter som påløper ved gjennomføring av rettsmøter – og kan i tillegg være ønskelig for den ettersøkte, f.eks. når vedkommende har avgitt samtykke til utlevering.
 
-Bestilling av publikasjoner
-Departementenes sikkerhets- og serviceorganisasjon
-www.publikasjoner.dep.no
-Telefon: 22 24 00 00
-Publikasjonene er også tilgjengelige på
-www.regjeringen.no
+Utvalgets forslag om å innføre en begrenset adgang til utlevering av norsk statsborger (lovutkastet § 17) kan medføre en økning i antall begjæringer om utlevering av norsk borger. Slike begjæringer kan avslås uten nærmere vurdering etter gjeldende regelverk. Etter forslaget skal det foretas en konkret vurdering av om begjæringen kan og bør etterkommes. På den ene siden kan prøvingen medføre merarbeid bl.a. for politi- og påtalemyndigheten, domstolene og departementet. Utlevering av norsk borger kan etter forslaget nektes dersom straffen som er ilagt ved den utenlandske dommen som begjæringen bygger på i stedet fullbyrdes i Norge. I slike situasjoner vil det finne sted en soningsoverføring, noe som vil medføre økte utgifter for kriminalomsorgen. På den annen side kan norske myndigheter være forpliktet til å innlede strafforfølgning i Norge hvis utlevering nektes på grunn av norsk statsborgerskap (*aut dedere aut judicare*, som betyr «enten utlevere eller strafforfølge»). Dette kan medføre at noen store og ressurskrevende straffesaker må behandles i Norge. Utvalgets forslag åpner for at disse sakene i stedet kan iretteføres i staten som har begjært utlevering av en norsk borger. I slike tilfeller vil utlevering medføre reduserte utgifter til norsk etterforskning og rettsbehandling, noe som også vil redusere utgifter til varetektsfengsling og annet som følger med rettergangen.
 
-ME
+Videre foreslås adgangen til å anmode om forlengelse av fireukersfristen for å benytte tvangsmidler etter at et endelig vedtak om utlevering foreligger, overført fra departementet til påtalemyndigheten (lovutkastet § 46 tredje ledd). Siden det også etter gjeldende regelverk er påtalemyndigheten som fremmer anmodningen om fristforlengelse for retten, vil overføringen bare medføre at det er påtalemyndigheten som også skal utarbeide anmodningen om forlengelse av fristen. Det vil sjelden være behov for å utsette fristen for tvangsmiddelbruk utover fire uker, og det legges derfor til grunn at forslaget vil ha svært begrensede konsekvenser.
 
-R K E T T RY
+Gjeldende regelverk om *overlevering av lovbrytere mellom Norge og stater i EU og Norden* foreslås i hovedsak videreført. Utvalget har ikke utarbeidet noen forslag som i nevneverdig grad vil endre arrestordresystemet. Fordi en klageadgang til Kongen i statsråd harmonerer dårlig med målsettingen om at arrestordresaker skal behandles raskt, og som en konsekvens av at det foreslås å oppheve adgangen til å påklage departementets vedtak om utlevering til Kongen i statsråd, foreslår utvalget at klageadgangen til Kongen skal fjernes også når det er departementet som avgjør en arrestordre (lovutkastet § 56). Klageadgangen har liten praktisk betydning i disse tilfellene.
 
-1
+Også i arrestordresaker gis det adgang til å avgjøre om vilkårene for overlevering er oppfylt uten rettsmøte når det er «ubetenkelig» (lovutkastet § 54). Skriftlig behandling i arrestordresaker kan være ressursbesparende, ikke minst fordi det er mange flere arrestordresaker enn utleveringssaker.
 
-46
-
-20
-
-4
-
-KK
-
-K
-
-MI
-
-JØ
-
-SA
-
-L
-
-Trykk: Departementenes sikkerhets- og
-serviceorganisasjon – 10/2022
-
-De
-
-p M edia
-
-04
+Loven skal legge til rette for en rettssikker og mer effektiv behandling av saker om utlevering og overlevering av lovbrytere. Innføring av et nytt regelverk om utlevering og overlevering av lovbrytere vil imidlertid gjøre det påkrevd å oppdatere rutinebeskrivelser og rundskriv samt tilpasse arbeidsmåter og eventuelle arbeidsverktøy. Det må forventes at det vil påløpe utgifter til opplæring og kompetansehevende tiltak. Slike utgifter kan antagelig dekkes innenfor gjeldende budsjettrammer.

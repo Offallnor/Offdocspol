@@ -1,933 +1,266 @@
-# NOU 2020: 17, del 20 av 22 (side 224–235)
+# NOU 2020: 17, del 20 av 26
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2020/9dfffdcf-nou-2020-17.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2020-17/id2791522/
 - Original-PDF: https://www.regjeringen.no/contentassets/5f3dc96de14f443f869795a19088926a/no/pdfs/nou202020200017000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 5 figurer. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 224]
-
-222
-
-Kapittel 17
-
-NOU 2020: 17
-Varslede drap?
-
-17.8 Skole og barnehage
-De gjennomgåtte partnerdrapssakene dannet
-ikke grunnlag for å foreslå spesielle tiltak rettet
-mot skole og barnehage for å forebygge partnervold og partnerdrap. De generelle anbefalingene i
-kapittel 17 gjelder imidlertid også for skole og barnehage. Dette gjelder særlig anbefalinger som
-handler om kunnskap og kompetanse, kommunikasjon og informasjonsutveksling. Utvalget så
-flere eksempler i sakene på at skole og barnehage
-brøt opplysningsplikten til barneverntjenesten.
-Utvalget vil understreke viktigheten av at skole og
-barnehage implementerer gode rutiner for at
-ledelsen eller den enkelte ansatte melder fra om
-bekymringsverdige forhold knyttet til et barn
-eller en familie. Utvalget vil også understreke viktigheten av at ansatte på skoler og i barnehager
-har kunnskap om avvergeplikten, se punkt 8.3.2.
-Utvalget vil endelig understreke viktigheten av
-at skole og barnehage er bevisst sin unike tilgang
-til familier, og dermed også sin rolle og posisjon i
-arbeidet med voldsforebygging. I en del tilfeller
-
-kan skole og barnehage være de eneste offentlige
-instansene familien er i kontakt med.
-
-17.9 Advokat
-De gjennomgåtte sakene inneholdt få opplysninger om kontakten med advokater, og de dannet
-derfor ikke grunnlag for å foreslå spesielle tiltak
-rettet mot advokatstanden for å forebygge partnervold og partnerdrap. Enkelte av de generelle
-anbefalingene i kapittel 17 gjelder imidlertid også
-for advokater. Utvalget vil for øvrig understreke
-viktigheten av at advokater har kunnskap om faktorer som kan bidra til forhøyet risiko for partnervold og partnerdrap. Advokater er i kontakt med
-personer med ulike levekårsutfordringer, inkludert personer som har blitt utsatt for vold eller
-som utsetter andre for vold. Utvalget understreker at avvergeplikten også gjelder for advokater –
-uavhengig av advokaters taushetsplikt. Se mer om
-avvergeplikten i punkt 8.3.2.
-
-[Side 225]
-
-NOU 2020: 17
-Varslede drap?
-
-223
-
-Kapittel 18
-
-Kapittel 18
-
-Permanent partnerdrapskommisjon
-18.1 Anbefaling
-Utvalget anbefaler å opprette en nasjonal permanent kommisjon som skal gjennomgå saker om
-partnerdrap. Formålet med kommisjonens arbeid
-
-bør være læring av feil og videre utvikling av
-arbeidet med å forebygge partnervold og partnerdrap. Det er flere aktører som tidligere har fremsatt forslag om å opprette en slik kommisjon, se
-boks 18.1. Forslag om å opprette en «havarikom-
-
-Boks 18.1 Tidligere forslag om en permanent partnerdrapskommisjon
-i stand til å gjøre voldsrisikovurderinger og
-Det er flere aktører som har fremsatt forslag om
-iverksette risikohåndteringer som kan bidra
-en permanent kommisjon for å gjennomgå saker
-til at ikke flere liv går tapt.»1
-om menns vold mot kvinner eller partnerdrap.
-Krisesenterbevegelsen satte partnerdrap på
-agendaen allerede på begynnelsen av 2000-talI 2003 anbefalte Kvinnevoldsutvalget en permalet, og fremmet forslag om en «havarikomminent nasjonal komité for å undersøke alle offentsjon» etter et partnerdrap i Kristiansund i 2002. I
-lige instansers arbeid forut for dødsfall etter
-2014 og 2015 anmodet Likestillings- og diskrimipartnervold. Kvinnevoldsutvalget ga følgende
-neringsombudet (LDO) og Krisesentersekretabegrunnelse for forslaget:
-riatet regjeringen om å etablere en kommisjon
-for å gjennomgå partnerdrap gjennom «Taushet
-«En måte å styrke oppfølgingen av saker om
-tar liv»-kampanjen. I et brev fra LDO og Krisevold i nære relasjoner er gjennom opprettelse
-sentersekretariatet til Justis- og beredskapsdeav en permanent nasjonal komité som skal
-partementet i 2017 fremgår det følgende om
-undersøke alle offentlige instansers arbeid
-begrunnelsen for forslaget:
-forut for dødsfall etter partnervold. Dette
-innebærer også å undersøke om dokumenta«Bakgrunnen for at LDO har bedt om oppretsjon og rapportering har vært utført på en tiltelse av en slik kommisjon eller gruppe, er at
-fredsstillende måte. Opprettelse av en slik
-vi ser at det er store utfordringer i Norge på
-komité vil kunne skjerpe instansenes oppfølområdet. Hvert fjerde drap som ble begått i
-ging av disse sakene fordi instansene vil vite
-Norge i perioden 1991 til 2011 var partnerat deres arbeid vil bli gjennomgått dersom
-drap. Et flertall av disse partnerdrapene skjer
-kvinnen dør som følge av vold i samlivet.
-Gjennom systematisk gjennomgang av
-på tross av at de er såkalt varslede drap, med
-tydelige faresignaler i tiden før drapet. LDO
-instansenes arbeid gir dette også mulighet til
-har flere ganger pekt på at det er mangler når
-å akkumulere kunnskap om gode og dårlige
-det gjelder myndighetenes politikk for foreerfaringer i arbeidet med slike saker. Totalt
-bygging av partnerdrap. Det er derfor et
-sett vil opprettelse av en slik komité kunne
-klart behov for at det nedsettes en ekspertføre til en bedre behandling av disse
-gruppe som skal se på partnerdrapssaker.
-sakene.»2
-Etablering av en slik gruppe vil være vesent1
-Justis- og beredskapsdepartementet, personlig henvenlig for utviklingen av treffsikre forebyggende
-delse, 2019.
-tiltak. Regjeringen har et ansvar for at politiet,
-2
-NOU 2003: 31 s. 208.
-helsetjenesten og hele hjelpeapparatet settes
-
-[Side 226]
-
-224
-
-Kapittel 18
-
-NOU 2020: 17
-Varslede drap?
-
-misjon» for partnerdrap var også en viktig del av
-bakgrunnen for oppnevning av Partnerdrapsutvalget. Offentlige ordninger for gjennomgang av
-partnerdrapssaker har for øvrig blitt stadig mer
-utbredt internasjonalt, se mer om andre lands ordninger i punkt 18.3.
-Partnerdrapsutvalget er ikke gjennom mandatet særskilt bedt om å vurdere opprettelsen av en
-permanent kommisjon. Utvalget er imidlertid
-bedt om å gi anbefalinger som kan bidra til at
-fremtidige tilfeller av partnerdrap forebygges og
-forhindres. Etter utvalgets syn, vil en permanent
-partnerdrapskommisjon bidra til dette. Partnerdrapsutvalgets erfaring tilsier at arbeidet med å
-søke etter ny lærdom om og innsikt i hvordan hjelpeapparatet kan forebygge partnerdrap bør fortsette i en permanent kommisjon. Se mer om behovet for en permanent kommisjon i punkt 18.4.
-Partnerdrapskommisjonen bør være administrativt tilknyttet Justis- og beredskapsdepartementet. Det er for øvrig svært viktig at kommisjonen
-er uavhengig – både i organisasjonsform og arbeid.
-Utvalget foreslår at en slik kommisjon opprettes
-som en seksårig prøveordning, se nærmere om
-forslaget i punkt 18.5.
-
-18.2 Norske faste undersøkelsesordninger
-18.2.1 Statens havarikommisjon
-Statens havarikommisjon (SHK) er et fast, uavhengig forvaltningsorgan administrativt underlagt
-Samferdselsdepartementet. Havarikommisjonen
-undersøker ulykker og hendelser innen luftfart,
-jernbane, veitrafikk og sjøfart, både i transport- og
-forsvarssektoren. Den første faste havarikommisjonen ble etablert i 1989. Kommisjonen undersøkte da bare saker om sivil luftfart. Kommisjonens mandat har senere blitt utvidet flere ganger,
-sist 1. juli 2020. Mandatet ble da utvidet til å
-omfatte undersøkelser av ulykker og alvorlige
-hendelser som gjelder transport i forsvarssektoren. SHKs oppgaver og mandat, og andre instansers varslingsplikt til kommisjonen, er regulert av
-flere lover og forskrifter som gjelder for de ulike
-transportformene.608
-Formålet med SHKs undersøkelser er å
-utrede omstendigheter som en tror kan ha betydning for forebygging av nye ulykker, og på denne
-608 Luftfartsloven,
-
-jernbaneundersøkelsesloven, vegtrafikkloven, sjøloven og forsvarsundersøkelsesloven. Også enkelte
-EU-direktiver og internasjonale konvensjoner har betydning for SHKs arbeid. Utvalget går ikke nærmere inn på
-dette.
-
-måten bidra til økt sikkerhet. Basert på undersøkelsene utarbeider kommisjonen rapporter som
-skal inneholde en uttalelse om årsaksforholdene
-til ulykken/hendelsen. Rapportene kan også inneholde eventuelle tilrådinger til myndighetene om
-tiltak som bør iverksettes for å hindre liknende tilfeller. Kommisjonen er imidlertid ikke bedt om å
-skissere konkrete løsninger. Kommisjonen tar
-heller ikke stilling til sivil- eller strafferettslige
-skyld- eller ansvarsforhold. Det skal legges frem
-en rapport om undersøkelsene senest 12 måneder
-etter at ulykken/hendelsen fant sted. Hvis fristen
-ikke kan overholdes, skal kommisjonen avgi en
-foreløpig rapport minst hver 12. måned.609 I 2019
-ble det avgitt 40 rapporter. Det ble påpekt sikkerhetsfunn i alle rapportene og gitt til sammen 50
-sikkerhetstilrådninger.610
-
-18.2.2 Statens undersøkelseskommisjon for
-helse- og omsorgstjenesten
-Statens undersøkelseskommisjon for helse- og
-omsorgstjenesten (UKOM) er en uavhengig og
-selvstendig kommisjon administrativt underlagt
-Helse- og omsorgsdepartementet. UKOM ble
-opprettet i 2019.611 Kommisjonen undersøker
-alvorlige hendelser og andre alvorlige forhold i
-helse- og omsorgstjenesten. Undersøkelser som
-viste at en betydelig del av uønskede hendelser i
-helsetjenesten kan forebygges, var en viktig del av
-bakgrunnen for opprettelsen av UKOM. Formålet
-med undersøkelsene er å fremskaffe kunnskap
-om hendelsesforløpet, og om årsakene bak, for å
-forebygge nye alvorlige hendelser. Dette skal
-igjen bidra til bedre pasient- og brukersikkerhet i
-helse- og omsorgssektoren.612
-UKOMs virksomhet reguleres av lov om Statens undersøkelseskommisjon for helse- og
-omsorgstjenesten. Kommisjonen skal ikke ta stilling til sivil- eller strafferettslige ansvarsforhold.
-Den skal heller ikke vurdere administrative reaksjoner overfor helsepersonell eller virksomheter.
-UKOM mottar varsler om alvorlige hendelser
-eller forhold fra helsepersonell, pasienter, brukere og pårørende. Kommisjonen skal deretter
-avgjøre om det skal iverksettes undersøkelse.
-Kommisjonen avgjør selv hvilke hendelser og forhold som skal undersøkes, tidspunktet for og
-609
-
-Samferdselsdepartementet (2020). Dette er Samferdselsdepartementets instruks for Statens havarikommisjon.
-610
-Havarikommisjonen (2020) s. 4.
-611
-Det var mindretallet i Ariansonutvalget som foreslo å opprette en slik undersøkelseskommisjon, se NOU 2015: 11.
-612
-Se lov om Statens undersøkelseskommisjon for helse- og
-omsorgstjenesten og Prop. 68 L (2016–2017).
-
-[Side 227]
-
-NOU 2020: 17
-Varslede drap?
-
-omfanget av undersøkelsen, og hvordan undersøkelsen skal gjennomføres, jf. lov om Statens
-undersøkelseskommisjon for helse- og omsorgstjenesten §§ 5 tredje ledd og 7.
-Basert på undersøkelsene, skal kommisjonen
-utarbeide en rapport, jf. lovens § 15. Rapporten
-skal inneholde en redegjørelse for hendelsesforløpet i saken og en vurdering av årsaksforholdene.
-Rapporten skal også inneholde kommisjonens
-eventuelle tilrådinger om tiltak for å forebygge liknende hendelser i fremtiden.
-Da UKOM ble opprettet, vurderte departementet at kommisjonen ville ha en selvstendig
-funksjon og rolle ved siden av politiet og eksisterende tilsynsmyndigheter. I enkelte saker vil
-dermed den samme hendelsen bli undersøkt av
-flere aktører. De tre aktørene vil imidlertid ha forskjellige formål med undersøkelsen. I forarbeidene til loven om UKOM heter det:
-«Tilsynsmyndighetenes undersøkelser vil
-avdekke om det foreligger avvik fra kravene
-som stilles til helsepersonellet og virksomheten i lov og forskrifter. Dersom det foreligger
-avvik følger tilsynsmyndighetene opp til forholdene er brakt i orden/i henhold til regelverkets
-krav, eventuelt ved bruk av pålegg mot virksomheten eller administrative reaksjoner mot
-helsepersonell. Politiet vil foreta sine undersøkelser for å avdekke om det har skjedd straffbare forhold.
-Undersøkelseskommisjonen skal foreta
-grundige undersøkelser for å utrede hendelsesforløpet og avdekke alle faktorene som har
-hatt betydning for utfallet i saken. Formålet er
-å kunne bidra til læring og å forbygge nye
-alvorlige hendelser.
-Departementet er enig med mindretallet i
-utvalget [Ariansonutvalget, jf. NOU 2015: 11]
-som peker på at en uavhengig undersøkelseskommisjon vil kunne dekke behovet for en
-bred undersøkelse av årsaksfaktorer og bakenforliggende forhold gjennom anvendelse av
-ulike analysemetoder som ikke er avgrenset til
-en vurdering av om tjenesten er forsvarlig eller
-om regelverksbrudd har forekommet. Undersøkelseskommisjonen vil kunne belyse flere
-faktorer som for eksempel rammebetingelser,
-beslutningstaking på ulike systemnivå,
-arbeidsmiljø og sikkerhetskultur som vil gi en
-bedre oversikt over systemet hendelsen oppsto
-i og hvordan den kunne skje. En slik tilnærming vil etter departementets vurdering gi en
-større forståelse av alvorlige hendelser enn det
-
-225
-
-Kapittel 18
-
-som oppnås ved undersøkelser foretatt av de
-øvrige aktørene.
-Fordi en undersøkelseskommisjon ikke har
-som formål å vurdere skyld og ansvar vil det
-være grunn til å anta at den også vil kunne bli
-møtt med større åpenhet. Dette kan bidra til at
-saken blir bedre opplyst.»613
-
-18.3 Andre lands ordninger for
-gjennomgang av
-partnerdrapssaker
-18.3.1 Innledning
-Offentlige ordninger for gjennomgang av partnerdrapssaker har blitt stadig mer utbredt internasjonalt. Ordningene er organisert svært forskjellig.
-De har imidlertid til felles at de skal bidra til
-læring for å forebygge alvorlig vold i nære relasjoner og partnerdrap i fremtiden.
-Etter det utvalget kjenner til, har fem land etablert egne nasjonale eller regionale organer for å
-gjennomgå drap i nære relasjoner. Dette er USA,
-Canada, Storbritannia, Australia og New Zealand.614
-I andre land, for eksempel Sverige, har myndighetene gitt oppgaven med å gjennomgå partnerdrapssaker til et allerede eksiterende offentlig
-organ.
-Utvalget vil i korte trekk presentere ordningene i Sverige, Storbritannia og Canada. I ulike
-land brukes ulike fagbegreper. Utvalget har brukt
-terminologien slik den brukes i det landet ordningen er etablert.
-18.3.2 Sverige
-Svenske myndigheter opprettet i 2008 en permanent ordning for utredning av saker om drap eller
-vold mot barn. I 2012 ble ordningen utvidet til å
-inkludere partnerdrap og visse andre former for
-drap på voksne.615 I 2019 ble ordningen ytterligere utvidet, og den omfatter nå også saker om
-forsøk og forberedelse til drap eller vold. Ordningen er regulert i lag om utredningar för att förebygga vissa skador och dödsfall.616
-613
-
-Prop. 68 L (2016 – 2017) s. 24.
-Bugeja mfl. (2015). Det er staten som har tatt initiativet til
-en del av ordningene, men arbeidet gjennomføres av ikkestatlige organisasjoner som mottar statlig støtte, se Statskontoret (2014) s. 64.
-615
-I de hittil gjennomgåtte sakene om voksne ofre, er over 85
-prosent drept av sin daværende eller tidligere partner, se
-Socialstyrelsen (2018a) s. 7.
-616
-Lag (2007:606) om utredningar för att förebygga vissa
-skador och dödsfall.
-614
-
-[Side 228]
-
-226
-
-Kapittel 18
-
-NOU 2020: 17
-Varslede drap?
-
-Det er Socialstyrelsen617 som gjennomfører
-utredningene. I utredningsarbeidet deltar personer med forskjellig kompetanse, blant annet på
-forskning om vold i nære relasjoner, jus, skolevesenet, sosialtjenesten, helsetjenesten og psykiatrien.618 Utredningene skal bidra til å identifisere
-og å belyse systemsvikt i det offentlige hjelpeapparatets håndtering av sakene før drapet. Socialstyrelsens utredning og vurdering danner i neste
-omgang grunnlag for innspill til regjeringen om
-hvilke forebyggende tiltak som bør iverksettes.
-Socialstyrelsen tar ikke stilling til spørsmål om
-sivil- eller strafferettslig skyld eller ansvar. Ordningen er heller ikke en tilsynsordning, og formålet er
-ikke å utpeke konkrete og mangelfulle tjenestesteder eller tjenestepersoner. Statskontoret619 fører
-tilsyn med Socialstyrelsens utredningsvirksomhet.
-Socialstyrelsen gjennomgår saker hvor offeret er død som følge av en straffbar handling
-utført av partner eller tidligere partner.620 Det stilles også krav om at det var grunn til å tro at offeret hadde behov for beskyttelse før drapet, for
-eksempel på grunn av partnervold. I praksis blir
-det regnet som tilstrekkelig at offeret var i kontakt med offentlige myndigheter for å be om hjelp
-før drapet.621
-Den svenske påtalemyndigheten har plikt til å
-melde aktuelle, rettskraftige partnerdrapssaker til
-Socialstyrelsen.622 Deretter vurderer Socialstyrelsen om saken skal utredes. Socialstyrelsen innhenter i så fall dokumentasjon fra offentlige
-instanser som har hatt kontakt med offeret og/
-eller gjerningspersonen. Flere offentlige tjenesteinstanser har opplysningsplikt til Socialstyrelsen, blant annet helsetjenesten.623
-Socialstyrelsen publiserer omtrent annet hvert
-år rapporter som presenterer funn fra utredningene i anonymisert form. Utredningene av sakene
-har blant annet ledet til at det i Sverige har blitt
-617
-
-Socialstyrelsen er et forvaltningsorgan underlagt det svenske Socialdepartementet.
-618
-Socialstyrelsen (2018a) s. 15–16.
-619
-Statskontoret er et forvaltningsorgan som er opprettet for å
-følge opp, utrede og vurdere statlig og/eller statlig finansiert virksomhet på tvers av sektorer. Organet reguleres av
-förordning (2007:827) med instruktion för Statskontoret.
-Formålet med Statskontorets virksomhet er å sikre kvalitet
-og effektivitet i statlig virksomhet. Statskontorets siste evaluering av Socialstyrelsens utredningsvirksomhet er fra
-2014, altså kun to år etter at ordningen ble utvidet til å
-omfatte drap på voksne personer, se Statskontoret (2014).
-620
-Socialstyrelsen gjennomgår også saker hvor handlingen
-var ulovlig, men ikke straffbar – for eksempel fordi gjerningspersonen var utilregnelig i gjerningsøyeblikket.
-621
-Prop. 2017/18:215 s. 30–31.
-622
-Lag (2007:606) 4 § 2. stycket.
-623
-Lag (2007:606) 5 a §.
-
-rettet stor oppmerksomhet mot offentlige instansers plikt til å spørre brukere om voldsutsatthet.
-Den svenske regjeringen har også tatt initiativ til å
-utarbeide sektorovergripende planer for økt samhandling mellom instansene, blant annet for oftere
-å kunne oppdage vold i nære relasjoner. Socialstyrelsen har videre utviklet et eget risikovurderingsverktøy kalt FREDA, til bruk for sosialtjenesten
-og andre virksomheter i arbeidet mot vold i nære
-relasjoner.624
-
-18.3.3 Storbritannia
-I Storbritannia ble det i 2011 opprettet en permanent ordning for gjennomgang av saker om drap
-som følge av vold i nære relasjoner, herunder
-partnerdrapssaker.
-Gjennomgangene
-kalles
-Domestic Homicide Reviews (DHR). Ordningen er
-forankret nasjonalt, men ansvaret for gjennomgangene er delegert til grupper på lokalt nivå.
-Ordningen ble innført ved Domestic Violence,
-Crime and Victims Act 2004 Section 9.625
-Det er politiet som tar initiativ til å gjennomgå
-en sak, men det er såkalte Community Safety Partnerships (CSP)626 som avgjør om saken skal gjennomgås og eventuelt velger en arbeidsgruppe for
-å gjennomføre saksgjennomgangen. Arbeidsgruppen kan være permanent oppnevnt i et geografisk
-område, eller settes sammen spesielt ut fra
-omstendighetene i den konkrete saken. Ofte
-består arbeidsgruppen av statlige og ikke-statlige
-representanter, blant annet fra politiet.627
-Formålet med gjennomgangene er å lære av
-sakene, og undersøke hvordan det offentliges
-håndtering av saker om vold i nære relasjoner kan
-forbedres. Det legges særlig vekt på å identifisere
-hvordan instansene bedre kan samarbeide med
-hverandre. En DHR er ikke ment å erstatte rettsmedisinske vurderinger eller straffesaksbehandling, og adresserer ikke hvem som er strafferettslig ansvarlig for dødsfallet.628
-624
-
-FREDA inneholder en forklaringsmanual og tre konkrete
-verktøy som blant annet skal bidra til å avdekke voldsutsatthet og avgjøre risikoen for fremtidig vold eller drap.
-Verktøyet skal også bidra til at arbeidet med risikovurderinger gjøres mer enhetlig og strukturert på tvers av instanser, se Socialstyrelsen (2018b).
-625
-Loven gjelder i England, Wales og Nord-Irland. Se Payton,
-Robinson og Brookman (2017) s. 92.
-626 CSP er lokale organer som håndterer en del lovpålagte oppgaver innenfor bestemte geografiske områder i Storbritannia. Oppgavene er blant annet knyttet til å yte bistand til
-rettsvesen, helsetjenesten og sosialtjenesten.
-627
-Payton, Robinson og Brookman (2017) s. 105–106.
-628 Home Office (2016a) s. 6. Se også Payton, Robinson og
-Brookman (2017) s. 104.
-
-[Side 229]
-
-NOU 2020: 17
-Varslede drap?
-
-227
-
-Kapittel 18
-
-Gjennomgangene resulterer i en DHR-rapport.
-I rapporten gis det anbefalinger basert på den lærdom som kan utledes fra saken. Det angis også en
-tidsramme for gjennomføringen av anbefalingene.
-Home Office har systematisert 40 DHR-rapporter
-til én nasjonal rapport fra 2016. Rapporten viste at
-anbefalingene i størst grad ble rettet til
-Community Safety Partnerships (CSP), helsetjenesten og politiet. Anbefalingene rettet seg mot
-mange ulike områder av svikt i det offentlige hjelpeapparatet, blant annet opplæring, risikoidentifisering og risikoregistrering, og rutiner og kommunikasjon mellom tjenester.629
-
-Komiteen har jevnlige møter, og resultatene
-fra komiteens saksgjennomganger samles i årlige
-offentlige rapporter. Rapportene inneholder blant
-annet informasjon om antallet saker som er gjennomgått, karakteristika for drapene, forekomsten
-av risikofaktorer og anbefalinger om forebyggende tiltak. Komiteens anbefalinger gjøres kjent
-for de aktuelle instansene de retter seg mot, men
-de medfører ikke rettslige forpliktelser om å etterleve anbefalingene.634
-
-18.3.4 Canada
-I Canada finnes det regionale ordninger for gjennomgang av partnerdrap i flere provinser. Ordningene har litt forskjellige navn, blant annet
-Domestic Violence Death Review Committee
-(DVDRC). De er også organisert på forskjellige
-måter.630 Felles for ordningene er at tverrfaglige,
-rådgivende komiteer har ansvar for å gjennomgå
-voldsrelaterte dødsfall i familien. Formålet med
-gjennomgangene er å innhente kunnskap og å
-anbefale forebyggende tiltak. Gjennomgangene
-skal også bidra til at trender og risikofaktorer for
-partnerdrap blir identifisert, og at «hull» i hjelpeapparatet blir tettet.631
-Ontarios ordning for gjennomgang av partnerdrap (Ontario DVDRC) ble etablert i 2002. Dette er
-den eldste av de canadiske regionale ordningene.
-Administrativt er Ontario DVDRC knyttet til et
-offentlig organ bestående av rettsmedisinere (The
-Office of the Chief Coroner) som utreder dødsfall.632
-Ontario DVDRC består av representanter fra
-blant annet justissektoren, helsetjenesten, sosialtjenesten og forskningsmiljøet om vold i nære
-relasjoner. Komiteen gjennomgår bare rettskraftig
-avgjorte eller henlagte saker (for eksempel drapselvdrap). Komiteen gjennomgår forskjellige saksdokumenter, for eksempel straffesaksdokumenter
-og dokumenter fra barnevern, helsetjenesten,
-terapeuter og psykologer. Med utgangspunkt i en
-sjekkliste på over 40 kunnskapsbaserte risikofaktorer, identifiseres risikofaktorer som forelå før
-drapet, og kontakten med offentlige instanser.633
-
-Partnerdrapsutvalget har vært oppnevnt for en
-begrenset tidsperiode og har gjennomgått et
-begrenset antall saker i en kvalitativ dokumentanalyse. Saksgjennomgangen viste en rekke gjennomgående utfordringer ved politi og annet hjelpeapparat sin håndtering av sakene før drapet, se
-kapittel 12 og 14. Saksgjennomgangen viste også
-at det var stor variasjon mellom sakene. Alle
-sakene ga utvalget ny innsikt og lærdom på forskjellige måter. Utvalget mener at det var et forebyggingspotensial i de gjennomgåtte sakene, og
-at den kvalitative saksgjennomgangen bidro til å
-avdekke dette potensialet. Utvalget mener derfor
-at det er grunn til å fortsette arbeidet med å søke
-etter ny lærdom og innsikt om hvordan politi og
-annet hjelpeapparat kan forbedre sitt arbeid med
-forebygging av partnerdrap i en permanent partnerdrapskommisjon.
-En permanent kommisjon vil kunne fange opp
-flere utfordringer enn det utvalget har kunnet
-gjøre i sin dokumentanalyse. I tillegg vil en permanent kommisjon kunne fange opp en utvikling i
-hjelpeapparatets håndtering av disse sakene over
-tid. Utvalgets erfaring er at det har skjedd
-endringer i både regelverk og struktur i hjelpeapparatet etter at drapet i de gjennomgåtte sakene
-ble begått. En permanent kommisjon vil kunne
-følge med på denne utviklingen, og vurdere eventuelle endringer i arbeidet med å forebygge partnervold og partnerdrap. Utvalget har også anbefalt en rekke tiltak som vil kunne bidra til at partnerdrap forhindres i fremtiden, se kapittel 16 og
-17.
-Siden hjelpeapparatet utvikler seg og det er
-vanskelig å måle effekten av forebyggende tiltak,635 er det etter utvalgets syn, viktig å kontinuerlig arbeide med å innhente kunnskap om hvor-
-
-629
-
-Payton, Robinson og Brookman (2017) s. 106 og Home
-Office (2016b).
-630
-For en oversikt over komiteene i de ulike provinsene, se
-Canadian Domestic Homicide Prevention Initiative (u.å.).
-631
-Sml. Bugeja mfl. (2015).
-632
-Dawson mfl. (2017) s. 62 og 65.
-633
-Dawson mfl. (2017) s. 65–69.
-
-18.4 Behovet for en permanent
-partnerdrapskommisjon
-
-634
-635
-
-Dawson mfl. (2017) s. 67–69.
-Se Moen, Bergman og Øverlien (2018) s. 153 flg.
-
-[Side 230]
-
-228
-
-Kapittel 18
-
-NOU 2020: 17
-Varslede drap?
-
-for noen saker får fatale følger, og med å finne løsninger på hvordan slike tilfeller kan forhindres.
-Siden det er nær sammenheng mellom partnervold og partnerdrap, og det forekom partnervold i
-alle sakene utvalget gjennomgikk, handler mange
-av utvalgets anbefalinger om avdekking,
-risikovurdering og håndtering av partnervold.
-Det er nærliggende å anta at en permanent kommisjon sitt arbeid også vil kunne bidra til å forebygge alvorlig partnervold, ikke bare partnerdrap. Oppnevningen av Partnerdrapsutvalget bør
-på denne bakgrunn ikke være et argument mot
-opprettelse av en permanent kommisjon. Oppnevningen av Partnerdrapsutvalget har snarere gitt
-kunnskap og erfaring som tilsier at det er behov
-for en permanent kommisjon for kontinuerlig forbedringsarbeid med forebygging av alvorlig partnervold og partnerdrap.
-Å lære av tidligere feil krever at det utvikles
-systemer og kulturer for dette. Det krever også
-systemer som kan formidle lærdommen til de forskjellige tjenestene, og et system for å endre og å
-implementere nye tiltak basert på lærdommen. Et
-sentralt spørsmål for å vurdere behovet for en permanent partnerdrapskommisjon, er om vi i dag
-har gode nok systemer for å lære av feil. En mulig
-motforestilling mot å opprette en permanent kommisjon kan være at vi allerede har tilsyns- og evalueringsordninger for ulike instansers virksomhet. Det kan hevdes at et alternativ til en permanent partnerdrapskommisjon vil være å benytte
-disse ordningene i større utstrekning, og å samkjøre deres funn på tvers av etater. Etter et partnerdrap som for eksempel involverer en gjerningsperson og/eller offer med psykiatrisk sykehistorie, kan det foretas internt tilsyn hos politiet
-og helsetjenesten. Har paret hatt kontakt med barnevernet, kan det i tillegg gjennomføres tilsyn hos
-barneverntjenesten. Fordelen med en slik løsning
-er at det kan tas utgangspunkt i allerede etablerte
-ordninger. Det er imidlertid også en rekke svakheter ved en slik løsning.
-For det første er offer og gjerningsperson ofte
-i kontakt med flere instanser før et partnerdrap,
-og det vil derfor ofte måtte gjennomføres mange
-separate tilsyn for å få et bilde av hjelpeapparatets
-håndtering av saken før drapet. Det kan være
-både tid- og ressurskrevende å samkjøre de ulike
-tilsynsmyndighetenes funn. For det andre vil det
-være uklart hva som skal være utløsende kriterier
-for når de ulike instansene skal iverksette sitt tilsyn, og hvem som eventuelt skal ha koordinerende ansvar for tilsynene knyttet til partnerdrap.
-Tilsynsordningene har også forskjellige oppstartsrutiner. For det tredje bruker tilsynsmyndighe-
-
-tene ulik systematikk i arbeidet sitt. Dette kan
-gjøre det krevende å sammenstille informasjonen
-som tilsynsvirksomheten gir. For det fjerde evner
-ikke alminnelige tilsynsordninger å fange opp
-samvirket av årsaker til et partnerdrap, og heller
-ikke svikt i samhandlingen mellom forskjellige
-instanser i hjelpeapparatet. Tilsynsvirksomhet
-begrenser seg i stor grad til å se på avvik og lovbrudd i tjenesten det føres tilsyn med. Det er som
-regel flere faktorer som samlet bidrar til å forhøye
-risikoen for partnerdrap, se punkt 4.4. og kapittel
-11.
-Utvalgets arbeid viser også at det ikke er noen
-instans som alene kan forebygge et partnerdrap.
-Selv om noen saker etterlot et inntrykk av at det
-ble begått betydningsfulle feil i enkeltinstanser, er
-utvalgets innrykk likevel at det største forebyggingspotensialet ligger i innsatsen fra et samlet
-hjelpeapparat. Manglende informasjonsutveksling
-mellom instanser og svikt i samordning av forebyggingsarbeidet, pekte seg ut som en sentral og
-gjennomgående utfordring, se punkt 14.6. Slike
-utfordringer vil ikke fanges opp i allerede etablerte tilsynsordninger.
-En permanent partnerdrapskommisjon kan
-bruke ulike analysemodeller fra forskjellige tilsynsmyndigheter, og en kommisjon kan se etter
-forklaringer og årsakssammenhenger utenfor tjenestens oppgaver. Tilsynsordningenes manglende
-evne til å få et helhetlig bilde av saken er, etter
-utvalgets syn, et sentralt argument for å opprette
-en permanent kommisjon. Det var også et sentralt
-argument da den svenske ordningen ble etablert,
-se punkt 18.3.2. Den svenske regjeringen la blant
-annet vekt på at kunnskapen om svikt i tjenestene,
-og i samhandlingen mellom tjenestene, skulle
-kunne sammenstilles systematisk. Dette ble regnet som sentralt for forebyggingsarbeidet, og
-krevde, ifølge svenske myndigheter, et eget utredningssystem. Eksisterende tilsynsordninger ble
-ikke regnet som tilstrekkelig.636
-Utvalget anbefaler likevel ikke at det etableres
-en ordning etter modell fra Sverige. Ansvaret for å
-gjennomføre utredninger etter den svenske ordningen er lagt til et allerede eksisterende offentlig
-organ. For å oppnå formålet om å lære av feil og å
-utvikle forebyggingsarbeidet er det, etter utvalgets syn, svært viktig å ivareta hensynet til uavhengighet i arbeidet med å gjennomgå partnerdrapssaker. Å legge en permanent partnerdrapskommisjon til et allerede eksisterende offentlig
-organ, vil ikke ivareta dette hensynet. Utvalget vil
-understreke viktigheten av at kommisjonen eta636
-
-Prop. 2017/18:215 s. 61.
-
-[Side 231]
-
-NOU 2020: 17
-Varslede drap?
-
-bleres på en måte som sikrer både faglig og organisatorisk uavhengighet fra offentlige myndigheter. Den svenske ordningen har også blitt kritisert for å ha et ensidig fokus rettet mot offeret.
-Etter utvalgets syn, er det svært viktig at partnerdrapskommisjonen vurderer og anbefaler tiltak
-rettet mot både offeret og gjerningspersonen.
-Utvalget anbefaler heller ikke at det etableres
-en ordning som den britiske eller canadiske ordningen. Når det gjelder den britiske ordningen,
-fremstår samarbeidet mellom politiet og
-Community Safety Partnerships (CPS) som lite
-egnet for norske forhold, se punkt 18.3.3. Vi har
-ikke organer som tilsvarer CPS i Norge. Det skjer
-også langt færre partnerdrap per år i Norge sammenliknet med Storbritannia. Dette innebærer at
-den britiske ordningen antakelig er for omstendelig til å fungere som en modell for en norsk partnerdrapskommisjon.
-Når det gjelder den canadiske ordningen,
-består denne av flere regionale ordninger. Også i
-Canada skjer det mange flere partnerdrap per år
-enn i Norge, og det kan derfor være grunner til å
-velge en regional løsning der. Med et gjennomsnitt på åtte partnerdrap per år, mener utvalget at
-den norske ordningen bør etableres som en nasjonal ordning.
-
-18.5 Nærmere om utvalgets anbefaling
-18.5.1 Kommisjonens kunnskapsgrunnlag
-Utvalget mener at partnerdrapskommisjonen bør
-ha tilgang til fullstendige straffesaksdokumenter i
-partnerdrapssakene som skal gjennomgås. Kommisjonen bør, etter utvalgets syn, også supplere
-informasjon gjennom dokumentinnhenting fra
-involverte instanser og/eller intervjuer med
-offentlig ansatte. En full informasjonstilgang kan
-bare sikres gjennom at en rekke offentlige organer får plikt til å utlevere dokumenter til kommisjonen, og til å bistå med å opplyse de sakene som
-kommisjonen undersøker. Kommisjonen bør også
-kunne forespørre etterlatte om intervju.
-Kommisjonens arbeid vil forutsette tilgang til
-svært sensitive taushetsbelagte opplysninger.
-Utvalget antar at det kan ses hen til lov om informasjonstilgang m.m. for Partnerdrapsutvalget ved
-den nærmere utformingen av kommisjonens
-informasjonstilgang. Den nærmere reguleringen
-må imidlertid utredes nærmere.
-
-229
-
-Kapittel 18
-
-18.5.2 Kommisjonens mandat
-Formålet med en permanent partnerdrapskommisjon skal være læring og utvikling – ikke fordeling
-av skyld. Dette er, etter utvalgets syn, svært viktig.
-Når en ansatt i hjelpeapparatet skal gjennomgå
-egne valg og handlinger etter et drap, vil frykt for
-skyld og straff kunne hindre læring. Utvalget
-mener derfor at kommisjonen verken skal ta stilling til strafferettslige eller sivilrettslige skyldeller ansvarsforhold. Den bør heller ikke vurdere
-administrative reaksjoner overfor tjenestepersoner eller virksomheter.
-Kommisjonen bør, etter utvalgets syn, bare
-gjennomgå saker hvor det foreligger rettskraftig
-avgjørelse, eller hvor saken er henlagt som følge
-av at gjerningspersonen er død. Henlagte saker
-bør bare gjennomgås av kommisjonen når påtalemyndigheten anser forholdet som tilstrekkelig
-bevist i henhold til det strafferettslige beviskravet.
-Videre bør kommisjonen gjennomgå sakene
-med en systematisk, samordnet og helhetlig tilnærming med formål om å avdekke om, i hvilken
-grad og eventuelt på hvilken måte det forekom
-svikt i det offentlige tjenesteapparatets håndtering
-av sakene før drapene. Utvalget mener for øvrig at
-kommisjonen selv må bestemme omfanget av, og
-metoden for, sine undersøkelser.
-Utvalget foreslår at partnerdrapskommisjonen utarbeider årlige anonymiserte rapporter, og
-at disse leveres til Justis- og beredskapsdepartementet. Rapportene bør også publiseres offentlig
-med tidsintervaller som sikrer tilstrekkelig anonymisering av sakene.637 Justis- og beredskapsdepartementet bør, som koordinerende departement for vold i nære relasjoner, ha ansvar for å
-følge opp rapportene. Partnerdrapskommisjonen
-bør også kunne utarbeide særskilte rapporter rettet mot enkeltinstanser, og kunne peke på forbedringspunkter i blant annet etterlevelse av regelverk, rutiner og praksis, kultur og holdninger og
-samhandling.
-18.5.3 Organisering
-Det er, etter utvalgets syn, svært viktig at partnerdrapskommisjonen opprettes som et uavhengig
-organ – både faglig og organisatorisk. Utvalget
-foreslår at kommisjonen er administrativt tilknyttet Justis- og beredskapsdepartementet. Den må
-imidlertid ikke være underlagt departementets
-637
-
-I år hvor det er begått så få partnerdrap at anonymisering
-er umulig eller svært vanskelig, bør kommisjonen vurdere
-flerårige rapporter.
-
-[Side 232]
-
-230
-
-Kapittel 18
-
-NOU 2020: 17
-Varslede drap?
-
-instruksjonsmyndighet. Faglig og organisatorisk
-uavhengighet er sentralt for at kommisjonen skal
-nyte den nødvendige tillit – både i befolkningen
-og på alle nivåer i forvaltningen. En uavhengig
-kommisjon sikrer tillit ved at den opptrer upartisk
-og kan undersøke og vurdere hjelpeapparatets
-arbeid i partnerdrapssaker uten bindinger til noen
-etater.
-Utvalget mener at partnerdrapskommisjonen
-må være bredt sammensatt av personer med ulik
-yrkesbakgrunn, herunder representanter fra
-politi og påtalemyndighet, helse- og omsorgstjenesten, barne- og familievern, krisesenter, NAV
-og sosialtjenesten. Utvalget mener også at det bør
-oppnevnes representanter fra dommerstanden og
-fra akademia/forskningsfeltet vold i nære relasjoner. Det bør stilles krav om at alle medlemmene
-skal ha relevant faglig kompetanse, og til at ett
-eller flere medlemmer har urfolks- og/eller minoritetsbakgrunn. Det er viktig at de som oppnevnes
-som medlemmer i en slik kommisjon ikke har bindinger som gjør at de er, eller kan oppfattes å
-være, uhildet, og at de nyter allmenn tillit.
-Utvalget foreslår at kommisjonsmedlemmene
-oppnevnes av Kongen i statsråd for tre år av gangen, med mulighet til forlengelse i ytterligere tre
-år. For den nærmere utpenslingen av prosedyren
-
-for oppnevning, foreslår utvalget at det ses hen til
-andre og sammenliknbare uavhengige kommisjoner, for eksempel Den rettsmedisinske kommisjon og Gjenopptakelseskommisjonen for straffesaker.
-Det må også opprettes et sekretariat for partnerdrapskommisjonen. Dette reiser en rekke
-spørsmål, herunder hvilke oppgaver sekretariatet
-skal tillegges, hvilken kompetanse sekretariatet
-bør ha og plassering av sekretariatet. Gjennomgang av partnerdrapssaker er et stort og tidkrevende arbeid. Utvalget antar derfor at sekretariatet bør tillegges både administrative og faglige
-utredningsoppgaver. All den tid det er tale om et
-lite antall saker som skal gjennomgås per år,
-mener utvalget at det er grunn til å utrede nærmere om sekretariatet kan samlokaliseres med et
-allerede eksisterende organ. Plasseringen må
-imidlertid sikre kommisjonens uavhengighet.
-
-18.5.4 Evaluering
-Utvalget mener at den permanente partnerdrapskommisjonen må evalueres etter de første fem
-årene. Etter seks år bør det vurderes om ordningen skal videreføres.
-
-[Side 233]
-
-NOU 2020: 17
-Varslede drap?
-
-231
-
-Kapittel 19
-
-Kapittel 19
-
-Økonomiske og administrative konsekvenser
-19.1 Innledning
-Det følger av utvalgets mandat at «[d]e økonomiske og administrative konsekvensene av foreslåtte tiltak skal – så langt det er hensiktsmessig
-og innenfor tidsfristen for utvalgets arbeid – utredes i samsvar med reglene i utredningsinstruksen».
-Utvalget har totalt fremmet 70 konkrete tiltak,
-som utvalget anbefaler at regjerningen følger opp.
-Disse inkluderer 30 generelle tiltak innenfor 14
-temaer som er rettet mot hele hjelpeapparatet, 39
-tiltak som er rettet spesielt mot politi og andre
-instanser i hjelpeapparatet og én anbefaling om å
-opprette en permanent partnerdrapskommisjon.
-Svært mange av utvalgets anbefalinger dreier
-seg om å lovfeste eller implementere retningslinjer, anbefalinger og rutiner. Flere forslag dreier
-seg om å tydeliggjøre og forsterke det ansvaret
-ledelsen i tjenestene allerede har for å prioritere
-og å følge opp forebyggingsarbeid mot vold i nære
-relasjoner og partnerdrap. Formålet med disse
-anbefalingene er at hjelpeapparatet tar i bruk allerede eksisterende forbyggende virkemidler og tiltak mot partnervold og partnerdrap. Disse anbefalingene innebærer ikke ny virksomhet – de handler om å følge opp regelverk og rutiner som allerede gjelder. Tjenestene skal allerede være i stand
-til å etterleve disse. Etterlevelse vil fordre en tydeligere prioritering internt. Hvilke prioriteringer
-som må gjøres, og hvilke økonomiske og administrative konsekvenser dette eventuelt vil kunne få,
-har ikke utvalget hatt grunnlag for å vurdere.
-Noen av utvalgets anbefalinger dreier seg om
-ny virksomhet, og disse anbefalingene vil ha økonomiske og administrative konsekvenser. De
-fleste av disse forslagene må imidlertid utredes
-nærmere. Anbefalingene som innebærer nye tiltak kan innrettes på ulike måter og i ulikt omfang,
-og slike justeringer vil få følger for de økonomiske
-og administrative konsekvensene. Utvalgets
-hovedoppgave har vært å gjennomgå konkrete
-partnerdrapssaker, og utvalgets funksjonstid har
-ikke tillatt full utredning av alle anbefalingene.
-
-Uten et mer detaljert beregningsgrunnlag, vil
-økonomiske og administrative beregninger bli så
-skjønnsmessige at de ikke gir en treffende indikasjon på konsekvensene. Utvalget har derfor ikke
-hatt grunnlag for å foreta meningsfulle beregninger av de anbefalingene som dreier seg om ny
-virksomhet.
-Som følge av det overnevnte, har utvalget ikke
-hatt grunnlag for å foreta beregninger av de økonomiske og administrative konsekvensene av
-utvalgets anbefalinger. Utvalget vil nedenfor likevel gi noen eksempler på anbefalinger som ikke
-vil kreve ny virksomhet, og noen eksempler på
-anbefalinger som vil kreve ny virksomhet.
-
-19.2 Anbefalinger som ikke krever ny
-virksomhet
-Svært mange av utvalgets anbefalinger vil ikke
-kreve ny virksomhet. Utvalget anbefaler for
-eksempel tydeliggjøring av ansvaret ledelsen i de
-ulike tjenestene har for implementering og iverksetting av forebyggende tiltak, og ansvaret ledelsen har for å sikre en kultur for læring av egne og
-andres feil. Utvalget anbefaler også at de ulike
-instansenes forebyggende arbeid gjøres til et prioritert område hos relevante tilsynsmyndigheter,
-se punkt 16.1. Tilsvarende anbefaler utvalget tiltak
-som skal bidra til reell prioritering av politiets
-arbeid mot partnervold og partnerdrap, se punkt
-17.1.1. Tydeliggjøring av lederansvar og å sørge
-for målrettet tilsyn kan, etter utvalgets syn, gjøres
-innenfor tjenestenes allerede eksisterende økonomiske og administrative rammer.
-For å sikre den fortrolighet som skal til for å
-avdekke partnervold og andre faktorer som kan
-bidra til forhøyet risiko for partnerdrap, anbefaler
-utvalget at hjelpeapparatet rutinemessig tilbyr alle
-brukere alenesamtaler. Forslaget innebærer kun
-innføring av en rutine om at eventuelle ledsagere
-må vente utenfor. Dette kan utgjøre en stor forskjell i den enkelte sak, men tiltaket medfører
-ingen økte kostnader. Alenesamtaler bør i mange
-
-[Side 234]
-
-232
-
-Kapittel 19
-
-NOU 2020: 17
-Varslede drap?
-
-tilfeller også gjennomføres etter allerede gjeldende retningslinjer.
-For å sikre at politiet gjennomfører risikovurdering i alle saker om mishandling i nære relasjoner, anbefaler utvalget at politiet pålegges en lovfestet plikt til å risikovurdere i alle saker som
-anmeldes etter straffeloven §§ 282 og 283, se
-punkt 7.2.3.1. Politiet har siden 2013 vært pålagt å
-gjennomføre risikovurdering i slike saker. Utvalgets erfaring er at dette likevel ikke gjøres, og
-utvalget anbefaler en lovfestet plikt for å sikre
-etterlevelse. Anbefalingen innebærer dermed
-ikke ny, kostnadskrevende virksomhet.
-Utvalget har i kapitlene 16 og 17 redegjort for
-anbefalingene, og om anbefalingene er ment å
-sikre etterlevelse av allerede eksisterende anbefalinger, retningslinjer og regelverk. Det vises til de
-nevnte kapitlene for en full oversikt over slike
-anbefalinger.
-
-19.3 Anbefalinger som krever ny
-virksomhet
-Noen av utvalgets anbefalinger dreier seg om ny
-virksomhet, og disse anbefalingene vil ha økonomiske og administrative konsekvenser.
-Utvalget anbefaler for eksempel å opprette en
-nasjonal permanent partnerdrapskommisjon som
-skal gjennomgå partnerdrapssaker, se kapittel 18.
-Formålet med kommisjonens arbeid bør være
-læring av feil og videre utvikling av arbeidet med å
-forebygge partnervold og partnerdrap. Utvalget
-
-foreslår at en slik kommisjon opprettes som en
-seksårig prøveordning. Kommisjonen kan organiseres mer eller mindre omfattende, og den nærmere organiseringen av kommisjonen må utredes
-videre. Utvalget har derfor ikke hatt grunnlag for
-å foreta meningsfulle beregninger av de økonomiske og administrative konsekvensene av en slik
-kommisjon.
-For å sikre at hjelpeapparatet har den nødvendige kunnskap om og kompetanse på vold i nære
-relasjoner, risikovurdering, risikohåndtering,
-kommunikasjon, kultursensitivitet og samhandling, anbefaler utvalget både generelle og konkrete tiltak knyttet til kompetanseheving. Den
-generelle anbefalingen som blant annet dreier seg
-om å innarbeide og å sikre implementering av
-kunnskapskrav i alle relevante rammeplaner,
-behøver i seg selv ikke å medføre økonomiske og
-administrative konsekvenser, se punkt 16.8. Det
-gjør heller ikke anbefalingen som dreier seg om å
-innføre kompetansekrav for krisesenteransatte, se
-punkt 17.3.4. Eventuell utarbeidelse av nye læremidler eller økt behov for lærekrefter, kan imidlertid medføre økte kostander. Det samme vil anbefalingen om å opprette et tematisk program om vold
-i nære relasjoner i regi av Norges forskningsråd
-og anbefalingene om kompetanseheving som
-dreier seg om etterutdanningskurs, se punktene
-16.7, 16.11, 17.2.1 og 17.7.1. Omfanget av både
-kostander og administrative konsekvenser vil
-imidlertid avhenge av hvordan anbefalingene
-implementeres.
-
-[Side 235]
-
-NOU 2020: 17
-Varslede drap?
-
-233
-
-Referanseliste
-
-Referanseliste
-Litteratur mm.
-Aldridge og Browne (2003): Mari L. Aldridge og
-Kevin D. Browne, «Perpetrators of Spousal
-Homicide: A Review», Trauma, Violence &
-Abuse, 4(3), s. 265–276, 2003.
-[https://doi.org/10.1177/
-1524838003004003005]
-Alsaker mfl. (2018a): Kjersti Alsaker, Bente Elisabeth Moen, Valborg Baste og Tone Morken,
-«Intimate partner violence associated with low
-quality of life – a cross-sectional study», BMC
-Women’s Health 18, 148, 2018.
-[https://doi.org/10.1186/s12905-018-0638-5]
-Alsaker mfl. (2016): Kjersti Alsaker, Bente Elisabeth Moen, Valborg Baste og Tone Morken,
-«How Has Living with Intimate Partner Violence Affected the Work Situation? A Qualitative Study among Abused Women in Norway»,
-Journal of Family Violence, vol. 31, s. 479–487,
-2016.
-[https://doi.org/10.1007/s10896-0169806-2]
-Alsaker mfl. (2014): Kjersti Alsaker, Bente Elisabeth Moen, Valborg Baste og Tone Morken,
-«Vold i parforhold kan gjøre lønnsarbeid vanskelig», Tidsskrift for kjønnsforskning, nr. 3–4,
-årgang 38, s. 270–286, Universitetsforlaget
-2014.
-Anda mfl. (2005): R. F. Anda, V. J. Felitti, J. D. Bremner, J. D. Walker, C. Whitfield, B. D. Perry,
-S. R. Dube og W.H. Giles, «The enduring effects of abuse and related adverse experiences
-in Childhood: A convergence of evidence from
-neurobiology and epidemiology», European
-Archives of Psychiatry and Clinical Neuroscience, 256, s. 174–186, 2005. [https://doi.org/
-10.1007/s00406-005-0624-4]
-Askeland mfl. (2016): Ingunn Rangul Askeland,
-Linda Holden Moen, Lisa Govasli Nilsen, Anja
-Emilie Kruse, Ole Kristian Hjemdal og Tonje
-Holt, Behandlingstilbudet til voksne som utøver
-vold: En nasjonal kartleggingsundersøkelse,
-Oslo: Nasjonalt kunnskapssenter om vold og
-traumatisk stress, NKVTS Rapport 10/2016.
-
-Askeland (2015): Ingunn Rangul Askeland, Men
-voluntarily in treatment for violent behavior
-against a female partner: who are they? Violent
-behavior, childhood exposure to violence, mental
-health and treatment dropout, doktorgradsavhandling, Psykologisk institutt, Universitetet i
-Oslo, 2015.
-Askeland og Heir (2014): Ingunn Rangul Askeland og Trond Heir, «Psychiatric disorders
-among men voluntarily in treatment for violent
-behaviour: A cross-sectional study», BMJ
-Open, 2014. [http://dx.doi.org/10.1136/
-bmjopen-2013-004485]
-Askeland og Heir (2013): Ingunn Rangul Askeland og Trond Heir, «Early dropout in men voluntarily undergoing treatment for intimate
-partner violence in Norway», Violence &
-Victims, 28(5), s. 822–831, 2013. [https://
-doi.org/10.1891/0886-6708.VV-D-12-00137]
-Askeland, Evang og Heir (2011): Ingunn Rangul
-Askeland, Are Evang og Trond Heir, «Association of Violence Against Partner and Former
-Victim Experiences: A Sample of Clients Voluntarily Attending Therapy», Journal of Interpersonal Violence, 26(6), s. 1095–1110, 2011.
-[https://doi.org/10.1177/0886260510368152]
-Auglend og Mæland (2016): Ragnar L. Auglend og
-Henry John Mæland, Politirett, 3. utgave,
-Oslo: Gyldendal juridisk, 2016.
-Babcock mfl. (2019): Julia C. Babcock, Alexandra
-L. Snead, Victoria E. Bennett og Nicholas A.
-Armenti, «Distinguishing subtypes of Mutual
-Violence in the Context of Self-Defense: Classifying Types of Partner Violent Couples Using
-a Modified Conflict Tactics Scale», Journal of
-Family Violence, 34(7), s. 687–696, 2019.
-[https://doi.org/10.1007/s10896-018-0012-2]
-Backe-Hansen, Smette og Visli (2017): Elisabeth
-Backe-Hansen, Ingrid Smette og Camilla Visli,
-Kunnskapsoppsummering: Vold mot barn og systemsvikt, Oslo: Velferdsforskningsinstituttet
-NOVA, NOVA Rapport 4/2017.
-Bakketeig mfl. (2014): Elisiv Bakketeig, Elisabeth
-Gording Stang, Christian Madsen, Ingrid
-Smette og Kari Stefansen, Krisesentertilbudet i
+# Om utvalgets anbefalinger
+
+Partnerdrapsutvalget fremmer en rekke tiltak som, i henhold til mandatet, «kan bidra til at fremtidige tilfeller av partnerdrap forebygges og forhindres». Utvalget anbefaler at regjeringen følger opp alle tiltakene. Hovedgrunnlaget for utvalgets anbefalinger er gjennomgangen av straffesaksdokumenter i 19 partnerdrapssaker. Utvalget har i del 4 beskrevet den kontakten som ofrene og gjerningspersonene hadde med hjelpeapparatet før drapet.[^536] Utvalget har også beskrevet hvordan hjelpeapparatet håndterte sakene, samt utfordringene ved denne håndteringen. Se kapittel 14 for en oversikt over gjennomgående utfordringer i partnerdrapssakene. Utvalgsmedlemmenes egne erfaringer og andre kunnskapskilder har også vært viktige i arbeidet med anbefalingene.
+
+Gjennomgangen av sakene viste at de fleste partnerdrapene skjedde etter ett eller flere forvarsler. Forskning viser at personer som lever med partnervold i kombinasjon med flere levekårsutfordringer har høyest risiko for å bli utsatt for, eller for å begå, partnerdrap. Det var partnervold før drapet i alle de 19 sakene, og mange av ofrene og gjerningspersonene hadde flere levekårsutfordringer. Politi og annet hjelpeapparat iverksatte ikke tidsnok forebyggende tiltak som kunne redusert risikoen for alvorlig partnervold og partnerdrap. Dette til tross for at hjelpeapparatet har en rekke virkemidler tilgjengelig, se kapittel 7 for en oversikt over sentrale virkemidler.
+
+Etter utvalgets syn, viste saksgjennomgangen at det var et potensial for å forebygge partnerdrap i alle sakene. På bakgrunn av at det forekom partnervold før partnerdrapet i alle de gjennomgåtte sakene, dreier utvalgets anbefalinger seg i stor grad om avdekking, risikovurdering og håndtering av partnervold. De fleste anbefalingene skal sikre at politi og annet hjelpeapparat tidsnok tar i bruk forebyggende virkemidler og tiltak som allerede er tilgjengelig. Utvalget anbefaler også nye virkemidler og tiltak.
+
+Utvalget anbefaler 30 generelle tiltak innenfor 14 temaer. Disse er rettet mot alle instansene i hjelpeapparatet, se kapittel 16. Utvalget anbefaler også 39 tiltak rettet mot politiet og andre instanser i hjelpeapparatet, se kapittel 17. Tiltakene rettet mot de enkelte instansene må ses i sammenheng med de generelle tiltakene. Utvalget anbefaler i tillegg at det opprettes en nasjonal permanent partnerdrapskommisjon, se kapittel 18.
+
+# Generelle anbefalinger
+
+## Tydeliggjøring av lederansvar og målrettet tilsyn
+
+Utvalget anbefaler følgende tiltak:
+
+- Ansvaret som ledelsen i politiet og de ulike tjenestene har for implementering og iverksetting av virkemidler og tiltak for å forebygge partnervold og partnerdrap må tydeliggjøres.
+
+- Ansvaret som ledelsen i politiet og de ulike tjenestene har for å sikre en kultur for læring av egne og andres feil, og for kvalitetsutvikling innen voldsforebygging, må tydeliggjøres.
+
+- Tilsynsmyndigheter må prioritere tilsyn med relevante tjenesters arbeid med å forebygge partnervold og partnerdrap.
+
+En av utfordringene i de gjennomgåtte partnerdrapssakene var at eksisterende tiltak og virkemidler ikke tidsnok ble tatt i bruk, se punkt 14.1 og 14.5.3. Dette betyr at gjeldende regelverk, retningslinjer, anbefalinger og rutiner ikke ble overholdt. Det er et lederansvar å sørge for at hjelpeapparatet benytter eksisterende forebyggende virkemidler og tiltak mot partnervold og partnerdrap. Etter utvalgets syn, ligger det et stort forebyggingspotensial i å tydeliggjøre dette lederansvaret og å føre målrettede tilsyn med tjenestenes forebyggende arbeid.
+
+Utvalget anbefaler tre tiltak for å sikre bedre lederforankring og utvikling av arbeidet med å forebygge partnervold og partnerdrap. For det første anbefaler utvalget at lederansvaret for forebygging av partnervold og partnerdrap tydeliggjøres. Det er, etter utvalgets vurdering, allerede i dag slik at de ulike tjenestenes ledere har ansvar for at føringene for arbeidet er godt nok kjent i tjenestene, og at disse føringene er implementert gjennom rutiner som sikrer etterlevelse. Det er også et lederansvar å sikre at tjenestene prioriterer det forebyggende arbeidet, og at de yter profesjonelle og kvalitativt gode tjenester til brukerne. Lederansvaret kan utledes av de respektive instansenes regelverk.[^537] Etter utvalgets syn, viste saksgjennomgangen at det er grunn til å tydeliggjøre dette ansvaret. Dette kan for eksempel gjøres ved endringer i lov, instruks, og/eller gjennom andre styringsverktøy.
+
+For det andre anbefaler utvalget at ledelsens ansvar for å sikre en kultur for læring av feil og kvalitetsutvikling tydeliggjøres. Ledelsen må sikre at tjenestene kontinuerlig arbeider for å lære av egne og andres feil, og for å utvikle sin egen oppgaveløsning i tråd med kunnskap og erfaring. I tilfeller hvor det begås feil, er det svært viktig å gjennomgå rutiner og å iverksette tiltak for å unngå at den samme feilen begås på nytt, både i egen organisasjon og i andre organisasjoner. Det er, etter utvalgets syn, også svært viktig at slik læringsbasert utvikling gjøres på tvers av tjenester og etater. På denne måten kan feil i én tjeneste bidra til læring i flere tjenester.
+
+For det tredje anbefaler utvalget at alle relevante tilsynsmyndigheter må prioritere tilsyn med tjenestenes arbeid med å forebygge partnervold og partnerdrap. Utvalget har ikke grunnlag for å foreslå store endringer i tilsynsvirksomheten, men vil understreke viktigheten av at de eksisterende tilsynsmyndighetene prioriterer målrettede tilsyn med det forebyggende arbeidet mot partnervold og partnerdrap. Til dette kreves det at tilsynsmyndighetene har tid, ressurser og relevant kompetanse, herunder kompetanse på vold i nære relasjoner.
+
+## Dreining fra anbefalinger til lovfestede plikter
+
+Utvalget anbefaler følgende tiltak:
+
+- Lovfesting av en del oppgaver knyttet til arbeid med saker om vold i nære relasjoner, se konkrete forslag i kapittel 17.
+
+- Behovet for ytterligere lovfesting av oppgaver knyttet til arbeid med saker om vold i nære relasjoner bør utredes nærmere.
+
+Saksgjennomgangen viste at hjelpeapparatet hadde en rekke ubenyttede virkemidler og tiltak tilgjengelig, og at mange av disse virkemidlene og tiltakene er forankret i retningslinjer og anbefalinger som ikke er rettslig bindende, se punkt 14.4. Utvalget mener derfor at en del tiltak og oppgaver som nå er forankret i retningslinjer og anbefalinger, bør lovfestes og gjøres rettslig bindende. En dreining fra retningslinjer og anbefalinger til flere lovfestede krav vil kunne bidra til at eksisterende forebyggende virkemidler og tiltak benyttes av hjelpeapparatet.
+
+Utvalget har forståelse for at store deler av hjelpeapparatet er i en krevende ressurssituasjon, og at tidspress og stor saksmengde kan gjøre det vanskelig å prioritere oppgaver som ikke er lovpålagt. Flere lovfestede krav vil ikke nødvendigvis forbedre denne situasjonen. For mange vil det snarere kunne bidra til enda mer tidspress. Utvalget mener likevel at en slik dreining er svært viktig for at arbeidet med forebygging av vold i nære relasjoner og partnerdrap prioriteres. Større grad av lovfesting vil kunne gjøre kravene til det forebyggende arbeidet tydeligere. Det vil også bidra til at det forebyggende arbeidet gis større legitimitet, og at det for den enkelte ansatte blir enklere å ta til orde for at oppgaver knyttet til forebygging må prioriteres internt. Det vil, etter utvalgets syn, også kunne bidra til at arbeid med forebygging løftes frem som enda viktigere, og at dette arbeidet på sikt oppnår en høyere status.
+
+## Alle må tilbys alenesamtaler med hjelpeapparatet
+
+Utvalget anbefaler følgende tiltak:
+
+- Politi og annet hjelpeapparat må rutinemessig tilby alle brukere alenesamtale.
+
+- Det bør vurderes innføring av obligatoriske alenesamtaler i deler av hjelpeapparatet.
+
+Det kan være mange hindre for god kommunikasjon mellom brukere og hjelpeapparat, se også punkt 14.3. Et hinder som gikk igjen i flere saker var at samtalen mellom hjelpeapparatet og voldsutsatte ikke var fortrolig fordi voldsutøver eller barn var tilstede. Avdekking av vold i nære relasjoner krever fortrolighet og alenesamtaler. Utvalget mener derfor at hjelpeapparatet rutinemessig må tilby alle brukere alenesamtaler. Utvalget mener også at det må utredes nærmere om enkelte instanser eller etater skal pålegges å rutinemessig gjennomføre obligatoriske alenesamtaler med bruker. Et tilbud om alenesamtale vil i noen situasjoner ikke være tilstrekkelig, for eksempel når brukeren er underlagt kontroll og i realiteten ikke kan oppsøke hjelpeapparatet alene. I slike tilfeller vil en obligatorisk alenesamtale, pålagt av for eksempel fastlegen, være den eneste måten brukeren kan treffe hjelpeapparatet i fortrolighet.
+
+Formålet med begge tiltakene er å tilrettelegge bedre for å avdekke vold i nære relasjoner og andre faktorer som kan bidra til forhøyet risiko for alvorlig vold og drap, og for videre samtaler om dette. Dette vil igjen bidra til at hjelpeapparatet bedre settes i stand til å foreta en risikovurdering, og eventuelt iverksette forebyggende tiltak.
+
+## Økt bruk av kvalifisert tolk
+
+Utvalget anbefaler følgende tiltak:
+
+- Forslag til tolkelov må vedtas og implementeres i politiet og i alle andre deler av hjelpeapparatet.
+
+- Det må innføres et påbud om å bruke kvalifisert tolk i alle saker med mistanke eller kunnskap om vold i nære relasjoner der hjelpeapparat og bruker ikke har et felles talespråk. Unntak bør bare kunne gjøres i en nødsituasjon eller når andre sterke grunner tilsier det.
+
+- Det må innføres et forbud mot å bruke brukerens familiemedlemmer eller andre nærstående som tolk.
+
+- Det må innføres gode og effektive tolkebestillingsrutiner i alle deler av hjelpeapparatet.
+
+- Det må innføres rutiner for at tolk alltid tilbys ved behov, slik at brukerne ikke aktivt må be om dette.
+
+Utvalgets saksgjennomgang viste at hjelpeapparatet i mange tilfeller ikke brukte kvalifisert tolk til tross for at det var behov for det, se punkt 14.3.3. Utvalget registrerte flere eksempler på at familiemedlemmer, inkludert voldsutøver og den voldsutsattes barn, ble brukt som tolk. Dette er svært problematisk. Utvalget mener at manglende bruk av kvalifisert tolk kan ha bidratt til at volden ikke ble avdekket, og at det dermed heller ikke ble iverksatt forebyggende tiltak. For å lykkes i arbeidet med å forebygge partnervold og partnerdrap, er det svært viktig at bruker og hjelpeapparatet kan kommunisere. Tolking må, etter utvalgets syn, ses som en integrert del av tjenestetilbudet som ytes av de forskjellige instansene, ikke som en tilleggstjeneste. Det er også svært viktig at tolken er profesjonell og kvalifisert. Dette er avgjørende for at den voldsutsatte åpent skal kunne fortelle sin historie. Det er også avgjørende for at hjelpeapparatet skal få nødvendig informasjon for å kunne iverksette adekvate forebyggende tiltak.
+
+Kunnskapsdepartementet har fremmet forslag til lov om offentlige organers ansvar for å bruke tolk (tolkeloven). Forslaget innebærer at offentlige organer skal ha en todelt plikt til å bruke tolk: 1) når det følger av lov, og 2) når det er nødvendig for å ivareta hensynet til rettssikkerhet eller for å yte forsvarlig hjelp og tjeneste, jf. lovforslagets § 6 første ledd. At plikten «følger av lov» betyr at offentlige organer har plikt til å bruke tolk når dette følger av særlovgivningen, se for eksempel domstolloven § 135. Videre vil det være «nødvendig» å bruke tolk i situasjoner der det offentlige formidler viktig informasjon til brukeren, og i saker med stor betydning for den enkelte. Sakens karakter kan også ha betydning for om det er nødvendig å bruke tolk. I tilfeller hvor etatene har plikt til å bruke tolk, skal det brukes kvalifisert tolk. Med «kvalifisert tolk» menes en tolk som oppfyller kravene til å bli oppført i Nasjonalt tolkeregister, herunder minst kvalifikasjonskategori 5. Departementet foreslår at kravet om kvalifisert tolk skal kunne fravikes når det er nødvendig av hensyn til en effektiv saksbehandling, i nødssituasjoner eller når andre sterke grunner tilsier det. Videre heter det i lovforslaget at «når et offentlig organ ellers er i kontakt med personer som ikke kan norsk, bør organet vurdere å bruke tolk», jf. forslagets § 6 annet ledd. I disse tilfellene skal det ikke stilles krav om at tolken er kvalifisert. Se departementets høringsnotat for en nærmere beskrivelse av lovforslaget.[^538]
+
+Lovforslaget ble sendt på høring 1. mars 2019. Høringsfristen gikk ut i juni 2019, og saken er per desember 2020 til behandling i Kunnskapsdepartementet.
+
+Utvalget støtter i all hovedsak lovforslaget, men anbefaler at loven på to punkter må stille strengere krav til bruk av tolk.
+
+Utvalget anbefaler for det første at offentlige organer bør ha plikt til alltid å bruke kvalifisert tolk i saker med mistanke eller kunnskap om vold i nære relasjoner når hjelpeapparatet og brukeren ikke har et felles talespråk.
+
+Utvalget utelukker ikke at de fleste saker om vold i nære relasjoner vil omfattes av alternativ 2) i lovforslaget. Utvalget mener likevel at loven bør utformes slik at offentlige etater skal ha plikt til alltid å bruke tolk i saker hvor det er mistanke eller kunnskap om vold i nære relasjoner. I slike saker bør det bare være adgang til å gjøre unntak fra kravet om å bruke kvalifisert tolk i nødsituasjoner eller hvis sterke grunner tilsier det. Dette innebærer at offentlige instanser ikke skal kunne nedprioritere bruk av kvalifisert tolk av hensyn til effektivitet eller ressursbesparelse.
+
+Utvalget anbefaler for det andre at tolkeloven bør inneholde et generelt forbud mot å bruke brukerens familiemedlemmer eller andre nærstående som tolk. Det bør bare kunne gjøres unntak i nødsituasjoner. Forslaget til tolkelov innebærer at det eksisterende forbudet i forvaltningsloven § 11 e mot å bruke barn som tolk videreføres, jf. forslagets § 4. Utvalgets anbefaling innebærer at dette forbudet utvides til også å omfatte andre familiemedlemmer enn barn, og andre nærstående. Et forbud mot å bruke andre familiemedlemmer kan være spesielt viktig for kvinner med minoritetsbakgrunn som utsettes for vold. Denne gruppen er ofte særlig sårbare i møte med hjelpeapparatet.
+
+Kunnskapsdepartementets lovforslag innebærer et forslag om at offentlige organer som jevnlig bruker tolk, skal ha retningslinjer for bestilling og bruk av tolk, se lovforslagets § 9. Utvalget støtter dette forslaget, og anbefaler at alle organer etablerer gode og effektive rutiner for dette. Dette vil, etter utvalgets syn, være viktig for at regelverk og retningslinjer etterleves, og at tolketilbudet i tjenestene blir både effektive og av god kvalitet.
+
+Utvalget anbefaler endelig at det må innføres rutiner for å tilby tolk ved behov, slik at brukerne ikke aktivt må be om dette. Det kan for noen føles nedverdigende og skamfullt å innrømme utilstrekkelige språkkunnskaper, og andre kan mangle selvinnsikt om språkvansker i en krisesituasjon. Som en del av rutinen for å tilby tolk, bør det også avklares med brukeren om det er ønskelig eller vesentlig å benytte mannlig eller kvinnelig tolk. Når det gjelder språk som bare er utbredt i mindre etniske grupper i Norge, er det viktig at hjelpeapparatet utviser særlig aktsomhet ved valget av tolk. Dette er nødvendig for å unngå uheldige bindinger mellom tolk og bruker. Utvalget vil også understreke at i tilfeller der det ikke er hensiktsmessig eller gjennomførbart med oppmøtetolk, må det brukes telefontolk eller nettbasert tolketjeneste.[^539]
+
+## Bedre kollega- og lederstøtte
+
+Utvalget anbefaler følgende tiltak:
+
+- Det må sikres rutiner for bedre kollega- og lederstøtte i politiet og i alle andre deler av hjelpeapparatet for å unngå aleneansvar i saker om vold i nære relasjoner.
+
+Saksgjennomgangen viste flere eksempler på at ansatte i for stor grad var alene om ansvaret i krevende saker hvor den aktuelle familien var i en svært sårbar situasjon, tilsynelatende uten støtte fra kolleger eller leder, se punkt 14.5.2.
+
+I saker om vold i nære relasjoner vil de involverte alltid være i en sårbar situasjon. Dette kan forsterkes av tilstedeværelse av levekårsutfordringer. Å være alene om ansvaret i slike saker vil, etter utvalgets syn, være et for stort ansvar å bære for den enkelte ansatte, i tillegg til at det vil øke risikoen for å gjøre feilvurderinger. Utvalget anbefaler derfor at det må sikres bedre kollega- og lederstøtte i alle deler av hjelpeapparatet for å bidra til at kvaliteten heves i arbeidet som gjøres. Dette vil blant annet kunne bidra til å korrigere og nyansere den enkeltes vurderinger i saker om vold i nære relasjoner, og lette byrden som påhviler den enkelte medarbeider. Bedre kollega- og lederstøtte vil også kunne bidra til at ulik fagekspertise er involvert i sakene, slik at mangfoldet av utfordringer i sakene fanges opp. Det vises i denne forbindelse også til manualen til SARA-V3, hvor det presiseres at voldsrisikovurderinger ikke skal gjennomføres alene eller av enkeltpersoner. Utvalget understreker at det er et lederansvar å sørge for at ansatte har noen å samarbeide og å drøfte saker med, se også anbefaling i punkt 16.1.
+
+## Bedre dokumentasjonsrutiner
+
+Utvalget anbefaler følgende tiltak:
+
+- Det må utvikles bedre rutiner for å etterleve krav til dokumentasjon i hjelpeapparatet.
+
+Saksgjennomgangen viste flere eksempler på manglende eller mangelfull dokumentasjon i sakene. I noen tilfeller var rapporter skrevet etter drapstidspunktet, og i andre tilfeller fremstod dokumentasjonen som uprofesjonell eller usystematisk, se punkt 14.5.5.
+
+For å oppnå et mer profesjonelt og systematisk arbeid i saker om vold i nære relasjoner er det, etter utvalgets vurdering, helt sentralt at hjelpeapparatet dokumenterer sin håndtering av sakene. Denne dokumentasjonen må også inneholde de vurderingene som er gjort. Det finnes allerede i dag tilstrekkelige regler om journalføring i offentlig virksomhet til at slik dokumentasjon burde foretas i alle saker. Utvalget ser derfor ingen grunn til å foreslå ytterligere regler om dokumentasjon. Utvalget anbefaler i stedet at det utvikles bedre rutiner for at reglene etterleves. Det understrekes at ansvaret for at kravene til dokumentasjon etterleves påhviler lederne i de ulike instansene, se også anbefaling i punkt 16.1.
+
+## Styrking av forskning om vold i nære relasjoner
+
+Utvalget anbefaler følgende tiltak:
+
+- Det bør opprettes et tematisk program om vold i nære relasjoner i regi av Norges forskningsråd.
+
+Utvalget mener at utviklingen av arbeidet med å forebygge partnervold og partnerdrap krever styrking av forskning på vold i nære relasjoner. Arbeidet med å forebygge partnervold og partnerdrap krever en kontinuerlig oppdatering av relevant kunnskap.
+
+Utvalget viser til at det i perioden 2014–2019 ble gjennomført et voldsforskningsprogram ved Nasjonalt kunnskapssenter om vold og traumatisk stress (NKVTS) og Velferdsforskningsinstituttet NOVA ved OsloMet. Programmet ble initiert og finansiert av Justis- og beredskapsdepartementet. Programmet har frembragt nyttig kunnskap om vold i nære relasjoner, og programmet er forlenget til 2024.
+
+Utvalget anbefaler at det opprettes et forskningsprogram på vold i nære relasjoner i regi av Norges forskningsråd. Det er nå over 20 år siden forrige gang dette ble vurdert.[^540] Utvalget mener at en tematisk satsning på forskning på vold i nære relasjoner i regi av Norges forskningsråd vil være svært viktig for å opprettholde både volum, kvalitet og mangfold i forskningen. Det vil også sikre nødvendig tematisk bredde og forskning på ulike fagfelt som er relatert til vold i nære relasjoner. Utvalget mener for øvrig at det er viktig å sikre videre forskning på partnerdrap i Norge. Forskningsprogrammet bør derfor inkludere forskning på partnerdrap.
+
+## Kompetanseløft i hjelpeapparatet
+
+### Tiltak
+
+Utvalget anbefaler følgende tiltak:
+
+- Det må innarbeides og sikres implementering av kunnskapskrav om vold i nære relasjoner, risikovurdering, risikohåndtering, kommunikasjon, kultursensitivitet og samhandling i alle relevante rammeplaner.[^541]
+
+- Kunnskapsdepartementet bør gjennomføre en kartlegging og vurdering av behovet for tilsvarende kunnskapskrav i utdanninger som ikke styres av rammeplan.
+
+- Det må stilles kompetansekrav om vold i nære relasjoner, risikovurdering, risikohåndtering, kommunikasjon, kultursensitivitet og samhandling i alle relevante etter- og videreutdanninger.
+
+- Nasjonalt organ for kvalitet i utdanningen (NOKUT)[^542] må føre tilsyn med at kunnskapskrav implementeres i utdanningene.
+
+Saksgjennomgangen viste at mangelfull kunnskap og kompetanse syntes å være en viktig årsak til at partnervold og partnerdrap ikke ble forhindret, se punkt 14.2. For å heve kompetansen i tjenestene, mener utvalget at det er behov for et kunnskapsløft gjennom utdanning. Ansatte i politi og annet hjelpeapparat må settes bedre i stand til å avdekke, risikovurdere og håndtere risiko for partnervold og partnerdrap.
+
+Utvalget anbefaler at det gjennomføres et kompetanseløft ved blant annet å innarbeide og å sikre implementering av kunnskapskrav om vold i nære relasjoner, risikovurdering, risikohåndtering, kommunikasjon, kultursensitivitet og samhandling i relevante rammeplaner. Formålet er at kandidater i alle relevante utdanninger, før de kommer ut i tjenestene, skoleres til å kunne avdekke partnervold og andre faktorer som kan bidra til forhøyet risiko for partnerdrap, til å vurdere faren for liv og helse og til å håndtere saker på riktig måte.
+
+Utvalget viser til at det allerede arbeides for å heve kompetansen i hjelpeapparatet. Det skal blant annet utarbeides en tverrsektoriell kompetansestrategi om vold og overgrep.[^543] Dette er et ledd i oppfølgingen av *Opptrappingsplanen mot vold og overgrep (2017–2021)*.[^544] Kunnskap om vold i nære relasjoner inngår også i rammeplanene for flere profesjonsutdanninger. Kunnskapsdepartementet fastsatte for eksempel høsten 2017 en forskrift om felles rammeplan for helse- og sosialfagutdanninger.[^545] I forskriften § 2 fremgår det blant annet at kandidatene skal ha «kunnskap om sosiale og helsemessige problemer inkludert omsorgssvikt, vold, overgrep, rus- og sosioøkonomiske problemer og kunne identifisere og følge opp mennesker med slike utfordringer». Det fremgår videre av forskriftsbestemmelsen at kandidatene skal kunne «vurdere risiko for uønskede hendelser og kjenne til metoder for å følge opp dette systematisk», og at kandidatene skal kunne «samhandle både tverrfaglig, tverrprofesjonelt, tverrsektorielt og på tvers av virksomheter og nivåer, og initiere slik samhandling». Det arbeides også i universitets- og høyskolesektoren for å videreutvikle samarbeidet mellom helsefag, sosialfag, politi- og lærerutdanninger og spesialpedagogiske utdanninger på feltet vold og overgrep.[^546] Målet er at tjenestene og utdanningsinstitusjonene skal samsnakke, og at dette skal bidra til å forbedre tjenestetilbudet.
+
+Utvalget mener det er viktig å forankre konkrete kunnskapskrav i utdanningenes rammeplaner. For utdanningene som ikke styres etter rammeplan, er det viktig at tilsvarende kunnskapskrav forankres i andre styringsdokumenter. For at dette skal bidra til kompetanseheving i tjenestene, er det, etter utvalgets syn, svært viktig at disse kompetansekravene implementeres i utdanningene. Utvalget understreker at dette må gjøres i tråd med tjenestenes behov for kompetanse, og på grunnlag av forskningsbasert kunnskap.
+
+Når det gjelder etter- og videreutdanning, bør det, etter utvalgets syn, stilles krav til vedlikehold av kunnskap og kompetanse på vold i nære relasjoner, risikovurdering, risikohåndtering, kommunikasjon, kultursensitivitet og samhandling i alle relevante yrker. Dette gjelder blant annet for leger, psykologer, sykepleiere, sosionomer, barnevernspedagoger, krisesenteransatte og politi. Det vises for øvrig til konkrete tiltak for de respektive instansene i kapittel 17.
+
+Det er, etter utvalgets syn, viktig at det føres tilsyn med implementeringen av nye kunnskapskrav, og at utdanningskvaliteten evalueres. Utvalget mener at det særlig bør føres tilsyn med at de nevnte kunnskapskravene er implementert i utdanningene, og at de nyutdannede kandidatene imøtekommer tjenestenes kompetansebehov og brukernes behov for kvalitet i tjenestene.
+
+### Nærmere om kompetansebehovet
+
+Kunnskap om og kompetanse på vold i nære relasjoner, risikovurdering, risikohåndtering, kommunikasjon, kultursensitivitet og samhandling er en grunnleggende forutsetning for å forebygge partnervold og partnerdrap, se også punkt 14.2. Politi og annet hjelpeapparat må ha god fenomenforståelse, være i stand til å oppdage ulike tegn på voldsutsatthet og voldsutøvelse, og være bevisst på at arbeidet krever både tid, tillit og tålmodighet. Det er, etter utvalgets syn, også svært viktig at hjelpeapparatet har kunnskap om at egne forhåndsoppfatninger og etablerte myter kan bidra til å farge vurderinger av situasjonens alvor. Mange kan ha med seg forforståelser om hvordan en voldsutsatt og en voldsutøver ser ut, eller hvordan en voldsutsatt eller en voldsutøver bør opptre. I møte med mennesker i krevende livssituasjoner som en selv ikke kjenner seg igjen i, kan mangelfull kunnskap bidra til at det treffes feilslutninger om risikoen for liv og helse.
+
+For å avdekke vold i nære relasjoner, og for å vurdere risikoen i en situasjon, trenger hjelpeapparatet også informasjon. Nøkkelen til informasjon vil i mange tilfeller ligge i kommunikasjon. Hjelpeapparatet må ha god kompetanse på kommunikasjon, og være bevisst på at mennesker i krise kan ha vanskeligheter med å forstå og å kommunisere. God kommunikasjon forutsetter blant annet at hjelpeapparatet møter brukerne «der de er». Dette krever igjen både kulturforståelse og kultursensitivitet. Kommunikasjon er også viktig når ulike instanser utveksler informasjon med hverandre. Ulike profesjoner og yrkesgrupper har ulike kulturer for å omtale vold og for å vurdere risiko. En felles forståelse av, og et felles begrepsapparat for, vold i nære relasjoner, forutsetter grunnleggende utdanning, og systematisk og profesjonalisert samarbeid mellom ulike etater.
+
+Hjelpeapparatet må også vite hvordan en risikofylt situasjon skal håndteres, herunder hvilke virkemidler og tiltak som finnes, og hvilket handlingsrom regelverk, retningslinjer, anbefalinger og rutiner gir – både i egen tjeneste og i samarbeidende tjenester.
+
+## Informasjonskampanjer og nettressurser
+
+Utvalget anbefaler følgende tiltak:
+
+- Det må jevnlig gjennomføres tilpassede nasjonale kampanjer om vold i nære relasjoner, partnerdrap, hjelpetilbud, varslingsplikt og avvergeplikt.
+
+- Det må være nasjonalt tilgjengelige nettressurser, telefonlinjer og chat som gir informasjon om vold og overgrep og om muligheter til å få hjelp raskt, og det må jevnlig spres tilpasset informasjon om disse ressursene.
+
+Saksgjennomgangen viste at ofrene ikke selv alltid var klar over at de ble utsatt for vold, at de ikke visste hvor de kunne henvende seg for å få hjelp, og at de ikke alltid hadde tillit til at hjelpeapparatet kunne hjelpe dem, se punkt 14.3. Saksgjennomgangen viste også at det bare var få familiemedlemmer, venner eller andre privatpersoner som etter drapet ga uttrykk for at de hadde fryktet at partnerdrap kunne skje, til tross for at de hadde kunnskap om alvorlig partnervold. Det var også få eksempler på at privatpersoner varslet hjelpeapparatet om bekymring for det aktuelle paret, se punkt 13.1.4. Utvalget foreslår på denne bakgrunn to tiltak for å styrke befolkningens kunnskap om, og tilgang til, relevant hjelp.
+
+Utvalget anbefaler for det første at det jevnlig gjennomføres tilpassede nasjonale informasjonskampanjer om vold i nære relasjoner, partnerdrap, sammenhengen mellom partnervold og partnerdrap, hjelpetilbud, varslingsplikt og avvergeplikt. Utvalget vil i denne forbindelse også trekke frem viktigheten av å gjøre retten til gratis rettshjelp for vurdering av anmeldelse bedre kjent, se punktene 12.11.4 og 14.2.6.[^547] Etter utvalgets syn, vil informasjonskampanjer om de nevnte temaene bidra til å heve befolkningens kunnskapsnivå – både hos voldsutsatte, voldsutøver, offentlig ansatte og befolkningen ellers. Dette kan igjen bidra til at flere kontakter hjelpeapparatet i situasjoner med forhøyet risiko for alvorlig partnervold og partnerdrap. Når det gjelder tillit til hjelpeapparatet, kan ikke dette enkelt innføres gjennom iverksetting av tiltak. Tillit henger imidlertid tett sammen med kunnskap, se punkt 14.3. Utvalget mener at tiltak som øker befolkningens kunnskap om hjelpeapparatet vil kunne bidra til at hjelpeapparatet nyter høyere tillit.
+
+Utvalget anbefaler for det andre at nasjonalt tilgjengelige nettressurser, telefonlinjer og chat, som gir informasjon om vold og overgrep og mulighet til å få hjelp raskt, må styrkes og gjøres bedre kjent. Det finnes i dag en rekke relevante tiltak. Utvalget viser blant annet til nasjonal veiviser ved vold og overgrep Dinutvei.no. På denne nettsiden finnes det kvalitetssikret informasjon om blant annet vold i nære relasjoner og om relevant hjelpetilbud for både voldsutsatt og voldsutøver. Utvalget viser også til volds- og overgrepslinjen 116 006 (VO-linjen). Dette er en telefonlinje for den som opplever vold eller overgrep i nære relasjoner, se punkt 7.4.2.3. Regjeringen har nylig besluttet at VO-linjen også får en chat.[^548]
+
+Utvalget understreker viktigheten av at det jevnlig spres tilpasset informasjon om de nevnte tilbudene for å sikre at de er godt kjent både i hjelpeapparatet og i befolkningen ellers. Eksempler på målrettede informasjonskampanjer er ung.no og \#ikkegreit. Disse er rettet mot unge mennesker. Det er svært viktig at informasjonen som spres gjennom informasjonskampanjer og på andre måter er tilpasset alle de gruppene som det norske samfunnet består av, både gjennom utforming, språk, relevans og informasjonskanaler. Informasjonen må for eksempel være tilpasset personer i marginaliserte livssituasjoner og personer som har urfolks- og/eller minoritetsbakgrunn. Dette krever at informasjonen utarbeides i samarbeid med de gruppene som skal motta budskapet. Oversetting av allerede utarbeidet informasjon er ikke tilstrekkelig.
+
+Det er myndighetene som har ansvar for at befolkningen har kunnskap om vold i nære relasjoner og relevante hjelpetilbud, og for at hjelpeapparatet nyter tillit i befolkningen. Ansvaret for samordning av relevante informasjonstiltak bør tilligge Justis- og beredskapsdepartementet, ettersom dette departementet har koordineringsansvar for fagfeltet vold i nære relasjoner.
+
+## Nasjonal forebyggingsstrategi mot partnervold og partnerdrap
+
+Utvalget anbefaler følgende tiltak:
+
+- Det bør utarbeides en nasjonal forebyggingsstrategi for en samordnet innsats mot partnervold og partnerdrap.
+
+Saksgjennomgangen viste at offer og gjerningsperson møtte et lite samordnet hjelpeapparat, se punkt 14.6. Samordningsproblemer mellom instansene i hjelpeapparatet svekker, etter utvalgets syn, hjelpeapparatets samlede forebyggingspotensial. Utvalget mener det er behov for en samordnet innsats mot partnervold og partnerdrap som kan bidra å sikre felles innsats for forebygging, sterkere mål- og resultatstyring, bedre samarbeid på tvers og mer effektiv bruk av fellesskapets ressurser.
+
+Årsakene til vold i nære relasjoner, herunder partnervold og partnerdrap, er mange og sammensatte. For å lykkes med forebygging, må tiltakene inkludere både individuelle, relasjonelle og kontekstuelle risiko- og beskyttelsesfaktorer, ta hensyn til flere dimensjoner av volden og rette seg mot flere målgrupper.[^549] Volden lar seg ikke løse eller forebygge på en enkel måte, innenfor en sektors ansvarsområde. Vold i nære relasjoner kan dermed sies å være et gjenstridig problem.[^550]
+
+Politiske styringsdokumenter har tilrettelagt for en mer samordnet innsats mot vold i nære relasjoner, særlig gjennom tverrdepartementale handlingsplaner mot vold i nære relasjoner. Handlingsplanene utgjør et rammeverk som bidrar til at ulike tiltak for å forebygge og bekjempe vold i nære relasjoner kombineres og ses i sammenheng på en strukturert måte.
+
+Utvalget anbefaler, med utgangspunkt i gode samordningserfaringer på feltet, at det utvikles en egen nasjonal forebyggingsstrategi for en samordnet innsats mot partnervold og partnerdrap. Utvalget understreker viktigheten av at en nasjonal forebyggingsstrategi mot partnervold og partnerdrap utvikles som et samarbeidsprosjekt mellom relevante aktører på tvers av departementer, etat- og sektortilhørighet og forvaltningsnivå.
+
+Partnervold og partnerdrap er alvorlig kriminalitet, og utvalget mener at Justis- og beredskapsdepartementet, som ansvarlig fagdepartement på feltet vold i nære relasjoner, bør ha ansvar for å koordinere arbeidet med å utvikle og gjennomføre en nasjonal forebyggingsstrategi. På denne måten sikres også forankring på høyt nivå.
+
+## Økt kompetanse på reglene om informasjonsutveksling
+
+Utvalget anbefaler følgende tiltak:
+
+- Ny tverrsektoriell veileder om regelverket om taushetsplikt og informasjonsutveksling bør implementeres i alle deler av hjelpeapparatet.
+
+- Alle relevante instanser bør gjennomføre etterutdanningskurs om regelverket om taushetsplikt og informasjonsutveksling for sine ansatte.
+
+Saksgjennomgangen etterlot et inntrykk av at instansene i hjelpeapparatet i liten grad utvekslet informasjon i sakene, se punkt 14.6. Det syntes som om flere instanser hadde bruddstykker av relevant informasjon, men at de ikke sammenstilte denne informasjonen og dannet seg et helhetlig bilde av risikoen for liv og helse. Etter utvalgets syn, kunne mer informasjonsutveksling mellom relevante instanser økt sannsynligheten for at den reelle risikoen ble fanget opp, og for at forebyggende tiltak ble iverksatt tidsnok. Sakene etterlot videre et inntrykk av at manglende informasjonsutveksling hadde sammenheng med manglende kunnskap om og/eller manglende implementering av regelverket om taushetsplikt og informasjonsutveksling, se punkt 14.2.6 og 14.6.2. Dette er i tråd med tidligere undersøkelser og andres erfaringer med regelverket, se punkt 8.2. Utvalget mener at det finnes et forebyggingspotensial i at hjelpeapparatet utnytter handlingsrommet i regelverket om taushetsplikt og informasjonsutveksling. Utvalget anbefaler derfor to generelle tiltak med formål om å øke informasjonsutvekslingen mellom instansene i saker om vold i nære relasjoner. Det understrekes at utvalget ikke ser grunn til å anbefale endringer i regelverket. Formålet med anbefalingene er å gjøre regelverket bedre kjent og implementert.
+
+Utvalget ser positivt på at det nå arbeides med en ny tverrsektoriell veileder om regelverket for taushetsplikt og informasjonsutveksling, og anbefaler at denne implementeres i alle deler av hjelpeapparatet. Veilederen bør danne grunnlag for en gjennomgang av rutiner for informasjonsutveksling i alle offentlige instanser. I en hektisk arbeidshverdag med knappe ressurser er det viktig at kunnskapen om regelverket er implementert i form av tydelige og enkle rutiner for den enkelte.
+
+Utvalget anbefaler videre at alle relevante instanser bør gjennomføre etterutdanningskurs om regelverket om taushetsplikt og informasjonsutveksling for sine ansatte. Det er et ledelsesansvar å sørge for at alle ansatte er godt kjent med dette regelverket, se også anbefaling i punkt 16.1. Den nye tverrsektorielle veilederen vil kunne danne grunnlag for kompetansehevingen. Det er for øvrig viktig at det i etterutdanningskursene undervises i unntakene fra taushetsplikten, både opplysningsrett og opplysningsplikt. Dette er viktig for å bidra til at offentlig ansatte blir tryggere på grensegangene mellom når informasjon ikke må deles, når informasjon kan og bør deles, og når informasjon skal deles.
+
+Saksgjennomgangen etterlot et inntrykk av at hjelpeapparatet særlig manglet kunnskap om avvergeplikten etter straffeloven § 196, og om at opplysningsplikten til barneverntjenesten etter barnevernloven § 6-4 også gjelder i tilfeller hvor barneverntjenesten allerede er involvert i saken. Utvalget mener derfor det er særlig grunn til å fremheve behovet for mer kunnskap om disse varslingspliktene. Det syntes å være mer kunnskap og bevissthet om opplysningsplikten til barneverntjenesten enn om avvergeplikten. Utvalget mener at dette viser at tidligere arbeid med å heve kompetansen om opplysningsplikten til barneverntjenesten har hatt effekt, og at det må arbeides på samme måte for å heve kompetansen på avvergeplikten. Når det gjelder opplysningsplikt til barneverntjenesten, mener utvalget at hjelpeapparatet må bevisstgjøres om viktigheten av å melde fra til barneverntjenesten hver gang det oppstår bekymring for et barn – selv om barneverntjenesten allerede er involvert. Flere meldinger kan til sammen gi et tydeligere og mer komplett bilde av familiens situasjon, og igjen danne grunnlag for at barneverntjenesten kan gjøre en grundigere vurdering av saken og iverksette treffende tiltak.
+
+Det er, etter utvalgets syn, også viktig å tydeliggjøre at de relevante opplysnings- og varslingspliktene gjelder for den enkelte ansatte. Dersom for eksempel rektor ved en skole ikke følger opp en lærers bekymring for et barn, har læreren en selvstendig plikt til å sende bekymringsmelding til barneverntjenesten. Utvalget mener også at muligheten for å drøfte saker anonymt med andre instanser må bli bedre kjent, og at informasjon om dette må omfattes av kurset.
+
+## Plikt for kommunene om å ha handlingsplan mot vold i nære relasjoner
+
+Utvalget anbefaler følgende tiltak:
+
+- Det bør innføres en lovfestet plikt for kommunene om å ha en handlingsplan mot vold i nære relasjoner.
+
+- Det bør føres tilsyn med at kommunene etterlever plikten.
+
+For å lykkes med forebygging av partnervold og partnerdrap, mener utvalget at det er behov for flere virkemidler som sikrer at instansene i hjelpeapparatet samarbeider og koordinerer sine tjenester overfor den enkelte – både i hjelpetilbudet til voldsutsatte og i tilbudet til voldutøvere. Utvalget mener at kommunale handlingsplaner er et egnet virkemiddel for å sikre samarbeid mellom instansene i hjelpeapparatet.
+
+Myndighetene har oppfordret alle kommuner til å utarbeide kommunale eller interkommunale handlingsplaner mot vold i nære relasjoner. De regionale ressurssentrene om vold, traumatisk stress og selvmordsforebygging (RVTS) kan bistå i utarbeidelsen av slike handlingsplaner.[^551] Undersøkelser viser likevel at bare 4 av 10 kommuner har vedtatt slike planer.[^552] Utvalget foreslår derfor at det innføres en plikt for kommunene om å ha en handlingsplan mot vold i nære relasjoner.
+
+Utvikling av en kommunal handlingsplan mot vold i nære relasjoner vil, etter utvalgets syn, kunne sikre at det kommunale hjelpeapparatet utveksler kunnskap og erfaringer, og at hjelpeapparatet utvikler en felles fenomenforståelse og en enighet om prioriterte mål og innsatsområder. Det vil videre kunne bidra til å identifisere samarbeidsbehov, og å sikre en god fordeling av ansvar for oppgaveløsningen. Utvalget mener det er viktig at kommunale handlingsplaner mot vold i nære relasjoner inneholder strategier for håndtering av høyrisikosaker, og strategier for forebyggingsarbeid rettet mot voldsutøvere.
+
+Det nærmere innholdet i og forankringen av plikten for kommuner om å ha en handlingsplan mot vold i nære relasjoner, må utredes nærmere. Det er flere aktuelle regelverk hvor denne plikten kan forankres, herunder krisesenterlova[^553] eller helse- og omsorgstjenesteloven.[^554]
+
+Utvalget anbefaler at fylkesmennene (statsforvalterne) pålegges ansvar for å føre tilsyn med at kommunene etterlever plikten til å ha handlingsplaner mot vold i nære relasjoner.
+
+Anbefalingen om å lovfeste kommunale handlingsplaner må for øvrig ses i sammenheng med utvalgets anbefaling i punkt 16.10 om å utarbeide en nasjonal forebyggingsstrategi.
+
+## Plikt for kommunene til å etablere tverrfaglig og tverretatlig samarbeidsmodell
+
+Utvalget anbefaler følgende tiltak:
+
+- Det bør innføres en lovfestet plikt for kommunene til å etablere en kommunal eller interkommunal tverrfaglig og tverretatlig samarbeidsmodell for vurdering og håndtering av saker om vold i nære relasjoner.
+
+- Det bør føres tilsyn med at kommunene etterlever plikten.
+
+Saksgjennomgangen viste at sakene ikke ble fulgt opp på en helhetlig og samordnet måte før partnerdrapene, og at dette blant annet hadde sammenheng med manglende strukturer for samarbeid, se punkt 14.6. For å heve kvaliteten i de ulike instansenes samlede arbeid med saker om vold i nære relasjoner, anbefaler utvalget at kommunene pålegges en plikt til å etablere en tverrfaglig og tverretatlig samarbeidsmodell for vurdering og håndtering av slike saker.
+
+Samarbeidsmodellen bør inkludere fagekspertise fra politi og andre instanser i hjelpeapparatet. Dette vil, etter utvalgets syn, heve kvaliteten på arbeidet med å fange opp og håndtere risiko for partnervold og partnerdrap. I noen saker kan det være behov for å søke råd og veiledning, og i andre saker kan det være behov for sammen å vurdere og håndtere risiko. Innføring av en samarbeidsmodell vil også kunne legge til rette for at ulike deler av hjelpeapparatet bruker samme type risikoverktøy. Dette vil, etter utvalgets syn, styrke det tverrfaglige samarbeidet. Utvalget mener det må være opp til den enkelte kommune, eventuelt i samarbeid med andre kommuner, å utarbeide en modell for samarbeid som er egnet for lokale forhold og behov. I store kommuner vil for eksempel et samarbeidsteam kunne opprettes på kommunalt nivå. I små kommuner vil det kunne være mer hensiktsmessig at dette opprettes på interkommunalt- eller regionalt nivå.
+
+Ved den nærmere utviklingen av en samarbeidsmodell kan det ses hen til andre eksisterende samarbeidsmodeller, for eksempel til den britiske modellen *Multi-Agency Risk Assessment Conference* (MARAC),[^555] til Prosjekt November, se boks 7.1, og til «Prosjekt høyrisiko» i Trøndelag politidistrikt.[^556]
+
+Det nærmere innholdet i og forankringen av plikten for kommuner om å etablere tverrfaglig samarbeidsmodell må utredes nærmere. Det er flere aktuelle regelverk hvor denne plikten kan forankres, herunder krisesenterlova og helse- og omsorgstjenesteloven, se også anbefaling i punkt 16.12 om plikt for kommunene til å ha kommunal handlingsplan mot vold i nære relasjoner.
+
+Utvalget anbefaler at fylkesmennene (statsforvalterne) pålegges ansvar for å føre tilsyn med at kommunene etterlever plikten til å etablere en samarbeidsmodell.
+
+## Beskyttelse av den voldsutsatte forelderen ved barns samvær med voldsutøver
+
+Utvalget anbefaler følgende tiltak:
+
+- Det må sikres beskyttelse av voldsutsatt forelder i tilfeller hvor felles barn har samvær med voldsutøvende forelder.
+
+- Det bør utredes om barnelovas regler om samvær i tilstrekkelig grad ivaretar hensynet til å beskytte voldsutsatt forelder. En slik utredning kan ikke gjøres uten å vurdere barns stilling i disse sakene.
+
+Saksgjennomgangen ga ingen eksempler på at partnerdrapet skjedde i forbindelse den praktiske gjennomføringen av samvær med barn. Det finnes imidlertid eksempler på dette i andre saker som er offentlig kjent. Utvalget så dessuten flere eksempler på at samvær var et konflikttema mellom offeret og gjerningspersonen før drapet. I tilfeller hvor den voldsutøvende forelder har samværsrett med felles barn, kan for eksempel situasjoner med overlevering av barn utgjøre en stor risiko for ytterligere partnervold og partnerdrap. Det ligger utenfor utvalgets mandat å foreslå tiltak som omhandler barns situasjon i forbindelse med samvær med voldsutøvende forelder. Det er likevel åpenbart at slike situasjoner er svært belastende for barn, og at dette temaet bør være gjenstand for en egen utredning.
+
+Utvalget anbefaler for det første at det bør innføres en ordning for å beskytte den voldsutsatte forelderen i den praktiske gjennomføringen av voldsutøvende forelders samvær med felles barn. Så vidt utvalget er kjent med, finnes det ingen ordning eller retningslinjer for dette i dag. Det må være en enkel og tilgjengelig ordning som effektivt hindrer kontakt mellom foreldrene i tilfeller hvor det er risiko for alvorlig partnervold og/eller partnerdrap. En slik ordning bør for eksempel gjelde i situasjoner hvor den ene forelderen er ilagt besøksforbud overfor den andre. Ordningen må imidlertid også omfatte andre tilfeller, for eksempel der det tidligere har forekommet partnervold eller der det har blitt fremsatt trusler om slik vold i forbindelse med overlevering. I slike situasjoner bør ikke den voldsutsatte delta i selve overleveringen av barna. Innføring av en slik beskyttelsesordning reiser en rekke spørsmål, blant annet om hvilken instans som bør kunne beslutte iverksettelse av ordningen og hvem som skal pålegges ansvaret for å sørge for den praktiske gjennomføringen. Innretningen av ordningen må utredes nærmere.
+
+Utvalget mener for det andre at det bør utredes om barnelovas regler om samvær i tilstrekkelig grad ivaretar hensynet til å beskytte en voldsutsatt forelder. Barnets rett til samvær med foreldrene bygger på hensynet til barnets beste. I utgangspunktet har en forelder som ikke bor med barnet rett til samvær, jf. barnelova § 43. Samværet kan begrenses på nærmere angitte vilkår, for eksempel ved at det må gjennomføres under tilsyn.[^557] Samvær kan også nektes hvis det er til det beste for barnet, eller dersom forelderen har besøksforbud overfor barnet.[^558] Etter utvalgets syn, er det særlig et problem der det skal gjennomføres samvær med en forelder som har besøksforbud mot den andre forelderen, men ikke mot barnet. Verken i reglene om samvær, forarbeider eller rettspraksis er sammenhengen mellom voldsutøverens samvær med felles barn og volden mot tidligere partner behandlet i særlig grad.[^559] Utvalget mener samværssituasjoner kan være voldseskalerende, og at disse spørsmålene bør være gjenstand for en nærmere utredning.
+
+# Anbefalinger rettet mot politi og andre instanser i hjelpeapparatet

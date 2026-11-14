@@ -1,962 +1,278 @@
-# NOU 2024: 4, del 14 av 18 (side 181–194)
+# NOU 2024: 4, del 14 av 19
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/bde1dd67-nou-2024-4.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-4/id3028553/
 - Original-PDF: https://www.regjeringen.no/contentassets/837fb67492034388a20e378814135863/no/pdfs/nou202420240004000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 16 tabeller, 15 figurer, 277 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 181]
+# Utvalgets vurdering av politiet og påtalemyndighetens håndtering av voldtektssaker
 
-NOU 2024: 4
-Voldtekt – et uløst samfunnsproblem
+## Innledning
 
-naden fremsettes før skadevolderens eventuelle straffansvar er foreldet etter reglene i straffeloven eller før skadelidte fyller 21 år.»
-Fristene i den nye loven er altså betydelig kortere
-enn fristene etter den gamle loven. Endringen
-innebærer også at det gjelder en frist for å søke
-om erstatning fra staten, og en annen frist for å
-kreve erstatning fra utøver via domstolene.
+Svært få anmeldte saker om voldtekt av voksne ender med tiltale og dom. Til tross for at voldtektssaker har vært en prioritert sakstype i politiet og påtalemyndigheten i flere år, var oppklaringsprosenten i 2022 den laveste siden 2013. Basert på disse tallene har Norge mottatt kritikk fra internasjonale menneskerettighetsorganer, som har oppfordret norske myndigheter til å styrke etterforskningen av sakene.[^661]
 
-derer med at skadevolder må innrømmes partsrettigheter når «staten skal holde skadevolder
-ansvarlig for erstatningsbeløpet».6 At staten skulle
-kreve regress fra skadevolder også i saker hvor
-erstatning ikke ble tilkjent ved dom, var en del av
-lovforslaget i proposisjonen. Forslaget til § 7
-femte ledd lød slik:
-«Kontoret for voldsoffererstatning fatter vedtak om erstatning og regress. Når vedtaket er
-endelig avgjort, utbetaler Kontoret for voldsoffererstatning erstatningen og fremmer
-regresskravet, jf. § 11. Om ikke annet følger av
-loven her, kommer forvaltningslovens bestemmelser til anvendelse.»
+Det er kun en liten andel av voldtekter som blir anmeldt til politiet. Voldtekt er en alvorlig straffbar handling, og utvalget mener det er viktig at voldtekter blir anmeldt, slik at flest mulig gjerningspersoner kan stilles til ansvar. Samtidig må voldtektsutsatte selv velge om de vil anmelde saken til politiet, og det er offentlige myndigheters ansvar å skape et rettssystem som fornærmede har tillit til og ønsker å henvende seg til. Slik utvalget ser det vil en høy henleggelses- og frifinnelsesprosent på sikt kunne føre til at færre fornærmede velger å anmelde.
 
-21.3 Den påståtte skadevolder som part
-i saken
-Voldserstatningsloven § 7 fjerde ledd fastsetter at
-«[d]en påståtte skadevolderen skal være part i
-saken.» Det innebærer at vedkommende får flere
-partsrettigheter i saken.
-I saker som går for domstolen, vil den påståtte
-skadevolderen alltid være part i saken. Lovendringen innebærer at den påståtte skadevolder
-også er part i saker som kun behandles av Kontoret for voldsoffererstatning. Den påståtte skadevolder var ikke part i disse sakene etter voldsoffererstatningsloven som gjaldt frem til 2023.
-Endringen møtte mye kritikk under høringen
-av lovforslaget. Kritikken kom fra frivillige organisasjoner, bistandsadvokater og voldsutsatte.
-Temaet ble høsten 2023 også omtalt i media hvor
-utsatte for vold og overgrep har fortalt om sine
-erfaringer.3 Kritikken handler om at det for
-utsatte for vold i nære relasjoner og seksuell vold
-kan være særlig utfordrende at den påståtte skadevolder er part i saken.
-Som part vil vedkommende kunne få innsyn i
-sakens dokumenter som vil inneholde en rekke
-personlige opplysninger om den utsatte. Slike
-opplysninger kan for eksempel være erklæringer
-fra leger og psykologer, vurderinger av arbeidsevne og vurderinger av forholdet til egne barn.
-Bistandsadvokater og utsatte trekker frem at slikt
-innsyn kan være svært invaderende for den
-utsatte. Det trekkes også frem at det for noen kan
-være farlig. Det gjelder saker hvor den utsatte har
-grunn til å frykte den påståtte skadevolderen, og
-noen saker hvor den utsatte lever i skjul for gjerningspersonen. Per november 2023 hadde 74 personer søkt om innsyn, ifølge NRK.4
-Forarbeidene til loven drøfter de menneskerettslige rammene for når en skadevolder må innrømmes partsrettigheter.5 Forarbeidene konklu3
-4
-5
+Utvalget har fått inntrykk av at det gjøres mye godt arbeid av politiet og påtalemyndigheten. Under utvalgets møter med aktører i politiet og påtalemyndigheten har utvalget møtt flere dedikerte etterforskere, påtalejurister og fagpersoner.
 
-Da proposisjonen ble behandlet i Stortinget, fremmet justiskomiteens flertall fra Arbeiderpartiet,
-Senterpartiet og Sosialistisk Venstreparti, forslag
-om å fjerne statens adgang til å kreve regress i
-disse sakene.7 Årsaken var at regressadgang
-kunne føre til at skadevolder trakk saken inn for
-domstolene, og dermed gjorde prosessen med å
-få voldserstatning vanskeligere for utsatte. Loven
-som ble vedtatt, ga derfor ikke staten adgang til å
-søke regress i saker hvor erstatningen ikke er tilkjent ved rettskraftig dom.
-Forarbeidene drøfter imidlertid ikke om menneskerettighetene krever at den påståtte skadevolder må gis partsrettigheter også der det ikke
-kreves regress fra vedkommende. Argumentasjonen hviler på at staten skal kreve regress ettersom
-det var en del av det opprinnelige lovforslaget.
-Utvalget kan ikke se at det finnes menneskerettslige forpliktelser til å gi skadevolder partsrettigheter i saker hvor staten ikke skal søke regress fra
-skadevolder.8
+Det er likevel utvalgets vurdering at voldtektssaker ikke håndteres godt nok i politiet og påtalemyndigheten i dag, og at voldtektsutsatte ikke ivaretas på en god nok måte. Svært mange saker henlegges, mange saker blir liggende, etterforskningen har flere mangler i strid med gjeldende krav, og det tas ikke tilstrekkelig hensyn til fornærmede. I det videre vil utvalget presentere sin vurdering av politiet og påtalemyndighetens håndtering av voldtektssaker.
 
-21.4 Kontoret for voldsoffererstatnings
-anvendelse av straffebestemmelser
-Tidligere var det slik at Kontoret for voldsoffererstatning foretok en selvstendig vurdering av faktum i saken, og anvendte de straffebestemmelsene de fant grunnlag for. Etter en nylig avgjørelse fra Sivilrettsforvaltningen, som er klageorgan for Kontoret for voldsofferstatning, ser det ut
-6
-7
+Som påpekt under punkt 19.1 har utvalgets tilgjengelige tid og ressurser ikke tillatt en fullstendig gjennomgang av alle sider ved politiet og påtalemyndighetens håndtering av sakene. I det videre presenterer utvalget sin vurdering av faktagrunnlaget som er presentert i kapittel 19.
 
-se blant annet: Husebye & Vaglieri (2023).
-Husebye & Vaglieri (2023).
-Prop. 238 L (2020–2021).
+## Manglende prioritering av voldtektssaker fra ansvarlige myndigheter
 
-179
+Voldtektssaker omtales ofte som prioriterte saker. Utvalget mener at dette ikke gjenspeiles i tilstrekkelig grad hos ansvarlige myndigheter. Det fremstår som uklart hva Justis- og beredskapsdepartementet legger i føringene til Politidirektoratet om at seksuallovbrudd skal prioriteres. Det ser ut til at både Justis- og beredskapsdepartementet og Politidirektoratet har redusert antall styringsparametere i tildelingsbrev og resultatavtaler. Utvalget stiller spørsmål ved hva som menes med at håndtering av voldtektssaker er prioritert.
 
-Kapittel 21
+Politidirektoratet ser ikke ut til å ha et fagmiljø som jobber spesielt med voldtekt og andre seksuallovbrudd. Ved spørsmål fra utvalget om hvordan direktoratet prioriterer voldtektssaker, vises det til generelle tiltak, som etableringen av Felles straffesaksinntak og fagutviklingsapparatet. Dette er ikke tiltak som fokuserer på særtrekk ved voldtekt og seksuell vold.
 
-8
+Styringen av politiet har heller ikke stilt krav om at etterforskningen av voldtektssaker må utføres av etterforskere med spesialkompetanse, dette til tross for at Politidirektoratet legger til grunn at «det er en spesialistoppgave å håndtere sakstypen».[^662]
 
-Prop. 238 L (2020–2021) s. 16.
-Innst. 310 L (2021–2022).
-Det forutsetter at vedtaket som danner grunnlag for erstatningsutbetalingen, ikke inneholder et utsagn som tilskriver
-straffeskyld, jf. HR-2018-1783-A avsnitt 26.
+Det er Riksadvokaten som har ansvar for straffesaksbehandlingen. Riksadvokaten har gjennomført kvalitetsundersøkelser av etterforskningen av voldtektssaker og skal gjennomføre en ny undersøkelse i 2024. Riksadvokaten har også innført krav om bruk av etterforskningsplaner og stilte tidligere krav til saksbehandlingstid. Det er også en rekke krav som gjelder etterforskning generelt, som også gjelder i voldtektssaker.
 
-[Side 182]
+Selv om Riksadvokaten har innført viktige tiltak, mangler det etter utvalgets syn systematisk arbeid med å heve kvaliteten på etterforskning i voldtektssaker. Kripos sier i sitt innspill til utvalget at det finnes i dag «ingen rutiner for kvalitetskontroll i voldtektssaker ut over Riksadvokatens kvalitetsundersøkelser».
 
-180
+Utvalget mener at tilstrekkelig prioritering av voldtektssaker krever at sakene prioriteres fra ansvarlige myndigheter. Det må skje gjennom styring, ressurssetting, kvalitetshevende tiltak og føringer for etterforskningen. Utvalget bemerker også at ulike signaler om prioriteringer fra Riksadvokaten og Politidirektoratet kan være vanskelige å forholde seg til for politidistriktene, og kan resultere i at voldtektssaker ikke gis tilstrekkelig prioritet.
 
-NOU 2024: 4
+Se utvalgets forslag til tiltak 22.5.2: «Styrket prioritering av voldtektssaker i politiet og påtalemyndigheten.»
 
-Kapittel 21
+## Manglende ekspertorgan for voldtektssaker
 
-Voldtekt – et uløst samfunnsproblem
+Voldtektsgruppen ved Kripos ble nedlagt i 2019. Etter dette har Kripos mindre oppmerksomhet på saker om voldtekt av voksne. Selv om Kripos fremdeles har noen oppgaver knyttet til voldtekt av voksne, er det langt færre enn før. Utvalget er bekymret for at spisskompetanse på etterforskning av voldtektssaker vil forsvinne etter hvert som de tidligere ansatte i Voldtektsgruppen slutter i Kripos.
 
-til at Kontoret for voldsoffererstatning vil være
-bundet av politiet og påtalemyndighetens valg av
-bestemmelse i straffeloven.
-I en nylig avgjørelse knyttet til den nye voldserstatningsloven konkluderer Sivilrettsforvaltningen med at Kontoret for voldsoffererstatning ikke
-lenger skal kunne vurdere saksforholdet i henlagte straffesaker under en annen straffebestemmelse enn det påtalemyndigheten har gjort i sin
-etterforskning. I avgjørelsen skriver Sivilrettsforvaltningen:
-«Voldserstatningsmyndighetene har, slik Sivilrettsforvaltningen ser det, ikke bedre forutsetninger enn påtalemyndigheten til å vurdere
-sakens faktiske side og hvilket straffebud saken
-hører inn under. (…) Videre må voldserstatningsmyndighetene kunne legge til grunn at
-politiet vil endre kodingen, dersom etterforskningen gir grunnlag for det, jf. riksadvokatens
-rundskriv nr. 3/2018 [RA-2018-3].»9
-Både Kontoret for voldsoffererstatning og Juridisk rådgivning for kvinner (JURK) erfarer imidlertid at politiet noen ganger registrerer saker
-under feil straffebestemmelse.10 Det kan for
-eksempel hende at politiet registrerer en sak som
-seksuelt krenkende atferd etter straffeloven § 298,
-når den egentlig burde vært registrert som voldtekt av barn under 14 år etter straffeloven § 299.
-Dersom Kontoret for voldsoffererstatning ikke
-har mulighet til å foreta en selvstendig vudering
-av straffebudene, vil resultatet være at den utsatte
-ikke har rett til erstatning, fordi § 298 ikke gir
-krav på erstatning i henhold til voldserstatningsloven § 1.
-Et annet aktuelt tilfelle kan være at en sak som
-er registrert som voldtekt etter § 291, ikke oppfyller kravet etter denne bestemmelsen, men for
-eksempel oppfyller kravene etter § 297 om seksuell handling uten samtykke, som også gir rett til
-erstatning. I slike tilfeller vil ikke Kontoret for
-voldsoffererstatning kunne innvilge erstatning til
-den utsatte.
+Kripos gjennomgår ikke lenger alle anmeldte voldtektssaker, og det finnes heller ikke lenger en helhetlig oversikt over voldtektssituasjonen i Norge. En slik oversikt fantes tidligere og hadde informasjon om karakteristikker ved de anmeldte voldtektene hvert år. Oversikten var viktig også for andre enn politiet og påtalemyndigheten.
 
-bistandsadvokat omfatter ikke å søke om voldserstatning fra staten». Denne endringen kom inn i
-loven ved vedtakelse av voldserstatningsloven i
-2022. Tidligere hadde utsatte rett til bistand fra
-advokat ved søknad om voldsoffererstatning.
-Ifølge voldserstatningsloven § 10 kan utsatte få
-dekket utgifter til advokat «[d]ersom sakens
-omfang eller kompleksitet tilsier det». Ifølge forarbeidene er dette opp til Kontoret for voldsoffererstatning å vurdere dette:
-«Kontoret for voldsoffererstatning må gjøre en
-konkret vurdering av om saken var så komplisert eller omfattende at det var behov for advokat til å fremme søknad.»11
-Dette innebærer at fornærmede vanligvis må
-fremme sitt erstatningskrav uten bistand fra advokat. Denne endringen har vært utsatt for betydelig
-kritikk fra bistandsadvokater og organisasjoner
-som arbeider for rettighetene til personer som er
-ofre for voldtekt og vold i nære relasjoner. En
-bistandsadvokat uttaler seg for eksempel til NRK:
-«Bistandsadvokat Anette Torgersen, medlem
-av utvalet for bistandsadvokatar i Advokatforeininga, seier til NRK at det ikkje er så enkelt.–
-Det er mange spørsmål i skjemaet, fleire av dei
-obligatoriske. Du må mellom anna leggje inn
-politidistrikt og krysse av for rett straffebestemming. Om ikkje får du feilmelding og får
-ikkje sende inn skjemaet. Ho trur mange med
-krav på erstatning, fall av alt her.»12
-Bistandsadvokaten mener altså at skjemaet for
-voldsoffererstatning er utformet slik at mange
-ikke vil klare det, selv i de enkle tilfellene. I
-samme reportasje uttaler også en administrativ
-leder for et senter mot seksuelle overgrep seg om
-lovendringene:
-«– Å søke om erstatning er komplekst, seier
-Heidi Studer Andersson. Ho er administrasjonssjef ved Senter mot seksuelle overgrep,
-Nok. Oslo. Ho seier det er gjort vesentlege innskrenkingar for dei utsette i lova. Også ho meiner det er eit problem at ein ikkje lenger har
-krav på bistandsadvokat.»13
+Utvalget stiller spørsmål ved hvordan politiet og påtalemyndigheten skal sørge for kunnskap og kompetanseutvikling i håndtering av voldtektssaker når det ikke lenger finnes et sentralt ekspertorgan. Selv om politireformen forutsatte at politidistriktene skulle bygge robuste fagmiljøer, har utredningen vist at dette ikke har blitt gjennomført.
 
-21.5 Bistandsadvokat i saker om
-voldserstatning
-Det følger av straffeprosessloven § 107 c femte
-ledd andre punktum at «[o]ppdraget som
-11
-9
+Se utvalgets forslag til tiltak 22.5.3: «Permanent voldtektsseksjon ved Kripos.»
 
-VEM-2023-10517.
-10 Kontoret for voldsoffererstatning (2023) s. 3.
+## Mangelfull etterforskning
 
-12
-13
+Utredningen har også vist en rekke mangler ved etterforskningen av voldtektssaker. Voldtektssaker beskrives som vanskelige å etterforske. Strafferettens strenge krav til bevis gjør at mange saker må henlegges. De høye henleggelsestallene og den lave oppklaringsprosenten gir likevel grunn til å undersøke hva som skjer i håndteringen av voldtektssaker i politiet og påtalemyndigheten, slik utvalget har gjort.
 
-Prop. 238 L (2020–2021), pkt. 18.4.4.
-Waaler (2023).
-Waaler (2023).
+Riksadvokatens vurdering av funnene i kvalitetsundersøkelsen fra 2020 er at det gjøres mye godt etterforskningsarbeid. Samtidig viser undersøkelsene en rekke mangler og avvik fra gjeldende føringer i rundskriv og rutiner.
 
-[Side 183]
+Det er særlig bekymringsverdig at svært mange saker blir liggende uten at noe skjer. Halvparten av sakene i kvalitetsundersøkelsen fra 2020 ble liggende i fire uker eller mer uten at noe skjedde. 15 prosent av sakene hadde en saksbehandlingstid på over et år. Inaktiviteten tilsier at sakene ikke prioriteres i tråd med Riksadvokatens intensjon. Det er uklart hva dette skyldes, men det er åpenbart negativt for fornærmede, eventuelle mistenkte eller siktede og for muligheten til å oppklare sakene.
 
-NOU 2024: 4
-Voldtekt – et uløst samfunnsproblem
+En forklaring på lang saksbehandlingstid og «liggetid» kan være at etterforskningen ikke styres godt nok, noe manglene knyttet til bruk av etterforskningsplaner er et tegn på. Selv om det siden 2013 har vært en klar hovedregel at etterforskningsplaner skal benyttes, manglet det planer i 32 prosent av de aktuelle sakene i kvalitetsundersøkelsen. Mange av etterforskningsplanene som var opprettet, var langt fra gode nok.
 
-21.6 Utvalgets vurdering av endringene
-i voldserstatningsloven
-Utvalget mener at endringene som kom med den
-nye voldserstatningsloven, har innskrenket voldtektsutsattes rettigheter. Innføringen av frister,
-partstatus til utøver og svekkelse av retten til
-bistandsadvokat innebærer til sammen at voldtektsutsatte er langt dårligere stilt enn tidligere,
-når det gjelder muligheten til å søke erstatning fra
-staten.
-Utvalget mener at fristene for å søke om erstatning er for korte. Fristene for å søke erstatning fra
-staten bør være minst like lange som de alminnelige foreldelsesreglene. Det er ingen grunn til at
-fristene skal være kortere overfor staten. Voldtektsutsatte bruker ofte tid på å anmelde saken og
-er ofte i en krevende situasjon hvor det kan være
-vanskelig å overholde knappe tidsfrister. Slik
-utvalget ser det, setter den nye loven utsatte for
-voldtekt i en dårligere posisjon enn de var etter
-det tidligere regelverket på dette punktet.
-Utvalget mener videre at den påståtte skadevolder ikke bør være part i saken når staten ikke
-skal søke regress. Slik utvalget ser det, er det ikke
-et menneskerettslig krav at den påståtte skadevolder skal være part i saken. Som vist under punkt
-21.3 ble partstatus i utgangspunktet innført under
-forutsetning av at staten skulle kreve regress i
+Funnene knyttet til søk etter DNA-spor er også bekymringsverdig, både at søk gjøres i for få saker, og at det som regel ikke gjøres av kriminalteknikere. Kvalitetsundersøkelsen viser også andre mangler som saksdokumentene ikke kan forklare.
 
-181
+Utvalget mener det er liten grunn til å tro at falske anmeldelser utgjør en stor andel av anmeldelsene om voldtekt. Utvalget legger til grunn at tiltak for en effektiv etterforskning også vil sørge for avdekking av eventuelle falske anmeldelser. En effektiv etterforskning vil også ivareta den mistenktes rettssikkerhet.
 
-Kapittel 21
+Utvalget foreslår flere tiltak for å heve kvaliteten på etterforskningen (se punkt 22.5).
 
-disse sakene. Da adgangen til å kreve regress ble
-endret, burde også partstatusen vært fjernet. I
-slike tilfeller er erstatningskravet en sak mellom
-den utsatte og staten, ikke mellom den utsatte og
-den påståtte skadevolderen.
-Utvalget vil videre trekke frem Istanbulkonvensjonen artikkel 30 nr. 2 siste setning: «[d]ette
-er ikkje til hinder for at partane kan krevje regress
-frå valdsutøvaren for tilkjent erstatning, så lengje
-det blir teke tilbørleg omsyn til offeret sin
-tryggleik.» Dette skulle tilsi at i saker der det ikke
-kreves tilbakebetaling, vil offerets trygghet veie
-særlig tungt, noe som klart trekker i retning av at
-den påståtte skadevolder ikke innrømmes partsrettigheter. Som utvalget har vist til vil innrømmelse av partsrettigheter kunne være farlig for
-den utsatte.
-Utvalget mener også at utsatte bør ha rett til
-bistand fra advokat betalt av staten, når de søker
-erstatning. Selv om myndighetene anser prosessen for å søke om voldserstatning som enkel, vil
-den ikke nødvendigvis oppleves slik av utsatte. Å
-få bistand fra en advokat kan være avgjørende for
-at vedkommende velger å søke og klarer å fylle ut
-søknaden på en god måte.
-Se utvalgets forslag til tiltak 22.5.15: «Styrking
-av voldserstatningsordningen for voldtektsutsatte.»
+## Manglende oppmerksomhet på fenomenforståelse
 
-[Side 184]
+Det er urovekkende at voldtektssaker flere steder i landet håndteres av etterforskere og påtalejurister uten spesialkompetanse på seksuallovbrudd. Å etterforske en alvorlig seksuell krenkelse er noe annet enn å etterforske et tyveri eller et bedrageri. Bevisene består ofte av motstridende forklaringer, og det krever fenomenforståelse å gjennomføre effektiv etterforskning i sakene. Dette er ikke nytt, og spesialkompetanse i sakene har blitt anbefalt av flere tidligere utredninger. Det ble forutsatt ved politireformen, og Politidirektoratet erkjenner at sakene krever spesialkompetanse.
 
-[Side 185]
+Fagutviklingsapparatet skal sørge for kunnskapsutvikling i politiet og påtalemyndigheten, men fokuserer på generelle etterforskningsmetoder. Det ser ut til å være en generell trend at fokuset flyttes fra fenomener til metoder. Utvalget mener dette er uheldig og ikke tilstrekkelig til å sørge for god håndtering av voldtektssaker.
+
+Utvalget mener at god etterforskning av voldtektssaker krever forståelse for voldtekt som fenomen. Voldtektssakene har særtrekk og utfordringer som må håndteres gjennom sakspesifikke kompetansetiltak. Sakene etterforskes ikke godt nok i dag, og utvalget kan ikke se at etterforskningen kan holde tilstrekkelig kvalitet uten spesialiserte etterforskere og påtalejurister, og uten at fenomenforståelsen løftes frem i hele politiet og påtalemyndigheten.
+
+Ikke minst er det viktig at de som etterforsker voldtektssaker, forstår at de fornærmede i disse sakene ikke bør behandles på samme måte som fornærmede i andre, mindre traumatiske saker.
+
+Se utvalgets forslag til tiltak: 22.5.5: «Egne etterforskningsenheter og påtalejurister for saker om voldtekt og seksuallovbrudd.»
+
+## Mangelfull ivaretakelse av fornærmede
+
+Det høye antallet henleggelser og frifinnelser innebærer at et stort antall fornærmede opplever at saken deres ender på denne måten. Fornærmede kan oppleve dette som å ikke bli trodd. Det må være en grunnleggende erkjennelse at de fornærmede i disse sakene skiller seg fra fornærmede i mange andre straffesaker. De har vært utsatt for en traumatisk opplevelse, og det er denne opplevelsen som er gjenstand for etterforskningen. Som vist i kapittel 9 har en voldtekt ofte store helsemessige konsekvenser for utsatte. Mange voldtektsutsatte utvikler posttraumatisk stresslidelse (PTSD). Det er grunn til å tro at følelsen av å ikke bli trodd på at man har blitt voldtatt, kan bidra til å forverre slike symptomer.
+
+Fra et samfunnsperspektiv er det ønskelig at voldtektsutsatte anmelder hendelsen til politiet. Dette stiller etter utvalgets skjønn enda større krav til at fornærmede blir godt ivaretatt gjennom straffesaksprosessen. Myndighetene har et stort ansvar for å ivareta voldtektsutsatte som velger å anmelde saken til politiet. Betydningen av dette understrekes ytterligere ved at svært mange utsatte er ungdommer og unge voksne, og mange har i tillegg ulike sårbarheter.
+
+Utvalget tviler ikke på at mange i politiet og påtalemyndigheten er opptatt av å møte fornærmede på en god måte, og gjør det de kan for å få det til. For at de fornærmede skal bli tilstrekkelig ivaretatt, er det likevel nødvendig med gode systemer og rutiner som ikke lar det være opp til den enkelte etterforsker å finne ut hvordan dette skal gjøres.
+
+Utvalget vil også påpeke at det ikke er noen motstrid mellom å ivareta rettssikkerheten til den mistenkte og å ivareta behovene til de fornærmede i disse sakene. Siktedes rettigheter og strafferettens premisser skal ligge fast, men en mer ivaretakende prosess er mulig innenfor disse rammene.
+
+Målet bør være at fornærmede opplever å bli godt ivaretatt, tatt på alvor og møtt med empati og forståelse. Dette krever at etterforskere og påtalejurister blir trent i å møte og snakke med personer som er blitt utsatt for seksuell vold. Det stiller også krav til prosessen. Det er viktig at politiet sørger for å oppfylle sine plikter til å holde fornærmede informert under etterforskningen og å sørge for at fornærmede har en kontaktperson.
+
+Utvalget har merket seg at støttesentrene for kriminalitetsutsatte kan være et godt tilbud for utsatte for voldtekt. Sentrene har samtidig et stort potensial når det gjelder å finne sin form og å nå ut til fornærmede som kan ha nytte av dem. Utvalget kan ikke se at Politidirektoratets nye retningslinjer for støttesentrene utbedrer manglene som Riksrevisjonen påpekte i sin undersøkelse. Retningslinjene er vage og stiller ingen krav til hva slags kompetanse ansatte ved sentrene skal ha. Utvalget vil påpeke at det er viktig at sentrene utvikler fenomenforståelse og kompetanse om voldtekt og voldtektsutsatte.
+
+Bistandsadvokaten er også svært viktig for fornærmede i voldtektssaker. Utvalget er bekymret for at fornærmede ikke alltid informeres om sine rettigheter, og for at bistandsadvokaten ikke er til stede under mange avhør av fornærmede. Det er svært viktig at fornærmede gis mulighet til å la seg bistå av en advokat helt fra begynnelsen. Politiet må ha gode og faste rutiner for å sørge for dette. Også Riksadvokaten påpeker at det er grunn til å undersøke hvorfor ikke bistandsadvokaten er til stede i flere av avhørene.[^663]
+
+Ikke minst er det viktig at bistandsadvokaten som oppnevnes, er i stand til å ivareta fornærmedes interesser på en god måte. Det innebærer for eksempel å be om at politiet utfører ulike etterforskningsskritt, og å be om oppdateringer og informasjon om etterforskningen. Det kan også innebære hjelp til å søke om voldserstatning og klage på påtalevedtak.
+
+Utvalget legger også til grunn at gratis bistandsadvokat før anmeldelse er en viktig rettighet for voldtektsutsatte. Ordningen gir utsatte anledning til å snakke med en advokat om flere ting rundt spørsmålet om anmeldelse. Den utsatte kan ha behov for hjelp til å vurdere om det vedkommende har blitt utsatt for, faller inn under voldtektsbestemmelsen i straffeloven. Bistandsadvokaten kan også fortelle om hvordan en etterforskning foregår og hva den utsatte vil måtte gjøre dersom vedkommende velger å anmelde.
+
+Utvalget har merket seg at politiet opplever å motta en del anmeldelser som gjelder hendelser som faller utenfor definisjonen av voldtekt i straffeloven. Utvalget vil understreke at de som anmelder slike hendelser, med all sannsynlighet gjør det fordi de opplever det som har skjedd som en alvorlig krenkelse. En slik hendelse kan ha de samme konsekvensene for den utsattes helse og livskvalitet som en hendelse som faller innenfor straffelovens voldtektsbestemmelse. Utvalget er bekymret for hvordan denne gruppen møtes av politiet og vil fremheve at også disse må møtes med respekt og empati selv om det ikke skal opprettes sak eller saken raskt henlegges. Utvalget mener også at det er grunn til å se nærmere på funnene fra forskningen om falske anmeldelser, som omtalt under 19.2.5. Det er viktig at utsatte som anmelder voldtekt til politiet i god tro, ikke risikerer å bli anmeldt for falsk anklage.
+
+Se utvalgets forslag til tiltak 22.5.13: «Et større løft for fornærmede.»
+
+## Utfordringer med saker om barn
+
+Utvalget mener at barnehusene er et svært godt tiltak for å ivareta barn som er utsatt for voldtekt. Barnehusene har bred og solid kompetanse og lokalene er egnet for barn. Tiltaket er viktig både for å ivareta barnet på en god måte og for å ha de beste forutsetningene for at barnet forklarer seg godt om det som har skjedd. Barnehusene brukes i utgangspunktet for barn under 16 år. Utvalget mener det er grunn til at også barn mellom 16 og 18 år ivaretas på barnehusene.
+
+Utvalget er bekymret for at enkelte politidistrikt avvikler tiltak rettet mot avdekking og etterforskning av overgrep mot barn. Det vises for eksempel til nedleggelsen av Operasjon Spiderweb i Sør-Vest politidistrikt. Utvalget stiller spørsmål ved om politidistriktene har ressurser til å prioritere saker om voldtekt av barn i tilstrekkelig grad. Særlig saker om internettrelaterte voldtekter utfordrer politiets kapasitet. Politiet mottar en rekke tips gjennom NCMEC-systemet, og oppfølging av disse kan lede til avdekking av mange og alvorlige overgrep. Utvalget viser for eksempel til en sak omtalt i media der 40 barn angivelig ble utsatt for overgrep i en sak hvor politiet hadde mottatt tips om gjerningspersonen i en NCMEC-rapport.
+
+Se utvalgets forslag til tiltak 22:5.9: «Retningslinjer for håndtering av «NCMEC-saker»« og 22.5.12: «Avhør av fornærmede mellom 16 og 18 år foretas på barnehus.»
+
+## Identifisering og ivaretakelse av sårbare voksne
+
+Utvalget merker seg undersøkelser som viser at svært mange fornærmede i voldtektssaker har ulike sårbarhetsfaktorer. Dette er urovekkende, og utvalget er usikre på om dette tas godt nok hensyn til under etterforskningen i dag.
+
+Utvalget stiller spørsmål ved om terskelen for sårbarhet som gir rett til tilrettelagt avhør, er for høy. Det er viktig at etterforskningen identifiserer og tar hensyn til sårbarhet både for å legge til rette for en god nok opplysning av saken og for å ivareta fornærmede på en god måte. Noen former for sårbarhet kan innebære at fornærmede har vanskelig for å uttrykke seg klart om det som har skjedd. Dersom politiet ikke hensyntar dette, vil viktig informasjon kunne gå tapt. Ulike former for sårbarhet kan også innebære at etterforskningen blir en særlig stor belastning for den fornærmede. Utvalget mener derfor at det er grunn til å vurdere å inkludere flere fornærmede i gruppen som gis tilrettelagte avhør.
+
+Funnene fra NTNU-undersøkelsen om at etterforskningen i saker med sårbare fornærmede har dårligere kvalitet enn etterforskningen i andre saker, er urovekkende.[^664] Det er grunn til å undersøke dette nærmere.
+
+Også andre fornærmede med sårbarheter må identifiseres og ivaretas selv om de ikke skal gis tilrettelagt avhør. Politiet må sørge for gode rutiner for å ivareta sårbare fornærmede på en god måte.
+
+Se utvalgets forslag til tiltak 22.5.11: «Vurdering av gruppen for tilrettelagte avhør.»
+
+## Mangelfull kunnskap om politiet og påtalemyndighetens håndtering av voldtektssaker
+
+For at håndteringen av voldtektssaker i politiet og påtalemyndigheten skal kunne forbedres, må myndighetene ha kunnskap om hvordan sakene håndteres og hvordan de burde håndteres. Slik utvalget ser det, finnes det det ikke god nok kunnskap om dette i dag.
+
+I utvalgets utredning har rapporter fra politiet og påtalemyndigheten utgjort en sentral del av kunnskapsgrunnlaget. Særlig sentrale er Riksadvokatens kvalitetsundersøkelser, men også inspeksjonsrapporter fra statsadvokatembetene bidrar med innsikt i håndteringen av sakene. Kvalitetsundersøkelsene og inspeksjonsrapportene er nyttige, og arbeidet med oppfølging av disse kan bidra til å heve kvaliteten på etterforsknings- og påtalearbeidet. De må samtidig leses i lys av at de er utformet av myndighetene selv, og at de ikke baserer seg på forskningsmetoder.
+
+Erfaringer fra Storbritannia: «End to End Rape Review» og «Operation Soteria»
+
+Britiske myndigheter startet i 2019 en «end-to-end rape review» for å undersøke hvordan politiet, påtalemyndigheten og domstolene håndterer voldtektssaker fra de blir anmeldt til de blir avsluttet. Bakgrunnen var det svært lave antallet voldtektssaker som endte med tiltale og dom. Evalueringen besto av en grundig gjennomgang av politiet og påtalemyndighetens håndtering av sakene, og fant at rettssystemet sviktet voldtektsutsatte.
+
+Et større samarbeidsprosjekt (Project Soteria) mellom akademikere og politiet var et av tiltakene som fulgte av evalueringen.<sup>1</sup> Forskerne gjorde «dypdykk» i og analyserte et stort antall politisaker om voldtekt. I tillegg brukte de fokusgrupper, intervjuet utsatte og etterforskere og undersøkte hva slags utdanning og opplæring etterforskere fikk.<sup>2</sup>
+
+Forskerne utviklet et rammeverk for å forbedre etterforskningen av voldtektssaker basert på funnene.<sup>3</sup> Rammeverket består av fem pilarer: (1) en etterforskning som fokuserer på gjerningspersonen, (2) strategier mot gjentakende overgripere, (3) en tilnærming til utsatte basert på prosessuell rettferdighet, (4) kompetanseutvikling og ivaretakelse av politipersonell og (5) strategisk bruk av informasjon og digitale bevis.
+
+Arbeidet resulterte i en «National Operating Model» som ble innført i alle politidistriktene i 2023.
+
+<sup>1</sup> Stanko & Crew (2022).
+
+<sup>2</sup> Se omtale på Home Office UK (2022).
+
+<sup>3</sup> Hohl & Stanko (2022).
+
+Kilde: Home Office (2021); George & Ferguson (2021).
+
+Rammeslutt
+
+Politiet og påtalemyndigheten har heller ikke et godt system for å utvikle kunnskap om god håndtering av voldtektssaker. Den mangelfulle kunnskapen har som konsekvens at verken Justis- og beredskapsdepartementet, Politidirektoratet, Riksadvokaten eller Kripos kan gi gode svar på viktige spørsmål om etterforskningen av disse sakene. Fagutviklingsapparatet skal bidra til systematisert kunnskap på etterforskningsfeltet, men fokuserer på generelle etterforskningsgrep fremfor spesifikke kriminalitetsformer.
+
+Det er behov for å vite mer om hvorfor det ikke tas ut flere tiltaler og hvorfor mange saker blir liggende uten at noe skjer. Kvalitetsundersøkelsene viser at mange etterforskningsskritt ikke gjennomføres slik de skal, men viser ofte ikke hva årsaken er. Det er også behov for kunnskap om hvordan politiet og påtalemyndigheten tar hensyn til fornærmede med ulike former for sårbarhet eller levekårsutfordringer. Se også punkt 20.8 om behov for mer kunnskap om etterforskningen i disse sakene.
+
+Utvalget mener det er nødvendig at kunnskap om håndteringen av voldtektssaker produseres i samarbeid med forskere. Dette vil både sørge for at kunnskapen holder forskningsmessig kvalitet, og at håndteringen av voldtektssaker blir gjenstand for et eksternt blikk.
+
+Se utvalgets forslag til tiltak 22.5.4: «En forskningsbasert evaluering av håndteringen av voldtektssaker.»
+
+# Voldserstatning
+
+## Innledning
+
+Istanbulkonvensjonen artikkel 30 pålegger norske myndigheter å sikre at voldtektsutsatte kan kreve erstatning fra utøveren og i visse tilfeller fra staten. Voldtektsutsatte har rett til erstatning fra staten etter lov om erstatning fra staten til voldsutsatte (voldserstatningsloven) § 1 på visse vilkår. I henhold til § 4 kan voldtektsutsatte kreve erstatning for «skade på person, menerstatning, erstatning for en persons død og oppreisning».
+
+Voldserstatningsloven trådte i kraft 1. januar 2023 og erstattet den tidligere voldsoffererstatningsloven.[^665] Den nye loven inneholder flere endringer som påvirker voldtektsutsattes rett til erstatning. Utvalget er ikke bedt spesifikt om å se på det, men finner at voldserstatningsordningen har stor betydning for voldtektsutsatte. Utvalget finner derfor grunn til å beskrive endringene og konsekvensene av dem.
+
+I dette kapittelet beskriver utvalget voldtektsutsattes rett til erstatning fra staten med særlig henblikk på endringene som ble gjort ved vedtakelsen av voldserstatningsloven.
+
+## Voldtektsutsattes rett til erstatning fra staten
+
+### Rett til erstatning ved dom og henleggelse
+
+Rett til erstatning kan følge av dom eller innvilges ved søknad til Kontoret for voldsoffererstatning. Dersom den utsatte er tilkjent erstatning ved dom, har vedkommende rett til å få kravet utbetalt fra staten i henhold til voldserstatningsloven § 6 dersom saken er anmeldt.
+
+Den utsatte kan ha rett til erstatning også i tilfeller hvor det ikke følger av en dom. Slike tilfeller reguleres av § 7, som har flere alternativer for når utsatte har rett til erstatning. Mest aktuelt for voldtektssaker er tilfeller hvor «straffesaken er avsluttet uten domstolbehandling» i bokstav a. Ifølge lovproposisjonen omfatter dette saker «som er avgjort i konfliktrådet eller ved påtaleunnlatelse og saker som er henlagt etter bevisets stilling, på grunn av foreldelse eller fordi den påståtte skadevolderen er død, ukjent, under 15 år eller utilregnelig.»[^666]
+
+### Frist for å søke erstatning
+
+Voldserstatningsloven har flere frister for når den utsatte må søke om erstatning for å bevare sin rett til slik erstatning. Det gjelder ulike frister for saker hvor erstatning følger av dom og hvor erstatning innvilges av Kontoret for voldsoffererstatning.
+
+I saker hvor retten til erstatning følger av en rettskraftig dom i henhold til § 6, må den utsatte fremme krav om erstatning til Kontoret for voldsoffererstatning innen seks måneder fra dommen ble rettskraftig.
+
+Fristen for å søke om erstatning i saker hvor erstatning ikke er tilkjent ved dom, følger av § 7 annet ledd:
+
+«Søknaden må fremmes innen ett år etter at endelig påtaleavgjørelse er truffet. Er saken henlagt på grunn av strafferettslig foreldelse, må søknaden i tillegg være fremmet før kravet mot skadevolderen er foreldet etter reglene i foreldelsesloven.»
+
+I den tidligere voldsoffererstatningsloven var fristen for å søke om erstatning knyttet til foreldelsesreglene for erstatningskravet. Voldsoffererstatningsloven § 3 andre ledd lød slik:
+
+«Søknaden må være fremsatt for Kontoret for voldsoffererstatning før erstatningskravet mot skadevolderen er foreldet etter reglene i foreldelsesloven. Det er likevel tilstrekkelig at søknaden fremsettes før skadevolderens eventuelle straffansvar er foreldet etter reglene i straffeloven eller før skadelidte fyller 21 år.»
+
+Fristene i den nye loven er altså betydelig kortere enn fristene etter den gamle loven. Endringen innebærer også at det gjelder en frist for å søke om erstatning fra staten, og en annen frist for å kreve erstatning fra utøver via domstolene.
+
+## Den påståtte skadevolder som part i saken
+
+Voldserstatningsloven § 7 fjerde ledd fastsetter at «\[d\]en påståtte skadevolderen skal være part i saken.» Det innebærer at vedkommende får flere partsrettigheter i saken.
+
+I saker som går for domstolen, vil den påståtte skadevolderen alltid være part i saken. Lovendringen innebærer at den påståtte skadevolder også er part i saker som kun behandles av Kontoret for voldsoffererstatning. Den påståtte skadevolder var ikke part i disse sakene etter voldsoffererstatningsloven som gjaldt frem til 2023.
+
+Endringen møtte mye kritikk under høringen av lovforslaget. Kritikken kom fra frivillige organisasjoner, bistandsadvokater og voldsutsatte. Temaet ble høsten 2023 også omtalt i media hvor utsatte for vold og overgrep har fortalt om sine erfaringer.[^667] Kritikken handler om at det for utsatte for vold i nære relasjoner og seksuell vold kan være særlig utfordrende at den påståtte skadevolder er part i saken.
+
+Som part vil vedkommende kunne få innsyn i sakens dokumenter som vil inneholde en rekke personlige opplysninger om den utsatte. Slike opplysninger kan for eksempel være erklæringer fra leger og psykologer, vurderinger av arbeidsevne og vurderinger av forholdet til egne barn. Bistandsadvokater og utsatte trekker frem at slikt innsyn kan være svært invaderende for den utsatte. Det trekkes også frem at det for noen kan være farlig. Det gjelder saker hvor den utsatte har grunn til å frykte den påståtte skadevolderen, og noen saker hvor den utsatte lever i skjul for gjerningspersonen. Per november 2023 hadde 74 personer søkt om innsyn, ifølge NRK.[^668]
+
+Forarbeidene til loven drøfter de menneskerettslige rammene for når en skadevolder må innrømmes partsrettigheter.[^669] Forarbeidene konkluderer med at skadevolder må innrømmes partsrettigheter når «staten skal holde skadevolder ansvarlig for erstatningsbeløpet».[^670] At staten skulle kreve regress fra skadevolder også i saker hvor erstatning ikke ble tilkjent ved dom, var en del av lovforslaget i proposisjonen. Forslaget til § 7 femte ledd lød slik:
+
+«Kontoret for voldsoffererstatning fatter vedtak om erstatning og regress. Når vedtaket er endelig avgjort, utbetaler Kontoret for voldsoffererstatning erstatningen og fremmer regresskravet, jf. § 11. Om ikke annet følger av loven her, kommer forvaltningslovens bestemmelser til anvendelse.»
+
+Da proposisjonen ble behandlet i Stortinget, fremmet justiskomiteens flertall fra Arbeiderpartiet, Senterpartiet og Sosialistisk Venstreparti, forslag om å fjerne statens adgang til å kreve regress i disse sakene.[^671] Årsaken var at regressadgang kunne føre til at skadevolder trakk saken inn for domstolene, og dermed gjorde prosessen med å få voldserstatning vanskeligere for utsatte. Loven som ble vedtatt, ga derfor ikke staten adgang til å søke regress i saker hvor erstatningen ikke er tilkjent ved rettskraftig dom.
+
+Forarbeidene drøfter imidlertid ikke om menneskerettighetene krever at den påståtte skadevolder må gis partsrettigheter også der det ikke kreves regress fra vedkommende. Argumentasjonen hviler på at staten skal kreve regress ettersom det var en del av det opprinnelige lovforslaget. Utvalget kan ikke se at det finnes menneskerettslige forpliktelser til å gi skadevolder partsrettigheter i saker hvor staten ikke skal søke regress fra skadevolder.[^672]
+
+## Kontoret for voldsoffererstatnings anvendelse av straffebestemmelser
+
+Tidligere var det slik at Kontoret for voldsoffererstatning foretok en selvstendig vurdering av faktum i saken, og anvendte de straffebestemmelsene de fant grunnlag for. Etter en nylig avgjørelse fra Sivilrettsforvaltningen, som er klageorgan for Kontoret for voldsofferstatning, ser det ut til at Kontoret for voldsoffererstatning vil være bundet av politiet og påtalemyndighetens valg av bestemmelse i straffeloven.
+
+I en nylig avgjørelse knyttet til den nye voldserstatningsloven konkluderer Sivilrettsforvaltningen med at Kontoret for voldsoffererstatning ikke lenger skal kunne vurdere saksforholdet i henlagte straffesaker under en annen straffebestemmelse enn det påtalemyndigheten har gjort i sin etterforskning. I avgjørelsen skriver Sivilrettsforvaltningen:
+
+«Voldserstatningsmyndighetene har, slik Sivilrettsforvaltningen ser det, ikke bedre forutsetninger enn påtalemyndigheten til å vurdere sakens faktiske side og hvilket straffebud saken hører inn under. (…) Videre må voldserstatningsmyndighetene kunne legge til grunn at politiet vil endre kodingen, dersom etterforskningen gir grunnlag for det, jf. riksadvokatens rundskriv nr. 3/2018 \[RA-2018-3\].»[^673]
+
+Både Kontoret for voldsoffererstatning og Juridisk rådgivning for kvinner (JURK) erfarer imidlertid at politiet noen ganger registrerer saker under feil straffebestemmelse.[^674] Det kan for eksempel hende at politiet registrerer en sak som seksuelt krenkende atferd etter straffeloven § 298, når den egentlig burde vært registrert som voldtekt av barn under 14 år etter straffeloven § 299. Dersom Kontoret for voldsoffererstatning ikke har mulighet til å foreta en selvstendig vudering av straffebudene, vil resultatet være at den utsatte ikke har rett til erstatning, fordi § 298 ikke gir krav på erstatning i henhold til voldserstatningsloven § 1.
+
+Et annet aktuelt tilfelle kan være at en sak som er registrert som voldtekt etter § 291, ikke oppfyller kravet etter denne bestemmelsen, men for eksempel oppfyller kravene etter § 297 om seksuell handling uten samtykke, som også gir rett til erstatning. I slike tilfeller vil ikke Kontoret for voldsoffererstatning kunne innvilge erstatning til den utsatte.
+
+## Bistandsadvokat i saker om voldserstatning
+
+Det følger av straffeprosessloven § 107 c femte ledd andre punktum at «\[o\]ppdraget som bistandsadvokat omfatter ikke å søke om voldserstatning fra staten». Denne endringen kom inn i loven ved vedtakelse av voldserstatningsloven i 2022. Tidligere hadde utsatte rett til bistand fra advokat ved søknad om voldsoffererstatning.
+
+Ifølge voldserstatningsloven § 10 kan utsatte få dekket utgifter til advokat «\[d\]ersom sakens omfang eller kompleksitet tilsier det». Ifølge forarbeidene er dette opp til Kontoret for voldsoffererstatning å vurdere dette:
+
+«Kontoret for voldsoffererstatning må gjøre en konkret vurdering av om saken var så komplisert eller omfattende at det var behov for advokat til å fremme søknad.»[^675]
+
+Dette innebærer at fornærmede vanligvis må fremme sitt erstatningskrav uten bistand fra advokat. Denne endringen har vært utsatt for betydelig kritikk fra bistandsadvokater og organisasjoner som arbeider for rettighetene til personer som er ofre for voldtekt og vold i nære relasjoner. En bistandsadvokat uttaler seg for eksempel til NRK:
+
+«Bistandsadvokat Anette Torgersen, medlem av utvalet for bistandsadvokatar i Advokatforeininga, seier til NRK at det ikkje er så enkelt.– Det er mange spørsmål i skjemaet, fleire av dei obligatoriske. Du må mellom anna leggje inn politidistrikt og krysse av for rett straffebestemming. Om ikkje får du feilmelding og får ikkje sende inn skjemaet. Ho trur mange med krav på erstatning, fall av alt her.»[^676]
+
+Bistandsadvokaten mener altså at skjemaet for voldsoffererstatning er utformet slik at mange ikke vil klare det, selv i de enkle tilfellene. I samme reportasje uttaler også en administrativ leder for et senter mot seksuelle overgrep seg om lovendringene:
+
+«– Å søke om erstatning er komplekst, seier Heidi Studer Andersson. Ho er administrasjonssjef ved Senter mot seksuelle overgrep, Nok. Oslo. Ho seier det er gjort vesentlege innskrenkingar for dei utsette i lova. Også ho meiner det er eit problem at ein ikkje lenger har krav på bistandsadvokat.»[^677]
+
+## Utvalgets vurdering av endringene i voldserstatningsloven
+
+Utvalget mener at endringene som kom med den nye voldserstatningsloven, har innskrenket voldtektsutsattes rettigheter. Innføringen av frister, partstatus til utøver og svekkelse av retten til bistandsadvokat innebærer til sammen at voldtektsutsatte er langt dårligere stilt enn tidligere, når det gjelder muligheten til å søke erstatning fra staten.
+
+Utvalget mener at fristene for å søke om erstatning er for korte. Fristene for å søke erstatning fra staten bør være minst like lange som de alminnelige foreldelsesreglene. Det er ingen grunn til at fristene skal være kortere overfor staten. Voldtektsutsatte bruker ofte tid på å anmelde saken og er ofte i en krevende situasjon hvor det kan være vanskelig å overholde knappe tidsfrister. Slik utvalget ser det, setter den nye loven utsatte for voldtekt i en dårligere posisjon enn de var etter det tidligere regelverket på dette punktet.
+
+Utvalget mener videre at den påståtte skadevolder ikke bør være part i saken når staten ikke skal søke regress. Slik utvalget ser det, er det ikke et menneskerettslig krav at den påståtte skadevolder skal være part i saken. Som vist under punkt 21.3 ble partstatus i utgangspunktet innført under forutsetning av at staten skulle kreve regress i disse sakene. Da adgangen til å kreve regress ble endret, burde også partstatusen vært fjernet. I slike tilfeller er erstatningskravet en sak mellom den utsatte og staten, ikke mellom den utsatte og den påståtte skadevolderen.
+
+Utvalget vil videre trekke frem Istanbulkonvensjonen artikkel 30 nr. 2 siste setning: «\[d\]ette er ikkje til hinder for at partane kan krevje regress frå valdsutøvaren for tilkjent erstatning, så lengje det blir teke tilbørleg omsyn til offeret sin tryggleik.» Dette skulle tilsi at i saker der det ikke kreves tilbakebetaling, vil offerets trygghet veie særlig tungt, noe som klart trekker i retning av at den påståtte skadevolder ikke innrømmes partsrettigheter. Som utvalget har vist til vil innrømmelse av partsrettigheter kunne være farlig for den utsatte.
+
+Utvalget mener også at utsatte bør ha rett til bistand fra advokat betalt av staten, når de søker erstatning. Selv om myndighetene anser prosessen for å søke om voldserstatning som enkel, vil den ikke nødvendigvis oppleves slik av utsatte. Å få bistand fra en advokat kan være avgjørende for at vedkommende velger å søke og klarer å fylle ut søknaden på en god måte.
+
+Se utvalgets forslag til tiltak 22.5.15: «Styrking av voldserstatningsordningen for voldtektsutsatte.»
 
 Del VI
+
 Utvalgets anbefalinger
 
-[Side 186]
+# Utvalgets tiltak
 
-[Side 187]
+## Innledning
 
-NOU 2024: 4
-Voldtekt – et uløst samfunnsproblem
+Det følger av mandatet at utredningen «skal inneholde anbefalinger om innretning på det forebyggende arbeidet, samt hvordan håndteringen av voldtekt i straffesakskjeden og i helse- og omsorgssektoren kan forbedres. Utvalget kan også fremme andre relevante tiltak dersom det vurderes å være hensiktsmessig».
 
-185
+Utredningen finner at til tross for at arbeidet mot voldtekt er en uttalt prioritet for regjeringen, lykkes ikke norske myndigheter i arbeidet med å forebygge og bekjempe voldtekt. Utvalget peker på flere områder der arbeidet mot voldtekt fremstår som fragmentert eller mangelfullt, og utredningen viser at voldtektsutsattes menneskerettigheter utfordres i Norge i dag.
 
-Kapittel 22
+Utvalget legger til grunn at forebygging og bekjempelse av voldtekt er en samfunnsutfordring som krever målrettet, tverrsektoriell innsats. For å lykkes er det nødvendig med et tydeligere og avklart lederskap og et dedikert arbeid for å utvikle en felles tilnærming på tvers av fagområder.
 
-Kapittel 22
+Et sentralt premiss for utvalgets anbefalinger er at arbeidet mot voldtekt tydeligere må ses i sammenheng med myndighetenes pågående arbeid mot vold og overgrep. Voldtekt er en form for seksuell, kjønnsbasert vold som rammer en betydelig andel jenter og kvinner i Norge.
 
-Utvalgets tiltak
-22.1 Innledning
-Det følger av mandatet at utredningen «skal inneholde anbefalinger om innretning på det forebyggende arbeidet, samt hvordan håndteringen av
-voldtekt i straffesakskjeden og i helse- og
-omsorgssektoren kan forbedres. Utvalget kan
-også fremme andre relevante tiltak dersom det
-vurderes å være hensiktsmessig».
-Utredningen finner at til tross for at arbeidet
-mot voldtekt er en uttalt prioritet for regjeringen,
-lykkes ikke norske myndigheter i arbeidet med å
-forebygge og bekjempe voldtekt. Utvalget peker
-på flere områder der arbeidet mot voldtekt fremstår som fragmentert eller mangelfullt, og utredningen viser at voldtektsutsattes menneskerettigheter utfordres i Norge i dag.
-Utvalget legger til grunn at forebygging og
-bekjempelse av voldtekt er en samfunnsutfordring
-som krever målrettet, tverrsektoriell innsats. For
-å lykkes er det nødvendig med et tydeligere og
-avklart lederskap og et dedikert arbeid for å
-utvikle en felles tilnærming på tvers av fagområder.
-Et sentralt premiss for utvalgets anbefalinger
-er at arbeidet mot voldtekt tydeligere må ses i
-sammenheng med myndighetenes pågående
-arbeid mot vold og overgrep. Voldtekt er en form
-for seksuell, kjønnsbasert vold som rammer en
-betydelig andel jenter og kvinner i Norge.
 Utvalget foreslår tiltak innen fem områder:
-– en helhetlig og samordnet politikk
-– forebygging
-– støttetjenester
-– straffeforfølgning
-– forskning
+
+- en helhetlig og samordnet politikk
+
+- forebygging
+
+- støttetjenester
+
+- straffeforfølgning
+
+- forskning
+
 Utvalget foreslår totalt 30 tiltak for å styrke arbeidet mot voldtekt.
-
-22.2 En helhetlig og samordnet politikk
-22.2.1 Inkorporering av
-Istanbulkonvensjonen
-–
-
-Utvalget anbefaler at Istanbulkonvensjonen
-inkorporeres i menneskerettsloven.
-
-Gjennom utredningen har utvalget vist at Europarådets konvensjon om forebygging og bekjempelse av vold mot kvinner og vold i nære relasjoner (Istanbulkonvensjonen) gir voldtektsutsatte
-en rekke rettigheter. Konvensjonen behandler
-voldtekt som en del av annen kjønnsbasert vold
-og krever en helhetlig tilnærming med konkrete
-tiltak innenfor forebygging, støttetjenester og
-straffeforfølgning. Innholdet i konvensjonen bygger i stor grad på den europeiske menneskerettighetsdomstolens praksis og konkretiserer innholdet i forpliktelsene som følger av den europeiske
-menneskerettighetskonvensjonen.
-Som omtalt under punkt 5.2, er Istanbulkonvensjonen ikke inkorporert i norsk rett og har
-ikke samme status som for eksempel FNs kvinnekonvensjon eller den europeiske menneskerettighetskonvensjonen. Det vil si at konvensjonen må
-vike for norske regler dersom det oppstår en situasjon hvor det er motstrid mellom en bestemmelse i Istanbulkonvensjonen og en bestemmelse
-i norsk rett. Selv om norsk rett presumeres å være
-i tråd med folkeretten og norske rettsregler, kan
-det ikke utelukkes at slik motstrid vil oppstå. I et
-slikt tilfelle vil forpliktelsene etter Istanbulkonvensjonen måtte settes til side.
-Da menneskerettsloven ble vedtatt ble den
-europeiske
-menneskerettighetskonvensjonen,
-FNs konvensjon om sivile og politiske rettigheter
-og FNs konvensjon om økonomiske, sosiale og
-kulturelle rettigheter inkorporert. I proposisjonen
-til menneskerettsloven ble signaleffekten ved
-inkorporasjon av menneskerettskonvensjoner
-vektlagt:
-
-[Side 188]
-
-186
-
-NOU 2024: 4
-
-Kapittel 22
-
-Voldtekt – et uløst samfunnsproblem
-
-«Departementet er enig med utvalget og
-høringsinstansene i at det er grunn til å tro at
-innarbeiding av menneskerettskonvensjoner i
-lovgivningen vil ha en signaleffekt å regne
-med, både internasjonalt og nasjonalt.1»
-Det ble også vektlagt at inkorporasjon av menneskerettighetskonvensjonene kunne føre til økt
-kunnskap om konvensjonene, som kunne være
-«bevisstgjørende og holdningsskapende både i og
-utenfor juristenes rekker».2 Inkorporasjon kunne
-også føre til mer lojal oppfyllelse av konvensjonene selv om det ikke er påkrevd for oppfyllelse.
-I tiden etter vedtakelsen av menneskerettsloven har også barnekonvensjonen og kvinnekonvensjonen blitt inkorporert i henholdsvis 2003 og
-2009. Et ekspertutvalg anbefalte nylig å inkorporere CRPD i menneskerettsloven.3 Da kvinnekonvensjonen ble inkorporert ble det blant annet lagt
-vekt på at bevisstheten om kvinners rettigheter
-ville bli styrket:
-«I tillegg til det sterke signalet nasjonalt og
-internasjonalt ei inkorporering med forrang vil
-sende, blir òg medvitet om likestillingsspørsmål og kvinners rettar styrkt.»4
-Det ble videre vektlagt at konvensjonens forpliktelser ville være sentrale i lovgivnings- og forvaltningsarbeid i fremtiden:
-«Ved å inkludere kvinnediskrimineringskonvensjonen i menneskerettsloven med forrang
-sikrar ein at likestilling og forbodet mot diskriminering av kvinner vil vere eit sentralt omsyn
-i lovgivingsarbeid og forvaltning også i framtida.»5
-Kvinnekonvensjonen er fra 1979 og har blitt tolket
-og utviklet av kvinnekomiteen siden den gang.
-For å forstå konvensjonens rettigheter er det nødvendig å lese komiteens generelle anbefalinger.
-Det følger for eksempel ikke av konvensjonsteksten at vold mot kvinner er omfattet. Istanbulkonvensjonen er en presisering og videreutvikling av
-kvinners rettigheter til å være frie fra vold og overgrep. Kvinnekomiteen har også anbefalt norske
-myndigheter å implementere anbefalingene i
-GREVIOs rapport.6 Inkorporering av Istanbulkon1
-2
-3
-4
-5
-
-Ot.prp. nr. 3 (1998–1999).
-Ot.prp. nr. 3 (1998–1999) s. 21.
-CRPD-utvalget (2024).
-Ot.prp. nr. 93 (2008–2009) s. 36.
-Ot.prp. nr. 93 (2008–2009) s. 36.
-
-vensjonen vil kunne sørge for bedre etterlevelse
-av norske myndigheters forpliktelser av FNs kvinnekonvensjon, som allerede er inkorporert.
-Utvalget mener at inkorporering av Istanbulkonvensjonen vil kunne ha en betydelig signaleffekt for norske myndigheters prioritering av arbeidet mot kjønnsbasert vold. Ved å inkorporere konvensjonen med forrang i norsk rett tydeliggjør
-myndighetene intensjonen om å sørge for at
-volds- og voldtektsutsattes rettigheter etter Istanbulkonvensjonen skal gjennomføres i praksis.
-Dette vil videre kunne føre til økt bevissthet og
-kunnskap om konvensjonen, både i forvaltningen,
-blant jurister og i befolkningen for øvrig.
-Norske myndigheter har allerede forpliktet
-seg til å implementere Istanbulkonvensjonen. Ved
-ratifiseringen av konvensjonen ble det lagt til
-grunn at norsk rett er i tråd med konvensjonen.7
-Det ble gjort enkelte endringer i straffeloven og
-straffeprosessloven for å sørge for dette. Inkorporering av konvensjonen bør derfor ikke kreve et
-større utrednings- eller lovendringsarbeid for å
-kunne gjennomføres.
-Utvalget vil også fremheve at en rekke organisasjoner har anbefalt at Norge inkorporer konvensjonen, blant annet i en skyggerapport til norske
-myndigheters rapportering til GREVIO.8 Det
-samme ble anbefalt i skyggerapporten til
-CEDAW.9
-Utvalget mener at inkorporasjon av Istanbulkonvensjonen vil løfte voldtekt og annen vold mot
-kvinner som et problem som må prioriteres i myndighetenes arbeid. Som utredningen har vist, er
-omfanget av seksuell vold mot kvinner stort i
-Norge. Det er et presserende behov for at norske
-myndigheter gjør mer for å forebygge og
-bekjempe voldtekt, og inkorporering av Istanbulkonvensjonen er et viktig ledd i dette arbeidet.
-
-22.2.2 En tydelig og forsterket
-myndighetsstruktur
-– Utvalget anbefaler at den tverrdepartementale
-arbeidsgruppen om vold i nære relasjoner får
-et tydelig mandat om å utvikle og gjennomføre
-politikk for å forebygge og bekjempe alle former for vold som omfattes av Istanbulkonvensjonen, inkludert seksuell vold og voldtekt.
-– Som følge av et tydeligere (og utvidet) mandat
-for den tverrdepartementale arbeidsgruppen
-6
-7
-8
-9
-
-FNs kvinnekomité (2023) s. 9.
-Prop. 66 S (2016 –2017).
-Skyggerapport (2020).
-Skyggerapport (2021).
-
-[Side 189]
-
-NOU 2024: 4
-Voldtekt – et uløst samfunnsproblem
-
-–
-
-anbefaler utvalget videre at Justis- og beredskapsdepartementet ressurssettes til å ivareta
-samordningsoppgaver.
-Utvalget anbefaler videre at det opprettes et
-nytt statlig organ for å sikre at ny politikk og tiltak gjennomføres i praksis, samordnes på tvers
-av sektorer og forvaltningsnivåer og at effekten av politikken og tiltakene evalueres og legges til grunn for ny politikkutforming.
-
-Utvalget mener det er viktig å se voldtekt som et
-eget innsatsområde, og samtidig forankre innsatsen mot voldtekt tydelig i en helhetlig og samordnet tilnærming mot vold og overgrep. I utredningen har utvalget vist at arbeidet med å forebygge
-voldtekt, sikre gode støttetjenester for utsatte
-samt å sikre effektiv straffeforfølgning i voldtektssaker i liten grad tematiseres i regjeringens pågående arbeid mot vold og overgrep.
-Regjeringens arbeid mot vold og overgrep
-koordineres i dag gjennom en tverrdepartemental
-gruppe. I dette samarbeidet inngår vold og overgrep i nær relasjon, vold og overgrep mot barn,
-vold og overgrep mot eldre, negativ sosial kontroll, tvangsekteskap og kjønnslemlestelse. Problemstillinger knyttet til voldtekt løftes etter utvalgets forståelse i liten grad i det tverrdepartementale arbeidet. Dette fremkommer også i regjeringens nyeste opptrappingsplan mot vold og overgrep, som i liten grad omtaler voldtekt.
-Istanbulkonvensjonen artikkel 7, pålegger norske myndigheter å vedta en effektiv, helhetlig og
-samordnet nasjonal politikk med relevante tiltak
-som kan forebygge og motvirke alle former for
-vold som er omfattet av konvensjonen, herunder
-voldtekt. Utvalget mener det er viktig å forankre
-innsatsen mot voldtekt tydelig i en helhetlig og
-samordnet tilnærming mot vold og overgrep. Av
-den grunn anbefaler utvalget at den tverrdepartementale arbeidsgruppen om vold i nære relasjoner får et tydelig mandat om å utvikle og gjennomføre politikk for å forebygge og bekjempe alle former for vold som omfattes av Istanbulkonvensjonen.
-Som følge av et tydeligere og utvidet mandat
-for den tverrdepartementale gruppen anbefaler
-utvalget videre at Justis- og beredskapsdepartementet ressurssettes til å ivareta samordningsoppgaver. Istanbulkonvensjonen artikkel 10 pålegger
-norske myndigheter å utpeke eller opprette ett
-eller flere offisielle organer med ansvar for koordinering, gjennomføring, overvåkning og evaluering av politikk og tiltak som treffes med sikte på
-å forebygge og bekjempe alle former for vold som
-omfattes av Istanbulkonvensjonen. Dette vil, ifølge
-
-187
-
-Kapittel 22
-
-Europarådets forklarende rapport, bidra til å sikre
-at tiltakene er godt koordinert og fører til en samordnet innsats, samt at det vil bidra til å sikre den
-faktiske gjennomføringen av eventuell ny politikk
-og tiltak.10
-For å sikre samordning, kontinuitet og helhetsforståelse i arbeidet mot voldtekt anbefaler
-utvalget videre at et nytt statlig organ opprettes,
-underlagt Justis- og beredskapsdepartementet.
-Det nye statlige organet vil sikre en permanent og
-synlig satsing mot de ulike formene for vold som
-omfattes av Istanbulkonvensjonen:
-– vold i nære relasjoner
-– æresrelatert vold
-– seksuell vold (herunder voldtekt)
-– seksuell trakassering i det offentlige rom
-Utvalget foreslår at det nye statlige organet får et
-tydelig tverrsektorielt ansvar i arbeidet med å
-forebygge kjønnsbasert vold, sikre gode støttetjenester for utsatte samt å sikre effektiv straffeforfølgning i saker som omhandler kjønnsbasert
-vold. Det statlige organet vil kunne samle fagkunnskap fra ulike sektorer og bidra til å rådgi
-myndighetene i deres arbeid.
-Utvalget mener en mer tydelig og forsterket
-myndighetsstruktur vil bidra til å legge et godt
-grunnlag for en helhetlig, strategisk og langsiktig
-politikkutvikling som mer effektivt forebygger og
-bekjemper voldtekt. Utvalget viser til Irlands etablering av Statutory agency with responsibility for
-Domestic, Sexual and Gender Based Violence,11
-som rapporterer til det irske justisdepartementet
-og en parlamentskomité.
-Forslaget om å opprette et slikt organ vil kreve
-et tydelig mandat og samarbeidsavtaler med relevante departementer og direktorater. Følgende
-oppgaver bør inngå i et mandat for et nytt organ:
-– samordne innsats på tvers av sektorer og forvaltningsnivåer
-– bidra til at ny politikk og tiltak på feltet gjennomføres i praksis
-– koordinere leveranser av relevant nasjonalt
-planverk
-– bidra til internasjonal erfaringsutveksling og
-samarbeid
-– rapportere til departementet som koordinerer
-norsk gjennomføring av Istanbulkonvensjonen
-og andre relevante konvensjoner
-– legge til rette for systematisk tverrsektoriell
-erfarings- og kunnskapsutveksling
-10
-11
-
-Europarådet (2011).
-Department of justice (2023).
-
-[Side 190]
-
-188
-
-NOU 2024: 4
-
-Kapittel 22
-
-–
-–
-–
-–
-
-Voldtekt – et uløst samfunnsproblem
-
-bidra til utvikling av felles tverrsektoriell fenomensforståelse
-samle og formidle all relevant forskning og statistikk til offentlig forvaltning og til et bredere
-publikum
-utvikle og gjennomføre nasjonale kampanjer
-sikre at effekten av iverksatt politikk og tiltak
-evalueres og tas inn som grunnlag for beslutningsprosesser
-
-Utvalget anbefaler at innretning og plassering av
-en styrket struktur utredes nærmere av Justis- og
-beredskapsdepartementet, i samarbeid med relevante departementer.
-
-22.2.3 Et likeverdig tilbud for
-voldtektsutsatte i alle kommuner
-– Utvalget anbefaler at kommunene gjennom lov
-pålegges å utforme en kommunal handlingsplan mot vold i nære relasjoner og annen
-kjønnsbasert vold, samt å sikre tilstrekkelig
-finansiering og evaluering av tiltakene i planen.
-Kommunene har ansvar for flere sentrale tjenester som er involvert i arbeidet mot voldtekt, herunder barnehager, skoler, familie- og barnevern
-samt kommunale helsetjenester og krisesenter.
-Ulike rammevilkår og stor grad av kommunal frihet i valg av tiltak skaper imidlertid ulike tilnærminger og ulike tilbud for voldtektsutsatte.
-Regjeringen har anbefalt kommunene å utarbeide kommunale handlingsplaner mot vold i
-nære relasjoner, senest i den nye opptrappingsplanen mot vold og overgrep.12 Hensikten med
-handlingsplanene er å systematisere og koordinere kommunenes arbeid med vold i nære relasjoner. Det er fremdeles en betydelig andel kommuner som ikke har utarbeidet en kommunal
-handlingsplan. Partnerdrapsutvalget anbefalte i
-sin utredning at det innføres en plikt for kommunene om å ha handlingsplaner mot vold i nære
-relasjoner:
-«Utvikling av en kommunal handlingsplan mot
-vold i nære relasjoner vil, etter utvalgets syn,
-kunne sikre at det kommunale hjelpeapparatet
-utveksler kunnskap og erfaringer, og at hjelpeapparatet utvikler en felles fenomenforståelse og en enighet om prioriterte mål og innsatsområder. Det vil videre kunne bidra til å
-identifisere samarbeidsbehov, og å sikre en
-
-god fordeling av ansvar for oppgaveløsningen.»13
-Utvalget mener kommunene gjennom lov bør
-pålegges å utforme en kommunal handlingsplan
-som også omfatter seksuell vold. Utvalget anbefaler at regjeringen bør kreve kommunale handlingsplaner mot «vold i nære relasjoner og annen
-kjønnsbasert vold». Disse handlingsplanene vil
-dermed også kunne beskrive relevante tiltak som
-omhandler arbeidet med å forebygge voldtekt, og
-å tilby gode støttetjenester. Dagens veileder for
-utvikling av kommunale handlingsplaner mot vold
-i nære relasjoner bør oppdateres for å reflektere
-endringen.
-Utvalget understreker at kommunene må sikres tilstrekkelige rammevilkår for å kunne finansiere nødvendige tiltak i handlingsplanene. Utvalget
-stiller seg bak Barnevoldsutvalgets anbefaling om
-å evaluere ordningen med kommunale handlingsplaner.14
-Videre understeker utvalget at det følger av
-krisesenterlova at alle kommuner er pliktige til å
-gi et krisesentertilbud til alle personer som er
-utsatte for vold eller trusler om vold i nære relasjoner (§ 2). Seksuell vold og voldtekt er svært
-ofte en del av den volden som kvinner utsettes for
-i nære relasjoner. Krisesentrene er det viktigste
-støttetilbudet til dem som er utsatt for voldtekt i
-nære relasjoner. Det er derfor svært viktig at kommunene tilbyr et godt krisesentertilbud i hele landet. Krisesentrene skal være tilgjengelige for alle
-grupper, også sårbare grupper. Dette innebærer
-at sårbare grupper (for eksempel personer i aktiv
-rus eller personer med alvorlige psykiske lidelser) skal sikres et likeverdig tilbud i hele landet.
-Norge har også forpliktet seg til å ta hensyn til
-urfolks kultur og språk både gjennom nasjonal og
-internasjonal rett. Dette stiller særlige krav om
-utformingen av krisesentertilbudet i forvaltningsområdet for samisk språk.15
-
-22.2.4 En tverrdepartemental
-stortingsmelding om voldtekt
-– Utvalget anbefaler at det utarbeides en stortingsmelding om voldtekt.
-Gjennom skiftende regjeringer har det blitt utarbeidet flere handlingsplaner mot voldtekt. Etter
-utvalgets vurdering har handlingsplanene ikke
-13
-14
-
-12
-
-Prop. 36 S (2023–2024) s. 28.
-
-15
-
-NOU 2020: 17 s. 202.
-NOU 2017: 12 s. 95.
-Se sameloven (1987) Kapittel 3 om samisk språk.
-
-[Side 191]
-
-NOU 2024: 4
-Voldtekt – et uløst samfunnsproblem
-
-lykkes i å forebygge og bekjempe voldtekt i
-Norge.
-Regjeringens handlingsplan mot voldtekt utløp
-i 2022, og utvalget kjenner ikke til planer om å
-utarbeide ny handlingsplan. Utvalget anbefaler at
-det utarbeides en tverrdepartemental stortingsmelding om voldtekt, for å legge føringer for det
-videre arbeidet samt å sikre at arbeidet mot voldtekt forankres bredt politisk. Utvalget anbefaler at
-utredningen (NOU 2024: 4) inngår i meldingens
-kunnskapsgrunnlag.
-
-22.2.5 Et kompetanseløft i tjenestene
-– Utvalget anbefaler at det utarbeides en langsiktig plan for et kompetanseløft om seksuell vold
-i det offentlige tjenesteapparatet, som omfatter
-kunnskap om utsatthet og sårbare gruppers
-behov.
-– Utvalget anbefaler at gjennomføres en evaluering av de regionale sentrene om vold, traumatisk stress og selvmordsforebygging (RVTS)
-sitt kompetansehevende arbeid rettet mot seksuell vold.
-Flere tidligere utredninger har vist til manglende
-kompetanse om vold og overgrep i det offentlige
-hjelpeapparat. Partnerdrapsutvalget anbefalte et
-kompetanseløft i hjelpeapparatet ved blant annet å
-innarbeide og å sikre implementering av kunnskapskrav om vold i nære relasjoner.16
-Som utvalget har vist, er det en betydelig andel
-norske kvinner som rapporterer at de har opplevd
-én eller flere voldtekter. Videre har utvalget vist at
-konsekvensene av å ha blitt voldtatt, er alvorlige.
-Det er viktig at det offentlige tjenesteapparatet har
-god kunnskap om seksuell vold og potensielle
-konsekvenser av denne, for å kunne bidra til å
-forebygge og sikre god oppfølging av personer
-som utsettes for, eller står i fare for å utsettes for,
-seksuell vold.
-Utvalget mener derfor det er sentralt at det
-utarbeides en langsiktig plan for et kompetanseløft om seksuell vold, herunder voldtekt i det
-offentlige tjenesteapparatet. Utvalget ser behov
-for et slikt løft i flere ulike deler av tjenesteapparatet, herunder barnevern og familievern, barnehage og skoler, helsetjeneste, kriminalomsorg,
-politi, påtalemyndighet og domstol.
-Som vist i utredningen er noen grupper særlig
-utsatte for voldtekt. Utvalget anbefaler at kompetanseløftet omfatter utvikling av kunnskap om
-utsatthet og sårbare gruppers behov. Eksempelvis
-16
-
-NOU 2020: 17 s. 198.
-
-189
-
-Kapittel 22
-
-viser utvalget til hvordan funksjonshemmede kan
-oppleve å bli møtt av tjenesteapparatet (se boks
-15.4). Det følger av Istanbulkonvensjonen at norske myndigheter plikter å ivareta de særlige behovene og rettighetene til sårbare grupper («vulnerable persons») i tiltakene som iverksettes for å
-forebygge og beskytte mot blant annet voldtekt.
-En kompetanseplan bør utformes i samarbeid
-med relevante forskningsmiljøer og bygge på
-forskningsbasert kunnskap om seksuell vold,
-utsatthet og risiko blant ulike grupper samt konsekvenser av seksuell vold.
-Det bør vurderes om det er mulig for ansatte i
-kommunene å benytte sentrene mot seksuelle
-overgrep som en veiledningsressurs i saker som
-omhandler seksuelle overgrep. Sentrene er allerede etablert og kjent i svært mange kommuner,
-de samhandler med andre hjelpeinstanser mange
-steder og fungerer mer uformelt som ressurssentre. En formalisering av rollen som veiledningsressurs vil gjøre dem mer kjent i flere kommuner.
-Som vist i del 12.5.1 tilbyr de regionale sentrene om vold, traumatisk stress og selvmordsforebygging(RVTS) fagstoff om vold og overgrep
-samt kurs og programmer om tematikken. Primærmålgruppen for RVTS er det offentlige tjenesteapparatet. Utvalget anbefaler at sentrenes kompetansehevende arbeid rettet mot seksuell vold
-evalueres, for å få mer kunnskap om i hvilken
-grad sentrene bidrar til å øke kompetansen i det
-offentlige tjenesteapparatet.
-
-22.2.6 Et likeverdig tjenestetilbud for den
-samiske befolkningen
-–
-
-Utvalget anbefaler at det etableres en samisk
-tolkeutdanning slik at man får et tilstrekkelig
-antall kvalifiserte tolker til at utsatte for voldtekt kan bruke samisk i møte med tjenesteapparatet.
-
-Utvalget gjentar det som ble skrevet innledningsvis om språkloven § 5, der det står at «Samiske
-språk og norsk er likeverdige språk». Lov om
-Sametinget og andre samiske rettsforhold (sameloven) § 3-5 gir utvidet rett til bruk av samisk i
-helse- og sosialsektoren. Bestemmelsen lyder:
-«Den som ønsker å bruke samisk for å ivareta
-egne interesser overfor lokale og regionale offentlige helse- og sosialinstitusjoner i forvaltningsområdet, har rett til å bli betjent på samisk». Den
-samme loven gir også utvidet rett til å bruke
-samisk i rettsvesenet. Utvalget understreker at
-dette er krav som skal følges. Retten til å bruke
-samisk er ubetinget. Der det ikke er mulig å ha
-
-[Side 192]
-
-190
-
-Kapittel 22
-
-NOU 2024: 4
-Voldtekt – et uløst samfunnsproblem
-
-ansatte i helsevesenet eller rettsvesenet som
-behersker samisk, må det brukes en sertifisert
-tolk. Det er stor mangel på samiske tolker, og
-både politiet og helsevesenet forteller om problemer med å skaffe kvalifiserte tolker. Utvalget
-mener at det haster svært med å få på plass en
-samisk tolkeutdanning, slik at man får et tilstrekkelig antall kvalifiserte tolker slik at utsatte for
-voldtekt kan bruke samisk i møte med helse- og
-sosialtjenesten, og slik at både utsatte og gjerningspersoner kan bruke samisk i møte med politi
-og domstoler.
-I 2023 mottok Samisk høgskole gjennom statsbudsjettet en tildeling for å etablere en samisk tolkeutdanning.17 Utvalget mener det er viktig å
-utvikle og bevare tilbudet over tid, for å sikre retten til å bruke samisk i hele landet.
-Kvinnehelseutvalget foreslo å sikre systematikk i arbeidet med å sikre samisk språk- og kulturkompetanse i helse- og omsorgstjenestene.18
-Utvalget stiller seg bak dette forslaget og mener
-det er behov for systematikk i arbeidet med å
-sikre samisk språk og kulturkompetanse i samtlige deler av det offentlige hjelpeapparatet som
-møter voldtektsutsatte.
-
-22.3 Forebygging
-22.3.1 Innledning
-Utvalget er i mandatet bedt om å foreslå tiltak for
-å styrke den forebyggende innsatsen. Tiltakene
-skal ha et mangfoldsperspektiv. Videre er utvalget
-bedt om å vurdere tiltak for å forebygge at unge
-begår overgrep mot andre barn og unge. Utvalget
-har i utredningen funnet at voldtekt utgjør en samfunnsutfordring og et betydelig folkehelseproblem. Til tross for dagens innsats for å forebygge
-voldtekt, kan kunnskapsgrunnlaget tyde på at
-myndighetene ikke lykkes i arbeidet med å forebygge voldtekt. Det forebyggingsarbeidet som finner sted, er i liten grad systematisk rettet mot å
-forebygge den seksuelle volden.
-Utvalget erkjenner at når en voldtekt allerede
-har funnet sted, er det begrenset hva støttetjenester og straffeforfølgning kan gjøre for å bøte
-på skaden som allerede har skjedd. Av den grunn
-er det sentralt at forebygging med mål om å redusere antallet voldtekter, må være en hovedprioritet i arbeidet mot voldtekt.
-
-17
-18
-
-Prop. 1 S (2023–2024) Kunnskapsdepartementet.
-NOU 2023: 5 s. 191.
-
-22.3.2 Et massivt løft for å forebygge voldtekt
-– Utvalget anbefaler et massivt løft for å forebygge voldtekt.
-I utredningen har utvalget påpekt at en samordnet, helhetlig og langsiktig innsats for å forebygge
-voldtekt ikke finnes i Norge i dag. Etter utvalgets
-vurdering er voldtekt som samfunnsutfordring og
-folkehelseproblem underkommunisert og i liten
-grad prioritert i fordelingen av offentlige ressurser. Forebygging refereres til som en hovedstrategi i myndighetenes arbeid mot voldtekt. Samtidig er voldtekt ikke i tilstrekkelig grad omfattet av
-myndighetenes samordnede innsats mot vold og
-overgrep. Nylige omfangsundersøkelser viser til
-at den forebyggende innsatsen mot seksuell vold
-må forsterkes.19
-Utvalget har sett hen til myndighetenes innsats på andre områder, herunder den statlige innsatsen mot tobakksskader i perioden 2003–2007.20
-I denne perioden ble det satset sterkt på
-massemediakampanjer med sterke virkemidler,
-herunder bruk av fryktvekkende bilder. Samtidig
-ble det innført et totalforbud mot røyking på spisesteder og puber. I tillegg videreutviklet og forbedret man allerede pågående tiltak som Røyketelefonen og programmet for røykfrihet i ungdomsskolen («FRI»-programmet). Helseadvarselen på tobakksemballasjen ble større, og det ble
-foreslått å forby synlig oppstilling av tobakksvarer
-på utsalgssteder.
-Utvalget mener at et tilsvarende massivt løft
-for å forebygge seksuell vold, herunder voldtekt,
-bør iverksettes av myndighetene. Målet med løftet
-vil være å informere hele befolkningen om seksuell vold, de skadevirkningene den medfører og
-hvilke verktøy som finnes for å forebygge volden.
-Løftet bør inkludere tiltak for å sikre kunnskap
-om fenomenet voldtekt i det offentlige tjenesteapparatet og for å sikre forebyggende tiltak særlig
-rettet mot potensielle utøvere av seksuell vold og
-utsatte grupper. Tiltaket må nå ut til befolkningen
-i hele landet, og alt materiale må utformes på flere
-språk, herunder samiske språk.
-Utvalget ser behov for at myndighetene i særlig grad sikrer at samtlige deler av forebyggingsløftet tar hensyn til kunnskap om og inkludering
-av «vulnerable groups» etter Istanbulkonvensjonen.
-Utvalget merker seg myndighetenes planlagte
-nasjonale forebyggingsprogram mot partnervold
-19
-20
-
-Frøyland mfl. (2023) s. 107.
-Aarø mfl. (2009).
-
-[Side 193]
-
-NOU 2024: 4
-Voldtekt – et uløst samfunnsproblem
-
-og partnerdrap.21 Det er viktig at forebyggingstiltak mot voldtekt ses i sammenheng med dette
-programmet.
-Utvalget mener forebyggingsløftet bør være
-tredelt:
-1. Forebygging rettet mot hele befolkningen
-Utvalget foreslår at følgende inkluderes i
-den delen av forebyggingsløftet som rettes mot
-hele befolkningen:
-– Store og omfattende flerårige holdningskampanjer med sterke virkemidler
-formidlet i relevante kanaler:
-Kampanjene bør rettes mot hele befolkningen, men særlig mot unge. Grenser,
-samtykke og forskningsbasert kunnskap
-om sammenheng mellom rus og voldtekt
-bør inngå i kampanjen. Utformingen av
-holdningskampanjene må skje i samarbeid
-med relevante målgrupper. Kampanjematerialet må utarbeides på norsk og samiske
-språk.
-– Et nasjonalt løft for seksualitetsundervisningen:
-Seksualitetsundervisningen i skolen må
-nedfelles i tydelige og forpliktende retningslinjer som bør utarbeides i samråd
-med relevante forskningsmiljøer, barn og
-unge selv samt organisasjoner med erfaring fra seksualitetsundervisning. Retningslinjene for seksualitetsundervisningen må reflektere relevante samfunnsutviklingstrekk, herunder økt bruk av sosiale
-medier, pornografi og høye voldtektstall
-blant barn og unge. Undervisningen må
-være representativ for alle barn og unge,
-uavhengig av faktorer som kjønn, seksualitet, funksjon og annen minoritetstilhørighet. Det må sikres at alle får delta i seksualitetsundervisningen.
-Læringsmål knyttet til seksualitet, grenser og seksuell vold/voldtekt bør tydeliggjøres og kravfestes. Utvalget merker seg
-bruk av «drøfte, reflektere og samtale om»
-i kompetansemålene om seksualitetsundervisning. Disse målene skaper rom for unødig stor variasjon i innhold og kvaliteten på
-seksualitetsundervisningen. Utvalget mener kompetansemålene i større grad bør
-konkretiseres. Utvalget understreker at
-den planlagte evalueringen av læreplanene
-tydelig bør inkludere en evaluering av seksualitetsundervisningen.
-
-I dette forslaget inngår også at det må
-sikres en styrking av rammeplanene for
-lærerutdanningen. Utvalget mener aktuelle
-rammeplaner må gjennomgås og oppdateres for å sette lærere i barnehage og skole i
-stand til å gi god seksualitetsundervisning.
-2. Forebyggingstiltak rettet mot personer som
-har blitt utsatt for voldtekt eller annen seksuell
-vold:
-Det å bli utsatt for seksuell vold i barndommen medfører økt risiko for reviktimisering;
-nye voldshendelser senere i livet. Blant annet
-viser en oversiktsstudie at å bli utsatt for seksuelle overgrep i barndommen er sterkt relatert
-til å bli utsatt for seksuelle overgrep også i voksen alder.22 Også i voksen alder kan det å bli utsatt for voldtekt øke risiko for reviktimisering.23 Utvalget mener det i liten grad er satset
-på forebyggingstiltak rettet mot denne gruppen. Utvalget anbefaler at det som del av forebyggingsløftet sikres et oppmerksomhets- og
-kompetanseløft i relevante tjenester for å sikre
-god kunnskap om sammenheng mellom utsatthet og reviktimisering, samt at personer som
-har blitt utsatt for voldtekt, får tilgang til relevante hjelpetjenester og behandling ved behov.
-Utvalget viser til at én av flere risikofaktorer
-for reviktimisering er i hvilken grad den utsatte
-har utviklet psykiske helseplager, særlig posttraumatisk stresslidelse (PTSD). Å forebygge
-eller behandle PTSD bør vurderes som et tiltak
-for å minske risiko for reviktimisering. Denne
-kunnskapen er etter utvalgets vurdering ikke
-hensyntatt i dagens forebyggingsarbeid.
-3. Forebyggingstiltak rettet mot personer som
-har begått eller står i fare for å begå voldtekt
-eller annen seksuell vold:
-Utvalget anbefaler et oppmerksomhets- og
-kompetanseløft i relevante tjenester samt øremerkede midler til tiltak for tidlig identifikasjon
-og tidlig innsats i kommunale helse- og omsorgstjenester og i spesialisthelsetjenesten. Utvalget understreker at helsestasjon for ungdom og skolehelsetjenesten i ungdomsskolen
-og i videregående skole spiller en viktig forebyggende rolle. Utvalget mener det må sikres
-finansiering for at tjenestene kan bygge nødvendig kompetanse for å ivareta unge som lurer på om de har gått over grenser, har seksuell
-interesse i barn eller liknende problemstillinger.
-22
-
-21
-
-Prop. 36 S (2023–2024) s. 60.
-
-191
-
-Kapittel 22
-
-23
-
-Classen mfl. (2005).
-Walsh mfl. (2012).
-
-[Side 194]
-
-192
-
-Kapittel 22
-
-NOU 2024: 4
-Voldtekt – et uløst samfunnsproblem
-
-Utvalget anbefaler at innretningen på forebyggingsløftet utarbeides av ansvarlig myndighet, fortrinnsvis en etat med ansvar for å utvikle og gjennomføre politikk for å forebygge og bekjempe alle
-former for vold som omfattes av Istanbulkonvensjonen, inkludert seksuell vold og voldtekt. Utvalget understreker at forebygging av voldtekt må
-ses i sammenheng med forebygging av alle former for kjønnsbasert vold.
-Innholdet i forebyggingsløftet bør utarbeides i
-samarbeid med relevante forskningsmiljøer og
-organisasjoner. Det er sentralt at tiltakene i forebyggingsløftet i størst mulig grad er evidensbaserte, og har et tydelig kjønnsperspektiv. Utvalget
-foreslår at det settes av midler til følgeforskning
-og evaluering av tiltak som del av forebyggingsløftet. Tiltaket ses i sammenheng med tiltak 22.2.5
-«et kompetanseløft i tjenestene».
-
-22.3.3 Tydeliggjøring og opplæring om
-avvergings- og meldeplikten
-– Utvalget anbefaler en gjennomgang av lovteksten med sikte på en revidering der vilkårene
-for avvergingsplikt fremgår tydeligere av
-loven.
-– Utvalget anbefaler obligatorisk og jevnlig opplæring om avverge- og meldeplikten i det
-offentlige tjenesteapparatet for å avdekke og
-avverge seksuell vold.
-Flere utredninger samt tilsynsrapporter fra Helsetilsynet viser til saker der systemsvikt har bidratt
-til mangelfull oppfølging av barn og unge som
-opplever vold og overgrep.24 Barnevoldsutvalget
-påpekte i sin utredning at bestemmelsen om
-avvergingsplikt er komplisert og lite pedagogisk
-utformet, samt at den er utydelig på hvordan man
-skal avverge, og til hvem. Utvalget støtter Barnevoldsutvalgets anbefaling om å utrede mulige
-endringer i bestemmelsen om avvergingsplikt for
-å tydeliggjøre bestemmelsen og dermed bidra til
-at vold og seksuelle overgrep avverges i større
-grad.25
-Utvalget støtter også tidligere anbefalinger om
-å sikre nødvendig kompetanse i det offentlige tjenesteapparatet om vold og overgrep og om
-avverge- og opplysningsplikten. Utvalget ser på
-utformingen av den nye veilederen fra Justis- og
-beredskapsdepartementet som en positiv utvikling, men ser samtidig behov for videre opplæring
-for å sikre den nødvendige kompetansen.26 På lik
-
-linje med brannforskriftens veileder som stiller
-krav til å iverksette rutiner som sikrer kunnskap
-og kompetanse, samt å sikre øvelser og opplæring
-av alle ansatte,27 mener utvalget at det offentlige
-tjenesteapparatet bør pålegges å sikre nødvendige
-rutiner, øvelser og opplæring om avverge- og meldeplikten.
-
-22.4 Støttetjenester
-22.4.1 Innledning
-Det følger av mandatet at utvalget skal foreslå tiltak for å styrke det akutte og mer langsiktige helsetilbudet for voldtektsutsatte. Samlet finner utvalget at voldtektsutsatte har gode rettigheter som
-skal sikre både akutt og langsiktig helsehjelp etter
-en voldtekt. Samtidig viser kartlegginger og utsattes egne erfaringer at det gjenstår utfordringer og
-mangler ved dagens tjenester. Med dette som
-utgangspunkt foreslår utvalget flere tiltak for å
-bedre støttetjenestene for voldtektsutsatte i
-Norge.
-22.4.2 En støttekoordinator for utsatte
-– Utvalget anbefaler at det etableres en støttekoordinatorordning ved alle overgrepsmottak.
-Utvalget merker seg at det finnes en rekke ulike
-og gode helsetjenester for voldtektsutsatte i
-Norge, utover overgrepsmottakene. Disse utgjør
-samlet et godt og viktig tilbud for utsatte for voldtekt. Samtidig merker utvalget seg at det kan være
-krevende, særlig for en sårbar utsatt, å navigere
-tjenestelandskapet. En betydelig andel av befolkningen har problemer med å navigere i helsetjenestene, og mange har utfordringer med å finne
-frem til og ta i bruk informasjon om helsen sin og
-rettighetene de har.28 Utvalget mener at overgrepsmottakets rolle i å bistå den utsatte i å finne
-fram i tjenestelandskapet i større grad bør formaliseres og standardiseres.
-Utvalget forstår det slik at voldtektsutsatte i
-mange tilfeller selv må søke seg frem til hvilke
-hjelpetilbud som er tilgjengelige, og at dette kan
-oppleves som en tilleggsbelastning i en allerede
-utfordrende situasjon. Utvalget mener det er
-behov for en type «los-funksjon» for å veilede
-utsatte til relevante hjelpetiltak, annen støtte og
-eventuelt relevante ytelser. Det anbefales at de
-26
-
-24
-
-NOU 2017: 12; NOU 2020: 17.
-25
-NOU 2017: 12.
-
-27
-28
-
-Justis- og beredskapsdepartementet (2023a).
-Direktoratet for samfunnssikkerhet og beredskap (2016).
-Le mfl. (2019).

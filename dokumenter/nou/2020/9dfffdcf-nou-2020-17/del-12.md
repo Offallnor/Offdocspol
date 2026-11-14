@@ -1,940 +1,306 @@
-# NOU 2020: 17, del 12 av 22 (side 139–148)
+# NOU 2020: 17, del 12 av 26
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2020/9dfffdcf-nou-2020-17.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2020-17/id2791522/
 - Original-PDF: https://www.regjeringen.no/contentassets/5f3dc96de14f443f869795a19088926a/no/pdfs/nou202020200017000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 5 figurer. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 139]
-
-NOU 2020: 17
-Varslede drap?
-
-12.3.2
-
-Særlig om sakene hvor det ikke var
-relevant kontakt med politiet
-
-I 4 saker var kontakten med politiet ikke relevant
-for forebygging av partnerdrap. Straffesaksdokumentene viste at det forekom partnervold også i
-disse sakene, men kontakten med politiet handlet
-om andre forhold. I én sak ringte for eksempel
-offeret til politiet for å melde om nabostøy. I de 3
-andre sakene var det tilsynelatende tale om kontakt med Politiets Utlendingsenhet (PU) om utlendingssaker.
-
-12.3.3
-
-relasjoner etter straffeloven § 282, se punkt
-7.2.3.1. I 3 av sakene ble anmeldelsen om partnervold registrert som mishandling i nære relasjoner.
-Disse anmeldelsene ble levert etter 2013, og politiet var dermed pålagt å bruke SARA i disse
-sakene. De 3 øvrige anmeldelsene om vold ble
-registrert etter andre straffebestemmelser om
-vold, se også punkt 3.2.2. Én av disse ble først
-registrert som mishandling, men ifølge et senere
-datert dokument, ble den nedkodet til en mildere
-bestemmelse (legemsfornærmelse, jf. straffeloven 1902 § 228). Kodingen av saken kan ha hatt
-betydning for om politiet gjennomførte en
-risikovurdering.
-
-Om politiets håndtering av sakene
-
-12.3.3.1 Registrert partnervold
-Politiet registrerte partnervold i 7 saker. I tillegg
-var det opplysninger om at politiet mistenkte partnervold i 3 saker, se også punkt 10.4.
-I 6 av de 7 sakene hvor politiet registrerte partnervold før drapet, var partnervolden anmeldt. I
-den siste saken ble politiet tilkalt til parets adresse
-i forbindelse med en voldshendelse. Politiet
-gjorde opp saken på stedet og opprettet ikke sak.
-Politiet la tilsynelatende stor vekt på at den voldsutsatte ikke ønsket å anmelde forholdet, og på at
-det ikke fantes tidligere liknende tilfeller i straffesaksregisteret.
-I 3 av de 6 anmeldte sakene var partnervolden
-under etterforskning da drapet skjedde. I den ene
-saken startet politiet først etterforskning etter at
-offeret hadde anmeldt gjerningspersonen to ganger.485 I de 3 øvrige sakene ble anmeldelsen henlagt før drapet. I 2 av disse sakene syntes det som
-om politiet la stor vekt på at anmelderen ønsket å
-trekke anmeldelsen da de henla saken. Den tredje
-av de henlagte sakene ble henlagt på grunn av
-kapasitetshensyn. Saken ble gjenopptatt etter drapet etter ordre fra statsadvokaten.
-Det ble ikke tatt ut tiltale for partnervold før
-drapet i noen av sakene. I 4 saker ble det tatt ut tiltale for partnervold etter drapet.
-12.3.3.2 Risikovurdering – SARA
-Utvalget fant ingen opplysninger om at politiet
-gjennomførte en strukturert risikovurdering ved
-hjelp av verktøyet SARA i noen av sakene. Politiet
-ble i 2013 pålagt å bruke strukturerte voldsrisikovurderinger i alle anmeldte partnervoldssaker som er registrert som mishandling i nære
-485
-
-137
-
-Kapittel 12
-
-Etter den første anmeldelsen henviste politiet saken til
-Konfliktrådet, se nærmere om dette i punkt 12.3.5.3.
-
-12.3.3.3 Beskyttelsestiltak
-Politiet iverksatte ett eller flere beskyttelsestiltak i
-4 av de 19 sakene. Dette var besøksforbud og/
-eller mobil voldsalarm. Beskyttelsestiltak ble bare
-iverksatt i saker hvor det forelå anmeldelse.
-Besøksforbud ble iverksatt i 4 saker. Besøksforbudet ble ilagt overfor gjerningspersonen i 3
-saker, og overfor offeret i én sak. I den sistnevnte
-saken tilsa opplysninger i straffesaksdokumentene at både gjerningspersonen og offeret utøvde
-vold mot hverandre. I én sak ble besøksforbud
-ilagt overfor gjerningspersonen, men forbudet ble
-senere opphevet av tingretten. I én sak var
-besøksforbud blitt begjært, men ikke iverksatt før
-drapet skjedde. Det var ingen opplysninger om at
-voldsutøverene brøt besøksforbudet. I én sak var
-det likevel opplysninger om at offeret – den
-besøksforbudet var ment å beskytte – brøt forbudet ved å kontakte gjerningspersonen. Dette
-besøksforbudet ble ikke forlenget.
-Politiet ga den voldsutsatte voldsalarm i 2
-saker, men ingen av voldsalarmene var i bruk da
-drapet skjedde. I ytterligere én sak ble voldsalarm
-begjært før drapet, men begjæringen og anmeldelsen ble trukket da gjerningspersonen og offeret flyttet sammen igjen.
-I 3 saker hadde politiet registrert partnervold
-før drapet uten at det ble iverksatt beskyttelsestiltak. I 2 av disse sakene bodde den voldsutsatte
-sammen med voldsutøveren.
-Det var ingen eksempler på at voldsutøver ble
-idømt kontaktforbud med eller uten elektronisk
-kontroll før drapet.
-12.3.3.4 Særlig om skytevåpen
-I 2 saker var det opplysninger om at gjerningspersonen hadde tillatelse til å eie skytevåpen (våpenkort) på drapstidspunktet. Politiet hadde tilgang
-
-[Side 140]
-
-138
-
-NOU 2020: 17
-
-Kapittel 12
-
-Varslede drap?
-
-til opplysninger om dette gjennom våpenregisteret.486 Det var imidlertid ingen opplysninger som
-tilsa at politiet undersøkte våpenregisteret etter at
-de fikk mistanke eller kunnskap om partnervold.
-
-12.3.3.5 Særlig om utviste personer
-I 3 saker fikk offer og/eller gjerningsperson tilsynelatende avklart negativ oppholdsstatus før drapet, se punkt 10.3. I 2 av disse sakene varslet familiemedlemmer politiet om at vedkommende oppholdt seg ulovlig i Norge. I én av disse sakene
-henviste politiet familiemedlemmet til Utlendingsdirektoratet (UDI), men dette førte ikke til videre
-kontakt med politiet.
-
-12.3.4
-
-Informasjonsutveksling
-
-12.3.4.1 Kontakt med og henvisninger til andre
-instanser
-Politiet utvekslet informasjon med andre instanser i få saker. I én sak brakte politiet offeret og
-barna til krisesenter etter en voldsepisode i hjemmet. I samme sak deltok politiet også på et tverretatlig møte som ble arrangert av krisesenteret, se
-også punkt 12.4.3. I en annen sak kontaktet politiet krisesenteret for å undersøke om den voldsutsatte kunne benytte seg av krisesentertilbudet.
-Politiet spurte blant annet om anmeldelse var et
-vilkår. Krisesenteret informerte om at vilkåret var
-utsatthet for vold, ikke anmeldelse. Politiet oppfordret deretter offeret til å kontakte krisesenteret
-selv, men opprettet ikke sak, se også punkt 12.5.3.
-I en tredje sak sørget politiet for at det ble opprettet kontakt mellom en voldsutsatt og en bistandsadvokat.
-Det var flere eksempler på at politiet henviste
-de aktuelle personene til selv å ta kontakt med
-andre instanser i hjelpeapparatet. I 2 saker ble den
-voldsutsatte henvist til krisesenter. Andre ble henvist til barneverntjenesten, Kontoret for fri rettshjelp og NAV. I disse sakene ble det ikke gjort noe
-fra politiets side for å sikre at kontakt med den
-aktuelle instansen ble opprettet.
-
-486
-
-Alle våpeneiere blir registrert i det sentrale våpenregisteret, og politiet har tilgang til opplysningene i tilfeller hvor
-det er et tjenstlig behov for dem. Se våpenforskriften § 98,
-jf. våpenloven § 31 fjerde ledd og Politidirektoratet (2009).
-Ny våpenlov ble vedtatt våren 2018, og skal etter planen tre
-i kraft i 2021. Loven bygger på NOU 2011: 19 Ny våpenlov. I
-den utredningen er blant annet våpen og partnervold
-omtalt.
-
-12.3.4.2 Kontakt med barneverntjenesten
-I 10 av de 15 sakene hvor det var relevant kontakt
-med politiet, var det mindreårige og hjemmeboende barn i familien. Politiet sendte bekymringsmelding til barneverntjenesten i 2 saker. I ytterligere én sak ble barneverntjenesten koblet inn i
-saken omtrent samtidig som politiet, men det var
-uklart om det hadde sammenheng med at politiet
-varslet barnevernet. Politiet ble konsultert av barneverntjenesten i en fjerde sak.
-I 6 saker varslet ikke politiet barneverntjenesten. I én av disse sakene fremgikk det at politiet hadde kunnskap om partnervold. Det syntes
-som at politiet unnlot å varsle barnevernet fordi
-både politiet og den voldsutsatte fryktet at voldsutøver da ville bortføre barna til hjemlandet. I en
-annen sak hadde politiet kunnskap om at offeret
-og gjerningspersonen hadde problemer i parforholdet, og at gjerningspersonen hadde alkoholproblemer. Politiets utlendingsseksjon hadde
-også opplysninger om at offerets barn ikke ville
-være hjemme alene med gjerningspersonen, og
-om at offeret hadde vært på krisesenter. Offerets
-benektende svar på spørsmål om gjerningspersonen utsatte offeret eller barnet for vold førte tilsynelatende til at politiet likevel ikke vurderte å kontakte barneverntjenesten. I de resterende 4
-sakene lå kontakten med politiet mange år tilbake
-i tid, og var av svært begrenset omfang.
-
-12.3.5
-
-Utfordringer
-
-12.3.5.1 Hovedinntrykk
-Politiet har en svært viktig rolle i arbeidet med å
-forebygge partnerdrap, og det var relevant kontakt mellom politiet og gjerningspersonen og/
-eller offeret i mange av de gjennomgåtte sakene.
-Utvalget så enkelte eksempler på at politiet
-håndterte saken på en måte som var egnet til å
-forebygge ytterligere vold og drap. Dette gjaldt
-spesielt i én sak. Politiet startet etterforskning,
-deltok i samarbeidsmøter med andre instanser og
-ila voldsutøver besøksforbud i eget hjem. Saken
-stoppet likevel opp da den voldsutsatte trakk
-anmeldelsen og paret flyttet sammen igjen. I en
-annen sak henviste politiet den voldsutsatte til krisesenter, vurderte bruk av SARA og utstyrte
-voldsutsatte med mobil voldsalarm. Enkelte saker
-etterlot et inntrykk av at politiet ikke kunne gjort
-noe annerledes for å forebygge partnerdrapet. I
-disse sakene lå ansvaret tilsynelatende i større
-grad hos andre instanser. I én sak ble for eksempel gjerningspersonen flere år før drapet anmeldt
-
-[Side 141]
-
-NOU 2020: 17
-Varslede drap?
-
-for vold mot tidligere samboer i en annen del av
-landet. Politiet hadde ingen kontakt med gjerningspersonen etter at han etablerte seg med
-offeret i en ny kommune. Andre instanser hadde
-derimot omfattende kontakt med paret, uten å
-varsle politiet.
-Utvalgets hovedinntrykk er likevel at det var
-flere saker hvor politiet ikke benyttet forebyggingspotensialet, og at det ble gjort for lite i både
-etterforsknings- og forebyggingsporet, se punkt
-7.2.2. Utfordringene ved politiets håndtering i de
-gjennomgåtte sakene handler først og fremst om
-manglende avdekking av risiko for vold og partnerdrap og manglende oppfølging av voldssaker.
-Det var også en utfordring i seg selv at det var stor
-variasjon med hensyn til hvordan politiet håndterte sakene – til tross for at politiets arbeid i stor
-grad er regulert av regler, instrukser og skriftlige
-rutiner.
-
-12.3.5.2 Manglende avdekking, kartlegging og
-risikovurdering
-Avdekking og kartlegging
-Utvalget så utfordringer med både avdekking og
-kartlegging av vold.
-Når det gjelder avdekking, så utvalget blant
-annet utfordringer ved politiets kommunikasjon
-med enkeltpersoner, særlig når det gjaldt bruk av
-kvalifisert tolk. I én sak unnlot politiet å bruke
-tolk i møte med et offer som kom til politistasjonen for å anmelde gjerningspersonen for vold.
-Ved en annen anledning brukte politiet offerets
-barn som tolk.487 Saken etterlot et inntrykk av at
-manglende bruk av kvalifisert tolk bidro til at politiet ikke fanget opp alvoret i situasjonen, og til at
-offeret ikke anmeldte saken. I en annen sak unnlot politiet å bruke kvalifisert tolk i møte med gjerningspersonen, og opplysninger i saken tydet på
-at gjerningspersonen ikke forstod innholdet i samtalen. Det er, etter utvalgets syn, svært problematisk at politiet ikke brukte kvalifisert tolk i samtaler hvor det var behov for det. Det er særlig problematisk at politiet brukte familiemedlemmer
-som tolk. Se mer om manglende bruk av kvalifisert tolk i punkt 14.3.3.
-Når det gjelder kartlegging, så utvalget flere
-eksempler på at det ikke ble gjennomført avhør
-med offeret eller gjerningspersonen til tross for at
-politiet hadde kunnskap om vold. Det var også
-487
-
-Dette utgjorde trolig et brudd på forvaltningsloven § 11 e.
-Det slås fast i bestemmelsen at forvaltningsorganer ikke
-skal bruke barn som tolk.
-
-139
-
-Kapittel 12
-
-flere eksempler på at politiet ikke gjennomførte
-avhør av barn. Én sak ble for eksempel henlagt
-som følge av manglende kapasitet, uten at det var
-gjennomført avhør av mistenkte eller fornærmede, og uten at det var gjennomført tilrettelagte
-avhør av barna som hadde vært vitne til voldshendelsen. Utvalget så også eksempler på at politiet
-ikke innhentet informasjon fra andre instanser
-som var i kontakt med partene.
-Utvalget så videre at politiet unnlot å gjøre
-undersøkelser som kunne bidratt til å kartlegge
-risikobildet. Politiet undersøkte for eksempel ikke
-strafferegisteret for å avdekke eventuelle tidligere
-straffbare forhold i alle sakene. Politiet undersøkte heller ikke våpenregisteret i de 2 sakene
-hvor gjerningspersonen hadde tillatelse til å eie
-skytevåpen. I begge sakene kunne politiets kunnskap om våpentilgang, sett i sammenheng med
-andre faktorer som kunne bidra til forhøyet risiko,
-gitt et klart insentiv til å følge opp saken. Dette
-gjaldt spesielt den ene saken, hvor gjerningspersonen hadde rusproblemer og økonomiske problemer, i tillegg til å være i en bruddsituasjon med
-offeret.
-Risikovurdering
-Utvalget så videre utfordringer ved politiets vurdering av risikoen i sakene – både at politiet ikke
-gjennomførte risikovurderinger, og at risikoen tilsynelatende ble vurdert for lavt.
-Det var for det første ingen opplysninger om at
-politiet hadde gjennomført SARA-vurdering i de
-sakene hvor politiet var pålagt å gjøre dette, se
-punkt 7.2.3.1. Det var heller ingen opplysninger
-om at politiet hadde gjennomført usystematiske
-risikovurderinger. I én sak hadde for eksempel
-politiet i over 20 år registrert mye informasjon i
-saken. Det ble blant annet registrert flere alvorlige voldshendelser i flere nære relasjoner. En
-SARA-vurdering ville, etter utvalgets syn, gitt treff
-på nesten samtlige risikofaktorer. Det syntes som
-om mange år med manglende systematisering av
-mye informasjon og manglende vurderinger av
-risiko, bidro til at politiet aldri fikk god nok oversikt over trusselbildet. Utvalget mener det er en
-stor utfordring at politiet tilsynelatende ikke gjennomførte risikovurderinger i noen av sakene. Det
-er viktig å gjøre risikovurdering i alle partnervoldsaker, også i saker hvor volden fremstår som
-en enkelthendelse, hvor voldsutøver er en kvinne,
-hvor begge parter utøver vold eller hvor volden av
-andre grunner fremstår som mindre alvorlig.
-Slike vurderinger vil kunne sette politiet i stand til
-å iverksette treffende beskyttelsestiltak.
-
-[Side 142]
-
-140
-
-Kapittel 12
-
-NOU 2020: 17
-Varslede drap?
-
-Politiet vurderte for det andre risikoen for lavt
-i flere saker. I én sak var dette særlig fremtredende. I denne saken anmeldte offeret gjerningspersonen for trusler og partnervold to ganger
-kort tid før drapet. Saken ble først registrert som
-en sak om mishandling i nære relasjoner, men ble
-senere nedkodet til mindre alvorlig vold, se punkt
-12.3.3.2. Opplysninger i saken tilsa imidlertid at
-offeret ble utsatt for både gjentakende fysisk vold
-og betydelig psykisk vold, og at saken derfor var
-omfattet av straffeloven § 282 om mishandling i
-nære relasjoner. Det ble ikke gjennomført noen
-strukturert risikovurdering, og saken ble etterhvert oversendt til Konfliktrådet. Dette til tross for
-at den ikke oppfylte vilkårene for konfliktrådsbehandling. Gjerningspersonen var ikke avhørt, og
-gjeldende retningslinjer i politidistriktet tilsa at
-alle saker om vold i nære relasjoner skulle oversendes statsadvokaten. Håndteringen av saken
-viste med tydelighet at politiet ikke oppfattet risikoen i saken.
-I en annen sak fremgikk det at politiet var
-kjent med at parets barn hadde vært vitne til en
-voldshendelse, og at barnet fysisk måtte stanse
-voldsutøver. Det var klare indikasjoner på alvorlig
-vold. Politiet vurderte likevel saken som en «mindre voldssak» og opprettet ikke straffesak.
-I enkelte saker syntes det som om politiet
-undervurderte risikoen som følge av at voldsutøveren var en kvinne og den voldsutsatte var en
-mann. I én sak anmeldte for eksempel mannen
-kvinnen for alvorlig vold flere ganger før drapet.
-Kvinnen ble ilagt besøksforbud, men dette var
-ikke lenger gjeldende da drapet skjedde. Det ble
-ikke iverksatt andre beskyttelsestiltak i saken.
-Saken etterlot et inntrykk av at politiet vurderte
-volden som mindre alvorlig fordi voldsutøveren
-var en kvinne. I en annen sak anmeldte kvinnen
-mannen for vold før drapet. I realiteten var det
-imidlertid kvinnen som i størst grad utøvde vold
-mot mannen. Politiet fanget ikke opp dette, og
-saken etterlot et inntrykk av at dette hadde sammenheng med forventninger til kjønnsroller.
-Noen saker etterlot et inntrykk av at risikoen
-ble undervurdert som følge av at politiet ikke tok
-partene på tilstrekkelig alvor. Disse sakene var
-svært forskjellige. I noen saker var personen som
-kontaktet politiet i en marginalisert livssituasjon.
-Disse sakene etterlot et inntrykk av at levekårsutfordringene bidro til at politiet anså volden som
-mindre alvorlig, se også punkt 11.3 og 11.6.5. I
-andre saker fremstod personene både ressurssterke og viljesterke. I én sak var for eksempel
-den voldsutsatte i samtale med politiet bestemt på
-at hun ønsket å flytte fra gjerningspersonen, og at
-
-hun ønsket volden anmeldt og etterforsket. Politiet iverksatte ingen beskyttelsestiltak i saken, og
-henviste henne ikke til krisesenter. Saken ble i
-stedet henlagt, se også punkt 12.3.5.3. Voldsutsattes fremtoning bidro tilsynelatende til at politiet
-undervurderte risikoen i saken. I en annen sak
-anmeldte offeret gjerningspersonen for vold flere
-ganger før drapet. Det var også andre voldsutsatte
-som anmeldte gjerningspersonen for vold. Alle
-sakene ble henlagt. I denne saken var det gjerningspersonens atferd som bidro til at politiet
-undervurderte risikoen. Gjerningspersonen var,
-ifølge opplysningene i saken, svært manipulerende. Den manipulerende atferden besto blant
-annet i å undergrave de fornærmedes troverdighet overfor politiet. Dette syntes å ha bidratt til at
-politiet oppfattet at de voldsutsatte overdrev alvoret i situasjonen. De voldsutsatte ble, etter utvalgets syn, ikke tatt på tilstrekkelig alvor i saken.
-Dette ledet igjen til at risikoen for vold ble undervurdert, og til at saken ikke ble tilstrekkelig håndtert.
-Saksgjennomgangen viste også at politiets
-kartlegging og vurdering av risiko henger nært
-sammen. I sakene hvor politiet ikke gjorde nok for
-å kartlegge forholdene i saken, ble også risikoen
-for ytterligere partnervold vurdert for lavt. Dette
-var for eksempel tilfellet i en sak hvor politiet ikke
-brukte kvalifisert tolk i samtale med offeret. I
-samme sak fastslo politiet at saken dreide seg om
-«krangling mellom mann og kone». Politiet ga
-uttrykk for at både offerets venn og krisesenteret
-overdrev alvoret i situasjonen.
-
-12.3.5.3 Manglende håndtering
-Anmeldelse og etterforskning
-Utvalget så eksempler på saker hvor politiet ikke
-opprettet sak til tross for at det, etter utvalgets
-syn, var grunnlag for å gjøre det. I én sak ble for
-eksempel politiet tilkalt til parets adresse i forbindelse med en voldshendelse. Politiet oppfordret
-den voldsutsatte til å anmelde dersom volden var
-«noe som hadde pågått over tid». Da offeret ikke
-ønsket å anmelde, og politiet ikke fant liknende
-hendelser i straffesaksregisteret, ble det ikke opprettet sak. Det er svært problematisk at politiet
-anga en terskel for anmeldelse. Politiet har plikt til
-å etterforske når det er rimelig grunn til å undersøke om det foreligger straffbart forhold som er
-underlagt offentlig påtale, se punkt 7.2.2. Politiet
-ga offeret kontaktinformasjon til krisesenteret, og
-dette er i utgangspunktet et eksempel på god oppfølging. Det korresponderte imidlertid dårlig med
-
-[Side 143]
-
-NOU 2020: 17
-Varslede drap?
-
-hvordan politiet ellers håndterte situasjonen.
-Saken etterlot et inntrykk av at politiet verken forsto alvoret i situasjonen eller reagerte adekvat på
-det de observerte. Riksadvokaten har uttalt at det
-ikke er akseptabelt at politiet gjør opp familievoldssaker på stedet, og at slike hendelser ikke
-skal regnes som «husbråk», se punkt 7.2.2.
-I en annen sak kontaktet barneverntjenesten
-politiet etter at et søskenpar hadde fortalt at foreldrene utsatte dem for vold. Barneverntjenesten
-konsulterte politiet om saken, og spurte blant
-annet om saken burde anmeldes. Politiet ga,
-ifølge dokumentene, uttrykk for at det uansett
-ikke ville komme noe mer ut av saken enn et
-avhør med de involverte. De ble enige om ikke å
-anmelde saken. Saken etterlot et inntrykk av at
-politiet utviste en passiv holdning til en potensielt
-alvorlig situasjon.
-I en tredje sak tok det svært lang tid før politiet
-opprettet sak. Politiet forklarte offeret gjentatte
-ganger at politiet ikke hadde kapasitet til å ta imot
-anmeldelsen, og det tok et halvt år før vedkommende fikk anmeldt saken.
-Beskyttelsestiltak
-Det ble, etter utvalgets syn, i for liten grad iverksatt beskyttelsestiltak i sakene. Politiet iverksatte
-beskyttelsestiltak i bare 4 av 7 saker med registrert partnervold. I 3 av disse sakene ble det bare
-ilagt besøksforbud. I den siste saken ble det ilagt
-besøksforbud og utdelt mobil voldsalarm. I én sak
-brøt den voldsutsatte selv besøksforbudet. Det var
-ingen opplysninger om at politiet vurderte andre
-forebyggende tiltak.
-Alle voldssaker krever individuelle vurderinger, og det er ikke gitt at iverksettelse av flest
-mulig beskyttelsestiltak er det som vil avverge
-drap. Utvalget mener likevel at flere saker etterlot
-et inntrykk av at politiet utviste en uforholdsmessig tilbakeholdenhet med å iverksette tilgjengelige tiltak.
-Henleggelser
-Det var flere av de opprettede straffesakene som,
-etter utvalgets syn, ikke burde vært henlagt. I én
-sak ble en straffesak om vold i nære relasjoner
-henlagt som følge av manglende kapasitet. På tidspunktet for henleggelsen var det ikke gjennomført avhør av noen av partene, heller ikke av offerets barn. Dette til tross for at offeret hadde fortalt
-politiet at hun også tidligere var utsatt for alvorlig
-partnervold. Henleggelsen utgjorde blant annet et
-
-141
-
-Kapittel 12
-
-brudd på bindende retningslinjer i Riksadvokatens rundskriv fra 2008. Det følger av rundskrivet
-at ressursmangel ikke gir grunnlag for å henlegge
-familievoldssaker. Det fremgår videre at saker om
-familievold som regel ikke skal henlegges før alle
-naturlige etterforskingsskritt er forsøkt,488 se
-også punkt 7.2.2. Opplysninger i saken indikerte
-at politiet rettet fokus mot trusler fra offerets tidligere partner, og at dette ledet oppmerksomheten
-bort fra den trusselen gjerningspersonen utgjorde.
-Utvalget så videre eksempler på at politiet
-henla saker om partnervold på grunnlag av lite
-grundig etterforskning. I én sak ble gjerningspersonen gjentatte ganger, over mange år, anmeldt
-for vold i flere nære relasjoner. Alle anmeldelsene
-ble henlagt. Det syntes som om politiet la for stor
-vekt på at gjerningspersonen tilbakeviste påstandene om vold.
-I andre saker henla politiet saken så fort den
-voldsutsatte trakk anmeldelsen om vold. Dette til
-tross for at saker om vold i nære relasjoner er
-underlagt offentlig påtale, se punkt 7.2.2. I 2 saker
-ble gjerningspersonen anmeldt da paret var i en
-bruddfase. Kvinnen trakk anmeldelsen da paret
-senere flyttet sammen igjen. I begge sakene var
-mannen ilagt besøksforbud i eget hjem. Det kan,
-på generelt grunnlag, være utfordrende å iretteføre en sak dersom fornærmede trekker anmeldelsen og politiet mangler andre bevis. Dette vil
-kunne lede til at saken henlegges. At det er mer
-eller mindre sannsynlig at en sak vil kunne føre til
-tiltale, er imidlertid ikke et vilkår for å iverksette
-forebyggende tiltak, se punkt 7.2.2. Det syntes
-likevel som om politiet i flere saker unnlot å iverksette beskyttelsestiltak fordi saken ikke ble etterforsket. Utvalget mener at politiet i disse sakene
-burde etterforsket med hensikt om å avdekke
-vold og å iverksette beskyttelsestiltak – uavhengig
-av om straffesaken kunne lede til en fellende dom.
-Manglende informasjonsutveksling
-Utvalget så utfordringer ved politiets varsling av
-barneverntjenesten. I én sak vurderte utvalget det
-slik at politiet brøt opplysningsplikten. Politiet
-burde varslet barneverntjenesten i ytterligere 2
-saker, i alle fall i medhold av opplysningsrett, se
-punkt 8.6.3. Utvalget så også et eksempel på mangelfull informasjonsutveksling innad i politiet. Det
-førte tilsynelatende til at risikoen for vold og drap
-ikke ble fanget opp.
-488
-
-Riksadvokatens rundskriv nr. 3 (2008) s. 9.
-
-[Side 144]
-
-142
-
-Kapittel 12
-
-NOU 2020: 17
-Varslede drap?
-
-Manglende dokumentasjon og profesjonalitet
-Utvalget så flere eksempler på mangelfull dokumentasjon i politidokumentene. I flere saker skrev
-for eksempel politiet egenrapporter om voldshendelser mellom offeret og gjerningspersonen i forbindelse med drapsetterforskningen, svært lenge
-etter den aktuelle hendelsen skjedde. I én av
-egenrapportene fremgikk det at politiet ikke husket noe fra oppdraget. Dette var et oppdrag hvor
-politiet rykket ut til parets hjem etter en voldshendelse.
-Mangelfull dokumentasjon er problematisk av
-flere grunner. Dokumentasjon kan virke både
-skjerpende og forpliktende for politiet. Med forpliktende menes at det kan få politiet til å tenke
-nøye over situasjonen som skal dokumenteres –
-hva som skjedde og hva som ble sagt. Dette er
-spesielt viktig i partnervoldssaker ettersom den
-voldsutsatte ofte underdriver det vedkommene er
-utsatt for. Med forpliktende menes at det i en rapport vil fremgå tydelig hva som eventuelt ikke er
-gjort i saken. Dette kan gi et insentiv til å følge
-opp saken med etterforskingsskritt eller iverksettelse av forebyggende tiltak. Dokumentasjon kan
-også være viktig for den videre oppfølgingen av
-den voldsutsatte, og for den voldsutsatte selv i forbindelse med en eventuell straffesak.
-Utvalget så flere eksempler på at politiet opptrådte uprofesjonelt. I én sak kontaktet for eksempel gjerningspersonen politiet for å etterlyse offeret. Politiet delte da informasjon om politiets kontakt med offeret. Dette gjorde gjerningspersonen
-oppmerksom på at politiet var involvert i saken.
-Dette er svært alvorlig. Det er for det første et
-brudd på taushetsplikten, jf. politiregisterloven
-§ 23. Det er for det andre trolig en tjenestefeil, jf.
-straffeloven § 171. Det kunne for det tredje økt
-risikoen for mer alvorlig vold og satt den voldsutsatte i en farlig situasjon ved at voldsutøver ble
-provosert over at partneren var i kontakt med
-politiet.
-Utvalget registrerte også eksempler på at politiet uttalte seg uskjønnsomt om voldshendelser.
-Politiet omtalte for eksempel partnervold som
-«husbråk» og «slåssing» i egenrapporter. I én sak
-fremgikk det at politiet frarådet ileggelse av
-besøksforbud fordi «da blir det bare verre». I en
-annen sak uttalte politiet at ektefeller «jo har lov å
-krangle litt». Dette var i en sak hvor politiet hadde
-opplysninger om at gjerningspersonen utøvde
-psykisk vold mot offeret og at offeret hadde kontakt med krisesenter. Slik utvalget ser det, kan
-slike formuleringer bidra til å undervurdere hvor
-farlig en situasjon er, og dermed forhindre at
-
-andre instanser i politi og annet hjelpeapparat forstår det fulle risikobildet.
-
-12.4 Helse- og omsorgstjenesten
-12.4.1
-
-Om kontakten
-
-12.4.1.1 Dokumentasjon
-Straffesaksdokumentene inneholdt dokumentasjon fra helsetjenesten i 17 av de 19 gjennomgåtte
-sakene. Det var dokumentasjon om offer i 11
-saker,489 og dokumentasjon om gjerningsperson i
-15 saker. Dokumentasjonen bestod oftest av pasientjournal fra fastlege. Det var i mange saker også
-innhentet dokumentasjon fra legevakt, sykehus,
-ambulansetjeneste, psykisk helsevern og helsestasjon. I 4 saker var det innhentet pasientjournaler
-om barn i familien.
-Politiet hadde gjennomgående innhentet mest
-dokumentasjon om gjerningspersonene i forbindelse med etterforskningen. Gjerningspersonenes kontakt med helse- og omsorgstjenesten var
-dermed bedre belyst i straffesaksdokumentene
-enn det som var tilfellet for ofrene. Dette hadde
-også sammenheng med at de rettspsykiatriske
-erklæringene inneholdt mye relevant informasjon,
-og at gjerningspersonene ofte delte relevante opplysninger i avhør.
-12.4.1.2 Hvilke instanser var det kontakt med?
-Offer og/eller gjerningsperson hadde, ifølge straffesaksdokumentene, kontakt med én eller flere
-instanser i helse- og omsorgstjenesten før drapet i
-alle de gjennomgåtte sakene.
-Det var kontakt med fastlege i 18 saker. Totalt
-var det 11 ofre og 15 gjerningspersoner som
-hadde kontakt med fastlege før drapet. Videre var
-det registrert kontakt med legevakten i 7 saker,
-med sykehus i 7 saker, med ambulansetjenesten i
-4 saker og med akuttmedisinsk kommunikasjonssentral (AMK)490 i én sak. I 4 saker var gjerningsperson og/eller offer i kontakt med helsestasjon,
-og i én sak var gjerningsperson og/eller offer i
-kontakt med fysioterapeut. I en sak var det kontakt med hjemmesykepleien og i én sak var det
-kontakt med flyktninghelsetjenesten. I ytterligere
-489
-
-I ytterligere én sak hadde politiet bedt om å få utlevert offerets pasientjournal fra fastlegen. Legen ga uttrykk for at
-det ikke fantes informasjon i journalen som ville være relevant i straffesaken og utleverte dermed ikke dokumentene.
-490
-AMK koordinerer ambulansetjenesten og mottar anrop på
-nødnummeret 113.
-
-[Side 145]
-
-NOU 2020: 17
-Varslede drap?
-
-én sak bodde offeret i en kommunal omsorgsbolig
-og ble fulgt opp av helsepersonell der.
-I 6 saker var det opplysninger om at offer og/
-eller gjerningsperson hadde kontakt med psykisk
-helsevern. I én av disse sakene hadde offeret fått
-rusbehandling på distriktspsykiatrisk senter
-(DPS), og i 2 saker hadde offeret og gjerningspersonen kontakt med en psykiatrisk sykepleier.
-Utvalget fant ingen opplysninger om at gjerningspersonen eller offeret hadde vært i kontakt
-med et behandlingstilbud for voldsutøvere utenfor
-den offentlige helse- og omsorgstjenesten, se
-punkt 7.3.4.2.
-
-12.4.1.3 Hva handlet kontakten om?
-Kontakten med helse- og omsorgstjenesten handlet først og fremst om gjerningspersonenes og
-ofrenes somatiske og psykiske helseplager. Se
-punkt 10.6 for en oversikt over kliniske forhold i
-sakene. Blant disse var det noen saker hvor partnervold var et tema i kontakten. En del hadde
-også kontakt med helsetjenesten på grunn av
-barns behov for helsehjelp.
-Det var store variasjoner mellom sakene –
-både med hensyn til hva kontakten handlet om,
-og om kontakten var relevant for forebygging av
-partnerdrap. I én sak ble for eksempel offeret
-brakt til sykehus med kritiske skader som følge av
-partnervold. Kontakten med helsetjenesten var da
-utvilsomt svært relevant for å belyse hjelpeapparatets håndtering av saken. I en annen sak var gjerningspersonen hos fastlegen én gang for å undersøke en albue. I denne saken var ikke kontakten
-med helsetjenesten særlig relevant for forebygging. Kontakt om psykiske helseproblemer eller
-rusproblematikk var på sin side ofte relevant, også
-når partnervold aldri ble et tema. Slike utfordringer er faktorer som kan bidra til forhøyet risiko
-for partnervold og partnerdrap, se punkt 4.4.6 og
-4.4.7.
-Offeret og/eller gjerningspersonen hadde
-kontakt med helsetjenesten på grunn av somatiske helseplager i alle sakene. I 6 av sakene var
-det opplysninger om at helseplagene skyldtes
-partnervold.491 Det var flere voldsutsatte som ved
-én eller flere hendelser ble brakt til, eller selv oppsøkte, legevakt, fastlege eller sykehus, som følge
-av fysiske voldsskader. Mesteparten av kontakten
-med helsetjenesten gjaldt imidlertid andre soma491
-
-At personen oppsøkte hjelp på grunn av voldsskader er
-ikke ensbetydende med at vold var et tema i kontakten med
-helsetjenestene. Se nærmere om avdekking av partnervold
-i punkt 12.4.2.2.
-
-143
-
-Kapittel 12
-
-tiske helseplager hos offeret eller gjerningspersonen. Dette var plager som ikke kunne knyttes
-direkte til partnervold, for eksempel kronisk
-smerteproblematikk,
-hjertesymptomer
-eller
-andre mer diffuse plager. I 2 saker handlet kontakten om omfattende somatiske helseplager, henholdsvis alvorlig sykdom og alvorlig funksjonsnedsettelse.
-I 13 saker var psykiske helseplager et tema i
-kontakten med helsetjenesten. Med psykiske plager menes her både diagnostisert psykiske lidelser og symptomer på psykiske lidelser. I 2 saker
-handlet kontakten om diagnostiserte psykiske
-lidelser. I én av disse var det tale om alvorlige psykiske lidelser, og som medførte at gjerningspersonen ble erklært utilregnelig og dømt til tvungent
-psykisk helsevern etter drapet. I ytterligere 2
-saker var det opplysninger om at offeret og/eller
-gjerningspersonen tidligere hadde hatt kontakt
-med helsetjenesten om alvorlige, diagnostiserte
-psykiske lidelser. I én sak gjaldt kontakten et selvmordsforsøk, og i 5 saker gjaldt kontakten tilsynelatende moderate eller mindre alvorlige psykiske
-plager. Utvalget understreker at det i flere saker
-var kontakt med helsetjenesten om psykiske helseplager uten at det var kontakt med psykisk
-helsevern.
-I sakene hvor paret hadde kontakt med helsetjenesten om barn, handlet kontakten først og
-fremst om alminnelige somatiske plager. I en del
-tilfeller bestod kontakten av oppfølging på helsestasjon.
-Partner vold var et tema i kontakten med helsetjenesten i 7 saker. I disse sakene var det opplysninger om at helsepersonell enten kjente til
-partner vold (5 saker)492 eller mistenkte at pasienten var utsatt for partner vold (2 saker).493 Se
-nærmere om avdekking av vold i punkt 12.4.2.2.
-I de 12 resterende sakene var det ingen opplysninger om at vold var et tema i kontakten med
-helsetjenesten. Blant disse var det likevel noen
-saker hvor kontakten handlet om fysiske voldsskader, og noen saker hvor pasienten ble utsatt for
-langvarig og omfattende mishandling av partner.
-492
-
-Helsepersonell med kunnskap om partnervold arbeidet
-enten som fastlege (2 saker), på legevakten (2 saker), på
-sykehuset (1 sak), på helsestasjonen (1 sak) eller på DPS
-(1 sak). I to av disse sakene hadde flere instanser kunnskap
-om partnervold. I én av sakene hadde helsepersonell også
-kunnskap om at gjerningspersonen utøvde vold mot flere
-personer enn offeret.
-493 I den ene saken var det helsepersonell på sykehus og ved
-AMK som hadde mistanke om partnervold. I den andre
-saken var det psykiatrisk sykepleier som spurte offeret om
-vedkommende var utsatt for vold (ikke spesifikt partnervold).
-
-[Side 146]
-
-144
-
-Kapittel 12
-
-NOU 2020: 17
-Varslede drap?
-
-Det var på denne bakgrunn ingen sammenheng
-mellom voldens karakter og omfang, og om vold
-var et tema i kontakten med helsetjenesten.
-
-12.4.1.4 Omfang og varighet
-Det var betydelige forskjeller mellom sakene når
-det gjelder det dokumenterte omfanget og varigheten av kontakten med helse- og omsorgstjenesten. I noen saker var det innhentet mye dokumentasjon fra helsetjenesten, mens det i andre
-saker var innhentet vesentlig mindre.
-Kontakten med helsetjenesten ble som regel
-opprettet ved at offeret eller gjerningspersonen
-selv oppsøkte en instans i helsetjenesten som
-følge av behov for medisinsk hjelp. I noen saker
-ble personen brakt til sykehus eller legevakt av
-ambulansetjenesten eller av andre instanser. I de
-fleste sakene syntes det som at offeret og/eller
-gjerningspersonen hadde en eller annen form for
-kontakt med helsetjenesten helt frem til drapet.
-Når det gjelder kontakten om somatiske helseplager, var kontakten i de fleste sakene nokså lite
-omfattende og av sporadisk karakter. I 2 saker var
-det imidlertid svært omfattende kontakt på grunn
-av behov for omfattende behandling og pleie. Det
-var også enkelte andre saker hvor det var både
-hyppig og langvarig kontakt med helsetjenesten.
-Dette gjaldt særlig saker hvor pasienten hadde
-kroniske og/eller diffuse helseplager.
-Kontakten med helsetjenesten om psykiske
-helseplager var i flere saker også kortvarig og lite
-omfattende. Dette var for det første tilfellet i
-sakene hvor pasienten hadde kontakt med fastlege eller sykehus om psykiske plager, uten å bli
-henvist til psykisk helsevern. Det var for det
-andre tilfellet i en del saker hvor det var kontakt
-med psykisk helsevern, og de psykiske plagene
-syntes å ha vært moderate eller mindre alvorlige.
-I disse sakene gikk tilsynelatende offeret eller
-gjerningspersonen til psykolog eller psykiatrisk
-sykepleier i korte perioder. Kontakten om psykiske helseplager var mest omfattende i én sak
-hvor gjerningspersonen hadde alvorlige psykiske
-lidelser. I denne saken var det svært omfattende
-og langvarig kontakt med psykisk helsevern og
-andre instanser i helsetjenesten. Vedkommende
-var innlagt både frivillig og under tvang flere ganger, og brukte mye medikamenter. I 2 saker hvor
-kontakten handlet om tidligere alvorlige psykiske
-lidelser, syntes kontakten å ha vært omfattende,
-men kortvarig. I disse sakene hadde plagene medført medikamentell behandling om en innleggelse
-i psykisk helsevern.
-
-I sakene hvor kontakten med helsetjenesten
-handlet om barns behov for helsehjelp, bestod
-kontakten som regel av alminnelig kontakt ved
-oppfølging på helsestasjon, eller sporadisk kontakt med fastlege i forbindelse med sykdom eller
-skade. I enkelte saker var det noe mer omfattende
-kontakt, for eksempel ved deltakelse på foreldreveiledningsprogram i regi av helsestasjonen, eller
-ved hyppige konsultasjoner hos fastlege eller helsestasjon.
-Når det gjelder sakene hvor vold var et tema,
-etterlot disse et inntrykk at det ikke var noen tydelig sammenheng mellom helsepersonells mistanke eller kunnskap om vold, og omfanget og
-varigheten av kontakten. I én sak måtte for eksempel offeret legges inn på sykehuset med omfattende voldsskader som følge av partnervold.
-Sykehuset mistenkte at skadene skyldtes vold. Da
-pasienten selv benektet dette, ble hun utskrevet
-uten avtale om en oppfølgingstime eller liknende.
-I sakene hvor det var mer eller mindre omfattende
-kontakt og oppfølging fra helsetjenestens side,
-handlet dette som regel om somatiske eller psykiske helseplager som ikke ble sett i sammenheng med volden.
-
-12.4.2
-
-Om helsetjenestens håndtering av
-sakene
-
-12.4.2.1 Innledning
-Utvalget har særlig vurdert helsetjenestens arbeid
-med å avdekke partnervold og annen familievold.
-Utvalget har også vurdert helsetjenestens håndtering av rusproblemer og psykiske plager. Slike
-utfordringer er faktorer som kan bidra til forhøyet
-risiko for partnervold og partnerdrap. Helsetjenestens arbeid i slike saker er derfor viktig i arbeidet med forebygging. Utvalget har ikke vurdert
-helsetjenestens helsefaglige vurderinger genrelt.
-Dette falt, etter utvalgets syn, utenfor mandatet.
-
-12.4.2.2 Avdekking av vold i nære relasjoner
-Helsetjenesten hadde journalført, og dermed
-registrert, kunnskap om partnervold i 5 saker. I
-disse sakene fikk helsepersonell kunnskap om
-vold ved at pasienten selv fortalte om det (4
-saker), eller fordi barneverntjenesten informerte
-helsetjenesten om det. I én av de 5 sakene fortalte
-også voldsutøveren om volden mot den voldsutsatte.
-Helsepersonell journalførte i tillegg mistanke
-om partnervold i 2 saker. I begge sakene fremgikk det at helsepersonell spurte offeret én gang
-
-[Side 147]
-
-NOU 2020: 17
-Varslede drap?
-
-om hun ble utsatt for vold. Offeret benektet dette i
-begge tilfellene. I den ene saken fortalte offeret
-om relativt omfattende kontrollerende atferd fra
-gjerningspersonen, blant annet ved at han hindret
-henne i å delta på sosiale aktiviteter og å ha ordinær sosial kontakt med andre menn. Det så ikke
-ut til at dette ble fulgt opp, eller at det ble gjort
-nærmere undersøkelser fra helsepersonells side
-for å avdekke andre former for vold.
-I de resterende 12 sakene var det ingen opplysninger som indikerte at vold var et tema i kontakten med helsetjenesten. I 3 av disse sakene
-hadde offeret en skade som ble forklart med at
-vedkommende hadde falt. I én av sakene tydet
-journalførte opplysninger på at ambulansepersonell tvilte på offerets forklaring, men at dette ikke
-ble tatt opp med pasienten. Fastlegen, som ble
-gjort kjent med ambulansepersonellets tvil, tok tilsynelatende heller ikke opp dette med pasienten. I
-den andre saken forklarte offeret en skade i hånden med et fall. Helsepersonell utfordret ikke offerets forklaring, og det var heller ingen opplysninger om at helsepersonell gjorde en selvstendig
-vurdering av om skaden var forenlig med forklaringen. Helsepersonell som kjente offeret privat
-sa i avhør etter drapet at de hadde reagert på at
-skaden ikke samsvarte med offerets forklaring,
-og at de mistenkte at offeret hadde blitt utsatt for
-vold. I den tredje saken oppga offeret et fall som
-årsak til helseplager ved flere konsultasjoner med
-fastlegen. Ved én anledning hadde hun en skade
-ved øyet. Ifølge vitneavhør etter drapet, var skadene forårsaket av partnervold. Fastlegen stilte
-ikke spørsmål om vold. I denne saken ble også
-gjerningspersonen nærmest rutinemessig brukt
-som tolk under konsultasjonene. Se nærmere om
-tolking i punkt 14.3.3.
-I flere av de 12 sakene hvor vold ikke var et
-tema, hadde offeret eller gjerningspersonen hatt
-mange konsultasjoner i helsetjenesten på grunn
-av fysiske – og noen ganger diffuse – plager. I én
-av disse sakene mente fastlegen at gjerningspersonens fysiske plager ikke samsvarte med antatt
-diagnose. I en annen sak hadde offeret svært hyppig kontakt med fastlegen om ulike fysiske og psykiske plager. Det var ingen opplysninger om at
-helsepersonell stilte spørsmål om vold i disse
-sakene, eller om at de ellers vurderte om plagene
-kunne ha sammenheng med voldsutsatthet.
-
-12.4.2.3 Særlig om rus og medikamentbruk
-Flere gjerningspersoner og ofre hadde, eller
-hadde hatt, rusproblemer, se punkt 10.6. Rusproblemene var både knyttet til alkohol og til medika-
-
-145
-
-Kapittel 12
-
-menter utskrevet av lege, men var i relativt liten
-grad et tema i kontakten med helsetjenesten. I 4
-saker var rusproblemer et tema, men det var bare
-opplysninger i 2 saker om at dette ledet til oppfølging fra helsetjenestens side.
-Alkoholavhengighet var et tema i kontakten
-med helsetjenesten i 2 saker. I den ene saken
-hadde pasienten gjennomgått rusbehandling på
-DPS. I den andre saken var alkoholavhengighet et
-tema i pasientens kontakt med fastlegen, men det
-var ingen opplysninger om at dette ledet til
-behandling.
-Medikamentmisbruk var også et tema i kontakten med helsetjenesten i 2 saker. I begge
-sakene hadde offeret og/eller gjerningspersonen
-god tilgang til medikamenter over tid. I den ene
-saken hadde offeret en betydelig fysisk funksjonsnedsettelse, og fikk utskrevet mye medikamenter.
-Både offeret og gjerningspersonen hadde en historikk med rusmisbruk. Offerets fastlege hadde
-problematisert medikamentbruken med vedkommende jevnlig over flere år, og gjentatte ganger
-nektet å gi ut nye resepter for A- og B-preparater.
-Det var imidlertid gjerningspersonen som i praksis hadde ansvar for offerets medisinering, og det
-kan ha bidratt til overforbruk. I den andre saken
-hadde pasienten en alvorlig psykisk lidelse og
-brukte mye medikamenter. Helsepersonell diskuterte omfanget av medikamentbruken med pasienten flere ganger. I samråd med vedkommende,
-ble dosene redusert og enkelte medisiner byttet
-ut.
-I enkelte andre saker så utvalget at pasienten
-fikk utskrevet mye vanedannende, smertestillende medikamenter, tilsynelatende uten at dette
-var et tema i kontakten med helsetjenesten. I
-disse sakene syntes bruken av slike medikamenter å ha startet i forbindelse med en skade eller
-psykiske plager. Utskrivningene fortsatte i flere år
-etterpå, delvis også uten at pasienten møtte opp
-hos fastlegen.
-I flere saker ble partnerdrapet begått mens
-gjerningspersonen var ruset på alkohol og medikamenter, se punkt 10.5.
-
-12.4.2.4 Hva gjorde helsetjenesten i saker hvor de
-hadde mistanke eller kunnskap om vold?
-Forskjellige instanser i helsetjenesten hadde mistanke eller kunnskap om partnervold før drapet i
-7 saker. Utvalgets inntrykk er at helsetjenesten
-først og fremst tilbød alminnelig helsehjelp i disse
-sakene, og at de i mindre grad iverksatte målrettede voldsforebyggende tiltak eller varslet andre
-instanser.
-
-[Side 148]
-
-146
-
-Kapittel 12
-
-NOU 2020: 17
-Varslede drap?
-
-Når det gjelder helsehjelpen, ble fysiske voldsskader for eksempel behandlet med sårstell eller
-røntgen. Slik helsehjelp er i seg selv ikke særlig
-relevant for forebygging av fremtidig vold og
-drap. Utvalgets inntrykk var for øvrig at pasientene fikk den somatiske helsehjelpen de trengte.
-I noen saker var helsehjelpen rettet mot psykiske plager. I 2 saker ble den voldsutsatte henvist
-psykisk helsevern for oppfølging, men det ble
-ikke sørget for at kontakten ble opprettet. Helsepersonell hadde kunnskap om partnervold i
-begge sakene. I den ene saken oppsøkte også
-flere andre personer, i tillegg til offeret, helsetjenesten med voldsskader forårsaket av gjerningspersonen. De fortalte om en reell frykt for at gjerningspersonen ville utøve vold på nytt, men ble tilsynelatende bare henvist til psykisk helsevern
-eller tilbudt medisinering for psykiske plager. Det
-var ingen opplysninger om at helsetjenesten iverksatte voldsforebyggende tiltak eller varslet andre
-instanser.494
-I en tredje sak kontaktet gjerningspersonen
-selv helsetjenesten for oppfølging i psykisk helsevern. I denne saken var gjerningspersonen alvorlig psykisk syk og ble stadig dårligere i dagene
-frem mot drapet. Vedkommende ble først avvist på
-grunn av manglende kapasitet. Da det senere var
-kapasitet til å tilby pasienten hjelp, ønsket ikke
-vedkommende lenger dette. Tvangsinnleggelse
-ble vurdert, men én instans i helsetjenesten
-mente det ikke var grunnlag for tvang, og en
-annen instans hadde ikke kompetanse til å vurdere det. Det ble i stedet avtalt et hjemmebesøk
-hos gjerningspersonen, men drapet skjedde før
-dette fant sted.
-Når det gjelder målrettede voldsforebyggende
-tiltak, var det én sak som skilte seg ut i positiv retning. I denne saken ble det gitt oppfølging ved
-legevakten etter at den ene parten i forholdet fortalte om partnervold og frykt for livet sitt. Vedkommende fikk blant annet tilbud om kriserådgivning, oppfølgingssamtaler og hjelp til å kontakte
-politiet. Vedkommende fikk også informasjon om
-krisesentertilbudet og kontaktinformasjon til
-bistandsadvokater. Helsepersonell vurderte også
-sikkerhetssituasjonen til vedkommende. Straffesaksdokumentene viste at det var den mest dominerende parten i forholdet som fikk denne oppfølgingen hos legevakten, og det var denne personen
-som ble gjerningsperson i partnerdrapet.
-
-494
-
-I den ene av de 2 sakene konstaterte fastlegen at den voldsutsatte allerede var i kontakt med politiet, og at hun hadde
-kontaktinformasjon til krisesenter.
-
-Utvalget så i tillegg ett eksempel på at helsestasjonen tilbød den voldsutsatte og voldsutøveren å delta på et foreldreveiledningsprogram
-(ICDP),495 og ett eksempel på at helsetjenesten
-oppfordret den aktuelle familien til å kontakte
-familiesenteret i kommunen.496 Familien fikk veiledning der i en kort periode før drapet skjedde.
-Det var ingen opplysninger om at helsetjenesten gjennomførte en strukturert vurdering av
-risikoen for fremtidig vold, for eksempel ved hjelp
-av risikovurderingsverktøyet Danger Assessment,
-se punkt 7.3.3.2.
-Når det gjelder informasjonsutveksling, viste
-straffesaksdokumentene at helsepersonell varslet
-politiet om vold i 2 av de 7 sakene hvor de hadde
-mistanke eller kunnskap om vold. I den ene saken
-varslet AMK politiet da de mottok et anrop fra en
-mann som fortalte at ektefellen var skadet. I den
-andre saken varslet legevakten politiet etter at
-flere privatpersoner hadde meldt fra om alvorlig
-bekymring for gjerningspersonens psykiske helse
-og muligheten for at vedkommende ville utøve
-vold.
-Blant de 5 sakene hvor helsetjenesten ikke
-varslet politiet, fremgikk det i 2 saker at helsepersonell visste at politiet allerede hadde kunnskap
-om volden. Varsling til politiet kan derfor ha blitt
-ansett unødvendig. I de 3 øvrige sakene hadde
-verken gjerningspersonen eller offeret kontakt
-med politiet angående partnervolden. I den ene
-saken mistenkte helsepersonell at offeret ble
-utsatt for vold, men fikk benektende svar da de
-spurte vedkommende om dette.
-I de 2 siste sakene hadde helsepersonell kunnskap om partnervold. Det var ikke tilstrekkelige
-opplysninger i sakene for å vurdere hvorfor helsetjenesten ikke varslet politiet. Det var dermed
-ikke grunnlag for å vurdere om manglende varsling i disse sakene utgjorde et brudd på avvergeplikten i straffeloven § 196.
-Straffesaksdokumentene viste videre at helsepersonell kontaktet barneverntjenesten i 3 saker.
-Det ble sendt bekymringsmelding i 2 av sakene. I
-den tredje saken hadde allerede barnet selv varslet barneverntjenesten, og helsepersonell tok kontakt med saksbehandler for å undersøke om det
-var gjort noe i saken.
-Det var tilsynelatende ingen gjerningspersoner eller ofre som ble henvist til å ta kontakt med
-495
-
-International Child Development Programme (ICDP) er et
-forebyggende program som har som mål å styrke omsorgen og oppveksten for barn og unge. Det retter seg mot
-omsorgsgivere og skal styrke deres omsorgskompetanse.
-496
-Noen kommuner og bydeler har familiesentre eller familiehus som gir hjelp og veiledning til familier med barn.
+# Metode for uttrekk og gjennomgang av saker
+
+## Innledning
+
+Det følger av mandatet at utvalget skal gjennomgå «saker med drap der gjerningsperson er daværende eller tidligere partner». Utvalgets mandat gir ingen føringer når det gjelder metode for uttrekk eller gjennomgang av sakene.
+
+De fleste dokumentene i en straffesak inneholder taushetsbelagte opplysninger.[^458] For at utvalget skulle kunne gjennomføre sitt arbeid i henhold til mandatet, var det nødvendig å fremme et lovforslag som opphevet taushetsplikten for de aktuelle opplysningene. Lov om informasjonstilgang m.m. for Partnerdrapsutvalget ble sanksjonert 29. november 2019. For enkelhets skyld benevnes loven i dette kapittelet som «tilgangsloven». Tilgangsloven gir noen føringer for uttrekk av saker, se punkt 9.2. Det fremgår imidlertid av tilgangslovens forarbeider at utvalget innenfor lovens rammer «vil ha noe fleksibilitet i sin utvelgelse av saker, valget av metode og hvordan funnene og vurderingene av disse skal presenteres i en NOU».[^459]
+
+Gjennomgangen av straffesaksdokumentene i partnerdrapssakene har vært den mest sentrale delen av utvalgets arbeid. I de følgende punktene vil utvalget nærmere beskrive metoden for uttrekk og gjennomgang av sakene.
+
+## Tilgangsloven
+
+Tilgangsloven og dens forarbeider danner den ytre rammen for utvalgets arbeid. Tilgangsloven § 2 angir hvilke saker utvalget skal kunne innhente opplysninger om på følgende måte:
+
+«Utvalget skal innhente opplysninger om et utvalg av saksforløp knyttet til drap, jf. straffeloven § 275 og Almindelig borgerlig straffelov 22. mai 1902 nr. 10 § 233, eller andre forbrytelser med dødsfølge, jf. straffeloven §§ 272 og 274 og Almindelig borgerlig straffelov 22. mai 1902 nr. 10 §§ 229 og 231. Arbeidet omfatter tilfeller der forbrytelsen er begått i Norge eller på norsk skip i internasjonalt farvann.»
+
+Det følger videre av lovens forarbeider at utvalget kan undersøke inntil 40 saker fra en tidsperiode på inntil ti år tilbake i tid.[^460]
+
+Tilgangsloven § 3 gir hjemmel for at offentlige myndigheter kan utlevere ellers taushetsbelagte opplysninger til utvalget. Det fremgår av bestemmelsen at «\[e\]nhver kan uhindret av lovbestemt taushetsplikt gi de opplysningene som er nødvendige for at utvalget skal kunne utføre sine oppgaver». Bestemmelsen pålegger ingen plikt til å utlevere opplysninger til utvalget.
+
+Tilgangsloven § 4 gir regler om taushetsplikt. Det følger av bestemmelsen at forvaltningsloven §§ 13–13 f om taushetsplikt gjelder for utvalget, med visse særregler, jf. tilgangsloven § 4 nr. 1, 2 og 3. Dette innebærer at utvalget har en strengere taushetsplikt enn det som følger av forvaltningslovens alminnelige regler. Utvalget er for eksempel, i henhold til tilgangsloven § 4 nr. 3, pålagt en like streng taushetsplikt som avgiver av opplysningene er underlagt.
+
+Loven gir ikke gi grunnlag for å kontakte pårørende. Loven hindrer imidlertid ikke pårørende fra selv å kontakte utvalget.[^461]
+
+## Uttrekk av partnerdrapssaker
+
+### Kriterier
+
+I tråd med utvalgets mandat og de rettslige rammene for arbeidet som følger av tilgangsloven, har utvalget foretatt et uttrekk av partnerdrapssaker begått i Norge i perioden 2014–2017 som oppfyller følgende kriterier:
+
+- Offer og gjerningsperson var enten gift, samboere, skilt/separert eller tidligere samboere.
+
+- Offer og/eller gjerningsperson hadde hatt kontakt med hjelpeapparatet før drapet.
+
+- Saken var rettskraftig avgjort eller henlagt da saksuttrekket ble gjort i februar 2019.
+
+Utvalget har for det første tatt utgangspunkt i Kripos’ definisjon av partnerdrap, se punkt 1.6. Utvalget har dermed inkludert saker om drap på gifte, skilte, separerte, samboere og tidligere samboere som omfattes av straffeloven § 275 eller den nå opphevede straffeloven 1902 § 233. Tilgangsloven åpner, som nevnt i punkt 9.2, for at utvalget også kunne inkludert saker om grov kroppskrenkelse og kroppsskade med døden til følge. Utvalget har likevel valgt å ta utgangspunkt i Kripos’ definisjon av partnerdrap.
+
+Utvalget la for det andre til grunn som kriterium at offer og/eller gjerningsperson var i kontakt med hjelpeapparatet før drapet. Dette er i tråd med mandatet. Det er også i slike saker at forebyggingspotensialet er størst. Utvalget har sett bort fra saker fra den aktuelle tidsperioden som ikke inneholdt opplysninger om kontakt med hjelpeapparatet før drapet.
+
+Med unntak av én sak, har utvalget for det tredje bare inkludert rettskraftig avgjorte saker. I den saken som ikke var rettskraftig avgjort, erkjente personen straffeskyld, men døde før saken ble rettskraftig avgjort. Saken ble derfor henlagt.
+
+Alle sakene utvalget har gjennomgått handler om drap som ble begått i tidsperioden 2014–2017. Utvalget tok utgangspunkt i de senest rettskraftige avgjørelsene per februar 2019, og trakk ut saker bakover i tid fra det tidspunktet. Hjelpeapparatet og samfunnet er i kontinuerlig endring og utvikling. Nyere saker er derfor mest relevant for å vurdere hjelpeapparatets håndtering. Både etterforskning og domstolsbehandling tar tid, og det vil ofte ta noe tid fra et drap begås til drapssaken er rettskraftig avgjort. Drapet i den nyeste rettskraftige partnerdrapssaken som oppfylte utvalgets kriterier for uttrekk per februar 2019, ble begått i 2017.
+
+Utvalget har hatt en begrenset tidsperiode til rådighet for arbeidet, og dermed også for gjennomgangen av partnerdrapssaker. Det har ikke vært mulig for utvalget å gjennomgå 40 saker om partnerdrap begått de siste ti årene, slik tilgangsloven åpner for. Det var heller ikke nødvendig å gjennomgå så mange saker for å oppfylle mandatet. Dette har sammenheng med at utvalget valgte å bruke en kvalitativ tilnærming til sakene, se punkt 9.4. Et større utvalg saker ville vært nødvendig i en kvantitativ saksgjennomgang – altså om utvalget skulle bruke statistikk for å bearbeide dataene.
+
+### Saksuttrekk
+
+Med utgangspunkt i Kripos’ nasjonale drapsoversikt og de nevnte kriteriene, utarbeidet utvalgsmedlemmene Heidi Marie Engvold og Solveig Karin Bø Vatnar en oversikt over 19 aktuelle saker.
+
+Med henvisning til tilgangsloven, søkte Justis- og beredskapsdepartementet om bistand fra Kripos til arbeidet med å hente ut og å utlevere saksmaterialet til utvalget. Kripos hentet ut 19 komplette BL-saker på bakgrunn av oversikten. Saksmaterialet ble lagt inn på en kryptert minnepinne og utlevert til utvalget og sekretariatet. Alle utvalgsmedlemmer og sekretariatet (Stine Gahre og Emilie Hulthin) fikk tilgang til alle sakene. Lene Nilsen var en del av sekretariatet fra 1. september 2020 til 30. november 2020, og har ikke hatt tilgang til saksmaterialet.
+
+Kripos utleverte de krypterte minnepinnene til utvalget på utvalgsmøte 11. desember 2019. I tråd med tilgangsloven § 4, undertegnet alle utvalgsmedlemmer og sekretærer en taushetserklæring utarbeidet av Kripos. Kripos informerte også nærmere om håndtering av minnepinnene og personsensitive opplysninger. Utvalget har opptrådt i tråd med Kripos sine retningslinjer, og har vært bevisst på den strenge taushetsplikten som utvalget er underlagt. Sakene er anonymisert i denne utredningen slik at det ikke skal være mulig for utenforstående å gjenkjenne saker eller personer. Minnepinnene ble samlet inn og tilbakelevert til Kripos da utvalget avsluttet arbeidet.
+
+## Gjennomgang av partnerdrapssakene
+
+Utvalget valgte å gjennomgå straffesaksdokumentene i partnerdrapssakene med en kvalitativ tilnærming. Utvalget vurderte denne metoden som best egnet for å kunne utføre oppgavene i henhold til mandatet. Utvalget har i tillegg fremstilt noen deskriptive oversiktstall, se kapittel 10.
+
+Utvalget utarbeidet en forenklet «kodebok»,[^462] som ble brukt i gjennomgangen av sakene. Kodeboken er inntatt som vedlegg 1. Ved utarbeidelsen av kodeboken tok utvalget utgangspunkt i et utdrag fra kodeboken som Vatnar mfl. brukte i sin forskning på partnerdrapssaker begått mellom 1990 og 2012. Utdraget ble gitt med tillatelse fra Oslo Universitetssykehus. Utvalget tilpasset egen kodebok på grunnlag av mandat, behov og prioriteringer, og brukte kodeboken for systematisk å registrere og notere relevante opplysninger og informasjon fra straffesaksdokumentene.
+
+Den første saken ble lest og gjennomgått i fellesskap på et utvalgsmøte. Dette for å sikre at alle brukte kodeboken på samme måte, og for å vurdere om kodeboken burde endres. En slik validering av metoden bidro til å styrke kvaliteten i den påfølgende saksgjennomgangen. Sakene ble deretter fordelt på utvalgsmedlemmene, slik at alle sakene ble gjennomgått av minst seks medlemmer. Tre utvalgsmedlemmer, inkludert utvalgsleder og sekretariatet, gjennomgikk alle sakene. Ti saker ble gjennomgått muntlig på utvalgsmøter. De siste ni sakene ble ikke gjennomgått muntlig siden utvalget måtte avlyse møter våren 2020 som følge av covid-19-utbruddet. For å kompensere for dette, utformet utvalgsmedlemmene skriftlige oppsummeringer av sakene og utfordringene knyttet til disse. Oppsummeringene ble delt med hele utvalget.
+
+## Utvalgets vurdering av metoden
+
+Selv om utvalget mener at en gjennomgang av 19 partnerdrapssaker er tilstrekkelig for å oppfylle utvalgets mandat, utgjør antallet en begrensning. De gjennomgåtte partnerdrapssakene utgjør en liten del av de partnerdrapene som ble begått i Norge de siste ti årene. Det kan dermed være aspekter ved partnerdrapene og hjelpeapparatets håndtering av sakene før drapet som ikke er representert i de sakene utvalget har gjennomgått. De gjennomgåtte partnerdrapssakene utgjør likevel en stor andel av partnerdrapene som ble begått i den aktuelle perioden (2014–2017). Utvalget har også sammenliknet deskriptive funn med funn fra norsk partnerdrapsforskning. Utvalget mener derfor at utvalgets funn i sakene er pålitelige.
+
+Straffesaksdokumenter er ment å belyse en straffesak, og dokumentene har på denne måten et annet formål enn det som har vært utvalgets formål ved saksgjennomgangen. Utvalget har gjennomgått sakene med formål om å ta lærdom av hvordan sakene ble håndtert før drapet. Straffesaksdokumentene ga, etter utvalgets syn, omfattende informasjon om dette. Det er likevel en del spørsmål som straffesaksdokumentene ikke ga svar på.
+
+Utvalget har videre, og som nevnt i punkt 9.3.2, hatt tilgang til straffesaksdokumentene i alle de gjennomgåtte sakene gjennom komplette BL-saker lagret på krypterte minnepinner. Det er tre begrensninger ved dette. For det første kan det være mindre relevante dokumenter i originalsaken i papir som ikke er registrert i BL. For det andre registreres ikke nødvendigvis alle opplysninger i Politioperativt system[^463] (PO-loggen) i BL. I dette systemet registreres blant annet oppdraget, fortløpende vurderinger av situasjonen og kommunikasjon mellom operasjonssentral og patrulje. Anmeldelse og ulike politirapporter registreres imidlertid i BL, og disse redegjør for selve oppdraget. For det tredje inneholder BL bare de dokumentene fra andre instanser som politiet har valgt å innhente i forbindelse med etterforskningen av drapet. Disse tre forholdene innebærer at det kan være opplysninger om håndteringen i politiet og andre instanser som utvalget ikke har hatt tilgang til. Utvalget registrerte for eksempel at det i noen tilfeller var opplysninger om kontakt med en instans, uten at dokumenter fra den aktuelle instansen var innhentet. I en del tilfeller inneholdt dokumenter også opplysninger om hjelpeapparatets håndtering, som ikke ble bekreftet i andre dokumenter. Av tids- og ressurshensyn har utvalget valgt ikke å innhente dokumentasjon og opplysninger utover BL-sakene. Selv om utvalget mener at saksmaterialet både har vært tilstrekkelig og egnet for å belyse hjelpeapparatets håndtering av sakene før drapet, er det viktig å understreke at det kan ha vært enkelte forhold i sakene som utvalget ikke ble kjent med.
+
+# Deskriptive trekk ved de gjennomgåtte partnerdrapssakene
+
+## Innledning
+
+Utvalget har gjennomgått 19 partnerdrapssaker begått i perioden 2014–2017, som oppfyller følgende kriterier:
+
+- Offer og gjerningsperson var enten gift, samboere, skilt/separert eller tidligere samboere.
+
+- Offer og/eller gjerningsperson hadde hatt kontakt med hjelpeapparatet før drapet.
+
+- Saken var rettskraftig avgjort eller henlagt da saksuttrekket ble gjort i februar 2019.
+
+Noen av sakene ble rettskraftig avgjort etter 2017. Se kapittel 9 for en nærmere beskrivelse av utvalgets metode for saksuttrekk og saksgjennomgang.
+
+Mellom 2014 og 2017 ble det begått 34 partnerdrap i Norge. De siste ti årene (2010–2019) ble det begått 76 partnerdrap i Norge. Denne utredningen er basert på 19 saker, og utvalgets funn er ikke nødvendigvis representative for partnerdrap i Norge generelt.
+
+Utvalget har gjennomført en kvalitativ analyse av sakene. For en kvantitativ gjennomgang av partnerdrapssaker i Norge, vises det til Vatnar mfl. sin forskning, se boks 4.1 i punkt 4.1.
+
+Hensikten med fremstillingen i dette kapittelet er først og fremst å tegne et bilde av hvem partnerdrapene i disse sakene rammet, og hvilke livssituasjoner ofrene og gjerningspersonene befant seg i før drapet.
+
+Utvalget vil først, for oversiktens skyld, kort beskrive utvalgets materiale – straffesaksdokumentene.
+
+## Straffesaksdokumentene
+
+Straffesaksdokumentene som utvalget gjennomgikk var omfangsrike. Det totale sideantallet varierte fra omtrent 900 sider til omtrent 7000 sider per sak. I gjennomsnitt bestod straffesaksdokumentene av omtrent 1830 sider per sak.
+
+Det vil føre for langt å beskrive innholdet i straffesaksdokumentene i sin helhet, og oppbygningen av dokumentmappene varierte en del fra sak til sak. Overordnet omfatter imidlertid straffesaksdokumenter følgende kategorier:
+
+00 Personopplysninger
+
+01 Påtegninger
+
+02 Anmeldelse
+
+03 Beslutninger – pågrepet person
+
+04 Ransaking – beslag – utkvittering
+
+05 Politirapporter
+
+06 Mistenkte/siktede
+
+07 Vitner og fornærmet
+
+08 Tekniske undersøkelser – dokumentasjon
+
+09 Elektroniske spor – økonomiske undersøkelser
+
+10 Rettsbøker – oppnevninger
+
+11 Siktelser – klausuleringer
+
+12 Vedleggsaker
+
+13 Korrespondanse
+
+14 Hovedforhandling – Tingrett
+
+15 Ankeforhandling – Lagmannsrett
+
+16 Ankeforhandling – Høyesterett[^464]
+
+Med unntak av én sak, var alle partnerdrapssakene rettskraftig avgjort ved dom, se punkt 10.5. Den siste saken var henlagt fordi gjerningspersonen døde før saken ble rettskraft avgjort. I elleve saker ble straffesaken behandlet i to instanser. Enkelte saker ble også anket til Høyesterett, men ingen ble fremmet til behandling der. Med unntak av den ene henlagte saken, inneholdt altså alle sakene dommer fra én eller to rettsinstanser.
+
+Prejudisiell observasjon ble gjennomført i 18 av 19 saker, og fullstendig rettspsykiatrisk undersøkelse (judisiell observasjon) ble gjennomført i 13 av disse. De aller fleste sakene inneholdt dermed rettspsykiatriske erklæringer.[^465]
+
+Alle sakene inneholdt flere avhør av gjerningspersonen. Enkelte ganger hadde gjerningspersonen status som vitne tidlig i saken, men som regel som mistenkt eller siktet. I tillegg var det flere vitneavhør i alle sakene. Antall vitneavhør varierte betydelig, fra elleve til 119. Flere vitner ble avhørt flere ganger. Vitnene var personer tilknyttet både gjerningsperson og offer, og inkluderte ofte både offeret og gjerningspersonen sine familiemedlemmer i inn- eller utland, kolleger, venner, naboer, ansatte i hjelpeapparatet og medlemmer av trossamfunn.
+
+I de fleste sakene fikk offerets partner raskt status som mistenkt. I en stor andel av sakene erkjente også gjerningspersonen straffeskyld for drapet på et tidlig tidspunkt i etterforskningen. Utvalgets inntrykk er likevel at sakene ble etterforsket bredt. Med dette menes at det gjennomgående ble gjennomført flere vitneavhør og innhentet mer dokumentasjon enn det som var nødvendig for å ta ut tiltale i saken.[^466] Bredden i etterforskningen varierte imidlertid en del fra sak til sak. Dette gjenspeilet seg i både sideantall, antall vitneavhør og hvor mye dokumentasjon politiet innhentet fra andre instanser.
+
+Under etterforskningen innhenter politiet som regel dokumentasjon fra andre instanser for å opplyse straffesaken, men politiet innhenter ikke nødvendigvis dokumentasjon fra alle instanser som offer og/eller gjerningsperson har vært i kontakt med. Det hadde politiet heller ikke gjort i sakene utvalget gjennomgikk. Det har likevel blitt innhentet dokumentasjon fra én eller flere instanser i 18 av de 19 gjennomgåtte sakene, herunder fra helse- og omsorgstjenesten, barneverntjenesten, skattemyndighetene, krisesenter og familievernet. I den siste saken ble det ikke innhentet dokumentasjon fra noen offentlig instans. Det ble likevel gjennomført avhør av ansatte ved de instansene som det var kontakt med før drapet (asylmottak, voksenopplæring og NAV). Se nærmere om hvilken dokumentasjon som var innhentet fra de enkelte instansene i punkt 12.1.
+
+## Sosiodemografiske forhold
+
+Alle de aktuelle parforholdene var mellom en kvinne og en mann. I 15 saker var offeret en kvinne og i 4 saker var offeret en mann. Kvinner utgjorde en større andel av gjerningspersonene enn det som gjelder for partnerdrap i Norge generelt, se punktene 4.3.1.2 og 4.3.1.3.
+
+Ofrene var i gjennomsnitt 42 år på drapstidspunktet og gjerningspersonene var i gjennomsnitt 43 år. Det var imidlertid stor variasjon mellom sakene, og alder varierte fra 27 til 71 år. I de fleste sakene var offer og gjerningsperson omtrent jevngamle. Med dette menes at de hadde aldersforskjell på opptil ti år. De fleste jevnaldrende parene var i 30- og 40-årene. I 5 av sakene var det større aldersforskjell mellom partene. I disse sakene var aldersforskjellen mellom offer og gjerningsperson fra elleve til 28 år.
+
+Gjerningsperson og offer hadde i samtlige saker enten felles barn, særkullsbarn eller begge deler. I 14 saker var barna mindreårige og hjemmeboende. I 4 saker var barna voksne da drapet skjedde, mens i én sak hadde gjerningspersonen mindreårige barn som bodde i utlandet.
+
+Opplysningene om arbeidsforhold og utdanning var mangelfulle og/eller usikre i mange saker, spesielt med hensyn til offeret. Straffesaksdokumentene ga likevel grunnlag for å fastslå at 6 gjerningspersoner og 9 ofre var i arbeid på drapstidspunktet. Blant dem som var uten arbeid, var det noen arbeidssøkende, noen trygdede, noen pensjonister og noen som deltok på introduksjonsprogram. Det var også noen som ikke hadde arbeidstillatelse som følge av manglende oppholdstillatelse i Norge. Andelen gjerningspersoner og ofre som var i arbeid på hel- eller deltid var langt lavere i de gjennomgåtte sakene enn det som er tilfellet for befolkningen ellers. Ifølge SSB var 67,7 prosent av befolkningen i yrkesaktiv alder sysselsatt i 2017.[^467] I sakene utvalget gjennomgikk var det også få gjerningspersoner og ofre som hadde høyere utdanning.
+
+I 15 av de gjennomgåtte sakene var offeret og gjerningspersonen gift eller samboende på drapstidspunktet. I 4 saker var gjerningspersonen og offeret tidligere gift eller samboende. Blant sakene hvor paret var gift eller samboende, var det 5 par som befant seg i en brudd- eller separasjonsfase, for eksempel ved at det var sendt inn separasjonssøknad, eller ved at det var avtalt at partene skulle flytte fra hverandre innen kort tid. Blant sakene hvor paret var gift eller samboende, og ikke befant seg i en bruddsituasjon, hadde offer, gjerningsperson eller begge, uttrykt et ønske om samlivsbrudd i 7 saker. I 16 av 19 saker var det med andre ord gjennomført, planlagt eller snakket om, samlivsbrudd før partnerdrapet.
+
+I alt hadde 9 ofre og 11 gjerningspersoner norsk statsborgerskap på drapstidspunktet.[^468] Dette innebærer at halvparten av ofrene (10 av 19), og nesten halvparten av gjerningspersonene (8 av 19), hadde utenlandsk statsborgerskap. I tillegg hadde 4 av de 11 gjerningspersonene med norsk statsborgerskap tidligere hatt et utenlandsk statsborgerskap.
+
+Blant de 8 gjerningspersonene og 10 ofrene med utenlandsk statsborgerskap, hadde 5 gjerningspersoner og 8 ofre permanent oppholdstillatelse i Norge. Én gjerningsperson og ett offer hadde midlertidig oppholdstillatelse på drapstidspunktet.
+
+Det var 2 gjerningspersoner og ett offer som på drapstidspunktet hadde fått avklart negativ oppholdsstatus, enten ved endelig avslag på asylsøknad eller ved utvisning.
+
+Totalt 9 gjerningspersoner og 4 ofre, fordelt på 9 saker, hadde bakgrunn som asylsøkere. Noen av disse gjerningspersonene og ofrene hadde utenlandsk statsborgerskap på tidspunktet for drapet, mens andre hadde norsk statsborgerskap.
+
+Basert på straffesaksdokumentene, har utvalget vurdert at 8 gjerningspersoner og 7 ofre hadde behov for tolk før drapet. Utvalget har vurdert at det blant disse trolig var 2 gjerningspersoner og 6 ofre som hadde svært begrenset kunnskap om det norske hjelpeapparatet.[^469]
+
+I 4 saker var det opplysninger om at offeret eller gjerningspersonen var dømt for lovbrudd i Norge før partnerdrapet. I 8 saker ble gjerningspersonen dømt for voldslovbrudd mot offeret og/eller andre personer i forbindelse med drapssaken, se punkt 10.5.
+
+## Vold i nære relasjoner og annen vold
+
+Utvalget fant opplysninger om vold i nære relasjoner i samtlige saker. Opplysningene fremgikk blant annet av avhør av gjerningspersonen og vitner, tidligere anmeldelser og av pasientjournaler. Det var store variasjoner mellom sakene med hensyn til hva volden besto i og hvor alvorlig den var.
+
+I 17 saker var det opplysninger om fysisk partnervold før drapet. I flere av disse sakene var volden av alvorlig karakter (for eksempel kvelertak eller vold med bruk av våpen). Det var opplysninger om psykisk partnervold før drapet i 17 saker (for eksempel trusler eller kontrollerende atferd). I 9 saker var det opplysninger om drapstrusler. Volden kunne i flere saker, etter utvalgets vurdering, karakteriseres som langvarig fysisk og psykisk mishandling.
+
+Det var gjerningspersonen som utøvde vold mot offeret i de fleste sakene, men i noen saker var det offeret som utøvde vold mot gjerningspersonen. Det var også noen eksempler på at begge parter utøvde ulike former for vold mot hverandre.[^470] Det var i de fleste sakene menn som utøvde den mest alvorlige volden.
+
+Ofrene og/eller gjerningspersonene hadde hjemmeboende mindreårige barn i 14 saker, se punkt 10.3. I disse sakene levde barna med vold, se også punkt 7.5.1. I 11 av disse sakene var det opplysninger om at barna også ble direkte utsatt for vold – enten fra gjerningsperson, offer eller begge. I noen av sakene ble barna utsatt for langvarig fysisk og psykisk vold. Flere av barna ble også brukt aktivt i partnervolden, for eksempel ved at voldsutøveren formidlet drapstrusler til partneren via barnet. I 2 saker, hvor barna var voksne på drapstidspunktet, var det også opplysninger om at barna hadde levd med vold før de flyttet hjemmefra.
+
+Partnervold var et tema i kontakten med hjelpeapparatet i de fleste sakene. Dette innebærer at hjelpeapparatet registrerte eller mistenkte partnervold. Med registrert mener utvalget at hjelpeapparatet hadde kunnskap om partnervold, og at denne kunnskapen var dokumentert, for eksempel i en politianmeldelse, legejournal, rapport fra barneverntjenesten eller i et annet saksdokument. Med mistanke mener utvalget at ansatte i hjelpeapparatet syntes å ha trodd at det kunne være vold i parforholdet, for eksempel ved at de stilte direkte spørsmål om vold til offer eller gjerningsperson, men fikk benektende svar.
+
+Utvalget fant at én eller flere instanser hadde registrert partnervold før drapet i 11 saker, og at én eller flere instanser mistenkte vold i 2 saker. Utvalget fant også at vold mot barn var et tema i kontakten med hjelpeapparatet i 2 saker. Dette betyr at familievold var et tema i kontakten med hjelpeapparatet i totalt 15 av de 19 gjennomgåtte sakene.
+
+Straffesaksdokumentene viste at en betydelig andel av både gjerningspersoner og ofre også hadde andre erfaringer med vold enn partnervold i det aktuelle parforholdet. Utvalget fant opplysninger om at gjerningspersonen hadde utøvd vold mot andre personer i 8 saker, og at gjerningspersonen var blitt utsatt for vold i 8 saker. Utvalget fant også at offeret var blitt utsatt for vold fra andre personer i 4 saker.
+
+## Karakteristika ved drapene
+
+I 18 av de 19 gjennomgåtte sakene var det kun gjerningspersonens daværende eller tidligere partner som ble drept. I én sak ble også offerets mindreårige barn drept. Det var ingen drap-selvdrapsaker i utvalgets materiale. I 3 saker forsøkte gjerningspersonen imidlertid å ta sitt eget liv, eller skadet seg selv med vilje, i forbindelse med drapshandlingen. Det ble, ifølge den nasjonale drapsoversikten, registrert ett partnerdrap med påfølgende suicid i perioden 2014–2017. De siste ti årene (2010–2019) ble det registrert 5 slike drap.[^471]
+
+Partnerdrapene ble begått i parets felles hjem i 12 saker. I de øvrige sakene ble drapet enten begått i offerets hjem, et annet privat sted eller på et offentlig sted. I halvparten av sakene ble drapet begått med kniv. I de øvrige sakene ble drapet enten begått ved kvelning, ved slag, spark og dytting, forgiftning eller med skytevåpen.
+
+I 11 saker var det barn til stede da drapet ble begått. Med dette menes at ett eller flere barn befant seg i boligen, eller på annen måte i nærheten av åstedet. Flere av disse hørte hva som skjedde, for eksempel fra et annet rom i boligen. I 6 av sakene var barn øyenvitne til drapet. Flere av disse barna forsøkte fysisk å stanse gjerningspersonen.
+
+Domstolen uttalte seg om motiv i noen av de gjennomgåtte sakene. I disse sakene ble motivet oftest angitt som krangel om økonomi, samlivsbrudd, rusproblemer eller sjalusi. Dette er i tråd med utvalgets inntrykk. Utvalgets inntrykk er at også de øvrige sakene var preget av en vedvarende og eskalerende konflikt mellom partene. Drapene skjedde ofte i forbindelse med en krangel om sjalusi, samlivsbrudd og økonomi, og i noen saker skjedde drapet tilsynelatende som en reaksjon på at offeret uttrykte ønske om samlivsbrudd. I mange saker syntes konflikten over tid, og til slutt, å ha blitt en katalysator for drapshandlingen. I noen saker ble konflikten tilsynelatende forsterket ved at den ene parten klarte seg bra, mens den andre ble hengende etter – for eksempel med hensyn til språkkunnskap, karriere og sosiale relasjoner, se punkt 11.5. Noen saker etterlot et inntrykk av at gjerningspersonens motiv var antakelser om at offeret var utro. Enkelte saker skilte seg ut, for eksempel ved at gjerningspersonens motiv syntes å ha vært frykt for selv å bli drept av offeret.
+
+Gjerningspersonen var ruspåvirket på drapstidspunktet i 7 saker. Det var oftest alkohol, dernest lovlige medikamenter eller blandings-/kombinasjonsrus (medikamenter, narkotika og/eller alkohol). Offeret var ruspåvirket på drapstidspunktet i 5 av disse sakene. I de fleste sakene hvor gjerningsperson og/eller offeret var ruspåvirket på drapstidspunktet, var det også opplysninger om rusproblemer før drapet, se punkt 10.6.
+
+I de 18 sakene hvor partnerdrapet ble rettskraftig avgjort, ble gjerningspersonen domfelt for drap etter straffeloven 1902 § 233 eller straffeloven 2005 § 275. Én gjerningsperson ble domfelt for drap av både partneren og partnerens barn. I én sak ble gjerningspersonen dømt for både drap og voldtekt av offeret, og i 6 saker ble gjerningspersonen dømt for både drap og mishandling i nære relasjoner og annen vold mot offer og/eller barn. I gjennomsnitt ble gjerningspersonene dømt til fengsel i 15 år. I 2 saker ble gjerningspersonen dømt til tvungent psykisk helsevern som følge av strafferettslig utilregnelighet på drapstidspunktet.[^472]
+
+## Kliniske forhold
+
+Utvalget registrerte følgende kliniske forhold knyttet til ofrene og gjerningspersonene i saksgjennomgangen: rusproblematikk, psykisk helse, fysisk helse og tidligere selvmordsatferd. Straffesaksdokumenter inneholder ikke uttømmende dokumentasjon om slike forhold, og utvalgets funn har derfor ikke dannet et helt presist bilde av partenes situasjon.
+
+Utvalget fant at 9 gjerningspersoner og 5 ofre hadde, eller hadde hatt, rusproblemer. I noen saker var det tale om kortvarige perioder med omfattende alkoholbruk, mens i andre saker var det tale om langvarig misbruk av alkohol eller andre rusmidler. Rusproblemene syntes oftest å ha vært knyttet til bruk av alkohol og misbruk av vanedannende, reseptbelagte medikamenter (A- og B-preparater), eventuelt i kombinasjon. Det var få opplysninger om bruk av illegale rusmidler. Det var ett offer med en diagnostisert ruslidelse, og som hadde fått rusbehandling.
+
+Når det gjaldt psykisk helse, fant utvalget opplysninger om at 3 gjerningspersoner hadde én eller flere psykiske lidelser på drapstidspunktet. For én av disse ble diagnose først satt etter drapet. Utvalget fant videre opplysninger om at ett offer hadde én eller flere psykiske lidelser på drapstidspunktet. Utvalget fant også at gjerningsperson og/eller offer tidligere hadde hatt en diagnostisert psykisk lidelse i 2 saker.
+
+Utvalgets saksgjennomgang viste videre at 6 gjerningspersoner og 6 ofre hadde symptomer på psykiske helseplager før drapet, eller hadde hatt kontakt med helsetjenesten angående psykiske helseplager. Det var som regel forskjellige symptomer på depresjon, for eksempel ensomhet, lav selvfølelse, nedstemthet, søvnproblemer eller fortvilelse. Andre symptomer som gikk igjen var stress, angst, sinneproblemer og aggressivitet, vrangforestillinger, manglende empati, mareritt eller en opplevelse av generell psykisk ubalanse.
+
+Utvalget fant at gjerningspersonen hadde utvist en form for selvmordsatferd før drapet i halvparten av sakene. Selvmordsatferden kom oftest til uttrykk ved uttalte selvmordstanker, men i 3 saker var det registrert selvmordsforsøk. Det var vanskelig å vurdere om selvmordsatferden i sakene var reell, eller om det var en form for psykisk vold mot partneren.[^473] Utvalget fant også at 6 ofre hadde utvist en form for selvmordsatferd før drapet. Blant disse hadde 3 ofre forsøkt å ta livet sitt.
+
+Når det gjelder somatisk helse, fant utvalget at offer og/eller gjerningsperson hadde somatiske helseplager i mange av sakene. Det var stor variasjon med hensyn til hvor omfattende og alvorlige plagene var. I 2 saker hadde gjerningspersonen og/eller offeret svært alvorlige somatiske plager før drapet, herunder sykdom som krevde omfattende behandling, og skader som medførte funksjonsnedsettelse og et omfattende pleiebehov. I de fleste sakene var plagene av mer moderat karakter, for eksempel ryggproblemer og smerteproblematikk. I 9 saker var det opplysninger om at gjerningsperson og/eller offer hadde flere, diffuse plager. Utvalgets inntrykk var at en stor andel av gjerningspersonene og ofrene syntes å ha hatt mange, om enn mindre alvorlige, fysiske helseplager.
+
+# Partnervold og andre faktorer som bidro til å forhøye risikoen for partnerdrap
+
+## Innledning
+
+De gjennomgåtte sakene var preget av variasjon. Parforholdene var forskjellige, partenes bakgrunn og familieforhold var forskjellige, relasjonene deres til andre mennesker varierte og partene hadde ulike livsutfordringer. Utvalget har på bakgrunn av saksgjennomgangen laget en inndeling av fire områder som kjennetegnet konteksten for drapene. Samspillet og kombinasjonene sier ikke noe om årsakssammenheng (kausalitet) mellom disse områdene.
+
+For det første var alle parforholdene preget av partnervold. For det andre befant ofte offer og gjerningsperson seg i en marginalisert livssituasjon med flere levekårsutfordringer. Partnervold og opphopning av levekårsutfordringer var de tydeligste trekkene ved de gjennomgåtte sakene. Dette samsvarer med forskning på partnerdrap og annen kriminalitet.[^474] For det tredje var kjønn en faktor som karakteriserte drapene, i og med at 15 av 19 ofre var kvinner og 15 av 19 gjerningspersoner var menn. For det fjerde var parforholdene ofte preget av maktubalanse og avhengighetsmekanismer.
+
+## Partnervold
+
+Forskning på norske partnerdrapssaker begått mellom 1990 og 2012 viste at det ble registrert partnervold før drapet i 71 prosent av sakene, se punkt 4.4.2. Utvalgets saksgjennomgang viste at det forekom partnervold før drapet i alle de 19 sakene. Partnervolden forekom i ulik alvorlighetsgrad og omfang. I noen saker utsatte gjerningspersonen offeret for et svært alvorlig fysisk og psykisk voldsregime i mange år før drapet. I andre saker bestod volden hovedsakelig av psykisk vold i form av kontroll og økonomisk vold. I atter andre saker var det opplysninger om at begge parter utøvde vold mot hverandre, se også punkt 10.4.
+
+Partnervold er den best dokumenterte risikofaktoren for partnerdrap, og partnervold har en høyere forekomst blant gjerningspersoner og ofre i partnerdrapssaker enn i befolkningen ellers, se punkt 4.4.2.1. Andre faktorer vil først og fremst bidra til forhøyet risiko for partnerdrap i samspill med partnervold. Et eksempel kan illustrere poenget: Samlivsbrudd kan bidra til forhøyet risiko for partnerdrap, se punkt 4.4.8. I 2019 ble det registrert 9 609 skilsmisser og 10 422 separasjoner i Norge.[^475] Samme år ble det begått fire partnerdrap. Dette viser at samlivsbrudd ikke forteller noe om risiko for partnerdrap i seg selv. Hvis det utøves vold i parforholdet før bruddet, vil imidlertid bruddsituasjonen kunne bidra til en mer sårbar og farlig situasjon. Samlivsbrudd gjør seg på denne måten først og fremst gjeldende som faktor som kan bidra til forhøyet risiko i samspill med partnervold. Dersom paret i tillegg har andre livsutfordringer, vil dette samlet kunne indikere en ytterligere forhøyet risiko, se punkt 11.3.
+
+Partnervold er den faktoren som i størst grad bidrar til forhøyet risiko for partnerdrap, samtidig som risikoen for partnerdrap i befolkningen generelt er svært lav. Det er viktig å understreke at tilstedeværelsen av partnervold, eller andre faktorer som bidrar til forhøyet risiko for partnerdrap, ikke kan predikere et partnerdrap. Det er forskjell mellom prediksjon og risikovurdering. Formålet med risikoanalyser og risikovurderinger er ikke å forutsi (predikere) partnerdrap. Formålet er snarere å gjøre strukturerte vurderinger av i hvilke situasjoner, og for hvilke personer, risikoen for partnerdrap er forhøyet. Vurderingen skal igjen danne grunnlag for å iverksette risikoreduserende tiltak.
+
+## Levekårsutfordringer
+
+Norsk og internasjonal partnerdrapsforskning har vist at mennesker som befinner seg i marginaliserte livssituasjoner har høyest risiko for å bli utsatt for, eller for å begå, partnerdrap, se kapittel 4. Saksgjennomgangen viste også at alle ofrene og gjerningspersonene hadde én eller flere levekårsutfordringer. Både forskning og utvalgets saksgjennomgang har vist at det er i saker hvor partnervold sammenfaller med én eller flere levekårsutfordringer, som rus, kronisk sykdom eller kriminalitet, at risikoen for partnerdrap er høyest. Tilstedeværelsen av flere levekårsutfordringer øker kompleksiteten i saken, og stiller som regel hjelpeapparatet overfor store utfordringer. Saksgjennomgangen viste at tilstedeværelsen av flere problemer i en familie over lenger tid bidro til at hjelpeapparatet ofte ble mer passivt, til tross for at flere levekårsutfordringer øker risikoen for alvorlig vold og drap. Utvalget går nærmere inn på utfordringer med å forebygge komplekse saker i punkt 11.6.
+
+## Kjønn
+
+Norsk forskning på partnerdrap begått mellom 1990 og 2012 viste at offeret var en kvinne i 89 prosent av sakene, se punkt 4.2.1.2. Sakene utvalget gjennomgikk viste også en klar kjønnsdimensjon. Offeret var en kvinne i 15 av de 19 sakene, se punkt 10.3. Andelen kvinnelige gjerningspersoner var noe høyere i utvalgets saksuttrekk enn det som gjelder for partnerdrap i Norge generelt.
+
+Partnerdrap er den eneste typen drap som rammer kvinner oftere enn menn.[^476] For kvinner er det høyere sannsynlighet for å bli drept av nåværende eller tidligere partner enn av noen andre. I lys av hvor liten andel av alle kvinner som blir drept av en partner, gir ikke denne kjønnsubalansen i seg selv grunnlag for en slutning om at kjønn kan bidra til å forutsi partnerdrap. Det er, etter utvalgets syn, likevel viktig at det i arbeidet med forebygging av partnerdrap ses hen til kjønnsdimensjonen.
+
+## Maktubalanse og avhengighetsmekanismer
+
+### Innledning
+
+Flere av de gjennomgåtte sakene etterlot et inntrykk av at det utspilte seg en skjevhet i maktforholdet mellom offeret og gjerningspersonen før drapet. Maktubalanse, eller asymmetri, i parforholdet er ikke i forskning identifisert som en risikofaktor for partnerdrap. I likhet med andre faktorer som kan bidra til forhøyet risiko for partnervold og partnerdrap, vil heller ikke ulike former for usunn avhengighet mellom partene i seg selv kunne predikere et partnerdrap. Dersom paret i tillegg lever med partnervold og andre levekårsutfordringer vil imidlertid en markant maktubalanse, eller en rask endring i denne balansen, være en faktor som kan bidra til forhøyet risiko. Det er, etter utvalgets syn, derfor grunn til å være oppmerksom på faktorer som kan skape en maktubalanse i parforhold.
+
+### Former for maktubalanse og avhengighet
+
+I noen saker var maktforskyvningen tilsynelatende uplanlagt og oppsto som følge av store og relativt plutselige endringer i parets livssituasjon. I andre tilfeller syntes det å ha vært en skapt maktubalanse, ønsket av den ene parten. Saksgjennomgangen viste flere former for avhengighet mellom partene.
+
+I noen saker var maktubalansen og avhengigheten tilsynelatende knyttet til integrering. I disse tilfellene hadde offeret lært norsk og fått et sosialt nettverk, mens gjerningspersonen hadde begrenset språkkunnskap og sosialt liv. Det syntes som om ofrene i disse sakene nådde større grad av selvstendighet og uavhengighet etter ankomst til Norge, mens gjerningspersonen tapte sin posisjon i familien og status i samfunnet. Denne utviklingen gikk raskt, og kontrasten kan ha blitt opplevd som svært stor. Familiens allerede krevende livssituasjon ble tilsynelatende også forsterket av traumer fra migrasjon og opplevelser i hjemlandet, stor forsørgerbyrde og andre levekårsutfordringer. Sakene viste at skjevheten i forholdet skapte stor frustrasjon hos både ofrene og gjerningspersonene.
+
+I andre saker var maktubalansen og avhengigheten knyttet til økonomi. I disse tilfellene var offeret økonomisk avhengig av gjerningspersonen. Utvalget så eksempler hvor offeret tilsynelatende ble boende sammen med gjerningspersonen til tross for at parforholdet var over, hovedsakelig som følge av økonomisk avhengighet.
+
+I atter andre saker var maktubalansen og avhengigheten knyttet til oppholdstillatelse. I disse tilfellene var den ene avhengig av den andre for å oppnå permanent oppholdstillatelse i Norge. Dette er en sårbar situasjon å være i. Den som venter på å oppnå permanent oppholdstillatelse vil også kunne oppleve ventetiden som belastende som følge av uvisshet om fremtiden. I noen saker ble skjevheten tilsynelatende forsterket ved at den ene fungerte som tolk for den andre.
+
+## Utfordringer med å forebygge komplekse saker
+
+### Innledning
+
+Saker om vold i nære relasjoner er ofte komplekse og sammensatte. Dette har sammenheng med at de involverte ofte befinner seg i en marginalisert livssituasjon, se punkt 11.3. Slike saker kan oppleves som krevende å jobbe med, og dette utfordrer forebyggingsarbeidet. Mennesker i marginaliserte livssituasjoner kan også oppleve det krevende å kontakte hjelpeapparatet. Både fra politisk hold og i hjelpeapparatet arbeides det ut fra en intensjon om at det skal være lav terskel for å be om bistand mot vold i nære relasjoner. Både norsk partnerdrapsforskning og utvalgets saksgjennomgang har imidlertid vist at ofrene og gjerningspersonene hadde svært høy terskel for å be om hjelp. Dette bidrar, på generelt grunnlag, til at risikoen for partnervold og partnerdrap ofte vurderes for lavt ved første kontakt med hjelpeapparatet. De som tar imot informasjonen kan tro at terskelen for å be om hjelp er lavere enn den faktisk er for mennesker som lever med sammensatte livsutfordringer.[^477] Det er grunn til å stille spørsmål ved om politi og annet hjelpeapparat som er beregnet på hele befolkningen, er egnet for personer som befinner seg i en marginalisert livssituasjon. På bakgrunn av saksgjennomgangen, vil utvalget i de neste punktene trekke frem noen utfordringer med å forebygge komplekse saker.
+
+### Vegring for å motta hjelp
+
+Mennesker i marginaliserte livssituasjoner har ofte sammensatte problemer, men de får ikke nødvendigvis oppfølging av alle problemene. Dersom det også er partnervold i samlivet, er det ikke gitt at det er volden som er den viktigste motivasjonen for å be om støtte fra hjelpeapparatet. Den primære drivkraften kan være praktiske utfordringer som økonomi, bolig og tilgang til medikamenter, ikke det å unngå vold. Det kan også være, som noen av de gjennomgåtte sakene viste, at par vegrer seg for å slippe hjelpeapparatet inn fordi de prøver å skjule sine levekårsutfordringer, for eksempel familievold, rusproblemer eller ulovlig opphold. Vold, rus og uavklart oppholdsstatus førte på denne måten til mer isolasjon i flere saker. Dette gjorde det igjen enda vanskeligere for hjelpeapparatet å iverksette forebyggende tiltak.
+
+### «Usynlige» levekårsproblemer
+
+Saksgjennomgangen viste at livssituasjonen kunne være marginal selv om den enkelte fremsto relativt ressurssterk og velfungerende i møte med hjelpeapparatet. Par som hadde «vent seg til» et liv med vold og alkoholmisbruk kunne være vanskeligere å oppdage fordi de hadde lært seg å leve med, og å skjule, utfordringene sine. Par og familier kunne i slike tilfeller også ha blitt drevne i å opprettholde en ytre fasade som ikke ga inntrykk av marginalisering.
+
+### «Uverdige ofre» og utypiske gjerningspersoner
+
+«Uverdige ofre» er et kriminologisk begrep som beskriver kriminalitetsutsatte som ikke møter samfunnets forventninger til det å være et offer, og dermed overses eller ikke tas på alvor av hjelpeapparatet. Det verserer enkelte oppfatninger i samfunnet om hvordan voldsutsatte ser ut eller opptrer. Når voldsutsatte ikke fremstår i tråd med disse forventningene, kan dette bidra til at hjelpeapparatet ikke oppfatter risikoen i saken og dermed heller ikke griper inn med forebyggende tiltak. I saksgjennomgangen så utvalget at voldsutsatte som opptrådde aggressivt, eller som selv også utøvde vold, tilsynelatende kunne oppfattes som «uverdige ofre» og i mindre grad i risiko for å bli utsatt for alvorlig partnervold eller partnerdrap. Tilsvarende kunne voldsutøvere som ikke oppfylte hjelpeapparatets forventninger til overgriperrollen, undervurderes eller feilvurderes. For eksempel kunne hjelpeapparatet feilaktig anta at en voldsutøver som tilsynelatende samarbeidet og forholdt seg til partnerens eller politiets oppfordring om å flytte ut av felles bolig, ikke lenger hadde farlige volds- og aggresjonsproblemer.
+
+### Utvanning av risikoen
+
+Saksgjennomgangen viste en tendens til at opphopning av levekårsutfordringer bidro til at politi og annet hjelpeapparat ikke oppfattet risikoen i saken. I noen tilfeller syntes dette å ha hatt sammenheng med at hjelpeapparatet var preget av forforståelser av livssituasjoner, eller forforståelser av hva partnervoldssaker er. En slik forforståelse kan ha vært at partnervold alltid er ensidig, og at det alltid er mannen i forholdet som er voldsutøver. I tilfeller hvor begge parter i forholdet utøvde vold, eller hvor det var kvinnen som utøvde vold, kan det ha bidratt til en oppfatning i hjelpeapparatet av at situasjonen var mindre farlig eller alvorlig enn den var. Det at begge parter utøver vold mot hverandre, er imidlertid i seg selv en faktor som kan bidra til forhøyet risiko for alvorlig vold og partnerdrap. Mangel på kunnskap om sammenhengen mellom rus og vold så i enkelte saker også ut til å ha bidratt til en oppfatning av at partnervolden måtte aksepteres, og at den totale marginaliserte livssituasjonen overskygget voldselementet.[^478] I andre tilfeller syntes utvanningen av risikoen å ha hatt sammenheng med en tretthet og utmattelse i hjelpeapparatet. Opphopning av levekårsutfordringer kan føre til at et menneske har mye kontakt med store deler av hjelpeapparatet i mange år. Det var én sak hvor dette fremstod særlig tydelig, og det syntes som om den langvarige og omfattende kontakten med gjerningspersonen i saken bidro til at hjelpeapparatet, etter gjentagende krisesituasjoner, sluttet å ta tegn på risiko på alvor.
+
+### Oppsummering
+
+Utvalget har, som nevnt i punkt 11.1, på bakgrunn av saksgjennomgangen laget en inndeling av fire områder som gikk igjen på tvers av sakene, og som i kombinasjon bidro til å øke risiko for partnerdrap. Utvalget understreker at samspillet og kombinasjonene ikke sier noe om årsakssammenheng (kausalitet). Disse faktorene var partnervold, sammensatte levekårsutfordringer, kjønn og maktubalanse og avhengighet i parforholdet. Funnene samsvarer med nasjonal og internasjonal forskning på partnerdrap. På bakgrunn av både forskning og saksgjennomgangen, mener utvalget at det er svært viktig at det foretas systematiske og strukturerte risikovurderinger som identifiserer og registrerer a) partnervold, i interaksjon med b) sosiodemografiske opplysninger, c) kliniske faktorer, d) kontekst, e) kontakt med helsetjenesten, politi og andre instanser i hjelpeapparatet, og f) informasjon fra privatpersoner. Dersom slike analyser foretas, vil samfunnet ha reelle muligheter til å identifisere personer og situasjoner med høy risiko for partnerdrap, og for å iverksette tiltak for å redusere denne risikoen.[^479]
+
+# Hjelpeapparatets håndtering av partnerdrapssakene
+
+## Innledning
+
+I dette kapittelet vil utvalget presentere funn fra de 19 partnerdrapssakene om politi og annet hjelpeapparat sin håndtering av sakene før drapet. Utvalget har valgt å fremstille dette med utgangspunkt i instansene som ofrene og gjerningspersonene var i kontakt med. I tillegg til deskriptive beskrivelser av kontakten med hjelpeapparatet og instansenes håndtering av sakene, har utvalget løftet frem en del utfordringer ved hjelpeapparatets håndtering. Disse utfordringene må ses i sammenheng med de fem gjennomgående utfordringene som presenteres i kapittel 14.
+
+For å kunne oppfylle mandatet og «avdekke om, i hvilken grad og eventuelt på hvilken måte det har forekommet svikt i det offentlige tjenesteapparats håndtering i forkant av disse sakene», har utvalget registrert all kontakt som offeret og gjerningspersonen hadde med hjelpeapparatet før drapet, uavhengig av temaet for kontakten. Det har vært viktig å fange opp alle opplysninger om kontakt med hjelpeapparatet som hver for seg, eller til sammen, kunne gitt grunnlag for å avdekke vold i nære relasjoner, eller for å gjennomføre risikovurdering og/eller risikohåndtering.
+
+Utvalget fant relevante opplysninger om hjelpeapparatets håndtering i en rekke dokumenter i straffesaksdokumentene, blant annet i dommer, journalnotater fra helsetjenesten, krisesentre og familievernet og i barnevernsdokumenter. I politidokumentene var det også mange relevante opplysninger, for eksempel i politirapporter, i avhør av gjerningspersonen og i vitneavhør. I tillegg ga både de foreløpige og fullstendige rettspsykiatriske erklæringene ofte innblikk i gjerningspersonens tidligere sykehistorie.[^480] Politiet hadde gjennomgående innhentet mest dokumentasjon om gjerningspersonens kontakt med hjelpeapparatet.
+
+Utvalget har bare registrert den kontakten som fremkom av opplysninger i straffesaksdokumentene. Politiet innhenter ikke, i forbindelse med en drapsetterforskning, rutinemessig opplysninger fra alle instanser som det kan tenkes at offer og/eller gjerningsperson har vært i kontakt med, se også punkt 10.2 om straffesaksdokumenter. Denne fremstillingen gir derfor ikke nødvendigvis et fullstendig bilde av all den kontakten som offeret og gjerningspersonen hadde med hjelpeapparatet før drapet, eller av hjelpeapparatets håndtering av sakene. Alle mennesker har for eksempel kontakt med helse- og omsorgstjenesten i løpet av livet, i alle fall med primærhelsetjenesten.[^481] Alle barnefamilier har også en del kontakt med helsestasjon, barnehage, skole og skolehelsetjeneste. Utvalget har lagt til grunn at det trolig var mer kontakt med hjelpeapparatet enn det som fremgikk av straffesaksdokumentene, se også punkt 9.5 om utvalgets vurdering av metoden.
+
+## Kort oversikt over kontakten med hjelpeapparatet
+
+Offer og/eller gjerningsperson hadde kontakt med én eller flere instanser før drapet i alle sakene, se også punkt 9.3.1 om kriterier for utvalgets saksuttrekk. I 18 saker var det kontakt med to instanser eller flere. I én sak var offeret og gjerningspersonen til sammen i kontakt med 10 forskjellige instanser før drapet.
+
+Det var oftest opplysninger om kontakt med politiet, fastlege og andre deler av helse- og omsorgstjenesten. I mange saker var det opplysninger om kontakt med barneverntjenesten, skole, barnehage og familievernet. I noen saker var det opplysninger om kontakt mellom offer og krisesenter. I enkelte saker var det opplysninger om at gjerningspersonen og/eller offeret deltok på introduksjonsprogram ved voksenopplæring på tidspunktet for drapet. I enkelte saker var det også opplysninger om kontakt med NAV og sosialtjenesten, asylmottak, flyktningetjenesten og advokat.
+
+Kontakten med hjelpeapparatet var relevant i alle sakene. I 15 saker var vold i familien et tema i kontakten (13 om partnervold og 2 om vold mot barn), se også punkt 10.4. I de resterende sakene handlet kontakten om andre levekårsutfordringer som kan ha dannet grunnlag for bekymring for partnervold eller partnerdrap, se kapittel 11.

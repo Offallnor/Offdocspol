@@ -1,905 +1,362 @@
-# NOU 2020: 17, del 11 av 22 (side 128–138)
+# NOU 2020: 17, del 11 av 26
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2020/9dfffdcf-nou-2020-17.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2020-17/id2791522/
 - Original-PDF: https://www.regjeringen.no/contentassets/5f3dc96de14f443f869795a19088926a/no/pdfs/nou202020200017000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 5 figurer. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 128]
-
-126
-
-Kapittel 10
-
-NOU 2020: 17
-Varslede drap?
-
-Kapittel 10
-
-Deskriptive trekk ved de gjennomgåtte partnerdrapssakene
-10.1 Innledning
-Utvalget har gjennomgått 19 partnerdrapssaker
-begått i perioden 2014–2017, som oppfyller følgende kriterier:
-– Offer og gjerningsperson var enten gift, samboere, skilt/separert eller tidligere samboere.
-– Offer og/eller gjerningsperson hadde hatt kontakt med hjelpeapparatet før drapet.
-– Saken var rettskraftig avgjort eller henlagt da
-saksuttrekket ble gjort i februar 2019.
-Noen av sakene ble rettskraftig avgjort etter 2017.
-Se kapittel 9 for en nærmere beskrivelse av utvalgets metode for saksuttrekk og saksgjennomgang.
-Mellom 2014 og 2017 ble det begått 34 partnerdrap i Norge. De siste ti årene (2010–2019) ble
-det begått 76 partnerdrap i Norge. Denne utredningen er basert på 19 saker, og utvalgets funn er
-ikke nødvendigvis representative for partnerdrap
-i Norge generelt.
-Utvalget har gjennomført en kvalitativ analyse
-av sakene. For en kvantitativ gjennomgang av
-partnerdrapssaker i Norge, vises det til Vatnar
-mfl. sin forskning, se boks 4.1 i punkt 4.1.
-Hensikten med fremstillingen i dette kapittelet er
-først og fremst å tegne et bilde av hvem partnerdrapene i disse sakene rammet, og hvilke livssituasjoner
-ofrene og gjerningspersonene befant seg i før drapet.
-Utvalget vil først, for oversiktens skyld, kort
-beskrive utvalgets materiale – straffesaksdokumentene.
-
-10.2 Straffesaksdokumentene
-Straffesaksdokumentene som utvalget gjennomgikk var omfangsrike. Det totale sideantallet vari-
-
-erte fra omtrent 900 sider til omtrent 7000 sider
-per sak. I gjennomsnitt bestod straffesaksdokumentene av omtrent 1830 sider per sak.
-Det vil føre for langt å beskrive innholdet i
-straffesaksdokumentene i sin helhet, og oppbygningen av dokumentmappene varierte en del fra
-sak til sak. Overordnet omfatter imidlertid straffesaksdokumenter følgende kategorier:
-00 Personopplysninger
-01 Påtegninger
-02 Anmeldelse
-03 Beslutninger – pågrepet person
-04 Ransaking – beslag – utkvittering
-05 Politirapporter
-06 Mistenkte/siktede
-07 Vitner og fornærmet
-08 Tekniske undersøkelser – dokumentasjon
-09 Elektroniske spor – økonomiske undersøkelser
-10 Rettsbøker – oppnevninger
-11 Siktelser – klausuleringer
-12 Vedleggsaker
-13 Korrespondanse
-14 Hovedforhandling – Tingrett
-15 Ankeforhandling – Lagmannsrett
-16 Ankeforhandling – Høyesterett464
-Med unntak av én sak, var alle partnerdrapssakene rettskraftig avgjort ved dom, se punkt
-10.5. Den siste saken var henlagt fordi gjerningspersonen døde før saken ble rettskraft avgjort. I
-elleve saker ble straffesaken behandlet i to instanser. Enkelte saker ble også anket til Høyesterett,
-men ingen ble fremmet til behandling der. Med
-unntak av den ene henlagte saken, inneholdt altså
-alle sakene dommer fra én eller to rettsinstanser.
-464
-
-Oversikten er basert på Nasjonal mal for redigering utgitt
-av Riksadvokaten og Politidirektoratet i 2020.
-
-[Side 129]
-
-NOU 2020: 17
-Varslede drap?
-
-Prejudisiell observasjon ble gjennomført i 18
-av 19 saker, og fullstendig rettspsykiatrisk undersøkelse (judisiell observasjon) ble gjennomført i
-13 av disse. De aller fleste sakene inneholdt dermed rettspsykiatriske erklæringer.465
-Alle sakene inneholdt flere avhør av gjerningspersonen. Enkelte ganger hadde gjerningspersonen status som vitne tidlig i saken, men som regel
-som mistenkt eller siktet. I tillegg var det flere vitneavhør i alle sakene. Antall vitneavhør varierte betydelig, fra elleve til 119. Flere vitner ble avhørt flere
-ganger. Vitnene var personer tilknyttet både gjerningsperson og offer, og inkluderte ofte både offeret
-og gjerningspersonen sine familiemedlemmer i inneller utland, kolleger, venner, naboer, ansatte i hjelpeapparatet og medlemmer av trossamfunn.
-I de fleste sakene fikk offerets partner raskt
-status som mistenkt. I en stor andel av sakene
-erkjente også gjerningspersonen straffeskyld for
-drapet på et tidlig tidspunkt i etterforskningen.
-Utvalgets inntrykk er likevel at sakene ble etterforsket bredt. Med dette menes at det gjennomgående ble gjennomført flere vitneavhør og innhentet mer dokumentasjon enn det som var nødvendig for å ta ut tiltale i saken.466 Bredden i etterforskningen varierte imidlertid en del fra sak til
-sak. Dette gjenspeilet seg i både sideantall, antall
-vitneavhør og hvor mye dokumentasjon politiet
-innhentet fra andre instanser.
-Under etterforskningen innhenter politiet som
-regel dokumentasjon fra andre instanser for å opplyse straffesaken, men politiet innhenter ikke nødvendigvis dokumentasjon fra alle instanser som
-offer og/eller gjerningsperson har vært i kontakt
-med. Det hadde politiet heller ikke gjort i sakene
-utvalget gjennomgikk. Det har likevel blitt innhentet dokumentasjon fra én eller flere instanser i 18
-av de 19 gjennomgåtte sakene, herunder fra
-helse- og omsorgstjenesten, barneverntjenesten,
-skattemyndighetene, krisesenter og familievernet. I den siste saken ble det ikke innhentet dokumentasjon fra noen offentlig instans. Det ble likevel gjennomført avhør av ansatte ved de instan465
-
-I forbindelse med en straffesak kan det gjennomføres
-rettspsykiatriske undersøkelser av gjerningspersonen for å
-vurdere vedkommendes tilregnelighet, se straffeprosessloven kapittel 13. Er det tvil om det er nødvendig å gjennomføre en fullstendig rettspsykiatrisk undersøkelse (judisiell observasjon), kan det først gjennomføres en foreløpig
-undersøkelse (prejudisiell observasjon). En gjerningsperson som blir vurdert utilregnelig på gjerningstidspunktet
-kan ikke dømmes til fengselsstraff, men vedkommende
-kan idømmes tvungent psykisk helsevern, jf. straffeloven
-§§ 20 og 62.
-466
-Vatnar mfl. fant også at omfanget av politietterforskningene
-av partnerdrapssaker synes å ha blitt stadig større de siste
-30 årene.
-
-127
-
-Kapittel 10
-
-sene som det var kontakt med før drapet (asylmottak, voksenopplæring og NAV). Se nærmere om
-hvilken dokumentasjon som var innhentet fra de
-enkelte instansene i punkt 12.1.
-
-10.3 Sosiodemografiske forhold
-Alle de aktuelle parforholdene var mellom en
-kvinne og en mann. I 15 saker var offeret en
-kvinne og i 4 saker var offeret en mann. Kvinner
-utgjorde en større andel av gjerningspersonene
-enn det som gjelder for partnerdrap i Norge generelt, se punktene 4.3.1.2 og 4.3.1.3.
-Ofrene var i gjennomsnitt 42 år på drapstidspunktet og gjerningspersonene var i gjennomsnitt
-43 år. Det var imidlertid stor variasjon mellom
-sakene, og alder varierte fra 27 til 71 år. I de fleste
-sakene var offer og gjerningsperson omtrent jevngamle. Med dette menes at de hadde aldersforskjell på opptil ti år. De fleste jevnaldrende parene
-var i 30- og 40-årene. I 5 av sakene var det større
-aldersforskjell mellom partene. I disse sakene var
-aldersforskjellen mellom offer og gjerningsperson
-fra elleve til 28 år.
-Gjerningsperson og offer hadde i samtlige
-saker enten felles barn, særkullsbarn eller begge
-deler. I 14 saker var barna mindreårige og hjemmeboende. I 4 saker var barna voksne da drapet
-skjedde, mens i én sak hadde gjerningspersonen
-mindreårige barn som bodde i utlandet.
-Opplysningene om arbeidsforhold og utdanning var mangelfulle og/eller usikre i mange
-saker, spesielt med hensyn til offeret. Straffesaksdokumentene ga likevel grunnlag for å fastslå at 6
-gjerningspersoner og 9 ofre var i arbeid på drapstidspunktet. Blant dem som var uten arbeid, var
-det noen arbeidssøkende, noen trygdede, noen
-pensjonister og noen som deltok på introduksjonsprogram. Det var også noen som ikke hadde
-arbeidstillatelse som følge av manglende oppholdstillatelse i Norge. Andelen gjerningspersoner og ofre som var i arbeid på hel- eller deltid var
-langt lavere i de gjennomgåtte sakene enn det
-som er tilfellet for befolkningen ellers. Ifølge SSB
-var 67,7 prosent av befolkningen i yrkesaktiv alder
-sysselsatt i 2017.467 I sakene utvalget gjennomgikk var det også få gjerningspersoner og ofre
-som hadde høyere utdanning.
-I 15 av de gjennomgåtte sakene var offeret og
-gjerningspersonen gift eller samboende på drapstidspunktet. I 4 saker var gjerningspersonen og
-offeret tidligere gift eller samboende. Blant
-467
-
-SSB (2019b) s. 7.
-
-[Side 130]
-
-128
-
-Kapittel 10
-
-NOU 2020: 17
-Varslede drap?
-
-sakene hvor paret var gift eller samboende, var
-det 5 par som befant seg i en brudd- eller separasjonsfase, for eksempel ved at det var sendt inn
-separasjonssøknad, eller ved at det var avtalt at
-partene skulle flytte fra hverandre innen kort tid.
-Blant sakene hvor paret var gift eller samboende,
-og ikke befant seg i en bruddsituasjon, hadde
-offer, gjerningsperson eller begge, uttrykt et
-ønske om samlivsbrudd i 7 saker. I 16 av 19 saker
-var det med andre ord gjennomført, planlagt eller
-snakket om, samlivsbrudd før partnerdrapet.
-I alt hadde 9 ofre og 11 gjerningspersoner
-norsk statsborgerskap på drapstidspunktet.468
-Dette innebærer at halvparten av ofrene (10 av
-19), og nesten halvparten av gjerningspersonene
-(8 av 19), hadde utenlandsk statsborgerskap. I tillegg hadde 4 av de 11 gjerningspersonene med
-norsk statsborgerskap tidligere hatt et utenlandsk
-statsborgerskap.
-Blant de 8 gjerningspersonene og 10 ofrene
-med utenlandsk statsborgerskap, hadde 5 gjerningspersoner og 8 ofre permanent oppholdstillatelse i Norge. Én gjerningsperson og ett offer
-hadde midlertidig oppholdstillatelse på drapstidspunktet.
-Det var 2 gjerningspersoner og ett offer som
-på drapstidspunktet hadde fått avklart negativ
-oppholdsstatus, enten ved endelig avslag på asylsøknad eller ved utvisning.
-Totalt 9 gjerningspersoner og 4 ofre, fordelt på
-9 saker, hadde bakgrunn som asylsøkere. Noen av
-disse gjerningspersonene og ofrene hadde utenlandsk statsborgerskap på tidspunktet for drapet,
-mens andre hadde norsk statsborgerskap.
-Basert på straffesaksdokumentene, har utvalget vurdert at 8 gjerningspersoner og 7 ofre
-hadde behov for tolk før drapet. Utvalget har vurdert at det blant disse trolig var 2 gjerningspersoner og 6 ofre som hadde svært begrenset kunnskap om det norske hjelpeapparatet.469
-I 4 saker var det opplysninger om at offeret
-eller gjerningspersonen var dømt for lovbrudd i
-Norge før partnerdrapet. I 8 saker ble gjernings468
-
-I enkelte saker var opplysninger om statsborgerskap og
-oppholdsstatus utydelige. Utvalget fikk korrekte data gjennom Kripos ved utvalgsmedlem Heidi Marie Engvold. Engvold hentet informasjon fra Datasystem for utlendings- og
-flyktningesaker (DUF).
-469
-Denne vurderingen beror på flere forhold; personene var
-for eksempel relativt nyankomne til Norge, de hadde kontakt med offentlige instanser gjennom partneren sin, eller
-de levde tilsynelatende nærmest isolert og hadde lite kontakt med samfunnet. Det var flere kvinner enn menn som
-hadde begrenset kunnskap om hjelpeapparatet. Dette
-hadde trolig sammenheng med at mannen ankom Norge
-først i flere saker.
-
-personen dømt for voldslovbrudd mot offeret og/
-eller andre personer i forbindelse med drapssaken, se punkt 10.5.
-
-10.4 Vold i nære relasjoner og annen
-vold
-Utvalget fant opplysninger om vold i nære relasjoner i samtlige saker. Opplysningene fremgikk
-blant annet av avhør av gjerningspersonen og vitner, tidligere anmeldelser og av pasientjournaler.
-Det var store variasjoner mellom sakene med hensyn til hva volden besto i og hvor alvorlig den var.
-I 17 saker var det opplysninger om fysisk partnervold før drapet. I flere av disse sakene var volden av alvorlig karakter (for eksempel kvelertak
-eller vold med bruk av våpen). Det var opplysninger om psykisk partnervold før drapet i 17 saker
-(for eksempel trusler eller kontrollerende atferd).
-I 9 saker var det opplysninger om drapstrusler.
-Volden kunne i flere saker, etter utvalgets vurdering, karakteriseres som langvarig fysisk og psykisk mishandling.
-Det var gjerningspersonen som utøvde vold
-mot offeret i de fleste sakene, men i noen saker
-var det offeret som utøvde vold mot gjerningspersonen. Det var også noen eksempler på at begge
-parter utøvde ulike former for vold mot hverandre.470 Det var i de fleste sakene menn som
-utøvde den mest alvorlige volden.
-Ofrene og/eller gjerningspersonene hadde
-hjemmeboende mindreårige barn i 14 saker, se
-punkt 10.3. I disse sakene levde barna med vold,
-se også punkt 7.5.1. I 11 av disse sakene var det
-opplysninger om at barna også ble direkte utsatt
-for vold – enten fra gjerningsperson, offer eller
-begge. I noen av sakene ble barna utsatt for langvarig fysisk og psykisk vold. Flere av barna ble
-også brukt aktivt i partnervolden, for eksempel
-ved at voldsutøveren formidlet drapstrusler til
-partneren via barnet. I 2 saker, hvor barna var
-voksne på drapstidspunktet, var det også opplysninger om at barna hadde levd med vold før de
-flyttet hjemmefra.
-Partnervold var et tema i kontakten med hjelpeapparatet i de fleste sakene. Dette innebærer at
-470
-
-Det er ikke sjeldent at ulike former for vold utøves av
-begge parter i et forhold. Relasjoner med gjensidig partnervold står i motsats til relasjoner hvor kun én av partene står
-for utstrakt bruk av vold og kontroll. Det er viktig å understreke at voldshandlinger i selvrapportert selvforsvar
-omfattes av begrepet «gjensidig partnervold», og at dette
-utgjør den prosentuelt største andelen av voldshendelser
-hos par som rapporterer gjensidig partnervold, se Babcock
-mfl. (2019) og Johnson (2008).
-
-[Side 131]
-
-NOU 2020: 17
-Varslede drap?
-
-hjelpeapparatet registrerte eller mistenkte partnervold. Med registrert mener utvalget at hjelpeapparatet hadde kunnskap om partnervold, og
-at denne kunnskapen var dokumentert, for
-eksempel i en politianmeldelse, legejournal, rapport fra barneverntjenesten eller i et annet saksdokument. Med mistanke mener utvalget at
-ansatte i hjelpeapparatet syntes å ha trodd at det
-kunne være vold i parforholdet, for eksempel ved
-at de stilte direkte spørsmål om vold til offer eller
-gjerningsperson, men fikk benektende svar.
-Utvalget fant at én eller flere instanser hadde
-registrert partnervold før drapet i 11 saker, og at
-én eller flere instanser mistenkte vold i 2 saker.
-Utvalget fant også at vold mot barn var et tema i
-kontakten med hjelpeapparatet i 2 saker. Dette
-betyr at familievold var et tema i kontakten med
-hjelpeapparatet i totalt 15 av de 19 gjennomgåtte
-sakene.
-Straffesaksdokumentene viste at en betydelig
-andel av både gjerningspersoner og ofre også
-hadde andre erfaringer med vold enn partnervold
-i det aktuelle parforholdet. Utvalget fant opplysninger om at gjerningspersonen hadde utøvd vold
-mot andre personer i 8 saker, og at gjerningspersonen var blitt utsatt for vold i 8 saker. Utvalget
-fant også at offeret var blitt utsatt for vold fra
-andre personer i 4 saker.
-
-10.5 Karakteristika ved drapene
-I 18 av de 19 gjennomgåtte sakene var det kun
-gjerningspersonens daværende eller tidligere
-partner som ble drept. I én sak ble også offerets
-mindreårige barn drept. Det var ingen drap-selvdrapsaker i utvalgets materiale. I 3 saker forsøkte
-gjerningspersonen imidlertid å ta sitt eget liv, eller
-skadet seg selv med vilje, i forbindelse med drapshandlingen. Det ble, ifølge den nasjonale drapsoversikten, registrert ett partnerdrap med påfølgende suicid i perioden 2014–2017. De siste ti
-årene (2010–2019) ble det registrert 5 slike
-drap.471
-Partnerdrapene ble begått i parets felles hjem i
-12 saker. I de øvrige sakene ble drapet enten
-begått i offerets hjem, et annet privat sted eller på
-et offentlig sted. I halvparten av sakene ble drapet
-begått med kniv. I de øvrige sakene ble drapet
-enten begått ved kvelning, ved slag, spark og dytting, forgiftning eller med skytevåpen.
-I 11 saker var det barn til stede da drapet ble
-begått. Med dette menes at ett eller flere barn
-471
-
-Kripos, personlig henvendelse, oktober 2020.
-
-129
-
-Kapittel 10
-
-befant seg i boligen, eller på annen måte i nærheten av åstedet. Flere av disse hørte hva som
-skjedde, for eksempel fra et annet rom i boligen. I
-6 av sakene var barn øyenvitne til drapet. Flere av
-disse barna forsøkte fysisk å stanse gjerningspersonen.
-Domstolen uttalte seg om motiv i noen av de
-gjennomgåtte sakene. I disse sakene ble motivet
-oftest angitt som krangel om økonomi, samlivsbrudd, rusproblemer eller sjalusi. Dette er i tråd
-med utvalgets inntrykk. Utvalgets inntrykk er at
-også de øvrige sakene var preget av en vedvarende og eskalerende konflikt mellom partene.
-Drapene skjedde ofte i forbindelse med en krangel om sjalusi, samlivsbrudd og økonomi, og i
-noen saker skjedde drapet tilsynelatende som en
-reaksjon på at offeret uttrykte ønske om samlivsbrudd. I mange saker syntes konflikten over tid,
-og til slutt, å ha blitt en katalysator for drapshandlingen. I noen saker ble konflikten tilsynelatende
-forsterket ved at den ene parten klarte seg bra,
-mens den andre ble hengende etter – for eksempel med hensyn til språkkunnskap, karriere og
-sosiale relasjoner, se punkt 11.5. Noen saker etterlot et inntrykk av at gjerningspersonens motiv var
-antakelser om at offeret var utro. Enkelte saker
-skilte seg ut, for eksempel ved at gjerningspersonens motiv syntes å ha vært frykt for selv å bli
-drept av offeret.
-Gjerningspersonen var ruspåvirket på drapstidspunktet i 7 saker. Det var oftest alkohol, dernest lovlige medikamenter eller blandings-/kombinasjonsrus (medikamenter, narkotika og/eller
-alkohol). Offeret var ruspåvirket på drapstidspunktet i 5 av disse sakene. I de fleste sakene hvor
-gjerningsperson og/eller offeret var ruspåvirket
-på drapstidspunktet, var det også opplysninger
-om rusproblemer før drapet, se punkt 10.6.
-I de 18 sakene hvor partnerdrapet ble rettskraftig avgjort, ble gjerningspersonen domfelt for
-drap etter straffeloven 1902 § 233 eller straffeloven 2005 § 275. Én gjerningsperson ble domfelt
-for drap av både partneren og partnerens barn. I
-én sak ble gjerningspersonen dømt for både drap
-og voldtekt av offeret, og i 6 saker ble gjerningspersonen dømt for både drap og mishandling i
-nære relasjoner og annen vold mot offer og/eller
-barn. I gjennomsnitt ble gjerningspersonene
-dømt til fengsel i 15 år. I 2 saker ble gjerningspersonen dømt til tvungent psykisk helsevern som
-følge av strafferettslig utilregnelighet på drapstidspunktet.472
-472
-
-Jf. straffeloven § 62 og straffeloven 1902 § 39.
-
-[Side 132]
-
-130
-
-Kapittel 10
-
-NOU 2020: 17
-Varslede drap?
-
-10.6 Kliniske forhold
-Utvalget registrerte følgende kliniske forhold
-knyttet til ofrene og gjerningspersonene i saksgjennomgangen: rusproblematikk, psykisk helse,
-fysisk helse og tidligere selvmordsatferd. Straffesaksdokumenter inneholder ikke uttømmende
-dokumentasjon om slike forhold, og utvalgets
-funn har derfor ikke dannet et helt presist bilde av
-partenes situasjon.
-Utvalget fant at 9 gjerningspersoner og 5 ofre
-hadde, eller hadde hatt, rusproblemer. I noen
-saker var det tale om kortvarige perioder med
-omfattende alkoholbruk, mens i andre saker var
-det tale om langvarig misbruk av alkohol eller
-andre rusmidler. Rusproblemene syntes oftest å
-ha vært knyttet til bruk av alkohol og misbruk av
-vanedannende, reseptbelagte medikamenter (Aog B-preparater), eventuelt i kombinasjon. Det var
-få opplysninger om bruk av illegale rusmidler. Det
-var ett offer med en diagnostisert ruslidelse, og
-som hadde fått rusbehandling.
-Når det gjaldt psykisk helse, fant utvalget opplysninger om at 3 gjerningspersoner hadde én
-eller flere psykiske lidelser på drapstidspunktet.
-For én av disse ble diagnose først satt etter drapet.
-Utvalget fant videre opplysninger om at ett offer
-hadde én eller flere psykiske lidelser på drapstidspunktet. Utvalget fant også at gjerningsperson
-og/eller offer tidligere hadde hatt en diagnostisert psykisk lidelse i 2 saker.
-Utvalgets saksgjennomgang viste videre at 6
-gjerningspersoner og 6 ofre hadde symptomer på
-psykiske helseplager før drapet, eller hadde hatt
-kontakt med helsetjenesten angående psykiske
-helseplager. Det var som regel forskjellige symptomer på depresjon, for eksempel ensomhet, lav
-selvfølelse, nedstemthet, søvnproblemer eller fortvilelse. Andre symptomer som gikk igjen var
-
-stress, angst, sinneproblemer og aggressivitet,
-vrangforestillinger, manglende empati, mareritt
-eller en opplevelse av generell psykisk ubalanse.
-Utvalget fant at gjerningspersonen hadde
-utvist en form for selvmordsatferd før drapet i
-halvparten av sakene. Selvmordsatferden kom
-oftest til uttrykk ved uttalte selvmordstanker, men
-i 3 saker var det registrert selvmordsforsøk. Det
-var vanskelig å vurdere om selvmordsatferden i
-sakene var reell, eller om det var en form for psykisk vold mot partneren.473 Utvalget fant også at 6
-ofre hadde utvist en form for selvmordsatferd før
-drapet. Blant disse hadde 3 ofre forsøkt å ta livet
-sitt.
-Når det gjelder somatisk helse, fant utvalget at
-offer og/eller gjerningsperson hadde somatiske
-helseplager i mange av sakene. Det var stor variasjon med hensyn til hvor omfattende og alvorlige
-plagene var. I 2 saker hadde gjerningspersonen
-og/eller offeret svært alvorlige somatiske plager
-før drapet, herunder sykdom som krevde omfattende behandling, og skader som medførte funksjonsnedsettelse og et omfattende pleiebehov. I de
-fleste sakene var plagene av mer moderat karakter, for eksempel ryggproblemer og smerteproblematikk. I 9 saker var det opplysninger om at
-gjerningsperson og/eller offer hadde flere, diffuse plager. Utvalgets inntrykk var at en stor andel
-av gjerningspersonene og ofrene syntes å ha hatt
-mange, om enn mindre alvorlige, fysiske helseplager.
-473
-
-Selvmordstrusler har i noen tilfeller sammenheng med
-voldsutøvelse i nære relasjoner. Underliggende problemer
-med følelsesregulering og trygghet i nære relasjoner har
-blitt utpekt som felles underliggende faktorer for selvmordstrusler og partnervold. Utøvers selvmordsatferd kan oppleves som en form for psykisk kontroll fra den utsatte,
-siden den utsatte da ofte ansvarliggjøres for utøvers selvmordsatferd, og slik bindes i forholdet, se Wolford-Clevenger mfl. (2015). Se også Vatnar mfl. (2019b).
-
-[Side 133]
-
-NOU 2020: 17
-Varslede drap?
-
-131
-
-Kapittel 11
-
-Kapittel 11
-
-Partnervold og andre faktorer som bidro til å forhøye risikoen
-for partnerdrap
-11.1 Innledning
-De gjennomgåtte sakene var preget av variasjon.
-Parforholdene var forskjellige, partenes bakgrunn og familieforhold var forskjellige, relasjonene deres til andre mennesker varierte og partene hadde ulike livsutfordringer. Utvalget har på
-bakgrunn av saksgjennomgangen laget en inndeling av fire områder som kjennetegnet konteksten
-for drapene. Samspillet og kombinasjonene sier
-ikke noe om årsakssammenheng (kausalitet) mellom disse områdene.
-For det første var alle parforholdene preget av
-partnervold. For det andre befant ofte offer og
-gjerningsperson seg i en marginalisert livssituasjon med flere levekårsutfordringer. Partnervold
-og opphopning av levekårsutfordringer var de
-tydeligste trekkene ved de gjennomgåtte sakene.
-Dette samsvarer med forskning på partnerdrap og
-annen kriminalitet.474 For det tredje var kjønn en
-faktor som karakteriserte drapene, i og med at 15
-av 19 ofre var kvinner og 15 av 19 gjerningspersoner var menn. For det fjerde var parforholdene
-ofte preget av maktubalanse og avhengighetsmekanismer.
-
-11.2 Partnervold
-Forskning på norske partnerdrapssaker begått
-mellom 1990 og 2012 viste at det ble registrert
-partnervold før drapet i 71 prosent av sakene, se
-punkt 4.4.2. Utvalgets saksgjennomgang viste at
-det forekom partnervold før drapet i alle de 19
-sakene. Partnervolden forekom i ulik alvorlighetsgrad og omfang. I noen saker utsatte gjernings474
-
-Aldridge og Browne (2003), Dobash, Dobash og Cavanagh
-(2009) og Garcia, Soria og Hurwitz (2007). Kriminalitet
-rammer ulike grupper i befolkningen i forskjellig grad. Det
-gjelder særlig alvorlige lovbrudd, se for eksempel Nilsson,
-Estrada og Bäckman (2014), Salmi og Danielsson (2014)
-og Skardhamar, Aaltonen og Lehti (2014).
-
-personen offeret for et svært alvorlig fysisk og
-psykisk voldsregime i mange år før drapet. I andre
-saker bestod volden hovedsakelig av psykisk vold
-i form av kontroll og økonomisk vold. I atter andre
-saker var det opplysninger om at begge parter
-utøvde vold mot hverandre, se også punkt 10.4.
-Partnervold er den best dokumenterte risikofaktoren for partnerdrap, og partnervold har en
-høyere forekomst blant gjerningspersoner og ofre
-i partnerdrapssaker enn i befolkningen ellers, se
-punkt 4.4.2.1. Andre faktorer vil først og fremst
-bidra til forhøyet risiko for partnerdrap i samspill
-med partnervold. Et eksempel kan illustrere
-poenget: Samlivsbrudd kan bidra til forhøyet
-risiko for partnerdrap, se punkt 4.4.8. I 2019 ble
-det registrert 9 609 skilsmisser og 10 422 separasjoner i Norge.475 Samme år ble det begått fire
-partnerdrap. Dette viser at samlivsbrudd ikke forteller noe om risiko for partnerdrap i seg selv.
-Hvis det utøves vold i parforholdet før bruddet, vil
-imidlertid bruddsituasjonen kunne bidra til en
-mer sårbar og farlig situasjon. Samlivsbrudd gjør
-seg på denne måten først og fremst gjeldende som
-faktor som kan bidra til forhøyet risiko i samspill
-med partnervold. Dersom paret i tillegg har andre
-livsutfordringer, vil dette samlet kunne indikere
-en ytterligere forhøyet risiko, se punkt 11.3.
-Partnervold er den faktoren som i størst grad
-bidrar til forhøyet risiko for partnerdrap, samtidig
-som risikoen for partnerdrap i befolkningen generelt er svært lav. Det er viktig å understreke at tilstedeværelsen av partnervold, eller andre faktorer
-som bidrar til forhøyet risiko for partnerdrap, ikke
-kan predikere et partnerdrap. Det er forskjell mellom prediksjon og risikovurdering. Formålet med
-risikoanalyser og risikovurderinger er ikke å forutsi (predikere) partnerdrap. Formålet er snarere
-å gjøre strukturerte vurderinger av i hvilke situasjoner, og for hvilke personer, risikoen for part475
-
-SSB (2019a). Det finnes ingen oversikt over hvor mange
-samboerskap som oppløses.
-
-[Side 134]
-
-132
-
-Kapittel 11
-
-NOU 2020: 17
-Varslede drap?
-
-nerdrap er forhøyet. Vurderingen skal igjen danne
-grunnlag for å iverksette risikoreduserende tiltak.
-
-11.3 Levekårsutfordringer
-Norsk og internasjonal partnerdrapsforskning har
-vist at mennesker som befinner seg i marginaliserte livssituasjoner har høyest risiko for å bli
-utsatt for, eller for å begå, partnerdrap, se kapittel
-4. Saksgjennomgangen viste også at alle ofrene og
-gjerningspersonene hadde én eller flere levekårsutfordringer. Både forskning og utvalgets
-saksgjennomgang har vist at det er i saker hvor
-partnervold sammenfaller med én eller flere levekårsutfordringer, som rus, kronisk sykdom eller
-kriminalitet, at risikoen for partnerdrap er høyest.
-Tilstedeværelsen av flere levekårsutfordringer
-øker kompleksiteten i saken, og stiller som regel
-hjelpeapparatet overfor store utfordringer. Saksgjennomgangen viste at tilstedeværelsen av flere
-problemer i en familie over lenger tid bidro til at
-hjelpeapparatet ofte ble mer passivt, til tross for at
-flere levekårsutfordringer øker risikoen for alvorlig vold og drap. Utvalget går nærmere inn på
-utfordringer med å forebygge komplekse saker i
-punkt 11.6.
-
-11.4 Kjønn
-Norsk forskning på partnerdrap begått mellom
-1990 og 2012 viste at offeret var en kvinne i 89 prosent av sakene, se punkt 4.2.1.2. Sakene utvalget
-gjennomgikk viste også en klar kjønnsdimensjon.
-Offeret var en kvinne i 15 av de 19 sakene, se
-punkt 10.3. Andelen kvinnelige gjerningspersoner
-var noe høyere i utvalgets saksuttrekk enn det
-som gjelder for partnerdrap i Norge generelt.
-Partnerdrap er den eneste typen drap som
-rammer kvinner oftere enn menn.476 For kvinner
-er det høyere sannsynlighet for å bli drept av
-nåværende eller tidligere partner enn av noen
-andre. I lys av hvor liten andel av alle kvinner som
-blir drept av en partner, gir ikke denne kjønnsubalansen i seg selv grunnlag for en slutning om at
-kjønn kan bidra til å forutsi partnerdrap. Det er,
-etter utvalgets syn, likevel viktig at det i arbeidet
-med forebygging av partnerdrap ses hen til
-kjønnsdimensjonen.
-
-476
-
-Campbell mfl. (2007). Se også Vatnar (2015a) s. 26.
-
-11.5 Maktubalanse og
-avhengighetsmekanismer
-11.5.1 Innledning
-Flere av de gjennomgåtte sakene etterlot et inntrykk av at det utspilte seg en skjevhet i maktforholdet mellom offeret og gjerningspersonen før
-drapet. Maktubalanse, eller asymmetri, i parforholdet er ikke i forskning identifisert som en risikofaktor for partnerdrap. I likhet med andre faktorer som kan bidra til forhøyet risiko for partnervold og partnerdrap, vil heller ikke ulike former
-for usunn avhengighet mellom partene i seg selv
-kunne predikere et partnerdrap. Dersom paret i
-tillegg lever med partnervold og andre levekårsutfordringer vil imidlertid en markant maktubalanse, eller en rask endring i denne balansen,
-være en faktor som kan bidra til forhøyet risiko.
-Det er, etter utvalgets syn, derfor grunn til å være
-oppmerksom på faktorer som kan skape en maktubalanse i parforhold.
-11.5.2 Former for maktubalanse og
-avhengighet
-I noen saker var maktforskyvningen tilsynelatende uplanlagt og oppsto som følge av store og
-relativt plutselige endringer i parets livssituasjon.
-I andre tilfeller syntes det å ha vært en skapt maktubalanse, ønsket av den ene parten. Saksgjennomgangen viste flere former for avhengighet
-mellom partene.
-I noen saker var maktubalansen og avhengigheten tilsynelatende knyttet til integrering. I disse
-tilfellene hadde offeret lært norsk og fått et sosialt
-nettverk, mens gjerningspersonen hadde begrenset språkkunnskap og sosialt liv. Det syntes som
-om ofrene i disse sakene nådde større grad av
-selvstendighet og uavhengighet etter ankomst til
-Norge, mens gjerningspersonen tapte sin posisjon
-i familien og status i samfunnet. Denne utviklingen gikk raskt, og kontrasten kan ha blitt opplevd
-som svært stor. Familiens allerede krevende livssituasjon ble tilsynelatende også forsterket av
-traumer fra migrasjon og opplevelser i hjemlandet, stor forsørgerbyrde og andre levekårsutfordringer. Sakene viste at skjevheten i forholdet
-skapte stor frustrasjon hos både ofrene og gjerningspersonene.
-I andre saker var maktubalansen og avhengigheten knyttet til økonomi. I disse tilfellene var
-offeret økonomisk avhengig av gjerningspersonen. Utvalget så eksempler hvor offeret tilsynelatende ble boende sammen med gjerningsperso-
-
-[Side 135]
-
-NOU 2020: 17
-Varslede drap?
-
-nen til tross for at parforholdet var over, hovedsakelig som følge av økonomisk avhengighet.
-I atter andre saker var maktubalansen og
-avhengigheten knyttet til oppholdstillatelse. I
-disse tilfellene var den ene avhengig av den andre
-for å oppnå permanent oppholdstillatelse i Norge.
-Dette er en sårbar situasjon å være i. Den som
-venter på å oppnå permanent oppholdstillatelse vil
-også kunne oppleve ventetiden som belastende
-som følge av uvisshet om fremtiden. I noen saker
-ble skjevheten tilsynelatende forsterket ved at den
-ene fungerte som tolk for den andre.
-
-11.6 Utfordringer med å forebygge
-komplekse saker
-11.6.1 Innledning
-Saker om vold i nære relasjoner er ofte komplekse
-og sammensatte. Dette har sammenheng med at
-de involverte ofte befinner seg i en marginalisert
-livssituasjon, se punkt 11.3. Slike saker kan oppleves som krevende å jobbe med, og dette utfordrer
-forebyggingsarbeidet. Mennesker i marginaliserte livssituasjoner kan også oppleve det krevende å kontakte hjelpeapparatet. Både fra politisk hold og i hjelpeapparatet arbeides det ut fra
-en intensjon om at det skal være lav terskel for å
-be om bistand mot vold i nære relasjoner. Både
-norsk partnerdrapsforskning og utvalgets saksgjennomgang har imidlertid vist at ofrene og gjerningspersonene hadde svært høy terskel for å be
-om hjelp. Dette bidrar, på generelt grunnlag, til at
-risikoen for partnervold og partnerdrap ofte vurderes for lavt ved første kontakt med hjelpeapparatet. De som tar imot informasjonen kan tro at
-terskelen for å be om hjelp er lavere enn den faktisk er for mennesker som lever med sammensatte livsutfordringer.477 Det er grunn til å stille
-spørsmål ved om politi og annet hjelpeapparat
-som er beregnet på hele befolkningen, er egnet
-for personer som befinner seg i en marginalisert
-livssituasjon. På bakgrunn av saksgjennomgangen, vil utvalget i de neste punktene trekke frem
-noen utfordringer med å forebygge komplekse
-saker.
-11.6.2 Vegring for å motta hjelp
-Mennesker i marginaliserte livssituasjoner har
-ofte sammensatte problemer, men de får ikke nødvendigvis oppfølging av alle problemene. Dersom
-det også er partnervold i samlivet, er det ikke gitt
-477
-
-Vatnar (2015a) s. 17.
-
-133
-
-Kapittel 11
-
-at det er volden som er den viktigste motivasjonen
-for å be om støtte fra hjelpeapparatet. Den primære drivkraften kan være praktiske utfordringer
-som økonomi, bolig og tilgang til medikamenter,
-ikke det å unngå vold. Det kan også være, som
-noen av de gjennomgåtte sakene viste, at par
-vegrer seg for å slippe hjelpeapparatet inn fordi de
-prøver å skjule sine levekårsutfordringer, for
-eksempel familievold, rusproblemer eller ulovlig
-opphold. Vold, rus og uavklart oppholdsstatus
-førte på denne måten til mer isolasjon i flere
-saker. Dette gjorde det igjen enda vanskeligere
-for hjelpeapparatet å iverksette forebyggende tiltak.
-
-11.6.3 «Usynlige» levekårsproblemer
-Saksgjennomgangen viste at livssituasjonen
-kunne være marginal selv om den enkelte fremsto
-relativt ressurssterk og velfungerende i møte med
-hjelpeapparatet. Par som hadde «vent seg til» et liv
-med vold og alkoholmisbruk kunne være vanskeligere å oppdage fordi de hadde lært seg å leve
-med, og å skjule, utfordringene sine. Par og familier kunne i slike tilfeller også ha blitt drevne i å
-opprettholde en ytre fasade som ikke ga inntrykk
-av marginalisering.
-11.6.4 «Uverdige ofre» og utypiske
-gjerningspersoner
-«Uverdige ofre» er et kriminologisk begrep som
-beskriver kriminalitetsutsatte som ikke møter
-samfunnets forventninger til det å være et offer,
-og dermed overses eller ikke tas på alvor av hjelpeapparatet. Det verserer enkelte oppfatninger i
-samfunnet om hvordan voldsutsatte ser ut eller
-opptrer. Når voldsutsatte ikke fremstår i tråd med
-disse forventningene, kan dette bidra til at hjelpeapparatet ikke oppfatter risikoen i saken og dermed heller ikke griper inn med forebyggende tiltak. I saksgjennomgangen så utvalget at voldsutsatte som opptrådde aggressivt, eller som selv
-også utøvde vold, tilsynelatende kunne oppfattes
-som «uverdige ofre» og i mindre grad i risiko for å
-bli utsatt for alvorlig partnervold eller partnerdrap. Tilsvarende kunne voldsutøvere som ikke
-oppfylte hjelpeapparatets forventninger til overgriperrollen, undervurderes eller feilvurderes. For
-eksempel kunne hjelpeapparatet feilaktig anta at
-en voldsutøver som tilsynelatende samarbeidet og
-forholdt seg til partnerens eller politiets oppfordring om å flytte ut av felles bolig, ikke lenger
-hadde farlige volds- og aggresjonsproblemer.
-
-[Side 136]
-
-134
-
-Kapittel 11
-
-NOU 2020: 17
-Varslede drap?
-
-rige og omfattende kontakten med gjerningspersonen i saken bidro til at hjelpeapparatet, etter
-gjentagende krisesituasjoner, sluttet å ta tegn på
-risiko på alvor.
-
-11.6.5 Utvanning av risikoen
-Saksgjennomgangen viste en tendens til at opphopning av levekårsutfordringer bidro til at politi
-og annet hjelpeapparat ikke oppfattet risikoen i
-saken. I noen tilfeller syntes dette å ha hatt sammenheng med at hjelpeapparatet var preget av forforståelser av livssituasjoner, eller forforståelser
-av hva partnervoldssaker er. En slik forforståelse
-kan ha vært at partnervold alltid er ensidig, og at
-det alltid er mannen i forholdet som er voldsutøver. I tilfeller hvor begge parter i forholdet utøvde
-vold, eller hvor det var kvinnen som utøvde vold,
-kan det ha bidratt til en oppfatning i hjelpeapparatet av at situasjonen var mindre farlig eller alvorlig
-enn den var. Det at begge parter utøver vold mot
-hverandre, er imidlertid i seg selv en faktor som
-kan bidra til forhøyet risiko for alvorlig vold og
-partnerdrap. Mangel på kunnskap om sammenhengen mellom rus og vold så i enkelte saker
-også ut til å ha bidratt til en oppfatning av at partnervolden måtte aksepteres, og at den totale marginaliserte livssituasjonen overskygget voldselementet.478 I andre tilfeller syntes utvanningen av
-risikoen å ha hatt sammenheng med en tretthet
-og utmattelse i hjelpeapparatet. Opphopning av
-levekårsutfordringer kan føre til at et menneske
-har mye kontakt med store deler av hjelpeapparatet i mange år. Det var én sak hvor dette fremstod
-særlig tydelig, og det syntes som om den langva-
-
-11.6.6 Oppsummering
-Utvalget har, som nevnt i punkt 11.1, på bakgrunn
-av saksgjennomgangen laget en inndeling av fire
-områder som gikk igjen på tvers av sakene, og
-som i kombinasjon bidro til å øke risiko for partnerdrap. Utvalget understreker at samspillet og
-kombinasjonene ikke sier noe om årsakssammenheng (kausalitet). Disse faktorene var partnervold, sammensatte levekårsutfordringer, kjønn og
-maktubalanse og avhengighet i parforholdet. Funnene samsvarer med nasjonal og internasjonal
-forskning på partnerdrap. På bakgrunn av både
-forskning og saksgjennomgangen, mener utvalget
-at det er svært viktig at det foretas systematiske
-og strukturerte risikovurderinger som identifiserer og registrerer a) partnervold, i interaksjon
-med b) sosiodemografiske opplysninger, c) kliniske faktorer, d) kontekst, e) kontakt med helsetjenesten, politi og andre instanser i hjelpeapparatet, og f) informasjon fra privatpersoner. Dersom
-slike analyser foretas, vil samfunnet ha reelle
-muligheter til å identifisere personer og situasjoner med høy risiko for partnerdrap, og for å iverksette tiltak for å redusere denne risikoen.479
-
-478
-
-479
-
-Vatnar mfl. (2019a).
-
-Vatnar (2015) s. 17.
-
-[Side 137]
-
-NOU 2020: 17
-Varslede drap?
-
-135
-
-Kapittel 12
-
-Kapittel 12
-
-Hjelpeapparatets håndtering av partnerdrapssakene
-12.1 Innledning
-I dette kapittelet vil utvalget presentere funn fra
-de 19 partnerdrapssakene om politi og annet hjelpeapparat sin håndtering av sakene før drapet.
-Utvalget har valgt å fremstille dette med utgangspunkt i instansene som ofrene og gjerningspersonene var i kontakt med. I tillegg til deskriptive
-beskrivelser av kontakten med hjelpeapparatet og
-instansenes håndtering av sakene, har utvalget
-løftet frem en del utfordringer ved hjelpeapparatets håndtering. Disse utfordringene må ses i sammenheng med de fem gjennomgående utfordringene som presenteres i kapittel 14.
-For å kunne oppfylle mandatet og «avdekke
-om, i hvilken grad og eventuelt på hvilken måte
-det har forekommet svikt i det offentlige tjenesteapparats håndtering i forkant av disse sakene»,
-har utvalget registrert all kontakt som offeret og
-gjerningspersonen hadde med hjelpeapparatet før
-drapet, uavhengig av temaet for kontakten. Det
-har vært viktig å fange opp alle opplysninger om
-kontakt med hjelpeapparatet som hver for seg,
-eller til sammen, kunne gitt grunnlag for å
-avdekke vold i nære relasjoner, eller for å gjennomføre risikovurdering og/eller risikohåndtering.
-Utvalget fant relevante opplysninger om hjelpeapparatets håndtering i en rekke dokumenter i
-straffesaksdokumentene, blant annet i dommer,
-journalnotater fra helsetjenesten, krisesentre og
-familievernet og i barnevernsdokumenter. I politidokumentene var det også mange relevante opplysninger, for eksempel i politirapporter, i avhør av
-gjerningspersonen og i vitneavhør. I tillegg ga
-både de foreløpige og fullstendige rettspsykiatriske erklæringene ofte innblikk i gjerningspersonens tidligere sykehistorie.480 Politiet hadde
-gjennomgående innhentet mest dokumentasjon
-480
-
-Rettspsykiatriske undersøkelser av gjerningspersonen
-(prejudisiell og judisiell observasjon) gjennomføres for å
-vurdere vedkommendes tilregnelighet. Se nærmere om
-dette i punkt 10.2.
-
-om gjerningspersonens kontakt med hjelpeapparatet.
-Utvalget har bare registrert den kontakten
-som fremkom av opplysninger i straffesaksdokumentene. Politiet innhenter ikke, i forbindelse
-med en drapsetterforskning, rutinemessig opplysninger fra alle instanser som det kan tenkes at
-offer og/eller gjerningsperson har vært i kontakt
-med, se også punkt 10.2 om straffesaksdokumenter. Denne fremstillingen gir derfor ikke nødvendigvis et fullstendig bilde av all den kontakten
-som offeret og gjerningspersonen hadde med
-hjelpeapparatet før drapet, eller av hjelpeapparatets håndtering av sakene. Alle mennesker har for
-eksempel kontakt med helse- og omsorgstjenesten i løpet av livet, i alle fall med primærhelsetjenesten.481 Alle barnefamilier har også en del
-kontakt med helsestasjon, barnehage, skole og
-skolehelsetjeneste. Utvalget har lagt til grunn at
-det trolig var mer kontakt med hjelpeapparatet
-enn det som fremgikk av straffesaksdokumentene, se også punkt 9.5 om utvalgets vurdering av
-metoden.
-
-12.2 Kort oversikt over kontakten med
-hjelpeapparatet
-Offer og/eller gjerningsperson hadde kontakt
-med én eller flere instanser før drapet i alle
-sakene, se også punkt 9.3.1 om kriterier for utvalgets saksuttrekk. I 18 saker var det kontakt med
-to instanser eller flere. I én sak var offeret og gjerningspersonen til sammen i kontakt med 10 forskjellige instanser før drapet.
-Det var oftest opplysninger om kontakt med
-politiet, fastlege og andre deler av helse- og
-omsorgstjenesten. I mange saker var det opplysninger om kontakt med barneverntjenesten,
-481
-
-Primærhelsetjenesten inkluderer blant annet allmennpraktiserende leger, legevakt, hjemmesykepleie, helsestasjon,
-skolehelsetjenesten og fysioterapeuter. Se mer om organiseringen av helse- og omsorgstjenesten i punkt 7.3.1.
-
-[Side 138]
-
-136
-
-Kapittel 12
-
-NOU 2020: 17
-Varslede drap?
-
-skole, barnehage og familievernet. I noen saker
-var det opplysninger om kontakt mellom offer og
-krisesenter. I enkelte saker var det opplysninger
-om at gjerningspersonen og/eller offeret deltok
-på introduksjonsprogram ved voksenopplæring på
-tidspunktet for drapet. I enkelte saker var det også
-opplysninger om kontakt med NAV og sosialtjenesten, asylmottak, flyktningetjenesten og advokat.
-Kontakten med hjelpeapparatet var relevant i
-alle sakene. I 15 saker var vold i familien et tema i
-kontakten (13 om partnervold og 2 om vold mot
-barn), se også punkt 10.4. I de resterende sakene
-handlet kontakten om andre levekårsutfordringer
-som kan ha dannet grunnlag for bekymring for
-partnervold eller partnerdrap, se kapittel 11.
-
-12.3 Politi og rettsvesen
-12.3.1 Om kontakten
-Det var opplysninger om kontakt med politiet i
-alle de gjennomgåtte sakene. Kontakten varierte
-betydelig fra sak til sak – både i relevans og i
-omfang.
-I 15 saker var kontakten med politiet relevant
-for forebygging av partnerdrap, og vold var et
-tema i alle disse sakene.482 I 10 saker var temaet
-partnervold, i 2 saker var temaet vold mot felles
-barn, og i 3 saker var temaet vold mot andre personer.
-Gjerningsperson og/eller offer hadde direkte
-kontakt med politiet i omtrent alle sakene. I én sak
-var kontakten mellom politiet og barneverntjenesten. Kontakten i denne saken var likevel relevant fordi politiet på den måten fikk kunnskap om
-bekymring for at et par utsatte barna sine for
-fysisk vold.
-Kontakten med politiet ble som oftest opprettet som følge av at offeret, gjerningspersonen
-eller deres barn, tok kontakt med politiet. Dette
-var tilfellet i 10 saker.483 I 2 saker ble politiet
-koblet inn i saken ved at en annen offentlig
-instans varslet om bekymring. I 3 saker var det
-andre privatpersoner som kontaktet politiet. I 6
-saker kom politiet i kontakt med en av partene på
-grunn av annen kriminalitet, for eksempel ved at
-
-gjerningspersonen ble anmeldt for vold mot andre
-personer enn offeret. I noen av sakene hadde partene flere kontaktpunkter med politiet.
-Kontakten med politiet var mest omfattende i
-de sakene hvor partnervold ble anmeldt før drapet. Dette var tilfellet i 6 saker.484 I de fleste tilfellene var det offeret som anmeldte gjerningspersonen, men det var også eksempler på det motsatte,
-se punkt 12.3.3.1. Politiet iverksatte beskyttelsestiltak i 4 av de 6 sakene hvor partnervolden ble
-anmeldt. I noen saker ble vold anmeldt to eller
-flere ganger. I disse sakene var det kontakt med
-politiet i flere år før drapet. I én av disse sakene
-var både gjerningspersonen og offeret registrert i
-straffesaksregisteret, både som siktet, mistenkt
-og fornærmet i ulike straffesaker. I en annen sak
-var gjerningspersonen anmeldt flere ganger for
-vold mot andre personer enn offeret.
-Partnervold var også et tema i 3 saker hvor
-vold ikke ble anmeldt. Partene hadde kontakt
-med politiet én eller to ganger før drapet i disse 3
-sakene. I én sak rykket politiet ut til parets
-adresse etter at deres voksne barn varslet politiet
-om vold, men saken ble oppgjort på stedet og kontakten med politiet ble avsluttet. I én av de tre
-sakene fant kontakten sted noen få dager før drapet, mens i de to andre sakene var kontakten
-avsluttet måneder eller år før drapet.
-Det var også kontakt med politiet om andre
-forhold enn vold. Enkelte hadde kontakt med politiet om problemer i parforholdet. Én gjerningsperson ønsket for eksempel politiets hjelp med offerets antatte utroskap. Kontakten var begrenset i
-disse sakene.
-Det var ikke alltid en sammenheng mellom
-omfanget av kontakten med politiet og sakens
-alvorlighetsgrad før drapet. Utvalget så eksempler
-på langvarig og omfattende mishandling i saker
-hvor det var lite kontakt med politiet.
-Det varierte hvor lenge kontakten med politiet
-varte, og eventuelt hvor lang tid før drapet kontakten ble avsluttet. I 4 saker var det kontakt med
-politiet relativt kort tid – måneder eller dager – før
-drapet. I én av disse sakene hadde offeret en
-avtale om å møte på politistasjonen noen dager
-etter drapet. I 2 saker ble den ene parten anmeldt
-for partnervold flere år før drapet. Disse sakene
-ble henlagt lang tid før partnerdrapet.
-
-482
-
-Utvalget legger i tillegg til grunn at flere av gjerningspersonene og ofrene må ha hatt kontakt med Politiets utlendingsenhet (PU). PU har blant annet ansvar for å registrere
-asylsøkere som kommer til Norge. Straffesaksdokumentene ga imidlertid ingen opplysninger om denne kontakten.
-483
-I noen av disse sakene var gjerningspersonen og/eller offeret i kontakt med politiet ved flere anledninger, og tok selv
-kontakt med politiet minst én gang.
-
-484
-
-NKVTS har i en studie fra 2019 intervjuet kvinner og menn
-som ble utsatt for partnervold, som valgte ikke å anmelde
-volden. Studien viste blant annet at politiet i liten grad ble
-ansett som relevant, og at de voldsutsatte i liten grad hadde
-tiltro til politiet og til det å anmelde volden. Noen uttrykte
-tvil om politiet kan beskytte voldsutsatte, se Grøvdal
-(2019).
+# Taushetsplikt og informasjonsutveksling i hjelpeapparatet
+
+## Innledning
+
+### Reglenes betydning for forebygging av partnervold og partnerdrap
+
+Reglene om taushetsplikt skal sikre tillit til at opplysninger om den enkelte forvaltes forsvarlig og ikke spres unødvendig. Høy tillit til forvaltningen vil kunne bidra til at forvaltningen mottar opplysninger som i neste omgang er nødvendig for å iverksette forebyggende tiltak mot partnervold og partnerdrap. Samtidig fordrer forebygging av partnervold og partnerdrap samarbeid, og dermed også utveksling av informasjon. Ofre og gjerningspersoner i partnerdrapssaker har ofte hatt en rekke livsutfordringer som har medført kontakt med flere instanser, se også kapittel 11. Instansene kan alle sitte med bruddstykker av informasjon. Ved å samarbeide om en sak, vil hjelpeapparatet kunne få et mer helhetlig og riktig bilde av situasjonen. Det vil også kunne bidra til et mer strukturert, effektivt og treffende forebyggingsarbeid.
+
+### Begreper
+
+Taushetsplikt er en plikt til å hindre at visse opplysninger blir kjent for uvedkommende. Det innebærer både et forbud mot å videreformidle opplysninger, og en plikt til å hindre at opplysninger gjøres tilgjengelig for andre enn dem opplysningene gjelder.
+
+Reglene om taushetsplikt kategoriseres ofte i forvaltningsmessig taushetsplikt og yrkesmessig taushetsplikt. Den forvaltningsmessige taushetsplikten gjelder for alle som arbeider i offentlige forvaltningsorganer. Den yrkesmessige taushetsplikten er knyttet til visse konkrete yrkesutøvere, for eksempel helsepersonell og politi.
+
+Det finnes en rekke begrensninger i taushetsplikten. Disse deles ofte inn i to hovedgrupper – opplysningsrett og opplysningsplikt. Opplysningsrett betyr at den som har en opplysning i visse situasjoner kan velge at opplysningen skal videreformidles. Felles for reglene om opplysningsrett er at andre hensyn veier tyngre enn hensynene bak taushetsplikten.[^343] Hensynet til samarbeid mellom instanser kan for eksempel, etter omstendighetene, veie tyngre enn hensynet til den enkeltes personvern.
+
+Opplysningsplikt innebærer et taushetsforbud, og betyr at en har plikt til å videreformidle opplysninger. Formålet med bestemmelser om opplysningsplikt er å varsle om en hendelse eller å hindre hendelsen fra å skje, og opplysningsplikten kan derfor også betegnes som en varslingsplikt eller hindringsplikt. En opplysningsplikt går foran eventuell lovbestemt taushetsplikt. Etter omstendighetene kan en være pålagt både taushetsplikt og opplysningsplikt om den samme opplysningen. En lærer vil for eksempel kunne være pålagt både taushetsplikt etter reglene i forvaltningsloven og opplysningsplikt til barneverntjenesten etter barnevernloven om de samme opplysningene knyttet til et barn.
+
+### Forholdet mellom forvaltningsloven og særlovgivningen
+
+Regelverket om taushetsplikt og informasjonsutveksling er komplekst og fragmentarisk. Rettsreglene er spredt i ulike lover, og har til dels ulike formuleringer.[^344]
+
+Hovedreglene for den forvaltningsmessige taushetsplikten følger av forvaltningsloven. Forvaltningslovens regler gjelder for ethvert organ for stat eller kommune, jf. forvaltningsloven § 1. Forvaltningsloven omfatter dermed de fleste instansene i hjelpeapparatet som kan være involvert i arbeidet med å forebygge partnervold og partnerdrap.
+
+Flere instanser og/eller yrkesgrupper er regulert i særlover, og reglene i disse lovene går foran reglene i forvaltningsloven, jf. forvaltningsloven § 1. Dette gjelder for eksempel helsepersonell og politi. Felles for regelsettene om yrkesmessig taushetsplikt er at de gir en strengere taushetsplikt enn den forvaltningsmessige taushetsplikten gir. Ansatte i hjelpeapparatet vil ofte være underlagt både yrkesmessig og forvaltningsmessig taushetsplikt. Dette gjelder for eksempel leger som arbeider på et sykehus. Disse vil være underlagt forvaltningsloven fordi de er ansatt i et forvaltningsorgan, og helsepersonelloven fordi de er helsepersonell. Taushetspliktsreglene i helsepersonelloven vil i slike tilfeller gå foran forvaltningslovens taushetspliktsregler, og de forvaltningsrettslige reglene vil gjelde supplerende.
+
+### Forholdet mellom taushetsplikt, opplysningsrett og opplysningsplikt
+
+Det finnes ulike regler for når rett og/eller plikt til å utlevere ellers taushetsbelagte opplysninger inntreffer. Dette betyr at det er ulike terskler for når en kan, eller må, varsle andre instanser. I noen tilfeller er det straffbart å bryte taushetsplikten ved å utlevere opplysninger, mens i andre tilfeller er det straffbart ikke å utlevere opplysninger ved å varsle. I mange tilfeller kan også informasjon deles selv om en ikke er forpliktet til å gjøre det.
+
+Brudd på taushetsplikten kan straffes etter straffeloven §§ 209 og 210.[^345] Det finnes også enkelte straffebestemmelser i særlovgivningen.[^346] Brudd på avvergeplikten kan også straffes etter straffeloven § 196. Forholdet mellom taushetsplikt, opplysningsrett og opplysningsplikt kan illustreres ved en figur, se figur 8.1.
+
+\[:figur:figX-X.jpg\]
+
+Forholdet mellom taushetsplikt, opplysningsrett og opplysningsplikt
+
+Utvalget vil i punkt 8.3 redegjøre for avvergeplikt og opplysningsplikt som gjelder uavhengig av taushetsplikten. I punkt 8.4 vil utvalget redegjøre for hovedtrekkene i, og begrensningene ved, den forvaltningsmessige taushetsplikten. Der det gjøres relevante utvidelser, innskrenkninger eller presiseringer i relevant særlovgivning, vil utvalget presisere dette. I punktene 8.6 og 8.7 vil utvalget redegjøre for hovedtrekkene i den yrkesmessige taushetsplikten for henholdsvis politi og helsepersonell. Utvalget går ikke nærmere inn på reglene for yrkesmessig taushetsplikt for familievernkontor,[^347] eller på advokaters taushetsplikt.[^348]
+
+Utvalget understreker at dette kapittelet ikke gir en uttømmende oversikt over aktuelt regelverk. Gjennomgangen danner grunnlag for å vurdere hjelpeapparatets håndtering av sakene før drapet i saksgjennomgangen, se del 4.
+
+## Kort om erfaringer med regelverket
+
+Det synes å være bred enighet om at regelverket om taushetsplikt og informasjonsutveksling er fragmentert og komplekst. Olsenutvalget så blant annet på kommunikasjon mellom helsetjenesten og politiet før drapet i saker hvor gjerningspersonen hadde en kjent psykisk lidelse, se også punkt 6.2.3. Utvalget fant at det før drapet var til dels dårlig kommunikasjon mellom ulike behandlere innenfor samme nivå og mellom ulike behandlingsnivåer. Utvalget skrev blant annet følgende om forståelsen av regelverket:
+
+«I hovedsak synes det å være liten tvil om forståelsen av taushetspliktsbestemmelsenes hovedregel \[…\] Det er imidlertid de ulike lovbestemte unntak fra taushetsplikten som synes å volde tvil. Usikkerhet med hensyn til hvordan regelverket er å forstå, og redsel for å komme i skade for å bryte taushetsplikten, kan innebære at ulike etater eller ulikt personell vegrer seg for samarbeid med andre etater, også i situasjoner hvor etaten har rett eller plikt til å gi opplysninger til en annen etat.»[^349]
+
+Norsk Institutt for forskning om oppvekst, velferd og aldring (NOVA) gjennomførte i 2012–2013 en kartlegging av rettsoppfatninger og praktisering av bestemmelser om taushetsplikt, opplysningsplikt og opplysningsrett.[^350] Kartleggingen viste blant annet at det særlig er reglene om unntak fra taushetsplikten som er lite kjent, for eksempel reglene om ekstern informasjonsutveksling, se punkt 8.5.3.4. Kartleggingen viste videre at informantene var varsomme med å dele ellers taushetsbelagt informasjon uten samtykke fra den opplysningen gjaldt, til tross for at lovverket ga hjemmel for dette. Kartleggingen viste også at opplysningsplikten til barneverntjenesten var godt kjent, og at opplysningsplikten til politiet var mindre kjent.[^351]
+
+Barnevoldsutvalget fant i sin saksgjennomgang at det rådet stor usikkerhet i tjenestene, spesielt i helsetjenestene, om tolkningen og praktiseringen av reglene om taushetsplikt, opplysningsplikt, opplysningsrett og avvergeplikt. Utvalget så også flere eksempler på brudd på opplysningsplikten til barneverntjenesten.[^352]
+
+Forvaltningslovutvalget pekte på at forvaltningslovens bestemmelser om taushetsplikt og utveksling av taushetsbelagte opplysninger er innfløkte, og at de reiser flere tolkningsspørsmål som skaper usikkerhet i praksis. Utvalget merket seg særlig at reglene om deling av taushetsbelagte opplysninger oppfattes som vanskelig tilgjengelig. I utredningen heter det:
+
+«Når man ser dette i sammenheng med at brudd på taushetsplikten er straffbart, jf. straffeloven §§ 209 og 210, kan man neppe se bort fra at forvaltningen i noen tilfeller er mer tilbakeholden med å utveksle opplysninger enn det hensynet til parten eller samfunnsmessige hensyn tilsier.»[^353]
+
+## Avvergeplikt og opplysningsplikt
+
+### Innledning
+
+I noen situasjoner har privatpersoner, offentlig ansatte og andre yrkesgrupper plikt til å opplyse, varsle eller handle, uten hensyn til eventuell taushetsplikt. Dette innebærer at ellers taushetsbelagte opplysninger i noen tilfeller skal videreformidles, uavhengig av om den opplysningene gjelder samtykker til dette. Formålet med pliktene er å sikre at taushetsplikten ikke blir et hinder for å løse akutte og alvorlige situasjoner der flere instanser og etater må involveres, og å forebygge situasjoner der liv og helse står i fare.[^354] Den som er omfattet av en slik plikt skal likevel ikke oppgi flere opplysninger enn nødvendig – en kan og skal si nok til at mottakeren får en aktivitetsplikt, men heller ikke mer.[^355] En person som oppgir ellers taushetsbelagte opplysninger for å varsle hjelpeapparatet om at en kvinne utsettes for partnervold, vil imidlertid neppe straffes for brudd på taushetsplikten.
+
+Det finnes ingen regler i forvaltningsloven som pålegger opplysningsplikt. Reglene om opplysningsplikt følger av særlovgivningen.
+
+Det er tre plikter som er særlig relevante for forebygging av partnerdrap: avvergeplikten, opplysningsplikt til barneverntjenesten og helsepersonells plikt til å varsle nødetater.[^356]
+
+### Avvergeplikt[^357]
+
+#### Innledning
+
+Avvergeplikten følger av straffeloven § 196, se boks 8.1. Den innebærer at vi alle[^358] har plikt til å søke å avverge visse straffbare handlinger, blant annet drap, grov vold, grove seksuallovbrudd og mishandling i nære relasjoner. Avvergeplikten er et viktig virkemiddel for å forebygge alvorlig partnervold og partnerdrap. Riksadvokaten har bedt påtalemyndigheten om å vurdere overholdelse av avvergeplikten i saker om gjentatt vold og seksuelle overgrep mot barn. Riksadvokaten har også, med henvisning til partnerdrap, minnet om at avvergeplikten gjelder der voksne personer er ofre.[^359] Bestemmelsen om avvergeplikt kommer likevel sjelden til anvendelse.[^360]
+
+Det kan utledes to unntak fra avvergeplikten, se straffeloven § 196 siste ledd bokstav a og b. Utvalget går ikke nærmere inn på unntakene.
+
+Straffeloven § 196 Plikt til å avverge et straffbart forhold
+
+Med bot eller fengsel inntil 1 år straffes den som unnlater gjennom anmeldelse eller på annen måte å søke å avverge en straffbar handling eller følgene av den, på et tidspunkt da dette fortsatt er mulig og det fremstår som sikkert eller mest sannsynlig at handlingen er eller vil bli begått. Avvergingsplikten gjelder uten hensyn til taushetsplikt og gjelder straffbare handlinger som nevnt i
+
+a\) §§ 111, 113, 115, 117, 119, 121, 123, 128, 129, 138, 139, 140, 141, 142, 143, 144, 192, 193, 194, 223, 238, 239, 255, 256, 259, 274, 275, 279, 282, 283, 288, 291, 295, 299, 312, 314, 327, 329, 355 og 357,
+
+b\) militær straffelov​ §§ 50, 52 eller 96, eller
+
+c\) sikkerhetsloven § 7-5, jf. § 11-4.
+
+Ved overtredelse av §§ 312 eller 314 gjelder avvergingsplikten bare når den fornærmede er under 16 år.
+
+Brudd på avvergingsplikten straffes ikke når
+
+a\) handlingen det er tale om å avverge ikke har kommet så langt som til straffbart forsøk, jf. § 16, eller
+
+b\) plikten ikke kunne oppfylles uten å utsette ham selv, hans nærmeste eller noen uskyldig for siktelse eller tiltale eller fare for liv, helse eller velferd.
+
+\[Boks slutt\]
+
+#### Forholdet til taushetsplikten
+
+Avvergeplikten gjelder uavhengig av taushetsplikt, jf. straffeloven § 196 første ledd.[^361] Dette innebærer at den også gjelder yrkesgrupper som en kan tro har absolutt taushetsplikt, for eksempel leger, psykologer, politi, krisesenteransatte, advokater og prester. Dersom en lege får kunnskap som tilsier at pasienten eller andre sikkert eller mest sannsynlig vil utsettes for, eller selv begå, en straffbar handling som omfattes av avvergeplikten, skal legen søke å avverge dette, til tross for at taushetsbelagte opplysninger røpes. Behandlere kan i mange tilfeller stå overfor vanskelige avveininger mellom sannsynlighet for at et lovbrudd vil skje, og risiko for at tillitsforholdet til pasienten skades som følge av at sensitive opplysninger deles for å avverge en hendelse. Til tross for at spenningsforholdet mellom avvergeplikten og taushetsplikten kan utløse både rettslige og etiske dilemmaer, er det avvergeplikten som er absolutt – ikke taushetsplikten. I krevende situasjoner kan også avvergeplikten ses som en håndsrekning til yrkesutøvere fordi den fritar dem fra taushetsplikten.[^362]
+
+Den som er pålagt avvergeplikt kan ikke røpe mer taushetsbelagt informasjon enn det som er nødvendig for å avverge det aktuelle lovbruddet. En lege som varsler politiet eller barneverntjenesten skal for eksempel ikke oversende hele journalen ufiltrert.[^363] Se også punktene 8.1.4 og 8.3.1.
+
+#### Handleplikten
+
+Den som har kunnskap om et fremtidig lovbrudd plikter «gjennom anmeldelse eller på annen måte å søke å avverge en straffbar handling eller følgene av den», jf. straffeloven § 196 første ledd. Dette betyr at avvergeplikten for det første rammer den som unnlater å forsøke å hindre at et straffbart forhold skjer. For det andre rammes den som unnlater å forsøke å begrense konsekvensene av et straffbart forhold som allerede har skjedd. Det er med andre ord bare den som har kunnskap om fremtidige hendelser som har avvergeplikt.[^364]
+
+Avvergeplikten består frem til den straffbare handlingen er fullbyrdet, eller til det ikke er flere følger å avverge. Ved et sammenhengende straffbart forhold gjelder avvergeplikten inntil forholdet er avsluttet.[^365] Som regel vil mishandling i nære relasjoner være et sammenhengende straffbart forhold, se straffeloven §§ 282 og 283.[^366]
+
+Avvergeplikten kan oppfylles «gjennom anmeldelse eller på annen måte», jf. straffeloven § 196 første ledd første punktum. Kjernen i handleplikten er at en skal forsøke å avverge lovbruddet, eller følgene av det, på mest mulig effektiv måte. Selv om anmeldelse eller varsel til politiet i de fleste tilfeller vil være den viktigste og mest praktiske avvergingshandlingen, innebærer ikke handleplikten en absolutt plikt til å varsle politiet.[^367] Holmboe, Leer-Salvesen og Vatnar forklarer dette med et eksempel om partnervold:
+
+«Dersom en kvinne forteller sin lege at mannen har slått henne gjentatte ganger, kan et naturlig første skritt være å bidra til at hun får opprettet kontakt med relevant hjelpeapparat slik som krisesenter og familievernkontor. Legen kan også tilby å opprette kontakt med politiets familievoldskoordinator, dersom kvinnen samtykker til dette. Følger pasienten legens råd, har legen gjort det som kreves for å søke å avverge nye lovbrudd. Dersom legen derimot holder det som mest sannsynlig at kvinnen vil bli hos mannen, kan legen få en plikt til å melde fra til politiet uavhengig av kvinnens samtykke.»[^368]
+
+#### Kunnskapskravet
+
+For at avvergeplikten skal gjelde, må man ha holdt det som sikkert eller mest sannsynlig at det aktuelle lovbruddet skjer eller vil skje, jf. straffeloven § 196 første ledd.[^369] I en del tilfeller, særlig i saker om (gjentakende) partnervold, vil denne vurderingen gjøres på bakgrunn av andre, allerede utførte handlinger. Dersom de tidligere handlingene er mindre alvorlig vold, er det ikke sikkert at disse rammes av en straffebestemmelse som omfattes av straffeloven § 196. Spørsmålet er, ifølge Holmboe, Leer-Salvesen og Vatnar, om det en allerede vet gir tilstrekkelig grunn til å holde det som «mest sannsynlig» at straffebud som er omfattet av avvergeplikten vil bli overtrådt. Vold og trusler i nære relasjoner kan ofte eskalere, og enkeltstående handlinger kan indikere et handlingsmønster som etter hvert vil gå over i mishandling og rammes av straffeloven § 282 om mishandling i nære relasjoner. Her må den enkelte bruke sitt (faglige) skjønn og vurdere om en slik utvikling er «mest sannsynlig».[^370] Hva som skal til for at en person skal holde dette som «mest sannsynlig», avhenger av vedkommendes kunnskap og bakgrunn.[^371] Sentralt i vurderingen bør være om situasjonen var slik at det for en alminnelig borger, ut fra en etisk vurdering, ville være naturlig å forsøke å avverge den.[^372] Som ved andre straffebestemmelser, må det tas utgangspunkt i hvordan den enkelte opplevde situasjonen, jf. straffeloven § 25. Det er grunn til å understreke at det ikke er avvergerens ansvar å bevise at det er hold i mistanken som leder til varsling i tråd med avvergeplikten. Det påhviler den instansen, som regel politiet, som skal undersøke saken videre.[^373]
+
+#### Straffebud som omfattes av avvergeplikten
+
+De straffbare handlingene som omfattes av avvergeplikten er uttømmende opplistet i straffeloven § 196, se boks 8.1 i punkt 8.3.2.1. Det er en rekke volds- og seksuallovbrudd som er omfattet, blant annet drap og mishandling i nære relasjoner.
+
+Det kan i mange tilfeller være vanskelig å vurdere hvilken straffebestemmelse en handling omfattes av, særlig før lovbruddet er begått. Når det gjelder bestemmelsene om mishandling i nære relasjoner i straffeloven §§ 282 og 283, kan det for eksempel være uklart hvilke handlinger som omfattes av straffeloven § 282. Mishandling i nære relasjoner er «alvorlig eller gjentatt» mishandling i form av «trusler, tvang, frihetsberøvelse, vold eller andre krenkelser», jf. straffeloven § 282 første ledd. Enkeltstående tilfeller av de opplistede handlingene i bestemmelsen rammes i utgangspunktet av egne straffebestemmelser, se punkt 3.2.2. De fleste av disse bestemmelsene er ikke omfattet av avvergeplikten. Om en for eksempel holder det som sikkert eller mest sannsynlig at en person vil bli utsatt for vold i henhold til straffeloven § 273, er det altså ikke nødvendigvis nok til å etablere en avvergeplikt.[^374] Grov frihetsberøvelse etter § 255 og grov kroppsskade etter § 274 kan for øvrig være elementer i mishandling i nære relasjoner, men vil også på selvstendig grunnlag utløse en avvergeplikt. Det kan i noen tilfeller være vanskelig å vurdere hvor den nedre grensen for mishandling i nære relasjoner går, og dermed også når avvergeplikten gjelder.[^375]
+
+Dersom en lege får kunnskap om at en person er utsatt for et enkeltstående tilfelle av mindre alvorlig partnervold, vil det nok for det fleste ha formodningen for seg at volden vil kunne gjenta seg. Til tross for at det aktuelle straffbare forholdet ikke omfattes av avvergeplikten, må legen ha rett til å avverge uten å bryte taushetsplikten. Det må også godtas at legen, uten hensyn til taushetsplikten, rådfører seg med kolleger eller politiet for å vurdere situasjonen.[^376] Legen vil imidlertid neppe kunne straffes for å unnlate å avverge i et slikt tilfelle.
+
+#### Avvergerett
+
+Den som ikke er underlagt taushetsplikt kan alltid varsle politiet om et fremtidig lovbrudd – uavhengig av om avvergeplikten gjelder. Spørsmålet om en har rett til å varsle om fremtidige lovbrudd i tilfeller hvor en ikke har plikt til det, kommer først på spissen når opplysningene om det potensielle lovbruddet er taushetsbelagt og den opplysningene gjelder ikke har samtykket til at opplysningene videreformidles. Spørsmålet kan for eksempel oppstå hvis den straffbare handlingen en ønsker å avverge, ikke rammes av bestemmelsen om avvergeplikt, eller i tilfeller hvor kunnskapskravet etter straffeloven § 196 ikke er oppfylt. Vurderingen av om det foreligger avvergerett må gjøres etter en avveining av kryssende hensyn: hensynene bak taushetsplikten på den ene siden og hensynet til å avverge en potensielt straffbar handling på den andre siden. Det vil i denne vurderingen kunne ha betydning om det foreligger nødrett etter straffeloven § 17 eller nødverge etter straffeloven § 18.[^377] Ved tvil kan også politiet i første omgang kontaktes uten å røpe taushetsbelagt informasjon. Utvalget går ikke nærmere inn på grensen for avvergerett.
+
+### Opplysningsplikt til barneverntjenesten
+
+#### Innledning
+
+Hovedregelen om opplysningsplikt til barneverntjenesten følger av barnevernloven § 6-4.[^378] I tillegg finnes det bestemmelser om opplysningsplikt til barneverntjenesten i en rekke særlover.[^379] Opplysningsplikten innebærer en plikt til å melde fra til barneverntjenesten i ulike situasjoner med bekymring for et barn. Opplysningsplikten til barneverntjenesten gjelder for alle som arbeider i offentlige instanser og tjenester, og for organisasjoner og private som utfører arbeid eller tjeneste for stat, fylkeskommune eller kommune. Opplysningsplikten til barneverntjenesten gjelder også for barnevernet selv, for eksempel i tilfeller hvor barneverntjenesten mistenker vold i en familie som flytter til en annen kommune.
+
+Erfaring viser at opplysningsplikten til barneverntjenesten ikke alltid overholdes. Barnevoldsutvalget fant blant annet eksempler på saker hvor flere aktører hadde misligholdt meldeplikten.[^380] Bendiksen og Haugli har gitt uttrykk for at årsakene til at meldeplikten ikke overholdes trolig er flere og sammensatte. Forfatterne peker blant annet på manglende kunnskap, manglende opplæring/erfaring i å se tegn hos barn, vanskelig regelverk og frykt for å ta feil, som mulige årsaker. I tillegg kan ønsket om å bevare tillitsforhold, identifisering med foreldre eller en oppfatning av at situasjonen ikke er så alvorlig, spille inn.[^381]
+
+#### Meldeplikt av eget tiltak
+
+Enhver som utfører tjeneste eller arbeid for et forvaltningsorgan skal uten ugrunnet opphold melde fra til barneverntjenesten i tilfeller hvor det er grunn til å tro at:
+
+- et barn blir eller vil bli mishandlet, utsatt for alvorlige mangler ved den daglige omsorgen eller annen alvorlig omsorgssvikt,
+
+- et barn har en livstruende eller annen alvorlig sykdom eller skade og ikke kommer til undersøkelse eller behandling, eller at et barn med nedsatt funksjonsevne eller et spesielt hjelpetrengende barn ikke får dekket sitt særlige behov for behandling eller opplæring,
+
+- et barn viser alvorlige atferdsvansker i form av alvorlig eller gjentatt kriminalitet, misbruk av rusmidler eller en annen form for utpreget normløs atferd, eller
+
+- et barn blir eller vil bli utnyttet til menneskehandel.
+
+Kravet om at det må være «grunn til å tro» at et barn befinner seg i en av overnevnte situasjonene, betyr at det må foreligge en begrunnet bekymring eller mistanke. Det stilles ikke krav om sikker viten eller sannsynlighetsovervekt, men det kreves noe mer enn bare en vag mistanke.[^382] Det avgjørende er om de faktiske forholdene i saken tilsier at det er naturlig å melde fra om dem.[^383] Spørsmålet om det foreligger meldeplikt, beror alltid på en konkret vurdering av barnets situasjon. Ved tvil kan vedkommende også drøfte saken anonymt med barneverntjenesten eller andre fagpersoner.
+
+Meldeplikten gjelder «enhver» som utfører tjeneste eller arbeid for et forvaltningsorgan. Dette betyr at plikten til å melde fra er personlig. Vurderingen kan verken overlates til kolleger, ledere eller andre instanser. Den enkelte ansatte kan heller ikke la seg instruere til ikke å melde fra. Dersom en lærer mener det er grunn til å melde fra, har vedkommende plikt til dette, uavhenging av om rektor er uenig.[^384]
+
+Meldeplikten er også et myndighetsansvar. Dette betyr at både staten, fylkeskommunene og kommunene har ansvar for å sikre at ansatte, og andre som utfører oppgaver på deres vegne, har tilstrekkelig kunnskap om meldeplikten.
+
+#### Opplysningsplikt ved pålegg fra barneverntjenesten
+
+De organene som er ansvarlig for gjennomføringen av barnevernloven[^385] kan i visse tilfeller pålegge offentlige myndigheter å gi taushetsbelagte opplysninger, jf. barnevernloven § 6-4 annet ledd. I bestemmelsens annet ledd bokstav a–j listes det opp i hvilke situasjoner det kan gis slikt pålegg.[^386] Det følger også av bestemmelsens tredje ledd at pålegg om å utlevere opplysninger kan gis i saker om pålegg av hjelpetiltak etter barnevernloven § 4-4 tredje ledd. Det er barneverntjenesten som skal vurdere om kravene som stilles er oppfylt, men den som mottar pålegget har også et selvstendig ansvar for å unngå spredning av taushetsbelagte opplysninger.[^387]
+
+#### Brudd på opplysningsplikten til barneverntjenesten
+
+Brudd på opplysningsplikten til barneverntjenesten er ikke straffsanksjonert i barnevernloven. Alvorlige brudd på tjenesteplikter kan straffes etter straffelovens bestemmelse om tjenestefeil i § 171. Brudd på opplysningsplikten kan også gi grunnlag for arbeidsrettslige reaksjoner mot den enkelte ansatte. Det kan dessuten tenkes at et brudd kan gi grunnlag for erstatningssøksmål mot den ansatte eller arbeidsgiveren som ikke har overholdt plikten.
+
+#### Opplysningsrett til barneverntjenesten
+
+Den som ikke er underlagt taushetsplikt kan alltid melde fra til barneverntjenesten om bekymring for et barn. Spørsmålet om en har rett til å melde fra i tilfeller hvor en ikke har plikt til det, kommer først på spissen når opplysningene er taushetsbelagt og den aktuelle familien ikke har samtykket til at opplysningene videreformidles.
+
+Dersom en offentlig ansatt har meldt fra om et forhold til barneverntjenesten uten å være forpliktet til det, vil det ikke nødvendigvis innebære et straffbart brudd på taushetsplikten. Retten til å varsle barneverntjenesten går lenger enn plikten til å varsle. Vurderingen av om det foreligger opplysningsrett må gjøres etter en avveining av de kryssende hensynene som reglene om taushetsplikt og informasjonsutveksling bygger på, se også punkt 8.3.2.6. Den som har varslet barneverntjenesten om bekymring for et barn blir neppe straffet for brudd på taushetsplikten.
+
+### Helsepersonells plikt til å varsle nødetater
+
+Helsepersonell skal varsle politi eller brannvesen når det er «nødvendig for å avverge alvorlig skade på person eller eiendom», jf. helsepersonelloven § 31. Formålet med helsepersonells opplysningsplikt til andre nødetater er å sikre at nødetatene samarbeider om å avverge at alvorlig skade skjer, eller å begrense omfanget av en allerede utført handling.[^388] Handlinger som truer en persons sikkerhet, liv eller helse vil kunne gi helsepersonell opplysningsplikt etter helsepersonelloven § 31. Helsepersonell skal for eksempel varsle politiet når de anser at det er konkret fare for at en person vil utøve alvorlig vold eller begå partnerdrap. Helsepersonell skal også varsle politiet for å få bistand til å sikre et skadested hvor en person har blitt utsatt for vold.[^389]
+
+Helsepersonell vil kunne ha lite tid til rådighet for å vurdere varsling i en konkret situasjon. Det kreves derfor ikke at vedkommende har sikker kunnskap om de reelle forhold i situasjonen. Helsepersonellet vil for eksempel kunne ha plikt til å varsle politiet for å avverge et partnerdrap selv om vedkommende ikke kan vite sikkert om voldsutøver vil utøve mer alvorlig vold eller begå drap.[^390]
+
+Opplysningsplikten i helsepersonelloven § 31 må ses i sammenheng med den mer generelle opplysningsretten i helsepersonelloven § 23 nr. 4, se punkt 8.7.3.2. Mens opplysningsplikten tar sikte på situasjoner hvor det er nødvendig med hjelp fra nødetatene for å avverge alvorlig skade på person eller eiendom, tar den mer generelle opplysningsretten sikte på situasjoner hvor tungtveiende private eller offentlige interesser gjør det rettmessig å dele opplysningene. Opplysningsretten i § 23 nr. 4 kan dermed gi mulighet til å avverge fare i situasjoner der vilkårene for opplysningsplikt ikke er oppfylt. Det er imidlertid ikke helt klart hvor grensene mellom de to bestemmelsene trekkes.[^391]
+
+Helsepersonells plikt til å varsle nødetater etter helsepersonelloven § 31 går noe lenger enn avvergeplikten etter straffeloven § 196, se punkt 8.4.2.[^392]
+
+## Forvaltningsmessig taushetsplikt
+
+### Hva er taushetsbelagt?
+
+Hovedregelen om forvaltningsmessig taushetsplikt er forvaltningsloven § 13. Opplysninger om «personlige forhold» er taushetsbelagt, jf. forvaltningsloven § 13 første ledd nr. 1.[^393] Opplysninger om noens personlige forhold omfatter opplysninger som det er vanlig å ville holde for seg selv, for eksempel opplysninger om fysisk og psykisk helse, seksuell legning, følelsesliv og visse opplysninger knyttet til familie og hjem.[^394] I forvaltningsloven § 13 annet ledd listes det opp en del opplysninger som ikke anses som personlige forhold; opplysninger om fødested, fødselsdato og personnummer, statsborgerforhold, sivilstand, yrke, bopel og arbeidssted. Slike opplysninger omtales ofte som «nøytrale personopplysninger». Nøytrale personopplysninger er likevel underlagt forvaltningsmessig taushetsplikt når de røper et klientforhold eller andre forhold som må anses personlige, for eksempel sperret adresse, jf. forvaltningsloven § 13 annet ledd.
+
+For flere instanser i hjelpeapparatet er det fastsatt en spesialregel i særlovgivningen som innebærer at nøytrale personopplysninger er omfattet av taushetsplikten. Dette gjelder medarbeidere i barnevernet, på krisesentre, i NAV og i sosialtjenesten.[^395] Det gjelder også ansatte i spesialisthelsetjenesten og i helse- og omsorgstjenesten som ikke er underlagt helsepersonelloven, det vil si ansatte som bare utøver forvaltningsmessig virksomhet i helseinstitusjonene.[^396] Felles for disse instansene er at de på ulike måter får tilgang til svært sensitive personopplysninger.[^397] Opplysningene er i seg selv egnet til å røpe det som antas å være et sensitivt klientforhold.[^398] Nøytrale personopplysninger vil for eksempel kunne røpe at barnevernet er involvert i en familie. Brukerne av krisesentertilbudet befinner seg i spesielt vanskelige livssituasjoner, og flere frykter for eget og barnas liv. Det er derfor en viktig trygghet for brukerne at medarbeiderne er underlagt en streng taushetsplikt.[^399]
+
+### Hvem har taushetsplikt?
+
+Den forvaltningsmessige taushetsplikten gjelder i utgangspunktet «enhver som utfører tjeneste eller arbeid for forvaltningen», jf. forvaltningsloven § 13 første ledd. Dette omfatter alle ansatte i forvaltningen, i tillegg til medlemmer av råd, utvalg, styrer, frivillige medarbeidere, innleide oppdragstakere mv.[^400]
+
+I særlovgivningen som regulerer de enkelte instansene i hjelpeapparatet formuleres personkretsen på liknende måter som i forvaltningsloven.[^401]
+
+Taushetsplikten gjelder for opplysninger medarbeideren får kjennskap til i kraft av sin arbeidsstilling, uavhengig av hvor og hvordan vedkommende får informasjonen. Opplysninger en får kjennskap til som privatperson i fritiden vil i utgangspunktet ikke være omfattet av taushetsplikten.[^402] Dersom opplysningene er mottatt som følge av vedkommendes yrke, for eksempel ved at en forelder ringer den ansatte i barnehagen om kvelden, vil de likevel være underlagt taushetsplikt.[^403] Taushetsplikten gjelder selv om yrkesutøveren har avsluttet det aktuelle ansettelsesforholdet.[^404]
+
+## Begrensninger i forvaltningsmessig taushetsplikt – opplysningsrett
+
+### Innledning
+
+Til tross for at hjelpeapparatet i utgangspunktet er underlagt taushetsplikt, er det forholdsvis vid adgang til å utveksle informasjon i tråd med reglene om opplysningsrett. Opplysningsretten gir aldri fri adgang til å dele ellers taushetsbelagte opplysninger; det skal aldri gis ut mer informasjon enn det som er nødvendig for å ivareta oppgavene etter loven.[^405] Hva som er nødvendig vil bero på en konkret vurdering og variere fra situasjon til situasjon. Det skal mye til før en person som har varslet om et bekymringsverdig forhold blir straffet for brudd på taushetsplikten, se også punktene 8.1.4, 8.3.2.6 og 8.3.3.5.
+
+Det er ikke alle begrensningene i taushetsplikten etter forvaltningsloven som gjelder for alle instansene i hjelpeapparatet. I flere særlover gjøres det innskrenkninger i forvaltningslovens alminnelige regler. Dette innebærer at en del instanser har en strengere taushetsplikt enn den som gjelder etter forvaltningsloven, se punkt 8.1.3.
+
+Hovedreglene om begrensninger i den forvaltningsmessige taushetsplikten følger av forvaltningsloven §§ 13 a og 13 b. Begrensningene er delt inn i to grupper. Forvaltningsloven § 13 a gjelder begrensninger i tilfeller hvor det ikke er behov for beskyttelse, og § 13 b gjelder begrensninger i tilfeller hvor private eller offentlige interesser tilsier at opplysningene må kunne deles med andre.
+
+I det følgende gis en oversikt over de mest relevante begrensningene i den forvaltningsmessige taushetsplikten. Der hvor det gjøres relevante utvidelser, innskrenkninger eller presiseringer i særlovgivningen, presiseres dette.
+
+### Unntak der det ikke er behov for beskyttelse
+
+#### Opplysninger til dem det gjelder
+
+Taushetsplikten er ikke til hinder for at opplysningene gjøres kjent for dem opplysningene direkte gjelder, jf. forvaltningsloven § 13 a første ledd nr. 1. Bestemmelsen innebærer også at opplysninger om forholdet mellom to personer kan gis til den ene, selv om det dermed også røper tilsvarende personlige opplysninger for den andre.[^406]
+
+#### Samtykke
+
+Samtykke som grunnlag for opplysningsrett er det viktigste unntaket fra taushetsplikten på de fleste forvaltningsområder.[^407] Det følger av forvaltningsloven § 13 a nr. 1 at taushetsplikt etter forvaltningsloven § 13 ikke er til hinder for at opplysninger gjøres kjent for andre «i den utstrekning de som har krav på taushet samtykker».
+
+Det er den opplysningene gjelder som kan samtykke til at opplysningene deles, ikke den som har gitt opplysningen til forvaltningsorganet. Videre er det den som avgir samtykket som bestemmer hvor langt samtykket skal rekke og hvilke konkrete opplysninger som kan deles. Et samtykke opphever ikke taushetsplikten på generelt grunnlag. Samtykket må være frivillig, informert og avgitt med samtykkekompetanse.[^408] Det stilles for øvrig ingen formkrav til samtykket.
+
+Det gis føringer i regelverket som skal stimulere til at forvaltningen innhenter samtykke fra den opplysningene gjelder før taushetsbelagte opplysninger utleveres – også i tilfeller der opplysningsrett følger av andre unntaksbestemmelser. Et samtykke kan bidra til å ivareta tillitsforholdet mellom enkeltpersonen og forvaltningen.[^409] I barnevernloven § 6-4 første ledd fremgår det for eksempel at opplysninger i størst mulig grad skal innhentes i samarbeid med den saken gjelder.
+
+#### Anonymisering
+
+Anonymiserte opplysninger er opplysninger hvor personrelaterte opplysninger er utelatt, slik at den opplysningene gjelder ikke kan identifiseres.[^410] I tilfeller hvor opplysningene ikke kan knyttes til en bestemt person, vil utlevering av opplysningene ikke komme i konflikt med personvernhensyn. Det følger av forvaltningsloven § 13 a nr. 2 at taushetsplikt etter lovens § 13 ikke er til hinder for «at opplysningene brukes når behovet for beskyttelse må anses varetatt ved at de gis i statistisk form eller ved at individualiserende kjennetegn utelates på annen måte».
+
+Forutsetningen for å dele opplysninger etter forvaltningsloven § 13 a første ledd nr. 2 er at opplysningene er anonymisert, slik at det ikke er mulig å føre opplysningene tilbake til den opplysningene gjelder. Der hvor det i praksis ikke er mulig å anonymisere opplysningene, vil opplysningen være undergitt taushetsplikt.[^411] Dette kan være tilfellet om opplysninger knyttet til en partnervoldssak på et lite sted hvor «alle kjenner alle». Graden av anonymisering som kreves må vurderes konkret. Det kreves for eksempel en høyere grad av anonymisering på små steder enn i store byer.
+
+#### Alminnelig tilgjengelige opplysninger
+
+Det følger av forvaltningsloven § 13 a første ledd nr. 3 at taushetsplikt etter lovens § 13 ikke er til hinder for at «opplysningene brukes når ingen berettiget interesse tilsier at de holdes hemmelig, f.eks. når de er alminnelig kjent eller alminnelig tilgjengelig andre steder». Denne regelen har sammenheng med at deling av alminnelig kjente opplysninger ikke kommer i konflikt med personvernhensyn.
+
+I vurderingen av om opplysningene er alminnelig kjent eller alminnelig tilgjengelig andre steder, må det blant annet legges vekt på hvor sensitive opplysningene er i det konkrete tilfellet.[^412] Ordet «ingen» viser at terskelen er høy for å frigi opplysninger.[^413] Opplysninger som er kjent for vedkommendes nærmeste familie og venner er ikke «alminnelig kjent».
+
+### Unntak der private eller offentlige interesser tilsier det
+
+#### Opplysninger til sakens parter og deres representanter
+
+Taushetsplikten er ikke til hinder for at opplysningene gjøres kjent for sakens parter eller deres representanter, jf. forvaltningsloven § 13 b første ledd nr. 1. Begrepet «part» brukes om personer som en forvaltningsavgjørelse retter seg mot eller som saken ellers direkte gjelder, jf. forvaltningsloven § 2 første ledd bokstav e.
+
+Hva gjelder forholdet mellom unntakene i forvaltningsloven §§ 13 a første ledd nr. 1 og 13 b første ledd nr. 1, gjør førstnevnte bestemmelse unntak fra taushetsplikt for sakens parter, uavhengig av hvem de konkrete opplysningene gjelder, mens forvaltningsloven § 13 a første ledd nr. 1 gjør unntak for taushetsplikt for dem opplysningene direkte gjelder, uavhengig av om vedkommende er part i saken.
+
+#### Opplysningene kan brukes til det formål de er innhentet for
+
+Det kan ofte være nødvendig å kommunisere både internt og eksternt om behandlingen av en sak. Barneverntjenesten kan for eksempel ha behov for å innhente en sakkyndighetsvurdering i forbindelse med en barnevernssak. I andre tilfeller vil det være behov for å trekke inn ansatte i andre etater i saksbehandlingen som en del av en arbeidsgruppe eller et faglig team for å løse en konkret oppgave. Forvaltningsloven § 13 b første ledd nr. 2 slår fast at taushetsplikten ikke er til hinder for at opplysningene brukes i saksforberedelse, avgjørelser eller i gjennomføring av avgjørelser, oppfølging eller i kontroll, for å oppnå det formålet de er gitt eller innhentet for. Vurderingstemaet etter denne bestemmelsen er om det er nødvendig å dele opplysninger for å kunne ivareta organets lovpålagte oppgaver.[^414]
+
+#### Organintern informasjonsutveksling
+
+Adgangen til å formidle opplysninger internt i et organ er svært vid.[^415] Det følger av forvaltningsloven § 13 b første ledd nr. 3 at taushetsplikten ikke til hinder for at opplysningene gjøres «tilgjengelig for andre tjenestemenn innen organet eller etaten i den utstrekning som trengs for en hensiktsmessig arbeids- og arkivordning, bl.a. til bruk ved vegledning i andre saker». Bestemmelsen åpner blant annet for at flere ansatte kan samarbeide om en sak og ha full tilgang til opplysningene i den.
+
+#### Ekstern informasjonsutveksling
+
+Forvaltningslovens regler
+
+Mens forvaltningsloven åpner for organintern informasjonsutveksling i vid utstrekning, er adgangen til ekstern informasjonsutveksling mer snever. Reglene for ekstern informasjonsutveksling har størst praktisk betydning for tverrfaglig og tverretatlig samarbeid.
+
+Taushetsplikten er ikke til hinder for at forvaltningsorganet gir andre forvaltningsorganer opplysninger \[1\] om en persons forbindelse med organet og de avgjørelser som er truffet, og \[2\] opplysninger som er nødvendig å gi for å fremme avgiverorganets oppgaver, jf. forvaltningsloven § 13 b første ledd nr. 5. Det er gjort begrensninger i særlovgivningen for en stor del av de relevante instansene i hjelpeapparatet, se nedenfor.
+
+I henhold til \[1\] kan opplysninger om forbindelsen mellom enkeltpersoner og forvaltningsorganet og avgjørelser som er truffet deles med andre organer. I forarbeidene til forvaltningsloven er det blant annet vist til at beskyttelsesbehovet ikke er særlig stort overfor andre offentlige organer som er underlagt taushetsplikt.[^416]
+
+I henhold til \[2\] gis det adgang til å utveksle opplysninger som er nødvendige for å fremme avgiverorganets oppgaver. At informasjonsutvekslingen må være nødvendig, innebærer blant annet at det må være en klar og direkte sammenheng mellom utveksling av opplysninger og ivaretakelsen av avgiverorganets oppgaver. Mottakerorganets eventuelle interesse, eller behov for utveksling av opplysninger, er uten relevans. Om nødvendighetskravet er oppfylt, vil bero på en konkret vurdering i den enkelte sak. Nødvendighetskravet innebærer for øvrig at det ikke er adgang til rutinemessig utlevering av opplysninger.
+
+Bestemmelsen i forvaltningsloven § 13 første ledd nr. 5 gjelder også for organer som tilhører forskjellige etater.[^417] Det kan med hjemmel i denne bestemmelsen dermed utveksles opplysninger mellom for eksempel skoler og barnehager. Det er selve organet som kan utlevere opplysninger i henhold til bestemmelsen, ikke den enkelte ansatte. Det har vært diskutert om såkalte ansvarsgruppemøter på tvers av etater kan etableres med hjemmel i forvaltningsloven § 13 b første ledd nr. 5.[^418] Som hovedregel må slike fora etableres med samtykke fra partene, og i praksis er dette også vanlig. Utover dette må det vurderes konkret hvilke opplysninger som kan utveksles med hjemmel i § 13 første ledd nr. 5.
+
+Taushetsplikten er videre ikke til hinder for at forvaltningsorganet anmelder eller gir opplysninger om lovbrudd til påtalemyndigheten eller vedkommende kontrollmyndighet når allmenne hensyn tilsier det, eller det har naturlig sammenheng med avgiverorganets oppgaver, jf. forvaltningsloven § 13 b første ledd nr. 6. I motsetning til de mer generelle bestemmelsene i § 13 b første ledd nr. 2–5, er nr. 6 direkte begrenset til å gjelde opplysninger i forbindelse med lovbrudd. Dette betyr at det må foreligge brudd på regler som kan danne grunnlag for straffeforfølgning eller andre sanksjoner eller inngrep fra myndighetene. Det kreves ikke at det er brudd på straffesanksjonerte regler.[^419] Bestemmelsen pålegger ingen plikt til å anmelde eller gi opplysninger til påtalemyndigheten eller andre kontrollmyndigheter, men gir opplysningsrett i de tilfellene bestemmelsen sikter til. Om det aktuelle organet skal anmelde, eller på annen måte dele taushetsbelagte opplysninger i slike tilfeller, beror også på en vurdering av om det er naturlig eller nødvendig etter «avgiverorganets oppgaver».[^420]
+
+Spesialregler i særlovgivningen
+
+Medarbeidere i barnevernet, i NAV og på krisesentre har alle snevrere adgang til ekstern informasjonsutveksling av ellers taushetsbelagte opplysninger enn det som følger av forvaltningsloven § 13 b nr. 5 og 6.[^421] Det samme gjelder personer som utøver forvaltningsmessig virksomhet i helse- og omsorgstjenesten.[^422]
+
+Felles for de nevnte yrkesgruppene er at de kan dele informasjon med andre organer i to tilfeller. Det må enten \[1\] være nødvendig for å fremme organets egne lovpålagte oppgaver, eller \[2\] være nødvendig for å forebygge vesentlig fare for liv eller alvorlig skade på noens helse.[^423] Medarbeidere i NAV og sosialtjenesten kan i noen tilfeller dele opplysninger eksternt på andre grunnlag, se NAV-loven § 7 fjerde ledd og sosialtjenesteloven § 44 fjerde ledd.
+
+Et eksempel på \[1\] er at barnevernet kan gi skolen opplysninger om et barns omsorgssituasjon når barneverntjenesten, etter en konkret vurdering, finner at skolens bistand er nødvendig for at barneverntjenesten skal kunne sørge for en tilfredsstillende omsorgssituasjon for barnet.[^424] Barneverntjenesten vil også kunne formidle opplysninger til politiet i en sak der det er mistanke om at et barn direkte utsettes for vold eller opplever partnervold i hjemmet. Det må foretas en konkret vurdering av om informasjonsdeling er nødvendig for å fremme organets oppgaver. Dersom det ikke anses å være nødvendig, kan saken ofte drøftes anonymt.[^425]
+
+I henhold til \[2\] er det er uten betydning hvem som står i fare for tap av liv eller alvorlig helseskade. Krisesenteret kan for eksempel varsle politiet dersom brukeren av krisesenteret og vedkommendes barn reiser hjem til voldsutøver, og det må antas å være vesentlig fare for at de vil bli utsatt for vold.[^426] I slike tilfeller vil også avvergeplikten etter straffeloven § 196 kunne gjelde, se punkt 8.3.2.
+
+## Yrkesmessig taushetsplikt for politiet og påtalemyndigheten
+
+### Hva er taushetsbelagt?
+
+Politiregisterloven gjelder for politiets behandling av opplysninger til politimessige formål. Som politimessige formål regnes blant annet oppgaver knyttet til etterforskning og forebyggende arbeid, jf. politiregisterloven § 2 nr. 13. Politiregisterlovens regler om yrkesmessig taushetsplikt gjelder store deler av politiets virksomhet.[^427] Forvaltningsloven gjelder for den delen av politiets arbeid som utgjør forvaltningsvirksomhet.[^428] Politiregisterlovens regler om taushetsplikt bygger ikke på forvaltningsloven. Det er likevel likhetstrekk mellom de to regelsettene, med hensyn til både omfanget av taushetsplikten og begrensningene i den.
+
+Hovedregelen om politiets yrkesmessige taushetsplikt følger av politiregisterloven § 23. Taushetsbelagte opplysninger etter denne bestemmelsen er for det første konkret saksrelatert informasjon, for eksempel opplysninger om noens personlige forhold, jf. § 23 første ledd nr. 1.[^429] I motsetning til det som gjelder etter forvaltningsloven, skilles det i utgangspunktet ikke mellom nøytrale personopplysninger og andre typer personopplysninger, se punkt 8.4.1. Dette betyr at politiet har taushetsplikt om opplysninger om en persons fødested, fødselsdato, personnummer, statsborgerforhold, sivilstand, yrke, bopel og arbeidssted.
+
+Taushetsbelagte opplysninger er for det andre generell informasjon knyttet til utførelsen og organiseringen av politiets operative virksomhet, jf. politiregisterloven § 23 annet ledd. Dette inkluderer opplysninger som det ut fra hensynet til etterforskningen i den enkelte sak, hensynet til spanings- og etterretningsvirksomheten eller hensynet til politiets operative virksomhet, er nødvendig for politiet å holde hemmelig. Visse opplysninger vil være underlagt taushetsplikt både etter første og annet ledd i politiregisterloven § 23.
+
+### Hvem har taushetsplikt?
+
+Enhver som er ansatt i eller utfører tjeneste eller arbeid for politiet eller påtalemyndigheten, har plikt til å hindre at andre får adgang eller kjennskap til taushetsbelagte opplysninger, jf. politiregisterloven § 23 første ledd.[^430] Også opplysninger som personen har tilegnet seg utenfor arbeidstid vil kunne være omfattet – det avgjørende er om vedkommende har opptrådt eller fremstått som representant for politiet.[^431] Taushetsplikten gjelder også personer som har avsluttet tjenesten eller arbeidet.[^432]
+
+### Begrensninger i taushetsplikt etter politiregisterloven – opplysningsrett
+
+#### Opplysningsrett ved samtykke
+
+Politiet kan dele ellers taushetsbelagte opplysninger med andre når den som har krav på taushet samtykker til det, jf. politiregisterloven § 24 nr. 1.[^433] Samtykke er ofte et lite praktisk unntak for store deler av politiets arbeid, men det er likevel et praktisk unntak i saker hvor informasjonsutveksling er nødvendig for å ivareta en voldsutsatt. Dette har sammenheng med at voldsutsatte oftere vil samtykke til dette enn personer som for eksempel er under etterforskning.
+
+#### Opplysningsrett ved avvergende og forebyggende virksomhet
+
+Politiet kan dele informasjon med andre instanser både i forbindelse med konkrete, fremtidige lovbrudd, og som del av en mer generell kriminalitetsforebyggende virksomhet, jf. politiregisterloven § 27. Denne bestemmelsen gir adgang til å utlevere ellers taushetsbelagte opplysninger når det er i politiets egen interesse. Denne formen for opplysningsrett er praktisk viktig, og det er sannsynligvis det mest omfattende unntaket fra politiets taushetsplikt.
+
+Politiet kan for det første utlevere ellers taushetsbelagte opplysninger når det er nødvendig for å avverge et lovbrudd, jf. politiregisterloven § 27 første ledd. Avverging krever at politiet har konkret og troverdig informasjon om at en straffbar handling vil bli begått, at utførelsen av handlingen kommer innen forholdsvis kort tid og at utlevering av opplysningen er nødvendig for å kunne avverge lovbruddet, jf. politiregisterforskriften § 9-2.[^434] Utlevering kan skje til både offentlige organer og private. Dersom politiet for eksempel får kjennskap til at partneren til en av lærerne på en skole planlegger å ta seg inn på skolen på et bestemt tidspunkt for å begå et partnerdrap, vil politiet kunne varsle skolen uten hensyn til taushetsplikten.[^435] I slike tilfeller vil også avvergeplikten etter straffeloven § 196 kunne gjelde, se punkt 8.3.2.
+
+Politiet kan for det andre utlevere ellers taushetsbelagte opplysninger til andre offentlige organer når det er nødvendig for å forebygge et lovbrudd, jf. politiregisterloven § 27 annet ledd nr. 1. Forebyggingstilfellene er mindre akutte enn avvergingstilfellene.[^436] Når det gjelder utlevering av opplysninger til andre offentlige organer, må det vurderes om utlevering er nødvendig. Det skal blant annet legges vekt på om det er grunn til å tro at utlevering til et annet offentlig organ vil bidra til at lovbrudd av en viss alvorlighet ikke vil bli begått, jf. politiregisterforskriften § 9-3 første ledd. Politiet kan pålegge personer som utfører tjeneste for andre offentlige organer taushetsplikt om de opplysningene de gjøres kjent med, jf. politiregisterloven § 35 annet ledd. Politiet kan også utlevere ellers taushetsbelagte opplysninger til private hvis det er nødvendig for å forebygge lovbrudd, men adgangen til dette er snevrere enn ved utlevering til andre offentlige organer, jf. politiregisterloven § 27 annet ledd nr. 2.[^437]
+
+Politiet kan for det tredje utlevere ellers taushetsbelagte opplysninger som en del av samarbeidet med andre instanser som har som formål å forebygge kriminalitet, jf. politiregisterloven § 27 fjerde ledd. Opplysningene kan være knyttet til både enkeltpersoner og miljøer, eller de kan være av mer politistrategisk art.[^438]
+
+Politiet kan bare dele opplysninger i den utstrekning det er forholdsmessig i den konkrete situasjonen, jf. politiregisterloven § 27 tredje ledd. Ulempene ved utleveringen av taushetsbelagte opplysninger må stå i et rimelig forhold til den nytteverdien som oppnås.[^439] Det samme gjelder for deltakelse i samarbeid om kriminalitetsforebygging med andre organer, jf. politiregisterloven § 27 fjerde ledd. I vurderingen av hvilke opplysninger som kan deles, skal det legges særlig vekt på om opplysningene videreformidles til en mottaker som er underlagt taushetsplikt, hvordan det kan forventes at mottakeren benytter opplysningene og om opplysningene etter sin art eller kilde er beheftet med usikkerhet.[^440] Andre viktige momenter vil være hvor sensitive opplysningene er og hva som er de personvernmessige konsekvensene av utleveringen, herunder risiko for videre spredningsfare. Det skal også legges vekt på risikoen for, og alvorligheten ved, den straffbare handlingen politiet søker å forebygge.[^441]
+
+#### Opplysningsrett til andre offentlige organer i deres interesse
+
+Politiet kan utlevere ellers taushetsbelagte opplysninger når det er nødvendig for å fremme andre offentlige organers lovpålagte oppgaver, eller når det er nødvendig for å hindre at andre offentlige organers virksomhet blir utøvd på en uforsvarlig måte, jf. politiregisterloven § 30 første ledd. Etter denne bestemmelsen er det tale om utlevering av opplysninger ut fra mottakerorganets interesser. Bestemmelsen er nærmest en speilvending av forvaltningsloven § 13 b nr. 5,[^442] se punkt 8.5.3.4.
+
+Politiet kan etter denne bestemmelsen utlevere opplysninger til blant annet helse- og omsorgstjenesten, NAV og barneverntjenesten.[^443] Hvis barneverntjenesten har behov for opplysninger fra politiet for å løse bestemte oppgaver, kan de pålegge politiet utlevering av opplysninger etter barnevernloven § 6-4 annet ledd, se punkt 8.3.3.3. Politiregisterloven § 30 åpner for at politiet kan utlevere opplysninger til barneverntjenesten i større utstrekning enn det som følger av barnevernloven § 6-4 annet ledd.
+
+Utlevering av opplysninger etter politiregisterloven § 30 er underlagt den samme forholdsmessighetsvurderingen som følger av § 27 tredje ledd, jf. § 30 annet ledd. Det skal blant annet legges vekt på om mottakerorganet med opplysningene vil settes i stand til å treffe en riktigere eller mer velbegrunnet avgjørelse, eller utføre en mer effektiv og hensiktsmessig tjeneste, jf. politiregisterforskriften § 9-6 annet ledd.
+
+## Yrkesmessig taushetsplikt for helsepersonell
+
+### Hva er taushetsbelagt?
+
+Helsepersonelloven gjelder når helsepersonell utøver pasientrettet virksomhet, mens forvaltningsloven gjelder når helsepersonell utøver forvaltningsmessig virksomhet.
+
+Hovedregelen om taushetsplikt for helsepersonell følger av helsepersonelloven § 21.[^444] Helsepersonellovens regler om taushetsplikt bygger ikke på forvaltningsloven. Det er likevel likhetstrekk mellom regelsettene.
+
+Taushetsbelagte opplysninger er etter helsepersonelloven § 21 opplysninger om «folks legems- eller sykdomsforhold», eller «andre personlige forhold». Med legems- og sykdomsforhold menes fysiske eller psykiske forhold knyttet til den enkeltes helsetilstand, for eksempel at pasienten har skader som følge av vold. Med «andre personlige forhold» siktes det til andre forhold som er knyttet til den enkelte person, men som ikke er knyttet til vedkommendes helsetilstand. I motsetning til hva som gjelder etter forvaltningsloven, skilles det i utgangspunktet ikke mellom nøytrale personopplysninger og andre typer personopplysninger, se punkt 8.4.1. Alle opplysninger som er egnet til å identifisere en person er i utgangspunktet underlagt taushetsplikt etter helsepersonelloven. Det kan for eksempel være opplysninger om sosiale og økonomiske forhold, sivilstand, opplysninger som kan lede til informasjon om noens sykdomsforhold eller opplysninger om andre personlige forhold. Opplysninger om selve kontakten mellom pasienten og helsetjenesten kan være taushetsbelagt dersom den røper informasjon om vedkommendes sykdom og helsetilstand. Det gjelder for eksempel innleggelse på et psykiatrisk sykehus eller en avrusningsenhet. Som hovedregel vil også opplysninger om kontakt med fastlegen på et konkret tidspunkt være taushetsbelagt.[^445]
+
+### Hvem har taushetsplikt?
+
+Helsepersonelloven omfatter alle som yter helsehjelp i helse- og omsorgstjenesten eller på apotek – uavhengig av utdanningsbakgrunn.[^446] Helsepersonell kan være leger, sykepleiere, psykologer, jordmødre, fysioterapeuter, tannleger, vernepleiere eller andre helsearbeidere.[^447] Ansatte i pasientadministrasjonen omfattes også, jf. helsepersonelloven § 26 fjerde ledd. I tillegg er alle som behandler helseopplysninger i helse- og omsorgsforvaltningen og i helse- og omsorgstjenesten underlagt helsepersonellovens taushetspliktsregler, jf. helseregisterloven § 17 og pasientjournalloven § 15.
+
+Taushetsplikten gjelder opplysninger som helsepersonell får kjennskap til i kraft av å være helsepersonell, jf. helsepersonelloven § 21. Dersom personen har mottatt informasjonen utenfor arbeidstid, kan opplysningene like fullt være underlagt den yrkesmessige taushetsplikten. Det vil for eksempel være tilfellet når en voldsutsatt får skadebehandling av en nabo som er sykepleier. Det avgjørende er om vedkommende i situasjonen har fremstått som helsepersonell.[^448] Helsepersonells taushetsplikt fortsetter å gjelde selv om arbeidsforholdet avsluttes.[^449]
+
+### Begrensninger i taushetsplikt etter helsepersonelloven – opplysningsrett
+
+#### Opplysningsrett ved samtykke
+
+Det mest praktiske unntaket fra helsepersonells taushetsplikt er informasjonsutveksling på grunnlag av samtykke fra den som har krav på taushet, jf. helsepersonelloven § 22.[^450] Det vil for eksempel være uproblematisk at helsepersonell anmelder partnervold til politiet når pasienten samtykker til det.
+
+#### Opplysningsrett ved tungtveiende private eller offentlige interesser
+
+Helsepersonell kan dele ellers taushetsbelagte opplysninger med andre når «tungtveiende private eller offentlige interesser gjør det rettmessig å gi opplysningene videre», jf. helsepersonelloven § 23 nr. 4. Bestemmelsen gir helsepersonell rett til å dele ellers taushetsbelagte opplysninger med andre organer for å avverge nødrettssituasjoner eller andre situasjoner hvor det kan oppstå skader av et visst omfang.[^451] Unntaket er viktig for forebygging av partnerdrap. Dersom en pasient for eksempel fremsetter en trussel om å drepe noen overfor en psykolog, vil psykologen etter denne bestemmelsen kunne dele disse opplysningene med politiet.[^452]
+
+Det er i utgangspunktet ingen begrensning med hensyn til hvem opplysningene kan deles med. Formålet med bestemmelsen er likevel at helsepersonell skal kunne varsle organer som kan avverge den aktuelle hendelsen, for eksempel politiet.[^453] I tråd med forholdsmessighetsprinsippet, skal det ikke utleveres flere opplysninger enn det som er nødvendig for å utløse en aktivitetsplikt hos et organ som kan agere.
+
+Helsepersonells opplysningsrett etter helsepersonelloven § 23 nr. 4 må ses i sammenheng med helsepersonells opplysningsplikt til nødetater etter helsepersonelloven § 31 og avvergeplikten etter straffeloven § 196, se punktene 8.3.4 og 8.3.2. Helsepersonell har videre adgang til å dele ellers taushetsbelagte opplysninger etter helsepersonelloven § 23 nr. 4 enn etter straffeloven § 196 ettersom helsepersonelloven § 23 nr. 4 ikke er begrenset til å gjelde visse lovbrudd.[^454]
+
+#### Opplysningsrett til samarbeidende personell
+
+Helsepersonell har i utgangspunktet taushetsplikt overfor annet helsepersonell. I mange tilfeller vil imidlertid helsepersonell ha stort behov for å samarbeide både internt og eksternt.[^455] Taushetsbelagte opplysninger kan derfor videreformidles til «samarbeidende personell» når dette er nødvendig for at helsepersonell skal kunne gi pasienten forsvarlig helsehjelp, jf. helsepersonelloven § 25 første ledd.[^456] Med «nødvendig» menes at opplysninger bare kan gis til personale som har behov for opplysningene for å yte helsehjelp til pasienten, og at det ikke kan gis mer informasjon enn det som er nødvendig for å yte helsehjelpen. En ambulansearbeider kan for eksempel gi opplysninger til legen som skal treffe beslutninger om videre oppfølging når pasienten blir brakt til sykehuset. Samarbeidende personell er pålagt samme taushetsplikt som helsepersonell som deler opplysningene, jf. helsepersonelloven § 25 fjerde ledd.
+
+Taushetsbelagte opplysninger kan ikke deles mellom samarbeidende helsepersonell dersom pasienten motsetter seg dette, jf. helsepersonelloven § 25 første og tredje ledd. Dette betyr ikke at helsepersonell aktivt må innhente samtykke fra pasienten hver gang informasjonen videreformidles. Det kreves at pasienten på eget initiativ nekter informasjonsutveksling mellom helsepersonell.
+
+## Deling av opplysninger mellom organer som er underlagt forskjellige taushetspliktsregler
+
+I en del tilfeller vil de organene som er involvert i en sak være underlagt forskjellige taushetspliktsregler. Taushetspliktsreglene i politiregisterloven gjelder for politiet, reglene i helsepersonelloven gjelder for helsepersonell og taushetspliktsreglene i forvaltningsloven og barnevernloven gjelder for barneverntjenesten. Ved tverretatlig samarbeid kan resultatet i slike tilfeller bli at det ene organet er underlagt strengere taushetsplikt enn det andre. Utgangspunktet er at det er reglene for det enkelte organ som styrer om organet har taushetsplikt om en opplysning, og om organet kan dele den aktuelle opplysningen. Når politiet mottar en opplysning fra barneverntjenesten, må politiet behandle opplysningen i tråd med politiregisterloven. Dette gjelder både med hensyn til om opplysningen er undergitt taushetsplikt, og om politiet har adgang til å dele opplysningen med andre instanser. Barneverntjenestens regelverk vil normalt være uten betydning i et slikt tilfelle. Gir ikke den aktuelle særlovgivningen svar, kommer de forvaltningsrettslige reglene supplerende til anvendelse.[^457]
+
+Del IV
+
+Gjennomgang av partnerdrapssaker

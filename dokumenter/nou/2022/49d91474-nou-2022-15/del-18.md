@@ -1,857 +1,444 @@
-# NOU 2022: 15, del 18 av 34 (side 183–192)
+# NOU 2022: 15, del 18 av 41
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2022/49d91474-nou-2022-15.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2022-15/id2940830/
 - Original-PDF: https://www.regjeringen.no/contentassets/dac114288c9f44f3b95af7dd46cf418b/no/pdfs/nou202220220015000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 183]
+# Spesialitetsprinsippet, videre utlevering, videre overlevering og betingelser for utlevering
 
-NOU 2022: 15
-Utleverings- og arrestordreloven
+## Innledning
 
-inntrykk at dette hensynet også i dag har betydning.
-På denne bakgrunn er det utvalgets syn at
-domstolene fortsatt bør prøve om lovens vilkår for
-utlevering er oppfylt, se lovutkastet § 42. Noen
-enkeltspørsmål ved den nærmere utformingen av
-ordningen behandles nedenfor.
-Utvalget er ikke gjort kjent med noe behov for
-å begrense behandlingen av utleveringssaker til
-noen utvalgte domstoler. Dette kunne f.eks. skje
-ved å la slike saker bli vurdert bare av enkelte
-domstoler innen et distrikt; ved å innføre en
-bestemmelse om tvungent verneting (sml. utlendingsloven § 79 tredje ledd om saksanlegg ved
-Oslo tingrett), eller ved å opprette én særdomstol.
-Det er nok så at det i noen rettskretser ytterst sjelden oppstår spørsmål om utlevering, slik at manglende erfaring kan skape utfordringer bl.a. fordi
-slike saker skal behandles raskt. Men de alminnelige domstolene er egnet til å vurdere denne sakstypen, og rettspraksis fra lagmannsrettene og
-Høyesterett om utlevering gir veiledning. Eventuelle praktiske problemer bør avhjelpes ved at
-rettsstoffet gjøres lettere tilgjengelig for aktører
-som sjelden beskjeftiger seg med slike saker.
-Utleveringsloven § 17 angir som nevnt at retten skal prøve om vilkårene for utlevering etter
-loven «og mulig overenskomst med fremmed stat
-er til stede». Den siterte delen av bestemmelsen
-gjenfinnes ikke i utleveringsloven 1908 og er ikke
-kommentert i Ot.prp. nr. 30 (1974–75). Etter det
-utvalget erfarer har det ikke hatt betydning at
-domstolen, i tillegg til å vurdere om lovens vilkår
-er til stede, skal vurdere om vilkårene i overenskomst med fremmed stat er oppfylt. Utvalget foreslår derfor at denne delen av bestemmelsen ikke
-videreføres.
-Forarbeidene til utleveringsloven forutsetter
-som nevnt at det skal holdes muntlige forhandlinger i alle saker, og utvalgets inntrykk er at
-dette er fulgt i praksis. Etter utvalgets syn bør
-domstolen ha anledning til å beslutte skriftlig
-behandling av saken dersom det anses ubetenkelig. Regelen tar sikte på å effektivisere behandlingen av utleveringssaker, der hverken hensynet til sakens opplysning eller rettssikkerhet tilsier muntlige forhandlinger. Det kan f.eks. være
-situasjonen der den ettersøkte samtykker til utlevering, eller der påtalemyndigheten anfører at
-vilkårene for utlevering ikke er oppfylt. Dette må
-vurderes konkret.
-I de sakene der det holdes muntlige forhandlinger, bør domstollovens regler om lukkede
-dører fortsatt få tilsvarende anvendelse, sml. utleveringsloven § 17 første ledd annet punktum. Det
+Utlevering og overlevering kan skje på særlige vilkår («betingelser», se punkt 6.6.5). Dette kapittelet behandler spesialitetsprinsippet, videre utlevering og videre overlevering i punkt 9.2, og betingelser som stilles for utlevering i 9.3.
 
-181
+## Spesialitetsprinsippet, videre utlevering og videre overlevering
 
-Kapittel 10
+### Utlevering
 
-foreslås inntatt en uttrykkelig henvisning til domstollovens regler.
-For øvrig foreslår utvalget å videreføre gjeldende rett, herunder rettens adgang til å innhente
-nye bevis og utsette behandlingen, jf. utleveringsloven § 17 annet ledd siste punktum.
-Justisdepartementets rolle og behandling
-Bør Justisdepartementet avgjøre om utlevering
-skal skje?
-Utvalget har vurdert om Justisdepartementet fortsatt bør treffe avgjørelsen om utlevering skal skje.
-Ved organiseringen av forvaltningen kan det anføres at departementene i hovedsak bør behandle
-saker av generell politisk og praktisk betydning,
-og at enkeltsaker i størst mulig utstrekning bør
-avgjøres av andre organer. Etter utvalgets syn må
-dette argumentet vurderes i lys av de konkrete
-hensynene som gjør seg gjeldende på hvert enkelt
-fagområde.
-Ett alternativ kan være å la domstolene avgjøre
-med endelig virkning også spørsmålet om utlevering skal skje, slik som i Danmark. I mange tilfeller vil dette bero på en vurdering av rent rettslige
-spørsmål, noe som taler for at domstolene bør
-treffe avgjørelsen. Hvis departementet kobles ut,
-vil dessuten den totale saksbehandlingstiden
-reduseres.
-Men selv om rettslige vurderinger ofte avgjør
-om utlevering kan skje, må det utøves skjønn i en
-god del saker, særlig der Norge ikke har en folkerettslig avtale om utlevering med den anmodende
-stat. Avgjørelsen kan også ha utenrikspolitiske
-konsekvenser for Norge. Dette er noe av bakgrunnen for at beslutningsmyndigheten hittil har vært
-lagt til forvaltingen, som i praksis har ansvaret for
-å ivareta norske interesser overfor utlandet, jf.
-sitatet fra Ot.prp. nr. 26 (1906–07) s. 13, gjengitt i
-punkt 10.5.2.1. Det vil innebære et brudd med en
-langvarig norsk tradisjon å la domstolene avgjøre
-denne typen skjønnsmessige spørsmål. I de nordiske landene, bortsett fra Danmark, er det regjeringen eller departementet som treffer avgjørelsen.
-Utvalget anser det på denne bakgrunn ikke
-hensiktsmessig å foreslå at Justisdepartementets
-avgjørelsesmyndighet overføres til domstolene.
-Et annet alternativ kan være å legge avgjørelsen om utlevering til påtalemyndigheten. Dette
-fungerer godt i arrestordresaker. En slik løsning
-vil føre til mer ensartede saksbehandlingsregler
-ved utlevering og overlevering.
-Det er imidlertid viktige forskjeller mellom de
-to systemene. I motsetning til ved arrestordre
+#### Innledning
 
-[Side 184]
+Spesialitetsprinsippet er et internasjonalt anerkjent prinsipp, som innebærer at en person ikke kan strafforfølges eller få straff fullbyrdet mot seg for andre straffbare forhold begått før utleveringen enn utleveringsvedtaket gjelder. Prinsippet er et utslag av at det er opp til hver enkelt stat å bestemme om den vil utlevere personer som oppholder seg på dets territorium, og for hvilke handlinger det eventuelt skal skje. Videre vurderer den anmodede stat om hvert enkelt forhold kan gi grunnlag for utlevering, og begrensningene som ligger i spesialitetsprinsippet gir derfor et vern for den ettersøkte.
 
-182
+Ettersom utlevering bare skjer for forhold vedtaket gjelder, innebærer spesialitetsprinsippet at den ettersøkte som utgangspunkt heller ikke kan utleveres videre til en tredje stat. Hensynene bak spesialitetsprinsippet begrunner dermed også et forbud mot videre utlevering.
 
-Kapittel 10
+#### Gjeldende rett
 
-NOU 2022: 15
-Utleverings- og arrestordreloven
+Spesialitetsprinsippet
 
-bygger ikke utleveringstraktatene på gjensidig
-anerkjennelse. I en utleveringssak kan det foretas
-en relativt inngående prøving av utleveringsbegjæringen og den utenlandske straffesaken. Det
-er også flere muligheter for å avslå en utleveringsbegjæring enn en arrestordre, og det er større
-rom for utøvelse av skjønn.
-I arrestordresystemet er det dessuten lagt til
-rette for direkte dialog mellom de judisielle myndighetene, f.eks. ved at det skal oppgis kontaktopplysninger i arrestordreskjemaet. Innenfor
-EUs strafferettslige samarbeid er det også en
-infrastruktur for rask og pålitelig innhenting av
-informasjon. Her er informasjonssystemet for
-Schengen-samarbeidet (SIS) og de nasjonale
-SIRENE-kontorene av stor betydning. Arrestordrene sendes i de fleste sakene gjennom SIS,
-og de operative SIRENE-kontorene bistår de
-judisielle myndighetene med å avklare spørsmål
-og innhente informasjon raskt. Interpol har en
-lignende funksjon i utleveringssaker, men dette
-samarbeidet er ikke like strømlinjeformet som
-SIS og SIRENE. I arrestordresystemet skal også
-Eurojust legge til rette for effektiv gjennomføring av arrestordresaker, jf. forordning (EU)
-2018/1727 av 14. november 2018 om Eurojust
-art. 2 nr. 2 bokstav b.
-Disse forskjellene mellom utlevering og overlevering taler mot å overføre Justisdepartementets avgjørelsesmyndighet i utleveringssaker til
-påtalemyndigheten. Erfaringen etter ikrafttredelsen av arrestordreregelverket trekker i samme
-retning. De fleste av statene det nå er aktuelt å
-utlevere til, er politisk og rettslig forskjellig fra
-Norge. Enkelt sagt er de resterende utleveringssakene Justisdepartementet behandler blitt færre,
-men ofte mer krevende. Det kreves betydelig
-kunnskap og erfaring for å avgjøre dem. Justisdepartementet har langvarig institusjonell kompetanse på utleveringsområdet. Den bygger på erfaring fra behandlingen av konkrete saker og forhandlinger om utleveringstraktater. Det er en
-risiko for at denne kompetansen svekkes, i alle fall
-midlertidig, dersom avgjørelsesmyndigheten
-overføres til andre fagmiljøer.
-De fleste landene hvor det nå er aktuelt med
-utlevering, ligger utenfor Europa. Det er behov
-for å fremskaffe opplysninger på en rask og sikker
-måte. I fravær av ordninger som SIS og Eurojust,
-er det nyttig med tilgang til pålitelig informasjonsinnhenting gjennom utenrikstjenesten eller statenes sentralmyndigheter. Tilsvarende gjelder der
-det er nødvendig å innhente og få bekreftet garantier fra utenlandsk myndighet, hvilket oftere vil
-være situasjonen i utleveringssaker, se punkt 9.3.
+Utleveringsloven § 12 bestemmer hvilke vilkår som skal og kan settes av Justisdepartementet ved utlevering fra Norge. Spesialitetsprinsippet kommer til uttrykk i første ledd bokstav a, som forhindrer strafforfølgning og straffullbyrding for en annen handling begått før utleveringen.
 
-Ut fra kontakten utvalget har hatt med sentrale
-aktører, fremstår det klart at det er et grunnfestet
-og godt samarbeid, utviklet over lang tid, mellom
-Justisdepartementet og Utenriksdepartementet i
-utleveringssaker. Det synes nærliggende å bygge
-videre på dette.
-Det kan også tenkes saker med utenrikspolitiske aspekter. Når Norge ikke har en folkerettslig
-forpliktelse til å utlevere, kan avgjørelsen av om
-utlevering skal skje berøre sensitive spørsmål,
-herunder om gjensidighet (resiprositet) bør gjøres gjeldende. Også i disse tilfellene er det fordelaktig med et samarbeid mellom Justisdepartementet og Utenriksdepartementet.
-Etter en avveining av de kryssende hensyn er
-det utvalgets klare konklusjon at de beste grunner
-taler for at Justisdepartementet beholder rollen
-som avgjørende myndighet i utleveringssaker, se
-lovutkastet § 44. Men samtidig vil utvalget vurdere om det er mulig å effektivisere departementets behandling, se nedenfor.
-Hvilke spørsmål bør Justisdepartementet ta stilling
-til?
-Den etablerte kompetansefordelingen i utleveringssaker er som nevnt at domstolene avgjør lovligheten av utlevering, mens Justisdepartementet
-foretar en bredere vurdering av om utlevering
-skal skje. Det siste omfatter ifølge forarbeidene
-folkerettslige og politiske hensyn, men er etter
-gjeldende rett ikke begrenset til det. Hvis retten
-kommer til at utleveringslovens vilkår for utlevering ikke er oppfylt, er departementet bundet av
-konklusjonen. Men når domstolen har funnet at
-det er lovlig adgang til utlevering, er lovens system at departementet kan vurdere vilkårene på
-ny, og dette skjer i alle fall når den ettersøkte
-mener at det hefter svakheter ved domstolsavgjørelsen.
-Det kan spørres om det er nødvendig at Justisdepartementet vurderer de samme vilkårene som
-domstolene. Hverken i forarbeidene til 1908-loven
-eller 1975-loven drøftes spørsmålet. Utvalget
-bemerker at i rettssystemet blir saken gjenstand
-for en grundig kontradiktorisk behandling med
-advokatbistand og ankemulighet. Ikke sjelden
-vurderes saken av tre rettsinstanser – tingretten,
-lagmannsretten og Høyesterett (i ankeutvalget
-eller avdeling). Utgangspunktet må derfor være at
-rettssikkerhetshensyn ikke krever at forvaltningen må behandle samtlige vilkår på nytt.
-Også effektivitetshensyn spiller inn. Erfaring
-viser at utleveringssaker tar lang tid, selv om de
-prioriteres både av påtalemyndigheten, domsto-
+Etter ordlyden er dette et vilkår som *skal* settes ved enhver utlevering. Det har imidlertid ikke vært praksis etter utleveringsloven å sette vilkåret dersom den anmodende stat er forpliktet til å etterleve prinsippet gjennom folkerettslig avtale med Norge. I de tilfeller departementet setter vilkåret, ligger det i lovens system at den anmodende stat også må ha akseptert det før utlevering kan finne sted, og at utleveringsbegjæringen bare kan etterkommes dersom det er grunn til å tro at vilkåret vil bli overholdt.
 
-[Side 185]
+Spesialitetsprinsippet gjelder bare for straffbare forhold begått *før* utlevering finner sted. Det må videre dreie seg om et *annet* lovbrudd enn vedkommende ble utlevert for. Hva som utgjør et annet lovbrudd, beror på en sammenligning av gjerningsbeskrivelsen for lovbruddet som var grunnlaget for utleveringen og det andre lovbruddet. Det må avklares om det er tilstrekkelig samsvar mellom beskrivelsen av de faktiske handlingene i utleveringsbegjæringen og den senere tiltalebeslutningen, jf. HR-2020-1001-A avsnitt 63.
 
-NOU 2022: 15
-Utleverings- og arrestordreloven
+Utleveringsloven § 12 første ledd bokstav a oppstiller tre unntak fra vernet spesialitetsprinsippet gir:
 
-lene og departementet. Det er ikke uvanlig at det
-går ett år fra den ettersøkte pågripes til utlevering
-effektueres, og tidsforløpet kan være lengre. Ofte
-er den ettersøkte varetektsfengslet i hele perioden.
-Justisdepartementets saksbehandlingstid bør
-så vidt mulig reduseres. Et mulig virkemiddel er å
-redusere unødig dobbeltbehandling. Selv om
-antall utleveringssaker er blitt færre etter at det nå
-er arrestordresystemet som gjelder for Norden og
-mange andre europeiske land, er departementets
-gjenværende arbeid med utleveringsbegjæringer
-ikke ubetydelig. Det har skjedd en gradvis utvikling i antall utleveringssaker. Ifølge Ot.prp. nr. 30
-(1974–75) s. 19 mottok departementet fem utleveringsbegjæringer fra nordiske og ti fra ikke-nordiske stater i perioden 1969–74. Justisdepartementet har opplyst til utvalget at det i årene 2010
-og 2015–2019 årlig mottok mellom 53 og 85 utleveringsbegjæringer fra ikke-nordiske stater.
-Etter utvalgets syn bør Justisdepartementet
-som utgangspunkt kunne legge til grunn rettens
-konklusjon om at lovens vilkår er oppfylt. Departementet skal konsentrere sin vurdering om færre
-temaer enn i dag, noe som vil effektivisere saksbehandlingen.
-Men regelen kan ikke være unntaksfri. I
-enkelte spesielle tilfeller har det vist seg å være
-behov for en ny vurdering i Justisdepartementet
-av om utlevering vil kunne komme i strid med
-Norges menneskerettsforpliktelser. En illustrasjon er saken om utlevering til Aserbajdsjan (se
-punkt 10.5.2.1). Nye bevis eller andre omstendigheter, f.eks. endrede forhold i den anmodende
-stat, kan reise tvil om rettsavgjørelsen på denne
-bakgrunn kan opprettholdes. Om lovutkastet § 5
-er til hinder for utlevering på grunn av slike nye
-forhold, må vurderes i lys av EMDs omfattende
-praksis, se punkt 4.3.
-Menneskerettsloven § 3, jf. § 2, fastslår bl.a. at
-EMK skal gå foran ved eventuell motstrid med
-annen norsk lovgivning. Hvis utlevering vil være i
-strid med EMK, kan utlevering ikke skje. Det følger også av Grunnloven § 92 som pålegger norske
-myndigheter å håndheve menneskerettighetene
-på det nivå de er gjennomført i norsk rett, jf. HR2016-2554-P (Holship) avsnitt 70 og HR-2018-456-P
-(Nesseby) avsnitt 93.
-Utleveringstraktatene har – i motsetning til
-arrestordresystemet – ikke konkrete frister for
-saksbehandlingen. Fra det foreligger rettskraftig
-kjennelse til Justisdepartementet treffer vedtak
-kan det gå flere måneder, unntaksvis over et år,
-slik at situasjonen for den ettersøkte eller i den
-anmodende stat kan være endret. Det kan derfor
+For det første kan departementet på anmodning fra den anmodende stat etter § 21 samtykke til at den ettersøkte holdes strafferettslig ansvarlig for andre straffbare forhold begått før utleveringen enn utlevering skjer for, jf. § 12 første ledd bokstav a nr. 1. Begjæringen skal inneholde opplysninger om arten av og tiden og stedet for den straffbare handlingen, samt opplysninger om de straffebestemmelsene som anses anvendelige på handlingen, jf. § 21 tredje ledd.
 
-183
+For at samtykke skal kunne gis, må handlingen staten ønsker å strafforfølge eller dommen staten ønsker å fullbyrde, kunne ha begrunnet utlevering etter loven, jf. § 21 annet ledd. Utgangspunktet må imidlertid modifiseres noe. Ettersom utlevering allerede er tilstått i disse sakene, vil det alltid være en vurdering av samtykke til aksessorisk utlevering, jf. § 3 tredje ledd. Prøvingen vil også kunne være enklere fordi norske myndigheter tidligere har kommet til at det er forsvarlig å utlevere til vedkommende stat.
 
-Kapittel 10
+Til tross for at § 21 er utformet som en «kan»-regel, skal samtykke gis hvis den anmodende stat er part i utleveringskonvensjonen og lovbruddet i seg selv kunne begrunnet utlevering etter konvensjonen, jf. art. 14 nr. 1 bokstav a.
 
-unntaksvis oppstå et behov for at departementet
-vurderer om utlevering vil være i strid med EMK.
-Utvalget foreslår derfor at loven inneholder en
-sikkerhetsventil for slike helt spesielle unntakstilfelle.
-I dag vurderer Justisdepartementet også noen
-spørsmål som ikke er behandlet av domstolene.
-For det første vurderer departementet om
-utleveringen skal utsettes eller gjøres midlertidig
-fordi den ettersøkte i Norge er under strafforfølgning eller har utestående straff å fullbyrde for et
-annet forhold enn det utleveringsbegjæringen
-gjelder, jf. utleveringsloven § 11 som i hovedsak er
-foreslått videreført i lovutkastet § 45, se punkt
-10.7.2. Dette er spørsmål av praktisk og prosessuell art som ikke berører lovligheten av en utlevering. Det er derfor ikke naturlig at de vurderes av
-domstolene. Utvalget foreslår å videreføre departementets myndighet til å vurdere utsatt og midlertidig utlevering. Slike saker reiser imidlertid
-spørsmål av påtalemessig karakter, herunder om
-hensiktsmessig iretteføring av norske straffesaker. Det kan også ha en side til spørsmål som
-hører under kriminalomsorgen, bl.a. soningsoverføring og den ettersøktes rehabiliteringsutsikter.
-Utvalget velger derfor å presisere i merknaden til
-lovutkastet § 44 at påtalemyndigheten, når den
-sender en rettskraftig avgjørelse til departementet, skal tilkjennegi sin vurdering av om utsatt
-eller midlertidig utlevering er aktuelt og begrunnelsen for dette. Etter det utvalget forstår er det i
-dag et slikt samarbeid mellom påtalemyndigheten
-og departementet.
-For det annet tilligger det departementet å
-fastsette vilkår for utlevering der det er grunn til
-det, jf. utleveringsloven § 12 annet ledd, som langt
-på vei er foreslått videreført i lovutkastet § 20, se
-punkt 9.3.4. Det hender riktignok at domstolen i
-sin avgjørelse kommer til at vilkårene for utlevering er oppfylt forutsatt at en eller flere
-betingelser stilles. Det er likevel lovens system at
-det er departementet som inntar betingelsene i
-utleveringsvedtaket. Fastsettelse av slike betingelser eller innhenting av diplomatiske garantier
-kan kreve utstrakt kontakt med utenlandske
-myndigheter. Dette er det naturlig at Justisdepartementet gjør i samarbeid med Utenriksdepartementet. Utvalget foreslår derfor at det fortsatt skal
-være opp til departementet å stille betingelser der
-det er grunn til det, se nærmere om betingelser i
-punkt 9.3.
-For det tredje er det i dag departementet som
-avgjør hvilken utleveringsbegjæring som skal
-etterkommes, dersom to eller flere stater har
-begjært samme person utlevert. Dette omtales
+Spørsmålet om forholdet kunne ha begrunnet utlevering etter loven, avgjøres ved kjennelse av den retten som tidligere avgjorde utleveringsspørsmålet, jf. § 21 annet ledd. Behandlingen skal skje på samme måte som ved en ordinær utleveringsbegjæring. Se punkt 10.4.1 og 10.5.2 for en nærmere redegjørelse for dette.
 
-[Side 186]
+Norsk samtykke må innhentes før den anmodede stat tiltaler, domfeller eller frihetsberøver vedkommende, jf. HR-2020-1001-A avsnitt 66 og 70.
 
-184
+Det andre unntaket følger av § 12 første ledd bokstav a nr. 2. Den anmodende stat kan gå utenfor utleveringens «spesialitet» hvis den ettersøkte uhindret og i 45 dager forblir i staten vedkommende ble utlevert til.
 
-Kapittel 10
+Det tredje unntaket er regulert i § 12 første ledd bokstav a nr. 3. Dersom den ettersøkte forlater landet vedkommende ble utlevert til, for så senere å returnere, er vedkommende ikke lenger vernet av spesialitetsprinsippet. I en slik situasjonen gjelder ingen 45-dagersfrist.
 
-NOU 2022: 15
-Utleverings- og arrestordreloven
+For Schengen-statene, i praksis Sveits og Liechtenstein, gjelder ett ytterligere unntak, jf. utleveringsloven § 17 a annet ledd. Den ettersøkte kan gi *avkall på spesialitetsprinsippet* før utlevering finner sted, se punkt 10.6. Utleveringsloven 1908 § 5 hadde et lignende unntak fra spesialitetsprinsippet. Den ettersøkte kunne, etter at vedkommende var utlevert, i offentlig rettsmøte eller for en offentlig myndighet gi et slikt avkall. Bestemmelsen ble ikke videreført i utleveringsloven 1975 fordi det kunne «være vanskelig å kontrollere om samtykke er gitt frivillig», jf. Ot.prp. nr. 30 (1974–75) s. 37.
 
-som konkurrerende utleveringsbegjæringer og er
-ikke regulert i dagens utleveringslov. Departementet har også avgjørelseskompetansen der det
-foreligger en eller flere utleveringsbegjæringer og
-en eller flere arrestordrer som gjelder samme person, jf. arrestordreloven § 29 annet ledd. Utvalget
-foreslår en ny bestemmelse om konkurrerende
-anmodninger i lovutkastet § 71, se punkt 12.1.4.
-Det er naturlig at den myndigheten som avgjør
-om en begjæring skal etterkommes, også tar stilling til de nevnte tilfellene av konkurrerende
-anmodninger. Utvalget foreslår derfor at departementet fortsatt skal avgjøre slike saker.
-Endelig kan som nevnt departementet utøve
-skjønn ved avgjørelsen av om utlevering i det
-enkelte tilfellet bør skje når lovens vilkår for utlevering er oppfylt. Dette utledes i dag av formuleringen i utleveringsloven § 1 om at den ettersøkte
-«kan utleveres» etter bestemmelsene i loven, og
-foreslås videreført i den nye bestemmelsen om
-departementets avgjørelse. I den forbindelse
-bemerker utvalget at enkelte forhold som etter
-utleveringsloven inngår i departementets diskresjonære prøvingsrett, er foreslått lovfestet som
-valgfrie avslagsgrunner. Dette gjelder lovutkastet
-§§ 10 (strafforfølgning av samme forhold i Norge)
-og 11 (avgjørelse av samme forhold utenfor Norden, EU og Schengen), se punkt 8.12.4. Utvalget
-foreslår å videreføre gjeldende rett, slik at bestemmelsene inngår som ledd i departementets vurdering av om utlevering skal finne sted. Utvalget
-foreslår videre å oppheve det absolutte forbudet
-mot utlevering av norsk statsborger, se lovutkastet § 17. Gjelder utleveringsbegjæringen norsk
-statsborger, tilligger det departementet å vurdere
-om utlevering skal finne sted, se nærmere veiledning om vurderingen i punkt 8.9.2. Det kan i den
-forbindelse også være aktuelt for departementet å
-stille betingelser for utleveringen. Ved utøvelsen
-av departementets skjønn («kan») vil det f.eks.
-kunne se hen til om forholdet er begått helt eller
-delvis i Norge eller om det fremstår som helt urimelig å tilstå utlevering ut fra sakens konkrete
-omstendigheter. Helt fritt i skjønnsutøvelsen står
-departementet likevel ikke. Har Norge en folkerettslig forpliktelse til å utlevere til den aktuelle
-staten, vil denne legge rammen for departementets avgjørelse.
-Ny rettslig behandling?
-I noen få og spesielle tilfeller har Justisdepartementet mottatt så mange nye opplysninger i forbindelse med sin vurdering av saken at situasjonen nærmest har vært å regne som en førstein-
+Videre utlevering
 
-stansbehandling. Blant annet har det dreid seg
-om betydelige endringer i den faktiske situasjonen hos den ettersøkte eller i den anmodende
-stat. Utvalget er gjort kjent med at omfanget
-kunne tilsi en ny rettslig behandling. Men når det
-foreligger en rettskraftig kjennelse om hvorvidt
-vilkårene for utlevering er oppfylt, er det i dag
-ikke adgang til en ny rettslig behandling av saken,
-jf. foran om HR-2016-1490-U avsnitt 15.
-Utvalget har vurdert om det i slike tilfeller
-bør innføres mulighet for ny rettslig behandling
-av utleveringsbegjæringen, men vil ikke foreslå
-en slik endring. Det dreier seg om ytterst få
-saker, som vanskelig kan begrunne en ny lovhjemmel. Bestemmelsen vil i seg selv kunne
-virke prosessdrivende og føre til omkamp om
-spørsmål som er rettskraftig avgjort. I tillegg
-ville det bryte med straffeprosesslovens system.
-Kjennelser kan angripes ved anke etter reglene i
-kap. 26. Når ankefristen er utløpt eller anken
-endelig avgjort, er avgjørelsen rettskraftig. Det
-er gitt særregler for omgjøring av kjennelser
-som er prosessledende (straffeprosessloven § 52
-fjerde ledd) og for gjenåpning av kjennelser som
-avviser saken (straffeprosessloven § 401). For
-øvrig kan ikke rettskraftige kjennelser endres.
-Straffeprosessutvalget har ikke foreslått endring
-av disse reglene.
-Klage til Kongen?
-Justisdepartementets vedtak om utlevering kan
-påklages til Kongen i statsråd, jf. forvaltningsloven §§ 28 flg. Av de utleveringsvedtakene departementet fattet i årene 2010 og 2015–2019 gikk som
-nevnt kun to vedtak ut på at utlevering ikke skulle
-finne sted der domstolen hadde kommet til at vilkårene for utlevering var oppfylt; i de øvrige
-sakene gikk vedtaket ut på at den ettersøkte
-skulle utleveres. Over halvpartene av alle vedtakene i perioden ble påklaget til Kongen i statsråd.
-Ingen av klagene ble tatt til følge. Selv om antall
-utleveringsbegjæringer har sunket betraktelig
-etter at arrestordreloven trådte i kraft, er det fortsatt en ikke ubetydelig mengde saker som
-behandles i statsråd.
-Da forvaltningsloven innførte en generell klagerett, var man oppmerksom på ønskeligheten av
-å redusere arbeidsbyrden i statsråd. Ordningen
-med klage til Kongen over departementsvedtak
-ble innført, men siden dette i liten grad var belyst
-under høringsrunden, bemerket Justisdepartementet at man måtte ha spørsmålet om begrensning av denne klageretten til observasjon. Løsningen ble ellers å gjøre unntak fra klageretten til
+Utleveringsloven § 12 første ledd bokstav b omhandler forbudet mot videre utlevering og har nær sammenheng med spesialitetsprinsippet. Norske myndigheter skal stille vilkår om at vedkommende ikke må utleveres videre for noen straffbar handling begått før utleveringen fra Norge fant sted. I praksis stilles ikke vilkåret hvis den anmodende stat gjennom folkerettslig avtale allerede er forpliktet til å overholde forbudet overfor Norge. Men hvis vilkåret er nødvendig, følger det forutsetningsvis av lovens system at den anmodende stat må akseptere vilkåret før utlevering kan skje.
 
-[Side 187]
+Det gjelder tilsvarende unntak for videre utlevering som for spesialitetsprinsippet, se foran. I vurderingen av om departementet kan gi samtykke til videre utlevering etter § 12 første ledd bokstav b, jf. § 12 første ledd bokstav a nr. 1, jf. § 21, er det imidlertid enkelte forskjeller. Forholdet kan ikke bedømmes som aksessorisk utlevering, jf. § 3 tredje ledd, se punkt 8.2 og 8.3.
 
-NOU 2022: 15
-Utleverings- og arrestordreloven
+Den ettersøkte har ikke mulighet til å gi avkall på vernet forbudet mot videre utlevering gir ved utlevering til en Schengen-stat etter utleveringsloven § 17 a. I utleveringsloven 1908 kunne derimot den ettersøkte, etter at utlevering hadde funnet sted, i rettsmøte samtykke til videre utlevering, jf. § 5. Fordi det var vanskelig å kontrollere om samtykke ble avgitt frivillig, ønsket man ikke å videreføre denne adgangen i utleveringsloven 1975, jf. Ot.prp. nr. 30 (1974–75) s. 37.
 
-Kongen ved forskrifter i medhold av forvaltningsloven § 28 fjerde ledd.
-Det kan fastslås at hverken forarbeidene til forvaltningsloven eller til utleveringslovene fra 1908
-og 1975 inneholder noen prinsipiell drøftelse av klageretten til Kongen ved utlevering, som den gang
-fulgte av regjeringsinstruksen. Etter utvalgets syn
-er det grunn til å vurdere dette spørsmålet i lys av
-de særtrekk som kjennetegner behandlingen av
-disse sakene. Som nevnt foran behandles utleveringsssaker først grundig i rettssystemet med kontradiksjon, advokatbistand og ankemulighet. Ofte
-blir sakene prøvet i tre rettsinstanser. Deretter
-behandles saken av Justisdepartementet. Etter
-utvalgets forslag kan departementet i særlige tilfeller vurdere om utlevering vil være i strid med menneskerettighetene, jf. lovutkastet § 5, selv om domstolen har kommet til at bestemmelsen ikke er til
-hinder for utlevering. I nordisk sammenheng har
-vi, både etter gjeldende rett og etter utvalgets forslag, den mest omfattende saksbehandlingen med
-rettslig og administrativ prøving i alle saker.
-Etter utvalgets syn tilsier ikke rettssikkerhetshensyn at det er behov for administrativ prøving
-ved Kongen i statsråd etter at saken er behandlet
-både av domstolene og Justisdepartementet.
-Et viktig hensyn er også at dagens ordning
-medfører at utleveringssakene trekker ut i tid.
-Den alminnelige klagefristen på tre uker, jf. forvaltningsloven § 29, forsinker behandlingen og
-harmonerer ikke med den særlige ankefristen ved
-utlevering på tre dager og med at påtalemyndigheten «snarest mulig» skal sende saken til departementet når rettskraftig kjennelse foreligger, jf.
-utleveringsloven § 17 tredje ledd annet punktum
-og § 18 første ledd.
-Utvalget foreslår på denne bakgrunn at klageadgangen over departementets vedtak i utleveringssaker fjernes. Det er ellers av interesse at lignende synspunkter lå til grunn da departementets
-vedtaksmyndighet etter utleveringsloven § 25 om
-midlertidig overføring til annen stat ble opphevet,
-jf. Prop. 97 LS (2011–2012) s. 29, gjengitt i punkt
-10.5.2.1.
-En mulig innsigelse mot utvalgets forslag er at
-det er klageadgang i de tre situasjonene der
-departementet treffer vedtak i arrestordresaker.
-Utvalget har tatt dette i betraktning ved utformingen av forslagene, og foreslår at klageadgangen
-bortfaller også i disse tilfellene, se punkt 10.5.5.
-For fullstendighets skyld tilføyes at etter forvaltningsloven § 35 vil Justisdepartementet fortsatt ha mulighet til å omgjøre sitt eget vedtak til
-fordel for den ettersøkte. Utvalgets forslag rokker
-heller ikke ved den ettersøktes adgang til å
+#### Folkerettslige rammer
 
-185
+Spesialitetsprinsippet
 
-Kapittel 10
+*Utleveringskonvensjonen* art. 14 nr. 1 regulerer spesialitetsprinsippet. Den anmodede stat kan samtykke til unntak fra prinsippet på begjæring fra den anmodende stat, jf. art. 14 nr. 1 bokstav a. Ved begjæringen skal det bl.a. vedlegges en offisiell uttalelse fra personen som er utlevert, som i henhold til den forklarende rapporten til konvensjonen s. 10 må være «drawn up by a judicial authority».
 
-anlegge sivilt søksmål med påstand om at departementets vedtak er ugyldig. Et slikt søksmål har
-ikke i seg selv oppsettende virkning for gjennomføring av utleveringsvedtaket, men den ettersøkte
-kan eventuelt begjære midlertidig forføyning
-etter tvisteloven kap. 34 for å få stanset gjennomføringen. Den ettersøkte kan også klage til og
-eventuelt begjære midlertidig forføyning for
-EMD, noe som vil kunne fange opp de helt spesielle tilfellene.
-Oppsummering
-Utleveringssaker undergis i dag en omfattende
-behandling. Det medfører lang saksbehandlingstid, krever betydelige ressurser og medfører langvarig varetektsfengsling av den ettersøkte.
-Utvalget foreslår å videreføre dagens ordning
-med at domstolene avgjør om lovens vilkår for utlevering er oppfylt, og at Justisdepartementet avgjør om utleveringsbegjæringen skal etterkommes. Men departementets vurderingstemaer bør
-begrenses, slik at det ikke skjer en dobbeltbehandling av alle lovens vilkår. Justisdepartementet
-skal vurdere om de valgfrie avslagsgrunnene i lovutkastet §§ 10 og 11 skal gjøres gjeldende, og om
-utlevering av norsk statsborger skal finne sted
-(§ 17). Departementet vil fortsatt stille betingelser
-for utlevering (§ 20) samt vurdere utsatt og midlertidig utlevering (§ 45). Videre gis departementet en uttrykkelig hjemmel til å avgjøre konkurrerende utleveringsbegjæringer, i tillegg til tilfeller
-der det foreligger en eller flere utleveringsbegjæringer og en eller flere arrestordrer mot samme
-person (§ 71). Departementet har også en diskresjonær prøvingsrett, men Norges eventuelle folkerettslige forpliktelser til å utlevere til den anmodende stat vil legge rammene for departementets
-avgjørelse.
-Utvalget foreslår også å oppheve adgangen til å
-klage over Justisdepartementets vedtak til Kongen
-i statsråd.
-De foreslåtte endringene vil sikre en raskere
-og mer effektiv saksbehandling og redusere varetektstiden for den ettersøkte, samtidig som hensynene til rettssikkerhet og menneskerettighetene
-ivaretas.
-Særregler for utleveringsbegjæringer fra Schengenstater
-Utleveringsloven § 17 a gjennomfører Schengenkonvensjonen art. 66. Det er en etablert særordning for Schengen-stater som har fungert godt.
-Etter ikrafttredelsen av arrestordreregelverket
+Samtykke skal gis dersom det andre lovbruddet i seg selv kunne begrunnet utlevering etter konvensjonen. Er ikke kravet til alvorlighet oppfylt etter art. 2 nr. 2 (aksessorisk utlevering), er det opp til den anmodede stat å avgjøre om samtykke skal gis, jf. den forklarende rapporten s. 10.
 
-[Side 188]
+Unntak fra spesialitetsprinsippet gjelder også når den ettersøkte har forlatt den anmodende stat og senere har returnert, eller hvis vedkommende har hatt anledning til å forlate denne staten i 45 dager etter at straffesaken mot ham eller henne er avsluttet, men ikke har benyttet seg av muligheten, jf. art. 14 nr. 1 bokstav b.
 
-186
+Artikkel 14 nr. 3 regulerer situasjonen der beskrivelsen av forbrytelsen vedkommende var siktet og utlevert for, endres under rettergangen. I så fall skal personen som er utlevert bare strafforfølges eller dømmes i den utstrekning de hovedelementer som utgjør forbrytelsen etter den nye beskrivelse, viser at forbrytelsen kunne medført utlevering. Dette innebærer at tiltalen ikke kan utvides eller endres til å gjelde et annet straffbart forhold. Forholdet kan imidlertid omsubsumeres så lenge endringen ikke innebærer at forholdet rettslig sett blir et annet forhold. Det kan derimot ikke nedsubsumeres til et straffebud hvor strafferammen er lavere enn fengsel i ett år, med mindre utleveringssaken også omfattet andre forhold som oppfyller strafferammekravet, jf. art. 2 nr. 1 og 2.
 
-Kapittel 10
+Etter *Schengenkonvensjonen* art. 66 nr. 2 kan den som begjæres utlevert forutsetningsvis erklære at vedkommende gir avkall på den beskyttelse spesialitetsprinsippet gir når personen samtykker i forenklet utleveringsprosedyre etter art. 66 nr. 1. Etter ordlyden er det ikke mulig å trekke tilbake en erklæring om avkall på spesialitetsprinsippet.
 
-NOU 2022: 15
-Utleverings- og arrestordreloven
+Utleveringsavtalene med *USA* art. 15 og *Australia* art. 10 har bestemmelser om spesialitetsprinsippet som tilsvarer utleveringskonvensjonen. Avtalen med *Canada* art. VII har en lignende bestemmelse, men unntakshjemlene er noe mer begrenset.
 
-gjelder § 17 a bare overfor Sveits og Liechtenstein. Utvalget foreslår å videreføre denne særregelen, se lovutkastet § 43 a og punkt 10.6.1.4. Det
-innebærer at statsadvokaten som hovedregel fortsatt skal avgjøre utleveringsbegjæringer fra Sveits
-eller Liechtenstein hvis den ettersøkte samtykker
-til utlevering. Hvis statsadvokaten finner at begjæringen må avslås eller er i tvil om begjæringen
-skal etterkommes, skal imidlertid saken sendes
-via Riksadvokaten til departementet for avgjørelse. Det samme gjelder etter utleveringsloven §
-17 a dersom det foreligger konkurrerende begjæringer om utlevering. Utvalget foreslår en ny fellesbestemmelse om konkurrerende anmodninger i lovutkastet § 71. Denne fastsetter bl.a. at
-departementet har avgjørelseskompetansen dersom det foreligger flere utleveringsbegjæringer
-mot samme person, jf. første ledd. Videre bestemmer den at dersom det foreligger en eller flere
-utleveringsbegjæringer og en eller flere arrestordrer som gjelder samme person, avgjør departementet hvilken som skal etterkommes, jf. annet
-ledd. For å skape samsvar mellom bestemmelsene foreslår utvalget at det skal fremgå av § 43 a
-at saken skal sendes til departementet i tilfeller
-der det foreligger konkurrerende anmodninger
-som nevnt i § 71 første eller annet ledd. Saken
-undergis da samme behandling som utleveringssaker utenfor Schengen-samarbeidet, dvs. rettslig
-prøving og etterfølgende avgjørelse av departementet i tråd med reglene i lovutkastet kap. 6.
-Bestemmelsen foreslås plassert som § 43 a i
-lovutkastet. Bakgrunnen er at regelen vil bli opphevet ved gjennomføring av EUs utleveringskonvensjon 1995 om forenklet utleveringsprosedyre
-(som ennå ikke er trådt i kraft), se punkt 4.6.3.
+Utleveringskonvensjonens *tredje tilleggsprotokoll* art. 5 regulerer avkall på spesialitetsprinsippet. Statene som er part i protokollen, kan erklære at utleveringskonvensjonen art. 14 (spesialitetsprinsippet) ikke skal gjelde ved utlevering fra den aktuelle staten, såfremt den ettersøkte har gitt samtykke til utlevering etter art. 4 (bokstav a) eller samtykket i utlevering og gitt avkall på vernet spesialitetsprinsippet gir etter art. 4 (bokstav b).
 
-10.5.3 Overlevering til stater i EU utenfor
-Norden
-10.5.3.1 Gjeldende rett
+*Fjerde tilleggsprotokoll* art. 3 erstatter utleveringskonvensjonen art. 14. Spesialitetsprinsippet opprettholdes i det vesentlige, men med enkelte modifikasjoner. Artikkel 3 nr. 3 gjør det mulig for partene å avgi erklæring om at det kan iverksettes frihetsbegrensende tiltak overfor den som er utlevert når det fremmes anmodning om unntak fra spesialitetsprinsippet. Videre er kravet til unntak fra spesialitetsprinsippet ved frivillig opphold i staten utlevering skjedde til, endret fra 45 dager til 30 dager, jf. art. 3 nr. 1 bokstav b.
+
+*EUs utleveringskonvensjon 1995* har lignende regler som tredje tilleggsprotokoll, jf. art. 7, jf. art. 9.
+
+Norge er ikke tilsluttet tredje eller fjerde tilleggsprotokoll til utleveringskonvensjonen, og EUs utleveringskonvensjon 1995 er ikke i kraft for Norges vedkommende.
+
+I Ruud mfl. s. 65 og Mathisen s. 162 er det lagt til grunn at spesialitetsprinsippet antagelig må anses å være *folkerettslig sedvanerett*. Det innebærer i så fall at alle stater er forpliktet til å overholde prinsippet.
+
+Videre utlevering
+
+*Utleveringskonvensjonen* art. 15 bestemmer at videre utlevering til en tredje stat ikke må skje, med mindre den anmodede stat samtykker eller det foreligger unntak som nevnt i art. 14 nr. 1 bokstav b, se foran om unntakene.
+
+Utleveringsavtalene med *USA* art. 15 og *Australia* art. 10 har bestemmelser om forbud mot videre utlevering som tilsvarer utleveringskonvensjonen. I avtalen med *Canada* er det derimot ingen tilsvarende regel.
+
+*Fjerde tilleggsprotokoll* art. 4 utfyller utleveringskonvensjonen art. 15 og fastsetter bl.a. frist for når avgjørelse om samtykke til videre utlevering skal foreligge. Norge har som nevnt ikke ratifisert protokollen.
+
+*EUs utleveringskonvensjon 1996* avskaffer i prinsippet forbudet mot videre utlevering til en annen konvensjonsstat, jf. art. 12 nr. 1. Konvensjonen er ikke bindende for Norge.
+
+Mathisen s. 162 legger til grunn at forbudet mot videre utlevering er *folkerettslig sedvanerett.*
+
+#### Nordisk rett
+
+Spesialitetsprinsippet
+
+Etter den *danske* utleveringsloven 2020 § 29, stk. 1, skal det settes vilkår om spesialitetsprinsippet ved utlevering til fremmed stat, med mindre det foreligger unntak som nevnt i stk. 1, bokstav a til c. Til forskjell fra norsk rett og utleveringskonvensjonen, er det tilstrekkelig at vedkommende i 30 dager har hatt mulighet til å forlate staten vedkommende ble utlevert til, uten å ha benyttet seg av anledningen, for at spesialitetsprinsippet bortfaller. Den ettersøkte kan også gi avkall på vernet spesialitetsprinsippet gir samtidig som vedkommende samtykker til utlevering, jf. § 36. Overfor stater som har inngått en assosiasjonsavtale med EU om gjennomføring, anvendelse og utvikling av Schengen-regelverket, gjelder EUs utleveringskonvensjon 1995 og de Schengen-relevante bestemmelsene i EUs utleveringskonvensjon 1996 (art. 1, 2, 6, 8, 9 og 13), jf. § 43.
+
+Etter *finsk*, *islandsk* og *svensk* rett skal spesialitetsprinsippet overholdes med mindre det foreligger unntak tilsvarende utleveringskonvensjonen art. 14 nr. 1 bokstav a og b. I Sverige og på Island kan den ettersøkte også gi avkall på vernet spesialitetsprinsippet gir samtidig som vedkommende samtykker til utlevering.
+
+Videre utlevering
+
+I de nordiske statene er forbudet mot videre utlevering regulert på samme måte og med tilsvarende unntak som for spesialitetsprinsippet, se derfor foran.
+
+#### Utvalgets vurderinger
+
+Spesialitetsprinsippet
+
+Utvalget går i det vesentlige inn for å videreføre norske myndigheters plikt til å stille betingelse knyttet til spesialitetsprinsippet ved utlevering, men det foreslås enkelte redaksjonelle endringer, se lovutkastet § 20 første ledd bokstav a. Også unntakshjemlene bør opprettholdes, i samsvar med utleveringskonvensjonen art. 14 nr. 1 og Schengenkonvensjonen art. 66 nr. 2. Utvalget foreslår også å videreføre dagens saksbehandlingsregler og krav til innholdet av en anmodning om samtykke til unntak fra prinsippet, men med én presisering; anmodningen skal så vidt mulig være ledsaget av en forklaring fra den ettersøkte, jf. lovutkastet § 47.
+
+Selv om den anmodende stat i utgangspunktet er forpliktet til å respektere og overholde de begrensninger som ligger i spesialitetsprinsippet gjennom folkerettslig sedvanerett eller eventuell folkerettslig avtale, mener utvalget at de beste grunner taler for at norske myndigheter som hovedregel bør stille betingelser knyttet til spesialitetsprinsippet ved utlevering herfra. Prinsippet er viktig i utleveringsretten, og verner om både den ettersøkte og norske interesser. Videre synliggjøres forholdet til folkeretten ved å innta en direkte henvisning til spesialitetsprinsippet i loven. Den anmodede stat vil også få en påminnelse om at spesialitetsprinsippet må respekteres.
+
+Etter ordlyden i utleveringsloven § 12 *skal* betingelse vedrørende spesialitetsprinsippet stilles før utlevering kan skje. Er den anmodende stat konvensjonsforpliktet til å respektere spesialitetsprinsippet, har det som nevnt imidlertid ikke vært praksis å stille betingelsen. Utvalget ønsker å kodifisere gjeldende rett, slik at betingelse knyttet til spesialitetsprinsippet *kan* stilles. Overfor stater som ikke er forpliktet til å overholde prinsippet gjennom konvensjonsforpliktelse med Norge, skal det klare utgangspunktet være at betingelsen stilles før utlevering finner sted.
+
+Unntakene fra spesialitetsprinsippet foreslås videreført uten realitetsendringer. Det gjøres likevel enkelte redaksjonelle endringer for å bringe ordlyden mer i samsvar med unntakene i saker om arrestordrer fra stater i EU utenfor Norden, se punkt 9.2.2.4.
+
+Samtykkesakene etter utleveringsloven § 21 prøves på samme måte som ordinære utleveringsbegjæringer. Utvalget har vurdert om det er hensiktsmessig å innføre egne saksbehandlingsregler. Hensynet til effektivitet tilsier en forenklet behandling. Som tidligere presisert er imidlertid behandlingen uansett noe enklere fordi norske myndigheter allerede har vurdert forsvarligheten av å utlevere til vedkommende stat, og det alltid er tale om aksessorisk utlevering. Videre er det nødvendig å påse at vilkårene for utlevering er oppfylt og gi vedkommende tilstrekkelige rettssikkerhetsgarantier, som bl.a. ligger i ankeinstituttet. Det er for øvrig et begrenset antall saker hvor andre stater begjærer samtykke til unntak fra spesialitetsprinsippet, og problemstillingen har derfor begrenset praktisk betydning. Det er heller ikke ønskelig med ulikartede saksbehandlingsregler. Til sist vises det til at det uansett foreslås innført forenklede saksbehandlingsregler ved behandling av ordinære utleveringsbegjæringer, som også vil gjelde i samtykkesakene. Utvalget går derfor inn for å videreføre gjeldende rett, dvs. at de alminnelige reglene om prøving av utleveringsbegjæringer skal komme til anvendelse.
+
+I de tilfeller der den anmodende stat ber om samtykke til å strafforfølge eller fullbyrde straff mot vedkommende for andre straffbare forhold begått før utlevering enn utleveringen skjer for, videreføres gjeldende rett med én presisering. Foruten de opplysninger som etter utleveringsloven § 21 tredje ledd skal fremgå av anmodningen, foreslår utvalget at denne så vidt mulig skal være ledsaget av en forklaring fra den ettersøkte, i tråd med utleveringskonvensjonen art. 14 nr. 1 bokstav a. Hvorvidt forklaringen må være avgitt til en judisiell myndighet eller om det er tilstrekkelig at forklaringen er nedtegnet i et politiavhør, beror på en konkret vurdering av saken og tilliten til den anmodende stat.
+
+Om den ettersøktes samtykke til unntak fra spesialitetsprinsippet, se punkt 10.6.1.4.
+
+Videre utlevering
+
+Utvalget foreslår å videreføre gjeldende rett om videre utlevering med enkelte redaksjonelle endringer, jf. lovutkastet § 20 første ledd bokstav b og § 47. Ettersom utvalget har foretatt like vurderinger knyttet til forbudet mot videre utlevering og spesialitetsprinsippet, vises det i hovedsak til vurderingene gjort foran.
+
+Ved samtykke til videre utlevering prøver norske myndigheter saken på tilsvarende måte som ved en ordinær utleveringssak, jf. utleveringsloven § 21. Hensynet til effektiv saksbehandling tilsier imidlertid at prøvingen bør begrenses. Det vises primært til at den anmodende stat presumtivt skal foreta en fullstendig prøving av utleveringsbegjæringen fra staten som ønsker vedkommende videre utlevert. Det kan derfor synes overflødig at norske myndigheter skal gjennomføre en tilsvarende prøving. Videre kan det ta lang tid å avgjøre om samtykke kan og skal gis hvis den ettersøkte benytter seg av alle ankemulighetene nasjonal lovgivning åpner for. Dette kan være til hinder for et effektivt rettslig samarbeid.
+
+På den annen side kommer problemstillingen på spissen bare i et begrenset antall saker. Det er heller ikke ønskelig å ha en rekke ulike saksbehandlingsregler. Dette vil føre til et uoversiktlig regelverk og komplisere anvendelsen av loven. Av og til kan både den anmodende staten og staten som ønsker noen videre utlevert ligge fjernt fra Norge, rettslig og politisk. At norske myndigheter foretar en fullstendig prøving av om samtykke kan og skal gis, ivaretar den ettersøktes rettssikkerhet. Utvalget foreslår i alle tilfeller å forenkle saksbehandlingen ved ordinære utleveringssaker, noe som vil få tilsvarende anvendelse i samtykkesakene. Utvalget går derfor inn for å videreføre gjeldende rett.
+
+Utvalget har videre vurdert om det skal stilles krav om at det ved anmodning om samtykke til videre utlevering så vidt mulig skal vedlegges en forklaring fra den ettersøkte, se ovenfor om spesialitetsprinsippet. Dette kunne bidratt til å opplyse saken og ivareta den ettersøktes rettssikkerhet. På den annen side regulerer utleveringskonvensjonen art. 15 hvilke dokumenter norske myndigheter kan kreve fremlagt, og vedkommendes forklaring er ikke nevnt. Videre har ikke nødvendigvis den anmodede stat den ettersøktes forklaring for hånden. I tillegg kommer det at den anmodede stat skal foreta en fullstendig prøving av utleveringsbegjæringen fra staten som ønsker vedkommende videre utlevert, hvor vedkommende trolig gis anledning til å uttale seg om forholdet som ligger til grunn for utleveringsbegjæring. Det synes derfor uforholdsmessig tungvint om norske myndigheter generelt skal kreve fremlagt forklaringen fra den ettersøkte i disse sakene. Retten kan etter utvalgets forslag i alle tilfeller be om at en slik forklaring fremskaffes etter lovutkastet § 42 annet ledd annet punktum hvis saken ligger slik an. Utvalget foreslår derfor ikke å stille krav om at ettersøktes forklaring skal vedlegges anmodningen.
+
+### Overlevering til stater i EU utenfor Norden
+
+#### Gjeldende rett
+
+Spesialitetsprinsippet
+
+Ved overlevering til stater i EU utenfor Norden kommer spesialitetsprinsippet til uttrykk i arrestordreloven § 16 første ledd bokstav a. Bestemmelsen fastsetter at norske myndigheter på anmodning fra den staten som har fått en person overlevert til seg, kan samtykke til at staten kan strafforfølge eller fullbyrde straff mot den overleverte for andre forhold begått forut for overleveringen enn de vedkommende ble overlevert for.
+
+Paragraf 16 annet ledd bestemmer hvordan anmodning om samtykke skal utformes og fremsendes til norske myndigheter og gir regler om den norske saksbehandlingen.
+
+Staten som har fått den ettersøkte overlevert, må fremsette anmodningen på samme måte som en ordinær arrestordre, jf. § 16 annet ledd første punktum, jf. §§ 5, 25 og 26. Samtykke skal gis dersom vilkårene for overlevering er oppfylt for den eller de straffbare forholdene som kravet om samtykke gjelder, og på de vilkårene som følger av eller som stilles i medhold av loven, jf. § 16 annet ledd annet punktum.
+
+Av henvisningen i § 16 annet ledd tredje punktum til § 14 følger det at saksbehandlingen i utgangspunktet blir den samme som ved behandling av en arrestordre, med foreleggelse for tingretten og ved at endelig beslutning treffes av påtalemyndigheten eller unntaksvis departementet. Spørsmålet om vilkårene for samtykke er oppfylt, skal forelegges for og prøves av den tingretten som behandlet spørsmålet om overlevering, jf. § 16 annet ledd sjette punktum. Saksbehandlingsreglene er likevel noe forenklet, ved at behandlingen for retten normalt skal være skriftlig, med mindre retten beslutter muntlig forhandling. Det skal for øvrig oppnevnes forsvarer, og reglene om anke og klage gjelder tilsvarende. Avgjørelse fra påtalemyndigheten eller departementet skal foreligge innen 30 dager etter at kravet om samtykke ble mottatt. Fristen er ikke preklusiv, jf. LA-2021-81050.
+
+Departementet avgjør arrestordresakene etter § 9 annet ledd (norsk statsborger), § 10 annet ledd (politisk lovbrudd) og § 29 annet ledd (konkurrerende anmodninger). I disse sakene kan forvaltningslovens klagefrist gjøre det vanskelig å overholde 30-dagersfristen i arrestordreloven § 16 annet ledd.
+
+Arrestordreloven § 16 første ledd bokstav a regulerer bare tilfeller hvor norske myndigheter kan samtykke til unntak fra spesialitetsprinsippet. Parallellavtalen art. 30 nr. 3 regulerer en rekke andre unntak fra spesialitetsprinsippet, hvor det ikke er nødvendig å innhente samtykke fra den iverksettende stat. Ett av unntakene kommer til uttrykk i § 14 annet ledd, hvor det bestemmes at den ettersøkte i retten kan samtykke i overlevering, og samtidig gi samtykke til at spesialitetsprinsippet ikke skal gjelde, se punkt 10.6.2.1.
+
+Ved overlevering *til* Norge er spesialitetsprinsippet regulert i arrestordreloven § 36, se punkt 11.3.
+
+Videre utlevering og videre overlevering
+
+Arrestordreloven § 16 første ledd bokstav b og c regulerer videre overlevering og videre utlevering. Første ledd bokstav b fastsetter at norske myndigheter kan samtykke til at en stat som har fått en person overlevert fra Norge på grunnlag av en nordisk-europeisk arrestordre, kan overlevere vedkommende videre til en annen medlemsstat i EU eller Island for forhold begått før overleveringen fra Norge.
+
+Paragraf 16 annet ledd regulerer fremgangsmåten og vilkårene for å gi et samtykke som nevnt i første ledd bokstav b, og tilsvarer vilkårene og fremgangsmåten ved samtykke til unntak fra spesialitetsprinsippet, se foran.
+
+Staten som har fått den ettersøkte overlevert må ikke alltid innhente samtykke fra norske myndigheter for å overlevere vedkommende videre. Parallellavtalen art. 31 nr. 2 angir flere situasjoner der videre overlevering kan skje uten samtykke fra den iverksettende stat.
+
+Paragraf 16 første ledd bokstav c regulerer tilfeller hvor en stat utenfor EU og Norden begjærer utlevering av en person som tidligere er overlevert fra Norge til en stat i EU utenfor Norden. Samtykke kan bare gis når vedkommende ikke er norsk statsborger. Dette har sammenheng med forbudet mot utlevering av norske statsborgere i utleveringsloven § 2.
+
+Etter § 16 fjerde ledd skal krav om samtykke sendes til Justisdepartementet og behandles etter reglene i utleveringsloven.
+
+#### Folkerettslige rammer
+
+Spesialitetsprinsippet
+
+*Parallellavtalen* art. 30 nr. 2, som er likelydende med *EUs rammebeslutning* art. 27, opprettholder spesialitetsprinsippet som utgangspunkt. Det oppstilles imidlertid en rekke unntak i nr. 3 bokstav a til g. Etter bokstav a gjelder ikke spesialitetsprinsippet dersom den ettersøkte har hatt anledning til å forlate den utstedende stat, men ikke har gjort det innen 45 dager etter løslatelse eller har returnert til den utstedende stat etter å ha forlatt den. Det gjelder også unntak hvis handlingen ikke kan straffes med frihetstap eller frihetsbegrensende tiltak, jf. bokstav b og c. EU-domstolen presiserte i dom 1. desember 2008 i sak C-388/08 PPU *Leymann og Pustovarov* på hvilket tidspunkt samtykke må foreligge etter bokstav c; vedkommende kan rettsforfølges og dømmes for andre lovovertredelser enn overleveringsvedtaket gjelder uten samtykke, såfremt vedkommende ikke frihetsberøves. Samtykke må imidlertid foreligge hvis vedkommende skal varetektsfengsles eller påbegynne eventuell soning (avsnitt 73).
+
+Spesialitetsprinsippet er heller ikke til hinder for at personen «kan bli gjenstand for straff eller tiltak som ikke omfatter frihetsberøvelse, særlig økonomisk straff eller tiltak i stedet for dette, selv om straffen eller tiltaket kan medføre en begrensning i hans eller hennes personlige frihet», jf. bokstav d. Også samtykke fra den overleverte opphever vernet spesialitetsprinsippet gir, jf. bokstav e og f. Til sist kan den iverksettende stat samtykke til at den ettersøkte holdes strafferettslig ansvarlig også for andre straffbare forhold begått før overleveringen fant sted enn overleveringen gjaldt, jf. bokstav g, jf. nr. 4.
+
+Anmodning om samtykke til unntak fra spesialitetsprinsippet skal inngis med de krav til innhold som ellers gjelder for arrestordrer, jf. nr. 4, jf. art. 11 nr. 1, og det skal foreligge en oversettelse som nevnt i art. 11 nr. 2, jf. art. 30 nr. 4. Den iverksettende stat skal samtykke hvis handlingen selv kunne begrunnet overlevering. Anmodningen skal avslås hvis det foreligger en obligatorisk avslagsgrunn som nevnt i art. 4, og den kan avslås hvis det foreligger en valgfri avslagsgrunn etter art. 5, 6 nr. 2 (politisk lovbrudd) eller 7 nr. 2 (nasjonalitetsunntak), jf. art. 30 nr. 4. Etter omstendighetene kan den iverksettende stat samtykke på visse betingelser, og i så tilfelle skal den utstedende stat gi relevante garantier. Det oppstilles en 30-dagersfrist for å avgjøre anmodning om samtykke i den iverksettende stat, jf. art. 30 nr. 4.
+
+Parallellavtalen art. 30 nr. 1 åpner videre for at hver avtalepart kan avgi erklæring om at staten anser samtykke til unntak fra spesialitetsprinsippet for å være gitt, med mindre den iverksettende stat i overleveringsvedtaket tilkjennegir noe annet. En slik erklæring skal bygge på gjensidighet. Norge har ikke gitt slik erklæring, og spesialitetsprinsippet gjelder derfor så langt parallellavtalen ikke gjør unntak.
+
+Videre utlevering og videre overlevering
+
+*Parallellavtalen* art. 31 tilsvarer *EUs rammebeslutning* art. 28 og regulerer adgangen til videre overlevering og videre utlevering. Det følger forutsetningsvis av art. 31 nr. 2 at videre overlevering ikke kan skje med mindre det foreligger et unntak hjemlet i bestemmelsen. Unntakene gjelder stort sett tilsvarende som ved spesialitetsprinsippet, se foran.
+
+Det forekommer at samme person blir overlevert flere ganger mellom flere stater. I EU-domstolens dom 28. juni 2012 i sak C-192/12 PPU *West* slås det fast at det bare er nødvendig å innhente samtykke fra den staten som sist overleverte vedkommende. Tilsvarende må gjelde etter parallellavtalen.
+
+Videre utlevering til en tredjestat kan ikke skje uten samtykke fra kompetent myndighet i den iverksettende stat, jf. art. 31 nr. 4. Prinsippene som utledes fra EU-domstolens avgjørelser i *Petruhhin* (2016) og *Raugevicius* (2018) gjelder tilsvarende, forutsatt at vilkårene for å anvende dem gjør seg gjeldende, se punkt 4.8.2.
+
+#### Nordisk rett
+
+Spesialitetsprinsippet
+
+Den *danske* utleveringsloven 2020 § 17 gjennomfører EUs rammebeslutning art. 27. Overlevering til stater i EU utenfor Norden skjer på vilkår av at spesialitetsprinsippet etterleves, med mindre det foreligger et lovhjemlet unntak.
+
+I *finsk*, *islandsk* og *svensk* rett kommer ikke spesialitetsprinsippet like klart til uttrykk som i dansk rett. Kompetent myndighet kan samtykke til at den ettersøkte holdes strafferettslig ansvarlig for andre forhold enn overleveringen gjaldt, og ettersøkte kan også selv gi avkall på vernet spesialitetsprinsippet gir gjennom samtykke.
+
+Videre overlevering og utlevering
+
+I *dansk* rett er forbudet mot videre overlevering og spesialitetsprinsippet regulert samlet, se punkt 9.2.1.4.
+
+Etter *finsk*, *islandsk* og *svensk* rett er utgangspunktet at en person som er overlevert til en medlemstat i EU utenfor Norden, ikke kan videre overleveres til en tredje medlemsstat for handlinger begått før overleveringen fant sted. Dette gjelder likevel ikke om staten eller personen samtykker til videre overlevering.
+
+#### Utvalgets vurderinger
+
+Spesialitetsprinsippet
+
+Utvalget foreslår å videreføre arrestordreloven § 16 første ledd bokstav a og annet ledd, jf. parallellavtalen art. 30. Se lovutkastet § 29. Samtidig går utvalget inn for å synliggjøre at spesialitetsprinsippet som utgangspunkt gjelder ved overlevering til stater i EU utenfor Norden, men med de unntakene som følger av parallellavtalen art. 30 nr. 3. Loven vil derfor ikke bare omhandle tilfellene hvor norske myndigheter skal gi samtykke.
+
+Utvalget har vurdert hensiktsmessigheten av å lovregulere spesialitetsprinsippet. Dette kan synes overflødig. Både Norge og øvrige avtaleparter er forpliktet til å etterleve sine internasjonale forpliktelser, se tilsvarende i Prop. 137 LS (2010–2011) s. 28. At prinsippet tilkjennegis i loven vil derfor ikke ha innvirkning på om og når den utstedende stat kan gå utenfor overleveringens spesialitet.
+
+På den annen side er kontrollen med om vilkårene for overlevering er til stede for hvert enkelt forhold, med på å sikre at vernet som ligger bak disse ikke blir uthulet. Utvalget mener at et så viktig prinsipp eksplisitt bør komme til uttrykk i loven. Dette vil både synliggjøre forholdet til parallellavtalen, sikre rettslikhet i utleverings- og arrestordresakene og gjøre regelverket tilgjengelig og informativt for praktikerne.
+
+Det synes ikke hensiktsmessig å stille betingelse knyttet til spesialitetsprinsippet i arrestordresakene. Dette vil undergrave arrestordresystemet, som er tuftet på gjensidig tillit. Parallellavtalen åpner heller ikke for å stille betingelse om spesialitetsprinsippet. Utvalget foreslår derfor en bestemmelse som gir uttrykk for at spesialitetsprinsippet gjelder med mindre unntakene som følger av parallellavtalen art. 30 nr. 3 får anvendelse.
+
+Ved anmodning om samtykke til unntak fra spesialitetsprinsippet foreslår utvalget å videreføre gjeldende rett, herunder fremgangsmåte og vilkår for samtykke, i samsvar med parallellavtalen art. 30 nr. 4.
+
+Videre utlevering og videre overlevering
+
+Utvalget går inn for å videreføre meningsinnholdet i arrestordreloven § 16 første ledd bokstav b og c, annet og tredje ledd om norsk samtykke til videre overlevering og videre utlevering. Se lovutkastet § 30. Samtidig foreslår utvalget å synliggjøre utgangspunktet om at videre utlevering og videre overlevering ikke kan skje med mindre det foreligger et unntak som nevnt i parallellavtalen art. 31 nr. 2. Se lovutkastet § 30. Reguleringen og begrunnelsen er i det vesentlige den samme som for spesialitetsprinsippet, se foran.
+
+### Overlevering til stater i Norden
+
+#### Gjeldende rett
+
+Spesialitetsprinsippet
+
+Unntaksvis kan norske myndigheter motta anmodning om samtykke til unntak fra spesialitetsprinsippet fra en annen nordisk stat. Denne situasjonen reguleres av arrestordreloven § 23. Samtykke skal gis med mindre det foreligger en obligatorisk avslagsgrunn etter § 18, jf. § 8. Dersom det straffbare forholdet er begått helt eller delvis på norsk territorium og ikke er straffbart etter norsk rett, kan påtalemyndigheten nekte å gi samtykke etter eget skjønn, jf. § 23 første ledd annet punktum, jf. § 19 første ledd bokstav b.
+
+En samtykkeanmodning skal utformes som en ordinær arrestordre og fremsendes på tilsvarende måte, jf. § 23 annet ledd første punktum. Saksbehandlingsreglene i § 21 skal anvendes så langt de passer, jf. § 23 annet ledd annet punktum, men likevel slik at spørsmålet om samtykke skal behandles skriftlig med mindre retten beslutter muntlig behandling.
+
+Samtykkeanmodningen skal forelegges for den tingretten som avgjorde overleveringsspørsmålet, og det skal oppnevnes forsvarer for den overleverte, jf. § 23 annet ledd fjerde og femte punktum.
+
+Når det foreligger rettskraftig kjennelse oversendes saken til påtalemyndigheten for endelig avgjørelse. Påtalemyndigheten må legge til grunn rettens vurdering av de obligatoriske avslagsgrunnene, og ellers vurdere om det foreligger forhold som nevnt i § 19 første ledd bokstav b.
+
+Videre overlevering og videre utlevering
+
+Arrestordreloven § 24 omhandler videre overlevering og videre utlevering til en stat *utenfor* Norden av en person som er overlevert fra Norge til en annen nordisk stat.
+
+Etter § 24 første ledd skal samtykke til videre overlevering til en stat i EU utenfor Norden gis dersom norske myndigheter hadde etterkommet arrestordren etter reglene som gjelder for nordisk-europeiske arrestordrer. Paragraf 24 tilsvarer § 16 første ledd bokstav b og c, annet og tredje ledd, se punkt 9.2.2.1.
+
+Saksbehandlingsreglene i § 23 annet ledd gjelder også ved behandling av anmodning om samtykke til videre overlevering, jf. § 24 annet ledd siste punktum, se foran.
+
+Gjelder anmodningen samtykke om videre utlevering til en stat utenfor EU og Norden for forhold begått før overleveringen fant sted, følger det av § 24 annet ledd at saken behandles etter utleveringslovens regler.
+
+#### Folkerettslige rammer
+
+Spesialitetsprinsippet
+
+I konvensjon om nordisk arrestordre art. 23 er spesialitetsprinsippet i utgangspunktet ikke til hinder for utvidet strafforfølgning og straffullbyrding. Spesialitetsprinsippet er følgelig betydelig modifisert. Det finnes likevel enkelte snevre unntak fra dette utgangspunktet, jf. art. 23. nr. 1 bokstav a til c.
+
+Spesialitetsprinsippet er til hinder for utvidet strafforfølgning eller straffullbyrding dersom overlevering for det nye forholdet ikke kunne funnet sted fordi det foreligger en obligatorisk avslagsgrunn etter art. 4, fordi overleveringen ville blitt avslått etter nasjonal rett etter art. 27 (særregler om politiske lovbrudd ved overlevering til og fra Island), eller hvis overlevering kunne vært avslått etter art. 5 nr. 2 eller nr. 4 (valgfrie avslagsgrunner) og iverksettende stat nekter å samtykke.
+
+Artikkel 23 nr. 2 bestemmer at den overleverte i alle tilfeller kan holdes strafferettslig ansvarlig for andre lovovertredelser begått for overlevering fant sted dersom vedkommende har hatt mulighet til å forlate staten overlevering skjedde til i 45 dager etter at han eller hun ble endelig løslatt eller har forlatt staten og senere vendt tilbake (bokstav a). Tilsvarende gjelder om vedkommende samtykker til unntak fra spesialitetsprinsippet (bokstav b).
+
+Videre overlevering og videre utlevering
+
+Etter konvensjon om nordisk arrestordre kan videre overlevering skje fritt innad i Norden, jf. art. 24 nr. 1. Det gjelder visse særregler ved overlevering til og fra Island, men hverken Norge eller Island har gjort disse gjeldende.
+
+Ved videre overlevering til stater i EU utenfor Norden eller videre utlevering til øvrige stater, er hovedregelen imidlertid at dette ikke kan skje, jf. art. 24 nr. 2. Unntak gjelder hvis vedkommende samtykker etter at overleveringen har funnet sted (bokstav a), vedkommende uhindret og i 45 dager har kunnet forlate landet overlevering skjedde til, men ikke har gjort dette, eller vedkommende har vendt tilbake etter å ha forlatt landet frivillig (bokstav b), eller iverksettende stat samtykker (bokstav c).
+
+#### Nordisk rett
+
+Spesialitetsprinsippet
+
+Den *danske* utleveringsloven 2020 § 10 er utformet etter mønster av konvensjon om nordisk arrestordre art. 23. Spesialitetsprinsippet er i praksis avskaffet, men det gjelder visse unntak.
+
+I den *svenske* loven om nordisk arrestordre 2011 5 kap. 7 § fastsettes det at ved anmodning om rettsforfølgning for andre straffbare forhold begått før overleveringen fant sted, skal påtalemyndigheten prøve om overleveringen kunne funnet sted etter nærmere bestemte obligatoriske avslagsgrunner.
+
+*Finsk* lov om nordisk arrestordre 2007 47 § tilkjennegir hovedregelen om at spesialitetsprinsippet i praksis er avskaffet, men samtidig slik at samtykke må innhentes og vurderes gitt i enkelte tilfeller, jf. 48 §.
+
+Den *islandske* arrestordreloven 2016 § 23 første ledd tilsvarer den norske arrestordreloven § 23 første ledd.
+
+Videre overlevering og videre utlevering
+
+I den *danske* utleveringsloven 2020 reguleres videre overlevering og videre utlevering av §§ 11 og 12. Overfor Island er det en særregulering i § 11, som har sin bakgrunn i konvensjon om nordisk arrestordre art. 24 nr. 1, jf. art. 26 og 27.
+
+Paragraf 12 regulerer videre overlevering til stater i EU og videre utlevering til stater utenfor EU og Norden. Utgangspunktet er at overlevering og utlevering skjer på vilkår av at videre overlevering eller utlevering ikke kan skje, med visse lovbestemte unntak, jf. § 12 nr. 1 til 3.
+
+*Svensk* lov om nordisk arrestordre 2011 bestemmer i 5 kap. 8 § 1 stk. at videre overlevering innad i Norden fritt kan skje. En anmodning fra en nordisk stat om videre overlevering til en medlemstat i EU behandles av tingretten etter reglene i loven om europeisk arrestordre 2003 6 kap. 8 §. En anmodning om videre utlevering til øvrige tredjestater behandles etter reglene i utleveringsloven 1957 24 §.
+
+Den *islandske* arrestordreloven 2016 § 24 første ledd tilsvarer den norske arrestordreloven § 24.
+
+*Finland* har ingen tilsvarende bestemmelse i sin lov om nordisk arrestordre 2007.
+
+#### Utvalgets vurderinger
+
+Spesialitetsprinsippet
+
+Utvalget går inn for å videreføre arrestordreloven § 23, som regulerer norsk samtykke til utvidet strafforfølgning eller straffullbyrding mot den ettersøkte ved overlevering til nordiske stater. Se lovutkastet § 35. Samtidig ønsker utvalget å synliggjøre utgangspunktet etter folkeretten og tilkjennegi at spesialitetsprinsippet i betydelig grad er modifisert innad i Norden. Dette vil bidra til et helhetlig og tilgjengelig regelverk. Forskjellen mellom utleveringssaker og overlevering til stater i EU utenfor Norden på den ene siden og overlevering innad i Norden på den annen side, blir også synliggjort. Utvalget foreslår på denne bakgrunn en bestemmelse som i det vesentlige svarer til konvensjon om nordisk arrestordre art. 23.
+
+Utvalget bemerker samtidig at den ettersøkte *ikke* kan gi avkall på spesialitetsprinsippet *før* overlevering fra Norge til en annen nordisk stat, se motsetningsvis konvensjon om nordisk arrestordre art. 23 nr. 2 bokstav b. For en nærmere begrunnelse for dette, se punkt 10.6.3.4.
+
+I tilfeller der norske myndigheter mottar anmodning om samtykke til unntak fra spesialitetsprinsippet, foreslår utvalget å videreføre arrestordreloven § 23 om krav til fremgangsmåte og vilkår.
+
+Videre overlevering og videre utlevering
+
+Utvalget foreslår å videreføre arrestordreloven § 24 om norsk samtykke til videre overlevering og videre utlevering. Se lovutkastet § 36. Utvalget ønsker samtidig å bringe bestemmelsen mer i samsvar med konvensjon om nordisk arrestordre art. 24, slik at det fremkommer uttrykkelig av loven at forbudet mot videre overlevering og videre utlevering gjelder overfor henholdsvis stater i EU utenfor Norden og stater utenfor EU og Norden, med mindre det foreligger et unntak som fremgår av konvensjon om nordisk arrestordre art. 24. Begrunnelsen for forslaget bygger på samme vurderinger og hensyn som for spesialitetsprinsippet, se foran.
+
+## Betingelser som stilles for utlevering
+
+### Gjeldende rett
+
 Innledning
-I motsetning til i utleveringssaker er det i liten
-grad opp til myndighetenes skjønn å avgjøre om
-en arrestordre skal etterkommes: Overlevering
-skal skje med mindre det foreligger en obligatorisk avslagsgrunn eller en valgfri avslagsgrunn
-som myndighetene ønsker å benytte.
-For nordisk-europeiske arrestordrer er arrestordrelovens system at domstolen avgjør om
-lovens vilkår for overlevering er oppfylt. Deretter
-avgjør påtalemyndigheten, i noen få tilfeller Justisdepartementet, om arrestordren skal etterkommes. Et samtykke til overlevering fra den etter-
 
-søkte påvirker ikke kompetansefordelingen mellom domstolene og påtalemyndigheten, men har
-betydning for hvilket nivå hos påtalemyndigheten
-som avgjør saken.
-Nærmere om gjeldende rett
-Arrestordreloven kap. 3 og 6 gir regler om
-behandlingen av nordisk-europeiske arrestordrer.
-Paragraf 14 har overskriften «Avgjerd av nordiskeuropeisk arrestordre». For å få en samlet oversikt over hvilken norsk myndighet som i hvilke tilfeller avgjør om en arrestordre skal etterkommes,
-må § 14 suppleres med §§ 9 (norsk statsborger),
-10 (politisk lovbrudd), 29 (konkurrerende anmodninger) og 31 (utsatt og midlertidig overlevering)
-samt arrestordreforskriften § 4.
-Påtalemyndigheten skal straks etter mottak
-sende arrestordren til tingretten, som avgjør om
-«vilkåra for overlevering er oppfylte», jf. arrestordreloven § 14 første ledd. Bestemmelsen angir
-ikke nærmere hvilke bestemmelser tingretten
-skal vurdere. Om domstolens rolle og innholdet i
-domstolsprøvingen uttales det i Prop. 137 LS
-(2010–2011) s. 37:
-«Forslaget om at retten alltid skal prøve om vilkåra for overlevering på grunnlag av ein nordisk-europeisk arrestordre er oppfylte og om
-det ligg føre obligatoriske avslagsgrunnar,
-inneber domstolsprøving i tilfelle der prøvingskompetansen i dag er lagd til påtalemakta, jf.
-utleveringsloven § 17 a om utlevering innanfor
-Schengen. Dette kan verke noko inkonsekvent
-når formålet med avtalen er å forenkle og effektivisere utleveringsordninga. Fordi arrestordren inneber ei meir omfattande overleveringsplikt der blant anna prøvinga av om det ligg
-føre obligatoriske avslagsgrunnar oftare vil
-vere avgjerande for om overlevering skjer,
-synest det likevel fornuftig å leggje opp til ei
-noko meir omfattande domstolsprøving.
-Departementet har også sett hen til at domstolsprøving er eit sentralt element både i Finland
-og i Sverige.»
-Domstolen skal vurdere om kravet til alvorlighet
-og dobbel straffbarhet er oppfylt (§§ 6 og 7), om
-det foreligger en obligatorisk avslagsgrunn, herunder om overlevering vil være i strid med EMK
-(§ 8 annet ledd), og om arrestordren gjelder et
-politisk lovbrudd (§ 9). I tillegg skal domstolen
-vurdere om arrestordren er grunnet på en fraværsdom eller et forhold som kan medføre livstidsstraff i den utstedende stat og i så fall om det
+Utleveringsloven § 12 fastslår at utlevering bare kan skje på de vilkår som er angitt i bestemmelsen, og at det «\[t\]il utlevering kan knyttes ytterligere vilkår som det finnes grunn til». Som det fremgår av punkt 6.6.5, anbefaler utvalget at slike vilkår kalles «betingelser». I lovutkastet brukes «betingelser» for å skille disse særskilt fastsatte forutsetningene fra de alminnelige vilkårene og avslagsgrunnene.
 
-[Side 189]
+Det er ikke gitt noen tilsvarende generell bestemmelse om betingelser for *overlevering*. De folkerettslige avtalene begrenser hvilke betingelser som kan stilles. Men de krever eller tillater at det stilles nærmere angitte betingelser eller innhentes forsikringer også for overlevering. Om dette vises det til punkt 8.9 om norsk statsborger, 9.2 om spesialitetsprinsippet, videre utlevering og videre overlevering, og 8.7 og 8.8 når det gjelder henholdsvis fraværsdom og livstidsstraff.
 
-NOU 2022: 15
-Utleverings- og arrestordreloven
+Utleveringsloven § 12
 
-foreligger tilfredsstillende garantier (§ 11). Dersom det anføres at arrestordren lider av vesentlige mangler, jf. § 5, vil domstolen i praksis også
-vurdere dette.
-Den ettersøkte skal i rettsmøte spørres om
-vedkommende samtykker til overlevering, jf. § 14
-annet ledd, se nærmere punkt 10.6.2.
-Etter § 14 tredje ledd skal retten legge opplysningene i arrestordren til grunn for sin avgjørelse
-med mindre de åpenbart er uriktige. Kjennelsen
-kan ankes etter reglene i straffeprosessloven kap.
-26. Ankefristen er imidlertid bare tre dager og
-anke har oppsettende virkning.
-Det følger av arrestordreloven § 14 tredje ledd
-siste punktum at rettskraftig kjennelse skal sendes til påtalemyndigheten, som innen tre arbeidsdager «avgjer» om arrestordren skal etterkommes. Har retten kommet til at vilkårene ikke er
-oppfylt, må påtalemyndigheten avslå arrestordren uten nærmere vurdering. Har retten kommet til at vilkårene er oppfylt, skal påtalemyndigheten vurdere om de valgfrie avslagsgrunnene i
-§ 12 skal benyttes, jf. rundskriv G-02/2020 s. 16.
-Det omfatter pågående norsk strafforfølgning mot
-den ettersøkte for samme forhold som arrestordren gjelder, at forholdet er rettskraftig pådømt i
-en stat utenfor EU eller Schengen, eller at saken
-gjelder overlevering til straffullbyrding av norsk
-statsborger eller person bosatt her og Norge forplikter seg til å fullbyrde dommen.
-Begrunnelsen for at påtalemyndigheten skal
-gjøre denne vurderingen, er ifølge forarbeidene at
-den er «best eigna», jf. Prop. 137 LS (2010–2011)
-s. 36. I rundskrivet s. 16 heter det at skjønnet som
-ligger i vurderingen, er en utpreget påtalevurdering. Avgjørelsen er derfor lagt til påtalemyndigheten, som også må vurdere om det skal oppstilles vilkår for overlevering til strafforfølgning av en
-norsk borger eller person bosatt i Norge (§ 15) og
-om det skal fattes vedtak om utsatt eller midlertidig overlevering (§ 31). Det kan også være aktuelt
-å vurdere om overleveringen skal utsettes fordi
-det foreligger tungtveiende humanitære grunner
-(§ 30). Påtalemyndigheten skal ikke overprøve
-rettens vurdering av om vilkårene for overlevering er oppfylt, jf. rundskrivet s. 16.
-Påtalemyndighetens vedtak kan påklages, jf.
-arrestordreloven § 14 sjette ledd. Straffeprosessloven § 59 a er gitt anvendelse, men klagefristen er likevel tre dager og klage har oppsettende
-virkning. Klageinstans er nærmeste overordnede
-påtalemyndighet, som straks og så vidt mulig
-innen tre arbeidsdager skal treffe vedtak.
-Arrestordreloven § 14 sjette ledd annet punktum fastslår at man ikke kan klage på spørsmålet
+Det følger av utleveringsloven § 12 første ledd at utlevering bare kan skje på de vilkår som fremgår av bokstavene a til d. Annet ledd bestemmer at det «\[t\]il utlevering kan knyttes ytterligere vilkår som det finnes grunn til».
 
-187
+Departementet stiller disse vilkårene i forbindelse med avgjørelsen av om utleveringsbegjæringen skal etterkommes, jf. § 18 første ledd. Retten kan imidlertid ha forutsatt at ett eller flere vilkår er nødvendige for at lovens vilkår for utlevering er oppfylt, jf. § 17 første ledd. Disse inntas i så fall i departementets vedtak.
 
-Kapittel 10
+Lovens system forutsetter at den anmodende stat må akseptere vilkåret, og at utleveringsbegjæringen bare kan etterkommes dersom det er grunn til å tro at vilkåret vil bli overholdt. Som et alternativ til å stille vilkår, kan det innhentes *garantier* fra anmodende stat. Det kan da vises til garantiene i utleveringsvedtaket.
 
-om vilkårene for overlevering er oppfylt. I de spesielle motivene til § 14, jf. Prop. 137 LS (2010–
-2011) s. 56, uttales det:
-«Påtalemakta sitt vedtak om overlevering kan
-klagast på, jf. sjette ledd. Dette gjeld både positive og negative vedtak og spørsmål om kva for
-vilkår som skal setjast. Men ein kan ikkje
-grunngi klagen med at vilkåra for overlevering
-ikkje er til stades. Spørsmålet om vilkåra for
-overlevering er oppfylte hører inn under domstolen.»
-Hvorvidt overlevering vil være i strid med EMK,
-er i arrestordreloven § 8 annet ledd angitt som en
-obligatorisk avslagsgrunn, som det i utgangspunktet tilligger domstolen å vurdere. Arrestordreloven kan gi inntrykk av at risiko for EMKbrudd er en omstendighet som utelukkende skal
-vurderes av domstolene. Det følger imidlertid av
-menneskerettsloven og Grunnloven § 92 at påtalemyndigheten, eventuelt departementet, må vurdere anførsler om risiko for brudd på EMK.
-Paragraf 14 tredje ledd siste punktum angir
-som nevnt at påtalemyndigheten avgjør om arrestordren skal etterkommes. Bestemmelsen må
-imidlertid suppleres med §§ 9, 10 og 29, som i
-visse situasjoner legger avgjørelsesmyndigheten
-til Justisdepartementet. Kommer arrestordren fra
-en stat som ikke overleverer ettersøkte personer
-til Norge for politiske lovbrudd, og domstolen har
-fastslått at arrestordren gjelder et politisk lovbrudd, skal departementet avgjøre om arrestordren skal etterkommes, jf. § 9 tredje ledd. Departementet har også beslutningsmyndigheten hvis
-arrestordren gjelder en norsk statsborger og
-kommer fra en stat som ikke selv overleverer
-egne borgere til Norge, jf. § 10 annet ledd. Endelig fastslår § 29 annet ledd at departementet
-avgjør om en arrestordre skal etterkommes hvis
-det også foreligger en utleveringsbegjæring mot
-samme person (konkurrerende anmodninger). I
-disse tre sakstypene skal påtalemyndigheten
-sende rettskraftig kjennelse til departementet
-sammen med sin vurdering av §§ 12, 15 og 31, jf.
-rundskriv G-02/2020 s. 17. Det er departementet
-som fatter vedtaket.
-Om å legge avgjørelsesmyndigheten til departementet i §§ 9- og 10-tilfellene, heter det i Prop.
-137 LS (2010–2011) at det ikke samsvarer helt
-med tanken om at sentralmyndighetene ikke lenger skal ha noen rolle i overleveringssakene.
-Avgjørelsens art i disse tilfellene tilsa likevel at
-den burde treffes av departementet, jf. s. 19, jf.
-s. 21.
+Utleveringsloven § 12 regulerer hverken hvordan norske myndigheter skal stille vilkår eller innhente garantier, eller hvordan den anmodende stat skal bekrefte vilkår eller gi garantier. Heller ikke forarbeidene eller rettsteorien sier noe om dette.
 
-[Side 190]
+I praksis varierer det hvordan departementet innhenter garantier. Det sentrale er at garantiene kan anses som bindende. Valg av fremgangsmåte har dette for øyet. Overfor stater som *ikke* er tilsluttet en folkerettslig avtale ber departementet vanligvis om at vilkårene bekreftes eller at garantiene gis i notes form via diplomatiske kanaler. Overfor stater som *er* tilsluttet en folkerettslig avtale blir det derimot ofte ansett som tilstrekkelig at bekreftelsen eller garantien gis direkte fra judisiell anmodende myndighet.
 
-188
+Norges folkerettslige forpliktelser til å utlevere kan begrense adgangen til å stille vilkår dersom disse ikke utgjør en gyldig avslagsgrunn etter denne folkeretten. I praksis skjer det likevel at det stilles vilkår også i slike tilfeller.
 
-Kapittel 10
+Spesialitetsprinsippet, videre utlevering, strafforfølgning ved provisoriske eller ekstraordinære domstoler og dødsstraff – § 12 første ledd bokstav a til d
 
-NOU 2022: 15
-Utleverings- og arrestordreloven
+Utleveringsloven § 12 første ledd bokstav a til d innebærer at det *skal* stilles slike vilkår for utlevering som fremgår av bestemmelsen.
 
-Arrestordreloven har ikke nærmere bestemmelser om departementets avgjørelse etter §§ 9,
-10 og 29. Forvaltningsloven gjelder for departementets behandling. Departementets vedtak er et
-enkeltvedtak, jf. forvaltningsloven § 2 første ledd
-bokstav b. Klageinstans er Kongen i statsråd og
-klagefristen er tre uker, jf. forvaltningsloven §§ 28
-og 29.
+Bokstav a om *spesialitetsprinsippet* og bokstav b om *videre utlevering* er behandlet i punkt 9.2.
 
-10.5.3.2 Folkerettslige rammer
-Parallellavtalen bestemmer i art. 18 nr. 1 at avgjørelsen av om en arrestordre skal etterkommes,
-skal treffes av en «utførende rettsmyndighet».
-Artikkel 9 regulerer fastsettelse av kompetente
-rettsmyndigheter. Etter art. 9 nr. 2 kan statene
-utpeke sin justisminister som iverksettende myndighet selv om dette etter nasjonal rett ikke anses
-som en «rettsmyndighet». I Norge regnes domstolene og påtalemyndigheten som rettsmyndigheter. Norge har erklært at Justisdepartementet
-er kompetent til å avgjøre en arrestordre etter
-avtalens art. 6 nr. 3 (politisk lovbrudd), 7 nr. 2
-(egne statsborgere) og 19 nr. 3 (konkurrerende
-anmodninger), jf. Norges erklæring etter art. 9
-nr. 3, gjengitt i rundskriv G-02/2020 s. 172. Erklæringen kan endres, jf. parallellavtalen art. 38 nr. 2.
-EUs rammebeslutning art. 6, som regulerer det
-samme som parallellavtalen art. 9, åpner ikke for
-at statene kan utpeke sin justisminister som iverksettende myndighet. EU-domstolen har i flere
-saker uttalt at både den utstedende og iverksettende rettsmyndighet må være uavhengig av den
-utøvende makt, jf. bl.a. storkammerdommen 24.
-november 2020 i sak C-510/19 Openbaar Ministerie avsnitt 38–56.
-10.5.3.3 Nordisk rett
-I Danmark avgjør domstolen om en europeisk og
-nordisk arrestordre skal etterkommes etter
-anmodning fra påtalemyndigheten, jf. utleveringsloven 2020 § 35, stk. 1. Det er også domstolen som
-stiller eventuelle vilkår. Politiet skal i forkant av
-domstolsbehandlingen gjennomføre nødvendige
-undersøkelser for å avklare om lovens vilkår er
-oppfylt. Påtalemyndigheten har ikke adgang til å
-avslå en arrestordre uten rettslig prøving. Dersom
-påtalemyndigheten på grunnlag av opplysningene i arrestordren finner at den bør avslås, kan
-saken bringes inn for rettslig prøving uten forutgående undersøkelser fra politiet, jf. § 32, stk. 4.
-I Sverige er det domstolen, på anmodning fra
-påtalemyndigheten, som avgjør om en europeisk
-arrestordre skal fullbyrdes etter at påtalemyndig-
+Bokstav c bestemmer at utlevering bare kan skje på vilkår av at den som begjæres utlevert, ikke uten departementets samtykke settes under rettsforfølgning ved en «ren provisorisk domstol eller en domstol som bare er kompetent til å behandle lovbrudd som det foreliggende i det enkelte tilfelle eller under spesielle unntaksforhold» (*provisoriske og ekstraordinære domstoler*). Departementet kan samtykke til slik strafforfølgning når det er «ubetenkelig», jf. § 21 fjerde ledd. Om samtykke uttales det i Ot.prp. nr. 30 (1974–75) s. 38:
 
-heten har utredet om vilkårene for overlevering er
-oppfylt, jf. loven om europeisk arrestordre 2003
-5 kap. 1 § og 4 kap. 3 §. For nordiske arrestordrer
-gjelder tilsvarende regler med unntak av at påtalemyndigheten kan avgjøre en arrestordre uten
-rettslig prøving dersom den ettersøkte samtykker
-til overlevering, jf. loven om nordisk arrestordre
-2011 4 kap. 1 §.
-På Island beslutter statsadvokaten om en europeisk arrestordre skal fullbyrdes eller avslås, jf.
-arrestordreloven 2016 § 15. Dersom den ettersøkte ikke godkjenner statsadvokatens avgjørelse,
-kan vedkommende kreve domstolsavgjørelse av
-om vilkårene for overlevering foreligger. Tilsvarende regler gjelder for nordiske arrestordrer, jf.
-§ 22.
-I Finland avgjør Helsingfors tingsrätt alle
-europeiske arrestordrer etter anmodning fra
-påtalemyndigheten, jf. loven om europeisk
-arrestordre 2003 11 og 24 §§. Loven gir ikke
-påtalemyndigheten adgang til å avslå en arrestordre uten rettslig prøving. Politiet og påtalemyndigheten kan innhente nødvendig tilleggsinformasjon i forkant av domstolsbehandlingen, jf.
-23 §, og domstolen kan også på eget initiativ innhente informasjon fra den utstedende myndigheten, jf. § 31. Tilsvarende regler gjelder for nordiske arrestordrer etter loven om nordisk arrestordre 2007.
+«Samtykke bør kunne gis dersom det etter en vurdering av de konkrete forhold – årsaken til at domstolen er nedsatt, dens sammensetning og de regler som gjelder strafforfølgning m. m. – ikke er betenkelig fra et rettssikkerhetssynspunkt.»
 
-10.5.4 Overlevering til stater i Norden
-10.5.4.1 Gjeldende rett
-Innledning
-En hovedforskjell på saksbehandlingsreglene
-mellom nordiske og nordisk-europeiske arrestordrer er at en nordisk arrestordre kan avgjøres av
-påtalemyndigheten uten rettslig prøving dersom
-den ettersøkte samtykker.
-Samtykker ikke den ettersøkte, er saksbehandlingen den samme som for nordisk-europeiske arrestordrer. Også her er situasjonen at
-domstolen avgjør om vilkårene for overlevering er
-oppfylt, mens påtalemyndigheten bestemmer om
-overlevering skal skje. I de nordiske sakene er det
-enda færre avslagsgrunner enn for de nordiskeuropeiske.
-Nærmere om gjeldende rett
-Arrestordreloven § 21 regulerer hvilken myndighet som skal avgjøre om lovens vilkår for overlevering er oppfylt, hvem som skal treffe den endelige avgjørelsen av om den nordiske arrestor-
+Bestemmelsen i bokstav c har ikke noe motstykke i utleveringskonvensjonen. Det vil dermed ikke være adgang til å stille vilkår etter bokstav c overfor stater som er tilsluttet utleveringskonvensjonen, jf. proposisjonen s. 37 og Justis- og politidepartementets høringsnotat om forslag til ny utleveringslov (februar 1974) s. 20. Norge kan derimot påberope seg gjensidighet dersom den andre staten har tatt forbehold.
 
-[Side 191]
+Bokstav d fastsetter at utlevering bare kan skje på vilkår av at *dødsstraff* ikke må fullbyrdes mot den utleverte. Bestemmelsen er i prinsippet i samsvar med utleveringskonvensjonen art. 11, jf. Ot.prp. nr. 30 (1974–75) s. 38.
 
-NOU 2022: 15
-Utleverings- og arrestordreloven
+Utlevering som innebærer risiko for fullbyrding av dødsstraff må nektes. Når det gjelder utlevering til straffullbyrding, tillater utleveringsloven § 3 første ledd bare utlevering til «frihetsstraff eller anbringelse i anstalt». Utlevering til fullbyrding av dødsstraff vil være i strid med menneskerettsloven §§ 2 og 3. Slik utlevering vil også kunne rammes av utleveringsloven § 6 om fare for forfølgelse og § 7 om grunnleggende humanitære hensyn, som av domstolene er tolket å omfatte en rekke menneskerettsbrudd. I LB-2019-84961 kom lagmannsretten til at utlevering til Iran ville være i strid med bl.a. utleveringsloven § 6, jf. EMK art. 3, fordi det var reell fare for at siktede ville bli idømt korporlig straff (pisking eller dødsstraff). Se omtale i punkt 8.6.2.1.
 
-dren skal etterkommes, og hvilke frister som
-gjelder.
-Etter § 21 første ledd avgjør påtalemyndigheten arrestordren dersom den ettersøkte samtykker til overlevering. Det skjer da ingen domstolsprøving av arrestordren. Påtalemyndigheten vurderer om vilkårene for overlevering er oppfylt
-(§§ 17 og 18), om noen av de valgfrie avslagsgrunnene skal benyttes (§ 19), om det skal stilles vilkår
-for overlevering av norsk borger eller person
-bosatt i Norge (§ 22) og om det skal treffes vedtak
-om utsatt eller midlertidig overlevering (§ 31).
-Påtalemyndigheten skal treffe sin avgjørelse
-«straks og seinast tre arbeidsdagar» etter at samtykket er gitt, jf. § 21 første ledd første punktum.
-Samtykke er nærmere behandlet i punkt 10.6.3.
-Arrestordreloven § 21 annet ledd regulerer
-situasjonen der den ettersøkte ikke samtykker til
-overlevering eller trekker tilbake et samtykke, og
-påtalemyndigheten vil etterkomme arrestordren.
-Arrestordren skal da forelegges tingretten som
-ved kjennelse avgjør om vilkårene for overlevering er oppfylt, jf. §§ 17 og 18. Dersom det anføres
-at arrestordren lider av vesentlige mangler, jf. § 5,
-vil domstolen i praksis også vurdere dette. Domstolen skal legge opplysningene i arrestordren til
-grunn med mindre de åpenbart er uriktige.
-Rettens kjennelse kan ankes etter reglene i
-straffeprosessloven kap. 26, likevel slik at ankefristen er tre dager og anken har oppsettende virkning, jf. § 21 tredje ledd. Rettskraftig kjennelse
-skal om mulig foreligge innen tre uker etter pågripelsen.
-Når rettskraftig kjennelse foreligger, sendes
-saken til påtalemyndigheten som innen tre
-arbeidsdager avgjør om arrestordren skal fullbyrdes, jf. § 21 tredje ledd siste punktum. Påtalemyndigheten vurderer §§ 19, 22 og 31. Det fremgår
-ikke av loven, men påtalemyndigheten må avslå
-arrestordren hvis retten har konkludert med at
-vilkårene ikke er oppfylt. Har retten kommet til at
-vilkårene er oppfylt, kan påtalemyndigheten bare
-avslå arrestordren hvis en av de valgfrie avslagsgrunnene i § 19 foreligger, jf. Prop. 137 LS (2010–
-2011) s. 36 samt systematikken i konvensjon om
-nordisk arrestordre.
-I Justis- og politidepartementets høringsnotat
-om forslag til lov om nordisk arrestordre (september 2006) foreslo departementet at domstolen
-skulle ta stilling til både om vilkårene for overlevering var oppfylt og om arrestordren skulle etterkommes. Ingen av høringsinstansene uttalte seg
-om dette. Departementet landet på dagens løsning (nå § 21 annet ledd, jf. tredje ledd) og uttalte i
-Ot.prp. nr. 39 (2007–2008) s. 22 om dette:
+Ingen av Europarådets medlemsstater gjennomfører i dag dødsstraff. EMD har lagt til grunn at det er i strid med EMK art. 2 og 3 å utlevere eller utvise en person dersom vedkommende risikerer dødsstraff i mottakerstaten, jf. bl.a. *Al-Saadoon og Mufdhi mot Storbritannia*, 2. mars 2010, særlig avsnitt 120 og 123 og *A.L. (X.W.) mot Russland,* 29. oktober 2015, særlig avsnitt 64 og 66. EMK sjette tilleggsprotokoll forplikter til avskaffelse av dødsstraff og 13. tilleggsprotokoll til avskaffelse under enhver omstendighet, dvs. også i krigstid. EMD har lagt til grunn at også medlemsstater i Europarådet som ikke har ratifisert protokoll nr. 13, er forpliktet til å avskaffe dødsstraff, jf. bl.a. *A.L. (X.W.)*-dommen (2015).
 
-189
+Det følger av forarbeidene at forbudet mot fullbyrding av dødsstraff gjelder både ved utlevering til straffullbyrding og til strafforfølgning.
 
-Kapittel 10
+Utlevering vil kunne skje hvor det er mottatt «sikre garantier» for at en dødsdom ikke vil bli fullbyrdet, jf. Ot.prp. nr. 30 (1974–75) s. 38.
 
-«Avgjørende for dette endrede standpunktet er
-at det skjønnet som ligger i vurderingen av om
-frivillige avslagsgrunner skal gjøres gjeldende,
-for eksempel om handlingen heller bør strafforfølges i Norge, er en utpreget påtalevurdering.»
-Klagebehandlingen følger de samme reglene som
-for nordisk-europeiske arrestordrer, jf. § 21 femte
-ledd, som gir § 14 femte til åttende ledd tilsvarende anvendelse.
-Arrestordreforskriften § 2 legger i utgangspunktet myndigheten til å avgjøre en nordisk
-arrestordre til politijurister med utvidet påtalekompetanse. Statsadvokaten treffer avgjørelsen
-hvis den ettersøkte er siktet i Norge for et forhold
-der statsadvokaten eller riksadvokaten har tiltalekompetansen, eller det foreligger to konkurrerende arrestordrer mot samme person.
-Hvis det foreligger en utleveringsbegjæring og
-en nordisk arrestordre mot samme person, avgjør
-Justisdepartementet saken, jf. arrestordreloven
-§ 29 annet ledd og forskriften § 2 tredje ledd.
+«Ytterligere vilkår som det finnes grunn til» – § 12 annet ledd
 
-10.5.4.2 Folkerettslige rammer
-Konvensjon om nordisk arrestordre art. 3 angir at
-avgjørelsen av om en arrestordre skal fullbyrdes
-eller ikke, skal treffes av en «judisiell myndighet»,
-jf. art. 13 nr. 1, jf. 3 nr. 2. Det innebærer at Justisdepartementet ikke kan avgjøre en nordisk arrestordre. Unntak er gjort for en nordisk arrestordre
-som konkurrerer med en nordisk-europeisk
-arrestordre eller en utleveringsbegjæring, jf.
-art. 15 nr. 2. Departementet kan avgjøre disse
-sakene. I tillegg til den formelle begrensningen
-om at en arrestordre skal avgjøres av en judisiell
-myndighet, må statene ved valg av behandlingsmåte ta hensyn til prinsippet om gjensidig anerkjennelse og målsettingen om en rask og enkel
-behandling slik det fremgår av fortalen og art. 14,
-jf. Ot.prp. nr. 39 (2007–2008) s. 20.
-10.5.4.3 Nordisk rett
-De nordiske landenes regler for avgjørelse av
-nordiske arrestordrer er omtalt i punkt 10.5.3.3.
+Utleveringsloven § 12 annet ledd gir hjemmel for å stille «ytterligere vilkår som det finnes grunn til». Det *kan* stilles vilkår for en utlevering så lenge det er saklig grunn for det, og så langt vilkårene ikke kommer i strid med utleveringsplikt etter folkerettslig avtale.
 
-10.5.5 Utvalgets vurderinger for overlevering
-Innledning
-Dagens regler om avgjørelse av arrestordrer
-synes å ivareta målet i parallellavtalen og konvensjon om nordisk arrestordre om rask og effektiv
+Etter annet ledd kan det f.eks. være aktuelt å stille følgende vilkår:
 
-[Side 192]
+- Norske myndigheter eller andre skal gis adgang til å observere rettsbehandlingen, jf. Ruud s. 217 og Ruud mfl. s. 70.
 
-190
+- Strafforfølgning skal skje ved en bestemt type domstol.
 
-Kapittel 10
+- «\[A\]t det som forvandlingsstraff for dødsstraff ikke må nyttes annen særlig brutal straff», jf. Ot.prp. nr. 30 (1974–75) s. 38.
 
-NOU 2022: 15
-Utleverings- og arrestordreloven
+- «\[A\]t en dom på dødsstraff ikke omgjøres til livstidsstraff uten mulighet for prøveløslatelse», ettersom EMD har lagt til grunn at dette er i strid med EMK art. 3, jf. Ruud mfl. s. 69.
 
-saksbehandling, samtidig som hensynet til rettssikkerhet ivaretas. Det er relativt kort tid siden
-dagens ordning ble innført, og utvalget har inntrykk av at den fungerer tilfredsstillende. Ordningen bør etter utvalgets syn få virke noe lenger før
-man eventuelt gjør større innholdsmessige
-endringer i reglene om hvordan en arrestordre
-skal behandles og avgjøres. Det er naturlig å følge
-med på utviklingen i EU og de andre nordiske landene. Utvalget foreslår likevel en endring: I de
-sakene hvor departementet avgjør om en arrestordre skal iverksettes, bør den ettersøktes klageadgang til Kongen i statsråd fjernes, se nærmere
-nedenfor.
-Som påpekt i utvalgets mandat, involveres
-langt flere i beslutningsprosessen i arrestordresakene enn tilfellet er med utleveringssakene.
-Sakene skal også behandles raskt. Det er derfor
-særlig viktig med et klart og oversiktlig regelverk.
-I arbeidet med utredningen har utvalget fått tilbakemeldinger fra rettsanvendere om at arrestordrelovens saksbehandlingsregler bør klargjøres
-og forenkles. Utvalget deler synspunktet og foreslår derfor endringer som har som mål å bidra til
-at regelverket blir enda mer oversiktlig og tilgjengelig.
-Et ledd i dette er å foreslå fellesbestemmelser
-for saksbehandlingen av arrestordrer og nordiske
-arrestordrer i ett saksbehandlingskapittel. Parallellavtalen og konvensjon om nordisk arrestordre
-legger i liten grad føringer for hvordan arrestordren skal behandles. Arrestordreloven har tre
-kapitler som gjelder behandlingen av arrestordrer
-(kap. 3, 5 og 6). Avgjørelse av en arrestordre reguleres av arrestordreloven §§ 14 (nordisk-europeisk) og 21 (nordisk). Sistnevnte har store likhetstrekk med og gir deler av § 14 tilsvarende
-anvendelse. Fellesbestemmelser for den rettslige
-behandlingen og avgjørelsen av arrestordrer vil
-gjøre at man unngår gjentakelser og krysshenvisninger.
-I arrestordresaker er det en ansvarsfordeling
-mellom domstol og avgjørende myndighet. Det
-skal i utgangspunktet ikke skje en dobbeltbehandling av vilkårene for overlevering. Det fremgår
-imidlertid ikke klart av arrestordreloven hvilke
-vilkår domstolen skal vurdere og hvilke vilkår
-påtalemyndigheten, i noen tilfeller departementet,
-skal vurdere. Dagens uklarhet kan i praksis medføre at den ettersøkte anfører vilkår for domstolen
-som påtalemyndigheten skal vurdere og omvendt.
-Hensynet til klarhet taler for at det innføres
-bestemmelser som tydeliggjør hvilken myndighet som skal vurdere de ulike vilkårene. Lovutkastet § 54 regulerer rettens behandling, § 55 påtale-
+- Den utleverte skal gis rett til en full ny prøving av saken dersom utlevering skjer for fullbyrding av fraværsdom, jf. Mathisen s. 437 og Ruud mfl. s. 70.
 
-myndighetens avgjørelse og § 56 departementes
-avgjørelse.
-Dagens ansvarsfordeling foreslås videreført
-med én presisering. Arrestordreloven kan som
-nevnt gi inntrykk av at risiko for brudd på EMK
-ved overlevering er en omstendighet som utelukkende skal vurderes av domstolen. Det er uheldig.
-Utvalget foreslår derfor at det klargjøres at den
-myndigheten som treffer den endelige avgjørelsen av om overlevering skal skje, skal kunne vurdere om overleveringen vil være i strid med EMK
-eller andre menneskerettskonvensjoner Norge er
-bundet av, jf. lovutkastet § 5. I arrestordresaker er
-riktignok det praktiske behovet for en fornyet
-EMK-vurdering etter domstolsbehandlingen formentlig lite siden det går kort tid fra det foreligger
-rettskraftig kjennelse til påtalemyndigheten, unntaksvis departementet, skal avgjøre om arrestordren skal iverksettes. Unntaksvis kan det likevel
-oppstå et behov for å vurdere dette. Loven bør
-inneholde en sikkerhetsventil for slike unntakstilfeller. Hensynet til klarhet tilsier at det bør fremgå
-av lovteksten.
-Rettslig behandling
-Når det gjelder den rettslige behandlingen av en
-arrestordre, se lovutkastet § 54, foreslår utvalget
-mindre justeringer. For det første bør domstollovens regler om adgangen til å føre forhandlingene
-for lukkede dører gis tilsvarende anvendelse i
-arrestordresaker. I utleveringssaker følger en slik
-regel av utleveringsloven § 17, som utvalget går
-inn for å videreføre. Det antas å være samme
-behov for å kunne føre forhandlingene for lukkede dører i begge sakstyper.
-For det annet foreslår utvalget at retten skal
-kunne avgjøre saken uten muntlig forhandling
-dersom det anses ubetenkelig. En del arrestordresaker kan avgjøres i det første fengslingsmøtet. I
-de tilfellene der det ikke er mulig, vil forslaget
-kunne effektivisere behandlingen av overleveringssaker, der hverken hensynet til sakens opplysning eller rettssikkerhet tilsier at det er behov
-for muntlige forhandlinger. Det kan f.eks. være
-situasjonen der den ettersøkte samtykker til overlevering til en stat i EU eller der påtalemyndigheten anfører at vilkårene for overlevering ikke er
-oppfylt. Utvalget har foreslått en tilsvarende regel
-i utleveringssaker.
-Det følger i dag av arrestordreloven § 14 tredje
-ledd første punktum at retten skal legge opplysningene i arrestordren til grunn for sin avgjørelse,
-med mindre de åpenbart er uriktige. Utvalget
-foreslår å videreføre dette utgangspunktet. Videre
+- Det skal gis fradrag i den anmodende stat for varetekt som er utholdt i Norge (varetektsfradrag, se punkt 11.5), jf. Mathisen s. 437, Ruud s. 218 og Ruud mfl. s. 70.
+
+- Soning skal ikke skje i bestemte fengsler, jf. Rt. 2009 s. 594 avsnitt 6 og 7 og Ruud mfl. s. 69.
+
+- Varetekt og soning skal skje under forhold som oppfyller kravene etter EMK (se punkt 4.3).
+
+- Soningsforholdene skal tilpasses for å hindre tortur, annen umenneskelig eller nedverdigende behandling eller straff, eller for å ivareta grunnleggende humanitære hensyn, jf. Ruud mfl. s. 69 og Rt. 1998 s. 1993 (s. 1998).
+
+- Den utleverte skal gis nødvendig helsehjelp og medisiner, jf. Ruud mfl. s. 69.
+
+- Norske myndigheter skal gis adgang til å besøke den utleverte under soningen eller på annen måte kontrollere fengselsforholdene, jf. Ruud mfl. s. 69.
+
+### Konstitusjonelle og folkerettslige rammer
+
+Flere av vilkårene som i dag stilles for utlevering, har en side til menneskerettighetene. Dette gjelder særlig vilkår knyttet til forbudet mot dødsstraff, som også er nedfelt i *Grunnloven* § 93 første ledd.
+
+*EMK* art. 2 nr. 1 fastslår at retten til livet skal beskyttes ved lov. Ordlyden åpner imidlertid for dødsstraff: «Ingen må med hensikt bli berøvet livet unntatt ved fullbyrdelse av en dom avsagt av en domstol etter å være funnet skyldig i en forbrytelse som loven bestemmer denne straff for.» Artikkel 3 har dessuten et absolutt forbud mot tortur og umenneskelig eller nedverdigende behandling eller straff. *Sjette tilleggsprotokoll 28. april 1983* til EMK om avskaffelse av dødsstraffen art. 1 fastsetter at dødsstraffen skal bli avskaffet, og at ingen må bli dømt til slik straff eller henrettet. Artikkel 2 åpner for dødsstraff i krigstid. *13. tilleggsprotokoll 3. mai 2002* til EMK forplikter til avskaffelse av dødsstraff under enhver omstendighet, også i krigstid, jf. art. 1.
+
+*SP* art. 6 slår fast retten til liv og gir en rekke regler knyttet til dødsstraff. Artikkel 7 oppstiller et absolutt forbud mot tortur eller grusom, umenneskelig eller nedverdigende behandling eller straff. *Annen tilleggsprotokoll til SP 15. desember 1989 om avskaffelse av dødsstraff* art. 1 bestemmer at ingen skal henrettes innenfor jurisdiksjonen til en stat som er part i protokollen. Hver part skal treffe alle nødvendige tiltak for å avskaffe dødsstraff innenfor sin jurisdiksjon.
+
+Etter *FNs barnekonvensjon* art. 6 har hvert barn en iboende rett til livet. Det følger av art. 37 bokstav a at partene skal sikre at barn ikke idømmes dødsstraff.
+
+*Utleveringskonvensjonen* inneholder regler bl.a. om dødsstraff (art. 11), spesialitetsprinsippet (art. 14) og videre utlevering (art. 15). Annen tilleggsprotokoll til konvensjonen har dessuten en bestemmelse om fraværsdommer (art. 3).
+
+Dersom forbrytelsen utleveringsbegjæringen gjelder, kan straffes med *dødsstraff* etter den anmodende stats lovgivning, og det etter anmodede stats lov ikke kan idømmes dødsstraff for forbrytelsen eller slik straff vanligvis ikke fullbyrdes der, kan utlevering nektes, med mindre den anmodende stat avgir tilstrekkelige forsikringer om at dødsstraff ikke vil bli fullbyrdet, jf. art. 11.
+
+Artikkel 14 om *spesialitetsprinsippet* og art. 15 om *videre utlevering* er behandlet i punkt 9.2.
+
+Om utleveringskonvensjonen art. 18 nr. 3 og *varetektsfradrag* vises det til punkt 11.5.
+
+I stedet for å utsette en utlevering, kan den anmodede stat utlevere den ettersøkte midlertidig i samsvar med vilkår som avtales mellom statene, jf. art. 19 nr. 2. Se nærmere om midlertidig utlevering punkt 10.7.
+
+*Annen tilleggsprotokoll* til utleveringskonvensjonen bestemmer at dersom den ettersøkte er domfelt ved en fraværsdom («judgment *in absentia*») etter en prosess som ikke oppfyller minstekravene til forsvar, kan det stilles vilkår om at den anmodende stat skal garantere at den utleverte gis rett til en ny prøving av saken, som ivaretar den utlevertes rett til forsvar (art. 3).
+
+Utleveringsavtalen med *USA* art. 8 fastslår at dersom dødsstraff etter den anmodende stats lovgivning kan idømmes for forholdet utleveringsbegjæringen gjelder, og forholdet ikke kunne medført dødsstraff etter loven i den anmodede stat, kan utlevering nektes med mindre den anmodende stat forsikrer at dødsstraff ikke vil bli idømt, eller at idømt dødsstraff ikke vil bli fullbyrdet. Avtalen med *Australia* har en lignende bestemmelse i art. 9. Australia har imidlertid avskaffet dødsstraff, slik at artikkelen er uten praktisk betydning. Avtalen med *Canada* har ikke regler om dødsstraff. Men både Canada og Norge har avskaffet dødsstraff og er forpliktet til å overholde SP art. 6 og annen tilleggsprotokoll til SP art. 1. Utlevering til fullbyrding av dødsstraff er derfor ikke aktuelt.
+
+Avtalen med Australia art. 7 nr. 2 bokstav a inneholder regler om provisoriske og ekstraordinære domstoler. Det følger av artikkelen at utlevering kan nektes dersom det er sannsynlig at den ettersøkte vil bli strafforfulgt ved en provisorisk eller ekstraordinær domstol, og dersom utlevering er begjært for fullbyrding av en straff som er idømt av en slik domstol. Avtalene med Canada og USA har ikke regler om provisoriske og ekstraordinære domstoler. Avtalene med USA og Australia har også bestemmelser om spesialitetsprinsippet og forbudet mot videre utlevering, mens reguleringen av dette i avtalen med Canada er mer begrenset, se punkt 9.2.1.
+
+For øvrig nevnes det at *FNs konvensjon mot grenseoverskridende organisert kriminalitet* 2000 art. 16 nr. 11 og *FNs konvensjon om korrupsjon* 2003 art. 44 nr. 12 forutsetter at det ved utlevering av egne statsborgere til strafforfølgning kan stilles som betingelser at den som utleveres, skal tilbakeføres for soning i den utleverende stat etter strafforfølgningen.
+
+### Nordisk rett
+
+Utleveringslovene i de nordiske statene har bestemmelser om vilkår som skal eller kan stilles knyttet bl.a. til spesialitetsprinsippet, videre utlevering, provisoriske og ekstraordinære domstoler/særdomstoler og dødsstraff. Danmark, Finland, Island og Sverige har tatt forbehold til utleveringskonvensjonen, som går ut på at det for utlevering til strafforfølgning, skal kunne stilles som vilkår at den utleverte ikke strafforfølges ved en provisorisk eller ekstraordinær domstol. Norge har ikke tatt et tilsvarende forbehold. Utleveringsloven i Sverige og Finland har også regler om vilkår knyttet til militære og politiske lovbrudd. I tillegg har lovene som regel en sekkebestemmelse, som gir adgang til å stille andre vilkår som anses nødvendige.
+
+Den *danske* utleveringsloven 2020 § 29, stk. 1, fastslår at utlevering skal skje på vilkår av at den utleverte ikke strafforfølges (spesialitetsprinsippet) eller utleveres videre til et tredjeland for en annen straffbar handling begått før utleveringen enn den vedkommende utleveres for. Unntak gjelder hvor retten tillater det etter § 41 (bokstav a), eller den utleverte, til tross for at vedkommende i 30 dager uhindret har kunnet forlate staten utleveringen skjedde til, har unnlatt å gjøre det (bokstav b), eller vedkommende etter å ha forlatt denne staten, frivillig har vendt tilbake dit (bokstav c). Videre følger det av stk. 2 at det skal stilles vilkår om at den utleverte ikke uten rettens tillatelse må underkastes strafforfølgning ved en særdomstol. Det skal dessuten stilles vilkår om at dødsstraff ikke må fullbyrdes for handlingen det utleveres for, jf. stk. 3.
+
+Den *svenske* utleveringsloven 1957 12 § fastslår at det skal stilles vilkår knyttet til spesialitetsprinsippet og forbudet mot videre utlevering. Unntak gjelder i tilfeller som nevnt i utleveringskonvensjonen art. 14 og 15, se nærmere punkt 9.2.1.3. Lovens 12 § 1 stk. nr. 2 bestemmer at det skal stilles vilkår om at den utleverte ikke kan strafforfølges ved en «domstol, som endast för tillfället eller för särskilda undantagsförhållanden erhållit befogenhet att pröva mål av sådan beskaffenhet» (provisorisk eller ekstraordinær domstol). Unntak gjelder når utlevering er forenlig med den ettersøktes rettssikkerhet og regjeringen har samtykket til utlevering. Lovens 12 § 1 stk. nr. 3 bestemmer at det skal stilles vilkår om at den som utleveres, ikke skal straffes med dødsstraff. Etter 12 § 2 stk. skal det i tilfellene som omfattes av 5 § (militære lovbrudd) og 6 § (politiske lovbrudd) stilles vilkår om at den som utleveres, ikke må straffes etter en bestemmelse om militære lovbrudd eller politiske lovbrudd. Regjeringen kan for øvrig stille andre vilkår som anses nødvendige, jf. 12 § 3 stk.
+
+Den *finske* utleveringsloven 1970 12 § 1 mom. nr. 1 bestemmer at det skal stilles vilkår om at den utleverte ikke kan strafforfølges (spesialitetsprinsippet) eller utleveres videre for en annen før utleveringen begått handling enn den vedkommende er utlevert for. Unntak gjelder i tilfeller som nevnt i utleveringskonvensjonen art. 14 og 15, se nærmere punkt 9.2.1.3. Videre skal det stilles vilkår om at den utleverte ikke uten samtykke fra departementet settes under strafforfølgning ved en «domstol som har fått behörighet att döma i sådane mål endast tillfälligt eller under särskilda undantagsförhållanden» (provisorisk eller ekstraordinær domstol), jf. 14 § 3 mom. nr. 2. Lovens 12 § 2 mom. bestemmer at i tilfellene som omfattes av 5 § (militært lovbrudd), skal det stilles vilkår om at den utleverte ikke kan straffes etter en bestemmelse som gjelder militært lovbrudd. Paragraf 12 3 mom. bestemmer at når noen utleveres for en handling som ikke hovedsakelig kan anses som et politisk lovbrudd etter 6 § (politisk lovbrudd), skal det stilles vilkår om at handlingen, når den utleverte dømmes til straff, ikke kan anses som et politisk lovbrudd. Departementet kan dessuten stille andre vilkår som anses nødvendige, jf. 12 § 4 mom., jf. 14 § 3 mom. Loven har i motsetning til de andre nordiske utleveringslovene ingen egen bestemmelse om dødsstraff.
+
+Den *islandske* utleveringsloven 1984 § 11 svarer i hovedsak til den norske utleveringsloven § 12.
+
+### Utvalgets vurderinger
+
+Utvalget går inn for å videreføre adgangen til å stille vilkår for utlevering, jf. lovutkastet § 20. I utredningen her er slike vilkår kalt «betingelser» (se punkt 6.6.5).
+
+Betingelser er et virkemiddel som kan medføre at begjæringer som ellers ikke ville blitt etterkommet, likevel kan etterkommes. Både den anmodende stat og Norge kan dermed være tjent med at det stilles betingelser for utleveringen, samtidig som betingelser kan gi den ettersøkte et særskilt rettssikkerhetsvern. De nordiske statene har i dag nokså uniforme regler på dette området, og det er etter utvalgets syn ønskelig å opprettholde denne rettslikheten.
+
+Utvalget har vurdert hvilke betingelser som bør fremgå av den nye loven og hvilke som eventuelt bare bør omtales i forarbeidene. Etter utvalgets vurdering bør betingelsene som i dag knytter seg til spesialitetsprinsippet, videre utlevering og dødsstraff, fortsatt fremgå av lovteksten. I tillegg foreslår utvalget at det skal fremgå at det kan stilles betingelser om varetektsfradrag. Begrunnelsen for å fremheve dette særskilt, er at utleveringskonvensjonen forutsetter at utholdt varetekt skal komme til fradrag i utmålt straff, og at det skal opplyses om varetektstiden. En slik bestemmelse synes derfor å være praktisk, noe også eksemplene i punkt 9.3.1 viser. Se nærmere punkt 11.5.
+
+Betingelsene knyttet til *spesialitetsprinsippet* og *videre utlevering* er sentrale og innarbeidet i utleveringsretten, og utvalget ønsker å synliggjøre disse. Dermed fremheves også forholdet til folkeretten i en bestemmelse om betingelser for utlevering. Dette er også gjort i de andre nordiske landene.
+
+Videre går utvalget inn for å videreføre bestemmelsen i utleveringsloven § 12 første ledd bokstav d, som fastslår at det skal stilles som vilkår at *dødsstraff* ikke må fullbyrdes. Retten til liv og forbudet mot dødsstraff er helt grunnleggende menneskerettigheter. En betingelsesbestemmelse om at dødsstraff ikke kan fullbyrdes mot den utleverte har ingen selvstendig materiell betydning fordi Norge er folkerettslig forpliktet til ikke å utlevere i slike tilfeller. Etter utvalgets syn er det likevel grunn til å ha en egen presiserende bestemmelse som gir et tydelig vern mot fullbyrding av dødsstraff. Bestemmelsen vil synliggjøre forbudet mot utlevering til dødsstraff og understreke at det må stilles betingelser for å hindre dette. Utvalget ser også hen til at de nordiske statene med unntak av Finland har en slik bestemmelse i sin utleveringslovgivning. Det legges for øvrig til grunn at utleveringsloven § 12 første ledd bokstav d har stor pedagogisk betydning i dag, siden en rekke stater fortsatt praktiserer dødsstraff.
+
+Adgangen til å stille *ytterligere vilkår som det finnes grunn til*, bør også videreføres. Listen over eksempler på betingelser i punkt 9.3.1, viser etter utvalgets syn at det er behov for å kunne stille betingelser som er tilpasset den enkelte sak. Dette gjøres også i stor utstrekning i dag. De øvrige nordiske statene, unntatt Danmark, har også en slik sekkebestemmelse.
+
+I medhold av bestemmelsen kan det f.eks. bli aktuelt å stille betingelser om at nærmere bestemte straffereaksjoner ikke kan fullbyrdes mot den utleverte. Dødsstraff er fremhevet særskilt i lovutkastet. Overfor stater som har og praktiserer andre særlig brutale straffer, bør det kunne stilles betingelser om at heller ikke slike kan fullbyrdes. Dette kan f.eks. være pisking eller steining, eller livstidsstraff uten mulighet for løslatelse eller omgjøring.
+
+Dersom forholdene som ligger til grunn for en arrestordre kan straffes med livtidsstraff, kan det i saker om overlevering til stater i EU utenfor Norden kreves forsikringer fra den utstedende stat om at straffen vil bli vurdert omgjort eller unnlatt fullbyrdet, enten på anmodning eller senest etter 20 år, jf. arrestordreloven § 11 annet ledd, som utvalget foreslår å videreføre i lovutkastet § 25. Tilsvarende eller lignende betingelser kan det også være aktuelt å stille i utleveringssaker i medhold av sekkebestemmelsen.
+
+Utvalget har i tillegg vurdert om det bør fremgå av loven at det også ved utlevering kan kreves slike forsikringer eller stilles betingelser i livstidsstrafftilfellene. Den samme problemstillingen gjør seg gjeldende for omgjøringsdommer fra dødsstraff til livstidsstraff, og for omgjøring fra dødsstraff til andre særlig brutale straffer, jf. Ot.prp. nr. 30 (1974–75) s. 38. Som det fremgår av utvalgets lovutkast § 5, kan utlevering ikke skje dersom det vil være i strid med EMK eller andre menneskerettskonvensjoner Norge er bundet av. Av den grunn anser utvalget det som mest hensiktsmessig å la eventuelle livtidsstraff- og omgjøringstilfeller være omfattet av sekkebestemmelsen, heller enn å fremheve disse særskilt i bestemmelsen om betingelser for utlevering.
+
+I dag kan det som nevnt være aktuelt å stille som vilkår for utlevering at den utleverte skal gis rett til en full ny prøving av saken dersom utlevering skjer til fullbyrding av fraværsdom. Etter utvalgets forslag er fraværsdomtilfellene regulert særskilt i lovutkastet § 16, se punkt 8.7.
+
+Betingelsen som i dag er knyttet til strafforfølgning ved provisoriske og ekstraordinære domstoler, antas å ha så begrenset praktisk betydning at den ikke begrunner å være fremhevet i loven. Kommer spørsmålet på spissen, kan det inntas betingelser om dette etter sekkebestemmelsen. Dette klargjør også forholdet til utleveringskonvensjonen, i og med at konvensjon ikke gir hjemmel for en slik avslagsgrunn eller betingelse. Betingelsen kan dermed ikke stilles overfor stater som er tilsluttet konvensjonen. Utvalget finner derimot grunn til å påpeke at dersom det skal stilles et slikt vilkår i medhold av sekkebestemmelsen, bør dette skje i lys av EMDs praksis knyttet til «special courts» og SP art. 14.
+
+Som det fremgår av punkt 10.5, foreslår utvalget at det fortsatt er *departementet* som skal stille betingelser for utlevering.
+
+Arbeidet med å stille betingelser er ofte tidkrevende. Dette er dels fordi kontakten med utenlandske myndigheter i stater som ikke er tilknyttet utleveringskonvensjonen, som regel skjer på diplomatisk vei, og dels fordi det er viktig å sikre notoritet om betingelsene. Men dialogen kan også skje direkte mellom Justisdepartementet og den kompetente myndigheten i den anmodende stat.
+
+Utvalget anbefaler at forvaltningen legger til rette og utarbeider rutiner for at kontakten med utenlandske myndigheter foregår på en måte som ivaretar de ovennevnte hensyn, samtidig som prosessene er så vidt effektive som mulig.

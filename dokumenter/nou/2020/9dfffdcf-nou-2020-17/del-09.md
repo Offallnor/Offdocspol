@@ -1,1068 +1,296 @@
-# NOU 2020: 17, del 9 av 22 (side 103–113)
+# NOU 2020: 17, del 9 av 26
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2020/9dfffdcf-nou-2020-17.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2020-17/id2791522/
 - Original-PDF: https://www.regjeringen.no/contentassets/5f3dc96de14f443f869795a19088926a/no/pdfs/nou202020200017000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 5 figurer. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 103]
-
-NOU 2020: 17
-Varslede drap?
-
-101
-
-Kapittel 7
-
-Boks 7.8 Arbeids- og velferdsforvaltningen
-ansatte i sosialtjenesten arbeider ved lokale
-Arbeids- og velferdsforvaltningen består av
-NAV-kontor, sammen med de statlig ansatte i
-Arbeids- og velferdsetaten (NAV) og de delene
-NAV. Mange kommuner har også lagt ytterliav kommunens tjenester som inngår i de lokale
-gere tjenester til NAV-kontoret, for eksempel
-NAV-kontorene (sosialtjenesten).
-omsorgen for rusmiddelavhengige.
-NAV ledes av Arbeids- og velferdsdirektoraDe lokale NAV-kontorene skal til sammen
-tet, og har ansvar for organisering og finansierdekke alle landets kommuner. Ved utgangen av
-ing av arbeidsmarkedstiltak, trygdeytelser og
-2019 var det 326 NAV-kontor i kommuner og
-sosialhjelp. NAV forvalter en tredjedel av statsbydeler.2 Det er ved de lokale kontorene mestebudsjettet gjennom en rekke ulike ordninger
-som sykepenger, dagpenger, pensjon, arbeidsavparten av den fysiske brukerkontakten finner
-klaringspenger og barnetrygd. NAV har både
-sted, og NAV-kontorene regnes som «døren inn»
-kontakt med brukere ved fysiske møter på NAVtil statlige og kommunale arbeids- og velferdskontorene, og på annen måte – ofte gjennom
-tjenester. Virksomheten ved kontorene koordinettbaserte løsninger. NAVs arbeid reguleres
-neres og følges opp av fylkes- eller regionsførst og fremst av arbeids- og velferdsforvaltkontorer.
-ningsloven (NAV-loven).
-1
-I andre sammenhenger er «sosialtjenesten» et videre beDen kommunale delen av Arbeids- og velgrep ved at det dekker flere tjenester enn de kommunale
-ferdsforvaltningen omtales i denne utredningen
-delene av NAV-kontorene, for eksempel tjenester kommunen har ansvar for etter barnevernloven, introduksom sosialtjenesten.1 Sosialtjenesten har ansvasjonsloven og helse- og omsorgstjenesteloven.
-ret for å yte tjenester etter sosialtjenesteloven.
-2
-Tallet er hentet fra NAVs årsrapport for 2019, se NAV
-Tjenestene skal bidra til å bedre levekårene for
-(2020).
-mennesker med økonomiske og sosiale vansker,
-Kilde: Arbeids- og velferdsforvaltningsloven (NAV-loven),
-og inkluderer blant annet økonomisk sosialsosialtjenesteloven og nav.no.
-hjelp, kvalifiseringsprogram, midlertidig botilbud og økonomisk rådgivning. De kommunalt
-
-de instansene som krisesentre oftest henviser
-voldsutsatte til.340
-Ansatte i NAV og sosialtjenesten står også i
-mange tilfeller i en posisjon til å kunne avdekke
-partnervold og dermed også risiko for ytterligere
-vold og partnerdrap. De ansatte kan for eksempel
-gjennom oppfølging i møter oppdage kontrollerende atferd fra partner, hvis en person alltid følges til NAV-kontoret av partneren og aldri får
-snakke for seg selv i møter med de ansatte.
-
-7.7.2
-
-NAV-kontorenes virkemidler
-i voldsforebyggende arbeid
-
-7.7.2.1
-
-Generell forebyggingsplikt
-i sosialtjenesten
-Den kommunale sosialtjenesten er pålagt å utføre
-generell forebyggende virksomhet, jf. sosialtje340
-
-Meld. St. 15 (2012–2013) s. 64–65. Krisesenterstatistikken
-viser at det i 28 prosent av krisesenteroppholdene i 2019,
-ble opprettet kontakt med NAV under oppholdet, se Bufdir
-(2020a).
-
-nesteloven § 12. Det følger av bestemmelsen at
-kommunen blant annet skal «gjøre seg kjent med
-innbyggernes levekår, vie spesiell oppmerksomhet til trekk ved utviklingen som kan skape eller
-opprettholde sosiale problemer, og søke å finne
-tiltak som kan forebygge slike problemer». Dette
-forebyggende arbeidet kan være rettet mot
-befolkningen som helhet, eller mot spesielt
-utsatte grupper. De forebyggende tiltakene kan
-blant annet være tiltak for å styrke sosiale fellesskap i kommunen, herunder bidra til å hindre
-sosial isolasjon.341
-
-7.7.2.2 Samtaler med voldsutsatte
-NAV har utformet en digital veileder for hva de
-ansatte skal og bør gjøre for å avdekke om brukerne av NAVs tjenester blir utsatt for vold i nære
-relasjoner. Veilederen omfatter også hva de
-341
-
-Ot.prp. nr. 29 (1990–91) s. 157. Forarbeidene knytter seg til
-den opphevede sosialtjenesteloven, men er også relevante
-for gjeldende sosialtjenestelov § 12.
-
-[Side 104]
-
-102
-
-Kapittel 7
-
-NOU 2020: 17
-Varslede drap?
-
-ansatte kan og bør gjøre i saker hvor det er konstatert vold, se punkt 7.7.2.3.342
-Ansatte ved NAV-kontorer har informasjonsog veiledningsplikt etter forvaltningsloven § 11.
-Formålet med den alminnelige veiledningsplikten
-er å gi brukere mulighet til å ivareta sine interesser i en sak på best mulig måte. I NAVs veileder
-slås det fast at de ansatte, under veiledningen, bør
-spørre om voldsutsatthet ved mistanke om dette.
-Å våge å spørre om voldsutsatthet er, ifølge veilederen, viktig for å gjøre riktig behovsvurdering av
-brukeren, vurdere riktige tiltak og for å gi bistand
-som personen vil ha nytte av. Veiledningen skal
-også sette den voldsutsatte i stand til å finne sine
-egne løsninger. NAV har utformet en «sjekkliste»
-som skal gjøre det lettere for de ansatte å ta opp
-vold i nære relasjoner med brukeren. Det fremgår
-blant annet av sjekklisten at den ansatte må sørge
-for å bestille tolk ved behov, og at familiemedlemmer aldri skal brukes som tolk.
-
-7.7.2.3 Oppfølging av voldsutsatte
-NAV har utarbeidet omfattende retningslinjer for
-hvilken oppfølging som kan gis etter en veiledningssamtale om vold. I mange saker vil det være
-behov for å henvise den voldsutsatte til andre
-342
-
-Se NAV (2016).
-
-deler av hjelpeapparatet, for eksempel krisesenteret eller politiet. De ansatte ved NAV-kontorene skal også yte tjenester de selv har ansvaret
-for. Dette skal gjøres på grunnlag av den voldsutsattes situasjon. Der det gis arbeidsrettet oppfølging, innebærer dette blant annet at den ansatte
-skal ta hensyn til brukerens sikkerhet. Avhengig
-av trusselsituasjonen, kan det for eksempel være
-nødvendig å vurdere om noen typer arbeid eller
-arbeidstid bør utelukkes i jobbsøking på grunn av
-sikkerhet. Det kan også være viktig å vurdere
-behov for tilrettelegging på arbeidsplassen, for
-eksempel om den voldsutsatte har behov for en
-skjermet kontorpult, med god avstand til inngangsområde, trapper eller heis.
-
-7.7.2.4 Midlertidig botilbud
-Kommunen ved sosialtjenesten har et særlig
-ansvar for å sørge for et midlertidig botilbud til
-personer som utsettes for vold i nære relasjoner.
-Sosialtjenesten er forpliktet til å finne bosted til
-personer som i en akutt situasjon mangler et sted
-å bo, jf. sosialtjenesteloven § 27. Kommunen skal
-også gi råd og veiledning til personer som trenger
-et varig botilbud, og iverksette tiltak for å sikre
-varig bolig til de som trenger det, og ikke har
-klart å finne bolig på egen hånd, jf. sosialtjenesteloven § 15.
-
-[Side 105]
-
-103
-
-NOU 2020: 17
-Varslede drap?
-
-Kapittel 8
-
-Kapittel 8
-
-Taushetsplikt og informasjonsutveksling i hjelpeapparatet
-
-8.1
-
-Innledning
-
-8.1.1
-
-Reglenes betydning for forebygging av
-partnervold og partnerdrap
-Reglene om taushetsplikt skal sikre tillit til at opplysninger om den enkelte forvaltes forsvarlig og
-ikke spres unødvendig. Høy tillit til forvaltningen
-vil kunne bidra til at forvaltningen mottar opplysninger som i neste omgang er nødvendig for å
-iverksette forebyggende tiltak mot partnervold og
-partnerdrap. Samtidig fordrer forebygging av
-partnervold og partnerdrap samarbeid, og dermed også utveksling av informasjon. Ofre og gjerningspersoner i partnerdrapssaker har ofte hatt
-en rekke livsutfordringer som har medført kontakt med flere instanser, se også kapittel 11.
-Instansene kan alle sitte med bruddstykker av
-informasjon. Ved å samarbeide om en sak, vil hjelpeapparatet kunne få et mer helhetlig og riktig
-bilde av situasjonen. Det vil også kunne bidra til et
-mer
-strukturert,
-effektivt
-og
-treffende
-forebyggingsarbeid.
-8.1.2 Begreper
-Taushetsplikt er en plikt til å hindre at visse opplysninger blir kjent for uvedkommende. Det innebærer både et forbud mot å videreformidle opplysninger, og en plikt til å hindre at opplysninger gjøres tilgjengelig for andre enn dem opplysningene
-gjelder.
-Reglene om taushetsplikt kategoriseres ofte i
-forvaltningsmessig taushetsplikt og yrkesmessig
-taushetsplikt. Den forvaltningsmessige taushetsplikten gjelder for alle som arbeider i offentlige
-forvaltningsorganer. Den yrkesmessige taushetsplikten er knyttet til visse konkrete yrkesutøvere,
-for eksempel helsepersonell og politi.
-Det finnes en rekke begrensninger i taushetsplikten. Disse deles ofte inn i to hovedgrupper –
-opplysningsrett og opplysningsplikt. Opplysningsrett betyr at den som har en opplysning i visse
-situasjoner kan velge at opplysningen skal videre-
-
-formidles. Felles for reglene om opplysningsrett
-er at andre hensyn veier tyngre enn hensynene
-bak taushetsplikten.343 Hensynet til samarbeid
-mellom instanser kan for eksempel, etter omstendighetene, veie tyngre enn hensynet til den enkeltes personvern.
-Opplysningsplikt innebærer et taushetsforbud, og betyr at en har plikt til å videreformidle
-opplysninger. Formålet med bestemmelser om
-opplysningsplikt er å varsle om en hendelse eller å
-hindre hendelsen fra å skje, og opplysningsplikten
-kan derfor også betegnes som en varslingsplikt
-eller hindringsplikt. En opplysningsplikt går foran
-eventuell lovbestemt taushetsplikt. Etter omstendighetene kan en være pålagt både taushetsplikt
-og opplysningsplikt om den samme opplysningen.
-En lærer vil for eksempel kunne være pålagt både
-taushetsplikt etter reglene i forvaltningsloven og
-opplysningsplikt til barneverntjenesten etter barnevernloven om de samme opplysningene knyttet
-til et barn.
-
-8.1.3
-
-Forholdet mellom forvaltningsloven
-og særlovgivningen
-
-Regelverket om taushetsplikt og informasjonsutveksling er komplekst og fragmentarisk. Rettsreglene er spredt i ulike lover, og har til dels ulike
-formuleringer.344
-Hovedreglene for den forvaltningsmessige
-taushetsplikten følger av forvaltningsloven. Forvaltningslovens regler gjelder for ethvert organ
-for stat eller kommune, jf. forvaltningsloven § 1.
-Forvaltningsloven omfatter dermed de fleste
-343
-
-Kjelland (2017) s. 157. Reglene om taushetsplikt og informasjonsutveksling i forvaltningen bygger på en avveining
-av forskjellige og til dels motstridende hensyn. Se også
-NOU 2019: 5 Ny forvaltningslov s. 292–293.
-344
-Ved behandling av personopplysninger gjelder også personopplysningsloven, som inkorporerer EUs personvernforordning (General Data Protection Regulation (GDPR)). I
-tillegg gir Grunnloven og EMK konstitusjonelle og menneskerettslige føringer for regelverket. Utvalget går ikke
-nærmere inn på dette, men viser til fremstillingen i NOU
-2019: 5 kapittel 19 med videre henvisninger.
-
-[Side 106]
-
-104
-
-Kapittel 8
-
-NOU 2020: 17
-Varslede drap?
-
-instansene i hjelpeapparatet som kan være involvert i arbeidet med å forebygge partnervold og
-partnerdrap.
-Flere instanser og/eller yrkesgrupper er regulert i særlover, og reglene i disse lovene går foran
-reglene i forvaltningsloven, jf. forvaltningsloven
-§ 1. Dette gjelder for eksempel helsepersonell og
-politi. Felles for regelsettene om yrkesmessig
-taushetsplikt er at de gir en strengere taushetsplikt enn den forvaltningsmessige taushetsplikten
-gir. Ansatte i hjelpeapparatet vil ofte være underlagt både yrkesmessig og forvaltningsmessig
-taushetsplikt. Dette gjelder for eksempel leger
-som arbeider på et sykehus. Disse vil være underlagt forvaltningsloven fordi de er ansatt i et forvaltningsorgan, og helsepersonelloven fordi de er
-helsepersonell. Taushetspliktsreglene i helsepersonelloven vil i slike tilfeller gå foran forvaltningslovens taushetspliktsregler, og de forvaltningsrettslige reglene vil gjelde supplerende.
-
-Forholdet mellom taushetsplikt,
-opplysningsrett og opplysningsplikt
-Det finnes ulike regler for når rett og/eller plikt til
-å utlevere ellers taushetsbelagte opplysninger inntreffer. Dette betyr at det er ulike terskler for når
-en kan, eller må, varsle andre instanser. I noen tilfeller er det straffbart å bryte taushetsplikten ved
-å utlevere opplysninger, mens i andre tilfeller er
-det straffbart ikke å utlevere opplysninger ved å
-varsle. I mange tilfeller kan også informasjon
-deles selv om en ikke er forpliktet til å gjøre det.
-Brudd på taushetsplikten kan straffes etter
-straffeloven §§ 209 og 210.345 Det finnes også
-enkelte straffebestemmelser i særlovgivningen.346 Brudd på avvergeplikten kan også straffes
-
-Opplysningsplikt
-
-Opplysningsrett
-
-Taushetsplikt
-
-Figur 8.1 Forholdet mellom taushetsplikt,
-opplysningsrett og opplysningsplikt
-
-8.1.4
-
-345
-
-Disse straffebestemmelsene gjelder for brudd på både forvaltningsmessig og yrkesmessig taushetsplikt. Vurderingen av om taushetsplikten er brutt beror på en vurdering
-av det aktuelle rettsgrunnlaget for taushetsplikten. Det er
-bare forsettlige eller grovt uaktsomme brudd på taushetsplikten som kan straffes. Det skal dermed en del til for å bli
-straffet for brudd på taushetsplikten. Dersom en deler en
-taushetsbelagt opplysning med et saklig formål om å varsle
-noen for å hindre et straffbart forhold, vil en neppe straffes
-for å ha brutt taushetsplikten. En kan likevel ikke fortelle
-mer enn det som er nødvendig for å aktivere mottakers
-aktivitetsplikt, altså ikke mer enn det som er nødvendig for
-at mottaker skal kunne iverksette tiltak for å forebygge det
-straffbare forholdet. Dersom en deler den taushetsbelagte
-opplysningen for å tilfredsstille mottakers nysgjerrighet, vil
-det kunne være et grovt brudd på taushetsplikten, se Matningsdal (2017) s. 304 flg.
-346 Se for eksempel helsepersonelloven § 67 første ledd.
-
-etter straffeloven § 196. Forholdet mellom taushetsplikt, opplysningsrett og opplysningsplikt kan
-illustreres ved en figur, se figur 8.1.
-Utvalget vil i punkt 8.3 redegjøre for avvergeplikt og opplysningsplikt som gjelder uavhengig
-av taushetsplikten. I punkt 8.4 vil utvalget redegjøre for hovedtrekkene i, og begrensningene
-ved, den forvaltningsmessige taushetsplikten. Der
-det gjøres relevante utvidelser, innskrenkninger
-eller presiseringer i relevant særlovgivning, vil
-utvalget presisere dette. I punktene 8.6 og 8.7 vil
-utvalget redegjøre for hovedtrekkene i den yrkesmessige taushetsplikten for henholdsvis politi og
-helsepersonell. Utvalget går ikke nærmere inn på
-reglene for yrkesmessig taushetsplikt for familievernkontor,347 eller på advokaters taushetsplikt.348
-Utvalget understreker at dette kapittelet ikke
-gir en uttømmende oversikt over aktuelt regelverk. Gjennomgangen danner grunnlag for å vurdere hjelpeapparatets håndtering av sakene før
-drapet i saksgjennomgangen, se del 4.
-347
-
-Det følger av familievernkontorloven § 5 at enhver som
-utfører arbeid eller tjenester for et familievernkontor har
-taushetsplikt etter helsepersonelloven §§ 21 og 23, med
-mindre noe annet fremgår av loven.
-348
-Den alminnelige regelen om taushetsplikt for advokater og
-dennes hjelpere er straffeloven § 211. Se også Advokatforskriften kapittel 12, punkt 2.3.
-
-[Side 107]
-
-NOU 2020: 17
-Varslede drap?
-
-8.2
-
-Kort om erfaringer med
-regelverket
-
-Det synes å være bred enighet om at regelverket
-om taushetsplikt og informasjonsutveksling er
-fragmentert og komplekst. Olsenutvalget så blant
-annet på kommunikasjon mellom helsetjenesten
-og politiet før drapet i saker hvor gjerningspersonen hadde en kjent psykisk lidelse, se også punkt
-6.2.3. Utvalget fant at det før drapet var til dels dårlig kommunikasjon mellom ulike behandlere
-innenfor samme nivå og mellom ulike behandlingsnivåer. Utvalget skrev blant annet følgende
-om forståelsen av regelverket:
-«I hovedsak synes det å være liten tvil om forståelsen av taushetspliktsbestemmelsenes
-hovedregel […] Det er imidlertid de ulike lovbestemte unntak fra taushetsplikten som synes
-å volde tvil. Usikkerhet med hensyn til hvordan
-regelverket er å forstå, og redsel for å komme i
-skade for å bryte taushetsplikten, kan innebære at ulike etater eller ulikt personell vegrer
-seg for samarbeid med andre etater, også i situasjoner hvor etaten har rett eller plikt til å gi
-opplysninger til en annen etat.»349
-Norsk Institutt for forskning om oppvekst, velferd
-og aldring (NOVA) gjennomførte i 2012–2013 en
-kartlegging av rettsoppfatninger og praktisering
-av bestemmelser om taushetsplikt, opplysningsplikt og opplysningsrett.350 Kartleggingen viste
-blant annet at det særlig er reglene om unntak fra
-taushetsplikten som er lite kjent, for eksempel
-reglene om ekstern informasjonsutveksling, se
-punkt 8.5.3.4. Kartleggingen viste videre at informantene var varsomme med å dele ellers taushetsbelagt informasjon uten samtykke fra den
-opplysningen gjaldt, til tross for at lovverket ga
-hjemmel for dette. Kartleggingen viste også at
-opplysningsplikten til barneverntjenesten var
-godt kjent, og at opplysningsplikten til politiet var
-mindre kjent.351
-Barnevoldsutvalget fant i sin saksgjennomgang at det rådet stor usikkerhet i tjenestene, spesielt i helsetjenestene, om tolkningen og praktiseringen av reglene om taushetsplikt, opplysningsplikt, opplysningsrett og avvergeplikt. Utvalget så
-også flere eksempler på brudd på opplysningsplikten til barneverntjenesten.352
-Forvaltningslovutvalget pekte på at forvaltningslovens bestemmelser om taushetsplikt og
-349
-350
-
-NOU 2010: 3 s. 113.
-Funnene er presentert i Stang (2013).
-
-105
-
-Kapittel 8
-
-utveksling av taushetsbelagte opplysninger er innfløkte, og at de reiser flere tolkningsspørsmål som
-skaper usikkerhet i praksis. Utvalget merket seg
-særlig at reglene om deling av taushetsbelagte
-opplysninger oppfattes som vanskelig tilgjengelig.
-I utredningen heter det:
-«Når man ser dette i sammenheng med at
-brudd på taushetsplikten er straffbart, jf. straffeloven §§ 209 og 210, kan man neppe se bort
-fra at forvaltningen i noen tilfeller er mer tilbakeholden med å utveksle opplysninger enn det
-hensynet til parten eller samfunnsmessige
-hensyn tilsier.»353
-
-8.3
-
-Avvergeplikt og opplysningsplikt
-
-8.3.1 Innledning
-I noen situasjoner har privatpersoner, offentlig
-ansatte og andre yrkesgrupper plikt til å opplyse,
-varsle eller handle, uten hensyn til eventuell taushetsplikt. Dette innebærer at ellers taushetsbelagte opplysninger i noen tilfeller skal videreformidles, uavhengig av om den opplysningene gjelder samtykker til dette. Formålet med pliktene er
-å sikre at taushetsplikten ikke blir et hinder for å
-løse akutte og alvorlige situasjoner der flere
-instanser og etater må involveres, og å forebygge
-situasjoner der liv og helse står i fare.354 Den som
-er omfattet av en slik plikt skal likevel ikke oppgi
-flere opplysninger enn nødvendig – en kan og skal
-si nok til at mottakeren får en aktivitetsplikt, men
-heller ikke mer.355 En person som oppgir ellers
-taushetsbelagte opplysninger for å varsle hjelpeapparatet om at en kvinne utsettes for partner351
-
-Stang (2013) s. 9. En norsk studie undersøkte også profesjonsutøveres skjønnsutøvelse i spenningen mellom taushetsplikt, meldeplikt og avvergeplikt. Det ble blant annet
-funnet at bare 11 prosent av lærerne og 20 prosent av
-prestene ville meldt fra til politiet i en situasjon hvor en elev
-fortalte om bekymring for en medelev, som følge av blant
-annet partnervold hjemme. Med utgangspunkt i en forståelse av taushetsplikten som total, absolutt, vanntett eller
-streng, argumenterte de fleste prestene i undersøkelsen
-for at det enten var betroeren selv eller barnevernet som
-måtte melde fra til politiet. Prestene ville ikke kontakte
-politi eller barnevern uten samtykke. Et klart flertall av
-lærerne argumenterte for at det var barnevernet, foreldrene, skolens ledelse eller helsesøster, som i det gitte
-eksempelet, hadde ansvar for å melde fra til politiet. Studien viste også at rektorene på alle informantenes skoler
-krevde at meldinger ble sendt tjenestevei til ledelsen. Se
-Leer-Salvesen (2016) s. 136 flg.
-352
-NOU 2017: 12 s. 130.
-353
-NOU 2019: 5 s. 272.
-354
-Stang mfl. (2013) s. 80–81.
-355
-Se straffeloven §§ 209 og 210. Se også punkt 8.1.4.
-
-[Side 108]
-
-106
-
-NOU 2020: 17
-
-Kapittel 8
-
-Varslede drap?
-
-vold, vil imidlertid neppe straffes for brudd på
-taushetsplikten.
-Det finnes ingen regler i forvaltningsloven
-som pålegger opplysningsplikt. Reglene om opplysningsplikt følger av særlovgivningen.
-Det er tre plikter som er særlig relevante for
-forebygging av partnerdrap: avvergeplikten, opplysningsplikt til barneverntjenesten og helsepersonells plikt til å varsle nødetater.356
-
-8.3.2
-
-Avvergeplikt357
-
-8.3.2.1 Innledning
-Avvergeplikten følger av straffeloven § 196, se
-boks 8.1. Den innebærer at vi alle358 har plikt til å
-søke å avverge visse straffbare handlinger, blant
-annet drap, grov vold, grove seksuallovbrudd og
-mishandling i nære relasjoner. Avvergeplikten er
-et viktig virkemiddel for å forebygge alvorlig partnervold og partnerdrap. Riksadvokaten har bedt
-påtalemyndigheten om å vurdere overholdelse av
-avvergeplikten i saker om gjentatt vold og seksuelle overgrep mot barn. Riksadvokaten har også,
-med henvisning til partnerdrap, minnet om at
-356
-
-Andre plikter som gjelder uten hensyn til taushetsplikten
-er for eksempel plikten til å hjelpe en person i nød og
-ulykke etter straffeloven § 287, plikten til å avverge
-kjønnslemlestelse etter straffeloven § 284 og plikten til å
-opplyse om uriktig tiltale eller domfellelse etter straffeloven § 226. Se for eksempel Holmboe (2017) for en gjennomgang av disse reglene.
-357
-Dette punktet bygger på Holmboe (2017).
-358
-Med «alle» menes her alle innbyggerne i landet, uavhengig
-av om de er privatpersoner, politi, prest eller andre yrkesutøvere.
-
-avvergeplikten gjelder der voksne personer er
-ofre.359 Bestemmelsen om avvergeplikt kommer
-likevel sjelden til anvendelse.360
-Det kan utledes to unntak fra avvergeplikten,
-se straffeloven § 196 siste ledd bokstav a og b.
-Utvalget går ikke nærmere inn på unntakene.
-
-8.3.2.2 Forholdet til taushetsplikten
-Avvergeplikten gjelder uavhengig av taushetsplikt, jf. straffeloven § 196 første ledd.361 Dette
-innebærer at den også gjelder yrkesgrupper som
-en kan tro har absolutt taushetsplikt, for eksempel
-leger, psykologer, politi, krisesenteransatte, advokater og prester. Dersom en lege får kunnskap
-som tilsier at pasienten eller andre sikkert eller
-mest sannsynlig vil utsettes for, eller selv begå, en
-straffbar handling som omfattes av avvergeplik359
-
-Riksadvokatens rundskriv nr. 1 (2017) s. 8.
-Se for eksempel Ot.prp. nr. 8 (2007–2008) s. 260–261 og
-NOU 2017: 12 s. 144 flg.
-361
-Dette ble tilføyd bestemmelsen ved en lovendring i 2010.
-Endringen var ment som en presisering av hva som allerede ble ansett å være gjeldende rett. Det rettslige grunnlaget for taushetsplikten er uten betydning, se Prop. 116 L
-(2009–2010) s. 19. Stortinget vedtok nylig endringer i straffeloven § 196. Endringene ble sanksjonert 4. desember
-2020 og vil tre i kraft 1. januar 2021. Endringene innebærer
-blant annet at vilkåret «straffbar handling» er erstattet med
-«lovbrudd», og at avvergeplikten er utvidet til å omfatte
-flere lovbrudd, herunder straffeloven § 131 om terrorhandlinger, § 133 om terrorforbund, § 240 om alvorlig miljøkriminalitet, § 253 om tvangsekteskap, § 258 om grov menneskehandel og § 303 om grov seksuell omgang mv. med barn
-mellom 14 og 16 år. I tillegg flyttes plikten til å avverge
-kjønnslemlestelse i § 284 tredje ledd til straffeloven § 196.
-Plikten til å avverge kjønnlemlestelse får dermed et utvidet
-anvendelsesområde, jf. Prop. 66 L (2019–2020) s. 15 flg. og
-s. 157–158, jf. Innst. 41 L (2020–2021) s. 3–4.
-360
-
-Boks 8.1 Straffeloven § 196 Plikt til å avverge et straffbart forhold
-b) militær straffelov §§ 50, 52 eller 96, eller
-Med bot eller fengsel inntil 1 år straffes den som
-c) sikkerhetsloven § 7-5, jf. § 11-4.
-unnlater gjennom anmeldelse eller på annen
-måte å søke å avverge en straffbar handling eller
-Ved overtredelse av §§ 312 eller 314 gjelder
-følgene av den, på et tidspunkt da dette fortsatt
-avvergingsplikten bare når den fornærmede er
-er mulig og det fremstår som sikkert eller mest
-under 16 år.
-sannsynlig at handlingen er eller vil bli begått.
-Brudd på avvergingsplikten straffes ikke når
-Avvergingsplikten gjelder uten hensyn til tausa) handlingen det er tale om å avverge ikke har
-hetsplikt og gjelder straffbare handlinger som
-kommet så langt som til straffbart forsøk, jf.
-nevnt i
-§ 16, eller
-a) §§ 111, 113, 115, 117, 119, 121, 123, 128, 129,
-b) plikten ikke kunne oppfylles uten å utsette
-138, 139, 140, 141, 142, 143, 144, 192, 193,
-ham selv, hans nærmeste eller noen uskyldig
-194, 223, 238, 239, 255, 256, 259, 274, 275,
-for siktelse eller tiltale eller fare for liv, helse
-279, 282, 283, 288, 291, 295, 299, 312, 314,
-eller velferd.
-327, 329, 355 og 357,
-
-[Side 109]
-
-NOU 2020: 17
-Varslede drap?
-
-ten, skal legen søke å avverge dette, til tross for at
-taushetsbelagte opplysninger røpes. Behandlere
-kan i mange tilfeller stå overfor vanskelige avveininger mellom sannsynlighet for at et lovbrudd vil
-skje, og risiko for at tillitsforholdet til pasienten
-skades som følge av at sensitive opplysninger
-deles for å avverge en hendelse. Til tross for at
-spenningsforholdet mellom avvergeplikten og
-taushetsplikten kan utløse både rettslige og etiske
-dilemmaer, er det avvergeplikten som er absolutt
-– ikke taushetsplikten. I krevende situasjoner kan
-også avvergeplikten ses som en håndsrekning til
-yrkesutøvere fordi den fritar dem fra taushetsplikten.362
-Den som er pålagt avvergeplikt kan ikke røpe
-mer taushetsbelagt informasjon enn det som er
-nødvendig for å avverge det aktuelle lovbruddet.
-En lege som varsler politiet eller barneverntjenesten skal for eksempel ikke oversende hele
-journalen ufiltrert.363 Se også punktene 8.1.4 og
-8.3.1.
-
-8.3.2.3 Handleplikten
-Den som har kunnskap om et fremtidig lovbrudd
-plikter «gjennom anmeldelse eller på annen måte
-å søke å avverge en straffbar handling eller følgene av den», jf. straffeloven § 196 første ledd.
-Dette betyr at avvergeplikten for det første rammer den som unnlater å forsøke å hindre at et
-straffbart forhold skjer. For det andre rammes
-den som unnlater å forsøke å begrense konsekvensene av et straffbart forhold som allerede har
-skjedd. Det er med andre ord bare den som har
-kunnskap om fremtidige hendelser som har avvergeplikt.364
-Avvergeplikten består frem til den straffbare
-handlingen er fullbyrdet, eller til det ikke er flere
-følger å avverge. Ved et sammenhengende straffbart forhold gjelder avvergeplikten inntil forholdet er avsluttet.365 Som regel vil mishandling i
-nære relasjoner være et sammenhengende straffbart forhold, se straffeloven §§ 282 og 283.366
-362
-
-Holmboe (2017) s. 47–48. En litteraturstudie har også vist
-at partnervoldsutsatte er positive til regler som pålegger
-ansatte i hjelpeapparatet å varsle om partnervold. Studien
-viser for øvrig at det har vært forsket lite på avvergeplikt i
-relasjon til partnervold, se Vatnar, Leer-Salvesen og Bjørkly
-(2019).
-363
-Holmboe (2017) s. 70 og 146.
-364
-Matningsdal (2017) s. 256 og Holmboe (2017) s. 71–72.
-365
-Matningsdal (2017) s. 255.
-366
-Matningsdal (2020) note 1809. Se også Rt. 2013 s. 329 og
-HR-2017-667-A om hva som kan regnes som et fortsatt forhold.
-
-107
-
-Kapittel 8
-
-Avvergeplikten kan oppfylles «gjennom anmeldelse eller på annen måte», jf. straffeloven § 196
-første ledd første punktum. Kjernen i handleplikten er at en skal forsøke å avverge lovbruddet,
-eller følgene av det, på mest mulig effektiv måte.
-Selv om anmeldelse eller varsel til politiet i de
-fleste tilfeller vil være den viktigste og mest praktiske avvergingshandlingen, innebærer ikke handleplikten en absolutt plikt til å varsle politiet.367
-Holmboe, Leer-Salvesen og Vatnar forklarer dette
-med et eksempel om partnervold:
-«Dersom en kvinne forteller sin lege at mannen har slått henne gjentatte ganger, kan et
-naturlig første skritt være å bidra til at hun får
-opprettet kontakt med relevant hjelpeapparat
-slik som krisesenter og familievernkontor.
-Legen kan også tilby å opprette kontakt med
-politiets familievoldskoordinator, dersom kvinnen samtykker til dette. Følger pasienten
-legens råd, har legen gjort det som kreves for
-å søke å avverge nye lovbrudd. Dersom legen
-derimot holder det som mest sannsynlig at
-kvinnen vil bli hos mannen, kan legen få en
-plikt til å melde fra til politiet uavhengig av
-kvinnens samtykke.»368
-
-8.3.2.4 Kunnskapskravet
-For at avvergeplikten skal gjelde, må man ha holdt
-det som sikkert eller mest sannsynlig at det aktuelle lovbruddet skjer eller vil skje, jf. straffeloven
-§ 196 første ledd.369 I en del tilfeller, særlig i saker
-om (gjentakende) partnervold, vil denne vurderingen gjøres på bakgrunn av andre, allerede
-utførte handlinger. Dersom de tidligere handlingene er mindre alvorlig vold, er det ikke sikkert at
-367
-
-Ot.prp. nr. 8 (2007–2008) s. 349 og Matningsdal (2017) s.
-256. For ansatte i barnevernet kan det også være aktuelt å
-søke å avverge fremtidige straffbare handlinger på andre
-måter enn ved å varsle politiet, for eksempel ved å treffe
-vedtak om omsorgsovertakelse etter barnevernloven § 4-12
-eller akuttvedtak etter barnevernloven § 4-6. Dette kan
-være aktuelt i tilfeller hvor barneverntjenesten mottar opplysninger om at et barn lever med vold i hjemmet. Om det
-er tilstrekkelig å treffe et barneverntiltak for å overholde
-avvergeplikten etter straffeloven § 196, må vurderes konkret. Dersom barnevernet finner at den tryggeste løsningen er å orientere politiet, må det være forsvarlig. For øvrig
-vil barnevernet i en del tilfeller trenge hjelp av politiet til å
-gjennomføre akuttvedtak, og i de sakene må politiet uansett varsles, se Holmboe (2017) s. 149.
-368
-Holmboe, Leer-Salvesen og Vatnar (2019a) s. 119.
-369
-Før 2010 krevdes det at en hadde «pålitelig kunnskap» om
-den fremtidige straffbare handlingen. I 2010 ble kunnskapskravet endret for å gjøre avvergeplikten mer effektiv,
-se Holmboe (2017) s. 81 og Ot.prp. nr. 8 (2007–2008) s.
-260–261.
-
-[Side 110]
-
-108
-
-NOU 2020: 17
-
-Kapittel 8
-
-Varslede drap?
-
-disse rammes av en straffebestemmelse som
-omfattes av straffeloven § 196. Spørsmålet er,
-ifølge Holmboe, Leer-Salvesen og Vatnar, om det
-en allerede vet gir tilstrekkelig grunn til å holde
-det som «mest sannsynlig» at straffebud som er
-omfattet av avvergeplikten vil bli overtrådt. Vold
-og trusler i nære relasjoner kan ofte eskalere, og
-enkeltstående handlinger kan indikere et handlingsmønster som etter hvert vil gå over i mishandling og rammes av straffeloven § 282 om mishandling i nære relasjoner. Her må den enkelte
-bruke sitt (faglige) skjønn og vurdere om en slik
-utvikling er «mest sannsynlig».370 Hva som skal til
-for at en person skal holde dette som «mest sannsynlig», avhenger av vedkommendes kunnskap
-og bakgrunn.371 Sentralt i vurderingen bør være
-om situasjonen var slik at det for en alminnelig
-borger, ut fra en etisk vurdering, ville være naturlig å forsøke å avverge den.372 Som ved andre
-straffebestemmelser, må det tas utgangspunkt i
-hvordan den enkelte opplevde situasjonen, jf.
-straffeloven § 25. Det er grunn til å understreke at
-det ikke er avvergerens ansvar å bevise at det er
-hold i mistanken som leder til varsling i tråd med
-avvergeplikten. Det påhviler den instansen, som
-regel politiet, som skal undersøke saken videre.373
-
-8.3.2.5
-
-Straffebud som omfattes av
-avvergeplikten
-
-De straffbare handlingene som omfattes av avvergeplikten er uttømmende opplistet i straffeloven
-§ 196, se boks 8.1 i punkt 8.3.2.1. Det er en rekke
-volds- og seksuallovbrudd som er omfattet, blant
-annet drap og mishandling i nære relasjoner.
-Det kan i mange tilfeller være vanskelig å vurdere hvilken straffebestemmelse en handling
-omfattes av, særlig før lovbruddet er begått. Når
-det gjelder bestemmelsene om mishandling i
-nære relasjoner i straffeloven §§ 282 og 283, kan
-det for eksempel være uklart hvilke handlinger
-som omfattes av straffeloven § 282. Mishandling i
-nære relasjoner er «alvorlig eller gjentatt» mishandling i form av «trusler, tvang, frihetsberøvelse, vold eller andre krenkelser», jf. straffeloven
-§ 282 første ledd. Enkeltstående tilfeller av de opplistede handlingene i bestemmelsen rammes i
-utgangspunktet av egne straffebestemmelser, se
-
-punkt 3.2.2. De fleste av disse bestemmelsene er
-ikke omfattet av avvergeplikten. Om en for eksempel holder det som sikkert eller mest sannsynlig
-at en person vil bli utsatt for vold i henhold til
-straffeloven § 273, er det altså ikke nødvendigvis
-nok til å etablere en avvergeplikt.374 Grov frihetsberøvelse etter § 255 og grov kroppsskade etter
-§ 274 kan for øvrig være elementer i mishandling i
-nære relasjoner, men vil også på selvstendig
-grunnlag utløse en avvergeplikt. Det kan i noen
-tilfeller være vanskelig å vurdere hvor den nedre
-grensen for mishandling i nære relasjoner går, og
-dermed også når avvergeplikten gjelder.375
-Dersom en lege får kunnskap om at en person
-er utsatt for et enkeltstående tilfelle av mindre alvorlig partnervold, vil det nok for det fleste ha formodningen for seg at volden vil kunne gjenta seg. Til
-tross for at det aktuelle straffbare forholdet ikke
-omfattes av avvergeplikten, må legen ha rett til å
-avverge uten å bryte taushetsplikten. Det må også
-godtas at legen, uten hensyn til taushetsplikten, rådfører seg med kolleger eller politiet for å vurdere
-situasjonen.376 Legen vil imidlertid neppe kunne
-straffes for å unnlate å avverge i et slikt tilfelle.
-
-8.3.2.6 Avvergerett
-Den som ikke er underlagt taushetsplikt kan alltid
-varsle politiet om et fremtidig lovbrudd – uavhengig av om avvergeplikten gjelder. Spørsmålet om
-en har rett til å varsle om fremtidige lovbrudd i tilfeller hvor en ikke har plikt til det, kommer først
-på spissen når opplysningene om det potensielle
-lovbruddet er taushetsbelagt og den opplysningene gjelder ikke har samtykket til at opplysningene videreformidles. Spørsmålet kan for eksempel oppstå hvis den straffbare handlingen en
-ønsker å avverge, ikke rammes av bestemmelsen
-om avvergeplikt, eller i tilfeller hvor kunnskapskravet etter straffeloven § 196 ikke er oppfylt. Vurderingen av om det foreligger avvergerett må gjøres etter en avveining av kryssende hensyn: hensynene bak taushetsplikten på den ene siden og
-hensynet til å avverge en potensielt straffbar
-handling på den andre siden. Det vil i denne vurderingen kunne ha betydning om det foreligger
-nødrett etter straffeloven § 17 eller nødverge etter
-straffeloven § 18.377 Ved tvil kan også politiet i første omgang kontaktes uten å røpe taushetsbelagt
-
-370
-
-Holmboe, Leer-Salvesen og Vatnar (2019a) s. 128.
-Holmboe, Leer-Salvesen og Vatnar (2019a) s. 272. Profesjonsutøvere med erfaring fra feltet vold i nære relasjoner
-vil ofte ha et godt grunnlag for å utøve sitt faglige skjønn.
-372
-Prop. 66 L (2019–2020) s. 158.
-373
-Holmboe, Leer-Salvesen og Vatnar (2019b) s. 279.
-371
-
-374
-
-Holmboe, Leer-Salvesen og Vatnar (2019a) s. 126.
-
-375 Holmboe, Leer-Salvesen og Vatnar (2019a) s. 122.
-376
-377
-
-Holmboe (2017) s. 76.
-Holmboe (2017) s. 121. Utvalget går ikke nærmere inn på
-nødrett og nødverge.
-
-[Side 111]
-
-NOU 2020: 17
-Varslede drap?
-
-informasjon. Utvalget går ikke nærmere inn på
-grensen for avvergerett.
-
-–
-–
-
-8.3.3
-8.3.3.1
-
-Opplysningsplikt til
-barneverntjenesten
-Innledning
-
-Hovedregelen om opplysningsplikt til barneverntjenesten følger av barnevernloven § 6-4. 378
-I tillegg finnes det bestemmelser om opplysningsplikt til barneverntjenesten i en rekke særlover.379 Opplysningsplikten innebærer en plikt
-til å melde fra til barneverntjenesten i ulike situasjoner med bekymring for et barn. Opplysningsplikten til barneverntjenesten gjelder for
-alle som arbeider i offentlige instanser og tjenester, og for organisasjoner og private som
-utfører arbeid eller tjeneste for stat, fylkeskommune eller kommune. Opplysningsplikten til
-barneverntjenesten gjelder også for barnevernet selv, for eksempel i tilfeller hvor barneverntjenesten mistenker vold i en familie som flytter
-til en annen kommune.
-Erfaring viser at opplysningsplikten til barneverntjenesten ikke alltid overholdes. Barnevoldsutvalget fant blant annet eksempler på saker hvor
-flere aktører hadde misligholdt meldeplikten.380
-Bendiksen og Haugli har gitt uttrykk for at årsakene til at meldeplikten ikke overholdes trolig er
-flere og sammensatte. Forfatterne peker blant
-annet på manglende kunnskap, manglende opplæring/erfaring i å se tegn hos barn, vanskelig
-regelverk og frykt for å ta feil, som mulige årsaker. I tillegg kan ønsket om å bevare tillitsforhold,
-identifisering med foreldre eller en oppfatning av
-at situasjonen ikke er så alvorlig, spille inn.381
-
-8.3.3.2 Meldeplikt av eget tiltak
-Enhver som utfører tjeneste eller arbeid for et forvaltningsorgan skal uten ugrunnet opphold melde
-fra til barneverntjenesten i tilfeller hvor det er
-grunn til å tro at:
-378
-
-Barnevernloven § 6-4 ble endret i 2018 ved lov 20. april
-2018 nr. 5 om endringer i barnevernloven m.v., og endringen trådte i kraft 1. juli 2018. Denne endringen er en del
-av en omfattende revisjon av barnevernlovgivningen. For
-oversikt over dette arbeidet, se for eksempel Bendiksen og
-Haugli (2018) s. 172–177.
-379
-Se for eksempel helsepersonelloven § 33, barnehageloven
-§ 22, opplæringslova § 15-3, friskolelova § 7-4, sosialtjenesteloven § 45, folketrygdloven § 25-11, introduksjonsloven §
-26, ekteskapsloven § 26 a og krisesenterlova § 6.
-380 NOU 2017: 12 s. 52–53.
-381
-Bendiksen og Haugli (2018) s. 304.
-
-–
-
-–
-
-109
-
-Kapittel 8
-
-et barn blir eller vil bli mishandlet, utsatt for
-alvorlige mangler ved den daglige omsorgen
-eller annen alvorlig omsorgssvikt,
-et barn har en livstruende eller annen alvorlig
-sykdom eller skade og ikke kommer til undersøkelse eller behandling, eller at et barn med
-nedsatt funksjonsevne eller et spesielt hjelpetrengende barn ikke får dekket sitt særlige
-behov for behandling eller opplæring,
-et barn viser alvorlige atferdsvansker i form av
-alvorlig eller gjentatt kriminalitet, misbruk av
-rusmidler eller en annen form for utpreget
-normløs atferd, eller
-et barn blir eller vil bli utnyttet til menneskehandel.
-
-Kravet om at det må være «grunn til å tro» at et
-barn befinner seg i en av overnevnte situasjonene,
-betyr at det må foreligge en begrunnet bekymring
-eller mistanke. Det stilles ikke krav om sikker
-viten eller sannsynlighetsovervekt, men det kreves noe mer enn bare en vag mistanke.382 Det
-avgjørende er om de faktiske forholdene i saken
-tilsier at det er naturlig å melde fra om dem.383
-Spørsmålet om det foreligger meldeplikt, beror
-alltid på en konkret vurdering av barnets situasjon. Ved tvil kan vedkommende også drøfte
-saken anonymt med barneverntjenesten eller
-andre fagpersoner.
-Meldeplikten gjelder «enhver» som utfører tjeneste eller arbeid for et forvaltningsorgan. Dette
-betyr at plikten til å melde fra er personlig. Vurderingen kan verken overlates til kolleger, ledere
-eller andre instanser. Den enkelte ansatte kan heller ikke la seg instruere til ikke å melde fra. Dersom en lærer mener det er grunn til å melde fra,
-har vedkommende plikt til dette, uavhenging av
-om rektor er uenig.384
-Meldeplikten er også et myndighetsansvar.
-Dette betyr at både staten, fylkeskommunene og
-382
-
-Prop. 169 L (2016–2017) s. 123–129
-Holmboe (2017) s. 135–136. Flere instanser har også en
-oppmerksomhetsplikt overfor barns behov for tiltak fra
-barnevernet, se krisesenterlova § 6 første ledd, barnehageloven § 22 første ledd, opplæringslova § 15-3 første ledd, friskolelova § 7-4 første ledd og sosialtjenesteloven § 45 første
-ledd. Oppmerksomhetsplikten er videre enn opplysningsplikten til barnevernet. Den innebærer at medarbeidere
-som skal være oppmerksomme på forhold som kan føre til
-tiltak fra barneverntjenesten.
-384
-«Mange skoler har likevel interne instrukser som krever at
-lærere melder bekymring om elevers hjemmeforhold tjenestevei via rektor. Dersom en lærer holder det som mest
-sannsynlig at det forekommer mishandling i nære relasjoner i et hjem, kan ikke rektor overprøve en lærer som
-mener det er grunnlag for å varsle om forholdet», se Holmboe, Leer-Salvesen og Vatnar (2019a) s. 118.
-383
-
-[Side 112]
-
-110
-
-NOU 2020: 17
-
-Kapittel 8
-
-Varslede drap?
-
-kommunene har ansvar for å sikre at ansatte, og
-andre som utfører oppgaver på deres vegne, har
-tilstrekkelig kunnskap om meldeplikten.
-
-8.3.3.3
-
-Opplysningsplikt ved pålegg fra
-barneverntjenesten
-
-De organene som er ansvarlig for gjennomføringen av barnevernloven385 kan i visse tilfeller
-pålegge offentlige myndigheter å gi taushetsbelagte opplysninger, jf. barnevernloven § 6-4 annet
-ledd. I bestemmelsens annet ledd bokstav a–j
-listes det opp i hvilke situasjoner det kan gis slikt
-pålegg.386 Det følger også av bestemmelsens
-tredje ledd at pålegg om å utlevere opplysninger
-kan gis i saker om pålegg av hjelpetiltak etter barnevernloven § 4-4 tredje ledd. Det er barneverntjenesten som skal vurdere om kravene som stilles er oppfylt, men den som mottar pålegget har
-også et selvstendig ansvar for å unngå spredning
-av taushetsbelagte opplysninger.387
-
-8.3.3.4
-
-Brudd på opplysningsplikten til
-barneverntjenesten
-Brudd på opplysningsplikten til barneverntjenesten er ikke straffsanksjonert i barnevernloven.
-Alvorlige brudd på tjenesteplikter kan straffes
-etter straffelovens bestemmelse om tjenestefeil i
-§ 171. Brudd på opplysningsplikten kan også gi
-grunnlag for arbeidsrettslige reaksjoner mot den
-enkelte ansatte. Det kan dessuten tenkes at et
-brudd kan gi grunnlag for erstatningssøksmål
-mot den ansatte eller arbeidsgiveren som ikke har
-overholdt plikten.
-8.3.3.5 Opplysningsrett til barneverntjenesten
-Den som ikke er underlagt taushetsplikt kan alltid
-melde fra til barneverntjenesten om bekymring
-for et barn. Spørsmålet om en har rett til å melde
-fra i tilfeller hvor en ikke har plikt til det, kommer
-først på spissen når opplysningene er taushetsbelagt og den aktuelle familien ikke har samtykket
-til at opplysningene videreformidles.
-
-385
-
-Se barnevernloven §§ 2-1 og 2-2.
-Det er flere bestemmelser i særlovgivningen som fastsetter
-at det aktuelle organet plikter å gi opplysninger etter
-pålegg, i samsvar med barnevernloven § 6-4 annet ledd, se
-for eksempel folketrygdloven § 25-11 tredje ledd, sosialtjenesteloven § 45 tredje ledd, krisesenterlova § 6 tredje ledd,
-barnehageloven § 22 tredje ledd og opplæringslova § 15-3
-tredje ledd.
-387
-Bendiksen og Haugli (2018) s. 306.
-386
-
-Dersom en offentlig ansatt har meldt fra om et
-forhold til barneverntjenesten uten å være forpliktet til det, vil det ikke nødvendigvis innebære et
-straffbart brudd på taushetsplikten. Retten til å
-varsle barneverntjenesten går lenger enn plikten
-til å varsle. Vurderingen av om det foreligger opplysningsrett må gjøres etter en avveining av de
-kryssende hensynene som reglene om taushetsplikt og informasjonsutveksling bygger på, se
-også punkt 8.3.2.6. Den som har varslet barneverntjenesten om bekymring for et barn blir
-neppe straffet for brudd på taushetsplikten.
-
-8.3.4
-
-Helsepersonells plikt til å varsle
-nødetater
-
-Helsepersonell skal varsle politi eller brannvesen
-når det er «nødvendig for å avverge alvorlig skade
-på person eller eiendom», jf. helsepersonelloven
-§ 31. Formålet med helsepersonells opplysningsplikt til andre nødetater er å sikre at nødetatene
-samarbeider om å avverge at alvorlig skade skjer,
-eller å begrense omfanget av en allerede utført
-handling.388 Handlinger som truer en persons sikkerhet, liv eller helse vil kunne gi helsepersonell
-opplysningsplikt etter helsepersonelloven § 31.
-Helsepersonell skal for eksempel varsle politiet
-når de anser at det er konkret fare for at en person
-vil utøve alvorlig vold eller begå partnerdrap. Helsepersonell skal også varsle politiet for å få
-bistand til å sikre et skadested hvor en person har
-blitt utsatt for vold.389
-Helsepersonell vil kunne ha lite tid til rådighet
-for å vurdere varsling i en konkret situasjon. Det
-kreves derfor ikke at vedkommende har sikker
-kunnskap om de reelle forhold i situasjonen. Helsepersonellet vil for eksempel kunne ha plikt til å
-varsle politiet for å avverge et partnerdrap selv om
-vedkommende ikke kan vite sikkert om voldsutøver vil utøve mer alvorlig vold eller begå drap.390
-Opplysningsplikten i helsepersonelloven § 31
-må ses i sammenheng med den mer generelle opplysningsretten i helsepersonelloven § 23 nr. 4, se
-punkt 8.7.3.2. Mens opplysningsplikten tar sikte på
-situasjoner hvor det er nødvendig med hjelp fra
-nødetatene for å avverge alvorlig skade på person
-eller eiendom, tar den mer generelle opplysningsretten sikte på situasjoner hvor tungtveiende pri388
-
-Helsedirektoratet (2015a).
-Stang mfl. (2013) s. 82, Ot.prp. nr. 13 (1998–99) s. 232 og
-Politidirektoratet (2012) s. 7. Opplysningsplikten etter helsepersonelloven § 31 gir ikke hjemmel for å bistå politiet
-med etterforskning.
-390
-Ot.prp. nr. 13 (1998–99) s. 232. Se også Helsedirektoratet
-(2015a) s. 6–7.
-389
-
-[Side 113]
-
-NOU 2020: 17
-Varslede drap?
-
-vate eller offentlige interesser gjør det rettmessig å
-dele opplysningene. Opplysningsretten i § 23 nr. 4
-kan dermed gi mulighet til å avverge fare i situasjoner der vilkårene for opplysningsplikt ikke er oppfylt. Det er imidlertid ikke helt klart hvor grensene
-mellom de to bestemmelsene trekkes.391
-Helsepersonells plikt til å varsle nødetater
-etter helsepersonelloven § 31 går noe lenger enn
-avvergeplikten etter straffeloven § 196, se punkt
-8.4.2.392
-
-8.4
-
-Forvaltningsmessig taushetsplikt
-
-8.4.1 Hva er taushetsbelagt?
-Hovedregelen om forvaltningsmessig taushetsplikt er forvaltningsloven § 13. Opplysninger om
-«personlige forhold» er taushetsbelagt, jf. forvaltningsloven § 13 første ledd nr. 1.393 Opplysninger
-om noens personlige forhold omfatter opplysninger som det er vanlig å ville holde for seg selv, for
-eksempel opplysninger om fysisk og psykisk
-helse, seksuell legning, følelsesliv og visse opplysninger knyttet til familie og hjem.394 I forvaltningsloven § 13 annet ledd listes det opp en del
-opplysninger som ikke anses som personlige forhold; opplysninger om fødested, fødselsdato og
-personnummer, statsborgerforhold, sivilstand,
-yrke, bopel og arbeidssted. Slike opplysninger
-omtales ofte som «nøytrale personopplysninger».
-Nøytrale personopplysninger er likevel underlagt
-forvaltningsmessig taushetsplikt når de røper et
-391
-
-Det vil i stor grad dreie seg om samme type skadevoldende
-situasjoner etter begge bestemmelsene, men retten til å
-dele opplysninger etter § 23 nr. 4 vil inntre noe før plikten
-til å varsle etter § 31. Det stilles etter § 31 større krav til
-påregnelighet for at den skadevoldende hendelsen vil skje,
-selv om det heller ikke etter denne bestemmelsen kreves
-visshet eller sikker kunnskap om at situasjonen kommer til
-å medføre alvorlig skade på liv og helse eller store materielle skader, se Helsedirektoratet (2012) s. 77. Se også
-Befring og Ohnstad (2019) s. 179 og Ot.prp. nr. 13 (1998–
-99) s. 232.
-392
-Dette har sammenheng med at opplysningsplikten etter
-helsepersonelloven § 31 innebærer en plikt til å «varsle
-politi eller brannvesen dersom dette er nødvendig for å
-avverge alvorlig skade på person eller eiendom.» Denne
-plikten favner flere lovbrudd enn de konkrete lovbruddene
-som er listet opp i straffeloven § 196, som utløser avvergeplikt.
-393
-I tillegg er «tekniske innretninger og fremgangsmåter samt
-drifts- og forretningsforhold» taushetsbelagt, jf. forvaltningsloven § 13 første ledd nr. 2. Utvalget går ikke nærmere inn på dette.
-394 Justis- og politidepartementet (2009) s. 79.
-
-111
-
-Kapittel 8
-
-klientforhold eller andre forhold som må anses
-personlige, for eksempel sperret adresse, jf. forvaltningsloven § 13 annet ledd.
-For flere instanser i hjelpeapparatet er det fastsatt en spesialregel i særlovgivningen som innebærer at nøytrale personopplysninger er omfattet
-av taushetsplikten. Dette gjelder medarbeidere i
-barnevernet, på krisesentre, i NAV og i sosialtjenesten.395 Det gjelder også ansatte i spesialisthelsetjenesten og i helse- og omsorgstjenesten som
-ikke er underlagt helsepersonelloven, det vil si
-ansatte som bare utøver forvaltningsmessig virksomhet i helseinstitusjonene.396 Felles for disse
-instansene er at de på ulike måter får tilgang til
-svært sensitive personopplysninger.397 Opplysningene er i seg selv egnet til å røpe det som antas å
-være et sensitivt klientforhold.398 Nøytrale personopplysninger vil for eksempel kunne røpe at
-barnevernet er involvert i en familie. Brukerne av
-krisesentertilbudet befinner seg i spesielt vanskelige livssituasjoner, og flere frykter for eget og
-barnas liv. Det er derfor en viktig trygghet for
-brukerne at medarbeiderne er underlagt en
-streng taushetsplikt.399
-
-8.4.2 Hvem har taushetsplikt?
-Den forvaltningsmessige taushetsplikten gjelder i
-utgangspunktet «enhver som utfører tjeneste eller
-arbeid for forvaltningen», jf. forvaltningsloven
-§ 13 første ledd. Dette omfatter alle ansatte i forvaltningen, i tillegg til medlemmer av råd, utvalg,
-styrer, frivillige medarbeidere, innleide oppdragstakere mv.400
-395
-
-Jf. henholdsvis barnevernloven § 6-7 annet ledd, krisesenterlova § 5 annet ledd, NAV-loven § 7 første ledd og sosialtjenesteloven § 44 annet ledd.
-396
-Jf. spesialisthelsetjenesteloven § 6-1 annet ledd og helse- og
-omsorgstjenesteloven § 12-1 annet ledd.
-397
-Kommunalt ansatte ved et NAV-kontor, barnevernsansatte
-og helsepersonell kan likevel gi opplysninger om en persons oppholdssted når det er klart at det ikke vil skade tilliten til den aktuelle instansen, jf. henholdsvis sosialtjenesteloven § 44 annet ledd, barnevernloven § 6-7 annet ledd,
-helse- og omsorgstjenesteloven § 12-1 annet ledd og spesialisthelsetjenesteloven § 6-1 annet ledd.
-398
-Se blant annet Barne- og familiedepartementet (2005) s. 9
-og Ot.prp. nr. 96 (2008–2009) s. 78–79.
-399
-Ot.prp. nr. 96 (2008–2009) s. 79.
-400
-Det kan være fastsatt i særlovgivningen at forvaltningslovens regler om taushetsplikt også gjelder for private foretak som i utgangspunktet ikke er underlagt forvaltningsloven, se for eksempel barnehageloven § 20 og opplæringslova § 15-1 annet ledd.
+## Politi og rettsvesen
+
+### Politiets og påtalemyndighetens rolle og ansvar for å forebygge partnervold og partnerdrap
+
+Det er Riksadvokaten, som øverste påtalemyndighet, som har overordnet ansvar for straffesaksbehandlingen. Justis- og beredskapsdepartementet og Politidirektoratet har overordnet ansvar for politiets øvrige arbeid. Både politiet og påtalemyndigheten har en sentral rolle i arbeidet med å forebygge partnerdrap. Dette har for politiets del først og fremst sammenheng med politiets samfunnsoppdrag og lovfestede oppgaver. Politiet skal blant annet opprettholde offentlig orden og alminnelig trygghet i samfunnet, søke å forebygge og forhindre straffbare handlinger og beskytte borgerne, jf. politiloven §§ 1 og 2.[^218] Arbeid knyttet til forebygging av partnerdrap omfattes dermed av politiets kjerneoppgaver.[^219] Politiets plikt til å forebygge kriminalitet følger av politiloven § 2 nr. 2. Forebyggingsplikten etter denne bestemmelsen må tolkes vidt; den inkluderer tiltak mot konkrete lovbrudd, og mer generelle tiltak mot kriminalitetens bakenforliggende årsaker, se også punkt 3.2.3.
+
+Påtalemyndighetens overordnede mål er å bidra til redusert kriminalitet gjennom en målrettet og effektiv straffesaksbehandling. Straffesaksbehandlingens bidrag til redusert kriminalitet avhenger først og fremst av at straffbare handlinger blir avdekket og oppklart, at den skyldige blir straffet og at reaksjonen er adekvat.[^220] Det er påtalemyndigheten som har ansvar for å lede etterforskningen av straffbare forhold, og videre avgjøre om det skal reises tiltale, for eksempel i en sak om partnervold.
+
+Påtalemyndigheten består av tre nivåer: Riksadvokaten, statsadvokatembetene og påtalemyndigheten i politiet (integrert påtale). Det er påtalemyndigheten som fører straffesaker for retten. Påtalemyndigheten kan også treffe beslutning om å iverksette en del virkemidler og tiltak, se nedenfor. Dersom iverksettelse av tiltak krever domstolens medvirkning, er det påtalemyndigheten som bringer spørsmålet inn for retten.
+
+Støttesenter for kriminalitetsutsatte
+
+Alle politidistriktene har siden 2017 hatt støttesentre for kriminalitetsutsatte. Støttesentrene erstattet den tidligere ordningen med Rådgivningskontor for kriminalitetsutsatte (RKK). Støttesentrene skal ivareta behovene til personer som har blitt utsatt for kriminalitet, for eksempel vold i nære relasjoner. Tilbudet retter seg primært mot personer som anmelder det de har blitt utsatt for til politiet, men alle som er utsatt for kriminalitet kan oppsøke støttesentrene. Tilbudet om bistand ved støttesenteret gjelder gjennom hele straffesaksprosessen; fra anmeldelse til saken er avgjort.
+
+De fleste som arbeider ved støttesentrene har helse- eller sosialfaglig bakgrunn. Tilbudet til kriminalitetsutsatte består blant annet av psykososial støtte og hjelp, herunder hjelp til å bearbeide det vedkommende har blitt utsatt for og håndtere reaksjoner etter volden. Kriminalitetsutsatte ved støttesentrene skal også få veiledning og hjelp til å etablere kontakt med øvrige deler av hjelpeapparatet.
+
+Dinutvei.no.
+
+\[Boks slutt\]
+
+### Overordnet om politietatens virkemidler i saker om partnervold
+
+Politietatens virksomhet deles i et etterforskningsspor og et forebyggingsspor. Arbeid i forebyggingssporet vil kunne ha betydning for etterforskningssporet, og omvendt. En politipatrulje som rykker ut til en adresse hvor det forekommer partnervold vil for eksempel forebygge ved å beskytte den voldsutsatte, og sikre viktige spor til etterforskningen.
+
+Når det gjelder etterforskningssporet, skal politiet etterforske når det er rimelig grunn til å undersøke om det foreligger et straffbart forhold, jf. straffeprosessloven § 224. Straffebestemmelsene om vold og om mishandling i nære relasjoner er også underlagt offentlig påtale, jf. straffeprosessloven § 62 a.[^221] Dette innebærer at politiet skal opprette sak i tilfeller hvor de får opplysninger om vold i nære relasjoner.[^222] Det kreves ikke at den voldsutsatte eller andre anmelder, eller ønsker å anmelde, saken. Politiet har normalt en viss adgang til å løse bagatellsaker ved en advarsel på stedet uten å opprette sak. Dette kalles OPS («oppgjort på stedet»).[^223] Riksadvokaten fastslo imidlertid i 2008 at det ikke er akseptabelt å behandle saker om familievold som «husbråk», som etter utrykning anses «oppgjort på stedet».[^224] Riksadvokaten har også gitt klare føringer om at saker om vold i nære relasjoner skal prioriteres i straffesaksbehandlingen.[^225]
+
+Når det gjelder forebyggingssporet, har politi og rettsvesen flere virkemidler og tiltak for å beskytte personer som er utsatt for vold og trusler i nære relasjoner, for eksempel pågripelse og varetektsfengsling, ileggelse av besøksforbud, mobil voldsalarm og kontaktforbud med elektronisk kontroll (omvendt voldsalarm). Politiet har kompetanse til å iverksette flere av tiltakene. Påtalemyndigheten og/eller domstolen har kompetanse til å iverksette tvangsmidlene.[^226] Alle disse virkemidlene implementeres ofte parallelt, og må i mange tilfeller samvirke for å kunne forebygge partnervold.
+
+Utvalget vil i de neste punktene gjennomgå de mest relevante tiltakene i voldsforebyggingsarbeid. Riksadvokaten har gitt føringer om at disse tiltakene skal vurderes i saker om familievold.[^227]
+
+Prosjekt November
+
+Prosjekt November var et pilotprosjekt ved Stovner politistasjon som pågikk i perioden 2015–2018. Det var forankret i handlingsplanen «Et liv uten vold (2014–2017)» (tiltak 44) og i Stortingsmelding nr. 15 (2012–2013). Formålet med prosjektet var å prøve ut et samlokalisert tilbud til personer utsatt for vold i nære relasjoner. Målsettingen var å kunne gi et bedre, mer helhetlig og samordnet tilbud. Prosjektet inneholdt også et tilbud til voldsutøvere og til pårørende i sakene. Prosjektet ble implementert etter modell fra Karin-prosjektet i Malmø.
+
+Pilotprosjektet gikk ut på at det ble etablert et tverrfaglig team bestående av medarbeidere med politi-, sosial- og helsefaglig bakgrunn. Teamet arbeidet sammen for å forebygge ny vold i enkeltsaker. Under prosjektperioden arbeidet det tverrfaglige teamet med 344 saker. Relasjonen mellom voldsutøver og den voldsutsatte var partner eller tidligere partner i over halvparten av sakene (54 prosent).
+
+En følgeevaluering av Prosjekt November ble gjennomført av NOVA og evalueringens sluttrapport ble publisert i 2019. I rapporten fremheves det at Prosjekt November har gitt et godt sikkerhets- og støttetilbud til mange enkeltpersoner, og at prosjektet har kommet langt når det gjelder å tilrettelegge for bedre oppfølging av voldsutsatte (og utøvere), bedre rådgivning og informasjon og bedre sikkerhet og forebyggingsarbeid. Evalueringen viste derimot også at samarbeidet mellom prosjektet og Oslo kommune ikke fungerte godt nok, og at kommunen fremdeles har «betydelige uløste utfordringer knyttet til samordning mellom tjenester som er relevante for voldsutsatte og utøvere».<sup>1</sup>
+
+Oslo politidistrikt har besluttet å videreføre prosjektets arbeidsmodell og metode for en ny avdeling kalt RISK ved driftsenhet Øst, Seksjon for forebygging og sikkerhet, vold i nære relasjoner.
+
+<sup>1</sup> Bredal (2019) s. 8.
+
+Finanger (2018) og Bredal (2019).
+
+\[Boks slutt\]
+
+### Risikovurdering og risikohåndtering
+
+#### Risikovurdering med SARA
+
+*Spousal Assault Risk Assessment* (SARA) er et forskningsbasert risikovurderingsverktøy for partnervoldssaker. Modellen har blitt videreutviklet og er i dag utgitt i en tredje utgave (SARA-V3). *Spousal Assault Risk Assessment Short Version* (SARA:SV) er en kortversjon av SARA.[^228]
+
+Politiets bruk av SARA ble først initiert i Stortingsmelding nr. 15 (2012–2013).[^229] Politiet ble i 2013 pålagt å bruke verktøyet i alle anmeldte partnervoldssaker etter straffeloven §§ 282 og 283 (mishandling i nære relasjoner).[^230]
+
+SARA gjør det mulig å identifisere risiko for fremtidig partnervold i enkeltsaker. Bruken av verktøyet skal også bidra til å identifisere de mest alvorlige sakene. Hovedmålsettingen med SARA er dermed å forebygge ny partnervold og å sette inn ressurser der det trengs aller mest. Det er også en målsetting at politiet skal kunne vurdere og beslutte tiltak på grunnlag av felles kunnskap og forståelse, og at mer strukturerte og objektive vurderinger skal bedre tryggheten og rettssikkerheten til de involverte personene.[^231]
+
+SARA inneholder en sjekkliste med utvalgte kunnskapsbaserte risikofaktorer for partnervold. Sjekklisten understøttes av en brukermanual. Sjekklisten i SARA består av risikofaktorer som knytter seg til tre temaer:
+
+1\. Gjerningspersonens historie med partnervold.
+
+2\. Gjerningspersonens psykososiale situasjon.
+
+3\. Sårbarhetsfaktorer hos den voldsutsatte.
+
+Bruksmåten for SARA varierer noe mellom politidistriktene.[^232] Det vanligste er at politipatruljen som har mistanke eller kunnskap om partnervold gjør en initiell risikovurdering. Dette gjøres ved hjelp av en sjekkliste for ordensoppdrag med fem risikofaktorer basert på risikofaktorene i SARA. Formålet med dette er å kartlegge et mulig trusselbilde så tidlig som mulig. Etterforskere i partnervoldssaker stiller også spørsmål knyttet til risikofaktorer fra SARA i avhør. På bakgrunn av risikovurderingene fra politipatruljen, avhør og annen relevant informasjon i saken, foretar en SARA-medarbeider en fullstendig risikovurdering ved hjelp av SARA. Resultatet kan være at risikoen antas å være «lav», «moderat», «høy», eller «ekstremt høy».[^233] «Høy» eller «ekstremt høy» risiko for fremtidig partnervold og partnerdrap vil normalt kreve at politiet iverksetter strategier eller tiltak for å redusere risikoen.
+
+Det er viktig å understreke at SARA ikke erstatter politiets faglige skjønn. Politiet må bruke sin yrkesmessige kunnskap og erfaring for at SARA skal fungere som et nyttig verktøy for voldsrisikovurderinger.
+
+Alle politidistriktene er anbefalt å ha en SARA-koordinator.[^234] SARA-koordinatoren koordinerer arbeidet med SARA, herunder opplæring i bruken av verktøyet. Koordinatoren er også fagansvarlig for arbeidet med partnervoldssaker i politidistriktet. En del SARA-koordinatorer har i tillegg ansvar for tiltak for å beskytte voldsutsatte, for eksempel voldsalarmer, se punkt 7.2.6. Politidistriktene har, i tillegg til SARA-koordinatorene, egne politiansatte som er opplært i bruken av SARA (SARA-medarbeidere).
+
+#### PATRIARK
+
+PATRIARK er retningslinjer for gjennomføring av faglige vurderinger av risiko for såkalt «æresrelatert vold».[^235] Det fungerer som et suppleringsverktøy til SARA i saker hvor partnervolden kan knyttes til en gruppe, herunder medlemmer av samme familie eller samme kulturelle gruppe. Alle politidistriktene ble i 2017 bedt om å prioritere bruk av PATRIARK.[^236] En del SARA-koordinatorer har også faglig ansvar for oppfølging av PATRIARK.
+
+#### Motivasjonssamtale, hjemmebesøk og tverrfaglige møter
+
+I «SARA-sporet» er det implementert tre «risikohåndteringsstrategier»: motivasjonssamtale, hjemmebesøk og tverrfaglige møter.[^237] Politiet vil som regel ta i bruk strategiene først, og deretter vurdere andre tiltak, se punktene 7.2.4–7.2.9. Politiet kan videre henvise voldsutøvere og voldsutsatte til andre instanser, i tillegg til at politiet kan varsle andre instanser eller saksbehandlere i politiets forvaltning som arbeider med våpentillatelser eller utstedelse av visum. Se nærmere om reglene for politiets informasjonsutveksling i punkt 8.6.
+
+Når det gjelder motivasjonssamtaler, kan politiet tilby voldsutsatte og voldsutøver en frivillig motivasjonssamtale med en SARA-medarbeider. Målet med en motivasjonssamtale er å skape kontakt og tillit, og å kartlegge hvilke behov den voldsutsatte og voldsutøveren har. Samtalen er ikke ment å være et avhør, og den skal helst ikke finne sted på et avhørsrom. I mange saker blir det, i tillegg til motivasjonssamtale, gjennomført avhør av mistenkte/siktede som et ledd i etterforskningen av voldssaken.
+
+Når det gjelder hjemmebesøk, er dette ment å oppleves som en trygghet for den voldsutsatte. Det utføres normalt av uniformert politi og antas å ha sterk signaleffekt. Det antas at slike besøk kan bidra til å avdekke vold som ellers ikke ville blitt anmeldt. Samtalen ved et hjemmebesøk vil variere ut fra situasjonen partene befinner seg i. Politiet kan for eksempel gi råd til voldsutsatte som ikke bor med voldsutøver om hva vedkommende selv kan gjøre for å forebygge vold, herunder skaffe seg hemmelig telefon, ny lås eller ta nye veier til jobb. Politiet kan også gi informasjon til begge parter om relevante hjelpe- og behandlingstilbud.
+
+Når det gjelder tverrfaglige møter, kan politiet selv arrangere slike møter, eller på andre måter utveksle relevant informasjon med andre instanser.
+
+### Pågripelse og varetektsfengsling
+
+Pågripelse og varetektsfengsling er tiltak som kan brukes i voldssaker, blant annet der gjentakelsesfaren er stor. Både pågripelse og varetekt inneholder sterke elementer av tvang og skal derfor praktiseres strengt.
+
+Pågripelse av en voldsutøver kan være et akuttiltak for å forebygge alvorlig partnervold og partnerdrap. Pågripelse krever lovhjemmel. Det finnes flere bestemmelser i straffeprosessloven som gir grunnlag for pågripelse. For det første kan en person pågripes hvis han eller hun med «skjellig grunn» mistenkes for en straffbar handling som kan medføre fengselsstraff i seks måneder eller mer, jf. straffeprosessloven § 171. Ett av bestemmelsens fire vilkår må i tillegg være oppfylt; det må enten være «unndragelsesfare», «bevisforspillelsesfare», «gjentakelsesfare» eller en situasjon hvor personen selv begjærer pågripelse.
+
+Gjentakelsesfare er et særlig aktuelt grunnlag for pågripelse i voldssaker. Pågripelse på grunnlag av gjentakelsesfare innebærer at en person som med skjellig grunn mistenkes for partnervold, kan pågripes når det antas å være påkrevd for å hindre at vedkommende utøver ytterligere vold, jf. straffeprosessloven § 171 første ledd nr. 3.[^238]
+
+For det andre kan en person pågripes når han eller hun mistenkes for å ha utsatt noen for grov kroppskrenkelse eller kroppsskade,[^239] eller for et lovbrudd som kan medføre fengselsstraff i ti år eller mer, jf. straffeprosessloven § 172 første ledd bokstav a og b. Drapsforsøk og grov mishandling i nære relasjoner har en strafferamme på mer enn ti år.[^240] I disse tilfellene kan den mistenkte pågripes når det foreligger en tilståelse eller andre forhold som i særlig grad styrker mistanken mot vedkommende. Selv om lovverket åpner for det, brukes pågripelse etter straffeprosessloven § 172 sjelden som et forebyggende tiltak i saker om vold i nære relasjoner. Dette har sammenheng med at terskelen for pågripelse etter straffeprosessloven § 172 er høy.[^241]
+
+For det tredje kan en person pågripes etter straffeprosessloven § 173 første ledd der hvor han eller hun blir tatt på fersk gjerning ved gjennomføringen av en straffbar handling. Pågripelse kan i henhold til § 173 gjøres uavhengig av hvilken straffbar handling det er tale om. Dette grunnlaget kan for eksempel være aktuelt der hvor politiet rykker ut til en adresse hvor det utøves partnervold.
+
+En studie fra 2017 viste at politiet pågrep 47 prosent av voldsutøverene ved utrykning til adresser hvor det var meldt om partnervold. Studien viste videre at faktorer som fysisk vold og rusproblemer økte sannsynligheten for pågripelse. I tilfeller hvor politiet fikk kunnskap om at volden hadde eskalert over tid, var derimot sannsynligheten lavere for pågripelse. Dette tydet på at politiet undervurderte voldseskalering som en faktor som forhøyet risikoen for ytterligere vold.[^242]
+
+Pågripelse er et tvangsmiddel, og det kan derfor ikke brukes når det etter sakens art og forholdene ellers vil være et uforholdsmessig inngrep. Dette følger av straffeprosessloven § 170 a, Grunnloven § 94 og EMK artikkel 5. Om en person bør pågripes, beror på en helhetsvurdering av den konkrete saken. Det er påtalemyndigheten som kan beslutte pågripelse, og det er politiet som foretar selve pågripelsen, jf. straffeprosessloven § 175.[^243]
+
+Når påtalemyndigheten ønsker å beholde en pågrepet person i varetekt, må påtalemyndigheten innen tre dager fremstille vedkommende for en domstol med begjæring om fengsling, jf. straffeprosessloven § 183. En person kan varetektsfengsles når de nevnte vilkårene i straffeprosessloven §§ 171 eller 172 er oppfylt.[^244] Dette følger av straffeprosessloven § 184 annet ledd. Ettersom varetektsfengsling er et enda mer inngripende tvangsmiddel enn pågripelse, vil forholdsmessighetsvurderingen etter straffeprosessloven § 170 a oftere representere en skranke for bruk av fengsling, enn for bruk av pågripelse.[^245]
+
+### Besøksforbud
+
+Besøksforbud er et beskyttelsestiltak som brukes for å forebygge vold og trusler, ved at en person forbys å oppholde seg nær, eller kontakte, en annen person. Allerede i 1902 fantes det en bestemmelse i straffeloven om «oppholdsforbud». Oppholdsforbud kunne ilegges som tilleggsstraff ved andre lovbrudd. Besøksforbud som et beskyttelsestiltak mot vold og trusler ble etablert i 1995.[^246]
+
+Et besøksforbud retter seg mot voldsutøveren og innebærer at han eller hun får innskrenket bevegelsesfrihet. Dersom voldsutøver bryter besøksforbudet, må den voldsutsatte selv melde fra til politiet om dette.
+
+Påtalemyndigheten kan med hjemmel i straffeprosessloven § 222 a første ledd beslutte ileggelse av besøksforbud når det er grunn til å tro at en person ellers vil:
+
+a\. begå en straffbar handling overfor en annen person,
+
+b\. forfølge en annen person,
+
+c\. på annet vis krenke en annens fred, eller
+
+d\. begå ordensforstyrrelser som er særlig belastende for en annen person.
+
+Påtalemyndigheten foretar en konkret helhetsvurdering av risikoen for at voldsutøver vil komme til å begå noen av de opplistede handlingene. Risikoen må være nærliggende og reell, men det stilles ikke krav om sannsynlighetsovervekt.[^247] Tiltaket skal bare benyttes dersom det etter en avveining av hensynet til begge parter anses forholdsmessig, jf. straffeprosessloven § 170 a.[^248]
+
+Det mest vanlige er at den voldsutsatte selv ber om at voldsutøver ilegges besøksforbud, men anmeldelse er ikke et vilkår for å ilegge besøksforbud. Påtalemyndigheten kan også ilegge besøksforbud i tilfeller hvor den voldsutsatte ikke ønsker det, men allmenne hensyn tilsier det, jf. straffeprosessloven § 222 a annet ledd. Dette kan for eksempel være aktuelt i tilfeller hvor det er et avhengighetsforhold mellom voldsutsatt og voldsutøver.[^249]
+
+Et besøksforbud kan gå ut på at den forbudet retter seg mot forbys a) å oppholde seg på et bestemt sted, eller b) å forfølge, besøke eller på annet vis kontakte en annen person. I saker om vold i nære relasjoner er det alternativ b) som er aktuelt. Besøksforbud mot en annen person betyr som regel et totalforbud mot å oppsøke eller på annen måte ta kontakt med vedkommende. Besøksforbudet kan imidlertid begrenses på nærmere angitte vilkår, for eksempel for å gjennomføre samvær med felles barn.[^250]
+
+Der hvor det er nærliggende fare for at voldsutøver vil begå straffbare handlinger mot den voldsutsatte, kan voldsutøveren også forbys å oppholde seg i sitt eget hjem. Dette er mer inngripende enn et ordinært besøksforbud, og det stilles derfor strengere krav til ileggelse.[^251]
+
+Besøksforbudet skal gjelde for en bestemt tid, og et ordinært besøksforbud kan ilegges for høyst ett år av gangen. Besøksforbud i eget hjem kan ilegges for tre måneder av gangen, jf. straffeprosessloven § 222 a femte ledd. Begge typer besøksforbud kan forlenges dersom vilkårene er oppfylt ved utløpet av perioden.
+
+Både den forbudet skal beskytte, og den forbudet retter seg mot, kan bringe påtalemyndighetens beslutning om besøksforbud inn for retten, jf. straffeprosessloven § 222 a syvende og niende ledd. Beslutning om å ilegge besøksforbud i eget hjem skal alltid bringes inn for retten, jf. straffeprosessloven § 222 a åttende ledd. Ved beslutning om besøksforbud i eget hjem har også den forbudet retter seg mot rett til forsvarer, og den forbudet skal beskytte har rett til bistandsadvokat.[^252]
+
+Brudd på besøksforbud er straffbart, og kan straffes med bøter eller fengsel inntil et år, jf. straffeloven § 168 bokstav b. Riksadvokaten har bedt om at det fortløpende skal vurderes å ta ut tiltale for brudd på besøksforbud, uten å avvente behandlingen av en eventuell familievoldssak i domstolen.[^253]
+
+Det finnes ikke et landsdekkende system hos politiet for registrering av antall ilagte besøksforbud. Det finnes heller ikke oversikt over antallet begjæringer om besøksforbud, og hvor mange av disse som er innvilget.[^254] Besøksforbudsordningen ble imidlertid evaluert i 2001 og i 2019.[^255] Et hovedfunn i den siste evalueringen, var at besøksforbud vurderes som et godt og velegnet beskyttelsestiltak i saker om vold i nære relasjoner. Informanter i politi og påtalemyndighet fortalte imidlertid at tiltaket stort sett blir brukt der et forutgående straffbart forhold, ofte fysisk vold, er anmeldt til politiet.[^256] I 2019 ble det registrert 2393 brudd på besøksforbud.[^257]
+
+### Mobil voldsalarm
+
+Mobil voldsalarm er et midlertidig beskyttelsestiltak for å løse en akutt volds- eller trusselsituasjon. Det er en alarmordning som gjør det mulig for den voldsutsatte å varsle politiet ved behov for hjelp. Tiltaket fungerer ved at den voldsutsatte får en modifisert mobiltelefon som er knyttet direkte til politiets operasjonssentral. Den voldsutsatte må bære med seg voldsalarmen til enhver tid og sørge for at den har GSM- og/eller GPS-dekning.[^258] Tiltaket krever derfor stor medvirkning fra den utsatte.
+
+Ordningen med voldsalarm ble innført i 1997. I 2002 ble ordningen med mobile voldsalarmer for første gang utprøvd, og ordningen med mobil voldsalarm ble implementert for hele landet i 2004. En ny generasjon voldsalarmer ble tatt i bruk i 2010, og det er disse voldsalarmene som brukes i dag.[^259]
+
+Det rettslige grunnlaget for tildeling av mobil voldsalarm er et rundskriv fra Politidirektoratet.[^260] Tildeling skjer på grunnlag av søknad fra den voldsutsatte, som oftest i forbindelse med en straffesak. Det kreves ikke at den voldsutsatte har anmeldt en voldshendelse, men det må foreligge en reell risiko for at vedkommende kan bli utsatt for vold. Alarmen tildeles for tre måneder av gangen, og trusselbildet avgjør om tildelingen forlenges.
+
+Hvis alarmen utløses, opprettes det direkte kontakt mellom den voldsutsatte og politiet. Samtidig som kontakten opprettes, får politiet informasjon om hvor den voldsutsatte befinner seg geografisk, i tillegg til annen relevant informasjon om alarmbrukeren og trusselsituasjonen. Det følger av Politidirektoratets rundskriv at politiet skal prioritere å rykke ut til alarmbruker ved utløst alarm.[^261]
+
+Ofte tildeles mobil voldsalarm i kombinasjon med andre beskyttelsestiltak, for eksempel ileggelse av besøksforbud, se punkt 7.2.5.
+
+I 2018 ble det utlevert 1709 mobile voldsalarmer, og i 2019 ble det utlevert 1240 mobile voldsalarmer.[^262]
+
+### Kontaktforbud med elektronisk kontroll (omvendt voldsalarm)
+
+#### Kontaktforbud
+
+Kontaktforbud innebærer at en person forbys å oppholde seg i bestemte områder, eller å forfølge, besøke eller på annet vis kontakte en annen person. Domstolen kan idømme kontaktforbud etter straffeloven § 57 dersom det er grunn til å tro at vedkommende ellers vil:
+
+a\. begå en straffbar handling overfor en annen person.
+
+b\. forfølge en annen person, eller
+
+c\. på annet vis krenke en annens fred.
+
+Der hvor det er nærliggende fare for at personen vil begå en straffbar handling overfor en annen person, kan vedkommende forbys å oppholde seg i sitt eget hjem, jf. straffeloven § 57 tredje ledd.
+
+Bestemmelsen om kontaktforbud i sin nåværende form kom inn i straffeloven i 2005. Kontaktforbud regnes som et rettighetstap, og dermed som en straff etter straffeloven § 29 første ledd bokstav f.
+
+Domstolene kan idømme kontaktforbud uavhengig av om påtalemyndigheten har lagt ned påstand om det. Domstolen har i tillegg en selvstendig plikt til å vurdere kontaktforbud i bestemte saker, for eksempel ved domfellelse for mishandling i nære relasjoner mot egne barn eller særkullsbarn.[^263]
+
+#### Kontaktforbud med elektronisk kontroll (omvendt voldsalarm)
+
+Domstolen kan beslutte at kontaktforbudet skal ilegges med elektronisk kontroll i tilfeller hvor det anses nødvendig for at forbudet skal overholdes, jf. straffeloven § 57 femte ledd. Ordningen med elektronisk kontroll ble innført i 2013, og omtales ofte som «omvendt voldsalarm». Formålet med innføringen av kontaktforbud med elektronisk kontroll var særlig å gi bedre beskyttelse til personer som utsettes for vold og trusler om vold fra nåværende eller tidligere partner, i tillegg til å flytte belastningene ved tiltaket fra den voldsutsatte til den domfelte.[^264] Det er selve kontaktforbudet som utgjør en straff i form av rettighetstap – den elektroniske kontrollen er ment å være et supplement som gjør det mulig å kontrollere at forbudet blir overholdt.[^265]
+
+Elektronisk kontroll kan ilegges for hele eller deler av perioden kontaktforbudet gjelder for. Det kreves at elektronisk kontroll er «nødvendig» for at et kontaktforbud skal bli overholdt, jf. straffeloven § 57 femte ledd. Dersom domfelte tidligere har brutt et besøks- eller kontaktforbud, skal dette normalt føre til elektronisk kontroll.[^266]
+
+I praksis innebærer kontaktforbud med elektronisk kontroll at den domfelte får en elektronisk fotlenke. Denne gir politiet tilgang til vedkommendes posisjon ved hjelp av GSM (mobilnettet) og GPS (satellittkommunikasjon). Det etableres «fredede områder» rundt personen kontaktforbudet skal beskytte. Omfanget av det fredede området bestemmes ut fra en konkret vurdering av politiets mulighet til å rykke ut og bistå den voldsutsatte. Det må også foretas en interesseavveining mellom den voldsutsattes beskyttelsesbehov og den domfeltes behov for å bevege seg fritt. I noen tilfeller kan det fredede området være et helt fylke. Dersom den som bærer fotlenken trer innenfor det fredede området, utløser dette en alarm hos alarmsentralen. Kontaktforbud med elektronisk kontroll er ikke ment å erstatte ordningen med mobil voldsalarm, se punkt 7.2.6. Ofte vil de to tiltakene brukes i kombinasjon.[^267]
+
+Som følge av begrensningene kontaktforbud med elektronisk kontroll har for den domfeltes bevegelsesfrihet, gjelder det noen særskilte regler for bruken av straffereaksjonen. Den øvre grensen for varigheten av kontaktforbud med elektronisk kontroll er fem år, jf. straffeloven § 58.[^268] For forbud om opphold i eget hjem med elektronisk kontroll, gjelder en øvre grense på ett år, jf. straffeloven § 58 annet ledd siste punktum. Domstolene må innenfor disse rammene fastsette kontaktforbudets varighet etter en skjønnsmessig vurdering. Den som er ilagt kontaktforbud med elektronisk kontroll kan også kreve at domstolen etter seks måneder vurderer om forbudet skal opprettholdes, jf. straffeloven § 58 tredje ledd.
+
+Ordningen med kontaktforbud med elektronisk kontroll ble evaluert i 2020, og evalueringen viste at ordningen ble lite brukt de første årene, men at dette er i endring.[^269] Se nærmere om evalueringen i punkt 17.1.2.
+
+### Adressesperre
+
+Adressesperre ble innført som et beskyttelsestiltak i 1980.[^270] Tiltaket innebærer at opplysninger om den voldsutsattes adresse i folkeregisteret skjermes mot innsyn. Dette gjøres ved at opplysningene graderes og bare er tilgjengelig for en begrenset krets av personer. Formålet med tiltaket er at voldsutøveren ikke skal finne den voldsutsatte. Tiltaket innebærer blant annet at den voldsutsatte må flytte, eventuelt bytte jobb og holde oppholdsstedet hemmelig for omverdenen. Adressesperre er dermed et svært inngripende tiltak som krever mye av den voldsutsatte. Det har også stor innvirkning for eventuelle barn og annen familie.
+
+Det finnes to typer adressesperre: adressesperre kode 6 («strengt fortrolig adresse») og adressesperre kode 7 («fortrolig adresse»). Forskjellen mellom disse er hvem som har tilgang til den voldsutsattes adresse. Adressesperre kode 6 innebærer at opplysninger om adressen ikke skal gis ut til noen. Den utsattes adresse i folkeregisteret er bare tilgjengelig for autoriserte personer. Adressesperre kode 7 innebærer at adressen ikke skal gis ut til private. Adresseopplysninger er tilgjengelig for alle offentlige myndigheter som har tilgang til opplysninger fra folkeregisteret.
+
+Politiet kan fatte beslutning om adressesperre med hjemmel i beskyttelsesinstruksen § 4, jf. § 3. Det aktuelle politidistriktet melder beslutningen til Kripos. Kripos foretar en kvalitetskontroll av beslutningen, i tillegg til å melde fra til Skattedirektoratet. Det er deretter Skattedirektoratet som gjennomfører den faktiske sperringen i folkeregisteret.
+
+Beslutning om adressesperre krever at det er en situasjon med fare for liv og helse.[^271] Politiet foreslår tiltaket på grunnlag av en trusselvurdering.[^272] Tiltaket besluttes for tre år av gangen. Ved forlengelse må det foretas en ny trusselvurdering og beslutning. Adressesperre iverksettes ofte etter at andre tiltak er forsøkt, eller i kombinasjon med andre, mindre inngripende beskyttelsestiltak, for eksempel mobil voldsalarm eller besøksforbud, se punktene 7.2.6 og 7.2.5.
+
+Per oktober 2020 var det 336 personer som levde med adressesperre kode 6, mens det var 376 personer som levde med adressesperre kode 7.[^273] I tillegg kommer de som har adressesperre som et tiltak fra barnevernet. I oktober 2020 gjaldt dette 221 barn.[^274]
+
+### Fiktiv identitet
+
+Fiktiv identitet innebærer at den voldsutsatte får «ny» identitet i folkeregisteret. Dette betyr at vedkommendes personopplysninger, herunder fødselsnummer og oppholdssted, holdes skjult og ikke er tilgjengelig utenfor en krets av få personer som forvalter ordningen. Ordningen med fiktiv identitet trådte i kraft i 2004. Formålet med tiltaket er at den voldsutsatte ikke skal kunne spores ved hjelp av opplysninger i folkeregisteret.
+
+Fiktiv identitet er det mest inngripende beskyttelsestiltaket i saker om partnervold. Den voldsutsatte må bygge opp livet sitt på et nytt sted, i et nytt hjem, med en ny jobb og nye sosiale relasjoner. De som bor sammen med den voldsutsatte må også få ny identitet, og all kontakt med familie og venner må opphøre. Tiltaket får derfor også dramatisk betydning for den voldsutsattes barn, og for alle som den voldsutsatte må bryte kontakten med. Siden fiktiv identitet er et særlig belastende tiltak, skal det bare brukes i ekstraordinære situasjoner.[^275]
+
+Politidirektoratet har kompetanse til å avgjøre søknad om fiktiv identitet med hjemmel i politiloven kapittel IIa. Beslutningen om bruk av fiktive personopplysninger er et vedtak etter forvaltningsloven, og Justis- og beredskapsdepartementet er klageinstans. For å innvilge søknad om fiktiv identitet, må den voldsutsatte stå «i fare for å bli utsatt for alvorlig kriminalitet rettet mot liv, helse eller frihet», jf. politiloven § 14a første ledd. Videre kan fiktiv identitet bare gis dersom andre tiltak ikke kan gi tilstrekkelig vern, jf. politiloven § 14a første ledd.
+
+## Helse- og omsorgstjenesten
+
+### Helse- og omsorgstjenestens rolle i arbeidet med å forebygge partnervold og partnerdrap
+
+Helse- og omsorgstjenesten er en omfattende sektor, og de som arbeider i tjenesten har en sentral rolle i arbeidet med å forebygge partnervold og partnerdrap. Dette har blant annet sammenheng med at helsepersonell kommer i nær kontakt med både voldsutsatte og voldsutøvere. De ansatte i helsetjenesten møter også mennesker med livsutfordringer som kan gi forhøyet risiko for partnerdrap. Fysiske undersøkelser av pasienter gir mulighet til å avdekke vold og andre bekymringsverdige forhold, for eksempel når en kvinne oppsøker legevakt med omfattende skader uten en plausibel forklaring. Samtaler mellom helsepersonell og pasient kan også være en god anledning til å ta opp vanskelige temaer.
+
+Helse- og omsorgstjenestens organisering
+
+Helsetjenesten er i all hovedsak organisert på to nivåer: kommunalt- og statlig nivå. Det kommunale nivået inkluderer blant annet fastleger, legevakt, hjemmetjeneste, helsestasjoner, skolehelsetjeneste, fysioterapeuter, enkelte tilbud innenfor psykisk helsearbeid og rustilbud. Disse instansene utgjør «primærhelsetjenesten», og det er disse helsetjenestene som leveres i lokalsamfunnet i det daglige. Den kommunale helsetjenesten reguleres først og fremst av helse- og omsorgstjenesteloven. Det statlige nivået – spesialisthelsetjenesten – inkluderer blant annet sykehus, psykisk helsevern, ambulansetjenesten, AMK, overgrepsmottak og rusinstitusjoner. Spesialisthelsetjenesten utøves av regionale helseforetak, og reguleres hovedsakelig av spesialisthelsetjenesteloven.
+
+Kontakt med spesialisthelsetjenesten opprettes som oftest gjennom henvisning fra den kommunale helsetjenesten, for eksempel fastlegen. Tannhelsetjenesten representerer et unntak fra inndelingen på statlig og kommunalt nivå, ettersom plikten til å sørge for tannhelsetjenester ligger til fylkeskommunen. Tannhelsetjenesten er like fullt en del av helsetjenesten, og reguleres av tannhelsetjenesteloven. Den offentlige helsetjenesten omfatter også private aktører som utfører tjenester på vegne av, eller etter avtale med, stat eller kommune.<sup>1</sup> I tillegg finnes det andre organer bestående av helsepersonell som driver voldsforebyggende arbeid og behandling utenfor den offentlige helsetjenesten, se punkt 7.3.4.
+
+<sup>1</sup> Pasient- og brukerrettighetsloven § 1-3 bokstav d. Se også Syse (2018) note 12.
+
+\[Boks slutt\]
+
+### Forebygging av partnervold og partnerdrap som en del av helse- og omsorgstjenestens alminnelige oppgaver
+
+#### Helse- og omsorgstjenestens forebyggingsplikt
+
+Den kommunale helse- og omsorgstjenesten har ansvar for å fremme helse og forebygge sykdom, skade og sosiale problemer, jf. helse- og omsorgstjenesteloven § 3-3 første ledd. Dette skal skje ved opplysningsvirksomhet, råd og veiledning. Slik virksomhet kan virke primærforebyggende i relasjon til partnerdrap fordi helseplager som rusproblemer og psykiske lidelser er faktorer som kan bidra til forhøyet risiko for partnerdrap, se punkt 4.4.
+
+Helse- og omsorgstjenesten har videre et lovbestemt ansvar for å forebygge vold og seksuelle overgrep, jf. helse- og omsorgstjenesteloven § 3-3 a. Det følger av bestemmelsen at kommunen skal ha særlig oppmerksomhet rettet mot at pasienter kan være utsatt for vold, eller kan stå i fare for å bli utsatt for vold. Det følger videre at «kommunen skal legge til rette for at helse- og omsorgstjenesten blir i stand til forebygge, avdekke og avverge vold».
+
+Tilsvarende krav er innført for spesialisthelsetjenesten og for tannhelsetjenesten.[^276] Formålet med bestemmelsene er å tydeliggjøre ledelsens ansvar for å forebygge vold. Bestemmelsene skulle også bidra til utvikling av en kultur hvor forebygging av vold ses om en naturlig og integrert del av arbeidet i helsetjenesten.[^277] Bestemmelsene pålegger imidlertid ikke tjenesten noen selvstendige plikter utover dem de allerede har etter eksisterende helselovgivning.[^278]
+
+De ovennevnte bestemmelsene viser at helse- og omsorgstjenesten har et særlig lovbestemt ansvar for å bidra til forebygging av både generelle helseutfordringer og vold, og dermed også partnerdrap.
+
+#### Helse- og omsorgstjenestens plikt til å yte helsehjelp
+
+Helse- og omsorgstjenesten har en generell plikt til å yte helsehjelp. Plikten til å yte helsehjelp er et såkalt «sørge for»-ansvar.[^279] Dette innebærer blant annet at tjenesten skal sørge for tilstrekkelig kapasitet og at helsetjenestene er i tråd med samfunnsutviklingen.[^280] Helsehjelpen må også være nødvendig og forsvarlig.[^281]
+
+Verken utsatthet eller utøvelse av vold er i seg selv en sykdom eller en diagnose.[^282] Helse- og omsorgstjenesten yter «reparerende» helsehjelp. Dette kan bidra til å redusere helseplager som utgjør bakenforliggende årsaker til volden og faktorer som kan bidra til forhøyet risiko for partnervold og partnerdrap. Slik helsehjelp kan være behandling av psykiske helseplager eller rusbehandling. Også kontroll med medikamentbruk kan ha forebyggende effekt. I tillegg tilbyr den offentlige helse- og omsorgstjenesten behandling for volds- og aggresjonsproblemer eller sinnemestring, se punkt 7.3.3.3.[^283] Helsehjelp kan også direkte bidra til å forebygge hendelser i fremtiden, for eksempel ved at en voldsutsatt får støtte og hjelp til å forlate en voldelig partner.
+
+Helse- og omsorgstjenesten mottar mye sensitiv informasjon om pasientene. Av og til vil helsepersonell få informasjon som tilsier at pasienter utsettes for partnervold. Dette vil gi rett til, og i en del tilfeller også plikt til, å varsle politiet eller andre deler av hjelpeapparatet. Se punkt 8.7 om reglene om informasjonsutveksling som gjelder for helsepersonell.
+
+Pasientjournal og epikrise
+
+Helsepersonell har plikt til å føre journal etter helsepersonelloven § 39. Journalen skal inneholde alle opplysninger som er relevante og nødvendige for helsehjelpen til pasienten, og de opplysninger som er nødvendige for å oppfylle lovpålagt melde- eller opplysningsplikt, jf. helsepersonelloven § 40. Journalen skal blant annet inneholde opplysninger om årsaken til pasientens kontakt med helsetjenesten, pasientens helsetilstand, hvilke undersøkelser som har blitt utført og hvilken behandling og pleie pasienten har mottatt, aktuell diagnose, medisinering og eventuelle henvisninger til spesialisthelsetjenesten. Journalen skal også inneholde opplysninger om råd og informasjon pasienten har fått. I tillegg til skriftlig dokumentasjon, kan også bilder, lydlogger og video være omfattet av journalføringsplikten. Journalen er et arbeidsverktøy, og skal være lett å forstå for annet kvalifisert helsepersonell.
+
+En epikrise er en kort og sammenfattende skriftlig framstilling av undersøkelse eller behandling av en pasient som sendes til helsepersonell som trenger opplysningene for å kunne gi pasienten videre behandling eller oppfølging, jf. helsepersonelloven § 45 a. Epikriser utarbeides etter at undersøkelsen eller behandlingen er ferdig, for eksempel etter et sykehusopphold. Den skrives med utgangspunkt i tilgjengelige journalopplysninger. Epikrisen sendes normalt samtidig som at pasienten utskrives fra helseinstitusjonen, til innleggende eller henvisende helsepersonell, til det helsepersonellet som trenger opplysningene for å kunne gi pasienten forsvarlig oppfølging, og til pasientens fastlege. Hvilke opplysninger en epikrise skal inneholde, avgjøres etter en konkret vurdering. Ofte redegjøres det for foranledningen til ytelsen av helsehjelp, hvordan sykdommen eller skaden har oppstått eller utviklet seg, hvilke undersøkelser som er gjort, diagnostisering og hvilken behandling som er gjort eller anbefalt. En epikrise kan også inneholde faglige råd om videre oppfølging og behandling, eller opplysninger om komplikasjoner som kan inntreffe etter behandlingen.
+
+\[Boks slutt\]
+
+### Helse- og omsorgstjenestens virkemidler i arbeidet med å forebygge partnerdrap
+
+#### Anbefalinger om å stille spørsmål om vold
+
+Helsepersonell i flere deler av helsetjenesten er gjennom retningslinjer og veiledere anbefalt å spørre pasienten om vold, eller på annen måte bidra til å avverge og avdekke vold, overgrep og omsorgssvikt. Utvalget vil her kort redegjøre for fem slike anbefalinger.
+
+Helsepersonell er for første oppfordret til å avklare og utrede videre dersom de «mistenker, bør mistenke eller får vite» at noen utsettes for vold. Dette følger av en generell veileder for helsetjenestens arbeid med vold i nære relasjoner fra 2018. Veilederen inneholder også råd til hvordan samtalen med pasienten bør gjennomføres.[^284]
+
+Helsepersonell er for det andre sterkt oppfordret til rutinemessig å spørre gravide om erfaringer med vold. Dette følger av *Nasjonal faglig retningslinje for svangerskapsomsorgen*.[^285] Anbefalingen bygger blant annet på forskning som viser at kvinner som utsettes for vold under svangerskap og i tiden etter fødselen, er utsatt for alvorligere og mer vedvarende partnervold enn de som ikke er utsatt for vold under svangerskapet.[^286] I tillegg rammer partnervold mot gravide også det ufødte barnet. Det er derfor særlig viktig å avdekke partnervold mot gravide kvinner. Det anbefales i veilederen å gjennomføre én eller flere konsultasjoner med kvinnen uten partner til stede.
+
+Helsepersonell er for det tredje oppfordret til å forsøke å avdekke vold utført av pårørende med store omsorgsoppgaver eller belastninger. Denne anbefalingen følger av *Nasjonal veileder om pårørende i helse- og omsorgstjenesten* (pårørendeveilederen).[^287]
+
+Helsesykepleier i skolehelsetjenesten er for det fjerde sterkt oppfordret til å spørre alle elever på 8. trinn om de har opplevd vold eller overgrep, eller om de selv har utøvd vold. Skolehelsetjenesten er i forbindelse med skolestartundersøkelse (1. trinn) også oppfordret til å gjennomføre samtaler med barnet og foreldrene om «forhold og faktorer relatert til vold, overgrep og omsorgssvikt.» Dette følger av *Nasjonal faglig retningslinje for helsestasjon- og skolehelsetjeneste.*[^288]
+
+Helsepersonell på helsestasjonen er for det femte sterkt oppfordret til å være oppmerksomme på forhold som kan tyde på at barnet er utsatt for vold, overgrep eller omsorgssvikt, og ved konsultasjonene i helsestasjonsprogrammet observere barnet og familien for å avverge og avdekke slike forhold.[^289]
+
+#### Risikovurdering
+
+Helsetjenesten er oppfordret til å risikovurdere ved bruk av risikovurderingsverktøy («sikkerhetsvurderingsverktøy») ved kunnskap om voldsutsatthet. Dette følger av veilederen for helsetjenestens arbeid med vold i nære relasjoner. Veilederen gir ikke anvisning på hvilket verktøy som bør brukes.[^290]
+
+Helsetjenesten er også oppfordret til å bruke risikovurderingsverktøy gjennom andre retningslinjer og veiledere. Helsetjenesten er for eksempel anbefalt å gjennomføre «voldsrisikoutredning» (risikovurdering og risikohåndtering) der hvor pasienten har en alvorlig psykisk lidelse og erfaring med vold.[^291]
+
+Noen overgrepsmottak har tatt i bruk risikovurderingsverktøyet *Danger Assessment* (DA).[^292] DA er et risikovurderingsverktøy som er rettet mot alvorlig partnervold og partnerdrap. Det består av et skjema og en kalender. I skjemaet registreres opptil 20 risikofaktorer (DA-20) for partnerdrap, mens kalenderen brukes for å kartlegge forekomst, hyppighet og alvorlighet ved volden.[^293] Risikofaktorene inkluderer blant annet partnerens tidligere atferd knyttet til vold eller seksuelle overgrep, partnerens tilgang til våpen og vedkommendes arbeidsstatus.[^294] Bruk av DA forutsetter at helsepersonell utviser faglig skjønn og bruker sin yrkesmessige erfaring og kunnskap.
+
+Det er utviklet et nettbasert kurs om volds- og overgrepshåndtering for legevaktspersonell. Dette kurset omfatter opplæring i kortversjonen av *Danger Assessment* (DA-5). Det finnes et tilsvarende kurs for fastleger. Kurset er frivillig for fastleger, men legevaktspersonell er pålagt å gjennomføre det innen 1. mai 2021, jf. akuttmedisinforskriften § 7 første ledd bokstav a og § 8, jf. § 21 tredje ledd.
+
+#### Sinnemestring Brøsetmodellen
+
+Kompetansesenter for sikkerhets-, fengsels- og rettspsykiatri (SIFER) ved St. Olavs Hospital avdeling Brøset har utviklet en behandlingsmodell for pasienter med sinne- og voldsproblematikk. Modellen kalles Sinnemestring Brøsetmodellen, og er spesielt rettet mot personer som utøver vold i nære relasjoner. Hensikten med modellen er å lære voldsutøveren å kontrollere aggresjon, og å endre vedkommendes holdninger til vold. Metoden bygger på kognitiv atferdsterapi og brukes mest i gruppebehandling, men kan også brukes individuelt. Modellen ble utviklet i 1998.
+
+I perioden 2003–2019 har det til sammen blitt utdannet rundt 500 sinnemestringsterapeuter på landsbasis, og nye utdanningsrunder pågår. I 2016 hadde totalt 554 menn og 230 kvinner mottatt behandling. Sinnemestring Brøsetmodellen har blitt implementert i flere deler av hjelpeapparatet. Det er en rekke godkjente behandlingsinstanser som bruker modellen, blant annet 32 familievernkontorer, 35 kommunale barneverntjenester, 11 fengsler, 8 friomsorgskontorer, i tillegg til flere kommunale psykiatritjenester og poliklinikker.[^295] Det er politisk vedtatt at modellen skal implementeres i flere instanser. Implementeringen skjer i samarbeid mellom Brøset og de regionale ressurssentrene om vold, traumatisk stress og selvmordsforebygging (RVTS).[^296]
+
+### Voldsforebyggende arbeid i den ikke-offentlige helse- og omsorgstjenesten
+
+#### Generelt
+
+I tillegg til flere behandlingstilbud til voldsutøvere i det offentlige hjelpeapparatet, finnes det flere ikke-offentlige aktører som tilbyr slik behandling. Enkelte tilbud drives av private stiftelser, som Alternativ til vold, Reform og Stiftelsen Tryggere, mens andre drives av private klinikker. Frivillige organisasjoner driver også med voldsforbyggende arbeid gjennom at de har tilknyttet seg terapeuter, arrangerer kurs og driver generelt informasjonsarbeid.
+
+#### Alternativ til vold
+
+Stiftelsen Alternativ til vold (ATV) er et behandlings- og kompetansesenter på vold i nære relasjoner. ATV ble startet opp i 1987, og har i dag 15 kontorer over hele landet. ATV er organisert som en privat stiftelse, og virksomheten finansieres gjennom tilskudd fra staten, kommuner, og gjennom prosjektmidler. Tilbudet retter seg primært mot voldsutøvere, både menn og kvinner. Noen av kontorene har et spesialisert terapitilbud til voldsutsatte, inkludert til barn som lever med vold i familien, og til ungdommer som bruker vold, også i kjæresteforhold.[^297] I tillegg tilbys det samlinger for ungdommer, unge voksne og blivende foreldre som har vokst opp med vold og er redde for selv å bli voldelige (*Bryt Voldsarven*).
+
+ATV har et nært samarbeid med familievernet, se punkt 7.6.3.
+
+ATV arbeider ut fra et tredelt mandat som består av behandling, kunnskapsutvikling og kunnskapsformidling. Behandling av voldsutøvere er den mest sentrale delen av stiftelsens arbeid. De fleste terapeutene hos ATV er psykologer. Behandlingen består av samtaler, enten individuelt med en behandler, eller i grupper. Det er frivillig å gå til behandling hos ATV, og varigheten av behandlingen varierer. De ansatte i ATV holder også seminarer om vold og gir veiledning til andre instanser, for eksempel i det kliniske arbeidet ved familievernkontorene.

@@ -1,1230 +1,218 @@
-# NOU 2020: 17, del 22 av 22 (side 247–282)
+# NOU 2020: 17, del 22 av 26
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2020/9dfffdcf-nou-2020-17.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2020-17/id2791522/
 - Original-PDF: https://www.regjeringen.no/contentassets/5f3dc96de14f443f869795a19088926a/no/pdfs/nou202020200017000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 5 figurer. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 247]
-
-NOU 2020: 17
-Varslede drap?
-
-banehendelser m.m. (jernbaneundersøkelsesloven)
-Lov 20. mai 2005 nr. 28 om straff (straffeloven)
-Lov 1. april 2005 nr. 15 om universiteter og høyskoler (universitets- og høyskoleloven)
-Lov 4. juli 2003 nr. 80 om introduksjonsordning og
-norskopplæring for nyankomne innvandrere
-(introduksjonsloven)
-Lov 4. juli 2003 nr. 84 om frittståande skolar (friskolelova)
-Lov 2. juli 1999 nr. 64 om helsepersonell m.v. (helsepersonelloven)
-Lov 2. juli 1999 nr. 63 om pasient- og brukerrettigheter (pasient- og brukerrettighetsloven)
-Lov 2. juli 1999 nr. 61 om spesialisthelsetjenesten
-m.m. (spesialisthelsetjenesteloven)
-Lov 21. mai 1999 nr. 30 om styrking av menneskerettighetenes stilling i norsk rett (menneskerettsloven)
-Lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa (opplæringslova)
-Lov 19. juni 1997 nr. 62 om familievernkontor (familievernkontorloven)
-Lov 28. februar nr. 19 om folketrygd (folketrygdloven)
-Lov 4. august 1995 nr. 53 om politiet (politiloven)
-Lov 24. juni 1994 nr. 39 om sjøfarten (sjøloven)
-Lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven)
-Lov 30. april 1993 nr. 40 om registrert partnerskap
-(partnerskapsloven) [opphevet]
-Lov 17. juli 1992 nr. 100 om barneverntjenester
-(barnevernloven)
-Lov 4. juli 1991 nr. 47 om ekteskap (ekteskapsloven)
-Lov 3. juni 1983 nr. 54 om tannhelsetjenesten
-(tannhelsetjenesteloven)
-Lov 22. mai 1981 nr. 25 om rettergangsmåten i
-straffesaker (straffeprosessloven)
-Lov 8. april 1981 nr. 7 om barn og foreldre (barnelova)
-Lov 13. juni 1980 nr. 35 om fri rettshjelp (rettshjelpsloven)
-Lov 9. juni 1978 nr. 45 om likestilling mellom kjønnene [opphevet]
-Lov 10. februar 1967 nr. 10 om behandlingsmåten
-i forvaltningssaker (forvaltningsloven)
-Lov 9. juni 1961 nr. 1 om skytevåpen og ammunisjon m.v. (våpenloven)
-Lov 18. juni 1965 nr. 4 om vegtrafikk (vegtrafikkloven)
-Lov 13. august 1915 nr. 5 om domstolene (domstolloven)
-Lov 22. mai 1902 nr. 10 Almindelig borgerlig Straffelov (straffeloven 1902) [opphevet]
-
-245
-
-Referanseliste
-
-Lov 17. mai 1814 Kongeriket Norges Grunnlov
-Norske forskrifter
-Forskrift 6. september 2017 nr. 1353 om felles
-rammeplan for helse- og sosialfagutdanninger
-Forskrift 7. mars 2017 nr. 282 om fysisk sikkerheit
-i krisesentertilbodet
-Forskrift 28. oktober 2016 nr. 1250 om ledelse og
-kvalitetsforbedring i helse- og omsorgstjenesten
-Forskrift 20. mars 2015 nr. 231 om krav til og organisering av kommunal legevaktordning, ambulansetjeneste, medisinsk nødmeldetjeneste
-mv. (akuttmedisinforskriften)
-Forskrift 20. september 2013 nr. 1097 om behandling av opplysninger i politiet og påtalemyndigheten (politiregisterforskriften)
-Forskrift 19. april 2012 nr. 358 om læreplan i norsk
-og samfunnskunnskap for voksne innvandrere
-Forskrift 15. oktober 2009 nr. 1286 om utlendingers adgang til riket og deres opphold her (utlendingsforskriften)
-Forskrift 25. juni 2009 nr. 904 om skytevåpen, våpendeler og ammunisjon mv. (våpenforskriften)
-Forskrift 18. desember 2006 nr. 1478 om mekling
-etter ekteskapsloven
-Forskrift 15. desember 2006 nr. 1456 til forvaltningsloven (forvaltningslovforskriften)
-Forskrift 12. desember 2005 om salær fra det offentlige til advokater m.fl. etter faste satser
-(stykkprissatser) ved fri rettshjelp og i straffesaker (stykkprisforskriften)
-Forskrift 20. desember 1996 nr. 1161 til domstolloven kapittel 11 (advokatforskriften)
-Forskrift 28. juni 1985 nr. 1679 om ordningen av
-påtalemyndigheten (påtaleinstruksen)
-Norske forarbeider
-NOU 2019: 20 En styrket familietjeneste: En gjennomgang av familieverntjenesten
-NOU 2019: 5 Ny forvaltningslov: Lov om saksbehandlingen i offentlig forvaltning
-NOU 2017: 12 Svikt og svik: Gjennomgang av saker hvor barn har vært utsatt for vold, seksuelle overgrep og omsorgssvikt
-NOU 2017: 5 En påtalemyndighet for fremtiden:
-Påtaleanalysen
-NOU 2016: 24 Ny straffeprosesslov
-NOU 2016: 16 Ny barnevernslov: Sikring av barnets rett til omsorg og beskyttelse
-NOU 2016: 9 Rettferdig og forutsigbar – voldsskadeerstatning
-
-[Side 248]
-
-246
-
-Referanseliste
-
-NOU 2020: 17
-Varslede drap?
-
-NOU 2015: 11 Med åpne kort: Forebygging og
-oppfølging av alvorlige hendelser i helse- og
-omsorgstjenestene
-NOU 2013: 9 Ett politi – rustet til å møte fremtidens utfordringer: Politianalysen
-NOU 2011: 19 Ny våpenlov: Gjennomgang av gjeldende våpenlovgivning og forslag til ny våpenlov
-NOU 2010: 3 Drap i Norge i perioden 2004–2009
-NOU 2011: 18 Struktur for likestilling
-NOU 2003: 31 Retten til et liv uten vold: Menns
-vold mot kvinner i nære relasjoner
-NOU 2003: 21 Kriminalitetsbekjempelse og personvern – politiets og påtalemyndighetens behandling av opplysninger
-NOU 1992: 16 Sterkere vern og økt støtte for kriminalitetsofre [Hentet fra Nasjonalbiblioteket.no]
-Innst. 41 L (2020–2021) Innstilling til Stortinget
-fra justiskomiteen om Endringer i straffeloven
-mv. (avvergingsplikt, utenomrettslig tvangsekteskap, diskrimineringsvern mv.)
-Prop. 1 S (2020–2021) (Barne- og familiedepartementet) Proposisjon til Stortinget (forslag til
-stortingsvedtak) for budsjettåret 2021
-Prop. 66 L (2019–2020) Endringer i straffeloven
-mv. (avvergingsplikt, utenomrettslig tvangsekteskap, diskrimineringsvern, skyting mot politiet mv.)
-Prop. 1 S (2019–2020) (Justis- og beredskapsdepartementet) Proposisjon til Stortinget (forslag til stortingsvedtak) for budsjettåret 2021
-Prop. 131 L (2018–2019) Lov om informasjonstilgang m.m. for Partnerdrapsutvalget
-Prop. 63 L (2018–2019) Endringer i diskrimineringsombudsloven og likestillings- og diskrimineringsloven (etablering av et lavterskeltilbud for behandling av saker om seksuell trakassering og en styrking av aktivitets- og redegjørelsesplikten)
-Prop. 169 L (2016–2017) Endringer i barnevernloven mv. (bedre rettssikkerhet for barn og foreldre)
-Prop. 167 L (2016–2017) Endringer i barnelova og
-straffeloven mv. (bedre rettsvern for barn mot
-vold og overgrep)
-Prop. 73 L (2016–2017) Endringer i barnevernloven (barnevernsreform)
-Prop. 71 L (2016–2017) Endringer i helselovgivningen (overføring av det offentlige tannhelsetjenesteansvaret, lovfesting av kompetansekrav m.m.)
-
-Prop. 68 L (2016–2017) Lov om Statens undersøkelseskommisjon for helse- og omsorgstjenesten
-Prop. 66 S (2016–2017) Samtykke til ratifikasjon
-av Europarådets konvensjon av 11. mai 2011
-om forebygging og bekjempelse av vold mot
-kvinner og vold i nære relasjoner
-Prop. 12 S (2016–2017) Opptrappingsplan mot
-vold og overgrep (2017–2021)
-Prop. 61 LS (2014–2015) Endringer i politiloven
-mv. (trygghet i hverdagen – nærpolitireformen)
-Innst. 169 S (2012–2013) Innstilling fra kontrollog konstitusjonskomiteen om rapport til Stortingets presidentskap fra Menneskerettighetsutvalget om menneskerettigheter i Grunnloven
-Prop. 114 L (2012–2013) Endringer i politiregisterloven mv.
-Menneskerettighetsutvalget (2011): Rapport til
-Stortingets presidentskap fra Menneskerettighetsutvalget om menneskerettigheter i Grunnloven, Dokument nr. 16 (2011–2012), 19. desember 2011.
-Prop. 91 L (2010–2011) Lov om kommunale helseog omsorgstjenester m.m. (helse- og omsorgstjenesteloven)
-Prop. 116 L (2009–2010) Endringer i domstolloven (ekstraordinære valg til lekdommerutvalgene m.m.) og straffeloven 1902 (avvergingsplikt)
-Innst. O. nr. 68 (2008–2009) Innstilling fra justiskomiteen om lov om endringer i straffeloven
-og straffeprosessloven (kontaktforbud med
-elektronisk kontroll, endring av saksbehandlingsreglene for besøksforbud mv.)
-Ot.prp. nr. 108 (2008–2009) Om lov om behandling av opplysninger i politiet og påtalemyndigheten (politiregisterloven)
-Ot.prp. nr. 96 (2008–2009) Om lov om kommunale krisesentertilbod (krisesenterlova)
-Ot.prp. nr. 25 (2008–2009) Om lov om endringer i
-straffeloven og straffeprosessloven (kontaktforbud med elektronisk kontroll, endring av
-saksbehandlingsreglene for besøksforbud
-mv.)
-Ot.prp. nr. 22 (2008–2009) Om lov om endringer i
-straffeloven 20. mai 2005 nr. 28 (siste delproposisjon – sluttføring av spesiell del og tilpasning av annen lovgivning)
-Ot.prp. nr. 42 (2006–2007) Om lov om endringer i
-finansieringsvirksomhetsloven og enkelte andre lover (kredittforening som konsernspiss
-mv.)
-
-[Side 249]
-
-NOU 2020: 17
-Varslede drap?
-
-Ot.prp. nr. 8 (2007–2008) Om lov om endringer i
-straffeloven 20. mai 2005 nr. 28 mv. (skjerpede
-og formildende omstendigheter, folkemord,
-rikets selvstendighet, terrorhandlinger, ro,
-orden og sikkerhet, og offentlig myndighet)
-Ot.prp. nr. 75 (2006–2007) Om lov om utlendingers adgang til riket og deres opphold her (utlendingsloven)
-Ot.prp. nr. 113 (2004–2005) Om lov om oppheving
-av løsgjengerloven og om endringer i straffeloven mv. (eget straffebud mot vold i nære
-relasjoner mv.)
-Ot.prp. nr. 117 (2001–2002) Om lov om endringer
-i politiloven og straffeloven (fiktiv identitet)
-Ot.prp. nr. 109 (2001–2002) Om lov om endringer
-i straffeloven og straffeprosessloven (rasistiske symboler, besøksforbud og strafferammen ved sammenstøt av lovbrudd)
-Ot.prp. nr. 13 (1998–99) Om lov om helsepersonell mv. (helsepersonelloven)
-Ot.prp. nr. 6 (1996–97) Om lov om familievernkontor
-Ot.prp. nr. 33 (1993–94) Om lov om endringer i
-straffeprosessloven mv (styrking av kriminalitetsofres stilling)
-Ot.prp. nr. 28 (1990–91) Om lov om ekteskap
-Ot.prp. nr. 29 (1990–91) Om lov om sosiale tjenester m.v. (sosialloven)
-Ot.prp. nr. 3 (1976–77) Om lov om endringer i lov
-10. februar 1967 om behandlingsmåten i forvaltningssaker (regler om taushetsplikt m. m.)
-Norsk rettspraksis
-Høyesterett
-HR-2019-621-A
-HR-2018-112-A
-HR-2017-1840-A
-HR-2017-667-A
-HR-2016-783-A
-Rt. 2015 s. 959
-Rt. 2015 s. 93
-Rt. 2014 s. 735
-Rt. 2014 s. 695
-Rt. 2013 s. 1442
-Rt. 2013 s. 879
-Rt. 2013 s. 588
-Rt. 2013 s. 329
-Rt. 2012 s. 835
-Rt. 2009 s. 1261
-Rt. 2008 s. 1491
-Rt. 2008 s. 504
-Rt. 2007 s. 1253
-
-247
-
-Referanseliste
-
-Rt. 2004 s. 1658
-Rt. 1989 s. 1363
-Lagmannsrett
-LB-2016-116118-2
-RG 2009 s. 754
-LB-2008-31057
-Internasjonale konvensjoner, rettspraksis, komitéanbefalinger mm.
-Europaparlaments- og rådsforordning (EU) 2016/
-679 om vern av fysiske personer i forbindelse
-med behandling av personopplysninger og om
-fri utveksling av slike opplysninger – personvernforordningen (GDPR), 27. april 2016.
-Europarådets konvensjon om forebygging og bekjempelse av vold mot kvinner og vold i nære
-relasjoner (Istanbulkonvensjonen), CETS 210,
-Istanbul, 11. mai 2011.
-De forente nasjoners internasjonale konvensjon
-om avskaffelse av alle former for diskriminering av kvinner med tilleggsprotokoll 6. oktober 1999 (FNs kvinnekonvensjon), New York,
-18. desember 1979.
-Europarådets konvensjon om beskyttelse av menneskerettighetene og de grunnleggende friheter (EMK), Roma, 4. november 1950.
-EMDs dom 9. juni 2009 i sak Opuz mot Tyrkia, Application No. 33401/02.
-EMDs dom 26. mars 2013 i sak Valiuliené mot Litauen, Application No. 33234/07.
-EMDs avvisningsavgjørelse 23. oktober 2012 i sak
-Irene Wilson mot Storbritannia, Application
-No. 10601/09.
-EMDs dom 12. juni 2008 i sak Bevacqua og S mot
-Bulgaria, Application No. 71127/01.
-GREVIO (2019): Group of Experts on Action
-against Violence against Women and Domestic Violence (GREVIO), Baseline Evaluation Report Sweden, GREVIO/Inf (2018)15, 21.
-januar 2019.
-FNs kvinnekomité (1992): The Committee on the
-Elimination of Discrimination Against Women
-(CEDAW Committee), General recommendation no. 19: Violence against women, 1992.
-FNs kvinnekomité (2017): The Committee on the
-Elimination of Discrimination Against Women
-(CEDAW Committee), General recommendation No. 35 on gender-based violence against
-women, updating general recommendation No.
-19, CEDAW/C/GC/35, 2017.
-
-[Side 250]
-
-248
-
-Referanseliste
-
-NOU 2020: 17
-Varslede drap?
-
-Svensk rett
-Lag (2007:606) om utredningar för att förebygga
-vissa skador och dödsfall
-Prop. 2017/18:215 Utredningar för att förebygga
-vissa skador och dödsfall
-Förordning (2007:827) med instruktion för Statskontoret
-
-[Side 251]
-
-NOU 2020: 17
-Varslede drap?
-
-Vedlegg 1
-
-Kodebok til bruk for Partnerdrapsutvalget
-
-249
-
-Vedlegg 1
-
-[Side 252]
-
-250
-
-NOU 2020: 17
-
-Vedlegg 1
-
-Varslede drap?
-
-Kodebok til bruk for Partnerdrapsutvalget
-Ditt navn: _____________________________________________________
-Sakens nummer: _______________________________________________
-
-Del 1: Deskriptive opplysninger
-A. Opplysninger om offeret
-1. Offerets kjønn:
- Kvinne
- Mann
-2. Offerets alder: _________
-3. Offerets forhold til gjerningspersonen på tidspunktet for drapet:
- Gift, registrert partner eller samboende
- Tidligere gift eller registrert partner eller samboende
- I en brudd- eller separasjonsfase (noter under hva som underbygger dette)
- Uklart (noter):
-
-4. Offerets tilknytning til Norge:
- Norsk statsborger som …
-o ikke tidligere har hatt annet statsborgerskap
-o har foreldre som er født i utlandet
-o tidligere har hatt annet statsborgerskap
- Utenlandsk statsborger som …
-o er EU/EØS-borger med permanent opphold i Norge
-o er EU/EØS-borger med midlertidig opphold i Norge
-o er annen utenlandsk statsborger med permanent opphold i Norge
-o er annen utenlandsk statsborger med midlertidig opphold i Norge
-o er asylsøker
- Urfolk eller nasjonal minoritet (noter): _____________________________
- Annen oppholdsstatus (for eksempel papirløs, turist, mv.): _____________
-5. Offerets utdanning, inkludert grunnskole (antall år): _________
-
-1
-
-Figur 1.1
-
-Noter nummer på
-saksdokumentet
-opplysningen
-stammer fra:
-
-[Side 253]
-
-NOU 2020: 17
-Varslede drap?
-
-6. Offerets tilknytning til arbeidslivet (kan sette flere kryss):
- Ingen opplysninger
- I arbeid (heltid eller deltid)
- Arbeider i primærnæringene (heltid eller deltid)
- Arbeidssøker (mottar arbeidsledighetstrygd el.)
- Trygdet
- Hjemmeværende
- Student/elev
- Pensjonist
- Deltaker i introduksjonsprogram/norskopplæring/andre tiltak (flyktning,
-asylsøker)
- Annet: _________________________________
-7. Offerets rusmiddelbruk (alkohol, narkotika, medikamenter):
- Ingen opplysninger
- Opplysninger om at offeret ikke misbrukte rusmidler
- Opplysninger om rusmiddelmisbruk (noter type rusmidler og hvem
-opplysningene stammer fra (lege/venn/familie/andre)):
-(Obs! Se spørsmål 31‒32 om ruspåvirkning på gjerningstidspunktet)
-
-8. Offerets psykiske helseplager:
- Ingen opplysninger
- Opplysninger om at offeret ikke hadde diagnostisert psykisk lidelse eller
-symptomer på psykiske problemer
- Diagnostisert psykisk lidelse (noter under)
- Opplysninger om symptomer på psykiske problemer (noter hva, hvem
-opplysningene stammer fra (lege/venn/familie/andre), når
-lidelsen/symptomene ble registrert, om forklaringene er avvikende, om det
-synes å være tvil knyttet til temaet. Husk at vi ikke skal
-«fjerndiagnostisere», men beskrive det hjelpeapparatet har registrert):
-
-2
-
-Figur 1.2
-
-251
-
-Vedlegg 1
-
-[Side 254]
-
-252
-
-NOU 2020: 17
-
-Vedlegg 1
-
-Varslede drap?
-
-9. Er offeret vurdert som (lettere) psykisk utviklingshemmet?
- Ingen opplysninger
- Opplysninger om at offeret ikke er lettere psykisk utviklingshemmet
- Opplysninger om at offeret er lettere psykisk utviklingshemmet (noter;
-hvem opplysningene stammer fra, når dette ble registrert):
-
-10. Offerets selvmordsatferd
- Ingen opplysninger
- Opplysninger om at offeret ikke hadde vært eller var suicidal
- Opplysninger om at offeret hadde vært eller var suicidal (noter hva
-selvmordsatferden har bestått i (inkludert trusler om selvmord), hvem
-opplysningene stammer fra og hva slags oppfølging som ble gitt):
-
-11. Offerets fysiske helseplager:
- Ingen opplysninger
- Opplysninger om fysiske helseplager (noter hva, og hvem opplysningene
-stammer fra (lege/venn/familie/andre)):
-
-3
-
-Figur 1.3
-
-[Side 255]
-
-NOU 2020: 17
-Varslede drap?
-
-B. Opplysninger om gjerningspersonen
-12. Gjerningspersonens kjønn:
- Kvinne
- Mann
-13. Gjerningspersonens alder: _________
-14. Gjerningspersonens tilknytning til Norge:
- Norsk statsborger som …
-o ikke tidligere har hatt annet statsborgerskap
-o har foreldre som er født i utlandet
-o tidligere har hatt annet statsborgerskap
- Utenlandsk statsborger som …
-o er EU/EØS-borger med permanent opphold i Norge
-o er EU/EØS-borger med midlertidig opphold i Norge
-o er annen utenlandsk statsborger med permanent opphold i Norge
-o er annen utenlandsk statsborger med midlertidig opphold i Norge
-o er asylsøker
- Urfolk eller nasjonal minoritet (noter): _____________________________
- Annen oppholdsstatus (for eksempel papirløs, turist, mv.): _____________
-15. Gjerningspersonens utdanning, inkludert grunnskole (antall år): _________
-16. Gjerningspersonens tilknytning til arbeidslivet (kan sette flere kryss):
- Ingen opplysninger
- I arbeid (heltid eller deltid)
- Arbeider i primærnæringene (heltid eller deltid)
- Arbeidssøker (mottar arbeidsledighetstrygd el.)
- Trygdet
- Hjemmeværende
- Student/elev
- Pensjonist
- Deltaker i introduksjonsprogram/norskopplæring/andre tiltak (flyktning,
-asylsøker)
- Annet: __________________________________
-17. Gjerningspersonens rusmiddelbruk (alkohol, narkotika, medikamenter):
- Ingen opplysninger
- Opplysninger om at gjerningspersonen ikke misbrukte rusmidler
- Opplysninger om rusmiddelmisbruk (noter type rusmidler og hvem
-opplysningene stammer fra (lege/venn/familie/andre)):
-(Obs! Se spørsmål 31‒32 om ruspåvirkning på gjerningstidspunktet)
-
-4
-
-Figur 1.4
-
-253
-
-Vedlegg 1
-
-[Side 256]
-
-254
-
-NOU 2020: 17
-
-Vedlegg 1
-
-Varslede drap?
-
-18. Gjerningspersonens psykiske helseplager (før og etter drapet):
- Ingen opplysninger
- Opplysninger om at gjerningspersonen ikke hadde diagnostisert psykisk
-lidelse eller symptomer på psykiske problemer
- Diagnostisert psykisk lidelse (noter under)
- Opplysninger om symptomer på psykiske problemer (noter hva, hvem
-opplysningene stammer fra (lege/venn/familie/andre), når
-lidelsen/symptomene ble registrert, om forklaringene er avvikende, om det
-synes å være tvil knyttet til temaet. Husk at vi ikke skal
-«fjerndiagnostisere», men beskrive det hjelpeapparatet har registrert):
-
-5
-
-Figur 1.5
-
-[Side 257]
-
-NOU 2020: 17
-Varslede drap?
-
-19. Er gjerningspersonen vurdert som (lettere) psykisk utviklingshemmet?
- Ingen opplysninger
- Opplysninger om at gjerningspersonen ikke er lettere psykisk
-utviklingshemmet
- Opplysninger om at gjerningspersonen er lettere psykisk utviklingshemmet
-(noter; hvem opplysningene stammer fra, når dette ble registrert):
-
-20. Gjerningspersonens selvmordsatferd
- Ingen opplysninger
- Opplysninger om at gjerningspersonen ikke hadde vært eller var suicidal
- Opplysninger om at gjerningspersonen hadde vært eller var suicidal (noter
-hva selvmordsatferden har bestått i (inkludert trusler om selvmord), hvem
-opplysningene stammer fra og hva slags oppfølging som ble gitt):
-
-6
-
-Figur 1.6
-
-255
-
-Vedlegg 1
-
-[Side 258]
-
-256
-
-NOU 2020: 17
-
-Vedlegg 1
-
-Varslede drap?
-
-21. Gjerningspersonens fysiske helseplager:
- Ingen opplysninger
- Opplysninger om sykdom/fysiske helseplager (noter hva, og hvem
-opplysningene stammer fra (lege/venn/familie/andre)):
-
-22. Har gjerningspersonen tidligere begått lovbrudd?
- Ingen opplysninger
- Nei
- Ja (noter, for eksempel hva slags type lovbrudd, om det foreligger dom i
-saken osv.)
-
-C. Opplysninger om barn (inkl. voksne barn)
-23. Har offeret og/eller gjerningspersonen barn (felles eller særkullsbarn)?
- Nei/ingen opplysninger
- Ja (noter, for eksempel hvem som er foreldre til særkullsbarnet, barnets
-alder, bosted osv.):
-
-7
-
-Figur 1.7
-
-[Side 259]
-
-NOU 2020: 17
-Varslede drap?
-
-24. Var barnet(a) tilstede ved drapshandlingen?
- Nei
- Ingen opplysninger
- Ja (noter, for eksempel om barnet selv ble skadet/drept eller var vitne til
-handlingen):
-
-D. Opplysninger om drapshandlingen og etterforskningen
-25. Er det andre ofre (som også er drept) i saken?
- Nei
- Ja (noter hvem; kjønn, alder, relasjon til gjerningspersonen):
-
-8
-
-Figur 1.8
-
-257
-
-Vedlegg 1
-
-[Side 260]
-
-258
-
-NOU 2020: 17
-
-Vedlegg 1
-
-Varslede drap?
-
-26. Er det andre som er fysisk skadet i saken?
- Nei
- Ja (noter hvem; kjønn, alder, relasjon til gjerningspersonen):
-
-27. Hvor skjedde drapet?
- I felles hjem eller like i nærheten (for eksempel på trappa, i hagen, i
-garasjen)
- I offerets hjem
- I gjerningspersonens hjem
- Annet privat sted
- På en offentlig plass som er tilgjengelig for alle (på en skole, på gaten, i
-skogen)
- Annet sted (noter): ____________________________________________
-28. Hvordan ble drapet utført?
- Skytevåpen
- Kniv eller annet stikkvåpen (for eksempel saks, skrutrekker, glasskår)
- Vold med en stump gjenstand (for eksempel en stein, lysestake, hammer)
- Vold i form av slag, spark, dytting, dytting ned trapp
- Kvelning
- Forgiftning
- Påkjørsel
- Annet (noter): ________________________________________________
-29. Er det opplysninger om motiv for drapet?
- Nei
- Ja (noter hva slags motiv, for eksempel krangel, sjalusi, hevn, ære, frykt,
-næringsvirksomhet, tap av identitet el.):
-
-9
-
-Figur 1.9
-
-[Side 261]
-
-NOU 2020: 17
-Varslede drap?
-
-30. Er det opplysninger om mishandling av dyr i saken?
- Nei
- Ja (noter hva slags opplysninger og hvem de stammer fra):
-
-31. Gjerningspersonens ruspåvirkning på drapstidspunktet:
- Ingen opplysninger
- Var ikke ruspåvirket
- Var påvirket av alkohol
- Var påvirket av narkotika
- Var påvirket av medikamenter (piller eller andre farmasøytiske preparater)
- Var påvirket av kombinasjons-/blandingsrus (alkohol, narkotika og/eller
-medikamenter)
-32. Offerets ruspåvirkning på drapstidspunktet:
- Ingen opplysninger
- Var ikke ruspåvirket
- Var påvirket av alkohol
- Var påvirket av narkotika
- Var påvirket av medikamenter (piller eller andre farmasøytiske preparater)
- Var påvirket av kombinasjons-/blandingsrus (alkohol, narkotika og/eller
-medikamenter)
-
-10
-
-Figur 1.10
-
-259
-
-Vedlegg 1
-
-[Side 262]
-
-260
-
-NOU 2020: 17
-
-Vedlegg 1
-
-Varslede drap?
-
-33. Ble et eller flere avhør av gjerningspersonen i forbindelse med drapet
-gjennomført med tolk?
- Ingen opplysninger
- Nei
- Ja (noter. Presiser om det ble gjennomført noen avhør med og noen uten
-tolk):
-
-Del 2: Partnervold før drapet, mm.
-E. Partnervold
-34. Utsatte gjerningspersonen offeret for vold (fysisk, psykisk, seksuell, materiell
-eller annen type vold) før drapet? Her er det ikke avgjørende om volden er
-registrert før drapet.
- Nei/ingen opplysninger
- Ja, beskriv:
-(For eksempel type vold, alvorlighet, hyppighet, gjensidighet, når volden
-begynte og om den pågikk og evt. eskalerte frem mot drapet. En
-enkeltstående voldshendelse langt tilbake i tid er like viktig å notere som
-eskalerende alvorlig vold rett før drapet)
-NB! Om volden er registrert og evt. videreformidlet av hjelpeapparatet,
-eller observert av privatpersoner, kan utdypes i del 3 om hjelpeapparatet, se
-spørsmål 47 flg.))
-
-11
-
-Figur 1.11
-
-[Side 263]
-
-NOU 2020: 17
-Varslede drap?
-
-35. Er gjerningspersonen tidligere domfelt for partnervold mot offeret?
- Ingen opplysninger
- Nei
- Ja, beskriv:
-12
-
-Figur 1.12
-
-261
-
-Vedlegg 1
-
-[Side 264]
-
-262
-
-NOU 2020: 17
-
-Vedlegg 1
-
-Varslede drap?
-
-36. Ga offeret uttrykk for å være i livsfare?
- Nei/ingen opplysninger
- Ja, beskriv:
-(Evt. registrering/videreformidling kan utdypes i del 3 om hjelpeapparatet,
-se spørsmål 47 flg.)
-
-F. Våpen, trusler mm.
-37. Var gjerningspersonens tilgang til skytevåpen et tema med politi, hjelpeapparat
-offeret eller andre?
- Nei/ingen opplysninger
- Ja , beskriv:
-(For eksempel hvem som tok det opp og hva som ble gjort, for eksempel
-om politiet opprettet forvaltningssak)
-
-13
-
-Figur 1.13
-
-[Side 265]
-
-NOU 2020: 17
-Varslede drap?
-
-38. Fremsatte gjerningspersonen trusler?
- Nei/ingen opplysninger
- Ja, beskriv:
-(Alle former for trusler er relevant, for eksempel drapstrusler, trusler med
-våpen, verbale trusler om vold, tap av foreldrerett eller oppholdstillatelse,
-om å skade barn eller selvmord)
-
-39. Har gjerningspersonen gitt uttrykk for konkrete planer om å skade eller drepe
-offeret?
- Nei/ingen opplysninger
- Ja, beskriv:
-(Ev. registrering/videreformidling kan utdypes i del 3 om hjelpeapparatet,
-se spørsmål 47 flg.)
-
-14
-
-Figur 1.14
-
-263
-
-Vedlegg 1
-
-[Side 266]
-
-264
-
-NOU 2020: 17
-
-Vedlegg 1
-
-Varslede drap?
-
-40. Hadde gjerningspersonen tilgang (i eget eie eller på annen måte) på
-skytevåpen?
- Nei/ingen opplysninger
- Eide registrerte våpen
- Eide uregistrerte våpen
- Tilgang til andres våpen
-G. Beskyttelsestiltak
-41. Har det vært besøks- eller kontaktforbud i saken?
- Nei/ingen opplysninger
- Ja, beskriv:
-(For eksempel bakgrunnen for besøksforbudet, eventuelle brudd, om
-eventuelle brudd ble registrert og fulgt opp strafferettslig eller på andre
-måter – evt. hvorfor det ikke ble fulgt opp)
-Nærmere om oppfølging i hjelpeapparatet kan utdypes i del 3, spørsmål 47
-flg.)
-
-42. Har det vært voldsalarm i saken?
- Nei/ingen opplysninger
- Ja, beskriv:
-(For eksempel om voldsalarmen ble utløst før drapet eller i forbindelse
-med drapet, og hvordan politiet fulgte dette opp)
-
-15
-
-Figur 1.15
-
-[Side 267]
-
-NOU 2020: 17
-Varslede drap?
-
-43. Har det vært kontaktforbud med elektronisk kontroll (omvendt voldsalarm) i
-saken?
- Nei/ingen opplysninger
- Ja, beskriv:
-
-44. Har det vært andre typer beskyttelsestiltak i saken (som pågripelse,
-motivasjonssamtale, hjemmebesøk)?
- Nei/ingen opplysninger
- Ja, beskriv:
-
-H. Tidligere erfaringer med vold
-45. Har gjerningspersonen utsatt andre personer enn offeret for vold?
- Nei/ingen opplysninger
- Ja, beskriv:
-(For eksempel vold mot barn, tidligere partner, foreldre eller andre. Er det
-evt. dom i saken?)
-
-16
-
-Figur 1.16
-
-265
-
-Vedlegg 1
-
-[Side 268]
-
-266
-
-NOU 2020: 17
-
-Vedlegg 1
-
-Varslede drap?
-
-46. Har gjerningspersonen tidligere vært utsatt for eller vitne til vold fra andre
-personer?
- Nei/ingen opplysninger
- Ja, beskriv:
-(For eksempel vold i egen opprinnelsesfamilie, i tidligere forhold, eller
-annet. Er det evt. dom i saken?)
-
-47. Har offeret tidligere vært utsatt for eller vitne til vold fra andre personer?
- Nei/ingen opplysninger
- Ja, beskriv:
-(For eksempel vold i egen opprinnelsesfamilie, i tidligere forhold, eller
-annet. Er det evt. dom i saken?
-
-17
-
-Figur 1.17
-
-[Side 269]
-
-NOU 2020: 17
-Varslede drap?
-
-18
-
-Figur 1.18
-
-267
-
-Vedlegg 1
-
-[Side 270]
-
-268
-
-NOU 2020: 17
-
-Vedlegg 1
-
-Varslede drap?
-
-Del 3: Kontakt med og oppfølging i politi, hjelpe- og
-behandlingsapparat
-Det er flere momenter som kan være interessante i dette kapittelet, for eksempel grunnene
-til og tidspunktene for kontakten mellom gjerningspersonen/offeret og hjelpeapparatet, om
-vedkommende ble spurt om voldsutøvelse/voldsutsatthet, om risikovurderingsverktøy ble
-brukt i saken (SARA:SV eller Danger Assessment (DA)), om risiko for partnervold ble
-registrert, om risikohåndteringstiltak ble iverksatt, om risiko for partnervold ble
-videreformidlet til andre instanser og hva instansene ellers gjorde for å følge opp saken.
-Hvis saken ikke ble fulgt (godt nok) opp, er det viktig å beskrive grunnene til det så langt
-det fremkommer av dokumentene. Se eget spørsmål om kommunikasjonen mellom
-gjerningspersonen/offeret og hjelpeapparatet i delkapittel P.
-
-I. Kontakt med politiet
-48. Har gjerningspersonen hatt kontakt med politiet før drapet?
- Nei/ingen opplysninger
- Ja, beskriv:
-
-19
-
-Figur 1.19
-
-[Side 271]
-
-NOU 2020: 17
-Varslede drap?
-
-49. Har offeret hatt kontakt med politiet før drapet?
- Nei/ingen opplysninger
- Ja, beskriv:
-
-J. Kontakt med helsevesen (offentlig og privat)
-50. Har gjerningspersonen hatt kontakt med helsevesen (fastlege, sykehus,
-legevakt, psykolog, psykiater eller andre) før drapet?
- Nei/ingen opplysninger
- Ja, beskriv:
-(Det er lav terskel for å beskrive kontakt her. Kontakt med fastlege om en
-somatisk plage kan fremstå irrelevant ifbm. partnerdrapet, men ha in mente
-at mange vegrer seg mot å ta kontakt med fastlege om «vanskelige» temaer
-og dermed først og fremst tar opp «enkle» problemer. Det vil for eksempel
-også være relevant om det plutselig er hyppige legetimer, selv om temaet
-for timene fremstår irrelevant. Viktig å beskrive om opplysningene
-stammer fra pasientjournal eller avhør med gjerningspersonen.
-Gjerningsperson kan ofte si at noe er tatt opp med legen, mens journalen
-bare beskriver en skadet skulder.)
-
-20
-
-Figur 1.20
-
-269
-
-Vedlegg 1
-
-[Side 272]
+## Krisesenter
 
-270
+### Tydeliggjøring av kommunenes ansvar for krisesentertilbudet
 
-NOU 2020: 17
+Utvalget anbefaler følgende tiltak:
 
-Vedlegg 1
-
-Varslede drap?
-
-51. Har offeret hatt kontakt med helsevesen (fastlege, sykehus, legevakt, psykolog,
-psykiater eller andre) før drapet?
- Nei/ingen opplysninger
- Ja, beskriv:
-(Samme momenter her som i spørsmål 50 rett over)
-
-21
-
-Figur 1.21
-
-[Side 273]
+- Kommunenes ansvar for å sikre gjennomføring og finansiering av krisesentertilbudet må tydeliggjøres i krisesenterlova.
 
-NOU 2020: 17
-Varslede drap?
+Saksgjennomgangen viste at bare 4 av 19 drapsofre hadde kontakt med krisesenter før drapet, se punkt 12.5.1. Det er vanskelig å si noe sikkert om hvorfor få av ofrene i de gjennomgåtte sakene var i kontakt med krisesenter før drapet, se punkt 12.5.4.2. Utvalget mener at det er all grunn til å tro at krisesenter er et effektivt virkemiddel i arbeidet med å forebygge partnerdrap. Krisesentrene tilbyr et beskyttet botilbud til voldsutsatte, gir støtte, råd og veiledning gjennom dagtilbudet og en døgnåpen telefonlinje, og tilbyr oppfølging i en reetableringsfase, se også punkt 7.4. Utvalgets hovedanbefaling er å styrke krisesentertilbudet, slik at flere voldutsatte kan få effektiv beskyttelse mot partnervold og partnerdrap.
 
-K. Kontakt med familievernkontor
-52. Har gjerningspersonen hatt kontakt med familievernkontor før drapet?
- Nei/ingen opplysninger
- Ja, beskriv:
+Etter krisesenterlova § 2 har kommunen ansvar for alle sider ved krisesentertilbudet. En kunnskapsoversikt over krisesentertilbudet i Norge viser imidlertid at ansvaret for tilbudet i stor grad fortsatt hviler tungt på krisesentrene.[^588] Rundt halvparten av krisesentrene har oppgitt at de har tilstrekkelige ressurser til å lede og å drifte krisesenteret. En fjerdedel oppga at de «i noen grad» har tilstrekkelige ressurser. Åtte krisesentre oppga at de ikke har nok stillinger/kapasitet til å lede arbeidet. Tolv krisesentre oppga at de ikke har nok brukerrettede stillinger/bemanning.[^589] Utvalget erfarer at for noen krisesentrene er ressurssituasjonen svært utfordrende. Samisk krisesenter i Karasjok ble for eksempel nedlagt i 2019 som følge av kommunenes manglende evne til å finansiere et tilfredsstillende tilbud.
 
-53. Har offeret hatt kontakt med familievernkontor før drapet?
- Nei/ingen opplysninger
- Ja, beskriv:
-
-L. Kontakt med barnevernet
-54. Har gjerningspersonen eller offeret hatt kontakt med barnevernet før drapet?
- Nei/ingen opplysninger
- Ja, beskriv:
-
-22
-
-Figur 1.22
+En grunnleggende forutsetning for å sikre et trygt og helhetlig krisesentertilbud til personer som utsettes for vold i nære relasjoner er, etter utvalgets syn, at kommunene fullt ut tar det lovpålagte ansvaret for krisesentertilbudet. En tydeliggjøring av krisesenterlova kan bidra til dette. Utvalget understreker i denne forbindelse viktigheten av at kommunene sikrer tilstrekkelige ressurser. Dette bør fremkomme av krisesenterlova.
 
-271
+### Styrking av arbeidet for et likeverdig krisesentertilbud
 
-Vedlegg 1
+Utvalget anbefaler følgende tiltak:
 
-[Side 274]
+- Kommunenes ansvar for å sikre et likeverdig krisesentertilbud for alle voldsutsatte må tydeliggjøres i krisesenterlova, og være et prioritert innsatsområdet i kommunale handlingsplaner mot vold i nære relasjoner.
 
-272
+- Fylkesmennene må føre målrettet tilsyn med at kommunene tar ansvar for å sikre et likeverdig krisesentertilbud av god kvalitet.
 
-NOU 2020: 17
+- Spredning av informasjon om krisesentertilbudet må være et prioritert innsatsområde i kommunale handlingsplaner mot vold i nære relasjoner.
 
-Vedlegg 1
+- Det bør utredes å innføre en bemanningsnorm for krisesentrene.
 
-Varslede drap?
+Både forskning og utvalgets saksgjennomgang har vist at mennesker som befinner seg i en marginalisert livssituasjon har høyest risiko for å bli utsatt for, eller for å begå, alvorlig partnervold og partnerdrap, se punkt 11.2. Et likeverdig krisesentertilbud er en forutsetning for at alle grupper voldsutsatte skal ha mulighet til å benytte seg av tilbudet.
 
-M. Kontakt med krisesenter
-55. Har offeret hatt kontakt med krisesenter før drapet?
- Nei/ingen opplysninger
- Ja, beskriv:
-(For eksempel omstendighetene rundt offerets «utsjekking» fra
-krisesenteret, ble det for eksempel registrert om offeret dro hjem eller
-andre steder? Mottok offeret trusler under oppholdet?)
+Det er et uttalt mål at alle offentlige tjenester skal være likeverdige for alle innbyggerne i landet. Av myndighetenes aktivitetsplikt etter likestillings- og diskrimineringsloven § 24 følger det at tjenester skal være av like god kvalitet og tilpasset den enkelte brukeren og dennes behov. Med andre ord skal alle ha tilgang til likeverdige tjenester.[^590] Voldsutsatte kan ha ulike behov som følge av for eksempel alder, kjønn, etnisitet, funksjonsevne, seksuell orientering, kjønnsuttrykk, kjønnsidentitet, religion, livssyn, helseutfordringer, rusproblematikk, sosioøkonomisk status, nasjonal minoritetstilhørighet, migrasjonserfaring og oppholdsstatus.
 
-23
+En undersøkelse fra 2017 konkluderer med at krisesentertilbudet til voldsutsatte med levekårsutfordringer varierer, og at krisesenterlova gir kommunene rom for å nedprioritere et differensiert tilbud til disse.[^591] En kunnskapsoversikt fra 2019 viser videre at kommunene har en utfordring når det gjelder å sikre et krisesentertilbud til voldsutsatte med levekårsutfordringer som rusproblemer og psykiske lidelser.[^592] Krisesenterstatistikken for 2019 viser at personer med utviklingshemming, rusproblemer eller psykisk lidelse sjelden bor på krisesentrene.[^593] At det er få beboere med slik tilleggsproblematikk ved krisesentrene kan bety at de har blitt avvist fordi tilbudet ikke er tilrettelagt for dem. Mangelen på tilrettelagt tilbud kan også være en grunn til at disse personene ikke oppsøker krisesentrene i utgangspunktet. Kunnskapsoversikten fra 2019 viser også at krisesentrene retter lite oppmerksomhet mot særskilte utfordringer knyttet til den samiske befolkningen.
 
-Figur 1.23
+Etter krisesenterlova, skal kommunen sørge for at tilbudet så langt som mulig blir lagt til rette slik at det kommer de individuelle behovene til brukerne i møte, jf. § 3 første ledd. Det følger også av krisesenterlova at de ansatte på krisesentrene skal ha kompetanse til å ivareta de særskilte behovene til brukerne, jf. § 2 tredje ledd. Verken krisesenterlova, forarbeider eller Bufdirs veileder gir imidlertid en samlet definisjon av hva et likeverdig krisesentertilbud innebærer, se også punkt 7.4.2.
 
-[Side 275]
+For å sikre en likeverdig og reell tilgang til krisesenter for alle voldsutsatte, foreslår utvalget fire tiltak. For det første anbefaler utvalget at det må utarbeides en sammenstilling av bestemmelser og forpliktelser som viser det totale omfanget av kommunenes ansvar for et likeverdig krisesentertilbud. Dette ansvaret bør tydeliggjøres i krisesenterlova. Utvalget mener at en tydeliggjøring av hva et likeverdig krisesentertilbud innebærer, vil kunne bidra til at flere får benyttet tilbudet. Arbeidet for et likeverdig krisesentertilbud må også være et prioritert innsatsområde i kommunale handlingsplaner mot vold i nære relasjoner, se også utvalgets anbefaling i punkt 16.12.
 
-NOU 2020: 17
-Varslede drap?
+For det andre anbefaler utvalget at fylkesmennene (statsforvalterne) fører målrettede tilsyn med krisesentrene, særlig med hensyn til kommunenes ansvar for å sikre et likeverdig krisesenterilbud. Dette fordrer blant annet at fylkesmennene har kunnskap om og kompetanse på innholdet i krisesentertilbudet, og utfordringer knyttet til feltet vold i nære relasjoner.
 
-N. Kontakt med advokat, rettshjelpere eller andre (frivillige) rettshjelpstilbud
-56. Har gjerningspersonen hatt kontakt med advokat eller andre rettshjelpere før
-drapet?
- Nei/ingen opplysninger
- Ja, beskriv:
+For det tredje mener utvalget at det må informeres bredt om krisesentertilbudet. Dette for å sikre at flere utsatte for partnervold kommer i kontakt med krisesentrene. Utvalget anbefaler at også spredning av informasjon om krisesentertilbudet er et prioritert innsatsområde i kommunale handlingsplaner mot vold i nære relasjoner. Det er kommunenes plikt å opplyse om krisesentertilbudet, jf. kommuneloven § 4.
 
-57. Har offeret hatt kontakt med (bistands)advokat eller andre rettshjelpere før
-drapet?
- Nei/ingen opplysninger
- Ja, beskriv:
+For det fjerde anbefaler utvalget at det bør utredes nærmere å innføre en bemanningsnorm for krisesentrene. Som følge av ressursknapphet tvinges krisesentre til å drive tilbudet med lavere bemanning enn det som er forsvarlig. En bemanningsnorm kan bidra til å sikre krisesentrene tilstrekkelig ressurser og tilstrekkelige bemanning for å kunne ivareta målsetningen om et likeverdig tilbud.
 
-24
+### Informasjonskampanje
 
-Figur 1.24
+Utvalget anbefaler følgende tiltak:
 
-273
+- Det må gjennomføres en landsdekkende informasjonskampanje for å informere om krisesentertilbudet.
 
-Vedlegg 1
+Utvalget så i saksgjennomgangen en rekke eksempler på at offentlige instanser ikke informerte den voldsutsatte om krisesentertilbudet og/eller tilrettela for at det ble opprettet kontakt med et krisesenter. Det kan være én av grunnene til at det ikke var kontakt med krisesenter i flere saker. Saksgjennomgangen viste også enkelte eksempler på at den voldsutsatte tilsynelatende ikke ønsket å kontakte et krisesenter. Én av grunnene til det, kan ha vært frykt for at kontakt med krisesenter ville øke risikoen for ytterligere og mer alvorlig vold.
 
-[Side 276]
+Utvalget foreslår at det gjennomføres en felles landsdekkende kampanje for å informere om krisesentertilbudet. Kampanjen må innrettes slik at den når alle grupper i befolkningen. Informasjonen som gis må være lett tilgjengelig og forståelig for alle innbyggere. Det må informeres på en rekke arenaer, for eksempel gjennom media, skoler, internett og sosiale plattformer. Se også utvalgets anbefaling i punkt 16.9.
 
-274
+Krisesentrene bør involveres systematisk i utformingen og gjennomføringen av ulike informasjonstiltak, både lokalt og nasjonalt. Krisesenteransatte bør også være delaktige i undervisning og kompetanseheving om vold i nære relasjoner, både i politi og annet hjelpeapparat, på skoler og i høyere utdanning, og for befolkningen ellers.
 
-NOU 2020: 17
+### Kompetansekrav til krisesenteransatte
 
-Vedlegg 1
+Utvalget anbefaler følgende tiltak:
 
-Varslede drap?
+- Det må stilles formelle kompetansekrav til krisesenteransatte.
 
-O. Kontakt med andre instanser
-58. Har gjerningspersonen hatt kontakt med andre instanser før drapet, for
-eksempel NAV, sosialtjenesten, private hjelpere utenfor det offentlige
-hjelpeapparatet, veterinærer, sjelesørgere eller religiøse ledere?
- Nei/ingen opplysninger
- Ja, beskriv:
+- Det må stilles formelle krav til relevant etter- og videreutdanning av krisesenteransatte.
 
-59. Har offeret hatt kontakt med andre instanser før drapet, for eksempel NAV,
-sosialtjenesten, private hjelpere utenfor det offentlige hjelpeapparatet, veterinærer,
-sjelesørgere eller religiøse ledere?
- Nei/ingen opplysninger
- Ja, beskriv:
+Det følger av krisesenterlova § 2 siste ledd at departementet kan gi forskrift om krav til kompetanse hos de ansatte. Det er ikke gitt forskrift om kompetansekrav, og det stilles i dag ingen formelle kompetansekrav til krisesenteransatte. Utvalget mener at det gjennom lov eller forskrift bør stilles krav om minimum 3-årig relevant høyskole- og/eller universitetsutdanning for alle nye som ansettes på krisesentrene. Formålet er å sikre at ansatte har nødvendig kompetanse for å yte et godt og helhetlig krisesentertilbud til voldsutsatte. Krisesentrene bør også sterkt oppfordres til å rekruttere bredt, slik at mangfoldet i brukergruppen gjenspeiles blant de ansatte på krisesentrene.
 
-25
+Utvalget mener videre at det må stilles formelle krav til videre- og etterutdanning av krisesenteransatte. Det er viktig at krisesenteransatte har kompetanse på blant annet vold i nære relasjoner, risikovurdering, risikohåndtering, kommunikasjon, kultursensitivitet og samhandling. Utvalget foreslår at ansatte på krisesentre får opplæring i bruk av voldsrisikovurderingsverktøyene SARA og PATRIARK, og i utarbeiding av individuell sikkerhetsplan. Se også utvalgets anbefaling om lovfestet plikt til å tilby alle brukere å utarbeide en sikkerhetsplan i punkt 17.3.5. Krisesenteransatte bør videre ha god kunnskap om beskyttelsestiltak som mobil voldsalarm, kontaktforbud med elektronisk kontroll (omvendt voldsalarm), besøksforbud og adressesperre, i tillegg til regler om oppholdstillatelse. Krisesenteransatte bør også ha god kunnskap om reglene for taushetsplikt og informasjonsutveksling, særlig reglene om avvergeplikt og opplysningsplikt til barneverntjenesten (også i aktiv barnevernssak). Endelig mener utvalget at alle krisesenteransatte bør ha kompetanse på bruk av kvalifisert tolk i møte med både voksne og barn. Dette må gjelde for bruk av tolk i oppmøte, per telefon eller digitalt.
 
-Figur 1.25
+### Plikt til å tilby alle brukere å utarbeide en sikkerhetsplan
 
-[Side 277]
+Utvalget anbefaler følgende tiltak:
 
-NOU 2020: 17
-Varslede drap?
+- Krisesentrene må pålegges en lovfestet plikt til å tilby alle brukere å utarbeide en sikkerhetsplan. Dersom brukere ikke ønsker en slik plan, må krisesenteret dokumentere at tilbudet er gitt.
 
-P. Kunnskap om og kommunikasjon med hjelpeapparatet
-60. Hva er ditt inntrykk av gjerningspersonens kunnskap om og kommunikasjonen
-med hjelpeapparatet?
-Relevante stikkord hva gjelder kunnskap: faktisk kunnskap om hjelpeapparatet og
-forvaltningen og samfunnet for øvrig, forståelse for hva hjelpeapparatet kan tilby.
-Relevante stikkord hva gjelder kommunikasjon: språk, kulturforståelse, om
-gjerningsperson ble «sett» og «møtt der vedkommende var», om vold var et tema,
-om hjelpeapparatet forstod alvoret i situasjonen, om gjerningspersonen fikk den
-veiledningen vedkommende hadde behov for eller ga uttrykk for å ha behov for.
+Utvalget registrerte ingen opplysninger i de gjennomgåtte sakene om at det ble utarbeidet sikkerhetsplan, se punkt 12.5.4.3. Dette kan ha hatt sammenheng med at krisesentre ikke er pålagt journalplikt og at dokumentasjonen fra krisesentrene var noe mangelfull.
 
-61. Hva er ditt inntrykk av offerets kunnskap om og kommunikasjonen med
-hjelpeapparatet?
-(Samme momenter her som i spørsmål 60 rett over)
+I Bufdirs faglige veileder for innholdet i krisesentertilbudet fremgår det at arbeidet med sikkerhet innebærer at truslene den enkelte bruker er stilt overfor skal kartlegges før en, sammen med brukeren, utarbeider en individuell sikkerhetsplan,[^594] se også punkt 7.4.2.2. Det fremgår videre at det er viktig at den krisesenteransatte og brukeren i fellesskap gjennomgår og oppdaterer sikkerhetsplanen, slik at den tilpasses en ny situasjon når brukeren for eksempel flytter ut. Utvalget mener at en sikkerhetsplan vil kunne være avgjørende for at intervensjoner og beskyttelsestiltak iverksettes tidsnok. En slik sikkerhetsplan innebærer vurdering og håndtering av risiko. For å sikre at så mange brukere som mulig får en sikkerhetsplan, anbefaler utvalget at krisesentrene får en lovfestet plikt til å tilby og å utarbeide sikkerhetsplan for alle brukere. Plikten bør omfatte både beboere og dagbrukere. Etter utvalgets syn, vil anbefalingen bidra til å styrke sikkerhetsarbeidet, og dermed krisesenterets mulighet til å forebygge partnerdrap.
 
-26
+Krisesentrene skal være et lavterskeltilbud som voldsutsatte kan oppsøke uten at volden er anmeldt. Utarbeiding av sikkerhetsplan skal heller ikke være et vilkår for å benytte seg av tilbudet. Det kan bare utarbeides i de tilfellene der brukeren ønsker det og bidrar med informasjon. Dersom brukeren ikke ønsker en sikkerhetsplan, eller ikke er tilgjengelige for å utarbeide en sikkerhetsplan, må krisesenteret dokumentere at tilbudet er gitt. Samtidig skal krisesentrene, på selvstendig grunnlag, foreta en risikovurdering, og avvergeplikten gjelder også for de ansatte på krisesentrene.
 
-Figur 1.26
+Utvalget understreker at det er svært viktig at informasjon fra krisesentrene er underlagt streng taushetsplikt, og at den ikke kommer voldsutøver og andre uvedkommende i hende. Ved innføring av en lovfestet plikt til å tilby å utarbeide individuell sikkerhetsplan, må denne plikten følges av en streng taushetsplikt. Rettsspørsmålene knyttet til taushetsplikt, offentleglova og dokumentasjon fra krisesentrene må utredes nærmere.
 
-275
+### Fagkontakter
 
-Vedlegg 1
+Utvalget anbefaler følgende tiltak:
 
-[Side 278]
+- Det bør vurderes en formalisert ordning med utnevning av fagkontakter i andre samarbeidende instanser for å sikre effektivt samarbeid mellom krisesentrene og andre deler av hjelpeapparatet. Kommunene må påse at fagkontakter utnevnes.
 
-276
+En kunnskapsoversikt fra 2019 viser at krisesentrene som regel samarbeider med andre instanser om enkeltsaker. Samarbeidet er sjeldent formalisert.[^595] Saksgjennomgangen viste heller ingen dokumentasjon på formalisert samarbeid mellom krisesenter og andre deler av hjelpeapparatet, se punkt 12.5.3.
 
-NOU 2020: 17
+For at voldsutsatte skal motta et godt og helhetlig krisesentertilbud kreves det, etter utvalgets syn, et effektivt samarbeid mellom den voldsutsatte, krisesenteret og andre instanser i hjelpeapparatet. Mange som oppsøker et krisesenter, kommer fordi volden har eskalert til et farlig nivå. I tillegg til belastningene det er å leve med trusler om vold, kan det for den voldsutsatte oppleves både krevende og skremmende å måtte ha kontakt med flere ulike instanser for å klare å etablere seg uten voldsutøver. En effektiv tiltakskjede vil kunne bidra til at voldsutsatte opplever hjelpeapparatet tilgjengelig og imøtekommende. Dette kan bidra til å gi voldsutsatte tro på at det er mulig å bryte helt ut av et voldelig forhold og etablere seg på nytt. Når voldsutsatte har behov for beskyttelse på et krisesenter, og videre oppfølging svært raskt under krisesenteroppholdet, forutsetter det et slikt tverrfaglig samarbeid.
 
-Vedlegg 1
+Mangel på samarbeid mellom instansene kan for eksempel føre til at voldutsatte blir stående i en utrygg økonomisk situasjon, uten et egnet fremtidig botilbud. Det kan resultere i at den voldutsatte ikke ser noen annen utvei enn å flytte tilbake til voldsutøver. Dette øker risikoen for ytterligere vold og partnerdrap.
 
-Varslede drap?
+Utvalget foreslår at det vurderes en formalisert ordning med utnevning av fagkontakter i andre samarbeidende instanser for å sikre effektivt samarbeid mellom krisesentrene og andre deler av hjelpeapparatet. Et slikt «hurtigspor» for mer helhetlige og sammenhengende tjenester kan bety en stor forskjell for ivaretakelse av voldsutsatte. Samarbeidsavtalene mellom krisesentrene og aktuelle samarbeidspartnere bør evalueres årlig. Kommunene må påse at fagkontaktene utnevnes.
 
-Del 4: Kontakt med andre privatpersoner
-(venner/familie/kollegaer etc.)
-I dette kapittelet vil det både være interessant å beskrive hva personer i gjerningspersonens
-og/eller offerets nærhet visste i forkant av drapet, og hva de eventuelt gjorde ut fra
-informasjonen de hadde. Har de meldt fra til politiet (avvergeplikt) eller til
-barneverntjenesten (bekymringsmelding)? Hvorfor har de eventuelt ikke meldt
-bekymringene videre? Synes de å ha hatt kunnskap om tilbudet i hjelpeapparatet?
+## Barnevern
 
-Q. Kontakt med venner/familie/kollegaer
-62. Beskriv kontakten mellom gjerningspersonen og andre privatpersoner før
-drapet (som kunne gitt grunn til bekymring), og hva kontakten eventuelt ledet til:
+### Kompetanseløft i barneverntjenesten
 
-63. Beskriv kontakten mellom offeret og andre privatpersoner før drapet (som
-kunne gitt grunn til bekymring), og hva kontakten eventuelt ledet til:
+Utvalget anbefaler følgende tiltak:
 
-27
+- Kompetanse på vold i nære relasjoner, partnerdrap, risikovurdering og risikohåndtering må inkluderes i kvalitets- og kompetanseløftet i de kommunale barneverntjenestene (2017–2024).
 
-Figur 1.27
+Barnevernet har virkemidler som gir barneverntjenesten en unik tilgang på informasjon om, og innsikt i, familieforhold, se punkt 7.5.2. Barneverntjenesten var en av de instansene som gjerningsperson og offer hadde mest kontakt med før drapet. Saksgjennomgangen viste en rekke utfordringer med barneverntjenestens håndtering av barnevernssakene, se punkt 12.6.4. Flere av utfordringene syntes å handle om manglende kompetanse på vold i nære relasjoner. Dette samsvarer med Barnevoldsutvalgets funn i deres gjennomgang av saker om alvorlig vold og omsorgssvikt mot barn, jf. NOU 2017: 12. Studier viser at grov vold mot barn og vold mellom foreldre henger sammen, se punkt 7.5.1. Utvalget mener derfor at et kompetanseløft vil kunne bidra til at barneverntjenesten settes bedre i stand til å benytte potensialet til å forebygge partnervold og partnerdrap.
 
-[Side 279]
+Det pågår allerede en omfattende kompetansesatsing i de kommunale barneverntjenestene (Kvalitets- og kompetanseløftet (2017–2024)). Satsningen er en del av barnevernsreformen og har som mål å sikre høy faglig kompetanse og god kvalitet i tjenestene. Som en del av satsningen har det blant annet blitt etablert veiledningsteam som skal kunne bistå kommunene med å utvikle den lokale barneverntjenesten. I tillegg har Bufdir fremmet forslag om kompetanse- og utdanningskrav for barnevernsansatte. Se mer om barnevernsreformen i boks 7.7 i punkt 7.5.3.2.
 
-NOU 2020: 17
-Varslede drap?
+Utvalget mener at det må sikres at kunnskap om vold i nære relasjoner, partnerdrap, risikovurdering og risikohåndtering inkluderes i kompetansesatsingen. På denne måten kan barneverntjenesten oppnå en mer helhetlig og konsekvent tilnærming til arbeid i saker om vold i nære relasjoner, til det beste for både voksne og barn i de aktuelle sakene. Det bør for eksempel gis tilbud om etterutdanning til de ansatte, og veiledning til tjenestesteder om forebygging av partnervold og partnerdrap.
 
-Del 5: Sammendrag og helhetsinntrykk
-Mandatet: «Hensikten er å avdekke om, i hvilken grad og eventuelt på hvilken måte
-det har forekommet svikt i det offentlige tjenesteapparats håndtering i forkant av
-disse sakene. Utvalget skal gi anbefalinger som kan bidra til at fremtidige tilfeller
-forebygges og forhindres».
-Aktuelle temaer for sammendraget (ikke uttømmende):
-1. Svikt i hjelpeapparatet? Eksempler:
-x manglende eller mangelfull samhandling eller kommunikasjon mellom
-tjenester (ulike etater, sektorer og nivåer)
-x mangelfullt regelverk eller svak forståelse av regelverk
-x manglende tjenestetilbud eller manglende kunnskap om tilbudet i
-befolkningen
-x manglende samordningsmekanismer
-x språk- og kulturforståelse og organisasjonskultur i hjelpeapparatet
-x kulturelle og demografiske forhold på stedet for partnerdrapet
-x handler svikten om at hjelpeapparatet ikke har forstått risikoen, eller om at
-risikoen ikke har blitt håndtert på en god nok måte?
-2. Hva kan vi lære av saken?
-x Hva fungerte bra?
-x Ser du behov for nye eller endrede tiltak eller virkemidler som kunne
-bidratt til bedre forebygging?
-x Andre anbefalinger?
-Sammendrag:
+### Etterlevelse av avvergeplikten i saker om vold i nære relasjoner mot voksne
 
-28
+Utvalget anbefaler følgende tiltak:
 
-Figur 1.28
+- Ledelsen for barneverntjenesten må sikre at avvergeplikten i straffeloven § 196 etterleves der hvor tjenesten har kunnskap om vold i nære relasjoner mot voksne.
 
-277
+Saksgjennomgangen viste flere eksempler på at ulike instanser i hjelpeapparatet hadde kunnskap om vold i nære relasjoner uten å varsle politiet. Utvalget har blant annet på denne bakgrunn anbefalt tiltak for å øke kunnskapen og å sikre implementeringen av regelverket om informasjonsutveksling, se punkt 16.11.
 
-Vedlegg 1
+Når det gjelder barneverntjenesten, registrerte utvalget ingen eksempler på at barneverntjenesten varslet politiet i tilfeller hvor de hadde kunnskap om partnervold mot voksne, se punkt 12.6. Utvalget har ikke hatt tilstrekkelige opplysninger for å ta stilling til om barneverntjenesten i disse sakene hadde avvergeplikt etter straffeloven § 196. Utvalget mener imidlertid at saksgjennomgangen tydet på at avvergeplikten ikke var godt nok kjent i barneverntjenesten. Manglende varsling til politiet kan også hatt sammenheng med at barneverntjenestens hovedoppgave er å sikre at barn og unge får nødvendig hjelp, omsorg og beskyttelse til rett tid, og at barneverntjenesten derfor i mindre grad vurderer voldsutsatte voksnes situasjon, se også punkt 7.5.2. Barneverntjenesten har hjelpetiltak og tvangstiltak til rådighet som kan bidra til å forebygge og avverge vold mot barn, se punkt 7.5.2. Barneverntjenesten har ikke tilsvarende tiltak til rådighet for å forebygge partnervold og partnerdrap. De ansatte skal likevel varsle politiet i medhold av avvergeplikten, se punkt 8.3.2. Barnevernet har i tillegg noen virkemidler, blant annet opplysningsplikten etter barnevernloven § 6-4, som gir barneverntjenesten en unik tilgang på informasjon om, og innsikt i, familieforhold. Etter utvalgets syn, bidrar dette til at barneverntjenesten har en svært viktig rolle i arbeidet med å forebygge partnervold og partnerdrap. Utvalget anbefaler derfor at barneverntjenestens ledelse må sikre at avvergeplikten er godt kjent i alle deler av tjenesten. Ledelsen må også sikre at det utvikles gode rutiner for at barneverntjenesten varsler politiet i henhold til avvergeplikten når barneverntjenesten får kunnskap om partnervold mot voksne. Dette vil, etter utvalgets syn, bidra til at politiet i flere tilfeller kan opprette etterforskning og vurdere iverksettelse av forebyggende tiltak.
 
-[Side 280]
+Bufdir har utviklet retningslinjer for når barneverntjenesten skal varsle politiet ved mistanke eller kunnskap om vold mot barn. Det tas i retningslinjene utgangspunkt i reglene om avvergeplikt og opplysningsrett. Det fremheves blant annet at det er barnets beste som bør være det fremste hensynet i vurderingen av om barnevernet skal varsle politiet. Det skal blant annet legges vekt på faren for nye voldshendelser og familiesituasjonen for øvrig.[^596] Tilsvarende retningslinjer finnes ikke for tilfeller hvor barneverntjenesten har kunnskap om partnervold. Utvalget foreslår derfor at informasjon om avvergeplikten i saker om vold i nære relasjoner mot voksne implementeres i disse retningslinjene. Ved vurderingen av om barneverntjenesten skal varsle politiet, skal det ikke foretas en barnets beste-vurdering. I slike tilfeller har barnevernet ingen egne virkemidler, og den eneste måten avvergeplikten kan etterleves, er ved å varsle politiet i henhold til straffeloven § 196.
 
-278
+Utvalget understreker at opplysningsretten gir barneverntjenesten et videre handlingsrom for å varsle politiet enn det som følger av avvergeplikten. Barneverntjenesten kan, i henhold til barnevernloven § 6-7, dele taushetsbelagte opplysninger med politiet når dette fremmer barneverntjenestens oppgaver, se mer om dette i punkt 8.5.3.4. I saker med vold i nære relasjoner vil det ofte kunne være nødvendig å varsle politiet for å fremme barneverntjenestens oppgaver. Det er viktig at også dette er godt kjent i barneverntjenesten, se også anbefalingene i punkt 16.11.
 
-NOU 2020: 17
+## Familievern
 
-Vedlegg 1
+Utvalget anbefaler følgende tiltak:
 
-Varslede drap?
+- Veilederen om familieverntjenestens arbeid mot vold i nære relasjoner må implementeres ved alle familievernkontor.
 
-Forts. sammendrag:
+- Arbeidet med nasjonal fagutvikling av familieverntjenestens arbeid med vold i nære relasjoner må videreføres og forankres i forskningsbasert kunnskap, og spisskompetansemiljøet (SKM-vold) og de regionale ressursmiljøene i familieverntjenesten må videreføres.
 
-29
+Familievernet har mulighet til å forebygge konflikter og problemer i parforholdet, og til å avdekke og forebygge partnervold. Det var kontakt med familievernet i 8 av de 19 gjennomgåtte sakene, men basert på saksdokumentene var det bare mulig å si noe om kontakten i noen få saker, se punkt 12.7.1. I disse sakene syntes det som om familievernet ikke oppfattet risikoen for partnervold, og at dette ledet til mangelfull håndtering, se punkt 12.7. Utvalget så et eksempel på at familievernet var mer opptatt av andre utfordringer i parforholdet enn partnervold til tross for at paret fortalte at begge utøvde vold mot hverandre. Utvalgets anbefalinger handler derfor om kompetanseheving og fagutvikling i familieverntjenesten.
 
-Figur 1.29
+Familievernet har tradisjonelt jobbet med forebygging av andre familierelaterte problemer enn vold i familien. Tjenesten bør, etter utvalgets syn, bruke disse erfaringene til å systematisere arbeidet med å forebygge vold i nære relasjoner. Det er også svært viktig at familievernet tilføres ny kompetanse på vold i nære relasjoner, se også punkt 16.8.
 
-[Side 281]
+Siden tidlig på 2000-tallet har det skjedd en utvikling i familieverntjenestens arbeid mot vold i nære relasjoner. Der fagutviklingen tidligere skjedde etter lokale prioriteringer på det enkelte familievernkontor, skjer den nå på nasjonalt nivå med felles prioriteringer og satsningsområder – i regi av Barne-, ungdoms- og familiedirektoratet (Bufdir). Utvalgets anbefalinger handler derfor også om implementering, videreføring og styrking av det arbeidet som allerede er igangsatt.
 
-Norges offentlige utredninger
-2019
-Arbeids- og sosialdepartementet:
-NOU 2019: 6 Grunnlaget for inntektsoppgjørene 2019
-NOU 2019: 7 Arbeid og inntektssikring
-Barne- og likestillingsdepartementet:
-NOU 2019: 20 En styrket familietjeneste
+Bufdir har utarbeidet en digital veileder om familievernets arbeid mot vold i nære relasjoner.[^597] Arbeidet med å implementere denne startet i 2019. Utvalget vil understreke viktigheten av at denne veilederen implementeres og brukes på alle familievernkontor. Det må sørges for at den enkelte behandler i familievernet er i stand til å oppfylle veilederen gjennom tilstrekkelig kunnskap og kompetanse, og at det innføres rutiner for å følge veilederen i arbeidet med å avdekke, risikovurdere og risikohåndtere familievoldssaker. Utvalget mener det er særlig viktig at det i forbindelse med implementeringen av veilederen tilbys opplæring i bruk av risikovurderingsverktøy. Dette er et lederansvar, se også anbefalingen i punkt 16.1.
 
-Justis- og beredskapsdepartementet:
-NOU 2019: 4 Organisering av norsk
-naturskadeforsikring
-NOU 2019: 5 Ny forvaltningslov
-NOU 2019: 13 Når krisen inntreffer
-NOU 2019: 17 Domstolstruktur
+I 2015 ble det etablert et spisskompetansemiljø (SKM-vold) ved Enerhaugen familievernkontor som skal koordinere familieverntjenestens fagutvikling på vold i nære relasjoner. I tillegg har familieverntjenesten to kontorer som jobber spesielt med å konkretisere kultursensitivitet innen familie- og barnevernfeltet – henholdsvis Regionalt Samisk kompetansesenter (RESAK) i Karasjok og Familievernkontor nord i Oslo. Disse to kontorene kan bistå SKM-vold i arbeidet med fagutviklingen. Det er også opprettet ressursmiljøer for arbeidet mot vold i nære relasjoner ved utvalgte familievernkontorer i hver region. Disse kontorene skal bistå andre kontorer i regionen med veiledning og støtte, og bidra til bedre kompetanse på vold i nære relasjoner i familievernet. Arbeidet som legges ned i spisskompetansemiljøet, i ressursmiljøene og i hvert enkelt familievernkontor, er et uttrykk for en betydelig standardisering av arbeidet mot vold i nære relasjoner.[^598]
 
-Finansdepartementet:
-NOU 2019: 1 Overtakelsestilbud (frivillig og pliktig
-tilbud)
-NOU 2019: 8 Særavgiftene på sjokolade- og
-sukkervarer og alkoholfrie drikkevarer
-NOU 2019: 11 Enklere merverdiavgift med én sats
-NOU 2019: 15 Skatterådgiveres opplysningsplikt og
-taushetsplikt
-NOU 2019: 16 Skattlegging av vannkraftverk
-NOU 2019: 18 Skattlegging av havbruksvirksomhet
+Utvalget anbefaler at spisskompetansemodellen med SKM-vold, og regionale ressursmiljøer som mellomledd til de enkelte familievernkontorene, videreføres. Utvalget mener at arbeidet også bør få en tydeligere forankring i forskningsbasert kunnskap. Det må sikres at den nye kunnskapen som frembringes gjennom spisskompetansemodellen blir formidlet og implementert på hvert enkelt familievernkontor. Dette krever tett samarbeid med det enkelte familievernkontor.
 
-Kulturdepartementet:
-NOU 2019: 9 Fra kalveskinn til datasjø
-NOU 2019: 19 Jenterom, gutterom og mulighetsrom
+## NAV og sosialtjenesten
 
-Helse- og omsorgsdepartementet:
-NOU 2019: 10 Åpenhet i grenseland
-NOU 2019: 14 Tvangsbegrensningsloven
-NOU 2019: 24 Inntektsfordeling mellom regionale
-helseforetak
-NOU 2019: 26 Rusreform – fra straff til hjelp
+Utvalget anbefaler følgende tiltak:
 
-Nærings- og fiskeridepartementet:
-NOU 2019: 21 Framtidens fiskerikontroll
+- Alle kommuner må sikre at det finnes overgangsboliger eller andre egnede midlertidige botilbud for voldsutsatte.
 
-Kunnskapsdepartementet:
-NOU 2019: 2 Fremtidige kompetansebehov II
-NOU 2019: 3 Nye sjanser – bedre læring
-NOU 2019: 12 Lærekraftig utvikling
-NOU 2019: 23 Ny opplæringslov
-NOU 2019: 25 Med rett til å mestre
+- NAV-kontorene bør prioritere personer som er utsatt for vold i nære relasjoner ved å tilby økonomisk støtte og økonomisk rådgivning i et «hurtigspor».
 
-Samferdselsdepartementet:
-NOU 2019: 22 Fra statussymbol til allemannseie
-– norsk luftfart i forandring
+Saksgjennomgangen viste at mange av gjerningspersonene og ofrene var i kontakt med NAV eller den kommunale sosialtjenesten før drapet. Straffesaksdokumentene inneholdt ikke nærmere opplysninger om kontakten, og utvalget hadde derfor ikke grunnlag for å vurdere eventuelle utfordringer ved NAV eller sosialtjenesten sin håndtering av sakene, se punkt 12.8.1. Utvalget registrerte imidlertid at en stor andel av de voldsutsatte ble værende i parforholdet med voldsutøver til tross for at den voldsutsatte hadde uttrykt et ønske om brudd. Enkelte voldsutsatte flyttet hjem igjen til voldsutøver etter et opphold på krisesenter. Utvalget registrerte også at flere voldsutsatte syntes å være økonomisk avhengig av voldsutøveren. Utvalgets anbefalinger handler derfor om å sikre voldsutsatte en reell mulighet til å forlate voldsutøver gjennom å tilby alternative botilbud og økonomisk støtte og rådgivning.
 
-[Side 282]
+Usikkerhet knyttet til bolig og økonomi kan føre til at voldsutsatte blir værende i relasjonen, eller flytter tilbake til voldsutøver med risiko for å bli utsatt for ytterligere partnervold. Flere tjenester som ytes gjennom NAV-kontorene er derfor svært viktige for at den voldsutsatte skal kunne gjennomføre et brudd med voldsutøveren. Det gjelder spesielt et reelt, alternativt botilbud og økonomisk støtte og rådgivning. Sosialtjenesten ved NAV-kontorene har allerede i dag plikt til å tilby midlertidig botilbud til voldsutsatte som har behov for det, jf. sosialtjenesteloven § 27, se punkt 7.7. Trygdeytelser og økonomisk sosialhjelp forvaltes også gjennom NAV-kontorene, og NAV har et tilbud om økonomisk rådgivning. Erfaring viser imidlertid at disse tjenestene ikke alltid er tilgjengelige for voldsutsatte. Krisesentrene erfarer for eksempel at problemer med å skaffe ny bolig forlenger krisesenteroppholdet for mange beboere. Dette er en belastning for både beboere og sentrene.[^599] Mange krisesentre har over tid arbeidet for å ansvarliggjøre kommunene når det gjelder midlertidige botilbud til voldsutsatte. Utvalget erfarer også er at det ofte er lang ventetid på tilbudet om økonomisk rådgivning, og at voldsutsatte i noen tilfeller må vente lenge på å få utbetalt stønader de har krav på.
 
-Bestilling av publikasjoner
-Departementenes sikkerhets- og serviceorganisasjon
-www.publikasjoner.dep.no
-Telefon: 22 24 00 00
-Publikasjonene er også tilgjengelige på
-www.regjeringen.no
+Utvalget mener det er viktig å sikre at voldsutsatte får reell tilgang til de nevnte tjenestene, slik at sjansen for at vedkommende flytter tilbake til voldsutøver reduseres. Utvalget anbefaler derfor for det første at alle kommuner må sikre at det finnes tilgjengelige overgangsboliger eller andre midlertidige egnede botilbud, som kan tas i bruk av voldsutsatte som har behov for det. For å sikre at dette gjennomføres, mener utvalget at ordningen med overgangsboliger eller andre midlertidige botilbud bør forankres i kommunale handlingsplaner mot vold i nære relasjoner. Se også utvalgets anbefaling om plikt for kommunene om å ha slike handlingsplaner i punkt 16.12. På denne måten kan også kommuner som samarbeider om en handlingsplan, løse behovet for midlertidig bosted til voldsutsatte interkommunalt. Ved at kommunene sikrer et midlertidig bosted raskt, vil den voldsutsatte sikres bedre beskyttelse. Det må unngås at voldsutsatte må bo på hospits eller campingplasser i mangel på andre bosteder. Tilbudet må videre ivareta den voldsutsattes sikkerhetsbehov, og være egnet for at barn kan bo der.
 
-ME
+For det andre anbefaler utvalget at NAV-kontorene bør prioritere personer som utsettes for vold i nære relasjoner der det er ventetid på tjenestene, og at disse bør få tilbud om økonomisk rådgivning og støtte i et «hurtigspor». Det er viktig at voldsutsatte som har rett til økonomiske ytelser fra NAV eller sosialtjenesten får dette raskt.
 
-R K E T T RY
+Utvalget understreker endelig at NAV må være oppmerksom på at en del av de voldsutsatte har så omfattende levekårsutfordringer at de har krav på en individuell plan, jf. sosialtjenesteloven § 28 og NAV-loven § 15. Individuelle planer er viktige for å ivareta personer med et stort og sammensatt hjelpebehov.[^600]
 
-1
+## Asylmottak, flyktningetjenesten og voksenopplæring
 
-46
+### Kompetanseløft i alle tre tjenestene
 
-20
+Utvalget anbefaler følgende tiltak:
 
-4
+- Det bør opprettes et etterutdanningstilbud til ansatte i asylmottak, flyktningetjenesten og voksenopplæringen (introduksjonsprogram) om vold i nære relasjoner, risikovurdering, risikohåndtering, kommunikasjon, kultursensitivitet og samhandling.
 
-KK
+Ansatte i asylmottak, flyktningetjenesten og voksenopplæringen[^601] har ofte daglig kontakt med mennesker i sårbare, krevende, og i noen tilfeller, marginaliserte livssituasjoner, og det var flere eksempler på slik kontakt i sakene. Dette kan gi en mulighet til å forebygge vold i nære relasjoner og partnerdrap. Saksgjennomgangen viste at det tilsynelatende manglet tilstrekkelig kunnskap om og kompetanse på vold i nære relasjoner i asylmottakene, i flyktningetjenesten og blant dem som tilbød undervisning i introduksjonsprogrammet på voksenopplæringen, se punktene 12.9 og 14.2. Utvalget så flere eksempler på at instansene ikke avdekket vold i nære relasjoner til tross for at ansatte syntes å merke seg bekymringsverdige forhold.
 
-K
+Avdekking av vold, vurdering av risiko og håndtering av saker om vold i nære relasjoner krever kunnskap og kompetanse, se også punkt 14.2. Så vidt utvalget kjenner til, tilbys ikke ansatte i disse instansene systematisk og relevant etterutdanning om vold i nære relasjoner. Utvalget anbefaler derfor at det opprettes et etterutdanningstilbud til de ansatte om vold i nære relasjoner, risikovurdering, risikohåndtering, kommunikasjon, kultursensitivitet og samhandling. Formålet med tiltaket er å heve kompetansen i tjenestene, slik at flere ansatte settes i stand til å avdekke, vurdere og håndtere situasjoner hvor det kan være forhøyet risiko for alvorlig partnervold og partnerdrap. Det kan etter utvalgets syn, vurderes om oppdraget med å utarbeide et etterutdanningstilbud bør gis til de regionale ressurssentrene for vold, traumatisk stress og selvmordsforebygging (RVTS). Den nærmere organiseringen av og innholdet i tilbudet må utredes nærmere.
 
-MI
+### Særlig om asylmottak
 
-JØ
+Utvalget anbefaler følgende tiltak:
 
-SA
+- Asylmottakenes oppfølging av retningslinjer og rutiner for arbeid mot vold i nære relasjoner bør være et prioritert område i Utlendingsdirektoratets kontroll med driften av mottakene.
 
-L
+- Tilbudet Dialoggrupper om vold til menn som bor på asylmottak bør videreføres. Det bør også utvikles et tilsvarende tilbud tilpasset kvinnelige beboere.
 
-Trykk: Departementenes sikkerhets- og
-serviceorganisasjon – 12/2020
+Saksgjennomgangen viste at det var flere ofre og gjerningspersoner som kom til Norge som asylsøkere, og som dermed var i kontakt med et asylmottak før drapet, se punkt 10.3. I straffesaksdokumentene var det opplysninger om at det forekom vold i nære relasjoner på asylmottaket i flere av disse sakene. Utvalget så likevel få eksempler på at vold i nære relasjoner ble avdekket på asylmottaket, eller at de ansatte varslet andre tjenester om bekymring for en familie eller en beboer. Utvalget mener på denne bakgrunn at det finnes et ubenyttet potensial for forebygging av vold i nære relasjoner og partnerdrap i asylmottakene, og anbefaler derfor tiltak som skal bidra til å heve kompetansen på vold i nære relasjoner blant de ansatte, se punkt 17.7.1. I tillegg anbefaler utvalget to tiltak i asylmottakene. Det ene omhandler kontroll med asylmottakenes arbeid med vold i nære relasjoner, og det andre omhandler videreføring av det eksisterende tiltaket Dialoggrupper om vold.
 
-De
+Alle asylmottak er underlagt flere retningslinjer fra Utlendingsdirektoratet om driften av asylmottak. Dette gjelder uavhengig av hvordan asylmottaket er organisert. Ifølge retningslinjene om generelle krav til driften, skal ledelsen av asylmottakene blant annet sørge for at de ansatte har kompetanse på sårbare grupper, herunder personer utsatt for vold i nære relasjoner, og deres behov og utfordringer.[^602] Mottakene er også pålagt å følge rutiner for arbeid mot vold i nære relasjoner hos beboerfamiliene. Rutinene angir blant annet at de ansatte har et «identifiseringsansvar». Det vil si at den ansatte skal gjøre nærmere undersøkelser for å avdekke vold i nære relasjoner der hvor beboeren tilhører en risikogruppe, eller det foreligger opplysninger om at personen blir utsatt for vold. Rutinene inneholder også informasjon om når og hvordan de ansatte skal gjennomføre samtaler med beboerne om vold i nære relasjoner, og hvordan saker om vold skal følges opp.[^603] Utlendingsdirektoratet gjennomfører kontroll med mottakene, og kan gi pålegg om retting av eventuelle mangler innenfor en gitt frist. For å sikre at asylmottakene etterlever retningslinjene knyttet til avdekking og håndtering av saker om vold i nære relasjoner, anbefaler utvalget at Utlendingsdirektoratet prioriterer dette i sin kontroll av asylmottakene.
 
-p M edia
+Alle ordinære asylmottak har siden 2017 brukt Dialoggrupper om vold som et forebyggende virkemiddel. Dialoggruppene er et frivillig tilbud for menn som bor på asylmottak. Formålet med tilbudet er å bidra til å endre holdninger til vold.[^604] Dialoggruppene gjennomføres på mottakene. De ansatte som leder dialoggruppene har fått opplæring av Alternativ til vold.[^605] Utvalget mener at tilbudet Dialoggrupper om vold er et relevant tiltak for å forebygge vold i nære relasjoner og partnerdrap, og anbefaler at dette, eller tilsvarende tiltak, videreføres. Etter utvalgets syn, er det også behov for et slikt tilbud for kvinner – enten de er utsatt for vold, utsetter andre for vold eller er vitne til vold mot andre. I saksgjennomgangen så utvalget eksempler på alle tre tilfellene. Utvalget anbefaler at dialoggruppene tilpasses kvinnelige beboere, og at kvinner og menn tilbys separate dialoggrupper.
 
-04
+### Særlig om voksenopplæring (introduksjonsprogram)
+
+Utvalget anbefaler følgende tiltak:
+
+- Det bør utarbeides en veileder for arbeid med avdekking og håndtering av vold i nære relasjoner for de ansatte ved voksenopplæringen (introduksjonsprogram).
+
+- Det må innhentes kunnskap om hvordan introduksjonsprogrammene oppfyller læreplanmålet om å formidle kunnskap til elevene om vold i familien.
+
+Saksgjennomgangen viste at enkelte ofre og gjerningspersoner hadde daglig kontakt med voksenopplæringen gjennom deltakelse i introduksjonsprogram før drapet, se punkt 12.9.4. Ansatte ved voksenopplæringen kommer i kontakt med familier og enkeltpersoner i potensielt krevende livssituasjoner, som det ellers kan være vanskelig å nå ut til med informasjon. Denne kontakten gir, etter utvalgets syn, et forebyggingspotensial. Likevel var det i saksgjennomgangen ingen eksempler på at volden ble avdekket eller håndtert av ansatte i voksenopplæringen. Utvalget mener dette kan tyde på manglende kompetanse på og kunnskap om vold, og har derfor anbefalt et kompetanseløft gjennom etterutdanning, se punkt 17.7.1. Saksgjennomgangen etterlot videre et inntrykk av at det manglet rutiner for hvordan de ansatte kunne gå frem for å avdekke, vurdere og håndtere vold i nære relasjoner. Utvalget har i tillegg et inntrykk av at informasjonen om vold i nære relasjoner som gis elevene ved introduksjonsprogrammene verken er systematisert eller strukturert, og det kan være store variasjoner mellom de forskjellige lærestedene. Utvalget anbefaler på denne bakgrunn to tiltak.
+
+For det første bør det utarbeides en veileder for arbeidet med vold i nære relasjoner i introduksjonsprogrammene. Denne veilederen kan bidra til å sette de ansatte bedre i stand til å avdekke, vurdere og håndtere vold i nære relasjoner hos de enkelte elevene. Dette vil gi viktig støtte til lærere som har mistanke om at elever utsettes for vold, men som ikke vet hvordan de skal gå frem for å undersøke dette nærmere eller håndtere situasjonen. Veilederen bør inneholde informasjon om hvordan lærerne kan snakke med den enkelte eleven om vold, og hvordan en bør gå frem hvis vold blir avdekket, herunder informasjon om avvergeplikten.
+
+Utvalget anbefaler for det andre at det må innhentes mer kunnskap om innholdet i voksenopplæringens undervisning om vold i nære relasjoner i introduksjonsprogrammet. Denne kunnskapen vil være første steg på veien mot å systematisere innholdet i opplæringen. Det eksisterende læreplanmålet går ut på at elevene skal «få kunnskap om at vold mot barn og andre familiemedlemmer, kjønnslemlestelse og tvangsekteskap er forbudt, og om straffereaksjoner ved slike lovbrudd».[^606] Det må, etter utvalgets syn, belyses om introduksjonsprogrammene oppfyller læreplanmålet på en tilstrekkelig god måte. Det må i tillegg vurderes om elevene får god nok oversikt over hjelpetilbudet for personer som utsettes for vold i nære relasjoner.[^607]
+
+## Skole og barnehage
+
+De gjennomgåtte partnerdrapssakene dannet ikke grunnlag for å foreslå spesielle tiltak rettet mot skole og barnehage for å forebygge partnervold og partnerdrap. De generelle anbefalingene i kapittel 17 gjelder imidlertid også for skole og barnehage. Dette gjelder særlig anbefalinger som handler om kunnskap og kompetanse, kommunikasjon og informasjonsutveksling. Utvalget så flere eksempler i sakene på at skole og barnehage brøt opplysningsplikten til barneverntjenesten. Utvalget vil understreke viktigheten av at skole og barnehage implementerer gode rutiner for at ledelsen eller den enkelte ansatte melder fra om bekymringsverdige forhold knyttet til et barn eller en familie. Utvalget vil også understreke viktigheten av at ansatte på skoler og i barnehager har kunnskap om avvergeplikten, se punkt 8.3.2.
+
+Utvalget vil endelig understreke viktigheten av at skole og barnehage er bevisst sin unike tilgang til familier, og dermed også sin rolle og posisjon i arbeidet med voldsforebygging. I en del tilfeller kan skole og barnehage være de eneste offentlige instansene familien er i kontakt med.
+
+## Advokat
+
+De gjennomgåtte sakene inneholdt få opplysninger om kontakten med advokater, og de dannet derfor ikke grunnlag for å foreslå spesielle tiltak rettet mot advokatstanden for å forebygge partnervold og partnerdrap. Enkelte av de generelle anbefalingene i kapittel 17 gjelder imidlertid også for advokater. Utvalget vil for øvrig understreke viktigheten av at advokater har kunnskap om faktorer som kan bidra til forhøyet risiko for partnervold og partnerdrap. Advokater er i kontakt med personer med ulike levekårsutfordringer, inkludert personer som har blitt utsatt for vold eller som utsetter andre for vold. Utvalget understreker at avvergeplikten også gjelder for advokater – uavhengig av advokaters taushetsplikt. Se mer om avvergeplikten i punkt 8.3.2.

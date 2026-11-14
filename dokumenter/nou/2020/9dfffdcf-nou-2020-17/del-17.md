@@ -1,935 +1,166 @@
-# NOU 2020: 17, del 17 av 22 (side 190–202)
+# NOU 2020: 17, del 17 av 26
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2020/9dfffdcf-nou-2020-17.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2020-17/id2791522/
 - Original-PDF: https://www.regjeringen.no/contentassets/5f3dc96de14f443f869795a19088926a/no/pdfs/nou202020200017000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 5 figurer. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 190]
-
-188
-
-Kapittel 14
-
-NOU 2020: 17
-Varslede drap?
-
-det er likevel noe som bør tas hensyn til ved organisering og fastlegging av rutiner. Organisering
-og rutiner må sikre at passivitet ikke fremstår
-som det tryggeste alternativet i saker med voldsrisiko, se også utvalgets anbefaling i punkt 16.1 og
-17.1.3.4.
-
-14.5.4 Rutiner
-Implementering og etterlevelse av rutiner bidrar
-til at avgjørelser blir mindre personavhengige og
-tilfeldige. Det bidrar også til å sikre at regler, retningslinjer og anbefalinger etterleves, se punkt
-14.4, og til å gjøre den enkelte ansatte tryggere i
-sine valg. Utvalget så i flere saker at hjelpeapparatet ikke overholdt gjeldende rutiner. I én sak fornyet for eksempel fastlegen resepter for vanedannende medikamenter flere ganger uten at brukeren ble kalt inn til legetime.
-Utvalget så videre eksempler på at hjelpeapparatet tilsynelatende manglet rutiner, og at dette
-bidro til at vold i nære relasjoner ikke ble avdekket, eller til at risikoen for ytterligere vold og drap
-ikke ble fanget opp. I flere saker ble det for
-eksempel ikke gjennomført alenesamtale med
-den voldsutsatte. I noen saker møtte den voldsutsatte alltid hjelpeapparatet sammen med voldsutøver, og vedkommende kunne dermed i praksis
-ikke fortelle om volden. Utvalget mener at det
-ville vært gjennomført flere alenesamtaler dersom
-hjelpeapparatet hadde hatt rutiner for det, se
-utvalgets anbefaling i punkt 16.3.
-Saksgjennomgangen etterlot videre et inntrykk av at hjelpeapparatet manglet rutiner for å
-sikre at voldsutsatte mottok tilstrekkelig informasjon om relevante tilbud i hjelpeapparatet. En del
-ga tilsynelatende nokså sporadisk informasjon, for
-eksempel ved å oppfordre til å kontakte andre
-instanser. Det var likevel få voldsutsatte som fikk
-en mer helhetlig oversikt over tilbudene, for seg
-selv og eventuelle barn.
-Saksgjennomgangen etterlot også et inntrykk
-av at politiet manglet rutiner for å gjøre enkle
-undersøkelser som kunne bidratt til å gi en bedre
-forståelse av risikobildet. Dette kunne for eksempel være å sjekke tidligere straffbare forhold, eller
-gjerningspersonens tilgang til våpen, se utvalgets
-anbefaling i punkt 17.1.3.3.
-Manglende rutiner syntes også å ha vært en
-viktig grunn til at politiet og andre deler av hjelpeapparatet ikke systematisk vurderte risikoen
-for partnervold og partnerdrap, for eksempel ved
-bruk av SARA, se også punkt 14.4.2.
-
-14.5.5 Journalføring og dokumentasjon
-Journalføring og dokumentasjon kan være viktig
-for brukerne. For politi og annet hjelpeapparat
-kan journalføring og dokumentasjon virke både
-skjerpende, bevisstgjørende og forpliktende. Det
-kan også gi et insentiv til å følge opp saken. Utvalget mener på denne bakgrunn at god journalføring og dokumentasjon kan bidra til forebygging.
-Det var en gjennomgående utfordring i sakene
-at hjelpeapparatets journalføring og dokumentasjon var mangelfull. I flere saker manglet det
-dokumentasjon på kontakten mellom hjelpeapparatet og offeret og/eller gjerningspersonen. Dette
-kunne for eksempel være manglende referater fra
-møter, eller manglende nedtegninger av telefonsamtaler. I flere barnevernssaker fremstod også
-begrunnelsen for henleggelse av undersøkelsessaken som tynn og mangelfull, se punkt 12.6.4.6.
-Det var i disse tilfellene vanskelig å forstå hvilke
-faglige vurderinger barneverntjenesten hadde
-gjort i saken. I enkelte journaler var også formuleringene så kortfattede og ufullstendige at det var
-vanskelig å forstå budskapet. Disse forholdene
-medførte at det i flere saker fremstod uklart hva
-som egentlig var blitt gjort i saken.
-Utvalget så også flere eksempler på at journalnotater og annen dokumentasjon var upassende
-eller uprofesjonell, eller at den var blitt produsert
-lang tid etter at den aktuelle hendelsen fant sted. I
-noen tilfeller ble kontakt før drapet først dokumentert etter drapet. Dette gjaldt for eksempel
-flere av politiets egenrapporter.
-Utvalget kan ikke utelukke at mangelfull journalføring og dokumentasjon hadde sammenheng
-med tidsnød og ressursmangel. Utvalgets inntrykk er imidlertid at det tilsynelatende også
-hadde sammenheng med manglende rutiner,
-manglende etterlevelse av regelverk og rutiner og
-manglende profesjonalitet. Se utvalgets anbefaling
-i punkt 16.6.
-14.5.6 Profesjonalitet
-Et profesjonelt hjelpeapparat forutsetter at enkeltansatte, og instansen som helhet, tilegner seg tilstrekkelig kunnskap og kompetanse, overholder
-regler og rutiner, opptrer ansvarlig og med høy
-integritet, viser respekt for brukerne og opptrer
-regulert i krevende situasjoner. I de foregående
-punktene i kapittelet har utvalget vist en rekke
-eksempler på at hjelpeapparatet ikke håndterte
-saken før drapet på en profesjonell måte. Utvalget
-vil trekke frem noen flere eksempler på at hjelpeapparatet opptrådte lite profesjonelt.
-
-[Side 191]
-
-189
-
-NOU 2020: 17
-Varslede drap?
-
-I noen saker syntes det som om hjelpeapparatet opptrådte uprofesjonelt i møte med enkelte
-brukergrupper, og at tjenestetilbudet ble påvirket
-av hvem som søkte hjelp, se også punkt 11.6.
-Hjelpeapparatet la i disse tilfellene tilsynelatende
-vekt på kjønn, kulturell bakgrunn eller tilstedeværelsen av levekårsutfordringer. Dette skjedde
-også overfor personer som over lang tid var i kontakt med en rekke instanser som følge av omfattende hjelpebehov. Den langvarige og hyppige
-kontakten bidro tilsynelatende til en «tretthet» i
-hjelpeapparatet, som ikke er forenlig med profesjonelle normer. Noen situasjoner i sakene bar
-preg av at hjelpeapparatet nærmest lot seg manipulere av brukeren. På denne måten fikk verken
-gjerningspersonen eller offeret den oppfølgingen
-de hadde behov for, og de involverte mistet tillit til
-at hjelpeapparatet kunne hjelpe.
-Noen saker etterlot også et inntrykk av at
-hjelpeapparatet hadde en uprofesjonell arbeidsmåte. Utvalget så blant annet flere eksempler på
-at saksbehandlere hadde aleneansvar for krevende saker, se punkt 14.5.2. Å sikre tilstrekkelig
-kollega- og lederstøtte er, etter utvalgets syn, en
-del av en profesjonell ledelse.
-
-14.6 Informasjonsutveksling,
-samarbeid og samordning
-14.6.1 Innledning
-Mange ofre og gjerningspersoner var i kontakt
-med flere tjenester før partnerdrapet. Dette hadde
-blant annet sammenheng med at paret eller familien hadde en rekke levekårsutfordringer, se
-punktene 4.4 og 11.3.
-Et strukturelt, effektivt og treffende forebyggingsarbeid krever at de forskjellige tjenestene er
-samordnet og koordinert. De må også være tilgjengelige og individuelt tilpasset brukerne og
-deres situasjoner. Et samordnet hjelpetilbud forutsetter blant annet at sakene vurderes i lys av både
-informasjon som er tilgjengelig internt og
-eksternt. Dette krever gode rutiner for informasjonsutveksling.
-Saksgjennomgangen etterlot et inntrykk av at
-gjerningspersonene og ofrene møtte et lite samordnet hjelpeapparat. Mer informasjonsutveksling
-og samarbeid kunne økt sannsynligheten for at
-den reelle risikoen ble fanget opp, og for at treffende forebyggende tiltak ble iverksatt tidsnok.
-Manglende informasjonsutveksling og samordning står derfor frem som en av hovedutfordringene i sakene, og utvalget mener at det finnes et
-stort ubenyttet forebyggingspotensial her, se også
-
-Kapittel 14
-
-utvalgets anbefalinger i punktene 16.10–16.13,
-17.3.6 og 17.4.2.
-
-14.6.2
-
-Manglende informasjonsutveksling
-
-14.6.2.1 Mange bruddstykker – ingen helhet
-I de fleste sakene hadde flere instanser kunnskap
-om vold i nære relasjoner eller om andre faktorer
-som kan bidra til forhøyet risiko. Dette fremgikk
-blant annet av journaler, politirapporter, barnevernsdokumenter og vitneavhør. Noen hadde for
-eksempel kunnskap om partnervold, mens andre
-hadde kunnskap om psykiske helseplager, våpentilgang, offerets ønske om skilsmisse eller at gjerningspersonen og/eller offeret utsatte barna for
-vold. På denne måten hadde hjelpeapparatet til
-sammen relativt mye informasjon om den aktuelle
-saken, som totalt sett kunne gitt grunnlag for
-alvorlig bekymring. Disse bruddstykkene av informasjon ble ikke, eller i liten grad, sammenstilt til
-et helhetlig bilde. Dette hadde sammenheng med
-at instansene i en del tilfeller verken etterlevde,
-eller utnyttet handlingsrommet i, reglene om
-informasjonsutveksling, se kapittel 8 om dette
-regelverket. Det var også svært få eksempler på
-organisert tverrfaglig eller tverretatlig samarbeid,
-se punkt 14.6.3.
-14.6.2.2 Opplysningsplikt og opplysningsrett
-Utvalget registrerte flere eksempler på at hjelpeapparatet tilsynelatende brøt opplysningsplikten til barneverntjenesten, og i flere tilfeller diskuterte utvalget om hjelpeapparatet brøt avvergeplikten, se punkt 14.4.2.
-Utvalget så videre en rekke eksempler på at
-hjelpeapparatet ikke utnyttet handlingsrommet i
-regelverket om informasjonsutveksling. Med dette
-menes at instanser lot være å dele relevant informasjon til tross for at de hadde opplysningsrett, se
-punktene 8.5, 8.6.3 og 8.7.3 om opplysningsrett.
-Det var blant annet eksempler på at barneverntjenesten ikke delte opplysninger med politiet. Barneverntjenesten kan, i henhold til barnevernloven
-§ 6-7, dele taushetsbelagte opplysninger med politiet når dette fremmer barneverntjenesten oppgaver, se punkt 8.5.3.4. I saker med vold i nære
-relasjoner vil dette ofte være tilfellet. Et varsel til
-politiet om partnervold ville også vært i tråd med
-Bufdir sine retningslinjer om når barneverntjenesten bør varsle politiet.535
-535
-
-Bufdir (2019b).
-
-[Side 192]
-
-190
-
-Kapittel 14
-
-NOU 2020: 17
-Varslede drap?
-
-Det var flere eksempler på at helse- og
-omsorgstjenesten ikke delte opplysninger om
-mistanke eller kunnskap om familievold med
-andre hjelpeinstanser. I henhold til helsepersonelloven § 23 nr. 4, kan helsepersonell dele informasjon med andre instanser når tungtveiende private
-eller offentlige interesser gjør det rettmessig, se
-punkt 8.7.3.2. Helsetjenesten hadde denne muligheten i flere saker.
-Utvalget så bare ett eksempel på at en sak ble
-drøftet anonymt med en annen instans. Saker kan
-imidlertid drøftes anonymt i vid utstrekning, jf.
-forvaltningsloven § 13 a nr. 2, se punkt 8.5.2.3.
-Offentlig ansatte underlagt yrkesmessig taushetsplikt kan også drøfte saker og problemstillinger
-anonymt med andre ansatte og instanser.
-Hjelpeapparatets manglende informasjonsutveksling kan ha hatt sammenheng med flere forhold. Det kan ha hatt sammenheng med manglende kunnskap om regelverket og om vold i
-nære relasjoner, eventuelt i kombinasjon med
-oppfatninger basert på myter. Det kan også ha
-hatt sammenheng med en frykt for å bryte taushetsplikten, se punkt 8.2 om erfaringer med regelverket. I noen saker var det tilsynelatende for
-høye forventninger til hva andre instanser håndterer. Dette var for eksempel tilfellet i saker hvor
-hjelpeapparatet nøyde seg med å varsle barneverntjenesten ved mistanke eller kunnskap om
-familievold. Barneverntjenesten har et begrenset
-mandat, særlig med hensyn til voksne personer.
-Selv om barneverntjenesten bør, og i noen tilfeller
-skal, varsle politiet når de mottar bekymringsmeldinger om vold i familien, skjer ikke dette alltid.
-Det er derfor svært viktig at den som har kunnskap om vold umiddelbart melder fra om slike forhold direkte til politiet.
-En høy terskel for å melde fra til politiet kan
-også være begrunnet i at det skal mer til før
-avvergeplikten inntreffer, sammenliknet med opplysningsplikten til barneverntjenesten, se punkt
-8.3.2 og 8.3.3. Det kan videre skyldes at hjelpeapparatet har mer kunnskap om opplysningsplikten til barneverntjenesten enn avvergeplikten, og
-bedre rutiner for å varsle barnevernet enn politiet.
-Endelig kan det ha sammenheng med at den som
-vurderer å varsle politiet kan være redd for å
-anklage noen for noe alvorlig, og for at varselet får
-store konsekvenser. Barneverntjenesten har, på
-
-sin side, en rekke støtte- og hjelpetiltak til rådighet, se punkt 7.5.2. En melding til barneverntjenesten kan dermed være fundert på en konkret
-problemstilling som melder mener bør tas tak i,
-uten at melder nødvendigvis mener at det bør opprettes en straffesak.
-
-14.6.3 Samordning og samarbeid
-Saksgjennomgangen etterlot et inntrykk av at
-samordning og samarbeid i liten grad var en integrert del av virksomheten i tjenestene. Det syntes
-snarere å være personavhengig og tilfeldig. Det
-var for eksempel opplysninger om tverrfaglige
-samarbeidsmøter i svært få saker. Det var også
-svært få opplysninger om at enkeltinstanser tok et
-koordineringsansvar for saken. Dette ansvaret
-syntes for øvrig ikke å ha blitt styrt av rutiner for
-samordnet innsats mot partnervold, men av hvem
-som hadde mest kontakt med familien. I mangel
-av en koordineringsansvarlig instans, oppsto det i
-mange saker en form for ansvarspulverisering.
-Manglende samordning og samarbeid syntes i
-noen saker å ha hatt sammenheng med instansenes interne organisering av arbeidet med sakene.
-Saksbehandlere hadde tilsynelatende aleneansvar,
-uten leder- eller kollegastøtte, se punkt 14.5.2.
-Sammen med stor arbeidsbelastning og manglende rutiner for samarbeid, kan dette ha bidratt
-til utilstrekkelige avgjørelser. I noen saker syntes
-det også som om manglende kjennskap til andre
-etaters organisering og muligheter førte til overdreven tiltro til at andre instanser håndterte
-saken, og at innsats fra egen instans derfor ikke
-var nødvendig. For eksempel så noen instanser ut
-til å «slippe» saken etter å ha varslet politiet eller
-barneverntjenesten. Dersom politiet og barneverntjenesten hadde lite informasjon om saken
-kunne de henlegge den. Da var det ikke nødvendigvis noen som fulgte opp paret eller familien.
-Dette viser, etter utvalgets syn, viktigheten av en
-samordnet innsats mot saker om vold i nære relasjoner.
-I andre saker så det ut som om enkelte instanser ikke ønsket involvering fra for eksempel politiet og barneverntjenesten, tilsynelatende fordi de
-var redde for å «skremme» offeret og/eller gjerningspersonen, for å bryte tilliten eller for å fremprovosere en farligere situasjon.
-
-[Side 193]
-
-Del V
-Utvalgets anbefalinger
-
-[Side 194]
-
-[Side 195]
-
-NOU 2020: 17
-Varslede drap?
-
-193
-
-Kapittel 15
-
-Kapittel 15
-
-Om utvalgets anbefalinger
-Partnerdrapsutvalget fremmer en rekke tiltak
-som, i henhold til mandatet, «kan bidra til at fremtidige tilfeller av partnerdrap forebygges og forhindres». Utvalget anbefaler at regjeringen følger
-opp alle tiltakene. Hovedgrunnlaget for utvalgets
-anbefalinger er gjennomgangen av straffesaksdokumenter i 19 partnerdrapssaker. Utvalget har i
-del 4 beskrevet den kontakten som ofrene og gjerningspersonene hadde med hjelpeapparatet før
-drapet.536 Utvalget har også beskrevet hvordan
-hjelpeapparatet håndterte sakene, samt utfordringene ved denne håndteringen. Se kapittel 14 for
-en oversikt over gjennomgående utfordringer i
-partnerdrapssakene. Utvalgsmedlemmenes egne
-erfaringer og andre kunnskapskilder har også
-vært viktige i arbeidet med anbefalingene.
-Gjennomgangen av sakene viste at de fleste
-partnerdrapene skjedde etter ett eller flere forvarsler. Forskning viser at personer som lever
-med partnervold i kombinasjon med flere levekårsutfordringer har høyest risiko for å bli utsatt
-for, eller for å begå, partnerdrap. Det var partnervold før drapet i alle de 19 sakene, og mange av
-ofrene og gjerningspersonene hadde flere leve536
-
-Utvalget har for enkelhets skyld valgt å benytte «bruker»
-om de personene som politi og annet hjelpeapparat har
-kontakt med, se punkt 1.6.
-
-kårsutfordringer. Politi og annet hjelpeapparat
-iverksatte ikke tidsnok forebyggende tiltak som
-kunne redusert risikoen for alvorlig partnervold
-og partnerdrap. Dette til tross for at hjelpeapparatet har en rekke virkemidler tilgjengelig, se kapittel 7 for en oversikt over sentrale virkemidler.
-Etter utvalgets syn, viste saksgjennomgangen
-at det var et potensial for å forebygge partnerdrap
-i alle sakene. På bakgrunn av at det forekom partnervold før partnerdrapet i alle de gjennomgåtte
-sakene, dreier utvalgets anbefalinger seg i stor
-grad om avdekking, risikovurdering og håndtering av partnervold. De fleste anbefalingene skal
-sikre at politi og annet hjelpeapparat tidsnok tar i
-bruk forebyggende virkemidler og tiltak som allerede er tilgjengelig. Utvalget anbefaler også nye
-virkemidler og tiltak.
-Utvalget anbefaler 30 generelle tiltak innenfor
-14 temaer. Disse er rettet mot alle instansene i
-hjelpeapparatet, se kapittel 16. Utvalget anbefaler
-også 39 tiltak rettet mot politiet og andre instanser
-i hjelpeapparatet, se kapittel 17. Tiltakene rettet
-mot de enkelte instansene må ses i sammenheng
-med de generelle tiltakene. Utvalget anbefaler i tillegg at det opprettes en nasjonal permanent partnerdrapskommisjon, se kapittel 18.
-
-[Side 196]
-
-194
-
-Kapittel 16
-
-NOU 2020: 17
-Varslede drap?
-
-Kapittel 16
-
-Generelle anbefalinger
-16.1 Tydeliggjøring av lederansvar og
-målrettet tilsyn
-Utvalget anbefaler følgende tiltak:
-– Ansvaret som ledelsen i politiet og de ulike tjenestene har for implementering og iverksetting
-av virkemidler og tiltak for å forebygge partnervold og partnerdrap må tydeliggjøres.
-– Ansvaret som ledelsen i politiet og de ulike tjenestene har for å sikre en kultur for læring av
-egne og andres feil, og for kvalitetsutvikling
-innen voldsforebygging, må tydeliggjøres.
-– Tilsynsmyndigheter må prioritere tilsyn med
-relevante tjenesters arbeid med å forebygge
-partnervold og partnerdrap.
-En av utfordringene i de gjennomgåtte partnerdrapssakene var at eksisterende tiltak og virkemidler ikke tidsnok ble tatt i bruk, se punkt 14.1
-og 14.5.3. Dette betyr at gjeldende regelverk, retningslinjer, anbefalinger og rutiner ikke ble overholdt. Det er et lederansvar å sørge for at hjelpeapparatet benytter eksisterende forebyggende
-virkemidler og tiltak mot partnervold og partnerdrap. Etter utvalgets syn, ligger det et stort forebyggingspotensial i å tydeliggjøre dette lederansvaret og å føre målrettede tilsyn med tjenestenes
-forebyggende arbeid.
-Utvalget anbefaler tre tiltak for å sikre bedre
-lederforankring og utvikling av arbeidet med å
-forebygge partnervold og partnerdrap. For det
-første anbefaler utvalget at lederansvaret for forebygging av partnervold og partnerdrap tydeliggjøres. Det er, etter utvalgets vurdering, allerede i
-dag slik at de ulike tjenestenes ledere har ansvar
-for at føringene for arbeidet er godt nok kjent i tjenestene, og at disse føringene er implementert
-gjennom rutiner som sikrer etterlevelse. Det er
-også et lederansvar å sikre at tjenestene prioriterer det forebyggende arbeidet, og at de yter profesjonelle og kvalitativt gode tjenester til brukerne.
-
-Lederansvaret kan utledes av de respektive
-instansenes regelverk.537 Etter utvalgets syn,
-viste saksgjennomgangen at det er grunn til å
-tydeliggjøre dette ansvaret. Dette kan for eksempel gjøres ved endringer i lov, instruks, og/eller
-gjennom andre styringsverktøy.
-For det andre anbefaler utvalget at ledelsens
-ansvar for å sikre en kultur for læring av feil og
-kvalitetsutvikling tydeliggjøres. Ledelsen må sikre
-at tjenestene kontinuerlig arbeider for å lære av
-egne og andres feil, og for å utvikle sin egen oppgaveløsning i tråd med kunnskap og erfaring. I tilfeller hvor det begås feil, er det svært viktig å
-gjennomgå rutiner og å iverksette tiltak for å
-unngå at den samme feilen begås på nytt, både i
-egen organisasjon og i andre organisasjoner. Det
-er, etter utvalgets syn, også svært viktig at slik
-læringsbasert utvikling gjøres på tvers av tjenester og etater. På denne måten kan feil i én tjeneste
-bidra til læring i flere tjenester.
-For det tredje anbefaler utvalget at alle relevante tilsynsmyndigheter må prioritere tilsyn med
-tjenestenes arbeid med å forebygge partnervold
-og partnerdrap. Utvalget har ikke grunnlag for å
-foreslå store endringer i tilsynsvirksomheten,
-men vil understreke viktigheten av at de eksisterende tilsynsmyndighetene prioriterer målrettede tilsyn med det forebyggende arbeidet mot
-partnervold og partnerdrap. Til dette kreves det
-at tilsynsmyndighetene har tid, ressurser og relevant kompetanse, herunder kompetanse på vold i
-nære relasjoner.
-537
-
-Se for eksempel helse- og omsorgstjenesteloven § 3-3 a.
-Det følger av forarbeidene at bestemmelsen tydeliggjør at
-kommuneledelsen, ved administrasjonssjefen (rådmannen)
-og kommunestyret, har ansvar for å bidra til at vold og seksuelle overgrep forebygges, avdekkes og avverges ved
-ytelse av helse- og omsorgstjenester. Kommuneledelsen
-må sørge for at de kommunale helse- og omsorgstjenestene organiseres på en slik måte at tjenesteyterne blir i
-stand til å forebygge, avdekke og avverge vold og seksuelle
-overgrep, jf. Prop. 71 L (2016–2017) s. 228.
-
-[Side 197]
-
-NOU 2020: 17
-Varslede drap?
-
-16.2 Dreining fra anbefalinger til
-lovfestede plikter
-Utvalget anbefaler følgende tiltak:
-– Lovfesting av en del oppgaver knyttet til arbeid
-med saker om vold i nære relasjoner, se konkrete forslag i kapittel 17.
-– Behovet for ytterligere lovfesting av oppgaver
-knyttet til arbeid med saker om vold i nære
-relasjoner bør utredes nærmere.
-Saksgjennomgangen viste at hjelpeapparatet hadde
-en rekke ubenyttede virkemidler og tiltak tilgjengelig, og at mange av disse virkemidlene og tiltakene er forankret i retningslinjer og anbefalinger
-som ikke er rettslig bindende, se punkt 14.4.
-Utvalget mener derfor at en del tiltak og oppgaver
-som nå er forankret i retningslinjer og anbefalinger, bør lovfestes og gjøres rettslig bindende. En
-dreining fra retningslinjer og anbefalinger til flere
-lovfestede krav vil kunne bidra til at eksisterende
-forebyggende virkemidler og tiltak benyttes av
-hjelpeapparatet.
-Utvalget har forståelse for at store deler av
-hjelpeapparatet er i en krevende ressurssituasjon,
-og at tidspress og stor saksmengde kan gjøre det
-vanskelig å prioritere oppgaver som ikke er lovpålagt. Flere lovfestede krav vil ikke nødvendigvis
-forbedre denne situasjonen. For mange vil det
-snarere kunne bidra til enda mer tidspress. Utvalget mener likevel at en slik dreining er svært viktig for at arbeidet med forebygging av vold i nære
-relasjoner og partnerdrap prioriteres. Større grad
-av lovfesting vil kunne gjøre kravene til det forebyggende arbeidet tydeligere. Det vil også bidra
-til at det forebyggende arbeidet gis større legitimitet, og at det for den enkelte ansatte blir enklere å
-ta til orde for at oppgaver knyttet til forebygging
-må prioriteres internt. Det vil, etter utvalgets syn,
-også kunne bidra til at arbeid med forebygging
-løftes frem som enda viktigere, og at dette arbeidet på sikt oppnår en høyere status.
-
-16.3 Alle må tilbys alenesamtaler med
-hjelpeapparatet
-Utvalget anbefaler følgende tiltak:
-– Politi og annet hjelpeapparat må rutinemessig
-tilby alle brukere alenesamtale.
-– Det bør vurderes innføring av obligatoriske alenesamtaler i deler av hjelpeapparatet.
-Det kan være mange hindre for god kommunikasjon mellom brukere og hjelpeapparat, se også
-
-195
-
-Kapittel 16
-
-punkt 14.3. Et hinder som gikk igjen i flere saker
-var at samtalen mellom hjelpeapparatet og voldsutsatte ikke var fortrolig fordi voldsutøver eller
-barn var tilstede. Avdekking av vold i nære relasjoner krever fortrolighet og alenesamtaler. Utvalget mener derfor at hjelpeapparatet rutinemessig
-må tilby alle brukere alenesamtaler. Utvalget
-mener også at det må utredes nærmere om
-enkelte instanser eller etater skal pålegges å rutinemessig gjennomføre obligatoriske alenesamtaler med bruker. Et tilbud om alenesamtale vil i
-noen situasjoner ikke være tilstrekkelig, for
-eksempel når brukeren er underlagt kontroll og i
-realiteten ikke kan oppsøke hjelpeapparatet alene.
-I slike tilfeller vil en obligatorisk alenesamtale,
-pålagt av for eksempel fastlegen, være den eneste
-måten brukeren kan treffe hjelpeapparatet i fortrolighet.
-Formålet med begge tiltakene er å tilrettelegge bedre for å avdekke vold i nære relasjoner
-og andre faktorer som kan bidra til forhøyet risiko
-for alvorlig vold og drap, og for videre samtaler
-om dette. Dette vil igjen bidra til at hjelpeapparatet bedre settes i stand til å foreta en risikovurdering, og eventuelt iverksette forebyggende tiltak.
-
-16.4 Økt bruk av kvalifisert tolk
-Utvalget anbefaler følgende tiltak:
-– Forslag til tolkelov må vedtas og implementeres i politiet og i alle andre deler av hjelpeapparatet.
-– Det må innføres et påbud om å bruke kvalifisert tolk i alle saker med mistanke eller kunnskap om vold i nære relasjoner der hjelpeapparat og bruker ikke har et felles talespråk. Unntak bør bare kunne gjøres i en nødsituasjon
-eller når andre sterke grunner tilsier det.
-– Det må innføres et forbud mot å bruke brukerens familiemedlemmer eller andre nærstående som tolk.
-– Det må innføres gode og effektive tolkebestillingsrutiner i alle deler av hjelpeapparatet.
-– Det må innføres rutiner for at tolk alltid tilbys
-ved behov, slik at brukerne ikke aktivt må be
-om dette.
-Utvalgets saksgjennomgang viste at hjelpeapparatet i mange tilfeller ikke brukte kvalifisert tolk til
-tross for at det var behov for det, se punkt 14.3.3.
-Utvalget registrerte flere eksempler på at familiemedlemmer, inkludert voldsutøver og den voldsutsattes barn, ble brukt som tolk. Dette er svært
-problematisk. Utvalget mener at manglende bruk
-
-[Side 198]
-
-196
-
-Kapittel 16
-
-NOU 2020: 17
-Varslede drap?
-
-av kvalifisert tolk kan ha bidratt til at volden ikke
-ble avdekket, og at det dermed heller ikke ble
-iverksatt forebyggende tiltak. For å lykkes i arbeidet med å forebygge partnervold og partnerdrap,
-er det svært viktig at bruker og hjelpeapparatet
-kan kommunisere. Tolking må, etter utvalgets
-syn, ses som en integrert del av tjenestetilbudet
-som ytes av de forskjellige instansene, ikke som
-en tilleggstjeneste. Det er også svært viktig at tolken er profesjonell og kvalifisert. Dette er avgjørende for at den voldsutsatte åpent skal kunne fortelle sin historie. Det er også avgjørende for at
-hjelpeapparatet skal få nødvendig informasjon for
-å kunne iverksette adekvate forebyggende tiltak.
-Kunnskapsdepartementet har fremmet forslag
-til lov om offentlige organers ansvar for å bruke
-tolk (tolkeloven). Forslaget innebærer at offentlige organer skal ha en todelt plikt til å bruke tolk:
-1) når det følger av lov, og 2) når det er nødvendig
-for å ivareta hensynet til rettssikkerhet eller for å
-yte forsvarlig hjelp og tjeneste, jf. lovforslagets § 6
-første ledd. At plikten «følger av lov» betyr at
-offentlige organer har plikt til å bruke tolk når
-dette følger av særlovgivningen, se for eksempel
-domstolloven § 135. Videre vil det være «nødvendig» å bruke tolk i situasjoner der det offentlige
-formidler viktig informasjon til brukeren, og i
-saker med stor betydning for den enkelte. Sakens
-karakter kan også ha betydning for om det er nødvendig å bruke tolk. I tilfeller hvor etatene har
-plikt til å bruke tolk, skal det brukes kvalifisert
-tolk. Med «kvalifisert tolk» menes en tolk som
-oppfyller kravene til å bli oppført i Nasjonalt tolkeregister, herunder minst kvalifikasjonskategori 5.
-Departementet foreslår at kravet om kvalifisert
-tolk skal kunne fravikes når det er nødvendig av
-hensyn til en effektiv saksbehandling, i nødssituasjoner eller når andre sterke grunner tilsier det.
-Videre heter det i lovforslaget at «når et offentlig
-organ ellers er i kontakt med personer som ikke
-kan norsk, bør organet vurdere å bruke tolk», jf.
-forslagets § 6 annet ledd. I disse tilfellene skal det
-ikke stilles krav om at tolken er kvalifisert. Se
-departementets høringsnotat for en nærmere
-beskrivelse av lovforslaget.538
-Lovforslaget ble sendt på høring 1. mars 2019.
-Høringsfristen gikk ut i juni 2019, og saken er per
-desember 2020 til behandling i Kunnskapsdepartementet.
-Utvalget støtter i all hovedsak lovforslaget,
-men anbefaler at loven på to punkter må stille
-strengere krav til bruk av tolk.
-538
-
-Kunnskapsdepartementet (2019).
-
-Utvalget anbefaler for det første at offentlige
-organer bør ha plikt til alltid å bruke kvalifisert
-tolk i saker med mistanke eller kunnskap om vold
-i nære relasjoner når hjelpeapparatet og brukeren
-ikke har et felles talespråk. Utvalget utelukker
-ikke at de fleste saker om vold i nære relasjoner
-vil omfattes av alternativ 2) i lovforslaget. Utvalget
-mener likevel at loven bør utformes slik at offentlige etater skal ha plikt til alltid å bruke tolk i
-saker hvor det er mistanke eller kunnskap om
-vold i nære relasjoner. I slike saker bør det bare
-være adgang til å gjøre unntak fra kravet om å
-bruke kvalifisert tolk i nødsituasjoner eller hvis
-sterke grunner tilsier det. Dette innebærer at
-offentlige instanser ikke skal kunne nedprioritere
-bruk av kvalifisert tolk av hensyn til effektivitet
-eller ressursbesparelse.
-Utvalget anbefaler for det andre at tolkeloven
-bør inneholde et generelt forbud mot å bruke brukerens familiemedlemmer eller andre nærstående
-som tolk. Det bør bare kunne gjøres unntak i nødsituasjoner. Forslaget til tolkelov innebærer at det
-eksisterende forbudet i forvaltningsloven § 11 e
-mot å bruke barn som tolk videreføres, jf. forslagets § 4. Utvalgets anbefaling innebærer at dette
-forbudet utvides til også å omfatte andre familiemedlemmer enn barn, og andre nærstående. Et
-forbud mot å bruke andre familiemedlemmer kan
-være spesielt viktig for kvinner med minoritetsbakgrunn som utsettes for vold. Denne gruppen
-er ofte særlig sårbare i møte med hjelpeapparatet.
-Kunnskapsdepartementets lovforslag innebærer et forslag om at offentlige organer som
-jevnlig bruker tolk, skal ha retningslinjer for
-bestilling og bruk av tolk, se lovforslagets § 9.
-Utvalget støtter dette forslaget, og anbefaler at
-alle organer etablerer gode og effektive rutiner
-for dette. Dette vil, etter utvalgets syn, være viktig
-for at regelverk og retningslinjer etterleves, og at
-tolketilbudet i tjenestene blir både effektive og av
-god kvalitet.
-Utvalget anbefaler endelig at det må innføres
-rutiner for å tilby tolk ved behov, slik at brukerne
-ikke aktivt må be om dette. Det kan for noen føles
-nedverdigende og skamfullt å innrømme utilstrekkelige språkkunnskaper, og andre kan mangle
-selvinnsikt om språkvansker i en krisesituasjon.
-Som en del av rutinen for å tilby tolk, bør det også
-avklares med brukeren om det er ønskelig eller
-vesentlig å benytte mannlig eller kvinnelig tolk.
-Når det gjelder språk som bare er utbredt i mindre etniske grupper i Norge, er det viktig at hjelpeapparatet utviser særlig aktsomhet ved valget
-av tolk. Dette er nødvendig for å unngå uheldige
-bindinger mellom tolk og bruker. Utvalget vil
-
-[Side 199]
-
-NOU 2020: 17
-Varslede drap?
-
-også understreke at i tilfeller der det ikke er hensiktsmessig eller gjennomførbart med oppmøtetolk, må det brukes telefontolk eller nettbasert tolketjeneste.539
-
-16.5 Bedre kollega- og lederstøtte
-Utvalget anbefaler følgende tiltak:
-– Det må sikres rutiner for bedre kollega- og
-lederstøtte i politiet og i alle andre deler av hjelpeapparatet for å unngå aleneansvar i saker om
-vold i nære relasjoner.
-Saksgjennomgangen viste flere eksempler på at
-ansatte i for stor grad var alene om ansvaret i krevende saker hvor den aktuelle familien var i en
-svært sårbar situasjon, tilsynelatende uten støtte
-fra kolleger eller leder, se punkt 14.5.2.
-I saker om vold i nære relasjoner vil de involverte alltid være i en sårbar situasjon. Dette kan
-forsterkes av tilstedeværelse av levekårsutfordringer. Å være alene om ansvaret i slike saker vil,
-etter utvalgets syn, være et for stort ansvar å bære
-for den enkelte ansatte, i tillegg til at det vil øke
-risikoen for å gjøre feilvurderinger. Utvalget anbefaler derfor at det må sikres bedre kollega- og
-lederstøtte i alle deler av hjelpeapparatet for å
-bidra til at kvaliteten heves i arbeidet som gjøres.
-Dette vil blant annet kunne bidra til å korrigere og
-nyansere den enkeltes vurderinger i saker om
-vold i nære relasjoner, og lette byrden som påhviler den enkelte medarbeider. Bedre kollega- og
-lederstøtte vil også kunne bidra til at ulik fagekspertise er involvert i sakene, slik at mangfoldet
-av utfordringer i sakene fanges opp. Det vises i
-denne forbindelse også til manualen til SARA-V3,
-hvor det presiseres at voldsrisikovurderinger ikke
-skal gjennomføres alene eller av enkeltpersoner.
-Utvalget understreker at det er et lederansvar å
-sørge for at ansatte har noen å samarbeide og å
-drøfte saker med, se også anbefaling i punkt 16.1.
-
-16.6 Bedre dokumentasjonsrutiner
-Utvalget anbefaler følgende tiltak:
-– Det må utvikles bedre rutiner for å etterleve
-krav til dokumentasjon i hjelpeapparatet.
-Saksgjennomgangen viste flere eksempler på
-manglende eller mangelfull dokumentasjon i
-539
-
-Se også forslaget til tolkelov § 8 som gir offentlige organer
-valget mellom å bruke fremmøtetolking eller fjerntolking.
-
-197
-
-Kapittel 16
-
-sakene. I noen tilfeller var rapporter skrevet etter
-drapstidspunktet, og i andre tilfeller fremstod
-dokumentasjonen som uprofesjonell eller usystematisk, se punkt 14.5.5.
-For å oppnå et mer profesjonelt og systematisk
-arbeid i saker om vold i nære relasjoner er det,
-etter utvalgets vurdering, helt sentralt at hjelpeapparatet dokumenterer sin håndtering av sakene.
-Denne dokumentasjonen må også inneholde de
-vurderingene som er gjort. Det finnes allerede i
-dag tilstrekkelige regler om journalføring i offentlig virksomhet til at slik dokumentasjon burde
-foretas i alle saker. Utvalget ser derfor ingen
-grunn til å foreslå ytterligere regler om dokumentasjon. Utvalget anbefaler i stedet at det utvikles
-bedre rutiner for at reglene etterleves. Det understrekes at ansvaret for at kravene til dokumentasjon etterleves påhviler lederne i de ulike instansene, se også anbefaling i punkt 16.1.
-
-16.7 Styrking av forskning om vold
-i nære relasjoner
-Utvalget anbefaler følgende tiltak:
-– Det bør opprettes et tematisk program om vold
-i nære relasjoner i regi av Norges forskningsråd.
-Utvalget mener at utviklingen av arbeidet med å
-forebygge partnervold og partnerdrap krever
-styrking av forskning på vold i nære relasjoner.
-Arbeidet med å forebygge partnervold og partnerdrap krever en kontinuerlig oppdatering av relevant kunnskap.
-Utvalget viser til at det i perioden 2014–2019
-ble gjennomført et voldsforskningsprogram ved
-Nasjonalt kunnskapssenter om vold og traumatisk
-stress (NKVTS) og Velferdsforskningsinstituttet
-NOVA ved OsloMet. Programmet ble initiert og
-finansiert av Justis- og beredskapsdepartementet.
-Programmet har frembragt nyttig kunnskap om
-vold i nære relasjoner, og programmet er forlenget til 2024.
-Utvalget anbefaler at det opprettes et forskningsprogram på vold i nære relasjoner i regi av
-Norges forskningsråd. Det er nå over 20 år siden
-forrige gang dette ble vurdert.540 Utvalget mener
-at en tematisk satsning på forskning på vold i
-nære relasjoner i regi av Norges forskningsråd vil
-være svært viktig for å opprettholde både volum,
-kvalitet og mangfold i forskningen. Det vil også
-sikre nødvendig tematisk bredde og forskning på
-540
-
-Skjørten, Bjørgo og Olaussen (1999) punkt 1.1.
-
-[Side 200]
-
-198
-
-Kapittel 16
-
-NOU 2020: 17
-Varslede drap?
-
-ulike fagfelt som er relatert til vold i nære relasjoner. Utvalget mener for øvrig at det er viktig å
-sikre videre forskning på partnerdrap i Norge.
-Forskningsprogrammet bør derfor inkludere
-forskning på partnerdrap.
-
-16.8 Kompetanseløft i hjelpeapparatet
-16.8.1 Tiltak
-Utvalget anbefaler følgende tiltak:
-– Det må innarbeides og sikres implementering
-av kunnskapskrav om vold i nære relasjoner,
-risikovurdering, risikohåndtering, kommunikasjon, kultursensitivitet og samhandling i alle
-relevante rammeplaner.541
-– Kunnskapsdepartementet bør gjennomføre en
-kartlegging og vurdering av behovet for tilsvarende kunnskapskrav i utdanninger som ikke
-styres av rammeplan.
-– Det må stilles kompetansekrav om vold i nære
-relasjoner, risikovurdering, risikohåndtering,
-kommunikasjon, kultursensitivitet og samhandling i alle relevante etter- og videreutdanninger.
-– Nasjonalt organ for kvalitet i utdanningen
-(NOKUT)542 må føre tilsyn med at kunnskapskrav implementeres i utdanningene.
-Saksgjennomgangen viste at mangelfull kunnskap
-og kompetanse syntes å være en viktig årsak til at
-partnervold og partnerdrap ikke ble forhindret, se
-punkt 14.2. For å heve kompetansen i tjenestene,
-mener utvalget at det er behov for et kunnskapsløft gjennom utdanning. Ansatte i politi og
-annet hjelpeapparat må settes bedre i stand til å
-avdekke, risikovurdere og håndtere risiko for
-partnervold og partnerdrap.
-Utvalget anbefaler at det gjennomføres et kompetanseløft ved blant annet å innarbeide og å sikre
-implementering av kunnskapskrav om vold i nære
-relasjoner, risikovurdering, risikohåndtering,
-kommunikasjon, kultursensitivitet og samhandling i relevante rammeplaner. Formålet er at kandidater i alle relevante utdanninger, før de kommer ut i tjenestene, skoleres til å kunne avdekke
-541
-
-En rammeplan definerer de nasjonale rammene for en
-utdanning. Rammeplaner for høyere utdanning fastsettes
-av Kunnskapsdepartementet med hjemmel i universitetsog høyskoleloven § 3-2 annet ledd. Rammeplanene er forskrifter til loven. En oversikt over alle grunnutdanninger
-som følger en rammeplan finnes på regjeringen.no.
-542
-NOKUT er et faglig uavhengig forvaltningsorgan underlagt
-Kunnskapsdepartementet. NOKUT kontrollerer kvaliteten
-på høyere utdanning i Norge, i tillegg til å kontrollere og
-informere om kvaliteten på utdanning fra utlandet.
-
-partnervold og andre faktorer som kan bidra til
-forhøyet risiko for partnerdrap, til å vurdere faren
-for liv og helse og til å håndtere saker på riktig
-måte.
-Utvalget viser til at det allerede arbeides for å
-heve kompetansen i hjelpeapparatet. Det skal
-blant annet utarbeides en tverrsektoriell kompetansestrategi om vold og overgrep.543 Dette er et
-ledd i oppfølgingen av Opptrappingsplanen mot
-vold og overgrep (2017–2021).544 Kunnskap om
-vold i nære relasjoner inngår også i rammeplanene for flere profesjonsutdanninger. Kunnskapsdepartementet fastsatte for eksempel høsten 2017
-en forskrift om felles rammeplan for helse- og
-sosialfagutdanninger.545 I forskriften § 2 fremgår
-det blant annet at kandidatene skal ha «kunnskap
-om sosiale og helsemessige problemer inkludert
-omsorgssvikt, vold, overgrep, rus- og sosioøkonomiske problemer og kunne identifisere og følge
-opp mennesker med slike utfordringer». Det
-fremgår videre av forskriftsbestemmelsen at kandidatene skal kunne «vurdere risiko for uønskede
-hendelser og kjenne til metoder for å følge opp
-dette systematisk», og at kandidatene skal kunne
-«samhandle både tverrfaglig, tverrprofesjonelt,
-tverrsektorielt og på tvers av virksomheter og
-nivåer, og initiere slik samhandling». Det arbeides
-også i universitets- og høyskolesektoren for å
-videreutvikle samarbeidet mellom helsefag, sosialfag, politi- og lærerutdanninger og spesialpedagogiske utdanninger på feltet vold og overgrep.546
-Målet er at tjenestene og utdanningsinstitusjonene skal samsnakke, og at dette skal bidra til å
-forbedre tjenestetilbudet.
-Utvalget mener det er viktig å forankre konkrete kunnskapskrav i utdanningenes rammeplaner. For utdanningene som ikke styres etter rammeplan, er det viktig at tilsvarende kunnskapskrav
-forankres i andre styringsdokumenter. For at
-dette skal bidra til kompetanseheving i tjenestene,
-er det, etter utvalgets syn, svært viktig at disse
-kompetansekravene implementeres i utdanningene. Utvalget understreker at dette må gjøres i
-tråd med tjenestenes behov for kompetanse, og på
-grunnlag av forskningsbasert kunnskap.
-Når det gjelder etter- og videreutdanning, bør
-det, etter utvalgets syn, stilles krav til vedlikehold
-av kunnskap og kompetanse på vold i nære relasjoner, risikovurdering, risikohåndtering, kommu543
-
-Norges rapport til Europarådet (2020) punkt 3C.
-Prop. 12 S (2016–2017).
-545
-Forskrift 6. september 2017 nr. 1353 om felles rammeplan
-for helse- og sosialfagutdanninger.
-546
-Norges rapport til Europarådet (2020) punkt 3C.
-544
-
-[Side 201]
-
-NOU 2020: 17
-Varslede drap?
-
-nikasjon, kultursensitivitet og samhandling i alle
-relevante yrker. Dette gjelder blant annet for
-leger, psykologer, sykepleiere, sosionomer, barnevernspedagoger, krisesenteransatte og politi. Det
-vises for øvrig til konkrete tiltak for de respektive
-instansene i kapittel 17.
-Det er, etter utvalgets syn, viktig at det føres
-tilsyn med implementeringen av nye kunnskapskrav, og at utdanningskvaliteten evalueres. Utvalget mener at det særlig bør føres tilsyn med at de
-nevnte kunnskapskravene er implementert i
-utdanningene, og at de nyutdannede kandidatene
-imøtekommer tjenestenes kompetansebehov og
-brukernes behov for kvalitet i tjenestene.
-
-16.8.2 Nærmere om kompetansebehovet
-Kunnskap om og kompetanse på vold i nære relasjoner, risikovurdering, risikohåndtering, kommunikasjon, kultursensitivitet og samhandling er en
-grunnleggende forutsetning for å forebygge partnervold og partnerdrap, se også punkt 14.2. Politi
-og annet hjelpeapparat må ha god fenomenforståelse, være i stand til å oppdage ulike tegn på voldsutsatthet og voldsutøvelse, og være bevisst på at
-arbeidet krever både tid, tillit og tålmodighet. Det
-er, etter utvalgets syn, også svært viktig at hjelpeapparatet har kunnskap om at egne forhåndsoppfatninger og etablerte myter kan bidra til å
-farge vurderinger av situasjonens alvor. Mange
-kan ha med seg forforståelser om hvordan en
-voldsutsatt og en voldsutøver ser ut, eller hvordan
-en voldsutsatt eller en voldsutøver bør opptre. I
-møte med mennesker i krevende livssituasjoner
-som en selv ikke kjenner seg igjen i, kan mangelfull kunnskap bidra til at det treffes feilslutninger
-om risikoen for liv og helse.
-For å avdekke vold i nære relasjoner, og for å
-vurdere risikoen i en situasjon, trenger hjelpeapparatet også informasjon. Nøkkelen til informasjon vil i mange tilfeller ligge i kommunikasjon.
-Hjelpeapparatet må ha god kompetanse på kommunikasjon, og være bevisst på at mennesker i
-krise kan ha vanskeligheter med å forstå og å
-kommunisere. God kommunikasjon forutsetter
-blant annet at hjelpeapparatet møter brukerne
-«der de er». Dette krever igjen både kulturforståelse og kultursensitivitet. Kommunikasjon er også
-viktig når ulike instanser utveksler informasjon
-med hverandre. Ulike profesjoner og yrkesgrupper har ulike kulturer for å omtale vold og for å
-vurdere risiko. En felles forståelse av, og et felles
-begrepsapparat for, vold i nære relasjoner, forutsetter grunnleggende utdanning, og systematisk
-og profesjonalisert samarbeid mellom ulike etater.
-
-199
-
-Kapittel 16
-
-Hjelpeapparatet må også vite hvordan en risikofylt situasjon skal håndteres, herunder hvilke
-virkemidler og tiltak som finnes, og hvilket handlingsrom regelverk, retningslinjer, anbefalinger
-og rutiner gir – både i egen tjeneste og i samarbeidende tjenester.
-
-16.9 Informasjonskampanjer og
-nettressurser
-Utvalget anbefaler følgende tiltak:
-– Det må jevnlig gjennomføres tilpassede nasjonale kampanjer om vold i nære relasjoner,
-partnerdrap, hjelpetilbud, varslingsplikt og
-avvergeplikt.
-– Det må være nasjonalt tilgjengelige nettressurser, telefonlinjer og chat som gir informasjon
-om vold og overgrep og om muligheter til å få
-hjelp raskt, og det må jevnlig spres tilpasset
-informasjon om disse ressursene.
-Saksgjennomgangen viste at ofrene ikke selv alltid var klar over at de ble utsatt for vold, at de ikke
-visste hvor de kunne henvende seg for å få hjelp,
-og at de ikke alltid hadde tillit til at hjelpeapparatet
-kunne hjelpe dem, se punkt 14.3. Saksgjennomgangen viste også at det bare var få familiemedlemmer, venner eller andre privatpersoner som
-etter drapet ga uttrykk for at de hadde fryktet at
-partnerdrap kunne skje, til tross for at de hadde
-kunnskap om alvorlig partnervold. Det var også få
-eksempler på at privatpersoner varslet hjelpeapparatet om bekymring for det aktuelle paret, se
-punkt 13.1.4. Utvalget foreslår på denne bakgrunn
-to tiltak for å styrke befolkningens kunnskap om,
-og tilgang til, relevant hjelp.
-Utvalget anbefaler for det første at det jevnlig
-gjennomføres tilpassede nasjonale informasjonskampanjer om vold i nære relasjoner, partnerdrap,
-sammenhengen mellom partnervold og partnerdrap, hjelpetilbud, varslingsplikt og avvergeplikt.
-Utvalget vil i denne forbindelse også trekke frem
-viktigheten av å gjøre retten til gratis rettshjelp for
-vurdering av anmeldelse bedre kjent, se punktene
-12.11.4 og 14.2.6.547 Etter utvalgets syn, vil informasjonskampanjer om de nevnte temaene bidra til
-å heve befolkningens kunnskapsnivå – både hos
-voldsutsatte, voldsutøver, offentlig ansatte og
-547
-
-Etter rettshjelploven § 11 første ledd nr. 6 har utsatte for
-vold i nære relasjoner rett til konsultasjon med advokat før
-en eventuell anmeldelse. Ordningen er uten økonomisk
-behovsprøving og advokaten innvilges i slike tilfeller en
-stykkpris på tre timer, se stykkprisforskriften § 5 annet
-ledd nr. 5.
-
-[Side 202]
-
-200
-
-Kapittel 16
-
-NOU 2020: 17
-Varslede drap?
-
-befolkningen ellers. Dette kan igjen bidra til at
-flere kontakter hjelpeapparatet i situasjoner med
-forhøyet risiko for alvorlig partnervold og partnerdrap. Når det gjelder tillit til hjelpeapparatet, kan
-ikke dette enkelt innføres gjennom iverksetting av
-tiltak. Tillit henger imidlertid tett sammen med
-kunnskap, se punkt 14.3. Utvalget mener at tiltak
-som øker befolkningens kunnskap om hjelpeapparatet vil kunne bidra til at hjelpeapparatet nyter
-høyere tillit.
-Utvalget anbefaler for det andre at nasjonalt tilgjengelige nettressurser, telefonlinjer og chat,
-som gir informasjon om vold og overgrep og
-mulighet til å få hjelp raskt, må styrkes og gjøres
-bedre kjent. Det finnes i dag en rekke relevante
-tiltak. Utvalget viser blant annet til nasjonal veiviser ved vold og overgrep Dinutvei.no. På denne
-nettsiden finnes det kvalitetssikret informasjon
-om blant annet vold i nære relasjoner og om relevant hjelpetilbud for både voldsutsatt og voldsutøver. Utvalget viser også til volds- og overgrepslinjen 116 006 (VO-linjen). Dette er en telefonlinje for
-den som opplever vold eller overgrep i nære relasjoner, se punkt 7.4.2.3. Regjeringen har nylig
-besluttet at VO-linjen også får en chat.548
-Utvalget understreker viktigheten av at det
-jevnlig spres tilpasset informasjon om de nevnte
-tilbudene for å sikre at de er godt kjent både i hjelpeapparatet og i befolkningen ellers. Eksempler
-på målrettede informasjonskampanjer er ung.no
-og #ikkegreit. Disse er rettet mot unge mennesker. Det er svært viktig at informasjonen som
-spres gjennom informasjonskampanjer og på
-andre måter er tilpasset alle de gruppene som det
-norske samfunnet består av, både gjennom utforming, språk, relevans og informasjonskanaler.
-Informasjonen må for eksempel være tilpasset
-personer i marginaliserte livssituasjoner og personer som har urfolks- og/eller minoritetsbakgrunn. Dette krever at informasjonen utarbeides i
-samarbeid med de gruppene som skal motta budskapet. Oversetting av allerede utarbeidet informasjon er ikke tilstrekkelig.
-Det er myndighetene som har ansvar for at
-befolkningen har kunnskap om vold i nære relasjoner og relevante hjelpetilbud, og for at hjelpeapparatet nyter tillit i befolkningen. Ansvaret for
-samordning av relevante informasjonstiltak bør
-tilligge Justis- og beredskapsdepartementet, ettersom dette departementet har koordineringsansvar for fagfeltet vold i nære relasjoner.
-
-548
-
-Finansdepartementet (2020).
-
-16.10 Nasjonal forebyggingsstrategi
-mot partnervold og partnerdrap
-Utvalget anbefaler følgende tiltak:
-– Det bør utarbeides en nasjonal forebyggingsstrategi for en samordnet innsats mot partnervold og partnerdrap.
-Saksgjennomgangen viste at offer og gjerningsperson møtte et lite samordnet hjelpeapparat, se
-punkt 14.6. Samordningsproblemer mellom instansene i hjelpeapparatet svekker, etter utvalgets syn,
-hjelpeapparatets samlede forebyggingspotensial.
-Utvalget mener det er behov for en samordnet
-innsats mot partnervold og partnerdrap som kan
-bidra å sikre felles innsats for forebygging, sterkere mål- og resultatstyring, bedre samarbeid på
-tvers og mer effektiv bruk av fellesskapets ressurser.
-Årsakene til vold i nære relasjoner, herunder
-partnervold og partnerdrap, er mange og sammensatte. For å lykkes med forebygging, må tiltakene inkludere både individuelle, relasjonelle og
-kontekstuelle risiko- og beskyttelsesfaktorer, ta
-hensyn til flere dimensjoner av volden og rette seg
-mot flere målgrupper.549 Volden lar seg ikke løse
-eller forebygge på en enkel måte, innenfor en sektors ansvarsområde. Vold i nære relasjoner kan
-dermed sies å være et gjenstridig problem.550
-Politiske styringsdokumenter har tilrettelagt
-for en mer samordnet innsats mot vold i nære
-relasjoner, særlig gjennom tverrdepartementale
-handlingsplaner mot vold i nære relasjoner. Handlingsplanene utgjør et rammeverk som bidrar til at
-ulike tiltak for å forebygge og bekjempe vold i
-nære relasjoner kombineres og ses i sammenheng på en strukturert måte.
-Utvalget anbefaler, med utgangspunkt i gode
-samordningserfaringer på feltet, at det utvikles en
-egen nasjonal forebyggingsstrategi for en samordnet innsats mot partnervold og partnerdrap.
-Utvalget understreker viktigheten av at en nasjonal forebyggingsstrategi mot partnervold og partnerdrap utvikles som et samarbeidsprosjekt mellom relevante aktører på tvers av departementer,
-etat- og sektortilhørighet og forvaltningsnivå.
-Partnervold og partnerdrap er alvorlig kriminalitet, og utvalget mener at Justis- og beredskapsdepartementet, som ansvarlig fagdepartement på
-feltet vold i nære relasjoner, bør ha ansvar for å
-549
-
-Moen, Bergman og Øverlien (2018) s. 146 med videre henvisninger.
-550
-Se for eksempel Difi (2017) og Bergman, Smette og Visli
-(2017).
+## Asylmottak, flyktningetjenesten og voksenopplæring
+
+### Innledning
+
+Ofrene og/eller gjerningspersonene hadde bakgrunn som flyktninger i 9 saker, se punkt 10.3. I 3 saker kom offer og gjerningsperson sammen som asylsøkere til Norge. I én sak kom både offer og gjerningsperson til Norge som asylsøkere, men ikke som en familie. I 4 saker kom gjerningspersonen som asylsøker til Norge, mens offeret kom i familiegjenforening noen år senere. I én sak hadde bare gjerningspersonen bakgrunn som asylsøker.
+
+I disse sakene var det en del opplysninger om kontakt med asylmottak, flyktningetjenesten og voksenopplæring (introduksjonsprogram). Offentlige ansatte i disse tjenestene har ofte tett og langvarig kontakt med flyktningene. De ansatte vil dermed kunne komme i posisjon til å avdekke vold i nære relasjoner og andre faktorer som kan bidra til forhøyet risiko for partnerdrap.
+
+Politiet innhentet ikke dokumentasjon fra asylmottak, flyktningetjenesten eller voksenopplæringen i noen av sakene. Grunnlaget for fremstillingen er derfor andre dokumenter, for eksempel dommer og avhør av gjerningsperson, privatpersoner og ansatte i instansene.
+
+### Asylmottak
+
+De aller fleste flyktninger bor på asylmottak mens de venter på at Utlendingsdirektoratet (UDI) skal behandle søknaden deres, og deretter på at Inkluderings- og mangfoldsdirektoratet (IMDi) skal finne en kommune de skal bo i. Det var trolig kontakt med asylmottak i alle de 9 sakene hvor gjerningspersonen og/eller offeret kom til Norge som flyktninger. Det var først og fremst kontakten i sakene hvor offer og gjerningsperson bodde på asylmottak som et par/familie som var relevant for forebygging. Dette var tilfellet i 3 saker, og fremstillingen avgrenses til disse 3 sakene, se punkt 12.9.1. I 2 av de 3 sakene inneholdt straffesaksdokumentene en del opplysninger om kontakten med asylmottaket.[^512]
+
+I den første saken var det opplysninger om at gjerningspersonen utsatte offeret for både fysisk og psykisk vold da de bodde på asylmottak. Gjerningspersonen kontrollerte offeret både økonomisk og sosialt. Det var også opplysninger om at offeret utøvde vold mot gjerningspersonen, og at begge foreldrene utsatte barna for vold. Det syntes som om de ansatte på mottaket verken var kjent med, eller mistenkte, vold i familien.
+
+En tid før drapet ga offeret, overfor en veiledningstjeneste utenfor asylmottaket, uttrykk for at hun var bekymret for gjerningspersonen som følge av endret atferd, og mye irritabilitet og frustrasjon. Dette ble videreformidlet til asylmottaket, og en ansatt på mottaket gjennomførte da en alenesamtale med gjerningspersonen. Gjerningspersonen ga ikke uttrykk for at noe var galt, og det ble tilsynelatende ikke tatt opp spørsmål om partnervold i samtalen. Gjerningspersonen hadde flere år tidligere blitt anmeldt for partnervold mot sin tidligere samboer, men dette hadde ikke asylmottaket kunnskap om.
+
+I den andre saken utøvde gjerningspersonen vold mot både offer og barn da familien bodde på asylmottak. Dette var kjent for flere privatpersoner. I forbindelse med en voldshendelse, skal barnet ha fortalt ansatte på asylmottaket at det var gjerningspersonen som utøvde volden. Opplysninger i saken tydet på at asylmottaket sendte bekymringsmelding til barneverntjenesten. Det var uklart hvordan saken ble fulgt opp, og det var ingen dokumentasjon fra barneverntjenesten om denne bekymringsmeldingen. Asylmottakets ansatte stilte tilsynelatende ingen spørsmål om partnervold, til tross for at de fikk kunnskap om vold mot barn.
+
+### Flyktningetjenesten
+
+De fleste flyktninger har kontakt med den kommunale flyktningetjenesten i forbindelse med bosetting i en kommune. Det var opplysninger om kontakt med flyktningetjenesten i 4 saker.
+
+I 2 av de 4 sakene ga straffesaksdokumentene informasjon om innholdet i kontakten. I begge sakene syntes det som om flyktningkonsulenten hadde nokså tett kontakt med familiene. I den ene saken hadde flyktningkonsulenten kontakt med familien omtrent et par ganger i uka frem til drapet skjedde. Dette var mer kontakt enn det vedkommende vanligvis hadde med andre familier.
+
+Familiene fikk mye relevant informasjon fra flyktningkonsulentene, blant annet om hjelpeapparatet, arbeidsliv, rettigheter og plikter. I begge sakene bistod flyktningkonsulentene familiene med en rekke praktiske ting knyttet til det å bosette seg i kommunen. Flyktningkonsulentene henviste også familiene til andre offentlige instanser, blant annet krisesenter, familievernkontor og andre kommunale støttetilbud. I noen tilfeller kjørte konsulentene familiene dit de skulle. Begge sakene etterlot et inntrykk av at flyktningkonsulentene var i kontakt med flere offentlige instanser og at de dermed hadde en koordinerende rolle.
+
+Vold ble på forskjellige måter et tema i begge sakene. I den ene saken ble barneverntjenesten koblet inn da det ene barnet fortalte at han ble utsatt for vold hjemme. Barneverntjenesten informerte flyktningkonsulenten om saken, og flyktningkonsulenten syntes å tro at anklagene kunne stemme. Ettersom det aktuelle barnet «ikke var et lite barn», vurderte flyktningkonsulenten det likevel slik at det ikke kunne være tale om «mishandling». Utvalget oppfattet uttalelsen slik at konsulenten antok at barnet var for stort til å kunne bli utsatt for alvorlig vold av foreldrene. Flyktningkonsulenten stilte ikke spørsmål til offeret i forbindelse med voldsanklagene. Det virket som om konsulenten mente at det var barneverntjenestens oppgave å følge opp vold mot barn. Flyktningkonsulenten ble også kjent med at offeret var bekymret for om gjerningspersonen ville ta med barna til hjemlandet, og at gjerningspersonen ikke lot offeret kle seg mer moderne. Det syntes for øvrig som om flyktningkonsulenten var oppmerksom på dynamikken mellom offer og gjerningsperson. Konsulenten uttalte blant annet at det etter ankomst til Norge hadde oppstått en markant skjevhet i maktforholdet mellom dem, se også punkt 11.5. Mannen hadde mistet autoriteten sin både i familien og ellers. Flyktningkonsulenten stilte ikke spørsmål om vold og varslet ikke politiet.
+
+I den andre saken fortalte offeret flyktningkonsulenten at gjerningspersonen hadde utsatt henne for vold. Flyktningkonsulenten sørget for at offer og barn kom seg raskt til krisesenter. Flyktningkonsulenten informerte imidlertid gjerningspersonen om hvor de befant seg og bakgrunnen for at konsulenten hadde hjulpet dem til krisesenter. Flyktningkonsulenten varslet ikke politiet.
+
+Det fremgikk videre at paret ønsket å skille seg før drapet. Det var særlig gjerningspersonen som uttrykte et sterkt ønske om dette. Flyktningkonsulenten anbefalte da paret å vente med å sende inn skilsmissepapirer til offeret hadde oppholdt seg i Norge i tre år. Gjerningspersonen gikk til slutt motvillig med på dette. Utvalget antar at denne anbefalingen hadde sammenheng med reglene i utlendingsloven som gir en familieinnvandrer mulighet til å søke om permanent opphold etter tre år.[^513] Det finnes imidlertid en unntaksregel fra kravet til oppholdstid for personer som blir utsatt for partnervold, jf. utlendingsloven § 53. Det så ikke ut til at flyktningkonsulenten vurderte om denne unntaksregelen kunne være aktuell.
+
+I den tredje saken, ble det avholdt et tverretatlig møte mellom krisesenteret, flyktningetjenesten, barnevernet, tolk og offeret. Det var ingen opplysninger om kontakten med flyktningetjenesten utover dette. I den fjerde saken var det opplysninger om at familien var i kontakt med en flyktningkonsulent, men ellers ingen opplysninger om kontakten.
+
+### Voksenopplæring
+
+Voksenopplæring er en læringsinstitusjon, og dette punktet kunne derfor vært plassert sammen med skole og barnehage, se punkt 12.10. I de gjennomgåtte sakene var det imidlertid bare opplysninger om kontakt med voksenopplæring i forbindelse med deltakelse på introduksjonsprogram for flyktninger, se boks 12.1. Punktet er derfor plassert her, sammen med andre instanser som kommer i kontakt med flyktninger og asylsøkere.
+
+Det var opplysninger om at offer og/eller gjerningsperson deltok på introduksjonsprogram for flyktninger på drapstidspunktet i 4 saker. Ettersom offer og/eller gjerningsperson hadde bakgrunn som asylsøkere i 9 saker, er det nærliggende å anta at det også var flere som deltok, eller hadde deltatt, på introduksjonsprogrammet. Det var også opplysninger som tydet på at flere ofre og gjerningspersoner fikk norskundervisning, uten at det fremgikk at dette var en del av introduksjonsprogrammet.
+
+Det var gjennomgående svært få opplysninger om oppfølgingen på introduksjonsprogrammet. I én sak var det noen opplysninger i avhør av offentlig ansatte. I denne saken ba offeret om å bytte klasse. Bakgrunnen for dette var at hun ikke ønsket å gå i samme klasse som gjerningspersonen. Dette ønsket ble imøtekommet.
+
+Introduksjonsprogram for flyktninger
+
+Kommunene har plikt til å tilby introduksjonsprogram for flyktninger, jf. introduksjonsloven § 3. Flyktninger har både rett og plikt til å delta på introduksjonsprogrammet, og mottar introduksjonsstønad under deltakelsen. Programmet er helårig og på fulltid. Programmet inneholder norskopplæring og samfunnskunnskap samt arbeids- eller utdanningsrettede tiltak, jf. introduksjonsloven § 4. Det tas sikte på å gi deltakerne grunnleggende ferdigheter i norsk, grunnleggende innsikt i norsk samfunnsliv og forberedelse til deltakelse i yrkeslivet. Kommunene står fritt til å avgjøre hvordan introduksjonsprogrammet skal organiseres. En del kommuner har valgt å organisere programmet ved hjelp av interkommunale samarbeid. Deltakere i programmet har kontakt med en såkalt programrådgiver. Programrådgiveren er vanligvis ansatt i flyktningetjenesten, NAV lokalt eller voksenopplæringen, avhengig av hvordan kommunen har organisert arbeidet med introduksjonsprogrammet. Programrådgiveren har blant annet ansvar for å følge opp deltakerne, og å koordinere tiltak og kontakt mellom ulike aktører og instanser. Det er som regel voksenopplæringen som har ansvar for den praktiske undervisningen. NAV lokalt fungerer som en samarbeidspartner for programrådgiveren og voksenopplæringen, og skal blant annet tilby arbeidsmarkedstiltak og holde oversikt over mulige praksisplasser og behov for arbeidskraft.
+
+Introduksjonsloven og imdi.no.
+
+\[Boks slutt\]
+
+### Utfordringer
+
+#### Hovedinntrykk og forebyggingspotensial
+
+Utvalgets inntrykk var at flere ansatte i tjenestene, som på forskjellige måter hadde kontakt med flyktninger, hadde god og tett kontakt med de aktuelle familiene. Flyktningkonsulentene hadde for eksempel over flere år ukentlige møter med familiene, og de var tilsynelatende en viktig kilde til både informasjon og støtte. Det syntes også som om de hadde en koordinerende rolle i møte med hjelpeapparatet, og sørget for at familien kom i kontakt med andre offentlige instanser. I én sak kjørte flyktningkonsulenten offeret til krisesenter, og i en annen sak fulgte konsulenten paret til familievernkontoret.
+
+Vitneavhør med ansatte på asylmottak tydet også på at det var en rekke ansatte som på en eller annen måte hadde kontakt med familiene. Det var flere som uttalte at de bevisst unngikk å stille private spørsmål til beboerne, og at det derfor var en del ting de ikke visste. De fleste hadde likevel dannet seg et relativt tydelig inntrykk av familiene. Sakene inneholdt få opplysninger om kontakten med voksenopplæringen. All den tid deltakerne i introduksjonsprogrammet tilbringer mye tid på skolen, kan det likevel legges til grunn at lærere og andre ansatte ved voksenopplæringen er blant de offentlig ansatte som hadde aller mest kontakt med familiene.
+
+Den tette og vedvarende kontakten ansatte i disse tjenestene har med enkeltpersoner og familier gir etter utvalgets mening et stort forebyggingspotensial. De ansatte har daglig eller ukentlig kontakt med mennesker i sårbare, krevende, og i noen tilfeller marginaliserte, livssituasjoner. De kan observere familiene i hverdagslige situasjoner og bygge opp et tillitsforhold. På denne måten kan de komme i posisjon til å avdekke vold i nære relasjoner og andre bekymringsverdige forhold. Etter utvalgets syn, er det derfor svært viktig at ansatte i disse tjenestene har kompetanse på vold i nære relasjoner, og at de settes i stand til å stille de riktige spørsmålene og gi treffende informasjon og råd.
+
+Utvalget vil i de neste punktene trekke frem noen utfordringer som stod frem i sakene hvor det var kontakt med asylmottak, flyktningetjeneste og/eller voksenopplæring.
+
+#### Manglende avdekking av vold, undervurdering av risiko og oppfølging av voldsutøvere
+
+Utvalget mener det kan stilles spørsmål ved om hjelpeapparatet er tilstrekkelig oppmerksom på risikoen for vold i nære relasjoner i møte med flyktninger. Utvalget så blant annet eksempler på at ansatte i asylmottak, flyktningetjenesten og voksenopplæringen merket seg forhold som til sammen kunne dannet grunnlag for å spørre om vold, uten at det syntes som om dette ble gjort eller vurdert. Utvalget så også eksempler på at parforholdet mellom gjerningspersonen og offeret var preget av en markant skjevhet i maktforholdet, uten at instansene fanget opp dette. En slik dynamikk kan bidra til forhøyet risiko for partnervold og partnerdrap, se punkt 11.5.
+
+I én sak hadde flyktningkonsulenten kunnskap om at gjerningspersonen utsatte barnet sitt for vold. Flyktningkonsulenten snakket likevel ikke med familien om det barnet hadde fortalt. Etter utvalgets syn, virket det som om flyktningkonsulenten undervurderte risikoen i saken.
+
+I en annen sak observerte ansatte ved voksenopplæringen at gjerningspersonen utøvde kontroll over offeret. Gjerningspersonen likte ikke at offeret hadde kontakt med andre menn på skolen, og skolen fanget opp at offeret hadde overdreven respekt for gjerningspersonen. Offeret ba etter hvert om å bli plassert i en annen klasse enn gjerningspersonen, og dette ble etterkommet. Voksenopplæringen registrerte også at parets sønn ofte var innom klasserommet for å snakke med offeret, særlig når gjerningspersonen ikke var på skolen, og etter at offeret byttet klasse. Situasjonene etterlot et inntrykk av at dette var et ledd i det kontrollregime offeret var underlagt, og at det var gjerningspersonen som ba sønnen om å følge med på hva offeret foretok seg til enhver tid. Voksenopplæringen var oppmerksom på at offeret lå langt foran gjerningsperson når det gjaldt kunnskap om det norske språket og samfunnet. Det syntes likevel ikke som om de ansatte oppfattet kontrollen som partnervold, eller at situasjonen som helhet gjorde at de vurderte å snakke nærmere med paret.
+
+I en tredje sak la flere ansatte merke til at offeret var usedvanlig velutdannet, dyktig og godt integrert, og at gjerningspersonen snakket dårlig norsk og var mindre sosial. De ansatte antok at gjerningspersonen følte seg mindreverdig. Det var også flere som var kjent med at gjerningspersonen frem mot drapet var i sorg og psykisk ubalanse etter tapet av et nært familiemedlem. Offeret tok av seg hodeplagget og kledde seg stadig mer moderne, noe gjerningspersonen tilsynelatende ikke likte. Det ble etter hvert også kjent for flere at offeret ønsket skilsmisse, og i ettertid uttalte enkelte at de trodde dét måtte ha vært motivet for drapet. En ansatt uttalte at offeret aldri hadde gitt uttrykk for at gjerningspersonen utøvde vold. Opplysningene viste likevel at gjerningspersonen utsatte offeret for omfattende mishandling. Det fremstod som en utfordring i denne saken at asylmottaket nærmest aksepterte at gjerningspersonen befant seg i en svært vanskelig situasjon. Det var tilsynelatende ingen som initierte en samtale med ham om hvordan han hadde det. Skjevhet i maktforholdet mellom par kan være utfordrende å registrere. Utvalget har sett dette i flere saker. Etter utvalgets syn, bør det skapes større bevissthet rundt dette, blant annet om at slik dynamikk i parforhold bør danne grunnlag for ekstra oppmerksomhet, spørsmål om vold og eventuelt hjelpetiltak.
+
+#### Potensial for bedre oppfølging av psykisk helse
+
+Utvalget så videre utfordringer ved kartleggingen av den psykiske helsen hos flyktninger i sakene. Flyktninger er i en svært sårbar situasjon. Mange er traumatiserte og i sorg over tap av familie og venner. Alle flyktninger gjennomgår en enorm omveltning i livet når de kommer til Norge. Slike forhold bør gi grunnlag for ekstra oppfølging. Det syntes likevel ikke som om de aktuelle familiene fikk slik oppfølging, og det syntes ikke som om beboernes psykiske tilstand i tilstrekkelig grad ble kartlagt på asylmottak. Se nærmere om dette i punkt 12.4.4.3.
+
+#### Uprofesjonell håndtering og manglende kunnskap om regelverk
+
+Sakene viste flere eksempler på uprofesjonell håndtering. I én sak informerte en offentlig ansatt voldsutøver om at den voldsutsatte og deres felles barn oppholdt seg på krisesenter. Dette ble ikke gjort på en måte som tilfredsstilte profesjonelle krav i situasjonen. Den voldsutsatte har behov for beskyttelse, og dette skal veie tyngre enn gjerningspersonens ønske om informasjon. I tilfeller hvor voldsutøver stiller spørsmål ved hvor voldsutsatt befinner seg, bør voldsutøver etter utvalgets syn, beroliges med at den voldsutsatte befinner seg på et trygt sted.
+
+I én sak overtalte flyktningkonsulenten paret om å vente med å sende skilsmissepapirer til offeret hadde oppholdt seg i Norge i tre år, og feilinformerte dermed paret om relevant regelverk, se også punkt 12.7.4. Utvalget hadde ikke grunnlag for å foreta en konkret vurdering av om offeret i saken ville oppfylt vilkårene for permanent opphold på selvstendig grunnlag etter utlendingsloven § 53 bokstav b. All den tid gjerningspersonen utøvde vold mot offeret, og offeret oppholdt seg på krisesenter i en periode, er det likevel nærliggende å anta at vilkårene etter unntaksbestemmelsen var oppfylt. I så fall hadde offeret krav på opphold på selvstendig grunnlag før det var gått tre år etter ankomst til Norge.
+
+Flyktningkonsulenten hadde kunnskap om partnervold i forholdet. Offeret burde derfor fått informasjon om denne unntaksregelen i stedet for å bli overtalt til å vente med skilsmisse. Utvalget mener at flyktningetjenesten generelt bør være varsom med å gi råd og anbefalinger som ligger utenfor deres mandat, og som tjenesten ikke har god kunnskap om. Det kan ikke forventes at flyktningetjenesten har inngående kunnskap om utlendingsretten. Den aktuelle unntaksregelen om selvstendig opphold på grunn av familievold er likevel en svært viktig og sentral regel for voldsutsatte flyktninger. Flyktningetjenestens ansvarsområde og hovedoppgave er også bosetting og integrering av flyktninger. Det bør kunne forventes en grunnleggende kunnskap om sentrale og relevante rettigheter og plikter for flyktninger. I det minste må det kunne forventes at flyktningetjenesten konsulterer en annen faginstans om regelverket når det kreves rådgivning på et felt som flyktningetjenesten ikke har spesialkompetanse på. Dette gjelder særlig i en situasjon som i denne saken. Med kunnskap om partnervold, bør det være en høy terskel for å anbefale, og overtale, paret til å vente med skilsmisse. I denne saken kunne for eksempel flyktningetjenesten konsultert Utlendingsdirektoratet. Flyktningkonsulenten kunne også henvist offeret til advokat for å vurdere anmeldelse og få informasjon om rettigheter som voldsutsatt, se punkt 12.11.
+
+#### Aleneansvar i krevende saker
+
+Sakene viste at det kan være en utfordring at ansatte i for stor grad er alene om ansvaret for den aktuelle saken/familien. Utvalget drøftet dette i tilknytning til flere saker, men utfordringen er særlig fremtredende i én sak. Flyktningkonsulenten hadde tett kontakt med familien, og det syntes som om vedkommende var den eneste fra flyktningetjenesten som var involvert i saken. Familien var i en svært sårbar og krevende situasjon. Saken etterlot et inntrykk av at det var utfordrende for flyktningkonsulenten å bære ansvaret for familien alene. Etter utvalgets syn, var det flere forhold ved håndteringen som kunne indikere dette. Det kan, på generelt grunnlag, være krevende å «holde hodet kaldt» i voldsomme situasjoner når en er alene med ansvaret. Å være alene kan bidra til at en ikke oppfatter viktige signaler og tegn til bekymring.[^514] Til tross for gode hensikter, kan det å være alene med et slikt ansvar også øke risikoen for å trå feil og å tøye grensene for hva som er profesjonelt forsvarlig.
+
+## Skole og barnehage
+
+### Innledning
+
+Familiene i de aller fleste sakene hadde mindreårige hjemmeboende barn som gikk på skole eller i barnehage. De fleste parene var derfor i kontakt med skole og/eller barnehage før drapet. I enkelte saker var skole og/eller barnehage omtrent de eneste offentlige instansene som familiene var i kontakt med. Skole og barnehage kan ofte komme i posisjon til å avdekke vold og andre bekymringsverdige forhold. De ansatte har daglig og tett kontakt med både barna og foreldrene over mange år, og de blir derfor godt kjent. Skole og barnehage er på denne bakgrunn sentrale instanser i forebyggingsarbeid, til tross for at de ikke har egne konkrete virkemidler utover varsling til, og informasjonsutveksling med, andre instanser. Som offentlige ansatte er alle lærere, barnehagelærere og andre ansatte bundet av opplysningsplikten til barnevernet etter barnevernloven § 6-4 første ledd. Alle ansatte er også bundet av avvergeplikten etter straffeloven § 196.
+
+### Om kontakten
+
+Gjerningsperson og offer hadde felles barn, særkullsbarn, eller begge deler, i samtlige gjennomgåtte saker, se punkt 10.3. Blant disse var det hjemmeboende barn som gikk på skole eller i barnehage i 14 saker. Alle disse barna levde med vold, og flere av barna ble utsatt for direkte vold, se punkt 10.4. Barneverntjenesten var i kontakt med 7 av disse familiene, se punkt 12.6.1. Dette betyr at det var 7 saker hvor barna gikk på skole eller i barnehage, og hvor barnevernet ikke var koblet inn.
+
+I ytterligere 3 saker hadde paret tidligere hatt mindreårige hjemmeboende barn. Kontakten med skole og barnehage i disse sakene lå noe tilbake i tid, og kontakten var ikke dokumentert. Kontakten var derfor ikke relevant med hensyn til forebygging av partnerdrapet i sakene.
+
+I 3 saker var skole og barnehage, ved siden av helsetjenesten, de eneste instansene som familien i saken var i kontakt med. Felles for disse tre familiene, var at de levde isolert. Med dette menes at de hadde lite kontakt med andre, for eksempel familie, venner, kolleger eller hjelpeapparatet. I slike tilfeller får barnehage og skole en spesielt viktig rolle med tanke på å avdekke vold i nære relasjoner eller andre bekymringsverdige forhold.
+
+### Bekymringsmelding til barneverntjenesten og annen informasjonsutveksling
+
+Skole sendte bekymringsmelding til barneverntjenesten i 2 saker. Utvalget så ingen eksempler på at barnehage sendte bekymringsmelding, se også punkt 12.6.4.8. Utvalget så heller ingen eksempler på at skole eller barnehage varslet politiet.
+
+I de 2 sakene hvor skole sendte bekymringsmelding til barneverntjenesten, var dette på grunnlag av bekymring for vold mot barn og atferdsutfordringer. Barn hadde i begge sakene fortalt om vold fra én eller begge foreldrene. I den ene saken visste skolen i tillegg at det ene barnet hadde fortalt en klassekamerat at han ble utsatt for vold. I den andre saken fulgte skolen barnet til barnevernsvakta.
+
+### Utfordringer
+
+Skole og barnehage har vedvarende kontakt med familier, og de får en innsikt i familier som få andre har. Skole og barnehage oppfatter kanskje ikke seg selv som en del av førstelinjen i arbeidet med å forebygge vold i nære relasjoner. Det er likevel svært viktig at disse institusjonene er bevisst sin rolle som hjelpeinstans i den forstand at de er tett på familier og står i posisjon til å avdekke vold i nære relasjoner. Utvalget så også enkelte saker hvor det var vanskelig å se hva som kunne vært gjort annerledes, blant annet fordi familiene levde isolert, og det var lite eller ingen kontakt med hjelpeapparatet. I disse sakene var det imidlertid kontakt med barnehage/skole. Selv om straffesaksdokumentene ikke ga opplysninger om skole/barnehage sitt arbeid i disse sakene, viste de i alle fall hvilken viktig rolle disse instansene har i møte med barnefamilier.
+
+Utvalget så eksempler på at skole/barnehage varslet barnevernstjenesten, og eksempler på at de ikke gjorde det. I noen av sakene hvor det ikke ble varslet, var det mer eller mindre åpenbart at bekymringsmelding burde vært sendt.
+
+Flere eksempler viste at barnehage/skole ikke var tilstrekkelig oppmerksomme på signaler om familievold, og at de ikke stilte nødvendige spørsmål for å avdekke slik vold til tross for at de tilsynelatende hadde mistanke.
+
+I én sak visste for eksempel skolen at offerets sønn ikke dro hjem når bare stefaren (voldsutøver) var hjemme. Det var kjent at stefaren hadde alkoholproblemer og var arbeidsledig. Offeret hadde også snakket med sønnens lærer om at hun selv ikke hadde det bra, og at hun ville forlate ham. At offeret ga såpass mye informasjon til en «utenforstående» kunne gitt grunn til bekymring.
+
+I saker hvor skole/barnehage sendte bekymringsmelding, var det en utfordring at politiet ikke ble varslet samtidig. Det kan generelt synes som om melder i en del tilfeller tar for gitt at en bekymringsmelding til barneverntjenesten er tilstrekkelig, og at det ikke er nødvendig å varsle politiet.
+
+## Advokat
+
+### Innledning
+
+De fleste advokater arbeider for private virksomheter og er ikke en del av det offentlige hjelpeapparatet. Advokater har likevel en sentral rolle i rettsstaten ved å yte rettslig bistand på vegne av det offentlige gjennom bistandsadvokatordningen, forsvarerordningen og den offentlige rettshjelpsordningen.[^515] I saker som dekkes av disse ordningene vil advokaten kunne informere klienten om relevante rettigheter og plikter. Advokaten kan også orientere klienten om hjelpeapparatet, bidra til at klienten kommer i kontakt med rett instans og ha en koordinerende rolle i møte med offentlige instanser. I en del tilfeller vil advokaten være kjent med partnervold eller annen familievold, eller være i posisjon til å avdekke slik vold. Dette gjelder der hvor advokaten yter rettshjelp på vegne av det offentlige, men også i andre tilfeller. Advokater har også, i likhet med alle andre, avvergeplikt etter straffeloven § 196, se punkt 8.3.2. Utvalget registrerte på denne bakgrunn kontakt med advokater i saksgjennomgangen.
+
+### Om kontakten
+
+Det var en eller annen form for kontakt med advokat i 10 av de 19 sakene. I én av disse sakene bestod kontakten av at en av partene jobbet i et advokatfirma som sekretær. Vedkommende var altså i kontakt med advokaten fordi de var kolleger, ikke fordi hun ønsket advokatbistand. I tillegg til de 10 sakene, ba offeret i én sak en privatperson om hjelp til å komme i kontakt med Kontoret for fri rettshjelp. Det var ingen opplysninger som tydet på at det ble opprettet kontakt før drapet. I ytterligere 2 saker var det ingen opplysninger om at det var kontakt med advokat, men saken for øvrig tydet på at det sannsynligvis var det.[^516] I mangel av opplysninger, har utvalget likevel sett bort fra disse sakene.
+
+Vold var et tema i kontakten med advokat i 4 saker. I 3 av disse sakene var det offeret som hadde kontakt med advokat om vold, og i én sak var det gjerningspersonen. Kontakten handlet i de 4 sakene om at klienten ble utsatt for partnervold. Blant de 4 sakene var det opplysninger om oppnevning av bistandsadvokat i én sak.
+
+Kontakt med advokat i en barnevernssak kan også være relevant i forebyggingsøyemed. Det var kontakt med advokat om barnevern i 2 saker.
+
+Kontakten med advokat i de øvrige sakene handlet henholdsvis om oppgjør etter oppløsning av samboerskap, asyl, uførepensjon, pasientskadeerstatning og helseforsikring.
+
+### Nærmere om kontakten med advokat hvor vold var et tema
+
+Vold var et tema i kontakten med advokat i 4 saker. Omfang og varighet av kontakten med advokat varierte i de 4 sakene. I én av sakene ble kontakten med advokat opprettet og avsluttet omtrent seks år før drapet, og i en annen sak ble kontakten opprettet og avsluttet omtrent tre år før drapet. I en tredje sak ble kontakten med advokat opprettet omtrent fem år før drapet, og varte frem mot drapet. I den siste saken ble kontakten opprettet omtrent tre måneder før drapet, og varte frem mot drapet.
+
+I én sak ble kontakten opprettet i forbindelse med en sak etter utlendingsloven. I de 3 andre ble kontakten opprettet i forbindelse med en voldshendelse. I 2 av disse sakene var det krisesenter som formidlet, og sørget for å opprette, kontakten. I den siste saken var det politiet som sørget for at advokat ble koblet inn i saken.
+
+Advokatene hadde kunnskap om partnervold i de 4 sakene. I den saken hvor kontakten opprinnelig ble opprettet i forbindelse med en sak etter utlendingsloven, fikk advokaten denne kunnskapen da hun etter hvert stilte konkrete og direkte spørsmål til klienten om hun ble utsatt for vold. I 2 av sakene var advokaten også kjent med konkrete drapstrusler mot offeret, og i den ene saken stilte advokaten direkte spørsmål om klienten oppfattet drapstruslene som reelle. I én sak var advokaten i tillegg kjent med at gjerningspersonen truet med å kidnappe parets felles barn.
+
+I den grad straffesaksdokumentene ga opplysninger om det, syntes det som om advokatene i sakene hvor vold var et tema, ga klientene en rekke praktiske råd. Disse handlet om separasjons- og skilsmisseprosess, mekling hos familievernkontor, barnefordeling og om å holde tett kontakt med politiet. Det var ingen eksempler på at advokat selv kontaktet politiet om sin bekymring for den voldsutsatte klienten.
+
+### Utfordringer
+
+Det var en form for kontakt med advokat i omtrent halvparten av de 19 sakene. Det var imidlertid store variasjoner mellom sakene, og det var bare 4 saker hvor vold var et tema med advokaten. Andelen ofre og gjerningspersoner som var i kontakt med advokat er i tråd med forskningen til Vatnar mfl.[^517] Etter utvalgets syn, er det likevel en utfordring at ikke flere av de voldsutsatte var i kontakt med advokat om volden. Utsatte for vold i nære relasjoner har rett til konsultasjon med advokat for å vurdere anmeldelse, jf. rettshjelploven § 11 første ledd nr. 6. Ordningen er uten økonomisk behovsprøving og advokaten innvilges en stykkpris på 3 timer.[^518]
+
+Advokat vil i en slik situasjon være en viktig kilde til informasjon og støtte for å vurdere anmeldelse. Kontakt med advokat vil potensielt kunne lede til flere anmeldelser og iverksettelse av beskyttelsestiltak. Advokaten vil også kunne informere generelt om hvilke rettigheter den voldsutsatte har. Endelig vil advokaten i møte med den voldsutsatte kunne henvise til andre aktuelle instanser, for eksempel krisesenter og familievernkontor.
+
+Saksmaterialet ga et snevert grunnlag for å vurdere advokatenes håndtering av sakene der vold var et tema. I én sak var det imidlertid grunn til å stille spørsmål ved om advokaten burde kontaktet politiet og bedt om umiddelbar iverksettelse av beskyttelsestiltak. Det kan også være grunn til å spørre om advokaten burde tilrettelagt for at det ble opprettet kontakt med krisesenter. Trusselsituasjonen i saken var eskalerende, og klienten ga uttrykk for at hun opplevde drapstruslene fra gjerningspersonen som reelle, og at hun levde i alvorlig frykt.
+
+Saksgjennomgangen viste også at politiets vurdering av hvor alvorlig partnervolden er, har avgjørende betydning for om den voldsutsatte får oppnevnt bistandsadvokat. I én sak tydet dokumentasjonen på at politiet «nedkodet» anmeldelsen fra mishandling i nære relasjoner,[^519] til en enkeltstående voldsepisode (legemsfornærmelse).[^520] Offeret hadde dermed ikke et ubetinget krav på offentlig oppnevnt bistandsadvokat.[^521] Opplysninger i saken tydet på at offeret ble utsatt for gjentakende fysisk vold og omfattende psykisk vold over lenger tid. Saken var, etter utvalgets syn, derfor omfattet av bestemmelsen om mishandling i nære relasjoner. Ettersom ofre for mishandling i nære relasjoner har krav på oppnevnt bistandsadvokat, er det svært viktig at politiet oppfatter, og koder, voldssaker riktig.

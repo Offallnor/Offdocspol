@@ -1,1113 +1,284 @@
-# NOU 2020: 17, del 6 av 22 (side 69–82)
+# NOU 2020: 17, del 6 av 26
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2020/9dfffdcf-nou-2020-17.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2020-17/id2791522/
 - Original-PDF: https://www.regjeringen.no/contentassets/5f3dc96de14f443f869795a19088926a/no/pdfs/nou202020200017000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 5 figurer. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 69]
-
-NOU 2020: 17
-Varslede drap?
-
-67
-
-Kapittel 6
-
-Kapittel 6
-
-Utredninger, forskningsbidrag og rapporter av betydning for
-utvalgets arbeid
-6.1
-
-Innledning
-
-Det følger av mandatet at utvalget, i tillegg til å
-gjennomgå partnerdrapssaker, også skal benytte
-andre kilder til kunnskap, for eksempel relevant
-forskning i Norge og internasjonalt, og arbeider
-fra beslektede utvalg og ekspertgrupper. Utvalget
-vil i dette kapittelet presentere noen utredninger,
-forskningsbidrag og rapporter av betydning for
-utvalgets arbeid. Det er nær tematisk sammenheng mellom drap, partnerdrap og vold i nære
-relasjoner, og utvalget har derfor inkludert bidrag
-om alle disse tre temaene. Særlig forskning på
-vold i nære relasjoner har med tiden nådd et stort
-omfang, og utvalget har av kapasitets- og plasshensyn vært nødt til å foreta en avgrensning. Det
-finnes derfor viktige bidrag som ikke omfattes av
-dette kapittelet. Kapittelet er ment å danne et
-kunnskapsmessig bakteppe for både utredningen
-og for det videre arbeidet med forebygging av
-vold i nære relasjoner og partnerdrap.
-
-6.2
-
-Offentlige utredninger
-
-6.2.1
-
-Rasmussenutvalget163
-
-Rasmussenutvalget ble oppnevnt av Sosial- og
-helsedepartementet 20. mars 1998. Utvalget ble
-ledet av daværende dr. philos. Kirsten Rasmussen.
-Utvalget skulle gjennomgå saker med drap og
-alvorlige voldshandlinger begått av personer med
-alvorlige psykiske lidelser i perioden 1994–1996.
-Formålet med arbeidet var blant annet å vurdere
-om det forekom svikt i helse- og sosialtjenesten,
-kriminalomsorgen eller i andre deler av det offentlige hjelpeapparatet før drapene.
-Utvalget avga sin rapport i desember 1998.
-Utvalget fremhevet at for sen intervensjon i syk163
-
-Opplysningene i dette punktet er hentet fra NOU 2010: 3
-Drap i Norge i perioden 2004–2009, se punkt 6.2.3, og fra
-Helsedepartementets brev til Olsenutvalget 22. oktober
-2009. Brevet er inntatt som vedlegg 11 i NOU 2010: 3.
-
-domsforløp og mangelfull oppfølging av utskrevne
-pasienter var hovedproblemer i de gjennomgåtte
-sakene. Etter utvalgets syn, lå det et forebyggingspotensial i tilrettelegging av et helhetlig behandlingstilbud, og i å gi mennesker med psykiske
-lidelser tidlig nok hjelp.
-Rasmussenutvalgets konklusjoner ble blant
-annet fulgt opp av Sosial- og helsedepartementet i
-opptrappingsplanen for psykisk helse (1999–
-2006), jf. St.prp. nr. 63 (1997–98). Det ble i denne
-planen lagt vekt på forebyggende tiltak mot psykiske lidelser, herunder tidlig intervensjon og tilrettelegging av helhetlig behandling. Departementet oppfordret også til bedre dialog og samarbeid mellom spesialisthelsetjenesten og primærhelsetjenesten.
-
-6.2.2 Kvinnevoldsutvalget
-Kvinnevoldsutvalget ble oppnevnt av Justis- og
-politidepartementet i 2001, og ble ledet av Nita
-Kapoor. Utvalget avga sin utredning, NOU
-2003: 31 Retten til et liv uten vold: Menns vold mot
-kvinner i nære relasjoner, i 2003.
-Kvinnevoldsutvalget ble nedsatt som ledd i en
-styrket innsats for voldsutsatte kvinner, og ut fra en
-erkjennelse av at vold mot kvinner er et alvorlig samfunnsproblem.164 Utvalget fikk blant annet i oppgave «å utrede stillingen til kvinner som utsettes for
-fysisk og psykisk vold, trusler og overgrep av nåværende eller tidligere samlivspartner.» Det fremgikk
-videre av mandatet at utvalgets arbeid «skal styrke
-stillingen til kvinner utsatt for vold og overgrep gjennom å foreslå forbedringer og innskjerpinger av lovverket, iverksettelse av forbedrede forebyggende tiltak og utvikling av tiltak for at ofrene kan bli møtt av
-offentlige instanser på en bedre måte.»165
-Kvinnevoldsutvalgets utredning inneholder en
-bred gjennomgang av arbeidet med å forebygge
-164
-165
-
-NOU 2003: 31 s. 18.
-NOU 2003: 31 s. 17.
-
-[Side 70]
-
-68
-
-Kapittel 6
-
-NOU 2020: 17
-Varslede drap?
-
-og bekjempe menns vold mot kvinner i nære relasjoner. Det ble rettet størst oppmerksomhet mot
-partnervold mot kvinner. Utvalget påpekte at de i
-sitt arbeid tok utgangspunkt i et kjønnsperspektiv:
-«Med et kjønnsperspektiv på vold ses menns
-voldsutøvelse i sammenheng med en hierarkisk
-maktstruktur i samfunnet, hvor menn er overordnet kvinner».166 Dette perspektivet var, ifølge
-Kvinnevoldsutvalget, av sentral betydning for forståelsen av vold mot kvinner, og en forutsetning
-for å iverksette effektive tiltak.
-Utvalget pekte på flere utfordringer knyttet til
-det offentlige hjelpeapparatets håndtering av saker
-hvor kvinner blir utsatt for vold i nære relasjoner.
-Utvalget fremhevet blant annet at manglende samordning mellom instansene fører til at hjelpeapparatet blir uoversiktlig for den voldsutsatte. Et uoversiktlig hjelpetilbud kan føre til at kvinner vegrer
-seg for å ta kontakt. Utvalget understreket viktigheten av at det ikke må bli kvinnens ansvar å navigere
-mellom instansene, og at det må finnes tilstrekkelig
-informasjon om tjenestene. Utvalget foreslo en
-rekke tiltak for å sikre bedre hjelp til voldsutsatte,
-blant annet innføring av en ny straffebestemmelse
-som rammer vold mot kvinner i nære relasjoner,
-utvidelse av bistandsadvokatordningen og lovfesting av krisesentertilbudet.
-Kvinnevoldsutvalgets utredning dannet på
-mange måter grunnlaget for det videre arbeidet
-med forebygging av vold i nære relasjoner, blant
-annet for arbeidet med handlingsplaner.167 Flere
-av utvalgets forslag ble også fulgt opp med konkrete endringer og tiltak. I 2005 ble det for eksempel innført en bestemmelse om mishandling i
-nære relasjoner ved en endring av straffeloven
-1902 § 219, se punkt 3.2.2. I 2005 ble det også
-igangsatt et prøveprosjekt med utprøving av rutinemessige spørsmål om vold til kvinner i svangerskapsomsorgen,168 se punkt 7.3.3.1, i tillegg til
-at det ble gjennomført en nasjonal omfangsundersøkelse av partnervold i Norge, se punkt 6.4.1.
-Videre har det blitt gjennomført en kartlegging av
-de samfunnsøkonomiske konsekvensene av vold
-mot kvinner,169 og i 2013 ledet utvalgets forslag
-om elektronisk overvåkning ved brudd på besøksforbud, til innføringen av kontaktforbud med elektronisk kontroll (omvendt voldsalarm), se punkt
-7.2.7.
-
-166
-
-NOU 2003: 31 s. 23.
-Meld. St. 15 (2012–2013) s. 22–23.
-168
-Hjemdal og Engnes (2009).
-169
-Rasmussen mfl. (2012).
-
-6.2.3 Olsenutvalget
-Olsenutvalget ble oppnevnt av Helse- og omsorgsdepartementet i 2009. Utvalget ble ledet av daværende fylkesmann i Vest-Agder Ann-Kristin Olsen,
-og presenterte sin utredning NOU 2010: 3 Drap i
-Norge i perioden 2004–2009, i 2010.
-Bakgrunnen for utvalget var at det i løpet av en
-relativt kort tidsperiode ble begått flere drap hvor
-gjerningspersonens psykiske helse ble trukket
-frem i medieomtalen av sakene. Utvalget gjennomgikk 132 rettskraftige drapssaker fra perioden
-2004–2009 der gjerningspersonen hadde en kjent
-psykisk lidelse. Formålet med gjennomgangen
-var å utlede kunnskap og lærdom fra sakene, og å
-gi grunnlag for tiltak for å forebygge drap begått
-av personer med kjente psykiske lidelser. Olsenutvalget presiserte at vold og drap svært sjeldent
-kan forklares ut fra enkeltstående årsaksfaktorer.
-Rusbruk, særlig bruk av alkohol, ble likevel løftet
-frem av utvalget som en viktig årsaksfaktor for
-denne typen drap.
-Olsenutvalget fremsatte en rekke anbefalinger,
-herunder videre utredning av reglene om taushetsplikt, og videre forskning på drap i nære relasjoner (inkludert partnerdrap og barnedrap).170
-Som ledd i oppfølgingen av Olsenutvalgets anbefalinger, utarbeidet Helsedirektoratet en faglig veileder om kliniske tilnærminger til forebygging av
-voldelig atferd hos mennesker med de mest
-typiske psykiske lidelsene. I dag er dette videreutviklet, og det finnes omfattende nasjonale faglige
-råd om både risikovurdering og risikohåndtering i
-saker som involverer personer med alvorlig psykisk lidelse. Det har i etterkant av Olsenutvalget
-også blitt forsket på både partnerdrap og barnedrap, se boks 4.1 i punkt 4.1 og punkt 6.3.4.
-6.2.4 Barnevoldsutvalget
-Barnevoldsutvalget ble oppnevnt av Barne- og
-likestillingsdepartementet i 2015. Utvalget ble
-ledet av daværende fylkesmann i Vest-Agder, AnnKristin Olsen. Utvalget leverte sin utredning,
-NOU 2017: 2 Svikt og svik, i 2017.
-Barnevoldsutvalget fikk i oppgave å vurdere
-alvorlige saker der barn og ungdom har blitt
-utsatt for grov vold, seksuelle overgrep eller
-omsorgssvikt. Hensikten var, i henhold til mandatet, å «avdekke hvorvidt, i hvilken grad og på hvilken måte det har forekommet svikt i det offentlige
-tjenesteapparatets håndtering av saken».171
-
-167
-
-170
-171
-
-NOU 2010: 3 s. 189 flg.
-NOU 2017: 12 s. 18.
-
-[Side 71]
-
-69
-
-NOU 2020: 17
-Varslede drap?
-
-I utredningen presenteres en oversikt over
-hvilke faktorer som, ifølge tidligere forskning,
-øker risikoen for at barn utsettes for vold og
-omsorgssvikt, og hvilke grupper barn og unge
-som er særlig sårbare. Med henvisning til
-forskning, viste utvalget blant annet til at lav sosioøkonomisk status forbindes med økt risiko for at
-barn utsettes for vold, overgrep eller omsorgssvikt, og at barn som vokser opp i familier med
-rusmisbruk eller alvorlig psykisk lidelse er særlig
-utsatt – enten fordi foreldrene selv utøver vold
-mot barnet, eller fordi foreldrebeskyttelsen svikter og barnet blir mer utsatt for vold fra andre personer.172
-Barnevoldsutvalgets funn og anbefalinger er
-basert på en gjennomgang av 20 enkeltsaker hvor
-ett eller flere barn var blitt utsatt for vold, overgrep og omsorgssvikt. Utvalget fant følgende
-områder av svikt:
-– avdekking var ikke et resultat av det offentliges
-innsats
-– samtale med barn manglet eller hadde for dårlig kvalitet
-– manglende forståelse for årsaker til symptomer, atferdsuttrykk og bekymringstegn
-– foreldres sårbarhet ble ikke fanget opp, eller
-ble undervurdert
-– melde- og avvergeplikt ble ikke overholdt
-– mangelfullt undersøkelsesgrunnlag for vurderinger og beslutninger
-– for lang saksbehandlingstid i tjenestene
-– manglende kollega- og lederstøtte
-– dårlig dokumentasjon, journalføring og evaluering
-– svikt i samarbeidet mellom tjenester
-– relasjonen til den voksne ble prioritert
-– svikt i oppfølgingen av personer mistenkt eller
-dømt for vold og seksuelle overgrep
-– svakheter ved tilsynsmyndighetenes arbeid.173
-Utvalget fremmet til sammen 58 anbefalinger.
-Omtrent halvparten av disse blir fulgt opp i en
-pågående prosess, blant annet i forbindelse med
-oppfølgingen av opptrappingsplanen mot vold og
-overgrep.174 Det har blant annet blitt innført skjerpede krav til hva studenter i lærerutdanningen og
-i de helse- og sosialfaglige utdanningene skal lære
-om vold og overgrep. Det har videre blitt utarbeidet en ny faglig retningslinje for svangerskapsomsorgen, og Alternativ til Vold (ATV) har fått
-172
-
-NOU 2017: 12 s. 28 med videre henvisninger.
-NOU 2017: 12 s. 15 og 48 flg.
-174
-Prop. 1 S (2020–2021) (Barne- og familiedepartementet) s.
-68.
-173
-
-Kapittel 6
-
-midler til å spre bruken av det voldsforebyggende
-programmet Bryt voldsarven. Mange av anbefalingene fra utvalget dreide seg om kompetanseheving i hjelpeapparatet, og ansvarlige departementer arbeider med en kompetansestrategi mot vold
-og overgrep.
-
-6.3
-
-Nasjonal forskning om drap175
-
-6.3.1 Forskning om drap og psykisk sykdom
-Kjell Noreik og Arne Gravem gjennomførte i 1993
-en studie av saker fra perioden 1980–1989 der
-gjerningspersonen var blitt siktet for drap eller
-drapsforsøk. Funnene ble presentert i rapporten
-Drap og sinnssykdom. Formålet med studien var å
-kartlegge omstendighetene rundt drap med gjerningspersoner som ble vurdert som «sinnssyke» i
-strafferettslig forstand («utilregnelige» i dagens
-språkbruk), og å sammenlikne disse med saker
-hvor gjerningspersonene var psykisk friske. Gjerningspersonene som var ansett å være sinnssyke
-ble nærmere studert og vurdert, blant annet ut fra
-hvilke psykiske lidelser som ble påvist og karakteristika knyttet til drapshandlingen (ruspåvirkning,
-åsted o.l.).176
-Noreik og Gravem fant at schizofreni var den
-lidelsen som forekom oftest. Videre fant de at
-sinnssyke gjerningspersoner oftere begikk drap
-på et familiemedlem (67 prosent) enn psykisk
-friske gjerningspersoner (32 prosent). Endelig
-fant forskerne at misbruk av alkohol og andre rusmidler var mindre vanlig blant sinnssyke gjerningspersoner enn blant psykisk friske gjerningspersoner.177
-6.3.2
-
-Forskning om gjerningspersoner
-
-Kåre Bødal og Inger Marie Fridhov publiserte i
-1995 rapporten Det gjelder drap – En rapport om
-250 personer dømt for drap eller drapsforsøk i perioden 1980–1989. Rapporten bygger på en studie av
-250 gjerningspersoner som i perioden 1980–1989
-var dømt til fengsel i minimum tre år for drap eller
-drapsforsøk i Norge. Det var særlig to funn som
-ble fremhevet i rapporten. For det første ble det
-påvist at domfelte med lange fengselsstraffer,
-inkludert drapsdømte, ofte hadde vært dømt for
-175
-
-Følgende fremstilling begrenser seg til forskningsbidrag
-fra perioden 1990–2020. For en oversikt over eldre
-forskningsbidrag om drap, se NOU 2010: 3 kapittel 3 og
-vedlegg 3.
-176
-NOU 2010: 3 s. 16 og 251 (vedlegg 3).
-177
-NOU 2010: 3 s. 16 og 251 (vedlegg 3).
-
-[Side 72]
-
-70
-
-NOU 2020: 17
-
-Kapittel 6
-
-Varslede drap?
-
-annen kriminalitet tidligere. For det andre ble det
-fremhevet at alkohol var en viktig årsaksfaktor for
-voldsutøvelse.178
-
-6.3.3
-
-Forskning om drap-selvdrap i nære
-relasjoner
-
-6.3.3.1 Galta, Olsen og Wik179
-Karen Galta, Siri Lerstøl Olsen og Gustav Wik har
-sammen forsket på drap-selvdrap i nære relasjoner.
-I artikkelen Murder followed by suicide: Norwegian
-data and international literature fra 2010, presenteres en studie av norske saker med drap-selvdrap i
-perioden 1990–2007. Forskerne baserte studien på
-opplysninger hentet fra straffesaksregisteret og fra
-nyhetsartikler, og de sammenliknet funnene med
-de siste femti års internasjonal forskning og faglitteratur om temaet drap-selvdrap.
-Forskerne fant at gjerningspersonen begikk
-suicid i forbindelse med partnerdrapet i en fjerdedel av de gjennomgåtte sakene. Dette samsvarer
-med forskningen til Vatnar mfl., se punkt 6.3.3.2.
-Galta, Olsen og Wik fremhevet videre at den
-«typiske» gjerningspersonen i saker med partnerdrap-selvdrap er en mann i førtiårene, og at offeret oftest er hans kvinnelige partner. Forskerne
-pekte også på at offeret ofte hadde gitt uttrykk for
-et ønske om å forlate forholdet, og at sjalusi ofte
-var en motivasjonsfaktor i drap-selvdrapssakene.
-Det komplekse fenomenet drap-selvdrap i
-nære relasjoner må, i henhold til Galta, Olsen og
-Wik, i de fleste tilfeller forklares ut fra en interaksjon mellom individuelle psykologiske faktorer og
-samfunnsfaktorer. Slike faktorer kan være å miste
-partneren eller andre familiemedlemmer, tilknytning til arbeidslivet eller sosialt omdømme. Frykten for å tape ansikt eller ære, og sjalusi, er sentrale psykologiske faktorer.
-De samme forfatterne ga ut boken Mord-selvmord i nære relasjoner i 2005. Temaet for boken er
-hvilke faktorer som motiverer en person til å begå
-partnerdrap, eventuelt også barnedrap, og påfølgende selvdrap.180
-6.3.3.2 Vatnar mfl.181
-Vatnar mfl. har forsket på partnerdrap som ble
-begått i Norge i perioden 1990–2012, se boks 4.1 i
-punkt 4.1. I forskningen ble blant annet saker om
-178
-
-NOU 2010: 3 s. 17.
-Galta, Olsen og Wik (2010).
-180
-Galta, Olsen og Wik (2005).
-181
-Vatnar, Friestad og Bjørkly (2019b).
-179
-
-partnerdrap og påfølgende selvdrap sammenliknet med partnerdrapssaker uten selvdrap. Funnene er presentert i artikkelen A Comparison of
-Intimate Partner Homicide With Intimate Partner
-Homicide-Suicide: Evidence From a Norwegian
-National 22-Year Cohort fra 2019.
-Vatnar mfl. fant at en fjerdedel av partnerdrapssakene i perioden var et drap-selvdrap. Forskerne fant flere forskjeller mellom saker med og
-uten selvdrap etter partnerdrapet. I 98 prosent av
-draps-selvdrapssakene var gjerningspersonene
-menn, noe som er en høyere andel enn for partnerdrap generelt. I saker med selvdrap var det
-mer sannsynlig at gjerningspersonen var en norsk
-statsborger, og det var mer sannsynlig at gjerningspersonen hadde høyere utdanning. Det var
-også mindre sannsynlig at gjerningspersonen
-hadde et kriminelt rulleblad. I saker med selvdrap
-manglet det oftere opplysninger om gjerningspersonens tidligere kontakt med hjelpeapparatet, enn
-i sakene uten selvdrap.
-
-6.3.4 Forskning om drap på barn
-Vibeke Ottesen har forsket på drap i nære relasjoner. Ottesens doktorgradsavhandling An Evolutionary Psychological Analysis of Filicide in Norway
-fra 2016 handler om barnedrap utført av barnets
-foreldre.182
-I studien kartla Ottesen hva som kjennetegner
-gjerningspersoner, ofre og omstendigheter for
-barnedrap i perioden 1990–2009. Ottesen studerte 39 saker om barnedrap på grunnlag av et
-evolusjonspsykologisk perspektiv.183 Det evolusjonspsykologiske perspektivet gir, ifølge Ottesen,
-mulighet til å identifisere hvilke familier som er
-sårbare og hvorfor de er det. Ottesen delte de 39
-drapssakene inn i kategorier ut fra det genetiske
-slektskapet mellom gjerningsperson og barnet,
-kjønn og gjerningspersonens psykiske helse.
-Ifølge avhandlingen var et av hovedfunnene i gjennomgangen at den største kategorien var barnedrap begått av foreldre som begikk drap-selvdrap. Studien viste også at nærmere én av fem
-gjerningspersoner var psykotiske da de begikk
-drapet.184
-182 Ottesen (2016). Se også Ottesen (2012).
-183
-
-I evolusjonspsykologien tilnærmer man seg studiet av menneskers atferd, tanker og følelser med utgangspunkt i at
-mennesker, som alle andre arter, er et resultat av evolusjonen. Mennesket antas derfor å være et resultat av naturlig
-og seksuell seleksjon, se Ottesen (2012) s. 155–156 og
-Kennair (2019).
-184
-Ottesen (2016) s. 40.
-
-[Side 73]
-
-NOU 2020: 17
-Varslede drap?
-
-6.4
-
-Et utvalg av nasjonal forskning og
-rapporter om vold i nære
-relasjoner
-
-6.4.1
-
-Omfang og frekvens
-
-6.4.1.1 Vold i parforhold (2005)185
-I Vold i parforholdet – ulike perspektiver presenteres resultater fra den første landsdekkende undersøkelsen i Norge om maktbruk og vold i parforhold. Rapporten ble utgitt av Norsk institutt for
-by- og regionforskning (NIBR) i 2005. Rapporten
-bygger på en omfattende nasjonal undersøkelse
-som ble gjennomført av Statistisk sentralbyrå i
-2003–2004. Hovedformålet med studien var å
-kartlegge utbredelsen av vold i parforhold i
-Norge.
-Undersøkelsen viste blant annet at vel én fjerdedel av kvinnene, og vel én femtedel av mennene, hadde opplevd partnervold. Undersøkelsen
-viste videre at yngre personer var betydelig mer
-utsatt enn eldre personer, og at partnervold var
-mer utbredt blant personer med levekårsproblemer og blant personer som tidligere var utsatt for
-vold. Undersøkelsen viste også at partnervold var
-nært forbundet med samlivsbrudd, og at barn i
-familier med vold i betydelig grad ble eksponert
-for volden. Kvinner med barn ble oftere værende
-hos en voldelig partner enn kvinner som ikke
-hadde barn, og bare en liten andel av de som ble
-utsatt for partnervold, oppsøkte hjelp i det offentlige hjelpeapparatet.
-Det konstateres i rapporten at vold i nære relasjoner er et betydelig folkehelseproblem. I tillegg
-til fysiske skader, rapporterte voldsutsatte kvinner
-oftere om selvmordstanker, depresjon, angst og
-posttraumatiske stressymptomer enn andre kvinner.
-6.4.1.2 Vold og voldtekt (2014)186
-Nasjonalt kunnskapssenter om vold og traumatisk
-stress (NKVTS) gjennomførte i 2013, i samarbeid
-med Ipsos MMI, en landsomfattende tverrsnittsundersøkelse om forekomsten av vold og
-seksuelle overgrep i Norge. Resultatene fra undersøkelsen presenteres i rapporten Vold og voldtekt i
-
-Norge: En nasjonal forekomststudie av vold i et livsløpsperspektiv fra 2014.
-NKVTS fant at omtrent like mange menn
-(16,3 prosent) som kvinner (14,4 prosent) var
-blitt utsatt for mindre alvorlig partnervold én
-eller flere ganger.187 Med mindre alvorlig partnervold menes å bli kløpet, klort, lugget eller
-slått med flat hånd. Det var imidlertid flere kvinner (40 prosent) enn menn (28 prosent) som rapporterte at de var utsatt for mindre alvorlig vold
-mer enn fem ganger. Undersøkelsen viste enda
-større forskjeller mellom kvinner (8,2 prosent)
-og menn (1,9 prosent) når det gjaldt erfaring
-med alvorlig vold fra partner eller tidligere partner. Med alvorlig vold menes, ifølge rapporten, å
-bli sparket, tatt kvelertak på eller banket opp.
-Størsteparten av de som var utsatt for alvorlig
-partnervold, var også utsatt for kontrollerende
-atferd fra partner. Blant både kvinner og menn var
-det høyest forekomst av alvorlig vold og voldtekt
-blant de som var separert eller skilt.
-Undersøkelsen viste videre en sammenheng
-mellom partnervold og levekårsproblemer.
-Mange av de som var utsatt for vold rapporterte
-om psykiske lidelser og økonomiske utfordringer.
-Forskerne påviste også sammenheng mellom å ha
-vært utsatt i barndommen og å oppleve nye overgrep som voksen.
-Med hensyn til voldsutsattes kontakt med hjelpeapparatet, fremhevet forskerne at relativt få
-oppsøkte helsetjenester, og at relativt få anmeldte
-volden til politiet. En del fortalte aldri om det de
-opplevde til noen andre.
-
-6.4.1.3 Nasjonale «voldsmålinger» (2017)188
-NKVTS har på oppdrag fra Justis- og beredskapsdepartementet gjennomført fem nasjonale «voldsmålinger». Dette er målinger av hvor mange, og
-hva slags saker om vold i nære relasjoner, hjelpeapparatet arbeider med. Målingene ble gjennomført ved at ulike instanser rapporterer saker
-de har arbeidet med i løpet av én bestemt uke. Det
-har blitt gjort målinger i 2003, 2005, 2008, 2012 og
-i 2017, og dette har gitt NKVTS grunnlag for å
-analysere utviklingen over tid.
-187
-
-185
-186
-
-Haaland, Clausen og Schei (2005).
-Thoresen og Hjemdal (red.) (2014).
-
-71
-
-Kapittel 6
-
-Undersøkelsens analysemodell inneholdt dikotome kjønnsalternativer, det vil si at det kun var mulig å registrere
-kvinne eller mann.
-188
-Hjemdal og Danielsen (2017).
-
-[Side 74]
-
-72
-
-NOU 2020: 17
-
-Kapittel 6
-
-Varslede drap?
-
-Voldsmålingen fra 2017 presenteres i rapporten En uke med vold 2017. Det har vært en
-økning i antallet saker for hvert år målingene har
-blitt gjennomført, og i 2017 ble det registrert
-flere saker (2 545) enn i noen av de foregående
-målingene. Målingen viste en klar overvekt av
-kvinnelige voldsutsatte. Målingene viste imidlertid en tendens til at andelen voldsutsatte menn
-øker.189 Det var barneverntjenesten og barnevernvaktene som rapporterte om flest saker, dernest
-krisesentrene. En stor andel av sakene ble opprettet hos en offentlig instans som følge av en henvendelse fra en annen instans (42 prosent). Dette var
-omtrent det samme som ved målingen i 2012, men
-betydelig høyere enn ved målingen i 2008 (23 prosent). Dette kan indikere at instansene i større
-grad utvekslet informasjon i 2012 og i 2017.
-Den voldsutsatte hadde vært i kontakt med
-flere instanser i mange av sakene (85 prosent) i
-2017. Dette utgjør en økning sammenliknet med
-tidligere målinger.
-
-vold fra én av foreldrene. Undersøkelsen viste at
-den grove volden har vært stabil over tid.
-Åtte prosent av ungdommene oppga i 2015 at
-de hadde sett eller hørt én av foreldrene bli utsatt
-for fysisk partnervold minst én gang, og fire prosent oppga at de hadde sett eller hørt grov vold. I
-2007 oppga syv prosent at de hadde opplevd partnervold mot mor. Forskerne konkluderte med at
-grov vold mot barn og vold mellom foreldre henger sammen, og at vold mellom foreldrene øker
-sannsynligheten for direkte vold fra foreldre –
-både fra den forelderen som utøver partnervold
-og fra den voldsutsatte forelderen. Forskerne fant
-også en tydelig kobling mellom levekår og utsatthet for grov vold.
-
-Vold og overgrep mot barn og unge 2007–
-2015190
-I Vold og overgrep mot barn og unge. Omfang og
-utviklingstrekk 2007–2015 presenteres sammenliknende resultater fra de to undersøkelsene UngVold 2007 og UngVold 2015. Rapporten ble utgitt
-av Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA), som en del av NOVAs
-Forskningsprogram om vold i nære relasjoner
-2014–2019. Hensikten med undersøkelsene var å
-få oppdatert informasjon om forekomsten av vold
-og overgrep mot barn og unge, og å belyse
-utviklingstrekk over tid. Rapporten omhandler
-fysisk vold fra foreldre, det å være vitne til vold mot
-foreldre, og seksuell vold – i og utenfor familien.
-Undersøkelsen fra 2015 viste blant annet at 21
-prosent av ungdommene hadde opplevd fysisk
-vold fra minst én forelder i løpet av oppveksten, og
-at seks prosent hadde opplevd grov vold («slag
-med knyttneve eller med gjenstand, fått juling»). I
-2007 oppga 25 prosent at de hadde opplevd fysisk
-
-6.4.2.2 Vold i oppveksten: Varige spor?191
-NKVTS undersøkte over en fireårsperiode hvordan det gikk med personer som var blitt utsatt for
-vold i barndommen.192 Resultatene presenteres i
-rapporten Vold i oppveksten: Varige spor? En longitudinell undersøkelse av reviktimisering, helse, rus
-og sosiale relasjoner hos unge utsatt for vold i barndommen fra 2019.
-Formålet med studien var å frembringe kunnskap om risiko for ny vold (reviktimisering) og
-utbredelsen av andre potensielt negative konsekvenser hos personer som har vært utsatt for vold
-i barndommen, blant annet knyttet til psykisk og
-fysisk helse, rusbruk og problemer i sosiale relasjoner.
-Undersøkelsen viste at personer som var
-utsatt for vold i barndommen, hadde forhøyet
-risiko for å bli utsatt for alle typer vold som voksen. Undersøkelsen viste videre at de som hadde
-opplevd barndomsvold, oftere hadde psykiske helseplager i voksen alder enn de som ikke hadde
-opplevd barndomsvold. Selvmordsforsøk og selvskadende handlinger forekom også hyppigere hos
-de som var utsatt for vold i barndommen. Videre
-viste undersøkelsen at de som var utsatt for vold i
-barndommen var hyppigere beruset i ung alder
-enn de som ikke var utsatt for slik vold, og at hyppighet av beruselse hang sammen med senere
-reviktimisering. De som hadde opplevd vold i
-
-189
-
-191
-
-6.4.2
-
-Vold i oppveksten
-
-6.4.2.1
-
-Økningen av menn var størst i de yngste aldersklassene,
-men det var også en økning for menn over 25 år. Økningen
-i de yngste aldersklassene kunne, ifølge forskerne, ha sammenheng med at flere barneverntjenester deltok i målingen. Det kunne også ha sammenheng med økt oppmerksomhet om vold mot menn og gutter, og med at menn nå
-har et krisesentertilbud, se Hjemdal og Danielsen (2017) s.
-48.
-190
-Mossige og Stefansen (red.) (2016).
-
-192
-
-Strøm mfl. (2019).
-Studien var en videreføring av omfangsundersøkelsen om
-vold og overgrep som NKVTS gjennomførte i 2013, se Thoresen og Hjemdal (red.) (2014) og punkt 6.4.1.2. Med
-utgangspunkt i omfangsundersøkelsen ble det trukket personer som hadde vært utsatt for barndomsvold, og personer som ikke hadde vært utsatt for dette. Disse ble kontaktet på nytt etter 12–18 måneder, og deretter igjen etter 24–
-31 måneder.
-
-[Side 75]
-
-73
-
-NOU 2020: 17
-Varslede drap?
-
-barndommen, rapporterte også om at de hadde
-lavere sosial støtte og dårligere familiesamhold
-enn de som ikke hadde opplevd vold i barndommen. De opplevde blant annet mer ensomhet og
-hadde høyere sannsynlighet for å bli mobbet. Forskerne konkluderte blant annet med at voldsutsatte barn ikke er godt nok beskyttet mot ny vold i
-fremtiden. I rapporten heter det: «Selv om det går
-bra med mange av de voldsutsatte barna, er det
-likevel slik at vold i barndommen er forbundet
-med økt sårbarhet for negativ utvikling på en
-rekke områder. Denne sårbarheten varer inn i
-voksenlivet».193
-
-6.4.2.3
-
-Ungdoms erfaringer med vold og
-overgrep i oppveksten194
-NKVTS har undersøkt omfanget av volds- og overgrepserfaringer og omsorgssvikt i oppveksten
-blant ungdom i alderen 12–16 år (UEVO-studien).
-Resultatene presenteres i rapporten Ungdoms
-erfaringer med vold og overgrep i oppveksten: En
-nasjonal undersøkelse av ungdom i alderen 12 til
-16 år. Data ble samlet inn i 2019.
-Undersøkelsen viste at de fleste som har vært
-utsatt for én type vold eller overgrep, også har
-opplevd andre former for vold eller overgrep. Jentene rapporterte i større grad enn guttene å ha
-vært utsatt for flere typer vold. Omkring én av fem
-hadde opplevd mindre alvorlig fysisk vold i oppveksten, og omkring én av 20 hadde opplevd
-alvorlig fysisk vold. Omkring én av fem hadde
-opplevd psykisk vold fra foreldre. Litt over én av
-20 hadde opplevd seksuelle overgrep fra en voksen. I overkant av én av fem hadde opplevd en
-eller flere seksuelle krenkelser fra jevnaldrende,
-og langt flere jenter enn gutter hadde vært utsatt.
-Undersøkelsen viste at ungdom med en funksjonsnedsettelse hadde flere volds- og overgrepserfaringer enn ungdom uten slike erfaringer.
-Undersøkelsen viste også at volds- og overgrepserfaringer i oppveksten hang sammen med familieøkonomi og foreldres vansker med rus, psykisk
-sykdom eller kriminalitet.
-Kun én av fem av ungdommer utsatt for vold
-og overgrep fortalte at de hadde vært i kontakt
-med hjelpeapparatet (lege, psykolog, rådgiver,
-helsesykepleier) i forbindelse med erfaringer
-med vold og/eller overgrep.
-193
-194
-
-Strøm mfl. (2019) s. 14.
-Hafstad og Augusti (red.) (2019).
-
-6.4.3
-6.4.3.1
-
-Kapittel 6
-
-Partnervold
-Partnervold mot kvinner
-
-Solveig Karin Bø Vatnar disputerte med sin doktorgradsavhandling An Interactional Perspective
-on Help-Seeking Women Subject to Intimate Partner Violence i 2009.195
-I Vatnars studie deltok 157 kvinner som var
-utsatt for partnervold. Kvinnene ble rekruttert fra
-politi, familievernkontor og krisesenter. I studien
-ble det lagt til grunn et interaksjonelt perspektiv
-og multivariate design.
-Vatnar fant blant annet at de partnervoldsutsatte kvinnene opplevde, og vurderte, fysisk, psykisk og seksuell partnervold som ulike fenomen. I
-tre fjerdedeler av tilfellene var verken voldsutøver
-eller voldsutsatt påvirket av alkohol eller narkotika under voldsutøvelsen. Videre hadde kvinner
-som tidligere var utsatt for incest, 25 ganger høyere risiko for å havne i gjentatte parforhold med
-vold. Kvinner som hadde vært vitne til fysisk vold
-mellom foreldrene, hadde høyere risiko for å
-havne i slike parforhold, enn kvinner som hadde
-vært utsatt for fysisk vold fra foreldrene.
-Å være mor ga, ifølge studien, ingen beskyttelse mot partnervold. Tvert imot varte volden
-lenger dersom kvinnene hadde barn, selv etter at
-parforholdet var avsluttet. Fysisk vold ble imidlertid betydelig redusert under svangerskap. Psykisk vold ble noe redusert, mens seksuell vold var
-uendret.
-Hovedforskjellene mellom voldsutsatte med
-etnisk minoritetsbakgrunn og voldsutsatte med
-etnisk norsk bakgrunn, var knyttet til psykososiale forskjeller og deres immigrasjonsstatus, ikke
-til ulikheter ved partnervolden. Samtidig var barn
-av innvandrerforeldre oftere vitne til partnervolden enn barn av opprinnelig norske foreldre.
-Hjelpsøking ved partnervoldsutsatthet var differensiert, og knyttet til karakteristika (formen for
-vold, alvorlighetsgrad etc.) ved den aktuelle volden. Dette til forskjell fra det som tidligere har
-vært antatt, at ulike grupper av kvinner oppsøker
-ulike deler av hjelpeapparatet.
-På bakgrunn av disse funnene, viste Vatnar sin
-studie at partnervold mot kvinner er langt mer
-heterogent og komplekst enn tidligere antatt.
-195
-
-Se Vatnar (2009). Funnene fra Vatnars studie er fremstilt i
-fire artikler, henholdsvis Vatnar og Bjørkly (2008), Vatnar
-og Bjørkly (2009a), Vatnar og Bjørkly (2009b) og Vatnar og
-Bjørkly (2010).
-
-[Side 76]
-
-74
-
-Kapittel 6
-
-NOU 2020: 17
-Varslede drap?
-
-6.4.3.2 Livskvalitet og tilknytning til arbeidslivet
-Kjersti Alsaker har forsket på vold i nære relasjoner, livskvalitet og tilknytning til arbeidslivet.
-I én studie undersøkte Alsaker mfl. helserelatert livskvalitet for partnervoldutsatte kvinner.
-Resultatene er presentert i artikkelen Intimate
-partner violence associated with low quality of life –
-a cross-sectional study fra 2018. Forskerne fant at
-kvinner som var utsatt for partnervold oppga
-lavere helserelatert livskvalitet på alle områder,
-sammenliknet med kvinner som ikke var utsatt for
-partnervold.196
-I to andre studier undersøkte Alsaker mfl.
-voldsutsatte kvinners tilknytning til arbeidslivet,
-herunder hva betalt arbeid betyr for voldsutsatte
-kvinner, og hvordan det å leve med en voldelig
-partner har påvirket deres forhold til arbeidslivet.
-Resultatene av forskningen er presentert i artikkelen How Has Living with Intimate Partner Violence Affected the Work Situation? A Qualitative
-Study among Abused Women in Norway fra
-2016.197
-Forskerne fant blant annet at 42 prosent av
-kvinnene som hadde kontakt med hjelpeapparatet
-på grunn av partnervold, var i lønnet arbeid. Til
-sammenligning var 84 prosent av kvinner som
-ikke ble utsatt for partnervold i lønnet arbeid. De
-voldsutsatte kvinnene oppga at arbeidshverdagen
-var en frihet fra volden, og at arbeid ga dem større
-mulighet til å ta selvstendige valg og å skape sitt
-eget liv. Arbeid var, ifølge kvinnene, også en kilde
-til kontakt med andre mennesker som viste
-omsorg for dem, noe som var viktig for å opprettholde selvtillit og selvfølelse. Samtidig oppga kvinnene at partnervolden ledet til følelser av frykt,
-skam og skyld, og at disse følelsene kunne
-«smitte over» på arbeidshverdagen. Dette kunne
-blant annet gjøre det vanskelig å konsentrere seg,
-og gjøre kvinnen sliten eller stresset. Forskerne
-pekte også på at allmennhetens holdninger om at
-arbeidslivet er en offentlig sfære, mens problemer
-på hjemmebane er en privatsak, gjorde det vanskeligere for kvinnene å fortelle om hva de var
-utsatt for.198 Forskerne fremhevet at økt kunnskap om at konsentrasjonsproblemer, søvnproblemer og manglende sysselsetting kan ha sammenheng med voldsutsatthet, kan bidra til at hjelpeapparatet avdekker partnervold, og til at kvinnene
-får hjelp tidlig.199
-196
-
-Alsaker mfl. (2018a).
-Alsaker mfl. (2016).
-198
-Alsaker mfl. (2016).
-199
-Alsaker mfl. (2014).
-197
-
-6.4.3.3
-
-Vold i parforhold – kjønn, likestilling og
-makt
-
-NKVTS har undersøkt sammenhengene mellom
-vold i parforhold, kjønn, likestilling og makt i et
-femårig forskningsprosjekt, Vold i parforhold –
-kjønn, likestilling og makt.200
-Forskerne undersøkte tre forhold i studien: 1)
-hvordan utsatthet for vold i parforhold fordeler
-seg mellom kvinner og menn, 2) ulike forståelser
-og teorier om vold i parforhold, og 3) de kjønnede
-dimensjonene og kroppslige erfaringene av vold i
-parforhold. Forskerne fant blant annet at seksuell
-vold og reproduktiv vold (vold i forbindelse med
-graviditet, fødsel og barsel) er en viktig del av den
-partnervolden som kvinner utsettes for. Forskerne fant også at foreldresamarbeidet etter
-samlivsbrudd var en arena for fortsatt vold og
-kontroll. Det synes, ifølge forskerne, å være tilfeldig hvorvidt de voldsutsatte mødrene ble møtt i
-hjelpeapparatet og om de fikk den hjelpen de
-trengte. I en betydelig del av det kvalitative materialet fant forskerne en fortelling om en voldsutøver i en marginalisert livssituasjon og en voldsutsatt i en ordinær livssituasjon. Kombinasjonen av
-vold, omsorg for voldsutøveren og frykt bidro til
-at det var vanskelig for den voldsutsatte å bryte
-forholdet.
-Forskerne gjennomførte videre en reanalyse
-av Vold og voldtekt i Norge (2014). Denne studien
-viste at menn og kvinner i like stor grad blir rammet av mindre alvorlig partnervold, men at kvinner i langt større grad enn menn rammes av den
-alvorlige partnervolden, se punkt 6.4.1.2. Forskerne fant at en del menn som hadde rapportert
-om mindre alvorlig partnervold i den tidligere
-omfangsstudien, i mindre grad husket dette da de
-ble kontaktet igjen i 2017/18. En del av dem som
-husket hendelsen, hadde erfaringer som forskerne «vil nøle med å kalle vold».201 Dette gjaldt
-også enkelte kvinner. Forskerne understreket at
-materialet i studien var for lite til å si noe om
-omfanget av overrapportering av mindre alvorlig
-vold, og om den følger et kjønnet mønster.
-På grunnlag av funn fra studien, skisserte forskerne implikasjoner for både videre forskning og
-poltikkutvikling. Det fremgår blant annet at det er
-200
-
-Resultatene er presentert i flere forskningsartikler. For en
-fullstendig liste over publikasjoner, se nettsiden til NKVTS.
-I denne fremstillingen tas det utgangspunkt i forskningsrapporten Vold i parforhold – kjønn, likestilling og makt fra
-2019, se Bjørnholt og Helseth (2019). NKVTS startet i 2020
-et nytt forskningsprosjekt, Vold i parforhold – kjønn, likestilling og makt II, som skal pågå til 2023.
-201
-Bjørnholt og Helseth (2019) s. 10.
-
-[Side 77]
-
-75
-
-NOU 2020: 17
-Varslede drap?
-
-behov for å styrke kunnskapen i hjelpeapparatet,
-og at det er behov for brede, generelle tiltak for
-voldsforebygging. Forskerne fremhevet også
-behovet for særlig oppmerksomhet om seksuell
-og reproduktiv vold, og at kvinners frykt må tas på
-alvor.202
-
-6.4.3.4
-
-Sårbarhet hos kvinner utsatt for
-partnervold
-
-Elisabeth C. Ørke leverte sin doktorgradsavhandling Sårbarhet hos kvinner utsatt for partnervold i
-2020.203
-Ørkes studie er basert på en systematisk litteraturstudie og en tverrsnittstudie. Tallmaterialet
-om 154 hjelpesøkende kvinner i Norge ble sammenliknet. Det var kvinner som hadde vært utsatt
-for vold i det siste parforholdet (55), i det siste og
-tidligere parforhold (51), og kvinner som ikke var
-utsatt for vold i parforhold (48).
-Tidligere forskning har vist at én av syv kvinner har opplevd vold i parforhold. Blant disse har
-en betydelig andel opplevd vold i flere parforhold.
-Ørkes studie tydet på at sårbarhet for vold i flere
-parforhold kan påvirkes allerede i barndommen.
-Sammenliknet med kvinner utsatt for vold i ett forhold, fortalte kvinner utsatt for vold i flere parforhold, om mer følelsesmessig mishandling i barndommen. Videre viste studien en sammenheng
-mellom det å ha kort utdanning, å motta uføretrygd, å ha kortere parforhold, å være etnisk
-norsk, og å være utsatt for vold i flere parforhold.
-Dette kommer i tillegg til at kvinner utsatt for
-partnervold generelt har blitt utsatt for mer seksuelle overgrep og mobbing i barndommen. Verken
-det å oppleve vold hjemme i barndommen, eller
-det å utøve vold mot partner, spilte inn på det å
-være utsatt for vold i flere parforhold. Ørke fant
-ikke noe særegent voldsmønster hos kvinner
-utsatt for vold i flere parforhold.
-
-6.4.3.5
-
-Politiets beskyttelse av den voldsutsatte
-og helsetjenestens behandling av
-voldsutøveren
-Merete Berg Nesset leverte sin doktorgradsavhandling Partnervold: Politiets beskyttelse av den
-voldsutsatte og helsetjenestens behandling av voldsutøveren i 2020. Nesset satte i avhandlingen søkelyset på politiets og helsetjenestens arbeid med
-202
-203
-
-Bjørnholt og Helseth (2019) s. 81.
-Funnene fra Ørkes studie er per november 2020 fremstilt i
-to artikler, henholdsvis Ørke, Vatnar og Bjørkly (2018) og
-Ørke, Bjørkly og Vatnar (2020).
-
-Kapittel 6
-
-vold i nære relasjoner. Avhandlingen består av fire
-studier og inkluderer en beskrivende studie av
-politiets beslutninger om å arrestere voldsutøver
-og relokalisere den voldsutsatte på et åsted for
-partnervold (Studie I), en systematisk oversikt av
-effektstudier av kognitiv gruppeterapi (Studie II),
-og resultater fra et randomisert kontrollert forsøk
-om effekten av kognitiv gruppeterapi for menn
-som søkte behandling for partnervold (Studie III
-og IV).204
-Resultatene synliggjør politiets utfordringer
-når det gjelder å identifisere saker med partnervold som har risiko for ny vold. Avhandlingen
-bidrar til de få effektstudiene som finnes på feltet
-av kognitiv gruppeterapi til menn som utøver vold
-mot sin partner. Resultatene i avhandlingen gir
-ikke støtte til at kognitiv gruppeterapi innen psykisk helsevern har bedre effekt enn mindfulnessbasert stressmestring. Dette betyr at det er behov
-for flere effektstudier av kognitiv gruppeterapi og
-mindfulness-basert stressmestring til denne gruppen. Avhandlingen viser også at det er behov for å
-adressere psykiske helseplager hos menn som
-utøver vold mot sin partner.
-
-6.4.4
-
-Menn som utøver partnervold
-
-6.4.4.1 Behandling av menn som utøver vold
-Ingunn Rangul Askeland undersøkte behandling
-av menn som utøver vold i sin doktorgradsavhandling Men voluntarily in treatment for violent
-behavior against a female partner: who are they?
-Violent behavior, childhood exposure to violence,
-mental health and treatment dropout fra 2015.205
-Avhandlingen bygger på studier av menn som har
-oppsøkt hjelp hos Alternativ til vold (ATV). Formålet med studiene var å bidra til økt kunnskap
-om menn som frivillig oppsøker behandling for
-voldsutøvelse, med spesiell oppmerksomhet rettet
-mot deres tidligere traumatiske opplevelser,
-voldsutøvelse, psykiske helse og førtidig avslutning av behandlingen.
-Askeland fant blant annet stor utbredelse av
-psykisk uhelse blant utøverne av partnervold som
-var i behandling ved ATV. De fleste oppfylte diagnosekriteriene for én eller flere psykiske lidelser.
-De mest utbredte psykiske lidelsene var angstli204
-
-Funnene fra Nessets studier er per november 2020 publisert i tre artikler, henholdsvis Nesset mfl. (2017), Nesset
-mfl. (2019) og Nesset mfl. (2020).
-205
-Se Askeland (2015). Funnene fra Askelands studie er fremstilt i tre artikler, henholdsvis Askeland, Evang og Heir
-(2011), Askeland og Heir (2013) og Askeland og Heir
-(2014).
-
-[Side 78]
-
-76
-
-Kapittel 6
-
-NOU 2020: 17
-Varslede drap?
-
-delser, ruslidelser og personlighetsproblematikk.
-Askeland fant også at majoriteten av voldsutøverene (60 prosent) selv hadde erfaring med vold fra
-sin egen oppvekst, oftest utøvd av far eller stefar.
-Respondentene oppga ofte at far eller stefar også
-hadde utøvd vold mot sin partner. Funnene fra
-Askelands doktorgradsavhandling støtter opp
-under hypotesen om at «vold avler vold».206
-
-6.4.4.2 Menn som bruker vold og farsrollen
-Henning Mohaupt beskrev i sin doktorgradsavhandling How do men in treatment for intimate
-partner violence experience the father-child relationship? A phenomenological study (2020) hvordan
-menn som er i terapi for partnervold ofte har
-omfattende relasjonelle problemer, også til sine
-barn.207 Mohaupt fant at mennenes foreldreskap
-ofte var preget av rigiditet overfor barna, utfordringer med å forstå og regulere sine egne og sine
-barns følelser og et fravær av å oppleve barnas
-mor som en samarbeidspartner. Ofte ble barnas
-mor opplevd som en person som aktivt ville ødelegge for far-barn-relasjonen. Også andre voksne
-som ytret kritikk mot fedrenes foreldrestil i lys av
-volden, som for eksempel barneverntjeneste eller
-politi, ble beskrevet med mistillit. Avhandlingen
-viste at farsrollen var en viktig del av identiteten til
-menn som brukte vold i familien. Samtidig bidro
-volden til emosjonell avstand mellom mennene og
-resten av familien. Dette, og spesielt begrenset
-kontakt med barna etter brudd, var forbundet
-med økt aggresjon og fiendtlighet overfor barnets
-mor.
-
-6.4.5
-
-Vold og overgrep i samiske samfunn
-
-6.4.5.1 Omfang og forekomst208
-Astrid M. A. Eriksen undersøkte omfanget av vold
-i samiske og ikke-samiske samfunn i sin doktorgradsavhandling Breaking the silence: Interpersonal violence and health among Sami and non206
-
-Askeland, Evang og Heir (2011). Se også Askeland (2015)
-s. 47–49 og 51–52.
-207
-Mohaupt (2020). Funnene fra Mohaupts studie er fremstilt
-i tre artikler, henholdsvis Mohaupt og Duckert (2016),
-Mohaupt, Duckert og Askeland (2020a) og Mohaupt, Duckert og Askeland (2020b).
-208
-Eriksen (2017). Funnene fra Eriksens studie er fremstilt i
-tre artikler, henholdsvis Eriksen mfl. (2015), Eriksen mfl.
-(2016) og Eriksen mfl. (2018). Eriksen er også medredaktør og forfatter av antologien Vold i nære relasjoner i et
-mangfoldig Norge, se Bredal, Eggebø og Eriksen (red.)
-(2020). I denne antologien presenteres ny forskning som
-belyser vold i nære relasjoner i et mangfoldsperspektiv.
-
-Sami: A population-based study in Mid- and Northern Norway fra 2017. Formålet med Eriksens
-avhandling var blant annet å undersøke om det
-var høyere forekomst av vold i den samiske
-befolkningen sammenliknet med befolkningen
-ellers. Undersøkelsen gjaldt alle typer vold, ikke
-bare vold i nære relasjoner.
-Undersøkelsen viste at det er høyere forekomst av vold i den samiske befolkningen enn i
-befolkningen ellers. Halvparten av de samiske
-kvinnene (49 prosent) rapporterte at de hadde
-vært utsatt for vold én eller flere ganger i løpet av
-livet, mens 35 prosent av de ikke-samiske kvinnene rapporterte om det samme. Samiske menn
-rapporterte i større grad enn ikke-samiske menn
-om at de hadde vært utsatt for vold (henholdsvis
-40 prosent mot 23 prosent).
-I avhandlingen fremheves det at samisk etnisitet i seg selv er en risikofaktor for vold. Dette gjelder alle typer vold, unntatt menns risiko for å bli
-utsatt for seksuell vold. Eriksen fremhevet at dette
-også gjelder etter å ha justert for sosioøkonomiske- og demografiske faktorer og alkoholbruk.
-
-6.4.5.2
-
-Hjelpeapparatets erfaringer med vold
-i samiske samfunn209
-NKVTS gjennomførte i 2017 en undersøkelse om
-det offentlige hjelpeapparatets arbeid med vold i
-nære relasjoner i samiske samfunn. Undersøkelsen presenteres i rapporten «Om du tør å spørre,
-tør folk å svare»: Hjelpeapparatets og politiets erfaringer med vold i nære relasjoner i samiske samfunn.
-Rapporten viser blant annet at ansatte i hjelpeapparatet ofte opplever særlige utfordringer i
-møte med voldsutsatte som tilhører samiske samfunn. Utfordringene er blant annet knyttet til
-språk- og kulturkompetanse, og de gjør seg særlig
-gjeldende i samtaler om tabubelagte temaer som
-vold og overgrep. Flere ansatte i politi og øvrig
-hjelpeapparat trakk også frem at personer med
-samisk tilknytning mangler tillit til storsamfunnet.
-Dette har sammenheng med assimilerings- og
-fornorskningspolitikken de har blitt utsatt for.
-Dette skaper en utfordring for aktører i det offentlige hjelpeapparatet fordi de må balansere mellom
-å være ydmyk og sensitiv, og tilstrekkelig tydelig
-og konfronterende, for å kunne avdekke vold og
-overgrep. Flere deltakere fra politi og hjelpeapparat var samtidig kritiske til at ansatte uten samisk
-eller lokal tilknytning var for forsiktige, i frykt for
-å stigmatisere eller virke krenkende. Deltakerne
-209
-
-Øverli, Bergman og Finstad (2017).
-
-[Side 79]
-
-NOU 2020: 17
-Varslede drap?
-
-ga, ifølge rapporten, også uttrykk for at «kunnskap om samisk kommunikasjon og samisk kultur, kan bidra til økt tillit og forståelse i møte med
-berørte av vold med samisk tilknytning».
-
-6.4.5.3
-
-Erfaringer fra overgrepssakene
-i Tysfjord210
-I Nordland politidistrikts rapport Overgrepene i
-Tysfjord – erfaringer og funn fra politiets etterforskning oppsummeres etterforskningen av sakene
-om overgrep i Tysfjord kommune. Sakene gjaldt
-seksuelle overgrep, familievold, trusler og brudd
-på varslingsplikten, og de fleste ofrene hadde lulesamisk identitet.211
-I rapporten fremheves en del av de samme
-utfordringene som NKVTS identifiserte i sin rapport fra 2017, se punkt 6.4.5.2. Det samiske miljøets manglende tillit til norske myndigheter gjorde
-det vanskelig for politiet å etterforske sakene. Det
-fremgår at relasjonen mellom det lulesamiske miljøet i Tysfjord og politi, kommune og andre offentlige tjenester, er «farget av fornorskningstiden og
-mange år med undertrykkende og diskriminerende politikk».212 Det fremgår også at politiet
-hadde for dårlig kompetanse på samisk kultur og
-språk, spesielt den lulesamiske kulturen. Videre
-trekkes det frem at de involverte, som følge av
-frykt for å oppløse familiebånd eller bryte opp det
-samiske fellesskapet som de var en del av, var tilbakeholdne med å fortelle om sine opplevelser.
-210
-
-Nordland politidistrikt (2017).
-Saken startet ved at elleve personer fra Tysfjord sto frem i
-VG lørdag 11. juni 2016, og fortalte om at de var utsatt for
-seksuelle overgrep. Det ble avdekket til sammen 151 seksuelle overgrepssaker relatert til Tysfjord. De fleste sakene
-ble henlagt som følge av foreldelse.
-212
-Nordland politidistrikt (2017) s. 6–7.
-211
-
-6.4.5.4
-
-77
-
-Kapittel 6
-
-Plikten til å forebygge vold i den samiske
-befolkningen213
-
-Norges institusjon for menneskerettigheter
-(NIM) publiserte i 2018 temarapporten Vold og
-overgrep i samiske samfunn. Rapporten handler
-om norske myndigheters menneskerettslige plikt
-til å forebygge, avverge og etterforske vold og
-overgrep i samiske samfunn.
-NIMs rapport bygger blant annet på forskningen og rapportene om vold i samiske samfunn, se
-punktene 6.4.5.1–6.4.5.3, og peker på hvilke tiltak
-som kan bidra til bedre håndtering og forebygging av disse sakene i fremtiden. NIM fremhever
-at for å oppfylle de menneskerettslige forpliktelsene Norge er bundet av, må hjelpeapparatet, herunder skolen, barnevernet, helsetjenesten og politiet, ha kompetanse på samiske språk, kultur og
-tradisjoner, der dette er nødvendig for å forebygge, avverge eller etterforske vold. Videre trekkes det frem at «hjelpeapparatet [må] bli mer synlig slik at voldsutsatte vet hvor de kan henvende
-seg, og holdnings- og opplysningsarbeidet må gjøres på samiske språk».214 NIM anbefaler norske
-myndigheter å utarbeide en handlingsplan mot
-vold og overgrep i samiske samfunn.215 Videre
-etterlyses mer forskning på vold i samiske samfunn som blant annet bør identifisere «forekomst,
-årsakssammenhenger,
-fornorskingspolitikkens
-betydning, hvem som er voldsutøver, og hvordan
-tiltakene kan tilpasses den samiske voldsutsatte».216
-213
-
-Norges institusjon for menneskerettigheter (2018).
-Norges institusjon for menneskerettigheter (2018) s. 39.
-215 Regjeringens nye handlingsplan om vold i nære relasjoner
-som lanseres i 2021, vil ha en egen del om vold og overgrep
-i samiske samfunn.
-216
-Norges institusjon for menneskerettigheter (2018) s. 41.
-214
-
-[Side 80]
-
-78
-
-NOU 2020: 17
-Varslede drap?
-
-2020
-
-[Side 81]
-
-Del III
-Virkemidler for å forebygge partnervold
-og partnerdrap
-
-[Side 82]
-
-80
-
-NOU 2020: 17
-Varslede drap?
+# Partnerdrap – kjennetegn, omfang og faktorer som kan bidra til forhøyet risiko
+
+## Innledning
+
+Partnerdrap utgjør en fjerdedel av alle drap i Norge, og i gjennomsnitt skjer det åtte partnerdrap hvert år. Ifølge Kripos, har 231 personer blitt drept av sin daværende eller tidligere partner de siste 30 årene (1990–2019). I noen saker var det flere ofre, og til sammen har partnerdrap i denne perioden kostet 259 personer livet. Blant disse var 24 mindreårige eller voksne barn.[^59] I internasjonal sammenheng ligger Norge relativt høyt når det gjelder andelen drap som er partnerdrap. Samtidig er den generelle drapsraten i Norge lav. Det er som regel menn som begår partnerdrap, og kvinner har større sannsynlighet for å bli drept av sin nåværende eller tidligere mannlige partner enn av noen andre. Norsk forskning på partnerdrap begått i perioden 1990–2012 viser at det før drapet ble registrert partnervold i 71 prosent av sakene, se boks 4.1. Forskningen viser også at både offeret og gjerningspersonen i de fleste tilfellene var i kontakt med politi, helse- og omsorgstjenesten eller andre deler av hjelpeapparatet før drapet. Dette viser at partnerdrap sjelden skjer uten noen form for forvarsel.[^60]
+
+Forskning viser at partnerdrap kan ramme alle samfunnsgrupper, men at marginaliserte grupper er mest utsatt. Med dette menes at både ofre og gjerningspersoner ofte har hatt en rekke livsutfordringer, som rusproblemer, psykiske lidelser, tidligere kriminalitet og svak tilknytning til arbeidslivet. I de fleste tilfellene er også parforholdet preget av vold før drapet.[^61]
+
+Det at partnerdrap rammer sosialt skjevt, utfordrer arbeidet med å forebygge disse hendelsene. Utfordringer på mange områder i livet kan gjøre livssituasjonen uoversiktlig og vanskelig å kartlegge, både for den det gjelder og for politi og annet hjelpeapparat. Sammensatte livsutfordringer betyr også, med dagens samfunnsstruktur og organisering av hjelpeapparatet, at flere instanser er, eller bør være, involvert. Dette fordrer koordinering mellom instansene. Manglende samarbeid kan føre til at behovene til den voldsutsatte eller voldsutøveren ikke blir ivaretatt.[^62]
+
+Opphopning av levekårsproblemer kan, ifølge norsk partnerdrapsforskning, også føre til at hjelpeapparatet undervurderer risikoen for partnerdrap. Dersom et par lever med flere livsutfordringer, vil hjelpeapparatet kunne oppfatte situasjonen som mindre alvorlig enn dersom partnervolden skjer uten tilstedeværelse av andre faktorer som kan bidra til forhøyet risiko for partnerdrap.[^63]
+
+I dette kapittelet vil utvalget presentere en oversikt over hva vi fra norsk partnerdrapsforskning allerede vet om partnerdrap. Dette inkluderer hva som kjennetegner et partnerdrap, hvilke faktorer som er identifisert som faktorer for forhøyet risiko for partnerdrap, og hva vi vet om ofrene og gjerningspersonenes kontakt med hjelpeapparatet før drapet. Utvalget vil også presentere oversiktstall over drap og partnerdrap i Norge og internasjonalt.
+
+Norsk partnerdrapsforskning
+
+Det viktigste norske forskningsbidraget om partnerdrap er prosjektet *Intimate partner homicide. Identifying risk factors for intimate partner homicide through structured risk assessment, court documents, and interviews with bereaved*. Prosjektet ble gjennomført ved Oslo Universitetssykehus (OUS), Regionalt kompetansesenter for sikkerhets-, fengsels- og rettspsykiatri, Helse Sør-Øst. Forskningsprosjektet var en oppfølging av regjeringens handlingsplan mot vold i nære relasjoner, «Vendepunkt 2008–2011».
+
+Prosjektets hovedformål var å undersøke om en «ved å bruke strukturerte risikovurderingsinstrumenter i gjennomgangen av straffesaksdokumentene for alle partnerdrap i Norge (1990–2012), og ved å innhente informasjon om subjektive risikovurderinger gjennom intervju med etterlatte, kunne bidra til mer presis kunnskap om hvordan personer og situasjoner med høy risiko for partnerdrap kan identifiseres».<sup>1</sup> Undersøkelsen ble gjennomført som en mixed-methods studie der både kvantitative og kvalitative data ble kombinert. Kunnskapsmaterialet var straffesaksdokumentene i alle rettskraftige partnerdrapssaker i Norge i perioden 1990–2012 (177 saker) og intervjuer med etterlatte og pårørende. På denne bakgrunn ble det fremskaffet ny og viktig kunnskap for identifisering av saker med høy risiko for partnerdrap i Norge.
+
+Resultatene fra forskningen er presentert i fem internasjonale og fagfellevurderte artikler.<sup>2</sup> I tillegg er det utgitt en norsk forskningsrapport, *Partnerdrap i Norge 1990–2012: En mixed methods studie av risikofaktorer for partnerdrap.*<sup>3</sup> I rapporten oppsummeres forskningen i tre hovedfunn:
+
+1\. Flertallet av partnerdrapene i Norge ble begått av menn som hadde utøvd vold i parforholdet.
+
+2\. Partnerdrap i Norge rammer sosialt skjevt. Marginaliserte grupper var mest utsatt.
+
+3\. Etterlatte ble ikke tatt tilstrekkelig på alvor når de formidlet den risikoen de observerte til politi, helsevesen og hjelpeapparat.<sup>4</sup>
+
+<sup>1</sup> Vatnar (2015a) s. 13.
+
+<sup>2</sup> Vatnar, Friestad og Bjørkly (2017a), Vatnar, Friestad og Bjørkly (2017b), Vatnar, Friestad og Bjørkly (2018), Vatnar, Friestad og Bjørkly (2019a) og Vatnar, Friestad og Bjørkly (2019b).
+
+<sup>3</sup> Vatnar (2015a).
+
+<sup>4</sup> Vatnar (2015a) s. 16.
+
+\[Boks slutt\]
+
+## Kjennetegn ved partnerdrap
+
+### «Typiske» partnerdrap
+
+#### Hva menes med «typisk»?
+
+Vatnar mfl. har gjennom sin forskning kommet frem til noen kjennetegn ved norske partnerdrapssaker fra tidsperioden 1990–2012. Det som i forskningsrapporten til Vatnar fremheves som «typisk», er egenskaper som gjelder mer enn halvparten av sakene der hvor alternativene er dikotome (for eksempel «kvinne» eller «mann»),[^64] eller egenskaper som utgjør den største gruppen av gjensidig utelukkende alternativer (for eksempel sivil status). For målinger som har kontinuerlige data (for eksempel alder), har Vatnar fremstilt gjennomsnittet som det «typiske». All den tid partnerdrapssakene preges av stor variasjon, vil en fremstilling av «typiske» kjennetegn ved partnerdrap kunne bidra til en forenklet forståelse av disse sakene. Utvalget vil her likevel gi en kort sammenfatning av norske partnerdrap basert på fremstillingen i Vatnar sin forskningsrapport.[^65]
+
+#### Kjønn og andre kjennetegn ved gjerningsperson og offer
+
+Et typisk norsk partnerdrap kjennetegnes ved at en mann dreper sin daværende eller tidligere kvinnelige partner. De aller fleste ofrene for partnerdrap er kvinner, og de aller fleste gjerningspersonene er menn (89 prosent av sakene). Vatnar mfl. fant at samtlige registrerte partnerdrap i tidsperioden 1990–2012 ble begått av en gjerningsperson mot et offer av motsatt kjønn.[^66]
+
+I et typisk partnerdrap er gjerningspersonen i gjennomsnitt 40 år, og offeret er i gjennomsnitt 39 år, på drapstidspunktet. Begge er etnisk norske, men det er høy sannsynlighet for at begge har, eller har hatt, utenlandsk statsborgerskap. Paret er gift, men sannsynligheten er høy for at offeret har gitt uttrykk for et ønske om å avslutte forholdet. Halvparten av parene har felles barn. Gjerningspersonen har totalt ti års utdanning, mens offeret har elleve års utdanning. Både offeret og gjerningspersonen har flere levekårsutfordringer.[^67]
+
+#### Partnervold
+
+Gjerningspersonen i et typisk partnerdrap utøver ifølge Vatnar mfl., gjentatte ganger både alvorlig fysisk og psykisk partnervold mot offeret før drapet, men han er ikke tidligere domfelt for dette. Det er «gjensidig vold»[^68] mellom offer og gjerningsperson. Det er sannsynlig at denne volden er fysisk vold. Gjerningspersonen fremsetter også verbale drapstrusler før drapet. Både gjerningsperson og offer har kontakt med politi, helse- og omsorgstjenesten eller andre deler av hjelpeapparatet før drapet. Hjelpeapparatet foretar imidlertid ikke en risikovurdering, og de iverksetter ikke forebyggende tiltak. Partnervolden formidles heller ikke til andre instanser.[^69]
+
+#### Karakteristika ved drapet
+
+I et typisk norsk partnerdrap er det utelukkende partneren som blir drept – ikke også andre personer, som for eksempel parets barn. Det er imidlertid høy sannsynlighet for at gjerningspersonen begår påfølgende suicid. Partnerdrapet finner sted i eller ved parets felles bolig, og begås med kniv. Over halvparten av gjerningspersonene er ruspåvirket i gjerningsøyeblikket. Det typiske er ikke at offeret er ruspåvirket, men det er likevel høy sannsynlighet for at hun er det.[^70]
+
+#### Kontakt med hjelpeapparatet og andre privatpersoner
+
+Både gjerningspersonen og offeret søker hjelp hos familie, venner, kolleger eller andre privatpersoner før drapet. Det er høy sannsynlighet for at gjerningspersonen i den forbindelse gir uttrykk for at han kan komme til å begå partnerdrap. Privatpersoners bekymring for gjerningsperson eller offer blir ikke videreformidlet til hjelpeapparatet.[^71]
+
+### Motiv
+
+Sjalusi var, ifølge Vatnar mfl., det vanligste motivet for drapet i perioden 1990–2012.[^72] Mannlige og kvinnelige gjerningspersoner ble imidlertid tillagt ulike motiv i straffesaken. Motivet til mannlige gjerningspersoner ble oftest beskrevet som sjalusi (43 prosent), mens motivet til kvinnelige gjerningspersoner oftest ble beskrevet som krangel med partneren (35 prosent). Sammenliknet med menn, ble kvinner oftere beskrevet som drevet av hevn og frykt, men dette gjaldt likevel få kvinner (henholdsvis to og tre av 20 gjerningspersoner). Ingen mannlige gjerningspersoner ble beskrevet som drevet av frykt.[^73]
+
+Det var, ifølge Vatnar mfl., sammenheng mellom gjerningspersonens statsborgerskap og hvilket motiv vedkommende ble tillagt i straffesaken. Utenlandske statsborgere ble langt oftere beskrevet som drevet av hevn (19 prosent), sammenliknet med norske statsborgere med eller uten tidligere utenlandsk statsborgerskap (henholdsvis seks og to prosent). Utenlandske statsborgere, og tidligere utenlandske statsborgere, ble også oftere enn norske statsborgere beskrevet som drevet av sjalusi. I saker hvor gjerningspersonen hadde utenlandsk eller tidligere utenlandsk statsborgerskap, ble motivet oftere kategorisert som «annet» eller «ukjent» enn i saker hvor gjerningspersonen alltid hadde hatt norsk statsborgerskap. Ingen utenlandske eller tidligere utenlandske statsborgere ble tillagt frykt som motiv.[^74]
+
+### Straffeutmåling
+
+Menn som begikk partnerdrap i perioden 1990–2012 ble i gjennomsnitt dømt til elleve års ubetinget fengsel. Til sammenligning ble kvinnelige gjerningspersoner i gjennomsnitt dømt til syv års ubetinget fengsel.[^75]
+
+Norske statsborgere (uten tidligere utenlandsk statsborgerskap) ble, ifølge Vatnar mfl., i gjennomsnitt dømt til ti års fengsel, mens personer med utenlandsk eller tidligere utenlandsk statsborgerskap i gjennomsnitt ble dømt til 13 års fengsel.[^76]
+
+Ifølge tall fra Kripos for perioden 2000–2018, var den gjennomsnittlige fengselsstraffen for et partnerdrap 14 år og seks måneder. Menn som begikk partnerdrap ble i denne perioden i gjennomsnitt dømt til 14 år og åtte måneders fengselsstraff, mens kvinner ble i gjennomsnitt dømt til 14 år og tre måneder.[^77] At tallene fra Kripos viser vesentlig høyere straffeutmåling for partnerdrap enn det som følger av forskningen til Vatnar mfl., har sammenheng med at det de senere årene har skjedd en straffeskjerping for denne typen saker. Frem til 2010 var normalstraffen for et forsettlig drap i Norge ti års ubetinget fengsel. Etter 2010 har normalstraffen vært tolv års ubetinget fengsel, se også punkt 3.2.1.[^78]
+
+## Oversiktstall over drap og partnerdrap
+
+### Oversiktstall over drap og partnerdrap i Norge[^79]
+
+#### Norsk statistikk og andre opplysningskilder
+
+Statistisk sentralbyrå (SSB) fører den nasjonale kriminalstatistikken. Denne statistikken bygger på opplysninger fra politiets straffesaksregister STRASAK, se boks 4.2. Den inneholder blant annet opplysninger om anmeldte og etterforskede lovbrudd, herunder drap. Den nasjonale kriminalstatistikken er ikke så detaljert at partnerdrap lar seg differensiere fra andre typer drap.
+
+Kripos’ drapsoversikt gir oversikt over samtlige drap begått i Norge, herunder partnerdrap, og utvalget har derfor tatt utgangspunkt i denne.
+
+Drapsoversikten fra Kripos bygger både på STRASAK og politiets saksbehandlingssystem Basis Løsning (BL), se boks 4.2. Inklusjonskriteriene er overtredelse av straffeloven 1902 § 233 eller av straffeloven 2005 § 275. Rettskraftig domfellelse er ikke et vilkår for at drapet blir inkludert i Kripos’ drapsoversikt, og oversikten inkluderer derfor både uoppklarte drap og drap som ikke er påtaleavgjort. Kripos’ drapsoversikt oppdateres fortløpende, og opplysningene som er registrert kvalitetssikres mot rettskraftig dom når den foreligger. Det utgis årlig en rapport med nøkkeltall fra det foregående året, sett i et tiårsperspektiv. Denne rapporten inneholder blant annet opplysninger om offerets og siktedes alder, nasjonalitet, kjønn, relasjon, arbeidstilknytning og ruspåvirkning, i tillegg til opplysninger om drapsmetode, motiv og åsted.[^80]
+
+I det følgende vil utvalget gi en oversikt over antall drapssaker og partnerdrap i Norge. Hensikten med dette er først og fremst å synliggjøre hvor stor andel partnerdrap utgjør av det totale antallet drap. Utvalget har tatt utgangspunkt i tidsperioden 1990–2019. Grunnen til dette er at tallene i Kripos’ drapsoversikt er kvalitetssikrede fra og med 1990. Tallene fra tidligere år er noe usikre. Utvalget har fått oppdaterte tall per oktober 2020 fra Kripos, ved utvalgsmedlem Heidi Marie Engvold.
+
+De oppdaterte tallene fra Kripos inkluderer antall drapssaker, partnerdrap, ofre og gjerningspersoner. I noen tilfeller blir flere personer drept i forbindelse med et partnerdrap, og i noen saker er det derfor registrert flere enn ett offer. Gjerningspersoner som har begått drap-selvdrap i forbindelse med partnerdrapet registreres ikke som offer i saken. Utvalget understreker at tallene for både drap og partnerdrap er små i den forstand at enkeltstående hendelser kan gi store prosentvise utslag.
+
+Tallene i denne fremstillingen er ikke korrigert for folketall. Det betyr at fremstillingen viser antallet drapssaker i Norge, og ikke antallet drap per 100 000 innbygger. Sistnevnte er også en vanlig måte å fremstille oversikt over antall drap på, se punkt 4.3.2.2.
+
+STRASAK og BL
+
+STRASAK er politiets register for behandling av straffesaker, og er den eneste databasen med fullstendig oversikt over straffesaker i Norge. Databasen har vært brukt i samtlige politidistrikt siden 1992. Systemet er saksbasert (ikke personbasert) og gir oversikt over hvor straffesaker befinner seg fra registrering til og med rettskraftig dom eller annen endelig avgjørelse. Data fra STRASAK danner grunnlaget for den nasjonale kriminalstatistikken som føres av SSB og den nasjonale drapsoversikten som føres av Kripos. Databasen inneholder blant annet opplysninger om anmeldte forhold, navn, fødselsdatoer o.l. på anmeldte personer og fornærmede, ansvar for behandling (distrikt, ansvarlig etterforsker, ansvarlig jurist), hvilke etterforskingsskritt som er tatt og saksavgjørelse (påtaleavgjorte saker, domsavgjørelser).
+
+Opplysningene som lagres i STRASAK blir importert fra politiets saksbehandlingssystem Basis Løsning (BL). I forbindelse med Nærpolitireformen, er BL bygget om fra lokale, lukkede baser, til ett nasjonalt BL.
+
+NOU 2003: 21 s. 78–80, NOU 2010: 3 s. 21–22 og Difi (2019) s. 27.
+
+\[Boks slutt\]
+
+#### Drap og partnerdrap i tidsperioden 1990–2019
+
+I tidsperioden 1990–2019 ble det registrert 915 drapssaker med 982 ofre og 985 gjerningspersoner. Av ofrene var 45 prosent kvinner og 55 prosent menn. Av gjerningspersonene var 86 prosent menn og 14 prosent kvinner. Høyeste antall ofre var i 1991 (50 ofre i 45 saker) og laveste antall var i 2015 (23 ofre i 22 saker). Partnerdrap utgjorde 25 prosent av alle drapene i denne perioden. Til sammen ble 231 partnerdrapssaker med 259 ofre registrert. Ofrene inkluderer også andre personer enn gjerningspersonens partner, herunder barn, se punkt 4.3.1.1. Blant ofrene i disse sakene var det 86 prosent kvinner. Antallet partnerdrapsofre har i perioden variert fra tre på det laveste i 1999, til 14 ofre på det høyeste i 2013.[^81]
+
+\[:figur:figX-X.jpg\]
+
+Drap og partnerdrap i Norge 1990–2019
+
+#### Drap og partnerdrap i tidsperioden 2010–2019
+
+I tidsperioden 2010–2019 ble det registrert 286 drapssaker med totalt 298 ofre og 311 gjerningspersoner. Det ble registrert 76 partnerdrapssaker med 81 ofre. Partnerdrap utgjorde dermed 27 prosent av drapssakene i denne perioden. Av ofrene i partnerdrapssakene, var 88 prosent kvinner. Fem av ofrene i disse sakene var under 18 år, og det yngste offeret var gjerningspersonens datter på to uker. Hun ble drept sammen med sin mor og to søsken på syv og ni år.
+
+Det var mannlig gjerningsperson i 84 prosent av partnerdrapssakene. I 62 prosent av sakene ble gjerningspersonen dømt til ubetinget fengsel for drapet. I 12 prosent av sakene ble gjerningspersonen dømt til tvunget psykisk helsevern, og i 11 prosent av sakene ble saken henlagt som følge av at gjerningspersonen var død. I de øvrige sakene forelå det per oktober 2020 ikke rettskraftig dom eller annen påtaleavgjørelse.
+
+#### Oppsummering
+
+På 1990-tallet ble det i gjennomsnitt registrert 33 drapssaker i Norge per år. På 2000-tallet ble det i gjennomsnitt registrert 30 drapssaker per år. I perioden 2010–2019 ble det i gjennomsnitt registrert 29 drapssaker per år.
+
+Til sammenlikning har det de siste 30 årene blitt registrert i gjennomsnitt åtte partnerdrapssaker per år (1990–2019). Antallet partnerdrap i Norge har vært stabilt i hele denne perioden.
+
+### Oversiktstall over drap og partnerdrap i et internasjonalt perspektiv
+
+#### Internasjonal statistikk
+
+United Nations Office on Drugs and Crime (UNODC) er FNs organ for å bekjempe kriminalitet og narkotikavirksomhet. Organisasjonen fører blant annet internasjonal statistikk over forekomsten av drap. UNODC har utgitt flere rapporter basert på statistikken. Disse kalles *Global Study on Homicide*. I 2019 ble rapporten utvidet og utgitt som seks delrapporter, hvorav den ene retter særskilt oppmerksomhet mot kjønnsbaserte drap på kvinner og jenter.[^82] Interpol og *European Sourcebook on Crime and Criminal Justice Statistics* er andre kilder til internasjonal oversikt over drap.[^83]
+
+Ifølge UNODC varierer definisjonen av drap og partnerdrap fra land til land, og en del land og internasjonale aktører bruker en videre definisjon av partnerdrap enn det Kripos gjør, se punkt 1.6. I noen land vil for eksempel drap begått i nødverge registreres som forsettlige drap, og i noen land, for eksempel Canada, omfatter partnerdrap drap i kjæresteliknende forhold («dating partners»).[^84] Kvaliteten og tilgjengeligheten på datamaterialet som danner grunnlaget for statistikken er også svært varierende fra land til land.[^85] Disse forholdene utgjør en begrensning for hvor sammenliknbar statistikken er.
+
+#### Drap
+
+Det er vanlig å måle omfanget av drap i hvor mange personer som blir drept hvert år per 100 000 innbyggere. I Norge ligger drapsraten stabilt på rundt 0,5 drap per 100 000 innbyggere.[^86] På internasjonalt nivå ble drapsraten i 2017 antatt å være 6,1 per 100 000 innbyggere.[^87] Det begås med andre ord færre drap i Norge enn i de fleste andre land. Flesteparten av drapsofrene både i Norge og i andre land er menn, men kjønnsbalansen er langt skjevere internasjonalt enn i Norge. Internasjonalt er 81 prosent av drapsofrene menn.[^88] I Norge var 55 prosent av drapsofrene mellom 1990 og 2019 menn.[^89]
+
+#### Partnerdrap
+
+En studie har vist at 13,5 prosent av alle drap internasjonalt er et partnerdrap.[^90] Til sammenlikning utgjør andelen partnerdrap i Norge per i dag 27 prosent av alle drap, se punkt 4.3.1.3. Partnerdrap utgjør dermed en langt større andel av det totale antallet drap i Norge enn ellers i verden, til tross for at Norge definerer partnerdrap noe snevrere enn andre land, se punkt 4.3.2.1.
+
+Noen studier har vist at det vestlige Europa og USA har hatt nedgang i antall partnerdrap. Samtidig har UNODC understreket at nedgangen er moderat i forhold til andre typer drap, og at antallet reelt sett holder seg relativt stabilt. De siste årene har det også blitt registrert en økning i antall partnerdrap på kvinner internasjonalt.[^91]
+
+I Sverige ble ikke partnerdrap skilt ut fra andre typer drap i den offisielle kriminalstatistikken før i 2017,[^92] men en svensk studie fra 2017 har vist at 26 prosent av drap i perioden 1990–2013 var partnerdrap.[^93] I Sverige er drapsraten høyere enn i Norge (om lag 1:100 000).[^94] I Danmark er drapsraten også høyere enn den norske (0,9:100 000). Ifølge en rapport fra 2020, utgjør partnerdrap 23 prosent av drapene i Danmark.[^95]
+
+\[:figur:figX-X.jpg\]
+
+Partnerdrap i Norge og internasjonalt
+
+Figurene tar utgangspunkt i at 27 prosent av alle drap i Norge er partnerdrap, og at 13,5 prosent av alle drap internasjonalt er partnerdrap.
+
+Kripos, personlig henvendelse, oktober 2020 og Stöckl mfl. (2013).
+
+#### Oppsummering
+
+Den finske forskeren og professoren Veli Verkko forsket blant annet på drap i tiårene 1920–1950. Han ga uttrykk for at andelen kvinnelige drapsofre er høy når det totale antallet drap er lavt, og *vice versa*.[^96] Dette har senere blitt omtalt som «Verkkos lov». Den høye andelen partnerdrap i Norge kan, med utgangspunkt i Verkkos lov, ha sammenheng med at den generelle drapsraten er lav.[^97]
+
+Europeiske forskere har hevdet at teorien har relevans også i dag; oversikten over drap og partnerdrap i Europa følger det samme mønsteret i dag som den gang Verkko introduserte sin teori.[^98] UNODC har på sin side fremhevet at det kreves et bredt perspektiv for å forstå tallene om mannlige og kvinnelige drapsofre på internasjonalt nivå. Det følger av en rapport fra 2019 at drap på menn påvirkes av sosiopolitiske forandringer, status i narkotikamarkedet og andre flyktige samfunnsendringer. Drap på kvinner påvirkes derimot i større grad av mer langsiktige faktorer som kjønnsroller og sosiale normer, diskriminering og likestilling. Ifølge UNODC er antallet drap på kvinner mer stabilt enn drap på menn.[^99]
+
+## Faktorer som kan bidra til forhøyet risiko for partnerdrap
+
+### Innledning
+
+Vatnar definerer risikofaktor på følgende måte:
+
+«En risiko- eller sårbarhetsfaktor defineres som en ytre eller indre hendelse som skjer før f.eks. et partnerdrap og som kan dokumenteres å være en signifikant årsak eller forutsetning for drapshandlingen. Bidraget fra denne faktoren er så viktig at risikoen ville bli redusert hvis den ikke var til stede. Det er relativt sjelden at en kan identifisere slike kausale risikofaktorer for vold. Det vanligste er at flere risikofaktorer virker sammen og at ingen av dem alene kan årsaksforklare volden \[…\]. Ved mer differensiert begrepsbruk vil en definere risikoindikator som en hendelse som ser ut til å gå igjen før partnerdrap, men som ikke nødvendigvis har et kausalt forhold til drapshandlingen. Indikatoren er en hendelse som samsvarer med økt risiko, men som ikke er en nødvendig forutsetning for at drapet skal skje. Flere faktorer i risikovurderingsinstrumenter for partnervold har disse egenskapene \[…\]. De fleste studier på partnervold bruker risikofaktorer også om indikatorer og forvarsel.»[^100]
+
+Denne definisjonen av begrepet er vid. Ifølge Vatnar, kan risikofaktorer knytte seg til forhold på både gjerningspersonens og offerets side, og gjelde både omstendigheter som forelå før drapet, og omstendigheter ved selve drapshandlingen. I tråd med ovennevnte definisjon, vil faktorer som kan bidra til forhøyet risiko blant annet inkludere hendelser og situasjoner som ser ut til å gå igjen før partnerdrap i flere saker, egenskaper eller karakteristika som gjelder mange av gjerningspersonene (for eksempel sosiodemografiske kjennetegn eller oppvekstfaktorer), og forhold av strukturell karakter (for eksempel kulturelle holdninger som støtter eller unnskylder vold mot kvinner).[^101]
+
+Vatnar mfl. tok i sin studie utgangspunkt i tre ulike risikovurderingsverktøy for partnervold for å kartlegge risikofaktorer for partnerdrap.[^102] De fleste risikovurderingsverktøyene innenfor dette fagfeltet er utviklet for å måle risiko for partnervold, ikke partnerdrap. All den tid partnerdrap har betydelig lavere forekomst enn partnervold, vil risikofaktorene være bedre egnet til å si noe om faren for fremtidig partnervold enn fremtidig partnerdrap.[^103]
+
+Utvalget vil i det følgende fremstille noen faktorer som kan bidra til forhøyet risiko for partnerdrap. Dette er utelukkende basert på Vatnar mfl. sin studie. Utvalget gjør oppmerksom på at dette var en mulitvariat studie som viste faktorer i samspill med hverandre. For fremstillingens skyld beskriver utvalget faktorene som enkeltfaktorer.
+
+### Tidligere partnervold
+
+#### Tidligere partnervold som risikofaktor
+
+Partnervold er den best dokumenterte risikofaktoren for partnerdrap.[^104] Vatnar mfl. fant at hjelpeapparatet hadde registrert partnervold i 71 prosent av partnerdrapssakene før drapet.[^105] I 51 prosent av sakene var det registrert «gjentatt partnervold» (fem voldsepisoder eller flere). I bare ni prosent av sakene fremgikk det uttrykkelig av straffesaksdokumentene at det ikke var registrert tidligere partnervold.[^106]
+
+Partnervolden før drapet kunne, ifølge Vatnar mfl., være både fysisk, psykisk og seksuell vold. Mange ofre ble utsatt for flere typer vold, og i de fleste sakene var volden alvorlig. Den fysiske volden kunne eksempelvis være slag som medførte fysisk skade, slag med gjenstander og/eller våpenbruk. Den psykiske volden innebar ofte trusler om vold eller drap. Verbale voldstrusler var registrert i over halvparten av sakene.[^107]
+
+«Gjensidig partnervold» var registrert i halvparten av partnerdrapssakene. Ifølge Vatnar mfl., innebærer gjensidig partnervold at både offeret og gjerningspersonen var både voldsutøver og voldsutsatt i samme parforhold. Gjensidig fysisk partnervold ble registrert i 81 prosent av sakene med kvinnelig gjerningsperson, og i 36 prosent av sakene med mannlig gjerningsperson.[^108]
+
+#### Tidligere partnervold i sammenheng med andre risikofaktorer
+
+Forskningen viste at tidligere partnervold hadde betydning for andre faktorer som kan bidra til forhøyet risiko for partnerdrap. I saker med registrert partnervold var gjerningspersonen for eksempel oftere tidligere straffedømt for andre forhold enn i saker hvor partnervold ikke var registrert før drapet. Gjerningspersonen i saker med registrert tidligere partnervold hadde også i gjennomsnitt lavere utdanning sammenliknet med gjerningspersoner i saker uten tidligere partnervold.[^109]
+
+Gjerningspersoner som hadde utøvd gjentatt partnervold før drapet var oftere tilknyttet «kriminelle miljøer», se punkt 4.4.5. Videre var disse gjerningspersonene oftere registrert med «antisosiale trekk» enn gjerningspersoner som ikke hadde utøvd gjentatt partnervold.[^110] Vatnar mfl. definerte «antisosiale trekk» som diagnostiske trekk som må foreligge ved en antisosial lidelse, men som ikke nødvendigvis fyller kriteriene for en slik diagnose.
+
+### Statsborgerskap[^111]
+
+Størsteparten av gjerningspersonene og ofrene var norske statsborgere (henholdsvis 76 prosent og 78 prosent).
+
+Blant disse var det 10 prosent av gjerningspersonene og seks prosent av ofrene som tidligere hadde hatt et utenlandsk statsborgerskap. Ifølge Vatnar mfl., utgjorde andelen gjerningspersoner med tidligere utenlandsk statsborgerskap en viss overrepresentasjon målt opp mot denne gruppens andel av befolkningen ellers.
+
+Det var 24 prosent av gjerningspersonene og 22 prosent av ofrene som var utenlandske statsborgere på drapstidspunktet. Ifølge Vatnar mfl. var dermed utenlandske statsborgere overrepresentert blant både gjerningsperson og ofre sammenliknet med denne gruppens representasjon i befolkningen ellers.
+
+Gjerningspersoner med utenlandsk, eller tidligere utenlandsk statsborgerskap, var oftere arbeidsledige enn gjerningspersoner med norsk statsborgerskap.
+
+### Arbeid og økonomi
+
+Vatnar mfl. fant i sin studie at både gjerningspersoner og ofre i partnerdrapssaker ofte hadde svakere tilknytning til arbeidslivet og større økonomiske utfordringer enn befolkningen ellers.[^112]
+
+Studien viste at 44 prosent av gjerningspersonene var i arbeid på drapstidspunktet. Det var 14 prosent av gjerningspersonene som var arbeidsledige, og 32 prosent som var trygdet. Studien viste videre at 45 prosent av ofrene var i arbeid på drapstidspunktet. Det var elleve prosent som var arbeidsledige, og 29 prosent var trygdet.[^113]
+
+Kvinnelige gjerningspersoner hadde enda svakere tilknytning til arbeidslivet enn mannlige gjerningspersoner. Ifølge Vatnar mfl., var bare 15 prosent (tre av 20) av de kvinnelige gjerningspersonene i arbeid, mens dette gjaldt 47 prosent av de mannlige gjerningspersonene.[^114]
+
+Vatnar mfl. sin studie viste videre at over halvparten av gjerningspersonene hadde økonomiske utfordringer før drapet.[^115] Økonomiske utfordringer var i studien målt ved flere variabler, blant annet tilknytning til arbeidslivet, inntekt og tidligere gjeldshåndteringstiltak. Studien viste også at halvparten av ofrene var økonomisk avhengig av gjerningspersonen.
+
+### Tidligere kriminalitet
+
+Studien viste at gjerningspersonene var straffedømt før partnerdrapet i nærmere halvparten av sakene. Disse var i gjennomsnitt straffedømt mer enn fire ganger. Som Vatnar påpeker, kan det være flere lovbrudd knyttet til én strafferegistrering.[^116] Gjerningspersonene var dømt for ulike typer kriminalitet. Ti prosent av gjerningspersonene var dømt for partnervold.[^117]
+
+En fjerdedel av gjerningspersonene tilhørte, ifølge Vatnar mfl. «kriminelle miljøer».[^118] Med kriminelle miljøer menes i studien en tilknytning til kriminelle nettverk som for eksempel driver med kjøp eller salg av narkotika, økonomisk kriminalitet, menneskesmugling eller annen kriminell aktivitet.
+
+Ofrene var, ifølge Vatnar mfl., tidligere straffedømt i 18 prosent av sakene, og omtrent like mange ofre var tilknyttet et kriminelt miljø. Disse var i gjennomsnitt straffedømt 3,8 ganger.[^119]
+
+### Rus[^120]
+
+Vatnar mfl. sin studie viste at 47 prosent av gjerningspersonene og 32 prosent av ofrene hadde rusproblemer før drapet. Forskerne registrerte rusproblemer der hvor det fremgikk opplysninger om dette i straffesaksdokumentene. Det ble med andre ord ikke avgrenset til sakene hvor det var stilt en ruslidelsesdiagnose. Blant gjerningspersonene som hadde rusproblemer, var alkohol det vanligste rusmiddelet (42 prosent), deretter alkohol og narkotiske stoffer i kombinasjon (38 prosent). Blant ofrene som hadde rusproblemer, var en kombinasjon av alkohol og narkotiske stoffer mest utbredt (47 prosent), deretter alkohol (42 prosent). Det var elleve prosent av gjerningspersonene og elleve av ofrene som hadde ruslidelsesdiagnose før drapet.
+
+Vatnar mfl. registrerte også ruspåvirkning i gjerningstidsrommet hos gjerningspersonene og ofrene. Studien viste at 53 prosent av gjerningspersonene og 41 prosent av ofrene var ruspåvirket da drapet skjedde. Gjerningspersonene som var ruspåvirket, var som oftest påvirket av alkohol, dernest av blandings-/kombinasjonsrus (henholdsvis 55 og 24 prosent). Ofrene som var ruspåvirket, var også oftest påvirket av alkohol, og dernest av blandings-/kombinasjonsrus (henholdsvis 55 og 29 prosent).
+
+### Psykiske lidelser[^121]
+
+Vatnar mfl. sin studie viste at 34 prosent av gjerningspersonene hadde symptomer på psykisk lidelse, og at 37 prosent hadde en diagnostisert psykisk lidelse før drapet. Til sammenlikning viste studien at 19 prosent av ofrene hadde symptomer på psykisk lidelse, og at 25 prosent hadde en diagnostisert psykisk lidelse.
+
+Depresjon og ruslidelser var, ifølge Vatnar mfl., de mest vanlige psykiske helseplagene blant både gjerningspersonene og ofrene. Dette gjaldt både dem med og uten diagnose.
+
+Studien viste også at 43 prosent av gjerningspersonene og 16 prosent av ofrene utviste selvmordsatferd før partnerdrapet.[^122] Med selvmordsatferd menes i studien forsøk på eller trusler om å begå selvmord.
+
+### Samlivsbrudd
+
+Gjerningspersonen og offeret var, ifølge Vatnar mfl., fortsatt gift eller samboere på drapstidspunktet i 75 prosent av sakene. I 58 prosent av disse sakene hadde ofrene helt eller delvis uttrykt et ønske om brudd, separasjon eller skilsmisse før drapet. I 42 prosent av sakene hadde gjerningspersonen og offeret tidligere brutt forholdet, for deretter å bli gjenforent.[^123]
+
+I 25 prosent av partnerdrapssakene ble drapet begått etter et samlivsbrudd, og bruddet hadde ofte funnet sted kort tid før drapet (mindre enn seks måneder).[^124]
+
+## Kontakt med hjelpeapparatet og privatpersoner før partnerdrapet
+
+### Gjerningspersonenes kontakt med hjelpeapparatet
+
+Flertallet av gjerningspersonene (79 prosent) var i kontakt med hjelpeapparatet før partnerdrapet, herunder politi, fastlege, psykiater, psykolog, legevakt, sykehus, advokat, barnevern og familievern. Gjerningspersonene var oftest i kontakt med fastlege og politi (henholdsvis 62 prosent og 58 prosent av de som var i kontakt med hjelpeapparatet). I åtte prosent av sakene uttalte gjerningspersonen til en instans at vedkommende kunne komme til å begå partnerdrap.[^125]
+
+Vatnar mfl. fant at hjelpeapparatet, som følge av kontakt med gjerningspersonen, registrerte risiko for partnervold eller drap i 32 prosent av sakene. Det var politiet som oftest registrerte slik risiko. Risikoen ble sjelden (14 prosent av sakene) videreformidlet til andre instanser i hjelpeapparatet. Ifølge Vatnar mfl. iverksatte hjelpeapparatet voldsrisikohåndteringstiltak i 23 prosent av alle sakene som følge av kontakt med gjerningspersonen. Det var politiet som oftest iverksatte slike tiltak, for eksempel ileggelse av besøksforbud eller utdeling av mobil voldsalarm.[^126]
+
+I sakene hvor risiko for partnervold eller partnerdrap ble registrert som følge av kontakt med gjerningspersonen, ble dette gjort mer enn én måned før drapet i 27 prosent av sakene. I elleve prosent av disse ble det gjort ett år eller mer før drapet. I seks prosent sakene ble det gjort under én måned før drapet.[^127]
+
+### Ofrenes kontakt med hjelpeapparatet
+
+Flertallet av ofrene (72 prosent) var i kontakt med hjelpeapparatet før drapet. Ofrene var oftest i kontakt med fastlege, sykehuspersonell eller politiet (henholdsvis 64 prosent, 43 prosent og 48 prosent av ofrene som var i kontakt med hjelpeapparatet). De av ofrene som var utsatt for gjentatt partnervold var også hyppigst i kontakt med hjelpeapparatet før drapet.[^128]
+
+Vatnar mfl. fant at hjelpeapparatet, som følge av kontakt med offeret, registrerte risiko for partnervold eller drap i 40 prosent av sakene. Det var politi og krisesenter som oftest registrerte slik risiko. Risikoen ble sjelden formidlet til andre instanser (15 prosent av sakene). Hjelpeapparatet iverksatte voldsrisikohåndteringstiltak i 28 prosent av alle sakene som følge av kontakt med offeret. Det var politiet som oftest iverksatte slike tiltak.[^129]
+
+I sakene hvor risiko for partnervold eller partnerdrap ble registrert som følge av kontakt med offeret, viste studien at dette ble gjort mer enn én måned før drapet i 32 prosent av sakene. I 16 prosent av disse ble det gjort ett år eller mer før drapet. I seks prosent ble det gjort under én måned før drapet.[^130]
+
+### Gjerningspersonenes og ofrenes kontakt med privatpersoner
+
+Størsteparten av både ofrene (69 prosent) og gjerningspersonene (59 prosent) oppsøkte hjelp hos noen i sin familie, venne- eller bekjentskapskrets før drapet. Gjerningspersonenes hjelpesøking i private relasjoner skjedde oftest til venner og bekjente. Studien viste at en tredjedel av gjerningspersonene nevnte muligheten for å begå partnerdrap til andre privatpersoner før drapet. Privatpersonene som hadde kontakt med gjerningspersonene videreformidlet sin bekymring til hjelpeapparatet i ti prosent av partnerdrapssakene – oftest til politi eller fastlege. Offerets hjelpesøking i private relasjoner skjedde oftest til søsken og venner. Privatpersonene videreformidlet dette til hjelpeapparatet i 19 prosent av sakene – oftest til politiet.[^131]
+
+### Kontakt mellom privatpersonene og hjelpeapparatet
+
+Selv om ofrene og gjerningspersonene i stor utstrekning søkte hjelp i sine private relasjoner, fant Vatnar mfl. at dette i liten grad førte til at hjelpeapparatet ble kjent med den aktuelle situasjonen. Ifølge forskerne, viste studien at det her foreligger et forebyggingspotensial.[^132]
+
+Det finnes ingen enkel forklaring på hvorfor privatpersonene sjelden videreformidlet sine bekymringer, men studien viste blant annet en reelt sett høy terskel for å oppsøke hjelpeapparatet. Myndighetenes intensjon om at hjelpeapparatet skal være et lavterskeltilbud, syntes, ifølge forskerne, verken å ha blitt realisert for ofrene, gjerningspersonene eller de pårørende. Det syntes også som at hjelpeapparatet vurderte risikoen for partnervold og drap for lavt, og som at de dermed ikke iverksatte nødvendige tiltak for å minimere risikoen tidlig nok.[^133] Om dette skriver Vatnar:
+
+«Både i politiet, helsevesenet og hjelpeapparatet, og fra politisk ledelse, arbeider man utfra en intensjon om at det skal være lav terskel for å be om bistand mot vold i nære relasjoner. Med et slikt utgangspunkt risikerer man imidlertid at volds- og drapsrisiko vurderes for lavt ved første kontaktpunkt, og at potensialet for forebygging reduseres».[^134]
+
+### Særlig om de etterlattes erfaringer[^135]
+
+De fleste etterlatte som var i kontakt med hjelpeapparatet før drapet, ga uttrykk for at de observerte forhold som de i ettertid vurderte som risikofaktorer for partnerdrap. Observasjonene hadde gitt grunnlag for en frykt som var vanskelig å definere. Flere oppga at selv om de fryktet at noe ubehagelig ville skje, vurderte de ikke nødvendigvis muligheten for partnerdrap. Flere etterlatte opplyste også at de før drapet nedjusterte sine egne bekymringer, blant annet som følge av frykt for å overdrive situasjonen. Enkelte beskrev en prosess hvor de først var bekymret, deretter nedjusterte bekymringen, for så å oppjustere den da de ble kjent med ny informasjon.
+
+De etterlatte som videreformidlet sine bekymringer til hjelpeapparatet ga, ifølge Vatnar mfl., uttrykk for en opplevelse av at hjelpeapparatet ikke forstod alvoret i situasjonen. Noen fortalte om at de måtte opptre insisterende for å få gehør for sine bekymringer. Flere uttrykte frustrasjon over at den samme prosessen de selv gikk igjennom, med nedjustering og påfølgende oppjustering av bekymring, også skjedde i hjelpeapparatet, og at det derfor tok for lang tid før politi eller andre instanser iverksatte forebyggende tiltak. Flere etterlatte opplevde også at hjelpeapparatet ikke videreformidlet informasjon til andre instanser.
+
+Ifølge Vatnar mfl., opplevde mange etterlatte det de kalte for alvorlige mangler i hjelpeapparatets håndtering av konkrete voldssituasjoner. Flere ga også uttrykk for at hjelpeapparatet trenger mer kunnskap om og kapasitet til saker der det er risiko for partnerdrap.

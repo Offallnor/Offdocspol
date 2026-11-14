@@ -1,921 +1,324 @@
-# NOU 2022: 15, del 6 av 34 (side 63–72)
+# NOU 2022: 15, del 6 av 41
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2022/49d91474-nou-2022-15.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2022-15/id2940830/
 - Original-PDF: https://www.regjeringen.no/contentassets/dac114288c9f44f3b95af7dd46cf418b/no/pdfs/nou202220220015000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 63]
+# Sentrale hensyn, lovtekniske valg og begreper
 
-NOU 2022: 15
-Utleverings- og arrestordreloven
+## Innledning
 
-anstalt i den anmodende stat og etter norsk rett.
-Dette omtales som aksessoriske forhold eller
-aksessorisk utlevering.
-Gjelder det et vilkår om norsk jurisdiksjon for en
-tilsvarende handling?
-Problemstillingen som behandles i det følgende er
-om det er et vilkår for utlevering at en tilsvarende
-handling ville vært underlagt norsk jurisdiksjon.
-Spørsmålet oppstår der domfellelse i den anmodende stat forutsetter en ekstraterritoriell jurisdiksjon som går lengre enn norske jurisdiksjonsregler hadde tillatt i en tilsvarende situasjon.
-Utleveringsloven § 3 første ledd angir at utlevering bare kan skje når «handlingen, eller en tilsvarende handling, etter norsk lov kan medføre
-fengsel». Ordlyden knytter i utgangspunktet
-straffbarhetsvurderingen til handlingen. Dette
-kan tale for at jurisdiksjon ikke er et krav. Samtidig angir ordlyden at det er et vilkår at den tilsvarende handlingen etter «norsk lov» kan medføre
-fengsel. Det kan tale for et krav om at det ville
-vært norsk jurisdiksjon.
-Utleveringsloven 1908 § 2 fastslo at utlevering bare kunne skje for en «forbrytelse, som
-efter den almindelige borgerlige straffelov kan
-medføre strengere straf end fængsel i 1 aar, eller
-en strafbar handling, som – begaaet i Norge og
-under fuldt tilsvarende forhold – efter den borgerlige straffelov vilde blive at anse som en forbrytelse».
-Jurisdiksjon er ikke direkte omtalt i forarbeidene, hverken til utleveringsloven 1908 eller 1975.
-Utleveringskonvensjonen art. 2 nr. 1 setter
-som vilkår for statenes plikt til å utlevere at handlingen er straffbar etter både den anmodende og
-anmodede stats rett. Artikkel 7 nr. 2 åpner for at
-statene kan nekte utlevering hvis den anmodede
-stat ikke ville hatt jurisdiksjon i en tilsvarende sak.
-Utleveringsloven § 3 gjennomfører art. 2, men
-ikke art. 7, jf. Ot.prp. nr. 30 (1974–75) s. 26.
-Arrestordreloven § 7 første ledd angir til sammenligning at overlevering som hovedregel er
-betinget av at «handlinga […], eller ei tilsvarande
-handling, er straffbar også etter norsk lov». I forarbeidene er det vist til at bestemmelsen viderefører det tilsvarende kravet til dobbel straffbarhet i
-utleveringsloven § 3, jf. Prop. 137 LS (2010–2011)
-s. 51.
-Parallellavtalen art. 5 nr. 1 bokstav g alternativ
-ii, jf. art. 5 nr. 2, åpner – tilsvarende utleveringskonvensjonen art. 7 nr. 2 – for at statene kan
-erklære at manglende ekstraterritoriell jurisdiksjon i den iverksettende stat, skal være en obliga-
+Utvalgets mandat legger til grunn at det er behov for å revidere utleverings- og arrestordreregelverket: Utleveringsloven er endret flere ganger etter vedtakelsen i 1975, uten at det er foretatt en samlet gjennomgang i lys av den internasjonale utviklingen på området. Videre har det skjedd en utvikling i rettspraksis siden parallellavtalen ble inngått i 2006. EU-domstolens praksis har medført at det på noen punkter kan stilles spørsmål ved om norsk lov er i samsvar med parallellavtalen. Det er dessuten behov for et klart og oversiktlig regelverk som tar hensyn til at det kan gå lang tid mellom hver gang den enkelte aktør er involvert i en utleverings- eller arrestordresak.
 
-61
+Det er redegjort for de konkrete behovene for lovendringer under utvalgets vurderinger knyttet til de enkelte temaene i utredningen. I punktet her gis det bare en overordnet beskrivelse av noen hovedutfordringer i utleverings- og arrestordreretten:
 
-Kapittel 8
+Utvalget erfarer at dagens regler i mange tilfeller ikke angir hvilke myndigheter som skal eller kan utføre en handling i en utleverings- eller arrestordresak. Fordelingen av oppgaver mellom påtalemyndigheten og domstolene kan f.eks. komme klarere til uttrykk i lovgivningen. Dette gjelder særlig ordningen i arrestordresakene med at domstolene skal ta stilling til om det foreligger obligatoriske avslagsgrunner som er til hinder for overlevering, mens påtalemyndigheten skal vurdere om en av de fakultative avslagsgrunnene skal gjøres gjeldende i den enkelte sak.
 
-torisk avslagsgrunn. Norge har ikke avgitt slik
-erklæring. I Prop. 137 LS (2010–2011) s. 26 ble det
-vist til at utleveringsloven ikke hadde noen særskilt regulering av disse tilfellene. Det ble også
-pekt på at jurisdiksjonsreglene i straffeloven favner vidt og at det ikke syntes å være noe reelt
-behov for å lovfeste et slikt avslagsgrunnlag, heller ikke som en valgfri avslagsgrunn.
-Høyesterett har uttalt seg om spørsmålet i
-flere avgjørelser. I Rt. 2014 s. 680 var som nevnt et
-av spørsmålene om utlevering forutsetter at forholdet ville vært underlagt norsk jurisdiksjon i en
-tilsvarende norsk sak. Høyesterett tok ikke stilling til spørsmålet, men kom med bemerkninger
-av interesse. Ankeutvalget konstaterte først i
-avsnitt 19 – med henvisning til ordlyden i utleveringsloven § 3 første ledd, Ot.prp. nr. 30 (1974–75)
-s. 27 og Rt. 1998 s. 1993 – at alternativet «tilsvarende handling» innebærer at bestemmelsene om
-norsk strafferettsjurisdiksjon ikke får anvendelse i
-en utleveringssak. I avsnitt 20 og 22 fremgår deretter følgende:
-«(20) Samtidig forutsetter loven at den ‘tilsvarende handling’ kan straffes ‘etter norsk lov’. I
-teorien har det derfor vært vanlig å stille det
-krav for utlevering, at Norge – ut fra en hypotetisk vurdering – ville hatt strafferettslig jurisdiksjon dersom Norge var i den anmodende
-stats sted, jf. Tønnesen, Internasjonal strafferettspleie (1975) side 2.144 og Mathisen side
-225. Jeg viser her også til Rt. 1969 s. 1465, som
-illustrerer tenkningen i tilknytning til en utleveringsavtale med Tyskland. I tilfeller der det
-begjæres utlevering for å strafforfølge handlinger begått i den anmodende stat – slik situasjonen var i Rt. 1998 s. 1993 – er dette normalt
-uproblematisk, siden Norge ville hatt ordinær
-strafferettslig jurisdiksjon over en ‘tilsvarende
-handling’ dersom den var begått i Norge. Er
-det derimot spørsmål om ekstraterritoriell
-jurisdiksjon, leder det tradisjonelle synet som
-har vært lagt til grunn av den juridiske teorien
-til at vilkåret om dobbel straffbarhet ikke vil
-være oppfylt dersom strafforfølgning i den
-anmodende staten forutsetter en videre ekstraterritoriell anvendelse av denne statens strafferett enn det norsk strafferett tillater i tilsvarende situasjon. Synsmåten er, kan det hevdes,
-i tråd med grunnlaget for kravet om dobbel
-straffbarhet, ettersom man stenger for utlevering for strafforfølgning for handlinger som
-man ut fra norske kriminalpolitiske overveielser ikke har funnet grunn til å straffe, dersom
+Videre erfarer utvalget at det kan stilles spørsmål ved om loven gir tilstrekkelige klare hjemler for å beslutte bruk av tvangsmidler på ulike stadier av en utleverings- eller arrestordresak. Dette er påpekt bl.a. av Justisdepartementet, Oslo politidistrikt og Oslo statsadvokatembeter.
 
-[Side 64]
+Til slutt fremheves det at det underveis i utredningsarbeidet er oppdaget ulike former for inkurier i lovgivningen, som utvalget foreslår å rette opp i den nye loven.
 
-62
+Utover denne hovedgrupperingen av overordnede endringsbehov har utvalget ellers mottatt enkelte innspill fra ulike aktører. Lang varetektstid og oversoning i varetekt på grunn av lang saksbehandlingstid, som kan medføre løslatelse, er bl.a. pekt på som en utfordring (Oslo politidistrikt og Oslo statsadvokatembeter). Det har også vært fremhevet utfordringer knyttet til at bruk av tvangsmidler ikke skal gjelde for lengre tid enn fire uker fra endelig vedtak om utlevering foreligger (jf. utleveringsloven § 19 annet ledd annet punktum), og at vilkåret for forlengelse av tvangsmiddelbruken – «særlige grunner» – praktiseres strengt av domstolene (Oslo politidistrikt og Oslo statsadvokatembeter).
 
-NOU 2022: 15
+For å møte utfordringene som er beskrevet ovenfor og som det er redegjort for under de enkelte punktene i utredningen, anbefaler utvalget at det gis én lov om utlevering og overlevering av lovbrytere. Dette er i seg selv ment å møte mange av utfordringene ved dagens regelverk. Men utover rene regelverksendringer kan det også være behov for andre tiltak.
 
-Kapittel 8
+Utvalget anbefaler bl.a. at det arbeides for å øke tilgjengeligheten av rettskildene. Det er viktig at dommere, forsvarere, ansatte i påtalemyndigheten og i forvaltningen lettere enn i dag kan sette seg inn i gjeldende regelverk. I så måte kan det f.eks. utarbeides nettsider som forklarer gangen i en utleverings- eller arrestordresak, hvilke regelsett som gjelder for den enkelte stat og hvor annen informasjon, herunder rettskilder, er å finne.
 
-Utleverings- og arrestordreloven
+Utover de nevnte tiltakene anbefaler utvalget at det tas i bruk virkemidler som informasjonskampanjer og opplæring for å øke tilgjengeligheten og forståelsen av reglene.
 
-man tenker seg Norge i den anmodende stats
-sted. […]
-(22) Ordlyden i utleveringsloven § 3 nr. 1
-første punktum er ikke entydig. Det foreligger
-heller ikke noen avgjørelse fra Høyesterett
-som tar klart stilling til hvordan loven skal forstås i denne henseende.»
-Rt. 1998 s. 1993, som er omtalt i det siterte avsnitt
-20 ovenfor, gjaldt utlevering til USA av en amerikansk statsborger. Høyesterett uttalte at bestemmelsene om norsk strafferettsjurisdiksjon ikke får
-anvendelse i en utleveringssak (s. 1998). Uttalelsen
-var imidlertid foranlediget av at forsvarer anførte at
-det krevdes norsk jurisdiksjon for det konkrete forholdet.
-Rt. 1969 s. 1465, som også er omtalt i det siterte
-avsnitt 20 ovenfor, gjaldt utlevering til Tyskland av
-en tysk statsborger som var dømt for dokumentfalsk og bedragerier begått utenfor Tyskland mot
-tyske konsulater og ambassader. Den ettersøkte
-anførte bl.a. at kravet til dobbel straffbarhet ikke
-var oppfylt og henviste til straffeloven 1902 § 12
-nr. 4. Kjæremålsutvalget var ikke enig i dette, og
-bemerket at det var § 12 nr. 3 som var riktig henvisning: «Det må være avgjørende om tilsvarende
-handlinger var straffbare begått av norsk statsborger i utlandet. Og etter nr. 3 rammer norsk straffelov også falsk og bedrageri begått utenlands».
-Denne uttalelsen innebærer at det kreves norsk
-jurisdiksjon i en tilsvarende sak. Spørsmålet ble
-imidlertid ikke drøftet nærmere og kom heller ikke
-på spissen, siden det var brakt på det rene at det
-forelå jurisdiksjon. Det er derfor spørsmål om hvor
-mye vekt avgjørelsen kan tillegges, jf. også bemerkningen i det siterte avsnitt 22 ovenfor om at det
-ikke foreligger noen avgjørelse som tar klart stilling til hvordan loven skal forstås.
-Tønnesen viser på s. 2.144 til Ot.prp. nr. 30
-(1974–75) s. 27 og Rt. 1969 s. 1465, og synes å
-legge til grunn rettssetningen i 1969-avgjørelsen.
-Mathisen legger til grunn at spørsmålet om norsk
-strafferettslig jurisdiksjon er en del av spørsmålet
-om dobbel straffbarhet, jf. note 8 til § 3 første ledd
-i Norsk Lovkommentar på Rettsdata (sist hovedrevidert 24. juni 2022).
-Konsekvensen av å legge til grunn et krav om
-norsk jurisdiksjon i en tilsvarende sak er at en
-utleveringsbegjæring må avslås når vilkåret ikke
-er oppfylt. Den anmodende stat kan da be om at
-Norge strafforfølger forholdet. Norge må i så fall
-få overført jurisdiksjon.
-Straffeloven § 6 omhandler særlig folkerettslig
-grunnlag til å strafforfølge. Den bestemmer at
-utenfor virkeområdet etter straffeloven §§ 4 og 5,
-
-gjelder straffelovgivningen også for handlinger
-som Norge etter «overenskomster med fremmede
-stater eller etter folkeretten for øvrig har rett eller
-plikt til å strafforfølge». Bestemmelsen gjør det
-mulig for Norge å oppfylle de forpliktelser til universell jurisdiksjon som følger av overenskomster
-vi er tilsluttet eller som følger av den alminnelige
-folkerett uten å være traktatfestet, jf. Ot.prp. nr. 90
-(2003–2004) s. 405.
-Norge er tilsluttet flere overenskomster som
-kan gi en rett eller plikt til å strafforfølge, bl.a.
-europeisk konvensjon 15. mai 1972 om overføring
-av straffesaker. Videre fastsetter utleveringskonvensjon art. 6 nr. 2 at en stat som ikke utleverer
-egne borgere, på begjæring fra den anmodende
-stat skal overlate saken til sine kompetente
-myndigheter for at rettsforfølgning kan bli innledet om det finnes grunn til det.
-Også «folkeretten for øvrig» kan etter straffeloven § 6 gi rett eller plikt til å strafforfølge. Et
-gammelt prinsipp i utleveringsretten er aut dedere
-aut judicare, som betyr «enten utlevere eller strafforfølge», se nærmere NOU 1984: 31 Straffelovgivningens stedlige virkeområde: Straffelovkommisjonens delutredning II s. 22 flg. Det
-innebærer at staten som avslår utleveringsbegjæringen har plikt til å strafforfølge den ettersøkte
-dersom den anmodende stat begjærer det. Prinsippet er internasjonalt anerkjent og tatt opp i
-flere konvensjoner, bl.a. FNs konvensjon mot
-grenseoverskridende organisert kriminalitet 2000
-art. 16 nr. 10. I forarbeidene til straffeloven § 6 er
-aut dedere aut judicare omtalt i relasjon til konvensjoner som gjennomfører prinsippet, men det
-drøftes ikke særskilt om prinsippet faller inn
-under «folkeretten for øvrig», jf. Ot.prp. nr. 90
-(2003–2004) s. 190 flg.
-I rettsteorien er det argumentert for at prinsippets alder og utbredelse i konvensjoner som
-regulerer utlevering tilsier at det uttrykker en
-sedvanerettslig regel for visse alvorlige internasjonale lovbrudd, jf. Mathisen s. 33 med videre
-henvisninger. Hvorvidt prinsippet kan gi grunnlag for strafforfølgning for andre lovbrudd etter
-«folkeretten for øvrig», jf. straffeloven § 6, synes
-derimot å være uklart. Spørsmålet får imidlertid
-bare praktisk betydning hvis en begjæring om
-strafforfølgning er fremsatt uten grunnlag i en
-overenskomst.
-Etter utvalgets syn viser gjennomgangen av
-rettskildene at det er uklart om det etter gjeldende
-rett er et vilkår for utlevering at en tilsvarende handling ville vært underlagt norsk jurisdiksjon. Det er
-også uklart om, eventuelt i hvilken utstrekning, en
-begjæring i medhold av aut dedere aut judicare om å
-
-[Side 65]
-
-NOU 2022: 15
-Utleverings- og arrestordreloven
-
-overta straffesaken som utleveringsbegjæringen
-gjelder kan etablere jurisdiksjon etter alternativet
-«folkeretten for øvrig» i straffeloven § 6.
-
-8.2.1.2
-
-Folkerettslige rammer
-
-Utleveringskonvensjonen art. 2 nr. 1 setter som vilkår for statenes plikt til utlevering at handlingen
-saken gjelder er straffbar etter både den anmodende og anmodede stats rett. Konvensjonens
-krav til strafferamme og lengde på idømt frihetsberøvende reaksjon er behandlet i punkt 8.3.1.2.
-Etter art. 7 nr. 1 kan utlevering nektes dersom
-den aktuelle handlingen er begått helt eller delvis
-på den anmodede stats territorium. Bestemmelsen har ikke fått et direkte uttrykk i dagens utleveringslov, men det er i Ot.prp. nr. 30 (1974–75)
-s. 21–23 lagt til grunn at dette kan benyttes som
-avslagsgrunn av departementet. Artikkel 7 nr. 2
-om manglende ekstraterritoriell jurisdiksjon som
-avslagsgrunn er omtalt i punkt 8.18.1.1.
-De bilaterale utleveringsavtalene med Australia og USA setter dobbel straffbarhet som vilkår
-for utlevering, jf. henholdsvis art. 4 nr. 1 og art. 2.
-Avtalen med Canada angir i art. I at den omfatter
-lovbrudd som er begått på den anmodende stats
-territorium, og lister i art. II opp hvilke lovbrudd
-som skal danne grunnlag for utlevering.
-
-8.2.1.3 Utenlandsk rett
-Utleveringslovgivningen i de nordiske statene, Nederland og Tyskland har alle dobbel straffbarhet
-som grunnvilkår for utlevering, jf. den danske
-utleveringsloven 2020 §§ 18 til 21, den islandske
-1984 §§ 1 og 3, den finske 1970 1 og 4 §§, den
-svenske 1957 1 og 4 §§, den nederlandske 1967
-§ 5 og den tyske loven om internasjonal rettslig
-bistand i straffesaker 1982 § 3.
-Når det gjelder aksessoriske forhold, er det
-større variasjon. Finland, Sverige og Tyskland krever som hovedregel at de aksessoriske forholdene
-er straffbare etter deres rett, jf. landenes respektive utleveringslover § 4. Danmark og Island oppstiller ikke som vilkår at de aksessoriske forholdene er straffbare etter egen lovgivning. Nederland har ingen særskilt bestemmelse om aksessoriske forhold.
-I Danmark er manglende ekstraterritoriell
-jurisdiksjon en valgfri avslagsgrunn (utleveringsloven § 27).
-Alle de nordiske statene har i ulik grad gjennomført aut dedere aut judicare-prinsippet («enten
-utlevere eller strafforfølge») i sine straffelover.
-
-8.2.1.4
-
-63
-
-Kapittel 8
-
-Utvalgets vurderinger
+## Sentrale hensyn
 
 Innledning
-Norge har siden 1908 hatt et generelt krav til dobbel straffbarhet som vilkår for utlevering. Det er
-også internasjonalt et utbredt krav. Samtlige stater
-som utvalget har sett hen til har dobbel straffbarhet som vilkår for at utlevering skal kunne skje.
-Utvalget foreslår at kravet videreføres, jf. lovutkastet § 12.
-Et krav til dobbel straffbarhet kan begrunnes
-på flere måter.
-Kravet har en side til legalitetsprinsippet. Utlevering er et inngripende tiltak som innebærer
-tvangsbruk. Det er rimelig å oppstille som minimumskrav at forholdet er straffbart i begge de
-involverte statene. At bare straffbare handlinger
-kan danne grunnlag for utlevering, kan også sies å
-ha en viss betydning for borgernes mulighet til å
-forutse hva slags handlinger man kan risikere å
-bli utlevert for.
-Et krav om at handlingen eller tilsvarende
-handling må være straffbar i Norge er – som
-påpekt av Høyesterett i Rt. 2014 s. 680 avsnitt 9 –
-dessuten med på å sikre at adgangen til å utlevere
-fra Norge er i tråd med det generelle kriminalpolitiske grunnlaget for norsk straffelovgivning. Utleveringsbegjæringer kan komme fra land som vi
-ikke nødvendigvis står nært, hverken politisk eller
-rettslig. For eksempel var homofili straffbart i 68
-land i 2020 ifølge Amnesty International. Fjernes
-kravet til dobbel straffbarhet, tar man også bort
-norske myndigheters mulighet til å avslå en slik
-utleveringsbegjæring med henvisning til en formalbestemmelse.
-Utleveringsinstituttet er dessuten ressurskrevende, og det bør av den grunn reserveres for forhold som i begge stater er ansett alvorlige nok til
-at de er belagt med straffansvar.
-Det er ikke nødvendigvis slik at det alltid vil
-være urimelig å utlevere for noe som ikke er
-straffbart i Norge. Hvilke handlinger som er
-belagt med straff påvirkes bl.a. av staters historie
-og rettspolitiske kultur. Norsk straffelovgivning er
-heller ikke fullkommen. Man kan også tenke seg
-at forhold som etter norsk rett er ulovlige, men
-ikke straffbare, kunne danne grunnlag for utlevering, gitt at forholdet er straffbart i den anmodende stat. Det ville imidlertid bryte med en av
-grunnpilarene som vår utleveringsrett hviler på
-om man åpnet for utlevering for forhold som etter
-norsk rett ikke er straffbare.
-Når det gjelder prøvingen av om forholdet er
-straffbart etter den anmodende stats rett, foreslår
-utvalget å videreføre gjeldende rett: Det skal ikke
 
-[Side 66]
+Utvalgets forslag skal ivareta grunnleggende rettssikkerhetshensyn, være i samsvar med folkeretten, legge til rette for effektive prosesser og være klart og forståelig.
 
-64
+Rettssikkerhetshensynet
 
-Kapittel 8
+Den ettersøkte personen har «hovedrollen» i en utleverings- eller arrestordresak. I dag har vedkommende en rekke rettigheter, som følger direkte av utleveringsloven eller arrestordreloven, eller som utledes fra straffeprosessloven eller annet regelverk. Det dreier seg bl.a. om rett til forsvarer, rett til tolk og rett til informasjon. Utvalgets forslag skal ivareta slike rettigheter og gi ettersøkte personer en verdig og tillitvekkende behandling.
 
-NOU 2022: 15
-Utleverings- og arrestordreloven
+Folkerettshensynet
 
-være noen selvstendig og omfattende prøvingsplikt for norske myndigheter. De bør normalt
-kunne basere sin prøving på de opplysningene
-som fremgår av utleveringsbegjæringen med vedlegg. Hvorvidt et forhold er straffbart eller ikke i
-den anmodende stat, er denne staten nærmest til
-å vurdere, og norske myndigheter bør utvise varsomhet med å overprøve den anmodende stats
-vurdering, jf. Rt. 1998 s. 1993 og Rt. 2014 s. 680. Er
-det uklart eller omtvistet om forholdet er straffbart i den anmodende stat, må det imidlertid
-iverksettes undersøkelser og utleveringsbegjæringen må avslås hvis den anmodende stat ikke
-avklarer spørsmålet.
-Bør det gjelde et vilkår om tilregnelighet?
-Det synes i dag å være en viss tvil om personer som
-var utilregnelige på handlingstidspunktet kan utleveres. Utleveringskonvensjonen omfatter utilregnelige lovbrytere, se punkt 8.2.1.1. Det er samme
-behov for utlevering av utilregnelige lovbrytere
-som av tilregnelige. Utvalget foreslår at loven bringes i overensstemmelse med utleveringskonvensjonen, og at det klargjøres at også utilregnelige
-lovbrytere skal kunne utleveres. Utvalget finner
-ikke grunn til å bruke en annen betegnelse enn
-«strafforfølgning», som er et innarbeidet begrep.
-Det bør være tilstrekkelig at det klargjøres i
-merknadene til bestemmelsen at begrepet også
-omfatter rettsforfølgning av utilregnelige.
-Aksessoriske forhold
-Det er også spørsmål om dagens krav til straffbarhet i Norge for aksessoriske forhold bør videreføres. Spørsmålet er ikke særskilt berørt i forarbeidene til hverken 1908-, 1961- eller 1975-loven.
-Danmark og Island har ikke et slikt krav, mens
-Finland, Sverige og Tyskland krever dobbel straffbarhet også for de aksessoriske forholdene.
-De argumenter som taler for et krav til dobbel
-straffbarhet for hovedsaken har overføringsverdi
-til de aksessoriske forholdene. Det har vært et
-krav i over 100 år og har etter det utvalget forstår
-ikke ført til urimelige resultater. Behovet for å
-gjøre utlevering betinget av straffbarhet for alle
-forholdene den utenlandske saken gjelder, kan
-illustreres med et tenkt eksempel: En stat i Mellom-Amerika begjærer utlevering til strafforfølgning for kroppsskade og for abort. Uten krav til
-norsk straffbarhet for samtlige forhold utleveringssaken gjelder, vil Norge potensielt kunne
-utlevere for en handling som i vårt samfunn er en
-rettighet og ikke en straffbar handling.
+Utlevering og overlevering handler om internasjonalt strafferettslig samarbeid. Her, som ved andre former for samarbeid, har tillit stor betydning. Norge har påtatt seg flere folkerettslige forpliktelser på utleverings- og overleveringsområdet. Disse forpliktelsene må ikke bare gjennomføres lojalt i norsk rett, de må også etterleves. Dette er viktig f.eks. når det gjelder avslagsgrunnene i arrestordresystemet, som er uttømmende angitt i rammeverkene. Siden arrestordresystemet er basert på gjensidig anerkjennelse av rettsavgjørelser og overlevering skal gjennomføres med mindre det foreligger en hjemlet avslagsgrunn, er det viktig at statene forholder seg lojalt til avslagsgrunnene som følger av rammeverkene. Dette sikrer forutberegnelighet.
 
-Det finnes også motargumenter. Enkelte land
-har f.eks. ikke en bestemmelse tilsvarende vår
-straffeprosesslov § 462 a. Ved utlevering til straffullbyrding for flere forhold gir den domstolen
-anledning til å fastsette en ny samlet straff hvis
-den anmodede stat bare tilstår utlevering for noen
-av flere forhold i dommen. Fravær av en slik hjemmel kan medføre at utlevering ikke kan skje og at
-resultatet blir straffrihet. Effektivitetshensyn kan
-også tilsi at de aksessoriske forholdene ikke
-underlegges prøving av dobbel straffbarhet.
-Utvalget har merket seg at Danmark og Island
-ikke har et slikt krav.
-Etter en samlet vurdering har utvalget kommet til at argumentene som taler for et krav til
-dobbel straffbarhet veier tyngre enn motargumentene. Utvalget foreslår derfor å videreføre dagens
-krav til dobbel straffbarhet for aksessoriske forhold. Utvalget foreslår imidlertid å lempe på kravet til strafferamme for de aksessoriske forholdene, se punkt 8.3.1.4.
-Bør det gjelde et vilkår om norsk jurisdiksjon for et
-tilsvarende forhold?
-Gjennomgangen av rettskildene i punkt 8.2.1.1
-viser etter utvalgets syn at det er uklart om norsk
-jurisdiksjon inngår i kravet til dobbel straffbarhet
-etter utleveringsloven § 3. Det synes å være behov
-for en avklaring.
-Både utleveringskonvensjonen og parallellavtalen regulerer krav til dobbel straffbarhet og
-avslagsgrunnen manglende ekstraterritoriell
-jurisdiksjon i to ulike bestemmelser, jf. utleveringskonvensjonen art. 2 nr. 1 og 7 nr. 2 og parallellavtalen art. 3 og 5 nr. 1 bokstav g alternativ ii. I
-Prop. 137 LS (2010–2011) s. 26 er manglende
-ekstraterritoriell jurisdiksjon behandlet som en
-valgfri avslagsgrunn, og ikke som en del av kravet
-til dobbel straffbarhet.
-Kravet til dobbel straffbarhet kan som nevnt
-forankres i legalitetsprinsippet og hensynet til forutberegnelighet. Det har også en side til at utleveringsinstituttets inngripende karakter bør reserveres for handlinger som vår rettstradisjon har
-funnet grunn til å belegge med straff. Når vi mangler jurisdiksjon, skyldes det at lovgiver har
-bestemt at et ellers straffbart forhold ikke skal
-være straffbart etter norsk lov når det er begått
-utenlands. Etter utvalgets syn er det grunn til å
-stille spørsmål ved om denne rettspolitiske vurderingen, som har en side til hensiktsmessig ressursbruk, sakens alvorlighet og hvor straffesaken
-best kan opplyses, bør sperre for utlevering til stater med andre jurisdiksjonsregler.
+Det er viktig å se hen til praksis fra EMD. EU-domstolens praksis om EUs rammebeslutning har betydning for praktiseringen også av parallellavtalen. Det må derfor påses at de norske reglene som gjennomfører parallellavtalen er i overensstemmelse med føringene EU-domstolen gir for likelydende eller lignende artikler i rammebeslutningen.
 
-[Side 67]
+Effektivitetshensynet
 
-NOU 2022: 15
-Utleverings- og arrestordreloven
+Arrestordresystemet opererer med frister for avgjørelse av en arrestordre og for gjennomføring av et vedtak om overlevering. Formålet med disse fristene er å legge til rette for effektive prosesser, slik at overlevering blir et egnet redskap som ledd i strafforfølgningen av straffbare forhold. Hensynet til effektive prosesser gjør seg gjeldende også i utleveringssakene, som i dag ofte kan ha svært lang saksbehandlingstid. Lang saksbehandlingstid er uheldig både av hensyn til den ettersøktes rettssikkerhet, andre involverte personers rettssikkerhet, statenes interesser og for ressursbruken. Utvalget mener på denne bakgrunn at hensynet til effektivitet bør være et sentralt hensyn ved forberedelsen av nye regler om utlevering og overlevering.
 
-I en slik kontekst er det etter utvalgets syn
-relevant å legge vekt på konsekvensene av et krav
-om norsk jurisdiksjon. Norge må da avslå utleveringsbegjæringen, men kan likevel ende opp med
-å få jurisdiksjon i saken hvis den anmodende stat
-fremsetter en begjæring om dette, jf. straffeloven
-§ 6 og nærmere omtale av dette i punkt 8.2.1.1. Et
-krav om norsk jurisdiksjon kan da fremstå som
-formalistisk. Det er også uheldig fordi saker normalt opplyses best der lovbruddet er begått, og
-det i disse sakene gjennomgående vil være slik at
-vitner og andre bevis befinner seg i utlandet.
-Utvalget mener derfor at det ikke bør inngå i kravet til dobbel straffbarhet at Norge ville hatt jurisdiksjon for et tilsvarende forhold. De samme argumentene taler for at det heller ikke bør innføres
-som en selvstendig avslagsgrunn.
-I forlengelsen av dette har utvalget sett på
-spørsmålet om straffeloven § 6 i tilstrekkelig grad
-fanger opp aut dedere aut judicare-prinsippet
-(«enten utlevere eller strafforfølge»). Spørsmålet
-oppstår der Norge avslår en utleveringsbegjæring, ikke har jurisdiksjon i saken og den anmodende stat deretter, uten grunnlag i konvensjon,
-fremsetter en anmodning om å overta strafforfølgningen etter nevnte prinsipp. Det kan også tenkes
-at en stat ikke fremmer utleveringsbegjæring
-fordi den vet at Norge ikke kan etterkomme
-begjæringen, og i stedet anmoder om at Norge
-strafforfølger. Det synes i dag å være uklart om –
-og i så fall i hvilken grad – dette kan etablere jurisdiksjon etter straffeloven § 6 sitt alternativ «folkeretten for øvrig».
-Argumentet som taler mot å regulere prinsippet i loven er først og fremst at mange tilfeller fanges opp av ulike konvensjoner om bekjempelse av
-internasjonal eller grenseoverskridende kriminalitet. Det kan derfor anføres at det er usikkert om
-det er et reelt behov for en slik hjemmel. På den
-annen side risikerer man ved ikke å ha en slik
-mulighet at lovbrytere kan unndra seg strafforfølgning. Det er ønskelig at norske myndigheter
-følger prinsippet om enten utlevere eller strafforfølge, slik at det ikke bør være tvil om at jurisdiksjonsreglene omfatter dette. Utvalget foreslår derfor å regulere prinsippet i lovs form.
-Ett alternativ er å foreta en tilføyelse i straffeloven § 6. Et annet alternativ er å innta en egen
-bestemmelse i den foreslåtte utleverings- og arrestordreloven. Utvalget antar at det er en fordel om
-jurisdiksjonsreglene er samlet i samme lov, og foreslår derfor å endre straffeloven, se lovutkastet § 76,
-hvor det foreslås endringer i andre lover.
+Brukerhensynet
 
-8.2.2
+En rekke aktører med forskjellige roller har befatning med utleverings- og arrestordreregelverket; dette gjelder påtalemyndigheten, advokat-/forsvarerstanden, domstolene, departementet og kriminalomsorgen, for å nevne noen.
 
-65
+For å kartlegge utfordringer og endringsbehov i gjeldende regelverk har utvalget lyttet til ulike aktørgrupper, se punkt 2.3.
 
-Kapittel 8
+Det er gjennomgående påpekt, i tråd med det som er lagt til grunn i mandatet, at den enkelte aktør sjelden behandler utleverings- og arrestordresaker. Etter ikrafttredelsen av hele arrestordreloven 1. november 2019 fikk påtalemyndigheten beslutningsmyndighet i de fleste arrestordresakene. Det er derfor mange flere personer som i dag avgjør om en arrestordre skal etterkommes, enn det som var tilfellet i utleveringssakene. Sakene har ofte et hasteelement, og noen av dem kan by på kompliserte vurderinger. Det er videre en utfordring at rettsområdet er fragmentert og preget av internasjonale rettskilder. Disse kan oppleves som vanskelig tilgjengelige. En annen utfordring er koblingen mellom utleverings- og arrestordreregelverket og andre tilstøtende rettsområder, som f.eks. reglene om soningsoverføring og utlendingslovgivningen.
 
-Overlevering til stater i EU utenfor
-Norden
+Fra rettsanvenderens perspektiv synes det derfor å være et stort behov for et klart og tilgjengelig regelverk, slik mandatet forutsetter. Hensynet til informasjon og til lovens brukere har derfor stått sentralt i utvalgets vurderinger.
 
-8.2.2.1 Gjeldende rett
-For å kunne etterkomme en nordisk-europeisk
-arrestordre, må kravet til dobbel straffbarhet som
-utgangspunkt være oppfylt, jf. arrestordreloven
-§ 6 og § 7 første ledd. Paragraf 6 første ledd og § 7
-gjennomfører parallellavtalen art. 3.
-Arrestordreloven § 6 første ledd bokstav a og
-b angir at overlevering til strafforfølgning og fullbyrding av idømt frihetsstraff eller annen frihetsberøvende reaksjon kan skje dersom forholdet i
-den utstedende stat oppfyller nærmere angitte
-krav til alvorlighet, se nærmere om krav til strafferamme og lengde av idømt reaksjon i punkt
-8.3.2.1.
-Når det gjelder kravet om at handlingen må
-være straffbar etter utstedende stats rett, heter
-det i rundskriv G-02/2020 s. 22:
-«I relasjon til utleveringsloven § 3 nr. 1 er det
-lagt til grunn at norske domstoler må utvise
-forsiktighet ved overprøving av den utenlandske myndighetens forståelse av egen lovgivning, jf. Rt. 1998 s. 1993. Når det gjelder vilkåret om at handlingen må være straffbar etter
-den utferdigende statens rett etter arrestordreloven § 6, følger kravet til dobbel straffbarhet
-av den underliggende folkerettslige avtalen
-som arrestordreloven bygger på. Den utferdigende staten vil derfor selv være ansvarlig for
-at vilkåret er oppfylt. I likhet med kravet til
-straffetrusselen og idømt straff vil straffbarheten etter den utferdigende statens rett dermed
-neppe bli overprøvd av en norsk domstol.»
-Kravet i § 7 første ledd om at handlingen eller tilsvarende handling må være straffbar etter norsk
-lov skal forstås på samme måte som det parallelle
-vilkåret i utleveringsloven, jf. HR-2020-1701-U
-avsnitt 20. Se nærmere omtale av dette vilkåret i
-punkt 8.2.1.1. I arrestordresaker fremgår det av
-forarbeidene at det ikke er noe krav for overlevering at Norge ville hatt jurisdiksjon i en tilsvarende sak, jf. Prop. 137 LS (2010–2011) s. 26, der
-det drøftes om Norge skal innføre manglende
-ekstraterritoriell jurisdiksjon som avslagsgrunn,
-jf. parallellavtalen art. 5 nr. 1 bokstav g alternativ
-ii. En slik avslagsgrunn ble altså ikke innført.
-Det kan stilles spørsmål ved om ordlyden i
-arrestordreloven § 6 første ledd bokstav a gir tilstrekkelig klar hjemmel for overlevering av utilregnelige personer til strafforfølgning. Ordlyden
-taler om overlevering til «straffeforfølging». En
+## Én eller flere lover?
 
-[Side 68]
+Utvalget skal ifølge mandatet vurdere hvorvidt regelverket om utlevering og overlevering av lovbrytere bør samles i én lov eller fortsatt reguleres i ulike lover. Videre angir det at utvalget skal utarbeide et lovutkast i samsvar med anbefalingene i veilederen «Lovteknikk og lovforberedelse». Lovforslaget skal ha et klart og godt språk samt en ryddig struktur som bidrar til at loven blir forstått og virker etter hensikten. Reglene skal sikre en rask og effektiv prosess i samsvar med våre folkerettslige forpliktelser, og samtidig ivareta hensynet til rettssikkerhet og menneskerettigheter. Dessuten skal det sees hen til hvordan ulike folkerettslige forpliktelser er gjennomført i andre land, spesielt de nordiske landene og andre medlemsland i EU som det er nærliggende for Norge å sammenligne seg med.
 
-66
+Utvalget har på denne bakgrunn vurdert om reglene bør samles i én felles lov, eller om de fortsatt bør fremgå av ulike lover. Utvalget ser at det er vektige argumenter for begge løsninger.
 
-Kapittel 8
+Som gjennomgangen i kap. 5 viser, fremgår reglene om utlevering og overlevering av én lov i Danmark, Frankrike, Storbritannia og Tyskland, mens Finland, Island, Nederland og Sverige har flere lover. Under møtene med de danske og svenske aktørene i april 2022 var inndelingen av lovverket et sentralt spørsmål, og utvalget fikk verdifulle synspunkter på fordeler og ulemper med ulike inndelinger av regelverkene. Ved valget mellom å foreslå én ny lov eller flere nye lover, har utvalget likevel ikke funnet grunn til å legge særlig stor vekt på hensynet til nordisk eller europeisk rettsenhet isolert sett. Dette er både fordi de nevnte statene har valgt forskjellige lovtekniske løsninger, og fordi arrestordrereglene ble fremforhandlet og implementert etter en rask prosedyre. Sistnevnte synes å ha gitt medlemstatene begrensede faktiske muligheter for å foreta en helhetlig gjennomgang av utleverings- og arrestordreglene. Utvalget har derfor foretatt en avveining av argumenter som taler for de ulike løsningene.
 
-NOU 2022: 15
-Utleverings- og arrestordreloven
+På den ene siden er ikke utvalget kjent med at det er fremmet kritikk mot dagens løsning med én lov om utlevering og én lov om overlevering på grunnlag av arrestordrer. Det er, så vidt utvalget bekjent, heller ikke fremsatt innvendinger mot at parallellavtalen og konvensjon om nordisk arrestordre er gjennomført i samme lov. Dette kan tilsi at regelsettene fortsatt bør reguleres i ulike lover. I samme retning trekker det at utleveringsloven og arrestordreloven gjennomfører forskjellige folkerettslige forpliktelser med til dels store ulikheter, både hva gjelder vilkår, saksbehandling og begreper. Videre taler det for flere lover at statenes handlingsrom ved gjennomføring av arrestordrereglene er mindre enn i utleveringssammenheng, noe som medfører at det må gis mer detaljerte regler om overlevering enn om utlevering. Disse systemforskjellene kan også gjøre det vanskelig å utforme fellesbestemmelser. Regulering i flere lover vil formentlig dessuten kunne gi en klarere regelverksstruktur, med færre og kortere paragrafer enn om alle reglene skulle vært samlet i én og samme lov.
 
-streng språklig forståelse kan tilsi at utilregnelige
-lovbrytere ikke omfattes, se til sammenligning
-ordlyden i utleveringsloven § 3 tredje ledd som
-benytter begrepet «rettsforfølgning». Forarbeidene omtaler ikke spørsmålet særskilt.
-Arrestordreloven § 7 annet og tredje ledd oppstiller unntak fra kravet til dobbel straffbarhet.
-Begrunnelsen for unntakene er at gjensidig anerkjennelse av hverandres rettsavgjørelser er et av
-kjernepunktene i arrestordresamarbeidet. Et krav
-om overlevering skal som utgangspunkt etterkommes av den iverksettende stat, og den staten
-som forfølger en handling skal ha mulighet og
-myndighet til det. I et slikt system er det naturlig å
-avskaffe kravet til dobbel straffbarhet, jf. Prop.
-137 LS (2010–2011) s. 21, som gjengir drøftelsene
-i Justis- og politidepartementets høringsnotat om
-forslag til lovendringer for gjennomføring av
-parallellavtalen (desember 2009) s. 17.
-Kravet gjelder for det første ikke for enkelte
-former for medvirkning til felles kriminell virksomhet, jf. § 7 annet ledd, som gjennomfører
-parallellavtalen art. 3 nr. 3. Fremgår det av arrestordren at den utstedende stat anser handlingen
-som omfattet av art. 3 nr. 3, skal norske myndigheter legge dette til grunn uten å vurdere om forholdet er straffbart i Norge, jf. proposisjonen
-s. 51. Dette kan imidlertid ikke leses ut av dagens
-ordlyd.
-I § 7 tredje ledd er Justisdepartementet gitt
-forskriftshjemmel til å gjøre unntak for kravet til
-dobbel straffbarhet for bestemte handlinger.
-Dette er gjort i arrestordreforskriften § 6, som
-lister opp 33 handlinger. Listen kalles «positivlisten» og fremgår av parallellavtalen art. 3 nr. 4.
-Det følger av arrestordreloven § 7 tredje ledd
-at unntaket bare kommer til anvendelse hvis den
-utstedende stat anser handlingen for å falle inn
-under positivlisten, handlingen i denne staten kan
-straffes med frihetsberøvelse i minst tre år og vedkommende stat heller ikke krever dobbel straffbarhet for tilsvarende handling ved overlevering
-til Norge. Ifølge rundskriv G-02/2020 s. 23 gjelder
-unntaket mellom Norge og Hellas, Kypros,
-Litauen, Nederland, Polen, Portugal, Romania,
-Slovenia, Spania, Ungarn og Østerrike. For de
-øvrige EU-landene utenfor Norden gjelder hovedregelen i § 7 første ledd om dobbel straffbarhet og
-unntaket i annet ledd.
-Unntakene i § 7 annet og tredje ledd gjelder
-ikke dersom handlingen er begått helt eller delvis
-på norsk territorium. Det følger da av § 8 første
-ledd bokstav k at arrestordren skal avslås dersom
-forholdet ikke er straffbart etter norsk rett.
+På den annen side gjelder utlevering og overlevering av lovbrytere rent faktisk det samme; et internasjonalt samarbeid for å overføre en ettersøkt person tilbake til en stat hvor vedkommende har en ikke endelig avsluttet straffesak mot seg eller for soning av en dom. De folkerettslige forpliktelsene, særlig arrestordreavtalene, har en rekke fellestrekk som gjør det mulig å foreslå en felles regulering. Ulikheter mellom regelsettene kan synliggjøres ved en konsekvent begrepsbruk og en ryddig lovstruktur med informative kapittel- og paragrafoverskrifter. For praktikere vil det, i alle fall etter en overgangsperiode, trolig være mest ryddig å ha bare én lov å forholde seg til. En samling av reglene i én lov vil også bidra til at man kan unngå gjentakelser av like eller tilnærmet like bestemmelser, og til at man ved endringer i det ene regelsettet, også vurderer tilsvarende endringer i det andre. Slik kan også utilsiktede forskjeller mellom regelsettene unngås. Etter ikrafttredelsen av parallellavtalen er det dessuten relativt få utleveringssaker igjen. Én lov vil etter utvalgets syn samlet sett bidra til å redusere antallet lover og bestemmelser på rettsområdet, noe som også kan gi en klarere regelverksstruktur og bidra til større regelverks- og systemforståelse.
 
-Kravet til dobbel straffbarhet i § 7 første ledd
-er en obligatorisk avslagsgrunn som retten skal
-prøve. Dersom forholdet ikke er straffbart i
-Norge, og unntakene i annet og tredje ledd ikke
-kommer til anvendelse, skal arrestordren avslås.
-Gjelder arrestordren flere forhold, hvorav ett ikke
-er straffbart etter norsk lov og unntakene ikke
-kommer til anvendelse, må overleveringen
-begrenses til bare å gjelde de forholdene som oppfyller kravet til dobbel straffbarhet.
-Overlevering for flere straffbare forhold kan
-skje selv om forholdene ikke oppfyller kravet til
-strafferamme eller idømt reaksjon i § 6 første
-ledd, såfremt forholdene er straffbare etter norsk
-lov, jf. annet ledd. Mens utlevering for mindre forhold alene kan være for inngripende, vil ikke
-samme hensyn gjøre seg gjeldende når forholdene inngår i en større sak som også omfatter
-mer alvorlige forhold, jf. Prop. 137 LS (2010–2011)
-s. 16.
+*Utvalget vil derfor anbefale* at reglene for utlevering og overlevering samles i én felles lov. Samlet sett vil etter utvalgets syn én felles lov være best egnet til å oppfylle mandatets målsetting om en klar og tilgjengelig lov, som ivaretar rettssikkerhet og menneskerettigheter og tar høyde for fremtidig utvikling på området.
 
-8.2.2.2 Folkerettslige rammer
-Parallellavtalen art. 3 nr. 1 og 2 fastslår at det i
-utgangspunktet gjelder et krav til dobbel straffbarhet ved overlevering etter en arrestordre. Artikkel
-3 bygger på EUs rammebeslutning art. 2 nr. 1 og 4,
-men det er enkelte forskjeller mellom bestemmelsene. Parallellavtalens krav til strafferamme og
-lengde av idømt frihetsberøvende reaksjon er
-behandlet i punkt 8.3.2.2.
-I art. 3 nr. 3 fremgår det at kravet til dobbel
-straffbarhet ikke skal gjelde for enkelte former for
-medvirkning til kriminell virksomhet. Bestemmelsen har ikke noe motstykke i EUs rammebeslutning.
-Artikkel 3 nr. 4 angir at Norge og Island på
-den ene siden og EU på den andre siden kan
-erklære at kravet til dobbel straffbarhet ikke skal
-gjelde for visse opplistede handlinger, under forutsetning av at de i den utstedende stat kan straffes
-med frihetsberøvelse i tre år eller mer. Erklæringen skal gjelde på gjensidig grunnlag. Norge har
-avgitt slik erklæring, og den kan ikke trekkes tilbake, jf. art. 38 nr. 2. Listen over handlinger omtales som «positivlisten», og inneholder de samme
-lovbruddene der kravet til dobbel straffbarhet er
-avskaffet innad i EU, jf. EUs rammebeslutning
-art. 2 nr. 2. EU-domstolen har i storkammerdommen 3. mai 2007 i sak C-303/05 Advocaten voor de
-Wereld avsnitt 54 konkludert med at art. 2 nr. 2
-ikke krenker legalitetsprinsippet.
-I parallellavtalen art. 5 nr. 1 bokstav a er det
-presisert at vilkåret om dobbel straffbarhet ikke
-gir grunnlag for å avslå en arrestordre fordi lovgi-
+## Lovstruktur og lovteknikk
 
-[Side 69]
+Utvalget foreslår *én lov* om utlevering og overlevering til og fra Norge.
 
-NOU 2022: 15
-Utleverings- og arrestordreloven
+Lovutkastet er utformet i tråd med anbefalingene i veilederen «Lovteknikk og lovforberedelse».
 
-vingen i den iverksettende stat ikke foreskriver
-samme type skatt eller avgift. Presiseringen svarer i det vesentlige til art. 2 i annen tilleggsprotokoll til utleveringskonvensjonen. Artikkel 5 nr. 1
-bokstav a er ikke direkte gjenspeilet i arrestordreloven. Det ble ikke ansett som nødvendig idet kravet til dobbel straffbarhet må forstås slik at det
-ikke hindrer overlevering for slike fiskale lovbrudd som nevnt i parallellavalen, jf. Prop. 137 LS
-(2010–2011) s. 25. Norge har i samsvar med art. 5
-nr. 2 erklært at den iverksettende myndigheten
-skal avslå en arrestordre i situasjoner som omfattes av art. 5 nr. 1 bokstav a.
-Parallellavtalen regulerer ikke aksessorisk
-utlevering. Det gjør heller ikke EUs rammebeslutning. Det beror på nasjonal lovgivning i de enkelte
-statene om det er anledning til aksessorisk overlevering og rammene for dette.
+Ved utformingen av lovutkastet har det vært sentralt for utvalget å oppfylle målsettingen i mandatet om en ryddig struktur, for at loven skal bli forstått og virke etter hensikten.
 
-8.2.2.3 Utenlandsk rett
-Arrestordrelovgivningen i de nordiske statene,
-Nederland og Tyskland har alle dobbel straffbarhet som grunnvilkår for overlevering til stater i
-EU, med mindre handlingen omfattes av positivlisten og kan medføre fengselsstraff i tre år eller mer
-i den utstedende stat, jf. den danske utleveringsloven 2020 § 13, den islandske arrestordreloven
-2016 § 8, den finske loven om europeisk arrestordre 2003 2 og 3 §§, den svenske loven om europeisk arrestordre 2003 2 kap. 2 §, den nederlandske arrestordreloven 2004 § 7 og den tyske loven
-om internasjonal rettslig bistand i straffesaker
-1982 § 81, jf. § 3.
-Når det gjelder aksessoriske forhold, er det
-større variasjon. Finland og Sverige krever at de
-aksessoriske forholdene er straffbare etter deres
-rett, jf. henholdsvis finsk og svensk arrestordrelov
-4 § og 2 kap. 2 §, mens Danmark og Island ikke
-har tilsvarende krav. Nederland og Tyskland har
-ingen særskilt bestemmelse om aksessoriske forhold.
-I Danmark og Finland er manglende ekstraterritoriell jurisdiksjon en valgfri avslagsgrunn, jf.
-den danske utleveringsloven 2020 § 15 og den finske loven om europeisk arrestordre 2003 6 § nr. 8.
-8.2.2.4
+Lovutkastet består av 10 *kapitler* og 76 *paragrafer*.
 
-Utvalgets vurderinger
+Paragrafene er *nummerert fortløpende.* En kapittelvis nummering etter norsk eller svensk modell, ville etter utvalgets syn gitt en uoversiktlig struktur.
 
-Parallellavtalen art. 3 legger føringer for utvalgets
-vurderinger, se punkt 8.2.2.2. Bestemmelsen er i
-dag gjennomført i arrestordreloven § 6 første ledd
-og § 7 sammenholdt med arrestordreforskriften
-§ 6. Med unntak av den mulige uklarheten i
-arrestordreloven § 6 første ledd bokstav a som
+Paragrafene har *overskrifter*.
 
-67
+Når en paragraf har flere ledd, er hvert ledd innledet med et *leddnummer* i parentes. Det er snakk om nummerering av leddene, ikke om nummer i en opplisting.
 
-Kapittel 8
+Ved opplisting er det brukt *bokstavlister*. Dersom det har vært behov for flere nivåer i en bokstavliste, er det brukt *nummerlister*.
 
-gjelder overlevering av utilregnelige lovbrytere til
-strafforfølgning, er utvalget ikke kjent med innvendinger mot reglene eller behov for å endre
-dem. Utvalget foreslår derfor å videreføre arrestordreloven §§ 6 og 7, men som én bestemmelse,
-jf. lovutkastet § 21. Også for utlevering til stater
-utenfor EU og Norden og overlevering til Norden
-foreslår utvalget én bestemmelse, jf. lovutkastet
-§§ 12 og 31.
-Når det gjelder begrunnelse for en hovedregel
-om dobbel straffbarhet og det nærmere innholdet
-i vilkåret, vises det til omtalen av det parallelle vilkåret i utleveringssaker, som har overføringsverdi
-til overleveringssaker, se punkt 8.2.1. Begrunnelsen for og betydningen av unntakene i parallellavtalen art. 3 nr. 3 og nr. 4 er redegjort utførlig for i
-Prop. 137 LS (2010–2011) s. 21–23, og utvalget
-viser til dette.
-I tillegg foreslår utvalget å klargjøre at også
-utilregnelige lovbrytere kan overleveres til strafforfølgning. Dagens mulige uklarhet knytter seg
-til bruken av begrepet «straffeforfølging» i arrestordreloven § 6 første ledd bokstav a. For overlevering til fullbyrding etter § 6 første ledd bokstav b
-er det ingen tilsvarende uklarhet. Parallellavtalen
-art. 3 nr. 1 angir at en arrestordre kan utstedes for
-handlinger som i den utstedende stat er belagt
-med «frihetsstraff eller annen frihetsberøvelse».
-Dette omfatter også overlevering av utilregnelige.
-Utvalget finner det ikke naturlig å bruke et annet
-begrep enn «strafforfølgning». Så lenge ordlyden
-angir at det er tale om overlevering til strafforfølgning som kan resultere i enten fengselsstraff eller
-annen frihetsberøvende reaksjon, og det er klart
-at bestemmelsen gjennomfører art. 3 nr. 1, legger
-utvalget til grunn at hjemmelen er tilstrekkelig
-klar.
-Positivlisten i parallellavtalen art. 3 nr. 4 og
-EUs rammebeslutning art. 2 nr. 2 består av 32
-punkter. I arrestordreforskriften § 6 har den 33
-punkter. Det skyldes at parallellavtalen art. 3 nr. 4
-punkt 14 (drap, grov kroppsskade) er delt opp i to
-punkter i forskriften. Med unntak av Nederland,
-som har 31 punkter, har de andre statene som
-utvalget har sett hen til 32 punkter i positivlisten.
-Utvalget anbefaler at punktene som inntas i forskrift til loven harmoniseres med positivlistens 32
-punkter.
-Parallellavtalen har ingen bestemmelse om
-overlevering for aksessoriske forhold. Arrestordreloven § 6 annet ledd tillater overlevering for
-aksessoriske forhold såfremt de aksessoriske forholdene er straffbare etter norsk lov, med mindre
-unntakene i § 7 annet og tredje ledd kommer til
-anvendelse.
+Når det gjelder *språket*, er det tatt sikte på å bruke et enkelt og klart språk. Det har vært en særlig målsetting å bruke et likt språk i utleverings- og arrestordreglene, men samtidig bevare enkelte begreper som definerer forskjeller mellom systemene.
 
-[Side 70]
+## Forskriftsregulering
 
-68
+### Gjeldende rett
 
-NOU 2022: 15
+Etter *utleveringsloven* § 23 b kan Kongen gi nærmere forskrifter om anmodninger til utenlandske myndigheter om bistand til bevisopptak (rettsanmodninger).
 
-Kapittel 8
+Med hjemmel i § 24 a kan Kongen også gi forskrifter om fjernavhør til bruk for straffesak i fremmed stat etter begjæring fra utenlandsk domstol eller annen kompetent myndighet.
 
-Utleverings- og arrestordreloven
+Kongen kan dessuten gi nærmere bestemmelser til gjennomføring av loven, jf. § 28. I de spesielle motivene heter det at «\[m\]an har antatt at gjennomføringsbestemmelser, herunder overgangsbestemmelser, ikke behøver fastsettes i lovs form, men at Kongen bør gis fullmakt til å gi nødvendige bestemmelser av denne art», jf. Ot.prp. nr. 30 (1974–75) s. 48. Utleveringsloven 1908 § 26 annet ledd og den nordiske utleveringsloven 1961 § 19 oppstilte tilsvarende forskriftshjemler.
 
-Utvalget er ikke kjent med at regelen om
-aksessorisk overlevering har medført vansker i
-praksis. Tvert imot synes det å være et praktisk
-behov for en slik regel. Så lenge ett av forholdene
-i arrestordren oppfyller kravet til strafferamme
-eller lengden av idømt frihetsberøvende reaksjon i
-utstedende stat, er det ut fra forholdsmessighetshensyn ikke betenkelig å tillate overlevering også
-for mindre alvorlige forhold. Alle de nordiske statene har dessuten regler om aksessorisk overlevering. Også i utleveringssaker er det regler om
-aksessorisk utlevering. Konsekvensen av ikke å
-ha bestemmelser om dette kan være at utstedende stat ikke får iretteført sine straffesaker mot
-den ettersøkte. Utvalget foreslår derfor å videreføre gjeldende rett.
+Kongen i statsråd har med hjemmel i bl.a. de tre nevnte bestemmelsene i utleveringsloven fastsatt forskrift 14. desember 2012 nr. 1227 om internasjonalt samarbeid i straffesaker. Forskriften regulerer ikke utlevering.
 
-8.2.3
+Straffeprosessutvalget har foreslått å flytte reglene i utleveringsloven kap. V om annen rettshjelp til en ny straffeprosesslov, jf. NOU 2016: 24 Ny straffeprosesslov s. 349 og 684. Dette forslaget omfatter utleveringsloven §§ 23 b og 24 a, som på grunn av avgrensningen i utvalgets mandat ikke vil bli behandlet nærmere i utredningen her.
 
-Overlevering til stater i Norden
+*Arrestordreloven* § 5 første ledd bestemmer at en arrestordre skal føres i skjema som oppgitt i forskrift til loven.
 
-8.2.3.1 Gjeldende rett
-Arrestordreloven oppstiller i utgangspunktet ikke
-krav til dobbel straffbarhet for overlevering til en
-nordisk stat. Begrunnelsen for dette er at de nordiske rettssystemene er preget av relativt stor
-rettsenhet, og at beskrivelsen av straffebudene
-stort sett er like, jf. Ot.prp. nr. 39 (2007–2008)
-s. 12. I den tidligere nordiske utleveringsloven
-1961 gjaldt det som hovedregel heller ikke noe
-krav til dobbel straffbarhet. Unntak gjaldt for norske statsborgere og politiske lovbrudd, jf. 1961loven §§ 2 og 4.
-Det eneste unntaket følger av arrestordreloven § 19 første ledd bokstav b, som gjennomfører konvensjon om nordisk arrestordre art. 5
-nr. 2. Dette er formelt sett en egen avslagsgrunn
-og behandles i punkt 8.17.3.
-8.2.3.2 Folkerettslige rammer
-Konvensjon om nordisk arrestordre oppstiller
-som hovedregel ikke krav til dobbel straffbarhet.
-Det er tilstrekkelig at handlingen er straffbar i
-den utstedende stat, jf. art. 2 nr. 1. Iverksettende
-stat skal fullbyrde arrestordren uten kontroll av
-dobbel straffbarhet, jf. nr. 3.
-8.2.3.3
+Etter § 7 tredje ledd første punktum gjelder ikke kravet til dobbel straffbarhet dersom forholdet i den utstedende stat anses som en av handlingene nevnt i forskrift til loven (positivlisten), såfremt det i denne staten kan straffes med fengsel eller annen frihetsberøvende reaksjon i minst tre år, og forutsatt at ikke vedkommende stat selv krever dobbel straffbarhet for overlevering til Norge for tilsvarende forhold. Det følger av tredje ledd annet punktum at departementet gir forskrift om hvilke handlinger kravet til dobbel straffbarhet ikke skal gjelde for på vilkår som nevnt i tredje ledd første punktum.
 
-Nordisk rett
+Med hjemmel i § 14 åttende ledd kan departementet gi forskrift om samtykke som nevnt i bestemmelsens annet ledd. Det betyr at det kan fastsettes nærmere regler om den ettersøktes samtykke til overlevering.
 
-Ingen av de nordiske statene har krav til dobbel
-straffbarhet som vilkår for overlevering til en
-annen nordisk stat. Samtlige lover fastslår imidlertid at overlevering skal eller kan nektes for
-forhold som er begått helt eller delvis på eget
+Kongen i statsråd kan dessuten gi nærmere regler om ordningen av påtalemyndigheten, jf. straffeprosessloven § 62.
 
-territorium og som ikke er straffbare etter egen
-rett.
+Kongen i statsråd har med hjemmel i arrestordreloven §§ 5 og 7 samt straffeprosessloven § 62 fastsatt forskrift 18. oktober 2019 nr. 1388 til arrestordreloven (arrestordreforskriften).
 
-8.2.3.4 Utvalgets vurderinger
-Konvensjon om nordisk arrestordre art. 2 legger
-rammen for utvalgets vurdering. Artikkelen fastslår utgangspunktet om at det ikke gjelder krav til
-dobbel straffbarhet for overlevering til en annen
-nordisk stat. Det er ingen bestemmelse i arrestordreloven som uttrykker dette direkte. Utvalget er
-ikke kjent med at det er fremsatt kritikk mot løsningen. Utvalget foreslår å videreføre gjeldende
-rett.
-Det eneste unntaket er der forholdet helt eller
-delvis er begått i Norge eller andre områder
-underlagt norsk jurisdiksjon, og ikke er straffbart
-etter norsk rett, jf. arrestordreloven § 19 første
-ledd bokstav b, som gjennomfører konvensjonen
-art. 5 nr. 2. Regelen foreslås videreført som en
-valgfri avslagsgrunn i lovutkastet § 34, se punkt
-8.17.3.
+*Arrestordreforskriften* inneholder regler om utforming av arrestordrer i et skjema som er vedlagt forskriften (arrestordreloven § 5 første ledd), hvem i påtalemyndigheten som kan avgjøre og utstede en nordisk eller nordisk-europeisk arrestordre (straffeprosessloven § 62), positivlisten (arrestordreloven § 7 tredje ledd) og regler om unntak fra kravet til dobbel straffbarhet (arrestordreloven § 7 tredje ledd annet punktum). Det er ikke fastsatt forskrift om den ettersøktes samtykke til overlevering i medhold av arrestordreloven § 14 åttende ledd. Arrestordreforskriften § 4 første ledd bestemmer imidlertid hvem i påtalemyndigheten som har kompetanse til å avgjøre om en nordisk-europeisk arrestordre skal etterkommes i tilfeller hvor den ettersøkte har samtykket til overlevering, jf. arrestordreloven § 14 tredje ledd.
 
-8.3
+### Utvalgets vurderinger
 
-Krav til strafferamme eller reaksjon
+Utvalget viser til at utlevering og overlevering er inngrep som krever hjemmel i lov.
 
-8.3.1
+Et naturlig utgangspunkt er derfor at regler som har en side til *legalitetsprinsippet*, bør gis i lovs form, jf. Lovteknikk og lovforberedelse s. 19 flg. Den ettersøktes rettssikkerhet vil formentlig bli best ivaretatt gjennom lovregulering. Lover er generelt mer tilgjengelige enn forskrifter, og blir som regel utarbeidet etter en mer omstendelig og demokratisk prosess enn forskrifter. Så vel hensynet til de ettersøkte som til rettsanvenderne taler for at de fleste og mest sentrale reglene gis i lovs form. Dette gjelder f.eks. vilkårene for utlevering og overlevering, og annet som har betydning for den enkeltes rettigheter og plikter. En slik regulering vil også være i tråd med norsk rettstradisjon, jf. Innst. S nr. 296 (1995–96).
 
-Utlevering
+Reglene om utlevering og overlevering til og fra Norge bør etter utvalgets syn som nevnt samles i én felles lov. Hensynet til en enhetlig lovgivning taler for at reglene samles i denne loven, og at bruken av forskrift begrenses.
 
-8.3.1.1 Gjeldende rett
-Utlevering til strafforfølgning er betinget av at
-handlingen, eller en tilsvarende handling, kan
-medføre «fengsel i mer enn 1 år» etter norsk lov,
-jf. utleveringsloven § 3 første ledd. I utleveringsloven 1908 § 2 var kravet at handlingen kunne medføre strengere straff enn fengsel i ett år.
-Ved utlevering til straffullbyrding krever utleveringsloven § 3 første ledd annet punktum at dommen går ut på «frihetsstraff eller anbringelse i
-anstalt i et tidsrom av minst 4 måneder, eller [… at]
-det med heimel i dommen er truffet eller kan treffes bestemmelse om slik anbringelse». Frihetsstraff er fengsel og forvaring, mens anstalt omfatter
-særreaksjoner som ilegges utilregnelige, som overføring til tvungent psykisk helsevern eller tvungen
-omsorg etter straffeloven § 30 bokstav c og d.
-Utleveringsloven 1908 hadde ikke noe tilsvarende
-minstekrav til reaksjonens lengde. Kravet gjennomfører utleveringskonvensjonen art. 2 nr. 1. Konvensjonen er nærmere omtalt i punkt 8.3.1.2.
-Kravet til strafferamme må være oppfylt også
-ved utlevering til fullbyrding av dom, jf. Ot.prp.
-nr. 30 (1974–75) s. 27. I 2018 behandlet Høyesterett en sak om utlevering til fullbyrding av en
-polsk dom på ni måneder fengsel for flere narkotikalovbrudd (HR-2018-581-U). Den ettersøkte
+Det vil samtidig kunne være behov for å regulere enkelte spørsmål i forskrift. Regler av mer *praktisk og administrativ art*, som knytter seg til aktørenes arbeid med sakene i større grad enn til den ettersøktes og andres personers rettigheter, er mer egnet for regulering i forskrift eller rundskriv. Dette gjelder ikke minst fordi det kan bli behov for å endre saksbehandlingsrutiner uten at det anses nødvendig eller hensiktsmessig å involvere Stortinget. Endringer som må legges fram for Stortinget gjennom en lovproposisjon, kan som oftest ikke gjennomføres særlig raskt, og krever normalt en omstendelig lovgivningsprosess. Utvalget anser det derfor som en fordel at detaljregler av mer praktisk art, kan fastsettes av Kongen i statsråd eller departementet.
 
-[Side 71]
+Det er et lovteknisk spørsmål om forskriftshjemlene bør inntas i de aktuelle bestemmelsene eller samles i én fellesbestemmelse. Utvalget har funnet det mest hensiktsmessig og informativt å plassere de enkelte forskriftshjemlene i de relevante bestemmelsene. Med denne reguleringsformen vil det fremgå klart av de aktuelle bestemmelsene at det ved forskrift kan fastsettes supplerende eller avvikende regler.
 
-NOU 2022: 15
-Utleverings- og arrestordreloven
+Det er i dag gitt forskriftshjemler for kravene om utfylling av arrestordreskjemaer, og for reglene om hvem i påtalemyndigheten som er kompetent til å utstede og avgjøre arrestordrer. Regler i denne kategorien mener utvalget at det fortsatt er grunn til å gi i forskrift. Det samme gjelder de nevnte unntakene fra krav til dobbel straffbarhet, som utvalget anbefaler at harmoniseres med positivlistens 32 punkter.
 
-hadde ved seks tilfeller delt en marihuanasigarett
-med kjæresten. Høyesteretts ankeutvalg subsumerte forholdet under legemiddelloven § 31, som
-har strafferamme «bøter eller fengsel inntil 6
-måneder». Kravet til strafferamme i utleveringsloven § 3 første ledd var følgelig ikke oppfylt, og
-utlevering kunne ikke skje.
-Ved utlevering til fullbyrding av dom kan det
-stilles spørsmål ved om det er lengden av den
-idømte reaksjonen eller resttid som gjenstår å
-sone som må være «minst 4 måneder». I LE-2010150688, som gjaldt utlevering til Polen, lød den
-polske dommen på seks måneder fengsel, mens
-det gjensto i overkant av tre måneder å sone. Lagmannsretten kom til at det var lengden på den
-opprinnelige fengselsstraffen som er avgjørende.
-Lagmannsretten viste til klar ordlyd i § 3 og at det
-ikke er rettskildemessig dekning hverken i forarbeidene, rettspraksis eller teori for å innfortolke
-et krav om at det likevel ikke er adgang til å gjennomføre en utlevering der resttiden er mindre
-enn fire måneder. Anken til Høyesterett ble forkastet, jf. HR-2010-1830-U. Også i RG 2010 s. 1560
-kom lagmannsretten til at det var lengden på
-idømt reaksjon som er avgjørende. Det ble påpekt
-at firemånederskravet er utslag av kravet til alvorlighet, og at dette gjenspeiles av den samlede frihetsstraff som er fastsatt, ikke av resttiden der en
-del av dommen er sonet. Anken til Høyesterett ble
-forkastet, jf. HR-2010-1975-U.
-Det synes å være uklart om strafferammekravet må være oppfylt på handlings- og/eller utleveringstidspunktet. Forarbeidene inneholder ikke
-uttalelser om dette. Spørsmålet fikk særlig betydning etter at den nye straffeloven trådte i kraft i
-2015. Høyesterett har ikke uttrykkelig tatt stilling
-til spørsmålet, men det foreligger noen lagmannsrettsavgjørelser av interesse. LE-2020-66103 gjaldt
-utlevering til Serbia for bæring av pistol på offentlig sted. Lovbruddet var begått før ikrafttredelsen
-av straffeloven 2005, mens den serbiske dommen
-var avsagt etter ikrafttredelsen. Lagmannsretten
-la til grunn at straffeloven 2005 § 3 kom til anvendelse uten noen nærmere drøftelse. I LB-2018146950, som gjaldt utlevering til Polen, uttalte lagmannsretten at det var någjeldende straffelov som
-var relevant, selv om handlingene ble begått da
-straffeloven 1902 fortsatt gjaldt.
-Ruud mfl. drøfter problemstillingen på s. 25:
-«Betraktningen om at man skal legge til grunn
-strafferammen for handlingen dersom den var
-begått i Norge, tilsier at straffeloven § 3 gis
-anvendelse på samme måte som om det hadde
-vært en norsk straffesak. Det innebærer at det
+Forholdene det er aktuelt å regulere i forskrift, er etter utvalgets syn ikke av en slik at art at de tilsier at forskriftene alltid bør fastsettes av Kongen i statsråd. Utvalget anbefaler derfor at kompetansen til å fastsette forskrifter legges til *Kongen*. Dette innebærer at kompetansen kan delegeres fra Kongen til departementet, men er heller ikke til hinder for at forskrift fastsettes av Kongen i statsråd.
 
-69
+Utvalget har ikke utarbeidet et utkast til forskrift.
 
-Kapittel 8
+## Begrepene
 
-som hovedregel er strafferammen på gjerningstiden som skal legges til grunn, med mindre den nye loven gir en gunstigere løsning for
-siktede, og den lavere strafferammen dessuten
-skyldtes et endret syn på bruken av strafferettslige reaksjoner. På den annen side kan det
-anføres at utleveringslovens regler er av prosessuell karakter, slik at det er reglene på utleveringstidspunktet som skal være avgjørende.
-Som Høyesterett påpekte i Rt. 2014 s. 680
-avsnitt 9, er vilkåret om dobbel straffbarhet
-beslektet med legalitetsprinsippet. Dette tilsier
-at det er gjerningstidens strafferamme som må
-anvendes, og at unntakene i straffeloven § 3
-bør gis anvendelse når vilkårene for det er oppfylt. HR-2018-581-U synes å gi en viss støtte for
-denne løsningen, selv om problemstillingen
-ikke var til behandling for Høyesterett. Saken
-gjaldt en utleveringsbegjæring for en dom for
-narkotikalovbrudd i 2008, og ankeutvalget
-viste til ‘straffelova 1902 § 162 første ledd, som
-svarar til straffelova 2005 § 231 første ledd’. I
-LB-2018-146950 og LB-2019-108761 la Borgarting lagmannsrett derimot til grunn at det er
-den nye straffeloven som får anvendelse.
-Spørsmålet kom ikke på spissen, da både ny og
-gammel straffelov oppfylte strafferammekravet
-etter utleveringsloven § 3. Mathisen s. 223–224,
-som lagmannsretten viste til, synes å legge til
-grunn at det er dagens lovgivning som må
-anvendes, uavhengig av når handlingen ble
-begått. Spørsmålet er imidlertid ikke nærmere
-drøftet, og de rettskilder som er kommet til i
-ettertid trekker i retning av at straffeloven § 3
-må gis anvendelse. HR-2020-1701-U synes å gi
-støtte for at § 3 gis anvendelse. Avgjørelsen
-gjaldt en arrestordre, men det må legges til
-grunn at spørsmålet løses på samme måte ved
-utlevering. Ankeutvalget uttalte at det er handlingstidens regler som må legges til grunn ved
-krav om straffbarhet, og at det i tillegg kreves
-at forholdet er straffbart på overleveringstidspunktet (avsnitt 21 og 32). Avgjørelsen reiser
-spørsmål om også strafferammekravet må
-være oppfylt både på gjerningstiden og utleveringstidspunktet. Spørsmålet har praktisk
-betydning der strafferammen ikke er oppfylt
-etter den nye loven, men hvor redusert strafferamme ikke skyldes endret syn på bruk av
-strafferettslige reaksjoner. I slike tilfeller følger
-det av straffeloven § 3 at det er handlingstidens
-strafferammer som får anvendelse. Det er imidlertid ikke gitt at vilkåret om strafferamme skal
-løses på samme måte som krav om straffbar-
+### Innledning
 
-[Side 72]
+I dette punktet redegjøres det for sentrale ord og uttrykk i utleveringsretten, og utvalget anbefaler hvilke begreper som bør benyttes i den nye loven. Anbefalingene er oppsummert i punkt 6.6.7.
 
-70
+### Utlevering og overlevering
 
-NOU 2022: 15
+*Utlevering* («extradition») og *overlevering* («surrender») brukes om overføring av personer som er ettersøkt med sikte på strafforfølgning eller straffullbyrding fra oppholdsstaten til en annen stat.
 
-Kapittel 8
+I Norge har *utlevering* vært brukt som begrep for slike overføringer i mer enn 100 år, jf. i dag utleveringsloven § 1 første punktum, arrestordreloven § 4 bokstav d og en rekke folkerettslige avtaler Norge er part i. Gjeldende lovregler finnes i utleveringsloven, som kommer til anvendelse i saker mellom Norge og stater *utenfor EU og Norden*.
 
-Utleverings- og arrestordreloven
+Overføring mellom Norge og stater *innenfor* *EU og Norden* reguleres i arrestordreloven og kalles *overlevering*, jf. arrestordreloven § 1 og utleveringsloven § 1 annet punktum. Begrepet stammer fra EUs rammebeslutning og er videreført i konvensjon om nordisk arrestordre og parallellavtalen. Det refererer til arrestordresystemet, markerer et systemskifte fra utleveringsreglene til et enklere og raskere system og fremhever prinsippet om gjensidig anerkjennelse av avgjørelser, jf. Ot.prp. nr. 39 (2007–2008) s. 12 og 29 og Prop. 137 LS (2010–2011) s. 6–7.
 
-het, hvor de hensyn som ligger til grunn for
-legalitetsprinsippet, står sterkere.»
-I utleveringsloven § 3 annet ledd er Kongen gitt
-anledning til å inngå folkerettslige avtaler om utlevering selv om frihetsberøvelsen som er ilagt eller
-kan ilegges, er av kortere varighet enn fastsatt i
-første ledd. Departementet pekte på at det kunne
-tenkes behov for å inngå en slik avtale med stater
-Norge har særlig nært samkvem med, men var i
-tvil om det var noe vesentlig behov for en slik
-regel, jf. Ot.prp. nr. 30 (1974–75) s. 27. Hjemmelen
-er ikke benyttet ofte, men ble bl.a. brukt ved Norges gjennomføring av FNs konvensjon 15. desember 1997 om bekjempelse av terroristbombing, se
-nærmere Mathisen s. 244–245.
-Bestemmelsens tredje ledd regulerer aksessorisk utlevering. Gjelder utleveringssaken flere
-handlinger, kan utlevering skje selv om bare en av
-dem oppfyller kravet i første ledd til strafferamme
-eller idømt frihetsberøvelse, såfremt de andre
-handlingene kan straffes med frihetsberøvelse
-etter norsk og anmodende stats rett.
+Island, Nederland og Sverige benytter ulike begreper for overføringer til og fra stater i og utenfor EU og Norden. I disse statene er reglene gitt i to eller flere lover. Danmark, Finland og Tyskland bruker derimot ett fellesbegrep. Finland har tre lover med ulikt virkeområde, mens de andre statene har samlet reglene i én lov.
 
-8.3.1.2 Folkerettslige rammer
-Utleveringskonvensjonen art. 2 nr. 1 bestemmer at
-utlevering skal finne sted for handlinger som er
-belagt med frihetsstraff eller sikring i minst ett år
-etter både den anmodende og anmodede stats
-interne rett. Fordi utleveringsloven 1908 § 2
-krevde at handlingen ville kunne straffes med
-fengsel i mer enn ett år, tok Norge forbehold til
-art. 2 ved undertegningen av konvensjonen, jf.
-Ot.prp. nr. 30 (1974–75) s. 10.
-Da utleveringsloven 1975 ble utarbeidet, ble
-det vurdert om kravet burde senkes til fengsel i
-minst ett år, for på den måten å være i samsvar
-med utleveringskonvensjonen art. 2 nr. 1. Departementet kom imidlertid til at en slik utvidelse av
-utleveringsadgangen ville innebære at utlevering
-kunne skje for en rekke forhold av mindre alvorlig
-karakter, og at det ville være prinsipielt uheldig.
-Det ble også vist til at de andre nordiske statene
-hadde tilsvarende krav til strafferamme som
-Norge, jf. Ot.prp. nr. 30 (1974–75) s. 27.
-Artikkel 2 nr. 1 angir videre at hvis saken gjelder idømt fengselsstraff eller sikring, «the punishment awarded must have been for a period of at
-least four months». I den forklarende rapporten til
-utleveringskonvensjonen fremgår det av kommentarene til art. 2 på s. 5 at kravet til strafferamme
-også gjelder ved utlevering til fullbyrding av dom.
-I en anbefaling fra Europarådets ministerkomité (No. R (80) 7, 27. juni 1980) oppfordres
+Utvalgets forslag om å samle reglene om utlevering og overlevering i én lov kan tale for å benytte ett fellesbegrep. I samme retning trekker det at utlevering og overlevering språklig sett betyr det samme, og at det rent faktisk er det samme som skjer, selv om regelsettene angir ulike prosedyrer og vilkår for overføring.
 
-statene til å gjøre en vurdering av hvorvidt det vil
-være forholdsmessig å initiere en utleveringssak i
-hvert enkelt tilfelle. Om utlevering til soning av
-dom heter det: «In the case of enforcement of a
-sentence or detention order, the requesting state
-should apply the same principle of proportionality,
-particularly where the remainder of the sanction
-to be served does not exceed a period of four
-months».
-Utleveringskonvensjonen art. 2 nr. 2 åpner for
-aksessorisk utlevering, gitt at det aktuelle forholdet er belagt med frihetsstraff eller sikring i både
-den anmodende og anmodede stat. Årsaken er at
-forholdsmessighetshensynet som ligger bak strafferammekravet i art. 2 nr. 1 ikke slår til med
-samme kraft når en av handlingene oppfyller
-alvorlighetskravet. I den forklarende rapporten
-påpekes det på s. 5:
-«In this case the person in question ought not
-to escape prosecution for lesser offences which
-he has also committed. Moreover, accessory
-extradition would enable the courts of the
-requesting country to take into consideration
-all the offences of which the extradited person
-was accused, so that a comprehensive judgment could be passed on him. The penalty thus
-inflicted would, in several countries, be less
-than the sum of the penalties which might be
-imposed for each offence separately.»
-Artikkel 1 i annen tilleggsprotokoll til utleveringskonvensjonen åpner for aksessorisk utlevering
-også for bøteforhold. Norge er tilsluttet tilleggsprotokollen, men har tatt forbehold mot art. 1. I
-kongelig resolusjon 17. oktober 1986 er begrunnelsen for forbeholdet angitt slik:
-«En slik ordning strider mot den norske utleveringsloven § 3 nr 3. Det kreves her, selv ved
-aksessorisk utlevering, at handlingen så vel i
-Norge som i den anmodende stat er belagt med
-fengselstraff eller anbringelse i anstalt. Det er
-riktignok i loven § 3 nr 2 åpnet adgang til å
-inngå avtaler for handlinger med lavere strafferamme. Men denne bestemmelsen må forstås
-slik at det ikke er hjemmel for å åpne adgang til
-å inngå avtaler om utlevering for aksessoriske
-handlinger som i den anmodede stat ikke kan
-medføre frihetsstraff. Som et generelt synspunkt synes det dessuten rimelig å legge til
-grunn at utleveringsinstituttet bør reserveres
-for de relativt grovere lovbrudd, og at saken
-derfor ikke bør kompliseres ved at man må ta
-stilling til mer beskjedne lovovertredelser.»
+På den annen side er overlevering et innarbeidet begrep i Norge, som ved gjennomføringen av arrestordrereglene ble tatt i bruk fra første stund. De forskjellige tradisjonene taler med styrke for å videreføre begge begrepene.
+
+Regulering i én lov kan samtidig være et argument for å bruke to ulike begreper, ettersom fellesregulering kan forsterke behovet for språklige virkemidler som skiller regelsettene fra hverandre. To begreper vil gjøre det enklere for brukerne å orientere seg i den nye loven med tilhørende internasjonale rettskilder. Samtidig vil begrepet overlevering markere det systemskiftet som fant sted ved innføring av arrestordrereglene.
+
+Utvalget anbefaler derfor å videreføre begrepene utlevering og overlevering i den nye loven.
+
+For fullstendighetens skyld tilføyes det at *overføring* også benyttes både om soningsoverføring, om selve overføringen av en person eller ting i utleveringsretten, og ellers om overføring av strafforfølgning etter lov 25. mars 1977 nr. 22 om overføring av straffeforfølging fra eller til annet europeisk land.
+
+### Utleveringsbegjæring, arrestordre og nordisk arrestordre
+
+Utleverings- og arrestordreprosessene innledes formelt ved at det sendes henholdsvis en anmodning (utleveringsbegjæring) eller et krav (arrestordre) fra en stat til en annen.
+
+Utleveringsloven regulerer utlevering etter begjæring fra eller til en stat utenfor EU og Norden, dvs. en *utleveringsbegjæring* («request for extradition»), jf. utleveringsloven og arrestordreloven § 4 bokstav d.
+
+Arrestordreloven gjelder overlevering på grunnlag av en nordisk-europeisk arrestordre eller nordisk arrestordre fra eller til en stat henholdsvis i EU utenfor Norden eller i Norden. En *arrestordre* er en avgjørelse truffet av kompetent myndighet i en stat i EU, Island eller Norge om at en annen av de nevnte statene skal pågripe og overlevere en person som er ettersøkt for strafforfølgning eller straffullbyrding, jf. § 4 bokstav a. I arrestordreloven kap. 1, 6, 7 og 8 er arrestordre brukt som fellesbetegnelse for nordisk-europeiske og nordiske arrestordrer. I parallellavtalen art. 11 nr. 1 bokstav c er «arrestordre» dessuten brukt om pågripelsesbeslutningen som det skal vises til i arrestordren.
+
+I de spesielle motivene til arrestordreloven § 4 bokstav a i Prop. 137 LS (2010–2011) s. 50 uttales det om forskjellen mellom en arrestordre og en utleveringsbegjæring:
+
+«Ein arrestordre vil svare til eit utleveringskrav i den forstand at den innleiar prosessen. Men mens eit utleveringskrav formelt berre er ei oppmoding til ein annan stat, er arrestordren ein ordre om pågriping med tanke på påfølgande overlevering som skal settjast i verk om ikkje det ligg føre ein avslagsgrunn.»
+
+En *nordisk-europeisk arrestordre* er en arrestordre utstedt i samsvar med parallellavtalen. Arrestordrer utstedt i samsvar med EUs rammebeslutning, skal også regnes som nordisk-europeiske arrestordrer, jf. § 4 bokstav b.
+
+En *nordisk arrestordre* er en arrestordre utstedt i samsvar med konvensjon om nordisk arrestordre. En nordisk-europeisk arrestordre som er utstedt av en stat i Norden, skal også regnes som en nordisk arrestordre etter arrestordreloven, jf. § 4 bokstav c.
+
+Med ett unntak anbefaler utvalget å videreføre definisjonene i arrestordreloven § 4. Utvalget erfarer nemlig at begrepene nordisk-europeisk arrestordre og nordisk arrestordre har bydd på utfordringer i praksis. Av den grunn anbefales det å gå bort fra begrepet nordisk-europeisk arrestordre, slik at disse heretter bare kalles *arrestordrer*.
+
+«Nordisk-europeisk arrestordre» brukes ikke i parallellavtalen. I praksis brukes arrestordre («arrest warrant» (AW)) om nordisk-europeiske arrestordrer, mens europeisk arrestordre («European arrest warrant» (EAW)) brukes om arrestordrer mellom EU-stater og fra disse til Norge og Island. *Nordisk arrestordre* («Nordic arrest warrant» (NAW)) brukes derimot i konvensjon om nordisk arrestordre. Utvalget ser på denne bakgrunn den foreslåtte endringen som en ubetenkelig forenkling.
+
+Utvalget har også vurdert om anmodningene og kravene kan forenes under et felles begrep, f.eks. «anmodninger», «begjæringer» eller «krav». Ettersom utvalget foreslår å skille mellom regelsettene og tar hensyn til festnet terminologi for å markere skillet, taler vektige grunner for å opprettholde sondringen mellom utleveringsbegjæringer og ulike typer arrestordrer. De betydelige forskjellene mellom systemene taler for det samme. Etter utvalgets syn er det derfor ikke tilstrekkelige grunner for en slik harmonisering.
+
+### Anmodende og anmodede stat samt utstedende og iverksettende stat
+
+Staten som fremmer en utleveringsbegjæring, kalles som oftest *anmodende stat* («requesting State/Party»). Begrepet benyttes bl.a. i utleveringsloven, utleveringskonvensjonen og bilaterale utleveringsavtaler. Begjærende stat, rekvirerende stat og senderstat er andre mindre brukte begreper for denne staten.
+
+*Anmodede stat* («requested State/Party») brukes som regel om staten som mottar en utleveringsbegjæring. Begrepet forekommer ikke i utleveringsloven, men er brukt i konvensjoner og utleveringsavtaler. Mottakerstat og utleverende stat er mindre brukte begreper for samme stat.
+
+I arrestordresammenheng brukes vanligvis *utstedende stat*, utferdigende stat eller utstederlandet («issuing State») om staten som utsteder en arrestordre, se bl.a. arrestordreloven, EUs rammebeslutning, konvensjon om nordisk arrestordre og parallellavtalen.
+
+Staten som behandler en arrestordre, kalles i de nevnte rammeverkene *iverksettende* *stat*, utførende stat eller fullbyrdende stat («executing State»), og ellers mottakerstat.
+
+Gjennomgangen foran viser at det er mange begreper som brukes om de involverte statene i utleverings- og arrestordresaker. En opprydning i begrepsbruken vil formentlig gjøre regelverket mer tilgjengelig og forståelig for praktikerne.
+
+Utvalget har vurdert å foreslå ett begrepspar for begge regelsettene. Anmodende og anmodede stat er innarbeidet i utleveringsretten, og brukes både nasjonalt og internasjonalt. Begrepsparet indikerer en henstilling om bistand fra en stat til en annen. I arrestordresammenheng er begrepsparet byttet ut med utstedende/utferdigende og iverksettende/utførende/fullbyrdende stat, bl.a. for å markere at i stedet for å be om bistand, beordrer statene iverksetting av hverandres rettsavgjørelser. Begrepsparene refererer til forskjellige systemer og rettslige grunnlag. Utvalget anser det derfor mest hensiktsmessig å beholde *to begrepspar*. Dette vil også være et språklig virkemiddel for å skille regelsettene fra hverandre i den nye loven.
+
+Anmodende og anmodede stat kan oppfattes som språklig utdaterte begreper. Mot begrepsparet kan det også innvendes at begrepene er for like hverandre, noe som kan føre til forveksling. Utvalget er imidlertid ikke kjent med at dette har voldt vansker av betydning. Alternativene senderstat og mottakerstat kan på sin side medføre misforståelser, ettersom det kan være uklart om det refereres til om det er en utleveringsbegjæring som sendes eller en person som utleveres. Utvalget har også vurdert å bruke begjærende eller rekvirerende stat om staten som sender begjæringen, men begrepene er lite brukt og har ingen kobling til folkeretten. Anmodende og anmodede stat er som nevnt derimot innarbeidet i utleveringsretten. Utvalget går av den grunn inn for å beholde begrepsparet *anmodende* *stat* og *anmodede* *stat*.
+
+Når det gjelder overlevering, anbefaler utvalget at *utstedende stat* brukes om staten som utsteder en arrestordre, og *iverksettende stat* om staten som behandler den. En slik begrepsbruk harmonerer med de folkerettslige rammeverkene. Utvalget har også vurdert fullbyrdende stat og gjennomførende stat, men mener disse begrepene bør unngås for å unngå forveksling med straffullbyrding og straffegjennomføring.
+
+### Vilkår, betingelser og avslagsgrunner
+
+I dag brukes *vilkår*, *betingelser*, garantier, forsikringer, forbud, nektingsgrunner og *avslagsgrunner* for å beskrive forutsetningene for utlevering eller overlevering. Begrepene benyttes om hverandre uten noe definert meningsinnhold. For eksempel bruker utleveringsloven § 12 første ledd bokstav d «vilkår», samtidig som paragrafen bygger på utleveringskonvensjonen art. 11 om forsikringer, og er beskrevet som en bestemmelse om garantier i forarbeidene og rettsteorien.
+
+*Vilkår* brukes i hovedsak om forutsetninger som må foreligge for at utlevering eller overlevering kan skje. Utleveringsloven krever f.eks. at handlingen saken gjelder, er straffbar både etter anmodende og anmodede stats rett, jf. utleveringsloven §§ 1 og 3. Utleveringskonvensjonen og de bilaterale utleveringsavtalene oppstiller også vilkår for utlevering. Arrestordreloven angir på samme måte vilkår for overlevering.
+
+Utleveringsloven § 12 første ledd angir særskilte vilkår som skal stilles ved utlevering, mens annet ledd gir adgang til å stille andre vilkår. Vilkår er gitt et noe annet meningsinnhold i § 12 enn ellers i loven. Det er i realiteten snakk om en garanti eller forsikring som den anmodende stat må gi for at utlevering skal kunne skje.
+
+Utleveringsloven oppstiller ikke bare vilkår for utlevering, men angir også forhold som er til hinder for utlevering. Norske statsborgere kan f.eks. ikke utleveres, jf. § 2. Dette innebærer et forbud mot utlevering av norske borgere. «Forbud» er brukt i § 8 om forbud mot dobbeltstraff. Slike hindringer omtales gjerne som nektingsgrunner.
+
+Plikten til å overlevere på grunnlag av en arrestordre gjelder ikke når det foreligger en *avslagsgrunn*, som er et annet ord for nektingsgrunn. Arrestordreloven og de folkerettslige rammeverkene den gjennomfører skiller mellom obligatoriske og fakultative/valgfrie avslagsgrunner.
+
+«Forsikring» er brukt i arrestordreloven § 11. Fraværet av en forsikring vil få «karakter av ein obligatorisk avslagsgrunn», jf. Prop. 137 LS (2010–2011) s. 53.
+
+Utvalget har søkt å forenkle bruken av begrepene. Alminnelige forutsetninger for utlevering eller overlevering som følger av loven, bør etter utvalgets syn kalles *vilkår*. Det er slik begrepet i hovedsak har vært brukt, og det er godt innarbeidet.
+
+Spesielle forutsetninger for utlevering eller overlevering som blir fastsatt i den enkelte sak, bør kalles *betingelser*. Utvalget har sett hen til at den danske loven skiller mellom vilkår og betingelser, men riktignok slik at betydningen i Danmark er motsatt av hva som anbefales her.
+
+Utvalget anbefaler å opprettholde skillet mellom vilkår og *avslagsgrunner* i ny lov. Etter utvalgets syn kan man benytte avslagsgrunn også om reglene som bare skal gjelde for utlevering til stater utenfor EU og Norden.
+
+### Den ettersøkte
+
+Personen som er ønsket utlevert eller overlevert blir som oftest omtalt som *den ettersøkte*, se bl.a. utleveringsloven § 21, utleveringskonvensjonen, arrestordreloven, EUs rammebeslutning, konvensjon om nordisk arrestordre og parallellavtalen.
+
+Beslektet med begrepet ettersøkt er «etterlyst» og «etterlysning». En person som er ettersøkt, må ikke nødvendigvis også være etterlyst gjennom Schengen informasjonssystem (SIS) eller Interpol. Utleveringsloven § 20 og arrestordreloven § 25 angår «etterlysing» av personer, se også utleveringskonvensjonen art. 1, konvensjon om nordisk arrestordre art. 8 og parallellavtalen art. 12.
+
+I stater det er naturlig å se hen til, synes «den ettersøkte» å være brukt om personen som er ønsket utlevert eller overlevert, mens «etterlyst» først og fremst knyttes til selve utstedelsen eller registreringen av en etterlysning.
+
+Utvalget anbefaler at «den ettersøkte» brukes om personen som er begjært utlevert eller som en arrestordre eller nordisk arrestordre gjelder. Begrepet bør etter utvalgets syn brukes både ved utlevering og overlevering.
+
+For øvrig finner utvalget grunn til å bemerke at begrepene siktet, tiltalt og domfelt, slik de er brukt i utleveringsretten i dag, må forstås med det meningsinnholdet begrepene er gitt i konvensjonene og prosesslovgivningen.
+
+### Oppsummering
+
+Utvalget anbefaler å opprettholde begrepene *utlevering* og *overlevering*. Videre beholdes *utleveringsbegjæring*, *arrestordre* og *nordisk arrestordre* som begreper, mens begrepet nordisk-europeisk arrestordre utgår. Statene som utsteder og behandler en utleveringsbegjæring, anbefales kalt *anmodende* og *anmodede stat*. Staten som utsteder en arrestordre, bør benevnes *utstedende stat*, mens staten som behandler den, bør kalles *iverksettende stat*. *Vilkår* bør betegne alminnelige forutsetninger for utlevering eller overlevering, mens *betingelser* anbefales brukt om forutsetninger som fastsettes i den enkelte sak. *Avslagsgrunner* foreslås brukt om obligatoriske og valgfrie grunner til å avslå en utleveringsbegjæring eller en arrestordre. Personen som ønskes utlevert eller overlevert, bør omtales som *den ettersøkte*.
+
+# Forholdet til folkeretten
+
+## Gjeldende rett
+
+### Forholdet mellom utleverings- og arrestordrelovgivningen og folkeretten
+
+Det følger av det folkerettslige suverenitetsprinsippet at enhver stat selv avgjør om den vil utlevere en person. Statene kan likevel gjennom folkerettslige avtaler forplikte seg til å utlevere eller overlevere, dersom visse vilkår fastsatt i avtalen er oppfylt.
+
+Det norske rettssystemet bygger på det dualistiske prinsipp, noe som betyr at det kreves en særskilt gjennomføringsakt for at en internasjonal avtale skal anses som intern rett. Ved motstrid mellom folkerettslige regler Norge er bundet av og norsk lov, går loven derfor som hovedregel foran.
+
+Denne hovedregelen modifiseres av det såkalte presumsjonsprinsippet og ved at folkeretten kan gjøres til norsk rett. Presumsjonsprinsippet medfører at utleveringsloven og arrestordreloven så langt det er mulig skal tolkes i samsvar med Norges folkerettslige forpliktelser. I forarbeidene til utleveringsloven, Ot.prp. nr. 30 (1974–75) s. 19, uttales det at det ved vurderingen av bestemmelsene i loven så vidt mulig bør tilstrebes samsvar med utleveringskonvensjonen. Høyesterett viste til dette i Rt. 2010 s. 40 avsnitt 17.
+
+Menneskerettsloven §§ 2 og 3 inkorporerer fem sentrale menneskerettskonvensjoner i norsk rett med forrang foran annen lovgivning, se omtalen av menneskerettskonvensjoner i punkt 4.3 og EMK og andre menneskerettskonvensjoner som avslagsgrunn i punkt 8.5.
+
+Kommer reglene i straffeprosessloven til anvendelse, jf. utleveringsloven § 14 tredje ledd og arrestordreloven § 3, gjelder folkerettsreservasjonen i straffeprosessloven § 4.
+
+Selv om forholdene nevnt ovenfor bidrar til å ivareta Norges folkerettslige forpliktelser, fant man grunn til å innta en generell folkerettsreservasjon i *arrestordreloven § 2*. Bestemmelsen fastsetter at loven gjelder med de begrensningene som er godkjent i folkeretten eller som følger av avtale med fremmed stat, se nedenfor.
+
+*Utleveringsloven* har ingen generell folkerettsreservasjon. Men utleveringsloven § 26 gjelder bl.a. utleveringsavtaler med andre stater. Bestemmelsen fastsetter i annet ledd at det uten hensyn til utleveringsloven kan skje utlevering i det omfang Norge har plikt til det etter overenskomst med fremmed stat inngått før loven trådte i kraft. Se nærmere punkt 12.3.
+
+### Nærmere om folkerettsreservasjonen i arrestordreloven § 2
+
+Arrestordreloven § 2 tilsvarer lignende generelle folkerettsreservasjoner i flere andre lover, slik som straffeprosessloven § 4, straffeloven § 2, tvangsfullbyrdelsesloven § 1-4 og tvisteloven § 1-2.
+
+Både Justisdepartementet og Utenriksdepartementet fant grunn til å innta en generell folkerettsreservasjon i arrestordreloven, jf. Prop. 137 LS (2010–2011) s. 29–30. Utenriksdepartementet viste i denne sammenheng til at dette ville ivareta forholdet til menneskerettsloven og parallellavtalens bestemmelse om immunitet og privilegier.
+
+Arrestordreloven § 2 gjør de folkerettslige begrensningene til en del av norsk rett på lovens område. Bestemmelsen innebærer at ved motstrid mellom folkeretten og arrestordreloven, går folkeretten foran, med mindre legalitetsprinsippet er til hinder for dette. Lovens øvrige regler kan med andre ord ikke anvendes i strid med den folkerettslige regelen, men folkerettsregelen utgjør ikke en selvstendig hjemmel der legalitetsprinsippet etter norsk rett krever lovhjemmel. Bestemmelsen gjelder både for regler som eksisterte da arrestordreloven trådte i kraft, og for nyere folkerettsregler som er bindende for Norge, jf. Ruud mfl. s. 150–151.
+
+Folkerettsreservasjonen gjelder for alle folkerettslige regler Norge er bundet av, enten de følger av folkerettslige sedvanerett eller av traktat eller konvensjon, jf. Prop. 137 LS (2010–2011) s. 49. Her vises det til at dette i første rekke er de to instrumentene som ligger til grunn for loven, dvs. konvensjon om nordisk arrestordre og parallellavtalen. I tillegg vises det særskilt til EMK, SP og folkerettslige begrensninger som følger av bestemmelser om immunitet og privilegier.
+
+Det følger som nevnt allerede av menneskerettsloven §§ 2 og 3 at en rekke menneskerettskonvensjoner gjelder som norsk rett, og at disse ved motstrid skal gå foran annen norsk lovgivning.
+
+Arrestordreloven § 8 annet ledd slår uttrykkelig fast at en nordisk-europeisk arrestordre skal avslås dersom overlevering vil være i strid med EMK. Det samme følger av § 18, jf. 8 annet ledd, for nordisk arrestordre. EMK kan også begrense anvendelsen av loven når det gjelder andre forhold enn selve overleveringsspørsmålet, f.eks. når det gjelder saksbehandlingsreglene og varetekt, jf. Ruud mfl. s. 150. Folkerettsreservasjonen i arrestordreloven § 2 har dermed selvstendig betydning også i relasjon til EMK.
+
+Arrestordreloven § 11 oppstiller avslagsgrunner knyttet til fraværsdom og livstidsstraff. Reglene har til formål å sikre at overlevering ikke kommer i strid med EMK, jf. Prop. 137 LS (2010–2011) s. 52. Se punkt 8.7 og 8.8.
+
+Dersom en arrestordre gjelder en person som har immunitet eller privilegier med hensyn til rettsforfølgning eller straffullbyrding i Norge, kan den ikke etterkommes, jf. arrestordreloven §§ 2 og 27. Se punkt 10.8.
+
+Ved praktiseringen av arrestordreloven må det sees hen til praksis fra EMD. Parallellavtalen bygger på en forutsetning om mest mulig ensartet anvendelse av arrestordresystemet. Selv om avgjørelser fra EU-domstolen ikke formelt er bindende for Norge, må Norge derfor også legge vekt på disse, jf. parallellavtalen art. 37 og HR-2022-863-A avsnitt 32.
+
+## Utvalgets vurderinger
+
+Utvalget har vurdert om det er grunn til å ha en generell folkerettsreservasjon i loven, bl.a. om det er behov for det ved siden av menneskerettsloven, avslagsgrunnen ved strid med EMK og andre menneskerettskonvensjoner, samt straffeprosesslovens folkerettsreservasjon. Etter utvalgets syn er en slik bestemmelse nødvendig. Forslaget i lovutkastet § 2 viderefører arrestordreloven § 2, og utvider denne til å gjelde også for utlevering.
+
+Bestemmelsen gir mulighet for å sikre at utlevering og overlevering er i samsvar med Norges folkerettslige forpliktelser. Den vil ikke ha selvstendig betydning for menneskerettskonvensjoner som allerede er inkorporert, men vil omfatte andre menneskerettskonvensjoner Norge er bundet av, regler om immunitet og privilegier og andre folkerettslige forpliktelser. Bestemmelsen vil kunne fange opp tilfeller der en folkerettslig avtaleforpliktelse er blitt oversett i forbindelse med gjennomføringen i norsk rett, sml. Ot.prp. nr. 42 (1995–96) s. 9 om den tilsvarende bestemmelsen i straffeloven. Den vil være særlig viktig i tilfeller hvor en mulig motstridssituasjon ikke kan løses på grunnlag av presumsjonsprinsippet. En generell folkerettsreservasjon vil dessuten gi fleksibilitet i forhold til senere folkerettslige avtaler, bl.a. ved at man vil kunne redusere behovet for særskilte gjennomføringslover, jf. NOU 2001: 32 Bind A Rett på sak: Lov om tvisteløsning (tvisteloven) s. 181 om den tilsvarende regelen i tvisteloven. Utvalget anser det som en fordel å utforme folkerettsreservasjonen etter mønster fra tilsvarende reservasjoner i lovgivningen for øvrig.
+
+# Vilkår og avslagsgrunner ved utlevering og overlevering fra Norge
+
+## Innledning
+
+### Oppbygningen av kapittelet
+
+I dette kapittelet drøftes vilkår og avslagsgrunner ved utlevering og overlevering fra Norge.
+
+Punkt 8.2 til 8.4 omtaler det som tradisjonelt vises til som *vilkår*, dvs. forhold eller forutsetninger som positivt må være oppfylt for at utlevering eller overlevering kan skje: krav til dobbel straffbarhet, strafferamme eller reaksjon (lovbruddets alvorlighet) og mistankegrunnlag.
+
+Punkt 8.5 til 8.18 omhandler *avslagsgrunner*, dvs. forhold som er til hinder for utlevering eller overlevering.
+
+### Overordnet om avslagsgrunnene
+
+I utredningen er «avslagsgrunn» brukt som betegnelse på et grunnlag for ikke å etterkomme en utleveringsbegjæring, arrestordre eller nordisk arrestordre. Det skilles mellom obligatoriske og fakultative (valgfrie) avslagsgrunner. En obligatorisk avslagsgrunn innebærer at utlevering eller overlevering *skal* nektes, mens en fakultativ avslagsgrunn innebærer at en utleveringsbegjæring, arrestordre eller nordisk arrestordre *kan* avslås.
+
+Tradisjonelt bygger utlevering mellom stater på prinsippet om at en stat selv avgjør om en person skal utleveres eller ikke. Etter utleveringsloven kan en utleveringsbegjæring avslås uten at det foreligger en bestemt avslagsgrunn; om utlevering skal skje eller ikke er opp til departementets skjønn. Dette følger av utleveringsloven § 1, som fastsetter at den som i fremmed stat er siktet, tiltalt eller domfelt for en straffbar handling, og som oppholder seg her i riket, «kan» utleveres etter bestemmelsene i loven. I tillegg angir lovens kap. 1 en rekke obligatoriske avslagsgrunner.
+
+Om en utleveringsbegjæring skal eller kan avslås, avhenger av Norges folkerettslige forpliktelser. Overfor stater som Norge ikke har en folkerettslig avtale med som regulerer utlevering, kan utlevering nektes på ethvert grunnlag. Ved utlevering til stater Norge har inngått en bilateral utleveringsavtale med, eller som er part i utleveringskonvensjonen eller Schengen-samarbeidet, legger disse rammeverkene føringer.
+
+Utleveringskonvensjonen art. 1 forplikter partene til å utlevere i samsvar med konvensjonen. Det er oppstilt avslagsgrunner i art. 3 til 11. Også etter de bilaterale avtalene med Australia, Canada og USA er Norge forpliktet til å utlevere i samsvar med avtalene. Avtalene angir en rekke avslagsgrunner. I tilfeller der utleveringskonvensjonen eller de bilaterale avtalene åpner for avslag (fakultative avslagsgrunner), kan Norge velge om avslagsgrunnen skal lovfestes, og om den skal inntas som en obligatorisk eller fakultativ avslagsgrunn. I andre tilfeller oppstilles obligatoriske avslagsgrunner eller forbud, som det er forutsatt at praktiseres som obligatoriske avslagsgrunner i nasjonal rett.
+
+I motsetning til tradisjonell utlevering bygger EUs rammebeslutning, konvensjon om nordisk arrestordre og parallellavtalen på prinsippet om gjensidig anerkjennelse. Prinsippet innebærer at en rettslig avgjørelse i en stat skal legges til grunn i en annen stat uten nærmere prøving. Som hovedregel *plikter* derfor den iverksettende stat å etterkomme en arrestordre, hvis ikke en av de nærmere angitte avslagsgrunnene foreligger. Dette representerer et systemskifte, jf. Prop. 137 LS (2010–2011) s. 8–9 og 16.
+
+Både konvensjon om nordisk arrestordre og parallellavtalen inneholder uttømmende bestemmelser om når en arrestordre skal eller kan avslås, jf. proposisjonen s. 9 hva gjelder parallellavtalen. Parallellavtalen art. 4 angir de obligatoriske avslagsgrunnene. Dette er de samme som fremgår av konvensjon om nordisk arrestordre art. 4 og EUs rammebeslutning art. 3. Parallellavtalen art. 5 (sml. EUs rammebeslutning art. 4) og konvensjon om nordisk arrestordre art. 5 lister opp de fakultative avslagsgrunnene. Noen av disse er felles, men konvensjonen har færre avslagsgrunner enn parallellavtalen, se nærmere proposisjonen s. 24–26.
+
+Det er lagt til grunn at statene etter konvensjon om nordisk arrestordre og parallellavtalen selv avgjør om de vil lovfeste de fakultative avslagsgrunnene, og om disse skal inntas i lovgivningen som obligatoriske eller fakultative avslagsgrunner, jf. Ot.prp. nr. 39 (2007–2008) s. 13–14 og Prop. 137 LS (2010–2011) s. 12. For parallellavtalens vedkommende følger dette også direkte av ordlyden i art. 5: «Statene kan pålegge eller tillate \[…\] å avslå».
+
+I konvensjon om nordisk arrestordre og EUs rammebeslutning er klassiske grunnlag for å nekte å etterkomme en utleveringsbegjæring, bl.a. forbud mot å utlevere egne statsborgere, at det ikke utleveres for politiske lovbrudd og krav om at forholdet skal være straffbart også i den anmodede stat, helt eller delvis avskaffet. Parallellavtalen åpner derimot for at statene kan reservere seg mot å overlevere egne statsborgere (art. 7 nr. 2) og for politisk lovbrudd (art. 6 nr. 2).
+
+Norge har avgitt erklæring etter parallellavtalen art. 7 nr. 2 knyttet til norske statsborgere. Videre har Norge gitt underretning etter art. 5 nr. 2 om hvilke av avslagsgrunnene i art. 5 Norge har bestemt at skal være obligatoriske avslagsgrunner i norsk rett: art. 5 nr. 1 bokstav a (manglende dobbel straffbarhet), c (henleggelse eller påtaleunnlatelse i Norge, eller avgjørelse i EU-stat som er til hinder for videre strafforfølgning), d (foreldelse) og g alternativ i (forhold begått helt eller delvis i den iverksettende stat).
+
+Etter parallellavtalen art. 8 kan det stilles betingelse om garanti for iverksetting av arrestordren i visse tilfeller, knyttet til fraværsdom, livstidsstraff og personer som er borger av eller bosatt i den iverksettende stat. Konvensjon om nordisk arrestordre art. 6 har en tilsvarende bestemmelse hva gjelder sistnevnte. Fravær av nødvendig forsikring anses etter norsk rett å innebære at overlevering må nektes, se bl.a. Prop. 137 LS (2010–2011) s. 53.
+
+EUs rammebeslutning art. 3 oppstiller obligatoriske avslagsgrunner og art. 4 fakultative avslagsgrunner. Overlevering skal nektes dersom det foreligger en obligatorisk avslagsgrunn. EU-statene kan velge om de vil gjennomføre de fakultative avslagsgrunnene i nasjonal rett. Men i motsetning til etter parallellavtalen, kan EU-statene ikke velge om avslagsgrunnene i art. 4 skal gjennomføres som fakultative eller obligatoriske avslagsgrunner i nasjonal lovgivning; de må gjennomføres som fakultative avslagsgrunner. Dette følger av EU-domstolens rettspraksis, jf. bl.a. dom 29. april 2021 i sak C-665/20 PPU *X* avsnitt 43–44.
+
+Arrestordreloven har bestemmelser om avslagsgrunner i kap. 2 (nordisk-europeisk arrestordre) og 4 (nordisk arrestordre). I kap. 2 angir § 8 obligatoriske avslagsgrunner, § 9 gjelder politiske lovbrudd, § 10 norsk statsborger, § 11 fraværsdom og livstidsstraff og § 12 angir fakultative avslagsgrunner. En del av disse er gjort gjeldende også for nordiske arrestordrer, jf. § 18 (obligatoriske avslagsgrunner) og § 19 (valgfrie avslagsgrunner).

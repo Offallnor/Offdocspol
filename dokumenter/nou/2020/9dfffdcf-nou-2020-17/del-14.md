@@ -1,870 +1,236 @@
-# NOU 2020: 17, del 14 av 22 (side 159–168)
+# NOU 2020: 17, del 14 av 26
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2020/9dfffdcf-nou-2020-17.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2020-17/id2791522/
 - Original-PDF: https://www.regjeringen.no/contentassets/5f3dc96de14f443f869795a19088926a/no/pdfs/nou202020200017000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 5 figurer. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 159]
-
-NOU 2020: 17
-Varslede drap?
-
-For det femte fremstod krisesentrenes journalføring til dels mangelfull. Krisesentrene har ingen
-lovpålagt journalplikt. I Bufdir sin veileder anbefales det likevel å føre journal. Det fremgår blant
-annet av veilederen at journalføring er nødvendig
-for å sikre den enkelte brukeren systematisk kartlegging og god oppfølging. Systematisk journalføring kan bidra til at voldens omfang blir mer tydelig både for krisesenteret og samarbeidspartnere i
-hjelpeapparatet. God dokumentasjon kan også ha
-stor betydning i forbindelse med for eksempel
-straffesak mot voldsutøver, rettssak om samvær
-og omsorg for barn, søknad om voldsoffererstatning og søknad om opphold i Norge. Utvalget så
-flere eksempler på manglende journal eller manglende opplysninger i journal. Det var blant annet
-ingen journalførte opplysninger om at krisesenteret hadde gjennomført en systematisk kartlegging av volden eller en strukturert risikovurdering. Utvalget så heller ingen eksempler på journalføring av at det var utarbeidet sikkerhetsplan i
-samarbeid med brukeren. Mangelen på dokumentasjon gjorde at utvalget ikke kunne konstatere
-om disse virkemidlene ble brukt.
-
-12.6 Barnevern
-12.6.1 Om kontakten
-Gjerningsperson og offer hadde enten felles barn,
-særkullsbarn eller begge deler, i samtlige gjennomgåtte saker, se punkt 10.3. Blant disse var det
-hjemmeboende mindreårige barn på drapstidspunktet i 15 saker. I ytterligere 3 saker hadde
-paret tidligere hatt mindreårige hjemmeboende
-barn.
-Det var kontakt med barnevernet i totalt 10 av
-de 19 gjennomgåtte sakene. Blant disse hadde
-paret på drapstidspunktet mindreårige barn i 7
-saker, både mindreårige og voksne barn i 2 saker
-og bare voksne barn i én sak.505
-Kontakten med barnevernet ble i de aller
-fleste sakene opprettet ved at en offentlig instans
-sendte bekymringsmelding til barneverntjenesten. Det var tilfellet i 10 saker. Blant disse ble
-det, i henhold til straffesaksdokumentene, sendt
-to eller flere bekymringsmeldinger i 5 saker. Det
-ble, så vidt utvalget har registrert, ikke sendt
-bekymringsmelding i aktiv barnevernssak. Det
-kan ikke utelukkes at det ble sendt flere bekymringsmeldinger i sakene. I én sak hadde for
-eksempel gjerningspersonen mistet omsorgen for
-505
-
-Denne opptellingen inkluderer både fellesbarn og særkullsbarn.
-
-157
-
-Kapittel 12
-
-tre barn. Saken inneholdt imidlertid bare opplysninger om én bekymringsmelding. De offentlige
-instansene som sendte bekymringsmelding til
-barneverntjenesten var politiet, krisesenter, helsetjenesten (lege, legevakt, AMK), skole og asylmottak. I én sak tok barnet selv kontakt med barneverntjenesten.
-Grunnlaget for at det ble sendt bekymringsmelding til barneverntjenesten var kunnskap om
-partnervold i omtrent halvparten av sakene. I de
-resterende sakene handlet bekymringen om at
-barn ble utsatt for vold eller andre bekymringsverdige forhold i familien, for eksempel rus eller psykisk sykdom.
-Det varierte hvor lang tid før drapet barneverntjenesten var i kontakt med familiene. I én av
-sakene hvor barna var voksne på drapstidspunktet, ble kontakten både opprettet og avsluttet
-mange år før drapet. I de sakene hvor familiene
-hadde både mindreårige og voksne barn, var det
-kontakt med barnevernet i mange år, og det var
-fortsatt kontakt på drapstidspunktet. I de 8 sakene
-hvor barna var mindreårige, ble kontakt med barneverntjenesten opprettet alt fra omtrent seks år
-før drapet til tre måneder før drapet. I 5 av disse
-sakene var kontakten med barneverntjenesten
-avsluttet på drapstidspunktet. I én av sakene
-skjedde drapet mens undersøkelsessaken pågikk.
-Det var få saker hvor barneverntjenesten
-iverksatte tvangstiltak og var tungt inne i saken
-over lenger tid. I de fleste sakene ble undersøkelsessaken avsluttet etter noen uker eller måneder.
-
-12.6.2
-
-Om sakene hvor det ikke var kontakt
-med barneverntjenesten
-Det var 6 saker med mindreårige hjemmeboende
-barn på drapstidspunktet hvor det ikke var kontakt med barneverntjenesten.506 Barna levde med
-vold i alle disse sakene. I 3 av disse sakene ble
-barna utsatt for direkte fysisk vold. Se mer om
-disse sakene i punkt 12.6.4.8.
-Det var i tillegg 2 saker med tidligere hjemmeboende mindreårige barn hvor det ikke syntes å
-ha vært kontakt med barneverntjenesten. Det
-forekom partnervold i disse sakene også. I én av
-sakene var det også opplysninger om at barna
-levde med vold før de ble voksne og flyttet ut. I
-506
-
-I én av disse sakene var det kontakt med barneverntjenesten i en annen kommune vedrørende et særkullsbarn.
-Utvalget har utelukket denne saken fra oversikten over
-antall saker hvor det var kontakt med barneverntjenesten
-fordi kontakten med barneverntjenesten altså ikke gjaldt
-forholdene knyttet til parets hjemmeboende barn i tiden før
-drapet.
-
-[Side 160]
-
-158
-
-NOU 2020: 17
-
-Kapittel 12
-
-Varslede drap?
-
-den andre saken ga ikke straffesaksdokumentene
-svar på om barna levde med vold da de var mindreårige og hjemmeboende.
-Det var totalt 7 eller 8 av 19 saker hvor det
-ikke var kontakt med barneverntjenesten til tross
-for at mindreårige barn levde med vold, og hvor
-andre offentlige instanser hadde kunnskap om
-vold i familien. Blant disse var barna også utsatt
-for direkte fysisk vold i minst 3 saker.
-
-12.6.3
-
-Om barneverntjenestens håndtering
-av sakene
-
-12.6.3.1 Dokumentasjon
-Straffesaksdokumentene inneholdt dokumentasjon fra barneverntjenesten i 8 av de 10 sakene
-hvor det var kontakt med barneverntjenesten. I én
-av disse sakene lå kontakten med barneverntjenesten langt tilbake i tid. I de 2 sakene hvor straffesakdokumentene ikke inneholdt dokumentasjon
-fra barneverntjenesten, var det opplysninger om
-kontakt fra andre dokumenter, for eksempel vitneavhør. I den ene saken fremgikk det i avhør av
-ansatte i barneverntjenesten en del informasjon
-om håndteringen av saken, og saken er derfor
-inkludert her. I den andre saken ga ikke straffesaksdokumentene opplysninger om selve håndteringen av saken, og saken er derfor ikke inkludert her. Som følge av flere usikkerhetsmomenter
-tar utvalget forbehold med hensyn til opptellingene som er gjort for å belyse barneverntjenestenes håndtering av sakene.
-
-12.6.3.2 Undersøkelsessak
-Barneverntjenesten opprettet undersøkelsessak i
-alle de 10 sakene hvor de mottok bekymringsmelding. Det var opplysninger om at det ble innhentet
-dokumentasjon eller informasjon fra andre offentlige instanser etter barnevernloven § 6-4 annet
-ledd i de fleste sakene.507 Det varierte imidlertid
-hvor mange, og hvilke, instanser barneverntjenesten innhentet opplysninger fra. I enkelte saker
-innhentet barneverntjenesten opplysninger fra
-flere relevante instanser. I én sak ble det for
-eksempel innhentet opplysninger fra både skole,
-PPT, fastlege og politiet, og i en annen sak ble det
-innhentet opplysninger fra politiet, helsestasjon
-og krisesenter. I de fleste sakene ble det innhentet
-opplysninger fra færre instanser, for eksempel
-507
-
-I én sak var det ingen opplysninger om dette.
-
-bare fra skole. I én sak ble opplysninger fra skole
-innhentet ved en telefonsamtale med skolens rektor. Informasjonen kom dermed ikke fra læreren
-som hadde observert barnet. Opplysninger fra
-fastlege ble innhentet i én sak. I én sak fikk ikke
-barneverntjenesten samtykke fra foreldrene til å
-innhente opplysninger fra andre instanser, og det
-syntes som om det medførte at barneverntjenesten ikke innhentet slike opplysninger.
-I 2 saker ble det, i løpet av undersøkelsesperioden, avholdt samarbeidsmøter mellom relevante
-instanser. Det syntes som om hensikten med
-møtene var avklaring av familiens situasjon og
-grunnlaget for bekymringsmeldingen.
-Det ble, i løpet av undersøkelsesperioden,
-gjennomført ett eller flere hjemmebesøk i nesten
-alle sakene. I én sak var det ingen opplysninger
-om at det ble gjennomført hjemmebesøk, og i en
-annen sak var det opplysninger om at det bare ble
-gjennomført hjemmebesøk i én av 2 undersøkelsessaker.
-Det ble videre gjennomført samtaler med et
-eller flere familiemedlemmer i alle sakene. Det
-varierte imidlertid hvor mange samtaler som ble
-gjennomført, og hvem det ble gjennomført aleneeller fellessamtaler med. Barneverntjenesten
-snakket med begge foreldrene i de fleste sakene. I
-én sak var den voldsutsatte forelderen bortreist da
-undersøkelsessaken pågikk, og barneverntjenesten snakket derfor ikke med vedkommende. I
-en annen sak snakket barneverntjenesten bare
-med voldsutsatt forelder, ikke med voldsutøver. I
-noen saker gjennomførte barneverntjenesten
-separate alenesamtaler med begge foreldrene,
-mens i andre saker ble alle samtalene gjennomført med begge foreldre til stede. I én sak nektet
-far i utgangspunktet barneverntjenesten å snakke
-alene med mor. Barneverntjenesten opplevde
-dette som krevende. På den ene siden måtte mor
-og barn ivaretas, og på den andre siden ville alenesamtaler med mor potensielt medføre en mer konfliktfylt situasjon. Barneverntjenesten gjennomførte likevel alenesamtale med mor.
-Dokumentene viste videre at barneverntjenesten snakket alene med barna i et mindretall av
-sakene. Blant de sakene hvor barneverntjenesten
-snakket med barna, ble samtalen i et par saker
-gjort på hjemmebesøk. I disse tilfellene syntes det
-som om samtalene nærmest oppstod tilfeldig da
-barnet var i et annet rom enn foreldrene og det
-passet å slå av en prat. Det var også to eksempler
-på at barneverntjenesten bare snakket med ett av
-flere barn i familien.
-
-[Side 161]
-
-159
-
-NOU 2020: 17
-Varslede drap?
-
-12.6.3.3 Vedtak og tiltak
-I 2 saker ledet undersøkelsessaken til vedtak om
-tvangstiltak med hjemmel i barnevernloven. I
-begge disse sakene ble ett eller flere barn plassert
-i fosterhjem. I 2 andre saker ledet undersøkelsen
-til vedtak om hjelpetiltak med hjemmel i barnevernloven § 4-4. I begge sakene inkluderte dette
-råd og veiledning til foreldrene. I den ene saken
-ble det også vedtatt tiltak om koordinering av
-involverte instanser. Dette vedtaket ble fulgt opp
-med et samarbeidsmøte før drapet skjedde. Dette
-ble avholdt noen måneder etter at vedtaket ble fattet. I 4 saker ble undersøkelsessaken henlagt uten
-tiltak. I én av disse sakene ble det opprettet to
-undersøkelsessaker, og begge ble henlagt uten tiltak. Det siste vedtaket ble fattet et par måneder
-før drapet skjedde. I én sak skjedde drapet før
-undersøkelsessaken ble avsluttet. Barneverntjenesten vurderte imidlertid hjemmet som trygt for
-barna etter hjemmebesøket, og det var ingenting
-som tydet på at barneverntjenesten var i ferd med
-å fatte vedtak om tvangstiltak.
-I de fleste sakene ønsket ikke foreldrene hjelpetiltak eller videre kontakt med barneverntjenesten. Det var bare i 2 saker hvor én eller begge
-foreldrene uttrykte et ønske om oppfølging. I
-disse sakene ble det også fattet vedtak om hjelpetiltak. Det var i tillegg én sak hvor forelderen ba
-om hjelp, men avslo hjelpen da barneverntjenesten stilte krav til vedkommende. Det syntes
-som om forelderen ønsket hjelp så lenge det virket formålstjenlig for egne interesser.
-Foreldrenes manglende ønske om barneverntjenestens involvering var tilsynelatende bakgrunnen for at flere undersøkelsessaker ble henlagt
-uten tiltak. Det var flere eksempler på at barneverntjenesten enten i vedtaket om henleggelse,
-eller i andre dokumenter i saken, skrev at saken
-måtte henlegges så lenge familien ikke ønsket
-mer kontakt eller oppfølging. I én sak sendte for
-eksempel krisesenter bekymringsmelding til barneverntjenesten da mor og barn bodde på krisesenteret. Mor sa til barneverntjenesten at det ikke
-lenger var noen misforståelser mellom foreldrene,
-og at hun ivaretok barna på en god måte. Foreldrene ga tydelig uttrykk for at de ikke forstod
-hvorfor barneverntjenesten var involvert, og at de
-ikke ønsket kontakt med dem. Saken etterlot et
-inntrykk av at barneverntjenesten var bekymret
-for familien. Undersøkelsessaken ble likevel henlagt under henvisning til at foreldrene benektet
-vold og avviste behov for hjelp. Barneverntjenesten sendte kopi av vedtaket til flere andre
-
-Kapittel 12
-
-instanser, men ikke til politiet. Politiet ble heller
-ikke varslet på annen måte i saken.
-I én sak ble undersøkelsessaken henlagt uten
-at det fremgikk noe om foreldrene ønsket kontakt. Det var krisesenteret som hadde sendt
-bekymringsmelding i saken. Det ble verken gjennomført hjemmebesøk eller samtaler med barna.
-Det ble heller ikke formelt innhentet opplysninger
-fra andre instanser utover en telefonsamtale med
-skolen. Begrunnelsen for henleggelsen var tilsynelatende at mor/voldsutsatt syntes å håndtere
-krisesituasjonen på en god måte, og at hun selv
-mente at hun var i stand til å ivareta barna. Det
-syntes også å ha hatt stor betydning at mor ønsket
-skilsmisse, og at far hadde flyttet ut da vedtaket
-ble fattet. Far flyttet imidlertid inn igjen etter kort
-tid.
-
-12.6.4
-
-Utfordringer
-
-12.6.4.1 Hovedinntrykk og forebyggingspotensial
-Det var en stor andel av de gjennomgåtte partnerdrapssakene hvor det var kontakt med barneverntjenesten. Barneverntjenesten var dermed en av
-de instansene som gjerningsperson og offer
-hadde mest kontakt med før drapet.
-Sakene viste at barneverntjenesten har et
-unikt innblikk i familier og hjemmeforhold, se
-punkt 7.5.1. Utvalgets hovedinntrykk fra saksgjennomgangen var at det finnes et ubenyttet forebyggingspotensial i barneverntjenestens arbeid med
-familier. Forebyggingspotensialet knytter seg
-både til sakene hvor det var kontakt med barneverntjenesten før drapet, og til sakene hvor det
-ikke var kontakt med barneverntjenesten før drapet. Felles for alle disse sakene, var at de etterlot
-et inntrykk av at det var noen – enten barneverntjenesten eller andre instanser – som ikke oppfattet risikoen, eller alvoret, i saken.
-Hva gjelder sakene hvor det var kontakt med
-barneverntjenesten, etterlot de et inntrykk av at
-sakene ble dårlig dokumentert, at undersøkelsene
-var lite grundige, at det i liten grad ble samarbeidet med andre instanser og utvekslet informasjon,
-og at det i liten grad ble iverksatt treffende tiltak. I
-tillegg var det en stor utfordring at de involverte
-parter syntes å ha lite tillit til, eller frykt for, barneverntjenesten. Utvalget så også flere eksempler på
-at andre offentlige instanser i for liten grad varslet
-barneverntjenesten ved bekymring for barn.
-Dette gjaldt både i sakene hvor barneverntjenesten var involvert, og i sakene hvor de ikke var
-det.
-
-[Side 162]
-
-160
-
-Kapittel 12
-
-NOU 2020: 17
-Varslede drap?
-
-12.6.4.2 Lite grundige undersøkelser
-Utvalget mener at sakene gjennomgående var preget av for lite grundige undersøkelser. Etter utvalgets syn, ble det i for liten grad innhentet opplysninger fra andre instanser. Videre ble det gjennomført for få alenesamtaler med familiemedlemmer, og for få samarbeidsmøter mellom instanser.
-Dette henger nært sammen med punkt 12.6.4.3
-om manglende avdekking av vold og oppfatning
-av risiko.
-Utvalget så noen eksempler på at barneverntjenesten i undersøkelsen innhentet opplysninger
-fra flere instanser. Barneverntjenesten burde
-imidlertid gjennomgående innhentet opplysninger fra flere instanser. Det var for eksempel problematisk at opplysninger fra fastlege bare ble innhentet i én sak, og at det i 2 saker bare ble innhentet opplysninger fra skole. Som nevnt under punkt
-12.6.3.2, ble opplysningene i én av disse sakene
-innhentet gjennom en telefonsamtale med en rektor som ikke kjente barnet selv. I denne saken
-fremstod dette særlig problematisk fordi barneverntjenesten la stor vekt på skolens oppfatning av
-barnet. Det fremgikk av dokumentene at hvis skolen var enig i barneverntjenestens oppfatning av
-saken, ville saken henlegges. Barneverntjenesten
-gjennomførte verken hjemmebesøk eller samtaler
-med barna i denne saken, og saken ble henlagt
-uten tiltak. En grundigere undersøkelse kunne
-avdekket at både mor og barn ble utsatt for omfattende mishandling.
-I en annen sak ble det ikke innhentet noen
-opplysninger fra andre instanser. Begrunnelsen
-for dette var at foreldrene ikke samtykket til innhentingen. Utvalget vil i denne forbindelse understreke at barneverntjenesten, etter reglene om
-opplysningsplikt ved pålegg i barnevernloven § 64 annet ledd, kan innhente opplysninger uavhengig av foreldrenes samtykke, se punkt 8.3.3.3. Barneverntjenesten gjennomførte heller ikke samtaler med barna i denne saken. Dette til tross for at
-bekymringsmeldingen som utløste undersøkelsen
-var den andre i rekken i løpet av relativt kort tid,
-og at barneverntjenesten var tydelig bekymret for
-det høye konfliktnivået i familien.
-Utvalget så videre flere eksempler på at det
-ikke ble gjennomført samtaler med familiemedlemmer. I noen saker hadde barneverntjenesten
-snakket med hele familien på en eller annen måte,
-for eksempel på hjemmebesøk. Det som manglet i
-noen av disse sakene, var alenesamtaler. I andre
-saker hadde ikke barneverntjenesten snakket
-med alle familiemedlemmene. Utvalget anser
-samtaler med familiemedlemmene, og særlig ale-
-
-nesamtaler, som vesentlig for å få innsikt i familien
-og forståelse av risikoen i saken. Se også boks 7.7
-i punkt 7.5.3.3 om Klemetsrudmodellen. Utvalget
-mener derfor det er svært problematisk at det i
-flere saker manglet slike samtaler. Som nevnt i
-punkt 12.6.3.2, var det for eksempel én sak hvor
-barneverntjenesten ikke snakket med voldsutsatt
-mor i saken, og en annen sak hvor barneverntjenesten ikke snakket med voldsutøvende stefar.
-Det var også eksempler på at barneverntjenesten
-ikke snakket med barnet/a – verken sammen
-med foreldrene eller alene. I saken hvor barneverntjenesten ikke snakket med mor, vurderte
-barneverntjenesten hjemmet som trygt tre måneder før drapet skjedde.
-I én sak hadde både mor og barn tilbakelagt et
-opphold på krisesenter som følge av partnervold.
-I denne saken ble også barna utsatt for direkte
-fysisk vold. Barneverntjenesten oppfattet mor
-som troverdig i sin beskrivelse av hvordan hun
-kunne ivareta og beskytte barna, og mor ønsket
-skilsmisse. Barneverntjenesten vurderte det slik
-at det ikke var behov for hjelpetiltak i saken. De
-snakket imidlertid ikke med barna. Alenesamtaler
-med barna kunne potensielt nyansert bildet av
-situasjonen.
-I en annen sak snakket barneverntjenesten
-med både foreldre og barn på hjemmebesøk.
-Barna hadde fortalt om vold mot dem til en annen
-instans. I løpet av hjemmebesøket ga foreldrene
-en annen versjon av de aktuelle episodene enn de
-barna hadde gitt tidligere. Det ble konstatert at
-barnet ikke sa imot det foreldrene fortalte, uten at
-barneverntjenesten foreslo separate samtaler. Alenesamtaler med barna kunne også i denne saken
-potensielt gitt grunnlag for et mer nyansert bilde
-av situasjonen.
-Utvalget vil understreke at barn og foreldre
-kan oppleve volden forskjellig. De kan også ha
-ulike motiver for å dele og til eventuelt å tilbakeholde informasjon. Det er derfor viktig at barneverntjenesten ser på barnas opplevelse av sin livssituasjon i et voldelig hjem som selvstendig.508
-Generelt vil barn kunne gi en mer riktig beskrivelse av hjemmesituasjonen i alenesamtaler med
-barneverntjenesten.
-Utvalgets klare inntrykk er at barneverntjenestens lite grundige undersøkelser kan ha
-bidratt til manglende avdekking av vold, og manglende oppfatning av hvor farlig situasjonen i
-enkelte saker var, og at dette igjen bidro til manglende oppfølging, se under.
-508
-
-Øverlien (2012) s. 99–145.
-
-[Side 163]
-
-NOU 2020: 17
-Varslede drap?
-
-12.6.4.3 Manglende avdekking av vold i nære
-relasjoner og forståelse av risiko
-Utvalget mener at barneverntjenesten i flere
-saker overså signaler på vold – både hos voldsutsatt forelder og voldsutsatte barn. I én sak ble for
-eksempel barnet kroppslig urolig når han snakket
-om voldsutøvende forelder, og barnet ønsket ikke
-å snakke mer om ham. Grunnlaget for bekymringsmeldingen var partnervold, og barneverntjenesten hadde dermed kunnskap om at det var
-vold i familien. Barneverntjenesten snakket likevel ikke med voldsutøvende forelder, og det syntes ikke som om de stilte spørsmål ved om også
-barnet ble utsatt for vold. Det var opplysninger i
-saken om at gjerningspersonen utsatte både offer
-og barn for vold.
-I en annen sak, hvor grunnlaget for bekymringsmeldingen blant annet var vold mot barn, fortalte mor nokså utfyllende til barneverntjenesten
-om hvordan partneren kontrollerte økonomien
-ned i minste detalj. Hun brukte også betegnelser
-på partneren sin som tilsa at han ellers også var
-svært kontrollerende. Hun ønsket seg ut av forholdet, og det syntes som om barneverntjenesten
-først og fremst oppfattet dette som at hun var ferdig med ekteskapet. Hun ble av barneverntjenesten omtalt som en sterk person som visste hva
-hun ville. I tillegg merket barneverntjenesten seg
-at far fremstod som fraværende, og at han ikke
-kom barna i møte. Til tross for flere tydelige signaler, stilte ikke barneverntjenesten spørsmål om
-offeret ble utsatt for vold. Barna hadde fortalt på
-skolen at de ble utsatt for vold fra foreldrene. Det
-syntes likevel som om barneverntjenesten festet
-størst lit til foreldrenes forklaring på disse episodene.
-Utvalget mener videre at barneverntjenesten i
-flere saker ikke oppfattet alvoret i situasjonen. I én
-sak hadde for eksempel både mor og barn blitt
-mishandlet i mange år. Grunnlaget for bekymringsmeldingen var partnervold. Far benektet i
-utgangspunktet vold, men erkjente både sinneproblemer og risting av barn. Barna fortalte om vold
-og sa til barneverntjenesten at far kanskje kunne
-komme til å drepe mor. Også mor fortalte om
-svært kontrollerende atferd fra far. Barneverntjenesten stilte spørsmål til barn i familien om hvordan foreldrenes kulturbakgrunn påvirket parforholdet, og dette kunne tyde på at barneverntjenesten i alle fall delvis så volden i lys av kulturell
-bakgrunn.
-I noen saker syntes det som om barneverntjenestens fokus nærmest utelukkende var rettet
-mot barnas atferdsutfordringer og foreldrenes
-
-161
-
-Kapittel 12
-
-utfordringer med oppdragelse – ikke potensielt
-underliggende problemer som vold i nære relasjoner. Disse sakene ga inntrykk av at mistanke om
-partnervold ble oversett eller nedprioritert, eller
-av andre grunner ikke ble tatt tak i. Oppmerksomheten ble i stedet rettet mot de mer konkrete
-utfordringene knyttet til barnet. I én sak, hvor
-grunnlaget for bekymringsmeldingen var kunnskap om vold mot barn, hadde barneverntjenesten også registrert et høyt konfliktnivå mellom
-foreldrene og drapstrusler. Barneverntjenesten
-stilte likevel ikke spørsmål om partnervold, og tilbød ikke alenesamtaler med foreldrene. Det fremgikk at barneverntjenesten planla å følge opp
-eventuell familievold etter sommeren, men drapet
-skjedde i mellomtiden.
-
-12.6.4.4 Vedtak og tiltak
-Når det ikke er grunnlag for tvangstiltak, er barneverntjenesten avhengig av foreldrenes tillit og
-samarbeidsvilje for å kunne gjennomføre hjelpetiltak, se også punkt 7.5.2. Siden 1. april 2016 kan
-foreldrene også pålegges enkelte hjelpetiltak, jf.
-barnevernloven § 4-4 tredje og fjerde ledd.
-Bestemmelsen om pålegg om hjelpetiltak var tilsynelatende bare aktuell i én av sakene hvor undersøkelsessaken ble henlagt uten tiltak. I denne
-saken var barneverntjenesten bekymret for familien, men saken måtte henlegges så lenge foreldrene ikke ønsket tiltak. Barneverntjenesten mottok bekymringsmeldingen etter 1. april 2016, og
-barneverntjenesten kunne derfor fremmet begjæring om pålegg om hjelpetiltak etter barnevernloven § 4-4 tredje og fjerde ledd. Det var ingen opplysninger om at dette ble vurdert.
-Det syntes som om manglende ønske om samarbeid og veiledning fra foreldrenes side var en
-viktig årsak til at flere saker ble henlagt. I flere
-saker fremgikk det av vedtaket om henleggelse,
-eller av andre dokumenter, at saken måtte henlegges da tiden for undersøkelsessaken utløp, «så
-lenge familien ikke ønsket mer kontakt eller oppfølging». I 2 saker syntes det også å ha spilt en
-betydelig rolle at offeret ønsket skilsmisse, og at
-det var avtalt at gjerningspersonen skulle flytte ut.
-I begge sakene flyttet gjerningspersonen inn
-igjen.
-Det fremstod endelig som en utfordring at barneverntjenesten i en del tilfeller fulgte sakene i et
-kort tidsrom. I én sak, hvor undersøkelsessaken
-ble henlagt med bekymring, fremgikk det av vedtaket at barneverntjenesten anmodet andre
-instanser om å følge opp familien og eventuelt
-sende ny bekymringsmelding. Henleggelsen fra
-
-[Side 164]
-
-162
-
-Kapittel 12
-
-NOU 2020: 17
-Varslede drap?
-
-barneverntjenestens side gjorde likevel at familien ble «sluppet» av hjelpeapparatet. Drapet
-skjedde få måneder senere. Det kan stilles spørsmål ved om barneverntjenesten i slike tilfeller
-burde hatt mulighet til å følge familien videre, til
-tross for at saken i utgangspunktet henlegges
-uten tiltak.
-
-12.6.4.5 Manglende informasjonsutveksling
-Det ble gjennomført samarbeidsmøter i løpet av
-undersøkelsessaken i 2 saker, se punkt 12.6.3.2.
-Dokumentene ga ingen opplysninger om dette ble
-vurdert i andre saker. Se også punkt 12.3.4.2 om
-kontakten mellom politiet og barneverntjenesten.
-Utvalget vil understreke viktigheten av samhandling om slike saker som dette. Opplysninger
-om en sak kan forstås på ulike måter, og ulike
-instanser kan ha forskjellig innblikk i familien –
-krisesenter kjenner noen forhold, mens lærere
-kjenner andre forhold. Når flere instanser møtes
-for å avklare innholdet i en bekymringsmelding,
-kan dette bidra til at flere sider av saken opplyses,
-og at risikoen i større grad blir oppfattet. På denne
-måten kan barneverntjenesten få et bedre og mer
-nyansert grunnlag for å undersøke saken videre,
-og for å fatte et vedtak.
-12.6.4.6 Dokumentasjon og profesjonalitet
-Etter utvalgets syn, var det en utfordring at dokumentasjonen fra barneverntjenesten var «tynn»
-eller mangelfull. Det syntes blant annet å mangle
-referater fra møter og nedtegninger av telefonsamtaler. Barneverntjenesten dokumenterte også i
-svært liten grad de barnefaglige vurderingene og
-andre vurderinger i sakene. Det fremgikk for
-eksempel lite om hvordan barneverntjenesten vurderte risikoen i sakene. Det var også få opplysninger som bidro til å forklare hvorfor barneverntjenesten håndterte saken slik de gjorde, for eksempel i tilfeller hvor det ikke ble gjennomført hjemmebesøk, samtaler med barna eller andre familiemedlemmer, eller hvor det ikke ble innhentet
-informasjon fra andre instanser. Begrunnelsene
-for vedtakene i sakene var også ofte svært korte.
-Utvalget registrerte i tillegg enkelte eksempler på at barneverntjenesten opptrådte svært
-uprofesjonelt. I én sak stilte barneverntjenesten
-for eksempel spørsmål til familiens mindreårige
-barn om familien hadde behov for barnevernets
-tjenester. Da barnet svarte avkreftende på dette,
-ble barnet informert om muligheten til å søke
-hjelp hos familievernet. Saken ble deretter henlagt.
-
-12.6.4.7 Manglende tillit til barneverntjenesten
-Utvalget så flere eksempler på at foreldrene
-hadde liten tillit til barneverntjenesten. Dette kom
-i flere saker frem som at foreldrene fryktet innblanding fra barnevernet, og at kontakt med barneverntjenesten ble oppfattet som nærmest ensbetydende med å miste barna. De fleste virkemidlene barneverntjenesten har er basert på frivillighet, se punkt 7.5. I tilfellene hvor foreldrene ikke
-ønsket videre kontakt og samarbeid med barneverntjenesten, hadde barneverntjenesten i realiteten lite handlingsrom. Foreldrenes manglende
-ønske om kontakt med barneverntjenesten ledet
-også i flere saker til at barneverntjenesten henla
-saken, se punkt 12.6.3.3.
-Frykt for, og manglende tillit til, barneverntjenesten fremstod som et hinder for samarbeid, og
-dermed også som et hinder for å iverksette forebyggende tiltak. I flere saker fremgikk det at frykten for å miste barna også bidro til at familien heller ikke kontaktet andre deler av hjelpeapparatet
-ved behov. Dette viser at manglende tillit til barneverntjenesten representerer en utfordring for hele
-hjelpeapparatet i arbeidet med å forebygge vold i
-nære relasjoner og partnerdrap. Dette syntes særlig å være en utfordring i møtet med minoritetsfamilier, men også i andre saker. Se mer om kommunikasjon med, og tillit til, hjelpeapparatet i
-punkt 14.3.
-12.6.4.8 Særlig om manglende bekymringsmelding til barneverntjenesten
-Utvalget så flere eksempler på brudd på opplysningsplikten til barneverntjenesten. Dette gjaldt
-både i saker hvor barneverntjenesten allerede var
-involvert, og i saker hvor barneverntjenesten ikke
-var involvert i saken.
-Det var 6 saker med mindreårige hjemmeboende barn på drapstidspunktet hvor det ikke var
-kontakt med barneverntjenesten, se punkt 12.6.2.
-I disse sakene var det tilsynelatende ingen som
-meldte fra til barneverntjenesten om bekymring
-for barna eller familiene, og familiene tok heller
-ikke kontakt med barneverntjenesten selv.
-Blant de sakene hvor barneverntjenesten var
-involvert, var det eksempler i minst 6 saker på at
-offentlige instanser ikke sendte bekymringsmelding til barneverntjenesten til tross for bekymring. I én sak mistenkte både barnehagen, sykehuset og fastlegen familievold. Barnehagen fikk
-benektende svar på direkte spørsmål om vold,
-men de hadde fortsatt sterk mistanke. Det var
-likevel ingen instanser som meldte fra om bekym-
-
-[Side 165]
-
-NOU 2020: 17
-Varslede drap?
-
-ring. I en annen sak var det opplysninger om at
-skolen registrerte en rekke forhold som ga
-grunnlag for bekymring, blant annet et blåmerke i
-ansiktet som barnet ikke kunne redegjøre for. I en
-tredje sak var skolen kjent med partnervold, i tillegg til at de var kjent med at barnet vegret seg
-mot å være hjemme alene med voldsutøver. Skolen meldte ikke fra om bekymring i noen av disse
-sakene. I en fjerde sak hadde politiet iverksatt
-flere beskyttelsestiltak som følge av at offeret
-hadde anmeldt gjerningspersonen for vold. Politiet sendte likevel ikke bekymringsmelding til barneverntjenesten.
-Manglende bekymringsmelding til barneverntjenesten fører til at barneverntjenesten ikke har
-noen foranledning til å foreta undersøkelser i
-familiene. Brudd på opplysningsplikten er, etter
-utvalgets syn, like alvorlig i saker hvor barneverntjenesten allerede er involvert som i saker hvor
-barneverntjenesten ikke er involvert. Bekymringsmeldinger fra flere instanser kan bidra til at
-barneverntjenesten får et mer fullstendig og riktig
-bildet av saken. Skolen kan ha observert noen forhold, mens fastlegen kan ha observert andre forhold. Til sammen vil flere bekymringsmeldinger
-sette barneverntjenesten bedre i stand til å foreta
-grundige vurderinger av et barns situasjon i familien. Utvalget vil derfor understreke viktigheten
-av å etterleve opplysningsplikten til barneverntjenesten, også i tilfeller hvor barneverntjenesten
-allerede er involvert.
-Flere saker etterlot et inntrykk av at de offentlig ansatte unnlot å melde fra om bekymringen
-som følge av en opplevelse av ikke å ha nok kunnskap om situasjonen, eller som følge av en frykt
-for å ta feil. I 2 av sakene var offer/mor ansatt ved
-barnets skole/barnehage. Det kan være nærliggende å tro at ansettelsesforholdet bidro til en
-nærhet til barnas mor som gjorde det vanskelig
-og ubehagelig for skolen/barnehagen å sende
-bekymringsmelding.509
-
-12.7 Familievern
-12.7.1 Om kontakten
-Det var opplysninger om kontakt med familievernet i 8 av de 19 gjennomgåtte partnerdrapssakene.510 I de fleste av disse sakene var det enten
-509
-
-Utvalgets inntrykk i disse sakene samsvarer langt på vei
-med det Bendiksen og Haugli skriver om dette, se punkt
-8.3.3.
-510
-Det var i tillegg kontakt med et familiesenter i én sak, se
-punkt 12.4.2.4.
-
-163
-
-Kapittel 12
-
-en advokat eller en offentlig instans som henviste
-gjerningsperson eller offer til familievernet. I
-enkelte saker var det privatpersoner som oppfordret offeret til å ta kontakt med familievernet.
-I 6 av de 8 sakene syntes anledningen for kontakten å ha vært mekling i forbindelse med separasjon/skilsmisse. I én sak gjaldt kontakten utfordringer med grensesetting for barn. I den siste
-saken gjaldt kontakten et ønske om parterapi. I
-alle de 8 sakene fant kontakten med familievernet
-sted relativt kort tid før drapet – fra noen måneder
-til noen få uker.
-I 6 av de 8 sakene inneholdt straffesaksdokumentene svært få opplysninger om kontakten
-med familievernet. I disse sakene ble det bare
-bestilt time for, eller gjennomført, mekling. Det
-var ellers ingen opplysninger om kontakten. Som
-følge av manglende opplysninger, har det bare
-vært mulig vurdere familievernets håndtering i 2
-av de 8 sakene.
-
-12.7.2 Om tilbudet
-Det var dokumentasjon om kontakten med familievernet i 2 av de 8 sakene hvor det var kontakt
-før drapet. I den ene saken hadde politiet innhentet dokumenter fra familievernkontoret. I den
-andre saken bestod dokumentasjonen av avhør
-med familievernterapeuten og en flyktningkonsulent som deltok på møtene mellom paret og familievernet.
-I den ene saken ble det gjennomført én konsultasjon med parterapi mellom offer og gjerningsperson. Paret fortalte om mye krangling, og
-straffesaksdokumentene viste at det i konsultasjonen kom frem konkrete opplysninger om både
-psykisk og fysisk vold. Parterapeuten oppfordret
-paret til å la volden opphøre slik at de kunne fortsette å arbeide videre med parforholdet. Paret ble
-ikke tilbudt separate samtaler. Da paret uteble fra
-de neste konsultasjonene, ble saken avsluttet.
-I den andre saken ble det gjennomført én
-separat mekling og et par individuelle samtaler
-med offer og gjerningsperson. Paret kontaktet
-familievernkontoret som følge av konflikter i familien. Gjerningspersonen uttrykte ønske om skilsmisse, og familievernkontoret informerte paret
-om hvordan det er å bli skilt i Norge. Familievernet anbefalte paret å vente med å sende inn separasjonspapirer til offeret hadde fått permanent
-oppholdstillatelse i Norge. Gjerningspersonen
-ønsket ikke lenger å bo sammen med offeret og
-ville helst gjennomføre skilsmisse raskt. Familievernkontoret fikk likevel overtalt gjerningspersonen til å vente. Drapet skjedde i mellomtiden. Det
-
-[Side 166]
-
-164
-
-Kapittel 12
-
-NOU 2020: 17
-Varslede drap?
-
-syntes som om grunnlaget for familievernkontorets anbefaling var utlendingslovens § 62.511 Offeret hadde fått opphold i Norge i familiegjenforening med ektefelle/gjerningsperson. Etter
-utlendingsloven § 62 kan en utlending med midlertidig oppholdstillatelse få permanent oppholdstillatelse etter tre år. Ett av vilkårene for permanent oppholdstillatelse etter denne bestemmelsen, er at utlendingen etter tre år fortsatt oppfyller
-vilkårene for den midlertidige oppholdstillatelsen,
-jf. § 62 første ledd bokstav b. For å kunne søke om
-permanent oppholdstillatelse, måtte offeret i
-utgangspunktet dermed fortsatt være gift med
-gjerningspersonen. Etter utlendingsloven § 53 første ledd bokstav b, skal utlendingen gis oppholdstillatelse på selvstendig grunnlag når «samlivet er opphørt, og det er grunn til å anta at utlendingen eller eventuelle barn har blitt mishandlet i
-samlivsforholdet». Oppholdstillatelse på selvstendig grunnlag kan, etter denne bestemmelsen,
-altså gis før det har gått tre år. Det var ingen opplysninger som tilsa at familievernet kjente til
-denne unntaksbestemmelsen da rådet om å vente
-med skilsmissen ble gitt. Familievernet henviste
-heller ikke til advokat.
-
-12.7.3 Informasjonsutveksling
-Det var ingen opplysninger om at familievernet
-kontaktet politiet i de 2 sakene.
-I den ene saken var det kontakt mellom familievernet, flyktningetjenesten og barneverntjenesten. Det syntes som om de to førstnevnte
-instansene hadde relativt tett kontakt om familien.
-Flyktningkonsulenten var også til stede under
-konsultasjoner med familievernet, og det syntes
-som om familievernet rådførte seg med flyktningkonsulenten, som allerede kjente familien godt. I
-tillegg var barneverntjenenesten involvert i saken,
-og det var også noe kontakt mellom barneverntjenesten og familievernkontoret.
-Utvalget så noen eksempler på at andre instanser henviste til familievernkontoret. I noen tilfeller
-var dette relevante henvisninger. I andre tilfeller
-var henvisningen mindre relevant. I én sak henviste for eksempel politiet et par til familievernkontoret i forbindelse med et hjemmebesøk. Både
-gjerningspersonen og offeret hadde alkoholproblemer, og begge parter utøvde vold mot hverandre. Gjerningspersonen tilkalte politiet for å få
-hjelp til det vedkommende opplevde som en vedvarende vanskelig situasjon. Det fremgikk av politirapporten, som ble skrevet noen måneder
-511
-
-Se også utlendingsloven § 40.
-
-senere, at politiet anbefalte paret å kontakte familievernkontoret hvis de hadde kommunikasjonsproblemer. Det var ingen opplysninger som tilsa
-at politiet visste at paret utøvde vold, eller at det
-var tegn til at det var blitt utøvd vold da politiet var
-til stede. Omstendighetene ved hjemmebesøket
-var likevel slik at henvisningen fremsto lite treffende. Slik utvalget oppfattet saken, ankom politiet
-en situasjon hvor det var grunn til å stille flere
-spørsmål – også direkte spørsmål om vold.
-
-12.7.4 Utfordringer
-Utvalget understreker at 2 saker er et snevert
-materiale for å vurdere familievernets håndtering
-av sakene. Det var i tillegg relativt lite kontakt i
-disse 2 sakene. Utvalget vil likevel trekke frem to
-utfordringer.
-For det første syntes det som om familievernet
-ikke i tilstrekkelig grad oppfattet risikoen i
-sakene, og at dette ledet til mangelfull håndtering.
-I den saken hvor paret gjennomførte en konsultasjon med parterapi, kom det under samtalen frem
-at både gjerningsperson og offer brukte fysisk
-vold mot hverandre i konfliktsituasjoner. Det var
-svært problematisk at familievernterapeuten tilsynelatende ikke stilte oppfølgingsspørsmål til dette,
-eller for øvrig forsøkte å kartlegge situasjonen.
-Terapeuten burde tilbudt enesamtaler til begge
-partene. Separate samtaler kunne bidratt til at
-både offer og gjerningsperson fikk snakke mer
-fritt. Dette kunne igjen bidratt til at familievernterapeuten fikk et tydeligere bilde av risikoen. Familievernet burde også kontaktet politiet da det kom
-frem konkrete opplysninger om vold. Det kunne
-imidlertid neppe konstateres brudd på avvergeplikten etter straffeloven § 196. Barneverntjenesten var også involvert i denne saken, og familievernet kunne med fordel informert dem om at
-saken ble avsluttet, og at det ikke ble et terapeutisk løp i saken.
-Saken etterlot et inntrykk av at familievernet
-oppfattet kvinnen som «hard», mens mannen ble
-oppfattet som fortvilet. Det var etter utvalgets syn,
-grunn til å stille spørsmål ved om familievernet
-undervurderte risikoen i saken fordi begge parter
-fortalte at de utøvde vold, og fordi kvinnen fremstod som den overlegne i parforholdet. Familievernet fokuserte tilsynelatende først og fremst på
-kommunikasjonsutfordringene i forholdet, og
-nedprioriterte volden.
-I den andre saken var det særlig to hovedutfordringer som syntes å bidra til at familievernet
-undervurderte risikoen for vold. For det første
-stilte familievernet tilsynelatende ingen spørsmål
-
-[Side 167]
-
-NOU 2020: 17
-Varslede drap?
-
-om vold til tross for at paret hadde et konfliktfylt
-forhold, og til tross for at de familievernansatte
-oppfattet gjerningspersonen som både aggressiv,
-kald og uten empati og omsorg. Det fremgikk at
-familievernterapeuten var urolig for paret. Terapeuten uttrykte blant annet tvil ved om det som
-kom frem under samtalene kunne tilskrives kultur, eller om det måtte tilskrives gjerningspersonens personlighet og at det dermed representerte
-en risiko for vold. Terapeuten oppfattet også offeret som beskjeden, og som en annen person i fellessamtalene enn i de individuelle samtalene.
-Direkte spørsmål om vold i alenesamtale med
-offeret kunne bidratt til å kartlegge risikobildet,
-og eventuelt ledet til varsling til politiet, anmeldelse og iverksettelse av beskyttelsestiltak.
-For det andre manglet tilsynelatende familievernet kunnskap om unntaksbestemmelsen i
-utlendingsloven § 53 første ledd bokstav b. Ettersom offeret ble utsatt for partnervold, er det nærliggende å anta at offeret kunne fått opphold på
-selvstendig grunnlag, se også punkt 12.8.2. Familievernet overtalte likevel gjerningspersonen til å
-vente med å sende inn separasjonspapirer til offeret hadde oppholdt seg tre år i Norge, og dermed
-kunne få permanent opphold på selvstendig
-grunnlag. Det kan ikke forventes at familievernet
-har inngående kunnskap om utlendingsretten.
-Det kan heller ikke forventes at familievernet skal
-vurdere om det i aktuelle saker er grunnlag for
-opphold på selvstendig grunnlag etter denne unntaksbestemmelsen. Familievernet bør imidlertid
-ha kjennskap til denne regelen slik at familievernet for eksempel kan henvise til advokat. Konfliktfylte samlivsbrudd er i kjernen av familievernets
-oppgaver, og unntaksregelen i utlendingsloven er
-en svært viktig regel i bruddsituasjoner hvor den
-ene parten har midlertidig oppholdstillatelse i
-Norge. De to hovedutfordringene henger sammen;
-hvis familievernet hadde stilt spørsmål om partnervold, eller fått kunnskap om volden på annen
-måte, kan det tenkes at unntaksregelen for selvstendig opphold på grunn av vold ville blitt vurdert.
-
-12.8 NAV og sosialtjenesten
-12.8.1 Relevans og dokumentasjon
-Mange har på en eller annen måte kontakt med
-NAV i løpet av livet, for eksempel i forbindelse
-med familieytelser, sykepenger eller dagpenger.
-Prosessen knyttet til mange ytelser etter for
-eksempel folketrygdloven er i stor grad rutinemessig og digitalisert. Når en for eksempel søker
-
-165
-
-Kapittel 12
-
-om barnetrygd, kommer en i utgangspunktet ikke
-i kontakt med en saksbehandler. Kontakten gir da
-normalt ikke grunnlag for å avdekke vold eller
-fange opp andre faktorer som kan bidra til forhøyet risiko for partnervold eller partnerdrap.
-Andre ytelser og tjenester som NAV forvalter,
-for eksempel arbeidsrettede tiltak, uføretrygd og
-økonomisk stønad (sosialhjelp), vil på sin side
-bero på konkrete og individuelle vurderinger.
-Kontakten om slike tjenester og ytelser vil ofte
-bety kontakt med en fast saksbehandler over tid.
-Vedvarende kontakt om ulike livsutfordringer vil
-kunne sette saksbehandlere i posisjon til å
-avdekke vold og andre bekymringsverdige forhold.
-Politiet innhentet ikke dokumentasjon fra NAV
-eller den kommunale sosialtjenesten i noen av de
-gjennomgåtte sakene. Det var heller ingen opplysninger om kontakten med NAV og den kommunale sosialtjenesten i andre dokumenter, og saksgjennomgangen ga derfor ikke grunnlag for å vurdere hvordan sakene ble håndtert.
-I lys av opplysninger i straffesaksdokumentene om ofrene og gjerningspersonene sine livssituasjoner, er det for øvrig nærliggende å tro at det
-var mer kontakt med NAV og den kommunale
-sosialtjenesten enn det straffesaksdokumentene
-tilsa.
-
-12.8.2 Om kontakten
-Det var opplysninger i 18 av de 19 gjennomgåtte
-sakene som tilsa at offer og/eller gjerningsperson
-var i en eller annen form for kontakt med NAV før
-drapet. I den siste saken var offeret i arbeid, og
-gjerningspersonen oppholdt seg i Norge uten lovlig opphold. Ingen av partene hadde barn i Norge.
-I 4 saker var det opplysninger om at offer og/
-eller gjerningsperson var uføretrygdet. I 3 av
-disse sakene tydet opplysningene på at både offer
-og gjerningsperson hadde vært uføretrygdet over
-lenger tid. Det er nærliggende å tro at det i disse
-sakene var en del kontakt med NAV og oppfølging
-av en saksbehandler over tid.
-I 3 saker var det opplysninger om at familien i
-perioder mottok sosialhjelp. I ytterligere én sak
-var det opplysninger som tydet på at offeret søkte
-om slik stønad kort tid før drapet. Også i disse
-sakene må det ha vært en del oppfølging av en
-saksbehandler i den kommunale sosialtjenesten.
-I 4 saker var det opplysninger som tilsa at familien mottok en form for bostøtte. Det var i de fleste
-sakene uklart hvilken offentlig bostøtteordning
-det var.
-
-[Side 168]
-
-166
-
-Kapittel 12
-
-NOU 2020: 17
-Varslede drap?
-
-I 4 saker var det opplysninger som tilsa at offer
-og/eller gjerningsperson mottok dagpenger fra
-NAV, og i én sak var det opplysninger om at offer
-og gjerningsperson mottok arbeidsavklaringspenger på drapstidspunktet. I én sak var det opplysninger om at gjerningspersonen deltok på et jobbsøkerkurs i regi av NAV, i en annen sak var det
-opplysninger om at gjerningspersonen i perioder
-arbeidet på en vernet bedrift, og i atter en annen
-sak var det opplysninger om at paret i en periode
-hadde en praksisplass gjennom NAV.
-I 15 saker hadde paret hjemmeboende mindreårige barn på drapstidspunktet. I ytterligere 3
-saker hadde paret tidligere hatt mindreårige
-hjemmeboende barn. Det legges til grunn at disse
-familiene rutinemessig på drapstidspunktet, eller
-tidligere, mottok familieytelser fra NAV.
-Straffesaksdokumentene ga i utgangspunktet
-ingen opplysninger om informasjonsutveksling
-mellom NAV og andre offentlige instanser. I minst
-2 saker var det likevel dokumentert at en offentlig
-instans henviste offeret til NAV.
-
-12.9 Asylmottak, flyktningetjenesten
-og voksenopplæring
-12.9.1 Innledning
-Ofrene og/eller gjerningspersonene hadde bakgrunn som flyktninger i 9 saker, se punkt 10.3. I 3
-saker kom offer og gjerningsperson sammen som
-asylsøkere til Norge. I én sak kom både offer og
-gjerningsperson til Norge som asylsøkere, men
-ikke som en familie. I 4 saker kom gjerningspersonen som asylsøker til Norge, mens offeret kom
-i familiegjenforening noen år senere. I én sak
-hadde bare gjerningspersonen bakgrunn som
-asylsøker.
-I disse sakene var det en del opplysninger om
-kontakt med asylmottak, flyktningetjenesten og
-voksenopplæring (introduksjonsprogram). Offentlige ansatte i disse tjenestene har ofte tett og langvarig kontakt med flyktningene. De ansatte vil
-dermed kunne komme i posisjon til å avdekke
-vold i nære relasjoner og andre faktorer som kan
-bidra til forhøyet risiko for partnerdrap.
-Politiet innhentet ikke dokumentasjon fra asylmottak, flyktningetjenesten eller voksenopplæringen i noen av sakene. Grunnlaget for fremstillingen er derfor andre dokumenter, for eksempel
-dommer og avhør av gjerningsperson, privatpersoner og ansatte i instansene.
-
-12.9.2 Asylmottak
-De aller fleste flyktninger bor på asylmottak mens
-de venter på at Utlendingsdirektoratet (UDI) skal
-behandle søknaden deres, og deretter på at Inkluderings- og mangfoldsdirektoratet (IMDi) skal
-finne en kommune de skal bo i. Det var trolig kontakt med asylmottak i alle de 9 sakene hvor gjerningspersonen og/eller offeret kom til Norge som
-flyktninger. Det var først og fremst kontakten i
-sakene hvor offer og gjerningsperson bodde på
-asylmottak som et par/familie som var relevant
-for forebygging. Dette var tilfellet i 3 saker, og
-fremstillingen avgrenses til disse 3 sakene, se
-punkt 12.9.1. I 2 av de 3 sakene inneholdt straffesaksdokumentene en del opplysninger om kontakten med asylmottaket.512
-I den første saken var det opplysninger om at
-gjerningspersonen utsatte offeret for både fysisk
-og psykisk vold da de bodde på asylmottak. Gjerningspersonen kontrollerte offeret både økonomisk og sosialt. Det var også opplysninger om at
-offeret utøvde vold mot gjerningspersonen, og at
-begge foreldrene utsatte barna for vold. Det syntes som om de ansatte på mottaket verken var
-kjent med, eller mistenkte, vold i familien.
-En tid før drapet ga offeret, overfor en veiledningstjeneste utenfor asylmottaket, uttrykk for at
-hun var bekymret for gjerningspersonen som
-følge av endret atferd, og mye irritabilitet og frustrasjon. Dette ble videreformidlet til asylmottaket,
-og en ansatt på mottaket gjennomførte da en alenesamtale med gjerningspersonen. Gjerningspersonen ga ikke uttrykk for at noe var galt, og det
-ble tilsynelatende ikke tatt opp spørsmål om partnervold i samtalen. Gjerningspersonen hadde
-flere år tidligere blitt anmeldt for partnervold mot
-sin tidligere samboer, men dette hadde ikke asylmottaket kunnskap om.
-I den andre saken utøvde gjerningspersonen
-vold mot både offer og barn da familien bodde på
-asylmottak. Dette var kjent for flere privatpersoner.
-I forbindelse med en voldshendelse, skal barnet ha
-fortalt ansatte på asylmottaket at det var gjerningspersonen som utøvde volden. Opplysninger i saken
-tydet på at asylmottaket sendte bekymringsmelding til barneverntjenesten. Det var uklart hvordan
-saken ble fulgt opp, og det var ingen dokumentasjon fra barneverntjenesten om denne bekymringsmeldingen. Asylmottakets ansatte stilte tilsy512 Straffesaksdokumentene inneholdt en del opplysninger om
-
-kontakten med asylmottaket i én sak til, men opplysningene i denne saken var først og fremst fra tiden etter at
-familien bodde der, da paret hadde praksisplass på mottaket. Denne saken omtales ikke her.
+## Helse- og omsorgstjenesten
+
+### Om kontakten
+
+#### Dokumentasjon
+
+Straffesaksdokumentene inneholdt dokumentasjon fra helsetjenesten i 17 av de 19 gjennomgåtte sakene. Det var dokumentasjon om offer i 11 saker,[^489] og dokumentasjon om gjerningsperson i 15 saker. Dokumentasjonen bestod oftest av pasientjournal fra fastlege. Det var i mange saker også innhentet dokumentasjon fra legevakt, sykehus, ambulansetjeneste, psykisk helsevern og helsestasjon. I 4 saker var det innhentet pasientjournaler om barn i familien.
+
+Politiet hadde gjennomgående innhentet mest dokumentasjon om gjerningspersonene i forbindelse med etterforskningen. Gjerningspersonenes kontakt med helse- og omsorgstjenesten var dermed bedre belyst i straffesaksdokumentene enn det som var tilfellet for ofrene. Dette hadde også sammenheng med at de rettspsykiatriske erklæringene inneholdt mye relevant informasjon, og at gjerningspersonene ofte delte relevante opplysninger i avhør.
+
+#### Hvilke instanser var det kontakt med?
+
+Offer og/eller gjerningsperson hadde, ifølge straffesaksdokumentene, kontakt med én eller flere instanser i helse- og omsorgstjenesten før drapet i alle de gjennomgåtte sakene.
+
+Det var kontakt med fastlege i 18 saker. Totalt var det 11 ofre og 15 gjerningspersoner som hadde kontakt med fastlege før drapet. Videre var det registrert kontakt med legevakten i 7 saker, med sykehus i 7 saker, med ambulansetjenesten i 4 saker og med akuttmedisinsk kommunikasjonssentral (AMK)[^490] i én sak. I 4 saker var gjerningsperson og/eller offer i kontakt med helsestasjon, og i én sak var gjerningsperson og/eller offer i kontakt med fysioterapeut. I en sak var det kontakt med hjemmesykepleien og i én sak var det kontakt med flyktninghelsetjenesten. I ytterligere én sak bodde offeret i en kommunal omsorgsbolig og ble fulgt opp av helsepersonell der.
+
+I 6 saker var det opplysninger om at offer og/eller gjerningsperson hadde kontakt med psykisk helsevern. I én av disse sakene hadde offeret fått rusbehandling på distriktspsykiatrisk senter (DPS), og i 2 saker hadde offeret og gjerningspersonen kontakt med en psykiatrisk sykepleier.
+
+Utvalget fant ingen opplysninger om at gjerningspersonen eller offeret hadde vært i kontakt med et behandlingstilbud for voldsutøvere utenfor den offentlige helse- og omsorgstjenesten, se punkt 7.3.4.2.
+
+#### Hva handlet kontakten om?
+
+Kontakten med helse- og omsorgstjenesten handlet først og fremst om gjerningspersonenes og ofrenes somatiske og psykiske helseplager. Se punkt 10.6 for en oversikt over kliniske forhold i sakene. Blant disse var det noen saker hvor partnervold var et tema i kontakten. En del hadde også kontakt med helsetjenesten på grunn av barns behov for helsehjelp.
+
+Det var store variasjoner mellom sakene – både med hensyn til hva kontakten handlet om, og om kontakten var relevant for forebygging av partnerdrap. I én sak ble for eksempel offeret brakt til sykehus med kritiske skader som følge av partnervold. Kontakten med helsetjenesten var da utvilsomt svært relevant for å belyse hjelpeapparatets håndtering av saken. I en annen sak var gjerningspersonen hos fastlegen én gang for å undersøke en albue. I denne saken var ikke kontakten med helsetjenesten særlig relevant for forebygging. Kontakt om psykiske helseproblemer eller rusproblematikk var på sin side ofte relevant, også når partnervold aldri ble et tema. Slike utfordringer er faktorer som kan bidra til forhøyet risiko for partnervold og partnerdrap, se punkt 4.4.6 og 4.4.7.
+
+Offeret og/eller gjerningspersonen hadde kontakt med helsetjenesten på grunn av somatiske helseplager i alle sakene. I 6 av sakene var det opplysninger om at helseplagene skyldtes partnervold.[^491] Det var flere voldsutsatte som ved én eller flere hendelser ble brakt til, eller selv oppsøkte, legevakt, fastlege eller sykehus, som følge av fysiske voldsskader. Mesteparten av kontakten med helsetjenesten gjaldt imidlertid andre somatiske helseplager hos offeret eller gjerningspersonen. Dette var plager som ikke kunne knyttes direkte til partnervold, for eksempel kronisk smerteproblematikk, hjertesymptomer eller andre mer diffuse plager. I 2 saker handlet kontakten om omfattende somatiske helseplager, henholdsvis alvorlig sykdom og alvorlig funksjonsnedsettelse.
+
+I 13 saker var psykiske helseplager et tema i kontakten med helsetjenesten. Med psykiske plager menes her både diagnostisert psykiske lidelser og symptomer på psykiske lidelser. I 2 saker handlet kontakten om diagnostiserte psykiske lidelser. I én av disse var det tale om alvorlige psykiske lidelser, og som medførte at gjerningspersonen ble erklært utilregnelig og dømt til tvungent psykisk helsevern etter drapet. I ytterligere 2 saker var det opplysninger om at offeret og/eller gjerningspersonen tidligere hadde hatt kontakt med helsetjenesten om alvorlige, diagnostiserte psykiske lidelser. I én sak gjaldt kontakten et selvmordsforsøk, og i 5 saker gjaldt kontakten tilsynelatende moderate eller mindre alvorlige psykiske plager. Utvalget understreker at det i flere saker var kontakt med helsetjenesten om psykiske helseplager uten at det var kontakt med psykisk helsevern.
+
+I sakene hvor paret hadde kontakt med helsetjenesten om barn, handlet kontakten først og fremst om alminnelige somatiske plager. I en del tilfeller bestod kontakten av oppfølging på helsestasjon.
+
+Partnervold var et tema i kontakten med helsetjenesten i 7 saker. I disse sakene var det opplysninger om at helsepersonell enten kjente til partnervold (5 saker)[^492] eller mistenkte at pasienten var utsatt for partnervold (2 saker).[^493] Se nærmere om avdekking av vold i punkt 12.4.2.2.
+
+I de 12 resterende sakene var det ingen opplysninger om at vold var et tema i kontakten med helsetjenesten. Blant disse var det likevel noen saker hvor kontakten handlet om fysiske voldsskader, og noen saker hvor pasienten ble utsatt for langvarig og omfattende mishandling av partner. Det var på denne bakgrunn ingen sammenheng mellom voldens karakter og omfang, og om vold var et tema i kontakten med helsetjenesten.
+
+#### Omfang og varighet
+
+Det var betydelige forskjeller mellom sakene når det gjelder det dokumenterte omfanget og varigheten av kontakten med helse- og omsorgstjenesten. I noen saker var det innhentet mye dokumentasjon fra helsetjenesten, mens det i andre saker var innhentet vesentlig mindre.
+
+Kontakten med helsetjenesten ble som regel opprettet ved at offeret eller gjerningspersonen selv oppsøkte en instans i helsetjenesten som følge av behov for medisinsk hjelp. I noen saker ble personen brakt til sykehus eller legevakt av ambulansetjenesten eller av andre instanser. I de fleste sakene syntes det som at offeret og/eller gjerningspersonen hadde en eller annen form for kontakt med helsetjenesten helt frem til drapet.
+
+Når det gjelder kontakten om somatiske helseplager, var kontakten i de fleste sakene nokså lite omfattende og av sporadisk karakter. I 2 saker var det imidlertid svært omfattende kontakt på grunn av behov for omfattende behandling og pleie. Det var også enkelte andre saker hvor det var både hyppig og langvarig kontakt med helsetjenesten. Dette gjaldt særlig saker hvor pasienten hadde kroniske og/eller diffuse helseplager.
+
+Kontakten med helsetjenesten om psykiske helseplager var i flere saker også kortvarig og lite omfattende. Dette var for det første tilfellet i sakene hvor pasienten hadde kontakt med fastlege eller sykehus om psykiske plager, uten å bli henvist til psykisk helsevern. Det var for det andre tilfellet i en del saker hvor det var kontakt med psykisk helsevern, og de psykiske plagene syntes å ha vært moderate eller mindre alvorlige. I disse sakene gikk tilsynelatende offeret eller gjerningspersonen til psykolog eller psykiatrisk sykepleier i korte perioder. Kontakten om psykiske helseplager var mest omfattende i én sak hvor gjerningspersonen hadde alvorlige psykiske lidelser. I denne saken var det svært omfattende og langvarig kontakt med psykisk helsevern og andre instanser i helsetjenesten. Vedkommende var innlagt både frivillig og under tvang flere ganger, og brukte mye medikamenter. I 2 saker hvor kontakten handlet om tidligere alvorlige psykiske lidelser, syntes kontakten å ha vært omfattende, men kortvarig. I disse sakene hadde plagene medført medikamentell behandling om en innleggelse i psykisk helsevern.
+
+I sakene hvor kontakten med helsetjenesten handlet om barns behov for helsehjelp, bestod kontakten som regel av alminnelig kontakt ved oppfølging på helsestasjon, eller sporadisk kontakt med fastlege i forbindelse med sykdom eller skade. I enkelte saker var det noe mer omfattende kontakt, for eksempel ved deltakelse på foreldreveiledningsprogram i regi av helsestasjonen, eller ved hyppige konsultasjoner hos fastlege eller helsestasjon.
+
+Når det gjelder sakene hvor vold var et tema, etterlot disse et inntrykk at det ikke var noen tydelig sammenheng mellom helsepersonells mistanke eller kunnskap om vold, og omfanget og varigheten av kontakten. I én sak måtte for eksempel offeret legges inn på sykehuset med omfattende voldsskader som følge av partnervold. Sykehuset mistenkte at skadene skyldtes vold. Da pasienten selv benektet dette, ble hun utskrevet uten avtale om en oppfølgingstime eller liknende. I sakene hvor det var mer eller mindre omfattende kontakt og oppfølging fra helsetjenestens side, handlet dette som regel om somatiske eller psykiske helseplager som ikke ble sett i sammenheng med volden.
+
+### Om helsetjenestens håndtering av sakene
+
+#### Innledning
+
+Utvalget har særlig vurdert helsetjenestens arbeid med å avdekke partnervold og annen familievold. Utvalget har også vurdert helsetjenestens håndtering av rusproblemer og psykiske plager. Slike utfordringer er faktorer som kan bidra til forhøyet risiko for partnervold og partnerdrap. Helsetjenestens arbeid i slike saker er derfor viktig i arbeidet med forebygging. Utvalget har ikke vurdert helsetjenestens helsefaglige vurderinger genrelt. Dette falt, etter utvalgets syn, utenfor mandatet.
+
+#### Avdekking av vold i nære relasjoner
+
+Helsetjenesten hadde journalført, og dermed registrert, kunnskap om partnervold i 5 saker. I disse sakene fikk helsepersonell kunnskap om vold ved at pasienten selv fortalte om det (4 saker), eller fordi barneverntjenesten informerte helsetjenesten om det. I én av de 5 sakene fortalte også voldsutøveren om volden mot den voldsutsatte.
+
+Helsepersonell journalførte i tillegg mistanke om partnervold i 2 saker. I begge sakene fremgikk det at helsepersonell spurte offeret én gang om hun ble utsatt for vold. Offeret benektet dette i begge tilfellene. I den ene saken fortalte offeret om relativt omfattende kontrollerende atferd fra gjerningspersonen, blant annet ved at han hindret henne i å delta på sosiale aktiviteter og å ha ordinær sosial kontakt med andre menn. Det så ikke ut til at dette ble fulgt opp, eller at det ble gjort nærmere undersøkelser fra helsepersonells side for å avdekke andre former for vold.
+
+I de resterende 12 sakene var det ingen opplysninger som indikerte at vold var et tema i kontakten med helsetjenesten. I 3 av disse sakene hadde offeret en skade som ble forklart med at vedkommende hadde falt. I én av sakene tydet journalførte opplysninger på at ambulansepersonell tvilte på offerets forklaring, men at dette ikke ble tatt opp med pasienten. Fastlegen, som ble gjort kjent med ambulansepersonellets tvil, tok tilsynelatende heller ikke opp dette med pasienten. I den andre saken forklarte offeret en skade i hånden med et fall. Helsepersonell utfordret ikke offerets forklaring, og det var heller ingen opplysninger om at helsepersonell gjorde en selvstendig vurdering av om skaden var forenlig med forklaringen. Helsepersonell som kjente offeret privat sa i avhør etter drapet at de hadde reagert på at skaden ikke samsvarte med offerets forklaring, og at de mistenkte at offeret hadde blitt utsatt for vold. I den tredje saken oppga offeret et fall som årsak til helseplager ved flere konsultasjoner med fastlegen. Ved én anledning hadde hun en skade ved øyet. Ifølge vitneavhør etter drapet, var skadene forårsaket av partnervold. Fastlegen stilte ikke spørsmål om vold. I denne saken ble også gjerningspersonen nærmest rutinemessig brukt som tolk under konsultasjonene. Se nærmere om tolking i punkt 14.3.3.
+
+I flere av de 12 sakene hvor vold ikke var et tema, hadde offeret eller gjerningspersonen hatt mange konsultasjoner i helsetjenesten på grunn av fysiske – og noen ganger diffuse – plager. I én av disse sakene mente fastlegen at gjerningspersonens fysiske plager ikke samsvarte med antatt diagnose. I en annen sak hadde offeret svært hyppig kontakt med fastlegen om ulike fysiske og psykiske plager. Det var ingen opplysninger om at helsepersonell stilte spørsmål om vold i disse sakene, eller om at de ellers vurderte om plagene kunne ha sammenheng med voldsutsatthet.
+
+#### Særlig om rus og medikamentbruk
+
+Flere gjerningspersoner og ofre hadde, eller hadde hatt, rusproblemer, se punkt 10.6. Rusproblemene var både knyttet til alkohol og til medikamenter utskrevet av lege, men var i relativt liten grad et tema i kontakten med helsetjenesten. I 4 saker var rusproblemer et tema, men det var bare opplysninger i 2 saker om at dette ledet til oppfølging fra helsetjenestens side.
+
+Alkoholavhengighet var et tema i kontakten med helsetjenesten i 2 saker. I den ene saken hadde pasienten gjennomgått rusbehandling på DPS. I den andre saken var alkoholavhengighet et tema i pasientens kontakt med fastlegen, men det var ingen opplysninger om at dette ledet til behandling.
+
+Medikamentmisbruk var også et tema i kontakten med helsetjenesten i 2 saker. I begge sakene hadde offeret og/eller gjerningspersonen god tilgang til medikamenter over tid. I den ene saken hadde offeret en betydelig fysisk funksjonsnedsettelse, og fikk utskrevet mye medikamenter. Både offeret og gjerningspersonen hadde en historikk med rusmisbruk. Offerets fastlege hadde problematisert medikamentbruken med vedkommende jevnlig over flere år, og gjentatte ganger nektet å gi ut nye resepter for A- og B-preparater. Det var imidlertid gjerningspersonen som i praksis hadde ansvar for offerets medisinering, og det kan ha bidratt til overforbruk. I den andre saken hadde pasienten en alvorlig psykisk lidelse og brukte mye medikamenter. Helsepersonell diskuterte omfanget av medikamentbruken med pasienten flere ganger. I samråd med vedkommende, ble dosene redusert og enkelte medisiner byttet ut.
+
+I enkelte andre saker så utvalget at pasienten fikk utskrevet mye vanedannende, smertestillende medikamenter, tilsynelatende uten at dette var et tema i kontakten med helsetjenesten. I disse sakene syntes bruken av slike medikamenter å ha startet i forbindelse med en skade eller psykiske plager. Utskrivningene fortsatte i flere år etterpå, delvis også uten at pasienten møtte opp hos fastlegen.
+
+I flere saker ble partnerdrapet begått mens gjerningspersonen var ruset på alkohol og medikamenter, se punkt 10.5.
+
+#### Hva gjorde helsetjenesten i saker hvor de hadde mistanke eller kunnskap om vold?
+
+Forskjellige instanser i helsetjenesten hadde mistanke eller kunnskap om partnervold før drapet i 7 saker. Utvalgets inntrykk er at helsetjenesten først og fremst tilbød alminnelig helsehjelp i disse sakene, og at de i mindre grad iverksatte målrettede voldsforebyggende tiltak eller varslet andre instanser.
+
+Når det gjelder helsehjelpen, ble fysiske voldsskader for eksempel behandlet med sårstell eller røntgen. Slik helsehjelp er i seg selv ikke særlig relevant for forebygging av fremtidig vold og drap. Utvalgets inntrykk var for øvrig at pasientene fikk den somatiske helsehjelpen de trengte.
+
+I noen saker var helsehjelpen rettet mot psykiske plager. I 2 saker ble den voldsutsatte henvist psykisk helsevern for oppfølging, men det ble ikke sørget for at kontakten ble opprettet. Helsepersonell hadde kunnskap om partnervold i begge sakene. I den ene saken oppsøkte også flere andre personer, i tillegg til offeret, helsetjenesten med voldsskader forårsaket av gjerningspersonen. De fortalte om en reell frykt for at gjerningspersonen ville utøve vold på nytt, men ble tilsynelatende bare henvist til psykisk helsevern eller tilbudt medisinering for psykiske plager. Det var ingen opplysninger om at helsetjenesten iverksatte voldsforebyggende tiltak eller varslet andre instanser.[^494]
+
+I en tredje sak kontaktet gjerningspersonen selv helsetjenesten for oppfølging i psykisk helsevern. I denne saken var gjerningspersonen alvorlig psykisk syk og ble stadig dårligere i dagene frem mot drapet. Vedkommende ble først avvist på grunn av manglende kapasitet. Da det senere var kapasitet til å tilby pasienten hjelp, ønsket ikke vedkommende lenger dette. Tvangsinnleggelse ble vurdert, men én instans i helsetjenesten mente det ikke var grunnlag for tvang, og en annen instans hadde ikke kompetanse til å vurdere det. Det ble i stedet avtalt et hjemmebesøk hos gjerningspersonen, men drapet skjedde før dette fant sted.
+
+Når det gjelder målrettede voldsforebyggende tiltak, var det én sak som skilte seg ut i positiv retning. I denne saken ble det gitt oppfølging ved legevakten etter at den ene parten i forholdet fortalte om partnervold og frykt for livet sitt. Vedkommende fikk blant annet tilbud om kriserådgivning, oppfølgingssamtaler og hjelp til å kontakte politiet. Vedkommende fikk også informasjon om krisesentertilbudet og kontaktinformasjon til bistandsadvokater. Helsepersonell vurderte også sikkerhetssituasjonen til vedkommende. Straffesaksdokumentene viste at det var den mest dominerende parten i forholdet som fikk denne oppfølgingen hos legevakten, og det var denne personen som ble gjerningsperson i partnerdrapet.
+
+Utvalget så i tillegg ett eksempel på at helsestasjonen tilbød den voldsutsatte og voldsutøveren å delta på et foreldreveiledningsprogram (ICDP),[^495] og ett eksempel på at helsetjenesten oppfordret den aktuelle familien til å kontakte familiesenteret i kommunen.[^496] Familien fikk veiledning der i en kort periode før drapet skjedde.
+
+Det var ingen opplysninger om at helsetjenesten gjennomførte en strukturert vurdering av risikoen for fremtidig vold, for eksempel ved hjelp av risikovurderingsverktøyet *Danger Assessment*, se punkt 7.3.3.2.
+
+Når det gjelder informasjonsutveksling, viste straffesaksdokumentene at helsepersonell varslet politiet om vold i 2 av de 7 sakene hvor de hadde mistanke eller kunnskap om vold. I den ene saken varslet AMK politiet da de mottok et anrop fra en mann som fortalte at ektefellen var skadet. I den andre saken varslet legevakten politiet etter at flere privatpersoner hadde meldt fra om alvorlig bekymring for gjerningspersonens psykiske helse og muligheten for at vedkommende ville utøve vold.
+
+Blant de 5 sakene hvor helsetjenesten ikke varslet politiet, fremgikk det i 2 saker at helsepersonell visste at politiet allerede hadde kunnskap om volden. Varsling til politiet kan derfor ha blitt ansett unødvendig. I de 3 øvrige sakene hadde verken gjerningspersonen eller offeret kontakt med politiet angående partnervolden. I den ene saken mistenkte helsepersonell at offeret ble utsatt for vold, men fikk benektende svar da de spurte vedkommende om dette.
+
+I de 2 siste sakene hadde helsepersonell kunnskap om partnervold. Det var ikke tilstrekkelige opplysninger i sakene for å vurdere hvorfor helsetjenesten ikke varslet politiet. Det var dermed ikke grunnlag for å vurdere om manglende varsling i disse sakene utgjorde et brudd på avvergeplikten i straffeloven § 196.
+
+Straffesaksdokumentene viste videre at helsepersonell kontaktet barneverntjenesten i 3 saker. Det ble sendt bekymringsmelding i 2 av sakene. I den tredje saken hadde allerede barnet selv varslet barneverntjenesten, og helsepersonell tok kontakt med saksbehandler for å undersøke om det var gjort noe i saken.
+
+Det var tilsynelatende ingen gjerningspersoner eller ofre som ble henvist til å ta kontakt med et spesialisert behandlingstilbud for vold i nære relasjoner, se punkt 7.3.4.
+
+#### Særlig om håndtering av psykiske helseplager
+
+I 13 saker var psykiske helseplager et tema i kontakten med helsetjenesten. I 3 av disse sakene handlet kontakten også om partnervold. Den voldsutsatte og/eller voldsutøveren fikk i disse 3 sakene tilbud om psykisk helsehjelp, se 12.4.2.4.
+
+Blant de 13 sakene var det flere eksempler på at pasienten fikk psykisk helsehjelp, eller fikk tilbud om slik behandling. I 2 saker gikk for eksempel pasienten periodevis til psykolog eller en psykiatrisk sykepleier. I 3 saker fikk pasienten mer omfattende behandling, herunder frivillig innleggelse og medikamentbehandling. Psykiske helseplager var også et tema i møte med fastlege eller psykiatrisk sykepleier i 4 saker, men det var ingen opplysninger i journalnotatene om hvordan dette ble håndtert.
+
+I de 4 siste sakene var det ingen opplysninger om at de psykiske helseplagene førte til behandling eller annen oppfølging. I én av disse sakene ba gjerningspersonen fastlegen sin om henvisning til psykolog, men fikk ikke dette. I en annen sak fortalte pasienten om symptomer på psykisk sykdom. Fastlegen hadde kjennskap til pasientens økonomiske problemer og alkoholavhengighet. Dokumentene ga inntrykk av at legen mente at plagene ville gå over så fort pasienten fikk orden på økonomien. Pasienten fikk utskrevet medisiner mot plagene og mange sykemeldinger, men ble ikke henvist til psykisk helsevern.
+
+I en tredje sak meldte offeret bekymring for gjerningspersonens psykiske helse, og dette førte til at helsepersonell gjennomførte en samtale med gjerningspersonen. Det kom ikke noe ut av samtalen, og saken ble ikke fulgt opp.
+
+I en fjerde sak forsøkte pasienten å begå selvdrap noen år før vedkommende begikk partnerdrap. Helsepersonell varslet barneverntjenesten, men pasienten ble ikke henvist til psykisk helsevern.
+
+### Informasjonsutveksling
+
+#### Informasjonsutveksling mellom instanser i helsetjenesten
+
+Utvalgets inntrykk var at informasjonsutveksling mellom instansene i helsetjenesten i hovedsak skjedde gjennom oversendelser av epikriser, se boks 7.5 i punkt 7.3.2.2.
+
+I flere av sakene hvor helsepersonell hadde mistanke eller kunnskap om partnervold, ble denne informasjonen videreformidlet til en annen instans gjennom epikrise eller på annen måte. I én sak mottok for eksempel pasientens fastlege epikrise fra sykehuset, hvor det fremgikk at sykehuslegen mistenkte at pasienten var utsatt for vold. Det var imidlertid også eksempler på at mistanke eller kunnskap om vold ikke ble formildet til andre instanser. I én sak hadde for eksempel legevakten opplysninger om at pasienten ble utsatt for vold, uten å videreformidle dette til fastlegen eller andre instanser. I en annen sak hadde helsestasjonen kunnskap om at offeret ble utsatt for vold, uten å formidle dette videre.
+
+#### Informasjonsutveksling med andre instanser i hjelpeapparatet
+
+Helsetjenesten varslet politiet i 2 saker. I ytterligere 2 saker visste helsetjenesten at partene allerede var i kontakt med politiet.
+
+Helsetjenesten varslet barneverntjenesten i 2 saker på grunn av mistanke eller kunnskap om vold i familien. I én av sakene ble barneverntjenesten varslet to ganger, den andre gangen på grunn av gjerningspersonens selvmordsforsøk. I ytterligere én sak kontaktet helsetjenesten barneverntjenesten for å undersøke status i en pågående undersøkelsessak. Utvalget så også ett eksempel på at en helsestasjon utleverte opplysninger om et barn etter pålegg fra barneverntjenesten, jf. barnevernloven § 6-4 annet ledd.
+
+Det var også noe informasjonsutveksling med andre deler av hjelpeapparatet. I én sak hadde helsepersonell kontakt med familiesenteret i kommunen, og med frivillighetssentralen hvor offeret deltok på aktiviteter. I en annen sak hadde helsepersonell kontakt med en flyktningkonsulent som fulgte opp familien. I en tredje sak ble helsepersonell ved asylmottaket kontaktet av en privat stiftelse som offeret hadde kontakt med.
+
+### Utfordringer
+
+#### Hovedinntrykk
+
+Helse- og omsorgstjenesten var, ved siden av politiet, den delen av hjelpeapparatet som ofrene og gjerningspersonene oftest hadde kontakt med før partnerdrapet. I mange saker var det også langvarig og omfattende kontakt med helsetjenesten, spesielt med fastlegen.
+
+Utvalget så noen eksempler på at helsetjenestens håndtering var egnet til å virke forebyggende mot partnerdrap og partnervold. I én sak fulgte for eksempel helsetjenesten opp pasienten etter at vedkommende fortalte om partnervold, blant annet ved medisinsk oppfølging, henvisning til andre instanser og sikkerhetsvurdering. I en annen sak sørget helsetjenesten for å øke sikkerheten ved omsorgsboligen hvor den voldsutsatte bodde, for å holde voldsutøveren borte. I andre saker vurderte for eksempel fastlegen henvisning til psykisk helsevern, og problematiserte pasientens medikamentbruk. Utvalget så også eksempler på situasjoner hvor helsetjenestens håndtering ikke virket forebyggende, men hvor det likevel var vanskelig å se for seg at helsetjenesten kunne gjort noe annerledes.
+
+Utvalget så imidlertid også en rekke eksempler som viste at det finnes et forebyggingspotensial i helsetjenesten. Dette handlet blant annet om at risikoen for partnerdrap ikke ble fanget opp, manglende oppfølging av pasienter, mangelfull journalføring og manglende informasjonsutveksling. Saksgjennomgangen viste også at det generelt syntes som om helsepersonell forholdt seg mer profesjonelt til somatiske plager enn til mistanke eller kunnskap om vold i nære relasjoner. Etter utvalgets syn, ligger det dermed også et forebyggingspotensial i å utvikle større grad av profesjonalitet og systematisering i håndteringen av voldssaker.
+
+#### Risiko for partnervold og partnerdrap ble ikke fanget opp
+
+Problemstilling
+
+Saksgjennomgangen viste at helsetjenesten i for liten grad fanget opp risikoen for partnervold og partnerdrap. Fanges ikke risikoen opp, kan heller ikke forebyggende tiltak iverksettes. Det var partnervold før drapet i alle sakene, og det var omfattende kontakt med helsetjenesten i mange saker. Utvalget så et par eksempler på at helsepersonell forsto at situasjonen var alvorlig. Det var imidlertid ingen saker som etterlot et inntrykk av at helsetjenesten fanget opp risikoen for at partnerdrap kunne skje. At helsetjenesten ikke fanget opp risikoen for partnerdrap hadde, etter utvalgs syn, dels sammenheng med at helsetjenesten i for liten grad bidro til å avdekke vold og å kartlegge risikobildet. Dels hadde det sammenheng med at helsetjenesten ikke i tilstrekkelig grad forstod at det de observerte var faktorer som kan bidra til forhøyet risiko, og dels med at helsetjenesten enten ikke vurderte, eller undervurderte, risikoen for alvorlig vold og drap.
+
+Avdekking og kartlegging
+
+Det var en stor utfordring at helsetjenesten sjelden stilte spørsmål om vold, selv ikke i forbindelse med fysiske skader eller psykiske symptomer som var egnet til å danne bekymring. I de tilfellene hvor helsetjenesten stilte spørsmål om vold, syntes det ikke som om helsepersonell utviste særlig iherdighet for eksempel ved å stille oppfølgingsspørsmål når pasienten benektet vold.
+
+Utvalget så blant annet eksempler på at helsetjenesten ikke stilte spørsmål om vold i situasjoner hvor offeret hadde skader som samsvarte dårlig med forklaringen på hvordan skaden hadde oppstått, se punkt 12.4.2.2. Helsepersonell foretok tilsynelatende heller ikke en selvstendig vurdering av pasientens forklaring. I én sak indikerte pasientjournalen at legen var usikker på om den voldsutsattes forklaring stemte. Pasienten ankom sykehuset med omfattende hodeskader og forklarte at skadene skyldes et fall i trappa. Legen spurte om hun var utsatt for vold, men da hun benektet dette, stilte ikke legen flere spørsmål eller fulgte opp på annen måte. Utvalget fikk inntrykk av at et benektende svar på spørsmål om vold førte til at helsepersonell «ga opp». Fra forskning vet vi imidlertid at avdekking av vold krever både tid og iherdighet.[^497]
+
+Utvalget så også flere eksempler på at helsetjenesten var kjent med flere faktorer som kan bidra til å forhøye risikoen for partnervold og partnerdrap. I én sak hadde offeret en alvorlig fysisk funksjonsnedsettelse,[^498] og begge partene hadde tidligere, og i tiden før drapet, misbrukt rusmidler. De hadde også svak tilknytning til arbeidslivet. Opplysninger i saken indikerte at paret levde i en svært krevende situasjon, og at begge slet psykisk. Det var omfattende kontakt med helsetjenesten og hyppige hjemmebesøk. Det syntes likevel ikke som om helsetjenesten stilte spørsmål om vold eller på annen måte forsøkte å kartlegge risikobildet. I en annen sak hadde offeret time hos fastlegen svært ofte over en lengre periode, og fortalte om ulike diffuse plager flere ganger. Fastlegen stilte spørsmål om plagene kunne ses i sammenheng med at offeret var deprimert, men dette benektet hun. Diffuse plager kan være et symptom på voldsuttsatthet, men legen stilte ikke spørsmål om vold. Diffuse plager bør alltid tolkes kontekstuelt, i lys av den enkeltes øvrige livssituasjon. Utvalget registrerte ingen tilfeller hvor helsepersonell forsøkte å avdekke om vold kunne være en underliggende årsak til helseplagene.
+
+Utvalget så videre eksempler på at omstendigheter ved selve møtet mellom pasienten og helsepersonell gjorde det vanskeligere for den voldsutsatte å fortelle om volden, eller om andre forhold som kunne bidratt til å avdekke volden. Det var behov for tolk i 11 saker, se også punkt 10.3. Likevel brukte helsetjenesten tolk i bare én sak. I 3 saker ble den ene parten fulgt av den andre til konsultasjoner i helsetjenesten, hvor den andre fungerte som tolk. I én av disse sakene var for eksempel gjerningspersonen med på offerets hyppige konsultasjoner hos fastlegen, og fungerte nærmest systematisk som tolk. Gjerningspersonen var også med på konsultasjoner en periode hvor paret ikke lenger bodde sammen. Legen var klar over at de ikke lenger var et par, men dette syntes ikke å ha blitt problematisert. Legen tilbød heller ikke alenesamtaler. I de to andre sakene ble gjerningspersonen brukt som tolk hos fastlegen en del ganger, men ikke like systematisk. Manglende bruk av kvalifisert tolk var i strid med helsetjenestens veileder om bruk av tolk.[^499]
+
+Utvalgets inntrykk er at partenes tilstedeværelse og funksjon som tolk kan ha bidratt til at partnervold ikke ble et tema under konsultasjonene. Det er nærliggende å tro at både legen og den voldsutsatte vegret seg for å ta opp vanskelige og sensitive temaer da voldsutøveren var til stede. Se mer om utfordringene ved bruk av familiemedlem som tolk i punkt 14.3.3.
+
+I en annen sak reagerte helsepersonell på at voldsutøveren fremsto ubehagelig, sint og truende overfor flere av de ansatte, og at han fremsatte krav til hvordan undersøkelser av den voldsutsatte skulle gjennomføres. Han insisterte blant annet på at undersøkelsen måtte foretas av kvinnelig lege, uten at dette ble begrunnet på en rimelig måte. Etter utvalgets syn, var det problematisk at helsepersonell ikke spurte pasienten om voldsutsatthet og/eller tilbød vedkommende alenesamtale.
+
+Sakene etterlot et inntrykk av at det var tilfeldig og personavhengig om helsepersonell stilte spørsmål om vold. Det syntes også å være tilfeldig og personavhengig om helsetjenesten vurderte hvorvidt en skade samsvarte med pasientens forklaring på hvordan den oppstod, og om pasientjournalen reflekterte legens vurdering av risikoen.
+
+Sakene ga også grunnlag for å stille spørsmål ved om helsetjenesten i tilstrekkelig grad er bevisst sin rolle og posisjon til å avdekke vold i møte med pasienter. Etter utvalgets syn, etterlot sakene et inntrykk av at særlig fastleger kunne ha gjort mer for å avdekke vold og kartlegge risikobildet i sakene. Det var fastleger som hadde mest kontakt med ofrene og gjerningspersonene. De hadde også ofte kontakt over tid, noe som gjorde at fastlegene fikk viktig kunnskap om parenes livssituasjon. De hadde også et tillitsforhold til pasientene. Utvalgets inntrykk var likevel at helsetjenesten, og særlig primærhelsetjenesten, ikke benyttet det handlingsrommet de hadde til å avdekke og kartlegge partnervold.
+
+Forståelse og oppfatning av vold i nære relasjoner
+
+Utvalget så eksempler på at helsetjenesten ikke syntes å ha forstått eller oppfattet at det de observerte i møte med pasienten, var vold i nære relasjoner. Dermed «overså» de en viktig risikofaktor for partnerdrap, se også punkt 11.2. Eksemplene har til felles at offeret fortalte om forskjellige former for psykisk vold. I én sak fortalte offeret til en psykiatrisk sykepleier om kontrollerende atferd fra gjerningspersonen, og om at han begrenset hennes tilværelse. Det offeret fortalte ble imidlertid ikke oppfattet som vold, verken av helsepersonell eller av offeret selv. Sykepleieren spurte offeret om gjerningspersonen hadde utsatt henne for vold, men offeret benektet dette. Sykepleieren gikk ikke nærmere inn i saken ved å forklare begrepet vold og hvordan vold kan utspille seg på ulike måter i et parforhold.
+
+Risikovurdering
+
+Utvalget fant ingen opplysninger om at helsetjenesten gjennomførte strukturerte vurderinger av risiko for partnervold eller partnerdrap. Utvalget fant heller ingen opplysninger om at helsetjenesten gjennomførte usystematiske risikovurderinger. Helsepersonell er ikke pålagt å foreta risikovurderinger ved hjelp av risikovurderingsverktøy, se punkt 7.3.3.2. Utvalget mener likevel at mangelen på risikovurderinger var en utfordring i sakene, særlig i de tilfellene hvor helsepersonell hadde kunnskap om vold i nære relasjoner. I den grad risiko ble vurdert, syntes den også å ha blitt undervurdert.
+
+Til sammenligning, så utvalget eksempler på at helsetjenesten, i henhold til nasjonale faglige retningslinjer, vurderte risiko for selvmordsfare.[^500] Sakene etterlot et inntrykk av at helsepersonell var trent i å vurdere selvmordsfare systematisk. I flere saker forelå det vurderinger av selvmordsfare i epikriser som ble formidlet til andre instanser i helsetjenesten, for eksempel fastlege. Vurdering av om den samme pasienten kunne være en fare for andre, var derimot langt mer tilfeldig. Epikrisene inneholdt svært sjeldent vurderinger av risiko for vold fra, eller mot, andre.
+
+Der hvor helsepersonell fanget opp en viss risiko, ble den tilsynelatende vurdert for lavt eller ikke tatt tilstrekkelig på alvor. Vold i nære relasjoner ble for eksempel i enkelte journaler betegnet som «husbråk» eller liknende. Dette tydet på at alvoret i situasjonen ikke ble forstått.
+
+I noen saker ble alvoret ved volden tilsynelatende undervurdert som følge av at pasienten også hadde andre, alvorlige levekårsutfordringer. Det syntes som om helsetjenesten konsentrerte seg om disse utfordringene, og at volden ble underordnet. I én sak ble for eksempel den voldsutsattes fastlege informert om at vedkommende hadde vært til behandling på sykehuset, og at skaden skyldtes partnervold. Den voldsutsatte slet også psykisk, og den videre kontakten med fastlegen handlet først og fremst om psykiske helseplager. I denne saken førte undervurderingen av risiko for ytterligere vold og partnerdrap til at personen ikke fikk tilstrekkelig oppfølging, se også punkt 12.4.4.3.
+
+I en annen sak misbrukte offeret alkohol. Vedkommende ble én gang innlagt på sykehuset med et betydelig hodetraume forårsaket av vold, men reiste hjem til voldsutøver etter behandling. Sykehuslegen hadde en lenger samtale med pasienten om forholdene hjemme, og mistenkte at skaden skyldtes vold, ikke et fall i beruset tilstand. Legen oppfordret offeret til ikke å drikke alkohol den nærmeste tiden. Pasienten benektet vold og ønsket ikke det offentliges innblanding i livet sitt. Det ble ikke snakket mer om volden, og legen tilbød ikke videre oppfølging.
+
+#### Manglende håndtering
+
+Særlig om oppfølging av vold i nære relasjoner
+
+Saksgjennomgangen viste at det var en utfordring at enkeltpersoner og familier ikke fikk tilstrekkelig oppfølging fra helsetjenesten. Helsetjenesten ga først og fremst nødvendig helsehjelp til de voldsutsatte. Saksgjennomgangen synliggjorde at helsetjenesten har få konkrete virkemidler tilgjengelig for å håndtere voldssaker, og at helsepersonell i for liten grad tok i bruk de virkemidlene som finnes.
+
+Utvalget så flere tilfeller av manglende oppfølging i saker hvor helsetjenesten hadde mistanke eller kunnskap om vold, se punkt 12.4.2.4. I 3 av disse sakene bodde paret sammen. I den ene saken besto helsetjenestens oppfølging i å tilby paret et foreldreveiledningsprogram (ICDP). Det fremgikk at helsepersonell var særlig oppmerksomme på familien ettersom de hadde kunnskap om familievold, og at paret ble valgt ut til å delta på foreldreveiledningsprogrammet fordi familien tilhørte en «utsatt gruppe». I lys av at helsetjenesten hadde kunnskap om vold, var imidlertid ikke dette et adekvat tiltak for å forebygge ytterligere vold eller drap. Det syntes som om helsetjenesten visste at paret hadde kontakt med andre instanser, og at dette bidro til at helsetjenesten ikke iverksatte andre tiltak eller varslet andre instanser. Dermed ble det skapt en form for ansvarspulverisering.
+
+I den andre av de 3 sakene henviste fastlegen offeret til kommunalt helseteam for psykologisk oppfølging og konstaterte at offeret hadde kontaktinformasjon til krisesenteret. Fastlegen var, ifølge journalen, av den oppfatning at politiet håndterte saken, og det syntes ikke som om vold ble tatt opp med offeret igjen under senere konsultasjoner. I den tredje saken hadde sykehuspersonell sterk mistanke om partnervold, men tilbød ikke offeret oppfølgingstime da hun reiste hjem til voldsutøveren, og informerte heller ikke fastlegen om mistanken i epikrisen.
+
+I en fjerde sak var ikke voldsutøveren og den voldsutsatte lenger samboende, men de hadde fremdeles mye kontakt på grunn av felles barn. Den voldsutsatte fortalte helsepersonell om at voldsutøveren brått kunne bli voldelig. I tillegg fortalte flere andre personer om at vedkommende hadde utøvd vold mot dem. Heller ikke i denne saken ble det gitt noen oppfølging fra helsetjenestens side, utover å henvise de voldsutsatte til psykisk helsevern.
+
+Utvalget så ingen eksempler på at helsepersonell tilbød, eller vurderte å tilby, kontakt med spesialisert hjelp for volds- og aggresjonsproblemer eller annen voldsbehandling, se punkt 7.3.4. Utvalget så også svært få eksempler på at voldsutøvere fikk hjelp til å komme i kontakt med psykisk helsevern – det ble som regel bare gitt en oppfordring om selv å ta kontakt.
+
+Særlig om oppfølging av rus og medikamentbruk
+
+Utvalget så flere tilfeller av manglende oppfølging av offerets eller gjerningspersonens rusproblemer, se punkt 12.4.2.3.
+
+I enkelte saker hadde gjerningspersonen og/eller offeret misbrukt rusmidler i flere år, uten at helsetjenesten problematiserte dette. Det syntes særlig som om fastlegen i noen saker var lite oppmerksom på mulig misbruk, og hadde en høy terskel for å nekte pasienten mer medikamenter. I én sak fikk gjerningspersonen flere ganger utskrevet nye resepter på medikamenter fra fastlegen uten å møte opp til legetime. Vedkommende syntes å ha brukt medikamentene i kombinasjon med andre rusmidler, og dette førte til betydelig endret væremåte. Gjerningspersonen utøvde vold mot offeret flere ganger før drapet, og dette skjedde alltid i ruspåvirket tilstand. Gjerningspersonen hadde i tillegg gjennomført et selvmordsforsøk ved medikamentell overdose tidligere.
+
+I en annen sak ville ikke fastlegen skrive ut flere resepter på et av medikamentene, men foreskrev det til slutt rett før drapet. I en tredje sak var det delvis gjerningspersonen som i praksis sørget for å gi offeret nødvendige medisiner. Sammen med offerets helsetilstand, bidro dette til å skape et avhengighetsforhold mellom offeret og gjerningspersonen som kan ha gjort offeret mer sårbar for vold. I en fjerde sak var gjerningspersonens alkoholproblemer et tema i kontakten med fastlegen. Fastlegen kjente også til gjerningspersonens omfattende økonomiske problemer og psykiske helseplager. Det syntes som om fastlegen knyttet rusproblemene til gjerningspersonens usikre livssituasjon, og at legen mente at helseutfordringene ville bli bedre når arbeidssituasjonen og den økonomiske situasjonen ble tryggere. Gjerningspersonen fikk ikke tilbud om oppfølging av rusproblemene eller de psykiske plagene.
+
+Særlig om oppfølging av psykiske plager og lidelser
+
+Saksgjennomgangen viste at flere ofre og/eller gjerningspersoner som var i kontakt med helsetjenesten fikk manglende oppfølging av psykiske plager og lidelser. Sakene var svært ulike, men hadde til felles at personen som hadde behov for psykisk helsehjelp ofte også hadde andre levekårsutfordringer.
+
+I én sak opplevde gjerningspersonen symptomer på psykisk lidelse og ba derfor fastlegen sin om henvisning til psykolog flere år før drapet. Gjerningspersonen ble ikke henvist, og fastlegen begrunnet dette med at slik behandling ikke ville hjelpe. I en annen sak måtte gjerningspersonen på sykehus etter en overdose med medikamenter. Helsetjenesten varslet barneverntjenesten etter selvmordsforsøket, men gjerningspersonen fikk ellers ingen oppfølging etter hendelsen. Helsetjenesten burde, etter utvalgets syn, problematisert gjerningspersonens medikamentforbruk og vurdert henvisning til psykisk helsevern.
+
+I en tredje sak var gjerningspersonen diagnostisert med flere alvorlige psykiske lidelser, og vedkommende hadde både langvarig og omfattende kontakt med helsetjenesten. Helsetjenesten visste at gjerningspersonen hadde utøvd vold mot både offeret og andre. Gjerningspersonen ble likevel avvist av helsetjenesten da vedkommende kort tid før drapet ba om psykisk helsehjelp. Vedkommende ble bedt om å komme tilbake senere. Manglende kapasitet i flere instanser syntes å være hovedgrunnen til at gjerningspersonen ikke fikk tilstrekkelig hjelp i denne saken. Det var for øvrig ingen opplysninger om at helsetjenesten gjennomførte en voldsrisikovurdering, se punkt 12.4.2.4.
+
+Sakene etterlot videre et inntrykk av at oppfølging for psykiske helseplager i for stor grad var opp til pasienten selv. I én sak hadde for eksempel gjerningspersonen en diagnostisert psykisk lidelse og ble henvist til psykiater. Vedkommende møtte ikke opp. For flere var trolig terskelen for å oppsøke hjelp for psykiske plager høy, se også under.
+
+Saksgjennomgangen viste for det tredje at det var en utfordring at mange ofre og gjerningspersoner med symptomer på psykiske helseplager ikke fikk kontakt med helsetjenesten om dette. Flere av de som hadde kontakt med helsetjenesten om somatiske plager, hadde også psykiske plager – uten at dette ble et tema i kontakten med helsetjenesten. Andre hadde knapt noen kontakt med helsetjenesten, til tross for at de opplevde psykiske plager.
+
+Det var tilsynelatende flere grunner til at en del ofre og gjerningspersoner med psykiske plager ikke fikk kontakt om dette med helsetjenesten. Utvalget så eksempler på at personer forsøkte å komme i kontakt med psykisk helsevern uten å få hjelp. I andre saker var ikke helsepersonell tilstrekkelig oppmerksomme på at gjerningspersonen og/eller offeret hadde behov for psykisk helsehjelp. I én av disse sakene hadde offeret en alvorlig fysisk funksjonsnedsettelse som gjorde at gjerningspersonen hadde et omfattende omsorgsansvar. Til tross for at paret befant seg i en svært krevende livssituasjon, ble ikke muligheten for psykisk helsehjelp et tema i kontakten med helsetjenesten.[^501]
+
+I andre saker hadde de aktuelle familiene flyktet til Norge fra områder med krig eller væpnet konflikt, og enkelte kan derfor antas å ha vært traumatiserte etter opplevelser med vold og flukt. I noen saker var det opplysninger om at gjerningspersonen hadde vært fengslet og torturert. Andre hadde traumeerfaring fra barndommen. Det må legges til grunn at flere hadde en sårbarhet for psykiske helseplager. Sakene etterlot et inntrykk av at helsetjenesten ikke var tilstrekkelig oppmerksomme på disse personenes behov for psykisk helsehjelp.[^502]
+
+#### Manglende informasjonsutveksling, journalføring og profesjonalitet
+
+Saksgjennomgangen viste for det første utfordringer ved helsetjenestens informasjonsutveksling med andre instanser i hjelpeapparatet. Det var 2 saker hvor vold var et tema i kontakten med helsetjenesten, uten at politiet var kjent med volden. Helsetjenesten varslet ikke politiet om vold i disse sakene. I den ene av sakene kunne det virke som om helsetjenesten ikke varslet fordi de ansatte oppfattet at andre instanser håndterte saken. I den andre saken hadde helsepersonell mistanke om partnervold. Omstendighetene i saken tydet på at volden ikke ble ansett alvorlig nok til å varsle politiet. Helsetjenesten varslet, til sammenlikning, barneverntjenesten i alle sakene hvor helsetjenesten hadde kunnskap om partnervold i familier med hjemmeboende mindreårige barn. Utvalget fikk for øvrig et inntrykk av at helsepersonell i liten grad meldte fra til, eller delte informasjon med, andre instanser i tråd med opplysningsretten, se punkt 8.7.3.
+
+Saksgjennomgangen viste for det andre utfordringer ved helsetjenestens informasjonsutveksling med andre instanser i helsetjenesten. Ettersom helsetjenesten deler mye informasjon gjennom oversendelser av journaler og epikriser, har dette nær sammenheng med mangelfull journalføring og profesjonalitet. Utvalget så ett eksempel på at legevakten førte grundig journal etter konsultasjon med en voldsutsatt. Denne journalen syntes imidlertid ikke å ha blitt oversendt til noen annen instans, for eksempel pasientens fastlege. Utvalget så også at en innleggelse etter pasientens overdose av medikamenter ikke førte til at fastlegen endret rutinene for utskriving av det aktuelle B-preparatet. Saken etterlot et inntrykk av at dette hadde sammenheng med manglende informasjonsutveksling mellom de aktuelle instansene. I enkelte andre saker fant utvalget at journalene og epikrisene var mangelfulle eller utformet på en uprofesjonell måte. Utvalget fant for eksempel at vold i nære relasjoner ble betegnet som «bråk i hjemmet» eller som «blind vold». I én sak fremgikk det av journal at den voldsutsatte, som bodde sammen med voldsutøver, ble «ivaretatt» av sitt voksne barn. På samme måte som når politiet bruker slike formuleringer, kan dette bidra til å undervurdere en farlig situasjon, og forhindre at andre instanser i helsetjenesten forstår risikobildet.
+
+Utvalget så også et eksempel på at ambulansepersonell tvilte på offerets forklaring på hvordan en skade hadde oppstått. Denne tvilen ble uttrykt i journalen gjennom et spørsmålstegn. Journalen ble oversendt sykehuset. Ambulansepersonell undersøkte verken årsaken til skaden selv, eller oppfordret annet helsepersonell til å gjøre slike undersøkelser.

@@ -1,928 +1,207 @@
-# NOU 2022: 15, del 11 av 34 (side 112–121)
+# NOU 2022: 15, del 11 av 41
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2022/49d91474-nou-2022-15.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2022-15/id2940830/
 - Original-PDF: https://www.regjeringen.no/contentassets/dac114288c9f44f3b95af7dd46cf418b/no/pdfs/nou202220220015000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 112]
-
-110
-
-Kapittel 8
-
-NOU 2022: 15
-Utleverings- og arrestordreloven
-
-veringen. Dersom den overleverte etter å ha sonet
-straffen sin, reiser til en stat utenfor EU og Norden og begår straffbare forhold der, er vedkommende ikke lenger vernet av norske begrensninger i adgangen til å overlevere eller utlevere, jf.
-Ruud mfl. s. 203.
-Arrestordreloven § 15 annet ledd og § 22
-annet ledd regulerer betinget overlevering.
-Bestemmelsenes første punktum angir et vilkår
-som kan stilles ved overlevering til strafforfølgning av en norsk statsborger eller en person
-bosatt her: at vedkommende blir sendt tilbake for
-å sone en eventuell dom i Norge («tilbakeføring»).
-Ifølge proposisjonen s. 56 må det vurderes
-konkret om det skal stilles vilkår etter § 15 annet
-ledd. Jo sterkere tilknytning den ettersøkte har til
-Norge, desto mer nærliggende er det å stille vilkår
-om tilbakeføring. For norsk statsborger bør
-utgangspunktet være soning i Norge. Også tilknytningen personen har til staten vedkommende
-skal overleveres til og lengden av straffen, er
-momenter av betydning.
-Paragraf 15 annet ledd ivaretar de samme hensynene som § 12 annet ledd, som gjelder avslag på
-overlevering til straffullbyrding, jf. proposisjonen
-s. 56. Det er i praksis lagt til grunn at en arrestordre som gjelder en dom som ikke er rettskraftig,
-må vurderes etter § 15 annet ledd og ikke kan
-avslås etter § 12 annet ledd, se nærmere Ruud mfl.
-s. 186 og 203–204.
-Arrestordreloven § 15 annet ledd og § 22
-annet ledd gir antagelig ikke i seg selv hjemmel
-for soning i Norge av en utenlandsk dom, jf. Ruud
-mfl. s. 204 og 216. Ved overlevering på grunnlag
-av en nordisk-europeisk arrestordre kan overføringsloven 1991 gi slik hjemmel. Ved overlevering
-på grunnlag av en nordisk arrestordre finnes slik
-hjemmel i lov 15. november 1963 nr. 15 om fullbyrding av nordiske dommer på straff m.v. Gjelder
-den utenlandske dommen en særreaksjon, får
-overføringsloven anvendelse, jf. merknadene til
-overføringsloven § 1 i Ot.prp. nr. 47 (1990–91)
-s. 12.
-Etter annet ledd annet punktum i §§ 15 og 22
-skal den ettersøkte og kriminalomsorgen få anledning til å uttale seg før det stilles vilkår etter annet
-ledd.
-Vilkårene skal stilles i forbindelse med at påtalemyndigheten underretter staten som har utstedt
-arrestordren om at den vil bli etterkommet, jf.
-§ 14 syvende ledd. Det er en forutsetning for å
-kunne stille vilkår etter § 15 annet ledd eller § 22
-annet ledd, eller avslå arrestordren etter § 12
-annet ledd eller § 19 første ledd bokstav a, at utstedende stat aksepterer at dommen sones i Norge.
-
-Det følger av Riksadvokatens rutiner RA-2021-520
-(overlevering fra Norge) punkt 2.7 at påtalemyndigheten må innhente slik aksept før den treffer
-vedtak om å avslå arrestordren etter § 12 annet
-ledd eller stille vilkår etter § 15 annet ledd.
-For nærmere om §§ 15 og 22 se punkt 12.6 om
-soningsoverføring.
-Nærmere om begrepet «bosatt»
-Hverken arrestordreloven, dens forarbeider eller
-parallellavtalen inneholder noen angivelse av hva
-som kreves for at noen skal anses som «busett» i
-Norge etter arrestordreloven § 12 annet ledd, § 15
-annet ledd, § 19 første ledd bokstav a eller § 22
-annet ledd.
-I rundskriv G-02/2020 s. 34 uttales det at det
-lignende begrepet «bosted i Norge» i straffeloven 2005 § 5 første ledd bokstav b kan gi veiledning. Etter straffeloven § 5 kreves «opphold i
-riket av en viss varighet (normalt ikke mindre
-enn ett år), og som er ment å fortsette», jf. forarbeidene til straffeloven 2005, Ot.prp. nr. 90
-(2003–2004) s. 402, se også NOU 1984: 31 Straffelovgivningens stedlige virkeområde – Straffelovkommisjonens delutredning II s. 42–43. I
-rettsteorien er det lagt til grunn at det i utgangspunktet må være norske myndigheter som
-avgjør om en person skal anses som bosatt i
-Norge, jf. Ruud mfl. s. 187 og Ruud s. 41–42.
-Begrepet «busett» bygger på begrepene «residence» og «staying» i parallellavtalen art. 5 nr. 1
-bokstav f. EU-domstolen har uttalt seg om begrepene i den tilsvarende bestemmelsen i EUs rammebeslutning art. 4 nr. 6.
-I storkammerdommen 17. juli 2008 i sak C-66/08
-Kozłowski fastslo EU-domstolen at medlemstatene
-ikke kan gi begrepene «staying» og «resident» en
-videre rekkevidde i nasjonal rett enn det som følger av en ensartet tolkning (avsnitt 43). En person
-er «resident» hvis han har etablert faktisk, fast
-bosted i staten. «Staying» forutsetter at personen
-etter en stabil periode av tilstedeværelse i staten
-har etablert visse forbindelser med denne staten
-som tilsvarer de som følger av det å være bosatt
-(avsnitt 46). Ved vurderingen av om personen skal
-anses å «oppholde seg» («staying») i staten, må
-det foretas en helhetsvurdering av objektive forhold, med særlig vekt på oppholdets lengde,
-karakter og forholdene rundt oppholdet samt
-familiemessige og økonomiske forbindelser med
-staten (avsnitt 48). Derimot er det ikke relevant
-for vurderingen av «oppholder seg»-kriteriet om
-vedkommende under oppholdet begår kriminalitet eller er fengslet. Dette kan likevel være av
-
-[Side 113]
-
-NOU 2022: 15
-Utleverings- og arrestordreloven
-
-betydning for bedømmelsen som deretter skal
-foretas av om dommen bør sones i staten som har
-mottatt arrestordren (avsnitt 51).
-EU-domstolen kom i storkammerdommen
-6. oktober 2009 i sak C-123/08 Dominic Wolzenburg til at kravet i nederlandsk rett om at EU-borgere måtte ha fem års sammenhengende botid i
-landet for å bli ansett som «resident», var i overensstemmelse med kravene i EU-retten (avsnitt
-54 flg.). Det var imidlertid ikke adgang til å oppstille ytterligere administrative krav, som krav om
-oppholdstillatelse på ubestemt tid (avsnitt 53).
-I storkammerdommen 5. september 2012 i sak
-C-42/11 Lopes Da Silva Jorge uttalte EU-domstolen at en medlemsstat kan begrense anvendelsesområdet til art. 4 nr. 6, men ikke automatisk og
-absolutt utelukke statsborgere fra andre medlemsstater som oppholder seg eller er fast bosatt
-(avsnitt 59). Fransk lovgivning tillot bare avslag på
-arrestordre for soning av dom for egne statsborgere, og ikke for EU-borgere med bosted eller
-opphold i landet (avsnitt 45).
-
-8.9.3.2 Folkerettslige rammer
-Det sentrale folkerettslige rammeverket for overlevering av egne borgere og fast bosatte til stater i
-EU utenfor Norden, er parallellavtalen art. 5 nr. 1
-bokstav f (avslag mot fullbyrding av dom), art. 7
-(nasjonalitetsunntak) og art. 8 nr. 3 (betinget
-overlevering). Artikkel 5 nr. 1 bokstav f og art. 8
-nr. 3 tilsvarer EUs rammebeslutning art. 4 nr. 6 og
-art. 5 nr. 3.
-Ved overlevering til stater i Norden er de sentrale bestemmelsene konvensjon om nordisk
-arrestordre art. 5 nr. 5 (avslag mot fullbyrding av
-dom) og art. 6 (betinget overlevering). Kapittel 4
-har særlige regler om overlevering til og fra
-Island, hvor art. 26 gjelder egne statsborgere.
-Konvensjonen har ingen tilsvarende bestemmelse
-som parallellavtalen art. 7, og åpner dermed ikke
-for å avslå overlevering av egne borgere basert på
-gjensidighetsprinsippet.
-Det vises til omtale av bestemmelsene i punkt
-8.9.3.1 og 12.6.2.
-8.9.3.3
-
-Utenlandsk rett
-
-For omtale av den danske utleveringsloven 2020,
-se punkt 8.9.2.3 ovenfor.
-Overlevering av egne borgere og fast bosatte
-fra Finland, Island og Sverige til stater i EU og
-Norden er omtalt i punkt 12.6.3, og det vises til
-dette. I tillegg til det som fremgår der nevnes her
-følgende: Etter den svenske loven om europeisk
-
-111
-
-Kapittel 8
-
-arrestordre 2003 2 kap. 3 § skal overlevering ikke
-skje dersom den utstedende stat ikke gir garantier
-som etter 3 kap. 2 § kreves for at overlevering skal
-kunne skje. Etter den svenske loven med supplerende bestemmelser om strafferettslig samarbeid
-mellom EU og Storbritannia 2021 3 kap. 2 § kan en
-svensk statsborger ikke overleveres til Storbritannia. På Island er arrestordreloven 2016 § 5, § 10
-første ledd bokstav c og d og § 19 i stor grad samsvarende med den norske arrestordreloven § 10
-første ledd, § 12 annet ledd og § 19, mens § 27
-stort sett tilsvarer den norske arrestordreloven
-§§ 15 og 22.
-Overlevering av egne borgere og fast bosatte
-fra Frankrike og Nederland til stater i EU er omtalt
-i punkt 12.6.3.
-Tyskland tillater overlevering av tyske borgere
-og personer som er bosatt i Tyskland til stater i
-EU dersom nærmere angitte vilkår er oppfylt, jf.
-lov om internasjonal rettslig bistand i straffesaker
-1982 del 8. Paragraf 80 oppstiller særlige regler
-for overlevering av tyske statsborgere til strafforfølgning (første og annet ledd) og straffullbyrding
-(tredje ledd). Bestemmelsen gjelder ikke i saker
-om overlevering til og fra Norge og Island, jf. § 98
-annet ledd. Paragraf 83 b annet ledd angir tilfeller
-der overlevering av utenlandske statsborgere
-bosatt i Tyskland kan nektes. Se for øvrig punkt
-12.6.3.
-Blant annet Frankrike og Tyskland har avgitt
-erklæring etter parallellavtalen art. 7 nr. 2 om at
-de ikke overleverer egne borgere til Norge og
-Island. Nederland er blant statene som har
-erklært at de bare overleverer egne borgere eller
-fast bosatte personer til strafforfølgning dersom
-det garanteres at den overleverte blir tilbakeført
-for å sone en eventuell ilagt dom.
-Storbritannia utleverer egne borgere til stater
-både i og utenfor EU, forutsatt at de øvrige vilkårene i loven er oppfylt, jf. utleveringsloven 2003 og
-punkt 8.9.2.3.
-
-8.9.3.4 Utvalgets vurderinger
-Utvalget går inn for å videreføre gjeldende rett i
-arrestordreloven § 10, § 12 annet og tredje ledd,
-§ 15 første ledd første punktum og annet ledd,
-§ 19 første ledd bokstav a og tredje ledd, jf. § 12,
-og § 22 første ledd første punktum og annet ledd,
-med enkelte redaksjonelle og presiserende
-endringer. Utvalget ser imidlertid ikke behov for å
-videreføre særregelen om videre utlevering av
-norske statsborgere i § 15 første ledd annet punktum og § 22 første ledd annet punktum, se nedenfor.
-
-[Side 114]
-
-112
-
-Kapittel 8
-
-NOU 2022: 15
-Utleverings- og arrestordreloven
-
-Forslaget innebærer at reglene om overlevering fortsatt skal gjelde også for arrestordrer vedrørende norske statsborgere. Hovedregelen er
-dermed at overlevering til stater i EU og Norden
-ikke kan nektes fordi den ettersøkte er norsk
-statsborger. Dette kombineres med enkelte særregler for norske statsborgere og personer bosatt
-i Norge.
-Etter utvalgets syn bidrar gjeldende regler til å
-ivareta hensynet til at straffbare handlinger blir
-pådømt og straffet, samtidig som norske statsborgere og personer bosatt i Norge gis et sterkere
-vern enn personer uten slik tilknytning til Norge.
-Det er relativt kort tid siden gjeldende regler ble
-innført. Argumentene for dagens regler i departementets drøftelse i Prop. 137 LS (2010–2011)
-s. 17–19 gjør seg i betydelig grad fortsatt gjeldende.
-Når det gjelder de redaksjonelle og presiserende endringene, anses det for det første unødvendig å videreføre presiseringen i arrestordreloven § 10 første ledd om at reglene om overlevering gjelder også for arrestordrer som gjelder norske borgere. Forslaget innebærer derimot at
-arrestordreloven § 10 annet ledd opprettholdes;
-dersom en arrestordre som gjelder en norsk statsborger, er utstedt av en EU-stat utenfor Norden
-som ikke overleverer egne statsborgere til Norge,
-kan den avslås, jf. lovutkastet § 27. Som etter
-dagens lov gjelder det ingen tilsvarende regel ved
-nordisk arrestordre. Har retten kommet til at vilkårene for overlevering er oppfylt (§ 54), er det opp
-til departementet å avgjøre om avslagsgrunnen
-skal benyttes (§ 56). For nærmere om vurderingen
-departementet skal foreta se merknadene til § 27.
-For det annet foreslås det at bestemmelsene
-som fremgår av arrestordreloven § 12 annet og
-tredje ledd og § 15 første ledd første punktum og
-annet ledd samles i en egen bestemmelse, jf. lovutkastet § 26. Bestemmelsen gjelder for overlevering til stater i EU utenfor Norden, men lovutkastet § 33 gir § 26 tilsvarende anvendelse ved overlevering til stater i Norden.
-Bestemmelsen innebærer at overlevering av
-norsk statsborger eller person bosatt i Norge til
-straffullbyrding kan nektes dersom straffen i stedet fullbyrdes i Norge.
-Dessuten videreføres regelen om at overlevering av norsk statsborger eller person bosatt i
-Norge til strafforfølgning kan gjøres betinget av at
-den som overleveres tilbakeføres for å sone en
-eventuell dom her.
-Ved avgjørelsen av om overleveringen bør nektes eller gjøres betinget, må påtalemyndigheten
-(§ 55), eller i noen tilfeller departementet (§ 56),
-
-vurdere personens tilknytning til Norge og den
-utstedende stat. Nærmere anvisning på vurderingen fremgår av merknadene til § 26 og punkt
-12.6.4 om soningsoverføring.
-Utvalget mener det er grunn til å innta mer
-utfyllende regler om uttalelse fra ettersøkte og kriminalomsorgen enn det som fremgår av arrestordreloven § 12 tredje ledd, § 15 annet ledd og § 22
-annet ledd. Se punkt 12.6.4.
-Endelig innebærer lovutkastet § 26 at det skal
-stilles som betingelse for overlevering av norsk
-statsborger at videre overlevering for forhold som
-er begått før overleveringen til en stat som ikke
-selv overleverer egne borgere til Norge, ikke kan
-skje uten samtykke fra departementet.
-For så vidt gjelder videre utlevering av norske
-borgere, finner utvalget grunn til å foreslå
-endringer. I dag skal det settes vilkår om at videre
-utlevering av norsk statsborger ikke skal skje, jf.
-§ 15 første ledd annet punktum og § 22 første ledd
-første punktum. Reglene er i samsvar med utleveringsforbudet i utleveringsloven § 2. Utvalget foreslår imidlertid at norsk statsborger skal kunne utleveres på nærmere gitte vilkår, se punkt 8.9.2.4.
-Argumentene for å gå bort fra det absolutte forbudet mot utlevering av norske borgere gjør seg tilsvarende gjeldende ved videre utlevering.
-Utvalget finner ikke grunn til å gi noen særregulering om videre utlevering av norsk statsborger. Utgangspunktet etter parallellavtalen art. 31
-nr. 4 er at videre utlevering ikke kan skje uten
-samtykke fra den iverksettende stat. Lovutkastets
-bestemmelse om videre utlevering etter at en person er overlevert til en stat i EU utenfor Norden
-gjenspeiler dette, jf. § 30 tredje ledd; departementet kan samtykke til videre utlevering hvis forholdet kunne begrunnet utlevering etter loven, jf.
-§ 47. Etter konvensjon om nordisk arrestordre
-art. 24 nr. 2 er det noe videre adgang til videre
-utlevering, se lovutkastet § 36 tredje ledd. Hvis
-norske myndigheter mottar anmodning om samtykke til videre utlevering fra en nordisk stat, får
-lovutkastet § 47 anvendelse. I begge situasjoner
-skal det først skje en rettslig prøving av anmodningen, jf. lovutkastet § 42. Kommer retten til at
-lovens vilkår er oppfylt, slik at utlevering kunne
-skjedd for forholdet, avgjør departementet om
-samtykke skal gis. Departementet må bl.a. vurdere om vilkårene i § 17 for utlevering av norsk
-statsborger er oppfylt, samt vurdere det som
-ellers fremgår av lovutkastet § 44 tredje ledd.
-Prøvingen vil derfor være betryggende. På denne
-bakgrunn foreslås det å ikke videreføre reglene i
-§ 15 første ledd annet punktum og § 22 første ledd
-første punktum.
-
-[Side 115]
-
-NOU 2022: 15
-Utleverings- og arrestordreloven
-
-8.10 Humanitære hensyn
-8.10.1 Utlevering
-8.10.1.1 Gjeldende rett
-Utleveringsloven § 7 bestemmer at utlevering
-ikke kan skje dersom den vil komme i strid med
-grunnleggende humanitære hensyn, særlig på
-grunn av vedkommendes alder, helsetilstand eller
-andre personlige forhold. Bestemmelsen hadde
-ikke noe motstykke i utleveringsloven 1908.
-Begrunnelsen for å innta bestemmelsen i
-loven fremgår av Ot.prp. nr. 30 (1974–75) s. 33.
-Justisdepartementet la særlig vekt på to hensyn:
-Ved å ha en slik regel i loven, ville man unngå den
-politiske belastning det av og til kunne innebære
-om forvaltningen ble nødt til å vurdere denne
-siden ved en utleveringsbegjæring. Det er i første
-omgang domstolene som må avgjøre om vilkårene for utlevering er oppfylt, jf. § 17. Departementet uttalte også at hensynet til den enkeltes
-rettssikkerhet talte sterkt for at en så vidt viktig
-bestemmelse skulle tas inn i loven.
-Forarbeidene gir veiledning om hvordan
-bestemmelsen skal forstås. Vilkåret om at det må
-foreligge grunnleggende humanitære hensyn er
-ment å vise at det bare kan være aktuelt å nekte
-utlevering «i ganske spesielle tilfelle». At utlevering vil få «betydelige følger» er ikke tilstrekkelig.
-I proposisjonen s. 33 fremgår det:
-«Ved vurderingen av rekkevidden av bestemmelsen må en være merksam på at utlevering
-er et alvorlig inngrep som i alminnelighet vil få
-betydelige følger for vedkommende. Hvis utleveringsinstituttet ikke skal miste sin verdi i det
-internasjonale strafferettssamarbeid, bør det
-bare bli spørsmål om å nekte utlevering av
-humanitære grunner i ganske spesielle tilfelle.
-Dette er kommet til uttrykk i lovutkastet ved
-vilkåret om at det må gjelde grunnleggende
-humanitære hensyn. Av konkrete forhold det
-skal legges vekt på, er særlig nevnt alder og
-helsetilstand, men noen uttømmende oppregning har man ikke tatt sikte på. Dette vil neppe
-være mulig. Uttrykket [andre personlige forhold] omfatter lovovertrederens hele sosiale
-situasjon. Det vil bl. a. kunne tas hensyn til om
-vedkommende har familie her i landet, hvor
-lenge han har oppholdt seg her, og om han har
-egen virksomhet eller fast arbeid her i landet.
-Det vil også kunne tas hensyn til straffereaksjonene i den anmodende stat. Videre må de personlige forhold som taler mot utlevering, i noen
-grad veies mot den interesse som den frem-
-
-113
-
-Kapittel 8
-
-med stat har i utleveringen, herunder må tas
-hensyn til gjerningens grovhet og den tid som
-er gått siden den ble utført.»
-Bestemmelsen oppstiller et absolutt utleveringsforbud i tilfeller der det foreligger grunnleggende
-humanitære hensyn, men legger opp til en skjønnsmessig, konkret vurdering. Forarbeidene drøftet
-ikke forholdet til menneskerettskonvensjonene.
-I Rt. 2015 s. 155 avsnitt 51 la Høyesterett til
-grunn at det må foretas en «helhetsvurdering av
-kryssende hensyn» (jf. også Rt. 1995 s. 1057 på
-s. 1062). Saken gjaldt utlevering til Rwanda av en
-person tiltalt for deltakelse i folkemord og forbrytelse mot menneskeheten. Humanitære hensyn
-etter § 7 må veies mot samfunnets interesse i en
-effektiv rettshåndhevelse, og de humanitære hensynene må tillegges mindre vekt i saker der
-grunnlaget for utlevering er et særlig alvorlig
-straffbart forhold. Dette må foretas som en forholdsmessighetsvurdering (avsnitt 53). Tyngdepunktet i vurderingen ligger i de berørte statenes
-interesse i at grove forbrytelser strafforfølges i
-den staten forbrytelsen ble begått. Konvensjonsvernet gir ikke siktede noen rett til å velge hvor
-strafforfølgning skal finne sted (avsnitt 63). Høyesterett kom til at det ikke forelå slike grunnleggende humanitære hensyn som ga grunnlag for å
-nekte utlevering (avsnitt 77). Justisdepartementet kom senere, etter å ha mottatt et omfattende
-nytt materiale, til at utlevering ikke skulle finne
-sted, hensett til EMK art. 6 og en usikker bevissituasjon; utleveringsloven § 7 ble ikke anvendt.
-Det følger ellers av Rt. 2015 s. 155 avsnitt 37 at
-utleveringsloven § 7 og dens forarbeider nå må
-leses i lys av de rettigheter som er tatt inn i
-Grunnloven §§ 102 og 104, EMK, særlig art. 8, og
-FNs barnekonvensjon, særlig art. 3. Ved den nærmere fastleggelsen av hva som er grunnleggende
-humanitære hensyn etter utleveringsloven § 7, vil
-de grunnleggende menneskerettighetene, slik de
-er nedfelt i Grunnloven og konvensjonene, «stå
-sentralt» (avsnitt 44).
-Når det gjelder EMK, er det etter utleveringsloven § 7 særlig aktuelt å vurdere om utleveringen
-vil være i strid med art. 3 om forbud mot tortur og
-umenneskelig eller nedverdigende behandling
-eller straff, art. 6 om retten til rettferdig rettergang og art. 8 om retten til respekt for privat- og
-familieliv. Sentral praksis fra EMD om disse
-bestemmelsene fremgår av punkt 4.3.
-Som nevnt i forarbeidene er ordlyden i § 7 ikke
-uttømmende når det gjelder forhold det skal legges vekt på. Rettspraksis omfatter en rekke forhold, og bare noen saker nevnes her: Varigheten
-
-[Side 116]
-
-114
-
-Kapittel 8
-
-NOU 2022: 15
-Utleverings- og arrestordreloven
-
-av personens opphold i Norge (Rt. 1995 s. 149);
-lang tid siden forholdet ble begått (Rt. 1992
-s. 1167); stor forskjell i straffenivå sammenlignet
-med Norge (bl.a. HR-1999-591-S); manglende
-rettssikkerhet i mottakerstaten (HR-2019-729-U,
-samt HR-2022-863-A om arrestordreloven);
-soningsforholdene i mottakerstaten (Rt. 1998
-s. 1993 og Rt. 2007 s. 1453); forholdets grovhet
-(Rt. 1994 s. 934, Rt. 1995 s. 1057 og Rt. 2015
-s. 155); resttid å sone (Rt. 1992 s. 1167) og ettersøktes tilknytning til mottakerstaten (Rt. 1996
-s. 1318 og Rt. 1998 s. 1290). Om praksis fra norske
-domstoler og EMD se også Ruud mfl. s. 37–45 og
-Mathisen s. 335–348.
-Departementet står friere enn domstolen i sin
-vurdering og vektlegging av humanitære hensyn,
-jf. Rt. 1995 s. 1057 på s. 1064. Selv om retten finner
-at § 7 ikke er til hinder for utlevering, og at lovens
-vilkår for øvrig er oppfylt, kan departementet
-komme til motsatt resultat.
-Det er i hovedsak hensynet til den ettersøkte
-selv som er relevant ved vurderingen etter § 7,
-ikke hensynet til andre personer, som den ettersøktes familie. Forpliktelser etter folkerettslige
-avtaler modererer dette utgangspunktet, jf. bl.a.
-plikten til å la barnets beste være et grunnleggende hensyn ved alle handlinger som berører
-barn, jf. Grunnloven § 104 annet ledd og FNs
-barnekonvensjon art. 3 nr. 1.
-I Rt. 2015 s. 155 avsnitt 61 uttalte Høyesterett
-at «barnets interesser inngår som et tungtveiende
-element ved forholdsmessighetsvurderingen etter
-Grunnloven § 102». Siktede hadde kommet til
-Norge som flyktning i 1999, og hadde ektefelle og
-tre mindreårige barn her. Høyesterett kom til at
-det i den konkrete saken ikke var grunnlag for å
-gi hensynet til barnas beste absolutt prioritet
-(avsnitt 76).
-Praksis i domstolene og departementet viser
-at det generelt skal svært mye til før utlevering
-nektes på grunnlag av grunnleggende humanitære hensyn.
-Et alternativ til å nekte utlevering på grunnlag
-av utleveringsloven § 7, kan være å stille vilkår
-«som det finnes grunn til» etter § 12 annet ledd og
-innhente garantier fra den anmodende stat. Se
-f.eks. Rt. 1998 s. 1993 og punkt 9.3 om betingelser
-som kan stilles ved utlevering.
-
-8.10.1.2 Konstitusjonelle og folkerettslige rammer
-Når det gjelder Grunnloven, er det etter utleveringsloven § 7 særlig aktuelt å vurdere om utleveringen vil være i strid med § 93 annet ledd (forbud
-mot tortur mv.), § 95 (retten til rettferdig retter-
-
-gang), § 102 (retten til respekt for privat- og familieliv) og § 104 (barnets beste), se punkt 4.2.
-I tillegg til EMK art. 3, 6 og 8 kan også andre
-menneskerettigheter være relevante, se bl.a. SP
-art. 7 (forbud mot tortur mv.), art. 14 (retten til
-rettferdig rettergang) og art. 17 (retten til privatog familieliv), og FNs barnekonvensjon art. 3 nr. 1,
-se punkt 4.3.
-Utleveringskonvensjonen
-har ikke noen
-bestemmelse om humanitære hensyn som
-avslagsgrunn. Utleveringsloven § 7 svarer til et
-forbehold Norge har tatt til art. 1 i konvensjonen.
-Etter dette skal utlevering kunne avslås av humanitære grunner dersom utleveringen må antas å
-ville medføre uforholdsmessig alvorlige følger for
-vedkommende, særlig på grunn av hans alder, helsetilstand eller andre personlige forhold. De
-øvrige nordiske statene har tatt lignende forbehold.
-Utleveringsavtalen med Canada har ingen
-bestemmelse om humanitære hensyn. Avtalen
-med USA åpner i art. 7 nr. 2 bokstav b for at utlevering kan nektes dersom den anmodede stat i
-spesielle tilfelle har grunn til å tro at utlevering vil
-være uforenlig med humanitære hensyn, særlig
-på grunn av vedkommendes alder, helse eller
-andre personlige forhold. Avtalen med Australia
-art. 6 nr. 3 bestemmer at utlevering skal nektes
-dersom den anmodede stat, idet den tar hensyn til
-lovbruddets art og den anmodende stats interesser, finner at utleveringen etter saksforholdene,
-herunder personens alder, helse eller andre personlige forhold, ville stride mot grunnleggende
-humanitære hensyn.
-
-8.10.1.3 Nordisk rett
-Utleveringslovene på Island, i Finland og Sverige,
-som alle er av eldre dato, har en bestemmelse
-som i stor grad samsvarer med utleveringsloven
-§ 7, jf. den islandske utleveringsloven 1984 § 7,
-den finske 1970 8 § og den svenske 1957 8 §.
-Ved utleveringsloven 2020 valgte Danmark
-ikke å videreføre den særskilte bestemmelsen om
-humanitære hensyn som avslagsgrunn, men å
-harmonisere reglene med de som gjelder ved
-overlevering til stater i EU og Norden. Etter
-lovens § 6 kan utlevering ikke skje dersom det
-innebærer fare for forfølgelse, fare for å bli utsatt
-for tortur mv. eller for øvrig vil være i strid med
-Danmarks internasjonale forpliktelser. Departementet fant at hensynene til den ettersøkte som
-kunne begrunne avslag på utlevering, er omfattet
-av § 6, og at det derfor ikke var grunnlag for en
-ytterligere avslagsgrunn av humanitære årsaker.
-
-[Side 117]
-
-NOU 2022: 15
-Utleverings- og arrestordreloven
-
-Det ble også vist til at § 7 gir en særlig beskyttelse
-for danske statsborgere og personer fast bosatt i
-Danmark. Men samtidig ble det innført en lovregel om at det unntaksvis kan besluttes å utsette
-utleveringen midlertidig, hvis det foreligger
-tungtveiende humanitære grunner, jf. § 39, stk. 1,
-jf. Lovforslag nr. L 78 (2019–20) s. 87–89.
-
-8.10.1.4 Utvalgets vurderinger
-Utvalget har vurdert om det er grunn til å videreføre bestemmelsen i utleveringsloven § 7 om at
-utlevering skal nektes hvis den vil stride mot
-grunnleggende humanitære hensyn. Her har
-utvalget delt seg i et flertall og et mindretall.
-Flertallet går med følgende begrunnelse inn
-for ikke å beholde regelen:
-Som nevnt foran var bestemmelsen om grunnleggende humanitære hensyn ny i utleveringsloven fra 1975. Det ble bl.a. lagt vekt på at hensynet
-til den enkeltes rettssikkerhet talte sterkt for en
-slik lovregel. Men for at utleveringsinstituttet ikke
-skulle miste sin verdi i det internasjonale strafferettssamarbeid, kunne det bare bli spørsmål om å
-anvende bestemmelsen i ganske spesielle tilfelle,
-se nærmere Ot.prp. nr. 30 (1974–75) s. 33, sitert
-foran i punkt 8.10.1.1.
-Forarbeidene drøftet ikke betydningen av
-EMK og andre menneskerettskonvensjonene. Det
-har nok sammenheng med at det da var lite konvensjonspraksis. Nå er derimot situasjonen annerledes. EMD har avsagt mange dommer som gir
-beskyttelse mot utlevering, særlig etter EMK
-art. 3 om tortur og umenneskelig eller nedverdigende behandling eller straff og art. 8 om privatog familieliv, samt art. 6 om rettferdig rettergang,
-se nærmere punkt 4.3. Både EMK, SP og barnekonvensjonen er inkorporert i norsk rett med forrang ved motstrid, jf. menneskerettsloven §§ 2 og
-3. At de gis forrang, vil også følge av avslagsgrunnen i lovutkastet § 5 om strid med EMK og andre
-menneskerettskonvensjoner, samt den generelle
-folkerettsreservasjonen i § 2.
-En annen viktig utvikling etter 1975 var grunnlovsrevisjonen i 2014 som tilføyde individuelle rettigheter. Av betydning ved utlevering er § 93
-annet ledd om tortur og umenneskelig eller nedverdigende behandling eller straff, § 95 om rettferdig rettergang, § 102 om privat- og familieliv og
-§ 104 om barnets beste.
-På bakgrunn av disse to utviklingslinjene har
-Høyesterett fastslått at det nå er de grunnleggende menneskerettighetene, slik de er nedfelt i
-Grunnloven og menneskerettskonvensjonene,
-
-115
-
-Kapittel 8
-
-som står sentralt ved den nærmere fastleggelsen
-av hva som er grunnleggende humanitære hensyn etter utleveringsloven § 7, jf. Rt. 2015 s. 155
-avsnitt 37 og 44. Bestemmelsen påberopes ofte,
-men anførslene fører i praksis nesten aldri frem;
-det gjelder både for domstolene og forvaltningen.
-En tredje linje i utviklingen er at de nyere
-internasjonale og norske reglene om overlevering
-ikke har noen bestemmelse om avslag på grunn
-av tungtveiende humanitære grunner; dette er
-bare opprettholdt som en midlertidig utsettelsesregel etter arrestordreloven § 30 annet ledd. At
-man ikke har funnet behov for en avslagshjemmel
-ved arrestordre, taler mot å videreføre den ved
-utlevering, jf. hensynet til konsekvens i regelverkene.
-Det kan anføres at en bestemmelse om
-tungtveiende humanitære grunner kan fungere
-som en sikkerhetsventil ved å gi en noe mer vidtgående adgang til å nekte utlevering enn det som
-følger av EMK og andre menneskerettskonvensjoner. Men etter utvalgets lovutkast vil Justisdepartementet fortsatt ha skjønnsmessig myndighet til
-å nekte utlevering som etter en helhetsvurdering
-fremstår som særlig urimelig. Dessuten vil departementet som i dag kunne stille betingelser for
-utlevering, jf. lovutkastet § 20 annet ledd. I tillegg
-viderefører den nye loven en rekke andre avslagsgrunner som kan ivareta humanitære hensyn,
-f.eks. § 6 om fare for forfølgelse og § 17 om vilkår
-for å kunne utlevere norsk statsborger. Sistnevnte
-bestemmelse åpner også for å stille betingelse om
-tilbakeføring for soning i Norge.
-Etter flertallets syn gir det de klareste linjer at
-tungtveiende humanitære grunner først og fremst
-ivaretas ved å anvende menneskerettskonvensjonene, herunder EMK og barnekonvensjonen. Det
-vil åpne for en praksis som er mer objektivt forankret i konvensjonspraksis, supplert av lovens
-alminnelige bestemmelser og av departementets
-skjønnsmessige myndighet. Praksis fra de senere
-årene viser som nevnt at utleveringsloven § 7
-påberopes i de fleste saker, men nesten aldri fører
-frem; bestemmelsen gir ugrunnede forhåpninger.
-Som følge av rettsutviklingen er bestemmelsens
-betydning i dag minimal.
-Flertallet viser ellers til at Danmark i 2020 ikke
-fant grunn til å opprettholde humanitære hensyn
-som en egen avslagsgrunn, men i stedet innførte
-tungtveiende humanitære grunner som en utsettelsesgrunn også ved utlevering, ikke bare ved
-overlevering. At Finland, Island og Sverige har en
-slik avslagsgrunn, kan sees i lys av at disse
-bestemmelsene er av eldre dato.
-
-[Side 118]
-
-116
-
-Kapittel 8
-
-NOU 2022: 15
-Utleverings- og arrestordreloven
-
-På denne bakgrunn er utvalgets flertall blitt
-stående ved ikke å videreføre regelen i utleveringsloven § 7.
-Derimot kan en midlertidig utsettelsesgrunn
-ved tungtveiende humanitære grunner, slik som i
-dansk rett, være nyttig, jf. lovutkastet § 46 annet
-ledd. Dermed blir reglene de samme ved utlevering som ved overlevering, og dette vil synliggjøre
-at det kan være behov for å vurdere humanitære
-grunner når vedtaket skal effektueres, f.eks. ved
-sykdom.
-Utvalgets mindretall, medlemmene Anne Grøstad, Tor Haug og Hilde Stoltenberg, går inn for
-å videreføre regelen om at humanitære grunner
-unntaksvis kan gi grunnlag for å avslå en utleveringsbegjæring.
-Selv om bestemmelsen har et snevert anvendelsesområde, kan den fange opp situasjoner hvor
-ingen annen avslagsgrunn er anvendelig og dermed gi et vern når utlevering fremstår som særlig
-urimelig. Det kan f.eks. være aktuelt i saker som
-ligger langt tilbake i tid og etter norske vurderinger gjelder relativt bagatellmessige forhold, og
-det samtidig foreligger personlige forhold som
-sykdom. Det vises også til at Finland, Island og
-Sverige fortsatt har humanitære hensyn som egen
-avslagsgrunn.
-Flertallet har vist til at humanitære hensyn
-som avslagsgrunn fanges opp av andre bestemmelser i loven, bl.a. EMK. Det skal imidlertid særdeles mye til før humanitære hensyn medfører at
-en utlevering kommer i strid med EMK. Det er
-først og fremst art. 3 og 8 som kan være aktuelle å
-vurdere i saker hvor humanitære hensyn gjør seg
-gjeldende. Videre er FNs barnekonvensjon sentral hvis den ettersøkte er mindreårig. Det er
-sakene som berører EMK art. 3 og barnekonvensjonen som er bakgrunnen for at mindretallet går
-inn for å videreføre bestemmelsen.
-Ved sykdom vil utsendelse innebære en krenkelse av EMK art. 3 bare i helt eksepsjonelle tilfeller («very exceptional cases»), jf. EMDs storkammerdom Paposhvili mot Belgia (GC), 13. desember 2016. I avsnitt 183 ble det lagt til grunn at slike
-eksepsjonelle tilfeller omfatter utsendelse av en
-person når det på grunn av manglende behandling er en reell risiko for alvorlig, hurtig og irreversibel forverring av helsetilstanden, som fører
-til intense lidelser eller vesentlig redusert levetid.
-Dette ble opprettholdt i storkammerdommen
-Savran mot Danmark (GC), 7. desember 2021,
-avsnitt 133–134. Det vil altså ikke være i strid med
-EMK å utlevere en syk person som vil få en ganske alvorlig forverring av helsetilstanden. Praksis
-
-er utviklet i saker som gjelder utvisning, men det
-må legges til grunn at terskelen etter art. 3 er den
-samme i utleveringssaker. Situasjonen kan riktignok avhjelpes ved at det stilles betingelser om helsehjelp etter lovutkastet § 20 annet ledd. Etter
-mindretallets syn er det likevel mest betryggende
-å beholde dagens bestemmelse, i tillegg til adgangen til å stille betingelser.
-Hvorvidt en utlevering vil krenke art. 8 beror
-på om utleveringen fremstår som nødvendig og
-proporsjonal, se punkt 4.3 om menneskerettskonvensjoner. EMD har uttalt at det bare vil være i
-eksepsjonelle tilfeller («exceptional circumstances») at hensynet til familielivet kan oppveie behovet for utleveringen, jf. f.eks. avvisningsavgjørelsen King mot Storbritannia, 26. januar 2010,
-avsnitt 29. Som det fremgår av avgjørelsene
-fra EMD som er referert i Rt. 2015 s. 155 avsnitt
-54–59 er terskelen meget høy for å konstatere
-krenkelse av art. 8 ved utlevering. Utleveringsloven § 7 vil som den store hovedregel heller ikke
-være anvendelig utelukkende fordi utleveringen
-vil ramme familien, som ofte vil være tilfelle ved
-utlevering. Det er derfor ikke sakene som berører
-EMK art. 8 som er bakgrunnen for at mindretallet
-foreslår at § 7 videreføres.
-FNs barnekonvensjon får anvendelse hvis den
-ettersøkte er mindreårig, og er også relevant når
-den ettersøkte har mindreårige barn, jf. Rt. 2015
-s. 155 avsnitt 46. Den ettersøkte hadde tre mindreårige barn med ulike utfordringer, og strafforfølgning i Norge ville vært vesentlig mindre belastende for barna enn utlevering til Rwanda. Sakens
-alvor – folkemord – og det faktum at saken burde
-strafforfølges der forholdet var begått veide imidlertid tyngre. Høyesterett fant at utlevering ikke
-ville stride mot utleveringsloven § 7. Hadde derimot den ettersøkte selv vært mindreårig, er det
-nærliggende å anta at barnekonvensjonen ville
-blitt tillagt større vekt – uten at det nødvendigvis
-ville vært avgjørende i en så alvorlig sak. Spørsmålet om hvor stor vekt barnekonvensjonen skal
-tillegges når den ettersøkte er mindreårig trenger
-ikke å bli satt på spissen dersom et avslag kan
-begrunnes i § 7. Når utlevering av en mindreårig
-fremstår som svært urimelig kan bestemmelsen
-altså gi et vern som det er mer usikkert om barnekonvensjonen gir.
-Det er foreslått at utlevering skal kunne utsettes når tungtveiende humanitære grunner tilsier
-det, jf. lovutkastet § 46 annet ledd, noe mindretallet støtter. Etter mindretallets syn vil imidlertid en
-mulighet for utsettelse ikke løse situasjonene hvor
-de humanitære hensynene er av varig karakter.
-
-[Side 119]
-
-NOU 2022: 15
-Utleverings- og arrestordreloven
-
-117
-
-Kapittel 8
-
-Mindretallet foreslår ingen realitetsendringer
-av bestemmelsen. Det foreslås at «vedkommendes» endres til «den ettersøktes».
-
-taksvis kan utsettes midlertidig av alvorlige humanitære årsaker. Artiklene bygger på EUs rammebeslutning art. 23 nr. 4.
-
-8.10.2 Overlevering
-
-8.10.2.3 Nordisk rett
-
-8.10.2.1 Gjeldende rett
-Humanitære hensyn som avslagsgrunn
-Arrestordreloven har ingen avslagsgrunn knyttet
-til humanitære hensyn. Hverken parallellavtalen
-eller konvensjon om nordisk arrestordre åpner for
-humanitære hensyn som avslagsgrunn.
-Det følger av arrestordreloven § 8 annet ledd
-og § 18, jf. § 8 annet ledd, at overlevering til stater
-i EU og Norden skal nektes dersom det vil være i
-strid med EMK. Se punkt 8.5.3.
-Tungtveiende humanitære grunner som utsettelsesgrunn
-Etter arrestordreloven § 30 annet ledd kan overlevering utsettes dersom det foreligger tungtveiende humanitære grunner. Så snart grunnene
-ikke lenger er til stede, skal påtalemyndigheten
-avtale et nytt tidspunkt for overlevering med den
-som har utstedt arrestordren. Overlevering skal
-skje innen ti dager regnet fra det avtalte tidspunktet, jf. annet ledd. Dette er en utsettelsesregel,
-ikke en avslagsgrunn.
-I forarbeidene presiseres det at dette er ment
-som en snever unntaksregel, og at man kan tenke
-seg at kravet lettere vil være oppfylt hvis den ettersøkte er under 18 år, jf. Prop. 137 LS (2010–2011)
-s. 61–62.
-Bestemmelsen gjennomfører parallellavtalen
-art. 26 nr. 4. Som eksempler på alvorlige humanitære årsaker viser bestemmelsen til tilfeller hvor
-det finnes åpenbare og tungtveiende grunner til å
-tro at overlevering vil sette den overleveringsbegjærtes liv eller helse i fare. Konvensjon om nordisk arrestordre art. 19 nr. 5 har en tilsvarende
-bestemmelse.
-Se nærmere punkt 10.7.3 om utsatt overlevering.
-
-8.10.2.2 Konstitusjonelle og folkerettslige rammer
-For konstitusjonelle og menneskerettslige rammer, se punkt 8.10.1.2.
-Som nevnt åpner hverken parallellavtalen eller
-konvensjon om nordisk arrestordre for humanitære
-hensyn som avslagsgrunn. Parallellavtalen art. 26
-nr. 4 og konvensjon om nordisk arrestordre
-art. 19 nr. 5 åpner derimot for at overlevering unn-
-
-Hverken Danmark, Island eller Sverige har humanitære hensyn som egen avslagsgrunn ved overlevering. Alle de tre statenes lover har imidlertid
-bestemmelser som innebærer at overlevering i
-strid med EMK må nektes, se nærmere punkt
-8.5.3.3.
-Finland skiller seg ut. Overlevering skal nektes hvis den er urimelig av humanitære grunner
-og denne urimeligheten ikke kan unngås ved å
-utsette overleveringen, jf. lov om europeisk arrestordre 2003 5 § 2 mom. og lov om nordisk arrestordre 2007 4 § 2 mom.
-Alle de nordiske statene har bestemmelser
-som åpner for midlertidig å utsette overleveringen
-av humanitære grunner, jf. den danske utleveringsloven 2020 § 39, stk. 1, de finske lovene om
-europeisk arrestordre 2003 47 § og nordisk
-arrestordre 2007 44 §, og den islandske arrestordreloven 2016 § 30 annet ledd. I Sverige følger
-dette av lovene om europeisk arrestordre 2003
-6 kap. 1 § 2 stk. nr. 2, 6 kap. 2 § nr. 2 og nordisk
-arrestordre 2011 5 kap. 1 § 2 stk. nr. 3.
-
-8.10.2.4 Utvalgets vurderinger
-Utvalget går inn for å videreføre gjeldende rett.
-Hverken parallellavtalen eller konvensjon om nordisk arrestordre åpner for humanitære hensyn
-som avslagsgrunn.
-Videre går utvalget inn for å videreføre arrestordreloven § 30 annet ledd om utsatt overlevering
-ved tungtveiende humanitære grunner, jf. parallellavtalen art. 26 nr. 4 og konvensjon om nordisk
-arrestordre art. 19 nr. 5. Se lovutkastet § 57 fjerde
-ledd og punkt 10.7.3.
-
-8.11 Kriminell lavalder
-8.11.1 Innledning
-Den som på handlingstidspunktet er under 15 år,
-er ikke strafferettslig ansvarlig, jf. straffeloven
-§ 20 første ledd. Straffeloven fastsetter dermed
-den kriminelle lavalderen i Norge til 15 år. De
-øvrige nordiske statene har også 15 år som kriminell lavalder, mens den er 12 år i Nederland, 13 år
-i Frankrike og 14 år i Tyskland.
-Det er i norsk rett ikke gitt regler som setter
-en øvre aldersgrense for straffansvar, men ved
-
-[Side 120]
-
-118
-
-Kapittel 8
-
-NOU 2022: 15
-Utleverings- og arrestordreloven
-
-utlevering og overlevering kan alder ha betydning
-ved vurderingen av humanitære hensyn, se punkt
-8.10.
-Utlevering omtales i punkt 8.11.2 og overlevering i 8.11.3, mens utvalgets vurderinger fremgår
-av 8.11.4.
-
-8.11.2 Utlevering
-8.11.2.1 Gjeldende rett
-Etter utleveringsloven § 3 kan utlevering bare skje
-for handlinger som er straffbare etter norsk lov.
-Straffeloven § 20 første ledd medfører at dersom
-den ettersøkte var under 15 år på handlingstidspunktet, er ikke kravet om straffbarhet oppfylt.
-Utlevering kan derfor ikke skje, jf. utleveringsloven § 3 og Ruud mfl. s. 27.
-Dersom den ettersøkte var under 15 år da ett
-eller flere forhold ble begått, må retten avsi kjennelse etter utleveringsloven § 17 første ledd om at
-vilkårene for utlevering bare er oppfylt for det
-eller de forhold hvor den ettersøkte var over kriminell lavalder.
-8.11.2.2 Folkerettslige rammer
-Utleveringsavtalene med USA og Australia fastslår begge i art. 7 nr. 3 at utlevering kan nektes på
-ethvert grunnlag som er hjemlet i den anmodede
-stats lovgivning.
-8.11.2.3 Utenlandsk rett
-Utleveringslovgivningen i de utvalgte andre statene som utvalget har sett hen til innebærer, slik
-utvalget forstår den, at utlevering skal nektes dersom den ettersøkte på handlingstidspunktet var
-under den kriminelle lavalderen etter den anmodede stats rett. Det synes imidlertid bare å være
-Danmark som har latt dette komme direkte til
-uttrykk som en obligatorisk avslagsgrunn ved
-utlevering.
-Den danske utleveringsloven 2020 § 2 innebærer at utlevering eller overlevering ikke kan
-skje dersom den ettersøkte på handlingstidspunktet var under den kriminelle lavalderen, jf. den
-danske straffeloven § 15. Bestemmelsen gjelder
-overfor alle stater. Den tidligere utleveringsloven
-1967 oppstilte bare en slik uttrykkelig avslagsgrunn overfor stater i EU og Norden, jf. Lovforslag nr. L 78 (2019–20) s. 40–41 og 108.
-
-8.11.3 Overlevering
-8.11.3.1 Gjeldende rett
-Etter arrestordreloven § 8 første ledd bokstav b
-og § 18, jf. § 8 første ledd bokstav b, skal en nordisk-europeisk eller nordisk arrestordre avslås for
-forhold som den ettersøkte på grunn av sin alder
-ikke kan holdes strafferettslig ansvarlig for i
-Norge.
-Arrestordrer skal dermed avslås dersom den
-ettersøkte på handlingstidspunktet var under den
-kriminelle lavalder etter norsk lov. Omfatter en
-arrestordre flere straffbare forhold, hvorav noen
-ble begått før ettersøkte fylte 15 år, skal overlevering nektes for disse, mens overlevering kan skje
-for dem som ble begått etter at vedkommende
-fylte 15 år. Er det tvil om hvorvidt den ettersøkte
-var under 15 år på handlingstidspunktet, må retten ved prøvingen etter arrestordreloven §§ 14
-(nordisk-europeisk arrestordre) eller 21 (nordisk
-arrestordre) avgjøre hva som mest sannsynlig er
-riktig alder, jf. Ruud mfl. s. 168. I slike tilfeller vil
-det inngå i påtalemyndigheten undersøkelser å
-belyse den ettersøktes alder.
-
-8.11.3.2 Folkerettslige rammer
-Artikkel 4 nr. 3 i parallellavtalen og i konvensjon
-om nordisk arrestordre, som speiler EUs rammebeslutning art. 3 nr. 3, bestemmer at arrestordren
-skal avslås dersom den ettersøkte på grunn av sin
-alder, ikke kan holdes strafferettslig ansvarlig for
-de handlinger arrestordren bygger på i henhold
-til den iverksettende stats lovgivning.
-8.11.3.3 Utenlandsk rett
-Om dansk rett se punkt 8.11.2.3.
-De svenske lovene om europeisk arrestordre
-2003 og nordisk arrestordre 2011 fastslår at overlevering ikke kan skje for forhold som fant sted
-før den ettersøkte fylte 15 år, jf. henholdsvis 2 kap.
-4 § 1 stk. og 2 kap. 5 § 1 stk.
-De finske lovene om europeisk arrestordre
-2003 og nordisk arrestordre 2007 bestemmer at
-overlevering skal nektes dersom den ettersøkte
-ikke hadde fylt 15 år på handlingstidspunktet, jf.
-henholdsvis 5 § 1 mom. nr. 3 og 4 § 1 mom. nr. 3.
-Den islandske arrestordreloven 2016 § 9 første
-ledd bokstav b og § 18, jf. § 9 første ledd bokstav
-b, gir anvisning på at overlevering skal nektes hvis
-den ettersøkte på grunn av sin alder ikke kan
-straffes på Island.
-Den franske straffeprosessloven 1957 § 695-22
-nr. 3 innebærer at overlevering til stater i EU skal
-
-[Side 121]
-
-NOU 2022: 15
-Utleverings- og arrestordreloven
-
-nektes dersom den ettersøkte var under 13 år på
-handlingstidspunktet. Det samme gjelder overfor
-Island og Norge, jf. §§ 695-52 flg.
-Den nederlandske arrestordreloven 2004 § 10
-fastsetter at overlevering til stater i EU skal nektes
-dersom den ettersøkte var under 12 år på handlingstidspunktet. Tilsvarende regler gjelder overfor Island og Norge, jf. gjennomføringsloven 2016
-§ 1 bokstav b.
-Den tyske loven om internasjonal rettslig
-bistand i straffesaker 1982 § 83 første ledd nr. 2
-fastslår at utlevering skal nektes dersom den
-ettersøkte på handlingstidspunktet ikke hadde
-skyldevne etter den tyske straffeloven § 19, som
-regulerer straffansvar for barn. Dette gjelder også
-i relasjon til Norge og Island, jf. § 98 annet ledd, jf.
-§ 83 første ledd nr. 2.
-
-119
-
-Kapittel 8
-
-rettigheter art. 50, som utfyller EMK. Prinsippet er
-en del av EU-retten, jf. EU-domstolens dom 11.
-februar 2003 i de forente sakene C-187/01 og
-C 385/01 Gözütok og Brügge og senere avgjørelser.
-I utleveringsretten er det også etablert forbud
-mot dobbeltstraff over landegrensene («grenseoverskridende», «internasjonal» eller «transnasjonal» dobbeltstraff), som kan anses som en utvidelse av forbudet mot gjentatt strafforfølgning i
-samme stat. Forbudet kommer til uttrykk i utleveringsloven § 8 og arrestordreloven §§ 8 og 12, jf.
-§§ 18 og 19.
-Utlevering omtales i punkt 8.12.2 og overlevering i 8.12.3, mens utvalgets vurderinger fremgår
-av 8.12.4.
-
-8.12.2 Utlevering
-8.11.4 Utvalgets vurderinger
-Utvalget viser til at både utlevering og overlevering skal nektes for forhold som den ettersøkte på
-grunn av sin alder på handlingstidspunktet, ikke
-kan holdes strafferettslig ansvarlig for i Norge. I
-dag følger dette av sammenhengen i utleveringsreglene, mens det kommer direkte til uttrykk i
-arrestordrereglene.
-Utvalget foreslår av hensyn til klarhet og tilgjengelighet å fastslå uttrykkelig i loven at både
-utlevering og overlevering skal nektes for forhold
-som den ettersøkte på grunn av sin alder ikke kan
-holdes strafferettslig ansvarlig for etter norsk lov.
-Det foreslås samtidig å klargjøre at det er ettersøktes alder på handlingstidspunktet for det
-enkelte forhold, som er avgjørende, jf. lovutkastet
-§ 7.
-
-8.12 Forbud mot dobbeltstraff
-8.12.1 Innledning
-Det er et anerkjent prinsipp at ingen skal straffes
-to ganger for samme straffbare forhold. Dette forbudet mot gjentatt strafforfølgning eller straff
-(«dobbeltstraff») omtales også som ne bis in idem,
-som betyr ikke to ganger for det samme. Begrunnelsen er at den som har vært forfulgt for et forhold, bør slippe belastningene ved en ny strafforfølgning for samme forhold og kunne innrette seg
-etter forfølgningens utfall, samt at gjentatt forfølgning er ineffektivt.
-EMK syvende tilleggsprotokoll art. 4 (EMK
-P 7-4) forbyr gjentatt strafforfølgning eller straff i
-samme stat. For EU-statene følger forbudet mot
-dobbeltstraff også av EUs pakt om grunnleggende
-
-8.12.2.1 Gjeldende rett
-Innledning
-Utleveringsloven § 8 etablerer et forbud mot grenseoverskridende dobbeltstraff. Bestemmelsen
-bygger på utleveringskonvensjonen art. 9.
-I praksis oppstår det sjelden spørsmål om å
-nekte utlevering på grunn av forbudet mot dobbeltstraff. Få utleveringsbegjæringer skal ha blitt
-avslått på dette grunnlaget.
-Dom, forelegg eller påtaleunnlatelse i Norge
-Utleveringsloven § 8 første ledd fastsetter at utlevering ikke kan skje når det i Norge er «avsagt
-dom, vedtatt forelegg eller meddelt påtaleunnlatelse angående handlingen» utleveringsbegjæringen gjelder.
-Dommen må være rettskraftig; at det er
-«avsagt dom» er ikke tilstrekkelig. Det er ikke et
-krav at dommen ilegger noen bestemt strafferettslig reaksjon, men den må innebære en endelig frifinnelse eller domfellelse.
-Henleggelse (innstilt strafforfølgning) i Norge
-Utleveringsloven § 8 annet ledd bestemmer at når
-en norsk strafforfølgning mot en siktet person, for
-samme forhold som en utleveringsbegjæring gjelder, er «innstilt av mangel på bevis», kan utlevering bare skje dersom vilkårene for å gjenoppta
-forfølgningen etter straffeprosessloven § 74 første
-eller sjette ledd er oppfylt. Utlevering kan følgelig
-ikke skje hvis den norske saken er henlagt på
-grunn av manglende bevis og det ikke er adgang
-til å gjenoppta forfølgningen. Det antas imidlertid
-at det også gjelder et krav om at henleggelsen
+## Fraværsdom
+
+### Utlevering
+
+#### Gjeldende rett
+
+Utleveringsloven har ingen særskilt bestemmelse om utlevering til fullbyrding av en fraværsdom. En begjæring om slik utlevering vurderes i utgangspunktet etter den alminnelige regelen om utlevering til fullbyrding av dommer i utleveringsloven § 10 første ledd. I det følgende omtales de sidene av § 10 som gjelder fraværsdom. Andre sider av bestemmelsen er behandlet i punkt 8.4, som gjelder krav til mistankegrunnlag.
+
+Etter § 10 første ledd skal utlevering til fullbyrding nektes dersom det er «særlig grunn» til å tro at dommen ikke bygger på en riktig vurdering av skyldspørsmålet. Norske myndigheter må foreta en vurdering av den utenlandske dommen, som skal følge som vedlegg til utleveringsbegjæringen, jf. § 13 fjerde ledd. At saken gjelder en fraværsdom er et moment som taler for en mer omfattende prøving, jf. Ot.prp. nr. 30 (1974–75) s. 36.
+
+I HR-2018-2242-U uttalte ankeutvalget at det beror på en konkret vurdering i den enkelte sak om fraværet utgjør en «særlig grunn» etter § 10. Opplysninger om at dommen er avsagt uten at den domfelte har vært til stede eller fått anledning til kontradiksjon, kan være et moment som taler for en noe mer inngående prøving av domfellelsens riktighet, herunder om rettergangen som ledet frem til dommen har ivaretatt grunnleggende rettssikkerhetskrav (avsnitt 10). Saken gjaldt en polsk fraværsdom. Det fremgikk ikke av underinstansenes avgjørelser om den hadde vurdert den ettersøktes anførsel om at han ikke var informert om rettergangen, eller om det hadde vært gjort undersøkelser for å avklare om hensynet til kontradiksjon var tilstrekkelig ivaretatt. Ankeutvalget opphevet lagmannsrettens avgjørelse. Deretter ble det innhentet opplysninger fra Polen som tilsa at den ettersøkte hadde vært varslet om rettsmøtet og representert ved advokat, i tillegg til at vedkommende selv hadde vært til stede i noen av rettsmøtene. Utlevering kunne da skje, jf. HR-2019-505-U.
+
+Hvis en fraværsdom ikke gir grunnlag for utlevering etter § 10 første ledd, men den ettersøkte kan kreve fornyet behandling av saken i den anmodende stat, skal utleveringsbegjæringen vurderes etter annet ledd om utlevering til strafforfølgning, jf. Rt. 2007 s. 1453.
+
+Saken gjaldt utlevering til Kroatia på grunnlag av en fraværsdom på 12 års fengselsstraff for drap. Lagmannsretten hadde kommet til at fraværsdommen var beheftet med slike svakheter at det var særlig grunn til å reise tvil om dommens riktighet, jf. § 10 første ledd. Kroatiske myndigheter hadde garantert at den ettersøkte ville få saken behandlet på nytt dersom han begjærte det. Høyesterett kom til at saken i realiteten innebar utlevering til strafforfølgning, og at den derfor måtte vurderes etter § 10 annet ledd.
+
+Til støtte for resultatet viste Høyesterett bl.a. til art. 3 nr. 1 i annen tilleggsprotokoll til utleveringskonvensjonen. Bestemmelsen gir anledning til å nekte utlevering med grunnlag i en fraværsdom, hvis rettergangen som ledet frem til dommen ikke var i tråd med minimumskravene om til rett til å forsvare seg. Utlevering skal likevel finne sted hvis den anmodende stat gir en forsikring som finnes tilstrekkelig til å garantere den ettersøkte en rett til å få prøvd saken på nytt på en forsvarlig måte. Høyesterett pekte på at det ved Norges tilslutning til protokollen var lagt til grunn at innholdet i art. 3 nr. 1 var i samsvar med utleveringsloven § 10. Selv om innholdet i protokollen nok kunne vært tatt inn i lovteksten, illustrerte den de reelle hensynene som talte for å forstå § 10 slik at utlevering på grunnlag av en fraværsdom må kunne skje med grunnlag i annet ledd når ikke første ledd kan benyttes (avsnitt 27 og 28).
+
+Siden utleveringsloven ikke har noen særskilt bestemmelse om utlevering til fullbyrding av fraværsdom, angir den heller ikke på hvilket tidspunkt forsikringen fra den anmodede stat må foreligge. Det er likevel ikke tvilsomt at den må foreligge før den rettslige prøvingen av utleveringsbegjæringen. I praksis stiller Justisdepartementet i sitt utleveringsvedtak vilkår etter § 12 annet ledd om ny prøving, dersom retten har kommet til at vilkårene i § 10 annet ledd er oppfylt fordi domfelte har rett til ny prøving av saken.
+
+#### Folkerettslige rammer
+
+Utleveringskonvensjonen, annen tilleggsprotokoll og bilaterale avtaler
+
+*Utleveringskonvensjonen* har ingen særskilt bestemmelse om fraværsdommer, men det er gitt regler om dette i konvensjonens *annen tilleggsprotokoll* art. 3. Artikkel 3 nr. 1 gir anledning til å nekte utlevering med grunnlag i en fraværsdom dersom
+
+«the proceedings leading to the judgment did not satisfy the minimum rights of defence recognised as due to everyone charged with criminal offence. However, extradition shall be granted if the requesting Party gives an assurance considered sufficient to guarantee to the person claimed the right to a retrial which safeguards the rights of defence. This decision will authorise the requesting Party either to enforce the judgment in question if the convicted person does not make an opposition or, if he does, to take proceedings against the person extradited.»
+
+Artikkel 3 nr. 2 bestemmer videre at den anmodede stats opplysning til den ettersøkte om fraværsdommen ikke skal ha noen formell betydning for prosessen i den anmodende stat. Hovedhensikten med nr. 2 er å hindre at den ettersøkte etter utlevering bare har et lite tidsvindu for å anke, mens selve utleveringsprosessen tar flere uker eller måneder, jf. den forklarende rapporten til annen tilleggsprotokoll s. 5.
+
+Ved reservasjon til art. 12 (som gjelder begjæringen og medfølgende dokumenter) har Norge forbeholdt seg retten til å kunne kreve beviser fra den anmodende stat for at den ettersøkte har begått forholdet som ligger til grunn for utleveringsbegjæringen, og til å avslå begjæringen hvis bevisene anses utilstrekkelige. I forbindelse med Norges ratifikasjon av første og annen tilleggsprotokoll ble det i kongelig resolusjon 17. oktober 1986 s. 11–12 understreket at forbeholdet også skal gjelde for annen tilleggsprotokoll, jf. dens art. 9 nr. 1.
+
+Ingen av Norges *bilaterale utleveringsavtaler* har egne bestemmelser om fraværsdommer.
+
+EMK art. 6 og EMDs praksis om fraværsdommer
+
+EMD har uttalt at en utleverende stat unntaksvis kan tenkes å krenke sine forpliktelser etter EMK art. 6, dersom klageren har vært eller vil bli utsatt for en åpenbar rettsfornektelse («a flagrant denial of a fair trial») i den anmodende stat, jf. plenumsdommen *Soering mot Storbritannia*, 7. juli 1989, avsnitt 113. En fraværsdom uten mulighet for en ny behandling av sakens realitet kan utgjøre en slik åpenbar rettsfornektelse, jf. bl.a. avvisningsavgjørelsene *Einhorn mot Frankrike*, 16. oktober 2001, avsnitt 33 og *Harkins mot Storbritannia* (GC), 15. juni 2017, avsnitt 63. Ingen stater er hittil dømt av EMD for brudd på EMK art. 6 etter å ha utlevert en ettersøkt på grunnlag av en fraværsdom. Se nærmere om art. 6 og EMDs avgjørelser i punkt 4.3.
+
+Nedenfor gis det en oversikt over sentrale avgjørelser fra EMD om forholdet mellom art. 6 og fraværsdommer. Disse sakene gjelder klager mot *staten som avsa fraværsdommen*. De er likevel relevante for en utleverende stat fordi de angir under hvilke omstendigheter en fraværsdom kan utgjøre en åpenbar rettsfornektelse.
+
+Tiltaltes rett til å være til stede i egen straffesak er ikke nedfelt i art. 6, men EMD har lagt til grunn at tilstedeværelse er en grunnleggende forutsetning for å kunne ivareta sine rettigheter bl.a. etter art. 6 nr. 3, jf. bl.a. storkammerdommen *Sejdovic mot Italia* (GC), 1. mars 2006, avsnitt 81.
+
+EMD har i flere avgjørelser uttalt seg om i hvilke instanser og ved hvilke typer avgjørelser den tiltaltes tilstedeværelse kreves. Tilstedeværelse i førsteinstans kompenserer ikke for fravær i ankedomstolen, jf. *Hokkeling mot Nederland*, 14. februar 2017, avsnitt 62. Derimot kan tilstedeværelse i ankedomstolen kompensere for manglende tilstedeværelse i førsteinstans, såfremt ankeinstansen kan prøve både faktiske og rettslige spørsmål, jf. f.eks. storkammerdommen *Idalov mot Russland* (GC), 22. mai 2012, avsnitt 171.
+
+Avholdelse av rettsforhandlinger uten at den tiltalte er til stede, er ikke i seg selv i strid med art. 6. Forutsetningen er da at tiltalte i ettertid kan få saken prøvd på nytt for en domstol der vedkommende kan møte, og som prøver både de faktiske og rettslige spørsmålene i saken, se *Poitrimol mot Frankrike,* 23. november 1993, avsnitt 31.
+
+En tiltalt kan gi avkall på retten til tilstedeværelse i egen sak. Det følger av EMDs praksis at avkallet må være utvetydig og ledsaget av visse sikringstiltak som ivaretar tilstrekkelige rettssikkerhetsgarantier. Videre må tiltalte med rimelighet kunne forutse konsekvensene av avkallet, og dette må ikke være i strid med vesentlige samfunnsinteresser. Praksis fra EMD er oppsummert i *Sejdovic*-dommen (2006) avsnitt 86–88.
+
+For å kunne gi avkall forutsatte EMD tidligere at tiltalte var underrettet formelt om tiltalen, og at det ikke var tilstrekkelig at tiltalte indirekte var kjent med at det verserte en sak, se f. eks. *T. mot Italia*, 12. oktober 1992, avsnitt 28. Dette ble justert i *Sejdovic*-dommen avsnitt 99:
+
+«\[…\] The Court cannot, however, rule out the possibility that certain established facts might provide an unequivocal indication that the accused is aware of the existence of the criminal proceedings against him and of the nature and the cause of the accusation and does not intend to take part in the trial or wishes to escape prosecution. \[…\]»
+
+Det beror på en konkret vurdering om tiltalte kan sies å ha gitt avkall. I *Sejdovic*-dommen kunne det ifølge EMD ikke legges til grunn at klageren hadde vært klar over saken. Myndighetenes anførsel om at han kjente til saken var ikke basert på noen objektive faktorer annet enn at klageren hadde vært fraværende fra boligen samt at han var involvert i drapet som straffesaken gjaldt. Det siste var ikke i tråd med uskyldspresumsjonen, og det første var ikke nok til å fastslå at han hadde kjent til saken. Domstolen fant derfor at klageren ikke hadde gitt avkall på retten til tilstedeværelse i straffesaken (avsnitt 100–101).
+
+Myndighetene må videre ha truffet tilstrekkelige tiltak («shown sufficient diligence») for å innkalle tiltalte til rettsmøtet, se f.eks. avvisningsavgjørelsen *De Groot mot Nederland,* 23. februar 1999, *Coniac mot Romania,* 6. oktober 2015, avsnitt 53 og *M.T.B. mot Tyrkia*, 12. juni 2018, avsnitt 51–53. Det kan etter omstendighetene være tilstrekkelig med en forkynning til tiltaltes adresse når vedkommende var klar over at det verserte en straffesak mot ham, jf. *De Groot-*avgjørelsen.
+
+Vilkåret om at den tiltalte med rimelighet må kunne forutse konsekvensene av avkallet, er oppfylt hvis de forkynte dokumentene inneholder opplysning om at det kan avsies fraværsdom i tiltaltes fravær, og forkynning er gjort overfor tiltalte personlig eller vedkommende på annen måte har fått kunnskap om innholdet i dokumentene. I andre tilfeller må det foreligge konkrete holdepunkter som tilsier at tiltalte kunne forutse konsekvensene av fraværet. Se f.eks. avvisningsavgjørelsen *Jones mot Storbritannia,* 9. september 2003, og *Idalov*-dommen (2012) avsnitt 173.
+
+Dersom tiltalte velger å utebli fra et rettsmøte vedkommende er innkalt til personlig, vil det være et stilltiende avkall på retten til tilstedeværelse, jf. storkammerdommen *Hermi mot Italia* (GC), 18. oktober 2006, avsnitt 89. EMDs praksis viser også at det kan bli ansett som et avkall hvis tiltalte selv har skapt en situasjon som medførte at vedkommende ikke kunne innkalles til eller møte i rettsmøtet, jf. f.eks. *Demebukov mot Bulgaria,* 28. februar 2008, avsnitt 57. Pågripelse og fengsling i et annet land anses å være en direkte konsekvens av vedkommendes egen opptreden, men EMD har i disse tilfellene lagt vekt på om tiltalte hadde til hensikt å møte i saken og om vedkommendes forsvarer protesterte mot at saken ble ført i tiltaltes fravær, jf. *Hokkeling*-dommen (2017) avsnitt 59 og 62.
+
+#### Utenlandsk rett
+
+I den *danske* utleveringsloven 2020 § 28 er det gitt en særskilt bestemmelse om utlevering til fullbyrding av en fraværdsom. Bestemmelsen svarer i hovedsak til EUs rammebeslutning art. 4 a, se nærmere om art. 4 a i punkt 8.7.2.2. Den tidligere danske utleveringsloven hadde ikke noen egen bestemmelse om fraværsdommer. I forarbeidene er endringen begrunnet med et ønske om å styrke den ettersøktes rettssikkerhet, jf. Lovforslag nr. L 78 (2019–20) s. 70.
+
+I *Sverige* er utlevering til fullbyrding av fraværsdom regulert i utleveringsloven 1957 9 §, som gjelder krav til bevis for den ettersøktes skyld. Det følger av 3 stk. at det i overenskomst kan bestemmes at en fraværsdom skal «godtagas endast om den dömdes rättighet att försvara sig likväl kan anses ha blivit nöjaktigt tilgodosedd eller den dömde, enligt försäkran som den främmande staten lämnar i utlämningsärendet, har möjlighet att påkalla ny domstolsprövning som tilgodoser nämnda rättighet». Bestemmelsen gjennomfører annen tilleggsprotokoll til utleveringskonvensjonen art. 3, jf. Prop. 1978/79:80 s. 12–13.
+
+I den *nederlandske* utleveringsloven 1967 § 5 heter det i tredje ledd at utlevering til fullbyrding av fraværsdom bare kan tillates når den ettersøkte har fått eller vil få tilstrekkelig anledning til å ivareta sitt forsvar.
+
+Hverken den *finske* utleveringsloven 1970, den *islandske* utleveringsloven 1984 eller den *tyske* loven om internasjonal rettslig bistand i straffesaker 1982 har noen særskilt bestemmelse om fraværsdommer.
+
+#### Utvalgets vurderinger
+
+Utleveringsloven har som nevnt ingen særlige regler om utlevering til fullbyrding av en fraværsdom. At det foreligger en slik dom kan derimot ha betydning for om det er særlig grunn til å tro at dommen ikke bygger på en riktig vurdering av skyldspørsmålet, jf. lovens § 10 annet ledd. Den omstendighet at det foreligger en fraværsdom, kan også foranledige en vurdering av om det vil være forenlig med EMK art. 6 å tillate utlevering.
+
+Utleveringskonvensjonens annen tilleggsprotokoll art. 3 gir anvisning på en vurdering av prosessen som ledet frem til fraværsdommen, mens utleveringsloven § 10 første ledd legger opp til en prøving av skyldspørsmålet. Det ble ved tilslutning til protokollen lagt til grunn at art. 3 nr. 1 er i samsvar med § 10, men Høyesterett påpekte imidlertid i Rt. 2007 s. 1453 at art. 3 «nok kunne ha vore teke inn i lovteksten» (avsnitt 28).
+
+Fraværsdommer utgjør ikke sjelden grunnlaget for en utleveringsbegjæring. Av rettssikkerhetsgrunner, bl.a. hensynet til klarhet og brukervennlighet, foreslår utvalget at det inntas en egen bestemmelse i loven om dette.
+
+Utvalget har vurdert ulike lovtekniske løsninger. Det er særlig vurdert om det bør utformes en bestemmelse som tar utgangspunkt i EUs rammebeslutning art. 4 a, slik Danmark har gjort. En slik løsning vil gi en detaljert regel.
+
+En detaljrik bestemmelse vil være nyttig for rettsanvenderne. På den annen side vil den kunne gi et misvisende inntrykk av hva som er gjeldende rett, idet regelen vil måtte suppleres av eventuelle endringer i bl.a. EMDs praksis. Hvis lovens vilkår fremstår som uttømmende, er det fare for at det ikke blir tatt tilstrekkelig hensyn til retts- og konvensjonspraksis. Den nye bestemmelsen bør derfor avspeile en hensiktsmessig balanse mellom behovet for en informativ regel og ønsket om en regel som er fleksibel nok til å fange opp fremtidig rettsutvikling.
+
+Utvalget har etter dette kommet til at det er mest hensiktsmessig med en fleksibel ordlyd. Samtidig skal forarbeidene gi veiledning om gjeldende praksis fra EMD. Også praksis som knytter seg til arrestordreregelverket, omtalt i punkt 8.7.2, er av interesse ettersom EU-domstolens avgjørelser om fraværsdom bygger på praksis fra EMD.
+
+På denne bakgrunn fastsetter derfor lovutkastet § 16 at utlevering til fullbyrding av fengselsstraff eller annen frihetsberøvende reaksjon idømt i fravær av den ettersøkte, ikke kan skje, med mindre retten til rettferdig rettergang var ivaretatt eller det er gitt forsikring om at den ettersøkte har krav på å få saken behandlet på nytt med rett til å være til stede. «Retten til rettferdig rettergang» må tolkes i lys av den til enhver tid gjeldende praksis fra EMD.
+
+Dersom den domfelte har krav på ny rettergang i den anmodende stat, kan det ikke leses ut av utleveringsloven at en forsikring om dette må foreligge før retten prøver om vilkårene for utlevering er oppfylt. Det er likevel ikke tvilsomt at det er nødvendig. Utvalget foreslår at den nye bestemmelsen angir dette kravet uttrykkelig.
+
+### Overlevering til stater i EU utenfor Norden
+
+#### Gjeldende rett
+
+Arrestordreloven § 11 første ledd regulerer overlevering til fullbyrding av en fraværsdom til en stat i EU utenfor Norden.
+
+Etter bestemmelsen kan overlevering til fullbyrding av en fraværsdom på frihetsstraff eller annen frihetsberøvende reaksjon ikke skje, med mindre den utstedende stat forsikrer at den ettersøkte kan kreve ny behandling av saken og da har anledning til å være til stede. Dette gjelder imidlertid bare hvis den ettersøkte ikke var informert om tid og sted for rettsforhandlingene.
+
+Det er i tredje ledd presisert at en forsikring skal foreligge før retten avgjør om vilkårene for overlevering er oppfylt. Nøyaktig hva forsikringen skal gå ut på, må tolkes i lys av praksis fra EMD, jf. Prop. 137 LS (2010–2011) s. 31. Forsikringen kan fremgå av arrestordren eller innhentes i ettertid.
+
+Paragraf 11 gjennomfører parallellavtalen art. 8 nr. 1. Det er likevel en forskjell ved at det i avtalen er en bestemmelse som gir den iverksettende stat mulighet til å stille vilkår for overleveringen, mens arrestordreloven § 11 er formulert som en obligatorisk avslagsgrunn.
+
+Ordlyden i § 11 første ledd fastsetter at avslagsgrunnen ikke kommer til anvendelse hvis den ettersøkte «er blitt informert om tid og stad for rettsforhandlingane». Etter EMDs praksis er det imidlertid ikke alltid tilstrekkelig for å unngå krenkelse av art. 6 at tiltalte var varslet om rettsmøtet. Det kreves også at vedkommende var gjort kjent med konsekvensene av ikke å møte. På den annen side har EMD fastslått at det etter omstendighetene kan være tilstrekkelig at domfelte hadde kjennskap til straffesaken uten nødvendigvis å kjenne til tid og sted for rettsmøtet, se omtale av EMDs praksis i punkt 8.7.1.2.
+
+I forarbeidene er det påpekt at parallellavtalen art. 8 nr. 1 gjelder rettigheter som uansett følger av EMK, og at formålet med § 11 er å sikre at overlevering ikke kommer i strid med EMK, jf. Prop. 137 LS (2010–2011) s. 31 og 53. Paragraf 11 må derfor i utgangspunktet suppleres med de kravene som kan utledes av EMDs praksis. Det er likevel spørsmål om det i § 11 første ledd kan innfortolkes føringer fra EMD som er til den ettersøktes ugunst. Samme spørsmål oppstår der EU-domstolen har lagt til grunn at en arrestordre ikke kan avslås fordi det ikke er gitt forsikring om ny prøving av fraværsdommen, hvis tiltalte har søkt å unndra seg personlig innkalling og har flyktet, se EU-domstolens dommer 24. mai 2016 i sak C-108/16 PPU *Dworzecki* og 17. desember 2020 i sak C-416/20 PPU *Generalstaatsanwaltschaft Hamburg*, omtalt nedenfor.
+
+HR-2020-1701-U gjaldt overlevering til Italia for fullbyrding av en ikke-rettskraftig fraværsdom som kunne ankes til italiensk høyesterett. Høyesteretts ankeutvalg anså at arrestordren gjaldt fullbyrding ettersom det ikke var adgang til å få en fornyet vurdering av skyldspørsmålet. Under henvisning til EU-domstolens dom 22. desember 2017 i sak C-571/17 PPU *Ardic* og formålsbetraktninger, la ankeutvalget til grunn at arrestordreloven § 11 første ledd får anvendelse når den eneste ankemuligheten som gjenstår i den utstedende stat er en adgang til å prøve lovanvendelsen. Det er da uten betydning at det er angitt i arrestordren at den gjelder overlevering til strafforfølgning (avsnitt 39 og 40).
+
+Det kreves ikke tilstedeværelse når betinget straff blir gjort ubetinget på grunn av vilkårsbrudd, jf. HR-2021-2544-U og LB-2020-140413. Etter arrestordreloven § 11 er det tilstrekkelig at den ettersøkte var til stede da rettssaken om skyldspørsmålet ble behandlet. Avgjørelsene gjaldt henholdsvis vilkårsbrudd i form av ny kriminalitet i prøvetiden og brudd på særvilkår. Ankeutvalget viste til *Ardic-*avgjørelsen avsnitt 92 og bemerket at det var spørsmål om fullbyrding av tidligere idømt straff, ikke om å endre straffens art eller lengde.
+
+#### Folkerettslige rammer
+
+EMK art. 6 og EMDs praksis om fraværsdommer
+
+Om EMK art. 6 og EMDs praksis se punkt 8.7.1.2.
+
+Parallellavtalen, EUs rammebeslutning og
+EU-domstolens praksis om fraværsdommer
+
+*Parallellavtalen* art. 8 nr. 1 gir den iverksettende stat anledning til å stille som vilkår for overlevering til fullbyrding av frihetsstraff eller annen frihetsberøvelse ilagt ved en fraværsdom, at den utstedende myndighet gir en forsikring som anses tilstrekkelig til å garantere at den ettersøkte vil få anledning til å begjære saken behandlet på nytt i utstedende stat, og å være til stede når dom faller. Dette gjelder hvis den ettersøkte ikke har vært innkalt personlig eller på annen måte har vært orientert om tid og sted for rettsmøtet som resulterte i fraværsdommen.
+
+Parallellavtalen forutsetter at betingelsene den iverksettende stat stiller, godtas av den utstedende stat før overlevering finner sted. Det følger av praksis fra EU-domstolen at en arrestordre kan avslås hvis den utstedende stat ikke godtar betingelser som den iverksettende stat stiller etter EUs rammebeslutning art. 5, jf. dom 28. juni 2012 i sak C-192/12 PPU *West* avsnitt 64.
+
+*EUs rammebeslutning* art. 4 a regulerer overlevering til fullbyrding av fraværsdommer. Bestemmelsen kom inn ved EUs rammebeslutning 2009/299/JIS og erstattet daværende art. 5 nr. 1, som tilsvarte parallellavtalen art. 8 nr. 1. Hensikten var å skape større forutberegnelighet ved praktiseringen av rammebeslutningen ved å fastsette klare og felles grunner til å unnlate å anerkjenne fraværsdommer, jf. fortalen punkt 3 og 4. Artikkel 4 a er inkorporert i arrestordreskjemaet som benyttes innad i EU. Selv om art. 4 a ikke gjelder i forholdet mellom Norge og EU-statene, gjengis innholdet her kort.
+
+Artikkel 4 a gir statene mulighet til å nekte å fullbyrde en arrestordre om fullbyrding av frihetsstraff eller annen frihetsberøvende reaksjon hvis den ettersøkte ikke har vært til stede under rettergangen. Det er oppstilt fire unntak fra dette i nr. 1 bokstav a til d.
+
+Bokstav a gjelder tilfeller hvor tiltalte enten ble personlig stevnet eller «på anden måte faktisk er blevet officielt underrettet om det fastsatte tidspunkt og sted for den pågældende retssag på en sådan måde, at det entydigt fremgår, at han/hun var klar over den berammede retssag», og ble gjort kjent med at det kan avsies avgjørelse selv om vedkommende ikke møter i rettssaken.
+
+Bokstav b omhandler situasjoner hvor tiltalte «var klar over den berammede retssag og havde givet et mandat til en juridisk rådgiver, der var udnævnt enten af den pågældende person eller af staten til at forsvare ham/hende under retssagen, og var faktisk repræsenteret af denne rådgiver under retssagen».
+
+Bokstav c regulerer situasjoner der en domfelt, etter å ha fått forkynt dommen og «udtrykkeligt være blevet underrettet om retten til fornyet prøvelse eller anke, hvor personen har rett til at deltage, og som giver mulighet for, at sagens realiteter inkl. nye beviser bliver taget op igjen, og som kan føre til, at den oprindelige afærelse bliver ændret», erklærer at vedkommende ikke «anfægter» avgjørelsen eller ikke anmoder om fornyet prøving eller anker innenfor fristen.
+
+Bokstav d gjelder tilfeller der domfelte ikke har fått forkynt dommen personlig, men vil få den forkynt straks etter overleveringen og da bli uttrykkelig underrettet om muligheten til en fornyet prøving, slik som sitert fra bokstav c, og bli underrettet om hvilken frist som gjelder for slik fornyet prøving eller anke. I tilfeller som nevnt i bokstav d følger det videre av nr. 2 at den domfelte kan be om å få en kopi av dommen før overleveringen finner sted. Dette skal ikke anses som en formell forkynning og igangsetter ikke noen frister.
+
+Ved praktiseringen av arrestordreloven § 11 må det sees hen til *EU-domstolens praksis* om EUs rammebeslutning art. 4 a, se nærmere punkt 4.8.
+
+EU-domstolen har fremholdt at den sikrer at art. 4 a tolkes og anvendes i overensstemmelse med EMK art. 6 og EMDs praksis, se f.eks. EU-domstolens dom 22. desember 2017 i sak C-571/17 PPU *Ardic* avsnitt 74. Strengt tatt gjelder imidlertid art. 4 a hvilke krav den fullbyrdende staten må stille til prosessen i domsstaten for at overlevering ikke skal kunne nektes. Hvis ett av unntakene i art. 4 a nr. 1 bokstav a til d er oppfylt, kan arrestordren ikke avslås, jf. EU-domstolens dom 10. august 2017 i sak C-270/17 PPU *Tupikas* avsnitt 55. Dersom bokstav a eller b kommer til anvendelse, kan den iverksettende stat da heller ikke sette som vilkår for overleveringen at den domfelte skal ha mulighet til en fornyet prøving av saken hvor vedkommende selv er til stede, se EU-domstolens storkammerdom 26. februar 2013 i sak C-399/11 *Melloni* avsnitt 42.
+
+Når en sak har vært behandlet av flere rettsinstanser, følger det av EU-domstolens praksis – som bygger på EMDs praksis – at tilstedeværelse kreves i instansen som avsier endelig dom om skyldspørsmålet og om straff etter en faktisk og rettslig prøving av sakens realitet, jf. *Ardic*-dommen avsnitt 65. Tilstedeværelse er ikke bare nødvendig i rettsmøtet hvor det skal treffes endelig avgjørelse om skyldspørsmålet, men også i en etterfølgende prosess som vil kunne endre straffen, dersom domstolen kan utøve skjønn ved straffutmålingen, jf. EU-domstolens dom 10. august 2017 i sak C-271/17 PPU *Zdziaszek* avsnitt 87 og 88. Kan domstolen bruke skjønn, er det irrelevant om det ikke er anledning til å skjerpe straffen eller om den endrede straffen er gunstigere (avsnitt 89 og 92).
+
+Hverken parallellavtalen art. 8 nr. 1, arrestordreloven § 11 eller rammebeslutningen art. 4 a regulerer unndragelse fra strafforfølgning eller avkall i andre situasjoner enn der tiltalte var klar over tid og sted for rettsmøtet (parallellavtalen og arrestordreloven) eller stevningen enten formelt er forkynt eller tiltalte har gitt et mandat til en advokat (EUs rammebeslutning). Både parallellavtalen og rammebeslutningens bestemmelser om fraværsdommer er «kan»-regler, slik at statene har anledning til å gi regler som åpner for overlevering også i andre tilfeller når retten til rettferdig rettergang er ivaretatt.
+
+I *Dworzecki*-dommen (2016) var tiltalte ikke offisielt underrettet om rettsmøtet, men vedkommende var kjent med den verserende straffesaken. EU-domstolen la til grunn at art. 4 a gir statene anledning til å etterkomme en arrestordre når fraværsdommen ikke innebar noen krenkelse av EMK art. 6. I denne vurderingen kan det tas hensyn til tiltaltes adferd, herunder forsøk på å unngå forkynning (avsnitt 51). Rettssetningen ble utviklet videre i *Generalstaatsanwaltschaft Hamburg*-dommen (2020). I saken hadde den tiltalte flyktet til Tyskland for å unndra seg strafforfølgning i Romania, og rumenske myndigheter ville ikke gi forsikring om ny prøving av to fraværsdommer. EU-domstolen konkluderte med at en arrestordre ikke kan avslås med den begrunnelse at det ikke er gitt forsikring om ny prøving av fraværsdommen, når den ettersøkte har forhindret personlig innkalling eller flyktet (avsnitt 51, 52 og 56). Etter dette utgjør forhindring av personlig innkalling og flukt selvstendige unntak som må innfortolkes i rammebeslutningen art. 4 a og parallellavtalen art. 8 nr. 1. I slike situasjoner er det altså anledning, og til dels plikt, til å etterkomme arrestordren etter parallellavtalens valgfrie bestemmelse om at vilkår «kan» settes. Det er noe uklart om arrestordreloven § 11 kan tolkes på samme måte, til ugunst for den ettersøkte, ettersom arrestordren «skal» avslås dersom den ettersøkte ikke var informert om tid og sted for rettsmøtet.
+
+#### Utenlandsk rett
+
+I den *danske* utleveringsloven 2020 § 16 er det angitt at utlevering til fullbyrding av fraværsdom ikke kan skje, med mindre det fremgår av arrestordren at ett av fire unntak, som svarer til unntakene i EUs rammebeslutning art. 4 a, er oppfylt. Den *svenske* loven om europeisk arrestordre 2003 2 kap. 3 § bestemmer at overlevering til fullbyrding av fraværsdom ikke kan skje hvis «den utfärande myndigheten inte har beräftat at nogot av villkåren i artikel 4a.1 i rambeslutet är uppfyllt». I den *finske* loven om europeisk arrestordre 2003 6 a § heter det at overlevering kan nektes hvis saken gjelder en fraværsdom, men at overlevering «bifalls dock» hvis et av fire unntak, som svarer til unntakene i rammebeslutningen art. 4 a, er oppfylt. Den *islandske* arrestordreloven 2016 § 12 tilsvarer den norske arrestordreloven § 11.
+
+Den *nederlandske* arrestordreloven 2004 § 12 gjennomfører rammebeslutningen art. 4 a. Som følge av *Dworzecki*-dommen (2016) endret Nederland i 2021 bestemmelsen fra å være en obligatorisk avslagsgrunn til å bli en valgfri avslagsgrunn, jf. Explanatory Memorandum til Reimplementation of parts of the Framework Decision of the Council of the European Union on the European arrest warrant and the surrender procedures between the member states of the European Union (amendment of the Surrender of Persons Act). Den *tyske* loven om internasjonal rettslig bistand i straffesaker 1982 har i § 83 en særregel om overlevering til fullbyrding av fraværsdommer, som bygger på art. 4 a.
+
+#### Utvalgets vurderinger
+
+Parallellavtalen og arrestordreloven er som nevnt uformet på forskjellige måter. Mens art. 8 nr. 1 åpner for at iverksettende stat «kan» sette *betingelse* og kreve *garanti* for overleveringen i nærmere gitte situasjoner, bestemmer § 11 første ledd at en arrestordre til fullbyrding av fraværsdom, avsagt uten at den ettersøkte var informert om tid og sted for rettsforhandlingene, «skal» *avslås* om ikke utstedende stat *forsikrer* at vedkommende kan kreve saken behandlet på nytt med rett til å være til stede.
+
+Utvalget har for det første vurdert om det er behov for en særskilt bestemmelse om fraværsdommer. Det kan synes unødvendig idet overlevering uansett aldri kan skje i strid med EMK, jf. lovutkastet § 5. Samtidig er § 5 generell i sin utforming, og den omfatter mange ulike forhold. Det å synliggjøre fraværsdommer som et typetilfelle vil kunne virke som en påminner for rettsanvenderne. I tillegg utgjør fraværsdommer ikke sjelden grunnlaget for arrestordrer, og overlevering til fullbyrding av fraværsdommer er derfor et praktisk viktig spørsmål. Utvalget foreslår på denne bakgrunn å videreføre en egen bestemmelse om fraværsdommer, se lovutkastet § 24.
+
+Videre har utvalget vurdert om bestemmelsen skal bringes nærmere art. 8 om betingelser, eller om den skal videreføres som en avslagsgrunn, jf. arrestordreloven § 11. På den ene siden tilsier en lojal implementering av parallellavtalen at bestemmelsen uformes som en betingelses-bestemmelse. På den annen side må art. 8 i praksis forstås om en avslagsgrunn; får ikke norske myndigheter etterspurte garantier, må arrestordren avslås. Det er derfor mest pedagogisk og brukervennlig at regelen speiler realiteten og formuleres som en avslagsgrunn.
+
+Det er også vurdert om bestemmelsen skal utgjøre en obligatorisk eller valgfri avslagsgrunn. Både parallellavtalen art. 8 nr. 1 og EUs rammebeslutning art. 4 a er «kan»-bestemmelser, noe som taler for å regulere fraværsdommer som en valgfri avslagsgrunn. Det vil også sikre muligheten for å ta hensyn til føringer som måtte komme fra EU-domstolen for utøvelsen av «kan»-skjønnet i EUs rammebeslutning art. 4 a. Begge artiklene tar dessuten sikte på å sørge for at overlevering skjer i tråd med EMK art. 6, og en valgfri avslagsgrunn må i alle tilfeller tolkes i lys av dette formålet.
+
+Samtidig bemerker utvalget at arrestordreloven § 11 om fraværsdommer i dag utgjør en obligatorisk avslagsgrunn. Så vidt utvalget er kjent med, foreligger det ikke kritikk mot nåværende løsning. Utvalget går dessuten inn for at fraværsdommer skal utgjøre en obligatorisk avslagsgrunn i utleveringssakene. Hensynet til rettslikhet taler for en tilsvarende regulering i arrestordresakene.
+
+Det vises videre til at overlevering ikke vil kunne skje i strid med retten til rettferdig rettergang, jf. lovutkastet § 5. Rettsanvenderne har derfor ikke anledning til å utøve skjønn i en slik situasjon. For å gjenspeile realiteten og sikre forutberegnelighet, bør typetilfellet etter utvalgets syn utgjøre en obligatorisk avslagsgrunn.
+
+Utvalget foreslår dessuten en fleksibel bestemmelse som viser til den rettslige standarden «retten til rettferdig rettergang». Hva som utgjør «rettferdig rettergang» er ikke en gitt størrelse, men vil kunne utvikle seg over tid. Ordlyden vil derfor fange opp retningslinjer og rettssetninger fra EMD og EU-domstolen om hvordan begrepet skal forstås. Ordlyden «skal» i lovutkastet vil dermed ikke utgjøre noe hinder for å innfortolke føringer fra EU-domstolen om den fakultative avslagsgrunnen i rammebeslutningens art. 4 a, idet føringene må innfortolkes i «retten til rettferdig rettergang». På denne bakgrunn foreslår utvalget at bestemmelsen utgjør en obligatorisk avslagsgrunn.
+
+Til sist har utvalget vurdert ulike utforminger av det nærmere innholdet i bestemmelsen. Som for utleveringssakene, vil en detaljert og uttømmende regel være informativ og brukervennlig. Den vil imidlertid måtte suppleres med retts- og konvensjonspraksis for å gi et helhetlig bilde av hva som til enhver tid er gjeldende rett.
+
+EU-domstolen har innfortolket unntak i rammebeslutningen art. 4 a som kan ha betydning for praktiseringen av parallellavtalen art. 8 nr. 1, se nærmere omtale av avgjørelsene *Dworzecki* (2016) og *Generalstaatsanwaltschaft Hamburg* (2020) i punkt 8.7.2.2. EUs rammebeslutning må forstås som at statene kan overlevere også i andre tilfeller enn det art. 4 a nr. 1 bokstav a til d gir anvisning på, såfremt retten til rettferdig rettergang er ivaretatt.
+
+Utvalget går inn for å gjennomføre art. 8 nr. 1 slik den må forstås i lys av praksis fra EMD og EU-domstolen, med en åpen og fleksibel ordlyd. Bestemmelsen er på den måten dynamisk, noe som gjør at den kan tolkes i lys av den til enhver tid gjeldende praksis.
+
+I arrestordreskjemaet som brukes av EU-landene, er art. 4 a inkorporert, slik at det skal være enkelt for statene å avgjøre om fraværsdommen gir grunnlag for overlevering. Arrestordreskjemaet som er vedlagt parallellavtalen, har ikke samme mulighet. Etter det utvalget erfarer bruker EU-statene arrestordreskjemaet som har art. 4 a inkorporert også ved arrestordrer til Norge, og det vil følgelig være krysset av for om et av unntakene i art. 4 a er oppfylt. Dette vil være en indiksjon på om fraværsdommen har vært i tråd med EMK art. 6.
+
+### Overlevering til stater i Norden
+
+#### Gjeldende rett
+
+Arrestordreloven har ingen særskilt bestemmelse om overlevering til fullbyrding av en fraværsdom til en nordisk stat. Slike dommer vurderes etter § 17 første ledd bokstav b, som regulerer krav til idømt straff.
+
+Da lov om nordisk arrestordre 2008 ble vedtatt, la Justisdepartementet til grunn at utlevering til en nordisk stat ikke kan komme i strid med EMK, jf. Ot.prp. nr. 39 (2007–2008) s. 13. Se også nærmere punkt 8.5.3.1.
+
+En nordisk fraværsdom danner derfor grunnlag for overlevering etter § 17 første ledd bokstav b, selv om det ikke er opplyst om domfelte var stevnet til rettsmøtet eller om det er adgang til å få prøvd saken på nytt. I skjemaet for nordiske arrestordrer er det ikke noe felt for opplysning om hvorvidt dommen er en fraværsdom, og dommen skal heller ikke vedlegges, jf. konvensjon om nordisk arrestordre art. 7 og vedlegg I til arrestordreforskriften (skjema for utferdigelse av nordisk arrestordre).
+
+#### Folkerettslige rammer
+
+Konvensjon om nordisk arrestordre regulerer ikke fraværsdommer spesielt. I fortalen punkt 4 heter det at konvensjonen «respekterer de grunnleggende rettigheter» som følger av EMK, herunder retten til rettferdig rettergang i art. 6.
+
+#### Nordisk rett
+
+Hverken den *danske* utleveringsloven 2020 eller *svensk*, *finsk* eller *islandsk* arrestordrelov av henholdsvis 2011, 2007 og 2016 har noen særskilt regulering av overlevering til fullbyrding av fraværsdom til en nordisk stat.
+
+#### Utvalgets vurderinger
+
+Det er ikke gitt særskilte regler om overlevering til fullbyrding av fraværsdommer til stater i Norden. Utvalget har vurdert om den nye loven bør ha en tilsvarende regel som foreslås for utleverings- og overleveringssaker for øvrig, men har kommet til at dette ikke er hensiktsmessig.
+
+De nordiske statene er tilsluttet EMK. Konvensjon om nordisk arrestordre forutsetter at den er i tråd med EMK. Rettslig sett er det ikke noe i veien for å ha en regel om fraværsdommer som også gjelder ved overlevering til de nordiske statene.
+
+Konvensjon om nordisk arrestordre legger imidlertid ikke opp til en prøving av om fraværsdommen er avsagt i strid med EMK art. 6. Arrestordreskjemaet som skal benyttes har ikke noe felt for opplysning av om dommen var en fraværsdom, og dommen blir heller ikke vedlagt. I en vanlig sak vil norske myndigheter derfor ikke få vite om saken gjelder en fraværsdom, og hvis så er tilfelle, heller ikke få opplysninger om omstendigheter som gjør det mulig å vurdere om fraværsdommen var i strid med EMK art. 6. Slike opplysninger må eventuelt innhentes i hver enkelt sak. Siden konvensjonen og skjemaet ikke legger opp til at spørsmålet skal prøves rutinemessig, mener utvalget at loven ikke bør legge opp til motsatt løsning. Utvalget har også sett hen til at ingen av de andre nordiske landene har en særskilt regulering av fraværsdommer, og at det ikke foreligger opplysninger som tyder på noe reelt behov for en slik regel overfor stater i Norden. Det forslås derfor ingen særskilt bestemmelse om overlevering til fullbyrding av en fraværsdom.
