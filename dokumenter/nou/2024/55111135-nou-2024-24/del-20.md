@@ -1,926 +1,278 @@
-# NOU 2024: 24, del 20 av 22 (side 228–239)
+# NOU 2024: 24, del 20 av 24
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/55111135-nou-2024-24.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-24/id3079704/
 - Original-PDF: https://www.regjeringen.no/contentassets/28617a4ff70a45858f1ff0de3f8c4263/no/pdfs/nou202420240024000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 1 tabell, 22 figurer, 47 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 228]
-
-226
-
-NOU 2024: 24
-
-Kapittel 24
-
-Prøvd på nytt
-
-Kapittel 24
-
-Forslag til alternativ organisering av
-Gjenopptakelseskommisjonen
-24.1 Innledning
-Utvalget mener at de beste grunner taler for at det
-gjennomføres en alternativ organisering av Gjenopptakelseskommisjonen, hvor kommisjonsmedlemmene i større grad arbeider heltid enn etter
-dagens system. Den nærmere begrunnelsen for
-dette gis i punkt 24.2. De ulike sidene ved forslaget presenteres i punkt 24.3.
-
-24.2 Behovet for en alternativ
-organisering av kommisjonen
-Utvalget har i punkt 20.2 gitt uttrykk for at det
-ikke er tilrådelig at Gjenopptakelseskommisjonen
-opprettholder dagens organisering. Utvalget har
-som tiltak foreslått at kommisjonen inndeles i to
-eller tre avdelinger. Oppsplittingen i avdelinger vil
-gjøre det mulig for kommisjonen å behandle et
-stadig økende antall saker og bidra til å redusere
-saksbehandlingstiden. Et formål med forslaget er
-videre å redusere antall saker per kommisjonsmedlem, og dermed frigjøre tid til en mer betryggende behandling av sakene.
-Utvalget mener videre at det er grunn til å vurdere mer vidtgående endringer i kommisjonsmedlemmenes arbeidsform. Også innen en avdelingsstruktur med dagens regelverk vil kommisjonsmedlemmene ha vervet som et bierverv. For flere
-av medlemmene innebærer dette at arbeidet for
-kommisjonen må gjøres utenfor ordinær arbeidstid, på fritiden. Tatt i betraktning viktigheten av,
-og kompleksiteten i, arbeidet med å vurdere og ta
-stilling til gjenåpning av til dels alvorlige straffesaker, er det ikke heldig at medlemsvervet utføres i
-tillegg til ordinært arbeid i full stilling. I senere tid
-har kommisjonsmedlemmene i gjennomsnitt
-arbeidet med gjenåpningssakene i et omfang som
-tilsvarer en stilling på ca. 22 %, og det er grunn til
-å tro at arbeidsmengende vil øke. Det vises til den
-
-nærmere redegjørelsen for problemstillingen i
-punkt 20.2.1.
-Et resultat av at kommisjonen behandler
-mange saker, og at vervet utføres i tillegg til ordinært arbeid, er at kommisjonsmedlemmene gjennomgående har et informasjonsunderskudd sammenlignet med utrederne i sakene som behandles. Utvalget forstår det slik at den saksansvarlige
-juristen normalt utformer tilnærmet ferdige forslag til avgjørelser. Som regel godtas utkastet til
-avgjørelse uten vesentlige endringer. Kommisjonen har opplyst at det er relativt sjelden at kommisjonen treffer en avgjørelse med en annen konklusjon enn det utrederen har foreslått. I lys av den
-store arbeidsbyrden for kommisjonen, og at medlemmene har kommisjonsarbeidet som bierverv,
-har utvalget forståelse for at en slik arbeidsform i
-praksis har vært nødvendig.
-Etter utvalgets syn er denne arbeidsfordelingen mellom kommisjonsmedlemmene og sekretariatet imidlertid ikke optimal. For at medlemmene
-skal kunne sette seg grundig inn i saken og gjøre
-de vurderingene som er nødvendige, bør medlemmene selv i større grad styre og delta i utredningen av saken, samt ha en aktiv rolle i utformingen
-av avgjørelsen. Gjenåpning av straffedommer er
-viktige saker, som etter lovens system er tillagt de
-regjeringsoppnevnte medlemmene av kommisjonskollegiet. Etter utvalgets syn bør kommisjonsmedlemmene få en mer aktiv rolle ved utredningen og vurderingen av sakene enn de har
-mulighet til innenfor rammene av dagens system.
-Utvalget mener også at det er en vesentlig
-svakhet ved dagens struktur at utrederne i for
-stor grad styrer saksforberedelsen. Kommisjonsmedlemmene bør ha det overordnede ansvaret for
-sakene og drive aktiv saksstyring for å få avviklet
-sakene på en rettssikker, tillitsfull og effektiv
-måte.1 Kommisjonsmedlemmene bør også ha
-1
-
-Se utvalgets forslag til innføring av regler om aktiv saksstyring i punkt 21.2.
-
-[Side 229]
-
-NOU 2024: 24
-Prøvd på nytt
-
-ansvaret for å beslutte hvilke utredningsskritt
-som skal gjennomføres.
-Slik utvalget ser det, vil det være vanskelig å
-etablere en slik rollefordeling mellom sekretariat
-og kommisjonsmedlemmer som her beskrevet,
-innenfor rammene av dagens system – også dersom kommisjonskollegiet inndeles i flere
-avdelinger. For å sikre gode vurderinger og avgjørelser av gjenåpningsspørsmålet, samt skape
-større tillit til Gjenopptakelseskommisjonen,
-mener utvalget at det bør gjøres en endring i oppgavefordelingen mellom kommisjonsmedlemmer
-og sekretariat.
-Utvalget mener videre at effektivitetshensyn
-taler for en endring i arbeidsformen. Dagens
-arbeidsform bygger på at sekretariatet først setter
-seg inn i saken, utreder den, vurderer den og så
-utarbeider forslag til konklusjon, før kommisjonsmedlemmene vil sette seg inn i og overprøve
-sekretariatets arbeid. I en del større saker skjer
-informasjonsovergangen fra sekretariatet til kommisjonen ved at sekretariatet på flere kommisjonsmøter presenterer ulike sider av saken for kommisjonen. Kommisjonsmedlemmene kan da ha
-spørsmål som må avklares til neste presentasjon
-for medlemmene. Kommisjonsmedlemmene kan
-også mene at det bør utføres nye utredningsskritt,
-som utrederne så må følge opp, før saken igjen
-presenteres for kommisjonen. I store saker hender det iblant at samme sak behandles svært
-mange ganger på ulike kommisjonsmøter, og av
-mange personer. For eksempel ble Viggo Kristiansens siste gjenåpningsbegjæring i Baneheia-saken
-behandlet på 15 møter, hvorav flere gikk over
-mange dager (6 møtesesjoner over flere dager, 6
-ordinære kommisjonsmøter og 3 ettermiddagsmøter). Ettersom det normalt går 1–2 måneder
-mellom hvert kommisjonsmøte, kan en slik prosess bli svært tidkrevende. Etter utvalgets syn vil
-det derfor være fordelaktig at flere kommisjonsmedlemmer arbeider heltid og/eller i større stillingsprosenter, slik at de kan delta i utredningen
-av sakene og sikre en mer løpende, effektiv og
-strømlinjeformet behandling.
-En annen ulempe med dagens organisering er
-etter utvalgets syn at kommisjonsmedlemmene –
-med unntak av kommisjonens leder og til dels
-nestleder – i liten grad involveres i den daglige
-driften av kommisjonen. Kommisjonen består av
-fem medlemmer og tre varamedlemmer, hvorav
-kun lederen er ansatt på heltid. Sekretariatet vil
-ved utløpet av 2024 ha 20 ansatte (14 juridiske
-utredere, 4 politifaglige utredere og 2 kontoransatte). Når det daglige arbeidet i hovedsak utføres
-av et sekretariat med 18 utredere i fulltidsstillinger,
-
-227
-
-Kapittel 24
-
-som ikke er ansatt på åremål, er det nærliggende
-at sekretariatet blir relativt toneangivende for kulturen i organisasjonen. Etter utvalgets oppfatning
-er det ikke optimalt at et sekretariat får en såpass
-sterk posisjon sammenlignet med de som skal
-avgjøre sakene og for øvrig styre virksomheten.
-Flere advokater utvalget har snakket med, har
-gitt uttrykk for en opplevelse av manglende medvirkning i saksbehandlingen hos kommisjonen,
-og at kommisjonen tidvis kan fremstå som en noe
-«lukket» organisasjon. Det vises i den sammenheng til at kommisjonen i liten grad har publisert
-retningslinjer om egen saksbehandling, og at det
-gis for lite informasjon underveis i saksbehandlingen, for eksempel om utredningsskritt.2 Kommisjonen har heller ikke interne frister for saksbehandlingen, og det oppgis ikke informasjon om
-saksbehandlingstid og restanser i kommisjonens
-årsrapporter. Inntrykket underbygges av at det i
-praksis er få kontrollmekanismer for kommisjonens arbeid. Domstolene er tilbakeholdne med å
-overprøve kommisjonens avgjørelser. Kommisjonen er videre et uavhengig organ som ikke er
-underlagt noe departement eller overordnet
-organ.
-Etter utvalgets syn er det behov for å styrke
-kommisjonens fokus på å sette borgeren i sentrum. Kommisjonen bør være bevisst på at den er
-til for borgerne, og at tilliten fra befolkningen er
-det som legitimerer kommisjonens virke som
-offentlig myndighet. Åpenhet og transparens er
-sentrale perspektiver, som til enhver tid bør være
-styrende for måten kommisjonen tilrettelegger
-sitt arbeid på. Dette vil være viktig ved en ny organisering av kommisjonen som foreslått i dette
-kapittelet.
-
-24.3 Nærmere om forslaget til alternativ
-organisering
-24.3.1 Overordnet om forslaget
-På bakgrunn av utviklingen og hensynene nevnt i
-punkt 24.2 mener utvalget at Gjenopptakelseskommisjonen bør innrettes på en måte som vil gi
-kommisjonsmedlemmene mulighet til å kontrollere utredningen av sakene og utformingen av
-avgjørelsene, samt til å delta i den daglige driften
-av kommisjonen, i større grad enn etter dagens
-system. Det foreslås derfor en organisering hvor
-flere kommisjonsmedlemmer arbeider heltid og i
-faste deltidsstillinger enn i dag. Den foreslåtte
-organiseringen vil også skape en mer fleksibel
-2
-
-Se nærmere i punkt 21.4.
-
-[Side 230]
-
-228
-
-NOU 2024: 24
-
-Kapittel 24
-
-Prøvd på nytt
-
-Avdeling 1
-
-Leder
-(heltid)
-
-50-100 % 50-100 %
-
-Avdeling 2
-
-Avdeling 3
-
-Varamedlemmer
-
-Nestleder 50-100 % 50-100 %
-(heltid)
-
-Nestleder 50-100 % 50-100 %
-(heltid)
-
-Lekpersoner
-
-Sekretariatet
-
-Kommisjonsmedlem
-(jurist)
-
-Lekperson
-(deltar ved enkelte
-avgjørelser)
-
-Juridisk
-utreder
-
-Politifaglig
-utreder
-
-Figur 24.1 Alternativ organisering av Gjenopptakelseskommisjonen. Figuren viser en inndeling i tre
-avdelinger, hver med totalt tre heltids- og deltidsansatte kommisjonsmedlemmer, samt et sekretariat med tre
-juridiske og tre politifaglige utredere. De juridiske varamedlemmene tiltrer ved forfall. Lekpersonene deltar
-i tillegg til de faste medlemmene ved avgjørelsen av gjenåpningsspørsmålet i alvorlige saker som krever
-bevisvurdering.
-
-struktur, med større mulighet for differensiert
-behandling av ulike saker enn etter dagens system. Utvalget foreslår primært at kommisjonen
-organiseres som skissert i det følgende.
-Kommisjonen inndeles i tre avdelinger, som
-hver ledes av ett heltidsansatt kommisjonsmedlem. Utvalget anbefaler at en av avdelingene ledes
-av kommisjonens leder og de øvrige av kommisjonens nestledere. I forslaget til ny § 395 i straffeprosessloven – som vil lovfeste den alternative
-organiseringen av kommisjonen – er det klargjort
-at det kan oppnevnes flere nestledere. Rollen som
-leder og nestleder beskrives nærmere i punkt
-24.3.2.
-I tillegg ansettes i hver avdeling to jurister i
-stillinger på mellom 50 og 100 %. Kommisjonen vil
-dermed samlet sett bestå av tre heltidsansatte
-jurister som leder hver sin avdeling, og seks jurister i stillinger med en stillingsprosent på minst 50.
-Rollen til de deltidsansatte kommisjonsmedlemmene beskrives nærmere i punkt 24.3.3.
-I alvorlige saker som krever bevisvurdering,
-foreslås det at lederen eller nestlederen som leder
-avdelingen, kan bestemme at avdelingen skal settes med to lekpersoner i tillegg til de tre faste
-juristmedlemmene for å avgjøre saken. Det må
-
-derfor tilsettes et passende antall lekpersoner
-som tiltrer ved behov. Lekpersonenes rolle beskrives nærmere i punkt 24.3.4.
-Avdelingene bistås av et nødvendig antall utredere. Som utgangspunkt bør det for den enkelte
-avdeling ansettes én politifaglig utreder og én juridisk utreder. Utrederne bør også kunne bistå de
-øvrige avdelingene ved behov. Det forutsettes at
-behovet for utredere, og kanskje særlig juridiske
-utredere, vil bli betydelig mindre enn i dag, ettersom kommisjonsmedlemmene vil styre utredningen av sakene og selv utforme avgjørelsene.
-Utredernes funksjon beskrives nærmere i punkt
-23.3.6.
-I tillegg må det ansettes nødvendig administrativt personell med kontorfunksjoner. I dag har
-kommisjonen en «kontorsjef» og en «seniorsekretær» som bistår med registering av innkomne
-saker, utsendelse av brev, økonomi, regnskap,
-utarbeidelse av årsrapporter mv. Antagelig vil det
-være naturlig at disse stillingene opprettholdes
-som i dag.
-Basert på budsjettet for 2024 vil det trolig være
-mulig – ved behov – å etablere en fjerde avdeling i
-kommisjonen med samme organisering som skissert her. Dette vil avhenge av stillingsprosenten til
-
-[Side 231]
-
-NOU 2024: 24
-Prøvd på nytt
-
-kommisjonsmedlemmene og hvor mange utredere som ansettes.
-
-24.3.2 Stillingen som leder og nestleder
-Utvalget mener at stillingen som leder for Gjenopptakelseskommisjonen – som i dag – bør være
-en åremålsstilling på syv år uten adgang til gjenoppnevning, jf. straffeprosessloven § 395 andre
-ledd første punktum. Som i dag vil lederen ha det
-øverste administrative ansvaret for kommisjonen.
-I tillegg vil lederen ha ansvar for å lede saksbehandlingen og utredningen av sakene, samt kommisjonsmøtene, i en av kommisjonens avdelinger.
-I forslaget til ny § 395 i straffeprosessloven –
-som vil lovfeste den alternative organiseringen av
-kommisjonen – er det klargjort at det kan oppnevnes flere nestledere, se spesialmerknaden til
-bestemmelsen i punkt 26.2.2. Utvalget foreslår at
-de øvrige avdelingene ledes av en nestleder. Den
-foreslåtte organiseringen med tre avdelinger innebærer dermed at det må oppnevnes to nestledere.
-Kompetansereglene som gir leder og nestleder adgang til å treffe ulike avgjørelser alene, foreslås i hovedsak videreført som i dag, se nærmere i
-punkt 24.3.5. De ulike nestlederne som leder hver
-sin avdeling, vil dermed ha kompetanse til blant
-annet å forkaste begjæringer som åpenbart ikke
-kan føre frem, jf. § 397 tredje ledd, og til å innvilge
-åpenbare begjæringer, se utvalgets forslag i punkt
-20.8.
-Et spørsmål er om de øvrige heltidsstillingene,
-som vil besettes av kommisjonens nestledere,
-også bør være på åremål. En fordel med åremålsstillinger er at det reduserer risikoen for at arbeidet blir utført rutinemessig, «slik det alltid har
-blitt gjort». Åremål kan sikre tilførsel av nye perspektiver og oppdatert fagkompetanse i kommisjonen, og bidra til at gjenåpningsbegjæringene
-møtes med nysgjerrighet og en åpen holdning.
-Utvalget mener derfor at stillingene som nestledere også bør være på åremål. I likhet med det
-som gjelder for lederen, bør åremålet være på syv
-år, uten adgang til gjenutnevning. Et åremål på syv
-år vil sikre en viss grad av kontinuitet og erfaring i
-ledelsen av avdelingene.
-I stillingene som leder og nestleder bør det
-ansettes jurister med høye faglige kvalifikasjoner.
-Lønnen bør ligge på samme nivå som for lagdommere. Ettersom det blir snakk om heltidsstillinger, antar utvalget at det er naturlig at disse stillingene lyses ut offentlig på ordinært vis, og at tilsettelsen skjer etter ordinære regler om offentlig
-ansettelse. Det forutsettes imidlertid – som i dag –
-at oppnevningen formelt skjer gjennom Kongen i
-
-229
-
-Kapittel 24
-
-statsråd. Tilsettingen kan altså skje etter samme
-prosedyre som i dag anvendes for kommisjonens
-leder, se punkt 20.5.
-
-24.3.3 Stillingen som kommisjonsmedlem
-I tillegg til lederen og nestlederne som leder de
-ulike avdelingene, foreslår utvalget at det i hver
-avdeling ansettes to jurister i stillinger på minst
-50 %. Det antas at en lavere stillingsprosent ikke
-vil gi den tilstedeværelse og kontinuitet som er
-nødvendig for at medlemmet skal kunne være tilstrekkelig involvert i saksbehandlingen. En fordel
-med at medlemmene arbeider deltid, er at de vil
-bringe inn kunnskap, erfaringer, ideer og impulser fra sine andre stillinger. En advokat som arbeider deltid, vil ha mulighet til å kombinere stillingen i kommisjonen med sin advokatvirksomhet.
-Også for dommere antar utvalget at en stilling
-på 50 % i Gjenopptakelseskommisjonen vil være
-gjennomførbar. Lønnsmessig vil vedkommende
-komme likt eller tilnærmet likt ut med en slik
-kombinert stilling som med en fulltids dommerstilling. I så fall er det naturligvis en forutsetning
-at stillingen som dommer reduseres med 50 %. En
-slik løsning er allerede etablert for lederen av
-Utmarksdomstolen for Finnmark.
-Utvalget har vurdert om en slik kombinasjon av
-stillinger kan reise problemer med tanke på kommisjonens uavhengighet, men kan ikke se at det er
-tilfelle. Det har siden opprettelsen i 2004 vært tradisjon for at dommere er medlemmer av Gjenopptakelseskommisjonen, uten at dette har vært ansett
-problematisk. Tvert imot er det forutsatt i forarbeidene at kommisjonens medlemmer bør ha «variert
-erfaring fra arbeid innen strafferettspleien, gjerne
-fra både påtalemyndighet, domstolene og som forsvarer».3 Dommere er for øvrig ofte medlemmer av
-andre nemnder og domstollignende organer, uten
-at det anses problematisk.
-Forutsatt at det er mulig å redusere stillingsprosenten til 50 %, vil i prinsippet personer i alle
-typer juriststillinger være aktuelle for stillingene
-som medlem av Gjenopptakelseskommisjonen,
-herunder jurister i forvaltningen, privat virksomhet og ved universitetene. Det kan imidlertid reises spørsmål om medlemmet samtidig bør være
-ansatt i påtalemyndigheten. I forarbeidene er det
-gitt uttrykk for at det kan «svekke tilliten til kommisjonen dersom et medlem er ansatt i påtalemyndigheten samtidig som vedkommende sitter i
-kommisjonen».4 At medlemmet tidligere har vært
-3
-4
-
-Ot.prp. nr. 70 (2000–2001) s. 35–36.
-Ot.prp. nr. 70 (2000–2001) s. 35–36.
-
-[Side 232]
-
-230
-
-Kapittel 24
-
-NOU 2024: 24
-Prøvd på nytt
-
-ansatt i påtalemyndigheten, vil på den annen side
-vanskelig kunne sies å være problematisk.5 Derimot kan det være en fordel om kommisjonen også
-har medlemmer med slik kompetanse og erfaring.
-Et spørsmål er om også disse stillingene skal
-være på åremål. Som nevnt over er en sentral
-begrunnelse for forslaget om at noen av kommisjonsmedlemmene arbeider deltid, at disse medlemmene vil bringe inn erfaringer, ideer og impulser fra sine andre stillinger. Det tilsier at også åremål benyttes. Utvalget foreslår at åremålet for disse
-medlemmene – som i dag – settes til tre år med
-adgang til én gjenoppnevning. I likhet med de heltidsansatte medlemmene6 bør også disse medlemmene ansettes gjennom offentlig utlysning etter
-ordinære regler om offentlige ansettelser, men formelt oppnevnes av Kongen i statsråd.
-Dersom det skulle vise seg at en stillingsprosent på 50 blir for lav til at kommisjonen kan
-utføre sitt arbeid på en hensiktsmessig måte, eller
-at det blir vanskelig å rekruttere personer med
-den rette kompetansen, vil kommisjonen stå fritt
-til å øke stillingsprosenten for noen av, eller alle,
-stillingene som kommisjonsmedlem.
-Utvalget antar at det sjelden vil bli behov for
-varaer som kan tre inn for de faste juristmedlemmene. Med tre avdelinger og ni ansatte medlemmer vil det være rom for rullering og fleksible løsninger når avdelingene skal settes. Ved lengre frafall kan det imidlertid oppstå vanskeligheter. Det
-bør derfor ansettes et passende antall jurister som
-varamedlemmer til kommisjonen, som kan tiltre
-ved behov. Ansettelsesprosessen og -vilkårene vil
-være tilsvarende som for de øvrige medlemmene,
-men det vil trolig være naturlig at varamedlemmene – som i dag – lønnes på timebasis.
-
-24.3.4 Lekpersoninnslag i kommisjonen
-For å sikre tillit til kommisjonens behandling av
-gjenåpningsbegjæringer mener utvalget at lekpersoner bør delta ved behandlingen av visse
-gjenåpningssaker. Lekpersoners deltakelse ved
-behandling av straffesaker i domstolene er primært begrunnet i hensynet til tillit. I tillegg kommer at lekpersoners deltakelse bringer inn
-«friske øyne» på saken, og at det kan virke som et
-korrektiv til et rent juridisk perspektiv ved bevisvurderingen.
-Dersom straffesaken blir gjenåpnet, og saken
-blir brakt inn for domstolene på nytt, vil lekpersoner som utgangspunkt delta ved den nye behand5
-6
-
-Ot.prp. nr. 70 (2000–2001) s. 35–36.
-Se punkt 24.3.2.
-
-lingen på samme måte som i den opprinnelige
-domstolsbehandlingen.7 Det kan også hevdes at
-vurderingen av om en sak skal gjenåpnes basert
-på bestemte vilkår, skiller seg fra bevisvurderingen under skyldspørsmålet som foretas i straffesaken. Dette kan tale for at behovet for lekfolkinnslag er noe mindre i gjenåpningssaker enn ved
-avgjørelsen av straffekravet i domstolene.
-Etter utvalgets syn er det derfor ikke nødvendig at lekpersoner deltar ved avgjørelsen av alle
-gjenåpningsbegjæringer som vurderes av kommisjonskollegiet, slik som i dag. Utvalget mener at
-det først og fremst er grunn til at lekpersoner deltar når grunnlaget for begjæringen baserer seg
-på bevisvurdering. Det vil normalt være tilfellet
-når grunnlaget for begjæringen er straffeprosessloven § 391 nr. 3. Bestemmelsen hjemler
-gjenåpning til gunst når det opplyses om «nye»
-omstendigheter eller bevis som er egnet til å føre
-til frifinnelse eller annen relevant endring av dommen. Videre vil en begjæring om gjenåpning
-regelmessig omhandle bevisvurdering når begjæringen er forankret i § 392 andre ledd, og det
-anføres at «særlige forhold gjør det tvilsomt om
-dommen er riktig». I saker som gjelder gjenåpning basert på uriktig lovanvendelse eller saksbehandlingsfeil etter § 392 andre ledd, slår begrunnelsen for lekpersoners deltakelse i mindre grad
-til. Det samme gjelder normalt dersom det er
-anført at det har skjedd prosessuelle feil i straffesaken, jf. § 390 og § 391 nr. 1, at avgjørelsen
-eller saksbehandlingen som ligger til grunn for
-den, strider mot internasjonale regler, jf. § 391 nr.
-2, eller at Høyesterett har fraveket en tidligere
-lovtolkning som dommen bygger på, jf. § 392 første ledd.
-Utvalget mener på bakgrunn av dette at lekpersoners deltakelse ikke bør gjøres obligatorisk.
-Det foreslås at lekpersoner skal delta når lederen
-for avdelingen (kommisjonens leder eller nestleder) finner det hensiktsmessig. I slike tilfeller
-utvides avdelingen med to lekpersoner i tillegg til
-de tre faste juridiske medlemmene. Utover å sikre
-lekmannsperspektivet vil dette også føre til at de
-mer alvorlige sakene vurderes av et større og bredere sammensatt kollegium.
-Et sentralt moment i vurderingen av om avdelingen skal settes med lekpersoner, vil være om,
-og eventuelt i hvilken grad, det er nødvendig å
-gjøre bevisvurderinger for å ta stilling til begjæringen. For eksempel vil det trolig være uproblematisk at lekpersoner ikke deltar ved avgjørelsen
-dersom begjæringen gjelder et konkret retts7
-
-Se punkt 9.1.
-
-[Side 233]
-
-NOU 2024: 24
-Prøvd på nytt
-
-spørsmål som går igjen i flere saker.8 Det bør også
-ha betydning om begjæringen kun retter seg mot
-straffutmålingen og/eller lovanvendelsen under
-skyldspørsmålet, eller om den også gjelder bevisvurderingen under skyldspørsmålet. Dersom den
-gjelder bevisvurderingen under skyldspørsmålet,
-vil det trekke i retning av at lekpersoner deltar. Et
-moment i helhetsvurderingen vil videre være om
-domfelte selv ønsker en slik sammensetning av
-kommisjonen. Det må også ses hen til sakens
-alvor, og i særdeleshet om det gjelder en sak hvor
-det er idømt ubetinget fengselsstraff. Dersom
-saken er alvorlig, taler det for at lekpersoner bør
-involveres.
-Det bør unngås spekulasjon om at kommisjonen velger ut lekpersoner med en viss bakgrunn.
-Utvelgelsen av lekpersonene bør fremstå nøytral
-og faglig forankret. Utvalget antar derfor at kommisjonen ikke bør ha ansvaret for å velge ut lekpersonene som skal delta i den enkelte sak. En
-mulig løsning er at det dannes et utvalg med lekpersoner, og at lekpersonene som skal delta, trekkes ut for den enkelte sak eller for en bestemt
-periode.
-Tjenestens art og karakter må gjenspeiles i
-kriteriene for utvelgelse av lekpersonene. Saksbehandlingen i kommisjonen er skriftlig, og det vil
-ofte være nødvendig å sette seg inn i et omfattende dokumentmateriale for å ta stilling til begjæringen. Det kan tilsi at man etterstreber å ansette
-personer med et visst utdanningsnivå. Antallet bør
-vurderes nærmere ut fra kommisjonens behov.
-I likhet med varamedlemmene bør lekpersonene trolig lønnes på timebasis.
-
-24.3.5 Kommisjonens avgjørelser
-Utvalget har i punkt 20.6 tatt til orde for at det bør
-innføres en regel om bestemmende mindretall for
-kommisjonens avgjørelser av gjenåpningsspørsmålet. Dersom det innføres avdelinger med tre
-kommisjonsmedlemmer, slik foreslått i punkt 20.2
-og i dette kapittelet, innebærer det at én stemme
-vil være tilstrekkelig for gjenåpning. Det kreves
-med andre ord enstemmighet for å nekte gjenåpning.
-Som nevnt i punkt 20.6 bør imidlertid beslutningskravet være annerledes dersom kommisjonskollegiet opprettholdes som i dag, med fem
-medlemmer. I så fall bør det kreves to stemmer
-8
-
-Kommisjonen behandler regelmessig sakskomplekser
-med likeartede rettsspørsmål, ofte på bakgrunn av en rettsavklaring fra Høyesterett. I de siste årene har slike saker
-utgjort en stor andel av de gjenåpnede sakene i kommisjonen, se punkt 15.5.
-
-231
-
-Kapittel 24
-
-for å gjenåpne. Etter utvalgets syn bør det samme
-gjelde dersom modellen skissert i dette kapittelet
-gjennomføres, i tilfeller hvor avdelingen utvides
-med to lekpersoner. I slike tilfeller vil det altså
-kreves fire stemmer for å nekte gjenåpning.
-Det er klargjort i forslaget til ny § 395 at det
-kan oppnevnes flere nestledere. Dersom det oppnevnes flere nestledere, vil de ulike nestlederne
-ha samme kompetanse som lederen og nestlederen har etter gjeldende regler til å treffe ulike
-avgjørelser alene, herunder om å forkaste begjæringen, jf. straffeprosessloven § 397 tredje ledd,
-eller om å innvilge begjæringer som åpenbart
-fører frem, se forslaget i punkt 20.8. Utgangspunktet for avgjørelser om annet enn gjenåpningsspørsmålet, herunder prosessledende avgjørelser,
-vil fortsatt være at avgjørelsen tas med alminnelig
-flertall hvis den ikke tas av leder eller nestleder
-alene, jf. nåværende § 395 tredje ledd andre punktum.9
-For øvrig foreslås ingen endringer i kompetansereglene.
-
-24.3.6 Arbeidsdelingen mellom utrederne
-og kommisjonsmedlemmene
-Utvalget mener at de juridiske utredernes rolle i
-Gjenopptakelseskommisjonen i større grad bør
-minne om den rollen utrederne i noen av lagmannsrettene har i dag. Dette er en naturlig følge
-av at kommisjonsmedlemmene selv i større grad
-skal utrede sakene og utforme avgjørelsene.
-På Borgarting lagmannsretts hjemmeside
-uttales følgende om stillingen som utreder:
-«Utrederne arbeider hovedsakelig med skriftlig
-forberedelse og utredning av anker over kjennelser og beslutninger i sivile saker, utredning av
-spørsmålet om det skal gis samtykke til å
-fremme anke over tingrettens dom i barnevernssaker og utredning av silingsspørsmålet ved
-anke over tingrettens dom i straffesaker. Både
-prosessuelle og materielle spørsmål innenfor en
-rekke rettsområder både i sivile saker og straffesaker blir forberedt og utredet.»10
-
-Utvalget anbefaler at lagmannsrettene som har
-utredere, konsulteres om utredernes rolle ved
-implementeringen av organiseringen foreslått her.
-Nye retningslinjer for arbeidet i sekretariatet bør
-utarbeides på bakgrunn av dette. Utvalget mener
-9
-
-Bestemmelsen foreslås videreført, men flyttet til § 399 nytt
-første ledd, se kapittel 26.
-10 Borgarting lagmannsrett (2024).
-
-[Side 234]
-
-232
-
-Kapittel 24
-
-NOU 2024: 24
-Prøvd på nytt
-
-for øvrig at utrederne bør ansettes på åremål, og
-at dette også bør gjelde innenfor denne modellen,
-se forslaget i punkt 20.4.
-Kommisjonsmedlemmene må, i likhet med
-dommere, skaffe seg førstehånds informasjon om
-faktum, spesielt med tanke på spørsmål som er
-omstridt. Utrederne kan i noen grad bistå med
-forslag til bevisvurderinger og rettslige vurderinger. Det bør likevel være et krav at kommisjonsmedlemmene, som har ansvaret for avgjørelsene,
-gjør selvstendige vurderinger og overprøver utredernes arbeid. Videre skal kommisjonsmedlemmene treffe beslutninger om utredningsskritt og i
-samarbeid med partene legge en plan for fremdrift i saken og følge opp fastsatte frister. Dette vil
-minne om arbeidsoppgavene og rollen som en
-saksforberedende dommer i dag har i de ordinære domstolene.
-Den nærmere rollefordelingen mellom kommisjonsmedlemmene og utrederne vil bero på
-hvilke typer undersøkelser som er nødvendige i
-den enkelte sak. I saker som gjelder gjenåpning
-på grunn av rettsanvendelsesfeil og saksbehandling, vil det ofte være mindre behov for politifaglig
-etterforskningskompetanse. Det samme gjelder i
-stor grad saker som gjelder spørsmål om siktede
-var tilregnelig, samt andre saker hvor sakkyndighet står sentralt. Politifaglig etterforskningskompetanse vil særlig være aktuelt i saker som aktualiserer straffeprosessloven § 391 nr. 3, for å klarlegge om det foreligger nye omstendigheter eller
-bevis som synes egnet til å føre til frifinnelse.
-Etter omstendighetene kan det også være behov
-for politifaglig etterforskningskompetanse i forbindelse med vurderingen av om § 392 andre ledd
-kan føre til gjenåpning.
-Utvalget understreker at kommisjonens rolle
-er å ta stilling til om vilkårene i § 391 nr. 3 og § 392
-andre ledd er oppfylt, og ikke å avdekke om domfelte er skyldig eller ikke. Dette må tas i betraktning når kommisjonen vurderer hvilke utredningsskritt som er nødvendige. De politifaglige
-utredernes oppgave er å gjennomføre de utredningsskritt som kommisjonen beslutter å få gjennomført, og som naturlig hører inn under det politifaglige kompetanseområdet. Dersom saken
-gjenåpnes, vil det i mange tilfeller være behov for
-en grundig etterforskning under ledelse av påtalemyndigheten, hvor alle sider av saken gjennomgås. Ved gjenåpning til gunst må påtalemyndigheten ta stilling til om det er grunnlag for å opprettholde straffeforfølgningen av domfelte og
-gjennomføre en ny hovedforhandling.
-
-24.3.7 Sammenfatning
-Den hovedsakelige begrunnelsen for den alternative organiseringen skissert i dette kapittelet, er at
-kommisjonsmedlemmene bør få en mer aktiv og
-fremskutt posisjon i behandlingen av sakene enn
-de har i dag. Løsningen med flere heltids- og deltidsansatte kommisjonsmedlemmer er ment å
-sikre at kommisjonsmedlemmene får bedre
-mulighet til å utrede og vurdere sakene, og forhindre at de får et informasjonsunderskudd sammenlignet med sekretariatet. Videre vil man unngå at
-sakene behandles i unødvendig lang tid fordi
-avklaringer må skje på kommisjonsmøter med
-flere ukers mellomrom.
-I denne modellen vil kommisjonsmedlemmene i større grad selv treffe beslutninger om
-hvordan saken bør opplyses og utredes. Kommisjonsmedlemmene vil sørge for aktiv saksstyring
-og sikre at sakene behandles innen rimelig tid.
-Modellen er videre ment å sikre at medlemmene
-selv utformer avgjørelsene.
-Utvalget mener at en løsning hvor kommisjonsmedlemmene selv styrer saksforberedelsen
-og aktivt vurderer, avgjør og begrunner sakene,
-vil medføre en betydelig effektivitetsgevinst og
-mer betryggende avgjørelser. Utvalget antar
-videre at en slik modell vil gi kommisjonen større
-rom for å ta i bruk ulike virkemidler for å opplyse
-saken, for eksempel ved bruk av muntlige høringer,11 eller ved at kommisjonsmedlemmene selv
-deltar i avhør av vitner og/eller domfelte.12 Disse
-virkemidlene brukes i praksis ikke i dag.
-Etter utvalgets oppfatning bør behovet for
-sakkyndighet dekkes ved at kommisjonen oppnevner sakkyndige. Utvalget forstår det slik at
-dette også er praksis i kommisjonen i dag. Selv
-om kommisjonskollegiet tidvis besitter kompetanse innen medisin, psykiatri, økonomi og lignende, oppnevner kommisjonen likevel eksterne
-sakkyndige for å ta stilling til spørsmål innen disse
-og andre fagområder. Løsningen har etter utvalgets syn de beste grunner for seg. Partene får
-bedre mulighet til kontradiksjon når det oppnevnes eksterne sakkyndige, enn når den sakkyndige
-er en del av organet som avgjør saken.
-En stor andel av kommisjonens saker avgjøres
-i praksis ved at lederen eller nestlederen forkaster
-begjæringen fordi den åpenbart ikke kan føre
-frem, jf. straffeprosessloven § 397 tredje ledd andre
-punktum. Normalt avgjøres omtrent halvparten av
-11
-12
-
-Se punkt 8.7.3.
-Se nærmere om de ulike typene avhør kommisjonen har
-adgang til å gjennomføre i punkt 8.7.4.
-
-[Side 235]
-
-NOU 2024: 24
-Prøvd på nytt
-
-kommisjonens realitetsbehandlede saker på denne
-måten.13 Av sakene som blir behandlet i kommisjonskollegiet, er det normalt også en relativt stor
-andel som ikke krever utstrakt utredning og ressursbruk. For eksempel vil saker om tilregnelighet og saker om likeartede rettsanvendelsesfeil
-normalt kunne avgjøres uten omfattende utredning.14
-På bakgrunn av dette mener utvalget at det er
-grunn til å tro at den foreslåtte modellen vil kunne
-gjennomføres slik skissert her, uten behov for
-ytterligere ressurser. Den foreslåtte organiseringen vil skape en mer fleksibel struktur med større
-mulighet for differensiert behandling av ulike
-13
-14
-
-Se punkt 15.6.
-Saker om tilregnelighet og saker om rettsanvendelsesfeil
-som går igjen i flere saker (her kalt «likeartede rettsanvendelsesfeil»), utgjør en stor andel av de gjenåpnede sakene i
-kommisjonen. Se nærmere i punkt 15.5.
-
-233
-
-Kapittel 24
-
-saker enn etter dagens system. Lederen og nestlederne vil ha adgang til å forkaste og innvilge
-åpenbare saker. Ordinære saker vil behandles i en
-av kommisjonens avdelinger med tre medlemmer.
-De mer komplekse sakene som krever bevisvurdering, vil kunne underlegges en grundigere
-behandling gjennom utvidelse av avdelingen med
-to lekpersoner. Dersom det skulle oppstå behov
-for å utvide kommisjonen med en fjerde avdeling
-eller ansette flere utredere, vil det trolig også
-være dekning for dette innenfor gjeldende budsjett. Det vises til den nærmere redegjørelsen for
-de økonomiske konsekvensene av forslaget i
-punkt 25.2.
-Den alternative organiseringen av Gjenopptakelseskommisjonen forutsetter enkelte endringer
-i reglene om kommisjonens sammensetning og
-avgjørelser. Lovendringsforslagene er beskrevet i
-punkt 26.2.
-
-[Side 236]
-
-234
-
-Kapittel 25
-
-NOU 2024: 24
-Prøvd på nytt
-
-Kapittel 25
-
-Økonomiske og administrative konsekvenser
-25.1 Kostnader knyttet til forslagene
-i kapittel 18 til 23
-Utvalget har i punkt 19.3.2 tatt til orde for at kommisjonen bør oppnevne forsvarer noe oftere enn i
-dag, og særlig i saker hvor domfelte er dømt til
-ubetinget fengsel i mer enn ett år. Dette vil trolig
-føre til en viss økning i utgiftene til forsvareroppnevning. Disse utgiftene berører imidlertid ikke
-kommisjonens budsjett, men vil i stedet belaste
-kapittel 466 om særskilte straffesaksutgifter.1
-Forslaget om å etablere flere avdelinger i kommisjonen (punkt 20.2) vil trolig medføre visse
-besparelser. Forslaget innebærer at den enkelte
-gjenåpningssak vil bli vurdert av tre og ikke åtte
-kommisjonsmedlemmer (inkludert varamedlemmer), slik praksis er i dag. Dette innebærer at de
-samlede lønnsutgiftene vil reduseres. Forslaget
-muliggjør samtidig at kommisjonsmedlemmene
-kan bruke noe mer tid på den enkelte sak enn i
-dag, noe som vil redusere innsparingene noe.
-Ansettelse av en utredningsleder med ansvar
-for ledelsen av sekretariatet (punkt 20.3) vil trolig
-medføre visse økte lønnskostnader. Dette avhenger dels av om utredningslederstillingen vil
-erstatte en eksisterende utrederstilling. Innføring
-av åremål for utrederne (punkt 20.4) vil derimot
-neppe medføre nevneverdige merkostnader eller
-besparelser. Det samme gjelder for forslaget om å
-endre åremålslengden for kommisjonsmedlem
-som senere blir oppnevnt som leder av kommisjonen, og forslaget om å innføre offentlig utlysning av vervet som kommisjonsmedlem (punkt
-20.5).
-I punkt 20.8 foreslås en ny regel om at kommisjonens leder og nestleder kan beslutte gjenåpning dersom det er «åpenbart» at begjæringen
-fører frem. Forslaget innebærer at en del kurante
-saker ikke må behandles av den samlede kommisjonen, men kan behandles av kommisjonens
-leder eller nestleder alene. Dette vil kunne med1
-
-Se Gjenopptakelseskommisjonens årsrapport for 2023 s.
-52.
-
-føre at de totale lønnsutgiftene til kommisjonsmedlemmene reduseres, og dermed visse besparelser. Dette veies i noen grad opp av forslaget om
-at flere begjæringer som i dag forkastes av leder
-eller nestleder alene, bør fremmes for den samlede kommisjonen til avgjørelse (punkt 20.7).
-Nye virkemidler for aktiv saksstyring (punkt
-21.2) legger til rette for at kommisjonen kan effektivisere saksbehandlingen i gjenåpningssaker og
-redusere saksbehandlingstiden. En strammere og
-mer målrettet styring av saksbehandlingen vil
-gjøre prosessen bedre og mer tillitvekkende. Forslaget om aktiv saksstyring må ses i sammenheng
-med utvalgets anbefaling om at kommisjonen bør
-etablere generelle interne frister for saksavviklingen (punkt 21.3). En mer effektiv og hurtig saksbehandling kan bidra til at utgiftene til å behandle
-den enkelte sak reduseres, og dermed sikre kommisjonens mulighet til å håndtere økte saksmengder uten økte lønnsutgifter.
-Etter utvalgets forslag skal det i utgangspunktet gjennomføres et planmøte med partene. Den
-foreslåtte regelen åpner imidlertid for at nødvendige avklaringer kan oppnås på annen måte, for
-eksempel i form av planleggingsbrev. Planmøte
-skal heller ikke avholdes i saker som avvises eller
-forkastes i medhold av straffeprosessloven § 397
-tredje ledd. Et eventuelt planmøte vil dessuten
-normalt være kortvarig. Forslaget vil dermed trolig ikke medføre nevneverdige merkostnader.
-Forslagene i punkt 21.4 til 21.10 gjelder ulike
-endringer i kommisjonens saksbehandlingsregler,
-herunder om kravene til begrunnelse av kommisjonens avgjørelser. Enkelte av disse tiltakene vil
-kunne medføre effektivisering og visse besparelser, se særlig punkt 21.5 om redusert krav til varsling av fornærmede og etterlatte. Forslagene
-antas imidlertid å få begrensede økonomiske konsekvenser.
-Utvalget ser positivt på at det tas lyd- og videopptak i stadig flere norske rettssaler, men mener
-at det på sikt bør tas opptak i alle saker (punkt
-21.11). Til tross for økte bevilgninger ser det ut til
-at situasjonen fortsatt vil være at det ikke tas opp-
-
-[Side 237]
-
-NOU 2024: 24
-Prøvd på nytt
-
-tak av det store flertallet av straffesaker som går
-for norske domstoler. En oppgradering som sikrer
-at opptak gjøres i alle saker, vil forutsette betydelige engangsutgifter og muligens noe økte driftskostnader.
-I kapittel 22 er det foreslått å gjøre enkelte
-endringer i de materielle vilkårene for gjenåpning
-og reglene om hvem som kan begjære gjenåpning. Disse forslagene vil trolig få begrensede
-økonomiske konsekvenser. Forslaget om å fjerne
-ektefelles, slektningers og arvingers rett til å
-begjære gjenåpning (punkt 22.4) vil antagelig
-medføre visse besparelser.
-I kapittel 23 er det tatt til orde for å utvide domstolenes prøving av kommisjonens avgjørelser
-sammenlignet med gjeldende utgangspunkter
-etter Høyesteretts avgjørelse i Rt. 2012 s. 519. Forslaget vil kunne medføre at flere søksmål om kommisjonens avgjørelser reises for domstolene. Som
-påpekt i kapittelet er det imidlertid grunn til å tro
-at en eventuell økning i antall søksmål vil være
-begrenset.
-
-25.2 Kostnader knyttet til forslaget om
-alternativ organisering i kapittel 24
-De forventede besparelsene og ekstrautgiftene
-beskrevet i punkt 25.1 vil i stor grad gjelde tilsvarende ved en alternativ organisering av kommisjonen som foreslått i kapittel 24. Lønnsutgiftene vil
-imidlertid fordele seg annerledes enn i dag. De
-totale lønnsutgiftene vil også kunne bli noe mindre, avhengig av hvilken innretning som velges.
-Utvalget legger følgende synspunkter og tall til
-grunn for vurderingen av hvordan lønnsutgiftene
-vil beløpe seg med den alternative organiseringen.
-Kommisjonsmedlemmenes lønn bør ligge på
-samme nivå som for lagdommere. Domstoladministrasjonen har opplyst at normal lønnskostnad
-for en lagdommer for tiden er 1 854 532 kroner
-per år. Kostnaden for kommisjonsmedlemmene,
-fordelt på tre hele stillinger og seks stillinger i
-50 %, blir dermed til sammen 11 127 192 kroner
-per år om man legger dette lønnsnivået til grunn.
-Beløpet vil naturligvis bli høyere dersom flere av
-kommisjonsmedlemmene arbeider heltid, eller i
-en stillingsprosent på mer enn 50.
-Politidirektoratet har opplyst at personalkostnaden for en politioverbetjent er 1 190 228 kroner.
-Hvis man legger dette til grunn for lønnen til de
-politifaglige utrederne, blir kostnaden for tre politifaglige utredere totalt 3 570 684 kroner per år.
-
-235
-
-Kapittel 25
-
-Domstoladministrasjonen har opplyst at lønnskostnaden for en utreder i lagmannsretten er på
-ca. 900 000 kroner. Tar man utgangspunkt i dette
-blir lønnsutgiftene for tre juridiske utredere
-2 700 000 kroner per år.
-Domstoladministrasjonen har opplyst at gjennomsnittlig lønnskostnad for saksbehandlere i
-ting- og lagmannsrettene er på ca. 800 000 kroner.
-Med to kontoransatte blir samlet lønnskostnad
-om lag 1 600 000.
-Enkelt beregnet blir de samlede lønnskostnadene med den alternative organiseringen av Gjenopptakelseskommisjonen dermed rundt 19 millioner kroner.
-I 2023 var samlede lønnskostnader i Gjenopptakelseskommisjonen 18 392 706 kroner.2 Det er
-ikke kjent for utvalget hva som vil være de
-eksakte utgiftene for 2024, men det er grunn til å
-tro at utgiftene vil øke betydelig. For å bygge ned
-restansene og redusere saksbehandlingstiden har
-kommisjonen fått økt bevilgning i 2024.3 Økningen har gjort det mulig for kommisjonen å ansette
-fire nye juridiske utredere og én politifaglig utreder. Dette vil føre til økt saksbehandling og trolig
-også økt møteaktivitet og økte lønnsutgifter for
-kommisjonsmedlemmene. Det kan også muligvis
-påløpe økte utgifter til overtidsbetaling for sekretariatet.
-Det fremgår av budsjettproposisjon fra Finansdepartementet at budsjettet for kommisjonens
-driftsutgifter i 2024 er på 27 600 000 kroner.4 Hvis
-samme bevilgning som i 2024 gis for 2025, vil
-kommisjonens budsjett bli på totalt 30 100 000
-kroner. Grunnen til økningen er helårseffekten i
-2025 av ekstrabevilgningen som er gitt for å
-styrke sekretariatet. Ekstrabevilgningen beløper
-seg til 3 500 000 kroner i 2024 og 6 000 000 kroner
-i 2025.5
-De samlede lønnsutgiftene for kommisjonen i
-2025 vil altså trolig være om lag seks millioner
-kroner mer enn i 2023. Forutsatt at utvidelsen av
-budsjettet opprettholdes, vil det dermed være rom
-for en tilsvarende økning av lønnsutgiftene ved en
-alternativ organisering av Gjenopptakelseskommisjonen. Det vil gi et betydelig spillerom for å
-øke kapasiteten sammenholdt med utgangspunktene skissert over. For eksempel kan det etableres
-ytterligere en (fjerde) avdeling bestående av én
-fulltidsansatt jurist og to jurister i stillinger på
-50 %, samt én politifaglig og én juridisk utreder.
-2
-3
-4
-5
-
-Gjenopptakelseskommisjonens årsrapport for 2023.
-Se punkt 15.8.
-Prop. 104 S (2023–2024) s. 212.
-Prop. 104 S (2023–2024) s. 45.
-
-[Side 238]
-
-236
-
-Kapittel 25
-
-NOU 2024: 24
-Prøvd på nytt
-
-Med utgangspunkt i lønnskostnadene nevnt over
-vil dette gi en samlet lønnskostnad på ca. 5,8 millioner kroner for avdelingen. Utvalget mener imidlertid at det er usikkert om det vil være nødvendig
-å etablere en fjerde avdeling. Før det eventuelt
-etableres flere avdelinger, bør det gjøres en vurdering av kommisjonens restansebeholdning og
-sakstilfang for å vurdere om arbeidsmengden gjør
-det tilrådelig.
-I stedet for å utvide med en fjerde avdeling vil
-det være mulig å heller ansette flere utredere dersom det skulle være behov for det. Med tilleggsbevilgningen på 6 000 000 kroner kan det – med
-utgangspunkt i en lønnskostnad på 900 000 kro-
-
-ner som skissert over – for eksempel ansettes
-seks ytterligere juridiske utredere, med en totalkostnad på 5 400 000 kroner. Hver avdeling i kommisjonen vil da bistås av til sammen tre juridiske
-utredere i tillegg til den politifaglige utrederen.
-Utvalget mener imidlertid at eventuelle økte
-bevilgninger fortrinnsvis bør benyttes til å etablere flere avdelinger for å ta hånd om restansene,
-heller enn at de økte bevilgningene brukes til å
-ansette flere utredere. Grunnen er utvalgets synspunkt om at det er kommisjonsmedlemmene som
-skal styre saksavviklingen, utredningen og utformingen av avgjørelsene.
-
-[Side 239]
-
-NOU 2024: 24
-Prøvd på nytt
-
-237
-
-Kapittel 26
-
-Kapittel 26
-
-Utvalgets lovutkast og merknader
-26.1 Lovendringer knyttet til kapitlene
-18 til 23
-26.1.1 Forslag til lovendringer
-I lov 22. mai 1981 nr. 25 om rettergangsmåten i
-straffesaker gjøres følgende endringer:
-§ 389 andre ledd skal lyde:
-Reglene i § 307 og § 309 gjelder tilsvarende.
-§ 391 nr. 3 første punktum skal lyde:
-når det opplyses en ny omstendighet eller skaffes
-frem et nytt bevis som synes egnet til å føre til frifinnelse eller til anvendelse av en mildere strafferegel eller en vesentlig mildere rettsfølge.
-Ny § 393 a skal lyde:
-For dommer som har vært rettskraftige i mer
-enn 25 år, kreves det for gjenåpning etter §§ 390
-til 393 i tillegg at det foreligger forhold som gjør
-det meget tvilsomt at dommen er riktig.
-§ 395 skal lyde:
-Kommisjonen skal ha faste medlemmer og varamedlemmer som tiltrer ved forfall. Kommisjonens
-leder, nestledere og et passende antall medlemmer
-skal ha juridisk embetseksamen eller mastergrad i
-rettsvitenskap. Kommisjonen settes i den enkelte sak
-med tre medlemmer, hvorav to som regel skal oppfylle kravet i andre punktum.
-Kommisjonens leder utnevnes av Kongen i
-statsråd for en periode på 7 år uten adgang til
-gjenutnevning. Dersom kommisjonens leder tidligere har vært medlem eller varamedlem, skal samlet funksjonstid i kommisjonen ikke kunne overstige
-10 år. Kommisjonens øvrige medlemmer og varamedlemmer oppnevnes av Kongen i statsråd for
-en periode på 3 år med adgang til én gjenoppnevning. Dersom kommisjonen ellers ikke vil være
-vedtaksfør, kan stedfortredere for kortere tid eller
-for en enkelt sak oppnevnes av departementet.
-Det skal kreves fremleggelse av uttømmende og
-utvidet politiattest, jf. politiregisterloven § 41, av
-
-personer som skal utnevnes til leder, nestleder,
-eller medlem av kommisjonen, eller som skal
-ansettes i kommisjonen. Det kan kreves fremleggelse av uttømmende og utvidet politiattest, jf.
-politiregisterloven § 41, av andre som skal utføre
-arbeid eller tjeneste i saker for kommisjonen.
-Kongen i statsråd kan fastsette nærmere
-regler om kommisjonens lokalisering, arbeidsmåte og administrasjon. For øvrig bestemmer
-kommisjonen selv sin arbeidsmåte og tilsetter et
-nødvendig antall saksforberedere. Saksforberederne kan ansettes på åremål. Kommisjonen kan
-ikke instrueres om sin utøving av myndighet.
-§ 397 skal lyde:
-Kommisjonen har plikt til å veilede den som
-begjærer gjenåpning, slik at han eller hun kan
-vareta sitt tarv best mulig. Kommisjonen skal av
-eget tiltak vurdere om siktede har behov for veiledning.
-Kommisjonen kan oppnevne offentlig forsvarer for siktede når særlige grunner tilsier det.
-Reglene i §§ 101-107 gjelder i så fall tilsvarende.
-Kommisjonen kan pålegge siktede å la seg representere av forsvarer. Kommisjonen kan oppnevne
-bistandsadvokat etter reglene i § 107 a. Reglene i
-§§ 107 b-107 g gjelder så langt de passer. Kommisjonens beslutninger etter § 78 andre ledd om
-godtgjørelse til forsvarer og bistandsadvokat er
-endelige.
-Kommisjonen kan avvise begjæringen dersom
-den gjelder en avgjørelse som etter sin art ikke kan
-gjenåpnes, eller den av andre grunner ikke kan
-behandles av kommisjonen. Begjæringen kan forkastes uten nærmere behandling dersom den åpenbart ikke kan føre frem. Avgjørelsen kan tas av
-kommisjonens leder eller nestleder.
-Dersom begjæringen ikke forkastes eller avvises etter reglene i tredje ledd, forelegges den for
-den annen part. Dersom den foreløpige prøvingen
-bygger på andre opplysninger enn dem som fremgår av begjæringen, skal også disse forelegges for
-partene til uttalelse før avgjørelsen treffes. Dette
-gjelder likevel ikke opplysning som siktede ikke
+## Lovendringer knyttet til kapitlene 18 til 23
+
+### Forslag til lovendringer
+
+I lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker gjøres følgende endringer:
+
+§ 389 andre ledd skal lyde:
+
+Reglene i *§ 307* og *§ 309* gjelder tilsvarende.
+
+§ 391 nr. 3 første punktum skal lyde:
+
+når det opplyses en ny omstendighet eller skaffes frem et nytt bevis som synes egnet til å føre til *frifinnelse eller* til anvendelse av en mildere strafferegel eller en vesentlig mildere rettsfølge.
+
+Ny § 393 a skal lyde:
+
+For dommer som har vært rettskraftige i mer enn 25 år, kreves det for gjenåpning etter §§ 390 til 393 i tillegg at det foreligger forhold som gjør det meget tvilsomt at dommen er riktig.
+
+§ 395 skal lyde:
+
+*Kommisjonen skal ha faste medlemmer og varamedlemmer som tiltrer ved forfall. Kommisjonens leder, nestledere og et passende antall medlemmer skal ha juridisk embetseksamen eller mastergrad i rettsvitenskap. Kommisjonen settes i den enkelte sak med tre medlemmer, hvorav to som regel skal oppfylle kravet i andre punktum.*
+
+Kommisjonens leder utnevnes av Kongen i statsråd for en periode på 7 år uten adgang til gjenutnevning. *Dersom kommisjonens leder tidligere har vært medlem eller varamedlem, skal samlet funksjonstid i kommisjonen ikke kunne overstige 10 år.* Kommisjonens øvrige medlemmer og varamedlemmer oppnevnes av Kongen i statsråd for en periode på 3 år med adgang til én gjenoppnevning. Dersom kommisjonen ellers ikke vil være vedtaksfør, kan stedfortredere for kortere tid eller for en enkelt sak oppnevnes av departementet. Det skal kreves fremleggelse av uttømmende og utvidet politiattest, jf. politiregisterloven § 41, av personer som skal utnevnes til leder, nestleder, eller medlem av kommisjonen, eller som skal ansettes i kommisjonen. Det kan kreves fremleggelse av uttømmende og utvidet politiattest, jf. politiregisterloven § 41, av andre som skal utføre arbeid eller tjeneste i saker for kommisjonen.
+
+Kongen i statsråd kan fastsette nærmere regler om kommisjonens lokalisering, arbeidsmåte og administrasjon. For øvrig bestemmer kommisjonen selv sin arbeidsmåte og tilsetter et nødvendig antall saksforberedere. *Saksforberederne kan ansettes på åremål.* Kommisjonen kan ikke instrueres om sin utøving av myndighet.
+
+§ 397 skal lyde:
+
+Kommisjonen har plikt til å veilede den som begjærer gjenåpning, slik at han eller hun kan vareta sitt tarv best mulig. Kommisjonen skal av eget tiltak vurdere om siktede har behov for veiledning.
+
+Kommisjonen kan oppnevne offentlig forsvarer for siktede når særlige grunner tilsier det. Reglene i §§ 101-107 gjelder i så fall tilsvarende. *Kommisjonen kan pålegge siktede å la seg representere av forsvarer.* Kommisjonen kan oppnevne bistandsadvokat etter reglene i § 107 a. Reglene i §§ 107 b-107 g gjelder så langt de passer. Kommisjonens beslutninger etter § 78 andre ledd om godtgjørelse til forsvarer og bistandsadvokat er endelige.
+
+*Kommisjonen kan avvise begjæringen dersom den gjelder en avgjørelse som etter sin art ikke kan gjenåpnes, eller den av andre grunner ikke kan behandles av kommisjonen. Begjæringen kan forkastes uten nærmere behandling dersom den åpenbart ikke kan føre frem.* Avgjørelsen kan tas av kommisjonens leder eller nestleder.
+
+Dersom begjæringen ikke forkastes *eller avvises* etter reglene i tredje ledd, forelegges den for den annen part. Dersom den foreløpige prøvingen bygger på andre opplysninger enn dem som fremgår av begjæringen, skal også disse forelegges for partene til uttalelse før avgjørelsen treffes. Dette gjelder likevel ikke opplysning som siktede ikke har rett til å gjøre seg kjent med etter § 264, eller som stammer fra parten selv.
+
+Kommisjonen underretter fornærmede og etterlatte i lovbestemt rekkefølge om begjæringen *dersom saken tilsier det*. Fornærmede og etterlatte i lovbestemt rekkefølge skal gjøres kjent med sin rett til dokumentinnsyn, til å uttale seg og til å be om å avgi forklaring for kommisjonen, samt muligheten til å få oppnevnt bistandsadvokat.
+
+Ny § 397 a skal lyde:
+
+Kommisjonen skal aktivt og planmessig styre saken for å oppnå en forsvarlig og effektiv behandling. Saksstyringen skal ikke skje på en måte som kan være egnet til å svekke tilliten til kommisjonens uavhengighet eller objektivitet. Kommisjonen kan oppfordre partene til å bidra med slike avklaringer som saken gir grunn til, fastsette frister for partenes innlegg og treffe nødvendige avgjørelser om behandlingen.
+
+Dersom begjæringen ikke forkastes eller avvises etter § 397 tredje ledd, skal kommisjonen legge en plan for den videre behandlingen. I den utstrekning det er nødvendig for å sikre en forsvarlig og effektiv behandling, skal kommisjonen så vidt mulig avklare
+
+- hvilke grunnlag som påberopes for gjenåpning, og hvilke faktiske og rettslige spørsmål som står sentralt i saken,
+
+- om saken reiser spesielle prosessuelle problemstillinger, og i tilfelle hvilke,
+
+- hvilke undersøkelser som skal gjennomføres, herunder om det skal oppnevnes sakkyndige og foretas avhør av siktede, fornærmede eller vitner,
+
+- om påtalemyndigheten skal anmodes om å gjennomføre etterforskningsskritt,
+
+- om partene vil inngi ytterligere skriv, og om det skal settes frister for slike,
+
+- om partene skal inngi sluttinnlegg,
+
+- om det skal avholdes muntlige høringer, og
+
+- andre forhold av betydning for behandlingen av gjenåpningsbegjæringen.
+
+Forhold som nevnt i annet ledd skal som regel drøftes med partene i et saksforberedende møte, med mindre drøfting i møte anses unødvendig og avklaringer kan oppnås på annen måte.
+
+Kommisjonen kan kreve at partene inngir sluttinnlegg. Sluttinnlegget bør kort angi hvilke grunnlag som påberopes for gjenåpning, og hvilke faktiske og rettslige spørsmål som er omtvistet.
+
+§ 398 femte ledd skal lyde:
+
+*Domfelte, fornærmede, etterlatte og andre med rettslig interesse har rett til innsyn hos kommisjonen i dokumenter utarbeidet eller innhentet i forbindelse med gjenåpningssaken. Dette gjelder likevel ikke dokumenter utarbeidet eller innhentet under behandlingen av straffesaken, eller opplysninger som vedkommende ikke ville ha fått innsyn i hos politiet, påtalemyndigheten eller domstolene.* Kommisjonen kan unnta fra innsyn dokumenter som den selv har utarbeidet for sin interne saksforberedelse.
+
+§ 398 b tredje ledd skal lyde:
+
+Kommisjonen *kan anmode* påtalemyndigheten om å utføre nærmere angitte etterforskningsskritt.
+
+Ny § 398 c skal lyde:
+
+Kommisjonens avgjørelse av om gjenåpning skal tillates, skal begrunnes. Så langt det er nødvendig for å forklare avgjørelsen, skal begrunnelsen omfatte
+
+a\) fremstilling av saken,
+
+b\) angivelse av partenes rettslige og faktiske anførsler, og
+
+c\) redegjørelse for kommisjonens rettsanvendelse og bevisvurdering.
+
+Det skal opplyses om avgjørelsen er enstemmig. Ved dissens skal det fremgå hvem som er uenig, og hvilke punkter uenigheten gjelder.
+
+Andre avgjørelser som treffes av kommisjonen, skal begrunnes så langt det er nødvendig for å forklare avgjørelsen. Ved vurderingen av i hvilken utstrekning begrunnelse skal gis, skal det særlig legges vekt på avgjørelsens innhold og betydning for partene. Begrunnelse kan unnlates når avgjørelsens art og øvrige omstendigheter gjør det forsvarlig.
+
+§ 399 skal lyde
+
+*Kommisjonens avgjørelser treffes med alminnelig flertall hvis de ikke tas av kommisjonens leder eller nestleder*.
+
+*Tre medlemmer, hvorav minst ett med juridisk embetseksamen eller mastergrad i rettsvitenskap, avgjør om begjæring om gjenåpning skal tas til følge, med mindre den avvises eller forkastes av leder eller nestleder etter § 397 tredje ledd. Avgjørelse om å nekte gjenåpning til gunst krever enstemmighet.*
+
+*Avgjørelse om å gjenåpne til gunst kan tas av leder eller nestleder dersom begjæringen åpenbart fører frem.*
+
+Kommisjonen kan omgjøre en avgjørelse om gjenåpning når den som har begjært omgjøring, trekker begjæringen og § 400 tredje ledd ikke er til hinder.
+
+*Kommisjonens avgjørelser kan bare ankes eller brukes som ankegrunn der det er uttrykkelig sagt i loven*.
+
+Ny § 401 a skal lyde:
+
+Gyldigheten av kommisjonens avgjørelse om hvorvidt en sak skal gjenåpnes, kan prøves for domstolene. Saken bringes inn for lagmannsretten i det lagdømme hvor domfelte har sitt alminnelige verneting. Bestemmelsen i § 400 andre ledd andre punktum gjelder tilsvarende så langt den passer.
+
+### Merknader til de enkelte bestemmelsene
+
+Til § 389 andre ledd
+
+Henvisningen til § 308 i § 389 andre ledd er fjernet. Det vises til forslaget i punkt 22.4 om å fjerne ektefelles, slektningers og arvingers rett til å begjære gjenåpning.
+
+Kommisjonens adgang til å gjenåpne en avgjørelse mot en avdød person uten at noen har begjært det, jf. § 394 andre ledd, opprettholdes. Bestemmelsen sikrer at kommisjonen fortsatt vil ha adgang til å gjenåpne avgjørelser som gjelder døde, enten noen har begjært det eller ikke. Det vil imidlertid bero på en nærmere vurdering om dommen skal gjenåpnes i slike tilfeller, selv om gjenåpningsvilkårene er oppfylt. Det avgjørende er om det kan oppfattes som «støtende» om dommen blir stående, jf. Ot.prp. nr. 70 (2000–2001) s. 32, se nærmere i punkt 8.2. Det bør også vektlegges om det er holdepunkter for at domfelte selv ønsket at saken skulle gjenåpnes, for eksempel dersom domfelte var involvert i gjenåpningsprosessen før vedkommende gikk av med døden.
+
+Til § 391 nr. 3
+
+Alternativet «avvisning» er fjernet fra bestemmelsen i § 391 nr. 3 første punktum. Endringen innebærer at det ikke lenger er et grunnlag for gjenåpning etter bestemmelsen at det kan påvises en saksbehandlingsfeil som skulle ha ført til avvisning av saken i domstolene. Slike saksbehandlingsfeil skal i stedet vurderes på samme måte som andre saksbehandlingsfeil, som etter praksis i hovedsak vurderes etter § 392 andre ledd. Gjenåpning etter § 391 nr. 3 forutsetter dermed at det kan påvises et nytt bevis eller en ny omstendighet som enten synes egnet til å føre til frifinnelse, eller til anvendelse av en mildere strafferegel eller en vesentlig mildere rettsfølge. For gjenåpning på disse grunnlagene videreføres bestemmelsen uten endringer.
+
+Endringen innebærer at det også for saksbehandlingsfeil som skulle ha ført til avvisning i domstolen, er et vilkår for gjenåpning at feilen kan ha hatt betydning for resultatet, jf. vilkåret om at det må være «tvilsomt om dommen er riktig» i § 392 andre ledd. Endringen medfører videre at domfelte ikke vil ha *krav* på gjenåpning dersom det kan påvises en avvisningsgrunn. Som ved vurderingen av andre former for saksbehandlingsfeil må det etter § 392 andre ledd gjøres en nærmere vurdering av om feilen skal lede til gjenåpning, hvor det blant annet er relevant å se hen til feilens alvorlighetsgrad, og om gjenåpning er nødvendig for å reparere folkerettsbrudd. I vurderingen av § 392 andre ledd skal det gjøres en skjønnsmessig vurdering dersom vilkåret om særlige grunner er oppfylt, jf. ordet «kan» og vilkåret om «tungtveiende hensyn».
+
+Det antas at endringen vil ha liten betydning i praksis ettersom kommisjonen sjelden synes å vurdere avvisningsalternativet i § 391 nr. 3. Det vises til den nærmere redegjørelsen for forslaget i punkt 22.3.
+
+Til ny § 393 a
+
+Det vises til redegjørelsen for forslaget i punkt 22.5.
+
+Paragrafen er ny og svarer til Straffeprosessutvalgets lovutkast § 41-11. Det vises til NOU 2016: 24 punkt 22.3.6.5 s. 467–468 og s. 662. Bestemmelsen er ment å sikre at reglene om gjenåpning i minst mulig grad leder til frifinnelse utelukkende fordi bevisbildet er svekket av tidens tann.
+
+Bestemmelsen oppstiller et tilleggskrav til de alminnelige vilkårene for gjenåpning (§§ 390 til 393) for dommer som er eldre enn 25 år. For gjenåpning av slike dommer må det – i tillegg til at et av gjenåpningsvilkårene er oppfylt – foreligge «forhold som gjør det meget tvilsomt at dommen er riktig». De aktuelle forholdene kan være de samme som begrunner gjenåpning etter de alminnelige reglene. Ordlyden åpner for å ta i betraktning om bevisgrunnlaget i saken i vesentlig grad er svekket siden saken ble behandlet i domstolsapparatet. Dersom saken vil bli fullgodt belyst etter gjenåpning, for eksempel fordi det foreligger lyd- og bildeopptak av forhandlingene, er det et relevant hensyn ved skjønnsutøvelsen.
+
+Til § 395
+
+*Første ledd* omhandler kommisjonskollegiets sammensetning og er endret som følge av forslaget om å dele kommisjonen inn i avdelinger, se punkt 20.2. Det fremgår av *første punktum* at kommisjonen består av faste medlemmer og varamedlemmer som tiltrer ved forfall. Til forskjell fra den tidligere bestemmelsen er det totale antallet og sammensetningen av kommisjonsmedlemmene ikke lovfestet. Dette er ment å sikre fleksibilitet og muliggjøre at antallet avdelinger kan variere i tråd med sakstilfanget.
+
+Heller ikke antallet og sammensetningen av varamedlemmene er lovfestet. Dette er ment å sikre fleksibilitet, slik at kommisjonen kan utarbeide hensiktsmessige rutiner for varaenes oppmøte som ivaretar behov for opplæring, og som samtidig medfører at varamedlemmene hovedsakelig møter ved forfall.
+
+Den faglige sammensetningen av avdelingene er regulert i *andre og tredje punktum*. Det fremgår av andre punktum at kommisjonens leder, nestledere og et passende antall medlemmer skal være jurister. For å sikre at gjeldende fordeling mellom jurister og lekfolk så langt mulig videreføres, er det i tredje punktum bestemt at hver avdeling i den enkelte sak «som regel» skal settes med to jurister og én lekperson. Det følger av formuleringen «som regel» at kommisjonen også vil være beslutningsdyktig dersom denne hovedregelen ikke kan gjennomføres. Bestemmelsen må ses i sammenheng med forslaget til endring i § 399 om at kommisjonen må settes med minst tre medlemmer, hvorav minst én jurist, for å kunne avgjøre om en begjæring om gjenåpning skal tas til følge. Altså åpner reglene for at avgjørelsen av gjenåpningsspørsmålet ved behov også kan tas av én jurist og to lekpersoner. Det bør imidlertid etterstrebes at utgangspunktet om en fordeling på to jurister og én lekperson følges, iallfall i saker som reiser komplekse rettslige spørsmål. I saker som reiser bevisspørsmål av en viss betydning, bør det etterstrebes at minst én lekperson deltar ved avgjørelsen.
+
+Ordlyden i andre punktum er endret fra «nestleder» til «nestledere» for å klargjøre at det kan oppnevnes flere nestledere. Dette vil særlig være aktuelt dersom kommisjonen inndeles i tre eller flere avdelinger. De ulike nestlederne vil – i tillegg til kommisjonens leder – fungere som ledere for møtene i sine avdelinger og vil ha samme kompetanse som lederen og nestlederen har i dag til å treffe avgjørelser på egen hånd, herunder om å forkaste begjæringen, jf. § 397 tredje ledd, eller å innvilge begjæringer som åpenbart fører frem, se forslaget til § 399 nytt tredje ledd.
+
+*Andre ledd* har fått et *nytt* *andre punktum* hvor det fremgår at kommisjonens leders samlede funksjonstid ikke kan overstige 10 år dersom lederen tidligere har vært kommisjonsmedlem. Det vises til omtalen av forslaget i punkt 20.5.
+
+Bestemmelsene i nåværende tredje ledd er flyttet til § 399, se utkastet til § 399 første ledd og femte ledd. Hensikten er å samle bestemmelsene om kommisjonens avgjørelsesmåter i én paragraf. Nåværende § 395 fjerde ledd blir derfor *tredje ledd*. Leddet har fått et nytt *tredje punktum*, hvor det fremgår at kommisjonens saksforberedere kan ansettes på åremål, se omtalen av forslaget i punkt 20.4. Nåværende tredje punktum blir derfor fjerde punktum.
+
+Det legges til grunn at åremål også vil være naturlig for kommisjonens utredningsleder, se forslaget om å opprette en slik stilling i punkt 20.3. For utredningslederen vil eventuell tidligere fartstid som utreder ikke telle med i åremålsperioden.
+
+Til § 397
+
+*Andre ledd* har fått et nytt *tredje punktum* hvor det fremgår at kommisjonen kan pålegge siktede å la seg representere av forsvarer. Nåværende tredje, fjerde og femte punktum blir derfor henholdsvis fjerde, femte og sjette punktum. Det må antas at en adgang for kommisjonen til å pålegge forsvarerrepresentasjon allerede følger av gjeldende rett. Av pedagogiske hensyn er adgangen allikevel fremhevet i lovteksten. Bestemmelsen er ment å klargjøre at det kan være behov for å oppnevne forsvarer også i tilfeller hvor domfelte ikke ber om det, for eksempel dersom det er behov for å klargjøre anførslene, eller fordi domfelte har språkutfordringer. Det kan også være aktuelt å oppnevne forsvarer i tilfeller hvor domfelte bistås av personer uten rettslig kompetanse. Dette vil særlig være aktuelt dersom det er behov for å sikre at rettslige problemstillinger utredes godt nok, og for øvrig for å konsentrere saken.
+
+*Tredje ledd* er endret på flere punkter. *Første punktum* er endret slik at det ikke lenger er et grunnlag for å forkaste begjæringen at den ikke inneholder noen grunn som etter loven kan føre til gjenåpning. Videre er formuleringen endret slik at det fremgår tydeligere at det gjenstående alternativet gjelder *avvisning* av begjæringen i alle tilfeller hvor saken ikke kan behandles av kommisjonen av formelle årsaker. Dette gjelder både dersom begjæringen gjelder en avgjørelse som etter sin art ikke kan gjenåpnes, og dersom den av andre grunner ikke kan behandles, for eksempel dersom den er fremsatt av noen som ikke har rett til å begjære gjenåpning. Videre er henvisningen til reglene om kjennelse tatt ut. Kravene til begrunnelse og utforming av avgjørelsen vil i stedet følge av den nye bestemmelsen som foreslås inntatt som ny § 398 c. *Andre punktum* er språklig revidert som følge av endringene i første punktum, men dette er ikke ment å medføre noen realitetsendring. Det vises for øvrig til redegjørelsen i punkt 22.2.
+
+Det forenklede begrunnelseskravet i nåværende tredje ledd fjerde punktum er fjernet, se punkt 21.10. Dette innebærer at også avgjørelser om å avvise begjæringen etter tredje ledd første punktum skal begrunnes etter reglene i forslaget til ny § 398 c. Det må imidlertid antas at begrunnelsen i slike tilfeller normalt vil kunne gjøres svært kort.
+
+Alternativet avvisning er inntatt i *fjerde ledd første punktum* som følge av de omtalte endringene i tredje ledd.
+
+Kommisjonens plikt til å varsle fornærmede og etterlatte om begjæringen i *femte ledd første punktum* er endret, se punkt 21.5. Etter forslaget gjelder plikten til å varsle fornærmede og etterlatte bare «dersom saken tilsier det». Det legges opp til en behovsbasert vurdering, hvor det blant annet vil være relevant å se hen til om det er trolig at den aktuelle personen ønsker å bli underrettet. Videre vil kommisjonens utredningsplikt være styrende for vurderingen. I den grad personen kan kaste lys over gjenåpningsspørsmålet, bør personen kontaktes og om nødvendig innkalles til avhør, jf. § 398 a. Forslaget medfører ingen andre endringer i fornærmedes og etterlattes prosessuelle rettigheter. Fornærmede og etterlatte skal fortsatt ha rett til å uttale seg skriftlig om begjæringen, jf. § 398 andre ledd første punktum, men vil kun bli underrettet om denne rettigheten dersom kommisjonen finner grunn til å varsle vedkommende om begjæringen.
+
+Til ny § 397 a
+
+Det vises til fremstillingen i punkt 21.2.
+
+Paragrafen er ny og utformet etter mønster av straffeprosessloven § 271 a og tvisteloven § 9-4 og § 11-6. Bestemmelsen gir på et overordnet plan uttrykk for krav til kommisjonens saksstyring.
+
+Etter *første ledd* har kommisjonen plikt til å innrette behandlingen etter hva som kreves for å sikre en forsvarlig og effektiv saksavvikling. Saksstyringen skal være aktiv og planmessig, men må ikke svekke tilliten til kommisjonens uavhengighet og objektivitet, jf. første ledd *andre punktum*. Hvilken aktivitet som nærmere bestemt kreves fra kommisjonens side, beror på sakens karakter og hva som anføres i begjæringen.
+
+*Tredje punktum* angir sentrale virkemidler for saksstyringen. Kommisjonen kan for det første oppfordre partene til å bidra med slike avklaringer som saken gir grunn til. Aktuelle temaer for avklaring kan være spørsmål om hva som anføres, og partenes syn på den videre behandlingen av saken, herunder hvilke undersøkelser som skal gjennomføres, se temaene i andre ledd andre punktum. Første ledd tredje punktum gir også en påminnelse om at kommisjonen kan fastsette frister for å drive saksbehandlingen fremover, og at kommisjonen kan treffe nødvendige avgjørelser om behandlingen av enhver art. Kravet til effektiv og forsvarlig behandling innebærer at kommisjonen må ta sikte på å treffe saksstyrende avgjørelser så tidlig som mulig under behandlingen.
+
+*Andre ledd* fastslår at kommisjonen skal legge en plan for den videre behandlingen. Dette gjelder alle saker som ikke forkastes eller avvises etter § 397 tredje ledd. Et viktig element i planen vil være å avklare partenes syn på ulike spørsmål og sette frister for hva som skal skje videre i saken. Det kan også settes veiledende frister for Gjenopptakelseskommisjonens (og påtalemyndighetens) egen saksutredning. Det antas at planen kan være svært enkel og kortfattet i mange saker, for eksempel der hovedspørsmålet i begjæringen er om domfelte var utilregnelig på gjerningstidspunktet, jf. straffeloven § 20. Det vil normalt heller ikke være behov for en omfattende plan når begjæringen utelukkende gjelder rettsanvendelsen eller saksbehandlingen som ligger til grunn for dommen som angripes. *Andre punktum* angir temaer som kommisjonen så vidt mulig skal avklare i den utstrekning det er nødvendig for å sikre en forsvarlig og effektiv behandling. Det bør for eksempel avklares hvilket syn partene har på undersøkelser som bør gjennomføres i saken, jf. tredje strekpunkt. Et annet er hvorvidt partene vil inngi ytterligere skriv, og om det skal settes frister for slike, jf. femte strekpunkt. Kommisjonen bør i utgangspunktet ta sikte på å avklare alle forhold av betydning for behandlingen av gjenåpningsbegjæringen, jf. siste strekpunkt.
+
+*Tredje ledd* angir at forholdene som nevnt i andre ledd som regel skal drøftes med partene i et saksforberedende møte (planmøte), som kan gjennomføres både fysisk og digitalt. For å sikre et godt møte er det en fordel om partene får tilsendt en agenda på forhånd, slik at de kan forberede seg på spørsmålene som skal diskuteres. Planmøte kan unnlates hvis et slikt møte anses unødvendig og de nødvendige avklaringer kan oppnås på annen måte. Et nærliggende alternativ, særlig i oversiktlige og enkle saker, er å sende partene et planleggingsbrev (planbrev). Et planbrev kan utformes som en liste over spørsmål til partene, eventuelt også som en foreløpig plan kombinert med spørsmål. Ved vurderingen av om det som skal holdes et planmøte eller sendes planbrev, er det styrende hensynet hva som er nødvendig for å oppnå en effektiv og forsvarlig behandling av saken. Relevante momenter er sakens karakter og alvor, behovet for hurtig saksbehandling, partenes tilgjengelighet, om det påberopes nye bevis og opplysninger, om partenes argumentasjon fremstår som uklar, samt om domfelte eller siktede har advokat.
+
+Avholdes det planmøte med en domfelt som ikke har forsvarer, må kommisjonen etterleve veiledningsplikten som er nedfelt i § 397 første ledd. Kommisjonen har plikt til å veilede den som begjærer gjenåpning, slik at vedkommende kan ivareta sitt tarv best mulig, og den skal av eget tiltak vurdere om siktede har behov for dette. En særlig utstrakt veiledningsplikt gjelder overfor siktede som ikke bistås av advokat. Etter kommisjonens nåværende rutiner gis det i slike tilfeller tilbud om en innledende samtale («domfeltesamtale») med juridisk utreder hvor saksforholdet og gjenåpningsbegjæringen gjennomgås. Det må vurderes konkret om planmøte er overflødig ved siden av domfeltesamtalen.
+
+*Fjerde ledd* angir at kommisjonen kan kreve at partene inngir et kortfattet skriftlig sluttinnlegg. Dette kan være et velegnet virkemiddel for å markere at kommisjonens saksforberedelse er avsluttet eller nærmer seg slutten. Virkemiddelet antas å være nyttig i tilfeller hvor partene har inngitt mange eller omfattende skriv, særlig dersom argumentasjonen har endret eller utviklet seg underveis. Innlegget bør kort angi det rettslige grunnlaget for gjenåpning og de forhold som tilsier gjenåpning, samt hvilke faktiske og rettslige spørsmål som er omtvistet. Eventuelle avsluttende synspunkter på kommisjonens saksbehandling og utredning kan også inntas i innlegget. Fremstillingen bør være kortfattet og konsentrert og helst ikke overstige noen få sider.
+
+Til § 398 femte ledd
+
+Bestemmelsen regulerer retten på dokumentinnsyn i gjenåpningssaken hos Gjenopptakelseskommisjonen. Henvisningen til straffeprosesslovens øvrige bestemmelser er erstattet med en ny bestemmelse som i hovedsak viderefører og klargjør gjeldende praksis, se nærmere i punkt 21.6.
+
+Utgangspunktet følger av *første punktum,* hvor det fremgår at domfelte, fornærmede, etterlatte og andre med rettslig interesse har rett på innsyn hos kommisjonen i dokumenter utarbeidet eller innhentet i forbindelse med gjenåpningssaken. Formuleringen «andre med rettslig interesse» skal forstås snevert. Bestemmelsen er særlig ment å sikre at personer som ble domfelt i samme straffesak, kan kreve innsyn i medtiltaltes gjenåpningssak, for selv å vurdere gjenåpning. For øvrig antas det at bestemmelsen kan komme til anvendelse dersom den som krever innsyn, er dømt i en annen straffesak som har tilknytning til en straffesak som er begjært gjenåpnet, og hvor innsyn anses nødvendig for å sikre tilgang til opplysninger som kan ha betydning for innsynskreverens egen gjenåpningssak.
+
+Unntakene fra innsynsretten følger av *andre punktum*. Det følger av bestemmelsen at innsynsretten ikke gjelder for *dokumenter* utarbeidet eller innhentet under behandlingen av straffesaken. Bestemmelsen lovfester gjeldende praksis. Kommisjonen skal ikke vurdere eller gi innsyn i de innhentede straffesaksdokumentene, altså dokumentene som stammer fra den opprinnelige etterforskningen og iretteføringen av saken som kommisjonen innhenter fra påtalemyndigheten og eventuelt domstolene. I tråd med praksis skal kommisjonen i stedet henvise innsynskreveren til det aktuelle organet for å be om innsyn der. Kommisjonen bør i den forbindelse gi veiledning om hvordan dette kan gjøres.
+
+Bestemmelsen klargjør videre at innsynsretten hos kommisjonen heller ikke gjelder for eventuelle *opplysninger* som innsynskreveren ikke får, eller ville ha fått innsyn i, hos politiet, påtalemyndigheten eller domstolene. Bestemmelsen er ment å sikre at den materielle innsynsretten ikke utvides når saken bringes inn for kommisjonen. Dersom kommisjonen i et egenprodusert dokument henviser til opplysninger fra straffesaksdokumentene som personen ikke ville ha fått innsyn i hos politiet, påtalemyndigheten eller domstolene, må denne delen av dokumentet sladdes før personen gis innsyn. Formuleringen er også ment å sikre at nye opplysninger kommisjonen tilegner seg under gjenåpningssaken – for eksempel i forbindelse med egen utredning eller etterforskning med bistand fra påtalemyndigheten – vurderes opp mot straffeprosesslovens øvrige innsynsregler. Dersom opplysningen omfattes av en slik bestemmelse som gjør unntak fra innsynsretten for innsynskreven, må også denne delen av dokumentet eventuelt sladdes før det gis innsyn. Ved tvil bør kommisjonen kontakte påtalemyndigheten eller domstolen for veiledning før innsyn eventuelt gis.
+
+Kommisjonens adgang til å unnta organinterne dokumenter fra innsyn er videreført i *tredje punktum*.
+
+Til § 398 b tredje ledd
+
+Bestemmelsen er endret ved at ordene «i særlige tilfeller» er tatt ut. Endringen har sammenheng med utvalgets oppfatning om at det kan være behov for at kommisjonen – i større grad enn opprinnelig tiltenkt – ber påtalemyndigheten om bistand til å etterforske gjenåpningssaken. Den teknologiske utviklingen på etterforskningsfronten gjør at bistand fra politiet og påtalemyndigheten kan være både ønskelig og iblant nødvendig, for eksempel ved undersøkelser av digitale bevis. Loven bør derfor ikke kunne forstås slik at kommisjonen bare unntaksvis kan be om slik bistand. Det vises til den nærmere redegjørelsen i punkt 19.2.3.
+
+Til ny § 398 c
+
+Utvalget foreslår en ny bestemmelse som regulerer utforming og begrunnelse av Gjenopptakelseskommisjonens avgjørelser. Se redegjørelsen i punkt 21.10. Bestemmelsen er utformet etter mønster av tvisteloven § 19-6 og Straffeprosessutvalgets forslag til ny bestemmelse om begrunnelse av straffeprosessuelle avgjørelser, jf. lovutkastet § 32-7. Se NOU 2016: 24 punkt 17.7 s. 401–405 og s. 641.
+
+Etter *første ledd første punktum* skal kommisjonens avgjørelser av om gjenåpning skal tillates eller ikke, alltid begrunnes. Dette omfatter både avgjørelser av gjenåpningsspørsmålet som treffes av den samlede kommisjonen – herunder den samlede kommisjonens avgjørelser om å forkaste begjæringen – og lederens og nestlederens avgjørelser om å innvilge åpenbare begjæringer (se punkt 20.8), samt lederens og nestlederens avgjørelser om å forkaste begjæringen, jf. § 397 tredje ledd. Utvalget har foreslått å klargjøre reglene i § 397 tredje ledd første punktum slik at bestemmelsen kun vil omfatte rent formelle grunner til at begjæringen ikke kan behandles. I slike tilfeller skal begjæringen *avvises* fra behandling i kommisjonen. Disse avgjørelsene omfattes ikke av begrunnelseskravet i § 398 c første ledd første punktum, men vil i stedet omfattes av tredje ledd.
+
+Kravet til begrunnelse er relativt ut fra begrunnelsespliktens formål. Hvor omfattende begrunnelsen skal være, må derfor avgjøres konkret ut fra hensynene som ligger bak begrunnelsesplikten. Sakens alvorlighetsgrad og kompleksitet, og hvor velbegrunnede anførslene synes å være, vil generelt ha vesentlig betydning. For avgjørelser som går ut på å forkaste begjæringen, vil kravene til begrunnelse i praksis normalt være mindre strenge enn for avgjørelser som går ut på å nekte gjenåpning, fordi det normalt vil være relativt enkelt å begrunne hvorfor en begjæring «åpenbart» ikke kan føre frem. Det samme vil langt på vei gjelde for avgjørelser om å gjenåpne saken når begjæringen åpenbart fører frem. Det er imidlertid ikke avgjørende i seg selv om avgjørelsen er truffet på en slik måte. Hvor omfattende begrunnelse som skal gis, må vurderes konkret fra sak til sak ut fra hensynene som gjør seg gjeldende.
+
+Det følger av *første ledd andre punktum* at begrunnelsen «så langt det er nødvendig for å forklare avgjørelsen», skal oppfylle kravene i bokstav a til c. Formuleringen markerer begrunnelseskravets fleksible og relative element. Begrunnelsen for kommisjonens realitetsavgjørelser bør normalt inneholde samtlige elementer i bokstav a til c. Hvor omfattende redegjørelse som skal gis, for eksempel for kommisjonens rettsanvendelse og bevisvurdering, beror imidlertid på hva som er nødvendig for å forklare avgjørelsen.
+
+Etter *bokstav a* skal begrunnelsen inneholde en fremstilling av saken. Som i dag bør det normalt kort redegjøres for sakshistorikk og faktum i straffesaken. Under sakshistorikken bør det fremgå hvilke eventuelle utredningsskritt som er gjennomført i saken. Dersom noen av partene har begjært utredningsskritt som ikke er fulgt opp fra kommisjonens side, bør dette også fremgå av avgjørelsen. Når det gjelder redegjørelsen for sakens faktum, er det normalt tilstrekkelig å vise til saksforholdet i dommen som begjæres gjenåpnet. I tillegg kan det være hensiktsmessig å presisere eller utdype forhold som er særlig viktige.
+
+Etter *bokstav b* skal «partenes rettslige og faktiske anførsler» angis. Formålet er blant annet å vise at kommisjonen har fått med seg det som partene har gjort gjeldende. Videre vil en konsentrert og poengtert gjengivelse av anførslene kunne bidra til at både kommisjonsmedlemmene og utrederen på saken får et mer bevisst forhold til hva som er de sentrale spørsmålene i saken. En konsentrert og strukturert gjengivelse av partenes anførsler kan også bidra til en konsentrering og strukturering av øvrige deler av avgjørelsen. Det vises til utvalgets merknader til utformingen av kommisjonens avgjørelser i punkt 16.2.1.
+
+Etter *bokstav c* skal det gis «en redegjørelse for kommisjonens rettsanvendelse og bevisvurdering». Kravet innebærer at kommisjonen må begrunne hvorfor den har kommet til sitt resultat. Når det gjelder kommisjonens *rettsanvendelse*, innebærer dette at kommisjonen må vurdere og ta stilling til hvordan gjenåpningsvilkårene skal forstås. I kommisjonens avgjørelser vises det regelmessig til tidligere rettspraksis fra den tiden domstolene behandlet begjæringer om gjenåpning, men flere spørsmål fremstår uavklarte. Det vil derfor i noen tilfeller være nødvendig at kommisjonen presiserer hvordan uavklarte rettsspørsmål bør forstås, og i noen grad «utvikler» rettstilstanden. Behovet gjør seg særlig gjeldende hvis dagens begrensede adgang til domstolsprøving videreføres. Dersom domstolene gis adgang til å prøve kommisjonens konkrete rettsanvendelse i tråd med utvalgets forslag i punkt kapittel 23, vil behovet kunne bli mindre.
+
+Kommisjonen skal i henhold til bokstav c også gjøre rede for sin *bevisvurdering*. Dette innebærer at kommisjonen må gjøre rede for hovedpunktene i sitt syn på de relevante bevisspørsmålene. Kommisjonen må altså til en viss grad forklare hvorfor den har konkludert som den har gjort i vurderingen av bevisspørsmålene som reises gjennom begjæringen. Er begjæringen begrunnet med at det er begått feil ved domstolenes rettsanvendelse eller saksbehandlingsfeil, vil det i mindre grad være behov for en slik redegjørelse. Hvor grundig redegjørelsen for bevisvurderingen skal være, må for øvrig være formålsstyrt. Behovet vil gjennomgående være større i de tilfeller gjenåpningsbegjæringen ikke tas til følge. Videre kan det være grunn til å begrunne en avgjørelse om å gjenåpne grundigere dersom saken har stor betydning for fornærmede. Normalt bør ellers saker om å gjenåpne til skade begrunnes utførlig. Det må i denne sammenheng tas i betraktning at kommisjonens bevisvurdering i utgangspunktet ikke kan overprøves av domstolene, se kapittel 23.
+
+Etter *andre ledd* skal det opplyses om avgjørelsen er enstemmig. Det skal også fremgå hvilke medlemmer som har dissentert og hva uenigheten gjelder.
+
+*Tredje ledd* fastsetter at andre avgjørelser som treffes av kommisjonen, skal begrunnes så langt det er nødvendig for å forklare avgjørelsen. Det siktes her til andre avgjørelser enn de som tar stilling til gjenåpningsspørsmålet. Dette inkluderer avgjørelser som er omtalt i gjenåpningskapittelet i straffeprosessloven, som for eksempel om inhabilitet (§ 396) og oppnevning av og godtgjørelse til offentlig forsvarer og bistandsadvokat (§ 397 andre ledd). Kategorien inkluderer også avgjørelser om å avvise begjæringen på formelt grunnlag, se den foreslåtte bestemmelsen i § 397 tredje ledd nytt første punktum. Også avgjørelser som ikke er direkte nevnt i loven, vil omfattes av denne kategorien.
+
+Tredje ledd *andre punktum* angir at avgjørelsens innhold og betydning for partene er sentrale momenter ved vurderingen av i hvilken utstrekning begrunnelse skal gis. Avhengig av avgjørelsens viktighet og kompleksitet kan det noen ganger være behov for at utformingen og begrunnelsen oppfyller flere av de spesifikke kravene i første ledd. Dersom begjæringen avvises på formelt grunnlag, for eksempel fordi det begjæres gjenåpning av en sivil dom eller utenlandsk avgjørelse, kan begrunnelsen normalt gjøres svært kort.
+
+Tredje ledd *tredje punktum* fastslår at begrunnelse helt kan unnlates dersom avgjørelsens art og øvrige omstendigheter gjør det forsvarlig. Bestemmelsen tar først og fremst sikte på ulike beslutninger av praktisk og administrativ art, som også i dag langt på vei treffes uformelt og formløst.
+
+Den foreslåtte paragrafen erstatter henvisningene i loven til reglene om kjennelse, jf. straffeprosessloven § 52, som i dag gjelder for kommisjonens avgjørelser etter § 397 tredje ledd og § 399. Henvisningen til reglene om kjennelse opprettholdes imidlertid for avgjørelser om vitneforklaring uten hinder av taushetsplikt etter § 398 a andre ledd andre punktum, jf. straffeprosessloven § 118. Slike avgjørelser kan bringes inn for lagmannsretten etter reglene om anke over kjennelser og beslutninger, jf. tredje punktum. Denne adgangen videreføres.
+
+Til § 399
+
+Paragrafen samler en rekke bestemmelser om kommisjonens avgjørelser. Tidligere § 395 tredje ledd andre punktum er flyttet til nytt § 399 *første ledd,* med en språklig tilpasning. Bestemmelsen viderefører gjeldende utgangspunkt om at kommisjonens avgjørelser treffes med alminnelig flertall hvis den ikke tas av kommisjonens leder eller nestleder.
+
+Kommisjonens avgjørelse av gjenåpningsspørsmålet er regulert i et nytt *andre ledd*. I leddet gis regler om beslutningsdyktighet og beslutningskrav for avgjørelsen av gjenåpningsspørsmålet i saker som ikke avvises eller forkastes av leder eller nestleder alene, jf. § 397 tredje ledd. Henvisningen til reglene om kjennelse, jf. nåværende første ledd første punktum, er tatt ut. Krav til utforming og begrunnelse av avgjørelsene er i stedet gitt i ny § 398 c, se omtalen i punkt 21.10.
+
+I andre ledd *første punktum* er det gitt en ny bestemmelse om når kommisjonen er beslutningsdyktig til å avgjøre om gjenåpningsbegjæringen skal tas til følge. Regelen må ses i sammenheng med forslaget om å dele kommisjonen inn i avdelinger, se punkt 20.2. Det kreves at tre medlemmer er til stede, og at minst én av disse er jurist. Samtidig bør det etterstrebes at normalinndelingen med to jurister og en lekperson følges, jf. forslaget til § 395 nytt første ledd tredje punktum.
+
+Det følger av andre ledd *andre punktum* at avgjørelse om å nekte gjenåpning til gunst krever enstemmighet, jf. forslaget i punkt 20.6. Utgangspunktet i første ledd om at kommisjonens avgjørelser tas med alminnelig flertall, vil derfor først og fremst gjelde for prosessledende avgjørelser og ved avgjørelse av begjæring om gjenåpning til skade. Den foreslåtte regelen om at det kreves enstemmighet for å nekte gjenåpning til gunst, har sammenheng med utvalgets forslag om å dele kommisjonen inn i avdelinger, hver med tre kommisjonsmedlemmer. Dersom gjeldende ordning med et kommisjonskollegium på fem medlemmer opprettholdes, anbefaler utvalget at det innføres en regel om bestemmende mindretall på to stemmer for gjenåpning til gunst. Med en slik regel vil det altså kreves fire av fem stemmer for å nekte gjenåpning til gunst.
+
+Det fremgår av nytt *tredje ledd* at avgjørelse om å gjenåpne til gunst kan tas av leder eller nestleder dersom begjæringen «åpenbart fører frem», se nærmere om forslaget i punkt 20.8. Bestemmelsen gjør unntak fra utgangspunktet i andre ledd første punktum for tilfeller hvor det er åpenbart at begjæringen kan innvilges. Med «åpenbare» saker siktes det blant annet til saker om tilregnelighet hvor den sakkyndiges vurdering fremstår klar. I tillegg vil saker som hovedsakelig reiser rettslig spørsmål, etter omstendighetene kunne avgjøres etter bestemmelsen. Generelt må det antas å ha betydning for vurderingen om påtalemyndigheten støtter begjæringen, eller om påtalemyndigheten selv har begjært gjenåpning.
+
+Bestemmelsen i tredje ledd gir kun en regel om beslutningskravet dersom vilkårene er oppfylt. De øvrige prosessuelle bestemmelsene vil gjelde på samme måte som når kommisjonen treffer avgjørelsen som kollegium. Dette innebærer blant annet at påtalemyndigheten, samt fornærmede/etterlatte, skal underrettes om begjæringen, jf. § 397 fjerde og femte ledd, og gis anledning til å uttale seg før avgjørelsen treffes, jf. § 398 andre ledd. Kravene til begrunnelse vil også i utgangspunktet være de samme som for avgjørelser som tas av kommisjonen som kollegium, se forslaget til ny § 398 c. Ettersom begrunnelseskravet er fleksibelt, vil «åpenbare» avgjørelser imidlertid ofte kunne begrunnes enklere enn avgjørelser i saker som reiser tvil. Se nærmere om det foreslåtte begrunnelseskravet i punkt 21.10.
+
+Paragrafens tidligere fjerde punktum – som gir regler om omgjøring når den som har begjært gjenåpning, trekker begjæringen – er flyttet til et nytt *fjerde ledd.* Bestemmelsen har fått en språklig revisjon ved at ordet «gjenopptakelse» er erstattet med «gjenåpning». Endringen medfører ingen realitetsendring.
+
+Tidligere § 395 tredje ledd første punktum er flyttet til et nytt *femte ledd* i § 399. Flyttingen innebærer ingen realitetsendring.
+
+Til ny § 401 a
+
+Utvalget foreslår en ny bestemmelse som regulerer domstolsprøving av kommisjonens avgjørelser. Det vises til drøftelsen i kapittel 23.
+
+*Første punktum* angir at avgjørelser om gjenåpningsspørsmålet kan prøves for domstolene i form av gyldighetssøksmål. Som et utgangspunkt kan domstolene prøve den konkrete rettsanvendelsen i tillegg til den alminnelige lovtolkningen. Prøvingen av subsumsjonen skal skje på grunnlag av det faktum som er lagt til grunn av kommisjonen. Det forutsettes at saksbehandlingen i kommisjonens avgjørelse skal kunne prøves fullt ut. Det samme gjelder myndighetsmisbruk. En nærmere beskrivelse av hvor omfattende prøvingsadgangen skal være, er gitt i kapittel 23.
+
+*Andre punktum* angir at søksmål skal bringes inn for lagmannsretten i det lagdømme hvor domfelte har sitt alminnelige verneting. Dette innebærer at lagmannsretten er førsteinstans. *Tredje punktum* er en henvisning til § 400 andre ledd andre punktum, som skal gjelde «tilsvarende så langt den passer». Dersom lagmannsretten i domfeltes lagdømme tidligere har hatt befatning med saken, skal Høyesteretts ankeutvalg utpeke en annen lagmannsrett med tilgrensende rettskrets.
+
+## Lovendringer knyttet til kapittel 24 om alternativ organisering av kommisjonen
+
+### Forslag til lovendringer
+
+I lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker gjøres følgende endringer:
+
+§ 395 skal lyde:
+
+*Kommisjonen skal ha faste medlemmer og varamedlemmer som tiltrer ved forfall. Kommisjonens medlemmer skal ha juridisk embetseksamen eller mastergrad i rettsvitenskap.*
+
+*Kommisjonen settes i den enkelte sak med tre medlemmer. Kommisjonens leder og nestledere kan bestemme at kommisjonen i den enkelte sak i tillegg settes med to lekpersoner.*
+
+Kommisjonens leder *og nestledere* utnevnes av Kongen i statsråd for en periode på 7 år uten adgang til gjenutnevning. *Dersom kommisjonens leder eller nestleder tidligere har vært medlem eller varamedlem, skal samlet funksjonstid i kommisjonen ikke kunne overstige 10 år.* Kommisjonens øvrige medlemmer og varamedlemmer oppnevnes av Kongen i statsråd for en periode på 3 år med adgang til én gjenoppnevning. Dersom kommisjonen ellers ikke vil være vedtaksfør, kan stedfortredere for kortere tid eller for en enkelt sak oppnevnes av departementet. Det skal kreves fremleggelse av uttømmende og utvidet politiattest, jf. politiregisterloven § 41, av personer som skal utnevnes til leder, nestleder, eller medlem av kommisjonen, eller som skal ansettes i kommisjonen. Det kan kreves fremleggelse av uttømmende og utvidet politiattest, jf. politiregisterloven § 41, av andre som skal utføre arbeid eller tjeneste i saker for kommisjonen.
+
+Kongen i statsråd kan fastsette nærmere regler om kommisjonens lokalisering, arbeidsmåte og administrasjon. For øvrig bestemmer kommisjonen selv sin arbeidsmåte og tilsetter et nødvendig antall saksforberedere. *Saksforberederne kan ansettes på åremål.* Kommisjonen kan ikke instrueres om sin utøving av myndighet.
+
+§ 399 skal lyde:
+
+*Kommisjonens avgjørelser treffes med alminnelig flertall hvis de ikke tas av kommisjonens leder eller nestleder*.
+
+*Tre medlemmer avgjør om begjæring om gjenåpning skal tas til følge, med mindre den avvises eller forkastes av leder eller nestleder etter § 397 tredje ledd. Avgjørelse om å nekte gjenåpning til gunst krever enstemmighet. Er kommisjonen i den enkelte sak i tillegg satt med to lekpersoner, krever slik avgjørelse minst fire stemmer.*
+
+*Avgjørelse om å gjenåpne til gunst kan tas av leder eller nestleder dersom begjæringen åpenbart fører frem.*
+
+Kommisjonen kan omgjøre en avgjørelse om gjenåpning når den som har begjært omgjøring, trekker begjæringen og § 400 tredje ledd ikke er til hinder.
+
+*Kommisjonens avgjørelser kan bare ankes eller brukes som ankegrunn der det er uttrykkelig sagt i loven*.

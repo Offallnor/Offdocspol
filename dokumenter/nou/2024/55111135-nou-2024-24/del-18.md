@@ -1,907 +1,192 @@
-# NOU 2024: 24, del 18 av 22 (side 208–217)
+# NOU 2024: 24, del 18 av 24
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/55111135-nou-2024-24.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-24/id3079704/
 - Original-PDF: https://www.regjeringen.no/contentassets/28617a4ff70a45858f1ff0de3f8c4263/no/pdfs/nou202420240024000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 1 tabell, 22 figurer, 47 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 208]
+# Vilkår for gjenåpning
 
-206
+## Innledning
 
-Kapittel 21
-
-NOU 2024: 24
-Prøvd på nytt
-
-gitt i saken», men det er gjort unntak for «dokumenter utarbeidet eller innhentet under forvaltningens opprinnelige behandling av saken», jf.
-bokstav a, og «opplysninger som klageren ikke får
-innsyn i hos forvaltningen», jf. bokstav b. Utvalgets forslag går ut på at det gis en ny lovbestemmelse i straffeprosessloven § 398 femte ledd som
-er basert på en lignende avgrensning, men tilpasset gjenåpningssaker.
-Etter lovforslaget vil domfelte, fornærmede og
-etterlatte som utgangspunkt ha rett til å gjøre seg
-kjent med alle dokumenter utarbeidet eller innhentet i forbindelse med gjenåpningssaken. Innsynsretten gjelder imidlertid ikke for dokumenter
-utarbeidet eller innhentet under etterforskningen
-eller gjennomføringen av straffesaken, altså straffesaksdokumentene som kommisjonen innhenter
-fra påtalemyndigheten.
-For å sikre at innsynsretten ikke utvides når
-saken begjæres gjenåpnet, gjøres det videre unntak for opplysninger som vedkommende ikke får,
-eller ville ha fått, fra politiet, påtalemyndigheten
-eller domstolene. Formuleringen er ment å klargjøre at unntakene fra innsynsretten i straffeprosesslovens øvrige bestemmelser skal komme til
-anvendelse både når kommisjonen vurderer å gi
-innsyn i et egenprodusert eller innhentet dokument som inneholder opplysninger fra de underliggende straffesaksdokumentene, og når kommisjonens egen utredning av saken har tilveiebrakt
-nye opplysninger som potensielt kan rammes av
-unntaksbestemmelsene. Dette er i tråd med
-bestemmelsen i § 398 tredje ledd, som slår fast at
-domfeltes rett til å bli underrettet om opplysninger kommisjonen mottar under saksforberedelsen, ikke gjelder for opplysninger som vedkommende ikke har rett til å gjøre seg kjent med etter
-§ 264, jf. § 267.
-Utvalget antar at en slik regel i liten grad vil
-medføre endringer i kommisjonens praksis. Regelen anses videre å være i tråd med det gjeldende
-utgangspunktet etter henvisningen til lovens
-øvrige bestemmelser i § 398 siste ledd. Gjennom
-henvisningen legges det opp til at innsynsretten i
-gjenåpningssaken skal speile innsynsretten i straffesaken som begjæres gjenåpnet. Det må derfor
-antas at man har ment at domfelte og fornærmede
-i utgangspunktet skal ha krav på innsyn i alle
-dokumenter i «sin sak», men med unntak for opplysninger som de nevnte bestemmelsene gjør unntak fra. Forslaget er ment å klargjøre dette
-utgangspunktet. På samme måte som i dag må
-avgrensningen av de innsynsberettigede gjøres ut
-fra om personen har status som domfelt/siktet,
-
-fornærmet eller etterlatt i straffesaken som begjæres gjenåpnet.
-Et annet spørsmål er om også andre skal ha
-krav på innsyn i gjenåpningssaken. Henvisningen
-i nåværende § 398 siste ledd til straffeprosessloven § 28 kan forstås slik at også andre med
-«rettslig interesse»31 har krav på innsyn etter gjeldende regler, i alle fall dersom gjenåpningssaken
-er avsluttet. Dette fremstår imidlertid uklart, og
-utvalget forstår det slik at kommisjonen i liten
-grad har avklart spørsmålet i praksis.
-Utvalget mener at det bør være en snever
-adgang for andre enn den domfelte/siktede i gjenåpningssaken, samt fornærmede og etterlatte, til å
-kreve innsyn hos kommisjonen. Den foreslåtte
-bestemmelsen i nytt femte ledd i § 398 slår fast at
-også andre med «rettslig interesse» i gjenåpningssaken har rett til innsyn. Utvalget mener at denne
-bestemmelsen bare bør gis anvendelse for en
-begrenset krets. Bestemmelsen er særlig ment å
-sikre at personer som ble domfelt i samme straffesak, kan kreve innsyn i medtiltaltes gjenåpningssak, for selv å vurdere gjenåpning. Dette er i tråd
-med gjeldende praksis, jf. Sivilombudets uttalelse
-i sak 2010/610. For øvrig antas det at bestemmelsen kan komme til anvendelse dersom den som
-krever innsyn, er dømt i en annen straffesak som
-har tilknytning til straffesaken som er begjært
-gjenåpnet, og hvor innsyn anses nødvendig for å
-sikre tilgang til opplysninger som kan ha betydning for innsynskreverens egen gjenåpningssak.
-Etter forslaget gjøres det ikke et skille mellom
-de ulike stadiene av gjenåpningssaken, slik
-utgangspunktet er for partsinnsyn i straffesaken.32 Dette er i tråd med utgangspunktet etter
-offentleglova, hvor det avgjørende for når innsynsretten oppstår, er om dokumentet er kommet inn
-til eller sendt ut fra organet, eller om det for øvrig
-anses «ferdigstilt», jf. offentleglova § 4 andre
-ledd.33 Unntaket fra innsynsretten for kommisjonens interne saksdokumenter gjør at det som
-oftest vil bli snakk om innsyn i dokumentet når
-det sendes inn til eller ut fra kommisjonen. Utvalget forstår det slik at dette også vil være i tråd
-med gjeldende praksis. Etter gjeldende rutiner
-31
-
-Se straffeprosessloven § 28 første ledd: «Utskrift av rettsbøker og andre dokumenter i en avsluttet straffesak kan kreves av a) den siktede, b) fornærmede, c) etterlatte, og d)
-enhver annen som det har rettslig interesse for.»
-32
-Straffeprosessloven § 28 gjelder innsyn i dokumenter i
-«avsluttet straffesak». § 242 gjelder innsyn i straffesaksdokumentene under pågående etterforskning, mens § 264 og
-§ 264 a gjelder innsyn i straffesaksdokumentene etter at
-det er tatt ut tiltale, før hovedforhandling.
-33 Se imidlertid adgangen til å utsette innsynsretten etter
-offentleglova § 5.
-
-[Side 209]
-
-NOU 2024: 24
-Prøvd på nytt
-
-synes det ikke å være skilt mellom pågående og
-avsluttet gjenåpningssak.
-Regelen om at innsynsretten ikke gjelder opplysninger som personen ikke får eller ville ha fått
-fra påtalemyndigheten eller domstolene, gjør likevel at de konkrete omstendighetene i gjenåpningssaken – herunder om saken er under
-behandling eller avsluttet – kan få betydning for
-innsynsretten. I tillegg til unntakene for domfeltes
-innsynsrett etter § 264 – som er nevnt særskilt i
-§ 398 tredje ledd – vil det for eksempel kunne gjøres unntak også fra fornærmedes og etterlattes
-innsynsrett dersom innsyn kan føre til «skade
-eller fare for en tredjeperson», jf. § 264 a tredje
-ledd første punktum. Gjennom bestemmelsene og
-henvisningene i § 28 andre til femte ledd vil en
-rekke unntak, herunder for opplysninger om anonyme vitners identitet, gjelde tilsvarende også for
-innsyn fra andre med rettslig interesse. For øvrig
-foreslås det å videreføre den særskilte unntaksbestemmelsen i § 398 fjerde ledd, som gir kommisjonen adgang til å unnta visse opplysninger fra domfelte og forsvareren ved fare for alvorlig lovbrudd
-mot noens liv, helse eller frihet.
-Dersom det gjøres unntak fra domfeltes innsynsrett etter § 398 tredje ledd, jf. § 264, følger det
-av forarbeidene at domfeltes forsvarer likevel har
-krav på å bli varslet og få uttale seg om de nye
-opplysningene.34 Forutsetningen er at forsvareren har «rett til å gjøre seg kjent med opplysninger siktede ikke har tilgang til».35 Dette må trolig
-forstås som en henvisning til forsvarerens innsynsrett og unntak etter de ulike bestemmelsene i
-§ 264. Hensikten er å sikre at forsvareren ivaretar
-domfeltes interesser.36 Dersom det «unntaksvis
-dreier seg om opplysninger av større betydning
-for avgjørelsen», taler dette «med tyngde» for å
-oppnevne forsvarer i gjenåpningssaken.37
-Utvalget legger til grunn at det etter omstendighetene også kan være aktuelt å oppnevne forsvarer for å ivareta domfeltes rett til kontradiksjon
-dersom det gjøres unntak fra domfeltes innsynsrett etter § 398 fjerde ledd38 eller etter øvrige
-bestemmelser i straffeprosessloven39 i medhold
-av den foreslåtte bestemmelsen i § 398 femte ledd.
-Forutsetningen må imidlertid være at den aktuelle unntaksbestemmelsen åpner for det, og at det
-er tilrådelig å gi forsvareren innsyn i opplysningene. Det forutsettes for øvrig at domfelte, og
-eventuelt fornærmede eller etterlatte, ved behov
-34
-
-Ot.prp. nr. 70 (2000–2001) s. 75.
-Ot.prp. nr. 70 (2000–2001) s. 75.
-36 Ot.prp. nr. 70 (2000–2001) s. 75.
-37 Ot.prp. nr. 70 (2000–2001) s. 75.
-35
-
-207
-
-Kapittel 21
-
-gis veiledning om hvordan innsynsretten etter de
-øvrige bestemmelsene i straffeprosessloven kan
-utøves hos påtalemyndigheten og domstolene.
-Utvalget mener videre at kommisjonen bør
-konsultere politiet, påtalemyndigheten eller domstolene dersom kommisjonen er i tvil om det skal
-gis innsyn, og eventuelt på hvilken måte. En plikt
-til å innhente uttalelse fra politiet gjelder etter
-loven før det treffes avgjørelse etter § 398 fjerde
-ledd, jf. andre punktum.
-
-21.7 Bør det gjelde en begrensning for
-antall begjæringer som kan
-fremmes i samme sak?
-Ansatte i Gjenopptakelseskommisjonen har gitt
-uttrykk for at de bruker en del tid på å besvare
-gjentatte henvendelser i samme sak, ofte uten at
-det fremmes nye anførsler av betydning. Dette
-har ført til diskusjon om man bør innføre begrensninger i antall gjenåpningsbegjæringer som kan
-fremmes for kommisjonen i samme sak, eventuelt
-for rene omgjøringsbegjæringer uten nye anførsler.40
-Arbeidsgruppen som evaluerte kommisjonen i
-2012, vurderte ulike tiltak, men kom til at det ikke
-burde innføres begrensninger i adgangen til å
-fremme gjentatte begjæringer. Arbeidsgruppen
-pekte på at domstolenes prøving av kommisjo38
-
-Etter bestemmelsen «kan» kommisjonen nekte domfelte
-og forsvareren innsyn i opplysninger, men det er ingen
-plikt til å gjøre det, selv om vilkårene er oppfylt, se Ot.prp.
-nr. 54 (2005–2006) s. 16. Såfremt det kan skje uten å skade
-interessene som søkes vernet, bør kommisjonen derfor
-kunne gi innsyn kun til forsvareren, på tilsvarende måte
-som forutsatt ved anvendelse av unntaksbestemmelsen i
-§ 398 tredje ledd. Ordlyden i § 398 fjerde ledd synes for
-øvrig å være inspirert av den lignende formuleringen i
-§ 242 a bokstav a, se Ot.prp. nr. 54 (2005–2006) s. 8–9. Etter
-§ 242 a skulle forsvarerens og domfeltes innsynsrett tidligere vurderes hver for seg, slik at det kunne bli aktuelt å
-bare gi forsvareren rett til innsyn med forbud mot å videreformidle opplysningene til domfelte, jf. bestemmelsens tidligere femte ledd. Ved en lovendring i 2013 ble bestemmelsen endret på dette punktet, slik at rettens pålegg nå alltid
-gjelder både for forsvareren og domfelte. Ifølge forarbeidene til lovendringen er dette likevel ikke til hinder for at
-påtalemyndigheten gir forsvareren innsyn, såfremt det settes vilkår om at forsvareren bevarer taushet om opplysningene, jf. § 100 a første ledd tredje punktum, se Prop. 147 L
-(2012–2013) s. 180.
-39 Eksempelvis følger det av § 242 andre ledd at forsvareren
-kan gis innsyn selv om opplysningene holdes skjult for
-domfelte. Det er videre forutsatt i forarbeidene til
-endringer i § 28 at det kan være aktuelt å gi domfeltes forsvarer innsyn dersom domfelte selv nektes utskrift av
-dokumenter i en avsluttet straffesak, blant annet med tanke
-på å vurdere gjenåpning, se Ot.prp. nr. 24 (2002–2003)
-s. 65.
-40 Se også Stridbeck (2020).
-
-[Side 210]
-
-208
-
-Kapittel 21
-
-NOU 2024: 24
-Prøvd på nytt
-
-nens avgjørelser er begrenset, og at dette – samt
-manglende klagemulighet og kontroll fra overordnet organ – gjør at gjentatte begjæringer i praksis
-ofte vil være eneste farbare vei dersom domfelte
-mener at kommisjonens avgjørelse er feil.41
-Videre mente arbeidsgruppen at det kunne være
-vanskelig å skille mellom «rene ‘klager’ over tidligere avgjørelser og nye begjæringer som alltid må
-kunne fremsettes (for eksempel der det oppdages
-nye bevis)».42 I tillegg pekte arbeidsgruppen på at
-Utlendingsnemnda (UNE) tidligere hadde forsøkt
-å innføre begrensninger i adgangen til å fremme
-gjentatte omgjøringsbegjæringer, men at ordningen ble reversert.43 Begrunnelsen var at ordningen ikke førte til nedgang i antall begjæringer for
-nemnda, samt at en del av begjæringene i stedet
-endte opp som nye søknader hos Utlendingsdirektoratet (UDI).44
-Utvalget slutter seg til arbeidsgruppens synspunkter. Utvalget ser det slik at gjentatte begjæringer kan være nødvendig for å påpeke mangler
-ved kommisjonens utredning eller avgjørelse i
-saken. Av rettssikkerhetshensyn er det derfor
-ikke ønskelig å begrense adgangen til å fremme
-gjentatte begjæringer, heller ikke dersom det i
-liten grad fremmes nye anførsler. Viggo Kristiansens mange forsøk på å få gjenåpnet Baneheiasaken illustrerer at retten til å fremme gjentatte
-begjæringer kan være en viktig rettsikkerhetsgaranti.
-Utvalget mener videre at det vil være vanskelig å utforme en avskjæringsregel som både er
-effektiv og samtidig sikrer domfeltes rettssikkerhet. Trolig vil en slik regel uansett måtte ha
-skjønnsmessige unntak, noe som vil fordre nye
-vurderinger og press på saksbehandlingsressursene. Det vises i den sammenheng til at en regel
-om avskjæring av gjentatte begjæringer i samme
-sak for Högsta domstolen i Finland, som ble innført i 2019, har skjønnsmessige unntak som kommer til anvendelse for eksempel dersom søkerens
-rettssikkerhet krever det, eller det kommer frem
-at den første begjæringen ble avslått på feil grunnlag.45
-Utvalget foreslår derfor ingen begrensninger i
-adgangen til å fremme gjentatte begjæringer. Som
-utvalget gir uttrykk for i punkt 21.8, mener utvalget imidlertid at gjentatte begjæringer uten nye
-41
-
-Etterkontroll (2012) s. 93.
-Etterkontroll (2012) s. 93.
-43 Etterkontroll (2012) s. 93, med henvisning til NOU 2010: 12
-s. 110–111.
-44 Se NOU 2010: 12 s. 111.
-45
-Se Stridbeck (2020) s. 515 med videre henvisninger.
-42
-
-anførsler etter omstendighetene kan besvares
-kort. Kommisjonen har videre et visst skjønn når
-det gjelder rekkefølgen på saksavviklingen,46 og
-det følger av gjeldende rutiner at det blant annet
-kan legges vekt på om begjæringen «synes å
-kunne lede til gjenåpning». Det kan tilsi at gjentatte begjæringer i samme sak uten nye anførsler
-ikke gis prioritet.
-
-21.8 Klarere rutiner for behandling av
-gjentatte begjæringer, omgjøring
-og klage
-Gjenopptakelseskommisjonen regnes som et forvaltningsorgan, men er ikke omfattet av forvaltningsloven.47 Det innebærer at heller ikke forvaltningslovens klageregler kommer til anvendelse.
-Justis- og beredskapsdepartementet har slått fast
-at det ikke er adgang til å klage kommisjonens
-avgjørelser inn for dem.48 Videre er kommisjonen
-ment å være et uavhengig organ, som ikke kan
-instrueres om sin myndighetsutøvelse, jf. § 395
-siste ledd siste punktum. Det finnes derfor heller
-ingen overordnet instans som kan omgjøre kommisjonens avgjørelser.
-I forarbeidene er det antatt at det ville være
-begrenset behov for overprøving av kommisjonens avgjørelser, fordi man tok sikte på å
-«utforme kommisjonsordningen slik at kommisjonens avgjørelse i seg selv gir god rettsikkerhet».49
-Departementet mente videre at det burde «utformes interne rutiner slik at innvendinger mot kommisjonens arbeid blir behandlet etter en egen
-intern klageprosedyre slik som i England, og det
-vil være mulig å fremsette en begjæring for kommisjonen på nytt dersom det kommer frem opplysninger som gjør at saken står i en ny stilling».50
-I tråd med dette har kommisjonen utarbeidet
-interne rutiner for behandling av «klager» og
-omgjøringsbegjæringer.
-Det fremgår av rutinene at leder eller juridisk
-utreder på saken skal vurdere om en ny henvendelse er å anse som en «klage/omgjøring eller ny
-begjæring». Dersom det hevdes å foreligge noe
-«vesentlig nytt» etter forrige avgjørelse, er
-utgangspunktet at henvendelsen anses som en ny
-begjæring. Saken behandles da på «vanlig måte»
-og får et nytt saksnummer.
-46
-
-Se nærmere i punkt 8.7.1.
-Se punkt 8.1.
-48 Keiserud (2020) s. 1432.
-49 Ot.prp. nr. 70 (2000–2001) s. 48.
-50
-Ot.prp. nr. 70 (2000–2001) s. 48.
-47
-
-[Side 211]
-
-NOU 2024: 24
-Prøvd på nytt
-
-Dersom det ikke anføres noe vesentlig nytt,
-heter det i rutinene at saken kan avgjøres med et
-brev fra kommisjonens leder til domfelte. Saken
-kan også «besluttes å legges frem for kommisjonen». Dette kan etter retningslinjene for det første
-vurderes dersom saken gjelder en begjæring som
-opprinnelig ble forkastet av leder eller nestleder
-alene. Dersom «klagen åpenbart ikke kan føre
-frem», skal det i slike tilfeller
-«[…] sendes et brev til domfelte om at hans
-klage/omgjøringsbegjæring er vurdert av
-kommisjonen, som ikke finner grunn til å ta
-opp saken på nytt. Det blir ikke truffet en ny
-avgjørelse av kommisjonen. Dersom kommisjonen skulle komme til et annet resultat enn
-leder/nestleder, skal kommisjonen treffe en ny
-avgjørelse eller be om utredning.»
-
-Tilsvarende heter det om behandlingen av en ny
-begjæring i samme sak som opprinnelig ble
-avgjort av den samlede kommisjonen:
-«Dersom det klages over/bes om omgjøring av
-en avgjørelse fra kommisjonen (forkastet eller
-ikke tatt til følge), skal den legges frem for
-kommisjonen i møte. Dersom klagen åpenbart
-ikke kan føre frem, sendes et brev til domfelte
-om at hans klage er vurdert av kommisjonen,
-som ikke finner grunn til å ta opp saken på nytt.
-Dersom klagen inneholder anførsler som gir
-kommisjonen grunn til å se på saken på nytt,
-f.eks. at kommisjonen har begått saksbehandlingsfeil som eventuelt kan ha virket inn på
-avgjørelsens resultat, skal kommisjonen treffe
-en ny avgjørelse. Dette gjelder selv om utfallet
-blir det samme som første gang. Det opprettes
-da ny sak.»
-
-I kommisjonens mal for «klagesvar» heter det i
-tråd med dette at kommisjonen ikke finner «at det
-som gjøres gjeldende gir grunnlag for å ta saken
-opp til ny behandling». Til sist i brevmalen heter
-det: «Saken er dermed endelig avsluttet her».
-Utvalget har i samtaler med ansatte i kommisjonen stilt spørsmål om kriteriene for når gjentatte henvendelser fra domfelte i samme sak
-behandles som en form for klage/omgjøringsbegjæring som svares ut med at saken ikke er tatt
-opp til ny behandling, og når den nye henvendelsen derimot underlegges en ny vurdering og svares ut med en ny avgjørelse. Utvalget forstår det
-slik at de nærmere retningslinjene for denne vurderingen delvis er uklare, men at det blant annet
-ses hen til hvor lang tid det har gått siden forrige
-
-209
-
-Kapittel 21
-
-avgjørelse, og hvor mange henvendelser som tidligere er sendt inn.
-Etter utvalgets syn er det behov for å klargjøre
-de gjeldende rutinene for behandling av gjentatte
-begjæringer i samme sak. Slik utvalget ser det,
-bør gjentatte begjæringer – hvor det fremmes
-materielle anførsler om gjenåpningsspørsmålet –
-enten behandles som en ny begjæring, eller som
-en omgjøringsbegjæring.51 Dersom det fremmes
-nye substansielle anførsler sammenholdt med forrige begjæring, bør den nye henvendelsen
-behandles som en ny begjæring, som svares ut
-med en ny avgjørelse av gjenåpningsspørsmålet.
-Dersom det derimot ikke fremmes nye anførsler,
-men kun hevdes at forrige avgjørelse var gal, eller
-bes om at saken vurderes på nytt eller lignende,
-kan det på den annen side være aktuelt å vurdere
-henvendelsen som en omgjøringsbegjæring.
-I alle tilfeller bør formuleringer om at saken
-ikke er tatt opp til ny behandling eller lignende,
-unngås. Slike formuleringer kan gi inntrykk av at
-henvendelsen ikke er vurdert. I tråd med alminnelige forvaltningsrettslige prinsipper bør også en
-ren omgjøringsbegjæring vurderes, selv om det
-kan stilles lempelige krav til begrunnelsen for å
-opprettholde forrige vedtak. Domfeltes rett til å
-begjære gjenåpning gjentatte ganger tilsier videre
-at henvendelsen bør svares ut med en ny begrunnelse dersom det er fremmet nye anførsler siden
-forrige begjæring. Av samme grunn bør det heller
-ikke gis uttrykk for at avgjørelsen er «endelig».
-At saken vurderes på nytt og svares ut med en
-substansiell begrunnelse, betyr imidlertid ikke at
-begrunnelsen må være omfattende. I tråd med
-gjeldende praksis må kommisjonen kunne vise til
-og/eller sitere tidligere vurderinger av samme
-spørsmål, så fremt den opprinnelige vurderingen
-og begrunnelsen var tilfredsstillende. For øvrig
-må det sikres at eventuelle nye anførsler av betydning utredes tilstrekkelig før den nye avgjørelsen
-treffes.
-Dersom domfelte har «klagd» på kommisjonens saksbehandling eller utredning, må kommisjonen vurdere om anførselen er berettiget, og om
-den gir grunn til å behandle saken på nytt og
-eventuelt treffe en ny avgjørelse. Det vil særlig
-være aktuelt å treffe en ny avgjørelse dersom feilen kan ha innvirket på resultatet, for eksempel
-dersom sider ved saken burde ha vært utredet
-51
-
-Høyesteretts ankeutvalg har lagt til grunn at kommisjonen
-– i tråd med alminnelige forvaltningsrettslige prinsipper –
-kan omgjøre en avgjørelse dersom en part ber om det, se
-Rt. 2014 s. 436 avsnitt 8. Se nærmere om gjentatte begjæringer og omgjøring av gjenåpningsavgjørelser i punkt
-8.9.2.
-
-[Side 212]
-
-210
-
-Kapittel 21
-
-NOU 2024: 24
-Prøvd på nytt
-
-nærmere før avgjørelsen ble truffet. Som vist
-over, synes dette å være i tråd med gjeldende rutiner. For øvrig bør kommisjonen vurdere om eventuelle saksbehandlingsfeil gir grunnlag for å
-endre på rutinene. Dersom «klagen» ikke fører
-frem, bør domfelte informeres om adgangen til å
-klage forholdet inn for Sivilombudet.
-Som nevnt i punkt 14.3 har kommisjonen innført en retningslinje om at gjentatte begjæringer i
-samme sak som hovedregel skal behandles av en
-annen utreder. Dette kan bidra til at kommisjonsmedlemmene får tilført nye perspektiver ved den
-nye behandlingen, samt at det tenkes nytt om
-behovet for nærmere utredning av saken. Utvalget støtter derfor denne praksisendringen og
-anbefaler at den videreføres.
-
-21.9 Offentlige saksbehandlingsrutiner
-Gjenopptakelseskommisjonens saksbehandlingsrutiner er i dag «interne» og er ikke publisert på
-kommisjonens nettsider. På nettsiden er det i stedet gitt en enkel oversikt over saksgangen, og det
-er lagt ut et skjema som kan fylles ut ved begjæring om gjenåpning.
-Som nevnt i punkt 21.4 har flere advokater
-utvalget har snakket med, gitt uttrykk for en opplevelse av manglende medvirkning og forutsigbarhet i behandlingen av sakene hos kommisjonen.
-Det pekes i den sammenheng blant annet på at
-det finnes lite tilgjengelig informasjon om saksbehandlingen.
-For å sikre medvirkning og transparens, og for
-å bidra til løpende tilbakemelding og utvikling,
-mener utvalget at kommisjonens saksbehandlingsrutiner bør publiseres. Det vises til at den
-engelske kommisjonen (CCRC) har publisert
-omfattende materiell på sine nettsider, som gir
-detaljert veiledning om de ulike sidene ved saksbehandlingen i kommisjonen. Den engelske kommisjonen har i samtaler med utvalget opplyst at de
-har fått positive tilbakemeldinger på dette fra
-domfelte, forsvarere og andre som har hatt saker
-hos dem, og at informasjon om saksgangen anses
-viktig for å sikre tilliten til kommisjonens arbeid.
-Utvalget er enig i dette synspunktet. Etter
-utvalgets syn bør i det minste de sentrale delene
-av saksbehandlingsrutinene offentliggjøres på
-Gjenopptakelseskommisjonens nettsider, herunder med oppdaterte rammer og veiledende frister for saksbehandlingen, samt retningslinjer for
-underretning av partene, jf. utvalgets forslag i
-punkt 21.3 og 21.4.
-
-21.10 Krav til utforming og begrunnelse
-av kommisjonens avgjørelser
-21.10.1 Behovet for ny regulering
-Det fremgår av straffeprosessloven § 399 første
-ledd første punktum at straffeprosesslovens
-regler om kjennelser gjelder for kommisjonens
-avgjørelse av om gjenåpning skal tillates. Det
-samme gjelder etter § 397 tredje ledd første punktum for avgjørelser som går ut på at begjæringen
-forkastes. At reglene om kjennelser i straffeprosessloven § 52 kommer til anvendelse, innebærer
-blant annet at de nevnte avgjørelsene må begrunnes.
-Forarbeidene gir nærmere veiledning om hvilken begrunnelse som kreves når begjæringen forkastes i medhold av § 397 tredje ledd. For øvrig
-sier forarbeidene lite om hvordan begrunnelseskravet konkret skal forstås for avgjørelser om
-gjenåpning. Kravene må derfor i stor grad utledes
-av rettspraksis og øvrige rettskilder om begrunnelseskravet for kjennelser. I juridisk teori er det
-antatt at det for kjennelser som avgjør det materielle kravet i saken, må gjelde samme krav til saksfremstilling og begrunnelse som for dommer.52
-Kommisjonens avgjørelser av om gjenåpning
-skal tillates eller ikke, jf. straffeprosessloven § 399
-første ledd første punktum, avgjør materielle
-spørsmål. Det er altså et vurderingstema som har
-stor betydning for siktede. Ettersom det normalt
-først har blitt vurdert om saken åpenbart ikke kan
-føre frem, jf. § 397 tredje ledd andre punktum, vil
-det gjennomgående være tale om ikke helt enkle
-og kurante vurderinger. Kravene som gjelder for
-dommer, jf. straffeprosessloven §§ 39–41, må derfor langt på vei antas å gjelde tilsvarende for kommisjonens avgjørelse av om gjenåpning skal tillates.
-Etter utvalgets syn er det samtidig klare forskjeller mellom domsgrunnene i straffesaker og
-avgjørelser som tar stilling til begjæringer om
-gjenåpning. For eksempel krever straffeprosessloven § 40 første ledd første punktum at «[n]år siktede domfelles, skal domsgrunnene for skyldspørsmålets vedkommende bestemt og uttømmende angi det saksforhold retten har funnet
-bevist som grunnlag for dommen, og vise til det
-straffebud han dømmes etter». En konsentrert
-beskrivelse av det hendelsesforløp retten har fun52
-
-NOU 2016: 24 s. 402 og Keiserud mfl. (2024), note 2 til
-straffeprosessloven § 52, ajourført 1. september 2024. Det
-samme gjelder i sivilprosessen, se NOU 2001: 32 s. 578–
-579. Se nærmere om begrunnelseskravet for kommisjonens avgjørelser i punkt 8.9.1.
-
-[Side 213]
-
-NOU 2024: 24
-Prøvd på nytt
-
-net bevist ut over enhver rimelig tvil, er nødvendig i straffesaker, hvor vurderingstemaet under
-skyldspørsmålet er om siktede har begått den
-handling som er beskrevet i tiltalebeslutningen,
-samt om handlingen er straffbar.
-Dette er derimot ikke problemstillingen i en
-gjenåpningssak. Her er spørsmålet snarere om
-domfelte har rett eller adgang til å få sin sak gjenåpnet basert på flere mulige rettsgrunnlag. I saker
-om gjenåpning til skade for siktede er spørsmålet
-om vilkårene i § 393 er oppfylt, og om påtalemyndigheten skal gis medhold i sitt krav om gjenåpning. Kommisjonen vurderer altså ikke først og
-fremst om et påstått hendelsesforløp er bevist,
-men om det skal gis medhold i et krav eller
-anmodning fremsatt av en part basert på lovbestemte vilkår. Vurderingstemaene for kommisjonens vedtak har altså større likhetstrekk med det
-som er vurderingstemaet i sivile saker, det vil si
-om saksøker skal gis medhold i det krav vedkommende fremsetter. Flere av reglene om domsgrunner i straffeprosessloven § 39–41 passer derfor mindre godt i lys av kommisjonens virksomhet.
-Etter utvalgets syn taler dette for at det bør gis
-en egen begrunnelsesregel for gjenåpningssaker.
-Det er ønskelig at loven tydeligere angir hvilke
-krav som stilles. Det vises i den sammenheng til
-utvalgets gjennomgang av kommisjonens avgjørelser i kapittel 16, som har vist at kommisjonens
-avgjørelser iblant kan fremstå noe mangelfullt
-begrunnet. Pedagogiske hensyn taler også for at
-begrunnelseskravet bør fremgå i tilknytning til de
-øvrige reglene om gjenåpning i straffeprosessloven kapittel 27.
-Utvalget foreslår at begrunnelseskravet for
-kommisjonens avgjørelser reguleres i en ny
-§ 398 c. Etter utvalgets vurdering bør begrunnelseskravet for kommisjonens avgjørelser være
-basert på en relativ standard, hvor kravene til
-begrunnelsen styres av de formål begrunnelsen
-skal ivareta.53 Forslaget til nytt begrunnelseskrav
-bør også regulere kommisjonens saksstyrende
-avgjørelser og administrative beslutninger.
-Ved utformingen av lovforslaget har utvalget
-sett hen til tvisteloven § 19-6 og Straffeprosessutvalgets forslag til § 32-7 om begrunnelse av rettslige avgjørelser. Utvalget slutter seg til Straffeprosessutvalgets synspunkter om hvordan et relativt
-begrunnelseskrav skal praktiseres:
-53
-
-Se NOU 2016: 24 s. 403–404 for en generell fremstilling av
-de ulike hensyn som kravet om begrunnelse er ment å
-ivareta.
-
-211
-
-Kapittel 21
-
-«Kravet må forstås med utgangspunkt i de
-underliggende hensyn som taler for å gi skriftlige begrunnelser, og regelen anvendes i lys av
-hvilke formål begrunnelsen kan tjene, ut fra
-den beslutning det er tale om, sakens karakter
-og om begrunnelsen gjelder rettens standpunkt til faktiske eller rettslige spørsmål.
-Innholdet skal variere i henhold til ulike
-egenskaper ved avgjørelsene som treffes. I en
-viss utstrekning vil det være mulig å peke på
-særskilte trekk ved typer avgjørelser som tilsier et særskilt begrunnelseskrav. Et ytterpunkt er at meget enkle saksstyrende avgjørelser med begrenset betydning for partene ikke
-skal begrunnes skriftlig, ettersom det vil være
-unødig bruk av tid og ressurser. Et annet ytterpunkt er at en dom i en drapssak skal begrunnes utførlig.»54
-Den foreslåtte bestemmelsen beskrives nærmere
-i punkt 20.10.2. Det vises for øvrig til spesialmerknadene til bestemmelsen i punkt 26.2.
-
-21.10.2 Nærmere om forslaget
-Utvalget foreslår å regulere kravene til utforming
-og begrunnelse av kommisjonens avgjørelser i en
-ny bestemmelse i straffeprosessloven § 398 c,
-som lyder slik:
-«Kommisjonens avgjørelse av om gjenåpning
-skal tillates, skal begrunnes. Så langt det er
-nødvendig for å forklare avgjørelsen, skal
-begrunnelsen omfatte
-a) en fremstilling av saken,
-b) en angivelse av partenes rettslige og faktiske anførsler, og
-c) en redegjørelse for kommisjonens rettsanvendelse og bevisvurdering.
-Det skal opplyses om avgjørelsen er
-enstemmig. Ved dissens skal det fremgå hvem
-som er uenig, og hvilke punkter uenigheten
-gjelder.
-Andre avgjørelser som treffes av kommisjonen, skal begrunnes så langt det er nødvendig
-for å forklare avgjørelsen. Ved vurderingen av i
-hvilken utstrekning begrunnelse skal gis, skal
-det særlig legges vekt på avgjørelsens innhold
-og betydning for partene. Begrunnelse kan
-unnlates når avgjørelsens art og øvrige
-omstendigheter gjør det forsvarlig.»
-54
-
-Se NOU 2016: 24 s. 405.
-
-[Side 214]
-
-212
-
-Kapittel 21
-
-NOU 2024: 24
-Prøvd på nytt
-
-Det fremgår av forslagets første ledd at kommisjonens avgjørelse av gjenåpningsspørsmålet skal
-omfatte en fremstilling av saken, en angivelse av
-partenes rettslige og faktiske anførsler og en
-redegjørelse for kommisjonens rettsanvendelse
-og bevisvurdering. Det fleksible og relative elementet i begrunnelseskravet fremgår av formuleringen om at begrunnelsen skal omfatte de nevnte
-elementene «så langt det er nødvendig for å forklare avgjørelsen». Andre ledd angir at det skal
-opplyses om avgjørelsen er enstemmig eller truffet under dissens. Første og andre ledd er i stor
-grad ment å videreføre og klargjøre kravene som
-etter gjeldende henvisning til reglene om kjennelse gjelder for kommisjonens avgjørelser av
-gjenåpningsspørsmålet, med noen presiseringer.
-Kravet til redegjørelse for bevisvurderingen
-medfører at kommisjonen må gjøre rede for
-hovedpunktene i kommisjonens syn på de relevante bevisspørsmålene. Kommisjonen må altså i
-en viss utstrekning forklare hvorfor den har konkludert som den har gjort. Hvor grundig redegjørelsen for bevisvurderingen skal være, må vurderes i det enkelte tilfellet i lys av begrunnelsespliktens formål. Sakens alvorlighetsgrad og kompleksitet, og hvor velbegrunnede anførslene synes å
-være, vil generelt ha vesentlig betydning. For
-øvrig vil det ofte være behov for en grundigere
-redegjørelse for bevisvurderingen når gjenåpningsbegjæringen avslås, enn i tilfeller hvor den
-tas til følge. Videre kan det være grunn til å
-begrunne en avgjørelse om å gjenåpne mer utførlig dersom saken har stor betydning for fornærmede. Normalt bør ellers saker om å gjenåpne til
-skade begrunnes utførlig. Generelt bør det også
-tas i betraktning at kommisjonens bevisvurdering
-i stor grad er endelig, og at den i utgangspunktet
-ikke kan prøves av domstolene.55 Det vises for
-øvrig til utvalgets bemerkninger om utformingen
-og begrunnelsene av kommisjonens avgjørelser i
-kapittel 16 og spesialmerknaden til den foreslåtte
-bestemmelsen i punkt 26.2.
-Kravet til begrunnelse i første og andre ledd er
-også ment å gjelde for avgjørelser om å forkaste
-begjæringen som treffes etter straffeprosessloven
-§ 397 tredje ledd. Utvalget har imidlertid foreslått
-å forenkle denne bestemmelsen. Alternativet om
-at begjæringen kan forkastes når den ikke inneholder noen «grunn som etter loven kan føre til
-gjenåpning», foreslås tatt ut, se punkt 22.2. I utvalgets forslag til § 397 nytt tredje ledd skilles det
-klarere mellom avvisning av begjæringer som
-ikke kan behandles av formelle grunner, jf. første
-55
-
-Se nærmere i kapittel 23.
-
-punktum, og forkasting av begjæringer som «åpenbart ikke kan føre frem», jf. andre punktum.
-Avgjørelser om å forkaste begjæringen fordi den
-åpenbart ikke kan føre frem, vil omfattes av
-bestemmelsen i første ledd.
-Etter § 397 tredje ledd fjerde punktum gjelder i
-dag et særskilt, forenklet begrunnelseskrav for
-avgjørelser som tas etter leddets første punktum.
-Etter utvalgets vurdering vil det særskilte begrunnelseskravet være overflødig ved siden av en slik
-relativ begrunnelsesregel som foreslått her. For
-avgjørelser om å avvise begjæringen på formelt
-grunnlag vil det sjelden være krevende å gi en
-kort begrunnelse for hvorfor begjæringen avvises, og behovet for et særskilt begrunnelseskrav
-synes derfor reelt sett ikke å være til stede. Har
-domfelte for eksempel begjært gjenåpning av en
-sivil sak eller en utenlandsk dom, vil det i en setning eller to kunne påpekes at gjenåpning av slike
-forhold ligger utenfor kommisjonens kompetanse.
-Utvalgets gjennomgang av kommisjonens avgjørelser viser også at det i praksis gis begrunnelser
-med et visst innhold når kommisjonen forkaster
-begjæringen på formelt grunnlag, se punkt
-16.3.3.56 Det foreslås på denne bakgrunn at den
-særskilte begrunnelsesregelen i § 397 tredje ledd
-fjerde punktum oppheves.
-Tredje ledd i den foreslåtte bestemmelsen
-regulerer kravet til begrunnelse for «andre avgjørelser som treffes av kommisjonen», herunder
-prosessledende avgjørelser og andre beslutninger
-av administrativ art som tas under saksforberedelsen, samt avgjørelser om å avvise begjæringen, jf.
-forslaget til § 397 tredje ledd nytt første punktum.
-Andre eksempler på avgjørelser som nevnes i
-loven, er beslutninger om oppnevning av offentlig
-forsvarer og bistandsadvokat (§ 397 andre ledd
-første og andre punktum), avgjørelser om å nekte
-domfelte og forsvarer innsyn i opplysninger for å
-unngå fare for et alvorlig lovbrudd mot noens liv,
-helse eller frihet (§ 398 fjerde ledd) og avgjørelser
-om å anmode påtalemyndigheten om å utføre nærmere angitte etterforskningsskritt (§ 398 b tredje
-ledd). Etter utvalgets vurdering bør også begrunnelseskravet for slike avgjørelser reguleres gjennom en formålsbasert standard. Ved vurderingen
-av hvor omfattende begrunnelsen skal være, skal
-det særlig legges vekt på avgjørelsens innhold og
-betydning for partene.
-
-56
-
-Etter gjeldende regler omtales slike avgjørelser som avgjørelser om å «forkaste» begjæringen. Etter utvalgets forslag
-til lovendring vil slike avgjørelser i stedet betegnes som en
-«avvisning» av begjæringen, se punkt 22.2.
-
-[Side 215]
-
-NOU 2024: 24
-Prøvd på nytt
-
-For å unngå unødig bruk av tid og ressurser
-bør loven åpne for at skriftlig begrunnelse helt
-kan unnlates dersom avgjørelsens art og øvrige
-omstendigheter gjør det forsvarlig. Dette vil
-typisk være aktuelt for en rekke enkle avgjørelser
-av praktisk og administrativ karakter, som også i
-dag tas formløst. Det vises til forslagets tredje
-ledd siste punktum.
-
-21.11 Innføring av lyd- og bildeopptak
-av rettsforhandlingene
-I vurderingen av om vilkårene for gjenåpning er
-oppfylt, må Gjenopptakelseskommisjonen ta stilling til bevisene som talte for domfellelse da saken
-opprinnelig ble behandlet i retten. Det kan være
-vanskelig, særlig fordi man i norske domstoler i
-liten grad har dokumentert forhandlingene gjennom lyd- og bildeopptak. Domstolene57 og Gjenopptakelseskommisjonen58 har derfor til tider
-vært nødt til å se hen til avisoppslag om domstolsbehandlingen for å avdekke hva som ble sagt i
-rettsmøtet. For vitneforklaringer kan dette iblant
-være eneste kilde til informasjon.
-Spørsmålet om det bør innføres krav om lydog bildeopptak av rettsforhandlingene i norske
-straffesaker, har vært reist i en rekke rapporter
-og utredninger de siste tiårene, også med tanke
-på betydningen for gjenåpningssaker. Allerede i
-forarbeidene til straffeprosessloven 1981 ble det
-pekt på at det ville være viktig å sikre bevisene i
-straffesaken etter at saken var rettskraftig avgjort,
-og at en mulighet kunne være å ta hovedforhandlingen opp på lydbånd. Ifølge Straffeprosesslovkomitéen var dette særlig viktig fordi det var foreslått å endre reglene slik at gjenåpningssaken
-skulle avgjøres av en annen dommer enn den som
-avsa den angrepne dommen.59 Problemstillingen
-ble i tillegg tatt opp blant annet i utredningen om
-Per Liland-saken60 og i forbindelse med Stortingets vedtakelse av lovendringene som førte til
-opprettelsen av Gjenopptakelseskommisjonen,61
-samt av Straffeprosessutvalget.62 Gjenopptakelseskommisjonen har også selv gjentatte ganger –
-57
-
-Se bl.a. Høyesteretts uttalelser i Rt. 2001 s. 1521 (Torgersen II) på s. 1541: «I en viss, men begrenset, utstrekning
-kan avisoppslag fra rettsforhandlingene tenkes å kaste et
-supplerende lys over det som fremkom.»
-58 Gjenopptakelseskommisjonens siste avgjørelse av Viggo
-Kristiansens begjæringer i Baneheia-saken (GK-2020-82) er
-et eksempel på at kommisjonen benyttet avisoppslag i stor
-grad for å belyse rettens behandling av ulike spørsmål.
-59 Se NUT 1969: 3 s. 341. Se nærmere om denne praksisendringen i punkt 3.3.2.
-60 Se NOU 1996: 15 punkt 10.7.
-
-213
-
-Kapittel 21
-
-senest i årsrapporten for 2023 – tatt til orde for at
-lyd- og bildeopptak av forhandlingene bør komme
-på plass.63
-Siden 2018 har straffeprosessloven § 23 stilt
-krav om at det tas lyd- og bildeopptak av forklaringene til parter, vitner og sakkyndige under hovedog ankeforhandlinger i straffesaker. Etter § 23
-andre ledd kan opptak imidlertid unnlates dersom
-retten ikke har nødvendig utstyr for opptak, eller
-hvis forklaringene inntas i rettsboken.64 Til tross
-for at lovens hovedregel nå er at det skal gjøres
-opptak i straffesaker, er den praktiske hovedregelen derfor likevel at det ikke tas opptak. Grunnen
-er at de færreste domstoler i dag har nødvendig
-opptaksutstyr, og at den nevnte unntaksbestemmelsen derfor benyttes i stor grad. Den manglende oppgraderingen av rettssalene må ses i
-sammenheng med begrensede bevilgninger fra
-Stortinget, men også at de praktiske sidene ved
-ordningen har vært gjenstand for flere prøveprosjekter.65
-Etter utvalgets syn er det uheldig at innføring
-av lyd- og bildeopptak ikke har skjedd tidligere. I
-statsbudsjettet for 2024 ble det imidlertid bevilget
-15 millioner kroner for å legge til rette for lyd- og
-bildeopptak i domstoler over hele landet, jf. Prop.
-1 S (2023–2024). I saldering av statsbudsjettet for
-2023 fikk domstolene dessuten 25 millioner kroner til å erstatte utdatert teknisk videokonferanseutstyr, jf. Prop. 19 S (2023–2024). Mest sannsynlig
-vil utstyret også kunne brukes til å gjøre opptak.
-Regjeringen har uttalt at alle domstoler i løpet av
-2025 skal ha minimum ett rettssted i hver rettskrets med utstyr som gjør det mulig å ta opptak.66 I statsbudsjettet for 2025 ble det foreslått å
-øke bevilgningene med ytterligere 6,5 millioner
-kroner i 2025 for å legge til rette for lyd- og bildeopptak i én rettssal på de rettsstedene som man-
-
-61
-
-Se Innst. O. nr. 114 (2000–2001) punkt 8 B: «Stortinget ber
-Regjeringen i statsbudsjettet for 2002 redegjøre for ordningen med lydopptak i rettssaler, og fremme eventuelle forslag om en permanent ordning med lydopptak av hovedforhandling i straffesaker.»
-62 Se NOU 2016: 24 punkt 6.5.
-63 Se Gjenopptakelseskommisjonens årsrapport for 2023 s. 2.
-64 Bestemmelsen ble endret ved lov 22. juni 2018 nr. 79, og er
-utformet etter mønster av den tilsvarende regelen i tvisteloven § 13-7, jf. Prop. 63 L (2017–2018) s. 12–13.
-65
-Blant annet har Domstolsadministrasjonen siden 2016 hatt
-en prøveordning med lyd- og bildeopptak i daværende
-Nord-Troms tingrett (nå Nord-Troms og Senja tingrett) og
-Hålogaland lagmannsrett, se Prop. 63 L (2017–2018) s. 8–9.
-Prosjektet ble først avsluttet ved oversendelse av sluttrapport til Justis- og beredskapsdepartementet 3. juli 2023.
-66 Justis- og beredskapsdepartementet (14.05.24) punkt 1.6.
-Se også Prop. 104 S (2023–2024) s. 38–39.
-
-[Side 216]
-
-214
-
-Kapittel 21
-
-NOU 2024: 24
-Prøvd på nytt
-
-gler tilstrekkelig utstyr. I budsjettproposisjonen
-heter det:
-«Løyvinga skal leggje til rette for at ein frå
-hausten 2025 kan starte utrullinga av opptaksløysinga ved alle rettsstader. Tiltaket vil
-bidra til å auke rettstryggleiken ved at det blir
-enklare å ettergå forklaringar som er gitt i tingretten.»67
-
-Utviklingen går altså i retning av at det legges til
-rette for lyd- og bildeopptak i stadig flere norske
-rettssaler, noe som etter utvalgets syn er positivt.
-Opptak av rettsforhandlingene vil både kunne
-bidra til å gjøre vurderingen av gjenåpningsbegjæringen enklere, og i tillegg gjøre beslutningsgrunnlaget bedre for domstolene ved den nye
-behandlingen av saken etter gjenåpning. Ved den
-nye rettsbehandlingen vil man kunne benytte lydog bildeopptak av blant annet vitneforklaringer
-som bevis, for eksempel dersom påtalemyndigheten innstiller på at siktede bør dømmes på ny.
-Dette vil også kunne gjøre betenkelighetene ved å
-gjenåpne gamle saker mindre. Samtidig ser det ut
-til at situasjonen fortsatt – iallfall på kort sikt – vil
-være at det ikke tas opptak av mange av straffesakene som går for norske domstoler. Utvalget vil
-derfor understreke behovet for ytterligere bevilgninger til dette formålet, slik at det på sikt kan tas
-opptak i alle saker.
-Utvalget anbefaler videre at det tas opptak av
-rettsforhandlingene i sin helhet, ikke bare partsog vitneforklaringene. En slik ordning vil være i
-tråd med Straffeprosessutvalgets forslag og har
-prinsipielle og praktiske fordeler.68 Sikker infor67
-
-Prop. 1 S (2024–2025) s. 81.
-
-masjon om aktors innledningsforedrag og partenes prosedyreinnlegg kan ha betydning i flere
-sammenhenger, og kanskje særlig ved en eventuell begjæring om gjenåpning. Etter gjeldende rett
-beror det på rettens skjønn om andre deler av forhandlingene skal tas opp, jf. straffeprosessloven
-§ 23 første ledd andre punktum. Utvalget kan ikke
-se at det gjør seg gjeldende noen avgjørende motforestillinger mot en hovedregel om at det tas opptak av alle deler av forhandlingene.
-Utvalget vil også understreke at det er viktig at
-opptakene oppbevares lenge nok til at de kan brukes i forbindelse med en eventuell gjenåpningsbegjæring. I straffesaker gjelder ingen tidsfrist for
-gjenåpning.69 I utgangspunktet bør opptakene i
-straffesaker derfor oppbevares frem til gjenåpning i praksis er utelukket.
-Det pågår for tiden et arbeid med å revidere
-regelverket på dette området. I forlengelsen av
-tidligere prøveprosjekter satte Domstoladministrasjonen i 2023 i gang et nytt prøveprosjekt i form
-av et samarbeid mellom Oslo tingrett, Borgarting
-lagmannsrett, Nord-Troms og Senja tingrett og
-Hålogaland lagmannsrett. I prosjektet skal både
-de praktiske sidene ved innføring av lyd- og bildeopptak og nødvendige regelverksendringer vurderes.70 Utvalget har derfor ikke foreslått konkrete
-regelendringer.
-68
-
-NOU 2016: 24 s. 683–684.
-For sivile saker er fristen derimot ti år, jf. tvisteloven § 31-6.
-70 I Prop. 1 S (2024–2025) s. 80–81 heter det om prosjektet:
-«Målet med prosjektet er å finne fram til den best eigna tekniske løysinga for opptak, i tillegg til å vurdere strøyming,
-lagring, deling og gjenbruk av opptaka. Arbeidsgruppa vil i
-løpet av 2024 også vurdere behovet for å ev. fremme forslag
-til regelverksendringar. Innan utgangen av 2025 skal den
-tekniske løysinga gradvis rullast ut i domstolane.»
-69
-
-[Side 217]
-
-NOU 2024: 24
-Prøvd på nytt
-
-215
-
-Kapittel 22
-
-Kapittel 22
-
-Vilkår for gjenåpning
-22.1 Innledning
 I dette kapittelet foreslås enkelte endringer i vilkårene for å begjære gjenåpning, adgangen til å forkaste begjæringer og de materielle gjenåpningsvilkårene.
-Det foreslås i punkt 22.2 å klargjøre vilkårene
-for når en begjæring kan forkastes etter forenklet
-behandling, jf. straffeprosessloven § 397 tredje
-ledd. I punkt 22.3 foreslås det å fjerne alternativet
-«avvisning» fra gjenåpningsgrunnlagene i § 391
-nr. 3. I punkt 22.4 tas det til orde for å fjerne retten
-for ektefelle, slektninger og arvinger til å begjære
-gjenåpning. Endelig foreslås det i punkt 22.5 å forhøye terskelen for gjenåpning av dommer som er
-eldre enn 25 år.
 
-22.2 Forenkling av vilkårene for
-å forkaste begjæringer
-Vilkårene for å forkaste gjenåpningsbegjæringen
-etter forenklet behandling følger av straffeprosessloven § 397 tredje ledd første og andre punktum:
-«Gjelder begjæringen en avgjørelse som etter
-sin art ikke kan gjenåpnes, eller inneholder
-den ingen grunn som etter loven kan føre til
-gjenåpning, kan kommisjonen uten nærmere
-behandling forkaste begjæringen etter reglene
-om kjennelse. Det samme gjelder hvor begjæringen av andre grunner åpenbart ikke kan
-føre frem.»
+Det foreslås i punkt 22.2 å klargjøre vilkårene for når en begjæring kan forkastes etter forenklet behandling, jf. straffeprosessloven § 397 tredje ledd. I punkt 22.3 foreslås det å fjerne alternativet «avvisning» fra gjenåpningsgrunnlagene i § 391 nr. 3. I punkt 22.4 tas det til orde for å fjerne retten for ektefelle, slektninger og arvinger til å begjære gjenåpning. Endelig foreslås det i punkt 22.5 å forhøye terskelen for gjenåpning av dommer som er eldre enn 25 år.
 
-Alternativet om avgjørelser som «etter sin art ikke
-kan gjenåpnes», gjelder avgjørelser som formelt
-sett ikke kan behandles i kommisjonen, altså
-saker som ligger utenfor kommisjonens myndighet. Eksempler på dette er sivile saker, utenlandske dommer, vedtatte forelegg, forvaltningsvedtak og henleggelsesbeslutninger. Det praktiske
-alternativet for å forkaste begjæringen på materi-
+## Forenkling av vilkårene for å forkaste begjæringer
 
-elt grunnlag er alternativet i andre punktum, om
-begjæringer som «åpenbart ikke kan føre frem».1
-Etter første punktum andre alternativ kan
-begjæringen også forkastes dersom den ikke
-inneholder noen «grunn som etter loven kan føre
-til gjenåpning». Hvordan dette alternativet skal
-forstås, er i liten grad utdypet i forarbeidene. Ordlyden tilsier at begjæringen må fremstå ubegrunnet, altså at det ikke er pekt på noen forhold som
-kan tilsi at dommen er feil eller at gjenåpningsvilkårene for øvrig er oppfylt. På den annen side kan
-det virke vanskelig å forstå hvordan dette skiller
-seg fra tilfeller hvor begjæringen åpenbart ikke
-kan føre frem.
-Utvalgets gjennomgang av kommisjonens
-avgjørelser tyder på at kommisjonen sjelden viser
-til dette alternativet som begrunnelse for å forkaste. I avgjørelsene utvalget har sett på, er det
-kun vist til dette alternativet i noen avgjørelser fra
-de første årene etter at kommisjonen ble etablert.
-Det ser ut til at kommisjonen i disse tilfellene forstod alternativet som synonymt med alternativet i
-§ 397 tredje ledd andre punktum («åpenbart ikke
-kan føre frem»).2
-Etter utvalgets syn er det grunn til å forenkle
-vilkårene for å forkaste begjæringer. Utvalget
-mener for det første at alternativet om begjæringer som ikke inneholder noen «grunn som etter
-loven kan føre til gjenåpning», bør fjernes. Det
-vises til at begrunnelsen for dette alternativet
-fremstår uklar, at alternativet synes å ha liten selvstendig betydning utover alternativet i andre
-punktum, og at det heller ikke ser ut til å bli benyttet i praksis.
-Utvalget mener videre at dette alternativet
-fremstår lite praktisk sett i lys av kommisjonens
-veiledningsplikt, jf. § 397 første ledd. I forarbeidene er det gitt uttrykk for at kommisjonen både
-bør veilede domfelte om formelle mangler ved
-begjæringen, og at kommisjonen til en viss grad
-også bør bistå vedkommende med å «avdekke
-1
-2
+Vilkårene for å forkaste gjenåpningsbegjæringen etter forenklet behandling følger av straffeprosessloven § 397 tredje ledd første og andre punktum:
 
-Se nærmere i punkt 8.4.
-Se punkt 16.3.3.
+«Gjelder begjæringen en avgjørelse som etter sin art ikke kan gjenåpnes, eller inneholder den ingen grunn som etter loven kan føre til gjenåpning, kan kommisjonen uten nærmere behandling forkaste begjæringen etter reglene om kjennelse. Det samme gjelder hvor begjæringen av andre grunner åpenbart ikke kan føre frem.»
+
+Alternativet om avgjørelser som «etter sin art ikke kan gjenåpnes», gjelder avgjørelser som *formelt* sett ikke kan behandles i kommisjonen, altså saker som ligger utenfor kommisjonens myndighet. Eksempler på dette er sivile saker, utenlandske dommer, vedtatte forelegg, forvaltningsvedtak og henleggelsesbeslutninger. Det praktiske alternativet for å forkaste begjæringen på *materielt* grunnlag er alternativet i andre punktum, om begjæringer som «åpenbart ikke kan føre frem».[^1086]
+
+Etter første punktum andre alternativ kan begjæringen også forkastes dersom den ikke inneholder noen «grunn som etter loven kan føre til gjenåpning». Hvordan dette alternativet skal forstås, er i liten grad utdypet i forarbeidene. Ordlyden tilsier at begjæringen må fremstå ubegrunnet, altså at det ikke er pekt på noen forhold som kan tilsi at dommen er feil eller at gjenåpningsvilkårene for øvrig er oppfylt. På den annen side kan det virke vanskelig å forstå hvordan dette skiller seg fra tilfeller hvor begjæringen åpenbart ikke kan føre frem.
+
+Utvalgets gjennomgang av kommisjonens avgjørelser tyder på at kommisjonen sjelden viser til dette alternativet som begrunnelse for å forkaste. I avgjørelsene utvalget har sett på, er det kun vist til dette alternativet i noen avgjørelser fra de første årene etter at kommisjonen ble etablert. Det ser ut til at kommisjonen i disse tilfellene forstod alternativet som synonymt med alternativet i § 397 tredje ledd andre punktum («åpenbart ikke kan føre frem»).[^1087]
+
+Etter utvalgets syn er det grunn til å forenkle vilkårene for å forkaste begjæringer. Utvalget mener for det første at alternativet om begjæringer som ikke inneholder noen «grunn som etter loven kan føre til gjenåpning», bør fjernes. Det vises til at begrunnelsen for dette alternativet fremstår uklar, at alternativet synes å ha liten selvstendig betydning utover alternativet i andre punktum, og at det heller ikke ser ut til å bli benyttet i praksis.
+
+Utvalget mener videre at dette alternativet fremstår lite praktisk sett i lys av kommisjonens veiledningsplikt, jf. § 397 første ledd. I forarbeidene er det gitt uttrykk for at kommisjonen både bør veilede domfelte om formelle mangler ved begjæringen, og at kommisjonen til en viss grad også bør bistå vedkommende med å «avdekke grunner som kan tilsi at saken bør behandles på nytt».[^1088] At begjæringen ikke inneholder tilstrekkelig informasjon eller er mangelfull, bør ikke føre til at den straks forkastes.[^1089] Det må antas at domfelte – etter veiledning – som regel vil kunne peke på enkelte forhold som etter hans eller hennes syn tilsier at dommen er uriktig, noe som i det minste kan foranledige en vurdering av § 392 andre ledd. I slike tilfeller virker det mest naturlig at begjæringen eventuelt forkastes fordi den «åpenbart ikke kan føre frem», slik det også gjøres i praksis.
+
+Utvalget foreslår videre å endre ordlyden slik at det klargjøres at alternativet i første punktum skal gjelde *avvisning* av saken på formelt grunnlag. Etter den foreslåtte bestemmelsen kan kommisjonen avvise saken uten nærmere behandling dersom den gjelder en avgjørelse som etter sin art ikke kan gjenåpnes, eller begjæringen av andre grunner ikke kan behandles hos kommisjonen. Formuleringen tydeliggjør at begjæringen også kan avvises på annet grunnlag enn at den gjelder en avgjørelse som ikke kan gjenåpnes, for eksempel dersom en dom begjæres gjenåpnet av noen som ikke har rett til å begjære gjenåpning.
+
+Alternativet i andre punktum («åpenbart ikke kan føre frem») opprettholdes uendret, men med en språklig tilpasning. Henvisningen til reglene om kjennelse er også tatt ut.
+
+Henvisningen til reglene om kjennelse foreslås erstattet av en ny, generell bestemmelse om utforming og begrunnelse av kommisjonens avgjørelser, se punkt 21.10. Bestemmelsen er ment å regulere både avgjørelser om å avvise og forkaste begjæringen, se utvalgets forslag til § 397 nytt tredje ledd første og andre punktum. Det forenklede begrunnelseskravet i nåværende § 397 tredje ledd fjerde punktum foreslås derfor tatt ut, se nærmere i punkt 21.10.
+
+Avgjørelse om å forkaste eller avvise begjæringen skal fortsatt kunne treffes av leder eller nestleder alene, jf. § 397 tredje ledd tredje punktum.
+
+## Fjerning av avvisningsalternativet i § 391 nr. 3
+
+Det følger av straffeprosessloven § 391 nr. 3 at gjenåpning til gunst for siktede kan kreves
+
+«\[…\] når det opplyses en ny omstendighet eller skaffes frem et nytt bevis som synes egnet til å føre til frifinnelse eller avvisning eller til anvendelse av en mildere strafferegel eller en vesentlig mildere rettsfølge.»
+
+Alternativet om gjenåpning grunnet bevis eller omstendigheter som synes egnet til å føre til «avvisning», ble innført ved vedtakelsen av straffeprosessloven 1981. Endringen ble i liten grad omtalt i forarbeidene. Det fremgår der kun at avvisning er «nevnt ved siden av frifinnelse, jf. tvistemålsloven § 407 nr. 5, som nevner blant gjenopptakelsesgrunnene at det ‘skaffes frem en eldre dom som rettskraftig har avgjort saken’».[^1090] Om også andre grunner som innebærer at saken skulle ha vært avvist for domstolene, kan føre til gjenåpning, virker etter forarbeidene uklart. I teorien er det imidlertid lagt til grunn at også brudd på andre absolutte prosessforutsetninger – dvs. prosessforutsetninger som retten av eget tiltak må påse at er til stede før saken pådømmes – vil kunne føre til gjenåpning etter bestemmelsen[^1091].
+
+En undersøkelse har vist at Gjenopptakelseskommisjonen i de fleste tilfeller har vurdert anførsler om saksbehandlingsfeil som kunne ført til avvisning av saken, etter § 392 andre ledd, og ikke etter 391 nr. 3. Undersøkelsen tyder videre på at kommisjonen ikke skiller klart mellom de to bestemmelsene i slike tilfeller, og at valget av hjemmel kan virke vilkårlig.[^1092] Utvalgets gjennomgang av kommisjonens avgjørelser har bekreftet dette inntrykket.[^1093] I én avgjørelse har kommisjonen eksempelvis vurdert en anførsel om at saken allerede var rettskraftig avgjort, etter § 392 andre ledd, selv om denne avvisningsgrunnen uttrykkelig er nevnt i forarbeidene i forbindelse med innføringen av avvisningsalternativet i § 391 nr. 3.[^1094]
+
+Utover valget av hjemmel reiser gjenåpning grunnet saksbehandlingsfeil som skulle ha ført til avvisning, også andre uavklarte spørsmål. Etter lovens ordlyd synes det å være tilstrekkelig for gjenåpning etter § 391 nr. 3 at det kan påvises en avvisningsgrunn, uten at saksbehandlingsfeilen nødvendigvis må ha innvirket på resultatet i dommen. Bestemmelsen i § 391 nr. 3 gir domfelte *krav* på gjenåpning så lenge vilkårene er oppfylt. Likevel har kommisjonen i enkelte tilfeller også vurdert om feilen har innvirket på resultatet, selv om feilen er vurdert som en avvisningsgrunn opp mot § 391 nr. 3.[^1095] For øvrig har kommisjonen i flere avgjørelser – både etter § 391 nr. 3 og § 392 andre ledd – sett hen til om den aktuelle feilen er av en slik art at den ville ha ført til *opphevelse* dersom den hadde blitt påberopt i anke over dommen, altså om det er snakk om en absolutt opphevelsesgrunn, jf. § 343 andre ledd.[^1096] Det kan spørres om dette er et relevant vurderingstema etter § 391 nr. 3.
+
+På bakgrunn av dette mener utvalget at det er grunn til å fjerne alternativet om gjenåpning grunnet bevis eller omstendigheter som synes egnet til å føre til «avvisning» i § 391 nr. 3. Det vises til at begrunnelsen for bestemmelsen virker uklar, at den i liten grad benyttes, og at praktiseringen av bestemmelsen på mange måter fremstår usikker.
+
+Utvalget mener videre at det også for saksbehandlingsfeil som skulle ha ført til avvisning, bør være en forutsetning for gjenåpning at feilen kan ha innvirket på resultatet i dommen. Ved å fjerne avvisningsalternativet i § 391 nr. 3 klargjøres det at også slike saksbehandlingsfeil skal vurderes etter § 392 andre ledd. Vilkåret om at særlige forhold må gjøre det «tvilsomt om dommen er riktig», innebærer da at det må gjøres en vurdering av om feilen kan ha hatt betydning for domfellelsen. Som nevnt praktiserer kommisjonen også i dag et slikt krav i de fleste saker om gjenåpning grunnet feil som skulle ledet til avvisning.
+
+Det vises for øvrig til at kommisjonen – i tråd med høyesterettspraksis – regelmessig vektlegger om det er snakk om en alvorlig saksbehandlingsfeil,[^1097] og eventuelt om gjenåpning er nødvendig for å reparere folkerettsbrudd,[^1098] i vurderingen av om gjenåpning skal skje etter § 392 andre ledd. Det forutsettes at praksis på dette området videreføres også for vurderingen av gjenåpning grunnet saksbehandlingsfeil som skulle ha ført til avvisning.
+
+Endringen foreslås gjennomført ved at alternativet «avvisning» fjernes fra § 391 nr. 3 første punktum.
+
+## Fjerning av ektefelles, slektningers og arvingers rett til å begjære gjenåpning
+
+Straffeprosessloven § 389 andre ledd bestemmer at reglene i lovens §§ 307–309 gjelder tilsvarende ved gjenåpning. Det fremgår av § 308 at hvis siktede er død, kan hans ektefelle, slektninger i rett opp- eller nedstigende linje og arvinger anke i hans sted. Altså har alle som kan påvise å være arving av en domfelt som er død, ubegrenset adgang til å begjære straffesaken gjenåpnet på vegne av vedkommende. Kommisjonen har opplyst at den mottar en del begjæringer om gjenåpning fra arvinger hvor det har gått lang tid siden domfelte avgikk ved døden.
+
+Bestemmelsen i § 308 er begrunnet i hensynene til avdødes ettermæle og de etterlattes behov for gjenopprettelse.[^1099] Ankefristen i straffesaker er som utgangspunkt to uker fra den dag dommen er avsagt, jf. straffeprosessloven § 310 første ledd. For de etterlatte regnes fristen fra tidspunktet da de fikk kunnskap om dødsfallet.[^1100] Det er dermed tale om en tidsbegrenset adgang for etterlatte til å anke en straffesak. Når etterlattes ankerett gis anvendelse for gjenåpning, gjelder gjenåpningsadgangen derimot uten tidsbegrensning.
+
+Etter utvalgets syn er taler flere grunner for å begrense adgangen til å begjære gjenåpning på vegne av avdøde. For det første kan det anses å være problematisk opp mot grunnleggende prosessuelle regler å la etterlatte representere avdøde i en prosess om gjenåpning. Kommisjonen vil ikke kunne avhøre domfelte, og domfelte får ikke mulighet til kontradiksjon. Kommisjonen vil heller ikke alltid kunne vite sikkert om avdøde ønsket at kommisjonen skulle behandle saken. Den europeiske menneskerettighetsdomstolen (EMD) har uttalt følgende om straffeforfølgning av døde personer og retten til en rettferdig rettergang i EMK artikkel 6 nr. 1:
+
+«A trial of a dead person inevitably runs counter to the above principles, because by its very nature it is incompatible with the principle of the equality of arms and all the guarantees of a fair trial. Moreover, it is self evident that it is not possible to punish an individual who has died, and to that extent at least the criminal justice process is stymied. Any punishment imposed on a dead person would violate his or her dignity. Lastly, a trial of a dead person runs counter to the object and purpose of Article 6 of the Convention, as well as to the principle of good faith and the principle of effectiveness inherent in that Article.»[^1101]
+
+En prosess om gjenåpning til domfeltes gunst er noe annet enn en straffesak mot en avdød, og EMK artikkel 6 kommer neppe til anvendelse for Gjenopptakelseskommisjonens virksomhet.[^1102] Grunnleggende prosessuelle rettssikkerhetsgarantier bør likevel iakttas ved enhver form for offentlig saksbehandling, herunder for Gjenopptakelseskommisjonen.
+
+Gjenåpningsprosessen kan i slike tilfeller også skape utfordringer med tanke på uskyldspresumsjonen, jf. EMK artikkel 6 nr. 2. Utfallet av behandlingen kan bli at kommisjonen nekter gjenåpning. Avgjørelsen om å nekte gjenåpning kan i noen tilfeller oppfattes som en «indirekte» konstatering av domfeltes skyld. I relasjon til straffeprosessloven § 391 nr. 3 kan grunnen være at nye omstendigheter eller bevis ikke synes «egnet til» å føre til frifinnelse eller annen relevant endring av dommen. I et slikt tilfelle vil kommisjonen konkludere med at det ikke er en rimelig mulighet for at det nye sett i sammenheng med det opprinnelige bevisbildet, ville lede til frifinnelse. Hvis det er begjært gjenåpning etter § 392 andre ledd, vil kommisjonen i mange tilfeller gjøre en ren omvurdering av det opprinnelige bevisbildet i saken.
+
+EMD har uttalt om uskyldspresumsjonen at «it is a fundamental rule in criminal law that criminal liability does not survive the person who committed the criminal act».[^1103] Høyesterett har også lagt til grunn at domstolene ikke skal gjøre realitetsvurderinger av om siktede er skyldig etter hans død.[^1104] Disse uttalelsene gjaldt spørsmålet om domfellelse av en avdød. Et avslag på begjæring om gjenåpning innebærer ikke en direkte konstatering av straffskyld på samme måte som i straffesaken. Det er etter utvalgets mening likevel ikke uproblematisk at det etter domfeltes død gjøres nye vurderinger av bevisene i straffesaken mot domfelte, som kan oppfattes en indirekte konstatering av vedkommendes skyld.
+
+Etter utvalget syn er det også problematisk med tanke på kravet til menneskeverd («human dignity») og retten til selvbestemmelse å la etterlatte fremme begjæring om gjenåpning uten at man har sikker kunnskap om at avdøde ønsket å gjenåpne saken. Grunnet respekten for selvbestemmelsesrett og menneskeverd bør det kreves klare holdepunkter for at domfelte ønsket at saken skulle vurderes på nytt og potensielt gjenåpnes etter vedkommendes død. Ofte vil det ikke finnes sikre holdepunkter for dette.
+
+Et ytterligere hensyn som taler mot en vid adgang til gjenåpning etter domfeltes død, er at gamle straffedommer gjennomgående vil være vanskelige å vurdere ut fra bevisbildet. Dersom det har gått lang tid fra saken ble behandlet i domstolene, vil det ofte være vanskelig både å vurdere hvordan bevisbildet opprinnelig var da retten traff sin avgjørelse, og ikke minst å etterforske saken på nytt dersom den blir gjenåpnet. Det vises til utvalgets vurdering av dette temaet i punkt 22.5.
+
+Endelig har det en side til ressursbruk å tillate at etterkommere gis rett til å begjære gjenåpning på vegne av en avdød. En opphevelse av denne adgangen vil frigjøre tid og ressurser for Gjenopptakelseskommisjonen. Disse ressursene kan brukes på gjenåpningssaker hvor den domfelte fortsatt er i live. Etter utvalgets syn bør disse sakene prioriteres.
+
+Utvalget er etter dette kommet til at ektefelle, slektninger i rett opp- eller nedstigende linje og arvinger ikke bør ha rett til å begjære gjenåpning på vegne av avdøde. Man kunne tenkt seg at etterlatte ble gitt rett til å begjære gjenåpning hvis begjæringen utelukkende gjaldt lovanvendelsen eller saksbehandlingen i dommen som begjæres gjenåpnet. Utvalget er imidlertid kommet til at etterlatte heller ikke bør ha rett til å begjære gjenåpning på vegne av avdøde i disse tilfellene. Også i slike tilfeller vil det kunne oppstå et spenningsforhold mot uskyldspresumsjonen i tilfellene hvor kommisjonen nekter gjenåpning. Det foreslås derfor at henvisningen til straffeprosessloven § 308 i § 389 andre ledd tas ut.
+
+Et annet spørsmål er om ektefelle, slektninger i rett opp- eller nedstigende linje og arvinger bør ha rett til å tre inn i saken på vegne av avdøde hvis domfelte har brakt saken inn for kommisjonen før vedkommende døde. Utvalget mener at etterlatte heller ikke bør ha en slik rett. Det vises til de nevnte utfordringer med tanke på kravene til en rettferdig rettergang i EMK artikkel 6 nr. 1 og uskyldspresumsjonen i artikkel 6 nr. 2.
+
+Det fremgår av straffeprosessloven § 394 andre ledd at dersom særlige grunner taler for det, kan kommisjonen bestemme at en avgjørelse som retter seg mot en avdød person, skal gjenåpnes uten at noen har begjært det. Begrunnelsen for bestemmelsen er at det i alvorlige saker kan oppfattes som støtende hvis det ikke skulle være mulig å fjerne et uriktig straffestempel fra en persons ettermæle uten at det foreligger noen begjæring.[^1105] Utvalget mener at denne bestemmelsen varetar hensynet til avdødes ettermæle og rettssystemets behov for å korrigere åpenbart uriktige domfellelser etter at domfelte er død. Utvalget foreslår derfor at denne bestemmelsen videreføres. Ved utøvelsen av skjønnet om saken skal gjenåpnes, må det inngå i vurderingen at det er krevende å oppfylle grunnleggende prosessuelle regler når domfelte er død. Grunnet de nevnte hensynene, og særlig hensynet til å vareta uskyldspresumsjonen, mener utvalget for øvrig at kommisjonen ikke bør utforme en avgjørelse som går ut på saken ikke gjenåpnes, i tilfeller hvor kommisjonens vurdering etter § 394 andre ledd ikke fører frem.
+
+Hvis kommisjonen gjenåpner en sak og domfelte er død, følger det av straffeprosessloven § 400 femte ledd første punktum at retten skal avsi frifinnende dom uten hovedforhandling, og altså uten at saken realitetsprøves.
+
+## Høyere terskel for gjenåpning av dommer eldre enn 25 år
+
+Dersom det har gått lang tid siden straffesaken ble behandlet i retten, vil det ofte være vanskelig både å vurdere hvordan bevisbildet opprinnelig var da retten traff sin avgjørelse, og ikke minst å etterforske saken på nytt dersom den blir gjenåpnet. I praksis vil gjenåpning til gunst av en «gammel sak» derfor kunne være synonymt med frifinnelse. I forarbeidene til straffeprosessloven er det av den grunn pekt på at det knytter seg særlige betenkeligheter til gjenåpning av gamle saker:
+
+«Gjenopptakelse betyr et brudd på det viktige prinsipp om dommers rettskraft – at dommen er endelig og bindende – og bør fortsatt være noe ekstraordinært. Særlig knytter det seg betenkeligheter til gjenopptakelse av gamle saker. Som regel vil muligheten for å føre bevis i en sak svekkes etter hvert som tiden går, og er det gått lang tid siden dommen, vil en gjenopptakelse lett kunne bety at påtalemyndigheten må frafalle saken uansett hvor sterke bevisene var da saken var oppe første gang.»[^1106]
+
+Den vanskelige bevissituasjonen ved gjenåpning av gamle saker har skapt diskusjon om det bør innføres regler som generelt begrenser adgangen til gjenåpning for saker av en viss alder, eller om det bør innføres absolutte frister for gjenåpning. Problemstillingen ble drøftet både av arbeidsgruppen som utførte etterkontrollen av kommisjonen i 2012,[^1107] og av Straffeprosessutvalget som leverte sin utredning i 2016.[^1108] Tidligere har også riksadvokaten tatt til orde for at det bør vurderes om vilkårene for gjenåpning bør være strengere for dommer over en viss alder.[^1109]
+
+Om de kryssende hensynene som gjør seg gjeldende ved gjenåpning av eldre dommer, uttaler Straffeprosessutvalget:
+
+«Å få brakt klarhet i et saksforhold etter gjenåpning kan være utfordrende. Det gjelder særlig når bevisbedømmelsen må baseres på eldre og bortkomne bevis. Ikke sjelden vil vitner ha falt fra og vitneforklaringer være preget av at hukommelsen svekkes og erindringer forskyves over tid. I en viss utstrekning kan bevisverdien fastslås ut fra den tidligere bedømmelsen, men ofte vil nok ikke dette fullt ut kompensere for forringelsen av bevissituasjonen. I enkelte tilfeller er det umulig å realitetsbehandle en sak etter gjenåpning.
+
+Dersom det innføres en ordning med lyd- og bildeopptak av hovedforhandlinger, og slike opptak lagres, vil man få et adskillig bedre grunnlag enn i dag for å ta stilling til om vilkårene for gjenåpning er oppfylt \[…\] Men også med en slik sikkerhet for hva som skjedde under forhandlingene, vil det kunne hefte usikkerhet ved bevisbildet.
+
+Dersom behandling av den gjenåpnede straffesaken må baseres på et svakere bevisgrunnlag enn i den opprinnelige behandlingen, svekkes hensynet til flest mulige riktige avgjørelser – et hensyn som er bærende for selve ordningen med gjenåpning. Dette taler for at hensynet til rettskraft gis et noe større gjennomslag når saken ikke vil la seg opplyse slik den en gang gjorde. En slik innstramning vil gi ordningen et visst slektskap med gjenåpning av sivile saker, hvor det stilles krav om at begjæring om gjenåpning fremsettes innen seks måneder etter at parten ble kjent med eller burde vært kjent med det forhold begjæringen bygger på, og det gjelder en absolutt frist på ti år.
+
+En absolutt frist er imidlertid ikke aktuelt for straffesaker. I sivile saker er fristen i hovedsak begrunnet i hensynet til motparten, et hensyn som ikke har samme gjennomslag for straffesaker. Dertil kommer at disposisjonsprinsippet som gjelder for sivile saker, i større grad åpner for å stille partene til ansvar for å unnlate å foreta prosesshandlinger. I straffesaker bør sannhetsidealet gis større gjennomslag.»[^1110]
+
+Straffeprosessutvalget mente at reglene om gjenåpning «burde gis en utforming som sikrer at de i minst mulig grad leder til frifinnelse alene fordi bevisbildet er svekket av tidens tann», og viste til at det «er grunn til å anta at et alminnelig og utbredt trekk ved saker som ligger langt tilbake i tid, er at de ikke kan behandles på nytt ut fra samme bevismessige betingelser».[^1111] På denne bakgrunn ble det foreslått en høyere terskel for å gjenåpne dommer som har vært rettskraftige i mer enn 25 år:
+
+«Utvalget anbefaler at alle saker som har vært rettskraftig i mer enn 25 år, vurderes etter en regel tilsvarende dagens § 392 annet ledd, slik at det kreves ‘forhold som gjør det meget tvilsomt om dommen er riktig’, se utkastet § 41-11 med merknad. Ordlyden forutsetter at det utøves et skjønn der de hensyn som måtte tale henholdsvis for og mot gjenåpning av eldre saker, tas i betraktning. Skjønnet bør utøves i lys av de øvrige reglene om gjenåpning, og dersom det er klart at saken vil bli fullgodt opplyst ved ny behandling, skal dette også kunne tas hensyn til. Kriteriet vil avskjære gjenåpning av eldre saker i tilfeller der en ny behandling må bli usikker; de klart uriktige domfellelser vil fremdeles bli gjenåpnet.»[^1112]
+
+Straffeprosessutvalgets lovforslag er utformet som et tilleggskrav til de alminnelige vilkårene om gjenåpning. Etter lovforslaget vil det for gjenåpning av eldre avgjørelser i tillegg til de øvrige vilkårene kreves at det kan påvises forhold «som gjør det meget tvilsomt at dommen er riktig». Disse forholdene kan være de samme som begrunner gjenåpning etter de generelle bestemmelsene.[^1113]
+
+Forslaget har foreløpig ikke blitt fulgt opp av Justis- og beredskapsdepartementet.
+
+Baneheia-utvalget kan i det vesentlige slutte seg til Straffeprosessutvalgets overveielser om gjenåpning av eldre dommer. Utvalget er enig i at det ikke er rom for å oppstille en absolutt tidsfrist for å fremsette begjæring om gjenåpning, heller ikke for bøtesaker eller saker med lav strafferamme. Utvalget mener imidlertid at gode grunner taler for å heve terskelen for gjenåpning av dommer som er eldre enn 25 år, i tråd med anbefalingen til Straffeprosessutvalget. Den foreslåtte regelen åpner for å ta i betraktning om bevisgrunnlaget i saken i vesentlig grad er svekket siden saken sto for domstolen.
+
+Gjenopptakelseskommisjonen har i sin høringsuttalelse til Straffeprosessutvalgets forslag stilt spørsmål om innføringen av en forhøyet terskel som et tilleggskrav til de øvrige gjenåpningsvilkårene «vil gi en god og praktikabel regel»:
+
+«For kommisjonen synes det å være noe vanskelig å avslå en begjæring om gjenåpning på grunn av at bevis er svekket eller mangler helt, slik at anledningen til å føre bevis i en etterfølgende hovedforhandling vil være redusert eller helt avskåret slik utvalget omtaler i punkt 22.3.6.5. I alle fall må dette argumentet antas å ha en meget begrenset vekt, særlig dersom det er tale om dommer for svært alvorlige forhold. Omvendt vil det kunne være lettere å ta en begjæring om gjenåpning til følge dersom saken kan belyses godt ved en etterfølgende rettslig behandling.»[^1114]
+
+Utvalget er ikke enig med kommisjonen i at et svekket bevisbilde er et hensyn av underordnet betydning ved gjenåpning av gamle straffedommer. Som påpekt av Straffeprosessutvalget bør hensynet til rettskraft gis et noe større gjennomslag når saken ikke vil la seg opplyse slik den en gang gjorde. Lovens vilkår bør ta høyde for at det i mange tilfeller vil være umulig å realitetsbehandle slike saker etter gjenåpning. Dette gjør seg også gjeldende for dommer for svært alvorlige straffbare forhold. Behovet for en forhøyet terskel er særlig presserende når lovverket – som i Norge – ikke stenger for å begjære gjenåpning av straffedommer som ligger langt tilbake i tid.
+
+Utvalget har etter dette kommet til at forslaget bør opprettholdes. Dersom saken vil bli fullgodt belyst etter gjenåpning, for eksempel fordi det foreligger lyd- og bildeopptak av forhandlingene, vil det være et relevant hensyn ved vurderingen.
+
+Det vises til forslaget til ny § 393 a og merknadene til bestemmelsen.
+
+# Utvidet domstolskontroll av kommisjonens avgjørelser
+
+Gjenopptakelseskommisjonens avgjørelser om gjenåpningsspørsmålet kan prøves ved sivilrettslig gyldighetssøksmål for domstolene. Omfanget av prøvingsretten er imidlertid begrenset. Domstolene kan prøve kommisjonens generelle tolking av reglene om gjenåpning i straffeprosessloven og om grunnleggende saksbehandlingsregler er fulgt. Kommisjonens konkrete rettsanvendelse og bevisbedømmelse prøves ikke.[^1115]
+
+I Rt. 2012 s. 519 (storkammer) konkluderte Høyesterett med at domstolenes prøving skulle være begrenset. Prøvingsomfanget ble beskrevet slik i avsnittene 73–77:
+
+«Etter dette går jeg mer konkret inn på hva domstolene kan prøve. Jeg holder meg da til de bestemmelsene som A påberoper som grunnlag for gjenåpning, nemlig straffeprosessloven § 391 nr. 3 og § 392 annet ledd. For andre gjenåpningsgrunner kan prøvingskompetansen stille seg annerledes, jf. Rt-2010-1170, som gjaldt gjenåpning etter § 392 første ledd. Dette går jeg imidlertid ikke nærmere inn på.
+
+At domstolene kan prøve kommisjonens generelle tolkning av § 391 nr. 3 og § 392 annet ledd, må etter min mening være klart. Dersom domstolene først skal kunne foreta en overprøving av vedtakene, må den generelle lovtolkningen være i kjernen av denne prøvingen.
+
+Domstolene må derimot være avskåret fra å prøve kommisjonens bevisbedømmelse. De hensyn som bar etableringen av en egen kommisjon, har særlig relevans for bevisbedømmelsen. Kritikken mot praksis etter den tidligere ordningen rettet seg først og fremst mot denne siden. Gjennom den mulighet og plikt kommisjonen har til å utrede sakene på egen hånd, er den særlig godt rustet til å håndtere bevisbedømmelsen. Jeg anser det som uheldig og i strid med tanken bak etableringen av kommisjonen, om domstolene skulle kunne gjøres til en arena for omkamp om bevisene. Som det pekes på i proposisjonen side 64, ville en slik ordning lett ha redusert kommisjonens rolle til en utredningsenhet for domstolene.
+
+Etter min mening kan heller ikke den konkrete rettsanvendelsen prøves. De aktuelle bestemmelsene i straffeprosessloven gir til dels anvisning på meget skjønnsmessige vurderinger. Etter § 391 nr. 3 er det således avgjørende om en ny omstendighet eller et nytt bevis ‘synes egnet’ til å føre til frifinnelse, og etter § 392 annet ledd er det spørsmål om ‘særlige forhold’ gjør det tvilsomt om dommen er riktig. For å avgjøre om disse kriteriene er oppfylt, må kommisjonen nødvendigvis gå relativt grundig inn på de bevisene som ble ført i straffesaken. Jeg kan vanskelig se at domstolene skal kunne overprøve kommisjonens konkrete rettsanvendelse uten å gjøre det samme. En prøving av denne rettsanvendelsen vil derfor reelt sett lett åpne for en omkamp om bevisbedømmelsen – noe jeg som nevnt mener er i strid med lovgivers forutsetninger.
+
+Domstolene må derimot prøve om kommisjonen har fulgt grunnleggende saksbehandlingsregler, for eksempel at kravene til habilitet og kontradiksjon er oppfylt – noe som også er forutsatt av Høyesteretts ankeutvalg i Rt-2008-1571. Med mindre det er tale om grove og åpenbare feil, må imidlertid andre sider av kommisjonens saksbehandling falle utenfor prøvingsadgangen. Jeg finner grunn til særlig å nevne kommisjonens utredningsplikt. Utredningsplikten er helt sentral i kommisjonens arbeid for å klarlegge de faktiske forhold, og det ville bryte med grunntanken bak etableringen av kommisjonen om domstolene kunne overprøve kommisjonens vurderinger av hvilke utredninger som er nødvendige. Som fremholdt i proposisjonen side 104, uttrykker bestemmelsen om utredningsplikt en rettslig standard som forutsetter en nærmere avveining i den enkelte sak. Domstolene kan vanskelig prøve om denne standarden er overholdt uten å måtte bevege seg inn på bevisbedømmelsen.»
+
+Utvalget mener det er ønskelig med en mer omfattende prøvingsadgang enn Høyesterett her legger til grunn. Konkret mener utvalget at den konkrete rettsanvendelsen og saksbehandlingen bør kunne prøves i tillegg til den alminnelige lovtolkningen. Dette vil bli nærmere begrunnet i det følgende.
+
+Som begrunnelse for å begrense domstolsprøvingen viser Høyesterett til at utgangspunktet for opprettelsen av Gjenopptakelseskommisjonen særlig var behovet for distanse mellom domstolene, som avgjør straffekravet, og den instans som skulle avgjøre gjenåpningsbegjæringer.[^1116] Til dette kan det innvendes at det å flytte gjenåpningsspørsmålet ut av domstolene ikke var et mål i seg selv, men derimot et virkemiddel for å skape tillit til avgjørelsene ved at de ble lagt til en uavhengig instans.[^1117] Det er ikke opplagt at domstolskontroll med kommisjonens vedtak vil redusere tilliten til gjenåpningsinstituttet, i hvert fall for så vidt gjelder vedtak som går ut på å nekte gjenåpning av en fellende straffedom. Tvert imot må det antas å *styrke* tilliten til Gjenopptakelseskommisjonens avgjørelser at de underlegges domstolskontroll av en viss intensitet når gjenåpning til gunst nektes. Dette er i tråd med den alminnelige oppfatningen om at det å tillate domstolsprøving erfaringsmessig vil skjerpe vedtaksorganet og lede til bedre avgjørelser, noe som på sikt vil styrke tilliten til organet.[^1118] Behovet for domstolprøving av gjenåpningsinstansens avgjørelser ble øvrig trukket frem som et sentralt hensyn av en rekke høringsinstanser under høringene om gjenåpningssystemet på 1990-tallet.[^1119]
+
+Høyesteretts begrunnelse for å begrense domstolsprøvingen har større vekt dersom kommisjonens avgjørelse går ut på at dommen skal gjenåpnes til domfeltes gunst. Dersom en domstol setter en slik avgjørelse til side som ugyldig, er dette muligens egnet til å skape et inntrykk av at domstolene har en interesse i at domfellelsen blir stående. At disse vedtakene blir gjenstand for sivilrettslig prøving i domstolene, er imidlertid neppe særlig praktisk. Utvalget antar at det sjelden vil være aktuelt at påtalemyndigheten fremmer et sivilrettslig søksmål for domstolene med påstand om at et vedtak om gjenåpning er ugyldig. Om påtalemyndigheten i det hele tatt har slik søksmålsadgang, virker også usikkert.[^1120] Gitt den begrensede betydningen gjenåpning av straffesaker har for fornærmede og etterlattes rettigheter,[^1121] antar utvalget videre at det er lite sannsynlig at fornærmede og etterlatte anses å ha rettslig interesse i gjenåpningssaken, jf. tvisteloven § 1-3. Mulighetene for slike søksmål bør derfor ikke tillegges nevneverdig vekt når prøvingsadgangen skal bestemmes.
+
+Utvalget mener at det er et klart behov for overordnet kontroll med Gjenopptakelseskommisjonens virksomhet. Avgjørelser om gjenåpning kan ha stor betydning for den enkelte, og det vurderes som betenkelig at kommisjonens avgjørelser i dag langt på vei er unndratt domstolskontroll. Etter utvalgets vurdering trekker hensynene til rettssikkerhet, rettsavklaring og rettsutvikling i retning av en utvidet prøvingsadgang.[^1122] Det er særlig behov for å kontrollere at kommisjonen anvender reglene riktig, og at saksbehandlingen er forsvarlig. Kontrollbehovet forsterkes av at Sivilombudet utviser stor tilbakeholdenhet ved kontrollen av kommisjonens avgjørelser, jf. punkt 10.1, og av at kommisjonen ikke er gjenstand for politisk og administrativ kontroll, jf. straffeprosessloven § 395 fjerde ledd siste punktum.[^1123]
+
+Et ytterligere argument for en utvidet prøvingsadgang er at problemstillingene som vurderes i kommisjonens vedtak, ofte vil være helt nye i saken. Dette gjelder særlig i tilfeller hvor det skaffes frem et nytt bevis, slik at det foreligger et nytt bevisbilde som ikke tidligere er prøvet av en domstol, jf. § 391 nr. 3. Som Straffeprosessutvalget har påpekt, gir dette føringer for hvor omfattende prøvingsadgangen bør være:
+
+«Det kan blant annet være tilfellet når det tilkommer nye bevis eller ny vitenskapelig kunnskap. Skyldspørsmålet eller straffutmålingen vil da prøves for første gang på fullstendig grunnlag for kommisjonen. Kommisjonens virksomhet er basert på skriftlig behandling, ikke muntlig og umiddelbar behandling som i domstolene. Dersom det skal gjelde begrenset domstolkontroll, vil det i tilfeller med nytt bevisbilde være Gjenopptakelseskommisjonen som avgjør spørsmålet om skyld og straff med endelig virkning. Tilliten til behandlingen må antas best ivaretatt ved at det er adgang til etterprøving med en viss intensitet på domstolsnivå.»[^1124]
+
+Slik utvalget ser det, taler hensynene til rettsavklaring og rettsutvikling for at den konkrete rettsanvendelsen – subsumsjonen – bør kunne prøves fullt ut i tillegg til den generelle lovtolkningen. Som Straffeprosessutvalget har påpekt, vil dette «innebære at domstolene med Høyesterett i spissen får et ord med i laget om hvordan reglene om gjenåpning skal forstås og anvendes».[^1125] Reglene om gjenåpning er relativt vage og skjønnsmessige, og det er et klart behov for å presisere reglenes innhold i lys av konkrete saker. En domstolsprøving av den generelle lovtolkningen alene, uten at tolkingen skjer i relasjon til et bestemt faktum, vil i begrenset grad medføre rettsavklaring og rettsutvikling. Det antas videre at en slik utvidelse av prøvingsretten vil kunne føre til at noen flere saker reises for domstolene, og dermed bidra til at flere spørsmål blir avklart.
+
+Etter utvalgets vurdering bør kommisjonens bevisvurdering – det faktiske grunnlaget for vedtakene – derimot legges til grunn ved prøvingen. Prøvingen av den konkrete rettsanvendelsen skal derfor skje på grunnlag av det faktum som er lagt til grunn av kommisjonen. Dette utgjør et unntak fra den forvaltningsrettslige hovedregelen om domstolsprøving av forvaltningens avgjørelser, hvor også bevisvurderingen er gjenstand for prøving, men er i samsvar med Høyesteretts kompetanse ved anke over skyldspørsmålet i straffedommer, jf. straffeprosessloven § 306 andre ledd. Som ved anke til Høyesterett bør bevisvurderingen kunne prøves dersom den strider mot vitterlige kjensgjerninger eller klare og uomtvistelige faktiske forhold, jf. Rt. 2009 s. 801 (avsnitt 17). Dette unntaket må imidlertid fortolkes snevert.
+
+Avgrensingen mot kommisjonens bevisvurdering har sammenheng med utvalgets syn om at behovet for domstolsprøving først og fremst er knyttet til kontroll med kommisjonens rettsanvendelse og i mindre grad til bevisvurderingene som foretas i enkeltsaker. Utvidelsen av prøvingsadgangen er primært begrunnet med behovet for rettsavklaring og rettsutvikling. Det er i denne sammenheng et moment at kommisjonen gjennom sitt utredningsapparat og ansvar for å opplyse saken er godt rustet til å håndtere bevisbedømmelsen, jf. Rt. 2012 s. 519 avsnitt 75. Utvalget har også lagt en viss vekt på at ressurshensyn tilsier at prøvingsadgangen ikke blir for omfattende. Som utvalget kommer tilbake til, er det under prøvingen av kommisjonens saksbehandling imidlertid en viss adgang til å trekke inn forhold ved bevisvurderingen.
+
+Utvalget er oppmerksom på at straffeprosessloven § 391 nr. 3 angir et vurderingstema som er tett sammenvevd med bevisbedømmelse. Kriteriet for gjenåpning er at det foreligger et «nytt bevis» som «synes egnet til å føre til frifinnelse». Dette legger opp til en hypotetisk vurdering av det nye beviset opp mot bevisbildet i saken for øvrig. Som Høyesterett påpeker i avsnitt 76 i dommen, forutsetter vurderingen at «kommisjonen nødvendigvis \[må\] gå relativt grundig inn på de bevisene som ble ført i straffesaken». Det påpekes deretter at en prøving av kommisjonens konkrete rettsanvendelse innebærer at domstolene langt på vei må gjøre det samme. Utvalget er for så vidt enig i at dette blir konsekvensene av å åpne for slik prøving, men vurderer ikke dette som betenkelig. For at kontrollen med kommisjonens rettsanvendelse skal være effektiv og reell, er det nødvendig at domstolene gis kompetanse til å prøve subsumsjonen.
+
+Kriteriene for gjenåpning etter § 392 andre ledd er at det foreligger «særlige forhold» som gjør det tvilsomt om dommen er riktig, samt «tungtveiende hensyn» som tilsier at spørsmålet om siktedes skyld blir prøvd på ny. Dersom vilkårene er oppfylt, «kan» gjenåpning til gunst besluttes. Vilkårene er utpreget skjønnsmessige og forutsetter ofte at kommisjonen må ta stilling til bevisvurderingen og -vektingen i dommen som begjæres gjenåpnet. Etter den alminnelige læren om prøving av forvaltningsvedtak kan den konkrete rettsanvendelsen knyttet til slike skjønnsmessige uttrykk etter forholdene være unndratt domstolskontroll sammen med kan-skjønnet.[^1126] Vurderingen av om vilkårene er oppfylt, og om kompetansen bør benyttes (jf. «kan»), har en tendens til å «smelte sammen».[^1127] Høyesterettspraksis tyder også på at en slik samlet vurdering av vilkårene og kan-skjønnet kan være naturlig ved vurderingen av § 392 andre ledd.[^1128]
+
+Etter utvalgets vurdering tilsier behovet for kontroll med kommisjonens rettsanvendelse at også subsumsjonen etter § 392 andre ledd som utgangspunkt må kunne prøves. Dette gjelder både vurderingen av om det foreligger særlige grunner, og kommisjonens vurdering av om tungtveiende hensyn tilsier at spørsmålet om siktedes skyld blir prøvd på ny. Prøvingen av om saken *bør* gjenåpnes, bør imidlertid være noe mer tilbakeholden dersom kommisjonen har gjort isolerte drøftelser av kan-skjønnet.[^1129] Utvalget mener videre at kontrollbehovet generelt vil være noe mindre som følge av at bevisbildet i disse tilfellene gjennomgående ikke er nytt, men ofte har vært prøvd i flere instanser. Straffeprosessutvalget har foreslått at gyldighetskontrollen bør praktiseres relativt, slik at den er mer inngående når det for kommisjonen foreligger en helt annen bevissituasjon enn den som lå til grunn for den opprinnelige dommen, slik som ved påstander om nye bevis, jf. § 391 nr. 3.[^1130] Utvalget slutter seg til dette.
+
+Enkelte gjenåpningsvilkår, som for eksempel § 392 første ledd, knytter seg først og fremst til rettsanvendelsen i dommen som søkes gjenåpnet. Høyesterett har i Rt. 2010 s. 1170 uttalt at tolkningen av gjenåpningsvilkårene, samt forståelsen av våre folkerettslige forpliktelser ved vurderingen av vilkårene i § 392 første ledd, ligger i «kjerneområdet for domstolenes virksomhet».[^1131] I den aktuelle saken ble det lagt til grunn at domstolene kunne prøve kommisjonens vedtak «fullt ut».[^1132] Utvalget legger til grunn at kommisjonens vurdering av om det er begått rettsanvendelsesfeil i dommen som søkes gjenåpnet, generelt må kunne prøves fullt ut av domstolene.
+
+Etter utvalgets vurdering bør også kommisjonens saksbehandling som utgangspunkt kunne prøves fullt ut. En begrenset kontroll med saksbehandlingen er nokså uvanlig både i forvaltningsretten og prosessretten.[^1133] Skillet mellom grove og åpenbare feil og mindre grove saksbehandlingsfeil er dessuten vanskelig å operasjonalisere og skaper usikkerhet om hvilke feil som kan prøves.[^1134] I tråd med den alminnelig gyldighetslæren bør det avgjørende være om den aktuelle feilen kan ha virket inn på avgjørelsen.[^1135]
+
+Utvalget mener det ikke bør falle utenfor domstolenes prøvingsadgang å vurdere om saken er forsvarlig *utredet* av kommisjonen i samsvar med § 394 første ledd første punktum. Ettersom utredningsplikten var en viktig del av begrunnelsen for å opprette kommisjonen, og plikten har vesentlig betydning for kommisjonens evne til å gjenåpne uriktige domfellelser, vil det være uheldig om domstolene ikke kan avdekke svikt på dette området. En annen sak er at domstolene bør utvise en viss tilbakeholdenhet med å overprøve kommisjonens vurdering av hvilke utredningsskritt som er nødvendige. Det er i denne sammenheng nærliggende å se hen til prinsippene som i dag gjelder for domstolenes prøving ved anførsler om at underinstansen ikke har sørget for straffesakens rette opplysning, slik straffeprosessloven § 294 krever, jf. Rt. 2008 s. 1350 (avsnitt 15–16).[^1136]
+
+At saksbehandlingen bør kunne prøves fullt ut, innebærer at også andre typer saksbehandlingsfeil bør kunne prøves ved siden av kravene til habilitet og kontradiksjon, som er særskilt nevnt i Rt. 2012 s. 519. Utvalget nevner i denne forbindelse at rene misforståelser av bevis skal kunne anses som en saksbehandlingsfeil i tråd med det som gjelder ved anke til Høyesterett. Det samme gjelder om det er uklarheter eller selvmotsigelser i kommisjonens begrunnelse, jf. Rt. 2009 s. 801 (avsnitt 17). Også dersom springende punkter i bevisbedømmelsen er blitt stående uforklart, bør avgjørelsen kunne kjennes ugyldig på grunn av feil ved saksbehandlingen.[^1137]
+
+Utvalget mener også at domstolene bør ha anledning til å prøve om det foreligger myndighetsmisbruk. Læren om myndighetsmisbruk er ikke omtalt i Rt. 2012 s. 519, men det antas at det ikke har vært meningen å unnta denne fra prøving.[^1138] En avgrensning mot dette ville vært nokså oppsiktsvekkende.[^1139]
+
+En utvidelse av prøvingsretten vil kunne føre til at det reises flere søksmål om kommisjonens avgjørelser for domstolene. Spørsmålet må også ses i lys av at det har vært en økning i sakstilfanget for kommisjonen i senere år (se punkt 15.2). Etter utvalgets syn er det imidlertid grunn til å forvente at en eventuell økning i antall søksmål vil bli begrenset. Fra kommisjonen ble etablert 1. januar 2004 og frem til Høyesterett avsa den ovennevnte avgjørelsen i 2012, ble det kun fremmet ti søksmål mot kommisjonens avgjørelser om å nekte gjenåpning.[^1140] Høyesteretts avgjørelse førte til en mer begrenset domstolskontroll sammenlignet med utgangspunktet etter den alminnelige læren om domstolskontroll med forvaltningen. Det lave antallet søksmål i perioden før innskjerpingen kan tyde på at en viss utvidelse av domstolskontrollen vil få begrenset betydning i praksis.
+
+Det foreslås ikke endringer når det gjelder domstolenes adgang til å prøve prosessledende avgjørelser truffet av kommisjonen. Utgangspunktet er at disse bare kan prøves ved særskilt søksmål «i den utstrekning slike avgjørelser i forvaltningen ellers kan være gjenstand for selvstendig søksmål», jf. Rt. 2008 s. 1571 avsnitt 20. Det vil være aktuelt dersom det er snakk om avgjørelse av et «rettighetsforhold» som ikke er av «utpreget prosessuell art», som for eksempel oppnevning av forsvarer, se avsnitt 26. Overprøvingsadgangen vil imidlertid være «svært begrenset», se samme sted.
+
+Et spørsmål er hvilke domstoler som skal behandle gyldighetssøksmål. Straffeprosessutvalget mente det ikke var grunn til å fravike utgangspunktet om behandling for tingrett i første instans. Det ble begrunnet med at overprøving av kommisjonens vedtak ikke er ordinær ankebehandling. Utvalget pekte videre på at selv om saken vil være godt forberedt fra kommisjonens side, kan tvistetemaet være nytt i saken.[^1141] Arbeidsgruppen som evaluerte kommisjonen i 2012, anbefalte derimot at søksmål skulle kunne «bringes inn for lagmannsretten i det lagdømme hvor domfelte har sitt verneting».[^1142]
+
+Utvalget mener på samme måte som arbeidsgruppen at gyldighetssøksmål om kommisjonens avgjørelser skal anlegges for lagmannsretten i det lagdømme hvor domfelte har sitt verneting. Saken vil være grundig utredet av kommisjonen før vedtak treffes, og vedtaket er truffet av et kollegium. Det vil høre til unntakstilfellene at Gjenopptakelseskommisjonens bevisvurdering vil bli overprøvd i rettssystemet. Formålet med prøvingen er videre i stor grad å sikre generell kontroll med kommisjonens saksbehandling og rettsanvendelse, samt å bidra til avklaring av hvordan gjenåpningsvilkårene skal forstås. Det tilsier at saken ikke behøver domstolsprøving i to, og potensielt tre, instanser. En ordning med saksanlegg for lagmannsretten gjelder dessuten ved overprøving av avgjørelsene til Trygderetten, som i likhet med kommisjonen er et domstollignende forvaltningsorgan. Dersom lagmannsretten i domfeltes lagdømme tidligere har hatt befatning med straffesaken, bør Høyesteretts ankeutvalg peke ut en lagmannsrett med tilgrensende rettskrets til å behandle søksmålet. Det foreslås på denne bakgrunn at § 400 andre ledd andre punktum skal gjelde tilsvarende så langt den passer.
+
+Utvalget foreslår etter dette følgende lovfesting av domstolenes adgang til å prøve kommisjonens vedtak i ny § 401 a i straffeprosessloven:
+
+«Gyldigheten av kommisjonens avgjørelse om hvorvidt en sak skal gjenåpnes, kan prøves for domstolene. Saken bringes inn for lagmannsretten i det lagdømme hvor domfelte har sitt alminnelige verneting. Bestemmelsen i § 400 andre ledd andre punktum gjelder tilsvarende så langt den passer.»
+
+Bestemmelsen forutsetter at domstolenes prøvingsadgang utvides i tråd med det som er sagt foran.

@@ -1,909 +1,196 @@
-# Prop. 66 L (2019–2020), del 13 av 16 (side 135–144)
+# Prop. 66 L (2019–2020), del 13 av 16
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2020/adeabff8-prop-66-l-20192020.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-66-l-20192020/id2696290/
 - Original-PDF: https://www.regjeringen.no/contentassets/ebc345549f9f441e9dcee7a91fb214dc/no/pdfs/prp201920200066000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 135]
-
-2019–2020
-
-Prop. 66 L
-
-133
-
-Endringer i straffeloven mv. (avvergingsplikt, utenomrettslig tvangsekteskap, diskrimineringsvern, skyting mot politiet mv.)
-
-–
-–
-–
-–
-–
-
-brudd på identifikasjonsplikten (§ 333)
-naskeri, underslag, heleri og bedrageri når
-straffeskylden var liten (§ 391 a)
-skadeverk med liten skade (§ 391)
-besittelseskrenkelse (§ 392)
-restaurantbedrageri (§ 402)
-
-Straffeloven av 2005 har dermed ført til man i
-etterforskingen av disse straffbare handlingene
-ikke lenger kan bruke straffeprosessuelle
-tvangsmidler som har «frihetsstraff» som vilkår.
-Registrering av mistenktes DNA-profil etter
-reglene i politiregisterloven § 12 tredje ledd forutsetter at DNA-profilen er innhentet etter straffeprosessloven § 158 første ledd. Registrering av
-foto og fingeravtrykk av mistenkte etter reglene i
-politiregisterloven § 13 første ledd forutsetter at
-foto og fingeravtrykk er innhentet etter reglene i
-straffeprosessloven § 160 og bestemmelsene i
-påtaleinstruksen.
-
-17.2.2 Adgang til pågripelse
-I straffeprosessloven er det også tvangsmidler
-som bare kan benyttes ved mistanke om handling
-som etter loven kan medføre høyere straff enn
-fengsel inntil seks måneder:
-– pågripelse og fengsling (§§ 171 og 184 annet
-ledd jf. 171)
-– skjult kameraovervåking på eller fra offentlig
-sted (§ 202 a)
-– utsatt underretning om beslag og utleveringspålegg (§§ 208 a og 210 a)
-Pågripelse (arrestasjon) besluttes av påtalemyndigheten og settes i verk av politiet, jf. straffeprosessloven § 175. Andre enn dem som hører til politi og
-påtalemyndighet – også privatpersoner – kan likevel
-beslutte og gjennomføre en pågripelse når den mistenkte «treffes eller forfølges på fersk gjerning eller
-ferske spor», jf. straffeprosessloven § 176. Forutsetningen er at de øvrige vilkårene for pågripelse er
-oppfylt, herunder kravet til forholdsmessighet i
-§ 170 a.
-Hovedregelen er at bare den som mistenkes for
-en straffbar handling som kan medføre høyere
-straff enn fengsel i 6 måneder, kan pågripes, jf.
-straffeprosessloven § 171. I tillegg må det foreligge
-en fengslingsgrunn, normalt enten unndragelsesfare, fare for bevisforspillelse eller fare for gjentakelse. § 172 om rettshåndhevelsesarrest gjør
-unntak fra disse vilkårene, men den bestemmelsen
-er det ikke grunn til å gå nærmere inn på her.
-For lovbrudd som bare kan straffes med
-fengsel i inntil 6 måneder, kan pågripelse likevel
-
-skje dersom straffebudet selv uttrykkelig gir
-adgang til å kombinere fengsel og bot (bot eller
-fengsel inntil seks måneder eller «begge deler»).
-Den alminnelige adgangen etter straffeloven
-§§ 32 og 54 til å ilegge bot sammen med fengselsstraff er uten betydning for bestemmelser som
-tillegger strafferammen rettslig virkning, jf.
-straffeloven § 32 siste ledd.
-I straffeloven opereres det ikke med en strafferamme mellom fengselsstraff på 6 måneder og ett
-år, jf. Ot.prp. nr. 90 (2003–2004) punkt 11.4. Skal
-en videreføre systemet med gjeldende antall
-strafferammer i straffeloven, vil en utvidet adgang
-til pågripelse forutsette at strafferammen for lovbruddene økes eller at det gis særlige regler om
-pågripelses- og fengslingsadgang.
-Straffeloven 1902 § 391 a annet ledd om
-naskeri ga hjemmel til å kombinere bot og fengsel inntil seks måneder, og åpnet dermed for
-pågripelse etter straffeprosessloven § 171. Naskeri omfattet bagatellmessige former for tyveri,
-underslag, bedrageri, heleri og overtredelse av
-straffeloven 1902 § 262 om uberettiget tilgang til
-fjernsyns- eller radiosignaler. Strafferammen ble
-innført ved lov 28. juni 2002 nr. 55. Formålet var å
-utvide privatpersoners adgang til å pågripe ved
-naskeri, jf. Ot.prp. nr. 66 (2001–2002) punkt 18.5.
-I arbeidet med straffeloven 2005 fant departementet ikke grunn til å reversere pågripelsesadgangen ved naskeri, selv om strafferammen ble
-satt ned til bot, jf. Ot.prp. nr. 22 (2008–2009) punkt
-8.3.3 side 283. På denne bakgrunn ble det ved
-ikraftsettingen ved lov 19. juni 2015 inntatt en
-hjemmel for pågripelse ved mistanke om mindre
-tyveri i straffeprosessloven § 171, jf. Prop. 64 L
-(2014–2015) punkt 6.7.2.3 på side 67. Derimot ble
-det ikke gitt en hjemmel for pågripelse ved de
-øvrige lovbruddene som tidligere var omfattet av
-straffeloven 1902 § 391 a, nemlig i saker om
-underslag, bedrageri og heleri. Departementet
-uttalte (Prop. 64 L (2014–2015) punkt 6.7.2.3 på
-side 67):
-«Hva gjelder Kripos' innspill vedrørende lovbruddene som er nevnt i straffeloven 1902
-§ 391 a siste ledd, er departementet i og for seg
-enig i at gjeldende rett gir adgang til pågripelse
-også her. Begrunnelsen som er gitt i Ot.prp. nr.
-66 (2001–2002) punkt 18 for utvidelse av pågripelsesadgangen ved naskeri, synes imidlertid
-ikke å strekke seg så langt som til å gjelde de
-øvrige lovbruddene som omhandles i § 391 a.
-Det samme gjelder uttalelsene i Ot.prp. nr. 22
-(2008–2009). En kan derfor ikke se at det i
-denne omgang er grunn til gi adgang til pågri-
-
-[Side 136]
-
-134
-
-Prop. 66 L
-
-2019–2020
-
-Endringer i straffeloven mv. (avvergingsplikt, utenomrettslig tvangsekteskap, diskrimineringsvern, skyting mot politiet mv.)
-
-pelse etter straffeprosessloven § 171 ved mindre underslag, heleri, hvitvasking og bedrageri.»
-Dersom lovbryteren ved en eller flere handlinger
-har begått flere straffbare lovbrudd som bare kvalifiserer til bot, kan det fortsatt bare idømmes
-bøtestraff. Dersom forholdet kan anses som en
-fortsatt forbrytelse (for eksempel flere mindre
-underslag foretatt over tid) eller for øvrig må
-betraktes som ett straffbart forhold (for eksempel
-borttagelse av mange gjenstander som hver for
-seg har liten verdi fra flere personer og ved
-samme anledning), kan handlemåten likevel rammes av en strengere straffebestemmelse som gir
-adgang til å idømme fengselsstraff og dermed
-benytte enkelte tvangsmidler.
-I noen tilfeller gir straffeprosessloven adgang
-til å pågripe ved en straffbar handling uten noe vilkår om at handlingen kan straffes med en bestemt
-strafferamme eller straffart. Etter straffeprosessloven § 173 første ledd kan en person som
-treffes på fersk gjerning og ikke avstår fra den
-straffbare virksomhet, pågripes uten hensyn til
-størrelsen av straffen. Etter straffeprosessloven
-§ 173 annet ledd kan mistenkte som «ikke vites å
-ha fast bopel i riket», pågripes «når det er grunn
-til å frykte for at han ved flukt til utlandet vil unndra seg forfølgingen eller fullbyrding av straff
-eller andre forholdsregler».
-Vilkårene for å varetektsfengsle er de samme
-som for å pågripe, jf. straffeprosessloven § 184
-annet ledd. Departementet antar at fengsling i
-mange tilfeller vil være et uforholdsmessig inngrep etter straffeprosessloven § 170 a i saker om
-mindre underslag, mindre heleri, mindre hvitvasking, og mindre bedrageri (jf. straffeloven henholdsvis §§ 326, 334, 339 og 377) hvis ikke det
-dreier seg om et stort antall overtredelser.
-
-17.3 Forslaget i høringsnotatet
-17.3.1 Behovet for utvidet adgang til
-tvangsmiddelbruk
-I høringsnotatet uttalte departementet at det ved
-mindre tyveri (§ 323), mindre underslag (§ 326),
-mindre heleri (§ 334), mindre hvitvasking (§ 339),
-besittelseskrenkelse (§ 345), mindre skadeverk
-(353) og mindre bedrageri (§ 373) kunne være
-formålstjenlig og forholdsmessig med adgang til å
-foreta kroppslig undersøkelse, innhente biologisk
-materiale og ta fingeravtrykk og fotografi etter
-straffeprosessloven §§ 157, 158 og 160. Departementet viste til at oppklaring av mindre alvorlig
-
-kriminalitet kan være spesielt viktig hvis det er
-mistanke om gjentatte tilfeller. Dersom flere mindre tyverier rettslig sett er å anse som ett vanlig
-tyveri, vil strafferammen i straffeloven § 321 gi
-adgang til for eksempel å innhente biologisk materiale med sikte på DNA-analyse.
-Departementet uttalte at det også kunne vurderes å gi adgang til nevnte tvangsmidler ved forulemping av offentlig tjenesteperson og enkelte særskilt
-vernede yrkesgrupper ved skjellsord eller lignende
-(straffeloven hhv. §§ 156 annet ledd og 265 fjerde
-ledd) og ved brudd på identifikasjonsplikten overfor
-polititjenesteperson mv. (straffeloven § 162).
-Departementet utalte at det kunne tenkes at
-ransaking kunne være formålstjenlig og forholdsmessig ved mistanke om brudd på identifikasjonsplikten overfor polititjenesteperson mv. (straffeloven § 162), mindre underslag (straffeloven
-§ 326), mindre heleri (straffeloven § 334) og
-mindre skadeverk (straffeloven § 353).
-Departementet reiste spørsmål om det burde
-være adgang til pågripelse ved mistanke om mindre underslag (§ 236), mindre heleri (§ 334), mindre hvitvasking (§ 339) og mindre bedrageri
-(§ 373). Departementet uttalte at det nok bare
-unntaksvis ville være forholdsmessig å benytte
-pågripelse ved mistanke om en straffbar handling
-som etter loven kun kan straffes med bot, men at
-det for eksempel kunne være aktuelt hvis det er
-tale om gjentatte lovbrudd.
-Departementet var i tvil om det er nødvendig å
-åpne for pågripelse i disse sakstypene, og ba om
-høringsinstansenes syn på spørsmålet.
-
-17.3.2 Vurderinger av lovtekniske løsninger
-for utvidet adgang til
-tvangsmiddelbruk
-I høringsnotatet foreslo departementet å utvide
-strafferammen og straffarten til bot eller fengsel i
-inntil seks måneder for å gi adgang til å foreta
-kroppslig undersøkelse av mistenkte, innhente
-biologisk materiale med sikte på DNA-analyse, å
-ta foto eller fingeravtrykk samt ransake person og
-rom, i saker som gjelder overtredelse av følgende
-straffebud:
-– § 156 annet ledd om den som ved skjellsord
-eller annen utilbørlig atferd forulemper en
-offentlig tjenestemann under eller på grunn av
-utføringen av tjenesten
-– § 162 om brudd på identifikasjonsplikten
-– § 265 fjerde ledd om den som ved skjellsord
-eller annen grovt krenkende ordbruk eller
-atferd forulemper en person som nevnt i § 265
-annet ledd under dennes yrkesutøvelse
-
-[Side 137]
-
-2019–2020
-
-Prop. 66 L
-
-135
-
-Endringer i straffeloven mv. (avvergingsplikt, utenomrettslig tvangsekteskap, diskrimineringsvern, skyting mot politiet mv.)
-
-–
-–
-–
-–
-–
-–
-–
-
-mindre tyveri (§ 323)
-mindre underslag (§ 326)
-mindre heleri (§ 334)
-mindre hvitvasking (§ 339)
-besittelseskrenkelse (§ 345)
-mindre skadeverk (§ 353)
-mindre bedrageri (§ 373)
-
-Et alternativ som departementet skisserte som en
-aktuell lovteknisk løsning for å utvide adgangen til
-tvangsmiddelbruk, var å innta en henvisning til de
-relevante straffebudene i de bestemmelsene som
-hjemler de enkelte tvangsmidlene. Løsningen tilsvarer den som er valgt for å gi utvidet adgang til
-tvangsmiddelbruk i saker om mindre tyveri etter
-straffeloven § 323 i straffeprosessloven § 171 om
-pågripelse, i § 192 om ransaking av rom og i § 195
-om ransaking av person.
-
-17.4 Høringsinstansenes syn
-17.4.1 Utvidet adgang til kroppslig
-undersøkelse, innhenting av biologisk
-materiale med sikte på DNA-analyse,
-ransaking samt å ta fingeravtrykk og
-fotografi
-Kripos, Kristiansand tingrett, Nordland statsadvokatembeter, Norges politilederlag, Oslo politidistrikt,
-Politidirektoratet, Sør-Øst politidistrikt og Øst
-politidistrikt støtter utvidet adgang til tvangsmiddelbruk i tråd med forslaget i høringsnotatet.
-Politidirektoratet trekker frem at tvangsmidler
-som ransaking, signalering, kroppslig undersøkelse og innhenting av biologisk materiale er
-viktige også for bekjempelse av mindre alvorlig
-kriminalitet. Mindre alvorlig kriminalitet er den
-som oftest rammer privatpersoner, og det vil fremstå som lite tillitvekkende dersom politiet ikke har
-anledning til effektivt å ettergå slike lovbrudd til
-tross for at det foreligger klare holdepunkter for
-mistanke. Oslo politidistrikt trekker frem at det i
-blant vil kunne være rimelig grunn til å undersøke
-om en mindre alvorlig overtredelse kan være en
-del av en omfattende modus. Oslo politidistrikt
-viser også til at blodprøver er nyttige for å avklare
-om en psykose er rusutløst eller skyldes en underliggende reell sykdomstilstand.
-Norges politilederlag trekker frem at mindre
-alvorlig lovbrudd nesten alltid er inngangen til
-alvorlig kriminalitet. Det at politiet har nødvendige hjemler til å gripe inn og bruke tvangsmidler
-ved slike lovbrudd er i tråd med politiets uttalte
-målsetting om at forebygging skal være primærstrategien for alt politiarbeid.
-
-Kripos trekker frem at utvidet tvangsmiddelbruk er fornuftig på grunn av behovet for biometrisk autentisering. Det vises særlig til at det er
-hensiktsmessig å kunne ta fingeravtrykk for å
-identifisere en person ved mistanke om brudd på
-identifikasjonsplikten overfor en polititjenesteperson eller annen offentlig myndighet etter straffeloven § 162. Uavhengig av lovbruddets art er det
-viktig at politiet har mulighet til å kunne fastslå
-korrekt identitet. Biometri kan bidra til å avdekke
-ID-misbruk, om personen er etterlyst, og bidra til
-korrekte attester.
-Politidirektoratet trekker frem at kravet til forholdsmessighet etter straffeprosessloven § 170 a
-uansett vil utgjøre en skranke for tvangsmiddelbruken og sørge for en konkret vurdering i den
-enkelte sak.
-Dommerforeningen har forståelse for departementets vurderinger i høringsnotatet av behovet
-for utvidet adgang til tvangsmiddelbruk.
-Politihøgskolen har ikke innvendinger mot forslaget om å endre straffart for å gi utvidet adgang
-til tvangsmiddelbruk.
-Riksadvokaten mener det er et behov for
-adgang til kroppslig undersøkelse av mistenkte,
-innhenting av biologisk materiale med sikte på
-DNA-analyse og å ta foto eller fingeravtrykk i
-saker etter straffeloven § 323 om mindre tyveri.
-Manglende hjemmel for å registrere DNA, foto og
-fingeravtrykk medfører også at politiet går glipp
-av informasjon som kan bidra til oppklaringen av
-andre lovbrudd. Riksadvokaten har ikke mottatt
-entydige signaler om behov for adgang til å foreta
-kroppslig undersøkelse av mistenkte, innhente
-biologisk materiale med sikte på DNA-analyse, å
-ta foto eller fingeravtrykk samt ransakning av
-person og rom, ved mindre heleri, underslag, hvitvasking, bedrageri, skadeverk, besittelseskrenkelse, brudd på identifikasjonsplikt overfor politiet og forulemping av særskilte yrkesgrupper.
-Riksadvokaten mener at det for flere av disse lovbruddene er gode argumenter for at en i alle fall
-skal kunne gjennomføre ransaking av person og/
-eller oppholdssted, ikke minst for å se om en finner penger eller løsøre som tilhører tredjeperson.
-Det kan også være gode grunner til å signalisere
-vedkommende med foto og fingeravtrykk. Ved
-lovbrudd av en type hvor DNA kan være av betydning for oppklaring, er det gode grunner for å
-kunne sikre DNA-profil.
-Advokatforeningen, Nordland politidistrikt og
-Rettspolitisk forening går imot forslaget om utvidet
-adgang til tvangsmiddelbruk.
-Nordland politidistrikt mener at dagens rettstilstand for bruk av tvangsmidler er tilfredsstillende.
-
-[Side 138]
-
-136
-
-Prop. 66 L
-
-2019–2020
-
-Endringer i straffeloven mv. (avvergingsplikt, utenomrettslig tvangsekteskap, diskrimineringsvern, skyting mot politiet mv.)
-
-Det bør være en viss forholdsmessighet mellom
-straffenivå og adgangen til å benytte tvangsmidler.
-Advokatforeningen mener det ikke bør åpnes
-for bruk av tvangsmidler av noe slag ved straffebud som har bot som eneste reaksjonsform,
-utover allerede innførte særregler for naskeri.
-Advokatforeningen og Rettspolitisk forening trekker
-frem at prinsippet om at bruken av tvangsmidler
-skal være forholdsmessig stiller krav til den straffbare handlingens alvor, og straffarten ved overtredelse er et uttrykk for det. Advokatforeningen og
-Rettspolitisk forening går også imot å heve strafferammene for å gi utvidet adgang til tvangsmiddelbruk, se nærmere deres syn på dette spørsmålet
-nedenfor i dette punktet.
-Datatilsynet viser til at utvidet adgang til
-tvangsmiddelbruk i tråd med forslaget i
-høringsnotatet vil innebære at flere personer igjen
-vil havne i DNA-registeret og foto- og fingeravtrykkregisteret for straffbare handlinger som er
-mindre alvorlige. Spesielt unge lovbrytere vil da
-kunne bli registrert. Med de slettereglene som er
-i dag, vil det innebære at de blir registrert i DNAregisteret livet ut på grunn av lite alvorlige straffbare handlinger. Datatilsynet mener at det er
-behov for at forslaget suppleres med differensierte regler om sletting. En rimelig tilnærming til
-denne problematikken vil være å innføre differensierte sletteregler ut fra lovbryters alder (ved
-førstegangsforbrytelse) og lovbruddets alvorlighetsgrad.
-Advokatforeningen reiser spørsmål om forslaget om utvidet adgang til å registrere informasjon
-som bilde, fingeravtrykk og DNA for lovbrytere
-vil være i tråd med vernet om privatlivet i Grunnloven § 102 og EMK artikkel 8:
-«Disse virkemidlene har altså liten funksjon i
-den aktuelle etterforskningen. Det må antas at
-EMK artikkel 8 setter skranker for registrering
-av persondata som DNA, og for bruken av
-registre til etterforskning i fremtidige saker.
-Det er et klart spenningsforhold mellom
-rutinemessig lagring av DNA, som er et inngrep i privatlivet, og kravet i Grunnloven § 102
-og EMK artikkel 8 til at slike inngrep må være
-nødvendige og forholdsmessige i den konkrete
-sak. Det er vanskelig å se at slik registrering i
-saker som reelt sett har en strafferamme på bot
-kan være i samsvar med konvensjonen.»
-Med henblikk på valget av lovteknisk løsning for å
-gi utvidet adgang til tvangsmiddelbruk, er det
-delte syn blant høringsinstansene. Høringsinstan-
-
-sene anser stort sett en endring fra adgangen til
-bare å kunne ilegge bot til en adgang til å kunne
-ilegge fengsel, som en «heving» eller «økning» av
-strafferammen. I forarbeidene til straffeloven
-synes departementet å skille mellom begrepet
-«straffart», som er formene for straff, og begrepet
-«strafferamme» som er hvor strengt det skal være
-adgang til å straffe innenfor en straffart, jf. Ot.prp.
-nr. 90 (2003–2004) punkt 11.1.1 og 11.2.1. I straffeloven § 29 gis det en oversikt over hvilke straffarter som finnes. Endringsforslaget i høringsnotatet kan sees slik at det både innebærer en endring
-i strafferamme og straffart (fra bot til fengsel).
-Departementet omtaler i det følgende dette
-endringsforslaget bare som en endring i
-«straffart».
-Dommerforeningen, Kripos, Kristiansand tingrett og Øst politidistrikt mener den beste lovtekniske løsningen er å endre straffart i de aktuelle
-straffebudene til fengsel i inntil 6 måneder. Det
-gis uttrykk for at henvisninger til de aktuelle
-straffebudene i de straffeprosessuelle bestemmelsene blir uoversiktlig.
-Politihøgskolen deler departementets prinsipielle motforestillinger mot å skjerpe strafferammene, men er enig i at en ordning med henvisninger til de enkelte straffebudene blir rettsteknisk komplisert. Politihøgskolen har derfor ikke
-innvendinger mot forslaget om å endre straffart
-for å gi utvidet adgang til tvangsmiddelbruk.
-Nordland politidistrikt, Oslo politidistrikt,
-Politidirektoratet og Rettspolitisk forening mener
-den beste lovtekniske løsningen vil være å henvise til de aktuelle straffebudene i de enkelte
-bestemmelser om tvangsmidler i straffeprosessloven. Det trekkes frem at strafferammer bør fastsettes ut fra handlingens straffverdighet, og ikke
-ut fra et ønske om utvidet adgang til tvangsmiddelbruk.
-Riksadvokaten er noe skeptisk til å velge løsningen med å endre straffart utelukkende for å gi
-utvidet adgang til bruk av tvangsmidler, og heller
-til at den beste løsningen er å henvise til de aktuelle straffebudene i de enkelte bestemmelser om
-tvangsmidler i straffeprosessloven.
-Advokatforeningen går imot forslaget om å
-heve strafferammene for å gi utvidet adgang til
-tvangsmiddelbruk. Det vises til straffens formål
-og at passende straffenivå for straffebudene er
-grundig vurdert i forarbeidene til straffeloven
-2005. De minst alvorlige straffebudene bør fortsatt ha en strafferamme som reflekterer hva som
-er passende straffenivå for handlingene de gjelder.
-
-[Side 139]
-
-2019–2020
-
-Prop. 66 L
-
-137
-
-Endringer i straffeloven mv. (avvergingsplikt, utenomrettslig tvangsekteskap, diskrimineringsvern, skyting mot politiet mv.)
-
-17.4.2 Utvidet adgang til pågripelse
-Nordland statsadvokatembeter, Oslo politidistrikt,
-Sør-Øst politidistrikt og Øst politidistrikt støtter en
-utvidet adgang til pågripelse etter straffeprosessloven § 171 ved mindre underslag (§ 236),
-mindre heleri (§ 334), mindre hvitvasking (§ 339)
-og mindre bedrageri (§ 373). Etter Dommerforeningens syn taler mye for at det bør være adgang
-til pågripelse ved mindre heleri, underslag og
-bedrageri.
-Sør-Øst politidistrikt viser til at det vil kunne
-foreligge et klart og legitimt behov for frihetsberøvelse av siktede i en kortere periode i forbindelse med ransakning for å unngå at siktede gis
-mulighet til å forspille bevis. Kripos gir uttrykk for
-at selv om behovet for pågripelse sjelden er aktuelt i mindre alvorlige saker og ofte mindre aktuelt
-enn ransaking, kan det i praksis oppstå situasjoner hvor pågripelse fremstår som både forholdsmessig og nødvendig. Det vil i så fall være svært
-uheldig om politiet står uten hjemmel til å gripe
-inn.
-Oslo politidistrikt viser til at de håndterer et
-stort antall saker der utenlandske statsborgere
-med ingen eller bare løs tilknytning til Norge har
-begått mindre alvorlige vinningsforbrytelser. De
-fleste sakene dreier seg om tyveri, og det er også
-saker der det er mistanke om mindre skadeverk,
-mindre hvitvasking og mindre bedrageri. På
-grunn av faren for unndragelse vil pågripelse ofte
-være avgjørende for å få avgjort straffesakene.
-Oslo politidistrikt gir uttrykk for at det kan foreligge til dels sterk unndragelsesfare i mange
-saker uten at siktede kan pågripes etter straffeprossessloven § 173 om tilfeller der mistenkte
-«ikke vites å ha fast bopel i riket». I sakene vil det
-også kunne foreligge bevisforspillelsesfare og
-gjentagelsesfare. Videre gir Oslo politidistrikt
-uttrykk for at adgangen til å pågripe vil ha stor
-betydning for en etterfølgende bort- eller utvisningssak etter utlendingsloven.
-Riksadvokaten er enig med departementet i at
-det ikke er et åpenbart behov for utvidet adgang
-til pågripelse. Det vises til at departementet i
-høringsnotatet pekte på at ved mistanke om
-besittelseskrenkelse og mindre heleri kan det
-være uklart om det (i stedet) er snakk om mindre tyveri. I praksis vil det da ofte være skjellig
-grunn til mistanke om nettopp mindre tyveri, og
-adgang til å pågripe etter straffeprosessloven
-§ 171 annet ledd såfremt vilkåret om forholdsmessighet er oppfylt.
-
-Advokatforeningen og Rettspolitisk forening går
-imot forslaget om utvidet adgang til bruk av
-tvangsmidler, herunder pågripelse. Se deres
-begrunnelse i punkt 17.4.1 ovenfor. Nordland politidistrikt mener gjeldende adgang til bruk av
-tvangsmidler er tilfredsstillende.
-Enkelte høringsinstanser omtaler spørsmålet
-om det bør gis adgang til pågripelse ved andre lovbrudd enn de departementet reiste spørsmål om i
-høringsnotatet. Dommerforeningen mener at det
-kan være behov for å gripe inn mot mindre skadeverk etter straffeloven § 353 gjennom pågripelse.
-Nordland statsadvokatembeter mener at adgang til
-bruk av pågripelse bør omfatte straffeloven § 162
-første punktum, § 265 tredje ledd og § 345 om
-besittelseskrenkelse. Oslo politidistrikt uttaler at
-de ikke tar til orde for adgang til pågripelse ved
-forulemping av offentlig tjenestemann og enkelte
-særskilt vernede yrkesgrupper (§§ 156 annet ledd
-og § 265 tredje ledd), brudd på identifikasjonsplikten overfor polititjenestemann (§ 162) og bedragerilignende handlinger (§ 377).
-
-17.5 Departementets vurdering
-17.5.1 Generelt om utvidet tvangsmiddelbruk
-Behovet for å kunne benytte tvangsmidler i etterforskningen av mindre alvorlige lovbrudd må
-avveies mot det inngrepet dette vil representere
-overfor siktede.
-At en straffbar handling bare kan straffes med
-bot, gjenspeiler at det dreier seg om et mindre
-alvorlig lovbrudd. Verken den vernede interesse
-eller de følger handlingen kan ha, tilsier at fengselsstraff vil være aktuelt. Når flere tvangsmidler
-krever at det foreligger mistanke om en straffbar
-handling som etter loven kan medføre frihetsstraff, eller over seks måneders fengsel for pågripelse, bygger dette på en forutsetning om at
-mindre alvorlige forhold ikke er alvorlige nok til å
-begrunne det aktuelle inngrepet. Dersom det likevel skal gis adgang til å benytte det aktuelle
-tvangsmiddelet for mindre alvorlige forhold, må
-det etter departementets syn foreligge særlige
-grunner. I denne vurderingen bør det blant annet
-legges vekt på hvor inngripende tvangsmiddelet
-er og hvilken nytteverdi det kan ha for rettshåndhevelsen. Andre momenter er om det dreier seg
-om handlinger der fornærmede ikke antas å bidra
-til oppklaring og om kriminaliteten begås i lukkede miljøer mv., se Prop. 68 L (2015–2016) punkt
-6.1.4 side 45.
-
-[Side 140]
-
-138
-
-Prop. 66 L
-
-2019–2020
-
-Endringer i straffeloven mv. (avvergingsplikt, utenomrettslig tvangsekteskap, diskrimineringsvern, skyting mot politiet mv.)
-
-17.5.2 Utvidet adgang til kroppslig
-undersøkelse, innhenting av biologisk
-materiale med sikte på DNA-analyse,
-samt å ta fingeravtrykk og fotografi
-Etter departementets syn foreligger det ikke et tilstrekkelig behov for kroppslig undersøkelse
-(straffeprosessloven § 157) i saker etter straffeloven om mindre tyveri (§ 323), mindre underslag
-(§ 326), mindre heleri (§ 334), mindre hvitvasking
-(§ 339) og mindre skadeverk (§ 353).
-Departementet kan ikke se at det foreligger et
-tilstrekkelig behov for å ta fingeravtrykk og fotografi (straffeprosessloven § 160) i saker om forulemping av offentlig tjenesteperson og av særskilte yrkesgrupper (henholdsvis straffeloven
-§ 156 annet ledd og § 265 fjerde ledd).
-Departementet kan heller ikke se at det foreligger et tilstrekkelig behov for adgang til DNAanalyse (straffeprosessloven § 158) i saker om forulemping av offentlig tjenesteperson og av særskilte yrkesgrupper (henholdsvis straffeloven
-§ 156 annet ledd og § 265 fjerde ledd). Etter departementets syn foreligger det heller ikke et tilstrekkelig behov i saker om brudd på identifikasjonsplikten (§ 162), besittelseskrenkelse (§ 345), mindre skadeverk (§ 353) og mindre bedrageri (§ 373).
-Departementet antar derimot at adgang til å ta
-fingeravtrykk og fotografi (straffeprosessloven
-§ 160) kan være hensiktsmessig for oppklaringen
-av saker etter straffeloven om mindre tyveri
-(§ 323), mindre underslag (§ 326), mindre heleri
-(§ 334) og mindre hvitvasking (§ 339). Det samme
-gjelder for saker om mindre bedrageri (§ 373),
-mindre skadeverk (§ 353) og besittelseskrenkelse
-(§ 345). En styrket håndheving er særlig viktig der
-det er tale om gjentatte tilfeller. I praksis kan det
-være hensiktsmessig å undersøke om en mindre
-alvorlig overtredelse er en del av en omfattende
-modus. Forholdsmessighetskravet etter straffeprosessloven § 170 a vil uansett sette grenser for
-tvangsmiddelbruken.
-Også i saker om brudd på identifikasjonsplikten (straffeloven § 162), mener departementet det
-kan være hensiktsmessig med adgang til fingeravtrykk og fotografi. Det vises til Kripos sin høringsuttalelse om at det særlig vil være nyttig å kunne
-ta fingeravtrykk for å identifisere en person ved
-mistanke om brudd på identifikasjonsplikten overfor en polititjenesteperson eller annen offentlig
-myndighet.
-Departementet antar videre at det kan være et
-viss behov for DNA-analyse i saker om mindre
-tyveri (§ 323), mindre underslag (§ 326), mindre
-heleri (§ 334) og mindre hvitvasking (§ 339).
-
-Datatilsynet har under høringen vist til at en
-utvidet adgang innebærer at flere personer vil
-oppføres i DNA-registeret på livstid for mindre
-alvorlige forbrytelser. Problemstillingen om registering i identitetsregisteret gjør seg gjeldende
-både for fingeravtrykk, fotografi og DNA-profiler.
-Departementet viser til at informasjonen, slik
-registreringsreglene lyder i dag, bare vil bli registrert i etterforskningsregisteret, men ikke i identitetsregisteret. Registrering i identitetsregisteret
-forutsetter at et av vilkårene i politiregisterloven
-§ 12 annet ledd er oppfylt. Annet ledd lyder:
-«I identitetsregisteret kan registreres den som
-1. er ilagt en straff som nevnt i straffeloven
-§ 29 for en handling som etter loven kan
-medføre frihetsstraff. Registrering kan
-først skje når avgjørelsen er rettskraftig
-eller saken er endelig avgjort. Handling
-som det er utferdiget forenklet forelegg
-for, gir ikke grunnlag for registrering,
-2. på grunn av reglene i straffeloven § 20 første ledd ikke kan dømmes til straff for en
-handling som kvalifiserer for registrering.
-Det samme gjelder når tilstanden har medført at vedkommende ikke har utvist skyld,
-3. er norsk statsborger eller arbeider eller
-oppholder seg i Norge, og som i utlandet er
-ilagt en straff som svarer til dem som er
-nevnt i straffeloven § 29, og den begåtte
-handling kunne ha medført frihetsstraff om
-den hadde vært begått i Norge, eller
-4. begjærer det av grunner som finnes fyllestgjørende»
-Opplysninger i etterforskningsregisteret skal slettes når den registrerte rettskraftig frifinnes eller
-saken avsluttes på annen måte uten at vilkårene
-for registrering i identitetsregisteret er oppfylt,
-hvis ikke vilkårene for registrering i forbindelse
-med en annen sak er til stede, jf. politiregisterforskriften § 45-17 annet ledd. Om registrering av
-fotografi og fingeravtrykk, se politiregisterloven
-§§ 13 og 14 og politiregisterforskriften § 46-5.
-Dette innebærer at biometri og foto kan
-registreres i etterforskningsregisteret også for
-enkelte lovbrudd som kun kan straffes med bot.
-Imidlertid vil profilen måtte slettes uavhengig av
-om personen ilegges noen reaksjon eller ikke,
-ettersom vilkårene for registrering i identitetsregisteret ikke vil være oppfylt. Departementet
-stiller spørsmål ved nytten av slik registrering.
-Registrering av fingeravtrykk, foto og DNA-profil
-vil i begrenset grad bidra til å oppklare den konkrete saken som innhentingen av informasjonen
-
-[Side 141]
-
-2019–2020
-
-Prop. 66 L
-
-139
-
-Endringer i straffeloven mv. (avvergingsplikt, utenomrettslig tvangsekteskap, diskrimineringsvern, skyting mot politiet mv.)
-
-er foranlediget av. Hensynet til å oppklare andre
-saker, gjør seg for så vidt gjeldende for flere lovbrudd enn de som ble vurdert i høringsrunden.
-Det synes også lite konsekvent at en profil skal
-registreres i etterforskningsregisteret, men alltid
-må slettes når saken er avgjort. Et alternativ er å
-åpne for registrering også i identitetsregisteret i
-disse sakene, men også det kan medføre uheldige
-konsekvenser. Som Datatilsynet har påpekt, vil
-dette innebære omfattende og langvarig registrering ved mindre alvorlige lovbrudd. Det nevnes
-også at det i den senere tid har vært flere rettssaker om registrering i DNA-registeret, hvorav en
-er klaget inn for EMD.
-Endelig vil forslagene kunne medføre behov
-for endringer i politiregisterlovgivningen, ettersom loven og forskriften legger til grunn at opptak
-og registrering av biometri kan skje for forhold
-som kan medføre frihetsstraff. Dette er ikke hørt.
-Departementet vil derfor ikke foreslå endringer
-i denne omgangen, men vil ved behov komme tilbake til spørsmålet på et senere tidspunkt.
-
-17.5.3 Utvidet adgang til ransaking av rom og
-person
-Departementet antar at adgang til ransaking av
-rom og person (henholdsvis straffeprosessloven
-§§ 192 og 195) ofte vil kunne være avgjørende for
-oppklaringen av saker etter straffeloven om mindre tyveri (§ 323), mindre underslag (§ 326) og
-mindre heleri (§ 334). Som Riksadvokaten påpeker, er det gode argumenter for at det skal kunne
-være adgang til å ransake person og oppholdssted, for å undersøke om en finner penger eller
-løsøre som tilhører tredjeperson. En styrket håndheving er særlig viktig der det er tale om gjentatte
-tilfeller. Departementet antar at det i praksis kan
-være rimelig grunn til å undersøke om slike mindre alvorlige overtredelser er en del av en omfattende modus. Departementet viser til høringsinnspillet fra Politidirektoratet om at mindre alvorlig
-kriminalitet er det som oftest rammer privatpersoner, og det vil være lite tillitvekkende om politiet
-ikke har mulighet til å effektiv ettergå slike lovbrudd der det er klare holdepunkter for mistanke.
-Selv om ransaking av rom og person er inngripende tvangsmidler, bør det etter departementets
-vurdering åpnes for dette ved de nevnte overtredelsene.
-Ved mindre skadeverk (§ 353) antar departementet at ransaking av person noen ganger vil
-kunne være avgjørende for oppklaringen av
-saken og fremstå forholdsmessig. Det kan f.eks.
-fremstå som lite rimelig om politiet ikke kan
-
-ransake en person som treffes på ferske spor og
-mistenktes for mindre skadeverk, når denne må
-antas å oppbevare bevismaterialet i en sekk som
-han eller hun bærer med seg. Det vises også til
-høringsinnspillet fra Norges politilederlag om at
-det er nyttig for politiets forebyggingsarbeid å
-effektivt kunne ettergå mindre lovbrudd, fordi
-disse for gjerningspersonen kan tjene som en
-inngang til mer alvorlig kriminalitet. Departementet mener imidlertid at det ikke foreligger tilstrekkelige grunner til å åpne for ransaking av
-rom, f.eks. mistenktes bolig.
-I saker om overtredelser av identifikasjonsplikten overfor polititjenesteperson mv. (straffeloven § 162), kan det fremstå som lite rimelig om
-politiet ikke kan kontrollere om en person som
-mistenkes for å oppgi falsk navn, bærer på seg
-legitimasjon eller annen dokumentasjon som kan
-kaste lys over identiteten. Departementet mener
-derfor det bør være adgang til ransaking av person etter straffeprosessloven § 195 ved slike overtredelser. Departementet kan imidlertid ikke se
-tilstrekkelige grunner til å åpne for ransaking av
-rom, f.eks. mistenktes bolig.
-Departementet kan ikke se et tilstrekkelig
-praktisk behov for å åpne for ransaking av person
-og rom i saker om mindre hvitvasking (§ 339). Tilsvarende gjelder ved mindre bedrageri (§ 373).
-Heller ikke besittelseskrenkelse (§ 345) antas å
-være av en slik karakter at det bør være adgang til
-ransaking av person og rom.
-Departementet fremmer på denne bakgrunnen forslag om å gi adgang til ransaking av rom i
-saker etter straffeloven om mindre underslag
-(§ 326) og mindre heleri (334). Departementet
-fremmer også forslag om å gi adgang til ransaking
-av person i saker om nevnte lovbrudd, samt i
-saker om overtredelser av identifikasjonsplikten
-overfor polititjenesteperson mv. (§ 162) og mindre
-skadeverk (§ 353).
-Det vises til spesialmerknadene til lovendringene i punkt 21.2.
-
-17.5.4 Utvidet adgang til pågripelse
-Spørsmålet om det skal være adgang til å pågripe
-ved mindre underslag (§ 326), mindre heleri
-(§ 334), mindre hvitvasking (§ 339), mindre
-skadeverk (§ 353) og mindre bedrageri (§ 373)
-beror dels på hvor stort behovet er for å pågripe,
-og dels på betenkelighetene ved en utvidet pågripelsesadgang.
-Det kan, som noen høringsinstanser påpeker, i
-noen tilfeller være formålstjenlig og forholdsmessig for politiet og påtalemyndighet å pågripe i slike
-
-[Side 142]
-
-140
-
-Prop. 66 L
-
-2019–2020
-
-Endringer i straffeloven mv. (avvergingsplikt, utenomrettslig tvangsekteskap, diskrimineringsvern, skyting mot politiet mv.)
-
-saker. Det gjelder etter departementets syn særlig
-for å forebygge bevisforspillelse, jf. straffeprosessloven § 171 første ledd nr. 2. Departementet
-viser til høringsinnspillet fra Sør-Øst politidistrikt
-om at det kan foreligge et klart og legitimt behov
-for å frihetsberøve siktede i en kortere periode i
-forbindelse med ransakning for å unngå at siktede
-gis mulighet til å forspille bevis. Høringen har
-likevel ikke underbygget at det er et vesentlig
-behov for det i slike saker.
-Vilkårene for å varetektsfengsle er de samme
-som for å pågripe, jf. straffeprosessloven § 184
-annet ledd. Fengsling vil som regel være et uforholdsmessig inngrep i slike saker, med mindre
-det dreier seg om et stort antall overtredelser som
-samlet utgjør et betydelig beløp. Varetekt begjæres av påtalemyndigheten og besluttes av retten,
-jf. straffeprosessloven § 183 første ledd. Faren for
-at varetekt skal bli brukt i større utstrekning enn
-loven åpner for er derfor langt mindre enn ved
-pågripelse. Etter departementets syn er det derfor
-ikke et avgjørende argument mot å utvide adgangen til å pågripe at adgangen til å varetektsfengsle
-utvides samtidig.
-En utvidelse av adgangen til pågripelse etter
-straffeprosessloven § 171 vil også gjelde for privatpersoner etter straffeprosessloven § 176. Her gjør
-det seg gjeldende større betenkeligheter enn ved
-adgang for politiet og påtalemyndigheten til
-beslutte pågripelse. Spørsmålet er om private bør
-få adgang til å pågripe en mulig overtreder som
-treffes eller forfølges på fersk gjerning eller ferske spor, jf. straffeprosessloven § 173, selv om
-personen avstår fra den straffbare virksomheten,
-hvis det er fare for unndragelse, bevisforspillelse
-eller gjentakelse og pågripelse ikke er et uforholdsmessig inngrep.
-Private som oppdager mindre underslag, mindre heleri, mindre hvitvasking, mindre skadeverk
-og mindre bedrageri har ingen rett til å kreve at
-overtrederen legitimerer seg. Siden de heller ikke
-kan holde overtredere tilbake til politiet kommer,
-vil en del overtredere lett kunne unnslippe.
-Adgang til pågripelse for privatpersoner innebærer at de gis adgang til å bruke makt for å sikre
-at ulovlig opptreden blir straffeforfulgt.
-Rett til å utøve makt overfor privatpersoner bør
-som hovedregel legges til politiet. Politiet har gjennom opplæring, erfaring og sin stilling ellers særlige forutsetninger for å kunne anvende makt. Disse
-hensynene ble ikke avgjørende da strafferammen
-etter straffeloven 1902 § 391 a ble hevet for å gi
-adgang til pågripelse i saker om naskeri, jf. Ot.prp.
-nr. 66 (2001–2002) punkt 18.5. Naskeri etter straffeloven § 391 a omfattet i tillegg til bagatellmessige
-
-tyverier bagatellmessige underslag, bedrageri og
-heleri. Adgangen til pågripelse gjaldt derfor også
-ved disse lovbruddene. Begrunnelsen som departementet ga i Ot.prp. nr. 66 (2001–2002) for å gi
-adgang til å pågripe, synes imidlertid i første rekke
-å ta sikte på mindre tyveri, jf. tilsvarende forståelse
-av disse forarbeidene i Prop. 64 L (2014–2015)
-punkt 6.7.2.3 på side 67 (sitert ovenfor i punkt
-17.2.2).
-Etter departementets syn er det ikke et tilsvarende behov for pågripelse i saker om mindre
-underslag, mindre heleri, mindre hvitvasking,
-mindre skadeverk og mindre bedrageri. Når det
-ikke er et stort behov, bør de rettssikkerhetsmessige betenkelighetene og hensynet til at adgangen
-til tvangsmiddelbruk bør stå i forhold til lovbruddets alvor slik det gjenspeiles i strafferammen, tillegges avgjørende vekt. Departementet har på
-denne bakgrunn kommet til at det ikke bør være
-adgang til pågripelse ved mistanke om mindre
-underslag, mindre heleri, mindre hvitvasking,
-mindre skadeverk og mindre bedrageri.
-
-17.5.5 Lovtekniske løsninger for utvidet
-tvangsmiddelbruk
-En utvidelse av adgangen til å undersøke rom og
-person kan gjennomføres på tre forskjellige
-måter.
-Første alternativ er å endre kriminalitetskravet
-i straffeprosessloven §§ 158 og 160 fra straffbar
-handling som etter loven kan medføre frihetsstraff, til bare å gjelde straffbar handling. På den
-ene siden vil dette alternativet gi et enkelt og oversiktlig regelverk om tvangsmidler. Samtidig medfører det en vesentlig utvidet adgang til tvangsmiddelbruk uten at det er et påvist et behov for
-det. Det kvalifiserte kriminalitetskravet om frihetsstraff innebærer en lovbestemt, generell
-avveining av forholdet mellom mål og middel, og
-departementet ser ikke grunn til å gjøre unntak
-fra det kvalifiserte kriminalitetskravet om frihetsstraff bare basert på behovet for styrket håndhevelse for noen få typer lovbrudd.
-Det andre alternativet er å endre straffarten i
-straffebudene fra bot til bot eller fengsel inntil 6
-måneder. Strafferammene skal gjenspeile hvilken
-interesse det enkelte straffebudet verner, hvor
-alvorlige følger den straffbare handlingen har og
-hvilken skyldform som kreves. Som et utgangspunkt skal strafferammer ikke fastsettes med henblikk på å gi adgang til bruk av straffeprosessuelle
-tvangsmidler, jf. Ot.prp. nr. 90 (2003–2004) punkt
-11.3.4 side 131 og NOU 2002: 4 punkt 5.5.2.6 side
-156. For strafferammer i det nedre sjiktet kan det
-
-[Side 143]
-
-2019–2020
-
-Prop. 66 L
-
-141
-
-Endringer i straffeloven mv. (avvergingsplikt, utenomrettslig tvangsekteskap, diskrimineringsvern, skyting mot politiet mv.)
-
-likevel være «grunn til å velge en ramme på 1 år
-for å oppnå mulighet til å beslutte straffeprosessuell pågripelse og fengsling, selv om en ren
-straffverdighetsvurdering skulle tilsi at fengsel i 6
-måneder er tilstrekkelig», jf. Ot.prp. nr. 90 (2003–
-2004) punkt 11.3.4 på side 131. Strafferammene
-bør fastsettes med utgangspunkt i eksisterende
-straffutmålingspraksis, iallfall når denne er så
-omfattende at det kan tales om et etablert nivå, jf.
-Ot.prp. nr. 90 (2003–2004) punkt 11.3.4 side 130 til
-131. For mange mindre alvorlige lovbrudd hvor
-det aldri vil være tale om noe mer enn en bot,
-åpner den nye straffeloven bare for å reagere med
-bot, jf. også NOU 2002: 4 punkt 5.4.3 side 146
-(proposisjonen samme sted).
-Straffens formål og kravene om hensiktsmessighet, humanitet og rettferdighet har størst
-betydning for spørsmålet om hva som skal kriminaliseres, og hvor strengt det skal være adgang til
-å straffe (strafferammer), jf. Ot.prp. nr. 90 (2003–
-2004) punkt 11.1.3. Samtidig har hensynene også
-betydning for hvilke straffarter som bør kunne
-brukes, jf. samme sted. I likhet med ved fastsettelse av strafferammer, bør også straffens art gjenspeile hvilken interesse det enkelte straffebudet
-verner, hvor alvorlige følger den straffbare hand-
-
-lingen har og hvilken skyldform som kreves. I tillegg tilsier subsidiaritetsprinsippet (det minste
-inngreps prinsipp) for bruk av straff at frihetsstraff bare bør kunne benyttes der den mindre
-inngripende straffarten bot ikke er tilstrekkelig
-for å sikre etterlevelse av straffeforbudet, jf.
-Ot.prp. nr. 90 (2003–2004) punkt 7.5.3.2.
-Departementet mener som et utgangspunkt at
-straffarten ikke bør endres fra bot til frihetsstraff
-for de aktuelle straffebudene, bare for å gi adgang
-til å undersøke rom og person.
-Det tredje alternativet, som departementet
-skisserte i høringsnotatet, er å henvise til de aktuelle straffebudene i de enkelte bestemmelser om
-tvangsmidler i straffeprosessloven. Til tross for at
-henvisninger til de aktuelle straffebudene i de
-straffeprosessuelle bestemmelsene kan bli noe
-uoversiktlig, slik flere høringsinstanser har
-påpekt, mener departementet at denne løsningen
-er klart å foretrekke. Departement har særlig lagt
-vekt på de prinsipielle hensyn som taler mot de
-alternative løsningene. Denne tilnærmingen gir
-også best anledning til å utvide adgangen til
-tvangsmidler bare for straffebudene der det er et
-behov for det.
-
-[Side 144]
-
-142
-
-2019–2020
-
-Prop. 66 L
-
-Endringer i straffeloven mv. (avvergingsplikt, utenomrettslig tvangsekteskap, diskrimineringsvern, skyting mot politiet mv.)
-
-18 Opplysning i tiltalebeslutning når påtalen ikke
-er ubetinget offentlig
-18.1 Bakgrunn
-Riksadvokaten har i brev 22. september 2015 til
-departementet tatt til orde for endringer i straffeprosessloven § 252 annet ledd og påtaleinstruksen
-§ 22-1 annet ledd. Forslagene har sammenheng
-med påtaleregelen i straffeprosessloven § 62 a,
-som trådte i kraft samtidig som straffeloven. Fra
-brevet gjengis:
-«Straffeprosessloven § 252 annet ledd og
-påtaleinstruksen § 22-1 annet ledd krever som
-kjent at det skal fremgå av tiltalebeslutningen
-dersom tiltalen ikke er ubetinget offentlig. Det
-skal derfor angis i tiltalen om påtalen er betinget av begjæring fra fornærmede eller offentlig
-myndighet, eller dersom det er et vilkår for
-påtale at «allmenne hensyn» foreligger, se
-f.eks. Bjerke m.fl., Straffeprosessloven. Kommentarutgave. Bind II (Oslo 2011) s. 947.
-Når straffeloven 2005 trer i kraft, vil som
-kjent hovedregelen om påtale følge av straffeprosessloven § 62 a, som i første ledd slår fast
-at straffbare handlinger skal påtales. Etter
-annet ledd kan påtale unnlates dersom handlingen rammes av et straffebud med inntil 2 års
-strafferamme, og allmenne hensyn ikke tilsier
-påtale. Ordningen med privat påtalebegjæring
-oppheves, mens ordningen med påtalebegjæring fra offentlig myndighet videreføres som i
-dag. Slik straffeprosessloven § 62 a annet ledd
-er utformet, er det beslutningen om å henlegge
-saken fordi allmenne hensyn ikke foreligger,
-som krever en særskilt vurdering. Det er med
-andre ord en presumsjon for at allmenne hensyn foreligger, hvilket var intendert fra lovgivernes side, jf. Ot.prp. nr. 90 (2003–2004) s. 63.
-I dette ligger også at beslutningen om å treffe
-et positivt påtalevedtak, bygger på en forutsetning om at allmenne hensyn tilsier strafforfølging.
-Spørsmålet blir hvordan en på bakgrunn av
-denne regelen skal forstå kravene til tiltalebeslutningen. Det ville være nærliggende å
-anta at når «allmenne hensyn» har gått fra å
-
-være et vilkår for å fatte et positivt påtalevedtak
-til å bli et vilkår for å henlegge straffesaken, så
-har påtalen dermed også blitt «ubetinget
-offentlig» i alle saker hvor den ikke er betinget
-av begjæring fra offentlig myndighet. Praktiske hensyn taler klart for en slik forståelse,
-ettersom en ellers vil måtte angi i tiltalebeslutningen i alle saker som gjelder straffebud med
-opptil 2 års strafferamme at allmenne hensyn
-er vurdert. Det er dessuten vanskelig å se at et
-slikt krav til tiltalebeslutningen tjener noen
-informasjonsfunksjon overfor verken retten
-eller tiltalte.
-Samtidig er det på det rene at de ovennevnte bestemmelsene tradisjonelt har blitt
-forstått slik at påtalen ikke er «ubetinget
-offentlig» der den er betinget av en vurdering
-av om allmenne hensyn tilsier strafforfølging.
-Det er dermed grunn til å tro at det fra forsvarerhold vil bli anført at en manglende angivelse av om allmenne hensyn er vurdert,
-utgjør en saksbehandlingsfeil fra påtalemyndighetens side. Regelen i straffeprosessloven
-§ 62 a annet ledd har et bredt anvendelsesområde, hvilket innebærer at slike prosessuelle
-innsigelser kan bli gjort gjeldende i et stort
-antall saker.
-Riksadvokaten har derfor kommet til at en
-endring av kravene til tiltalebeslutningen som
-følge av ikrafttredelsen av straffeprosessloven
-§ 62 a, bør komme fra lovgiverhold. En slik
-omlegging kunne for eksempel skje ved at
-straffeprosessloven § 252 annet ledd og påtaleinstruksen § 22-1 annet ledd ble gitt følgende
-utforming: «Dersom påtalen ikke er ubetinget
-offentlig, skal det av tiltalebeslutningen gå
-frem at særskilt myndighet har begjært
-påtale.»
-
-18.2 Gjeldende rett
-I straffeprosessloven § 62 a første ledd slås det
-fast at den offentlige påtalemyndighet skal påtale
-straffbare handlinger når ikke annet er bestemt
+## Unntak fra foreldelse av straffansvar for forsettlige handlinger med døden til følge
+
+### Forslaget i høringsnotatet
+
+I høringsnotatet viste departementet til at det er grunn til å vurdere kritisk hvorvidt det bør gjøres ytterligere unntak fra hovedregelen om at straffansvar foreldes. Det ville etter departementets syn være uheldig å gjøre unntak fra foreldelse av straffansvar i alle tilfeller hvor en forsettlig handling har døden til følge. Det ble blant annet vist til at et slikt unntak vil omfatte mange forskjellige lovbrudd av ulik grovhet og karakter, og derfor vil bryte med den avveiningen av ulike hensyn som foreldelsesreglene tradisjonelt har bygget på. Departementet uttalte at eventuelle nye unntak fra foreldelse av straffansvar burde knyttes til bestemte straffebud som rammer spesielt alvorlige handlinger, og begrenses til saker hvor det vil kunne sikres spor som gjør det mulig å oppklare saken lang tid etter gjerningstidspunktet.
+
+Departementet foreslo at en eventuell bestemmelse om unntak fra foreldelse for forsettlige handlinger med døden til følge bør forbeholdes overtredelse av straffeloven §§ 175 om grov tortur, 274 om grov kroppsskade, 283 om grov mishandling i nære relasjoner, 285 om grov kjønnslemlestelse og 328 om grovt ran. For disse lovbruddene vil en dødsfølge inngå i vurderingen av om handlingen skal anses grov såfremt gjerningspersonen har utvist uaktsomhet med hensyn til dødsfølgen, jf. straffeloven § 24. Fordi gjerningspersonen i disse tilfellene har utvist skyld med hensyn til at noen døde som følge av lovbruddet, mente departementet at lovbruddets alvor kunne tilsi unntak fra foreldelse. Det ble også vist til at det i slike saker ofte vil kunne sikres bevis som kan lede til oppklaring selv lang tid etter lovbruddet. Hensynet til de etterlatte kunne etter departementets syn også tilsi unntak fra foreldelse i disse tilfellene, slik som ved forsettlig drap.
+
+Departementet mente at overtredelse av straffeloven § 272 om grov kroppskrenkelse og § 281 om uaktsom forvoldelse av død bør foreldes etter de vanlige reglene. Det ble pekt på at handlingenes grovhet ikke i samme grad tilsier unntak fra foreldelse av straffansvaret, noe strafferammen på fengsel inntil seks år er et uttrykk for.
+
+### Høringsinstansenes syn
+
+Under høringen uttrykker *Det nasjonale statsadvokatembetet* og *Riksadvokaten* støtte til departementets overordnede synspunkt om at ytterligere unntak fra foreldelse må knyttes til straffebud som rammer spesielt alvorlige handlinger, og begrenses til saker hvor sikring av spor og bevisinnhenting gjør det mulig å oppklare saken lang tid etter gjerningstidspunktet.
+
+*Det nasjonale statsadvokatembetet, Landsforeningen for voldsofre, Oslo politidistrikt, Politidirektoratet, Riksadvokaten, Stine Sofies Stiftelse, Sør-Øst politidistrikt* og *Øst politidistrikt* slutter seg til forslaget om at straffansvaret for overtredelse av straffeloven §§ 175 om grov tortur, 274 om grov kroppsskade, 283 om grov mishandling i nære relasjoner, 285 om grov kjønnslemlestelse og 328 om grovt ran ikke skal foreldes såfremt en dødsfølge inngår i vurderingen av om lovbruddet er grovt.
+
+*Øst politidistrikt* viser til at det er lite som skiller de angitte lovovertredelsene fra drap, både ut fra faktisk handling, straffverdighet, hensynet til pårørende og for allmennheten. Tilsvarende gjelder også muligheten for at sikrede spor i denne type saker kan føre til senere oppklaring. Også *Riksadvokaten* peker på at flere av disse lovbruddene etter sin art er mulig å oppklare lang tid etter gjerningstidspunktet.
+
+*Riksadvokaten* er enig i at grov kroppskrenkelse og uaktsom forvoldelse av død ikke skal omfattes av unntaket for foreldelse. *Stine Sofies Stiftelse* mener derimot at også grov kroppskrenkelse med døden til følge bør unntas. Stiftelsen viser til at det kan ha stor betydning for avdødes pårørende og etterlatte å få en rettslig avklaring i disse sakene.
+
+*Kripos* og *Politidirektoratet* mener at det bør vurderes om også straffeloven § 175 b om grov tvungen forsvinning skal unntas foreldelse. I vurderingen av om det foreligger en grov tvungen forsvinning inngår spørsmålet om fornærmede dør. I tillegg foreslår *Kripos* og *Politidirektoratet* at også drapsforsøk bør være unntatt foreldelse. *Kripos* uttaler:
+
+«I disse tilfellene har gjerningspersonen hatt drapsforsett, og det er ofte tilfeldig om fornærmede dør eller overlever (og da kanskje med uhelbredelige skader). De samme hensynene som begrunner at drap er unntatt fra foreldelse gjelder etter vårt syn også for drapsforsøk. For en fornærmet som overlever et drapsforsøk kan det være vanskelig å forstå at vedkommende skal ha dårligere strafferettslig vern enn de etterlatte til en som blir drept.»
+
+*Kristiansand tingrett* er enig i at unntak fra foreldelse for grov tortur med døden til følge bør innføres. Denne type kriminalitet står i en noe annen og mer alvorlig stilling enn de øvrige lovbruddsgruppene som er beskrevet. Tingretten er derimot skeptisk til at grov kroppsskade, grov mishandling i nære relasjoner, grov kjønnslemlestelse og grovt ran – alle med døden til følge – skal unntas foreldelse:
+
+«Når det gjelder de kryssende hensyn finner Kristiansand tingrett at hensynet til at siktede på et tidspunkt – svært langt frem i tiden – skal være fri for straffeansvar bør veie tyngre enn samfunnets og de fornærmedes behov for et rettslig oppgjør med siktede i hele vedkommendes levetid. En viser til at i disse tilfellene er ikke dødsfølgen omfattet av siktedes forsett, kun uaktsomhet.
+
+Det kan, slik Kristiansand tingrett ser det, tenkes at en person på 15 år begår et grovt ran med døden til følge. Dersom saken blir oppklart 50 år senere, antas det å være et begrenset behov for å kunne straffe vedkommende.»
+
+*Kristiansand tingrett* er bekymret for at en innføring av unntak fra foreldelse for disse lovbruddene kan utløse nye krav om dette også for andre lovbrudd. Det er betenkelig at det innføres unntak fra foreldelse for stadig flere lovbruddsgrupper. Tingretten minner om at foreldelse for overlagt drap var undergitt 25 års foreldelsesfrist for inntil få år siden. Tingretten mener at et alternativ til unntak fra forelelse for disse lovbruddene kan være å innføre en særskilt foreldelsesfrist på 25 år.
+
+*Advokatforeningen* har ingen innvendinger mot forslaget i høringsnotatet, men uttaler at det nok kan diskuteres hvorvidt endringene dekker et konkret behov.
+
+*Kontoret for voldsoffererstatning* stiller spørsmål ved om de foreslåtte endringene skal gjelde handlinger som er begått før, men ennå ikke er foreldet, på ikrafttredelsestidspunktet.
+
+### Departementets vurdering
+
+Departementet følger med dette opp anmodningsvedtak nr. 462 17. mars 2015, om foreldelsesregler for forsettlige handlinger som har døden til følge.
+
+Departementet opprettholder sitt syn i høringsnotatet om at det bør utvises forsiktighet med å unnta stadig flere lovbruddskategorier fra foreldelse. Som *Kristiansand tingrett* påpeker i sin høringsuttalelse, var selv forsettlig drap gjenstand for foreldelse for inntil få år siden. Jo flere lovbrudd som unntas fra foreldelse, jo lavere må det antas at terskelen blir for å gjøre ytterligere unntak. Departementet viser i den forbindelse til Innst. 172 L (2014–2015), hvor justiskomiteen understreket viktigheten av at foreldelsesreglene ikke uthules. Dette har også en side til ressurs- og prioriteringshensyn. Strafferettssystemet står stadig overfor en svært stor saksmengde, slik at prioriteringer er nødvendig. Regler om foreldelse av straffansvar bidrar til at de nyere sakene – hvor både behovet og muligheten for oppklaring er størst – prioriteres. I lys av disse overordnede hensynene mener departementet at unntak fra foreldelse av straffansvar for forsettlige handlinger med uforsettlig dødsfølge bør forbeholdes de aller mest alvorlige lovbruddene.
+
+I tråd med forslaget i høringsnotatet går departementet inn for at straffansvaret for overtredelse av straffeloven § 175 om grov tortur ikke skal foreldes såfremt en dødsfølge inngår i vurderingen av om lovbruddet er grovt. Forslaget har fått støtte av samtlige høringsinstanser som har uttalt seg. Det er særlig lovbruddets grovhet som tilsier at det gjøres unntak fra foreldelse. Grov tortur er en handling som i særlig stor grad virker krenkende mot menneskeverdet og den fysiske integriteten. Lovbruddet begås på vegne av staten og har karakter av misbruk av offentlig myndighet. Dette reflekteres også ved at strafferammen, i likhet med for drap, er 21 års fengsel. Etter departementets syn er lovbruddet av en slik art at det vil kunne virke støtende om gjerningspersonen, i tilfelle vedkommende er kjent eller tilstår handlingen, kan gå straffri utelukkende fordi det er lang tid siden lovbruddet ble begått. Departementet legger også vekt på at det kan ta tid før slike lovbrudd avdekkes og dermed kan straffeforfølges, og at bevissituasjonen vil kunne være slik at etterforsking og oppklaring er mulig også lang tid etter lovbruddet. De hensynene som begrunner foreldelse av straffansvar, bør følgelig vike.
+
+Under høringen har *Kripos* og *Politidirektoratet* pekt på at det bør vurderes om også straffeloven § 175 b om grov tvungen forsvinning bør omfattes av unntaket fra foreldelse. Bestemmelsen ble tilføyd ved lov 7. juni 2019 nr. 19 og har sin bakgrunn i Norges ratifikasjon av FNs internasjonale konvensjon av 20. desember 2006 om beskyttelse mot tvungen forsvinning, jf. Prop. 42 LS (2018–2019) punkt 6 side 16–26. En dødsfølge inngår i vurderingen av om en tvungen forsvinning skal anses grov dersom gjerningspersonen har utvist uaktsomhet med hensyn til dødsfølgen, jf. straffeloven § 24. Selv om spørsmålet ikke ble drøftet i høringsnotatet, mener departementet at høringen har gitt godt nok grunnlag for å vurdere dette. Flere av de hensynene som begrunner et unntak fra foreldelse for grov tortur med dødsfølge, tilsier at også grov tvungen forsvinning med døden til følge bør unntas foreldelse. Dette er en ytterst alvorlig handling, noe den øvre strafferammen på fengsel inntil 21 år er et uttrykk for. I likhet med tortur begås lovbruddet på vegne av staten, og det har karakter av misbruk av offentlig myndighet. Det må antas å kunne ta tid før slike lovbrudd avdekkes, i tillegg til at lovbruddet etter sin art er mulig å oppklare også lang tid etter lovbruddet. Departementet går på denne bakgrunn inn for at også overtredelse av straffeloven § 175 b om grov tvungen forsvinning skal unntas foreldelse såfremt en dødsfølge inngår i vurderingen av om lovbruddet er grovt.
+
+Derimot har departementet kommet til at straffansvaret for overtredelse av straffeloven §§ 274 om grov kroppsskade, 283 om grov mishandling i nære relasjoner, 285 om grov kjønnslemlestelse og 328 om grovt ran med dødsfølge ikke bør unntas foreldelse. Også disse er riktignok svært alvorlige lovbrudd, hvor gjerningspersonen har utvist uaktsomhet med hensyn til at noen døde som følge av lovbruddet. I tillegg vil bevissituasjonen i sakene kunne være slik at det er mulig å etterforske også lang tid etter at handlingene ble begått. Ut fra en vurdering av de øvrige hensynene som foreldelsesreglene bygger på, har departementet likevel kommet til at lovbruddene ikke er av en slik karakter at de begrunner unntak fra foreldelsesreglene. Strafferammen for overtredelse av straffeloven § 175 om grov kroppskrenkelse er 10 år, mens den øvre strafferammen for overtredelse av §§ 283 om grov mishandling i nære relasjoner og 285 om grov kjønnslemlestelse er 15 år. Den lavere strafferammen markerer lavere alvorlighetsgrad. Overtredelser av straffeloven § 328 om grovt ran har riktignok en øvre strafferamme på 21 år dersom ranet har hatt dødsfølge. Overtredelsen skiller seg likevel fra grov tortur og grov tvungen forsvinning ved at det ikke i like stor grad vil oppleves støtende for omverdenen at gjerningspersonen går straffri fordi det har gått lang tid siden lovbruddet ble begått. Også ressurs- og prioriteringshensyn tilsier at overtredelser av disse straffebudene bør foreldes.
+
+Departementet opprettholder også standpunktet i høringsnotatet om at straffansvaret for overtredelse av straffeloven § 272 om grov kroppskrenkelse og § 281 om uaktsom forvoldelse av død fortsatt bør foreldes. Selv om det i disse sakene vil kunne være av stor betydning for etterlatte å få en avklaring, slik Stine Sofies Stiftelse påpeker i sin høringsuttalelse, mener departementet at de hensyn som begrunner foreldelse av straffansvar, her må veie tyngst.
+
+Enkelte høringsinstanser har argumentert for at også forsøk på drap bør være unntatt foreldelse, fordi de samme hensynene som ligger bak unntaket for drap også gjør seg gjeldende for drapsforsøk. Dette spørsmålet ble ikke berørt i høringsnotatet, og Stortingets anmodning omfatter kun forsettlige handlinger med døden til følge. Departementet er heller ikke uten videre enig i at de hensynene som begrunner unntak fra foreldelse av drap også gjør seg gjeldende ved drapsforsøk. I drapssaker har man en avdød, et funnsted og som regel også et åsted for drapet. Man har dermed opplysninger om dødsårsak og har sikret tekniske spor, slik at man kan etterforske også mange år etter at lovbruddet ble begått. Dette stiller seg annerledes ved drapsforsøk. Videre straffes forsøk generelt mildere enn en fullbyrdet overtredelse, og forsøkshandlingen har ikke hatt den konsekvens at noen faktisk er blitt drept. Forsøk på drap står derfor i en annen stilling enn en fullbyrdet drapshandling.
+
+Når det gjelder virkningstidspunktet for endringene i foreldelsesreglene, vises det til punkt 8.6 nedenfor.
+
+## Særlig om unntak fra foreldelse av brannstiftelse og annen fremkalling av fare for allmennheten med døden til følge
+
+I *høringsnotatet* tok departementet utgangspunkt i at forårsakelse av brann som lett kan medføre tap av menneskeliv, jf. straffeloven § 355 første handlingsalternativ, fortsatt skal være unntatt foreldelse dersom noen omkommer på grunn av lovbruddet. I lys av dette antok departementet at også fremkallelse av fare for tap av menneskeliv ved de andre handlingsalternativene i straffeloven § 355, for eksempel sprengning, bør omfattes av unntaket.
+
+Departementet mente imidlertid at spørsmålet om foreldelse ikke bør bero på objektive omstendigheter som gjerningspersonen ikke kan klandres for. For at straffansvaret skal unntas fra foreldelse, bør det kreves at gjerningspersonen har utvist uaktsomhet med hensyn til at dødsfølge kunne inntre, jf. straffeloven § 24. På denne bakgrunn foreslo departementet en ny bestemmelse i straffeloven § 355 a om grov overtredelse av straffeloven § 355, hvor dødsfølge inngår i vurderingen av om overtredelsen er grov. Videre foreslo departementet å endre straffeloven § 91 slik at den kun viser til straffeloven § 355 a, og at det fremgår uttrykkelig av bestemmelsen at unntak fra foreldelse forutsetter at en dødsfølge inngår i vurderingen av om lovbruddet er grovt. Departementet mente at det ville være naturlig å videreføre den gjeldende strafferammen i straffeloven § 355 på fengsel inntil 21 år i det nye straffebudet om grov overtredelse. Den øvre strafferammen for ordinære overtredelser ble foreslått satt ned til fengsel inntil 15 år.
+
+Under *høringen* har *Det nasjonale statsadvokatembetet, Kristiansand tingrett, Landsforeningen for voldsofre, Oslo politidistrikt, Politidirektoratet, Riksadvokaten og Sør-Øst politidistrikt* uttalt at de støtter forslagene i høringsnotatet. Ingen høringsinstanser har hatt innvendinger mot forslagene.
+
+Departementet opprettholder forslagene i høringsnotatet, som har fått tilslutning under høringen. For det første foreslår departementet at også fremkallelse av fare for tap av menneskeliv ved de andre handlingsalternativene som nevnes i straffeloven § 355, herunder sprengning, jernbaneulykke og luftfartsulykke, inkluderes i unntaket fra foreldelse. Representantforslaget om å unnta mordbrann fra foreldelse, jf. punkt 8.1 ovenfor, var begrunnet i at den øvre strafferammen er fengsel i 21 år, at gjerningspersonen ved en slik handling tar livet av en eller flere personer og at handlingen medfører store materielle og menneskelige skader, jf. Dok 8:4 L (2014–2015). Det ble også pekt på at slike saker kan være kompliserte og krevende å etterforske, og at de økonomiske motivene for å motarbeide etterforskingen i en del saker kan være så sterke at en foreldelsesfrist er uheldig. Disse hensynene gjør seg gjeldende også for de øvrige handlingsalternativene i straffeloven § 355. Departementet mener på denne bakgrunn at det gir best sammenheng i regelverket dersom også disse omfattes av unntaket fra foreldelse.
+
+For det andre foreslår departementet en ny bestemmelse i straffeloven § 355 a om grov fremkalling av fare for allmennheten, hvor dødsfølge inngår i vurderingen av om overtredelsen er grov. Det foreslås at unntaket fra foreldelse i straffeloven § 91 kun knyttes til denne bestemmelsen, og at det markeres uttrykkelig i § 91 at unntak fra foreldelse forutsetter at en dødsfølge inngår i vurderingen av om lovbruddet er grovt. Dette innebærer at gjerningspersonen må ha utvist uaktsomhet med hensyn til dødsfølgen for at unntaket fra foreldelse skal komme til anvendelse, jf. straffeloven § 24. I tilfeller hvor gjerningspersonen ikke kan klandres for at menneskeliv gikk tapt, foreldes lovbruddet etter de vanlige reglene. Dette innebærer en viss innskrenkning av unntaket fra foreldelse sammenlignet med gjeldende rett. Begrunnelsen er at handlingens grovhet ikke i samme grad tilsier at det gjøres unntak fra foreldelse når gjerningspersonen ikke har utvist skyld med hensyn til dødsfølgen.
+
+I tråd med forslaget i høringsnotatet går departementet inn for at den øvre strafferammen i ny § 355 a skal være fengsel i 21 år, mens den øvre strafferammen for ordinære overtredelser settes til fengsel i 15 år.
+
+Det vises til særmerknadene i punkt 21.3.
+
+## Unntak fra foreldelse ved idealkonkurrens
+
+Departementet foreslo *i høringsnotatet* at prinsippet i straffeloven § 86 tredje ledd, om at den lengste foreldelsesfristen gjelder for alle lovbrudd som er begått ved samme handling, også skulle gis anvendelse hvor ett av lovbruddene er unntatt foreldelse etter straffeloven § 91. Forslaget innebærer at ingen av lovbruddene begått ved samme handling foreldes dersom ett av lovbruddene er unntatt foreldelse. Som begrunnelse ble det blant annet vist til at det kan virke lite rimelig at enkelte sider av en straffbar handling er foreldet, mens andre kan straffes. Det ble også pekt på at bevisspørsmålet langt på vei vil være sammenfallende for lovbruddet som foreldes og lovbruddet som er unntatt foreldelse, idet det er snakk om lovbrudd begått ved samme handling.
+
+*Riksadvokaten* og *Stine Sofies Stiftelse* uttrykte støtte til forslaget. *Stine Sofies Stiftelse* er enig med departementet i at det kan virke urimelig at enkelte sider av en straffbar handling foreldes, mens andre kan straffes. Stiftelsen peker også på at en regel om unntak fra foreldelse ved idealkonkurrens kan ha stor betydning for erstatningskrav fornærmede måtte ha mot gjerningspersonen, for eksempel i tilfeller der fornærmede er utsatt for både voldtekt og grov kroppsskade.
+
+Ingen høringsinstanser har hatt innvendinger mot forslaget.
+
+*Departementet* opprettholder forslaget og viser til begrunnelsen i høringsnotatet gjengitt ovenfor.
+
+Det vises også til særmerknadene i punkt 21.4.
+
+## Unntak fra foreldelse av idømt straff
+
+### Forslaget i høringsnotatet
+
+I *høringsnotatet* viste departementet til at synet på hvilke handlinger som er så alvorlige at straffansvaret ikke bør foreldes, har endret seg de siste årene. Departementet mente at dette burde gjenspeiles i reglene om foreldelse av idømt straff. På denne bakgrunn foreslo departementet at idømt straff for lovbrudd som nevnt i straffeloven § 91, ikke foreldes. Om betydningen av en slik regel uttalte departementet:
+
+«Forslaget vil kunne få betydning i tilfeller hvor en som er domfelt for et lovbrudd som er unntatt foreldelse, unnslipper fullbyrdingen av straffen. Dersom lovbryteren klarer å komme seg til et fjerntliggende land og holde seg skjult der i årevis, vil forslaget sikre at muligheten til å fullbyrde straffen fremdeles står åpen dersom vedkommende en gang i fremtiden blir pågrepet og utlevert til Norge.»
+
+### Høringsinstansenes syn
+
+Under høringen har *Det nasjonale statsadvokatembetet, Kripos, Kristiansand tingrett, Landsforeningen for voldsofre, Oslo politidistrikt, Oslo statsadvokatembeter, Politidirektoratet, Riksadvokaten, Stine Sofies Stiftelse, Sør Øst politidistrikt* og *Vest politidistrikt* uttrykt at de støtter forslaget i høringsnotatet om at også idømt straff for overtredelser som nevnt i straffeloven § 91 unntas foreldelse. Det er ingen høringsinstanser som har gått imot forslaget.
+
+*Oslo statsadvokatembeter* fremholder at den økte mobiliteten har medført at det ikke er upraktisk at en som er straffedømt i Norge reiser til et fjerntliggende land for å unndra seg fullbyrdingen av straffen. Det er derfor god grunn til at idømte straffer for de groveste lovbruddene ikke foreldes. Som en sikkerhetsventil finnes uansett muligheten for benådning. *Det nasjonale statsadvokatembetet* gir uttrykk for lignende synspunkter i sin høringsuttalelse.
+
+*Stine Sofies Stiftelse* uttaler at det er på høy tid å endre loven slik at idømt straff ikke foreldes. Stiftelsen mener at det er et smutthull i regelverket at en person som er domfelt for grove seksuelle overgrep mot barn kan unnslippe fullbyrding av straff ved å skjule seg i et annet land. Det er av stor betydning for den allmenne rettsfølelse at reglene om foreldelse av idømt straff ikke sperrer for at slike personer kan pågripes, utleveres og straffeforfølges i Norge.
+
+*Kripos, Politidirektoratet* og *Vest politidistrikt* mener at det gir bedre sammenheng i regelverket at også idømt straff unntas fra foreldelse.
+
+Selv om *Riksadvokaten* i utgangspunktet slutter seg til forslaget, påpeker høringsinstansen at det ikke er gitt at unntak fra foreldelse for straffansvar og idømt straff skal behandles helt likt. I noen tilfeller kan det være viktigere å statuere straffansvar enn at lovbryteren skal inn til soning kanskje mange år etter dom. *Kripos* fremholder på sin side at det er minst like viktig å kunne fullbyrde straffansvaret som å kunne gjennomføre enn straffeforfølgning av disse lovbruddene.
+
+### Departementets vurdering
+
+Departementet går inn for at idømt straff for lovbrudd som nevnt i straffeloven § 91 ikke skal foreldes. Forslaget har fått støtte av samtlige høringsinstanser som har uttalt seg. Begrunnelsen for at idømt straff for folkemord, forbrytelser mot menneskeheten og krigsforbrytelser ble unntatt foreldelse, var at disse lovbruddene ofte har et politisk preg, og at det derfor foreligger en særlig risiko for at lovbryteren unndrar seg fullbyrdingen ved for eksempel å ta opphold i et annet land, jf. Ot.prp. nr. 90 (2003–2004) punkt 28.3.4.4 side 391 og punkt 8.2.2 ovenfor. Høringen har bekreftet at dette heller ikke er en upraktisk situasjon for de andre lovbruddene som omfattes av unntaket fra foreldelse av straffansvar i straffeloven § 91.
+
+Når straffansvaret for lovbrudd som nevnt i straffeloven § 91 ikke foreldes, er dette et uttrykk for at handlingene betraktes som så alvorlige at det av hensyn til fornærmede, pårørende og den allmenne rettsfølelse bør være mulig å trekke gjerningspersonen til ansvar, selv etter lang tid. Etter departementets syn taler disse hensynene for at heller ikke idømt straff for de samme lovbruddene bør foreldes. Som enkelte høringsinstanser påpeker, gir det bedre sammenheng i regelverket at unntakene fra foreldelse av straffansvar og idømt straff sammenfaller.
+
+Det vises til særmerknadene til § 96 i punkt 21.3.
+
+## Særlig om virkningstidspunktet for endringene i reglene om foreldelse av straffansvar
+
+Spørsmålet om endringene i foreldelsesreglene skulle få virkning for handlinger som ikke er foreldet på ikrafttredelsestidspunktet, ble ikke omtalt i høringsnotatene. Departementet mener at endringene bør ha effekt for handlinger der straffansvaret ennå ikke er foreldet på ikrafttredelsestidspunktet. Tilsvarende løsning ble valgt i Prop. 96 L (2013–2014) punkt 3.6 side 15.
+
+Departementet legger til grunn at en slik løsning ikke vil være i strid med Grunnloven § 97 om tilbakevirkning. Det vises i den sammenheng til departementets merknader til straffeloven § 91 om unntak fra foreldelse av krigsforbrytelser mv., jf. Ot.prp. nr. 90 (2003–2004) punkt 30 side 478. Departementet uttalte her:
+
+«Bestemmelsen skal også gjelde for handlinger som er begått før den nye straffeloven trer i kraft. Dette gjelder såfremt foreldelse ikke allerede har inntrådt og såfremt handlingen kunne blitt straffet etter den nye straffelovens bestemmelser om krigsforbrytelser mv. dersom den hadde blitt begått etter straffelovens ikrafttredelse. Dette resultatet er i overensstemmelse med de begrensninger som følger av Grunnloven § 97 om forbud mot å gi lover tilbakevirkende kraft, jf. Rt-1945-109 og Johs. Andenæs, Statsforfatningen i Norge, 9. utgave, side 384. Se også Straffelovkommentaren I side 575 og 576.»
+
+Departementet bemerker at heller ikke den europeiske menneskerettskonvensjonen (EMK) artikkel 7 anses å være til hinder for at nye foreldelsesregler anvendes på begåtte handlinger der straffansvaret ikke allerede er foreldet. EMK artikkel 7 innebærer et forbud mot tilbakevirkning på strafferettens område. EMD uttalte imidlertid i saken *Coëme and others v. Belgium* 22. juni 2000, (nr. 32492/96, 32547/96, 32548/96, 33209/96 og 33210/96) at artikkel 7 ikke hindrer utvidelse av foreldelsesfristen der straffansvaret ikke allerede er foreldet, jf. dommens avsnitt 149.
+
+Et forbud mot tilbakevirkning i saker om straff følger også av FNs internasjonale konvensjon om sivile og politiske rettigheter (SP) artikkel 14. Departementet er ikke kjent med at det foreligger avgjørelser eller generelle kommentarer fra FNs menneskerettighetskomité som tilsier at beskyttelsen mot tilbakevirkning etter SP artikkel 14 går lenger enn den som følger av EMK. Departementet legger følgelig til grunn at heller ikke SP artikkel 14 er til hinder for at nye foreldelsesregler anvendes på begåtte handlinger der straffansvaret ikke allerede er foreldet.
+
+Det følger av straffeloven § 3 første ledd første punktum at det må fastsettes særskilt i lov at de endrede foreldelsesreglene skal gjelde også for handlinger begått før lovens ikrafttredelse, men som ikke er foreldet, dersom reglene skal kunne anvendes til ugunst for siktede. Departementet foreslår at dette presiseres i endringslovens ikrafttredelsesbestemmelse.
+
+Det vises til særmerknadene til denne overgangsbestemmelsen i punkt 21.6.
+
+# Medvirkning til brudd på militær straffelov
+
+## Bakgrunn
+
+Generaladvokaten har i brev 3. mai 2016 stilt spørsmål ved at straffansvaret for medvirkere som faller utenfor personkretsen i militær straffelov § 9, ble utvidet ved ny straffelov. Straffeloven 1902 § 134 hadde følgende ordlyd: «Den, som i hensigt at unddra sig sin vernepligt her i landet, ved lemlæstelse eller paa anden maate gjør sig ubrukbar til krigstjeneste, eller som medvirker til, at nogen i saadan hensigt gjøres ubrukbar til krigstjeneste, straffes med fængsel indtil 1 aar. Med bøter eller med hefte eller fængsel indtil 1 aar straffes den, som medvirker til, at nogen, der staar i norsk krigstjeneste, rømmer eller undlater at indfinde sig til krigstjeneste, eller til, at der forøves nogen efter militær lov strafbar handling, der kan medføre 2 aars fængsel eller strengere straf. Som i andet led bestemt straffes ogsaa den, som offentlig søker at ophidse nogen, som hører til den væbnede magt, til uvilje mot tjenesten eller til hat mot militære foresatte eller overordnede.» Straffeloven 1902 § 134 ble ikke videreført i straffeloven.
+
+Straffelovkommisjonen foreslo i delutredning VII å videreføre straffeloven 1902 § 134 første og annet ledd, jf. NOU 2002: 4 punkt 9.5.2 side 297. Tredje ledd om opphisselse til uvilje mot militær tjeneste og hat mot militære overordnede ble derimot ikke foreslått videreført, jf. punkt 10.2 side 398. Departementet sluttet seg til forslaget om ikke å videreføre tredje ledd, jf. Ot.prp. nr. 8 (2007–2008) punkt 9.16 side 229–230 og 10.5.4 side 245. Heller ikke første og annet ledd ble videreført i departementets lovforslag, uten at dette ble nærmere kommentert i proposisjonen.
+
+## Gjeldende rett
+
+Militær straffelov rammer bare en bestemt personkrets hvis ikke annet er uttrykkelig bestemt eller følger av sammenhengen, jf. militær straffelov § 9. I fredstid omfattes i grove trekk bare militært personell, herunder vernepliktige, samt medfarende på skip på sjøtokt, jf. militær straffeloven § 9 nr. 1 til 2. Med andre ord omfattes sivile personer i utgangspunktet ikke av loven. I krigstid utvides virkeområdet, jf. loven § 9 nr. 3 til 5, til blant annet å omfatte «enhver» som overtrer nærmere bestemte straffebud i lovens tredje del (krigsartiklene). Det vil si at den personelle begrensningen faller bort for så vidt gjelder de oppregnede lovbruddene.
+
+Unndragelse fra militær tjeneste, herunder verneplikt, rammes blant annet av militær straffelov §§ 34 og 35. Etter §§ 34 og 35 henholdsvis tredje og fjerde ledd rammes også enkelte medvirkningshandlinger, men bare for personer som omfattes av loven etter § 9. Militær straffelov § 36 rammer den som gjør seg tjenesteudyktig i den hensikt å unndra seg militærtjeneste.
+
+I dag slår straffeloven § 15 fast at straffebud også rammer den som medvirker til overtredelsen når ikke noe annet er bestemt. Etter straffeloven § 1 og militær straffelov § 1 gjelder straffeloven § 15 også for straffebudene i militær straffelov. Det er ikke et vilkår for medvirkningsansvar at medvirkeren faller innenfor den bestemte personkretsen som et straffebud retter seg mot. Medvirkeren må imidlertid ha forsett om at primærlovbryteren hører til den bestemte personkretsen, jf. Husabø: Straffansvarets periferi (Bergen 1999) side 257. Etter straffeloven § 15 vil sivile personer dermed kunne holdes strafferettslig ansvarlig for medvirkning til militært personells brudd på militær straffelov. Forutsetningen er at den militære personens status omfattes av den sivile personens forsett, det vil si – mest praktisk – at den sivile personen vet eller holder det for overveiende sannsynlig at primærlovbryteren er militær.
+
+Medvirkeransvaret for sivile medvirkere er utvidet sammenlignet med medvirkeransvaret etter den opphevede straffeloven 1902 § 134 første og annet ledd. Straffeloven § 134 første ledd lød:
+
+«Den, som, i hensigt at unddra sig sin vernepligt her i landet, ved lemlæstelse eller paa anden maate gjør sig ubrukbar til krigstjeneste, eller som medvirker til, at nogen i saadan hensigt gjøres ubrukbar til krigstjeneste,<sup>​</sup> straffes med fængsel<sup>​</sup> indtil 1 aar.»<sup>​</sup>
+
+Straffeloven § 134 første ledd rammet siviles medvirkning til handlinger med et nesten tilsvarende gjerningsinnhold som etter militær straffelov § 36 om den som gjør seg tjenesteudyktig i den hensikt å unndra seg militærtjeneste. En forskjell synes å være at straffeloven § 134 første ledd bare omfattet hensikt om å unndra seg verneplikt, mens etter ordlyden i militær straffelov § 36 omfattes hensikt om å unndra seg «sin militære Tjeneste». Dette uttrykket synes også å favne personer som står i en ansettelsesforhold til forsvaret.
+
+Straffeloven § 134 annet ledd lød:
+
+«Med bøter​ eller med hefte​ eller fængsel​ indtil 1 aar straffes den, som medvirker til,​ at nogen, der staar i norsk krigstjeneste, rømmer eller undlater at indfinde sig til krigstjeneste, eller til, at der forøves nogen efter militær lov strafbar handling, der kan medføre 2 aars fængsel eller strengere straf.​»
+
+Straffeloven § 134 annet ledd rammet siviles medvirkning til handlinger med et tilsvarende gjerningsinnhold som i militær straffelov § 35 første ledd første handlingsalternativ om å unndra seg sin militære tjenesteplikt.
+
+Straffeloven 1902 § 134 annet ledd andre handlingsalternativ rammet medvirkning til overtredelse av andre bestemmelser i militær straffelov med en strafferamme på fengsel i inntil to år eller mer. Siviles medvirkeransvar er etter ny straffelov utvidet til å gjelde alle straffebud i militær straffelov med en strafferamme på under to år. For så vidt gjelder siviles strafferettslige medvirkningsansvar til overtredelser av militær straffelov § 34 og straffebud med en strafferamme på fengsel inntil to år eller mer, er rettstilstanden ikke endret siden straffeloven 1902 ble opphevet. Som eksempler på slike straffebud i militær straffelov nevnes unndragelse fra tjenesteplikt etter § 35 og det å gjøre seg tjenesteudyktig etter § 36.
+
+Straffeloven 1902 § 134 er ikke videreført i straffeloven. Straffelovkommisjonen foreslo i delutredning VII å videreføre straffeloven 1902 § 134 første og annet ledd, jf. NOU 2002: 4 punkt 9.5.2 side 297. Kommisjonen foreslo derimot ikke å videreføre straffeloven 1902 § 134 tredje ledd om opphisselse til uvilje mot militær tjeneste og hat mot militære overordnede, jf. NOU 2002: 4 punkt 10.2 side 398. Departementet sluttet seg til forslaget om ikke å videreføre tredje ledd, jf. Ot.prp. nr. 8 (2007–2008) punkt 9.16 s. 229–230 og 10.5.4 side 245. Heller ikke første og annet ledd ble videreført i departementets lovforslag, men uten at dette ble nærmere kommentert i proposisjonen.
+
+## Forslaget i høringsnotatet
+
+I høringsnotatet tok departementet utgangspunkt i at det ikke fremstår som åpenbart at siviles medvirkning til brudd på militær straffelov bør straffeforfølges, og heller ikke hvor en eventuell grense bør gå. Militær straffelov retter seg i utgangspunktet bare mot hovedsakelig militært personell. Det er derfor grunn til å vurdere hvor langt straffeansvaret etter loven skal kunne gjøres gjeldende overfor sivile på grunnlag av den generelle medvirkningsregelen i straffeloven § 15.
+
+Departementet foreslo at siviles medvirkningsansvar ved brudd på militær straffelov skulle begrenses til overtredelser av loven som kan medføre en straff av fengsel i to år eller mer, slik rettstilstanden var etter straffeloven 1902 § 134 annet ledd. Dette ville omfatte blant annet overtredelser av militær straffelov §§ 35, 36 og 47.
+
+Videre foreslo departementet at medvirkningsansvaret fortsatt bør gjelde for overtredelser av militær straffelov § 34 om ulovlig fravær mv. Departementet viste til at medvirkning til tjenesteunndragelse ikke er en helt upraktisk situasjon og at siviles medvirkning til slik unndragelse av beredskapshensyn bør kunne forfølges strafferettslig.
+
+Departementet foreslo imidlertid ingen tilsvarende begrensning som i straffeloven 1902 § 134 hvor strafferammen for medvirkning til brudd på militær straffelov var begrenset til bøter eller fengsel inntil ett år. Departementet uttalte at det ikke nødvendig da det vanlige er at strafferammen for medvirkning er den samme som for hovedhandlingen.
+
+Departementet foreslo følgende bestemmelse i militær straffeloven § 9 nytt annet ledd:
+
+«Den som ikke omfattes av loven etter første ledd, straffes kun for medvirkning til handling som etter denne loven kan straffes med fengsel i 2 år eller mer eller som rammes av § 34.»
+
+## Høringsinstansenes syn
+
+*Advokatforeningen, Det nasjonale statsadvokatembetet, Generaladvokaten, Kripos, Kristiansand Tingrett, Oslo Politidistrikt, Politidirektoratet* og *Politihøgskolen* støtter forslaget. *Riksadvokaten* uttaler at embetet ikke har kommentarer til dette høringsforslaget, ut over at departementets forslag synes hensiktsmessig. Ingen høringsinstanser som har uttalt seg om forslaget, går imot det.
+
+## Departementets vurdering
+
+Departementet fastholder forslaget i høringsnotatet. Departementet er enig i det generelle synspunktet til *Generaladvokaten* om at det ikke fremstår som åpenbart at siviles medvirkning til brudd på militær straffelov bør strafforfølges, og heller ikke hvor en eventuell grense bør gå. Militær straffelov retter seg i utgangspunktet mot hovedsakelig militært personell. Til sammenligning har en i den danske militære straffelov § 8 inntatt en bestemmelse som begrenser siviles medvirkningsansvar til overtredelser som kan straffes med fengsel i fire år eller mer, jf. Betænkning nr. 1435/2004 om den militære straffelov, retsplejelov og disciplinarlov side 79 til 81 og 371.
+
+Departementet mener det bør være tilstrekkelig å bare straffebelegge siviles medvirkning til de mer alvorlige straffebudene i militær straffelov. De foreslås derfor at siviles medvirkningsansvar i utgangspunktet begrenses til overtredelser av loven som kan medføre en straff på fengsel i to år eller mer, slik rettstilstanden var etter straffeloven 1902 § 134 annet ledd.
+
+I tillegg til lovbruddene med to års strafferamme, mener departementet at det er et behov for å kunne straffe medvirkning til overtredelse av militær straffelov § 34 om ulovlig fravær mv. Siviles medvirkning til tjenesteunndragelse kan være et praktisk problem. I fredstid kan en for eksempel se for seg arbeidsgivere som bidrar til arbeidstakeres ulovlige fravær fra førstegangstjeneste eller årlig tjeneste i Heimevernet. I krig eller når krig truer må en omfattende mobilisering av tjenestepliktige påregnes, noe som kan medføre en økning i antallet tilfeller av unndragelse og medvirkning til det. Av beredskapshensyn bør siviles medvirkning til slik unndragelse kunne forfølges strafferettslig.
+
+Etter straffeloven 1902 § 134 var strafferammen for medvirkning til brudd på militær straffelov begrenset til bøter eller fengsel i inntil ett år. Departementet mener det ikke er grunn til å innta en tilsvarende begrensning nå. Det vanlige er at strafferammen for medvirkning er den samme som for hovedhandlingen.
+
+Departementet foreslår en lovbestemmelse i militær straffeloven § 9 nytt annet ledd i tråd med vurderingene ovenfor. Det vises til omtalen i spesialmerknadene punkt 21.1.

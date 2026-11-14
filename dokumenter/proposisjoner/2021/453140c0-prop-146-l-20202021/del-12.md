@@ -1,766 +1,214 @@
-# Prop. 146 L (2020–2021), del 12 av 18 (side 125–134)
+# Prop. 146 L (2020–2021), del 12 av 22
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2021/453140c0-prop-146-l-20202021.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-146-l-20202021/id2842936/
 - Original-PDF: https://www.regjeringen.no/contentassets/31813156b60a47eeb3c2aff703c50db4/no/pdfs/prp202020210146000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 1 tabell, 21 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 125]
-
-2020–2021
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-annet ledd, og er gitt ansvaret for tiltalespørsmålet
-i de mest alvorlige straffesakene, jf. straffeprosessloven § 65 første ledd. Etter straffeprosessloven § 65 annet ledd kan riksadvokaten bare overlate avgjørelsen av tiltalespørsmålet til statsadvokaten «i den enkelte sak», dersom saken gjelder
-lovbrudd som kan straffes med fengsel inntil 21
-år. I de øvrige sakene hvor riksadvokaten har påtalekompetanse er det ikke adgang til å delegere
-avgjørelsen av påtalespørsmålet. At avgjørelsen av
-påtalespørsmålet bare kan delegeres i den enkelte
-sak, betyr også at det ikke er adgang til delegasjon
-ved generell instruks.
-Straffeprosessutvalget går inn for å lovfeste at
-riksadvokaten skal kunne delegere påtalekompetanse ved generell instruks, se utredningen punkt
-8.4.1 side 197 og lovutkastet § 2-11 fjerde ledd.
-Utvalget foreslår også en bestemmelse om at riksadvokaten kan gi generell instruks om at avgjørelser som etter loven hører under statsadvokaten,
-kan treffes av påtalemyndigheten i politiet.
-Utvalget begrunner forslagene med behovet
-for fleksibilitet, og at det synes rimelig at riksadvokaten som påtalemyndighetens øverste leder gis
-større rom enn i dag til å øve innflytelse på
-arbeidsdelingen i etatene. Etter utvalgets syn er
-det ingen grunn til å betvile at riksadvokaten vil
-benytte adgangen til delegasjon på forsvarlig vis.
-Utgangspunktet skal fortsatt være at riksadvokaten primært har kompetansen til å avgjøre påtalespørsmålet i saker som gjelder lovbrudd med 21
-års strafferamme eller mer. Delegasjonsadgangen
-skal primært brukes når særlige hensyn gjør seg
-gjeldende. Et eksempel kan være tilfeller der det,
-til tross for lovbruddets strafferamme, erfaringsmessig kan forekomme noe mindre alvorlige overtredelser, og der spesialiserte påtalegrupper i politiet har særlig gode faglige forutsetninger.
-Av høringsinstansene har Nordland statsadvokatembeter, Riksadvokaten og Troms og Finnmark
-statsadvokatembeter uttalt seg om forslaget. Alle
-de nevnte instansene støtter forslaget.
-D e p a r t e m e n t e t foreslår å endre straffeprosessloven § 65 annet ledd i samsvar med utvalgets forslag, og viser til den begrunnelse som er
-gitt av utvalget. En adgang for riksadvokaten til å
-delegere påtalekompetansen nedover i hierarkiet
-vil kunne bidra til bedre ressursutnyttelse i påtalemyndigheten. I tillegg antas de foreslåtte
-endringene å kunne bidra til at påtaleavgjørelser
-treffes raskere. Departementet viser til at utvidet
-delegasjonsadgang ikke antas å generere merarbeid av betydning for statsadvokatene og påtalemyndigheten i politiet, ettersom de i alle tilfeller
-
-123
-
-uansett må utarbeide innstilling med forslag til
-avgjørelse.
-
-14.6.2 Statsadvokatens delegasjonsadgang
-Statsadvokaten avgjør spørsmålet om tiltale når
-det ikke hører under riksadvokaten eller politiet,
-jf. straffeprosessloven § 66. Kompetansen gjelder
-primært for lovbrudd som kan straffes med fengsel i mer enn ett år, jf. den generelle kompetansen
-for påtalemyndigheten i politiet etter § 67 annet
-ledd bokstav a. Lovbrudd som kan straffes med
-fengsel i inntil 21 år eller mer er underlagt riksadvokatens påtalekompetanse. I tillegg er det angitt
-en rekke straffebud i straffeprosessloven § 65 første ledd nr. 3 til 6 og § 67 annet ledd bokstav b
-og c hvor påtalekompetansen likevel ligger hos
-enten riksadvokaten eller påtalemyndigheten i
-politiet. Etter gjeldende rett har ikke statsadvokaten kompetanse til å delegere avgjørelsen av
-spørsmålet om påtale til påtalemyndigheten i politiet, verken i den enkelte sak eller ved generell
-instruks.
-Straffeprosessutvalget foreslår å lovfeste at
-statsadvokaten skal kunne overlate påtaleavgjørelsen til påtalemyndigheten i politiet i enkeltsaker,
-se utredningen punkt 8.2.2 side 187 og lovutkastet
-§ 2-11. Forslaget er begrunnet på samme måte
-som forslaget om utvidelse av riksadvokatens
-delegasjonsadgang, se punkt 14.6.1. En utvidelse
-av riksadvokaten og statsadvokatenes delegasjonsadgang vil sammen bidra til økt fleksibilitet i
-straffesaksbehandlingen. Som for riksadvokatens
-delegasjonsadgang påpeker utvalget at delegasjon
-primært skal være aktuelt når særlige hensyn gjør
-seg gjeldende. Utvalget viser til at det for eksempel kan være aktuelt med delegasjon der spesialiserte påtalegrupper i politiet har særlig gode faglige forutsetninger for å treffe påtaleavgjørelser.
-Av høringsinstansene har Nordland statsadvokatembeter og Riksadvokaten uttalt seg om forslaget. Begge støtter forslaget.
-D e p a r t e m e n t e t foreslår i likhet med
-utvalget å lovfeste at statsadvokaten i den enkelte
-sak kan delegere avgjørelsen av spørsmålet om
-påtale til påtalemyndigheten i politiet. Endringen
-foreslås inntatt i nytt annet punktum i straffeprosessloven § 66. Forslaget må ses i sammenheng
-med forslaget om at riksadvokaten kan delegere
-tilsvarende ved generell instruks, se punkt 14.6.1.
-Forslaget til lovendring vil gi statsadvokatembetene større fleksibilitet i straffesaksbehandlingen,
-og vil kunne gjøre det mulig å effektivisere
-behandlingen av mindre krevende saker. Departementet antar at forslaget vil kunne bidra til bedre
-
-[Side 126]
-
-124
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-ressursutnyttelse og til at påtaleavgjørelser kan
-treffes raskere. Delegasjon vil særlig være aktuelt
-i saker der det til tross for høy strafferamme erfaringsmessig kan forekomme noe mindre alvorlige
-overtredelser, og der spesialiserte påtalegrupper i
-politiet har særlig gode faglige forutsetninger. I tillegg kan delegasjonsadgangen være praktisk i
-saker med mange tiltaleposter, hvor bare én hører
-under overordnet påtalemyndighet.
-
-14.7 Overføring av saker til
-Spesialenheten for politisaker
-14.7.1 Gjeldende rett
-Etter gjeldende rett har Spesialenheten for politisaker (Spesialenheten) ansvaret for strafforfølgningen i saker hvor embets- eller tjenestemenn i
-politiet eller påtalemyndigheten er anmeldt for
-eller mistenkes for å ha begått en straffbar handling i tjenesten, jf. straffeprosessloven § 67 sjette
-ledd første og annet punktum. Dette gjelder både
-etterforsking og avgjørelsen av spørsmålet om
-påtale, så lenge spørsmålet om påtale ikke hører
-under riksadvokaten, jf. § 67 sjette ledd tredje
-punktum. Spesialenheten er ikke en del av påtalemyndigheten, jf. straffeprosessloven § 55, men
-har etterforskings- og påtalekompetanse innenfor
-sitt saksområde. Det fremgår av § 67 sjette ledd
-tredje punktum at Spesialenhetens leder har kompetanse til å avgjøre tiltalespørsmålet i saker som
-hører under organets ansvarsområde, med unntak av de saker der avgjørelsen skal treffes av riksadvokaten. Det følger av sjette ledd femte punktum at Spesialenheten er underlagt riksadvokatens instruksjonsmyndighet.
-I påtaleinstruksen kapitel 34 er det gitt nærmere regler om Spesialenhetens kompetanse.
-Videre har riksadvokaten gitt retningslinjer i
-rundskriv nr. 3/2006. I saker med to eller flere
-mistenkte, der ikke alle er ansatt i politiet eller
-påtalemyndigheten, avgjør riksadvokaten om Spesialenheten skal lede etterforskingen av hele
-saken, eller om ledelsen av etterforskingen skal
-deles, jf. påtaleinstruksen § 34-9 tredje ledd første
-punktum. I saker hvor det er mistanke om at en
-ansatt i politiet eller påtalemyndigheten har begått
-straffbare handlinger både i og utenfor tjenesten,
-avgjør riksadvokaten om enheten skal lede etterforskingen av hele saken, eller om ledelsen av
-etterforskingen og avgjørelsen av påtalespørsmålet skal deles, jf. § 34-9 tredje ledd annet punktum.
-
-2020–2021
-
-14.7.2 Straffeprosessutvalgets forslag
-Straffeprosessutvalget foreslår i det vesentlige å
-videreføre Spesialenhetens ansvarsområde, jf.
-utredningen punkt 8.2.4 på side 188 og lovutkastet
-§ 2-15. Utvalget foreslår imidlertid å lovfeste en
-generell adgang for riksadvokaten til å beslutte
-overføring av saker til Spesialenheten når det er
-grunn til det. Utvalget viser i den sammenheng til
-påtaleinstruksen § 34-9 tredje ledd, som åpner for
-dette i saker med flere mistenkte eller flere forhold, der kun deler av sakskomplekset er underlagt enhetens alminnelige saksområde. Utvalget
-foreslår at riksadvokaten også kan overføre saker
-til enheten i andre tilfeller når behovet for uavhengighet til politiet og den øvrige påtalemyndighet,
-hensynet til offentlighetens tillit eller andre særlige grunner tilsier det.
-14.7.3 Høringsinstansenes syn og
-departementets vurdering
-Ingen av høringsinstansene har hatt innvendinger
-mot forslaget.
-D e p a r t e m e n t e t foreslår i likhet med
-utvalget å lovfeste en generell adgang for riksadvokaten til å overføre saker til Spesialenheten. Det
-vises til utvalgets begrunnelse for forslaget. Selv
-om det neppe vil være aktuelt å overføre mange
-saker til Spesialenheten, ut over de saker enheten
-behandler i dag, kan det være hensiktsmessig
-med en slik adgang i enkelte tilfeller. Overføring
-kan for eksempel være hensiktsmessig der det er
-tvil om et anmeldt forhold er begått i eller utenfor
-tjenesten, og i saker der en person i ledende stilling i politiet eller påtalemyndigheten er anmeldt
-for å ha begått et straffbart forhold utenfor tjenesten.
-
-14.8 Frafall av riksadvokattiltale
-Etter gjeldende rett kan aktor frafalle enkelte tiltaleposter eller tiltalen i sin helhet under hovedforhandlingen, jf. straffeprosessloven § 254 første
-ledd første punktum. Dersom spørsmålet om tiltale hører under Kongen eller riksadvokaten, krever frafall likevel samtykke fra riksadvokaten, jf.
-straffeprosessloven § 254 første ledd annet punktum. Ved lov 1. november 2019 nr. 71 om endringer i straffeprosessloven (påtalemyndighetens
-uavhengighet m.m.) ble bestemmelsene om Kongens tiltalekompetanse opphevet, slik at det bare
-er frafall av riksadvokattiltale som krever samtykke fra riksadvokaten i dag.
-
-[Side 127]
-
-2020–2021
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-Straffeprosessutvalget foreslår å avskaffe kravet
-om samtykke for å frafalle riksadvokattiltale. Forslaget begrunnes ikke nærmere, utover generelle
-henvisninger til effektivitet.
-Riksadvokaten støtter forslaget. Ingen andre
-har uttalt seg om forslaget.
-D e p a r t e m e n t e t foreslår i likhet med
-utvalget å avskaffe kravet om samtykke fra riksadvokaten for å frafalle enkelte tiltaleposter, eller tiltalen i sin helhet under hovedforhandlingen.
-Møtende aktor har normalt det beste grunnlaget
-for å vurdere om en tiltalepost skal frafalles under
-hovedforhandlingen. Etter departementets syn
-samsvarer forslaget bedre med møtende aktors
-rolle og kompetanse for øvrig. Møtende aktor vil
-selvsagt fortsatt kunne ta opp spørsmålet om å frafalle tiltalen med riksadvokaten, men aktors myndighet etter loven bør ikke være betinget av samtykke. Som nevnt ble bestemmelsene om Kongens tiltalekompetanse opphevet ved lov 1.
-november 2019 nr. 71 om endringer i straffeprosessloven (påtalemyndighetens uavhengighet
-m.m.). Departementet foreslår derfor å oppheve
-straffeprosessloven § 254 første ledd annet punktum i sin helhet.
-
-14.9 Politiets henleggelseskompetanse
-14.9.1 Gjeldende rett
-Straffeprosessloven inneholder ingen uttrykkelig
-bestemmelse om politiets kompetanse til å henlegge saker. Adgangen til å henlegge saker etter
-gjeldende rett fremgår indirekte av objektivitetsplikten etter straffeprosessloven § 55 a fjerde ledd
-og av straffeprosessloven § 249, som bestemmer
-at spørsmålet om tiltale skal avgjøres så snart
-saken er tilstrekkelig forberedt til det. Når saken
-er ferdig etterforsket, kan påtalemyndigheten
-påtale forholdet eller henlegge saken.
-I påtaleinstruksen er det gitt nærmere retningslinjer om påtalemyndighetens henleggelseskompetanse. Det følger av påtaleinstruksen § 17-1
-at en sak skal innstilles (henlegges) dersom det
-ikke er grunnlag for å fortsette en påbegynt etterforsking. Påtaleinstruksen § 17-1 annet ledd
-bestemmer videre at når noen anses som siktet i
-en sak hvor kompetansen til å ta ut tiltale hører
-under overordnet påtalemyndighet, skal spørsmålet om å frafalle siktelsen likevel forelegges
-denne. Så lenge ingen er siktet i saken har politiet
-dermed henleggelseskompetanse i alle saker.
-Politiet har videre henleggelseskompetanse dersom påtalekompetansen ligger hos politiet etter
-straffeprosessloven § 67, uavhengig av om noen
-
-125
-
-har vært siktet. I andre saker må spørsmålet om
-henleggelse forelegges rette statsadvokat eller
-riksadvokaten.
-
-14.9.2 Straffeprosessutvalgets forslag
-Straffeprosessutvalget foreslår å lovfeste at påtalemyndigheten i politiet kan treffe beslutning om
-henleggelse i alle saker, jf. utredningen punkt
-8.3.3 side 195, punkt 8.4.1 side 199 og lovutkastet
-§ 2-11 tredje ledd. Forslaget begrunnes med at det
-som et utgangspunkt er mindre alvorlig å beslutte
-henleggelse enn å treffe vedtak om strafforfølgning, og at kapasitetshensyn taler for at saker skal
-kunne henlegges av lavere nivå i påtalemyndigheten. At den fornærmede har adgang til å klage
-over henleggelsesvedtaket, sørger for tilstrekkelig kvalitetssikring av politiets beslutninger.
-Utvalget mener at den foreslåtte lovhjemmelen bør følges av nærmere regulering i forskrift
-eller instruks, slik som etter gjeldende rett. På
-den måten kan det gis organisatoriske rammer og
-rutiner for internkontroll, som er fleksible og kan
-justeres av riksadvokaten eller Kongen i statsråd.
-Slike retningslinjer vil sørge for ytterligere kvalitetssikring, og gi forutsigbarhet for tjenestepersonene i påtalemyndigheten og politiet. Dersom den
-foreslåtte lovbestemmelsen suppleres av tilsvarende retningslinjer som i påtaleinstruksen § 17-1,
-mener utvalget at endringsforslaget ikke vil være
-en endring av gjeldende rett.
-
-14.9.3 Høringsinstansenes syn
-Av høringsinstansene har Nordland statsadvokatembeter, Politidirektoratet og Riksadvokaten uttalt
-seg om forslaget.
-Nordland statsadvokatembeter og Riksadvokaten stiller seg bak forslaget. Riksadvokaten mener
-forslaget legger bedre til rette for at statsadvokatene kan bruke sine ressurser på andre og mer
-presserende oppgaver, og at adgangen til å
-påklage henleggelsesvedtaket sørger for tilstrekkelig kvalitetssikring. Samtidig mener Riksadvokaten at det fra tid til annen vil være behov for å
-løfte spørsmålet om henleggelse av enkelte sakstyper til statsadvokatnivået. Det foreslås derfor at
-en slik adgang fremgår uttrykkelig av loven, for
-eksempel ved at henleggelseskompetansen legges til politiet «når ikke riksadvokaten har besluttet annet». Nordland statsadvokatembeter gir
-uttrykk for liknende synspunkter. Politidirektoratet støtter ikke forslaget. Politidirektoratet ser det
-som en viktig kvalitetssikring at enkelte sakstyper
-behandles i to ledd, og at dette særlig gjelder i
-
-[Side 128]
-
-126
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-saker hvor det ikke er noen fornærmet som kan
-påklage henleggelsen.
-
-14.9.4 Departementets vurdering
-Departementet går inn for å lovfeste at politiet har
-kompetanse til å fatte vedtak om henleggelse i alle
-saker, slik utvalget har foreslått. Dette vil gi en
-klar kompetansebestemmelse for spørsmålet om
-henleggelse. Det vises til utvalgets begrunnelse,
-se punkt 14.9.2. I lys av merknadene til Nordland
-statsadvokatembeter og Riksadvokaten foreslår
-departementet i tillegg at henleggelseskompetansen skal utøves av politiet «når ikke riksadvokaten
-har besluttet annet». På den måten kan riksadvokaten gi retningslinjer som sørger for tilstrekkelig
-
-2020–2021
-
-kvalitetssikring av henleggelsesvedtakene der det
-er nødvendig, herunder i sakene hvor det ikke er
-noen fornærmet som kan påklage henleggelsesvedtaket. Dette vil også være viktig for å sørge for
-likebehandling og lik praksis rundt om i landet.
-Riksadvokaten har det overordnede ansvaret for
-straffesaksbehandlingen i påtalemyndigheten, og
-er dermed best egnet til å vurdere når det er
-behov for at Den høyere påtalemyndighet også
-skal vurdere henleggelsesvedtakene. Samtidig vil
-en slik ordning legge til rette for å balansere hensynene til effektivitet og kvalitet på en hensiktsmessig og ressursbesparende måte.
-Se ellers forslag til lovfesting av de viktigste
-grunnlagene for henleggelse i punkt 15.2.4.
-
-[Side 129]
-
-2020–2021
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-127
-
-15 Påtalevedtak
-15.1 Frist for påtalevedtak
-15.1.1 Gjeldende rett
-Straffeprosessloven § 226 fjerde ledd slår fast at
-etterforskingen skal gjennomføres så raskt som
-mulig og slik at ingen unødig utsettes for mistanke eller ulempe. Spørsmålet om tiltale skal
-avgjøres så snart saken er tilstrekkelig forberedt,
-jf. straffeprosessloven § 249 første ledd. Bestemmelsen gjelder for alle påtaleavgjørelser, jf. NUT
-1969: 3 Innstilling om rettergangsmåten i straffesaker fra Straffeprosesslovkomiteen side 280. I
-saker mot personer som var under 18 år på handlingstiden, skal påtalespørsmålet som hovedregel
-avgjøres innen seks uker etter at vedkommende
-anses som mistenkt, jf. § 249 annet ledd. Grunnloven § 95 og EMK artikkel 6 nr. 1 beskytter retten
-til rettergang innen rimelig tid.
-Riksadvokaten har gjennom direktiver fastsatt
-konkrete mål for saksbehandlingstiden i enkelte
-sakstyper. For 2020 er målene 130 dager i voldtektssaker, 90 dager i saker som gjelder grov
-kroppskrenkelse, kroppsskade og grov kroppsskade og som hovedregel seks uker i saker som
-gjelder personer som på handlingstidspunktet var
-under 18 år, jf. riksadvokatens mål og prioriteringsrundskriv for 2020 punkt IV. 2.
-Etter gjeldende rett er det bare foreldelsesreglene som setter absolutt frist for når det er for
-sent å påtale et straffbart forhold. De lov- og direktivbestemte fristene er ikke preklusive. Kontroll
-med saksbehandlingstiden skjer i dag innen det
-enkelte politidistrikt og gjennom tilsyn fra overordnet påtalemyndighet. Mistenkte og fornærmede kan også bringe spørsmålet om en sak
-behandles med tilstrekkelig fremdrift inn for overordnet påtalemyndighet, som i praksis behandler
-slike klager utenfor ordningen etter straffeprosessloven § 59 a.
-Det følger av straffeloven § 78 bokstav e at urimelig lang saksbehandlingstid skal tillegges vekt
-som formildende omstendighet ved utmåling av
-straffen. I vurderingen av hva som er rimelig saksbehandlingstid, skal det tas utgangspunkt i lovbruddets art og hva som er normal saksbehand-
-
-lingstid for den aktuelle typen lovbrudd. Konkrete
-omstendigheter i den enkelte saken kan gi berettiget grunn til at saksbehandlingstiden er kortere
-eller lengre enn det som er vanlig for normaltilfellet av lovbruddets art, jf. Ot.prp. nr. 8 (2007–2008)
-Om lov om endringer i straffeloven 20. mai 2005
-nr. 28 mv. side 275.
-Lang saksbehandlingstid kan innebære brudd
-på kravet om rettergang innen rimelig tid etter
-Grunnloven § 95 og EMK artikkel 6 nr. 1. Det er
-imidlertid ikke nødvendig å konstatere brudd på
-disse bestemmelsene for at lang saksbehandlingstid skal gi seg utslag i straffen. Det følger uansett
-klart av tradisjonell straffutmålingspraksis at for
-lang saksbehandlingstid skal tillegges vekt til fordel for domfelte, jf. blant annet HR-2016-225-S
-avsnitt 27 og 35.
-
-15.1.2 Straffeprosessutvalgets forslag
-Straffeprosessutvalget behandler spørsmålet om
-frist for påtalevedtak i utredningen punkt 16.2 side
-356–358. Utvalget bemerker at lang saksbehandlingstid er en betydelig merbelastning for de involverte, og at etterforskingen og den påtalemessige
-behandlingen utgjør en vesentlig del av den samlede saksbehandlingstiden i straffesaker. Etter
-utvalgets syn bør tiltak som kan redusere behandlingstiden i politiet og påtalemyndigheten vurderes.
-Utvalget viser til konklusjonene i rapport 20.
-juni 2000 Prosjekt hurtigere straffesaksbehandling, Arbeidsgruppe I, der det i hovedsak fremgår
-at det ikke er gitt at innføring av frister i seg selv
-vil forkorte saksbehandlingstiden. Fristregler kan
-også føre til forskyvninger og omprioriteringer i
-politiet. Stilles det krav til saksbehandlingstiden
-for noen sakstyper, kan det føre til at andre saker
-får lengre saksbehandlingstid. Utvalget slutter
-seg i det vesentlige til konklusjonene i rapporten
-og bemerker følgende, jf. utredningen side 357:
-«Detaljerte fristregler for ulike sakstyper hører
-etter utvalgets syn uansett ikke hjemme i
-loven, men bør i stedet reguleres gjennom forskrifter, rundskriv mv., som enklere kan juste-
-
-[Side 130]
-
-128
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-res i takt med endringer i behov over tid. Det er
-også vanskelig å se for seg at absolutte frister
-er egnet, ettersom loven må ta høyde for variasjonene mellom ulike straffesaker. Ønsket om
-effektiv saksavvikling bør dermed, slik utvalget ser det, i første rekke sikres gjennom andre
-tiltak enn lovbestemte frister.
-Etter utvalgets syn kan likevel mye tale for
-at loven bør inneholde en relativ frist for avgjørelse av påtalespørsmålet, sett i lys av fristreglene som følger av overordnede rettsnormer.
-Retten til behandling innen rimelig tid følger av
-Grunnloven § 95 og Den europeiske menneskerettskonvensjon (EMK) artikkel 6 nr. 1. En
-ren gjentakelse i loven av kravet om avgjørelse
-innen rimelig tid vil ikke i seg selv tilføre noe. I
-kombinasjon med saksbehandlings- og kontrollregler som sikrer reell håndhevelse, vil
-imidlertid en slik regulering kunne få selvstendig betydning.»
-Etter dette foreslår utvalget at spørsmålet om
-påtale skal avgjøres «så snart saken er tilstrekkelig opplyst, og innen rimelig tid etter at noen er å
-anse som mistenkt», jf. lovutkastet § 28-1 første
-ledd. Den særskilte fristen på seks uker for gjerningspersoner under 18 år er ikke foreslått videreført i lovutkastet, uten at det er gitt noen nærmere
-begrunnelse.
-Etter utvalgets syn må kontroll med saksbehandlingstiden i første rekke skje internt i påtalemyndigheten. Nærmere regler om slik internkontroll foreslås regulert i forskrift eller retningslinjer
-fra riksadvokaten. Videre bemerker utvalget at
-forslaget ikke er ment å endre muligheten for mistenkte og fornærmede til å bringe spørsmål om
-saksbehandlingen, herunder om fremdriften i
-etterforskingen, inn for overordnet påtalemyndighet.
-Utvalget drøfter spørsmålet om det også bør
-innføres en ordning med rettslig kontroll med
-fremdriften i saksbehandlingen, jf. utredningen
-side 357 flg. Et flertall av utvalgsmedlemmene
-mener det er behov for uavhengig kontroll med
-saksbehandlingstiden frem til avgjørelse av påtalespørsmålet og foreslår at domstolene tillegges en
-slik funksjon. Dette vil etter flertallets syn ikke
-være i strid med de hensyn anklageprinsippet
-bygger på, og vil sikre at siktede får et effektivt
-vern mot uforholdsmessig lang saksbehandlingstid.
-Flertallets forslag går ut på at mistenkte etter 1
-år og 6 måneder kan bringe spørsmålet om saken
-fremmes med tilstrekkelig hurtighet inn for domstolene. Retten kan fastsette en preklusiv frist der-
-
-2020–2021
-
-som den finner at videre forfølgning mot mistenkte vil være urimelig. Hvorvidt vilkåret er oppfylt vil bero på en konkret vurdering, der det blant
-annet må tas hensyn til lang saksbehandling som
-følge av liggetid, manglende planmessighet, koordinering og dimensjonering av saken. I tillegg må
-det ses hen til hensynet til fornærmede. Flertallet
-legger til grunn at terskelen for å anvende
-bestemmelsen vil måtte være relativt høy. Lovforslaget er inspirert av den danske retsplejeloven
-§ 718 b, stk. 1–3, som slår fast at retten på nærmere vilkår kan fastsette en frist for avgjørelse av
-påtalespørsmålet. Fristoversittelse medfører at
-påtale mot siktede anses for «opgivet».
-Mindretallet (ett utvalgsmedlem) vil innføre en
-adgang for mistenkte til å få overprøvd saksbehandlingstiden med preklusiv virkning, men
-mener at det må være overordnet påtalemyndighet som foretar overprøvingen. En ordning som
-skissert av flertallet vil etter mindretallets syn
-bryte med den tilbaketrukne rollen domstolen har
-og bør ha i forhold til påtalemyndigheten i etterforskingsfasen. En adgang til å klage over saksbehandlingstiden til overordnet påtalemyndighet vil
-etter mindretallets syn være fornuftig og bedre i
-samsvar med forvaltningsrettslige prinsipper og
-fagansvaret som ligger til overordnet påtalemyndighet.
-
-15.1.3 Høringsinstansenes syn
-PST, Oslo Statsadvokatembeter og Riksadvokaten
-har kommentert forslaget om lovfesting av at
-påtale skal avgjøres så snart saken er tilstrekkelig
-opplyst og innen rimelig tid. Samtlige høringsinstanser støtter forslaget. Riksadvokaten påpeker at
-det samme vil gjelde uten en slik bestemmelse,
-men at en synliggjøring i loven vil forhåpentligvis
-føre til en bevisstgjøring om påtalemyndighetens
-plikt til å påse at straffesaksbehandlingen har adekvat fremdrift.
-Riksadvokaten og Sekretariatet for konfliktrådsbehandling har kommentert at fristen på seks uker
-for barn under 18 år ikke er foreslått videreført av
-utvalget. Begge stiller seg negative til dette. Riksadvokaten er bekymret for at saksbehandlingstiden kan gå opp dersom fristen fjernes. Sekretariatet for konfliktrådsbehandling uttaler at dagens
-fristregel er viktig signal om at saker mot unge
-lovbrytere må behandles raskt og gis høy prioritet. Høringsinstansen peker på at det har kommet
-tydelige signaler fra politi og påtalemyndigheten
-om at lovfestingen bidrar til at saksbehandlingstiden i disse sakene holdes nede.
-
-[Side 131]
-
-2020–2021
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-Domstoladministrasjonen, Gulating lagmannsrett, Kristiansand tingrett og Vest politidistrikt støtter forslaget om å innføre domstolskontroll med
-saksbehandlingstiden. Disse høringsinstansene
-slutter seg til uttalelsene fra Straffeprosessutvalgets flertall. Domstoladministrasjonen uttaler at
-domstolskontroll vil virke oppdragende på påtalemyndigheten, og kan ikke se noen prinsipielle
-betenkeligheter med forslaget. Høringsinstansen
-antar at bestemmelsen vil bli brukt relativt sjelden, men at en slik ordning kan ha en viss effekt
-på etterforskingsfremdriften.
-Forslaget om å innføre domstolskontroll med
-saksbehandlingstiden har ellers møtt stor motstand i høringsrunden. Asker og Bærum tingrett,
-Bergen tingrett, Borgarting lagmannsrett, Dommerforeningen, Hordaland statsadvokatembeter,
-Innlandet politidistrikt, Kripos, Møre og Romsdal
-og Sogn og Fjordane statsadvokatembeter, Nordland
-politidistrikt, Nordland statsadvokatembeter, Oslo
-politidistrikt, Oslo statsadvokatembeter, Oslo tingrett, Politidirektoratet, PST, Riksadvokaten, Rogaland statsadvokatembeter, Stine Sofies Stiftelse, SørVest politidistrikt, Sør-Øst politidistrikt, Troms og
-Finnmark politidistrikt, Trøndelag statsadvokatembeter, Vestfold og Telemark statsadvokatembeter,
-Økokrim og Øst politidistrikt går imot forslaget.
-Hovedinnvendingen er at domstolskontroll av
-fremdriften i saksbehandlingen bryter med anklageprinsippet og domstolenes rolle i straffesaksbehandlingen. Mange hevder utvalgets forslag vil
-være prosessdrivende og kunne føre til forhastede påtaleavgjørelser.
-Borgarting lagmannsrett uttaler at det i vår prosessordning er fremmed og lite ønskelig at retten
-på denne måten skal kontrollere politiets etterforsking. Oslo statsadvokatembeter uttaler at man i et
-slik forslag ser et tydelig element av en etterforskingsdomstol som er fjernt fra det norske
-systemet, og som vil representere en rettssikkerhetsrisiko.
-Hordaland statsadvokatembeter mener at den
-foreslåtte fristregelen må antas å bli prosesskapende og legge beslag både på påtalemyndigheten i politiet og etterforskingsressurser og vil
-tvinge retten til å foreta krevende vurderinger
-som den har usikre forutsetninger for. Videre hevdes det at fristregelen kan «skape berettiget
-vegring mot å iverksette etterforsking i omfattende og kompliserte saker, av frykt for at prosessuelle begjæringer skal ta en for stor del av de
-samlede etterforskingsressurser».
-De fleste høringsinstansene som er imot domstolskontroll med saksbehandlingstiden mener i
-likhet med utvalgets mindretall at det bør innføres
-
-129
-
-en klagerett over sen saksbehandling til overordnet påtalemyndighet. Dette gjelder Asker og
-Bærum tingrett, Bergen tingrett, Borgarting lagmannsrett, Dommerforeningen, Hordaland statsadvokatembeter, Innlandet politidistrikt, Kripos, Nordland statsadvokatembeter, Oslo statsadvokatembeter, Politidirektoratet, PST, Riksadvokaten, Rogaland statsadvokatembeter, Stine Sofies Stiftelse, SørVest politidistrikt, Sør-Øst politidistrikt, Trøndelag
-statsadvokatembeter, Vestfold og Telemark statsadvokatembeter, Økokrim og Øst politidistrikt.
-Kripos uttaler at klageadgang til overordnet
-påtalemyndighet etter for eksempel 1 år og
-6 måneder, er tilstrekkelig. Kripos mener at en
-slik løsning har best sammenheng med alminnelige forvaltningsmessige prinsipper, anklageprinsippet og fagledelsesansvaret og instruksjonsmyndigheten som ligger hos Den høyere påtalemyndighet.
-Riksadvokaten mener dissensen fra utvalgets
-mindretall gir en balansert vurdering av de hensyn som gjør seg gjeldende. Riksadvokaten uttaler
-at Den høyere påtalemyndighet også i dag
-behandler slike klager, men at det vil være en fordel å få ordningen lovfestet.
-Av de høringsinstansene som ønsker klageadgang til høyere påtalemyndighet, er det delte
-meninger om hvordan denne klageretten bør
-utformes, herunder om den bør innebære at overordnet påtalemyndighet setter en preklusiv frist.
-Nordland Statsadvokatembeter mener at en lovfesting av en ordning hvor statsadvokatene, etter
-klage fra mistenkte eller fornærmede over sendrektig fremdrift, kan sette frister for politiet for å
-få sluttført etterforskingen, og hvor konsekvensen i ytterste tilfelle kan bli at etterforskingen
-anses innstilt, vil gi bedre legitimitet og en sterkere rettslig forankring enn hva som er tilfellet i
-dag. PST er ikke enig i at det skal innføres en preklusiv frist, og peker på at fristen på 18 måneder
-ikke i tilstrekkelig grad tar hensyn til omfattende
-og komplekse saker. Også Kripos mener at en frist
-fastsatt av Den høyere påtalemyndighet ikke bør
-ha preklusiv virkning. I følge Kripos vil dette
-kunne gi svært ulikt resultat i straffesaker som
-ellers er like, avhengig av om mistenkte har klaget eller ikke. Ved fristoversittelser bør det i stedet gis en kompensasjon, for eksempel i form av
-en mildere straffepåstand fra påtalemyndigheten.
-Politidirektoratet er i utgangspunktet enig med
-Kripos, men mener at en slik uheldig virkning
-begrenses av at det er påtalemyndigheten og ikke
-domstolen som fastsetter fristen. Etter Politidirektoratets syn har overordnet påtalemyndighet mer
-kunnskap og erfaring med etterforsking enn dom-
-
-[Side 132]
-
-130
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-stolene. De er således nærmest til å vurdere om
-og eventuelt hvilken frist som vil være riktig å fastsette. De påpeker også at det vil være overordnet
-påtalemyndighet som i realiteten frafaller strafforfølgningen dersom den preklusive fristen ikke
-overholdes, hvilket anses i samsvar anklageprinsippet og overordnet påtalemyndighets omgjøring- og instruksjonsmyndighet.
-Stine Sofies stiftelse mener at en klagerett også
-bør lovfestes for fornærmede.
-
-15.1.4 Departementets vurdering
-I likhet med Straffeprosessutvalget går departementet inn for å lovfeste at påtalevedtak skal treffes så snart saken er opplyst og innen rimelig tid
-etter at noen er å anse som mistenkt. Departementet kan i det vesentlige slutte seg til utvalgets
-begrunnelse for forslaget. Et relativt krav til fremdriften i straffesaker synes å være et egnet virkemiddel for å påskynde saksbehandlingen og er
-dessuten i samsvar med de krav som allerede følger av Grunnloven og EMK.
-Etter departementets syn bør fristen på seks
-uker for lovbrytere under 18 år beholdes. Fristen
-gir et viktig signal om at saker mot unge lovbrytere må behandles raskt og gis høy prioritet. Det
-vises her for øvrig til innspillene fra Riksadvokaten
-og Sekretariatet for konfliktrådsbehandling.
-Departementet er ikke enig med utvalgets flertall i at fremdriften i etterforskingen bør være
-gjenstand for domstolsprøving. På dette punktet
-kan departementet i det vesentlige slutte seg til de
-innvendingene som er reist av utvalgets mindretall og en rekke høringsinstanser. Departementet
-vil særlig fremheve at en slik ordning bryter med
-den tilbaketrukne rollen domstolen har og bør ha
-overfor påtalemyndigheten i etterforskingsfasen.
-I tillegg vil en slik adgang antagelig føre til en
-merbelastning for domstolenes saksmengde.
-Departementet har vurdert om det som alternativ til rettslig prøving bør lovfestes en klagerett
-for mistenkte til høyere påtalemyndighet, slik
-utvalgets mindretall har foreslått. Departementet
-viser til at det prinsipielt sett er viktig at manglende fremdrift i en sak er gjenstand for overprøving, dels av rettssikkerhetshensyn og dels av
-kontrollhensyn. Påtalemyndigheten er i lys av sin
-erfaring og kunnskap om etterforsking egnet til å
-foreta en slik overprøving. Departementet er imidlertid i tvil om en klagerett som foreslått vil føre til
-at saksbehandlingstiden i påtalemyndigheten
-samlet sett blir bedre. En lovfestet klageordning
-kan i praksis ha som konsekvens at ressursbruken forskyves uten at den samlede saksbehand-
-
-2020–2021
-
-lingstiden blir kortere, og slik sett føre til uhensiktsmessige prioriteringer. Dette er antagelig
-særlig aktuelt dersom klageordningen innebærer
-at overordnet påtalemyndighet setter en preklusiv
-frist for å påtale det straffbare forholdet.
-Departementet er enig med de høringsinstansene som påpeker at en preklusiv frist kan føre til
-ulike resultater, avhengig av om klageretten er
-benyttet eller ikke. Videre legger departementet
-vekt på at en lovfestet klagerett kan føre til flere
-klager, og dermed legge beslag på mer tid hos
-påtalemyndigheten. På denne bakgrunn har
-departementet kommet til at det ikke bør lovfestes en klagerett til overordnet påtalemyndighet.
-Kontroll med fremdriften i straffesaker bør etter
-departementets syn – som i dag – i første rekke
-sikres gjennom generell fagledelse og instruksjon. I tillegg til foreldelsesreglene, vil ordningen
-med strafferabatt ved lang saksbehandlingstid og
-erstatning for uberettiget forfølgning fremdeles
-være kompenserende mekanismer der straffesaksbehandlingen blir urimelig lang. Departementet legger til at det med dette ikke tas sikte på
-å begrense påtalemyndighetens adgang til å
-behandle klager over langvarig saksbehandling
-etter omstendighetene, slik praksis er i dag.
-Departementet vil også vise til de andre forslagene i denne proposisjonen om påtalemyndigheten. Klarere regler om instruksjon, en lovfesting som tydeliggjør statsadvokatenes ansvar for
-fagledelse etter etablert praksis og hensiktsmessige delegasjonshjemler vil kunne bidra til at ressursene i påtalemyndigheten benyttes bedre. Det
-er grunn til å forvente at dette samlet sett vil legge
-bedre til rette for at påtalevedtak treffes så snart
-saken er opplyst og innen rimelig tid etter at noen
-er å anse som mistenkt.
-
-15.2 Henleggelse
-15.2.1 Gjeldende rett
-Henleggelse av en straffesak innebærer at påtalemyndigheten beslutter at strafforfølgningen skal
-innstilles. Beslutninger om henleggelse betegnes
-gjerne som negative påtaleavgjørelser (påtalevedtak). Motsetningen er de positive påtaleavgjørelsene, der påtalemyndigheten som hovedregel legger til grunn at vilkårene for straffansvar er tilstede. Eksempler på positive påtaleavgjørelser er
-tiltalebeslutninger, forelegg og påtaleunnlatelser.
-Henleggelser må avgrenses mot den adgang polititjenestepersonell uten påtalemyndighet har til å
-gjøre opp mindre alvorlige overtredelser «på stedet». Det skjer også mer uformelle avgrensninger
-
-[Side 133]
-
-2020–2021
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-av sakskompleks, som ikke vil bli ansett som påtalevedtak. For at en skal kunne tale om henleggelse må det først foreligge en anmeldelse eller
-være åpnet etterforsking.
-Straffesaker kan henlegges av ulike årsaker
-og disse er i varierende grad lovfestet. For det første kan en sak henlegges av bevismessige eller
-strafferettslige grunner. Disse grunnene er forutsatt i straffeprosessloven §§ 73 første ledd første
-punktum og 74 første ledd første punktum. Straffeprosessloven §§ 71 b og 71 c bygger også på en
-forutsetning om at straffesaken henlegges hvis
-det ikke er strafferettslig grunnlag for forfølgning. Etter påtaleinstruksen § 7-4 fjerde ledd kan
-påtalemyndigheten beslutte å henlegge en anmeldelse uten at det foretas etterforsking når det er
-klart at det anmeldte forhold ikke er straffbart.
-For det andre kan det være prosessuelle årsaker til at en straffesak henlegges. Eksempler kan
-være saker der forbudet mot gjentatt strafforfølgning i EMK stenger for en positiv påtaleavgjørelse, eller der det mangler nødvendig påtalebegjæring. Etter gjeldende rett følger sistnevnte
-implisitt av straffeprosessloven § 72 annet ledd,
-hvor det fastsettes at en sak skal innstilles dersom
-nødvendig påtalebegjæring fra særlig myndighet
-trekkes tilbake. Se også påtaleinstruksen § 7-4
-fjerde ledd hvor det fremgår at påtalemyndigheten kan beslutte å henlegge en anmeldelse uten at
-det foretas etterforsking når det er klart at det
-anmeldte forhold ikke er gjenstand for offentlig
-påtale.
-En tredje kategori er henleggelser av påtalemessige grunner. Kategorien omfatter henleggelser av skjønnsmessig karakter. Det kan for eksempel være tale om henleggelse etter straffeprosessloven § 62 a annet ledd, som generelt bestemmer at forfølgning kan innstilles for straffebud
-med en strafferamme på inntil to års fengsel hvis
-ikke allmenne hensyn tilsier påtale. Ved vurderingen skal det blant annet legges vekt på overtredelsens grovhet, hensynet til den alminnelige lovlydighet og om den fornærmede, en annen som har
-lidt skade ved overtredelsen eller vedkommende
-berørte myndighet, ønsker påtale. Bestemmelsen
-ble innført ved ikrafttredelsen av straffeloven av
-2005, samtidig som ordningen med betinget
-offentlig påtale ble endret og påtalebegjæring fra
-fornærmede avskaffet. Det er imidlertid gjort
-unntak fra utgangspunktet i straffeprosessloven
-§ 62 a annet ledd flere steder. For eksempel er det
-etter enkelte bestemmelser i spesiallovgivningen
-et vilkår for påtale at sterke allmenne hensyn tilsier det, eller at det foreligger påtalebegjæring fra
-særskilt myndighet. Se nærmere punkt 15.3 neden-
-
-131
-
-for. I spesiallovgivningen er det også bestemmelser om at påtale kan unnlates hvis ikke allmenne
-hensyn tilsier påtale for straffebud med en strafferamme utover to års fengsel.
-Henleggelse av påtalemessige grunner er
-videre aktuelt der påtalemyndigheten finner at det
-ikke er «rimelig grunn» til å iverksette etterforsking, eller fortsette en påbegynt etterforsking, jf.
-straffeprosessloven § 224. Vanligvis angis sannsynlighet, proporsjonalitet og saklighet som styrende kriterier for vurderingen, jf. riksadvokatens
-rundskriv nr. 3/1999 punkt III.3. I dette inngår en
-bedømmelse av graden av sannsynlighet for at det
-er begått et straffbart forhold, en kvalitativ vurdering av om et mulig forhold er så alvorlig at det
-bærer en etterforskingsinnsats og et krav om at
-det ikke tas utenforliggende hensyn. Henleggelsesadgangen etter § 62 a annet ledd har etter sin
-ordlyd et visst overlapp med bestemmelsen i
-§ 224. Riksadvokaten har trukket grensen mellom
-de to henleggelsesgrunnlagene slik, se rundskriv
-nr. 2/2015 punkt VIII.1.3 side 21:
-«Ettersom straffeprosessloven § 224 åpner for
-en bred, skjønnsmessig vurdering av om saken
-bør henlegges før det er igangsatt etterforsking, er det imidlertid ikke behov for å
-anvende straffeprosessloven § 62 a annet ledd
-på dette stadiet av saken. Riksadvokaten
-beslutter derfor at en før det er iverksatt etterforsking, ikke skal henlegge saken fordi allmenne hensyn ikke foreligger, jf. straffeprosessloven § 62 a annet ledd. Forholdet skal i
-stedet henlegges fordi det ikke er rimelig
-grunn til å iverksette etterforsking, jf. straffeprosessloven § 224».
-De påtalemessige henleggelsesgrunnene omfatter også henleggelser begrunnet med manglende
-saksbehandlingskapasitet.
-Påtalemyndigheten
-har egne koder for denne typen henleggelser i
-STRASAK. Det rådende synet i teorien er at påtalemyndigheten har adgang til å prioritere hvilke
-saker som skal etterforskes og hvilke som skal
-henlegges av kapasitetsgrunner, se blant annet
-Gert Johan Kjelby, Påtalerett (2. utgave, Bergen
-2019) side 125. Kompetansen forankres i straffeprosessloven § 224 første ledd samt påtaleinstruksen § 7-4 første ledd om iverksetting av etterforsking. Videre har riksadvokaten i rundskriv
-nr. 3/1999 og rundskriv nr. 3/2016 forutsatt at
-påtalemyndigheten har en slik kompetanse og gitt
-nærmere retningslinjer for henleggelser på
-grunnlag av manglende kapasitet. I rundskriv nr.
-3/2016 punkt III er det angitt at kapasitetshenleg-
-
-[Side 134]
-
-132
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-gelser i utgangspunktet er begrenset til saker
-med ukjent gjerningsperson. Sentrale og alvorlige
-lovbrudd kan aldri henlegges av kapasitetsgrunner. Hvis det bare er den påtalemessige behandlingen av en straffesak som gjenstår, skal det
-sterke grunner til for å henlegge.
-Henleggelse av påtalemessige årsaker skjer
-også i saker der påtalemyndigheten finner at en
-overtredelse bør forfølges administrativt. Etter
-§ 71 b kan påtalemyndigheten, dersom noen som
-ikke er fylt 15 år, har begått en ellers straffbar
-handling, beslutte at saken skal overføres til barneverntjenesten. Det følger av straffeprosessloven
-§ 71 c at et forhold som kan medføre en administrativ sanksjon, kan henlegges og overføres til forvaltningen hvis vilkårene for straff eller offentlig
-påtale ikke er oppfylt, eller hvis det for øvrig er
-mest hensiktsmessig at forholdet forfølges administrativt.
-Den europeiske menneskerettskonvensjon
-(EMK) artikkel 3 og artikkel 8 innebærer i visse
-tilfeller en positiv plikt til å iverksette etterforsking, eventuelt etterfulgt av påtale, dersom det
-foreligger rimelig begrunnede påstander om
-krenkelser begått av private eller myndigheter, se
-Jon Fridrik Kjølbro, Den Europæiske Menneskerettighedskonvention – for praktikere (5. utgave,
-København 2020) side 888. Dette utgangspunktet
-kommer også til utrykk i riksadvokatens rundskriv nr. 3/2016 punkt III avsnitt 12, hvor det uttales at «en effektiv etterforsking og strafforfølgning av visse typer lovbrudd kan følge av Norges
-forpliktelser etter EMK, jf. særlig Rt. 2013 s. 588».
-Høyesterett uttaler i nevnte dom i avsnitt 46:
-«Politiarbeid er krevende og komplekst, muligheten for å forutse utviklingen er begrenset, og
-operative valg må skje innenfor rammen av
-fastsatte prioriteringer og ressursmessige rammer. Konvensjonen krever ikke det umulige
-eller uforholdsmessige. Og staten forventes
-ikke å avverge enhver fare for krenkelser
-begått av private. Men det må reageres mot
-reell og umiddelbar risiko som myndighetene er
-kjent med, eller burde være kjent med, med de
-tiltak som det ut fra situasjonen er rimelig å forvente.»
-Vedtak om henleggelse kan påklages til nærmeste
-overordnete påtalemyndighet etter den alminnelige regelen om klagerett over påtalevedtak i straffeprosessloven § 59 a.
-
-2020–2021
-
-15.2.2 Straffeprosessutvalgets forslag
-Straffeprosessutvalget vurderer påtalemyndighetens adgang til henleggelse i utredningen punkt
-16.4 og 16.5 side 359 flg. Utvalget foreslår å samle
-og presisere de viktigste henleggelsesgrunnene i
-en egen bestemmelse, jf. lovutkastet § 28-2.
-Utvalget viser i begrunnelsen til at straffeprosessloven § 62 a og de unntak som følger av straffeloven og spesiallovgivningen fremstår unødvendig komplisert og uoversiktlig. Videre mener
-utvalget at det kan stilles spørsmål om dagens
-regelverk ivaretar de hensyn som gjør seg gjeldende.
-Utvalget forslår for det første at en straffesak
-skal henlegges når de nødvendige rettslige eller
-bevismessige betingelsene for straff ikke er til
-stede, jf. lovutkastet § 28-2 første ledd. Det er også
-i utkastet § 13-2 (1) inntatt vilkår for når etterforsking kan skje, noe som også vil ha betydning for
-spørsmålet om henleggelse. Henleggelse vil
-typisk være aktuelt der et forhold ikke rammes av
-straffelovgivningen, der prosessuelle grunner er
-til hinder for strafforfølgning og der det ikke foreligger tilstrekkelig bevismateriale til å oppfylle det
-strafferettslige beviskravet.
-For det andre foreslår utvalget at påtalemyndigheten gis en skjønnsmessig adgang til å henlegge saker når forfølgning «ikke er i det offentliges interesse», jf. lovutkastet § 28-2 annet ledd.
-Utvalget fremhever at lovforslaget bygger på en
-sterk presumsjon for at forfølgning av straffbare
-handlinger er i det offentliges interesse. Det er
-fraværet av forfølgningsinteresse som må påvises.
-At påtalemyndigheten også før skyldspørsmålet
-anses avklart, gis en adgang til å vurdere om forfølgning skal finne sted ut fra et slikt kriterium, vil
-etter utvalgets syn være i tråd med de hensyn som
-ligger til grunn for opportunitetsprinsippet og
-påtalemyndighetens ansvar for å ivareta statens
-strafforfølgningsinteresse.
-Etter utvalgets syn bør interessevurderingen
-kunne skje løsrevet fra strafferammen for det forholdet saken gjelder. Strafferammebegrensningen som i dag følger av straffeprosessloven § 62 a
-annet ledd foreslås opphevet. Utvalget foreslår
-videre at det i loven angis momenter som det normalt vil være aktuelt å legge vekt på i vurderingen
-av om forfølgningsinteressen, herunder om det
-aktuelle forholdet er bagatellmessig, prosessøkonomiske betraktninger og kapasitetshensyn, at
-forholdet er mer egnet til administrativ forfølgelse
-og beskyttelse av sensitive opplysninger, jf. lovutkastet § 28-2 annet ledd bokstav a til d.
+# Fremstillingsfristen for fengsling
+
+## Bakgrunn
+
+Straffeprosessloven § 183 regulerer fristen for å fremstille en pågrepet person for retten med begjæring om fengsling. Frem til 2002 fastslo bestemmelsens første ledd at påtalemyndigheten skulle fremstille den pågrepne straks og så vidt mulig dagen etter pågripelsen, med visse unntak. Ved en lovendring i 2002 ble fristen utvidet til dagens regel om at fremstilling må skje snarest mulig og senest den tredje dagen etter pågripelsen. Utvidelsen av fristen var først og fremst begrunnet med antakelsen om at den totale bruken av frihetsberøvelse under etterforskingen ville reduseres hvis politiet fikk bedre tid til å etterforske saken før et eventuelt fengslingsmøte, se Ot.prp. nr. 66 (2001–2002) punkt 4.1.7.1 side 21–22.
+
+Etter en forutsatt etterkontroll av fristutvidelsen, sendte Justis- og politidepartementet i desember 2010 på høring mulige innstramminger i fremstillingsfristen i straffeprosessloven § 183 første ledd. Forslaget er så langt ikke fulgt opp. På bakgrunn av uttalelser fra FNs menneskerettighetskomité ba Riksadvokaten i mars 2015 Justis- og beredskapsdepartementet vurdere behovet for en eventuell endring av fremstillingsfristen. Riksadvokaten stilte spørsmål ved om den gjeldende lengstefristen på tredje dagen etter pågripelse i straffeprosessloven § 183 første ledd fullt ut er i overensstemmelse med Norges menneskerettslige forpliktelser etter den internasjonale konvensjonen om sivile og politiske rettigheter (SP) artikkel 9 nr. 3. Riksadvokaten viste til at FNs menneskerettighetskomité i sin General Comment nr. 35 i desember 2014 uttaler at fremstilling senere enn 48 timer fra pågripelsen «must remain absolutely exceptional», og pekte på at den norske regelen gir anvisning på en mer fleksibel tilnærming enn det menneskerettighetskomitéen legger opp til. Med virkning fra mai 2015 ba Riksadvokaten påtalemyndigheten innrette sin praksis etter uttalelsen fra FNs menneskerettighetskomité, slik at fremstilling for fengsling som det klare utgangspunkt skal skje innen 48 timer og at fremstilling etter dette tidspunktet kun kan finne sted i helt ekstraordinære tilfeller.
+
+Straffeprosessutvalget foreslår en kortere fremstillingsfrist enn etter gjeldende rett, se punkt 12.4 nedenfor. Justis- og beredskapsdepartementet vurderte å endre fremstillingsfristen uten å avvente oppfølgingen av Straffeprosessutvalgets utredning, og sendte 21. juni 2018 på høring forslag om endringer i straffeprosessloven og forskrift om bruk av politiarrest (fremstillingsfristen for fengsling og tiltak mot isolasjonsvirkninger ved bruk av politiarrest mv.). Det ble i høringsnotatet fremmet to alternative forslag til innskjerping av fremstillingsfristen for varetektsfengsling i straffeprosessloven § 183 første ledd, se punkt 12.5 nedenfor. Høringsfristen utløp 1. oktober 2018.
+
+Departementet følger med dette opp Straffeprosessutvalgets forslag og forslagene i høringsnotatet 21. juni 2018 om innstramming av fremstillingsfristen for fengsling i straffeprosessloven § 183 første ledd. I tillegg foreslår departementet en innstramming av den særskilte fremstillingsfristen for fengsling av personer under 18 år i straffeprosessloven § 183 annet ledd, se kapittel 13 nedenfor.
+
+## Gjeldende rett
+
+### Straffeprosessloven § 183 første ledd
+
+Dersom påtalemyndigheten vil beholde en pågrepet person, må den «snarest mulig og senest den tredje dagen etter pågripelsen» fremstille vedkommende for tingretten med begjæring om fengsling, jf. straffeprosessloven § 183 første ledd første punktum.
+
+Hovedregelen er at den pågrepne skal fremstilles for retten snarest mulig, før lengstefristen løper ut. Bare unntaksvis kan det være aktuelt å vente med fremstilling til den tredje dagen etter pågripelsen, jf. Ot.prp. nr. 66 (2001–2002) punkt 4.1.7.2 side 29. Hvor lenge påtalemyndigheten vil kunne avvente fremstilling innenfor lengstefristen på den tredje dagen etter pågripelsen beror på omstendighetene i den enkelte saken, blant annet på hvor alvorlig lovbrudd det er mistanke om, hvor komplisert og tidkrevende etterforskingen er, og hvilken belastning den siktede påføres, jf. Ot.prp. nr. 66 (2001–2002) punkt 20.2 side 133. Hvor raskt den pågrepne skal fremstilles må videre tolkes i lys av gjeldende konstitusjonelle og folkerettslige forpliktelser, omtalt nedenfor.
+
+Slik loven er formulert, varierer lengstefristen etter når på døgnet pågripelsen skjer. Pågripes siktede rett etter midnatt, og fengslingsmøtet avholdes innenfor alminnelig arbeidstid den tredje dagen deretter, kan det i praksis gå opp mot – og i noen tilfeller også over – 84 timer før vedkommende fremstilles for retten. Avholdes fengslingsmøtet på kvelds- eller nattestid vil vedkommende kunne fremstilles opp mot 96 timer etter pågripelsen.
+
+Fristen for fremstilling senest tredje dagen etter pågripelsen er absolutt. Denne lengstefristen forlenges ikke selv om den løper ut på en lørdag eller helligdag, jf. straffeprosessloven § 183 første ledd annet punktum. Fortsatt frihetsberøvelse etter at fremstillingsfristen er løpt ut vil være ulovlig frihetsberøvelse, jf. Rt. 2014 side 1102 avsnitt 16.
+
+### Grunnloven § 94
+
+Grunnloven § 94 annet ledd første punktum slår fast at en pågrepet person «snarest mulig \[skal\] fremstilles for en domstol». Bestemmelsen kom inn i Grunnloven i 2014. Tilføyelsen ble gjort for å løfte retten til domstolsprøving inn i Grunnloven, og var ikke ment å endre rettstilstanden, jf. Dokument 16 (2011–2012) punkt 22.6 side 117. Høyesteretts ankeutvalg har nylig uttalt at retten til å bli fremstilt for en domstol ved pågripelse og fengsling er en grunnleggende rettssikkerhetsgaranti, jf. HR-2020-972-U avsnitt 20.
+
+Grunnloven § 94 annet ledd første punktum bygger blant annet på Den europeiske menneskerettskonvensjon (EMK) artikkel 5 nr. 3 og FNs internasjonale konvensjon om sivile og politiske rettigheter (SP) artikkel 9 nr. 3. Retten til domstolsprøving i Grunnloven § 94 annet ledd første punktum må dermed tolkes i lys av disse konvensjonsbestemmelsene, se Rt. 2015 side 93 avsnitt 57 og Rt. 2015 side 155 avsnitt 40. For så vidt gjelder fremstillingsfristen i straffeprosessloven § 183 første ledd, er det departementets syn at retten til domstolsprøving etter Grunnloven § 94 annet ledd første punktum neppe strekker seg lenger enn de parallelle rettighetene til domstolsprøving etter EMK artikkel 5 nr. 3 og SP artikkel 9 nr. 3. Tilsvarende synes å være lagt til grunn i avgjørelsene inntatt i Rt. 2015 side 1142 avsnitt 22 flg. og HR-2020-972-U avsnitt 20 flg. Den videre fremstillingen konsentreres derfor om kravene som kan utledes fra disse konvensjonsbestemmelsene i EMK og SP, se henholdsvis punkt 12.2.3 og 12.2.4 nedenfor.
+
+### EMK artikkel 5 nr. 3
+
+Den europeiske menneskerettighetskonvensjonen (EMK) gjelder som norsk lov og skal ved motstrid gå foran internrettslige lovbestemmelser, jf. lov 21. mai 1999 nr. 30 om styrking av menneskerettighetenes stilling i norsk rett § 2 nr. 1 og § 3.
+
+EMK artikkel 5 nr. 3 første punktum fastslår at en person som er straffeprosessuelt pågrepet «straks» skal fremstilles for en domsmyndighet. I den engelske originalversjonen heter det at den pågrepne skal fremstilles «promptly». Den europeiske menneskerettsdomstol (EMD) har fastslått at kravet skal tolkes strengt og i lys av formålet med bestemmelsen, se Brogan m.fl. mot Storbritannia 29. november 1988 avsnitt 58 og Medvedyev m.fl. mot Frankrike 29. mars 2010 avsnitt 121. Det kan likevel ikke oppstilles noen generell regel om hva som er rettidig fremstilling, eller noen absolutt grense for hvor lang tid som kan passere før fremstilling må skje. Hva som er «promptly» må vurderes konkret i lys av sakens omstendigheter, se Brogan m.fl. mot Storbritannia 29. november 1988 avsnitt 59.
+
+I praksis synes EMD å ha tolket vilkåret slik at fremstilling opp mot fire dager etter pågripelsen utgjør en yttergrense for hva som kan aksepteres. Også kortere tidsperioder vil imidlertid kunne være konvensjonsstridig, hvis det ikke kan redegjøres for konkrete omstendigheter som begrunner tidsbruken som nødvendig og forholdsmessig, se Döner m.fl. mot Tyrkia 7. mars 2017 avsnitt 57. EMD har ved flere anledninger understreket at retten til uavhengig domstolsprøving i EMK artikkel 5 nr. 3 er en viktig rettssikkerhetsgaranti, som skal beskytte pågrepne personer mot maktmisbruk og «arbitrary behaviour, incommunicado detention and ill-treatment», se Medvedyev m.fl. mot Frankrike 29. mars 2010 avsnitt 118 og 121.
+
+Departementet legger til grunn at fremstillingsplikten etter EMK artikkel 5 nr. 3 ikke rekker lenger enn fremstillingsplikten som følger av SP artikkel 9 nr. 3, se punkt 12.2.4 nedenfor.
+
+### SP artikkel 9 nr. 3
+
+FNs internasjonale konvensjon om sivile og politiske rettigheter (SP) gjelder som norsk lov og skal ved motstrid gå foran internrettslige lovbestemmelser, jf. menneskerettsloven § 2 nr. 3 og § 3.
+
+SP artikkel 9 nr. 3 første punktum slår fast at den som arresteres eller tilbakeholdes på grunn av siktelse for en straffbar handling «omgående» skal fremstilles for en person med domsmyndighet. I den engelske originalversjonen heter det at den pågrepne skal fremstilles «promptly». Hva som er «promptly» vil ifølge FNs menneskerettighetskomité kunne variere med de konkrete omstendighetene i en sak. FNs menneskerettskomité har i en generell tolkningsuttalelse fra desember 2014 likevel uttalt at fremstilling bør skje innen «a few days» og i alminnelighet innen 48 timer etter pågripelse, jf. General Comment nr. 35 (CCPR/C/GC/35) avsnitt 33. Tidsbruk utover 48 timer må ifølge komitéen «remain absolutely exceptional» og være «justified under the circumstances»:
+
+«While the exact meaning of «promptly» may vary depending on objective circumstances, delays should not exceed a few days from the time of arrest. In the view of the Committee, 48 hours is ordinarily sufficient to transport the individual and to prepare for the judicial hearing; any delay longer than 48 hours must remain absolutely exceptional and be justified under the circumstances. Longer detention in the custody of law enforcement officials without judicial control unnecessarily increases the risk of ill-treatment.»
+
+Høyesterett har med henvisning til ovennevnte uttalelse, samt til komitéens forutgående klagesaksuttalelser om at fremstilling senere enn 48 timer etter pågripelsen «require special justification», uttalt at tidsperioden fra pågripelse til fremstilling etter SP artikkel 9 nr. 3 «bare helt unntaksvis kan overstige 48 timer og bare såfremt omstendighetene kan rettferdiggjøre det», jf. Rt. 2015 side 1142 avsnitt 29–31. I følge Høyesterett vil grunnene som kan rettferdiggjøre tidsbruk utover 48 timer variere, «blant annet ut fra hvor lang fristoverskridelse det er snakk om, hvor alvorlig forbrytelse det er mistanke om og hvor tidkrevende det er å kartlegge fengslingsgrunnlaget», jf. avgjørelsens avsnitt 32.
+
+Ovennevnte Rt. 2015 side 1142 gjaldt et tilfelle hvor siktede ble fremstilt 52 timer og 15 minutter etter pågripelsen. Fremstillingen skjedde innenfor lengstefristen i straffeprosessloven § 183 første ledd, men «4 timer etter utløpet av 48-timersfristen som FNs menneskerettighetskomité har lagt seg på», se avgjørelsens avsnitt 32. Spørsmålet var om fristoverskridelsen innebar en krenkelse av SP artikkel 9 nr. 3. Høyesterett besvarte spørsmålet benektende, da det etter Høyesteretts syn forelå «tilstrekkelige grunner» som kunne rettferdiggjøre tidsbruken, se avgjørelsens avsnitt 34. Departementet nevner at det aktuelle saksforholdet har resultert i at Norge 7. januar 2016 ble klaget inn for FNs menneskerettighetskomité med anførsel om brudd på SP artikkel 9 nr. 3 (Communication nr. 2854/2016). Det foreligger ikke noen avgjørelse i saken fra FNs menneskerettighetskomité per 1. mars 2021.
+
+## Andre lands rett
+
+I *Sverige* skal påtalemyndigheten fremstille den pågrepne for varetekt uten forsinkelse («utan dröjsmål») og senest klokken tolv tre dager etter pågripelsen. Tingsretten må behandle varetektsspørsmålet uten forsinkelse, og senest fire dager etter pågripelsen, jf. den svenske rättegångsbalken 24 kap. 12 og 13 §§. Det samme gjelder i *Finland*, jf. den finske tvångsmedelslagen (806/2011) 3 kap 4 og 5 §§.
+
+I *Danmark* går reglene om fremstilling for fengsling frem av Grundloven § 71 og retsplejeloven kapittel 69. Etter retsplejeloven § 760 er fristen for å fremstille en pågrepet person for en dommer 24 timer etter pågripelsen. Fengslingsspørsmålet kan få tre ulike utfall i forhørsretten: I tillegg til at den pågrepne kan løslates eller varetektsfengsles, kan retten komme til den mellomløsning at politiets anholdelse skal forlenges. Vilkåret er at retten finner at varetektsfengsling ikke er utelukket, men at den ikke kan ta stilling til spørsmålet om varetekt fordi saken ikke er godt nok opplyst eller av andre grunner. Fristen for ny fremstilling vil i så tilfelle være 24 timer etter avslutningen av det første rettsmøtet. Fristen kan forlenges av retten 24 timer av gangen i alt tre ganger. Dermed kan det gå maksimalt fire døgn før den pågrepne må overføres til varetektsfengsling
+
+## Straffeprosessutvalgets forslag og høringsinstansenes syn
+
+### Straffeprosessutvalgets forslag
+
+Straffeprosessutvalget foreslår at fremstilling for fengsling må skje snarest mulig og «senest den andre dagen etter pågripelsen», se utredningen kapittel 14.4.5.9 side 327 og utkastet til ny straffeprosesslov § 15-15.
+
+Forslaget innebærer en reduksjon av lengstefristen for fremstilling. Formuleringen åpner for fremstilling senere enn 48 timer etter pågripelsen avhengig av pågripelsestidspunkt og domstolenes åpningstid – i teorien opp til 72 timer. Utvalget antar det er hensiktsmessig at loven på denne måten hjemler fremstilling «noe etter 48 timer i tilfeller som etter en særskilt begrunnelse kan aksepteres som forenlig med våre folkerettslige forpliktelser», jf. utredningen kapittel 14.4.5.9 side 328. Det understrekes at lengstefristen må praktiseres strengt og at det bare rent unntaksvis kan aksepteres at den pågrepne fremstilles mer enn 48 timer etter pågripelse, jf. særmerknaden til ny § 15-15 i utredningen side 606.
+
+Forslaget begrunnes hovedsakelig i menneskerettslige forpliktelser. Utvalget mener at Norges folkerettslige forpliktelser «nokså klart» tilsier en innskjerping av fremstillingsfristen, jf. utredningen kapittel 14.4.5.9 side 328. Videre anfører utvalget at det også uavhengig av våre folkerettslige forpliktelser kan være grunn til å korte ned lengstefristen: Slik utvalget ser det, er det ikke godtgjort at den gjeldende fremstillingsfristen har gitt utvetydig positive resultater med hensyn til reduksjon av behovet for varetektsfengsling, og fremstilling av den pågrepne utgjør en viktig legalitetskontroll med den pågående pågripelsen.
+
+### Høringsinstansenes syn
+
+*Advokatforeningen, Agder politidistrikt, Asker og Bærum tingrett, Domstoladministrasjonen, Hedmark og Oppland statsadvokatembeter, Innlandet politidistrikt, Juss-Buss, Kristiansand tingrett, Nordland politidistrikt, Norges institusjon for menneskerettigheter (NIM), Oslo politidistrikt, Politidirektoratet, Politiets sikkerhetstjeneste (PST), Rettspolitisk forening, Sør-Vest politidistrikt, Vest politidistrikt* og *Øst politidistrikt* har uttalt seg om forslaget. Instansene er positive til en innstramming av fremstillingsfristen for fengsling, men flere har innvendinger mot utformingen av Straffeprosessutvalgets forslag.
+
+*Norges institusjon for menneskerettigheter (NIM)* er positive til en innskjerping av fengslingsfristen, men mener at utvalgets forslag ikke ivaretar de menneskerettslige forpliktelsene godt nok. NIM ser ingen grunn til ikke å ta inn en uttrykkelig 48-timersfrist i loven, slik som NIM mener at SP krever. NIM uttaler at det følger av FNs menneskerettighetskomités General Comment nr. 35 (CCPR/C/GC/35) avsnitt 33 at mistenkte må fremstilles for fengsling senest innen 48 timer, og at det for å kunne gjøre unntak fra fristen må foreligge omstendigheter som er «absolutely exceptional». Dette må legges til grunn ved tolkningen av SP artikkel 9 nr. 3. Etter menneskerettsloven innebærer dette at fristen for fengsling etter nasjonal rett vil være 48 timer med mindre det foreligger ekstraordinære omstendigheter som tilsier at det kan gjøres unntak, jf. menneskerettsloven § 3.
+
+*Advokatforeningen* viser til at utvalgets forslag innebærer at siktede kan fremstilles inntil 72 timer etter pågripelse. Etter Advokatforeningens syn vil en slik regel ikke gi uttrykk for gjeldende rett, siden reglene i SP og Grunnloven § 94 vil gå foran. Skal man tillate at siktede fremstilles for fengsling senere enn 48 timer etter pågripelsen, så må det kun være der det er «absolutely exceptional» og kan forsvares i det konkrete tilfellet. Advokatforeningen mener at loven som et minimum må ha en hovedregel om at siktede skal fremstilles for retten innen 48 timer, men at man også kan klare seg uten et unntak i tilfeller som er «absolutely exceptional». Foreningen uttaler videre:
+
+«Fordi sen fremstilling ofte skyldes manglende fengslingsvakter i domstolene, vil Advokatforeningen presisere at det er helt uten betydning om domstolene har for vane å tilby fengslingsmøter på lørdager eller ikke. For det første er det staten som samlet sett er ansvarlig for å sikre overholdelsen av SP, ikke politiet, påtalemyndigheten eller domstolene isolert. Staten kan ikke unnskylde seg med at staten i form av påtalemyndigheten ikke ble tilbudt fengslingsmøte av staten i form av domstolene. For det annet ville det i så fall være tale om en helt gjennomgående feil ved selve systemet som staten har lagt opp, og ikke et tilfelle som er «absolutely exceptional.»
+
+Også *Rettspolitisk forening* og *Juss-Buss* mener at fristen bør være 48 timer etter pågripelse, og ikke «den andre dagen etter pågripelse» slik som utvalget har foreslått.
+
+*Kristiansand tingrett* er positiv til at det foreslås endringer i vilkårene for varetektsfengsling. Tingretten bemerker at forslaget vil innebære at domstolene må ha fengslingsvakt i alle helger, men at de økonomiske og administrative konsekvenser av dette ikke er kommentert av utvalget. Også *Domstoladministrasjonen* og *Asker og Bærum tingrett* påpeker at forslaget vil medføre økonomiske og administrative konsekvenser for domstolene.
+
+*Politidirektoratet* redegjør for innspill fra flere politidistrikt:
+
+«*Vest politidistrikt* stiller spørsmål ved om det vil bli flere varetektsfengslinger enn i dag når fristen for fremstilling settes kortere enn etter gjeldende rett. Distriktet viser til at det i dag gjøres betydelig etterforskning i den enkelte sak med en pågrepet for å unngå å måtte fremstille den pågrepne. Vest politidistrikt trekker frem at om forslaget blir vedtatt, vil fengslingsspørsmålet kunne måtte tas stilling til på et tynnere grunnlag enn i dag. *Oslo politidistrikt* viser til at enkelte saker er såpass omfattende og komplekse eller har en utvikling som gjør det nødvendig å ha fremstilling på den tredje dagen etter pågripelse. *Sør-Vest politidistrikt* fremholder at den foreslåtte fengslingsfristen har gode grunner for seg, men påpeker at den vil være meget ressurskrevende for politi og domstol. *Agder politidistrikt* antar endringen som forslaget innebærer er nødvendig for å ivareta de internasjonale menneskerettighetsforpliktelser. *Innlandet politidistrikt* støtter forslaget. *Nordland politidistrikt* ser forslaget til fremstillingsfrist som klargjørende når det hensyntas rettspraksis og retningslinjer fra riksadvokaten. *Øst politidistrikt* ser ingen betenkeligheter knyttet til forslaget, men påpeker at forslaget vil medføre økonomiske konsekvenser for domstolene, som må ha en aktiv vaktordning i helgene.»
+
+Politidirektoratet selv mener det i enkelte kompliserte saker bør være adgang til å kunne fremstille den pågrepne senere enn 48 timer etter pågripelsen, men at det kan være vanskelig å utforme en lovbestemmelse som ivaretar alle relevante hensyn:
+
+«Politidirektoratet erkjenner at det vil være utfordrende å utforme bestemmelsen slik at den fastslår hovedregelen om fremstilling snarest mulig, er pedagogisk nok hva gjelder 48-timers fristen, og samtidig åpner for den nødvendige fleksibilitet. Da det ikke er gjort unntak for domstolloven § 149 i forslaget, vil Politidirektoratet fremheve at det uansett utforming av bestemmelsen vil det være behov for at domstolene åpner for fengsling på helgedager og helligdager. Det må åpnes for praktikable og hensiktsmessige løsninger slik at 48-timers regelen kan overholdes.»
+
+## Forslagene i høringsnotatet fra 2018 og høringsinstansenes syn
+
+### Forslagene i høringsnotatet
+
+Som oppfølging av Straffeprosessutvalgets forslag om kortere fremstillingsfrist for fengsling, foreslo departementet i høringsnotat 21. juni 2018 en innstramming av fremstillingsfristen i straffeprosessloven § 183 første ledd. Det ble fremsatt to alternative forslag til hvordan bestemmelsen kan formuleres, se høringsnotatet punkt 2.5.3 side 13.
+
+Forslaget omtalt som *alternativ 1* krever at fremstilling for retten må skje «snarest mulig og senest andre dagen etter pågripelsen», og tilsvarer Straffeprosessutvalgets forslag. Forslaget reduserer lengstefristen for fremstilling fra den tredje til den andre dagen etter pågripelse, men vil åpne for fremstilling senere enn 48 timer – etter sin ordlyd opp til 72 timer.
+
+Det ble påpekt i høringsnotatet at en bestemmelse formulert i tråd med alternativ 1 vil kunne være utilstrekkelig med hensyn til å forebygge konvensjonsbrudd, dersom det legges til grunn at SP artikkel 9 nr. 3 krever at fremstilling som hovedregel ikke kan skje senere enn 48 timer etter pågripelsen og ikke uten en særlig begrunnelse, se høringsnotatet punkt 2.5.3 side 14. Departementet drøftet tolkningsspørsmålet i høringsnotatets punkt 2.5.2 side 10, og fant det «noe tvilsomt» om det fra SP artikkel 9 nr. 3 kan utledes en slik hovedregel. Blant annet fremstod det for departementet uklart om FNs menneskerettighetskomité i General Comment nr. 35 (CCPR/C/GC/35) avsnitt 33 uttrykker at fremstilling som hovedregel må skje innen 48 timer, eller om komitéen beskriver en retningsgivende standard statene bør – men ikke må – rette seg etter.
+
+Uavhengig av hvordan de konvensjonsmessige forpliktelsene må forstås, mente departementet at det kan foreligge gode grunner for å rette seg etter FNs menneskerettighetskomités synspunkter om at fremstilling bør skje innen 48 timer. Blant annet ble det påpekt at et konkret skjæringspunkt vil kunne effektivisere håndhevingen av regelen, og at en uttrykkelig hovedregel om fremstilling innen 48 timer vil kunne bidra til å gi FNs menneskerettighetskomités uttalelser tyngde og anerkjennelse internasjonalt. En hovedregel om 48 timer vil også bringe fremstillingsfristen nærmere fristen som gjelder for overføring av den pågrepne fra politiarresten til fengsel i forskrift 30. juni 2006 nr. 749 om bruk av politiarrest § 3-1 og forskrift 22. februar 2002 nr. 183 om straffegjennomføring § 4-1. Det ble derfor i høringsnotatet fremmet et alternativ forslag, omtalt som *alternativ 2,* som legger ordlyden tettere opp til FNs menneskerettighetskomités uttalelser om SP artikkel 9 nr. 3. Alternativ 2 innebærer at straffeprosessloven § 183 første ledd første og annet punktum formuleres som følger:
+
+«Vil påtalemyndigheten beholde den pågrepne, må den snarest mulig og *innen \[48 timer / to døgn\]* etter pågripelsen fremstille ham for tingretten på det sted der fremstilling mest hensiktsmessig kan skje, med begjæring om fengsling. *Dersom det er påkrevd kan den pågrepne fremstilles senere, men likevel aldri senere enn den \[andre/tredje\] dagen etter pågripelsen*.»
+
+Det ble understreket i høringsnotatet at ordlyden «påkrevd» er ment å angi en høy terskel, og at tidsbruk utover 48 timer kun kan aksepteres helt unntaksvis, se høringsnotatet punkt 2.5.3 side 14. Hvilke omstendigheter som kan begrunne tidsbruk utover 48 timer må vurderes konkret, men slik at lengre fristoverskridelser vil kreve en mer tungtveiende begrunnelse enn kortere fristoverskridelser. Ved helt korte fristoverskridelser, slik som i Rt. 2015 side 1142, la departementet til grunn at praktiske omstendigheter vil kunne være tilstrekkelig hvis disse ikke med enkelhet kunne vært avhjulpet. Ved lengre fristoverskridelser på flere timer må det foreligge «helt spesielle omstendigheter i den enkelte sak som gjør det uforsvarlig eller umulig» å overholde 48-timersfristen.
+
+For å unngå at unntakshjemmelen i praksis tolkes til å åpne for lengre tidsbruk enn etter gjeldende rett, se høringsnotatet punkt 2.5.3 side 15, foreslo departementet en absolutt lengstefrist for fremstilling. Det ble foreslått at lengstefristen settes til enten andre eller tredje dagen etter pågripelse. Mens førstnevnte variant vil gi noe mindre fleksibilitet enn sistnevnte variant, vil sistnevnte variant, som tilsvarer gjeldende lengstefrist, kunne skape risiko for at 48-timersfristen ikke tas tilstrekkelig på alvor, se høringsnotatet punkt 2.5.3 side 14.
+
+Departementet foreslo ingen endring av den særskilte fremstillingsfristen for fengsling av personer under 18 år i straffeprosessloven § 183 annet ledd, se høringsnotatet punkt 2.1 side 2. Dette innebærer at den kortere fristen for fremstilling av mindreårige, jf. dagens § 183 annet ledd, vil gjelde ved både alternativ 1 og alternativ 2. Departementet påpekte imidlertid i høringsnotatet at dersom fremstillingsfristen i straffeprosessloven § 183 første ledd innskjerpes slik som foreslått i alternativ 2, så vil 48-timersfristen i forslaget til nytt første ledd utgjøre en kortere fremstillingsfrist enn den særskilte fristen som gjelder for fremstilling av mindreårige i straffeprosessloven § 183 annet ledd annet punktum, se høringsnotatet punkt 2.5.3 side 15. Denne problemstillingen vil adresseres gjennom forslaget til innskjerping av den særskilte fremstillingsfristen for fengsling av personer under 18 år i straffeprosessloven § 183 annet ledd nedenfor.
+
+### Høringsinstansenes syn
+
+Samtlige høringsinstanser som har uttalt seg om forslaget, er positive til en innskjerping av fremstillingsfristen for fengsling i straffeprosessloven § 183 første ledd. De fleste instansene foretrekker endringsforslaget omtalt som alternativ 2, men har noe ulikt syn på hvordan bestemmelsen nærmere bør utformes. Uenigheten gjelder særlig den foreslåtte unntaksregelen i bestemmelsens annet punktum.
+
+*Fredrikstad tingrett* og *Sør-Øst politidistrikt* foretrekker at endringen formuleres i tråd med alternativ 1. Begge instansene viser til at alternativ 1 vil gi en foretrukket fleksibilitet i anvendelsen av fristen, innenfor Norges folkerettslige forpliktelser. I tillegg påpeker Sør-Øst politidistrikt at regelen i alternativ 1 har en enklere og mer praktikabel oppbygning enn alternativ 2, samt at løsningen i alternativ 1 er bedre tilpasset aktørenes alminnelige arbeidstid.
+
+*Kriminalomsorgsdirektoratet, Regjeringsadvokaten* og *Røde Kors* støtter en innskjerping, men konkretiserer ikke hvorvidt innskjerpingen bør formuleres langs linjene i alternativ 1 eller alternativ 2.
+
+De øvrige høringsinstansene – *Advokatforeningen, Den norske legeforening, Det nasjonale statsadvokatembetet (NAST), Dommerforeningen, Helsedirektoratet, Kripos, Norges politilederlag, Norges institusjon for menneskerettigheter (NIM), Nordland politidistrikt, Oslo Politidistrikt, Politidirektoratet, Politiets sikkerhetstjeneste (PST), Rettspolitisk forening, Riksadvokaten, Statistisk sentralbyrå* og *Øst politidistrikt* – foretrekker at bestemmelsen utformes i tråd med alternativ 2. De fleste synes å mene at en slik hovedregel om fremstilling snarest mulig og innen 48 timer eller to døgn vil bringe ordlyden tydeligere i samsvar med Norges internasjonale forpliktelser. Flere instanser, slik som *Advokatforeningen, NAST, Kripos, PST, Politidirektoratet* og *Riksadvokaten*, synes videre at det er positivt at alternativ 2 vil innebære at fremstillingsfristen i utgangspunktet harmoniseres med fristen for overføring av den pågrepne fra politiarrest til kriminalomsorgen. *Riksadvokaten* og *Politidirektoratet* nevner i tillegg at det har vist seg vanskelig å dokumentere at dagens lengre fremstillingsfrist samlet sett har hatt utvetydige positive resultater i form av redusert bruk av varetektsfengsling.
+
+En del instanser har synspunkter på forslaget om at fremstilling utover 48-timersfristen forutsetter at det anses «påkrevd» å avvente fremstilling til en nærmere angitt lengstefrist, jf. forslaget til ny § 183 første ledd annet punktum i alternativ 2. *Den norske legeforening* viser til at de negative helsevirkningene av isolasjon i politiarrest er godt dokumentert, og ønsker at fremstillingsfristen på 48 timer bør gjelde uten unntak. At 48-timersfristen bør være absolutt mener også *Rettspolitisk forening.* Skal det likevel inntas en hjemmel for å gå utover 48 timer, foretrekker Rettspolitisk forening at lengstefristen settes til senest den andre dagen etter pågripelsen. Det foretrekker også *Statistisk sentralbyrå*, som fremholder at en slik lengstefrist på opp mot 72 timer vil gi tilstrekkelig fleksibilitet til involverte aktører og være å foretrekke fra et fengslingsstatistisk ståsted.
+
+*Advokatforeningen, Kripos, NAST, Oslo politidistrikt, Politidirektoratet, PST, Riksadvokaten, Norges politilederlag, Nordland politidistrikt og Øst politidistrikt* åpner for at lengstefristen settes til den tredje dagen etter pågripelsen. *Norges politilederlag, Nordland Politidistrikt, Oslo Politidistrikt, Politidirektoratet* og *Øst politidistrikt* opplyser at en frist på 48 timer vil være tilstrekkelig i de fleste tilfeller, men at det er behov for en unntaksregel som kan hjemle ytterligere tidsbruk i særlige tilfeller hvor det er nødvendig. *NAST* og *Kripos* argumenterer for at loven bør åpne for en så lang lengstefrist som mulig innenfor rammen av våre folkerettslige forpliktelser, og viser til at det i visse saker kan foreligge et godt begrunnet behov for å avvente fremstilling til den tredje dagen etter pågripelse. NAST viser til at sakene som de nasjonale politiembetene håndterer som regel er omfattende, kompliserte og har en rekke mistenkte som må pågripes samtidig av hensyn til etterforskingen. Kripos påpeker at behovet for en lengre fremstillingsfrist særlig gjelder saker som omfatter organisert kriminalitet:
+
+«I denne typen saker har politiet ikke sjelden 6 – 10 personer som skal fremstilles for varetektsfengsling samtidig, noe som krever tid til forberedelser og praktisk tilrettelegging. Den enkelte pågrepne ønsker gjerne å konferere med en forsvarer, og deretter eventuelt å forklare seg i saken med forsvarer til stede. Noen er avhengig av tolk, og samme tolk må gjerne brukes i flere avhør. Av hensyn til både den pågrepne, forsvarer, tolker og etterforskere vil det normalt ikke pågå aktiv etterforskning eller forberedelse av saken om natten, og i alle fall ikke avhør. I tillegg krever eksempelvis 8 pågrepne som skal fremstilles samme dag minst to dommere og to aktorer til gjennomføring av fengslingsmøtene, og de pågrepne skal transporteres til rettslokalet atskilt, og oppholde seg der uten mulighet for å kommunisere med hverandre og på den måten ha mulighet til å forspille bevis. Det er viktig at loven også tar tilstrekkelig høyde for denne typen saker, som blant annet for Kripos’ del oppstår med jevne mellomrom.»
+
+Også *Nordland politidistrikt* påpeker at det i saker med kompliserte saksforhold, slik som økonomisaker eller sedelighetssaker, vil kunne være nødvendig å avvente fremstilling til den tredje dagen etter pågripelse. Instansen påpeker videre at en i visse politidistrikter kan ha behov for fleksibilitet som følge av store geografiske avstander innad i distriktet. *Politidirektoratet* viser til Kripos’ og Nordland politidistrikts høringssvar i denne forbindelse.
+
+De resterende høringsinstansene som støtter alternativ 2 konkretiserer ikke hvorvidt lengstefristen bør settes til senest andre eller tredje dagen etter pågripelsen. Dette gjelder *Dommerforeningen, Helsedirektoratet* og *NIM.*
+
+*Advokatforeningen, NIM* og *Riksadvokaten* spiller inn at ordlyden i alternativ 2 bør endres slik at det kommer tydeligere frem i lovteksten at fremstilling som den klare hovedregel må skje innen 48 timer og at senere fremstilling kun kan skje helt unntaksvis. NIM finner det ikke tvilsomt at Norges folkerettslige forpliktelser tilsier at fremstilling etter 48 timer kun kan skje i eksepsjonelle tilfeller. NIM tar derfor til orde for at lovteksten i større grad bør reflektere at en overskridelse av 48-timersfristen krever eksepsjonelle omstendigheter som rettferdiggjør overskridelsen i det enkelte tilfellet. NIM ønsker også at de sentrale momentene i unntaksvurderingen inntas i lovteksten. Også *Advokatforeningen* finner det klart at SP artikkel 9 nr. 3 skal forstås slik som angitt i General Comment nr. 35 (CCPR/C/GC/35) avsnitt 33, og mener at uttrykket «påkrevd» ikke gir et tilstrekkelig klart signal om at en benyttelse av unntaksadgangen krever at forekomst av eksepsjonelle omstendigheter kan godgjøres i det enkelte tilfellet. *Riksadvokaten* spiller inn at ordlyden bør omformuleres for å tydeliggjøre at fremstilling senere enn 48 timer etter pågripelsen bare kan skje i helt ekstraordinære tilfeller. *Rettspolitisk forening* opplyser at ordlyden «påkrevd» støttes hvis det med dette menes en terskel tilsvarende «absolutely exceptional» i SP artikkel 9 nr. 3.
+
+Når det gjelder i hvilke tilfeller det vil kunne ansees «påkrevd» med fremstilling senere enn 48 timer etter pågripelsen, gir *Kripos* uttrykk for at lengstefristen på den tredje dagen etter pågripelsen kan forbeholdes de sakene som av ulike årsaker betinger mer omfattende forberedelser eller praktisk tilrettelegging. Kripos beskriver dette som «særlige tilfeller hvor spesielle omstendigheter gjør seg gjeldende», og hvor en særskilt begrunnelse kan oppgis på en adekvat måte. Også *PST* gir uttrykk for at det erfaringsmessig særlig er i omfattende og komplekse saker at det vil foreligge et legitimt og godt begrunnet behov for å avvente fremstilling frem til den tredje dagen etter pågripelsen. *Politidirektoratet* forutsetter på sin side at det ikke vil stilles strenge krav til årsakens art ved korte overskridelser på få timer etter 48-timersfristen, og anser dette som helt nødvendig for at bestemmelsen vil gi nødvendig fleksibilitet.
+
+Høringsinstansene synes å ha noe ulikt syn på hvilke rettslige krav som kan leses ut av SP artikkel 9 nr. 3. En del høringsinstanser problematiserer ikke høringsnotatets standpunkt om at det ansees noe uklart hvorvidt SP artikkel 9 nr. 3 oppstiller en regel om at fremstilling som hovedregel ikke kan skje senere enn 48 timer etter pågripelsen og ikke uten en særlig begrunnelse. *Regjeringsadvokaten* mener at forslagene samsvarer godt med de forventninger til regulering som kan utledes av SP og praksis om forståelsen av denne. *NAST* uttrykker at fire dager må ansees som den ytre rammen for hvilken tidsbruk som kan aksepteres etter SP artikkel 9 nr. 3. Som nevnt ovenfor opplyser *Advokatforeningen, NIM* og *Rettspolitisk forening* at de tolker SP artikkel 9 nr. 3 slik at konvensjonen klart pålegger en forpliktelse til å fremstille pågrepne personer innen 48 timer, med mindre det foreligger ekstraordinære omstendigheter i det enkelte tilfellet som etter en konkret vurdering begrunner at senere fremstilling likevel vil være konvensjonsmessig i det aktuelle tilfellet. Også *Riksadvokaten* synes å legge til grunn at SP artikkel 9 nr. 3 må tolkes slik at fremstilling mer enn to døgn etter pågripelsen bare kan skje i helt ekstraordinære tilfeller, uten at dette kommenteres uttrykkelig.
+
+Få instanser har synspunkter på hvorvidt det er formuleringen «48 timer» eller «to døgn» som bør benyttes i alternativ 2, foruten *NIM* og *Politidirektoratet* som mener at «48 timer» gir uttrykk for en klarere frist enn «to døgn», og derfor er å foretrekke.
+
+Flere instanser, slik som *Norges politilederlag, Sør-Øst politidistrikt, Nordland politidistrikt, Kripos, Politidirektoratet* og *Kriminalomsorgsdirektoratet*, påpeker at overholdelse av 48-timersfristen i alternativ 2 vil kreve økte ressurser til politi, påtalemyndighet, domstoler og kriminalomsorg.
+
+Ingen høringsinstanser har kommentert betydningen av alternativ 2 for den særskilte fremstillingsfristen for fengsling av personer under 18 år i straffeprosessloven § 183 annet ledd annet punktum.
+
+## Departementets vurdering
+
+### Nærmere om forpliktelsene etter SP artikkel 9 nr. 3
+
+Hvor raskt den pågrepne må fremstilles for retten etter straffeprosessloven § 183 første ledd må tolkes i lys av våre konstitusjonelle og folkerettslige forpliktelser. Som det fremgår av punkt 12.2, er det i dag SP artikkel 9 nr. 3 som har størst praktisk betydning for straffeprosesslovens fremstillingsfrist.
+
+I tolkningen av SP artikkel 9 nr. 3 vil konvensjonens ordlyd, kontekst og formål utgjøre viktige tolkningsfaktorer, se prinsippene uttrykt i Wien-konvensjonen av 1969 artikkel 31 til 33. I tillegg vil uttalelser fra FNs menneskerettskomité ha betydelig vekt som rettskilde, se Rt. 2015 side 1142 avsnitt 31. Den nærmere betydningen av komitéens generelle uttalelser vil blant annet bero på hvor klart uttalelsen må anses å gi uttrykk for komitéens forståelse av partenes rettslige forpliktelser etter konvensjonen, se Rt. 2015 side 1388 avsnitt 151 flg. og Rt. 2009 side 1261 avsnitt 44 (om Barnekonvensjonen).
+
+SP artikkel 9 nr. 3 krever etter sin ordlyd at den pågrepne omgående («promptly») skal fremstilles for en person med domsmyndighet, se punkt 12.2.4 foran. Hvilken fremstillingsforpliktelse som mer konkret kan utledes av uttrykket «promptly» i SP artikkel 9 nr. 3 er drøftet av enkelte instanser i høringsrunden til Straffeprosessutvalgets forslag, se punkt 12.4 foran, av departementet i høringsnotatet 21. juni 2018, se punkt 12.5 med videre henvisning, samt av enkelte instanser i høringsrunden til forslagene i høringsnotatet.
+
+Etter departementets syn tilsier en naturlig forståelse av uttrykket «promptly» at fremstilling må skje raskt og uten ugrunnet opphold. Uttrykket åpner for en viss skjønnsmessig vurdering. Fleksibiliteten i ordlyden begrenses likevel av bestemmelsens formål, som er uavhengig legalitetskontroll med en pågående pågripelse og vern mot risiko for tortur og nedverdigende behandling i politiets varetekt.
+
+FNs menneskerettighetskomité har uttalt seg om begrepet «promptly» i konkrete klagesaker og i generelle uttalelser. Blant annet har FNs menneskerettighetskomité i noen klagesaker lagt til grunn at lengden på fremstillingsfristen må avgjøres ut fra den konkrete sak, men at fremstilling bør skje innen «a few days», se Kovsh mot Hviterussland (Communication nr. 1787/2008) 27. mars 2013 avsnitt 7.4. At fremstilling må skje innen «a few days» fra pågripelsen har etter departementets syn forankring i en naturlig forståelse av ordlyden, ettersom tidsbruk utover dette vanskelig kan sies å være «promptly». Videre viser FNs menneskerettighetskomité i samme klagesak til at den pågrepne bør fremstilles for en dommer innen 48 timer, og uttaler at fremstilling senere enn 48 timer krever en særskilt begrunnelse («require special justification»).
+
+I etterkant av ovennevnte klagesak, har FNs menneskerettighetskomité i General Comment nr. 35 (CCPR/C/GC/35) avsnitt 33 gjentatt at hva som er «promptly» kan variere med de konkrete omstendighetene, men at tidsbruken ikke bør overstige «a few days» fra pågripelsestidspunktet. Komitéen angir videre at den i alminnelighet anser 48 timer som tilstrekkelig til å forberede fengslingsmøtet og til å transportere den pågrepne til rettslokalet, og uttaler at fremstilling senere enn 48 timer kun kan forekomme helt unntaksvis («remain absolutely exceptional») og bare hvis det kan rettferdiggjøres ut fra sakens omstendigheter («be justified under the circumstances»).
+
+Høyesterett har på bakgrunn av ovennevnte uttalelser lagt til grunn at SP artikkel 9 nr. 3 må forstås slik at tidsperioden fra pågripelse til fremstilling «bare helt unntaksvis kan overstige 48 timer og bare såfremt omstendighetene kan rettferdiggjøre det», jf. Rt. 2015 side 1142 avsnitt 30. Høyesterett synes dermed å mene at det etter SP artikkel 9 nr. 3 i utgangspunktet gjelder en fremstillingsfrist på 48 timer, og at dette utgangspunktet «bare helt unntaksvis» kan fravikes.
+
+I etterkant av publiseringen av General Comment nr. 35, har FNs menneskerettighetskomité i tolkningen av «promptly» i klagesaker tatt utgangspunkt i en formulering som tilsvarer de generelle uttalelsene i General Comment nr. 35 avsnitt 33, se for eksempel Berezhnoy mot Russland (Communication nr. 2107/2011) 28. oktober 2016 avsnitt 9.2 og Selyun mot Hviterussland (Communication nr. 2289/2013) 6. november 2015 avsnitt 7.4.
+
+Departementet legger etter dette til grunn at FNs menneskerettighetskomité i General Comment nr. 35 avsnitt 33 gir uttrykk for sin forståelse av forpliktelsen til å fremstille en pågrepet person for fengsling «promptly» etter SP artikkel 9 nr. 3. Etter departementets syn er det dermed nærliggende å tolke SP artikkel 9 nr. 3 slik at den pågrepne som den klare hovedregel skal fremstilles innen et par dager («a few days») etter pågripelsen, og i de aller fleste tilfeller innen 48 timer. Tidsbruk utover 48 timer kan etter SP artikkel 9 nr. 3 kun aksepteres helt unntaksvis, og bare hvis det kan rettferdiggjøres ut fra sakens omstendigheter.
+
+Departementet forstår for øvrig FNs menneskerettighetskomités uttalelser slik at det ikke nødvendigvis er årsakene til tidsbruken i den *enkelte sak* som må være av ekstraordinær karakter («absolutely exceptional»), men at FNs menneskerettighetskomité mener å angi at tidsbruk utover 48 timer kun unntaksvis vil kunne ansees tilstrekkelig rettferdiggjort. De konkrete årsakene må likevel være egnet til å begrunne tidsbruken i den enkelte sak.
+
+Hvilke typer konkrete omstendigheter som kan rettferdiggjøre at den pågrepne fremstilles senere enn 48 timer, synes ikke hittil å være konkretisert av FNs menneskerettighetskomité. Høyesterett har tolket bestemmelsen slik at grunnene som kan rettferdiggjøre tidsbruk utover 48 timer etter pågripelsen vil variere «blant annet ut fra hvor lang fristoverskridelse det er snakk om, hvor alvorlig forbrytelse det er mistanke om og hvor tidkrevende det er å kartlegge fengslingsgrunnlaget», jf. Rt. 2015 side 1142 avsnitt 33. I lys av formålene med fremstillingsfristen i SP artikkel 9 nr. 3, antar departementet at også belastningen den konkrete siktede påføres av å sitte i politiets varetekt vil kunne være relevant i vurderingen av hva som er å anse som «promptly» i den enkelte sak.
+
+Departementet er enig med Høyesterett i at det antakelig må stilles strengere krav til begrunnelsen for hvorfor en fremstilling ikke har funnet sted innen 48 timer desto lenger frihetsberøvelsen har vart. Det er likevel neppe grunnlag for å oppstille særskilt strenge krav til begrunnelsen akkurat idet tidsbruken passerer 48 timer. Tilsvarende kan synes å ha blitt lagt til grunn i Høyesteretts vurdering av saksforholdet i Rt. 2015 side 1142, hvor 48-timersfristen var marginalt overskredet.
+
+Slik departementet tolker SP artikkel 9 nr. 3, bør også tidsbruk som nærmer seg 48 timer være konkret begrunnet. FNs menneskerettighetskomité har uttalt at frihetsberøvelse er et inngripende tvangsmiddel som bør vare så kort som mulig, se eksempelvis ovennevnte klagesak Kovsh mot Hviterussland avsnitt 7.3. Det gjelder også for frihetsberøvelse som varer kortere enn 48 timer.
+
+### Innstramming av fremstillingsfristen for fengsling
+
+Departementet er enig med Straffeprosessutvalget i at fremstillingsfristen for fengsling bør skjerpes inn. En innstramming av fremstillingsfristen har fått bred støtte blant høringsinstansene, både under høringen av Straffeprosessutvalgets forslag i 2016 og høringen av forslagene i høringsnotatet i 2018, og har gode grunner for seg.
+
+Departementet er enig i at fremstillingsfristen i straffeprosessloven § 183 første ledd bør endres slik at den vil være mer i samsvar med Norges menneskerettslige forpliktelser. Som redegjort for foran, har EMD i tolkningen av EMK artikkel 5 nr. 3 understreket viktigheten av at den pågrepne blir fremstilt innen et relativt kort tidsrom etter pågripelsen, særlig sett i lys av det vernet fremstillingsfristen er ment å gi den pågrepne mot risikoen for maktmisbruk i politiets varetekt. FNs menneskerettighetskomité har, til den parallelle bestemmelsen i SP artikkel 9 nr. 3, ved flere anledninger uttalt at den pågrepne bør fremstilles for en dommer innen et par dager etter pågripelsen, og da som den klare hovedregel innen 48 timer. Uavhengig av om uttalelsene fra FNs menneskerettighetskomité er å forstå som komitéens syn på de rettslige forpliktelsene som kan utledes av SP artikkel 9 nr. 3, eller mer som en beskrivelse av en praksis som komitéen mener at konvensjonspartene bør følge, foreligger det etter departementets syn gode grunner for å innskjerpe bestemmelsen om fremstillingsfrist etter gjeldende rett.
+
+Spørsmålet blir så hvordan bestemmelsen bør utformes. Felles for forslaget omtalt som alternativ 1, som tilsvarer Straffeprosessutvalgets forslag, og forslaget omtalt som alternativ 2, er at det etter begge alternativer kreves at den pågrepne fortsatt skal fremstilles for retten snarest mulig etter pågripelsen. Frihetsberøvelse er et av de mest inngripende virkemidlene påtalemyndigheten rår over. Reglene om fremstillingsfrist utgjør en viktig rettssikkerhetsgaranti. Rettens prøving av fengslingsgrunnlaget innebærer en viktig legalitetskontroll med en pågående pågripelse, og er ment å motvirke misbruk av offentlig myndighetsutøvelse i politiets varetekt. Det ligger dermed fundamentale og viktige hensyn bak reglene om fremstillingsfrist. Departementet finner derfor grunn til å understreke at det klare utgangspunktet og hovedregelen fortsatt skal være at fremstilling for retten skal skje så snart som mulig.
+
+Når det gjelder den nærmere reguleringen av fremstillingsfristen, går et klart flertall av høringsinstansene inn for at bestemmelsen bør endres i tråd med alternativ 2. Alternativ 2 angir at fremstilling må skje snarest mulig og innen «48 timer» eller «to døgn» etter pågripelsen med mindre senere fremstilling innenfor en nærmere angitt lengstefrist anses «påkrevd».
+
+Departementet har, i likhet med de fleste *høringsinstansene*, kommet til at en bestemmelse som eksplisitt angir at fremstilling som hovedregel må skje snarest mulig og innen 48 timer eller to døgn har de beste grunner for seg. Formuleringen vil trolig ha pedagogiske fordeler ved at det alminnelige ytterpunktet for fremstillingsfristen konkretiseres. En fremstillingsfrist med et klart skjæringspunkt vil også kunne lette håndhevingen av regelen, ettersom fleksibiliteten som ligger i dagens regel i utgangspunktet vil bli noe mindre og oversittelser av fremstillingsfristen vil bli mer synlige. En uttrykkelig hovedregel om fremstilling snarest mulig og innen 48 timer vil videre, som flere høringsinstanser påpeker, bringe ordlyden nærmere FNs menneskerettskomités uttalelser. En slik hovedregel er også egnet til å følge opp anbefalingen inntatt i FNs torturkomités Concluding Observations mot Norge 5. juni 2018 (CAT/C/NOR/CO/8) avsnitt 12, hvor komitéen understreket viktigheten av at Norge legger til rette for at frihetsberøvede personer fremstilles for retten innen 48 timer i tråd med internasjonale standarder.
+
+En hovedregel om at fremstilling må skje innen 48 timer, vil videre bringe fremstillingsfristen nærmere fristen som gjelder for å overføre den pågrepne fra politiarrest til fengsel, jf. forskrift om bruk av politiarrest § 3-1 og forskrift om straffegjennomføring § 4-1, som er fastsatt til «to døgn» etter pågripelsen. At disse fristene sammenfaller, vil kunne ha pedagogiske og administrative fordeler. I prinsippet skal fremstillingsfristen og overføringsfristen praktiseres uavhengig av hverandre, men det kan likevel ikke ses bort fra faren for et uheldig samspill hvor overføring fra politiarresten utsettes i tilfeller hvor fremstilling for fengsling først kan skje senere enn to døgn etter pågripelsen. Viktigheten av at pågrepne personer overføres fra politiarrest til fengsel innen 48 timer ble fremhevet av FNs torturkomité i ovennevnte Concluding Observations mot Norge 5. juni 2018, se avsnitt 13–14. Til sist nevner departementet, i likhet med *Riksadvokaten* og *Politidirektoratet*, at det har vist seg vanskelig å entydig dokumentere at dagens lengre fremstillingsfrist har redusert det samlede behovet for varetektsfengsling under etterforsking, slik som utvidelsen til dagens fristregel i sin tid tok sikte på. Dette taler for at hensynet til den pågrepne bør veie tungt, og underbygger at fristen strammes inn.
+
+Når det gjelder spørsmålet om tidsperioden bør formuleres som «48 timer» eller «to døgn», mener departementet, i likhet med *Politidirektoratet* og *Norges institusjon for menneskerettigheter*, at «48 timer» gir uttrykk for en klarere frist enn «to døgn», og derfor er å foretrekke. Formuleringen vil riktignok avvike fra ordlyden «to døgn» som er brukt i nevnte forskrift om politiregister § 3-1 og forskrift om straffegjennomføring § 4-1, men ettersom innholdet i begrepene er det samme, finner ikke departementet grunn til å legge avgjørende vekt på dette.
+
+Departementet anbefaler at straffeprosessloven § 183 inneholder en absolutt lengstefrist for fremstilling. Det ble i høringsnotatet foreslått at lengstefristen settes til enten «senest den andre» eller «senest den tredje» dagen etter pågripelse. Førstnevnte variant vil innebære en innskrenking i forhold til gjeldende rett, og vil etter sin ordlyd åpne for fremstilling opp mot 72 timer etter pågripelsen. Sistnevnte variant tilsvarer gjeldende lengstefrist, og vil etter sin ordlyd åpne for fremstilling opp mot 96 timer etter pågripelsen. Hvor lang tid det *i praksis* kan gå fra pågripelsen til fremstilling, vil likevel avhenge av når fengslingsmøtet praktisk sett kan avholdes i tingretten den siste dagen. Departementet er kjent med at førstegangsfengslinger vanligvis berammes frem til kl. 15:00. Legges en slik berammingspraksis til grunn, vil de to foreslåtte lengstefristene i alternativ 2 reelt sett åpne for fremstilling opp mot henholdsvis 63 og 87 timer etter pågripelsen.
+
+Departementet merker seg at *høringsinstansene* har ulike synspunkt på hvorvidt lengstefristen ved slik fristutsettelse skal settes til «senest den andre» eller «senest den tredje» dagen etter pågripelse. To instanser, *Rettspolitisk forening* og *Statistisk sentralbyrå*, mener at en lengstefrist satt til «senest den andre dagen» etter pågripelsen vil gi tilstrekkelig fleksibilitet til involverte aktører, og derfor er å foretrekke. Disse høringsinstansene gir uttrykk for at et lengre tidsrom vil kunne skape risiko for at 48-timersfristen ikke tas tilstrekkelig på alvor. Andre høringsinstanser mener at lengstefristen bør settes til «senest den tredje dagen» etter pågripelsen. Selv om 48 timer ifølge *Politidirektoratet* og *Kripos* vil være et tilstrekkelig tidsrom i de fleste saker, trekker blant annet *Politidirektoratet*, *Kripos*, *NAST*, *PST* og de enkelte *politidistriktene* frem at en lengstefrist på «senest den tredje dagen» etter pågripelsen, vil være nødvendig i komplekse eller omfattende saker. En slik lengstefrist vil åpne for noe større fleksibilitet i særlige tilfeller der det foreligger omstendigheter som gjør det nødvendig å fremstille den pågrepne senere enn den alminnelige fristen. Det vises til disse innspillene slik de er gjengitt i punkt 12.5.2.
+
+Departementet har, i likhet med de fleste høringsinstansene, kommet til at den absolutte lengstefristen bør settes til «senest den tredje dagen» etter pågripelsen. Etter departementets vurdering vil en slik lengstefrist ligge innenfor hva som teoretisk vil være den absolutte fristen etter Norges konstitusjonelle og folkerettslige forpliktelser. En slik frist vil for øvrig også ligge innenfor lengstefristene som gjelder i svensk, finsk og dansk rett, jf. punkt 12.3 foran.
+
+Departementet understreker at fremstilling på den tredje dagen etter pågripelsen kun vil være aktuelt i et meget begrenset antall saker. Fremstilling senere enn 48 timer etter pågripelsen kan bare skje helt unntaksvis, og kun i tilfeller hvor det kan påvises konkrete omstendigheter i saken som begrunner en slik tidsbruk som nødvendig og forholdsmessig. Slik departementet ser det, vil en slik tilnærming være i tråd med FNs menneskerettighetskomités uttalelser om at en tidsbruk utover 48 timer «must remain absolutely exceptional» og videre være «justified under the circumstances», se punkt 12.6.1. Det understrekes videre at også tidsbruk opp mot 48 timer må være godt begrunnet, idet hovedregelen fortsatt vil være at fremstilling skal skje snarest mulig.
+
+Departementet har vurdert om en videreføring av den gjeldende lengstefristen kan medføre at 48-timersfristen ikke tas tilstrekkelig på alvor, men finner at en slik innvending ikke kan være avgjørende. Det vises til at bestemmelsen vil få en ny utforming som klart angir «48 timer» som det alminnelige ytterpunktet for fremstillingsfristen, og at det synliggjøres at utvidelse utover dette kun skal skje unntaksvis.
+
+Enkelte høringsinstanser har tatt til orde for at ordlyden i unntakshjemmelen bør skjerpes. Departementet viser til at den foreslåtte ordlyden «påkrevd» i høringsnotatet var ment å angi en høy terskel. For å ytterligere understreke at terskelen for å benytte unntakshjemmelen er høy, og for å ytterligere synliggjøre at fremstilling senere enn 48 timer etter pågripelsen kun kan finne sted i et fåtall saker, er imidlertid departementet kommet til at ordlyden bør endres til «særlig påkrevd». Videre er departementet kommet til at det bør fremgå uttrykkelig av lovteksten at fremstilling senere enn 48 timer kun kan skje etter en samlet vurdering av de konkrete omstendighetene i den enkelte sak. Det vises for øvrig til bestemmelsens særmerknad nedenfor.
+
+Departementet finner grunn til å understreke at en generell ressursmangel vanskelig vil kunne begrunne at en fremstilling senere enn 48 timer anses «særlig påkrevd». Det følger av dette en plikt for politi og påtalemyndighet til å prioritere ressursene som trengs for å sikre en rask fremstilling for retten innen 48 timer, og at domstolene må ha tilstrekkelig kapasitet til å kunne avholde fengslingsmøter på kveldstid samt på helgedager og helligdager.
+
+Det foreslås etter dette at straffeprosessloven § 183 første ledd endres slik at den pågrepne «snarest mulig og innen 48 etter pågripelsen» må fremstilles for retten med begjæring om fengsling. Dersom det «etter en samlet vurdering av omstendighetene i den enkelte sak» anses «særlig påkrevd», kan den pågrepne fremstilles senere, men likevel «aldri senere enn den tredje dagen etter pågripelsen».
+
+Departementet foreslår for øvrig også en endring av den særskilte fremstillingsfristen for fengsling av personer under 18 år i straffeprosessloven § 183 annet ledd, se kapittel 13.

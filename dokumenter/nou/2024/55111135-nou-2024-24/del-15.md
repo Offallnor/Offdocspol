@@ -1,958 +1,328 @@
-# NOU 2024: 24, del 15 av 22 (side 177–187)
+# NOU 2024: 24, del 15 av 24
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/55111135-nou-2024-24.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-24/id3079704/
 - Original-PDF: https://www.regjeringen.no/contentassets/28617a4ff70a45858f1ff0de3f8c4263/no/pdfs/nou202420240024000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 1 tabell, 22 figurer, 47 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 177]
+# Aktørenes roller i gjenåpningssaker
 
-NOU 2024: 24
-Prøvd på nytt
+## Innledning
 
-er oppnevnt forsvarer i, i realiteten er høyere enn
-den prosentvise andelen skissert her.54 Utgifter til
-offentlig oppnevnt forsvarer var i 2021 på
-1 842 990 kroner, i 2022 på 844 081 kroner, og i
-2023 på 1 676 304 kroner.
-Utvalget mener på bakgrunn av dette at forsvarere har en forholdsvis sentral rolle i behandlingen av gjenåpningssaker. Forarbeidenes uttalelser
-om at det normalt ikke vil være nødvendig med
-forsvarer for å dekke siktedes behov for rettshjelp
-i gjenåpningsprosessen, er etter utvalgets syn lite
-treffende. I det følgende ser utvalget nærmere på
-hvilke hensyn som taler for at forsvarer oppnevnes i gjenåpningssaken.
+I dette kapittelet gjør utvalget rede for sitt syn på hva som er funksjonen og «rollen» til de sentrale aktørene i gjenåpningssaker, det vil si Gjenopptakelseskommisjonen, påtalemyndigheten, forsvarere og bistandsadvokater
 
-19.3.2 Når bør forsvarer oppnevnes?
-Retten til å få offentlig oppnevnt forsvarer i straffesaker følger av straffeprosessloven § 100. Det
-følger av paragrafens andre ledd at retten – også
-utenfor tilfellene hvor siktede har rett på forsvarer
-– kan oppnevne forsvarer hvis «særlige grunner»
-taler for det. Etter § 397 andre ledd første punktum kan kommisjonen på samme vilkår oppnevne
-forsvarer for siktede eller domfelte i gjenåpningssaker. Bestemmelsen i § 397 andre ledd er basert
-på bestemmelsen i § 100, som tidligere gjaldt også
-for gjenåpningssakene da gjenåpning foregikk i
-domstolene.55
-Adgangen til å få oppnevnt forsvarer i medhold
-av straffeprosessloven § 100 andre ledd har blitt
-noe utvidet i praksis de siste årene.56 At praksis
-har blitt noe liberalisert, skyldes at mistenktes
-rettsstilling er viet mye oppmerksomhet i senere
-år, både nasjonalt og internasjonalt.57 De samme
-hensynene kan tilsi at praksis for forsvareroppnevning også bør liberaliseres noe i gjenåpningssaker.
-Utvalget mener videre at effektivitetshensyn
-med styrke taler for at domfelte bistås av forsvarer
-under gjenåpningsprosessen. Som i straffesaken
-vil en forsvarer kunne gi klare rettsråd om vilkårene for gjenåpning. Forsvareren vil også kunne
-medvirke til et presist og spisset fokus fra domfeltes side når det gjelder gjennomføringen av gjenåpningsprosessen og hvilke anførsler som fremmes, og slik sikre at saken ikke vidløftiggjøres.
-Oppnevning av forsvarer kan dermed bidra til å
-54
+Påtalemyndighetens rolle behandles først i punkt 19.2. I dette punktet drøftes også spørsmålet om påtalemyndighetens plikt og rett til å etterforske en straffesak som er begjært gjenåpnet for Gjenopptakelseskommisjonen, forholdet mellom kommisjonens utredning og påtalemyndighetens etterforskning, samt spørsmålet om overføring av ansvaret for å behandle gjenåpningssaken til et annet politidistrikt eller statsadvokatembete. Deretter drøftes forsvarerens rolle i punkt 19.3 og bistandsadvokatens rolle i punkt 19.4. Gjenopptakelseskommisjonen omtales til sist i punkt 19.5.
 
-Se punkt 15.7.
-Se punkt 8.6.1.
-56 Se Rt. 2015 s. 844 avsnitt 28–41, HR-2016-379-A avsnitt 33–
-41 og HR-2020-2214-U avsnitt 13–14. Se også NOU 2016: 24
-s. 217–220.
-57 NOU 2016: 24 s. 217.
-55
+## Påtalemyndighetens rolle
 
-175
+### Allment om påtalemyndighetens rolle i gjenåpningssaker
 
-Kapittel 19
+Det fremgår av forarbeidene til loven som etablerte Gjenopptakelseskommisjonen at påtalemyndigheten var ment å ha en «tilbaketrukket rolle» i behandlingen av gjenåpningsbegjæringen.[^850] Det er holdepunkter for at det ikke ble slik i praksis. I riksadvokatens oppsummering fra det årlige statsadvokatmøtet i 2006 uttales det:
 
-redusere saksbehandlingstiden. Utvalget forstår
-det slik at kommisjonen til dels også oppnevner
-forsvarer ut fra slike betraktninger i dag.
-Utvalget mener at adgangen til å få oppnevnt
-offentlig forsvarer fortsatt bør reguleres som i
-dagens § 397 andre ledd. De relevante momentene i helhetsvurderingen av om det foreligger
-«særlige grunner», vil i stor grad være de samme
-som etter straffeprosessloven § 100 andre ledd. I
-vurderingen må det blant annet ses hen til sakens
-alvor, sakens betydning for domfelte, om faktum
-og lovanvendelsen er uklar(t) eller komplisert,
-domfeltes alder og helse, samt manglende språkeller samfunnskunnskaper hos utlendinger.58
-Sakens alvor bør etter utvalgets syn være et
-sentralt moment. Utvalget mener at domfelte som
-den klare hovedregel bør få offentlig oppnevnt forsvarer under gjenåpningsprosessen hvis vedkommende er dømt til en ubetinget fengselsstraff på
-mer enn ett år. I disse tilfellene tilsier sakens alvor
-med styrke at det foreligger «særlige grunner».59
-I saker hvor det er idømt lengre fengselsstraffer,
-for eksempel i saker om voldtekt, er det etter
-utvalgets syn vanskelig å se for seg at domfelte
-ikke skal få oppnevnt forsvarer. Utvalget presiserer at saken kan stille seg annerledes i tilfeller
-hvor domfelte fremsetter gjentatte begjæringer
-for kommisjonen, eller det er åpenbart at begjæringen ikke kan føre frem. For øvrig mener utvalget at det generelt bør ha betydning om domfelte
-er dømt til fengselsstraff, og om vedkommende
-fortsatt soner.
-I saker som gjelder tilregnelighet, bør det
-gjennomgående oppnevnes forsvarer. Dette er
-også praksis i dag. I tilfeller hvor kommisjonen
-oppnevner bistandsadvokat for fornærmede, bør
-det også oppnevnes forsvarer for domfelte.60
-Etter utvalgets syn bør kommisjonen oppnevne forsvarer i tilfeller hvor de nevnte hensy58
+«Erfaringene så langt viser at kommisjonen ber om uttalelse i langt større utstrekning enn hva påtalemyndigheten hadde sett for seg før etableringen av nyordningen. Uttalelsene kan være av stor betydning for utfallet av sakene, og fordrer fortsatt mye arbeid. Påtalemyndigheten har i dag nærmest en partsrolle som er tilnærmet lik den vi hadde før det nye systemet ble etablert, og som var ønsket endret.»[^851]
 
-Ot.prp. nr. 66 (2001–2002) s. 26.
-Se til sammenligning Rt. 2015 s. 844 avsnitt 48 om oppnevning av forsvarer ved «særlige grunner» på etterforskningsstadiet: «Sakens alvor vil utvilsomt måtte ha stor
-betydning for vurderingen, og etter mitt syn må det i denne
-sammenheng i noen grad sees hen til den vurdering som
-gjøres når det i relasjon til EMK artikkel 6 nr. 3 bokstav c,
-må vurderes om hensynet til rettferdighet tilsier at forsvarer oppnevnes for siktede. Det synes å være et utbredt syn
-at det i seg selv vil være avgjørende for om kravet til rettferdighet anses oppfylt, om det er en realistisk mulighet for at
-siktede vil bli dømt til en ubetinget fengselsstraff.» Se også
-NOU 2016: 24 s. 219, hvor utvalget foreslår at når saken
-står for retten, bør den tiltalte være representert av forsvarer i alle saker hvor det er spørsmål om å idømme ubetinget fengselsstraff, samfunnsstraff eller ungdomsstraff.
-60 Likedan NOU 2016: 24 s. 219, hvor det blant annet pekes på
-behovet for å «rette opp ubalansen» i slike tilfeller.
-59
+Daværende førstestatsadvokat Jørn Maurud var inne på det samme under Rettssikkerhetskonferansen i 2011. Maurud skal der ha uttalt at Gjenopptakelseskommisjonen i praksis involverte påtalemyndigheten i stor grad i gjenåpningssakene.[^852] Professor Morten Holmboe har i senere tid også stilt spørsmål om det er «treffende å beskrive påtalemyndighetens rolle som ‘tilbaketrukket’».[^853]
 
-[Side 178]
+Utvalget har videre – gjennom samtaler med representanter for påtalemyndigheten – fått inntrykk av at det ikke er dekkende å si at påtalemyndigheten generelt har en «tilbaketrukket rolle» ved behandlingen av begjæringer om gjenåpning. Grunnene til dette er sammensatte.
 
-176
+Det følger av straffeprosessloven § 55 andre ledd at påtalemyndighetens tjenestemenn skal opptre objektivt i hele sin virksomhet, herunder når det oppstår spørsmål om gjenåpning.[^854] Objektivitetsprinsippet er begrunnet i hovedformålet med straffeprosessen, som er å komme til et materielt riktig resultat. En nødvendig konsekvens av dette er at påtalemyndigheten er forpliktet til å bidra til å opplyse om forhold som taler for og imot gjenåpning. Hvis påtalemyndigheten i en gjenåpningssak skulle være overbevist om at en straffesak ikke bør gjenåpnes til gunst, kan den ut fra denne målsettingen ikke holde tilbake sine faktiske og rettslige vurderinger av betydning for gjenåpningsspørsmålet, men må meddele dem til kommisjonen.
 
-Kapittel 19
+Påtalemyndigheten er i lov og retningslinjer pålagt forpliktelser som i praksis gjør det vanskelig å innta en tilbaketrukket rolle. Hvis en begjæring om gjenåpning fra domfelte ikke forkastes av kommisjonen, «skal den forelegges for den annen part» for eventuelle merknader, jf. straffeprosessloven § 397 fjerde ledd første punktum. I slike saker er påtalemyndigheten «den annen part». Dersom den foreløpige prøvingen bygger på andre opplysninger enn dem som fremgår av begjæringen, skal også disse forelegges påtalemyndigheten til uttalelse før avgjørelsen treffes, jf. § 397 fjerde ledd andre punktum. Videre fremgår det av straffeprosessloven § 398 tredje ledd at påtalemyndigheten skal holdes løpende oppdatert og gis mulighet til å uttale seg dersom kommisjonen under saksforberedelsen innhenter eller mottar opplysninger av betydning for avgjørelsen. At påtalemyndigheten skal forelegges alt av faktum (og anførsler om faktum) som avgjørelsesorganet bygger sin avgjørelse på, kan også utledes av ulovfestede krav til kontradiksjon. Påtalemyndigheten bør også høres når kommisjonen vurderer konkrete utredningsskritt, slik som eksempelvis oppnevning av sakkyndige.
 
-NOU 2024: 24
-Prøvd på nytt
+Påtalemyndighetens rolle under gjenåpningsprosessen er presisert i retningslinjer fra riksadvokaten.[^855] Ut fra disse vil påtalemyndighetens første berøring med gjenåpningssaken normalt være når kommisjonen ber om utlån av straffesaksdokumentene. Kommisjonen vil da rutinemessig legge ved en kopi av domfeltes gjenåpningsbegjæring. Rundskrivet angir at påtalemyndigheten bare unntaksvis bør gi uttalelse til begjæringen på dette trinnet av saksbehandlingen. Bakgrunnen er at «\[u\]ttalelse på dette stadium \[…\] i mange tilfeller \[vil\] innebære unødig arbeid og forsinke ekspedisjonen av sakene». Dersom begjæringen inneholder feilaktige opplysninger, og det ikke fremgår tydelig av dokumentene, kan dette ifølge rundskrivet likevel ofte med fordel bemerkes.[^856]
 
-nene taler for det, også dersom domfelte bistås av
-ikke-juridiske «medhjelpere».
-Baneheia-saken er et eksempel på en sak hvor
-domfeltes medhjelpere (medlemmene av Viggo
-Kristiansens «støttegruppe») la ned et omfattende
-arbeid, som etter utvalgets syn bør anerkjennes
-og respekteres. Utvalget forstår det slik at bistand
-fra medhjelpere uten juridisk kompetanse forekommer relativt hyppig også i andre saker. En
-stor andel av disse gjør arbeidet av idealistiske
-årsaker, uten å ta seg betalt. Noen krever imidlertid betalt og/eller mottar betaling for arbeidet
-som legges ned.
-Utvalget bemerker at det normalt vil kreves
-juridisk kompetanse for å gi domfelte tilstrekkelig
-bistand i gjenåpningssaken. Reglene om gjenåpning av straffesaker er omfattende og til dels kompliserte. Det gjelder både de materielle og prosessuelle reglene. Bistand fra personer uten juridisk
-kompetanse kan ikke erstatte bistand fra en forsvarer.
-Utvalget mener for øvrig at kommisjonen bør
-ha mulighet til å pålegge domfelte å la seg bistå av
-forsvarer i gjenåpningssaken. Dette gjøres også i
-dag, særlig i tilregnelighetssaker. Av pedagogiske
-hensyn foreslås det at denne adgangen lovfestes i
-et nytt tredje punktum i straffeprosessloven § 397
-andre ledd. Det vises til den nærmere redegjørelsen for bestemmelsen i spesialmerknadene i
-punkt 26.1.2.
+Retningslinjene bestemmer videre at politiet skal sende saksdokumentene til kommisjonen via statsadvokaten dersom saken har vært behandlet av statsadvokaten. Grunnen er at statsadvokater som har behandlet saken, skal bli kjent med den på et tidlig tidspunkt.
 
-19.3.3 Prosedyren for forsvareroppnevning
-Det fremgår av straffeprosessloven § 397 andre
-ledd andre punktum at reglene i §§ 101–107 gjelder tilsvarende når det oppnevnes offentlig forsvarer for kommisjonen. I tilfellene hvor siktede ikke
-selv har valgt forsvarer, følger det av § 103 at en av
-de faste forsvarerne skal oppnevnes. Faste forsvarere oppnevnes av domstolene etter søknad fra
-forsvarerne.
-Utvalget mener at kommisjonen bør vurdere
-å etablere en gruppe med faste forsvarere for
-gjenåpningssaker. Dette kan sikre at forsvarerne
-som oppnevnes i gjenåpningssakene, har erfaring fra slike saker. At forsvareren har erfaring
-med gjenåpningssaker, kan bidra til å effektivisere gjenåpningsprosessen og gi domfelte et
-bedre forsvar.
-Utvalget har fått opplyst at kommisjonen gjennomgående ikke tar stilling til spørsmålet om oppnevning av forsvarer før den saksansvarlige juristen har hatt mulighet til å vurdere saken nærmere. Etter omstendighetene kan dette ta lang tid.
-Kommisjonen opplyser for tiden om at det nor-
+Rutinene medfører altså at påtalemyndigheten alltid vil være informert om gjenåpningsbegjæringen, også i tilfeller hvor kommisjonens leder/nestleder uten nærmere behandling forkaster begjæringen etter reglene i § 397 tredje ledd. I praksis vil påtalemyndigheten derfor allerede på dette stadiet i saksbehandlingen kunne utøve kontradiksjon, for eksempel ved å korrigere klare feil. Etter utvalgets vurdering er dette viktig for å ivareta målsettingen om å oppnå et materielt riktig resultat.
 
-malt tar mer enn et år fra saken kommer inn til
-kommisjonen, til den tas under «aktiv håndtering»
-av saksbehandleren.
-Etter utvalgets syn er det uheldig at spørsmålet om forsvareroppnevning ikke vurderes på et
-tidligere stadium. Det fører blant annet til at forsvarere som har bistått med å utarbeide gjenåpningsbegjæringen, ikke får betalt før etter lang
-tid. Utvalget mener at praksisen bør endres.
-Kommisjonen bør – på samme måte som i domstolene – gjøre vurderingen av om det skal oppnevnes forsvarer, uten ugrunnet opphold når
-saken kommer inn. Med andre ord bør spørsmålet om forsvareroppnevning vurderes kort tid
-etter at begjæringen kommer inn til kommisjonen, selv om saken først senere blir utredet nærmere. Utvalget antar at dette normalt vil la seg
-gjøre. Muligheten for å legge om kommisjonens
-praksis på denne måten har også blitt tatt opp av
-ansatte i kommisjonen.
-Utvalget forstår det slik at kommisjonen ikke
-regelmessig gjør foreløpige avregninger av salærkrav, jf. salærforskriften § 6 tredje ledd første
-punktum. Det gjelder selv om forsvareren har lagt
-ned betydelig arbeid ved utarbeidelsen av gjenåpningsbegjæringen, og behandlingen av saken
-trekker ut grunnet lang behandlingstid.
-Salærforskriften synes å åpne for at kommisjonen i slike tilfeller kan avregne salærkravet etappevis. Den nevnte bestemmelsen lyder slik: «Dersom en sak er spesielt langvarig og tidkrevende,
-kan det utbetales et forskudd tilsvarende det
-salær som hittil er opptjent i saken». Formålet
-med bestemmelsen er nettopp å forhindre at den
-som har utført arbeidet, får likviditetsproblemer i
-saker som tar lang tid. En forutsetning for utbetaling av det fulle kravet er imidlertid at forsvareren
-ikke har «benyttet lengre tid enn hva som er rimelig og nødvendig», jf. forskriften § 7.
+Riksadvokatens rundskriv gir også retningslinjer for påtalemyndighetens vurdering av om det skal gis uttalelse til gjenåpningsbegjæringen, jf. § 397 fjerde ledd første punktum, eller til nye opplysninger som fremkommer under utredningen av saken, jf. § 398 tredje ledd første punktum. Om dette heter det i rundskrivet:
 
-19.4 Bistandsadvokatens rolle
-Straffeprosessloven § 397 andre ledd tredje og
-fjerde punktum regulerer oppnevning av bistandsadvokat for Gjenopptakelseskommisjonen. Bestemmelsene lyder slik:
-«Kommisjonen kan oppnevne bistandsadvokat
-etter reglene i § 107 a. Reglene i §§ 107 b–107 g
-gjelder så langt de passer.»
+«På dette stadium er det særlig viktig å opplyse om saken, etter påtalemyndighetens oppfatning, inneholder noe nytt, og hvordan eventuelle nye opplysninger vurderes. Det bør bl.a. opplyses om forhold som ikke klart fremgår av saksdokumentene, for eksempel om de forhold som nå påberopes også var tema under hoved- eller ankeforhandlingen. Er man i tvil om Kommisjonen ønsker å få belyst særskilte sider av saken, kan man be om å få opplyst dette.»
 
-Ordet «kan» innebærer at det er opp til kommisjonens skjønn om bistandsadvokat skal oppnevnes i
-det enkelte tilfellet dersom vilkårene i § 107 a er
+Noen ganger vil også kommisjonen kunne be om uttalelse knyttet til konkrete forhold:
 
-[Side 179]
+«*Kommisjonen ber om uttalelse om konkrete forhold*
 
-NOU 2024: 24
-Prøvd på nytt
+Kommisjonen skal av eget tiltak sørge for sakens opplysning, og kan i den forbindelse innhente opplysninger på den måte den anser hensiktsmessig, jf. straffeprosessloven § 398 første ledd, bl.a. ved at påtalemyndigheten bes uttale seg om nærmere angitte forhold. Anmodning om uttalelse fra påtalemyndigheten vil formentlig bare være aktuelt i et fåtall av sakene. Dersom påtalemyndigheten anser at også andre forhold enn de som er tatt opp av Kommisjonen bør belyses, er det en fordel at dette inngår i uttalelsen.»[^857]
 
-oppfylt. Dette er også forutsatt i forarbeidene.61
-Flere momenter som er relevante ved vurderingen av forsvareroppnevning etter § 100 andre
-ledd, vil ha overføringsverdi til vurderingen av om
-bistandsadvokat skal oppnevnes, som for eksempel hvor alvorlig saken er, og hvilken betydning
-den har for fornærmede. Et moment i vurderingen vil videre være om fornærmede hadde bistandsadvokat under straffesaken. Dette er imidlertid
-ikke avgjørende i seg selv. Det avgjørende er om
-fornærmede «har behov for bistandsadvokat i forbindelse med kommisjonens behandling av en
-begjæring om gjenåpning».62
-Fornærmedeutvalget uttalte at bistandsadvokat bør oppnevnes når gjenåpningsbegjæringen
-retter seg mot troverdigheten av fornærmedes
-forklaring i den angrepne saken, eller dersom fornærmede innkalles til muntlig avhør for kommisjonen.63 Straffeprosessutvalget uttalte i samme
-retning at det nok oftere vil være behov for oppnevning av bistandsadvokat for fornærmede enn
-for etterlatte, «og da først og fremst i saker der
-fornærmedes forklaring står sentralt for spørsmålet om gjenåpning».64 Straffeprosessutvalget
-pekte videre på at det kan være behov for å oppnevne bistandsadvokat i saker hvor gjenåpningsbegjæringen knytter seg til bevisbedømmelsen,
-og domfelte er død. I slike saker skal det avsies
-dom uten hovedforhandling dersom saken gjenåpnes,65 og kommisjonen får dermed i praksis «det
-siste ord med hensyn til sakens utfall».66
-Ved vurderingen av om bistandsadvokat skal
-oppnevnes, er det etter utvalgets syn sentralt å se
-hen til hvilken rolle bistandsadvokaten skal ha i
-gjenåpningsprosessen. Den kanskje mest sentrale
-oppgaven for bistandsadvokaten under hovedforhandlingen er å fremme et eventuelt sivilt krav på
-vegne av fornærmede eller etterlatte, jf. straffeprosessloven § 428. Det er gjennom et eventuelt
-slikt krav fremmet av fornærmede selv at fornærmede oppnår status som «part», og partsstatusen
-relaterer seg kun til behandlingen av det sivile
-kravet, jf. § 428 andre ledd.67 Sivile krav pådømt i
-forbindelse med straffesaken vurderes derimot
-ikke av Gjenopptakelseskommisjonen. En eventuell endring av det sivile kravet må eventuelt vurderes av domstolene i forbindelse med den nye
-61
+Avslutningsvis angir retningslinjene at kommisjonen kan oversende påtalemyndigheten saken på ny og be om uttalelse:
 
-Ot.prp. nr. 11 (2007–2008) s. 87, se nærmere i punkt 8.6.3.
-Ot.prp. nr. 11 (2007–2008) s. 88.
-63
-NOU 2006: 10 s. 169. Se nærmere om Fornærmedeutvalgets utredning i punkt 5.3.
-64 NOU 2016: 24 s. 470.
-65 Se straffeprosessloven § 400 femte ledd.
-66
-NOU 2016: 24 s. 470.
-62
+«Dersom påtalemyndigheten ikke avgir uttalelse i saken (jf. forrige punkt), eller uttalelsen ikke omfatter de spørsmål som Kommisjonen ønsker å få belyst, kan Kommisjonen anmode om at påtalemyndigheten på ny vurderer om det skal gis (ytterligere) uttalelse til enkelte spørsmål. Dette er ment som ‘sikkerhetsventil’ man rent unntaksvis vil benytte for å sikre best mulig opplysning av saken. Påtalemyndigheten skal i slike tilfeller gjennomgående gi (ytterligere) uttalelse. Kommisjonen sender i disse tilfeller kopi av anmodningen til riksadvokaten. Den som avgir uttalelse sender kopi til riksadvokaten.»[^858]
 
-177
+Når lov og retningslinjer pålegger påtalemyndigheten disse forpliktelsene og partsrettighetene, er det i praksis vanskelig å innta en «tilbaketrukket» rolle.[^859] Utvalgets inntrykk er at påtalemyndigheten i praksis inntar den rollen som kan utledes av objektivitetsplikten og gjeldende regler og retningslinjer. Inntrykket er videre at Gjenopptakelseskommisjonen gjennomgående ser stor verdi i å få påtalemyndighetens vurderinger av om det er grunnlag for gjenåpning eller ikke. Selv om svikt kan forekomme i enkelttilfeller, er det etter utvalgets syn ikke holdepunkter for å hevde at påtalemyndigheten generelt ikke opptrer i samsvar med objektivitetskravet og målsettingen om materiell sannhet i gjenåpningssaker.[^860]
 
-Kapittel 19
+Det fremgår av mandatet at utvalget skal vurdere om regelverk og praksis knyttet til påtalemyndighetens behandling av gjenåpningsbegjæringer er tilfredsstillende. Utvalget mener at dagens regler og praksis i hovedsak er tilfredsstillende. Som utvalget kommer tilbake til i punkt 19.2.4, er det imidlertid grunn til å gi nærmere føringer for vurderingen av om gjenåpningssaken skal overføres til et annet statsadvokatembete eller politidistrikt. Som påpekt i punkt 19.2.3 bør det etter utvalgets syn heller ikke være et krav at det foreligger «særlige grunner» for å kunne anmode påtalemyndigheten om å utføre etterforskningsskritt, jf. straffeprosessloven § 398 b tredje ledd.
 
-behandlingen av straffesaken etter gjenåpning.68
-Dette tilsier at det i mindre grad er behov for oppnevning av bistandsadvokat under gjenåpningsprosessen. I forarbeidene er det også påpekt at
-det i vurderingen må tas i betraktning at «kommisjonen ikkje tar stilling til spørsmål om skadebot,
-slik domstolane gjer i mange straffesaker».69
-Bistandsadvokaten skal imidlertid også ivareta
-andre funksjoner i straffesaker. Straffeprosessloven § 107 c første ledd sier om bistandsadvokatens rolle ved etterforskningen og pådømmelsen
-av straffesaken:
-«Bistandsadvokaten skal vareta fornærmedes
-og etterlattes interesser i forbindelse med
-etterforsking og hovedforhandling i saken.
-Bistandsadvokaten skal også gi slik annen
-hjelp og støtte som er naturlig og rimelig i forbindelse med saken.»
+Utvalget anbefaler videre at riksadvokatens gjenåpningsrundskriv fra 2004 oppdateres. Beskrivelsen av påtalemyndighetens involvering på de ulike stadiene i gjenåpningsprosessen kan gjøres tydeligere, og rundskrivet bør reflektere at oversendelsen av saksdokumentene i dag normalt skjer elektronisk.
 
-I praksis innebærer dette at bistandsadvokaten
-skal varsles om, og har rett til å være til stede i
-rettsmøter i den utstrekning retten finner det nødvendig. Det samme gjelder ved andre etterforskingsskritt som åstedsbefaringer, rekonstruksjoner og lignende, når fornærmede eller etterlatte selv skal delta. Bistandsadvokaten skal også
-varsles om, og har rett til å være til stede ved politiets avhør av fornærmede under etterforskningen. Bistandsadvokaten kan videre anmode om at
-det foretas ytterligere etterforskningsskritt.
-Fornærmedes og etterlattes «interesser», jf.
-§ 107 c første punktum, må forstås slik at de i stor
-grad relaterer seg til eventuelle sivile krav. Fornærmede kan imidlertid også ha en selvstendig
-interesse i å få saken tilstrekkelig opplyst, herunder gjennom egen vitneforklaring, og å holdes
-informert om sakens utvikling. Bistandsadvokaten kan bistå i den forbindelse. På den annen side
-skal bistandsadvokaten ikke ivareta fornærmedes
-eller etterlattes eventuelle interesse i at siktede
-blir domfelt. Bistandsadvokaten kan bidra til å få
-saken opplyst, men har ikke – i motsetning til
-aktor – som oppgave å forsøke å få den tiltalte
-dømt i tråd med tiltalen. Det samme må gjelde i
-67
+Det bør også på en klarere måte angis i hvilke tilfeller det er aktuelt at påtalemyndigheten inngir anke til gunst for domfelte, jf. § 309.[^861] Det forekommer fra tid til annen at Gjenopptakelseskommisjonen ber påtalemyndigheten om å vurdere anke til gunst for domfelte, blant annet i tilfeller hvor det er uklart om de materielle vilkårene hjemler gjenåpning. Anke til gunst vil også innebære en enklere og mer effektiv prosess enn når saken først må via kommisjonen som prosessuelt mellomledd.[^862]
 
-Se Prop. 146 L (2020–2021) s. 186: «At fornærmede har status som part, innebærer blant annet at vedkommende kan
-holde innledningsforedrag, føre bevis, stille spørsmål, prosedere og legge ned påstand med hensyn til det sivile kravet […]. Bevisføring og prosedyre som bare har betydning
-for straffekravet, vedkommer ikke den som fremmer et
-sivilt krav i saken, men se § 264 a annet ledd om fornærmedes forslagsrett.»
-68 Se punkt 7.2.3.
-69
-Ot.prp. nr. 54 (2005–2006) s. 11.
+### Påtalemyndighetens selvstendige rett og plikt til å etterforske når gjenåpning er begjært
 
-[Side 180]
+Mandatet angir at utvalget skal
 
-178
+«\[…\] vurdere om påtalemyndigheten har eller bør ha en selvstendig rett, og eventuelt plikt, til å iverksette etterforskning når det foreligger begjæring om gjenåpning. I den forbindelse skal det også vurderes hva som i så fall bør være forholdet til Gjenopptakelseskommisjonens undersøkelser etter straffeprosessloven § 398 flg».[^863]
 
-Kapittel 19
+Lovgiver har bestemt at spørsmål om gjenåpning av straffesaker skal utredes og avgjøres av Gjenopptakelseskommisjonen, jf. straffeprosessloven § 394. Kommisjonen har en sterk rettslig utredningsplikt, jf. § 398 første ledd.[^864] Kommisjonen har også en rekke lovbestemte virkemidler for å oppfylle denne plikten. Etter § 398 a kan kommisjonen gjennomføre avhør av siktede og vitner. Paragraf 398 b gir kommisjonen rett til å begjære bevisopptak etter domstollovens regler, fremsette begjæring for tingretten om personundersøkelse og observasjon, samt begjære bruk av tvangsmidler etter straffeprosessloven kapittel 14 til 16. Videre kan kommisjonen gi utleveringspålegg etter § 210 første punktum, oppnevne sakkyndige etter reglene i kapittel 11 og foreta gransking etter reglene i kapittel 12. Kommisjonen har videre ansatt politifaglige utredere for å bistå med den faktiske opplysningen av saken. Kommisjonen har dermed både lovhjemler og personell til å utrede saken.
 
-NOU 2024: 24
-Prøvd på nytt
+Det fremgår av straffeprosessloven § 398 b tredje ledd at kommisjonen «i særlige tilfeller» kan anmode påtalemyndigheten om å utføre nærmere angitte etterforskningsskritt. Hva som ligger i «særlige tilfeller», er presisert i forarbeidene:
 
-relasjon til gjenåpning. Det bør ikke være
-bistandsadvokatens rolle å arbeide aktivt for å forhindre at saken blir gjenåpnet.
-Ved vurderingen av om bistandsadvokat skal
-oppnevnes, må det videre tas i betraktning at fornærmedes interesse i utfallet av gjenåpningssaken er av mer avledet karakter enn ved behandlingen av den opprinnelige straffesaken. Kommisjonens eventuelle gjenåpningsavgjørelse medfører
-kun at saken behandles på nytt, og det er opp til
-domstolene å avgjøre om domfelte skal frifinnes
-eller dømmes igjen.70 Ved den nye domstolsbehandlingen vil fornærmede og eventuelt etterlatte
-igjen kunne gjøre krav på rettighetene som vedkommende er gitt etter straffeprosesslovens
-øvrige regler, og det kan bli aktuelt å oppnevne
-bistandsadvokat dersom vilkårene for det er oppfylt.
-Etter § 107 c første ledd andre punktum skal
-bistandsadvokaten også gi «slik annen hjelp og
-støtte som er naturlig og rimelig». Hvordan denne
-oppgaven skal utføres, må langt på vei overlates til
-bistandsadvokaten i lys av de konkrete forholdene
-i den aktuelle saken. Bistandsadvokaten skal imidlertid ikke påta seg en ren «psykologfunksjon»,
-løsrevet fra den faglige rollen som rettslig veileder. Samtidig vil det likevel – gitt sakens karakter
-– kunne være naturlig at det gis en form for psykisk støtte gjennom samtaler med fornærmede og
-etterlatte.71 Anne Robberstad skriver om dette:
-«Det er viktig at advokatene bruker sine egne
-særlige forutsetninger og at de ikke prøver å
-gjøre noe de slett ikke kan, som å behandle.
-Særlig viktig er dette i en ordning hvis fundament tilsynelatende inviterer til å gå ut over
-den faglige rollen (med annen hjelp og støtte).
-Både av hensyn til klienten og av hensyn til seg
-selv bør advokaten holde seg innenfor den vanlige advokatrollen, slik denne er forstått og
-praktisert innenfor profesjonens egen tradisjon. Hvis advokaten i sin virksomhet går utenfor den rollen hun behersker, vil det kunne
-minne om kvakksalveri. Særlig farlig er dette
-på et område hvor klientene er i en så utsatt
-posisjon som en som har vært utsatt for en av
-de straffbare handlingene som strpl § 107 a
-omhandler.»72
+«Det bør \[…\] ikke være slik at kommisjonen rutinemessig ber politiet om å forberede sakene. Dersom det i realiteten er politiet som må stå for sakens opplysning, kan dette svekke tilliten til kommisjonen. Slike anmodninger bør derfor begrenses til saker der spesielle hensyn gjør seg gjeldende, for eksempel hvor det er behov for særlig kompetanse som kommisjonen ikke selv besitter. Anmodningen må være konkret utformet, slik at den spesifiserer hvilke etterforskningsskritt som ønskes gjennomført.»[^865]
 
-70
+Etter dette er det en klar lovgiverintensjon at det er kommisjonen som skal ha ansvaret for å utrede og etterforske saken når det foreligger en begjæring om gjenåpning. Videre fremgår det av loven og forarbeidene at det er kommisjonen som skal styre saksbehandlingen og ta stilling til hvilke utredningsskritt påtalemyndigheten eventuelt skal bistå med.[^866] Denne forventningen til kommisjonens rolle kommer også til uttrykk i riksadvokatens rundskriv om påtalemyndighetens opptreden i gjenåpningssaker:
 
-Se punkt 9.3.
-Frøberg mfl., Straffeprosessloven – Karnovs lovkommentar, note 2 til straffeprosessloven § 107 c, ajourført 12. april
-2024.
-72
-Robberstad (2014) s. 80–81.
-71
+«For å kunne avgi uttalelse kan det i noen saker være nødvendig å foreta videre undersøkelser. På dette stadiet av saken bør påtalemyndigheten ikke sette i verk etterforsking uten at spørsmålet er forelagt for Kommisjonen, jf. straffeprosessloven § 398b tredje ledd.»[^867]
+
+Utvalget antar at det er nokså upraktisk at kommisjonen – dersom spørsmålet skulle oppstå og den blir forespurt – vil motsette seg at påtalemyndigheten besørger de undersøkelser som kreves for å få saken forsvarlig utredet. Det er grunn til å tro at dette gjelder generelt.
+
+Utvalget mener at lovens løsning har de beste grunner for seg, og at rettstilstanden bør videreføres. Dersom det var slik at påtalemyndigheten på selvstendig grunnlag hadde en vidtgående generell plikt til å etterforske saken når det ble inngitt en begjæring om gjenåpning, ville det fort kunne kommet i konflikt med Gjenopptakelseskommisjonens plikt til å utrede saken. Både hensynet til et materielt riktig resultat, forutberegnelighetshensyn og effektivitetshensyn taler mot at det etableres et system hvor to organer har et selvstendig, parallelt ansvar for å utrede og etterforske saker når det foreligger en gjenåpningsbegjæring. En annen sak er at det ikke er noe i veien for at påtalemyndigheten overfor kommisjonen formidler sitt syn på hvilke etterforskningsskritt som er mest tjenlige.
+
+Spørsmålet blir så om lovens ordning gjelder uten unntak, eller om påtalemyndigheten i visse tilfeller kan ha en selvstendig rett og plikt til å iverksette etterforskning til tross for at saken er under behandling i kommisjonen.
+
+Påtalemyndigheten har en plikt til å opptre objektivt og søke den materielle sannhet på ethvert trinn av straffesaken, herunder ved spørsmål om gjenåpning.[^868] Dersom påtalemyndigheten gjøres kjent med forhold som klart er egnet til å reise alvorlig tvil om dommen er korrekt, kan det etter omstendighetene tilsi en *plikt* til å foreta nærmere undersøkelser av forholdet, selv om domfeltes begjæring behandles av kommisjonen. Dette vil eksempelvis kunne være tilfelle dersom påtalemyndigheten gjennom etterforskningen av en annen straffesak eller gjennom media blir kjent med opplysninger som tilsier at en domfelt som har begjært gjenåpning, trolig er uskyldig. For at en selvstendig plikt til å iverksette etterforskning skal inntre, bør de aktuelle opplysningene forholdsvis klart og umiddelbart gi grunn til å stille spørsmål om domfellelsen er korrekt.[^869]
+
+Med mindre det er fare ved opphold, antar utvalget at spørsmålet om å iverksette etterforskning i slike tilfeller først bør forelegges for kommisjonen. Dersom det er behov for å foreta mer omfattende undersøkelser, bør etterforskningen fortrinnsvis koordineres med kommisjonens behandling.[^870]
+
+Påtalemyndigheten vil med grunnlag i objektivitetsplikten i prinsippet også kunne ha en selvstendig *rett* til å utføre andre etterforskningsskritt enn kommisjonen beslutter. Utvalget antar imidlertid at en selvstendig rett til å iverksette etterforskning i praksis sjelden vil komme på spissen, idet kommisjonen som nevnt neppe vil motsette seg relevante etterforskningsskritt som foreslås av påtalemyndigheten.
+
+### Forholdet mellom påtalemyndighetens etterforskning og kommisjonens undersøkelser
+
+I mandatet er utvalget bedt om å vurdere hvordan forholdet bør være mellom påtalemyndighetens etterforskning og «Gjenopptakelseskommisjonens undersøkelser etter straffeprosessloven § 398 flg».
+
+Utvalget mener at det i all hovedsak fortsatt bør være slik at kommisjonen har det overordnede ansvaret for å etterforske saken når det foreligger en begjæring om gjenåpning. Dersom påtalemyndigheten på selvstendig grunnlag mener at det er behov for visse etterforskningsskritt i saken, bør spørsmålet normalt forelegges for kommisjonen. Det vises til det som er sagt i punkt 19.2.2 om dette.
+
+Et annet spørsmål er hvor ofte, og i hvilke tilfeller, kommisjonen bør anmode påtalemyndigheten om bistand til å utrede gjenåpningssaken. Dette spørsmålet er regulert i straffeprosessloven § 398 b tredje ledd, hvor det heter:
+
+«Kommisjonen kan i særlige tilfeller anmode påtalemyndigheten om å utføre nærmere angitte etterforskningsskritt.»
+
+Utvalget mener at det bør være opp til kommisjonen å avgjøre om den selv skal stå for det meste av utredningen, eller om påtalemyndigheten skal anmodes om å bistå med konkrete etterforskningsskritt, og i hvilken grad. Dette må bedømmes ut fra blant annet sakens karakter og hva slags type utredning som er nødvendig. Slik utvalget ser det, bør anmodninger om etterforskningsbistand ikke forutsette at det gjør seg gjeldende spesielle hensyn. Utvalget foreslår derfor at formuleringen «særlige tilfeller» tas ut av ordlyden. Som i dag bør anmodningene imidlertid være begrenset til konkrete etterforskningsskritt.
+
+Hovedbegrunnelsen for at kommisjonen etter gjeldende regler skal begrense anmodninger om etterforskningsbistand til «særlige tilfeller», er ifølge forarbeidene at det kan svekke tilliten til kommisjonen dersom det «i realiteten er politiet som må stå for sakens opplysning». Departementet mente derfor at «\[s\]like anmodninger bør \[…\] begrenses til saker der spesielle hensyn gjør seg gjeldende, for eksempel hvor det er behov for særlig kompetanse som kommisjonen ikke selv besitter».[^871]
+
+Utvalget er ikke enig i forarbeidenes synspunkt om at det på generelt grunnlag kan svekke tilliten til kommisjonen dersom det i realiteten er politiet som står for sakens opplysning. Påtalemyndighetens undersøkelser skal som den klare hovedregel skje i regi av kommisjonen. Så lenge dette er tilfellet, kan ikke utvalget se at tilliten til kommisjonen vil bli nevneverdig svekket. Systemet må nødvendigvis forutsette at politi og påtalemyndighet er i stand til å opptre objektivt ved utføringen av sine arbeidsoppgaver. Dersom det i konkrete saker skulle oppstå tvil om påtalemyndighetens etterforskning kan utføres objektivt og tillitvekkende, bør dette i så fall løses gjennom en vurdering av hvem i påtalemyndigheten som håndterer anmodningen.[^872]
+
+Utvalgets inntrykk er for øvrig at behovet er større enn tidligere for at påtalemyndigheten bistår kommisjonen med å utføre ulike etterforskningsskritt. Det er flere grunner til dette.
+
+For det første mottar kommisjonen stadig flere gjenåpningsbegjæringer som gjelder store og komplekse saker. Disse sakene krever gjennomgående at det gjøres et større utredningsarbeid. Å tilføre kommisjonen ressurser i en størrelsesorden som gjør den i stand til selv å stå for all nødvendig utredning, fremstår verken hensiktsmessig eller økonomisk forsvarlig. Det vil i så fall kreve tilførsel av spesialkompetanse innen et bredt spekter av sakstyper. Dersom påtalemyndigheten ikke gir nødvendig bistand, er det en risiko for at kommisjonen ikke vil være i stand til å utføre det arbeidet den er satt til å gjøre.
+
+Videre har den teknologiske utviklingen medført at kommisjonen har et større behov for bistand enn tidligere, for eksempel ved etterforskning av digitale bevis. Forsker Nina Sunde ved Politihøgskolen har undersøkt hvilken betydning digitale bevis har i gjenåpningssaker ved å se på samtlige av kommisjonens 307 gjenåpningsavgjørelser fra opprettelsen av kommisjonen i 2004 til og med august 2019.[^873] Sundes gjennomgang viste at det var «svært få av de gjenåpnede sakene hvor digitale bevis hadde betydning for beslutningen. De 6 sakene med digitale bevis \[utgjorde\] 1,9 % av gjenåpnede sakene».[^874] I sakene som *ikke* ble gjenåpnet, ble det i 65 tilfeller påberopt feil eller usikkerheter ved digitale bevis.[^875] Ifølge Sunde viser undersøkelsen at «domfelte svært sjelden får positivt svar på sin gjenåpningsbegjæring hvor digitale bevis inngår som hele eller deler av begrunnelsen». Det relativt lave antallet gjenåpnede saker hvor slike bevis hadde betydning, gjør at Sunde stiller «spørsmål om feil og usikkerhetsmomenter omkring digitale bevis og presentasjonen av disse ‘går under radaren’ i større grad enn andre bevis».[^876]
+
+Digitale bevis er i dag er helt sentrale i mange straffesaker. Det er derfor grunn til å vente at Gjenopptakelseskommisjonen i fremtiden i langt større grad enn i dag vil måtte forholde seg til og gjøre vurderinger av dem. I forbindelse med Etterforskningsløftet er det etablert omfattende kompetansekrav for dataetterforskere.[^877] Etterforskning av digitale bevis krever solide og større fagmiljøer. Det vil etter utvalgets syn ikke være hensiktsmessig å møte det voksende behovet for ekspertise om digitale bevis ved å forsøke å bygge opp tilsvarende spesialkompetanse internt i kommisjonen.
+
+For det tredje antar utvalget at det unntaksvis vil kunne oppstå behov for bruk av tvangsmidler som kommisjonen ikke selv har hjemmel til å benytte, se straffeprosessloven § 398 b. Eksempler er avlytting og annen kontroll av kommunikasjonsanlegg (kommunikasjonskontroll), jf. kapittel 16a, annen avlytting av samtaler ved tekniske midler, jf. kapittel 16 b, og dataavlesning, jf. kapittel 16 d. Bruk av slike tvangsmidler forutsetter naturligvis at vilkårene for dette er oppfylt, herunder mistankekravet og kravet til forholdsmessighet i § 170 a.
+
+Utvalget har for øvrig fått opplyst at anmodninger om etterforskningsbistand normalt rettes skriftlig fra kommisjonens leder til Kripos. Utvalgets inntrykk er at denne ordningen fungerer godt. Det samme gjelder samarbeidet med politiet ved gjennomføringen av etterforskningsskritt.
+
+### Når bør gjenåpningssaken overføres til andre i påtalemyndigheten?
+
+Innledning
+
+Mandatet angir at utvalget skal utrede om, og eventuelt i hvilke tilfeller og på hvilket stadium, gjenåpningssaken bør overføres til et annet politidistrikt og statsadvokatembete enn det som behandlet den opprinnelige straffesaken.
+
+Nedenfor gjøres det rede for bakgrunnen for problemstillingen og gjeldende praksis i påtalemyndigheten. Deretter gis en oversikt over tidligere utredninger av spørsmålet om hvem i påtalemyndigheten som bør behandle gjenåpningssaken. Utvalgets vurderinger presenteres til sist.
+
+Bakgrunn
+
+Straffeprosessloven § 397 fjerde ledd fastslår at en gjenåpningsbegjæring som ikke forkastes etter reglene i tredje ledd, skal forelegges for den annen part. Der domfelte har begjært gjenåpning, er påtalemyndigheten motpart.
+
+Praksis i påtalemyndigheten er at begjæringen som regel behandles av det samme politidistriktet og statsadvokatembetet som hadde den opprinnelige straffesaken.[^878] Praksis er også at samme statsadvokatembete og politidistrikt har ansvaret for den nye behandlingen av saken etter besluttet gjenåpning.[^879] Dette gjelder også i tilfeller hvor påtalemyndigheten motsatte seg gjenåpning mens saken sto for kommisjonen.
+
+Det finnes ingen generelle regler eller retningslinjer som forhindrer at tjenestepersonene i påtalemyndigheten som behandlet den opprinnelige straffesaken, også er ansvarlige for behandlingen av begjæringen om gjenåpning. Det er heller ikke noe forbud mot at de samme tjenestepersonene er ansvarlige for den videre behandlingen av straffesaken etter eventuell gjenåpning. Tvert imot er praksis at gjenåpningssaken – om mulig – behandles av tjenestepersonen som var aktor i den opprinnelige straffesaken. Begrunnelsen er at forutgående kjennskap til saken og bevisføringen i retten anses som en fordel ved behandlingen av saken. Unntak gjelder hvis tjenestepersonen må anses inhabil, jf. straffeprosessloven § 60. Det klare utgangspunktet er imidlertid at tidligere befatning med saken ikke medfører inhabilitet.[^880]
+
+Det kan gjøres unntak fra den nevnte hovedregelen i den enkelte sak. På generelt grunnlag kan overordnet påtalemyndighet alltid helt eller delvis overta behandlingen av en sak som hører under en underordnet, eller ved beslutning i det enkelte tilfellet overføre behandlingen til en annen underordnet, jf. straffeprosessloven § 59 første ledd. Bestemmelsen gjelder også i gjenåpningssaker. Adgangen til å omfordele saker er etter ordlyden uttrykkelig avgrenset til å gjelde i konkrete enkelttilfeller.[^881]
+
+Baneheia-saken er et eksempel på at ansvaret for en gjenåpningssak ble overført til et annet statsadvokatembete enn det som behandlet den opprinnelige straffesaken. I februar 2021 ble den videre behandlingen av den gjenåpnede saken mot Viggo Kristiansen flyttet fra Agder statsadvokatembeter til Oslo statsadvokatembeter. Dette skjedde etter forslag fra Agder statsadvokatembeter, som hadde motsatt seg gjenåpning mens saken sto for Gjenopptakelseskommisjonen. Selv om standpunktet ikke medførte inhabilitet, mente embetslederen i Agder at gode grunner talte for at «friske øyne» så på saken og avga sin tilrådning til riksadvokaten.
+
+Riksadvokaten fremhevet i beslutningen om å overføre saken at gode grunner talte for å legge til rette for en behandling som best mulig sikret ivaretakelsen av påtalemyndighetens objektivitetsplikt, i tråd med embetsleders tilrådning. At embetsleder hadde bedt om overføring, ble også tillagt betydelig vekt. Både sakens karakter og hensynet til de involverte tilsa en meget grundig behandling, og en flytting av saken ville «i så måte bidra til å sikre et så forsvarlig avgjørelsesgrunnlag som mulig før riksadvokaten treffer sin avgjørelse». Riksadvokaten fremhevet at også ressurshensyn tilsa overføring til et større statsadvokatembete.
+
+Den 2. september 2022 innstilte Oslo statsadvokatembeter – etter en omfattende etterforskning og saksgjennomgang – på at Kristiansen skulle frifinnes.[^882] Oslo statsadvokatembeters oppfatning stred på mange punkter mot oppfatningen Agder statsadvokatembeter hadde gitt utrykk for i forbindelse med gjenåpningssaken. Dette har skapt diskusjon om det er grunn til å endre dagens ordning,[^883] og utgjør en del av bakgrunnen for at spørsmålet er særskilt fremhevet i utvalgets mandat.
+
+Oversikt over tidligere utredninger av spørsmålet
+
+Spørsmålet om det bør innføres generelle regler som sikrer at gjenåpningssaken behandles av andre i påtalemyndigheten enn de som hadde ansvaret for saken før domfellelsen, har blitt diskutert ved flere anledninger.
+
+Problemstillingen ble tatt opp av utvalget som gransket Liland-saken.[^884] Selv om den gjeldende ordningen var blitt sterkt kritisert fra forsvarerhold, fant utvalget ikke grunn til å foreslå endringer i regler og praksis. Utvalget vektla at gjeldende praksis hadde klare praktiske fordeler, ettersom forutgående kjennskap til saken normalt vil være av stor betydning ved opplysningen av gjenåpningssaken. Utvalget var heller ikke overbevist om at påtalemyndigheten generelt sett lettere ville begjære gjenåpning eller slutte seg til en slik begjæring dersom gjenåpningsspørsmålet ble behandlet av personer innen påtalemyndigheten som ikke har hatt med saken å gjøre.[^885] I stedet viste utvalget til at det uansett må gjøres en vurdering av tjenestemannens habilitet etter straffeprosessloven § 60, hvor partenes og allmennhetens tillit til saksbehandlingen var viktige hensyn.
+
+Etter at utvalget la frem utredningen, vurderte riksadvokaten om det var behov for en omlegging av påtalemyndighetens praksis, slik at gjenåpningsbegjæringen skulle behandles av andre enn den som var i aktor i saken. Etter å ha innhentet synspunkter fra alle landets statsadvokatembeter konkluderte riksadvokaten med at gjeldende praksis burde videreføres. Riksadvokaten pekte særlig på behovet for kunnskap om den opprinnelige domstolsbehandlingen:
+
+«Etter at gjenopptakelsesbegjæringer ikke lenger skal vurderes av de dommere som har avsagt den angrepne avgjørelse \[…\], er påtalemyndigheten alene om å kunne vurdere på en tilfredsstillende måte det som anføres i begjæringen opp mot det som fremkom under sakens behandling i retten. Etter straffeprosessloven § 391 nr. 3 kan gjenopptakelse kreves ‘når det opplyses en ny omstendighet eller skaffes frem et nytt bevis’. Overføres saken til en annen påtalejurist eller et annet embete, reduseres muligheten for å vurdere om det som anføres virkelig er noe nytt.
+
+Overføres saken til en annen påtalejurist svekkes også muligheten for imøtegåelse av påstander om feil eller uregelmessigheter under hovedforhandlingen.
+
+To-instansreformen, og endringen i gjenopptakelsesreglene ved lov 11. juni 1993 nr. 80, har som kjent økt mulighetene for gjentatt prøvelse av skyldspørsmålet i straffesaker. Det styrker behovet for kontinuitet i den påtalemessige behandling.»[^886]
+
+Problemstillingen ble tatt opp på ny i forbindelse med opprettelsen av Gjenopptakelseskommisjonen. Blant annet drøftet Oslo statsadvokatembeter i sitt høringssvar om ansvaret for å etterforske gjenåpnede saker burde overføres til et annet statsadvokatembete eller politidistrikt. Embetet mente at de beste grunnene talte for at spørsmålet løses konkret, fra sak til sak:
+
+«Vi har vært noe i tvil om også aktoratet bør overføres til et annet statsadvokatembete, eventuelt annet politidistrikt dersom påtalekompetansen tilligger politiet. På den ene siden kan det forhindre påstander om ‘partiskhet’, manglende evne til å se egne ‘feil’ og at det er gått ‘prestisje’ i saken fra påtalemyndighetens side. \[…\] På den annen side tilsier prosessøkonomiske grunner at saken behandles av den som allerede kjenner den, dels gjennom den ordinære behandlingen ved domstolene, dels gjennom behandlingen av gjenopptagelsesbegjæringen. Etter vår oppfatning vil spørsmål om hvem som bør behandle saken i påtalemyndigheten kunne stille seg forskjellig avhengig av bl.a. av sakens karakter og påtalemyndighetens engasjement. Spørsmålet bør derfor vurderes fra sak til sak av påtalemyndigheten selv, på samme måte som spørsmål om habilitet etter straffeprosessloven § 61.»[^887]
+
+I lovproposisjonen om Gjenopptakelseskommisjonen konkluderte departementet med at det ikke var grunn til å gi bestemmelser i lov eller påtaleinstruks som påla påtalemyndigheten å endre gjeldende praksis. Ved siden av Liland-utvalgets og riksadvokatens synspunkter ble det vist til at påtalemyndigheten ville få en mer tilbaketrukket rolle i gjenåpningssakene enn etter de tidligere reglene. Departementet la til grunn at spørsmålet burde vurderes på nytt i forbindelse med den planlagte etterkontrollen av kommisjonen.[^888] Avslutningsvis presiserte departementet at ansvaret for å behandle saken kan overføres til en annen tjenesteperson innen påtalemyndigheten etter en konkret vurdering i den enkelte sak:
+
+«I lys av erfaringene fra Lilandsaken vil det dessuten være naturlig at påtalemyndigheten i den enkelte sak – selv om det ikke foreligger inhabilitet – vurderer om det finnes trekk ved saken som gjør at forutgående kjennskap til saken kan være en ulempe sett fra et rettssikkerhetsmessig ståsted. I slike tilfeller vil den beste løsningen ofte være å la en annen tjenestemann behandle saken, og eventuelt supplere med opplysninger fra den som den gang var påtalemyndighetens representant.»[^889]
+
+Utvalgets vurdering
+
+Utvalget har kommet til at det ikke er grunn til å foreslå endringer som pålegger påtalemyndigheten å endre dagens praksis om hvem i påtalemyndigheten som behandler gjenåpningssaken.
+
+Den nåværende ordningen er begrunnet med at tjenestepersonene som behandlet den opprinnelige straffesaken, kjenner saken best. Gjennom sitt kjennskap til saken og den opprinnelige domstolsbehandlingen vil disse kunne sitte på opplysninger som kan være av stor interesse i gjenåpningssaken. Dette gjelder også sakens rettslige og prosessuelle sider. Vedkommende tjenesteperson vil dermed ha gode forutsetninger for å bedømme om vilkårene for gjenåpning er oppfylt, noe som vil kunne bidra til å sikre et materielt riktig resultat. Et annet argument er ressurshensyn. Det innebærer en klar effektivitetsgevinst at de samme tjenestepersonene som behandlet straffesaken, også behandler domfeltes begjæring om gjenåpning. De nevnte fordelene vil – slik utvalget ser det – ikke oppveies fullt ut av at vedkommende tjenesteperson høres som vitne.[^890]
+
+Et spørsmål er om hensynet til tillit til påtalemyndighetens behandling likevel tilsier at gjenåpningssaken alltid bør behandles av et annet statsadvokatembete eller politidistrikt enn det som behandlet den opprinnelige straffesaken. Dersom påtalemyndigheten motsatte seg gjenåpning, er spørsmålet om det samme bør gjelde ved den nye behandlingen av saken etter at gjenåpning er besluttet. Et ytterligere spørsmål er om det bør gjelde et forbud mot at tjenestepersonene som deltok ved den opprinnelige domstolsbehandlingen, kan delta ved behandlingen av gjenåpningssaken.[^891]
+
+Professor Morten Holmboe har nylig tatt til orde for at de nevnte spørsmålene bør besvares bekreftende. Holmboe peker blant annet på argumentene som førte til at man ved innføringen av dagens straffeprosesslov endret reglene for domstolenes behandling av gjenåpningssaker. Det ble da innført en regel om at dommerne som hadde avsagt den angrepne dommen, ikke kunne delta hverken ved behandlingen av gjenåpningsbegjæringen eller ved den nye behandlingen av saken etter gjenåpning. Ved opprettelsen av Gjenopptakelseskommisjonen innførte man videre en regel om at gjenåpnede saker skal behandles av en domstol sideordnet til den som avsa den angrepne dommen. Begrunnelsen var i begge tilfeller at man ønsket å øke tilliten til at gjenåpningssakene behandles på en objektiv måte. Ifølge Holmboe bør de samme hensynene ha stor vekt også ved vurderingen av hvilke regler som skal gjelde for påtalemyndigheten i saker om gjenåpning.[^892] Eventuelle fordeler ved at tjenestepersonen kjenner saken, vil ifølge ham «antakelig mer enn oppveies ved at det er vanskelig for et menneske å omvurdere en beslutning man har som kan ha påført en mulig uskyld mistenkt straff – og i verste fall mange år i fengsel». Han mener også at det kan være vanskelig å se med et friskt blikk på vurderinger av bevisene som eldre og respekterte kolleger har vurdert som tilstrekkelige for tiltale og domfellelse. Saken bør derfor flyttes til et annet statsadvokatembete eller politidistrikt.[^893]
+
+Ifølge Holmboe taler også den betydelige rettsutviklingen som har skjedd i retning av å stille skjerpede krav til habilitet, samt økt oppmerksomhet omkring behovet for å understreke påtalemyndighetens objektivitetsplikt, for å legge om det nåværende systemet. Holmboe mener at tjenestepersonene som deltok ved den opprinnelige behandlingen, ikke bør delta i saksbehandlingen, selv om de eventuelt skulle ha skiftet arbeidssted. Ettersom personene kan ha opplysninger av interesse for saken, bør de imidlertid kunne høres som vitner.
+
+Utvalget har vurdert problemstillingene, men har kommet til at det vil føre for langt å oppstille slike absolutte regler. En vesentlig innvending er at reglene nødvendigvis vil måtte innebære at påtaleansvaret overføres i en god del tilfeller hvor det ikke er behov for det. Dette vil medføre unødvendig bruk av tid og ressurser. Påtalemyndighetens objektivitetsplikt gjelder også etter at dommen er rettskraftig, jf. straffeprosessloven § 55 andre ledd. Utgangspunktet er at det må kunne forventes at påtalemyndighetens tjenestepersoner evner å være objektive også i en slik sammenheng.
+
+Utvalget mener at risikoen for forutinntatthet og manglende objektivitet ikke er av en slik karakter at det kan forsvares å gi absolutte regler som omfatter alle gjenåpningsaker, og som ikke åpner for å ta hensyn til særtrekkene ved den enkelte sak. Etter utvalgets vurdering er det en atskillig bedre løsning at spørsmålet om eventuell flytting avgjøres etter en konkret vurdering i den enkelte sak, slik som i dag. Det er på det rene at det iblant vil kunne være forhold som gjør det krevende å etterleve objektivitetskravet i praksis.[^894] Det kan også ha oppstått et inntrykk i allmennheten om at påtalemyndigheten er påvirket av prestisjehensyn. Etter omstendighetene kan dette tilsi at saken flyttes til en annen tjenesteperson eller til et annet embete eller distrikt. For å sikre at overføring skjer i de «riktige» sakene, mener utvalget at riksadvokaten bør vurdere å gi nærmere føringer. Utvalget kommer tilbake til dette under.
+
+Slik utvalget vurderer det, har endringene i reglene for dommere begrenset overføringsverdi til den foreliggende problemstillingen. Selv om påtalemyndigheten initierer straffeforfølgningen, er det til syvende og sist domstolene som avgjør spørsmålet om straffeskyld. Tillitshensynet er dermed mer tungtveiende for domstolene enn for påtalemyndigheten, som er underlagt en streng objektivitetsplikt. Gjennom sitt kjennskap til etterforskningen og saksdokumentene vil tjenestepersonen i påtalemyndigheten dessuten ofte ha bedre kunnskap om den opprinnelige straffesaken enn dommerne i den rett som behandlet saken. Det kan derfor hevdes at de praktiske ulempene med å endre praksis i samme retning for påtalemyndigheten vil være større.
+
+En fordel med en absolutt regel om overføring til et annet embete eller distrikt er at man oppnår rettstekniske fordeler ved at påtalemyndigheten slipper å vurdere spørsmålet i den enkelte sak. Som Holmboe er inne på, er omleggingen imidlertid ikke fri for komplikasjoner.[^895] Hensynene bak den absolutte regelen – å ivareta tilliten til saksbehandlingen og redusere forutinntatthet – tilsier at saken må flyttes til et nytt embete eller distrikt hver gang domfelte begjærer gjenåpning i samme sak.[^896] At domfelte fremmer gjentatte begjæringer, er ikke uvanlig, og det er ikke utenkelig at regelen vil innebære et ytterligere insentiv i så måte.[^897] Dersom saken alltid må overføres når domfelte fremmer en ny gjenåpningsbegjæring, vil man kunne komme i den situasjon at det ikke er flere statsadvokatembeter å ta av.[^898]
+
+En slik ordning er neppe prosessøkonomisk forsvarlig. Et system som legger opp til at landets statsadvokatembeter etter tur behandler det samme gjenåpningsspørsmålet, uavhengig av sakens karakter og alvor og andre forhold, vil medføre lite fornuftig bruk av tid og ressurser. Det er ikke nødvendigvis de viktigste og mest alvorlige sakene som blir gjenstand for repetitive gjenåpningsbegjæringer. Et alternativ er å utarbeide mer finmaskede regler, som skiller mellom lovbruddets strafferamme og muligens også det påberopte gjenåpningsgrunnlaget. Det er imidlertid krevende å identifisere treffende kriterier som ikke samtidig forutsetter skjønnsmessige vurderinger. Også slike regler vil dessuten innebære unødvendig ressursbruk ved at saker må overføres i tilfeller hvor det reelt sett ikke er grunn til det, kanskje mange ganger. Et synspunkt om at det er rettssikkerhetsmessig forsvarlig at samme statsadvokatembete behandler visse kategorier av gjenåpningssaker, men ikke andre, er dessuten problematisk fra et prinsipielt ståsted.
+
+Som nevnt i punkt 19.2.1 bør riksadvokaten vurdere å oppdatere retningslinjene for påtalemyndighetens rolle i gjenåpningssaker. Det gjeldende rundskrivet er fra 2004. I den forbindelse vil det være naturlig å også gi føringer for når ansvaret for gjenåpningssaker bør overføres. I det følgende pekes det på momenter som synes relevante i den forbindelse.
+
+Det overordnede spørsmålet bør være om det er trekk ved saken som tilsier at den bør vurderes med «friske øyne». I den forbindelse må det vurderes om det er forhold ved saken som gjør at tilliten til påtalemyndighetens objektivitet kan komme i spill. Ved vurderingen bør det blant annet ses hen til sakens karakter og alvor, om det har blitt rettet kritikk mot påtalemyndighetens opptreden, konfliktnivået mellom aktørene og om saken har fått mye medieoppmerksomhet. Det påberopte gjenåpningsgrunnlaget i domfeltes begjæring er også relevant. Det taler generelt mot flytting dersom begjæringen utelukkende er begrunnet med at det er begått rettsanvendelses- eller saksbehandlingsfeil. Et støttemoment er om embetet eller distriktet som gjenåpningssaken i utgangspunktet hører under, har tilstrekkelige ressurser til å behandle saken på en grundig og forsvarlig måte.[^899]
+
+Hvilket stadium gjenåpningssaken er på, har også betydning. Dersom påtalemyndigheten har motsatt seg gjenåpning, men kommisjonen til tross for dette gjenåpner saken, vil det isolert sett trekke i retning av at ansvaret for den videre behandlingen flyttes. Utvalget antar at overføring heller ikke i denne situasjonen bør være en absolutt regel, men spørsmålet må i slike tilfeller vurderes ekstra grundig.
+
+Det bør vurderes konkret om de nevnte momentene tilsier at påtalemyndigheten i gjenåpningssaker bør representeres av et annet statsadvokatembete eller politidistrikt enn i den opprinnelige straffesaken, eller om det er tilstrekkelig at en annen *tjenesteperson* ved samme embete eller distrikt behandler saken. Utvalget antar at valget bør bero på en vurdering av hva som er formålstjenlig i den enkelte sak. I noen tilfeller vil det å overlate saken til en annen tjenesteperson være nok for å oppnå den nødvendige distanse. Størrelsen på statsadvokatembetet eller politidistriktet vil her kunne ha betydning.
+
+Etter utvalgets syn har embetsleder og politimesteren et særlig ansvar for å sikre at saken flyttes når det er grunn til det. Den aktuelle tjenestepersonens egen vurdering av om det finnes forhold som kan utfordre tillitshensynet og objektivitetskravet, bør vektlegges, men ikke nødvendigvis være avgjørende. Dersom personen selv er i tvil om han eller hun er i stand til å handle objektivt, eller gir uttrykk for at det beste vil være om en annen tjenesteperson behandler saken, bør det imidlertid veie tungt i retning av at det gjøres unntak fra hovedregelen.
+
+Er det trekk ved saken som tilsier at saken bør overføres til et annet embete eller distrikt, bør spørsmålet som regel løftes til overordnet påtalemyndighet sammen med en kort redegjørelse for saken, jf. straffeprosessloven § 59 første ledd. Utvalget mener at dette også bør gjøres i tilfeller hvor embetslederen eller politimesteren finner spørsmålet tvilsomt. Dersom statsadvokatembetet eller politidistriktet tilråder at saken flyttes, bør det tillegges betydelig vekt. Fremstår det etter en foreløpig vurdering som klart at det ikke er grunn til å overføre saken, er det imidlertid normalt ikke grunn til å involvere overordnet påtalemyndighet.
+
+## Forsvarerens rolle
+
+### Behovet for forsvarer i gjenåpningssaken
+
+Det følger av straffeprosessloven § 397 andre ledd første punktum at kommisjonen kan oppnevne offentlig forsvarer for siktede når «særlige grunner» tilsier det. I forarbeidene ble det uttalt at det normalt ikke ville være nødvendig med forsvarer for å dekke siktedes behov for rettshjelp i gjenåpningssaker. Grunnen var at Gjenopptakelseskommisjonen, og ikke partene, skulle ha hovedansvaret for opplysning av sakens faktiske og rettslige sider.[^900]
+
+Som vist i punkt 19.2.1 mener utvalget at det ikke er helt dekkende å beskrive det slik at partene har en «tilbaketrukket» rolle i behandlingen av gjenåpningssaker. Gjenåpningsprosessen er i stor grad partsorientert, og domfelte og påtalemyndigheten er gitt omfattende rettigheter ved behandlingen av saken til innsyn og kontradiksjon mv. Samtidig har kommisjonen en sterk rettslig plikt til å sørge for at saken blir så godt opplyst som mulig, jf. straffeprosessloven § 398 første ledd første punktum.
+
+For at kommisjonen skal ha mulighet til å undersøke saken, er den avhengig av at domfelte utviser en viss aktivitet. Loven krever at gjenåpningsbegjæringen opplyser om hvilken avgjørelse som angripes, grunnlaget for gjenåpning og bevis av betydning for saken, jf. straffeprosessloven § 394 første ledd andre punktum. Kommisjonen kan ikke gjenåpne saken på eget initiativ.[^901] Kommisjonen er derfor avhengig av at domfelte kan gi informasjon om hvorfor saken bør gjenåpnes. Jo bedre denne presentasjonen er, desto større er muligheten for at kommisjonen vil komme til et materielt riktig resultat.[^902]
+
+Utvalget har sett nærmere på omfanget av forsvareroppnevninger hos kommisjonen. Kommisjonens praksis ved forsvareroppnevning kan synes å ha blitt liberalisert de siste årene. Fra 2019 til 2023 har antallet forsvareroppnevninger økt gradvis, fra 25 i 2019 til 77 i 2023. Økningen må ses i lys av at kommisjonen også har mottatt flere saker enn tidligere. Målt opp mot antall mottatte saker har imidlertid også andelen forsvareroppnevninger økt, fra 16 % i 2019 til 30 % i 2023. Det er videre grunn til å tro at andelen saker det er oppnevnt forsvarer i, i realiteten er høyere enn den prosentvise andelen skissert her.[^903] Utgifter til offentlig oppnevnt forsvarer var i 2021 på 1 842 990 kroner, i 2022 på 844 081 kroner, og i 2023 på 1 676 304 kroner.
+
+Utvalget mener på bakgrunn av dette at forsvarere har en forholdsvis sentral rolle i behandlingen av gjenåpningssaker. Forarbeidenes uttalelser om at det normalt ikke vil være nødvendig med forsvarer for å dekke siktedes behov for rettshjelp i gjenåpningsprosessen, er etter utvalgets syn lite treffende. I det følgende ser utvalget nærmere på hvilke hensyn som taler for at forsvarer oppnevnes i gjenåpningssaken.
+
+### Når bør forsvarer oppnevnes?
+
+Retten til å få offentlig oppnevnt forsvarer i straffesaker følger av straffeprosessloven § 100. Det følger av paragrafens andre ledd at retten – også utenfor tilfellene hvor siktede har rett på forsvarer – kan oppnevne forsvarer hvis «særlige grunner» taler for det. Etter § 397 andre ledd første punktum kan kommisjonen på samme vilkår oppnevne forsvarer for siktede eller domfelte i gjenåpningssaker. Bestemmelsen i § 397 andre ledd er basert på bestemmelsen i § 100, som tidligere gjaldt også for gjenåpningssakene da gjenåpning foregikk i domstolene.[^904]
+
+Adgangen til å få oppnevnt forsvarer i medhold av straffeprosessloven § 100 andre ledd har blitt noe utvidet i praksis de siste årene.[^905] At praksis har blitt noe liberalisert, skyldes at mistenktes rettsstilling er viet mye oppmerksomhet i senere år, både nasjonalt og internasjonalt.[^906] De samme hensynene kan tilsi at praksis for forsvareroppnevning også bør liberaliseres noe i gjenåpningssaker.
+
+Utvalget mener videre at effektivitetshensyn med styrke taler for at domfelte bistås av forsvarer under gjenåpningsprosessen. Som i straffesaken vil en forsvarer kunne gi klare rettsråd om vilkårene for gjenåpning. Forsvareren vil også kunne medvirke til et presist og spisset fokus fra domfeltes side når det gjelder gjennomføringen av gjenåpningsprosessen og hvilke anførsler som fremmes, og slik sikre at saken ikke vidløftiggjøres. Oppnevning av forsvarer kan dermed bidra til å redusere saksbehandlingstiden. Utvalget forstår det slik at kommisjonen til dels også oppnevner forsvarer ut fra slike betraktninger i dag.
+
+Utvalget mener at adgangen til å få oppnevnt offentlig forsvarer fortsatt bør reguleres som i dagens § 397 andre ledd. De relevante momentene i helhetsvurderingen av om det foreligger «særlige grunner», vil i stor grad være de samme som etter straffeprosessloven § 100 andre ledd. I vurderingen må det blant annet ses hen til sakens alvor, sakens betydning for domfelte, om faktum og lovanvendelsen er uklar(t) eller komplisert, domfeltes alder og helse, samt manglende språk- eller samfunnskunnskaper hos utlendinger.[^907]
+
+Sakens alvor bør etter utvalgets syn være et sentralt moment. Utvalget mener at domfelte som den klare hovedregel bør få offentlig oppnevnt forsvarer under gjenåpningsprosessen hvis vedkommende er dømt til en ubetinget fengselsstraff på mer enn ett år. I disse tilfellene tilsier sakens alvor med styrke at det foreligger «særlige grunner».[^908] I saker hvor det er idømt lengre fengselsstraffer, for eksempel i saker om voldtekt, er det etter utvalgets syn vanskelig å se for seg at domfelte ikke skal få oppnevnt forsvarer. Utvalget presiserer at saken kan stille seg annerledes i tilfeller hvor domfelte fremsetter gjentatte begjæringer for kommisjonen, eller det er åpenbart at begjæringen ikke kan føre frem. For øvrig mener utvalget at det generelt bør ha betydning om domfelte er dømt til fengselsstraff, og om vedkommende fortsatt soner.
+
+I saker som gjelder tilregnelighet, bør det gjennomgående oppnevnes forsvarer. Dette er også praksis i dag. I tilfeller hvor kommisjonen oppnevner bistandsadvokat for fornærmede, bør det også oppnevnes forsvarer for domfelte.[^909]
+
+Etter utvalgets syn bør kommisjonen oppnevne forsvarer i tilfeller hvor de nevnte hensynene taler for det, også dersom domfelte bistås av ikke-juridiske «medhjelpere».
+
+Baneheia-saken er et eksempel på en sak hvor domfeltes medhjelpere (medlemmene av Viggo Kristiansens «støttegruppe») la ned et omfattende arbeid, som etter utvalgets syn bør anerkjennes og respekteres. Utvalget forstår det slik at bistand fra medhjelpere uten juridisk kompetanse forekommer relativt hyppig også i andre saker. En stor andel av disse gjør arbeidet av idealistiske årsaker, uten å ta seg betalt. Noen krever imidlertid betalt og/eller mottar betaling for arbeidet som legges ned.
+
+Utvalget bemerker at det normalt vil kreves juridisk kompetanse for å gi domfelte tilstrekkelig bistand i gjenåpningssaken. Reglene om gjenåpning av straffesaker er omfattende og til dels kompliserte. Det gjelder både de materielle og prosessuelle reglene. Bistand fra personer uten juridisk kompetanse kan ikke erstatte bistand fra en forsvarer.
+
+Utvalget mener for øvrig at kommisjonen bør ha mulighet til å pålegge domfelte å la seg bistå av forsvarer i gjenåpningssaken. Dette gjøres også i dag, særlig i tilregnelighetssaker. Av pedagogiske hensyn foreslås det at denne adgangen lovfestes i et nytt tredje punktum i straffeprosessloven § 397 andre ledd. Det vises til den nærmere redegjørelsen for bestemmelsen i spesialmerknadene i punkt 26.1.2.
+
+### Prosedyren for forsvareroppnevning
+
+Det fremgår av straffeprosessloven § 397 andre ledd andre punktum at reglene i §§ 101–107 gjelder tilsvarende når det oppnevnes offentlig forsvarer for kommisjonen. I tilfellene hvor siktede ikke selv har valgt forsvarer, følger det av § 103 at en av de faste forsvarerne skal oppnevnes. Faste forsvarere oppnevnes av domstolene etter søknad fra forsvarerne.
+
+Utvalget mener at kommisjonen bør vurdere å etablere en gruppe med faste forsvarere for gjenåpningssaker. Dette kan sikre at forsvarerne som oppnevnes i gjenåpningssakene, har erfaring fra slike saker. At forsvareren har erfaring med gjenåpningssaker, kan bidra til å effektivisere gjenåpningsprosessen og gi domfelte et bedre forsvar.
+
+Utvalget har fått opplyst at kommisjonen gjennomgående ikke tar stilling til spørsmålet om oppnevning av forsvarer før den saksansvarlige juristen har hatt mulighet til å vurdere saken nærmere. Etter omstendighetene kan dette ta lang tid. Kommisjonen opplyser for tiden om at det normalt tar mer enn et år fra saken kommer inn til kommisjonen, til den tas under «aktiv håndtering» av saksbehandleren.
+
+Etter utvalgets syn er det uheldig at spørsmålet om forsvareroppnevning ikke vurderes på et tidligere stadium. Det fører blant annet til at forsvarere som har bistått med å utarbeide gjenåpningsbegjæringen, ikke får betalt før etter lang tid. Utvalget mener at praksisen bør endres. Kommisjonen bør – på samme måte som i domstolene – gjøre vurderingen av om det skal oppnevnes forsvarer, uten ugrunnet opphold når saken kommer inn. Med andre ord bør spørsmålet om forsvareroppnevning vurderes kort tid etter at begjæringen kommer inn til kommisjonen, selv om saken først senere blir utredet nærmere. Utvalget antar at dette normalt vil la seg gjøre. Muligheten for å legge om kommisjonens praksis på denne måten har også blitt tatt opp av ansatte i kommisjonen.
+
+Utvalget forstår det slik at kommisjonen ikke regelmessig gjør foreløpige avregninger av salærkrav, jf. salærforskriften § 6 tredje ledd første punktum. Det gjelder selv om forsvareren har lagt ned betydelig arbeid ved utarbeidelsen av gjenåpningsbegjæringen, og behandlingen av saken trekker ut grunnet lang behandlingstid.
+
+Salærforskriften synes å åpne for at kommisjonen i slike tilfeller kan avregne salærkravet etappevis. Den nevnte bestemmelsen lyder slik: «Dersom en sak er spesielt langvarig og tidkrevende, kan det utbetales et forskudd tilsvarende det salær som hittil er opptjent i saken». Formålet med bestemmelsen er nettopp å forhindre at den som har utført arbeidet, får likviditetsproblemer i saker som tar lang tid. En forutsetning for utbetaling av det fulle kravet er imidlertid at forsvareren ikke har «benyttet lengre tid enn hva som er rimelig og nødvendig», jf. forskriften § 7.
+
+## Bistandsadvokatens rolle
+
+Straffeprosessloven § 397 andre ledd tredje og fjerde punktum regulerer oppnevning av bistandsadvokat for Gjenopptakelseskommisjonen. Bestemmelsene lyder slik:
+
+«Kommisjonen kan oppnevne bistandsadvokat etter reglene i § 107 a. Reglene i §§ 107 b–107 g gjelder så langt de passer.»
+
+Ordet «kan» innebærer at det er opp til kommisjonens skjønn om bistandsadvokat skal oppnevnes i det enkelte tilfellet dersom vilkårene i § 107 a er oppfylt. Dette er også forutsatt i forarbeidene.[^910] Flere momenter som er relevante ved vurderingen av forsvareroppnevning etter § 100 andre ledd, vil ha overføringsverdi til vurderingen av om bistandsadvokat skal oppnevnes, som for eksempel hvor alvorlig saken er, og hvilken betydning den har for fornærmede. Et moment i vurderingen vil videre være om fornærmede hadde bistandsadvokat under straffesaken. Dette er imidlertid ikke avgjørende i seg selv. Det avgjørende er om fornærmede «har behov for bistandsadvokat i forbindelse med kommisjonens behandling av en begjæring om gjenåpning».[^911]
+
+Fornærmedeutvalget uttalte at bistandsadvokat bør oppnevnes når gjenåpningsbegjæringen retter seg mot troverdigheten av fornærmedes forklaring i den angrepne saken, eller dersom fornærmede innkalles til muntlig avhør for kommisjonen.[^912] Straffeprosessutvalget uttalte i samme retning at det nok oftere vil være behov for oppnevning av bistandsadvokat for fornærmede enn for etterlatte, «og da først og fremst i saker der fornærmedes forklaring står sentralt for spørsmålet om gjenåpning».[^913] Straffeprosessutvalget pekte videre på at det kan være behov for å oppnevne bistandsadvokat i saker hvor gjenåpningsbegjæringen knytter seg til bevisbedømmelsen, og domfelte er død. I slike saker skal det avsies dom uten hovedforhandling dersom saken gjenåpnes,[^914] og kommisjonen får dermed i praksis «det siste ord med hensyn til sakens utfall».[^915]
+
+Ved vurderingen av om bistandsadvokat skal oppnevnes, er det etter utvalgets syn sentralt å se hen til hvilken rolle bistandsadvokaten skal ha i gjenåpningsprosessen. Den kanskje mest sentrale oppgaven for bistandsadvokaten under hovedforhandlingen er å fremme et eventuelt sivilt krav på vegne av fornærmede eller etterlatte, jf. straffeprosessloven § 428. Det er gjennom et eventuelt slikt krav fremmet av fornærmede selv at fornærmede oppnår status som «part», og partsstatusen relaterer seg kun til behandlingen av det sivile kravet, jf. § 428 andre ledd.[^916] Sivile krav pådømt i forbindelse med straffesaken vurderes derimot ikke av Gjenopptakelseskommisjonen. En eventuell endring av det sivile kravet må eventuelt vurderes av domstolene i forbindelse med den nye behandlingen av straffesaken etter gjenåpning.[^917] Dette tilsier at det i mindre grad er behov for oppnevning av bistandsadvokat under gjenåpningsprosessen. I forarbeidene er det også påpekt at det i vurderingen må tas i betraktning at «kommisjonen ikkje tar stilling til spørsmål om skadebot, slik domstolane gjer i mange straffesaker».[^918]
+
+Bistandsadvokaten skal imidlertid også ivareta andre funksjoner i straffesaker. Straffeprosessloven § 107 c første ledd sier om bistandsadvokatens rolle ved etterforskningen og pådømmelsen av straffesaken:
+
+«Bistandsadvokaten skal vareta fornærmedes og etterlattes interesser i forbindelse med etterforsking og hovedforhandling i saken. Bistandsadvokaten skal også gi slik annen hjelp og støtte som er naturlig og rimelig i forbindelse med saken.»
+
+I praksis innebærer dette at bistandsadvokaten skal varsles om, og har rett til å være til stede i rettsmøter i den utstrekning retten finner det nødvendig. Det samme gjelder ved andre etterforskingsskritt som åstedsbefaringer, rekonstruksjoner og lignende, når fornærmede eller etterlatte selv skal delta. Bistandsadvokaten skal også varsles om, og har rett til å være til stede ved politiets avhør av fornærmede under etterforskningen. Bistandsadvokaten kan videre anmode om at det foretas ytterligere etterforskningsskritt.
+
+Fornærmedes og etterlattes «interesser», jf. § 107 c første punktum, må forstås slik at de i stor grad relaterer seg til eventuelle sivile krav. Fornærmede kan imidlertid også ha en selvstendig interesse i å få saken tilstrekkelig opplyst, herunder gjennom egen vitneforklaring, og å holdes informert om sakens utvikling. Bistandsadvokaten kan bistå i den forbindelse. På den annen side skal bistandsadvokaten ikke ivareta fornærmedes eller etterlattes eventuelle interesse i at siktede blir domfelt. Bistandsadvokaten kan bidra til å få saken opplyst, men har ikke – i motsetning til aktor – som oppgave å forsøke å få den tiltalte dømt i tråd med tiltalen. Det samme må gjelde i relasjon til gjenåpning. Det bør ikke være bistandsadvokatens rolle å arbeide aktivt for å forhindre at saken blir gjenåpnet.
+
+Ved vurderingen av om bistandsadvokat skal oppnevnes, må det videre tas i betraktning at fornærmedes interesse i utfallet av gjenåpningssaken er av mer avledet karakter enn ved behandlingen av den opprinnelige straffesaken. Kommisjonens eventuelle gjenåpningsavgjørelse medfører kun at saken *behandles* på nytt, og det er opp til domstolene å avgjøre om domfelte skal frifinnes eller dømmes igjen.[^919] Ved den nye domstolsbehandlingen vil fornærmede og eventuelt etterlatte igjen kunne gjøre krav på rettighetene som vedkommende er gitt etter straffeprosesslovens øvrige regler, og det kan bli aktuelt å oppnevne bistandsadvokat dersom vilkårene for det er oppfylt.
+
+Etter § 107 c første ledd andre punktum skal bistandsadvokaten også gi «slik annen hjelp og støtte som er naturlig og rimelig». Hvordan denne oppgaven skal utføres, må langt på vei overlates til bistandsadvokaten i lys av de konkrete forholdene i den aktuelle saken. Bistandsadvokaten skal imidlertid ikke påta seg en ren «psykologfunksjon», løsrevet fra den faglige rollen som rettslig veileder. Samtidig vil det likevel – gitt sakens karakter – kunne være naturlig at det gis en form for psykisk støtte gjennom samtaler med fornærmede og etterlatte.[^920] Anne Robberstad skriver om dette:
+
+«Det er viktig at advokatene bruker sine egne særlige forutsetninger og at de ikke prøver å gjøre noe de slett ikke kan, som å behandle. Særlig viktig er dette i en ordning hvis fundament tilsynelatende inviterer til å gå ut over den faglige rollen (med annen hjelp og støtte). Både av hensyn til klienten og av hensyn til seg selv bør advokaten holde seg innenfor den vanlige advokatrollen, slik denne er forstått og praktisert innenfor profesjonens egen tradisjon. Hvis advokaten i sin virksomhet går utenfor den rollen hun behersker, vil det kunne minne om kvakksalveri. Særlig farlig er dette på et område hvor klientene er i en så utsatt posisjon som en som har vært utsatt for en av de straffbare handlingene som strpl § 107 a omhandler.»[^921]
 
 Utvalget er enig i disse betraktningene.
-Utvalget har innhentet opplysninger om hvordan kommisjonen vurderer eventuell bistandsadvokatoppnevning, og hvor ofte bistandsadvokat
-oppnevnes. Kommisjonen har gitt uttrykk for at
-det nok har vært noe delte oppfatninger om hvordan loven skal forstås på dette punktet. Noen utredere har forstått loven slik at det skal oppnevnes
-bistandsadvokat i alle tilfeller hvor fornærmede
-hadde krav på dette under behandlingen av straffesaken, mens andre har vurdert spørsmålet mer
-skjønnsmessig. Som nevnt over mener utvalget at
-sistnevnte forståelse er i tråd med forarbeidene og
-lovens system.
-I punkt 15.7 er det gjort rede for hvor ofte
-kommisjonen har oppnevnt bistandsadvokat for
-de enkelte årene i perioden 2015–2023. Antallet
-saker med oppnevnt bistandsadvokat tyder på at
-kommisjonen for det meste synes å ha hatt en forholdsvis restriktiv tilnærming til spørsmålet, og at
-bistandsadvokat først og fremst har blitt oppnevnt
-ved klare behov. Antall saker med oppnevnt
-bistandsadvokat er gjennomgående betydelig
-lavere enn antallet saker med oppnevnt forsvarer.
-Også utgiftene til bistandsadvokatene synes å
-være forholdsvis moderate. Utgiftene til oppnevning av bistandsadvokat var i 2021 på 318 799 kroner, i 2022 på 23 204 kroner, og i 2023 på 225 608
-kroner. Disse utgiftene er langt lavere enn utgiftene som følge av forsvareroppnevninger i samme
-periode, se punkt 19.3.1.
-I lys av utvalgets syn på bistandsadvokatens
-rolle i gjenåpningssaker mener utvalget at kommisjonens gjeldende praksis for oppnevning av
-bistandsadvokater fremstår som hensiktsmessig.
 
-19.5 Gjenopptakelseskommisjonens
-rolle
-Et av hovedformålene med opprettelsen av Gjenopptakelseskommisjonen var å sørge for at gjenåpningsinstansen fikk en omfattende utredningsplikt. Departementet mente at det i større grad
-burde være samfunnets, og ikke domfeltes,
-ansvar å sørge for at justismord avdekkes.73
-Gjenopptakelseskommisjonen ble derfor etablert som et domstollignende organ utenfor det
-ordinære domstolsapparat, med en særskilt utredningsplikt og egne utredere som skulle sørge for
-både faktisk og rettslig opplysning av saken. Det
-ble uttalt at utredningsplikten «favner atskillig
-videre enn den plikten som påhviler domstolene
-73
+Utvalget har innhentet opplysninger om hvordan kommisjonen vurderer eventuell bistandsadvokatoppnevning, og hvor ofte bistandsadvokat oppnevnes. Kommisjonen har gitt uttrykk for at det nok har vært noe delte oppfatninger om hvordan loven skal forstås på dette punktet. Noen utredere har forstått loven slik at det skal oppnevnes bistandsadvokat i alle tilfeller hvor fornærmede hadde krav på dette under behandlingen av straffesaken, mens andre har vurdert spørsmålet mer skjønnsmessig. Som nevnt over mener utvalget at sistnevnte forståelse er i tråd med forarbeidene og lovens system.
 
-Ot.prp. nr. 70 (2000–2001) s. 40.
+I punkt 15.7 er det gjort rede for hvor ofte kommisjonen har oppnevnt bistandsadvokat for de enkelte årene i perioden 2015–2023. Antallet saker med oppnevnt bistandsadvokat tyder på at kommisjonen for det meste synes å ha hatt en forholdsvis restriktiv tilnærming til spørsmålet, og at bistandsadvokat først og fremst har blitt oppnevnt ved klare behov. Antall saker med oppnevnt bistandsadvokat er gjennomgående betydelig lavere enn antallet saker med oppnevnt forsvarer. Også utgiftene til bistandsadvokatene synes å være forholdsvis moderate. Utgiftene til oppnevning av bistandsadvokat var i 2021 på 318 799 kroner, i 2022 på 23 204 kroner, og i 2023 på 225 608 kroner. Disse utgiftene er langt lavere enn utgiftene som følge av forsvareroppnevninger i samme periode, se punkt 19.3.1.
 
-[Side 181]
+I lys av utvalgets syn på bistandsadvokatens rolle i gjenåpningssaker mener utvalget at kommisjonens gjeldende praksis for oppnevning av bistandsadvokater fremstår som hensiktsmessig.
 
-NOU 2024: 24
-Prøvd på nytt
+## Gjenopptakelseskommisjonens rolle
 
-etter § 294».74 Den mest vesentlige forskjellen
-mellom kommisjonens og domstolenes utredningsplikt er ifølge forarbeidene at «kommisjonen
-skal ta initiativ og gå aktivt til verks for å belyse
-sakens faktiske og rettslige sider».75 Samtidig
-skulle partene – og særlig påtalemyndigheten –
-ha en mer «tilbaketrukket rolle» enn etter det
-domstolbaserte gjenåpningssystemet,76 se punkt
-19.2.1.
-Etter utvalgets syn er det mye som tyder på at
-forarbeidenes intensjon om tilbaketrukkede parter og en kommisjon som aktivt leder utredningen
-og styrer prosessen i gjenåpningssakene, ikke er
-helt dekkende for hvordan behandlingen av gjenåpningssakene normalt foregår. Partenes roller i
-gjenåpningssakene kan i korte trekk oppsummeres slik:
-Gjenåpningssaken igangsettes normalt ved at
-domfelte fremsetter begjæring om gjenåpning.
-Her angis avgjørelsen som angripes, grunnlaget
-for gjenåpning og bevis av betydning for saken, jf.
-straffeprosessloven § 394 første ledd. Hvis domfelte ikke er representert ved advokat, gjennomfører kommisjonen normalt en samtale med domfelte. Det gjøres som utgangspunkt ikke hvis domfelte er bistått av advokat.77
-Normalt forkastes rundt halvparten av begjæringene av leder eller nestleder alene, uten at
-saken underlegges nærmere behandling eller
-oversendes påtalemyndigheten og fornærmede/
-etterlatte for uttalelse.78 Hvis saken ikke forkastes, utredes saken nærmere av kommisjonen.
-Påtalemyndigheten – og eventuelt siktede dersom
-det er snakk om gjenåpning til skade – forelegges
-da begjæringen for uttalelse, jf. Straffeprosessloven § 397 fjerde ledd første punktum. Det samme
-gjelder for eventuelle fornærmede eller etterlatte,
-jf. § 397 femte ledd første punktum
-Som ledd i utredningen skal domfelte og påtalemyndigheten gis mulighet til å uttale seg om
-kommisjonens gjennomføring av utredningsskritt,
-oppnevning av sakkyndige mv. Det følger av ulovfestede regler om kontradiksjon og forsvarlig
-saksbehandling og fremgår til dels uttrykkelig av
-straffeprosessloven § 398 tredje ledd første punktum:
+Et av hovedformålene med opprettelsen av Gjenopptakelseskommisjonen var å sørge for at gjenåpningsinstansen fikk en omfattende utredningsplikt. Departementet mente at det i større grad burde være samfunnets, og ikke domfeltes, ansvar å sørge for at justismord avdekkes.[^922]
 
-74
+Gjenopptakelseskommisjonen ble derfor etablert som et domstollignende organ utenfor det ordinære domstolsapparat, med en særskilt utredningsplikt og egne utredere som skulle sørge for både faktisk og rettslig opplysning av saken. Det ble uttalt at utredningsplikten «favner atskillig videre enn den plikten som påhviler domstolene etter § 294».[^923] Den mest vesentlige forskjellen mellom kommisjonens og domstolenes utredningsplikt er ifølge forarbeidene at «kommisjonen skal ta initiativ og gå aktivt til verks for å belyse sakens faktiske og rettslige sider».[^924] Samtidig skulle partene – og særlig påtalemyndigheten – ha en mer «tilbaketrukket rolle» enn etter det domstolbaserte gjenåpningssystemet,[^925] se punkt 19.2.1.
 
-Ot.prp. nr. 70 (2000–2001) s. 75.
-Ot.prp. nr. 70 (2000–2001) s. 75.
-76 Ot.prp. nr. 70 (2000–2001) s. 67.
-77 Dette følger av kommisjonens interne saksbehandlingsrutiner.
-78
-Se punkt 15.6.
-75
+Etter utvalgets syn er det mye som tyder på at forarbeidenes intensjon om tilbaketrukkede parter og en kommisjon som aktivt leder utredningen og styrer prosessen i gjenåpningssakene, ikke er helt dekkende for hvordan behandlingen av gjenåpningssakene normalt foregår. Partenes roller i gjenåpningssakene kan i korte trekk oppsummeres slik:
 
-179
+Gjenåpningssaken igangsettes normalt ved at domfelte fremsetter begjæring om gjenåpning. Her angis avgjørelsen som angripes, grunnlaget for gjenåpning og bevis av betydning for saken, jf. straffeprosessloven § 394 første ledd. Hvis domfelte ikke er representert ved advokat, gjennomfører kommisjonen normalt en samtale med domfelte. Det gjøres som utgangspunkt ikke hvis domfelte er bistått av advokat.[^926]
 
-Kapittel 19
+Normalt forkastes rundt halvparten av begjæringene av leder eller nestleder alene, uten at saken underlegges nærmere behandling eller oversendes påtalemyndigheten og fornærmede/etterlatte for uttalelse.[^927] Hvis saken ikke forkastes, utredes saken nærmere av kommisjonen. Påtalemyndigheten – og eventuelt siktede dersom det er snakk om gjenåpning til skade – forelegges da begjæringen for uttalelse, jf. Straffeprosessloven § 397 fjerde ledd første punktum. Det samme gjelder for eventuelle fornærmede eller etterlatte, jf. § 397 femte ledd første punktum
 
-«Dersom kommisjonen under saksforberedelsen innhenter eller mottar opplysninger av
-betydning for avgjørelsen, skal siktede og påtalemyndigheten gjøres kjent med opplysningene og få uttale seg om dem.»
+Som ledd i utredningen skal domfelte og påtalemyndigheten gis mulighet til å uttale seg om kommisjonens gjennomføring av utredningsskritt, oppnevning av sakkyndige mv. Det følger av ulovfestede regler om kontradiksjon og forsvarlig saksbehandling og fremgår til dels uttrykkelig av straffeprosessloven § 398 tredje ledd første punktum:
 
-I tillegg til at påtalemyndigheten gis anledning til
-å uttale seg om begjæringen og nye opplysninger,
-fremgår det av riksadvokatens rundskriv at påtalemyndigheten i noen tilfeller også gis en ytterligere mulighet til å inngi merknader før saken
-avgjøres av kommisjonen:
-«Dersom påtalemyndigheten ikke avgir uttalelse
-i saken […], eller uttalelsen ikke omfatter de
-spørsmål som Kommisjonen ønsker å få belyst,
-kan Kommisjonen anmode om at påtalemyndigheten på ny vurderer om det skal gis (ytterligere) uttalelse til enkelte spørsmål.»79
-Påtalemyndigheten kan også bidra med konkrete
-etterforskningsskritt etter anmodning fra kommisjonen, jf. § 398 b tredje ledd.
-I lys av det nevnte mener utvalget at partene i
-praksis har en forholdsvis sentral og fremskutt
-rolle i gjenåpningsprosessen. Utvalget mener
-videre at en slik partsorientert prosess i det store
-og hele har vært riktig, særlig ved behandlingen
-av større og mer alvorlige saker. At partene deltar
-i prosessen og utøver partsrettigheter, kan bidra
-til opplysning av saken og sikre et materielt riktig
-resultat. Erfaringen viser etter utvalgets syn at forarbeidenes intensjon om en svært aktiv, styrende
-kommisjon og tilbaketrukkede parter i praksis
-ikke har vært – og kanskje heller ikke er – helt
-gjennomførbar.
-Når partene i praksis har roller som beskrevet
-ovenfor, er det også naturlig at kommisjonens
-rolle forstås på en noe annen måte enn slik den er
-beskrevet i forarbeidene. Dette gjelder også for
-kommisjonens utredningsplikt, som er nedfelt i
-straffeprosessloven § 398 første ledd første punktum. Det fremgår der at kommisjonen «av eget tiltak» skal sørge for at «saken er så godt opplyst
-som mulig før den avgjør om begjæringen skal tas
-til følge». Som nevnt foran følger det av forarbeidene av kommisjonens utredningsplikt er atskillig
-mer vidtrekkende enn plikten som gjelder for
-domstolene etter § 294.80
-79
+«Dersom kommisjonen under saksforberedelsen innhenter eller mottar opplysninger av betydning for avgjørelsen, skal siktede og påtalemyndigheten gjøres kjent med opplysningene og få uttale seg om dem.»
 
-Riksadvokaten (22.12.04) s. 4. Det fremgår av rundskrivet
-at denne prosedyren er ment som en «sikkerhetsventil»
-som bare unntaksvis benyttes for å sikre best mulig opplysning av saken. Påtalemyndigheten skal i slike tilfeller «gjennomgående gi (ytterligere) uttalelse», se samme sted.
-80
-Ot.prp. nr. 70 (2000–2001) s. 75.
+I tillegg til at påtalemyndigheten gis anledning til å uttale seg om begjæringen og nye opplysninger, fremgår det av riksadvokatens rundskriv at påtalemyndigheten i noen tilfeller også gis en ytterligere mulighet til å inngi merknader før saken avgjøres av kommisjonen:
 
-[Side 182]
+«Dersom påtalemyndigheten ikke avgir uttalelse i saken \[…\], eller uttalelsen ikke omfatter de spørsmål som Kommisjonen ønsker å få belyst, kan Kommisjonen anmode om at påtalemyndigheten på ny vurderer om det skal gis (ytterligere) uttalelse til enkelte spørsmål.»[^928]
 
-180
+Påtalemyndigheten kan også bidra med konkrete etterforskningsskritt etter anmodning fra kommisjonen, jf. § 398 b tredje ledd.
 
-Kapittel 19
+I lys av det nevnte mener utvalget at partene i praksis har en forholdsvis sentral og fremskutt rolle i gjenåpningsprosessen. Utvalget mener videre at en slik partsorientert prosess i det store og hele har vært riktig, særlig ved behandlingen av større og mer alvorlige saker. At partene deltar i prosessen og utøver partsrettigheter, kan bidra til opplysning av saken og sikre et materielt riktig resultat. Erfaringen viser etter utvalgets syn at forarbeidenes intensjon om en svært aktiv, styrende kommisjon og tilbaketrukkede parter i praksis ikke har vært – og kanskje heller ikke er – helt gjennomførbar.
 
-NOU 2024: 24
-Prøvd på nytt
+Når partene i praksis har roller som beskrevet ovenfor, er det også naturlig at kommisjonens rolle forstås på en noe annen måte enn slik den er beskrevet i forarbeidene. Dette gjelder også for kommisjonens utredningsplikt, som er nedfelt i straffeprosessloven § 398 første ledd første punktum. Det fremgår der at kommisjonen «av eget tiltak» skal sørge for at «saken er så godt opplyst som mulig før den avgjør om begjæringen skal tas til følge». Som nevnt foran følger det av forarbeidene av kommisjonens utredningsplikt er atskillig mer vidtrekkende enn plikten som gjelder for domstolene etter § 294.[^929]
 
-Når partene i praksis bidrar til opplysningen
-av sakene i stor grad, fører det til at det reelt sett
-blir et mindre faktisk behov for at kommisjonen
-selv initierer og gjennomfører utredningsskritt,
-uten at dette er initiert av partene. Det betyr imidlertid ikke at kommisjonen har en mindre omfattende rettslig plikt til å sørge for at saken blir tilstrekkelig opplyst før den avgjøres.
-Kommisjonens utredningsplikt har slik sett
-likhetstrekk med domstolenes utredningsplikt i
-straffesaker, jf. straffeprosessloven § 294 første
-punktum. Domstolens ansvar for sakens opplysning etter § 294 er i prinsippet vidtgående. Domstolene må sørge for at bevisgrunnlaget er tilstrekkelig før saken tas opp til doms. I alvorlige
-straffesaker må domstolen som hovedregel sørge
-for at potensielt relevante bevis blir innhentet og
-undersøkt før saken pådømmes. Hvis det er svært
-vanskelig eller umulig å innhente og undersøke et
-potensielt relevant bevis, vil det ofte lede til frifinnelse. Den sterke rettslige forpliktelsen kommer
-imidlertid i praksis sjelden på spissen. Grunnen er
-at påtalemyndigheten gjennomgående gjør et
-grundig arbeid, og at påtalemyndigheten ikke
-skal ta saken til retten dersom det er flere «løse
-tråder». I saker hvor siktede ikke har forsvarer, er
-det på den annen side et større faktisk behov for
-at dommeren er oppmerksom på ansvaret for
-sakens opplysning i § 294.81
-På denne bakgrunn må det legges til grunn at
-både domstolene og kommisjonen er underlagt en
-sterk og vidtgående rettslig plikt til å sørge for at
-saken er tilstrekkelig opplyst før saken avgjøres.
-Eventuelle forskjeller mellom den rettslige utredningsplikten som er pålagt henholdsvis kommisjonen og domstolene, får i realiteten mindre betydning. Den overordnede retningslinjen er i begge
-tilfeller at avgjørelsesgrunnlaget må være så grundig at hensynet til et materielt riktig resultat ikke
-kommer i spill. I Rt. 2008 s. 605 uttaler Høyesterett følgende om rettens ansvar for sakens opplysning i straffesaker, som også kan ha relevans ved
-forståelsen av kommisjonens utredningsplikt etter
-§ 398:
-«Retten har etter § 294 en selvstendig plikt til å
-sørge for at nødvendige opplysninger blir innhentet. Dette gjelder selv om partene måtte
-mene at ytterligere opplysning av saken ikke er
-nødvendig, men desto mer dersom partene er
-uenige om behovet eller muligheten – typisk
-når politiet motsetter seg å innhente opplysninger tiltalte ønsker fremlagt. Rekkevidden av
-81
+Når partene i praksis bidrar til opplysningen av sakene i stor grad, fører det til at det reelt sett blir et mindre *faktisk* behov for at kommisjonen selv initierer og gjennomfører utredningsskritt, uten at dette er initiert av partene. Det betyr imidlertid ikke at kommisjonen har en mindre omfattende *rettslig* plikt til å sørge for at saken blir tilstrekkelig opplyst før den avgjøres.
 
-Se i denne forbindelse straffeprosessloven § 267.
+Kommisjonens utredningsplikt har slik sett likhetstrekk med domstolenes utredningsplikt i straffesaker, jf. straffeprosessloven § 294 første punktum. Domstolens ansvar for sakens opplysning etter § 294 er i prinsippet vidtgående. Domstolene må sørge for at bevisgrunnlaget er tilstrekkelig før saken tas opp til doms. I alvorlige straffesaker må domstolen som hovedregel sørge for at potensielt relevante bevis blir innhentet og undersøkt før saken pådømmes. Hvis det er svært vanskelig eller umulig å innhente og undersøke et potensielt relevant bevis, vil det ofte lede til frifinnelse. Den sterke rettslige forpliktelsen kommer imidlertid i praksis sjelden på spissen. Grunnen er at påtalemyndigheten gjennomgående gjør et grundig arbeid, og at påtalemyndigheten ikke skal ta saken til retten dersom det er flere «løse tråder». I saker hvor siktede ikke har forsvarer, er det på den annen side et større faktisk behov for at dommeren er oppmerksom på ansvaret for sakens opplysning i § 294.[^930]
 
-rettens plikt etter § 294 beror på sakens
-omstendigheter, med det generelle bevisbilde
-som utgangspunkt for vurderingen. Et sentralt
-moment er hvor alvorlig saken er. I tillegg vil
-det kunne ha betydning om opplysningene gjelder et viktig punkt i saken, om de antas å være
-til tiltaltes gunst, og om de kan fremskaffes ved
-rimelig innsats av tid, penger og andre ressurser i forhold til hva man må regne med kan oppnås.»82
+På denne bakgrunn må det legges til grunn at både domstolene og kommisjonen er underlagt en sterk og vidtgående rettslig plikt til å sørge for at saken er tilstrekkelig opplyst før saken avgjøres. Eventuelle forskjeller mellom den rettslige utredningsplikten som er pålagt henholdsvis kommisjonen og domstolene, får i realiteten mindre betydning. Den overordnede retningslinjen er i begge tilfeller at avgjørelsesgrunnlaget må være så grundig at hensynet til et materielt riktig resultat ikke kommer i spill. I Rt. 2008 s. 605 uttaler Høyesterett følgende om rettens ansvar for sakens opplysning i straffesaker, som også kan ha relevans ved forståelsen av kommisjonens utredningsplikt etter § 398:
 
-Hvor stort faktisk behov det er for å initiere og
-gjennomføre undersøkelser, beror både i domstolsprosessen og i gjenåpningsprosessen på hvor
-aktive og kompetente partene er. Det som er mest
-særegent for kommisjonen sammenlignet med
-domstolene, er at de har ansatt politifaglige utredere. Det medfører at kommisjonen selv vil gjennomføre en form for etterforskning av saken. Hvis
-domstolene mener at saken bør utredes nærmere,
-kan det besluttes at nye bevis skal innhentes, jf.
-straffeprosessloven § 294 andre punktum. Det gjøres imidlertid av påtalemyndigheten.
-Et annet spørsmål om forholdet mellom kommisjonen og partene i gjenåpningssaken er om, og
-eventuelt i hvilken grad, kommisjonen er bundet
-av partenes prosesshandlinger. Parallellen til
-straffesaksbehandlingen i domstolene er straffeprosessloven § 38. Et sentralt spørsmål er om
-kommisjonen bør kunne gå utenfor de gjenåpningsgrunnene som er anført av partene. Spørsmålet oppstår særlig ved gjenåpning til skade eller
-dersom det er aktuelt å vurdere et grunnlag for
-gjenåpning som domfelte selv ikke ønsker å påberope, for eksempel om tilregnelighet.
-Straffeprosessutvalget drøftet spørsmålet i sin
-utredning. Straffeprosessutvalget mente for det
-første at kommisjonen burde utvise «stor varsomhet» med å gå utenfor de anførte gjenåpningsgrunnene for å vurdere gjenåpning til skade. Etter
-Straffeprosessutvalgets syn kunne det få betydning for tilliten til kommisjonen og funksjonsfordelingen mellom kommisjonen og påtalemyndigheten dersom kommisjonen skulle ta «selvstendig
-initiativ» til å opplyse saken til domfeltes ugunst.83
-Når det gjaldt gjenåpning til gunst, uttalte
-Straffeprosessutvalget at «det klare utgangspunktet» vil være at kommisjonens behandling holder
-seg innenfor rammene av begjæringen, ettersom
-den domfeltes interesser normalt vil være sammenfallende med samfunnets interesse i å få kor82
+«Retten har etter § 294 en selvstendig plikt til å sørge for at nødvendige opplysninger blir innhentet. Dette gjelder selv om partene måtte mene at ytterligere opplysning av saken ikke er nødvendig, men desto mer dersom partene er uenige om behovet eller muligheten – typisk når politiet motsetter seg å innhente opplysninger tiltalte ønsker fremlagt. Rekkevidden av rettens plikt etter § 294 beror på sakens omstendigheter, med det generelle bevisbilde som utgangspunkt for vurderingen. Et sentralt moment er hvor alvorlig saken er. I tillegg vil det kunne ha betydning om opplysningene gjelder et viktig punkt i saken, om de antas å være til tiltaltes gunst, og om de kan fremskaffes ved rimelig innsats av tid, penger og andre ressurser i forhold til hva man må regne med kan oppnås.»[^931]
 
-Avsnitt 14. Se også bl.a. Rt. 2008 s. 1350, HR-2019-1967-A og
-HR-2024-478-U.
-83
-NOU 2016: 24 s. 469.
+Hvor stort faktisk behov det er for å initiere og gjennomføre undersøkelser, beror både i domstolsprosessen og i gjenåpningsprosessen på hvor aktive og kompetente partene er. Det som er mest særegent for kommisjonen sammenlignet med domstolene, er at de har ansatt politifaglige utredere. Det medfører at kommisjonen selv vil gjennomføre en form for etterforskning av saken. Hvis domstolene mener at saken bør utredes nærmere, kan det besluttes at nye bevis skal innhentes, jf. straffeprosessloven § 294 andre punktum. Det gjøres imidlertid av påtalemyndigheten.
 
-[Side 183]
+Et annet spørsmål om forholdet mellom kommisjonen og partene i gjenåpningssaken er om, og eventuelt i hvilken grad, kommisjonen er bundet av partenes prosesshandlinger. Parallellen til straffesaksbehandlingen i domstolene er straffeprosessloven § 38. Et sentralt spørsmål er om kommisjonen bør kunne gå utenfor de gjenåpningsgrunnene som er anført av partene. Spørsmålet oppstår særlig ved gjenåpning til skade eller dersom det er aktuelt å vurdere et grunnlag for gjenåpning som domfelte selv ikke ønsker å påberope, for eksempel om tilregnelighet.
 
-NOU 2024: 24
-Prøvd på nytt
+Straffeprosessutvalget drøftet spørsmålet i sin utredning. Straffeprosessutvalget mente for det første at kommisjonen burde utvise «stor varsomhet» med å gå utenfor de anførte gjenåpningsgrunnene for å vurdere gjenåpning til skade. Etter Straffeprosessutvalgets syn kunne det få betydning for tilliten til kommisjonen og funksjonsfordelingen mellom kommisjonen og påtalemyndigheten dersom kommisjonen skulle ta «selvstendig initiativ» til å opplyse saken til domfeltes ugunst.[^932]
 
-rigert uriktige avgjørelser.84 Standpunktet presiseres slik:
-«[N]år det først er begjært gjenåpning, bør
-kommisjonen stå fritt til å vurdere grunnlag
-den kommer over, og som kan tilsi gjenåpning
-til domfeltes gunst. I forlengelsen bør også
-oppnevnte forsvarere innenfor det advokatetiske regelverket stå fritt til å argumentere for
-gjenåpning på andre grunnlag enn de domfelte
-har gjort gjeldende. Domfelte vil riktignok
-kunne trekke begjæringen, men det kan da
-være aktuelt at påtalemyndigheten ut fra sitt
-objektivitetsideal begjærer gjenåpning til vedkommendes gunst.
-84
+Når det gjaldt gjenåpning til gunst, uttalte Straffeprosessutvalget at «det klare utgangspunktet» vil være at kommisjonens behandling holder seg innenfor rammene av begjæringen, ettersom den domfeltes interesser normalt vil være sammenfallende med samfunnets interesse i å få korrigert uriktige avgjørelser.[^933] Standpunktet presiseres slik:
 
-NOU 2016: 24 s. 469.
+«\[N\]år det først er begjært gjenåpning, bør kommisjonen stå fritt til å vurdere grunnlag den kommer over, og som kan tilsi gjenåpning til domfeltes gunst. I forlengelsen bør også oppnevnte forsvarere innenfor det advokatetiske regelverket stå fritt til å argumentere for gjenåpning på andre grunnlag enn de domfelte har gjort gjeldende. Domfelte vil riktignok kunne trekke begjæringen, men det kan da være aktuelt at påtalemyndigheten ut fra sitt objektivitetsideal begjærer gjenåpning til vedkommendes gunst.
 
-181
+Kommisjonen bør utvise varsomhet og tilbakeholdenhet med å gå utenfor gjenåpningsgrunnen som er gjort gjeldende. For det første fordi det vil være en sterk presumsjon for at det ikke hefter noe ved andre sider ved dommen, men også fordi domfelte kan være best tjent med at dommen blir stående, og samfunnets interesser i å få rettet opp avgjørelsen kan være begrenset. En slik praksis vil være å anse som utslag av den generelle tanken om rettskraftens gjennomslagskraft \[…\]»[^934]
 
-Kapittel 19
-
-Kommisjonen bør utvise varsomhet og tilbakeholdenhet med å gå utenfor gjenåpningsgrunnen som er gjort gjeldende. For det første
-fordi det vil være en sterk presumsjon for at det
-ikke hefter noe ved andre sider ved dommen,
-men også fordi domfelte kan være best tjent
-med at dommen blir stående, og samfunnets
-interesser i å få rettet opp avgjørelsen kan være
-begrenset. En slik praksis vil være å anse som
-utslag av den generelle tanken om rettskraftens gjennomslagskraft […]»85
 Utvalget tiltrer disse presiseringene, som antakeligvis er dekkende også for dagens praksis.
-85
-
-NOU 2016: 24 s. 470.
-
-[Side 184]
-
-182
-
-NOU 2024: 24
-
-Kapittel 20
-
-Prøvd på nytt
-
-Kapittel 20
-
-Kommisjonens organisering og kompetanse
-20.1 Innledning
-I representantforslaget som ligger til grunn for
-gjennomgangen av Gjenopptakelseskommisjonens virksomhet, er det pekt på flere sider ved
-kommisjonen som særlig, men ikke utelukkende,
-bør vurderes.1 Det vises for det første til «sekretariatets rolle», spesielt med tanke på sekretariatets
-«innflytelse på avgjørelsene som blir tatt av kommisjonen».2 I tillegg pekes det på at kommisjonsmedlemmene arbeider deltid hos kommisjonen,
-som et verv, og har andre jobber ved siden av.3
-Dette får betydning for arbeidsdelingen mellom
-sekretariatet og kommisjonsmedlemmene og kan
-føre til at sekretariatet i praksis får stor innflytelse
-på avgjørelsene som tas.
-Videre har kommisjonen i senere år mottatt
-flere begjæringer enn tidligere, og restansene har
-økt.4 Dette har bidratt til at saksbehandlingstiden
-for kommisjonen er lang.5 Økningen i antall saker
-har også betydning for kommisjonsmedlemmenes
-mulighet til å sette seg inn i sakene som legges
-frem for dem, og dermed for kommisjonens
-mulighet til å treffe innholdsmessig gode avgjørelser.
-På bakgrunn av dette har utvalget kartlagt
-kommisjonens nåværende arbeidsform og sett
-nærmere på alternative modeller for organisering
-av kommisjonen. Et overordnet siktemål er å
-sørge for at de enkelte kommisjonsmedlemmene
-får færre saker å vurdere, og dermed skape mulighet for en grundigere og mer betryggende avgjørelse av gjenåpningsspørsmålet. Videre fremmes
-flere forslag som tar sikte på å redusere saksbehandlingstiden.
-I punkt 20.2 tas det til orde for å dele kommisjonen inn i flere avdelinger. Forslaget bygger på
-1
-2
-3
-4
-5
-
-Dokument 8:30 S (2022–2023) s. 1.
-Dokument 8:30 S (2022–2023) s. 1.
-Dokument 8:30 S (2022–2023) s. 1.
-Se punkt 15.2.
-Se punkt 15.3.
-
-en forutsetning om at kommisjonsmedlemmene
-fortsatt arbeider deltid i kommisjonen.
-Etter utvalgets syn er det også grunn til å se
-nærmere på innretninger hvor flere av de som treffer avgjørelsene av gjenåpningsspørsmålet, jobber
-heltid. Dette vil kreve en mer omfattende omstrukturering av kommisjonen og presenteres derfor i
-et eget kapittel, se kapittel 24. I likhet med forslaget i punkt 20.2 er en grunntanke også her at kommisjonen bør deles inn i flere avdelinger for å
-effektivisere saksbehandlingen og sørge for at de
-enkelte kommisjonsmedlemmene får færre saker
-å vurdere. I tillegg er et vesentlig formål med dette
-forslaget å sørge for at kommisjonsmedlemmene i
-større grad kan involveres i utredningen av sakene
-og utformingen av avgjørelsene. En svakhet ved
-dagens system er at de som treffer beslutningene,
-i liten grad selv bereder grunnlaget og utformer
-den skriftlige begrunnelsen for avgjørelsen. Den
-alternative organisasjonsstrukturen i kapittel 24 er
-derfor utvalgets primære forslag.
-I de videre punktene i kapittel 20 fremmes en
-rekke forslag om endringer i kommisjonens organisering og kompetanseregler som er ment å
-sikre en mer betryggende og effektiv behandling
-av gjenåpningssakene.
-I punkt 20.3 foreslås det å opprette en ny stilling
-som utredningsleder for sekretariatet og å fjerne
-lederens «doble» lederansvar. Utvalget antar at en
-slik stilling vil bli mindre aktuell dersom organiseringen foreslått i kapittel 24 gjennomføres.
-De øvrige forslagene som presenteres i dette
-kapittelet, er i hovedsak ment å kunne gjennomføres uavhengig av om kommisjonsmodellen består
-som i dag, eller om forslaget i punkt 20.2 eller
-kapittel 24 gjennomføres. I punkt 20.4 foreslås det
-å innføre åremål for kommisjonens utredere. I
-punkt 20.5 tas det til orde for at vervet som kommisjonsmedlem bør lyses ut offentlig. I tillegg
-foreslås en reduksjon i total funksjonstid for kommisjonens leder dersom vedkommende tidligere
-har vært kommisjonsmedlem.
-Beslutningskravet for kommisjonens avgjørelse
-av gjenåpningsspørsmålet er belyst i punkt 20.6.
-
-[Side 185]
-
-NOU 2024: 24
-Prøvd på nytt
-
-Det foreslås der å endre kravet slik at det kreves
-enstemmighet for å nekte gjenåpning. Forslaget
-må ses i sammenheng med forslaget om å dele
-kommisjonen inn i flere avdelinger, hver med tre
-kommisjonsmedlemmer, jf. punkt 20.2 og kapittel
-24. Utvalget mener imidlertid at en regel om
-bestemmende mindretall for gjenåpning bør vurderes også dersom dagens modell med et kommisjonskollegium på fem medlemmer består. I forslaget er det derfor pekt på ulike alternativer avhengig av hvordan kommisjonskollegiet innrettes.
-I punkt 20.7 fremmes forslag om endringer i
-kommisjonens praktisering av hjemmelen for å forkaste begjæringer, jf. § 397 tredje ledd. Det foreslås
-videre i punkt 20.8 en ny regel om at kommisjonens
-leder og nestleder kan beslutte gjenåpning dersom
-det er «åpenbart» at begjæringen fører frem.
-Utvalget har vurdert om det bør gjøres
-endringer i kommisjonens kompetanse når det
-gjelder saker om tilregnelighet og saker som
-hovedsakelig gjelder rettsanvendelsesfeil, men
-har kommet til at det ikke er grunn til det. Dette
-spørsmålet drøftes i punkt 20.9.
-
-20.2 Etablering av tre, alternativt to
-avdelinger i kommisjonen
-20.2.1 Bakgrunn
-Etter utvalgets syn tilsier flere forhold at det er
-utilrådelig for Gjenopptakelseskommisjonen å
-fortsette med sin nåværende organisering. Utvalget mener for det første at den lange saksbehandlingstiden og den store arbeidsmengden for kommisjonsmedlemmene er bekymringsfull.
-Som vist i punkt 14.4 har kommisjonsmedlemmene de siste tre årene hatt en gjennomsnittlig
-stillingsprosent for vervet på rundt 22 %. Det er
-videre grunn til å tro at arbeidsmengden for kommisjonsmedlemmene vil øke. Antallet mottatte
-saker har økt kraftig de siste årene. Selv om kommisjonen også har avsluttet flere saker enn i tidligere år, har den ikke evnet å holde tritt med det
-økte sakstilfanget. Restansene har derfor økt,6 og
-saksbehandlingstiden er gjennomgående lang.7
-Kommisjonen har av den grunn fått økte bevilgninger til et midlertidig prosjekt i perioden 2024–
-2026 for å bygge ned restansene og redusere
-saksbehandlingstiden.8 Bevilgningen har ført til
-at kommisjonens sekretariat er utvidet til totalt 14
-6
-7
-8
-
-Se punkt 15.2.
-Se punkt 15.3.
-Se Prop. 104 S (2023–2024) s. 45. Forslaget ble vedtatt i
-revidert statsbudsjett for 2024, se vedtak 857 post 468.
-
-183
-
-Kapittel 20
-
-jurister og 4 politifaglige utredere.9 Kommisjonen
-har uttrykt bekymring for at det vil kunne bli vanskelig å holde restansene nede dersom den midlertidige utvidelsen ikke opprettholdes.
-Det økte sakstilfanget og utvidelsen av sekretariatet medfører at også saksmengden for kommisjonsmedlemmene vil øke. Normalt har kommisjonsmedlemmene avholdt møter med ca. 4–6
-ukers mellomrom, med to dager per sesjon. I 2023
-og 2024 har det etter hvert blitt vanligere at
-møtene går over tre dager. Kommisjonen har gitt
-uttrykk for at det kan bli nødvendig å utvide sesjonene til møter over fire dager i en periode.10
-Etter utvalgets syn er det på bakgrunn av dette
-tvilsomt om dagens kommisjonsstruktur er egnet
-til å muliggjøre målsetningen om å redusere saksbehandlingstiden og å sikre en tilstrekkelig grundig og betryggende behandling av gjenåpningssakene. Utvalget mener videre at det er grunn til å
-stille spørsmål om deltidsvervet som kommisjonsmedlem i praksis er – og i økende grad vil bli – for
-omfattende til å kunne kombinere med annet heltidsarbeid.
-Et bierverv som overstiger 20 %, medfører at
-kommisjonsmedlemmet jevnt over må arbeide
-mer enn én ekstra arbeidsdag per uke. Utvalgets
-inntrykk er at kommisjonsmedlemmene i all
-hovedsak setter seg grundig inn i sakene som presenteres for dem. Flere utredere i kommisjonen
-har pekt på at kommisjonsmedlemmene generelt
-synes å være godt forberedt til møtene, og at det
-regelmessig reises detaljerte spørsmål om ulike
-sider av sakene. Samtidig har flere kommisjonsmedlemmer – både nåværende og tidligere – gitt
-utrykk for at vervet som kommisjonsmedlem i
-praksis kan være krevende å kombinere med
-annet arbeid. Som nevnt i punkt 14.4 vil det variere med den enkelte arbeidsgiver i hvilken grad
-arbeidet kan reduseres eller for øvrig tilpasses
-vervet som kommisjonsmedlem, utover at det gis
-permisjon til møtene. Noen medlemmer utvalget
-har snakket med, har oppgitt at det som utgangspunkt forventes at de arbeider i samme omfang
-som ellers, med unntak av selve møtene. Forberedelsene til kommisjonsmøtene må derfor i hovedsak skje i helgene og på fritiden.
-En generell tilbakemelding er videre at avlønningsnormen på to timer forberedelse per time i
-kommisjonsmøtet ikke alltid gjenspeiler arbeids9
-
-Dette vil være tallet på ansatte i sekretariatet ved utløpet av
-2024 når den pågående ansettelsesprosessen som følge av
-ekstrabevilgningene er gjennomført.
-10 Se også Gjenopptakelseskommisjonens årsrapport for 2023
-s. 50: «Økende saksmengde og behandling av store saker
-utløser behov for ekstra møtedager.»
-
-[Side 186]
-
-184
-
-Kapittel 20
-
-NOU 2024: 24
-Prøvd på nytt
-
-mengden som kreves for å gjøre en samvittighetsfull jobb. Begjæringene som presenteres for kommisjonen, vil ofte dreie seg om omfattende og
-komplekse straffesaker, hvor gjenåpningsspørsmålet ikke fremstår «åpenbart». De «åpenbare»
-sakene vil i stor grad være forkastet av lederen
-eller nestlederen alene, jf. straffeprosessloven
-§ 397 tredje ledd. For å ta stilling til gjenåpningsspørsmålet kan det derfor være nødvendig å sette
-seg inn i et stort antall straffesaksdokumenter og i
-mange tilfeller en stor mengde rapporter, tilsvar
-mv. som er utarbeidet i forbindelse med gjenåpningssaken. Etter utvalgets syn er dette bekymringsfullt med tanke på det økte sakstilfanget i
-kommisjonen.
-
-20.2.2 Avdelingsmodellen
-På bakgrunn av dette foreslår utvalget at dagens
-kollegium på åtte kommisjonsmedlemmer (fem
-faste og tre varamedlemmer) inndeles på en
-annen måte enn i dag. Utvalget foreslår at kommisjonsmodellen endres slik at det opprettes flere
-avdelinger med kommisjonsmedlemmer for å ta
-stilling til gjenåpningsspørsmålet.11 Modellen er
-skissert i figur 20.1.
-En oppsplitting i avdelinger vil enkelt sagt føre
-til at kommisjonsmedlemmene ved behov får mer
-tid til å vurdere den enkelte sak enn i dag.12 Utvalget antar at en slik innretning vil bidra til grundigere vurderinger i sakene som legges frem for
-kommisjonen, både i forberedelsene og ved drøftelsene i møtet. Det legges til grunn at en slik modell
-vil muliggjøre at kommisjonsmedlemmene i noe
-større grad får anledning til å lønnes etter medgått
-tid, og ikke etter en fastsatt norm basert på møtetiden. En mulig effekt er videre at kommisjonen i
-større grad vil kunne åpne for muntlig høringer og
-utspørring av for eksempel sakkyndige før avgjørelsen treffes. Denne muligheten benyttes i praksis
-ikke i dag.
-11
-
-Se for øvrig utvalgets primære forslag til en mer omfattende omorganisering av kommisjonen i kapittel 24, som
-også er basert på at kommisjonskollegiet inndeles i
-avdelinger.
-12
-Utvalget foreslår samtidig enkelte endringer som vil kunne
-medføre at det totale antallet saker som behandles av kommisjonsmedlemmene som kollegium, øker noe. Et siktemål
-med noen av utvalgets øvrige forslag er at flere tvilsomme
-begjæringer som omhandler bevisspørsmål, skal legges
-frem for kommisjonen til avgjørelse, og ikke forkastes av
-leder eller nestleder alene, jf. straffeprosessloven § 397
-tredje ledd. Det vises til utvalgets forslag i punkt 20.7 og
-20.8. Likevel vil det i praksis trolig bli snakk om en betydelig reduksjon i antall saker for de enkelte kommisjonsmedlemmene.
-
-Utvalget antar også at en slik modell vil kunne
-føre til at de enkelte kommisjonsmedlemmenes
-totale arbeidstid for kommisjonen reduseres. Det
-forutsettes med andre ord ikke at kommisjonsmedlemmene nødvendigvis vil arbeide like mye
-for kommisjonen som i dag. Dette vil kunne bidra
-til å gjøre vervet som kommisjonsmedlem enklere
-å forene med øvrig arbeid.
-Forslaget er videre ment å muliggjøre at kommisjonens saksbehandlingstid reduseres. Som
-nevnt i forrige punkt er kommisjonens sekretariat
-utvidet gjennom en økt bevilgning fra Stortinget
-som trolig vil utvides til å gjelde også for 2025 og
-2026.13 Bevilgningen er gitt for å sikre raskere
-saksbehandling og nedbygging av restanser i kommisjonen. Dersom denne målsetningen skal nås,
-må også kommisjonskollegiet innrettes slik at det
-vil være i stand til å behandle flere saker enn i dag.
-I tillegg er forslaget ment å muliggjøre at kommisjonsmedlemmene får økt kontroll og innflytelse over utredningen av sakene og utformingen
-av avgjørelsene. Dette temaet belyses nærmere i
-punkt 20.2.3.
-Utvalget foreslår primært at det opprettes tre
-avdelinger, hver med tre kommisjonsmedlemmer. I
-lys av den omfattende saksmengden og den lange
-saksbehandlingstiden antar utvalget at tre avdelinger som utgangspunkt vil være nødvendig. Kommisjonen har i dag en beholdning på om lag 400
-uavsluttede saker.14 Ved utløpet av august 2024
-hadde kommisjonen videre 56 pågående saker med
-en behandlingstid på over et år, hvor domfelte
-soner.15 Antallet avdelinger i kommisjonen kan på
-sikt eventuelt reduseres eller økes dersom saksmengden gjør det tilrådelig.
-Forslaget innebærer som utgangspunkt at det
-oppnevnes ni faste kommisjonsmedlemmer, men
-dette vil avhenge av antall avdelinger.16 Sakene
-avgjøres i avdelinger med tre faste medlemmer.
-Utvalget ønsker så langt mulig å videreføre gjel13
-
-Forslaget er ment å gjelde for årene 2024–2026, se Prop.
-104 S (2023–2024) s. 45.
-14 Se punkt 15.2.
-15
-Se punkt 15.3.
-16 Det foreslås ingen endringer i reglene for oppnevning eller
-funksjonstid for medlemmene som følge av denne modellen. Utvalget foreslår imidlertid enkelte generelle endringer i oppnevningsprosedyren for kommisjonsmedlemmene
-og en ny regel om funksjonstid for lederen av kommisjonen
-dersom vedkommende tidligere har vært kommisjonsmedlem, se punkt 20.5. Utvalget foreslår også å innføre åremål
-for utrederne i sekretariatet, se punkt 20.4. Disse forslagene er ment å kunne gjennomføres uavhengig av hvilken
-innretning som velges, og vil altså gjelde både dersom
-kommisjonen forblir som i dag, dersom avdelingsmodellen
-velges, eller dersom den alternative organiseringen i kapittel 24 gjennomføres.
-
-[Side 187]
-
-185
-
-NOU 2024: 24
-Prøvd på nytt
-
-Avdeling 1
-
-Leder
-
-Avdeling 2
-
-Kapittel 20
-
-Avdeling 3
-
-Nestleder
-
-Varamedlemmer
-
-Nestleder
-
-Utredningsleder
-
-Sekretariatet
-Kommisjonsmedlem
-(jurist)
-
-Kommisjonsmedlem
-(lekperson)
-
-Juridisk
-utreder
-
-Politifaglig
-utreder
-
-Figur 20.1 Inndeling av kommisjonskollegiet i flere avdelinger. Hver avdeling består i utgangspunktet av to
-jurister og én lekperson. Antallet utredere i kommisjonen vil variere, og det er for enkelhets skyld kun vist tre
-juridiske og tre politifaglige utredere i figuren. Etter utvalgets forslag vil også antallet varamedlemmer i denne
-modellen være fleksibelt og opp til å kommisjonen å vurdere, se punkt 20.2.4. Figuren viser også en
-utredningsleder for sekretariatet, se nærmere om forslaget i punkt 20.3.
-dende fordeling mellom jurister og lekfolk. Som
-faste medlemmer oppnevnes i hver avdeling derfor to jurister og én lekperson. Det foreslås at
-avdelingene alltid skal bestå av tre medlemmer,
-hvorav minst én jurist, og at dette er en forutsetning for at kollegiet skal være beslutningsdyktig.
-Ved behov kan kollegiet altså settes med to lekpersoner og én jurist.17 Se nærmere om varaenes
-oppmøte og sammensetningen av kollegiet i punkt
-20.2.4.
-En konsekvens av forslagene det tas til orde
-for her, er at de enkelte gjenåpningssakene vil bli
-vurdert av færre kommisjonsmedlemmer. Det
-kan ha betydning for vurderingen av gjenåpningsspørsmålet. En fordel med et større kollegium er
-
-at flere perspektiver fra personer med ulik erfaring kommer inn i vurderingen.
-Etter utvalgets syn bør det derfor vurderes om
-konstellasjonene i avdelingene iblant eller
-regelmessig bør rullere. Dette kan bidra til erfaringsutveksling mellom medlemmene, sikre tilførsel av nye perspektiver og sørge for en enhetlig
-behandling på tvers av avdelingene. Det vises til at
-kommisjonen allerede har endret praksis slik at
-samme saksbehandler ikke lenger behandler
-gjentatte begjæringer i samme sak.18 Hensikten
-er å sikre at den nye begjæringen vurderes «med
-friske øyne» i sekretariatet. Det samme hensynet
-kan tilsi at en lignende praksis bør vurderes også
-for kommisjonsmedlemmenes behandling av
-begjæringen.19
-18
-
-17
-
-Etter den foreslåtte inndelingen vil den norske kommisjonstrukturen minne mer om organiseringen i den engelske gjenopptakelseskommisjonen (CCRC), hvor eventuell
-gjenåpning av sakene må besluttes i komiteer («decisionmaking comittees») med minst tre medlemmer. Etter retningslinjene for CCRC er det kun stilt krav om at minst ett
-medlem har juridisk kompetanse, se CCRC Case Review
-Process (2024) punkt 5.2.2.
-
-19
-
-Se punkt 14.3.
-En slik løsning vil også medføre at spørsmål om inhabilitet
-grunnet medlemmenes tidligere befatning med gjenåpningssaken – i tilfeller hvor domfelte fremmer gjentatte
-begjæringer i samme sak – kan løses på en enkel måte. En
-kommisjonsmodell med «flere avdelinger, slik man har i
-England» var ett av forslagene som ble skissert for å løse
-denne problemstillingen da arbeidsgruppen evaluerte
-kommisjonen i 2012. Se Etterkontroll (2012) s. 93.

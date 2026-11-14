@@ -1,502 +1,118 @@
-# Prop. 112 L (2024–2025), del 9 av 9 (side 87–96)
+# Prop. 112 L (2024–2025), del 9 av 11
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2025/08d18c3b-prop-112-l-20242025.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-112-l-20242025/id3096422/
 - Original-PDF: https://www.regjeringen.no/contentassets/f35589e9bc5c4cedaacb4fd5bf8ad65c/no/pdfs/prp202420250112000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 6 tabeller. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 87]
-
-2024–2025
-
-Prop. 112 L
-
-Endringer i straffeloven og legemiddelloven mv. (befatning med mindre mengder narkotika til egen bruk)
-
-geres med straff, for eksempel der lovbryteren
-har befatning med narkotika på en måte som forulemper andre eller av andre grunner er særlig
-samfunnsskadelig. Dette må avgjøres konkret, og
-de nærmere grensedragningene må utvikles gjennom påtalemyndighetens og domstolens praksis.
-At lovbruddet har skjedd på offentlig sted eller i et
-åpent rusmiljø, er i utgangspunktet ikke noe som
-gir grunn til å fravike hovedregelen. Hovedregelen om ubetinget påtaleunnlatelse eller straffutmålingsfrafall skal heller ikke fravikes alene med den
-begrunnelse at den rusmiddelavhengige ikke har
-et etablert forhold til helsevesenet og hjelpeapparatet for øvrig. Dersom en person med et omfattende og alvorlig rusmiddelproblem ikke er i kontakt med hjelpeapparatet fra før, kan politiet henvise personen til rådgivende enhet for russaker
-utenfor straffesak, i tråd med den nye hjemmelen
-i politiloven § 9 a.
-Reaksjonsordningen for personer med omfattende og alvorlige rusmiddelproblemer gjelder
-også ved gjentatte overtredelser av § 31 andre ledd,
-jf. § 24 første ledd, se nærmere i de alminnelige
-merknadene i punkt 5.6.5. Det samme gjelder hvis
-det skal utmåles en reaksjon for flere overtredelser
-av bestemmelsen, se nærmere i de alminnelige
-merknadene i punkt 5.6.6. Reaksjonsfastsettelsen
-ved befatning med narkotika over mengdegrensene for personer med omfattende og alvorlige rusmiddelproblemer er omtalt i punkt 5.6.4.
-Tredje punktum inneholder en hjemmel for å
-gi forskrift om at erverv og oppbevaring av
-enkelte særlig farlige stofftyper skal være unntatt
-fra straffebestemmelsen i § 31 andre ledd første
-punktum. Formålet med forskriftshjemmelen er å
-hindre spredning av slike stoffer. For stoffer som
-det er gitt forskrift om at skal være unntatt, vil
-bare bruk bli regulert av § 31 andre ledd, jf. § 24
-første ledd, mens erverv og oppbevaring av stoffet
-vil rammes av straffeloven § 231. Dette innebærer
-at reaksjonsordningen for rusmiddelavhengige i
-legemiddelloven § 31 andre ledd andre punktum
-ikke vil gjelde ved erverv og oppbevaring av stoffet. Det presiseres at det ved bruk av narkotika
-ikke bør reageres særskilt mot ervervet og oppbevaringen av stoffet som er forbrukt, se også riksadvokatens brev 9. april 2021 punkt 7, presisering
-nr. 3.
-Med «særlig farlige stoffer» siktes det til stofftyper som i vesentlig grad skiller seg fra farligheten til stoffene som det er fastsatt mengdegrenser
-for, og som kan være dødelige ved inntak av små
-mengder. Se nærmere i de alminnelige merknadene i punkt 4.6.3.
-
-85
-
-Tredje ledd viderefører straffansvaret for befatning med dopingmidler som i dag reguleres av
-§ 31 andre ledd, jf. § 24 a, uten realitetsendringer.
-Til § 33
-Paragrafen er ny og gjelder bevissikring ved mistanke om overtredelse av legemiddelloven § 31
-andre ledd, jf. § 24 første ledd.
-Første ledd regulerer politiets adgang til å
-undersøke om det foreligger tegn og symptomer
-på bruk av narkotika. Med dette menes systematiske og målrettede observasjoner og undersøkelser av ulike kroppslige funksjoner eller reaksjoner
-hos en person, som for eksempel størrelsen på
-pupillene, pupillenes reaksjon på lys, personens
-puls, balanse og tidsforståelse, som kan si noe om
-personen har inntatt narkotika og hvilket stoff det
-i så fall er tale om. Første ledd regulerer ikke mer
-passive observasjoner politiet kan gjøre i kraft av
-den alminnelige handlefriheten. Det vil først være
-tale om en undersøkelse av tegn og symptomer
-der politiet er i kontakt med personen og anmoder
-om medvirkning til at observasjoner og undersøkelser som nevnt kan gjennomføres.
-Tre vilkår må være oppfylt for at politiet skal
-kunne undersøke om det foreligger tegn og symptomer på bruk av narkotika. Det første vilkåret er at
-personen med «skjellig grunn» mistenkes for overtredelse av legemiddelloven § 31 andre ledd, jf. § 24
-første ledd. Mistankekravet «skjellig grunn» innebærer et krav om sannsynlighetsovervekt.
-Det andre vilkåret er at undersøkelsen må
-«antas å være av betydning for opplysningen av
-saken». Med «saken» menes saken om overtredelse av legemiddelloven § 31 andre ledd, jf. § 24
-første ledd. Formålet med en undersøkelse av tegn
-og symptomer er å fremskaffe et bedre grunnlag
-for å avgjøre om det er grunnlag for ytterligere
-etterforskningsskritt, særlig innhenting av spyttprøve, eventuelt urin- eller blodprøve, i medhold av
-andre ledd. En undersøkelse av tegn og symptomer forutsetter derfor at prøvetaking i utgangspunktet kan være aktuelt i den konkrete saken.
-Det tredje vilkåret er at undersøkelsen «ikke
-fremstår som et uforholdsmessig inngrep». Forholdsmessighetskravet skal tolkes på samme
-måte som etter straffeprosessloven § 157 første
-ledd. Om undersøkelsen er forholdsmessig, må
-vurderes konkret. Riksadvokaten har i brev
-9. april 2021 punkt 6.2 side 8 uttalt at en undersøkelse av tegn og symptomer gjennomgående vil
-være forholdsmessig ved mistanke om bruk av
-narkotika.
-
-[Side 88]
-
-86
-
-2024–2025
-
-Prop. 112 L
-
-Endringer i straffeloven og legemiddelloven mv. (befatning med mindre mengder narkotika til egen bruk)
-
-Undersøkelsen forutsetter at den som skal
-undersøkes, er samarbeidsvillig. Politiet kan ikke
-bruke makt for å gjennomføre en undersøkelse av
-tegn og symptomer, og kan heller ikke utsette personen for et utilbørlig press for at vedkommende
-skal medvirke til den. Beslutningskompetansen
-ligger hos polititjenestepersonen.
-Det vises til de alminnelige merknadene i
-punkt 6.3.4.
-Andre ledd regulerer adgangen til å gjennomføre rusmiddeltesting i form av prøvetaking for å
-klarlegge om mistenkte har brukt narkotika. Det
-vises til de alminnelige merknadene i punkt 6.2.7.
-Adgangen til å gjennomføre rusmiddeltesting i
-form av prøvetaking i etterforskningsøyemed kan
-ellers hjemles i straffeprosessloven § 157 om
-kroppslig undersøkelse.
-Første punktum fastsetter at påtalemyndigheten på samme vilkår som etter første ledd, kan
-beslutte at mistenkte skal testes for bruk av
-narkotika. Vilkårene for prøvetaking er altså at
-det er skjellig grunn til mistanke om overtredelse av legemiddelloven § 31 andre ledd, jf. § 24
-første ledd, at prøvetaking antas å være av betydning for opplysningen av saken, og at det ikke
-fremstår som et uforholdsmessig inngrep. Det er
-uttrykkelig fastsatt i andre ledd at det kan innhentes spyttprøve, urinprøve eller blodprøve,
-men oppregningen er ikke uttømmende, jf. formuleringen «blant annet».
-Det er et vilkår at prøvetaking antas å være av
-betydning for opplysningen av en sak om overtredelse av legemiddelloven § 31 andre ledd, jf. § 24
-første ledd. Prøvetaking vil først og fremst være
-egnet til å opplyse om mistenkte har brukt narkotika, men kan etter omstendighetene også være
-relevant for å belyse erverv eller oppbevaring av
-narkotika til egen bruk.
-Prøvetaking må ikke fremstå som et uforholdsmessig inngrep. Forholdsmessigheten av prøvetakingen må vurderes konkret. Departementet antar
-imidlertid at prøvetaking ikke vil være forholdsmessig når mistenkte omfattes av reaksjonsordningen for rusmiddelavhengige og reaksjonen skal
-være ubetinget påtaleunnlatelse eller straffutmålingsfrafall, jf. legemiddelloven § 31 andre ledd
-andre punktum.
-Kravet om at prøvetaking må være forholdsmessig, innebærer at politiet benytter den prøvetakingsmetoden som fremstår som den minst inngripende i den konkrete situasjonen utfra de metodene som er tilgjengelige. I dag vil dette som regel
-være spyttprøve. Innhenting av slik prøve er i
-utgangspunktet så lite inngripende at forholdsmessighetskravet ofte vil være oppfylt, med mindre
-
-mistenkte omfattes av reaksjonsordningen for rusmiddelavhengige, se like over. Hvor nødvendig prøvetakingen er for å oppklare saken, må imidlertid
-tillegges stor vekt i forholdsmessighetsvurderingen. Det kan likevel ikke utelukkes at enkelte vil
-oppleve innhenting av spyttprøve som mer inngripende enn andre metoder. Det kan også tenkes at
-mistenkte av andre grunner ikke vil ønske å avgi
-spyttprøve. I slike tilfeller vil bevissikringen eventuelt måtte skje ved innhenting av urin- eller blodprøve. I lys av at urin- eller blodprøve i utgangspunktet er mer inngripende, skal det mer til for at
-prøvetaking i disse tilfellene vil være forholdsmessig. At mistenkte har fått mulighet til å avgi spyttprøve, vil imidlertid være et moment i forholdsmessighetsvurderingen.
-Makt kan bare brukes i forbindelse med
-prøvetakingen i den utstrekning det er nødvendig
-og forholdsmessig. En viss maktbruk kan i
-enkelte tilfeller være nødvendig for holde igjen
-mistenkte på stedet, eventuelt for å bringe mistenkte til legevakt eller politistasjon dersom innhenting av urin- eller blodprøve er aktuelt. I hvilken grad det også kan brukes makt for å tvinge
-gjennom selve prøvetakingen, må vurderes konkret. Det vil ikke være aktuelt å tvinge gjennom
-en spyttprøve eller urinprøve med makt. Blodprøvetaking kan i prinsippet gjennomføres med makt,
-og det kan ikke utelukkes at en viss maktbruk
-etter omstendighetene kan være forholdsmessig.
-Det må vurderes fortløpende i den enkelte saken
-om den konkrete maktbruken er forholdsmessig,
-sett hen til sakens art og de øvrige omstendighetene i saken.
-
-9.3
-
-Til endringene i politiloven
-
-Til § 9 a
-Bestemmelsen er ny og gir politiet hjemmel til å
-henvise personer til rådgivende enhet for russaker utenfor straffesak. Bestemmelsen er ment å
-benyttes i tilfeller hvor politiet velger ikke å iverksette etterforskning av om en person har hatt
-befatning med mindre mengder narkotika til egen
-bruk, eller i tilfeller hvor en iverksatt etterforskning henlegges eller ender med frifinnelse. Formålet med bestemmelsen er å sikre at personer
-som antas å bruke narkotika, skal gis tilbud om et
-møte hos rådgivende enhet. Et slikt tilbud skal
-bidra til at personen får relevant informasjon og
-rådgivning som kan forebygge utvikling av ytterligere rusmiddelproblemer. Om bakgrunnen for
-bestemmelsen vises det til de alminnelige
-merknadene i punkt 7.2.4.
-
-[Side 89]
-
-2024–2025
-
-Prop. 112 L
-
-Endringer i straffeloven og legemiddelloven mv. (befatning med mindre mengder narkotika til egen bruk)
-
-Henvisning etter § 9 a skal være et forebyggende virkemiddel for politiet i tilfeller hvor opplysninger om befatning med mindre mengder narkotika til egen bruk av ulike grunner ikke forfølges strafferettslig. Bestemmelsen er ikke ment å
-endre terskelen for å iverksette etterforskning i
-saker om mindre alvorlige narkotikaovertredelser
-eller å påvirke dagens henleggelsespraksis.
-Oppmøte hos rådgivende enhet for russaker
-som følge av henvisning etter § 9 a er frivillig. Dette
-innebærer at manglende oppmøte ikke får noen
-rettslige konsekvenser, i motsetning til tilfeller hvor
-oppmøte hos rådgivende enhet for russaker settes
-som særvilkår for en strafferettslig reaksjon, jf.
-straffeloven § 37 første ledd bokstav j. Manglende
-oppmøte bør ikke føre til at politiet i stedet velger å
-iverksette etterforskning av det samme forholdet.
-De materielle vilkårene for å henvise en person til rådgivende enhet for russaker er at det er
-grunn til å tro at personen har brukt narkotika
-eller ervervet eller oppbevart en mindre mengde
-narkotika til egen bruk. De aktuelle befatningsmåtene sammenfaller med gjerningsbeskrivelsen i
-legemiddelloven § 31 andre ledd. Vilkårene for
-straffansvar trenger imidlertid ikke å være oppfylt, noe som blant annet innebærer at personer
-under 15 år kan henvises.
-Vilkåret om at det må være «grunn til å tro» at
-personen har hatt befatning med en mindre
-mengde narkotika til egen bruk, innebærer et
-relativt lavt beviskrav. Vilkåret skal forstås på
-samme måte som etter politiloven § 13 tredje ledd,
-som angir vilkårene for å innkalle til bekymringssamtale. Beviskravet innebærer at det må foreligge objektive holdepunkter for at personen har
-hatt befatning med narkotika som beskrevet i
-bestemmelsen, men sannsynlighetsovervekt kreves ikke.
-Ordet «kan» innebærer at politiet har en
-skjønnsmessig adgang til å henvise personer til
-rådgivende enhet for russaker når vilkårene er
-oppfylt. Det tilligger dermed politiet å vurdere om
-henvisning er et hensiktsmessig tiltak. Dette vil
-bero på en konkret vurdering i den enkelte saken,
-hvor man blant annet må ta hensyn til hvordan
-personen stiller seg til å bli henvist til enheten.
-Andre tiltak må også vurderes, i tråd med Nasjonal retningslinje for politiets rolle i det rusforebyggende arbeidet (godkjent 14. desember 2023). Det
-kan blant annet innebære bekymringssamtale
-etter politiloven § 13 tredje ledd. Hvis personen er
-under 18 år, kan politiet også ha plikt til å varsle
-barnevernet etter barnevernsloven § 13-2.
-Henvisning innebærer at politiet sender en
-henvendelse til den lokale rådgivende enhet for
-
-87
-
-russaker med opplysninger om personen som er
-henvist, en kort beskrivelse av hva saken gjelder,
-og hjemmelsgrunnlaget for henvisningen. Slik
-deling av informasjon er i tråd med politiregisterlovens krav til politimessige formål, jf. politiregisterloven § 4, jf. § 2 nr. 13.
-En henvisning til rådgivende enhet for russaker er ikke et enkeltvedtak etter forvaltningsloven. De alminnelige forvaltningsrettslige reglene
-om enkeltvedtak gjelder derfor ikke direkte, herunder forvaltningslovens regler om saksbehandling og klage. Det følger av forslaget til § 9 a andre
-ledd at en henvisning til rådgivende enhet for
-russaker skal være skriftlig og begrunnet.
-Begrunnelsen skal nevne det rettslige grunnlaget
-for henvisningen og de faktiske forholdene som
-henvisningen bygger på. Andre ledd fastslår
-videre at politiet før henvisningen skal gi personen anledning til å uttale seg. For personer under
-18 år skal også vergen gis anledning til å uttale
-seg. Underretning om henvisning skal skje etter
-reglene i forvaltningsloven § 27 første ledd. Dette
-innebærer at den som blir henvist, skal motta
-underretningen. For mindreårige skal underretning gis til vergen, men for mindreårige som har
-fylt 15 år, skal underretning også skje overfor den
-mindreårige selv. For voksne med verge bør
-underretning til vergen vurderes dersom kontakt
-med rådgivende enhet for russaker faller innenfor
-vergens mandat, jf. vergemålsloven § 25.
-
-9.4
-
-Til endringene i brann- og
-eksplosjonsvernloven
-
-Til § 17 a
-I fjerde ledd første punktum er det foretatt en justering i henvisningen til legemiddelloven § 31 som
-følge av at nåværende andre ledd flyttes til tredje
-ledd.
-
-9.5
-
-Til endringene i straffeloven
-
-Til § 37
-Første ledd bokstav j endres slik at en lovbryter
-kan pålegges å møte inntil tre ganger hos rådgivende enhet for russaker i løpet av en periode på
-inntil tre måneder. Dette er en utvidelse sammenlignet med dagens praksis, der oppmøteplikten
-anses oppfylt etter ett oppmøte. Det vises til de
-alminnelige merknadene i punkt 7.1.4.
-At det kan pålegges inntil tre møter i løpet av en
-periode på inntil tre måneder, innebærer at det må
-vurderes konkret hvor mange møter som skal
-
-[Side 90]
-
-88
-
-2024–2025
-
-Prop. 112 L
-
-Endringer i straffeloven og legemiddelloven mv. (befatning med mindre mengder narkotika til egen bruk)
-
-pålegges, og hvor lang gjennomføringstiden skal
-være. Fordi beslutningstakeren normalt vil ha
-begrenset grunnlag for å ta stilling til dette, vil den
-praktiske hovedregelen være at det fastsettes inntil
-tre møter i løpet av en periode på tre måneder. Rådgivende enhet har adgang til å frita lovbryteren fra
-oppmøteplikten dersom det anses åpenbart
-formålsløst å gjennomføre flere møter, se nærmere
-i de alminnelige merknadene i punkt 7.1.4. Gjennomføringstiden skal regnes fra iverksettelsen av
-reaksjonen, det vil si fra første gjennomførte møte.
-
-narkotika og erverv og oppbevaring av mindre
-mengder narkotika til egen bruk i legemiddelloven. Etter endringene vil straffebestemmelsen i
-legemiddelloven § 31 andre ledd, jf. § 24 første
-ledd, omfatte befatningsmåtene erverv og oppbevaring, som også rammes av straffeloven § 231.
-Siden disse befatningsmåtene rammes av begge
-straffebestemmelsene, anser departementet det
-hensiktsmessig at forholdet mellom bestemmelsene avklares uttrykkelig i § 231.
-
-9.6
-Til § 53
-I fjerde ledd andre punktum foretas det enkelte mindre justeringer som følge av endringene i legemiddelloven § 31 andre ledd, jf. § 24 første ledd. Adgangen til å ilegge betinget bot ved befatning med mindre mengder narkotika til egen bruk videreføres.
-Til § 231
-Det inntas et nytt tredje ledd i bestemmelsen, som
-angir forholdet mellom straffebestemmelsene i
-§ 231 og legemiddelloven § 31 andre ledd, jf. § 24
-første ledd. Bakgrunnen for bestemmelsen er forslaget til en ny straffebestemmelse om bruk av
-
-Til endringene i helse- og
-omsorgstjenesteloven
-
-Til § 3-9 c
-I § 3-9 c om rådgivende enhet for russaker inntas
-det i første ledd et nytt tredje punktum som fastslår
-at enhetene har ansvar for å motta personer som
-henvises til enhetene av politiet med hjemmel i politiloven § 9 a. Bakgrunnen for endringen er at politiet gis adgang til å henvise personer til enhetene
-utenfor straffesak, som innebærer at rådgivende
-enhet for russaker får et utvidet ansvarsområde.
-Det vises til de alminnelige merknadene i punkt
-7.2.4 og merknadene til politiloven § 9 a.
-
-[Side 91]
-
-2024–2025
-
-Prop. 112 L
-
-Endringer i straffeloven og legemiddelloven mv. (befatning med mindre mengder narkotika til egen bruk)
-
-89
-
-Justis- og beredskapsdepartementet
-tilrår:
-At Deres Majestet godkjenner og skriver under
-et framlagt forslag til proposisjon til Stortinget om
-endringer i straffeloven og legemiddelloven mv.
-(befatning med mindre mengder narkotika til
-egen bruk).
-
-Vi HARALD, Norges Konge,
-stadfester:
-Stortinget blir bedt om å gjøre vedtak til lov om endringer i straffeloven og legemiddelloven mv.
-(befatning med mindre mengder narkotika til egen bruk) i samsvar med et vedlagt forslag.
-
-[Side 92]
-
-90
-
-2024–2025
-
-Prop. 112 L
-
-Endringer i straffeloven og legemiddelloven mv. (befatning med mindre mengder narkotika til egen bruk)
-
-Forslag
-til lov om endringer i straffeloven og legemiddelloven mv.
-(befatning med mindre mengder narkotika til egen bruk)
-I
-I lov 22. mai 1981 nr. 25 om rettergangsmåten i
-straffesaker skal § 171 andre ledd lyde:
-Det samme gjelder den som med skjellig
-grunn mistenkes for overtredelse av straffeloven
-§ 323 eller legemiddelloven § 31 annet ledd, jf. § 24
-første ledd.
-II
-I lov 4. desember 1992 nr. 132 om legemidler mv.
-gjøres følgende endringer:
-§ 24 første ledd skal lyde:
-Det er forbudt uten lovlig adkomst å erverve,
-oppbevare eller bruke narkotika og å skaffe seg
-adgang til å få kjøpt slike varer under falske opplysninger, f.eks. om navn, bosted, sykdom eller
-sykdomstegn.
-Kapittel X overskriften skal lyde:
-Kap. X. Straff, inndragning og bevissikring.
-§ 31 andre og tredje ledd skal lyde:
-Erverv og oppbevaring av en mindre mengde
-narkotika til egen bruk og bruk av narkotika straffes med bot eller fengsel inntil 6 måneder. Er lovbryteren over 18 år og har et omfattende og alvorlig
-rusmiddelproblem, skal reaksjonen normalt være
-påtaleunnlatelse uten vilkår etter straffeprosessloven § 69 første ledd eller straffutmålingsfrafall etter
-straffeloven § 61. Kongen kan gi forskrift om at
-erverv og oppbevaring av særlig farlige stoffer straffes etter straffeloven § 231.
-Erverv, besittelse og bruk av dopingmidler
-straffes med bøter eller fengsel inntil 6 måneder,
-eller begge deler.
-Nåværende tredje og fjerde ledd blir fjerde og nytt
-femte ledd.
-Ny § 33 skal lyde:
-Den som med skjellig grunn mistenkes for
-overtredelse av § 31 andre ledd, jf. § 24 første
-
-ledd, kan av polititjenesteperson undersøkes for
-tegn og symptomer på bruk av narkotika, dersom
-undersøkelsen antas å være av betydning for opplysningen av saken og ikke fremstår som et uforholdsmessig inngrep.
-Etter beslutning fra påtalemyndigheten kan
-mistenkte på samme vilkår testes for bruk av narkotika, blant annet ved innhenting av spyttprøve,
-urinprøve eller blodprøve. Beslutningen skal være
-skriftlig og grunngitt. Er det fare ved opphold, kan
-beslutningen gis muntlig, men den skal da snarest
-mulig nedtegnes.
-Reglene i straffeprosessloven § 157 femte ledd
-gjelder tilsvarende for undersøkelser etter denne
-paragrafen.
-III
-I lov 4. august 1995 nr. 53 om politiet skal ny § 9 a
-lyde:
-§ 9 a Henvisning til rådgivende enhet for russaker
-Politiet kan henvise en person til frivillig oppmøte hos kommunal rådgivende enhet for russaker når det er grunn til å tro at personen har brukt
-narkotika eller ervervet eller oppbevart en mindre
-mengde narkotika til egen bruk.
-Henvisning etter første ledd skal være skriftlig
-og begrunnet. Før henvisningen skal personen,
-og verger for personer under 18 år, gis anledning
-til å uttale seg. Reglene om underretning i forvaltningsloven § 27 første ledd gjelder tilsvarende.
-IV
-I lov 14. juni 2002 nr. 20 om vern mot brann,
-eksplosjon og ulykker med farlig stoff og om
-brannvesenets redningsoppgaver skal § 17 a
-fjerde ledd første punktum lyde:
-Overtredelse av første ledd andre punktum straffes etter legemiddelloven § 31 tredje ledd.
-
-[Side 93]
-
-2024–2025
-
-Prop. 112 L
-
-Endringer i straffeloven og legemiddelloven mv. (befatning med mindre mengder narkotika til egen bruk)
-
-V
-I lov 20. mai 2005 nr. 28 om straff gjøres følgende
-endringer:
-§ 37 første ledd bokstav j skal lyde:
-j. møte inntil tre ganger hos rådgivende enhet for
-russaker etter innkalling i løpet av en periode
-på inntil tre måneder, forutsatt at domfellelsen
-gjelder bruk, erverv eller oppbevaring av narkotika til domfeltes egen bruk etter § 231 eller
-legemiddelloven § 31 annet ledd, jf. § 24 første
-ledd, eller
-§ 53 fjerde ledd andre punktum skal lyde:
-Det samme gjelder når en lovbryter har brukt, ervervet eller oppbevart narkotika til egen bruk etter
-§ 231 eller legemiddelloven § 31 annet ledd, jf. § 24
-første ledd.
-
-91
-
-§ 231 nytt tredje ledd skal lyde:
-Erverv og oppbevaring av en mindre mengde
-narkotika til egen bruk straffes etter legemiddelloven § 31 annet ledd, jf. § 24 første ledd.
-VI
-I lov 24. juni 2011 nr. 30 om kommunale helse- og
-omsorgstjenester m.m. skal § 3-9 c første ledd nytt
-tredje punktum lyde:
-Enheten skal også ha ansvar for å møte personer
-som er henvist til enheten etter politiloven § 9 a.
-VII
-Loven gjelder fra den tiden Kongen bestemmer.
-Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
-
-[Side 94]
-
-[Side 95]
-
-[Side 96]
-
-Bestilling av publikasjoner
-Departementenes sikkerhets- og serviceorganisasjon
-publikasjoner.dep.no
-Telefon: 22 24 00 00
-Publikasjonene er også tilgjengelige på
-www.regjeringen.no
-
-N
-VA
-
-E MER K
-
-E
-
-T
-
-S
-
-Trykk: Departementenes sikkerhets- og
-serviceorganisasjon – 04/2025
-
-Trykksak
-2041 0446
-
-tinget (forslag til lovvedtak)
-
-feloven og
-(befatning med mindre
-mengder narkotika til egen bruk)
+## Tegn og symptomer
+
+### Gjeldende rett
+
+Politiet observerer regelmessig personer for å klarlegge om vedkommende kan være påvirket av rusmidler. Observasjonen kan være overflatisk og tilfeldig, typisk der politiet patruljerer i bygater. Slik observasjon har tilstrekkelig rettsgrunnlag i politiets alminnelige handlefrihet. En observasjon fra politiets side kan imidlertid også være systematisk, målrettet og intensiv, ved at politiet kontakter eller har kontakt med personen og klarlegger pupillstørrelse, personens tidsoppfatning mv. for å gjøre seg opp en mening om vedkommende har inntatt ulovlige rusmidler. I så fall dreier det seg gjerne om bruk av politimetoden «tegn og symptomer». I korthet går denne metoden ut på at personen underkastes seks ulike observasjoner og tester som bidrar til å belyse om vedkommende har inntatt ulovlige rusmidler og hvilke rusmidler det i så fall er tale om. Det dreier seg om undersøkelse av pupillenes størrelse, pupillenes reaksjon på lys og personens puls, en nystagmus-test, en test av øyets evne til å se i kryss og en tids- og balansekontroll, se NOU 2024: 12 punkt 14.2.1 side 254 med videre henvisninger.
+
+I samferdselslovgivningen og lovgivning om pliktmessig avhold er undersøkelse av om det foreligger tegn og symptomer på ruspåvirkning, lovfestet som en undersøkelse som politiet kan foreta på stedet, jf. vegtrafikkloven § 22 a andre ledd første punktum, luftfartsloven § 6-13 andre ledd første punktum, jernbaneloven § 3 c andre ledd første punktum og taubaneloven § 23 andre ledd første punktum, samt forsvarsloven § 62 tredje ledd og sivilbeskyttelsesloven § 9 b fjerde ledd første punktum. I Prop. 9 L (2010–2011) *Endringar i lov 18. juni 1965 nr. 4 om vegtrafikk (endringar relatert til ruspåverka køyring m.m.)* punkt 5.1 side 35 er testmetoden beskrevet slik:
+
+«Testmetoden er utvikla av amerikansk politi og baserer seg på farmakologisk kunnskap – kombinert med tenestemannen sine erfaringar om korleis rus kan avlesast, mellom anna på puls, balanse, augerørsler og pupillstorleik. Mistenkte må gå ut av køyretyet å gjennomføre nokre relativt enkle øvingar etter polititenestemannen sine instruksjonar. Formålet med gjennomføring av desse testøvingane vil i denne samanhengen typisk vere å avdekke om det ligg føre straffbare tilhøve, til dømes ulovleg bruk av narkotika eller køyring i ruspåverka tilstand.»
+
+En undersøkelse av om det foreligger tegn og symptomer på ruspåvirkning i etterforsknings-øyemed kan utgjøre et inngrep etter Grunnloven § 113, slik at hjemmel i lov er påkrevd. Det har vært noe ulike syn på om undersøkelse av tegn og symptomer skal klassifiseres som en kroppslig undersøkelse etter straffeprosessloven § 157 eller personransaking etter straffeprosessloven § 195. Riksadvokaten har holdt spørsmålet åpent, se riksadvokatens brev 7. september 1999 og brev 29. desember 2011. Spørsmålet er også holdt åpent i forarbeidene til vegtrafikkloven § 22 a andre ledd første punktum, se Prop. 9 L (2010–2011) punkt 5.1 side 35. Rushåndhevingsutvalget ser det som naturlig å klassifisere undersøkelsen som en kroppslig undersøkelse, se NOU 2024: 12 punkt 14.2.1 side 255.
+
+### Rushåndhevingsutvalgets forslag
+
+I NOU 2024: 12 punkt 14.2.2 side 255 viser utvalget til at en innledende klarlegging av tegn og symptomer på ruspåvirkning hos en person ofte er nødvendig for å avklare om det er grunnlag for kroppslig undersøkelse i form av en rusmiddeltest. En slik klarlegging kan gi et sikrere grunnlag for å avgjøre om prøvetaking kan og bør besluttes. Etter utvalgets syn bør politiet derfor kunne klarlegge tegn og symptomer, også gjennom relativt inngående gransking. Utvalget viser til at en slik klarlegging forutsetter at personen er samarbeidsvillig.
+
+Utvalget mener at en klarlegging av tegn og symptomer for å avgjøre om prøvetaking kan og bør besluttes, er såpass lite inngripende at den ikke bør være betinget av at de materielle vilkårene i straffeprosessloven § 157 er oppfylt. Med henvisning til at grensen for hva som utgjør et inngrep etter Grunnloven § 113 er noe usikker, og at det samme gjelder grensen for hva som er en kroppslig undersøkelse etter straffeprosessloven § 157, mener utvalget at undersøkelsesmetoden likevel bør lovfestes. På denne bakgrunnen foreslår utvalget å innta en bestemmelse om politiets adgang til å foreta en undersøkelse av om det foreligger tegn og symptomer på bruk av narkotika som første ledd i forslaget til ny § 157 b i straffeprosessloven. Utvalget påpeker at en slik lovteknisk plassering markerer at politiet kan undersøke om det foreligger tegn og symptomer ved mistanke om en mindre narkotikaovertredelse, samtidig som den viser at formålet med undersøkelsen må være å fremskaffe et bedre grunnlag for å avgjøre om spyttprøve, eventuelt urin- eller blodprøve, skal tas.
+
+Når det gjelder de materielle vilkårene for å foreta en undersøkelse av om det foreligger tegn og symptomer på ruspåvirkning, mener utvalget at en «rimelig grunn» til mistanke om bruk av narkotika bør være tilstrekkelig. Utvalget viser til at undersøkelsen er moderat inngripende, og forutsetter at den som skal undersøkes, er samarbeidsvillig. Utvalget understreker imidlertid at mistankens styrke utover mistankekravet vil ha betydning som et moment i vurderingen av om det er et uforholdsmessig inngrep å undersøke om det foreligger tegn og symptomer hos den aktuelle personen. Utvalget foreslår at det også bør være et vilkår for undersøkelsen at det antas å være av betydning for opplysningen av saken. Siden det generelle forholdsmessighetskravet i straffeprosessloven § 170 a andre punktum er plassert i lovens fjerde del, foreslår utvalget at det presiseres i bestemmelsen at undersøkelsen forutsetter at det ikke fremstår som et uforholdsmessig inngrep. Beslutningskompetansen foreslås å ligge hos polititjenestepersonen.
+
+Utvalget understreker at det ikke er tale om å lovfeste politimetoden «tegn og symptomer», slik denne metoden er utviklet i politiet, eller gjennom lov å anerkjenne at klarlegging av tegn og symptomer gir et relativt pålitelig svar på om en person har inntatt narkotika. Utvalget nevner i den forbindelse at påliteligheten av å klarlegge ruspåvirkning gjennom undersøkelse av om det foreligger tegn og symptomer er noe omdiskutert, se NOU 2024: 12 punkt 14.2.2 side 255–256 med videre henvisning. Utvalget uttaler at det sentrale er at en slik undersøkelse er relativt lite inngripende, og at den gir et sikrere avgjørelsesgrunnlag når det vurderes om spyttprøve, eventuelt urin- eller blodprøve, skal tas.
+
+### Høringsinstansenes syn
+
+Følgende høringsinstanser gir uttrykk for at de støtter forslaget om å lovregulere politiets adgang til å undersøke om det foreligger tegn og symptomer på bruk av narkotika: *Hedmark og Oppland statsadvokatembeter*, *Innlandet politidistrikt*, *Norsk narkotikaforebyggende forening*, *Oslo politidistrikt*, *Oslo statsadvokatembeter*, *Porsgrunn kommune*, *Skien kommune*, *Sør-Vest politidistrikt*, *Trøndelag politidistrikt* og *Vestfold, Telemark* og *Buskerud statsadvokatembeter*. Også *Øst politidistrikt* synes å stille seg positiv til forslaget. Det samme gjelder *Advokatforeningen*, gitt forutsetningen om at bruk av narkotika fremdeles skal være straffbart.
+
+*Oslo politidistrikt* viser i sitt høringssvar til at bruk av metoden tegn og symptomer i praksis har vært ansett som personransaking etter straffeprosessloven § 195, men er uansett enig med utvalget i at inngrepets art er såpass beskjedent at det ikke bør underlegges de samme vilkårene og kompetansereglene som kroppslige undersøkelser for øvrig. Politidistriktet er videre enig i at bruk av metoden vil være egnet til å avklare om videre undersøkelser er nødvendig, både i favør og disfavør av mistenkte. Også *Norsk narkotikaforebyggende forening* er av den oppfatningen at undersøkelse av tegn og symptomer er et lite inngripende tiltak, men viktig for å avklare mistanken. Foreningen mener at en lovregulering av metoden vil styrke rettssikkerheten og redusere muligheten for at det gjennomføres prøvetaking i saker hvor mistanken skyldes andre forhold.
+
+*Hedmark og Oppland statsadvokatembeter*, *Innlandet politidistrikt* og *Øst politidistrikt* er enige med utvalget i at kompetansen til å beslutte at det skal foretas en undersøkelse av tegn og symptomer, bør ligge hos polititjenestepersonen på stedet. *Øst politidistrikt* viser til at det er polititjenestepersonen som har opplæring i metoden, og er nærmest til å vurdere nødvendigheten av undersøkelsen og til å tolke funnene.
+
+Høringsinstansene som stiller seg negative til utvalgets forslag, er *Foreningen for human ruspolitikk*, *Foreningen Tryggere Ruspolitikk*, *Helsedirektoratet*, *Nasjonal kompetansetjeneste for samtidig rusmisbruk og psykisk lidelse*, *Nasjonal kompetanse-tjeneste for tverrfaglig spesialisert rusbehandling*, *Nordland statsadvokatembeter*, *Oslo kommune*, *Preventio*, *proLAR NETT – Nasjonalt forbund for folk i LAR*, *Rogaland statsadvokatembeter*, *Rusfeltets hovedorganisasjon* og *Stiftelsen Kirkens Bymisjon*. Det er også en rekke privatpersoner som er kritiske til forslaget.
+
+Blant høringsinstansene som stiller seg negative til forslaget, vises det gjennomgående til at politimetoden «tegn og symptomer» har fått kritikk i fagmiljøet for ikke å være tilstrekkelig vitenskapelig forankret. *Nordland statsadvokatembeter* skriver i sitt høringssvar:
+
+«Forslaget til ny straffeprosesslov § 157 b som regulerer tegn og symptomertest og etterfølgende beslutning om spyttprøver støttes ikke. I nylig fagfellevurdering av faget Tegn og symptomer ved Politihøgskolen ble det påvist manglende vitenskapelig forankring av opplæringsmaterialet. Det skaper spørsmål om validiteten av metoden i seg selv. På nåværende tidspunkt vil det neppe være grunnlag for å kunne lovfeste denne metoden som følge av de påviste svakheter ved opplæringen som er gitt.»
+
+*Rogaland statsadvokatembeter* uttaler seg i samme retning, og bemerker at de heller ikke ser behov for lovregulering. *Foreningen Tryggere Ruspolitikk*, som har et lengre høringsinnspill om den manglende påliteligheten av metoden, uttaler:
+
+«Etter vårt syn tilsier disse forholdene samlet sett at dagens tegn- og symptomundersøkelse ikke kan etablere skjellig grunn til mistanke når det bare foreligger rimelig grunn til mistanke fra før. Dette gjelder særlig når den innledende mistanken er basert på observasjoner som gjentas i undersøkelsen (for eksempel av pupillstørrelse), hvilket ikke sjelden vil være tilfelle. Hvis utvalgets foreslåtte fremgangsmåte skal implementeres og vedtas i lov, bør dette ikke skje før en vitenskapelig evaluering har dokumentert at undersøkelsen som skal brukes, er tilstrekkelig treffsikker.»
+
+Også *Helsedirektoratet* stiller spørsmål ved om metoden kan være tilstrekkelig til å oppfylle kravet om skjellig grunn til mistanke om ulovlig bruk av narkotika. *Stiftelsen Kirkens Bymisjon* gir uttrykk for det samme. *Nasjonal kompetansetjeneste for samtidig rusmisbruk og psykisk lidelse* viser i sitt høringssvar til at metoden har fått «sterk kritikk for å være faglig svak og blitt vurdert som mangelfull», og viser til at dersom metoden blir lovregulert til tross for dens svakheter, vil det kunne føre til feilaktige avgjørelser, noe som i sin tur kan undergrave tilliten til politiet. Videre er høringsinstansen bekymret for at bruk av metoden kan føre til at pasienter som lovlig bruker medikamenter foreskrevet av lege, feilaktig blir mistenkt for å bruke illegale rusmidler, under henvisning til at væremåte, oppførsel og pupillstørrelse kan være sammenfallende med bruk av illegale stoffer.
+
+*Trøndelag statsadvokatembeter* stiller seg mer åpne til forslaget, men ber departementet holde øye med utviklingen i faget og den offentlige debatten om metoden:
+
+«Til første ledd registrerer vi utvalgets understreking av at det ikke er tal om å lovfeste politimetoden ‘tegn og symptomer’, eller noen erkjennelse av at klarlegging av tegn og symptomer gir et relativt pålitelig svar på om en person har bruk narkotika. Likevel foreslås en slik klarlegging brukt som en inngang til å etablere skjellig grunn til mistanke om bruk av narkotika med påfølgende spyttprøve. Begrunnelsen er at det til tross for usikkerheten rundt metoden vil gi et sikrere avgjørelsesgrunnlag når det vurderes om prøvetaking bør skje. Vi er ikke uenig i dette, men har samtidig registrert debatten om den vitenskapelige kvaliteten på Politihøgskolens kurs om tegn og symptomer. Vi oppfordrer derfor departementet til å følge med på utviklingen av faget i det videre lovarbeidet.»
+
+*Norges institusjon for menneskerettigheter* og *Politidirektoratet* gir uttrykk for lignende synspunkter.
+
+### Departementets vurdering
+
+Departementet fastholder utvalgets forslag om å innføre en bestemmelse som hjemler politiets adgang til å undersøke om det foreligger tegn og symptomer på bruk av narkotika ved mistanke om befatning med mindre mengder narkotika til egen bruk. Det vises til forslaget til ny § 33 første ledd i legemiddelloven. Riksadvokaten har pekt på undersøkelser av tegn og symptomer som et relevant og gjennomgående forholdsmessig etterforskningsskritt ved mistanke om bruk av narkotika, se brev 9. april 2021 punkt 6.2 side 8. En slik undersøkelse vil etter departementets syn kunne bidra til et sikrere grunnlag for å avgjøre om rusmiddeltesting, herunder innhenting av spyttprøve, urinprøve eller blodprøve, kan og bør besluttes. På samme måte som utvalget mener departementet at grensen for hva som utgjør et inngrep etter Grunnloven § 113 i disse tilfellene, er noe usikker. Forslaget vil klargjøre lovgrunnlaget for de relativt lite inngripende undersøkelsene det her er tale om.
+
+Departementet vil understreke at lovforslaget ikke innebærer en lovfesting av den konkrete politimetoden «tegn og symptomer» slik denne er utviklet av politiet og undervises og praktiseres i dag. Hvilke undersøkelser og observasjoner som kan gjøres innenfor rammen av bestemmelsen, vil bero på den til enhver tid gjeldende kunnskapen om hvordan tegn og symptomer på ruspåvirkning mest treffsikkert kan avdekkes gjennom fremgangsmåtene som er aktuelle. Departementet viser for øvrig til at adgangen til å gjennomføre undersøkelse av tegn og symptomer allerede er hjemlet i samferdselslovgivningen og annen lovgivning om pliktmessig avhold, se punkt 6.3.1.
+
+Påliteligheten av å klarlegge ruspåvirkning gjennom undersøkelse av tegn og symptomer er noe omdiskutert, se NOU 2024: 12 punkt 14.2.2 side 255–256 med videre henvisning. Flere høringsinstanser tar på bakgrunn av dette til orde for at undersøkelsen ikke bør benyttes eller lovhjemles. Til dette vil departementet bemerke at formålet med en undersøkelse av tegn og symptomer på bruk av narkotika ikke skal være å fastslå at en person har brukt narkotika, men å fremskaffe et bedre grunnlag for å avgjøre om spyttprøve, eventuelt urin- eller blodprøve, skal tas, se punkt 6.2. I noen tilfeller kan undersøkelsen føre til at mistanken om narkotikabruk svekkes, mens den i andre tilfeller kan underbygge at det er grunn til å gå videre med undersøkelsene og for eksempel ta en spyttprøve. Dersom en undersøkelse av tegn og symptomer ikke kan gjennomføres, vil politiet i enda større grad måtte basere seg på mer overfladiske og tilfeldige observasjoner, noe som vil innebære økt risiko for unødig tvangsmiddelbruk. Departementet kan i lys av dette ikke se at spørsmålet om påliteligheten av undersøkelsen utgjør et tilstrekkelig tungtveiende argument mot at den bør benyttes eller lovhjemles.
+
+Når det gjelder de nærmere vilkårene for å iverksette en undersøkelse av tegn og symptomer, foreslår departementet å oppstille et vilkår om at det må være «skjellig grunn» til mistanke om bruk av narkotika. Dette innebærer et strengere mistankekrav enn det utvalget har foreslått. Departementet er enig med utvalget i at en undersøkelse av tegn og symptomer er relativt lite inngripende, og at den forutsetter at den som skal undersøkes, er samarbeidsvillig. Slik departementet ser det, bør mistankekravet likevel ikke være lempeligere enn det som gjelder etter straffeprosessloven §§ 157 og 195. De særlige hensynene som kan begrunne et lavere mistankekrav i samferdselslovgivningen mv., gjør seg etter departementets syn ikke gjeldende på samme måte for befatning med mindre mengder narkotika til egen bruk. Når mistankekravet settes til skjellig grunn til mistanke, vil mistankekravet for å undersøke tegn og symptomer være det samme som for å gjennomføre en rusmiddeltest, se punkt 6.2.7. At mistankekravene for disse undersøkelsene er like, innebærer at undersøkelser av tegn og symptomer i enda større grad vil ha som funksjon å hindre at det besluttes prøvetaking i tilfeller hvor mistanken skyldes andre forhold enn bruk av narkotika. Dette bidrar etter departementets syn til å imøtekomme innvendingene fra høringsinstansene som har vært kritiske til at undersøkelser av tegn og symptomer skal benyttes for å styrke bevisgrunnlaget for at noen har inntatt narkotika.
+
+Departementet er ellers enig med utvalget i at det bør være et vilkår at undersøkelsen må antas å være av betydning for opplysningen av saken, og at den ikke må fremstå som et uforholdsmessig inngrep. Departementet deler også utvalgets oppfatning om at kompetansen til å beslutte at undersøkelsen skal gjennomføres, bør tillegges politi-tjenesteperson. Inngrepets moderate karakter tilsier at det ikke behov for legalitetskontroll av påtalemyndigheten i disse tilfellene.
+
+## Pågripelse
+
+### Gjeldende rett
+
+Pågripelse er regulert i straffeprosessloven kapittel 14. Straffeprosessloven § 171 første ledd oppstiller et mistankekrav, et strafferammekrav og et krav om at det foreligger en spesiell pågripelsesgrunn. Mistankekravet går ut på at det må være «skjellig grunn» til mistanken. Formuleringen «skjellig grunn» innebærer krav om sannsynlighetsovervekt for at vilkårene for straffansvar er oppfylt, se blant annet Rt. 2004 side 887 avsnitt 12. Strafferammekravet er «en eller flere handlinger som etter loven kan medføre høyere straff enn fengsel i 6 måneder». Den gjeldende straffebestemmelsen om bruk og besittelse av narkotika i legemiddelloven § 31, jf. § 24, oppfyller dette strafferammekravet ved at overtredelser straffes med bøter eller fengsel inntil 6 måneder, «eller begge deler». Pågripelseshjemmelen i straffe-prosessloven § 171 opererer med fire alternative pågripelsesgrunner, jf. første ledd nr. 1 til 4: unndragelsesfare, bevisforspillelsesfare, gjentakelsesfare og at mistenkte «selv begjærer det av grunner som finnes fyldestgjørende». Når det gjelder unndragelsesfare, suppleres § 171 første ledd nr. 1 av § 173 andre ledd, som gjør unntak fra strafferammekravet i § 171 første ledd dersom siktede «ikke vites å ha fast bopel i riket» og «det er grunn til å frykte for at han ved flukt til utlandet vil unndra seg forfølgingen eller fullbyrding av straff eller andre forholdsregler».
+
+Pågripelse kan ikke besluttes når det vil være et uforholdsmessig inngrep, jf. § 170 a andre punktum. Dersom mistenkte er under 18 år, fastslår § 174 at pågripelse «ikke \[bør\] skje hvis det ikke er særlig påkrevd».
+
+Pågripelse besluttes i utgangspunktet av påtalemyndigheten, jf. § 175 første ledd første punktum. Polititjenestepersoner har likevel kompetanse til å beslutte pågripelse «\[n\]år det er fare ved opphold», jf. § 176 første ledd første punktum. I tillegg kan polititjenestepersoner og andre beslutte pågripelse «dersom den mistenkte treffes eller forfølges på fersk gjerning eller ferske spor», jf. § 176 første ledd andre punktum.
+
+### Forbudet mot vilkårlige frihetsberøvelser mv.
+
+Etter Grunnloven § 94 første ledd må en frihetsberøvelse, herunder en pågripelse, ha grunnlag i lov, være nødvendig og ikke utgjøre et uforholdsmessig inngrep. Grunnloven § 94 ble innført ved grunnlovsrevisjonen i 2014, som en videreføring og utvidelse av den tidligere bestemmelsen i Grunnloven § 99, jf. Dokument 16 (2011–2012) punkt 22.6 side 116–117. Det må være forholdsmessighet mellom mål og middel, samtidig som det heller ikke kan foreligge noen form for myndighetsmisbruk, jf. Dokument 16 (2011–2012) punkt 22.6 side 116.
+
+Grunnloven § 94 ble utformet etter inspirasjon fra særlig EMK artikkel 5, som oppstiller krav til og skranker for frihetsberøvelser, herunder pågripelser. Formålet er å forby vilkårlige frihetsberøvelser, jf. Kjølbro, *Den Europæiske Menneskerettighedskonvention – for praktikere* (6. utgave, København 2023) side 422 med videre henvisninger. Artikkel 5 nr. 1 fastsetter at frihetsberøvelse bare kan bare skje i tilfeller som nevnt nr. 1 bokstav a til f og i samsvar med lov. Artikkel 5 nr. 1 bokstav c åpner for pågripelse av en person for å fremstille vedkommende for den kompetente rettslige myndighet dersom pågripelsen er i samsvar med en fremgangsmåte foreskrevet ved lov og det foreligger en rimelig mistanke om at personen har begått en straffbar handling, eller når det er rimelig grunn til å anse pågripelse som nødvendig for å hindre vedkommende i å begå en straffbar handling eller i å flykte etter å ha gjort det.
+
+Barnekonvensjonen artikkel 37 bokstav b fastsetter at pågripelse, frihetsberøvelse eller fengsling av et barn bare er tillatt «as a measure of last resort». Artikkel 37 bokstav b er forstått slik at pågripelse, frihetsberøvelse eller fengsling av et barn bare kan skje der andre alternative tiltak ikke kan benyttes, se Prop. 135 L (2010–2011) *Endringer i straffeloven, straffeprosessloven, straffegjennomføringsloven, konfliktrådsloven m.fl. (barn og straff)* punkt 7.1.1 side 49. Under henvisning til barnekonvensjonen artikkel 37 bokstav b fremholdt Menneskerettighetsutvalget at det skal mye til før frihetsberøvelse overfor barn vil være forholdsmessig etter Grunnloven § 94 første ledd, jf. Dokument 16 (2011–2012) punkt 22.6 side 117. Det ble i den forbindelse også vist til Grunnloven § 104, der vernet om barns personlige integritet er særlig fremhevet.
+
+### Svensk og dansk rett
+
+I svensk rett er adgangen til straffeprosessuell frihetsberøvelse som ledd i etterforskning regulert i rättegångsbalken 24 kap. Det kan grovt sett skilles mellom «anhållande» og «häktning». Häktning besluttes av retten og tilsvarer varetektsfengsling i norsk straffeprosess. Anhållande besluttes av påtalemyndigheten og tilsvarer pågripelse etter norsk rett. I tillegg kan «gripande» nevnes, som er frihetsberøvelse som besluttes av politiet. Gripande er en provisorisk form for frihetsberøvelse som kan benyttes av politiet frem til påtalemyndigheten har tatt stilling til spørsmålet om anhållande.
+
+I dansk rett reguleres frihetsberøvelse som straffeprosessuelt tvangsmiddel av reglene om «anholdelse» og «varetægtsfængsling». Anholdelse reguleres av retsplejeloven kap. 69, mens varetægtsfængsling reguleres av retsplejeloven kap. 70. Anholdelse er ment som en kortvarig frihetsberøvelse som normalt besluttes av politiet, mens varetægtsfængsling omfatter mer langvarig frihetsberøvelse som skal besluttes av retten. Dette tilsvarer forholdet mellom pågripelse og varetektsfengsling etter norsk straffeprosesslov.
+
+For en nærmere omtale av vilkårene for «annhållande» og «gripande» etter rättegångsbalken 28 kap. og «anholdelse» etter retsplejeloven kap. 69 vises det til NOU 2024: 12 punkt 14.3.3. Når det gjelder adgangen til pågripelse i mindre alvorlige narkotikasaker, er det i svensk rett normalt ikke grunnlag for dette, se utredningen punkt 14.3.3 side 259. Pågripelse kan imidlertid besluttes hvis lovbryteren har ukjent identitet eller det er fare for at lovbryteren unndrar seg strafforfølgningen ved å forlate landet. I dansk rett er erverv og besittelse av mindre mengder narkotika til egen bruk et straffbart forhold som i utgangspunktet oppfyller vilkårene for pågripelse, se utredningen punkt 14.3.3 side 259.
+
+### Rushåndhevingsutvalgets forslag
+
+Utvalget foreslår en hjemmel for pågripelse av den som mistenkes for bruk av narkotika eller erverv eller innehav av narkotika til egen bruk innenfor terskelverdiene, se NOU 2024: 12 punkt 14.3.5 side 260. Utvalget viser til at strafferammen i den foreslåtte bestemmelsen om mindre narkotikaovertredelser innebærer at den som mistenkes for befatning med narkotika til egen bruk, i utgangspunktet ikke vil kunne pågripes. Bare den særlige hjemmelen i straffeprosessloven § 173 andre ledd om unndragelsesfare vil åpne for pågripelse. Etter utvalgets syn er det behov for en hjemmel for pågripelse av den som mistenkes for mindre narkotikaovertredelser, ikke minst med henblikk på unndragelsesfare. Utvalget mener imidlertid at en slik hjemmel ikke bør begrenses til unndragelsesfare, da pågripelse også kan være aktuelt på grunn av bevisforspillelsesfare, for eksempel i forbindelse med ransaking eller ved kroppslig undersøkelse.
+
+Utvalget foreslår å gi hjemmel for pågripelse ved å tilføye den foreslåtte straffebestemmelsen til straffeprosessloven § 171 andre ledd, som i dag åpner for at pågripelse kan skje overfor den som med skjellig grunn mistenkes for mindre tyveri etter straffeloven § 323.
+
+### Høringsinstansenes syn
+
+Høringsinstansene som har hatt merknader til utvalgets forslag til lovendring for å videreføre pågripelsesadgangen ved mistanke om mindre narkotikaovertredelser, er *Nordland politidistrikt*, *riksadvokaten*, *Vest politidistrikt* og *Øst politidistrikt*. *Nordland politidistrikt* er i det vesentlige enig i utvalgets vurderinger og forslag til lovendring. *Vest politidistrikt* er enige i at det fortsatt bør være adgang til pågripelse etter straffeprosessloven § 171, men bemerker at pågripelse i disse sakene «i de fleste tilfeller fort vil være et uforholdsmessig inngrep». *Øst politidistrikt*, som også synes å stille seg positive til utvalgets forslag, uttaler følgende:
+
+«Det kan forekomme tilfeller hvor pågripelse for slike overtredelser kan være aktuelt. Eksempelvis kan det være aktuelt med en kortere pågripelse i tilfeller hvor det gjøres funn av narkotika og det er tilstrekkelige holdepunkter for å tro at det er flere gjerningspersoner eller mer narkotika. Dette er likevel sjeldent en veldig aktuell problemstilling i saker som omhandler mindre mengde narkotika, og disse sakene vil ofte være ferdig etterforsket på stedet.»
+
+*Riksadvokaten* viser i sitt høringssvar til sin uttalelse i brev 13. mai 2022 om at «skjellig grunn til mistanke om en rusavhengig befatning med narkotika til egen bruk som skal avgjøres med ubetinget påtaleunnlatelse \[…\], danner ikke grunnlag for straffeprosessuelle tvangsmidler, utover beslag av synlig narkotika», og uttaler deretter:
+
+«Standpunktet, som er nærmere behandlet i notat vedlagt brevet, gjelder naturlig nok også de tvangsmidler utvalget stiller spørsmål om. Overfor andre vil riksadvokaten anta – som et alminnelig utgangspunkt – at pågripelse vil være uforholdsmessig i saker der mistanken kun gjelder bruk eller innehav av små mengder narkotika til egen bruk. En vil imidlertid ikke utelukke at det i spesielle tilfeller etter omstendighetene kan være grunnlag for kortvarig pågripelse, for eksempel i tilfeller der pågripelsen anses nødvendig for å hindre at siktede unndrar seg straff.»
+
+Etter hva departementet kan se, er det ingen høringsinstanser som har uttalt seg negativt om utvalgets forslag til endring i straffeprosessloven § 171 direkte. Det er imidlertid flere som generelt gir uttrykk for at de er kritiske til forslag som legger til rette for fortsatt bruk av tvangsmidler ved etterforskning av mindre narkotikaovertredelser. Dette gjelder blant annet *Alliansen for rettighetsorientert ruspolitikk*, *Mental Helse* og *Spero*.
+
+### Departementets vurdering
+
+Departementet er enig med utvalget i at det fortsatt bør være hjemmel for pågripelse ved mistanke om en mindre alvorlig narkotikaovertredelse, og at pågripelsesadgangen ikke bør være begrenset til unndragelsesfare. Departementet opprettholder på denne bakgrunnen utvalgets forslag om å tilføye en henvisning til den foreslåtte straffebestemmelsen om befatning med mindre mengder narkotika til egen bruk i straffeprosessloven § 171 andre ledd, som følge av at tillegget «eller begge deler» i legemiddelloven § 31 andre ledd ikke beholdes, se punkt 4.8.3. Departementet vil samtidig understreke at pågripelse i disse tilfellene sjelden vil oppfylle forholdsmessighetskravet etter straffeprosessloven § 170 a andre punktum. Som riksadvokaten påpeker, kan det likevel ikke utelukkes at en kortvarig pågripelse i spesielle tilfeller kan være forholdsmessig, for eksempel der pågripelsen er nødvendig for å hindre at siktede unndrar seg straff.
+
+Som påpekt av utvalget vil tilføyelsen av en slik henvisning i straffeprosessloven § 171 andre ledd formelt sett også åpne for varetektsfengsling på samme vilkår, jf. straffeprosessloven § 184 andre ledd. Dette vil imidlertid ikke innebære noen endring sammenlignet med gjeldende rett, jf. straffeloven § 231 og legemiddelloven § 24, jf. § 31, som begge oppfyller strafferammekravet i straffeprosessloven § 171.

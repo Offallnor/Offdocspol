@@ -1,868 +1,262 @@
-# Prop. 146 L (2020–2021), del 14 av 18 (side 145–155)
+# Prop. 146 L (2020–2021), del 14 av 22
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2021/453140c0-prop-146-l-20202021.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-146-l-20202021/id2842936/
 - Original-PDF: https://www.regjeringen.no/contentassets/31813156b60a47eeb3c2aff703c50db4/no/pdfs/prp202020210146000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 1 tabell, 21 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 145]
-
-2020–2021
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-gen. Etter forslaget har retten også mulighet til å
-knytte oppnevningen til bestemte gjøremål, for
-eksempel å tilrettelegge grunnlaget for et sivilt
-krav som skal fremmes under hovedforhandlingen. Hjemmelen foreslås ikke avgrenset til
-bestemte sakstyper. Den er videre ment å gjelde
-uavhengig av om fornærmede eller etterlatte har
-ubetinget rett til bistandsadvokat, eller om
-bistandsadvokat oppnevnes på skjønnsmessig
-grunnlag.
-Som nevnt i punkt 16.2 tar ikke departementet
-i denne omgang stilling til om bistandsadvokatens
-oppdrag også bør kunne avgrenses til et bestemt
-antall timer. Forslaget i proposisjonen her åpner
-derfor ikke for en slik timebegrensning.
-Enkelte høringsinstanser har gitt uttrykk for
-at det er uklart hvilken betydning utvalgets forslag får for bistandsadvokatens rett til å være til
-stede i avhør av fornærmede. Departementet har
-ikke forstått utvalgets forslag slik at det er ment å
-begrense bistandsadvokatens rett til å være til
-stede når fornærmede avhøres. En tilsvarende
-begrensning som er foreslått for rettsmøter,
-åstedsbefaringer, rekonstruksjoner og lignende –
-om at bistandsadvokatens har rett til å være til
-stede «i nødvendig utstrekning» – er ikke inntatt i
-bestemmelsen som regulerer bistandsadvokatens
-rett til tilstedeværelse i politiavhør av fornærmede, jf. utvalgets lovutkast § 4-5 annet ledd bokstav b. Departementet går heller ikke inn for en
-slik begrensning. Formålet med forslaget er å
-redusere bistandsadvokatens tidsbruk på de deler
-av straffesaken som ikke er relevant for fornærmedes rettsstilling. Deltakelse i avhør av fornærmede ligger derimot i kjernen av oppdraget som
-bistandsadvokat.
-Etter forslaget er det retten som treffer beslutningen om å avgrense bistandsadvokatens oppdrag. Departementet finner imidlertid grunn til å
-understreke at beslutningen bør treffes etter dialog med bistandsadvokaten og påtalemyndigheten
-om behovet for bistand og tilstedeværelse. Når
-det gjelder bistandsadvokatens tilstedeværelse
-under hovedforhandling, bør dette søkes avklart
-under saksforberedelsen for å skape mest mulig
-forutberegnelighet for aktørene. Det bør likevel
-ikke stenges for at retten kan treffe beslutning om
-dette også etter at hovedforhandlingen er påbegynt.
-Utvalget har ikke uttalt seg om hvorvidt rettens beslutning om avgrensning av oppdraget skal
-kunne ankes. Departementet mener at beslutningen bør kunne ankes, jf. hovedregelen i straffeprosessloven § 377 første ledd. For fornærmede
-
-143
-
-og etterlatte vil dette utgjøre en rettssikkerhetsgaranti. En ankerett kan i tillegg bidra til å avklare
-enkelte avgrensningsspørsmål mer prinsipielt.
-
-16.3 Oppnevning av felles
-bistandsadvokat
-16.3.1 Gjeldende rett
-Etter gjeldende rett er utgangspunktet at fornærmede eller etterlatte fritt kan velge bistandsadvokat, jf. straffeprosessloven § 107 b annet ledd
-annet punktum. Retten kan likevel oppnevne en
-annen advokat dersom oppnevnelsen av den
-ønskede advokaten vil føre til forsinkelse av betydning for saken, eller dersom forholdene ellers gjør
-det utilrådelig å oppnevne advokaten, jf. annet
-ledd tredje og fjerde punktum. Straffeprosessloven åpner ikke uttrykkelig for at retten kan
-beslutte at flere fornærmede eller etterlatte skal
-representeres av en felles bistandsadvokat. Det er
-på den annen side ingen holdepunkter i loven for
-at det ikke er anledning til å oppnevne en felles
-bistandsadvokat så lenge prinsippet om fritt advokatvalg ivaretas.
-16.3.2 Straffeprosessutvalgets forslag
-Straffeprosessutvalget foreslår å åpne for at retten
-kan bestemme at flere fornærmede eller etterlatte
-skal representeres av en felles bistandsadvokat, jf.
-utredningen punkt 10.3.7 side 229–230 og lovutkastet § 4-11 annet ledd tredje punktum. Etter
-utvalgets forslag er det et vilkår for oppnevning av
-felles bistandsadvokat at det ikke er holdepunkter
-for at det foreligger eller kan oppstå motstridende
-interesser mellom de klientene bistandsadvokaten
-oppnevnes for å representere. I tillegg må oppnevning av felles bistandsadvokat være hensiktsmessig for gjennomføringen av saken på grunn av
-antallet fornærmede og etterlatte med krav på
-bistandsadvokat, sakens omfang og kompleksitet,
-prosessøkonomiske hensyn eller andre særlige
-forhold, jf. opplistingen i lovutkastet § 4-11 annet
-ledd bokstav a til d.
-Utvalget fremholder at oppnevning av felles
-bistandsadvokat typisk vil være aktuelt i saker
-med flere fornærmede. I svært store saker må
-imidlertid retten vurdere om det er mer hensiktsmessig med koordinerende bistandsadvokat.
-Utvalget uttaler at det også kan være aktuelt med
-flere felles bistandsadvokater og én eller flere
-koordinerende.
-
-[Side 146]
-
-144
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-16.3.3 Høringsinstansenes syn
-Under høringen uttrykker følgende høringsinstanser støtte til forslaget om å åpne for at retten
-kan gi pålegg om felles bistandsadvokat: Advokatfirmaet Salomon Johansen AS, Advokatforeningen,
-Agder politidistrikt, Domstoladministrasjonen, Frostating lagmannsrett, Gulating lagmannsrett, Hordaland statsadvokatembeter, Kripos, Kristiansand
-tingrett, Nordland politidistrikt, Nordland statsadvokatembeter, Nord-Troms tingrett, Oslo tingrett,
-Politidirektoratet, Riksadvokaten, Rettspolitisk
-forening, Rogaland statsadvokatembeter, Statens
-sivilrettsforvaltning, Stine Sofies Stiftelse og Trøndelag statsadvokatembeter. Det er ingen høringsinstanser som har gått imot forslaget.
-Flere høringsinstanser, herunder Agder politidistrikt, Gulating lagmannsrett, Kripos, Kristiansand tingrett og Politidirektoratet, fremholder at
-bruk av felles bistandsadvokat vil kunne være ressursbesparende. Rogaland statsadvokatembeter
-viser til at bistandsadvokaten sammenlignet med
-aktor og forsvarer har en relativt begrenset rolle
-under hovedforhandling, og at flere bistandsadvokater ofte kan være til stede i mange dager i retten
-uten å ha andre oppgaver enn å være til stede.
-Nord-Troms tingrett og Gulating lagmannsrett uttaler seg i samme retning. Flere av høringsinstansene bemerker at det i praksis sjelden foreligger
-noen interessekonflikt mellom de fornærmede
-eller etterlatte, og at en felles bistandsadvokat derfor kan følge opp de fornærmede eller etterlatte
-på en tilfredsstillende måte. For eksempel uttaler
-Kripos:
-«Kripos’ erfaring er at mange av de fornærmede, i motsetning til de mistenkte, har sammenfallende interesser, og det kan i den sammenheng være både hensiktsmessig og ressursbesparende at én bistandsadvokat bistår
-flere fornærmede. Et eksempel på dette er
-serieovergrepssaker hvor det ofte er mange
-fornærmede med sammenfallende interesser.
-Det vil også kunne være aktuelt i en del saker
-som gjelder seksuell handling med barn under
-16 år, hvor vår erfaring er at det ikke sjelden er
-flere fornærmede i sak mot samme gjerningsperson.»
-Nordland statsadvokatembeter uttaler at felles
-bistandsadvokat kan være svært praktisk i familievoldssaker. Domstoladministrasjonen peker på at
-felles bistandsadvokat innebærer at domstolene
-får færre profesjonelle aktører de må kontakte, og
-
-2020–2021
-
-som det må passe for å møte i en hovedforhandling.
-Advokatforeningen understreker betydningen
-av at felles bistandsadvokat oppnevnes så tidlig
-som mulig i prosessen, slik at man unngår at den
-fornærmede eller etterlatte må bytte bistandsadvokat. Hordaland statsadvokatembeter gir uttrykk
-for lignende synspunkter i sin høringsuttalelse,
-men uttaler samtidig at bytte av bistandsadvokat
-bør skje i større utstrekning enn i dag, såfremt det
-ikke foreligger interessekonflikt mellom de fornærmede eller etterlatte. Hordaland statsadvokatembeter bemerker at hensynet til det frie advokatvalg ikke står like sterkt for fornærmede og
-etterlatte som for mistenkte. Det samme fremholdes av Gulating lagmannsrett og Nord-Troms tingrett.
-Advokatfirmaet Salomon Johansen AS uttaler
-på sin side at fornærmedes rett til fritt advokatvalg
-må gjelde i saker hvor fornærmede allerede har
-fått oppnevnt en bistandsadvokat som vedkommende har fått tillit til, og som han eller hun
-ønsker å benytte. Rettspolitisk forening bemerker
-at de fornærmede kan bo veldig spredt, slik at
-noen fornærmede vil ha behov for en lokal
-bistandsadvokat.
-Enkelte høringsinstanser argumenterer for at
-loven bør legge opp til at felles bistandsadvokat
-oppnevnes i større utstrekning enn det utvalget
-foreslår. Kristiansand tingrett mener at lovens
-utgangspunkt bør være at felles bistandsadvokat
-skal oppnevnes dersom det ikke foreligger
-interessemotsetninger – ikke at retten kan oppnevne felles bistandsadvokat i disse tilfellene. Oslo
-tingrett uttaler i sitt høringssvar:
-«I tillegg til de kriterier som utvalget foreslår
-kan tilsi pålegg om felles bistandsadvokat foreslår Oslo tingrett også at retten skal kunne
-pålegge dette når det ikke er ‘rimelig grunn til
-å velge forskjellig bistandsadvokat’. Vi har sett
-eksempler på at det i samme sak begjæres oppnevnt to forskjellige bistandsadvokater for to
-mindreårige fornærmede søsken med samme
-verge, selv om det helt klart ikke foreligger
-motstridene interesser. I slike og lignende tilfeller må retten kunne pålegge felles bistandsadvokat.»
-Oslo tingrett peker for øvrig på at terskelen for å
-oppnevne felles bistandsadvokat bør være lavere i
-saker hvor fornærmede ikke har ubetinget rett til
-bistandsadvokat, altså i saker hvor bistandsadvokat oppnevnes etter den skjønnsmessige regelen i
-straffeprosessloven § 107 a tredje ledd.
-
-[Side 147]
-
-2020–2021
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-16.3.4 Departementets vurdering
-Departementet mener i likhet med utvalget at det
-bør åpnes for at retten kan beslutte at flere fornærmede eller etterlatte skal representeres av en
-felles bistandsadvokat. Oppnevning av felles
-bistandsadvokat vil kunne gjøre et innhugg i prinsippet om fritt advokatvalg. Samtidig er det av ressurshensyn lite hensiktsmessig å oppnevne flere
-forskjellige bistandsadvokater i tilfeller der en felles advokat kan utføre oppdraget for flere fornærmede eller etterlatte på en forsvarlig måte. Utvalgets forslag på dette punkt fikk støtte av samtlige
-av høringsinstansene som uttalte seg. Departementet viser også til at et tilsvarende forslag tidligere er fremsatt av Bistandsadvokatprosjektet i
-Oslo tingrett.
-I tråd med utvalgets forslag går departementet
-inn for at retten skal kunne oppnevne felles
-bistandsadvokat dersom antallet fornærmede
-eller andre med krav på bistandsadvokat, sakens
-omfang og kompleksitet, prosessøkonomiske
-hensyn eller andre særlige forhold gjør at det
-anses hensiktsmessig, jf. lovforslaget § 107 b nytt
-fjerde ledd. I likhet med enkelte høringsinstanser
-legger departementet til grunn at felles bistandsadvokat typisk vil være aktuelt i saker med mange
-fornærmede, slik som serieovergrepssaker, eller i
-saker om vold i nære relasjoner. Hjemmelen for
-oppnevning av felles bistandsadvokat foreslås
-imidlertid ikke avgrenset til bestemte sakstyper.
-For at oppnevning av felles bistandsadvokat
-ikke skal være betenkelig, er det en forutsetning
-at de fornærmede eller etterlatte som bistandsadvokaten skal representere, har sammenfallende
-interesser i saken. Det foreslås derfor at felles
-bistandsadvokat bare skal kunne oppnevnes når
-det ikke foreligger eller kan oppstå motstridende
-interesser mellom de fornærmede eller etterlatte.
-Vurderingen av om det foreligger en slik interessekonflikt må foretas av retten før den treffer
-beslutningen om oppnevning av felles bistandsadvokat, men også underveis i straffesaken.
-Oslo tingrett har tatt til orde for å supplere
-utvalgets forslag med en bestemmelse om at retten kan pålegge felles bistandsadvokat når det
-«ikke er rimelig grunn til å velge forskjellig
-bistandsadvokat». Etter departementets syn vil
-den foreslåtte ordlyden i § 107 b nytt fjerde ledd
-fange opp den situasjonen som Oslo tingrett
-beskriver, slik at det ikke synes å være behov for
-en slik tilføyelse i lovteksten.
-Etter departementets oppfatning bør ikke terskelen for å oppnevne felles bistandsadvokat være
-prinsipielt forskjellig i saker der de fornærmede
-
-145
-
-eller etterlatte har ubetinget rett til bistandsadvokat og i saker der bistandsadvokat oppnevnes
-etter den skjønnsmessige regelen i straffeprosessloven § 107 a tredje ledd. Det styrende bør i
-alle tilfeller være om forholdene i saken ligger slik
-an at oppnevning av felles bistandsadvokat fremstår som hensiktsmessig.
-Departementet har vurdert innspillet fra Kristiansand tingrett om at lovens utgangspunkt bør
-være at retten skal oppnevne felles bistandsadvokat dersom vilkårene først er oppfylt, og ikke at
-retten kan gjøre dette, slik utvalget har foreslått.
-Etter departementets syn vil det føre for langt å
-pålegge retten en plikt til å oppnevne felles
-bistandsadvokat der vilkårene er oppfylt, særlig
-fordi vurderingen av om felles bistandsadvokat
-skal oppnevnes vil være nokså skjønnspreget.
-Departementet finner likevel grunn til å bemerke
-at felles bistandsadvokat bør oppnevnes der forholdene ligger til rette for det. Det forutsettes
-altså at retten benytter bestemmelsen aktivt. Retten bør alltid vurdere om det er hensiktsmessig
-med felles bistandsadvokat i saker med flere fornærmede eller etterlatte.
-Når retten beslutter oppnevning av felles
-bistandsadvokat, vil utgangspunktet fortsatt være
-at de fornærmede eller etterlatte fritt kan velge
-advokat, forutsatt at de er enige om hvilken
-bistandsadvokat som skal velges. De lovbestemte
-begrensningene i det frie bistandsadvokatvalget
-vil imidlertid gjelde også her, jf. straffeprosessloven § 107 b annet ledd tredje og fjerde punktum.
-Det innebærer at retten kan oppnevne en annen
-bistandsadvokat dersom oppnevnelsen av den
-ønskede advokaten vil føre til forsinkelse av betydningen for saken, eller dersom forholdene ellers
-gjør det utilrådelig å oppnevne advokaten.
-Hvis de fornærmede eller etterlatte er uenige
-om valget av felles bistandsadvokat, vil retten
-måtte avgjøre hvilken advokat som skal oppnevnes. Det er vanskelig å oppstille noen presise kriterier for rettens valg av advokat i et slikt tilfelle.
-Valget må foretas etter en helhetsvurdering der
-relevante momenter blant annet kan være hvem
-som er utsatt for det mest alvorlige lovbruddet,
-hvilken advokat som er ønsket av flertallet og hvilken advokat som fremstår som best egnet for oppdraget. Hvis de fornærmede eller etterlatte ikke
-har ønske om en bestemt felles bistandsadvokat,
-skal retten på vanlig måte oppnevne en av de faste
-bistandsadvokatene, jf. straffeprosessloven § 107
-b annet ledd femte punktum.
-Departementet er enig med Advokatforeningen og Hordaland statsadvokatembeter i at felles
-bistandsadvokat bør søkes oppnevnt så tidlig som
-
-[Side 148]
-
-146
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-mulig, slik at man unngår at fornærmede eller
-etterlatte må bytte bistandsadvokat underveis i
-straffesaken. Etter departementets syn bør imidlertid ikke oppnevning av felles bistandsadvokat
-uten videre være utelukket fordi en fornærmet
-eller etterlatt har forholdt seg til en annen advokat
-på et tidligere stadium i prosessen. Oppnevning av
-felles bistandsadvokat bør etter omstendighetene
-kunne gi grunnlag for et pålegg fra retten om
-advokatbytte, jf. straffeprosessloven § 107 b femte
-ledd, jf. § 105. At den fornærmede eller etterlatte
-allerede har fått et sterkt tillitsforhold til en
-bestemt bistandsadvokat, vil imidlertid være et
-moment i vurderingen av om felles bistandsadvokat skal oppnevnes.
-Departementet legger til grunn at felles
-bistandsadvokater gjennomgående bør tas i bruk
-før det oppnevnes koordinerende bistandsadvokat
-etter straffeprosessloven § 107 h, jf. punkt 16.4
-nedenfor. I svært store straffesaker vil det, slik
-også utvalget gir uttrykk for, kunne være aktuelt
-med en kombinasjon av flere felles bistandsadvokater og én eller flere koordinerende. Felles
-bistandsadvokat kan oppnevnes for hele eller
-deler av oppdraget.
-Avgjørelse om oppnevning av felles bistandsadvokat vil treffes av retten ved beslutning. Departementet mener at beslutningen om å oppnevne
-felles bistandsadvokat, og rettens valg av en
-bestemt advokat til oppdraget, bør kunne angripes
-ved anke, jf. straffeprosessloven § 377 første ledd.
-Den felles bistandsadvokaten skal – på samme
-måte som bistandsadvokater som kun har én klient – ivareta de fornærmedes eller etterlattes
-interesser i straffesaken. Valget av en bestemt felles advokat vil derfor kunne være av stor betydning for de fornærmede eller etterlatte. Spørsmålet om anke skiller seg på den måten fra spørsmålet om anke over rettens valg av en bestemt koordinerende bistandsadvokat, fordi den koordinerende bistandsadvokaten i hovedsak har en rent
-praktisk og samordnende funksjon, jf. straffeprosessloven § 107 h tredje ledd og punkt 16.4.4
-nedenfor.
-
-16.4 Senket terskel for oppnevning av
-koordinerende bistandsadvokat
-16.4.1 Gjeldende rett
-Straffeprosessloven § 107 h åpner for at retten kan
-oppnevne én eller flere koordinerende bistandsadvokater. Bestemmelsen kom inn i straffeprosessloven ved lov 30. mars 2012 nr. 14 om
-endringer i voldsoffererstatningsloven og straffe-
-
-2020–2021
-
-prosessloven, i etterkant av terrorhandlingene 22.
-juli 2011. Formålet med ordningen er å ivareta
-behovet for samordning i straffesaker med et høyt
-antall aktører og et spesielt vanskelig sakskompleks, slik som straffesaken etter 22. juli 2011 og
-«Lommemann-saken», jf. Prop. 65 L (2011–2012)
-punkt 9.4 side 35 og punkt 11.1 side 40.
-Hjemmelen for oppnevning av koordinerende
-bistandsadvokat er begrenset til saker hvor antallet fornærmede og andre med bistandsadvokat og
-sakens omfang og kompleksitet for øvrig gjør at
-det anses hensiktsmessig å oppnevne koordinerende bistandsadvokat, jf. første ledd. Vilkårene
-er kumulative.
-Den koordinerende bistandsadvokatens oppgaver er angitt i § 107 h annet ledd. Koordinerende bistandsadvokat skal, så langt det er mulig,
-samordne bistandsadvokatenes syn på spørsmål
-som oppstår under etterforskingen og forberedelsen av hovedforhandlingen, og bidra til en hensiktsmessig gjennomføring av saken i samarbeid
-med øvrige aktører. Dersom det er nødvendig for
-en hensiktsmessig gjennomføring av saken, kan
-retten beslutte at spørsmål som den enkelte
-bistandsadvokat ønsker stilt under etterforsking,
-bevisopptak og hovedforhandling til andre enn
-egen klient, jf. straffeprosessloven § 271 annet
-ledd annet punktum og § 291 a, skal samordnes
-og stilles av koordinerende bistandsadvokat.
-Beslutningen om det skal oppnevnes koordinerende bistandsadvokat, kan ankes etter hovedregelen i straffeprosessloven § 377 første ledd. Rettens valg av koordinerende bistandsadvokat kan
-derimot ikke ankes, jf. § 107 h tredje ledd.
-
-16.4.2 Straffeprosessutvalgets forslag
-Straffeprosessutvalget går inn for å videreføre
-muligheten for å oppnevne koordinerende
-bistandsadvokater, og foreslår også at den koordinerende bistandsadvokatens oppgaver skal være
-som i dag, jf. utredningen punkt 10.3.8 side 230 og
-lovutkastet § 4-10. Utvalgets inntrykk er at aktørene er fornøyde med ordningen.
-Utvalget mener imidlertid at det også i andre
-tilfeller enn de store og komplekse straffesakene
-– som ordningen opprinnelig var ment for – bør
-være mulig å oppnevne koordinerende advokat
-hvis det er gunstig for gjennomføringen av saken.
-I lys av dette går utvalget inn for å fjerne dagens
-vilkår for oppnevning av koordinerende bistandsadvokat. Etter utvalgets forslag kan retten oppnevne koordinerende bistandsadvokat «når det er
-hensiktsmessig». Om den konkrete vurderingen
-
-[Side 149]
-
-2020–2021
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-147
-
-av om koordinerende bistandsadvokat skal oppnevnes, uttaler utvalget på side 560 i utredningen:
-
-klient i saker der skade og skadeomfang har et
-individuelt tilsnitt.»
-
-«Vurderingen av om det skal oppnevnes koordinerende bistandsadvokat, skal ta utgangspunkt i antallet fornærmede og andre med
-bistandsadvokat, og sakens omfang og kompleksitet. Den typiske sak der det er behov for
-ordningen, vil være stor, med mange fornærmede. Men det bør også ellers søkes oppnevnt
-koordinerende bistandsadvokat når det vil
-være praktisk og prosessøkonomisk nyttig at
-én person har en samordnende rolle.»
-
-Oslo tingrett advarer mot at rettens valg av koordinerende bistandsadvokat skal kunne ankes:
-
-Utvalgets lovutkast inneholder ingen bestemmelse tilsvarende straffeprosessloven § 107 h
-tredje ledd om at rettens valg av koordinerende
-bistandsadvokat ikke skal kunne ankes. I spesialmerknadene til lovutkastet § 4-10 på side 560 i
-utredningen uttales det at beslutningen om å oppnevne eller ikke oppnevne koordinerende
-bistandsadvokat, og rettens valg av advokat til
-oppdraget, skal kunne angripes ved anke. Endringen er ikke nærmere begrunnet av utvalget.
-
-16.4.3 Høringsinstansenes syn
-Av de ti høringsinstansene som har uttalt seg,
-støtter samtlige forslaget om å senke terskelen for
-bruk av koordinerende bistandsadvokat. Disse er
-Advokatforeningen, Domstoladministrasjonen, Hordaland statsadvokatembeter, Kripos, Oslo tingrett,
-Politidirektoratet, Riksadvokaten, Stine Sofies Stiftelse, Troms politidistrikt og Trøndelag statsadvokatembeter.
-Domstoladministrasjonen uttaler at en koordinerende bistandsadvokat kan være effektiviserende i større saker, idet dette begrenser antall
-profesjonelle parter domstolen må forholde seg
-til. Troms politidistrikt fremholder at de har gode
-erfaringer med bruk av koordinerende bistandsadvokat. Advokatforeningen peker på at ordningen
-med koordinerende bistandsadvokat er praktisk,
-og at ordningen med fordel kan benyttes i større
-utstrekning enn i dag. I tillegg uttaler Advokatforeningen seg om avgrensningen av den koordinerende bistandsadvokatens oppgaver:
-«Ved bruk av koordinerende bistandsadvokater bør ansvaret for vitneavhør knyttet til den
-enkelte fornærmedes sak, ligge hos den
-enkelte fornærmedes bistandsadvokat. Den
-enkelte fornærmedes bistandsadvokat bør
-også som hovedregel ha ansvar for å fremme
-og prosedere erstatningskrav på vegne av sin
-
-«Erfaringsmessig vil valg av koordinerende
-bistandsadvokater kunne skape uro fordi
-sakene hvor det er aktuelt å oppnevne dette
-ofte vil berøre mange mennesker sterkt. Uroen
-vil kunne forsterkes hvis valget blir gjenstand
-for rettslig strid. Det sier seg selv at rettens
-valg av advokat vil bygge på en svært skjønnsmessig vurdering. Det vil i større saker være
-nødvendig at vedkommende er praktisk anlagt,
-fleksibel, pålitelig, med stor arbeidskapasitet,
-gode samarbeidsevner og stor forståelse for de
-utfordringer gjennomføringen av større saker
-med mange aktører medfører for alle involverte. Å skulle begrunne et slikt valg i en
-beslutning og særlig hvorfor man velger en
-advokat fremfor en annen vil by på utfordringer. Den domstol som har saken til behandling
-vil være nærmest til å foreta en avveining mellom de ulike hensyn som bør vektlegges i valg
-av advokat/advokater til oppdraget.»
-
-16.4.4 Departementets vurdering
-Som utvalget går departementet inn for å videreføre muligheten for å oppnevne en eller flere koordinerende bistandsadvokater. Departementet
-deler utvalgets oppfatning om at ordningen fungerer godt. Høringen etterlater også et klart inntrykk av dette.
-De positive erfaringene med ordningen tilsier
-etter departementets syn at det bør legges til rette
-for at koordinerende bistandsadvokater kan
-benyttes i større utstrekning enn i dag. Departementet slutter seg derfor til utvalgets forslag om
-at hjemmelen for oppnevning ikke lenger avgrenses til saker med et høyt antall aktører og et spesielt vanskelig sakskompleks. Selv om behovet for
-koordinering særlig vil oppstå i store og kompliserte straffesaker med mange aktører, bør ikke
-loven stenge for at koordinerende bistandsadvokat kan oppnevnes også i andre tilfeller der det
-fremstår som hensiktsmessig at én person har en
-samordnende rolle. Høringen viste bred støtte til
-utvalgets forslag på dette punkt. Departementet
-nevner også at et tilsvarende endringsforslag er
-anbefalt i evalueringsrapporten fra Oxford Research og Menon Economics, og i Advokatforeningens rapport om retten til forsvarer og bistandsadvokat. I tillegg har Bistandsadvokatprosjektet i
-
-[Side 150]
-
-148
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-Oslo tingrett tatt til orde for at ordningen med
-koordinerende bistandsadvokat bør videreutvikles.
-Departementet finner grunn til å understreke
-at de store og kompliserte straffesakene fortsatt
-skal utgjøre kjerneområdet for ordningen med
-koordinerende bistandsadvokat. I de mindre
-sakene bør retten i første omgang vurdere om det
-er hensiktsmessig å oppnevne én eller flere felles
-bistandsadvokater, jf. lovforslaget § 107 b nytt
-tredje ledd og punkt 16.3.4 foran.
-Utvalget har ikke gått nærmere inn i noen vurdering av om den koordinerende bistandsadvokatens oppgaver bør justeres noe sammenlignet
-med i dag, og det er kun én av høringsinstansene
-som har uttalt seg om avgrensningen av bistandsadvokatens oppgaver. Departementet bemerker at
-det kan reises spørsmål om den koordinerende
-bistandsadvokaten bør overta noen flere av de
-prosessuelle oppgavene som i dag er lagt til den
-enkelte bistandsadvokat. Etter departementets
-
-2020–2021
-
-syn er det imidlertid naturlig å avvente en slik vurdering inntil det er på det rene hvordan ordningen
-med felles bistandsadvokat fungerer. Departementet tar derfor ikke nærmere stilling til dette
-spørsmålet nå.
-Departementet følger ikke opp utvalgets forslag om at rettens valg av en bestemt koordinerende bistandsadvokat skal kunne ankes. Utvalget
-gir ingen nærmere begrunnelse for endringsforslaget, og departementet kjenner ikke til at gjeldende bestemmelse i § 107 h tredje ledd har ført
-til noen uheldige konsekvenser i praksis. Som
-påpekt i Prop. 65 L (2011–2012) punkt 9.4 side 36
-vil avgjørelsen av hvilken advokat som skal oppnevnes treffes ut fra en skjønnsmessig vurdering
-av hva som er mest hensiktsmessig og praktisk i
-den enkelte saken. I likhet med Oslo tingrett antar
-departementet at den domstolen som har saken til
-behandling, vil være nærmest til å foreta denne
-vurderingen.
-
-[Side 151]
-
-2020–2021
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-149
-
-17 Private straffesaker
-17.1 Gjeldende rett
-I norsk straffeprosess er hovedregelen at lovovertredelser skal påtales av det offentlige ved påtalemyndigheten, jf. straffeprosessloven § 62 a første
-ledd. Fornærmedes mulighet til å reise privat
-straffesak etter straffeprosessloven § 80, som
-viser til reglene i straffeprosessloven kapittel 28,
-gjør unntak fra dette utgangspunktet.
-Private straffesaker kan deles i to kategorier,
-jf. straffeprosessloven § 402. De ubetinget private
-straffesakene omfatter saker der fornærmede kan
-ta ut tiltale uavhengig av om påtalemyndigheten
-vil forfølge saken. De subsidiært private straffesakene omfatter tilfeller der privat straffesak er
-betinget av at påtalemyndigheten ikke vil forfølge
-forholdet, eller har frafalt en allerede påbegynt
-forfølgning uten at det er truffet beslutning om
-påtaleunnlatelse. Etter ikraftsettingen av straffeloven 2005 følger adgangen til å gå til privat straffesak for de fleste straffebud av ordningen med subsidiært private straffesaker, se blant annet Ot.prp.
-nr. 90 (2003–2004) Om lov om straff (straffeloven) punkt 4.1.5.4 side 62 flg. og straffeprosessloven § 62 a.
-I private straffesaker opptrer fornærmede selv
-som saksøker og har fulle partsrettigheter. Saken
-innledes ved at fornærmede tar ut stevning,
-jf. straffeprosessloven § 412. Stevningen trer i stedet for tiltalebeslutning og fastsetter rammen for
-domstolens kompetanse, jf. straffeprosessloven
-§ 38. For øvrig kommer reglene om offentlige
-straffesaker til anvendelse så langt de passer, jf.
-straffeprosessloven § 409.
-Retten til domstolsprøving etter EMK artikkel
-6 nr. 1 gjelder bare «civil rights and obligations».
-Høyesterett har lagt til grunn at adgangen til å
-reise privat straffesak ikke er å anse som en «civil
-right» etter bestemmelsen, jf. Rt. 2008 side 672.
-Spørsmålet om adgangen til å reise privat straffesak bør bestå, har over tid vært drøftet i flere
-sammenhenger. Straffeprosesslovkomiteen mente
-at privat påtale burde beholdes i de ubetinget private straffesakene, jf. NUT 1969: 3 Innstilling om
-rettergangsmåten i straffesaker fra Straffeprosesslovkomiteen side 117 flg. Det ble vist til at å
-
-fjerne muligheten ville gripe så dypt inn i rettsvernet mot ærekrenkelser at spørsmålet burde drøftes i sammenheng med straffansvaret for ærekrenkelser. For så vidt gjaldt de subsidiært private
-straffesakene mente flertallet i komiteen at ordningen burde avskaffes. Etter flertallets syn viste
-erfaringen at det sjelden kom noe positivt ut av
-slike saker, og at sakene innebærer en belastning
-både for partene og det offentlige. Komiteen
-hadde gjennomgått alle subsidiært private straffesaker i en periode på fem år. I perioden hadde
-ingen slike saker endt med domfellelse. Komiteens mindretall mente på sin side at adgangen
-burde beholdes og la vekt på allmennhetens tillit
-til straffesaksbehandlingen. Mindretallets syn ble
-lagt til grunn for utformingen av den gjeldende
-straffeprosessloven, jf. Ot.prp. nr. 35 (1978–79)
-om lov om rettergangsmåten i straffesaker punkt
-III B 5 side 86.
-Straffelovkommisjonen foreslo i delutredning
-VII at ordningen med private straffesaker burde
-avskaffes, jf. NOU 2002: 4 Ny straffelov punkt 7.9
-side 188. Kommisjonen viste særlig til at straffansvaret for ærekrenkelser ble foreslått vesentlig
-innskrenket, noe som ville redusere antallet private straffesaker, og at ordningen med påtalebegjæring fra fornærmede ikke ble foreslått videreført. I arbeidet med straffeloven 2005 ble vurderingen av de private straffesakene utsatt i flere
-omganger, jf. Ot.prp. nr. 90 (2003–2004) om lov
-om straff punkt 2.5 side 45, Ot.prp. nr. 22 (2008–
-2009) om lov om endringer i straffeloven 20. mai
-2005 nr. 28 punkt 14.1 side 389 og Prop. 64 L
-(2014–2015) Lov om ikraftsetting av straffeloven
-2005 (straffelovens ikraftsettingslov) punkt 6.3 side
-59.
-
-17.2 Andre nordiske lands rett
-17.2.1 Dansk rett
-I dansk rett er det alminnelige utgangspunktet at
-straffbare forhold skal forfølges av det offentlige.
-Det følger av retsplejeloven § 719 at påtalekompetanse for fornærmede eller andre krever særlig
-hjemmel.
-
-[Side 152]
-
-150
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-Det er ingen alminnelig adgang til subsidiær
-privat påtale i Danmark. Spørsmålet om hvorvidt
-det burde innføres en alminnelig adgang til subsidiær privat påtale, ble drøftet av Justisministeriets
-strafferetsplejeutvalg i 2006. Utvalget gikk imot
-dette med følgende begrunnelse:
-«[O]bjektivitetsprincippet [bør fortsat] være et
-bærende princip i straffeprocessen, bl.a. således at kompetencen til at afgøre, om der skal
-rejses tiltale, i almindelighed bør ligge hos et
-statsligt organ, der er forpligtet til at vurdere tiltalespørgsmålet efter saglige og objektive kriterier. Beslutninger, der indebærer, at nogen
-tiltales med den belastning, der følger med at
-være tiltalt i en straffesag, bør således efter
-udvalgets opfattelse i alle mere alvorlige sager
-træffes af en statslig myndighed efter saglige
-og objektive kriterier. En almindelig subsidiær
-påtaleret for den forurettede ville også indebære en risiko for uens behandling af sigtede
-afhængig af den enkelte forurettedes vilje. Hertil kommer, at udvalget ikke finder, at sigtede/
-tiltalte eller retsvæsenet i almindelighed bør
-belastes med straffesager, som anklagemyndigheden har vurderet, at der ikke er tilstrækkeligt grundlag for at føre.»
-Utvalget mente at fornærmedes legitime interesse
-i å fremme sine synspunkter på påtalespørsmålet i
-en konkret sak i tilstrekkelig grad blir ivaretatatt
-gjennom adgangen til å påklage negative påtalevedtak. Utvalgets anbefaling ble fulgt opp i det
-videre lovarbeidet.
-I dansk rett har fornærmede en begrenset
-adgang til privat påtale i enkelte mindre alvorlige
-sakstyper. Dette gjelder blant annet for visse fredskrenkelser, ærekrenkelser og selvtekt, jf. den
-danske straffeloven §§ 275, stk. 1 og 305, stk. 2.
-Videre er det adgang til privat påtale i tilfeller der
-offentlig påtale er betinget av fornærmedes
-begjæring, når strafferammen ikke er høyere enn
-fengsel i inntil fire måneder, jf. retsplejeloven
-§ 726. Privat påtale innebærer at et forhold ikke
-forfølges av det offentlige, men som privat straffesak av en privat påtaleberettiget. Den private straffesaken føres i sivilprosessens former, jf. retsplejeloven § 989.
-Betinget offentlig påtale er en mellomform
-mellom offentlig og privat påtale. I slike tilfeller
-kan offentlig forfølgning skje etter fornærmedes
-begjæring. Ved lov 27. december 2018 nr. 1719 ble
-påtalereglene endret for i en rekke bestemmelser
-i den danske straffeloven kapittel 27 om freds- og
-ærekrenkelser. Endringene innebærer blant
-
-2020–2021
-
-annet at visse grove ærekrenkelser, som tidligere
-var undergitt ren privat påtale, nå er undergitt
-betinget offentlig påtale, jf. straffeloven § 275, stk.
-2 og straffeloven § 267, jf. § 268. Endringene
-trådte ikraft 1. januar 2019 og bygger på Straffelovrådets betænkning nr. 1563 fra 2017 om
-freds- og ærekrænkelser punkt 4 side 167–180.
-
-17.2.2 Svensk rett
-I Sverige er utgangspunktet at straffbare
-handlinger påtales av det offentlige med mindre
-annet er bestemt, jf. rättegångsbalken (1942:740)
-20 kap. 3 §. For noen få handlinger har fornærmede påtalerett uavhengig av påtalemyndighetens
-beslutning, for eksempel i saker om falsk eller
-grunnløs påtale og falsk anmeldelse, jf. rättegångsbalken 20 kap. 8 § tredje stycket.
-Har påtalemyndigheten besluttet å reise sak,
-har fornærmede vid adgang til å slutte seg til tiltalen, jf. rättegångsbalken 20 kap. 8 § andra stycket.
-I SOU 2013:17 Brottmålsprocessen har Straffprocessutredningen anbefalt at denne ordningen
-avskaffes, jf. side 276–277. I begrunnelsen peker
-utredningen særlig på at staten bør ha ansvaret
-for å bekjempe kriminalitet. Etter utredningens
-syn vil forslaget bidra til å tydeliggjøre fornærmedes stilling og påtalemyndighetens rolle i prosessen. Det fremheves at fornærmedes behov og
-interesser tilgodeses bedre i andre bestemmelser.
-Forslaget fra Straffprocessutredningen har per
-august 2020 ikke ført til lovendringer.
-Fornærmede har en vid adgang til subsidiær
-privat påtale, jf. rättegångsbalken 20 kap. 8 §. Det
-er et vilkår at fornærmede har anmeldt forholdet,
-og at påtalemyndigheten har besluttet at det ikke
-skal tas ut tiltale. I SOU 2013:17 side 298–300 har
-Straffprocessutredningen vurdert om denne ordningen burde avvikles. I utredningen vises det til
-at flere aktører har tatt til orde for å oppheve
-adgangen til subsidiær påtale fordi den først og
-fremst blir benyttet på sjikanerende vis, og det
-ikke er uvanlig at sakene er åpenbart grunnløse.
-Mange saker krever dessuten en ikke ubetydelig
-arbeidsinnsats fra domstolens side. Straffprocessutredningen mente likevel at adgangen burde
-beholdes av kontrollhensyn, og viser videre til at
-det ville gi liten samlet gevinst for rettsvesenet å
-fjerne ordningen.
-Utredningen om processrätt och stora brottmål har nylig foreslått visse innskrenkninger i fornærmedes subsidiære påtalerett, jf. SOU 2019:38
-Stora brottmål – nya processrättsliga verktyg
-punkt 5.12.4 side 265 flg. Det er blant annet foreslått at fornærmede ikke skal ha adgang til å
-
-[Side 153]
-
-2020–2021
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-påtale forhold når påtalemyndigheten har besluttet å avslutte eller begrense en forundersøkelse
-på bakgrunn av at mistenkte har gitt informasjon
-av vesentlig betydning for etterforskingen. Dette
-forslaget er per august 2020 fortsatt til behandling
-i Justitiedepartementet. I utredningen uttales mer
-generelt på side 266:
-«Vår uppfattning är dock att brottmål i grunden
-bör vara en statlig angelägenhet. Detta är den
-viktiga symbolfrågan i våra överväganden. Det
-är med en sådan ståndpunkt i och för sig vare
-sig ändamålsenligt eller lämpligt att målsäganden används som en kontrollfunktion i brottmålsprocessen för att åklagaren, dvs. staten,
-sköter sitt uppdrag. Statens maktutövning bör
-enligt vår uppfattning i första hand kontrolleras
-av andra funktioner, nämligen genom den tillsyn som bedrivs vid myndigheterna internt
-samt av JO och JK.»
-
-17.3 Straffeprosessutvalgets forslag
-Straffeprosessutvalget har i utredningen foreslått
-å oppheve adgangen til å reise privat straffesak, jf.
-punkt 24.5 side 488–489. Begrunnelsen er for det
-første prinsipiell. Etter utvalgets syn bør strafforfølging utelukkende være en statsoppgave. Påtalemyndigheten er, i kraft av sin uavhengighet og sitt
-objektive mandat, best egnet til å forvalte ansvaret
-for å legge ned påstand om straff og føre straffesaker på samfunnets vegne. Et slikt inngripende virkemiddel bør ikke stilles til privates disposisjon.
-Utvalget viser for det andre til at fornærmede
-ikke vil være rettsløs uten adgangen til å reise privat straffesak. Påtalemyndighetens vedtak kan
-påklages, og videre kan saksbehandlingen klages
-inn for Sivilombudsmannen. Utvalget viser også til
-at lovutkastet legger opp til at overordnet påtalemyndighet i større grad enn i dag skal føre et særlig tilsyn med underordnet påtalemyndighet. Forslaget må antas å styrke påtaleavgjørelsers kvalitet, i tillegg til å sørge for at det kan rettes opp i
-konkrete feilvurderinger. For så vidt gjelder et
-erstatningskrav viser utvalget til at fornærmedes
-interesse er ivaretatt gjennom adgangen til å reise
-sivil sak etter tvisteloven.
-
-17.4 Høringsinstansenes syn
-Agder lagmannsrett, Anne Robberstad, Asker og
-Bærum tingrett, Bergen tingrett, Borgarting lagmannsrett, Dommerforeningen, Kristiansand ting-
-
-151
-
-rett, Oslo statsadvokatembeter, Oslo tingrett, Regjeringsadvokaten, Rettspolitisk forening, Riksadvokaten, Stine Sofies Stiftelse og Trøndelag statsadvokatembeter har kommentert utvalgets forslag. Det er
-kun Stine Sofies Stiftelse og Anne Robberstad som
-mener at ordningen med private straffesaker bør
-bestå.
-Instansene som støtter forslaget, tiltrer i
-hovedsak utvalgets begrunnelse. Bergen tingrett
-skriver:
-«Lovutvalget har etter Bergen tingretts syn
-kommet til riktig konklusjon når den har valgt
-ikke å videreføre reglene om private straffesaker. Erfaringene fra vår domstol er at disse
-sakene så å si uten unntak har fremstått som
-meningsløse søksmål, som ofte ivaretar behov
-hos private personer det ikke er rettssystemets
-oppgave å løse. Selv om antall saker er lavt,
-foreligger det ikke et rettsikkerhetsbehov for
-disse personene som kan forsvare at domstolene skal bruke ressurser på dem.»
-Anne Robberstad mener på sin side at Straffeprosessutvalget ikke tar begrunnelsen for ordningen
-med private straffesaker på alvor. Hun viser til at
-adgangen til subsidiær privat påtale er en viktig
-garanti mot påtalemyndighetens misbruk av myndighet. Videre mener Robberstad at ordningen
-har vesentlig betydning for tilliten til strafferettspleien, et argument hun påpeker at kan ha
-større vekt i dag enn da ordningen ble vedtatt.
-Stine Sofies Stiftelse viser særlig til at det bør være
-en sikkerhetsventil for de tilfeller der det skjer
-feilvurderinger hos påtalemyndigheten eller domstolen.
-
-17.5 Departementets vurdering
-Departementet mener i likhet med Straffeprosessutvalget og det klare flertallet av høringsinstansene at tiden er moden for å oppheve fornærmedes adgang til å reise privat straffesak.
-Departementet kan i hovedsak tiltre utvalgets
-begrunnelse for forslaget om å oppheve ordningen. Det vises særlig til de prinsipielle synspunktene som fremholdes i utredningen, jf. punkt 24.5
-side 488–489. Etter departementets syn bør
-ansvaret for strafforfølgning utelukkende forvaltes av staten. Å anklage noen med påstand om
-straff – et av samfunnets mest inngripende tiltak –
-bør være forbeholdt en uavhengig instans som
-styres etter objektive kriterier. Det hører ikke til
-en rettssikker og tillitvekkende prosess at den
-
-[Side 154]
-
-152
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-enkelte borger skal kunne iverksette et slik maktapparat. Påtalemyndigheten er best egnet til å
-vurdere om det er tilstrekkelig faktisk og rettslig
-grunnlag for å reise straffesak. Etter departementets syn fremstår det som nokså klart at norsk
-straffeprosess ikke blir mindre tillitvekkende ved
-å avskaffe en slik ordning.
-Kontrollhensyn har vært anført til støtte for
-ordningen med private straffesaker. Departementet konstaterte imidlertid allerede i Ot.prp. nr. 35
-(1978–79) punkt III B 5 side 86 at behovet for et
-korrektiv antagelig var beskjedent. Praksis har
-senere vist at kontrollbehovet ikke er stort. Domstolene behandler nå et fåtall slike saker årlig. Fra
-2015 til 2019 varierte det totale antallet innkomne
-private straffesaker i tingrettene fra mellom 15 til
-45 saker årlig. Domstoladministrasjonen har opplyst at hoveddelen av sakene ble enten avvist eller
-avsluttet på annen måte, kun i underkant av åtte
-prosent ble avsluttet ved dom. I lagmannsrettene
-var det totalt elleve saker som innkom i perioden
-2015 til og med 2019. Høringsrunden har også
-styrket inntrykket av at det praktiske og rettssikkerhetsmessige behovet for private straffesaker i
-dag er svært lite.
-Departementet utelukker ikke muligheten for
-feilvurderinger hos påtalemyndigheten, men etter
-departementets syn bør behovet for kontroll av
-saksbehandlingen ivaretas gjennom andre mekanismer. I likhet med utvalget mener departementet at fornærmedes rettmessige interesse i å få
-fremsatt sitt syn på påtalespørsmålet er tilstrekkelig ivaretatt ved adgangen til å klage over påtale-
-
-2020–2021
-
-vedtak etter straffeprosessloven § 59 a. Videre
-kan påtalemyndighetens saksbehandling klages
-inn for Sivilombudsmannen. For så vidt gjelder et
-erstatningskrav, er fornærmedes interesse ivaretatt gjennom adgangen til å reise sivil sak etter
-tvisteloven.
-I vurderingen av behovet for ordningen med
-private straffesaker er det også av betydning at
-det i proposisjonen foreslås å lovfeste at statsadvokatene skal føre tilsyn med straffesaksbehandlingen i politiet og gi faglig veiledning til påtalemyndigheten i politiet, se punkt 14.4 og forslaget til
-nytt sjette ledd i straffeprosessloven § 57. Departementet legger også til at fornærmede de senere
-år har fått flere rettigheter som har styrket deres
-mulighet til å ivareta sine egne interesser under
-prosessen, herunder økt rett til informasjon, innsyn, tilstedeværelse og kontradiksjon, se Ot.prp.
-nr. 11 (2007–2008) Om lov om endringer i straffeprosessloven mv. (styrket stilling for fornærmede
-og etterlatte) punkt 9.4 side 44 flg. om rettigheter
-på etterforskingsstadiet.
-Departementet kan ikke se at å oppheve
-adgangen til å reise privat straffesak griper inn i
-og begrenser fornærmedes rettigheter i norsk
-straffeprosess på en uheldig måte. Ordningen er
-utdatert og ikke i tråd med de alminnelige og
-grunnleggende utgangspunkter i straffeprosessen. Å anføre at ordningens eksistens i seg selv
-skulle medføre at påtalemyndigheten gjør en mer
-samvittighetsfull jobb, er det etter departementets
-syn ikke grunnlag for.
-
-[Side 155]
-
-2020–2021
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-153
-
-18 Sivile krav
-18.1 Innledning
-Med «sivile krav» siktes det til alle rettskrav bortsett fra straffekrav og krav om strafferettslige
-reaksjoner, se straffeprosessloven § 3, jf. §§ 1 og
-2. Uttrykket omfatter dermed både krav av privatrettslig karakter, som for eksempel erstatningskrav, og offentligrettslige krav, for eksempel krav
-om tilleggsskatt ved skattesvik, se NOU 2016: 24
-punkt 25.1.1 side 490. Slike krav skal i utgangspunktet behandles i sivilprosessens former, men
-straffeprosessloven åpner for at sivile krav med tilknytning til straffekravet på nærmere vilkår kan
-behandles som et ledd i straffesaken, jf. § 3.
-Straffeprosessutvalget har foreslått både
-strukturelle og innholdsmessige endringer i lovreglene om behandling av sivile krav. Departementet foreslår å følge opp flere av forslagene.
-Utvalgets prinsipielle forslag i utredningen punkt
-25.2 side 492–497 om å gjeninnføre ensrettingsprinsippet – en ordning hvor retten i en frifinnende straffedom ikke samtidig kan pådømme
-sivile krav – har departementet ikke funnet grunn
-til å vurdere nærmere i denne omgang. Departementet er av den oppfatning at dagens ordning i
-praksis fungerer tilfredsstillende.
-
-18.2 Gjeldende rett
-De nærmere reglene om behandlingen av sivile
-krav finnes i straffeprosessloven kapittel 29 og i
-forskjellige paragrafer i lovens femte del om saksbehandlingens enkelte ledd, se blant annet §§ 252
-tredje ledd, 264 b og 265 tredje ledd.
-Som utgangspunkt skal andre rettskrav enn
-krav om straff behandles etter reglene i tvisteloven. Når det er åpnet for at slike krav etter
-omstendighetene kan behandles sammen med
-straffekravet, er det fordi etterforsking og iretteføring i alminnelighet også vil opplyse krav som
-springer ut av en straffbar handling. Er det allerede igangsatt en prosess for straffekravet, vil
-samtidig behandling av andre krav som har sammenheng med straffekravet, sikre at partene og
-samfunnet ikke belastes med ytterligere prosess.
-
-Hensynet til at partene og samfunnet skal få gjort
-opp seg imellom én gang for alle, taler også for at
-alle offentlige og private interesser håndteres
-samlet, se utredningen punkt 25.1.2 side 490. En
-ulempe med å fellesbehandle straffekrav og sivile
-krav er at man ikke får full nytte av tvistelovens
-regler om forberedelse og behandling av sivile
-tvister. Straffeprosessloven og tvisteloven bygger
-på ulike idealer. Mens sannhetsidealet har særlig
-gjennomslag i straffesaker, står partenes autonomi gjennom forhandlingsprinsippet sentralt i
-sivilprosessen – med unntak for de såkalte indispositive sakene.
-Sivile krav kan bli behandlet i straffesaken
-enten ved at påtalemyndigheten på begjæring fra
-skadelidte tar kravet med i saken, eller ved at skadelidte selv fremmer kravet i forbindelse med
-saken, se henholdsvis straffeprosessloven §§ 427
-og 428. Er det oppnevnt bistandsadvokat, skal
-imidlertid kravet alltid fremmes av skadelidte
-gjennom bistandsadvokaten, jf. §§ 427 annet ledd
-første punktum og 428 første ledd annet punktum.
-For krav som fremmes av påtalemyndigheten,
-beror det i utgangspunktet på påtalemyndighetens skjønn om kravet skal tas med i straffesaken,
-se § 427 første ledd. De «umiddelbart skadelidende» ved den straffbare handling er imidlertid
-gitt en særlig rett til å få kravet fremmet. Overfor
-denne gruppen kan påtalemyndigheten bare
-nekte å ta med kravet dersom det er åpenbart
-ugrunnet, eller hvis det vil være en uforholdsmessig ulempe for påtalemyndigheten om kravet
-fremmes, jf. § 427 annet ledd.
-Fremmer påtalemyndigheten krav etter begjæring av fornærmede, skal fornærmede gi nærmere opplysninger om grunnlaget for og størrelsen av kravet og om hvilke bevis han eller hun kan
-oppgi, jf. § 427 første ledd annet punktum. Påtalemyndigheten skal i tiltalebeslutningen opplyse om
-det blir gjort gjeldende sivile krav i forbindelse
-med straffesaken, jf. § 252 tredje ledd. Påtalemyndigheten skal så langt mulig angi kravets størrelse. I praksis tar påtalemyndigheten ofte bare
-forbehold i tiltalebeslutningen om å kreve erstatning og oppreisning. Etter at tiltale er tatt ut, kan
-påtalemyndigheten fastsette en frist for fornær-
+# Påtalemyndigheten og dens virksomhet
+
+## Strafforfølgningsplikten
+
+### Gjeldende rett
+
+Det følger av straffeprosessloven § 62 a første ledd at påtalemyndigheten skal påtale straffbare handlinger med mindre annet er bestemt. Straffeprosessens overordnede mål er å realisere straffansvar. En grunnleggende forutsetning er derfor at straffbare forhold forfølges av det offentlige. Når lovgiver har besluttet at visse handlinger skal være belagt med straff, taler hensynene til likebehandling og håndheving av den materielle retten for at påtalemyndigheten lojalt forfølger slike handlinger.
+
+### Straffeprosessutvalgets forslag
+
+Utvalget går inn for å videreføre utgangspunktet om påtaleplikt for påtalemyndigheten, se utredningen punkt 8.3.2 side 194 flg. Utvalget mener imidlertid at loven bør synliggjøre at strafforfølgningsplikten ikke bare innebærer en plikt til å påtale straffbare forhold, men også en mer vidtrekkende plikt til å forfølge overtredelser av straffelovgivningen når vilkårene for dette er tilstede. Utvalget foreslår derfor at straffeprosessloven uttrykkelig skal bestemme at påtalemyndigheten som ledd i forfølgningen av straffbare handlinger «skal» beslutte og lede etterforsking, beslutte og fremsette begjæring om tvangstiltak, avgjøre spørsmål om påtale, møte for domstolene og sende avgjørelser til fullbyrding, se lovutkastet § 2-2 annet punktum.
+
+### Høringsinstansenes syn
+
+Av høringsinstansene har *Advokatforeningen*, *Nordland statsadvokatembeter* og *Riksadvokaten* uttalt seg om forslaget.
+
+*Nordland statsadvokatembeter* og *Riksadvokaten* støtter utvalgets forslag*. Advokatforeningen* mener det er uheldig å bruke ordet «skal» i opplistingen av strafforfølgingspliktens forskjellige sider. Advokatforeningen uttrykker bekymring for at ordlyden kan gi grunn til å tro at påtalemyndigheten er pålagt en plikt til å benytte seg av tvangsmidler i etterforskingen, og foreslår derfor å bytte ut «skal» med «kan», slik at det fremkommer tydelig at de opplistede handlingene ikke er plikter for påtalemyndigheten under strafforfølgningen.
+
+### Departementets vurdering
+
+Departementet går i likhet med utvalget inn for å endre lovens ordlyd for å presisere at strafforfølgningsplikten ikke bare innebærer en plikt til å påtale overtredelser av straffelovgivningen, jf. forslag til endring av straffeprosessloven § 62 a første ledd. Departementet mener imidlertid at det ikke er behov for å liste opp de ulike sidene av strafforfølgningsplikten slik utvalget har foreslått. Ved å presisere at påtalemyndigheten plikter å «forfølge» overtredelser av straffelovgivningen vil det fremgå tilstrekkelig klart at strafforfølgningsplikten omfatter plikt både til etterforsking og påtale av straffbare forhold.
+
+## Påtalemyndighetens objektivitetsplikt
+
+Straffeprosessloven § 55 a fjerde ledd bestemmer at påtalemyndighetens tjenestemenn «skal opptre objektivt i hele sin virksomhet, herunder på etterforskingsstadiet, når det treffes påtalevedtak og ved iretteføring av saken». Kravet om objektivitet innebærer en plikt for påtalemyndigheten til, på alle stadier av straffesaksbehandlingen, å utrede og ta i betraktning både det som taler mot, og det som taler til fordel for mistenkte, jf. straffeprosessloven § 226 tredje ledd. Det vises også til riksadvokatens rundskriv nr. 2/2017 om Etiske retningslinjer for medarbeidere i påtalemyndigheten, hvor kravet til objektivitet er inntatt i retningslinje nr. 3.
+
+Kravet om objektivitet må ses i sammenheng med den offentlige interesse i strafforfølgning, som innebærer en interesse i at skyldige trekkes til ansvar og at ingen skal utsettes for forfølgning eller straff hvis de er uskyldige, eller ilegges en strengere reaksjon enn det er grunnlag for. At påtalemyndigheten opptrer objektivt er en forutsetning for å realisere straffeprosessens ideal om riktige avgjørelser, og bidrar til å veie opp for skjevheten i styrkeforholdet mellom den offentlige påtalemyndigheten og mistenkte.
+
+*Straffeprosessutvalget* finner det klart at straffeprosessloven bør inneholde en uttrykkelig regulering av objektivitetsplikten, men at ordlyden i dagens bestemmelse bør endres, se utredningen punkt 8.3.4 side 196 og utvalgets lovutkast § 2-3 første ledd. Ifølge utvalget er det tilstrekkelig at loven gir uttrykk for at plikten gjelder for hele virksomheten. Oppramsingen i den gjeldende bestemmelsen er etter utvalgets syn overflødig. Utvalget mener også at objektivitetsplikten under etterforskingen bør reguleres særskilt. Dette begrunnes med at plikten ikke bare gjelder for påtalemyndigheten, men også for enhver som deltar i etterforskingen på påtalemyndighetens vegne. Utvalget foreslår derfor å lovfeste at etterforskingen skal være objektiv. Det vises til utredningen punkt 14.2.4 side 304 og lovutkastet § 13-4.
+
+Ingen av *høringsinstansene* har kommentert utvalgets forslag.
+
+Departementet mener at ordlyden i straffeprosessloven § 55 a fjerde ledd bør forenkles slik utvalget har foreslått. I likhet med utvalget er departementet av den oppfatning at det ikke er nødvendig at bestemmelsen eksemplifiserer når objektivitetsplikten gjelder. Opplistingen kan derfor oppheves. Objektivitetsplikten gjelder på alle stadier av strafforfølgningen.
+
+Ved lov 1. november 2019 nr. 71 ble prinsippet om påtalemyndighetens uavhengighet nedfelt i straffeprosessloven § 55. Kravet til objektivitet er i likhet med prinsippet om påtalemyndighetens uavhengighet et grunnleggende utgangspunkt for påtalemyndighetens virke. Etter departementets syn bør begge disse forutsetningene fremgå av den innledende bestemmelsen i lovens kapittel 6. Departementet foreslår derfor å flytte gjeldende § 55 a fjerde ledd til et nytt § 55 annet ledd.
+
+Departementet foreslår også å presisere kravet om at etterforskingen skal være objektiv i loven. Endringen foreslås inntatt som nytt første punktum i straffeprosessloven § 226 tredje ledd. På den måten vil det fremgå at objektivitetsplikten gjelder for enhver som utfører etterforsking på vegne av påtalemyndigheten. Dette vil primært gjelde tjenestemenn i politiet.
+
+## Instruksjonsmyndighet i påtalemyndigheten
+
+### Gjeldende rett
+
+Etter gjeldende rett har overordnet nivå i påtalemyndigheten alminnelig instruksjons- og omgjøringsmyndighet overfor underordnet nivå. Riksadvokaten og statsadvokatene kan således instruere påtalemyndigheten i politiet og politiet om alle sider ved etterforskingen, jf. straffeprosessloven §§ 225 annet ledd og 58 annet ledd. Overordnet påtalemyndighet kan dessuten overta behandlingen av en sak som hører under en underordnet, eller overføre behandlingen til en annen underordnet, jf. straffeprosessloven § 59 første ledd. Selv om det ikke uttrykkelig fremgår av loven, kan overordnet nivå også instruere underordnet påtalemyndighet i enkeltsaker. Dette omfatter å instruere om hvordan en sak skal behandles og avgjøres. Overordningsforholdet kommer også til uttrykk i § 58 første ledd. Overordnet nivå i påtalemyndigheten kan i tillegg av eget tiltak eller etter klage, med enkelte begrensninger, omgjøre vedtak truffet av underordnede, jf. straffeprosessloven §§ 75 og 59 a.
+
+Et omdiskutert spørsmål er om, og eventuelt i hvilken utstrekning, det også gjelder instruksjons- og omgjøringsmyndighet i enkeltsaker innenfor det enkelte nivå i påtalemyndigheten. Straffeprosessloven har ingen bestemmelser som uttrykkelig regulerer spørsmålet. Spørsmålet kan besvares med utgangspunkt i at påtalemyndigheten tilhører den utøvende myndighet og således er en forvaltningsgren underlagt egne saksbehandlingsregler gjennom straffeprosessloven. Virksomheten er unntatt forvaltningsloven etter forvaltningsloven § 4 første ledd bokstav b, men det er antatt at de mer generelle forvaltningsrettslige regler og prinsipper også kommer til anvendelse for påtalemyndighetens virksomhet. Innen statsforvaltningen gjelder en alminnelig hovedregel om instruksjonsmyndighet, som er et direkte utslag av at den «utøvende makt er hos kongen», jf. Grunnloven § 3.
+
+Eckhoff og Smith har påpekt at Regjeringen har instruksjonsmyndighet overfor alle lavere organer i det hierarkiet som statsforvaltningen utgjør, og at tilsvarende gjelder lenger ned i hierarkiet, der ledelsen av den enkelte avdeling mv. har instruksjonsmyndighet. Hovedregelen er også at det kan gis både generelle instrukser og instrukser om enkelttilfeller, se Eckhoff og Smith: Forvaltningsrett (11. utgave, Oslo 2018) side 151.
+
+Ved én anledning har Høyesterett lagt til grunn at straffeprosessloven § 59 må tolkes slik at sjefen for Økokrim ikke har instruksjonsmyndighet overfor den enkelte statsadvokat ved embetet, se HR-2001-1527-A, HR-2000-770 og HR-2001-890 (tre saker behandlet sammen). Høyesterett begrunnet ikke standpunktet nærmere. Ved to anledninger har riksadvokaten imidlertid gitt uttrykk for et annet syn, se Politidirektoratets rapport 2. mars 2012 i anledning tilsyn ved Økokrim punkt 7.3 og riksadvokatens rapport om den såkalte Monika-saken 26. januar 2016, side 13. Straffeprosessutvalget har, ut fra generelle forvaltningsrettslige prinsipper, også lagt til grunn at politimestrene og embetslederne på statsadvokatnivå i dag har instruksjonsmyndighet overfor underordnede ved samme tjenestested. Straffeprosessloven § 59 første ledd må ses som et uttrykk for en slik instruksjonsmyndighet, fordi det i realiteten er lite som skiller det å «overta behandlingen» fra det å instruere om hva som skal bli avgjørelsen, se utvalgets utredning punkt 8.2.6.1 side 191.
+
+I NOU 2017: 5 *En påtalemyndighet for fremtiden (Påtaleanalysen)* legges det også til grunn at det foreligger en slik intern instruksjonsadgang. Påtaleanalyseutvalget viser til Straffeprosessutvalgets redegjørelse av dagens rettslige situasjon og behovet for lovregulering av slik myndighet. Påtaleutvalget uttaler at Straffeprosessutvalgets redegjørelse er dekkende også for deres syn. Standpunktet begrunnes nærmere slik i punkt 2.8.3 side 41:
+
+«Som et ledd i styringen av egen enhet må det foreligge en slik rett for overordnet leder. Politidistriktene og statsadvokatembetene har hatt en markant økning i antall ansatte og saker som de har til behandling, og avgjørelsene må fremstå som enhetlige. Det tilsier et økt behov for styring.»
+
+Det er i juridisk litteratur reist sterk kritikk mot Straffeprosessutvalgets konklusjon. Det vises til at utvalget har et annet syn på gjeldende rett enn den oppfatning det har vært alminnelig enighet om i teorien. Når det gjelder forholdet mellom førstestatsadvokaten og statsadvokatene er rettstilstanden beskrevet slik av Gert Johan Kjelby, Påtalerett (2. utgave, Bergen 2019) side 247:
+
+«Førstestatsadvokaten er embetsleder i statsadvokatregionene \[…\]. Embetslederansvaret har først og fremst arbeidsrettslige og økonomisk-administrative sider, og det har i teorien vært alminnelig enighet om at førstestatsadvokaten ikke anses som *overordnet* de øvrige statsadvokatene ved samme embete og heller ikke har instruksjonsmyndighet *i enkeltsaker* som behandles av andre statsadvokater.»
+
+Kjelby setter spørsmålstegn ved Straffeprosessutvalgets standpunkt om at det i realiteten er liten forskjell mellom myndighet til å overta en sak og instruksjonsmyndighet, se side 249. Han viser også til at dersom førstestatsadvokaten får slik myndighet som utvalget foreslår, vil det medføre at statsadvokatene i realiteten reduseres til «førstestatsadvokatfullmektiger». Det er etter Kjelbys syn ikke rettskildemessig grunnlag for å hevde at fast utnevnte statsadvokater kan instrueres i påtaleavgjørelser.
+
+Kritikken deles også av Ørnulf Øyen. I hans artikkel «Noen tanker om instruksjonsmyndighet innad i påtalemyndigheten – særlig om organinterne og saksspesifikke instrukser» inntatt på side 655 i Straff og Frihet, festskrift til Tor-Aksel Busch (2019), kritiseres Straffeprosessutvalgets vurdering av gjeldende rett. Øyen viser blant annet til at det er de særlige rettskildene innen påtaleretten som må ligge til grunn for en vurdering av om det foreligger slik instruksjonsrett. Det er uheldig når utvalget begrunner sitt syn med de allmenne regler om instruksjonsmyndighet i statsretten og forvaltningsretten. Øyen avslutter sin artikkel på side 663 med en oppfordring til lovgiver:
+
+«Uavhengig av hva en mener er og bør være gjeldende rett, er det viktig å operere med et klart og prinsipielt skille mellom saksspesifikke instrukser og delvis overtakelse av en sak.»
+
+### Straffeprosessutvalgets forslag
+
+Straffeprosessutvalget foreslår å videreføre og tydeliggjøre gjeldende regler om instruksjonsmyndighet for overordnet nivå i påtalemyndigheten overfor underordnet nivå, se utredningen punkt 8.2.6.2 side 193 og lovutkastet § 2-9. Utvalget foreslår å presisere i lovteksten at overordnet nivå har instruksjonsmyndighet, og at dette blant annet innebærer kompetanse til å beordre underordnet om etterforsking, overføre en sak til en annen underordnet, til selv å overta behandlingen, å gi ordre om avgjørelse av påtalespørsmålet og til å omgjøre vedtak. Forslaget begrunnes med at dette er et grunnleggende og selvsagt utslag av påtalemyndighetens hierarkiske struktur og alminnelige forvaltningsrettslige prinsipper, og at instruksjonsmyndigheten derfor bør fremgå tydeligere av loven enn hva som er tilfellet i dag.
+
+Straffeprosessutvalget foreslår også å lovfeste at lederen ved det enkelte statsadvokatembete eller politidistrikt har tilsvarende instruksjonsmyndighet overfor underordnede innenfor samme nivå, se utredningen punkt 8.2.6.2 på side 193 og 194. Utvalget legger instruksjonsmyndigheten til leder for embetet med en forutsetning om at vedkommende kan delegere myndigheten til underordnede. Forslaget begrunnes med at politi- og embetslederne må ha tilstrekkelige virkemidler til å utføre sine lederoppgaver, og at den organinterne instruksjonsmyndigheten er et nødvendig virkemiddel i den sammenheng.
+
+Straffeprosessutvalget viser til lederens totalansvar for etatens virksomhet, og at lederen som ledd i et slikt ansvar må kunne treffe beslutninger om saksinntak, sakstilskjæring og saksstyring, se utredningen punkt 8.2.6.2 side 194. Utvalget viser også til at større politidistrikter, og etter hvert også formentlig større statsadvokatembeter, har forsterket behovet for formelle styringsmekanismer. Til slutt bemerker utvalget at en løsning hvor den enkelte påtalejurist står «fritt» i forholdet til ledelsen ved det enkelte tjenestestedet vil mangle intern sammenheng med de øvrige reglene om overordnet organs instruksjonsmyndighet, for ikke å si lederens adgang til selv å overta og avgjøre saken.
+
+### Høringsinstansenes syn
+
+Av høringsinstansene har *Det nasjonale statsadvokatembetet, Hordaland statsadvokatembeter, Møre og Romsdal statsadvokatembeter, Oslo statsadvokatembeter, Politidirektoratet*, *Riksadvokaten*, *Rogaland statsadvokatembeter, Sogn og Fjordane statsadvokatembeter, Statsadvokatenes forening*, *Vestfold og Telemark statsadvokatembeter*, *Økokrim* og *Øst politidistrikt* uttalt seg om forslagene.
+
+*Riksadvokaten* støtter forslaget om å tydeliggjøre at overordnet påtalemyndighet har instruksjons- og omgjøringsmyndighet overfor underordnet nivå. Riksadvokaten bemerker at forslaget «viderefører gjeldende rett, og er ukontroversielt». Ingen av de øvrige høringsinstansene har kommet med merknader til forslaget.
+
+*Politidirektoratet, Riksadvokaten*, og *Økokrim* støtter forslaget om lovfesting av instruksjonsmyndighet innenfor samme nivå. *Hordaland statsadvokatembeter, Møre og Romsdal statsadvokatembeter, Oslo statsadvokatembeter, Rogaland statsadvokatembeter*, *Sogn og Fjordane statsadvokatembeter* og *Vestfold og Telemark statsadvokatembeter* støtter ikke forslaget. De nevnte statsadvokatembetene er også av den oppfatning at slik instruksjonsmyndighet ikke følger av gjeldende rett.
+
+Statsadvokatembetene som har uttalt seg, er primært bekymret for at den foreslåtte lovfestingen vil rokke ved selvstendigheten og uavhengigheten til den enkelte statsadvokat. Det vises til at statsadvokatene er embetsmenn utnevnt av Kongen i statsråd og at de derfor bør kunne treffe sine avgjørelser uavhengig av embetslederen. *Vestfold og Telemark statsadvokatembeter* bemerker i den sammenheng at forslaget vil kunne «legge et press på det frie og faglig forsvarlige skjønnet som den enkelte medarbeider i påtalemyndigheten har innenfor rammene som regelverk og generelle direktiver åpner for».
+
+Flere av statsadvokatembetene påpeker også at den foreslåtte instruksjonsmyndigheten vil gjøre det vanskelig for møtende aktor å overholde objektivitetsplikten, og at det er uforenlig med rollen som aktor å iretteføre saker der tiltalen i realiteten er besluttet av embetslederen.
+
+*Hordaland statsadvokatembeter* gir uttrykk for at utvalget har en for ambisiøs tilnærming til embetsledernes rolle ved det enkelte kontor. Det påpekes at den foreslåtte instruksjonsmyndigheten, og det totalansvar som tillegges embetslederen, vil lage et behov for rutiner slik at embetslederen kan sette seg inn i alle saker av et visst alvor. Det påpekes i den sammenheng at «om det nye forslaget vedtas og ansvaret skal følges opp reelt, vil embetslederens egen porteføljebehandling og opptreden i retten omtrent måtte opphøre og det enkelte påtalevedtak vil få den forsinkelse som følger av at alle vedtak skal gjennomgås av embetsleder».
+
+*Hordaland statsadvokatembeter* og *Vestfold og Telemark statsadvokatembeter* etterspør også en nærmere vurdering av hvilke konsekvenser den foreslåtte lovfestingen kan få for statsadvokatenes habilitet. Det bemerkes at straffeprosessloven § 60 annet ledd om avledet inhabilitet ikke får anvendelse på statsadvokatnivå etter gjeldende rett, og at den foreslåtte lovfestingen vil kunne få konsekvenser for dette.
+
+*Vestfold og Telemark statsadvokatembeter* påpeker også at instruksjonsadgangen kan tenkes å kunne medføre en klageadgang, altså at påtalejuristens avgjørelse kan påklages til embetslederen. Det anføres at en slik klageadgang er «lite formålstjenlig og vil kunne være prosessdrivende».
+
+*Riksadvokaten* viser til statsadvokatembetenes innsigelser og uttaler på sin side følgende:
+
+«Stadig høyere forventninger til Den høyere påtalemyndighet om mål- og resultatstyring, strategisk forankring, omstilling og fornying tilsier at den enkelte embetsleder får tilgang til de styringsverktøy som omgjørings- og instruksjonsmyndighet utgjør. En utvikling i denne retning vil dessuten legge bedre til rette for rettsutvikling ved at embetslederen mer systematisk kan løfte frem egnede spørsmål til avgjørelse ved domstolene, så vel som å styre i retning av en mer hensiktsmessig avgrensning («tilskjæring») av saker begrunnet i effektivitetshensyn. Det er symptomatisk at ved det statsadvokatembetet der slike hensyn lengst har gjort seg gjeldende, Økokrim, har Økokrimsjefen allerede en slik adgang.
+
+Det er for øvrig ingen grunn til å tro at embetslederne vil misbruke en instruksjonsmyndighet eller omgjøringsadgang. En kan trygt legge til grunn at saker der det er ulik oppfatning om hvilken påtaleavgjørelses som bør treffes, i det alt vesentlige vil bli løst på annen måte enn ved instruksjon eller omgjøring. Det bør også være slik at dersom en statsadvokat unntaksvis instrueres til å handle i strid med sin egen vurdering, bør det fremkomme at avgjørelsen er truffet etter ordre.»
+
+### Departementets vurdering
+
+Departementet mener i likhet med utvalget at omfanget av instruksjonsmyndigheten mellom overordnet og underordnet nivå i påtalemyndigheten bør tydeliggjøres i loven. Da det allerede fremgår av straffeprosessloven §§ 58, 75 annet ledd og 225 annet ledd at overordnet nivå kan omgjøre vedtak og beordre etterforsking, er departementet imidlertid av den oppfatning at det er tilstrekkelig å lovfeste at overordnet påtalemyndighet kan gi ordre om avgjørelsen av spørsmålet om påtale, herunder i enkeltsak.
+
+Departementet foreslår også å lovfeste at leder av det enkelte statsadvokatembete og politimesterne har tilsvarende instruksjonsmyndighet overfor ansatte ved eget embete eller politidistrikt. Straffeprosessutvalgets utredning, høringsinstansenes merknader og etterfølgende kritikk i juridisk teori har tydeliggjort behovet for en klargjøring av gjeldende rett på dette punktet. Departementet kan i hovedsak slutte seg til de argumenter *Riksadvokaten* har fremholdt i sitt høringsinnspill.
+
+Etter departementets syn vil en klargjøring av instruksjonsmyndigheten i lov kunne bidra til å tydeliggjøre forventningen til og behovet for overordnet ledelse og styring av påtalemyndighetens håndtering av straffesaker. Instruksjonsmyndigheten vil kunne fungere som et overordnet styringsverktøy for å prioritere ressurser, og som et virkemiddel til å effektivisere porteføljeforvaltningen i etatene. Instruksjonsmyndigheten er derimot ikke ment som et middel for detaljstyring. Som flere av *statsadvokatembetene* påpeker, vil en slik detaljstyring uansett være umulig innenfor dagens rammer. I likhet med utvalget er departementet av den oppfatning at instruksjonsmyndigheten kun skal gjøre det mulig for embetslederen å gripe inn ved behov.
+
+Departementet er enig med *Riksadvokaten* i at statsadvokatene ikke har en så særegen stilling at de bør ha en selvstendighet som skiller seg sterkt fra ansatte i de aller fleste andre offentlige etater. Departementet kan heller ikke se at den foreslåtte lovfestingen vil gjøre det vanskelig for statsadvokatene å overholde objektivitetsplikten. For statsadvokatene skiller ikke slike instrukser seg fra saker hvor statsadvokatene må rette seg etter riksadvokatens ordre om avgjørelse av påtalespørsmålet i enkeltsak. Det er således ikke noe nytt at det kan oppstå situasjoner hvor den enkelte statsadvokat eller påtalejurist i politiet blir instruert om avgjørelsen av påtalespørsmålet i en konkret sak.
+
+Det presiseres at en sakspesifikk instruks vil innebære at en politimester eller førstestatsadvokat selv treffer en avgjørelse om påtalespørsmålet i saken. Det å instruere vil i seg selv være en beslutning om påtalespørsmålet som den som instruerer treffer, og som vedkommende skal stå som ansvarlig for. Dette medfører at en embetsleder eller politimester ikke kan pålegge en statsadvokat eller politiadvokat å ta en beslutning med et bestemt innhold i eget navn, men at det vil være en beslutning etter «etter ordre» fra den som instruerer.
+
+Det er uansett ingen grunn til å tro at det vil forekomme ofte at embetslederen eller politimesteren instruerer i sak hvor statsadvokaten eller påtalejuristen i politiet mener bevisene ikke er gode nok. Som Riksadvokaten påpeker vil slike uenigheter kunne løses på en annen måte, og på et tidligere stadium. Objektivitetsplikten ligger uansett også til grunn for embetslederens og politimesterens virksomhet.
+
+Etter departementets syn bør man være mer tilbakeholden med å benytte instruksjonsmyndigheten på noen områder enn andre. Det vil blant annet være mer naturlig å benytte slik intern instruksjon i vurderinger knyttet til strategi, ressurser og prioriteringer. Typiske tema for dette vil være spørsmål om tilskjæring av større saker, eller om embetet skal søke rettsavklaring gjennom enkeltsaker i domstolsapparatet eller ved henvendelse til lovgiver. Tilsvarende er det naturlig at leder er mer varsom med å overprøve bevisvurderingen under skyldspørsmålet.
+
+Som Øyen er inne på, har pålegg om overtakelse av saker en side til instruksjonsretten. Et pålegg fra leder til en statsadvokat eller politiadvokat om å overta en sak for en kollega – for eksempel grunnet kollisjoner med andre saker som er berammet – innebærer utøvelse av instruksjonsmyndighet. På saksbehandlingsstadiet er det unaturlig å kalle et slikt pålegg for utøvelse av instruksjonsmyndighet. Dette stiller seg annerledes når saken skal føres for retten. Politijuristen eller statsadvokaten kan bli pålagt å aktorere en sak de i utgangspunktet ikke kjenner, også i tilfelle hvor den enkelte mener at saken ikke er tilstrekkelig opplyst eller tilstrekkelig bevist. Leder av embetet kan i slike situasjoner pålegge ny politiaktor eller statsadvokat å aktorere saken – og gjennomføre den etter planen – selv om dennes oppfatning av bevisbildet er annerledes enn kollegaen som har tatt ut tiltalen. Et slikt pålegg bør bare gis etter en konkret vurdering av bevisbildet i saken, og vil nok ikke skje ofte. Departementet legger også til at aktor uansett, etter endt bevisføring, vil måtte vurdere om bevisene er tilstrekkelige for domfellelse jf. straffeprosessloven § 254 første ledd.
+
+Departementet har merket seg at det er delte meninger på dette området, blant annet statsadvokatembetenes innvendinger mot forslaget og deres bekymring for statsadvokatenes selvstendighet og uavhengighet. For å ivareta dette hensynet, er det viktig at det sikres notoritet for de instrukser som eventuelt gis. Riksadvokaten kan gi nærmere retningslinjer om dette. Departementet er uansett ikke bekymret for at en klargjøring i loven av at det skal være adgang til intern instruksjon, i vesentlig grad vil endre statsadvokatenes og påtalejuristens selvstendig rolle og ansvar for den enkelte sak. Intern instruksjon vil være et virkemiddel politimesteren eller førstestatsadvokaten kan benytte, men det er ikke grunn til å anta at dette vil skje i stor utstrekning.
+
+Riksadvokaten har påpekt at en lovfesting ikke skal medføre en adgang for fornærmede eller andre til å anmode om at saken realitetsbehandles av embetslederen eller politimesteren etter at den er ferdigbehandlet av statsadvokat eller påtalejurist i politiet. Departementet deler synspunktet. Ordningen skal fortsatt være at klageretten gjelder klagebehandling ved én overordnet instans. Embetslederen skal ikke realitetsbehandle klager utover dette.
+
+## Statsadvokatenes ansvar for fagledelse
+
+### Gjeldende rett
+
+Straffeprosessloven har ingen uttrykkelig bestemmelse om statsadvokatenes ansvar for fagledelse og tilsyn med påtalemyndigheten i politiet. Det fremgår av straffeprosessloven §§ 58 og 59 at statsadvokaten er overordnet påtalemyndigheten i politiet, som blant annet innebærer at statsadvokaten kan «gi pålegg umiddelbart til politiets tjenestemenn», og at statsadvokaten helt eller delvis kan «overta behandlingen av en sak» som hører under påtalemyndigheten i politiet. Det er imidlertid etablert praksis, og en nødvendig konsekvens av overordningsforholdet, at Den høyere påtalemyndighet har et ansvar for fagledelse av påtalemyndigheten i politiet. Fagledelsen innebærer at statsadvokatembetene skal kvalitetssikre det påtalemessige arbeidet til påtalemyndigheten i politiet, gjennom veiledning, opplæring, instruksjon og kontroll, herunder tilsyn med politiets straffesaksbehandling. Ansvaret for fagledelse fremgår også av påtaleinstruksen § 7-5 annet ledd, som bestemmer at «påtalemyndigheten har ansvaret for at etterforskingen skjer i samsvar med lov og instruks». I NOU 2017: 5 *En påtalemyndighet for fremtiden – Påtaleanalysen* punkt 4.4.3 side 61 og 5.10 side 91–98 vises det også til politiske styringsdokumenter, herunder budsjettinnstillinger og tildelingsbrev, som grunnlag for statsadvokatenes ansvar for fagledelse.
+
+Det vises ellers til riksadvokatens rundskriv «Statsadvokatenes fagledelse av politiet» nr. 3/2020.
+
+### Straffeprosessutvalgets forslag
+
+Straffeprosessutvalget vurderer statsadvokatenes ansvar for fagledelse i utredningen punkt 8.2.2 på side 186. Utvalget foreslår at ansvaret lovfestes, og at det i loven angis at dette omfatter tilsyn med straffesaksbehandlingen i politiet og faglig veiledning til påtalemyndigheten i politiet.
+
+Utvalget viser til at ansvaret for fagledelse allerede følger av gjeldende rett, men at det er en utbredt oppfatning at arbeidspress knyttet til behandlingen av enkeltsaker gir mindre tid enn ønskelig til oppgaven. Utvalget viser videre til at et stort antall straffesaker avgjøres av påtalemyndigheten i politiet, uten at statsadvokaten involveres, og at det primært er påtalemyndigheten i politiet som har reell mulighet til å øve innflytelse på etterforskingen. Godt påtalearbeid i politiet er derfor en nøkkel til kvalitet. Av den grunn ønsker utvalget å styrke statsadvokatenes fagledelse gjennom en konkret hjemmel i straffeprosessloven.
+
+Forslaget må sees i sammenheng med utvalgets forslag om delegasjonsadgang og instruksjonsmyndighet, som samlet er ment å bidra til fleksibilitet og mulighet for at påtalemyndigheten i politiet kan avlaste statsadvokatene i deres påtalearbeid. Påtaleanalyseutvalget har også foreslått at statsadvokatenes ansvar for fagledelse styrkes, se NOU 2017: 5 punkt 12.4.4 side 193 og 12.4.5 side 194.
+
+### Høringsinstansenes syn
+
+Av høringsinstansene har *Nordland statsadvokatembeter, Oslo statsadvokatembeter, Riksadvokaten, Troms og Finnmark statsadvokatembeter* og *Øst politidistrikt* uttalt seg om forslaget.
+
+Samtlige høringsinstanser støtter forslaget om en lovfesting av statsadvokatenes ansvar for fagledelse. *Riksadvokaten* påpeker at fagledelsen i dag er en så sentral del av statsadvokatenes virksomhet at det er naturlig at det fremheves i loven. *Øst politidistrikt* bemerker at statsadvokatene som en konsekvens av lovfestingen må tilføres ytterligere ressurser, og foreslår at det også stilles krav til at de enkelte statsadvokatembeter utarbeider planer for hvordan deres fagledelse skal utføres. Øst politidistrikt ber om at det vurderes om dette også bør inntas i lovteksten.
+
+### Departementets vurdering
+
+Departementet mener i likhet med Straffeprosessutvalget at det er behov for å tydeliggjøre statsadvokatenes ansvar for fagledelse. En lovfesting vil etter departementets syn formalisere og rette oppmerksomhet mot fagledelse som en sentral del av statsadvokatenes oppgaver. Statsadvokatenes fagledelse av politiet skal omfatte hele straffesaksbehandlingen. Det foreslås at ansvaret nedfelles i straffeprosessloven § 57 nytt sjette ledd.
+
+Lovendringen må sees i sammenheng med forslaget om å utvide delegasjonsadgangen for Den høyere påtalemyndighet, se punkt 14.6, som vil kunne frigjøre ressurser til gjennomføring av fagledelsen. Frigjorte ressurser er ment å kunne benyttes til en større grad av fagledelse. Riksadvokaten kan gi nærmere retningslinjer om hvordan fagledelsen skal utøves.
+
+## Påtalejuristens rolle som etterforskingsleder
+
+### Gjeldende rett
+
+Straffeprosessloven § 225 første ledd første punktum bestemmer at etterforskingen skal «iverksettes og utføres av politiet». Selv om ordlyden ikke uttrykkelig sier noe om hvem som har det formelle og overordnede ansvaret for etterforskingen, er det ikke tvilsomt at det er påtalemyndigheten i politiet som har dette ansvaret etter gjeldende rett. Dette følger av etablert praksis, og av påtaleinstruksen § 7-5 annet ledd første punktum, som bestemmer at «\[p\]åtalemyndigheten har ansvaret for at etterforskingen skjer i samsvar med lov og instruks og kan etter behovet i den enkelte sak gi pålegg om etterforskingens gjennomføring».
+
+Både avgjørelsen av om etterforsking skal settes i verk, og hvordan den skal gjennomføres, herunder om den skal utvides eller begrenses, samt om den skal stanses, tilligger i prinsippet påtalemyndigheten i politiet. Myndigheten til å iverksette etterforsking kan delegeres, uttrykkelig eller stilltiende, til tjenestemenn i politiet som ikke tilhører påtalemyndigheten. Uten slik delegasjon har tjenestemenn som ikke hører til påtalemyndigheten bare selvstendig myndighet til å foreta etterforskingsskritt som ikke uten skade kan utsettes, jf. straffeprosessloven § 225 første ledd annet punktum.
+
+### Straffeprosessutvalgets forslag
+
+Straffeprosessutvalget foreslår å presisere det formelle ansvaret for etterforskingen i loven, se utredningen punkt 14.2.2 på side 301 og 302 og lovutkastet § 13-4. Videre foreslår utvalget å lovfeste at tjenestemenn i politiet som ikke tilhører påtalemyndigheten kan iverksette etterforsking så langt det følger av fullmakt, og at det som regel er tjenestemenn i politiet som utfører etterforskingen. Forslaget er ikke ment som en endring av gjeldende rett, og er begrunnet med et ønske om at det reelle ansvarsforholdet skal fremgå uttrykkelig av loven.
+
+### Høringsinstansenes syn
+
+Av høringsinstansene har *Hordaland statsadvokatembeter, Norges politilederlag, Oslo statsadvokatembeter, Politidirektoratet, Politiets fellesforbund, PST, Riksadvokaten* og *Øst politidistrikt* uttalt seg om forslaget.
+
+*Hordaland statsadvokatembeter, Oslo statsadvokatembeter, PST og Riksadvokaten* støtter utvalgets forslag. *Hordaland statsadvokatembeter* viser til at ansvaret for etterforskingen må skje i samarbeid med den politifaglige ledelsen, slik utvalget også påpeker, og at det ikke bør legges opp til mer detaljstyring enn i dag. Det bemerkes videre at det er helt sentralt at den politifaglige ledelse kan styre etterforskingen i det daglige og ta polititaktiske beslutninger underveis, uten å måtte innhente beslutninger om dette fra påtalemyndigheten. *Oslo statsadvokatembeter* og *Riksadvokaten* understreker også viktigheten av et godt samarbeid mellom den påtalemessige og politifaglige ledelsen.
+
+*Politidirektoratet* støtter utvalgets forslag, men mener det er en svakhet at forslaget ikke får frem den sentrale rollen den politifaglige etterforskingslederen har. Politidirektoratet foreslår derfor å supplere bestemmelsen med at politiet har ansvaret for den praktiske gjennomføringen av etterforskingen. *Øst politidistrikt* er positive til en tydeliggjøring av ansvaret for etterforskingen, men er bekymret for at utvalgets forslag vil dreie etterforskingsprosessen i retning av en for detaljert påtalestyring, og viser til at etterforsking er en aktivitet som best gjøres når polititjenestemenn og påtalejurister samarbeider tett. Politidistriktet mener det er viktig at politiets rolle også fremgår tydelig av bestemmelsen.
+
+*Politiets fellesforbund* støtter ikke forslaget. Det vises til at ordlyden i § 225 allerede legger til rette for en hensiktsmessig utnyttelse av både den juridiske og den politifaglige profesjon, og at dagens bestemmelse gjenspeiler at totalansvaret for etterforskingen ivaretas av både påtalemyndigheten og politiutdannede tjenestemenn og kvinner. Politiets fellesforbund mener også at forslaget ikke får frem det politifaglige ansvaret for etterforskingen på en god nok måte, og at det politifaglige ansvaret snarere bør tydeliggjøres enn fjernes. Det vises til at en stor del av etterforskingen i praksis foregår uten at påtaleansvarlig involveres, og at en påstand om at påtalemyndigheten bør ha ansvar for alle sider ved etterforskingen savner tilstrekkelig faglig grunnlag. Politiets fellesforbund påpeker at det i lov, forskrift eller instruks heller bør lages et klart skille mellom påtaleansvarlig med overordnet ansvar for etterforskingen og etterforskingsleder med politifaglig ansvar for gjennomføringen.
+
+### Departementets vurdering
+
+Departementet foreslår i likhet med utvalget å lovfeste at etterforsking besluttes, ledes og avsluttes av påtalemyndigheten, for derved å tydeliggjøre hvem som har det overordnete ansvaret. Av samme grunn foreslår departementet å ta ordet «iverksette» ut av nytt første ledd annet punktum i straffeprosessloven § 225, slik at setningen bare bestemmer at «etterforsking utføres av politiet».
+
+På bakgrunn av høringsinstansenes merknader finner departementet grunn til å understreke at forslaget ikke medfører noen endring i hvordan etterforskingen i praksis skal gjennomføres. Det er heller ikke hensikten at lovendringen skal innebære økt detaljstyring av politiets etterforskingsarbeid. Som i dag skal påtalemyndighetens overordnede ledelse av etterforskingen foregå i tett dialog med ansvarshavende tjenestemenn i politiet (den politifaglige etterforskingsleder), og det er fortsatt politiutdannede som vil ha ansvaret for å utføre etterforskingen og de politifaglige vurderingene. Lovendringen vil kunne bidra til effektivitet og økt kvalitet gjennom tydeliggjøring av påtalejuristens ansvar og rolle ved å redusere den slitasje som uklar rolle- og ansvarsfordeling kan medføre. Departementet vil understreke at det politifaglige ansvaret for etterforskingen ikke blir mindre viktig av den foreslåtte regulering i loven.
+
+Departementet mener at det bør presiseres i loven at tjenestemenn i politiet som ikke tilhører påtalemyndigheten, kan beslutte etterforsking og foreta etterforskingsskritt så langt det følger av fullmakt. På den måten vil det fremgå uttrykkelig at påtalemyndigheten kan delegere spørsmålet om beslutning av etterforsking til tjenestemenn i politiet. Delegasjonsadgangen gjør det mulig for den politifaglige ledelsen å styre etterforskingen i det daglige og ta politifaglige beslutninger underveis. Etter departementets syn er det ikke behov for ytterligere presisering av at politiet har ansvaret for den praktiske gjennomføringen av etterforskingen, slik *Politidirektoratet* foreslår, eller å lovfeste et skille mellom påtalefaglig og politifaglig ledelse. På samme måte som etter gjeldende rett kan delegasjon av adgangen til å beslutte etterforsking gjøres både ved uttrykkelig og stilltiende fullmakt.
+
+## Delegasjon av påtalekompetanse
+
+### Riksadvokatens delegasjonsadgang
+
+Riksadvokaten har den overordnede ledelsen av påtalemyndigheten, jf. straffeprosessloven § 56 annet ledd, og er gitt ansvaret for tiltalespørsmålet i de mest alvorlige straffesakene, jf. straffeprosessloven § 65 første ledd. Etter straffeprosessloven § 65 annet ledd kan riksadvokaten bare overlate avgjørelsen av tiltalespørsmålet til statsadvokaten «i den enkelte sak», dersom saken gjelder lovbrudd som kan straffes med fengsel inntil 21 år. I de øvrige sakene hvor riksadvokaten har påtalekompetanse er det ikke adgang til å delegere avgjørelsen av påtalespørsmålet. At avgjørelsen av påtalespørsmålet bare kan delegeres i den enkelte sak, betyr også at det ikke er adgang til delegasjon ved generell instruks.
+
+*Straffeprosessutvalget* går inn for å lovfeste at riksadvokaten skal kunne delegere påtalekompetanse ved generell instruks, se utredningen punkt 8.4.1 side 197 og lovutkastet § 2-11 fjerde ledd. Utvalget foreslår også en bestemmelse om at riksadvokaten kan gi generell instruks om at avgjørelser som etter loven hører under statsadvokaten, kan treffes av påtalemyndigheten i politiet.
+
+Utvalget begrunner forslagene med behovet for fleksibilitet, og at det synes rimelig at riksadvokaten som påtalemyndighetens øverste leder gis større rom enn i dag til å øve innflytelse på arbeidsdelingen i etatene. Etter utvalgets syn er det ingen grunn til å betvile at riksadvokaten vil benytte adgangen til delegasjon på forsvarlig vis. Utgangspunktet skal fortsatt være at riksadvokaten primært har kompetansen til å avgjøre påtalespørsmålet i saker som gjelder lovbrudd med 21 års strafferamme eller mer. Delegasjonsadgangen skal primært brukes når særlige hensyn gjør seg gjeldende. Et eksempel kan være tilfeller der det, til tross for lovbruddets strafferamme, erfaringsmessig kan forekomme noe mindre alvorlige overtredelser, og der spesialiserte påtalegrupper i politiet har særlig gode faglige forutsetninger.
+
+Av *høringsinstansene* har *Nordland statsadvokatembeter*, *Riksadvokaten* og *Troms og Finnmark statsadvokatembeter* uttalt seg om forslaget. Alle de nevnte instansene støtter forslaget.
+
+Departementet foreslår å endre straffeprosessloven § 65 annet ledd i samsvar med utvalgets forslag, og viser til den begrunnelse som er gitt av utvalget. En adgang for riksadvokaten til å delegere påtalekompetansen nedover i hierarkiet vil kunne bidra til bedre ressursutnyttelse i påtalemyndigheten. I tillegg antas de foreslåtte endringene å kunne bidra til at påtaleavgjørelser treffes raskere. Departementet viser til at utvidet delegasjonsadgang ikke antas å generere merarbeid av betydning for statsadvokatene og påtalemyndigheten i politiet, ettersom de i alle tilfeller uansett må utarbeide innstilling med forslag til avgjørelse.
+
+### Statsadvokatens delegasjonsadgang
+
+Statsadvokaten avgjør spørsmålet om tiltale når det ikke hører under riksadvokaten eller politiet, jf. straffeprosessloven § 66. Kompetansen gjelder primært for lovbrudd som kan straffes med fengsel i mer enn ett år, jf. den generelle kompetansen for påtalemyndigheten i politiet etter § 67 annet ledd bokstav a. Lovbrudd som kan straffes med fengsel i inntil 21 år eller mer er underlagt riksadvokatens påtalekompetanse. I tillegg er det angitt en rekke straffebud i straffeprosessloven § 65 første ledd nr. 3 til 6 og § 67 annet ledd bokstav b og c hvor påtalekompetansen likevel ligger hos enten riksadvokaten eller påtalemyndigheten i politiet. Etter gjeldende rett har ikke statsadvokaten kompetanse til å delegere avgjørelsen av spørsmålet om påtale til påtalemyndigheten i politiet, verken i den enkelte sak eller ved generell instruks.
+
+*Straffeprosessutvalget* foreslår å lovfeste at statsadvokaten skal kunne overlate påtaleavgjørelsen til påtalemyndigheten i politiet i enkeltsaker, se utredningen punkt 8.2.2 side 187 og lovutkastet § 2-11. Forslaget er begrunnet på samme måte som forslaget om utvidelse av riksadvokatens delegasjonsadgang, se punkt 14.6.1. En utvidelse av riksadvokaten og statsadvokatenes delegasjonsadgang vil sammen bidra til økt fleksibilitet i straffesaksbehandlingen. Som for riksadvokatens delegasjonsadgang påpeker utvalget at delegasjon primært skal være aktuelt når særlige hensyn gjør seg gjeldende. Utvalget viser til at det for eksempel kan være aktuelt med delegasjon der spesialiserte påtalegrupper i politiet har særlig gode faglige forutsetninger for å treffe påtaleavgjørelser.
+
+Av *høringsinstansene* har *Nordland statsadvokatembeter* og *Riksadvokaten* uttalt seg om forslaget. Begge støtter forslaget.
+
+Departementet foreslår i likhet med utvalget å lovfeste at statsadvokaten i den enkelte sak kan delegere avgjørelsen av spørsmålet om påtale til påtalemyndigheten i politiet. Endringen foreslås inntatt i nytt annet punktum i straffeprosessloven § 66. Forslaget må ses i sammenheng med forslaget om at riksadvokaten kan delegere tilsvarende ved generell instruks, se punkt 14.6.1. Forslaget til lovendring vil gi statsadvokatembetene større fleksibilitet i straffesaksbehandlingen, og vil kunne gjøre det mulig å effektivisere behandlingen av mindre krevende saker. Departementet antar at forslaget vil kunne bidra til bedre ressursutnyttelse og til at påtaleavgjørelser kan treffes raskere. Delegasjon vil særlig være aktuelt i saker der det til tross for høy strafferamme erfaringsmessig kan forekomme noe mindre alvorlige overtredelser, og der spesialiserte påtalegrupper i politiet har særlig gode faglige forutsetninger. I tillegg kan delegasjonsadgangen være praktisk i saker med mange tiltaleposter, hvor bare én hører under overordnet påtalemyndighet.
+
+## Overføring av saker til Spesialenheten for politisaker
+
+### Gjeldende rett
+
+Etter gjeldende rett har Spesialenheten for politisaker (Spesialenheten) ansvaret for strafforfølgningen i saker hvor embets- eller tjenestemenn i politiet eller påtalemyndigheten er anmeldt for eller mistenkes for å ha begått en straffbar handling i tjenesten, jf. straffeprosessloven § 67 sjette ledd første og annet punktum. Dette gjelder både etterforsking og avgjørelsen av spørsmålet om påtale, så lenge spørsmålet om påtale ikke hører under riksadvokaten, jf. § 67 sjette ledd tredje punktum. Spesialenheten er ikke en del av påtalemyndigheten, jf. straffeprosessloven § 55, men har etterforskings- og påtalekompetanse innenfor sitt saksområde. Det fremgår av § 67 sjette ledd tredje punktum at Spesialenhetens leder har kompetanse til å avgjøre tiltalespørsmålet i saker som hører under organets ansvarsområde, med unntak av de saker der avgjørelsen skal treffes av riksadvokaten. Det følger av sjette ledd femte punktum at Spesialenheten er underlagt riksadvokatens instruksjonsmyndighet.
+
+I påtaleinstruksen kapitel 34 er det gitt nærmere regler om Spesialenhetens kompetanse. Videre har riksadvokaten gitt retningslinjer i rundskriv nr. 3/2006. I saker med to eller flere mistenkte, der ikke alle er ansatt i politiet eller påtalemyndigheten, avgjør riksadvokaten om Spesialenheten skal lede etterforskingen av hele saken, eller om ledelsen av etterforskingen skal deles, jf. påtaleinstruksen § 34-9 tredje ledd første punktum. I saker hvor det er mistanke om at en ansatt i politiet eller påtalemyndigheten har begått straffbare handlinger både i og utenfor tjenesten, avgjør riksadvokaten om enheten skal lede etterforskingen av hele saken, eller om ledelsen av etterforskingen og avgjørelsen av påtalespørsmålet skal deles, jf. § 34-9 tredje ledd annet punktum.
+
+### Straffeprosessutvalgets forslag
+
+Straffeprosessutvalget foreslår i det vesentlige å videreføre Spesialenhetens ansvarsområde, jf. utredningen punkt 8.2.4 på side 188 og lovutkastet § 2-15. Utvalget foreslår imidlertid å lovfeste en generell adgang for riksadvokaten til å beslutte overføring av saker til Spesialenheten når det er grunn til det. Utvalget viser i den sammenheng til påtaleinstruksen § 34-9 tredje ledd, som åpner for dette i saker med flere mistenkte eller flere forhold, der kun deler av sakskomplekset er underlagt enhetens alminnelige saksområde. Utvalget foreslår at riksadvokaten også kan overføre saker til enheten i andre tilfeller når behovet for uavhengighet til politiet og den øvrige påtalemyndighet, hensynet til offentlighetens tillit eller andre særlige grunner tilsier det.
+
+### Høringsinstansenes syn og departementets vurdering
+
+Ingen av *høringsinstansene* har hatt innvendinger mot forslaget.
+
+Departementet foreslår i likhet med utvalget å lovfeste en generell adgang for riksadvokaten til å overføre saker til Spesialenheten. Det vises til utvalgets begrunnelse for forslaget. Selv om det neppe vil være aktuelt å overføre mange saker til Spesialenheten, ut over de saker enheten behandler i dag, kan det være hensiktsmessig med en slik adgang i enkelte tilfeller. Overføring kan for eksempel være hensiktsmessig der det er tvil om et anmeldt forhold er begått i eller utenfor tjenesten, og i saker der en person i ledende stilling i politiet eller påtalemyndigheten er anmeldt for å ha begått et straffbart forhold utenfor tjenesten.
+
+## Frafall av riksadvokattiltale
+
+*Etter gjeldende rett* kan aktor frafalle enkelte tiltaleposter eller tiltalen i sin helhet under hovedforhandlingen, jf. straffeprosessloven § 254 første ledd første punktum. Dersom spørsmålet om tiltale hører under Kongen eller riksadvokaten, krever frafall likevel samtykke fra riksadvokaten, jf. straffeprosessloven § 254 første ledd annet punktum. Ved lov 1. november 2019 nr. 71 om endringer i straffeprosessloven (påtalemyndighetens uavhengighet m.m.) ble bestemmelsene om Kongens tiltalekompetanse opphevet, slik at det bare er frafall av riksadvokattiltale som krever samtykke fra riksadvokaten i dag.
+
+*Straffeprosessutvalget* foreslår å avskaffe kravet om samtykke for å frafalle riksadvokattiltale. Forslaget begrunnes ikke nærmere, utover generelle henvisninger til effektivitet.
+
+*Riksadvokaten* støtter forslaget. Ingen andre har uttalt seg om forslaget.
+
+Departementet foreslår i likhet med utvalget å avskaffe kravet om samtykke fra riksadvokaten for å frafalle enkelte tiltaleposter, eller tiltalen i sin helhet under hovedforhandlingen. Møtende aktor har normalt det beste grunnlaget for å vurdere om en tiltalepost skal frafalles under hovedforhandlingen. Etter departementets syn samsvarer forslaget bedre med møtende aktors rolle og kompetanse for øvrig. Møtende aktor vil selvsagt fortsatt kunne ta opp spørsmålet om å frafalle tiltalen med riksadvokaten, men aktors myndighet etter loven bør ikke være betinget av samtykke. Som nevnt ble bestemmelsene om Kongens tiltalekompetanse opphevet ved lov 1. november 2019 nr. 71 om endringer i straffeprosessloven (påtalemyndighetens uavhengighet m.m.). Departementet foreslår derfor å oppheve straffeprosessloven § 254 første ledd annet punktum i sin helhet.
+
+## Politiets henleggelseskompetanse
+
+### Gjeldende rett
+
+Straffeprosessloven inneholder ingen uttrykkelig bestemmelse om politiets kompetanse til å henlegge saker. Adgangen til å henlegge saker etter gjeldende rett fremgår indirekte av objektivitetsplikten etter straffeprosessloven § 55 a fjerde ledd og av straffeprosessloven § 249, som bestemmer at spørsmålet om tiltale skal avgjøres så snart saken er tilstrekkelig forberedt til det. Når saken er ferdig etterforsket, kan påtalemyndigheten påtale forholdet eller henlegge saken.
+
+I påtaleinstruksen er det gitt nærmere retningslinjer om påtalemyndighetens henleggelseskompetanse. Det følger av påtaleinstruksen § 17-1 at en sak skal innstilles (henlegges) dersom det ikke er grunnlag for å fortsette en påbegynt etterforsking. Påtaleinstruksen § 17-1 annet ledd bestemmer videre at når noen anses som siktet i en sak hvor kompetansen til å ta ut tiltale hører under overordnet påtalemyndighet, skal spørsmålet om å frafalle siktelsen likevel forelegges denne. Så lenge ingen er siktet i saken har politiet dermed henleggelseskompetanse i alle saker. Politiet har videre henleggelseskompetanse dersom påtalekompetansen ligger hos politiet etter straffeprosessloven § 67, uavhengig av om noen har vært siktet. I andre saker må spørsmålet om henleggelse forelegges rette statsadvokat eller riksadvokaten.
+
+### Straffeprosessutvalgets forslag
+
+Straffeprosessutvalget foreslår å lovfeste at påtalemyndigheten i politiet kan treffe beslutning om henleggelse i alle saker, jf. utredningen punkt 8.3.3 side 195, punkt 8.4.1 side 199 og lovutkastet § 2-11 tredje ledd. Forslaget begrunnes med at det som et utgangspunkt er mindre alvorlig å beslutte henleggelse enn å treffe vedtak om strafforfølgning, og at kapasitetshensyn taler for at saker skal kunne henlegges av lavere nivå i påtalemyndigheten. At den fornærmede har adgang til å klage over henleggelsesvedtaket, sørger for tilstrekkelig kvalitetssikring av politiets beslutninger.
+
+Utvalget mener at den foreslåtte lovhjemmelen bør følges av nærmere regulering i forskrift eller instruks, slik som etter gjeldende rett. På den måten kan det gis organisatoriske rammer og rutiner for internkontroll, som er fleksible og kan justeres av riksadvokaten eller Kongen i statsråd. Slike retningslinjer vil sørge for ytterligere kvalitetssikring, og gi forutsigbarhet for tjenestepersonene i påtalemyndigheten og politiet. Dersom den foreslåtte lovbestemmelsen suppleres av tilsvarende retningslinjer som i påtaleinstruksen § 17-1, mener utvalget at endringsforslaget ikke vil være en endring av gjeldende rett.
+
+### Høringsinstansenes syn
+
+Av høringsinstansene har *Nordland statsadvokatembeter*, *Politidirektoratet* og *Riksadvokaten* uttalt seg om forslaget.
+
+*Nordland statsadvokatembeter* og *Riksadvokaten* stiller seg bak forslaget. Riksadvokaten mener forslaget legger bedre til rette for at statsadvokatene kan bruke sine ressurser på andre og mer presserende oppgaver, og at adgangen til å påklage henleggelsesvedtaket sørger for tilstrekkelig kvalitetssikring. Samtidig mener Riksadvokaten at det fra tid til annen vil være behov for å løfte spørsmålet om henleggelse av enkelte sakstyper til statsadvokatnivået. Det foreslås derfor at en slik adgang fremgår uttrykkelig av loven, for eksempel ved at henleggelseskompetansen legges til politiet «når ikke riksadvokaten har besluttet annet». *Nordland statsadvokatembeter* gir uttrykk for liknende synspunkter. *Politidirektoratet* støtter ikke forslaget. Politidirektoratet ser det som en viktig kvalitetssikring at enkelte sakstyper behandles i to ledd, og at dette særlig gjelder i saker hvor det ikke er noen fornærmet som kan påklage henleggelsen.
+
+### Departementets vurdering
+
+Departementet går inn for å lovfeste at politiet har kompetanse til å fatte vedtak om henleggelse i alle saker, slik utvalget har foreslått. Dette vil gi en klar kompetansebestemmelse for spørsmålet om henleggelse. Det vises til utvalgets begrunnelse, se punkt 14.9.2. I lys av merknadene til *Nordland statsadvokatembeter* og *Riksadvokaten* foreslår departementet i tillegg at henleggelseskompetansen skal utøves av politiet «når ikke riksadvokaten har besluttet annet». På den måten kan riksadvokaten gi retningslinjer som sørger for tilstrekkelig kvalitetssikring av henleggelsesvedtakene der det er nødvendig, herunder i sakene hvor det ikke er noen fornærmet som kan påklage henleggelsesvedtaket. Dette vil også være viktig for å sørge for likebehandling og lik praksis rundt om i landet. Riksadvokaten har det overordnede ansvaret for straffesaksbehandlingen i påtalemyndigheten, og er dermed best egnet til å vurdere når det er behov for at Den høyere påtalemyndighet også skal vurdere henleggelsesvedtakene. Samtidig vil en slik ordning legge til rette for å balansere hensynene til effektivitet og kvalitet på en hensiktsmessig og ressursbesparende måte.
+
+Se ellers forslag til lovfesting av de viktigste grunnlagene for henleggelse i punkt 15.2.4.

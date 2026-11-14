@@ -1,1164 +1,215 @@
-# Prop. 68 L (2015–2016), del 3 av 29 (side 26–35)
+# Prop. 68 L (2015–2016), del 3 av 27
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2016/fb2c12df-prop-68-l-20152016.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-68-l-20152016/id2479232/
 - Original-PDF: https://www.regjeringen.no/contentassets/d2bd4dc7fdb44d90b0d094f4d415b981/no/pdfs/prp201520160068000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 26]
-
-26
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-er bekymret for at virksomheter som forvalter
-store verdier, ikke tar trusselen fra nettverks­
-operasjoner tilstrekkelig på alvor, og at mangel­
-full sikkerhetskultur og kompetanse bidrar til
-at sårbarhetene vedvarer.
-Etterretningsvirksomhet i det digitale rom
-innebærer også kartlegging av og digitale ope­
-rasjoner mot kommunikasjons- og informa­
-sjonsinfrastrukturer. Datautstyr og program­
-vare kan infiseres og manipuleres for avlyt­
-tings- og sabotasjeformål. Etterretningstjenester kan også utnytte leverandører, ser­
-vicepersonell og utro tjenere som en inngang
-for å installere slike skadevarer. Gjennom digi­
-tale angrep kan fremmede staters etterret­
-ningstjenester uten forvarsel dermed ramme
-kritisk infrastruktur, med et betydelig skade­
-potensial for Norge som stat og samfunn.»
-I tillegg til å representere nye utfordringer for
-politiet, kan den teknologiske utviklingen også
-legge til rette for å gi politiet nye verktøy til etter­
-forskning, avverging og forebygging, for eksem­
-pel dataavlesing. Når lovbrudd gjennomføres ved
-hjelp av datateknologi, etterlates dessuten ofte
-elektroniske spor. Åpne og lukkede nettsteder og
-nettverk åpner også nye muligheter for spaning.
-Kriminelle utøvere tar del i samfunnets teknolo­
-giske utvikling, og økt bruk av mobiltelefoni, sosi­
-ale medier og annen IKT-basert kommunikasjon,
-er utbredt ved de fleste typer alvorlige lovbrudd
-hvor kriminelle aktører samarbeider. Skal politiet
-avdekke og oppklare alvorlige forbrytelser, vil
-skjult tilstedeværelse på disse arenaene kunne
-være avgjørende for å innhente informasjon og
-bevis.
-
-4.5
-
-Terrorisme
-
-I EOS-utvalgets Årsmelding for 2011 fremheves
-terrorisme og soloterrorisme som trusler, og det
-fremgår at dette stiller andre krav til sikkerhets­
-tjenestene enn tidligere, jf. kapittel III punkt 3 side
-11:
-«Trusselbildet er i dag preget av internasjonal
-terrorisme og soloterrorisme, selv om også de
-mer tradisjonelle trusler fremdeles gjør seg gjel­
-dende, for eksempel fremmed etterretnings­
-virksomhet og voldelige ekstreme grupperin­
-ger. At trusler kan komme fra enkeltpersoner og
-ikke-statlige organisasjoner, stiller andre krav til
-tjenestene enn tidligere og reiser en rekke per­
-sonvernrelaterte problemstillinger […].»
-
-2015–2016
-
-22. juli-kommisjonen ga i NOU 2012: 14 på side 15
-uttrykk for at PST, med en bedre arbeidsmeto­
-dikk, kunne ha kommet på sporet av gjernings­
-mannen før 22. juli. Om kommisjonens syn på hvil­
-ken adgang PST bør ha for å ta i bruk inngripende
-metoder for å bekjempe terror, heter det i utred­
-ningen punkt 16.6 side 390:
-«Kommisjonen mener det er viktig at PST får
-tilgang til effektive metoder også innenfor IKT­
-basert informasjonsinnhenting, knyttet til de
-konkrete sakene hvor det foreligger et reelt
-behov for å undersøke om noen er i ferd med å
-planlegge et terrorangrep. Det vil være situa­
-sjoner der det er legitimt å ta i bruk inngri­
-pende tiltak for å beskytte det som terrorister
-ønsker å ramme – demokratiet som styreform
-og verdier som individets frihet og grunnleg­
-gende menneskerettigheter.»
-Kommisjonen viser til at Metodekontrollutvalgets
-utredning, og henvendelser fra PST og Kripos om
-klarere regler, ligger i Justis- og beredskapsdepar­
-tementet i påvente av behandling, og i punkt 16.6
-side 391 note 107 nevner kommisjonen blant
-annet dataavlesing som aktuelt tema.
-I den samordnede trusselvurderingen fra E­
-tjenesten, NSM og PST for 2013 side 14–15 kon­
-kluderes det med at utviklingen de senere årene
-viser at vi står overfor et mer skjerpet, fragmen­
-tert og uoversiktlig trusselbilde. Personer og mil­
-jøer inspirert av ekstrem islamistisk ideologi,
-anses å utgjøre den mest alvorlige terrortrusselen
-i og mot Norge. Annen ideologisk forankring, herunder islamfiendtlighet samt høyre- og venstreek­
-stremisme, kan også ligge til grunn for terror­
-handlinger. På side 7 heter det:
-«I Norge er det et multietnisk ekstremt islamis­
-tisk miljø som utgjør kjernen i terrortrusselen.
-Miljøet består hovedsakelig av unge menn opp­
-vokst i Norge. Miljøet har flere handlingsorien­
-terte ledere, og de formidler en ekstremistisk
-retorikk der blant annet Norge er sentral i fien­
-debildet. Det forventes at dette miljøet fortsatt
-vil være aktivt med på å radikalisere, rekrut­
-tere, spre voldelig propaganda samt samle inn
-penger.»
-Sikkerhetstjenestene gir uttrykk for at en økning i
-politisk høyreekstremistisk aktivitet i Europa fore­
-løpig ikke har påvirket trusselbildet i Norge. Det
-vurderes som mest sannsynlig at eventuelle ter­
-rortrusler fra høyreekstreme eller islamfiendtlige
-aktører, rettet mot Norge eller norske interesser i
-
-[Side 27]
-
-2015–2016
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-utlandet, vil komme fra enkeltindivider eller små
-grupper.
-Ovennevnte vurdering gjentas og utbygges
-noe i oppsummeringen i Åpen trusselvurdering
-2013 fra PST:
-«Ekstrem islamisme utgjør fortsatt den mest
-alvorlige terrortrusselen i Norge, og vi forven­
-ter at den vil gjøre det også i 2013. Personer i de
-ekstreme islamistiske miljøene vil fremdeles
-være opptatt av å formidle ekstremistisk reto­
-rikk, der blant annet Norge står sentralt i fien­
-debildet. Dette gjør propagandaen appelle­
-rende for påvirkelige ungdommer her i landet,
-og bidrar til at radikalisering fremdeles vil
-være et trekk ved trusselbildet.
-I løpet av 2013 kan det bli en økning av
-antall personer i de norske miljøene med erfa­
-ring fra treningsleire og kamphandlinger. Per­
-soner med denne type erfaring forventes å ha
-fått en lavere terskel for bruk av vold.
-De organiserte høyre- og venstreekstreme
-miljøene fremstår som mindre truende mot
-samfunnet enn de ekstreme islamistiske miljø­
-ene. De kan imidlertid utføre vold mot enkelte
-politiske motstandere eller religiøse og etniske
-minoriteter. Enkeltpersoner og små grupper
-som opererer uavhengig av de organiserte mil­
-jøene, representerer en stor utfordring i 2013.
-Anders Behring Breivik vil fortsatt være en
-inspirator for enkeltpersoner, både i Norge og
-internasjonalt. Selv om de fleste sympatisører i
-Norge synes å ta avstand fra terroraksjonen på
-Utøya, er det flere som støtter angrepet mot
-regjeringskvartalet og regjeringen.»
-I Åpen trusselvurdering 2014 slår PST fast at ter­
-rortrusselen mot Norge anses som skjerpet. Den
-største trusselen kommer fortsatt fra et multiet­
-nisk ekstremt islamistisk miljø på Østlandet. Et
-lite antall personer har stor betydning for aktivite­
-ten i, og trusselen fra, dette miljøet. Flere
-ekstreme islamister fra Norge har, gjennom del­
-takelse i kamp og trening med militante grupper i
-utlandet, blant annet i Syria, fått økt kapasitet til å
-gjennomføre terrorhandlinger. Enkelte av dem
-som returnerer fra slike opphold, vurderes i 2014
-å representere en potensiell trussel mot norske
-interesser.
-I forbindelse med terrortrusselen sommeren
-2014, der fire medlemmer av terrororganisasjo­
-nen Den islamske staten i Irak og Levanten (ISIL)
-ble antatt å være på vei til Norge for å gjennom­
-føre en terroraksjon, ble beredskapen hevet og til­
-tak iverksatt for å trygge Norge. I EOS-utvalgets
-
-27
-
-Årsmelding for 2014 punkt 1.4.3 side 8 er følgende
-uttalt om terrorvarselet:
-«I slutten av juli 2014 offentliggjorde PST at tje­
-nesten hadde mottatt informasjon fra utenland­
-ske samarbeidende tjenester om at det var en
-gruppe personer på vei fra Syria til Europa med
-den hensikt å gjennomføre en terrorhandling i
-Norge. Norske myndigheter vurderte det som
-nødvendig å iverksette en rekke forebyggende
-sikkerhetstiltak på bakgrunn av terrorvarselet.
-Utvalget har fått grundige og informative
-orienteringer om hvordan PST, E-tjenesten og
-NSM har arbeidet med terrortrusselen, herunder særlig om samarbeidet og informasjons­
-utvekslingen mellom PST og E-tjenesten.
-Utvalget har i denne sammenheng også blitt
-orientert om mistanke om lekkasjer av sikker­
-hetsgradert informasjon i sakens anledning.
-Videre har utvalget inspisert arkiver og regis­
-tre i PST og E-tjenesten, for å kontrollere om
-tjenestenes informasjonsinnhenting og meto­
-debruk har vært i samsvar med de gjeldende
-rettslige vilkårene. […]
-Undersøkelsene i PST har ikke gitt grunn
-til videre oppfølging fra utvalgets side. […]»
-PSTs trusselvurdering for 2014 ble supplert med
-et tillegg 5. november 2014, der de mest sannsyn­
-lige terrorscenarier basert på den senere tids
-utvikling skisseres. Her tas det utgangspunkt i at
-det den senere tid har vært gjennomført en rekke
-arrestasjoner i vestlige land for å avverge terror­
-angrep. Ved de fleste av disse arrestasjonene har
-det blitt påvist indirekte eller direkte knytninger
-til terrororganisasjonen ISIL og konflikten i Syria
-og Irak. PST og E-tjenesten har tidligere varslet
-om en negativ utvikling i trusselbildet, og PST slår
-i den supplerende trusselvurderingen fast at situa­
-sjonen har tilspisset seg de siste månedene. Det
-pekes blant annet på at ISIL i september 2014
-publiserte en tale hvor terrororganisasjonen opp­
-fordrer sine tilhengere til å gjennomføre angrep i
-alle land som er en del av den USA-ledede allian­
-sen mot ISIL. I talen oppfordrer ISIL spesifikt til
-angrep mot militært personell samt medlemmer
-av politi-, sikkerhets- og etterretningstjenester.
-PST mener oppfordringene i talen må sees i sam­
-menheng med endringene innen modus operandi
-for ekstrem islamistisk terror i Europa de siste
-årene. Ideologisk inspirasjon fra ISIL og andre ter­
-rororganisasjoner er en sentral driver for terror­
-handlinger, også for personer som har en løs orga­
-nisatorisk tilknytning. Ekstrem islamistisk terror i
-Europa har de siste årene vært preget av lite kom­
-
-[Side 28]
-
-28
-
-2015–2016
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-plekse angrep, utført med våpen og virkemidler
-som er enkle å anskaffe og bruke. Angrepene har
-i økende grad blitt rettet mot lett tilgjengelige,
-men symbolske mål. Slike angrep kan være van­
-skelige å forhåndsvarsle. PST mener imidlertid at
-risikoen vil kunne reduseres ved å iverksette
-effektive sårbarhetsreduserende tiltak.
-I
-den
-oppdaterte
-trusselvurderingen
-5. november 2014 fremgår det at Etterretningstje­
-nesten og PST, gjennom Felles kontraterrorsenter
-(FKTS), utarbeidet en gradert trusselvurdering
-som er formidlet til relevante departementer og
-etater. Det konkluderes der med at det innenfor
-de kommende 12 månedene er sannsynlig at det
-kan trues med, og bli forsøkt utført, terrorangrep
-i Norge. Med utgangspunkt i gjeldende trender
-innenfor ekstreme islamisters mål og metoder,
-samt det fiendebildet som tegnes av ISIL, antas
-det at militært personell, politi og enkelte politiske
-beslutningstakere kan være særlig utsatte. Depar­
-tementet bemerker at politidrap i Frankrike og en
-planlagt, men avverget terroraksjon i Belgia i
-januar 2015 tyder på at dette medfører riktighet.
-I Åpen trusselvurdering 2015 slår PST fast at
-den negative utviklingen av trusselsituasjonen i
-Norge forventes å fortsette i 2015. Det finnes aktive
-ekstreme islamistiske miljøer i Norge som tiltrek­
-ker seg nye tilhengere og rekrutterer fremmedkri­
-gere. PST legger til grunn at norske fremmedkri­
-gere som inngår i terrorgrupper i utlandet, kan
-utvikle voldsintensjon og -kapasitet, og at hjem­
-vendte personer vil kunne ha en lavere terskel for
-voldsbruk i Norge. Norske fremmedkrigere som
-forblir i utlandet, er forbilder for sympatisører i
-Norge og kan være pådrivere for radikalisering og
-rekruttering. ISILs og al-Qaidas oppfordringer om
-hevnaksjoner, samt terrorhendelser i vestlige land,
-vil kunne påvirke enkeltpersoner til å gjennomføre
-voldsaksjoner i Norge. Det slås fast at Norge er en
-sentral del av fiendebildet til aktive ekstreme isla­
-mistiske miljøer i Norge, og at norsk militær delta­
-kelse mot ISIL og al-Qaida vil kunne bidra til å for­
-sterke fiendebildet. Dette fiendebildet favner dess­
-uten mange ulike aktører. Ulike meningsmotstan­
-dere, både muslimer og ikke-muslimer, kan derfor
-bli gjenstand for truende eller voldelige handlinger
-fra ekstreme islamister. Dette kan inkludere for­
-skere, journalister, politikere, religiøse talsperso­
-ner, og andre samfunnsdebattanter som konfron­
-terer eller motarbeider ekstremistene.
-Også E-tjenesten mener at terrortrusselen
-mot Norge øker, jf. Fokus 2015 side 72 flg.:
-«Den spesifikke terrortrusselen mot Norge
-vurderes å øke i 2015. Det skyldes at personer
-
-med tilknytning til Norge og andre nordiske
-land i større grad enn tidligere har kontakt
-med internasjonale militante islamistgrupper. I
-tillegg er det en konsekvens av Norges bidrag
-til koalisjonen mot ISIL og sistnevntes oppfor­
-dringer om angrep mot land som inngår i koa­
-lisjonen. […]»
-E-tjenesten påpeker at trusselen fremmedkri­
-gerne utgjør, har minst tre dimensjoner. Den ene
-er trusselen fra små grupper eller individer som
-returnerer til Norge for å gjennomføre angrep på
-eget initiativ, etter å ha blitt ideologisk inspirert og
-radikalisert som følge av sitt opphold blant mili­
-tante islamister. Den andre er trusselen fra organi­
-serte celler som returnerer med oppdrag om å
-iverksette angrep. For det tredje kan fremmedkri­
-gere fra Norge oppfordre og instruere personer i
-sitt kontaktnettverk i Norge til å gjennomføre
-angrep. Det er dermed også en mulighet for at
-personer som ikke selv reiser til konfliktområder,
-men som er en del av radikale miljøer, vil forsøke
-å gjennomføre angrep i Norge på eget initiativ
-etter inspirasjon fra grupper i utlandet.
-Den 28. oktober 2015 uttalte PST at sannsyn­
-ligheten for terrorangrep fra ISIL-sympatisører er
-noe redusert. Dette skyldes primært endringer
-knyttet til de norske ekstremistmiljøene. 18 perso­
-ner fra miljøene er mest sannsynlig drept i Syria,
-mens 9 er varetektsfengslet og siktet for terror­
-relatert kriminalitet. Dette innebærer at miljøene
-totalt sett fremstår som noe svekket.
-I Åpen trusselvurdering 2016 fremgår det at
-ekstrem islamisme fortsatt vurderes å utgjøre den
-største terrortrusselen, og det er mulig at det i
-løpet av 2016 vil bli forsøkt gjennomført terroran­
-grep i Norge. Det er usikkert hva som er den
-fremtidige strategien til ISIL og al-Qaida. I den
-grad de ønsker å gjennomføre sentralstyrte ter­
-roraksjoner i vestlige land, vil terrortrusselen
-kunne øke i Norge. PST påpeker likevel at Norge
-ikke er blant de mest profilerte landene som inn­
-går i ISILs og al-Qaidas fiendebilde.
-Trusselen fra de høyreekstreme miljøene i
-Norge er vurdert som økende. Antall sympatisø­
-rer som ikke er en del av et organisert miljø, er
-også vurdert å være i vekst. Mobilisering rundt
-temaer knyttet til det høye antallet flyktninger og
-asylsøkere er årsaken til denne utviklingen.
-I september 2015 ga PST uttrykk for at den
-økte tilstrømningen av flyktninger og asylsøkere
-til Norge kan få negative følger for trusselbildet
-knyttet til det høyreekstreme miljøet i Norge.
-Dette fordi motstand mot innvandring er en av de
-mest sentrale sakene, og en viktig mobiliserings­
-
-[Side 29]
-
-2015–2016
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-faktor, for dette miljøet. Det ligger også et poten­
-sial for at venstreekstreme miljøer i Norge kan
-samles rundt saker relatert til flyktningkrisen. En
-eskalering av konflikten med det høyreekstreme
-miljøet kan føre til motreaksjoner og voldelige
-sammenstøt mellom høyre- og venstreekstremis­
-ter. Asylsøkere knyttet til ekstrem islamisme
-framstår ikke som en sentral bekymring for PST
-på kort sikt. På lengre sikt er det mulig at enkelte
-asylsøkere vil kunne utgjøre en terrortrussel i
-Norge. PST begrunner dette med at asylsøkere er
-en sårbar gruppe for radikalisering, men her vil
-det også være store variasjoner, blant annet basert
-på landbakgrunn og sosioøkonomiske forhold.
-Det er heller ikke en nødvendig sammenheng
-mellom det å ha vært en voldsaktivist i et krigs­
-herjet hjemland og det å bli en voldsutøver i et
-nytt land.
-D e p a r t e m e n t e t vil påpeke at man gjen­
-nom de ti siste årene har sett en utvikling i måten
-politisk motivert vold utføres på gjennom ulike
-terroraksjoner. USA 11. september 2001, Madrid
-2004 og London 2005 er eksempler på store, spek­
-takulære terroraksjoner. De siste årene har deri­
-mot vist en tendens til at mer spredte aksjoner blir
-forsøkt gjennomført og utført. Flere av disse ter­
-rorhandlingene er utført av enkeltpersoner som
-handler etter inspirasjon fra andre, men de står for
-selve gjennomføringen på egenhånd. Eksempler
-er terroraksjoner i Stockholm og København i
-2010, der bare aktivistene selv ble rammet.
-Angrep mot mål i Europa er altså blitt mindre
-komplekse, jf. også E-tjenestens vurdering Fokus
-2015 side 72 flg. Det er en tendens til at det bru­
-kes enkle våpentyper, som håndvåpen og kniv, og
-at angrep rettes mot symboltunge mål. Terroran­
-grepene mot det jødiske museum i Brussel mai
-2014 og mot redaksjonslokalene til satiremagasi­
-net Charlie Hebdo i Paris 7. januar 2015, samt den
-påfølgende gisseltakingen i en jødisk butikk, er
-eksempler på dette. På et fransk nettforum ble
-det, etter angrepet mot Charlie Hebdo, gitt
-uttrykk for at Danmark og Norge var neste ter­
-rormål. Trusselen kan etter alt å dømme forstås i
-lys av karikaturstriden i 2006, hvor det spesielt var
-Danmark og Norge som var i søkelyset. I midten
-av februar 2015 ble to personer, i tillegg til terro­
-risten, drept og flere såret i et dobbelt terroran­
-grep mot henholdsvis en synagoge og et debatt­
-møte om ytringsfrihet i København, der Muham­
-med-tegner Lars Vilks var en av deltagerne.
-Departementet legger til grunn at terrortrus­
-selen mot Norge økte våren 2015, i tråd med sik­
-kerhetstjenestenes vurderinger. Det bemerkes
-imidlertid at terrortrusselen synes å være noe
-
-29
-
-mindre våren 2016, som følge av at en rekke per­
-soner fra de norske ekstremistmiljøene enten er
-drept, varetektsfengslet eller dømt for terrorrela­
-terte lovbrudd. Utviklingen fremover vil likevel
-være ustabil og usikker. Trusler og oppfordringer,
-blant annet fra ISIL, kan fortsatt påvirke enkelt­
-personer eller små grupper til å gjennomføre ter­
-rorangrep. I den grad ISIL og al-Qaida ønsker å
-gjennomføre sentralstyrte terroraksjoner i vest­
-lige land, vil terrortrusselen også kunne øke i
-Norge. Samtidig vil flyktningkrisen kunne med­
-føre økt oppslutning om høyre- og venstre­
-ekstreme miljøer.
-
-4.6
-
-Menneskehandel, menneske­
-smugling og prostitusjon
-
-I Kripos’ rapport Den organiserte kriminaliteten i
-Norge – trender og utfordringer 2013–2014 anføres
-det at de økonomiske nedgangstidene i SørEuropa vil påvirke kriminalitetsbildet i Norge, og
-at det er en risiko for at antallet mennesker som
-oppholder seg ulovlig i Norge vil øke. Det vil igjen
-føre til alvorlig kriminalitet som menneskehandel,
-menneskesmugling, bruk av falske identiteter,
-svart arbeid, narkotika- og vinningskriminalitet.
-På side 4 uttales det:
-«Antallet irregulære migranter som oppholder
-seg i Norge uten avklart identitet, er bekym­
-ringsfullt. Irregulære migranter kan knyttes til
-ulike kriminalitetsområder, både som ofre og
-gjerningspersoner.[…]»
-Menneskehandel og menneskesmugling omtales
-på side 22–28 i Kripos’ rapport. Her påpekes det at
-grenseoppgangen mellom menneskesmugling og
-menneskehandel ofte er uklar ved at mange
-innsmuglede står i et gjeldsforhold til smuglerne
-og må gjøre opp for seg etter ankomst til Norge, for
-eksempel gjennom tvangsarbeid eller narkotika­
-salg.
-I likhet med menneskesmugling er menneske­
-handel en relativt skjult kriminalitet i den forstand
-at selv om tjenestene/arbeidet offeret utfører er
-synlig, vil ikke nødvendigvis utnyttelsen, selve
-kontrollen eller kontrollmekanismene være det.
-Ofre for menneskehandel kan ha mange grunner
-til ikke å anmelde forholdet, for eksempel frykt
-for represalier mot dem selv eller deres familie
-hjemme, og det er opp til politiet å avdekke denne
-formen for kriminalitet. Tradisjonelt forbindes
-menneskehandel med utnyttelse av kvinner til
-prostitusjon. De siste årene har imidlertid opp­
-
-[Side 30]
-
-30
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-merksomheten i økende grad blitt rettet mot
-utnyttelse til tvangsarbeid, tigging, vinningskrimi­
-nalitet, samt utnyttelse av kvinner innen au pair­
-instituttet.
-På prostitusjonsområdet finnes aktører fra
-Nigeria, Russland, Balkan og Øst-Europa. Mange
-av de kriminelle aktørene er fysisk plassert i
-hjemlandet og kontrollerer sine ofre «hjemme­
-fra». Også norske menn er dømt for menneske­
-handel. Flere politidistrikter melder om at nett­
-verk som er involvert i menneskehandel knyttet
-til prostitusjon er multikriminelle, ved at de også
-er involvert i narkotika-, volds- og vinningskrimi­
-nalitet.
-I Trendrapport 2016 Organisert og annen kri­
-minalitet i Norge påpeker Kripos at migrasjons­
-presset på Europa er rekordhøyt. Flyktninger fra
-det krigsherjede Syria topper statistikken over
-ulovlige grensepasseringer til Europa, etterfulgt
-av personer fra Eritrea og Afghanistan. De fleste
-migrantene som kommer til Europa, benytter seg
-av menneskesmuglere på hele eller deler av rei­
-sen. Organisert menneskesmugling kan ha Norge
-som mål. Smuglerne er gode til å tilpasse seg, og
-de risikerer migrantenes sikkerhet for å øke pro­
-fitten og minimere risikoen for å bli tatt. I en del
-tilfeller tvinges migrantene inn i kriminalitet eller
-det svarte arbeidsmarkedet når de ankommer
-Europa, for å kunne betale tilbake gjelden til
-smuglerne, men det er likevel lite sannsynlig at
-organisert menneskehandel er formålet med
-menneskesmuglingen.
-I prostitusjonsmiljøene i de store byene er det i
-stor grad ulike etniske grupperinger som utmer­
-ker seg. På innemarkedene i flere av de store
-byene er rumenske og etnisk albanske nettverk
-aktive, mens utemarkedene det siste året fortsatt
-har vært dominert av nigerianske og rumenske
-aktører. I flere av de store byene er kriminelle
-nettverk som organiserer prostitusjon også aktive
-innen andre former for kriminalitet, blant annet
-narkotikaomsetning og helerivirksomhet. Ved å få
-sine ofre til å utføre kriminalitet, reduserer krimi­
-nelle bakmenn sin egen eksponering og risiko for
-å bli avslørt.
-
-4.7
-
-Spredning av masse­
-ødeleggelsesvåpen
-
-Masseødeleggelsesvåpen er fellesbetegnelsen på
-våpen som har kjernefysiske, biologiske eller kje­
-miske stridsmidler som last, kombinert med et
-effektivt leveringsmiddel, og kjennetegnes ved
-stort skadeomfang, massedød og store materielle
-
-2015–2016
-
-skader. Masseødeleggelsesvåpen utgjør derfor en
-av de største potensielle truslene mot internasjo­
-nal stabilitet og sikkerhet. Norge har ikke masse­
-ødeleggelsesvåpen, og vi har heller ikke noen
-umiddelbar trussel fra slike våpen mot oss. Vi har
-imidlertid meget avansert teknologi som kan
-inngå som viktige deler i utviklingen av masseøde­
-leggelsesvåpen. I den samordnede vurderingen
-fra E-tjenesten, NSM og PST for 2013 side 10 nev­
-nes spredning av masseødeleggelsesvåpen som
-en trussel:
-«Spredning av materiale, teknologi og utstyr til
-bruk i produksjon av [masseødeleggelsesvå­
-pen] blir stadig mer krevende å avdekke og
-kontrollere for nasjonale og internasjonale
-eksportkontrolletater. For å omgå eksportkon­
-trollregelverket benyttes ulike metoder, og det
-eksisterer en rekke fordekte anskaffelsesnett­
-verk.
-Det finnes et betydelig antall virksomheter
-i Norge som har kunnskap og teknologi som
-kan brukes i utviklingen av [masseødeleggel­
-sesvåpen]. De fremste målene i Norge omfat­
-ter små og store virksomheter innenfor sivile
-høyteknologmiljøer, forsvarsindustrien, samt
-et bredt spekter av forsknings- og utviklings­
-miljøer. Svakheter i klareringsrutiner for stu­
-denter og forskere fra land av bekymring gjør
-det vanskeligere å kontrollere kunnskapsover­
-føring relatert til fagområder som har fler­
-bruksverdi.»
-Dette behandles også i oppsummeringen i PSTs
-Åpen trusselvurdering 2013:
-«De fleste forsøk på å skaffe teknologi fra nor­
-ske virksomheter, som er relevant for utvikling
-av masseødeleggelsesvåpen, kan knyttes til
-iranske aktører. Mål i Norge for denne aktivite­
-ten finnes blant både små og store virksomhe­
-ter innenfor sivile høyteknologimiljøer, forsvar­
-sindustrien, samt et bredt spekter av
-forsknings- og utviklingsmiljøer.»
-I PSTs trusselvurdering fra 2014 bekreftes det at
-iranske aktører fortsatt står bak de fleste forsøk i
-Norge på å skaffe varer og teknologi som kan
-anvendes til fremstilling av masseødeleggelses­
-våpen. Dette ses i sammenheng med de interna­
-sjonale sanksjonene, som har medført omfattende
-restriksjoner på handel med Iran.
-I Åpen trusselvurdering 2015 fremgår det at
-Iran forventes å fortsette som hovedaktør bak
-ulovlige og fordekte anskaffelsesforsøk til støtte
-
-[Side 31]
-
-2015–2016
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-for sin produksjon av masseødeleggelsesvåpen.
-Forhandlingene mellom det internasjonale sam­
-funnet og Iran har ikke ført til nedgang i antall
-skjulte anskaffelsesforsøk mot norske virksom­
-heter. I tillegg forventes ulovlig kunnskapsover­
-føring å fortsette.
-Det fremgår av Åpen trusselvurdering 2016
-side 9 at atomavtalen inngått i 2015 mellom Iran
-og de fem sikkerhetsrådsmaktene USA, Russland,
-Kina, Storbritannia og Frankrike, samt Tyskland,
-har til hensikt å sikre at Irans kjernefysiske aktivi­
-teter er av sivil karakter. Imidlertid er eksport av
-varer, teknologi, tjenester og kunnskap som er
-relevant for masseødeleggelsesvåpen og leve­
-ringsmidler for slike, fortsatt regulert av eksport­
-kontrollregelverket. Flere land i Asia og Midt­
-østen forsøker å gjennomføre fordekte anskaffel­
-ser i Europa. Hensikten er å anskaffe varer til
-egne nasjonale programmer for masseøde­
-leggelsesvåpen eller avanserte våpenprogrammer.
-Private aktører og utdanningsinstitusjoner bidrar
-også til fordekte anskaffelser. Ofte er disse en del
-av et større internasjonalt anskaffelsesnettverk
-som samarbeider for å omgå norsk og europeisk
-eksportkontrollregelverk. PST påpeker at ulovlige
-leveranser fra Norge til bekymringsland, kan få
-store negative konsekvenser, og både norske
-bedrifter og norske myndigheters omdømme kan
-bli skadelidende.
-
-4.8
-
-Overgrepsbilder av barn
-
-I Kripos’ Trendrapport 2015 Organisert og annen
-kriminalitet i Norge gis det uttrykk for at det er
-påvist en sammenheng mellom fildeling av over­
-grepsbilder og fysiske seksuelle overgrep mot
-barn. Internett og teknologi har forenklet distribu­
-sjon, produksjon og deling av ulovlige overgreps­
-bilder, og det er rapportert om mange hendelser.
-Overgripere driver utstrakt fildeling seg imellom i
-såkalte P2P-nettverk, som fungerer som organi­
-serte distribusjonssentre. I 2012 hentet Kripos ut
-tall på hvor mange nordmenn som delte straffbare
-overgrepsbilder i ett fildelingsnettverk (OP
-Share). Her fant man langt flere brukere som
-delte ulovlige bilder enn forventet. I etterkant har
-Kripos i 2013–14 opprettet 99 saker om ulovlig
-bildedeling, fordelt på alle politidistriktene. En
-
-31
-
-sammenligning av antallet brukere av dette fil­
-delingsnettverket før og etter aksjonen viser en
-markant nedgang – fra 2 331 brukere på 120
-dager, til 1 291 brukere i en tilsvarende periode ett
-år senere. Det meste er gratis materiale som deles
-i ikke-kommersielle kanaler, hvor grovheten og
-nytt materiale er inngangsporten til å få tilsendt
-bilder eller delta i ulike fora. Nedgangen tyder på
-at slike aksjoner har en forebyggende effekt på
-kort sikt. Det er vanskelig å si hvor lenge en slik
-aksjon mot ett av mange nettverk vil virke all­
-mennpreventivt, men Kripos finner det svært
-sannsynlig at deling av seksuelle overgrepsbilder
-av barn er et fenomen som vil øke i omfang.
-Norsk politi har også vært involvert i en omfat­
-tende kanadisk sak, der en kanadier sto bak pro­
-duksjon og salg av seksuelle overgrepsbilder og
--videoer av barn. I Norge er det opprettet 36 saker
-i kjølvannet av denne etterforskningen. Begge de
-nevnte sakene har ført til en markant økning av
-saker i 2013–2014 der nordmenn er i besittelse av
-seksuelle overgrepsbilder via datasystemer. Det
-er grunn til å forvente at overgripere utvider sine
-grenser og deltar i grovere misbruk ved at de fin­
-ner både likesinnede og ny informasjon samlet på
-anonyme arenaer på nett.
-I Kripos’ Trendrapport 2016 Organisert og
-annen kriminalitet i Norge uttales det at Internett
-har blitt et svært viktig verktøy for seksualforbry­
-tere. De søker kontakt med potensielle ofre på
-Internett, etablerer anonyme nettverk med andre
-med samme preferanser og bruker Internett til å
-organisere overgrep, både i hjemlandet og i utlan­
-det. Bestilling og strømming av seksuelle over­
-grep på Internett utgjør en stadig økende trussel.
-Denne kriminaliteten utføres gjerne av kriminelle
-nettverk som kontrollerer tilgang til barn som
-enten er hjemløse eller som selges av sine for­
-eldre. Personer i andre land kan så se direkteover­
-førte overgrep på nett mot betaling. Overgrepene
-kan være vanskelige å spore, da de normalt ikke
-lagres og foregår via kryptering som gjør sporing
-vanskelig. Strømming av seksuelle overgrep på
-Internett skjer også til Norge. Kripos mener det er
-meget sannsynlig at strømming av seksuelle over­
-grep over Internett skjer i et langt større omfang
-enn hva som er kjent i dag, og det er forventet å
-øke i fremtiden.
-
-[Side 32]
-
-32
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-2015–2016
-
-5 Konstitusjonelle og menneskerettslige skranker
-for politiets metodebruk
-5.1
-
-Grunnloven § 102
-
-5.1.1
-
-Bakgrunn
-
-De fleste reglene om bruk av skjulte tvangsmidler
-krever at det er skjellig grunn til å tro at det begås
-eller er begått et lovbrudd av en viss alvorlighets­
-grad. Ved lov 17. juni 2005 nr. 87 ble imidlertid
-politiet gitt adgang til å anvende skjulte tvangs­
-midler for å innhente informasjon med sikte på å
-avverge og forebygge alvorlig kriminalitet. Det ble
-her åpnet for at både politiet og PST kan bruke
-ransaking og andre tvangsmidler for å avverge
-alvorlige lovbrudd, jf. straffeprosessloven § 222 d.
-Bestemmelsen stiller ikke krav til mistanke om at
-en straffbar handling er utført. Det er nok at vilkå­
-ret for å iverksette etterforskning er oppfylt, dvs.
-at det er rimelig grunn til å undersøke om det
-foreligger straffbart forhold, se nærmere neden­
-for punkt 13.4.1. I tillegg må det være «rimelig
-grunn til å tro at noen kommer til å begå» en
-alvorlig straffbar handling. Videre ble PST gitt
-anledning til å bruke hemmelig ransaking også
-for forebyggende formål, jf. politiloven § 17 d. Her
-er vilkåret at det er «grunn til å undersøke om
-noen forbereder» terrorhandlinger, visse lov­
-brudd mot rikets sikkerhet eller attentat mot myn­
-dighetspersoner. Ransaking for forebyggende for­
-mål kan likevel ikke skje i «private hjem», jf. politi­
-loven § 17 d andre ledd i.f. Ved den samme lov­
-revisjonen i 2005 ble det dessuten for første gang
-åpnet for romavlytting. Denne metoden kan bru­
-kes både når det er mistanke om at noen har
-begått en alvorlig straffbar handling, jf. straffepro­
-sessloven § 216 m, samt for å avverge eller fore­
-bygge visse alvorlige lovbrudd, jf. henholdsvis
-straffeprosessloven § 222 d og politiloven § 17 d.
-Som et ledd i evalueringen av de innførte poli­
-timetodene vurderte Metodekontrollutvalget
-grunnlovsmessigheten av adgangen til hemmelig
-ransaking og romavlytting i forebyggende og
-avvergende øyemed, jf. politiloven § 17 d og
-straffeprosessloven § 222 d. Utvalget har også vur­
-dert ulike former for dataavlesing opp mot Grunn­
-
-loven § 102. Utvalgsmedlem professor dr. juris
-Erling Johannes Husabø ble bedt om å utrede
-grunnlovsspørsmålet nærmere. Utvalget besluttet
-i tillegg å anvende ekstern ekspertise ved vurde­
-ringen, og det ble innhentet en betenkning av pro­
-fessor dr. juris Alf Petter Høgberg og (davæ­
-rende) universitetsstipendiat Marius Stub.
-Begge de innhentede betenkningene konklu­
-derte med at enkelte av dagens lovtillatte metoder
-er i strid med Grunnloven § 102, slik den da lød.
-Både Husabø og Høgberg/Stub mente at «HusInkvisisjoner» i Grunnloven § 102 ikke bare
-omfattet ransaking, men også romavlytting og
-visse former for dataavlesing. Videre la både
-Husabø og Høgberg/Stub til grunn at unntaket
-for kriminelle tilfeller bare kom til anvendelse der
-det allerede er begått en straffbar handling, slik at
-ransaking mv. i private hjem i avvergende øyemed
-ikke kan iverksettes dersom det for eksempel
-ikke er mistanke om at det har skjedd noe mer
-enn straffri forberedelse. Begge betenkningene
-konkluderte på den bakgrunn også med at adgan­
-gen til romavlytting i privat bolig i forebyggende
-øyemed etter politiloven § 17 d er grunnlovsstri­
-dig. Dessuten anså man hjemmelen for hemmelig
-ransaking og romavlytting i avvergende øyemed
-etter straffeprosessloven § 222 d å stå i et tvilsomt
-forhold til Grunnloven § 102, for så vidt gjaldt inn­
-grep i private hjem. Også innbrudd for å legge til
-rette for dataavlesing ble vurdert å kunne være
-problematisk i relasjon til Grunnloven § 102.
-Metodekontrollutvalgets flertall sluttet seg til
-hovedtrekkene i de to innhentede betenkningene,
-og fant at det var gode grunner for å mene at det
-forelå grunnlovsstrid. På denne bakgrunn foreslo
-flertallet endringer i politiloven § 17 d og straffe­
-prosessloven § 222 d for å sikre at Grunnlovens
-krav tilfredsstilles.
-Utvalgets mindretall mente derimot at Grunn­
-loven ikke var til hinder for ransaking og romav­
-lytting i privat bolig i forebyggende øyemed, og
-foreslo derfor en utvidelse av politiloven § 17 d for
-så vidt gjaldt ransaking. Mindretallet var, i mot­
-setning til flertallet, ikke enig med Husabø og
-
-[Side 33]
-
-2015–2016
-
-33
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-Høgberg/Stub i at unntaket for kriminelle tilfeller
-krever at det allerede er begått en kriminell hand­
-ling. Mindretallet synes dessuten å legge til grunn
-at PSTs forebyggende virksomhet ikke er å anse
-som husransakelse ettersom hovedformålet er
-informasjonsinnhenting og ikke strafforfølgning,
-se metodekontrollutvalgets rapport punkt 13.4 på
-side 156–157.
-5.1.2
-
-Oversikt
-
-Grunnloven § 102 etablerer et generelt grunn­
-lovsvern for privatlivets fred og personlig integri­
-tet. Bestemmelsen ble endret i forbindelse med
-grunnlovsreformen i mai 2014 (res. 14. mai 2014
-nr. 628), trådte i kraft 18. mai 2014 og lyder slik:
-§ 102.
-Enhver har rett til respekt for sitt privatliv
-og familieliv, sitt hjem og sin kommunikasjon.
-Husransakelse må ikke finne sted, unntatt i kri­
-minelle tilfeller.
-Statens myndigheter skal sikre et vern om
-den personlige integritet.
-Før grunnlovsendringen ble Grunnloven § 102
-som forbød «Hus-Inkvisisjoner» med unntak av i
-«kriminelle Tilfælde» ansett som et begrenset
-utslag av retten til vern om privatliv og ga ikke
-noe generelt vern for privatlivets fred. Et slikt
-generelt vern ble i norsk rett først og fremst ivare­
-tatt av EMK artikkel 8 og SP artikkel 17 gjennom
-menneskerettsloven, personopplysningsloven og
-ulovfestede personvernprinsipper.
-Første ledd første punktum gir et generelt vern
-for privatlivets fred. Det fremgår uttrykkelig at
-dette vernet omfatter respekt for privatliv, familieliv,
-hjem og kommunikasjon. Ordlyden i første ledd
-første punktum er tilnærmet identisk med EMK
-artikkel 8 som fastslår at «enhver har rett til
-respekt for sitt privatliv og familieliv, sitt hjem og
-sin korrespondanse». Det generelle vernet for pri­
-vatlivets fred i § 102 første ledd første punktum er
-utformet som en individuell rettighet. Om begrun­
-nelsen for dette heter det i Menneskerettighetsut­
-valgets rapport (Dokument 16 (2011–2012)) punkt
-30.6.6.2 side 177:
-«En annen begrunnelse for særskilt å frem­
-heve privatliv, familieliv, hjem og kommunika­
-sjon er at retten til respekt for disse verdiene
-bør utformes som en individuell rettighet i
-Grunnloven. Inngrep i privatliv, familieliv, hjem
-og kommunikasjon vil normalt oppleves som
-så krenkende at det er viktig at slike inngrep
-
-vurderes nøye i lovgivningsprosessen, og at de
-kan prøves for domstolene dersom lovgiver har
-gått for langt i å tillate slike inngrep. I en viss
-forstand kan man si at dette utgjør kjernen i
-den private sfære, der den enkelte har krav på
-et særlig vern mot krenkelser.»
-I første ledd annet punktum fastslås det at «hus­
-ransakelse» ikke må finne sted «unntatt i krimi­
-nelle tilfeller». Med dette videreføres forbudet
-mot husinkvisisjoner i den tidligere § 102, men
-med en annen og mer moderne språkdrakt. Men­
-neskerettighetsutvalget foreslo å ta bestemmel­
-sen ut, og anse det dekket av de mer generelle
-deler av ny § 102. Setningen ble likevel foreslått
-videreført i en av fire alternative formuleringer i
-Grunnlovsforslag Dokument 12:30 (2011–2012)
-side 179-180, uten nærmere begrunnelse, og innstilt på uten videre diskusjon. I grunnlovsforslaget
-ble for øvrig uttrykket husinkvisisjon i den tidli­
-gere bestemmelsen erstattet med «husundersø­
-kelse». Dette uttrykket ble igjen endret til «hus­
-ransakelse» i den vedtatte bestemmelsen.
-I annet ledd fastslås det at statens myndig­
-heter skal sikre den enkeltes personlige integri­
-tet. Integritetsvernet er utformet som en positiv
-forpliktelse for statens myndigheter. Ifølge Kon­
-troll- og konstitusjonskomiteen er annet ledd
-utformet «mer som en politisk retningslinje, som
-imidlertid også innebærer en ytterste skranke
-for lovgiver», se Innst. 186 S (2013–2014) side 27.
-Komiteen viser til at samme presisering som her
-er foreslått, er gjennomført i samtlige menneske­
-rettighetskonvensjoner og i EUs Charter of Fun­
-damental Rights. Det kan i den sammenheng
-bemerkes at EMK artikkel 8 gir staten en positiv
-forpliktelse til å iverksette tiltak for å forhindre at
-andre griper inn i den enkeltes privatliv, selv om
-dette ikke fremgår like klart av ordlyden som i
-Grunnloven § 102 annet ledd, se også Menneske­
-rettighetsutvalgets rapport punkt 30.4 side 170.
-Det er likevel usikkert hvor langt denne forplik­
-telsen rekker.
-Menneskerettighetsutvalget legger tilsva­
-rende til grunn at § 102 annet ledd innebærer at
-«myndighetene har en generell plikt til å sørge for
-lovgivning som sikrer den enkeltes kroppslige og
-mentale integritet, gjennom for eksempel lovgiv­
-ning mot vold, mishandling og drap», se Mennes­
-kerettighetsutvalgets rapport (Dokument 16
-(2011–2012)) punkt 30.6.6.2 side 177. Det fremgår
-her at vernet om den personlige integritet er ment
-å skulle beskytte den kroppslige så vel som den
-psykiske integritet. Dette innebærer at Grunn­
-loven § 102 går lengre i å gi vern for den enkeltes
-
-[Side 34]
-
-34
-
-2015–2016
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-personlige integritet enn det personvernlovgivnin­
-gen tradisjonelt har gjort. Det er vanlig å avgrense
-personvernet til de regler som har som formål å
-beskytte den psykiske integritet. Et hovedelement
-i personvernet er at personer i utgangspunktet
-skal kunne bestemme hva andre skal få vite om
-hans eller hennes egne personlige forhold. Regler
-som skal verne individet mot fysisk ubehag eller
-skade faller således utenfor det tradisjonelle per­
-sonvernbegrepet. Den nye bestemmelsen supple­
-rer i så måte Grunnloven § 93 fjerde ledd, som
-pålegger statens myndigheter å beskytte retten til
-liv, jf. nedenfor.
-
-5.1.3
-5.1.3.1
-
-Adgangen til å foreta begrensninger i
-vernet
-Begrensninger i vernet etter § 102 første ledd
-første punktum
-
-De ulike politimetoder som ransaking, romavlyt­
-ting, kommunikasjonskontroll, dataavlesing, visi­
-tasjon og spaning, vil på forskjellige måter kunne
-gripe inn i de vernede interesser etter Grunnloven
-§ 102. Det reiser spørsmål om i hvilken grad det
-er adgang til å gjøre inngrep i dette vernet.
-Grunnloven § 102 gir etter sin ordlyd uttrykk
-for et omfattende vern. Vernet etter første ledd
-første punktum er likevel ikke absolutt. Det er for­
-utsatt i forarbeidene til grunnlovsforslaget at
-bestemmelsen ikke kan forstås slik at den enkelte
-har en udelt rett til å ha sitt privatliv i fred, se Men­
-neskerettighetsutvalgets rapport (Dokument 16
-(2011–2012)) side 178:
-«Forslag til første ledd vil da være utformet
-som en rettighet for den enkelte gjennom
-uttrykket «enhver». Den enkelte tildeles like­
-vel ikke en udelt rett til å ha sitt privatliv i fred,
-men har rett til «respekt» for sitt privatliv.»
-Grunnloven § 102 gir imidlertid ingen retningslin­
-jer for når det er tillatt å gjøre inngrep i den verne­
-des sfære for eksempel gjennom bruk av ulike
-politimetoder. Bestemmelsen hviler på en forut­
-setning om at det vedtas en generell regel om
-begrensninger i rettighetene etter Grunnloven og
-at denne angir hvilke vilkår som må være oppfylt
-for at det skal kunne gjøres inngrep i den verne­
-des sfære etter § 102, se Menneskerettighetsut­
-valgets rapport side 178:
-«Formuleringen utelukker derfor ikke at
-enkelte personer kan utsettes for overvåking
-og kontroll, men da må vilkårene for dette være
-
-til stede, jf. utvalgets forslag til begrensnings­
-hjemmel for rettighetene i Grunnloven, se
-kapittel 13.»
-En slik forutsetning fremgår også av flertallets
-merknader i Kontroll- og konstitusjonskomiteens
-innstilling (representantene fra Ap, Høyre og
-FrP), se Innst. 186 S (2013–2014) punkt 2.1.9:
-«Det alternativ flertallet stiller seg bak, gjør ret­
-ten til privatliv mv. i første ledd til en rettighet
-for den enkelte. Når retten er til «respekt for»
-privatlivet, er det likevel for å synliggjøre at lov­
-lig etterretning ikke er utelukket, som også dis­
-kutert av Menneskerettighetsutvalget.»
-Høyesterett har i nyere avgjørelser slått fast at
-vernet etter § 102 første ledd første punktum vil
-bero på en vurdering av om inngrepet i de ver­
-nede interesser ivaretar et legitimt formål, er for­
-holdsmessig og har tilstrekkelig hjemmel, se Rt.
-2014 side 1105 (avsnitt 28) og Rt. 2015 side 93. I
-sistnevnte avgjørelse (avsnitt 60) uttales følgende
-om tolkningen av Grunnloven § 102:
-«Til forskjell fra SP artikkel 17 og EMK artik­
-kel 8, inneholder Grunnloven § 102 ingen
-anvisning på om det overhodet kan gjøres lov­
-lige begrensninger i privat- og familielivet. Men
-grunnlovsvernet kan ikke være – og er heller
-ikke – absolutt. I tråd med de folkerettslige
-bestemmelsene som var mønster for denne
-delen av § 102, vil det være tillatt å gripe inn i
-rettighetene etter første ledd første punktum
-dersom tiltaket har tilstrekkelig hjemmel, for­
-følger et legitimt formål og er forholdsmessig,
-jf. Rt-2014-1105 avsnitt 28.»
-Det er således på det rene at vernet etter første
-ledd første punktum ikke er absolutt.
-5.1.3.2
-
-Begrensninger i vernet etter § 102 første ledd
-annet punktum
-
-Første ledd annet punktum gir derimot trolig et
-absolutt vern mot inngrep som er å anse som
-«husransakelse», med unntak av når dette gjøres
-«i kriminelle tilfeller». Første og annet punktum
-inneholder således bestemmelser av forskjellig
-karakter: Første punktum gir anvisning på en
-avveining, mens annet punktum inneholder et
-forbud. Ved vurderingen av om bruk av de ulike
-skjulte politimetodene i forebyggende eller
-avvergende øyemed er forenlig med Grunnloven
-§ 102, blir det dermed både spørsmål om de går
-
-[Side 35]
-
-2015–2016
-
-Prop. 68 L
-
-35
-
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-klar av forbudet i annet punktum, og om de kan
-forsvares etter avveiningen i første punktum.
-Det er ikke tvil om at politimetoder som kom­
-munikasjonskontroll, visitasjon og spaning ikke er
-å anse som «husransakelse», og slike metoder går
-dermed klar av forbudet mot husransakelse i annet
-punktum. Det er heller ikke tvilsomt at ransaking i
-private hjem er å anse som «husransakelse». Når
-det gjelder romavlytting og innbrudd ved dataavle­
-sing eller romavlytting, er det noe mer usikkert om
-tvangsmidlene omfattes av begrepet «husransa­
-kelse». Både Metodekontrollutvalgets flertall og de
-to betenkningene som er vedlagt Metodekontroll­
-utvalgets utredning la til grunn at forbudet mot
-«Hus-Inkvisisjoner», slik ordlyden da lød, omfattet
-romavlytting og innbrudd.
-Flere forhold trekker i retning av å anse slike
-metoder for å falle utenfor. For det første er en slik
-tolkning forenlig med ordlyden i annet punktum,
-som nå altså er endret fra «husinkvisisjon» til det
-snevrere uttrykket «husransakelse». For det annet
-er det mindre behov for en vid tolking av «hus­
-ransakelse» etter grunnlovsreformen i 2014, idet et
-mer generelt formulert grunnlovsvern nå følger av
-§ 102 første ledd første punktum.
-På den annen side tilsier Stortingets generelle
-intensjon – at det med språkrevisjonen ikke var
-meningen å forskyve meningsinnholdet i grunn­
-lovsbestemmelsene – at en ved tolkningen av den
-enkelte bestemmelse bør være varsom med å
-legge vekt på at ordlyden i bestemmelsen er snev­
-rere enn den var før reformen. Denne innvendin­
-gen har noe begrenset betydning ettersom også
-den tidligere rettstilstanden og rekkevidden av
-begrepet husinkvisisjon var uklar. Like fullt kan
-det hevdes at formålet med det opprinnelige for­
-budet mot husinkvisisjon var å verne om den pri­
-vate sfære, som både ransaking, romavlytting og
-innbrudd gjør inngrep i.
-Departementet finner det imidlertid ikke nød­
-vendig å ta endelig stilling til hvilke metoder som
-kan anses som «husransakelse» etter første ledd
-annet punktum, ettersom rekkevidden av begre­
-pet «husransakelse» uansett ikke har vært avgjø­
-rende for de forslag som fremmes i proposisjonen
-her. Forslagene anses å være forenlig med Grunn­
-loven § 102, også om en tar utgangspunkt i at de
-nevnte metodene, romavlytting og innbrudd ved
-dataavlesing eller romavlytting, omfattes av begre­
-pet «husransakelse» i første ledd annet punktum.
-Forbudet mot husransakelse er som nevnt
-ikke uten unntak. Selv om en politimetode omfat­
-tes av begrepet husransakelse, vil den ikke rammes av forbudet dersom den benyttes «i krimi­
-nelle tilfeller». Uttrykket «i kriminelle tilfeller»
-
-omfatter utvilsomt de tilfeller hvor de aktuelle
-politimetodene benyttes som ledd i undersøkelser
-knyttet til straffbare handlinger som allerede har
-funnet sted. Politiets undersøkelser er imidlertid
-ikke begrenset utelukkende til å oppklare allerede
-begåtte lovbrudd. Politiet har også som oppgave å
-avverge og forebygge fremtidig kriminalitet. For å
-styrke politiets avvergende og forebyggende funk­
-sjon, ble Politiets og PSTs adgang til å ta i bruk
-hemmelige tvangsmidler utvidet ved lov 17. juni
-2005 nr. 87. Det ble her åpnet for at både politiet
-og PST kan bruke ransaking og andre tvangsmid­
-ler for å avverge alvorlige lovbrudd, jf. straffepro­
-sessloven § 222 d. Videre ble PST gitt anledning
-til å bruke hemmelig ransaking også for forebyg­
-gende formål, jf. politiloven § 17 d. Bestemmel­
-sene er nærmere omtalt nedenfor i kapittel 13.
-Politiets og PSTs adgang til å bruke hemmelige
-etterforskningsmetoder i avvergings- og forebyg­
-gingssituasjonene, aktualiserer spørsmålet om
-rekkevidden av unntaket fra forbudet mot hus­
-ransakelse i Grunnloven § 102 første ledd annet
-punktum.
-Både Metodekontrollutvalgets flertall og de to
-betenkningene som er vedlagt utredningen, kon­
-kluderte med at det av begrepet «i kriminelle til­
-feller» kunne utledes et krav om at det allerede
-må være foretatt en straffbar handling, og det
-avgrenses således mot tvangsmiddelbruk i avver­
-gende og forebyggende øyemed. Denne fortolk­
-ningen har imidlertid nokså usikker forankring i
-de tungtveiende rettskildene.
-For det første kan det stilles spørsmål om det
-er mest nærliggende å tolke ordlyden så restrik­
-tivt som flertallet har gjort. Departementet mener
-at ordlyden åpner for flere fortolkninger og at den
-ikke er til hinder for at det foretas undersøkelser
-med sikte på å forebygge eller avverge kriminali­
-tet. Preposisjonsbruken (i kriminelle tilfeller) kan
-også forstås som en tematisk henvisning til krimi­
-nalitetsbekjempelse, uten at det innebærer et sær­
-skilt krav om at grensen for det straffbare må
-være overtrådt.
-Heller ikke bakgrunnen for det opprinnelige
-forbudet i § 102 mot husinkvisisjoner, gir støtte for
-det syn som flertallet målbærer. Referatet fra Riks­
-forsamlingen gir en viss støtte for at bakgrunnen
-for at dette uttrykket ble valgt, var et ønske om å
-begrense undersøkelser som kunne føre til kren­
-kende mistanke og strafforfølgning for mindre
-alvorlige lovbrudd, og at Eidsvollsfedrene ved valg
-av formulering ikke hadde noen intensjon om å
-begrense myndighetenes adgang til å foreta under­
-søkelser av private hjem for å forhindre alvorlig kri­
-minalitet. I referatet står det at forslaget fra justis­
+BrøMasseødeleggelsesvåpen er fellesbetegnelsen på våpen som har kjernefysiske, biologiske eller kjemiske stridsmidler som last, kombinert med et effektivt leveringsmiddel, og kjennetegnes ved stort skadeomfang, massedød og store materielle skader. Masseødeleggelsesvåpen utgjør derfor en av de største potensielle truslene mot internasjonal stabilitet og sikkerhet. Norge har ikke masseødeleggelsesvåpen, og vi har heller ikke noen umiddelbar trussel fra slike våpen mot oss. Vi har imidlertid meget avansert teknologi som kan inngå som viktige deler i utviklingen av masseødeleggelsesvåpen. I den samordnede vurderingen fra E-tjenesten, NSM og PST for 2013 side 10 nevnes spredning av masseødeleggelsesvåpen som en trussel:
+
+BrøBrø«Spredning av materiale, teknologi og utstyr til bruk i produksjon av \[masseødeleggelsesvåpen\] blir stadig mer krevende å avdekke og kontrollere for nasjonale og internasjonale eksportkontrolletater. For å omgå eksportkontrollregelverket benyttes ulike metoder, og det eksisterer en rekke fordekte anskaffelsesnettverk.
+
+Det finnes et betydelig antall virksomheter i Norge som har kunnskap og teknologi som kan brukes i utviklingen av \[masseødeleggelsesvåpen\]. De fremste målene i Norge omfatter små og store virksomheter innenfor sivile høyteknologmiljøer, forsvarsindustrien, samt et bredt spekter av forsknings- og utviklingsmiljøer. Svakheter i klareringsrutiner for studenter og forskere fra land av bekymring gjør det vanskeligere å kontrollere kunnskapsoverføring relatert til fagområder som har flerbruksverdi.»
+
+BrøDette behandles også i oppsummeringen i PSTs *Åpen trusselvurdering 2013*:
+
+BrøBrø«De fleste forsøk på å skaffe teknologi fra norske virksomheter, som er relevant for utvikling av masseødeleggelsesvåpen, kan knyttes til iranske aktører. Mål i Norge for denne aktiviteten finnes blant både små og store virksomheter innenfor sivile høyteknologimiljøer, forsvarsindustrien, samt et bredt spekter av forsknings- og utviklingsmiljøer.»
+
+BrøI PSTs trusselvurdering fra 2014 bekreftes det at iranske aktører fortsatt står bak de fleste forsøk i Norge på å skaffe varer og teknologi som kan anvendes til fremstilling av masseødeleggelsesvåpen. Dette ses i sammenheng med de internasjonale sanksjonene, som har medført omfattende restriksjoner på handel med Iran.
+
+I *Åpen trusselvurdering 2015* fremgår det at Iran forventes å fortsette som hovedaktør bak ulovlige og fordekte anskaffelsesforsøk til støtte for sin produksjon av masseødeleggelsesvåpen. Forhandlingene mellom det internasjonale samfunnet og Iran har ikke ført til nedgang i antall skjulte anskaffelsesforsøk mot norske virksomheter. I tillegg forventes ulovlig kunnskapsoverføring å fortsette.
+
+Det fremgår av *Åpen trusselvurdering 2016* side 9 at atomavtalen inngått i 2015 mellom Iran og de fem sikkerhetsrådsmaktene USA, Russland, Kina, Storbritannia og Frankrike, samt Tyskland, har til hensikt å sikre at Irans kjernefysiske aktiviteter er av sivil karakter. Imidlertid er eksport av varer, teknologi, tjenester og kunnskap som er relevant for masseødeleggelsesvåpen og leveringsmidler for slike, fortsatt regulert av eksportkontrollregelverket. Flere land i Asia og Midtøsten forsøker å gjennomføre fordekte anskaffelser i Europa. Hensikten er å anskaffe varer til egne nasjonale programmer for masseødeleggelsesvåpen eller avanserte våpenprogrammer. Private aktører og utdanningsinstitusjoner bidrar også til fordekte anskaffelser. Ofte er disse en del av et større internasjonalt anskaffelsesnettverk som samarbeider for å omgå norsk og europeisk eksportkontrollregelverk. PST påpeker at ulovlige leveranser fra Norge til bekymringsland, kan få store negative konsekvenser, og både norske bedrifter og norske myndigheters omdømme kan bli skadelidende.
+
+BrøBrø**Overgrepsbilder av barn**
+
+BrøI Kripos’ *Trendrapport 2015 Organisert og annen kriminalitet i Norge* gis det uttrykk for at det er påvist en sammenheng mellom fildeling av overgrepsbilder og fysiske seksuelle overgrep mot barn. Internett og teknologi har forenklet distribusjon, produksjon og deling av ulovlige overgrepsbilder, og det er rapportert om mange hendelser. Overgripere driver utstrakt fildeling seg imellom i såkalte P2P-nettverk, som fungerer som organiserte distribusjonssentre. I 2012 hentet Kripos ut tall på hvor mange nordmenn som delte straffbare overgrepsbilder i ett fildelingsnettverk (OP Share). Her fant man langt flere brukere som delte ulovlige bilder enn forventet. I etterkant har Kripos i 2013–14 opprettet 99 saker om ulovlig bildedeling, fordelt på alle politidistriktene. En sammenligning av antallet brukere av dette fildelingsnettverket før og etter aksjonen viser en markant nedgang – fra 2 331 brukere på 120 dager, til 1 291 brukere i en tilsvarende periode ett år senere. Det meste er gratis materiale som deles i ikke-kommersielle kanaler, hvor grovheten og nytt materiale er inngangsporten til å få tilsendt bilder eller delta i ulike fora. Nedgangen tyder på at slike aksjoner har en forebyggende effekt på kort sikt. Det er vanskelig å si hvor lenge en slik aksjon mot ett av mange nettverk vil virke allmennpreventivt, men Kripos finner det svært sannsynlig at deling av seksuelle overgrepsbilder av barn er et fenomen som vil øke i omfang.
+
+Norsk politi har også vært involvert i en omfattende kanadisk sak, der en kanadier sto bak produksjon og salg av seksuelle overgrepsbilder og -videoer av barn. I Norge er det opprettet 36 saker i kjølvannet av denne etterforskningen. Begge de nevnte sakene har ført til en markant økning av saker i 2013–2014 der nordmenn er i besittelse av seksuelle overgrepsbilder via datasystemer. Det er grunn til å forvente at overgripere utvider sine grenser og deltar i grovere misbruk ved at de finner både likesinnede og ny informasjon samlet på anonyme arenaer på nett.
+
+I Kripos’ *Trendrapport 2016 Organisert og annen kriminalitet i Norge* uttales det at Internett har blitt et svært viktig verktøy for seksualforbrytere. De søker kontakt med potensielle ofre på Internett, etablerer anonyme nettverk med andre med samme preferanser og bruker Internett til å organisere overgrep, både i hjemlandet og i utlandet. Bestilling og strømming av seksuelle overgrep på Internett utgjør en stadig økende trussel. Denne kriminaliteten utføres gjerne av kriminelle nettverk som kontrollerer tilgang til barn som enten er hjemløse eller som selges av sine foreldre. Personer i andre land kan så se direkteoverførte overgrep på nett mot betaling. Overgrepene kan være vanskelige å spore, da de normalt ikke lagres og foregår via kryptering som gjør sporing vanskelig. Strømming av seksuelle overgrep på Internett skjer også til Norge. Kripos mener det er meget sannsynlig at strømming av seksuelle overgrep over Internett skjer i et langt større omfang enn hva som er kjent i dag, og det er forventet å øke i fremtiden.
+
+BrøBrø**Konstitusjonelle og menneskerettslige skranker**
+**for politiets metodebruk**
+
+BrøBrø**Grunnloven § 102**
+
+BrøBrø**Bakgrunn**
+
+BrøDe fleste reglene om bruk av skjulte tvangsmidler krever at det er skjellig grunn til å tro at det begås eller er begått et lovbrudd av en viss alvorlighetsgrad. Ved lov 17. juni 2005 nr. 87 ble imidlertid politiet gitt adgang til å anvende skjulte tvangsmidler for å innhente informasjon med sikte på å *avverge* og *forebygge* alvorlig kriminalitet. Det ble her åpnet for at både politiet og PST kan bruke ransaking og andre tvangsmidler for å avverge alvorlige lovbrudd, jf. straffeprosessloven § 222 d. Bestemmelsen stiller ikke krav til mistanke om at en straffbar handling er utført. Det er nok at vilkåret for å iverksette etterforskning er oppfylt, dvs. at det er rimelig grunn til å undersøke om det foreligger straffbart forhold, se nærmere nedenfor punkt 13.4.1. I tillegg må det være «rimelig grunn til å tro at noen kommer til å begå» en alvorlig straffbar handling. Videre ble PST gitt anledning til å bruke hemmelig ransaking også for forebyggende formål, jf. politiloven § 17 d. Her er vilkåret at det er «grunn til å undersøke om noen forbereder» terrorhandlinger, visse lovbrudd mot rikets sikkerhet eller attentat mot myndighetspersoner. Ransaking for forebyggende formål kan likevel ikke skje i «private hjem», jf. politiloven § 17 d andre ledd i.f. Ved den samme lovrevisjonen i 2005 ble det dessuten for første gang åpnet for romavlytting. Denne metoden kan brukes både når det er mistanke om at noen har begått en alvorlig straffbar handling, jf. straffeprosessloven § 216 m, samt for å avverge eller forebygge visse alvorlige lovbrudd, jf. henholdsvis straffeprosessloven § 222 d og politiloven § 17 d.
+
+Som et ledd i evalueringen av de innførte politimetodene vurderte Metodekontrollutvalget grunnlovsmessigheten av adgangen til hemmelig ransaking og romavlytting i forebyggende og avvergende øyemed, jf. politiloven § 17 d og straffeprosessloven § 222 d. Utvalget har også vurdert ulike former for dataavlesing opp mot Grunnloven § 102. Utvalgsmedlem professor dr. juris Erling Johannes Husabø ble bedt om å utrede grunnlovsspørsmålet nærmere. Utvalget besluttet i tillegg å anvende ekstern ekspertise ved vurderingen, og det ble innhentet en betenkning av professor dr. juris Alf Petter Høgberg og (daværende) universitetsstipendiat Marius Stub.
+
+Begge de innhentede betenkningene konkluderte med at enkelte av dagens lovtillatte metoder er i strid med Grunnloven § 102, slik den da lød. Både Husabø og Høgberg/Stub mente at «Hus-Inkvisisjoner» i Grunnloven § 102 ikke bare omfattet ransaking, men også romavlytting og visse former for dataavlesing. Videre la både Husabø og Høgberg/Stub til grunn at unntaket for kriminelle tilfeller bare kom til anvendelse der det allerede er begått en straffbar handling, slik at ransaking mv. i private hjem i avvergende øyemed ikke kan iverksettes dersom det for eksempel ikke er mistanke om at det har skjedd noe mer enn straffri forberedelse. Begge betenkningene konkluderte på den bakgrunn også med at adgangen til romavlytting i privat bolig i forebyggende øyemed etter politiloven § 17 d er grunnlovsstridig. Dessuten anså man hjemmelen for hemmelig ransaking og romavlytting i avvergende øyemed etter straffeprosessloven § 222 d å stå i et tvilsomt forhold til Grunnloven § 102, for så vidt gjaldt inngrep i private hjem. Også innbrudd for å legge til rette for dataavlesing ble vurdert å kunne være problematisk i relasjon til Grunnloven § 102.
+
+Metodekontrollutvalgets flertall sluttet seg til hovedtrekkene i de to innhentede betenkningene, og fant at det var gode grunner for å mene at det forelå grunnlovsstrid. På denne bakgrunn foreslo flertallet endringer i politiloven § 17 d og straffeprosessloven § 222 d for å sikre at Grunnlovens krav tilfredsstilles.
+
+Utvalgets mindretall mente derimot at Grunnloven ikke var til hinder for ransaking og romavlytting i privat bolig i forebyggende øyemed, og foreslo derfor en utvidelse av politiloven § 17 d for så vidt gjaldt ransaking. Mindretallet var, i motsetning til flertallet, ikke enig med Husabø og Høgberg/Stub i at unntaket for kriminelle tilfeller krever at det allerede er begått en kriminell handling. Mindretallet synes dessuten å legge til grunn at PSTs forebyggende virksomhet ikke er å anse som husransakelse ettersom hovedformålet er informasjonsinnhenting og ikke strafforfølgning, se metodekontrollutvalgets rapport punkt 13.4 på side 156–157.
+
+BrøBrø**Oversikt**
+
+BrøGrunnloven § 102 etablerer et generelt grunnlovsvern for privatlivets fred og personlig integritet. Bestemmelsen ble endret i forbindelse med grunnlovsreformen i mai 2014 (res. 14. mai 2014 nr. 628), trådte i kraft 18. mai 2014 og lyder slik:
+
+BrøBrø§ 102.
+
+Enhver har rett til respekt for sitt privatliv og familieliv, sitt hjem og sin kommunikasjon. Husransakelse må ikke finne sted, unntatt i kriminelle tilfeller.
+
+Statens myndigheter skal sikre et vern om den personlige integritet.
+
+BrøFør grunnlovsendringen ble Grunnloven § 102 som forbød «Hus-Inkvisisjoner» med unntak av i «kriminelle Tilfælde» ansett som et begrenset utslag av retten til vern om privatliv og ga ikke noe generelt vern for privatlivets fred. Et slikt generelt vern ble i norsk rett først og fremst ivaretatt av EMK artikkel 8 og SP artikkel 17 gjennom menneskerettsloven, personopplysningsloven og ulovfestede personvernprinsipper.
+
+Første ledd første punktum gir et generelt vern for privatlivets fred. Det fremgår uttrykkelig at dette vernet omfatter respekt for privatliv, familieliv, hjem og kommunikasjon. Ordlyden i første ledd første punktum er tilnærmet identisk med EMK artikkel 8 som fastslår at «enhver har rett til respekt for sitt privatliv og familieliv, sitt hjem og sin korrespondanse». Det generelle vernet for privatlivets fred i § 102 første ledd første punktum er utformet som en individuell rettighet. Om begrunnelsen for dette heter det i Menneskerettighetsutvalgets rapport (Dokument 16 (2011–2012)) punkt 30.6.6.2 side 177:
+
+BrøBrø«En annen begrunnelse for særskilt å fremheve privatliv, familieliv, hjem og kommunikasjon er at retten til respekt for disse verdiene bør utformes som en individuell rettighet i Grunnloven. Inngrep i privatliv, familieliv, hjem og kommunikasjon vil normalt oppleves som så krenkende at det er viktig at slike inngrep vurderes nøye i lovgivningsprosessen, og at de kan prøves for domstolene dersom lovgiver har gått for langt i å tillate slike inngrep. I en viss forstand kan man si at dette utgjør kjernen i den private sfære, der den enkelte har krav på et særlig vern mot krenkelser.»
+
+BrøI første ledd annet punktum fastslås det at «husransakelse» ikke må finne sted «unntatt i kriminelle tilfeller». Med dette videreføres forbudet mot husinkvisisjoner i den tidligere § 102, men med en annen og mer moderne språkdrakt. Menneskerettighetsutvalget foreslo å ta bestemmelsen ut, og anse det dekket av de mer generelle deler av ny § 102. Setningen ble likevel foreslått videreført i en av fire alternative formuleringer i Grunnlovsforslag Dokument 12:30 (2011–2012) side 179-180, uten nærmere begrunnelse, og innstilt på uten videre diskusjon. I grunnlovsforslaget ble for øvrig uttrykket husinkvisisjon i den tidligere bestemmelsen erstattet med «husundersøkelse». Dette uttrykket ble igjen endret til «husransakelse» i den vedtatte bestemmelsen.
+
+I annet ledd fastslås det at statens myndigheter skal sikre den enkeltes personlige integritet. Integritetsvernet er utformet som en positiv forpliktelse for statens myndigheter. Ifølge Kontroll- og konstitusjonskomiteen er annet ledd utformet «mer som en politisk retningslinje, som imidlertid også innebærer en ytterste skranke for lovgiver», se Innst. 186 S (2013–2014) side 27. Komiteen viser til at samme presisering som her er foreslått, er gjennomført i samtlige menneskerettighetskonvensjoner og i EUs Charter of Fundamental Rights. Det kan i den sammenheng bemerkes at EMK artikkel 8 gir staten en positiv forpliktelse til å iverksette tiltak for å forhindre at andre griper inn i den enkeltes privatliv, selv om dette ikke fremgår like klart av ordlyden som i Grunnloven § 102 annet ledd, se også Menneskerettighetsutvalgets rapport punkt 30.4 side 170. Det er likevel usikkert hvor langt denne forpliktelsen rekker.
+
+Menneskerettighetsutvalget legger tilsvarende til grunn at § 102 annet ledd innebærer at «myndighetene har en generell plikt til å sørge for lovgivning som sikrer den enkeltes kroppslige og mentale integritet, gjennom for eksempel lovgivning mot vold, mishandling og drap», se Menneskerettighetsutvalgets rapport (Dokument 16 (2011–2012)) punkt 30.6.6.2 side 177. Det fremgår her at vernet om den personlige integritet er ment å skulle beskytte den kroppslige så vel som den psykiske integritet. Dette innebærer at Grunnloven § 102 går lengre i å gi vern for den enkeltes personlige integritet enn det personvernlovgivningen tradisjonelt har gjort. Det er vanlig å avgrense personvernet til de regler som har som formål å beskytte den psykiske integritet. Et hovedelement i personvernet er at personer i utgangspunktet skal kunne bestemme hva andre skal få vite om hans eller hennes egne personlige forhold. Regler som skal verne individet mot fysisk ubehag eller skade faller således utenfor det tradisjonelle personvernbegrepet. Den nye bestemmelsen supplerer i så måte Grunnloven § 93 fjerde ledd, som pålegger statens myndigheter å beskytte retten til liv, jf. nedenfor.
+
+BrøBrø**Adgangen til å foreta begrensninger i vernet**
+
+BrøBrø*Begrensninger i vernet etter § 102 første ledd første punktum*
+
+BrøDe ulike politimetoder som ransaking, romavlytting, kommunikasjonskontroll, dataavlesing, visitasjon og spaning, vil på forskjellige måter kunne gripe inn i de vernede interesser etter Grunnloven § 102. Det reiser spørsmål om i hvilken grad det er adgang til å gjøre inngrep i dette vernet.
+
+Grunnloven § 102 gir etter sin ordlyd uttrykk for et omfattende vern. Vernet etter første ledd første punktum er likevel ikke absolutt. Det er forutsatt i forarbeidene til grunnlovsforslaget at bestemmelsen ikke kan forstås slik at den enkelte har en udelt rett til å ha sitt privatliv i fred, se Menneskerettighetsutvalgets rapport (Dokument 16 (2011–2012)) side 178:
+
+BrøBrø«Forslag til første ledd vil da være utformet som en rettighet for den enkelte gjennom uttrykket «enhver». Den enkelte tildeles likevel ikke en udelt rett til å ha sitt privatliv i fred, men har rett til «respekt» for sitt privatliv.»
+
+BrøGrunnloven § 102 gir imidlertid ingen retningslinjer for når det er tillatt å gjøre inngrep i den vernedes sfære for eksempel gjennom bruk av ulike politimetoder. Bestemmelsen hviler på en forutsetning om at det vedtas en generell regel om begrensninger i rettighetene etter Grunnloven og at denne angir hvilke vilkår som må være oppfylt for at det skal kunne gjøres inngrep i den vernedes sfære etter § 102, se Menneskerettighetsutvalgets rapport side 178:
+
+BrøBrø«Formuleringen utelukker derfor ikke at enkelte personer kan utsettes for overvåking og kontroll, men da må vilkårene for dette være til stede, jf. utvalgets forslag til begrensningshjemmel for rettighetene i Grunnloven, se kapittel 13.»
+
+BrøEn slik forutsetning fremgår også av flertallets merknader i Kontroll- og konstitusjonskomiteens innstilling (representantene fra Ap, Høyre og FrP), se Innst. 186 S (2013–2014) punkt 2.1.9:
+
+BrøBrø«Det alternativ flertallet stiller seg bak, gjør retten til privatliv mv. i første ledd til en rettighet for den enkelte. Når retten er til «respekt for» privatlivet, er det likevel for å synliggjøre at lovlig etterretning ikke er utelukket, som også diskutert av Menneskerettighetsutvalget.»
+
+BrøHøyesterett har i nyere avgjørelser slått fast at vernet etter § 102 første ledd første punktum vil bero på en vurdering av om inngrepet i de vernede interesser ivaretar et legitimt formål, er forholdsmessig og har tilstrekkelig hjemmel, se Rt. 2014 side 1105 (avsnitt 28) og Rt. 2015 side 93. I sistnevnte avgjørelse (avsnitt 60) uttales følgende om tolkningen av Grunnloven § 102:
+
+BrøBrø«Til forskjell fra SP artikkel 17 og EMK artikkel 8, inneholder Grunnloven § 102 ingen anvisning på om det overhodet kan gjøres lovlige begrensninger i privat- og familielivet. Men grunnlovsvernet kan ikke være – og er heller ikke – absolutt. I tråd med de folkerettslige bestemmelsene som var mønster for denne delen av § 102, vil det være tillatt å gripe inn i rettighetene etter første ledd første punktum dersom tiltaket har tilstrekkelig hjemmel, forfølger et legitimt formål og er forholdsmessig, jf. Rt-2014-1105 avsnitt 28.»
+
+BrøDet er således på det rene at vernet etter første ledd første punktum ikke er absolutt.
+
+BrøBrø*Begrensninger i vernet etter § 102 første ledd annet punktum*
+
+BrøFørste ledd annet punktum gir derimot trolig et absolutt vern mot inngrep som er å anse som «husransakelse», med unntak av når dette gjøres «i kriminelle tilfeller». Første og annet punktum inneholder således bestemmelser av forskjellig karakter: Første punktum gir anvisning på en avveining, mens annet punktum inneholder et forbud. Ved vurderingen av om bruk av de ulike skjulte politimetodene i forebyggende eller avvergende øyemed er forenlig med Grunnloven § 102, blir det dermed både spørsmål om de går klar av forbudet i annet punktum, og om de kan forsvares etter avveiningen i første punktum.
+
+Det er ikke tvil om at politimetoder som kommunikasjonskontroll, visitasjon og spaning ikke er å anse som «husransakelse», og slike metoder går dermed klar av forbudet mot husransakelse i annet punktum. Det er heller ikke tvilsomt at ransaking i private hjem er å anse som «husransakelse». Når det gjelder romavlytting og innbrudd ved dataavlesing eller romavlytting, er det noe mer usikkert om tvangsmidlene omfattes av begrepet «husransakelse». Både Metodekontrollutvalgets flertall og de to betenkningene som er vedlagt Metodekontrollutvalgets utredning la til grunn at forbudet mot «Hus-Inkvisisjoner», slik ordlyden da lød, omfattet romavlytting og innbrudd.
+
+Flere forhold trekker i retning av å anse slike metoder for å falle utenfor. For det første er en slik tolkning forenlig med ordlyden i annet punktum, som nå altså er endret fra «husinkvisisjon» til det snevrere uttrykket «husransakelse». For det annet er det mindre behov for en vid tolking av «husransakelse» etter grunnlovsreformen i 2014, idet et mer generelt formulert grunnlovsvern nå følger av § 102 første ledd første punktum.
+
+På den annen side tilsier Stortingets generelle intensjon – at det med språkrevisjonen ikke var meningen å forskyve meningsinnholdet i grunnlovsbestemmelsene – at en ved tolkningen av den enkelte bestemmelse bør være varsom med å legge vekt på at ordlyden i bestemmelsen er snevrere enn den var før reformen. Denne innvendingen har noe begrenset betydning ettersom også den tidligere rettstilstanden og rekkevidden av begrepet husinkvisisjon var uklar. Like fullt kan det hevdes at formålet med det opprinnelige forbudet mot husinkvisisjon var å verne om den private sfære, som både ransaking, romavlytting og innbrudd gjør inngrep i.
+
+Departementet finner det imidlertid ikke nødvendig å ta endelig stilling til hvilke metoder som kan anses som «husransakelse» etter første ledd annet punktum, ettersom rekkevidden av begrepet «husransakelse» uansett ikke har vært avgjørende for de forslag som fremmes i proposisjonen her. Forslagene anses å være forenlig med Grunnloven § 102, også om en tar utgangspunkt i at de nevnte metodene, romavlytting og innbrudd ved dataavlesing eller romavlytting, omfattes av begrepet «husransakelse» i første ledd annet punktum.
+
+Forbudet mot husransakelse er som nevnt ikke uten unntak. Selv om en politimetode omfattes av begrepet husransakelse, vil den ikke rammes av forbudet dersom den benyttes «i kriminelle tilfeller». Uttrykket «i kriminelle tilfeller» omfatter utvilsomt de tilfeller hvor de aktuelle politimetodene benyttes som ledd i undersøkelser knyttet til straffbare handlinger som allerede har funnet sted. Politiets undersøkelser er imidlertid ikke begrenset utelukkende til å oppklare allerede begåtte lovbrudd. Politiet har også som oppgave å avverge og forebygge fremtidig kriminalitet. For å styrke politiets avvergende og forebyggende funksjon, ble Politiets og PSTs adgang til å ta i bruk hemmelige tvangsmidler utvidet ved lov 17. juni 2005 nr. 87. Det ble her åpnet for at både politiet og PST kan bruke ransaking og andre tvangsmidler for å avverge alvorlige lovbrudd, jf. straffeprosessloven § 222 d. Videre ble PST gitt anledning til å bruke hemmelig ransaking også for forebyggende formål, jf. politiloven § 17 d. Bestemmelsene er nærmere omtalt nedenfor i kapittel 13. Politiets og PSTs adgang til å bruke hemmelige etterforskningsmetoder i avvergings- og forebyggingssituasjonene, aktualiserer spørsmålet om rekkevidden av unntaket fra forbudet mot husransakelse i Grunnloven § 102 første ledd annet punktum.
+
+Både Metodekontrollutvalgets flertall og de to betenkningene som er vedlagt utredningen, konkluderte med at det av begrepet «i kriminelle tilfeller» kunne utledes et krav om at det allerede må være foretatt en straffbar handling, og det avgrenses således mot tvangsmiddelbruk i avvergende og forebyggende øyemed. Denne fortolkningen har imidlertid nokså usikker forankring i de tungtveiende rettskildene.
+
+For det første kan det stilles spørsmål om det er mest nærliggende å tolke ordlyden så restriktivt som flertallet har gjort. Departementet mener at ordlyden åpner for flere fortolkninger og at den ikke er til hinder for at det foretas undersøkelser med sikte på å forebygge eller avverge kriminalitet. Preposisjonsbruken (i kriminelle tilfeller) kan også forstås som en tematisk henvisning til kriminalitetsbekjempelse, uten at det innebærer et særskilt krav om at grensen for det straffbare må være overtrådt.
+
+Heller ikke bakgrunnen for det opprinnelige forbudet i § 102 mot husinkvisisjoner, gir støtte for det syn som flertallet målbærer. Referatet fra Riksforsamlingen gir en viss støtte for at bakgrunnen for at dette uttrykket ble valgt, var et ønske om å begrense undersøkelser som kunne føre til krenkende mistanke og strafforfølgning for mindre alvorlige lovbrudd, og at Eidsvollsfedrene ved valg av formulering ikke hadde noen intensjon om å begrense myndighetenes adgang til å foreta undersøkelser av private hjem for å forhindre alvorlig kriminalitet. I referatet står det at forslaget fra justisråd Diriks til endelig lovtekst ble «bifaldt især af Kjøbmændenene, der saaledes saae sig befriede fra Inkvisitioner om Toldsvig, hvilken Diriks ikkje ansaa for nogen offentlig Forbrydelse», jf. Storthings-efterretninger 1814-1833 1ste bind, Jacob Dybwads forlag, Christiania 1874 s. 76. Dette må igjen forstås på bakgrunn av at brudd på tollovgivningen på den tiden ble håndtert i sivilprosessuelle former. Kjernen i tidligere § 102 synes således å være å sette en terskel med hensyn til sakens alvor og å hindre vilkårlige krenkelser som kunne føre til mistanke og strafforfølgning for mindre alvorlige forhold, jf. Metodekontrollutvalgets mindretall i utredningen punkt 13.4 side 156. Den juridiske teori har også holdt fast på at husundersøkelser av mer forvaltningsmessig karakter faller utenfor, jf. Andenæs, Statsforfatningen i Norge (10. utg. ved Fliflet, 2006) s. 408–409.
+
+Heller ikke lovforarbeidene utarbeidet i forbindelse med grunnlovsreformen 2014 gir støtte til den fortolkning som Metodekontrollutvalgets flertall bygger på. Spørsmålet om hvordan unntaket for kriminelle tilfeller skal forstås, er ikke kommentert i Kontroll- og konstitusjonskomiteens innstilling. Saksordføreren knyttet imidlertid enkelte kommentarer til dette i Stortinget, jf. referat fra Stortingsdebatten 14. mai 2014 sak 1 (Jette F. Christensen (A) \[17:36:12\]). Disse kan tolkes i retning av at begrepet «i kriminelle tilfeller» ikke må avgrenses mot politiets arbeid for å forebygge og avverge kriminalitet. Uttalelsen er likevel noe tvetydig og vil neppe tillegges særlig rettskildemessig verdi.
+
+Departementet mener at en bør være tilbakeholden med å innfortolke begrensninger i Grunnloven som grunnlovskonsipistene neppe hadde gjort seg opp noen formening om ved valg av formulering, og som heller ikke følger klart av ordlyden.
+
+Det kan videre anføres at både utvalgets flertall og de to betenkningene i for sterk grad har lagt vekt på hensynet til å verne om den enkeltes hjem og privatliv på bekostning av hensynet til å hindre at alvorlig kriminalitet blir begått. Departementet mener, slik også utvalgets mindretall er inne på, at denne avveiningen må foretas i lys av dagens syn på forholdet mellom enkeltmenneskets behov for vern og fellesskapets behov for beskyttelse. Metodekontrollutvalgets vurdering av hensynet til privatlivets fred opp mot hensynet til kriminalitetsbekjempelse og samfunnsvern, kan i ytterste konsekvens føre til at politiet mister noen av de virkemidler som er nødvendig for å avverge alvorlig kriminalitet, med den konsekvens at liv kan gå tapt.
+
+Som nevnt ovenfor gir Grunnloven §§ 93 og § 102 annet ledd statens myndigheter en plikt til å beskytte retten til liv og til å verne om ulike sider ved den enkeltes fysiske og psykiske integritet. Formålet med å grunnlovfeste retten til liv er blant annet å gi denne rettigheten et høyere vern. Fra komiteens merknader i Innst. 182 S (2013–2014) hitsettes:
+
+BrøBrø«Komiteen viser til at retten til liv ofte blir fremhevet som den mest grunnleggende av menneskerettighetene. I FN finner vi retten til liv i konvensjonen om sivile og politiske rettigheter artikkel 6: «Every human being has the inherent right to life» og nesten likelydende i Den europeiske menneskerettighetskonvensjon (EMK) artikkel 2 (inkorporert i norsk lov gjennom menneskerettsloven): «Everyone’s right to life shall be protected by law». \[…\].
+
+Komiteen viser til Menneskerettighetsutvalgets rapport der retten til liv omtales som «en plikt for myndighetene til å respektere den enkeltes rett til liv, dvs. at myndighetene ikke kan ta liv (..), og til å beskytte den enkelte mot at andre tar deres liv».
+
+Komiteen viser til at Grunnloven i dag verken gir en eksplisitt rett til liv eller forbud mot dødsstraff. Tortur er forbudt, men kun som et ledd i straffeprosessen.
+
+Komiteen mener dette er grunnleggende rettigheter som bør få et høyere rettslig vern. Komiteen støtter forslag om at livet er en grunnleggende verdi som må vernes om og beskyttes.»
+
+BrøSamtidig er det, slik det fremgår at komiteens merknader til § 102 i Innst. 186 S (2013–2014) punkt 2, ikke grunnlag for å foreta en innbyrdes rangering av de rettighetene som nå er inntatt i Grunnloven: «\[…\] disse rettighetenes finnes på samme nivå som andre rettigheter de må avveies mot, slik som ytringsfriheten og religionsfriheten.»
+
+Det er ikke tvilsomt at formålet med bestemmelsen i § 102 er å verne mot vilkårlige og uforholdsmessige inngrep i borgernes hjem. En reell vurdering av om et inngrep er vilkårlig og uforholdsmessig, bør ikke utelukkende baseres på om det allerede er begått en straffbar handling eller hvor nærstående den handling som søkes avverget er. Det er ikke nødvendigvis slik at behovet for tvangsmidler er sterkest i tilfeller der en kriminell handling allerede er begått. Det kan være større grunn til å gripe inn i en situasjon der en har sikre holdepunkter for at et svært alvorlig lovbrudd vil kunne bli begått, uten at en har indikasjoner på at noe straffbart allerede har funnet sted. I det siste tilfellet har en ennå tid og mulighet til å avverge utfallet av lovbruddet og kanskje redde mange menneskeliv. Der det er begått et lovbrudd, er det kun hensynet til sakens oppklaring som kan legitimere husransakelse. En reell vurdering av et inngreps nødvendighet og forholdsmessighet vil derfor også måtte ta i betraktning alvorligheten av den handling som søkes avverget, hvilke konsekvenser det får dersom en ikke griper inn og hvor sikre holdepunkter en har for at en alvorlig straffbar handling vil bli begått.
+
+Det kan også anføres at enkelte av argumentene som ble angitt til støtte for at begrepet «i kriminelle tilfelle» skal tolkes snevert, altså som forbeholdt tilfelle der det er begått et lovbrudd i motsetning til der disse vil kunne begås i fremtiden, ikke kan tillegges særlig vekt ved tolkningen av den nye grunnlovsbestemmelsen. I en av benkningene som er vedlagt Metodekontrollutvalgets utredning (se Husabø side 417), er det blant annet anført at dersom en aksepterer at myndighetenes uro for at noen kan komme til å gjøre noe straffbart, skal kunne utgjøre «kriminelle Tilfælde», vil det være svært vanskelig ut fra Grunnloven å trekke en grense for hvor langt dette unntaket går. Argumentet vil ikke lenger ha gyldighet når bestemmelsen i dag, slik den er fortolket av Høyesterett, i tillegg oppstiller en generell regel om beskyttelse av privatlivets fred, hvoretter inngrep må vareta et legitimt formål, være forholdsmessig og ha tilstrekkelig hjemmel. Også adgangen til husransakelse i «kriminelle tilfeller» vil være undergitt disse kravene som Høyesterett har innfortolket i første ledd første punktum. Kravene om at eventuelle inngrep i de vernede interesser må vareta legitime formål, ha tilstrekkelig hjemmel og være forholdsmessige er godt egnet til å fange opp de svært vanskelige vurderingene som lovgiver, og i siste instans domstolene, må foreta når det skal skje en avveining mellom individets behov for beskyttelse mot inntrengning i privatsfæren på den ene siden og de legitime samfunnsbehovene som begrunner inngrepet på den andre siden. Ved en forholdsmessighetsvurdering er det mulig å ta hensyn både til hvor omfattende inngrepet i privatsfæren er, hvor stor fare det er for at uskyldige tredjepersoner rammes, hvor alvorlige lovbrudd det er tale om, hvor sterke holdepunkter som foreligger for at lovbruddet vil kunne begås og hvilke rettssikkerhetsgarantier som er bygd inn. Departementet vil videre peke på at i mangel av klare holdepunkter i ordlyden og andre relevante rettskilder, bør lovgivers syn veie tungt med hensyn til hvordan disse hensyn best skal avstemmes i forbindelse med utforming av konkrete lovbestemmelser.
+
+Etter departementets syn kan det av begrepet «kriminelle tilfeller» ikke utledes et krav om at et lovbrudd må være begått. Det understrekes likevel at adgangen til å foreta inngrep i hjemmet for å forhindre fremtidig kriminalitet ikke er ubegrenset. Det kan på bakgrunn av ordlyden og de hensyn som ligger til grunn for forbudet mot husransakelse, være grunn til å oppstille et generelt krav om at det må foreligge konkret informasjon som tilsier at det vil bli begått en kriminell handling i ikke alt for fjern fremtid. Prinsipielt sett bør det ikke være avgjørende for grunnlovsmessigheten om en i lovgivningen omtaler politiets tiltak som er rettet mot fremtidige straffbare handlinger som avverging eller forebygging. Likevel antas det at det bør utvises noe mer forsiktighet med å åpne for tvangsmiddelbruk i private hjem i forebyggende øyemed etter politiloven § 17 d enn tvangsmiddelbruk i avvergende øyemed etter straffeprosessloven § 222 d. Avstanden til den straffbare handlingen vil gjerne være større enn ved avverging, der det er grunnlag for å åpne etterforskning, og der det dessuten ofte foreligger et annet lovbrudd, for eksempel forberedelseslovbrudd til handlingen som søkes avverget. Det kan imidlertid bemerkes at grensen for når en forebyggingssak bør gå over i avvergingssporet ikke alltid er like enkel å trekke. PST kan motta troverdige, men ikke-verifiserte opplysninger, som gir grunn til å avvente den videre utvikling før eventuell etterforskning iverksettes. Det kan altså likevel foreligge en rekke holdepunkter for at alvorlige lovbrudd er i gjære fra enkelte miljøer. Her synes det mindre betenkelig å subsumere forholdet under «kriminelle tilfeller». Det vises til vurderingene i kapittel 13 nedenfor.
+
+Departementet legger til grunn at vurderingstemaet og de krav som Høyesterett har oppstilt, om at inngrep i de vernede interessene må vareta et legitimt formål, være forholdsmessig og ha hjemmel i lov, også får anvendelse for tiltak som er å anse som husransakelse, *dersom disse benyttes «i kriminelle tilfeller*» og altså ikke rammes av den trolig absolutte forbudsregelen i annet punktum.
+
+Vurderingen av om en bestemt metodebruk er forholdsmessig etter § 102 antas å være nokså sammenfallende med vurderingen etter EMK artikkel 8 nr. 2. Den innebærer at lovgiver, og i siste instans domstolene, må foreta en avveining mellom individets behov for beskyttelse mot inntrengning i privatsfæren på den ene siden og de legitime samfunnsbehovene som begrunner inngrepet på den andre siden, nærmere bestemt kriminalitetsbekjempelse og samfunnsvern. I Høyesteretts dom inntatt i Rt. 2015 side 93 uttales følgende om denne vurderingen i avsnitt 60:
+
+BrøBrø«Forholdsmessighetsvurderingen må ha for øye balansen mellom de beskyttede individuelle interessene på den ene siden og de legitime samfunnsbehovene som begrunner tiltaket på den andre.»
+
+BrøFor lovgiver innebærer dette at en ved vurderingen av hvilke metoder som lovgivningen skal gi hjemmel for og hvilke rammer som skal settes for politiets bruk av disse metodene, må foreta en avveining mellom de individuelle interessene og samfunnets behov for å beskyttes mot og oppklare alvorlige lovbrudd. I tillegg må en eventuell lovgivning være tilstrekkelig forutsigbar. Det er også av betydning hvilke rettssikkerhetsgarantier som foreligger, særlig i form av domstolskontroll. Det kan legges til at en i alle fall etter EMK har lagt stor vekt på hvorvidt lovgiver har konkretisert de samfunnsbehovene som begrunner avveiningen, samt foretatt den nærmere avveiningen.
+
+BrøBrø**EMK artikkel 8 som skranke for politiets metodebruk**
+
+BrøBrø**Vernet etter EMK artikkel 8 nr. 1**
+
+BrøDen europeiske menneskerettskonvensjon artikkel 8 nr. 1 gir, i likhet med Grunnloven § 102, et generelt vern av privatlivets fred. Det fremgår uttrykkelig av bestemmelsen at vernet omfatter den enkeltes privatliv, familieliv, hjem og korrespondanse. EMD har i liten grad skilt de ulike rettighetene fra hverandre. Langt på vei vil også retten til privatliv og retten til korrespondanse gli over i hverandre. Tilsvarende vil vernet om privatlivet og om det private hjem i mange tilfeller være vanskelig å holde helt atskilt.
+
+Politiets etterforskningsmetoder vil på forskjellig måte kunne gripe inn i de sider av privatlivets sfære som er vernet etter EMK artikkel 8. Spaning, infiltrasjon, kommunikasjonskontroll og romavlytting vil kunne utgjøre inngrep i den enkeltes psykiske integritet. Det vil særlig være tilfelle når slike metoder benyttes skjult. Andre metoder som for eksempel ransaking og visitasjon, vil også gripe inn i den fysiske integritet.
+
+Vernet etter artikkel 8 nr. 1 er sterkest når politimetoden retter seg mot det private hjem. Romavlytting og telefonavlytting faller normalt inn under EMK artikkel 8 nr. 1, se dommen *Klass m.fl. mot Tyskland* 6. september 1978 (sak 5029/71) og dommen *Khan mot Storbritannia* 12. mai 2000 (sak 35394/97). Det følger imidlertid av dommen *Niemietz mot Tyskland* (sak 13710/88) at vernet også gjelder utenfor det private hjem, se nærmere nedenfor under kapittel 12 om kameraovervåkning.
+
+Metoder som griper inn i den *fysiske integritet* vil ofte være et inngrep etter EMK artikkel 8 nr. 1, se nedenfor punkt 10.4 om ransaking.
+
+BrøBrø**Vilkårene for å gripe inn i den vernede sfære**
+
+BrøBrø*Innledning*
+
+BrøRetten til respekt for privatlivets fred etter EMK artikkel 8 nr. 1 innebærer ingen udelt rett for den enkelte til å ha sitt privatliv i fred. Artikkel 8 nr. 2 angir hvilke betingelser som må være oppfylt for at offentlige myndigheter skal kunne gjør inngrep i de rettigheter som følger av artikkel 8 nr. 1. For det første må formålet med inngrepet falle inn under et av de formål som er angitt i bestemmelsen. Videre stilles det krav om at inngrepet har hjemmel i lov (lovkravet). Endelig må inngrepet anses nødvendig i et demokratisk samfunn.
+
+BrøBrø*Lovkravet*
+
+BrøEMD har, i lys av prinsippet «the rule of law» knesatt i fortalen og hensynet til å beskytte borgerne mot vilkårlige inngrep fra statens side, stilt kvalitative krav til hjemmelsgrunnlaget. Lovkravet omfatter i hovedsak to ulike aspekter. Dels stilles det krav til regelens tilgjengelighet («accessibility») og dels et krav til presisjon («foreseeability»), se Lorenzen m.fl. Den Europeiske Mænneskerettighedskonvention, Art. 1-9 (2011) side 764. Begge disse sidene av lovkravet fremgår blant annet av dommen *Sunday Times mot Storbritannia* 26. april 1979 (sak 6538/74) avsnitt 49:
+
+BrøBrø«Firstly, the law must be adequately accessible: the citizen must be able to have an indication that is adequate in the circumstances of the legal rules applicable to a given case. Secondly, a norm cannot be regarded as a “law” unless it is formulated with sufficient precision to enable the citizen to regulate his conduct: he must be able – if need be with appropriate advice – to foresee, to a degree that is reasonable in the circumstances, the consequences which a given action may entail. Those consequences need not be foreseeable with absolute certainty: experience shows this to be unattainable. Again, whilst certainty is highly desirable, it may bring in its train excessive rigidity and the law must be able to keep pace with changing circumstances. Accordingly, many laws are inevitably couched in terms which, to a greater or lesser extent, are vague and whose interpretation and application are questions of practice.»
+
+Brø*Sunday Times*-saken gjaldt lovkravet i EMK artikkel 10, men lovkravet i EMK artikkel 8 nr. 1 er gitt samme betydning, se dommen *Silver m.fl. mot Storbritannia* 25. mars 1983 (sak 5947/72, 6205/73, 7052/75, 7061/75, 7107/75, 7113/75 og 7136/75).
+
+Kravet om tilgjengelighet skal sikre at borgeren kan finne ut om han er i en posisjon som kan gi grunnlag for inngrep mot ham. Av dette følger at den regel som hjemler inngrepet, må være offentliggjort. Det må således ses bort fra interne instrukser som er hemmeligholdt, for eksempel for å holde politiets fremgangsmåte skjult. I dommen *Malone mot Storbritannia* 2. august 1984 (sak 8691/79) kunne domstolen således ikke legge vekt på interne retningslinjer for bruken av romavlytting, ettersom disse ikke var tilgjengelig for klageren. Tilsvarende følger av dommen *Leander mot Sverige* 26. mars 1987 (sak 9248/81) avsnitt 51 som gjaldt overvåking.
+
+Derimot vil det i noen grad være adgang til å innskrenke hjemmelens rammer i interne hemmelige rundskriv. Så lenge lovgivningen er tilstrekkelig klart formulert, slik at borgeren kan finne ut om han er i en posisjon som kan gi grunnlag for inngrep i privatlivet, vil vilkåret være oppfylt, se *Malone mot Storbritannia* 2. august 1984 (sak 8691/79) avsnitt 67:
+
+BrøBrø«In particular, the requirement of foreseeability cannot mean that an individual should be enabled to foresee when the authorities are likely to intercept his communications so that he can adapt his conduct accordingly. Nevertheless, the law must be sufficiently clear in its terms to give citizens an adequate indication as to the circumstances in which and the conditions on which public authorities are empowered to resort to this secret and potentially dangerous interference with the right to respect for private life and correspondence.»
+
+BrøEt annet moment som tillegges vekt ved vurderingen av om lovkravet er oppfylt, er hvorvidt hjemmelsgrunnlaget fremstår som fragmentarisk. Dette har en side både til kravet om forutsigbarhet og kravet om tilgjengelighet. Dersom rettsregelen må utledes på bakgrunn av mange forskjellig rettskilder, vil dette svekke både forutberegneligheten og tilgjengeligheten. I dommen *Kruslin mot Frankrike* 24. april 1990 (sak 11801/85) avsnitt 34 måtte hjemmelen utledes av en rekke ulike kilder, og EMD kom blant annet av den grunn til at det forelå konvensjonsstrid. EMD la i den sammenheng også vekt på at telefonavlytting var et inngripende tiltak, og at hjemmelen som ble utledet i liten grad oppstilte prosessuelle garantier for den inngrepet var rettet mot. Likevel viser avgjørelsen at hjemmelsgrunnlaget inngrepet utledes fra, må være praktisk tilgjengelig.
+
+Kravet til forutsigbarhet innebærer at hjemmelen må være noenlunde presist formulert for å sikre mot misbruk, se blant annet dommen *Huvig mot Frankrike* 24. april 1990 (sak 11105/84), som gjaldt telefonavlytting. I denne avgjørelsen ble det konstatert konvensjonsbrudd som følge av at hjemmelen var uklar. EMD la blant annet vekt på at det ikke var presisert i hjemmelsgrunnlaget hva slags lovovertredelser som kunne gi anledning til telefonavlytting i etterforskningsøyemed (avsnitt 34). I dommen *Malone mot Storbritannia*, som gjaldt kommunikasjonskontroll, la EMD vekt på at
+
+BrøBrø«..the essential elements of the power to intercept communications were laid down with reasonable precision in accessible legal rules that sufficiently indicate the scope and manner of the exercise of the discretion conferred on the relevant authorities \[...\]»
+
+BrøDet følger også av ovennevnte at lovkravet ikke er til hinder for at hjemmelen overlater en viss skjønnsutøvelse til forvaltningen. I så fall må loven som et minstemål angi hvilket formål inngrepet kan forfølge, se dommen *Olsson mot Sverige* 24. mars 1988 (sak 10465/83) avsnitt 61 (c):
+
+BrøBrø«A law which confers a discretion is not in itself inconsistent with the requirement of foresee- ability, provided that the scope of the discretion and the manner of its exercise are indicated with sufficient clarity, having regard to the legitimate aim of the measure in question, to give the individual adequate protection against arbitrary interference.»
+
+BrøUtover kravet om formålsangivelse, vil det nærmere materielle innholdet i lovkravet bero på en mer sammensatt vurdering. Kravene til presisjon og tilgjengelighet er relative og vil blant annet øke med inngrepets styrke, se dommen *Klass mot Tyskland* 6. September 1978 (sak 5029/71) avsnitt 50:
+
+BrøBrø«The Court must be satisfied that, whatever system of surveillance is adopted, there exist adequate and effective guarantees against abuse. This assessment has only a relative character: it depends on all the circumstances of the case, such as the nature, scope and duration of the possible measures, the authorities competent to permit, carry out and supervise such measures, and the kind of remedy provided by national law.»
+
+BrøAv den grunn skjerpes kravene til rettsgrunnlag ved skjult overvåking. I dommen *Kruslin mot Frankrike* 24. april 1990 (sak 11801/85) avsnitt 33 uttales:
+
+BrøBrø«Tapping and other forms of interception of telephone conversations represent a serious interference with private life and correspondence and must accordingly be based on a law that is particularly precise. It is essential to have clear, detailed rules on the subject, especially as the technology available for use is continually becoming more sophisticated.»
+
+BrøVidere vil også formålet ha betydning. I den grad det er tvingende nødvendig av hensyn til for eksempel rikets sikkerhet å holde deler av inngrepet eller fremgangsmåten ved inngrepet skjult, har EMD gitt den enkelte stat et større spillerom, se dommen *Leander mot Sverige* 26. mars 1987 (sak 9248/81) avsnitt 51.
+
+Ved avgjørelsen av hvor presist hjemmelsgrunnlaget må være, vil EMD også legge vekt på hvilke prosessuelle garantier loven oppstiller. EMD legger blant annet vekt på om det foreligger adgang til domstolskontroll. I *Lambert mot Frankrike* 24. august 1998 (sak 23618/94) ble det konstatert konvensjonsstrid som følge av manglende adgang til domstolsprøving når avlyttingen vedrørte samtaler på telefonlinjen tilhørende andre personer. En slik mangel kunne i følge EMD «render the protective machinery void of any substance».
+
+Lovkravet vil for øvrig kunne være oppfylt både gjennom formelle lover gitt av en lovgivende forsamling og rettsregler forankret i sedvane, rettspraksis og endog administrativ praksis, se blant annet dommen *Sunday Times mot Storbritannia* avsnitt 47. At også andre kompetansegrunnlag enn formell lov kan hjemle inngrep i konvensjonsrettigheter, må sees på bakgrunn av Storbritannias common law-system. I dommen *Leander mot Sverige* avsnitt 51 godtok EMD instrukser og lignende som relevante kilder. EMD godtar derimot ikke den alminnelige handlefrihet som hjemmel for inngrep i beskyttede rettigheter. I *Malone mot Storbritannia* uttalte EMD at selv om metoden ikke uttrykkelig var forbudt, måtte det kreves annet hjemmelsgrunnlag for at det engelske politiet kunne kreve innsyn i postverkets og televerkets kunderegistre.
+
+Selv om lovskravet i EMK artikkel 8 nr. 2 ikke krever formell lov, har det i konvensjonspraksis vist seg at andre hjemler enn formell lov vanskelig vil oppfylle de øvrige deler av konvensjonens hjemmelskrav. Det gjenspeiles for så vidt i at de sentrale dommer som har utviklet vilkåret, gjelder saker der engelske rettsregler ikke er godtatt, se for eksempel *Sunday Times mot Storbritannia, Malone mot Storbritannia* og *Khan mot Storbritannia.* Dette har ført til at Storbrittania har fått et detaljert lovverk om politimetoder. Samme utvikling kan spores i andre land.
+
+BrøBrø*Formål som kan legitimere inngrep*
+
+BrøFor å kunne gjøre inngrep i vernede interesser etter artikkel 8 nr. 1, må for det første formålet med inngrepet falle inn under et av de formål som fremkommer i EMK artikkel 8 nr. 2. Relevante formål er blant annet hensynet til rikets sikkerhet («the interests of national security») og kriminalitetsbekjempelse («the prevention of disorder or crime»). Det kan derfor ikke være tvil om at politiets inngrep for å hindre kriminalitet oppfyller formålskravet. Også overvåkingspolitiets arbeid for å ivareta rikets sikkerhet, må anses relevant.
+
+Hovedtendensen er likevel at domstolen i liten grad går inn og prøver den angitte formålsangivelse, se for eksempel *Leander mot Sverige* 26. mars 1987 (sak 9248/81) avsnitt 49. Domstolen har imidlertid i enkelte tilfeller overprøvd statens formålsangivelse.
+
+BrøBrø*Nødvendighetskravet*
+
+BrøEMK artikkel 8 nr. 2 krever, i tillegg til lovkravet og kravet om at inngrepet må ivareta et bestemt formål, at inngrepet er nødvendig i et demokratisk samfunn. I dette vilkåret ligger et krav til forholdsmessighet. Borgernes forventning om å kunne leve sine liv uten at staten blander seg inn i deres private sfære, må veies mot samfunnets behov for å kunne ta i bruk krenkende metoder for å sikre statens sikkerhet og bekjempe kriminalitet. Det kreves ikke at inngrepet skal anses uunnværlig. Det er på den annen side ikke tilstrekkelig at tiltaket er ønskelig eller nyttig. Balansepunktet ligger et sted imellom, se dommen *Olsson mot Sverige* (sak 10465/83) avsnitt 67. Hvor den nærmere grensen skal trekkes, vil bero på en konkret vurdering. Det er likevel mulig å trekke opp noen generelle utgangspunkter for vurderingen.

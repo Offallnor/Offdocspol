@@ -1,971 +1,134 @@
-# Prop. 4 L (2026–2027), del 3 av 8 (side 29–39)
+# Prop. 4 L (2026–2027), del 3 av 9
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2026/4bef17cd-prop-4-l-20262027.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-4-l-20262027/id3184905/
 - Original-PDF: https://www.regjeringen.no/contentassets/845baf58b7ba41e6ba79796b4aa76d98/no/pdfs/prp202620270004000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 29]
-
-2026–2027
-
-Prop. 4 L
-Endringer i straffeprosessloven mv. (prosessuelle regler for selvstendig inndragning)
-
-derfor opp forslaget fra gruppen, men i en noe
-annen lovteknisk modell.
-I likhet med arbeidsgruppen foreslår departementet å samle de prosessuelle særreglene for
-selvstendig inndragning i et nytt kapittel 28 i
-straffeprosessloven. Etter forslaget vil saker om
-selvstendig inndragning følge lovens alminnelige
-regler med de særreglene som følger av kapittel
-28, se § 402 i lovforslaget. Departementet antar at
-
-27
-
-å samle særreglene i et eget kapittel vil gjøre dem
-mer tilgjengelige for brukerne. Departementet er
-også enig med arbeidsgruppen i at inndragningsordningens sivilrettslige trekk gjør det naturlig å
-plassere reglene i lovens sjuende del i tilknytning
-til reglene om behandlingen av sivile krav.
-Innholdet i de prosessuelle særreglene
-behandles nærmere i proposisjonen punkt 6 flg.
-
-[Side 30]
-
-28
-
-Prop. 4 L
-Endringer i straffeprosessloven mv. (prosessuelle regler for selvstendig inndragning)
-
-2026–2027
-
-6 Partsforholdene ved krav om selvstendig inndragning
-6.1
-
-Hvem som skal saksøkes
-
-6.1.1
-
-Gjeldende rett
-
-6.1.1.1
-
-Hovedregelen om at eieren må gjøres til
-part
-Inndragning rammer eiendomsretten til det som
-blir inndratt. Det er derfor en grunnleggende
-regel at den som har eiendomsretten til det som
-kreves inndratt, må gjøres til part i saken, se blant
-annet Innstilling fra Straffelovrådet 11. mars 1970,
-Inndragning på grunn av straffbare handlinger
-(SRI 1970) side 21 og HR-2020-710-A.
-I dag foretas inndragning i praksis som oftest
-av formuesgoder som tilhører en lovbryter, på
-bakgrunn av en straffbar handling som vedkommende har begått. Lovbryteren blir da part i
-saken både hva gjelder inndragningskravet og
-kravet om straff, se Ot.prp. nr. 90 (2003–2004) Om
-lov om straff (straffeloven) punkt 26.10 side 353.
-Straffeloven kapittel 13 gir også hjemmel for
-inndragning av formuesgoder som ikke tilhører
-en lovbryter. Regler om partsforholdet finnes da i
-straffeloven § 74. Bestemmelsen er plassert i
-straffeloven, men er i realiteten av prosessuell
-karakter. Paragraf 74 første ledd fastsetter at når
-det kreves inndragning av utbytte eller ting som
-ikke tilhører lovbryteren, skal kravet reises mot
-eieren. Bestemmelsen kodifiserer hovedregelen
-om at eieren av det som kreves inndratt, må gjøres til part, og bygger på «prosesslovgivningens
-grunnsetning om at den hvis interesser saken
-gjelder, må gjøres til part», se HR-2020-710-A
-avsnitt 24.
-6.1.1.2
-
-Adgangen til å fremme inndragningskrav
-uten at eieren er gjort til part
-Straffeloven § 74 annet og tredje ledd åpner for at
-det i visse tilfeller kan foretas inndragning uten at
-eieren av det som kreves inndratt, er gjort til part.
-Reglene bygger på de tidligere reglene i straffeloven 1902 § 37 c, se Ot.prp. nr. 90 (2003–2004)
-punkt 30.1 side 467. Reglene gir påtalemyndigheten adgang til å fremme et krav om inndragning av
-beslaglagt utbytte eller ting i sak mot en lovbryter
-
-eller besitter, i stedet for i sak mot eieren (§ 74
-annet ledd). Lovbryterens eller besitterens partsstilling for så vidt gjelder inndragningskravet er i
-disse tilfellene rent prosessuell, se HR-2019-1743
-avsnitt 73. I enkelte tilfeller åpner reglene også for
-at inndragningskravet kan fremmes «uten at noen
-er gjort til saksøkt» (§ 74 tredje ledd).
-Etter § 74 annet ledd gjelder adgangen til å
-fremme kravet mot lovbryteren eller besitteren
-for det første dersom eieren er «ukjent». Når
-eieren er ukjent, vil det i praksis være umulig å
-gjøre vedkommende til part. I Hålogaland lagmannsretts dom 5. juli 2024 (LH-2024-40650) er
-det lagt til grunn at eieren bare kan anses for å
-være ukjent dersom politiet har foretatt adekvate
-undersøkelser for å avklare hvem som eier formuesgodet. Lagmannsretten forutsetter her at
-eierspørsmålet må etterforskes før kravet eventuelt kan bringes inn for retten uten eieren som
-part.
-For det andre kan det etter § 74 annet ledd
-foretas inndragning i sak mot lovbryteren eller
-besitteren dersom eieren er «uten kjent oppholdssted i Norge». Det mest praktiske anvendelsesområdet for bestemmelsen er der eieren oppholder seg i utlandet, men ordlyden dekker også tilfeller der vedkommende oppholder seg på ukjent
-sted i Norge. Bakgrunnen for regelen er særlig at
-det kan være utfordrende å foreta forkynning av
-innkalling til hovedforhandling og andre dokumenter når vedkommende ikke oppholder seg på
-kjent sted i Norge, se SRI 1970 side 21–22. Av hensyn til inndragningsreglenes effektivitet ble det
-vurdert som nødvendig i disse tilfellene å kunne
-fremme inndragningskravet uten eieren som part.
-Reglene i § 74 annet ledd gjelder bare ved inndragning av ting som er tatt i beslag, eventuelt
-inndragning av verdien av ting som er beslaglagt
-eller mot sikkerhetsstillelse fritatt for beslag.
-Beslaget må være formelt gyldig og foretatt av
-norske myndigheter, se Rt. 1996 side 376 og Johan
-Boucht, Straffeloven, lovkommentar, Karnov (à
-jour per 2. mars 2026), note 7 til § 74. I NOU 2020:
-10 punkt 12.6.3 side 97–98 omtaler Straffelovrådet
-beslagsvilkåret slik:
-
-[Side 31]
-
-2026–2027
-
-Prop. 4 L
-Endringer i straffeprosessloven mv. (prosessuelle regler for selvstendig inndragning)
-
-«Den omstendighet at en gjenstand er tatt i
-beslag har to konsekvenser for spørsmålet om
-hvem som må gjøres til part i saken. For det
-første innebærer beslaget normalt at eieren
-gjennom den omstendighet at gjenstanden
-ikke kan disponeres som ellers, vil bli kjent
-med beslaget og derved ha forutsetninger for å
-gjøre sine interesser gjeldende. For det andre
-er gjenstanden i politiets besittelse slik at fullbyrdelse av inndragningen kan skje uten å gå
-veien via tvangsfullbyrdelse, som forutsetter at
-eieren er part i tvangsgrunnlaget.»
-Det er også et vilkår at det «finnes rimelig av hensyn til eieren» å behandle inndragningskravet
-uten eieren som part, jf. § 74 annet ledd første
-punktum. I straffeloven 1902 § 37 c var vilkåret
-formulert som at behandlingsmåten «etter sakens
-art og forholdene for øvrig finnes rimelig». Vurderingstemaet er i forarbeidene beskrevet slik, jf.
-SRI 1970 side 22:
-«Vilkårene for å bruke den fremgangsmåte
-som utk. § 37 c gir adgang til, er at retten etter
-sakens art og forholdene for øvrig finner det
-rimelig å gi dom for inndragning uten at eieren
-har vært gjort til part i saken. Det hensyn som
-det må legges særlig vekt på, er om det er nødvendig å bruke en slik fremgangsmåte av hensyn til formålet med inndragningsbestemmelsen. Den risiko det er for at det kan bli gjort
-urett mot en eier som det ikke er inndragningshjemmel overfor, må naturligvis tas i betraktning og veies mot styrken i de interesser som
-tilsier at forfølgningen av de lovovertredelser
-som saken gjelder, blir så effektiv som mulig.
-[…] Et moment av betydning vil det også være
-at en eier må være forberedt på inndragning av
-ting som han har overlatt til andre å rå over,
-dersom besitteren setter seg ut over landets
-lovgivning.»
-Rimelighetsvilkåret vil normalt ikke være oppfylt
-dersom eieren har kjent oppholdssted i utlandet
-og det ikke byr på særskilte utfordringer å foreta
-forkynning overfor vedkommende. I disse tilfellene vil påtalemyndigheten som regel måtte
-anlegge saken mot eieren selv om vedkommende
-er uten kjent oppholdssted i Norge, se SRI 1970
-side 22. Se til illustrasjon også avgjørelsen inntatt i
-RG 1998 side 1219, hvor Eidsivating lagmannsrett
-konstaterer at «[d]et synes heller ikke rimelig å
-anvende straffeloven § 37 c i forhold til B, som har
-kjent bopel i Sverige».
-
-29
-
-Et eksempel på inndragning uten eieren som
-part er Rt. 1990 side 417, som gjaldt inndragning
-av utbytte fra narkotikakriminalitet. I denne saken
-hadde politiet tatt beslag i penger hos en person
-som ble domfelt for narkotikalovbrudd, og inndragningskravet ble fremmet i straffesaken mot
-lovbryteren. Det ble lagt til grunn som bevist at
-lovbryteren hadde mottatt beløpet fra en ukjent
-tredjeperson, og at han var klar over at det var narkotikapenger. Førstvoterende konstaterte på side
-418 at «[d]et dreier seg om beslaglagte penger
-hvis eier ikke er kjent, og inndragningskravet kan
-da medtas i saken mot domfelte i hans egenskap
-av besitter av pengene ved beslagleggelsen».
-Et annet eksempel er HR-2019-1743-A, som
-gjaldt inndragning av domenenavnet popcorntime.no. Domenet var brukt til opphavsrettskrenkelser i form av ulovlig fildeling av filmer og TVserier og ble på bakgrunn av dette inndratt etter
-straffeloven § 69. Høyesterett la til grunn at den
-reelle domeneinnehaveren var ukjent, men at
-saken kunne reises mot den norskregistrerte foreningen Imcasreg8 i kraft av å være besitter av
-den registrerte bruksretten til domenenavnet i
-Norid på beslagstidspunktet, se dommen avsnitt
-70.
-Dersom verken lovbryteren eller besitteren
-har kjent oppholdssted i Norge, følger det av
-straffeloven § 74 tredje ledd at tingretten, på
-samme vilkår som i annet ledd, kan beslutte inndragning «uten at noen er gjort til saksøkt». En
-slik motpartsløs sak skiller seg fra saker som er
-reist etter § 74 annet ledd, hvor lovbryteren eller
-besitteren som regel har en viss foranledning for å
-ivareta eierens interesser, se Magnus Matningsdal, Inndragning, Universitetsforlaget 1987, side
-496. Situasjonen etter § 74 tredje ledd har likhetstrekk med prosessuelle ordninger der inndragningskravet rettes direkte mot formuesgodet i stedet for mot en enkeltperson (såkalt inndragning
-in rem), se Johan Boucht, Straffeloven, lovkommentar, Karnov (à jour per 2. mars 2026), note 1 til
-§ 74 tredje ledd.
-Straffeloven § 74 tredje ledd må ses i sammenheng med straffeprosessloven § 214 b. Bestemmelsen åpner for at påtalemyndigheten ensidig
-kan beslutte inndragning av en beslaglagt ting
-dersom vilkårene i straffeloven § 74 er oppfylt og
-verken eier, lovbryter eller besitter er kjent. Det
-er lagt til grunn at det ikke kan bli noen partsprosess i disse tilfellene fordi det ikke finnes noen å
-reise saken mot, se Ot.prp. nr. 90 (2003–2004)
-punkt 26.12.3.2 side 357–358.
-
-[Side 32]
-
-30
-
-Prop. 4 L
-Endringer i straffeprosessloven mv. (prosessuelle regler for selvstendig inndragning)
-
-6.1.2 Arbeidsgruppens forslag
-Arbeidsgruppen drøfter i rapporten punkt 10.3.1
-hvem krav om selvstendig inndragning skal rettes mot. Gruppen viser til at det i enkelte jurisdiksjoner finnes ordninger for inndragning uten
-straffedom hvor kravet rettes mot selve formuesgodet som kreves inndratt. Dette omtales
-gjerne som inndragning in rem. Arbeidsgruppen
-peker på flere potensielle fordeler ved en slik
-ordning. Ifølge gruppen vil en prosessordning
-hvor inndragningskravet rettes mot selve formuesgodet, kunne bidra til å understreke at
-grunnlaget for kravet er omstendigheter knyttet
-til formuesgodet og ikke at en enkeltperson har
-gjort noe straffbart. At prosessen retter seg mot
-selve formuesgodet, vil presumtivt kunne gjøre
-den mindre stigmatiserende og etablere et klarere skille mot straffeforfølgning. Gruppen
-antar også at en slik ordning vil kunne bidra til å
-løse enkelte praktiske utfordringer knyttet til
-inndragning av formuesgoder med uklare eller
-skjulte eierforhold, eller når eieren unndrar seg.
-Dette henger sammen med at det ligger implisitt
-i en in rem-ordning at avgjørelsen også har virkning overfor personer som ikke har vært part i
-saken.
-Arbeidsgruppen peker på at en variant av
-denne typen ordning allerede finnes i straffeloven
-§ 74 tredje ledd, som åpner for at påtalemyndigheten kan reise sak om inndragning «uten at noen er
-gjort til saksøkt». For øvrig er imidlertid den klare
-hovedregelen i straffeprosessen at inndragningskrav behandles i en partsrettet prosess. Som følge
-av dette mener gruppen at det vil fremstå noe
-fremmed å etablere en generell prosessordning
-for selvstendig inndragning som bygger på at
-kravet fremmes uten saksøkt. Gruppen er bekymret for at en slik ordning vil kunne skape risiko for
-at inndragningsordningen blir mindre brukt enn
-det som er ønskelig. Den legger også til grunn at
-rettssikkerhetshensyn normalt vil bli bedre ivaretatt i en prosessordning hvor kravet rettes mot en
-bestemt person.
-Etter arbeidsgruppens forslag skal krav om
-selvstendig inndragning som hovedregel fremmes mot «den som ut fra omstendighetene fremstår som den sannsynlige eieren av formuesgodet». Samtidig foreslår gruppen en unntaksregel som åpner for å fremme kravet uten motpart
-dersom «eierforholdene er uklare eller eieren
-ikke har kjent oppholdssted i Norge». Sistnevnte
-bygger videre på straffeloven § 74 annet og tredje
-ledd, men har et videre anvendelsesområde.
-Mens § 74 annet og tredje ledd forutsetter at
-
-2026–2027
-
-eieren er ukjent, omfatter gruppens forslag alle tilfeller der eierforholdene er uklare. Dette er særlig
-ment å legge til rette for mer effektiv inndragning
-i proforma-tilfeller og andre situasjoner der de
-reelle eierforholdene tilsløres eller holdes skjult. I
-motsetning til straffeloven § 74 bygger forslaget
-heller ikke på at kravet skal fremmes mot en lovbryter eller besitter der det finnes en slik person
-med kjent oppholdssted i Norge.
-Den foreslåtte adgangen til å fremme krav om
-selvstendig inndragning uten motpart er ikke
-begrenset til beslaglagte ting slik som straffeloven
-§ 74 annet og tredje ledd. Den omfatter imidlertid
-bare krav om inndragning av bestemte formuesgoder (gjenstandsinndragning). Krav om verdiinndragning skal etter forslaget fremmes mot eier.
-
-6.1.3 Høringsinstansenes syn
-Økokrim uttrykker generell støtte til arbeidsgrupperapporten, og mener de foreslåtte reglene
-balanserer hensynet til rettssikkerhet og effektivitet på en god måte. Også riksadvokaten støtter de
-fleste forslagene i rapporten. Riksadvokaten påpeker imidlertid at formuleringen i arbeidsgruppens
-lovforslag, «den som ut fra omstendighetene fremstår som den sannsynlige eieren av formuesgodet», avviker fra terminologien i gjeldende rett,
-og viser til straffeloven § 74 og straffeprosessloven § 214 b.
-Oslo politidistrikt støtter forslaget om at sak
-om selvstendig inndragning skal kunne reises
-uten motpart i tilfeller der eierforholdene er
-uklare eller holdes skjult. Også Hordaland, Sogn
-og Fjordane statsadvokatembeter er positive til at
-sak om selvstendig inndragning i visse tilfeller
-skal kunne reises uten motpart.
-Kripos bekrefter at proforma-eierskap av verdigjenstander er en praktisk problemstilling, og
-mener den foreslåtte unntaksregelen om at kravet
-skal kunne fremmes uten motpart, vil være et
-godt utgangspunkt for å effektivisere inndragningsadgangen. Høringsinstansen uttaler:
-«Sistnevnte forslag vil for Kripos sin del være
-særlig anvendelig i saker hvor formuesgoder
-gjenfinnes i for eksempel kryptovaluta. I slike
-saker vil det ofte være usikkerhet knyttet til
-hvem som er reell eier av midlene, og det vil i
-mange tilfeller ikke være mulig å fremskaffe
-eller komme i kontakt med verken personen
-som disponerer eller personen som knyttes til
-midlene. En innretning der saken kan rettes
-mot eiendelen og hvor beviskravet senkes, vil
-muliggjøre en mer effektiv inndragning blant
-
-[Side 33]
-
-2026–2027
-
-Prop. 4 L
-Endringer i straffeprosessloven mv. (prosessuelle regler for selvstendig inndragning)
-
-annet ved at man da kan få en rettslig avgjørelse å bruke som grunnlag for sikring.»
-Øst politidistrikt mener regelen om at kravet fremmes uten motpart, bør gjøres til hovedregel, men
-at påtalemyndigheten skal opplyse om sannsynlig
-eier når den oversender saken til retten. Det vil da
-være opp til den enkelte om vedkommende
-ønsker å tre inn i saken som part. Forslaget
-begrunnes slik:
-«Bakgrunnen for forslaget er at det i praksis
-oftest er sammenheng mellom hvem som blir
-sittende igjen som reell eier av utbytte av straffbar handling og hvem som er ansvarlig for den
-kriminelle handling gjenstanden er et utbytte
-av. Det vil derfor normalt være vanskelig å
-avdekke hvem som er reell eier og det blir
-svært usikkert om den som blir satt inn som
-part i saken med utgangspunkt i en antakelse
-om at han er eier, faktisk er reell eier. Det er
-også vanskelig å få et klart svar om dette i
-avhør. Reell eier vil ofte ønske å fremstå som
-eier hvis gjenstanden skal leveres tilbake, men
-ikke å erkjenne at man er reell eier hvis det
-bevises at gjenstanden er utbytte av straffbar
-handling.»
-Høringsinstansen antar at hvis prosessreglene
-legger opp til at vedkommende selv må påberope
-seg å være eier for å få partsstilling, vil eierforholdene bli belyst på en bedre måte.
-
-6.1.4
-6.1.4.1
-
-Departementets vurderinger
-
-Utgangspunktet: Selvstendig
-inndragning rammer eiendomsretten
-Det er et grunnleggende prosessuelt prinsipp at
-den som en rettslig avgjørelse skal ha konsekvenser for, blir gjort til part i saken, jf. blant annet
-straffeloven § 74 første ledd og HR-2020-710-A
-avsnitt 24. Ved dom på selvstendig inndragning vil
-den sentrale rettsvirkningen være at eiendomsretten til formuesgodet blir fratatt eieren og som
-hovedregel overført til staten, se straffeloven § 75
-første ledd og Prop. 27 L (2025–2026) punkt 9.1.
-Departementet legger derfor til grunn at krav om
-selvstendig inndragning i utgangspunktet bør rettes mot den som eier formuesgodet som kreves
-inndratt – på samme måte som etter straffeloven
-§ 74 første ledd i dag.
-Som arbeidsgruppen påpeker, har enkelte
-land innført inndragningsordninger hvor saken
-reises uten motpart eller mot selve formuesgodet.
-
-31
-
-Slike ordninger kan legge til rette for en smidig
-og effektiv prosess blant annet i situasjoner hvor
-eierforholdene er uklare eller der eieren unndrar
-seg. I likhet med arbeidsgruppen mener likevel
-departementet at det ville fremstå noe fremmed i
-norsk rett å etablere dette som den generelle ordningen ved selvstendig inndragning. Departementet legger til grunn at en ordning som bygger
-på tradisjonelle prosessrettslige prinsipper, vil
-være enklere å ta i bruk og redusere behovet for
-særregulering. Etter departementets oppfatning
-vil dessuten en partsprosess legge best til rette for
-at den som blir rammet av inndragningen, kan ta
-til motmæle og belyse saken fra sitt ståsted.
-Departementet viser i den forbindelse til EMDs
-dom 10. april 2012 Silickienė mot Litauen (sak nr.
-20496/02), hvor EMD la til grunn at eieren av formuesgodet i utgangspunktet bør ha formelle
-partsrettigheter når det reises sak om inndragning uten straffedom.
-Hovedregelen om at inndragningskrav skal
-rettes mot eier, følger i dag av straffeloven § 74
-første ledd. Etter departementets syn tilsier imidlertid pedagogiske hensyn at reglene om partsforholdet ved selvstendig inndragning bør fremgå
-samlet av det nye kapittelet i straffeprosessloven
-med særregler for denne sakstypen. Departementet foreslår derfor en bestemmelse i kapittel
-28 som angir hvem krav om selvstendig inndragning skal rettes mot, se § 404 i lovforslaget.
-Hovedregelen om at kravet rettes mot eier, fremgår av første ledd. Etter departementets syn er det
-nærliggende i denne sammenhengen å betegne
-vedkommende som «saksøkt». Denne betegnelsen er brukt i straffeloven § 74 tredje ledd, som
-åpner for å reise sak om inndragning «uten at
-noen er gjort til saksøkt». Betegnelsen brukes
-også i sivilprosessen, og ettersom ordningen med
-selvstendig inndragning har sivilrettslige trekk,
-ser departementet det som naturlig å benytte en
-tilsvarende terminologi.
-For at straffeloven § 74 fortsatt skal gi en mest
-mulig fullstendig og oversiktlig regulering av
-partsforholdene i inndragningssaker, foreslås det
-samtidig et nytt femte ledd i denne bestemmelsen
-med en henvisning til straffeprosessloven kapittel
-28.
-I Prop. 27 L (2025–2026) punkt 9.1 side 72
-varslet departementet at det i forbindelse med de
-prosessuelle reglene om hvem krav om selvstendig inndragning skal rettes mot, også ville vurdere
-behovet for å lovfeste hvem selvstendig inndragning materielt skjer overfor – det vil si hvem som
-er ansvarssubjekt for kravet. For de øvrige inndragningshjemlene i straffeloven kapittel 13 er
-
-[Side 34]
-
-32
-
-Prop. 4 L
-Endringer i straffeprosessloven mv. (prosessuelle regler for selvstendig inndragning)
-
-dette regulert i straffeloven § 71, se også Prop.
-27 L (2025–2026) punkt 3.3, hvor denne bestemmelsen er nærmere omtalt. Selv om systematiske
-hensyn kunne tilsi at straffeloven § 68 a inkluderes i oversikten i § 71, har departementet kommet
-til at en slik regulering ikke er nødvendig. Det
-fremgår av straffeloven § 68 a første ledd at
-bestemmelsen gir adgang til å inndra «[f]ormuesgode som mest sannsynlig stammer fra lovbrudd». Såfremt det er tilstrekkelig bevist at verdiene stammer fra kriminalitet, er det forutsatt at
-inndragning skal kunne foretas uavhengig av
-hvem som eier eller besitter formuesgodet, se
-Prop. 27 L (2025–2026) punkt 9.1 side 72. Departementet legger til grunn at dette, sammen med
-de prosessuelle reglene som foreslås i proposisjonen her, vil gi en tilstrekkelig regulering. Departementet tilføyer at heller ikke arbeidsgruppen eller
-noen av høringsinstansene har sett behov for endringer i straffeloven § 71.
-
-6.1.4.2
-
-Hvem som skal gjøres til saksøkt hvis
-eierforholdet er uavklart
-Som arbeidsgruppen fremhever er det en betydelig praktisk utfordring at verdier som stammer fra
-kriminalitet, disponeres på en måte som gjør det
-uklart hvem som reelt sett eier dem. Ofte kan
-dette være en bevisst strategi fra eierens side for å
-unngå inndragning. Som fremhevet i Prop. 27 L
-(2025–2026) punkt 9.1 side 72 bygger straffeloven
-§ 68 a på at selvstendig inndragning skal kunne
-foretas uavhengig av hvem som eier eller besitter
-formuesgodet. Det er forutsatt i proposisjonen at
-det ikke bør være et generelt krav at det fastslås
-hvem som eier formuesgodet, så lenge det er
-bevist at verdiene mest sannsynlig stammer fra
-kriminalitet. For at dette skal bli en realitet, må
-det også reflekteres i de prosessuelle reglene om
-hvem som skal gjøres til saksøkt. Dersom de prosessuelle vilkårene i praksis krever at politiet
-«snur hver sten» for å avklare hvem som eier formuesgodet, og derfor skal saksøkes, vil reglene
-om selvstendig inndragning bli mindre effektive
-enn forutsatt.
-I tilfeller der eierforholdene rundt formuesgodet er «uklare», har arbeidsgruppen foreslått at
-krav om selvstendig inndragning skal kunne fremmes uten saksøkt. Departementet er enig i at det
-er behov for en praktisk løsning for å fremme
-kravet også når det ikke er avklart gjennom etterforskningen hvem eieren er. Departementet
-mener likevel ikke det bør etableres en prosessordning hvor kravet fremmes uten saksøkt i alle
-disse tilfellene. Dette ville være å gå lenger i ret-
-
-2026–2027
-
-ning av en in rem-ordning enn departementet
-mener det er grunnlag for. Så lenge formuesgodet
-besittes eller brukes av en identifisert person som
-befinner seg i Norge, mener departementet det
-mest naturlige vil være å fremme kravet i en partsrettet prosess mot denne personen. Selv om besitteren ikke skulle være den reelle eieren, legger
-departementet til grunn at vedkommende ofte er
-den som står nærmest til å representere eierinteressene og belyse saken fra eierens ståsted. I en
-del tilfeller vil vedkommende dessuten reelt sett
-være den som har eierinteressene, men eierskapet forsøkes tilslørt eller holdt skjult. Å anlegge
-saken mot besitteren vil ivareta kontradiksjonshensyn på en bedre måte enn dersom saken
-skulle reises uten saksøkt. Etter departementets
-syn vil en slik regel harmonere med straffeloven
-§ 74 annet ledd, og være mer i tråd med alminnelige prosessuelle prinsipper enn en generell ordning hvor kravet fremmes uten saksøkt.
-Departementet bemerker at hvem som kan
-anses for å være besitter, må vurderes i lys av
-arten av formuesgodet som saken gjelder. For løsøregjenstander og andre fysiske ting vil det gjerne
-kunne påvises en «besitter» i snever forstand, det
-vil si en person som har tingen hos seg. Dette kan
-stille seg annerledes for andre typer formuesgoder, som for eksempel bankinnskudd, verdipapirer eller ulike former for rettigheter. Besitteren må i disse tilfellene anses for å være vedkommende som disponerer eller på andre måter har
-den faktiske rådigheten over formuesgodet. Det
-vises i den forbindelse til HR-2019-1743-A, som er
-omtalt i punkt 6.1.1.2 over, hvor selskapet som var
-registrert med bruksretten til domenenavnet popcorntime.no, ble ansett for å være besitter i relasjon til straffeloven § 74 annet ledd. Andre eksempler på personer som vil kunne anses som en
-«besitter», er den faktiske brukeren av en fast
-eiendom eller et kjøretøy, eller den som råder
-over bruken for eksempel gjennom utleie eller
-annet, eller den som disponerer en konto.
-Etter departementets forslag skal påtalemyndigheten kunne fremme krav om selvstendig inndragning mot en besitter dersom eierforholdet
-«fremstår som uavklart», se § 404 annet ledd i lovforslaget. Formuleringen uavklart eierforhold
-innebærer en viss presisering i forhold til arbeidsgruppens forslag, men er samtidig videre enn
-straffeloven § 74 annet ledd, som forutsetter at
-eieren er «ukjent». Ordlyden «fremstår» er valgt
-for å synliggjøre at det ikke nødvendigvis må gjennomføres en omfattende etterforskning for å
-avklare hvem som reelt sett eier formuesgodet.
-Det avgjørende er hvordan eierforholdet fremstår
-
-[Side 35]
-
-2026–2027
-
-Prop. 4 L
-Endringer i straffeprosessloven mv. (prosessuelle regler for selvstendig inndragning)
-
-for påtalemyndigheten etter en objektiv etterforskning hvor det er avklart at vilkårene for inndragning etter straffeloven § 68 a er oppfylt.
-
-6.1.4.3
-
-Hvem som skal gjøres til saksøkt hvis eier
-er uten kjent oppholdssted i Norge
-
-Etter straffeloven § 74 annet og tredje ledd kan
-det reises inndragningssak uten eieren som saksøkt dersom vedkommende er kjent, men «uten
-kjent oppholdssted i Norge». Bakgrunnen for
-regelen er særlig at det i slike tilfeller kan være
-vanskelig eller uforholdsmessig tidkrevende å forkynne dokumenter i saken for eieren, særlig hvis
-vedkommende oppholder seg i et land som Norge
-har begrenset rettslig samarbeid med, jf. SRI 1970
-side 22. Arbeidsgruppen har lagt til grunn at
-behovet for en slik regel er like stort for krav om
-selvstendig inndragning etter straffeloven § 68 a.
-Departementet er enig i dette.
-Når eieren er uten kjent oppholdssted i Norge,
-følger det av arbeidsgruppens forslag at krav om
-selvstendig inndragning skal kunne fremmes uten
-at noen er gjort til saksøkt. Så lenge formuesgodet
-besittes eller brukes av en identifisert person som
-oppholder seg på kjent sted i Norge, mener departementet at det også i disse tilfellene er naturlig å
-anlegge saken mot besitter. På samme måte som
-når eierforholdet fremstår uavklart, vil besitteren
-kunne representere eierinteressene i saken og
-bidra til å sikre kontradiksjon. Besitteren vil også
-kunne fungere som mottaker av relevante dokumenter i saken, og eventuelt kunne videreformidle informasjonen til eieren. Departementet
-antar derfor at dette vil være en mer rettssikker
-løsning enn at saken anlegges uten saksøkt.
-Departementet foreslår følgelig at kravet, dersom eieren er uten kjent oppholdssted i Norge,
-skal kunne fremmes mot en besitter, se § 404
-annet ledd i lovforslaget. Bestemmelsen er en
-videreføring av den tilsvarende regelen i straffeloven § 74 annet ledd.
-
-6.1.4.4
-
-Krav om selvstendig inndragning uten
-saksøkt
-
-Departementet legger til grunn at det kan oppstå
-situasjoner der vilkårene for selvstendig inndragning er oppfylt, men det ikke er identifisert noen
-eier eller besitter i Norge som det er naturlig å
-gjøre til saksøkt. Et eksempel som er trukket frem
-i høringsuttalelsen fra Kripos, er kryptovaluta som
-det ikke lar seg gjøre å fremskaffe informasjon
-om hvem som eier eller disponerer. I forarbeidene
-til de svenske reglene om selvstendig inndragning
-
-33
-
-nevnes også situasjoner der politiet finner et stort
-kontantbeløp i en bil hos en pengekurer, og det
-ikke lar seg gjøre å finne ut hvem som er eieren,
-eller at formuesgodet finnes i en park uten at noen
-kan knyttes til det, se Prop. 2023/24:144 side 423.
-De svenske reglene åpner i slike situasjoner for at
-saken kan reises mot en ukjent, se 4 kap. 4 §.
-Etter departementets oppfatning bør også de
-norske reglene om selvstendig inndragning gi en
-unntaksvis adgang til å fremme kravet uten saksøkt. Departementet antar at dette vil kunne være
-nødvendig for å få avgjort kravet i tilfeller der det
-gjennom etterforskningen ikke er identifisert
-noen eier eller besitter i Norge som kravet kan
-rettes mot etter reglene som er beskrevet i de
-foregående punktene. Departementet foreslår
-derfor at kravet i disse tilfellene skal kunne fremmes uten at noen er gjort til saksøkt, se § 404
-tredje ledd i lovforslaget. Forslaget bygger videre
-på den gjeldende reguleringen i straffeloven § 74
-tredje ledd, og vil blant annet kunne komme til
-anvendelse i de tilfellene som er trukket frem i
-høringen og i de svenske forarbeidene.
-
-6.1.4.5
-
-Tilleggsvilkår for å fremme kravet uten at
-eieren er gjort til saksøkt
-Straffeloven § 74 annet ledd oppstiller visse tilleggsvilkår for at inndragningskrav skal kunne
-fremmes i sak mot lovbryteren eller besitteren i
-stedet for mot eieren. Vilkårene gjelder tilsvarende når kravet fremmes uten saksøkt etter
-reglene i § 74 tredje ledd. Departementet har vurdert om det bør oppstilles tilsvarende vilkår for å
-fremme krav om selvstendig inndragning i sak
-mot en besitter, eventuelt uten saksøkt, jf. punkt
-6.1.4.2 til 6.1.4.4 over.
-For det første følger det av straffeloven § 74 at
-et inndragningskrav bare kan fremmes etter
-reglene i annet eller tredje ledd hvis dette «finnes
-rimelig av hensyn til eieren». Rimelighetsvilkåret
-vil blant annet kunne være til hinder for å fremme
-kravet uten eieren som part hvis eieren oppholder
-seg på kjent sted i et land hvor det ikke byr på
-særlige utfordringer å foreta forkynning overfor
-vedkommende, jf. SRI 1970 side 22. Departementet mener det bør gjelde en tilsvarende
-begrensning når påtalemyndigheten fremmer
-krav om selvstendig inndragning av et formuesgode som eies av noen uten kjent oppholdssted i
-Norge, jf. punkt 6.1.4.3. Er det for eksempel
-avklart at eieren er en identifisert person med fast
-bosted i et land som Norge har tett rettslig samarbeid med, vil det ofte være urimelig å fremme
-kravet mot en besitter i Norge, eventuelt uten sak-
-
-[Side 36]
-
-34
-
-Prop. 4 L
-Endringer i straffeprosessloven mv. (prosessuelle regler for selvstendig inndragning)
-
-søkt, i stedet for mot eieren. Foreligger det holdepunkter for at eieren oppholder seg i utlandet for å
-unndra seg norske myndigheters søkelys, vil hensynet til eieren derimot ha liten vekt.
-Dersom påtalemyndigheten fremmer inndragningskravet mot besitter fordi eierforholdet fremstår uavklart, jf. punkt 6.1.4.2, kommer rimelighetsvilkåret i en annen stilling. Siden det ikke er
-klart hvem som reelt sett eier formuesgodet, er
-det ikke nødvendigvis mulig å ta stilling til hva
-som er rimelig overfor eieren. I disse tilfellene vil
-derfor rimeligheten ved å anlegge saken mot en
-besitter, eventuelt uten saksøkt, måtte vurderes
-mer abstrakt i lys av sakens art og forholdene for
-øvrig. Departementet mener likevel en tilsvarende rimelighetsbegrensning som etter straffeloven § 74 annet ledd bør gjelde også i disse tilfellene. Rimelighetsvilkåret vil blant annet kunne
-utgjøre en skranke mot å fremme kravet mot en
-besitter, eventuelt uten saksøkt, dersom det fremstår urimelig å anlegge saken uten at det først tas
-ytterligere skritt for å avklare hvem som reelt sett
-eier formuesgodet. Departementet antar at denne
-vurderingen i noen grad vil kunne gli over i den
-materielle vurderingen av om inndragning vil
-være uforholdsmessig, jf. straffeloven § 68 a
-første ledd annet punktum.
-Departementet foreslår etter dette et tilsvarende rimelighetsvilkår som etter straffeloven §
-74 annet ledd. Etter departementets forslag skal
-adgangen til å fremme krav om selvstendig inndragning mot en besitter, eventuelt uten saksøkt,
-gjelde «så langt det fremstår som rimelig av hensyn til eier og etter sakens art og forholdene for
-øvrig», se § 404 fjerde ledd i lovforslaget. Formuleringen er valgt for å reflektere bredden i rimelighetsvurderingen, og at vurderingen nødvendigvis
-vil bli en noe annen dersom det ikke er avklart
-hvem eieren er.
-For det andre er straffeloven § 74 annet og
-tredje ledd begrenset til inndragning av «beslaglagt utbytte eller ting». Som fremhevet av Straffelovrådet i NOU 2020: 10 bidrar beslagsvilkåret til å
-synliggjøre for eieren at formuesgodet står i fare
-for å bli inndratt, og gi vedkommende en oppfordring til å ta del i prosessen selv om vedkommende ikke er gjort til saksøkt. Departementet
-har likevel kommet til at det ikke bør oppstilles et
-absolutt vilkår om beslag for at krav om selvstendig inndragning skal kunne fremmes mot en
-besitter, eventuelt uten saksøkt.
-Ved etterforskning med sikte på selvstendig
-inndragning antar departementet at påtalemyndigheten i de aller fleste tilfeller vil sørge for å
-sikre formuesgodet ved å ta beslag. Det kan imid-
-
-2026–2027
-
-lertid også oppstå situasjoner der beslagsvilkåret i
-straffeloven § 74 annet ledd ikke ville vært oppfylt.
-For eksempel kan verdiene som kreves inndratt,
-være sikret av utenlandske myndigheter, men
-ikke å anse som «beslaglagt» etter norsk rett.
-Straffeloven § 68 a forutsetter at det også skal
-kunne foretas inndragning av formuesgoder som
-befinner seg i utlandet, såfremt saken har tilstrekkelig tilknytning til Norge, jf. bestemmelsens
-tredje ledd annet punktum. Etter departementets
-syn bør det ikke være utelukket å inndra slike formuesgoder som er sikret i utlandet, i sak mot en
-besitter i Norge, eventuelt uten saksøkt.
-Departementet mener at hensynene som kan
-begrunne et beslagsvilkår, vil være tilstrekkelig
-ivaretatt på andre måter. Blant annet vil forutgående beslag være et sentralt moment i det prosessuelle spørsmålet om det er rimelig å anlegge
-saken mot en besitter eller uten saksøkt, og etter
-omstendighetene kunne være relevant i forholdsmessighetsvurderingen etter straffeloven § 68 a
-første ledd annet punktum. Departementet foreslår derfor ikke et eget vilkår om forutgående
-beslag.
-
-6.2
-
-Avgjørelsens virkning overfor
-andre enn saksøkte
-
-6.2.1 Gjeldende rett
-Hovedregelen i straffeprosessen er at rettskraftvirkningene av en dom bare gjelder overfor partene i saken. Dette innebærer at dersom det
-senere skulle vise seg at en inndragningssak er
-reist mot feil saksøkt, vil dommen som hovedregel ikke være bindende for den egentlige
-eieren. Dette er lagt til grunn i SRI 1970 side 21,
-hvor det uttales:
-«Skulle det etterpå vise seg at det er en annen
-som er eier enn den som retten har forutsatt i
-dommen, vil den rette eier som regel ikke være
-bundet av dommen, men kan kreve tingen utlevert til seg, med mindre de gjeldende regler
-om godtroerverv medfører noe annet.»
-Konsekvensen av at feil person er gjort til saksøkt,
-er at dommen ikke kan fullbyrdes overfor den
-reelle eieren, se Rt. 2003 side 473 avsnitt 18–19. Et
-eksempel på dette er Rt. 1978 side 1552. Her var
-det besluttet inndragning av verdien av et båtskrog, som retten la til grunn at delvis var eid av
-saksøktes kone. Retten fant at inndragningskravet
-ikke kunne tvangsfullbyrdes i den delen av båtskroget som tilhørte henne, fordi hun ikke hadde
-
-[Side 37]
-
-2026–2027
-
-Prop. 4 L
-Endringer i straffeprosessloven mv. (prosessuelle regler for selvstendig inndragning)
-
-vært part i inndragningssaken. Dette til tross for
-at det var truffet beslutning i dommen om at skroget heftet til sikkerhet for kravet.
-Dersom det viser seg at eieren er en annen
-enn opprinnelig antatt, og de materielle vilkårene
-for inndragning hos den egentlige eieren er oppfylt, vil påtalemyndigheten eventuelt kunne reise
-en ny sak hvor vedkommende gjøres til saksøkt,
-se SRI 1970 side 21 og Ot.prp. nr. 8 (1998–99) Om
-lov om endringer i straffeloven og straffeprosessloven mv (inndragning av utbytte) punkt 22.5 side
-74.
-Dersom det er behov for at en inndragningsavgjørelse skal være bindende for flere enn den som
-er gjort til saksøkt, kan påtalemyndigheten trekke
-inn de aktuelle personene som part i saken. Hjemmel for dette finnes i straffeprosessloven § 2, som
-gir loven anvendelse for «spørsmål om tredjepersons rettigheter i formuesgoder som saken gjelder». I forarbeidene er det lagt til grunn at
-bestemmelsen særlig kan være aktuell som
-grunnlag for å trekke inn mulige proforma-eiere
-som avgjørelsen skal ha tvangskraft overfor, se
-Ot.prp. nr. 8 (1998–99) punkt 22.5 side 74 og NOU
-1996: 21 Mer effektiv inndragning av vinning
-punkt 13.6.2.5 side 150.
-Inndragningssaker som reises etter reglene i
-straffeloven § 74 annet og tredje ledd uten eieren
-som saksøkt, representerer et unntak fra de
-alminnelige rettskraftreglene. Når saken er reist
-etter disse reglene, er dommen bindende for
-eieren selv om vedkommende ikke har vært part,
-se Rt. 1979 side 1301.
-Ved krav om inndragning som fremmes etter
-reglene i straffeloven § 74 annet eller tredje ledd,
-skal eieren så vidt mulig varsles, se annet ledd
-tredje punktum. Formålet med varslingen er at
-eieren skal gjøres kjent med saken slik at vedkommende kan ivareta sine interesser og eventuelt
-utøve partsrettigheter, se også punkt 6.3.1. Om
-det er mulig å varsle eieren, vil bero på de konkrete omstendighetene. Reises saken uten eieren
-som saksøkt fordi vedkommende er «ukjent», vil
-det i praksis ikke være mulig å varsle eieren, se til
-illustrasjon Rt. 1990 side 417, hvor førstvoterende
-kort konstaterer at «[v]arsling til pengenes eier
-(§ 37 c første ledd i.f.) var ikke mulig».
-
-6.2.2
-
-Arbeidsgruppens forslag
-
-Arbeidsgruppen foreslår som nevnt at krav om
-selvstendig inndragning som hovedregel skal rettes mot den som sannsynligvis eier formuesgodet
-som kreves inndratt. Gruppen legger imidlertid til
-grunn at det vil ha mindre betydning i praksis
-
-35
-
-hvem som gjøres til saksøkt. Det skyldes at forslaget bygger på at avgjørelsen ikke bare skal
-være bindende for partene, men for «alle som har
-interesser i formuesgodet», se rapporten punkt
-10.9.1.1 side 224. Gruppen mener en slik utvidet
-rettskraftregel er nødvendig for at ordningen med
-selvstendig inndragning skal bli tilstrekkelig
-effektiv ved proforma-eierskap og i andre tilfeller
-hvor eierforholdene er uklare. Den argumenterer
-også for at en regel om at avgjørelsen har virkning
-overfor alle som har interesser i formuesgodet,
-harmonerer med at selvstendig inndragning fokuserer på formuesgodet som sådan og ikke personen kravet er rettet mot.
-Arbeidsgruppen legger til grunn at en regel
-om utvidet rettskraft forutsetter at eventuelle tredjepersoner som kan ha interesser i formuesgodet,
-gjøres kjent med saken og kan bestride inndragningskravet. På bakgrunn av dette foreslår gruppen en varslingsordning som bygger videre på
-regelen i straffeloven § 74 annet ledd tredje punktum. Den foreslåtte varslingsordningen skal imidlertid ha et videre anvendelsesområde enn regelen i § 74, ved at den ikke er begrenset til tilfeller
-hvor kravet fremmes uten at eier er gjort til part. I
-motsetning til etter § 74 annet ledd skal varslingsregelen dessuten ikke bare gjelde overfor
-«eieren». Det skyldes at forslaget er ment å legge
-til rette for at kravet blir avgjort med bindende
-virkning også når det er uklart hvem den reelle
-eieren er.
-Gruppens lovforslag inneholder to alternative
-avgrensninger av personkretsen som skal varsles,
-se også rapporten punkt 10.3.3 side 183. Den ene
-formuleringen omfatter «[a]ndre som kan få sin
-rettsstilling negativt påvirket av inndragningen»,
-mens den andre er begrenset til «[r]ettighetshaver som kan få sin rettighet utslettet ved inndragningen». Gruppen nevner også «rettslig interesse» som et mulig avgrensningskriterium, men
-konkluderer med at denne formuleringen fremstår noe fremmed i straffeprosessen og ikke nødvendigvis vil gi en klar avgrensning.
-
-6.2.3 Høringsinstansenes syn
-Økokrim uttrykker generell støtte til arbeidsgrupperapporten, og mener de foreslåtte reglene
-balanserer hensynet til rettssikkerhet og effektivitet på en god måte. Også riksadvokaten støtter de
-fleste forslagene i rapporten. Kripos bekrefter at
-proforma-eierskap, som utgjør en viktig del av
-begrunnelsen for arbeidsgruppens forslag, er en
-utfordring i praksis.
-
-[Side 38]
-
-36
-
-Prop. 4 L
-Endringer i straffeprosessloven mv. (prosessuelle regler for selvstendig inndragning)
-
-Hordaland, Sogn og Fjordane statsadvokatembeter viser til de to alternative avgrensningene
-av personkretsen som skal varsles og kunne
-bestride kravet, og støtter formuleringen «rettighetshaver som kan få sin rettighet utslettet ved
-inndragningen». Høringsinstansen viser til at
-dette alternativet fremstår mindre omfattende og
-harmonerer best med terminologien i straffeloven
-§§ 73 og 74. Høringsinstansen stiller seg også
-positiv til å bruke «rettslig interesse» som
-avgrensningskriterium, og viser til at denne formuleringen er brukt i straffeprosessloven § 2.
-Øst politidistrikt viser til den foreslåtte regelen
-om at dommen skal være bindende for enhver, og
-argumenterer for at denne ikke passer ved verdiinndragning. Politidistriktet påpeker at en dom på
-verdiinndragning nødvendigvis bare vil ha virkning for personen som inndragningen foretas
-overfor.
-
-6.2.4
-
-Departementets vurderinger
-
-Som arbeidsgruppen og flere høringsinstanser
-fremhever, er det ikke uvanlig at formuesgoder
-som stammer fra lovbrudd, blir overdratt proforma eller at det reelle eierforholdet på andre
-måter holdes skjult. Dette kan gjøre det vanskelig
-å komme i mål med et inndragningskrav i dag.
-Hovedregelen i straffeloven § 74 første ledd innebærer at inndragningskravet normalt skal rettes
-mot den reelle eieren av formuesgodet. Som følge
-av rettskraftreglene i straffeprosessen vil avgjørelsen være bindende for vedkommende, men ikke
-kunne fullbyrdes overfor en proforma-eier eller
-andre tredjepersoner som ikke har vært part.
-Slike personer kan eventuelt trekkes inn som part
-etter straffeprosessloven § 2, men dette vil i
-mange tilfeller være unødvendig prosessdrivende.
-I tillegg gir straffeloven § 74 annet og tredje ledd
-adgang til å få avgjort et inndragningskrav med
-bindende virkning for eieren, uten at vedkommende har vært part. Dette forutsetter imidlertid
-at vedkommende kan anses som «ukjent», eventuelt at vedkommende er uten kjent oppholdssted
-i Norge.
-I Prop. 27 L punkt 9.1 side 72 er det lagt til
-grunn at et formuesgode som stammer fra lovbrudd, skal kunne inndras uavhengig av hvem
-som eier eller besitter formuesgodet, og uten at
-det er fastslått hvem den reelle eieren er. For at
-dette skal bli en realitet, er det en forutsetning at
-en avgjørelse om selvstendig inndragning av et
-formuesgode kan fullbyrdes overfor den reelle
-eieren, selv om dette skulle vise seg å være en
-annen enn den som er gjort til saksøkt. I enkelte
-
-2026–2027
-
-jurisdiksjoner er denne typen utfordringer løst
-gjennom såkalte in rem-ordninger, hvor inndragningskravet fremmes uten noen enkeltperson som
-saksøkt. Denne typen prosessordning bygger på
-at avgjørelsen har virkning og kan fullbyrdes overfor enhver.
-Som det fremgår av punkt 6.1.4.1, mener
-departementet at det ikke er grunnlag for å innføre en generell in rem-ordning for selvstendig
-inndragning i Norge. For at reglene skal bli tilstrekkelig effektive også ved proforma-eierskap
-og i andre tilfeller hvor det ikke er fastslått hvem
-den reelle eieren av formuesgodet er, mener
-departementet likevel det er behov at avgjørelsen
-skal få virkning og kunne fullbyrdes også overfor
-andre enn den som er gjort til saksøkt. Departementet følger derfor opp arbeidsgruppens forslag
-om at avgjørelsen i en sak om selvstendig inndragning skal ha virkning overfor alle som har interesser i formuesgodet, se § 409 første ledd i lovforslaget. Ingen høringsinstanser har hatt motforestillinger til dette. Som Øst politidistrikt påpeker,
-er en slik regel ikke anvendelig ved verdiinndragning, jf. straffeloven § 68 a annet ledd, som innebærer at saksøkte blir ilagt et betalingskrav. I
-departementets forslag er det følgelig presisert at
-regelen gjelder ved «inndragning av et bestemt
-formuesgode», det vil si ved gjenstandsinndragning.
-Etter departementets oppfatning fordrer en
-slik utvidet rettskraftregel at eventuelle tredjepersoner som hevder å ha eierinteresser i formuesgodet, kan ta del i saken og bestride kravet, se
-også punkt 6.3 nedenfor. Departementet er derfor
-enig med arbeidsgruppen i at slike personer så
-vidt mulig bør varsles om saken. Dette følger også
-av straffeloven § 74 i dag når det fremmes krav om
-inndragning uten at eieren er gjort til part. Etter
-departementets syn er et slikt varsel nødvendig
-for å legge til rette for at den reelle eieren av formuesgodet skal kunne ivareta sine interesser i
-saken også når vedkommende ikke formelt sett er
-gjort til part, jf. EMDs dom 10. april 2012 Silickienê mot Litauen (sak nr. 20496/02), som er omtalt
-i punkt 4.1.2.
-Etter straffeloven § 74 annet ledd tredje punktum gjelder kravet til varsling overfor eieren.
-Arbeidsgruppen har foreslått at kravet til varsling
-ved selvstendig inndragning skal gjelde overfor
-«[a]ndre som kan få sin rettsstilling negativt påvirket av inndragningen», alternativt «[r]ettighetshaver som kan få sin rettighet utslettet ved inndragningen». Siden inndragning retter seg mot eiendomsretten til formuesgodet, antar departementet
-at varslingsregelen bør avgrenses ut fra dette. For
-
-[Side 39]
-
-2026–2027
-
-Prop. 4 L
-Endringer i straffeprosessloven mv. (prosessuelle regler for selvstendig inndragning)
-
-at regelen skal være anvendelig også når eierforholdet fremstår som uavklart, bør den imidlertid
-også omfatte eventuelle andre identifiserte personer som med en viss grad av sannsynlighet kan
-antas å være eier. Departementet foreslår derfor
-at varsel skal gis til andre enn den saksøkte som
-«er eller kan antas å være eier», se § 404 annet
-ledd annet punktum i lovforslaget. Når det gjelder
-rettighetshavere, viser departementet til proposisjonen punkt 6.4.
-Etter straffeloven § 74 annet ledd gjelder
-kravet til varsling av eier «så vidt mulig». Departementet legger til grunn at et tilsvarende forbehold
-er nødvendig også ved selvstendig inndragning.
-For eksempel vil varsel kunne være umulig dersom en person som er eller kan antas å være eier,
-unndrar seg på en slik måte at det ikke lar seg
-gjøre å komme i kontakt med vedkommende. Det
-samme gjelder dersom eierens identitet er ukjent.
-Av hensyn til rettssikkerheten til de berørte legger departementet til grunn at forbeholdet bør tolkes nokså snevert. Påtalemyndigheten bør normalt gjøre betydelige bestrebelser for å sikre at
-informasjon om saken når frem til relevante personer, særlig hvis det er en høy grad av sannsynlighet for at vedkommende er den reelle eieren.
-Departementet viser for øvrig til proposisjonen
-punkt 9.2.4, hvor gjennomføringen av varslingen
-er nærmere omtalt.
-
-6.3
-
-Den prosessuelle stillingen til
-andre enn saksøkte som er eller
-kan antas å være eier
-
-6.3.1 Gjeldende rett
-Utgangspunktet i straffeprosessen er at eventuelle tredjepersoner som hevder å eie et formuesgode som kreves inndratt, ikke kan utøve partsrettigheter i en sak hvor vedkommende ikke er
-saksøkt, se Rt. 1979 side 1353. Dette har sammenheng med at vedkommende som hovedregel heller ikke vil være bundet av inndragningsavgjørelsen, jf. også punkt 6.2.1.
-Det prosessuelle utgangspunktet illustreres av
-kjennelsen i Rt. 1950 side 613. Saken gjaldt anke
-over en avgjørelse om inndragning av en bil på
-bakgrunn av at bilen var ulovlig innført til Norge.
-Lovbryteren som hadde innført bilen, ble ilagt
-inndragningen, men dommen ble anket også av
-selskapet som hadde besørget innførselen og som
-anførte å være eier av bilen. Høyesterett la til
-grunn at selskapet ikke hadde ankerett, og
-begrunnet standpunktet slik (side 614):
-
-37
-
-«Jeg er også kommet til at anken fra Kolberg,
-Caspary A/S må avvises. Byrettens dom går ut
-på inndragning hos A og har ikke bindende
-virkning for firmaet eller noen annen utenforstående tredjemann som måtte hevde å eie
-bilen. Den rett Kolberg, Caspary A/S i tilfelle
-har, berøres i det hele tatt ikke av dommen, og
-firmaet har da etter min oppfatning ikke partsrett og heller ikke ankerett i saken. En annen
-ting er at firmaet, selv om det måtte vinne frem
-med sin påstand om å være eier av bilen, vil
-kunne tilpliktes å tåle inndragning av denne i
-en sak hvor det selv er part […].»
-I Rt. 2003 side 473 kom Høyesteretts kjæremålsutvalg likevel til at anke over en inndragningsavgjørelse fra tre personer som ikke hadde vært part i
-saken under behandlingen i de tidligere instansene, måtte tillates fremmet. Lagmannsretten
-hadde avvist ankene, under henvisning til at tingrettens dom ikke ville ha rettskraftvirkninger
-overfor dem. Kjæremålsutvalget viste imidlertid
-til at inndragningsavgjørelsen gjaldt innestående
-på kontoer som tingretten hadde lagt til grunn at
-tilhørte de tre personene, og at tingretten hadde
-utformet en domsslutning som også omfattet
-dem. Etter kjæremålsutvalgets syn måtte de da ha
-ankerett, se avsnitt 20.
-Når et inndragningskrav fremmes etter
-reglene i straffeloven § 74 annet eller tredje ledd
-uten eieren som part, fremgår det av forarbeidene
-at eieren «selvsagt [vil] kunne møte i saken og få
-partsrettigheter», se SRI 1970 side 22. Dette henger sammen med at dommen blir bindende for
-eieren selv om vedkommende ikke er gjort til
-part, se også punkt 6.2.1.
-I rettspraksis er det lagt til grunn at eierens
-prosessuelle rettigheter i disse tilfellene også
-omfatter retten til å anke, selv om vedkommende
-ikke har utøvd partsrettigheter under behandlingen i første instans, se Rt. 1979 side 1301. Saken
-gjaldt et inndragningskrav som var fremmet i sak
-mot lovbryteren på grunnlag av straffeloven
-1902 § 37 c første ledd (tilsvarer straffeloven
-2005 § 74 annet ledd). På side 1303 uttaler førstvoterende:
-«I den foreliggende sak var [eieren] varslet om
-hovedforhandlingen i herredsretten, hvor han
-møtte som vitne, men han fremsatte ikke her
-noe krav om partsrettigheter. Imidlertid kan
-jeg ikke se at det i et slikt tilfelle er noe til hinder for at eieren – selv om han ikke har utøvd
-partsrettigheter på et tidligere stadium under
-saken – kan bruke rettsmidler mot en inndrag-
+#  Straffeprosessuelle regler i inndragningssaker
+
+## Inndragning som et eget formål med etterforskningen
+
+### Gjeldende rett
+
+Straffeprosessloven gjelder som hovedregel for behandlingen av saker om straff, jf. lovens § 1. Inndragning etter straffeloven kapittel 13 er i utgangspunktet ikke å anse som straff, men en annen strafferettslig reaksjon, jf. straffeloven § 30. Etter straffeprosessloven § 2 første ledd nr. 2 kommer loven likevel også til anvendelse ved behandlingen av «offentlig sak om inndragning». Etter bestemmelsen gjelder dette «uten hensyn til om det samtidig blir nedlagt påstand om straff». Loven forutsetter altså at det kan anlegges rene inndragningssaker, uten at det skjer i tilknytning til straffeforfølgning. Det samme fremgår av straffeprosessloven § 38 annet ledd tredje punktum, som fastsetter at det ikke kan idømmes straff eller særreaksjon «i en sak som bare gjelder inndragning». Rene inndragningssaker anlegges likevel forholdsvis sjelden i praksis.
+
+Det følger av straffeprosessloven § 224 første ledd at etterforskning foretas «når det som følge av anmeldelse eller andre omstendigheter er rimelig grunn til å undersøke om det foreligger straffbart forhold som forfølges av det offentlige». Etterforskning besluttes, ledes og avsluttes av påtalemyndigheten, og utføres av politiet, jf. § 225 første ledd. Ordlyden i § 224 første ledd indikerer at påtalemyndighetens rett og plikt til å foreta etterforskning primært knytter seg til straffbare handlinger. I lys av lovens forutsetning om at det kan anlegges rene inndragningssaker, må det likevel legges til grunn at § 224 åpner for å foreta etterforskning med sikte på inndragning, uten at det samtidig etterforskes med sikte på å avklare om det er grunnlag for straffansvar.
+
+Straffeprosessloven § 226 første ledd bokstav a til f lister opp hva som kan være formålet med en etterforskning. Formålene som angis her er blant annet å skaffe til veie nødvendige opplysninger for å avgjøre spørsmålet om tiltale (bokstav a) og å tjene som forberedelse for rettens behandling av spørsmålet om straffeskyld og eventuelt spørsmålet om fastsettelse av reaksjon (bokstav b). Sistnevnte omfatter blant annet inndragning etter straffeloven kapittel 13, jf. straffeloven § 30 bokstav e.
+
+### Arbeidsgruppens forslag
+
+Arbeidsgruppen mener det bør synliggjøres i straffeprosessloven § 224 at det kan foretas etterforskning med sikte på inndragning, uavhengig av om dette er knyttet til mulig forfølgning av en straffbar handling. Gruppen foreslår å føye til passusen «…eller om det kan foretas inndragning» i straffeprosessloven § 224 første ledd. Ordlyden i forslaget omfatter både selvstendig inndragning etter straffeloven § 68 a og inndragning etter de øvrige hjemlene i straffeloven kapittel 13. For så vidt gjelder de øvrige inndragningshjemlene, legger gruppen til grunn at forslaget er i tråd med gjeldende rett.
+
+Arbeidsgruppen legger til grunn at terskelen for å foreta etterforskning etter straffeprosessloven § 224 første ledd – «rimelig grunn» – også bør gjelde for igangsetting av etterforskning med sikte på selvstendig inndragning. Dette begrunnes med at de samme omstendighetene som kan gi grunnlag for en ordinær straffeprosessuell etterforskning, i praksis kan danne grunnlag for etterforskning med sikte på selvstendig inndragning. Arbeidsgruppen mener derfor det er hensiktsmessig at vilkårene for igangsetting av etterforskning er like.
+
+Arbeidsgruppen foreslår også å legge til passusen «…eller om det kan foretas inndragning» i straffeprosessloven § 226 første ledd bokstav a. Forslaget er ment å synliggjøre at det kan være et eget formål med etterforskningen å fremskaffe opplysninger for å avklare om det kan foretas inndragning. På samme måte som den foreslåtte endringen i straffeprosessloven § 224 er formuleringen generell. Den tydeliggjør dermed at det er legitimt å foreta etterforskning av rene inndragningssaker også etter de øvrige inndragningshjemlene i straffeloven kapittel 13. Arbeidsgruppen legger til grunn at dette er i tråd med gjeldende rett, men ikke kommer klart til uttrykk i lovteksten i dag.
+
+Gruppen tar for øvrig opp spørsmålet om det bør inntas en bestemmelse i straffeprosessloven som viser at kompetansen til å prioritere mellom etterforskning av ulike saker ligger hos påtalemyndigheten. Gruppen legger til grunn at dette følger av straffeprosessloven § 225, men uttrykker bekymring for at kompetansen ikke brukes tilstrekkelig aktivt i dag når etterforskningsressursene er begrensede. Den antar at dette kan være en medvirkende årsak til at inndragningssaker ikke blir prioritert tilstrekkelig høyt, se rapporten punkt 11.6. Gruppen har ikke formulert et konkret forslag til lovendring på dette punktet, men ønsker likevel å løfte spørsmålet.
+
+### Høringsinstansenes syn
+
+*Hordaland, Sogn og Fjordane statsadvokatembeter*, *Oslo politidistrikt*, *Rogaland statsadvokatembeter*, *Sør-Vest politidistrikt* og *Øst politidistrikt* støtter arbeidsgruppens forslag til endring i straffeprosessloven § 224 første ledd og § 226 første ledd bokstav a. *Kripos* uttaler at det fremstår hensiktsmessig å ta inn en henvisning til inndragning i § 224 som foreslått, men kommenterer ikke forslaget til endring i § 226.
+
+*Oslo politidistrikt* gir uttrykk for at forslaget om å innta henvisninger til inndragning i straffeprosessloven §§ 224 og 226 bør følges opp uavhengig av den nye hjemmelen for selvstendig inndragning. Også *Sør-Vest politidistrikt* mener det er viktig at ordet «inndragning» fremgår uttrykkelig av bestemmelsene.
+
+*Riksadvokaten* gir uttrykk for at den foreslåtte tilføyelsen i straffeprosessloven § 224 første ledd er unødvendig ved siden av den foreslåtte endringen i § 226. Høringsinstansen uttaler:
+
+«Slik riksadvokaten ser det, vil en sak om selvstendig inndragning måtte anses som straffeprosessuell etterforsking. Riktignok er formålet ikke å avklare om det er grunnlag for straffeforfølgning, men bevistemaet er om det foreligger et utbytte som skriver seg fra straffbare handlinger. Å regulere iverksettelse av sak om selvstendig inndragning særskilt i § 224 første ledd, er det derfor ikke grunn til. At formålet med en etterforsking kan være å avgjøre om det kan foretas selvstendig inndragning, vil fremgå av arbeidsgruppens tilføyelse i straffeprosessloven § 226 første ledd bokstav a.»
+
+*Oslo statsadvokatembeter* uttaler seg ikke om forslaget til endring av straffeprosessloven §§ 224 og 226, men understreker viktigheten av at spørsmål om inndragning blir en del av etterforskningen av all kriminalitet med potensiale for profitt.
+
+Heller ikke *Politihøgskolen* kommenterer de foreslåtte endringene i §§ 224 og 226 konkret, men fremhever prioritering som en viktig faktor for å lykkes med inndragning. Høringsinstansen uttaler:
+
+«Ofte starter en etterforskning av en økonomisk straffesak med en anmeldelse eller andre grunner som gjør det rimelig å undersøke om det foreligger et straffbart forhold. Fokuset er ofte det strafferettslige og hvordan bevis kan sikres for å klarlegge om det har skjedd et straffbart forhold. Når dette arbeidet er i gang, ofte med en aksjon, vil det erfaringsmessig ikke være tilstrekkelig kapasitet og fokus på sikring av verdier og inndragning. Det er også slik at det kreves ressurser for å identifisere mulige inndragningsmidler. Dersom dette arbeidet ikke blir utført forut for en aksjon, er det en mye lengre vei å gå på senere tidspunkt saken. Dels på grunn av ressurssituasjonen – som da er opptatt med det strafferettslige og dels på grunn av at midlene for sikring kan være utenfor rekkevidde for sikring og inndragning.»
+
+*LO* gir uttrykk for at etterforskning av økonomisk kriminalitet, herunder arbeidslivskriminalitet, ikke prioriteres høyt nok i politidistriktene. Høringsinstansen viser til arbeidsgruppens antagelse om at dette kan ha sammenheng med manglende bruk av påtalemyndighetens kompetanse til å prioritere mellom ulike saker, og støtter på generelt grunnlag en bestemmelse om dette i straffeprosessloven.
+
+*Hordaland, Sogn og Fjordane statsadvokatembeter* mener på sin side at det ikke er tvilsomt at påtalemyndigheten har kompetanse til å prioritere mellom etterforskning av ulike saker ved ressursmangel, og kan ikke se at det ikke er behov for lovendringer på dette punktet.
+
+### Departementets vurderinger
+
+De gjeldende reglene i straffeprosessloven forutsetter at påtalemyndigheten har adgang til å anlegge rene inndragningssaker, uten at det samtidig anlegges straffesak. Dette skjer imidlertid forholdsvis sjelden i dag. Når den nye ordningen for selvstendig inndragning trer i kraft, må det forventes at etterforskning av rene inndragningssaker blir mer praktisk. Etter departementets syn tilsier dette at adgangen til å foreta etterforskning av rene inndragningssaker bør komme tydeligere frem i loven.
+
+Departementet slutter seg til arbeidsgruppens forslag om å endre straffeprosessloven § 226 første ledd bokstav a, slik at bestemmelsen synliggjør at det kan være et eget formål med etterforskningen å innhente informasjon som er nødvendig for å avgjøre om det kan foretas inndragning. Forslaget vil omfatte både selvstendig inndragning etter straffeloven § 68 a og inndragning etter de øvrige hjemlene i straffeloven kapittel 13. Flere høringsinstanser har fremhevet viktigheten av at dette fremgår uttrykkelig av loven. I tillegg til å synliggjøre adgangen til å etterforske rene inndragningssaker, legger departementet til grunn at endringen vil kunne bidra til at inndragning gjøres til en prioritert del av etterforskningen også ved etterforskning av straffesaker.
+
+Departementet har merket seg riksadvokatens innspill om at det ikke i tillegg er nødvendig å endre § 224 første ledd, ettersom adgangen til å etterforske med sikte på inndragning vil følge av endringen i straffeprosessloven § 226. Etter departementets syn kan det imidlertid reises spørsmål om straffeprosessloven § 224 i sin nåværende form vil være dekkende for alle tilfeller hvor det kan være aktuelt å igangsette etterforskning med sikte på inndragning. Etter ordlyden i § 224 første ledd foretas etterforskning når det er «rimelig grunn til å undersøke om det foreligger straffbart forhold som forfølges av det offentlige». Departementet utelukker ikke at det kan oppstå tilfeller hvor det kan være aktuelt med selvstendig inndragning, men hvor koblingen til «straffbart forhold» i straffeprosessloven § 224 kan stå i veien for etterforskning med sikte på dette. I NUT 1969:3 side 268 er det for eksempel lagt til grunn at det ikke kan foretas etterforskning dersom det er på det rene at straffansvaret er falt bort ved foreldelse. Dette er en situasjon hvor det vil kunne være aktuelt med selvstendig inndragning, jf. også Prop. 27 L (2025–2026) punkt 10.3 side 80–81. For å gi et klart rettslig grunnlag for å igangsette etterforskning følger departementet derfor opp arbeidsgruppens forslag om en tilføyelse i straffeprosessloven § 224 første ledd.
+
+Forslaget til endring i straffeprosessloven § 224 første ledd innebærer at etterforskning av rene inndragningssaker kan iverksettes på samme vilkår som etterforskning med sikte på straffeforfølgning – når det foreligger «rimelig grunn». Departementet er enig med arbeidsgruppen i at dette er en passende terskel, som også fremstår fornuftig hensett til den nære sammenhengen mellom de ulike sakstypene.
+
+Departementet foreslår for øvrig ikke noen lovendringer knyttet til påtalemyndighetens kompetanse til å prioritere mellom etterforskningen av ulike saker. Det er ingen høringsinstanser fra politiet eller påtalemyndigheten som har gitt uttrykk for at det er behov for en slik regel, mens én instans har uttalt at det ikke er behov for lovendringer på dette punktet. På bakgrunn av dette legger departementet til grunn at straffeprosessloven § 225 i sin nåværende form gir en tilstrekkelig klar regulering av kompetansefordelingen mellom påtalemyndigheten og politiet, og at en lovendring ikke er riktig virkemiddel for å bøte på eventuelle utfordringer med at etterforskning av inndragningssaker ikke prioriteres høyt nok i dag.
+
+## Prosessuelle særregler for selvstendig inndragning
+
+### Gjeldende rett
+
+Reglene i straffeprosessloven bygger i stor grad på at etterforskningen og den rettslige behandlingen av inndragningskrav skjer på bakgrunn av en identifisert straffbar handling. Dette har sammenheng med at de gjeldende reglene i straffeloven kapittel 13 normalt forutsetter at det påvises en straffbar handling. Et unntak er forebyggende inndragning etter straffeloven § 70, som kan foretas uten at det er begått noen straffbar handling, se Ot.prp. nr. 90 (2003–2004) punkt 30.1 side 464.
+
+Ved behandlingen av inndragningskrav følger det av straffeprosessloven § 2 annet ledd første punktum at lovens regler om skyldspørsmålet gjelder tilsvarende så langt de passer. Bestemmelsen innebærer at prosessuelle spørsmål i inndragningssaker skal løses etter reglene om skyldspørsmålet, i den grad det er naturlig med en analogi til dette, se Erik Keiserud mfl., *Straffeprosessloven, lovkommentar*, Juridika (à jour per 1. mars 2026) note 7 til § 2. For øvrig gjelder reglene om fastsettelse av straff, jf. § 2 annet ledd annet punktum. I Rt. 1997 side 27 er det lagt til grunn at saker om forebyggende inndragning – som ikke forutsetter at det er begått en straffbar handling – fullt ut må følge reglene for reaksjonsspørsmålet.
+
+Ved siden av de generelle reglene for behandlingen av skyld- og straffespørsmålet i straffesaker inneholder straffeprosessloven enkelte særregler for behandlingen av inndragningskrav. En sentral regel er § 82 fjerde ledd, som fastsetter at lovens bestemmelser om siktede får tilsvarende anvendelse for den som det reises krav mot eller som trekkes inn i saken etter § 2. Formuleringen omfatter blant annet personer som får et inndragningskrav rettet mot seg uten å være siktet for en straffbar handling. Andre særregler omfatter § 96 annet ledd nr. 3, som fastsetter at siktede ikke har krav på forsvarer under hovedforhandlingen hvis saken bare gjelder inndragning. Regelen gjelder tilsvarende for andre enn siktede som får et inndragningskrav rettet mot seg, jf. § 82 fjerde ledd. Videre inneholder § 321 første ledd første punktum en særlig regel om at anke til lagmannsretten i sak som bare gjelder inndragning, bare kan fremmes med rettens samtykke.
+
+Siden saker som behandles etter straffeprosessloven normalt tar utgangspunkt i et konkret lovbrudd, er vilkårene i mange bestemmelser direkte knyttet til den straffbare handlingen. For eksempel følger det av loven at saken innledes ved en tiltalebeslutning, som etter § 252 første ledd nr. 3 og 4 skal angi hvilket straffebud som påstås anvendt og gi en kort, men så vidt mulig nøyaktig beskrivelse av det forholdet tiltalen gjelder. Det samme gjelder ved forelegg, jf. § 256 første ledd nr. 2 og 3. Videre er straffebudet som tiltalen gjelder, avgjørende for hvilket nivå i påtalemyndigheten som har påtalekompetanse etter reglene i §§ 65 flg. Et annet eksempel er reglene i lovens fjerde del om tvangsmidler, hvor vilkårene for tvangsmiddelbruk er knyttet til om saken gjelder en straffbar handling av en viss art eller et visst alvor. De nevnte reglene er ikke fullt ut anvendelige i saker om inndragning som ikke skjer på bakgrunn av en bestemt straffbar handling, se også Erik Keiserud mfl., *Straffeprosessloven, lovkommentar,* Juridika (à jour per 1. mars 2026), note 12 til § 252 for så vidt gjelder innholdet i tiltalebeslutningen.
+
+### Arbeidsgruppens forslag
+
+Arbeidsgruppens forslag bygger på at krav om selvstendig inndragning etter straffeloven § 68 a skal behandles innenfor rammene av straffeprosessloven. Gruppen legger likevel til grunn at særtrekkene ved ordningen gjør at det er behov for visse særregler.
+
+For det første viser arbeidsgruppen til at selvstendig inndragning ikke er å anse som straff. Det betyr etter gruppens syn at det ikke nødvendigvis er behov for like omfattende rettssikkerhetsgarantier som i straffesaker. Gruppen foreslår derfor at den som risikerer å få et krav om selvstendig inndragning rettet mot seg, ikke skal ha de samme prosessuelle rettighetene under etterforskningen og den rettslige behandlingen som den som er mistenkt eller siktet i en straffesak. Gruppen foreslår også at den rettslige behandlingen av en sak om selvstendig inndragning skal kunne skje på en raskere og enklere måte enn en straffesak.
+
+For det andre peker arbeidsgruppen på at mange av de gjeldende reglene i straffeprosessloven ikke vil passe ved behandlingen av saker om selvstendig inndragning. Dette skyldes at lovens regler i stor grad forutsetter at saken som er til behandling, gjelder en bestemt straffbar handling. Som eksempler nevner gruppen reglene om påtalekompetanse og tvangsmiddelbruk, samt kravene til utformingen av tiltalebeslutninger og forelegg. Siden selvstendig inndragning etter straffeloven § 68 a skal kunne foretas uten at det er påvist en bestemt straffbar handling, tilsier dette etter gruppens syn at det er behov for tilpasninger.
+
+For det tredje argumenterer arbeidsgruppen for at de eksisterende prosessreglene skaper enkelte utfordringer som ordningen med selvstendig inndragning kan bidra til å avhjelpe. Dette knytter seg særlig til at det i praksis kan være vanskelig å få avgjort inndragningskrav når verdier fra kriminalitet er overdratt proforma, eller eierforholdet av andre grunner er uklart eller holdes skjult. Det samme gjelder i situasjoner der eieren unndrar seg. Gruppen mener de prosessuelle reglene for selvstendig inndragning bør utformes på en måte som gjør ordningen mer effektiv enn gjeldende rett i slike situasjoner.
+
+På bakgrunn av dette foreslår arbeidsgruppen et sett med prosessuelle særregler for etterforskningen og den rettslige behandlingen av krav om selvstendig inndragning. Sentrale punkter i forslaget er at etterforskningen skal skje i et eget «spor», hvor den som risikerer å få et krav rettet mot seg, har færre prosessuelle rettigheter enn mistenkte/siktede i en straffesak, og hvor påtalemyndigheten ikke kan veksle fritt mellom dette sporet og straffesakssporet. Blant annet bygger forslaget på at vedkommende i utgangspunktet skal ha forklaringsplikt. Etter forslaget skal krav om selvstendig inndragning som hovedregel rettes mot den som eier formuesgodet som kreves inndratt, men med en forholdsvis vid adgang til å fremme kravet uten noen enkeltperson som motpart dersom eierforholdene rundt formuesgodet er uklare eller eieren er uten kjent oppholdssted i Norge. Forslaget innebærer også at den rettslige behandlingen av saker om selvstendig inndragning ikke skal følge de alminnelige reglene om forberedelse til og gjennomføring av hovedforhandling, men skje i en friere prosess hvor retten avgjør omfanget av muntlig bevisførsel og argumentasjon.
+
+De prosessuelle særreglene foreslås samlet i et nytt kapittel 28 i straffeprosessloven, i lovens sjuende del som i dag gjelder sivile krav. Som begrunnelse for dette viser gruppen blant annet til tilgjengelighet for brukerne av reglene. Gruppen mener også en slik plassering er naturlig siden selvstendig inndragning utgjør et nytt regelsett i straffeprosessloven, som har fellestrekk med både sivile saker og straffesaker.
+
+### Høringsinstansenes syn
+
+Følgende høringsinstanser er positive til forslaget om prosessuelle særregler for selvstendig inndragning: *Hordaland, Sogn og Fjordane statsadvokatembeter*, *Innlandet politidistrikt*, *Kripos*, *riksadvokaten*, *Rogaland statsadvokatembeter*, *Sør-Vest politidistrikt*, *Økokrim* og *Øst politidistrikt*.
+
+*Økokrim* uttrykker generell støtte til forslagene i arbeidsgrupperapporten, og mener de foreslåtte særreglene balanserer hensynet til rettssikkerhet og effektivitet på en god måte.
+
+*Riksadvokaten* er enig i at særtrekkene ved selvstendig inndragning og den prinsipielle forskjellen fra straffeforfølgning gjør det nødvendig med prosessuelle særregler. Høringsinstansen mener arbeidsgruppen ser ut til å ha identifisert behovet for tilpasninger i prosessreglene, og at forslagene i rapporten fremstår som fornuftige. Høringsinstansen uttaler videre at det vil være naturlig at riksadvokaten, i samarbeid med Økokrim, gir nærmere retningslinjer for praktiseringen av reglene.
+
+*Rogaland statsadvokatembeter* uttaler at det synes naturlig å samle de prosessuelle reglene for selvstendig inndragning på ett sted, og at det der vises til de øvrige straffeprosessuelle bestemmelsene som får anvendelse.
+
+*Kripos* ser positivt på innsatsen arbeidsgruppen har lagt ned for å lage et praktisk regelsett som kan effektivisere inndragningsarbeidet. Samtidig mener høringsinstansen at de foreslåtte prosessreglene fremstår som omfattende og komplekse, og at de bør ses som et utgangspunkt for videre bearbeiding og utredning. Kripos fremhever særlig viktigheten av at prosessreglene legger til rette for at en etterforskning kan skifte «spor» fra selvstendig inndragning til straffesak – og motsatt. Høringsinstansen støtter imidlertid forslaget om en forenklet saksbehandling, og at særreglene samles i et eget kapittel i straffeprosessloven, og uttaler:
+
+«De særskilte rettssikkerhetshensyn som gjør seg gjeldende overfor en siktet i en straffesak, gjør seg ikke i samme grad gjeldende ved selvstendig inndragning. Saksbehandlingen må da også kunne forenkles noe. Videre støtter Kripos at det utformes fleksible saksbehandlingsregler, slik at rettssikkerhetsmekanismer (som for eksempel muntlig høring og advokat på det offentliges regning) utløses i de sakene som krever det. Det fremstår etter vårt syn også fornuftig utrede videre en ordning hvor de særegne reglene samles i et eget kapittel i straffeprosessloven.»
+
+*Innlandet politidistrikt* uttaler at distriktet i utgangspunktet støtter forslaget slik det er utformet og tenkt å ramme, men er bekymret for at de foreslåtte endringene er omfattende og kan bli krevende å praktisere. Politidistriktet fremhever at overgangen mellom straffesak og sak om selvstendig inndragning, med ulik prosessuell status og rettigheter, kan gi opphav til rettslige problemstillinger som krever tid og ressurser. *Sør-Vest politidistrikt* sier seg enig i de fleste forslagene, men gir uttrykk for at de foreslåtte reglene fremstår noe teoretiske og vanskelige å anvende i det praktiske liv.
+
+*Øst politidistrikt* støtter forslaget om regler som skal effektivisere og forenkle saksbehandlingen. Høringsinstansen gir samtidig uttrykk for at de foreslåtte reglene på enkelte punkter fremstår kompliserte, og at det kan bli krevende i praksis dersom politiet må veksle mellom ulike prosessuelle «spor» i etterforskningen. Politidistriktet er bekymret for at det kan motvirke formålet om å effektivisere inndragningsarbeidet.
+
+Følgende høringsinstanser er negative til forslaget om prosessuelle særregler for selvstendig inndragning: *Det nasjonale statsadvokatembetet*, *Hedmark og Oppland statsadvokatembeter*, *Oslo politidistrikt*, *Politihøgskolen* og *Sør-Øst politidistrikt*.
+
+*Det nasjonale statsadvokatembetet*, med tilslutning fra *Politihøgskolen* og *Sør-Øst politidistrikt*, uttaler:
+
+«Slik embetet ser det vil det bli svært utfordrende for politiet og påtalemyndigheten å sette seg inn i, og anvende, det som til dels må sies å være et nytt prosessystem. Jo mer komplisert og omfattende prosessen blir jo større er faren for at politiet ikke vil etterforske ‘rene’ saker om selvstendig inndragning. Dette taler mot en ny prosessuell særregulering.»
+
+*Hedmark og Oppland statsadvokatembeter* uttrykker bekymring for det samme.
+
+*Oslo politidistrikt* fraråder å innføre det som til dels «kan synes å være et nytt prosessystem», og mener at man bør bygge videre på de eksisterende reglene i straffeprosessloven. Politidistriktet peker på at ulike prosessuelle rettigheter i saker om selvstendig inndragning kontra straffesaker, og begrensninger i adgangen til å veksle mellom de ulike sakstypene, kan gjøre reglene vanskelige å praktisere. Dette kan igjen gjøre at reglene om selvstendig inndragning blir mindre effektive enn forutsatt. For at reglene skal fungere i praksis, mener høringsinstansen at det bør gjøres færrest mulig store forandringer i forhold til prosessreglene som gjelder i dag. Politidistriktet stiller seg likevel positiv til regler som legger til rette for en enklere saksbehandling.
+
+### Departementets vurderinger
+
+Departementets forslag i Prop. L 27 (2025–2026) bygger på at ordningen med selvstendig inndragning skal innføres innenfor rammene av straffeprosessen, se punkt 7.3 side 49. Dette innebærer i utgangspunktet at etterforskningen og den rettslige behandlingen skal følge de alminnelige reglene i straffeprosessloven. Selv om sakstypen har visse særtrekk, legger departementet til grunn at de fleste av reglene i straffeprosessloven vil være anvendelige. Departementet viser til at det også i dag er en viss adgang til å fremme inndragningskrav uten at det er begått en straffbar handling, jf. straffeloven § 70 om forebyggende inndragning. Etter departementets syn tilsier dette at reglene for behandlingen av saker om selvstendig inndragning primært bør bygge videre på eksisterende regler. Som flere høringsinstanser er inne på, vil dette trolig gjøre det enklere for politiet og påtalemyndigheten å ta den nye inndragningsordningen i bruk.
+
+For så vidt gjelder etterforskning av saker om selvstendig inndragning, mener departementet at både praktiske hensyn og effektivitetshensyn tilsier at reglene så langt som mulig bør sammenfalle med reglene for etterforskning av straffesaker. Departementet følger derfor ikke opp arbeidsgruppens forslag om et eget «spor» for etterforskningen av slike saker. I praksis vil det neppe være noe absolutt skille mellom saker som etterforskes med sikte på selvstendig inndragning, og saker som etterforskes med sikte på straffeforfølgning. Særlig i initialfasen kan det være uklart om etterforskningen vil munne ut i et krav om selvstendig inndragning eller om den vil resultere i straffeforfølgning – eventuelt begge deler. Etter departementets syn tilsier dette at reglene for etterforskningen så langt som mulig bør være parallelle.
+
+Samtidig viser arbeidsgruppens rapport at det er behov for tilpasninger i enkelte regler som kan være sentrale for gjennomføringen av etterforskningen. Dette gjelder særlig reglene om tvangsmiddelbruk i lovens fjerde del, som i stor grad forutsetter at det er påvist en bestemt straffbar handling. Departementet legger til grunn at tilpasninger i disse reglene er nødvendig for å legge til rette for en målrettet og effektiv etterforskning av saker som bare gjelder selvstendig inndragning.
+
+Også når det gjelder påtalemyndighetens avgjørelse og den rettslige behandlingen av inndragningskravet, tar departementet utgangspunkt i at de alminnelige reglene i straffeprosessloven i hovedsak vil være anvendelige. Som arbeidsgruppen påpeker, er det likevel behov for visse tilpasninger i blant annet reglene om tiltalebeslutninger og forelegg, som i dag forutsetter at saken gjelder en bestemt straffbar handling. Det samme gjelder enkelte av lovens kompetanseregler.
+
+Departementet er også enig med arbeidsgruppen i at det bør vurderes om prosessreglene på enkelte punkter kan utformes på en måte som vil gjøre selvstendig inndragning til et mer effektivt verktøy enn inndragningsreglene er i dag. Gruppen har blant annet påvist at gjeldende regler kan skape utfordringer ved proforma-overdragelser og i andre situasjoner der eierforholdet til det som kreves inndratt, fremstår uavklart eller holdes skjult. Etter departementets syn tilsier dette at reglene bør utformes slik at de gjør det enkelt å fremme krav om selvstendig inndragning uten at det er avklart hvem som reelt sett eier formuesgodet, forutsatt at det er tilstrekkelig avklart at vilkårene i straffeloven § 68 a er oppfylt. I departementets forslag er likevel reglene om hvem kravet skal rettes mot, utformet på en måte som ligger nærmere gjeldende rett enn det som følger av arbeidsgruppens forslag.
+
+Departementet slutter seg til arbeidsgruppens forslag om å åpne for en forenklet rettslig behandling av saker om selvstendig inndragning. Ifølge arbeidsgruppen vil en slik forenkling bidra til en effektivisering av inndragningsarbeidet, noe som har fått støtte fra flere høringsinstanser innenfor påtalemyndigheten. Departementet legger til grunn at en forenklet saksbehandling kan bidra til at flere inndragningssaker enn i dag bringes inn for retten, samtidig som rettssikkerhetshensyn blir tilstrekkelig ivaretatt. Departementet følger derfor opp forslaget fra gruppen, men i en noe annen lovteknisk modell.
+
+I likhet med arbeidsgruppen foreslår departementet å samle de prosessuelle særreglene for selvstendig inndragning i et nytt kapittel 28 i straffeprosessloven. Etter forslaget vil saker om selvstendig inndragning følge lovens alminnelige regler med de særreglene som følger av kapittel 28, se § 402 i lovforslaget. Departementet antar at å samle særreglene i et eget kapittel vil gjøre dem mer tilgjengelige for brukerne. Departementet er også enig med arbeidsgruppen i at inndragningsordningens sivilrettslige trekk gjør det naturlig å plassere reglene i lovens sjuende del i tilknytning til reglene om behandlingen av sivile krav.
+
+Innholdet i de prosessuelle særreglene behandles nærmere i proposisjonen punkt 6 flg.

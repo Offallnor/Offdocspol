@@ -1,966 +1,254 @@
-# Prop. 146 L (2020–2021), del 15 av 18 (side 156–166)
+# Prop. 146 L (2020–2021), del 15 av 22
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2021/453140c0-prop-146-l-20202021.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-146-l-20202021/id2842936/
 - Original-PDF: https://www.regjeringen.no/contentassets/31813156b60a47eeb3c2aff703c50db4/no/pdfs/prp202020210146000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 1 tabell, 21 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 156]
-
-154
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-mede for å be om endringer i angivelsen av kravet, jf. § 264 b første ledd. Etter § 265 tredje ledd
-skal forsvareren uttale seg om eventuelle sivile
-krav.
-I saker hvor påtalemyndigheten ikke fremmer
-krav for fornærmede, setter påtalemyndigheten
-en frist for fornærmede til selv, eventuelt gjennom
-bistandsadvokat, å fremme krav etter § 428, se
-§ 264 b annet ledd. Kravet skal fremsettes for retten, og fornærmede skal angi kravets størrelse,
-dets faktiske og rettslige grunnlag samt hvilke
-bevis som vil bli ført.
-Retten har plikt til å pådømme krav som fremmes av påtalemyndigheten etter § 427. Fremmes
-kravet av fornærmede, eventuelt gjennom
-bistandsadvokaten, etter § 428, kan retten nekte
-kravet forfulgt under hovedforhandlingen dersom
-det «åpenbart er mest hensiktsmessig å behandle
-kravet i sivilprosessens former», jf. § 428 fjerde
-ledd. Retten har i alle tilfeller anledning til å
-utsette behandlingen av det sivile kravet til straffesaken er pådømt, jf. § 431, eller nøye seg med å
-gi dom for den del av kravet som den finner godtgjort, jf. § 432.
-Når fornærmede selv fremmer det sivile kravet etter § 428, får vedkommende partsrettigheter
-som en saksøker i en privat straffesak, se henvisningen til § 404 i § 428 annet ledd. Det samme
-gjelder når det er en annen enn fornærmede som
-selv fremmer kravet, jf. § 3 fjerde ledd. Partsrettighetene til en saksøker i en privat straffesak følger
-i hovedsak av § 409, som bestemmer at reglene
-om påtalemyndigheten i kapittel 19, 21–23 og 26–
-27 får anvendelse på saksøkeren, jf. første ledd
-første punktum. Dette inkluderer kapittel 21 og 22
-om forberedelse til og gjennomføring av hovedforhandlingen. Etter annet punktum følges for øvrig
-«de regler som gjelder om offentlige straffesaker
-så langt det er mulig og ikke noe annet er
-bestemt». Reservasjonen «så langt det er mulig»
-må til tross for uttrykksmåten i første punktum
-også gjelde for kapitlene som er uttrykkelig nevnt,
-jf. Keiserud m.fl.: Straffeprosessloven kommentarutgave bind II (5. utgave, Oslo 2020) side 1467
-(«Keiserud m.fl., Straffeprosessloven, 2020»).
-For fornærmede som selv fremmer et sivilt
-krav, innebærer dette blant annet at vedkommende kan holde innledningsforedrag, føre bevis,
-stille spørsmål, prosedere og legge ned påstand
-med hensyn til det sivile kravet, se Keiserud m.fl.,
-Straffeprosessloven, 2020 side 1497. Partsstatusen gir ikke rett til å føre bevis og holde prosedyre
-om forhold som bare har relevans for straffekravet, men etter § 264 a annet ledd kan fornærmede
-og etterlatte foreslå supplerende bevisføring om
-
-2020–2021
-
-straffekravet. Se for øvrig Straffeprosessutvalgets
-fremstilling av gjeldende rett for så vidt gjelder
-fornærmedes partsstatus i utredningen punkt
-25.4.7 side 503–504.
-Fornærmede kan også begjære bevisopptak til
-bruk for hovedforhandlingen, se § 417 annet ledd,
-jf. § 404, jf. § 428 annet ledd og Keiserud m.fl.,
-Straffeprosessloven, 2020 side 1498. Fornærmede
-har også en rett til å være til stede under hele
-hovedforhandlingen, i motsetning til det som vanligvis gjelder for vitner, jf. §§ 129 og 289 a, jf.
-Ot.prp. nr. 11 (2007–2008) punkt 9.8.1 side 68.
-Fornærmede vil videre ha rett til å gjøre seg kjent
-med sakens dokumenter og hvilke bevis som vil
-bli ført av påtalemyndigheten og av siktede og
-hans forsvarer, jf. § 264 a første til tredje ledd.
-Begrensningen i § 264 a tredje ledd gjelder ikke
-dokumenter som er av betydning for avgjørelsen
-av sivile krav som fremmes etter § 428, se Ot.prp.
-nr. 11 (2007–2008) punkt 9.7.3 side 62.
-
-18.3 Straffeprosessutvalgets forslag
-Straffeprosessutvalget drøfter reglene om sivile
-krav i NOU 2016: 24 kapittel 25. Utvalget foreslår
-å samle alle reglene om sivile krav i et eget kapittel i loven, se lovutkastet kapittel 43. I tillegg til
-rent strukturelle endringer foreslår utvalget visse
-materielle endringer, blant annet skjerpede krav
-til angivelse av det sivile kravet, en frist for å
-endre kravet, en utvidelse av rettens adgang til å
-nekte å behandle kravet i forbindelse med straffesaken samt en adgang for retten til å beslutte at
-påtalemyndigheten eller en annen prosessfullmektig skal overta bistandsadvokatens ansvar for
-å prosedere det sivile kravet i retten.
-Utvalget går inn for at en begjæring om
-behandling av et sivilt krav skal angi tvistegjenstanden og påstanden som gjøres gjeldende, den
-faktiske og rettslige begrunnelse for kravet samt
-eventuelle bevis som ønskes ført, jf. lovutkastet
-§ 43-6 første ledd bokstav a–c. Etter forslaget er
-kravene til angivelse av det sivile kravet de samme
-uavhengig av hvem som fremmer kravet – enten
-det er påtalemyndigheten eller kravshaver selv,
-eventuelt gjennom kravshavers prosessfullmektig eller bistandsadvokat. Dersom kravet fremmes
-av påtalemyndigheten, skal kravet angis og så vidt
-mulig presiseres i tiltalebeslutningen, jf. utkastet
-§ 43-9 fjerde ledd.
-Når det gjelder adgangen til å gjøre endringer
-i det sivile kravet etter at det er fremmet, uttaler
-utvalget i punkt 25.4.5 side 503:
-
-[Side 157]
-
-2020–2021
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-«Etter at kravet er meldt, bør det være en relativt vid adgang til å gjøre endringer under saksforberedelsen så lenge retten til kontradiksjon
-blir ivaretatt, men også dette må skje innenfor
-rammer som ikke fører til forsinkelse eller
-annen ulempe av betydning for gjennomføringen av saken.»
-I tråd med dette foreslår utvalget at tvisteloven
-§ 9-16 skal gjelde for behandlingen av sivile krav,
-se lovutkastet § 43-3 annet punktum bokstav a.
-Etter tvisteloven § 9-16 kan partene som hovedregel ikke endre krav, påstand, påstandsgrunnlag og
-bevis etter at saksforberedelsene er avsluttet, det
-vil si to uker før hovedforhandlingen, hvis ikke
-retten fastsetter et annet tidspunkt, jf. tvisteloven
-§ 9-10 første ledd. I spesialmerknadene til § 43-3
-understreker utvalget likevel at de skjønnsmessige kriteriene må praktiseres i lys av at kravet
-behandles i en straffesak, slik at de etter forholdene vil kunne praktiseres mer lempelig enn i
-sivile saker, se side 671.
-Utvalget foreslår også en utvidelse av rettens
-adgang til å nekte å behandle sivile krav i forbindelse med straffesaken, se lovutkastet § 43-8 første ledd bokstav d og utredningen punkt 25.3.3–
-25.3.4 side 499–500. Utvalget går for det første inn
-for at vilkårene for å behandle sivile krav bør være
-de samme uavhengig av hvem som fremmer kravet. Videre foreslås vilkåret for når retten kan
-nekte å behandle kravet, utvidet til tilfeller hvor
-«det er klart mest hensiktsmessig om kravet ikke
-tas til behandling i straffesaken». Utvalget beskriver endringen slik i punkt 25.3.4 side 500:
-«Sentralt er at det etter utkastet er relevant å se
-hen til hva som vil gi en effektiv behandling av
-straffekravet. Retten står altså noe friere i sitt
-skjønn enn tidligere, og bestemmelsen skal gis
-anvendelse dels når det er hensiktsmessig for
-behandlingen av kravet at det håndteres sivilprosessuelt, dels når det er hensiktsmessig for
-gjennomføringen av straffesaken.»
-Utvalget går inn for å videreføre ordningen med at
-bistandsadvokaten fremmer det sivile kravet på
-vegne av fornærmede og etterlatte, jf. lovutkastet
-§ 43-9 annet ledd første punktum og utredningen
-punkt 25.4.6 side 503. Utvalget foreslår imidlertid
-at den videre behandlingen av kravet skal kunne
-overlates til påtalemyndigheten eller en annen
-prosessfullmektig når prosessøkonomiske grunner tilsier det, og det av hensyn til fornærmedes
-interesser er forsvarlig, jf. lovutkastet § 43-9 annet
-ledd annet punktum. Som utgangspunkt mener
-
-155
-
-utvalget at dette skal være en ordning aktørene
-kommer til enighet om. Retten skal imidlertid
-også uten slik enighet kunne bestemme at
-behandlingen av det sivile kravet skal overlates til
-påtalemyndigheten eller en annen prosessfullmektig, med den følge at bistandsadvokaten ikke
-behøver å være til stede i retten. Utvalget legger
-til grunn at ordningen særlig kan være praktisk i
-langvarige straffesaker med enkle og oversiktlige
-krav, og særlig dersom fornærmede ikke skal forklare seg og heller ikke ønsker å følge forhandlingene.
-Utvalget går inn for å oppheve ordningen med
-private straffesaker, se punkt 17.3, og som en nødvendig konsekvens foreslås det at det ikke lenger
-skal være en kobling mellom reglene om private
-straffesaker og reglene om sivile krav. Etter lovutkastet § 43-3 første punktum gis «reglene i denne
-lov anvendelse så langt de passer» for behandlingen av sivile krav. Samtidig gis tvistelovens regler
-om rettens forhold til krav og påstander, saksanlegg som hinder for ny sak, oppfyllingsfrist og
-rettskraft anvendelse for sivile krav i straffesaken,
-jf. annet punktum. Utvalget uttaler at det ikke er
-behov for å knytte skadelidtes rettigheter til en
-formell partsstatus, og at det fremgår av enkeltbestemmelser i lovforslaget hvilke nærmere rettigheter vedkommende har under behandlingen,
-se utredningen punkt 25.4.7 side 503.
-
-18.4 Høringsinstansenes syn
-Dersom man ser bort fra forslaget om å innføre et
-absolutt ensrettingsprinsipp, som ikke behandles
-nærmere i proposisjonen her, se punkt 18.1 foran,
-er det et begrenset antall høringsinstanser som
-uttaler seg om utvalgets øvrige forslag som er
-knyttet til behandlingen av sivile krav.
-Asker og Bærum tingrett uttaler i sitt høringsinnspill at behandlingen av sivile krav i en straffesak ofte kan være krevende, og støtter de forslagene som innebærer at kravene må forberedes
-bedre enn hva tilfellet ofte er i dag.
-Oslo politidistrikt viser til at forslaget vil innebære en økning i arbeidsmengden som faller på
-påtalemyndigheten:
-«Den totale arbeidsmengde som faller på påtalemyndigheten slik forslaget er utformet er
-ganske betydelig. Vi er skeptiske til om det i
-alle saker vil være mulig for påtalemyndigheten å oppfylle sine plikter etter forslaget. Kravene til fornærmede er også nokså store, jf.
-§ 43-6 om krav til begjæringen, der fornær-
-
-[Side 158]
-
-156
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-mede blant annet skal angi det faktiske og
-rettslige grunnlag for sitt krav. Vi mener at kun
-et fåtall av de fornærmede vil være i stand til å
-oppfylle de oppgaver bestemmelsen legger opp
-til. Påtalemyndigheten må da regne med å bistå
-fornærmede, noe som ytterligere øker arbeidsmengden for påtalemyndigheten.»
-Både Oslo politidistrikt og Politidirektoratet har
-innspill til utvalgets utforming av reglene om angivelse av de sivile kravene. Sistnevnte uttaler:
-«Vi deler i utgangspunktet Oslo politidistrikts
-syn. Utkastet gjør bruk av juridiske begreper
-som det er grunn til å anta mange fornærmede
-eller skadelidte ikke vil kunne forstå innholdet
-av. Ett eksempel på slike begreper vil være
-‘tvistegjenstand’ i utkastets § 43-6 (1) bokstav
-a. Som påpekt av Oslo politidistrikt kan det heller ikke forventes fornærmede og andre skadelidte skal kunne forstå det nærmere innholdet
-av ‘den faktiske og rettslige begrunnelse for
-kravet’, jf samme bestemmelse, bokstav b.
-Slik utvalget selv nevner i merknadene på
-side 672 høyre spalte, er bestemmelsene utformet etter bestemmelsen om prosesskriv i tvisteloven § 9-2(2), og anses således ikke tilrettelagt for ikke-jurister. […]
-Det bør i det videre lovarbeidet vurderes
-om det er mulig å utforme kravene uten bruk
-av typisk juridiske begrep som for eksempel
-‘tvistegjenstand’.»
-Advokatforeningen og Oslo tingrett støtter forslaget
-om å gi domstolen en noe videre mulighet til å
-nekte å behandle sivile krav. Oslo tingrett skriver:
-«Oslo tingrett slutter seg til utvalgets forslag i
-utkastets § 43-8 hvor vilkårene for å behandle
-sivile krav gjøres generelle. Forslaget innebærer at retten kan la være å behandle et sivilt
-krav som påtalemyndigheten har fremmet hvis
-vilkårene for å unnlate dette er oppfylt. Det er
-klart hensiktsmessig at retten kan avgjøre
-dette, og ikke være avhengig av påtalemyndighetens vurdering. Vi er videre enig i forslaget
-om at retten skal ha en viss adgang til å nekte å
-behandle sivile krav når hensynet til straffesaksbehandlingen tilsier dette, og at hensynet til en effektiv behandling av straffkravet
-her må veie tungt.»
-Advokatforeningen mener en endring av nektelseskriteriet fra «åpenbart» til «klart» synes hensiktsmessig.
-
-2020–2021
-
-Også Finans Norge ser behovet for en slik utvidelse:
-«Hensynet til belastningen for fornærmede,
-etterlatte og andre skadelidte tilsier at man bør
-gå langt i å inkludere behandlingen av sivile
-krav under straffeforfølgningen. Vi ser likevel
-betydningen av at retten gis en viss adgang til å
-nekte å behandle sivile krav når hensynet til
-straffesaksbehandlingen tilsier det, jf. § 43-8
-første ledd bokstav d.
-Den foreslåtte endringen av ordlyden fremhever hensynet til straffesaken og Straffeprosessutvalget legger til grunn at dette fortsatt vil
-være en snever nektelsesgrunn. Finans Norge
-er enig at hensynet til straffesaken bør kunne
-vektlegges, men understreker at terskelen for
-nektelse likevel bør være høy.»
-Oslo tingrett og Riksadvokaten støtter utvalgets
-forslag om at retten kan beslutte at påtalemyndigheten eller en annen prosessfullmektig skal
-overta bistandsadvokatens ansvar for behandlingen av et sivilt krav. Oslo tingrett viser til at forslaget henger tett sammen med utvalgets forslag om
-at retten kan begrense bistandsadvokatens oppdrag, jf. lovutkastet § 4-10 tredje ledd og utredningen punkt 10.3.6. Etter tingrettens syn har forslaget prosessøkonomisk gode grunner for seg.
-Riksadvokaten peker på at bistandsadvokatordningen, slik den praktiseres i mange tilfeller i dag,
-kan fremstå som lite kostnadseffektiv. Det er derfor positivt at det legges til rette for at saksbehandlingen blir mest mulig prosessøkonomisk.
-Riksadvokaten antar likevel at det i praksis sjelden
-vil være aktuelt å overlate behandlingen av kravet
-til påtalemyndigheten eller en annen prosessfullmektig.
-Advokatforeningen er skeptisk til at påtalemyndigheten skal gis større adgang til å fremme sivile
-krav i saker der bistandsadvokat er oppnevnt.
-Advokatforeningens erfaring er at påtalejuristene
-allerede har en meget stor arbeidsbyrde, noe som
-medfører at de sivile kravene ikke blir prioritert i
-de sakene påtalemyndigheten prosederer slike
-krav. En slik ordning vil derfor svekke fornærmedes interesser. Under enhver omstendighet støtter ikke Advokatforeningen forslaget om at retten
-skal kunne bestemme at bistandsadvokaten ikke
-lenger har rett til å være til stede. Advokatforeningen er av den oppfatning at bistandsadvokaten
-selv vil være nærmest til å vurdere om det er hensiktsmessig å være til stede i retten.
-Anne Robberstad og Stine Sofies Stiftelse stiller
-seg negative til utvalgets forslag om å avskaffe de
-
-[Side 159]
-
-2020–2021
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-formelle partsrettighetene til den som selv fremmer et sivilt krav, og mener at utvalgets forslag
-ikke gir noen fullgod erstatning. Anne Robberstad
-stiller seg på generelt grunnlag negativ til utvalgets forslag knyttet til sivile krav:
-«Som en sammenfatning av pkt 4 til 6 ovenfor
-peker jeg på at Straffeprosessutvalgets forslag
-innebærer en klar svekkelse av fornærmedes
-og etterlattes rett til å være til stede, delta og å
-hevde et standpunkt. Den manglende integreringen av straffesaksrettigheter og erstatningsrettigheter fører til at rettstilstanden blir enda
-vanskeligere tilgjengelig enn den er i dag.
-Lovutkastet innebærer svekkelse også på
-andre punkter enn dem jeg her har gjennomgått, se for eksempel den økte adgangen til å
-nekte behandling av sivile krav, utkastets § 438 (500). Jeg går ikke her inn på disse andre tilfellene.
-Et gjennomgående trekk er at utvalget ikke
-vedstår seg flere av forslagene om å svekke fornærmedes stilling, men på ymse vis søker å
-dekke over at det er dette som foreslås.»
-
-18.5 Departementets vurdering
-18.5.1 Behovet for endringer
-Departementet er enig med utvalget i at det er
-behov for å gjøre visse endringer i reglene om
-sivile krav for å sikre en grundigere forberedelse
-og behandling av det sivile kravet. En tilfredsstillende behandling av kravene er viktig for fornærmede. Også for tiltalte er det sentralt med regler
-som sikrer forutberegnelighet og kontradiksjon.
-Departementet er av den oppfatning at sivile
-krav har en tendens til å bli noe stemoderlig
-behandlet i straffesaker, da selve straffekravet vil
-være hovedfokus i saken. I NOU 2006: 10 Fornærmede i straffeprosessen – nytt perspektiv og nye rettigheter ga det nedsatte utvalget følgende beskrivelse, se punkt 12.2 side 204:
-«Erstatningskrav fra fornærmede blir etter
-utvalgets oppfatning ikke alltid tilfredsstillende
-behandlet i straffesaken. Dette skyldes dels
-regelverket, dels at kravet ikke er godt nok forberedt av påtalemyndigheten eller bistandsadvokaten.
-Ikke sjelden kommer det frem under
-hovedforhandlingen at fornærmede ser ut til å
-være påført utgifter eller inntektstap som det
-ikke er krevd erstatning for. Dels er det ikke
-fremmet erstatningskrav overhodet, dels dek-
-
-157
-
-ker ikke kravet hele tapet. I en del tilfeller blir
-det ikke tatt med nye tapsposter som er oppstått etter at fornærmede meldte kravet til politiet første gang. De krav som fremsettes er
-ikke sjelden dårlig begrunnet og dokumentert.
-Det er derfor ikke uvanlig at aktor må frafalle
-krav under hovedforhandlingen fordi det er for
-dårlig opplyst. For eksempel blir tap som følge
-av voldshandlinger ofte ikke erstattet, eller
-ikke erstattet fullt ut.»
-Flere av forslagene i NOU 2006: 10 som gjaldt
-bedre forberedelse og behandling av de sivile kravene ble fulgt opp i Ot.prp. nr. 11 (2007–2008).
-Etter å ha gjengitt beskrivelsen overfor, uttaler
-departementet følgende i punkt 11.1 side 92:
-«Departementet er enig med utvalget i at det er
-behov for regler som sikrer bedre forberedelse
-og behandling av det sivile kravet i straffesaken. Departementet følger derfor opp utvalgets forslag til endringer om blant annet
-ansvarsfordelingen mellom påtalemyndighet
-og bistandsadvokat, forberedelse av det sivile
-kravet, rettens plikt til å pådømme sivile krav
-og regler om ny prøving av sivile krav ved
-anke».
-Lovendringene fra 2008 har etter departementets
-syn bidratt til at sivile krav forberedes og behandles noe bedre enn tidligere. Samtidig har departementet inntrykk av at domstolene i liten grad
-behandler andre krav enn oppreisning og dekning
-av kurante småkrav. Departementet ser derfor
-grunn til foreslå visse endringer som er ment å
-forbedre forberedelsen og behandlingen av sivile
-krav ytterligere.
-Departementet foreslår å oppheve ordningen
-med private straffesaker, se punkt 17.5. På grunn
-av henvisningsteknikken som er brukt i gjeldende
-lov, hvor § 428 annet ledd viser til kapitlet om private straffesaker, er det behov for en alternativ
-regulering. Departementet foreslår å endre § 428
-annet ledd slik at det fremgår eksplisitt av bestemmelsen at fornærmede som selv fremmer sitt
-krav, skal anses som part med hensyn til behandlingen av det sivile kravet, se Ot.prp. nr. 11 (2007–
-2008) punkt 9.1.1 side 41. Bestemmelsen er ment
-å videreføre gjeldende rett.
-
-18.5.2 Krav til angivelse av det sivile kravet
-Departementet slutter seg til Straffeprosessutvalgets standpunkt om at det er viktig at grunnlaget
-for og størrelsen på sivile krav blir søkt klarlagt i
-
-[Side 160]
-
-158
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-rimelig tid før hovedforhandlingen. Det gjelder av
-hensyn til både tiltalte og fornærmede, og uavhengig av om kravet fremmes av påtalemyndigheten
-eller av fornærmede selv.
-For å oppnå dette foreslår departementet for
-det første at det stilles krav til påtalemyndighetens
-angivelse av det sivile kravet. Etter straffeprosessloven § 264 b annet ledd skal sivile krav som
-fremsettes for retten av fornærmede, «angi kravets størrelse, dets faktiske og rettslige grunnlag
-samt hvilke bevis som vil bli ført». Et tilsvarende
-krav gjelder imidlertid ikke når kravet fremmes av
-påtalemyndigheten, selv om det fremgår av § 252
-tredje ledd at påtalemyndigheten «så langt mulig»
-skal angi kravets størrelse i tiltalebeslutningen.
-Straffeprosessutvalget har foreslått å lovfeste
-et krav om at en begjæring om behandling av
-sivile krav skal angi tvistegjenstanden og påstanden som gjøres gjeldende, den faktiske og rettslige begrunnelse for kravet, og eventuelle bevis
-som ønskes ført, jf. utvalgets lovutkast § 43-6 første ledd. Forslaget er utformet etter mønster av
-tvisteloven § 9-2 om prosesskriv, og gjelder uavhengig av hvem som fremsetter kravet. Etter
-departementets oppfatning vil strengere krav til
-påtalemyndighetens angivelse sikre en bedre forberedelse og behandling av det sivile kravet i
-straffesaken, herunder ved at tiltalte gis bedre
-muligheter til å forberede seg. Slike krav vil også
-gjøre det lettere for domstolen å vurdere om det
-er mest hensiktsmessig at kravet ikke behandles i
-straffesaken. Bestemmelsen må ses i sammenheng med § 427 første ledd annet punktum om at
-kravshaver «må gi påtalemyndigheten nærmere
-opplysninger om grunnlaget for og størrelsen av
-kravet og om hvilke bevis han kan oppgi», samt
-§ 264 b første ledd om at påtalemyndigheten fastsetter en frist for fornærmede til å be om
-endringer i angivelsen av kravet.
-Departementet legger til grunn at så lenge
-redegjørelsen kan gjøres kortfattet, vil et krav om
-angivelse av det sivile kravet ikke være særlig
-arbeidskrevende for påtalemyndigheten. De fleste
-sivile krav er relativt kurante, og i de fleste tilfeller
-vil en i det vesentlige ha det faktiske og rettslige
-grunnlaget klart på tidspunktet kravet fremmes
-for retten.
-I saker hvor de sivile kravene er mer kompliserte, vil et skjerpet angivelseskrav innebære noe
-merarbeid for påtalemyndigheten. Men nettopp i
-slike saker er det særlig grunn til å sikre en grundigere forberedelse og behandling av de sivile
-kravene. Dersom det er nødvendig for en forsvarlig behandling av kravet, vil retten kunne be påtalemyndigheten om en mer utførlig angivelse av
-
-2020–2021
-
-kravet i medhold av forslaget til ny § 274 b om
-skriftlig redegjørelse, se punkt 7.7.
-Et skjerpet krav til angivelse av de sivile kravene vil etter departementets syn også legge
-bedre til rette for at retten i domsslutningen kan
-presisere hvilket beløp som eventuelt tilkjennes
-for hver av de ulike erstatningspostene (slik at det
-for eksempel skilles klart mellom erstatning for
-skade på person, menerstatning og oppreisning).
-En slik angivelse er hensiktsmessig, men domstolenes praksis er sprikende med hensyn til i hvilken utstrekning dette gjøres i dag. At domsslutningen presiserer hvilke erstatningsbeløp som
-knytter seg til de ulike kravene, har særlig betydning i forbindelse med utbetaling av erstatning fra
-staten for voldsutsatte. Presiseringen kan imidlertid etter forholdene også få betydning for andre –
-for eksempel forsikringsselskaper ved utbetaling
-av forsikringspenger.
-
-18.5.3 Frist for å fremme og endre sivile krav
-Utvalget har foreslått at de preklusive fristene i
-tvisteloven § 9-16 skal gjelde for behandlingen av
-sivile krav, jf. lovutkastet § 43-3 bokstav a. En tilsvarende regel ble vurdert av departementet i
-Ot.prp. nr. 11 (2007–2008), hvor det ble uttalt følgende i punkt 11.5.4 side 98:
-«Det kan ikke utelukkes at det oppstår
-endringer i grunnlaget for og størrelsen på de
-sivile krav. Dette kan skyldes skadevirkninger
-som oppstår på et senere tidspunkt, bedre
-dokumentasjon av kravet, eller andre forhold.
-Det bør derfor være anledning til også etter de
-fristene som er satt, å endre kravet eller å sette
-frem nye krav. Etter departementets syn er det
-naturlig å se hen til sivilprosessuelle regler om
-fremsetting av nye krav og utvidelse av påstanden når sivile krav behandles i forbindelse med
-straffesaken. Tvisteloven § 9-10, jf. § 9-16 fastsetter at det som hovedregel ikke er anledning
-til å utvide påstanden til et krav, sette frem nye
-krav eller påstandsgrunnlag eller sette frem
-nye bevis i løpet av de siste to uker før hovedforhandlingen. Retten kan likevel på visse vilkår tillate slike endringer. Departementet finner ikke grunn til å ta inn en utrykkelig henvisning til disse reglene. Hensynet til fornærmede
-tilsier imidlertid at fristene for å fremsette
-sivile krav i straffeprosessloven ikke bør være
-preklusive. Tiltalte vil uansett kunne be om at
-retten utsetter behandlingen av et krav som er
-fremsatt sent. Særreglene i straffeprosessloven §§ 431 og 432 første ledd om at retten kan
-
-[Side 161]
-
-2020–2021
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-utsette behandlingen av et sivilt krav eller avsi
-dom for bare deler av kravet, medfører at retten ikke må behandle krav som den mener at
-den ikke har tilstrekkelig grunnlag for å
-behandle. I rettens vurdering etter § 431 må
-det også legges vekt på om begge sider har hatt
-anledning til å imøtegå kravets størrelse og
-grunnlag.»
-Departementet mener fortsatt at hensynet til fornærmede tilsier at fristene for å sette frem og
-endre sivile krav i straffeprosessloven ikke bør
-være preklusive. Departementet ser likevel at det
-kan ha en disiplinerende effekt å ta inn en regel
-som uttrykkelig oppstiller en frist for å sette frem
-sivile krav, endre krav, påstand og faktisk grunnlag for kravet samt tilby nye bevis. Etter departementets syn vil dette kunne bidra til bedre forberedelse av de sivile kravene, noe som igjen kan
-bidra til en mer effektiv saksgjennomføring.
-Departementet understreker at fristen ikke skal
-være preklusiv. En oversittelse av fristen vil i stedet inngå i vurderingen av om retten skal benytte
-særreglene i §§ 431 og 432 første ledd eller ved
-vurderingen av om kravet skal nektes behandlet
-etter § 428 fjerde ledd og forslaget til § 427 nytt
-femte ledd, se punkt 18.5.4 nedenfor. De nevnte virkemidlene vil normalt ikke være aktuelle for
-kurante krav hvor motparten uansett vil ha tilstrekkelig grunnlag for å ivareta sine interesser
-etter endringen.
-Av rettspedagogiske grunner bør det inntas en
-egen fristregel i straffeprosessloven fremfor å
-innta en henvisning til tvisteloven § 9-16. Regelen
-bør utformes etter mønster av tvistelovens
-bestemmelse, men en grunnleggende forskjell vil
-være at fristoversittelse ikke skal ha preklusive
-virkninger. Denne forskjellen medfører at det ikke
-er grunn til å angi i hvilke tilfeller retten til tross
-for oversittelsen kan eller skal tillate endring, sml.
-tvisteloven § 9-16. Hensynene bak unntakene i
-tvistelovens bestemmelse er imidlertid av en slik
-karakter at de ofte vil kunne vektlegges når retten
-tar stilling til hva som skal bli konsekvensene av
-fristoversittelsen, se drøftelsen foran.
-
-18.5.4 Adgang til å avvise sivile krav fremmet
-av påtalemyndigheten
-En sentral begrunnelse for ordningen med sivile
-krav er å sikre at fornærmede og etterlatte ikke
-skal måtte bære belastningen av to rettslige prosesser for å få behandlet sine erstatningskrav. Prosessøkonomiske hensyn taler dessuten i mange
-tilfeller klart for felles behandling av kravene. I
-
-159
-
-saker som gjelder mindre og oversiktlige forhold,
-vil det være en lite hensiktsmessig bruk av ressurser om ikke sivile krav om erstatning inkluderes.
-Begrunnelsene for ordningen med fellesbehandling slår likevel først og fremst til for de forholdsvis kurante kravene, hvor bevisføringen for straffekravet og det sivile kravet stort sett er sammenfallende. I andre tilfeller kan det være mer hensiktsmessig at kravet behandles i sivilprosessens
-former. Departementet mener derfor, i tråd med
-utvalgets forslag, at retten bør gis adgang til å
-avvise sivile krav også der kravet er fremmet av
-påtalemyndigheten. Avvisningsadgangen bør
-etter departementet syn være lik uavhengig av
-hvem som fremmer det sivile kravet.
-Utvalgets forslag åpner også for å se hen til
-hva som vil gi en effektiv behandling av straffekravet, ikke bare hva som vil gi en hensiktsmessig
-behandling av det sivile kravet, se lovutkastet
-§ 43-8 første ledd bokstav d og punkt 18.3 foran.
-Dette innebærer at terskelen for å avvise sivile
-krav senkes noe sammenlignet med gjeldende
-rett.
-Før 2008 kunne retten med hjemmel i § 428
-nekte å behandle kravet «dersom det vil være til
-vesentlig ulempe». Dette åpnet for at behandling
-av kravet kunne nektes når hensynet til straffesaksbehandlingen indikerte det. Ved lov 7. mars
-2008 nr. 5 ble loven endret slik at kravet kun kan
-nektes av retten dersom det «åpenbart er mest
-hensiktsmessig å behandle kravet i sivilprosessens former», se straffeprosessloven § 428 fjerde
-ledd. Formålet med endringen var å sikre at de
-fornærmede i større grad fikk håndhevet sine rettigheter, se Ot.prp. nr. 11 (2007–2008) punkt 11.6
-side 99:
-«Departementet er enig i at den gjeldende
-regelen i straffeprosessloven § 428 første ledd
-annet punktum kan føre til en lite forutberegnelig og vanskelig situasjon for fornærmede.
-Det kan være grunn til å anta at rettens adgang
-til å nekte kravet fremmet etter straffeprosessloven § 428 kan være en av årsakene til at
-mange fornærmede i dag velger å be påtalemyndigheten om å fremme kravet. Departementet mener regelverket må legge til rette for
-at sivile krav i størst mulig grad kan behandles
-sammen med straffesaken og sikres en forsvarlig og betryggende behandling. Departementet foreslår derfor, som utvalget, at den gjeldende regelen i straffeprosessloven § 428 første ledd annet punktum bør oppheves.
-Samtidig er departementet enig med utvalgets
-flertall i at det ikke helt bør utelukkes at det
-
-[Side 162]
-
-160
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-kan oppstå situasjoner der kravet ikke bør
-behandles sammen med straffesaken. Departementet slutter seg derfor til flertallsforslaget
-om å gi retten en adgang til å henvise kravet til
-behandling i sivilprosessens former hvis dette
-åpenbart er mest hensiktsmessig. Den klare
-hovedregelen skal imidlertid være at kravet
-behandles sammen med straffesaken. I motsetning til utvalgets forslag mener departementet
-at rettens adgang til å henvise kravet til
-behandling i sivilprosessens former ikke bør
-være begrenset til forberedelsen av hovedforhandlingen. Retten bør ha slik adgang også
-under den senere behandlingen av saken, men
-terskelen for å nekte kravet forfulgt må være
-høyere jo lenger i saksbehandlingen man har
-kommet.»
-Departementet ønsker ikke å reversere
-endringene som ble foretatt i 2008 for å styrke fornærmedes rettsstilling. I lys av standpunktet om
-at avvisningsadgangen bør være lik uavhengig av
-hvem som fremmer det sivile kravet, foreslår
-departementet at avvisningshjemmelen for sivile
-krav fremmet av påtalemyndigheten formuleres
-etter mønster av gjeldende § 428 fjerde ledd. Retten vil da kunne nekte å behandle kravet dersom
-det «åpenbart er mest hensiktsmessig å behandle
-kravet i sivilprosessens former».
-
-18.5.5 Behandlingen av sivile krav når det er
-oppnevnt bistandsadvokat
-I tråd med utvalgets forslag går departementet inn
-for å videreføre ordningen med at bistandsadvokaten fremmer sivile krav på fornærmedes og etterlattes vegne, jf. straffeprosessloven § 428 første
-ledd annet punktum. Det innebærer at det fortsatt
-skal være bistandsadvokaten som skal fremsette
-kravet for retten, herunder angi kravets størrelse,
-dets faktiske og rettslige grunnlag og hvilke bevis
-som vil bli ført, jf. straffeprosessloven § 264 b
-annet ledd. Etter departementets syn er dette en
-sentral del av oppdraget som bistandsadvokat. I
-tillegg bidrar det til en klar ansvarsfordeling mellom bistandsadvokaten og påtalemyndigheten.
-I likhet med utvalget mener imidlertid departementet at det bør åpnes for at bistandsadvokatens ansvar for å prosedere det sivile kravet i retten etter omstendighetene kan overlates til påtalemyndigheten eller en annen prosessfullmektig.
-Hovedårsaken til at bistandsadvokaten er til stede
-under hovedforhandling, er ofte at fornærmede
-eller etterlatte fremmer et sivilt krav. Mange sivile
-krav er imidlertid relativt kurante, og behandlin-
-
-2020–2021
-
-gen av det sivile kravet vil ofte utgjøre en liten og
-avgrenset del av hovedforhandlingen. Særlig i
-langvarige saker kan det derfor være prosessøkonomisk gunstig at påtalemyndigheten eller en
-annen prosessfullmektig overtar behandlingen av
-det sivile kravet, slik at bistandsadvokaten ikke
-trenger å være til stede. Dette gjelder spesielt i tilfeller hvor fornærmede ikke skal forklare seg i
-retten og heller ikke ønsker å følge forhandlingene selv.
-I proposisjonen punkt 16.2.4 foreslår departementet å åpne for at retten kan fastsette rammene
-for bistandsadvokatoppdraget i forbindelse med
-oppnevningen, for eksempel ved at bistandsadvokatens tilstedeværelse under hovedforhandling
-begrenses. Det foreslås også andre endringer
-som har til formål å gjøre bistandsadvokatordningen mer effektiv og målrettet, blant annet en utvidelse av hjemmelen for å oppnevne koordinerende bistandsadvokat etter straffeprosessloven
-§ 107 h. En adgang for retten til å bestemme at
-påtalemyndigheten eller en annen prosessfullmektig skal overta ansvaret for å prosedere det
-sivile kravet, er etter departementets syn en naturlig forlengelse av disse forslagene. Det vil legge til
-rette for at hjemlene for å begrense bistandsadvokatoppdraget og oppnevne koordinerende
-bistandsadvokat kan brukes på en mest mulig
-effektiv måte.
-Departementet legger til grunn at en «annen
-prosessfullmektig» kan være en koordinerende
-bistandsadvokat eller en annen bistandsadvokat
-som er oppnevnt i samme sak. Oppnevning av
-koordinerende bistandsadvokat vil særlig være
-aktuelt i store straffesaker med mange fornærmede eller etterlatte, se punkt 16.4.4. I disse tilfellene kan det være praktisk at den koordinerende
-bistandsadvokaten overtar ansvaret for å prosedere sivile krav på vegne av flere fornærmede
-eller etterlatte med lignende krav.
-Advokatforeningen frykter at en ordning som
-skissert vil svekke fornærmedes og etterlattes
-stilling, fordi påtalemyndigheten av kapasitetsgrunner ikke vil prioritere behandlingen av de
-sivile kravene. Departementet understreker at en
-forutsetning for å overlate ansvaret for å prosedere det sivile kravet til påtalemyndigheten eller
-en annen prosessfullmektig vil være at kravet får
-en forsvarlig og betryggende behandling. Dette
-innebærer at ordningen først og fremst vil være
-aktuell når de sivile kravene er relativt enkle og
-oversiktlige. I saker der de sivile kravene reiser
-kompliserte rettslige eller faktiske spørsmål, bør
-ansvaret for behandlingen av kravet fortsatt ligge
-hos den enkelte bistandsadvokat.
-
-[Side 163]
-
-2020–2021
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-161
-
-19 Diverse mindre endringer
-19.1 Påtalemyndighetens rolle ved krav
-om erstatning etter
-strafforfølgning
-19.1.1 Gjeldende rett
-Straffeprosessloven § 449 første ledd regulerer
-saksbehandlingen ved krav om erstatning etter
-strafforfølgning. Krav om erstatning fremsettes
-overfor politidistriktet som har etterforsket saken.
-Påtalemyndigheten uttaler seg om kravet og sender sakens dokumenter til departementet med sin
-uttalelse. Etter gjeldende rett er påtalemyndighetens uttalelse obligatorisk, jf. straffeprosessloven
-§ 449 første ledd annet punktum.
-Kravene behandles administrativt av Statens
-Sivilrettsforvaltning, som er gitt myndighet til å
-avgjøre kravene etter delegasjon fra Justis- og
-beredskapsdepartementet. Det er adgang til rettslig prøving av avgjørelsen, jf. § 449 annet ledd.
-19.1.2 Straffeprosessutvalgets forslag
-Utvalget foreslår at den obligatoriske uttalelsen fra
-påtalemyndigheten erstattes med en adgang for
-Statens sivilrettsforvaltning til å be om uttalelse
-ved behov, se utredningen punkt 27.5.1 side 524.
-Forslaget er begrunnet med at uttalelsene normalt
-bidrar lite til avgjørelsen av erstatningskravet og
-ofte forsinker saksbehandlingen.
-19.1.3 Høringsinstansenes syn
-Utvalgets forslag om å fjerne den obligatoriske
-uttalelsen er kommentert av Oslo statsadvokatembeter, Politidirektoratet, Regjeringsadvokaten, Statens sivilrettsforvaltning og Økokrim. Politidirektoratet, Regjeringsadvokaten, Statens sivilrettsforvaltning og Økokrim støtter utvalgets vurderinger og
-slutter seg gjennomgående til utvalgets begrunnelse. Blant disse er Regjeringsadvokaten, som
-uttaler:
-«Regjeringsadvokaten har ingen innvendinger
-til at det ikke gjøres obligatorisk med en
-uttalelse fra påtalemyndigheten. Etter Regje-
-
-ringsadvokatens erfaring har påtalemyndighetens uttalelse i liten grad tilført den administrative behandlingen noe. Det er imidlertid hensiktsmessig at Statens sivilrettsforvaltning kan
-be om en slik uttalelse ved behov, især hvor det
-fremsettes kritikk mot påtalemyndighetens
-arbeid.»
-Statens sivilrettsforvaltning uttaler blant annet:
-«Statens sivilrettsforvaltning har tidligere
-fremmet et tilsvarende forslag overfor departementet og støtter utvalgets forslag, som vil
-bidra redusert total saksbehandlingstid i
-erstatningssakene […]
-I større, kompliserte saker, herunder særlig saker som har vært etterforsket av Økokrim, og i tilfeller der kravstiller er en såkalt
-«moduskandidat», har påtalemyndighetens
-uttalelse vist seg å være et verdifullt bidrag i
-saksbehandlingen. Hensynet til å ivareta behovet for påtalemyndighetens bidrag i disse
-sakene, anses dekket ved forslaget om at Statens sivilrettsforvaltning kan etterspørre påtalemyndighetens uttalelse ved behov.»
-Oslo statsadvokatembeter uttrykker skepsis og
-uttaler:
-«Etter forslaget til ny § 45-11 (2) synes det som
-om påtalemyndighetens adgang til å uttale seg
-om kravet svekkes ved at departementet skal
-innhente sakens opplysninger og at det er
-departementet om det skal be om påtalemyndighetens uttalelse. Selv om en god del av
-erstatningssakene fremstår som ganske opplagte, er det Oslo statsadvokatembeters oppfatning at påtalemyndighetens uttalelser i mer
-omfattende og kompliserte saker er verdifulle.»
-
-19.1.4 Departementets vurdering
-Departementet mener det ikke lenger bør være
-obligatorisk med en uttalelse fra påtalemyndigheten før Statens sivilrettsforvaltning avgjør krav om
-
-[Side 164]
-
-162
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-erstatning etter strafforfølgning. Endringsforslaget vil innebære en effektivisering av saksbehandlingen og har fått bred støtte blant høringsstansene som har uttalt seg om forslaget. Departementet har merket seg at Oslo statsadvokatembeter
-mener forslaget synes å innebære en svekkelse av
-påtalemyndighetens adgang til å uttale seg. Etter
-departementets syn vil adgangen til å be om påtalemyndighetens uttalelse ved behov sikre en forsvarlig behandling av erstatningskravene. Statens
-sivilrettsforvaltning har lang erfaring med håndteringen av denne typen erstatningskrav og vil raskt
-kunne identifisere hvilke forhold som tilsier en
-uttalelse fra påtalemyndigheten, for eksempel der
-det reises kritikk mot påtalemyndighetens håndtering eller i mer omfattende og kompliserte saker.
-Departementet foreslår derfor å endre loven slik
-at uttalelsen fra påtalemyndigheten ikke lenger
-skal være en absolutt forutsetning, men i stedet la
-
-2020–2021
-
-Statens sivilrettsforvaltning vurdere om det er
-behov en uttalelse.
-
-19.2 Rettelse av bestemmelse plassert
-i uriktig kapittel
-Ved arrestordreloven 20. januar 2012 nr. 4 ble en
-bestemmelse som regulerer overlevering eller
-utlevering til Norge for straffullbyrding hvor overlevering eller utlevering etter loven i den fremmende staten bare kan skje for noen av handlingene, ved en inkurie plassert i straffeprosesslovens tiende del om rettergangsmåten i militære
-straffesaker.
-Det foreslås å flytte straffeprosessloven § 463
-b til kapittel 32 om fullbyrding som ny § 462 a.
-Som en konsekvens av dette foreslås det at gjeldende § 462 a blir ny § 462 b.
-
-[Side 165]
-
-2020–2021
-
-163
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-20 Økonomiske og administrative konsekvenser
-20.1 Innledning
-I det følgende redegjøres det for de økonomiske
-virkningene som knytter seg til de foreslåtte lovendringene i straffeprosessloven. Ved innføring
-vil forslagene berøre domstolene, politi- og påtalemyndigheten, forsvarere og bistandsadvokater
-økonomisk. Forslagene er samlet sett ventet å
-effektivisere straffesaksbehandlingen, redusere
-saksbehandlingstider og derved styrke borgernes
-rettssikkerhet.
-Enkelte virkninger lar seg ikke tallfeste på en
-god måte. Dette skyldes kvaliteten på datamaterialet som foreligger, men også fordi man på noen
-områder ikke har erfaringer en kan støtte seg på i
-analysearbeidet. Lovforslagene som legger til
-rette for aktiv saksstyring samt forslaget om
-begrenset oppnevning av bistandsadvokat, er
-eksempler på dette.
-Anslag for besparelser og kostnader er utarbeidet i samråd mellom departementet og berørte
-virksomheter, men det understrekes at anslagene
-er heftet med en viss grad av usikkerhet.
-Flere av de aktuelle lovforslagene vil ha
-begrensede konsekvenser. Dette gjelder blant
-annet forslagene som knytter seg til private straf-
-
-fesaker og påtalevedtak. Departementet forventer
-ikke at disse forslagene vil føre med seg økonomiske konsekvenser av betydning dersom de innføres. De ovennevnte lovforslagene omtales derfor ikke nærmere i de påfølgende delkapitlene.
-
-20.2 Overordnet bilde
-Tabell 1 oppsummerer de tallfestede virkningene
-som vil følge av departementets forslag. Tabellen
-viser anslåtte besparelser og merutgifter for det
-første året etter at lovforslagene har trådt i kraft.
-Tabellen viser hvilke kapitler i statsbudsjettet hvor
-besparelser og merutgifter vil kunne bli belastet.
-På utgiftssiden er IKT-tilpasninger samt utdanning og opplæring, engangsinvesteringer. Merutgiftene som følger av kortere fremstillingsfrist, vil
-imidlertid påløpe årlig. Besparelsene som er oppgitt i tabellen, inntreffer årlig. Av virkningene som
-er tallfestet, er det forslaget om oppnevning av felles bistandsadvokat som anslagsvis vil gi de største besparelsene. Innføring av lovforslagene vil
-isolert sett gi politi- og påtalemyndigheten økt
-kapasitet ved at man brukere kortere tid på løse
-bestemte oppgaver.
-
-Tabell 20.1 Tallfestede virkninger (mill. 2019-kroner)
-Kap. post
-
-Beskrivelse
-
-2023
-
-2024
-
-2025
-
-Totale utgifter
-
--16,6
-
--5,5
-
--5,5
-
-410.01
-
-Fremstillingsfrist
-
--5,5
-
--5,5
-
--5,5
-
-410/440.01
-
-IKT-tilpasning
-
--9,5
-
-442.01
-
-Utdanning og opplæring
-
--1,6
-
-Totale innsparinger
-
-18,5
-
-18,5
-
-18,5
-
-440.01
-
-Delegasjon av kompetanse
-
-2,1
-
-2,1
-
-2,1
-
-440.01
-
-Adgang til uttalelse ved krav om erstatning etter forfølelse
-
-0,9
-
-0,9
-
-0,9
-
-466.01
-
-Felles bistandsadvokat
-
-15,5
-
-15,5
-
-15,5
-
-Netto gevinst
-
-1,9
-
-13
-
-13
-
-[Side 166]
-
-164
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-Gevinster, som defineres som forskjellen mellom besparelser og merutgifter, anslås til om lag 2
-millioner kroner det første året. For påfølgende år
-øker anslaget til om lag 13 millioner kroner.
-Gevinstanslaget for årene lengre frem i tid bygger
-i hovedsak på tre overordnede forutsetninger. For
-det første må antall straffesaker være på omtrent
-samme nivå som i 2019. For det andre må den
-gjennomsnittlige arbeidsbelastningen per sak
-ikke endre seg vesentlig fra dagens nivå. For det
-tredje må andelen saker der det er behov for
-bistandsadvokat, ikke avvike for mye fra hva som
-har vært tilfelle de senere år. Under rimelige forutsetninger vil gevinstene bli høyere om ett eller
-flere av de ovennevnte momenter skulle øke.
-Det er sannsynlig at besparelsene, og derved
-gevinstene, kan bli større enn hva beskrivelsen i
-avsnittet ovenfor forespeiler. Dette skyldes at ikke
-alle foreslåtte endringer lar seg tallfeste på en god
-måte.
-
-20.3 Ikke-tallfestede virkninger
-Innsparinger knyttet til begrenset oppnevning av
-bistandsadvokat
-Forslaget om å innføre adgang til å begrense
-bistandsadvokatens oppdrag kan gi betydelige
-besparelser for det offentlige, men besparelsene
-lar seg ikke tallfeste på nåværende tidspunkt.
-Adgang til å begrense oppnevning vil være en
-skjønnsmessig vurdering som foretas av dommeren i saken. Det er vanskelig å forutse i hvilken
-utstrekning dommeren vil benytte seg av denne
-muligheten.
-I 2019 mottok bistandsadvokater nærmere 200
-mill. kroner i godtgjørelse fra det offentlige for
-domstolrelaterte oppdrag. Å begrense bistandsadvokatenes tilstedeværelse vil kunne redusere
-dette beløpet. Forslaget vil riktignok kunne føre til
-noe merarbeid for saksforberedende dommer dersom det innføres, men kostnadene som eventuelt
-vil påløpe vil være små i forhold til besparelsene
-som kan oppnås.
-Innsparinger knyttet til aktiv saksstyring
-Aktiv saksstyring legger til rette for at domstolene
-kan effektivisere hoved- og ankeforhandling i tingrettene og lagmannsrettene. Det vil kunne bidra
-til å redusere saksbehandlingstidene i domstolene
-og styrke borgernes rettssikkerhet og tilliten til
-domstolene. Kortere saksbehandlingstid vil også
-være av betydning for fornærmede og etterlatte i
-
-2020–2021
-
-saken. Verdien av rettssikkerhet, tillit og kortere
-saksbehandlingstider er vanskelig å måle i kroner.
-Aktiv saksstyring under saksforberedelsen vil
-særlig ha betydning i de store og kompliserte
-straffesakene. Effektivisering forutsetter at merressursene domstolene bruker på saksstyring,
-skal kunne tas igjen i form av redusert tidsbruk
-under hoved- og ankeforhandlingene. I de mindre
-omfattende straffesakene vil mer aktiv saksstyring under saksforberedelsen antagelig føre til økt
-tidsbruk og økte kostnader. Hovedforhandlingstiden i de fleste av straffesakene gjennomføres på
-under to timer, og det er et begrenset potensial for
-effektivisering. Etter departementets syn er det
-mindre sannsynlig at mer saksforberedelse vil
-kunne redusere hovedforhandlingstiden i disse
-sakene.
-Betydelig innslag av dommerskjønn gjør det
-metodisk vanskelig å utarbeide anslag for besparelser som knytter seg til aktiv saksstyring. Aktiv
-saksstyring er mest aktuelt i de tyngste straffesakene, og dette byr på ytterligere metodiske utfordringer for å beregne besparelsene. Dette skyldes
-at det gjelder relativt få saker. Videre varierer
-sakene mye i karakter og kompleksitet. Mulighetene til å konsentrere rettens behandling av saken
-kan slik sett variere mye fra sak til sak. Departementet har foretatt beregninger, men det er usikkerhet knyttet til hvor store besparelsene vil bli.
-Derfor er heller ikke anslagene inntatt i tabell 1.
-Analyser departementet har foretatt, viser at
-om lag halvparten av de årlige straffesaksutgiftene kan tilskrives fem prosent av straffesakene
-som går for domstolene. Gevinstpotensialet ved å
-ta i bruk aktiv saksstyring i disse sakene vurderes
-som betydelig. Hvis aktiv saksstyring fører til at
-de gjennomsnittlige kostnadene i de større straffesakene reduseres med fem prosent, vil det
-offentlige spare mellom 20 og 30 mill. kroner
-årlig.
-Merkostnader knyttet til tilsvar
-Forslaget om tilsvar fra forsvarer er viktig for at
-dommeren skal ha et tilstrekkelig faktisk grunnlag for å drive aktiv saksstyring. De fleste straffesakene som går for domstolene, er korte, oversiktlige og kompenseres etter stykkprisforskriften. I disse sakene vil det å utarbeide tilsvar til retten være mindre tidkrevende for forsvarer. Departementet legger likevel opp til at forsvarere skal
-kompenseres for merarbeidet som knytter seg til
-å utarbeide tilsvar som sendes til retten. For saker
-som kompenseres etter stykkprisforskriften, vil
-departementet fremme forslag om at forsvarere
+# Påtalevedtak
+
+## Frist for påtalevedtak
+
+### Gjeldende rett
+
+Straffeprosessloven § 226 fjerde ledd slår fast at etterforskingen skal gjennomføres så raskt som mulig og slik at ingen unødig utsettes for mistanke eller ulempe. Spørsmålet om tiltale skal avgjøres så snart saken er tilstrekkelig forberedt, jf. straffeprosessloven § 249 første ledd. Bestemmelsen gjelder for alle påtaleavgjørelser, jf. NUT 1969: 3 Innstilling om rettergangsmåten i straffesaker fra Straffeprosesslovkomiteen side 280. I saker mot personer som var under 18 år på handlingstiden, skal påtalespørsmålet som hovedregel avgjøres innen seks uker etter at vedkommende anses som mistenkt, jf. § 249 annet ledd. Grunnloven § 95 og EMK artikkel 6 nr. 1 beskytter retten til rettergang innen rimelig tid.
+
+Riksadvokaten har gjennom direktiver fastsatt konkrete mål for saksbehandlingstiden i enkelte sakstyper. For 2020 er målene 130 dager i voldtektssaker, 90 dager i saker som gjelder grov kroppskrenkelse, kroppsskade og grov kroppsskade og som hovedregel seks uker i saker som gjelder personer som på handlingstidspunktet var under 18 år, jf. riksadvokatens mål og prioriteringsrundskriv for 2020 punkt IV. 2.
+
+Etter gjeldende rett er det bare foreldelsesreglene som setter absolutt frist for når det er for sent å påtale et straffbart forhold. De lov- og direktivbestemte fristene er ikke preklusive. Kontroll med saksbehandlingstiden skjer i dag innen det enkelte politidistrikt og gjennom tilsyn fra overordnet påtalemyndighet. Mistenkte og fornærmede kan også bringe spørsmålet om en sak behandles med tilstrekkelig fremdrift inn for overordnet påtalemyndighet, som i praksis behandler slike klager utenfor ordningen etter straffeprosessloven § 59 a.
+
+Det følger av straffeloven § 78 bokstav e at urimelig lang saksbehandlingstid skal tillegges vekt som formildende omstendighet ved utmåling av straffen. I vurderingen av hva som er rimelig saksbehandlingstid, skal det tas utgangspunkt i lovbruddets art og hva som er normal saksbehandlingstid for den aktuelle typen lovbrudd. Konkrete omstendigheter i den enkelte saken kan gi berettiget grunn til at saksbehandlingstiden er kortere eller lengre enn det som er vanlig for normaltilfellet av lovbruddets art, jf. Ot.prp. nr. 8 (2007–2008) Om lov om endringer i straffeloven 20. mai 2005 nr. 28 mv. side 275.
+
+Lang saksbehandlingstid kan innebære brudd på kravet om rettergang innen rimelig tid etter Grunnloven § 95 og EMK artikkel 6 nr. 1. Det er imidlertid ikke nødvendig å konstatere brudd på disse bestemmelsene for at lang saksbehandlingstid skal gi seg utslag i straffen. Det følger uansett klart av tradisjonell straffutmålingspraksis at for lang saksbehandlingstid skal tillegges vekt til fordel for domfelte, jf. blant annet HR-2016-225-S avsnitt 27 og 35.
+
+### Straffeprosessutvalgets forslag
+
+Straffeprosessutvalget behandler spørsmålet om frist for påtalevedtak i utredningen punkt 16.2 side 356–358. Utvalget bemerker at lang saksbehandlingstid er en betydelig merbelastning for de involverte, og at etterforskingen og den påtalemessige behandlingen utgjør en vesentlig del av den samlede saksbehandlingstiden i straffesaker. Etter utvalgets syn bør tiltak som kan redusere behandlingstiden i politiet og påtalemyndigheten vurderes.
+
+Utvalget viser til konklusjonene i rapport 20. juni 2000 Prosjekt hurtigere straffesaksbehandling, Arbeidsgruppe I, der det i hovedsak fremgår at det ikke er gitt at innføring av frister i seg selv vil forkorte saksbehandlingstiden. Fristregler kan også føre til forskyvninger og omprioriteringer i politiet. Stilles det krav til saksbehandlingstiden for noen sakstyper, kan det føre til at andre saker får lengre saksbehandlingstid. Utvalget slutter seg i det vesentlige til konklusjonene i rapporten og bemerker følgende, jf. utredningen side 357:
+
+«Detaljerte fristregler for ulike sakstyper hører etter utvalgets syn uansett ikke hjemme i loven, men bør i stedet reguleres gjennom forskrifter, rundskriv mv., som enklere kan justeres i takt med endringer i behov over tid. Det er også vanskelig å se for seg at absolutte frister er egnet, ettersom loven må ta høyde for variasjonene mellom ulike straffesaker. Ønsket om effektiv saksavvikling bør dermed, slik utvalget ser det, i første rekke sikres gjennom andre tiltak enn lovbestemte frister.
+
+Etter utvalgets syn kan likevel mye tale for at loven bør inneholde en relativ frist for avgjørelse av påtalespørsmålet, sett i lys av fristreglene som følger av overordnede rettsnormer. Retten til behandling innen rimelig tid følger av Grunnloven § 95 og Den europeiske menneskerettskonvensjon (EMK) artikkel 6 nr. 1. En ren gjentakelse i loven av kravet om avgjørelse innen rimelig tid vil ikke i seg selv tilføre noe. I kombinasjon med saksbehandlings- og kontrollregler som sikrer reell håndhevelse, vil imidlertid en slik regulering kunne få selvstendig betydning.»
+
+Etter dette foreslår utvalget at spørsmålet om påtale skal avgjøres «så snart saken er tilstrekkelig opplyst, og innen rimelig tid etter at noen er å anse som mistenkt», jf. lovutkastet § 28-1 første ledd. Den særskilte fristen på seks uker for gjerningspersoner under 18 år er ikke foreslått videreført i lovutkastet, uten at det er gitt noen nærmere begrunnelse.
+
+Etter utvalgets syn må kontroll med saksbehandlingstiden i første rekke skje internt i påtalemyndigheten. Nærmere regler om slik internkontroll foreslås regulert i forskrift eller retningslinjer fra riksadvokaten. Videre bemerker utvalget at forslaget ikke er ment å endre muligheten for mistenkte og fornærmede til å bringe spørsmål om saksbehandlingen, herunder om fremdriften i etterforskingen, inn for overordnet påtalemyndighet.
+
+Utvalget drøfter spørsmålet om det også bør innføres en ordning med rettslig kontroll med fremdriften i saksbehandlingen, jf. utredningen side 357 flg. Et *flertall* av utvalgsmedlemmene mener det er behov for uavhengig kontroll med saksbehandlingstiden frem til avgjørelse av påtalespørsmålet og foreslår at domstolene tillegges en slik funksjon. Dette vil etter flertallets syn ikke være i strid med de hensyn anklageprinsippet bygger på, og vil sikre at siktede får et effektivt vern mot uforholdsmessig lang saksbehandlingstid.
+
+Flertallets forslag går ut på at mistenkte etter 1 år og 6 måneder kan bringe spørsmålet om saken fremmes med tilstrekkelig hurtighet inn for domstolene. Retten kan fastsette en preklusiv frist dersom den finner at videre forfølgning mot mistenkte vil være urimelig. Hvorvidt vilkåret er oppfylt vil bero på en konkret vurdering, der det blant annet må tas hensyn til lang saksbehandling som følge av liggetid, manglende planmessighet, koordinering og dimensjonering av saken. I tillegg må det ses hen til hensynet til fornærmede. Flertallet legger til grunn at terskelen for å anvende bestemmelsen vil måtte være relativt høy. Lovforslaget er inspirert av den danske retsplejeloven § 718 b, stk. 1–3, som slår fast at retten på nærmere vilkår kan fastsette en frist for avgjørelse av påtalespørsmålet. Fristoversittelse medfører at påtale mot siktede anses for «opgivet».
+
+*Mindretallet* (ett utvalgsmedlem) vil innføre en adgang for mistenkte til å få overprøvd saksbehandlingstiden med preklusiv virkning, men mener at det må være overordnet påtalemyndighet som foretar overprøvingen. En ordning som skissert av flertallet vil etter mindretallets syn bryte med den tilbaketrukne rollen domstolen har og bør ha i forhold til påtalemyndigheten i etterforskingsfasen. En adgang til å klage over saksbehandlingstiden til overordnet påtalemyndighet vil etter mindretallets syn være fornuftig og bedre i samsvar med forvaltningsrettslige prinsipper og fagansvaret som ligger til overordnet påtalemyndighet.
+
+### Høringsinstansenes syn
+
+*PST, Oslo Statsadvokatembeter* og *Riksadvokaten* har kommentert forslaget om lovfesting av at påtale skal avgjøres så snart saken er tilstrekkelig opplyst og innen rimelig tid. Samtlige høringsinstanser støtter forslaget. *Riksadvokaten* påpeker at det samme vil gjelde uten en slik bestemmelse, men at en synliggjøring i loven vil forhåpentligvis føre til en bevisstgjøring om påtalemyndighetens plikt til å påse at straffesaksbehandlingen har adekvat fremdrift.
+
+*Riksadvokaten* og *Sekretariatet for konfliktrådsbehandling* har kommentert at fristen på seks uker for barn under 18 år ikke er foreslått videreført av utvalget. Begge stiller seg negative til dette. Riksadvokaten er bekymret for at saksbehandlingstiden kan gå opp dersom fristen fjernes. Sekretariatet for konfliktrådsbehandling uttaler at dagens fristregel er viktig signal om at saker mot unge lovbrytere må behandles raskt og gis høy prioritet. Høringsinstansen peker på at det har kommet tydelige signaler fra politi og påtalemyndigheten om at lovfestingen bidrar til at saksbehandlingstiden i disse sakene holdes nede.
+
+*Domstoladministrasjonen*, *Gulating lagmannsrett*, *Kristiansand tingrett* og *Vest politidistrikt* støtter forslaget om å innføre domstolskontroll med saksbehandlingstiden. Disse høringsinstansene slutter seg til uttalelsene fra Straffeprosessutvalgets flertall. *Domstoladministrasjonen* uttaler at domstolskontroll vil virke oppdragende på påtalemyndigheten, og kan ikke se noen prinsipielle betenkeligheter med forslaget. Høringsinstansen antar at bestemmelsen vil bli brukt relativt sjelden, men at en slik ordning kan ha en viss effekt på etterforskingsfremdriften.
+
+Forslaget om å innføre domstolskontroll med saksbehandlingstiden har ellers møtt stor motstand i høringsrunden. *Asker og Bærum tingrett, Bergen tingrett, Borgarting lagmannsrett, Dommerforeningen, Hordaland statsadvokatembeter, Innlandet politidistrikt, Kripos, Møre og Romsdal og Sogn og Fjordane statsadvokatembeter, Nordland politidistrikt, Nordland statsadvokatembeter, Oslo politidistrikt, Oslo statsadvokatembeter, Oslo tingrett, Politidirektoratet, PST, Riksadvokaten, Rogaland statsadvokatembeter, Stine Sofies Stiftelse, Sør-Vest politidistrikt, Sør-Øst politidistrikt, Troms og Finnmark politidistrikt, Trøndelag statsadvokatembeter, Vestfold og Telemark statsadvokatembeter, Økokrim* og *Øst politidistrikt* går imot forslaget. Hovedinnvendingen er at domstolskontroll av fremdriften i saksbehandlingen bryter med anklageprinsippet og domstolenes rolle i straffesaksbehandlingen. Mange hevder utvalgets forslag vil være prosessdrivende og kunne føre til forhastede påtaleavgjørelser.
+
+*Borgarting lagmannsrett* uttaler at det i vår prosessordning er fremmed og lite ønskelig at retten på denne måten skal kontrollere politiets etterforsking. *Oslo statsadvokatembeter* uttaler at man i et slik forslag ser et tydelig element av en etterforskingsdomstol som er fjernt fra det norske systemet, og som vil representere en rettssikkerhetsrisiko.
+
+*Hordaland statsadvokatembeter* mener at den foreslåtte fristregelen må antas å bli prosesskapende og legge beslag både på påtalemyndigheten i politiet og etterforskingsressurser og vil tvinge retten til å foreta krevende vurderinger som den har usikre forutsetninger for. Videre hevdes det at fristregelen kan «skape berettiget vegring mot å iverksette etterforsking i omfattende og kompliserte saker, av frykt for at prosessuelle begjæringer skal ta en for stor del av de samlede etterforskingsressurser».
+
+De fleste høringsinstansene som er imot domstolskontroll med saksbehandlingstiden mener i likhet med utvalgets mindretall at det bør innføres en klagerett over sen saksbehandling til overordnet påtalemyndighet. Dette gjelder *Asker og Bærum tingrett, Bergen tingrett, Borgarting lagmannsrett, Dommerforeningen, Hordaland statsadvokatembeter, Innlandet politidistrikt, Kripos, Nordland statsadvokatembeter, Oslo statsadvokatembeter, Politidirektoratet, PST, Riksadvokaten, Rogaland statsadvokatembeter, Stine Sofies Stiftelse, Sør-Vest politidistrikt, Sør-Øst politidistrikt, Trøndelag statsadvokatembeter, Vestfold og Telemark statsadvokatembeter, Økokrim* og *Øst politidistrikt.*
+
+*Kripos* uttaler at klageadgang til overordnet påtalemyndighet etter for eksempel 1 år og 6 måneder, er tilstrekkelig. Kripos mener at en slik løsning har best sammenheng med alminnelige forvaltningsmessige prinsipper, anklageprinsippet og fagledelsesansvaret og instruksjonsmyndigheten som ligger hos Den høyere påtalemyndighet.
+
+*Riksadvokaten* mener dissensen fra utvalgets mindretall gir en balansert vurdering av de hensyn som gjør seg gjeldende. Riksadvokaten uttaler at Den høyere påtalemyndighet også i dag behandler slike klager, men at det vil være en fordel å få ordningen lovfestet.
+
+Av de høringsinstansene som ønsker klageadgang til høyere påtalemyndighet, er det delte meninger om hvordan denne klageretten bør utformes, herunder om den bør innebære at overordnet påtalemyndighet setter en preklusiv frist. *Nordland Statsadvokatembeter* mener at en lovfesting av en ordning hvor statsadvokatene, etter klage fra mistenkte eller fornærmede over sendrektig fremdrift, kan sette frister for politiet for å få sluttført etterforskingen, og hvor konsekvensen i ytterste tilfelle kan bli at etterforskingen anses innstilt, vil gi bedre legitimitet og en sterkere rettslig forankring enn hva som er tilfellet i dag. *PST* er ikke enig i at det skal innføres en preklusiv frist, og peker på at fristen på 18 måneder ikke i tilstrekkelig grad tar hensyn til omfattende og komplekse saker. Også *Kripos* mener at en frist fastsatt av Den høyere påtalemyndighet ikke bør ha preklusiv virkning. I følge Kripos vil dette kunne gi svært ulikt resultat i straffesaker som ellers er like, avhengig av om mistenkte har klaget eller ikke. Ved fristoversittelser bør det i stedet gis en kompensasjon, for eksempel i form av en mildere straffepåstand fra påtalemyndigheten. *Politidirektoratet* er i utgangspunktet enig med *Kripos*, men mener at en slik uheldig virkning begrenses av at det er påtalemyndigheten og ikke domstolen som fastsetter fristen. Etter *Politidirektoratets* syn har overordnet påtalemyndighet mer kunnskap og erfaring med etterforsking enn domstolene. De er således nærmest til å vurdere om og eventuelt hvilken frist som vil være riktig å fastsette. De påpeker også at det vil være overordnet påtalemyndighet som i realiteten frafaller strafforfølgningen dersom den preklusive fristen ikke overholdes, hvilket anses i samsvar anklageprinsippet og overordnet påtalemyndighets omgjøring- og instruksjonsmyndighet.
+
+*Stine Sofies stiftelse* mener at en klagerett også bør lovfestes for fornærmede.
+
+### Departementets vurdering
+
+I likhet med Straffeprosessutvalget går departementet inn for å lovfeste at påtalevedtak skal treffes så snart saken er opplyst og innen rimelig tid etter at noen er å anse som mistenkt. Departementet kan i det vesentlige slutte seg til utvalgets begrunnelse for forslaget. Et relativt krav til fremdriften i straffesaker synes å være et egnet virkemiddel for å påskynde saksbehandlingen og er dessuten i samsvar med de krav som allerede følger av Grunnloven og EMK.
+
+Etter departementets syn bør fristen på seks uker for lovbrytere under 18 år beholdes. Fristen gir et viktig signal om at saker mot unge lovbrytere må behandles raskt og gis høy prioritet. Det vises her for øvrig til innspillene fra *Riksadvokaten* og *Sekretariatet for konfliktrådsbehandling*.
+
+Departementet er ikke enig med utvalgets flertall i at fremdriften i etterforskingen bør være gjenstand for domstolsprøving. På dette punktet kan departementet i det vesentlige slutte seg til de innvendingene som er reist av utvalgets mindretall og en rekke høringsinstanser. Departementet vil særlig fremheve at en slik ordning bryter med den tilbaketrukne rollen domstolen har og bør ha overfor påtalemyndigheten i etterforskingsfasen. I tillegg vil en slik adgang antagelig føre til en merbelastning for domstolenes saksmengde.
+
+Departementet har vurdert om det som alternativ til rettslig prøving bør lovfestes en klagerett for mistenkte til høyere påtalemyndighet, slik utvalgets mindretall har foreslått. Departementet viser til at det prinsipielt sett er viktig at manglende fremdrift i en sak er gjenstand for overprøving, dels av rettssikkerhetshensyn og dels av kontrollhensyn. Påtalemyndigheten er i lys av sin erfaring og kunnskap om etterforsking egnet til å foreta en slik overprøving. Departementet er imidlertid i tvil om en klagerett som foreslått vil føre til at saksbehandlingstiden i påtalemyndigheten samlet sett blir bedre. En lovfestet klageordning kan i praksis ha som konsekvens at ressursbruken forskyves uten at den samlede saksbehandlingstiden blir kortere, og slik sett føre til uhensiktsmessige prioriteringer. Dette er antagelig særlig aktuelt dersom klageordningen innebærer at overordnet påtalemyndighet setter en preklusiv frist for å påtale det straffbare forholdet.
+
+Departementet er enig med de høringsinstansene som påpeker at en preklusiv frist kan føre til ulike resultater, avhengig av om klageretten er benyttet eller ikke. Videre legger departementet vekt på at en lovfestet klagerett kan føre til flere klager, og dermed legge beslag på mer tid hos påtalemyndigheten. På denne bakgrunn har departementet kommet til at det ikke bør lovfestes en klagerett til overordnet påtalemyndighet. Kontroll med fremdriften i straffesaker bør etter departementets syn – som i dag – i første rekke sikres gjennom generell fagledelse og instruksjon. I tillegg til foreldelsesreglene, vil ordningen med strafferabatt ved lang saksbehandlingstid og erstatning for uberettiget forfølgning fremdeles være kompenserende mekanismer der straffesaksbehandlingen blir urimelig lang. Departementet legger til at det med dette ikke tas sikte på å begrense påtalemyndighetens adgang til å behandle klager over langvarig saksbehandling etter omstendighetene, slik praksis er i dag.
+
+Departementet vil også vise til de andre forslagene i denne proposisjonen om påtalemyndigheten. Klarere regler om instruksjon, en lovfesting som tydeliggjør statsadvokatenes ansvar for fagledelse etter etablert praksis og hensiktsmessige delegasjonshjemler vil kunne bidra til at ressursene i påtalemyndigheten benyttes bedre. Det er grunn til å forvente at dette samlet sett vil legge bedre til rette for at påtalevedtak treffes så snart saken er opplyst og innen rimelig tid etter at noen er å anse som mistenkt.
+
+## Henleggelse
+
+### Gjeldende rett
+
+Henleggelse av en straffesak innebærer at påtalemyndigheten beslutter at strafforfølgningen skal innstilles. Beslutninger om henleggelse betegnes gjerne som *negative* påtaleavgjørelser (påtalevedtak). Motsetningen er de *positive* påtaleavgjørelsene, der påtalemyndigheten som hovedregel legger til grunn at vilkårene for straffansvar er tilstede. Eksempler på positive påtaleavgjørelser er tiltalebeslutninger, forelegg og påtaleunnlatelser. Henleggelser må avgrenses mot den adgang polititjenestepersonell uten påtalemyndighet har til å gjøre opp mindre alvorlige overtredelser «på stedet». Det skjer også mer uformelle avgrensninger av sakskompleks, som ikke vil bli ansett som påtalevedtak. For at en skal kunne tale om henleggelse må det først foreligge en anmeldelse eller være åpnet etterforsking.
+
+Straffesaker kan henlegges av ulike årsaker og disse er i varierende grad lovfestet. For det første kan en sak henlegges av bevismessige eller strafferettslige grunner. Disse grunnene er forutsatt i straffeprosessloven §§ 73 første ledd første punktum og 74 første ledd første punktum. Straffeprosessloven §§ 71 b og 71 c bygger også på en forutsetning om at straffesaken henlegges hvis det ikke er strafferettslig grunnlag for forfølgning. Etter påtaleinstruksen § 7-4 fjerde ledd kan påtalemyndigheten beslutte å henlegge en anmeldelse uten at det foretas etterforsking når det er klart at det anmeldte forhold ikke er straffbart.
+
+For det andre kan det være prosessuelle årsaker til at en straffesak henlegges. Eksempler kan være saker der forbudet mot gjentatt strafforfølgning i EMK stenger for en positiv påtaleavgjørelse, eller der det mangler nødvendig påtalebegjæring. Etter gjeldende rett følger sistnevnte implisitt av straffeprosessloven § 72 annet ledd, hvor det fastsettes at en sak skal innstilles dersom nødvendig påtalebegjæring fra særlig myndighet trekkes tilbake. Se også påtaleinstruksen § 7-4 fjerde ledd hvor det fremgår at påtalemyndigheten kan beslutte å henlegge en anmeldelse uten at det foretas etterforsking når det er klart at det anmeldte forhold ikke er gjenstand for offentlig påtale.
+
+En tredje kategori er henleggelser av påtalemessige grunner. Kategorien omfatter henleggelser av skjønnsmessig karakter. Det kan for eksempel være tale om henleggelse etter straffeprosessloven § 62 a annet ledd, som generelt bestemmer at forfølgning kan innstilles for straffebud med en strafferamme på inntil to års fengsel hvis ikke allmenne hensyn tilsier påtale. Ved vurderingen skal det blant annet legges vekt på overtredelsens grovhet, hensynet til den alminnelige lovlydighet og om den fornærmede, en annen som har lidt skade ved overtredelsen eller vedkommende berørte myndighet, ønsker påtale. Bestemmelsen ble innført ved ikrafttredelsen av straffeloven av 2005, samtidig som ordningen med betinget offentlig påtale ble endret og påtalebegjæring fra fornærmede avskaffet. Det er imidlertid gjort unntak fra utgangspunktet i straffeprosessloven § 62 a annet ledd flere steder. For eksempel er det etter enkelte bestemmelser i spesiallovgivningen et vilkår for påtale at sterke allmenne hensyn tilsier det, eller at det foreligger påtalebegjæring fra særskilt myndighet. Se nærmere punkt 15.3 nedenfor. I spesiallovgivningen er det også bestemmelser om at påtale kan unnlates hvis ikke allmenne hensyn tilsier påtale for straffebud med en strafferamme utover to års fengsel.
+
+Henleggelse av påtalemessige grunner er videre aktuelt der påtalemyndigheten finner at det ikke er «rimelig grunn» til å iverksette etterforsking, eller fortsette en påbegynt etterforsking, jf. straffeprosessloven § 224. Vanligvis angis sannsynlighet, proporsjonalitet og saklighet som styrende kriterier for vurderingen, jf. riksadvokatens rundskriv nr. 3/1999 punkt III.3. I dette inngår en bedømmelse av graden av sannsynlighet for at det er begått et straffbart forhold, en kvalitativ vurdering av om et mulig forhold er så alvorlig at det bærer en etterforskingsinnsats og et krav om at det ikke tas utenforliggende hensyn. Henleggelsesadgangen etter § 62 a annet ledd har etter sin ordlyd et visst overlapp med bestemmelsen i § 224. Riksadvokaten har trukket grensen mellom de to henleggelsesgrunnlagene slik, se rundskriv nr. 2/2015 punkt VIII.1.3 side 21:
+
+«Ettersom straffeprosessloven § 224 åpner for en bred, skjønnsmessig vurdering av om saken bør henlegges før det er igangsatt etterforsking, er det imidlertid ikke behov for å anvende straffeprosessloven § 62 a annet ledd på dette stadiet av saken. Riksadvokaten beslutter derfor at en før det er iverksatt etterforsking, ikke skal henlegge saken fordi allmenne hensyn ikke foreligger, jf. straffeprosessloven § 62 a annet ledd. Forholdet skal i stedet henlegges fordi det ikke er rimelig grunn til å iverksette etterforsking, jf. straffeprosessloven § 224».
+
+De påtalemessige henleggelsesgrunnene omfatter også henleggelser begrunnet med manglende saksbehandlingskapasitet. Påtalemyndigheten har egne koder for denne typen henleggelser i STRASAK. Det rådende synet i teorien er at påtalemyndigheten har adgang til å prioritere hvilke saker som skal etterforskes og hvilke som skal henlegges av kapasitetsgrunner, se blant annet Gert Johan Kjelby, Påtalerett (2. utgave, Bergen 2019) side 125. Kompetansen forankres i straffeprosessloven § 224 første ledd samt påtaleinstruksen § 7-4 første ledd om iverksetting av etterforsking. Videre har riksadvokaten i rundskriv nr. 3/1999 og rundskriv nr. 3/2016 forutsatt at påtalemyndigheten har en slik kompetanse og gitt nærmere retningslinjer for henleggelser på grunnlag av manglende kapasitet. I rundskriv nr. 3/2016 punkt III er det angitt at kapasitetshenleggelser i utgangspunktet er begrenset til saker med ukjent gjerningsperson. Sentrale og alvorlige lovbrudd kan aldri henlegges av kapasitetsgrunner. Hvis det bare er den påtalemessige behandlingen av en straffesak som gjenstår, skal det sterke grunner til for å henlegge.
+
+Henleggelse av påtalemessige årsaker skjer også i saker der påtalemyndigheten finner at en overtredelse bør forfølges administrativt. Etter § 71 b kan påtalemyndigheten, dersom noen som ikke er fylt 15 år, har begått en ellers straffbar handling, beslutte at saken skal overføres til barneverntjenesten. Det følger av straffeprosessloven § 71 c at et forhold som kan medføre en administrativ sanksjon, kan henlegges og overføres til forvaltningen hvis vilkårene for straff eller offentlig påtale ikke er oppfylt, eller hvis det for øvrig er mest hensiktsmessig at forholdet forfølges administrativt.
+
+Den europeiske menneskerettskonvensjon (EMK) artikkel 3 og artikkel 8 innebærer i visse tilfeller en positiv plikt til å iverksette etterforsking, eventuelt etterfulgt av påtale, dersom det foreligger rimelig begrunnede påstander om krenkelser begått av private eller myndigheter, se Jon Fridrik Kjølbro, Den Europæiske Menneskerettighedskonvention – for praktikere (5. utgave, København 2020) side 888. Dette utgangspunktet kommer også til utrykk i riksadvokatens rundskriv nr. 3/2016 punkt III avsnitt 12, hvor det uttales at «en effektiv etterforsking og strafforfølgning av visse typer lovbrudd kan følge av Norges forpliktelser etter EMK, jf. særlig Rt. 2013 s. 588». Høyesterett uttaler i nevnte dom i avsnitt 46:
+
+«Politiarbeid er krevende og komplekst, muligheten for å forutse utviklingen er begrenset, og operative valg må skje innenfor rammen av fastsatte prioriteringer og ressursmessige rammer. Konvensjonen krever ikke det umulige eller uforholdsmessige. Og staten forventes ikke å avverge enhver fare for krenkelser begått av private. Men det må reageres mot *reell og umiddelbar risiko* som myndighetene er kjent med, eller burde være kjent med, med de tiltak som det ut fra situasjonen er *rimelig* å forvente.»
+
+Vedtak om henleggelse kan påklages til nærmeste overordnete påtalemyndighet etter den alminnelige regelen om klagerett over påtalevedtak i straffeprosessloven § 59 a.
+
+### Straffeprosessutvalgets forslag
+
+Straffeprosessutvalget vurderer påtalemyndighetens adgang til henleggelse i utredningen punkt 16.4 og 16.5 side 359 flg. Utvalget foreslår å samle og presisere de viktigste henleggelsesgrunnene i en egen bestemmelse, jf. lovutkastet § 28-2.
+
+Utvalget viser i begrunnelsen til at straffeprosessloven § 62 a og de unntak som følger av straffeloven og spesiallovgivningen fremstår unødvendig komplisert og uoversiktlig. Videre mener utvalget at det kan stilles spørsmål om dagens regelverk ivaretar de hensyn som gjør seg gjeldende.
+
+Utvalget forslår for det første at en straffesak *skal* henlegges når de nødvendige rettslige eller bevismessige betingelsene for straff ikke er til stede, jf. lovutkastet § 28-2 første ledd. Det er også i utkastet § 13-2 (1) inntatt vilkår for når etterforsking kan skje, noe som også vil ha betydning for spørsmålet om henleggelse. Henleggelse vil typisk være aktuelt der et forhold ikke rammes av straffelovgivningen, der prosessuelle grunner er til hinder for strafforfølgning og der det ikke foreligger tilstrekkelig bevismateriale til å oppfylle det strafferettslige beviskravet.
+
+For det andre foreslår utvalget at påtalemyndigheten gis en skjønnsmessig adgang til å henlegge saker når forfølgning «ikke er i det offentliges interesse», jf. lovutkastet § 28-2 annet ledd. Utvalget fremhever at lovforslaget bygger på en sterk presumsjon for at forfølgning av straffbare handlinger er i det offentliges interesse. Det er fraværet av forfølgningsinteresse som må påvises. At påtalemyndigheten også før skyldspørsmålet anses avklart, gis en adgang til å vurdere om forfølgning skal finne sted ut fra et slikt kriterium, vil etter utvalgets syn være i tråd med de hensyn som ligger til grunn for opportunitetsprinsippet og påtalemyndighetens ansvar for å ivareta statens strafforfølgningsinteresse.
+
+Etter utvalgets syn bør interessevurderingen kunne skje løsrevet fra strafferammen for det forholdet saken gjelder. Strafferammebegrensningen som i dag følger av straffeprosessloven § 62 a annet ledd foreslås opphevet. Utvalget foreslår videre at det i loven angis momenter som det normalt vil være aktuelt å legge vekt på i vurderingen av om forfølgningsinteressen, herunder om det aktuelle forholdet er bagatellmessig, prosessøkonomiske betraktninger og kapasitetshensyn, at forholdet er mer egnet til administrativ forfølgelse og beskyttelse av sensitive opplysninger, jf. lovutkastet § 28-2 annet ledd bokstav a til d.
+
+Utvalget går inn for å lovfeste adgangen til å beslutte henleggelse av kapasitetsgrunner, jf. lovutkastet § 28-2 bokstav b (etter at forfølgning er påbegynt) samt også § 13-2 (før etterforsking er påbegynt). Utvalget anser det som uunngåelig at saker henlegges på grunn av manglende saksbehandlingskapasitet, nærmest uansett hvor mye ressurser som tilføres politiet. Det er ifølge utvalget heller ikke rimelig å forvente at staten skal bruke ressurser på å etterforske og forfølge alle forhold som anmeldes eller avdekkes.
+
+Henleggelser på grunn av kapasitetsmangel må etter utvalgets syn bare skje så langt det er forsvarlig og gjøres etter rasjonelle prioriteringer. For å unngå uforsvarlig bruk av adgangen bør det etter utvalgets syn etableres gode rutiner for internkontroll i påtalemyndigheten. Utvalget peker her på at det kan være spesielt uheldig dersom slike henleggelser skjer systematisk for enkelte sakstyper. Det vil kunne undergrave formålet med straffelovgivningen, bryte med lovgivers forutsetninger og svekke tilliten til politi og påtalemyndighet. Utvalget viser også til at det er viktig at påtalemyndigheten ved henleggelser oppgir det reelle grunnlaget for beslutningen, og ikke kamuflerer kapasitetshenleggelser ved å henlegge forholdet etter for eksempel «bevisets stilling».
+
+Etter utvalgets forslag er kapasitetshensyn et moment i vurderingen av det offentliges interesse i strafforfølgning. Utvalget mener at det ikke nødvendigvis bør utelukke kapasitetshenleggelse at gjerningspersonens identitet er kjent. Det vil imidlertid være et relevant moment. Henleggelse på grunn av kapasitetshensyn kan også etter forslaget være aktuelt der bare den påtalemessige behandlingen gjenstår.
+
+### Høringsinstansenes syn
+
+Utvalgets forslag om å lovfeste de viktigste henleggelsesgrunnene har fått bred støtte under høringen. *Agder politidistrikt, Hordaland statsadvokatembeter, Innlandet politidistrikt, Nordland statsadvokatembeter, Oslo statsadvokatembeter, Politidirektoratet, Riksadvokaten, Trøndelag statsadvokatembeter* og *Vestfold og Telemark statsadvokatembeter støtter forslaget.*
+
+Forslaget om å angi en plikt for påtalemyndigheten til å henlegge saken når det ikke er bevismessig eller rettslig grunnlag for strafforfølgning, har ikke blitt møtt med innsigelser fra noen av høringsinstansene. *Riksadvokaten* er positiv til at denne rettssetningen kommer klart til uttrykk i loven.
+
+*Politidirektoratet* og *Trøndelag statsadvokatembeter* er også positive til forslaget om å gi påtalemyndigheten en skjønnsmessig adgang til å henlegge saken når strafforfølgning ikke er i det offentliges interesse. Høringsinstansene *støtter i hovedsak utvalgets forslag til utforming og peker på at* bestemmelsen er pedagogisk, praktisk og fremstår som godt begrunnet.
+
+Noen høringsinstanser har også kommentert de enkelte henleggelsesgrunnene i lovutkastet § 28-2 annet ledd. *Agder politidistrikt, Innlandet politidistrikt, Nordland politidistrikt, Sør-Øst politidistrikt* og *Politidirektoratet* er positive til å lovfeste at påtalemyndigheten kan henlegge en sak av kapasitetsårsaker*. Sør-Øst politidistrikt* mener at lovregulering av kapasitetshenleggelser vil kunne øke forståelsen for denne type henleggelser. Høringsinstansen ser det som særlig positivt at saker også kan henlegges når det kun er den påtalemessige behandlingen som gjenstår. *Politidirektoratet* fremhever at det er viktig at ikke den reelle henleggelsesgrunnen kamufleres, idet slik kamuflering av kapasitetsutfordringer ikke gir korrekt statistikk og dermed reduserer muligheten for strategisk styring på straffesaksfeltet. *Politidirektoratet* peker på at sakens antatte utfall, som i utvalgets lovutkast fremgår av § 13-2 første ledd om vilkår for etterforsking, er et så vidt sentralt moment ved kapasitetshenleggelser at det bør inntas i bestemmelsen. *Politidirektoratet* er også enig i at kjent gjerningsperson kun bør være et moment i vurderingen av om saken kan henlegges av kapasitetsårsaker.
+
+*Riksadvokaten* har innsigelser til utvalgets forslag til regulering av henleggelse av forhold som kan medføre en administrativ sanksjon, jf. lovutkastet § 28-2 annet ledd bokstav c. Riksadvokaten påpeker at forslaget bare delvis viderefører straffeprosessloven § 71 c, ved at alternativet om at saken kan overføres til forvaltningen ikke er omfattet:
+
+«Sett med norske øyne er presiseringen i straffeprosessloven § 71c neppe nødvendig. En har imidlertid merket seg at bestemmelsen også var ment å klargjøre at «forholdet ikke er endelig avgjort ved påtalemyndighetens henleggelse» for dermed å avskjære «eventuell tvil om hvorvidt påtalemyndighetens avgjørelse om ikke å forfølge et forhold strafferettslig, må betraktes som en endelig frifinnelse eller domfellelse etter dobbeltforfølgningsforbudet i EMK protokoll 7 artikkel 4», se Prop. 62 L (2015–2016) s. 208. Riksadvokaten har ikke tatt stilling til om dagens overføringsbestemmelse bør beholdes av hensyn til EMK, men spørsmålet bør formentlig vurderes i departementets videre arbeid, særlig med henblikk på storkammeravgjørelsen A og B mot Norge, judgment 15. november 2016 (saksnr. 24130/11 og 29758/11).»
+
+### Departementets vurdering
+
+Departementet slutter seg til utvalgets forslag om å samle og presisere de viktigste henleggelsesgrunnene i straffeprosessloven. Dette gir en pedagogisk og praktisk oversikt som i dag mangler i loven. Etter departementets syn kan utvalgets forslag innarbeides i straffeprosessloven § 62 a.
+
+I likhet med utvalget mener departementet at det bør gå frem av loven at påtalemyndigheten har en plikt til å henlegge saken når vilkårene for å treffe positiv påtaleavgjørelse ikke er oppfylt. Departementet er videre enig med utvalget i at det offentliges interesse i strafforfølgning bør være styrende for om forfølgning skal finne sted, og at vurderingen bør kunne skje uavhengig av strafferammen for det forholdet saken gjelder. Departementet slutter seg på dette punktet til utvalgets begrunnelse, og går inn for å sløyfe strafferammebegrensningen i straffeprosessloven § 62 a annet ledd. Departementet viser til at utvalgets forslag bygger på en sterk presumsjon for at forfølgning er i det offentliges interesse, og at det er fraværet av forfølgningsinteresse som må påvises.
+
+Departementet slutter seg til utvalgets vurdering av spørsmålet om å la adgangen til å henlegge en sak av kapasitetsgrunner komme til uttrykk i loven. Det er ikke realistisk å forvente at staten skal ha kapasitet til å etterforske og forfølge alle forhold som avdekkes eller anmeldes. Henleggelse bør begrunnes i de forhold som reelt ligger til grunn for henleggelsen. Dette vil gi god oversikt og kontroll med henleggelsespraksis, noe som er en forutsetning for god styring og effektiv ressursutnyttelse.
+
+Utvalgets forslag bygger på at adgangen til henleggelse av kapasitetsgrunner systematisk hører under spørsmålet om hvorvidt forfølgning er i «det offentliges interesse», og at kapasitetshensyn bør være et moment i en forholdsmessighetsvurdering. Departementet er enig i dette. I sakens tidlige fase vil saksbehandlingskapasitet også kunne trekkes inn i vurderingen av om en sak i det hele tatt skal etterforskes, jf. kravet om «rimelig grunn» etter straffeprosessloven § 224.
+
+I likhet med utvalget mener departementet at kapasitetshenleggelser kan forsvares når strafforfølgning vil medføre saksbehandlingstid og kostnader eller øvrig ressursbruk som ikke står i rimelig forhold til sakens betydning, jf. lovutkastet § 28-2 annet ledd bokstav b. Departementet går ikke inn for å presisere særskilt i hvilke situasjoner kapasitetshensyn kan begrunne henleggelser utover de momenter utvalget har angitt i lovutkastet. Departementet ser heller ikke grunn til å innta i bestemmelsen at «sakens antatte utfall» skal være av betydning for vurderingen, slik som *Politidirektoratet* har foreslått i høringen. Dette vil uansett være et moment som det er naturlig å se hen til i den prosessøkonomiske vurderingen som bestemmelsen gir anvisning på Slik er det allerede i dag når det gjelder vurderingen etter § 62 a annet ledd. Dersom det tidlig i etterforskingen er rimelig klart at det aktuelle forholdet, ferdig etterforsket, vil bli avgjort med en påtaleunnlatelse, vil dette være et relevant – og antakelig avgjørende – moment i vurderingen av om allmenne hensyn foreligger, se Gert Johan Kjelby, Påtalerett (2. utgave, Bergen 2019) side 412.
+
+Endringen i § 62 a som departementet foreslår, sammenholdt med § 224, vil på en klar og tydelig måte gi hjemmel for kapasitetshenleggelser både på etterforskingsstadiet og påtalestadiet. Departementet tar samtidig ikke sikte på å endre dagens praksis i vesentlig grad, men ønsker å tydliggjøre den rettslige terskelen for slik henleggelse, noe som kan bidra til en mer transparent og likartet praksis. Henleggelse av en sak er uansett utelukket for det tilfelle at det foreligger en forpliktelse etter EMK til å forfølge forholdet. De mest alvorlige sakene kan som hovedregel ikke henlegges på bakgrunn av manglende kapasitet. Departementet viser ellers til de retningslinjer som fremkommer av riksadvokatens rundskriv, særlig rundskriv nr. 3/2016. Som i dag kan henleggelseskompetansen utdypes gjennom retningslinjer fra riksadvokaten.
+
+Under høringen har *Riksadvokaten* pekt på at utvalgets forslag for så vidt gjelder henleggelse i situasjoner der forholdet kan medføre en administrativ sanksjon, har fått en annen utforming enn det som følger av gjeldende rett i straffeprosessloven § 71 c. Riksadvokaten har reist spørsmål om overføringsadgangen som fremkommer av dagens bestemmelse bør videreføres av hensyn til EMK. Det fremgår av forarbeidene til straffeprosessloven § 71 c at bestemmelsen delvis mente å klargjøre at «forholdet ikke er endelig avgjort ved påtalemyndighetens henleggelse» for dermed å avskjære «eventuell tvil om hvorvidt påtalemyndighetens avgjørelse om ikke å forfølge et forhold strafferettslig, må betraktes som en endelig frifinnelse eller domfellelse etter dobbeltforfølgningsforbudet i EMK protokoll 7 artikkel 4», se Prop. 62 L (2015–2016) punkt 34.2 på side 208. En henleggelse kan i det ytre fremstå som en endelig avgjørelse av saken, særlig hvis det i henleggelsen ikke opplyses om at saken overføres til forvaltningen for administrativ forfølgning. Departementet finner derfor grunn til å videreføre § 71 c uendret. Tilsvarende har departementet også kommet til at det er lite å vinne på at regelen i § 71 b inntas i § 62 a, slik at § 71 b også blir stående uendret.
+
+Som en følge av forslaget om å oppheve § 62 a annet ledd – basert på presumsjonen om at forfølgning er i det offentliges interesse og at vurderingen av henleggelse bør kunne skje uavhengig av strafferamme – er det naturlig at også de særlige reguleringene av dette i spesiallovgivningen endres. På flere områder er det særskilt regulert at påtale kan unnlates hvis ikke allmenne hensyn tilsier påtale for straffebud med en strafferamme utover to års fengsel. Et eksempel på dette er å finne i patentloven § 57 tredje ledd. Departementet foreslår at disse bestemmelsene oppheves. Da vil det alminnelige utgangspunktet i den nye bestemmelsen § 62 a første ledd sammenholdt med tredje ledd være avgjørende for påtalespørsmålet.
+
+Samtidig har departementet falt ned på at særreguleringen i straffeloven § 5 syvende ledd om krav til allmenne hensyn, ikke skal oppheves. Dette gjelder spørsmålet om handlinger som er begått i utlandet, skal påtales i Norge. Dette reiser prinsipielle spørsmål av en annen art enn det som kjennetegner reguleringen i spesiallovgivningen omtalt i avsnittet ovenfor. En omtale av hva som ligger i kravet til allmenne hensyn på dette området er inntatt i Ot.prp. nr. 90 (2003–2004) s. 404.
+
+## Avskaffelse av krav om påtalebegjæring fra offentlig myndighet
+
+Etter *gjeldende rett* er påtaleretten og påtaleplikten som hovedregel ubetinget offentlig, jf. § 62 a første ledd. Ordningen med påtalebegjæring fra fornærmede som vilkår for strafforfølgning ble avskaffet ved ikrafttredelsen av straffeloven 2005. Hvorvidt fornærmede ønsker at et forhold skal strafforfølges, kan være et sentralt moment ved vurderingen av om forfølgning skal skje, jf. straffeprosessloven § 62 a annet ledd. Samtidig finnes det fortsatt straffebud hvor påtalebegjæring fra en bestemt offentlig myndighet er et vilkår for strafforfølgning. I noen lover er et slikt vilkår kombinert med alternativet «med mindre offentlig påtale kreves av allmenne hensyn» eller liknende. I konkurranseloven er det et alternativt krav om at det må foreligge «sterke allmenne hensyn» i tillegg til vilkåret om påtalebegjæring fra offentlig myndighet.
+
+*Straffeprosessutvalget* går inn for at påtalebegjæring fra fornærmede eller offentlig myndighet ikke i noe tilfelle skal være et vilkår for strafforfølgning, jf. utredningen punkt 16.6 side 361 flg. I begrunnelsen viser utvalget til at forslaget vil innebære en forenkling av regelverket, blant annet ved at det ikke er behov for å videreføre straffeprosessloven § 81 a om kompetanse til å inngi påtalebegjæring på vegne av stat og kommune. Videre peker utvalget på at det ikke er fare for at berørte myndigheter får for liten innflytelse på spørsmålet om hvorvidt forfølgning skal finne sted, ettersom politiet og påtalemyndigheten i praksis er avhengig av anmeldelse eller opplysninger fra vedkommende myndighet for at etterforsking skal være aktuelt. Utvalget foreslår at hvorvidt vedkommende berørte myndighet ønsker strafforfølgning, skal være et relevant moment i vurderingen av om forfølgning er i det offentliges interesse.
+
+Forslaget om å oppheve ordningen med påtalebegjæring som formelt vilkår for forfølgning har ikke fått innsigelser fra noen av *høringsinstansene*. *Trøndelag statsadvokatembeter* støtter forslaget, og påpeker at det ofte oppstår tvil om anmelder hadde kompetanse til å inngi påtalebegjæring, og at det i mange tilfeller er tilfeldigheter som avgjør om en påtalebegjæring er rettidig fremsatt. Embetets erfaring er at saker som burde blitt strafforfulgt, i mange tilfeller henlegges på grunn av uklarhet rundt påtalebegjæringen.
+
+Departementet er enig med utvalget i at påtalebegjæring fra offentlig myndighet ikke bør være et formelt vilkår for strafforfølgning. Det vises til utvalgets begrunnelse for forslaget og at det ikke har kommet innvendinger under høringen. Videre er departementet enig i at det bør være et moment i vurderingen etter straffeprosessloven § 62 a nytt tredje ledd om vedkommende berørte myndighet ønsker at forholdet forfølges.
+
+Etter enkelte bestemmelser i spesiallovgivningen er i dag «sterke allmenne hensyn» et alternativ til vilkåret om påtalebegjæring fra offentlig myndighet. Departementet foreslår at også dette vilkåret oppheves, slik at det offentliges interesse heretter i alle tilfeller skal være styrende for vurderingen av spørsmålet om et forhold skal strafforfølges.
+
+## Påtaleunnlatelse ved «særlige grunner»
+
+Etter *gjeldende rett*, kan påtalemyndigheten når straffeskyld anses bevist, unnlate å påtale handlingen «når helt særlige grunner tilsier det», jf. straffeprosessloven § 69 første ledd. Påtale kan etter bestemmelsen unnlates etter en konkret vurdering av saken. Forut for straffelovens ikraftsettingslov 19. juni 2014 nr. 65 kunne påtale unnlates «såfremt slike særlige forhold er til stede at påtalemyndigheten etter en samlet vurdering finner at overveiende grunner taler for ikke å påtale handlingen». Endringen var ikke ment å innebære noen realitetsendring. *Utvalget* har foreslått at ordlydsendringen som ble foretatt i 2014 reverseres, slik at påtale kan unnlates når «overveiende grunner tilsier det». Etter utvalgets syn, er ikke dagens ordlyd treffende for det bestemmelsen tar sikte på å regulere. En formulering som foreslått av utvalget, vil på en bedre måte angi det som skal vurderes, dvs. om det foreligger forhold som etter en samlet vurdering tilser at påtalepresumsjonen bør fravikes. *Høringsinstansene* som uttaler seg om spørsmålet, er positive. *Riksadvokaten* og *Politidirektoratet* støtter utvalgets forslag, mens *Hordaland statsadvokatembeter* og *Oslo statsadvokatembeter* tar begge til orde for en forenkling av dagens ordlyd, til «særlige grunner». «Overveiende grunner» fremstår som uklar og gir mindre veiledning, samtidig som dagens ordlyd anses være for streng.
+
+Departementet har kommet til at ordlyden bør endres slik at påtale kan unnlates når «særlige grunner» tilsier det. Dette skal ikke medføre noen realitetsendring, forslaget er kun ment som en forenkling av lovens vilkår slik at ordlyden i bedre grad gir utrykk for rettstilstanden.
+
+## Overføring av sak til konfliktrådet
+
+### Påtaleunnlatelse gitt på vilkår om konfliktrådsbehandling
+
+#### Gjeldende rett
+
+Der straffeskyld anses bevist kan påtalemyndigheten unnlate å påtale handlingen når helt særlige grunner tilsier det, jf. straffeprosessloven § 69 første ledd. Påtaleunnlatelse er en strafferettslig reaksjon, jf. straffeloven § 30 bokstav f. Påtaleunnlatelse kan gjøres betinget av at siktede i en prøvetid ikke gjør seg skyldig i nye straffbare handlinger, jf. § 69 annet ledd. Påtaleunnlatelse kan videre gis på vilkår som nevnt i straffeloven §§ 35, 36 og 37 bokstavene a til j, jf. straffeprosessloven § 69 tredje ledd første punktum. I dette ligger det at påtaleunnlatelsen også kan gis på særvilkår om at siktede møter til «megling i konfliktråd» eller gjennomfører «oppfølging i konfliktråd» med varighet inntil ett år, såfremt fornærmede og siktede og deres eventuelle verger samtykker, jf. henvisningen til straffeloven § 37 bokstav i. Hvis siktede var mellom 15 og 18 år på handlingstidspunktet, kan påtaleunnlatelsen også gis på særvilkår om at siktede gjennomfører «ungdomsoppfølging i konfliktråd» med varighet på inntil ett år, forutsatt at siktede og siktedes eventuelle verger samtykker, jf. henvisningen til straffeloven § 37 bokstav j.
+
+Påtaleunnlatelse gitt på vilkår om konfliktrådsbehandling oppføres på uttømmende politiattest, jf. politiregisterloven § 41 nr. 1.
+
+Som et alternativ til å stille konfliktrådsbehandling som vilkår for en påtaleunnlatelse, kan påtalemyndigheten overføre saken til behandling i konfliktrådet etter reglene i straffeprosessloven § 71 a, se punkt 15.5.2.1. Videre kan påtalemyndigheten stille konfliktrådsbehandling som vilkår for betinget forelegg med hjemmel i straffeloven § 53 fjerde ledd, jf. straffeprosessloven § 256. Sistnevnte hjemmel brukes lite, og berøres ikke av lovforslaget.
+
+#### Straffeprosessutvalgets forslag
+
+Straffeprosessutvalget foreslår å fjerne muligheten til å stille konfliktrådsbehandling som vilkår for påtaleunnlatelse, se utredningen kapittel 16.3 side 359 og utkastet til ny straffeprosesslov § 28-3. Begrunnelsen er at utvalget anser en slik adgang overflødig ved siden av forslaget til ny straffeprosesslov § 28-4, som vil gi påtalemyndigheten adgang til å beslutte overføring til konfliktrådet på samme vilkår som ved beslutning om påtaleunnlatelse. Forslaget vil derfor ikke innebære noen realitetsendring av betydning.
+
+#### Høringsinstansenes syn
+
+*Nordland politidistrikt* slutter seg generelt til utvalgets forslag om «modernisering av reglene om påtaleunnlatelse». *Politidirektoratet* merker seg forslaget uten å fremsette innvendinger. *Riksadvokaten* påpeker at påtaleunnlatelse gitt på vilkår om behandling i konfliktråd etter § 69 regnes som en noe strengere reaksjon enn overføring til konfliktråd etter straffeprosessloven § 71 a, og at reaksjonen gjerne benyttes dersom en person begår nye straffbare forhold i etterkant av en § 71 a-overføring. Siden påtalemyndigheten fortsatt vil kunne tilpasse reaksjonen til den konkrete saken ved eventuelt å sette vilkår for overføringen slik som hjemlet i utvalgets utkast til ny § 28-4, støtter likevel Riksadvokaten forslaget.
+
+*Sekretariatet for konfliktrådene* argumenterte opprinnelig mot forslaget. Særlig ble det vist til at forslaget ville kunne føre til at færre egnede saker overføres til konfliktrådet hvis adgangen etter § 69 fjernes, ettersom betingede påtaleunnlatelser kan anvendes i mer alvorlige saker enn de som normalt overføres etter straffeprosessloven § 71 a. I ettertid har imidlertid Sekretariatet for konfliktrådene inngitt en supplerende høringsuttalelse. Sekretariatet gir der sin tilslutning til forslaget når det gjelder å redusere antall overføringshjemler for ungdomsoppfølging. Bakgrunnen er ifølge høringsinstansen senere undersøkelser som har avdekket store forskjeller i praktiseringen av de ulike overføringshjemlene. Det er blant annet påpekt at variasjonene fører til ubegrunnet rettsulikhet, særlig med hensyn til hvorvidt reaksjonen anmerkes på uttømmende politiattest. Det anføres at slike forskjeller vil kunne reduseres med Straffeprosessutvalgets forslag.
+
+#### Departementets vurdering
+
+I likhet med Straffeprosessutvalget foreslår departementet å fjerne adgangen til å stille konfliktrådsbehandling som vilkår for påtaleunnlatelse etter straffeprosessloven § 69. Departementet går inn for å redusere antall hjemler for overføring av egnede saker til konfliktrådet, slik som foreslått i utredningen. Forslaget må sees i lys av at straffeprosessloven § 71 a foreslås utvidet til å hjemle en adgang for påtalemyndigheten til å beslutte overføring til konfliktrådet på samme vilkår som ved beslutning om påtaleunnlatelse, se punkt 15.5.2.4 nedenfor.
+
+Forslaget har som formål å forenkle det prosessuelle grunnlaget for overføring av saker til konfliktrådet. Departementet har fra Sekretariatet for konfliktrådene og Riksadvokatembetet fått opplyst at de fleste politidistriktene primært benytter enten straffeprosessloven § 69 eller § 71 a som hjemmel for overføringer til konfliktrådet, uten at det nødvendigvis gjøres konkrete vurderinger av hvilket overføringsgrunnlag som bør benyttes i den enkelte saken. Det varierer mellom distriktene hvorvidt det er det ene eller det andre overføringsgrunnlaget som primært benyttes. Samlet kan dette blant annet føre til ubegrunnede forskjeller i hvorvidt konfliktrådsbehandlingen anmerkes på uttømmende politiattest, slik *Sekretariatet for konfliktrådene* også påpeker i sitt høringssvar. På denne bakgrunn mener departementet, i likhet med utvalget og høringsinstansene, at det er hensiktsmessig å forenkle reaksjonssystemet slik som foreslått.
+
+Forslaget innebærer at påtaleunnlatelser ikke lenger skal kunne gis på særvilkårene nevnt i straffeloven § 37 første ledd bokstav i og j. Det fører til at straffeprosessloven § 71 a vil tjene som påtalemyndighetens eneste hjemmel til å overføre saker direkte til konfliktrådet (uten domstolsbehandling), foruten den lite benyttede muligheten til å stille konfliktrådsbehandling som vilkår for betinget forelegg med hjemmel i straffeloven § 53 fjerde ledd, jf. straffeprosessloven § 256. Departementet understreker at forslaget ikke har til hensikt å påvirke hvilke eller hvor mange saker som overføres fra påtalemyndigheten til konfliktrådet. Saker som i dag anses egnet til å avgjøres ved påtaleunnlatelse på vilkår om konfliktrådsbehandling etter straffeprosessloven § 69 tredje ledd, jf. straffeloven § 37 første ledd bokstav i og j, forutsettes å kunne overføres direkte til konfliktrådet ved bruk av straffeprosessloven § 71 a slik denne lyder etter lovendringen.
+
+For øvrig vil forslaget ha som konsekvens at overføring til konfliktrådet ikke vil anmerkes på uttømmende politiattest hvis lovbryteren ikke begår nye straffbare handlinger to år etter at det er inngått godkjent avtale, ungdomsplan eller plan i konfliktrådet, jf. politiregisterloven § 41 nr. 1 bokstav a. Videre fører forslaget til at politiet vil få kompetanse til å treffe alle beslutninger om overføring til konfliktrådet, når ikke spørsmålet om tiltale hører under riksadvokaten, jf. straffeprosessloven § 67 fjerde ledd.
+
+Departementet foreslår på denne bakgrunn at henvisningen til straffeloven § 37 bokstavene i og j i straffeprosessloven § 69 tredje ledd første punktum oppheves.
+
+### Beslutning om overføring av en sak til konfliktrådet
+
+#### Gjeldende rett
+
+Der straffeskyld anses bevist, kan påtalemyndigheten beslutte at saken overføres til behandling i konfliktrådet etter reglene i straffeprosessloven § 71 a. Beslutningen er en strafferettslig reaksjon, jf. straffeloven § 30 bokstav g. Reaksjonen kan gå ut på at saken, etter samtykke fra fornærmede, siktede og deres eventuelle verger, overføres til «megling i konfliktrådet» eller til «oppfølging i konfliktrådet» med varighet på inntil ett år, jf. straffeprosessloven § 71 a første ledd. Hvis siktede var mellom 15 og 18 år på handlingstidspunktet, kan saken overføres til «ungdomsoppfølging i konfliktrådet» med varighet på inntil ett år, såfremt siktede og siktedes eventuelle verger samtykker, jf. § 71 a annet ledd.
+
+Besluttes saken overført til oppfølging i konfliktrådet eller ungdomsoppfølging i konfliktrådet, kan beslutningen gjøres betinget av at siktede ikke begår nye straffbare handlinger under oppfølgingen, jf. § 71 a tredje ledd. Overføres saken til ungdomsoppfølging, kan beslutningen i tillegg gjøres betinget av at siktede yter erstatning og oppreisning til fornærmede eller andre etter reglene i § 71 a fjerde ledd. Øvrige vilkår kan ikke stilles fra påtalemyndighetens side.
+
+Beslutning om overføring av en sak til konfliktrådet etter § 71 a anmerkes ikke på uttømmende politiattest med mindre lovbryteren har begått nye lovbrudd to år etter at det er inngått godkjent avtale, ungdomsplan eller plan i konfliktrådet, jf. politiregisterloven § 41 nr. 1 bokstav a.
+
+I stedet for å overføre saken til konfliktrådet etter straffeprosessloven § 71 a, kan konfliktrådsbehandling stilles som vilkår for påtaleunnlatelse etter reglene i straffeprosessloven § 69, se punkt 15.5.1. Videre kan påtalemyndigheten stille konfliktrådsbehandling som vilkår for betinget forelegg med hjemmel i straffeloven § 53 fjerde ledd, jf. straffeprosessloven § 256. Sistnevnte hjemmel brukes lite, og berøres ikke av lovforslaget.
+
+#### Straffeprosessutvalgets forslag
+
+Straffeprosessutvalget foreslår å videreføre påtalemyndighetens adgang til å beslutte overføring av saker til konfliktrådet, med den endring at beslutningen skal kunne gjøres betinget av samme vilkår som for en påtaleunnlatelse, jf. utvalgets utredning kapittel 16.3 side 359 og utvalgets forslag til ny straffeprosesslov § 28-4. Forslaget må sees i lys av at utvalget også foreslår at påtaleunnlatelser ikke lenger skal kunne gis på vilkår om at saken overføres til behandling i konfliktråd, se forslaget til ny straffeprosesslov § 28-3.
+
+#### Høringsinstansenes syn
+
+*Riksadvokaten* tiltrer utvalgets forslag til ny straffeprosesslov § 28-4. *Politidirektoratet* merker seg utvalgets forslag uten å fremsette innvendinger. *Nordland politidistrikt* tiltrer utvalgets forslag om «modernisering av reglene om påtaleunnlatelse», men kommenterer ikke forslaget til § 28-4 spesielt. Tilsvarende gjelder for *Sekretariatet for konfliktrådene,* slik dennes tilslutning til foreslåtte § 28-3 er gjengitt i punkt 15.5.1.3. Ettersom forslaget til ny § 28-4 knyttes opp mot forslaget til ny § 28-3, kan imidlertid høringsinstansens støtte til § 28-3 fremstå som støtte også til § 28-4.
+
+#### Departementets vurdering
+
+I likhet med utvalget foreslår departementet at det i straffeprosessloven § 71 a innføres en adgang for påtalemyndigheten til å beslutte overføring av en sak til konfliktrådet på samme vilkår som ved beslutning om påtaleunnlatelse. Forslaget må sees i lys av at adgangen til å stille konfliktrådsbehandling som vilkår for påtaleunnlatelse foreslås fjernet, se punkt 15.5.1.4 ovenfor.
+
+Forslaget innebærer at overføring til konfliktrådet etter straffeprosessloven § 71 a vil kunne besluttes på vilkår om at siktede overholder andre og flere (tyngende) særvilkår enn hva som er tilfellet i dag. Dette fører til at reaksjonen i større grad vil kunne tilpasses den konkrete saken, slik også *Riksadvokaten* trekker frem. Formålet er at saker som i dag besluttes overført til konfliktrådet som særvilkår for påtaleunnlatelse etter § 69 tredje ledd, jf. straffeloven § 37 bokstav i eller j, i stedet vil kunne overføres med hjemmel i § 71 a. Det vises til punkt 15.5.1.4 ovenfor og begrunnelsen som er inntatt der. Det forutsettes at påtalemyndigheten vil fastsette øvrige særvilkår i saker hvor det etter en konkret og samlet vurdering anses hensiktsmessig.
+
+Departementet foreslår i hovedtrekk at endringen gjøres ved at det i straffeprosessloven § 71 a tredje ledd tilføyes at det for overføring til megling i konfliktråd, oppfølging i konfliktråd og ungdomsoppfølging i konfliktråd kan settes vilkår som nevnt i straffeprosessloven § 69 annet og tredje ledd. Endringen gir behov for visse tilpasninger i § 71 a tredje og fjerde ledd, slik nærmere beskrevet i særmerknaden til bestemmelsen.
+
+Som følge av endringen i straffeprosessloven § 71 a, foreslår departementet for øvrig at det innføres en klagerett over beslutninger etter straffeprosessloven § 71 a, se neste punkt 15.5.3.
+
+### Klagerett over beslutning om overføring av en sak til konfliktrådet
+
+Etter *gjeldende rett* er det i straffeprosessloven § 59 a lovfestet en klagerett over påtalevedtak. Klageretten er begrenset til å gjelde for visse typer påtalevedtak oppregnet i bestemmelsens første ledd, herunder påtaleunnlatelser gitt på vilkår om konfliktrådsbehandling etter straffeprosessloven § 69. Beslutning om overføring av en sak til konfliktrådet etter straffeprosessloven § 71 a er ikke blant vedtakstypene som kan påklages. Klagerett over beslutning om overføring av en sak til konfliktrådet etter § 71 a hjemles heller ikke i påtaleinstruksen eller særlovgivningen.
+
+*Straffeprosessutvalget* foreslår å videreføre reglene om klagerett over påtalevedtak i straffeprosessloven § 59 a, se utredningen kapittel 30 side 636. I forslaget til ny § 29-9 første ledd foreslås det imidlertid innført en adgang til å klage over påtalemyndighetens beslutninger om overføring av saker til konfliktrådet. At det ikke finnes noen klagerett for denne typen beslutning fra før, drøftes ikke særskilt av utvalget.
+
+Ingen av *høringsinstansene* har kommentert utvalgets forslag om å innføre en klagerett for beslutninger om overføring av en sak til konfliktrådet. *Hedmark og Oppland statsadvokatembeter, Oslo statsadvokatembeter* og *Riksadvokaten* omtaler forslaget til ny § 29-9 uten å kommentere at beslutninger om overføring til konfliktrådet foreslås inkludert blant påtalevedtakene som kan påklages.
+
+Departementet er enig med Straffeprosessutvalget at det bør innføres en klagerett over beslutninger om overføring av sak til konfliktrådet etter straffeprosessloven § 71 a. Noen slik klagerett finnes ikke i dag. Påtaleunnlatelser gitt på vilkår om konfliktrådsbehandling etter straffeprosessloven § 69 tredje ledd kan imidlertid påklages av andre enn siktede selv, jf. straffeprosessloven § 59 a første ledd første punktum nr. 2, jf. annet ledd tredje punktum, jf. § 71. Når departementet nå foreslår å fjerne muligheten for å stille konfliktrådsbehandling som vilkår for påtaleunnlatelse etter straffeprosessloven § 69, og heller innføre en adgang til å beslutte overføring til konfliktrådet etter straffeprosessloven § 71 a på samme vilkår som ved dagens påtaleunnlatelser, finner departementet det naturlig å innføre en klagerett også for slike beslutninger med hjemmel i § 71 a. En slik klagerett vil gjelde også for den som er ilagt reaksjonen etter § 71 a, til forskjell fra hva som i dag er tilfellet ved påklaging av påtaleunnlatelser etter § 69.
+
+Departementet foreslår at klageretten innføres ved at «beslutning om overføring til konfliktrådet etter § 71 a» legges til i listen over påtalevedtak som kan påklages i straffeprosessloven § 59 første ledd første punktum. Beslutninger fattet med hjemmel i § 71 a vil dermed kunne påklages på samme vilkår som de andre påtalevedtakene opplistet i straffeprosessloven § 59 a.

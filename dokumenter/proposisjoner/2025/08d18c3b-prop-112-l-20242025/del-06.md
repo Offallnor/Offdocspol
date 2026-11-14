@@ -1,828 +1,158 @@
-# Prop. 112 L (2024–2025), del 6 av 9 (side 57–66)
+# Prop. 112 L (2024–2025), del 6 av 11
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2025/08d18c3b-prop-112-l-20242025.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-112-l-20242025/id3096422/
 - Original-PDF: https://www.regjeringen.no/contentassets/f35589e9bc5c4cedaacb4fd5bf8ad65c/no/pdfs/prp202420250112000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 6 tabeller. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 57]
-
-2024–2025
-
-Prop. 112 L
-
-Endringer i straffeloven og legemiddelloven mv. (befatning med mindre mengder narkotika til egen bruk)
-
-neområdet for denne ordningen, og formålet er å
-forebygge ny kriminalitet og fremme lovbryterens
-rehabilitering mv., jf. forskrift om narkotikaprogram med domstolskontroll § 1. Også andre særvilkår kan være aktuelle, herunder oppmøte hos
-rådgivende enhet for russaker, særlig i tilfeller
-hvor den rusmiddelavhengige ikke allerede er
-inne i et behandlingsopplegg.
-Departementet nevner at samfunnsstraff bør
-vurderes som alternativ til ubetinget fengsel overfor rusmiddelavhengige. Høyesterett har i HR2022-733-A åpnet for økt bruk av samfunnsstraff
-overfor rusmiddelavhengige, også i tilfeller der det
-ikke foreligger en rehabiliteringssituasjon. Dette
-vil også kunne være aktuelt i gjentakelsestilfeller.
-
-5.6.6 Konkurrens
-Ved befatning med flere stoffer samtidig anses
-erverv og oppbevaring av inntil tre stoffer å falle
-inn under den foreslåtte straffebestemmelsen i
-legemiddelloven § 31 andre ledd, jf. § 24, forutsatt
-at befatningen gjelder egen bruk og ikke overstiger
-mengdegrensene, se punkt 4.7.3. Overfor personer
-med omfattende og alvorlige rusmiddelproblemer
-skal reaksjonen da normalt være ubetinget påtaleunnlatelse eller straffutmålingsfrafall. Når en rusmiddelavhengig skal ilegges en reaksjon for flere
-tilfeller av befatning med narkotika etter legemiddelloven § 31 andre ledd, jf. § 24, og hvert av forholdene isolert sett kvalifiserer til ubetinget påtaleunnlatelse eller straffutmålingsfrafall, skal den samlede
-reaksjonen også være ubetinget påtaleunnlatelse
-eller straffutmålingsfrafall. I slike tilfeller skal straffen ikke skjerpes selv om det utmåles en felles
-reaksjon for flere handlinger, jf. straffeloven § 79
-første ledd bokstav b.
-I tilfeller der befatningen gjelder flere typer
-narkotika til egen bruk, i mengder som dels overstiger og dels er innenfor mengdegrensene, vil
-reaksjonsregelen for rusmiddelavhengige ikke
-komme direkte til anvendelse på forholdet, se
-punkt 4.7.3. I et slikt tilfelle skal det ved reaksjonsfastsettelsen overfor rusmiddelavhengige likevel
-ses bort fra befatningen med stoffer innenfor
-mengdegrensene. Dette er i tråd med avgjørelsen
-i HR-2022-2120-A, som er illustrerende for problemstillingen. I denne saken oppbevarte tiltalte
-ved samme anledning ca. 7 gram heroin, 11 gram
-hasj og 0,3 gram THC. Heroinet oversteg de
-dagjeldende veiledende mengdegrensene, mens
-mengden cannabis og THC lå innenfor mengdegrensene. Høyesterett valgte bare å utmåle straff
-for befatningen med heroin, og så helt bort fra de
-to andre stoffene (avsnitt 33–35). Selv om det ikke
-
-55
-
-uttrykkelig var et tema i saken, fremkommer det
-av dommen at befatningen med de tre stoffene ble
-behandlet i samme tiltalepost, og at straffeloven
-§ 231 ble anvendt på forholdet (tiltalen post II).
-Etter departementets forslag vil den samme fremgangsmåten kunne benyttes når en rusmiddelavhengig har befatning med stoffer som overstiger
-mengdegrensene, samtidig med stoffer innenfor
-mengdegrensene. Fremgangsmåten er ment å
-sikre at rusmiddelavhengige ikke får høyere straff
-som følge av å ha hatt befatning med narkotika til
-egen bruk innenfor mengdegrensene.
-Dersom en rusmiddelavhengig skal ilegges en
-reaksjon både for overtredelse av legemiddelloven
-§ 31 andre ledd, jf. § 24, og andre lovbrudd, skal det
-ved reaksjonsfastsettelsen på samme måte ses bort
-fra overtredelser av § 31 andre ledd, jf. § 24, som
-bare kvalifiserer til ubetinget påtaleunnlatelse eller
-straffutmålingsfrafall. Dersom saken kommer til
-pådømmelse, skal det etter rettspraksis synliggjøres i domsslutningen at det reageres med straffutmålingsfrafall for én eller flere poster i tiltalen (se
-for eksempel HR-2022-1653-A). På tiltalestadiet bør
-det vurderes om forhold som påtalemyndigheten
-mener faller inn under reaksjonsordningen, skal
-avgjøres særskilt med ubetinget påtaleunnlatelse i
-stedet for at forholdene tas med i tiltalen. Dette er
-forhold som det normalt ikke vil være grunn til å
-bringe inn for domstolene.
-
-5.6.7
-
-Etterforskningen og vernet mot
-selvinkriminering
-Den foreslåtte reaksjonsordningen for rusmiddelavhengige innebærer at personer som har et
-omfattende og alvorlig rusmiddelproblem, normalt skal gis den mildeste strafferettslige reaksjonen ved befatning med narkotika til egen bruk. I
-punkt 5.6.2 har departementet redegjort for beviskravet for rusmiddelavhengighet og at det i mangel av andre holdepunkter kan legges til grunn at
-mistenkte ikke faller inn under reaksjonsordningen. Opplysninger om rusmiddelproblemer vil i
-praksis ofte måtte gis av mistenkte selv, noe som
-nødvendigvis vil innebære at vedkommende gir
-opplysninger om tidligere befatning med narkotika. Ordningen gir dermed en motivasjon for mistenkte til å gi opplysninger om tidligere straffbare
-forhold. På denne bakgrunnen aktualiseres vernet mot selvinkriminering, se punkt 5.2.3.
-De mulige negative strafferettslige konsekvensene for en mistenkt som gir opplysninger om tidligere befatning med narkotika til egen bruk, er
-etter departementets vurdering begrensede.
-Rettslig sett vil befatning med narkotika til egen
-
-[Side 58]
-
-56
-
-Prop. 112 L
-
-2024–2025
-
-Endringer i straffeloven og legemiddelloven mv. (befatning med mindre mengder narkotika til egen bruk)
-
-bruk over tid bli ansett som ett sammenhengende
-straffbart forhold, og ikke som flere selvstendige
-straffbare forhold. Omfanget av bruken, og at det
-dreier seg om gjentatte erverv og besittelse av
-narkotika til egen bruk, vil heller ikke ha betydning for reaksjonsfastsettelsen. De mulige negative konsekvensene av at mistenkte forteller om
-tidligere befatning med narkotika, begrenses også
-av riksadvokatens direktiver i brev 13. mai 2022:
-«Eventuell innhenting av informasjon for å
-belyse spørsmålet om den mistenkte er å anse
-som rusavhengig skal gjøres på en måte som
-respekterer selvinkrimineringsvernet. Det skal
-derfor ikke opprettes egne saker på grunnlag av
-opplysninger om tidligere begåtte lovbrudd i
-form av bruk eller befatning med narkotika til
-egen bruk som fremkommer i den forbindelse.»
-Utfra gjeldende rett og påtalepraksis risikerer
-mistenkte dermed normalt ikke noe strengere
-straffansvar gjennom forklaringer om tidligere
-befatning med narkotika til egen bruk.
-En forklaring om rusmiddelproblemer og tidligere befatning med narkotika kan i prinsippet tenkes å få betydning i bevisvurderingen for den konkrete befatningen med narkotika som mistanken
-gjelder. Dette kan for eksempel være aktuelt i tilfeller hvor mistenkte nekter straffskyld for den konkrete befatningen med narkotika, men samtidig
-gjør gjeldende å være rusmiddelavhengig. Departementet legger til grunn at domstolene og påtalemyndigheten vil være tilbakeholdne med å vektlegge opplysninger om rusmiddelavhengighet til
-skade for mistenkte på denne måten. I den grad tidligere befatning med narkotika likevel skulle bli
-vektlagt i enkeltsaker, er det etter departementets
-syn tale om en relativt beskjeden konsekvens av å
-forklare seg om egne rusmiddelproblemer. Departementet nevner også at en forklaring om rusmiddelproblemer vil kunne ha negative forvaltningsrettslige konsekvenser for mistenkte, for eksempel
-når det gjelder førerrett og våpentillatelse. Slike
-konsekvenser faller imidlertid utenfor hva vernet
-mot selvinkriminering gir beskyttelse mot, se NOU
-2024: 12 side 205 med videre henvisning.
-Mistenktes motivasjon for å forklare seg om
-egne rusproblemer ligger i muligheten for å få
-ubetinget påtaleunnlatelse eller straffutmålingsfrafall, i stedet for bot eller betinget fengsel. For
-personer med omfattende og alvorlige rusmiddelproblemer som jevnlig bryter forbudet mot befatning med mindre mengder narkotika til egen
-bruk, antar departementet at motivasjonen for å
-være omfattet av en slik ordning er relativt høy.
-
-Dette gjelder særlig for personer som bruker
-heroin, hvor det alminnelige straffenivået kan tilsi
-at de risikerer fengselsstraff dersom de ikke
-omfattes av reaksjonsordningen for rusmiddelavhengige. Departementet peker imidlertid på at
-hensikten med ordningen er at personer med
-omfattende og alvorlige rusmiddelproblemer skal
-møtes med hjelp i stedet for straff, og forklaringen
-til mistenkte skal bidra til nettopp dette.
-Etter departementets syn er motivasjonen som
-ordningen gir til mistenkte om å forklare seg om
-tidligere narkotikaovertredelser, likevel ikke
-ekstraordinær. De mulige negative strafferettslige
-konsekvensene av å forklare seg om egne rusmiddelproblemer er videre beskjedne. Departementet
-anser det derfor ikke som tvilsomt at den foreslåtte reaksjonsordningen for rusmiddelavhengige er forenlig med mistenktes vern mot
-selvinkriminering.
-I saker om befatning med mindre mengder narkotika til egen bruk oppstår det spørsmål om hvilken veiledning politiet skal eller bør gi overfor mistenkte om reaksjonsregelen for rusmiddelavhengige, og hvordan veiledningen skal bidra til å ivareta mistenktes vern mot selvinkriminering. Spørsmålet er tatt opp av Rushåndhevingsutvalget i NOU
-2024: 12 punkt 12.4.5. Utvalget foreslår at politiet
-skal veilede mistenkte om reaksjonsordningen og
-konsekvensene av å gi informasjon om rusmiddelavhengighet, men uten å foreslå lovfesting av veiledningsplikten spesielt for mindre narkotikaovertredelser. Temaet er berørt i høringen av Norges
-institusjon for menneskerettigheter, som påpeker
-viktigheten av god informasjon og veiledning til
-mistenkte, herunder om mulige forvaltningsrettslige og andre rettslige konsekvenser.
-Siktedes vern mot selvinkriminering ivaretas i
-utgangspunktet av politiets plikt etter straffeprosessloven § 232 og påtaleinstruksen § 8-1 til å
-informere mistenkte om retten til taushet før et
-politiavhør. En veiledningsplikt om retten til taushet kan også utledes av vernet mot selvinkriminering etter EMK artikkel 6 nr. 1, jf. blant annet
-EMDs storkammerdom 13. september 2016 Ibrahim mfl. mot Storbritannia (sak nr. 50541/08,
-50571/08, 50573/08 og 40351/09) avsnitt 270–273.
-Departementet anser i utgangspunktet dette som
-et tilstrekkelig vern mot selvinkriminering, også i
-saker om befatning med mindre mengder narkotika til egen bruk. Departementet er likevel enig
-med utvalget i at politiet etter omstendighetene
-bør gi ytterligere veiledning til mistenkte i saker
-hvor politiet ønsker å belyse spørsmålet om rusmiddelavhengighet. Formålet med veiledningen
-vil være å sette mistenkte i stand til å treffe et
-
-[Side 59]
-
-2024–2025
-
-Prop. 112 L
-
-Endringer i straffeloven og legemiddelloven mv. (befatning med mindre mengder narkotika til egen bruk)
-
-informert valg før vedkommende besvarer spørsmål om rusmiddelavhengighet, eller på andre
-måter bidrar til å belyse spørsmålet.
-Mistenkte bør blant annet informeres om at
-politiet ønsker å belyse hvorvidt vedkommende
-har et omfattende og alvorlig rusmiddelproblem og
-dermed er omfattet av reaksjonsordningen. Det
-bør videre gis opplysninger om hovedinnholdet i
-reaksjonsordningen, herunder at reaksjonen for
-personer med et omfattende og alvorlig rusmiddelproblem normalt skal være ubetinget påtaleunnlatelse eller straffutmålingsfrafall, og at det er påtale-
-
-57
-
-myndigheten eller domstolen som tar stilling til
-reaksjonsfastsettelsen. Det bør også opplyses om
-at informasjonen som mistenkte gir, i prinsippet
-kan brukes til skade for ham eller henne, både
-strafferettslig og i andre sammenhenger, men at
-riksadvokaten har gitt instruks om at politiet ikke
-skal opprette nye straffesaker på bakgrunn av
-informasjon som blir gitt om tidligere befatning
-med narkotika til egen bruk. Informasjonen som
-gis, bør være objektiv og nøytral. Departementet
-antar at temaet egner seg for oppfølgning gjennom
-fagledelsestiltak i påtalemyndigheten.
-
-[Side 60]
-
-58
-
-2024–2025
-
-Prop. 112 L
-
-Endringer i straffeloven og legemiddelloven mv. (befatning med mindre mengder narkotika til egen bruk)
-
-6 Tvangsmidler ved befatning med mindre mengder narkotika
-til egen bruk
-6.1
-
-Innledning – hvilke forslag
-departementet vil følge opp
-
-Formålet med de straffeprosessuelle forslagene
-som fremmes i denne proposisjonen, er å oppnå
-regjeringens mål om å sikre reell håndheving av
-forbudet mot befatning med mindre mengder narkotika til egen bruk og å klargjøre politiets handlingsrom for å anvende tvangsmidler, samtidig
-som håndhevingen og bruken av tvangsmidler
-skal være forholdsmessig, se Meld. St. (2024–
-2025) punkt 1.5 side 24–25. Departementet vil i
-denne proposisjonen følge opp de forslagene i
-Rushåndhevingsutvalgets utredning del III om
-straffeprosess som spesifikt gjelder for denne
-sakstypen, og som vil bidra til å oppnå regjeringens mål. Departementet foreslår å følge opp
-utvalgets forslag om å innføre en ny bestemmelse
-om rusmiddeltesting ved mistanke om mindre
-narkotikaovertredelser (punkt 6.2). Videre foreslår departementet å følge opp utvalgets forslag
-om å lovregulere politiets adgang til å undersøke
-om det foreligger tegn og symptomer på ruspåvirkning (punkt 6.3). Departementet foreslår også
-å gå videre med utvalgets forslag om en endring i
-straffeprosessloven § 171, for å sikre at dagens
-pågripelsesadgang ved mistanke om befatning
-med mindre mengder narkotika til egen bruk,
-videreføres (punkt 6.4).
-De øvrige straffeprosessuelle forslagene i NOU
-2024: 12 del III, som går ut på endringer i straffeprosesslovens generelle bestemmelser, har ikke
-like klart som formål å bidra til håndhevingen av
-saker om befatning med mindre mengder narkotika til egen bruk og å klargjøre handlingsrommet
-for å anvende tvangsmidler i disse sakene. Departementet går derfor ikke videre med disse forslagene
-i denne proposisjonen. Dette omfatter forslagene
-om å presisere forholdsmessighetskravet i straffeprosessloven § 170 a andre punktum, presisere kravet til saklig ransakingsformål i straffeprosessloven
-§§ 192 og 195, klargjøre rekkevidden av straffeprosessloven § 195, presisere adgangen til maktbruk
-ved personransaking etter straffeprosessloven
-
-§ 195 og kroppslig undersøkelse etter straffeprosessloven § 157, samt forslagene om endringer i
-straffeprosessloven §§ 197 og 198 om beslutningskompetanse og å innføre strengere krav til beslutninger og rapporter om ransaking, jf. straffeprosessloven §§ 198 og 199.
-Departementet vil for øvrig understreke at også
-de strafferettslige forslagene som fremmes i denne
-proposisjonen, bidrar til å oppnå regjeringens mål
-om å sikre reell håndheving av forbudet mot befatning med mindre mengder narkotika til egen bruk.
-Det gjelder særlig klargjøringen av reaksjonsordningen for rusmiddelavhengige, at det legges opp
-til at mengdegrensene senkes noe sammenlignet
-med i dag, og at personer under 18 år holdes utenfor reaksjonsordningen for rusmiddelavhengige.
-Utover de konkrete endringene departementet
-foreslår, legges det ikke opp til noen endringer i
-rammene for etterforskning og tvangsmiddelbruk i
-narkotikasaker. Det innebærer blant annet at handlingsrommet for ransaking og kroppslige undersøkelser utover rusmiddeltesting, slik dette er omtalt
-i riksadvokatens brev 9. april 2021, ikke påvirkes av
-departementets forslag.
-
-6.2
-
-Rusmiddeltesting
-
-6.2.1
-
-Gjeldende rett
-
-Politiet kan gjennomføre rusmiddeltesting som
-ledd i etterforskning med hjemmel i straffeprosessloven § 157 om kroppslig undersøkelse.
-Bestemmelsen er plassert i lovens kapittel 12 om
-gransking, og ikke i lovens fjerde del om tvangsmidler. I realiteten er kroppslig undersøkelse likevel et inngripende straffeprosessuelt virkemiddel
-til bruk for bevissikring. Utfyllende regler om
-kroppslig undersøkelse er gitt i påtaleinstruksen
-kapittel 10. Kroppslig undersøkelse i form av innhenting av materiale til DNA-undersøkelse og fingeravtrykk er særskilt regulert i straffeprosessloven §§ 158 og 160.
-Kroppslig undersøkelse etter straffeprosessloven § 157 er «undersøkelser med siktemål å
-
-[Side 61]
-
-2024–2025
-
-Prop. 112 L
-
-Endringer i straffeloven og legemiddelloven mv. (befatning med mindre mengder narkotika til egen bruk)
-
-bruke kroppen eller det som måtte befinne seg i
-den som reelt bevismiddel», jf. HR-2016-1833-A
-avsnitt 20. Bestemmelsens anvendelsesområde
-må avgrenses mot ytre besiktigelse av kroppen,
-for eksempel for å se etter og sikre blodflekker
-eller sædflekker, kloremerker eller andre merker
-etter kamp, som er å anse som personransaking
-etter straffeprosessloven § 195, jf. Innstilling om
-Rettergangsmåten i straffesaker juni 1969 fra Straffeprosesslovkomitéen side 223 og 251.
-Det er flere vilkår for å beslutte kroppslig
-undersøkelse. For det første må den som skal
-undersøkes, med «skjellig grunn» mistenkes for
-en handling som etter loven kan medføre «frihetsstraff», jf. § 157 første ledd første punktum. Formuleringen «skjellig grunn» innebærer et krav
-om sannsynlighetsovervekt. Videre må den
-kroppslige undersøkelsen «antas å være av betydning for opplysningen av saken», og den kan ikke
-fremstå «som et uforholdsmessig inngrep». I
-andre punktum slås det fast at det kan tas blodprøve og «andre undersøkelser som kan skje uten
-fare eller betydelig smerte».
-Forholdsmessighetskravet etter straffeprosessloven § 157 første ledd første punktum er i
-utgangspunktet det samme som etter straffeprosessloven § 170 a andre punktum. Straffeprosessloven § 170 a andre punktum fastsetter at et tvangsmiddel ikke kan brukes «når det etter sakens art
-og forholdene ellers ville være et uforholdsmessig
-inngrep». En lang rekke momenter med ulik
-tyngde kan gjøre seg gjeldende i den enkelte
-saken, jf. formuleringen «forholdene ellers». Straffeprosessloven § 170 a andre punktum viderefører
-den tidligere bestemmelsen om forholdsmessighet ved pågripelse og varetektsfengsling i straffeprosessloven § 174 første ledd og § 184 andre ledd
-andre punktum, se Ot.prp. nr. 64 (1998–99) Om lov
-om endringer i straffeprosessloven og straffeloven m v
-(etterforskningsmetoder m v) side 146. På side 17 i
-proposisjonen fremkommer det at formuleringen
-«forholdene ellers» kan være «hvor sterk mistanken er, hvor inngripende tvangsmidlet er og hvor
-nødvendig det er». At «sakens art» nevnes særskilt
-i bestemmelsen, tilsier imidlertid at dette momentet står sentralt. Momentet dekker blant annet lovbruddets alvor, nærmere bestemt hvilken strafferamme lovbruddet har og hva som er straffenivået
-for et slikt lovbrudd, samt omfanget av lovbruddet,
-forøvelsesmåten mv.
-Forholdsmessighetsvurderingen etter § 157
-første ledd første punktum suppleres av enkelte
-krav, forbud og retningslinjer i påtaleinstruksen
-§§ 10-4 og 10-5. Gastroskopi (mageundersøkelse)
-og urinprøve ved bruk av kateter er forbudt, jf.
-
-59
-
-§ 10-4 første ledd andre punktum. For øvrig skal
-undersøkelsen «alltid foretas så hensynsfullt som
-mulig», «ikke være mer inngripende enn det som
-er nødvendig», og «utføres på en minst mulig
-krenkende måte», jf. § 10-4 andre ledd. Etter § 104 tredje ledd kan det bare brukes makt «i det
-omfang og så lenge det er nødvendig for å gjennomføre undersøkelsen på en tilfredsstillende
-måte», og det kan ikke brukes makt «som innebærer fare eller betydelig smerte for mistenkte».
-En del kroppslige undersøkelser må utføres av
-kvalifisert helsepersonell, fortrinnsvis av lege
-eller etter forordning av lege, jf. påtaleinstruksen
-§ 10-5 første og andre ledd. Dette gjelder blant
-annet blodprøve. Andre typer kroppslige undersøkelser, slik som urinprøve, utåndingsprøve og
-undersøkelse av munnhule, kan utføres av politiet,
-jf. § 10-5 tredje ledd. Spyttprøve er ikke uttrykkelig nevnt i § 10-5 tredje ledd, men departementet
-legger i likhet med Rushåndhevingsutvalget til
-grunn at spyttprøve er omfattet av de undersøkelsene som politiet kan utføre, jf. NOU 2024: 12
-punkt 14.1.1 side 240.
-Straffeprosessloven inneholder ingen uttrykkelig hjemmel for maktbruk ved kroppslig undersøkelse etter § 157. Straffeprosesslovkomitéen forutsatte imidlertid at en adgang til å bruke makt fulgte
-implisitt av bestemmelsen, se Innstilling om Rettergangsmåten i straffesaker juni 1969 side 224. Også
-påtaleinstruksen § 10-4 tredje ledd forutsetter at
-makt kan brukes ved kroppslig undersøkelse. Maktbruk kan uansett hjemles i politiloven § 6 fjerde ledd
-sammenholdt med straffeprosessloven § 157. Politiloven § 6 fjerde ledd bestemmer at «[p]olitiet kan
-anvende makt under tjenesteutførelsen i den
-utstrekning det er nødvendig og forsvarlig».
-Uten mistenktes samtykke kan kroppslig
-undersøkelse bare foretas etter rettens kjennelse,
-jf. straffeprosessloven § 157 tredje ledd første
-punktum. Dersom formålet med undersøkelsen
-ellers vil kunne forspilles, kan ordre fra påtalemyndigheten tre i stedet for rettens kjennelse, jf.
-§ 157 fjerde ledd første punktum. Det følger forutsetningsvis av tredje ledd første punktum at påtalemyndigheten har beslutningskompetanse dersom mistenkte samtykker til undersøkelsen. Det
-er antatt at samtykke fra mistenkte ikke innebærer at polititjenestepersoner får beslutningskompetanse, se blant annet Frøberg mfl., Karnov
-lovkommentar: Straffeprosessloven, note 4 til
-§ 157, ajourført 3. juni 2022. At det er påtalemyndigheten som har beslutningskompetansen dersom mistenkte samtykker til undersøkelsen, er
-også lagt til grunn av Rushåndhevingsutvalget, se
-NOU 2024: 12 punkt 14.1.1 side 240.
-
-[Side 62]
-
-60
-
-Prop. 112 L
-
-2024–2025
-
-Endringer i straffeloven og legemiddelloven mv. (befatning med mindre mengder narkotika til egen bruk)
-
-6.2.2
-
-Riksadvokatens direktiver og politiets
-retningslinjer
-
-Riksadvokaten sendte 9. april 2021 et brev til statsadvokatembetene og politidistriktene med tittelen
-«Påtalemyndighetens
-legalitetskontroll
-med
-tvangsmiddelbruk – relevant etterforskingsformål
-og forholdsmessighet – særlig om ransaking i narkotikasaker». I brevets punkt 7 er det gitt et direktiv som begrenser politiets adgang til å gjennomføre kroppslig undersøkelse i mindre alvorlige
-narkotikasaker:
-«Det skal ikke gjennomføres tvungen rusmiddeltesting i form av blod- eller urinprøve etter
-straffeprosessloven § 157 for å bekrefte mistanke om bruk av narkotika alene.»
-Begrunnelsen for direktivet fremgår av brevets
-punkt 6.2, hvor riksadvokaten omtaler et typetilfelle
-der politiet på bakgrunn av egne observasjoner har
-mistanke om at en person har brukt narkotika.
-Riksadvokaten viser til at dersom mistenkte fremstår ruspåvirket og forklarer seg om ulovlig rusmiddelbruk, vil saken typisk måtte anses for oppklart, og i så fall vil det normalt ikke være rimelig
-grunn for videre etterforskning. Dersom mistenkte
-ikke erkjenner narkotikabruk, vil rusmiddeltesting
-være et relevant etterforskningsskritt. Kroppslig
-undersøkelse etter straffeprosessloven § 157, i
-form av tvungen urin- eller blodprøve, vil imidlertid
-etter riksadvokatens syn ikke være et forholdsmessig inngrep for å avdekke ulovlig rusmiddelbruk
-alene. Riksadvokaten understreker at dette ikke
-berører særlige kontrollregimer rettet mot rusmiddelbruk som er etablert på ulike områder, for
-eksempel i veitrafikken.
-Politiet fulgte opp riksadvokatens brev med
-egne retningslinjer med tittelen «Ransaking i narkotikasaker», datert 2. juli 2021. Retningslinjene
-er vedlagt NOU 2024: 12 som digitalt vedlegg 6. I
-retningslinjene punkt 3.2.3 om kroppslig undersøkelse står følgende:
-«Det skal ikke gjennomføres tvungen rusmiddeltesting i form av blod- eller urinprøve eller
-spyttprøve etter strpl. § 157 for å bekrefte mistanke om bruk av narkotika.»
-Retningslinjene ble utarbeidet av en nasjonal
-arbeidsgruppe etter anmodning fra Politidirektoratet. Retningslinjene er ikke bindende for politiet,
-men er ment som en veiledning for politiet om
-gjeldende rett og relevante direktiver fra riksadvokaten, se NOU 2024: 12 punkt 3.9 side 48.
-
-6.2.3
-
-Vernet av privatlivet og forbudet mot
-umenneskelig og nedverdigende
-behandling
-Kroppslig undersøkelse som ledd i etterforskning
-har en side til Grunnloven § 102 første ledd første
-punktum, EMK artikkel 8 og SP artikkel 17 om
-vern av privatlivet og forbudet i Grunnloven § 93
-andre ledd og EMK artikkel 3 mot tortur og
-umenneskelig og nedverdigende behandling.
-Som nevnt i punkt 3.3 er det ikke holdepunkter i
-Høyesteretts praksis for at vernet av privatlivet
-etter Grunnloven er sterkere enn vernet av privatlivet etter EMK og SP. Videre antas det at innholdet i Grunnloven § 93 andre ledd sammenfaller
-med EMK artikkel 3. Fremstillingen i det videre
-tar derfor utgangspunkt i EMK. Det vises for
-øvrig til Rushåndhevingsutvalgets omtale av EMK
-artikkel 8 i relasjon til straffeprosessuelle tvangsmidler generelt i NOU 2024: 12 punkt 12.1.2.2.
-EMD har lagt til grunn at innhenting av blodprøve eller spyttprøve fra en mistenkt som ikke
-ønsker å avgi prøven, ikke i seg selv er i strid med
-verken EMK artikkel 3 eller 8, se storkammerdom
-11. juli 2006 Jalloh mot Tyskland (sak nr. 54810/00)
-avsnitt 70. Det samme må antas å gjelde for urinprøver, men artikkel 3 kan være til hinder for innhenting av urinprøve ved hjelp av kateter, se EMDs
-dom 2. juli 2019 R.S. mot Ungarn (sak nr. 65290/
-14). Når det gjelder forbudet mot umenneskelig
-eller nedverdigende behandling, oppstilte EMD i
-Jalloh mot Tyskland avsnitt 71 til 74 flere momenter for vurderingen av om medisinske inngrep mot
-mistenktes vilje som ledd i etterforskning er forenlig med EMK artikkel 3. Disse momentene er i
-avsnitt 76 sammenfattet slik:
-«However, any interference with a person’s physical integrity carried out with the aim of obtaining evidence must be the subject of rigorous
-scrutiny, with the following factors being of particular importance: the extent to which forcible
-medical intervention was necessary to obtain
-the evidence, the health risks for the suspect,
-the manner in which the procedure was carried
-out and the physical pain and mental suffering it
-caused, the degree of medical supervision available and the effects on the suspect’s health
-[…]. In the light of all the circumstances of the
-individual case, the intervention must not attain
-the minimum level of severity that would bring
-it within the scope of Article 3.»
-I senere praksis har EMD uttalt at verken det å ta
-en blodprøve eller en spyttprøve mot mistenktes
-
-[Side 63]
-
-2024–2025
-
-Prop. 112 L
-
-Endringer i straffeloven og legemiddelloven mv. (befatning med mindre mengder narkotika til egen bruk)
-
-vilje i seg selv overstiger grensen for umenneskelig eller nedverdigende behandling, se dom 22.
-mai 2008 Ilya Stefanov mot Bulgaria (sak nr.
-65755/01) avsnitt 64.
-EMK artikkel 3 setter også grenser for hvilken
-makt som kan brukes for å overvinne mistenktes
-motstand mot prøvetakingen. Makt kan ikke
-anvendes med mindre det er strengt nødvendig.
-Etter praksis fra EMD synes det ikke å være
-avgjørende om lovbruddet som etterforskes, er
-mindre alvorlig, se dom 10. april 2007 Barta mot
-Ungarn (sak nr. 26137/04) avsnitt 64–73. Tilsvarende er lagt til grunn i Kjølbro, Den Europæiske
-Menneskerettighedskonvention – for praktikere (6.
-utgave, København 2023) side 306.
-Når det gjelder retten til privatliv, har Norges
-institusjon for menneskerettigheter i rapporten
-«Rus og menneskerettigheter» fra 21. september
-2022 drøftet om innhenting av urin- eller blodprøve for å avdekke bruk av narkotika er forenlig
-med EMK artikkel 8, se rapportens punkt 3.2.3
-side 31–33. Drøftelsen er vinklet opp mot riksadvokatens brev 9. april 2021, der riksadvokaten
-uttaler at det ikke skal gjennomføres rusmiddeltesting i form av tvungen blod- eller urinprøve etter
-straffeprosessloven § 157 for å bekrefte mistanke
-om bruk av narkotika alene. I rapportens punkt
-3.2.3 side 31–32 uttales følgende (fotnoter utelatt):
-«Når det gjelder forholdsmessighetskravet
-etter EMK, må kroppslig undersøkelse etter
-EMDs praksis være ‘convincingly justified on
-the facts of a particular case’, og at ‘the particularly intrusive nature’ av slike inngrep krever ‘strict scrutiny of all the surrounding circumstances’. I denne vurderingen må den
-eventuelle straffbare handlingens alvorlighetsgrad særlig vektlegges. Bruk av ulovlige rusmidler er et mindre bøteforhold og således
-ikke en alvorlig straffbar handling. Slik NIM
-ser det, vil Riksadvokatens presisering av at
-kroppslig undersøkelse ikke skal tas kun for å
-avdekke slike tilfeller, medføre redusert risiko
-for brudd på EMK artikkel 8.»
-Rushåndhevingsutvalget legger til grunn at EMK
-artikkel 8 ikke kan tolkes slik at forventet straff
-alene er avgjørende for om prøvetaking som ledd i
-bevissikring er et forholdsmessig tiltak, se NOU
-2024: 12 punkt 14.1.2 side 241. Utvalget uttaler at
-vurderingen er mer nyansert, og at det blant
-annet må ses hen til både hvor viktig prøvetaking
-er for å kunne håndheve den aktuelle kategorien
-av lovbrudd, hvilken metode for prøvetaking som
-anvendes, hvor sterk mistanken om et lovbrudd
-
-61
-
-er, hvem som utsettes for prøvetaking, og hvilke
-rettssikkerhetsgarantier som eksisterer. Ikke
-minst i sakstyper der prøvetaking er svært viktig
-for å avklare om mistenkte er skyldig, må det etter
-utvalgets syn foretas en konkret vurdering.
-
-6.2.4 Svensk og dansk rett
-Det er både i svensk og dansk rett hjemmel for
-kroppslig undersøkelse som ledd i etterforskning.
-Den svenske rättegångsbalken 28 kap. har regler
-om såkalt «kroppsbesiktning», som omtrent tilsvarer kroppslig undersøkelse etter straffeprosessloven § 157. I Danmark benyttes «legemsindgreb»
-som fellesbetegnelse på «legemsbesigtigelse» og
-«legemsundersøgelse». Legemsbesigtigelse tilsvarer grovt sett personransaking etter straffeprosessloven § 195, mens legemsundersøgelse
-omtrent tilsvarer kroppslig undersøkelse etter
-straffeprosessloven § 157. Reglene om legemsindgrep fremgår av retsplejeloven kap. 72.
-For en nærmere omtale av vilkårene for og
-gjennomføringen av «kroppsbesiktning» etter rättegångsbalken 28 kap. og «legemsundersøgelse»
-etter retsplejeloven kap. 72, herunder rusmiddeltesting, og i hvilken utstrekning slik tvangsmiddelbruk er aktuelt i mindre alvorlige narkotikasaker, vises det til NOU 2024: 12 punkt 14.1.3.1 side
-242–244.
-6.2.5 Rushåndhevingsutvalgets forslag
-I NOU 2024: 12 punkt 14.1.7.2 side 250–253 foreslår Rushåndhevingsutvalget å innta en ny
-bestemmelse i straffeprosessloven § 157 b som gir
-påtalemyndigheten kompetanse til å beslutte
-kroppslig undersøkelse i form av rusmiddeltesting ved mistanke om overtredelse av den foreslåtte straffebestemmelsen om befatning med
-mindre mengder narkotika til egen bruk. Utvalget
-viser til at riksadvokaten i brev 9. april 2021 har
-gitt ordre om at kroppslig undersøkelse i form av
-tvungen urin- eller blodprøve ikke skal innhentes
-for å avdekke bruk av narkotika alene. Slik utvalget ser det, er denne uttalelsen for kategorisk.
-Etter utvalgets syn er forholdsmessighetsvurderingen etter gjeldende rett mer nyansert enn hva
-riksadvokaten gir uttrykk for, og ikke minst
-mener utvalget at vurderingen bør være mer nyansert, se NOU 2024: 12 punkt 12.5.6 side 212.
-Utvalget viser til at kroppslig undersøkelse i
-form av rusmiddeltesting potensielt er et svært
-viktig etterforskningstiltak ved mistanke om bruk
-av narkotika. Utvalget påpeker at dersom bruk
-skal kunne bevises uten at en rusmiddelprøve tas
-
-[Side 64]
-
-62
-
-2024–2025
-
-Prop. 112 L
-
-Endringer i straffeloven og legemiddelloven mv. (befatning med mindre mengder narkotika til egen bruk)
-
-og analyseres, er man normalt avhengig av at personen tilstår og at tilståelsen støttes av andre
-bevis. Slik utvalget ser det, er dette svært uheldig.
-Etter utvalgets vurdering må enten påtalemyndigheten og politiet ha mulighet til å avdekke bruk av
-narkotika uavhengig av om mistenkte tilstår, eller
-så bør straffetrusselen ikke håndheves.
-Innhenting av spyttprøve er ifølge utvalget en
-mindre integritetsinngripende form for rusmiddeltesting enn det å ta en urin- eller blodprøve, som – i
-motsetning til urin- og blodprøver – i prinsippet kan
-innhentes på stedet. Videre viser utvalget til en
-skriftlig redegjørelse som Oslo Universitetssykehus
-har avgitt til utvalget (digitalt vedlegg 5 til utredningen) og Helsedirektoratets veileder «Prosedyrer for
-rusmiddeltesting» (IS-2231). Slik utvalget tolker
-redegjørelsen og veilederen, gir et positivt svar på
-en spyttprøveanalyse en like pålitelig indikasjon på
-inntak av narkotika som et positivt svar på en analyse av en urin- eller blodprøve. Utvalget vurderer at
-mistenktes rettssikkerhet derfor ikke er svakere
-ved bruk av spyttprøve enn ved bruk av urin- eller
-blodprøve. Så vidt utvalget kan se, er svakheten ved
-bruk av spyttprøve først og fremst at analysen
-avdekker færre typer av narkotiske stoffer enn en
-blodprøve, og at en spyttprøve er mindre egnet til å
-avdekke inntak av narkotika en tid tilbake sammenlignet med både urin- og blodprøver.
-Utvalgets syn er på denne bakgrunnen at spyttprøve bør være den primære bevissikringsmetoden
-ved mistanke om bruk av narkotika, og at dette bør
-fremgå av loven. Utvalget mener at innhenting av
-urin- eller blodprøve bør være sekundært, og enten
-forutsette at mistenkte ikke er villig til å medvirke
-til at spyttprøve innhentes, eller at spyttprøve ikke
-er egnet til å belyse rusmiddelinntaket i den konkrete saken på grunn av tidspunktet for inntaket
-eller typen narkotika det er mistanke om.
-Utvalget foreslår at de materielle vilkårene for
-å ta spyttprøve skal være de samme som i § 157
-om kroppslig undersøkelse, men presiserer at det
-i forslaget til den nye bestemmelsen ligger en forutsetning om at innhenting av spyttprøve ofte ikke
-vil være et uforholdsmessig inngrep. Utvalget
-viser til at formålet med bestemmelsen nettopp er
-å gjøre det mulig å håndheve lovbruddet. Når det
-gjelder forholdsmessighetsvurderingen, uttaler
-utvalget at det ikke bør gjelde en allmenn presumsjon i en bestemt retning. Utvalget viser videre til
-at tidlig avdekking av narkotikabruk blant unge
-ligger i kjernen av formålet med den nye bestemmelsen. På den annen side bemerker utvalget at
-det normalt vil være uforholdsmessig å innhente
-en prøve når mistenkte må antas å være rusmiddelavhengig.
-
-Etter utvalgets syn bør loven ikke åpne for at en
-spyttprøve kan innhentes med makt. Dersom mistenkte ikke er villig til å medvirke til at spyttprøve
-kan innhentes, bør konsekvensen etter utvalgets
-syn være at urin- eller blodprøve eventuelt kan innhentes etter reglene i straffeprosessloven § 157.
-Utvalget uttaler at det i så fall må ha betydelig vekt i
-forholdsmessighetsvurderingen etter § 157 første
-ledd at mistenkte har avslått et tilbud om spyttprøve. Utvalget foreslår på bakgrunn av dette at det
-fastsettes at dersom mistenkte nekter å medvirke
-til at spyttprøve kan innhentes, eller spyttprøve
-antas ikke å være egnet til å opplyse saken, gjelder
-reglene i § 157, og at det i vurderingen av om innhenting av urin- eller blodprøve er et uforholdsmessig inngrep, skal legges vekt på om mistenkte har
-fått mulighet til å avgi spyttprøve.
-
-6.2.6
-
-Høringsinstansenes syn
-
-Flertallet av høringsinstansene som har uttalt seg,
-støtter at det skal være hjemmel til kroppslig
-undersøkelse i form av rusmiddeltesting for å
-avdekke bruk av narkotika. Dette gjelder blant
-annet Actis – Rusfeltets samarbeidsorgan, Arbeiderbevegelsens Rus- og Sosialpolitiske Forbund, Blå
-Kors, Bærum kommune, Det Hvite Bånd, FMR: fellesskap – menneskeverd – rusfrihet, Hedmark og
-Oppland statsadvokatembeter, Helsesykepleierne
-NSF, Innlandet politidistrikt, JA, DET NYTTER!,
-Junior- og barneorganisasjonen Juba, Nordland politidistrikt, Nordland statsadvokatembeter, Norges
-Politilederlag, Norsk narkotikaforebyggende forening,
-Oslo politidistrikt, Oslo statsadvokatembeter, Politidirektoratet, Porsgrunn kommune, Rogaland statsadvokatembeter, Skien kommune, Sør-Vest politidistrikt, Trøndelag politidistrikt, Vest politidistrikt, Vestfold, Telemark og Buskerud statsadvokatembeter og
-Øst politidistrikt. Flere av disse høringsinstansene
-stiller seg positive til utvalgets forslag om å innta en
-særskilt bestemmelse om dette i straffeprosessloven.
-Hedmark og Oppland statsadvokatembeter og
-Oslo statsadvokatembeter mener at en slik lovendring i utgangspunktet ikke er nødvendig i lys
-av den adgangen straffeprosessloven § 157 allerede i dag gir. Høringsinstansene har likevel
-ingen sterke motforestillinger mot at adgangen
-klargjøres i en egen bestemmelse. Oslo politidistrikt gir uttrykk for det samme.
-Høringsinstansene som stiller seg negative til
-utvalgets forslag, er blant annet Foreningen for
-human ruspolitikk, Foreningen Tryggere Ruspolitikk, Helsedirektoratet, Kompetansesenter for rusfeltet (KORUS), KROM – Norsk forening for
-
-[Side 65]
-
-2024–2025
-
-Prop. 112 L
-
-Endringer i straffeloven og legemiddelloven mv. (befatning med mindre mengder narkotika til egen bruk)
-
-kriminalreform, Oslo kommune, Psynapse, RIO –
-en landsdekkende brukerorganisasjon på rusfeltet,
-Stiftelsen Kirkens Bymisjon, Tryggere Ungdom og
-Tyrilistiftelsen. Det er også flere høringsinstanser
-som generelt gir uttrykk for at de er kritiske til
-forslag som legger til rette for økt bruk av tvangsmidler ved etterforskning av mindre narkotikaovertredelser. Dette gjelder blant annet A-larm
-bruker- og pårørendeorganisasjon, Alliansen for
-Rettighetsorientert Ruspolitikk, Ivareta – pårørende
-berørt av rus, Mental Helse, Norsk Sykepleierforbunds faggruppe for sykepleiere innen psykisk helse
-og rus og Spero.
-Blant høringsinstansene som stiller seg positive
-til utvalgets forslag, uttaler flere at de er enige med
-utvalget i at straffansvaret for narkotikabruk i dag
-langt på vei er betinget av at mistenkte tilstår, og at
-det er uheldig. Hedmark og Oppland statsadvokatembeter skriver at situasjonen oppleves som en tilnærmet avkriminalisering av rene brukersaker, og
-at dette er en uholdbar situasjon som må rettes
-opp. Oslo politidistrikt og Politidirektoratet uttaler
-seg i samme retning. Disse høringsinstansene
-fremhever også at dagens situasjon fører til en
-uheldig forskjellsbehandling mellom de som
-erkjenner forholdet, og de som ikke gjør det. Politidirektoratet mener at dette er egnet til å rokke ved
-tilliten borgerne har til politiet og rettshåndhevelsen av straffbare forhold. Sør-Vest politidistrikt viser
-til at det er viktig for rettshåndhevelsen at allmennheten har en oppfatning av at ulovlig rekreasjonsbruk av narkotika kan bli oppdaget og påtalt i situasjoner hvor det er nødvendig, med en reell mulighet for å bevise straffansvar.
-Vestfold, Telemark og Buskerud statsadvokatembeter skriver at det med dagens rettstilstand, herunder riksadvokatens føringer til politiet og påtalemyndigheten, ikke er mulig å ilegge betinget
-påtaleunnlatelse i de fleste tilfellene der mistenkte
-nekter for å ha brukt narkotika. Dette er ifølge
-høringsinstansen uheldig, da det trolig er de som
-ikke erkjenner bruken, som har størst behov for
-helsehjelp. Høringsinstansen er særlig bekymret
-for konsekvensene dette har for oppfølgingen av
-barn og unge. Også Øst politidistrikt er bekymret
-for at utilstrekkelige virkemidler kan medføre at
-unge ikke fanges opp tidlig i sin ruskarriere, og at
-man dermed mister muligheter for å få satt vedkommende i kontakt med relevant hjelpeapparat.
-Actis – Rusfeltets samarbeidsorgan, Blå Kors, Helsesykepleierne NSF og Oslo statsadvokatembeter
-synes å gi utrykk for det samme.
-Flere av høringsinstansene som støtter utvalgets forslag til lovregulering, gir uttrykk for at de
-er enige i at spyttprøve bør være den primære
-
-63
-
-prøvetakingsmetoden, under henvisning til at innhenting av spyttprøve normalt vil være mindre inngripende enn det å ta en urin- eller blodprøve. Dette
-gjelder blant annet Actis – Rusfeltets samarbeidsorgan, Bærum kommune, Nordland statsadvokatembeter, Norsk narkotikaforebyggende forening, Oslo politidistrikt, Rogaland statsadvokatembeter, Trøndelag
-politidistrikt og Vest politidistrikt. Actis – Rusfeltets
-samarbeidsorgan, Hedmark og Oppland statsadvokatembeter, Oslo statsadvokatembeter og Vestfold, Telemark og Buskerud statsadvokatembeter mener at det
-kan være uheldig å låse bestemmelsen til spesifikt
-å gjelde spyttprøver, fordi teknologien i fremtiden
-vil kunne gjøre det mulig å bruke andre og enda
-mindre inngripende prøvetakingsmetoder.
-Øst politidistrikt viser til at det er en kjensgjerning at spyttprøvene som i dag brukes ved foreløpig prøvetaking ved mistanke om ruspåvirket kjøring etter vegtrafikkloven før det eventuelt innhentes en blodprøve, kan vise feil. Politidistriktet
-påpeker at dersom spyttprøver skal benyttes som
-bevis i en straffesak, må metoden være tilstrekkelig «sikker». Trøndelag politidistrikt ber om at det
-tydeliggjøres om spyttprøve vurderes som et fullgodt rettslig bevis som grunnlag for straffansvar.
-Vest politidistrikt understreker at også innhenting av spyttprøve vil være et inngripende tiltak,
-og at det også her må foretas en bred forholdsmessighetsvurdering. Oslo politidistrikt gir
-uttrykk for at de er enige med utvalget i at det normalt ikke vil være forholdsmessig å innhente
-spyttprøve når mistenkte må antas å være rusmiddelavhengig. Det samme gjelder Stiftelsen Kirkens
-Bymisjon. Norges institusjon for menneskerettigheter viser i sitt høringssvar til at utvalget ikke har
-kommentert om en tilståelse innebærer at innhenting av spyttprøve vil være uforholdsmessig. Institusjonen mener at en tilståelse bør inngå i vurderingen av om innhenting av spyttprøve er nødvendig og forholdsmessig, og at dette bør fremgå av
-forarbeidene.
-Barneombudet støtter forslag som i prinsippet
-kan redusere bruken av inngripende tiltak overfor
-barn og unge, og er enig i at innhenting av spyttprøve er et mildere inngrep enn innhenting av urineller blodprøve. Barneombudet viser til at hensynet
-til barnets beste, samt det faktum at barn har et
-sterkere integritetsvern enn voksne, skal veie tungt
-i forholdsmessighetsvurderingen, og mener at
-dette bør fremheves i lovforarbeidene.
-Norsk narkotikaforebyggende forening, Rogaland statsadvokatembeter og Vest politidistrikt støtter at mistenktes manglende medvirkning til at
-spyttprøve kan innhentes, skal vektlegges i vurderingen av om innhenting av urin- eller blodprøve
-
-[Side 66]
-
-64
-
-Prop. 112 L
-
-2024–2025
-
-Endringer i straffeloven og legemiddelloven mv. (befatning med mindre mengder narkotika til egen bruk)
-
-vil være et forholdsmessig inngrep. Vest politidistrikt er samtidig av den oppfatningen at selv om
-mistenkte nekter å medvirke til at spyttprøve kan
-innhentes, vil det i praksis være få brukersaker
-der det er forholdsmessig å beslutte at det skal
-innhentes urin- eller blodprøve med makt, spesielt
-overfor barn.
-Når det gjelder høringsinstansene som stiller
-seg negative til utvalgets forslag til lovregulering,
-er RIO – en landsdekkende brukerorganisasjon på
-rusfeltet av den oppfatningen at en adgang for politiet til å innhente spyttprøve vil innebære et uforholdsmessig stort inngrep i personvernet og
-bryte med grunnleggende menneskerettigheter
-og rettsprinsipper. Foreningen for human ruspolitikk mener at forslaget vil opprettholde diskriminering, stigmatisering og utenforskap for rusmiddelbrukere, og at mange rusmiddelbrukere vil
-oppleve innhenting av spyttprøve som mer inngripende enn innhenting av urin- eller blodprøve.
-Psynapse, Stiftelsen Kirkens Bymisjon og Tryggere
-Ungdom gir uttrykk for at de mener at forslaget vil
-åpne for uforholdsmessig tvangsmiddelbruk.
-Kompetansesenter for rusfeltet (KORUS) skriver i
-sitt høringssvar at det er helt unødvendig å påvise
-at en person er påvirket av rusmidler kun med formål å avdekke dette isolert sett, under henvisning
-til at det ikke er virksomt for å forebygge rus, og
-potensielt er skadelig. Foreningen Tryggere Ruspolitikk er av den oppfatningen at den foreslåtte ordningen med spyttprøver ikke i tilstrekkelig grad
-tar høyde for risikoen for positive prøveresultater
-som følge av passiv eksponering, og derfor er lite
-rettssikker. Det samme gjelder Tryggere Ungdom.
-Foreningen Tryggere Ruspolitikk er også kritisk
-til at det i vurderingen av om innhenting av urineller blodprøve er et forholdsmessig inngrep, skal
-legges vekt på om mistenkte har fått mulighet til å
-avgi spyttprøve. Foreningen mener at det er
-«uklart hvordan denne logikken er tenkt satt ut i
-live», og viser blant annet til at manglende samarbeid til innhenting av spyttprøve eller blodprøve
-kan være naturlig der mistenkte for eksempel har
-seksuelle traumer eller sprøyteskrekk. Også Tryggere Ungdom og Psynapse er kritiske til at det i vurderingen av om innhenting av urin- eller blodprøve er et forholdsmessig inngrep, skal legges
-vekt på om mistenkte har fått mulighet til å avgi
-spyttprøve. Psynapse mener at innhenting av urineller blodprøve ikke blir mindre inngripende av at
-mistenkte har fått mulighet til å avgi en spyttprøve
-først, og viser til at det kan være en rekke grunner
-til at en person ikke ønsker å medvirke til innhenting av spyttprøve.
-
-Helsedirektoratet gir uttrykk for at bruk av spyttprøver på stedet er en til dels upålitelig metode for
-å avdekke bruk av rusmidler, og at det fremstår
-som en unødvendig intervensjon som vil kunne
-øke mistilliten til politiet. Helsedirektoratet viser til
-at en spyttprøve kan oppleves som svært inngripende for mange, og mulig traumatiserende for de
-som har vært utsatt for eksempelvis seksuelle overgrep. Helsedirektoratet viser også til at bruk av
-spyttprøver innebærer «en betydelig risiko for falske positive prøveresultater», men underbygger
-ikke påstanden nærmere. Etter Helsedirektoratets
-syn veier ikke fordelene ved bruk av spyttprøver
-opp for de ulempene slik testing kan medføre. Helsedirektoratet anser det heller ikke som et nyttig
-tiltak for å bygge tillit og for å komme i konstruktiv
-dialog rundt bruk av rusmidler.
-Riksadvokaten har et innspill til utvalgets
-uttalelser i NOU 2024: 12 punkt 12.5.6 side 212 om
-behovet for å unngå at en type lovbrudd «nærmest
-blir reelt (de facto) avkriminalisert fordi effektive
-etterforskningsmetoder ikke er tilgjengelige»:
-«Når det gjelder utvalgets uttalelse om behovet for å unngå at en type lovbrudd ‘nærmest
-blir reelt (de facto) avkriminalisert fordi effektive etterforskingsmetoder ikke er tilgjengelige’, vil riksadvokaten bemerke at dette klart
-nok ikke er en rimelig karakteristikk av
-någjeldende betingelser for håndhevelse av
-legemiddelloven § 31, jf. § 24 første ledd, eller
-straffeloven § 231. En viser blant annet til at
-det i 2022 var registrert henholdsvis 8.218 og
-5.943 anmeldelser for denne typen lovbrudd
-(se side 114 i utredningen). Rusmiddellovbrudd inngår stadig som en av de tallmessig
-sentrale grupper av lovbrudd i kriminalstatistikken, og overtredelsene av legemiddelloven
-og straffeloven § 231 utgjør en betydelig del
-av denne gruppen. Som påpekt av utvalget
-(side 117–118) har gruppen rusmiddellovbrudd en høy oppklaringsprosent. Mens den
-generelle oppklaringsprosenten som kjent
-har falt til 43 %, er oppklaringsprosenten for
-rusmiddellovbrudd hele 74 %.»
-Riksadvokaten viser videre til utvalgets uttalelser
-om at «uten en mulighet for prøvetaking, vil bruk
-av narkotika lett enten bli reelt (de facto) avkriminalisert eller bare innebære et straffansvar for
-personer som tilstår», og at «det første undergraver kriminaliseringen, mens det siste innebærer
-en uakseptabel forskjellsbehandling». Til dette
-bemerker riksadvokaten:
+## Departementets vurderinger
+
+### Overordnet om reaksjonsordningen
+
+Departementet foreslår en lovregulering av reaksjonsfastsettelsen ved rusmiddelavhengiges befatning med mindre mengder narkotika til egen bruk, plassert i legemiddelloven § 31 andre ledd andre punktum. Etter departementets syn er det behov for å klargjøre innholdet i reaksjonsordningen som ble etablert gjennom Høyesteretts praksis i 2021, se punkt 5.1.2, og å gjøre enkelte justeringer i ordningen for å ivareta viktige samfunnsinteresser. Dette gjelder blant annet avgrensningen av hvem som skal anses rusmiddelavhengig i rettslig forstand, og hvilket beviskrav som gjelder i dette spørsmålet (punkt 5.6.2). Ordningen reiser også andre spørsmål som det er grunn til at lovgiver vurderer, blant annet om personer under 18 år bør unntas fra ordningen for å sikre at barns rusmiddelbruk blir avdekket og at det gis reaksjoner som motvirker videre utvikling av rusmiddelproblemer (punkt 5.6.3).
+
+Det er i norsk rett i liten grad tradisjon for lov- eller forskriftsregulering av reaksjonsfastsettelsen i bestemte sakstyper. Dette er i høringen nevnt av blant andre riksadvokaten som et argument for at reaksjonsfastsettelsen for rusmiddelavhengige ikke bør lovreguleres. Etter departementets syn er det spesielle hensyn som taler for en lovregulering i dette tilfellet, hvor det er tale om en særlig reaksjonsordning for en bestemt persongruppe som skal særbehandles ved overtredelser av legemiddelloven § 31 andre ledd, jf. § 24, nemlig de rusmiddelavhengige. En lovfesting av reaksjonsordningen vil etter departementets syn skape forutberegnelighet og legge til rette for at ordningen kan praktiseres etter intensjonen.
+
+Departementet foreslår at reaksjonsordningen for rusmiddelavhengige skal avgrenses til lovbrudd som faller inn under den nye straffebestemmelsen i legemiddelloven § 31 andre ledd, jf. § 24. Dette innebærer at ordningen vil gjelde for rusmiddelavhengiges bruk av narkotika, samt for rusmiddelavhengiges erverv og oppbevaring av mindre mengder narkotika til egen bruk. Ved slike lovbrudd skal det etter forslaget normalt reageres med ubetinget påtaleunnlatelse eller straffutmålingsfrafall. Dette er i samsvar med Rushåndhevingsutvalgets forslag. At det «normalt» skal reageres med ubetinget påtaleunnlatelse eller straffutmålingsfrafall, innebærer at regelen ikke er absolutt, og at det i unntakstilfeller kan fastsettes en annen reaksjon etter en konkret vurdering av hva som vil være en riktig reaksjon utfra straffens formål.
+
+Vernet av privatlivet etter Grunnloven § 102 og EMK artikkel 8 er omtalt i punkt 5.2.1. Departementet legger til grunn at reaksjonsordningen for rusmiddelavhengige etter gjeldende rett er forenlig med vernet av privatlivet, slik også Høyesterett la til grunn i HR-2022-731-A. De presiseringene og justeringene som foreslås i ordningen, vil etter departementets syn ikke endre denne vurderingen. Grunnloven § 98 fastslår at «\[a\]lle er like for loven», og at «\[i\]ntet menneske må utsettes for usaklig eller uforholdsmessig forskjellsbehandling». Departementet bemerker at likhetsprinsippet ikke er til hinder for at det ved reaksjonsfastsettelsen legges vekt på individuelle omstendigheter, og at lovgivningen opererer med en særskilt reaksjonsordning for rusmiddelavhengige. Spørsmålet er behandlet i HR-2022-731-A avsnitt 53–56 og er drøftet av Rushåndhevingsutvalget i NOU 2024: 12 punkt 6.2.5.
+
+### Avgrensning til personer med rusmiddelavhengighet
+
+#### Hvem bør omfattes av reaksjonsregelen?
+
+Det er i punkt 5.1.2 redegjort for at Høyesterett bare i begrenset grad har utpenslet innholdet i det rettslige begrepet «rusavhengig», særlig når det gjelder den nedre grensen for begrepet. Rushåndhevingsutvalget har ikke gått nærmere inn på avgrensningen etter gjeldende rett og har heller ikke foreslått noen presis avgrensning av begrepet. Utvalgets forslag legger i stedet opp til at begrepet rusmiddelavhengig skal være en rettslig standard, og at de nærmere nyansene skal utvikles gjennom rettspraksis.
+
+Etter departementets syn er det behov for en klargjøring og presisering av hvilke personer som skal være omfattet av reaksjonsordningen for rusmiddelavhengige. Forutberegnelighet om virkeområdet for reaksjonsordningen er viktig både for befolkningen og for håndhevende myndigheter. Departementet mener at reaksjonsordningen ikke bør gjelde for enhver person med rusmiddel-avhengighet i medisinsk forstand. Departementet foreslår at reaksjonsordningen skal være forbeholdt personer med en omfattende og langvarig rusmiddelbruk og med en livsstil og helsesituasjon som preges av bruk av ulovlige rusmidler. Hvorvidt en lovbryter har rusmiddelproblemer av en slik alvorlighetsgrad, skal etter forslaget bero på en konkret helhetsvurdering hvor flere momenter vil ha betydning. Departementet tar utgangspunkt i følgende momenter som Rushåndhevingsutvalget har fremhevet som sentrale, og som også må anses relevante etter gjeldende rett: omfanget av rusmiddelbruken, hvilken type rusmiddel avhengigheten gjelder, inntaksmåte for rusmiddelet og lovbryterens funksjonsevne og generelle livssituasjon. Oppregningen av momenter skal ikke anses som uttømmende. I motsetning til utvalget mener departementet at det ikke er behov for å liste opp momentene i lovteksten. De ulike momentene er nærmere omtalt i spesialmerknaden til legemiddelloven § 31.
+
+I vurderingen av hvordan reaksjonsordningen bør avgrenses, har departementet tatt utgangspunkt i begrunnelsen for dagens reaksjonsordning for rusmiddelsavhengige, som ble etablert gjennom Høyesteretts avgjørelser. I HR-2022-731-A ble det gitt følgende begrunnelse for at vilkårene for straffutmålingsfrafall etter straffeloven § 61 var oppfylt (avsnitt 63):
+
+«Uttrykket ‘helt særlige grunner’ tilsier at bestemmelsen er forbeholdt et fåtall tilfeller hvor det foreligger helt spesielle forhold. A er i utgangspunktet ikke et slikt tilfelle; tvert om finnes det et betydelig antall misbrukere i en tilsvarende situasjon som ham. Men han oppfyller langt på vei kriteriene i andre ledd. For rusavhengige kan straff for befatning med mindre mengder narkotika til egen bruk virke som en urimelig tilleggsbelastning, noe som også er bakgrunnen for forslaget om en rusreform og Stortingets lovgiversignaler. Og det tverrpolitiske flertallet på Stortinget mener at det er lite hensiktsmessig å straffe disse misbrukerne for slike narkotikalovbrudd. Hensynet til straffens formål og virkninger tilsier altså ikke at det utmåles en reaksjon.»
+
+Høyesterett mente altså at straff overfor rusmiddelavhengige for befatning med mindre mengder narkotika til egen bruk er «lite hensiktsmessig», og at straff kan «virke som en urimelig tilleggsbelastning» for denne gruppen. Vurderingen av begge disse hensynene er forankret i lovgiversignalene fra Stortingets behandling av Solberg-regjeringens forslag til rusreform i Innst. 612 L (2020–2021).
+
+Når Høyesterett gir uttrykk for at straff er lite hensiktsmessig, synes dette å sikte til at straffens individualpreventive virkning ikke slår til på samme måte når lovbryteren er rusmiddelavhengig. Om dette uttales det i avsnitt 60–61:
+
+«Lagmannsretten har idømt betinget fengsel, men har selv fremhevet betenkelighetene. Jeg slutter meg til denne vurderingen i lagmannsrettens dom:
+
+‘Lagmannsretten ser enkelte betenkeligheter ved å anvende betinget fengsel i en sak som denne, ikke minst sett i lys av formålet med lovforslaget som er beskrevet ovenfor. Det er nettopp den rusavhengiges stadige tilbakefall til rus – som sykdom – som utgjør et bærende hensyn ved en endret straffutmålingspraksis. I slike tilfeller er det høy sannsynlighet for at den betingede straffen vil komme til soning, idet det nærmest er å forvente at siktede i prøveperioden for den betingede straffen på nytt vil begå nye og tilsvarende straffbare forhold. Den betingede fengselsstraffens preventive effekt som «ris bak speilet» vil ikke slå til i slike saker.’
+
+Ut fra de hensyn som er fremhevet her, ser jeg det som lite hensiktsmessig å idømme betinget fengsel i et tilfelle som i vår sak.»
+
+Departementet legger på tilsvarende måte til grunn at ordningen bør omfatte personer som har så alvorlige rusmiddelproblemer at strafferettslige reaksjoner må antas å ha begrenset preventiv virkning. Hvor langt begrunnelsen om manglende individualpreventiv virkning rekker, er imidlertid ikke opplagt. Etter departementets syn er det neppe grunnlag for å si at strafferettslige reaksjoner generelt ikke kan ha individualpreventiv virkning overfor personer med rusmiddelavhengighet, som er en uensartet gruppe med ulike grader av utfordringer. For sammenhengens skyld nevner departementet at det også finnes strafferettslige reaksjoner som nettopp er ment å ha individualpreventiv virkning overfor personer med rusmiddelproblemer, i den forstand at reaksjonen er ment å forebygge fortsatt rusmiddelbruk og bidra til at lovbryteren rehabiliteres. Departementet nevner i denne forbindelse narkotikaprogram med domstolskontroll, jf. straffeloven § 37 første ledd bokstav f og forskrift om narkotikaprogram med domstolskontroll. Rusmiddelavhengige som begår gjentatte narkotikaovertredelser, er i kjerneområdet av målgruppen for denne reaksjonen. Narkotikaprogram med domstolskontroll vil imidlertid i liten grad være aktuelt ved befatning med mindre mengder narkotika til egen bruk, hvor det alminnelige straffenivået i all hovedsak vil være bot, og hvor sakene bare unntaksvis vil bringes inn for domstolene.
+
+En aktuell reaksjon ved befatning med mindre mengder narkotika til egen bruk vil være særvilkår om å møte ved rådgivende enhet for russaker etter straffeloven § 37 første ledd bokstav j, se punkt 4.9.3. Særvilkåret kan settes både som vilkår for betinget dom og ved betinget påtaleunnlatelse etter straffeprosessloven § 69 andre og tredje ledd. Hjemmelen for å sette særvilkår om å møte ved rådgivende enhet for russaker trådte i kraft 1. juli 2022 og var dermed ikke aktuell da Høyesterett behandlet HR-2022-731-A. Det at en slik reaksjon er tilgjengelig i dag, må etter departementets syn tas i betraktning når man vurderer hvilke grupper som bør være omfattet av regelen om at rusmiddelavhengige normalt skal møtes med ubetinget påtaleunnlatelse eller straffutmålingsfrafall. Departementet legger til grunn at særvilkår om oppmøte ved enhetene kan ha en viss individualpreventiv virkning overfor enkelte rusmiddelavhengige i alle fall i tilfeller hvor lovbryteren ikke allerede har et etablert forhold til helsevesenet og hjelpeapparatet forøvrig. Departementet viser til at anslag over antallet personer med rusmiddellidelser ligger langt høyere enn antallet personer som faktisk mottar behandling for slike lidelser, se NOU 2024: 12 punkt 5.3 side 79–80. Det er grunn til å tro at det overfor en del personer som oppfyller kriteriene for en avhengighetsdiagnose, kan ha en hensikt å ilegge et særvilkår om oppmøte ved rådgivende enhet for rus-saker.
+
+Når det gjelder personer med omfattende og alvorlige rusmiddelproblemer, er det etter departementets syn generelt grunn til å være mer tvilende til den individualpreventive virkningen av å sette særvilkår om oppmøte ved rådgivende enhet. For denne gruppen vil et pålegg om oppmøte kunne være en større belastning enn den nytten møtet kan ha. Departementet viser i denne sammenheng til Rusreformutvalgets uttalelser om rusmiddelavhengige burde kunne pålegges å møte ved enhetene (NOU 2019: 26 punkt 16.3.2.2 side 334):
+
+«For personer som har, eller anses å kunne ha, en avhengighetstilstand, og som følge av det bruker narkotika med høy hyppighet, vil det kunne være uforholdsmessig å kreve en oppfyllelse av møteplikt hver gang vedkommendes narkotikabruk blir avdekket. Å møte til timer, enten det er hos fastlege, sosialtjeneste eller andre offentlige tjenester, kan være utfordrende i seg selv for mennesker som lever kaotiske liv, og som mangler stabile rammer. Et krav om å oppfylle møteplikten i slike tilfeller kan bidra til å øke presset i en livssituasjon som allerede oppleves som uoversiktlig og problematisk, i tillegg til at det også fremstår som uhensiktsmessig bruk av enhetens ressurser.»
+
+Også den andre delen av Høyesteretts begrunnelse, nemlig at straff vil være en «urimelig tilleggsbelastning», gjør seg etter departementets syn særlig gjeldende der lovbryteren har omfattende og alvorlige rusmiddelproblemer. Dette er en gruppe som ofte er sosialt marginalisert, har en livsstil preget av narkotikabruk og begrensede økonomiske muligheter til å betale en bot. Selv om bøtesoning normalt ikke er aktuelt ved manglende betalingsevne, jf. straffeprosessloven § 456 andre ledd, vil det å bli utsatt for en inndrivingsprosess kunne være en urimelig tilleggsbelastning for personer med slike utfordringer. Denne gruppen vil ofte være avhengige av opioider, herunder heroin, hvor det etter dagens straffenivå vil kunne være aktuelt med fengselsstraff for befatning med mindre mengder stoff, se punkt 4.1.2. For personer med omfattende og alvorlige rusmiddelproblemer vil straff dermed i ytterste konsekvens kunne innebære soning av en fengselsstraff, noe som betyr at det for denne gruppen vil ha relativt stor betydning å være omfattet av reaksjonsordningen.
+
+For personer med relativt sett mindre alvorlige rusmiddelproblemer er det etter departementets syn ikke samme grunnlag for å trekke generelle slutninger om at straff nødvendigvis vil innebære en urimelig tilleggsbelastning. Som Rushåndhevingsutvalget påpeker, er det betydelig variasjon mellom tilfeller som oppfyller de diagnostiske kriteriene for rusmiddelavhengighet, både når det gjelder den konkrete alvorligheten av tilstanden og den enkelte rusmiddelavhengiges livssituasjon og hjelpebehov. Utvalget har blant annet fått innspill fra Senter for rus- og avhengighetsforskning (SERAF) ved Universitetet i Oslo, som utvalget refererer slik (NOU 2024: 12 punkt 10.2.4 side 135):
+
+«*SERAF* viser til at rusavhengighet som medisinsk begrep er ment som hjelpebegrep for å utløse rettigheter til formalisert rusbehandling, og som utgangspunkt for å kategorisere tilstanden og dermed gi rett type behandling til rett person. Avhengighetsbegrepet er relativt, med store forskjeller mellom ulike tilfeller innenfor samme diagnose. Det vises til at 30 000 personer årlig i Norge mottar behandling for ruslidelser i spesialisthelsetjenesten, og blant disse er 8000 personer i legemiddelassistert rehabilitering (LAR) for opioid avhengighetslidelse. Tallene underbygger poenget om at det er betydelig variasjon innenfor avhengighetslidelsene, både i alvorlighetsgrad og i det individuelle hjelpebehovet. Diagnosen er ikke ment for – og passer ikke til – å bli brukt i en strafferettslig sammenheng som avgjørende kriterium for hvilken samfunnsmessig reaksjon som skal gis.»
+
+Oppsummert mener departementet at hensynet til straffens formål og virkninger taler for å avgrense reaksjonsordningen til personer med omfattende og langvarig rusmiddelbruk og med en livsstil og helsesituasjon som preges av bruk av ulovlige rusmidler. Etter departementets syn er det først og fremst overfor denne gruppen det er grunn til å anta at strafferettslige reaksjoner ikke vil ha en individualpreventiv effekt, og at det samtidig generelt må antas at følbare strafferettslige reaksjoner for befatning med mindre mengder narkotika til egen bruk vil innebære en urimelig tilleggsbelastning.
+
+Uten at det er avgjørende for vurderingen, vil departementet nevne at en slik avgrensning også vil være klargjørende for håndhevingen av ordningen. Overfor rusmiddelavhengige som er omfattet av reaksjonsordningen, skal politiet normalt ikke iverksette etterforskning for befatning med mindre mengder narkotika til egen bruk, jf. straffeprosessloven §§ 62 a og 224 og riksadvokatens brev 13. mai 2022. Tilsvarende vil terskelen for å benytte tvangsmidler i etterforskningen av et slikt lovbrudd gjennomgående være betydelig høyere der reaksjonen normalt skal være ubetinget påtaleunnlatelse eller straffutmålingsfrafall. Ofte vil det heller ikke være grunn for politiet til å prioritere å gjennomføre ressurskrevende etterforskningsskritt for å avklare en anførsel om rusmiddelavhengighet ved slike lovbrudd. Hvis ordningen begrenses til personer med rusmiddelproblemer av et visst alvor og omfang, antar departementet at det i de fleste saker vil være forholdsvis enkelt for politiet å ta stilling til om vilkåret er oppfylt.
+
+Departementet viser også til den danske reaksjonsordningen for rusmiddelavhengige, som er beskrevet over i punkt 5.3.2. Denne ordningen innebærer at rusmiddelavhengige skal gis «tiltalefrafald» ved befatning med mindre mengder narkotika til egen bruk når sosiale forhold taler for det og befatningen skyldes en sterk avhengighet av «hårde stoffer» som følge av et lengre og vedvarende misbruk av slike stoffer. Begrunnelsen for den danske regelen er at sterkt rusmiddelavhengige er en særlig utsatt gruppe, at individualpreventive hensyn ikke gjør seg gjeldende på samme måte for denne gruppen, og at det er behov for særlige tiltak for å sikre verdigheten til disse personene.
+
+#### Valg av ordlyd – «omfattende og alvorlig rusmiddelproblem»
+
+Departementet har i punkt 5.6.2.1 foreslått at reaksjonsordningen skal forbeholdes personer med en omfattende og langvarig rusmiddelbruk og med en livsstil og helsesituasjon som preges av bruk av ulovlige rusmidler. Spørsmålet i dette punktet er hvordan denne persongruppen skal rammes inn i lovteksten. Departementet vil innledningsvis bemerke at det er tale om å fastsette et rettslig begrep, og ikke å angi en medisinsk diagnose. Hvorvidt en person oppfyller vilkårene i reaksjonsordningen, er et rettslig spørsmål som i prinsippet skiller seg fra medisinske vurderinger. Flere høringsinstanser har uttrykt bekymring for at politiet og påtalemyndigheten skal diagnostisere avhengighet, og har påpekt at myndighetene ikke har kompetanse eller forutsetninger til å foreta en slik vurdering. Departementet vil understreke at forslaget ikke innebærer at politiet eller påtalemyndigheten skal foreta medisinske vurderinger, men at det er tale om ordinær rettsanvendelse.
+
+For å tydeliggjøre at lovens vilkår er et rettslig begrep, kan det være aktuelt å velge en formulering som ikke sammenfaller med medisinsk fagterminologi. I Høyesteretts avgjørelser og riksadvokatens retningslinjer benyttes «rusavhengig», noe som korresponderer med medisinsk begrepsbruk. Dette kan bidra til et uriktig inntrykk av at det rettslige begrepet samsvarer med det medisinske begrepet. Uttalelser fra høringsinstanser som er negative til at politiet og påtalemyndighet skal stille medisinske diagnoser, kan tyde på at denne begrepsbruken har skapt en usikkerhet hos publikum. Organisasjonen *Actis – Rusfeltets samarbeidsorgan* er inne på dette i sin høringsuttalelse:
+
+«Utvalget bruker ordet ‘rusmiddelavhengig’. Vi mener dette kan føre til unødvendige problemer i rettsapparatet fordi avhengighet er en medisinsk diagnose som kun kan stilles av kvalifisert helsepersonell. Bruker man imidlertid en annen type definisjon, som for eksempel ‘person med betydelige rusutfordringer’ favner man samme gruppe mennesker, men uten å måtte gå veien om en diagnose. Det vil også kunne gi domstolene mulighet til å utvise en bredere skjønnsutøvelse.»
+
+Departementet bemerker at problemstillingen har en parallell til endringene i straffeloven som ble gjort ved lov 21. juni 2019 nr. 48 om endringer i straffeloven og straffeprosessloven mv. (skyldevne, samfunnsvern og sakkyndighet), der utilregnelighetstilstanden «psykotisk» ble endret til «sterkt avvikende sinnstilstand», se Prop. 154 L (2016–2017) *om endringer i straffeloven og straffeprosessloven mv. (skyldevne, samfunnsvern og sakkyndighet)* og Innst. 296 L (2018–2019) *om endringer i straffeloven og straffeprosessloven mv. (skyldevne, samfunnsvern og sakkyndighet)*. En viktig begrunnelse for endringen var at lovteksten burde trekke et skarpere skille mellom medisinske og rettslige begreper.
+
+Etter departementets syn bør det i lovteksten benyttes en formulering som tydeliggjør at det er tale om et rettslig vilkår som ikke sammenfaller med en medisinsk diagnose. Departementet har vurdert ulike alternativer, herunder begrepene som benyttes i den danske reaksjonsordningen for personer med sterk avhengighet. Departementet har i lovforslaget valgt å benytte formuleringen «omfattende og alvorlig rusmiddelproblem». Formuleringen er ment å markere en kvalifisering i forhold til det medisinske avhengighetsbegrepet. Det er videre ment å gi uttrykk for at det ikke bare er styrken og varigheten av avhengigheten som er relevant, men at det må foretas en bredere vurdering hvor også avhengighetens innvirkning på personens funksjonsevne og øvrige livssituasjon har betydning. Det vises til spesialmerknaden til legemiddelloven § 31 for en nærmere redegjørelse for momentene som inngår i vurderingen av om det foreligger et «omfattende og alvorlig rusmiddelproblem».
+
+#### Beviskravet for rusmiddelavhengighet
+
+Beviskravet for å legge til grunn at en person er rusmiddelavhengig, må i dag anses som uavklart, se punkt 5.1.2. Uskyldspresumsjonen etter Grunnloven § 96 og EMK artikkel 6 nr. 2 antas ikke å stille krav til bevisets styrke når det gjelder omstendigheter som utelukkende har betydning for reaksjonsfastsettelsen, se punkt 5.2.2. I notatet vedlagt riksadvokatens brev 13. mai 2022 er det antatt at det bør kreves noe mer enn sannsynlighetsovervekt for å legge til grunn at en person *ikke* er rusmiddelavhengig, dersom spørsmålet er reist i saken. Departementet foreslår at dette skal legges til grunn som beviskravet for vilkåret om «omfattende og alvorlig rusmiddelproblem» etter den foreslåtte reaksjonsordningen for rusmiddelavhengige. Etter departementets syn er det ikke behov for at beviskravet kommer til uttrykk i lovbestemmelsen.
+
+Departementet følger dermed ikke utvalgets forslag om at det skal kreves noe mer enn sannsynlighetsovervekt for å legge til grunn at mistenkte *er* rusmiddelavhengig. Utvalget har ikke gitt noen nærmere begrunnelse for sitt forslag. Departementet antar at forslaget kan ha sammenheng med at utvalget ikke går nærmere inn på den nedre grensen for rusmiddelavhengighet, og at utvalget ser ut til å legge til grunn at en diagnose om rusmiddelavhengighet vanligvis vil være tilstrekkelig til å bli ansett rusmiddelavhengig i rettslig forstand. Når departementet nå foreslår at ordningen skal forbeholdes personer med et omfattende og alvorlig rusmiddelproblem, se punkt 5.6.2, ville utvalgets forslag til beviskrav innebære en risiko for at personer som reelt sett oppfyller vilkåret, ikke fanges opp av ordningen. Dette vil være uheldig og ikke i tråd med formålet med lovendringene, noe som også er påpekt av Norges institusjon for menneskerettigheter i høringen.
+
+Hvorvidt en person er rusmiddelavhengig, har også betydning for forholdsmessigheten ved etterforskningen og eventuell tvangsmiddelbruk, og får derfor betydning også for politiets førstelinje. Departementet vil presisere at politiet og påtalemyndigheten i mangel av andre holdepunkter kan legge til grunn at mistenkte ikke er rusmiddelavhengig. Dette gjelder både under etterforskningen og ved saksavgjørelsen. Standpunktet er i tråd med både Rushåndhevingsutvalgets uttalelser og riksadvokatens direktiver i brev 13. mai 2022. Det innebærer at det i utgangspunktet må være opp til mistenkte selv å gjøre rusmiddelavhengighet gjeldende dersom det skal bli hensyntatt. Spesielle forhold ved saken kan likevel gi foranledning til å undersøke nærmere om det foreligger rusmiddelavhengighet, også der det ikke er påberopt. Det nevnes også at politiet etter omstendighetene bør veilede mistenkte om reaksjonsordningen for rusmiddelavhengige, se punkt 5.6.7.
+
+At mistenkte gjør gjeldende å være rusmiddelavhengig, vil på den andre siden ikke i seg selv være avgjørende for om dette skal legges til grunn i vurderingene om å iverksette etterforskning og å anvende tvangsmidler. Noe annet ville innebære at mistenkte i stor grad selv kan påvirke muligheten til å bruke tvangsmidler. Politiet må nødvendigvis kunne basere sine vurderinger på observasjoner og enkle undersøkelser som kan gjøres på stedet. På bakgrunn av at det foreslås at reaksjonsordningen skal være forbeholdt personer med et omfattende og alvorlig rusmiddelproblem, antar departementet at det i de fleste saker vil være forholdsvis enkelt å ta stilling til om vilkåret er oppfylt.
+
+Utvalget har gitt uttrykk for at det ofte ikke vil være grunn til å bruke etterforskningsressurser på å avklare om mistenkte er rusmiddelavhengig, og at grunnlaget for reaksjonsvalget i hovedsak vil være mistenktes egne opplysninger og den informasjon om mistenkte som politiet har fra før, se NOU 2024: 12 punkt 10.6.4.2 side 167. Departementet presiserer at det i tvilstilfeller vil være mulig for politiet å foreta visse undersøkelser for å avklare om mistenkte er rusmiddelavhengig. Aktuelle etterforskningsskritt kan være å innhente opplysninger fra helsevesenet og kommunale sosialtjenester (etter samtykke fra mistenkte) og å innhente opplysninger om inntekts- og skatte-forhold, tidligere straffesaker mv. Mistenkte har ingen plikt til å medvirke til slik informasjonsinnhenting. I tråd med vanlige prinsipper for bevisvurderingen vil det likevel etter omstendighetene kunne ha betydning hvorvidt siktede har bidratt til å opplyse saken.
+
+### Avgrensning mot personer under 18 år
+
+Departementet foreslår, i tråd med Rushåndhevingsutvalgets forslag, at personer under 18 år skal holdes utenfor den foreslåtte reaksjonsordningen for rusmiddelavhengige. Utvalget viser til at barn med rusmiddelproblemer normalt ikke vil oppfylle kriteriene for å bli ansett som rusmiddelavhengige i medisinsk forstand, se NOU 2024: 12 punkt 10.7.5.3 og redegjørelsen for kriteriene for avhengighetssyndrom etter ICD-10 i NOU 2024: 12 punkt 5.2.2 side 78. Når departementet i tillegg går inn for at ordningen bare skal gjelde for personer med et omfattende og alvorlig rusmiddelproblem, se punkt 5.6.2, innebærer det at det sjelden vil være aktuelt at en person under 18 år oppfyller dette vilkåret. Det kan likevel ikke utelukkes at vilkåret ville kunne vært oppfylt i enkeltsaker hvor lovbryteren er under 18 år.
+
+Formålet med reaksjonsordningen er likevel å sikre at personer med omfattende og alvorlige rusmiddelproblemer møtes med hjelp i stedet for straff. Begrunnelsen for ordningen er at det er snakk om en alvorlig sykdomstilstand som innebærer at tradisjonell straff ikke fungerer på individuelt nivå, og at straff innebærer en urimelig tilleggsbelastning, se punkt 5.6.2. I utgangspunktet gjør dette seg gjeldende også når den rusmiddelavhengige er et barn, slik Oslo politidistrikt har påpekt i sin høringsuttalelse. For departementet er det imidlertid vesentlig at det overfor barn normalt ikke skal benyttes tradisjonell straff i form av bøter eller fengsel, men at det skal reageres med alternative straffereaksjoner som har til formål å hindre barnet i å begå nye lovbrudd. Dette innebærer at begrunnelsen for reaksjonsordningen for rusmiddelavhengige slår noe annerledes ut for barn enn for voksne.
+
+Særlige hensyn gjør seg gjeldende når det gjelder barns narkotikabruk. Etter barnekonvensjonen artikkel 33 har staten plikt til å beskytte barn mot ulovlig bruk av narkotika. Barn i konflikt med loven har på den andre siden også særlige rettigheter etter barnekonvensjonen og nyter et større integritetsvern enn voksne, se punkt 3.4. Barns rett til helse er også sikret et særskilt vern etter barnekonvensjonen. Etter departementets syn er det helt sentralt at barn med rusmiddelproblemer sikres tilgang til hjelp og helsetjenester. Dette ivaretas primært av andre aktører i samfunnet, som for eksempel barnevernet som har hjemmel for tiltak overfor barn med rusproblemer. Etter departementets syn er imidlertid også bruk av alternative strafferettslige reaksjoner relevante tiltak for å hindre at barn utvikler ytterligere rusmiddelproblemer. Som beskrevet i punkt 4.9.3 foreslår departementet at betinget påtaleunnlatelse med vilkår om oppmøte ved rådgivende enhet for russaker skal være normalreaksjonen overfor personer under 18 år som har hatt befatning med mindre mengder narkotika til egen bruk. Dette er en reaksjon som vil bidra til at barnet får informasjon om viktige helsespørsmål knyttet til sin rusmiddelbruk, og som er egnet til å sikre at barnet får støtte og helsehjelp. Hvis et barn har mer sammensatte utfordringer, kan det etter forholdene også være aktuelt med ungdomsoppfølging i konfliktrådet, som vil sikre en bredere oppfølging av ungdommens livssituasjon, se punkt 4.9.3.
+
+Det at personer under 18 år holdes utenfor reaksjonsordningen for rusmiddelavhengige, er etter departementets syn forenlig med uttalelsene fra FNs barnekomité om at statene bør unngå kriminalisering av handlinger som bare er straffbare når de begås av barn («status offences»), samt uttalelsene i FNs retningslinjer om forebygging av ungdomskriminalitet, se punkt 3.4. Befatning med narkotika til egen bruk vil være straffbart for alle, og kan føre til en strafferettslig reaksjon for rusmiddelavhengige både over og under 18 år. Departementet erkjenner imidlertid at forslaget innebærer at personer under 18 år som har et «omfattende og alvorlig rusmiddelproblem», vil kunne få en mer følbar strafferettslig reaksjon enn voksne i samme situasjon. Begrunnelsen for denne forskjellsbehandlingen er likevel at de aktuelle reaksjonene for personer under 18 år vil være reaksjoner som har som formål å forebygge videre rusmiddelbruk og sikre barnet informasjon og tilgang til helsetjenester, normalt i form av en betinget påtaleunnlatelse med særvilkår om oppmøte ved rådgivende enhet for russaker, se punkt 4.9.3. Departementet mener derfor at en slik forskjellsbehandling ved reaksjonsfastsettelsen, som også har en side til hensynet til barnets beste og Norges forpliktelse til å beskytte barnet mot ulovlig bruk av narkotika etter barnekonvensjonen artikkel 33, er velbegrunnet.
+
+Departementet er på denne bakgrunnen enig med de høringsinstansene som støtter at personer under 18 år skal være unntatt fra reaksjonsordningen for rusmiddelavhengige. Departementet påpeker at politiets avdekking av ungdoms narkotikabruk har en sentral betydning for samfunnets mulighet til å ta tak i og arbeide med ungdommers rusmiddelproblemer. Ved at ungdom unntas fra reaksjonsordningen, tydeliggjøres det også at politiet skal kunne arbeide for å avdekke barns narkotikabruk, og at det overfor denne gruppen er mindre avgjørende for politiets etterforskningsadgang hvorvidt ungdommen er rusmiddelavhengig eller ikke. Om reaksjonsfastsettelsen overfor ungdom med rusmiddelproblemer vises det til punkt 4.9.3.3.
+
+### Befatning med narkotika utover mengdegrensene
+
+Befatning med narkotika i mengder som overstiger de etablerte mengdegrensene for egen bruk etter legemiddelloven § 31 andre ledd, skal etter departementets forslag straffes som alminnelig narkotikaovertredelse etter § 231. Etter forslaget kommer da den foreslåtte reaksjonsbestemmelsen overfor rusmiddelavhengige heller ikke til anvendelse. Det er imidlertid klart at det også utenfor virkeområdet til den nye straffebestemmelsen i legemiddelloven vil ha betydning for reaksjonsfastsettelsen dersom lovbryteren er rusmiddelavhengig og lovbruddet gjelder befatning med narkotika til egen bruk. Dette følger av gjeldende rett, jf. HR-2022-2120-A med videre henvisninger. Betydningen avtar etter hvert som mengden øker, se redegjørelsen for dette i NOU 2024: 12 punkt 10.5.10 side 158–160.
+
+Da Høyesterett i avgjørelsene fra 8. april 2022 etablerte en særskilt reaksjonsordning for rusmiddelavhengige ved befatning med mindre mengder narkotika til egen bruk, ble det også gitt uttalelser om reaksjonsfastsettelsen overfor rusmiddelavhengige ved befatning med mengder som i beskjeden grad overstiger mengdegrensene. I HR-2022-732-A avsnitt 15–18 uttales følgende:
+
+«\[…\] når reaksjonsfastsettelsen nå legges markert om for kvanta under fem gram, må det få innflytelse på straffastsettelsen også for noe større stoffmengder. Reaksjonene bør stå i rimelig forhold til hverandre slik at det ikke blir for stort sprang mellom mengder under og over den veiledende grensen på fem gram.
+
+Etter min oppfatning vil det på denne bakgrunn være for strengt, slik aktor har tatt til orde for, å ta utgangspunkt i ubetinget fengsel når det som her er tale om en nokså liten mengde over den veiledende grensen. Samtidig er det grunn til å markere at reaksjonen – på grunn av den økte spredningsfaren – vil være klart strengere ved befatning med stoffmengder over grensen.
+
+\[…\] Jeg er etter dette blitt stående ved at for rusavhengiges befatning med heroin til egen bruk som i beskjeden grad overstiger den veiledende grensen, bør utgangspunktet for straffutmålingen heretter være en kort betinget fengselsstraff.»
+
+I den aktuelle saken ble 6,69 gram heroin ansett å være en beskjeden overskridelse av mengdegrensen, og det ble idømt en betinget fengselsstraff. Riksadvokaten har i brev 13. mai 2022 uttalt at inntil nærmere avklaring foreligger fra domstolene, kan det legges til grunn at mengder inntil det dobbelte av de veiledende mengdegrensene skal anses som en beskjeden overskridelse.
+
+Når departementet nå gir anvisning på lavere mengdegrenser enn de som gjelder i dag, se punkt 4.6.3, oppstår det spørsmål om hva dette innebærer for mengder som i beskjeden grad overstiger disse. Departementet finner det riktig å videreføre regelen om at rusmiddelavhengige skal møtes med en kort betinget fengselsstraff ved beskjeden overskridelse av mengdegrensene. Departementet finner det videre hensiktsmessig at den øvre grensen for hva som anses som en beskjeden overskridelse, skal ta utgangspunkt i det dobbelte av mengdegrensene som til enhver tid gjelder. Dette innebærer at den øvre grensen for hvilke mengder som vil være en beskjeden overskridelse av mengdegrensene, vil være lavere enn i dag som følge av de lavere mengdegrensene departementet har gitt anvisning på.
+
+Departementet presiserer at dette ikke er til hinder for at det alminnelige straffenivået fravikes etter en konkret vurdering, i tråd med de alminnelige prinsippene for reaksjonsfastsettelsen, jf. også reglene i straffeloven kapittel 14. Ved reaksjonsfastsettelsen overfor personer med rusmiddelproblemer vil det også ved befatning med narkotika utover en beskjeden overskridelse av mengdegrensene være rom for å anvende andre reaksjoner enn ubetinget fengsel. Det vises i denne sammenhengen til HR-2022-733-A, se avsnitt 38, hvor Høyesterett legger til grunn at det kan brukes alternative reaksjoner overfor rusmiddelavhengige ved befatning med narkotika til egen bruk, selv om det ikke foreligger en rehabiliteringssituasjon. I den aktuelle saken ble det idømt samfunnsstraff selv om det dreide seg om mer enn en beskjeden overskridelse av mengdegrensene.
+
+### Gjentakelse
+
+Den foreslåtte regelen om at rusmiddelavhengige skal møtes med ubetinget påtaleunnlatelse eller straffutmålingsfrafall ved befatning med mindre mengder narkotika til egen bruk, er ment å gjelde også ved gjentatte overtredelser av den nye straffebestemmelsen. Bakgrunnen er at rusmiddelavhengige har et hyppig behov for rusmidler, og at det dermed må forventes at denne gruppen jevnlig vil bryte forbudet. Det er, og bør fremover fortsatt være, et mål for politiet ikke å iverksette etterforskning mot rusmiddelavhengige ved mistanke om befatning med mindre mengder narkotika til egen bruk, jf. prinsippene i straffeprosessloven § 224 og § 62 a. Dette vil virke begrensende på antallet anmeldelser som blir opprettet mot rusmiddelavhengige for slike overtredelser. I tilfeller hvor det av ulike grunner likevel blir opprettet gjentatte anmeldelser mot en rusmiddelavhengig etter legemiddelloven § 31 andre ledd, jf. § 24, og sakene ikke henlegges, skal også de nye sakene avgjøres i tråd med reaksjonsregelen om at det normalt skal reageres med ubetinget påtaleunnlatelse eller straffutmålingsfrafall.
+
+Det samme vil gjelde dersom en person med rusmiddelavhengighet har befatning med mindre mengder narkotika til egen bruk i prøvetiden for en reaksjon for et annet lovbrudd. I utgangspunktet er det et grunnleggende vilkår for en betinget reaksjon at lovbryteren ikke begår en ny straffbar handling i prøvetiden, jf. straffeloven § 39 tredje ledd. Bestemmelsen fastslår at det i slike tilfeller kan avsies en felles dom for begge handlingene eller en særskilt dom for den nye handlingen. Dersom den nye handlingen er en overtredelse av legemiddelloven § 31 andre ledd, jf. § 24, følger det forutsetningsvis av den særlige reaksjonsregelen for rusmiddelavhengige at det normalt skal gis ubetinget påtaleunnlatelse eller straffutmålingsfrafall for den nye handlingen, og at den tidligere betingede reaksjonen skal bli stående. Et praktisk eksempel er hvis en rusmiddelavhengig har fått en betinget reaksjon for befatning med stoff over mengdebegrensningene og deretter overtrer legemiddelloven § 31 andre ledd, jf. § 24. Dersom den nye overtredelsen kvalifiserer til ubetinget påtaleunnlatelse eller straffutmålingsfrafall, skal dette gis som en særskilt reaksjon for den nye overtredelsen.
+
+Dersom det nye straffbare forholdet gjelder befatning med narkotika over mengdegrensene, og det tidligere forholdet er en betinget reaksjon, vil det generelt være adgang til å fastsette en samlet reaksjon etter straffeloven § 39 tredje ledd. Overfor rusmiddelavhengige bør det vurderes konkret om det er hensiktsmessig utfra straffens formål å fastsette en ny betinget reaksjon. Dersom det fastsettes en ny betinget reaksjon, bør det vurderes om det skal gis særvilkår, herunder om det er grunnlag for gjennomføring av narkotikaprogram med domstolskontroll etter § 37 første ledd bokstav f. Personer med rusmiddelavhengighet som begår gjentatt narkotikakriminalitet, er i kjerneområdet for denne ordningen, og formålet er å forebygge ny kriminalitet og fremme lovbryterens rehabilitering mv., jf. forskrift om narkotikaprogram med domstolskontroll § 1. Også andre særvilkår kan være aktuelle, herunder oppmøte hos rådgivende enhet for russaker, særlig i tilfeller hvor den rusmiddelavhengige ikke allerede er inne i et behandlingsopplegg.
+
+Departementet nevner at samfunnsstraff bør vurderes som alternativ til ubetinget fengsel overfor rusmiddelavhengige. Høyesterett har i HR-2022-733-A åpnet for økt bruk av samfunnsstraff overfor rusmiddelavhengige, også i tilfeller der det ikke foreligger en rehabiliteringssituasjon. Dette vil også kunne være aktuelt i gjentakelsestilfeller.
+
+### Konkurrens
+
+Ved befatning med flere stoffer samtidig anses erverv og oppbevaring av inntil tre stoffer å falle inn under den foreslåtte straffebestemmelsen i legemiddelloven § 31 andre ledd, jf. § 24, forutsatt at befatningen gjelder egen bruk og ikke overstiger mengdegrensene, se punkt 4.7.3. Overfor personer med omfattende og alvorlige rusmiddelproblemer skal reaksjonen da normalt være ubetinget påtaleunnlatelse eller straffutmålingsfrafall. Når en rusmiddelavhengig skal ilegges en reaksjon for flere tilfeller av befatning med narkotika etter legemiddelloven § 31 andre ledd, jf. § 24, og hvert av forholdene isolert sett kvalifiserer til ubetinget påtaleunnlatelse eller straffutmålingsfrafall, skal den samlede reaksjonen også være ubetinget påtaleunnlatelse eller straffutmålingsfrafall. I slike tilfeller skal straffen ikke skjerpes selv om det utmåles en felles reaksjon for flere handlinger, jf. straffeloven § 79 første ledd bokstav b.
+
+I tilfeller der befatningen gjelder flere typer narkotika til egen bruk, i mengder som dels overstiger og dels er innenfor mengdegrensene, vil reaksjonsregelen for rusmiddelavhengige ikke komme direkte til anvendelse på forholdet, se punkt 4.7.3. I et slikt tilfelle skal det ved reaksjonsfastsettelsen overfor rusmiddelavhengige likevel ses bort fra befatningen med stoffer innenfor mengdegrensene. Dette er i tråd med avgjørelsen i HR-2022-2120-A, som er illustrerende for problemstillingen. I denne saken oppbevarte tiltalte ved samme anledning ca. 7 gram heroin, 11 gram hasj og 0,3 gram THC. Heroinet oversteg de dagjeldende veiledende mengdegrensene, mens mengden cannabis og THC lå innenfor mengdegrensene. Høyesterett valgte bare å utmåle straff for befatningen med heroin, og så helt bort fra de to andre stoffene (avsnitt 33–35). Selv om det ikke uttrykkelig var et tema i saken, fremkommer det av dommen at befatningen med de tre stoffene ble behandlet i samme tiltalepost, og at straffeloven § 231 ble anvendt på forholdet (tiltalen post II). Etter departementets forslag vil den samme fremgangsmåten kunne benyttes når en rusmiddelavhengig har befatning med stoffer som overstiger mengdegrensene, samtidig med stoffer innenfor mengdegrensene. Fremgangsmåten er ment å sikre at rusmiddelavhengige ikke får høyere straff som følge av å ha hatt befatning med narkotika til egen bruk innenfor mengdegrensene.
+
+Dersom en rusmiddelavhengig skal ilegges en reaksjon både for overtredelse av legemiddel-loven § 31 andre ledd, jf. § 24, og andre lovbrudd, skal det ved reaksjonsfastsettelsen på samme måte ses bort fra overtredelser av § 31 andre ledd, jf. § 24, som bare kvalifiserer til ubetinget påtaleunnlatelse eller straffutmålingsfrafall. Dersom saken kommer til pådømmelse, skal det etter rettspraksis synliggjøres i domsslutningen at det reageres med straffutmålingsfrafall for én eller flere poster i tiltalen (se for eksempel HR-2022-1653-A). På tiltalestadiet bør det vurderes om forhold som påtalemyndigheten mener faller inn under reaksjonsordningen, skal avgjøres særskilt med ubetinget påtaleunnlatelse i stedet for at forholdene tas med i tiltalen. Dette er forhold som det normalt ikke vil være grunn til å bringe inn for domstolene.
+
+### Etterforskningen og vernet mot selvinkriminering
+
+Den foreslåtte reaksjonsordningen for rusmiddelavhengige innebærer at personer som har et omfattende og alvorlig rusmiddelproblem, normalt skal gis den mildeste strafferettslige reaksjonen ved befatning med narkotika til egen bruk. I punkt 5.6.2 har departementet redegjort for beviskravet for rusmiddelavhengighet og at det i mangel av andre holdepunkter kan legges til grunn at mistenkte ikke faller inn under reaksjonsordningen. Opplysninger om rusmiddelproblemer vil i praksis ofte måtte gis av mistenkte selv, noe som nødvendigvis vil innebære at vedkommende gir opplysninger om tidligere befatning med narkotika. Ordningen gir dermed en motivasjon for mistenkte til å gi opplysninger om tidligere straffbare forhold. På denne bakgrunnen aktualiseres vernet mot selvinkriminering, se punkt 5.2.3.
+
+De mulige negative strafferettslige konsekvensene for en mistenkt som gir opplysninger om tidligere befatning med narkotika til egen bruk, er etter departementets vurdering begrensede. Rettslig sett vil befatning med narkotika til egen bruk over tid bli ansett som ett sammenhengende straffbart forhold, og ikke som flere selvstendige straffbare forhold. Omfanget av bruken, og at det dreier seg om gjentatte erverv og besittelse av narkotika til egen bruk, vil heller ikke ha betydning for reaksjonsfastsettelsen. De mulige negative konsekvensene av at mistenkte forteller om tidligere befatning med narkotika, begrenses også av riksadvokatens direktiver i brev 13. mai 2022:
+
+«Eventuell innhenting av informasjon for å belyse spørsmålet om den mistenkte er å anse som rusavhengig skal gjøres på en måte som respekterer selvinkrimineringsvernet. Det skal derfor ikke opprettes egne saker på grunnlag av opplysninger om tidligere begåtte lovbrudd i form av bruk eller befatning med narkotika til egen bruk som fremkommer i den forbindelse.»
+
+Utfra gjeldende rett og påtalepraksis risikerer mistenkte dermed normalt ikke noe strengere straffansvar gjennom forklaringer om tidligere befatning med narkotika til egen bruk.
+
+En forklaring om rusmiddelproblemer og tidligere befatning med narkotika kan i prinsippet tenkes å få betydning i bevisvurderingen for den konkrete befatningen med narkotika som mistanken gjelder. Dette kan for eksempel være aktuelt i tilfeller hvor mistenkte nekter straffskyld for den konkrete befatningen med narkotika, men samtidig gjør gjeldende å være rusmiddelavhengig. Departementet legger til grunn at domstolene og påtalemyndigheten vil være tilbakeholdne med å vektlegge opplysninger om rusmiddelavhengighet til skade for mistenkte på denne måten. I den grad tidligere befatning med narkotika likevel skulle bli vektlagt i enkeltsaker, er det etter departementets syn tale om en relativt beskjeden konsekvens av å forklare seg om egne rusmiddelproblemer. Departementet nevner også at en forklaring om rusmiddelproblemer vil kunne ha negative forvaltningsrettslige konsekvenser for mistenkte, for eksempel når det gjelder førerrett og våpentillatelse. Slike konsekvenser faller imidlertid utenfor hva vernet mot selvinkriminering gir beskyttelse mot, se NOU 2024: 12 side 205 med videre henvisning.
+
+Mistenktes motivasjon for å forklare seg om egne rusproblemer ligger i muligheten for å få ubetinget påtaleunnlatelse eller straffutmålingsfrafall, i stedet for bot eller betinget fengsel. For personer med omfattende og alvorlige rusmiddelproblemer som jevnlig bryter forbudet mot befatning med mindre mengder narkotika til egen bruk, antar departementet at motivasjonen for å være omfattet av en slik ordning er relativt høy. Dette gjelder særlig for personer som bruker heroin, hvor det alminnelige straffenivået kan tilsi at de risikerer fengselsstraff dersom de ikke omfattes av reaksjonsordningen for rusmiddelavhengige. Departementet peker imidlertid på at hensikten med ordningen er at personer med omfattende og alvorlige rusmiddelproblemer skal møtes med hjelp i stedet for straff, og forklaringen til mistenkte skal bidra til nettopp dette.
+
+Etter departementets syn er motivasjonen som ordningen gir til mistenkte om å forklare seg om tidligere narkotikaovertredelser, likevel ikke ekstraordinær. De mulige negative strafferettslige konsekvensene av å forklare seg om egne rusmiddelproblemer er videre beskjedne. Departementet anser det derfor ikke som tvilsomt at den foreslåtte reaksjonsordningen for rusmiddelavhengige er forenlig med mistenktes vern mot selvinkriminering.
+
+I saker om befatning med mindre mengder narkotika til egen bruk oppstår det spørsmål om hvilken veiledning politiet skal eller bør gi overfor mistenkte om reaksjonsregelen for rusmiddelavhengige, og hvordan veiledningen skal bidra til å ivareta mistenktes vern mot selvinkriminering. Spørsmålet er tatt opp av Rushåndhevingsutvalget i NOU 2024: 12 punkt 12.4.5. Utvalget foreslår at politiet skal veilede mistenkte om reaksjonsordningen og konsekvensene av å gi informasjon om rusmiddelavhengighet, men uten å foreslå lovfesting av veiledningsplikten spesielt for mindre narkotikaovertredelser. Temaet er berørt i høringen av Norges institusjon for menneskerettigheter, som påpeker viktigheten av god informasjon og veiledning til mistenkte, herunder om mulige forvaltningsrettslige og andre rettslige konsekvenser.
+
+Siktedes vern mot selvinkriminering ivaretas i utgangspunktet av politiets plikt etter straffeprosessloven § 232 og påtaleinstruksen § 8-1 til å informere mistenkte om retten til taushet før et politiavhør. En veiledningsplikt om retten til taushet kan også utledes av vernet mot selvinkriminering etter EMK artikkel 6 nr. 1, jf. blant annet EMDs storkammerdom 13. september 2016 *Ibrahim mfl. mot Storbritannia* (sak nr. 50541/08, 50571/08, 50573/08 og 40351/09) avsnitt 270–273. Departementet anser i utgangspunktet dette som et tilstrekkelig vern mot selvinkriminering, også i saker om befatning med mindre mengder narkotika til egen bruk. Departementet er likevel enig med utvalget i at politiet etter omstendighetene bør gi ytterligere veiledning til mistenkte i saker hvor politiet ønsker å belyse spørsmålet om rusmiddelavhengighet. Formålet med veiledningen vil være å sette mistenkte i stand til å treffe et informert valg før vedkommende besvarer spørsmål om rusmiddelavhengighet, eller på andre måter bidrar til å belyse spørsmålet.
+
+Mistenkte bør blant annet informeres om at politiet ønsker å belyse hvorvidt vedkommende har et omfattende og alvorlig rusmiddelproblem og dermed er omfattet av reaksjonsordningen. Det bør videre gis opplysninger om hovedinnholdet i reaksjonsordningen, herunder at reaksjonen for personer med et omfattende og alvorlig rusmiddelproblem normalt skal være ubetinget påtaleunnlatelse eller straffutmålingsfrafall, og at det er påtalemyndigheten eller domstolen som tar stilling til reaksjonsfastsettelsen. Det bør også opplyses om at informasjonen som mistenkte gir, i prinsippet kan brukes til skade for ham eller henne, både strafferettslig og i andre sammenhenger, men at riksadvokaten har gitt instruks om at politiet ikke skal opprette nye straffesaker på bakgrunn av informasjon som blir gitt om tidligere befatning med narkotika til egen bruk. Informasjonen som gis, bør være objektiv og nøytral. Departementet antar at temaet egner seg for oppfølgning gjennom fagledelsestiltak i påtalemyndigheten.
+
+# Tvangsmidler ved befatning med mindre mengder narkotika til egen bruk

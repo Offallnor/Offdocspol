@@ -1,806 +1,214 @@
-# Prop. 161 L (2016–2017), del 6 av 9 (side 60–69)
+# Prop. 161 L (2016–2017), del 6 av 8
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2017/e45325a8-prop-161-l-20162017.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-161-l-20162017/id2565670/
 - Original-PDF: https://www.regjeringen.no/contentassets/013f96466c124c029471b28c616f208b/no/pdfs/prp201620170161000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 60]
+Styrker som avstås til Norge vil stå i et politioppdrag. Det fremgår derfor av utkastet til § 25 annet ledd at utenlandske tjenestemenn avgitt til tjeneste for Norge kan tildeles begrenset politimyndighet innen rammen av oppdraget, og at de har det samme strafferettslige vern og ansvar som norske polititjenestemenn har, dersom ikke annet blir bestemt i medhold av utvalgets utkast til § 26. Frontex-forordningen forutsetter at mannskaper som inngår i fellesoperasjoner eller pilotprosjekter likestilles med tjenestemenn fra vertsstaten for så vidt angår straffbare handlinger som begås mot eller av dem.
 
-60
+*Troms politidistrikt* ser positivt på forslaget om å lovregulere bistand til og fra Frontex ved avgivelse til grensekontroll i Schengen-området. Ingen andre høringsinstanser har kommentert forslaget.
 
-Prop. 161 L
-Lov om grensetilsyn og grensekontroll av personer (grenseloven)
+1.  **Departementets vurdering**
 
-nomføre eller bidra til grenseovervåking og grensekontroll.
-Som motstykke til reguleringen av Tolletatens
-bistand til politiet, har utvalget foreslått en
-bestemmelse i grenseloven om politiets bistand til
-Tolletaten. Etter utkastet til § 6 nr. 5 kan politiet
-«etter anmodning fra tollmyndighetene utføre
-eller bistå i kontrollen med vareførselen på grensene. Ved kontroll for tollmyndighetenes formål
-kan politiet benytte seg av de kontrolltiltak som
-tolloven gir adgang til for kontroll av personer og
-transportmidler.» Utkastet gir også hjemmel for
-Kongen til å gi nærmere regler i forskrift om politiets adgang til å kontrollere vareførselen.
+En effektiv overholdelse og gjennomføring av regelverket om yttergrensekontroll er i Norges interesse. Det bidrar til å bekjempe ulovlig innvandring og menneskehandel, og forebygger trusler mot medlemslandenes indre sikkerhet og offentlige ro og orden.
 
-9.3.3 Høringsinstansenes syn
-Både Finansdepartementet og Toll- og avgiftsdirektoratet påpeker manglende samsvar mellom ordlyden i utlendingsloven § 22 og utvalgets utkast til
-regulering av tolletatens bistand til politiets innog utreisekontroll Etter Toll- og avgiftsdirektoratets oppfatning synes det å innebære en tilstramming at etatens bistand skal ytes under politiets
-ansvar og styring.
-Verken Finansdepartementet eller Toll- og
-avgiftsdirektoratet finner det naturlig å regulere
-politiets bistand til Tolletaten i ny grenselov.
-Finansdepartementet viser til at tolloven allerede
-har en bestemmelse om hjelpeplikt for politiet (og
-Forsvaret). Bestemmelsen er basert på at politiet
-bruker sin myndighet etter politiloven og straffeprosessloven, men det kan være behov for å presisere blant annet at de straffeprosessuelle skrankene for adgangen til ransaking og beslag ikke
-gjelder for politiets utøvelse av bistandsfunksjonen etter tolloven. Slike presiseringer i tolloven
-kan eventuelt foreslås sammen med forslaget til
-ny grenselov.
-Politidirektoratet viser til at det ikke fremgår
-nærmere av utvalgets utredning i hvilke tilfeller
-politiet kan utføre kontroll etter anmodning fra
-Tolletaten, eller på hvilken måte en anmodning fra
-Tolletaten skal skje. Etter bestemmelsenes ordlyd
-kan Tolletaten anmode politiet om både å utføre
-kontrollen og å bistå i kontrollen. Politidirektoratet er i tvil om det er hensiktsmessig at politiet
-skal kunne utføre varekontroll på egen hånd, da
-det kan medføre uheldig rolleblanding.
-9.3.4 Departementets vurdering
-Reguleringen av Tolletatens plikt til å bistå politiet
-i inn- og utreisekontrollen hører sammen med
-reguleringen av politiets ansvar for inn- og utreise-
+Norge har lenge avgitt ekspertise til deltakelse i europeiske grensekontrollteam som følge av forpliktelsene etter tilleggsavtalen om deltakelse i det tidligere Frontex og bestemmelsene i den tidligere Frontex-forordningen. Samarbeidet med Frontex gir norsk politi muligheter til å delta i utviklingen av det operative Schengen-samarbeidet om yttergrensekontroll, derunder deltakelse i nettverk for informasjonsinnsamling og -utveksling, etterretning og trussel- og risikoanalyse, foruten utvikling av standardisert utdanning og utstyr. Som deltaker i Frontex’ arbeid kan Norge anmode Frontex om å koordinere bistandsressurser fra andre medlemsland til utøvelse av styrket grensekontroll hvis Norge står overfor en situasjon med akutt og ekstraordinært press på sin del av Schengen yttergrense.
 
-2016–2017
+Utvalgets forslag til generell lovfesting av deltakelsen vil etter departementets syn ikke ha annet enn informasjonsverdi. Det ble heller ikke ved Stortingets aksept av RABIT-forordningen ansett nødvendig med lov- eller forskriftsendring, jf St.prp. nr. 25 (2007–2008) Om samtykke til godtakelse av forordning (EF) 863/2007 om opprettelse av beredskapsteam for grensekontroll (videreutvikling av Schengen-regelverket) og Innst. S nr. 124 (2007–2008). Etter departementets syn er dette standpunktet dekkende også etter ikrafttredelsen av forordning 2016/1624 om Den europeiske grense- og kystvakt. De administrative og økonomiske prosedyrene forbundet med utveksling av mannskaper og ressurser til de ulike teamene er fastsatt i forordningen, som Norge er bundet av. Denne delen av utvalgets forslag følges derfor ikke opp.
 
-kontrollen. Departementet går derfor i likhet med
-utvalget inn for å overføre alt innholdet i utlendingsloven § 22 til ny grenselov. Ved overføring av
-utlendingsforskriften § 4-30 til ny forskrift til grenseloven vil departementet vurdere behovet for å
-klargjøre skillet mellom adgangen til å utføre innog utreisekontroll på ytre Schengen-grense og
-avskaffelsen av slik kontroll på indre Schengengrense Grensedragningen er krevende, siden
-Tolletatens metoder for ordinær tollkontroll også
-inneholder elementer av identitetskontroll. Derfor
-må det også legges stor vekt på å tydeliggjøre
-formålet med kontrollen som gjennomføres på
-grensene.
-En presisering av at Tolletatens bistand skal
-utøves under politiets ansvar og styring er i tråd
-med gjeldende rett, og innebærer ingen tilstramming av rettstilstanden. Gjeldende retningslinjer
-for bistanden fastslår uttrykkelig at all inn- og
-utreisekontroll skal utføres i henhold til gjeldende
-regler og retningslinjer, og under vedkommende
-politimyndighets
-instruksjoner.
-Begrepet
-«bistand» indikerer i seg selv at innsatsen utøves
-under politiets ansvar og styring.
-Departementet har imidlertid i likhet med
-Finansdepartementet merket seg at ordlyden i
-utvalgets utkast avviker fra utlendingsloven § 22
-ved at avgrensningen av Tolletatens fullmakter er
-mindre tydelig enn i utlendingsloven § 22 annet
-ledd. Det har imidlertid formodningen mot seg at
-utvalget har tilsiktet realitetsendringer uten å
-omtale eller begrunne dette nærmere i utredningen. For så vidt viser også utvalgets utkast til at
-Tolletaten skal bistå politiet i inn- og utreisekontrollen «etter loven her.» Lovforslaget overfører
-reglene om gjennomføring av inn- og utreisekontroll i utlendingsloven § 15 til grenseloven, og gir
-ingen andre regler om politiets fullmakter i saker
-etter utlendingsloven.
-Utvalgets forslag til regulering av politiets
-bistand til Tolletaten følges ikke opp. Som Finansdepartementet har påpekt, fastslår tolloven § 12-3
-allerede at politiet og militære myndigheter skal
-yte Tolletaten nødvendig hjelp og beskyttelse
-under utførelsen av tolltjenesten. Eventuelle ytterligere reguleringsbehov knyttet til politiets
-bistand til Tolletatens oppgaveløsning bør ivaretas
-i tolloven.
-Politiets adgang til å bistå Tolletaten etter politiloven § 2 nr. 5, jf. politiinstruksen § 2-2 nr. 5 og
-§ 13-1 sammenholdt med tolloven § 12-3, er
-begrenset til å hjelpe og beskytte Tolletatens tjenestemenn dersom disse er truet, hindret eller
-forulempet på annen måte under sin virksomhet.
-Politiets underretnings- og hjelpeplikt etter tol-
+Norge har til nå ikke opplevd slikt akutt og ekstraordinært press på yttergrensen at det har vært nødvendig å be om bistand fra Frontex til gjennomføring av grensekontroll. Det kan imidlertid ikke utelukkes at en slik situasjon kan oppstå. Departementet er enig med utvalget i at grenseloven bør tydeliggjøre denne spesielle muligheten for bistand til politiets grensekontroll, jf. lovforslaget § 8.
 
-[Side 61]
+Forordning nr. 2016/1624 art. 40 forutsetter at tjenestemenn fra de europeiske grense- og kystvaktteamene skal kunne utøve makt og myndighet tilsvarende de nasjonale grensevaktene, og i samsvar med nasjonal lovgivning. De aktuelle oppgavene vil da også være av slik karakter at det som hovedregel vil kreve politimyndighet etter norsk lov. Praksis varierer, men de fleste europeiske lands grensevakter er organisert enten under politiet eller som varianter med myndighet som politiet. Departementet legger derfor også til grunn at det i det alt vesentlige vil dreie seg om tjenestemenn som også etter norske forhold vil være å anse som polititjenestemenn, og som det derfor heller ikke er betenkelig å tildele politimyndighet begrenset til utførelse av det aktuelle oppdraget.
 
-2016–2017
+Etter norsk rett er utgangspunktet at kun norske polititjenestemenn har kompetanse til å utøve politimyndighet. Politiloven § 20 a gir imidlertid regler om utenlandske polititjenestemenns kompetanse på norsk territorium. Annet ledd presiserer at politimyndighet kan tildeles utenlandsk tjenestemann etter samme prinsipper som for tildeling av begrenset politimyndighet etter den mer generelle regelen i politiloven § 20 tredje ledd, jf. også Prop. 97 LS (2011–2012), punkt 9.5.
 
-Prop. 161 L
-Lov om grensetilsyn og grensekontroll av personer (grenseloven)
+Straffeloven § 155 om vold eller trusler mot offentlig tjenestemann skal verne offentlig tjenestemenn under utøvelse av tjenestehandlinger. Dersom det gjelder gjensidig, kan Kongen bestemme at vernet også skal omfatte lovbrudd mot tjenestemenn i et annet lands offentlige myndighet og i mellomstatlige organisasjoner som Norge er eller blir medlem av, jf. § 155 fjerde ledd. Politiloven § 20 a tredje ledd fastslår imidlertid at utenlandsk tjenestemann som utøver politioppgaver som nevnt i § 20 a første ledd er å anse som offentlig tjenestemann i forhold til straffelovens bestemmelser. Strafferettslig vern og ansvar etter denne bestemmelsen er heller ikke knyttet til tildeling av politimyndighet etter annet ledd, men til oppgavenes karakter. Disse er i § 20 a første ledd angitt til deltakelse i felles etterforskningsgrupper, felles politioperasjoner, eller på annen måte utførelse av tjenestehandlinger i Norge i den grad det følger av overenskomst med fremmed stat. Tilsvarende gjelder for adgangen til å fortsette observasjon og forfølgelse på norsk territorium.
 
-loven § 12-3 innebærer ikke at myndighet etter tolloven overføres til politiet. Bestemmelsen er
-basert på at politiet bruker sin myndighet etter
-politiloven og straffeprosessloven, og slik bør det
-fortsatt være. Det foreslås derfor heller ingen
-endringer i tolloven § 12-3.
+Politiloven § 20 a er ikke gitt med tanke på den typen tjenestemenn og operasjoner som følger av deltakelsen i Frontex. Departementet finner det derfor i likhet med utvalget hensiktsmessig å sikre tilstrekkelig hjemmelsgrunnlag for tildeling av politimyndighet og fastsettelse av strafferettslig vern og ansvar for disse gjennom grenseloven. Utvalget gikk inn for direkte regulering av disse spørsmålene i utkastet til § 25 annet ledd, men departementet mener det vil være en bedre løsning å fastslå at politiloven § 20 a annet og tredje ledd får tilsvarende anvendelse. Regler om tildeling av politimyndighet bør i all hovedsak følge av politiloven. Slik er både gjeldende rett og lovforslaget lagt opp for tildeling av politimyndighet til militært personell fra Forsvaret som utfører grenseovervåking på politiets vegne på den norsk-russiske grensen, eller som bistår med andre oppgaver.
 
-9.4
+1.   **Immunitet og privilegier**
 
-Forhåndsmelding for
-passasjerdata
+    1.  **Gjeldende rett og utvalgets forslag**
 
-9.4.1 Gjeldende rett
-Utlendingsloven § 20 første ledd bokstav a til g gir
-adgang til å pålegge ulike aktører meldeplikt til
-myndighetene i en rekke nærmere bestemte situasjoner, hvorav bokstav a og b gir adgang til å
-pålegge meldeplikter i forbindelse med grensepassering og grensekontroll. Meldepliktene som
-kan pålegges i henhold til bokstavene c til g relaterer seg til utlendinger som oppholder seg her i
-kortere eller lengre tid, og omtales ikke nærmere.
-Etter utlendingsloven § 20 første ledd bokstav
-a kan Kongen i forskrift gi bestemmelser om at
-«føreren av luftfartøy som kommer fra, eller går til
-utlandet, skal gi politiet fortegnelse over reisende og
-mannskap». Det kan også gis nærmere regler i
-forskrift om hvilke opplysninger fortegnelsene
-skal inneholde og hvordan de skal formidles, jf.
-annet ledd. Plikten til å gi forhåndsmelding er
-nedfelt i utlendingsforskriften § 4-24 første ledd:
-«Etter anmodning skal fører av luftfartøy som
-kommer fra eller går til utlandet, gi politiet fortegnelse over reisende og mannskap, etter at innsjekking er avsluttet, jf. lovens § 20 første ledd bokstav
-a. Fortegnelsen skal inneholde de samme opplysninger som passasjerlisten. Hvis noen av de reisende er
-blindpassasjerer, skal fører av luftfartøyet gi politiet
-fortegnelse uoppfordret.»
-Meldeplikten for reisende med fly etter utlendingsforskriften § 4-24 er ment å dekke forpliktelsen etter Rådsdirektiv 2004/82/EF om lufttransportørers plikt til å fremsende opplysninger om
-passasjerer (Advance Passenger Information
-(API)-direktivet). API-direktivet er en videreutvikling av Schengen-regelverket, og godtatt av
-Norge. API-data er opplysninger knyttet til passasjerens identitet, typisk hentet fra reisedokument
-og informasjon om flyvning, for eksempel flightnummer, avgangstid og landingstid. Direktivet
-forplikter medlemsstatene til å sikre at opplysningene om reisende på flyvninger til og fra tredjeland samles inn av transportørene og overføres
-elektronisk eller, hvis dette ikke er mulig, på
-annen passende måte, til de myndigheter som er
-ansvarlige for grensekontrollen. Dataene skal
+Utvalgets utkast til § 26 om immunitet og privilegier skal fange opp de behov for immunitet og privilegier som følger både av Schengen-samarbeidet og av grenseregimeavtalen. Utvalget har ikke tatt stilling til hvor langt statusreglene i Frontex-forordningen rekker. Det materielle innholdet er i hovedsak hentet fra riksgrenseloven § 2, som i ordlyd er beslektet med reguleringene i lov 19. juni 1947 nr. 5 om immunitet og privilegier for internasjonale organisasjoner mv. Etter riksgrenseloven § 2 kan Kongen eller den han gir fullmakt uten hinder av norsk lov på nærmere fastsatte vilkår innrømme et naborikes grense-tjenestemenn slik immunitet og slike særlige privilegier som følger av overenskomst med vedkommende naborike. Nærmere regler er fastsatt i riksgrenseforskriften § 3.
 
-61
+Riksgrenselovens immunitetsregel skyldes at art. 35, jf. art. 33 i grenseregimeavtalen med Russland tilstår hver parts grensekommissærer og deres stedfortredere, assistenter, sekretærer, tolker og eksperter personlig ukrenkelighet, hvilket innebærer sivil- og strafferettslig immunitet på linje med diplomater.
 
-oversendes etter innsjekking og før ankomst, og
-lagres i en midlertidig fil. Både transportøren som
-har oversendt opplysningene og grensemyndigheten som har mottatt dem, pålegges å slette filene
-innen 24 timer etter innreise.
-API-direktivet skal medvirke til bedre grensekontroll og effektiv bekjempelse av ulovlig innvandring. På grunn av manglende verktøystøtte
-har overleveringen av passasjerdata, i praksis passasjerlister, i Norge foregått enten på e-post eller
-ved manuell overlevering fra flypersonell til grensekontrollen ved ankomst. Det innebærer at grensekontrollen ikke får tilgang til fullverdig APIdata, da passasjerlister som hovedregel kun inneholder opplysninger om navn og seteplassering.
-Mangelfull gjennomføring av API-direktivet ble
-påpekt under Schengen-evalueringen av Norges
-yttergrense – luft i 2011 og under Visa Waiver
-inspeksjonen fra USA i 2015. Politidirektoratet har
-igangsatt et prosjekt som etter planen skal levere
-en løsning for elektronisk oversendelse og
-behandling av passasjerdata fra transportør av
-luftfartøy til grensekontrollen i løpet av 2018, i
-fullt samsvar med Norges forpliktelser etter APIdirektivet. I påvente av en permanent elektronisk
-løsning er det iverksatt en minimumsløsning.
-Med hjemmel i utlendingsloven § 20 første
-ledd bokstav b gir utlendingsforskriften § 4-24
-annet og fjerde ledd plikt for fører av skip som skal
-passere grensen på vei til og fra norsk havn å
-oversende fortegnelse over reisende, herunder
-eventuelle blindpassasjerer, og mannskap. Fortegnelsen skal gis på formularer som er godkjent av
-norske myndigheter, og om mulig 24 timer før
-ankomst til indre farvann. Førere av lystfartøyer
-registrert i et Schengen-land kan unntas fra plikten til å gi slik forhåndsmelding, men kan likevel
-ilegges plikt til å gi forhåndsmelding dersom risikoen for ulovlig innvandring eller grensekryssende kriminalitet tilsier det. Meldeplikt kan også
-ilegges ved gjeninnføring av midlertidig grensekontroll på indre Schengen-grense.
-Forsettlig eller uaktsom overtredelse av
-meldepliktene for luftfartøy og skip i utlendingsforskriften § 4-24 første til fjerde ledd straffes med
-bot eller fengsel inntil seks måneder eller med
-begge deler, jf. § 18-13 annet ledd.
+Utvalget foreslår ingen egen beslutningsprosedyre. Dette i motsetning til riksgrenseloven § 2, som den vil erstatte og som fastslår at Kongen eller den han gir fullmakt kan innrømme et naborikes grensetjenestemenn slik immunitet og slike særlige privilegier som følger av overenskomst med nabostaten.
 
-9.4.2
-
-Utvalgets forslag og
-høringsinstansenes syn
-
-Utvalget foreslår at hjemlene for meldeplikt etter
-utlendingsloven § 20 første ledd bokstav a og b
-overføres til grenseloven, med noen presiseringer
-i ordlyden. Blant annet foreslår utvalget en tilføy-
-
-[Side 62]
-
-62
-
-Prop. 161 L
-Lov om grensetilsyn og grensekontroll av personer (grenseloven)
-
-else om meldeplikt for «planlagt ankomst eller
-avreise» for å tydeliggjøre en forpliktelse som
-bare forutsetningsvis følger av utlendingsloven,
-nemlig at meldeplikten kan pålegges før sjø- eller
-luftfartøyet har krysset inn i norsk sjøterritorium
-eller luftrom. Utvalgets forslag til forskriftshjemmel åpner for nærmere regler om direkte elektronisk tilgang til transportørenes passasjeropplysninger, noe som anses å gi en forenkling for transportørene.
-Betegnelsen «skip» i utlendingsloven foreslås
-endret til «fartøy», slik at også lystfartøyer og
-andre småbåter omfattes. Utvalget viser til at kontrollen av lystfartøyer som kommer fra eller går til
-internasjonalt farvann synes å ha vært tilfeldig i
-Norge, i motsetning til i mange andre land. Det
-dreier seg om en type trafikk som har økt betydelig i takt med standarden i lystbåtflåten, og som
-gir muligheter for smugling av både mennesker
-og varer.
-Ingen høringsinstanser har kommentert forslagene.
-
-9.4.3 Departementets vurdering
-Gjeldende regler om meldeplikt for passasjerdata
-i utlendingsloven § 20 første ledd bokstav a og b,
-jf. utlendingsforskriften § 4-24, foreslås videreført
-og forankret direkte i grenseloven, jf. lovforslaget
-§ 16. For å få et mest mulig ensartet kontrollregime er det viktig med klar og tydelig regulering,
-både for transportørene som har ansvar for å oversende passasjerdata, og for politiet som skal
-utføre kontrollen. Den lovfestede plikten må suppleres av nærmere regler i forskrift, jf. forskriftshjemmelen i lovforslaget § 25 nr. 8.
-Både i utlendingsloven og utlendingsforskriften er meldeplikten for flypassasjerdata knyttet til
-flygninger til og fra «utlandet». Ordlyden har stått
-uendret i utlendingsregelverket siden før Norge
-ble Schengen-medlem, og videreføres også i
-
-2016–2017
-
-departementets lovforslag. Forskriftsbestemmelsene bør imidlertid klargjøre at plikten til systematisk oversendelse av API-data kun omfatter
-flygninger til og fra land utenfor Schengen. Det er
-samtidig viktig å presisere at det kan utføres ikkesystematisk kontroll av lister også fra Schengenflygninger med grunnlag i grenseforordningen
-art. 23 om alminnelig politiarbeid eller avsnitt III
-kapittel II om gjeninnføring av midlertidig grensekontroll. Tydeligere regelverk og bedre verktøystøtte for forhåndskontroll og behandling av passasjerdata vil effektivisere og øke kvaliteten på
-politiets grensekontrollarbeid.
-Departementet følger også opp utvalgets forslag om å bruke betegnelsen «fartøy» i stedet for
-skip. I forskriftsarbeidet kan det foretas en nærmere gjennomgang av problemstillinger knyttet til
-blant annet kontroll av lystfartøy. I forskriftsarbeidet bør det også tilstrebes større grad av likhet i
-reglene for oversendelse av passasjerdata for henholdsvis luft- og sjøfartøy, og håndteringen av
-disse, selv om ulike forutsetninger og behov krever særlige systemtilpasninger.
-Plikten til elektronisk oversendelse av passasjerdata følger allerede av API-direktivet art. 6 for
-flypassasjerdata, og er etablert praksis for de
-maritime meldepliktregimene som gjennomføres i
-SafeSeaNet-Norway. Den tekniske løsningen for
-forhåndskontroll og behandling av flypassasjerdata som er under utvikling vil være en elektronisk rapporteringskanal der flyselskapene sender
-passasjerdata til myndighetene før avgang eller
-før ankomst. I løsningen utføres registersøk og
-analyser av passasjerdata for å avdekke om det er
-kjente eller ukjente risikoer knyttet til passasjerene. Mer detaljerte bestemmelser om hvilke opplysninger som skal formidles, om oversendelsen
-(tid, måte, format, osv.) og om behandling av opplysningene gis i forskrift, jf. også punkt 11.4.1 om
-reguleringsbehov knyttet til behandling av opplysninger ved grensekontroll.
-
-[Side 63]
-
-2016–2017
-
-Prop. 161 L
-Lov om grensetilsyn og grensekontroll av personer (grenseloven)
-
-63
-
-10 Utenlandske grensetjenester
-10.1 Bistand fra europeiske grense- og
-kystvaktteam
-10.1.1 Gjeldende rett
-Europaparlaments- og rådsforordning (EU) nr.
-2016/1624 etablerer Den europeiske grense- og
-kystvakt, som videreutvikler det tidligere grensekontrollbyrået Frontex (the European agency for
-the management of operational cooperation at the
-external borders of the member states of the
-European Union). Norge og Island inngikk tilleggsavtale om deltakelse i Frontex i 2005. Denne
-avtalen gjelder også for tilknytningen til Det europeiske grense- og kystvaktbyrået, som fortsatt vil
-bære kortnavnet «Frontex».
-Det nye byrået viderefører Frontex’ tidligere
-hovedformål om å koordinere informasjonsstyrte
-operasjoner på EU-nivå for å styrke sikkerheten
-på yttergrensene. Nytt er imidlertid en styrket
-rettslig og faktisk kapasitet til å bistå medlemsland som opplever en pressituasjon på sin yttergrense, blant annet gjennom opprettelsen av en
-stående mannskapsreserve som kan benyttes til
-hurtigutrykning (rapid reaction pool). Denne stående styrken erstatter de tidligere Rapid Border
-Intervention Teams (RABIT). En Schengen-stat
-kan pålegges å gjennomføre spesifikke tiltak, eller
-motta hjelp fra byrået, for å avhjelpe en situasjon
-på sin del av yttergrensen som truer Schengenområdets funksjon. Et slikt pålegg kan imidlertid
-kun gis etter en grundig prosess, der medlemsstaten involveres og gis flere anledninger til å uttale
-seg og på eget initiativ treffe nødvendige tiltak for
-å avhjelpe situasjonen. Beslutningen om å godta et
-pålegg ligger imidlertid hos medlemsstaten, ved
-at denne kan nekte å gjennomføre pålagte tiltak
-eller ta imot hjelp. I slike tilfeller risikerer imidlertid medlemsstaten at det gjeninnføres midlertidig
-indre grensekontroll fra andre medlemslands
-side.
-Det nye byrået er gitt økt ansvar for å identifisere og påpeke svakheter ved Schengen-statenes
-gjennomføring av fellesskapsregelverket om yttergrensekontroll, og økt mulighet til å bistå medlemslandene i retur av tredjelandsborgere uten
-
-lovlig opphold på Schengen-territoriet. Byrået
-skal overvåke migrasjonsstrømmer mot yttergrensene og internt i Schengen-området, utarbeide risikoanalyser som omfatter alle siden av
-den helhetlige grenseforvaltningen, og utplassere liaison-offiserer i medlemsstatene for å kontrollere statenes gjennomføring av sine grensekontrollforpliktelser.
-Norge har etablert en nasjonal ekspertpool
-som administreres av Politidirektoratet og består
-av polititjenestemenn- og kvinner som deltar i
-Frontex fellesoperasjoner. Tilsvarende vil Politidirektoratet administrere de norske bidragene til
-den nye stående mannskapsreserven. Det norske
-personellet i Frontex-operasjonene har historisk
-bistått med såkalt annenlinjekontroll, det vil si
-debrifing og intervjuer av personer som har krysset grensen. Siden juni/juli 2015 har Norge også
-deltatt i en førstelinjerolle med to fartøy i operasjon Triton og operasjon Poseidon i Middelhavet.
-Bidraget til operasjon Poseidon utløp i juni 2017.
-
-10.1.2 Utvalgets forslag og
-høringsinstansenes syn
-Departementet bemerker at det har vært en rettsutviklingen i EU siden utvalget avgav sitt forslag,
-jf. forrige punkt. Hovedlinjene er imidlertid i det
-alt vesentlige de samme.
-Utvalget påpekte at EU legger betydelig vekt
-på den rollen som Frontex forutsettes å spille i
-årene fremover når det gjelder en forsterket prioritering av kontroll og overvåking av ytre grenser.
-Denne virksomheten står sentralt i EUs strategi
-for «Integrated Border Management» (helhetlig
-grenseforvaltning), som skal møte utfordringene
-som ligger i illegal innvandring og grensekryssende kriminalitet i EU/Schengen-området. Frontex vil dermed komme til å øve vesentlig innflytelse på norske myndigheters kontroll og overvåking av grenseområdene.
-Utvalget viste videre til at hvis det blir aktuelt
-for Norge å få bistand fra RABIT (nå rapid
-reaction pool), vil de aktuelle funksjonene i form
-av deltakelse i kontroll og overvåking av norske
-grenser ligge innenfor det saklige og stedlige vir-
-
-[Side 64]
-
-64
-
-Prop. 161 L
-Lov om grensetilsyn og grensekontroll av personer (grenseloven)
-
-keområdet for grenseloven. Av den grunn er
-RABIT-ordningen dekket opp i lovutkastet ved
-utkastet til § 25 om avgivelse og mottak av mannskaper og ressurser til og fra Schengens utrykningsstyrker. Bestemmelsen legger verken plikt
-på Norge til å avgi mannskaper eller ressurser,
-eller til å motta slike. I tråd med Frontex-forordningen art. 10 og art. 8 e gjenspeiler forslaget at
-norske myndigheter kan sette vilkår for den
-bistand som gis til Norge. I merknaden påpekte
-utvalget at det også gis mulighet for å sette rammer for hvordan og til hva norske styrker kan
-benyttes ved innsats i andre land. «I begge tilfeller
-kan nok RABIT-reglene innebære visse skranker,
-men bistand til Norge kan alltid avslås dersom
-man ikke ser seg tjent med de styrker og vilkår
-som tilbys.»
-Styrker som avstås til Norge vil stå i et politioppdrag. Det fremgår derfor av utkastet til § 25
-annet ledd at utenlandske tjenestemenn avgitt til
-tjeneste for Norge kan tildeles begrenset politimyndighet innen rammen av oppdraget, og at de
-har det samme strafferettslige vern og ansvar som
-norske polititjenestemenn har, dersom ikke annet
-blir bestemt i medhold av utvalgets utkast til § 26.
-Frontex-forordningen forutsetter at mannskaper
-som inngår i fellesoperasjoner eller pilotprosjekter likestilles med tjenestemenn fra vertsstaten for
-så vidt angår straffbare handlinger som begås mot
-eller av dem.
-Troms politidistrikt ser positivt på forslaget om
-å lovregulere bistand til og fra Frontex ved avgivelse til grensekontroll i Schengen-området.
-Ingen andre høringsinstanser har kommentert
-forslaget.
-
-10.1.3 Departementets vurdering
-En effektiv overholdelse og gjennomføring av
-regelverket om yttergrensekontroll er i Norges
-interesse. Det bidrar til å bekjempe ulovlig innvandring og menneskehandel, og forebygger trusler mot medlemslandenes indre sikkerhet og
-offentlige ro og orden.
-Norge har lenge avgitt ekspertise til deltakelse
-i europeiske grensekontrollteam som følge av forpliktelsene etter tilleggsavtalen om deltakelse i
-det tidligere Frontex og bestemmelsene i den tidligere Frontex-forordningen. Samarbeidet med
-Frontex gir norsk politi muligheter til å delta i
-utviklingen av det operative Schengen-samarbeidet om yttergrensekontroll, derunder deltakelse i
-nettverk for informasjonsinnsamling og -utveksling, etterretning og trussel- og risikoanalyse, foruten utvikling av standardisert utdanning og
-
-2016–2017
-
-utstyr. Som deltaker i Frontex’ arbeid kan Norge
-anmode Frontex om å koordinere bistandsressurser fra andre medlemsland til utøvelse av styrket
-grensekontroll hvis Norge står overfor en situasjon med akutt og ekstraordinært press på sin del
-av Schengen yttergrense.
-Utvalgets forslag til generell lovfesting av deltakelsen vil etter departementets syn ikke ha
-annet enn informasjonsverdi. Det ble heller ikke
-ved Stortingets aksept av RABIT-forordningen
-ansett nødvendig med lov- eller forskriftsendring,
-jf St.prp. nr. 25 (2007–2008) Om samtykke til godtakelse av forordning (EF) 863/2007 om opprettelse av beredskapsteam for grensekontroll (videreutvikling av Schengen-regelverket) og Innst. S
-nr. 124 (2007–2008). Etter departementets syn er
-dette standpunktet dekkende også etter ikrafttredelsen av forordning 2016/1624 om Den europeiske grense- og kystvakt. De administrative og
-økonomiske prosedyrene forbundet med utveksling av mannskaper og ressurser til de ulike teamene er fastsatt i forordningen, som Norge er bundet av. Denne delen av utvalgets forslag følges
-derfor ikke opp.
-Norge har til nå ikke opplevd slikt akutt og
-ekstraordinært press på yttergrensen at det har
-vært nødvendig å be om bistand fra Frontex til
-gjennomføring av grensekontroll. Det kan imidlertid ikke utelukkes at en slik situasjon kan oppstå.
-Departementet er enig med utvalget i at grenseloven bør tydeliggjøre denne spesielle muligheten
-for bistand til politiets grensekontroll, jf. lovforslaget § 8.
-Forordning nr. 2016/1624 art. 40 forutsetter at
-tjenestemenn fra de europeiske grense- og kystvaktteamene skal kunne utøve makt og myndighet tilsvarende de nasjonale grensevaktene, og i
-samsvar med nasjonal lovgivning. De aktuelle
-oppgavene vil da også være av slik karakter at det
-som hovedregel vil kreve politimyndighet etter
-norsk lov. Praksis varierer, men de fleste europeiske lands grensevakter er organisert enten
-under politiet eller som varianter med myndighet
-som politiet. Departementet legger derfor også til
-grunn at det i det alt vesentlige vil dreie seg om
-tjenestemenn som også etter norske forhold vil
-være å anse som polititjenestemenn, og som det
-derfor heller ikke er betenkelig å tildele politimyndighet begrenset til utførelse av det aktuelle oppdraget.
-Etter norsk rett er utgangspunktet at kun norske polititjenestemenn har kompetanse til å utøve
-politimyndighet. Politiloven § 20 a gir imidlertid
-regler om utenlandske polititjenestemenns kompetanse på norsk territorium. Annet ledd presise-
-
-[Side 65]
-
-2016–2017
-
-Prop. 161 L
-Lov om grensetilsyn og grensekontroll av personer (grenseloven)
-
-rer at politimyndighet kan tildeles utenlandsk
-tjenestemann etter samme prinsipper som for tildeling av begrenset politimyndighet etter den mer
-generelle regelen i politiloven § 20 tredje ledd, jf.
-også Prop. 97 LS (2011–2012), punkt 9.5.
-Straffeloven § 155 om vold eller trusler mot
-offentlig tjenestemann skal verne offentlig tjenestemenn under utøvelse av tjenestehandlinger.
-Dersom det gjelder gjensidig, kan Kongen
-bestemme at vernet også skal omfatte lovbrudd
-mot tjenestemenn i et annet lands offentlige myndighet og i mellomstatlige organisasjoner som
-Norge er eller blir medlem av, jf. § 155 fjerde ledd.
-Politiloven § 20 a tredje ledd fastslår imidlertid at
-utenlandsk tjenestemann som utøver politioppgaver som nevnt i § 20 a første ledd er å anse som
-offentlig tjenestemann i forhold til straffelovens
-bestemmelser. Strafferettslig vern og ansvar etter
-denne bestemmelsen er heller ikke knyttet til tildeling av politimyndighet etter annet ledd, men til
-oppgavenes karakter. Disse er i § 20 a første ledd
-angitt til deltakelse i felles etterforskningsgrupper, felles politioperasjoner, eller på annen måte
-utførelse av tjenestehandlinger i Norge i den grad
-det følger av overenskomst med fremmed stat.
-Tilsvarende gjelder for adgangen til å fortsette
-observasjon og forfølgelse på norsk territorium.
-Politiloven § 20 a er ikke gitt med tanke på den
-typen tjenestemenn og operasjoner som følger av
-deltakelsen i Frontex. Departementet finner det
-derfor i likhet med utvalget hensiktsmessig å
-sikre tilstrekkelig hjemmelsgrunnlag for tildeling
-av politimyndighet og fastsettelse av strafferettslig vern og ansvar for disse gjennom grenseloven.
-Utvalget gikk inn for direkte regulering av disse
-spørsmålene i utkastet til § 25 annet ledd, men
-departementet mener det vil være en bedre løsning å fastslå at politiloven § 20 a annet og tredje
-ledd får tilsvarende anvendelse. Regler om tildeling av politimyndighet bør i all hovedsak følge av
-politiloven. Slik er både gjeldende rett og lovforslaget lagt opp for tildeling av politimyndighet til
-militært personell fra Forsvaret som utfører grenseovervåking på politiets vegne på den norsk-russiske grensen, eller som bistår med andre oppgaver.
-
-65
-
-10.2 Immunitet og privilegier
-10.2.1 Gjeldende rett og utvalgets forslag
-Utvalgets utkast til § 26 om immunitet og privilegier skal fange opp de behov for immunitet og privilegier som følger både av Schengen-samarbeidet
-og av grenseregimeavtalen. Utvalget har ikke tatt
-stilling til hvor langt statusreglene i Frontex-forordningen rekker. Det materielle innholdet er i
-hovedsak hentet fra riksgrenseloven § 2, som i
-ordlyd er beslektet med reguleringene i lov 19.
-juni 1947 nr. 5 om immunitet og privilegier for
-internasjonale organisasjoner mv. Etter riksgrenseloven § 2 kan Kongen eller den han gir fullmakt
-uten hinder av norsk lov på nærmere fastsatte vilkår innrømme et naborikes grense-tjenestemenn
-slik immunitet og slike særlige privilegier som følger av overenskomst med vedkommende
-naborike. Nærmere regler er fastsatt i riksgrenseforskriften § 3.
-Riksgrenselovens immunitetsregel skyldes at
-art. 35, jf. art. 33 i grenseregimeavtalen med Russland tilstår hver parts grensekommissærer og
-deres stedfortredere, assistenter, sekretærer, tolker og eksperter personlig ukrenkelighet, hvilket
-innebærer sivil- og strafferettslig immunitet på
-linje med diplomater.
-Utvalget foreslår ingen egen beslutningsprosedyre. Dette i motsetning til riksgrenseloven § 2,
-som den vil erstatte og som fastslår at Kongen
-eller den han gir fullmakt kan innrømme et
-naborikes grensetjenestemenn slik immunitet og
-slike særlige privilegier som følger av overenskomst med nabostaten.
 Ingen høringsinstanser har uttalt seg om forslaget.
-10.2.2 Departementets vurdering
-Etter Frontex-forordningen står personell fra de
-europeiske grensekontrollteamene i samme rettsstilling som personell fra vertstaten, og nyter
-ingen særlig immunitet eller privilegier. For disse
-er det derfor ikke behov for ytterligere regulering. Spesielle regler om immunitet og privilegier
-for russiske tjenestemenn etter grenseregimeavtalen med Russland kan fastsettes i forskrift med
-hjemmel i forslaget til § 25 nr. 2.
 
-[Side 66]
+1.  **Departementets vurdering**
 
-66
+Etter Frontex-forordningen står personell fra de europeiske grensekontrollteamene i samme rettsstilling som personell fra vertstaten, og nyter ingen særlig immunitet eller privilegier. For disse er det derfor ikke behov for ytterligere regulering. Spesielle regler om immunitet og privilegier for russiske tjenestemenn etter grenseregimeavtalen med Russland kan fastsettes i forskrift med hjemmel i forslaget til § 25 nr. 2.
 
-Prop. 161 L
-Lov om grensetilsyn og grensekontroll av personer (grenseloven)
+1.  **Behandling av opplysninger og taushetsplikt**
 
-2016–2017
+    1.  **Gjeldende rett**
 
-11 Behandling av opplysninger og taushetsplikt
-11.1 Gjeldende rett
-Grensekontroll hører under politiets forvaltningsoppgaver, selv om grensekontroll også har kriminalitetsbekjempende formål. Politiets behandling
-av opplysninger til forvaltningsvirksomhet, herunder grensekontroll, følger derfor i utgangspunktet reglene i personopplysningsloven. For
-politiets behandling av opplysninger til forvaltningsmessige formål gjelder de alminnelige
-reglene om taushetsplikt i forvaltningsloven §§ 13
-til 13 f, med de tillegg og begrensninger som følger av politiloven § 24.
-Etter politiloven § 24 annet ledd gjelder taushetsplikten for enhver som utfører tjeneste eller
-arbeid for politiet. Politiet kan pålegge personer,
-private institusjoner og andre offentlige organer
-taushetsplikt når det innhentes opplysninger med
-hjemmel i § 14 d eller dersom reell identitet til en
-person som benytter fiktive personopplysninger,
-er eller vil bli avslørt. Tredje ledd fastslår at forvaltningsloven § 13 a nr. 1 ikke gjelder for opplysninger som kan skade politiets arbeid med å forebygge eller avdekke lovbrudd eller opprettholde
-ro og orden dersom de blir gjort kjent. Etter § 24
-fjerde ledd er taushetsplikt etter forvaltningsloven
-§ 13 ikke til hinder for at opplysninger fra politiets
-forvaltningsvirksomhet og sivile gjøremål gjøres
-kjent for andre tjenestemenn i politiet og påtalemyndigheten i den utstrekning tjenestemessige
-behov tilsier det, med mindre formålet med
-behandlingen av opplysningene er begrenset i lov
-eller i forskrift gitt i medhold av lov.
-Under utøvelse av grenseovervåking behandles opplysninger innhentet av Forsvaret på politiets vegne ved bruk av kameraovervåking og
-annet elektronisk utstyr på den norsk-russiske
-landegrensen. Grenseovervåking innebærer også
-utveksling mellom myndigheter av opplysninger
-innhentet ved bruk av maritime overvåkings- og
-meldesystemer.
-Ikke alle opplysninger innhentet ved grenseovervåking kan knyttes til en fysisk person.
-Adgangen til å drive kameraovervåking på den
-norsk-russiske grensen reguleres av personopplysningsloven kapittel VII. Utplassering av kame-
+Grensekontroll hører under politiets forvaltningsoppgaver, selv om grensekontroll også har kriminalitetsbekjempende formål. Politiets behandling av opplysninger til forvaltningsvirksomhet, herunder grensekontroll, følger derfor i utgangspunktet reglene i personopplysningsloven. For politiets behandling av opplysninger til forvaltningsmessige formål gjelder de alminnelige reglene om taushetsplikt i forvaltningsloven §§ 13 til 13 f, med de tillegg og begrensninger som følger av politiloven § 24.
 
-raer for grenseovervåking er ikke konsesjonspliktig, siden formålet er å avdekke straffbare
-handlinger, jf. personopplysningsloven § 37 annet
-ledd.
-Gjennomføring av inn- og utreisekontroll forutsetter at politiet behandler personopplysninger
-om et stort antall norske og utenlandske borgere. For en stor del gjennomføres inn- og utreisekontroll ved hjelp av politiets Grense- og territorialkontrollsystem (GTK), som er et teknisk
-hjelpemiddel for å verifisere om utlendinger fyller vilkårene for å reise inn i eller ta opphold i
-riket, jf. også punkt 9.2. GTK er tilknyttet dokumentleser og fingeravtrykksleser, og gir kontrolløren støtte til å foreta en kvalifisert vurdering av
-om dokumentet er ekte. Systemet leser informasjon i dokumentets maskinlesbare felt og elektroniske brikke, og søk med dokumentnummer og
-personalia kobles direkte til Schengen Information System (SIS), Interpols etterlysningssystem
-for personer, kjøretøy og dokumenter (ASF),
-politiets sentrale etterlysningsregister (ELYS II)
-og Utlendingsdirektoratets utlendingsdatabase
-(UDB). Fingeravtrykk benyttes sammen med
-visumnummer i søk mot Schengens sentrale
-visumdatabase (VIS) og i den norske visumdatabasen NORVIS for å knytte personens biometri
-til det kontrollerte visumet og kontrollere om
-grunnlaget for visum fremdeles er tilstede.
-Grensekontrollen foretar søk i politiets øvrige
-registre dersom det er formålstjenlig og det foreligger nødvendig lovhjemmel for søket, jf. politiregisterloven § 69 første ledd nr. 9 og forskrifter
-gitt i medhold av denne. Grensekontrollmyndighetene har også tilgang til passregisteret etter
-passloven.
-GTK har i hovedsak karakter av å være en portal for kontroll av opplysninger mot andre systemer, men visse opplysninger registreres og lagres
-for å gi grunnlag for den nødvendige kontrollen.
-Grense- og territorialkontrollsystemet er derfor
-også et grense- og territorialkontrollregister.
-Systemet, herunder registeret, betegnes med
-kortformen GTK. Hjemmelen for etableringen av
-registerdelen av GTK følger forutsetningsvis av
-utlendingsloven §§ 14 og 15.
+Etter politiloven § 24 annet ledd gjelder taushetsplikten for enhver som utfører tjeneste eller arbeid for politiet. Politiet kan pålegge personer, private institusjoner og andre offentlige organer taushetsplikt når det innhentes opplysninger med hjemmel i § 14 d eller dersom reell identitet til en person som benytter fiktive personopplysninger, er eller vil bli avslørt. Tredje ledd fastslår at forvaltningsloven § 13 a nr. 1 ikke gjelder for opplysninger som kan skade politiets arbeid med å forebygge eller avdekke lovbrudd eller opprettholde ro og orden dersom de blir gjort kjent. Etter § 24 fjerde ledd er taushetsplikt etter forvaltningsloven § 13 ikke til hinder for at opplysninger fra politiets forvaltningsvirksomhet og sivile gjøremål gjøres kjent for andre tjenestemenn i politiet og påtalemyndigheten i den utstrekning tjenestemessige behov tilsier det, med mindre formålet med behandlingen av opplysningene er begrenset i lov eller i forskrift gitt i medhold av lov.
 
-[Side 67]
+Under utøvelse av *grenseovervåking* behandles opplysninger innhentet av Forsvaret på politiets vegne ved bruk av kameraovervåking og annet elektronisk utstyr på den norsk-russiske landegrensen. Grenseovervåking innebærer også utveksling mellom myndigheter av opplysninger innhentet ved bruk av maritime overvåkings- og meldesystemer.
 
-2016–2017
+Ikke alle opplysninger innhentet ved grenseovervåking kan knyttes til en fysisk person. Adgangen til å drive kameraovervåking på den norsk-russiske grensen reguleres av personopplysningsloven kapittel VII. Utplassering av kameraer for grenseovervåking er ikke konsesjonspliktig, siden formålet er å avdekke straffbare handlinger, jf. personopplysningsloven § 37 annet ledd.
 
-Prop. 161 L
-Lov om grensetilsyn og grensekontroll av personer (grenseloven)
+Gjennomføring av *inn- og utreisekontroll* forutsetter at politiet behandler personopplysninger om et stort antall norske og utenlandske borgere. For en stor del gjennomføres inn- og utreisekontroll ved hjelp av politiets Grense- og territorialkontrollsystem (GTK), som er et teknisk hjelpemiddel for å verifisere om utlendinger fyller vilkårene for å reise inn i eller ta opphold i riket, jf. også punkt 9.2. GTK er tilknyttet dokumentleser og fingeravtrykksleser, og gir kontrolløren støtte til å foreta en kvalifisert vurdering av om dokumentet er ekte. Systemet leser informasjon i dokumentets maskinlesbare felt og elektroniske brikke, og søk med dokumentnummer og personalia kobles direkte til Schengen Information System (SIS), Interpols etterlysningssystem for personer, kjøretøy og dokumenter (ASF), politiets sentrale etterlysningsregister (ELYS II) og Utlendingsdirektoratets utlendingsdatabase (UDB). Fingeravtrykk benyttes sammen med visumnummer i søk mot Schengens sentrale visumdatabase (VIS) og i den norske visumdatabasen NORVIS for å knytte personens biometri til det kontrollerte visumet og kontrollere om grunnlaget for visum fremdeles er tilstede. Grensekontrollen foretar søk i politiets øvrige registre dersom det er formålstjenlig og det foreligger nødvendig lovhjemmel for søket, jf. politiregisterloven § 69 første ledd nr. 9 og forskrifter gitt i medhold av denne. Grensekontrollmyndighetene har også tilgang til passregisteret etter passloven.
 
-Politiets behandling av opplysninger i registre
-som delvis har forvaltningsmessige og delvis politimessige (kriminalitetsbekjempende) formål skal
-som hovedregel følge reglene i politiregisterloven, jf. politiregisterforskriften § 1-3 nr. 3. For
-behandling av opplysninger til grensekontroll i
-GTK går derfor særreglene i politiregisterloven
-og politiregisterforskriften foran personopplysningsloven som rettslig rammeverk. Politiregisterloven § 4 gir rettslig grunnlag for behandlingen av
-opplysninger i registeret, og nærmere bestemmelser om behandling av opplysninger i GTK er gitt i
-politiregisterforskriften kapittel 55.
-Etter politiregisterforskriften § 55-1 er formålet med grense- og territorialkontrollregisteret
-tredelt. For det første skal registeret bidra til at
-grensekontroll og utlendingskontroll på territoriet
-utøves i samsvar med nasjonale behov og internasjonale forpliktelser, herunder å bidra til å opprettholde ro og orden, forebygge og bekjempe grensekryssende kriminalitet og ulovlig innvandring
-og forhindre overtredelse av bestemmelsene om
-utlendingers opphold i riket. For det andre skal
-registeret bidra til effektiv oppgaveløsning ved
-inn- og utreisekontroll og utlendingskontroll på
-territoriet. For det tredje skal registeret sikre
-notoritet om vesentlige forhold ved inn- og utreisekontrollen og utlendingskontrollen på territoriet. Kripos er behandlingsansvarlig for GTK, jf.
-politiregisterforskriften § 55-3.
-Utlendingsloven § 15 tredje ledd gir hjemmel
-for identitetskontroll i form av iriskontroll, kontroll av fingeravtrykk og ansiktsgjenkjenning ved
-gjennomføring av inn- og utreisekontrollen.
-Passloven § 6 a gir korresponderende hjemmel
-for elektronisk innhenting av biometrisk personinformasjon (ansiktsfoto og fingeravtrykk) av alle
-som passerer grensekontroll eller annet kontrollsted for kontroll av reisedokumenter. Informasjonen skal slettes så snart som mulig etter at identiteten er verifisert mot gyldig reisedokument, eller
-når identiteten er fastslått på annen måte. I praksis
-må kontroll av biometriske personopplysninger
-foregå ved at den reisende passerer en eGate.
-Hjemmel for innhenting av biometrisk ansiktsfoto
-og fingeravtrykk til kontroll av oppholdskort eller
-annet kort med registrert biometrisk personinformasjon (typisk grenseboerbevis) følger av utlendingsloven § 100 b.
+GTK har i hovedsak karakter av å være en portal for kontroll av opplysninger mot andre systemer, men visse opplysninger registreres og lagres for å gi grunnlag for den nødvendige kontrollen. Grense- og territorialkontrollsystemet er derfor også et grense- og territorialkontrollregister. Systemet, herunder registeret, betegnes med kortformen GTK. Hjemmelen for etableringen av registerdelen av GTK følger forutsetningsvis av utlendingsloven §§ 14 og 15.
 
-11.2 Utvalgets forslag
-Utvalget har redegjort for det rettslige grunnlaget
-for politiets behandling av personopplysninger i
+Politiets behandling av opplysninger i registre som delvis har forvaltningsmessige og delvis politimessige (kriminalitetsbekjempende) formål skal som hovedregel følge reglene i politiregisterloven, jf. politiregisterforskriften § 1-3 nr. 3. For behandling av opplysninger til grensekontroll i GTK går derfor særreglene i politiregisterloven og politiregisterforskriften foran personopplysningsloven som rettslig rammeverk. Politiregisterloven § 4 gir rettslig grunnlag for behandlingen av opplysninger i registeret, og nærmere bestemmelser om behandling av opplysninger i GTK er gitt i politiregisterforskriften kapittel 55.
 
-67
+Etter politiregisterforskriften § 55-1 er formålet med grense- og territorialkontrollregisteret tredelt. For det første skal registeret bidra til at grensekontroll og utlendingskontroll på territoriet utøves i samsvar med nasjonale behov og internasjonale forpliktelser, herunder å bidra til å opprettholde ro og orden, forebygge og bekjempe grensekryssende kriminalitet og ulovlig innvandring og forhindre overtredelse av bestemmelsene om utlendingers opphold i riket. For det andre skal registeret bidra til effektiv oppgaveløsning ved inn- og utreisekontroll og utlendingskontroll på territoriet. For det tredje skal registeret sikre notoritet om vesentlige forhold ved inn- og utreisekontrollen og utlendingskontrollen på territoriet. Kripos er behandlingsansvarlig for GTK, jf. politiregisterforskriften § 55-3.
 
-utredningen punkt 4.16, jf. særlig punkt 4.16.4. Da
-utredningen ble avgitt lå departementets forslag
-til politiregisterlov fortsatt til behandling i Stortinget. Utvalget var kjent med lovforslaget, men
-hadde ikke anledning til å innarbeide det i sine
-forslag. Departementet gjorde høringsinstansene
-særskilt oppmerksom på dette da utredningen ble
-sendt på høring høsten 2009. Utvalgets utredning
-har like fullt pekt på en del sentrale problemstillinger som danner utgangspunkt for departementets
-oppfølging.
-Utvalget så behov for en opprydding og forenkling av det daværende regelverket for taushetsplikt og informasjonsutveksling, og viste til at en
-henvisning til ny politiregisterlov i grenseloven
-antakeligvis ville være den beste løsningen. Det
-burde samtidig presiseres at taushetsplikten også
-omfatter andre som utfører oppgaver etter grenseloven. Dette vil normalt være andre myndigheter,
-men kan også være private som for eksempel utfører arbeid knyttet til grensen eller grensemerkingen.
-Bestemmelsene i passloven § 6 a tredje ledd
-om innhenting av biometrisk personinformasjon i
-forbindelse med grensepassering er foreslått
-overført til grenselovutkastets bestemmelse om
-gjennomføring av inn- og utreisekontroll. Den korresponderende sletteregelen i § 6 a fjerde ledd er
-foreslått innlemmet i en egen bestemmelse om
-registrering av personopplysninger ved grensekontroll, og supplert med en hjemmel for lagring i
-elektroniske registre etter forskrifter gitt av
-departementet. Forslaget er ment å gi nødvendige
-rettslige rammer for gjennomføring av EUs planlagte Entry/Exit-ordning. Fullmaktsbestemmelsen åpner også for registrering i andre tilfeller
-dersom nasjonale behov tilsier det. Annet ledd gir
-dessuten vid adgang til å lagre opplysninger innhentet ved grenseovervåking i elektroniske registre, men forutsetter at opplysningene slettes
-senest etter to år.
-I utredningen punkt 4.4.4 viste utvalgets flertall til at grenseovervåking ikke trenger å være
-noe inngrep, og i så måte ikke adskiller seg fra
-politiets alminnelige tilstedeværelse og observasjon på offentlige steder. Behovet for lovhjemmel
-vil derfor bero på hvilke overvåkingsmidler som
-brukes. Systematisk overvåking av personer og
-trafikk langs grensen kan lett gli over i forhold
-som oppfattes som inngrep mot enkeltperson.
-Dette blir særlig uttalt dersom overvåking utføres
-med tekniske hjelpemidler, og det også gis muligheter for å lagre informasjonen som innhentes.
-Som det fremgår av lovutkastet og utredningen
-punkt 4.16.6, har flertallet foreslått en egen hjem-
+Utlendingsloven § 15 tredje ledd gir hjemmel for identitetskontroll i form av iriskontroll, kontroll av fingeravtrykk og ansiktsgjenkjenning ved gjennomføring av inn- og utreisekontrollen. Passloven § 6 a gir korresponderende hjemmel for elektronisk innhenting av biometrisk personinformasjon (ansiktsfoto og fingeravtrykk) av alle som passerer grensekontroll eller annet kontrollsted for kontroll av reisedokumenter. Informasjonen skal slettes så snart som mulig etter at identiteten er verifisert mot gyldig reisedokument, eller når identiteten er fastslått på annen måte. I praksis må kontroll av biometriske personopplysninger foregå ved at den reisende passerer en eGate. Hjemmel for innhenting av biometrisk ansiktsfoto og fingeravtrykk til kontroll av oppholdskort eller annet kort med registrert biometrisk personinformasjon (typisk grenseboerbevis) følger av utlendingsloven § 100 b.
 
-[Side 68]
+1.  **Utvalgets forslag**
 
-68
+Utvalget har redegjort for det rettslige grunnlaget for politiets behandling av personopplysninger i utredningen punkt 4.16, jf. særlig punkt 4.16.4. Da utredningen ble avgitt lå departementets forslag til politiregisterlov fortsatt til behandling i Stortinget. Utvalget var kjent med lovforslaget, men hadde ikke anledning til å innarbeide det i sine forslag. Departementet gjorde høringsinstansene særskilt oppmerksom på dette da utredningen ble sendt på høring høsten 2009. Utvalgets utredning har like fullt pekt på en del sentrale problemstillinger som danner utgangspunkt for departementets oppfølging.
 
-Prop. 161 L
-Lov om grensetilsyn og grensekontroll av personer (grenseloven)
+Utvalget så behov for en opprydding og forenkling av det daværende regelverket for taushetsplikt og informasjonsutveksling, og viste til at en henvisning til ny politiregisterlov i grenseloven antakeligvis ville være den beste løsningen. Det burde samtidig presiseres at taushetsplikten også omfatter andre som utfører oppgaver etter grenseloven. Dette vil normalt være andre myndigheter, men kan også være private som for eksempel utfører arbeid knyttet til grensen eller grensemerkingen.
 
-mel for grenseovervåking ved bruk av elektronisk
-eller optisk utstyr, herunder utstyr montert på
-ubemannede luft-, vann- eller landgående fartøyer,
-og overvåking med satellitt. Utviklingen tilsier
-etter flertallets syn at nytt regelverk gis en teknologinøytral utforming som ikke skiller mellom
-bemannet og fjernbetjent utstyr. Det er også foreslått regler om varsling tilsvarende personopplysningsloven § 40, men med tilpasninger som er
-nødvendige for et grenseområde. Slik varsling
-benyttes i en viss utstrekning også i dag på grenseovergangsstedene. Departementet gis fullmakt
-til å gi forskrift om overvåkingen og bruk av teknisk utstyr.
-I særmerknad til punkt 4.4.4 er utvalgets medlem fra Toll- og avgiftsdirektoratet kritisk til flertallets forutsetning og reguleringsforslag om bruk
-av teknisk overvåkingsutstyr. Utstrakt forskriftsregulering anses ikke tilstrekkelig. Blant annet
-foreslås sensorer og lytteutstyr som etter dette
-medlemmets mening er inngripende metoder
-som krever lovhjemmel.
+Bestemmelsene i passloven § 6 a tredje ledd om innhenting av biometrisk personinformasjon i forbindelse med grensepassering er foreslått overført til grenselovutkastets bestemmelse om gjennomføring av inn- og utreisekontroll. Den korresponderende sletteregelen i § 6 a fjerde ledd er foreslått innlemmet i en egen bestemmelse om registrering av personopplysninger ved grensekontroll, og supplert med en hjemmel for lagring i elektroniske registre etter forskrifter gitt av departementet. Forslaget er ment å gi nødvendige rettslige rammer for gjennomføring av EUs planlagte Entry/Exit-ordning. Fullmaktsbestemmelsen åpner også for registrering i andre tilfeller dersom nasjonale behov tilsier det. Annet ledd gir dessuten vid adgang til å lagre opplysninger innhentet ved grenseovervåking i elektroniske registre, men forutsetter at opplysningene slettes senest etter to år.
 
-11.3 Høringsinstansenes syn
-Fornyings-, administrasjons- og kirkedepartementet
-(FAD) påpeker at både grenseovervåking og innog utreisekontroll innebærer behandling av en
-god del personopplysninger ved registrering av
-biometriske identitetskjennetegn fra reisedokumenter og bruk av kamera i grenseovervåkingsøyemed. Samtidig konstaterer FAD at reglene
-utvalget har foreslått i all hovedsak er fullmaktsbestemmelser som på tilfredsstillende og overordnet måte legger opp til å ivareta publikums personvern ved grensekontroll. Ytterligere merknader vil eventuelt bli avgitt til høringen av etterfølgende forslag til forskriftsregulering.
-Datatilsynet påpeker for det første at det ikke
-vil være generell motstrid mellom personopplysningslovens bestemmelser og utvalgets utkast til
-§ 15 om bruk av teknisk overvåkingsutstyr. Personopplysningsloven fastsetter selv at fjernsynsovervåking kan hjemles i lov, jf. §§ 37 og 11, jf.
-§§ 8 og 9. Personopplysningslovens regler vil
-heller komme supplerende inn når grenseloven
-er taus om forhold som er omhandlet i personopplysningsloven. Eksempler på dette er personopplysningslovens regler om retting eller sletting eller reglene om informasjonssikkerhet. På
-denne bakgrunn vil Datatilsynet understreke at
-personopplysningsloven bestemmelser vil gjelde
-fullt ut, med mindre annet fremgår av grenseloven. Slik tilsynet ser det, kan det med fordel
+I utredningen punkt 4.4.4 viste utvalgets flertall til at grenseovervåking ikke trenger å være noe inngrep, og i så måte ikke adskiller seg fra politiets alminnelige tilstedeværelse og observasjon på offentlige steder. Behovet for lovhjemmel vil derfor bero på hvilke overvåkingsmidler som brukes. Systematisk overvåking av personer og trafikk langs grensen kan lett gli over i forhold som oppfattes som inngrep mot enkeltperson. Dette blir særlig uttalt dersom overvåking utføres med tekniske hjelpemidler, og det også gis muligheter for å lagre informasjonen som innhentes. Som det fremgår av lovutkastet og utredningen punkt 4.16.6, har flertallet foreslått en egen hjemmel for grenseovervåking ved bruk av elektronisk eller optisk utstyr, herunder utstyr montert på ubemannede luft-, vann- eller landgående fartøyer, og overvåking med satellitt. Utviklingen tilsier etter flertallets syn at nytt regelverk gis en teknologinøytral utforming som ikke skiller mellom bemannet og fjernbetjent utstyr. Det er også foreslått regler om varsling tilsvarende personopplysningsloven § 40, men med tilpasninger som er nødvendige for et grenseområde. Slik varsling benyttes i en viss utstrekning også i dag på grenseovergangsstedene. Departementet gis fullmakt til å gi forskrift om overvåkingen og bruk av teknisk utstyr.
 
-2016–2017
+I særmerknad til punkt 4.4.4 er utvalgets medlem fra Toll- og avgiftsdirektoratet kritisk til flertallets forutsetning og reguleringsforslag om bruk av teknisk overvåkingsutstyr. Utstrakt forskriftsregulering anses ikke tilstrekkelig. Blant annet foreslås sensorer og lytteutstyr som etter dette medlemmets mening er inngripende metoder som krever lovhjemmel.
 
-inntas en presisering av dette i den endelige lovteksten.
-For det andre påpeker Datatilsynet at utvalgets fullmaktsbestemmelse om lagring av biometrisk personinformasjon åpner for potensielt
-meget vidtrekkende unntak fra regelen om at opplysningene skal slettes så snart identiteten er verifisert. Slik Datatilsynet ser det, bør de ulike former for behandling av denne typen personopplysninger hjemles i formell lov fremfor forskrift.
-Romerike politidistrikt mener hjemmelsgrunnlaget for lagring av personinformasjon bør være i
-utlendingsloven.
-Forsvarsdepartementet og Forsvaret mener
-utredningens beskrivelse av elektroniske og
-optiske hjelpemidler til overvåking kan virke noe
-begrensende på utnyttelse av dagens og fremtidig
-teknologi. Det anbefales derfor i stedet å bruke
-ordlyden i grenseforordningen art. 12 pkt. 3, som
-lyder: «… Overvåking kan også skje med tekniske
-hjelpemidler, herunder elektroniske hjelpemidler.»
-Videre bes Justisdepartementet vurdere å presisere i form av lovtekst, alternativt i merknadene
-til bestemmelsen, at grenseloven gir hjemmel for
-utveksling av informasjon og annet materiale relatert til oppdragsløsningen, herunder utveksling av
-bilder og video mellom Forsvarets og politiets
-systemer. For øvrig legger Forsvarsdepartementet og Forsvaret til grunn at bestemmelsene i lov
-20. mars 1998 nr. 10 om forebyggende sikkerhetstjeneste (sikkerhetsloven) om informasjonsbehandling skal gjelde for alle etater som utfører
-oppgaver etter ny grenselov, og anbefaler en referanse til denne loven.
-Ingen høringsinstanser har kommentert forslaget om hjemmel for registrering av opplysninger som grunnlag for innføring av Entry/Exitsystemet.
+1.  **Høringsinstansenes syn**
 
-11.4 Departementets vurdering
-11.4.1 Behandling av personopplysninger
-Forslaget til ny grenselov baserer seg på allerede
-etablerte og regulerte ordninger for gjennomføring av grensekontroll med tilhørende behandling av opplysninger, i stor grad forankret i internasjonale rettsakter som Norge har tiltrådt eller er
-bundet av, og har gjennomført i norsk rett og
-praksis. Med et nytt lovgrunnlag bør imidlertid
-den rettslige forankringen for behandling av opplysninger som ledd i utøvelsen av grensekontroll
-tydeliggjøres og styrkes. Siden oppgavene som
-reguleres av lovforslaget favner bredt og involve-
+*Fornyings-, administrasjons- og kirkedepartementet (FAD)* påpeker at både grenseovervåking og inn- og utreisekontroll innebærer behandling av en god del personopplysninger ved registrering av biometriske identitetskjennetegn fra reisedokumenter og bruk av kamera i grenseovervåkingsøyemed. Samtidig konstaterer FAD at reglene utvalget har foreslått i all hovedsak er fullmaktsbestemmelser som på tilfredsstillende og overordnet måte legger opp til å ivareta publikums personvern ved grensekontroll. Ytterligere merknader vil eventuelt bli avgitt til høringen av etterfølgende forslag til forskriftsregulering.
 
-[Side 69]
+*Datatilsynet* påpeker for det første at det ikke vil være generell motstrid mellom personopplysningslovens bestemmelser og utvalgets utkast til § 15 om bruk av teknisk overvåkingsutstyr. Personopplysningsloven fastsetter selv at fjernsynsovervåking kan hjemles i lov, jf. §§ 37 og 11, jf. §§ 8 og 9. Personopplysningslovens regler vil heller komme supplerende inn når grenseloven er taus om forhold som er omhandlet i personopplysningsloven. Eksempler på dette er personopplysningslovens regler om retting eller sletting eller reglene om informasjonssikkerhet. På denne bakgrunn vil Datatilsynet understreke at personopplysningsloven bestemmelser vil gjelde fullt ut, med mindre annet fremgår av grenseloven. Slik tilsynet ser det, kan det med fordel inntas en presisering av dette i den endelige lovteksten.
 
-2016–2017
+For det andre påpeker Datatilsynet at utvalgets fullmaktsbestemmelse om lagring av biometrisk personinformasjon åpner for potensielt meget vidtrekkende unntak fra regelen om at opplysningene skal slettes så snart identiteten er verifisert. Slik Datatilsynet ser det, bør de ulike former for behandling av denne typen personopplysninger hjemles i formell lov fremfor forskrift.
 
-Prop. 161 L
-Lov om grensetilsyn og grensekontroll av personer (grenseloven)
+*Romerike politidistrikt* mener hjemmelsgrunnlaget for lagring av personinformasjon bør være i utlendingsloven.
 
-rer flere myndigheter, bør lovforslaget også sikre
-enhetlige og oversiktlige regler og tilstrekkelige
-hjemler for mer detaljerte forskrifter.
-Som nevnt i punkt 11.1, reguleres behandling
-av opplysninger i forbindelse med grensekontroll
-både av personopplysningsloven og av politiregisterloven. Politiregisterloven gjelder imidlertid
-bare når behandlingen skjer elektronisk, og for
-manuell behandling når opplysningene inngår
-eller skal inngå i et register, og der formålet også
-er kriminalitetsbekjempelse. I praksis vil behandling av opplysninger i stor grad skje i registre.
-Slike registre må i henhold til politiregisterloven
-§ 14 være regulert ved forskrift. Behandling av
-opplysninger i forbindelse med grensekontroll vil
-følge personopplysningsloven, med mindre formålet også er kriminalitetsbekjempelse og det er gitt
-en egen forskrift om behandlingen i politiregisterforskriften del 11.
-EU vedtok i april 2016 en ny forordning om
-behandling av personopplysninger, forordning
-(EU) 2016/679. Forordningen erstatter personverndirektiv 95/46/EF, som er inntatt i EØS-avtalen og gjennomført i personopplysningsloven.
-Forordningen begynner å gjelde i EU 25. mai
-2018. Det tas sikte på at forordningen skal innlemmes i EØS-avtalen og gjennomføres i norsk rett
-gjennom en ny personopplysningslov.
-Forordningen viderefører i det vesentlige de
-grunnleggende prinsippene i personopplysningsloven. I motsetning til gjeldende lov krever imidlertid forordningen at det for behandling av personopplysninger i forbindelse med myndighetsutøvelse som regel må finnes et supplerende rettslig
-grunnlag for behandlingen, jf. art. 6 nr. 1, jf. nr. 3.
-Det er også nytt at biometriske opplysninger med
-det formål å entydig identifisere en fysisk person
-er å anse som sensitive personopplysninger, jf. art.
-9 nr. 1. Behandling av sensitive opplysninger er i
-utgangspunktet forbudt, og slike opplysninger
-kan bare behandles når det er adgang til dette er
-unntaksreglene i art. 9 nr. 2. Etter art. 9 nr. 2 bokstav g) kan sensitive personopplysninger behandles dersom det er nødvendig av hensyn til viktige
-samfunnsinteresser og det foreligger et rettsgrunnlag i nasjonal rett.
-Departementet foreslår at det gis en uttrykkelig hjemmel for behandling av opplysninger som
-er nødvendig til gjennomføringen av oppgavene
-etter grenseloven, jf. lovforslaget § 22. Som følge
-av dette foreslås også det rettslige grunnlaget for
-grense- og territorialkontrollregisteret (GTK) forankret i grenseloven, slik at forskriftsreguleringen av registeret i politiregisterforskriften kapittel
-55 vil være hjemlet i grenseloven når denne trer i
+*Forsvarsdepartementet og Forsvaret* mener utredningens beskrivelse av elektroniske og optiske hjelpemidler til overvåking kan virke noe begrensende på utnyttelse av dagens og fremtidig teknologi. Det anbefales derfor i stedet å bruke ordlyden i grenseforordningen art. 12 pkt. 3, som lyder: «… Overvåking kan også skje med tekniske hjelpemidler, herunder elektroniske hjelpemidler.»
 
-69
+Videre bes Justisdepartementet vurdere å presisere i form av lovtekst, alternativt i merknadene til bestemmelsen, at grenseloven gir hjemmel for utveksling av informasjon og annet materiale relatert til oppdragsløsningen, herunder utveksling av bilder og video mellom Forsvarets og politiets systemer. For øvrig legger Forsvarsdepartementet og Forsvaret til grunn at bestemmelsene i lov 20. mars 1998 nr. 10 om forebyggende sikkerhetstjeneste (sikkerhetsloven) om informasjonsbehandling skal gjelde for alle etater som utfører oppgaver etter ny grenselov, og anbefaler en referanse til denne loven.
 
-kraft. Gjeldende forskriftsregulering av hvilke
-opplysninger som kan registreres i GTK dekker i
-utgangspunktet også opplysninger som følger av
-meldeplikten for API-data, men det er behov for
-nye forskriftsregler som blant annet tydeliggjør de
-særlige slettekravene etter API-direktivet, jf.
-punkt 9.4. I forskriftsarbeidet vil departementet
-foreta en nærmere vurdering av om registreringen av passasjerdata bør samreguleres med GTK i
-politiregisterforskriften, eller reguleres i forskrift
-til grenseloven.
-Utlendingslovens forarbeider forutsetter at det
-i forbindelse med grensekontroll kan foretas søk i
-utlendingsmyndighetenes datasystemer for å
-bringe på det rene om en person skal nektes innreise. I høringsnotat 30. august 2016 foreslo
-departementet en ny bestemmelse i utlendingsloven for blant annet å tydeliggjøre hjemmelsgrunnlaget for politiets tilgang til utlendingsmyndighetenes datasystemer i forbindelse med grensekontroll og alminnelig utlendingskontroll. Forslagene i høringssaken følges opp i egen prosess,
-og vurderes sammen med andre spørsmål knyttet
-til behandling av opplysninger i utlendingsforvaltningen og politiets tilgang til opplysningene, fortrinnsvis med tanke på regulering i utlendingsloven.
-Den gjeldende hjemmelen i passloven § 6 a
-tredje ledd for innhenting av biometrisk personinformasjon i forbindelse med grensepassering
-foreslås overført til grenseloven, der den tematisk
-hører hjemme. Som nevnt ovenfor er biometriske
-opplysninger med det formål å entydig identifisere en fysisk person definert som sensitive opplysninger i forordning (EU) 2016/679. Formålet
-med bruk av biometri er å verifisere en persons
-identitet, noe som er av avgjørende betydning for
-å sikre kontroll med personer som krysser grensen og anses å tilfredsstille kravet i forordningen
-art. 9. Etter politiregisterloven § 7 kan sensitive
-opplysninger bare behandles dersom det er
-strengt nødvendig. Ifølge politiregisterforskriften
-§ 4-3 er dette kravet oppfylt dersom behandlingen
-er den eneste muligheten til å oppnå formålet.
-Biometri vil i de fleste tilfellene være den eneste
-sikre måten å verifisere en persons identitet på,
-slik at det også etter politiregisterloven vil være
-adgang til å sammenligne biometri med politiets
-registre. Det foreslås nå ingen nye hjemler for innhenting og lagring av biometrisk personinformasjon for grensekontrollformål. Sletteregelen i
-passloven § 6 a fjerde ledd foreslås videreført
-gjennom forskrift. Det fremstår som mest naturlig
-at regler både om sletting, retting og innsyn reguleres i forskrift, jf. forslaget til § 25 nr. 10.
+Ingen høringsinstanser har kommentert forslaget om hjemmel for registrering av opplysninger som grunnlag for innføring av Entry/Exit-systemet.
+
+1.  **Departementets vurdering**
+
+    1.  **Behandling av personopplysninger**
+
+Forslaget til ny grenselov baserer seg på allerede etablerte og regulerte ordninger for gjennomføring av grensekontroll med tilhørende behandling av opplysninger, i stor grad forankret i internasjonale rettsakter som Norge har tiltrådt eller er bundet av, og har gjennomført i norsk rett og praksis. Med et nytt lovgrunnlag bør imidlertid den rettslige forankringen for behandling av opplysninger som ledd i utøvelsen av grensekontroll tydeliggjøres og styrkes. Siden oppgavene som reguleres av lovforslaget favner bredt og involverer flere myndigheter, bør lovforslaget også sikre enhetlige og oversiktlige regler og tilstrekkelige hjemler for mer detaljerte forskrifter.
+
+Som nevnt i punkt 11.1, reguleres behandling av opplysninger i forbindelse med grensekontroll både av personopplysningsloven og av politiregisterloven. Politiregisterloven gjelder imidlertid bare når behandlingen skjer elektronisk, og for manuell behandling når opplysningene inngår eller skal inngå i et register, og der formålet også er kriminalitetsbekjempelse. I praksis vil behandling av opplysninger i stor grad skje i registre. Slike registre må i henhold til politiregisterloven § 14 være regulert ved forskrift. Behandling av opplysninger i forbindelse med grensekontroll vil følge personopplysningsloven, med mindre formålet også er kriminalitetsbekjempelse og det er gitt en egen forskrift om behandlingen i politiregisterforskriften del 11.
+
+EU vedtok i april 2016 en ny forordning om behandling av personopplysninger, forordning (EU) 2016/679. Forordningen erstatter personverndirektiv 95/46/EF, som er inntatt i EØS-avtalen og gjennomført i personopplysningsloven. Forordningen begynner å gjelde i EU 25. mai 2018. Det tas sikte på at forordningen skal innlemmes i EØS-avtalen og gjennomføres i norsk rett gjennom en ny personopplysningslov.
+
+Forordningen viderefører i det vesentlige de grunnleggende prinsippene i personopplysningsloven. I motsetning til gjeldende lov krever imidlertid forordningen at det for behandling av personopplysninger i forbindelse med myndighetsutøvelse som regel må finnes et supplerende rettslig grunnlag for behandlingen, jf. art. 6 nr. 1, jf. nr. 3. Det er også nytt at biometriske opplysninger med det formål å entydig identifisere en fysisk person er å anse som sensitive personopplysninger, jf. art. 9 nr. 1. Behandling av sensitive opplysninger er i utgangspunktet forbudt, og slike opplysninger kan bare behandles når det er adgang til dette er unntaksreglene i art. 9 nr. 2. Etter art. 9 nr. 2 bokstav g) kan sensitive personopplysninger behandles dersom det er nødvendig av hensyn til viktige samfunnsinteresser og det foreligger et rettsgrunnlag i nasjonal rett.
+
+Departementet foreslår at det gis en uttrykkelig hjemmel for behandling av opplysninger som er nødvendig til gjennomføringen av oppgavene etter grenseloven, jf. lovforslaget § 22. Som følge av dette foreslås også det rettslige grunnlaget for grense- og territorialkontrollregisteret (GTK) forankret i grenseloven, slik at forskriftsreguleringen av registeret i politiregisterforskriften kapittel 55 vil være hjemlet i grenseloven når denne trer i kraft. Gjeldende forskriftsregulering av hvilke opplysninger som kan registreres i GTK dekker i utgangspunktet også opplysninger som følger av meldeplikten for API-data, men det er behov for nye forskriftsregler som blant annet tydeliggjør de særlige slettekravene etter API-direktivet, jf. punkt 9.4. I forskriftsarbeidet vil departementet foreta en nærmere vurdering av om registreringen av passasjerdata bør samreguleres med GTK i politiregisterforskriften, eller reguleres i forskrift til grenseloven.
+
+Utlendingslovens forarbeider forutsetter at det i forbindelse med grensekontroll kan foretas søk i utlendingsmyndighetenes datasystemer for å bringe på det rene om en person skal nektes innreise. I høringsnotat 30. august 2016 foreslo departementet en ny bestemmelse i utlendingsloven for blant annet å tydeliggjøre hjemmelsgrunnlaget for politiets tilgang til utlendingsmyndighetenes datasystemer i forbindelse med grensekontroll og alminnelig utlendingskontroll. Forslagene i høringssaken følges opp i egen prosess, og vurderes sammen med andre spørsmål knyttet til behandling av opplysninger i utlendingsforvaltningen og politiets tilgang til opplysningene, fortrinnsvis med tanke på regulering i utlendingsloven.
+
+Den gjeldende hjemmelen i passloven § 6 a tredje ledd for innhenting av biometrisk personinformasjon i forbindelse med grensepassering foreslås overført til grenseloven, der den tematisk hører hjemme. Som nevnt ovenfor er biometriske opplysninger med det formål å entydig identifisere en fysisk person definert som sensitive opplysninger i forordning (EU) 2016/679. Formålet med bruk av biometri er å verifisere en persons identitet, noe som er av avgjørende betydning for å sikre kontroll med personer som krysser grensen og anses å tilfredsstille kravet i forordningen art. 9. Etter politiregisterloven § 7 kan sensitive opplysninger bare behandles dersom det er strengt nødvendig. Ifølge politiregisterforskriften § 4-3 er dette kravet oppfylt dersom behandlingen er den eneste muligheten til å oppnå formålet. Biometri vil i de fleste tilfellene være den eneste sikre måten å verifisere en persons identitet på, slik at det også etter politiregisterloven vil være adgang til å sammenligne biometri med politiets registre. Det foreslås nå ingen nye hjemler for innhenting og lagring av biometrisk personinformasjon for grensekontrollformål. Sletteregelen i passloven § 6 a fjerde ledd foreslås videreført gjennom forskrift. Det fremstår som mest naturlig at regler både om sletting, retting og innsyn reguleres i forskrift, jf. forslaget til § 25 nr. 10.
+
+Ulovlige grensepasseringer og unndragelse av inn- og utreisekontroll motvirkes i økende grad gjennom bruk av elektroniske hjelpemidler. GSV bruker i dag moderne teknologi og sensorer for å overvåke og patruljere grensen mot Russland, og også Kystverket og Kystvakten bruker avansert teknologi i overvåkingen av territorialfarvannet og tilliggende havområder. Departementet er enig med utvalget i at ny grenselov bør gi selvstendig hjemmel for bruk av teknisk overvåkingsutstyr i den sivile grenseovervåkingen som politiet har ansvaret for. Departementet er også enig med utvalget i at hjemmelen bør gis en teknologinøytral utforming. Forsvarets grenseovervåking på vegne av politiet på den norsk-russiske grensen skjer parallelt med den militære overvåkingen av grensen, og også politiets overvåking av sjøgrensen foregår ved hjelp av avanserte systemer som eies av andre og tjener flere formål. Eventuelle fremtidige behov for å fastsette rammer for bruken av Forsvarets teknologiske overvåkningsutstyr i grenseovervåking for sivile formål kan gis i forskrift, jf. forslaget til § 25 nr. 11. I den grad overvåking også representerer behandling av opplysninger, vil de alminnelige reglene for slik behandling komme til anvendelse. Siden Forsvaret også behandler opplysninger på vegne av politiet, bør det for denne behandlingen inngås en databehandleravtale mellom politiet og Forsvaret for å tydeliggjøre politiets rolle som behandlingsansvarlig. Slik avtale er inngått mellom Finnmark politidistrikt og GSV.
+
+1.  **Taushetsplikt og informasjonsutveksling**
+
+Departementet er enig med utvalget i at det bør gis en egen bestemmelse om taushetsplikt i grenseloven som tydeliggjør at behandling av opplysninger i forbindelse med gjennomføring av oppgaver etter grenseloven er taushetsbelagt. Som det fremgår av punkt 11.1 gjelder politilovens bestemmelser om taushetsplikt også for politiets forvaltningsvirksomhet, herunder grensekontroll, men opplysninger i forbindelse med grensekontroll behandles også etter politiregisterloven. Taushetspliktbestemmelsene i politiregisterloven er ikke sammenfallende med taushetspliktbestemmelsene i forvaltningsloven, og det er derfor også viktig å tydeliggjøre i grenseloven hvilke regler som gjelder. Dette gjelder særlig siden brudd på taushetsplikt er straffbart.
+
+Utøvelsen av grenseovervåking etter loven krever utveksling av opplysninger mellom politiets, Kystverkets og Forsvarets systemer. Informasjon og situasjonsforståelse gjennom Forsvarets og Kystverkets systemer gjøres tilgjengelig for politiet som oppdragsgiver etter nærmere avtaler og behov. Politiets bruk av SafeSeaNet i forbindelse med mottak av mannskaps- og passasjerlister gir også direktetilgang til det automatiske identifikasjonssystemet AIS, som gir et nå-situasjonsbilde over fartøyers posisjon og fart. Forsvarets kystovervåkingssystem COSS har et eget område som bare er tilgjengelig for politiet. Departementet ser ikke behov for nærmere regulering av denne informasjonsutvekslingen i grenseloven. Forskriftshjemmelen i lovforslaget § 25 nr. 10 gir imidlertid hjemmel for nærmere regler i forskrift også om behandling, herunder utveksling, av opplysninger i koordineringssenteret for Eurosur.
+
+Norges forpliktelser etter Eurosur-forordningen forutsetter at alle nasjonale myndigheter med grenseovervåkingsoppgaver samarbeider om informasjonsinnsamlig og informasjonsdeling via NKS på Kripos, jf. punkt 8.1.4. Eurosur omfatter i utgangspunktet ikke personopplysninger, det vil si overvåkingsopplysninger som kan knyttes til fysiske personer. Forordningen art. 13 åpner likevel for at også personopplysninger kan deles, i den grad overvåkingsinformasjon inneholder opplysninger som etter nasjonal rett regnes som personopplysninger. Dette gjelder særlig i relasjon til fartøysregistrering, som etter omstendighetene kan indikere hvem som befinner seg ombord. Til det europeiske situasjonsbildet er det kun tillatt å behandle personopplysninger i tilkytning til skipets IMO-nummer, som er en del av Den internasjonale sjøfartsorganisasjonen (IMO) sitt identifikasjonssystem for skip. Etter art. 13 nr. 1 skal behandling av personopplysninger til det nasjonale situasjonsbildet følge reglene om databeskyttelse i nasjonal rett, EUs personverndirektiv 95/46/EF og rammebeslutning 2008/977 JHA om personvern i tredje søyle.
+
+Forslaget om å henvise nasjonale reguleringsbehov knyttet til behandling av opplysninger som ledd i deltakelsen i Eurosur til forskrift, samsvarer med reguleringsmodellen i politiregisterloven for andre internasjonale rettsakter som Norge er bundet av, og som faller inn under rammebeslutning 2008/977 JHA, jf. politiregisterforskriften *Del 12. Behandling av opplysninger i henhold til internasjonale rettsakter*. Med hjemmel i grenseloven kan det blant annet gis nærmere regler om informasjonsinnsamling og informasjonsdeling mellom de nasjonale myndighetene som er tilknyttet NKS for Eurour, i den grad det er nødvendig for at ordningen skal fungere etter hensikten.
+
+1.  **Tvangsmidler og straff**
+
+    1.  **Tvangsmidler**
+
+        1.  **Gjeldende rett**
+
+Utlendingsloven kapittel 12 gir regler om bruk av tvangsmidler i alminnelige utlendingssaker, herunder regler om undersøkelser, beslag, meldeplikt og bestemt oppholdssted, samt pågripelse og fengsling. Flere av bestemmelsene i kapittel 12 viser til prosessuelle regler i straffeprosessloven «så langt de passer». Utlendingslovens regler utfylles således med straffeprosesslovens regler. Departementet bemerker at det i Prop. 126 L (2016–2017) er fremmet forslag om en betydelig revisjon av kapittel 12, hvor hovedformålet er å avklare og tydeliggjøre hvilke regler i straffeprosessloven som skal gjelde for bruk av tvangsmidler etter utlendingsloven (se særlig kapittel 6 til 10).
+
+Det følger av utlendingsloven § 99 første ledd at et tvangsmiddel bare kan benyttes når det er tilstrekkelig grunn til det, og det må ikke være et uforholdsmessig inngrep. Tvangsmidler kan benyttes både før og etter at det foreligger et vedtak som innebærer at utlendingen må forlate riket, jf. utlendingsloven § 99 annet ledd.
+
+I praksis er det lagt til grunn at politiet i kraft av kompetansen etter utlendingsloven § 22, jf. § 15 har adgang til å holde tilbake en person for et kort tidsrom uten at det treffes formell pågripelsesbeslutning. Det er antatt at grensen går ved omkring 4 timer (jf. også politiloven § 8) mens det gjennomføres nødvendige undersøkelser.
+
+Politiloven § 8 om innbringelse for politimessige formål supplerer utlendingsloven § 22, jf. § 15, og lyder:
+
+«Politiet kan innbringe til politistasjon, lensmannskontor eller annet lokale som benyttes under polititjenesten
+
+1.  den som på offentlig sted forstyrrer ro og orden eller den lovlige ferdsel
+
+2.  den som ikke etterkommer pålegg fra politiet om å fjerne seg fra offentlig sted når omstendighetene gir skjellig grunn til å frykte for forstyrrelse av den alminnelige ro og orden eller den lovlige ferdsel
+
+3.  den som ikke oppgir navn, fødselsdato, fødselsår, stilling og bopel når politiet forlanger det, eller som gir opplysninger herom som det er grunn til å tvile på riktigheten av
+
+4.  den som treffes på eller ved sted der det må antas å være begått en forbrytelse umiddelbart forut.
+
+Ingen må holdes tilbake lenger enn nødvendig etter denne bestemmelsen og ikke ut over fire timer.»
+
+I saker om bortvisning eller utvisning hvor utlendingen må holdes lenger enn fire timer, er det i første rekke utlendingsloven § 106 første ledd bokstav b som er den aktuelle hjemmelen for pågripelse og fengsling. Det følger av bestemmelsen at en utlending kan pågripes og fengsles når det foreligger «konkrete holdepunkter for å anta at utlendingen vil unndra seg iverksettingen av et vedtak som innebærer at utlendingen plikter å forlate riket.» Vedkommende vil i slike tilfeller kunne plasseres i ventecelle/politiarrest i påvente av uttransport eller overføring til Politiets utlendingsinternat.
+
+Vedtak som innebærer at en utlending må forlate riket, herunder vedtak om bortvisning og utvisning, innebærer at utlendingen må forlate Schengen-området (hvis han eller hun er tredjelandsborger). Det kan derfor tenkes situasjoner hvor det foreligger adgang til pågripelse og fengsling i medhold av § 106 første ledd bokstav b når utlendingen vil forlate Norge, men ikke Schengen-området, jf. Rt. 2012 s. 1330.
+
+1.  **Utvalgets forslag**
+
+Et samlet utvalg har påpekt at gjeldende lovgivning ikke regulerer situasjonsbestemte behov for å holde person og dokumenter under kontroll når ikke utlendingslovens vilkår for pågripelse og fengsling foreligger. Utvalget har imidlertid ikke vært samstemte i synet på om regulering bør skje i grenseloven eller utlendingsloven, jf. utredningen punkt 4.4.3.
+
+*Medlemmene Aukrust, Furnes og Ottersland* viser til at utlendingsloven har godt utbygde regler om tvangsmidler. En eventuell endring bør derfor etter disse medlemmenes syn først skje etter en totalvurdering av utlendingslovens tvangsmiddelsystem, ikke som en spesialbestemmelse i ny grenselov.
+
+*Medlemmene Clementsen, Hansen og Aaserød* mener grenseloven bør ha en egen bestemmelse om adgang til forvaltningsmessige tvangstiltak overfor personer som kommer til et grenseovergangssted eller påtreffes ved grensen, og som antas ikke å fylle vilkårene for å komme inn i riket. *Utvalgets leder, Jon Karlsrud og utvalgsmedlem O‘Connor,* tiltrer forslaget, men mener lovbestemmelsen bør begrenses til å gjelde personer som stanses ved inn- og utreisekontrollen på et grenseovergangssted. Utvalget har dermed hatt flertall for å foreslå en hjemmel for forvaltningsmessige tvangsmidler i grenseloven. Etter forslaget kan tilbakeholdelse skje før faktisk grensepassering, og før overtredelse av straffbarhetsvilkåret.
+
+Utvalget foreslår en henvisning i utlendingsloven § 66 bokstav a til at også grov eller gjentatt overtredelse av grenseloven gir grunnlag for utvisning.
+
+1.  **Høringsinstansenes syn**
+
+*Utlendingsdirektoratet* støtter utvalgets forslag om innføring av et forvaltningsmessig tvangstiltak i grenseloven, og viser til at det kan forekomme situasjoner hvor det er behov for å holde en person tilbake uten at det grunnlag for å benytte tvangsmidler etter utlendingsloven. Tilbakeholdelse kan være et inngripende tiltak, og direktoratet mener det er positivt at utvalgets utkast stiller krav til forholdsmessighet og domstolskontroll for tilbakeholdelse ut over tre dager. Siden tilbakeholdelse vil være aktuelt ved politiets forberedelse av bort- eller utvisningsvedtak og gjennomføring av slikt vedtak, anbefaler UDI at det inntas en henvisning til bestemmelsen i de aktuelle reglene i utlendingsloven, for eksempel i § 18 om bortvisning og § 72 om utvisning.
+
+Også *Romerike politidistrikt* støtter forslaget om en ny forvaltningsmessig tvangshjemmel, men mener bestemmelsen bør plasseres i gjeldende utlendingslov. Politidirektoratet er i tvil om behovet for ytterligere lovregulering og legger til grunn at en slik hjemmel forutsetter at det gjøres en totalvurdering av reglene i utlendingsloven. Bestemmelsen bør plasseres i utlendingsloven.
+
+Etter *Troms og Finnmark statsadvokatembeters* syn bør det ikke innføres regler om forvaltningsmessige tvangsmidler i ny grenselov uten samtidig utredning av de tilsvarende reglene i utlendingsloven. Regelsettene griper inn i hverandre, og gir behov for samkjøring. Embetene mener mye taler for at regulering bør skje i utlendingsloven.
+
+*Østfinnmark politidistrikt* viser også til at et forvaltningsmessig tvangsmiddel vil være nært knyttet til behandlingen av utlendingssaken og de materielle vurderingene av vilkårene i utlendingsloven. Naturlig plassering vil da være i utlendingsloven. Tilsvarende *Troms og Finnmark statsadvokatembeter*.
+
+1.  **Departementets vurdering**
+
+Når politiet i dag avdekker i innreisekontrollen eller utreisekontrollen at en utlending ikke fyller vilkårene for lovlig innreise eller utreise, blir vedkommende holdt tilbake. Etter EMK vurderes det i utgangspunktet ikke som frihetsberøvelse om utlendingen holdes tilbake i noen få timer for kontroll eller gjennomføring av returreise/avvisning fra utreise. I norsk praksis er grensen satt ved om lag fire timer. Praksis utøves i dag med hjemmel i utlendingsloven § 22, jf. § 15 om grensekontroll og politiloven § 8 om innbringelse for visse politimessige formål. Departementet vil vurdere en endring i utlendingsloven for å tydeliggjøre hjemmelsgrunnlaget.
+
+I noen tilfeller må den det gjelder holdes tilbake lenger enn fire timer for å avklare om vedkommende skal bortvises eller utvises eller for å arrangere returreise. I disse tilfellene må man i dag vurdere om det foreligger unndragelsesfare slik at det er rettslig grunnlag for at en politijurist kan treffe beslutning om pågripelse etter utlendingsloven § 106 første ledd bokstav b. Departementet vil vurdere en endring i utlendingsloven § 106 som vil gi særskilt grunnlag for pågripelse når det oppstår situasjonsbestemte behov for å holde utlendingen tilbake lenger enn fire timer.
+
+1.  **Straff**
+
+    1.  **Gjeldende rett**
+
+Riksgrenseloven § 4 fastslår at den som forsettlig eller uaktsomt overtrer bestemmelser gitt i medhold av loven straffes med bøter eller med fengsel inntil 3 måneder, såfremt forholdet ikke rammes av strengere straffebud. Forsøk straffes som fullbyrdet handling. Ved gjentagelse, flere handlinger til samtidig pådømmelse eller andre skjerpende omstendigheter er straffen bøter eller fengsel inntil ett år. Straffansvar for medvirkning til overtredelse av bestemmelser gitt i medhold av riksgrenseloven følger av straffeloven § 15, jf. Prop. 64 L (2014–2015) punkt 12.6.
+
+Med hjemmel i riksgrenseloven § 3 første ledd oppstiller riksgrenseforskriften i §§1 og 4 og §§ 5 til 8 en rekke forbud og påbud som gir grunnlag for straff etter loven. Disse adferdsreglene ivaretar forpliktelsene etter grenseregimeavtalen med Russland, og gjelder bare dette grenseavsnittet. Reglene er detaljerte, og omfatter blant annet forbud mot å løsne skudd over grensen, forbud mot å vise fornærmelig adferd mot nabostat ved grensen, forbud mot å «overskride grensen til lands, til vanns, eller i luften uten særskilt tillatelse fra Norges grensekommissær for den norsk-sovjetiske grense», og forbud mot «uten særskilt tillatelse fra Norges grensekommissær for den norsk-sovjetiske grense å føre samtaler eller ha annet slags samkvem med personer som befinner seg på den annen side av grensen.»
+
+Grenseregimeavtalen med Russland har i art. 5 en særlig bestemmelse om ivaretakelse av grensemerkene på den ca 200 km lange grensestrekningen. Art. 5 nr. 5 forplikter de kontraherende parter til å treffe alle nødvendige tiltak for å verne om grensemerkene, og trekke til ansvar personer som er funnet skyldige i flytting, beskadigelse eller ødeleggelse av grensemerkene. Denne typen overtredelser kan straffes etter straffelovens bestemmelser om tyveri i §§ 321 til 323, om skadeverk i §§ 351 til 353 og om borttaking av grensemerke i § 364. Skade på grensegaten kan også gi bot etter straffeloven § 346, som retter seg mot forskjellige former for rettsstridig bruk og beskadigelse av grunn i annens besittelse.
+
+Straffen for tyveri er bot eller fengsel inntil 2 år. Skadeverk straffes med bot eller fengsel inntil 1 år. Grovt tyveri og grovt skadeverk straffes med bot eller fengsel inntil 6 år. Etter riksgrenseloven er skyldkravet forsett eller uaktsomhet. Etter straffeloven er skyldkravet forsett med mindre annet er bestemt. Grovt uaktsomt skadeverk er straffbart etter § 352.
+
+Riksgrenseloven § 3 tredje ledd har enkelte prosessuelle bestemmelser som reelt er forvaltningsmessige tvangsmidler. Disse bestemmelsene gir politiet og «grensemyndighetene», det vil etter § 1 tredje ledd si grensekommissæren, adgang til å foreta ransaking uten hensyn til straffens størrelse, og uten rettens beslutning. Grensekommissæren og politiet har også adgang til å inndra ved dom våpen, fotoapparat og film som har vært benyttet i strid med forbud fastsatt etter første ledd, «uten at straffesak behøver å bli reist eller å kunne reises mot noen.» Overtredelse av straffebudene i og i medhold av riksgrenseloven gir normalt ikke pågripelsesadgang etter straffeprosessloven § 171, som kun får anvendelse for overtredelser som etter loven kan medføre høyere straff enn fengsel i 6 måneder.
+
+Grensekommissæren har ikke politimyndighet eller ansvar for oppgaver som tilligger politiet. Hendelser ved grensen som faller inn under politiets ansvarsområde (lovbrudd som brudd på riksgrenseloven og mistanke om kriminelle forhold) og de forvaltningsmessige oppgavene (grenseovervåking, grensekontroll, utlendingskontroll på territoriet) ligger derfor utenfor grensekommissærens myndighet. Grensekommissæren har imidlertid ansvar for å oppklare sakens fakta ved hendelser som utgjør brudd på grenseregimeavtalen med Russland, og bidrar derfor til politiets etterforskning. Ettersom alle brudd på riksgrenseloven også utgjør brudd på grenseregimeavtalen, følges slike saker alltid opp i to spor: Et polisiært spor med etterforskning og straffeforfølgelse, og et bilateralt spor med grensekommissærene på norsk og russisk side for å avklare hendelsesforløpet og forebygge lignende hendelser.
+
+Utlendingsloven § 108 setter straff for ulike handlinger som knytter seg til ulovlig grensepassering. Etter § 108 annet ledd bokstav a straffes forsettlig eller uaktsom overtredelse av § 14 om grensepassering og grensekontroll og § 20 tredje ledd om plikt til å medvirke til meldeplikt for passasjerdata med bot eller fengsel inntil seks måneder eller med begge deler. Etter § 108 annet ledd bokstav b er forsettlig eller uaktsom overtredelse av forskrift gitt i medhold av loven, eller forbud, påbud eller vilkår gitt i medhold av en slik forskrift, straffbar dersom dette er fastsatt i forskriften. Utlendingsforskriften § 18-13 annet ledd angir overtredelse av følgende grenselovrelevante bestemmelser som straffbare: § 4-5 om tillatelse til videreflyging (jf. lovens § 14), § 4-8 om meldeplikt ved grensepassering (jf. lovens § 14), § 4-15 om transportselskapers kontroll av reisedokumenter (jf. lovens § 15), og § 4-24 første til fjerde ledd og sjette ledd om meldeplikt for fører av luft- og sjøfartøy (jf. lovens § 20 første ledd bokstav a og b).
+
+Overtredelser av de aktuelle bestemmelsene i og i medhold av utlendingsloven straffes med bot eller fengsel inntil seks måneder eller med begge deler. Politiet har dermed adgang til pågripelse etter straffeprosessloven § 171.
+
+Etter straffeloven § 16 kan den som har forsett om å fullbyrde et lovbrudd som kan medføre fengsel i 1 år eller mer, og som foretar noe som leder direkte mot utføringen, straffes for forsøk når ikke annet er bestemt. Utlendingsloven og utlendingsforskriften har ikke særregler om forsøk. Strafferammen på bot eller fengsel inntil seks måneder eller begge deler for overtredelse av de aktuelle bestemmelsene innebærer dermed at forsøk ikke er straffbart.
+
+1.  **Utvalgets forslag**
+
+I utredningen punkt 5.8 har utvalget gjennomgått straffebudene i riksgrenseloven, straffeloven 1902 og utlendingsloven, og foreslått at straffebud i ny grenselov utformes etter prinsippene som er lagt til grunn for straffeloven 2005. Utvalget har dermed tatt i betraktning at straffeloven 2005, som trådte i kraft 1. oktober 2015, opphever skillet mellom forbrytelser og forseelser, og gir nye regler om forsøk, medvirkning, særdeles skjerpende omstendigheter og om konsekvensene av at bot kan anvendes i tillegg til fengselsstraff.
+
+Utvalget anså det ikke nødvendig å konkretisere hvilke overtredelser som rammes. De objektive vilkårene for straff vil fremgå av plikt- og forbudsreglene i loven og dens forskrifter, samt av vedtak. Konkrete og typiske overtredelser er brudd på adferdsreglene, brudd på rådighetsbegrensningen i grensegaten, passering utenfor fastsatt grenseovergangssted og unndragelse av inn- og utreisekontroll. Utvalgets forslag til adferdsregler omfatter for øvrig også forbud mot å skade, flytte eller tilsøle grensegaten eller grensemerkene, og forbud mot å fjerne noe fra dem. Disse handlingene vil som oftest være straffbare som tyveri eller skadeverk, men bør etter utvalgets syn være straffbare etter grenseloven.
+
+Strafferammen for alminnelig grenseovertredelse bør etter utvalgets syn være tilstrekkelig til at det gis pågripelsesadgang etter straffeprosessloven § 171. Det krever en strafferamme på mer enn 6 måneder. Behovet for pågripelse må ses i lys av at landegrensene i stor grad går i utmark, og med lange avstander til politistasjone eller lensmannskontor. I utvalges lovutkast er strafferammen for ordinær overtredelse av grenseloven angitt til bot eller fengsel inntil ett år, noe som etter utvalget syn samsvarer med straffelovens strafferamme for ordinære overtredelser. Utvalget tilsikter ingen endring i straffeutmålingspraksis. Straff for grov grenseovertredelse foreslås fastsatt til bot eller fengsel inntil 6 år, jf. tilsvarende strafferammer for grovt tyveri og skadeverk i straffeloven 1902 §§ 258 og 292. Etter utvalgets forslag skal det ikke kunne idømmes straff for grenseovertredelse samtidig som det straffes for skadeverk, tyveri eller borttaking av grensemerke ved samme handling (idealkonkurrens).
+
+Skyldkravet bør etter utvalgets syn fortsatt være forsett eller uaktsomhet. Både forsøk og medvirkning bør være straffbart, men utvalget anså det unødvendig å opplyse om det i utkastet til straffebud, idet det anses å følge av straffeloven §§ 15 og 16. Overtredelse bør være straffbar også når handlingen er foretatt i utlandet. Forbudene i riksgrenseforskriften gjelder etter sin karakter handlinger begått på norsk side av grensen. Utvalget anser det imidlertid ikke helt upraktisk at overtredelse av straffebud skjer også på russisk side, typisk ved at turister (norske eller utenlandske) fjerner steiner fra, eller på annen måte skader, russiske grensemerker. Straffeprosessloven § 65 nr. 4 legger påtalekompetansen i slike saker til riksadvokaten, men utvalget foreslår en endring slik at påtalekompetansen legges til politiet. Påtalekompetansen bør også ligge hos politiet når det gjelder grov overtredelse. Utvalget viser til at de aller fleste forhold vil kvalifisere for bot eller kortere fengselsstraff. Det dreier seg om overtredelser som vil være kurante for den lavere påtalemyndighet, og om avgjørelser som kan haste fordi gjerningsmannen ofte er en utlending på reisefot.

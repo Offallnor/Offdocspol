@@ -1,729 +1,216 @@
-# Prop. 190 L (2020–2021), del 4 av 4 (side 39–50)
+# Prop. 190 L (2020–2021), del 4 av 5
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2021/e126c949-prop-190-l-20202021.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-190-l-20202021/id2847519/
 - Original-PDF: https://www.regjeringen.no/contentassets/b7bf171313c548539004eec6c7487fbd/no/pdfs/prp202020210190000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 39]
-
-2020–2021
-
-Prop. 190 L
-
-Endringer i straffeprosessloven og straffeloven (kriminalisering av deltakelse i kriminelle sammenslutninger)
-
-kelse i forbudte eller oppløste sammenslutninger
-relativt lav i de landene som har en slik ordning.
-For eksempel er strafferammen fengsel inntil 2 år
-i Danmark og fengsel inntil 1 år i Nederland. Strafferammen er også satt lavt i andre bestemmelser i
-straffeloven som kriminaliserer brudd på et nedlagt forbud, jf. for eksempel straffeloven § 168 om
-brudd på oppholds- og kontaktforbud. Departementet har likevel kommet til at en strafferamme
-på inntil 3 års fengsel vil være passende for forslaget her. Forslaget til nytt straffebud har en tydelig
-avgrenset rekkevidde, ved at det kun vil ramme
-deltakelse i et fåtall sammenslutninger som driver
-alvorlige former for kriminalitet. Forslaget skiller
-seg slik sett fra for eksempel straffeloven 1902
-§ 330, som hadde et bredere nedslagsfelt. Selv om
-en strafferamme på fengsel inntil 3 år antakelig
-ligger en god del over forventet normalnivå, vil
-den gi rom for å fastsette en passende straff ut fra
-klanderverdigheten ved ulike former for deltakelse i og videreføring av den forbudte sammenslutningen. Den vil også være tilstrekkelig høy til
-å fange opp de mer alvorlige overtredelsene.
-
-7.8.2
-7.8.2.1
-
-Straffutmåling
-
-Straffelovrådets forslag og
-høringsinstansenes syn
-I NOU 2020: 4 punkt 17.10.1 side 103–104 gir
-Straffelovrådet anvisning på en del momenter som
-bør ha betydning for straffutmålingen i saker etter
-ny § 199. Rådet legger til grunn at de momentene
-som Høyesterett har vektlagt i saker om deltakelse i terrororganisasjoner, vil være relevante
-også her. Disse momentene er varigheten av deltakelsen, oppgavene som ble utført, rollen i organisasjonen og hvilken gruppe eller organisasjon
-det gjelder, jf. HR-2016-1422-A avsnitt 18. Rådet
-påpeker samtidig at straffenivået bør ligge betydelig lavere enn i terrorsakene, fordi terrororganisasjoner i de fleste tilfeller må antas å representere
-en større trussel og et større skadepotensial.
-Rådet drøfter betydningen av tilståelse og samarbeid med politiet særskilt i NOU 2020: 4 punkt
-17.10.3 side 104–105. Det følger av straffeloven
-§ 78 bokstav f at det anses formildende i straffutmålingen at gjerningspersonen gir en uforbeholden tilståelse eller i vesentlig grad bidrar til
-oppklaring av andre lovbrudd. Rådet mener at det
-i en del tilfeller kan være grunn til å gi tilståelsesfradrag på opptil 50 % i saker om organisert kriminalitet:
-
-39
-
-«En gjerningsperson som bidrar med informasjon til politiet om bakmenn og deres rolle i
-gruppen – og med det bidrar til at politiet straffeforfølger sentrale skikkelser i gruppen og
-med det sikrer at gruppen mister mye av sin
-handlekraft – bør kunne gis inntil 50 % fradrag
-i straffen. I slike tilfeller vil samarbeidet ha
-såpass vesentlige virkninger at det er på sin
-plass å gi gjerningspersonen et merkbart og
-tydelig fradrag i straffen.»
-I NOU 2020: 4 punkt 17.10.2 side 104 knytter rådet
-noen bemerkninger til straffutmålingen overfor
-unge lovbrytere. Rådet legger til grunn at førstegangsovertredere under 18 år som den klare
-hovedregel bør idømmes andre straffer enn ubetinget fengsel ved mindre alvorlige former for deltakelse. Rådet mener at påtaleunnlatelse med vilkår alltid bør vurderes.
-To høringsinstanser har uttalt seg om straffutmålingen. Politihøgskolen er enig med rådet i at
-førstegangsovertredere under 18 år som hovedregel ikke bør idømmes ubetinget fengsel. Politihøgskolen viser til at ungdomsoppfølging i konfliktrådet etter straffeprosessloven § 71 a, samfunnsstraff eller ungdomsstraff kan være aktuelle
-reaksjoner i tillegg til påtaleunnlatelse med vilkår.
-Videre uttaler Politihøgskolen at det kan være
-rimelig å unngå ubetinget fengsel også for førstegangsovertredere som ikke er så mye over 18 år.
-Sekretariatet for konfliktrådene uttaler at det er
-avgjørende at alternative straffereaksjoner, slik
-som ungdomsstraff og ungdomsoppfølging, er
-hovedregelen for gjerningspersoner under 18 år.
-Sekretariatet er derfor positiv til at rådet fremhever dette.
-
-7.8.2.2 Departementets vurdering
-Departementet er enig med Straffelovrådet i at
-det ved straffutmålingen er naturlig å se hen til de
-momentene som Høyesterett har vektlagt i saker
-om deltakelse i terrororganisasjoner. Som Straffelovrådet også påpeker, bør imidlertid straffenivået ligge betydelig lavere i saker etter ny § 199.
-Dette er også reflektert ved at strafferammen er
-satt lavere enn i straffebudet om deltakelse i terrororganisasjoner, se punkt 7.8.1.2 foran.
-Departementet vil særskilt fremheve at rekruttering av barn og unge må betraktes som særlig
-alvorlig, og at slik rekruttering derfor bør straffes
-strengt. Den som rekrutteres, står i fare for å
-havne i en kriminelle løpebane, noe som igjen kan
-ha store konsekvenser for vedkommendes liv og
-helse. Departementet peker også på at bakmenn
-
-[Side 40]
-
-40
-
-Prop. 190 L
-
-2020–2021
-
-Endringer i straffeprosessloven og straffeloven (kriminalisering av deltakelse i kriminelle sammenslutninger)
-
-og andre som utøver sentrale funksjoner i sammenslutningen, bør straffes strengere enn de som
-kun adlyder ordre og ikke har noen reell myndighet.
-Departementet er i utgangspunktet enig med
-rådet i at det kan være gode grunner til å gi et
-tydelig fradrag i straffen for den som samarbeider med politiet i saker om organisert kriminalitet, jf. straffeloven § 78 bokstav f. Saker om organisert kriminalitet kan ofte være krevende å
-etterforske og iretteføre, blant annet på grunn av
-den interne lojaliteten som råder i enkelte grupper. Samtidig kan en for stor strafferabatt motivere til uriktige forklaringer om andre. En ordning hvor det legges økt vekt på samarbeid med
-politiet, kan også tenkes å føre til enda hardere
-selvjustis i gjengmiljøene. Departementet ser det
-ikke som hensiktsmessig å gi noen nærmere
-føringer om hvor stort fradrag i straffen som bør
-kunne gis. Etter departementets syn bør det fort-
-
-satt være opp til retten å vurdere ut fra forholdene i saken om samarbeid med politiet skal føre
-til redusert straff, og hvor stor reduksjonen
-eventuelt skal være.
-Departementet slutter seg til rådets synspunkt
-om at ubetinget fengsel bare helt unntaksvis kan
-være aktuelt overfor mindreårige lovbrytere i
-saker etter ny § 199. Terskelen for ileggelse av
-fengselsstraff overfor unge lovbrytere er høy, jf.
-straffeloven § 33 og FNs barnekonvensjon artikkel 37 bokstav b. Fengselsstraff kan bare benyttes
-dersom det foreligger særlig tungtveiende allmennpreventive hensyn som ikke i tilfredsstillende grad ivaretas ved andre straffereaksjoner, jf.
-Prop. 135 L (2010–2011) punkt 9.6.1.4 side 100.
-Alternative straffereaksjoner må derfor alltid vurderes. Som Politihøgskolen peker på i sin høringsuttalelse, kan samfunnsstraff, ungdomsoppfølging
-og ungdomsstraff være aktuelle reaksjoner i tillegg til påtaleunnlatelse med vilkår.
-
-[Side 41]
-
-2020–2021
-
-Prop. 190 L
-
-Endringer i straffeprosessloven og straffeloven (kriminalisering av deltakelse i kriminelle sammenslutninger)
-
-41
-
-8 Enkelte prosessuelle spørsmål
-8.1
-
-Ivaretakelse av
-sammenslutningens interesser
-
-8.1.1 Innledning
-Ved behandlingen av begjæringer om forbud mot
-kriminelle sammenslutninger vil den aktuelle
-sammenslutningen ikke være mistenkt eller siktet
-i straffeprosesslovens forstand. Dette innebærer
-at sammenslutningens prosessuelle status kan
-være noe uklar. På denne bakgrunn ser departementet behov for å klargjøre hvilke prosessuelle
-regler som skal gjelde når påtalemyndigheten
-fremsetter en forbudsbegjæring etter ny § 222 e.
-8.1.2 Utøvelse av partsrettigheter
-Departementet legger til grunn at behandlingen
-av forbudssaken skal skje i straffeprosessens former. Spørsmålet om forbud bør avgjøres ved kjennelse etter muntlige forhandlinger i tingretten. I
-tråd med det grunnleggende kravet til kontradiktorisk behandling skal sammenslutningen gis
-anledning til å være representert i rettsmøtet og
-til å uttale seg før retten avsier kjennelse. Det skal
-imidlertid ikke være et vilkår for behandlingen at
-de impliserte møter.
-Det kan by på visse praktiske utfordringer å
-avgjøre hvem som skal kunne utøve partsrettigheter på sammenslutningens vegne. Sammenslutningen bør i første rekke gis anledning til selv å
-peke ut en person til å utøve partsrettighetene,
-etter analogi fra straffeprosessloven § 84 a. For at
-partsrettighetene skal kunne utøves, må påtalemyndigheten og/eller retten få melding om hvilken person som er utpekt. Dersom ingen utpekes
-på en entydig måte, eller opplysninger om den
-utpekte ikke meddeles påtalemyndigheten eller
-retten, må en kunne holde seg til den som på
-annen måte fremstår utad som sammenslutningens leder eller representant.
-Etter straffeprosessloven § 377 første ledd kan
-kjennelser ankes av «enhver som avgjørelsen rammer». Dette må ved kjennelser om forbud mot en
-sammenslutning i det minste omfatte den som
-utøver partsrettighetene på sammenslutningens
-
-vegne. Utover det må retten vurdere konkret
-hvem avgjørelsen «rammer».
-
-8.1.3 Informasjonsrettigheter
-Straffelovrådets mindretall har foreslått at begjæringen om forbud skal «gjøres kjent for kjente
-ledere i sammenslutningen, gjennom oppslag ved
-gruppens eventuelle lokaler og for øvrig kunngjøres på egnet måte med oppfordring om å inngi tilsvar til begjæringen innen en frist som fastsettes
-av retten», jf. NOU 2020: 4 punkt 21.2 side 119–
-120. D e p a r t e m e n t e t går inn for å følge opp
-forslaget med noen mindre lovtekniske justeringer, se forslaget til ny § 222 f første ledd første
-punktum. Etter departementets syn er det mer
-dekkende å benytte uttrykket «meddeles» i stedet
-for «kunngjøres». Domstolloven kapittel 9 opererer med begrepsparet «forkynnelse» og «meddelelse», hvor det knytter seg særlige formkrav til
-førstnevnte. Meddelelser skal derimot gis på den
-måten som i hvert tilfelle anses mest hensiktsmessig, jf. domstolloven § 186 første ledd. Det er da
-ikke behov for å presisere i lovteksten at meddelelsen skal gis «på egnet måte», siden dette allerede følger av § 186 første ledd. Det sentrale er at
-meddelelsen skjer på en måte som medfører at
-deltakerne i sammenslutningen blir klar over
-begjæringen, slik at de får en oppfordring til å ivareta sine og sammenslutningens interesser i prosessen. Departementet antar at oppslag ved sammenslutningens lokaler, der slike lokaler finnes
-og er kjent, i mange tilfeller vil kunne være en
-egnet måte å meddele begjæringen på – eventuelt
-ved siden av andre meddelelsesformer.
-En kontradiktorisk behandling forutsetter
-videre at sammenslutningen varsles om rettsmøtet der forbudsbegjæringen behandles. Departementet foreslår at varslingsregelen i ny § 222 f første ledd første punktum gis tilsvarende anvendelse for rettsmøter, se forslaget til ny § 222 f første ledd tredje punktum.
-Etter straffeprosessloven § 52 annet ledd skal
-kjennelser meddeles den siktede eller andre den
-angår. Straffelovrådets mindretall har foreslått en
-særregel om at en kjennelse som nedlegger for-
-
-[Side 42]
-
-42
-
-Prop. 190 L
-
-2020–2021
-
-Endringer i straffeprosessloven og straffeloven (kriminalisering av deltakelse i kriminelle sammenslutninger)
-
-bud mot en sammenslutning, i stedet skal forkynnes for kjente medlemmer av sammenslutningen.
-De nærmere formkravene til forkynnelser følger
-av reglene i domstolloven kapittel 9. D e p a r t e m e n t e t går i likhet med rådet inn for at
-forbudskjennelser skal forkynnes. Det er i
-utgangspunktet sammenslutningen som sådan
-som er «part» i saken, slik at det er best i tråd med
-straffeprosessens system at kjennelsen forkynnes
-for denne. Domstolloven § 191 annet ledd inneholder regler om hvem som kan motta forkynnelser på vegne av diverse upersonlige rettssubjekter. Departementet antar at de aktuelle sammenslutningene ikke alltid vil ha den nødvendige formelle strukturen som kreves for at de skal omfattes av denne bestemmelsen. Det foreslås derfor
-en særregel om at kjennelsen skal anses som forkynt for sammenslutningen når den er lovlig forkynt for én deltaker, se forslaget til § 222 f annet
-ledd annet punktum. Departementet legger til
-grunn at den som forkynner kjennelsen, vil forsøke å henvende seg til så sentrale skikkelser i
-sammenslutningen som praktisk mulig. Det kan
-for eksempel være sammenslutningens leder
-såfremt denne er kjent. For å sikre at det gis tilstrekkelig informasjon om kjennelsen, skal kjennelsen i tillegg gjøres kjent gjennom oppslag ved
-gruppens eventuelle lokaler, se forslaget til § 222 f
-annet ledd tredje punktum.
-
-8.2
-
-Bruk av tvangsmidler mv.
-
-8.2.1
-
-Straffelovrådets forslag og
-høringsinstansenes syn
-
-Straffelovrådet fremhever i utredningen at mandatet avgrenser fra en fullstendig gjennomgang av
-hvilke straffeprosessuelle virkemidler som bør tas
-i bruk, jf. NOU 2020: 4 punkt 4.2.1 side 17. Rådet
-viser til at departementet selv må vurdere hvilke
-tvangsmidler som bør kunne brukes i etterforskningen av deltakelse og rekruttering eller for å
-forberede en sak om forbud mot en sammenslutning.
-Blant høringsinstansene har Oslo politidistrikt
-uttalt seg direkte om behovet for tvangsmidler for
-å forberede en sak om forbud mot eller oppløsning av en sammenslutning. Høringsinstansen
-mener at det er nødvendig at politiet gis mulighet
-til å bruke skjulte metoder, og uttaler:
-«Dersom det skal være realistisk å skaffe bevis
-må det påregnes å være behov for skjulte etterforskningsmetoder. Det vil være krevende å
-
-etterforske denne type saker. Det må bevises at
-det finnes en gruppe - at denne har et ulovlig
-formål og er voldelig. I vurderingen er det
-videre av betydning om det finnes en rollefordeling og om det finnes en sterk innbyrdes lojalitet mm. De som mistenkes å være deltagere i
-en slik gruppe vil normalt nekte for at det finnes en gruppe, og de vil videre ikke bidra til å
-opplyse spørsmål om rollefordeling mm i
-avhør. Et av hovedproblemene i kriminelle miljøer er nettopp at de siktede ikke forklarer seg
-for politiet og ingen andre heller tør å forklare
-seg mot gruppen. Straffehistorikk vil kunne si
-noe som de enkelte personene hver for seg
-eller sammen har begått voldshandlinger. Derfra til å konkludere med at disse personene er
-en organisert kriminell sammenslutning vurderes som vanskelig uten tilgang til metoder
-som gir innblikk i blant annet kommunikasjon.
-For å kunne avdekke og bevise de vilkår
-bestemmelsen oppstiller, må bestemmelsen tas
-inn i alle skjulte etterforskningsmetoder etter
-straffeprosessloven. Det vises i denne sammenheng til Nouen side 39 hvor den danske
-Riksadvokaten trekker frem mangelen på etterforskingshjemler som en stor utfordring knyttet til oppløsningssaken mot gruppen ‘Loyal to
-Familia’ (LTF).»
-Også Troms politidistrikt viser til mindretallets forslag og gir uttrykk for at det er viktig at det gis
-mulighet for å bruke tvangsmidler, herunder også
-skjulte metoder.
-Det nasjonale statsadvokatembetet, Oslo politidistrikt og Sør-Vest politidistrikt har i sine kommentarer til flertallets forslag gitt uttrykk for at
-etterforskning av deltakelse i kriminelle grupper
-nødvendiggjør bruk av skjulte metoder. Det nasjonale statsadvokatembetet uttaler:
-«NAST er det eneste statsadvokatembete som
-har erfaring med iretteføring etter en deltakerbestemmelse henholdsvis strl. § 136 a. Erfaringen er at etterforskningen vil være forholdsvis
-omfattende og at hovedforhandlingen tar ca. 3
-uker. Det er derfor helt nødvendig at politidistriktene setter av tilstrekkelig med ressurser til
-både skjult og åpen etterforskning. Det er også
-viktig at bestemmelsen får en tilstrekkelig
-tvangsmiddelpakke til å foreta særlig den
-skjulte etterforskningen. Tvangsmiddeladgangen knyttet til strl. § 136 a kan her tjene som et
-utgangspunkt.»
-
-[Side 43]
-
-2020–2021
-
-Prop. 190 L
-
-Endringer i straffeprosessloven og straffeloven (kriminalisering av deltakelse i kriminelle sammenslutninger)
-
-Politidirektoratet uttaler i samme retning:
-«Politidirektoratet viser til at den foreslåtte
-strafferamme på 3 år vil gjøre at politiet ikke
-har adgang til å benytte skjulte etterforskningsmetoder. Vi mener det er lite realistisk å
-lykkes med etterforskning av denne type lovbrudd uten bruk av slike metoder. Erfaringene
-fra både drapssaker og omfattende narkotikasaker viser hvor vanskelig det er å avdekke og
-skaffe bevis for straffbare forhold knyttet til
-denne type kriminelle nettverk og miljøer. Uten
-hjemmel til å benytte skjulte etterforskningsmetoder vil en straffebestemmelse som
-foreslått få begrenset betydning i praksis.»
-
-8.2.2 Departementets vurdering
-Departementet ønsker ikke på nåværende tidspunkt å åpne for bruk av straffeprosessuelle
-tvangsmidler når formålet er å forberede en sak
-om forbud mot en kriminell sammenslutning.
-Bruk av tvangsmidler i et slikt øyemed reiser krevende prinsipielle, rettslige og praktiske problemstillinger som Straffelovrådet avgrenset mot i sin
-utredning, men som fortjener en grundig vurdering. Det har imidlertid ikke vært anledning til å
-utrede disse spørsmålene på en betryggende
-måte innen tidsfristen som er satt for å fremme
-lovforslaget for Stortinget. Departementet vil vurdere å komme tilbake til emnet på et senere tidspunkt.
-Departementet finner grunn til å presisere at
-påtalemyndighetens etterforskning av deltakernes «underliggende» lovbrudd vil være en sentral
-informasjonskilde ved forberedelsen av forbudssaken. På grunn av vilkårene i forbudshjemmelen
-vil bevisføringen i stor utstrekning dreie seg om
-tidligere begått kriminalitet fra deltakerne i sammenslutningen. En eventuell tvangsmiddelbruk
-ved etterforskningen av slike overtredelser vil
-indirekte kunne komme til nytte ved at den fremskaffede informasjonen kan benyttes som bevis i
-forbudssaken. Eventuelle straffedommer mot deltakerne vil selvsagt også kunne legges frem.
-Det er ikke behov for lovendringer for at opplysninger fra tidligere straffesaker kan benyttes
-som bevis i forbudssaken, bortsett fra når opplysningene stammer fra kommunikasjonskontroll
-
-43
-
-mv. Dette skyldes at politiregisterloven åpner for
-at opplysninger innhentet til politimessige formål
-kan brukes til andre politimessige formål, med
-mindre noe annet er særskilt bestemt, jf. politiregisterloven § 4, jf. § 2 nr. 13. Det fremgår videre av
-politiregisterloven § 26 at taushetsplikten ikke er
-til hinder for at opplysningene brukes i den
-enkelte straffesak. Etter § 2 nr. 11 er straffesaker
-definert som saker som behandles etter straffeprosessloven, og dermed omfattes også bruk av
-opplysningene i slike forbudssaker som lovforslaget omfatter.
-I tillegg mener departementet at det bør være
-adgang til å benytte overskuddsinformasjon fra
-kommunikasjonskontroll mv. som bevis. Det antas
-at slik informasjon vil kunne spille en viktig rolle
-både i forbudssaken og i straffesaken som gjelder
-brudd på forbudet som er fastsatt av retten. Det
-foreslås derfor å føye til en ny bokstav k i straffeprosessloven § 216 i første ledd om at opplysningene kan benyttes «i sak om forbud mot en kriminell sammenslutning etter kapittel 17 c». Overskuddsinformasjon vil videre kunne benyttes som
-bevis i en etterfølgende straffesak om brudd på
-forbudet dersom vilkårene i § 216 i første ledd
-bokstav d er oppfylt. Etter denne bestemmelsen
-kan informasjonen brukes som bevis «såfremt slik
-bruk etter sakens art og forholdene ellers ikke vil
-være et uforholdsmessig inngrep, og oppklaring
-av forholdet uten bruk av opplysningene i vesentlig grad ville ha blitt vanskeliggjort», se retningslinjene i Prop. 147 L (2012–2013) punkt 5.1.5 side
-80–81. Disse kravene vil etter omstendighetene
-kunne være oppfylt i straffesaker om brudd på det
-nedlagte forbudet, men spørsmålet må selvsagt
-vurderes konkret.
-Etter at retten har besluttet et forbud mot en
-kriminell sammenslutning, vil det være adgang til
-å benytte tvangsmidler når det foreligger skjellig
-grunn til mistanke om at en bestemt person er
-skyldig i å ha overtrådt forbudet. Mistanke om
-overtredelse av det foreslåtte straffebudet åpner i
-prinsippet for tvangsmidler som ransaking,
-beslag, pågripelse, fengsling, skjult kameraovervåking på eller fra offentlig sted mv. Departementet ønsker ikke på nåværende tidspunkt å foreslå
-straffeprosessuelle tvangsmidler utover det strafferammen på tre års fengsel tilsier, men vil vurdere å komme tilbake til spørsmålet senere.
-
-[Side 44]
-
-44
-
-Prop. 190 L
-
-2020–2021
-
-Endringer i straffeprosessloven og straffeloven (kriminalisering av deltakelse i kriminelle sammenslutninger)
-
-9 Økonomiske og administrative konsekvenser
-Det er usikkerhet knyttet til de økonomiske og
-administrative konsekvensene av forslagene for
-virksomhetene på straffesaksområdet. Forslaget
-til ny forbudsbestemmelse har en tydelig avgrenset rekkevidde. Departementet antar derfor at
-bestemmelsen kun vil være aktuell i et fåtall saker.
-Etterforskning og iretteføring av saker som gjelder organisert kriminalitet, er imidlertid ressurskrevende for politiet. Politiets straffesaksbehandling er underlagt sentrale føringer og prioriteringer fra riksadvokaten. Politiet må disponere ressurser i henhold til disse prioriteringene innenfor
-de til enhver tid gjeldende budsjettrammene.
-Det er videre knyttet usikkerhet til de økonomiske og administrative konsekvensene for Den
-høyere påtalemyndighet. Riksadvokaten anslår at
-det er behov for to dedikerte statsadvokatressurser til å håndtere saker om forbud mot en kriminell sammenslutning, i tillegg til kompetanseoppbygging.
-Sakstilfanget i domstolene er avhengig av politiets disponering av ressurser og prioriteringer i
-straffesaksbehandlingen. Siden lovforslaget antas
-
-å omfatte få saker, vil de økonomiske og administrative konsekvensene for domstolene være
-begrensede.
-De økonomiske og administrative konsekvensene for kriminalomsorgen er også beheftet med
-usikkerhet. Vurderingen av de økonomiske og
-administrative konsekvensene for kriminalomsorgen er, på linje med de andre virksomhetene,
-avhengig av om de nye bestemmelsene fører til en
-økning i antall saker. I tillegg er politiets prioriteringer mellom saker også av betydning for kriminalomsorgen. Eksempelvis vil en større andel
-domfelte med alvorlige og lange dommer, føre til
-økt behov for straffegjennomføringskapasitet.
-Videre kan innsatte med tilknytning til kriminelle
-grupper kreve mer ressurser også fra et sikkerhetsperspektiv, siden denne gruppen innsatte
-erfaringsmessig utgjør en større sikkerhetsrisiko.
-Det legges til grunn at økonomiske og administrative konsekvenser som følge av forslaget
-håndteres innenfor Justis- og beredskapsdepartementets gjeldende budsjettrammer.
-
-[Side 45]
-
-2020–2021
-
-Prop. 190 L
-
-Endringer i straffeprosessloven og straffeloven (kriminalisering av deltakelse i kriminelle sammenslutninger)
-
-45
-
-10 Merknader til de enkelte bestemmelsene
-10.1 Til straffeprosessloven
-Til § 100 d
-Bestemmelsen er ny og innebærer at det som den
-klare hovedregel skal oppnevnes forsvarer for
-sammenslutninger som begjæres forbudt etter
-forslaget til ny § 222 e i straffeprosessloven. Det
-skal også oppnevnes forsvarer i tilfeller hvor
-ingen fra sammenslutningen involverer seg i prosessen. Forsvareren kan og bør i slike tilfeller forsøke å sette seg i forbindelse med deltakere i sammenslutningen.
-Til § 216 i
-Første ledd ny bokstav k åpner for at overskuddsinformasjon fra kommunikasjonskontroll kan benyttes i sak om forbud mot en kriminell sammenslutning i medhold av lovforslaget § 222 e. Det vises til
-punkt 8.2.2 i de alminnelige merknadene.
-Til § 222 e
-Bestemmelsen er ny og åpner for at retten, etter
-begjæring fra statsadvokaten, kan nedlegge forbud mot en sammenslutning. Retten skal treffe
-sin avgjørelse ved kjennelse.
-For at en gruppe skal anses som en «sammenslutning», må den utgjøre en tydelig identifiserbar
-enhet og ha en viss grad av struktur og varighet.
-Om den nedre terskelen er overskredet, beror på
-en helhetsvurdering. Ved vurderingen vil det
-være av betydning om det er etablert en organisatorisk eller hierarkisk struktur, i hvilken grad det
-er en rollefordeling mellom deltakerne i gruppen,
-om gruppen har tilknytning til bestemte lokaler,
-om gruppen benytter symboler eller andre kjennetegn, og om deltakerne møtes jevnlig. Også
-tidsaspektet vil kunne ha betydning. Jo lengre en
-gruppe har eksistert, desto lettere vil det foreligge
-en «sammenslutning» etter § 222 e. Andre
-momenter som kan ha betydning, er deltakernes
-grad av lojalitet til gruppen, om gruppen har «eierskap» over bydeler eller andre bestemte geografiske områder, og om gruppen blir støttet, eller
-
-er en undergruppe, av en større organisasjon eller
-et internasjonalt nettverk. Om antallet deltakere
-svinger eller det er utskiftninger i «medlemsmassen», er av mindre betydning.
-De nærmere vilkårene for å forby en sammenslutning fremgår av bokstav a til c. Etter bokstav a
-må deltakere i sammenslutningen ha begått gjentatte lovbrudd mot noens liv, helse eller frihet.
-Lovbrudd som vil kunne være omfattet, er
-voldslovbrudd, seksuallovbrudd, frihetsberøvelse
-og ildspåsettelse. Andre eksempler er ran og
-utpressing etter straffeloven §§ 327 til 331 og
-fremkalling av fare for allmennheten etter straffeloven § 355. Trusler etter straffeloven §§ 263 til
-265 kan etter omstendighetene også være omfattet, særlig hvis det trues med lovbrudd som nevnt
-foran. Vilkåret forutsetter at det er begått gjentatte
-lovbrudd, men det kreves ikke at flere overtredelser kan knyttes til en bestemt gjerningsperson.
-Vilkåret i bokstav b om at lovbruddene må
-være egnet til å fremkalle frykt i befolkningen
-eller nærmiljøet, medfører at det særlig er integritetskrenkelser av alvorlig art som kan begrunne
-et forbud mot en sammenslutning. Det er imidlertid ikke et selvstendig krav at lovbruddene er av
-alvorlig art, sammenlign merknadene til straffeloven § 62 i Prop. 154 L (2016–2017) punkt 8.4 side
-232. Departementet vil ikke utelukke at en rekke
-mindre alvorlige integritetskrenkelser eller trusler om slike samlet kan begrunne et forbud.
-Tidligere straffedommer kan brukes for å
-dokumentere at deltakere i sammenslutningen
-har begått lovbrudd mot noens liv, helse eller frihet. Det er i denne sammenheng også anledning
-til å se hen til domfellelser fra utlandet. En annen
-kilde til informasjon er etterretningsrapporter fra
-politiet. Informasjon som underbygger at noen i
-en kriminell sammenslutning har begått lovbrudd
-som nevnt, er tilstrekkelig. Påtalemyndigheten
-behøver ikke dokumentere hvem som stod bak de
-aktuelle lovbruddene.
-Vilkåret i bokstav b fordrer at lovbruddene er
-egnet til å fremkalle frykt i befolkningen eller
-nærmiljøet for nye lovbrudd av samme art fra sammenslutningens deltakere. Dette innebærer at
-handlinger begått av enkeltdeltakere i sammen-
-
-[Side 46]
-
-46
-
-Prop. 190 L
-
-2020–2021
-
-Endringer i straffeprosessloven og straffeloven (kriminalisering av deltakelse i kriminelle sammenslutninger)
-
-slutningen må fremkalle en frykt som knytter seg
-til sammenslutningen som sådan. Det vil først
-være adgang til å forby sammenslutningen når
-deltakerne opparbeider fryktkapital gjennom
-selve tilhørigheten til gruppen – uavhengig av om
-den enkelte kan knyttes til konkrete lovbrudd.
-Lovbruddene må være egnet til å fremkalle
-frykt i befolkningen eller i et nærmiljø. Terskelen er
-satt vesentlig lavere enn etter straffeloven § 131
-om terrorhandlinger, hvor det følger av annet ledd
-bokstav b at terrorhensikt foreligger dersom nærmere angitte straffbare handlinger begås i den
-hensikt å skape alvorlig frykt i en befolkning.
-Samtidig kreves det klart mer enn at lovbruddene
-er egnet til å gjøre en håndfull personer engstelige. Ved vurderingen må både frykt hos alminnelige borgere og hos konkurrerende kriminelle
-sammenslutninger vektlegges. Frykten kan for
-eksempel føre til at man unnlater å bevege seg i
-områder hvor sammenslutningen oppholder seg,
-eller at man ikke tør å motsette seg krav fra deltakere i sammenslutningen. Slik frykt kan også føre
-til at noen vegrer seg for å anmelde straffbare
-handlinger til politiet, eller for å avgi forklaring
-som vitne overfor politiet eller domstolen.
-Det følger av bokstav c at et forbud bare kan
-nedlegges dersom det anses nødvendig for å forebygge alvorlig kriminalitet. Uttrykket «alvorlig
-kriminalitet» har ikke noe entydig innhold, men
-det siktes i denne sammenheng som utgangspunkt til overtredelser av straffebud med en strafferamme på minst 3 år. Uttrykket er ikke forbeholdt straffebud som verner bestemte rettsgoder.
-Spørsmålet om et forbud er nødvendig, må
-vurderes ut fra de konkrete omstendighetene i
-den enkelte sak. Retten må ved vurderingen forsikre seg om at et forbud mot sammenslutningen
-ikke vil være et uforholdsmessig inngrep i
-foreningsfriheten, som blant annet er nedfelt i
-Grunnloven § 101 første ledd og EMK artikkel 11,
-sammenlign straffeprosessloven § 170 a.
-For å nedlegge et forbud mot en sammenslutning kreves det kvalifisert sannsynlighetsovervekt, også omtalt som sterk eller klar sannsynlighetsovervekt, for at vilkårene i forbudshjemmelen
-er oppfylt. Et forbud utgjør et inngrep i foreningsfriheten, og de faktiske omstendighetene i saken
-kan være særlig belastende for sammenslutningens deltakere. Det kreves på denne bakgrunn
-mer enn alminnelig sannsynlighetsovervekt.
-For en nærmere beskrivelse av bakgrunnen
-for og innholdet i bestemmelsen vises det til de
-alminnelige merknadene punkt 7.3.3.
-
-Til § 222 f
-Bestemmelsen er ny og regulerer sammenslutningens og dens deltakeres rett til informasjon i forbindelse med forbudssaken. Etter første ledd første
-punktum skal en begjæring om forbud etter
-§ 222 e meddeles sammenslutningen med oppfordring om å inngi tilsvar innen en frist som fastsettes av retten. I tråd med domstolloven § 186 første
-ledd skal meddelelsen gis på den måten som i
-hvert tilfelle anses hensiktsmessig. Det sentrale
-er at informasjonen når frem til deltakerne i sammenslutningen, slik at de får en oppfordring til å
-ivareta sine og sammenslutningens interesser i
-prosessen. I mange tilfeller vil en meddelelse
-gjennom oppslag ved sammenslutningens eventuelle lokaler kunne være hensiktsmessig, slik
-annet punktum gir anvisning på. Etter tredje punktum skal varsel om rettsmøte gis på samme måte.
-Annet ledd første punktum slår fast at en kjennelse om forbud skal forkynnes for sammenslutningen. Annet punktum oppstiller en særregel om
-at kjennelsen skal anses forkynt for sammenslutningen når den er lovlig forkynt for én deltaker, jf.
-domstolloven § 191 tredje ledd. Den som forkynner kjennelsen, skal forsøke å henvende seg til så
-sentrale skikkelser i sammenslutningen som praktisk mulig, sammenlign domstolloven § 191 annet
-ledd, for eksempel sammenslutningens leder der
-denne er kjent. I tillegg skal kjennelsen gjøres
-kjent gjennom oppslag ved gruppens lokaler, der
-slike lokaler finnes og er kjent, jf. tredje punktum.
-Fjerde punktum fastsetter at det skal fremgå
-uttrykkelig av både forkynnelsen og oppslaget at
-brudd på forbudet kan straffes etter straffeloven
-§ 199.
-Etter tredje ledd skal det føres en offentlig tilgjengelig liste over sammenslutninger som er
-rettskraftig forbudt etter § 222 e.
-
-10.2 Til straffeloven
-Til § 199
-Bestemmelsen er ny og kriminaliserer ulike former for deltakelse i en sammenslutning som er
-forbudt etter forslaget til ny § 222 e i straffeprosessloven. Straffebudet kommer i stedet for straffetrusselen i straffeloven § 170 bokstav a, som retter seg generelt mot den som opptrer i strid med
-et forbud fastsatt av en domstol. Bestemmelsen
-bygger på forslaget fra Straffelovrådets mindretall. Det vises særlig til de alminnelige merknadene punkt 7.4.
-
-[Side 47]
-
-2020–2021
-
-Prop. 190 L
-
-Endringer i straffeprosessloven og straffeloven (kriminalisering av deltakelse i kriminelle sammenslutninger)
-
-Straffebudet rammer for det første den som
-«deltar i» en sammenslutning som er forbudt av
-retten. Deltakelsesbegrepet skal som utgangspunkt forstås likt som i straffeloven § 136 a om
-deltakelse i terrororganisasjoner, og er ment å
-ramme aktive bidrag til opprettholdelsen av den
-forbudte sammenslutningen. Ikke ethvert aktivt
-bidrag skal imidlertid kunne gi grunnlag for
-straff. Helt perifere eller bagatellmessige bidrag
-faller utenfor.
-Ulike former for bidrag til den kriminelle sammenslutningen kan rammes. Det kan for eksempel være tale om økonomisk eller annen materiell
-støtte, anskaffelse av våpen, kommunikasjonsmidler eller annet utstyr til å begå straffbare
-handlinger, eller det å leie ut eller på annen måte
-stille lokaler til disposisjon for sammenslutningen.
-Det er ikke et vilkår at bidragsyteren er medlem i
-eller formelt tilsluttet sammenslutningen, eller at
-vedkommende på en eller annen måte er akseptert som deltaker i sammenslutningen. Det kreves
-heller ikke at bidraget kan knyttes direkte til sammenslutningens kriminelle aktiviteter.
-Ved siden av deltakelse rammer straffebudet
-«videreføring av aktiviteten» til den forbudte sammenslutningen. Dette alternativet rekker noe
-videre enn deltakelsesalternativet, og er ment å
-ramme enhver aktivitet som klart er forbundet
-med sammenslutningen. Et eksempel kan være
-bruk av sammenslutningens symboler eller logo,
-eller utbredelse av sammenslutningens budskap,
-for eksempel på Internett. Dette alternativet vil
-også omfatte opprettelse av og deltakelse i en
-«erstatningsgruppe», det vil si en gruppe som i
-realiteten viderefører den forbudte sammenslutningens aktiviteter, men som for eksempel har
-endret navn, etablert seg i nye lokaler eller tatt i
-bruk nye kjennemerker. Det må vurderes konkret
-om det er så mange likheter mellom gruppene at
-det kan sies å foreligge en videreføring. Sentrale
-momenter i denne vurderingen vil være om det er
-tale om samme personkrets og de samme kriminelle aktivitetene.
-
-47
-
-Passiv tilslutning eller passivt medlemskap
-skal ikke regnes som deltakelse i eller videreføring av aktiviteten til den forbudte sammenslutningen.
-Rekruttering er særskilt nevnt i straffebudet
-som en form for deltakelse som rammes. Rekrutteringsalternativet skal forstås likt som i straffeloven § 136 a. Det innebærer at det kreves aktiv tilskyndelse. Rekrutteringen kan skje ved inngåelse
-av en avtale eller ved direkte verbal overtalelse,
-men også ved mer subtil psykologisk påvirkning.
-Retten skal ved behandlingen av saker etter
-§ 199 ikke foreta en selvstendig vurdering av om
-vilkårene for å nedlegge forbud etter straffeprosessloven § 222 e var oppfylt.
-Strafferammen settes til fengsel inntil 3 år, se
-punkt 7.8.1 i de alminnelige merknadene. Skyldkravet er forsett, jf. straffeloven §§ 21 og 22. Uvitenhet om at det er nedlagt forbud mot den kriminelle sammenslutningen, vil imidlertid måtte
-bedømmes etter straffeloven § 26 om rettsuvitenhet, se punkt 7.5.
-Straffebudet innebærer reelt sett en kriminalisering av en type forberedelseshandling. Det foreslås derfor ikke at medvirkning til overtredelse av
-bestemmelsen skal rammes, jf. annet ledd. Dette
-avviker fra Straffelovrådets forslag, se nærmere
-punkt 7.6. Forsøk er derimot straffbart i tråd med
-hovedregelen i straffeloven § 16.
-Siden straffebudet kommer i stedet for den
-generelle straffetrusselen i straffeloven § 170 bokstav a, skal ikke disse bestemmelsene anvendes i
-konkurrens. Straffebudet skal heller ikke anvendes sammen med straffskjerpelsesregelen i straffeloven § 79 bokstav c, siden det organisatoriske
-aspektet allerede må anses fanget opp i bestemmelsens strafferamme. Straffebudet skal derimot
-kunne anvendes i konkurrens med straffeloven
-§ 198 om forbund om alvorlig organisert kriminalitet, samt med de enkelte straffebud gjerningspersonen overtrer som ledd i sammenslutningens
-virksomhet. Det vises til punkt 7.7 i de alminnelige merknadene.
-
-[Side 48]
-
-48
-
-Prop. 190 L
-
-2020–2021
-
-Endringer i straffeprosessloven og straffeloven (kriminalisering av deltakelse i kriminelle sammenslutninger)
-
-Justis- og beredskapsdepartementet
-tilrår:
-At Deres Majestet godkjenner og skriver under
-et framlagt forslag til proposisjon til Stortinget om
-endringer i straffeprosessloven og straffeloven
-(kriminalisering av deltakelse i kriminelle sammenslutninger).
-
-Vi HARALD, Norges Konge,
-stadfester:
-Stortinget blir bedt om å gjøre vedtak til lov om endringer i straffeprosessloven og straffeloven
-(kriminalisering av deltakelse i kriminelle sammenslutninger) i samsvar med et vedlagt forslag.
-
-[Side 49]
-
-2020–2021
-
-Prop. 190 L
-
-Endringer i straffeprosessloven og straffeloven (kriminalisering av deltakelse i kriminelle sammenslutninger)
-
-49
-
-Forslag
-til lov om endringer i straffeprosessloven og straffeloven
-(kriminalisering av deltakelse i kriminelle sammenslutninger)
-I
-I lov 22. mai 1981 nr. 25 om rettergangsmåten i
-straffesaker gjøres følgende endringer:
-Ny § 100 d skal lyde:
-Når retten behandler en begjæring om forbud
-mot en kriminell sammenslutning, jf. § 222 e, skal
-det oppnevnes offentlig forsvarer for sammenslutningen. Retten kan unnlate å oppnevne forsvarer
-dersom den finner det ubetenkelig og sammenslutningen uttrykkelig gir avkall på forsvarer.
-§ 216 i første ledd bokstav j og ny bokstav k skal
-lyde:
-j) i saker om erstatning etter kapittel 31,
-k) i sak om forbud mot en kriminell sammenslutning etter kapittel 17 c.
-Nytt kapittel 17 c skal lyde:
-Kap. 17 c Forbud mot kriminelle sammenslutninger
-§ 222 e Etter begjæring fra statsadvokaten kan retten ved kjennelse forby en sammenslutning når
-a) deltakere i sammenslutningen har begått gjentatte lovbrudd mot noens liv, helse eller frihet,
-b) overtredelsene er egnet til å fremkalle frykt i
-befolkningen eller nærmiljøet for nye lovbrudd av samme art fra sammenslutningens
-deltakere, og
-c) et forbud er nødvendig for å forebygge alvorlig
-kriminalitet.
-§ 222 f Begjæring om forbud etter § 222 e skal
-meddeles sammenslutningen med oppfordring
-om å inngi tilsvar innen en frist som fastsettes av
-
-retten. Meddelelse kan skje gjennom oppslag ved
-sammenslutningens eventuelle lokaler. Varsel om
-rettsmøte gis på samme måte.
-Kjennelse om forbud skal forkynnes for sammenslutningen. Kjennelsen anses som forkynt for
-sammenslutningen når den er lovlig forkynt for én
-av deltakerne. I tillegg skal kjennelsen gjøres
-kjent gjennom oppslag ved sammenslutningens
-eventuelle lokaler. Det skal fremgå at brudd på
-forbudet kan straffes etter straffeloven § 199.
-Det skal føres en offentlig tilgjengelig liste
-over sammenslutninger som det er nedlagt forbud
-mot etter § 222 e.
-II
-I lov 20. mai 2005 nr. 28 om straff gjøres følgende
-endringer:
-I kapittel 20 skal ny § 199 lyde:
-§ 199 Straff for deltakelse mv. i en forbudt kriminell
-sammenslutning
-Med fengsel inntil 3 år straffes den som deltar i,
-rekrutterer medlemmer til eller på annen måte viderefører aktiviteten til en kriminell sammenslutning
-som er forbudt etter straffeprosessloven § 222 e.
-Medvirkning straffes ikke.
-III
-1. Loven gjelder fra den tiden Kongen bestemmer. De ulike bestemmelsene kan settes i kraft
-til forskjellig tid.
-2. Kongen kan gi nærmere overgangsregler.
-
-[Side 50]
-
-Departementenes sikkerhets- og serviceorganisasjon
+## Hvilke former for tilknytning til sammenslutningen skal rammes?
+
+### Straffelovrådets forslag
+
+I NOU 2020: 4 punkt 15.3 side 85–89 drøfter Straffelovrådet hvilke former for tilknytning til en kriminell sammenslutning som bør rammes av en kriminalisering. Rådet gir uttrykk for at kriminaliseringen bør avgrenses til kvalifisert deltakelse og andre aktive bidrag som er egnet til å styrke sammenslutningens kriminelle formål eller aktivitet. Etter rådets syn er en slik avgrensning påkrevd for at straffebudet ikke skal komme i konflikt med foreningsfriheten, jf. NOU 2020: 4 punkt 15.3.1 side 85–86. Videre mener rådet at både skadefølgeprinsippet og det strafferettslige skyldprinsippet taler for en slik avgrensning av straffansvaret, jf. punkt 15.3.2 side 86–87.
+
+På bakgrunn av dette er flertallets forslag til straffebud utformet slik at det rammer den som på vesentlig måte deltar i, eller fremmer de straffbare aktivitetene til en organisert kriminell sammenslutning. Rådet legger til grunn at det kan stilles noe mindre strenge krav ved et straffebud rettet mot deltakelse i en sammenslutning som på forhånd er forbudt av retten. Et tilsvarende vesentlighetskrav til deltakelsen er derfor ikke inntatt i mindretallets forslag. Dette begrunnes slik av rådet (punkt 15.3.3 side 88):
+
+«I disse tilfellene er det på forhånd besluttet at videre deltakelse er forbudt, og den som likevel velger å foreta seg handlinger som innebærer videre virksomhet i sammenslutningen handler klanderverdig. Det er derfor ikke nødvendig med noen vesentlighetskrav ved straff for deltakelse i forbudte organisasjoner.»
+
+I mindretallets forslag er «videreføring av aktiviteten» til den forbudte sammenslutningen likestilt med deltakelse. Ordet «viderefører» er ifølge rådet ment å ramme noe videre enn deltakelsesbegrepet, og vil omfatte enhver aktivitet som klart er forbundet med gruppen, jf. NOU 2020: 4 punkt 18.3.3 side 109. Formuleringen er hentet fra det sammenlignbare straffebudet i Danmark. Rådet uttaler at dette alternativet vil kunne ramme handlinger som ellers er helt lovlige, slik som å arrangere gruppemøter og benytte den forbudte sammenslutningens symboler. Rådet legger imidlertid til grunn at helt passivt medlemskap som utgangspunkt ikke skal rammes.
+
+I NOU 2020: 4 punkt 15.3.3 side 87–88 gir Straffelovrådet en del konkrete eksempler på handlinger som vil oppfylle kravet om aktiv deltakelse. Rådet gir uttrykk for at økonomiske bidrag som den klare hovedregel vil rammes. Det samme gjelder anskaffelse av våpen, datamateriell, kommunikasjonsmidler, informasjon eller utstyr til å begå straffbare handlinger, samt oppfordringer til handling eller aksjon. Videre legger rådet til grunn at narkotikasalg og annen befatning med narkotika som ledd i gruppens virksomhet skal anses som aktiv deltakelse. Som eksempel nevner rådet også andre former for kriminalitet hvor utbyttet helt eller delvis tilfaller sammenslutningen, slik som innkreving av gjeld eller hallikvirksomhet. I tillegg nevnes utleie av lokaler som skal benyttes i sammenslutningens kriminelle virksomhet, samt grove tilfeller av rådgivning om hvordan sammenslutningen skal gå frem for å planlegge, utføre eller skjule kriminell virksomhet.
+
+I flertallets forslag til selvstendig straffebud er etablering av og rekruttering til en kriminell sammenslutning uttrykkelig nevnt som eksempler på deltakelseshandlinger som rammes. Om rekrutteringsalternativet uttaler rådet i NOU 2020: 4 punkt 15.3.3 side 88:
+
+«Rekruttering er foreslått å fremgå av straffebudet som en form for deltakelse. Begrepet skal forstås som i straffeloven § 136 a. Det kreves en ‘aktiv tilskyndelse’, sml. HR-2018-1650-A avsnitt 67. Slik aktiv tilskyndelse kan være uttrykt eller implisitt \[…\]. Slik aktiv tilskyndelse kan også skje selv om henvendelsen er generell – den som legger ut rekrutteringsannonser på Facebook vil ha forsøkt å rekruttere, og han vil ha fullbyrdet rekrutteringen dersom rekrutteringen fører til andres deltakelse.»
+
+Rekruttering er ikke særskilt nevnt i mindretallets forslag til straffebud. I de spesielle merknadene til forslaget heter det likevel at deltakelsesbegrepet også er ment å omfatte rekruttering, jf. NOU 2020: 4 punkt 18.3.3 side 110.
+
+Rådet presiserer at det i vilkåret om «deltakelse» ikke skal innfortolkes et krav om at vedkommende formelt er medlem i gruppen eller tilsluttet gruppen, jf. NOU 2020: 4 punkt 16.3.2 side 95. Det skal heller ikke måtte føres bevis for at deltakeren har fått aksept fra de andre i sammenslutningen.
+
+### Høringsinstansenes syn
+
+Tre høringsinstanser har uttalt seg uttrykkelig om hvilke former for tilknytning til sammenslutningen som bør rammes av en kriminalisering.
+
+*Det nasjonale statsadvokatembetet* stiller seg bak rådets forslag, og uttrykker støtte til de konkrete eksemplene på deltakelseshandlinger som er listet opp i utredningen. Det nasjonale statsadvokatembetet understreker viktigheten av at det ikke stilles krav om formell tilslutning eller medlemskap for å være deltaker, eller til at den enkelte deltaker har fått aksept fra de andre i gruppen.
+
+*Rettspolitisk forening* fremhever betydningen av at det kommer tydelig frem hva slags tilknytning til gruppen som kreves, og mener på denne bakgrunn at det bør inntas flere eksempler i lovteksten på deltakelseshandlinger som omfattes. Alternativt mener foreningen at deltakelsesbegrepet må klargjøres ytterligere i forarbeidene. Rettspolitisk forening kan være enig i at det ikke bør kreves at deltakeren har fått aksept fra de andre i gruppen, eller at det foreligger et medlemsregister eller lignende formell oversikt over medlemmene. Etter foreningens syn bør det imidlertid gis noen konkrete eksempler på hvordan man kan delta aktivt uten å ha fått aksept fra de andre i gruppen.
+
+*Oslo politidistrikt* er enig i at rekruttering til og etablering av en kriminell sammenslutning bør nevnes særskilt som eksempler på deltakelseshandlinger som rammes:
+
+«Den som danner en slik gruppe vil ofte være den eller de samme som ellers ofte omtales som bakmenn. Initiativtagere eller organisatorer som står bak en slik gruppe bør åpenbart omfattes. Det samme gjelder de som rekrutterer idet dette er en handling som både understøtter og styrker gruppen. Rekruttering har også et stort skadepotensiale ovenfor den enkelte som blir rekruttert inn i en kriminell løpebane. For en enkeltperson kan det å bli rekruttert inn i en kriminell gruppe få svært alvorlige følger. For unge mennesker kan slik rekruttering endre deres livsløp på en svært uheldig måte. På denne bakgrunn tiltres det at kriminalisering knyttes til det å danne og rekruttere.»
+
+Oslo politidistrikt uttaler videre at det fremstår naturlig å knytte straffebudet opp mot kvalifiserte former for deltakelse, idet passivt medlemskap neppe kvalifiserer til kriminalisering. Oslo politidistrikt fremholder samtidig at dette vilkåret fremstår noe komplisert og kanskje bør eksemplifiseres.
+
+### Departementets vurdering
+
+I tråd med forslaget fra Straffelovrådets mindretall går departementet inn for at straffebudet skal ramme den som deltar i eller på annen måte viderefører aktiviteten til en kriminell sammenslutning som er forbudt etter den foreslåtte bestemmelsen i straffeprosessloven § 222 e. Departementet deler rådets syn om at det ikke er nødvendig å oppstille et vesentlighetskrav til deltakelsen når den kriminelle sammenslutningen først er forbudt gjennom en rettslig prosess. Når gjerningspersonen er kjent med at videre deltakelse i sammenslutningen er forbudt, vil også mindre vesentlige former for deltakelse være klanderverdig.
+
+Departementet legger til grunn at deltakelsesbegrepet som utgangspunkt skal forstås likt som i straffeloven § 136 a om deltakelse i terrororganisasjoner. Dette innebærer at straffebudet vil ramme *aktive bidrag* til opprettholdelsen av den forbudte sammenslutningen. Ikke ethvert aktivt bidrag skal imidlertid kunne gi grunnlag for straff – helt bagatellmessige eller perifere bidrag faller utenfor. Man må altså over en viss terskel før det er tale om aktiv deltakelse, men terskelen er ikke ment å ligge særlig høyt.
+
+Departementet er enig i at det ikke bør stilles krav om at en person er medlem i eller formelt tilsluttet sammenslutningen for å kunne straffes for deltakelse. Mange av de kriminelle sammenslutningene som vil rammes av forslaget her, vil ikke ha noen medlemsliste eller noe formelt forhold til medlemskap. Et krav om formell tilslutning eller medlemskap ville derfor gjøre det svært vanskelig å føre fullverdig bevis for deltakelse. Etter departementets syn bør det heller ikke kreves at deltakeren har fått aksept fra de andre i sammenslutningen. Også dette svarer til hvordan deltakelsesbegrepet i straffeloven § 136 a er forstått, jf. HR-2018-1650-A avsnitt 46.
+
+Departementet slutter seg til Straffelovrådets eksempler på ulike handlinger som typisk vil måtte anses som aktiv deltakelse, jf. NOU 2020: 4 punkt 15.3.3 side 87–88. Det kan for eksempel være tale om økonomisk eller annen materiell støtte til sammenslutningen, rådgivning knyttet til sammenslutningens kriminelle aktiviteter, anskaffelse av våpen, kommunikasjonsmidler eller annet utstyr til å begå straffbare handlinger, eller det å leie ut eller på annen måte stille lokaler til disposisjon som skal benyttes i sammenslutningens kriminelle virksomhet.
+
+Straffelovrådet uttaler i NOU 2020: 4 punkt 15.3.3 side 87 at det bør stilles krav om at den aktive deltakelsen har styrket sammenslutningens kriminelle formål eller aktivitet. For departementet fremstår det noe uklart om rådet mener at det bør gjelde et slikt krav uavhengig av hvilken kriminaliseringsmodell som velges. Mye tyder imidlertid på at rådet mener at et slikt vilkår først og fremst er nødvendig dersom kriminaliseringen skjer i form av et selvstendig straffebud. I NOU 2020: 4 punkt 15.4 side 89 uttaler rådet blant annet at det ved en forbudsmodell ikke er samme behov for kobling mellom deltakelsen og den kriminelle virksomheten, fordi overtredelsen av forbudet vil være det vesentlige elementet for straff. Departementet er enig i denne betraktningen og legger til grunn at det ikke skal gjelde et slikt vilkår etter ny § 199. Når sammenslutningen først er forbudt gjennom en rettslig prosess, vil det være straffverdig å bidra aktivt til gruppens videre eksistens – uavhengig av om bidraget kan kobles direkte til sammenslutningens kriminelle aktiviteter.
+
+Ved siden av deltakelse vil straffebudet ramme den som «på annen måte viderefører aktiviteten» til den forbudte sammenslutningen. Alternativet er ment å fange opp all aktivitet som klart er forbundet med sammenslutningen, men som ikke naturlig kan karakteriseres som aktiv deltakelse. Eksempler på slike handlinger kan være bruk av sammenslutningens symboler eller logo, eller utbredelse av sammenslutningens budskap, for eksempel på Internett. Det kreves ikke at gjerningspersonen er tidligere deltaker i gruppen. En forutsetning vil imidlertid være at gjerningspersonen har forsett om å videreføre den forbudte sammenslutningens aktiviteter, se punkt 7.5 nedenfor. Forsettskravet sikrer at symbolbruk og lignende som har et legitimt formål, faller utenfor.
+
+I likhet med Straffelovrådet legger departementet til grunn at passivt medlemskap eller passiv tilslutning ikke bør anses som deltakelse i eller videreføring av aktiviteten til den kriminelle sammenslutningen. Dette skiller seg fra ordningen i Danmark, hvor passivt medlemskap i en forbudt eller oppløst forening synes å være tilstrekkelig for straff. Selv om et nedlagt forbud medfører at det kan stilles noe mindre strenge krav til deltakelsen, mener departementet at det bør kreves en viss grad av aktivitet før straffansvar inntrer.
+
+Som enkelte høringsinstanser har pekt på i tilknytning til valget av kriminaliseringsmodell, jf. punkt 7.2.2 foran, kan det tenkes at medlemmer i sammenslutningen vil søke å omgå forbudet ved å etablere en «ny» gruppe som erstatning for den som er forbudt. Departementet understreker at etablering av og deltakelse i en slik «erstatningsgruppe» også må anses som en videreføring av aktiviteten til den forbudte sammenslutningen, dersom det i realiteten er tale om den samme gruppen. Det må vurderes konkret om det er så mange likheter mellom gruppene at det foreligger en videreføring. Sentrale momenter i denne vurderingen vil være om det er tale om samme personkrets og de samme kriminelle aktivitetene.
+
+I mindretallets forslag til straffebud er ikke rekruttering særskilt nevnt som eksempel på en deltakelseshandling som rammes. Selv om det å rekruttere medlemmer ofte vil kunne karakteriseres som en form for deltakelse, har departementet av hensyn til lovskravet funnet grunn til å nevne rekruttering særskilt også i et straffebud bygget på forbudsmodellen. Som Straffelovrådet legger departementet til grunn at rekrutteringsalternativet skal forstås likt som i straffeloven § 136 a. Dette innebærer at det kreves en aktiv tilskyndelse. Rekrutteringen kan skje ved inngåelse av en avtale eller ved direkte verbal overtalelse, men også ved mer subtil psykologisk påvirkning.
+
+## Skyldkrav
+
+*Straffelovrådet* foreslår at skyldkravet i ny § 199 skal være forsett, i tråd med hovedregelen i straffeloven § 21, jf. NOU 2020: 4 punkt 17.3 side 100.
+
+I *høringen* er det kun *Rettspolitisk forening* som har uttalt seg uttrykkelig om skyldkravet. Foreningen støtter rådets forslag på dette punkt.
+
+Departementet foreslår i likhet med Straffelovrådet at skyldkravet skal være forsett. I tråd med dekningsprinsippet må forsettet dekke hele det objektive gjerningsinnholdet i straffebudet, jf. straffeloven § 22 første ledd. Uvitenhet om at det er nedlagt forbud mot sammenslutningen, vil imidlertid måtte bedømmes etter straffeloven § 26 om rettsuvitenhet. Etter denne bestemmelsen vil det bero på en aktsomhetsvurdering om rettsuvitenheten skal lede til frifinnelse. Som nevnt i punkt 7.2.3 foreslår departementet at det skal føres en offentlig tilgjengelig liste over sammenslutninger som er rettskraftig forbudt etter ny § 222 e i straffeprosessloven. Dette innebærer at det skal mye til for å bli frifunnet på grunnlag av uvitenhet om at det er nedlagt forbud mot den aktuelle sammenslutningen.
+
+## Medvirkning og forsøk
+
+*Straffelovrådet* tar utgangspunkt i at det ved kriminalisering av forberedelseshandlinger bør utvises forsiktighet med å la lovens generelle medvirkningsregel få anvendelse, jf. NOU 2020: 4 punkt 17.4 side 100. På denne bakgrunn finner rådet at medvirkning ikke bør være straffbart ved et tradisjonelt selvstendig straffebud. Rådet mener imidlertid at medvirkning bør kunne straffes ved et straffebud rettet mot overtredelse av et forbud, siden klanderverdigheten i disse tilfellene vil være tydeligere. I mindretallets forslag til straffebud er det derfor ikke gjort unntak fra straffelovens generelle medvirkningsregel.
+
+Rådet fremholder at forsøk på deltakelse reiser en del rettssikkerhetsmessige utfordringer. Kriminalisering av forsøk på å utføre en forberedelseshandling innebærer at en potensielt beveger seg enda lenger fra skadefølgeprinsippets kjerne. Etter en helhetsvurdering har rådet likevel kommet til at kriminalisering av forsøk på deltakelse i eller rekruttering til kriminelle grupper kan forsvares. Rådet begrunner dette med at vilkårene for forsøksansvar etter straffeloven § 16 er utformet slik at de dekker tilfeller der forsøket på deltakelse må anses like klanderverdig som en gjennomført deltakelse.
+
+To *høringsinstanser* har hatt merknader til spørsmålet om kriminalisering av medvirkning til og forsøk på deltakelse. *Rettspolitisk forening* gir uttrykk for at verken medvirkning eller forsøk bør være straffbart. *Det nasjonale statsadvokatembetet* er derimot enig i at forsøk på deltakelse og rekruttering bør straffes.
+
+Departementet har kommet til at medvirkning ikke bør være straffbart ved et straffebud rettet mot deltakelse i en forbudt kriminell sammenslutning. Straffebudet innebærer en kriminalisering av en type forberedelseshandling som befinner seg langt unna den konkrete skadevoldende handlingen. Etter departementets syn vil et straffebud som også rammer medvirkning til slike forberedelseshandlinger, bli for vidtrekkende. Det fremstår også noe uklart hvilke handlinger som eventuelt ville blitt rammet av et medvirkningsansvar. Siden straffebudet også rammer rekruttering, vil den som bidrar aktivt til andres deltakelse i mange tilfeller fanges opp av rekrutteringsalternativet.
+
+I likhet med Straffelovrådet har departementet ikke funnet tilstrekkelig grunn til å gjøre unntak fra det alminnelige forsøksansvaret i straffeloven § 16. Departementet slutter seg til rådets begrunnelse gjengitt ovenfor. Forsøksansvaret vil blant annet kunne fange opp tilfeller av rekruttering eller vervevirksomhet som ikke leder til andres deltakelse.
+
+## Konkurrens
+
+*Straffelovrådet* drøfter spørsmål om konkurrens i NOU 2020: 4 punkt 17.5 side 101–102. Rådet legger til grunn at forslaget til ny § 199 i straffeloven skal kunne anvendes i idealkonkurrens med de enkelte straffebudene gjerningspersonen overtrer, eller forsøker eller medvirker til å overtre, som ledd i gruppens virksomhet. Rådet viser til at det organisatoriske aspektet ved handlingen og det klanderverdige som ligger i at gjerningspersonen har styrket gruppens generelle virksomhet, markeres tydeligere ved at deltakelse inngår som en selvstendig post i pådømmelsen.
+
+Rådet legger videre til grunn at ny § 199 skal kunne anvendes i idealkonkurrens med straffeloven § 198 om forbund om alvorlig organisert kriminalitet. Rådet viser til at en tilsvarende problemstilling er relevant i terrorlovgivningen, og at rettspraksis viser at forbund og deltakelse i flere saker er pådømt i konkurrens.
+
+Rådet mener imidlertid at ny § 199 ikke bør kunne anvendes i idealkonkurrens med straffskjerpelsesregelen i straffeloven § 79 bokstav c. Selv om vilkårene i de to bestemmelsene ikke vil være sammenfallende, er § 79 bokstav c nettopp ment å få frem organiseringselementet i straffutmålingen. I forslaget til ny § 199 vil dette organiseringselementet allerede være innbakt, og må derfor anses fanget opp i strafferammen i bestemmelsen.
+
+Rådet legger til grunn at den som er tiltalt for flere aktive deltakelseshandlinger i den samme sammenslutningen, kun skal anses for å ha overtrådt straffebudet én gang. Flere ulike deltakelseshandlinger skal altså betraktes som ett sammenhengende straffbart forhold, og ikke som flere straffbare handlinger i realkonkurrens.
+
+I *høringen* gir *Det nasjonale statsadvokatembetet* uttrykk for at det fremstår noe uklart om rådets forslag åpner for at deltakelse og rekruttering kan anvendes i konkurrens.
+
+Departementet slutter seg til Straffelovrådets vurdering av hvilke straffebud som bør kunne anvendes i konkurrens med ny § 199. Departementet deler også rådets oppfatning av at flere ulike deltakelseshandlinger i den samme sammenslutningen som utgangspunkt bør betraktes som ett sammenhengende straffbart forhold. Etter departementets syn bør det likevel foretas en konkret vurdering i den enkelte sak av om handlingene skal betraktes som ett sammenhengende straffbart forhold eller flere særskilte lovbrudd. Sentrale momenter i denne vurderingen vil være ulikheter i handlingenes art og avstand i tid for handlingenes utførelse, se blant annet Rt. 2006 side 964 avsnitt 15.
+
+Departementet tilføyer at ny § 199 heller ikke skal kunne anvendes i idealkonkurrens med straffeloven § 170 bokstav a, som retter seg generelt mot den som opptrer i strid med et forbud fastsatt av en domstol.
+
+## Strafferamme og straffutmåling
+
+### Valg av strafferamme
+
+#### Straffelovrådets forslag og høringsinstansenes syn
+
+*Straffelovrådet* drøfter valg av strafferamme i NOU 2020: 4 punkt 16.5 side 97–99. Etter rådets syn står valget ved et tradisjonelt straffebud mellom en strafferamme på 3 og 6 års fengsel. Rådet uttaler følgende om valget av strafferamme i et straffebud rettet mot deltakelse i en forbudt sammenslutning, jf. NOU 2020: 4 punkt 16.5.5 side 99:
+
+«Brudd på etablerte forbud er \[…\] i straffeloven belagt med lav strafferamme. Dette gjelder blant annet brudd på oppholds- og kontaktforbud (§ 168) som straffes med fengsel inntil 1 år og krenking av rettsavgjørelse (§ 170) som straffes med fengsel inntil 6 måneder. Strafferammen for videreføring og deltakelse i forbudte/oppløste organisasjoner er relativt lav i de land som har en slik ordning. Rådet finner at med de vilkår som er utformet, vil forbudet kun ramme deltakelse i de sammenslutningene som driver alvorlige former for kriminalitet. Det bør derfor fastsettes en ramme som gir rom for å fastsette straff ut fra klanderverdigheten ved ulike former for deltakelse og videreføring.»
+
+Rådet konkluderer med at strafferammen bør settes til 3 års fengsel uavhengig av modell.
+
+Under *høringen* er det kun *Oslo statsadvokatembeter* som har uttalt seg uttrykkelig om strafferammen i et straffebud rettet mot deltakelse i en forbudt sammenslutning. Oslo statsadvokatembeter mener at en strafferamme på fengsel inntil 3 år er for høy. Høringsinstansen viser til at strafferammen for brudd på etablerte forbud er relativt lav i de landene som har en slik ordning. I straffeloven 1902 § 330 var strafferammen kun fengsel i 6 måneder. Oslo statsadvokatembeter antar at en strafferamme på fengsel inntil 1 år er tilstrekkelig, og gir uttrykk for at en slik strafferamme trolig vil være mer i overensstemmelse med det som må antas å bli det reelle straffenivået.
+
+Flere høringsinstanser, herunder *Det nasjonale statsadvokatembetet*, *Oslo politidistrikt* og *Politidirektoratet*, har uttalt seg om strafferammen i et tradisjonelt selvstendig straffebud. Siden departementet ikke går inn for et slikt straffebud, omtales ikke disse høringsinnspillene nærmere her. Departementet nevner likevel kort at flere høringsinstanser mener at strafferammen bør settes til 6 års fengsel. Det vises blant annet til at en strafferamme på 6 år bedre vil fange opp bredden i saker som vil omfattes av straffebudet. I tillegg vil en strafferamme på 6 år gi politiet tilgang på skjulte etterforskningsmetoder, noe flere høringsinstanser mener er en forutsetning for å lykkes med etterforskning av denne typen lovbrudd.
+
+#### Departementets vurdering
+
+Departementet slutter seg til Straffelovrådets forslag om at strafferammen i ny § 199 settes til fengsel inntil 3 år. Departementet viser til at strafferammen er 6 år for deltakelse i terrororganisasjoner, jf. straffeloven § 136 a. Deltakelse i terrororganisasjoner kan imidlertid potensielt ha større konsekvenser, og terrororganisasjoner kan begå kriminalitet som er mer alvorlig og ødeleggende for samfunnsordenen. Dette tilsier at strafferammen i ny § 199 bør settes lavere enn strafferammen for deltakelse i terrororganisasjoner. Den neste alminnelige strafferammen er da fengsel inntil 3 år. En strafferamme på fengsel inntil 3 år svarer til strafferammen for forbund om alvorlig organisert kriminalitet, jf. straffeloven § 198.
+
+Som både Straffelovrådet og Oslo statsadvokatembeter peker på, er strafferammen for deltakelse i forbudte eller oppløste sammenslutninger relativt lav i de landene som har en slik ordning. For eksempel er strafferammen fengsel inntil 2 år i Danmark og fengsel inntil 1 år i Nederland. Strafferammen er også satt lavt i andre bestemmelser i straffeloven som kriminaliserer brudd på et nedlagt forbud, jf. for eksempel straffeloven § 168 om brudd på oppholds- og kontaktforbud. Departementet har likevel kommet til at en strafferamme på inntil 3 års fengsel vil være passende for forslaget her. Forslaget til nytt straffebud har en tydelig avgrenset rekkevidde, ved at det kun vil ramme deltakelse i et fåtall sammenslutninger som driver alvorlige former for kriminalitet. Forslaget skiller seg slik sett fra for eksempel straffeloven 1902 § 330, som hadde et bredere nedslagsfelt. Selv om en strafferamme på fengsel inntil 3 år antakelig ligger en god del over forventet normalnivå, vil den gi rom for å fastsette en passende straff ut fra klanderverdigheten ved ulike former for deltakelse i og videreføring av den forbudte sammenslutningen. Den vil også være tilstrekkelig høy til å fange opp de mer alvorlige overtredelsene.
+
+### Straffutmåling
+
+#### Straffelovrådets forslag og høringsinstansenes syn
+
+I NOU 2020: 4 punkt 17.10.1 side 103–104 gir *Straffelovrådet* anvisning på en del momenter som bør ha betydning for straffutmålingen i saker etter ny § 199. Rådet legger til grunn at de momentene som Høyesterett har vektlagt i saker om deltakelse i terrororganisasjoner, vil være relevante også her. Disse momentene er varigheten av deltakelsen, oppgavene som ble utført, rollen i organisasjonen og hvilken gruppe eller organisasjon det gjelder, jf. HR-2016-1422-A avsnitt 18. Rådet påpeker samtidig at straffenivået bør ligge betydelig lavere enn i terrorsakene, fordi terrororganisasjoner i de fleste tilfeller må antas å representere en større trussel og et større skadepotensial.
+
+Rådet drøfter betydningen av tilståelse og samarbeid med politiet særskilt i NOU 2020: 4 punkt 17.10.3 side 104–105. Det følger av straffeloven § 78 bokstav f at det anses formildende i straffutmålingen at gjerningspersonen gir en uforbeholden tilståelse eller i vesentlig grad bidrar til oppklaring av andre lovbrudd. Rådet mener at det i en del tilfeller kan være grunn til å gi tilståelsesfradrag på opptil 50 % i saker om organisert kriminalitet:
+
+«En gjerningsperson som bidrar med informasjon til politiet om bakmenn og deres rolle i gruppen – og med det bidrar til at politiet straffeforfølger sentrale skikkelser i gruppen og med det sikrer at gruppen mister mye av sin handlekraft – bør kunne gis inntil 50 % fradrag i straffen. I slike tilfeller vil samarbeidet ha såpass vesentlige virkninger at det er på sin plass å gi gjerningspersonen et merkbart og tydelig fradrag i straffen.»
+
+I NOU 2020: 4 punkt 17.10.2 side 104 knytter rådet noen bemerkninger til straffutmålingen overfor unge lovbrytere. Rådet legger til grunn at førstegangsovertredere under 18 år som den klare hovedregel bør idømmes andre straffer enn ubetinget fengsel ved mindre alvorlige former for deltakelse. Rådet mener at påtaleunnlatelse med vilkår alltid bør vurderes.
+
+To *høringsinstanser* har uttalt seg om straffutmålingen. *Politihøgskolen* er enig med rådet i at førstegangsovertredere under 18 år som hovedregel ikke bør idømmes ubetinget fengsel. Politihøgskolen viser til at ungdomsoppfølging i konfliktrådet etter straffeprosessloven § 71 a, samfunnsstraff eller ungdomsstraff kan være aktuelle reaksjoner i tillegg til påtaleunnlatelse med vilkår. Videre uttaler Politihøgskolen at det kan være rimelig å unngå ubetinget fengsel også for førstegangsovertredere som ikke er så mye over 18 år.
+
+*Sekretariatet for konfliktrådene* uttaler at det er avgjørende at alternative straffereaksjoner, slik som ungdomsstraff og ungdomsoppfølging, er hovedregelen for gjerningspersoner under 18 år. Sekretariatet er derfor positiv til at rådet fremhever dette.
+
+#### Departementets vurdering
+
+Departementet er enig med Straffelovrådet i at det ved straffutmålingen er naturlig å se hen til de momentene som Høyesterett har vektlagt i saker om deltakelse i terrororganisasjoner. Som Straffelovrådet også påpeker, bør imidlertid straffenivået ligge betydelig lavere i saker etter ny § 199. Dette er også reflektert ved at strafferammen er satt lavere enn i straffebudet om deltakelse i terrororganisasjoner, se punkt 7.8.1.2 foran.
+
+Departementet vil særskilt fremheve at rekruttering av barn og unge må betraktes som særlig alvorlig, og at slik rekruttering derfor bør straffes strengt. Den som rekrutteres, står i fare for å havne i en kriminelle løpebane, noe som igjen kan ha store konsekvenser for vedkommendes liv og helse. Departementet peker også på at bakmenn og andre som utøver sentrale funksjoner i sammenslutningen, bør straffes strengere enn de som kun adlyder ordre og ikke har noen reell myndighet.
+
+Departementet er i utgangspunktet enig med rådet i at det kan være gode grunner til å gi et tydelig fradrag i straffen for den som samarbeider med politiet i saker om organisert kriminalitet, jf. straffeloven § 78 bokstav f. Saker om organisert kriminalitet kan ofte være krevende å etterforske og iretteføre, blant annet på grunn av den interne lojaliteten som råder i enkelte grupper. Samtidig kan en for stor strafferabatt motivere til uriktige forklaringer om andre. En ordning hvor det legges økt vekt på samarbeid med politiet, kan også tenkes å føre til enda hardere selvjustis i gjengmiljøene. Departementet ser det ikke som hensiktsmessig å gi noen nærmere føringer om hvor stort fradrag i straffen som bør kunne gis. Etter departementets syn bør det fortsatt være opp til retten å vurdere ut fra forholdene i saken om samarbeid med politiet skal føre til redusert straff, og hvor stor reduksjonen eventuelt skal være.
+
+Departementet slutter seg til rådets synspunkt om at ubetinget fengsel bare helt unntaksvis kan være aktuelt overfor mindreårige lovbrytere i saker etter ny § 199. Terskelen for ileggelse av fengselsstraff overfor unge lovbrytere er høy, jf. straffeloven § 33 og FNs barnekonvensjon artikkel 37 bokstav b. Fengselsstraff kan bare benyttes dersom det foreligger særlig tungtveiende allmennpreventive hensyn som ikke i tilfredsstillende grad ivaretas ved andre straffereaksjoner, jf. Prop. 135 L (2010–2011) punkt 9.6.1.4 side 100. Alternative straffereaksjoner må derfor alltid vurderes. Som Politihøgskolen peker på i sin høringsuttalelse, kan samfunnsstraff, ungdomsoppfølging og ungdomsstraff være aktuelle reaksjoner i tillegg til påtaleunnlatelse med vilkår.
+
+# Enkelte prosessuelle spørsmål
+
+## Ivaretakelse av sammenslutningens interesser
+
+### Innledning
+
+Ved behandlingen av begjæringer om forbud mot kriminelle sammenslutninger vil den aktuelle sammenslutningen ikke være mistenkt eller siktet i straffeprosesslovens forstand. Dette innebærer at sammenslutningens prosessuelle status kan være noe uklar. På denne bakgrunn ser departementet behov for å klargjøre hvilke prosessuelle regler som skal gjelde når påtalemyndigheten fremsetter en forbudsbegjæring etter ny § 222 e.
+
+### Utøvelse av partsrettigheter
+
+Departementet legger til grunn at behandlingen av forbudssaken skal skje i straffeprosessens former. Spørsmålet om forbud bør avgjøres ved kjennelse etter muntlige forhandlinger i tingretten. I tråd med det grunnleggende kravet til kontradiktorisk behandling skal sammenslutningen gis anledning til å være representert i rettsmøtet og til å uttale seg før retten avsier kjennelse. Det skal imidlertid ikke være et vilkår for behandlingen at de impliserte møter.
+
+Det kan by på visse praktiske utfordringer å avgjøre hvem som skal kunne utøve partsrettigheter på sammenslutningens vegne. Sammenslutningen bør i første rekke gis anledning til selv å peke ut en person til å utøve partsrettighetene, etter analogi fra straffeprosessloven § 84 a. For at partsrettighetene skal kunne utøves, må påtalemyndigheten og/eller retten få melding om hvilken person som er utpekt. Dersom ingen utpekes på en entydig måte, eller opplysninger om den utpekte ikke meddeles påtalemyndigheten eller retten, må en kunne holde seg til den som på annen måte fremstår utad som sammenslutningens leder eller representant.
+
+Etter straffeprosessloven § 377 første ledd kan kjennelser ankes av «enhver som avgjørelsen rammer». Dette må ved kjennelser om forbud mot en sammenslutning i det minste omfatte den som utøver partsrettighetene på sammenslutningens vegne. Utover det må retten vurdere konkret hvem avgjørelsen «rammer».
+
+### Informasjonsrettigheter
+
+*Straffelovrådets mindretall* har foreslått at begjæringen om forbud skal «gjøres kjent for kjente ledere i sammenslutningen, gjennom oppslag ved gruppens eventuelle lokaler og for øvrig kunngjøres på egnet måte med oppfordring om å inngi tilsvar til begjæringen innen en frist som fastsettes av retten», jf. NOU 2020: 4 punkt 21.2 side 119–120. Departementet går inn for å følge opp forslaget med noen mindre lovtekniske justeringer, se forslaget til ny § 222 f første ledd første punktum. Etter departementets syn er det mer dekkende å benytte uttrykket «meddeles» i stedet for «kunngjøres». Domstolloven kapittel 9 opererer med begrepsparet «forkynnelse» og «meddelelse», hvor det knytter seg særlige formkrav til førstnevnte. Meddelelser skal derimot gis på den måten som i hvert tilfelle anses mest hensiktsmessig, jf. domstolloven § 186 første ledd. Det er da ikke behov for å presisere i lovteksten at meddelelsen skal gis «på egnet måte», siden dette allerede følger av § 186 første ledd. Det sentrale er at meddelelsen skjer på en måte som medfører at deltakerne i sammenslutningen blir klar over begjæringen, slik at de får en oppfordring til å ivareta sine og sammenslutningens interesser i prosessen. Departementet antar at oppslag ved sammenslutningens lokaler, der slike lokaler finnes og er kjent, i mange tilfeller vil kunne være en egnet måte å meddele begjæringen på – eventuelt ved siden av andre meddelelsesformer.
+
+En kontradiktorisk behandling forutsetter videre at sammenslutningen varsles om rettsmøtet der forbudsbegjæringen behandles. Departementet foreslår at varslingsregelen i ny § 222 f første ledd første punktum gis tilsvarende anvendelse for rettsmøter, se forslaget til ny § 222 f første ledd tredje punktum.
+
+Etter straffeprosessloven § 52 annet ledd skal kjennelser *meddeles* den siktede eller andre den angår. *Straffelovrådets mindretall* har foreslått en særregel om at en kjennelse som nedlegger forbud mot en sammenslutning, i stedet skal *forkynnes* for kjente medlemmer av sammenslutningen. De nærmere formkravene til forkynnelser følger av reglene i domstolloven kapittel 9. Departementet går i likhet med rådet inn for at forbudskjennelser skal forkynnes. Det er i utgangspunktet sammenslutningen som sådan som er «part» i saken, slik at det er best i tråd med straffeprosessens system at kjennelsen forkynnes for denne. Domstolloven § 191 annet ledd inneholder regler om hvem som kan motta forkynnelser på vegne av diverse upersonlige rettssubjekter. Departementet antar at de aktuelle sammenslutningene ikke alltid vil ha den nødvendige formelle strukturen som kreves for at de skal omfattes av denne bestemmelsen. Det foreslås derfor en særregel om at kjennelsen skal anses som forkynt for sammenslutningen når den er lovlig forkynt for én deltaker, se forslaget til § 222 f annet ledd annet punktum. Departementet legger til grunn at den som forkynner kjennelsen, vil forsøke å henvende seg til så sentrale skikkelser i sammenslutningen som praktisk mulig. Det kan for eksempel være sammenslutningens leder såfremt denne er kjent. For å sikre at det gis tilstrekkelig informasjon om kjennelsen, skal kjennelsen i tillegg gjøres kjent gjennom oppslag ved gruppens eventuelle lokaler, se forslaget til § 222 f annet ledd tredje punktum.
+
+## Bruk av tvangsmidler mv.
+
+### Straffelovrådets forslag og høringsinstansenes syn
+
+*Straffelovrådet* fremhever i utredningen at mandatet avgrenser fra en fullstendig gjennomgang av hvilke straffeprosessuelle virkemidler som bør tas i bruk, jf. NOU 2020: 4 punkt 4.2.1 side 17. Rådet viser til at departementet selv må vurdere hvilke tvangsmidler som bør kunne brukes i etterforskningen av deltakelse og rekruttering eller for å forberede en sak om forbud mot en sammenslutning.
+
+Blant *høringsinstansene* har *Oslo politidistrikt* uttalt seg direkte om behovet for tvangsmidler for å forberede en sak om forbud mot eller oppløsning av en sammenslutning. Høringsinstansen mener at det er nødvendig at politiet gis mulighet til å bruke skjulte metoder, og uttaler:
+
+«Dersom det skal være realistisk å skaffe bevis må det påregnes å være behov for skjulte etterforskningsmetoder. Det vil være krevende å etterforske denne type saker. Det må bevises at det finnes en gruppe - at denne har et ulovlig formål og er voldelig. I vurderingen er det videre av betydning om det finnes en rollefordeling og om det finnes en sterk innbyrdes lojalitet mm. De som mistenkes å være deltagere i en slik gruppe vil normalt nekte for at det finnes en gruppe, og de vil videre ikke bidra til å opplyse spørsmål om rollefordeling mm i avhør. Et av hovedproblemene i kriminelle miljøer er nettopp at de siktede ikke forklarer seg for politiet og ingen andre heller tør å forklare seg mot gruppen. Straffehistorikk vil kunne si noe som de enkelte personene hver for seg eller sammen har begått voldshandlinger. Derfra til å konkludere med at disse personene er en organisert kriminell sammenslutning vurderes som vanskelig uten tilgang til metoder som gir innblikk i blant annet kommunikasjon. For å kunne avdekke og bevise de vilkår bestemmelsen oppstiller, må bestemmelsen tas inn i alle skjulte etterforskningsmetoder etter straffeprosessloven. Det vises i denne sammenheng til Nouen side 39 hvor den danske Riksadvokaten trekker frem mangelen på etterforskingshjemler som en stor utfordring knyttet til oppløsningssaken mot gruppen ‘Loyal to Familia’ (LTF).»
+
+Også *Troms politidistrikt* viser til mindretallets forslag og gir uttrykk for at det er viktig at det gis mulighet for å bruke tvangsmidler, herunder også skjulte metoder.
+
+*Det nasjonale statsadvokatembetet*, *Oslo politidistrikt* og *Sør-Vest politidistrikt* har i sine kommentarer til *flertallets* forslag gitt uttrykk for at etterforskning av deltakelse i kriminelle grupper nødvendiggjør bruk av skjulte metoder. Det nasjonale statsadvokatembetet uttaler:
+
+«NAST er det eneste statsadvokatembete som har erfaring med iretteføring etter en deltakerbestemmelse henholdsvis strl. § 136 a. Erfaringen er at etterforskningen vil være forholdsvis omfattende og at hovedforhandlingen tar ca. 3 uker. Det er derfor helt nødvendig at politidistriktene setter av tilstrekkelig med ressurser til både skjult og åpen etterforskning. Det er også viktig at bestemmelsen får en tilstrekkelig tvangsmiddelpakke til å foreta særlig den skjulte etterforskningen. Tvangsmiddeladgangen knyttet til strl. § 136 a kan her tjene som et utgangspunkt.»
+
+*Politidirektoratet* uttaler i samme retning:
+
+«Politidirektoratet viser til at den foreslåtte strafferamme på 3 år vil gjøre at politiet ikke har adgang til å benytte skjulte etterforskningsmetoder. Vi mener det er lite realistisk å lykkes med etterforskning av denne type lovbrudd uten bruk av slike metoder. Erfaringene fra både drapssaker og omfattende narkotikasaker viser hvor vanskelig det er å avdekke og skaffe bevis for straffbare forhold knyttet til denne type kriminelle nettverk og miljøer. Uten hjemmel til å benytte skjulte etterforskningsmetoder vil en straffebestemmelse som foreslått få begrenset betydning i praksis.»
+
+### Departementets vurdering
+
+Departementet ønsker ikke på nåværende tidspunkt å åpne for bruk av straffeprosessuelle tvangsmidler når formålet er å forberede en sak om forbud mot en kriminell sammenslutning. Bruk av tvangsmidler i et slikt øyemed reiser krevende prinsipielle, rettslige og praktiske problemstillinger som Straffelovrådet avgrenset mot i sin utredning, men som fortjener en grundig vurdering. Det har imidlertid ikke vært anledning til å utrede disse spørsmålene på en betryggende måte innen tidsfristen som er satt for å fremme lovforslaget for Stortinget. Departementet vil vurdere å komme tilbake til emnet på et senere tidspunkt.
+
+Departementet finner grunn til å presisere at påtalemyndighetens etterforskning av deltakernes «underliggende» lovbrudd vil være en sentral informasjonskilde ved forberedelsen av forbudssaken. På grunn av vilkårene i forbudshjemmelen vil bevisføringen i stor utstrekning dreie seg om tidligere begått kriminalitet fra deltakerne i sammenslutningen. En eventuell tvangsmiddelbruk ved etterforskningen av slike overtredelser vil indirekte kunne komme til nytte ved at den fremskaffede informasjonen kan benyttes som bevis i forbudssaken. Eventuelle straffedommer mot deltakerne vil selvsagt også kunne legges frem.
+
+Det er ikke behov for lovendringer for at opplysninger fra tidligere straffesaker kan benyttes som bevis i forbudssaken, bortsett fra når opplysningene stammer fra kommunikasjonskontroll mv. Dette skyldes at politiregisterloven åpner for at opplysninger innhentet til politimessige formål kan brukes til andre politimessige formål, med mindre noe annet er særskilt bestemt, jf. politiregisterloven § 4, jf. § 2 nr. 13. Det fremgår videre av politiregisterloven § 26 at taushetsplikten ikke er til hinder for at opplysningene brukes i den enkelte straffesak. Etter § 2 nr. 11 er straffesaker definert som saker som behandles etter straffeprosessloven, og dermed omfattes også bruk av opplysningene i slike forbudssaker som lovforslaget omfatter.
+
+I tillegg mener departementet at det bør være adgang til å benytte overskuddsinformasjon fra kommunikasjonskontroll mv. som bevis. Det antas at slik informasjon vil kunne spille en viktig rolle både i forbudssaken og i straffesaken som gjelder brudd på forbudet som er fastsatt av retten. Det foreslås derfor å føye til en ny bokstav k i straffeprosessloven § 216 i første ledd om at opplysningene kan benyttes «i sak om forbud mot en kriminell sammenslutning etter kapittel 17 c». Overskuddsinformasjon vil videre kunne benyttes som bevis i en etterfølgende straffesak om brudd på forbudet dersom vilkårene i § 216 i første ledd bokstav d er oppfylt. Etter denne bestemmelsen kan informasjonen brukes som bevis «såfremt slik bruk etter sakens art og forholdene ellers ikke vil være et uforholdsmessig inngrep, og oppklaring av forholdet uten bruk av opplysningene i vesentlig grad ville ha blitt vanskeliggjort», se retningslinjene i Prop. 147 L (2012–2013) punkt 5.1.5 side 80–81. Disse kravene vil etter omstendighetene kunne være oppfylt i straffesaker om brudd på det nedlagte forbudet, men spørsmålet må selvsagt vurderes konkret.
+
+Etter at retten har besluttet et forbud mot en kriminell sammenslutning, vil det være adgang til å benytte tvangsmidler når det foreligger skjellig grunn til mistanke om at en bestemt person er skyldig i å ha overtrådt forbudet. Mistanke om overtredelse av det foreslåtte straffebudet åpner i prinsippet for tvangsmidler som ransaking, beslag, pågripelse, fengsling, skjult kameraovervåking på eller fra offentlig sted mv. Departementet ønsker ikke på nåværende tidspunkt å foreslå straffeprosessuelle tvangsmidler utover det strafferammen på tre års fengsel tilsier, men vil vurdere å komme tilbake til spørsmålet senere.
+
+# Økonomiske og administrative konsekvenser
+
+Det er usikkerhet knyttet til de økonomiske og administrative konsekvensene av forslagene for virksomhetene på straffesaksområdet. Forslaget til ny forbudsbestemmelse har en tydelig avgrenset rekkevidde. Departementet antar derfor at bestemmelsen kun vil være aktuell i et fåtall saker. Etterforskning og iretteføring av saker som gjelder organisert kriminalitet, er imidlertid ressurskrevende for politiet. Politiets straffesaksbehandling er underlagt sentrale føringer og prioriteringer fra riksadvokaten. Politiet må disponere ressurser i henhold til disse prioriteringene innenfor de til enhver tid gjeldende budsjettrammene.
+
+Det er videre knyttet usikkerhet til de økonomiske og administrative konsekvensene for Den høyere påtalemyndighet. Riksadvokaten anslår at det er behov for to dedikerte statsadvokatressurser til å håndtere saker om forbud mot en kriminell sammenslutning, i tillegg til kompetanseoppbygging.
+
+Sakstilfanget i domstolene er avhengig av politiets disponering av ressurser og prioriteringer i straffesaksbehandlingen. Siden lovforslaget antas å omfatte få saker, vil de økonomiske og administrative konsekvensene for domstolene være begrensede.
+
+De økonomiske og administrative konsekvensene for kriminalomsorgen er også beheftet med usikkerhet. Vurderingen av de økonomiske og administrative konsekvensene for kriminalomsorgen er, på linje med de andre virksomhetene, avhengig av om de nye bestemmelsene fører til en økning i antall saker. I tillegg er politiets prioriteringer mellom saker også av betydning for kriminalomsorgen. Eksempelvis vil en større andel domfelte med alvorlige og lange dommer, føre til økt behov for straffegjennomføringskapasitet. Videre kan innsatte med tilknytning til kriminelle grupper kreve mer ressurser også fra et sikkerhetsperspektiv, siden denne gruppen innsatte erfaringsmessig utgjør en større sikkerhetsrisiko.
+
+Det legges til grunn at økonomiske og administrative konsekvenser som følge av forslaget håndteres innenfor Justis- og beredskapsdepartementets gjeldende budsjettrammer.

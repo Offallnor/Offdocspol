@@ -1,783 +1,102 @@
-# Prop. 4 L (2026–2027), del 8 av 8 (side 81–91)
+# Prop. 4 L (2026–2027), del 8 av 9
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2026/4bef17cd-prop-4-l-20262027.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-4-l-20262027/id3184905/
 - Original-PDF: https://www.regjeringen.no/contentassets/845baf58b7ba41e6ba79796b4aa76d98/no/pdfs/prp202620270004000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 81]
-
-2026–2027
-
-Prop. 4 L
-Endringer i straffeprosessloven mv. (prosessuelle regler for selvstendig inndragning)
-
-79
-
-12 Merknader til de enkelte bestemmelsene i lovforslaget
-12.1 Til endringene i
-straffeprosessloven
-Til § 216 i
-Første ledd ny bokstav m gir grunnlag for å bruke
-overskuddsinformasjon fra kommunikasjonskontroll som ledd i etterforskningen av en sak om
-selvstendig inndragning. På nærmere fastsatte vilkår kan slik overskuddsinformasjon også brukes
-som bevis for et krav om selvstendig inndragning.
-Vilkårene for å bruke opplysningene som bevis i
-en sak om selvstendig inndragning tilsvarer vilkårene i første ledd bokstav d og skal forstås på
-samme måte. Som følge av henvisningene i
-§ 216 m sjette ledd og § 216 o femte ledd gjelder
-det samme for overskuddsinformasjon fra romavlytting og dataavlesing. Se punkt 8.3 i de alminnelige merknadene.
-Til § 224
-I første ledd er det presisert at det kan foretas
-etterforskning dersom det foreligger rimelig
-grunn til å undersøke om det kan foretas inndragning. Endringen klargjør at det er adgang til å
-etterforske rene inndragningssaker, uten at det
-samtidig foretas etterforskning med sikte på
-straffeforfølgning. Dette gjelder både selvstendig
-inndragning etter straffeloven § 68 a og inndragning på andre grunnlag. Se punkt 5.1 i de alminnelige merknadene.
-Til § 226
-I første ledd bokstav a er det presisert at et eget formål med etterforskningen kan være å skaffe til
-veie de nødvendige opplysningene for å avgjøre
-om det kan foretas inndragning, uavhengig av om
-det samtidig etterforskes med sikte på å avgjøre
-spørsmålet om tiltale. Dette gjelder både selvstendig inndragning etter straffeloven § 68 a og inndragning på andre grunnlag. Se punkt 5.1 i de
-alminnelige merknadene.
-
-Til § 402
-Kapittel 28 er nytt, og inneholder enkelte særregler for saker om selvstendig inndragning etter
-straffeloven § 68 a. Særreglene legger til rette for
-en effektiv og sakstilpasset behandling av slike
-saker. I den grad ikke annet følger av særreglene i
-kapittel 28, gjelder de alminnelige reglene i
-straffeprosessloven, jf. også § 2 første ledd nr. 2.
-Dette innebærer blant annet at etterforskningen
-av saker om selvstendig inndragning skal skje
-innenfor rammene av lovens kapittel 18, og at de
-alminnelige kravene til påtalemyndighetens objektivitet gjelder også i denne sakstypen. Hvis påtalemyndigheten fremmer krav om selvstendig inndragning, følger det også av lovens alminnelige
-regler at den som kravet er rettet mot, har tilsvarende rettigheter og plikter som siktede i en straffesak, jf. § 82 fjerde ledd.
-Se for øvrig punkt 5.2 i de alminnelige merknadene.
-Til § 403
-Paragrafen innebærer en tilpasning av enkelte
-regler som er sentrale under etterforskningen.
-Den klargjør hvordan reglene om tvangsmiddelbruk, dokumentinnsyn på etterforskningsstadiet
-og avhør av mistenkte skal anvendes i saker om
-selvstendig inndragning.
-Første ledd gjelder bruk av tvangsmidler, se
-også punkt 8.1 og 8.2 i de alminnelige merknadene. Bestemmelsen åpner for bruk av ransaking
-etter § 192 tredje ledd nr. 3 og § 195 tredje ledd,
-beslag etter § 203 og utleveringspålegg etter § 210
-ved etterforskning med sikte på selvstendig inndragning, uten at det er påvist mistanke om et
-bestemt lovbrudd. Bestemmelsen innebærer et
-unntak fra mistanke- og kriminalitetskravet som
-følger av de nevnte tvangsmiddelhjemlene i
-lovens fjerde del. I stedet oppstiller den som vilkår
-for tvangsmiddelbruk at det foreligger skjellig
-grunn til mistanke om at et formuesgode stammer
-fra lovbrudd. Vilkåret om «skjellig grunn» skal
-forstås på samme måte som i straffeprosessloven
-for øvrig, likevel slik at mistankevurderingen
-
-[Side 82]
-
-80
-
-Prop. 4 L
-Endringer i straffeprosessloven mv. (prosessuelle regler for selvstendig inndragning)
-
-knytter seg til grunnvilkåret for inndragning etter
-straffeloven § 68 a (at et formuesgode stammer
-fra lovbrudd) og ikke til en bestemt straffbar
-handling. I tillegg til mistankevilkåret må de
-øvrige vilkårene for tvangsmiddelbruk i lovens
-fjerde del være oppfylt, herunder kravet til nødvendighet og forholdsmessighet, jf. straffeprosessloven § 170 a. Det samme gjelder de formelle
-reglene om beslutningskompetanse, formkrav,
-rettslig prøving osv. Adgangen til tvangsmiddelbruk gjelder både overfor eieren av formuesgodet
-og overfor tredjepersoner.
-Paragraf 403 første ledd viser ikke spesifikt til
-§ 217 om heftelse. Det er likevel på det rene at heftelse kan brukes overfor personer som er eller
-antas å ville bli ilagt krav om selvstendig inndragning, dersom vilkårene i § 217, jf. § 82 fjerde ledd,
-er oppfylt. Om vedkommende «antas å ville bli
-ilagt» et krav om selvstendig inndragning, må vurderes ut fra vilkårene i straffeloven § 68 a.
-I tillegg til tvangsmidlene som er nevnt i § 403
-første ledd, vil det være adgang til bruk av tvangsmidler som etter de alminnelige reglene i lovens
-fjerde del ikke krever at det foreligger mistanke
-om en straffbar handling. Et eksempel er ransaking av offentlig sted mv. etter § 193, som kan
-foretas i «etterforskningsøyemed». Bestemmelsen i § 403 første ledd innebærer ingen begrensninger i adgangen til tvangsmiddelbruk etter
-disse reglene. Bestemmelsen innebærer heller
-ingen begrensninger i adgangen til tvangsmiddelbruk på bakgrunn av mistanke om en straffbar
-handling, eller for adgangen til å bruke opplysninger fra slik tvangsmiddelbruk som bevis i en sak
-om selvstendig inndragning. Se likevel § 216 i
-første ledd bokstav m om bruk av opplysninger fra
-kommunikasjonskontroll mv.
-Annet ledd gjelder dokumentinnsyn under
-etterforskningen. Det følger av første punktum at
-eieren av formuesgodet har adgang til innsyn i
-saksdokumentene dersom en ting som antas å
-kunne inndras, er tatt i beslag etter § 203. Etter
-annet punktum gjelder det samme når det er
-besluttet heftelse etter § 217. I andre tilfeller har
-verken eieren eller tredjepersoner en selvstendig
-rett til innsyn i saksdokumentene under etterforskningen av en sak om selvstendig inndragning. Eierens adgang til dokumentinnsyn gjelder i
-den utstrekning innsyn er nødvendig for at vedkommende skal kunne ivareta sine interesser i
-saken. Innsyn kan likevel nektes dersom det kan
-skade eller skape fare for etterforskningen av
-saken eller andre saker eller for en tredjeperson.
-Dersom innsyn nektes, kan spørsmålet bringes
-inn for retten, jf. tredje punktum. Innsynsreglene i
-
-2026–2027
-
-§ 403 annet ledd gjelder på etterforskningsstadiet.
-Innsynsretten på senere stadier av saken reguleres av §§ 264 og 267, samt § 28, jf. også § 82 fjerde
-ledd. Se også punkt 7.3 i de alminnelige merknadene.
-Etter tredje ledd gjelder reglene om avhør av
-mistenkte i lovens kapittel 18 tilsvarende ved
-avhør av eieren under etterforskningen av en sak
-om selvstendig inndragning. Dette innebærer at
-eieren som risikerer å bli fratatt et formuesgode,
-er fritatt for forklaringsplikt på lik linje med en
-som er mistenkt for en straffbar handling, og skal
-opplyses om dette før det foretas politiavhør, jf.
-§ 232. På senere stadier av saken følger en tilsvarende fritaksrett av § 90, jf. § 82 fjerde ledd. Forbeholdet «så langt de passer» reflekterer at eierens
-rolle prinsipielt sett skiller seg fra rollen som mistenkt i en straffesak, siden saken gjelder et sivilrettslig virkemiddel og ikke straff. Avhørsreglene
-må praktiseres i lys av dette. Se også punkt 7.2 i
-de alminnelige merknadene.
-Til § 404
-Bestemmelsens første til fjerde ledd regulerer
-partsforholdene ved selvstendig inndragning, det
-vil si hvem som skal gjøres til saksøkt når påtalemyndigheten fremmer krav etter straffeloven
-§ 68 a. Bestemmelsene har sin parallell i straffeloven § 74, se også henvisningen til straffeprosessloven kapittel 28 i et nytt femte ledd i denne
-bestemmelsen. Se også punkt 6 i de alminnelige
-merknadene.
-Første ledd angir hovedregelen om at krav om
-selvstendig inndragning skal rettes mot den som
-eier formuesgodet som kreves inndratt. Regelen
-er en konsekvens av at selvstendig inndragning
-rammer eiendomsretten til formuesgodet, og at
-eieren derfor som hovedregel må gjøres til part.
-Annet ledd første punktum åpner for at krav om
-selvstendig inndragning på visse vilkår kan fremmes mot en besitter. Besitteren vil i så fall få rollen
-som saksøkt og representere eierinteressene i
-den videre prosessen, uavhengig av om vedkommende er den som reelt sett eier formuesgodet.
-Begrepet «besitter» skal tolkes vidt og i lys av
-arten av formuesgodet som saken gjelder. Begrepet kan omfatte både den som besitter formuesgodet i snever forstand, og den som på andre
-måter disponerer eller har den faktiske rådigheten over formuesgodet. I motsetning til straffeloven § 74 annet ledd første punktum, som viser til
-beslagstidspunktet, er det ikke angitt et tidspunkt
-for besittelsen. Ofte vil det være naturlig å ta
-utgangspunkt i situasjonen på beslagstidspunktet,
-
-[Side 83]
-
-2026–2027
-
-Prop. 4 L
-Endringer i straffeprosessloven mv. (prosessuelle regler for selvstendig inndragning)
-
-men det er heller ikke utelukket å fremme kravet
-mot en som har vært i besittelse av formuesgodet
-på et annet tidspunkt. Det relevante er om vedkommende er i en posisjon hvor det er naturlig at
-han eller hun gjøres til saksøkt og representerer
-eierinteressene i saken.
-Adgangen til å fremme kravet mot en besitter
-gjelder for det første i tilfeller der «eierforholdet
-fremstår som uavklart». Formuleringen omfatter
-både tilfeller der eieren er ukjent og tilfeller der
-det er uklart hvem den reelle eieren er. Sistnevnte
-innebærer at bestemmelsen har et videre anvendelsesområde enn den tilsvarende regelen i
-straffeloven § 74 annet ledd første punktum. Det
-kreves i utgangspunktet ikke noen særskilt etterforskning av eierspørsmålet for å avklare hvem
-som skal gjøres til saksøkt. En annen sak er at
-dette kan være nødvendig å etterforske for å ta
-stilling til om formuesgodet mest sannsynlig stammer fra lovbrudd og om inndragning vil være uforholdsmessig, jf. straffeloven § 68 a første ledd.
-Prosessuelt er det avgjørende hvordan eierspørsmålet fremstår når påtalemyndigheten har gjennomført en objektiv etterforskning og skaffet til
-veie de nødvendige opplysningene for å avgjøre
-om vilkårene for inndragning er oppfylt.
-Adgangen til å anlegge saken mot en besitter
-gjelder for det andre dersom eieren er «uten kjent
-oppholdssted i Norge». Formuleringen er en videreføring av straffeloven § 74 annet ledd første
-punktum og skal forstås på samme måte. Den
-omfatter både tilfeller der eierens oppholdssted er
-ukjent, og der eieren oppholder seg på kjent sted,
-men i utlandet.
-Når kravet fremmes mot en besitter etter § 404
-annet ledd, skal andre enn saksøkte som er eller
-kan antas å være eier, så vidt mulig varsles, jf.
-annet punktum. Formålet med varslingen er at
-slike personer skal gjøres kjent med saken og
-eventuelt kunne utøve partsrettigheter, jf. fjerde
-ledd annet punktum. Varslingsregelen er en videreføring av kravet om varsling av eieren etter
-straffeloven § 74 annet ledd tredje punktum, men
-med visse tilpasninger som følge av at krav etter
-§ 404 annet ledd også skal kunne fremmes når
-eierforholdet er «uavklart». Formuleringen «kan
-antas å være eier» tar høyde for denne situasjonen, og skal legge til rette for at alle som med
-en viss grad av sannsynlighet kan være den reelle
-eieren av formuesgodet, blir gjort kjent med
-saken slik at vedkommende kan ivareta sine interesser. Selv om varslingsregelen etter sin ordlyd
-bare kommer til anvendelse når kravet fremmes
-mot en besitter, kan det etter omstendighetene
-være aktuelt å varsle andre enn saksøkte også når
-
-81
-
-påtalemyndigheten fremmer krav etter hovedregelen i § 404 første ledd mot den som anses for
-å være eier. I praksis vil det kunne være en glidende overgang mellom disse tilfellene og tilfeller
-hvor eierforholdet anses for å være «uavklart».
-Ettersom en dom på inndragning av et bestemt
-formuesgode i begge tilfeller vil være bindende
-for alle som har interesser i formuesgodet, jf.
-§ 409 første ledd, kan rettssikkerhetshensyn tilsi
-at flere enn saksøkte blir gjort kjent med saken
-også når kravet fremmes mot eier.
-Kravet til varsling gjelder «så vidt mulig».
-Kravet innebærer at påtalemyndigheten må gjøre
-det som er praktisk mulig for at personer som er
-eller kan antas å være eier, skal bli gjort kjent med
-saken. Dersom noen gjør seg utilgjengelig for
-påtalemyndigheten, eller det av andre grunner er
-praktisk umulig å komme i kontakt med vedkommende, vil manglende varsel likevel ikke være til
-hinder for at saken tas til behandling.
-Tredje ledd gjelder situasjonen der det ikke er
-noen som kan saksøkes etter reglene i første eller
-annet ledd, det vil si der det ikke er identifisert en
-eier eller besitter som har kjent oppholdssted i
-Norge. Dette kan for eksempel være fordi eieren
-er ukjent, og det heller ikke er identifisert noen
-besitter som oppholder seg i Norge. Bestemmelsen åpner for at krav om selvstendig inndragning i
-så fall kan fremmes uten at noen er gjort til saksøkt. Det innebærer at prosessen i disse tilfellene
-i utgangspunktet kan gjennomføres som en motpartsløs sak. Dersom det er identifisert konkrete
-enkeltpersoner som er eller kan antas å være eier,
-skal disse så vidt mulig varsles og kan utøve partsrettigheter, jf. fjerde ledd annet punktum. Uavhengig av om det finnes slike personer, skal varsel om
-saken gjøres kjent ved offentlig kunngjøring etter
-reglene i domstolloven § 181 første ledd. Den
-offentlige kunngjøringen kommer i stedet for forkynning overfor saksøkte når kravet fremmes
-etter første eller annet ledd, og etablerer et tidspunkt for når informasjon om saken formelt kan
-anses å ha kommet frem til noen som representerer eierinteressene.
-Fjerde ledd første punktum oppstiller visse
-begrensninger i adgangen til å fremme kravet
-etter reglene i annet og tredje ledd. Bestemmelsen fastsetter at adgangen til å fremme kravet mot
-en besitter, eventuelt uten saksøkt, bare gjelder så
-langt det fremstår som rimelig av hensyn til eier
-og etter sakens art og forholdene for øvrig å
-anlegge saken på denne måten. Rimelighetsvilkåret er en videreføring av det tilsvarende vilkåret i
-straffeloven § 74 annet ledd første punktum, men
-med en tilpasning til tilfellene der eierforholdet er
-
-[Side 84]
-
-82
-
-Prop. 4 L
-Endringer i straffeprosessloven mv. (prosessuelle regler for selvstendig inndragning)
-
-uavklart. Er det avklart hvem som eier formuesgodet, må rimelighetsspørsmålet primært vurderes i relasjon til eieren, på tilsvarende måte som
-etter straffeloven § 74 i dag. Blant annet vil det
-kunne være urimelig å anlegge saken mot en
-besitter, eventuelt uten saksøkt, dersom eieren
-befinner seg på kjent sted i et land som Norge har
-tett rettslig samarbeid med. I slike tilfeller vil det
-normalt ikke medføre noen urimelig byrde eller
-forsinkelse å involvere vedkommende i prosessen
-som part. Er eierforholdet uavklart, vil rimelighetsspørsmålet måtte vurderes mer abstrakt i
-relasjon til mulige eiere og eventuelle andre involverte personer. Vilkåret vil blant annet kunne
-utgjøre en skranke mot å anlegge saken mot en
-besitter, eventuelt uten saksøkt, uten at det er
-foretatt ytterligere etterforskningsskritt dersom
-eierforholdet kunne vært avklart ved hjelp av
-enkle midler.
-Adgangen til å fremme kravet mot en besitter,
-eventuelt uten saksøkt, etter reglene i annet og
-tredje ledd gjelder bare ved inndragning av et
-bestemt formuesgode. Krav om verdiinndragning
-fremmes mot eier etter hovedregelen i første ledd.
-I fjerde ledd annet punktum er det fastsatt hva
-et varsel etter annet eller tredje ledd til personer
-som er eller kan antas å være eier, skal inneholde.
-Varselet skal gi opplysninger om hva saken gjelder og at vedkommende har adgang til å utøve
-partsrettigheter. Dette innebærer blant annet at
-vedkommende har adgang til å møte i retten,
-fremlegge bevis og nedlegge påstand, på samme
-måte som den som er gjort til saksøkt. Dette er
-imidlertid ikke noe krav for gjennomføring av
-saken. Dersom den som er forsøkt varslet forholder seg passiv, vil inndragningskravet kunne
-avgjøres med bindende virkning uten noen form
-for medvirkning fra vedkommende, jf. § 409 første
-ledd. Varselet skal derfor også gi opplysning om
-dette.
-Bestemmelsen oppstiller ikke formelle krav til
-hvordan et varsel til personer som er eller kan
-antas å være eier, skal gis. På samme måte som
-etter straffeloven § 74 annet ledd siste punktum
-innebærer dette at varselet kan gis på den måten
-som anses hensiktsmessig i den enkelte saken, og
-som samtidig gir størst mulig grad av trygghet for
-at informasjon om saken kommer frem til rette
-vedkommende. Varselet vil blant annet kunne gis
-ved brev, e-post eller telefon, overfor vedkommende personlig eller via en tredjeperson som for
-eksempel en advokat.
-Femte ledd gjelder partsforholdene når påtalemyndigheten krever bortfall av en rettsgyldig sikret rettighet etter straffeloven § 73. Kravet rettes
-
-2026–2027
-
-da mot rettighetshaveren. Dersom rettighetsforholdene er uavklart eller rettighetshaveren er
-uten kjent oppholdssted i Norge, gjelder reglene i
-annet til fjerde ledd tilsvarende.
-Til § 405
-Bestemmelsen gjelder offentlig advokat for saksøkte når påtalemyndigheten fremmer krav om
-selvstendig inndragning etter straffeloven § 68 a.
-Det følger av første punktum at retten skal oppnevne advokat for saksøkte på samme vilkår som
-etter § 100 annet ledd første punktum. Saksøkte
-har følgelig ikke noen ubetinget rett til advokat,
-men kan få oppnevnt advokat hvis særlige grunner taler for det. Retten til advokat er tilsvarende
-som ved hovedforhandling i andre rene inndragningssaker, jf. § 96 annet ledd nr. 3. I vurderingen
-av om det foreligger særlige grunner, skal det
-blant annet tas hensyn til de momentene som er
-nevnt i § 100 annet ledd første punktum. Det kan
-også legges vekt på andre momenter, slik som formuesgodets verdi, saksøktes interesser i formuesgodet og om saken reiser faktiske eller rettslige
-spørsmål som tilsier at vedkommende har behov
-for rettslig bistand for å kunne ivareta sine interesser. Reglene om forsvareren i lovens kapittel 9
-gjelder for øvrig tilsvarende, jf. annet punktum. Se
-også punkt 7.5 i de alminnelige merknadene.
-Til § 406
-Etter første ledd første punktum skal krav om selvstendig inndragning etter straffeloven § 68 a som
-hovedregel fremmes av påtalemyndigheten ved
-en begjæring til tingretten. Begjæringen forkynnes for saksøkte på samme måte som en tiltalebeslutning, jf. § 263. Kompetansen til å fremme
-begjæringen tilkommer etter loven alle påtalemyndighetens tjenestemenn, jf. § 55 a. I annet
-punktum er det fastsatt visse minimumskrav til
-begjæringens innhold. Etter bestemmelsen skal
-begjæringen inneholde saksøktes navn og bopel,
-og angi hvilket formuesgode som kreves inndratt
-og det faktiske og rettslige grunnlaget for inndragningskravet. Grunnlaget for kravet må
-beskrives på en slik måte at saksøkte kan imøtegå
-kravet og ivareta sine interesser i saken. For øvrig
-vil beskrivelsen av grunnlaget i begjæringen
-kunne variere ut fra omstendighetene og den forventede videre behandlingen av saken, jf. annet
-ledd første punktum og § 407.
-Når begjæringen oversendes til retten, skal
-påtalemyndigheten etter annet ledd første punktum
-opplyse om sitt syn på hvordan den videre
-
-[Side 85]
-
-2026–2027
-
-Prop. 4 L
-Endringer i straffeprosessloven mv. (prosessuelle regler for selvstendig inndragning)
-
-behandlingen av saken bør skje. Dette innebærer
-at påtalemyndigheten må opplyse om saken
-begjæres avgjort ved forenklet behandling, jf.
-§ 407 første ledd, eller om det skal berammes
-hovedforhandling etter lovens alminnelige regler.
-Påtalemyndigheten må også gi retten de opplysningene som er nødvendige for den videre
-behandlingen av saken. Dersom påtalemyndigheten begjærer forenklet behandling, innebærer det
-at oversendelsen må inkludere de opplysningene
-som retten trenger for å ta stilling til om det er
-grunnlag for slik behandling og for at retten skal
-kunne avgjøre inndragningskravet etter reglene i
-§ 407 første ledd. I praksis betyr det at saksdokumentene helt eller delvis må oversendes til retten
-sammen med begjæringen, og at grunnlaget for
-kravet må beskrives på en slik måte at det i
-utgangspunktet ikke vil være behov for supplerende bevisførsel. Mener påtalemyndigheten at
-det skal berammes hovedforhandling, jf. § 407
-annet ledd, må oversendelsen i utgangspunktet
-inneholde de opplysningene som er angitt i § 262
-første ledd. Uavhengig av forventet behandlingsform må oversendelsen uttrykkelig angi eventuelle opplysninger fra kommunikasjonskontroll
-mv., og begrunne hvorfor vilkårene i § 216 i første
-ledd bokstav m for å føre disse opplysningene
-som bevis anses oppfylt, jf. annet ledd annet punktum. Bestemmelsen skal forstås på samme måte
-som § 262 første ledd annet punktum og § 248
-første ledd annet punktum.
-Etter tredje ledd kan påtalemyndigheten utferdige forelegg i stedet for å sende begjæring om
-selvstendig inndragning til tingretten. Bestemmelsen innebærer en tilpasning av de alminnelige
-reglene om forelegg i lovens kapittel 20. Etter
-annet punktum er kravene til foreleggets innhold
-de samme som kravene til en begjæring til tingretten. Det vil si at forelegget skal inneholde saksøktes navn og bopel, og angi hvilket formuesgode som kreves inndratt og det faktiske og rettslige grunnlaget for kravet. Grunnlaget for kravet
-må beskrives på en slik måte at saksøkte kan ta
-stilling til om han eller hun vil vedta forelegget. I
-tillegg skal forelegget inneholde en oppfordring til
-saksøkte om å erklære hvorvidt han eller hun vedtar forelegget, og en frist for dette, jf. § 256 første
-ledd nr. 5. Bestemmelsene om vedtakelse, opphevelse, anke og gjenåpning av forelegg i §§ 257 til
-261 gjelder også tilsvarende. Etter tredje punktum
-kan et ikke vedtatt forelegg tre i stedet for en
-begjæring til retten etter første ledd.
-Se også punkt 9.1 til 9.3 i de alminnelige merknadene.
-
-83
-
-Til § 407
-Bestemmelsen gjelder den rettslige behandlingen
-av krav om selvstendig inndragning. Den angir to
-ulike spor for behandlingen avhengig av sakens
-kompleksitet og behovet for muntlighet.
-Første ledd første punktum åpner for at krav om
-selvstendig inndragning i visse tilfeller kan avgjøres av retten ved dom etter forenklet behandling.
-Regelen er ment å legge til rette for at små og
-oversiktlige saker kan behandles på en raskere og
-enklere måte enn ved hovedforhandling etter de
-alminnelige reglene i kapittel 22. Vilkåret for å
-beslutte forenklet behandling er at retten finner
-det klart at saken vil være tilstrekkelig opplyst
-uten hovedforhandling. Dette innebærer at det må
-fremstå klart for retten at den vil ha et forsvarlig
-avgjørelsesgrunnlag uten at alle bevisene som
-kravet bygger på, blir presentert muntlig i et rettsmøte med begge parter til stede.
-Utgangspunktet for vurderingen vil være
-sakens kompleksitet og hvorvidt den reiser faktiske eller rettslige spørsmål som ikke vil bli tilstrekkelig belyst dersom saken behandles helt
-eller delvis skriftlig. Verdien av formuesgodet kan
-også være et relevant moment i vurderingen, selv
-om lav verdi ikke i seg selv er en begrunnelse for
-at saken vil være tilstrekkelig opplyst uten hovedforhandling. Vilkåret for forenklet behandling vil
-for eksempel kunne være oppfylt dersom bevismaterialet i saken er begrenset til en beslagsrapport og et fåtall avhør, og det ikke er noe som tilsier at det vil fremkomme noe nytt dersom de
-samme personene avhøres i retten. Det samme
-gjelder dersom saken er reist uten at noen er gjort
-til saksøkt, og en eventuell hovedforhandling derfor vil være begrenset til en ensidig fremleggelse
-av bevisene i saken. Dersom inndragningskravet
-bygger på et omfattende bevismateriale hvor det
-er grunn til å tro at det vil være behov for muntlige avklaringer i retten, vil det normalt ikke være
-grunnlag for forenklet behandling. Det samme
-gjelder dersom saksøktes eller vitners troverdighet vil stå sentralt når retten skal ta stilling til
-kravet, slik at det er behov for muntlig eksaminasjon.
-Det er ikke et vilkår at saksøkte samtykker til
-at saken avgjøres ved forenklet behandling. Partenes syn på spørsmålet om behandlingsform vil
-imidlertid være et relevant moment i vurderingen
-av om det er behov for hovedforhandling. Ved
-praktiseringen av reglene om forenklet behandling må det ses hen til praksis etter EMK artikkel
-6 nr. 1.
-
-[Side 86]
-
-84
-
-Prop. 4 L
-Endringer i straffeprosessloven mv. (prosessuelle regler for selvstendig inndragning)
-
-Forenklet behandling kan bare skje på begjæring fra påtalemyndigheten. For at begjæringen
-skal gi retten grunnlag for å ta stilling til spørsmålet om behandlingsform, må påtalemyndigheten i
-begjæringen redegjøre for hvorfor saken vil være
-tilstrekkelig opplyst uten hovedforhandling og
-vise til relevante deler av saksdokumentene, jf.
-også § 406 annet ledd første punktum. Rettens
-beslutning om behandlingsform kan ikke ankes
-med mindre den er uforsvarlig eller klart urimelig, jf. straffeprosessloven § 377 annet ledd.
-Når retten beslutter forenklet behandling,
-avgjøres inndragningskravet på grunnlag av
-sakens dokumenter og eventuelle andre opplysninger som har kommet frem under saksforberedelsen, jf. første ledd annet punktum. Utgangspunktet for rettens vurdering vil være de bevisene
-som er påberopt i påtalemyndighetens begjæring
-og et eventuelt skriftlig tilsvar fra saksøkte, men
-retten er ikke bundet av dette. Etter straffeprosessloven § 274 første ledd kan retten også
-beslutte at det skal holdes rettsmøte under saksforberedelsen, som eventuelt kan være et fjernmøte. Dette kan for eksempel være aktuelt dersom saksøkte ønsker å forklare seg muntlig, eller
-hvis det er enkeltspørsmål som bør belyses muntlig i retten, uten at det er behov for en full hovedforhandling. Opplysninger som fremkommer i
-slike rettsmøter under saksforberedelsen, vil også
-være en del av avgjørelsesgrunnlaget ved forenklet behandling. Omfanget av og innretningen
-på eventuelle rettsmøter under saksforberedelsen
-må vurderes av retten ut fra behovene i den
-enkelte saken. I noen tilfeller vil det være tilstrekkelig at bare saksøkte møter og avgir forklaring,
-på lignende måte som ved tilståelsespådømmelse,
-mens det i andre tilfeller vil være behov for at også
-påtalemyndigheten møter. Det sentrale er at retten får et forsvarlig grunnlag for å ta stilling til inndragningskravet. Adgangen til å avsi dom etter
-forenklet behandling gjelder både der kravet om
-selvstendig inndragning tas til følge, og der retten
-finner at det ikke er grunnlag for slik inndragning.
-Se også punkt 9.3 i de alminnelige merknadene.
-Dersom retten ikke treffer avgjørelse etter
-første ledd, følger det av annet ledd første punktum
-at inndragningskravet skal avgjøres etter muntlig
-hovedforhandling. Bestemmelsen omfatter både
-tilfeller der påtalemyndigheten begjærer forenklet
-behandling etter første ledd, men retten mener
-det ikke er grunnlag for dette, og tilfeller der
-påtalemyndigheten anmoder retten om å
-beramme hovedforhandling. Hovedforhandlingen forberedes og gjennomføres i utgangspunktet
-
-2026–2027
-
-etter de alminnelige reglene i lovens kapittel 21
-og 22. I annet ledd annet punktum er det imidlertid gjort unntak fra reglene om rettens sammensetning under hovedforhandlingen i § 276.
-Bestemmelsen innebærer at retten som hovedregel settes uten meddommere, hvis ikke det oppnevnes fagkyndige meddommere etter § 277. Se
-også punkt 9.5.3 i de alminnelige merknadene.
-Til § 408
-Første ledd regulerer vernetinget når påtalemyndigheten fremmer krav om selvstendig inndragning. Det fremgår at kravet skal fremmes for tingretten i den rettskretsen der saksøkte bor eller
-oppholder seg, eller der saken antas lettest å
-kunne bli opplyst. Se også punkt 9.5.1 i de alminnelige merknadene.
-Annet ledd første punktum presiserer at et krav
-om selvstendig inndragning også kan fremmes
-mot siktede i forbindelse med en straffesak eller
-en annen sak som behandles etter straffeprosesslovens regler, jf. loven § 2. Dette kan være aktuelt
-dersom påtalemyndigheten prinsipalt fremmer
-krav om utbytteinndragning etter straffeloven
-§ 67 på bakgrunn av en straffbar handling, men
-subsidiært vil kreve selvstendig inndragning av
-bestemte formuesgoder for det tilfellet at det prinsipale inndragningskravet ikke fører frem. Det
-kan også være aktuelt å behandle et krav om selvstendig inndragning sammen med en straffesak,
-for eksempel hvis det er påvist gjennom etterforskningen at siktede eier formuesgoder som
-mest sannsynlig stammer fra kriminalitet, og bevisene i straffesaken helt eller delvis sammenfaller
-med det bevismessige grunnlaget for et krav om
-selvstendig inndragning. I slike tilfeller vil det ofte
-være prosessøkonomisk gunstig at sakene
-behandles samlet. Ved spørsmål om forening gjelder reglene i § 13 tilsvarende, jf. annet ledd annet
-punktum. Se for øvrig punkt 9.5.2 og 10.1 i de
-alminnelige merknadene.
-Til § 409
-Bestemmelsen samler enkelte regler knyttet til
-rettens avgjørelse av et krav om selvstendig inndragning. Avgjørelsen treffes ved dom, jf. § 30
-første ledd første punktum.
-Første ledd fastslår at en avgjørelse om inndragning av et bestemt formuesgode er bindende
-for alle som har interesser i formuesgodet. Dette
-innebærer et unntak fra de alminnelige rettskraftreglene i straffeprosessen. Siden selvstendig inndragning rammer eiendomsretten til det som blir
-
-[Side 87]
-
-2026–2027
-
-Prop. 4 L
-Endringer i straffeprosessloven mv. (prosessuelle regler for selvstendig inndragning)
-
-inndratt, vil avgjørelsen i realiteten ha virkning
-overfor eieren. Formuleringen «alle som har interesser i formuesgodet» er valgt for å reflektere at
-eierforholdet kan være uavklart, og at avgjørelsen
-da vil være bindende for eieren uansett hvem
-dette måtte være. Den reflekterer dessuten at
-avgjørelsen av eierspørsmålet må respekteres av
-eventuelle kreditorer, rettighetshavere eller andre
-som har interesser i formuesgodet. Ved avgjørelse
-om verdiinndragning gjelder de alminnelige rettskraftreglene. Se for øvrig punkt 6.2 i de alminnelige merknadene.
-Annet ledd inneholder regler om forkynning.
-Første punktum gjelder saker der en bestemt person er gjort til saksøkt, og fastsetter at dommen i
-så fall skal forkynnes for vedkommende etter
-reglene i domstolloven kapittel 9. Forkynningstidspunktet etablerer utgangspunktet for ankefristen, jf. § 310 annet ledd. For tilfeller der det er
-tredjepersoner som er eller kan antas å være eier,
-og som har utøvd partsrettigheter i saken, skal
-dommen så vidt mulig også gjøres kjent for disse.
-Det er ikke noe krav om at dommen gjøres kjent
-for eventuelle personer som er eller kan antas å
-være eier, men som har forholdt seg passiv under
-sakens gang. At dommen blir gjort kjent for eventuelle tredjepersoner som har utøvd partsrettigheter, etablerer ikke noen selvstendig ankefrist
-for vedkommende. Dersom vedkommende vil
-anke dommen, må dette følgelig skje innenfor
-ankefristen for saksøkte. Annet punktum gjelder
-der krav om selvstendig inndragning er fremmet
-uten saksøkt etter reglene i § 404 tredje ledd, og
-bestemmer at forkynning i så fall skjer ved offent-
-
-85
-
-lig kunngjøring etter reglene i domstolloven
-§ 181. Dommen anses som hovedregel forkynt
-etter fire uker, jf. domstolloven § 181 fjerde ledd.
-Tredje ledd gjelder ankekompetanse og fastsetter i første punktum at denne kompetansen som
-hovedregel ligger hos statsadvokaten. Dersom
-kravet er fremmet av påtalemyndigheten i politiet,
-følger det likevel av annet punktum at politiet kan
-vedta dommen. Fullbyrdelseskompetansen tilligger det nivået i påtalemyndigheten som har fremmet kravet, jf. fjerde ledd. Se også punkt 9.5.4 i de
-alminnelige merknadene.
-
-12.2 Til endringene i straffeloven
-Til § 74
-I nytt femte ledd er det presisert at sak om selvstendig inndragning etter straffeloven § 68 a reises etter reglene i straffeprosessloven kapittel 28.
-Leddet er en ren henvisningsbestemmelse, og er
-inntatt for at § 74 skal gi en mest mulig fullstendig
-oversikt over reglene om partsforholdet i inndragningssaker. Se også punkt 6.1.4 i de alminnelige
-merknadene.
-Justis- og beredskapsdepartementet
-tilrår:
-At Deres Majestet godkjenner og skriver under
-et framlagt forslag til proposisjon til Stortinget om
-endringer i straffeprosessloven mv. (prosessuelle
-regler for selvstendig inndragning).
-
-Vi HAAKON, Norges Konge,
-stadfester:
-Stortinget blir bedt om å gjøre vedtak til lov om endringer i straffeprosessloven mv. (prosessuelle
-regler for selvstendig inndragning) i samsvar med et vedlagt forslag.
-
-[Side 88]
-
-86
-
-Prop. 4 L
-Endringer i straffeprosessloven mv. (prosessuelle regler for selvstendig inndragning)
-
-2026–2027
-
-Forslag
-til lov om endringer i straffeprosessloven mv.
-(prosessuelle regler for selvstendig inndragning)
-I
-I lov 22. mai 1981 nr. 25 om rettergangsmåten i
-straffesaker gjøres følgende endringer:
-§ 216 i første ledd tredje punktum bokstav l og ny
-bokstav m skal lyde:
-l. til testing og utvikling av informasjonssystemer som skal brukes innenfor politiregisterlovens virkeområde,
-m. som ledd i etterforskningen av sak om selvstendig inndragning, eller som bevis for krav om
-selvstendig inndragning, såfremt slik bruk etter
-sakens art og forholdene ellers ikke vil være et
-uforholdsmessig inngrep, og oppklaring av
-saken uten bruk av opplysningene i vesentlig
-grad ville ha blitt vanskeliggjort.
-§ 224 første ledd skal lyde:
-Etterforsking foretas når det som følge av
-anmeldelse eller andre omstendigheter er rimelig
-grunn til å undersøke om det foreligger straffbart
-forhold som forfølges av det offentlige, eller om
-det kan foretas inndragning.
-§ 226 første ledd bokstav a skal lyde:
-a. å avgjøre spørsmålet om tiltale eller om det kan
-foretas inndragning,
-I sjuende del skal nytt kapittel 28 lyde:
-Kap. 28. Selvstendig inndragning
-§ 402
-Sak om selvstendig inndragning etter straffeloven § 68 a behandles etter lovens alminnelige
-regler med de særreglene som følger av dette
-kapittelet.
-§ 403
-Når det foreligger skjellig grunn til mistanke
-om at et formuesgode stammer fra lovbrudd, kan
-tvangsmidler som nevnt i § 192 tredje ledd nr. 3,
-§ 195 tredje ledd, § 203 og § 210 brukes uten at
-det er påvist mistanke om et bestemt lovbrudd,
-
-såfremt vilkårene for tvangsmiddelbruken for
-øvrig er oppfylt.
-Er en ting som antas å kunne inndras, beslaglagt etter første ledd, jf. § 203, skal eieren på
-begjæring gis adgang til å gjøre seg kjent med
-sakens dokumenter i den utstrekning det er nødvendig for at vedkommende skal kunne ivareta
-sine interesser i saken, og såfremt det kan skje
-uten skade eller fare for etterforskningen av saken
-eller andre saker eller for tredjeperson. Det
-samme gjelder når det er besluttet heftelse, jf.
-§ 217. Blir adgang til dokumentene nektet, kan
-spørsmålet kreves avgjort ved kjennelse av retten.
-Ved avhør av eier gjelder reglene om mistenkte i §§ 230, 232 og 232 a tilsvarende så langt
-de passer.
-§ 404
-Krav om selvstendig inndragning fremmes
-mot eier av formuesgodet.
-Hvis eierforholdet fremstår som uavklart, eller
-eier er uten kjent oppholdssted i Norge, kan
-kravet fremmes mot en besitter. Andre enn saksøkte som er eller kan antas å være eier, skal så
-vidt mulig varsles.
-Er det ingen med kjent oppholdssted i Norge
-som kan saksøkes etter reglene i første eller annet
-ledd, kan kravet fremmes uten at noen er gjort til
-saksøkt. Personer som er eller kan antas å være
-eier, skal så vidt mulig varsles. Varsel om saken
-skal også kunngjøres på den måten som er
-bestemt i domstolloven § 181 første ledd.
-Reglene i annet og tredje ledd gjelder ved krav
-om inndragning av et bestemt formuesgode, og så
-langt det fremstår som rimelig av hensyn til eier
-og etter sakens art og forholdene for øvrig å
-fremme kravet etter disse reglene. Et varsel som
-nevnt i annet og tredje ledd skal opplyse om hva
-saken gjelder, at personer som er eller kan antas å
-være eier har adgang til å utøve partsrettigheter,
-og at inndragningskravet uansett kan bli avgjort
-med bindende virkning for vedkommende.
-Kreves det bortfall av en begrenset rettighet
-etter straffeloven § 73, fremmes kravet mot rettighetshaveren. Reglene i annet til fjerde ledd gjelder
-tilsvarende.
-
-[Side 89]
-
-2026–2027
-
-Prop. 4 L
-Endringer i straffeprosessloven mv. (prosessuelle regler for selvstendig inndragning)
-
-§ 405
-Retten oppnevner offentlig advokat for saksøkte på samme vilkår som etter § 100 annet ledd
-første punktum. Reglene i kapittel 9 gjelder tilsvarende.
-§ 406
-Når påtalemyndigheten beslutter å fremme
-krav om selvstendig inndragning, sender den
-begjæring om dette til retten og lar begjæringen
-forkynne for saksøkte. Begjæringen skal inneholde saksøktes navn og bopel, og angi hvilket
-formuesgode som kreves inndratt og det faktiske
-og rettslige grunnlaget for kravet.
-Ved oversendelsen skal påtalemyndigheten
-opplyse om sitt syn på den videre behandlingen
-og gi retten de opplysningene som er nødvendige
-for behandlingen. Oversendelsen skal uttrykkelig
-angi eventuelle opplysninger som nevnt i § 216 i
-første ledd tredje punktum bokstav m første punktum, jf. § 216 m sjette ledd, og begrunne hvorfor
-vilkårene for å føre disse som bevis anses oppfylt.
-I stedet for å sende begjæring om selvstendig
-inndragning til retten, kan påtalemyndigheten
-utferdige forelegg. Første ledd annet punktum,
-§ 256 første ledd nr. 5 og §§ 257 til 261 gjelder tilsvarende. Har forelegg vært utferdiget, kan dette
-tre i stedet for begjæring til retten.
-§ 407
-På begjæring fra påtalemyndigheten kan
-saken avgjøres ved dom etter forenklet behandling, såfremt retten finner det klart at saken vil
-være tilstrekkelig opplyst uten hovedforhandling.
-Dommen avsies på grunnlag av sakens dokumenter og behandlingen i eventuelle rettsmøter under
-saksforberedelsen.
-Om ikke retten treffer avgjørelse etter første
-ledd, avgjøres saken etter muntlig behandling ved
-hovedforhandling. Ved hovedforhandlingen settes
-retten uten meddommere, unntatt i tilfeller som
-nevnt i § 277.
-
-87
-
-§ 408
-Krav om selvstendig inndragning fremmes for
-tingretten i den rettskretsen der saksøkte bor
-eller oppholder seg, eller der saken antas lettest å
-kunne bli opplyst.
-Krav om selvstendig inndragning kan også
-fremmes mot siktede i forbindelse med sak som
-nevnt i § 1 eller § 2. Ved forening av saker gjelder
-reglene i § 13 tilsvarende.
-§ 409
-Avgjørelse om inndragning av et bestemt formuesgode er bindende for alle som har interesser
-i formuesgodet.
-Dommen forkynnes for saksøkte, og gjøres så
-vidt mulig kjent for andre som har utøvd partsrettigheter i saken. Er kravet fremmet uten saksøkt,
-skjer forkynning ved kunngjøring etter reglene i
-domstolloven § 181 første ledd.
-Anke over dom besluttes av statsadvokaten.
-Dersom kravet er fremmet av politiet, kan politiet
-likevel vedta dommen.
-Fullbyrding av dom besluttes av den myndigheten som har fremmet kravet.
-II
-I lov 20. mai 2005 nr. 28 om straff gjøres følgende
-endringer:
-§ 74 nytt femte ledd skal lyde:
-Sak om selvstendig inndragning etter § 68 a
-reises etter reglene i straffeprosessloven kapittel
-28.
-III
-Loven gjelder fra den tiden Kongen bestemmer.
-De ulike bestemmelsene kan settes i kraft til forskjellig tid.
-
-[Side 90]
-
-[Side 91]
-
-Bestilling av publikasjoner
-Departementenes sikkerhets- og serviceorganisasjon
-publikasjoner.dep.no
-Telefon: 22 24 00 00
-Publikasjonene er også tilgjengelige på
-www.regjeringen.no
-
-N
-VA
-
-E MER K
-
-Trykksak
-2041 0446
-
-E
-
-T
-
-S
-
-Trykk: Departementenes sikkerhets- og
-serviceorganisasjon – 10/2026
+# Forholdet til beslektede straffesaker
+
+## Krav om selvstendig inndragning fremsatt i en straffesak
+
+De gjeldende inndragningsreglene i straffeloven kapittel 13 forutsetter i hovedsak at det er påvist en straffbar handling som inndragningskravet kan knyttes til. I praksis fremmes inndragningskrav i dag derfor som oftest i forbindelse med at påtalemyndigheten tar ut tiltale for den straffbare handlingen.
+
+Etter straffeloven § 68 a kan det foretas inndragning av formuesgoder som stammer fra lovbrudd, «uten at det er påvist et bestemt lovbrudd», jf. første ledd første punktum. I praksis vil likevel krav om selvstendig inndragning i mange tilfeller ha utspring i etterforskningen av en straffbar handling. Blant annet er det lagt til grunn at straffeloven § 68 a skal kunne brukes som hjemmel for inndragning dersom etterforskningen av en straffesak ender med henleggelse eller frifinnelse fordi det strafferettslige beviskravet ikke er oppfylt, se Prop. 27 L (2025–2026) punkt 6.3 side 45.
+
+*Arbeidsgruppen* drøfter i rapporten punkt 10.6.3 side 212–213 om krav etter straffeloven § 68 a bør kunne fremmes og behandles i forbindelse med en straffesak. Gruppen påpeker at dette særlig vil være aktuelt dersom påtalemyndigheten tar ut tiltale og prinsipalt krever inndragning etter straffeloven § 67 av utbytte fra handlingen som tiltalen gjelder, men subsidiært vil kreve selvstendig inndragning dersom tiltalte blir frifunnet. Gruppen fremhever at ønsket om en mest mulig «ren» frifinnelse kunne tilsi at retten ikke bør ta stilling til et krav om selvstendig inndragning i den samme prosessen. Den peker samtidig på at denne situasjonen har likhetstrekk med tilfeller der domstolen idømmer erstatning i en straffedom på bakgrunn av en handling som tiltalte blir frifunnet for. Gruppen argumenterer også med at prosessøkonomiske hensyn taler for at retten skal kunne ta stilling til kravet om selvstendig inndragning i den samme prosessen.
+
+*Hordaland, Sogn og Fjordane statsadvokatembeter* slutter seg til at krav om selvstendig inndragning bør kunne fremmes og behandles i forbindelse med en straffesak. For øvrig er det ingen *høringsinstanser* som har uttalt seg spesifikt om dette spørsmålet.
+
+Departementet viser til at det i Prop. 27 L (2025–2026) punkt 6.3 side 45 er lagt til grunn at straffeloven § 68 a blant annet skal kunne påberopes som et subsidiært grunnlag for inndragning, dersom retten ikke idømmer inndragning på bakgrunn av en konkret straffbar handling. Dette vil særlig kunne være aktuelt dersom påtalemyndigheten tar ut tiltale og fremmer krav om utbytteinndragning etter straffeloven § 67, men straffesaken ender med frifinnelse fordi retten ikke finner den straffbare handlingen bevist ut over enhver rimelig tvil. Siktede kan også frifinnes for inndragningskrav i straffesaken av andre grunner, for eksempel fordi kravet viser seg å være foreldet, jf. straffeloven § 92. Dersom det likevel er bevist gjennom straffesaken at et formuesgode som siktede eier eller besitter, mest sannsynlig stammer fra lovbrudd, mener departementet at retten bør kunne ta stilling til et subsidiært krav om selvstendig inndragning på bakgrunn av bevisførselen i straffesaken.
+
+Alternativet til en slik adgang vil være at påtalemyndigheten, etter at straffesaken er avsluttet, må reise særskilt sak om selvstendig inndragning. Hvis bevisene som kravet om selvstendig inndragning bygger på, er mer eller mindre de samme som bevisene som har vært fremlagt i straffesaken, vil en slik løsning medføre en unødvendig dobbeltbehandling. Det vil også kunne innebære en større belastning for siktede og vitner dersom de må møte i retten i flere omganger. Etter departementets syn taler prosessøkonomiske hensyn med styrke for en adgang til å ta stilling til kravet om selvstendig inndragning i forbindelse med straffesaken.
+
+Uskyldspresumsjonen som er nedfelt i blant annet Grunnloven § 96 annet ledd og EMK artikkel 6 nr. 2, forutsetter at inndragningskravet i slike tilfeller begrunnes på en måte som ikke sår tvil om frifinnelsen. Dette innebærer at dommen ikke kan inneholde uttalelser som tilskriver den frifunne straffskyld, se også Prop. 27 L (2025–2026) punkt 5.3 side 37–38 hvor uskyldspresumsjonen er nærmere omtalt. I storkammerdom 11. juni 2024 *Nealon og Hallam mot Storbritannia* (sak nr. 32483/19 og 35049/19) avsnitt 168 utdyper EMD dette slik:
+
+«To impute criminal liability to a person is to reflect an opinion that he or she is guilty to the criminal standard of the commission of a criminal offence \[…\], thereby suggesting that the criminal proceedings should have been determined differently.»
+
+Etter departementets forståelse må det legges til grunn at en dom på selvstendig inndragning vil kunne utformes på en måte som ikke sår tvil om frifinnelsen i straffesaken. Departementet understreker at begrunnelsen for inndragningen ikke vil være at siktede, basert på et lavere beviskrav enn det strafferettslige, anses å ha begått den straffbare handlingen i tiltalen og at denne har generert et visst utbytte. Begrunnelsen vil være at det er bevist gjennom straffesaken at siktede eier eller besitter visse formuesgoder som mest sannsynlig stammer fra lovbrudd, og at vilkårene i straffeloven § 68 a for øvrig er oppfylt. Departementet viser også til at beviskravet i straffeloven § 68 a er alminnelig sannsynlighetsovervekt, og at retten derfor ikke vil måtte vurdere bevisene i saken ut fra en «criminal standard».
+
+Departementet foreslår etter dette at krav om selvstendig inndragning etter straffeloven § 68 a skal kunne fremmes og behandles i forbindelse med straffesak. Av klarhetshensyn foreslås det en uttrykkelig regel om dette i straffeprosessloven kapittel 28, se § 408 annet ledd første punktum i lovforslaget.
+
+## Krav om selvstendig inndragning i etterkant av en straffesak
+
+Det følger av straffeprosessloven § 51 første ledd første punktum at dersom påtalemyndigheten reiser «ny sak om et krav som er avgjort ved rettskraftig dom», skal retten avvise saken av eget tiltak. Etter § 51 annet ledd første punktum kan det likevel fremmes ny sak med krav om inndragning senere, hvis inndragningskravet ikke ble behandlet under straffesaken. Er det pådømt krav om inndragning, kan det fremmes krav om ytterligere inndragning senere hvis det pådømte kravet var begrenset til gjenstander som kan føres direkte tilbake til den straffbare handlingen, jf. annet punktum. Straffedommens avgjørelse av skyldspørsmålet skal legges uprøvd til grunn i den senere saken i den utstrekning den er avgjørende for spørsmålet om inndragning, jf. fjerde punktum.
+
+Bestemmelsen i § 51 annet ledd innebærer at påtalemyndigheten står fritt til å bestemme om krav om inndragning som bygger på en straffbar handling, skal tas med i straffesaken, eller om det skal innledes en separat inndragningssak senere. Det er imidlertid et vilkår for å anlegge etterfølgende inndragningssak at siktede varsles om dette senest når hovedforhandlingen i straffesaken starter, før tilståelsesdom avsies eller før forelegg vedtas, jf. tredje punktum.
+
+*Arbeidsgruppen* legger til grunn at en rettskraftig avgjørelse i en beslektet straffesak ikke bør stå i veien for at det senere fremmes krav om selvstendig inndragning etter straffeloven § 68 a, se rapporten punkt 10.9.1.2. Den viser til at reglene om selvstendig inndragning skal legge til rette for inndragning av verdier som stammer fra kriminalitet, uansett hvilket lovbrudd de stammer fra og uansett hvem som eier dem. Gruppen mener dette tilsier at selvstendig inndragning bør kunne foretas uten hensyn til en eventuell tidligere straffesak med tilknytning til formuesgodet. Den mener også at det ikke bør stilles noe krav om varsel til siktede i straffesaken, slik som etter straffeprosessloven § 51 annet ledd tredje punktum.
+
+Arbeidsgruppen antar at straffeprosessloven § 51 i sin nåværende form kan reise spørsmål om vilkårene i annet ledd må være oppfylt for at påtalemyndigheten skal kunne fremme krav om selvstendig inndragning i etterkant av en beslektet straffesak. Gruppen foreslår derfor et nytt tredje ledd hvor det fremgår at reglene i annet ledd ikke medfører noen begrensninger i adgangen til å fremme krav om selvstendig inndragning.
+
+Ingen *høringsinstanser* har uttalt seg om forslaget.
+
+Departementet understreker at den negative rettskraftvirkningen etter straffeprosessloven § 51 første ledd første punktum er begrenset til det «krav som er avgjort». Etter departementets syn er det klart at et krav om selvstendig inndragning må anses som et annet forhold i prosessuell forstand enn et krav om straff eller krav om inndragning på bakgrunn av en straffbar handling.
+
+Det følger uttrykkelig av straffeloven § 68 a første ledd første punktum at selvstendig inndragning kan foretas «uten at det er påvist et bestemt lovbrudd». Vilkårene i bestemmelsen bygger ikke på at saksøkte har begått en straffbar handling, men at formuesgodet som saken gjelder, mest sannsynlig stammer fra lovbrudd. Formålet med inndragningen er dessuten ikke pønalt, men å forhindre at noen tjener på kriminalitet og legge til rette for at kriminelle verdier føres tilbake til samfunnet. Disse kjennetegnene innebærer at inndragningen har likhetstrekk med sivilrettslig vindikasjon, se også Prop. 27 L (2025–2026) punkt 6.3 side 43 flg.
+
+Som følge av dette kan departementet vanskelig se at straffeprosessloven § 51 i sin nåværende form vil være til hinder for at påtalemyndigheten fremmer krav om selvstendig inndragning i etterkant av en straffesak. Dette gjelder uavhengig av om saksøkte i inndragningssaken er den samme som siktede i straffesaken, eller om vedkommende er en annen. Siden selvstendig inndragning ikke er å anse som straff, kan departementet heller ikke se at forbudet mot gjentatt straffeforfølgning i EMK P7-4 har betydning for adgangen til å reise en slik sak, selv om den helt eller delvis skulle bygge på de samme faktiske omstendighetene som straffesaken, se også proposisjonen punkt 4.3. På bakgrunn av dette legger departementet til grunn at det ikke er behov for endringer i straffeprosessloven § 51.
+
+Departementet bemerker at selv om en beslektet straffesak ikke utgjør noe prosessuelt hinder for at påtalemyndigheten fremmer et etterfølgende krav om selvstendig inndragning, kan avgjørelsen i straffesaken etter omstendighetene ha betydning for om vilkårene i straffeloven § 68 a er oppfylt. Inndragningsadgangen etter § 68 a omfatter *formuesgode som stammer fra lovbrudd*, det vil si et formuesgode som på inndragningstidspunktet representerer verdier fra kriminalitet og ikke fra lovlige kilder. Dersom saksøkte er ilagt inndragning i en tidligere straffesak, kan dette etter omstendighetene måtte tas i betraktning i vurderingen av inndragningens omfang. Dette kan være nødvendig for å sikre at reglene om selvstendig inndragning praktiseres på en måte som er i tråd med det gjenopprettende formålet og for å hindre dobbeltinndragning. Se også Prop. 27 L (2025–2026) punkt 8.2.3 side 54–56, hvor rekkevidden av inndragningsadgangen etter straffeloven § 68 a er nærmere behandlet.
+
+Departementet legger for øvrig til grunn at straffeprosessloven § 51 første ledd i sin nåværende form utgjør en hensiktsmessig regulering av de negative rettskraftvirkningene av en endelig avgjørelse i en sak om selvstendig inndragning. Etter bestemmelsen skal retten avvise en ny sak om et «krav» som allerede er avgjort. Dersom retten har tatt stilling til et krav om selvstendig inndragning av et formuesgode, vil bestemmelsen sperre for at det senere reises en ny sak om selvstendig inndragning av det aktuelle formuesgodet mot samme saksøkte. Hva som utgjør samme krav i denne sammenhengen, må vurderes konkret.
+
+## Straffeforfølgning i etterkant av en etterforskning med sikte på selvstendig inndragning
+
+Etter straffeprosessloven § 224 første ledd kan påtalemyndigheten igangsette etterforskning «når det som følge av anmeldelse eller andre omstendigheter er rimelig grunn til å undersøke om det foreligger straffbart forhold som forfølges av det offentlige». Etter forslaget i proposisjonen her vil det samme gjelde når det som følge av anmeldelse eller andre omstendigheter er rimelig grunn til å undersøke om det kan foretas inndragning, se også proposisjonen punkt 5.1.4. I praksis vil omstendighetene som kan gi grunnlag for å etterforske om et formuesgode mest sannsynlig stammer fra lovbrudd, og derfor kan inndras etter straffeloven § 68 a, ofte også kunne gi grunnlag for å etterforske en straffbar handling. Dette gjelder ikke minst en handling som kan rammes av straffeloven § 332 om heleri eller § 337 om hvitvasking.
+
+*Arbeidsgruppen* foreslår et nytt femte ledd i straffeprosessloven § 224 som begrenser adgangen til å foreta straffeforfølgning for heleri eller hvitvasking dersom det først er igangsatt etterforskning med sikte på selvstendig inndragning. Den foreslåtte bestemmelsen lyder slik:
+
+«Dersom det er igangsatt etterforskning med sikte på selvstendig inndragning, kan det bare foretas straffeforfølgning for overtredelse av straffeloven §§ 332 eller 337 på grunnlag av det samme faktiske forholdet dersom hensynet til straffens formål med tyngde taler for det.»
+
+Bakgrunnen for forslaget er at arbeidsgruppen mener det kan være betenkelig at påtalemyndigheten kan igangsette etterforskning med sikte på selvstendig inndragning, for så å ta ut tiltale for en straffbar handling på bakgrunn av opplysninger som har fremkommet under etterforskningen, se rapporten punkt 10.2.3 side 175 flg. Dette henger sammen med at saksøkte etter forslaget vil ha færre prosessuelle rettigheter i inndragningssaken enn den mistenkte/siktede har i en straffesak, se også proposisjonen punkt 7.1.2. Gruppen fremhever særlig at det som hovedregel vil gjelde en forklaringsplikt under etterforskningen av inndragningssaken, og at det vil være betenkelig hvis en slik pliktmessig avgitt forklaringen kan brukes som grunnlag for senere straffeforfølgning. Betenkelighetene er etter gruppens syn særlig sterke dersom den etterfølgende straffesaken gjelder heleri eller hvitvasking av de samme verdiene som inndragningssaken.
+
+Blant *høringsinstansene* er *Økokrim* den eneste som støtter forslaget om å begrense adgangen til å foreta straffeforfølgning etter at det er åpnet etterforskning med sikte på selvstendig inndragning. *Hordaland, Sogn og Fjordane statsadvokatembeter*, *Kripos*, *riksadvokaten* og *Øst politidistrikt* går imot forslaget.
+
+*Kripos* viser til at det i initialfasen av en etterforskning kan være uklart om saken vil ende med straffeforfølgning eller med krav om selvstendig inndragning. Dette vil avhenge av hvilke opplysninger etterforskningen avdekker. At påtalemyndigheten skulle være avskåret fra å reise straffesak når det er foretatt etterforskning med sikte på selvstendig inndragning, mener høringsinstansen ville være lite hensiktsmessig og uforenlig med grunnleggende regler om bruk av lovlig innhentet informasjon. Dersom det skulle vise seg at opplysninger er innhentet på en måte som strider mot reglene som gjelder ved etterforskning av straffesaker, mener Kripos at dette bør behandles som et spørsmål om bevisavskjæring.
+
+*Hordaland, Sogn og Fjordane statsadvokatembeter* peker på at situasjonen som den foreslåtte regelen er ment å gjelde, har likhetstrekk med situasjonen der noen endrer status fra vitne til mistenkt under etterforskningen av en straffesak. Høringsinstansen fremhever at dette ikke i seg selv medfører noen begrensninger i adgangen til å bruke tidligere innhentede bevis som grunnlag for å straffeforfølge vedkommende.
+
+*Øst politidistrikt* uttrykker bekymring for at begrensninger i adgangen til å foreta straffeforfølgning kan gi inntrykk av at kriminelle kan kjøpe seg ut av straffansvar. Politidistriktet antar også at forslaget i praksis vil kunne føre til at politiet alltid helgarderer og følger reglene for etterforskning med sikte på straffeforfølgning, og påpeker at man da kan miste noe av fordelen med enklere regler.
+
+*Riksadvokaten* ser de prinsipielle hensynene som arbeidsgruppen trekker frem, men er skeptisk til å gjøre et så vidtgående innhogg i påtalemyndighetens straffeforfølgningsplikt som forslaget innebærer. Ifølge riksadvokaten er det vanskelig å overskue hvilke utslag den foreslåtte bestemmelsen vil ha. Høringsinstansen mener også at vilkåret i den foreslåtte unntaksregelen er for skjønnsmessig og fremstår som et lite egnet avgrensningskriterium. Riksadvokaten slutter seg for øvrig til synspunktene fremmet av Kripos og Hordaland, Sogn og Fjordane statsadvokatembeter.
+
+Også *Økokrim* påpeker at det ikke er åpenbart hva som ligger i det foreslåtte vilkåret om «straffens formål», og oppfordrer til at sentrale kriterier omtales i forarbeidene.
+
+Departementet følger ikke opp arbeidsgruppens forslag.
+
+Departementet er enig med riksadvokaten i at den foreslåtte bestemmelsen ville medføre et uhensiktsmessig innhogg i påtalemyndighetens rett og plikt til å påtale straffbare handlinger. Bestemmelsen vil kunne føre til at påtalemyndigheten i liten grad tar i bruk reglene om etterforskning med sikte på selvstendig inndragning, fordi dette kan avskjære muligheten for en senere straffesak. Dette bekreftes av høringsinnspillene fra *Kripos* og *Øst politidistrikt*.
+
+Så vidt departementet kan se, er det viktigste argumentet for å begrense adgangen til straffeforfølgning at rettssikkerhetsgarantiene i den forutgående inndragningssaken, særlig for så vidt gjelder forklaringsplikt, ikke er de samme som i straffesaken. Som det fremgår av punkt 7.1.4, bygger imidlertid departementets forslag i større grad på at de prosessuelle rettighetene ved selvstendig inndragning skal være tilsvarende som i en straffesak. Det følger av departementets forslag at eieren av formuesgodet ikke skal ha forklaringsplikt, verken under etterforskningen eller under den rettslige behandlingen, se også punkt 7.2.4. I lys av dette legger departementet til grunn at de generelle reglene om påtalemyndighetens rett og plikt til å forfølge straffbare handlinger ikke reiser særlige betenkeligheter, og at det ikke er grunnlag for å begrense disse reglene.
+
+# Økonomiske og administrative konsekvenser
+
+Når de nye reglene om selvstendig inndragning trer i kraft, vil myndighetenes adgang til å inndra verdier fra kriminalitet bli betydelig utvidet. Målet er at dette skal gi en økning i både antall inndragningssaker og inndratte beløp. Hvorvidt den ønskede effekten inntreffer, vil imidlertid bero på politiets og påtalemyndighetens evne til å ta i bruk de nye reglene.
+
+I tildelingsbrev til politiet og den høyere påtalemyndighet de senere årene er innsatsen mot økonomisk og organisert kriminalitet løftet frem som hovedprioriteringer. Departementet har også fremhevet inndragning av utbytte som et av hovedmålene med satsingen mot kriminelle nettverk. Fra 2024 har inndragning av utbytte vært en egen styringsparameter i tildelingsbrevene.
+
+De senere årene er det tatt flere grep for å sette politiet og den høyere påtalemyndighet i bedre stand til å gjennomføre pengesporsetterforskning, sikre verdier og føre inndragningssaker for retten. Politiet har blitt tildelt store budsjettøkninger, blant annet for å øke etatens evne til å bekjempe kriminalitet. Departementet viser til at politiets innsats mot organisert kriminalitet og kriminelle nettverk ble styrket med 300 millioner kroner i 2024, og varig styrket med 600 millioner kroner i året fra 2025. Satsingene er supplert av varige øremerkede midler til økonomisk kriminalitet i form av 50 millioner kroner i 2024, 90 millioner kroner i 2025, samt 35 millioner kroner i 2026. Midlene er blant annet brukt på å øke kapasiteten på etterforskning og iretteføring av saker om økonomisk og organisert kriminalitet, både lokalt i politidistriktene og i Økokrim sentralt. Som en del av satsingen er det rekruttert dedikerte inndragningsspesialister og spesialetterforskere med økonomibakgrunn, og det er utviklet nye kurstilbud ved Politihøgskolen for blant annet å øke kompetansen på pengesporsetterforskning og inndragning. En del av bevilgningen er gitt for å modernisere analyseplattformen til Norges enhet for finansiell etterretning ved Økokrim (FIU), noe som skal bidra til mer og bedre finansiell etterretning. Slik etterretning vil kunne gi grunnlag for både straffesaker og saker om selvstendig inndragning.
+
+Riksadvokaten har det overordnede ansvaret for all straffesaksbehandling. Riksadvokaten har fulgt opp påtalemyndighetens resultater på inndragningsfeltet gjennom en inndragningsundersøkelse, se *Inndragning – Kvalitetsundersøkelse 2023* (Riksadvokatens skriftserie 1/2024). I rapporten foreslår riksadvokaten tiltak for å legge til rette for økt inndragning, se punkt 7.2 side 32. I 2024 ble den høyere påtalemyndighet styrket med 43 millioner kroner for å forsterke fagledelsen av politiets straffesaksbehandling. Bevilgningsøkningen er varig, og er knyttet til normering, tilsyn, resultatoppfølging og kompetanseheving. Etter departementets vurdering er den høyere påtalemyndighet gjennom dette satt godt i stand til å sørge for at de nye reglene om selvstendig inndragning får god effekt, blant annet gjennom normering og kompetanseheving i påtalemyndigheten.
+
+Ikrafttredelsen av reglene om selvstendig inndragning forventes å resultere i flere inndragningssaker enn i dag. Etatene vil på vanlig måte måtte prioritere mellom saker i tråd med sentrale og lokale føringer. Det må imidlertid antas at de nye reglene vil kunne bidra til effektivisering, ved at noen saker som etter dagens regler henlegges på bevisets stilling, vil kunne føres som saker om selvstendig inndragning uten at det samtidig foretas straffeforfølgning av enkeltpersoner. På sikt er målet at bedre resultater innen inndragning vil ha en preventiv effekt, og dermed føre til færre saker for politi og påtalemyndighet. Dette vil i så fall være en vesentlig positiv samfunnseffekt. I tillegg til de samfunnsøkonomiske effektene av lavere kriminalitet og mindre utbytte som de kriminelle kan reinvestere i ny kriminalitet, forventes forslaget å øke statens inntekter fra inndragning, ettersom inndratte verdier som hovedregel tilfaller statskassen, jf. straffeloven § 75 første ledd.
+
+De nye reglene om selvstendig inndragning anses i utgangspunktet ikke å ha øvrige vesentlige økonomiske eller administrative konsekvenser. Det kan bli behov for noe utvikling og tilpasninger i politiets IT-systemer, men det er usikkert hva slike kostnader vil utgjøre. Videre kan økt inndragning, særlig av verdier som ikke består i bankinnskudd, øke arbeidsmengden med politiets oppbevaring, vedlikehold, forvaltning og realisering av verdier som er gjenstand for beslag, heftelse og inndragning. Departementet viser i den forbindelse til at arbeidsgruppen har konkludert med at «det bør opprettes en egen inndragningsenhet med særskilt mandat, ressurser og kompetanse» på inndragning, og omtaler dette som den mest vesentlige økonomisk-administrative konsekvensen av forslaget, se rapporten punkt 12.2 side 235–236 og punkt 13 side 254. Forslaget behandles ikke som del av denne proposisjonen, men Justis- og beredskapsdepartementet vil vurdere dette forslaget og eventuelle andre organisatoriske tiltak på egnet måte. Etter departementets skjønn er det i alle tilfeller viktig at eventuelle organisatoriske endringer og styrkinger vurderes i lys av de store budsjettildelingene og de mange tiltakene som er igangsatt og fullført de siste to årene, og som er omtalt over.
+
+For andre myndigheter enn politiet og påtalemyndigheten legges det til grunn at de økonomiske og administrative konsekvensene av de nye reglene vil være beskjedne. For domstolene må det forventes at de nye reglene vil føre til flere inndragningssaker enn i dag. Det vil også være behov for visse tilpasninger i domstolenes IT-systemer. Disse konsekvensene antas imidlertid å være begrensede. Flere inndragningssaker vil presumptivt også kunne ha en positiv effekt på det tverretatlige samarbeidet mot profittmotivert kriminalitet, men neppe slik at det vil gi vesentlige merkostnader for andre etater.
+
+For privat sektor, herunder banksektoren, vil de nye reglene kunne ha enkelte økonomiske og administrative konsekvenser i form av at flere inndragningssaker kan lede til flere etterforskninger og utleveringspålegg mv. Det antas likevel at eventuelle økte kostnader for privat sektor vil være beskjedne. For rapporteringspliktige under hvitvaskingsregelverket, og da særlig banksektoren, antas det at de nye hjemlene også vil kunne lede til flere informasjonsforespørsler fra Økokrims FIU, ettersom reglene om selvstendig inndragning anses anvendelige i saker som har sitt opphav i rapporter om mistenkelige forhold fra næringen, særlig i kombinasjon med den nye analyseplattformen hos FIU-en. Hva de nøyaktige kostnadene for næringen vil utgjøre, er usikkert.
+
+Departementet legger til grunn at de økonomiske og administrative konsekvensene av forslagene i proposisjonen samlet sett vil kunne dekkes innenfor gjeldende budsjettrammer.

@@ -1,1151 +1,211 @@
-# Prop. 68 L (2015–2016), del 8 av 29 (side 76–85)
+# Prop. 68 L (2015–2016), del 8 av 27
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2016/fb2c12df-prop-68-l-20152016.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-68-l-20152016/id2479232/
 - Original-PDF: https://www.regjeringen.no/contentassets/d2bd4dc7fdb44d90b0d094f4d415b981/no/pdfs/prp201520160068000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 76]
-
-76
-
-Prop. 68 L
-
-2015–2016
-
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-Videre problematiserer Oslo politidistrikt at
-kompetansen til å begjære utsatt underretning er
-lagt til politimesteren:
-«I en aktiv fase i en stor etterforskning vil det
-med gjeldende regler, daglig gå et forholdsvis
-omfattende dokumentsett til retten via politi­
-mesteren, med begjæring om utsatt underret­
-ning. Skal politimesteren vurdere realiteten i
-begjæringene, må vedkommende også kunne
-faktum i sakene, hvilket etter omstendighetene
-kan være krevende. I slike tilfeller vil politimes­
-teren bli bundet opp til å arbeide med enkelt­
-saker. Politiadvokatene har bred kompetanse,
-og kan blant annet beslutte pågripelser og
-begjære varetektsfengsling, som er atskillig
-mer integritetskrenkende enn utsatt underret­
-ning. Utsatt (og ikke unnlatt) underretning av
-beslag er inngrep av vesentlig mindre inngri­
-pende karakter enn kommunikasjons- og
-romavlytting mv. som politimesteren for øvrig
-skal begjære.»
-Politidistriktet uttaler følgende om konsekven­
-sene av dagens regler:
-«At etterforskningen blir prosessuelt kre­
-vende, selv om en bare utfører etterforsknings­
-skritt av mindre inngripende karakter, vil føre
-til at politiet blir ledet over mot saker som ikke
-krever et slikt ressursuttak. Dette vil være
-uheldig for bekjempelsen av bl.a. organisert
-kriminalitet og finansiell etterforskning, som
-særlig har som formål å inndra straffbart
-utbytte.
-Erfaringsmessig begjæres utsatt underret­
-ning ved beslag forholdsvis sjelden. Politiet
-skulle antagelig ha bedt om utsatt underret­
-ning i mye større grad en hva som er tilfelle
-[…]. På Lovdata er det pr i dag to saker om
-dette. Sakene illustrerer at disse reglene ikke
-utnyttes slik lovgiver har ment.»
-D e p a r t e m e n t e t er enig med utvalget i at
-myndigheten til å beslutte utsatt underretning bør
-ligge hos retten – også i saker om rikets sikker­
-het. Departementet finner at en domstolsbehand­
-ling er best egnet til å avveie behovet for hemme­
-lighold mot hensynet til mistenktes personvern. I
-den forbindelse vil departementet, i likhet med
-Kripos, fremheve viktigheten av at retten – så
-langt som mulig – gis kjennskap til den totale
-metodebruken i en sak. Dette er spesielt viktig
-dersom begjæringene i en sak behandles av ulike
-dommere. Departementet mener at straffepro­
-
-sessloven § 242 gir såpass rom for å hindre innsyn
-at det som regel ikke bør være grunn til i en
-begjæring å unnlate å opplyse om andre tvangs­
-midler i saken. Det tilføyes for øvrig at oppnev­
-nelse av samme offentlige advokat i hele saks­
-komplekset vil kunne bidra til å gjøre retten bedre
-i stand til å vurdere den samlede metodebruken,
-jf. punkt 6.6.2.
-Særlig på bakgrunn av høringsuttalelsen fra
-Oslo politidistrikt finner departementet grunn til å
-foreslå enkelte unntak fra utgangspunktet om at
-utsatt underretning må besluttes av retten. Depar­
-tementet ser i den forbindelse at det kan være
-behov for at prosessen knyttet til utsatt underret­
-ning i saker om beslag og utleveringspålegg for­
-enkles noe. Foretas det flere beslag i en sak, med­
-fører den begrensede varigheten av beslutninger
-fattet i medhold av påtalemyndighetens hastekom­
-petanse at det ikke er kurant for politiet å bringe
-spørsmålet om utsatt underretning inn for retten
-samtidig for flere beslag. Det kan derfor være
-nødvendig i en og samme sak å fremsette en
-rekke begjæringer om utsatt underretning, med
-den ressursbruk dette medfører. Videre bør det
-tas i betraktning at hemmelig beslag og hemmelig
-utleveringspålegg normalt er langt mindre inngri­
-pende enn skjult ransaking, personnær teknisk
-sporing, kommunikasjonskontroll og romavlyt­
-ting. Etter departementets syn bør det derfor for
-beslag og utleveringspålegg gjøres et unntak fra
-utgangspunktet om at utsettelsesspørsmålet må
-prøves av retten. Departementet finner likevel at
-en ordning med at underretning ved beslag og
-utleveringspålegg utsettes uten påtalemyndighe­
-tens medvirkning – slik Oslo politidistrikt primært
-synes å ønske – går for langt.
-Derimot er departementet av den oppfatning at
-det er forsvarlig og hensiktsmessig at påtalemyn­
-digheten ved beslag, utleveringspålegg og utleve­
-ringspålegg fremover i tid gis myndighet til å
-beslutte utsatt underretning for en viss tid. Depar­
-tementet finner det passende at påtalemyndighe­
-ten her kan utsette underretning i inntil åtte uker,
-se lovforslaget til straffeprosessloven §§ 208 a før­
-ste ledd og 210 c første ledd. Ønskes ytterligere
-utsettelser, må beslutning om dette fattes av ret­
-ten. Om ønskelig kan politiet begjære fortsatt
-utsatt underretning for flere beslag under ett, selv
-om fristen for å underrette for de enkelte besla­
-gene i utgangspunktet løper ut til ulik tid. En slik
-ordning synes et godt stykke på vei å imøtekomme
-Kripos’ innvendinger til dagens ordning, siden det
-blir enklere å unngå parallelle frister i en sak.
-Gis påtalemyndigheten en begrenset myndig­
-het til å beslutte utsatt underretning ved beslag og
-
-[Side 77]
-
-2015–2016
-
-77
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-utleveringspålegg, vil overordnet påtalemyndig­
-het – i praksis statsadvokaten – alltid ha kompe­
-tanse. Når politiet ber om rettens samtykke,
-avgjør som regel politimesteren spørsmålet, jf.
-henvisningen til § 216 d i § 208 a femte ledd første
-punktum, jf. § 210 a annet ledd. Ut fra det som har
-vært på høring har departementet ikke grunnlag
-for å foreslå endringer i regelen om at politimeste­
-ren i utgangspunktet avgjør om det skal bes om
-rettens samtykke til å utsette underretning. Som
-nevnt ovenfor er Oslo politidistrikt kritisk til
-denne ordningen. Ved en større gjennomgåelse av
-straffeprosessloven er det imidlertid naturlig å
-vurdere behovet for endringer på dette punktet.
-I likhet med utvalget ser ikke departementet
-grunn til å foreslå endringer i påtalemyndighetens
-begrensede adgang til å utsette underretning
-etter reglene om hastekompetanse.
-6.10.5.4
-
-Tidsrommet for utsatt underretning
-
-Etter gjeldende rett kan underretning utsettes i
-inntil åtte uker om gangen. I saker om rikets sik­
-kerhet er det ikke gitt regler om utsettelsens
-lengde. For skjult ransaking i slike saker er imid­
-lertid tidsrommet begrenset til seks måneder om
-gangen, se punkt 6.10.1.
-Utvalget går inn for å videreføre reglene om at
-underretning kan utsettes i inntil åtte uker om
-gangen, se utredningen punkt 15.9 side 175. Utval­
-get erkjenner imidlertid at saker om rikets sikker­
-het står i en særstilling, samtidig som det mener
-at utsatt underretning også her må besluttes for
-en viss tid om gangen. Det foreslår derfor at utsatt
-underretning i slike saker gjennomgående kan
-besluttes for inntil seks måneder om gangen, i
-samsvar med det som i dag gjelder for skjult
-ransaking i slike saker. Det foreslås å endre
-reglene i politiloven om skjulte metoder i forebyg­
-gende øyemed tilsvarende, likevel slik at retten
-her kan beslutte utsatt underretning i inntil ett år
-om gangen dersom særlige omstendigheter tilsier
-at fornyet prøving etter seks måneder vil være
-uten betydning. Utvalget begrunner dette slik
-(utredningen punkt 15.9 side 175):
-«Utvalget ser imidlertid at en ny prøving hver
-sjette måned når det gjelder tvangsmidler som
-har vært anvendt som ledd i PSTs forebyg­
-gende virksomhet kan være uhensiktsmessig.
-Det vises her blant annet til saken Klass mot
-Tyskland hvor det ble uttalt at «[t]he activity or
-danger against which a particular series of sur­
-veillance measures is directed may continue
-for years, even decades, after the suspension of
-
-those measures». Utvalget foreslår derfor at
-hovedregelen bør være at underretning kan
-utsettes i inntil seks måneder om gangen også
-i denne typen saker, men at retten kan beslutte
-utsatt underretning i inntil ett år om gangen
-dersom særlige omstendigheter tilsier at for­
-nyet prøving etter seks måneder vil være uten
-betydning.»
-Av høringsinstansene er det kun Kripos og Oslo
-politidistrikt som direkte uttaler seg om tidsrom­
-met for utsatt underretning. Som påpekt i punkt
-6.10.5.3 er disse høringsinstansene negative til
-dagens ordning, fordi den anses å være for ressur­
-skrevende.
-D e p a r t e m e n t e t har vurdert om en bør
-opprettholde dagens ordning hvor spørsmålet
-om utsatt underretning må prøves med jevne
-mellomrom, eller om en ordning hvor utsettelse
-gis helt frem til tiltale eller henleggelse, kombi­
-nert med en adgang til å oppnå underretning på
-begjæring, kan være mer hensiktsmessig. Som
-redegjort for i punkt 6.10.2.4, er underretning til
-mistenkte viktig for å avdempe de skjulte meto­
-denes karakter av inngrep i personvernet. Det
-kan derfor reises spørsmål om det er forsvarlig å
-utsette underretning helt frem til tiltale eller hen­
-leggelse, selv om mistenkte etter omstendighe­
-tene kan gis underretning på begjæring. Spørs­
-målet om prøvingshyppigheten av underret­
-ningsspørsmålet når det gjelder skjult ransaking,
-personnær teknisk sporing, beslag og utleve­
-ringspålegg har heller ikke vært gjenstand for
-høring. Dersom det innføres regler om underret­
-ningsplikt og utsatt underretning også ved kom­
-munikasjonskontroll og romavlytting, bør ikke
-reglene her være annerledes enn det som gjelder
-for de andre skjulte metodene. Departementet vil
-på denne bakgrunn gå inn for å videreføre
-dagens ordning med enkelte tilpasninger, og
-foreslår at dette også skal gjelde for kommunika­
-sjonskontroll og romavlytting. Siden ordningen
-utvides til også å gjelde slike metoder, vil depar­
-tementet se an erfaringene med ordningen og
-spesielt vurdere om prøvingshyppigheten av
-underretningsspørsmålet innebærer en ufor­
-holdsmessig byrdefull prosess.
-Når det så gjelder utvalgets konkrete forslag,
-er departementet enig i at det i saker som ikke
-gjelder rikets sikkerhet, er rimelig å videreføre
-dagens ordning med at underretning kan utset­
-tes med inntil åtte uker om gangen, og at dette
-også bør gjelde for kommunikasjonskontroll og
-romavlytting. Det kan imidlertid forekomme at
-det på tidspunktet for begjæringen om utsatt
-
-[Side 78]
-
-78
-
-2015–2016
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-underretning er på det rene at etterforskningen
-ennå vil pågå i lang tid, og at ny prøving av
-underretningsspørsmålet etter åtte uker ikke vil
-bringe noe nytt. Dette kan for eksempel være til­
-fellet ved etterforskning av alvorlige forbrytelser
-med flere involverte og hvor politiet er avhengig
-av bistand fra andre lands myndigheter. Departe­
-mentet foreslår derfor at retten i de ulike
-bestemmelsene om utsatt underretning gis myn­
-dighet til å utsette underretning i inntil fire
-måneder, dersom etterforskningens art eller
-andre særlige omstendigheter tilsier at fornyet
-prøving etter åtte uker vil være uten betydning,
-se lovforslaget til straffeprosessloven §§ 200 a
-tredje ledd, 202 c sjette ledd, 208 a første ledd,
-210 a første ledd, 210 c første ledd og 216 j første
-ledd. En slik løsning er valgt ved fornyet prøving
-av fengslingsspørsmålet, jf. straffeprosessloven
-§ 185 første ledd fjerde punktum. Departementet
-finner denne løsningen også forsvarlig for under­
-retningsspørsmålet, siden adgangen til å beslutte
-lengre utsettelse er forholdsvis snever, behovet
-må prøves av retten og den offentlig oppnevnte
-advokaten vil kunne fremsette innsigelser mot
-en lengre frist. En slik regel vil – i alle fall et
-stykke på vei – imøtekomme Kripos’ og Oslo
-politidistrikts innvendinger mot dagens ordning,
-se også punkt 6.10.5.3.
-Gjennom henvisningen i § 222 d femte ledd
-foreslås disse reglene også å gjelde for bruk av
-skjulte tvangsmidler i avvergende øyemed.
-I likhet med utvalget foreslår departementet at
-det i saker om rikets sikkerhet gis anledning til å
-utsette underretning i inntil seks måneder om
-gangen, slik regelen i dag er for skjult ransaking i
-slike saker, se punkt 6.10.1. Det samme foreslås å
-gjelde hvor skjulte tvangsmidler i disse sakene
-benyttes i avvergende øyemed.
-Ved bruk av skjulte tvangsmidler i forebyg­
-gende øyemed etter politiloven § 17 d, har depar­
-tementet kommet til at dagens ordning bør videre­
-føres, se punkt 6.10.6.2.
-6.10.5.5
-
-Når underretning senest bør skje
-
-Etter gjeldende rett skal det underrettes om skjult
-ransaking, personnær teknisk sporing, beslag,
-utleveringspålegg og utleveringspålegg fremover
-i tid senest når tiltale tas ut, se punkt 6.10.1.
-Utvalget foreslår at underretning senest skal
-gis når tiltale tas ut «eller saken henlegges», men
-med mulighet for å utsette underretning når
-saken henlegges, se utredningen punkt 15.9 side
-175 og side 353. Det siste er ikke gjenspeilet i
-utvalgets lovutkast.
-
-Høringsinstansene er særlig opptatt av at en
-regel om underretning ved henleggelse ikke bør
-være absolutt, se punkt 6.10.2.3.
-D e p a r t e m e n t e t er enig med utvalget i
-at det bør lovfestes at underretning senest skal gis
-når tiltale tas ut «eller saken henlegges». Samtidig
-bør det gis en viss åpning for helt å unnlate under­
-retning etter henleggelse, se punkt 6.10.6.1.
-Hensynet til å sikre senere oppklaring av den
-aktuelle saken eller etterforskning i andre saker,
-tilsier etter departementets syn at «henleggelse» i
-denne sammenhengen bør forstås som tidspunk­
-tet for utløpet av fristen på tre måneder overord­
-net påtalemyndighet har til å omgjøre en hen­
-leggelsesbeslutning, jf. straffeprosessloven § 75
-annet ledd. Dette foreslås presisert i straffepro­
-sessloven § 200 a fjerde ledd, § 202 c syvende
-ledd, § 208 a annet ledd, § 210 c annet ledd og
-§ 216 j tredje ledd, se lovforslaget til disse bestem­
-melsene.
-
-6.10.6 Adgang til å unnlate underretning?
-Forholdet til EMK
-6.10.6.1
-
-Adgang til å unnlate underretning etter
-henleggelse?
-
-Med unntak for etterforskning og forebyggende
-metodebruk i saker om rikets sikkerhet, gir ikke
-gjeldende rett adgang til å helt unnlate underret­
-ning.
-Utvalget mener at underretning ikke bør
-kunne unnlates for alltid, og viser til at dette anta­
-kelig ville stride mot våre menneskerettslige for­
-pliktelser, se utredningen punkt 15.9 side 175.
-Som referert i punkt 6.10.2 er en rekke
-høringsinstanser opptatt av at underretningsplik­
-ten ikke gjøres absolutt. Riksadvokaten foreslår
-endringer i straffeprosessloven § 216 j, slik at det
-etter henleggelse bør kunne gjøres unntak fra
-underretningsplikten dersom «underretning vil
-være til vesentlig skade for fremtidig oppklaring
-av saken, etterforsking av en annen sak om en lov­
-overtredelse hvor det kan besluttes utsatt under­
-retning, eller hensynet til politiets etterforsk­
-ningsmetoder eller omstendighetene for øvrig
-gjør det strengt nødvendig». Riksadvokaten fore­
-slår tilsvarende endringer i de øvrige hjemlene for
-skjulte metoder, slik at underretningsplikt heller
-ikke her er absolutt.
-D e p a r t e m e n t e t er også av den oppfat­
-ning at det bør gis visse åpninger for å unnlate
-underretning etter henleggelse. Departementet
-ser at politiet for å sikre en effektiv kriminalitets­
-bekjempelse, kan ha behov for å hemmeligholde
-
-[Side 79]
-
-2015–2016
-
-79
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-kommunikasjonskontroll og romavlytting. Det
-samme gjelder de metodene der en i dag har en
-plikt til å underrette mistenkte på et eller annet
-tidspunkt.
-Det kan synes noe uklart om Riksadvokatens
-forslag innebærer at spørsmålet om underretning
-etter henleggelse skal prøves med jevne mellom­
-rom eller om det kan besluttes at underretning
-helt kan unnlates. Etter henleggelse vil en rettslig
-prøving av underretningsspørsmålet med jevne
-mellomrom etter departementets oppfatning
-synes uforholdsmessig ressurskrevende, tatt i
-betraktning at mistenkte så langt ikke er under­
-rettet og at det ved henleggelsen er vurdert at
-vedkommende fortsatt ikke bør underrettes.
-Departementet mener derfor at retten etter hen­
-leggelse bør kunne gi påtalemyndigheten en
-adgang til helt å unnlate underretning.
-I den forbindelse slutter departementet seg
-til Riksadvokatens forslag til at dette i så fall er
-betinget av at «underretning vil være til vesentlig
-skade for fremtidig oppklaring av saken, etterfor­
-sking av en annen sak om en lovovertredelse
-hvor det kan besluttes utsatt underretning, eller
-hensynet til politiets etterforskningsmetoder
-eller omstendighetene for øvrig gjør det strengt
-nødvendig». Det siste alternativet i vilkåret må
-anses å gi rom for å unnlate underretning for å
-beskytte informanter, slik Politidirektoratet og
-Romerike politidistrikt fremhever som viktig, se
-punkt 6.10.2.3.
-En slik adgang til å unnlate underretning etter
-henleggelse bør etter departementets syn suppleres med en adgang til å gi underretning på begjæ­
-ring, både i løpet av en periode hvor det er beslut­
-tet at underretning kan utsettes og etter at det
-eventuelt er besluttet at underretning kan unnla­
-tes. Det vises til at dagens regler om utsatt under­
-retning ved ransaking, personnær teknisk spor­
-ing, beslag og utleveringspålegg ikke er til hinder
-for at mistenkte henvender seg til påtalemyndig­
-heten med begjæring om underretning. Tilsva­
-rende bør mistenkte ved kommunikasjonskontroll
-og romavlytting fortsatt kunne henvende seg til
-Kontrollutvalget for kommunikasjonskontroll
-med begjæring om underretning. Kommer påtale­
-myndigheten eller kommunikasjonskontrollutval­
-get til at underretning ikke vil være til vesentlig
-skade for fremtidig oppklaring av saken, etterfor­
-sking av en annen sak om en lovovertredelse hvor
-det kan besluttes utsatt underretning, og heller
-ikke hensynet til politiets etterforskningsmetoder
-eller omstendighetene for øvrig gjør det strengt
-nødvendig å hemmeligholde metodebruken, må
-underretning gis, selv om dette ble vurdert anner­
-
-ledes på tidspunktet for rettens kjennelse. Kom­
-mer påtalemyndigheten eller kommunikasjons­
-kontrollutvalget til at det ikke er grunnlag for å gi
-underretning, vil en slik avgjørelse kunne begjæ­
-res overprøvd av retten.
-Enkelte uttalelser fra EMD er egnet til å så tvil
-om en adgang til å unnlate underretning er i over­
-ensstemmelse med EMK artikkel 8 om retten til
-respekt for privatlivet. I praksis fra EMD er det
-slått fast at skjulte tvangsmidler er i strid med art.
-8 nr. 1. Slike tvangsmidler kan imidlertid være til­
-latt etter unntaksbestemmelsen i artikkel 8 nr. 2.
-Med utgangspunkt i vilkåret «necessary in a
-democratic society», har EMD utviklet et propor­
-sjonalitetsprinsipp, hvoretter det må være for­
-holdsmessighet mellom de mål som søkes opp­
-nådd – for eksempel å forhindre alvorlig kriminali­
-tet – og de midler som tas i bruk for å nå dette
-målet. I denne vurderingen har domstolen gjen­
-nomgående lagt til grunn at det må foreligge til­
-fredsstillende og effektive garantier mot misbruk
-av metodene, jf. Ot.prp. nr. 60 (2004–2005) punkt
-3.3 side 23. I dommen Klass mot Tyskland 6. sep­
-tember 1978 (saksnummer 5029/71) er dette
-utdypet slik i avsnitt 50:
-«This assessment has only a relative character:
-it depends on all the circumstances of the case,
-such as the nature, scope and duration of the
-possible measures, the grounds required for
-ordering such measures, the authorities
-competent to permit, carry out and supervise
-such measures, and the kind of remedy provi­
-ded by the national law.»
-I flere dommer har EMD lagt til grunn at statene
-har en relativt vid skjønnsmargin på dette områ­
-det. EMD har i den forbindelse slått fast at det i
-seg selv ikke er uforholdsmessig i artikkel 8 sin
-forstand å unnlate underretning når den skjulte
-tvangsbruken har opphørt, jf. blant annet dom­
-men Klass mot Tyskland. EMD uttaler følgende i
-avsnitt 58 i dommen:
-«In the opinion of the Court, it has to be ascer­
-tained whether it is even feasible in practice to
-require subsequent notification in all cases.
-The activity or danger against which a par­
-ticular series of surveillance measures is direc­
-ted may continue for years, even decades, after
-the suspension of those measures. Subsequent
-notification to each individual affected by a sus­
-pended measure might well jeopardise the
-long-term purpose that originally prompted the
-surveillance. Furthermore, as the Federal Con­
-
-[Side 80]
-
-80
-
-2015–2016
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-stitutional Court rightly observed, such notifi­
-cation might serve to reveal the working met­
-hods and fields of operation of the intelligence
-services and even possibly to identify their
-agents. In the Court’s view, in so far as the
-«interference» resulting from the contested
-legislation is in principle justified under Article
-8 para. 2 (art. 8-2) (see paragraph 48 above),
-the fact of not informing the individual once
-surveillance has ceased cannot itself be
-incompatible with this provision since it is this
-very fact which ensures the efficacy of the
-«interference».»
-Resten av avsnittet må forstås slik at en underret­
-ningsplikt etter de nasjonale reglene er et argu­
-ment for at den aktuelle ordningen gir tilstrekke­
-lige rettssikkerhetsgarantier. Domstolen uttaler i
-den forbindelse følgende om den aktuelle tyske
-ordningen:
-«Moreover, it is to be recalled that, in pur­
-suance of the Federal Constitutional Court’s
-judgment of 15 December 1970, the person
-concerned must be informed after the termina­
-tion of the surveillance measures as soon as
-notification can be made without jeopardising
-the purpose of the restriction (see paragraphs
-11 and 19 above).»
-En lignende uttalelse er gitt i dommen Leander
-mot Sverige 26. mars 1987 (saksnummer 9248/81)
-avsnitt 66.
-I avgjørelsen Weber og Saravia mot Tyskland
-29. juni 2006 (saksnummer 54934/00), avsnitt 135,
-kan domstolen imidlertid forstås å legge sterkere
-føringer på hvordan de nasjonale ordningene med
-underretning må innrettes:
-«As soon as notification can be carried out wit­
-hout jeopardising the purpose of the restriction
-after the termination of the surveillance mea­
-sure, information should, however, be provided
-to the persons concerned […]»
-Det samme uttales i dommen Association for
-European integration and human rights and
-Ekimdzhiev mot Bulgaria 30. januar 2008 (saks­
-nummer 62540/00), avsnitt 90. Domstolen prøvde
-her lovligheten av de bulgarske reglene om tele­
-fonavlytting. Bulgarsk rett ga ingen anledning for
-mistenkte til å få kjennskap til hvorvidt han var
-avlyttet, siden slike opplysninger var underlagt
-taushetsplikt. I avsnitt 91 uttaler domstolen om
-denne ordningen:
-
-«The result of this is that unless they are subse­
-quently prosecuted on the basis of the material
-gathered through covert surveillance, or
-unless there has been a leak of information, the
-persons concerned cannot learn whether they
-have ever been monitored and are accordingly
-unable to seek redress for unlawful interfer­
-ences with their Article 8 rights. Bulgarian law
-thus eschews an important safeguard against
-the improper use of special means of surveil­
-lance.»
-I artikkelen «Beskyttelsen mod overvågning i
-den fysiske og elektroniske verden. Forhandlin­
-gerne ved Det 38. nordiske Juristmøde i Køben­
-havn 21. – 23. august 2008» gir Inger Marie
-Sunde på side 474 uttrykk for at det på et eller
-annet tidspunkt må gis underretning, og at nor­
-ske regler som gir adgang til helt å unnlate
-underretning står i et tvilsomt forhold til EMDs
-minimumskrav.
-Uttalelsene fra EMD kan etter departementets
-syn imidlertid ikke trekkes så langt som til at mis­
-tenkte i alle tilfeller må underrettes. Departemen­
-tet er enig med Politiets sikkerhetstjeneste (PST),
-se nedenfor i punkt 6.10.6.2, i at de nevnte avgjø­
-relsene direkte gir uttrykk for at berørte personer
-bør underrettes. Videre taler avsnitt 91 i dommen
-Association for European integration and human
-rights and Ekimdzhiev mot Bulgaria etter departe­
-mentets syn for at det sentrale er at det eksisterer
-en mulighet for mistenkte til å oppnå kjennskap
-om tvangsmiddelbruken.
-Til dette kommer at statene har en relativt vid
-skjønnsmargin på området, og at et absolutt forbud mot å unnlate underretning vil underkjenne
-ordningen i en rekke land. Interessant i denne
-sammenheng er reglene i Sverige om underret­
-ningsplikt ved telefonavlytting og romavlytting
-som trådte i kraft 1. januar 2008. Her kan under­
-retning helt unnlates dersom det på grunn av taus­
-hetsplikt ikke er gitt underretning innen et år
-etter at etterforskningen ble avsluttet, jf. rätte­
-gångsbalken 27 kap. 33 § og Lag om hemlig
-rumsavlyssning 15 §. Reglene ble innført uten at
-uttalelsen i avgjørelsen Weber og Saravia mot
-Tyskland ble problematisert.
-Departementet legger til grunn at spørsmålet
-om underretning til siktede fortsatt bare inngår
-som et moment i forholdsmessighetsvurderingen,
-hvor det sentrale er om det foreligger tilfredsstil­
-lende og effektive garantier mot misbruk av meto­
-dene.
-Når det konkret gjelder den ordningen som
-foreslås i proposisjonen her, må det særlig tas i
-
-[Side 81]
-
-2015–2016
-
-81
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-betraktning at adgangen til å unnlate underret­
-ning etter henleggelse foreslås å være forholdsvis
-snever, og at mistenkte vil kunne oppnå kjennskap
-til metodebruken gjennom begjæring. Dessuten
-er domstolsprøving av underretningsspørsmålet
-og oppnevning av offentlig advokat sentrale retts­
-sikkerhetsgarantier i norsk rett som bør tillegges
-betydelig vekt i vurderingen. Ved kommunika­
-sjonskontroll og romavlytting, som jevnt over må
-anses å være mer inngripende enn de øvrige
-metodene, foretas dessuten en etterkontroll av
-Riksadvokaten og kommunikasjonskontrollut­
-valget.
-Departementet finner etter dette at en ordning
-som er foreslått ovenfor ikke er i strid med EMK
-artikkel 8.
-Spørsmålet om underretning har også en side
-til EMK artikkel 13, som bestemmer at den kren­
-kede skal ha en effektiv prøvingsrett for nasjonale
-myndigheter. En alminnelig prøving lar seg van­
-skelig gjennomføre uten at mistenkte har kjenn­
-skap til inngrepet. Dersom et tvangsmiddel etter
-artikkel 8 nr. 2 først anses «necessary in a demo­
-cratic society» på tross av manglende underret­
-ning, vil en imidlertid ikke kunne utlede en under­
-retningsplikt fra artikkel 13, jf. Klass mot Tyskland
-avsnitt 68. Dermed anses heller ikke artikkel 13 å
-være til hinder for en ordning som beskrevet
-ovenfor.
-Departementet går på denne bakgrunn inn
-for at underretning, på de vilkår som foreslått,
-kan unnlates både ved ransaking, personnær tek­
-nisk sporing, beslag, utleveringspålegg, kommu­
-nikasjonskontroll og romavlytting. Samtidig fore­
-slås det at mistenkte fortsatt bør ha mulighet til å
-underrettes på begjæring, se lovforslaget til straf­
-feprosessloven § 216 j sjette ledd, jf. § 200 a
-fjerde ledd, § 202 c syvende ledd, § 208 a annet
-ledd og § 210 c annet ledd. Disse endringene,
-sammenholdt med forslaget i punkt 6.10.2 om en
-generell underretningsplikt, krever dessuten
-enkelte endringer i kommunikasjonskontroll­
-forskriften.
-6.10.6.2
-
-Adgang for Politiets sikkerhetstjeneste til å
-unnlate underretning?
-
-Ved bruk av skjulte tvangsmidler i forebyggende
-øyemed etter politiloven er det etter gjeldende rett
-ikke krav til underretning, se punkt 6.10.1.
-Utvalget går inn for å innføre en underret­
-ningsplikt også her, og viser til at dagens ordning
-neppe er i overensstemmelse med våre mennes­
-kerettslige forpliktelser, se utredningen punkt
-15.9 side 175.
-
-De to høringsinstansene som har uttalt seg
-har innvendinger mot forslaget. PST bemerker
-følgende:
-«Utvalgets forslag vil få store konsekvenser for
-PST. Forslaget rokker ved en helt avgjørende
-premiss for en sikkerhetstjeneste – muligheten
-til å bevare taushet om hvem virksomheten ret­
-tes mot. Det er PSTs vurdering at underretning
-alltid vil kunne være til vesentlig skade for PST,
-og det er derfor avgjørende at tvangsmiddel­
-bruk i regi av PST også i fremtiden skal kunne
-forbli skjult.
-Det synes videre noe usikkert hvilke gene­
-relle rettsetninger som kan utledes fra de kon­
-krete og situasjonsbetingende avgjørelser som
-utvalget har redegjort for fra den europeiske
-menneskerettighetsdomstol. En ren språklig
-forståelse av de sitater som er hentet fra EMD­
-avgjørelsene, synes ikke å gå lenger enn til å si
-at den som er utsatt for tvangsmiddelbruk i
-ettertid burde bli gjort kjent med tvangsmiddel­
-bruken.
-På denne bakgrunn vil PST fremheve vik­
-tigheten av en ordning med unnlatt underret­
-ning må kunne videreføres såfremt dette, slik
-som i dag, balanseres av virkemidler som sik­
-rer rettsikkerheten for den som er utsatt for
-tvangsmiddelbruken. Ikke bare er den som
-utsettes for tvangsmiddelbruk i dag represen­
-tert gjennom en egen advokat i forhold til om
-vilkårene for tvangsmiddelbruken er tilstede. I
-tillegg etterkontrollerer EOS-utvalget at vilkå­
-rene for tvangsmiddelbruken rent faktisk etter­
-følges og at opplysninger fra tvangsmiddelbru­
-ken brukes etter forutsetningene.»
-Videre fremhever PST at det er viktig at spørsmå­
-lene om underretning utredes videre med hensyn
-til deres særskilte behov.
-Oslo statsadvokatembeter uttaler følgende:
-«Hva gjelder PST's saksområde er man enig
-med utvalget at det her gjør seg særlige hensyn
-gjeldende. Disse er imidlertid knyttet til uten­
-landske institusjoner i Norge. Her oppstår det
-spesielle problemstillinger hva gjelder bruk av
-tvangsmidler. En vil her likevel peke på at det
-kunne gis en særskilt lovhjemmel som gjelder
-bruk av kommunikasjonskontroll i forhold til
-disse. Dette er en løsning som er valgt i enkelte
-land. Hva gjelder norske statsborgere og per­
-soner med fast bopel i Norge, bør disse falle inn
-under de generelle regler som foreslås av utval­
-get.»
-
-[Side 82]
-
-82
-
-2015–2016
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-D e p a r t e m e n t e t vil fremheve at PST skal
-etterforske og forebygge straffbare handlinger
-som truer sikkerheten i samfunnet eller grunn­
-leggende samfunnsinstitusjoner, jf. politiloven
-§ 17 b. Ofte begås slike handlinger av lukkede og
-profesjonelle miljøer. For personer med planer
-om å begå så alvorlige straffbare handlinger,
-antas straffens allmennpreventive effekt å spille
-en begrenset rolle. Dette gjør forebyggingsarbei­
-det særdeles viktig. Kjernen i sikkerhetstje­
-nestens virksomhet er å oppdage mulige trusler
-mot samfunnssikkerheten tidligst mulig, og helst
-lenge før hendelsesforløpet har kommet så langt
-at grensen for det straffbare er nådd. I Ot.prp. nr.
-60 (2004–2005) punkt 9.4.3.2 side 134 og i
-merknaden på side 153 la departementet til
-grunn at særtrekkene ved denne forebyggende
-virksomheten som regel gjør det nødvendig å
-bevare metodebruken hemmelig for den som er
-utsatt for inngrepet.
-Departementet er fremdeles av den oppfatning
-at det er grunn til å særbehandle PSTs forebyg­
-gende arbeid, slik at det fortsatt bør være adgang
-til å unnlate underretning her. Departementet kan
-ikke se at dette er i strid med EMK artikkel 8.
-Bruken av skjulte metoder i forebyggende øye­
-med kontrolleres av domstolene og den offentlig
-oppnevnte advokaten i forkant, og i etterkant av
-Justis- og beredskapsdepartementet som overord­
-net myndighet for PST og av EOS-utvalget. Det
-må også tas i betraktning at tillatelse gis på
-strenge vilkår og at adgangen til skjult tvangsmid­
-delbruk i forebyggende øyemed gjelder for et
-meget begrenset saksområde; terrorhandlinger,
-ulovlig etterretningsvirksomhet og de mest alvor­
-lige formene for vold eller trusler mot represen­
-tanter for våre øverste statsmyndigheter eller
-representanter for tilsvarende organer i andre
-land. Slike oppgaver tør være i kjernen for den
-nasjonale handlefrihet, se punkt 6.10.6.1 som refe­
-rerer avsnitt 58 i dommen Klass mot Tyskland. Ut
-fra foreliggende rettspraksis fra EMD mener
-departementet at det – særlig på dette området –
-er grunn til å være varsom med å innfortolke
-absolutte skranker i EMK artikkel 8.
-Departementet går etter dette inn for å videre­
-føre regelen i politiloven § 17 e om at den tvangs­
-midlet retter seg mot, ikke har krav på underret­
-ning etter at tvangsmiddelbruken har opphørt.
-Når det gjelder PSTs bruk av skjulte metoder
-under etterforskning, herunder i avvergende øye­
-med etter straffeprosessloven § 222 d, synes det
-noe uklart om høringsuttalelsene fra PST og Oslo
-statsadvokatembeter kan tas til inntekt for en sær­
-behandling av sikkerhetstjenesten. Uansett kan
-
-departementet vanskelig se grunner til at sikker­
-hetstjenestens etterforskning bør behandles
-annerledes enn etterforskningen til politiet ellers,
-all den tid det også for sistnevnte åpnes for å unn­
-late underretning. Skjulte tvangsmidler som
-benyttes under etterforskning vil også på PSTs
-område – om ikke saken henlegges – som regel
-komme til mistenktes kjennskap når det tas ut til­
-tale. Departementet foreslår på denne bakgrunn
-at de foreslåtte alminnelige regler om underret­
-ningsplikt også bør gjelde her.
-
-6.10.7 Utsatt eller unnlatt underretning ved
-sikringspålegg
-6.10.7.1
-
-Gjeldende rett
-
-Straffeprosessloven § 215 a gir påtalemyndighe­
-ten hjemmel til midlertidig sikring av elektronisk
-lagrede data som ledd i etterforskningen av straf­
-fesaker. Bestemmelsen ble tilføyd ved lov 8. april
-2005 nr. 16 og gjennomfører Europarådets kon­
-vensjon 23. november 2001 om bekjempelse av
-kriminalitet som knytter seg til informasjons- og
-kommunikasjonsteknologi (CETS nr. 185) artik­
-kel 16 og 17.
-Reglene om sikringspålegg tar sikte på å sikre
-bevis til bruk i en etterfølgende straffesak. Påtale­
-myndigheten får ikke rådigheten over dataene,
-noe som gjør sikringspålegg mindre inngripende
-enn beslag.
-§ 215 a tredje ledd gjelder underretning:
-«Den som har rådigheten over de data som
-omfattes av sikringspålegget, skal underrettes
-om pålegget. En mistenkt skal underrettes
-straks dataene er sikret og han får status som
-siktet i saken. For øvrig skal underretning gis
-straks dataene er sikret.»
-Den som har rådigheten over dataene skal altså
-underrettes om sikringspålegget, noe som normalt er en forutsetning for å kunne sikre dataene.
-En mistenkt skal gis underretning om beslut­
-ningen straks dataene er sikret og han får status
-som siktet i saken, jf. straffeprosessloven § 82.
-Han vil dermed ha krav på underretning senest på
-det tidspunkt påtalemyndigheten har erklært ham
-for siktet, forfølgning mot ham er innledet ved ret­
-ten eller det er besluttet eller foretatt pågripelse,
-ransaking, beslag eller lignende forholdsregler
-rettet mot ham, jf. straffeprosessloven § 82 første
-ledd. Sikringspålegg er ikke å anse som «lignende
-forholdsregler». Sikringspålegg alene gir dermed
-ikke siktede status som siktet.
-
-[Side 83]
-
-2015–2016
-
-83
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-Er det besluttet å bruke et tvangsmiddel som
-den mistenkte ikke varsles om, for eksempel hem­
-melig ransaking (§ 200 a), personnær teknisk spor­
-ing (§ 202 c), kommunikasjonskontroll (§§ 216 a og
-216 b) eller skjult kameraovervåkning (§ 202 a), får
-man status som siktet først når underretning gis, jf.
-straffeprosessloven § 82 tredje ledd. Det samme
-gjelder dersom det er besluttet utsatt underretning
-om et tvangsmiddel, for eksempel beslag (§ 208 a),
-utleveringspålegg (§ 210 a) eller fremtidig utleve­
-ringspålegg (§ 210 c). I så fall skal den siktede sam­
-tidig gis underretning om sikringspålegget.
-6.10.7.2
-
-Forslaget i høringsnotatet
-
-I høringsnotat 12. juli 2012 behandles forslag fra
-PST om å gi en egen bestemmelse om utsatt eller
-unnlatt underretning ved sikringspålegg. Spørs­
-målet om utsatt eller unnlatt underretning ved sik­
-ringspålegg er ikke særskilt omtalt av Metodekon­
-trollutvalget.
-PST anfører at straffeprosessloven § 215 a
-ikke er anvendelig der det er behov for skjult
-etterforskning. Sikringspålegg kan være aktuelt
-svært tidlig i etterforskningen, for å unngå å miste
-informasjon som senere kan vise seg å være viktig
-som bevis. PST mener det er lite hensiktsmessig
-at mistenkte allerede da får kjennskap til at han
-eller hun er under etterforskning og at vedkom­
-mende får status som siktet.
-PST foreslår at det inntas en bestemmelse i
-straffeprosessloven § 215 a om utsatt eller unnlatt
-underretning ved sikringspålegg. Bestemmelsen
-vil tilsvare den som gjelder ved hemmelig ran­
-saking, jf. straffeprosessloven § 200 a tredje ledd,
-og for beslag, jf. straffeprosessloven § 208 a annet
-ledd annet punktum.
-6.10.7.3
-
-Høringsinstansenes syn
-
-Kripos har en annen forståelse enn PST når det
-gjelder kravene til når en mistenkt skal underret­
-tes. Kripos uttaler:
-«Slik Kripos forstår bestemmelsen skal ved­
-kommende først underrettes når han av en
-eller annen grunn har fått status som siktet.
-Kripos mener det er tvangsmidlene som bru­
-kes for å følge opp sikringspålegget, og som
-eventuelt gir mistenkte siktetstatus, som utlø­
-ser plikten til å underrette. Dersom det er gitt
-utsatt underretning ved bruk av de aktuelle
-tvangsmidler vil også underretning om sik­
-ringspålegget utsettes. Det er ikke sikringspå­
-legget i seg selv som gir ham status som siktet.
-
-Underretningsplikt vil imidlertid utløses der­
-som den mistenkte av en annen grunn (enn de
-tvangsmidler som brukes for å følge opp sik­
-ringspålegget) skulle få status som siktet i
-saken, jfr strpl. § 82. Dette er imidlertid sjelden
-praktisk når det pågår skjult etterforskning.
-[…]
-Kripos er etter dette av den oppfatning at
-strpl. § 215a i stor grad vil være anvendelig i sin
-nåværende form også i en skjult etterforsk­
-ningsfase.»
-Riksadvokaten deler heller ikke PSTs lovforståelse
-om at straffeprosessloven § 215 a ikke er anvende­
-lig ved skjult etterforskning. Riksadvokaten uttaler:
-«Etter vårt syn skal det ikke gis underretning
-før mistenkte får stilling som siktet. Det vises
-til bestemmelsens ordlyd og merknadene til
-denne.»
-NAST uttaler at straffeprosessloven § 215 a i sin
-nåværende form er anvendelig i en skjult fase av
-en etterforskning, og er enige i Kripos’ redegjø­
-relse og lovforståelse. Politidirektoratet uttaler at
-de er i tvil om PSTs syn om at sikringspålegg ikke
-er anvendelig ved skjult etterforskning medfører
-riktighet, og slutter seg til uttalelsen fra Kripos
-vedrørende forståelsen av straffeprosessloven
-§ 215 a. Også Politijuristene slutter seg til Kripos’
-lovforståelse, og etterlyser en avklaring fra depar­
-tementet.
-6.10.7.4 Departementets vurdering
-PSTs forståelse om at § 215 a om sikringspålegg
-ikke er anvendelig i en skjult fase av etterforsknin­
-gen, har fått en rekke entydige reaksjoner i
-høringsrunden. Høringsinstansene som har uttalt
-seg, med unntak av Hordaland politidistrikt, støt­
-ter ikke PSTs lovforståelse.
-Departementet slutter seg til Kripos’ forståelse
-av reglene om underretning. Departementet viser
-til uttalelsene i forarbeidene, jf. Ot.prp. nr. 40
-(2004–2005) Om lov om endringer i straffeloven og
-straffeprosessloven og om samtykke til ratifikasjon
-av Europarådets konvensjon 8. november 2001 om
-bekjempelse av kriminalitet som knytter seg til
-informasjons- og kommunikasjonsteknologi (lovtil­
-tak mot datakriminalitet) punkt 4.2.4.3 side 27:
-«Den som besitter de data som skal sikres –
-typisk en tjenestetilbyder – må naturligvis få
-underretning om pålegget om midlertidig sik­
-ring for at dette skal bli gjennomført. Et annet
-
-[Side 84]
-
-84
-
-2015–2016
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-spørsmål er om den som eventuelt er mistenkt
-for en handling som pålegget skal sikre bevis
-for, skal ha krav på underretning. Departe­
-mentet er enig med utvalget i at en mistenkt
-bør ha krav på underretning fra det tidspunkt
-han får status som siktet i saken, men bare
-dersom sikringspålegget gjelder data som den
-siktede selv har lovlig tilgang til. En tjeneste­
-tilbyder blir for eksempel pålagt å sikre data
-som knytter seg til den mistenktes e-post­
-konto eller hans hjemmeside på internett. I
-slike tilfeller vil han ha krav på underretning
-senest på det tidspunkt når påtalemyndighe­
-ten har erklært ham for siktet, når forfølging
-mot ham er innledet ved retten eller når det er
-besluttet eller foretatt pågripelse, ransaking,
-beslag eller lignende forholdsregler rettet
-mot ham, jf. straffeprosessloven § 82 første
-ledd. Er det besluttet utsatt underretning om
-et tvangsmiddel, blir vedkommende først
-siktet når underretning gis, jf. straffeprosess­
-loven § 82 tredje ledd. I slike tilfeller skal det
-samtidig gis underretning om sikrings­
-pålegget.»
-Det samme uttales i merknadene i punkt 7.2 side
-35:
-«Det fremgår av utkastet til tredje ledd at en
-mistenkt skal gis underretning om beslutnin­
-gen straks dataene er sikret og han får status
-som siktet i saken, jf. straffeprosessloven § 82.
-Han vil dermed ha krav på underretning
-senest på det tidspunkt når påtalemyndighe­
-ten har erklært ham for siktet, når forfølging
-mot ham er innledet ved retten eller når det er
-besluttet eller foretatt pågripelse, ransaking,
-beslag eller lignende forholdsregler rettet
-mot ham. Er det besluttet utsatt underretning
-om et tvangsmiddel, inntrer stillingen som
-siktet først når underretning gis, jf. straffe­
-prosessloven § 82 tredje ledd. I så fall skal den
-siktede samtidig gis underretning om
-sikringspålegget.»
-Departementet deler således ikke PSTs syn om at
-§ 215 a ikke er anvendelig i en tidlig og skjult fase
-av etterforskningen. Mistenkte skal først under­
-rettes om sikringspålegget når han får status som
-siktet i saken. Sikringspålegget i seg selv gir ikke
-mistenkte status som siktet. Dersom det er beslut­
-tet å bruke et tvangsmiddel det ikke skal gis
-underretning om, eller det er besluttet utsatt
-underretning, får mistenkte status som siktet først
-når underretning gis, jf. straffeprosessloven § 82
-
-tredje ledd. Med en slik lovforståelse, er de gjel­
-dende reglene om underretning ved sikringspå­
-legg anvendelige i en tidlig og skjult fase av etter­
-forskningen, og det er etter departementets syn
-ikke behov for endringer i straffeprosessloven
-§ 215 a.
-6.10.8 Særlig om underretning ved gjensidig
-bistand i straffesaker
-Etter gjeldende rett kommer trolig de norske
-reglene om underretningsplikt til anvendelse når
-norske myndigheter bistår utenlandske myndig­
-heter ved bruk av skjulte tvangsmidler, se punkt
-6.10.1.
-Utvalget berører ikke spørsmålet om underret­
-ningsplikt ved bistand til utenlandske myndig­
-heter. Det gjør imidlertid enkelte høringsinstan­
-ser. Både Romerike politidistrikt og NAST er opp­
-tatt av at utvalgets forslag om en generell under­
-retningsplikt kan vanskeliggjøre etterforskning i
-saker med internasjonalt opphav. Romerike politi­
-distrikt uttaler i den forbindelse:
-«Flere av sakene der metoden kommunika­
-sjonskontroll brukes, startes med bakgrunn i,
-eller som støtte til etterforskning i utlandet.
-Disse sakene kan ut fra utviklingen i etterforsk­
-ningen få helt andre tidsperspektiver enn etter­
-forskningen av saken i Norge. I disse tilfellene
-måtte påtalemyndigheten ha logistikk på
-underrettelsesplikt og omfanget av dette knyt­
-tet til en rekke personer over tid. Slik utviklin­
-gen av sakene der kommunikasjonskontroll
-benyttes har blitt, involverer sakene ofte
-mange avlyttede personer over tid. Muligheten
-for at pågående etterforskninger blir skade­
-lidende eller helt stopper opp er derfor over­
-hengende.»
-NAST savner en vurdering av hvilke konsekven­
-ser en ubetinget underretningsplikt vil få for Nor­
-ges evne til å delta i dette samarbeidet, og det
-vises til at embetet jevnlig mottar rettsanmodnin­
-ger fra andre lands myndigheter om å innhente til­
-latelse til bruk av skjulte tvangsmidler. For øvrig
-uttaler embetet:
-«Det vil også kunne være problematisk å doku­
-mentere behovet for utsatt underretning der­
-som slik begjæring skal fremmes. Ytterligere
-er det risiko for at Norge kan bli forhindret fra
-å bistå dersom reglene i det land som begjærer
-tvangsmidlet tillater unnlatt underretning i
-større utstrekning enn etter norsk rett. Det
-
-[Side 85]
-
-2015–2016
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-synes klart at dette vil kunne bli hemmende for
-det internasjonale politisamarbeidet som er
-nødvendig for effektiv bekjempelse av grense­
-overskridende kriminalitet. NAST mener, i lik­
-het med det som er anført vedrørende straffe­
-rammekravet for skjulte tvangsmidler (pkt.
-II.1.a), at det er behov for sammenlignende
-undersøkelser med andre lands rettssystemer,
-for å påse at norske vilkår er hensiktsmessige i
-lys av samarbeidsforpliktelsene. Eventuelle
-endringer i dagens underrettelsesregler bør
-avventes til en slik undersøkelse er utført.»
-NAST er videre av den oppfatning at Norge ikke
-uten videre bør ha byrden med underretning, og
-uttaler:
-«Et annet praktisk problem er når norsk politi
-bistår med skjulte tvangsmidler mot en person
-som er midlertidig i landet, typisk på gjennom­
-reise. En absolutt varslingsplikt av den perso­
-nen som er i utlandet vil være svært problema­
-tisk. En ser for seg en regel om at varsling om
-tvangsmiddelbruk i bistandssaker overlates til
-begjærende lands myndigheter. På den måten
-kan norsk politi gjennomføre bistanden og
-utkvittere saken. Varsling vil uansett måtte
-gjennomføres ved at norske myndigheter via
-rettsanmodning anmoder det land mistenkte
-befinner seg i, om bistand til å gjennomføre
-varsling. Hvis de nekter å gjennomføre dette er
-vi like langt. En kommer således antakelig ikke
-unna at varsling avhenger av begjærende lands
-medvirkning Da kan ansvaret like godt legges
-der med en gang. En norsk domstols vurdering
-av vilkårene for fortsatt utsatt varsling vil uan­
-sett ikke kunne bli særlig opplyst. Det samme
-gjelder når vår bistand kreves fordi kommuni­
-
-85
-
-kasjon av tilfeldige årsaker rutes via Norge.
-Dette skjer ikke sjelden uten at mistenkte noen
-gang har befunnet seg på norsk territorium.
-For norske myndigheter vil det være svært
-krevende og urimelig byrdefullt å skulle følge
-opp en slik utenlandsk etterforsking i måneder
-og år. Det taler med styrke for at varsling over­
-lates til begjærende myndigheter.»
-D e p a r t e m e n t e t ser at en underretnings­
-plikt kan skape særlige utfordringer hvor skjulte
-tvangsmidler gjennomføres på anmodning fra uten­
-landske myndigheter. Norske myndigheter kan ha
-vanskelig for å begrunne utsatt underretning der­
-som etterforskningen for øvrig gjennomføres av
-utenlandske myndigheter, og vil kunne trenge
-bistand fra utlandet både for å få kjennskap til om
-mistenkte bør underrettes, og for å gjennomføre
-selve underretningen. Det er videre grunn til å
-spørre om det i slike saker er rimelig at byrden
-med å underrette påhviler norske myndigheter.
-Departementet ser derfor at det kan være
-behov for særregler om underretning ved gjensi­
-dig bistand i straffesaker, og vil vurdere hvordan
-de særlige hensyn som gjør seg gjeldende her
-best kan ivaretas.
-Departementet foreslår derfor at Kongen gis
-hjemmel til å gi særregler om underretning ved
-gjennomføring av tvangsmidler på begjæring fra
-utenlandske myndigheter, se forslaget til
-endringer i § 216 j syvende ledd, jf. § 200 a fjerde
-ledd, § 202 c syvende ledd, § 208 a annet ledd og
-§ 210 c annet ledd. Det bemerkes i den forbin­
-delse at utleveringsloven § 28 nr. 2 ikke synes å
-gi tilstrekkelig hjemmel i så henseende. Det
-samme gjelder straffeprosessloven § 216 k som
-bare gjelder for kommunikasjonskontroll og
-romavlytting.
+BrøBrø«Det fremgår av utkastet til *tredje ledd* at en mistenkt skal gis underretning om beslutningen straks dataene er sikret og han får status som siktet i saken, jf. straffeprosessloven § 82. Han vil dermed ha krav på underretning senest på det tidspunkt når påtalemyndigheten har erklært ham for siktet, når forfølging mot ham er innledet ved retten eller når det er besluttet eller foretatt pågripelse, ransaking, beslag eller lignende forholdsregler rettet mot ham. Er det besluttet utsatt underretning om et tvangsmiddel, inntrer stillingen som siktet først når underretning gis, jf. straffeprosessloven § 82 tredje ledd. I så fall skal den siktede samtidig gis underretning om sikringspålegget.»
+
+BrøDepartementet deler således ikke PSTs syn om at § 215 a ikke er anvendelig i en tidlig og skjult fase av etterforskningen. Mistenkte skal først underrettes om sikringspålegget når han får status som siktet i saken. Sikringspålegget i seg selv gir ikke mistenkte status som siktet. Dersom det er besluttet å bruke et tvangsmiddel det ikke skal gis underretning om, eller det er besluttet utsatt underretning, får mistenkte status som siktet først når underretning gis, jf. straffeprosessloven § 82 tredje ledd. Med en slik lovforståelse, er de gjeldende reglene om underretning ved sikringspålegg anvendelige i en tidlig og skjult fase av etterforskningen, og det er etter departementets syn ikke behov for endringer i straffeprosessloven § 215 a.
+
+BrøBrø**Særlig om underretning ved gjensidig bistand i straffesaker**
+
+BrøEtter gjeldende rett kommer trolig de norske reglene om underretningsplikt til anvendelse når norske myndigheter bistår utenlandske myndigheter ved bruk av skjulte tvangsmidler, se punkt 6.10.1.
+
+*Utvalget* berører ikke spørsmålet om underretningsplikt ved bistand til utenlandske myndigheter. Det gjør imidlertid enkelte høringsinstanser. Både *Romerike politidistrikt* og *NAST* er opptatt av at utvalgets forslag om en generell underretningsplikt kan vanskeliggjøre etterforskning i saker med internasjonalt opphav. *Romerike politidistrikt* uttaler i den forbindelse:
+
+BrøBrø«Flere av sakene der metoden kommunikasjonskontroll brukes, startes med bakgrunn i, eller som støtte til etterforskning i utlandet. Disse sakene kan ut fra utviklingen i etterforskningen få helt andre tidsperspektiver enn etterforskningen av saken i Norge. I disse tilfellene måtte påtalemyndigheten ha logistikk på underrettelsesplikt og omfanget av dette knyttet til en rekke personer over tid. Slik utviklingen av sakene der kommunikasjonskontroll benyttes har blitt, involverer sakene ofte mange avlyttede personer over tid. Muligheten for at pågående etterforskninger blir skadelidende eller helt stopper opp er derfor overhengende.»
+
+Brø*NAST* savner en vurdering av hvilke konsekvenser en ubetinget underretningsplikt vil få for Norges evne til å delta i dette samarbeidet, og det vises til at embetet jevnlig mottar rettsanmodninger fra andre lands myndigheter om å innhente tillatelse til bruk av skjulte tvangsmidler. For øvrig uttaler embetet:
+
+BrøBrø«Det vil også kunne være problematisk å dokumentere behovet for utsatt underretning dersom slik begjæring skal fremmes. Ytterligere er det risiko for at Norge kan bli forhindret fra å bistå dersom reglene i det land som begjærer tvangsmidlet tillater unnlatt underretning i større utstrekning enn etter norsk rett. Det synes klart at dette vil kunne bli hemmende for det internasjonale politisamarbeidet som er nødvendig for effektiv bekjempelse av grenseoverskridende kriminalitet. NAST mener, i likhet med det som er anført vedrørende strafferammekravet for skjulte tvangsmidler (pkt. II.1.a), at det er behov for *sammenlignende undersøkelser* med andre lands rettssystemer, for å påse at norske vilkår er hensiktsmessige i lys av samarbeidsforpliktelsene. Eventuelle endringer i dagens underrettelsesregler bør avventes til en slik undersøkelse er utført.»
+
+BrøNAST er videre av den oppfatning at Norge ikke uten videre bør ha byrden med underretning, og uttaler:
+
+BrøBrø«Et annet praktisk problem er når norsk politi bistår med skjulte tvangsmidler mot en person som er midlertidig i landet, typisk på gjennomreise. En absolutt varslingsplikt av den personen som er i utlandet vil være svært problematisk. En ser for seg en regel om at varsling om tvangsmiddelbruk i bistandssaker overlates til begjærende lands myndigheter. På den måten kan norsk politi gjennomføre bistanden og utkvittere saken. Varsling vil uansett måtte gjennomføres ved at norske myndigheter via rettsanmodning anmoder det land mistenkte befinner seg i, om bistand til å gjennomføre varsling. Hvis de nekter å gjennomføre dette er vi like langt. En kommer således antakelig ikke unna at varsling avhenger av begjærende lands medvirkning Da kan ansvaret like godt legges der med en gang. En norsk domstols vurdering av vilkårene for fortsatt utsatt varsling vil uansett ikke kunne bli særlig opplyst. Det samme gjelder når vår bistand kreves fordi kommunikasjon av tilfeldige årsaker rutes via Norge. Dette skjer ikke sjelden uten at mistenkte noen gang har befunnet seg på norsk territorium. For norske myndigheter vil det være svært krevende og urimelig byrdefullt å skulle følge opp en slik utenlandsk etterforsking i måneder og år. Det taler med styrke for at varsling overlates til begjærende myndigheter.»
+
+BrøDepartementet ser at en underretningsplikt kan skape særlige utfordringer hvor skjulte tvangsmidler gjennomføres på anmodning fra utenlandske myndigheter. Norske myndigheter kan ha vanskelig for å begrunne utsatt underretning dersom etterforskningen for øvrig gjennomføres av utenlandske myndigheter, og vil kunne trenge bistand fra utlandet både for å få kjennskap til om mistenkte bør underrettes, og for å gjennomføre selve underretningen. Det er videre grunn til å spørre om det i slike saker er rimelig at byrden med å underrette påhviler norske myndigheter.
+
+Departementet ser derfor at det kan være behov for særregler om underretning ved gjensidig bistand i straffesaker, og vil vurdere hvordan de særlige hensyn som gjør seg gjeldende her best kan ivaretas.
+
+Departementet foreslår derfor at Kongen gis hjemmel til å gi særregler om underretning ved gjennomføring av tvangsmidler på begjæring fra utenlandske myndigheter, se forslaget til endringer i § 216 j syvende ledd, jf. § 200 a fjerde ledd, § 202 c syvende ledd, § 208 a annet ledd og § 210 c annet ledd. Det bemerkes i den forbindelse at utleveringsloven § 28 nr. 2 ikke synes å gi tilstrekkelig hjemmel i så henseende. Det samme gjelder straffeprosessloven § 216 k som bare gjelder for kommunikasjonskontroll og romavlytting.
+
+BrøBrø**Kommunikasjonskontroll**
+
+BrøBrø**Gjeldende rett**
+
+BrøBrø**Bakgrunn for dagens regelverk**
+
+BrøAdgangen til å foreta kommunikasjonskontroll ble første gang innført ved lov 24. juni 1915 nr. 5 om kontroll med post- og telegrafforsendelse og med telefonsamtaler. Loven gjaldt opprinnelig kun post- og telegrafkontroll, men ble ved lov 15. desember 1950 nr. 5 utvidet til også å omfatte kontroll med telefonsamtaler. 1915-loven er en fullmaktslov, som gir Kongen eller den han gir fullmakt adgang til å utferdige bestemmelser om kontroll når dette antas påkrevet av hensyn til rikets sikkerhet, jf. § 1. Det sentrale anvendelsesområdet for loven er avdekking av etterretningsvirksomhet rettet mot Norge.
+
+Ut over saker om rikets sikkerhet, ble bruk av kommunikasjonskontroll først tillatt ved midlertidig lov 17. desember 1976 nr. 99 om adgang til telefonkontroll ved etterforskning av overtredelser av narkotikalovgivningen. Loven ga politiet, etter rettens tillatelse, adgang til å avlytte samtaler til og fra bestemte telefoner, teleksanlegg og lignende anlegg for telekommunikasjon som den mistenkte hadde eller kunne antas å ville bruke, jf. § 1 første ledd. Tillatelsen kunne også gjelde innstilling eller avbrytelse av samtaler, stenging av telefoner for samtaler eller pålegg til styrer av telefonsentral om å gi opplysninger om hvilke telefoner som ble eller hadde vært satt i forbindelse med hverandre, jf. § 2.
+
+Den midlertidige lovens anvendelsesområde var begrenset til å gjelde narkotikakriminalitet. Bakgrunnen for den særskilte reguleringen var at narkotikasakene representerte en ny kriminalitetsform som bød på særlige etterforskningsmessige utfordringer. I Ot.prp. nr. 10 (1976–77) punkt 5 side 5 ble behovet omtalt slik:
+
+BrøBrø«Man står her overfor en meget farlig kriminalitet. De grovere former har dessuten en slik karakter at konvensjonelle etterforskingsmetoder lett kommer til kort. Fra politihold hevdes det at man i stor utstrekning bare finner frem til misbrukerne, ikke til de større forbrytere som står bak den illegale virksomhet. Den mer omfattende illegale omsetning av narkotika er gjennomorganisert og drives i stor utstrekning av profesjonelle, ofte internasjonale forbrytere. Forbindelser kontaktes i stor utstrekning via telefon, som bl.a. også brukes til bestillinger. Svenske erfaringer, som det er redegjort for i nyere svenske lovforarbeider (prp. 1975/76:202 og prp. 1975:69) bekrefter betydningen av telefonkontroll som etterforskingsmiddel i narkotikasaker. Det er der bl.a. opplyst at i så godt som alle tilfelle hvor avlytting har funnet sted, har det ført til at en har kunnet gripe inn mot personer som har vært engasjert i illegal narkotikahandel. På denne måten har man fått kartlagt flere vidt forgrente distribusjonskjeder.»
+
+BrøGyldighetstiden for den midlertidige loven om telefonkontroll i narkotikasaker ble forlenget i flere omganger. Reglene ble deretter ved lov 5. juni 1992 nr. 52 gjort permanente og tatt inn i et nytt kapittel 16 a i straffeprosessloven. I den forbindelse uttalte Stortingets justiskomité følgende (Innst.O. nr. 61 (1991–1992) punkt 3.1):
+
+BrøBrø«Komiteens flertall \[…\] vil understreke at telefonavlytting er et ekstraordinært etterforskningsmiddel som bare må tillates brukt ved alvorlig og sterkt samfunnsskadelig kriminalitet der andre etterforskningsmetoder kommer til kort. Etter flertallets oppfatning er narkotikakriminalitet av et slikt omfang og gir så betydelige samfunnsskadelige virkninger at telefonavlytting må kunne benyttes på bestemte vilkår.»
+
+BrøVed lov 3. desember 1999 nr. 82 ble reglene i straffeprosessloven kapittel 16 a endret. Betegnelsen «telefonkontroll» ble erstattet av «kommunikasjonskontroll», for å reflektere at kontrolladgangen er uavhengig av hvilket overføringsmedium som benyttes. Adgangen til å foreta kommunikasjonskontroll ble dessuten utvidet. Bakgrunnen for dette var blant annet endringer i kriminalitetsbildet, samt det særlige behovet for etterforskningsmetoder som melder seg ved såkalt offerløs kriminalitet, jf. Ot.prp. nr. 64 (1998–99) punkt 8.3.1.4 side 45 flg. Fra tidligere kun å gjelde narkotikalovbrudd, ble området for kommunikasjonsavlytting etter straffeprosessloven § 216 a utvidet til å gjelde generelt ved lovbrudd med en strafferamme på fengsel i ti år eller mer. Samtidig ble kommunikasjonsavlytting tillatt ved overtredelser av straffeloven 1902 kapittel 8 (forbrytelser mot statens selvstendighet og sikkerhet) og kapittel 9 (forbrytelser mot Norges statsforfatning og statsoverhode), samt ved brudd på eksportkontrolloven § 5. Området for kommunikasjonskontroll etter straffeprosessloven § 216 b (annen kontroll enn avlytting) ble utvidet til å gjelde generelt for lovbrudd med minst fem års strafferamme, samt ved visse andre lovbrudd – nærmere bestemt overtredelser av straffeloven 1902 kapittel 8 og 9, datainnbrudd, befatning med overgrepsbilder av barn og fredsforstyrrelse.
+
+Reglene om kommunikasjonskontroll ble igjen endret ved lov 17. juni 2005 nr. 87, hvor en bloc-henvisningen til straffeloven 1902 kapittel 8 og 9 ble tatt ut og erstattet med henvisninger til konkrete straffebud. Metodenes anvendelsesområde forble imidlertid i all hovedsak det samme.
+
+BrøBrø**Kommunikasjonsavlytting –**
+**straffeprosessloven § 216 a**
+
+BrøKommunikasjonsavlytting medfører «å avlytte samtaler eller annen kommunikasjon til og fra bestemte telefoner, datamaskiner eller andre anlegg for elektronisk kommunikasjon som den mistenkte besitter eller kan antas å ville bruke», jf. straffeprosessloven § 216 a tredje ledd. Avlytting kan skje av ethvert «anlegg for elektronisk kommunikasjon», uavhengig av hvilke tekniske hjelpemidler eller overføringsmedier som brukes i kommunikasjonen, jf. Ot.prp. nr. 64 (1998–99) punkt 8.4.1.5 side 58–59. Som kommunikasjonsanlegg regnes både telefoner og datamaskiner, men også andre medier som blant annet telefaksmaskiner, personsøkere og nettbrett. Det er dessuten uten betydning på hvilken måte informasjonen transporteres. Avlytting kan dermed skje av kommunikasjon over fastnett og mobilnett, så vel som informasjonsutveksling over satellitt. Derimot gir bestemmelsen ikke adgang til å avlytte kommunikasjon over svært små private nettverk, som for eksempel interne hustelefoner eller calling-anlegg, jf. Ot.prp. nr. 64 (1998–99) punkt 23 side 157. Avlyttingen kan rette seg mot enhver informasjonsutveksling mellom ulike kommunikasjonsanlegg, uavhengig av hvilken form eller hvilket innhold informasjonen måtte ha. Dermed omfattes i tillegg til samtaler også overføring av for eksempel tekst (herunder e-post), bilde eller film.
+
+Som kommunikasjonsavlytting regnes også identifisering av kommunikasjonsanlegg ved hjelp av teknisk utstyr, der dette skjer ved å avlytte samtaler eller annen kommunikasjon, jf. § 216 a tredje ledd siste punktum. Metoden – ofte kalt «temporær masseavlytting» – innebærer at politiet i en bestemt periode lytter til all kommunikasjon i området hvor mistenkte antas å befinne seg. Avlyttingen gjennomføres for å finne identiteten, for eksempel såkalte IMEI- eller IMSI-nummer, til kommunikasjonsanlegg mistenkte benytter. Dette kan brukes med sikte på en senere begjæring om ordinær avlytting av kommunikasjonsanlegget, men også som grunnlag for andre etterforskningsskritt – for eksempel en begjæring om innsyn i abonnementsopplysninger. Fordi temporær masseavlytting også vil ramme utenforstående tredjepersoner, er dette ansett som en særlig inngripende etterforskningsmetode, jf. Ot.prp. nr. 60 (2004–2005) punkt 8.5.3 side 110.
+
+Kommunikasjonsavlytting etter straffeprosessloven § 216 a kan iverksettes dersom noen med skjellig grunn mistenkes for å ha begått en handling eller forsøk på handling som kan medføre fengsel i 10 år eller mer, jf. første ledd bokstav a. Forhøyelse av maksimumsstraffen ved gjentakelse eller sammenstøt av forbrytelser kommer ikke i betraktning. Dersom vilkårene i straffeloven § 79 bokstav c (straffeloven 1902 § 60 a) om organisert kriminalitet er oppfylt, slik at maksimumsstraffen forhøyes til det dobbelte, vil kommunikasjonsavlytting kunne foretas i saker med ned til fem års strafferamme. Adgangen til kommunikasjonsavlytting gjelder etter bokstav b også ved etterforskning av handling som rammes av straffeloven §§ 121, 123, 125, 126, 127 jf. 123, 128 første punktum, 129, 136 a, 231, 332 jf. 231, 335 jf. 231, 337 jf. 231, eller 340 jf. 231 (straffeloven 1902 §§ 90, 91, 91 a, 94 jf. 90, 104 a første ledd annet punktum, eller av § 162 eller § 317, jf. § 162) eller av lov om kontroll med eksport av strategiske varer, tjenester og teknologi m.v. § 5. I utgangspunktet kreves sannsynlighetsovervekt for at mistenkte har begått en handling som objektivt sett svarer til gjerningsbeskrivelsen i det aktuelle straffebudet, at det ikke foreligger noen straffrihetsgrunn og at mistenkte har utvist skyld. Det følger imidlertid av § 216 a annet ledd at kommunikasjonsavlytting kan besluttes selv om det er sannsynlig at mistenkte var utilregnelig på grunn av sinnssykdom eller bevisstløshet, eller under den kriminelle lavalder, jf. straffeloven § 20 første ledd (straffeloven 1902 §§ 44 og 46). Dette gjelder også når tilstanden har medført at mistenkte ikke har utvist skyld.
+
+I tillegg til strafferammekravet i § 216 a oppstiller straffeprosessloven § 216 c visse materielle tilleggsvilkår for bruk av kommunikasjonsavlytting. I henhold til første ledd kan tillatelse bare gis dersom det må antas at avlyttingen vil være av vesentlig betydning for å oppklare saken, og at oppklaring ellers i vesentlig grad ville bli vanskeliggjort. Det første vilkåret oppstiller det såkalte indikasjonskravet, som innebærer at metodebruken må antas å frembringe opplysninger av stor betydning for etterforskningen i saken. Det andre er det såkalte subsidiaritetskravet, som innebærer at kommunikasjonsavlytting ikke skal benyttes der samme resultat må antas å kunne oppnås ved mindre inngripende metoder. Er kommunikasjonsanlegget den mistenkte antas å ville bruke tilgjengelig for et større antall personer, kreves i tillegg «særlige grunner», jf. annet ledd. Det samme gjelder ved avlytting av kommunikasjonsanlegg som tilhører advokat, lege, prest eller andre som erfaringsmessig fører samtaler av svært fortrolig art eller redaktør eller journalist, såfremt vedkommende ikke selv er mistenkt i saken.
+
+Ved siden av de omtalte vilkårene, gjelder det generelle kravet etter straffeprosessloven § 170 a om at tvangsmidler bare kan brukes når det er tilstrekkelig grunn til det, og inngrepet etter sakens art og forholdene ellers ikke vil være uforholdsmessig.
+
+BrøBrø**Annen kontroll av kommunikasjonsanlegg – straffeprosessloven § 216 b**
+
+BrøStraffeprosessloven § 216 b åpner for at retten kan gi politiet tillatelse til å foreta annen kontroll av kommunikasjonsanlegg enn kommunikasjonsavlytting. Til forskjell fra avlytting etter § 216 a, gir bestemmelsen ingen hjemmel for kontroll av *innholdet* i kommunikasjonen. Kontroll etter § 216 b kan for det første gå ut på å innstille eller avbryte kommunikasjon til eller fra bestemte anlegg som mistenkte besitter eller kan antas å ville bruke, jf. annet ledd bokstav a. Det samme gjelder å stenge anlegget for kommunikasjon (bokstav b), eller å identifisere kommunikasjonsanlegg ved hjelp av teknisk utstyr (bokstav c). Sistnevnte alternativ ble tilføyet ved lov 17. juni 2005 nr. 87, og gir politiet adgang til å bruke peileutstyr eller andre tekniske innretninger for å identifisere telefoner og andre kommunikasjonsanlegg. Etter annet ledd bokstav d kan kommunikasjonskontroll dessuten gå ut på å pålegge eier eller tilbyder av nett eller tjeneste som benyttes ved kommunikasjonen, å gi politiet opplysninger om hvilke kommunikasjonsanlegg som i et bestemt tidsrom skal settes eller har vært satt i forbindelse med anlegg som mistenkte besitter eller kan antas å ville bruke – såkalte trafikkdata. Adgangen omfatter historiske og fremtidige trafikkdata, så vel som andre data knyttet til kommunikasjonen – for eksempel opplysninger om samtalens varighet, mobiltelefoners geografiske plassering idet samtalen finner sted eller hvem som var logget på en datamaskin på det tidspunkt den ble benyttet til kommunikasjon.
+
+Kommunikasjonskontroll etter straffeprosessloven § 216 b kan iverksettes når noen med skjellig grunn mistenkes for å ha begått en handling eller forsøk på handling som kan medføre fengsel i fem år eller mer, jf. første ledd bokstav a. Dersom vilkårene i straffeloven § 79 bokstav c (straffeloven 1902 § 60 a) er oppfylt, vil slik kontroll av kommunikasjonsanlegg kunne foretas i saker med tre års strafferamme. Tillatelse kan også gis dersom handlingen rammes av straffeloven §§ 121, 123, 125, 126, 127 jf. 123, 128 første punktum, 198, 231, 266, 306, 311, 332 jf. 231, 335 jf. 231, 337 jf. 231, eller 340 jf. 231 (straffeloven 1902 §§ 90, 91, 91 a, 94 jf. 90, 145 annet ledd, 162, 162 c, 201 a, 204 a, 317, jf. §§ 162 eller 390 a). Forhøyelse av straffen ved gjentakelse eller sammenstøt av lovbrudd tas ikke i betraktning.
+
+Som for kommunikasjonsavlytting etter straffeprosessloven § 216 a er det krav om at kommunikasjonskontrollen vil være av vesentlig betydning for å oppklare saken, og at oppklaring ellers i vesentlig grad vil bli vanskeliggjort, jf. straffeprosessloven § 216 c første ledd. Likeledes gjelder kravet om særlige grunner ved kontroll av anlegg som er tilgjengelig for et større antall personer, eller som tilhører advokat, lege, prest mv. Kravet til særlige grunner gjelder likevel ikke ved identifisering av kommunikasjonsanlegg ved hjelp av teknisk utstyr som nevnt i § 216 b annet ledd bokstav c, jf. § 216 c siste ledd.
+
+Også for kommunikasjonskontroll etter straffeprosessloven § 216 b gjelder dessuten det alminnelige kravet om forholdsmessighet etter § 170 a.
+
+BrøBrø**Prosessuelle garantier ved bruk av kommunikasjonskontroll**
+
+BrøI tillegg til de omtalte materielle vilkår finnes det en rekke prosessuelle garantier som skal ivareta hensynet til personvern og rettssikkerhet ved bruk av kommunikasjonskontroll etter straffeprosessloven §§ 216 a og 216 b. For begge former for kontroll gjelder en hovedregel om at inngrepet skal besluttes av retten. Påtalemyndigheten er imidlertid gitt hastekompetanse i tilfeller hvor det ved opphold er stor fare for at etterforskningen vil lide, jf. § 216 d første ledd. Påtalemyndighetens beslutning skal i så fall snarest mulig, og senest innen 24 timer etter at kontrollen ble påbegynt, forelegges retten for godkjennelse.
+
+Det følger av straffeprosessloven § 216 f at tillatelse til kommunikasjonskontroll gis for et bestemt tidsrom, som ikke må være lenger enn strengt nødvendig og maksimalt fire uker om gangen. Gjelder mistanken overtredelse av straffeloven kapittel 17 (straffeloven 1902 kapittel 8 eller 9), kan tillatelsen likevel gis for inntil åtte uker om gangen dersom fornyet prøving etter fire uker ville være uten betydning. Uansett hvilken tidsbegrensning retten har fastsatt, skal inngrepet avbrytes dersom vilkårene ikke lenger antas å være oppfylt eller kontrollen ikke lenger anses hensiktsmessig, jf. § 216 f siste ledd. Det gjelder ingen begrensning for hvor mange ganger politiet kan begjære forlengelse av kommunikasjonskontrollen, og således heller ingen absolutt grense for hvor lenge kontrollen totalt kan pågå. Lengden vil imidlertid være et sentralt moment i forholdsmessighetsvurderingen etter straffeprosessloven § 170 a.
+
+Bruk av kommunikasjonskontroll innebærer vanligvis at også en del ikke-etterforskningsrelevant informasjon samles inn. For å ivareta personvernhensyn inneholder straffeprosessloven § 216 g regler om sletting av overskuddsmateriale. Bestemmelsen ble endret ved lov 21. juni 2013 nr. 86, og foreskriver nå at materiale som ikke er fremlagt som bevis skal slettes ved rettskraftig dom dersom det åpenbart er uten betydning for saken, og ellers sperres. Dersom saken henlegges, skal materiale fra kommunikasjonskontroll som hovedregel slettes. Påtalemyndigheten kan likevel beslutte at materialet i stedet skal sperres, dersom det er grunn til å regne med at siktede vil kreve erstatning i anledning av forfølgning eller at materialet kan få vesentlig betydning for senere etterforskning eller forebygging. Opplysninger omfattet av vitneforbud eller -fritak etter straffeprosessloven §§ 117 til 120 og 122, skal i alle tilfelle slettes så snart som mulig. De omtalte lovendringene har foreløpig ikke trådt i kraft.
+
+Ved siden av alminnelig domstolskontroll overvåkes politiets bruk av kommunikasjonskontroll av Kontrollutvalget for kommunikasjonskontroll, jf. straffeprosessloven § 216 h. Utvalget kontrollerer at politiets bruk av kommunikasjonskontroll skjer innenfor rammen av lov og instrukser, at bruken av kommunikasjonskontroll begrenses mest mulig, og at kommunikasjonskontroll ikke skjer av hensyn til etterforskning i andre saker enn dem som er nevnt i straffeprosessloven § 216 a eller § 216 b. Videre kontrolleres at opplysningene fra kommunikasjonskontrollen brukes på lovlig måte, og at reglene om oppbevaring og sletting blir fulgt. Utvalget skal også påse at bestemmelser om taushetsplikt blir fulgt, jf. forskrift 31. mars 1995 nr. 281 om kommunikasjonskontroll § 14.
+
+Kontrollutvalget for kommunikasjonskontroll avgir årlige rapporter, hvor politiets bruk av kommunikasjonskontroll foregående år vurderes. I rapporten for 2014 konkluderte utvalget med at politiets bruk av metoden gjennomgående er forsvarlig og godt begrunnet. Konklusjonen er den samme som tidligere år.
+
+BrøBrø**Folkerettslige forpliktelser**
+
+BrøBrø**Kommunikasjonsavlytting**
+
+BrøInngrep overfor enkeltpersoner i form av kontroll av deres kommunikasjon, berører verdier som er beskyttet av EMK artikkel 8 og SP artikkel 17. Departementet legger til grunn at innholdet i SP artikkel 17 i sin helhet er dekket også av EMK artikkel 8, og vil i det følgende begrense omtalen til den sistnevnte bestemmelsen.
+
+Artikkel 8 beskytter retten til respekt for privatliv og familieliv, hjem og korrespondanse. Det er på det rene at beskyttelsen også omfatter fortroligheten i samtaler som føres over telefon. Dette fremgår av EMDs avgjørelse i saken *Klass m.fl. mot Tyskland* 6. september 1978 (sak 5029/71), hvor domstolen i avsnitt 41 uttaler:
+
+BrøBrø«Although telephone conversations are not expressly mentioned in paragraph 1 of Article 8 (art. 8-1), the Court considers, as did the Commission, that such conversations are covered by the notions of “private life” and “correspondence” referred to by this provision.»
+
+BrøEttersom telefonsamtaler er beskyttet av artikkel 8 nr. 1, representerer myndighetsorganers avlytting av disse et inngrep i innbyggernes rett til respekt for privatliv og korrespondanse, jf. også plenumssaken *Malone mot Storbritannia* 2. august 1984 (sak 8691/79) avsnitt 64. Det samme gjelder for andre former for elektronisk kommunikasjon, herunder blant annet «facsimile and e-mail communications», jf. *Liberty m.fl. mot Storbritannia* 1. juli 2008 (sak 58243/00). Dette betyr at politiets avlytting av kommunikasjonsanlegg etter straffeprosessloven § 216 a i utgangspunktet utgjør et inngrep i EMK artikkel 8.
+
+I sin praksis har imidlertid EMD gått ett skritt lenger og funnet at selve forekomsten av lovgivning som tillater kommunikasjonsavlytting utgjør et inngrep i artikkel 8. I den nevnte *Klass-*saken er dette formulert på følgende måte (avsnitt 41):
+
+BrøBrø«Clearly, any of the permitted surveillance measures, once applied to a given individual, would result in an interference by a public authority with the exercise of that individual’s right to respect for his private and family life and his correspondence. Furthermore, in the mere existence of the legislation itself there is involved, for all those to whom the legislation could be applied, a menace of surveillance; this menace necessarily strikes at freedom of communication between users of the postal and telecommunication services and thereby constitutes an “interference by a public authority” with the exercise of the applicants’ right to respect for private and family life and for correspondence.»
+
+BrøPrinsippet er fulgt opp i andre saker, herunder plenumsavgjørelsen i *Malone*-saken nevnt ovenfor (avsnitt 64).
+
+Ettersom kommunikasjonsavlytting utgjør et inngrep i retten til respekt for privatliv og korrespondanse etter EMK artikkel 8 nr. 1, kan den bare skje innenfor de rammer som er oppstilt i artikkel 8 nr. 2. Bestemmelsen krever for det første at inngrepet må ha hjemmel i lov. Lovkravet omfatter i hovedsak to ulike aspekter. Dels stilles det krav til hjemmelens tilgjengelighet og dels et krav til presisjon. Førstnevnte krav skal sikre at loven er tilgjengelig for borgerne og gir en tilstrekkelig grad av forutsigbarhet. Det fremgår av saken *Kennedy mot Storbritannia* 18. mai 2010 (sak 26839/05) at vilkåret om forutsigbarhet blant annet innebærer at det må fremgå klart hvilke kriminelle handlinger som kan danne grunnlag for bruk av kommunikasjonsavlytting. Domstolen uttaler i avsnitt 159:
+
+BrøBrø«As to the nature of the offences, the Court emphasises that the condition of foreseeability does not require States to set out exhaustively by name the specific offences which may give rise to interception. However, sufficient detail should be provided of the nature of the offences in question.»
+
+BrøI tillegg til kravet om lovhjemmel må det aktuelle inngrepet være nødvendig i et demokratisk samfunn av hensyn til visse nærmere angitte formål. Som legitime formål regnes blant annet myndighetenes forebygging av uorden eller kriminalitet. Inngrepet som iverksettes må dessuten være forholdsmessig sett hen til formålet. Det er på det rene at kommunikasjonsavlytting etter omstendighetene kan anses som et nødvendig og forholdsmessig virkemiddel i politiets arbeid, jf. blant annet *Malone*-saken avsnitt 81.
+
+Med hensyn til hva slags kriminalitet som kan begrunne bruk av kommunikasjonsavlytting, foreligger ikke spesifikke retningslinjer fra EMD. Det vil følgelig være kravet om forholdsmessighet som i første rekke setter grenser. Det er grunn til å tro at statene har en ikke ubetydelig skjønnsmargin på dette punktet, men rettspraksis indikerer at det likevel går en grense for hvor mange og hva slags lovbrudd som kan begrunne kommunikasjonsavlytting. I saken *Iordachi m.fl. mot Moldova* 10. februar 2009 (sak 25198/02) uttalte EMD seg om en moldovisk lov som ga adgang til å iverksette avlytting ved over halvparten av straffebudene i straffeloven. Det var derfor gitt tillatelse til et meget høyt antall avlyttinger. Domstolen uttalte (avsnitt 51):
+
+BrøBrø«\[T\]he Court considers it necessary to stress that telephone tapping is a very serious interference with a person’s rights and that only very serious reasons based on a reasonable suspicion that the person is involved in serious criminal activity should be taken as a basis for authorising it.»
+
+BrøDet følger av dette at kommunikasjonsavlytting bør reserveres for saker som gjelder alvorlig kriminalitet («serious criminal activity»).
+
+På grunn av den særlige misbruksfaren ved bruk av kommunikasjonsavlytting, har domstolen i sin praksis også stilt krav om prosessuelle garantier mot misbruk, jf. *Malone*-saken avsnitt 81. Slike garantier kan blant annet være domstolskontroll eller annen uavhengig kontroll med myndighetenes bruk av tiltak som medfører avlytting.
+
+BrøBrø**Kontroll av trafikkdata**
+
+BrøOgså annen kontroll av elektronisk kommunikasjon enn avlytting vil i utgangspunktet medføre et inngrep i EMK artikkel 8. EMDs praksis gir imidlertid grunnlag for å anta at kontroll som ikke innebærer at innholdet i kommunikasjonen fanges opp, behandles på en noe annen måte enn avlytting. I den tidligere nevnte *Malone*-saken uttalte domstolen seg om de engelske reglene om såkalt «metering» (avsnitt 84):
+
+BrøBrø«As the Government rightly suggested, a meter check printer registers information that a supplier of a telephone service may in principle legitimately obtain, notably in order to ensure that the subscriber is correctly charged or to investigate complaints or possible abuses of the service. By its very nature, metering is therefore to be distinguished from interception of communications, which is undesirable and illegitimate in a democratic society unless justified.»
+
+BrøDomstolen aksepterte imidlertid ikke statens anførsel om at innhenting av trafikkdata overhodet ikke kunne utgjøre et inngrep etter artikkel 8:
+
+BrøBrø«The Court does not accept, however, that the use of data obtained from metering, whatever the circumstances and purposes, cannot give rise to an issue under Article 8 (art. 8). The records of metering contain information, in particular the numbers dialled, which is an integral element in the communications made by telephone. Consequently, release of that information to the police without the consent of the subscriber also amounts, in the opinion of the Court, to an interference with a right guaranteed by Article 8 (art. 8).»
+
+BrøUttalelsene medfører at også kommunikasjonskontroll etter straffeprosessloven § 216 b normalt vil utgjøre et inngrep i retten til respekt for privatliv og korrespondanse etter EMK artikkel 8. Den kan følgelig bare skje innenfor rammene som oppstilles i artikkel 8 nr. 2. Ettersom kontroll etter bestemmelsen er mindre inngripende enn avlytting etter § 216 a, vil likevel vurderingen av tiltakets nødvendighet og forholdsmessighet kunne være noe annerledes.
+
+BrøBrø**Andre lands rett**
+
+BrøBrø**Dansk rett**
+
+BrøEtter den danske retsplejeloven § 780 kan politiet foreta såkalt «indgreb i meddelelseshemmeligheden». Inngrep kan skje i form av avlytting av telefonsamtaler eller annen tilsvarende telekommunikasjon («telefonaflytning») eller avlytting av andre samtaler eller uttalelser ved hjelp av et apparat («anden aflytning»). Videre kan politiet uten innehaverens tillatelse innhente opplysninger om hvilke telefoner eller andre tilsvarende kommunikasjonsapparater som settes i forbindelse med en bestemt telefon eller annet kommunikasjonsapparat («teleoplysning»), samt innhente opplysninger om hvilke telefoner eller andre tilsvarende kommunikasjonsapparater som settes i forbindelse med andre telefoner eller kommunikasjonsapparater innenfor et nærmere angitt område («udvidet teleoplysning»).
+
+De nærmere vilkår for inngrep i meddelelseshemmeligheten fremgår av retsplejeloven § 781. Ifølge bestemmelsen forutsetter bruk av metoden for det første at det er bestemte grunner til å anta at det på den aktuelle måte gis meddelelser til eller fra en mistenkt. Vilkåret gjelder ikke for utvidet teleopplysning, jf. § 781, stk. 5, annet punktum. Videre kreves at inngrepet må antas å være av avgjørende betydning for etterforskningen (indikasjonskravet), og det oppstilles krav til den straffbare handling som etterforskes. Som hovedregel kan inngrep i meddelelseshemmeligheten iverksettes dersom etterforskningen gjelder et lovbrudd som etter loven kan straffes med fengsel i seks år eller mer. I tillegg kan metoden benyttes ved forbrytelser mot statens sikkerhet og selvstendighet (straffeloven kapittel 12), mot statsforfatningen og de øverste statsmyndighetene (kapittel 13), befrielse fra fengsel og bistand til rømte (§ 124, stk. 2), unndragelse fra militærtjeneste (§ 125), driftsforstyrrelser (§ 127, stk. 1), bordellvirksomhet (§ 228), overgrepsbilder av barn (§ 235), utpressing (§ 266), trusler (§ 281) og menneskesmugling (udlændigeloven § 59, stk. 7, nr. 1 til 5).
+
+Telefonavlytting og teleopplysning kan etter § 781, stk. 2 også benyttes i saker som gjelder datakriminalitet som omhandlet i straffeloven § 263, stk. 2. Straffebudet rammer den som uberettiget skaffer seg adgang til en annens opplysninger eller programmer som er bestemt til å brukes i et informasjonssystem. Teleopplysning kan dessuten benyttes dersom det foreligger begrunnet mistanke om at en person har krenket en annens fred ved å forfølge eller sjenere ham eller henne ved personlig, muntlig eller skriftlig henvendelse, eller om annet straffbart forhold som kan sidestilles med slik fredskrenkelse, jf. retsplejeloven § 781, stk. 3 jf. lov om tilhold, opholdsforbud og bortvisning § 2, stk. 1. Det samme gjelder ved mistanke om overtredelse av straffeloven § 279 a (databedrageri) eller § 293, stk. 1 (uberettiget bruk av ting som tilhører en annen), når den er begått ved bruk av telekommunikasjonstjeneste, samt lov om værdipapirhandel m.v. § 35, stk. 1 (innsidehandel), § 36 (videreformidling av innsideopplysninger) eller § 39, stk. 1 (kursmanipulasjon).
+
+For annen avlytting enn telefonavlytting, samt for utvidet teleopplysning, gjelder et tilleggsvilkår om at forbrytelsen har medført eller kan medføre fare for menneskers liv eller velferd, jf. retsplejeloven § 781, stk. 5. For alle former for inngrep i meddelelseshemmeligheten gjelder dessuten etter § 782, stk. 1 et generelt forholdsmessighetskrav.
+
+Telefonavlytting eller annen avlytting kan ikke foretas av den mistenktes kommunikasjon med personer som etter retsplejeloven § 170 er avskåret fra å gi forklaring som vitne – herunder prester, leger, forsvarere mv. Unntaket gjelder ikke for teleopplysning, ettersom metoden ikke avslører selve innholdet i kommunikasjonen.
+
+Kompetansen til å tillate inngrep i meddelelseshemmeligheten tilligger retten, som fatter sin avgjørelse ved kjennelse, jf. retsplejeloven § 783, stk. 1. Tillatelsen gis for et bestemt tidsrom som skal være så kort som mulig, og ikke overstige fire uker. Politiet er imidlertid gitt hastekompetanse dersom inngrepets hensikt ville forspilles ved å vente på rettens kjennelse, jf. § 783, stk. 4. Politiets beslutning skal forelegges retten så snart som mulig, og senest innen 24 timer etter at inngrepet ble iverksatt. Dersom retten finner at inngrepet ikke burde vært foretatt, skal det rapporteres til Justisministeriet.
+
+Rettens kjennelse skal i henhold til § 783, stk. 1 angi de telefonnumre, lokasjoner, adressater eller forsendelser som inngrepet angår. Dersom etterforskningen gjelder visse særlig alvorlige lovbrudd, kan angivelsen i stedet knyttes til en person (den mistenkte), jf. stk. 2. I så fall skal politiet etter utløpet av tillatelsen underrette retten om de telefonnumre som inngrepet har vært rettet mot, og som ikke er angitt i kjennelsen.
+
+Etter § 784 skal det ved bruk av inngrep i meddelelseshemmeligheten oppnevnes særskilt advokat for mistenkte.
+
+BrøBrø**Svensk rett**
+
+BrøI svensk rett skilles det mellom «hemlig avlyssning» og «hemlig övervakning» av elektronisk kommunikasjon. Hemmelig avlytting innebærer etter rättegångsbalken 27 kap. 18 § at meddelelse som i et elektronisk kommunikasjonsnett overføres eller har blitt overført til eller fra et telefonnummer eller annen adresse, i hemmelighet avlyttes eller tas opp ved bruk av teknisk hjelpemiddel for gjengivelse av innholdet i meddelelsen. Slik avlytting er tillatt i etterforskningen av lovbrudd som har en minstestraff på minst to års fengsel, samt ved enkelte former for særlig samfunnsfarlig kriminalitet, jf. 18 § 2 mom. Det samme gjelder ved forsøk, forberedelse eller forbund, dersom slike handlinger er straffbare. Avlytting kan også benyttes ved lovbrudd med en lavere minstestraff, såfremt straffeutmålingen i det aktuelle tilfellet kan antas å overstige fengsel i to år. Denne såkalte «straffvärdeventilen» er ment å fange opp alvorlige tilfeller hvor sannsynlig straffenivå i betydelig grad overstiger minstestraffen, og det derfor er særlig viktig med en effektiv etterforskning, jf. prop. 2002/03:74 punkt 6.1 side 33.
+
+Ifølge 27 kap. 19 § innebærer hemmelig overvåkning av elektronisk kommunikasjon at det i hemmelighet hentes inn opplysninger om meddelelser som overføres eller har blitt overført til eller fra et telefonnummer eller annen adresse i et elektronisk kommunikasjonsnett, om hvilke elektroniske kommunikasjonsinnretninger som har vært innenfor et visst geografisk område, eller om hvilket geografisk område en viss elektronisk kommunikasjonsinnretning er eller har vært i. Hemmelig overvåkning kan også bestå i at elektronisk kommunikasjon fra slike meddelelser hindres i å nå frem, jf. 19 § 2 mom. Hemmelig overvåkning av elektronisk kommunikasjon kan benyttes i etterforskningen av lovbrudd med en minstestraff på seks måneders fengsel, samt ved visse særskilte angitte straffebud. De aktuelle straffebudene gjelder datainnbrudd, overgrepsbilder av barn av en viss alvorlighet, narkotikalovbrudd og narkotikasmugling, samt enkelte former for særlig samfunnsfarlig kriminalitet. Også forsøk, forberedelse eller forbund er omfattet, dersom slike handlinger i seg selv er straffbare.
+
+Det følger av 27 kap. 18 § 3 mom. at en tillatelse til hemmelig avlytting etter 18 § også gir anledning til å iverksette hemmelig overvåking som nevnt i 19 §.
+
+Hemmelig kommunikasjonsavlytting eller -overvåking kan som hovedregel bare benyttes dersom noen er skjellig mistenkt for lovbruddet og inngrepet er av «synnerlig vikt» for etterforskningen, jf. 27 kap. 20 §. I tillegg foreskriver 27 kap. 1 § et alminnelig forholdsmessighetskrav, hvoretter tvangsmidler bare kan benyttes dersom «skälen för åtgärden uppväger det intrång eller men i övrigt som åtgärden innebär för den misstänkte eller för något annat motstående intresse».
+
+Tillatelsen til hemmelig avlytting eller overvåking kan bare omfatte telefonnummer eller annen adresse eller kommunikasjonsinnretning som mistenkte innehar eller har innehatt i tiden for tillatelsen, eller som på annen måte kan antas å ha vært anvendt eller ville bli anvendt av den mistenkte. Alternativt kan tillatelsen omfatte telefonnummer eller annen adresse eller kommunikasjonsinnretning som det er særlig grunn til å anta at den mistenkte har kontaktet eller kommer til å kontakte i løpet av tidsrommet tillatelsen er gitt for. Ut over dette kan hemmelig overvåking – men ikke avlytting – brukes med det formål å avgjøre hvem som med skjellig grunn kan mistenkes for lovbruddet, dersom det er av særlig betydning for etterforskningen, jf. 27 kap. 20 § 2 mom. Slik tvangsmiddelbruk forutsetter imidlertid at de strengere vilkårene for avlytting etter 18 § 2 mom. er til stede, jf. 19 § 4 mom. Overvåking som innebærer at det innhentes opplysninger om meddelelser, kan bare gjelde historiske opplysninger. Avlytting eller overvåking kan ellers ikke omfatte meddelelser som bare overføres eller har blitt overført i elektronisk kommunikasjonsnett som på grunn av sitt begrensede omfang og omstendighetene for øvrig må anses å være av mindre betydning fra et allment kommunikasjonssynspunkt, jf. 20 § 3 mom.
+
+Beslutning om å tillate kommunikasjonsavlytting eller -overvåking fattes av retten, jf. 27 kap. 21 §. I rettens beslutning skal det fremgå hvilket tidsrom tillatelsen gjelder. Dette tidsrommet kan ikke være lenger enn nødvendig og høyst én måned. Påtalemyndigheten er gitt hastekompetanse i tilfeller der innhenting av rettens tillatelse ville medføre en forsinkelse som er av vesentlig betydning for etterforskningen, jf. 27 kap. 21 a §. Påtalemyndighetens beslutning skal i så fall forelegges retten for prøving.
+
+Beslutning om å tillate kommunikasjonsavlytting eller -overvåking skal etter 21 § 2 mom. angi hvilket telefonnummer eller annen adresse, hvilken elektronisk kommunikasjonsinnretning eller hvilket geografisk område tillatelsen gjelder. Det skal videre angis særskilt om metoden kan iverksettes utenfor allment tilgjengelige elektroniske kommunikasjonsnett, jf. 3 mom.
+
+BrøBrø**Finsk rett**
+
+BrøBruk av hemmelige tvangsmidler er regulert i 10 kap. i tvångsmedellagen 2011/806, som trådte i kraft 1. januar 2014. Såkalt «teleavlyssing» er i 10 kap. 3 § definert som at en meddelelse som tas imot av eller sendes fra en viss teleadresse eller teleterminalutrustning gjennom et allment kommunikasjonsnett eller nett som er koblet til et slikt, avlyttes, tas opp eller på annen måte behandles for å undersøke innholdet i meddelelsen og identifiseringsopplysninger knyttet til den. Teleavlytting kan bare rettes mot meddelelser fra eller tiltenkt en person som er mistenkt for et lovbrudd.
+
+Kravet til den straffbare handling ved bruk av teleavlytting fremgår av 10 kap. 3 § 2 mom. flg. Det er her ikke angitt noe generelt strafferammekrav, men opplistet en rekke lovbrudd som kan danne grunnlag for avlytting. Opplistingen nevner blant annet folkemord og folkemordrelaterte forbrytelser, forbrytelser mot rikets sikkerhet, forræderi, seksuell utnyttelse av barn, drap, menneskehandel, samt visse vinningslovbrudd og narkotikalovbrudd.
+
+Beslutning om teleavlytting treffes av domstolen på begjæring fra en pågripelsesbemyndiget tjenestemann, jf. 10 kap. 5 § 1 mom. Tillatelse kan gis for høyst en måned av gangen, jf. 2 mom.
+
+«Teleövervakning» reguleres i tvångsmedelslagen 10 kap. 6 §. Metoden innebærer at identifiseringsopplysninger om en meddelelse som har blitt sendt fra eller til en teleadresse eller teleterminalinnretning som er koblet til et allment kommunikasjonsnett eller nett som er koblet til et slikt, hentes inn, eller at opplysninger om en teleadresse eller teleterminalinnretning hentes inn eller blir forhindret brukt. Tillatelsen kan gjelde en teleadresse eller teleterminalinnretning som en mistenkt besitter eller på annen måte kan antas å bruke. Metoden kan benyttes i etterforskningen av lovbrudd med en strafferamme på minst fire års fengsel, samt ved lovbrudd som er begått ved bruk av en teleadresse eller teleterminalinnretning dersom strafferammen er minst to år. I tillegg kan teleovervåking benyttes i etterforskningen av visse særskilt angitte lovbrudd, herunder hallikvirksomhet, narkotikalovbrudd, forberedelse til terrorvirksomhet, grov tollkriminalitet og grov skjuling av ulovlig utbytte, jf. 6 § 2 mom.
+
+Beslutning om teleovervåking treffes av retten på begjæring fra en pågripelsesbemyndiget tjenestemann, jf. 9 §. Pågripelsesbemyndigede tjenestemenn er imidlertid gitt hastekompetanse i tilfeller der spørsmålet ikke kan utsettes. Tillatelse til teleovervåking gis for høyst en måned av gangen.
+
+BrøBrø**Islandsk rett**
+
+BrøReglene om telefonavlytting og lignende inngrep finnes i straffeprocessloven kapitel 11. Inngrep kan etter § 80 bestå i å pålegge et teleselskap å gi opplysninger om telefonsamtaler eller annen kommunikasjon i en bestemt telefon, datamaskin eller annet kommunikasjonsapparat. Videre kan politiet etter § 81 pålegge teleselskapet å tillate avlytting eller opptak av telefonsamtaler eller annen tilsvarende telekommunikasjon med et bestemt kommunikasjonsapparat, eller kommunikasjonsapparat som tilhører en bestemt person eller som vedkommende har rådighet over. Likeledes kan politiet gis tillatelse til å avlytte telekommunikasjon og foreta opptak av denne med utstyr som er beregnet til dette formål.
+
+For bruk av de her nevnte metoder er det en forutsetning at inngrepet skjer som ledd i etterforskningen av en sak. Videre må inngrepet antas å gi opplysninger som anses for å være av vesentlig betydning for etterforskningen, jf. § 83, stk. 2. For avlytting og opptak som nevnt i § 81, er det dessuten et vilkår at saken gjelder lovbrudd som kan straffes med fengsel i åtte år eller mer, eller at vektige samfunnsinteresser eller private interesser gjør inngrepet påkrevet. Beslutning om inngrep treffes av retten ved kjennelse for en periode på inntil fire uker av gangen, jf. § 84.
+
+BrøBrø**Kravet til den straffbare handling**
+
+BrøBrø**Generelt**
+
+BrøSom det fremgår av proposisjonen punkt 6.1.4 mener departementet at adgangen til å benytte skjulte etterforskningsmetoder fremdeles bør være knyttet til det enkelte straffebuds øvre strafferamme. Dette gjelder også for kommunikasjonskontroll etter straffeprosessloven § 216 a og § 216 b. Visse kriminalitetsformer representerer imidlertid en slik etterforskningsmessig utfordring at det er nødvendig å tillate ekstraordinære metoder selv om strafferammekravet ikke er oppfylt. For kommunikasjonskontroll er behovet reflektert ved at straffeprosessloven § 216 a og § 216 b opplister visse enkeltstraffebud som kan begrunne slik metodebruk, uavhengig av strafferamme (begge bestemmelser første ledd bokstav b).
+
+Metodekontrollutvalget behandler i sin utredning punkt 16.4 side 184 flg. kravet til den straffbare handling ved bruk av kommunikasjonskontroll. Det vurderes her om det er grunn til å *innsnevre* gjeldende adgang til kommunikasjonskontroll i etterforskningen, eller om man bør *utvide* adgangen til å gjelde flere straffebud enn i dag. Departementet vurderer utvalgets konklusjoner i punkt 7.4.2 flg. Etter høringsrunden har departementet dessuten funnet grunn til å vurdere behovet for kommunikasjonskontroll ved enkelte andre typer lovbrudd enn dem utvalget behandler.
+
+BrøBrø**Narkotikaovertredelse**
+
+BrøBrø*Gjeldende rett*
+
+BrøStraffeloven § 231 gjelder simpel narkotikaovertredelse. Bestemmelsen rammer den som «ulovlig tilvirker, innfører, utfører, erverver, oppbevarer, sender eller overdrar stoff som etter regler med hjemmel i legemiddelloven § 22 er å anse som narkotika». Bruk og besittelse rammes ikke av straffeloven, men av de mildere bestemmelsene i legemiddelloven. Strafferammen for simpel narkotikaovertredelse er bøter eller fengsel inntil to år. Bestemmelsen er en videreføring av straffeloven 1902 § 162 første ledd, med samme strafferamme.
+
+Med en øvre strafferamme på to års fengsel tilfredsstiller straffeloven § 231 (straffeloven 1902 § 162 første ledd) i utgangspunktet ikke strafferammekravet for bruk av kommunikasjonsavlytting etter straffeprosessloven § 216 a eller annen kontroll av kommunikasjonsanlegg etter § 216 b. I begge bestemmelser er imidlertid § 231 i sin helhet tatt med i oppregningen av straffebud som kan gi grunnlag for slik metodebruk.
+
+BrøBrø*Metodekontrollutvalgets forslag*
+
+BrøMetodekontrollutvalget vurderer i sin utredning punkt 16.4.2 side 184–185 om adgangen til å benytte kommunikasjonskontroll ved simple narkotikaovertredelser bør oppheves. Det peker på at strafferammen klart skiller seg fra utgangspunktet om at kommunikasjonsavlytting og annen kommunikasjonskontroll bare kan brukes ved mistanke om lovbrudd som kan straffes med fengsel i henholdsvis ti og fem år. Utvalget fremhever videre at det ikke er en tilstrekkelig begrunnelse for å beholde adgangen, at narkotikakriminalitet har vært inkludert siden det først ble åpnet for telefonkontroll ved midlertidig lov 17. desember 1976 nr. 99 om adgang til telefonkontroll ved etterforskning av overtredelser av narkotikalovgivningen.
+
+Utvalget legger til grunn at kommunikasjonskontroll normalt ikke brukes ved mistanke om simpel narkotikaovertredelse, og at slik metodebruk lett ville bli ansett uforholdsmessig i lys av straffeprosessloven § 170 a. Etter utvalgets oppfatning kan det likevel tenkes situasjoner hvor bruk av kommunikasjonskontroll kan aksepteres, eksempelvis ved mistanke om salg til mindreårige. Det vises herunder til en høringsuttalelse fra politimesteren i Narvik, som ble avgitt i forbindelse med Metodeutvalgets utredning i NOU 1997: 15. Politimesteren uttalte her (gjengitt i Ot.prp.nr. 64 (1998–99) punkt 8.3.1.3 side 43):

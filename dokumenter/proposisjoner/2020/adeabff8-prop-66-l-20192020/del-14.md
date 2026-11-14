@@ -1,878 +1,294 @@
-# Prop. 66 L (2019–2020), del 14 av 16 (side 145–155)
+# Prop. 66 L (2019–2020), del 14 av 16
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2020/adeabff8-prop-66-l-20192020.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-66-l-20192020/id2696290/
 - Original-PDF: https://www.regjeringen.no/contentassets/ebc345549f9f441e9dcee7a91fb214dc/no/pdfs/prp201920200066000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 145]
-
-2019–2020
-
-143
-
-Prop. 66 L
-
-Endringer i straffeloven mv. (avvergingsplikt, utenomrettslig tvangsekteskap, diskrimineringsvern, skyting mot politiet mv.)
-
-ved lov. Dersom påtalen ikke er ubetinget offentlig, skal det fremgå av tiltalebeslutningen at vilkårene for offentlig påtale foreligger, jf. straffeprosessloven § 252 annet ledd og påtaleinstruksen
-§ 22-1 annet ledd.
-I straffeloven 2005 er ordningen med påtalebegjæring fra fornærmede som et vilkår for
-påtale avskaffet, jf. Ot.prp. nr. 90 (2003–2004)
-punkt 4.1.5.4. Både i straffeloven og i spesiallovgivningen er det gjort unntak fra utgangspunktet
-i straffeprosessloven § 62 a første ledd om at
-påtale er ubetinget offentlig. I noen tilfeller vil
-offentlig påtale være betinget av begjæring fra
-særskilt offentlig myndighet, jf. Ot.prp. nr. 22
-(2008–2009) punkt 14.5. Videre vil det kunne
-være et vilkår for påtale at allmenne hensyn tilsier det, se f.eks. straffeloven § 5 (straffelovgivningens anvendelse på handlinger i utlandet)
-siste ledd. I slike tilfeller følger det av straffeprosessloven § 252 annet ledd og påtaleinstruksen
-§ 22-1 annet ledd at det skal fremgå av tiltalebeslutningen at det foreligger begjæring fra særskilt offentlig myndighet eller at kompetent
-påtalemyndighet har vurdert og funnet at «allmenne hensyn» tilsier påtale.
-Etter straffeprosessloven § 62 a annet ledd første punktum kan påtale av lovbrudd med en strafferamme på fengsel i to år eller lavere unnlates
-dersom «ikke allmenne hensyn tilsier påtale». Ved
-vurderingen av om allmenne hensyn foreligger,
-legges det blant annet vekt på overtredelsens
-grovhet, hensynet til den alminnelige lovlydighet
-og om den fornærmede, en annen som har lidt
-skade ved overtredelsen, eller vedkommende
-berørte myndighet, ønsker påtale, jf. straffeprosessloven § 62 a annet ledd annet punktum.
-Utgangspunktet er imidlertid at straffbare
-handlinger skal påtales, jf. straffeprosessloven
-§ 62 a første ledd. Det er unnlatelsen av å påtale
-som krever en særlig begrunnelse, jf. Ot.prp.
-nr. 90 (2003–2004) punkt 4.1.5.4 og punkt 30.4 på
-side 486. Påtalen er derfor ubetinget offentlig i
-straffeprosessloven § 252 annet ledd sin forstand
-også for lovbrudd som har en strafferamme på
-fengsel i to år eller lavere.
-I straffeprosessloven § 62 a annet ledd første
-punktum brukes formuleringen «kan påtale unnlates». Det er likevel ikke tale om påtaleunnlatelse
-i egentlig forstand, ettersom det ikke kreves at
-straffeskyld anses bevist som for påtaleunnlatelse
-etter straffeprosessloven § 69 og § 70. Avgjørelsen
-om å unnlate videre forfølgning fordi allmenne
-hensyn ikke krever påtale, kan treffes før saken er
-ferdig etterforsket, og medfører i alle tilfeller at
-forholdet henlegges.
-
-18.3 Forslagene i høringsnotatet
-For å gi tydeligere uttrykk for hva som er gjeldende rett, foreslo departementet å endre straffeprosessloven § 252 annet ledd i tråd med Riksadvokatens forslag:
-«Dersom påtalen ikke er ubetinget offentlig,
-skal det av tiltalebeslutningen fremgå at særskilt myndighet har begjært påtale.»
-Departementet foreslo også tilsvarende endringer
-i påtaleinstruksen § 22-1 annet ledd.
-Departementet foreslo også å erstatte uttrykket «påtale unnlates» i straffeprosessloven § 62 a
-annet ledd med for eksempel «forfølgningen innstilles». Dette vil klargjøre at det ikke er tale om
-en påtaleunnlatelse etter straffeprosessloven
-§§ 69 og 70. Forslaget var rent terminologisk og
-var ikke ment å innebære noen realitetsendringer.
-
-18.4 Høringsinstansenes syn
-Kripos, Nordland statsadvokatembeter, Oslo politidistrikt, Politidirektoratet, Politihøgskolen og SørØst politidistrikt støtter forslaget i høringsnotatet
-om endring av straffeprosessloven § 252 annet
-ledd. Advokatforeningen mener at forslaget kan
-være hensiktsmessig. Politihøgskolen uttaler at
-endringene synes å gjøre reglene klarere.
-Dommerforeningen skisserer som alternativ
-løsning å fjerne regelen i straffeprosessloven
-§ 252 om at det skal opplyses om påtalebegjæring/allmenne hensyn. Alternativet går ut på at
-det fastsettes i bestemmelsen at det i saker med
-strafferamme på to år uttrykkelig skal opplyses
-om at det er vurdert om forfølgning kan unnlates
-på grunn av allmenne hensyn. Dommerforeningen
-uttaler:
-«Fraværet av en slik bestemmelse bidrar neppe
-til at flere saker som ikke burde vært påtalt,
-likevel blir påtalt. En påminnelse til den påtaleansvarlige kan likevel neppe skade. Dommerforeningen antar at det uansett vil være direktiver fra riksadvokaten og godt påtaleskjønn
-som kommer til å styre praktiseringen av
-straffeprosessloven § 62a annet ledd.»
-Agder lagmannsrett slutter seg til uttalelsen fra
-Dommerforeningen.
-Riksadvokaten og Kripos støtter departementets forslag om å endre ordlyden i straffeprosessloven § 62 a annet ledd. Riksadvokaten er enig
-
-[Side 146]
-
-144
-
-Prop. 66 L
-
-2019–2020
-
-Endringer i straffeloven mv. (avvergingsplikt, utenomrettslig tvangsekteskap, diskrimineringsvern, skyting mot politiet mv.)
-
-i departementets vurdering av at gjeldende ordlyd
-i annet ledd kan gi et feilaktig inntrykk av at en
-avgjørelse under henvisning til bestemmelsen er
-en påtaleunnlatelse og ikke en henleggelse. Ingen
-andre høringsinstanser har uttalt seg om forslaget
-til endring av ordlyden i straffeprosessloven § 62 a
-annet ledd.
-
-18.5 Departementets vurdering
-Departementet fastholder forslaget i høringsnotatet om å endre straffeprosessloven § 252 annet
-ledd slik at det fremkommer tydelig at det ikke er
-et krav om at det skal fremgå av tiltalebeslutningen at innstilling av forfølgningen etter straffeprosessloven § 62 a annet ledd er vurdert. Departementet har imidlertid valgt en noe annen utforming av bestemmelsen enn i høringsnotatet.
-Departementet mener det sentrale hensynet
-bak regelen i straffeprosessloven § 252 annet ledd
-om at det skal fremgå av tiltalebeslutningen at vilkårene for offentlig påtale er oppfylt, er å sikre at
-domstolene kan kontrollere om påtalen er gyldig.
-Et gyldig påtalevedtak om tiltale gir grunnlag for
-at domstolene kan tre i virksomhet etter straffeprosessloven § 63. En vurdering fra påtalemyndigheten etter straffeprosessloven § 62 a annet ledd
-bokstav a av om forfølgningen skal innstilles, er
-som nevnt ikke et vilkår for et vedtak om å ta ut tiltale. En opplysning om hvorvidt påtalemyndigheten har foretatt en slik vurdering, er dermed uten
-betydning for domstolenes kontroll med påtalevedtaket. En hensiktsmessig bruk av adgangen
-etter straffeprosessloven § 62 a annet ledd bokstav a, bør etter departementets syn heller sikres
-gjennom føringer fra Riksadvokaten og fagledelse
-fra statsadvokatene overfor påtalemyndigheten i
-politiet, se her uttalelsene i Ot.prp. nr. 90 (2003–
-
-2004) punkt 4.1.5.4 på side 63. Departementet går
-på denne bakgrunn ikke inn for det alternativet.
-Dommerforeningen foreslo i sitt høringsinnspill at det i saker med strafferamme på to år
-uttrykkelig skal opplyses om at det er vurdert om
-forfølgning skal unnlates etter straffeprosessloven § 62 a annet ledd.
-For en del straffebud er det et vilkår for påtale
-at det foreligger påtalebegjæring fra særskilt
-offentlig myndighet. Samtidig er det også noen
-straffebud i spesiallovgivningen der det fremdeles
-er et vilkår for påtale at (sterke) allmenne hensyn
-tilsier det, se for eksempel konkurranseloven
-§ 33, helsepersonelloven § 67 og alternativ
-behandlingsloven § 9. I slike tilfeller er ikke påtalen ubetinget offentlig, og det bør da, som etter
-gjeldende rett, også fremgå av tiltalebeslutningen
-at påtalemyndigheten har vurdert om allmenne
-hensyn tilsier påtale. Departementet foreslår følgende ordlyd i straffeprosessloven § 252 annet
-ledd:
-«Dersom påtalen ikke er ubetinget offentlig,
-skal det av tiltalebeslutningen fremgå at særskilt myndighet har begjært påtale, eller at andre
-vilkår for påtale foreligger».
-I tråd med forslaget i høringsnotatet foreslår
-departementet dessuten å erstatte uttrykket i
-«påtale unnlates» i straffeprosessloven § 62 a
-annet ledd første punktum med «forfølgningen
-innstilles». Endringen innebærer ingen realitetsendring. Endringen medfører at ordlyden reflekterer at beslutninger etter straffeprosessloven
-§ 62 a annet ledd ikke er påtaleunnlatelser i
-straffeprosessloven §§ 69 og 70 sin forstand, jf.
-punkt 18.2.
-Det vises til spesialmerknadene i punkt 21.2.
-
-[Side 147]
-
-2019–2020
-
-Prop. 66 L
-
-145
-
-Endringer i straffeloven mv. (avvergingsplikt, utenomrettslig tvangsekteskap, diskrimineringsvern, skyting mot politiet mv.)
-
-19 Politiets påtalekompetanse i saker om vanlig skattesvik mv.
-og overtredelser av allmenngjøringsloven
-19.1 Bakgrunn
-Riksadvokaten har i brev 21. oktober 2016 foreslått å gi politiet påtalekompetanse for overtredelser av straffeloven § 378 om skattesvik og ligningsloven § 12-2 om unnlatt medvirkning til
-kontrollundersøkelse:
-«Forut for ikrafttredelsen av straffeloven 2005,
-ble det foretatt endringer i straffeprosessloven
-for å videreføre den fordeling av påtalekompetanse som tillå de enkelte nivåene i påtalemyndigheten. Endringene bygget som kjent på et
-forslag fra riksadvokaten. En har senere oppdaget at påtalekompetansen for enkelte straffebud har blitt flyttet til statsadvokaten, uten at
-det har vært intendert. For så vidt gjelder
-påtalekompetansen for hensynsløs atferd etter
-straffeloven 2005 § 266, er en slik inkurie allerede rettet opp, jf. Prop. 42 L (2015–2016)
-punkt 3.7.2. Så vidt en kan se har det imidlertid
-også funnet sted en utilsiktet endring av påtalekompetansen for skattesvik.
-Slike forhold ble tidligere regulert av egne
-straffebud i spesiallovgivningen, jf. ligningsloven § 12-1 og merverdiavgiftsloven § 21-4,
-som hørte under politiets påtalekompetanse. Da
-man ga straffeloven 2005, ble det besluttet at det
-skulle gis en egen bestemmelse i loven som
-rammet den som ga uriktige eller ufullstendige
-opplysninger til en offentlig myndighet der
-dette kunne føre til skattemessige fordeler, jf. nå
-§ 378. Bakgrunnen for forslaget fremgår av
-Ot.prp. nr. 22 (2008–2009) s. 334. Men det nye
-straffebudet er ikke oppregnet i straffeprosessloven § 67 annet ledd bokstav b. Politiet har
-derimot – som tidligere – kompetanse til å ta ut
-tiltale for overtredelse av ligningsloven og merverdiavgiftsloven, jf. straffeprosessloven § 67
-annet ledd bokstav c. Etter den ovennevnte endringen regulerer imidlertid disse bestemmelsene bare tredjemanns straffansvar.
-Riksadvokaten foreslår på denne bakgrunn
-at straffeloven 2005 § 378 tas inn i straffeprosessloven § 67 bokstav b. Bestemmelsen har
-
-samme strafferamme som ved overtredelser av
-ligningsloven § 12-1 og merverdiavgiftsloven
-§ 21-4, som (stadig) hører under politiets kompetanse. I hvert fall fra denne side berodde det
-på en inkurie at en ikke foreslo at politiet fortsatt skulle ha påtalekompetansen også for primærlovbruddet. En tillater seg samtidig å foreslå at politiet også gis påtalekompetanse for
-overtredelser av ligningsloven § 12-2 (unnlatt
-medvirkning til kontrollundersøkelse), som
-har samme strafferamme som de ovennevnte
-straffebud.»
-I det nevnte brevet har Riksadvokaten også vist til
-at Arbeids- og sosialdepartementet tidligere har
-varslet en vurdering av påtalekompetansen etter
-allmenngjøringsloven § 15:
-«Ved lov 24. april 2015 nr. 21 ble strafferammen
-i allmenngjøringsloven § 15 første ledd første
-punktum endret fra bøter til fengsel i ett år. I forbindelse med denne endringen uttalte departementet i Prop. 48 L (2014–2015) på s. 79: «ØKOKRIM foreslår at politiet fortsatt skal avgjøre
-spørsmålet om tiltale i sakene etter allmenngjøringsloven på samme måte som i arbeidsmiljøsakene. I de alvorligste sakene etter § 15 som
-ofte vil ha allmenn interesse, må likevel statsadvokatene involveres, jf. påtaleinstruksen § 22-2
-første ledd. ØKOKRIM foreslår at dette gjennomføres ved endring av straffeprosessloven
-§ 67 andre ledd d, hvor allmenngjøringsloven
-§ 15 tilføyes til de forbrytelser hvor politiet
-avgjør spørsmål om tiltale. Departementet ser at
-dette temaet bør vurderes i forlengelse av den
-foreslåtte økningen av strafferammen, og vil
-følge opp dette spørsmålet videre.» Så vidt riksadvokaten kan se har ikke denne problemstillingen vært underkastet noen videre behandling.
-Dersom lovgiver beslutter at det skal gjøres
-endringer i straffeprosessloven § 67 annet ledd
-som følge av merknadene ovenfor i punkt 3.1, vil
-det være hensiktsmessig om en samtidig vurderer om overtredelser av allmenngjøringsloven
-bør tilføyes i bestemmelsens bokstav c.»
-
-[Side 148]
-
-146
-
-Prop. 66 L
-
-2019–2020
-
-Endringer i straffeloven mv. (avvergingsplikt, utenomrettslig tvangsekteskap, diskrimineringsvern, skyting mot politiet mv.)
-
-19.2 Generelt om politiets påtalekompetanse etter gjeldende rett
-
-19.3 Politiets påtalekompetanse i saker
-om vanlig skattesvik mv.
-
-Straffeprosessloven kapittel 7 inneholder regler
-om hvilket nivå i påtalemyndigheten som er kompetent til å avgjøre tiltalespørsmålet i den enkelte
-sak. Uttrykket «tiltale» skal forstås i vid betydning.
-Det omfatter ikke bare spørsmålet om å reise tiltale, men også enhver avgjørelse om å påtale en
-handling og hvordan dette i tilfelle skal skje, jf.
-NUT 1969:3 Innstilling om rettergangsmåten i
-straffesaker fra Straffeprosesslovkomiteen på side
-173 til 174. Det omfatter blant annet avgjørelse av
-om en sak skal stilles i bero etter straffeprosessloven § 250, utsettes etter § 251 annet ledd og
-avgjøres med påtaleunnlatelse etter § 69 samt
-begjæring til tingretten om at saken behandles
-som tilståelsesdom etter § 248, utferdigelse av
-forelegg etter § 255 og begjæring om pådømmelse
-i henhold til et forelegg som ikke er vedtatt etter
-§ 268. Kompetansen til å avgjøre tiltalespørsmålet
-omfatter også avgjørelse av om en sak skal henlegges (innstilles) f.eks. fordi forholdet ikke er
-straffbart eller bevisene ikke er tilstrekkelige.
-Riksadvokatens og statsadvokatenes påtalekompetanse er regulert i straffeprosessloven
-henholdsvis §§ 65 og 66. Det følger av loven § 66
-at statsadvokaten avgjør spørsmålet om tiltale
-når det ikke hører under Riksadvokaten eller
-politiet.
-Politiets påtalekompetanse reguleres av
-straffeprosessloven § 67. Det følger av denne
-bestemmelsen at politiet avgjør spørsmålet om
-tiltale i saker om lovbrudd som etter loven ikke
-kan medføre straff av fengsel i mer enn ett år.
-Dersom strafferammen heves under særdeles
-skjerpende omstendigheter i sin alminnelighet
-eller etter et annet generelt kriterium, f.eks. at
-lovbruddet er grovt, er utgangspunktet at den
-forhøyde strafferammen er avgjørende for om
-politiet har påtalekompetanse etter § 67 annet
-ledd bokstav a, jf. Rt. 2007 s. 382 og Rt. 2009
-s. 1615 avsnitt 11 til 12. En annen løsning kan
-imidlertid følge av en tolkning av det aktuelle
-straffebudet, jf. Rt. 2010 s. 850 avsnitt 24 og Rt.
-2015 s. 940 avsnitt 13. En forhøyet strafferamme
-under særskilt angitte omstendigheter kan normalt bare legges til grunn dersom det er aktuelt
-å ta ut tiltale etter den forhøyde rammen, jf. Rt.
-2009 s. 1615 avsnitt 11 til 12.
-Etter straffeprosessloven § 67 annet ledd bokstav b og c gis imidlertid politiet påtalekompetanse også for en rekke bestemte straffebud i
-straffeloven og i spesiallovgivningen som har en
-høyere strafferamme enn fengsel i ett år.
-
-19.3.1 Gjeldende rett
-Etter straffeloven § 378 straffes den som gir uriktig eller ufullstendig opplysning til en offentlig
-myndighet eller unnlater å gi pliktig opplysning,
-når han eller hun forstår eller bør forstå at det kan
-føre til skattemessige fordeler. Straffen er bot
-eller fengsel inntil to år. Grovt skattesvik straffes
-med fengsel inntil seks år, mens grovt uaktsomt
-skattesvik straffes med bot eller fengsel inntil ett
-år jf. straffeloven §§ 379 og 380. Om den nærmere
-bakgrunnen vises til Ot.prp. nr. 22 (2008–2009)
-punkt 11.6 side 331 følgende og Prop. 64 L (2014–
-2015) punkt 7.2.3 side 102 følgende.
-Bestemmelsene erstattet ligningsloven § 12-1
-første ledd bokstav a, merverdiavgiftsloven § 72
-første ledd og enkelte andre bestemmelser om
-skatte- eller avgiftssvik i spesiallovgivningen.
-Straffansvaret for tredjepart som gir uriktig eller
-ufullstendig opplysning til skattemyndighetene,
-ble værende i dagjeldende ligningsloven § 12-1
-og merverdiavgiftsloven § 21-4 første og annet
-ledd. Dette gjaldt også straffansvaret for den som
-unnlater å medvirke til kontroll, jf. dagjeldende
-ligningsloven § 12-2 og merverdiavgiftsloven
-§ 21-4 tredje ledd. Straffansvaret etter disse
-bestemmelsene har senere blitt videreført i
-skatteforvaltningsloven §§ 14-12 og 14-13, i forbindelse med at ligningsloven og de nevnte
-bestemmelsene i merverdiavgiftsloven ble opphevet og erstattet av skatteforvaltningsloven (lov
-27. mai 2016 nr. 14).
-Strafferammen i straffeloven § 378 innebærer
-at straffeprosessloven § 67 annet ledd bokstav a
-ikke gir påtalemyndigheten i politiet påtalekompetanse i disse sakene. Politiet har kompetanse til å
-ta ut tiltale for overtredelser av skatteforvaltningsloven, jf. straffeprosessloven § 67 annet ledd bokstav c. Straff for skattesvik er imidlertid ikke regulert i skatteforvaltningsloven. Skatteforvaltningsloven inneholder bare regler om straff for tredjeparts opplysningssvikt mv. og for manglende medvirkning til kontroll, jf. henholdsvis §§ 14-12 og 1413.
-Som nevnt i Riksadvokatens brev, omtalt over
-under punkt 19.1, hadde politiet påtalekompetanse i slike saker før straffeloven 2005 trådte i
-kraft. Påtalekompetansen ble imidlertid flyttet til
-statsadvokaten som følge av endringer foretatt i
-forbindelse med ikraftsetting av straffeloven. Så
-langt departementet kan se var denne flyttingen
-av påtalekompetanse ikke tilsiktet.
-
-[Side 149]
-
-2019–2020
-
-Prop. 66 L
-
-147
-
-Endringer i straffeloven mv. (avvergingsplikt, utenomrettslig tvangsekteskap, diskrimineringsvern, skyting mot politiet mv.)
-
-19.3.2 Forslaget i høringsnotatet
-Departementet foreslo i høringsnotatet at en henvisning til straffeloven § 378 om vanlig skattesvik
-inntas i straffeprosessloven § 67 bokstav b, slik at
-påtalemyndigheten i politiet får påtalekompetanse i disse sakene.
-19.3.3 Høringsinstansenes syn
-Samtlige høringsinstanser som har uttalt seg,
-støtter forslaget. Det gjelder Advokatforeningen,
-Kripos, Kristiansand tingrett, Oslo politidistrikt,
-Politidirektoratet, Sør-Øst politidistrikt, ØKOKRIM og Øst politidistrikt.
-Oslo politidistrikt ber om at det presiseres i forarbeidene at politiet gis påtalekompetanse også
-for overtredelser som er begått før lovendringen
-trer i kraft.
-Øst politidistrikt foreslår at politiet også får
-påtalekompetanse i saker etter straffeloven § 379
-om grovt skattesvikt, og uttaler:
-«Slik merverdiavgiftsloven § 21-4 – og straffeprosessloven § 67 annet ledd bokstav d – gjaldt
-før ny straffelov, hadde politiet påtalekompetanse til «som for bedrageri etter straffeloven
-(1902) § 270 og § 271» – det vil si også for grovt
-merverdiavgiftsbedrageri. Med de gjeldene
-beløpsgrenser for grovt bedrageri/skattesvik
-vil tilnærmet alle praktiske tilfeller som påtales
-falle inn under «grovt skattesvik». Det vises for
-øvrig til at politiet etter ny straffelov har fått
-videreført påtalekompetanse for «grovt bedrageri» hvor strafferammen er inntil 6 år. Det
-antas heller ikke være lovgivers intensjon å
-skape et slikt skille i påtalekompetanse, samt at
-dette er et fagområde som i hovedsak forvaltes
-av politiets økoteam som har god erfaring med
-bruk av bestemmelsen, og at det er viktig å tilstrebe mulig tidsbesparelse i økosaker.»
-Øst politidistrikt foreslår også påtalekompetanse
-for politiet i saker etter skattebetalingsloven §§ 18-1
-første ledd første punktum og § 18-2 første ledd
-første punktum og § 18-2 tredje ledd. Øst politidistrikt trekker frem at straffereaksjonen i alminnelighet er bot som ilegges ved forelegg, og det
-antas å være unødvendig ressurskrevende å oversende alle slike saker til høyere påtalemyndighet.
-
-19.3.4 Departementets vurdering
-Departementet fastholder forslaget i høringsnotatet om at straffeloven § 378 om vanlig skattesvik
-
-inntas i straffeprosessloven § 67 bokstav b, slik at
-påtalemyndigheten i politiet får påtalekompetanse i disse sakene. Endringen vil innebære en
-videreføring av rettstilstanden slik den var etter
-dagjeldende ligningsloven § 12-1 og merverdiavgiftsloven § 21-4 før straffeloven trådte i kraft.
-Handlingsbeskrivelsen i straffebudet om ordinært
-skattesvik etter straffeloven § 378 har betydelige
-likheter med ordinært bedrageri etter straffeloven
-§ 371, og strafferammen er i begge straffebudene
-to år. Departementet nevner også at politiet har
-påtalekompetanse i saker om grovt bedrageri
-etter straffeloven § 372, der strafferammen er
-seks års fengsel. Videre har politiet også påtalekompetanse i saker om vanlig regnskapsovertredelse etter straffeloven § 392 og grov regnskapsovertredelse etter straffeloven § 393. Siden skattesvik, avgiftssvikt og regnskapsovertredelser ofte
-forekommer i samme sakskompleks, er det en fordel om sakene kan avgjøres samlet av samme person i politiet, jf. tilsvarende vurderinger i Ot.prp.
-nr. 98 (2002–2003) punkt 3.5.14.
-Departementet går i denne omgang ikke inn
-for at politiet bør gis påtalekompetanse i saker om
-grovt skattesvik etter straffeloven § 379, slik Øst
-politidistrikt foreslår. Det kan imidlertid være
-aktuelt å vurdere dette spørsmålet i en bredere
-sammenheng som ledd i oppfølgningen av NOU
-2016: 24 Ny straffeprosesslov. Tilsvarende gjelder
-for spørsmålet om politiet bør få påtalekompetanse i saker etter skattebetalingsloven §§ 18-1
-første ledd første punktum og 18-2 første ledd
-første punktum og tredje ledd.
-Det vises til spesialmerknadene i punkt 21.2.
-Departementet legger til grunn at endringene
-i reglene om politiets påtalekompetanse som
-utgangspunkt får virkning også for overtredelser
-begått før lovendringen trer i kraft. Departementet foreslår en generell hjemmel for å gi overgangsbestemmelser i lovforslaget del VI nr. 2.
-Hvorvidt det er grunn til å gi overgangsbestemmelser som regulerer forholdet til begåtte overtredelser, f.eks. i saker som er til behandling i
-påtalemyndigheten eller i domstolene på ikrafttredelsestidspunktet, vil departementet vurdere i
-forbindelse med ikraftsettingen.
-
-19.4 Politiets påtalekompetanse
-i saker om overtredelser av
-allmenngjøringsloven
-19.4.1 Gjeldende rett
-En del plikter fastsatt i eller i medhold av allmenngjøringsloven er belagt med straff etter allmenn-
-
-[Side 150]
-
-148
-
-Prop. 66 L
-
-2019–2020
-
-Endringer i straffeloven mv. (avvergingsplikt, utenomrettslig tvangsekteskap, diskrimineringsvern, skyting mot politiet mv.)
-
-gjøringsloven § 15 første ledd. Strafferammen for
-ordinære overtredelser som er omfattet av allmenngjøringsloven § 15 første ledd, er bøter eller
-fengsel inntil ett år, jf. § 15 første ledd første punktum. Strafferammen for grov overtredelse er fengsel inntil tre år, jf. § 15 første ledd tredje punktum.
-Medvirkning straffes på samme måte, jf. § 15 første ledd siste punktum. Tidligere var strafferammen bare bot, og endringen av straffarten og
-strafferammen ble fastsatt ved lov 24. april 2015
-nr. 21. Den øvre strafferammen på inntil tre år ved
-grove overtredelser av allmenngjøringsloven
-innebærer dermed at politiet ikke lenger har
-påtalekompetanse i alle saker etter loven i medhold av straffeprosessloven § 67.
-Strafferammene etter arbeidsmiljøloven ble
-samtidig hevet fra bøter eller fengsel i inntil tre
-måneder, til bøter eller fengsel inntil ett år, jf. § 191 første ledd. Den forhøyede strafferammen etter
-annet ledd ble hevet fra inntil to til inntil tre års
-fengsel.
-
-19.4.2 Forslaget i høringsnotatet
-Departementet foreslo i høringsnotatet at politiet
-gis påtalekompetanse i saker om straff etter allmenngjøringsloven § 15 gjennom en endring i
-straffeprosessloven § 67 annet ledd bokstav c.
-19.4.3 Høringsinstansenes syn
-Samtlige høringsinstanser som har uttalt seg, støtter forslaget. Det gjelder Kripos, Kristiansand tingrett, Oslo politidistrikt, Politidirektoratet, Sør-Øst
-politidistrikt, ØKOKRIM og Øst politidistrikt.
-ØKOKRIM viser til sine uttalelser gjengitt i
-Prop. 48 L (2014–2015) på side 79. Øst politidistrikt slutter seg til ØKOKRIMs begrunnelse.
-Oslo Politidistrikt ber om at det presiseres i forarbeidene at politiet gis påtalekompetanse også
-for overtredelser begått før lovendringen trer i
-kraft.
-19.4.4 Departementets vurdering
-Departementet fastholder forslaget i høringsnotatet om å gi politiet påtalekompetanse i saker om
-overtredelser av straffebudene i allmenngjøringsloven § 15. Fastsettelsen av strafferammene i all-
-
-menngjøringsloven er blant annet begrunnet i at
-det er hensiktsmessig å ha like strafferammer i
-allmenngjøringsloven og arbeidsmiljøloven, selv
-om lovene ivaretar noe ulike interesser, jf. Prop.
-48 L (2014–2015) punkt 6.4.4. på side 79. Påtalekompetansen i saker om overtredelser av disse
-lovene bør etter departementets syn være lik.
-Strafferammene er sammenfallende og det er
-grunn til å anta at overtredelse av arbeidsmiljøloven og allmenngjøringsloven i en del tilfeller vil
-forekomme i samme sakskompleks. Det vises til
-ØKOKRIMs høringsuttalelse i tilknytning til forslaget om heving av strafferammene i arbeidsmiljøloven og allmenngjøringsloven gjengitt i
-Prop. 48 L (2014–2015) på side 79. Det er derfor
-en fordel at saker om allmenngjøringsloven og
-arbeidsmiljøloven kan avgjøres samlet av påtalemyndigheten i politiet. I de sakene som har særlig
-stor allmenn interesse eller når det er bestemt av
-overordnet myndighet, må påtalespørsmålet uansett forelegges statsadvokaten til avgjørelse, jf.
-påtaleinstruksen § 22-2 første ledd første punktum.
-Det vises til forslaget om endringer i straffeprosessloven § 67 annet ledd bokstav c og spesialmerknadene i punkt 21.2.
-Departementet legger til grunn at endringene
-i reglene om politiets påtalekompetanse som
-utgangspunkt får virkning også for overtredelser
-begått før lovendringene trer i kraft. Departementet foreslår en generell hjemmel for å gi overgangsbestemmelser i lovforslaget del VI nr. 2.
-Hvorvidt er grunn til å gi overgangsbestemmelser
-som regulerer forholdet til begåtte overtredelser,
-f.eks. i saker som er til behandling i påtalemyndigheten eller i domstolene på ikrafttredelsestidspunktet, vil departementet vurdere i forbindelse
-med ikraftsettingen.
-Departementet gjør oppmerksom på at Klimaog miljødepartementet i Prop. 54 L (2019–2020)
-har foreslått en endring i straffeprosessloven § 67
-annet ledd bokstav c. Endringsforslaget går ut på
-at henvisningen til lakse- og innlandsfiskloven tas
-ut av bestemmelsen. Departementet ber Stortinget ta hensyn til dette. Dersom Prop. 54 L
-(2019–2020) behandles først, bør lovforslaget i
-nærværende proposisjon endres. Tilsvarende bør
-forslaget i Prop. 54 L (2019–2020) endres dersom
-nærværende proposisjon behandles først.
-
-[Side 151]
-
-2019–2020
-
-Prop. 66 L
-
-149
-
-Endringer i straffeloven mv. (avvergingsplikt, utenomrettslig tvangsekteskap, diskrimineringsvern, skyting mot politiet mv.)
-
-20 Økonomiske og administrative konsekvenser
-De foreslåtte lovendringene går ut på en viss
-nykriminalisering og presiseringer for å klargjøre
-hvilke handlinger som er straffbare, for dermed å
-gjøre rettshåndhevelse på berørte områder
-enklere og mer effektiv. I tillegg forlenges tiden
-før enkelte straffbare handlinger foreldes, og
-strafferammen for enkelte lovbrudd heves. Påtalemyndigheten og politiet gis en viss utvidet adgang
-til bruk av tvangsmidler ved mindre alvorlige lovbrudd for å effektivisere politiets arbeid. Det legges til grunn at politi og påtalemyndighet prioriterer bruk av hjemlene innenfor gjeldende rammer.
-Samlet sett vurderes de økonomisk og administrative konsekvensene å være begrensede, og vil
-dekkes innenfor gjeldende budsjettrammer.
-I kapittel 3 foreslås enkelte utvidelser i avvergingsplikten. I kapittel 4 foreslås en kriminalisering av utenomrettslige tvangsekteskap. Kapittel 6
-avklarer at forsøk på kjøp av sex er straffbart, og i
-kapittel 7 foreslås et nytt straffebud om utleie av
-lokaler som benyttes til grov utnyttelse av arbeidstakere.
-I kapittel 8 foreslås en tilføyelse av diskrimineringsgrunnlaget «kjønnsidentitet eller kjønnsuttrykk» i straffeloven §§ 77, 174, 185, 186, 264,
-272, 274 og 352. De foreslåtte endringene i straffeloven §§ 174, 185 og 186 innebærer at grensen for
-hva som utgjør straffbar atferd, utvides noe. De
-foreslåtte endringene i straffeloven §§ 264,
-272, 274 og 352 vil normalt medføre en forhøyelse
-av strafferammen for trusler, kroppskrenkelser,
-kroppsskade og skadeverk som er motivert av fornærmedes kjønnsidentitet eller kjønnsuttrykk. De
-ovennevnte endringene vil innebære en relativt
-begrenset utvidelse av bestemmelsenes virkeområde. Den foreslåtte endringen i straffeloven § 77
-vil tydeliggjøre at straffbare handlinger som rammer noen på grunn av deres kjønnsidentitet og
-kjønnsuttrykk, skal anses som hatkriminalitet, og
-dermed gis særlig prioritet av politiet. Det er
-grunn til å anta at de økonomiske og administrative effektene for politiet, påtalemyndigheten,
-domstolene og kriminalomsorgen vil være svært
-beskjedne.
-I kapittel 9 foreslås en gjeninnføring av straffansvar for den som utgir seg for å være vedkom-
-
-mende et identifikasjonsbevis er utferdiget til, selv
-om denne samtykker til bruken. I kapittel 10 foreslås også en mindre utvidelse av straffansvaret,
-gjennom en presisering av at straffebestemmelsen om brudd på taushetsplikt rammer enhver
-form for brudd på taushetsplikt. Ordlyden er i dag
-upresis. I kapittel 11 foreslås det at gjentatt eller
-graverende ulovlig befatning med våpendeler skal
-rammes av straffelovens bestemmelser om skytevåpen og ammunisjon. Forslagene kan legge til
-rette for bedre muligheter til å etterforske og
-iretteføre flere straffbare forhold. Økningen antas
-imidlertid å være begrenset.
-Kapittel 12 foreslår et bedre vern av offentlige
-tjenestepersoner. Det foreslås bl.a. nye straffebud
-om grov vold og trussel mot offentlig tjenesteperson, om skyting mot politiet og om fratakelse av
-tjenestevåpen. Dette vil i begrenset grad innebære
-økte utgifter, siden de straffbare handlingene allerede er dekket av andre straffebud i dag. Videre
-foreslås et forsterket vern for brann- og redningspersonell når de yter innsats i redningsoppdrag,
-samt for offentlige tjenestepersoner mot skadeverk og gjengjeldelse.
-Kapittel 13 gjelder endringer i straffebudet om
-krenkelser av representant for fremmed stat.
-Straffansvaret for fornærmelser av diplomater
-presiseres av hensyn til ytringsfriheten, gjennom
-et vilkår om at bare rettsstridige fornærmelser
-kan straffes. Departementet foreslår også å utvide
-bestemmelsen til å gjelde for representanter for
-mellomstatlige organisasjoner, samt for familiemedlemmer som tilhører representanters husstand. Utvidelsene har langt på vei bakgrunn i
-folkerettslige forpliktelser vi allerede er bundet av.
-I kapittel 14 foreslås det at korrupsjonsbestemmelsene i større grad får anvendelse på
-korrupsjon begått i utlandet. Forslaget vil kunne
-medføre at flere slike overtredelser etterforskes
-og iretteføres. Etterforskning av lovbrudd i utlandet kan involvere bevisopptak der, samt rettsanmodninger til utenlandske myndigheter, og reisevirksomhet for etterforskere og vitner. Departementet antar imidlertid at det bare unntaksvis vil
-være aktuelt å iverksette omfattende etterforskning, og det vil antagelig dreie seg om forholdsvis
-
-[Side 152]
-
-150
-
-Prop. 66 L
-
-2019–2020
-
-Endringer i straffeloven mv. (avvergingsplikt, utenomrettslig tvangsekteskap, diskrimineringsvern, skyting mot politiet mv.)
-
-få tilfeller. Straffeforfølgning av overtredelsene
-som omfattes av forslagene vil dermed antagelig
-skje uten ekstraordinær ressursbruk i politiet og
-påtalemyndigheten. Departementet forutsetter
-også at etterforskningsressursene prioriteres
-brukt i saker hvor allmenne hensyn etter straffeloven § 5 siste ledd antas å ville tale for påtale dersom etterforskningen avdekker straffbare forhold.
-I kapittel 15 foreslås det endringer i reglene
-om foreldelse. For det første foreslås det forlenget
-foreldelsesfrist og utskutt foreldelsesfrist i enkelte
-saker. For det andre foreslås det unntak fra foreldelse for straff i noen saker, samt unntak fra foreldelse for straffansvar for overtredelse av to
-straffebud, samt unntak fra foreldelse for idømt
-straff i noen saker. Et større tidsrom for å kunne
-anmelde, etterforske og pådømme straffbare forhold, vil antakelig lede til en viss økning i utgifter.
-Krav om voldsoffererstatning er foreldet dersom forholdet både er strafferettslig og sivilrettslig foreldet og den voldsutsatte er over 21 år, jf.
-voldsoffererstatningsloven § 3 andre ledd. Forslagene til forlengelse av foreldelsesfristen og
-utskutt foreldelse vil derfor kunne medføre at
-færre som søker om voldsoffererstatning vil få
-søknaden avslått på grunn av foreldelse. Departementets tallmateriale viser imidlertid at det dreier
-seg om svært få eller ingen saker. Endringen vil
-derfor ikke ha nevneverdige økonomiske konsekvenser.
-Kapittel 16 gjelder begrensninger i siviles
-medvirkningsansvar ved brudd på militær straffelov. Departementet antar imidlertid at det er tale
-om såpass få av de medvirkningshandlingene som
-
-i dag omfattes hvor det ville være aktuelt å
-anmelde eller straffeforfølge, at forslaget ikke får
-nevneverdige økonomiske og administrative
-konsekvenser.
-Kapittel 17 inneholder forslag til adgang til å
-bruke visse tvangsmidler ved enkelte mindre
-alvorlige lovbrudd, slik det var mulighet til etter
-gammel straffelov. Departementet fremmer forslag om adgang til ransaking av rom (straffeprosessloven § 192) i saker etter straffeloven om mindre underslag (§ 326) og mindre heleri (§ 334),
-samt adgang til ransaking av person (straffeprosessloven § 195) i saker etter straffeloven om
-brudd på identifikasjonsplikten (§ 162), mindre
-underslag (§ 326), mindre heleri (§ 334), og mindre skadeverk (§ 353). Dette kan medføre en
-økning i antall saker som behandles, men kan
-også bidra til at etterforskningen går raskere.
-Straffen vil i de fleste tilfellene bli bot. Dermed
-belastes ikke fengselskapasiteten. Sakene vil i tillegg ofte bli gjort opp ved forelegg, som er en lite
-ressurskrevende reaksjonsform.
-Kapittel 18 gjelder klargjøring av at påtalen
-anses ubetinget offentlig når ikke offentlig myndighet har begjært påtale, og medfører ingen nevneverdige økonomiske eller administrative kostnader.
-I kapittel 19 foreslås det at påtalekompetansen
-for skattesvik og for brudd på allmenngjøringsloven legges til politiet. Forslagene vil flytte
-enklere saker fra statsadvokatene til politiet slik at
-statsadvokatene får frigjort kapasitet til mer alvorlige saker og fagledelse overfor påtalemyndigheten i politiet.
-
-[Side 153]
-
-2019–2020
-
-Prop. 66 L
-
-151
-
-Endringer i straffeloven mv. (avvergingsplikt, utenomrettslig tvangsekteskap, diskrimineringsvern, skyting mot politiet mv.)
-
-21 Merknader til de enkelte paragrafene
-21.1 Til militær straffelov
-
-loven § 20. Ved en inkurie ble ikke straffeprosessloven § 84 endret samtidig.
-
-Til § 9
-Nytt annet ledd innebærer en innskrenkning i
-medvirkningsansvaret som ellers ville følge av
-straffeloven § 15 ved overtredelser av militær
-straffelov der personen faller utenfor personkretsen etter militær straffelov § 9 første ledd. Den
-som ikke omfattes av loven etter bestemmelsens
-første ledd, straffes bare for medvirkning til
-handlinger som etter militær straffelov kan straffes med fengsel i to år eller mer, eller som rammes av lovens § 34. Om bakgrunnen for forslaget
-vises det til punkt 16.
-
-21.2 Til straffeprosessloven
-Til § 62 a
-I annet ledd første punktum endres uttrykket
-«påtale unnlates» til «forfølgningen innstilles».
-Den nye ordlyden innebærer ingen realitetsendring, men medfører at bestemmelsen reflekterer at beslutninger etter straffeprosessloven § 62 a
-annet ledd ikke er påtaleunnlatelser i straffeprosessloven §§ 69 og 70 sin forstand, jf. punkt 18.2.
-Til § 67
-I annet ledd bokstav b føyes straffeloven § 378 om
-skattesvik til oppregningen, slik at politiet gis
-påtalekompetanse for slike forhold. Om bakgrunnen for forslaget vises det til punkt 19.3.
-I bestemmelsens annet ledd bokstav c føyes allmenngjøringsloven § 15 til oppregningen, slik at
-politiet får påtalekompetanse for slike forhold. Om
-bakgrunnen for forslaget vises det til punkt 19.4.
-Til § 84
-I første ledd endres formuleringen «i en tilstand
-som nevnt i straffeloven § 20 første ledd bokstav b
-til d» til «utilregnelig etter straffeloven § 20 annet
-til fjerde ledd». Endringen er nødvendig fordi lov
-21. juni 2019 nr. 48 endrer inndelingen i straffe-
-
-Til § 94
-I annet ledd annet punktum endres formuleringen
-«i en tilstand som nevnt i straffeloven § 20 første
-ledd bokstav b til d» til «utilregnelig etter straffeloven § 20 annet til fjerde ledd». Endringen er nødvendig fordi lov 21. juni 2019 nr. 48 endrer inndelingen i straffeloven § 20. Ved en inkurie ble ikke
-straffeprosessloven § 94 endret samtidig.
-Til § 96
-I sjuende ledd endres formuleringen «i en tilstand
-som nevnt i straffeloven § 20 første ledd bokstav b
-til d» til «utilregnelig etter straffeloven § 20 annet
-til fjerde ledd». Endringen er nødvendig fordi lov
-21. juni 2019 nr. 48 endrer inndelingen i straffeloven § 20. Ved en inkurie ble ikke straffeprosessloven § 96 endret samtidig.
-Til § 157
-Annet ledd endres slik at bestemmelsen henviser
-til straffeloven § 20 og ikke til § 20 første ledd.
-Endringen er nødvendig fordi lov 21. juni 2019 nr.
-48 endrer inndelingen i straffeloven § 20. Ved en
-inkurie ble ikke straffeprosessloven § 157 endret
-samtidig.
-Til § 188
-I tredje ledd første punktum endres formuleringen
-«er psykotisk eller psykisk utviklingshemmet og
-antas å være straffri etter straffeloven § 20 bokstav b eller bokstav c» til «har en sterkt avvikende
-sinnstilstand eller psykisk utviklingshemming og
-antas å være straffri etter straffeloven § 20 annet
-ledd bokstav a eller c, jf. tredje ledd». I tillegg
-endres tredje ledd annet punktum slik at bestemmelsen henviser til straffeloven § 20 annet ledd
-bokstav a, jf. tredje ledd i stedet for til straffeloven
-§ 20 bokstav b. Endringene er nødvendige fordi
-lov 21. juni 2019 nr. 48 endrer både ordlyden og
-
-[Side 154]
-
-152
-
-Prop. 66 L
-
-2019–2020
-
-Endringer i straffeloven mv. (avvergingsplikt, utenomrettslig tvangsekteskap, diskrimineringsvern, skyting mot politiet mv.)
-
-inndelingen i straffeloven § 20. Ved en inkurie ble
-ikke straffeprosessloven § 188 endret samtidig.
-
-21. juni 2019 nr. 48 endrer inndelingen i straffeloven § 20. Ved en inkurie ble ikke straffeprosessloven § 216 a endret samtidig.
-
-Til § 192
-I annet ledd tilføyes straffebudene om mindre
-underslag og mindre heleri (straffeloven §§ 326 og
-334) i oppregningen. Endringen gir adgang til
-ransaking av rom ved mistanke om overtredelser
-av disse straffebudene. Det vises til begrunnelsen
-for forslaget i punkt 17.5.3.
-Til § 195
-I annet ledd tilføyes straffebudene om brudd på
-identifikasjonsplikten, mindre underslag, mindre
-heleri og mindre skadeverk, (straffeloven §§ 162,
-326, 334 og 353) i oppregningen. Endringen gir
-adgang til ransaking av person ved mistanke om
-overtredelser av disse straffebudene. Det vises til
-begrunnelsen for forslaget i punkt 17.5.3.
-Til § 196
-Første punktum endres slik at bestemmelsen henviser til straffeloven § 20 og ikke til § 20 første
-ledd. Endringen er nødvendig fordi lov 21. juni
-2019 nr. 48 endrer inndelingen i straffeloven § 20.
-Ved en inkurie ble ikke straffeprosessloven § 196
-endret samtidig.
-Til § 216 a
-Annet ledd første punktum endres slik at bestemmelsen henviser til straffeloven § 20 og ikke til
-§ 20 første ledd. Endringen er nødvendig fordi lov
-21. juni 2019 nr. 48 endrer inndelingen i straffeloven § 20. Ved en inkurie ble ikke straffeprosessloven § 216 a endret samtidig.
-Til § 216 m
-Annet ledd første punktum endres slik at bestemmelsen henviser til straffeloven § 20 og ikke til
-§ 20 første ledd. Endringen er nødvendig fordi lov
-21. juni 2019 nr. 48 endrer inndelingen i straffeloven § 20. Ved en inkurie ble ikke straffeprosessloven § 216 a endret samtidig.
-Til § 216 o
-Annet ledd første punktum endres slik at bestemmelsen henviser til straffeloven § 20 og ikke til
-§ 20 første ledd. Endringen er nødvendig fordi lov
-
-Til § 251
-I første ledd endres formuleringen «i en tilstand
-som nevnt i straffeloven § 20 første ledd bokstav b
-til d» til «utilregnelig etter straffeloven § 20 annet
-til fjerde ledd». Endringen er nødvendig fordi lov
-21. juni 2019 nr. 48 endrer inndelingen i straffeloven § 20. Ved en inkurie ble ikke straffeprosessloven § 251 endret samtidig.
-Til § 252
-I annet ledd endres «vilkårene for offentlig påtale
-foreligger» til «særskilt myndighet har begjært
-påtale, eller at andre vilkår for påtale er oppfylt».
-For en del straffebud er det et vilkår for påtale
-at det foreligger påtalebegjæring fra særskilt
-offentlig myndighet. Der det er tilfellet, skal det
-fremgå av tiltalebeslutningen at særskilt myndighet har begjært påtale, og et slikt krav oppstilles
-uttrykkelig i forslaget til § 252 annet ledd.
-Det er også noen straffebud der det fremdeles
-er et vilkår for påtale at allmenne hensyn tilsier
-det. Der det er tilfelle, skal det fremgå av tiltalebeslutningen at kompetent påtalemyndighet har vurdert og funnet at allmenne hensyn tilsier påtale.
-Et slikt krav fremgår av alternativet «andre vilkår
-for påtale» i § 252 annet ledd.
-En vurdering fra kompetent påtalemyndighet
-om at forfølgningen skal innstilles etter § 62 a
-annet ledd er ikke et «vilkår for påtale» i straffeprosessloven § 252 annet ledd sin forstand.
-Beslutningen om å treffe et positivt påtalevedtak
-bygger på en forutsetning om at allmenne hensyn
-foreligger. Det er derfor ikke et krav om at det
-skal opplyses i tiltalebeslutningen om at det er
-foretatt en vurdering av om forfølgningen skal
-innstilles etter straffeprosessloven § 62 a annet
-ledd. Det vises til redegjørelsen i punkt 18.1 og
-begrunnelsen for forslaget i punkt 18.5.
-Til § 409
-I annet ledd endres formuleringen «i en tilstand
-som nevnt i straffeloven § 20 første ledd bokstav b
-til d» til «utilregnelig etter straffeloven § 20 annet
-til fjerde ledd». Endringen er nødvendig fordi lov
-21. juni 2019 nr. 48 endrer inndelingen i straffeloven § 20. Ved en inkurie ble ikke straffeprosessloven § 409 endret samtidig.
-
-[Side 155]
-
-2019–2020
-
-153
-
-Prop. 66 L
-
-Endringer i straffeloven mv. (avvergingsplikt, utenomrettslig tvangsekteskap, diskrimineringsvern, skyting mot politiet mv.)
-
-Til § 459
-I første ledd endres uttrykket «alvorlig sinnslidende» til «utilregnelig på grunn av sterkt
-avvikende sinnstilstand», for å gjøre det klart at vilkåret for utsatt fullbyrding etter straffeprosessloven
-§ 459 første ledd første alternativ bare er oppfylt når
-sinnstilstanden kvalifiserer for straffrihet etter
-straffeloven § 20 annet ledd bokstav a, jf. tredje
-ledd. Det vises til avgjørelsen i HR-2019-653-A.
-
-21.3 Til voldsoffererstatningsloven
-I første ledd fjerde punktum endres formuleringen
-«var utilregnelig som nevnt i straffeloven § 20 første ledd» til «manglet skyldevne etter straffeloven
-§ 20». Endringen er nødvendig fordi lov 21. juni
-2019 nr. 48 endrer ordlyden og inndelingen i
-straffeloven § 20. Når loven trer i kraft, vil personer under kriminell lavalder ikke lenger være
-«utilregnelige» i straffelovens forstand. Dette
-uttrykket forbeholdes personer som ikke er
-strafferettslig ansvarlige på grunn av sterk avvikende sinnstilstand, sterk bevissthetsforstyrrelse
-eller høygradig psykisk utviklingshemming. Ved
-en inkurie ble ikke uttrykksmåten endret i § 27.
-
-21.4 Til straffeloven
-Til § 5
-I første ledd tilføyes et nytt nr. 12 i opplistingen slik
-at straffeloven §§ 387 til 389 om korrupsjon og
-påvirkningshandel også gjelder for de personer
-som er angitt i § 5 første ledd bokstav a til c. Med
-endringene i § 5 første ledd bokstav c vil det
-omfatte norske offentlige virksomheter på linje
-med foretak som er registrert i Norge.
-I tredje ledd tilføyes nr. 12 i § 5 første ledd i
-oppregningen, slik at denne jurisdiksjonsbestemmelsen også gjelder for straffeloven §§ 387 til 389
-om korrupsjon og påvirkningshandel.
-I femte ledd føyes det til et alternativ om at
-norsk straffelovgivning skal gjelde der straffebudet har en lengstestraff på fengsel i 3 år eller
-mer og er foretatt på vegne av et foretak som
-nevnt i straffeloven § 5 første ledd bokstav c eller
-annet ledd bokstav c.
-Det vises for øvrig til kapittel 14.
-Til § 27
-I første ledd annet punktum endres formuleringen
-«oppfylt vilkåret om tilregnelighet, jf. § 20» til «har
-
-skyldevne etter § 20». Endringen er nødvendig
-fordi lov 21. juni 2019 nr. 48 endrer ordlyden i
-§ 20. Når loven trer i kraft, vil personer under kriminell lavalder ikke lenger være «utilregnelige» i
-straffelovens forstand. Dette uttrykket forbeholdes personer som ikke er strafferettslig ansvarlige
-på grunn av sterk avvikende sinnstilstand, sterk
-bevissthetsforstyrrelse eller høygradig psykisk
-utviklingshemming. Ved en inkurie ble ikke
-uttrykksmåten endret i § 27.
-Til § 67
-I første ledd tredje punktum endres formuleringen
-«var utilregnelig, jf. § 20» til «manglet skyldevne
-etter § 20». Endringen er nødvendig fordi lov
-21. juni 2019 nr. 48 endrer ordlyden i § 20. Når
-loven trer i kraft, vil personer under kriminell
-lavalder ikke lenger være «utilregnelige» i straffelovens forstand. Dette uttrykket forbeholdes personer som ikke er strafferettslig ansvarlige på
-grunn av sterkt avvikende sinnstilstand, sterk
-bevissthetsforstyrrelse eller høygradig psykisk
-utviklingshemming. Ved en inkurie ble ikke
-uttrykksmåten endret i § 67.
-Til § 77
-Ordlyden i bokstav i endres slik at det fremgår at
-det er en skjerpende omstendighet at lovbruddet
-har sin bakgrunn i andres kjønnsidentitet eller
-kjønnsuttrykk. Endringen tydeliggjør at også
-transpersoner er vernet, selv om hatmotivert kriminalitet mot denne minoritetsgruppen også tidligere har gitt grunnlag for å skjerpe straffen, jf. at
-transpersoner som gruppe må anses å ha «et særskilt behov for vern».
-I Prop. 88 L (2012–2013) punkt 16.1.2 side 110
-blir det sagt følgende om hva som menes med
-henholdsvis «kjønnsidentitet» og «kjønnsuttrykk»
-i den sivilrettslige diskrimineringslovgivningen.
-«Med kjønnsidentitet siktes det til hva slags
-kjønn vi føler og opplever oss selv som. Denne
-følelsen eller opplevelsen kan være i samsvar
-eller bryte med ens biologiske kjønn. Med
-kjønnsuttrykk menes hvordan kjønnsidentiteten bevisst eller ubevisst uttrykkes eller oppfattes av andre, for eksempel med stemme,
-klær, kroppsspråk, sminke eller frisyre.»
-Personer som har gjennomført eller er i ferd med
-å gjennomgå kjønnskonverterende eller kjønnsbekreftende behandling, som uttrykker seg på en
-tydelig kjønnsoverskridende måte, eller som ver-
+# Adgang til bruk av tvangsmidler ved mindre alvorlige lovbrudd
+
+## Bakgrunn
+
+I brev 21. oktober 2016 gjorde Riksadvokaten oppmerksom på uheldige konsekvenser som følger av at enkelte straffbare handlinger som tidligere kunne straffes med fengsel, etter straffeloven 2005 bare kan straffes med bøter. I slike saker er det ikke lenger hjemmel til å benytte tvangsmidler som er reservert for mistanke om straffbare handlinger som etter loven kan medføre frihetsstraff. Dette gjelder blant annet kroppslig undersøkelse av mistenkte etter straffeprosessloven § 157, innhenting av biologisk materiale med sikte på DNA-analyse etter § 158, det å ta foto eller fingeravtrykk etter § 160 og ransaking etter §§ 192 og 195.
+
+Manglende hjemmel for DNA-analyse medfører også at mistenktes DNA-profil ikke kan registreres i etterforskingsregisteret, jf. politiregisterloven § 12 tredje ledd. Riksadvokaten viste til at disse tvangsmidlene tidligere kunne benyttes i saker om naskeri etter straffeloven 1902 § 391 a (nå straffeloven 2005 § 323 om mindre tyveri), og var praktiske virkemidler i disse sakene.
+
+En adgang til pågripelse og ransaking i saker om mindre tyveri etter straffeloven § 323 er allerede gitt i henholdsvis straffeprosessloven §§ 171 annet ledd og 192 annet ledd. Riksadvokaten fremholdt at det bør vurderes å gi adgang til registrering av DNA, foto og fingeravtrykk i saker om mindre tyveri. Riksadvokaten viste til at manglende hjemmel for registrerering medfører at politiet går glipp av informasjon som kan bidra til oppklaringen av andre lovbrudd.
+
+## Gjeldende rett
+
+### Adgang til å foreta kroppslig undersøkelse, innhente biologisk materiale, å ta fingeravtrykk og fotografi samt ransaking av person og rom
+
+De fleste av straffeprosesslovens regler som gir hjemmel for tvang overfor mistenkte eller andre, forutsetter mistanke om en straffbar handling av en viss alvorlighetsgrad. Eksempler på unntak hvor det formelt ikke stilles slike krav, er adgangen til å avhente vitner etter § 115 og fremstilling til personundersøkelse etter § 166. Også slike virkemidler må likevel bare benyttes når det er forholdsmessig og tilstrekkelig begrunnet, jf. straffeprosessloven §170 a.
+
+For en rekke tvangsmidler er det en forutsetning at mistanken gjelder en straffbar handling som etter loven kan medføre «frihetsstraff». Dette gjelder følgende bestemmelser i straffeprosessloven:
+
+- kroppslig undersøkelse (§ 157)
+
+- DNA-analyse (§ 158)
+
+- fingeravtrykk og fotografi (§ 160)
+
+- ransaking av rom (§ 192)
+
+- ransaking av person (§ 195)
+
+- avlytting eller opptak av samtale med den mistenkte (§ 216 l)
+
+Straffbare handlinger som etter loven bare kan straffes med bot, åpner ikke for de ovennevnte virkemidler. Dette gjelder i straffeloven 2005 blant annet:
+
+- forulemping av offentlig tjenestemann og enkelte særskilt vernede yrkesgrupper ved skjellsord eller lignende (§§ 156 annet ledd og 265 fjerde ledd)
+
+- brudd på identifikasjonsplikten overfor polititjenestemann mv. (§ 162)
+
+- mindre tyveri (§ 323)
+
+- mindre underslag (§ 326)
+
+- mindre heleri (§ 334)
+
+- mindre hvitvasking (§ 339)
+
+- besittelseskrenkelse (§ 345)
+
+- mindre skadeverk (§ 353)
+
+- mindre bedrageri (§ 373)
+
+- bedragerilignende handlinger (§ 377)
+
+Disse straffebudene viderefører følgende straffebud i straffeloven 1902, som alle kunne medføre frihetsstraff etter loven, selv om bøtestraff var den vanlige reaksjonen i praksis:
+
+- forulemping av offentlig tjenestemann (§ 326 nr. 2)
+
+- brudd på identifikasjonsplikten (§ 333)
+
+- naskeri, underslag, heleri og bedrageri når straffeskylden var liten (§ 391 a)
+
+- skadeverk med liten skade (§ 391)
+
+- besittelseskrenkelse (§ 392)
+
+- restaurantbedrageri (§ 402)
+
+Straffeloven av 2005 har dermed ført til man i etterforskingen av disse straffbare handlingene ikke lenger kan bruke straffeprosessuelle tvangsmidler som har «frihetsstraff» som vilkår.
+
+Registrering av mistenktes DNA-profil etter reglene i politiregisterloven § 12 tredje ledd forutsetter at DNA-profilen er innhentet etter straffeprosessloven § 158 første ledd. Registrering av foto og fingeravtrykk av mistenkte etter reglene i politiregisterloven § 13 første ledd forutsetter at foto og fingeravtrykk er innhentet etter reglene i straffeprosessloven​ § 160 og bestemmelsene i påtaleinstruksen.
+
+### Adgang til pågripelse
+
+I straffeprosessloven er det også tvangsmidler som bare kan benyttes ved mistanke om handling som etter loven kan medføre *høyere* straff enn fengsel inntil seks måneder:
+
+- pågripelse og fengsling (§§ 171 og 184 annet ledd jf. 171)
+
+- skjult kameraovervåking på eller fra offentlig sted (§ 202 a)
+
+- utsatt underretning om beslag og utleveringspålegg (§§ 208 a og 210 a)
+
+Pågripelse (arrestasjon) besluttes av påtalemyndigheten og settes i verk av politiet, jf. straffeprosessloven § 175. Andre enn dem som hører til politi og påtalemyndighet – også privatpersoner – kan likevel beslutte og gjennomføre en pågripelse når den mistenkte «treffes eller forfølges på fersk gjerning eller ferske spor», jf. straffeprosessloven § 176. Forutsetningen er at de øvrige vilkårene for pågripelse er oppfylt, herunder kravet til forholdsmessighet i § 170 a.
+
+Hovedregelen er at bare den som mistenkes for en straffbar handling som kan medføre høyere straff enn fengsel i 6 måneder, kan pågripes, jf. straffeprosessloven § 171. I tillegg må det foreligge en fengslingsgrunn, normalt enten unndragelsesfare, fare for bevisforspillelse eller fare for gjentakelse. § 172 om rettshåndhevelsesarrest gjør unntak fra disse vilkårene, men den bestemmelsen er det ikke grunn til å gå nærmere inn på her.
+
+For lovbrudd som bare kan straffes med fengsel i inntil 6 måneder, kan pågripelse likevel skje dersom straffebudet selv uttrykkelig gir adgang til å kombinere fengsel og bot (bot eller fengsel inntil seks måneder eller «begge deler»). Den alminnelige adgangen etter straffeloven §§ 32 og 54 til å ilegge bot sammen med fengselsstraff er uten betydning for bestemmelser som tillegger strafferammen rettslig virkning, jf. straffeloven § 32 siste ledd.
+
+I straffeloven opereres det ikke med en strafferamme mellom fengselsstraff på 6 måneder og ett år, jf. Ot.prp. nr. 90 (2003–2004) punkt 11.4. Skal en videreføre systemet med gjeldende antall strafferammer i straffeloven, vil en utvidet adgang til pågripelse forutsette at strafferammen for lovbruddene økes eller at det gis særlige regler om pågripelses- og fengslingsadgang.
+
+Straffeloven 1902 § 391 a annet ledd om naskeri ga hjemmel til å kombinere bot og fengsel inntil seks måneder, og åpnet dermed for pågripelse etter straffeprosessloven § 171. Naskeri omfattet bagatellmessige former for tyveri, underslag, bedrageri, heleri og overtredelse av straffeloven 1902 § 262 om uberettiget tilgang til fjernsyns- eller radiosignaler. Strafferammen ble innført ved lov 28. juni 2002 nr. 55. Formålet var å utvide privatpersoners adgang til å pågripe ved naskeri, jf. Ot.prp. nr. 66 (2001–2002) punkt 18.5.
+
+I arbeidet med straffeloven 2005 fant departementet ikke grunn til å reversere pågripelsesadgangen ved naskeri, selv om strafferammen ble satt ned til bot, jf. Ot.prp. nr. 22 (2008–2009) punkt 8.3.3 side 283. På denne bakgrunn ble det ved ikraftsettingen ved lov 19. juni 2015 inntatt en hjemmel for pågripelse ved mistanke om mindre tyveri i straffeprosessloven § 171, jf. Prop. 64 L (2014–2015) punkt 6.7.2.3 på side 67. Derimot ble det ikke gitt en hjemmel for pågripelse ved de øvrige lovbruddene som tidligere var omfattet av straffeloven 1902 § 391 a, nemlig i saker om underslag, bedrageri og heleri. Departementet uttalte (Prop. 64 L (2014–2015) punkt 6.7.2.3 på side 67):
+
+«Hva gjelder Kripos' innspill vedrørende lovbruddene som er nevnt i straffeloven 1902 § 391 a siste ledd, er departementet i og for seg enig i at gjeldende rett gir adgang til pågripelse også her. Begrunnelsen som er gitt i Ot.prp. nr. 66 (2001–2002) punkt 18 for utvidelse av pågripelsesadgangen ved naskeri, synes imidlertid ikke å strekke seg så langt som til å gjelde de øvrige lovbruddene som omhandles i § 391 a. Det samme gjelder uttalelsene i Ot.prp. nr. 22 (2008–2009). En kan derfor ikke se at det i denne omgang er grunn til gi adgang til pågripelse etter straffeprosessloven § 171 ved mindre underslag, heleri, hvitvasking og bedrageri.»
+
+Dersom lovbryteren ved en eller flere handlinger har begått flere straffbare lovbrudd som bare kvalifiserer til bot, kan det fortsatt bare idømmes bøtestraff. Dersom forholdet kan anses som en fortsatt forbrytelse (for eksempel flere mindre underslag foretatt over tid) eller for øvrig må betraktes som ett straffbart forhold (for eksempel borttagelse av mange gjenstander som hver for seg har liten verdi fra flere personer og ved samme anledning), kan handlemåten likevel rammes av en strengere straffebestemmelse som gir adgang til å idømme fengselsstraff og dermed benytte enkelte tvangsmidler.
+
+I noen tilfeller gir straffeprosessloven adgang til å pågripe ved en straffbar handling uten noe vilkår om at handlingen kan straffes med en bestemt strafferamme eller straffart. Etter straffeprosessloven § 173 første ledd kan en person som treffes på fersk gjerning og ikke avstår fra den straffbare virksomhet, pågripes uten hensyn til størrelsen av straffen. Etter straffeprosessloven § 173 annet ledd kan mistenkte som «ikke vites å ha fast bopel i riket», pågripes «når det er grunn til å frykte for at han ved flukt til utlandet vil unndra seg forfølgingen eller fullbyrding av straff eller andre forholdsregler».
+
+Vilkårene for å varetektsfengsle er de samme som for å pågripe, jf. straffeprosessloven § 184 annet ledd. Departementet antar at fengsling i mange tilfeller vil være et uforholdsmessig inngrep etter straffeprosessloven § 170 a i saker om mindre underslag, mindre heleri, mindre hvitvasking, og mindre bedrageri (jf. straffeloven henholdsvis §§ 326, 334, 339 og 377) hvis ikke det dreier seg om et stort antall overtredelser.
+
+## Forslaget i høringsnotatet
+
+### Behovet for utvidet adgang til tvangsmiddelbruk
+
+I høringsnotatet uttalte departementet at det ved mindre tyveri (§ 323), mindre underslag (§ 326), mindre heleri (§ 334), mindre hvitvasking (§ 339), besittelseskrenkelse (§ 345), mindre skadeverk (353) og mindre bedrageri (§ 373) kunne være formålstjenlig og forholdsmessig med adgang til å foreta kroppslig undersøkelse, innhente biologisk materiale og ta fingeravtrykk og fotografi etter straffeprosessloven §§ 157, 158 og 160. Departementet viste til at oppklaring av mindre alvorlig kriminalitet kan være spesielt viktig hvis det er mistanke om gjentatte tilfeller. Dersom flere mindre tyverier rettslig sett er å anse som ett vanlig tyveri, vil strafferammen i straffeloven § 321 gi adgang til for eksempel å innhente biologisk materiale med sikte på DNA-analyse.
+
+Departementet uttalte at det også kunne vurderes å gi adgang til nevnte tvangsmidler ved forulemping av offentlig tjenesteperson og enkelte særskilt vernede yrkesgrupper ved skjellsord eller lignende (straffeloven hhv. §§ 156 annet ledd og 265 fjerde ledd) og ved brudd på identifikasjonsplikten overfor polititjenesteperson mv. (straffeloven § 162).
+
+Departementet utalte at det kunne tenkes at ransaking kunne være formålstjenlig og forholdsmessig ved mistanke om brudd på identifikasjonsplikten overfor polititjenesteperson mv. (straffeloven § 162), mindre underslag (straffeloven § 326), mindre heleri (straffeloven § 334) og mindre skadeverk (straffeloven § 353).
+
+Departementet reiste spørsmål om det burde være adgang til pågripelse ved mistanke om mindre underslag (§ 236), mindre heleri (§ 334), mindre hvitvasking (§ 339) og mindre bedrageri (§ 373). Departementet uttalte at det nok bare unntaksvis ville være forholdsmessig å benytte pågripelse ved mistanke om en straffbar handling som etter loven kun kan straffes med bot, men at det for eksempel kunne være aktuelt hvis det er tale om gjentatte lovbrudd.
+
+Departementet var i tvil om det er nødvendig å åpne for pågripelse i disse sakstypene, og ba om høringsinstansenes syn på spørsmålet.
+
+### Vurderinger av lovtekniske løsninger for utvidet adgang til tvangsmiddelbruk
+
+I høringsnotatet foreslo departementet å utvide strafferammen og straffarten til bot eller fengsel i inntil seks måneder for å gi adgang til å foreta kroppslig undersøkelse av mistenkte, innhente biologisk materiale med sikte på DNA-analyse, å ta foto eller fingeravtrykk samt ransake person og rom, i saker som gjelder overtredelse av følgende straffebud:
+
+- § 156 annet ledd om den som ved skjellsord eller annen utilbørlig atferd forulemper en offentlig tjenestemann​ under eller på grunn av utføringen av tjenesten
+
+- § 162 om brudd på identifikasjonsplikten
+
+- § 265 fjerde ledd om den som ved skjellsord eller annen grovt krenkende ordbruk eller atferd forulemper en person som nevnt i § 265 annet ledd under dennes yrkesutøvelse
+
+- mindre tyveri (§ 323)
+
+- mindre underslag (§ 326)
+
+- mindre heleri (§ 334)
+
+- mindre hvitvasking (§ 339)
+
+- besittelseskrenkelse (§ 345)
+
+- mindre skadeverk (§ 353)
+
+- mindre bedrageri (§ 373)
+
+Et alternativ som departementet skisserte som en aktuell lovteknisk løsning for å utvide adgangen til tvangsmiddelbruk, var å innta en henvisning til de relevante straffebudene i de bestemmelsene som hjemler de enkelte tvangsmidlene. Løsningen tilsvarer den som er valgt for å gi utvidet adgang til tvangsmiddelbruk i saker om mindre tyveri etter straffeloven § 323 i straffeprosessloven § 171 om pågripelse, i § 192 om ransaking av rom og i § 195 om ransaking av person.
+
+## Høringsinstansenes syn
+
+### Utvidet adgang til kroppslig undersøkelse, innhenting av biologisk materiale med sikte på DNA-analyse, ransaking samt å ta fingeravtrykk og fotografi
+
+*Kripos, Kristiansand tingrett, Nordland statsadvokatembeter, Norges politilederlag, Oslo politidistrikt, Politidirektoratet, Sør-Øst politidistrikt* og *Øst politidistrikt* støtter utvidet adgang til tvangsmiddelbruk i tråd med forslaget i høringsnotatet.
+
+*Politidirektoratet* trekker frem at tvangsmidler som ransaking, signalering, kroppslig undersøkelse og innhenting av biologisk materiale er viktige også for bekjempelse av mindre alvorlig kriminalitet. Mindre alvorlig kriminalitet er den som oftest rammer privatpersoner, og det vil fremstå som lite tillitvekkende dersom politiet ikke har anledning til effektivt å ettergå slike lovbrudd til tross for at det foreligger klare holdepunkter for mistanke. *Oslo politidistrikt* trekker frem at det i blant vil kunne være rimelig grunn til å undersøke om en mindre alvorlig overtredelse kan være en del av en omfattende modus. *Oslo politidistrikt* viser også til at blodprøver er nyttige for å avklare om en psykose er rusutløst eller skyldes en underliggende reell sykdomstilstand.
+
+*Norges politilederlag* trekker frem at mindre alvorlig lovbrudd nesten alltid er inngangen til alvorlig kriminalitet. Det at politiet har nødvendige hjemler til å gripe inn og bruke tvangsmidler ved slike lovbrudd er i tråd med politiets uttalte målsetting om at forebygging skal være primærstrategien for alt politiarbeid.
+
+*Kripos* trekker frem at utvidet tvangsmiddelbruk er fornuftig på grunn av behovet for biometrisk autentisering. Det vises særlig til at det er hensiktsmessig å kunne ta fingeravtrykk for å identifisere en person ved mistanke om brudd på identifikasjonsplikten overfor en polititjenesteperson eller annen offentlig myndighet etter straffeloven § 162. Uavhengig av lovbruddets art er det viktig at politiet har mulighet til å kunne fastslå korrekt identitet. Biometri kan bidra til å avdekke ID-misbruk, om personen er etterlyst, og bidra til korrekte attester.
+
+*Politidirektoratet* trekker frem at kravet til forholdsmessighet etter straffeprosessloven § 170 a uansett vil utgjøre en skranke for tvangsmiddelbruken og sørge for en konkret vurdering i den enkelte sak.
+
+*Dommerforeningen* har forståelse for departementets vurderinger i høringsnotatet av behovet for utvidet adgang til tvangsmiddelbruk.
+
+*Politihøgskolen* har ikke innvendinger mot forslaget om å endre straffart for å gi utvidet adgang til tvangsmiddelbruk.
+
+*Riksadvokaten* mener det er et behov for adgang til kroppslig undersøkelse av mistenkte, innhenting av biologisk materiale med sikte på DNA-analyse og å ta foto eller fingeravtrykk i saker etter straffeloven § 323 om mindre tyveri. Manglende hjemmel for å registrere DNA, foto og fingeravtrykk medfører også at politiet går glipp av informasjon som kan bidra til oppklaringen av andre lovbrudd. *Riksadvokaten* har ikke mottatt entydige signaler om behov for adgang til å foreta kroppslig undersøkelse av mistenkte, innhente biologisk materiale med sikte på DNA-analyse, å ta foto eller fingeravtrykk samt ransakning av person og rom, ved mindre heleri, underslag, hvitvasking, bedrageri, skadeverk, besittelseskrenkelse, brudd på identifikasjonsplikt overfor politiet og forulemping av særskilte yrkesgrupper. *Riksadvokaten* mener at det for flere av disse lovbruddene er gode argumenter for at en i alle fall skal kunne gjennomføre ransaking av person og/eller oppholdssted, ikke minst for å se om en finner penger eller løsøre som tilhører tredjeperson. Det kan også være gode grunner til å signalisere vedkommende med foto og fingeravtrykk. Ved lovbrudd av en type hvor DNA kan være av betydning for oppklaring, er det gode grunner for å kunne sikre DNA-profil.
+
+*Advokatforeningen, Nordland politidistrikt* og *Rettspolitisk forening* går imot forslaget om utvidet adgang til tvangsmiddelbruk.
+
+*Nordland politidistrikt* mener at dagens rettstilstand for bruk av tvangsmidler er tilfredsstillende. Det bør være en viss forholdsmessighet mellom straffenivå og adgangen til å benytte tvangsmidler.
+
+*Advokatforeningen* mener det ikke bør åpnes for bruk av tvangsmidler av noe slag ved straffebud som har bot som eneste reaksjonsform, utover allerede innførte særregler for naskeri. *Advokatforeningen* og *Rettspolitisk forening* trekker frem at prinsippet om at bruken av tvangsmidler skal være forholdsmessig stiller krav til den straffbare handlingens alvor, og straffarten ved overtredelse er et uttrykk for det. *Advokatforeningen* og *Rettspolitisk forening* går også imot å heve strafferammene for å gi utvidet adgang til tvangsmiddelbruk, se nærmere deres syn på dette spørsmålet nedenfor i dette punktet.
+
+*Datatilsynet* viser til at utvidet adgang til tvangsmiddelbruk i tråd med forslaget i høringsnotatet vil innebære at flere personer igjen vil havne i DNA-registeret og foto- og fingeravtrykkregisteret for straffbare handlinger som er mindre alvorlige. Spesielt unge lovbrytere vil da kunne bli registrert. Med de slettereglene som er i dag, vil det innebære at de blir registrert i DNA-registeret livet ut på grunn av lite alvorlige straffbare handlinger. *Datatilsynet* mener at det er behov for at forslaget suppleres med differensierte regler om sletting. En rimelig tilnærming til denne problematikken vil være å innføre differensierte sletteregler ut fra lovbryters alder (ved førstegangsforbrytelse) og lovbruddets alvorlighetsgrad.
+
+*Advokatforeningen* reiser spørsmål om forslaget om utvidet adgang til å registrere informasjon som bilde, fingeravtrykk og DNA for lovbrytere vil være i tråd med vernet om privatlivet i Grunnloven § 102 og EMK artikkel 8:
+
+«Disse virkemidlene har altså liten funksjon i den aktuelle etterforskningen. Det må antas at EMK artikkel 8 setter skranker for registrering av persondata som DNA, og for bruken av registre til etterforskning i fremtidige saker. Det er et klart spenningsforhold mellom rutinemessig lagring av DNA, som er et inngrep i privatlivet, og kravet i Grunnloven § 102 og EMK artikkel 8 til at slike inngrep må være nødvendige og forholdsmessige i den konkrete sak. Det er vanskelig å se at slik registrering i saker som reelt sett har en strafferamme på bot kan være i samsvar med konvensjonen.»
+
+Med henblikk på valget av lovteknisk løsning for å gi utvidet adgang til tvangsmiddelbruk, er det delte syn blant høringsinstansene. Høringsinstansene anser stort sett en endring fra adgangen til bare å kunne ilegge bot til en adgang til å kunne ilegge fengsel, som en «heving» eller «økning» av strafferammen. I forarbeidene til straffeloven synes departementet å skille mellom begrepet «straffart», som er formene for straff, og begrepet «strafferamme» som er hvor strengt det skal være adgang til å straffe innenfor en straffart, jf. Ot.prp. nr. 90 (2003–2004) punkt 11.1.1 og 11.2.1. I straffeloven § 29 gis det en oversikt over hvilke straffarter som finnes. Endringsforslaget i høringsnotatet kan sees slik at det både innebærer en endring i strafferamme og straffart (fra bot til fengsel). Departementet omtaler i det følgende dette endringsforslaget bare som en endring i «straffart».
+
+*Dommerforeningen, Kripos, Kristiansand tingrett* og *Øst politidistrikt* mener den beste lovtekniske løsningen er å endre straffart i de aktuelle straffebudene til fengsel i inntil 6 måneder. Det gis uttrykk for at henvisninger til de aktuelle straffebudene i de straffeprosessuelle bestemmelsene blir uoversiktlig.
+
+*Politihøgskolen* deler departementets prinsipielle motforestillinger mot å skjerpe strafferammene, men er enig i at en ordning med henvisninger til de enkelte straffebudene blir rettsteknisk komplisert. *Politihøgskolen* har derfor ikke innvendinger mot forslaget om å endre straffart for å gi utvidet adgang til tvangsmiddelbruk.
+
+*Nordland politidistrikt, Oslo politidistrikt, Politidirektoratet* og *Rettspolitisk forening* mener den beste lovtekniske løsningen vil være å henvise til de aktuelle straffebudene i de enkelte bestemmelser om tvangsmidler i straffeprosessloven. Det trekkes frem at strafferammer bør fastsettes ut fra handlingens straffverdighet, og ikke ut fra et ønske om utvidet adgang til tvangsmiddelbruk.
+
+*Riksadvokaten* er noe skeptisk til å velge løsningen med å endre straffart utelukkende for å gi utvidet adgang til bruk av tvangsmidler, og heller til at den beste løsningen er å henvise til de aktuelle straffebudene i de enkelte bestemmelser om tvangsmidler i straffeprosessloven.
+
+*Advokatforeningen* går imot forslaget om å heve strafferammene for å gi utvidet adgang til tvangsmiddelbruk. Det vises til straffens formål og at passende straffenivå for straffebudene er grundig vurdert i forarbeidene til straffeloven 2005. De minst alvorlige straffebudene bør fortsatt ha en strafferamme som reflekterer hva som er passende straffenivå for handlingene de gjelder.
+
+### Utvidet adgang til pågripelse
+
+*Nordland statsadvokatembeter, Oslo politidistrikt, Sør-Øst politidistrikt* og *Øst politidistrikt* støtter en utvidet adgang til pågripelse etter straffeprosessloven § 171 ved mindre underslag (§ 236), mindre heleri (§ 334), mindre hvitvasking (§ 339) og mindre bedrageri (§ 373). Etter *Dommerforeningens* syn taler mye for at det bør være adgang til pågripelse ved mindre heleri, underslag og bedrageri.
+
+*Sør-Øst politidistrikt* viser til at det vil kunne foreligge et klart og legitimt behov for frihetsberøvelse av siktede i en kortere periode i forbindelse med ransakning for å unngå at siktede gis mulighet til å forspille bevis. *Kripos* gir uttrykk for at selv om behovet for pågripelse sjelden er aktuelt i mindre alvorlige saker og ofte mindre aktuelt enn ransaking, kan det i praksis oppstå situasjoner hvor pågripelse fremstår som både forholdsmessig og nødvendig. Det vil i så fall være svært uheldig om politiet står uten hjemmel til å gripe inn.
+
+*Oslo politidistrikt* viser til at de håndterer et stort antall saker der utenlandske statsborgere med ingen eller bare løs tilknytning til Norge har begått mindre alvorlige vinningsforbrytelser. De fleste sakene dreier seg om tyveri, og det er også saker der det er mistanke om mindre skadeverk, mindre hvitvasking og mindre bedrageri. På grunn av faren for unndragelse vil pågripelse ofte være avgjørende for å få avgjort straffesakene. *Oslo politidistrikt* gir uttrykk for at det kan foreligge til dels sterk unndragelsesfare i mange saker uten at siktede kan pågripes etter straffeprossessloven § 173 om tilfeller der mistenkte «ikke vites å ha fast bopel i riket». I sakene vil det også kunne foreligge bevisforspillelsesfare og gjentagelsesfare. Videre gir *Oslo politidistrikt* uttrykk for at adgangen til å pågripe vil ha stor betydning for en etterfølgende bort- eller utvisningssak etter utlendingsloven.
+
+*Riksadvokaten* er enig med departementet i at det ikke er et åpenbart behov for utvidet adgang til pågripelse. Det vises til at departementet i høringsnotatet pekte på at ved mistanke om besittelseskrenkelse og mindre heleri kan det være uklart om det (i stedet) er snakk om mindre tyveri. I praksis vil det da ofte være skjellig grunn til mistanke om nettopp mindre tyveri, og adgang til å pågripe etter straffeprosessloven § 171 annet ledd såfremt vilkåret om forholdsmessighet er oppfylt.
+
+*Advokatforeningen* og *Rettspolitisk forening* går imot forslaget om utvidet adgang til bruk av tvangsmidler, herunder pågripelse. Se deres begrunnelse i punkt 17.4.1 ovenfor. *Nordland politidistrikt* mener gjeldende adgang til bruk av tvangsmidler er tilfredsstillende.
+
+Enkelte høringsinstanser omtaler spørsmålet om det bør gis adgang til pågripelse ved andre lovbrudd enn de departementet reiste spørsmål om i høringsnotatet. *Dommerforeningen* mener at det kan være behov for å gripe inn mot mindre skadeverk etter straffeloven § 353 gjennom pågripelse. *Nordland statsadvokatembeter* mener at adgang til bruk av pågripelse bør omfatte straffeloven § 162 første punktum, § 265 tredje ledd og § 345 om besittelseskrenkelse. *Oslo politidistrikt* uttaler at de ikke tar til orde for adgang til pågripelse ved forulemping av offentlig tjenestemann og enkelte særskilt vernede yrkesgrupper (§§ 156 annet ledd og § 265 tredje ledd), brudd på identifikasjonsplikten overfor polititjenestemann (§ 162) og bedragerilignende handlinger (§ 377).
+
+## Departementets vurdering
+
+### Generelt om utvidet tvangsmiddelbruk
+
+Behovet for å kunne benytte tvangsmidler i etterforskningen av mindre alvorlige lovbrudd må avveies mot det inngrepet dette vil representere overfor siktede.
+
+At en straffbar handling bare kan straffes med bot, gjenspeiler at det dreier seg om et mindre alvorlig lovbrudd. Verken den vernede interesse eller de følger handlingen kan ha, tilsier at fengselsstraff vil være aktuelt. Når flere tvangsmidler krever at det foreligger mistanke om en straffbar handling som etter loven kan medføre frihetsstraff, eller over seks måneders fengsel for pågripelse, bygger dette på en forutsetning om at mindre alvorlige forhold ikke er alvorlige nok til å begrunne det aktuelle inngrepet. Dersom det likevel skal gis adgang til å benytte det aktuelle tvangsmiddelet for mindre alvorlige forhold, må det etter departementets syn foreligge særlige grunner. I denne vurderingen bør det blant annet legges vekt på hvor inngripende tvangsmiddelet er og hvilken nytteverdi det kan ha for rettshåndhevelsen. Andre momenter er om det dreier seg om handlinger der fornærmede ikke antas å bidra til oppklaring og om kriminaliteten begås i lukkede miljøer mv., se Prop. 68 L (2015–2016) punkt 6.1.4 side 45.
+
+### Utvidet adgang til kroppslig undersøkelse, innhenting av biologisk materiale med sikte på DNA-analyse, samt å ta fingeravtrykk og fotografi
+
+Etter departementets syn foreligger det ikke et tilstrekkelig behov for kroppslig undersøkelse (straffeprosessloven § 157) i saker etter straffeloven om mindre tyveri (§ 323), mindre underslag (§ 326), mindre heleri (§ 334), mindre hvitvasking (§ 339) og mindre skadeverk (§ 353).
+
+Departementet kan ikke se at det foreligger et tilstrekkelig behov for å ta fingeravtrykk og fotografi (straffeprosessloven § 160) i saker om forulemping av offentlig tjenesteperson og av særskilte yrkesgrupper (henholdsvis straffeloven § 156 annet ledd og § 265 fjerde ledd).
+
+Departementet kan heller ikke se at det foreligger et tilstrekkelig behov for adgang til DNA-analyse (straffeprosessloven § 158) i saker om forulemping av offentlig tjenesteperson og av særskilte yrkesgrupper (henholdsvis straffeloven § 156 annet ledd og § 265 fjerde ledd). Etter departementets syn foreligger det heller ikke et tilstrekkelig behov i saker om brudd på identifikasjonsplikten (§ 162), besittelseskrenkelse (§ 345), mindre skadeverk (§ 353) og mindre bedrageri (§ 373).
+
+Departementet antar derimot at adgang til å ta fingeravtrykk og fotografi (straffeprosessloven § 160) kan være hensiktsmessig for oppklaringen av saker etter straffeloven om mindre tyveri (§ 323), mindre underslag (§ 326), mindre heleri (§ 334) og mindre hvitvasking (§ 339). Det samme gjelder for saker om mindre bedrageri (§ 373), mindre skadeverk (§ 353) og besittelseskrenkelse (§ 345). En styrket håndheving er særlig viktig der det er tale om gjentatte tilfeller. I praksis kan det være hensiktsmessig å undersøke om en mindre alvorlig overtredelse er en del av en omfattende modus. Forholdsmessighetskravet etter straffeprosessloven § 170 a vil uansett sette grenser for tvangsmiddelbruken.
+
+Også i saker om brudd på identifikasjonsplikten (straffeloven § 162), mener departementet det kan være hensiktsmessig med adgang til fingeravtrykk og fotografi. Det vises til Kripos sin høringsuttalelse om at det særlig vil være nyttig å kunne ta fingeravtrykk for å identifisere en person ved mistanke om brudd på identifikasjonsplikten overfor en polititjenesteperson eller annen offentlig myndighet.
+
+Departementet antar videre at det kan være et viss behov for DNA-analyse i saker om mindre tyveri (§ 323), mindre underslag (§ 326), mindre heleri (§ 334) og mindre hvitvasking (§ 339).
+
+*Datatilsynet* har under høringen vist til at en utvidet adgang innebærer at flere personer vil oppføres i DNA-registeret på livstid for mindre alvorlige forbrytelser. Problemstillingen om registering i identitetsregisteret gjør seg gjeldende både for fingeravtrykk, fotografi og DNA-profiler. Departementet viser til at informasjonen, slik registreringsreglene lyder i dag, bare vil bli registrert i etterforskningsregisteret, men ikke i identitetsregisteret. Registrering i identitetsregisteret forutsetter at et av vilkårene i politiregisterloven § 12 annet ledd er oppfylt. Annet ledd lyder:
+
+«I identitetsregisteret kan registreres den som
+
+1\. er ilagt en straff som nevnt i straffeloven § 29 for en handling som etter loven kan medføre frihetsstraff. Registrering kan først skje når avgjørelsen er rettskraftig eller saken er endelig avgjort. Handling som det er utferdiget forenklet forelegg​ for, gir ikke grunnlag for registrering,
+
+2\. på grunn av reglene i straffeloven § 20 første ledd ikke kan dømmes til straff for en handling som kvalifiserer for registrering. Det samme gjelder når tilstanden har medført at vedkommende ikke har utvist skyld,
+
+3\. er norsk statsborger eller arbeider eller oppholder seg i Norge, og som i utlandet er ilagt en straff som svarer til dem som er nevnt i straffeloven § 29, og den begåtte handling kunne ha medført frihetsstraff om den hadde vært begått i Norge, eller
+
+4\. begjærer det av grunner som finnes fyllestgjørende»
+
+Opplysninger i etterforskningsregisteret skal slettes når den registrerte rettskraftig frifinnes eller saken avsluttes på annen måte uten at vilkårene for registrering i identitetsregisteret er oppfylt, hvis ikke vilkårene for registrering i forbindelse med en annen sak er til stede, jf. politiregisterforskriften § 45-17 annet ledd. Om registrering av fotografi og fingeravtrykk, se politiregisterloven §§ 13 og 14 og politiregisterforskriften § 46-5.
+
+Dette innebærer at biometri og foto kan registreres i etterforskningsregisteret også for enkelte lovbrudd som kun kan straffes med bot. Imidlertid vil profilen måtte slettes uavhengig av om personen ilegges noen reaksjon eller ikke, ettersom vilkårene for registrering i identitetsregisteret ikke vil være oppfylt. Departementet stiller spørsmål ved nytten av slik registrering. Registrering av fingeravtrykk, foto og DNA-profil vil i begrenset grad bidra til å oppklare den konkrete saken som innhentingen av informasjonen er foranlediget av. Hensynet til å oppklare andre saker, gjør seg for så vidt gjeldende for flere lovbrudd enn de som ble vurdert i høringsrunden.
+
+Det synes også lite konsekvent at en profil skal registreres i etterforskningsregisteret, men alltid må slettes når saken er avgjort. Et alternativ er å åpne for registrering også i identitetsregisteret i disse sakene, men også det kan medføre uheldige konsekvenser. Som Datatilsynet har påpekt, vil dette innebære omfattende og langvarig registrering ved mindre alvorlige lovbrudd. Det nevnes også at det i den senere tid har vært flere rettssaker om registrering i DNA-registeret, hvorav en er klaget inn for EMD.
+
+Endelig vil forslagene kunne medføre behov for endringer i politiregisterlovgivningen, ettersom loven og forskriften legger til grunn at opptak og registrering av biometri kan skje for forhold som kan medføre frihetsstraff. Dette er ikke hørt.
+
+Departementet vil derfor ikke foreslå endringer i denne omgangen, men vil ved behov komme tilbake til spørsmålet på et senere tidspunkt.
+
+### Utvidet adgang til ransaking av rom og person
+
+Departementet antar at adgang til ransaking av rom og person (henholdsvis straffeprosessloven §§ 192 og 195) ofte vil kunne være avgjørende for oppklaringen av saker etter straffeloven om mindre tyveri (§ 323), mindre underslag (§ 326) og mindre heleri (§ 334). Som *Riksadvokaten* påpeker, er det gode argumenter for at det skal kunne være adgang til å ransake person og oppholdssted, for å undersøke om en finner penger eller løsøre som tilhører tredjeperson. En styrket håndheving er særlig viktig der det er tale om gjentatte tilfeller. Departementet antar at det i praksis kan være rimelig grunn til å undersøke om slike mindre alvorlige overtredelser er en del av en omfattende modus. Departementet viser til høringsinnspillet fra *Politidirektoratet* om at mindre alvorlig kriminalitet er det som oftest rammer privatpersoner, og det vil være lite tillitvekkende om politiet ikke har mulighet til å effektiv ettergå slike lovbrudd der det er klare holdepunkter for mistanke. Selv om ransaking av rom og person er inngripende tvangsmidler, bør det etter departementets vurdering åpnes for dette ved de nevnte overtredelsene.
+
+Ved mindre skadeverk (§ 353) antar departementet at ransaking av person noen ganger vil kunne være avgjørende for oppklaringen av saken og fremstå forholdsmessig. Det kan f.eks. fremstå som lite rimelig om politiet ikke kan ransake en person som treffes på ferske spor og mistenktes for mindre skadeverk, når denne må antas å oppbevare bevismaterialet i en sekk som han eller hun bærer med seg. Det vises også til høringsinnspillet fra *Norges politilederlag* om at det er nyttig for politiets forebyggingsarbeid å effektivt kunne ettergå mindre lovbrudd, fordi disse for gjerningspersonen kan tjene som en inngang til mer alvorlig kriminalitet. Departementet mener imidlertid at det ikke foreligger tilstrekkelige grunner til å åpne for ransaking av rom, f.eks. mistenktes bolig.
+
+I saker om overtredelser av identifikasjonsplikten overfor polititjenesteperson mv. (straffeloven § 162), kan det fremstå som lite rimelig om politiet ikke kan kontrollere om en person som mistenkes for å oppgi falsk navn, bærer på seg legitimasjon eller annen dokumentasjon som kan kaste lys over identiteten. Departementet mener derfor det bør være adgang til ransaking av person etter straffeprosessloven § 195 ved slike overtredelser. Departementet kan imidlertid ikke se tilstrekkelige grunner til å åpne for ransaking av rom, f.eks. mistenktes bolig.
+
+Departementet kan ikke se et tilstrekkelig praktisk behov for å åpne for ransaking av person og rom i saker om mindre hvitvasking (§ 339). Tilsvarende gjelder ved mindre bedrageri (§ 373). Heller ikke besittelseskrenkelse (§ 345) antas å være av en slik karakter at det bør være adgang til ransaking av person og rom.
+
+Departementet fremmer på denne bakgrunnen forslag om å gi adgang til ransaking av rom i saker etter straffeloven om mindre underslag (§ 326) og mindre heleri (334). Departementet fremmer også forslag om å gi adgang til ransaking av person i saker om nevnte lovbrudd, samt i saker om overtredelser av identifikasjonsplikten overfor polititjenesteperson mv. (§ 162) og mindre skadeverk (§ 353).
+
+Det vises til spesialmerknadene til lovendringene i punkt 21.2.
+
+### Utvidet adgang til pågripelse
+
+Spørsmålet om det skal være adgang til å pågripe ved mindre underslag (§ 326), mindre heleri (§ 334), mindre hvitvasking (§ 339), mindre skadeverk (§ 353) og mindre bedrageri (§ 373) beror dels på hvor stort behovet er for å pågripe, og dels på betenkelighetene ved en utvidet pågripelsesadgang.
+
+Det kan, som noen høringsinstanser påpeker, i noen tilfeller være formålstjenlig og forholdsmessig for politiet og påtalemyndighet å pågripe i slike saker. Det gjelder etter departementets syn særlig for å forebygge bevisforspillelse, jf. straffeprosessloven § 171 første ledd nr. 2. Departementet viser til høringsinnspillet fra *Sør-Øst politidistrikt* om at det kan foreligge et klart og legitimt behov for å frihetsberøve siktede i en kortere periode i forbindelse med ransakning for å unngå at siktede gis mulighet til å forspille bevis. Høringen har likevel ikke underbygget at det er et vesentlig behov for det i slike saker.
+
+Vilkårene for å varetektsfengsle er de samme som for å pågripe, jf. straffeprosessloven § 184 annet ledd. Fengsling vil som regel være et uforholdsmessig inngrep i slike saker, med mindre det dreier seg om et stort antall overtredelser som samlet utgjør et betydelig beløp. Varetekt begjæres av påtalemyndigheten og besluttes av retten, jf. straffeprosessloven § 183 første ledd. Faren for at varetekt skal bli brukt i større utstrekning enn loven åpner for er derfor langt mindre enn ved pågripelse. Etter departementets syn er det derfor ikke et avgjørende argument mot å utvide adgangen til å pågripe at adgangen til å varetektsfengsle utvides samtidig.
+
+En utvidelse av adgangen til pågripelse etter straffeprosessloven § 171 vil også gjelde for privatpersoner etter straffeprosessloven § 176. Her gjør det seg gjeldende større betenkeligheter enn ved adgang for politiet og påtalemyndigheten til beslutte pågripelse. Spørsmålet er om private bør få adgang til å pågripe en mulig overtreder som treffes eller forfølges på fersk gjerning eller ferske spor, jf. straffeprosessloven § 173, selv om personen avstår fra den straffbare virksomheten, hvis det er fare for unndragelse, bevisforspillelse eller gjentakelse og pågripelse ikke er et uforholdsmessig inngrep.
+
+Private som oppdager mindre underslag, mindre heleri, mindre hvitvasking, mindre skadeverk og mindre bedrageri har ingen rett til å kreve at overtrederen legitimerer seg. Siden de heller ikke kan holde overtredere tilbake til politiet kommer, vil en del overtredere lett kunne unnslippe. Adgang til pågripelse for privatpersoner innebærer at de gis adgang til å bruke makt for å sikre at ulovlig opptreden blir straffeforfulgt.
+
+Rett til å utøve makt overfor privatpersoner bør som hovedregel legges til politiet. Politiet har gjennom opplæring, erfaring og sin stilling ellers særlige forutsetninger for å kunne anvende makt. Disse hensynene ble ikke avgjørende da strafferammen etter straffeloven 1902 § 391 a ble hevet for å gi adgang til pågripelse i saker om naskeri, jf. Ot.prp. nr. 66 (2001–2002) punkt 18.5. Naskeri etter straffeloven § 391 a omfattet i tillegg til bagatellmessige tyverier bagatellmessige underslag, bedrageri og heleri. Adgangen til pågripelse gjaldt derfor også ved disse lovbruddene. Begrunnelsen som departementet ga i Ot.prp. nr. 66 (2001–2002) for å gi adgang til å pågripe, synes imidlertid i første rekke å ta sikte på mindre tyveri, jf. tilsvarende forståelse av disse forarbeidene i Prop. 64 L (2014–2015) punkt 6.7.2.3 på side 67 (sitert ovenfor i punkt 17.2.2).
+
+Etter departementets syn er det ikke et tilsvarende behov for pågripelse i saker om mindre underslag, mindre heleri, mindre hvitvasking, mindre skadeverk og mindre bedrageri. Når det ikke er et stort behov, bør de rettssikkerhetsmessige betenkelighetene og hensynet til at adgangen til tvangsmiddelbruk bør stå i forhold til lovbruddets alvor slik det gjenspeiles i strafferammen, tillegges avgjørende vekt. Departementet har på denne bakgrunn kommet til at det ikke bør være adgang til pågripelse ved mistanke om mindre underslag, mindre heleri, mindre hvitvasking, mindre skadeverk og mindre bedrageri.
+
+### Lovtekniske løsninger for utvidet tvangsmiddelbruk
+
+En utvidelse av adgangen til å undersøke rom og person kan gjennomføres på tre forskjellige måter.
+
+Første alternativ er å endre kriminalitetskravet i straffeprosessloven §§ 158 og 160 fra straffbar handling som etter loven kan medføre frihetsstraff, til bare å gjelde straffbar handling. På den ene siden vil dette alternativet gi et enkelt og oversiktlig regelverk om tvangsmidler. Samtidig medfører det en vesentlig utvidet adgang til tvangsmiddelbruk uten at det er et påvist et behov for det. Det kvalifiserte kriminalitetskravet om frihetsstraff innebærer en lovbestemt, generell avveining av forholdet mellom mål og middel, og departementet ser ikke grunn til å gjøre unntak fra det kvalifiserte kriminalitetskravet om frihetsstraff bare basert på behovet for styrket håndhevelse for noen få typer lovbrudd.
+
+Det andre alternativet er å endre straffarten i straffebudene fra bot til bot eller fengsel inntil 6 måneder. Strafferammene skal gjenspeile hvilken interesse det enkelte straffebudet verner, hvor alvorlige følger den straffbare handlingen har og hvilken skyldform som kreves. Som et utgangspunkt skal strafferammer ikke fastsettes med henblikk på å gi adgang til bruk av straffeprosessuelle tvangsmidler, jf. Ot.prp. nr. 90 (2003–2004) punkt 11.3.4 side 131 og NOU 2002: 4 punkt 5.5.2.6 side 156. For strafferammer i det nedre sjiktet kan det likevel være «grunn til å velge en ramme på 1 år for å oppnå mulighet til å beslutte straffeprosessuell pågripelse og fengsling, selv om en ren straffverdighetsvurdering skulle tilsi at fengsel i 6 måneder er tilstrekkelig», jf. Ot.prp. nr. 90 (2003–2004) punkt 11.3.4 på side 131. Strafferammene bør fastsettes med utgangspunkt i eksisterende straffutmålingspraksis, iallfall når denne er så omfattende at det kan tales om et etablert nivå, jf. Ot.prp. nr. 90 (2003–2004) punkt 11.3.4 side 130 til 131. For mange mindre alvorlige lovbrudd hvor det aldri vil være tale om noe mer enn en bot, åpner den nye straffeloven bare for å reagere med bot, jf. også NOU 2002: 4 punkt 5.4.3 side 146 (proposisjonen samme sted).
+
+Straffens formål og kravene om hensiktsmessighet, humanitet og rettferdighet har størst betydning for spørsmålet om hva som skal kriminaliseres, og hvor strengt det skal være adgang til å straffe (strafferammer), jf. Ot.prp. nr. 90 (2003–2004) punkt 11.1.3. Samtidig har hensynene også betydning for hvilke straffarter som bør kunne brukes, jf. samme sted. I likhet med ved fastsettelse av strafferammer, bør også straffens art gjenspeile hvilken interesse det enkelte straffebudet verner, hvor alvorlige følger den straffbare handlingen har og hvilken skyldform som kreves. I tillegg tilsier subsidiaritetsprinsippet (det minste inngreps prinsipp) for bruk av straff at frihetsstraff bare bør kunne benyttes der den mindre inngripende straffarten bot ikke er tilstrekkelig for å sikre etterlevelse av straffeforbudet, jf. Ot.prp. nr. 90 (2003–2004) punkt 7.5.3.2.
+
+Departementet mener som et utgangspunkt at straffarten ikke bør endres fra bot til frihetsstraff for de aktuelle straffebudene, bare for å gi adgang til å undersøke rom og person.
+
+Det tredje alternativet, som departementet skisserte i høringsnotatet, er å henvise til de aktuelle straffebudene i de enkelte bestemmelser om tvangsmidler i straffeprosessloven. Til tross for at henvisninger til de aktuelle straffebudene i de straffeprosessuelle bestemmelsene kan bli noe uoversiktlig, slik flere høringsinstanser har påpekt, mener departementet at denne løsningen er klart å foretrekke. Departement har særlig lagt vekt på de prinsipielle hensyn som taler mot de alternative løsningene. Denne tilnærmingen gir også best anledning til å utvide adgangen til tvangsmidler bare for straffebudene der det er et behov for det.

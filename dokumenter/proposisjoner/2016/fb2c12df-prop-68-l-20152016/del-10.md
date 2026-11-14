@@ -1,1228 +1,220 @@
-# Prop. 68 L (2015–2016), del 10 av 29 (side 96–105)
+# Prop. 68 L (2015–2016), del 10 av 27
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2016/fb2c12df-prop-68-l-20152016.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-68-l-20152016/id2479232/
 - Original-PDF: https://www.regjeringen.no/contentassets/d2bd4dc7fdb44d90b0d094f4d415b981/no/pdfs/prp201520160068000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 96]
-
-96
-
-7.4.2.4
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-Departementets vurdering
-
-Straffeloven § 231 om simpel narkotikaovertre­
-delse (straffeloven 1902 § 162 første ledd) har en
-strafferamme på bøter eller fengsel inntil to år.
-Departementet ser at lovbruddets alvorlighets­
-grad dermed kan fremstå lav sammenliknet med
-kravet til henholdsvis ti og fem års strafferamme
-i straffeprosessloven § 216 a første ledd bokstav
-a og § 216 b første ledd bokstav a. Departemen­
-tet er likevel enig med utvalget i at det på nåvæ­
-rende tidspunkt ikke er grunnlag for å oppheve
-politiets adgang til å iverksette kommunikasjons­
-kontroll ved mistanke om simpel narkotika­
-overtredelse.
-Grensegangen mellom straffeloven §§ 231 og
-232 første ledd (straffeloven 1902 § 162 første og
-annet ledd) om grov narkotikaovertredelse knyt­
-ter seg i praksis hovedsakelig til kvantum narko­
-tika. Selv med et forholdsvis lite kvantum stoff, vil
-det imidlertid kunne oppstå situasjoner som nød­
-vendiggjør og berettiger kommunikasjonskon­
-troll. Dette kan for eksempel gjelde saker om salg
-av narkotika til mindreårige på skoler eller til
-andre utsatte grupper. Til tross for at simpel
-narkotikaovertredelse har en forholdsvis lav øvre
-strafferamme, representerer lovbrudd som her
-nevnt et alvorlig samfunnsproblem som krever
-effektive etterforskningsmetoder.
-Narkotikakriminaliteten har visse kjennetegn
-som gjør den særlig utfordrende å avdekke og
-iretteføre. Det er tale om såkalt offerløs kriminali­
-tet, hvor de involverte i liten grad kan forventes å
-inngi anmeldelse eller på annen måte bidra til opp­
-klaring. Deler av virksomheten foregår dessuten
-ofte i godt organiserte og lukkede miljøer, og utø­
-ves av særlig sikkerhetsbevisste aktører. Videre
-kan virksomheten ha betydelige internasjonale
-forgreininger. Disse forhold gjør at kunnskap om
-narkotikakriminalitet er vanskelig å skaffe til veie
-ved bruk av tradisjonelle etterforskningsmetoder
-som spaning og infiltrasjon.
-Etter departementets vurdering er politiets
-faktiske bruk av kommunikasjonskontroll egnet
-til å illustrere behovet for skjult tvangsmiddelbruk
-i narkotikasaker. Det fremgår av de siste års rapporter fra Kontrollutvalget for kommunikasjons­
-kontroll at om lag 70–80 % av avlyttingene som
-gjennomføres, knytter seg til narkotikakriminali­
-tet. Det fremgår ikke hvor stor andel av sakene
-som gjelder simple narkotikaovertredelser etter
-straffeloven § 231 (straffeloven 1902 § 162 første
-ledd). Tallene viser likevel narkotikakriminalitet
-som det primære anvendelsesområdet for kom­
-munikasjonskontroll, og understøtter et generelt
-
-2015–2016
-
-behov for adgang til å bruke metoden i denne
-sakstypen.
-Departementet antar også at en ordning hvor
-kommunikasjonskontroll tillates i saker som gjel­
-der grov, men ikke simpel narkotikaovertredelse,
-vil kunne være utfordrende å praktisere. I en tidlig
-fase av etterforskningen vil det ofte være vanske­
-lig å identifisere omfanget av lovbruddet, herunder om det omfattes av straffeloven §§ 231 eller
-232 første ledd (straffeloven 1902 § 162 første
-eller annet ledd). Som det ble poengtert i forbin­
-delse med vedtakelsen av 1976-loven, må politiet
-ofte «starte med å undersøke «detaljistleddet», for
-deretter å arbeide seg videre tilbake til de ledende
-forbrytere som står bak virksomheten», jf. Ot.prp.
-nr. 10 (1976–77) punkt 6 side 6. Etter departemen­
-tets oppfatning har dette synspunktet fremdeles
-gyldighet.
-Det er likevel grunn til å understreke at adgan­
-gen til bruk av kommunikasjonskontroll i simple
-narkotikasaker er underlagt vesentlige begrens­
-ninger. Etter straffeprosessloven § 170 a kan
-ethvert tvangsmiddel bare brukes når det er til­
-strekkelig grunn til det, og inngrepet etter sakens
-art og forholdene ellers ikke vil være uforholds­
-messig. Departementet antar at forholdsmessig­
-hetskravet vil ha særlig betydning i saker som
-gjelder simple narkotikaovertredelser. Det er
-dessuten grunn til å tro at ressurshensyn og beho­
-vet for prioritering i politiet i praksis bidrar til at
-kommunikasjonskontroll relativt sjelden benyttes
-i saker som gjelder straffeloven § 231. Departe­
-mentet antar derfor at bruken av kommunika­
-sjonskontroll først og fremst vil gjelde de mer
-alvorlige sakene, men at adgangen til slik tvangs­
-middelbruk ved mistanke om simpel narkoti­
-kaovertredelse bør beholdes som en sikkerhets­
-ventil i de sakene det likevel er nødvendig.
-
-7.4.3
-7.4.3.1
-
-Grov menneskesmugling
-Gjeldende rett
-
-Strafferegler om menneskesmugling er inntatt i
-lov 15. mai 2008 nr. 35 om utlendingers adgang til
-riket og deres opphold her (utlendingsloven)
-§ 108. Simpel menneskesmugling straffes etter
-bestemmelsens fjerde ledd bokstav b, som rammer det å hjelpe «en utlending til ulovlig å reise
-inn i riket eller til et annet land». Grov mennes­
-kesmugling karakteriseres av at smuglingen skjer
-med vinnings hensikt, samt enten foregår som
-ledd i organisert ulovlig virksomhet eller med­
-fører livsfare for den smuglede, jf. § 108 femte
-ledd.
-
-[Side 97]
-
-2015–2016
-
-97
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-Paragraf 108 femte ledd bokstav a retter seg
-mot den som «i vinnings hensikt driver organisert
-ulovlig virksomhet med sikte på å hjelpe utlendin­
-ger til å reise inn i riket eller til en annen stat».
-Bestemmelsen rekker forholdsvis vidt, og er ment
-å ramme «både den som åpent sier til vedkom­
-mende utlendinger at de ikke fyller vilkårene for å
-få oppholdstillatelse i Norge, men at han kan
-hjelpe dem med innreisen og så får de selv prøve å
-få bli i landet, og den som organiserer reiser til
-Norge for utlendinger som fyller kravene for å få
-bli her, f.eks. flyktninger som oppfyller vilkårene
-for å få asyl», jf. Ot.prp.nr. 46 (1986–87) punkt IV
-side 252.
-Paragraf 108 femte ledd bokstav b rammer
-situasjoner hvor noen «i vinnings hensikt hjelper
-en utlending til ulovlig å reise inn i riket eller til en
-annen stat dersom handlingen medfører at perso­
-nen som berøres av handlingen blir utsatt for livs­
-fare». Eksempler omfatter situasjoner hvor men­
-nesker er fraktet i stengte containere som har gått
-tom for oksygen, hvor havområder er forsøkt
-krysset på små flåter eller mangelfullt utstyrte
-båter, eller hvor mennesker er fraktet om bord i
-lasterom på fly, jf. Vevstad (red.): Utlendingsloven
-kommentarutgave (Oslo, 2010) side 625.
-Strafferammen for grov menneskesmugling
-er bot eller fengsel inntil seks år. Strafferammen
-tilfredsstiller følgelig kravet for bruk av kommu­
-nikasjonskontroll
-etter
-straffeprosessloven
-§ 216 b, men ikke kommunikasjonsavlytting etter
-§ 216 a.
-7.4.3.2
-
-Metodekontrollutvalgets forslag
-
-Metodekontrollutvalget vurderer i utredningen
-punkt 16.4.3 side 187 flg. om det bør åpnes for
-bruk av kommunikasjonsavlytting etter straffepro­
-sessloven § 216 a i saker om grov menneskesmug­
-ling. Bakgrunnen er blant annet at Riksadvokaten
-i flere brev til Justis- og beredskapsdepartementet
-har bedt om en slik vurdering. Utvalget anser
-menneskesmugling for å være en alvorlig krimina­
-litetsform, som har flere av de kjennetegn som
-kan rettferdiggjøre skjult tvangsmiddelbruk. Det
-peker særlig på at ofrene normalt vet at de invol­
-verer seg med ulovlig virksomhet, og at de ofte
-oppholder seg ulovlig i forskjellige land under
-transporten og i ankomstlandet. Ofrene vil derfor
-gjerne være tilbakeholdne med å samarbeide med
-politiet. Videre viser utvalget til at menneskes­
-mugling nødvendigvis har internasjonale forgrei­
-ninger, og derfor kan være vanskelig å kartlegge.
-Særlig vil det kunne være vanskelig å nå frem til
-bakmennene gjennom tradisjonell etterforskning.
-
-Samtidig peker utvalget på at tiltak mot
-menneskesmugling også kan ramme en svært
-sårbar gruppe – de smuglede. Det presiserer der­
-for at eventuelle skjulte tvangsmidler bare bør
-kunne brukes mot dem som med skjellig grunn
-kan mistenkes for menneskesmuglingen. De
-smuglede selv skal ikke kunne være gjenstand for
-slik tvangsmiddelbruk.
-Etter dette konkluderer utvalget med at det
-bør åpnes for bruk av kommunikasjonsavlytting i
-saker om grov menneskesmugling. Det går derfor
-inn for at utlendingsloven 1988 § 47 fjerde ledd,
-som nå er erstattet av utlendingsloven 2008 § 108
-femte ledd, tilføyes listen over straffebud som kan
-begrunne slik avlytting i straffeprosessloven § 216
-a første ledd bokstav b.
-7.4.3.3
-
-Høringsinstansenes syn
-
-Politidirektoratet, Riksadvokaten, Det nasjonale
-statsadvokatembetet (NAST), Oslo statsadvokatem­
-beter, Oslo politidistrikt, Østfold politidistrikt, Nor­
-ges politilederlag og Politiets Fellesforbund støtter
-utvalgets forslag om at det åpnes for bruk av kom­
-munikasjonsavlytting i saker om grov menneske­
-smugling. Advokatforeningen er imot forslaget.
-Østfold politidistrikt fremhever at det her er
-tale om en kriminalitetsform hvor både gjernings­
-mann og offer ofte har interesse i at forholdet ikke
-blir avdekket, noe som vanskeliggjør etterforsk­
-ningen. Det pekes videre på at menneskesmuglin­
-gen ofte foregår som ledd i organisert kriminali­
-tet, med avsenderapparat i utlandet og mottake­
-rapparat her i landet. Politidistriktet mener at
-kommunikasjonskontroll vil være et godt virke­
-middel for å avdekke slik ulovlig virksomhet.
-NAST understreker hensynet til internasjonalt
-politisamarbeid, og finner det uheldig at Norge er
-et av få land i Vest-Europa hvor politiet ikke har
-adgang til å bruke kommunikasjonskontroll i
-menneskesmuglingssaker.
-Riksadvokaten viser i høringsuttalelsen til sitt
-brev til departementet 3. april 2002, med senere
-oppfølgingsbrev 5. juli 2004 og 25. april 2007. I
-brevene tilrår embetet at utlendingslovens
-bestemmelse om grov menneskesmugling tilføyes
-listen over straffebud som kan gi adgang til bruk
-av kommunikasjonsavlytting etter straffepro­
-sessloven § 216 a. Fra brevet av 2002 hitsettes:
-«Behovet for kunne bruke kommunikasjonsav­
-lytting i menneskesmuglingssaker ble tatt opp
-med riksadvokaten i brev fra Kriminalpolitisen­
-tralen av 11. desember 2001. Det er vist til erfa­
-ringene fra Danmark hvor det er åpnet adgang
-
-[Side 98]
-
-98
-
-2015–2016
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-til å bruke kommunikasjonsavlytting i denne
-sakstype. I tillegg til de oppgaver som er inntatt
-i brevet fra Kripos kan nevnes: I perioden 1998­
-2001 hadde Danmark ca. 45 000 registrerte
-asylsøkere, og mens tallet i Norge var ca.
-43 000. Danmark avdekket i samme periode
-knapt 1 600 menneskesmuglingssaker, mens
-tallet i Norge var ca. 260. Det må være grunn til
-å anta at deler av denne formidable forskjell i
-effektivitet må ha sammenheng med de etter­
-forskningsmetoder politiet har adgang til å
-benytte idet problemets reelle omfang ikke kan
-være så mye mindre i Norge.
-Menneskesmuglingssaker har det til felles
-med narkotikakriminaliteten at både de som
-står for kriminaliteten og de som reelt sett er
-offer for den, ønsker å holde virksomheten
-skjult for de rettshåndhevende myndigheter.
-Når forhold avdekkes, er erfaringene at ingen
-av de involverte synes interessert i å gi opplys­
-ninger som kan bidra til oppklaring. I tillegg
-følger det at menneskesmuglingskriminalite­
-ten med nær sagt iboende nødvendighet må
-være grenseoverskridende og følgelig er det
-uheldig med for store forskjeller mellom de
-nordiske land i spørsmålet om hvilke metoder
-som kan benyttes.»
-Riksadvokaten bekrefter å være av samme syn i
-dag.
-Politiets Fellesforbund kommenterer utvalgets
-uttalelser om at det ikke skal være adgang til å
-avlytte kommunikasjonsmidler som disponeres av
-ofrene for menneskehandelen:
-«Utvalget poengterer at de smuglede er svært
-sårbare personer som ikke vil kunne være
-gjenstand for tvangsmiddelbruk. PF er på prin­
-sipielt grunnlag enig i dette, men ønsker å
-understreke ofte vil bakmenn som smugler
-barn til Norge utstyre ofrene med telefoner og
-benytte disse til å gi ordre (jf. Kineserbarn­
-saken).
-Det bør derfor være mulig å avlytte tele­
-foner som reelt sett eies av bakmenn, men som
-disponeres av ofrene. Erfaring har vist at disse
-bakmennene ofte oppholder seg i land hvor det
-er juridisk/praktisk krevende å få iver[k]satt
-kommunikasjonskontroll.»
-Advokatforeningen er den eneste høringsinstansen
-som uttrykkelig går imot utvalgets forslag.
-Foreningen begrunner sin skepsis med prinsi­
-pielle betenkeligheter knyttet til utvidelse av
-adgangen til skjult tvangsmiddelbruk:
-
-«Advokatforeningen ser at politiet for sitt
-arbeid kan ønske seg størst mulig frihet til å
-anvende flest mulige tvangsmidler under sin
-etterforsking — for så vidt uavhengig av straf­
-ferammer. I særlig grad når det er tale om
-skjulte tvangsmidler, vil imidlertid disse hensyn umiddelbart komme i konflikt med så vel
-hensynet til personvernet for den eller de
-berørte enkeltpersoner som med de samme
-personers krav på og berettigede forventning
-om rettssikkerhet.
-Advokatforeningen ser med bekymring på
-at slike viktige hensyn stadig blir skjøvet til
-side til fordel for påståtte behov for mer effek­
-tive etterforskingsmetoder. Om slike tenden­
-ser, som over tid jevnlig har fått utvikle seg så å
-si alltid i samme retning, ikke avgrenses til det
-strengt samfunnsmessig nødvendige, vil dette
-ikke bare påvirke enkeltindividets følelse av
-trygghet, egenverdi og respekt for eget privat­
-liv. Det også bidra til å bryte ned maktappara­
-tets — og derved selve statens — avstand til og
-respekt for det enkelte menneskes behov for
-privatliv, individualitet og naturlige ønske om i
-private sammenhenger å kunne gi uttrykk for
-sine meninger, opplevelser, lengsler, fantasier
-eller drømmer uten at det offentlige maktappa­
-rat i det skjulte overvåker, sensurerer og even­
-tuelt forfølger ytringenes innhold eller mulige
-konsekvenser av disse.»
-Foreningen mener derfor at mistanke om grov
-menneskesmugling ikke bør kunne gi grunnlag
-for bruk av kommunikasjonsavlytting etter straffe­
-prosessloven § 216 a.
-7.4.3.4
-
-Departementets vurdering
-
-Departementet finner innledningsvis grunn til å
-understreke at menneskesmugling er en svært
-alvorlig kriminalitetsform, som innebærer et
-angrep på offentlige så vel som private interesser.
-I tillegg til å representere et betydelig samfunns­
-messig problem, er det tale om aktiviteter som
-utnytter en særlig sårbar gruppe – de smuglede.
-Dette er mennesker som ofte betaler betydelige
-summer for å komme seg ut av en desperat situa­
-sjon, og som risikerer å måtte betale gjeld til
-smuglerne i lang tid. Utlendingslovens straffebe­
-stemmelse om menneskesmugling er blant annet
-ment å skulle beskytte denne sårbare gruppen
-mot utnyttelse. For at beskyttelsen skal være
-reell, er det etter departementets syn nødvendig
-at politiet har tilgang på etterforskningsverktøy
-som kan avdekke smuglingen på en effektiv måte.
-
-[Side 99]
-
-2015–2016
-
-Prop. 68 L
-
-99
-
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-Som både utvalget og enkelte høringsinstan­
-ser peker på, har menneskesmugling visse sær­
-trekk som gjør den til en særlig utfordrende kri­
-minalitetsform å etterforske. Det er som regel tale
-om en godt organisert virksomhet, som nødven­
-digvis har internasjonale forgreininger. Dette gjør
-det vanskelig for politiet å nå frem til bakmennene
-ved hjelp av tradisjonelle etterforskningsmetoder.
-Ettersom ofrene for menneskehandelen vet om –
-og selv har interesse av – den ulovlige virksomhe­
-ten, vil de som regel være tilbakeholdne med å
-samarbeide med politiet. Dette gjør det særlig
-utfordrende å skaffe bevis som er tilstrekkelige til
-å iretteføre de ansvarlige for smuglingen. Depar­
-tementet er enig i at disse forhold taler for at poli­
-tiet gis ytterligere virkemidler i etterforskningen
-av menneskesmuglingssaker.
-Departementet har merket seg Advokatfore­
-ningens bekymring for at hensynet til borgernes
-personvern og rettssikkerhet settes til side ved
-utvidelse av politiets hjemler for skjult tvangsmid­
-delbruk. Dette er tungtveiende hensyn, som kon­
-tinuerlig må avveies mot etterforskningsmessige
-behov. Når det gjelder menneskesmugling, mener
-imidlertid departementet at særtrekkene ved kri­
-minalitetsformen gjør at politiet på nærmere vil­
-kår bør ha anledning til å benytte kommunika­
-sjonsavlytting. Det vises særlig til de etterforsk­
-ningsmessige utfordringer som er pekt på ovenfor. Hvorvidt metoden skal anvendes i en konkret
-sak, vil selvsagt bero på de konkrete omstendig­
-hetene, herunder om det er forholdsmessig etter
-straffeprosessloven § 170 a.
-Med hensyn til merknadene fra Metodekon­
-trollutvalget og Politiets Fellesforbund om hvor­
-vidt kommunikasjonsavlytting kan rettes mot de
-smuglede, viser departementet til ordlyden i straf­
-feprosessloven § 216 a tredje ledd. Det fremgår at
-avlyttingen kan rettes mot «bestemte telefoner,
-datamaskiner eller andre anlegg for elektronisk
-kommunikasjon som den mistenkte besitter eller
-kan antas å ville bruke». Ordlyden i den nevnte
-bestemmelsen er avgjørende for hvilke kommuni­
-kasjonsmidler det i den enkelte sak er adgang til å
-avlytte. Departementet kan ikke se at dette spørs­
-målet vil stå i noen særstilling ved bruk av kom­
-munikasjonsavlytting i menneskesmuglingssaker.
-
-7.4.4
-
-Menneskehandel
-
-7.4.4.1
-
-Gjeldende rett
-
-Menneskehandel rammes av straffeloven § 257
-(straffeloven 1902 § 224), som ble inntatt ved lov
-4. juli 2003 nr. 78 på bakgrunn av Norges ratifise­
-
-ring av Palermoprotokollen for å forebygge,
-bekjempe og straffe handel med mennesker, sær­
-lig kvinner og barn. Paragraf 257 første ledd setter
-straff for den som ved vold, trusler, misbruk av
-sårbar situasjon eller annen utilbørlig atferd utnyt­
-ter en person til prostitusjon eller andre seksuelle
-ytelser, arbeid eller tjenester, herunder tigging,
-krigstjeneste i fremmed land eller fjerning av ved­
-kommendes organer, eller som forleder en person
-til å la seg bruke til slike formål.
-Mens første ledd retter seg mot den som står
-for selve utnyttelsen eller forledelsen, rammer
-annet ledd de typiske bakmannshandlinger.
-Bestemmelsen setter straff for den som legger
-forholdene til rette for tvang, utnyttelse eller forle­
-delse som nevnt i første ledd ved å anskaffe, trans­
-portere eller motta den fornærmede, som på
-annen måte medvirker til tvangen, utnyttelsen
-eller forledelsen, som gir betaling eller annen for­
-del for å få samtykke til utnyttelsen fra en person
-som har myndighet over den fornærmede, eller
-som mottar slik betaling eller annen fordel. For­
-målet er blant annet å ramme dem som sørger for
-den nødvendige infrastruktur for at utnyttelse
-eller forledelse som nevnt i første ledd kan skje, jf.
-Ot.prp.nr. 62 (2002–2003) punkt 6.5.1.3 side 64.
-Dersom en handling som nevnt i § 257 første
-eller annet ledd er begått mot en person som er
-under 18 år, kan den i henhold til tredje ledd straf­
-fes uavhengig av om det er anvendt vold, trusler,
-misbruk av sårbar situasjon eller annen utilbørlig
-atferd. Villfarelse om alder utelukker ikke straffe­
-skyld, med mindre ingen uaktsomhet foreligger i
-så måte. Strafferammen for simpel menneskehan­
-del er i alle tilfelle fengsel inntil fem år.
-Straffeloven 1902 § 224 om menneskehandel
-er videreført med enkelte språklige endringer i
-straffeloven §§ 257 og 258. Strafferammen for
-alminnelig menneskehandel er hevet til fengsel i
-seks år, mens grov menneskehandel fremdeles
-skal kunne straffes med fengsel inntil ti år. End­
-ringen skyldes at fem års strafferamme på gene­
-relt grunnlag ikke er videreført i den nye straffe­
-loven.
-Med en strafferamme på fem (og seks) års
-fengsel, kan mistanke om simpel menneskehan­
-del gi grunnlag for bruk av kommunikasjonskon­
-troll etter straffeprosessloven § 216 b, men ikke
-avlytting etter § 216 a. Gjelder mistanken grov
-overtredelse, som har en strafferamme på ti års
-fengsel, kan også avlytting etter § 216 a benyttes.
-Det samme gjelder dersom lovbruddet kan knyt­
-tes til aktivitetene til en organisert kriminell
-gruppe, jf. straffeloven § 79 bokstav c (straffe­
-loven 1902 § 60 a).
-
-[Side 100]
-
-100
-
-2015–2016
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-7.4.4.2
-
-Metodekontrollutvalgets forslag
-
-På bakgrunn av innspill fra Kripos vurderer utval­
-get i utredningen punkt 16.4.4 side 188 flg. om
-kommunikasjonsavlytting bør kunne benyttes i
-saker om simpel menneskehandel etter straffe­
-loven § 224 første og annet ledd (straffeloven
-§ 257). Utvalget legger her til grunn at enhver
-form for menneskehandel utgjør alvorlig krimina­
-litet, som kan få store konsekvenser for dem som
-rammes. Samtidig legger utvalget vekt på at det i
-straffeloven går et skille mellom simpel og grov
-menneskehandel.
-Selv om menneskehandel ikke er et typisk
-offerløst lovbrudd, er det en kriminalitetsform
-hvor ofrene ikke kan forventes å samarbeide
-med politiet. Etter utvalgets oppfatning kan dette
-skyldes ulike forhold, blant annet at de fornær­
-mede ikke ser seg selv som ofre eller at de blir
-truet av bakmennene. Videre nevnes manglende
-tillit til politiet og ofrenes ofte svært sårbare
-situasjon som mulige årsaker til manglende
-bidrag til oppklaring. Utvalget erkjenner at disse
-forhold kan tilsi et behov for særskilte etterforsk­
-ningsmetoder også i simple menneskehandels­
-saker.
-Til tross for dette vil utvalget ikke tilrå at det
-åpnes for kommunikasjonsavlytting i saker om
-simpel menneskehandel. Etter utvalgets syn er
-behovet ikke tilstrekkelig dokumentert. Utvalget
-fremhever at dersom det er holdepunkter for at
-handlingen er grov eller skjer som ledd i virksom­
-heten til en organisert kriminell gruppe, vil det
-allerede i dag være adgang til kommunikasjons­
-avlytting som følge av at strafferammen øker til
-fengsel i ti år. Det viser videre til at personer invol­
-vert i menneskehandel ofte kan mistenkes også
-for andre typer lovbrudd som etter omstendig­
-hetene kan gi grunnlag for bruk av kommunika­
-sjonsavlytting. Dette gjelder blant annet tvang
-etter straffeloven 1902 § 222, frihetsberøvelse
-etter § 223, slaveri etter § 225, trusler etter § 227,
-legemsbeskadigelse etter § 229 og seksuallov­
-brudd etter §§ 192 flg (straffeloven §§ 251, 254,
-259, 263, 273 og kapittel 26).
-Metodekontrollutvalget viser dessuten til at
-behovet for kommunikasjonsavlytting ikke ble
-vurdert av departementet ved vedtakelsen av
-straffeloven 1902 § 224 i 2003. Dette til tross for at
-Riksadvokaten og Oslo politidistrikt tok opp
-spørsmålet i høringsrunden. Spørsmålet ble heller
-ikke tatt opp av justiskomiteens flertall, men kun
-av et mindretall bestående av representanten for
-Sosialistisk Venstreparti. Representanten ga
-uttrykk for samme synspunkter som Riksadvoka­
-
-ten og Oslo politidistrikt, og foreslo at straffeloven
-1902 § 224 skulle legges til i opplistingen av straf­
-febud som kan gi grunnlag for kommunikasjons­
-avlytting etter straffeprosessloven § 216 a første
-ledd bokstav b. Mindretallets forslag ble ikke fulgt
-opp i den videre stortingsbehandlingen. Mot
-denne bakgrunn legger utvalget til grunn at
-spørsmålet om kommunikasjonsavlytting i simple
-menneskehandelssaker relativt nylig har vært
-vurdert av både departement og Storting, uten at
-det har fremkommet sterke argumenter for å inn­
-føre en slik adgang.
-7.4.4.3
-
-Høringsinstansenes syn
-
-Advokatforeningen og Forsvarergruppen av 1977
-støtter utvalgets vurderinger, og ønsker ikke at
-adgangen til kommunikasjonsavlytting utvides til
-saker om simpel menneskehandel. Politidirektora­
-tet, Riksadvokaten, Asker og Bærum politidistrikt,
-Hordaland politidistrikt, Oslo politidistrikt og Poli­
-tiets Fellesforbund er uenig i utvalgets syn.
-Forsvarergruppen av 1977 fremhever at kom­
-munikasjonsavlytting er et av de potensielt mest
-invaderende virkemidler som politiet er gitt, og
-uttrykker bekymring for å la effektivitetshensyn
-få for stor vekt. Foreningen mener derfor at det
-ikke bør innføres adgang til kommunikasjonsav­
-lytting i saker etter straffeloven 1902 § 224 første
-og annet ledd (straffeloven § 257). Advokatforenin­
-gen forankrer samme standpunkt i prinsipielle
-motforestillinger til en utvidelse av adgangen til
-skjult tvangsmiddelbruk. Synspunktene er gjen­
-gitt i punkt 7.4.3.3 ovenfor.
-De øvrige høringsinstansene som uttaler seg,
-mener det foreligger et dokumentert behov for
-kommunikasjonsavlytting i simple menneskehan­
-delssaker. Riksadvokaten uttaler:
-«Riksadvokaten er ikke enig i at behovet for
-kommunikasjonsavlytting er for dårlig doku­
-mentert. Det er vel kjent at slik virksomhet
-foregår i lukkede miljøer og de involverte
-avdekker sjelden kriminaliteten frivillig. Tvert
-om gjøres betydelige anstrengelser for å
-holde virksomheten skjult. Det kan ha mange
-grunner. For bakmennene gjelder selvsagt at
-de ikke ønsker sine kriminelle forhold ekspo­
-nert. Men også for fornærmede er det mange
-forhold som gjør anmeldelse lite aktuelt.
-Ofrene kan for eksempel være fysisk forhin­
-dret fra å komme i kontakt med politiet eller
-frykte represalier fra bakmenn mot dem selv
-eller familie i hjemlandet. Det kan også være
-at mange fornærmede på grunn av tidligere
-
-[Side 101]
-
-2015–2016
-
-101
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-erfaringer generelt ikke har tillit til de retts­
-håndhevende myndigheter. En ytterligere
-omstendighet som kan svekke incitamentet til
-å anmelde er at de fornærmede reelt sett kan
-ha bedret sin økonomiske situasjon ved virk­
-somheten og at avsløring vil ha dramatiske
-økonomiske konsekvenser for dem selv og
-deres familie. Mange av dem som er utsatt for
-menneskehandel har ikke noe sosialt nettverk
-her i landet slik at politiets mulighet til å fange
-opp informasjon gjennom slike kanaler er
-liten.»
-Riksadvokaten peker også på at materiale fra kom­
-munikasjonsavlytting vil kunne være viktig som
-bevis i menneskesmuglingssaker, ettersom for­
-nærmedes forklaring i slike saker lett vil stå svakt
-uten støtte i andre bevis.
-7.4.4.4
-
-Departementets vurdering
-
-Etter departementets vurdering utgjør menneske­
-handel en alvorlig kriminalitetsform, som repre­
-senterer betydelige etterforskningsmessige utfor­
-dringer. Dette skyldes at virksomheten ofte er
-godt organisert og utføres på en måte som gjør
-det vanskelig å avdekke den og skaffe tilstrekke­
-lige bevis for iretteføring. Omfangsrike nettverk
-og internasjonale forgreininger gjør det vanskelig
-for politiet å nå frem med tradisjonelle etterforsk­
-ningsmetoder som spaning og infiltrasjon. De for­
-nærmede kan dessuten sjelden forventes å samar­
-beide med politiet, fordi de blir truet av bakmen­
-nene eller fordi de ikke har den nødvendige tilli­
-ten til myndighetene. Etter hva departementet for­
-står, kan det også være et problem at de
-fornærmede ikke blir i Norge lenge nok til å
-kunne bidra under straffesaken mot bakmennene.
-Departementet mener dette er forhold som
-bekrefter et behov for særskilte etterforsk­
-ningsmetoder i menneskehandelssaker.
-Departementet vil dessuten fremheve den
-nære sammenhengen som foreligger mellom
-menneskehandel og menneskesmugling som
-omtalt i punkt 7.4.3 ovenfor. Skillet mellom de to
-kriminalitetsformene er i Ot.prp. nr. 62 (2002–
-2003) punkt 6.1 side 55 omtalt slik:
-«Skillet mellom menneskehandel og mennes­
-kesmugling trekkes ved hjelp av formålet med
-handlingene. Ved menneskehandel er formålet
-å utnytte en person med bestemte tvangsmid­
-ler. At handlingen har skjedd over landegren­
-ser er ikke avgjørende for straffbarheten. Ved
-menneskesmugling er formålet å transportere
-
-mennesker ulovlig over landegrenser. Her er
-det uten betydning for straffbarheten hva per­
-sonen skal gjøre i mottakerlandet.»
-At formålet med handlingen er avgjørende, gjør
-det vanskelig på et tidlig tidspunkt i etterforsknin­
-gen å avgjøre hvilket straffebud som vil komme til
-anvendelse. Det samme gjelder for spørsmålet om
-handlingen er grov. Dette kan etter departemen­
-tets syn tilsi at kommunikasjonsavlytting generelt
-bør være tilgjengelig i menneskehandelssaker
-uavhengig av alvorlighetsgrad.
-Departementet finner ikke å kunne legge
-samme vekt som utvalget på at kommunikasjons­
-avlytting allerede i dag kan benyttes ved mistanke
-om simpel menneskehandel når handlingene
-skjer som ledd i aktivitetene til en organisert kri­
-minell gruppe. Hvorvidt den nødvendige tilknyt­
-ningen til organisert kriminalitet er til stede kan
-være vanskelig å avgjøre på et tidlig tidspunkt i
-etterforskningen, og det vil dermed kunne herske
-usikkerhet med hensyn til om kommunikasjons­
-avlytting kan benyttes. Etter departementets opp­
-fatning er menneskehandel en så alvorlig krimina­
-litetsform, med så vidtrekkende etterforsknings­
-messige utfordringer, at tilgangen til kommunika­
-sjonsavlytting her bør stå på egne ben.
-Departementet finner videre grunn til å legge
-vekt på at kommunikasjonsavlytting i betydelig
-utstrekning er tilgjengelig som etterforsknings­
-verktøy i menneskehandelssaker i de øvrige nor­
-diske land. Samtidig er menneskehandel en krimi­
-nalitetsform som ikke kjenner landegrenser.
-Departementet mener derfor at både muligheten
-for profesjonelle bakmenn til å kunne tilpasse sin
-virksomhet etter oppdagelsesrisikoen og hensy­
-net til ensartethet mer generelt, tilsier at kommu­
-nikasjonsavlytting bør tillates i simple menneske­
-handelssaker også i Norge.
-
-7.4.5
-
-Hallikvirksomhet
-
-7.4.5.1
-
-Gjeldende rett
-
-Straffeloven § 315 (straffeloven 1902 § 202 første
-ledd) retter seg mot såkalt hallikvirksomhet.
-Bestemmelsen rammer for det første den som
-«fremmer andres prostitusjon», jf. første ledd bok­
-stav a. Et eksempel på å fremme prostitusjon er det
-å drive mellommannsvirksomhet eller å organi­
-sere sex-klubber der de prostituerte deltar frivillig,
-jf. Ot.prp. nr. 62 (2002–2003) punkt 13.1 side 97.
-Videre rammes etter første ledd bokstav b også
-den som «leier ut lokaler og forstår at lokalene skal
-brukes til prostitusjon eller utviser grov uaktsom­
-
-[Side 102]
-
-102
-
-2015–2016
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-het i så måte». Med prostitusjon menes at en per­
-son har seksuell omgang eller handling med en
-annen mot vederlag. Vederlagets form er likegyl­
-dig. Oftest vil det være snakk om penger, men det
-kan også være narkotika, alkohol, mer eller min­
-dre kostbare gjenstander eller motytelser mv., jf.
-Ot.prp. nr. 28 (1999–2000) punkt 16.1 side 117.
-Strafferammen for hallikvirksomhet er bøter
-eller fengsel inntil fem år.
-Bestemmelsen om hallikvirksomhet i straffe­
-loven 1902 § 202 er med enkelte mindre endringer
-videreført i straffeloven § 315. Strafferammen er
-hevet fra fem til seks års fengsel, som følge av at
-fem års strafferamme på generelt grunnlag ikke
-er videreført i den nye straffeloven. Endringen er
-ikke ment å ha betydning for straffenivået, jf.
-Ot.prp. nr. 22 (2008–2009) punkt 16.7 side 449.
-Strafferammen på fem (og seks) års fengsel
-gjør at kommunikasjonskontroll etter straffepro­
-sessloven § 216 b, men ikke avlytting etter § 216 a,
-kan benyttes i etterforskningen av saker om
-hallikvirksomhet. Kan lovbruddet knyttes til akti­
-vitetene til en organisert kriminell gruppe, vil
-strafferammen etter straffeloven § 79 bokstav c
-(straffeloven 1902 § 60 a) forhøyes, slik at også
-avlytting etter straffeprosessloven § 216 a kan
-benyttes.
-7.4.5.2
-
-Metodekontrollutvalgets forslag
-
-Spørsmålet om kommunikasjonsavlytting i saker
-om hallikvirksomhet er ikke eksplisitt inntatt i
-Metodekontrollutvalgets mandat. På bakgrunn av
-Stoltenberg II-regjeringens handlingsplan 2006–
-2009 «Stopp menneskehandelen», samt innspill
-fra politiet, har utvalget likevel valgt å vurdere
-spørsmålet. Dette gjøres i utredningen punkt
-16.4.5 side 191.
-Utvalget understreker her at hallikvirksomhet
-utgjør en alvorlig straffbar handling. Likevel har
-utvalget ikke villet tilrå å tillate kommunikasjons­
-avlytting i halliksaker, da det ikke anser alvorlig­
-hetsgraden som tilstrekkelig høy. Utvalget peker
-herunder på at straffeloven 1902 § 202 (straffe­
-loven § 315) også rammer grovt uaktsomme over­
-tredelser. Det legger dessuten betydelig vekt på at
-mer tradisjonelle etterforskningsmetoder, som for
-eksempel spaning, fortsatt må antas å ha stor
-nytteverdi i halliksaker.
-7.4.5.3
-
-Høringsinstansenes syn
-
-Advokatforeningen og Forsvarergruppen av 1977
-støtter utvalgets vurderinger, og mener at det ikke
-
-bør åpnes for kommunikasjonsavlytting ved mis­
-tanke om hallikvirksomhet. Dette begrunnes med
-prinsipielle argumenter mot utvidelse av adgan­
-gen til skjult tvangsmiddelbruk. Det vises til
-høringsinstansenes synspunkter gjengitt i punkt
-7.4.3.3 og 7.4.4.3 ovenfor.
-Politidirektoratet, Riksadvokaten, Oslo politidis­
-trikt og Politiets Fellesforbund er uenig i utvalgets
-vurderinger.
-Riksadvokaten og Oslo politidistrikt, med til­
-slutning fra Politidirektoratet, fremhever særlig
-den nære sammenhengen mellom saker om
-menneskehandel
-og
-hallikvirksomhet.
-Høringsinstansene påpeker at et forhold som
-viser seg å være menneskehandel, ofte vil
-begynne som en halliksak. Riksadvokaten viser til
-sine tidligere uttalelser i forbindelse med innfø­
-ringen av straffebudet om menneskehandel ved
-lov 4. juli 2003 nr. 78. Det ble i den forbindelse
-argumentert for at de prosessuelle reglene, herunder adgangen til tvangsmiddelbruk, burde
-være den samme i halliksaker som i saker om
-menneskehandel. Embetet hevder at senere
-erfaringer underbygger behovet for kommunika­
-sjonsavlytting ved mistanke om hallikvirksom­
-het. Det fremholdes:
-«Det kan, særlig tidlig i etterforskningsfasen,
-være vanskelig [å] sannsynliggjøre overtre­
-delse av § 224 om menneskehandel. Men det
-vil gjerne være enklere å fremlegge tilstrekke­
-lige opplysninger til at det kan konstateres
-skjellig grunn til mistanke i det minste om
-overtredelse av hallikbestemmelsen. Reelt sett
-vil det antakelig være liten forskjell på forholde­
-nes straffverdighet og betydningen av å kunne
-stanse dem.»
-Oslo politidistrikt uttaler seg om den antatte nytten
-av å bruke kommunikasjonsavlytting i saker om
-hallikvirksomhet:
-«Det er åpenbart at det må foregå en god del
-kommunikasjon mellom halliken(e) og de pro­
-stituerte mens virksomheten pågår. Det er
-grunn til å tro at en stor del av kontakten skjer
-pr. telefon, og at innholdet i slike samtaler kan
-ha stor bevisverdi. Ved åpen etterforskning i
-slike saker er det naturlig å begynne med å
-avhøre de prostituerte, og det er rimelig å tro at
-halliken(e) i etterkant vil ta kontakt for å få vite
-hva disse eventuelt har forklart til politiet osv.
-Skulle politiet få adgang til å avlytte halli­
-ken(e)s telefon(er) vil dette åpenbart bidra i
-vesentlig grad til å opplyse saken.»
-
-[Side 103]
-
-2015–2016
-
-103
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-Politidistriktet mener på denne bakgrunn det er
-grunnlag for å tillate kommunikasjonsavlytting
-ved etterforskning av halliksaker.
-7.4.5.4
-
-Departementets vurdering
-
-Departementet foreslår i punkt 7.4.4 ovenfor å
-utvide adgangen til kommunikasjonskontroll i
-saker som gjelder menneskehandel. Som enkelte
-høringsinstanser påpeker, er det betydelig nærhet
-mellom straffbare forhold som rammes av
-bestemmelsene om henholdsvis menneske­
-handel og hallikvirksomhet. I begge tilfeller kan
-det være tale om utnyttelse av andre mennesker,
-som ofte befinner seg i en vanskelig og sårbar
-posisjon. Det er likevel grunn til å understreke
-den betydelige forskjellen i alvorlighetsgrad
-mellom menneskehandel og hallikvirksomhet.
-Mens menneskehandel med nødvendighet innbe­
-fatter et tvangselement, kan hallikvirksomhet i
-prinsippet også gå ut på å fremme frivillig prostitu­
-sjon.
-Departementet ser at hallikvirksomhet – i lik­
-het med menneskehandel – har en del særtrekk
-som kan vanskeliggjøre bruk av tradisjonelle
-etterforskningsmetoder. Selv om prostitusjonen
-som sådan nødvendigvis medfører en viss ekspo­
-nering, kan den bakenforliggende hallikvirksom­
-heten være vanskelig å avdekke. Dette skyldes
-blant annet at virksomheten ofte foregår i lukkede
-miljøer. Ofrene for hallikvirksomheten – de prosti­
-tuerte – vil dessuten sjelden ønske å bidra til opp­
-klaring. Dette kan skyldes at de ikke ønsker å
-stanse prostitusjonsvirksomheten, eller at de fryk­
-ter represalier fra bakmenn eller negative reaksjo­
-ner fra andre. Slike argumenter ble tillagt betyde­
-lig vekt da Danmark i 2003 åpnet for bruk av kom­
-munikasjonsavlytting i etterforskningen av hal­
-liksaker.
-Riksadvokaten fremhever i sin høringsut­
-talelse at det tidlig i etterforskningen er vanskelig
-å sannsynliggjøre menneskehandel, men at det
-gjerne foreligger tilstrekkelige indikasjoner på
-hallikvirksomhet. Høringsinstansen ser dette som
-et argument for å tillate samme metodebruk i
-begge sakstyper. Departementet understreker at
-det er grunn til å vise varsomhet med å tillate inn­
-gripende etterforskningsmetoder for å avdekke
-bakenforliggende kriminell virksomhet. Det klare
-utgangspunkt må være at det må foreligge skjellig
-grunn til mistanke om et lovbrudd som i seg selv
-kan begrunne skjult tvangsmiddelbruk, for at så
-inngripende virkemidler skal kunne tas i bruk.
-På denne bakgrunn har departementet kom­
-met til at det på det nåværende tidspunkt ikke bør
-
-gis hjemmel til bruk av kommunikasjonsavlytting i
-halliksaker. Avgjørende har særlig vært at en
-adgang til slik tvangsmiddelbruk i prinsippet også
-ville gjelde i saker hvor den prostituerte samtykker
-til hallikens virksomhet, og som dermed har en
-begrenset alvorlighetsgrad. Etter departementets
-syn kan straffebudets alvorlighetsgrad derfor van­
-skelig forsvare å åpne for bruk av et så inngripende
-virkemiddel som kommunikasjonsavlytting.
-
-7.4.6
-
-Frihetsberøvelse
-
-7.4.6.1
-
-Gjeldende rett
-
-Straffeloven § 254 (straffeloven 1902 § 223 første
-ledd) retter seg mot den som «ved innesperring,
-bortføring eller på annen måte rettsstridig fratar
-noen friheten». Eksempler på frihetsberøvelse
-kan være å holde en person fast, sperre personen
-inne eller å fjerne gjenstander som er nødvendige
-for at vedkommende skal kunne flytte på seg.
-Bestemmelsen stiller ikke krav til frihetsberøvel­
-sens varighet, men det er antatt at ikke enhver
-kortvarig frihetsberøvelse vil utgjøre en overtre­
-delse av straffebudet, jf. diskusjonen i Bratholm/
-Matningsdal: Straffeloven kommentarutgave bind
-II (Oslo, 1995) side 522–523 (til straffeloven
-1902).
-Bestemmelsen om frihetsberøvelse er en vide­
-reføring av straffeloven 1902 § 223, med visse jus­
-teringer av språklig og lovteknisk karakter.
-Strafferammen for ordinær overtredelse er her
-redusert fra fem år til tre år, jf. straffeloven § 254.
-Etter ikraftsettingen av straffeloven er det i
-utgangspunktet ikke adgang til å benytte kommu­
-nikasjonskontroll i saker om frihetsberøvelse.
-Kun dersom lovbruddet kan knyttes til organisert
-kriminalitet, jf. § 79 bokstav c, vil det være adgang
-til bruk av kommunikasjonskontroll etter straffe­
-prosessloven § 216 b, men ikke avlytting etter
-§ 216 a. Grov frihetsberøvelse etter straffeloven
-§ 255 har en strafferamme på inntil ti års fengsel,
-og vil følgelig kunne gi grunnlag for alle former
-for kommunikasjonskontroll etter straffepro­
-sessloven §§ 216 a og 216 b.
-7.4.6.2
-
-Metodekontrollutvalgets forslag og
-høringsinstansenes syn
-
-Adgangen til bruk av kommunikasjonsavlytting i
-saker om frihetsberøvelse behandles ikke i Meto­
-dekontrollutvalgets utredning. Spørsmålet er i
-høringsrunden tatt opp av Riksadvokaten, samt av
-Oslo politidistrikt med tilslutning fra Politidirekto­
-ratet.
-
-[Side 104]
-
-104
-
-2015–2016
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-Riksadvokaten anfører at situasjoner som invol­
-verer frihetsberøvelse kan være høyst alvorlige og
-dramatiske, for eksempel fordi det er grunn til å
-frykte for den bortførtes liv. Etter høringsinstan­
-sens syn bør politiet i slike situasjoner kunne
-bruke blant annet kommunikasjonsavlytting for å
-bringe på det rene hvor den bortførte og gjer­
-ningsmannen befinner seg. Dette for at vedkom­
-mende skal kunne befris så raskt som mulig og
-for å sikre bevis.
-Høringsinstansene opplyser at man i dag
-benytter nødrett som hjemmel for kommunika­
-sjonsavlytting i frihetsberøvelsessaker. Både Riks­
-advokaten og Oslo politidistrikt anser dette som
-problematisk. Riksadvokaten uttaler:
-«I dag dekkes behovet, i alle fall i hovedsak,
-ved at nødrett brukes som hjemmel for å ta i
-bruk visse metoder for å avverge alvorlige
-straffbare handlinger mot liv og helse. Dette er
-ikke tilfredsstillende. Grensene for nødrett er
-på dette området usikre og den manglende
-uttrykkelig lovhjemmel gir liten veiledning.
-Bruk av nødrett som hjemmel gir heller ikke
-rettslig kontroll med virksomheten.»
-Riksadvokaten og Oslo politidistrikt foreslår på
-denne bakgrunn at straffeloven 1902 § 223 første
-ledd om frihetsberøvelse (straffeloven § 254) skal
-gi grunnlag for bruk av kommunikasjonsavlytting
-etter straffeprosessloven § 216 a. Det samme fore­
-slås for hemmelig ransaking etter straffepro­
-sessloven § 200 a, personnær teknisk sporing
-etter § 202 c, samt kameraovervåking på privat
-sted etter § 202 a, dersom det åpnes for dette.
-7.4.6.3
-
-Departementets vurdering
-
-Frihetsberøvelse rammes av straffeloven § 254
-(straffeloven 1902 § 223), som er inntatt i lovens
-kapittel om vern av den personlige frihet og fred.
-Plasseringen understreker kriminalitetsformens
-alvorlighetsgrad, og illustrerer slektskapet med
-visse andre alvorlige integritetskrenkelser, som
-for eksempel menneskehandel. En høy alvorlig­
-hetsgrad er imidlertid ikke i seg selv en tilstrekke­
-lig begrunnelse for å tillate et så inngripende
-tvangsmiddel som kommunikasjonsavlytting.
-Spørsmålet er om det også kan påvises et konkret
-etterforskningsmessig behov for metoden i saker
-som gjelder frihetsberøvelse.
-Sammenlignet med kriminalitetsformer som
-menneskesmugling og menneskehandel (omtalt
-i punkt 7.4.3 og 7.4.4 ovenfor), er saker om fri­
-hetsberøvelse ikke i samme grad kjennetegnet
-
-ved at man ikke kan forvente at offeret bidrar til
-oppklaring. Det er derfor neppe grunnlag for å
-konstatere samme problemer med avdekking og
-etterforskning som ved de nevnte lovbrudd. Fri­
-hetsberøvelsens ofte akutte karakter gjør imid­
-lertid at politiet her støter på andre former for
-etterforskningsmessige utfordringer. Især i
-bortføringssaker kan etterforskningen være pre­
-get av en tidsnød som gjør det nødvendig å agere
-umiddelbart for å motvirke fare for den bortfør­
-tes liv og helse. Dette gjør det særlig påkrevet
-med målrettede og effektive etterforsknings­
-metoder.
-Ifølge Riksadvokaten gjør behovet for rask
-aksjon at politiet i enkelte tilfeller benytter nødrett
-som grunnlag for bruk av kommunikasjonsavlyt­
-ting når annen hjemmel ikke foreligger. Det er på
-det rene at nødrett kan tjene som grunnlag for
-tvangsmiddelbruk for å avverge eller stanse en
-fare, eksempelvis ved en pågående frihetsbe­
-røvelse. Om dette uttales i Ot.prp. nr. 64 (1998–99)
-punkt 3.2 side 17:
-«Det kan vanskelig tenkes at nødrett kan gi
-grunnlag for å bruke etterforskningsmetoder
-som er forbudt hvis formålet utelukkende er å
-oppklare en forbrytelse. Men hvis den ulovlige
-virksomhet ikke er avsluttet, eller hvis det er
-fare for gjentagelse av alvorlige handlinger, kan
-nødrett gjøre at politiet kan bruke metoder
-som ellers er forbudt. I en gisselsituasjon med
-overhengende fare for gislenes liv vil for
-eksempel romavlytting kunne foretas hvis det
-er nødvendig for å få gislene frigitt.»
-Departementet understreker samtidig at straffe­
-lovens nødrettsbestemmelse er en unntaksregel,
-som ikke bør fungere som en regulær hjemmel
-for tvangsmiddelbruk. Når nødrettsbestemmel­
-sen med mer eller mindre jevne intervaller benyt­
-tes som grunnlag for kommunikasjonsavlytting
-ved frihetsberøvelser, er dette etter departemen­
-tets oppfatning egnet til å demonstrere at det fore­
-ligger et behov for ordinær metodetilgang i disse
-sakene. Ved å gi ordinær hjemmel for bruk av
-kommunikasjonsavlytting i saker om frihetsbe­
-røvelse, gjøres rettsgrunnlaget klarere samtidig
-som det sikres at tvangsmiddelbruken blir gjen­
-stand for rettslig prøving.
-På denne bakgrunn finner departementet det
-forsvarlig å åpne for kommunikasjonsavlytting etter
-straffeprosessloven § 216 a i etterforskningen av
-saker om frihetsberøvelse etter straffeloven § 254.
-Bruken vil selvsagt være underlagt de alminnelige
-vilkår og rettssikkerhetsgarantier, herunder for­
-
-[Side 105]
-
-2015–2016
-
-105
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-holdsmessighetskravet i straffeprosessloven § 170
-a. Det foreslås også – med samme begrunnelse – å
-åpne for hemmelig ransaking etter straffepro­
-sessloven § 200 a, personnær teknisk sporing etter
-§ 202 c samt kameraovervåking på privat sted etter
-§ 202 a i den her omtalte sakstypen, jf. nedenfor i
-de aktuelle kapitler.
-
-Strafferammen for grooming er etter både
-straffeloven 1902 og straffeloven fengsel inntil ett
-år. Strafferammen er følgelig i utgangspunktet for
-lav til å kunne gi grunnlag for bruk av kommuni­
-kasjonskontroll etter straffeprosessloven §§ 216 a
-eller 216 b.
-7.4.7.2
-
-7.4.7
-7.4.7.1
-
-Forberedelse til seksuelle overgrep mot
-barn (grooming)
-Gjeldende rett
-
-Straffeloven § 306 (straffeloven 1902 § 201 a) om
-såkalt grooming ble inntatt ved lov 13. april 2007
-nr. 14. Bestemmelsen setter straff for den som har
-avtalt et møte med et barn under 16 år, og som
-med forsett om å begå en handling som nevnt i
-straffeloven §§ 299-304, § 305 bokstav b eller § 311
-første ledd bokstav a har kommet frem til møteste­
-det eller et sted hvor møtestedet kan iakttas.
-Grooming-bestemmelsen retter seg mot en spesi­
-ell type forberedelseshandling, og supplerer det
-alminnelige forsøksansvaret etter de her nevnte
-bestemmelsene.
-Skyldkravet ved grooming er i utgangspunktet
-forsett. I tillegg til at gjerningsmannen forsettlig
-må ha avtalt møtet og kommet frem til det avtalte
-møtestedet eller et sted hvor møtestedet kan iakt­
-tas, må vedkommende dessuten ha hatt forsett om
-å begå visse handlinger – nærmere bestemt vold­
-tekt av barn under 14 år, seksuell omgang eller
-handling med barn under 16 år eller tvang eller
-forledelse av barn under 16 år til å utvise seksuelt
-krenkende eller annen uanstendig atferd. Med
-hensyn til barnets alder er skyldkravet uaktsom­
-het, jf. straffeloven § 307.
-Bakgrunnen for at straffebudet om grooming
-kom inn i straffeloven i 2007 var særlig at nye
-kommunikasjonsmidler som internett og mobilte­
-lefon hadde gjort barn mer utsatt for overgrep
-enn tidligere. Formålet med det nye straffebudet
-var blant annet å gi politiet mulighet til å stoppe
-planlagte overgrep før selve det fysiske overgre­
-pet er påbegynt, jf. Innst.O. nr. 42 (2006–2007)
-punkt 2 side 3. Grooming-paragrafen i straffeloven
-1902 § 201 a er – med samme begrunnelse – vide­
-reført i straffeloven § 306 jf. § 307. Det er imidler­
-tid foretatt en viss utvidelse for å oppfylle kravene
-i Europarådets konvensjon om beskyttelse av
-barn mot seksuell utnytting og seksuelt misbruk.
-Utvidelsen består i at forsett om produksjon av
-fremstilling av seksuelle overgrep mot barn eller
-som seksualiserer barn, nå kan kvalifisere til
-straff etter bestemmelsen.
-
-Metodekontrollutvalgets forslag
-
-Da det ble åpnet for kommunikasjonskontroll
-etter straffeprosessloven § 216 b i groomingsaker, etterlyste Barneombudet i høringsrunden
-en vurdering av om det også burde åpnes for bruk
-av avlytting av kommunikasjonsanlegg etter § 216
-a. Departementet gikk ikke inn for en slik endring, men viste til Metodekontrollutvalgets pågå­
-ende arbeid. Blant annet på bakgrunn av Barne­
-ombudets innspill har utvalget vurdert om politiet
-nå bør få adgang til å bruke kommunikasjonsav­
-lytting i grooming-saker (utredningen punkt
-16.4.6 side 191 flg.).
-Utvalget legger til grunn at seksuelle overgrep
-mot barn er alvorlige straffbare handlinger, og at
-hensikten med å kriminalisere grooming – nemlig
-å avverge slike overgrep – må anses aktverdig.
-Samtidig betrakter utvalget den gjerning som er
-kriminalisert i grooming-bestemmelsen som avle­
-det fra selve det seksuelle overgrepet. Grooming­
-handlingen – det å avtale et møte i den hensikt å
-begå seksuelle overgrep – er etter utvalgets syn
-ikke i seg selv alvorlig nok til å rettferdiggjøre
-bruk av et så inngripende tvangsmiddel som kom­
-munikasjonsavlytting.
-Utvalget kommenterer også forholdet mellom
-straffeloven 1902 § 201 a og andre straffebud som
-gjelder seksuelle overgrep mot barn. I utrednin­
-gen punkt 16.4.6 side 194–195 uttales:
-«Utvalget peker på at kriminaliseringen av
-«grooming» må sees i sammenheng med de
-straffbare handlinger som gjerningspersonen
-ifølge straffeloven § 201 a må ha til hensikt å
-begå. Forbudet mot seksuell omgang med
-barn under 14 år har i mange sammenhenger
-en strafferamme på fengsel inntil 15 eller 21 år,
-og skjellig grunn til mistanke om forsøk på slik
-handling kan således ofte gi grunn til kommu­
-nikasjonskontroll både etter §§ 216a og 216b.
-Seksuell omgang med barn under 16 år kan
-straffes med fengsel inntil fem år, og kan der­
-med gi grunn til kontroll av kommunikasjons­
-anlegg etter § 216b. Seksuell handling med
-barn under 16 år eller forledelse av barn under
-16 år til å utvise seksuelt krenkende eller annen
-uanstendig atferd kan straffes med fengsel inn­
+Strafferammen for grooming er etter både straffeloven 1902 og straffeloven fengsel inntil ett år. Strafferammen er følgelig i utgangspunktet for lav til å kunne gi grunnlag for bruk av kommunikasjonskontroll etter straffeprosessloven §§ 216 a eller 216 b.
+
+BrøBrø*Metodekontrollutvalgets forslag*
+
+BrøDa det ble åpnet for kommunikasjonskontroll etter straffeprosessloven § 216 b i grooming-saker, etterlyste Barneombudet i høringsrunden en vurdering av om det også burde åpnes for bruk av avlytting av kommunikasjonsanlegg etter § 216 a. Departementet gikk ikke inn for en slik endring, men viste til Metodekontrollutvalgets pågående arbeid. Blant annet på bakgrunn av Barneombudets innspill har utvalget vurdert om politiet nå bør få adgang til å bruke kommunikasjonsavlytting i grooming-saker (utredningen punkt 16.4.6 side 191 flg.).
+
+Utvalget legger til grunn at seksuelle overgrep mot barn er alvorlige straffbare handlinger, og at hensikten med å kriminalisere grooming – nemlig å avverge slike overgrep – må anses aktverdig. Samtidig betrakter utvalget den gjerning som er kriminalisert i grooming-bestemmelsen som avledet fra selve det seksuelle overgrepet. Grooming-handlingen – det å avtale et møte i den hensikt å begå seksuelle overgrep – er etter utvalgets syn ikke i seg selv alvorlig nok til å rettferdiggjøre bruk av et så inngripende tvangsmiddel som kommunikasjonsavlytting.
+
+Utvalget kommenterer også forholdet mellom straffeloven 1902 § 201 a og andre straffebud som gjelder seksuelle overgrep mot barn. I utredningen punkt 16.4.6 side 194–195 uttales:
+
+BrøBrø«Utvalget peker på at kriminaliseringen av «grooming» må sees i sammenheng med de straffbare handlinger som gjerningspersonen ifølge straffeloven § 201 a må ha til hensikt å begå. Forbudet mot seksuell omgang med barn under 14 år har i mange sammenhenger en strafferamme på fengsel inntil 15 eller 21 år, og skjellig grunn til mistanke om forsøk på slik handling kan således ofte gi grunn til kommunikasjonskontroll både etter §§ 216a og 216b. Seksuell omgang med barn under 16 år kan straffes med fengsel inntil fem år, og kan dermed gi grunn til kontroll av kommunikasjonsanlegg etter § 216b. Seksuell handling med barn under 16 år eller forledelse av barn under 16 år til å utvise seksuelt krenkende eller annen uanstendig atferd kan straffes med fengsel inntil tre år, og kan således ikke danne grunnlag for tillatelse etter §§ 216a eller 216b. Det vil imidlertid fremstå som påfallende hvis politiet gis adgang til å bruke straffeprosessuelle tvangsmidler i større grad i etterforskingen av forberedelsen av slike handlinger etter § 201 a, enn i etterforskingen av selve handlingen.»
+
+BrøFølgelig vil utvalget ikke foreslå å gi politiet adgang til kommunikasjonsavlytting i saker om forberedelse til seksuelle overgrep mot barn etter straffeloven 1902 § 201 a (straffeloven § 306).
+
+BrøBrø*Høringsinstansenes syn*
+
+BrøAv høringsinstansene som har uttalt seg, støtter *Riksadvokaten*, *Advokatforeningen* og *Forsvarergruppen av 1977* utvalgets konklusjon. *Riksadvokaten* bemerker at selv om kommunikasjonsavlytting trolig ville vært effektivt i grooming-saker, kan man vanskelig gå inn for at et forhold som kun kan straffes med bøter eller fengsel i inntil ett år skal gi adgang til et så integritetskrenkende tvangsmiddel.
+
+*Politidirektoratet, Kripos, Hordaland politidistrikt* og *Politiets Fellesforbund* er uenig med utvalget. *Kripos* mener at handlingen som beskrives i straffeloven 1902 § 201 a (straffeloven § 306) må karakteriseres som et selvstendig overgrep, og er følgelig uenig i at grooming i seg selv ikke er tilstrekkelig alvorlig til å begrunne kommunikasjonsavlytting. *Politiets Fellesforbund* anfører på sin side at kommunikasjonskontroll og andre utradisjonelle metoder er nødvendig for å kunne beskytte barn mot overgrep på en effektiv og tilfredsstillende måte. Forbundet peker på at det på tidspunktet for høringen ikke forelå noen domfellelser for grooming, og mener dette skyldes at sakene er svært vanskelige å etterforske. Mangelen på fellende dommer demonstrerer etter høringsinstansens syn at det er behov for nye etterforskningsmetoder.
+
+BrøBrø*Departementets vurdering*
+
+BrøStrafferammen for grooming etter straffeloven § 306 (straffeloven 1902 § 201 a) er bøter eller fengsel inntil ett år. Den foreskrevne straff er dermed atskillig lavere enn strafferammekravet på ti års fengsel som i utgangspunktet gjelder for bruk av kommunikasjonsavlytting. Strafferammen kan ses som et uttrykk for lovgivers oppfatning om at grooming er en kriminalitetsform med begrenset alvorlighetsgrad. På den annen side er det klart at alvorligheten øker ved at ofrene består av en særlig utsatt gruppe – nemlig barn under den seksuelle lavalder.
+
+Grooming-bestemmelsen supplerer det alminnelige forsøksansvaret for seksuelle overgrep mot barn, og må ses i sammenheng med bestemmelser som rammer slike overgrep. Det straffverdige ved grooming knytter seg først og fremst til overgrepsfaren som skapes ved at den voksne har initiert et møte med forsett om å begå overgrep. Alvorligheten ved forberedelseshandlinger vil naturligvis være lavere enn fullbyrdelse av selve overgrepet. Som utvalget påpeker, er det ikke alle fullbyrdede overgrepshandlinger mot barn som kan begrunne kommunikasjonsavlytting. Eksempelvis kan en seksuell handling med barn under 16 år etter straffeloven § 304 (straffeloven 1902 § 200 annet ledd) kun straffes med fengsel inntil tre år. Mistanke om overtredelse kan verken danne grunnlag for kommunikasjonsavlytting etter straffeprosessloven § 216 a eller for annen kontroll av kommunikasjonsanlegg etter § 216 b. Ved å åpne for kommunikasjonsavlytting i grooming-saker, vil politiet gis en videre metodetilgang i etterforskningen av forberedelseshandlingen enn i etterforskningen av selve overgrepet. Departementet er enig med utvalget i at sammenhengen i regelverket derfor taler imot en adgang til kommunikasjonsavlytting ved grooming.
+
+Spørsmålet er om lovbruddet er av en slik art at det likevel er behov for å tillate kommunikasjonsavlytting. Departementet har funnet dette tvilsomt. Grooming-bestemmelsen i straffeloven var særlig begrunnet i utbredelsen av nye elektroniske kommunikasjonskanaler og den økte risikoen for overgrep disse medfører. Det kan derfor anføres at avlytting av kommunikasjonskanalene, for eksempel et chatterom, vil være et virkemiddel som kan bidra til å målrette etterforskningen på en effektiv måte. På den annen side er det grunn til å tro at etterforskning av grooming-saker effektivt kan innrettes også ved bruk av allerede tilgjengelige metoder. Med en øvre strafferamme på ett års fengsel kan politiet iverksette pågripelse og fengsling etter straffeprosessloven § 172 og § 184, ransaking etter straffeprosessloven §§ 192 og 195, skjult fjernsynsovervåking på offentlig sted etter straffeprosessloven § 202 a og avlytting av samtale etter straffeprosessloven § 216 l (samtale som politiet selv deltar i eller med samtykke fra en av samtalepartene). I tillegg kan det gjøre bruk av provokasjon og infiltrasjon innenfor de rammer som er trukket opp gjennom rettspraksis og riksadvokatens retningslinjer, samt overvåke åpne chattesider på samme måte som annen virksomhet i det offentlige rom.
+
+Departementet finner grunn til å kommentere Politiets Fellesforbunds uttalelse om at manglende domfellelser for grooming illustrerer at de her nevnte metoder er utilstrekkelige som etterforskningsverktøy. Det foreligger nå flere eksempler på domfellelser basert på bevis innhentet ved de etterforskningsmetodene som er tilgjengelige i dag, jf. blant annet Høyesteretts avgjørelse i Rt. 2013 side 699. Høringsinstansens beskrivelse av den faktiske situasjonen er følgelig ikke lenger treffende. Etter departementets syn er det ikke godtgjort et tilstrekkelig behov for tilgang på ytterligere verktøy i etterforskningen av grooming-saker. Dette inngår i en helhetsvurdering som gjør at det å åpne for en så inngripende metode som kommunikasjonsavlytting etter departementets syn ville være uforholdsmessig. Departementet har merket seg at også Riksadvokaten er av denne oppfatning.
+
+BrøBrø**Fremstilling av seksuelle overgrep mot barn**
+
+BrøBrø*Gjeldende rett*
+
+BrøStraffeloven inneholder, som den opphevede straffeloven 1902, en egen bestemmelse om fremstilling av seksuelle overgrep mot barn og fremstilling som seksualiserer barn, jf. straffeloven § 311. I tillegg er det inntatt en ny bestemmelse som setter straff for den som overværer en fremvisning av seksuelle overgrep mot barn eller fremvisning som seksualiserer barn, jf. straffeloven § 310. Bestemmelsen er ment å oppfylle forpliktelsene i Europarådets konvensjon om beskyttelse av barn mot seksuell utnytting og seksuelt misbruk.
+
+Straffeloven § 311 rammer ulike former for befatning med fremstilling av seksuelle overgrep mot barn eller fremstilling som seksualiserer barn. Bestemmelsen kom inn i straffeloven 1902 § 204 a ved endringslov 20. mai 2005 nr. 29, på bakgrunn av anmodningsvedtak fra Stortinget 16. juni 2003 (vedtak nr. 521). Formålet med det nye straffebudet var å synliggjøre forskjellene mellom overgrepsbilder av barn og pornografiske fremstillinger. Herunder skulle bestemmelsen fremheve at forbudet mot overgrepsbilder av barn først og fremst har til formål å beskytte barn mot seksuelle overgrep. Bestemmelsen i straffeloven 1902 § 204 a er innholdsmessig videreført i straffeloven § 311, men med enkelte utvidelser og i en endret lovteknisk utforming.
+
+Straffeloven § 311 første ledd har fem gjerningsalternativer i bokstav a til e. Bokstav a rammer den som «produserer fremstilling av seksuelle overgrep mot barn eller fremstilling som seksualiserer barn». Bokstav b retter seg mot den som «utgir, tilbyr, selger, overlater til en annen, gjør tilgjengelig eller på annen måte søker å utbre fremstillinger som nevnt i bokstav a». Bokstav c gjelder den som «anskaffer, innfører eller besitter fremstillinger som nevnt i bokstav a, eller forsettlig skaffer seg tilgang til slikt materiale». Bokstav d omfatter den som «holder offentlig foredrag eller istandbringer offentlig forestilling eller utstilling av fremstillinger som nevnt i bokstav a», mens bokstav e gjelder den som «forleder noen under 18 år til å la seg avbilde som ledd i kommersiell fremstilling av rørlige eller urørlige bilder med seksuelt innhold». Som barn regnes personer som er eller fremstår som under 18 år, jf. § 311 annet ledd. Bestemmelsen gjelder ikke for fremstillinger som må anses forsvarlige ut fra et kunstnerisk, vitenskapelig, informativt eller lignende formål, eller for film eller videogram som Medietilsynet ved forhåndskontroll har godkjent til ervervsmessig fremvisning eller omsetning, jf. 311 siste ledd.
+
+Strafferammen for befatning med overgrepsbilder av barn er etter så vel straffeloven 1902 som straffeloven inntil tre års fengsel. Dette tilfredsstiller i utgangspunktet ikke strafferammekravene for bruk av kommunikasjonsavlytting eller annen kommunikasjonskontroll etter straffeprosessloven §§ 216 a og 216 b. Straffeloven § 311 er imidlertid inntatt i opplistingen av enkeltstraffebud i straffeprosessloven § 216 b første ledd bokstav b. Dersom de øvrige vilkår er oppfylt, er det følgelig i dag adgang til å iverksette kontroll av kommunikasjonsanlegg etter § 216 b, men ikke avlytting etter § 216 a, i etterforskningen av saker som gjelder overgrepsbilder av barn.
+
+BrøBrø*Metodekontrollutvalgets forslag og høringsinstansenes syn*
+
+BrøMetodekontrollutvalget omtaler ikke spørsmålet om behov for ytterligere etterforskningsmetoder i saker om overgrepsbilder av barn. Spørsmålet er imidlertid tatt opp av enkelte høringsinstanser under høringen. Dette gjelder blant annet *Kripos*, som særlig påpeker de etterforskningsmessige utfordringene det skaper at distribusjon av overgrepsbilder av barn som oftest skjer via internett:
+
+BrøBrø«Samordnede politiaksjoner mot barnepornografi og pedofile nettverk dreier seg om tilfeller hvor internett er benyttet til å distribuere bilder og filmer av seksuelle overgrep mot barn. Distribusjon er mer alvorlig enn bare besittelse av de ulovlige filene, idet man opprettholder barnets lidelse ved å bidra til at overgrepene spres og tilgjengeliggjøres til evig tid. Det er også viktig å påpeke at denne typen etterforskning ofte avdekker de underliggende reelle overgrep, og kan bidra til å redde barn fra pågående misbruk.
+
+Når politiet ikke gis anledning til kommunikasjonskontroll knyttet til strl. §204a, representerer internett, sammen med utviklingen av digitale media, en perfekt motor for produksjon og distribusjon av overgrepsbilder. Internetts anonymitet gjør at politiet har svært få muligheter til å avdekke reelle seksuelle overgrep, annet enn gjennom etterforsking av den enkelte besitter eller distributør som man får kjennskap til gjennom nasjonale eller internasjonale operasjoner.»
+
+BrøHøringsinstansen anfører på denne bakgrunn at kommunikasjonskontroll synes å være eneste mulighet for effektiv bekjempelse av internettrelaterte seksuelle overgrep.
+
+Også *Politiets Fellesforbund* fremhever hensynet til effektiv etterforskning i saker som gjelder overgrepsbilder av barn:
+
+BrøBrø«\[…\] Internett skal ikke være et friområde for pedofile nettverk som distribuerer filmer og bilder som viser grove seksuelle overgrep mot barn. Vi vil understreke at etterforskning av slike saker ofte vil kunne avdekke reelle overgrep. PF mener politiet må tildeles verktøy i takt med den teknologiske utviklingen for å kunne bekjempe de kriminelle effektivt på de arenaene de befinner seg, – i dette tilfellet i den digitale verden.»
+
+BrøHøringsinstansen argumenterer på denne bakgrunn for at det bør åpnes for bruk av kommunikasjonsavlytting i etterforskningen av saker etter straffeloven 1902 § 204 a (straffeloven § 311).
+
+BrøBrø*Departementets vurdering*
+
+BrøDa adgangen til kommunikasjonsavlytting ble utvidet og knyttet til et generelt strafferammekrav ved lov 3. desember 1999 nr. 82, ble muligheten nevnt for å gjøre unntak fra dette strafferammekravet for blant annet befatning med overgrepsbilder av barn. Stortingets justiskomité uttalte i Innst. O. nr. 3 (1999–2000) punkt 7.3 side 7:
+
+BrøBrø«\[…\] Komiteen er videre tilfreds med at unntaket for strafferammekravet ved narkotikalovbrudd opprettholdes, og ber departementet vurdere nøye om andre alvorlige lovbrudd i fremtiden bør gis lignende unntak, eller om det på et senere tidspunkt er naturlig å senke strafferammekravet. Dette gjelder bl.a. organisert kriminalitet som omfattende spritsmugling og distribusjon av barnepornografi.»
+
+BrøPå bakgrunn av dette, samt høringsinnspillene fra Kripos og Politiets Fellesforbund, har departementet nå funnet grunn til å vurdere om det bør åpnes for kommunikasjonsavlytting etter straffeprosessloven § 216 a i saker om overgrepsbilder av barn.
+
+Slikt materiale som er omfattet av § 311, utgjør gjerne en skildring av seksuelle overgrep mot barn. Straffebudet i straffeloven § 311 (straffeloven 1902 § 204 a) har til formål nettopp å beskytte barn mot de overgrepene som skjer ved produksjon av dette materialet.
+
+Departementet er innforstått med at befatning med overgrepsbilder av barn må anses å være mindre alvorlig enn selve de underliggende overgrepene. Samtidig er det av betydning for produksjon av slikt materiale – og dermed også selve overgrepene – at det finnes en ervervsvillig målgruppe. Denne målgruppen skaper det nødvendige incitament for produksjonen av materialet og for de underliggende overgrepene. Etter departementets oppfatning må derfor tiltak for å bekjempe omsetning og annen befatning med overgrepsbilder av barn, også ses som tiltak for å bekjempe seksuelle overgrep mot barn.
+
+De senere års utbredelse av internett har i betydelig grad lagt til rette for spredning av overgrepsbilder av barn. Internett utgjør i dag den primære distribusjonskanalen. Dette gjør det vanskelig for politiet å avdekke og etterforske saker om befatning med slikt materiale gjennom tradisjonelle etterforskningsmetoder som infiltrasjon og spaning. Som både Kripos og Politiets Fellesforbund anfører, er kommunikasjonsavlytting et av de mest målrettede og effektive etterforskningsverktøy når det gjelder kriminalitet som begås på internett. Hensett til dette – samt alvorligheten av de involverte lovbruddene – mener departementet at det nå bør åpnes for kommunikasjonsavlytting i saker om befatning med overgrepsbilder av barn. Departementet viser også til at slik metodebruk i ulik utstrekning er tillatt i både Danmark og Finland. Det foreslås også å åpne for hemmelig ransaking etter straffeprosessloven § 200 a, samt kameraovervåking på privat sted etter § 202 a i den her omtalte sakstypen, jf. nedenfor i kapitlene 10.4 og 12.6.
+
+Departementet vil samtidig understreke at straffeloven § 311 omfatter handlinger med betydelig variasjon i alvorlighetsgrad. Eksempelvis vil produksjon og distribusjon av overgrepsbilder av barn normalt måtte anses mer alvorlig enn den rene besittelse. Adgangen til å benytte kommunikasjonsavlytting er først og fremst ment å gjelde de mer graverende forhold. Som alltid ellers må det vurderes ut ifra de konkrete omstendigheter hvorvidt vilkårene i straffeprosessloven § 216 a jf. § 170 a er oppfylt.
+
+BrøBrø**Forbund om ran**
+
+BrøBrø*Gjeldende rett*
+
+BrøStraffeloven § 329 (straffeloven 1902 § 269 nr. 1) rammer den som «den som inngår forbund med noen om å begå ran». Bestemmelsen rammer situasjonen der to eller flere personer inngår en avtale seg imellom om å begå et ran. Paragraf 329 er et eksempel på en bestemmelse som kriminaliserer en forberedende handling – det vil si en handling som i tid ligger forut for det straffbare forsøk. Forbrytelsen fullbyrdes ved at avtale inngås, slik at man ikke straffritt kan tre tilbake ved senere å oppgi planen.
+
+Avtalen må bestå i et forbund om å begå «ran». Et ran er det å, med forsett om å skaffe seg eller andre en uberettiget vinning, øve vold mot en person, sette ham ute av stand til forsvar eller ved trusler fremkalle alvorlig frykt for vold mot noen, og derved bemektige seg en gjenstand som tilhører en annen, jf. § 327 første ledd bokstav a. Det samme gjelder det å ved slike midler tvinge noen til å handle slik at det medfører tap eller fare for tap for ham eller den han handler for, jf. § 327 første ledd bokstav b. Etter straffeloven § 328 kan et ran anses som grovt dersom det er brukt grov vold, truet med skytevåpen eller annet særlig farlig redskap, dersom ranet er nøye planlagt, foretatt overfor forsvarsløs person eller gjelder en betydelig verdi. Bestemmelsen om ransforbund skiller imidlertid ikke mellom simpelt og grovt ran.
+
+Straffeloven § 329 er en videreføring av straffeloven 1902 § 269 nr. 1 i en noe endret språklig form. Bestemmelsen i § 269 nr. 2 om utrustning av skip for å begå ran, er ikke videreført.
+
+Strafferammen for ransforbund etter straffeloven 1902 § 269 nr. 1 og straffeloven § 329 er fengsel inntil tre år. Dette tilfredsstiller ikke kravet om henholdsvis ti og fem års strafferamme i straffeprosessloven §§ 216 a og 216 b om kommunikasjonskontroll. Dersom lovbruddet kan knyttes til organisert kriminalitet, jf. straffeloven § 79 bokstav c (straffeloven 1902 § 60 a), vil imidlertid strafferammen forhøyes til inntil seks års fengsel. Det vil da kunne være adgang til å iverksette andre former for kommunikasjonskontroll enn avlytting, jf. straffeprosessloven § 216 b.
+
+BrøBrø*Metodekontrollutvalgets forslag*
+
+BrøMetodekontrollutvalget vurderer i utredningen punkt 16.4.7 side 195 flg. om det er grunnlag for å utvide adgangen til kommunikasjonsavlytting etter straffeprosessloven § 216 a eller annen kommunikasjonskontroll etter § 216 b i saker som gjelder forbund om ran, eventuelt forbund om grovt ran. Utvalget finner imidlertid ikke å kunne tilrå en slik utvidelse. Standpunktet begrunnes med at den straffbare handling ikke anses å være tilstrekkelig alvorlig.
+
+Utvalget legger stor vekt på at det allerede i dag er adgang til kommunikasjonskontroll etter straffeprosessloven § 216 b dersom forbundet inngår som ledd i aktivitetene til en organisert kriminell gruppe, jf. straffeloven 1902 § 60 a (straffeloven § 79 bokstav c). Videre er det etter straffeprosessloven § 222 d anledning til å anvende skjulte tvangsmidler – herunder både kommunikasjonsavlytting og annen kontroll av kommunikasjonsanlegg – for å avverge grove ran begått som ledd i aktivitetene til en organisert kriminell gruppe, jf. første ledd bokstav b. Etter utvalgets oppfatning er det særlig i disse tilfellene slik tvangsmiddelbruk vil være aktuell.
+
+Utvalget kan heller ikke se at det er grunnlag for å gjøre en begrenset utvidelse til saker som gjelder forbund om grovt ran. Det pekes i den forbindelse på at verken straffeloven 1902 eller straffeloven skiller mellom forbund om simpelt eller grovt ran.
+
+BrøBrø*Høringsinstansenes syn*
+
+Brø*Riksadvokaten, Advokatforeningen* og *Forsvarergruppen av 1977* støtter utvalgets vurderinger om adgangen til kommunikasjonskontroll ved mistanke om ransforbund. *Riksadvokaten* antar i den forbindelse at straffeprosessloven § 222 d om tvangsmiddelbruk i avvergende øyemed vil gi tilstrekkelig mulighet til å kunne avverge alvorlige ran.
+
+*Politidirektoratet, NAST, Kripos, Oslo politidistrikt, Søndre Buskerud politidistrikt* og *Politiets Fellesforbund* går imot utvalgets forslag, og mener at tvangsmidlene som i dag er tilgjengelig, ikke strekker til.
+
+*Politiets Fellesforbund* fremhever særlig brutaliteten og profesjonaliteten i ulike ran som har vært gjennomført de siste årene, og mener disse trekkene viser at kommunikasjonskontroll er nødvendig for å bekjempe ransmiljøene på en effektiv måte. Forbundet understreker at intensjonen med å utvide tvangsmiddeladgangen er å kunne avdekke planer om ran og deretter forhindre at disse blir gjennomført. Både *Politiets Fellesforbund* og *Søndre Buskerud* *politidistrikt* viser til erfaringer fra Sverige, der tendensen har gått i retning av flere grove ran. Høringsinstansene gir uttrykk for at norsk politi ønsker å stå best mulig rustet mot en mulig tilsvarende utvikling i Norge.
+
+*Søndre Buskerud* politidistrikt mener at straffeloven 1902 § 269 om ransforbund (straffeloven § 329) i praksis begrenser politiets mulighet til å bruke kommunikasjonskontroll. Politidistriktet legger til grunn at dersom «det \[er\] grunn til å anta at flere personer deltar i planleggingen av ranet, vil de siktede rettslig sett befinne seg innenfor § 269 helt frem til selve ranshandlingen igangsettes». I denne perioden antas det at man er «avskåret fra å benytte kommunikasjonskontroll etter strpl § 216 a». Høringsinstansen mener at dersom straffeloven ikke hadde inneholdt en egen straffebestemmelse om forberedelse, ville adgangen til å iverksette kommunikasjonskontroll vært til stede på et tidligere tidspunkt. Synspunktet illustreres med et eksempel:
+
+BrøBrø«Søndre Buskerud politidistrikt og «Catch» etterforsket for noen år tilbake en sak om ran av verditransport der det ble benyttet kommunikasjonskontroll etter at et ran var gjennomført. Kontrollen avdekket planer om et nytt ran av samme type. Dette skapte etter hvert store problemer med etterforskningen, idet kommunikasjonskontrollen i stadig større grad avdekket ransplanlegging, og i mindre grad ga beviser for den forbrytelse som allerede var begått. Saken dokumenterte imidlertid godt det behovet en hadde for å kunne benyttet metoden, og hvilke problemer straffeloven § 269 skaper i det praktiske liv. Hadde man hatt tilsvarende situasjon i en narkotikasak er det ingen tvil om at kommunikasjonskontrollen ville kunne fortsette, idet det innkom informasjon om at et nytt straffbart forhold var under planlegging. Dette underbygger kun den allerede etablerte mistanken. I ranssaken ble situasjonen imidlertid motsatt, idet den informasjonen som innkom etter hvert svekket politiets mulighet til å benytte metoden. Dette til tross for at en hadde sikker informasjon om at et større ran var i anmarsj. Denne tildels uforståelige forskjellen mellom to meget alvorlige lovbestemmelser innebærer at man i politiet til tider nærmest ønsker seg straffelovens § 269 fjernet. Dette ville i langt større grad satt en i stand til å etterforske og avverge de grove ranssakene.»
+
+BrøSøndre Buskerud politidistrikt mener videre at det er lite tilfredsstillende at bruken av kommunikasjonskontroll for å avverge grove ranshandlinger forutsetter at handlingene kan knyttes til en organisert kriminell gruppe. Det påpekes at vilkårene i straffeloven 1902 § 60 a (straffeloven § 79 bokstav c) er strenge, og at det i en tidlig fase av etterforskningen kan være problematisk å fremskaffe bevis for gruppens organisering og deltakernes identitet, tilknytning, arbeidsoppgaver mv.
+
+*Oslo politidistrikt*, med tilslutning fra *Politidirektoratet* og *Kripos*, foreslår at adgangen til kommunikasjonskontroll begrenses til saker som gjelder forbund om grovt ran.
+
+BrøBrø*Departementets vurdering*
+
+BrøRansforbund utgjør en alvorlig lovbruddstype, som kan ha potensielt store samfunnsskadelige konsekvenser dersom avtalen realiseres. Departementet understreker likevel at det først og fremst er selve ranet, og ikke den forutgående avtalen, som representerer den skadevoldende aktivitet. Dette må få betydning også i vurderingen av hvilke etterforskningsmetoder som skal være tilgjengelig ved de ulike lovbruddene.
+
+Med en strafferamme på fengsel inntil fem år, kan straffeloven 1902 § 267 om ran danne grunnlag for bruk av kommunikasjonskontroll etter straffeprosessloven § 216 b. Det samme gjelder den tilsvarende bestemmelsen i straffeloven § 327, som har en strafferamme på seks år. Derimot er det ikke adgang til å benytte kommunikasjonsavlytting etter § 216 a, som krever en strafferamme på fengsel i ti år. Dersom ranet er foretatt som ledd i aktivitetene til en organisert kriminell gruppe, forhøyes imidlertid strafferammen for ran, jf. straffeloven 1902 § 60 a (straffeloven § 79 bokstav c). I slike tilfeller vil også kommunikasjonsavlytting etter straffeprosessloven § 216 a kunne benyttes, såfremt også de øvrige vilkår for slik metodebruk er oppfylt. Er det tale om grovt ran, er den øvre strafferamme fengsel inntil tolv år, jf. straffeloven 1902 § 268. I straffeloven er dette hevet til fengsel inntil 15 år. Den høye strafferammen oppfyller kravet til både kommunikasjonsavlytting etter straffeprosessloven § 216 a og til annen kontroll av kommunikasjonsanlegg etter § 216 b. Begge metoder vil følgelig kunne benyttes ved mistanke om forsøk på eller fullbyrdelse av et grovt ran.
+
+Søndre Buskerud politidistrikt anfører at bestemmelsen i straffeloven 1902 § 269 (straffeloven § 329) i realiteten begrenser adgangen til å benytte kommunikasjonskontroll i etterforskningen av ranshandlinger etter §§ 267 og 268 (straffeloven §§ 327 og 328). Departementet kan ikke følge politidistriktets resonnement på dette punkt. Bestemmelsen kriminaliserer en bestemt type forberedelseshandling, og medfører at straff kan ilegges *før* gjerningsmannen krysser grensen for straffbart forsøk. Det er ikke holdepunkter for at bestemmelsen er ment å skulle *flytte* grensen for hva som anses som forsøk på ran. Hvorvidt grensen er overskredet, må vurderes ut fra gjerningsbeskrivelsen i straffeloven §§ 327 og 328 (straffeloven 1902 §§ 267 og 268) sammenholdt med den alminnelige regel om straffbart forsøk i straffeloven § 16 (straffeloven 1902 § 49). Dette må gjelde også i relasjon til spørsmålet om tvangsmiddelbruk som følge av mistanke om (forsøk på) overtredelse av bestemmelsene om fullbyrdet ran.
+
+I tillegg til adgangen til metodebruk i etterforskningssporet, kan både kommunikasjonsavlytting etter straffeprosessloven § 216 a og annen kommunikasjonskontroll etter § 216 b benyttes for å *avverge* en ranshandling. Dette gjelder etter straffeprosessloven § 222 d første ledd bokstav b når det er rimelig grunn til å tro at noen kommer til å begå en handling som rammes av straffeloven § 328, jf. straffeloven § 79 bokstav c (straffeloven 1902 § 268 annet ledd jf. § 267, jf. § 60 a) – altså et grovt ran som begås som ledd i aktivitetene til en organisert kriminell gruppe. Enkelte høringsinstanser har bemerket at kravet om kobling til en organisert kriminell gruppe i straffeprosessloven § 222 d vanskeliggjør bruken av skjulte etterforskningsmetoder for å avverge ran. Departementet vil i den forbindelse fremheve de endringer i straffeloven 1902 § 60 a som ble gjort ved lov 21. juni 2013 nr. 85. Ved lovendringen ble straffansvaret for organisert kriminalitet utvidet, og definisjonen av organisert kriminell gruppe justert slik at den også favner grupper med en flatere og løsere struktur, jf. Prop. 131 L (2012–2013) punkt 11 side 68 flg. Tilsvarende endringer ble gjort i straffeloven § 79 bokstav c. Departementet antar at endringene kan avhjelpe de problemer som høringsinstansene påpeker, og ønsker å avvente virkningene av disse endringene før en eventuell fornyet vurdering av spørsmålet om tvangsmiddelbruk.
+
+På denne bakgrunn finner departementet ikke å ha tilstrekkelige holdepunkter for å anta at dagens tilgang på etterforskningsmetoder ved mistanke om ransforbund er utilstrekkelig. Dette gjelder også for saker om forbund om grovt ran. Departementet slutter seg følgelig til Metodekontrollutvalgets konklusjoner, og foreslår ikke noen generell adgang til kommunikasjonskontroll i saker om ransforbund.
+
+BrøBrø**Annen alvorlig profittmotivert kriminalitet**
+
+BrøBrø*Metodekontrollutvalgets forslag og høringsinstansenes syn*
+
+BrøMetodekontrollutvalget omtaler under overskriften «Politiets utfordringer: Trekk ved kriminalitetsutviklingen» enkelte lovbrudd som kan karakteriseres som alvorlig profittmotivert kriminalitet. Dette gjelder tradisjonell vinningskriminalitet som utpressing, ran og tyveri, som omtales i henholdsvis punkt 8.6.19 side 95 og punkt 8.6.20 side 96. Videre omtales økonomisk kriminalitet – herunder bedragerier, regnskapsovertredelser, korrupsjon, skatte- og avgiftskriminalitet, konkurransekriminalitet, verdipapirkriminalitet samt heleri og hvitvasking i punkt 8.6.21 side 96–99. Utvalget drøfter imidlertid ikke behovet for nye etterforskningsmetoder i denne sammenheng. Spørsmålet er likevel – i ulike former – tatt opp av enkelte høringsinstanser.
+
+*Oslo politidistrikt*, med tilslutning fra *Politidirektoratet*, fremhever at omfanget av profittmotivert kriminalitet er stort, og at denne kriminalitetsformen utgjør et betydelig samfunnsproblem. For å bekjempe dette ønsker politidistriktet ytterligere virkemidler for å kunne sette seg i posisjon til å inndra utbyttet fra handlingene, noe som kan være en kraftfull incentivstyring som signaliserer at kriminaliteten ikke lønner seg. Politidistriktet mener en adgang til å benytte kommunikasjonskontroll ved mistanke om grovt heleri eller grov hvitvasking etter straffeloven 1902 § 317 fjerde ledd (straffeloven §§ 333 og 338) vil være et effektivt virkemiddel i så måte. Det uttales:
+
+BrøBrø«Primærforbrytelsene er ofte utført i samarbeid med flere andre, og ofte i en organisert kriminell gruppe, jfr. strl. § 60a. Utbyttet fordeles mellom medvirkerne, og den enkelte vil på egen hånd starte oppbygging av sin personlige økonomi. Etterforskningen av en uforklart formue vil da naturlig nok innrettes mot den enkelte som er, eller fremstår som, eier av de aktuelle formuesobjektene. Hvilke underliggende primærforbrytelser vedkommende har begått, herunder hvilke personer han eventuelt har samarbeidet med, vil politiet sjelden ha kunnskap om. Politiet vil således vanskelig kunne argumentere for at selve formuesoppbyggingen skjer som ledd i en organisert kriminell gruppe, jfr. strl. § 60a. Strafferammen i § 317 blir således en barriere for å starte skjult etterforsking med KK. Det er \[uheldig\], idet denne typen etterforsking er ønskelig sett ut fra målet om å ta bakmennene og å komme i inndragningsposisjon.»
+
+BrøVed å bruke informasjon fra kommunikasjonskontroll kan man etter høringsinstansens syn blant annet utelukke legalt erverv av formuesobjekter og bevise eierforhold til ulike eiendeler.
+
+*Økokrim* fremholder på sin side at etterforskningsmessige utfordringer taler for kommunikasjonskontroll i de mest alvorlige saker om verdipapirkriminalitet, innsidehandel og markedsmanipulasjon, jf. verdipapirhandelloven § 17-3 første ledd. Det vises til at slik kriminalitet er samfunnsskadelig, samtidig som den for de kriminelle representerer en svært lønnsom og forholdsvis enkel måte å tilegne seg en uberettiget andel av verdiene i verdipapirmarkedet på. Effektiv etterforskning og iretteføring er derfor avgjørende for å sikre tilliten til verdipapirmarkedet. Etter høringsinstansens syn vil kommunikasjonskontroll være et egnet virkemiddel for å oppnå en slik effektiv etterforskning:
+
+BrøBrø«De etterforskingsmessige problemene i slike saker følger blant annet av at kommunikasjonen mellom de innvidde *er* selve kriminaliteten. Mens kommunikasjon normalt er et *middel* for å begå en annen form for kriminalitet, vil innholdet i kommunikasjonen kunne være selv\[e\] kriminaliteten ved denne form for markedsmisbruk. I mange slike saker kan således oppgaven formuleres som å skulle bevise utover enhver rimelig tvil at det har vært en kommunikasjon mellom de impliserte med et bestemt og ulovlig innhold. Typisk for slike saker er at det ikke finnes noen fornærmede eller vitner, det er kun de mistenkte selv som kjenner innholdet i kommunikasjonen. Videre etterlater lovbruddene normalt ikke noen objektivt registrerbare spor, det er f eks ingenting som skiller et tilfelle av ulovlig innsidehandel fra en lovlig gjennomført transaksjon. Aktørene er som regel profesjonelle og evner å skjule sin aktivitet og sine spor for politiet. ØKOKRIM har erfart at særlig de mest alvorlige og best organiserte sakene er særdeles vanskelige å oppklare. I andre land har man derimot lykkes med å oppklare selv svært alvorlige og godt organiserte saker, men da med bruk av bl.a. kommunikasjonskontroll.»
+
+BrøOgså *Kontrollutvalget for kommunikasjonskontroll* bemerker at det kan være behov for metodebruk også i saker med mindre enn ti års strafferamme, og nevner som eksempel alvorlig vinningskriminalitet.
+
+*NAST* peker på at Norge i dag har et stort problem med vinningskriminelle bander fra utlandet, særlig fra Øst-Europa. I enkelte tilfeller blir norsk politi varslet om disse fra utenlandsk politi – typisk om at banden er på vei mot Norge fra et bestemt land. NAST fremholder at adgangen til metodebruk i slike tilfeller er for snever, ettersom den forutsetter at de mistenkte har krysset den nedre grense for forsøk på et lovbrudd av en viss alvorlighetsgrad. Det foreslås derfor å åpne for kommunikasjonskontroll ved overtredelse av straffeloven 1902 § 162 c om forbund om handling med minst tre års strafferamme som skal begås som ledd i aktivitetene til en organisert kriminell gruppe (straffeloven § 198).
+
+Med hensyn til trygdebedrageri uttaler *Arbeidsdepartementet* generelt at antallet personer anmeldt for dette har økt de siste årene. De fleste av de anmeldte har begynt i ordinært arbeid eller utvidet et arbeidsforhold uten å oppgi det på meldekort til Arbeids- og velferdsetaten. Som følge av dette retter Arbeids- og velferdsetaten nå større oppmerksomhet mot avdekking av systematisk svindel.
+
+BrøBrø*Departementets vurdering*
+
+BrøEn rekke lovbrudd som kan karakteriseres som grov profittmotivert kriminalitet har etter gjeldende straffelovgivning en øvre strafferamme på fengsel i seks år. Dette gjelder blant annet grovt underslag etter straffeloven § 325 (straffeloven 1902 §§ 256 jf. 255), grovt tyveri etter § 322 (straffeloven 1902 §§ 258 jf. 257), grovt bedrageri etter § 372 (straffeloven 1902 §§ 271 jf. 270), grovt heleri etter § 333 eller grov hvitvasking etter § 338 (straffeloven 1902 § 317 fjerde ledd jf. første og annet ledd), grovt skattesvik etter § 379 (tidligere ligningsloven §§ 12-2 jf. 12-1) og innsidehandel og markedsmanipulasjon etter verdipapirhandelloven §§ 3-3 og 3-8, jf. § 17-3 første ledd. Med en strafferamme på seks år er det adgang til å benytte kommunikasjonskontroll etter straffeprosessloven § 216 b, men ikke avlytting av kommunikasjonsanlegg etter § 216 a i etterforskningen av de nevnte lovbrudd. Er handlingen utøvet som ledd i aktivitetene til en organisert kriminell gruppe, forhøyes imidlertid den øvre strafferammen til fengsel inntil 12 år, jf. straffeloven § 79 bokstav c (11 år etter straffeloven 1902 § 60 a). I slike tilfeller vil det også være adgang til å benytte kommunikasjonsavlytting etter straffeprosessloven § 216 a, jf. vilkåret om ti års strafferamme eller mer i bestemmelsens første ledd bokstav a.
+
+Departementet har merket seg at flere høringsinstanser mener det foreligger et behov for å utvide adgangen til metodebruk ved ulike forbrytelsestyper knyttet til alvorlig profittmotivert kriminalitet. Dette understøttes av flere trusselanalyser som viser at utviklingen i kriminalitetsbildet innen profittmotivert kriminalitet går i retning av større mobilitet, mer komplekse lovbrudd, profesjonalisering og internasjonalisering. Som også Metodekontrollutvalget bemerker i utredningen punkt 8.6.21 på side 98–99 er økonomisk kriminalitet og tradisjonell organisert kriminalitet knyttet tettere sammen enn tidligere, og organisert kriminalitet involveres i stadig større grad i legitim forretningsvirksomhet, der lovlig og ulovlig virksomhet drives side om side bak en fasade av komplekse selskapsstrukturer. Utvalget peker dessuten på at bruken av selskapsstrukturer hvor enhetene er registrert i flere ulike land og styres gjennom truster som opererer fra skatteparadiser, gir betydelige utfordringer for politiet. Dette gjør avdekking og oppklaring utfordrende. Departementet har stor forståelse for at de omtalte kriminalitetsformene kan by på betydelige etterforskningsmessige utfordringer og at en utvidet adgang til kommunikasjonskontroll kan synes som et egnet virkemiddel.
+
+På samme tid finner departementet – på bakgrunn av *denne* høringen – ikke å ha tilstrekkelig grunnlag for å utvide adgangen til kommunikasjonskontroll i saker om profittmotivert kriminalitet. Det understrekes at kommunikasjonskontroll utgjør et særlig inngripende tiltak overfor dem som rammes, og at det derfor er grunn til å utvise varsomhet ved eventuelle utvidelser. Et oppdatert kunnskapsgrunnlag om kriminalitetsbildet og etterforskningsmessige behov i saker om profittmotivert kriminalitet er nødvendig for å vurdere utvidelse av metodebruken opp mot konsekvenser for personvernet. Det er iverksatt flere prosjekter som vil kunne gi et slikt kunnskapsgrunnlag. Departementet vil derfor avvente oppdatert informasjon om trusselbildet med tilhørende behovsvurdering før man tar stilling til om eventuelle lovforslag knyttet til utvidet metodebruk bør sendes på høring.
+
+BrøBrø**Oppfordring, rekruttering og opplæring til terrorlovbrudd**
+
+BrøBrø*Gjeldende rett*
+
+BrøStraffeloven § 136 gjelder oppfordring, rekruttering og opplæring til terrorhandlinger og terrorrelaterte handlinger. Bestemmelsen er en videreføring av straffeloven 1902 § 147 c. Bestemmelsen ble tilføyd ved lov 19. desember 2008 nr. 114, for at Norge skulle kunne ratifisere Europarådets konvensjon 16. mai 2005 om forebygging av terrorisme.
+
+Paragraf 136 bokstav a til c rammer henholdsvis det å oppfordre, rekruttere eller gi opplæring til terrorhandlinger og terrorrelaterte handlinger. Hva som skal anses som en terrorhandling eller terrorrelatert handling fremgår av straffeloven §§ 138 til 144 (straffeloven 1902 § 147 a første eller tredje ledd, § 147 b første eller annet ledd). Særskilt for disse er at de er begått med terrorhensikt eller har særlig samfunnsskadelige virkninger.
+
+Bokstav d var ny ved lov 21. juni 2013 nr. 85, og kriminaliserer mottakelse av terrortrening. Dette består etter bestemmelsen i å la seg lære opp i metoder eller teknikker som er særlig egnet til å utføre eller bidra til utførelsen av en handling som rammes av de nevnte bestemmelsene om terrorhandlinger og terrorrelaterte handlinger.
+
+Strafferammen for alle alternativer er fengsel inntil seks år. Strafferammen gir følgelig grunnlag for bruk av kommunikasjonskontroll etter straffeprosessloven § 216 b. Det er derimot ikke adgang til å iverksette kommunikasjonsavlytting etter § 216 a, med mindre lovbruddet er utøvet som ledd i aktivitetene til en organisert kriminell gruppe, jf. straffeloven § 79 bokstav c (straffeloven 1902 § 60 a).
+
+BrøBrø*Forslaget i høringsnotatet*
+
+BrøI høringsnotat 12. juli 2012 om kriminalisering av forberedelse til terrorhandling, utvidet adgang til tvangsmiddelbruk mv. punkt 2.5.2 side 38 vises det til et forslag fra PST om å utvide adgangen til å benytte tvangsmidler – herunder også kommunikasjonsavlytting – i saker om oppfordring, rekruttering og opplæring til terrorhandlinger etter straffeloven 1902 § 147 c (straffeloven § 136). Spørsmålet er ikke behandlet i Metodekontrollutvalgets utredning. Fra høringsnotatet hitsettes:
+
+BrøBrø«PST anfører at adgangen til å benytte tvangsmidler i saker om oppfordring, rekruttering og opplæring til terrorhandlinger er svært begrenset, på grunn av den lave strafferammen på 6 år. PST har i dag ikke anledning til å benytte kommunikasjonskontroll annet enn ved innhenting av løpende trafikkdata etter straffeprosessloven § 216 b, og er således avskåret fra bruk av kommunikasjonsavlytting etter § 216 a. Slik kommunikasjonsavlytting kan bestå i å avlytte samtaler eller annen kommunikasjon til og fra bestemte telefoner, datamaskiner eller andre anlegg for elektronisk kommunikasjon som den mistenkte besitter eller kan antas å ville bruke. Avlyttingsadgangen omfatter all informasjonsutveksling mellom kommunikasjonsanlegg, uavhengig av hvilken form eller hvilket innhold informasjonen måtte ha. Dermed omfattes i tillegg til samtaler, overføring av tekst (herunder e-post), bilde og film.
+
+PST påpeker at de forhold som § 147 c skal ramme, hovedsakelig bedrives ved hjelp av telekommunikasjon og internett. Uten mulighet til å avlytte internettaktiviteter ved mistanke om overtredelse av bestemmelsen, vil PST heller ikke kunne fange opp forsøk på å rekruttere personer til terrorvirksomhet eller opplæring i å lage for eksempel bomber. PST anfører at hemmelig ransaking (§ 200 a) og dataavlesning også vil fremstå som egnede verktøy for å finne beviser for forhold som rammes av bestemmelsene på mistenktes datasystem.»
+
+BrøDepartementet tok i høringsnotatet ikke nærmere stilling til forslaget fra PST, men la til grunn følgende (punkt 2.5.4 side 39):
+
+BrøBrø«En utvidelse av adgangen til å benytte tvangsmidler forutsetter enten at strafferammen økes for slike lovbrudd, eller at straffebudet inntas uttrykkelig i de enkelte bestemmelsene om tvangsmidler. Tillatelse til å benytte enkelte tvangsmidler, herunder kommunikasjonsavlytting og skjult ransaking, forutsetter således at handlingen har en strafferamme på 10 år eller mer, eller at den kan subsumeres under de konkret oppregnede straffebudene i de ulike bestemmelsene.»
+
+BrøBrø*Høringsinstansenes syn*
+
+BrøFlertallet av høringsinstansene som har kommentert forslaget om å utvide metodetilgangen i saker etter straffeloven 1902 § 147 c (straffeloven § 136), støtter forslaget uttrykkelig. Dette gjelder *Riksadvokaten*, *NAST*, *PST*, *Hordaland politidistrikt, Politijuristene* og *Politiets Fellesforbund*.
+
+*Nordre Buskerud politidistrikt* har ingen konkrete merknader til spørsmålet, men uttaler generelt om forslagene i høringsnotatet at det er viktig å gi PST de virkemidler som de mener det er et saklig behov for. *Oslo statsadvokatembeter* har heller ingen konkrete merknader til forslaget, men bemerker generelt at forslag til reglene om tvangsmidler fremstår som velfunderte.
+
+*Riksadvokaten* og *PST* viser til at bruk av skjulte tvangsmidler ofte vil være eneste reelle mulighet til å skaffe informasjon om overtredelser av straffeloven 1902 § 147 c (straffeloven § 136). PST fremhever blant annet at det viktigste beviskilden i slike saker er telekommunikasjon og internettaktiviteter, og at det uten adgang til utvidet tvangsbruk vil være vanskelig å avdekke slike lovbrudd:
+
+BrøBrø«PST påpeker i vårt brev av 1. november 2011, at det er en kjensgjerning at de forhold som straffeloven § 147c skal ramme, hovedsakelig skjer ved hjelp av telekommunikasjon og internett. Straffeloven § 147c har en strafferamme på 6 år, noe som gir dette svært begrenset adgang til å benytte tvangsmidler. Når det ikke foreligger adgang til å avlytte internettaktiviteter ved mistanke om overtredelser av bestemmelsen, vil PST heller ikke kunne fange opp forsøk på å rekruttere personer til terrorvirksomhet eller opplæring i å lage for eksempel bomber.
+
+Vi viser videre til at tvangsmidler som hemmelig ransaking og dataavlesing vil fremstå som egnede verktøy for å finne beviser for forhold som rammes av straffeloven § 147 c, på mistenktes datasystem.
+
+Det er derfor vår vurdering at dersom bestemmelsen skal kunne fungere etter sin hensikt vil det være helt avgjørende at det gis utvidet adgang til å benytte tvangsmidler ved anvendelsen av denne.»
+
+BrøPST viste dessuten under høringen av Metodekontrollutvalgets utredning til at de miljøer hvor rekruttering og opplæring til terrorhandlinger foregår er lukkede miljøer:
+
+BrøBrø«Det er PSTs vurdering at straffeloven § 147c (strafferamme på 6 år) bør utløse tvangsmiddelbruk på linje med PSTs øvrige straffebud. Etterforsking av saker hvor oppfordring, rekruttering og opplæring til terrorhandling er tema, vil være vanskelig uten å ha anledning til bruk av tvangsmidler. Det er PSTs vurdering at utvalgets begrunnelse for hvorfor noen straffebud med strafferamme mindre enn 10 år kvalifiserer for tvangsmiddelbruk også gjelder for straffeloven § 147c. Det vises til at de miljøer hvor rekruttering og opplæring til terrorhandlinger foregår er lukkede miljøer\[...\].»
+
+BrøOgså *Riksadvokaten* viser til at tradisjonell etterforskning, spaning og infiltrasjon vanskelig lar seg gjennomføre i de miljøer som er involvert i oppfordring, rekruttering og opplæring til terrorhandlinger.
+
+*PST* peker dessuten på at det er begrensede muligheter for å benytte opplysninger innhentet ved avvergende etterforskning etter straffeprosessloven § 222 d – såkalt overskuddsinformasjon – i saker hvor det er mistanke om overtredelse av straffeloven 1902 § 147 a om terrorhandlinger (straffeloven §§ 131–134) som bevis i saker etter § 147 c (straffeloven § 136). PST utdyper dette synspunktet slik:
+
+BrøBrø«Vi ser nå at de forslag som er sendt på høring er lagt på en lav strafferamme med lite metodebruk. Dette er utfordrende fordi man i disse sakene er avhengige av metoder. Videre avskjærer det vår mulighet til å anvende bevis innhentet i en avvergende etterforskning ved bruk av f eks romavlytting eller kommunikasjonskontroll, som bevis i disse sakene. Dette skyldes de restriktive reglene i Norge for bruk av overskuddsinformasjon hvor hovedregelen er at bevis innhentet ved bruk av en metode, eksempelvis kommunikasjonskontroll, ikke kan brukes som bevis for straffbare forhold som ikke i seg selv gir adgang til metoden.
+
+Det er i dag et vanlig scenario at det foreligger grunn til å tro at noen kommer til å begå en terrorhandling eller inngå forbund om en slik handling. Det igangsettes så en avvergende etterforsking etter straffeprosessloven § 222 d (avvergende etterforsking), hvor en vil ha full metodeadgang, og hvor det f eks kan anvendes kommunikasjonskontroll (KK) og romavlytting. Slik reglene er i dag, er det kun hvis man tar ut tiltale for overtredelse av straffeloven § 147 a (terrorhandlinger) at alle opplysninger fra metodebruken i den avvergende etterforskingen kan brukes. Videre kan f eks KK-informasjon brukes for straffeloven § 147 b (terrorfinansiering).
+
+\[...\]
+
+Det er PSTs erfaring at den viktigste beviskilde i terrorsakene er avlytting av kommunikasjon. Dette gjelder der flere er involvert og i saker om rekruttering, finansiering og trening. Det vil også være viktig mot soloterrorister f eks ved avdekking av anskaffelse av gjenstander og bruk av internett. I saker om oppfordring til terror kan det være avgjørende med tanke på å skaffe informasjon rundt hvem som f. eks. har fremsatt oppfordringen på internett. Dersom PST ikke kan bruke informasjon fra avlytting av kommunikasjon i disse sakene, vil de i praksis ofte være virkningsløse.
+
+Vi registrer departementets uttalelse på side 50 i høringsnotatet om at bruk av overskuddsinformasjon vil bli nærmere drøftet i forbindelse med oppfølgningen av Metodekontrollutredningens utredning. Dette er positivt, men det er vår vurdering at enkelte grep bør kunne gjøres allerede nå.»
+
+Brø*Politijuristene* bemerker at rettssikkerhetsgarantier er viktigere enn en snever avgrensning av hvilke straffebud som skal gi anledning til å bruke metoden. Politijuristene uttaler i den forbindelse:
+
+BrøBrø«\[...\] Det er lett å mene at det er vel som viktig med rettssikkerhetsgarantier ved bruk av metoder, som kontroll fra påtalemyndighet og domstol enn en snevrere avgrensning av hvilke straffebud som skal gi anledning til å benytte metoden. Vi mener at det er riktig og viktig at lovgiver har en vurdering av hvilke metoder som skal tillates ved etterforskning av hvilke straffebud. Men vi tillater oss likevel å peke på at rettstatsgarantier og rettssikkerhet ivaretas vel så godt igjennom rettsstatenes kontrollfunksjoner, de uavhengige kontrollørene som påtalemyndighet og domstol – og forsvarer/§ 100a-advokat – skal utgjøre. På denne bakgrunn er vi derfor åpne for utvidelser av bruk av tvangsmidler, dersom rettssikkerhetsgarantier og personvernhensyn kan ivaretas på en tilfredsstillende måte.»

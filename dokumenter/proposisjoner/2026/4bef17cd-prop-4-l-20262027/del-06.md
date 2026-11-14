@@ -1,886 +1,166 @@
-# Prop. 4 L (2026–2027), del 6 av 8 (side 60–69)
+# Prop. 4 L (2026–2027), del 6 av 9
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2026/4bef17cd-prop-4-l-20262027.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-4-l-20262027/id3184905/
 - Original-PDF: https://www.regjeringen.no/contentassets/845baf58b7ba41e6ba79796b4aa76d98/no/pdfs/prp202620270004000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 60]
-
-58
-
-Prop. 4 L
-Endringer i straffeprosessloven mv. (prosessuelle regler for selvstendig inndragning)
-
-2026–2027
-
-9 Påtalemyndighetens og rettens behandling
-9.1
-
-Begjæring til retten og
-inndragningsforelegg
-
-9.1.1
-
-Gjeldende rett
-
-Lovens hovedregel er i dag at krav om inndragning fremmes av påtalemyndigheten ved tiltalebeslutning, jf. straffeprosessloven kapittel 19. Normalt skjer dette i forbindelse med at det tas ut tiltale for en straffbar handling, men loven åpner
-også for at det kan utferdiges tiltalebeslutninger
-som bare gjelder krav om inndragning. I praksis
-innledes rene inndragningssaker likevel som
-oftest ved forelegg (såkalt inndragningsforelegg),
-jf. straffeprosessloven kapittel 20. Forelegget er et
-tilbud til siktede om å godta inndragningskravet
-uten domstolsbehandling. Dersom forelegget
-ikke blir vedtatt, kan det bringes inn for retten og
-tre i stedet for tiltalebeslutning, jf. § 268.
-Ved krav om inndragning av formuesgoder
-som ikke tilhører en lovbryter, skal et inndragningsforelegg som hovedregel utferdiges overfor eieren, jf. straffeloven § 74 første ledd. Se
-også omtalen av straffeloven § 74 i punkt 6.1.1.
-Forelegg kan imidlertid også brukes ved inndragning etter straffeloven § 74 annet ledd uten
-eieren som part. Forelegget utferdiges i så fall
-overfor lovbryteren eller besitteren av det som
-kreves inndratt, som kan vedta kravet med bindende virkning for eieren, forutsatt at vilkårene i
-§ 74 annet ledd er oppfylt. Forelegg kan derimot
-ikke brukes ved inndragning etter § 74 tredje
-ledd, ettersom det i disse tilfellene ikke finnes
-noen som kan vedta forelegget, se Ot.prp. nr. 90
-(2003–2004) punkt 30.1 side 467. Dersom vilkårene i § 74 er oppfylt, men verken eieren, lovbryteren eller besitteren er kjent, åpner imidlertid straffeprosessloven § 214 b for at påtalemyndigheten kan beslutte inndragning ensidig.
-Beslutningen skal være skriftlig og begrunnet, jf.
-annet punktum. Eieren eller besitteren kan kreve
-saken forelagt for retten innen seks måneder
-etter vedtaket, jf. tredje punktum.
-Kravene til innholdet i en tiltalebeslutning
-fremgår av straffeprosessloven § 252. Det følger
-av første ledd at tiltalebeslutningen blant annet
-
-skal angi siktedes navn og hvilket straffebud som
-påstås anvendt, samt gi en kort, men så vidt mulig
-nøyaktig beskrivelse av det faktiske forholdet tiltalen gjelder. Tiltalebeslutningen skal også opplyse
-om det blir gjort gjeldende andre krav enn straff,
-herunder krav om inndragning, jf. § 252 tredje
-ledd første punktum. I Erik Keiserud mfl., Straffeprosessloven, lovkommentar, Juridika (à jour per 1.
-mars 2026), note 10 til § 252 er praksis knyttet til
-angivelsen av inndragningskravet nærmere
-beskrevet slik:
-«Ved inndragning av en bestemt gjenstand vil
-det normalt fremgå av tiltalebeslutningen hvilken gjenstand som ønskes inndratt. Ofte er det
-under etterforskingen tatt beslag i gjenstanden, jf. § 203. Er det tale om inndragning av
-oppnådd utbytte fra den straffbare handlingen,
-vil beløpets størrelse måtte bestemmes av retten, jf. strl. § 67, men også her er det vanlig at
-påtalemyndigheten under hovedforhandlingen
-angir et beløp. Beløpet behøver derimot ikke
-være oppgitt i tiltalebeslutningen.»
-Kravene til forelegg følger av straffeprosessloven
-§ 256, og er langt på vei de samme som til en tiltalebeslutning. Blant annet skal det opplyses i forelegget hvilket straffebud som er anvendt, og gis
-en beskrivelse av det forholdet forelegget gjelder,
-se § 256 første ledd nr. 2 og 3.
-Under forberedelsen av straffeprosessloven
-foreslo Straffeprosesslovkomiteen at saker hvor
-det bare reises krav om inndragning, skulle bringes inn for retten ved «stevning». Forslaget var
-begrunnet med at denne betegnelsen ble ansett
-mer passende enn «tiltale» når det ikke fremmes
-krav om straff, se NUT 1969:3 side 283. Kravene
-til tiltalebeslutningens innhold skulle etter forslaget gjelde tilsvarende, men utvalget tok forbehold om at disse kravene ikke alltid ville passe, og
-konstaterte at «f.eks. kan det ikke bli noen gjerningsbeskrivelse ved inndragning uten tilknytning til straffbart forhold». I høringen møtte forslaget motstand fra Politiembetsmennenes Landsforening, som viste til at betegnelsen «stevning» i
-straffeprosessen brukes om innkalling til rettsmø-
-
-[Side 61]
-
-2026–2027
-
-Prop. 4 L
-Endringer i straffeprosessloven mv. (prosessuelle regler for selvstendig inndragning)
-
-ter. Høringsinstansen uttalte videre: «Når det gjelder saker som alene gjelder inndragning vil som
-regel foreleggsformen bli benyttet, og den foreslåtte endring vil således ha liten betydning her.»
-På bakgrunn av dette ble forslaget ikke fulgt opp,
-se Ot.prp. nr. 35 (1978–79) Om lov om rettergangsmåten i straffesaker (straffesaksloven) kapittel 19
-side 195.
-
-9.1.2 Arbeidsgruppens forslag
-Arbeidsgruppen legger til grunn at saker om
-selvstendig inndragning ikke bør innledes ved
-tiltalebeslutning etter reglene i straffeprosessloven kapittel 19, se rapporten punkt 10.6.3. Som
-begrunnelse viser den til at krav om selvstendig
-inndragning ikke bygger på en straffbar handling begått av noen enkeltperson, og at formen
-«tiltalebeslutning» derfor fremstår problematisk. Gruppen fremhever også at siden selvstendig inndragning ikke forutsetter at det påvises et
-bestemt lovbrudd, passer ikke kravene til tiltalebeslutningens innhold etter straffeprosessloven
-§ 252 første ledd. På bakgrunn av dette foreslår
-arbeidsgruppen i stedet at krav om selvstendig
-inndragning skal fremmes ved en skriftlig begjæring fra påtalemyndigheten. Lovforslaget inneholder ikke særskilte krav til hvordan begjæringen skal utformes.
-I rapporten punkt 10.6.2 drøfter gruppen om
-krav om selvstendig inndragning i visse tilfeller
-bør kunne avgjøres uten rettslig prøving. Som
-bakgrunn viser gruppen blant annet til foreleggsreglene i straffeprosessloven kapittel 20 og påtalemyndighetens adgang til ensidig å fatte beslutning om inndragning etter straffeprosessloven
-§ 214 b. Gruppen påpeker at disse reglene særlig
-er begrunnet i prosessøkonomiske hensyn, og
-argumenterer for at slike hensyn har mindre overføringsverdi til saker om selvstendig inndragning.
-Det skyldes at forslaget i arbeidsgrupperapporten
-innebærer en forenklet rettslig behandling, hvor
-omfanget av muntlig bevisførsel og argumentasjon i retten i stor grad kan tilpasses behovet i den
-enkelte saken, og at behandlingen etter omstendighetene kan skje rent skriftlig. Se også proposisjonen punkt 9.3.2, hvor forslaget til regler om den
-rettslige behandlingen er nærmere omtalt. I lys av
-dette konkluderer gruppen med at det ikke er
-behov for at krav om selvstendig inndragning skal
-kunne avgjøres uten rettslig prøving.
-
-59
-
-9.1.3 Høringsinstansenes syn
-Ingen høringsinstanser har kommentert forslaget
-om at påtalemyndigheten skal fremme krav om
-selvstendig inndragning ved begjæring. Enkelte
-har imidlertid stilt spørsmål ved forslaget om at
-det alltid skal stilles krav om rettslig behandling.
-Hordaland, Sogn og Fjordane statsadvokatembeter
-uttaler:
-«Vi er noe usikker på om hensynet til kontradiksjon og til kontroll med etterforskning og
-varsling gjør seg gjeldende med slik tyngde at
-ikke inndragning også bør kunne besluttes av
-påtalemyndigheten under forutsetning av
-interessenter i formuesgodet først er varslet og
-gitt rimelig frist til å bestride inndragningen.
-Etter vår oppfatning er det ikke gitt at det er
-behov for rettslig behandling der alle relevante
-interessenter er varslet om inndragningssaken
-og ingen bestrider denne.»
-Kripos oppfordrer til å vurdere om det bør være
-adgang til å utstede inndragningsforelegg der formuesverdien er lav – og om det i så fall kan være
-hensiktsmessig å knytte dette til en beløpsgrense
-eller lignende.
-
-9.1.4 Departementets vurderinger
-Uten prosessuelle særregler vil utgangspunktet
-være at saker om selvstendig inndragning innledes ved tiltalebeslutning, jf. straffeprosessloven
-kapittel 19, eventuelt ved forelegg, jf. kapittel 20.
-Sett i lys av vilkårene i straffeloven § 68 a og inndragningsordningens sivilrettslige karakter er
-departementet enig med arbeidsgruppen i at
-disse reglene i sin nåværende form ikke uten
-videre fremstår egnet. Departementet viser til at
-det følger av straffeprosessloven § 252 at tiltalebeslutningen blant annet skal opplyse om hvilket
-straffebud som anvendes og identifisere en
-bestemt straffbar handling som kravet knytter seg
-til. De samme innholdsmessige kravene gjelder
-ved utferdigelse av forelegg, jf. § 256. Selvstendig
-inndragning skal derimot kunne foretas «uten at
-det er påvist et bestemt lovbrudd», se straffeloven
-§ 68 a første ledd første punktum.
-Departementet er også enig med arbeidsgruppen i at betegnelsen «tiltale» fremstår mindre passende når det fremmes krav om selvstendig inndragning, som ikke er begrunnet i at saksøkte har
-gjort noe straffbart. Departementet slutter seg
-derfor til forslaget om at slike krav som hovedregel skal fremmes ved skriftlig begjæring.
-
-[Side 62]
-
-60
-
-Prop. 4 L
-Endringer i straffeprosessloven mv. (prosessuelle regler for selvstendig inndragning)
-
-Uttrykket «begjæring» brukes en rekke steder i
-straffeprosessloven om påtalemyndighetens prosesshandlinger overfor retten, blant annet i § 248,
-som gjelder begjæring om pådømmelse uten tiltalebeslutning og hovedforhandling (tilståelsesdom). Uttrykket finnes også i § 63, som bestemmer at domstolene trer i virksomhet «etter begjæring av en påtaleberettiget», og at virksomheten
-opphører «når begjæringen blir trukket tilbake».
-Departementet har også vurdert betegnelsen
-«stevning», men mener det ville være uheldig å
-bruke den samme betegnelsen som brukes i
-straffeprosessloven § 86 om innkallingen av siktede til rettsmøter, jf. også Ot.prp. nr. 35 (1978–79)
-kapittel 19 side 195.
-Arbeidsgruppens forslag inneholder ikke spesifikke krav til utformingen av en begjæring om
-selvstendig inndragning. Etter departementets
-syn kan det være grunn til å fastsette visse innholdsmessige krav i loven, på tilsvarende måte
-som etter straffeprosessloven § 252 i dag. Begjæringen bør gi saksøkte et godt grunnlag for å forstå hva påtalemyndighetens krav bygger på og
-vurdere om det er grunn til å ta til motmæle. Som
-et minimum bør begjæringen derfor angi hvem
-som er saksøkt, hvilket formuesgode som kreves
-inndratt og hva som utgjør det faktiske og rettslige grunnlaget for kravet, se § 406 første ledd
-annet punktum i lovforslaget.
-Ved oversendelsen av begjæringen bør påtalemyndigheten dessuten gi uttrykk for sitt syn på
-den videre behandlingen, herunder om det begjæres forenklet behandling, og for øvrig gi retten de
-opplysningene som er nødvendige for denne
-behandlingen, se § 406 annet ledd første punktum. Se også proposisjonen punkt 9.3.4 om hovedforhandling og forenklet behandling.
-Departementet er enig med høringsinstansene som har tatt til orde for å videreføre påtalemyndighetens adgang etter straffeprosessloven
-kapittel 20 til å utferdige inndragningsforelegg for
-krav om selvstendig inndragning. Departementet
-legger til grunn at forelegg vil være aktuelt i
-kurante saker der saksøkte godtar inndragning,
-og det heller ikke er andre forhold som tilsier at
-saken bør prøves rettslig. Prosessøkonomisk vil
-det være lite heldig dersom slike saker alltid må
-bringes inn for retten. Etter departementets syn
-tilsier også systemhensyn at adgangen til å utferdige inndragningsforelegg bør omfatte selvstendig inndragning etter straffeloven § 68 a på lik
-linje med inndragning etter de øvrige reglene i
-straffeloven kapittel 13.
-Departementet har vurdert om det er behov
-for særskilte begrensninger i foreleggsreglene,
-
-2026–2027
-
-som for eksempel en beløpsgrense, slik Kripos har
-pekt på. Noen slik begrensning gjelder ikke ved
-inndragning etter de øvrige reglene i straffeloven
-kapittel 13. I forarbeidene til påtaleinstruksen
-§ 20-1, som innholdsmessig tilsvarer straffeprosessloven § 255, er det lagt til grunn at bruk av
-forelegg «forutsetter at omstendighetene ved
-saken er av en slik karakter at forelegg må anses
-som et egnet reaksjonsmiddel», jf. NOU 1984: 27
-Ny påtaleinstruks punkt 6 side 154. Det ble ikke
-funnet grunn til å gi nærmere retningslinjer for
-bruken. I saker om selvstendig inndragning vil
-påtalemyndigheten på samme måte som ellers ha
-plikt til å vurdere objektivt hvorvidt vilkårene i
-straffeloven § 68 a er oppfylt, og om forelegg er en
-egnet avgjørelsesform. Rettssikkerhetshensyn vil
-i tillegg være ivaretatt ved at saksøkte kan velge
-ikke å vedta forelegget. Departementet tilføyer at
-det heller ikke gjelder noen beløpsgrense eller
-andre begrensninger for hvilke krav saksøkte kan
-godta i en sivilrettslig tvist, jf. tvisteloven §§ 9-3 (2)
-og 9-7. På bakgrunn av dette har departementet
-kommet til at det ikke bør lovfestes noen særskilte begrensninger i adgangen til å utferdige
-forelegg ved selvstendig inndragning. Dersom det
-skulle være behov for visse føringer for påtalemyndighetens bruk av foreleggsreglene, legger
-departementet til grunn at dette mest hensiktsmessig kan skje gjennom retningslinjer fra riksadvokaten.
-For at foreleggsreglene skal være tilpasset krav
-om selvstendig inndragning, er det behov for visse
-justeringer. Siden departementets forslag innebærer at krav om selvstendig inndragning skal reises ved begjæring, vil et utferdiget forelegg ikke
-komme «i stedet for å reise tiltale», jf. straffeprosessloven § 255 første ledd første punktum. I likhet
-med reglene om innholdet i en tiltalebeslutning vil
-heller ikke kravene til foreleggets innhold som i
-dag følger av § 256 første ledd, passe.
-Etter departementets syn er det dessuten hensiktsmessig at reglene om de ulike avgjørelsesformene for selvstendig inndragning fremgår samlet
-i straffeprosessloven kapittel 28. Departementet
-foreslår derfor en bestemmelse om inndragningsforelegg i § 406 tredje ledd. Bestemmelsen innebærer at de innholdsmessige kravene til forelegget vil være de samme som kravene til en begjæring til retten, og at reglene om vedtakelse mv. i
-lovens kapittel 20 skal gjelde tilsvarende, se § 406
-tredje ledd annet punktum i lovforslaget. Dersom
-forelegget ikke vedtas, kan det sendes til retten og
-tre i stedet for særskilt begjæring, på samme måte
-som ikke vedtatt forelegg i andre sakstyper kan
-tre i stedet for tiltalebeslutning, jf. tredje punktum.
-
-[Side 63]
-
-2026–2027
-
-9.2
-
-Prop. 4 L
-Endringer i straffeprosessloven mv. (prosessuelle regler for selvstendig inndragning)
-
-Forkynning av begjæringen og
-varsel til andre enn saksøkte
-
-9.2.1 Gjeldende rett
-Når påtalemyndigheten har besluttet å reise tiltale, skal den etter straffeprosessloven § 263
-sørge for at tiltalebeslutningen snarest mulig blir
-forkynt for siktede med underretning om hvem
-som er oppnevnt som forsvarer. Bestemmelsen
-gjelder også når et ikke vedtatt forelegg oversendes retten og trer i stedet for tiltalebeslutning, jf.
-§ 268. I praksis skjer forkynning av tiltalebeslutningen ofte samtidig med forkynning av innkalling til hovedforhandling, se straffeprosessloven
-§ 275 fjerde ledd første punktum og Prop. 117 L
-(2015–2016) Endringer i domstolloven og straffeprosessloven (forhåndsinnkalling til forkynnelse av
-dom i straffesaker) punkt 4.1 side 11.
-Regler om fremgangsmåten ved forkynning
-fremgår av domstolloven kapittel 9. Reglene er
-ment å sikre at siktede skal kunne gjøre seg kjent
-med innholdet i dokumentet som blir forkynt og
-sørge for notoritet om meddelelsestidspunktet, se
-Ot.prp. nr. 8 (2002–2003) Om lov om endringer i
-rettergangslovgivningen mv. (elektronisk kommunikasjon med domstolene mv.) punkt 5.7 side 24.
-Etter domstolloven § 163 a første ledd kan
-påtalemyndigheten forkynne dokumenter ved
-direkte oversendelse til mottakeren. Oversendelsen kan skje elektronisk, ved vanlig brev vedlagt
-mottakskvittering eller ved rekommandert brev.
-Skjer oversendelsen elektronisk, må den skje
-ved bruk av en betryggende teknisk løsning som
-gir bevis for at dokumentet er mottatt av rette
-vedkommende. Nærmere regler om den elektroniske oversendelsen, blant annet om hvilket tidspunkt forkynningen anses å ha skjedd, er gitt i
-§ 163 b.
-Forkynning kan også skje ved stevnevitne
-etter reglene i domstolloven §§ 165 flg. Stevnevitneforkynning innebærer i utgangspunktet at forkynningen skjer personlig overfor mottakeren,
-jf. § 168. Loven åpner også for at forkynningen
-kan skje overfor enkelte andre personer som
-etter §§ 169 til 171 kan motta dokumentet på
-mottakerens vegne, men i rettspraksis er disse
-reglene praktisert strengt. Som følge av kravet til
-en rettferdig og offentlig rettergang i EMK artikkel 6 er det lagt til grunn at siktede bare kan
-anses som lovlig innkalt til hovedforhandlingen
-hvis han eller hun faktisk har mottatt og forstått
-innholdet i dokumentene, se blant annet HR2016-2385-U.
-
-61
-
-I sivile saker åpner domstolloven § 181 for at
-retten unntaksvis kan beslutte forkynning ved
-offentlig kunngjøring dersom forkynning ikke kan
-gjennomføres etter de øvrige reglene i domstolloven kapittel 9. Etter § 181 første ledd skjer kunngjøringsforkynning ved at dokumentet stilles til
-rådighet ved rettens kontor eller hos annen offentlig myndighet eller på annet sted, og at en melding om dette og om det sentrale innholdet i
-dokumentet kunngjøres på rettsstedet. Ved forkynning av et dokument som innleder saken, forutsetter § 181 annet ledd også at det så vidt mulig
-skal gis melding om dokumentet på mottakerens
-siste kjente oppholdssted, og at dokumentet skal
-gjengis i Norsk lysningsblad og i en eller flere aviser på mottakerens siste kjente bosted eller oppholdssted. Har retten opplysninger om hvor mottakeren kan oppholde seg, bør vedkommende
-dessuten forsøkes varslet ved rekommandert brev
-eller kunngjøring i avis som er alminnelig lest på
-stedet. Forkynning anses som hovedregel gjennomført fire uker etter kunngjøringen, jf. § 181
-fjerde ledd.
-Kravet til forkynning av tiltalebeslutningen og
-innkalling til hovedforhandlingen gjelder også når
-det reises inndragningskrav mot noen som ikke er
-siktet for en straffbar handling, jf. straffeprosessloven § 82 fjerde ledd. Forkynningen skjer da som
-hovedregel for eieren som kravet er rettet mot, jf.
-straffeloven § 74 første ledd. Når kravet reises etter
-straffeloven § 74 annet ledd uten eieren som part,
-skjer forkynningen derimot for lovbryteren eller
-besitteren som er gjort til saksøkt. Det gjelder ikke
-noe krav om forkynning for eieren, men vedkommende skal «så vidt mulig varsles om saken», jf.
-§ 74 annet ledd tredje punktum. I litteraturen er det
-antatt at kravet om varsel må tolkes relativt strengt
-når det gjelder den innsats som gjøres for å nå frem
-til eieren, se Johan Boucht, Straffeloven, lovkommentar, Karnov (à jour per 2. mars 2026), note 6.3
-til § 74. Dersom varsel ikke er gitt, eller påtalemyndigheten ikke har gjort tilstrekkelige bestrebelser
-for at varselet skal nå frem til eieren, kan retten
-avvise saken eller utsette den til varsel er gitt, se
-SRI 1970 side 22.
-Loven stiller ikke spesifikke krav til fremgangsmåten ved varsling etter § 74 annet ledd
-tredje punktum. I SRI 1970 side 22 uttales følgende:
-«Det forutsettes at varslet gis på den måte som
-etter forholdene er mest betryggende for at det
-skal nå frem til eieren. Kan varslet skje ved forkynnelse, bør dette helst gjøres; ellers ved
-brev, helst rekommandert, eller ved telegram,
-
-[Side 64]
-
-62
-
-Prop. 4 L
-Endringer i straffeprosessloven mv. (prosessuelle regler for selvstendig inndragning)
-
-enten til eieren selv eller en representant for
-ham.»
-I Rt. 1974 side 59 la Høyesterett til grunn at vilkårene i straffeloven 1902 § 37 c (som tilsvarer
-straffeloven 2005 § 74 annet og tredje ledd) var
-oppfylt selv om eieren ikke var formelt varslet om
-saken. Saken gjaldt krav om inndragning av verdien av visse ting som hadde vært gjenstand for
-en tollovertredelse, og som ble fremmet i straffesak mot lovbryteren. Selskapet som eide tingene
-var lovbryterens arbeidsgiver, og Høyesterett
-anså det ut fra de konkrete omstendighetene som
-«uantagelig» at han ikke hadde orientert selskapet om sakens gang. Selskapet ble derfor
-ansett å ha hatt «full anledning til å vareta sine
-interesser i saken dersom det fant behov for det»
-(side 60).
-
-9.2.2 Arbeidsgruppens forslag
-Arbeidsgruppen legger til grunn at kravet til forkynning av tiltalebeslutningen og innkalling til
-hovedforhandlingen i straffesaker kan stå i veien
-for effektiv inndragning, særlig dersom den som
-inndragningskravet er rettet mot, unndrar seg, se
-rapporten punkt 10.7.3 side 216. Gruppen foreslår
-derfor at det ikke skal gjelde noe generelt krav
-om forkynning når påtalemyndigheten fremmer
-krav om selvstendig inndragning. For at ordningen skal bli effektiv foreslår gruppen i stedet at
-saksøkte, samt eventuelle andre personer som
-inndragningen vil ha konsekvenser for, skal gjøres kjent med saken gjennom et uformelt varsel.
-Den foreslåtte varslingsregelen er en videreutvikling av regelen om varsling av eieren ved inndragningskrav etter straffeloven § 74 annet og
-tredje ledd. I motsetning til etter § 74 annet og
-tredje ledd skal varslingen tre i stedet for forkynning for saksøkte. Varslingsregelen skal dessuten
-gjelde overfor en videre krets enn eieren. Se også
-proposisjonen punkt 6.2.2 om kretsen av personer
-som etter forslaget skal varsles.
-Arbeidsgruppen legger til grunn at det vil bero
-på de konkrete omstendighetene i saken hva som
-utgjør et tilstrekkelig varsel. Dette utdypes slik
-(rapporten side 216–217):
-«I praksis vil mange ulike alternativer være
-mulig, herunder brev, e-post, telefon, SMS, etc.
-Det kan også være aktuelt å varsle via tredjeperson, for eksempel et familiemedlem, dersom man ikke lykkes i å komme i direkte kontakt med vedkommende selv. Det avgjørende
-for om varslingsplikten er overholdt, bør etter
-
-2026–2027
-
-arbeidsgruppens syn ikke være om vedkommende faktisk har gjort seg kjent med innholdet i varselet, men om påtalemyndigheten har
-gjort det den kan for å sikre vedkommende en
-mulighet til å gjøre seg kjent med innholdet. At
-vedkommende eventuelt velger å ikke gjøre
-seg kjent med informasjonen, bør han selv
-bære risikoen ved.»
-Dersom det ikke er praktisk mulig å varsle på
-noen annen måte, foreslår gruppen at varsel om
-saken skal kunne gis ved offentlig kunngjøring
-etter reglene i domstolloven § 181.
-Etter arbeidsgruppens lovforslag skal partene
-underrettes om eventuelle rettsmøter i saken «i
-henhold til opplysning gitt etter § 406 annet ledd».
-Formuleringen må ses i sammenheng med at forslaget inneholder en bestemmelse som pålegger
-partene å gi opplysning til retten om hvordan de
-vil motta informasjon. Regelen innebærer at dokumenter anses å ha kommet frem til mottakeren
-når de er sendt til det oppgitte kontaktpunktet.
-Gruppen konstaterer at den ikke har hatt mulighet til å utrede fullt ut hvilke implikasjoner en slik
-regel vil ha, men ønsker likevel å løfte spørsmålet,
-jf. rapporten punkt 10.7.4 side 217–218.
-
-9.2.3 Høringsinstansenes syn
-Hordaland, Sogn og Fjordane statsadvokatembeter
-uttaler at de i det vesentlige tiltrer arbeidsgruppens forslag til regler om varsling. Høringsinstansen argumenterer samtidig for at varsel ikke bør
-være en absolutt forutsetning for at en begjæring
-om selvstendig inndragning skal kunne tas til
-behandling. Standpunktet begrunnes slik:
-«Vi er i utgangspunktet enig i at gjennomført
-varsling skal være en prosessforutsetning,
-men imidlertid av den oppfatning at det bør
-vurderes om det skal innføres en sikkerhetsventil som gir retten anledning til å fortsette
-behandlingen dersom det under behandlingen
-fremkommer opplysninger om personer med
-perifere eller helt begrensede rettigheter i formuesgodet som skulle vært varslet. Det er ikke
-i alle tilfeller at personens interesse i formuesgodet står i et rimelig forhold kostnadene ved å
-utsette saken, f.eks. der det avholdes muntlige
-forhandlinger til behandling av inndragningskravet.»
-Politihøgskolen viser til og tiltrer forslaget til særregler om forkynning og varsling i Jon Petter Ruis
-Betenkning: Sivilrettslig inndragning rettet direkte
-
-[Side 65]
-
-2026–2027
-
-Prop. 4 L
-Endringer i straffeprosessloven mv. (prosessuelle regler for selvstendig inndragning)
-
-mot formuesgoder fra 2015. Se også proposisjonen
-punkt 2.3.1, hvor betenkningen er omtalt.
-Høringsinstansen uttrykker bekymring for at
-reglene som er foreslått av arbeidsgruppen, vil
-kunne vanskeliggjøre inndragningsprosessen.
-Høringsinstansen uttaler:
-«Varsling av berørte, forkynning, er nødvendig
-for å gjennomføre prosesser, også om inndragning. En utfordring for å lykkes med inndragning i dag, er at eiere og rettighetshavere er
-skjult og/eller befinner seg i utlandet, noe som
-kan umuliggjøre varsling. Utredningen foreslår at domstollovens regler for forkynning mv.
-i straffesaker skal gjelde ved sivilrettslig inndragning. Det er etter PHS sitt syn grunn til å
-frykte at dette vil kunne vanskeliggjøre inndragning.»
-Politihøgskolen fremhever at saksøkte ikke bør
-kunne forhindre inndragning gjennom å gjøre seg
-utilgjengelig for forkynning.
-Arbeidsgruppens forslag om en regel som
-pålegger partene å oppgi kontaktinformasjon i
-saken, støttes av Hordaland, Sogn og Fjordane
-statsadvokatembeter og Øst politidistrikt.
-
-9.2.4 Departementets vurderinger
-Departementet følger ikke opp forslaget om at
-kravet til forkynning på generelt grunnlag skal
-erstattes med en uformell varslingsregel. Kravene
-til forkynning av tiltalebeslutningen og innkalling
-til hovedforhandlingen er begrunnet i behovet for
-trygghet for at dokumentene har kommet frem til
-mottakeren. Etter departementets syn gjør dette
-behovet seg gjeldende også når påtalemyndigheten fremmer krav om selvstendig inndragning.
-Selvstendig inndragning er ikke å anse som straff,
-men utgjør et inngrep i eiendomsretten etter
-EMK P1-1 som potensielt kan ha betydelige konsekvenser for saksøkte. Dette tilsier at saksøkte
-bør gjøres kjent med begjæringen på en betryggende måte som sikrer notoritet om at den har
-kommet frem til rette vedkommende. Departementet tilføyer at kravet til forkynning overfor
-saksøkte også gjelder for stevningen og eventuelle andre prosesskriv som bringer inn nye krav i
-sivile saker, jf. tvisteloven § 12-4. Etter departementets syn vil det ikke gi den samme klarheten
-og forutsigbarheten dersom kravet til forkynning
-på generelt grunnlag skal erstattes med et uformelt varsel.
-Departementet ser at et krav om forkynning
-kan skape praktiske utfordringer for gjennomfø-
-
-63
-
-ringen av saken dersom eieren som skal saksøkes, har ukjent oppholdssted eller oppholder seg i
-utlandet. Som det fremgår av punkt 6.1.4.3, bygger imidlertid departementets forslag på at kravet
-i disse tilfellene kan fremmes overfor en besitter
-med kjent oppholdssted i Norge i stedet for mot
-eieren. Dersom det heller ikke er identifisert en
-besitter med kjent oppholdssted i Norge, vil
-kravet kunne fremmes uten saksøkt, se punkt
-6.1.4.4. Eier vil i disse tilfellene ha adgang til å
-utøve partsrettigheter, men siden vedkommende
-ikke er saksøkt, vil det ikke gjelde noe generelt
-krav om forkynning overfor vedkommende.
-Departementet legger til grunn at disse reglene
-legger til rette for at saker om selvstendig inndragning kan gjennomføres på en effektiv måte
-også i tilfeller der det ville vært umulig eller uforholdsmessig krevende å forkynne begjæringen
-for eieren.
-Når kravet fremmes mot en identifisert besitter, vil forkynning etter departementets forslag
-skje overfor besitteren som er gjort til saksøkt, på
-samme måte som etter straffeloven § 74 annet
-ledd. Forkynningen overfor saksøkte sikrer notoritet om at informasjonen har nådd frem til noen
-som representerer eierinteressene i saken. Etter
-omstendighetene må det også antas at vedkommende vil videreformidle relevant informasjon til
-den reelle eieren.
-Dette stiller seg annerledes dersom kravet
-fremmes uten at noen er gjort til saksøkt, jf. § 404
-tredje ledd i lovforslaget og punkt 6.1.4.4 over. I
-slike tilfeller vil det ikke være noen identifisert
-person som kan motta forkynning og for øvrig
-representere eierinteressene i saken. Departementet legger til grunn at det da vil være behov
-for en annen mekanisme for forkynning. Når
-påtalemyndigheten fremmer krav om selvstendig
-inndragning uten at noen er gjort til saksøkt, foreslår departementet derfor at begjæringen skal
-kunngjøres offentlig etter reglene i domstolloven
-§ 181 første ledd, se § 404 tredje ledd tredje punktum i lovforslaget. Kunngjøringen vil etablere et
-tidspunkt for når innholdet i begjæringen formelt
-sett kan anses for å ha kommet frem til personer
-som er eller kan antas å være eier.
-For at en eier som ikke er saksøkt, skal ha
-mulighet til å utøve partsrettigheter og ivareta
-egne interesser i prosessen, følger det av departementets forslag at vedkommende så vidt mulig
-skal varsles, se punkt 6.2.4. For så vidt gjelder
-gjennomføringen av et slikt varsel, er departementet enig med arbeidsgruppen i at det er nærliggende å bygge videre på straffeloven § 74 annet
-ledd tredje punktum. Denne bestemmelsen byg-
-
-[Side 66]
-
-64
-
-Prop. 4 L
-Endringer i straffeprosessloven mv. (prosessuelle regler for selvstendig inndragning)
-
-ger på at varsel til eieren kan gis ved forkynning
-hvis dette er kurant, men at andre kommunikasjonskanaler kan brukes dersom formell forkynning er umulig eller uforholdsmessig krevende.
-Tilsvarende bør etter departementets syn gjelde
-ved selvstendig inndragning. Det sentrale er ikke
-hvordan varslingen skjer, men at påtalemyndigheten gjør det som er praktisk mulig for at informasjon om saken skal komme frem til mottakeren
-slik at vedkommende har en reell mulighet til å
-utøve partsrettigheter og ivareta egne interesser i
-prosessen. Varslingsregelen må praktiseres i lys
-av EMK artikkel 6 nr. 1, se for eksempel EMDs
-dom 31. mai 2016 Gankin mfl. mot Russland (sak
-nr. 2430/06, 1454/08, 11670/10 og 12938/12).
-
-9.3
-
-Hovedforhandling og forenklet
-behandling
-
-9.3.1 Gjeldende rett
-Når påtalemyndigheten har besluttet å reise tiltale, oversendes tiltalebeslutningen – alternativt
-forelegg som trer i stedet for tiltalebeslutning – til
-retten med anmodning om berammelse av hovedforhandling. Oversendelsen skal etter straffeprosessloven § 262 første ledd inkludere påtalemyndighetens bevisoppgave (bokstav b), utdrag av
-skriftlige bevis som skal føres i retten (bokstav c)
-og visse andre opplysninger av betydning for den
-rettslige behandlingen av saken (bokstav d til h).
-Den videre behandlingen i retten er regulert i
-straffeprosessloven kapittel 21 og 22 om forberedelse til og gjennomføring av hovedforhandling
-for tingrett. Hovedforhandlingen er et muntlig
-rettsmøte hvor aktor og forsvarer møter i retten,
-jf. § 279, og hvor bevisene som påtalemyndigheten vil påberope seg, blir presentert direkte for
-den dømmende rett, jf. § 278. Siktede har møteplikt, jf. § 85 første ledd bokstav a. Saksdokumentene i sin helhet blir ikke rutinemessig oversendt
-til retten før hovedforhandlingen, men etter
-§ 274 a kan retten kreve å få oversendt dokumentene «når den finner behov for det av hensyn til
-saksforberedelsen eller den videre behandlingen
-av saken». Bestemmelsen gjelder både under
-saksforberedelsen og under hovedforhandlingen,
-jf. § 295. Det er opp til rettens skjønn i hvilken
-grad adgangen til å gjøre seg kjent med saksdokumentene skal brukes, se Prop. 146 L (2020–2021)
-punkt 4.1 side 17. Rettens avgjørelse kan imidlertid bare bygge på de bevisene som er ført under
-hovedforhandlingen, jf. straffeprosessloven § 305.
-Ved lov 18. juni 2021 nr. 122 ble det foretatt en
-rekke endringer i straffeprosessloven kapittel 21
-
-2026–2027
-
-og 22 for å legge til rette for en mer aktiv saksstyring, se Prop. 146 L (2020–2021) Endringer i
-straffeprosessloven mv. (aktiv saksstyring mv.)
-punkt 1 side 7. Blant annet ble det innført en fanebestemmelse i § 271 a som fastsetter at retten har
-plikt til å innrette behandlingen etter hva som kreves for å sikre en effektiv, konsentrert og forsvarlig saksbehandling, og en ny bestemmelse i
-§ 278 a som synliggjør rettens plikt til å drive aktiv
-saksstyring under hovedforhandlingen. Retten ble
-også gitt flere verktøy for å drive aktiv saksstyring, herunder en mer vidtrekkende hjemmel enn
-tidligere til å avskjære uforholdsmessig bevisførsel, se § 292 annet ledd.
-Straffeprosessloven § 248 åpner i visse tilfeller
-for en forenklet domstolsbehandling – såkalt tilståelsesdom. Slik forenklet behandling innebærer
-at det ikke avholdes hovedforhandling, men at retten avgjør skyld- og straffespørsmålet på grunnlag
-av dokumentene i saken og eventuelle tilleggsopplysninger siktede kommer med i et muntlig rettsmøte, se Prop. 146 L (2020–2021) punkt 6.1 side
-28. Rettsmøtet er av kortere varighet og gjennomføres normalt uten aktor eller forsvarer til stede.
-Etter § 248 første ledd bokstav a kan tilståelsespådømmelse skje når saken gjelder «en straffbar
-handling som ikke kan medføre fengsel i mer enn
-ti år, og siktede innen retten har gitt en uforbeholden tilståelse som styrkes av de øvrige opplysninger». Tilståelsespådømmelse kan bare skje «med
-siktedes samtykke», jf. § 248 første ledd første
-punktum. Det kreves ikke særskilt samtykke til
-pådømmelse av inndragningskrav, se Rt. 1995 side
-1707, men siktede kan i praksis forhindre pådømmelse av slike krav ved ikke å samtykke til tilståelsesdom. Tilståelsespådømmelse kan ikke skje
-dersom retten finner denne behandlingsmåten
-betenkelig.
-Ved anke til lagmannsretten gjennomføres
-ankeforhandlingen etter de reglene som gjelder
-for behandlingen i første instans, så langt de passer og ikke annet er bestemt, jf. straffeprosessloven § 327 første ledd.
-
-9.3.2 Arbeidsgruppens forslag
-Arbeidsgruppen foreslår en behandlingsmåte for
-krav om selvstendig inndragning som på viktige
-punkter avviker fra de alminnelige reglene i
-straffeprosessloven. Forslaget er begrunnet i at
-ordningen er ment å effektivisere behandlingen
-av inndragningskrav, se rapporten punkt 10.8.2.
-Etter gruppens syn oppnås dette formålet best
-dersom saksbehandlingen kan forenkles sammenlignet med det som gjelder i dag. Gruppen mener
-
-[Side 67]
-
-2026–2027
-
-Prop. 4 L
-Endringer i straffeprosessloven mv. (prosessuelle regler for selvstendig inndragning)
-
-en slik forenkling vil være forsvarlig hensett blant
-annet til inndragningsordningens sivilrettslige
-karakter.
-Etter arbeidsgruppens forslag skal saksdokumentene i sin helhet rutinemessig oversendes til
-retten når påtalemyndigheten fremmer krav om
-selvstendig inndragning. I motsetning til det som
-gjelder i straffesaker, skal det ikke avholdes
-hovedforhandling etter reglene i straffeprosessloven kapittel 22. I stedet skal retten bare innkalle
-til muntlig rettsmøte dersom den finner behov for
-det, og omfanget av muntlig bevisførsel og argumentasjon skal i stor grad overlates til rettens
-skjønn. Partene skal gis anledning til å uttale seg
-om behovet for muntlighet, men retten skal ikke
-være bundet av partenes syn. Etter forslaget skal
-rettens avgjørelse av inndragningskravet bygge
-på saksdokumentene, i tillegg til det som eventuelt kommer frem muntlig i rettsmøte. I motsetning til hva som gjelder ved hovedforhandling i
-straffesak, skal retten følgelig også ha adgang til å
-bygge avgjørelsen på bevis som ikke er presentert
-muntlig.
-Arbeidsgruppen legger til grunn at de foreslåtte reglene vil gi retten fleksibilitet til å tilpasse
-behandlingsformen ut fra de konkrete omstendighetene i saken, og viser til at saker om selvstendig
-inndragning vil kunne variere betydelig i omfang
-og kompleksitet. I noen tilfeller vil for eksempel
-spørsmål om troverdighet stå sentralt, og det kan
-da være behov for muntlig bevisførsel på samme
-måte som ved hovedforhandling i straffesak. I
-andre saker vil det etter gruppens syn være forsvarlig å behandle saken fullt ut skriftlig, for
-eksempel der bevisvurderingen primært bygger
-på en gjennomgang av dokumenter. Gruppen nevner også at det etter omstendighetene kan være
-hensiktsmessig å behandle inndragningskravet i
-samme rettsmøte som retten tar stilling til spørsmål om opprettholdelse av beslag, jf. straffeprosessloven § 208.
-
-9.3.3 Høringsinstansenes syn
-Økokrim uttrykker en generell støtte til forslagene i arbeidsgrupperapporten. Riksadvokaten
-uttaler generelt at arbeidsgruppen ser ut til å ha
-identifisert behovet for tilpasninger i prosessreglene, og at forslagene balanserer det praktiske
-behovet for en enklere og mer effektiv prosess
-med hensynet til de involvertes rettssikkerhet.
-Øst politidistrikt uttrykker støtte til målsetningen
-om å effektivisere og forenkle saksbehandlingen.
-Kripos støtter forslaget om en forenklet saksbehandling, og mener de særskilte rettssikker-
-
-65
-
-hetshensynene som begrunner behandlingsreglene i straffesaker, ikke gjør seg gjeldende i
-samme grad ved selvstendig inndragning. Kripos
-støtter at det utformes fleksible saksbehandlingsregler, slik at rettssikkerhetsmekanismer som for
-eksempel muntlige forhandlinger utløses i de
-sakene som krever det.
-Borgarting lagmannsrett uttrykker støtte til
-arbeidsgruppens forslag, og mener at slike
-behandlingsregler vil være hensiktsmessige også
-i lagmannsretten. Høringsinstansen viser til at retten da vil kunne avgjøre små og mindre krevende
-saker etter skriftlig behandling, men velge delvis
-muntlig behandling for eksempel hvis bevissituasjonen er komplisert. Høringsinstansen påpeker
-at dette vil øke fleksibiliteten for domstolen og
-bidra til bedre ressursbruk.
-
-9.3.4
-
-Departementets vurderinger
-
-I likhet med arbeidsgruppen legger departementet til grunn at saker om selvstendig inndragning vil kunne variere betydelig i omfang og kompleksitet, og at rettssikkerhetshensyn ikke nødvendigvis begrunner at den rettslige behandlingen skal skje på samme måte som i straffesaker.
-Mens en del saker vil ligge slik an at det må avholdes en full muntlig hovedforhandling, kan andre
-saker være så oversiktlige at det er hensiktsmessig å avgjøre kravet skriftlig eller på bakgrunn av
-en kombinasjon av skriftlig behandling og rettsmøte. Ressurshensyn tilsier da at en full muntlig
-hovedforhandling forbeholdes de sakene hvor det
-faktisk er behov for det.
-Departementet bemerker i den forbindelse at
-ressursbruken knyttet til den rettslige behandlingen av kravet må antas å ha stor betydning for om
-ordningen med selvstendig inndragning faktisk
-blir et så effektivt verktøy som man ønsker. Dersom den rettslige behandlingen i praksis blir like
-omfattende som i straffesaker, antar departementet at det er en reell risiko for at påtalemyndigheten vil henlegge et betydelig antall saker av
-ressurshensyn. Dette gjelder ikke minst når
-kravet gjelder begrensede økonomiske verdier
-som ikke står i forhold til ressursbruken ved en
-full hovedforhandling.
-Selvstendig inndragning er ikke å anse som
-straff etter Grunnloven eller EMK. I motsetning
-til de fleste inndragningskrav som fremmes etter
-de gjeldende reglene i straffeloven kapittel 13, forutsetter heller ikke straffeloven § 68 a at retten tar
-stilling til en straffbar handling. Samtidig fremmes kravet av påtalemyndigheten, som har plikt
-til å sørge for en objektiv etterforskning og for
-
-[Side 68]
-
-66
-
-Prop. 4 L
-Endringer i straffeprosessloven mv. (prosessuelle regler for selvstendig inndragning)
-
-øvrig skal opptre objektivt under hele behandlingen av saken, jf. straffeprosessloven § 226 tredje
-ledd første punktum og § 55 annet ledd. Etter
-departementets syn tilsier disse forholdene at det
-vil være rettssikkerhetsmessig forsvarlig å åpne
-for at krav om selvstendig inndragning kan avgjøres på bakgrunn av en enklere behandling enn i
-straffesaker, slik arbeidsgruppen har foreslått. De
-høringsinstansene som har uttalt seg om spørsmålet, uttrykker også støtte til en slik adgang.
-Av lovtekniske grunner finner departementet
-likevel at reglene for den rettslige behandlingen i
-noe større grad bør ta utgangspunkt i de alminnelige reglene i straffeprosessloven. Departementet
-foreslår derfor at krav om selvstendig inndragning skal kunne avgjøres ved forenklet behandling dersom omstendighetene i saken tilsier det,
-men at hovedregelen for øvrig skal være muntlig
-hovedforhandling, se § 407 i lovforslaget.
-Straffeprosessloven § 248 gir i dag en adgang
-til forenklet behandling av straffesaker. Dette forutsetter i utgangspunktet at siktede gir en uforbeholden tilståelse knyttet til skyldspørsmålet, og at
-han eller hun samtykker til tilståelsespådømmelse. Etter departementets syn utgjør disse vilkårene neppe en hensiktsmessig terskel for når
-krav om selvstendig inndragning skal kunne
-avgjøres ved forenklet behandling. Departementet har vurdert om det bør oppstilles andre
-vilkår knyttet til for eksempel formuesgodets
-verdi, men mener dette ikke nødvendigvis vil
-være avgjørende for sakens kompleksitet eller
-behovet for muntlig hovedforhandling. Etter
-departementets syn bør det avgjørende for valget
-av behandlingsform være hvorvidt retten finner at
-saken vil bli tilstrekkelig opplyst uten hovedforhandling. Verdiene saken gjelder, vil kunne være
-ett av flere momenter i denne vurderingen.
-I lys av retten til muntlige forhandlinger som
-er innfortolket i EMK artikkel 6 nr. 1 om en rettferdig og offentlig rettergang, legger departementet til grunn at det bør utvises en viss varsomhet med å avgjøre krav om selvstendig inndragning etter en ren skriftlig behandling, se blant
-annet EMDs dom 18. desember 2008 Saccoccia
-mot Østerrike (sak nr. 69917/01) avsnitt 71 med
-videre henvisninger og storkammerdom 11. juli
-2002 Göç mot Tyrkia (sak nr. 36590/97) avsnitt 47.
-Rent skriftlig behandling bør likevel ikke være
-utelukket, såfremt de rettslige og faktiske spørsmålene saken reiser, kan løses på en forsvarlig
-måte uten muntlighet, se også storkammerdom 6.
-november 2018 Ramos Nunes de Carvalho e Sá
-mot Portugal (sak nr. 55391/13, 57728/13 og
-74041/13) avsnitt 190.
-
-2026–2027
-
-Etter departementets syn bør det ikke nødvendigvis være avgjørende for valg av behandlingsform hvorvidt saksøkte samtykker til forenklet
-behandling. Dersom saksøkte krever muntlig
-behandling, vil imidlertid dette måtte tas i betraktning. Departementet antar samtidig at behovet for
-muntlighet i en del tilfeller vil kunne ivaretas på
-andre måter enn ved å gjennomføre en full hovedforhandling. Dersom saksøkte ønsker å forklare
-seg for retten, vil det for eksempel kunne avholdes et rettsmøte under saksforberedelsen som er
-begrenset til dette, på lignende måte som ved tilståelsespådømmelse etter straffeprosessloven
-§ 248. Et eventuelt rettsmøte vil også kunne
-avgrenses til å gjelde andre bevis, for eksempel
-eksaminasjon av et bestemt vitne, eller til forhandlinger om utvalgte tematiske spørsmål.
-Departementet foreslår at adgangen til forenklet behandling skal gjelde dersom «retten finner det klart at saken vil være tilstrekkelig opplyst
-uten hovedforhandling», se § 407 første ledd første
-punktum i lovforslaget. Slik behandling vil etter forslaget også være betinget av at påtalemyndigheten
-ber om det. Dom etter forenklet behandling avsies
-av retten på grunnlag av sakens dokumenter og
-behandlingen i eventuelle rettsmøter under saksforberedelsen, jf. § 407 første ledd annet punktum.
-Etter departementets syn vil en slik åpning for delvis muntlighet som denne løsningen innebærer,
-bidra til å ivareta de hensynene som ligger til
-grunn for kravet om en offentlig rettergang etter
-EMK artikkel 6 nr. 1, samtidig som det legges til
-rette for at saksbehandlingen ikke blir mer omfattende enn nødvendig. Departementet legger til
-grunn at straffeprosessloven § 274 i sin nåværende
-form utgjør en tilstrekkelig rettslig ramme for slike
-rettsmøter, og at det ikke er behov for noen særlig
-regulering av dette.
-Dersom kravet ikke avgjøres etter forenklet
-behandling, enten fordi påtalemyndigheten ikke
-har begjært det eller fordi retten ikke har funnet
-grunnlag for det, foreslår departementet at det
-skal berammes hovedforhandling etter de alminnelige reglene i straffeprosessloven kapittel 22.
-Departementet bemerker at også disse reglene
-gir retten flere verktøy som vil kunne brukes for å
-sikre en effektiv og sakstilpasset behandling av
-krav om selvstendig inndragning. Et av verktøyene er adgangen etter straffeprosessloven § 274 a
-til å gjøre seg kjent med sakens dokumenter
-under saksforberedelsen, noe som vil kunne være
-praktisk blant annet dersom saksdokumentene
-inneholder omfattende regnskapsmateriale eller
-lignende. Videre er retten gitt hjemmel i § 292
-annet ledd til å avskjære bevis som «ikke er nød-
-
-[Side 69]
-
-2026–2027
-
-Prop. 4 L
-Endringer i straffeprosessloven mv. (prosessuelle regler for selvstendig inndragning)
-
-vendig for å sikre et forsvarlig avgjørelsesgrunnlag», når bevisets «bidrag til sakens opplysning
-ikke står i et rimelig forhold til hensynet til effektiv saksavvikling». Departementet legger til grunn
-at spørsmålet om hva som er et forsvarlig avgjørelsesgrunnlag etter denne bestemmelsen, må vurderes i lys av hva saken gjelder. Selvstendig inndragning etter straffeloven § 68 a kan foretas av
-formuesgoder som «mest sannsynlig stammer fra
-lovbrudd», noe som innebærer at det ikke på
-samme måte som i en straffesak må utelukkes at
-verdiene stammer fra lovlige kilder, se også Prop.
-27 L (2025–2026) punkt 14 side 89–90. Som konsekvens av dette legger departementet til grunn at
-terskelen for å avskjære bevis som følge av at
-beviset ikke vil ha nevneverdig betydning for rettens avgjørelse, vil kunne være lavere enn i en
-straffesak.
-For så vidt gjelder behandlingsmåten i lagmannsretten, følger det av straffeprosessloven
-§ 327 at ankeforhandlingen forberedes og gjennomføres etter reglene for tingretten, så langt de
-passer og ikke annet er bestemt. Departementet
-legger til grunn at dette innebærer at adgangen til
-forenklet domsbehandling i prinsippet også vil
-gjelde for behandlingen i lagmannsretten, og at
-det ikke er behov for noen særregulering på dette
-punktet.
-
-9.4
-
-Fraværspådømmelse
-
-9.4.1 Gjeldende rett
-Ved hovedforhandling i straffesak har siktede rett
-og plikt til å være til stede, se straffeprosessloven
-§ 85 første ledd bokstav a. Møteplikten gjelder unntaksfritt, men retten kan etter § 280 annet punktum
-tillate siktede å fjerne seg etter at han har avgitt forklaring. Ved innkalling til hovedforhandling har siktede krav på tre dagers varsel, jf. § 86 annet ledd.
-Ved andre rettsmøter er utgangspunktet at siktede
-ikke har møteplikt, men kan etter straffeprosessloven § 85 første ledd bokstav b pålegges å møte
-hvis retten «finner hans fremmøte nødvendig etter
-sakens stilling». Innkalling skal skje med minst 24
-timers varsel, jf. § 86 annet ledd.
-Unnlater siktede å møte til hovedforhandlingen, er lovens utgangspunkt at saken skal utsettes. Straffeprosessloven § 281 åpner for at hovedforhandlingen likevel kan fremmes, forutsatt at tiltalebeslutningen og innkalling til hovedforhandlingen er forkynt med lovlig varsel, se Ot.prp. nr.
-53 (1983–84) Om lov om ikraftsetting og endring av
-den nye straffeprosessloven m m side 170. Adgangen gjelder såfremt «påtalemyndigheten ikke vil
-
-67
-
-påstå idømt fengsel i mer enn ett år» og siktedes
-«nærvær ikke finnes nødvendig for sakens opplysning», jf. første ledd første punktum. I tillegg må
-et av de alternative vilkårene i nr. 1 til 3 være oppfylt, det vil si at siktede enten må ha samtykket til
-fraværspådømmelse (nr. 1), ha uteblitt uten gyldig
-fravær (nr. 2) eller ha unnveket etter at tiltalebeslutningen er forkynt for ham (nr. 3). Dersom innkalling til hovedforhandlingen ikke er forkynt for
-siktede fordi han har unnveket etter forkynning av
-tiltalebeslutningen, kan hovedforhandlingen uansett fremmes, jf. § 281 annet ledd.
-Vilkårene for fraværspådømmelse etter
-straffeprosessloven § 281 gjelder også i rene inndragningssaker. Det fremgår av forarbeidene at
-slike saker kan fremmes til behandling uavhengig
-av vilkåret om maksimal straffepåstand, se Ot.prp.
-nr. 53 (1983–84) punkt 6.3 side 169–170. Tidligere
-fulgte dette uttrykkelig av ordlyden i § 281. Vilkåret om at siktedes tilstedeværelse ikke må være
-nødvendig for sakens opplysning, gjelder tilsvarende for den som inndragningskravet er reist
-mot, jf. straffeprosessloven § 82 fjerde ledd. Det er
-imidlertid lagt til grunn i forarbeidene at det bør
-være «forholdsvis kurant» å behandle rene inndragningssaker ved fravær, se NUT 1969:3 kapittel 22 side 305.
-Straffeprosessloven § 282 gir på visse vilkår
-adgang til ny behandling av en sak som er avgjort
-ved fraværspådømmelse dersom siktede ikke har
-samtykket til slik behandling. Er saken behandlet
-på grunnlag av § 281 første ledd nr. 2, kan den kreves behandlet på nytt hvis siktede sannsynliggjør
-at han hadde gyldig fravær, og det ikke kan legges
-ham til last at han har unnlatt å melde fra i tide.
-Det samme gjelder etter § 282 første ledd annet
-punktum hvis saken er behandlet på grunnlag av
-§ 281 første ledd nr. 3, og siktede sannsynliggjør
-at han ikke var unnveket. Begjæring om ny
-behandling må settes frem innen utløpet av ankefristen, jf. § 282 annet ledd første punktum.
-
-9.4.2 Arbeidsgruppens forslag
-Arbeidsgruppens forslag innebærer som nevnt at
-saker om selvstendig inndragning ikke skal
-behandles ved hovedforhandling, og at det heller
-ikke skal være obligatorisk med noen annen form
-for muntlig rettsmøte, se også punkt 9.3.2. Dersom retten beslutter å avholde rettsmøte, skal partene varsles og ha rett til å delta, men ikke ha
-møteplikt. Gruppen legger til grunn at det heller
-ikke bør være noe krav at saksøkte tar aktivt del i
-saken på andre måter, for eksempel ved å fremsette anførsler eller bevis.
+# Tvangsmidler
+
+## Adgang til bruk av tvangsmidler
+
+### Gjeldende rett
+
+Ved etterforskning av straffesaker kan påtalemyndigheten ta i bruk ulike etterforskningsmetoder, herunder bruk av tvangsmidler. Reglene om tvangsmidler fremgår i hovedsak av straffeprosesslovens fjerde del. Tvangsmidlene omfatter tradisjonelle metoder som blant annet pågripelse og fengsling (§§ 171 flg.), ransaking (§§ 192 flg.), beslag (§§ 203 flg.), utleveringspålegg (§§ 210 flg.) og heftelse (§§ 217 flg.). Loven gir også regler om såkalte skjulte tvangsmidler, som for eksempel teknisk sporing (§§ 202 b og 202 c), skjult kameraovervåkning (§§ 202 d flg.), kommunikasjonskontroll (§§ 216 a flg.), romavlytting (§ 216 m) og dataavlesing (§§ 216 o og 216 p).
+
+Enkelte av de nevnte tvangsmiddelhjemlene viser direkte eller indirekte at de kan brukes til sikring av inndragningskrav. Det gjelder § 203, som i første ledd annet punktum gir hjemmel for å beslaglegge «ting som antas å kunne inndras». Det samme gjelder heftelse etter § 217, som kan brukes for å sikre betaling av «inndragning \[…\] som siktede er eller antas å ville bli ilagt». Mens beslag brukes med sikte på gjenstandsinndragning, kan heftelse brukes for å sikre krav på verdiinndragning. Ransaking av sted eller person kan i sin tur brukes blant annet for å søke etter «ting som kan beslaglegges eller som det kan tas heftelse i», jf. §§ 192 og 195. Sikring av inndragningskrav gjennom beslag og heftelse er ofte avgjørende for å komme i mål med kravet og få det fullbyrdet, se *Inndragning – Kvalitetsundersøkelse 2023* (Riksadvokatens skriftserie 1/2024) punkt 6.2.5 side 23.
+
+Et grunnvilkår for bruk av de fleste tvangsmidlene i straffeprosesslovens fjerde del er at det foreligger skjellig grunn til mistanke om en straffbar handling. Mistankekravet fremgår uttrykkelig av mange av tvangsmiddelhjemlene, og er innfortolket i flere bestemmelser der det ikke følger direkte av ordlyden, se for eksempel Rt. 1999 side 1414, hvor Høyesteretts kjæremålsutvalg på side 1415 konstaterer at «beslag i henhold til straffeprosessloven § 203 forutsetter at det foreligger skjellig grunn til mistanke om at en straffbar handling er begått». Vilkåret om «skjellig grunn» er forstått som et krav om sannsynlighetsovervekt, se Rt. 2006 side 582 avsnitt 19.
+
+En del tvangsmidler kan bare brukes overfor personer som selv er mistenkt for å ha begått en straffbar handling. Det gjelder for eksempel pågripelse og fengsling, jf. § 171. Tilsvarende gir § 192 første ledd, når «noen» med skjellig grunn mistenkes for en handling som etter loven kan medføre frihetsstraff, adgang til ransaking av «hans» bolig, rom eller oppbevaringssted. Etter § 192 tredje ledd kan det imidlertid også foretas ransaking hos tredjeperson («andre»), blant annet dersom det er særlig grunn til å anta at det kan finnes bevis eller ting som kan beslaglegges eller tas heftelse i der. Også personransaking kan etter § 195 tredje ledd foretas av «andre enn mistenkte» hvis særlige omstendigheter taler for det. Andre tvangsmidler som kan brukes overfor tredjeperson omfatter beslag, som etter § 203 første ledd jf. § 205 første ledd første punktum foretas overfor «besitteren». Tilsvarende kan utleveringspålegg etter § 210 første ledd gis overfor «besitteren».
+
+Straffeprosessloven § 217 fastsetter i første ledd første punktum at det kan besluttes heftelse for et bestemt beløp i formuesgjenstander som tilhører «siktede». Vilkåret er at det er grunn til å frykte at fullbyrdingen av et inndragningskrav som vedkommende «er eller antas å ville bli ilagt», ellers vil bli forspilt eller i vesentlig grad vanskeliggjort. Det følger av § 82 fjerde ledd at adgangen til heftelse gjelder tilsvarende overfor andre som er eller antas å ville bli ilagt et inndragningskrav. I NOU 1996: 21 foreslo Inndragningsutvalget av pedagogiske hensyn å presisere i loven at heftelse kan besluttes overfor enhver adressat for inndragningskrav, se utredningen punkt 14.2.2.6 side 157–158. Forslaget ble ikke fulgt opp av departementet fordi dette uansett ville følge av ordlyden i § 217 sammenholdt med § 82 fjerde ledd, se Ot.prp. nr. 8 (1998–99) punkt 12.4 side 47.
+
+En del av tvangsmiddelhjemlene oppstiller et såkalt kriminalitetskrav, det vil si et vilkår om at mistanken må gjelde lovbrudd av en viss art eller et visst alvor. Dette kommer til uttrykk gjennom et strafferammekrav, eventuelt at hjemmelen viser til bestemte straffebestemmelser. Blant annet krever ransaking etter straffeprosessloven § 192 første ledd som hovedregel at det foreligger mistanke om en handling som kan medføre frihetsstraff. I § 192 annet ledd er det likevel åpnet for ransaking i visse sakstyper som i utgangspunktet er bøteforhold, nærmere bestemt mindre tyveri (straffeloven § 323), mindre underslag (§ 326) og mindre heleri (§ 334). Begrunnelsen for dette er at ransaking ofte vil være avgjørende for å oppklare disse sakstypene, se Prop. 66 L (2019–2020) *Endringer i straffeloven mv. (avvergingsplikt, utenomrettslig tvangsekteskap, diskrimineringsvern, skyting mot politiet mv.)* punkt 17.5.3 side 139. Kriminalitetskravet gjelder tilsvarende ved tredjemannsransaking, jf. § 192 tredje ledd, som viser til «slik handling». Ved personransaking av tredjeperson oppstiller imidlertid § 195 tredje ledd et forhøyet kriminalitetskrav, idet mistanken må gjelde en handling som etter loven kan medføre fengselsstraff i mer enn seks måneder. Bestemmelsene om beslag (§ 203), utleveringspålegg (§ 210) og heftelse (§ 217) inneholder på sin side ikke noe spesifikt kriminalitetskrav.
+
+Felles for alle tvangsmidler er at de bare kan brukes når det er tilstrekkelig grunn til det, jf. straffeprosessloven § 170 a første punktum. I dette ligger et krav om at tvangsmiddelet må være egnet og nødvendig for å oppnå formålet med tvangsmiddelbruken, og at tvangsmiddelet må være den minst inngripende metoden for å oppnå formålet. Dessuten kan tvangsmiddelet ikke brukes når det etter sakens art og forholdene ellers vil være et uforholdsmessig inngrep, jf. annet punktum. Det må følgelig foretas en avveining i den enkelte saken av behovet for å bruke tvangsmiddelet holdt opp mot hvor inngripende tvangsmiddelbruken vil være.
+
+### Arbeidsgruppens forslag
+
+Arbeidsgruppen drøfter i rapporten punkt 10.5.1 og 10.5.2 i hvilken grad det bør være adgang til å bruke tvangsmidler ved etterforskning med sikte på selvstendig inndragning. Gruppen legger til grunn at tvangsmiddelbruk – på samme måte som i straffesaker – vil kunne være et nødvendig virkemiddel i etterforskningen, og at inndragningsordningens karakter ikke tilsier at tvangsmiddelbruk bør være utelukket. Den påpeker også at det neppe vil være noe absolutt skille mellom etterforskning med sikte på selvstendig inndragning og straffesaker, og at det synes naturlig å bygge videre på den tvangsmiddeladgangen som følger av reglene i straffeprosesslovens fjerde del.
+
+Arbeidsgruppen viser til at flere av tvangsmidlene i straffeprosesslovens fjerde del bare kan brukes overfor den som med skjellig grunn kan mistenkes for en straffbar handling. Andre tvangsmidler kan imidlertid også brukes overfor tredjepersoner. Siden det ikke vil være noen «mistenkt» i lovens forstand i en sak om selvstendig inndragning, tar gruppen utgangspunkt i at det bør åpnes for bruk av de tvangsmidlene som i dag kan brukes overfor tredjeperson.
+
+Arbeidsgruppen foreslår en egen bestemmelse i straffeprosessloven kapittel 28 som angir hvilke tvangsmidler som kan brukes i sak om selvstendig inndragning. Opplistingen omfatter ransaking av sted etter § 192 tredje ledd nr. 3, personransaking etter § 195 tredje ledd, beslag etter § 203, utleveringspålegg etter § 210 og heftelse etter § 217. Etter forslaget skal de nevnte tvangsmidlene kunne brukes hvis det foreligger «skjellig grunn til mistanke om at et formuesgode er utbytte fra straffbare handlinger». Dette innebærer en tilpasning av mistankekravet som følger av de aktuelle tvangsmiddelhjemlene i lovens fjerde del. Den foreslåtte bestemmelsen presiserer også at § 170 a skal gjelde tilsvarende.
+
+Arbeidsgruppen drøfter, men foreslår ikke å åpne for skjult kameraovervåking på eller fra offentlig sted, jf. dagjeldende straffeprosessloven § 202 a (nå straffeprosessloven §§ 202 d flg). Gruppen drøfter også teknisk sporing etter §§ 202 b og 202 c, men konkluderer med at det ikke bør åpnes for dette. Begge deler begrunnes med at det ikke er påvist et tilstrekkelig behov for disse tvangsmidlene som veier opp for de potensielle personvernkonsekvensene.
+
+### Høringsinstansenes syn
+
+Få høringsinstanser har uttalt seg spesifikt om adgangen til tvangsmiddelbruk ved etterforskning med sikte på selvstendig inndragning. *Økokrim* uttrykker generell støtte til forslagene i rapporten. *Riksadvokaten* uttaler overordnet at arbeidsgruppen ser ut til å ha identifisert behovet for tilpasninger i prosessreglene, og at forslagene virker balanserte.
+
+*Kripos* gir uttrykk for at gruppens vurderinger kan være et godt utgangspunkt for et videre lovarbeid og forslag til tvangsmiddelregler hvor mistankekravet er knyttet til selve formuesgodet. For egen del legger Kripos til grunn at tvangsmiddelbruken i hovedsak vil foregå i forbindelse med etterforskning av straffesaker, men at informasjonen som innhentes der, kan være aktuell å bruke i en eventuell sak om selvstendig inndragning.
+
+*Hordaland, Sogn og Fjordane statsadvokatembeter* støtter arbeidsgruppens forslag om at enkelte av de alminnelige tvangsmidlene i straffeprosessloven skal kunne brukes ved etterforskning med sikte på selvstendig inndragning, med nødvendige tilpasninger som følge av at etterforskningen er rettet mot formuesgodet i stedet for en bestemt mistenkt. Høringsinstansen har ikke avgjørende innvendinger mot arbeidsgruppens vurderinger knyttet til skjult kameraovervåking og teknisk sporing, og påpeker at man eventuelt kan åpne for disse tvangsmidlene senere hvis erfaringene viser et behov for det.
+
+### Departementets vurderinger
+
+Departementet legger til grunn at en adgang til å kunne bruke visse tvangsmidler under etterforskningen er nødvendig for at ordningen med selvstendig inndragning skal bli tilstrekkelig effektiv. Som nevnt i punkt 8.1.1 er det fremhevet i riksadvokatens kvalitetsundersøkelse om inndragning fra 2023 at sikring av verdier gjennom beslag eller heftelse som regel er avgjørende for å kunne gjennomføre inndragning. For å komme i posisjon til å ta beslag eller heftelse vil det ofte være nødvendig å foreta ransaking av sted eller person for å finne aktuelle formuesobjekter.
+
+På samme måte som ved etterforskningen av straffesaker vil tvangsmiddelbruk også kunne være nødvendig for å innhente og sikre informasjon som kan bidra til å avklare om det er grunnlag for selvstendig inndragning. For eksempel kan det være behov for å kreve utlevering av eller ta beslag i dokumentasjon knyttet til anskaffelsen av et formuesgode, økonomiske disposisjoner som er foretatt av eieren, eller lignende opplysninger som kan belyse hvor formuesgodet stammer fra. Departementet mener derfor at det er et klart behov for å åpne for en viss tvangsmiddelbruk ved etterforskning med sikte på selvstendig inndragning. Etter departementets vurdering vil dette kunne gjennomføres innenfor rammene av Grunnloven § 102 og EMK artikkel 8, se også proposisjonen punkt 4.4.
+
+Selv om etterforskningen av en sak om selvstendig inndragning i en viss grad kan sies å være rettet mot eieren av formuesgodet, finner departementet det ikke naturlig å likestille vedkommende med mistenkte eller siktede i en straffesak, se også punkt 7.1.4. Departementet er derfor enig med arbeidsgruppen i at det ikke bør åpnes for å bruke tvangsmidler overfor vedkommende som ellers bare kan brukes overfor den som er mistenkt for en straffbar handling. Departementet er samtidig enig i at det bør være adgang til å bruke tvangsmidler overfor eieren i samme utstrekning som det er adgang til tvangsmiddelbruk overfor tredjepersoner i straffesaker. Systemhensyn tilsier at adgangen også bør omfatte tvangsmiddelbruk overfor andre enn eieren – på samme måte som overfor tredjeperson i straffesak.
+
+Departementet følger opp forslaget om en egen bestemmelse i straffeprosessloven kapittel 28 som gir uttrykkelig hjemmel til å bruke nærmere angitte tvangsmidler ved etterforskning med sikte på selvstendig inndragning, se § 403 første ledd i lovforslaget. Bestemmelsen viser til reglene om ransaking, jf. straffeprosessloven § 192 tredje ledd nr. 3 og § 195 tredje ledd, beslag, jf. § 203, og utleveringspålegg, jf. § 210. Dette er tvangsmidler som i dag kan brukes overfor tredjeperson ved etterforskningen av en straffesak. Den foreslåtte bestemmelsen viser ikke uttrykkelig til straffeprosessloven § 217 om heftelse. Bakgrunnen for dette er at § 217 sammenholdt med § 82 fjerde ledd allerede i dag gir hjemmel for bruk av heftelse overfor andre enn siktede for å sikre inndragningskrav som vedkommende «er eller antas å ville bli ilagt», se Ot.prp. nr. 8 (1998–99) punkt 12.4 side 47. Departementet legger følgelig til grunn at § 217 i sin nåværende form vil gi adgang til å beslutte heftelse overfor personer som er eller antas å ville bli ilagt et krav om selvstendig inndragning etter straffeloven § 68 a.
+
+I likhet med arbeidsgruppen foreslår departementet ikke å åpne for teknisk sporing, jf. straffeprosessloven §§ 202 b og 202 c, eller skjult kameraovervåking, jf. §§ 202 d flg. Departementet viser til gruppens vurderinger, og slutter seg til disse. Departementet tilføyer at det heller ikke er noen høringsinstanser som har tatt til orde for en adgang til slik tvangsmiddelbruk.
+
+I de fleste tvangsmiddelhjemlene i straffeprosesslovens fjerde del er det inntatt eller innfortolket et vilkår om at det må foreligge skjellig grunn til mistanke om en straffbar handling. Ettersom selvstendig inndragning etter straffeloven § 68 a skal kunne foretas «uten at det er påvist et bestemt lovbrudd», må adgangen til tvangsmiddelbruk bygge på et annet bevistema. Departementet er enig med arbeidsgruppen i at bevistemaet bør knyttes til vilkårene i straffeloven § 68 a. Departementet foreslår derfor at grunnvilkåret for tvangsmiddelbruk skal være at det foreligger «skjellig grunn til mistanke om at et formuesgode stammer fra lovbrudd».
+
+En del av tvangsmiddelhjemlene i lovens fjerde del oppstiller også et særskilt kriminalitetskrav. Av tvangsmidlene som omfattes av den foreslåtte bestemmelsen i § 403 første ledd, gjelder dette for straffeprosessloven §§ 192 og 195 om henholdsvis ransaking av sted og personransaking. Departementet ser at kriminalitetskravet i de nevnte bestemmelsene kunne tilsi at ransakingsadgangen burde forbeholdes saker av et visst alvor, eller at det burde oppstilles visse kvalifiserende vilkår for å bruke disse tvangsmidlene i en sak om selvstendig inndragning. Etter departementets syn må imidlertid selvstendig inndragning anses for å være en sakstype hvor det foreligger et særlig behov for å kunne foreta ransaking av både sted og person. Som nevnt vil slik ransaking ofte være en forutsetning for å finne og ta beslag i formuesgoder som antas å stamme fra lovbrudd, noe som er nødvendig for å foreta inndragning. På bakgrunn av slike betraktninger er det i dag adgang til ransaking ved mistanke om overtredelse av straffeloven §§ 323, 326 og 334 om henholdsvis mindre tyveri, mindre underslag og mindre heleri, selv om dette er bøteforhold. Departementet viser også til at det generelle kriminalitetskravet i straffeprosessloven §§ 192 og 195 er forholdsvis lavt. På bakgrunn av dette har departementet kommet til at det ikke bør oppstilles særlige krav for å kunne foreta ransaking i en sak om selvstendig inndragning. Bruken av ransaking i mer bagatellmessige saker må i stedet vurderes opp mot den generelle forholdsmessighetsbegrensningen i § 170 a. Det samme gjelder ved bruk av øvrige tvangsmidler.
+
+## Særlig om ransaking i private hjem
+
+### Gjeldende rett
+
+Straffeprosessloven § 192 første ledd åpner for ransaking av mistenktes «bolig» for å foreta pågripelse eller søke etter bevis eller ting som kan beslaglegges eller tas heftelse i. Etter § 192 tredje ledd kan slik ransaking også foretas «\[h\]os andre» blant annet hvis det er «særlig grunn til å anta» at mistenkte kan pågripes på stedet, eller at det kan finnes bevis eller ting som kan beslaglegges eller tas heftelse i, jf. tredje ledd nr. 3. Det er et vilkår at det foreligger skjellig grunn til mistanke om en straffbar handling – enten på personnivå (første ledd) eller på saksnivå (tredje ledd). Ransakingsadgangen etter § 192 tredje ledd omfatter også tredjepersoners bolig, se HR-2019-610-A avsnitt 27. Vilkåret om «særlig grunn» i tredje ledd nr. 3 gjør imidlertid adgangen til slik tredjemannsransaking snevrere enn ved ransaking hos mistenkte. Vilkåret innebærer at det må være mer sannsynlig at formålet – for eksempel å finne ting som kan beslaglegges – oppnås, enn at det ikke gjør det, se Rt. 1999 side 805 på side 806.
+
+Mens straffeprosessloven § 192 gjelder etterforskning, gir politiloven § 17 d Politiets sikkerhetstjeneste en viss adgang til tvangsmiddelbruk i forebyggende øyemed, altså før det foreligger mistanke om at en straffbar handling begås eller er begått. Bestemmelsen åpner for at det kan foretas blant annet ransaking dersom det er grunn til å undersøke om noen forbereder enkelte særlig alvorlige straffbare handlinger som er angitt i første ledd bokstav a til d. Adgangen til ransaking i private hjem er etter annet ledd fjerde punktum begrenset til tilfeller som nevnt i første ledd bokstav a, det vil si terrorhandlinger som omfattes av straffeloven §§ 131, 133 og 134. Bestemmelsen i politiloven § 17 d oppstilte tidligere et absolutt forbud mot ransaking i private hjem i forebyggende øyemed «for ikke å trå Grunnloven for nær», se Ot.prp. nr. 60 (2004–2005) *Om lov om endringer i straffeprosessloven og politiloven (romavlytting og bruk av tvangsmidler for å forhindre alvorlig kriminalitet)* punkt 9.4.2.4 side 132. Ved lov 17. juni 2016 nr. 54 ble dette erstattet med en mer nyansert tilnærming, se Prop. 68 L (2015–2016) punkt 13.5.5.4.1 side 214 flg. og Innst. 343 L (2015–2016) side 17 flg.
+
+Se også proposisjonen punkt 4.4.1, hvor rekkevidden av Grunnloven § 102 første ledd annet punktum om «husransakelse» er nærmere omtalt.
+
+### Arbeidsgruppens forslag
+
+I rapporten punkt 10.5.2.3 drøfter arbeidsgruppen om adgangen til ransaking ved etterforskning med sikte på selvstendig inndragning bør avgrenses mot private hjem. Bakgrunnen for drøftelsen er Grunnloven § 102 og forbudet mot husransakelse i annet enn kriminelle tilfeller. Rekkevidden av grunnlovsvernet er også behandlet i en betenkning av Johan Boucht, *Grl. § 102 første ledd annet punktum og ransaking ved etterforsking med sikte på selvstendig inndragning*, som er inntatt som vedlegg til arbeidsgrupperapporten.
+
+Arbeidsgruppen legger til grunn at ransaking ved etterforskning av en sak om selvstendig inndragning vil være en husransakelse i Grunnloven § 102 sin forstand. Etter gruppens mening er det noe tvilsomt om ransaking i denne sakstypen vil være omfattet av unntaket for «kriminelle tilfeller» i første ledd annet punktum. Den viser til at selvstendig inndragning ikke er å anse som straff etter Grunnloven eller EMK, og ikke forutsetter noen tilknytning mellom vedkommende som det ransakes hos, og den bakenforliggende kriminaliteten. Samtidig viser gruppen til at selvstendig inndragning nødvendigvis forutsetter at det på ett eller annet tidspunkt har skjedd noe straffbart. Den peker også på at de faktiske forholdene som ligger til grunn for et krav om selvstendig inndragning, langt på vei vil være parallelle med de faktiske forholdene som kan gi grunnlag for mistanke om heleri, jf. straffeloven § 332. Etter gruppens oppfatning ville det derfor fremstå noe vilkårlig hvis Grunnloven skulle utgjøre en absolutt skranke mot ransaking i private hjem hvis saken gjelder selvstendig inndragning, men ikke i en straffesak om heleri. Gruppen viser også til formålet med Grunnloven § 102 første ledd annet punktum, og argumenterer for at ransaking ved etterforskning med sikte på selvstendig inndragning ikke kan anses som en slik vilkårlig husundersøkelse som grunnlovsbestemmelsen opprinnelig var ment å verne mot.
+
+Arbeidsgruppen legger til grunn at det ville være uheldig å oppstille et absolutt forbud mot ransaking i private hjem ved etterforskning av saker om selvstendig inndragning når det ikke er tilstrekkelige holdepunkter for at dette er påkrevd etter Grunnloven. Gruppen viser til at slik ransaking kan være et viktig verktøy i etterforskningen, og at det er tvilsomt om etterforskningen vil bli tilstrekkelig målrettet og effektiv uten adgang til dette. Den vektlegger i samme retning at gjeldende rett åpner for tredjemannsransaking i private hjem, jf. straffeprosessloven § 192 tredje ledd, uten at dette er ansett som problematisk i relasjon til Grunnloven § 102.
+
+På bakgrunn av dette foreslår arbeidsgruppen at adgangen til ransaking ved etterforskning med sikte på selvstendig inndragning også skal omfatte private hjem. Den foreslår ikke noen særskilte begrensninger i ransakingsadgangen, eller noe forbud tilsvarende det som tidligere fantes i politiloven § 17 d annet ledd. I stedet legger gruppen til grunn at forholdet til Grunnloven § 102 første ledd annet punktum og privatlivsvernet må vurderes konkret.
+
+### Høringsinstansenes syn
+
+*Kripos* er den eneste høringsinstansen som uttaler seg om ransaking i private hjem og forholdet til Grunnloven § 102 første ledd annet punktum. Høringsinstansen understreker at ransaking i private hjem vil kunne være et viktig verktøy for politiet ved etterforskning av inndragningssaker. Kripos uttrykker samtidig skepsis til at grunnlovsvernet skal måtte vurderes konkret i den enkelte saken.
+
+### Departementets vurderinger
+
+Departementet legger til grunn at det foreligger et klart behov for at politiet skal kunne ransake i private hjem ved etterforskning med sikte på selvstendig inndragning. Ransaking vil ofte være nødvendig for å finne formuesgoder som stammer fra lovbrudd, og være en forutsetning for å sikre et mulig inndragningskrav gjennom beslag eller heftelse. Det vil være uheldig dersom selvstendig inndragning i praksis kan unngås ved at verdier fra kriminalitet kan holdes skjult i private hjem, hvor politiet ikke kan ransake. En adgang til å ransake i private hjem vil også kunne være en forutsetning for å fremskaffe informasjon som kan avklare om et formuesgode stammer fra lovbrudd og for å sikre bevis for dette. Departementet legger derfor til grunn at ransaking i private hjem kan være et viktig verktøy i etterforskningen av en sak om selvstendig inndragning. Dette er bekreftet av *Kripos* i høringen.
+
+Reglene om ransaking i private hjem må imidlertid utformes på en måte som er i tråd med Grunnloven § 102. I likhet med arbeidsgruppen legger departementet til grunn at ransaking av private hjem under etterforskningen av en sak om selvstendig inndragning må anses som en «husransakelse» etter Grunnloven § 102 første ledd annet punktum. For at slik ransaking skal være tillatt, må situasjonen anses som et *kriminelt tilfelle* i denne bestemmelsens forstand.
+
+Selvstendig inndragning er verken formelt eller materielt å anse som straff, se Prop. 27 L (2025–2026) punkt 5.1 side 31. Selv om hjemmelen er plassert i straffeloven, er inndragningen et virkemiddel med sivilrettslige trekk og som kan foretas på et lavere beviskrav enn det strafferettslige. Inndragning kan også foretas uten at det er påvist en bestemt straffbar handling. Samtidig krever vilkårene i straffeloven § 68 a at formuesgodet som skal inndras, «mest sannsynlig stammer fra lovbrudd». Henvisningen til «lovbrudd» sikter ikke til enhver ulovlig handling, men til handlinger som er belagt med straff, se Prop. 27 L (2025–2026) punkt 14 side 89. Bestemmelsen forutsetter følgelig at det er begått én eller flere straffbare handlinger, selv om det ikke kreves mistanke om en konkret handling.
+
+Forslaget i proposisjonen her innebærer at påtalemyndigheten kan foreta ransaking hvis «det foreligger skjellig grunn til mistanke om at et formuesgode stammer fra lovbrudd», se § 403 første ledd i lovforslaget og punkt 8.1.4. Departementet antar at de faktiske forholdene som kan gjøre at dette vilkåret er oppfylt, langt på vei vil være parallelle med de faktiske forholdene som kan danne grunnlag for mistanke om heleri eller hvitvasking, jf. straffeloven §§ 332 og 337. Som arbeidsgruppen påpeker, ville det da fremstå noe vilkårlig om det skulle gjelde et absolutt forbud mot ransaking i private hjem i det ene tilfellet, men ikke det andre. Som følge av mistankekravet som er oppstilt, sammenholdt med den forståelsen av uttrykket «lovbrudd» som er lagt til grunn i Prop. 27 L (2025–2026), mener departementet at kriminaliteten som danner grunnlag for ransakingen, må anses å være tilstrekkelig konkretisert til å tilfredsstille kravene i Grunnloven § 102 første ledd annet punktum.
+
+Forutsatt at vilkårene for ransaking er oppfylt, vil det etter departementets vurdering også foreligge en tilstrekkelig tilknytning mellom kriminaliteten som danner grunnlag for ransakingen, og boligen som ransakes. Departementet viser til at forslaget i proposisjonen innebærer at vilkårene i straffeprosessloven § 192 tredje ledd nr. 3 vil komme til anvendelse ved ransaking av noens bolig. Bestemmelsen innebærer at det må foreligge «særlig grunn» til å anta at ransakingen vil avdekke bevis eller ting som kan inndras. Etter departementets syn medfører disse vilkårene samlet sett at ransaking i et privat hjem under etterforskningen av en sak om selvstendig inndragning, ikke vil ha preg av å være en slik vilkårlig husundersøkelse som Grunnloven § 102 første ledd annet punktum er ment å beskytte mot.
+
+I rettspraksis og juridisk teori er det lagt til grunn at Grunnloven § 102 første ledd annet punktum stiller visse krav til det kriminelle tilfellets alvor. Dette kunne tilsi at mer bagatellmessige tilfeller bør holdes utenfor ransakingsadgangen. Det følger imidlertid av straffeprosessloven § 170 a at ransaking bare kan foretas «når det er tilstrekkelig grunn til det», og ikke kan foretas dersom det vil medføre et uforholdsmessig inngrep. Et forholdsmessighetskrav følger også av andre rettsgrunnlag, slik som Grunnloven § 102 første ledd første punktum, EMK artikkel 8 nr. 2 og SP artikkel 17. Etter departementets forståelse må denne forholdsmessighetsbegrensningen, sammenholdt med de øvrige vilkårene som er oppstilt, anses å ivareta behovet for å begrense ransaking i private hjem ved mindre alvorlig kriminalitet, slik at ransaking etter de foreslåtte reglene vil gå klar av forbudet mot husransakelser etter Grunnloven § 102 første ledd annet punktum.
+
+På bakgrunn av dette følger departementet opp forslaget om at adgangen til ransaking ved etterforskning med sikte på selvstendig inndragning også skal omfatte private hjem, og at det ikke oppstilles noen spesifikke begrensninger for ransakingsadgangen.
+
+## Bruk av overskuddsinformasjon
+
+### Gjeldende rett
+
+I utgangspunktet kan opplysninger som er innhentet til et politimessig formål, fritt benyttes til andre politimessige formål såfremt bruken er nødvendig, se politiregisterloven §§ 4 og 5. Som «politimessig formål» regnes blant annet politiets kriminalitetsbekjempende virksomhet, herunder etterforskning, forebyggende arbeid og ordenstjeneste, jf. politiregisterloven § 2 nr. 13 bokstav a. Unntak fra dette utgangspunktet kan følge av lov eller forskrift, blant annet i form av regler om taushetsplikt, se politiregisterloven §§ 23 flg. Det fremgår imidlertid uttrykkelig av § 26 at taushetsplikten for ansatte i politiet eller påtalemyndigheten ikke er til hinder for at opplysningene brukes i den enkelte straffesaken. Dette gjelder uavhengig av i hvilken sammenheng opplysningen er innhentet, se Ot.prp. nr. 108 (2008–2009) *Om lov om behandling av opplysninger i politiet og påtalemyndigheten (politiregisterloven)* punkt 21.6 side 305. Med «straffesak» menes i denne sammenhengen sak som behandles etter straffeprosessloven, jf. politiregisterloven § 2 nr. 11.
+
+De nevnte reglene innebærer at såkalt overskuddsinformasjon, det vil si opplysninger som er innhentet ved etterforskningen av én straffesak, men som er relevante for en annen, som hovedregel fritt kan brukes av påtalemyndigheten i den andre saken. Dette gjelder også opplysninger som er innhentet ved bruk av tvangsmidler.
+
+Straffeprosessloven § 216 i inneholder en særregel om taushetsplikt for opplysninger innhentet ved bruk av de mest inngripende skjulte tvangsmidlene. Taushetsplikten gjelder for kommunikasjonskontroll, romavlytting, dataavlesing, tvangsmiddelbruk i avvergende øyemed og sikringspålegg, jf. henvisningene i § 216 m sjette ledd, § 216 o femte ledd, § 222 d femte ledd annet punktum og § 215 a fjerde ledd tredje punktum. For opplysninger fra disse tvangsmidlene, i tillegg til teknisk sporing, jf. § 202 c åttende ledd, og skjult kameraovervåking, jf. § 202 g sjuende ledd, gjelder også særlige krav til oppbevaring, sletting og sperring, se straffeprosessloven § 216 g og politiregisterloven § 50 tredje ledd.
+
+Taushetsplikten etter straffeprosessloven § 216 i innebærer at bruk av opplysninger fra kommunikasjonskontroll mv. ikke er tillatt, med mindre bruken omfattes av et av unntakene som er opplistet i bestemmelsens første ledd bokstav a til k. Bokstav a innebærer at slike opplysninger fritt kan brukes som ledd i etterforskningen av et straffbart forhold. Opplysningene kan også brukes som bevis for det straffbare forholdet som begrunnet kontrollen (bokstav b), eller for et annet forhold som etter sin art kunne ha begrunnet den formen for kommunikasjonskontroll som opplysningene stammer fra (bokstav c). Etter bokstav d kan opplysningene også brukes som bevis for et annet straffbart forhold som etter sin art *ikke* kunne ha begrunnet tvangsmiddelbruken, forutsatt at bruken etter sakens art og forholdene ellers ikke vil være et uforholdsmessig inngrep, og oppklaring ellers i vesentlig grad ville ha blitt vanskeliggjort. I bokstav e flg. er det opplistet visse andre tillatte formål som ikke er direkte knyttet til etterforskning av eller bevis for straffbare forhold, blant annet bruk av opplysningene i sak om erstatning i anledning forfølgning etter straffeprosessloven kapittel 31 (bokstav j) og i sak om forbud mot en kriminell sammenslutning etter kapittel 17 c (bokstav k).
+
+Ved oversendelse av saken til retten skal påtalemyndigheten uttrykkelig angi eventuelle opplysninger fra kommunikasjonskontroll mv. som påberopes som bevis etter § 216 i første ledd tredje punktum bokstav d første punktum, og begrunne hvorfor vilkårene for å føre disse anses oppfylt, se § 248 første ledd annet punktum og § 262 første ledd annet punktum.
+
+### Arbeidsgruppens forslag
+
+I rapporten punkt 10.5.3 drøfter arbeidsgruppen i hvilken utstrekning overskuddsinformasjon fra etterforskningen av andre saker bør kunne brukes i en sak om selvstendig inndragning. Som et generelt utgangspunkt legger arbeidsgruppen til grunn at opplysninger som er lovlig innhentet, bør kunne brukes også i denne sakstypen. Gruppen viser til at dette er i tråd med hovedregelen i straffeprosessen for øvrig, og at denne regelen bidrar til materielt riktige avgjørelser.
+
+Arbeidsgruppen drøfter særskilt om opplysninger innhentet ved bruk av de mest inngripende tvangsmidlene, som kommunikasjonskontroll mv., også bør kunne brukes ved selvstendig inndragning. Gruppen peker på at personvernhensyn kunne tale imot en slik adgang. Gruppen fremhever samtidig at opplysninger fra kommunikasjonskontroll mv. vil kunne være relevante både ved etterforskning med sikte på selvstendig inndragning og som bevis i retten. Et praktisk eksempel er at politiet i forbindelse med etterforskningen av en straffesak avlytter samtaler mellom personer i kriminelle miljøer som kommuniserer om statussymboler som biler og lignende. Gruppen legger til grunn at det i praksis vil være vanskelig å komme i mål med et krav om selvstendig inndragning i et slikt tilfelle hvis disse opplysningene ikke kan brukes som bevis.
+
+Gruppen viser også til at adgangen til å bruke opplysninger fra kommunikasjonskontroll mv. over tid har blitt mindre restriktiv, og at denne utviklingen kan tilsi et noe mer liberalt syn på spørsmålet om bruk av slike opplysninger i saker om selvstendig inndragning. Videre peker gruppen på at de faktiske forholdene som kan danne grunnlag for et krav om selvstendig inndragning, vil være mer eller mindre parallelle med de faktiske forholdene som kan ligge til grunn for en heleri- eller hvitvaskingssak, jf. straffeloven § 332 og 337. I slike straffesaker vil opplysninger fra kommunikasjonskontroll mv. kunne brukes som bevis på grunnlag av straffeprosessloven § 216 i første ledd bokstav d, forutsatt at vilkårene i denne bestemmelsen er oppfylt. Etter gruppens syn tilsier dette at adgangen til å bruke slike opplysninger som en del av det bevismessige grunnlaget for et krav om selvstendig inndragning, bør være den samme.
+
+På bakgrunn av dette foreslår arbeidsgruppen en ny bokstav l i straffeprosessloven § 216 i første ledd, som åpner for bruk av opplysninger fra kommunikasjonskontroll mv. som ledd i etterforskningen av sak om selvstendig inndragning, og som bevis for et krav om selvstendig inndragning. Vilkårene for å bruke slike opplysninger som bevis, er etter forslaget de samme som i straffeprosessloven § 216 i første ledd bokstav d, det vil si at bruken etter sakens art og forholdene ellers ikke vil være et uforholdsmessig inngrep, og oppklaring av saken ellers ville ha blitt vesentlig vanskeliggjort.
+
+### Høringsinstansenes syn
+
+*Kripos* bekrefter at det er behov for å kunne bruke opplysninger fra kommunikasjonskontroll mv. som bevis i saker om selvstendig inndragning. Høringsinstansen uttaler:
+
+«I egne etterforskinger i saker om organisert kriminalitet bruker Kripos nokså jevnlig lovregulerte skjulte tvangsmidler. At disse fanger opp kommunikasjon om utbytte som vil kunne utgjøre viktig bevis i sak om selvstendig inndragning fremstår svært praktisk. Sammenholdt med en underliggende grunntanke om at kriminalitet ikke skal lønne seg, mener Kripos at det bør åpnes for bruk av informasjon fra skjulte metoder i sak om selvstendig inndragning.»
+
+Kripos gir uttrykk for at arbeidsgruppens forslag til endring av straffeprosessloven § 216 i fremstår som et godt utgangspunkt. Høringsinstansen uttaler også at en slik endring vil være praktisk for å fjerne eventuell tvil om adgangen til å vektlegge for eksempel avspilte samtaler fra telefonavlytting som bevis ved en subsidiær påstand om selvstendig inndragning, dersom tiltalte blir frifunnet for straff eller ordinær inndragning.
+
+Også *Hordaland, Sogn og Fjordane statsadvokatembeter* tiltrer forslaget i arbeidsgrupperapporten, og begrunner dette slik:
+
+«Som påpekt av arbeidsgruppen kan man forvente at slik tvangsmiddelbruk regelmessig vil kunne avdekke bevismateriale for selvstendig inndragning. Vi kan ikke se at personvernhensyn gjør seg gjeldende med vesentlig større tyngde her, enn ved f.eks. behandling av erstatningskrav etter uberettiget straffeforfølgning, eller i sak om forbud mot en kriminell sammenslutning, hvor bruk av slik materiale er tillatt etter dagens regler.»
+
+Høringsinstansen mener de vilkårene som er foreslått for å kunne bruke opplysninger fra kommunikasjonskontroll mv. som bevis sikrer en god balanse mellom ulike hensyn.
+
+### Departementets vurderinger
+
+Departementet finner det klart at informasjon som er lovlig innhentet under etterforskningen av en straffesak, også bør kunne benyttes ved etterforskningen av og som bevis i en sak om selvstendig inndragning. Departementet viser til at straffeloven § 68 a blant annet er tenkt å kunne brukes som hjemmel for inndragning dersom etterforskningen av en straffbar handling ender med henleggelse, men det likevel har fremkommet opplysninger som viser at bestemte formuesgoder mest sannsynlig stammer fra lovbrudd, se Prop. 27 L (2025–2026) punkt 6.3 side 45. I slike tilfeller vil det være en forutsetning at opplysninger fra straffesaken kan brukes i saken om selvstendig inndragning. Som arbeidsgruppen påpeker, er dette også i tråd med hovedregelen om at lovlig innhentede opplysninger fritt kan brukes til andre politimessige formål.
+
+Departementet legger til grunn at selvstendig inndragning vil være et politimessig formål etter politiregisterloven § 2 nr. 13, og at bruk av innhentede opplysninger i slike saker derfor vil være tillatt med mindre annet er særskilt angitt i lov eller forskrift. Departementet legger også til grunn at slik bruk vil være tillatt etter politiregisterloven § 26 uten hinder av opplysningsplikten i § 23. Så vidt departementet kan se, er det derfor ikke behov for lovendringer på dette punktet.
+
+For opplysninger som er innhentet ved kommunikasjonskontroll og enkelte av de andre mest inngripende skjulte etterforskningsmetodene, er hovedregelen den motsatte. Straffeprosessloven § 216 i innebærer at bruk av slike opplysninger er forbudt, med mindre det foreligger unntak fra taushetsplikten etter bestemmelsens første ledd. Departementet er enig med arbeidsgruppen i at det på nærmere fastsatte vilkår bør være adgang til å bruke opplysninger fra kommunikasjonskontroll mv. under etterforskningen av og som bevis i sak om selvstendig inndragning. Departementet legger til grunn at dette vil kunne være avgjørende for å nå frem med et inndragningskrav, for eksempel der personer som er under etterforskning for en straffbar handling, i kommunikasjonen seg imellom omtaler eller viser frem statussymboler og andre luksusartikler som stammer fra lovbrudd. Høringsuttalelsen fra *Kripos* underbygger at dette er praktisk. Dersom straffesaken ender med henleggelse eller frifinnelse, og de aktuelle opplysningene ikke kan fremskaffes på annen måte, vil et forbud mot bruk av opplysningene som grunnlag for et krav etter straffeloven § 68 a kunne stå i veien for inndragning. Etter departementets syn vil dette være uheldig, og kunne stå i strid med det grunnleggende utgangspunktet om at kriminalitet ikke skal lønne seg.
+
+Departementet ser at bruk av kommunikasjonskontroll mv. er inngripende, og at en eventuell videre bruk av innhentede opplysninger til et annet formål i prinsippet vil utgjøre et nytt inngrep i rettigheter som er beskyttet av blant annet EMK artikkel 8, se også punkt 4.4.2. Etter departementets syn tilsier imidlertid tungtveiende samfunnsmessige hensyn at slike inngrep bør være tillatt, forutsatt at inngrepet er nødvendig og forholdsmessig i det enkelte tilfellet. Departementet viser til at ordningen med selvstendig inndragning skal bidra til en effektiv bekjempelse av profittmotivert kriminalitet, gjennom å frata enkeltpersoner formuesgoder som stammer fra kriminalitet og føre verdiene tilbake til samfunnet. Etter departementets syn må dette anses som et formål som kan begrunne en adgang til bruk av opplysninger fra kommunikasjonskontroll mv., se til sammenligning EMDs storkammerdom 1. april 2025 *Ships Waste Oil Collector B.V. mfl. mot Nederland* (sak nr. 2799/16 mfl.), der domstolen fremhever den sterke allmenne interessen i en effektiv håndheving av konkurranselovgivningen (avsnitt 197).
+
+Departementet viser videre til at arbeidsgruppens forslag innebærer at det vil gjelde en rekke rettssikkerhetsgarantier ved bruk av opplysninger fra de mest inngripende tvangsmidlene. Etter forslaget vil opplysningene bare kunne brukes som bevis dersom det etter sakens art og forholdene ellers ikke er et uforholdsmessig inngrep, og oppklaring av saken ellers i vesentlig grad ville ha blitt vanskeliggjort. Disse kvalifiserende kriteriene vil bidra til å begrense bruken til situasjoner hvor dette er nødvendig, og dermed bidra til å ivareta hensynet til berørtes personvern. Departementet viser videre til at bruk av kommunikasjonskontroll mv. er underlagt strenge rettssikkerhetsgarantier, inkludert krav om domstolskontroll og etterfølgende legalitetskontroll av Kontrollutvalget for kommunikasjonskontroll. Samlet sett gjør dette etter departementets syn at det foreligger tilstrekkelige garantier mot misbruk og vilkårlighet.
+
+På bakgrunn av dette følger departementet opp arbeidsgruppens forslag. Ved lov 19. juni 2026 nr. 46 fikk opplistingen i straffeprosessloven § 216 i en ny bokstav l om bruk av opplysninger fra kommunikasjonskontroll til testing og utvikling av informasjonssystemer. Bestemmelsen har foreløpig ikke trådt i kraft. Som følge av dette foreslår departementet å regulere bruken av slike opplysninger i saker om selvstendig inndragning i en ny bokstav m.
+
+For å ivareta den lovbestemte begrensningen i adgangen til bruk av opplysninger fra kommunikasjonskontroll mv. som bevis, foreslås det at påtalemyndigheten skal angi eventuelle slike opplysninger ved oversendelse av saken til retten og begrunne hvorfor vilkårene for å bruke dem som bevis anses oppfylt, se § 406 annet ledd annet punktum i lovforslaget. Se også proposisjonen punkt 9.3.4 om den rettslige behandlingen av kravet.
+
+## Kort om utlevering av IP-adresser underlagt lagringsplikt
+
+Ekomloven § 3-13 pålegger ekomtilbydere en plikt til å lagre offentlige IP-adresser. Formålet med lagringen er at opplysningene skal kunne brukes til å identifisere personer ved etterforskning av alvorlig kriminalitet. Etter § 3-14 første ledd skal opplysningene utleveres til politiet og påtalemyndigheten, forutsatt at slik utlevering er nødvendig for å etterforske en handling som etter loven kan medføre straff av fengsel i tre år eller mer, eller som rammes av særskilt angitte straffebud.
+
+*Arbeidsgruppen* foreslår at ekomtilbydernes utleveringsplikt ved etterforskning av alvorlig kriminalitet skal gjelde tilsvarende ved etterforskning med sikte på selvstendig inndragning, se rapporten punkt 10.5.2.9. Forslaget begrunnes med at tilgang til IP-adresser vil kunne være et effektivt og målrettet tiltak ved slik etterforskning. Som eksempel viser gruppen til at IP-adresser kan benyttes til å spore pengestrømmer til og fra en konto som antas å inneholde utbytte fra straffbare handlinger. Gruppen foreslår ingen særskilt tilpasning av kriminalitetskravet som i dag følger av ekomloven § 3-14.
+
+Blant *høringsinstansene* uttrykker *Nasjonal kommunikasjonsmyndighet* og *Datatilsynet* skepsis til forslaget. *Nasjonal kommunikasjonsmyndighet* påpeker at ekomloven kun åpner for utlevering ved etterforskning av alvorlig kriminalitet, og argumenterer for at forslaget bør utredes grundigere.
+
+Departementet foreslår ikke endringer i ekomloven knyttet til utlevering av lagrede IP-adresser i denne omgang. Kriminalitetskravet i ekomloven § 3-14 kan tilsi at det bør vurderes nærmere hvordan bestemmelsen eventuelt skal tilpasses til saker om selvstendig inndragning, og departementet har ikke funnet det hensiktsmessig å gjøre dette nå. Departementet vil eventuelt komme tilbake til dette på et senere tidspunkt.

@@ -1,1195 +1,270 @@
-# Prop. 68 L (2015–2016), del 20 av 29 (side 198–207)
+# Prop. 68 L (2015–2016), del 20 av 27
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2016/fb2c12df-prop-68-l-20152016.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-68-l-20152016/id2479232/
 - Original-PDF: https://www.regjeringen.no/contentassets/d2bd4dc7fdb44d90b0d094f4d415b981/no/pdfs/prp201520160068000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 198]
-
-198
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-orienterte ledere, og de formidler en ekstre­
-mistisk retorikk der blant annet Norge er sen­
-tral i fiendebildet. Det forventes at dette miljøet
-fortsatt vil være aktivt med på å radikalisere,
-rekruttere, spre voldelig propaganda samt
-samle inn penger.
-[…]
-Reisevirksomheten kan være med på å øke
-trusselen. Dette fordi de som reiser kan få økt
-vilje og evne til å gjennomføre terrorhandlin­
-ger på norsk jord, eller mot norske interesser i
-utlandet. På slike utenlandsopphold får de ide­
-ologisk skolering, kamperfaring og utvider
-kontaktnettet til ekstreme islamister. Viktigst
-er at de ved å ta del i krigshandlinger kan få økt
-mental evne og vilje til å utføre vold og drap.
-Voldspotensialet i deler av miljøet forventes
-derfor å kunne øke.»
-Oppfordring, rekruttering eller opplæring til ter­
-rorhandlinger vil senere kunne avføde nettopp
-slike. Departementet mener det er hensiktsmes­
-sig å kunne benytte tvangsmidler allerede for å
-avverge de opprinnelige, forberedende lovbrud­
-dene for å unngå at disse handlingene avføder kri­
-minalitet. Dersom slike terrorrelaterte handlinger
-i større grad kan avverges, vil det kunne bidra til å
-redusere den generelle terrortrussel som kan til­
-skrives rekruttering og opplæring til terrorvirk­
-somhet. Den siste tiden har vist at dette er en
-aktuell problemstilling også her i landet, hvor et
-økende antall mennesker rekrutteres til å reise til
-for eksempel Syria. Terrorrelaterte handlinger er
-i seg selv alvorlige lovbrudd og har dessuten et så
-omfattende avledet skadepotensiale at hensynet til
-kriminalitetsbekjempelse bør veie tyngre enn hen­
-synet til personvernet.
-Departementet mener imidlertid at det ikke er
-påvist et tilstrekkelig behov for å tillate bruk av
-det inngripende tvangsmiddelet romavlytting for å
-avverge rekruttering og opplæring til terrorhand­
-linger, jf. PSTs forslag om å innta bestemmelsen i
-§ 222 d tredje ledd siste punktum. Nødvendighetsog forholdsmessighetskravet anses her ikke opp­
-fylt.
-Bør det kunne benyttes romavlytting for å avverge
-trussel eller angrep mot myndighetsperson?
-Som det fremgår av høringsnotatet 12. juli 2012
-etterspør PST en adgang til å kunne benytte
-romavlytting for å avverge trusler eller angrep mot
-myndighetspersoner. Slike trusler eller angrep
-utgjør meget alvorlige forbrytelser, som kan føre
-til vidtrekkende konsekvenser i form av forstyr­
-
-2015–2016
-
-relse av sentrale samfunnsmessige funksjoner.
-Dette tilsier at PST gis tilstrekkelig effektive virke­
-midler til å avverge denne kriminalitetsformen.
-Departementet understreker imidlertid at høy
-alvorlighetsgrad ikke i seg selv er tilstrekkelig
-som begrunnelse for inngripende tvangsmiddel­
-bruk. For å tillate et så vidt inngripende tvangs­
-middel som romavlytting, må det i tillegg kunne
-påvises et konkret behov for å ta i bruk metoden
-for å avverge den aktuelle sakstypen.
-I PSTs åpne trusselvurdering for 2014 uttales
-under overskriften «Trusler mot myndighetsper­
-soner» følgende:
-«Hvert år etterforsker vi et relativt stabilt antall
-saker relatert til fremsatte trusler mot myndig­
-hetspersoner. Fremsatte trusler er primært
-ment for å skremme, og representerer svært
-sjelden en faktisk vilje til å utføre handlingen
-det trues med. Antall straffesaker relatert til
-trusler mot myndighetspersoner i det kom­
-mende året, vil trolig være uendret. Straffbare
-trusler vil i hovedsak bli rettet mot sentrale
-medieeksponerte politikere, og i noen tilfeller
-medlemmer av kongehuset.»
-Det fremgår samtidig at norske myndighetsperso­
-ner kun et fåtall ganger har blitt utsatt for fysiske
-angrep, men at en likevel må ta høyde for at perso­
-ner i løpet av kort tid kan utvikle vilje til å skade
-en myndighetsperson på grunn av for eksempel
-personlige forhold eller politisk misnøye.
-Temaet omhandles også i den samordnede
-trussel- og sårbarhetsvurderingen 2013 fra E-tje­
-nesten, NSM og PST, hvor det fremgår:
-«Majoriteten av de som fremsetter trusler mot
-norske myndighetspersoner anses å være psy­
-kisk ustabile. Det er generelt lite samsvar mel­
-lom truslene som fremsettes og den faktiske vil­
-jen og evnen til å utføre handlingen det trues
-med. Erfaringer fra andre europeiske land til­
-sier at de som faktisk angriper en myndighets­
-person, gjør dette uten at det er blitt fremsatt
-konkrete trusler i forkant. Ofte har personen på
-en eller annen måte tilkjennegitt sterk misnøye
-med eller hatt et bekymringsfullt fokus på myn­
-dighetspersonen forut for angrepet. I noen tilfel­
-ler har angrep vært spontane og uten forvarsel.»
-Det fremgår av PSTs trusselvurdering 2015 at økt
-aktivitet og eksponering i forbindelse med høs­
-tens valg vil føre til at politikere blir mer utsatt for
-negativ oppmerksomhet i det kommende året.
-Sterkt personfokus i kombinasjon med saker som
-
-[Side 199]
-
-2015–2016
-
-199
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-oppfattes som kontroversielle, har tidligere forår­
-saket trusselrelaterte hendelser.
-Politihøgskolens forskningsavdeling, ved dok­
-torgradsstipendiat Heidi Fischer Bjelland og pro­
-fessor i politivitenskap Tore Bjørgo, har foretatt en
-kartleggingsstudie av trusler mot norske rikspoliti­
-kere og regjeringsmedlemmer på oppdrag fra PST.
-Funnene ble presentert i rapporten Trusler og
-trusselhendelser mot politikere (PHS Forskning
-2014: 4). Her fremgår det at av 112 spurte stortings­
-representanter og regjeringsmedlemmer, hadde
-27 % opplevd at noen truet med å skade dem eller
-noen av deres nærmeste, mens 14,4 % hadde opp­
-levd fysiske angrep eller forsøk på dette. Slike lov­
-brudd kan svekke grunnleggende demokratiske
-og konstitusjonelle funksjoner.
-Til tross for at trusler mot myndighetspersoner
-ikke nødvendigvis manifesterer seg i faktiske
-angrep, viser funnene etter departementets syn at
-det er en reell fare for at sentrale myndighetsperso­
-ner kan bli utsatt for voldelige angrep, og at trusler
-mot myndighetspersoner ikke er et uvanlig fore­
-kommende fenomen i det norske samfunnet.
-Departementet vil i den forbindelse understreke at
-ikke bare faktiske angrep, men også rene trusler,
-kan forstyrre politikere eller andre i deres virke og
-få dem til å begrense sine uttalelser og handlinger.
-Trusler og angrep mot myndighetspersoner kan
-svekke grunnleggende demokratiske og konstitu­
-sjonelle funksjoner. Et levende demokrati forutset­
-ter at folk ikke unnlater å delta i politikken på
-grunn av frykt for egen eller nærståendes sikker­
-het. For å sikre demokratiet og den liberale sam­
-funnsformen, er det viktig at trusler, så vel som fak­
-tiske angrep, kan bekjempes på en effektiv måte.
-Departementet er av den oppfatning at romavlyt­
-ting etter omstendighetene kan være et nødvendig
-og forholdsmessig virkemiddel i så henseende, jf.
-også punkt 13.4.1.4 ovenfor, der det slås fast at en
-slik utvidelse er innenfor Grunnlovens skranker.
-Etter departementets oppfatning kan også
-sammenhengen i lovverket tale for at det åpnes
-for avvergende bruk av romavlytting i den her
-omtalte sakstypen. Etter politiloven § 17 d første
-ledd bokstav c kan PST benytte ulike former for
-skjulte tvangsmidler – i utgangspunktet også
-romavlytting – for å forebygge handlinger som
-rammes av straffeloven §§ 251, 253, 254, 256, 263,
-273, 274 eller 275 og som retter seg mot medlem­
-mer av Kongehuset, Stortinget, regjeringen, Høy­
-esterett eller representanter for tilsvarende orga­
-ner i andre stater. De nevnte bestemmelsene rammer alvorlige voldshandlinger og trusler mot
-statsorganene og deres medlemmer. Etter depar­
-tementets syn er det naturlig at lovbrudd som kan
-
-begrunne tvangsmiddelbruk i forebyggende øye­
-med, også skal kunne brukes for å avverge disse.
-Det vises til følgende uttalelse i Ot.prp. nr. 60
-(2004–2005) punkt 9.4.2.2 side 129:
-«Sammenhengen i regelverket tilsier at de
-straffbare handlingene som skal kunne fore­
-bygges ved bruk av tvangsmidler utenfor etter­
-forsking, dvs. terrorhandlinger, ulovlig etter­
-retningsvirksomhet og de mest alvorlige for­
-mene for vold eller trusler mot representanter
-for våre øverste statsmyndigheter eller repre­
-sentanter for tilsvarende organer i andre land,
-også bør kunne avverges ved bruk av tvangs­
-midler som ledd i etterforsking.»
-Når romavlytting i prinsippet er tillatt for å fore­
-bygge trusler og angrep mot myndighetspersoner,
-bør metoden også kunne brukes for å avverge
-slike handlinger. Det foreslås derfor at PST skal
-kunne benytte romavlytting for å avverge
-handlinger som rammes av straffeloven §§ 251,
-253, 254, 256, 263, 273, 274 eller 275 og som retter
-seg mot medlemmer av Kongehuset, Stortinget,
-regjeringen, Høyesterett eller representanter for
-tilsvarende organer i andre stater.
-Øvrige forhold
-Ved lovendring 10. desember 2010 nr. 76 ble en
-inkurie rettet opp slik at også straffeloven 1902
-§ 151 a om kapring nå er nevnt i oppregningen i
-lovteksten, jf. Prop. 141 L (2009–2010) pkt. 11.4
-side 138. Utvalgets oppfordring om å inkludere
-bestemmelsen blant de straffbare handlinger som
-PST kan bruke tvangsmidler for å avverge er såle­
-des allerede fulgt. Dette er videreført også etter
-ikraftsettingen av straffeloven, ved at straffeloven
-§ 142 er inntatt i straffeprosessloven § 222 d annet
-ledd bokstav a.
-For øvrig ble straffeloven 1902 § 153 a opp­
-hevet ved lov 22. juni 2012 nr. 49 (i kraft 22. juni
-2012), som følge av at innholdet ble inkorporert i
-§ 152 a. I § 222 d annet ledd bokstav a og tredje
-ledd tredje punktum er henvisningen til § 153 a nå
-fjernet, som følge av opphevelsen, jf. Prop. 53 L
-(2012–2013) og lov 24. mai 2013 nr. 18.
-
-13.4.5 Supplerende vilkår og
-saksbehandlingsregler
-13.4.5.1
-
-Gjeldende rett
-
-Tredje ledd inneholder supplerende vilkår for
-avvergende metodebruk. Tillatelse til bruk av
-
-[Side 200]
-
-200
-
-2015–2016
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-tvangsmidler kan bare gis dersom det må antas at
-«inngrepet vil gi opplysninger av vesentlig betyd­
-ning for å kunne avverge handlingen» (indika­
-sjonskravet), og at «avverging ellers i vesentlig
-grad vil bli vanskeliggjort» (subsidiaritetskravet).
-Ordet «antas» medfører at det må foreligge mer
-enn en ren formodning om at tvangsmiddel­
-bruken vil oppfylle de to vilkårene. Sannsynlig­
-hetsovervekt kreves likevel ikke. Kjernen i disse
-vurderingstemaene – som til en viss grad glir inn i
-hverandre – er at tvangsmidler bare skal kunne
-anvendes hvor det er en viss sannsynlighet for at
-tvangsmiddelbruken vil gi opplysninger som kan
-bidra til å avverge en handling som nevnt i annet
-ledd, og bare hvor det må antas at mindre inngri­
-pende etterforskningsmetoder vil komme til kort,
-jf. Ot.prp. nr. 60 (2004–2005) punkt 13.1 side 149. I
-denne vurderingen kan domstolen også ta hensyn
-til en fornuftig ressursanvendelse, slik at tvangs­
-midler i enkelte situasjoner vil kunne tillates brukt
-selv om tilsvarende opplysninger for eksempel
-kunne vært fremskaffet ved omfattende og ressur­
-skrevende spaning. Videre skal retten ta hensyn
-til om politiet har begrenset tid til rådighet for å få
-avverget handlingen og om alternative fremgangs­
-måter vil kunne innebære at noens liv og helse
-settes i fare, jf. Ot.prp. nr. 60 (2004–2005) punkt
-6.4.3 side 71–72.
-I tillegg gjelder forholdsmessighetskravet
-etter straffeprosessloven § 170 a. De samme
-momentene vil være relevante her som ved almin­
-nelig tvangsmiddelbruk, men enkelte vil kunne
-være noe mer tungtveiende ved forholdsmessig­
-hetsvurderingen av tvangsmiddelbruk i avver­
-gende øyemed. Ved innføringen av regelen under­
-streket departementet at mistankens styrke er
-relevant også i denne forbindelse, og at det, der­
-som det er svært sannsynlig at en alvorlig straff­
-bar handling vil bli begått, sjelden vil være ufor­
-holdsmessig å tillate tvangsmiddelbruk for å
-avverge handlingen, jf. Ot.prp. nr. 60 (2004–2005)
-punkt 6.5.2 side 73. Videre uttalte departementet
-at § 222 d er utformet slik at tvangsmiddelbruken
-som regel vil rette seg mot personer som tilhører
-eller har nære bånd til et organisert kriminelt
-miljø. Dersom politiet likevel har grunnlag for å
-gripe inn overfor personer uten slik tilknytning,
-kan det være grunn til å praktisere et strengt for­
-holdsmessighetsprinsipp.
-For enkelte særlig integritetskrenkende
-tvangsmidler gjelder det et skjerpet forholdsmes­
-sighetskrav. Det er et tilleggsvilkår at det må fore­
-ligge «særlige grunner» for å kunne benytte hem­
-melig ransaking, teknisk sporing av person, kom­
-munikasjonsavlytting og romavlytting, jf. § 222 d
-
-tredje ledd annet punktum. Kravet er ment å mar­
-kere at det her skal mer til enn ellers for å tillate
-bruk av tvangsmidler i avvergende øyemed, men
-innebærer ikke at forholdsmessighetsvurderin­
-gen i disse tilfellene skal være vesensforskjellig
-fra den som må foretas i tilknytning til mindre inn­
-gripende tvangsmidler.
-Videre gjelder de bestemmelsene som ordi­
-nært regulerer bruken av det aktuelle tvangsmid­
-delet som nå benyttes i avvergende øyemed «så
-langt de passer», jf. § 222 d femte ledd første
-punktum. Her siktes det særlig til saksbehand­
-lingsreglene. Informasjon innhentet gjennom slik
-tvangsmiddelbruk er underlagt den særlige taus­
-hetsplikten etter § 216 i, og denne bestemmelsen
-regulerer også den videre bruken av den innhen­
-tede informasjonen.
-Beslutning om bruk av etterforskningsmeto­
-der i avvergende øyemed treffes av retten ved
-kjennelse. Ordre fra påtalemyndigheten kan tre i
-stedet for kjennelse av retten dersom det ved opphold er stor fare for at den aktuelle handlingen
-ikke vil kunne avverges, jf. § 222 d fjerde ledd før­
-ste punktum. Unntaket er ment å fange opp beho­
-vet for umiddelbart å komme i gang med tvangs­
-middelbruken hvor politiet har opplysninger om
-at en alvorlig straffbar handling er nært forestå­
-ende. Beslutningen skal imidlertid forelegges ret­
-ten for godkjennelse snarest mulig og senest 24
-timer etter at tvangsmiddelet ble tatt i bruk. Straf­
-feprosessloven § 216 d første ledd tredje til femte
-punktum om påtalemyndighetens hastekompe­
-tanse gjelder tilsvarende. For kompetanseforde­
-lingen innenfor påtalemyndigheten gjelder § 216 d
-annet ledd. Påtalemyndighetens beslutning skal
-så vidt mulig være skriftlig og opplyse om hva
-saken gjelder og om formålet med bruken av
-tvangsmidlet. Muntlig beslutning skal snarest
-mulig nedtegnes.
-13.4.5.2
-
-Utvalgets forslag
-
-De øvrige vilkår for avvergende tvangsmiddel­
-bruk, slik disse fremgår av straffeprosessloven
-§ 222 d tredje ledd, utgjør etter utvalgets oppfat­
-ning en viktig begrensing, og skal sikre at tvangs­
-midler bare brukes i avvergende øyemed dersom
-det er strengt påkrevd. Utvalget foreslår ingen
-endringer her.
-13.4.5.3
-
-Høringsinstansenes syn
-
-Oslo statsadvokatembeter uttaler at det ikke er helt
-enkelt å forstå på hvilken måte en domstol skal
-kunne ha en begrunnet oppfatning om indika­
-
-[Side 201]
-
-2015–2016
-
-Prop. 68 L
-
-201
-
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-sjonskravet. Også subsidiaritetskravet forutset­
-ter en hypotetisk vurdering som, ifølge statsad­
-vokatembetet, selvsagt må fremstå som ytterst
-problematisk for en domstol. Det settes også
-spørsmålstegn ved hva som egentlig skal ligge i
-det skjerpede krav til forholdsmessighet. Samlet
-sett anføres det at lovgiveren har gitt domstolene
-en oppgave som nesten er umulig dersom loven
-skal tas på ordet. Dette kan medføre at lovens
-krav fremstår som «fasadepynt» som ikke følges
-i praksis, med de åpenbare uheldige konsekven­
-ser som dette kan innebære. Statsadvokatembe­
-tet understreker at det kan reises prinsipielle
-motforestillinger mot å involvere domstolene i
-beslutninger av denne karakter, til tross for at
-lovgiver, ved å legge beslutningsansvaret til dom­
-stolene, selvsagt har søkt å ivareta rettssikker­
-hetshensyn.
-13.4.5.4
-
-Departementets vurdering
-
-Departementet vil innledningsvis slå fast at dom­
-stolskontrollen med avvergende tvangsmiddel­
-bruk representerer en viktig rettssikkerhetsga­
-ranti. Dette dannet også utgangspunktet for
-departementets vurdering i Ot.prp. nr. 60 (2004–
-2005) punkt 6.7.2 side 76:
-«Etter departementets syn bør kompetansen til
-å tillate bruk av tvangsmidler i avvergende øye­
-med legges til domstolene. At avgjørelsen fat­
-tes av en nøytral instans med høy kompetanse,
-er viktig for å sikre at mothensynene som gjør
-seg gjeldende mot bruk av tvangsmidler i en
-konkret sak, tillegges den vekt de fortjener.
-Det er også viktig for at folk skal ha tillit til at
-misbruk ikke skjer. Disse hensynene får særlig
-vekt ved metodebruk i avvergende øyemed,
-ettersom det ikke er noe vilkår for bruken av
-tvangsmidler at personen de retter seg mot,
-mest sannsynlig har begått en straffbar hand­
-ling. […] På et område som dette må rettssik­
-kerhetshensyn veie tungt. […]»
-Departementet var den gang innforstått med at
-lovforslaget ville innebære at domstolene ville få
-en mer fremtredende rolle i etterforsknings­
-fasen, og bemerket at daværende tingrettsdom­
-mer Tor Langbach i Lov og Rett 2000 (side 309–
-314) hadde pekt på mulige betenkeligheter ved
-en slik utvikling. Han viste blant annet til at dom­
-merne i stadig større grad involveres i politiets
-taktiske vurderinger og beslutninger allerede på
-etterforskningsstadiet, og at domstolenes avgjø­
-relser ofte må skje uten reell kontradiksjon – for
-
-eksempel når det fremmes begjæringer om kom­
-munikasjonskontroll. Departementet var enig
-med Langbach i at det ikke var uten betenkelig­
-heter å involvere domstolene i større utstrekning
-på etterforskningsstadiet, men var likevel av den
-oppfatning at fordelene ved å kreve at tillatelse
-må gis av retten på forhånd – først og fremst ved
-den økte rettssikkerheten som ligger i forhånds­
-kontroll ved en nøytral instans – oppveide ulem­
-pene. Departementet opprettholder også i dag
-dette standpunktet.
-Videre vil departementet understreke at de
-strenge indikasjons-, subsidiaritets- og forholds­
-messighetskravene ikke bare angir den terskel
-som domstolen skal legge til grunn for sin vurde­
-ring av om det foreligger hjemmel for å benytte
-tvangsmidler i avvergende øyemed, men også gir
-klare anvisninger til politiet om når tillatelse kan
-gis.
-Det bemerkes i den anledning at Kontrollut­
-valget for kommunikasjonskontroll (KK-utval­
-get) i årsrapporten for 2014 konkluderer med at
-politiets bruk av kommunikasjonskontroll gjen­
-nomgående er forsvarlig og godt begrunnet. Det
-gis uttrykk for at Norge generelt har en høy fag­
-lig og etisk standard i politiet, at regelverket,
-saksbehandlingen og gjennomføringen er lagt
-opp slik at avgjørelsene om å begjære bruk av
-kommunikasjonskontroll blir behandlet og kvali­
-tetssikret på flere nivåer i politiet, samt at politiet
-ønsker å ha en godt underbygd sak når det ber
-om rettens tillatelse. Samlet sett innebærer dette
-et strengt tiltaks- og kontrollregime som bidrar
-til en høy grad av rettssikkerhet i denne type
-saker. KK-utvalget er av den oppfatning at kvali­
-teten på grunnlagsrapportene de siste årene er
-blitt enda bedre og nå gjennomgående er meget
-tilfredsstillende. Det fremmes stort sett bare
-begjæringer om avlytting i saker som politiets
-ledelse oppfatter som saker som forventes å føre
-til domfellelse og strenge straffer. KK-utvalget
-har ikke rettet alvorlig kritikk til politiet i noen
-enkeltsak i 2013.
-Departementet mener at de strenge kravene
-som stilles for å kunne anvende tvangsmidler i
-avvergende øyemed, er med å sikre at politiet
-ikke uberettiget ber om tillatelse til slik tvangs­
-middelbruk. Den høye kvaliteten på underlags­
-rapportene fra politiet bidrar til å gjøre domsto­
-lens kontrolloppgave enklere. For øvrig er
-påtalemyndighetens objektivitetsplikt, som gjel­
-der hele dets virksomhet, også på etterforsk­
-ningsstadiet, nå kodifisert i straffeprosessloven
-§ 55 fjerde ledd, som trådte i kraft 13. september
-2013.
-
-[Side 202]
-
-202
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-13.5 Tvangsmiddelbruk i forebyggende
-øyemed
-13.5.1 Generelt
-Ved lov 17. juni 2005 nr. 87 ble PST gitt adgang til å
-bruke tvangsmidler for å kunne forebygge de mest
-alvorlige forbrytelsene innenfor tjenestens
-arbeidsområde, jf. politiloven § 17 d. Bestemmel­
-sene trådte i kraft august samme år, jf. kgl. res. 5.
-august 2005 nr. 849. Som forebyggende virksom­
-het regnes den informasjonsinnhenting PST driver
-uten at vilkårene for å igangsette etterforskning er
-oppfylt, det vil si uten at det er rimelig grunn til å
-undersøke om det foreligger et straffbart forhold,
-jf. straffeprosessloven § 224 første ledd.
-Bakgrunnen for at det ble åpnet for bruk av
-tvangsmidler også i forebyggende øyemed var at
-PSTs virksomhet i stor grad skal være forebyg­
-gende, og at målet ofte vil være å sørge for at det
-ikke blir grunnlag for å iverksette etterforskning,
-jf. Ot.prp. nr. 60 (2004–2005) punkt 9.1 side 112.
-Departementet påpekte at forebyggingsaspektet
-er særdeles viktig. Det sentrale er å oppdage
-mulige trusler mot samfunnssikkerheten tidligst
-mulig, helst lenge før hendelsesforløpet har kom­
-met så langt at grensen for det straffbare er nådd.
-Departementet slo fast at det var et misforhold
-mellom de forventningene som stilles til PSTs
-forebyggende arbeid og de virkemidlene tje­
-nesten har lovlig tilgang til som ledd i sin forebyg­
-gende virksomhet.
-Justiskomiteen støttet departementet, jf. Innst.
-O. nr. 113 (2004–2005) punkt 9.2 side 33, hvor det
-heter:
-«Komiteen viser til at Politiets sikkerhetstje­
-neste (PST) har en særlig viktig rolle for å fore­
-bygge og etterforske handlinger som truer sik­
-kerheten i samfunnet. Innbyggerne har for­
-ventninger til at PST skal oppdage og forhindre
-trusler mot samfunnssikkerheten før disse rea­
-liseres. Komiteen mener det er en viktig oppgave å sikre tjenesten arbeidsvilkår og metoder
-som gjør dette mulig, men samtidig må disse
-metodene ikke være egnet til å redusere tilliten
-til PST.»
-Beslutningen om bruk av slike tvangsmidler vil
-kunne bli kontrollert i ettertid av EOS-utvalget.
-Utvalget går inn for at adgangen til å bruke
-tvangsmidler i forebyggende øyemed i hovedsak
-beholdes som i dag.
-Enkelte av høringsinstansene knytter generelle
-kommentarer til forholdet mellom bruk av skjulte
-
-2015–2016
-
-tvangsmidler i avvergende og forebyggende øye­
-med.
-Oslo statsadvokatembeter påpeker at hjemme­
-len for avvergende tvangsmidler er plassert i straf­
-feprosessloven, med den konsekvens at bruken av
-disse behandles av politiet som påtalemyndighet
-med statsadvokatene og riksadvokaten som over­
-ordnede myndigheter. Forebyggende tvangsmid­
-ler er derimot tatt ut av den ordinære, straffepro­
-sessuelle ramme og tillagt PST som forvaltnings­
-organ. Oslo statsadvokatembeter understreker at
-PST i denne sammenheng ikke opptrer som påta­
-lemyndighet, men som et forvaltningsorgan
-undergitt Politidirektoratet og Justisdepartemen­
-tet. Dette har som konsekvens at PST er et poli­
-tisk styrt organ i den forstand at statsråden plikter
-å sørge for tilsyn og faglig kontroll med virksom­
-heten. Det anføres at det legges stor vekt på EOS­
-utvalgets tilsynsfunksjoner i Ot.prp. nr. 60 (2004–
-2005). Imidlertid nevnes det ikke at departemen­
-tets virksomhet ikke er underlagt EOS-utvalget, jf.
-lov 3. februar 1995 nr. 7 § 6. Statsadvokatembetet
-mener at det dermed kan oppstå nokså underlige
-konstellasjoner. Dersom EOS-utvalget finner at
-det var kritikkverdig av PST å anvende tvangsmid­
-ler og departementet har hatt eller kan ha hatt
-kunnskap om dette, blir dette uheldig dersom
-statsråden reelt sett har ansvaret.
-Statsadvokatembetet gir videre uttrykk for at
-begrepet forebygging er svært upresist. Det anfø­
-res at Ot.prp. nr. 60 (2004–2005) er noe uklar når
-det gjelder valg av spor – etterforskning eller fore­
-bygging – blant annet ved spionasje. Det uttryk­
-kes bekymring over at PST kan binde opp påtale­
-myndigheten dersom det forbyggende tvangsmid­
-del for eksempel skulle avdekke omfattende spio­
-nasje som allerede har funnet sted, på grunn av
-den svært begrensede adgang som politiloven
-§ 17 f gir til å anvende slikt materiale. Embetet
-mener at en lojal forståelse tilsier at dersom det
-foreligger rimelig grunn til å etterforske, må dette
-alternativ velges.
-Forsvarergruppen av 1977 gir uttrykk for at
-snevre hjemler alltid har en tendens til å bli utvi­
-det i praksis, og er bekymret over den manglende
-rett til dokumentinnsyn for den som utsettes for
-PSTs bruk av tvangsmidler i forebyggende øye­
-med. Det vises til Høyesteretts avgjørelser i Rt.
-2008 side 1575 og Rt. 2009 side 1075, hvor slikt
-innsyn ble nektet. Dette ble blant annet begrunnet
-med at det dreier seg om «utøvelse av forvalt­
-ningsrettslige oppgaver uavhengig av etterforsk­
-ningen», og at PST er «organisert med et klart og
-notorisk skille mellom virksomhetsdelene». For­
-svarergruppen mener at det likevel er et betydelig
-
-[Side 203]
-
-2015–2016
-
-Prop. 68 L
-
-203
-
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-rettssikkerhetsmessig problem at manglende
-dokumentinnsyn hindrer kontroll med om inn­
-hentede opplysninger likevel blir brukt i etter­
-forskningen. Det anføres at når PST opptrer både
-som forvaltningsorgan og etterforskende myndig­
-het, og selv definerer tidspunktet for når man går
-over fra forebygging til etterforskning, er det en
-nærliggende fare for at opplysninger innhentet
-gjennom bruk av skjulte tvangsmidler i forebyg­
-gende øyemed også kan få betydning for etter­
-forskningen. Det er dessuten en nærliggende
-mulighet for at den som blir etterforsket selv vil
-kunne gjøre nytte av de innhentede opplysninger
-til sitt forsvar. Forsvarergruppen ønsker derfor en
-lovendring som sikrer at den som blir etterforsket
-av PST gis innsyn også i opplysninger innhentet
-ved bruk av tvangsmidler i forebyggende øyemed.
-Departementet bemerker at spørsmålet om
-innsynsrett i materiale fra skjult tvangsmiddel­
-bruk ble behandlet i Prop. 147 L (2012–2013)
-punkt 4.11.4 side 59–60, hvor det heter:
-«Utvalget drøfter unntak fra innsyn i materiale
-fra skjult tvangsmiddelbruk på grunnlag av et
-utvidet saksdokumentbegrep. Etter utvalgets
-forslag vil slikt materiale automatisk inngå i
-saksdokumentene og derfor i utgangspunktet
-omfattes av innsynsretten. I motsetning til
-utvalget går departementet inn for å videreføre
-gjeldende saksdokumentbegrep, jf. punkt
-4.4.4. Departementet er enig med riksadvoka­
-ten i at det blir en kunstig betraktningsmåte å
-anse materiale fra skjult tvangsmiddelbruk
-som del av sakens dokumenter som det må
-besluttes unntak for innsyn fra. Departemen­
-tets forslag innebærer at gjeldende rett om
-materiale fra skjult tvangsmiddelbruk opprett­
-holdes; materialet inngår ikke i saksdokumen­
-tene med mindre det er tatt i bruk under etter­
-forskningen.»
-Departementet opprettholder disse synspunk­
-tene og legger til grunn at PST lojalt skiller mel­
-lom sine forvaltningsrettslige og påtalemessige
-oppgaver. Det vises for øvrig til Høyesteretts
-avgjørelser i Rt. 2008 side 1575 og Rt. 2009 side
-1075. Høyesterett anså ikke at dokumenter utar­
-beidet av PST i egenskap av å være forvaltningsor­
-gan – henholdsvis innenfor sikkerhetsrådgivning
-og i dets «forebyggende virksomhet», jf. politi­
-loven § 17 b første ledd – kunne regnes som en
-del av «sakens dokumenter». Dersom materialet
-er tatt i bruk under etterforskning, vil det imidler­
-tid inngå i sakens dokumenter, som det eventuelt
-må besluttes unntak fra innsyn for.
-
-Departementet legger til grunn at en lojal for­
-ståelse av dagens lovverk tilsier at dersom det
-foreligger grunnlag for å åpne etterforskning, bør
-dette alternativ i utgangspunktet velges, fremfor å
-benytte tvangsmidler i forebyggende øyemed.
-Under Justiskomiteens behandling av forslaget,
-ble det understreket at bruk av tvangsmidler i
-forebyggende øyemed skulle være en sikkerhets­
-ventil, som bare kunne bli brukt når reglene om
-avverging som ledd i etterforskning ikke var
-anvendbare. Det vises til Innst. O. nr. 113 (2004–
-2005) punkt 9.2. Likevel vil departementet under­
-streke at PST må ha en viss skjønnsmessig kom­
-petanse til å vurdere når en sak bør gå over fra
-forebyggingsstadiet til etterforskningsstadiet. I
-den forbindelse kan det bemerkes at PST kan
-motta troverdige, men ikke-verifiserte opplysnin­
-ger som gir grunn til å avvente den videre utvik­
-ling før eventuell etterforskning iverksettes. En
-del av informasjonen som PST mottar, må dess­
-uten antas å komme fra samarbeidende utenland­
-ske tjenester o.l. og være konfidensiell. Forholdet
-til kilden kan her gjøre det vanskelig å starte en
-etterforskning og innta informasjonen i en straffe­
-sak, både fordi PST i utgangspunktet ønsker å
-være lojale mot sine kilder og fordi en slik ekspo­
-nering kan føre til at PST mister kilder, med uhen­
-siktsmessig informasjonstørke som resultat. Det
-bemerkes for øvrig at påtalemyndighetens objekti­
-vitetsplikt nå er lovfestet i straffeprosessloven § 55
-fjerde ledd, som trådte i kraft 13. september 2013.
-13.5.2 Mistankekravet
-Etter gjeldende rett kan tvangsmidler bare brukes i
-forebyggende øyemed der det er «grunn til å
-undersøke om noen forbereder en [nærmere
-angitt] handling». Uttrykket ble inntatt i bestem­
-melsen under stortingsbehandlingen av lovforsla­
-get, og erstattet passusen «for å undersøke om
-noen forbereder en handling». Endringen under­
-streker at PST, for å få tillatelse til å ta i bruk lovre­
-gulerte metoder, må godtgjøre overfor domstolen
-at opplysninger i det konkrete saksforholdet gir
-grunn til å gjennomføre nærmere undersøkelser,
-jf. Innst. O. nr. 113 (2004–2005) punkt 9.2 side 34.
-Justiskomiteens flertall uttalte at grunnen til å
-undersøke må være forankret i objektive holde­
-punkter, for eksempel saksopplysninger i form av
-spanings- eller infiltrasjonsopplysninger, tips,
-dokumentfunn eller andre bevis som indikerer at
-noen kan være i ferd med å forberede for eksem­
-pel en terrorhandling. Flertallet viste til at vilkåret
-har klare likhetstrekk med vilkåret i straffepro­
-sessloven § 224 første ledd om når etterforskning
-
-[Side 204]
-
-204
-
-2015–2016
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-skal settes i verk. Grovt sett ligger det tre krav
-innbakt i uttrykket: Et saklighetskrav, et krav om
-en viss sannsynlighet for at noe er under oppsei­
-ling, og et krav til forholdsmessighet mellom det
-som skal undersøkes, og de virkemidler som tas i
-bruk, jf. innstillingen side 35.
-Utvalget foreslår ingen endringer.
-Av høringsinstansene er det kun Oslo statsadvo­
-katembeter som har betraktninger om mistanke­
-kravet:
-
-tvangsmiddelbruk. Godt grunnlagsmateriale vil
-gjøre det lettere for dommeren å etterprøve poli­
-tiets vurdering. Det bemerkes for øvrig at påtale­
-myndighetens objektivitetsplikt nå er lovfestet i
-straffeprosessloven § 55 fjerde ledd, som trådte i
-kraft 13. september 2013.
-
-«Det er åpenbart at det må legges inn en vurde­
-ring som knytter seg til en mulighet for en for­
-beredelse av den straffbare handling. Det vil
-med andre ord si at man må legge inn en sann­
-synlighetsvurdering for at noen befinner seg i
-en forberedelsesfase til det straffbare. Hvor
-stor muligheten skal fremstå som, er ikke
-enkelt å besvare.»
-
-PST kan bare bruke tvangsmidler i forebyggende
-øyemed for å forebygge terrorhandlinger etter
-straffeloven §§ 131, 133 og 134 (straffeloven 1902
-§ 147 a), ulovlig etterretningsvirksomhet etter
-straffeloven §§ 121 til 126 (straffeloven 1902 §§ 90,
-91 og 91 a) og vold eller trusler mot representan­
-ter for Norges øverste statsmyndigheter eller til­
-svarende organer i andre stater etter straffeloven
-§§ 251, 253, 254, 256, 263, 273, 274 eller 275 (straf­
-feloven 1902 §§ 222, 223, 227, 229, 231 eller 233).
-Spørsmålet om hvilke tvangsmidler PST bør
-gis adgang til for at tjenesten skal kunne utføre
-sine lovpålagte oppgaver på en best mulig måte, er
-blitt berørt i en rekke forskjellige sammenhenger
-de siste årene. Det er blant annet drøftet av Fos­
-tervoll-utvalget (vedlegg 2 til St.meld. nr. 39
-(1992–93)), Sikkerhetsutvalget (NOU 1993: 3
-Strafferettslige regler i terroristbekjempelsen),
-Lund-kommisjonen (Dok. nr. 15 (1995–96)), Meto­
-deutvalget (NOU 1997: 15 Etterforskingsmetoder
-for å bekjempe kriminalitet – delinnstilling II),
-Danielsen-utvalget (NOU 1998: 4 Politiets overvåk­
-ningstjeneste), Lund-utvalget (NOU 2003: 18 Rikets
-sikkerhet) og av Politimetodeutvalget (NOU 2004:
-6 Mellom effektivitet og personvern: politimetoder i
-forbyggende øyemed). For en nærmere oversikt
-vises det til Ot.prp. nr. 60 (2004–2005) punkt
-9.3.2–9.3.4 side 115 flg.
-Lund-utvalget tar i NOU 2003: 18 Rikets sikker­
-het utgangspunkt i at inngripende tvangsmidler
-bare skal kunne brukes dersom det er nødvendig
-etter en avveining av hensynet til samfunnsvern
-mot hensynet til rettssikkerhet, jf. utredningen
-side 17–18:
-
-Statsadvokatembetet uttaler at det er åpenbart at
-generelle risikobetraktninger ikke kan være
-relevante, og viser til Justiskomiteens uttalelse om
-at grunnen til å undersøke må være forankret i
-objektive holdepunkter. Etter statsadvokatembe­
-tets oppfatning reiser imidlertid dette nye spørs­
-mål, for eksempel om spanings- eller infiltrasjons­
-opplysningene som stammer fra en pågående
-etterforskning kan brukes som grunnlagsmateri­
-ale for å begjære forebyggende tvangsmidler. Det
-gis uttrykk for at et bekreftende svar kan åpne for
-omgåelse av sentrale rettsikkerhetsgarantier og
-tunge personvernhensyn. Det anføres at dersom
-en spionsak henlegges av mangel på bevis, vil det
-være underlig om nye tvangsmidler skal kunne
-anvendes med utgangspunkt i det samme materia­
-let.
-Når det gjelder kvaliteten på opplysningene,
-anfører statsadvokatembetet at det vil være van­
-skelig for dommeren å etterprøve om politiets
-tolkning av det foreliggende materiale er korrekt.
-Dommeren vil lett komme i en nesten umulig
-tvangssituasjon. Som eksempel nevnes at politiet
-vurderer det som en mulighet at det foreliggende
-materialet kan gi grunnlag for å forhindre en ter­
-roraksjon. Dersom begjæringen avslås og hand­
-lingen inntreffer, vil dommeren lett bli tillagt
-ansvar.
-D e p a r t e m e n t e t viser til drøftelsen i
-punkt 13.4.5.4 ovenfor. Domstolskontrollen repre­
-senterer en viktig rettssikkerhetsgaranti, og det
-legges til grunn at politiet nøye og objektivt vurde­
-rer hvorvidt de strenge inngangsvilkårene for
-bruk av tvangsmidler i forebyggende øyemed er
-oppfylt, før det bes om rettens tillatelse til slik
-
-13.5.3 Kriminalitetskravet
-13.5.3.1
-
-Gjeldende rett
-
-«Det må være samsvar mellom de skade­
-virkninger den aktuelle kriminalitet kan med­
-føre og de metoder som tas i bruk for å
-bekjempe den. Kravet til forholdsmessighet til­
-sier som en nødvendig – men ikke tilstrekkelig
-– forutsetning at det er dokumentert et behov
-for metoden: Dette innebærer en vurdering av
-kriminalitetens sannsynlige skadevirkninger
-og av metodens økte nytteverdi for oppklaring
-
-[Side 205]
-
-2015–2016
-
-205
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-og bekjempelse av kriminaliteten. Jo mer alvor­
-lig kriminalitet og jo større skadevirkninger
-det er fare for, jo lavere er det naturlig å sette
-kravet til sannsynlighet. Det er forskjell på en
-terrorhandling som kan medføre tap av mange
-menneskeliv og et forsøk på å skaffe seg opp­
-lysninger som nok bør holdes hemmelig av
-hensyn til rikets sikkerhet, men hvor skade­
-virkningene ved kompromittering er relativt
-begrenset […].»
-Lund-utvalget ga uttrykk for at ved inngrep som
-har et mer generelt forebyggende formål, for
-eksempel å skaffe oversikt over en organisasjon
-eller en personkrets som man antar kan komme til
-å begå straffbare handlinger rettet mot grunnleg­
-gende nasjonale interesser, måtte hensynet til
-rettssikkerhet og beskyttelse av personvernet
-veie tyngre enn hensynet til et mulig
-samfunnsvern. Utvalget gikk derfor ikke inn for å
-lovhjemle bruk av straffeprosessuelle tvangs­
-midler i forebyggende øyemed.
-I Ot.prp. nr. 60 (2004–2005) punkt 9.3.6.1 side
-122 sa departementet seg enig i Lund-utvalgets
-prinsipielle utgangspunkt om at det bare bør
-åpnes for økt bruk av tvangsmidler i den grad det
-er dokumentert et tilstrekkelig behov for en slik
-utvidelse. Departementet mente imidlertid at
-dette særlig ville avhenge av om trusselbildet
-utfordrer samfunnssikkerheten på en måte som
-gjør bruk av tvangsmidler nødvendig, og om
-adgangen til å bruke tvangsmidler etter gjeldende
-rett er utilstrekkelig. Etter departementets syn
-måtte begge spørsmålene besvares bekreftende.
-Departementet foreslo derfor å åpne for bruk av
-tvangsmidler i forebyggende øyemed, og uttalte i
-den sammenheng:
-«PSTs virksomhet er i langt større grad rent
-forebyggende enn for andre straffbare
-handlinger, der tvangsmidler brukes avver­
-gende som ledd i en etterforsking som primært
-har til formål å strafforfølge de antatte gjer­
-ningspersonene. Når det er aktuelt for PST å
-anvende tvangsmidler med sikte på å forhindre
-for eksempel ulovlig etterretningsvirksomhet,
-vil det derfor ofte ikke være naturlig å karakteri­
-sere virksomheten som etterforsking. På disse
-områdene har PST et særskilt behov for å kunne
-gripe inn for å forhindre straffbare handlinger,
-uten at det stilles krav om at etterforsking må
-være iverksatt. Departementet foreslår derfor at
-det åpnes for at PST til en viss grad skal kunne
-anvende tvangsmidler også utenfor etterfor­
-sking, men bare når formålet er å forebygge ter­
-
-rorhandlinger, ulovlig etterretningsvirksomhet
-og attentatforsøk mot representanter for våre
-øverste statsmyndigheter. Det siste alternativet
-bør også omfatte de mest alvorlige formene for
-trusler eller vold mot representanter for tilsva­
-rende organer i andre stater, for eksempel ved
-statsbesøk eller for å avverge angrep på andre
-staters ambassadører i Norge.»
-At adgangen til å benytte tvangsmidler i forebyg­
-gende øyemed skulle være snever, understrekes
-også i proposisjonen punkt 9.4.2.1 side 128:
-«Fordi det reiser særlige rettssikkerhetsmes­
-sige og personvernmessige betenkeligheter å
-tillate bruk av tvangsmidler i slike situasjoner,
-går departementet inn for at hjemmelen kun
-skal gjelde for tre typer saker der behovet for
-slike virkemidler er størst: Terrorhandlinger,
-ulovlig etterretningsvirksomhet og de mest
-alvorlige formene for vold eller trusler mot
-representanter for våre øverste statsmyndig­
-heter eller representanter for tilsvarende orga­
-ner i andre land.»
-13.5.3.2
-
-Utvalgets og PSTs forslag
-
-Metodekontrollutvalget gir uttrykk for at mye
-tyder på at en større andel av PSTs tvangsmiddel­
-bruk skjer som ledd i forebyggende virksomhet
-enn i avvergende øyemed, noe som ikke er i tråd
-med det som ble uttrykt både av departementet
-og Stortinget ved innføringen av reglene. Det er
-imidlertid, slik utvalget ser det, ingenting som
-tyder på at PST bruker tvangsmidler ut over det
-som straffeprosessloven og politiloven tillater, jf.
-utredningen punkt 22.2 side 230–231. Utvalget går
-inn for at adgangen til å bruke tvangsmidler i fore­
-byggende øyemed i hovedsak skal beholdes uen­
-dret, jf. utredningen punkt 22.4 side 233.
-PST avga følgende høringsuttalelse under
-høringen av Metodekontrollutvalgets utredning:
-«PST registrerer at utvalget ikke fremmer forslag som har konsekvenser for hvilke straffebud
-som skal kunne utløse tvangsmiddelbruk i fore­
-byggende øyemed. Dette innebærer at det ikke
-er fremmet forslag om en utviding av tvangsmid­
-delbruken for PST utover de straffebud som i
-dag allerede er omtalt i politiloven § 17d. Det er
-PSTs vurdering at utvalget i større grad burde
-vurdert og evaluert om ikke også andre straffe­
-bud enn de som i dag er oppregnet i politiloven
-§ 17d burde kunne kvalifisere for tvangsmiddel­
-bruk i forebyggende øyemed.
-
-[Side 206]
-
-206
-
-Prop. 68 L
-
-2015–2016
-
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-PST er av den oppfatning at de straffebud
-som kvalifiserer til tvangsmiddelbruk i avver­
-gende øyemed etter straffeprosessloven § 222 d
-andre ledd også burde kvalifisert til tvangsmid­
-delbruk i forebyggende øyemed. På denne
-måten ville for eksempel forbudet mot spred­
-ning av plutonium (straffeloven § 152a) og for­
-budet mot å skaffe eller inneha bakteriologiske
-eller andre biologiske substanser (straffeloven
-153a) kunne forebygges gjennom bruk av
-tvangsmidler og ikke bare avverges etter at det
-straffbare forhold har materialisert seg. Til­
-svarende ville brudd på eksportkontrolloven
-kunne forebygges gjennom bruk av tvangs­
-midler.»
-PSTs forslag om utvidelse av adgangen til å
-beslutte bruk av tvangsmidler i forebyggende øye­
-med ble sendt på høring 12. juli 2012. I hørings­
-notatet tas det utgangspunkt i at en rekke av de
-straffebud som faller innenfor PSTs mandat, ikke
-gir anledning til tvangsmiddelbruk i forebyg­
-gende øyemed. Det ble vist til blant annet straffe­
-loven 1902 kapittel 8 (forbrytelser mot statens
-selvstendighet og sikkerhet), kapittel 9 (forbrytel­
-ser mot Norges statsforfatning og statsoverhode),
-§ 147 b (terrorfinansiering), § 147 c (oppfordring,
-rekruttering og opplæring i terrorhandling), § 152
-a (omgang med plutonium), § 153 a (omgang med
-bakteriologiske midler), samt brudd på eksport­
-kontrolloven. Etter PSTs vurdering er dette straf­
-febud som etter sitt innhold er ment å beskytte
-grunnleggende nasjonale interesser, og forebyg­
-ging av slike lovbrudd krever bruk av tvangsmid­
-ler i forebyggende øyemed. Det anføres at slik
-endring vil innebære en større grad av parallellitet
-mellom tvangsmiddelbruk for å forebygge alvor­
-lig kriminalitet og som ledd i å avverge kriminali­
-tet etter straffeprosessloven § 222 d annet ledd.
-13.5.3.3
-
-Høringsinstansenes syn
-
-Høringsinstansene er delt i synet på om adgangen
-til å beslutte bruk av tvangsmidler i forebyggende
-øyemed bør utvides. Under høringen av
-høringsnotat 12. juli 2012 var de fleste aktørene
-fra politiet og påtalemyndigheten positive til en
-utvidelse av de straffebud som kan utløse tvangs­
-middelbruk i forebyggende øyemed.
-Politiets Fellesforbund gir generelt full støtte til
-lovendringene som fremgår av høringsnotatet del
-I og del II. Forbundet mener disse balanserer for­
-holdet mellom frihet og sikkerhet opp mot de for­
-ventninger samfunnet har til politiet om å skape et
-tryggere samfunn.
-
-Etterretningstjenesten anser det som en svak­
-het ved høringsnotatet at det ikke er skissert kon­
-krete lovforslag, da dette gjør det vanskeligere å
-vurdere den eksakte rekkevidden av de ulike forslag. Etterretningstjenesten støtter likevel PSTs
-forslag om å utvide adgangen til å bruke tvangs­
-midler i forebyggende øyemed.
-Oslo statsadvokatembeter har ikke ytterligere
-bemerkninger til de enkelte forslag til regler om
-tvangsmidler i høringsnotatet, utover at de frem­
-står som vel funderte. Departementet vil påpeke
-at dette likevel til en viss grad er i strid med stats­
-advokatembetets høringsuttalelse om Metodekon­
-trollutvalgets utredning, der en innskrenkning av
-hjemlene drøftes. Det gis blant annet uttrykk for
-at det er underlig at bestemmelsene om ordinær
-spionasje og flyktningespionasje (straffeloven
-1902 §§ 90, 91 og § 91 a) er tatt med i oppramsin­
-gen over lovbrudd som gir adgang til bruk av
-tvangsmidler i forebyggende øyemed. Det uttales
-i den sammenheng at det er åpenbart at faren for
-terrorangrep mot Norge er større, mens det for
-spionasje er vanskelig å hevde at situasjonen
-skulle være spesielt alarmerende. Det pekes også
-på at strafferammen i § 91 a er lav, og at bestem­
-melsen derfor neppe kan være tatt med på grunn
-av forbrytelsens alvorlighetsgrad.
-Det nasjonale statsadvokatembetet mener at når
-det gjelder bruk av metoder i forebyggende øye­
-med, så er det viktig at lovverket åpner opp for
-dette på bred front i terrorsaker, samt at det gis
-hjemmel for bruk i saker som omfatter lovbud
-som skal sikre grunnleggende nasjonale interes­
-ser eller beskytte myndighetspersoner. Dette taler
-for at en del av straffeprosesslovens bestemmel­
-ser om bruk av metoder bør utvides til å gjelde
-flere lovbud enn de som omfattes av lovverket i
-dag. Forslag fra PST om endringer i straffepro­
-sessloven, og som omhandles i høringsnotatet,
-synes godt begrunnet og de bør etter Det nasjo­
-nale statsadvokatembetets mening gjennomføres i
-sin helhet, med mulig unntak for utvidelse av has­
-tekompetansen til sjefen for PST.
-Hordaland politidistrikt støtter PSTs forslag
-om å utvide adgangen til å bruke tvangsmidler til
-andre straffebestemmelser som også skal verne
-grunnleggende nasjonale interesser. Det påpekes
-at trusselbildet har endret seg siden 2005, og det
-er heller ikke opplysninger om misbruk eller
-uheldig praktisering av dagens ordning. Det leg­
-ges videre vekt på at en utvidelse til andre straffe­
-bestemmelser vil omfattes av den samme rettsik­
-kerhetskontroll utøvd av domstolen i forkant og
-av EOS-utvalget og andre kontrollinstanser i etter­
-kant av tvangsmiddelbruken.
-
-[Side 207]
-
-2015–2016
-
-Prop. 68 L
-
-207
-
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-Nordre Buskerud politidistrikt uttaler at politi­
-distriktet har begrenset erfaring i bruk av de
-tvangsmidlene PST ønsker endringer i, men at det
-generelt er viktig at PST får de hjelpemidler tje­
-nesten mener det er et saklig behov for, slik at den
-står best mulig rustet til å utføre sine oppgaver.
-Det anføres at de erfaringene PST har gjort seg
-de senere år i forbindelse med konkrete saker,
-bør veie tungt i vurderingene av om endringene
-skal gjennomføres.
-Andre høringsinstanser stiller seg avventende
-eller avvisende til forslaget om å utvide adgangen
-til å bruke tvangsmidler i forebyggende øyemed.
-Riksadvokaten slår fast at politiets oppgaver
-etter politiloven § 17 d faller utenfor Riksadvoka­
-tens ansvarsområde og er underlagt Justisdepar­
-tementet. Det påpekes at en eventuell utvidelse av
-handlinger som omfattes av bestemmelsen, vil
-utvide departementets overordnede ansvar tilsva­
-rende. Det vises for øvrig til Riksadvokatens
-høringssvar til Metodekontrollutvalget av 7. juli
-2010 punkt 11.
-Nasjonal institusjon for menneskerettigheter
-(UiO) anfører at departementet tilsynelatende
-ikke har foretatt noen vurderinger av hvordan for­
-slagene forholder seg til Norges internasjonale
-menneskerettighetsforpliktelser, og at dette er i
-strid med hva Utredningsinstruksen foreskriver.
-Det påpekes at høringsnotatet inneholder forslag
-til lovendringer som – til dels – er av svært inngri­
-pende karakter overfor enkeltindividet. Generelt
-anses PSTs ønske om lovendringer som legitimt,
-men institusjonen gjør oppmerksom på at Norges
-internasjonale forpliktelser setter skranker.
-Amnesty International påpeker at enhver bruk
-av tvangsmidler innebærer et inngrep i mennes­
-kerettigheter og vil dermed bare være akseptabelt
-i de tilfellene internasjonal menneskerettighetslov
-åpner for det. Amnesty er ikke prinsipielt kritisk
-til en utvidelse av mulige tvangsmidler for å
-avverge terrorhandlinger, dersom det bedømmes
-som nødvendig for at staten kan oppfylle sin for­
-pliktelse om å ivareta sikkerheten i samfunnet.
-Forutsetningen er imidlertid at enhver tvangsmid­
-delbruk må autoriseres, på grunnlag av gjeldende
-lover, av en kompetent uavhengig rettsinstans
-som blant annet skal bedømme om inngrepet inn­
-frir kravene om nødvendighet og er så lite omfat­
-tende som mulig.
-ICJ-Norge – Den internasjonale juristkommi­
-sjon mener forslagene i høringsnotatet er av
-svært inngripende karakter. Det anføres at kom­
-binasjonen av utvidet kriminalisering og utvi­
-dede hjemler for skjulte tvangsmidler i så vel
-etterforskningssammenheng som i forebyg­
-
-gende etterretning potensielt vil ramme store
-deler av befolkningen, uten at den enkelte har
-noen mulighet til å forutberegne når og under
-hvilke omstendigheter han eller hun kan bli gjen­
-stand for slik skjult overvåking. Dette reiser
-alvorlige spørsmål i et demokratisk samfunn,
-blant annet om borgernes rettigheter etter
-Grunnloven og EMK, særlig med hensyn til per­
-sonvern, ytringsfrihet, forsamlings- og organisa­
-sjonsfrihet og rettssikkerhet generelt.
-Utenriksdepartementet finner ikke grunnlag for
-å gi nærmere kommentarer til forslagene fra PST
-om endringer i reglene om tvangsmiddelbruk,
-annet enn å vise til betydningen av også å ta hensyn til den rettsutvikling som har funnet sted i de
-øvrige nordiske og andre europeiske land, som
-alle er bundet av Den europeiske menneskerettig­
-hetskonvensjon.
-Dommerforeningens menneskerettighetsutvalg
-mener at før det vurderes om det skal kunne tas i
-bruk tvangsmidler i forebyggende øyemed også
-for andre straffbare forhold enn de som er nevnt i
-politiloven§ 17 d, bør det dokumenteres et behov
-for bruk av tvangsmidler på et tidlig stadium også
-i slike saker. For øvrig påpekes det at det er en
-grunnleggende rettsikkerhetsgaranti at begjæ­
-ring om tvangsmiddelbruk prøves av en dommer.
-Datatilsynet slår fast at det påhviler staten å
-dokumentere at tiltak som griper inn i menneske­
-rettighetene fyller vilkårene i menneskerettighets­
-konvensjonen. Tilsynet kan ikke se at departe­
-mentet tilfredsstillende har utredet og dokumen­
-tert behovet for de øvrige lovforslagene.
-Også Politidirektoratet er av den oppfatning at
-sentrale spørsmål i høringsnotatet fremstår som
-mindre gjennomarbeidet, både når det gjelder fak­
-tiske og rettslige sider. Politidirektoratet savner
-en nærmere analyse av behovet for endringsfor­
-slagene i politiets kontraterrorarbeid.
-Den norske advokatforening mener at når det
-gjelder tvangsmiddelbruk, er det vanskelig å se at
-det foreligger noe som skulle medføre at man bør
-gå bort fra de vurderinger som ble foretatt av
-Metodekontrollutvalget.
-KROM uttaler at det er forståelig at det etter
-en så omfattende tragedie som bomben mot
-regjeringsbygget og massakren på Utøya, kom­
-mer et press om at lovverket og sikkerhetstje­
-nestens beføyelser skal kunne ta høyde for slike
-grusomheter. KROM mener imidlertid at has­
-telover bryter med de prinsipper det norske sam­
-funn og rettsstaten er bygd på, og uttaler at det
-er som om Lund-kommisjonens konklusjoner for
-lengst er glemt, eller avgrenset til fortidens
-kalde krig.
+Utvalgets flertall, medlemmene Dalseide, Elden, Husabø, Nylund, Schartum og Schou, foreslår å utvide dagens forbud mot ransaking av private hjem i forebyggende øyemed etter § 17 d annet ledd tredje punktum til også å gjelde romavlytting. Sett i lys av utvalgets forslag om å tillate visse former for dataavlesing i forebyggende øyemed, foreslås det at unntaket også skal gjelde innbrudd i privat bolig i forbindelse med gjennomføring av dataavlesing.
+
+Utvalgets mindretall, medlemmene Pedersen, Schea og Sælør, går inn for å oppheve hele tredje punktum, slik at både ransaking og romavlytting i privat bolig blir tillatt i forebyggende øyemed. Det samme gjelder innbrudd i forbindelse med dataavlesing.
+
+Utvalget foreslår dessuten at begrepet «private hjem» erstattes med «privat bolig». Dette begrunnes med at begrepet bolig er mer innarbeidet i lovgivningen for øvrig og ligger også nærmere begrepet «Hus» i Grunnloven. Det vil omfatte enhver bolig som tjener som ramme for en eller flere personers privatliv over et lengre tidsrom. I tillegg til vanlige helårsboliger, vil dette kunne gjelde fritidsboliger og mer atypiske boligformer som en husbåt.
+
+Utvalget foreslår videre at det åpnes for bruk av utleveringspålegg fremover i tid, jf. straffeprosessloven § 210 b, med hjemmel i politiloven § 17 d, som resultat av forslaget om å iverksette opphevelsen av lov om postkontroll i saker om rikets sikkerhet. Henvisningene til straffeprosessloven § 211 og § 212 om postkontroll foreslås tatt ut, da disse bestemmelsene foreslås opphevet.
+
+Utvalget foreslår dessuten at PST bør ha adgang til å gjennomføre skjult kameraovervåking av privat sted, unntatt privat bolig, som ledd i sin forebyggende virksomhet etter politiloven § 17 d. Bestemmelsen om dette er plassert i straffeprosessloven § 202 a, og omfattes dermed allerede av opplistingen i politiloven § 17 d over hvilke skjulte tvangsmidler som kan anvendes ved PSTs forebyggende virksomhet. Utvalget mener imidlertid at slik tillatelse bare bør gis når særlige grunner tilsier det, jf. annet ledd annet punktum, og det foreslås derfor at en henvisning til bestemmelsen tilføyes også her.
+
+BrøBrø*Høringsinstansenes syn*
+
+BrøBrø*Konstitusjonelle skranker*
+
+Brø*Advokatforeningen* er enig med utvalgets flertall i at forbudet mot ransaking av private hjem i politiloven § 17 d bør utvides til også å gjelde romavlytting og innbrudd i privat bolig i forbindelse med dataavlesing. Advokatforeningen finner det ikke tvilsomt at adgangen til romavlytting i privat bolig i forebyggende øyemed strider mot Grunnloven § 102.
+
+Også *KROM* er enig med flertallets vurdering når det gjelder ransaking og romavlytting i privat bolig og forholdet til Grunnloven § 102.
+
+*Datatilsynet* støtter utvalgets vurdering om at det må legges til grunn at Grunnloven § 102 er til hinder for ransaking og romavlytting i private hjem, i avvergende og forbyggende øyemed.
+
+*Oslo statsadvokatembeter* sier seg enig i flertallets vurderinger, men gir samtidig uttrykk for at utvalget i for liten grad har vektlagt de legislative hensyn som bør være sentrale i dag. Statsadvokatembetet uttaler i den sammenheng blant annet følgende:
+
+BrøBrø«Den reelle begrunnelse må være at individene skal ha et materielt vern for sitt privatliv og at dette må være utgangspunktet ved fortolkningen. Dette prinsipp er også uttrykt i E.M.K. art 8, som fastslår at alle har krav på respekt for sitt privatliv, familieliv og korrespondanse. Et tilvarende utgangspunkt har man lagt til grunn for forståelsen av 4. grunnlovstillegg i den amerikanske forfatning. Dette innebærer rimeligvis ikke at dette vernet kan være absolutt. En slik løsning vil gjøre håndhevning av lovgivningen ganske umulig.
+
+Ordlyden i Grunnloven § 102 forbyr ransakning av hus bortsett fra slike som skjer i forbindelse med straffesaker. Det sier seg selv at en nesten 200 år gammel og meget knapt formulert grunnlovstekst ikke kan fortolkes strengt etter ordlyden. Dette gjelder særlig fordi det knapt finnes forarbeider, og om slike skulle finnes må de ha nokså begrenset vekt når de skal anvendes i forhold til dagens virkelighet. Som ellers ved fortolkning av grunnlovens bestemmelser må tolkningen baseres på en avveining av ulike og delvis motstridende hensyn. Ved forståelsen av Grunnloven § 102 blir det forholdet mellom hensynet til privatlivets fred og samfunnets behov, for å sikre en rimelig effektiv etterlevelse av lovgivingen, som bør være det sentrale element i tolkningen.»
+
+Brø*Østfold politidistrikt* er enig med utvalgets mindretall i at skjulte tvangsmidler i avvergende eller forebyggende øyemed ikke er i strid med Grunnloven § 102, som forbyr husinkvisisjon i andre enn «kriminelle Tilfælde», da slik bruk faller innenfor dette begrepet.
+
+*Politidirektoratet* slår fast at tvangsmiddelbruk i forebyggende øyemed, jf. politilovens bestemmelser, er forbeholdt PST. Den grunnlovsmessige vurdering som er foretatt, og som innebærer at romavlytting i privat bolig i forebyggende øyemed anses grunnlovsstridig, berører derfor i utgangspunktet ikke det alminnelige politi, og direktoratet finner ikke grunn til å kommentere spørsmålet nærmere.
+
+*Riksadvokaten* nøyer seg med å vise til de generelle bemerkningene om Grunnloven § 102, jf. ovenfor i punkt 14.4.1.3.
+
+BrøBrø*Øvrige forhold*
+
+Brø*Politiets sikkerhetstjeneste* støtter utvalgets forslag om at PST i forebyggende øyemed skal kunne anvende utleveringspålegg fremover i tid, og uttaler:
+
+BrøBrø«En konsekvens av forslagene om opphevelse av straffeprosessloven §§ 211 og 212 samt loven om postbeslag, er at PSTs adgang til å bruke tvangsmidler innsnevres noe. Av den grunn foreslår utvalget at det i straffeprosessloven § 210 b åpnes for at PST i forebyggende øyemed kan anvende utleveringspålegg fremover i tid.
+
+PST støtter utvalgets forslag. Særlig ser vi forslaget om at det i straffeprosessloven § 210 b åpnes for at PST i forebyggende øyemed kan anvende utleveringspålegg fremover i tid, som positivt \[…\]»
+
+Brø*Riksadvokaten* har ingen avgjørende innvendinger mot at straffeprosessloven § 210 b om fremtidig utleveringspålegg inntas i oppregningen i politiloven § 17 d.
+
+*Oslo statsadvokatembeter* reiser spørsmål om politiloven § 17 d gir hjemmel for skjult ransaking hos tredjemann. Det påpekes at loven åpner for hemmelig ransaking etter straffeprosessloven § 202 a. Denne bestemmelsen henviser ikke direkte til straffeprosessloven § 192, som er hovedbestemmelsen om ransaking, men gir nærmere regler om såkalt utsatt underretning. Bestemmelsen i § 192 åpner for to hovedtyper av ransaking: hos siktede selv, jf. § 192 første ledd, og tredjemannsransaking, jf. annet ledd. Begrunnelsen for denne er primært bevissikringshensyn i forbindelse med straffesaken. Spørsmålet er ikke drøftet i forarbeidene.
+
+BrøBrø*Departementets vurdering*
+
+BrøBrø*Konstitusjonelle skranker – tvangsmidler i private hjem*
+
+BrøDepartementet vil innledningsvis bemerke at dagens adgang etter politiloven § 17 d til å benytte tvangsmidler i forebyggende øyemed er snever. Adgangen er uttrykkelig begrenset, både med hensyn til hvilke skjulte tvangsmidler som kan benyttes og alvorlighetsgraden av lovbruddene som søkes forebygget. Den omfatter kun de mest alvorlige lovbruddene innenfor PSTs ansvarsområde, nærmere bestemt terrorhandlinger, attentat mot myndighetspersoner, spionasje og ulovlig etterretning. Samtlige lovbrudd vil, direkte eller indirekte, kunne medføre en fare for tap av liv, noe som tilsier at PST har behov for virkemidler for effektivt å kunne sikre borgerne, slik det er forventet av sikkerhetstjenesten. Det bemerkes at Grunnloven §§ 93 og § 102 annet ledd nå gir statens myndigheter en plikt til å beskytte retten til liv og til å verne om den personlige integritet, herunder den enkeltes fysiske integritet.
+
+Det fremgår dessuten av § 17 d at det er strenge tilleggskrav for at tvangsmidler i forebyggende øyemed skal kunne tas i bruk, både i form av indikasjons-, subsidiaritets- og forholdsmessighetskrav, jf. bestemmelsens annet ledd. Tillatelse kan bare gis dersom det er grunn til å tro at inngrepet vil gi opplysninger av vesentlig betydning for å kunne forebygge handlingen, at forebygging ellers i vesentlig grad vil bli vanskeliggjort og inngrepet etter sakens art og forholdene ellers ikke fremstår som uforholdsmessig. Adgangen er ytterligere begrenset ved at det stilles krav om særlige grunner for at blant annet hemmelig ransaking og romavlytting skal kunne iverksettes. Dette innebærer et skjerpet forholdsmessighetskrav, som både politiet og domstolen må forholde seg til. Rettssikkerheten er ivaretatt gjennom både domstolsbehandling og etterfølgende kontroll fra EOS-utvalget.
+
+Lovgiver må nå ta stilling til om adgangen til å benytte tvangsmidler i forebyggende øyemed *i private hjem* skal *innskrenkes*, i tråd med utvalgsflertallets syn, eller *utvides*, slik mindretallet går inn for. Det er ikke ønskelig å opprettholde status quo, da forbudet mot hemmelig ransaking av private hjem følger av loven, mens begrensningen for romavlytting er gitt i instruks. Her kan det tenkes ulike alternative lovreguleringer med ulik grad av inngripen i den private sfære, som forenklet kan oppsummeres slik:
+
+BrøBrøLovgiver kan forby ransaking, romavlytting og innbrudd i forbindelse med dataavlesing i private hjem i forebyggingsøyemed.
+
+- Lovgiver kan åpne for slik tvangsmiddelbruk.
+
+- Lovgiver kan velge en mellomløsning, der det differensieres mellom de tre metodene og eventuelt også ulike lovbrudd.
+
+BrøSom nevnt ovenfor legger departementet til grunn at det av formuleringen «kriminelle tilfeller» i Grunnloven § 102 første ledd annet punktum ikke kan utledes et krav om at det allerede må være begått en straffbar handling, jf. punkt 5.1.3 og 13.4.1.4.3 ovenfor. Det bør prinsipielt sett ikke være avgjørende for grunnlovsmessigheten om en i lovgivningen taler om avverging eller forebygging, når det gjelder adgangen til å foreta inngrep i hjemmet for å forhindre *fremtidig kriminalitet*. Argumentasjonen i punkt 13.4.1.4 for å tillate tvangsmidler i avvergende øyemed, kan i stor grad også benyttes i forebyggingssakene. Dette betyr imidlertid ikke at nærheten til den straffbare handling er uten betydning for tvangsmiddeladgangen.
+
+Det fremgår av særmerknaden til straffeprosessloven § 222 d i Ot.prp. nr. 60 (2004–2005) at uttrykket «avverging» er brukt for å markere at tvangsmiddelbruken må skje som ledd i etterforskning og at handlingen som fryktes begått, ikke må ligge for langt frem i tid. Hvor det er spørsmål om å anvende tvangsmidler utenfor etterforskning, og for å forhindre straffbare handlinger som ligger lenger frem i tid, bruker departementet uttrykket «forebygging». Forskjellen i begrepsbruk markerer altså at en – når metodebruken skjer som ledd i etterforskning – i tid gjerne befinner seg nærmere handlingen som søkes forhindret enn ved forebygging, jf. Ot.prp. nr. 60 (2004–2005) punkt 6.1 side 60. Det er derfor gode grunner til å være mer restriktiv til bruk av tvangsmidler i forebyggende enn i avvergende øyemed.
+
+At Grunnloven ikke kan sies å sette en absolutt skranke for bruk av ransaking, romavlytting eller innbrudd i private hjem i forebyggende øyemed, betyr ikke at en utvidelse av tvangsmiddeladgangen er tilrådelig. Til tross for at Grunnloven ikke oppstiller et særskilt nærhets- eller aktualitetskrav til lovbruddet, mener departementet at det likevel er grunn til å skille mellom tvangsmiddelsbruk i avvergende og forebyggende øyemed, og at adgangen bør være snevrere i de sistnevnte tilfellene. Sannsynligheten for at en straffbar handling kommer til å bli begått og hvor prekært det fremstår at tvangsmidler er påkrevet for å hindre handlingen, vil være sentrale momenter i vurderingen av om et inngrep kan anses forholdsmessig.
+
+På den annen side fremgår det av PSTs siste trusselvurderinger at forberedelsestiden på for eksempel terroraksjoner er blitt kortere. Dette skyldes at ekstrem islamistisk terror i Europa de siste årene har vært preget av lite komplekse angrep, utført med våpen og virkemidler som er enkle å anskaffe og bruke, noe som medfører at angrep kan være vanskelige å forhåndsvarsle. Departementet legger til grunn at dette også medfører at grensen for når en forebyggingssak bør gå over i etterforskningssporet ikke alltid er like enkel å trekke. Nærheten til den straffbare handling bør etter departementets oppfatning ikke alene være avgjørende for metodeadgangen, jf. også Riksadvokatens høringsuttalelse:
+
+BrøBrø«Riksadvokaten kan ikke se at det er grunnlag for å innfortolke et særskilt nærhets- eller aktualitetskrav i unntaket for «kriminelle Tilfælde» i Grunnloven § 102. Selvsagt kan det ved spørsmål om å gjøre bruk av inngripende metoder i forebyggende og avvergende øyemed være god grunn til å se hen til om de aktuelle straffbare handlingene antas å være nær forestående. Men det følger ikke av dette at Grunnloven stiller et slikt krav til nærhet».
+
+BrøSom nevnt ovenfor i punkt 5.1.3, la Kontroll- og konstitusjonskomiteens saksordfører under stortingsdebatten til grunn at uttrykket «kriminelle tilfeller» verken må avgrenses mot politiets arbeid for å avverge eller forebygge kriminalitet, men at den nærmere grenseoppgangen bør gjøres i lovs form. I den forbindelse må hensynet til privatlivet på den ene siden veies mot hensynet til kriminalitetsbekjempelse og samfunnssikkerhet på den annen side, og det må konkret vurderes hvorvidt inngrepet er forholdsmessig.
+
+I det videre vil departementet skissere alternativer for regulering av tvangsmiddelbruk i forebyggende øyemed. En mulighet er altså å følge forslaget til Metodekontrollutvalgets flertall om å *utvide dagens forbud* mot ransaking av private hjem i forebyggende øyemed til også å omfatte romavlytting og innbrudd ved dataavlesing.
+
+En mulig ordlyd er:
+
+BrøBrø«Det kan ikke gis tillatelse til å ransake, *romavlytte eller ved dataavlesing å gjøre innbrudd i* noens private hjem etter bestemmelsen her.»
+
+BrøI den andre enden av skalaen kan lovgiver velge å støtte utvalgets mindretall i at hele bestemmelsen om forbud mot inngrep i private hjem bør *oppheves*, slik at både ransaking og romavlytting av bolig, i tillegg til innbrudd i forbindelse med dataavlesing eller romavlytting, kan tillates i forebyggende øyemed.
+
+Mellom disse to ytterpunktene finnes det en rekke alternative reguleringsmåter med varierende grad av inngripen i den private sfære. Det kan differensieres både mellom de ulike tvangsmidler som skal kunne benyttes og mellom ulike lovbrudd som gir grunnlag for bruk av tvangsmidlene.
+
+Et alternativ er å forby romavlytting i forebyggende øyemed, men åpne for ransaking og innbrudd ved dataavlesing.
+
+En mulig ordlyd er:
+
+BrøBrø«Det kan ikke gis tillatelse til å *romavlytte* noens private hjem etter bestemmelsen her.»
+
+BrøLovgiver kan også velge å åpne for alle de nevnte tvangsmidler, men kun ved forebygging av spesifikke lovbrudd, for eksempel terrorhandlinger, der behovet er særlig prekært.
+
+En mulig ordlyd er:
+
+BrøBrø«Det kan *bare* gis tillatelse til å ransake*, romavlytte eller ved dataavlesing å gjøre innbrudd i* noens private hjem etter bestemmelsen her *når det er rimelig grunn til å undersøke om noen forbereder en handling som nevnt i første ledd bokstav a.*»
+
+BrøDet kan også tenkes en kombinasjonsløsning, der det gis adgang til ransaking og innbrudd ved dataavlesing for alle lovbrudd som er nevnt i § 17 d, altså både i terrorsaker, spionasjesaker og attentatsaker (samt i saker om masseødeleggelsesvåpen, da departementet vil foreslå at bestemmelsen utvides til å omfatte også dette), mens adgangen til bruk av romavlytting begrenses til forebygging av terrorhandlinger.
+
+En mulig ordlyd er:
+
+BrøBrø«Det kan *bare* gis tillatelse til å *romavlytte* noens private hjem etter bestemmelsen her *når det er rimelig grunn til å undersøke om noen forbereder en handling som nevnt i første ledd bokstav a.»*
+
+BrøEt annet alternativ er å åpne for ransaking og innbrudd ved dataavlesing ved forebygging av terrorhandlinger, men samtidig forby enhver romavlytting i private hjem.
+
+En mulig ordlyd er:
+
+BrøBrø«*Det kan ikke gis tillatelse til å romavlytte noens private hjem etter bestemmelsen her.* Det kan *bare* gis tillatelse til å ransake *eller ved dataavlesing å gjøre innbrudd i* noens private hjem etter bestemmelsen her *når det er grunn til å undersøke om noen forbereder en handling som nevnt i første ledd bokstav a.»*
+
+BrøDepartementet vil foreslå at Stortinget velger en mellomløsning, da det verken anses hensiktsmessig med et generelt forbud mot, eller en ubetinget adgang til, tvangsmiddelbruk i private hjem i forebyggingsøyemed. Etter departementets oppfatning bør lovgiver differensiere mellom de tre metodene – romavlytting, ransaking og innbrudd ved dataavlesing – og også mellom de ulike lovbrudd – terrorhandlinger, spionasje og ulovlig etterretningsvirksomhet, attentat mot myndighetspersoner og ulovlig befatning med masseødeleggelsesvåpen. Slik vil det foretas en forholdsmessighetsvurdering allerede på lovgivningstidspunktet, i tillegg til den forholdsmessighetsvurdering som foretas av påtalemyndigheten og domstolen av metodebruken innenfor lovens ramme i den enkelte sak.
+
+En vurdering av et inngreps forholdsmessighet vil måtte ta i betraktning alvorligheten av det lovbruddet som søkes avverget og hvor sikre holdepunkter en har for at en slik alvorlig straffbar handling vil bli begått. Departementet understreker videre at graden av inngripen for det enkelte tvangsmiddel vil være av stor betydning for vurderingen av hvorvidt det skal være adgang til å benytte det i forebyggende øyemed.
+
+Departementet vil først sondre *mellom de ulike politimetodene*. Det kan i den sammenheng stilles spørsmål om det er forskjell i graden av inngripen for tvangsmidlene romavlytting, ransaking og innbrudd i forbindelse med dataavlesing, samt om behovet er det samme for de ulike metodene.
+
+Det bemerkes at kriminalitetskravet for bruk av romavlytting etter straffeprosessloven § 216 m er strengere enn for hemmelig ransaking etter § 200 a. Kriminalitetskravet reflekterer i en viss grad lovgivers vurdering av det enkelte tvangsmiddelets inngrep i privatlivet, slik at det er satt høye kriminalitetskrav for bruk av tvangsmidler som er ansett å være særlig inngripende. Det er følgelig grunn til å utvise stor tilbakeholdenhet med – og kreve gode begrunnelser for – en eventuell utvidelse av anvendelsesområdet for romavlytting.
+
+Som nevnt i punkt 13.4.1.4 ovenfor, har hyppig brukte metoder som kommunikasjonsavlytting og skjult ransaking tapt mye eller en del av sin effekt som følge av den teknologiske utviklingen, herunder fremveksten av ulike løsninger for informasjonsbeskyttelse, og de kriminelles tilpasning til denne. Informasjon som mistenkte tidligere kommuniserte over ubeskyttede forbindelser, formidles i dag gjerne gjennom kryptert IP-telefoni, noe som medfører at romavlytting kan gjenstå som politiets eneste virkemiddel for å sikre seg taleinformasjon.
+
+Dette vil likevel kunne stille seg annerledes dersom Stortinget beslutter å åpne for dataavlesing, jf. kapittel 14 nedenfor, som også vil kunne omfatte lydstrømmen som sendes fra en tilknyttet mikrofon eller til en tilknyttet høytaler via operativsystemets driver. Det er imidlertid en ytre grense for hva politiet skal ha anledning til å foreta seg med grunnlag i en tillatelse til dataavlesing. Det er mistenktes *bruk* av datasystemet, smarttelefonen mv. som skal kunne kontrolleres gjennom dataavlesing, og den vil ikke gi politiet adgang til å fange opp informasjon som ikke er et resultat av mistenktes bruk, for eksempel ved selv å slå på mikrofoner tilknyttet datasystemet for å fange opp lydsignaler. Slik målrettet overvåking må eventuelt foretas ved romavlytting. Selv om en eventuell adgang til bruk av dataavlesing kan avhjelpe situasjonen, vil det altså fortsatt være et restbehov for mer målrettet romavlytting.
+
+Romavlytting er kostbart og vil neppe brukes ofte i praksis, men være forbeholdt svært få og meget alvorlige tilfeller, noe som kan tilsi at færre rammes av overvåkingen. Et annet argument for å tillate romavlytting i private hjem i forebyggende øyemed er at dette vil kunne effektivisere perioden saken befinner seg i det forebyggende sporet betraktelig. Dersom det raskt verifiseres at det ikke foreligger en reell trussel, vil saken kunne avsluttes. I motsatt tilfelle vil det kunne åpnes etterforskning.
+
+Departementet vil imidlertid understreke at romavlytting representerer et av de aller mest inngripende virkemidler norsk politi har til rådighet, og utgjør et betydelig inngrep i personvernet. Dette skyldes ikke minst at det ved bruk av metoden er nær sagt uunngåelig at uskyldige tredjepersoner kan bli gjenstand for overvåking. Den omfatter dessuten en kontinuerlig overvåking over tid, i motsetning til ransaking og innbrudd, der tvangsmiddelbruken vil være forholdsvis raskt overstått. Under noe tvil har departementet derfor konkludert med at det ikke vil foreslås at det skal være adgang til å benytte romavlytting i private hjem i forebyggende øyemed. Restbehovet for å få tilgang til taleinformasjon, utover den lydstrømmen som kan fanges opp ved bruk av dataavlesing, kan etter departementets oppfatning ikke rettferdiggjøre en så vidt inngripende skjult metode som romavlytting av private hjem.
+
+Skjult ransaking av private hjem er tradisjonelt ansett å være et inngripende tvangsmiddel, noe som også er bakgrunnen for at forbudet mot ransaking av private hjem i forebyggende øyemed opprinnelig ble nedsatt, «for ikke å trå Grunnloven for nær», jf. Ot.prp. nr. 60 (2004–2005) punkt 9.4.2.4 side 132. Departementet legger imidlertid til grunn at skjult ransaking er mindre inngripende enn romavlytting av et privat hjem over tid. Som nevnt ovenfor reflekteres dette i kriminalitetskravet i tvangsmiddelbestemmelsene. En kontinuerlig overvåking av samtaler mv. i hjemmet vil høyst sannsynlig ramme uskyldige familiemedlemmer, og inngrepet i den private sfære er således betydelig. Det vises for øvrig til betenkningen fra Høgberg/Stub punkt 3.5.3 på side 437 i utredningen, der det heter:
+
+BrøBrø«I mange tilfeller vil romavlytting være klart mer inngripende enn ransaking. Dette skyldes først og fremst at romavlytting ofte blottlegger den avlyttedes privatliv på en mer intensiv måte enn annen metodebruk.»
+
+BrøSamtidig vil politiet ved en ransaking av boligen kunne avsløre om det oppbevares for eksempel våpen, sprengstoff, kontaktlister, kart eller planer der som kan settes i forbindelse med fremtidige alvorlige lovbrudd, noe som tilsier at et slikt tvangsmiddel vil kunne være svært nyttig for politiet og ha stor effekt. Det vil også kunne være nødvendig for å forebygge mot terrorhandlinger i den enkelte sak.
+
+Departementet anser i utgangspunktet skjult ransaking for å være mer inngripende enn et innbrudd for å montere dataavlesingsutstyr. Dette kan selvfølgelig være avhengig av hvor omfattende undersøkelser politiet må foreta for å oppfylle formålet med ransakingen og hvor mye politiet må lete for å finne det datautstyret som skal avleses. Det siste vurderes likevel som et mer målrettet og mindre inngrep i den private sfære.
+
+Departementet trekker i retning av å avgrense tvangsmiddeladgangen mot romavlytting av private hjem i forebyggingssakene, men å åpne for skjult ransaking og innbrudd ved dataavlesing. Departementet konkluderer med at selv om ransaking og innbrudd ved dataavlesing i private hjem er inngripende metoder som kan ha konsekvenser for tredjeparter, så er faren for liv, helse og sikkerhet ved at man ikke får forebygget de meget alvorlige lovbrudd som hjemler slik tvangsmiddelbruk så stor at en viss inngripen i det private hjem kan anses nødvendig, forholdsmessig og innenfor Grunnlovens skranker.
+
+Videre er det hensiktsmessig å differensiere *mellom de ulike lovbrudd* hvor politiloven § 17 d åpner for metodebruk i forebyggende øyemed. Et inngrep i den enkelte borgers hjem bør forbeholdes de kvalifisert alvorligste lovbrudd.
+
+PST har gitt signaler om at det er ønskelig å benytte alle metodene (også romavlytting), ved samtlige lovbrudd som nevnes i første ledd. Det anføres i den anledning at et slikt tvangsmiddel ville vært viktig i saker om spionasje og ulovlig etterretning, der det kan sies å være «profesjonelle spillere» som aksepterer yrkesrisikoen og som ikke bør tilgodeses samme personvern som øvrige borgere. Videre anfører PST at det i disse utenrikspolitisk urolige tider, med blant annet konflikten i Ukraina som bakteppe, er viktig å sikre de hemmelige tjenester tilstrekkelige verktøy til å kunne oppfylle de oppgaver tjenestene er tildelt.
+
+Departementet mener at det er grunn til å utvise stor tilbakeholdenhet med å utvide adgangen til tvangsmiddelbruk i forebyggende øyemed. Behovet synes imidlertid å være størst når det gjelder å forebygge terrorhandlinger, jf. § 17 d første ledd bokstav a, der faren for tap av mange menneskeliv er betydelig.
+
+PST og Etterretningstjenesten har tidligere varslet om en negativ utvikling i trusselbildet når det gjelder terror, jf. punkt 4.5 ovenfor. I oktober 2015 uttalte PST at sannsynligheten for terrorangrep fra ISIL-sympatisører er noe redusert. Dette skyldes primært at de norske ekstremistmiljøene er svekket, da 18 personer fra miljøene mest sannsynlig er drept i Syria, mens 9 er varetektsfengslet og siktet for terrorrelatert kriminalitet. Også i *Åpen trusselvurdering 2016* fremgår det at terrortrusselen er forsiktig nedjustert. Utviklingen fremover vil likevel være ustabil og usikker. Den økte tilstrømningen av flyktninger og asylsøkere til Norge kan få negative følger for trusselbildet knyttet til både det høyre- og venstreekstreme miljøet i Norge. På lengre sikt er det dessuten mulig at enkelte asylsøkere vil kunne utgjøre en terrortrussel i Norge, fordi de kan være en sårbar gruppe for radikalisering.
+
+Departementet mener at spørsmålet også må ses i lys av den senere tids terroraksjoner, herunder i Paris fredag 13. november 2015. Selv om politiets adgang til metodebruk ikke skal bestemmes av enkelthendelser, mener departementet at det, i lys av de senere års terroraksjoner, tegner seg et bilde av et Europa som vil oppleve slike angrep fra ISIL og andre ekstremistgrupper med ujevne mellomrom. Dette kan således synes å være et mønster eller et generelt utviklingstrekk snarere enn en tragisk enkelthendelse. Departementet mener at det er viktig at sikkerhetstjenesten kan benytte tvangsmidler for å forebygge slike alvorlige lovbrudd, all den tid tvangsmiddelbruken har tilstrekkelig hjemmel, forfølger et legitimt formål og er forholdsmessig.
+
+Departementet konkluderer med at lovgiver bør differensiere både mellom de ulike metodene og de ulike lovbruddene ved fastsettelsen av tvangsmiddeladgangen i forebyggingssakene. Nærmere bestemt foreslår departementet at det under visse vilkår åpnes for skjult ransaking og innbrudd ved dataavlesing for å forebygge terrorhandlinger, i motsetning til øvrige lovbrudd angitt i § 17 d, samt at enhver romavlytting i private hjem i forebyggende øyemed forbys. Det understrekes at påtalemyndigheten og domstolen i tillegg må foreta en forholdsmessighetsvurdering i den enkelte sak, og blant annet se hen til hvor sikre holdepunkter en har for at en terrorhandling vil kunne bli begått.
+
+Departementet foreslår etter dette følgende ordlyd:
+
+BrøBrø«*Det kan ikke gis tillatelse til å romavlytte noens private hjem etter bestemmelsen her.* Det kan *bare* gis tillatelse til *å ransake eller* *ved dataavlesing å gjøre innbrudd i* noens private hjem etter bestemmelsen her *når det er grunn til å undersøke om noen forbereder en handling som nevnt i første ledd bokstav a.»*
+
+BrøFor øvrig støtter ikke departementet utvalget i at begrepet «private hjem» bør erstattes med «privat bolig». Det bemerkes i den anledning at Stortinget har valgt å benytte begrepet «hjem» i Grunnloven § 102 første ledd første punktum.
+
+BrøBrø*Fremtidig utleveringspålegg*
+
+BrøEt annet spørsmål er om det skal åpnes for utleveringspålegg fremover i tid i forebyggende øyemed med hjemmel i politiloven § 17 d. Etter straffeprosessloven § 210 b kan retten ved kjennelse pålegge den som i fremtiden vil få besittelsen av en ting som antas å ha betydning som bevis, å utlevere tingen til politiet straks den mottas. Forskjellen fra vanlig utleveringspålegg etter § 210 er at det dreier seg om ting som den pålegget retter seg mot, vil få besittelsen av *i fremtiden*, og det gjelder et skjerpet kriminalitetskrav, jf. punkt 10.3 om fremtidig utleveringspålegg.
+
+Hvilke tvangsmidler som skal kunne benyttes i PSTs forebyggende virksomhet ble drøftet i Ot.prp. nr. 60 (2004–2005) punkt 9.4.2.3 side 131. Departementet slo uttrykkelig fast at pågripelse og varetektsfengsling (jf. straffeprosessloven kapittel 14), båndlegging av formuesgoder (kapittel 15 b), heftelse (kapittel 17) og besøksforbud (kapittel 17 a) ikke skulle kunne anvendes utenfor etterforskning. Departementet vurderte deretter særskilt om det vil rekke for langt å åpne for bruk av romavlytting i forebyggende øyemed, men gikk inn for å tillate dette på særlig strenge vilkår. Videre heter det:
+
+BrøBrø«Departementet går inn for at de øvrige tvangsmidlene som nevnt i straffeprosesslovens fjerde del skal kunne anvendes i hemmelighet av PST i forebyggende øyemed. Departementet antar at alminnelig (åpen) bruk av tvangsmidler, som for eksempel ransaking og beslag (ransaking unntatt § 200 a og beslag unntatt § 208 a), svært sjelden vil være aktuelt i praksis, og ser ikke behov for også å foreslå at det skal være adgang til åpen bruk av disse tvangsmidlene. Departementet har lagt stor vekt på at tjenesten selv ikke ser noe praktisk behov for slike regler.»
+
+BrøDet kan stilles spørsmål om utelatelsen av fremtidig utleveringspålegg i oppregningen over tillatte tvangsmidler i politiloven § 17 d første ledd, var tilsiktet. Det er intet i bestemmelsens forarbeider som tyder på dette. Departementet støtter utvalget og foreslår at fremtidig utleveringspålegg inntas i oppregningen over tillatte tvangsmidler i politiloven § 17 d. Departementet mener at en slik utvidelse er hensiktsmessig uavhengig av om reglene om postbeslag og postkontroll oppheves, jf. punkt 10.6 og 10.7, og den vil gi PST en ytterligere valgmulighet når det gjelder bruk av tvangsmiddel.
+
+Departementet vil imidlertid bemerke at det riktige synes å være å innta en henvisning til straffeprosessloven § 210 c, som omhandler utsatt underretning ved fremtidig utleveringspålegg etter § 210 b. Som nevnt ovenfor ga departementet i Ot.prp. nr. 60 (2004–2005) punkt 9.4.2.3 side 131 uttrykk for at det kun var behov for å benytte slike tvangsmidler «i hemmelighet», og det avgrenses således mot alminnelig, åpen bruk av tvangsmidler. Det følger av ordlyden i politiloven § 17 d at bestemmelsen åpner for beslag og utleveringspålegg i kombinasjon med utsatt eller unnlatt underretning, jf. henvisningen til §§ 208 a og 210 a. Det foreslås etter dette at straffeprosessloven § 210 c om utsatt underretning ved fremtidig utleveringspålegg inntas i oppregningen i politiloven § 17 d.
+
+BrøBrø*Skjult ransaking*
+
+BrøNår det gjelder spørsmålet om politiloven § 17 d gir hjemmel for skjult ransaking også hos tredjemann, kan dette besvares bekreftende. Det faktum at det vises til straffeprosessloven § 200 a om utsatt underretning, ikke direkte til straffeprosessloven § 192, som er hovedbestemmelsen om ransaking, er uten betydning. Som det fremgår ovenfor, er dette lovens system for å markere at det gjelder skjult, og avgrenses mot åpen, bruk av tvangsmidler. Det følger for øvrig også av § 200 a første ledd at bestemmelsen gjelder «ransaking \[…\] uten underretning til den mistenkte eller andre».
+
+BrøBrø*Skjult kameraovervåking*
+
+BrøDepartementet kan i det vesentlige slutte seg til utvalgets vurderinger når det gjelder skjult kameraovervåking i avvergende og forebyggende øyemed. En mener således at det bør være adgang til overvåking både på eller fra offentlig sted og på privat sted som ikke er privat hjem, også for å forebygge eller avverge alvorlige straffbare handlinger, jf. kapittel 12 om kameraovervåking. Bestemmelsen om skjult kameraovervåking er plassert i straffeprosessloven § 202 a, og omfattes dermed allerede av opplistingen i politiloven § 17 d over hvilke skjulte tvangsmidler som kan anvendes ved PSTs forebyggende virksomhet. Departementet foreslår at det skjerpede forholdsmessighetskravet (særlige grunner) også skal gjelde for adgang til kameraovervåking på privat sted og for dataavlesing, jf. punkt 13.5.6.4 nedenfor.
+
+BrøBrø**Supplerende vilkår**
+
+BrøBrø*Gjeldende rett*
+
+BrøYtterligere vilkår oppstilles i § 17 d annet ledd, som krever at det må være «grunn til å tro at inngrepet vil gi opplysninger av vesentlig betydning for å kunne forebygge handlingen» (indikasjonskravet), at forebygging «ellers i vesentlig grad vil bli vanskeliggjort» (subsidiaritetskravet) og at «inngrepet etter sakens art og forholdene ellers ikke fremstår som uforholdsmessig». Uttrykket «det er grunn til å tro» kom inn under stortingsbehandlingen som en erstatning for det av departementet foreslåtte uttrykk «det må antas». Komiteens flertall understreket at det må foreligge objektive holdepunkter for at inngrepet vil gi opplysninger av vesentlig betydning, jf. Innst. O. nr. 113 (2004–2005) punkt 9.2 side 35. Den eksplisitte forholdsmessighetsbegrensningen er inkludert fordi politiloven ikke inneholder noen generell regel tilsvarende straffeprosessloven § 170 a. For at hemmelig ransaking, teknisk sporing av person, kommunikasjonsavlytting eller romavlytting skal kunne brukes er det oppstilt et skjerpet forholdsmessighetskrav, ved at det i tillegg kreves at «særlige grunner» tilsier det.
+
+BrøBrø*Utvalgets forslag*
+
+BrøUtvalget foreslår å utvide det skjerpede forholdsmessighetskravet i politiloven § 17 d annet ledd annet punktum til også å gjelde kameraovervåkning etter straffeprosessloven § 202 a annet ledd. Utover dette foreslår ikke utvalget noen endringer i indikasjons-, subsidiaritets- og forholdsmessighetskravene, eller i domstolens kontroll med om disse er oppfylt.
+
+BrøBrø*Høringsinstansenes syn*
+
+BrøIngen av høringsinstansene uttaler seg om utvalgets forslag.
+
+*Oslo statsadvokatembeter* kommer imidlertid med noen generelle betraktninger om indikasjons-, subsidiaritets- og forholdsmessighetskravet. Om indikasjonskravet uttales det at loven oppstiller et vesentlighetskrav som må være nesten umulig å oppfylle. Det gis uttrykk for at det er vanskelig å forstå at en på forhånd kan ha noen begrunnet oppfatning om for eksempel den aktuelle personen skal komme med informasjon av vesentlig betydning for å kunne forebygge en handling. Om subsidiaritetskravet hevdes det at dersom man besitter et godt grunnlagsmateriale, vil dette kunne medføre at domstolen vil avslå bruk av tvangsmidler hvis man på annen måte kan skaffe seg informasjon. Oslo statsadvokatembeter mener videre at dersom inngangsmaterialet er usikkert, vil det være ytterst vanskelig å ha noen oppfatning av hvorvidt indikasjonskravet og subsidiaritetskravet er oppfylt, og at disse to vurderingstemaene forutsetter at dommeren har kunnskaper om politimetoder som de færreste dommere vil inneha. Det gis uttrykk for at domstolen stilles overfor en ganske håpløs situasjon ved å oppstille slike strenge og delvis motstridende krav i loven. Dersom lovens skjønnstema skal følges, vil dette innebære at en begjæring vil være vanskelig å etterkomme. På den annen side vil et avslag og en etterfølgende terrorhandling medføre at domstolen tillegges et «ansvar» som den egentlig ikke skal ha. Oslo statsadvokatembeter mener at loven reelt sett gir uttrykk for en dobbeltkommunikasjon. Det uttales videre at det ikke er helt enkelt å forstå at forholdsmessighetsvurderingen kan få særlig selvstendig betydning. Oslo statsadvokatembeter mener det er vanskelig å forestille seg at en begjæring skal avslås som et uforholdsmessig inngrep dersom det som skal forhindres er en terrorhandling eller voldsforbrytelse mot medlemmer av regjeringen eller Stortinget.
+
+BrøBrø*Departementets vurdering*
+
+BrøEt spørsmål er om skjult kameraovervåking på privat sted etter § 202 a nytt annet ledd bør likestilles med hemmelig ransaking, teknisk sporing av person, kommunikasjonsavlytting og romavlytting, slik at det oppstilles et skjerpet forholdsmessighetskrav. Utvalget mener at skjult kameraovervåking på privat sted må anses som et svært inngripende tiltak, som bare bør kunne skje på strenge vilkår. Etter utvalgets forslag skal slik overvåking kunne iverksettes i samme typer saker som kan gi grunnlag for kommunikasjonsavlytting etter straffeprosessloven § 216 a. Som nevnt i kapittel 12 anser departementet dette for å være et riktig utgangspunkt, som sikrer at en så vidt inngripende etterforskningsmetode bare kan benyttes i saker som gjelder alvorlig kriminalitet, samt ved lovbrudd som reiser særlige etterforskningsmessige utfordringer. Dette trekker i retning av at også de supplerende vilkårene bør tilsvare vilkår for bruk av slike inngripende tvangsmidler.
+
+Departementet ser for øvrig at det er et tankekors at domstolen, til tross for de strenge inngangsvilkår som ligger til grunn for å tillate bruk av tvangsmidler i forebyggende øyemed, likevel kan hevdes å ha begrenset reell mulighet til å overprøve de vurderinger som er foretatt av PST. Dette ble også påpekt av departementet da regelen ble foreslått, jf. Ot.prp. nr. 60 (2004–2005) punkt 9.4.3.2 side 133:
+
+BrøBrø«\[…\] Det er et dilemma at domstolene, især når PST ber om tillatelse til hemmelig bruk av tvangsmidler, i relasjon til enkelte av vilkårene reelt sett vil ha begrensede muligheter til å etterprøve det faktiske grunnlaget som PST baserer sin begjæring på. Dette vil særlig gjelde vilkårene om at opplysningene må være av vesentlig betydning for å kunne forebygge den aktuelle straffbare handlingen, og om avverging ellers i vesentlig grad vil bli vanskeliggjort.\[…\] Enkelte vilkår for bruk av tvangsmidler i forebyggende øyemed kan imidlertid lettere prøves selvstendig av domstolene, som for eksempel kravet til forholdsmessighet og vilkåret om særlige grunner.»
+
+BrøDepartementet mener at kravet om forhåndstillatelse fra domstolene virker disiplinerende på PST, og gir bedre rettssikkerhet og personvern enn om det ikke skulle kreves slik tillatelse fra retten. Ordningen vil i størst grad sikre kravet til uavhengighet, objektivitet og saklighet og dermed ivareta rettssikkerheten på best mulig måte. Dagens kontrollsystem bør etter dette opprettholdes. For øvrig vises det til punkt 6.3.4.
+
+BrøBrø**Bevis**
+
+BrøBrø*Gjeldende rett*
+
+BrøI politiloven § 17 f finnes regler om taushetsplikt ved bruk av tvangsmidler i forebyggende øyemed. Bestemmelsen er basert på straffeprosessloven § 216 i første ledd første og annet punktum, og skal forstås på samme måte, jf. Ot.prp. nr. 60 (2004–2005) side 153. Når det er snakk om å gjøre bruk av opplysningene som bevis under rettergang, snevres adgangen ytterligere inn sammenlignet med bruk i forebyggende øyemed og under etterforskning, jf. § 17 f annet ledd bokstav a og b. Det er kun adgang til å bruke opplysningene som bevis for en terrorhandling, jf. straffeloven §§ 131, 133 og 134 (straffeloven 1902 § 147 a), jf. § 17 f annet ledd bokstav c. Dersom det er nødvendig å nytte tvangsmidler for å skaffe til veie bevis i andre saker som PST har ansvaret for å etterforske, må det skje ved bruk av hjemlene i straffeprosessloven. En sak om for eksempel terrorfinansiering kan derfor ikke baseres på bevis innhentet etter bestemmelsene i §§ 17 d flg.
+
+BrøBrø*Utvalgets forslag*
+
+BrøUtvalgets mindretall foreslår å oppheve adgangen til å kunne bruke opplysninger som er innhentet ved bruk av forebyggende tvangsmidler som bevis for en terrorhandling, jf. politiloven § 17 f andre ledd bokstav c. Dette begrunnes med et ønske om å holde de to sporene for informasjonsinnhenting atskilt. Utvalgets flertall er derimot enig i den vurderingen som lå til grunn for å tillate slik bevisførsel i terrorsaker. Utvalget refererer departementets begrunnelse slik:
+
+BrøBrø«\[E\]n begrensning i bevisføringsmuligheten etter en terrorhandling der en rekke menneskeliv var gått tapt, ville kunne virke støtende på den alminnelige rettsbevissthet».
+
+BrøEtter flertallets oppfatning gjør imidlertid ikke departementets begrunnelse seg gjeldende ved forbund om terror etter straffeloven 1902 § 147 a fjerde ledd (straffeloven § 133 første ledd). Utvalgets flertall foreslår å begrense adgangen til å bruke opplysninger innhentet ved skjult tvangsmiddelbruk som ledd i PSTs forebyggende virksomhet som bevis for handlinger som omfattes av straffeloven 1902 § 147 a første og tredje ledd om terrorhandling og trussel om terrorhandling (straffeloven §§ 131 første jf. annet ledd og 134).
+
+Utvalget foreslår også en presisering av at brudd på taushetsplikten etter bestemmelsen kan straffes etter straffeloven 1902 § 121 (straffeloven § 209), og at dette også gjelder personer som ikke er i tjeneste eller arbeid for statlig eller kommunalt organ. Også personer utenfor politiet eller påtalemyndigheten som får kjennskap til tvangsmiddelbruken, for eksempel ansatte hos teletilbyderne, vil dermed kunne straffes for brudd på taushetsplikten. Utenforstående bør imidlertid gjøres oppmerksom på denne muligheten, jf. også straffeprosessloven § 61 c siste ledd siste punktum.
+
+BrøBrø*Høringsinstansenes syn*
+
+BrøDepartementet har ikke mottatt noen høringsuttalelser om dette.
+
+BrøBrø*Departementets vurdering*
+
+BrøDet er lagt strenge bånd på adgangen til å ta i bruk opplysninger innhentet ved bruk av forebyggende tvangsmidler som bevis i en straffesak. Dette har bakgrunn i et ønske om å unngå at rettssikkerhetsgarantier i strafforfølgningen blir undergravet ved at det oppstår et press i retning av å benytte forebyggende tvangsmidler i stedet for bruk av tvangsmidler som ledd i etterforskning, jf. Ot.prp. nr. 60 (2004–2005) punkt 9.4.4.1 side 135.
+
+Fra utgangspunktet om at opplysninger som er innhentet ved bruk av tvangsmidler ikke skal kunne brukes som bevis under hovedforhandlingen i en straffesak, foreslo departementet likevel at det skulle gjøres unntak for terrorhandlinger, jf. straffeloven 1902 § 147 a (straffeloven §§ 131–134). Departementet uttalte i den forbindelse:
+
+BrøBrø«Dersom det ikke skulle lykkes å forebygge en terrorhandling som i verste fall kan lede til at en rekke mennesker mister livet, kan det støte an mot den alminnelige rettsbevissthet om det ikke skulle være mulig å føre opplysningene som bevis i en etterfølgende straffesak.»
+
+BrøDepartementet bemerker at det er en nyanseforskjell mellom utvalgets gjengivelse av begrunnelsen (*at menneskeliv var gått tapt*) og departementets faktiske begrunnelse (*at handlingen i verste fall kan lede til at mennesker mister livet*). Den siste formuleringen synes i større grad å rettferdiggjøre et unntak der bevis også tillates ført i saker vedrørende forbund om terror. Det vil også kunne støte an mot den alminnelige rettsbevissthet dersom politiet avdekker at det er inngått forbund om terrorhandlinger og slik avverger handlinger som kunne føre til at menneskeliv går tapt, uten å kunne bruke opplysningene som bevis i en straffesak. Departementet ønsker ikke på nåværende tidspunkt, uten støtte i høringsuttalelser, å innsnevre adgangen til å føre opplysninger innhentet ved bruk av forebyggende tvangsmidler som bevis i straffesak.
+
+Departementet bemerker ellers at § 17 f ble tilføyd et nytt fjerde ledd ved lovendring 15. april 2011 nr. 11, som gjør overtredelse av bestemmelsen om taushetsplikt straffbar etter straffeloven 1902 § 121 også for personer som ikke er i tjeneste eller arbeid for statlig eller kommunalt organ. Lovendringen er en del av gjennomføringen av EUs datalagringsdirektiv og er ennå ikke trådt i kraft. Det er således presisert at overtredelse av taushetsplikten etter denne bestemmelsen kan straffes etter straffeloven, og at dette også gjelder for personer som ikke er i tjeneste eller arbeid for statlig eller kommunalt organ, dersom vedkommende er gjort oppmerksom på at overtredelsen kan straffes.
+
+BrøBrø**Underretning**
+
+BrøVed bruk av skjulte tvangsmidler i forebyggende øyemed etter politiloven er det etter *gjeldende rett* ikke krav til underretning. Dette følger av politiloven § 17 e annet ledd tredje punktum. Om dette heter det i Ot.prp. nr. 60 (2004–2005) Punkt 9.4.3.2 side 134:
+
+BrøBrø«Når det gjelder spørsmålet om underretning, er departementet imidlertid enig med flertallet i utvalget og Politidirektoratet i at særtrekkene ved den forebyggende virksomheten gjør at underretning ikke bør gis. Forslaget til § 17 e annet ledd er utformet i samsvar med dette.»
+
+Brø*Utvalget* foreslår å endre politiloven § 17 e annet ledd slik at den inngrepet etter § 17 d retter seg mot, har krav på underretning etter at bruken av tvangsmiddelet har opphørt. Utvalget mener at en underretningsplikt er best i samsvar med Norges menneskerettslige forpliktelser.
+
+De to *høringsinstansene* som har uttalt seg, har innvendinger mot forslaget. *PST* bemerker følgende:
+
+BrøBrø«Utvalgets forslag vil få store konsekvenser for PST. Forslaget rokker ved en helt avgjørende premiss for en sikkerhetstjeneste – muligheten til å bevare taushet om hvem virksomheten rettes mot. Det er PSTs vurdering at underretning alltid vil kunne være til vesentlig skade for PST, og det er derfor avgjørende at tvangsmiddelbruk i regi av PST også i fremtiden skal kunne forbli skjult.
+
+Det synes videre noe usikkert hvilke generelle rettsetninger som kan utledes fra de konkrete og situasjonsbetingende avgjørelser som utvalget har redegjort for fra den europeiske menneskerettighetsdomstol. En ren språklig forståelse av de sitater som er hentet fra EMD-avgjørelsene, synes ikke å gå lenger enn til å si at den som er utsatt for tvangsmiddelbruk i ettertid *burde* bli gjort kjent med tvangsmiddelbruken.
+
+På denne bakgrunn vil PST fremheve viktigheten av en ordning med unnlatt underretning må kunne videreføres såfremt dette, slik som i dag, balanseres av virkemidler som sikrer rettsikkerheten for den som er utsatt for tvangsmiddelbruken. Ikke bare er den som utsettes for tvangsmiddelbruk i dag representert gjennom en egen advokat i forhold til om vilkårene for tvangsmiddelbruken er tilstede. I tillegg etterkontrollerer EOS-utvalget at vilkårene for tvangsmiddelbruken rent faktisk etterfølges og at opplysninger fra tvangsmiddelbruken brukes etter forutsetningene.»
+
+BrøVidere fremhever Politiets sikkerhetstjeneste at det er viktig at spørsmålene om underretning utredes videre i forhold til deres særskilte behov.
+
+*Oslo statsadvokatembeter* uttaler følgende:
+
+BrøBrø«Hva gjelder PST's saksområde er man enig med utvalget at det her gjør seg særlige hensyn gjeldende. Disse er imidlertid knyttet til utenlandske institusjoner i Norge. Her oppstår det spesielle problemstillinger hva gjelder bruk av tvangsmidler. En vil her likevel peke på at det kunne gis en særskilt lovhjemmel som gjelder bruk av kommunikasjonskontroll i forhold til disse. Dette er en løsning som er valgt i enkelte land. Hva gjelder norske statsborgere og personer med fast bopel i Norge, bør disse falle inn under de generelle regler som foreslås av utvalget.»
+
+Brø*Departementet* mener fortsatt at særtrekkene ved den forebyggende virksomheten som regel vil gjøre det nødvendig å holde opplysninger om bruken av tvangsmidlet og opplysningene som bruken resulterte i, hemmelig for den som ble utsatt for inngrepet. Det foreslås å videreføre PSTs adgang til å unnlate underretning om bruk av skjulte tvangsmidler i forebyggende øyemed, jf. punkt 6.10.6.2 ovenfor.
+
+Departementet vil fremheve at PST skal etterforske og forebygge straffbare handlinger som truer sikkerheten i samfunnet eller grunnleggende samfunnsinstitusjoner, jf. politiloven § 17 b. Ofte begås slike handlinger av lukkede og profesjonelle miljøer. For personer med planer om å begå så alvorlige straffbare handlinger, antas straffens allmennpreventive effekt å spille en begrenset rolle. Dette gjør forebyggingsarbeidet særdeles viktig. Kjernen i sikkerhetstjenestens virksomhet er å oppdage mulige trusler mot samfunnssikkerheten tidligst mulig, og helst lenge før hendelsesforløpet har kommet så langt at grensen for det straffbare er nådd. I Ot.prp. nr. 60 (2004–2005) punkt 9.4.3.2 side 134 og 153 la departementet til grunn at særtrekkene ved denne forebyggende virksomheten som regel gjør det nødvendig å bevare metodebruken hemmelig for den som er utsatt for inngrepet.
+
+Departementet er fremdeles av den oppfatning at det er grunn til å særbehandle PSTs forebyggende arbeid, slik at det fortsatt bør være adgang til å unnlate underretning her. Departementet kan ikke se at dette er i strid med EMK artikkel 8. Bruken av skjulte metoder i forebyggende øyemed kontrolleres av domstolene og den offentlig oppnevnte advokaten i forkant, og i etterkant av Justisdepartementet som overordnet myndighet for Politiets sikkerhetstjeneste og av EOS-utvalget. Det må også tas i betraktning at tillatelse gis på strenge vilkår og at adgangen til skjult tvangsmiddelbruk i forebyggende øyemed gjelder for et meget begrenset saksområde; terrorhandlinger, ulovlig etterretningsvirksomhet og de mest alvorlige formene for vold eller trusler mot representanter for våre øverste statsmyndigheter eller representanter for tilsvarende organer i andre land. Slike oppgaver tør være i kjernen for den nasjonale handlefrihet, se punkt 6.10.6.1 som refererer dommen *Klass mot Tyskland*, avsnitt 58. Ut fra det foreliggende fra EMD, mener departementet at det – særlig på dette området – er grunn til å være varsom med å innfortolke absolutte skranker i EMK artikkel 8.
+
+Departementet går etter dette inn for å videreføre regelen i politiloven § 17 e om at den tvangsmidlet retter seg mot, ikke har krav på underretning etter at tvangsmiddelbruken har opphørt.
+
+BrøBrø**Dataavlesing**
+
+BrøBrø**Hva er «dataavlesing»?**

@@ -1,822 +1,156 @@
-# Prop. 146 L (2020–2021), del 10 av 18 (side 105–114)
+# Prop. 146 L (2020–2021), del 10 av 22
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2021/453140c0-prop-146-l-20202021.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-146-l-20202021/id2842936/
 - Original-PDF: https://www.regjeringen.no/contentassets/31813156b60a47eeb3c2aff703c50db4/no/pdfs/prp202020210146000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 1 tabell, 21 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 105]
-
-2020–2021
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-økonomiske og administrative konsekvenser for
-domstolene.
-Politidirektoratet redegjør for innspill fra flere
-politidistrikt:
-«Vest politidistrikt stiller spørsmål ved om det
-vil bli flere varetektsfengslinger enn i dag når
-fristen for fremstilling settes kortere enn etter
-gjeldende rett. Distriktet viser til at det i dag
-gjøres betydelig etterforskning i den enkelte
-sak med en pågrepet for å unngå å måtte fremstille den pågrepne. Vest politidistrikt trekker
-frem at om forslaget blir vedtatt, vil fengslingsspørsmålet kunne måtte tas stilling til på et tynnere grunnlag enn i dag. Oslo politidistrikt viser
-til at enkelte saker er såpass omfattende og
-komplekse eller har en utvikling som gjør det
-nødvendig å ha fremstilling på den tredje
-dagen etter pågripelse. Sør-Vest politidistrikt
-fremholder at den foreslåtte fengslingsfristen
-har gode grunner for seg, men påpeker at den
-vil være meget ressurskrevende for politi og
-domstol. Agder politidistrikt antar endringen
-som forslaget innebærer er nødvendig for å ivareta de internasjonale menneskerettighetsforpliktelser. Innlandet politidistrikt støtter forslaget. Nordland politidistrikt ser forslaget til
-fremstillingsfrist som klargjørende når det
-hensyntas rettspraksis og retningslinjer fra
-riksadvokaten. Øst politidistrikt ser ingen
-betenkeligheter knyttet til forslaget, men påpeker at forslaget vil medføre økonomiske konsekvenser for domstolene, som må ha en aktiv
-vaktordning i helgene.»
-Politidirektoratet selv mener det i enkelte kompliserte saker bør være adgang til å kunne fremstille
-den pågrepne senere enn 48 timer etter pågripelsen, men at det kan være vanskelig å utforme en
-lovbestemmelse som ivaretar alle relevante hensyn:
-«Politidirektoratet erkjenner at det vil være
-utfordrende å utforme bestemmelsen slik at
-den fastslår hovedregelen om fremstilling snarest mulig, er pedagogisk nok hva gjelder 48timers fristen, og samtidig åpner for den nødvendige fleksibilitet. Da det ikke er gjort unntak for domstolloven § 149 i forslaget, vil Politidirektoratet fremheve at det uansett utforming
-av bestemmelsen vil det være behov for at domstolene åpner for fengsling på helgedager og
-helligdager. Det må åpnes for praktikable og
-hensiktsmessige løsninger slik at 48-timers
-regelen kan overholdes.»
-
-103
-
-12.5 Forslagene i høringsnotatet fra
-2018 og høringsinstansenes syn
-12.5.1 Forslagene i høringsnotatet
-Som oppfølging av Straffeprosessutvalgets forslag
-om kortere fremstillingsfrist for fengsling, foreslo
-departementet i høringsnotat 21. juni 2018 en innstramming av fremstillingsfristen i straffeprosessloven § 183 første ledd. Det ble fremsatt to
-alternative forslag til hvordan bestemmelsen kan
-formuleres, se høringsnotatet punkt 2.5.3 side 13.
-Forslaget omtalt som alternativ 1 krever at
-fremstilling for retten må skje «snarest mulig og
-senest andre dagen etter pågripelsen», og tilsvarer Straffeprosessutvalgets forslag. Forslaget
-reduserer lengstefristen for fremstilling fra den
-tredje til den andre dagen etter pågripelse, men vil
-åpne for fremstilling senere enn 48 timer – etter
-sin ordlyd opp til 72 timer.
-Det ble påpekt i høringsnotatet at en bestemmelse formulert i tråd med alternativ 1 vil kunne
-være utilstrekkelig med hensyn til å forebygge
-konvensjonsbrudd, dersom det legges til grunn at
-SP artikkel 9 nr. 3 krever at fremstilling som
-hovedregel ikke kan skje senere enn 48 timer etter
-pågripelsen og ikke uten en særlig begrunnelse,
-se høringsnotatet punkt 2.5.3 side 14. Departementet drøftet tolkningsspørsmålet i høringsnotatets punkt 2.5.2 side 10, og fant det «noe tvilsomt»
-om det fra SP artikkel 9 nr. 3 kan utledes en slik
-hovedregel. Blant annet fremstod det for departementet uklart om FNs menneskerettighetskomité
-i General Comment nr. 35 (CCPR/C/GC/35)
-avsnitt 33 uttrykker at fremstilling som hovedregel
-må skje innen 48 timer, eller om komitéen beskriver en retningsgivende standard statene bør – men
-ikke må – rette seg etter.
-Uavhengig av hvordan de konvensjonsmessige forpliktelsene må forstås, mente departementet at det kan foreligge gode grunner for å rette
-seg etter FNs menneskerettighetskomités synspunkter om at fremstilling bør skje innen 48 timer.
-Blant annet ble det påpekt at et konkret skjæringspunkt vil kunne effektivisere håndhevingen av
-regelen, og at en uttrykkelig hovedregel om fremstilling innen 48 timer vil kunne bidra til å gi FNs
-menneskerettighetskomités uttalelser tyngde og
-anerkjennelse internasjonalt. En hovedregel om
-48 timer vil også bringe fremstillingsfristen nærmere fristen som gjelder for overføring av den
-pågrepne fra politiarresten til fengsel i forskrift 30.
-juni 2006 nr. 749 om bruk av politiarrest § 3-1 og
-forskrift 22. februar 2002 nr. 183 om straffegjennomføring § 4-1. Det ble derfor i høringsnotatet
-
-[Side 106]
-
-104
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-fremmet et alternativ forslag, omtalt som alternativ 2, som legger ordlyden tettere opp til FNs
-menneskerettighetskomités uttalelser om SP
-artikkel 9 nr. 3. Alternativ 2 innebærer at straffeprosessloven § 183 første ledd første og annet
-punktum formuleres som følger:
-«Vil
-påtalemyndigheten
-beholde
-den
-pågrepne, må den snarest mulig og innen [48
-timer / to døgn] etter pågripelsen fremstille
-ham for tingretten på det sted der fremstilling
-mest hensiktsmessig kan skje, med begjæring
-om fengsling. Dersom det er påkrevd kan den
-pågrepne fremstilles senere, men likevel aldri
-senere enn den [andre/tredje] dagen etter pågripelsen.»
-Det ble understreket i høringsnotatet at ordlyden
-«påkrevd» er ment å angi en høy terskel, og at
-tidsbruk utover 48 timer kun kan aksepteres helt
-unntaksvis, se høringsnotatet punkt 2.5.3 side 14.
-Hvilke omstendigheter som kan begrunne tidsbruk utover 48 timer må vurderes konkret, men
-slik at lengre fristoverskridelser vil kreve en mer
-tungtveiende begrunnelse enn kortere fristoverskridelser. Ved helt korte fristoverskridelser, slik
-som i Rt. 2015 side 1142, la departementet til
-grunn at praktiske omstendigheter vil kunne være
-tilstrekkelig hvis disse ikke med enkelhet kunne
-vært avhjulpet. Ved lengre fristoverskridelser på
-flere timer må det foreligge «helt spesielle
-omstendigheter i den enkelte sak som gjør det
-uforsvarlig eller umulig» å overholde 48-timersfristen.
-For å unngå at unntakshjemmelen i praksis tolkes til å åpne for lengre tidsbruk enn etter gjeldende rett, se høringsnotatet punkt 2.5.3 side 15,
-foreslo departementet en absolutt lengstefrist for
-fremstilling. Det ble foreslått at lengstefristen settes til enten andre eller tredje dagen etter pågripelse. Mens førstnevnte variant vil gi noe mindre
-fleksibilitet enn sistnevnte variant, vil sistnevnte
-variant, som tilsvarer gjeldende lengstefrist,
-kunne skape risiko for at 48-timersfristen ikke tas
-tilstrekkelig på alvor, se høringsnotatet punkt
-2.5.3 side 14.
-Departementet foreslo ingen endring av den
-særskilte fremstillingsfristen for fengsling av personer under 18 år i straffeprosessloven § 183
-annet ledd, se høringsnotatet punkt 2.1 side 2.
-Dette innebærer at den kortere fristen for fremstilling av mindreårige, jf. dagens § 183 annet
-ledd, vil gjelde ved både alternativ 1 og alternativ
-2. Departementet påpekte imidlertid i høringsnotatet at dersom fremstillingsfristen i straffepro-
-
-2020–2021
-
-sessloven § 183 første ledd innskjerpes slik som
-foreslått i alternativ 2, så vil 48-timersfristen i forslaget til nytt første ledd utgjøre en kortere fremstillingsfrist enn den særskilte fristen som gjelder
-for fremstilling av mindreårige i straffeprosessloven § 183 annet ledd annet punktum, se høringsnotatet punkt 2.5.3 side 15. Denne problemstillingen vil adresseres gjennom forslaget til innskjerping av den særskilte fremstillingsfristen for
-fengsling av personer under 18 år i straffeprosessloven § 183 annet ledd nedenfor.
-
-12.5.2 Høringsinstansenes syn
-Samtlige høringsinstanser som har uttalt seg om
-forslaget, er positive til en innskjerping av fremstillingsfristen for fengsling i straffeprosessloven
-§ 183 første ledd. De fleste instansene foretrekker
-endringsforslaget omtalt som alternativ 2, men
-har noe ulikt syn på hvordan bestemmelsen nærmere bør utformes. Uenigheten gjelder særlig
-den foreslåtte unntaksregelen i bestemmelsens
-annet punktum.
-Fredrikstad tingrett og Sør-Øst politidistrikt
-foretrekker at endringen formuleres i tråd med
-alternativ 1. Begge instansene viser til at alternativ 1 vil gi en foretrukket fleksibilitet i anvendelsen av fristen, innenfor Norges folkerettslige forpliktelser. I tillegg påpeker Sør-Øst politidistrikt at
-regelen i alternativ 1 har en enklere og mer praktikabel oppbygning enn alternativ 2, samt at løsningen i alternativ 1 er bedre tilpasset aktørenes
-alminnelige arbeidstid.
-Kriminalomsorgsdirektoratet, Regjeringsadvokaten og Røde Kors støtter en innskjerping, men konkretiserer ikke hvorvidt innskjerpingen bør formuleres langs linjene i alternativ 1 eller alternativ
-2.
-De øvrige høringsinstansene – Advokatforeningen, Den norske legeforening, Det nasjonale statsadvokatembetet (NAST), Dommerforeningen, Helsedirektoratet, Kripos, Norges politilederlag, Norges
-institusjon for menneskerettigheter (NIM), Nordland politidistrikt, Oslo Politidistrikt, Politidirektoratet, Politiets sikkerhetstjeneste (PST), Rettspolitisk forening, Riksadvokaten, Statistisk sentralbyrå
-og Øst politidistrikt – foretrekker at bestemmelsen
-utformes i tråd med alternativ 2. De fleste synes å
-mene at en slik hovedregel om fremstilling snarest mulig og innen 48 timer eller to døgn vil
-bringe ordlyden tydeligere i samsvar med Norges
-internasjonale forpliktelser. Flere instanser, slik
-som Advokatforeningen, NAST, Kripos, PST, Politidirektoratet og Riksadvokaten, synes videre at det
-er positivt at alternativ 2 vil innebære at fremstil-
-
-[Side 107]
-
-2020–2021
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-lingsfristen i utgangspunktet harmoniseres med
-fristen for overføring av den pågrepne fra politiarrest til kriminalomsorgen. Riksadvokaten og Politidirektoratet nevner i tillegg at det har vist seg vanskelig å dokumentere at dagens lengre fremstillingsfrist samlet sett har hatt utvetydige positive
-resultater i form av redusert bruk av varetektsfengsling.
-En del instanser har synspunkter på forslaget
-om at fremstilling utover 48-timersfristen forutsetter at det anses «påkrevd» å avvente fremstilling
-til en nærmere angitt lengstefrist, jf. forslaget til
-ny § 183 første ledd annet punktum i alternativ 2.
-Den norske legeforening viser til at de negative
-helsevirkningene av isolasjon i politiarrest er godt
-dokumentert, og ønsker at fremstillingsfristen på
-48 timer bør gjelde uten unntak. At 48-timersfristen bør være absolutt mener også Rettspolitisk
-forening. Skal det likevel inntas en hjemmel for å
-gå utover 48 timer, foretrekker Rettspolitisk
-forening at lengstefristen settes til senest den
-andre dagen etter pågripelsen. Det foretrekker
-også Statistisk sentralbyrå, som fremholder at en
-slik lengstefrist på opp mot 72 timer vil gi tilstrekkelig fleksibilitet til involverte aktører og være å
-foretrekke fra et fengslingsstatistisk ståsted.
-Advokatforeningen, Kripos, NAST, Oslo politidistrikt, Politidirektoratet, PST, Riksadvokaten,
-Norges politilederlag, Nordland politidistrikt og Øst
-politidistrikt åpner for at lengstefristen settes til
-den tredje dagen etter pågripelsen. Norges politilederlag, Nordland Politidistrikt, Oslo Politidistrikt,
-Politidirektoratet og Øst politidistrikt opplyser at
-en frist på 48 timer vil være tilstrekkelig i de fleste
-tilfeller, men at det er behov for en unntaksregel
-som kan hjemle ytterligere tidsbruk i særlige tilfeller hvor det er nødvendig. NAST og Kripos
-argumenterer for at loven bør åpne for en så lang
-lengstefrist som mulig innenfor rammen av våre
-folkerettslige forpliktelser, og viser til at det i visse
-saker kan foreligge et godt begrunnet behov for å
-avvente fremstilling til den tredje dagen etter
-pågripelse. NAST viser til at sakene som de nasjonale politiembetene håndterer som regel er omfattende, kompliserte og har en rekke mistenkte
-som må pågripes samtidig av hensyn til etterforskingen. Kripos påpeker at behovet for en lengre
-fremstillingsfrist særlig gjelder saker som omfatter organisert kriminalitet:
-«I denne typen saker har politiet ikke sjelden 6
-– 10 personer som skal fremstilles for varetektsfengsling samtidig, noe som krever tid til
-forberedelser og praktisk tilrettelegging. Den
-enkelte pågrepne ønsker gjerne å konferere
-
-105
-
-med en forsvarer, og deretter eventuelt å forklare seg i saken med forsvarer til stede. Noen
-er avhengig av tolk, og samme tolk må gjerne
-brukes i flere avhør. Av hensyn til både den
-pågrepne, forsvarer, tolker og etterforskere vil
-det normalt ikke pågå aktiv etterforskning eller
-forberedelse av saken om natten, og i alle fall
-ikke avhør. I tillegg krever eksempelvis 8
-pågrepne som skal fremstilles samme dag
-minst to dommere og to aktorer til gjennomføring av fengslingsmøtene, og de pågrepne skal
-transporteres til rettslokalet atskilt, og oppholde seg der uten mulighet for å kommunisere med hverandre og på den måten ha mulighet til å forspille bevis. Det er viktig at loven
-også tar tilstrekkelig høyde for denne typen
-saker, som blant annet for Kripos’ del oppstår
-med jevne mellomrom.»
-Også Nordland politidistrikt påpeker at det i saker
-med kompliserte saksforhold, slik som økonomisaker eller sedelighetssaker, vil kunne være nødvendig å avvente fremstilling til den tredje dagen
-etter pågripelse. Instansen påpeker videre at en i
-visse politidistrikter kan ha behov for fleksibilitet
-som følge av store geografiske avstander innad i
-distriktet. Politidirektoratet viser til Kripos’ og
-Nordland politidistrikts høringssvar i denne forbindelse.
-De resterende høringsinstansene som støtter
-alternativ 2 konkretiserer ikke hvorvidt lengstefristen bør settes til senest andre eller tredje
-dagen etter pågripelsen. Dette gjelder Dommerforeningen, Helsedirektoratet og NIM.
-Advokatforeningen, NIM og Riksadvokaten spiller inn at ordlyden i alternativ 2 bør endres slik at
-det kommer tydeligere frem i lovteksten at fremstilling som den klare hovedregel må skje innen
-48 timer og at senere fremstilling kun kan skje
-helt unntaksvis. NIM finner det ikke tvilsomt at
-Norges folkerettslige forpliktelser tilsier at fremstilling etter 48 timer kun kan skje i eksepsjonelle
-tilfeller. NIM tar derfor til orde for at lovteksten i
-større grad bør reflektere at en overskridelse av
-48-timersfristen krever eksepsjonelle omstendigheter som rettferdiggjør overskridelsen i det
-enkelte tilfellet. NIM ønsker også at de sentrale
-momentene i unntaksvurderingen inntas i lovteksten. Også Advokatforeningen finner det klart at
-SP artikkel 9 nr. 3 skal forstås slik som angitt i
-General Comment nr. 35 (CCPR/C/GC/35) avsnitt
-33, og mener at uttrykket «påkrevd» ikke gir et tilstrekkelig klart signal om at en benyttelse av unntaksadgangen krever at forekomst av eksepsjonelle omstendigheter kan godgjøres i det enkelte
-
-[Side 108]
-
-106
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-tilfellet. Riksadvokaten spiller inn at ordlyden bør
-omformuleres for å tydeliggjøre at fremstilling
-senere enn 48 timer etter pågripelsen bare kan
-skje i helt ekstraordinære tilfeller. Rettspolitisk
-forening opplyser at ordlyden «påkrevd» støttes
-hvis det med dette menes en terskel tilsvarende
-«absolutely exceptional» i SP artikkel 9 nr. 3.
-Når det gjelder i hvilke tilfeller det vil kunne
-ansees «påkrevd» med fremstilling senere enn 48
-timer etter pågripelsen, gir Kripos uttrykk for at
-lengstefristen på den tredje dagen etter pågripelsen kan forbeholdes de sakene som av ulike årsaker betinger mer omfattende forberedelser eller
-praktisk tilrettelegging. Kripos beskriver dette
-som «særlige tilfeller hvor spesielle omstendigheter gjør seg gjeldende», og hvor en særskilt
-begrunnelse kan oppgis på en adekvat måte. Også
-PST gir uttrykk for at det erfaringsmessig særlig
-er i omfattende og komplekse saker at det vil foreligge et legitimt og godt begrunnet behov for å
-avvente fremstilling frem til den tredje dagen etter
-pågripelsen. Politidirektoratet forutsetter på sin
-side at det ikke vil stilles strenge krav til årsakens
-art ved korte overskridelser på få timer etter 48timersfristen, og anser dette som helt nødvendig
-for at bestemmelsen vil gi nødvendig fleksibilitet.
-Høringsinstansene synes å ha noe ulikt syn på
-hvilke rettslige krav som kan leses ut av SP artikkel 9 nr. 3. En del høringsinstanser problematiserer ikke høringsnotatets standpunkt om at det
-ansees noe uklart hvorvidt SP artikkel 9 nr. 3 oppstiller en regel om at fremstilling som hovedregel
-ikke kan skje senere enn 48 timer etter pågripelsen og ikke uten en særlig begrunnelse. Regjeringsadvokaten mener at forslagene samsvarer
-godt med de forventninger til regulering som kan
-utledes av SP og praksis om forståelsen av denne.
-NAST uttrykker at fire dager må ansees som den
-ytre rammen for hvilken tidsbruk som kan aksepteres etter SP artikkel 9 nr. 3. Som nevnt ovenfor
-opplyser Advokatforeningen, NIM og Rettspolitisk
-forening at de tolker SP artikkel 9 nr. 3 slik at konvensjonen klart pålegger en forpliktelse til å fremstille pågrepne personer innen 48 timer, med mindre det foreligger ekstraordinære omstendigheter
-i det enkelte tilfellet som etter en konkret vurdering begrunner at senere fremstilling likevel vil
-være konvensjonsmessig i det aktuelle tilfellet.
-Også Riksadvokaten synes å legge til grunn at SP
-artikkel 9 nr. 3 må tolkes slik at fremstilling mer
-enn to døgn etter pågripelsen bare kan skje i helt
-ekstraordinære tilfeller, uten at dette kommenteres uttrykkelig.
-Få instanser har synspunkter på hvorvidt det
-er formuleringen «48 timer» eller «to døgn» som
-
-2020–2021
-
-bør benyttes i alternativ 2, foruten NIM og Politidirektoratet som mener at «48 timer» gir uttrykk
-for en klarere frist enn «to døgn», og derfor er å
-foretrekke.
-Flere instanser, slik som Norges politilederlag,
-Sør-Øst politidistrikt, Nordland politidistrikt,
-Kripos, Politidirektoratet og Kriminalomsorgsdirektoratet, påpeker at overholdelse av 48-timersfristen i alternativ 2 vil kreve økte ressurser til politi,
-påtalemyndighet, domstoler og kriminalomsorg.
-Ingen høringsinstanser har kommentert
-betydningen av alternativ 2 for den særskilte fremstillingsfristen for fengsling av personer under 18
-år i straffeprosessloven § 183 annet ledd annet
-punktum.
-
-12.6 Departementets vurdering
-12.6.1 Nærmere om forpliktelsene etter SP
-artikkel 9 nr. 3
-Hvor raskt den pågrepne må fremstilles for retten
-etter straffeprosessloven § 183 første ledd må tolkes i lys av våre konstitusjonelle og folkerettslige
-forpliktelser. Som det fremgår av punkt 12.2, er
-det i dag SP artikkel 9 nr. 3 som har størst praktisk betydning for straffeprosesslovens fremstillingsfrist.
-I tolkningen av SP artikkel 9 nr. 3 vil konvensjonens ordlyd, kontekst og formål utgjøre viktige
-tolkningsfaktorer, se prinsippene uttrykt i Wienkonvensjonen av 1969 artikkel 31 til 33. I tillegg vil
-uttalelser fra FNs menneskerettskomité ha betydelig vekt som rettskilde, se Rt. 2015 side 1142
-avsnitt 31. Den nærmere betydningen av komitéens generelle uttalelser vil blant annet bero på
-hvor klart uttalelsen må anses å gi uttrykk for
-komitéens forståelse av partenes rettslige forpliktelser etter konvensjonen, se Rt. 2015 side 1388
-avsnitt 151 flg. og Rt. 2009 side 1261 avsnitt 44
-(om Barnekonvensjonen).
-SP artikkel 9 nr. 3 krever etter sin ordlyd at
-den pågrepne omgående («promptly») skal fremstilles for en person med domsmyndighet, se
-punkt 12.2.4 foran. Hvilken fremstillingsforpliktelse som mer konkret kan utledes av uttrykket
-«promptly» i SP artikkel 9 nr. 3 er drøftet av
-enkelte instanser i høringsrunden til Straffeprosessutvalgets forslag, se punkt 12.4 foran, av
-departementet i høringsnotatet 21. juni 2018, se
-punkt 12.5 med videre henvisning, samt av
-enkelte instanser i høringsrunden til forslagene i
-høringsnotatet.
-Etter departementets syn tilsier en naturlig
-forståelse av uttrykket «promptly» at fremstilling
-
-[Side 109]
-
-2020–2021
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-må skje raskt og uten ugrunnet opphold. Uttrykket åpner for en viss skjønnsmessig vurdering.
-Fleksibiliteten i ordlyden begrenses likevel av
-bestemmelsens formål, som er uavhengig legalitetskontroll med en pågående pågripelse og vern
-mot risiko for tortur og nedverdigende behandling i politiets varetekt.
-FNs menneskerettighetskomité har uttalt seg
-om begrepet «promptly» i konkrete klagesaker og
-i generelle uttalelser. Blant annet har FNs menneskerettighetskomité i noen klagesaker lagt til
-grunn at lengden på fremstillingsfristen må avgjøres ut fra den konkrete sak, men at fremstilling
-bør skje innen «a few days», se Kovsh mot Hviterussland (Communication nr. 1787/2008) 27.
-mars 2013 avsnitt 7.4. At fremstilling må skje
-innen «a few days» fra pågripelsen har etter departementets syn forankring i en naturlig forståelse
-av ordlyden, ettersom tidsbruk utover dette vanskelig kan sies å være «promptly». Videre viser
-FNs menneskerettighetskomité i samme klagesak til at den pågrepne bør fremstilles for en dommer innen 48 timer, og uttaler at fremstilling
-senere enn 48 timer krever en særskilt begrunnelse («require special justification»).
-I etterkant av ovennevnte klagesak, har FNs
-menneskerettighetskomité i General Comment
-nr. 35 (CCPR/C/GC/35) avsnitt 33 gjentatt at hva
-som er «promptly» kan variere med de konkrete
-omstendighetene, men at tidsbruken ikke bør
-overstige «a few days» fra pågripelsestidspunktet.
-Komitéen angir videre at den i alminnelighet
-anser 48 timer som tilstrekkelig til å forberede
-fengslingsmøtet og til å transportere den
-pågrepne til rettslokalet, og uttaler at fremstilling
-senere enn 48 timer kun kan forekomme helt unntaksvis («remain absolutely exceptional») og bare
-hvis det kan rettferdiggjøres ut fra sakens
-omstendigheter («be justified under the circumstances»).
-Høyesterett har på bakgrunn av ovennevnte
-uttalelser lagt til grunn at SP artikkel 9 nr. 3 må
-forstås slik at tidsperioden fra pågripelse til fremstilling «bare helt unntaksvis kan overstige 48
-timer og bare såfremt omstendighetene kan rettferdiggjøre det», jf. Rt. 2015 side 1142 avsnitt 30.
-Høyesterett synes dermed å mene at det etter SP
-artikkel 9 nr. 3 i utgangspunktet gjelder en fremstillingsfrist på 48 timer, og at dette utgangspunktet «bare helt unntaksvis» kan fravikes.
-I etterkant av publiseringen av General
-Comment nr. 35, har FNs menneskerettighetskomité i tolkningen av «promptly» i klagesaker tatt
-utgangspunkt i en formulering som tilsvarer de
-generelle uttalelsene i General Comment nr. 35
-
-107
-
-avsnitt 33, se for eksempel Berezhnoy mot Russland (Communication nr. 2107/2011) 28. oktober
-2016 avsnitt 9.2 og Selyun mot Hviterussland
-(Communication nr. 2289/2013) 6. november
-2015 avsnitt 7.4.
-Departementet legger etter dette til grunn at
-FNs menneskerettighetskomité i General Comment
-nr. 35 avsnitt 33 gir uttrykk for sin forståelse av
-forpliktelsen til å fremstille en pågrepet person for
-fengsling «promptly» etter SP artikkel 9 nr. 3.
-Etter departementets syn er det dermed nærliggende å tolke SP artikkel 9 nr. 3 slik at den
-pågrepne som den klare hovedregel skal fremstilles innen et par dager («a few days») etter pågripelsen, og i de aller fleste tilfeller innen 48 timer.
-Tidsbruk utover 48 timer kan etter SP artikkel 9
-nr. 3 kun aksepteres helt unntaksvis, og bare hvis
-det kan rettferdiggjøres ut fra sakens omstendigheter.
-Departementet forstår for øvrig FNs menneskerettighetskomités uttalelser slik at det ikke nødvendigvis er årsakene til tidsbruken i den enkelte
-sak som må være av ekstraordinær karakter
-(«absolutely exceptional»), men at FNs menneskerettighetskomité mener å angi at tidsbruk
-utover 48 timer kun unntaksvis vil kunne ansees
-tilstrekkelig rettferdiggjort. De konkrete årsakene må likevel være egnet til å begrunne tidsbruken i den enkelte sak.
-Hvilke typer konkrete omstendigheter som
-kan rettferdiggjøre at den pågrepne fremstilles
-senere enn 48 timer, synes ikke hittil å være konkretisert av FNs menneskerettighetskomité. Høyesterett har tolket bestemmelsen slik at grunnene
-som kan rettferdiggjøre tidsbruk utover 48 timer
-etter pågripelsen vil variere «blant annet ut fra
-hvor lang fristoverskridelse det er snakk om, hvor
-alvorlig forbrytelse det er mistanke om og hvor
-tidkrevende det er å kartlegge fengslingsgrunnlaget», jf. Rt. 2015 side 1142 avsnitt 33. I lys av formålene med fremstillingsfristen i SP artikkel 9 nr.
-3, antar departementet at også belastningen den
-konkrete siktede påføres av å sitte i politiets varetekt vil kunne være relevant i vurderingen av hva
-som er å anse som «promptly» i den enkelte sak.
-Departementet er enig med Høyesterett i at
-det antakelig må stilles strengere krav til begrunnelsen for hvorfor en fremstilling ikke har funnet
-sted innen 48 timer desto lenger frihetsberøvelsen
-har vart. Det er likevel neppe grunnlag for å oppstille særskilt strenge krav til begrunnelsen akkurat idet tidsbruken passerer 48 timer. Tilsvarende
-kan synes å ha blitt lagt til grunn i Høyesteretts
-vurdering av saksforholdet i Rt. 2015 side 1142,
-hvor 48-timersfristen var marginalt overskredet.
-
-[Side 110]
-
-108
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-Slik departementet tolker SP artikkel 9 nr. 3,
-bør også tidsbruk som nærmer seg 48 timer være
-konkret begrunnet. FNs menneskerettighetskomité har uttalt at frihetsberøvelse er et inngripende tvangsmiddel som bør vare så kort som
-mulig, se eksempelvis ovennevnte klagesak Kovsh
-mot Hviterussland avsnitt 7.3. Det gjelder også for
-frihetsberøvelse som varer kortere enn 48 timer.
-
-12.6.2 Innstramming av fremstillingsfristen
-for fengsling
-Departementet er enig med Straffeprosessutvalget i at fremstillingsfristen for fengsling bør skjerpes inn. En innstramming av fremstillingsfristen
-har fått bred støtte blant høringsinstansene, både
-under høringen av Straffeprosessutvalgets forslag
-i 2016 og høringen av forslagene i høringsnotatet i
-2018, og har gode grunner for seg.
-Departementet er enig i at fremstillingsfristen
-i straffeprosessloven § 183 første ledd bør endres
-slik at den vil være mer i samsvar med Norges
-menneskerettslige forpliktelser. Som redegjort for
-foran, har EMD i tolkningen av EMK artikkel 5 nr.
-3 understreket viktigheten av at den pågrepne blir
-fremstilt innen et relativt kort tidsrom etter pågripelsen, særlig sett i lys av det vernet fremstillingsfristen er ment å gi den pågrepne mot risikoen for
-maktmisbruk i politiets varetekt. FNs menneskerettighetskomité har, til den parallelle bestemmelsen i SP artikkel 9 nr. 3, ved flere anledninger
-uttalt at den pågrepne bør fremstilles for en dommer innen et par dager etter pågripelsen, og da
-som den klare hovedregel innen 48 timer. Uavhengig av om uttalelsene fra FNs menneskerettighetskomité er å forstå som komitéens syn på de
-rettslige forpliktelsene som kan utledes av SP
-artikkel 9 nr. 3, eller mer som en beskrivelse av en
-praksis som komitéen mener at konvensjonspartene bør følge, foreligger det etter departementets
-syn gode grunner for å innskjerpe bestemmelsen
-om fremstillingsfrist etter gjeldende rett.
-Spørsmålet blir så hvordan bestemmelsen bør
-utformes. Felles for forslaget omtalt som alternativ 1, som tilsvarer Straffeprosessutvalgets forslag, og forslaget omtalt som alternativ 2, er at det
-etter begge alternativer kreves at den pågrepne
-fortsatt skal fremstilles for retten snarest mulig
-etter pågripelsen. Frihetsberøvelse er et av de
-mest inngripende virkemidlene påtalemyndigheten rår over. Reglene om fremstillingsfrist utgjør
-en viktig rettssikkerhetsgaranti. Rettens prøving
-av fengslingsgrunnlaget innebærer en viktig legalitetskontroll med en pågående pågripelse, og er
-ment å motvirke misbruk av offentlig myndighets-
-
-2020–2021
-
-utøvelse i politiets varetekt. Det ligger dermed
-fundamentale og viktige hensyn bak reglene om
-fremstillingsfrist. Departementet finner derfor
-grunn til å understreke at det klare utgangspunktet og hovedregelen fortsatt skal være at fremstilling for retten skal skje så snart som mulig.
-Når det gjelder den nærmere reguleringen av
-fremstillingsfristen, går et klart flertall av høringsinstansene inn for at bestemmelsen bør endres i
-tråd med alternativ 2. Alternativ 2 angir at fremstilling må skje snarest mulig og innen «48 timer»
-eller «to døgn» etter pågripelsen med mindre
-senere fremstilling innenfor en nærmere angitt
-lengstefrist anses «påkrevd».
-Departementet har, i likhet med de fleste
-høringsinstansene, kommet til at en bestemmelse
-som eksplisitt angir at fremstilling som hovedregel må skje snarest mulig og innen 48 timer eller
-to døgn har de beste grunner for seg. Formuleringen vil trolig ha pedagogiske fordeler ved at det
-alminnelige ytterpunktet for fremstillingsfristen
-konkretiseres. En fremstillingsfrist med et klart
-skjæringspunkt vil også kunne lette håndhevingen av regelen, ettersom fleksibiliteten som ligger
-i dagens regel i utgangspunktet vil bli noe mindre
-og oversittelser av fremstillingsfristen vil bli mer
-synlige. En uttrykkelig hovedregel om fremstilling snarest mulig og innen 48 timer vil videre,
-som flere høringsinstanser påpeker, bringe ordlyden nærmere FNs menneskerettskomités
-uttalelser. En slik hovedregel er også egnet til å
-følge opp anbefalingen inntatt i FNs torturkomités
-Concluding Observations mot Norge 5. juni 2018
-(CAT/C/NOR/CO/8) avsnitt 12, hvor komitéen
-understreket viktigheten av at Norge legger til
-rette for at frihetsberøvede personer fremstilles
-for retten innen 48 timer i tråd med internasjonale
-standarder.
-En hovedregel om at fremstilling må skje
-innen 48 timer, vil videre bringe fremstillingsfristen nærmere fristen som gjelder for å overføre
-den pågrepne fra politiarrest til fengsel, jf. forskrift om bruk av politiarrest § 3-1 og forskrift om
-straffegjennomføring § 4-1, som er fastsatt til «to
-døgn» etter pågripelsen. At disse fristene sammenfaller, vil kunne ha pedagogiske og administrative fordeler. I prinsippet skal fremstillingsfristen og overføringsfristen praktiseres uavhengig
-av hverandre, men det kan likevel ikke ses bort
-fra faren for et uheldig samspill hvor overføring
-fra politiarresten utsettes i tilfeller hvor fremstilling for fengsling først kan skje senere enn to
-døgn etter pågripelsen. Viktigheten av at
-pågrepne personer overføres fra politiarrest til
-fengsel innen 48 timer ble fremhevet av FNs tor-
-
-[Side 111]
-
-2020–2021
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-turkomité i ovennevnte Concluding Observations
-mot Norge 5. juni 2018, se avsnitt 13–14. Til sist
-nevner departementet, i likhet med Riksadvokaten
-og Politidirektoratet, at det har vist seg vanskelig å
-entydig dokumentere at dagens lengre fremstillingsfrist har redusert det samlede behovet for
-varetektsfengsling under etterforsking, slik som
-utvidelsen til dagens fristregel i sin tid tok sikte
-på. Dette taler for at hensynet til den pågrepne bør
-veie tungt, og underbygger at fristen strammes
-inn.
-Når det gjelder spørsmålet om tidsperioden
-bør formuleres som «48 timer» eller «to døgn»,
-mener departementet, i likhet med Politidirektoratet og Norges institusjon for menneskerettigheter, at
-«48 timer» gir uttrykk for en klarere frist enn «to
-døgn», og derfor er å foretrekke. Formuleringen
-vil riktignok avvike fra ordlyden «to døgn» som er
-brukt i nevnte forskrift om politiregister § 3-1 og
-forskrift om straffegjennomføring § 4-1, men ettersom innholdet i begrepene er det samme, finner
-ikke departementet grunn til å legge avgjørende
-vekt på dette.
-Departementet anbefaler at straffeprosessloven § 183 inneholder en absolutt lengstefrist for
-fremstilling. Det ble i høringsnotatet foreslått at
-lengstefristen settes til enten «senest den andre»
-eller «senest den tredje» dagen etter pågripelse.
-Førstnevnte variant vil innebære en innskrenking
-i forhold til gjeldende rett, og vil etter sin ordlyd
-åpne for fremstilling opp mot 72 timer etter pågripelsen. Sistnevnte variant tilsvarer gjeldende lengstefrist, og vil etter sin ordlyd åpne for fremstilling
-opp mot 96 timer etter pågripelsen. Hvor lang tid
-det i praksis kan gå fra pågripelsen til fremstilling,
-vil likevel avhenge av når fengslingsmøtet praktisk sett kan avholdes i tingretten den siste dagen.
-Departementet er kjent med at førstegangsfengslinger vanligvis berammes frem til kl. 15:00. Legges en slik berammingspraksis til grunn, vil de to
-foreslåtte lengstefristene i alternativ 2 reelt sett
-åpne for fremstilling opp mot henholdsvis 63 og
-87 timer etter pågripelsen.
-Departementet merker seg at høringsinstansene har ulike synspunkt på hvorvidt lengstefristen ved slik fristutsettelse skal settes til «senest
-den andre» eller «senest den tredje» dagen etter
-pågripelse. To instanser, Rettspolitisk forening og
-Statistisk sentralbyrå, mener at en lengstefrist satt
-til «senest den andre dagen» etter pågripelsen vil
-gi tilstrekkelig fleksibilitet til involverte aktører,
-og derfor er å foretrekke. Disse høringsinstansene gir uttrykk for at et lengre tidsrom vil kunne
-skape risiko for at 48-timersfristen ikke tas tilstrekkelig på alvor. Andre høringsinstanser mener
-
-109
-
-at lengstefristen bør settes til «senest den tredje
-dagen» etter pågripelsen. Selv om 48 timer ifølge
-Politidirektoratet og Kripos vil være et tilstrekkelig
-tidsrom i de fleste saker, trekker blant annet Politidirektoratet, Kripos, NAST, PST og de enkelte
-politidistriktene frem at en lengstefrist på «senest
-den tredje dagen» etter pågripelsen, vil være nødvendig i komplekse eller omfattende saker. En slik
-lengstefrist vil åpne for noe større fleksibilitet i
-særlige tilfeller der det foreligger omstendigheter
-som gjør det nødvendig å fremstille den pågrepne
-senere enn den alminnelige fristen. Det vises til
-disse innspillene slik de er gjengitt i punkt 12.5.2.
-Departementet har, i likhet med de fleste
-høringsinstansene, kommet til at den absolutte
-lengstefristen bør settes til «senest den tredje
-dagen» etter pågripelsen. Etter departementets
-vurdering vil en slik lengstefrist ligge innenfor
-hva som teoretisk vil være den absolutte fristen
-etter Norges konstitusjonelle og folkerettslige forpliktelser. En slik frist vil for øvrig også ligge
-innenfor lengstefristene som gjelder i svensk,
-finsk og dansk rett, jf. punkt 12.3 foran.
-Departementet understreker at fremstilling på
-den tredje dagen etter pågripelsen kun vil være
-aktuelt i et meget begrenset antall saker. Fremstilling senere enn 48 timer etter pågripelsen kan
-bare skje helt unntaksvis, og kun i tilfeller hvor
-det kan påvises konkrete omstendigheter i saken
-som begrunner en slik tidsbruk som nødvendig
-og forholdsmessig. Slik departementet ser det, vil
-en slik tilnærming være i tråd med FNs menneskerettighetskomités uttalelser om at en tidsbruk
-utover 48 timer «must remain absolutely exceptional» og videre være «justified under the circumstances», se punkt 12.6.1. Det understrekes videre
-at også tidsbruk opp mot 48 timer må være godt
-begrunnet, idet hovedregelen fortsatt vil være at
-fremstilling skal skje snarest mulig.
-Departementet har vurdert om en videreføring av den gjeldende lengstefristen kan medføre
-at 48-timersfristen ikke tas tilstrekkelig på alvor,
-men finner at en slik innvending ikke kan være
-avgjørende. Det vises til at bestemmelsen vil få en
-ny utforming som klart angir «48 timer» som det
-alminnelige ytterpunktet for fremstillingsfristen,
-og at det synliggjøres at utvidelse utover dette kun
-skal skje unntaksvis.
-Enkelte høringsinstanser har tatt til orde for at
-ordlyden i unntakshjemmelen bør skjerpes.
-Departementet viser til at den foreslåtte ordlyden
-«påkrevd» i høringsnotatet var ment å angi en høy
-terskel. For å ytterligere understreke at terskelen
-for å benytte unntakshjemmelen er høy, og for å
-ytterligere synliggjøre at fremstilling senere enn
-
-[Side 112]
-
-110
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-48 timer etter pågripelsen kun kan finne sted i et
-fåtall saker, er imidlertid departementet kommet
-til at ordlyden bør endres til «særlig påkrevd».
-Videre er departementet kommet til at det bør
-fremgå uttrykkelig av lovteksten at fremstilling
-senere enn 48 timer kun kan skje etter en samlet
-vurdering av de konkrete omstendighetene i den
-enkelte sak. Det vises for øvrig til bestemmelsens
-særmerknad nedenfor.
-Departementet finner grunn til å understreke
-at en generell ressursmangel vanskelig vil kunne
-begrunne at en fremstilling senere enn 48 timer
-anses «særlig påkrevd». Det følger av dette en
-plikt for politi og påtalemyndighet til å prioritere
-ressursene som trengs for å sikre en rask fremstilling for retten innen 48 timer, og at domstolene
-
-2020–2021
-
-må ha tilstrekkelig kapasitet til å kunne avholde
-fengslingsmøter på kveldstid samt på helgedager
-og helligdager.
-Det foreslås etter dette at straffeprosessloven
-§ 183 første ledd endres slik at den pågrepne «snarest mulig og innen 48 etter pågripelsen» må fremstilles for retten med begjæring om fengsling.
-Dersom det «etter en samlet vurdering av omstendighetene i den enkelte sak» anses «særlig
-påkrevd», kan den pågrepne fremstilles senere,
-men likevel «aldri senere enn den tredje dagen
-etter pågripelsen».
-Departementet foreslår for øvrig også en endring av den særskilte fremstillingsfristen for
-fengsling av personer under 18 år i straffeprosessloven § 183 annet ledd, se kapittel 13.
-
-[Side 113]
-
-2020–2021
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-111
-
-13 Fremstillingsfristen for fengsling av personer under 18 år
-13.1 Gjeldende rett
-13.1.1 Straffeprosessloven § 183 annet ledd
-Vil påtalemyndigheten beholde en pågrepet person som er under 18 år, må den pågrepne fremstilles for retten «snarest mulig og senest dagen
-etter» pågripelsen med begjæring om fengsling, jf.
-straffeprosessloven § 183 annet ledd første punktum, jf. første ledd. Ender fristen på en helgedag
-eller dag som etter loven kan likestilles med en
-helgedag, kan fristen forlenges med én dag, jf.
-straffeprosessloven § 183 annet ledd annet punktum. I slike tilfeller vil lengste mulige fremstillingsfrist være den andre dagen etter pågripelsen.
-Etter ordlyden i første punktum kan fremstilling skje opp mot 48 timer etter pågripelsen. Forlenges fristen etter annet punktum, åpner ordlyden for fremstilling opp mot 72 timer etter pågripelsen. Hvor lang tid påtalemyndigheten i praksis
-vil ha til å begjære den mindreårige fengslet for
-retten, vil likevel avhenge av hvor sent på døgnet
-fengslingsmøtene praktisk sett vil kunne avholdes. Departementet er kjent med at førstegangsfengslinger vanligvis avholdes senest kl. 15:00.
-Legges dette til grunn for beregningen av fristene
-i første og annet punktum, vil det i praksis kunne
-gå opp mot henholdsvis 39 og 63 timer fra pågripelsen til fremstilling skjer. Hovedregelen er i alle
-tilfelle at den pågrepne skal fremstilles for retten
-snarest mulig, og vanligvis før lengstefristen løper
-ut, jf. Prop. 135 L (2010–2011) punkt 7.2.4.2 side
-53. Hvor raskt den mindreårige skal fremstilles
-innenfor lengstefristen, må videre tolkes i lys av
-gjeldende konstitusjonelle og folkerettslige forpliktelser, se punkt 13.1.2 nedenfor. Det er i forarbeidene uttalt at fremstilling så vidt mulig bør skje
-innen 24 timer etter pågripelsen, jf. Prop. 135 L
-(2010–2011) punkt 7.2.4.2 side 53.
-Lengstefristen for fremstilling av personer
-under 18 år er kortere enn den ordinære fremstillingsfristen i straffeprosessloven § 183 første ledd,
-se punkt 12.2.1. Formålet er å redusere tiden mindreårige tilbringer på ventecelle før rettslig
-prøving foretas, samt å signalisere at saker som
-involverer mindreårige skal prioriteres av politiet
-
-og påtalemyndigheten, jf. Prop. 135 L (2010–
-2011) punkt 14.4 side 169–170.
-Lengstefristen i straffeprosessloven § 183
-annet ledd er absolutt. Fortsatt frihetsberøvelse
-etter utløpet av fremstillingsfristen vil være ulovlig
-frihetsberøvelse, se Rt. 2014 side 1102 avsnitt 16.
-
-13.1.2 Konstitusjonelle og folkerettslige
-forpliktelser
-Hvor raskt påtalemyndigheten plikter å fremstille
-en mindreårig person for retten innenfor lengstefristene som er oppstilt i straffeprosessloven § 183
-annet ledd, må tolkes i lys av Norges konstitusjonelle og folkerettslige forpliktelser.
-Retten til å få lovligheten av en pågripelse snarlig prøvd av en uavhengig domsmyndighet følger
-av Grunnloven § 94 annet ledd, EMK artikkel 5 nr.
-3 og SP artikkel 9 nr. 3, se henholdsvis punkt
-12.2.2, 12.2.3, 12.2.4 og 12.6.1. Disse forpliktelsene
-gjelder i utgangspunktet også der den pågrepne
-personen er under 18 år. Gjennom særbestemmelser i blant annet Grunnloven og FNs konvensjon
-om barnets rettigheter, vedtatt av De forente
-nasjoner 20. november 1989 og ratifisert av Norge
-8. januar 1991 (Barnekonvensjonen) nyter de mindreårige imidlertid et særlig konstitusjonelt og
-menneskerettslig vern, som det redegjøres kort
-for i det følgende.
-Grunnloven § 104 annet ledd slår fast at «hva
-som er best for barnet» skal være «et grunnleggende hensyn» ved handlinger og avgjørelser som
-berører barn. Prinsippet kom inn i Grunnloven i
-2014, og fungerer som en tolkningsfaktor ved fortolkningen av annen lovgivning, og som en
-skranke for lovgiver, jf. Dokument 16 (2011–2012)
-punkt 32.5.1 side 189. Grunnloven § 104 annet
-ledd bygger på Barnekonvensjonen artikkel 3 nr.
-1, som fastsetter at «barnets beste» skal være «et
-grunnleggende hensyn» ved alle handlinger som
-berører barn. Det er lagt til grunn at Grunnloven
-§ 104 annet ledd følgelig må tolkes i lys av Barnekonvensjonen artikkel 3 nr. 1, og at FNs barnekomités praksis vil gi nyttige bidrag i den forbindelse, jf. Dokument 16 (2011–2012) side 192 og
-Rt. 2015 side 93 avsnitt 57 og 64. Barnekonvensjo-
-
-[Side 114]
-
-112
-
-Prop. 146 L
-Endringer i straffeprosessloven mv. (aktiv saksstyring mv.)
-
-nen gjelder som norsk lov og skal ved motstrid gå
-foran internrettslige lovbestemmelser, jf. menneskerettsloven § 2 nr. 4 og § 3.
-Ovennevnte formuleringer i Grunnloven § 104
-annet ledd og Barnekonvensjonen artikkel 3 nr. 1
-tilsier at hensynet til barnets beste skal tillegges
-stor, men ikke nødvendigvis avgjørende, vekt når
-det fattes avgjørelser som berører barn. Tilsvarende forståelse er lagt til grunn av FNs barnekomité, Høyesterett og Menneskerettighetsutvalget,
-se henholdsvis General Comment nr. 14 (CRC/C/
-GC/14), Rt. 2015 side 93 avsnitt 64 og Dokument
-16 (2011–2012) punkt 32.5.4 side 192.
-Når det gjelder situasjonen der et barn er
-pågrepet, følger det mer konkret av Barnekonvensjonen artikkel 37 bokstav d at ethvert barn som
-er berøvet sin frihet skal ha rett til å prøve lovligheten av frihetsberøvelsen for en domstol, og til å
-få en «rask» («prompt») avgjørelse av en slik sak.
-Uttrykket «rask» («prompt»«) tilsier at fremstilling må skje snarlig, men åpner for en viss
-skjønnsmessig vurdering. FNs barnekomité har i
-to generelle kommentarer til tolkningen av Barnekonvensjonen artikkel 37 bokstav d, i General
-Comment nr. 10 (CRC/C/GC/10) avsnitt 83 fra
-2007 og i General Comment nr. 24 (CRC/C/GC/
-24) avsnitt 90 fra 2018, uttalt at barn som er berøvet sin frihet bør fremstilles for en domstol innen
-24 timer:
-«Every child arrested and deprived of his or
-her liberty should be brought before a competent authority within 24 hours to examine the
-legality of the deprivation of liberty or its continuation.»
-Uttalelser fra FNs barnekomité er ikke folkerettslig bindende, men vil etter omstendighetene tillegges betydelig vekt ved tolkningen av Barnekonvensjonen, se Rt. 2015 side 93 avsnitt 64. Det
-avgjørende vil være hvorvidt uttalelsene må anses
-for å gi uttrykk for FNs barnekomités forståelse
-av konvensjonspartenes forpliktelser, eller om
-uttalelsene mer er ment som en tilrådning om hva
-som vil være beste praksis på konvensjonens
-område, jf. Rt. 2009 side 1261 avsnitt 43–44.
-Slik FNs barnekomité har uttrykt seg i ovennevnte General Comment nr. 10 og General
-Comment nr. 24, kan det neppe innfortolkes noen
-absolutt fremstillingsfrist på 24 timer i Barnekonvensjonen artikkel 37 bokstav d. Blant annet taler
-bruken av uttrykket «should» for at FNs barnekomité oppstiller en retningslinje for hvordan konvensjonspartene ideelt sett bør – men ikke må –
-praktisere bestemmelsen. Departementet legger
-
-2020–2021
-
-følgelig til grunn at det etter Barnekonvensjonen
-artikkel 37 bokstav d ikke kreves at konvensjonsstatene praktiserer en absolutt 24-timersfrist, men
-at det gjelder en klar anbefaling om at mindreårige i alminnelighet bør fremstilles for retten
-innen 24 etter pågripelsen. Tilsvarende forståelse
-ble lagt til grunn i forbindelse med utformingen
-av dagens regel i straffeprosessloven § 183 annet
-ledd, se Prop. 135 L (2010–2011) punkt 7.2.4.2
-side 53 og NOU 2008: 15 Barn og straff punkt
-7.3.2.13 side 113.
-Som det fremgår av punkt 12.2.4 og 12.6.1, kan
-det fra SP artikkel 9 nr. 3 utledes et krav om at den
-pågrepne som den klare hovedregel skal fremstilles innen 48 timer etter pågripelsen. Når det gjelder hvor raskt («prompt») personer under 18 år
-skal fremstilles etter denne bestemmelsen, har
-FNs menneskerettighetskomité uttalt at «[a]n
-especially strict standard of promptness, such as
-24 hours, should apply in the case of juveniles», jf.
-General Comment nr. 35 (CCPR/C/GC/35)
-avsnitt 33. Til forskjell fra uttalelsene som gjelder
-den ordinære 48-timersfristen, har FNs menneskerettighetskomités formuleringer om den kortere fremstillingsfristen for mindreårige karakter
-av å være en anbefaling om hvilken tidsfrist som
-bør – men ikke må – tilstrebes av konvensjonsstatene: FNs menneskerettighetskomité uttrykker at
-en strengere standard «bør» («should») gjelde for
-tilfellene der den pågrepne er mindreårig, og
-angir 24 timer som et eksempel («such as») på
-hva som vil kunne være en tilstrekkelig streng
-frist i så måte. FNs menneskerettighetskomité
-viser i en fotnote til ovennevnte uttalelse fra FNs
-barnekomité i General Comment nr. 10 avsnitt 83.
-Departementet legger etter dette til grunn at
-det ikke kan utledes noen absolutt 24-timersfrist
-fra de konstitusjonelle eller folkerettslige forpliktelsene som straffeprosessloven § 183 annet ledd
-må tolkes i lys av. Det må likevel være klart at kravet om at fremstilling skal skje raskt, må tolkes
-strengt innenfor 48-timersfristen som for øvrig
-gjelder etter SP artikkel 9 nr. 3, og at FNs menneskerettighetskomité og FNs barnekomité anser en
-24-timersfrist som tilstrekkelig i så måte.
-
-13.2 Andre lands rett
-I Sverige, Finland og Danmark gjelder de ordinære reglene for fremstilling av pågrepne personer for fengsling også i tilfeller hvor den pågrepne
-er under 18 år. En nærmere redegjørelse for disse
-reglene er inntatt i punkt 12.3, og innebærer i
-korte trekk at påtalemyndigheten etter svensk og
+# Overprøving av saksstyrende avgjørelser ved anke
+
+## Gjeldende rett
+
+### Straffeprosessloven
+
+Etter straffeprosessloven § 377 er hovedregelen at enhver kjennelse eller beslutning av retten kan ankes. Det gjelder enten det er tale om en saksstyrende – prosessledende – avgjørelse eller en beslutning eller kjennelse som avgjør realiteten. Fra hovedregelen om ankeadgang oppstiller § 377 første ledd unntak for enkelte grupper av avgjørelser. Unntak følger også av § 378 om kjennelser og beslutninger under hovedforhandlingen og § 388 om videre anke.
+
+Bestemmelsen i § 377 første ledd fastsetter at avgjørelser som «etter sin art» eller særlig lovregel er «uangripelig», ikke kan ankes. Unntaket oppstiller kun begrensninger i adgangen til særskilt anke, men bestemmelsen suppleres av § 315 første ledd, som fastsetter at «\[p\]rosessledende avgjørelser» som «etter sin art eller etter særskilt lovregel er uangripelige», heller ikke kan brukes som ankegrunn ved anke over en dom. Dette refererer til situasjonen hvor en senere dom ankes med den begrunnelse at saksbehandlingsfeil ble begått fordi saksbehandlingen var i tråd med beslutningen eller kjennelsen.
+
+Lovbestemmelser som uttrykkelig avskjærer anke, finnes spredt rundt i loven, for eksempel i straffeprosessloven §§ 13 første ledd tredje punktum og 276 første ledd fjerde og femte punktum. Om unntaket for avgjørelser som er uangripelige «etter sin art», fremheves følgende i Rt. 2012 side 719:
+
+«Straffeprosessloven § 377 fastsetter at det ikke er adgang til å anke over kjennelser og beslutninger som ‘etter sin art’ er uangripelige. Slike avgjørelser kan bare ankes på det grunnlag av at ‘de hviler på en uriktig lovtolkning og også på grunnlag av i hvert fall grovere saksbehandlingsfeil’, jf. Rt-1997-1193.
+
+Paragraf 377 tar særlig sikte på avgjørelser som er så skjønnsmessige eller situasjonsbestemte at en adgang til overprøving ville være uhensiktsmessig, jf. Johs. Andenæs, Norsk straffeprosess, 4. utgave ved Tor-Geir Myhrer side 559. Som det fremheves på side 560, er imidlertid den store hovedregel at skjønnsmessige avgjørelser kan overprøves. Det gjelder også når ankedomstolen ikke fullt ut har det samme grunnlaget for sin avgjørelse som underinstansen. Men forskjellen i avgjørelsesgrunnlag kan tilsi forsiktighet med å sette underinstansens avgjørelse til side.»
+
+Dette synet på rekkevidden av unntaket er opprettholdt i en rekke andre avgjørelser, se blant annet HR-2016-1105-U avsnitt 21. I HR-2017-1831-U avsnitt 16 presiserer Høyesterett at ankeinstansens overprøving på grunn av uriktig lovtolkning må knytte seg til den generelle lovtolkningen, fordi man ellers vil få et uhåndterlig skille mellom konkret rettsanvendelse og skjønn.
+
+Dersom det i en anke gjøres gjeldende at det foreligger brudd på EMK, har ankedomstolen full kompetanse, se EMK artikkel 13 og HR-2016-322-U avsnitt 24 og 25.
+
+Rettens beslutninger om tid og sted for hovedforhandlingen og rekkefølgen av bevisføringen er eksempler på avgjørelser som i utgangspunktet er unntatt fra anke «etter sin art», jf. Rt. 1998 side 76, Rt. 2005 side 1660, HR-2017-1831-U og HR-2020-1913-U. Dette er avgjørelser som beror på en skjønnsmessig vurdering av hva retten finner hensiktsmessig for fremdriften av saken. Se også oversikten i Keiserud m.fl.: Straffeprosessloven kommentarutgave bind II (5. utgave, Oslo 2020) side 1373 flg. («Keiserud m.fl., Straffeprosessloven, 2020»).
+
+Uttrykket «etter sin art \[…\] er uangripelig» har blitt kritisert i juridisk teori, se Keiserud m.fl., Straffeprosessloven, 2020 side 1373 og Andenæs, Norsk straffeprosess (4. utgave ved Tor-Geir Myhrer, Oslo 2008) side 559. I sistnevnte fremstilling heter det:
+
+«Vanskeligere er det å avgjøre hvilke avgjørelser som er uangripelige etter sin art. \[…\] Uttrykket er i seg selv temmelig innholdsløst. Antakelig tar bestemmelsen sikte på avgjørelser som er så skjønnsmessige eller situasjonsbestemte at en adgang til overprøvelse vil være uhensiktsmessig. Med et uttrykk fra forvaltningsretten kan man si at avgjørelsen hører under underinstansens frie skjønn. Det er vanskelig på grunnlag av rettspraksis å gi sikre retningslinjer for rekkevidden av bestemmelsen.»
+
+Ved anke over dom på grunn av saksbehandlingsfeil, hvor det hevdes i anken at underinstansen har trådt feil ved vurderingen av behovet for ytterligere bevisføring etter § 294, har Høyesterett signalisert at ankedomstolen bør være noe tilbakeholden i sin prøving av underinstansens egen vurdering av spørsmålet, se Rt. 2008 side 1350 avsnitt 15–16, og HR-2020-2157-U avsnitt 66–67. Se også HR-2016-806-U avsnitt 18. Begrensningen gjelder til tross for at avgjørelsen ikke «etter sin art» er ansett som uangripelig. Bakgrunnen er at underinstansen normalt har et bredere grunnlag til å vurdere hvilke bevis som er nødvendige for at saken skal bli forsvarlig opplyst. Dette gjelder særlig hvor spørsmålet må avgjøres ut fra en samlet avveining av et sammensatt bevisbilde.
+
+### Tvisteloven
+
+I sivilprosessen fantes det tidligere et tilsvarende unntak for avgjørelser som etter sin art var unntatt fra anke, se tvistemålsloven § 396, jf. § 355 tredje ledd. Unntaket ble ikke opprettholdt i tvisteloven. I forarbeidene til tvisteloven er det vist til at uttrykket «etter sin art» i seg selv er uten reelt innhold, og ikke er mer enn et stikkord for at visse avgjørelser kan være unndratt overprøvingen, se NOU 2001: 32 B side 767. Det ble ansett som «vesentlig bedre å ha en regel som i prinsippet åpner for overprøving av kjennelser og beslutninger, men som for visse nærmere bestemte kategorier avgjørelser beskjærer de ankegrunner som kan gjøres gjeldende».
+
+Tvisteloven § 29-3 bygger på denne tanken. Etter første ledd er hovedregelen at ankedomstolen har full overprøvingskompetanse, men annet og tredje ledd oppstiller begrensninger i ankeadgangen for visse *kjennelser* samt alle *beslutninger*. Annet ledd – som gjelder kjennelser – lyder:
+
+«En kjennelse om saksbehandlingen som etter loven skal treffes etter et skjønn over hensiktsmessig og forsvarlig behandling, kan for den skjønnsmessige avveiningen bare angripes på det grunnlag at avgjørelsen er uforsvarlig eller klart urimelig.»
+
+Kompetanseskranken i annet ledd gjelder både når kjennelsen angripes ved særskilt anke og når den gjøres til ankegrunn over en dom, jf. Ot.prp. nr. 51 (2004–2005) side 472 og Rt. 2014 side 853 avsnitt 62. Dette følger av at bestemmelsen anvender ordet «angripes». Begrensningene gjelder kun kjennelser om saksbehandlingen «som etter loven skal treffes etter et skjønn over hensiktsmessig og forsvarlig behandling». Det er altså ikke tilstrekkelig at avgjørelsen beror på et rent rettsanvendelsesskjønn, se Schei m.fl., Tvisteloven kommentarutgave bind II (2. utgave, Oslo 2013) side 1013. Typiske eksempler på avgjørelser som er omfattet av unntaket, er kjennelser knyttet til oppnevnelse av sakkyndige eller spørsmålet om det skal skje en begrensning i bevisføringen ut fra regelen om proporsjonalitet.
+
+Den skjønnsmessige avveiningen kan bare angripes på det grunnlag at avgjørelsen er «uforsvarlig eller klart urimelig». Ankeinstansen foretar da bare en forsvarlighets- og rimelighetskontroll, jf. Rt. 2008 side 1507 avsnitt 17 og Ot.prp. nr. 51 (2004–2005) side 472. Begrensningen gjelder utelukkende den skjønnsmessige avveiningen. Den generelle rettslige forståelsen av bestemmelsen og saksbehandlingen som ligger til grunn for kjennelsen, kan prøves fullt ut så langt dette er påanket, jf. Schei m.fl., Tvisteloven kommentarutgave bind II (2. utgave, Oslo 2013) side 1013.
+
+Overprøving av *beslutninger* er regulert i tvisteloven § 29-3 tredje ledd:
+
+«En beslutning kan bare ankes på det grunnlag at retten har bygd på en uriktig generell lovforståelse av hvilke avgjørelser retten kan treffe etter den anvendte bestemmelse, eller på at avgjørelsen er åpenbart uforsvarlig eller urimelig.»
+
+Bestemmelsen gjelder generelt for beslutninger og oppstiller meget vidtrekkende begrensninger i ankeadgangen. Beslutninger kan bare ankes på det grunnlag at underinstansen har bygd på en uriktig generell lovforståelse, eller på at avgjørelsen er åpenbart uforsvarlig eller urimelig, jf. Rt. 2011 side 1469 avsnitt 7. Ordet «åpenbart» er benyttet for å markere forskjellen til vurderingen etter annet ledd. På den annen side gjelder tredje ledd – i motsetning til annet ledd – ikke når beslutningen er gjort til ankegrunn ved anke over en senere avgjørelse. Forarbeidene viser imidlertid til at beslutninger sjelden innebærer så viktige avgjørelser at de vil ha virket inn på resultatet av den avsluttende avgjørelsen, jf. Ot.prp. nr. 51 (2004–2005) side 473.
+
+## Forslag til endringer i ankeadgangen
+
+### Straffeprosessutvalgets forslag
+
+Straffeprosessutvalget foreslår å videreføre straffeprosessloven § 377 første ledd om at beslutninger om saksbehandlingen ikke kan ankes når det følger av særlig lovbestemmelse eller beslutningens art, jf. NOU 2016: 24 side 649–650. Lovutkastet § 37-2 første ledd lyder:
+
+«Beslutninger om saksbehandlingen kan ikke ankes når det følger av særlig lovbestemmelse eller beslutningens art, med mindre det ankes på grunnlag av at avgjørelsen er uforsvarlig eller urimelig.»
+
+Forslaget må ses på bakgrunn av at utvalget har foreslått å avskaffe kjennelsesformen, se utredningen punkt 17.5 side 391–392. Bestemmelsen gjelder derfor generelt for avgjørelser om saksbehandlingen. Lovutkastet inneholder ikke en regel som svarer til straffeprosessloven § 315. Adgangen til å bruke beslutningen som ankegrunn ved anke over en senere dom er dermed ikke avskåret.
+
+I tilknytning til lovutkastet § 7-3, som oppstiller en plikt for retten til å føre kontroll med partenes bevisføring, fremholder utvalget at den rett som har saken til behandling, «bør innrømmes et visst skjønn til å avgjøre om konkret bevisføring er irrelevant eller uforholdsmessig», se utredningen side 259 og 571. Utvalget frykter at norske domstoler ellers vil være for tilbakeholdne med å håndheve kravene (side 259):
+
+«Den rett som har saken til behandling, vil i alminnelighet være nærmest til å håndheve reglene hensiktsmessig, dels fordi den har et klart inntrykk av bevissituasjonen etter umiddelbar og muntlig bevisføring, dels fordi den kan ta hensyn til prosessklimaet med tanke på saksopplysningen i et videre perspektiv. Dette er forhold som taler for at kontrollen hos overordnet domstol ikke bør være for inngående.»
+
+Flere *høringsinstanser* uttalte under høringen av utredningen at utvalget ikke gikk langt nok i å begrense overprøvingen av saksstyrende avgjørelser, og det ble rettet kritikk mot at lovutkastet ikke satte grenser for adgangen til å bruke den aktuelle avgjørelsen som ankegrunn mot en senere dom. Reglene i tvisteloven § 29-3 annet og tredje ledd ble trukket frem som et mulig forbilde for tilsvarende bestemmelser i straffeprosessloven. En oversikt over disse høringsinstansenes syn er gitt i høringsnotat 27. august 2020 punkt 2.3.2 side 4-6.
+
+### Forslaget i høringsnotat 27. august 2020
+
+I høringsnotat 27. august 2020 foreslo departementet en revisjon av straffeprosesslovens regler om overprøving av skjønnsmessige saksbehandlingsavgjørelser, herunder reglene for når den aktuelle avgjørelsen kan brukes som ankegrunn ved anke over en senere dom. Departementet mente overprøvingen av saksstyrende avgjørelser burde begrenses i større utstrekning enn det som følger av gjeldende rett og Straffeprosessutvalgets forslag:
+
+«Mange avgjørelser om saksbehandlingen eller bevisføringen beror på skjønnsmessige vurderinger knyttet til hva som er forsvarlig saksbehandling eller tilstrekkelig bevisføring. Hvis slike avgjørelser kan overprøves fullt ut ved anke, er det en risiko for at underinstansen blir for tilbakeholden og forsiktig i saksstyringen i frykt for at avgjørelsen eller dommen blir opphevet. Som nevnt har Dommerforeningen og Borgarting lagmannsrett i sine høringsinnspill pekt på at dette antagelig er tilfelle i dag.
+
+Det er også et hensyn at ankeinstansen ikke fullt ut har det samme grunnlag for sin avgjørelse som den underordnede rett. Om dette hadde Tvistemålsutvalget følgende betraktninger, jf. NOU 2001: 32 B side 769:
+
+‘Den rett som treffer avgjørelsen i første instans, vil gjennom den aktive saksforberedelse som skal drives, få en nærhet og innsikt i saken som gjør at den normalt vil ha et bedre grunnlag for å avgjøre saksbehandlingsspørsmål av denne type enn det ankeinstansen vil få.’
+
+Synspunktet har etter departementets syn også gyldighet for straffeprosessen, og det er et spørsmål om straffeprosessloven § 377 om at avgjørelser kan være uangripelige «etter sin art» går langt nok i å ivareta de sentrale hensynene. Departementet viser videre til at uttrykket «etter sin art» er lite informativt og misvisende når det gjelder adgangen til overprøving. Som nevnt kan de avgjørelser som omfattes av unntaket, etter gjeldende rett overprøves på grunnlag av uriktig lovtolking og i hvert fall grovere saksbehandlingsfeil.»
+
+I høringsnotatet foreslo departementet å erstatte straffeprosesslovens nåværende regulering med en regel etter mønster av tvisteloven § 29-3 annet ledd som gis anvendelse for både kjennelser og beslutninger:
+
+«I utgangspunktet antar departementet at regelen i tvisteloven § 29-3 annet ledd er velegnet til å tjene som mønster for en regel om begrenset overprøving av saksstyrende avgjørelser i straffeprosessen. På samme måte som etter tvistemålsloven er det i straffeprosessloven naturlig å tolke kategorien «etter sin art … uangripelig» slik at det kun er de skjønnsmessige sidene ved avgjørelsen som ikke kan angripes, jf. NOU 2001: 32 B side 767 \[…\] og Øyen, Straffeprosess (2. utgave, Bergen) side 511. En parallell regel om begrenset overprøving i straffeprosessloven vil dermed formentlig gi en mer presis og informativ avgrensning av anvendelsesområdet.
+
+En annen fordel med regelen er at den åpner for at rettens hensiktsmessighets- og forsvarlighetsskjønn i en viss utstrekning kan overprøves av ankeinstansen, men slik at det er en relativt høy terskel for overprøving. Dette sikrer en mulighet for ankeprøving av grunnleggende krav til innhold og saksbehandling. Departementet ser i utgangspunktet ikke noen grunn til at ankeprøvingen på dette punkt skal være snevrere enn det som følger av tvisteloven. Det kan i denne sammenheng nevnes at kriteriet «uforsvarlig eller klart urimelig» i tvisteloven § 29-3 annet ledd er utformet på bakgrunn av rettspraksis etter tvistemålsloven om avgjørelser som var uangripelige etter sin art, se Skoghøy, Tvisteløsning (3. utgave, Oslo 2017) side 1254 med videre henvisninger. Etter denne praksis kunne slike avgjørelser angripes på det grunnlag at det ikke var utøvd et forsvarlig skjønn, herunder at saksbehandlingen etter en totalvurdering fremsto som uforsvarlig.
+
+Borgarting lagmannsrett har fremholdt at forsvarlighets- og rimelighetskontrollen i en parallell bestemmelse i straffeprosessloven antakelig bør være mer inngående enn etter tvisteloven, og viser til at tiltaltes rettssikkerhetsgarantier må ivaretas i straffeprosessen. Departementet er enig i dette. Dersom siktedes rettssikkerhet er gått for nær, vil det være nærliggende å konstatere at underinstansens skjønnsutøvelse er «uforsvarlig eller klart urimelig». Dette vil eksempelvis kunne være tilfelle hvis rettens saksbehandlingsavgjørelse reelt sett innebærer en forsømmelse av plikten til å våke over at saken blir fullstendig opplyst etter § 294, slik denne bestemmelsen er blitt forstått i rettspraksis, se Rt. 2008 side 605 avsnitt 14 og Rt. 2008 side 1350 avsnitt 15–16. Det antas likevel at det innenfor disse rammer er et betydelig rom for skjønn om hva som utgjør hensiktsmessig og forsvarlig behandling.
+
+Tvistelovens bestemmelse gjelder kun for visse kjennelser om saksbehandlingen. Hvis en parallell regel inkorporeres i straffeprosessloven, kan det vurderes å gi bestemmelsen anvendelse også for beslutninger som beror på et skjønn over hensiktsmessig og forsvarlig behandling. Den eksisterende bestemmelsen i straffeprosessloven gjelder i prinsippet for begge avgjørelsesformer, og det kan anføres at det samme bør gjelde med hensyn til regelen som avløser den. Det vises i denne sammenheng til at departementet i utgangspunktet ikke anbefaler å innføre en særskilt regel for beslutninger etter mønster av tvisteloven § 29-3 tredje ledd \[…\]
+
+Det må bero på en tolkning av rettsgrunnlaget om den aktuelle type avgjørelse skal treffes etter et skjønn over hensiktsmessig og forsvarlig behandling. Situasjonen er her den samme som i tvisteloven, jf. Schei m.fl., Tvisteloven kommentarutgave bind II (2. utgave, Oslo 2013) side 1012. Etter departementets syn vil det ved tolkningen være nærliggende å se hen til hvordan tilsvarende spørsmål er løst i sivilprosessen. Både forarbeider og rettspraksis vil her kunne gi nyttige bidrag.
+
+Departementet legger til grunn at den skisserte regelen vil begrense overprøvingen av saksstyrende avgjørelser i større utstrekning enn det eksisterende unntaket i § 377. Videre er det grunn til å tro at de aller fleste avgjørelser som etter gjeldende rett er omfattet av kategorien «etter sin art .. er uangripelig», vil fanges opp av den foreslåtte lovbestemmelsen. Det antas derfor at «etter sin art»-unntaket kan oppheves.
+
+På denne bakgrunn mener departementet det kan være grunn til å oppheve det nåværende unntaket i § 377 og erstatte det med en regel etter mønster av tvisteloven § 29-3 annet ledd, men slik at regelen gis anvendelse for både beslutninger og kjennelser. Departementet antar også at det bør foretas tilsvarende endringer i § 315.»
+
+I høringsnotatet var departementet skeptisk til å innta en regel etter modell av tvisteloven § 29-3 tredje ledd om overprøving av *beslutninger*:
+
+«Departementet er i utgangspunktet noe skeptisk til å innta en tilsvarende bestemmelse i gjeldende straffeprosesslov. For det første kan det reises spørsmål om begrensningene i overprøvingsadgangen er for vidtrekkende. Mens annet ledd hjemler en noe utvidet rimelighetskontroll, er overprøvingen etter tredje ledd begrenset til en vilkårlighetskontroll, for eksempel hvor retten har tilsidesatt mer grunnleggende regler for forsvarlig saksbehandling \[…\] Videre gjelder begrensningene i overprøvingen både bevisbedømmelsen, subsumsjonen og den skjønnsmessige avveiningen. I en straffeprosessuell kontekst er dette antakelig å gå noe langt. Det vises her til det som allerede er sagt om betydningen av at siktedes rettssikkerhet er ivaretatt ved overprøvingen.
+
+For det andre må det tas i betraktning at straffeprosessloven og tvisteloven ikke bygger på et likelydende skille mellom avgjørelsesformene kjennelse og beslutning. Tvistelovens system bygger på at viktige avgjørelser som bør kunne overprøves i en grad av betydning, regnes som kjennelser, mens avgjørelser som bare bør kunne overprøves i begrenset utstrekning, klassifiseres som beslutninger, jf. NOU 2001: 32 B side 769. I samsvar med denne forutsetningen fastsetter eksempelvis tvisteloven § 19-1 annet ledd bokstav d at «tvist om bevis» skal avgjøres ved kjennelse. Det samme er ikke tilfelle i straffeprosessloven. En innføring av en regel etter mønster av tvisteloven § 29-3 tredje ledd vil dermed kunne medføre at det bare i begrenset grad vil være adgang til å få overprøvd enkelte viktige avgjørelser som treffes ved beslutning. Konsekvensene av en slik regel vil dessuten være vanskelig å overskue uten en fullstendig gjennomgang av hvilke avgjørelser som treffes som henholdsvis kjennelse og beslutning. Departementets foreløpige syn er etter dette at det ikke bør inntas en regel som svarer til tredje ledd i tvisteloven § 29-3 i straffeprosessloven. Det bes likevel om høringsinstansenes syn på spørsmålet.»
+
+## Høringsinstansenes syn
+
+Med ett unntak er alle høringsinstansene som har uttalt seg om spørsmålet, positive til høringsnotatets forslag om å bruke tvisteloven § 29-3 annet ledd som modell for nye regler om overprøving av saksstyrende avgjørelser. Dette gjelder *Agder lagmannsrett*, *Borgarting lagmannsrett*, *Dommerforeningen*, *Domstoladministrasjonen*, *Hordaland statsadvokatembeter*, *Nordland politidistrikt*, *Nordland statsadvokatembeter*, *Oslo statsadvokatembeter*, *Oslo tingrett, Politidirektoratet, Riksadvokaten, Vestfold og Telemark statsadvokatembeter* og *Økokrim*. Bare *Rettspolitisk forening* er negativ til forslaget.
+
+*Borgarting lagmannsrett* uttaler:
+
+«En regel som foreslått vil bidra til mer aktiv dommerstyring ved at den reduserer risikoen for anke og opphevelse i høyere rettsinstans. Dessuten – og minst like viktig – gir forslaget en materielt god regel. De skjønnsmessige avgjørelser det her er tale om, har den dømmende rett bedre forutsetninger for å treffe enn ankedomstolen. Begrensningen i overprøvingsadgangen vil derved bidra til flere riktige avgjørelser. Og uansett bør den dømmende rett, som skal gjennomføre hovedforhandlingen/ankeforhandlingen, ha et visst spillerom for skjønn om hvordan denne bør legges opp.»
+
+Dette er i det vesentlige dekkende også for synspunktene til *Agder lagmannsrett*, *Dommerforeningen* og *Domstoladministrasjonen*. Sistnevnte uttaler:
+
+«Domstoladministrasjonen antar at forslaget om å begrense adgangen til overprøving kan legge til rette for en mer aktiv dommerstyring ved at bestemmelsene reduserer risikoen for anke av de saksstyrende avgjørelsene og opphevelse av overordnet domstol. På denne måten kan hovedforhandlingen/ankeforhandlingen forhåpentligvis gjennomføres mer konsentrert. Den rett som treffer avgjørelsen i første instans, vil vanligvis ha en større innsikt og nærhet til saken enn ankedomstolen og derfor normalt ha bedre grunnlag for å ta stilling til spørsmålene.»
+
+Ifølge *Økokrim* er det grunn til å tro at forslaget vil begrense overprøvingen av saksstyrende avgjørelser i større utstrekning enn i dag. Videre fremheves det at den dømmende rett som regel vil ha bedre forutsetninger enn ankeinstansen til å treffe avgjørelser av denne typen.
+
+*Oslo tingrett* mener at ordlyden i straffeprosessloven § 377 om at avgjørelser kan være uangripelige «etter sin art», er lite informativ og misvisende når det gjelder adgangen til overprøving. Høringsinstansen antar at tvisteloven § 29-3 annet ledd er velegnet til å tjene som mønster for en lignende regel i straffeprosessloven, men tilføyer at praktiseringen må være noe forskjellig i straffesaker:
+
+«Av hensyn til tiltaltes rettsikkerhetsgarantier må retten foreta en mer inngående forsvarlighets- og rimelighetskontroll enn etter tvisteloven. Det mener vi er tilstrekkelig ivaretatt gjennom den skjønnsmessige ordlyden i § 29-3 annet ledd.»
+
+*Politidirektoratet* støtter forslaget i høringsnotatet, men understreker viktigheten av at tiltaltes rettssikkerhetsgarantier ivaretas ved en eventuell lovendring.
+
+*Hordaland, Sogn og Fjordane statsadvokatembeter og Oslo statsadvokatembeter* er enige i at ordlyden i straffeprosessloven § 377 er uklar, og fremholder at forslaget vil sikre større grad av forutberegnelighet for sakens parter. Om det vil oppnå formålet om å effektivisere straffesakspleien, anser imidlertid *Oslo statsadvokatembeter* som noe usikkert:
+
+«Vår erfaring er at i de tilfeller partene er uenige i en avgjørelse, vil avgjørelsen ofte påankes. Dette uavhengig av hvordan lovens vilkår er utformet. Det kan således fortsatt være slik at ved gjennomføringen av hoved- eller ankeforhandling vil man måtte avvente ankeinstansens vurdering av om avgjørelsen er av en slik art at den kan ankes eller ikke. Videre er det grunn til å tro at en slik anke også vil gjelde den generelle rettslige forståelsen av bestemmelsen og saksbehandlingen som lå til grunn for kjennelsen/beslutningen, og som da også må prøves av ankedomstolen.»
+
+*Vestfold, Telemark og Buskerud statsadvokatembeter* uttaler i samme retning at departementet ikke har vist at det er et tungtveiende praktisk behov for lovendringen, eller at den vil føre til en vesentlig endring av gjeldende rett. Høringsinstansen støtter likevel forslaget. Det legges vekt på at den foreslåtte ordlyden i straffeprosessloven § 377 gir bedre veiledning enn i dag, og at det er et gode i seg selv med like regler på sivil- og straffeprosessens område. Det bør gis føringer i forarbeidene om hva som ligger i at ankeadgangen er begrenset «for den skjønnsmessige avveiningen», og det kan med fordel gis eksempler på hvilke avgjørelser som omfattes av unntaket.
+
+*Riksadvokaten* er positiv til forslaget, men reiser ut fra det angitte formålet spørsmål om det bør signaliseres enda klarere at overprøving bare skal skje helt unntaksvis, for eksempel ved en tilføyelse om at skjønnet bare kan angripes på det grunnlaget at det er «*åpenbart* uforsvarlig eller urimelig». Samtidig vil en slik begrensning kunne være for streng på straffeprosessens område, og Riksadvokaten har derfor ikke sterke innvendinger mot høringsnotatets konklusjon. På den annen side etterlater høringsnotatet en viss usikkerhet når det gjelder overprøving på grunnlag av saksbehandlingsfeil:
+
+«Pr. i dag er det (særlig) grove saksbehandlingsfeil som kan gi grunnlag for overprøving av den avgjørelsestype dette gjelder. Den foreslåtte ordlyden kan i seg selv etterlate inntrykk av at overprøving kan skje også på grunnlag av mindre saksbehandlingsfeil. En antar dette ikke er meningen, og det vil være en fordel om dette fremgår klart, i alle fall av forarbeidene.»
+
+*Rettspolitisk forening* støtter ikke forslaget. Foreningen er bekymret over at det vises til sivilprosessuelle regler i vurderingen av hva som bør være rettens rolle i straffesaker. Det savnes en mer overordnet vurdering av konsekvensene for rettssikkerheten og om de foreslåtte endringene vil treffe på samme måte som i sivilprosessen. Hvis departementet går inn for å begrense ankeinstansens prøvingskompetanse, bør dette bare gjelde avgjørelser om mer praktiske sider ved saksbehandlingen. For det tilfellet at departementet går inn for en regel etter mønster fra tvisteloven § 29-3 annet ledd, bør det markeres i loven at terskelen for overprøving er lavere enn i sivile saker. Behovet for kontroll i straffesaker er større enn i sivile saker. Begrensningen om at den skjønnsmessige avveiningen må være «klart» urimelig, bør tas ut.
+
+Når det gjelder spørsmålet om det bør innføres en regel i straffeprosessloven etter mønster fra tvisteloven § 29-3 tredje ledd om *overprøving av beslutninger*, er alle høringsinstansene som har uttalt seg særskilt om spørsmålet, enige med departementet i at det ikke er ønskelig. Dette gjelder *Agder lagmannsrett*, *Borgarting lagmannsrett*, *Dommerforeningen*, *Nordland statsadvokatembeter*, *Oslo statsadvokatembeter*, *Oslo tingrett*, *Politidirektoratet*, *Rettspolitisk forening*, *Vestfold, Telemark og Buskerud statsadvokatembeter* og *Økokrim*. For eksempel uttaler *Dommerforeningen*:
+
+«For oss veier det her tyngst at mange avgjørelser som etter straffeprosessloven treffes ved beslutning, bør kunne undergis mer enn en vilkårlighetskontroll i høyere rettsinstans. Grensen mellom kjennelser og beslutninger er en annen i straffeprosessloven enn i tvisteloven.»
+
+## Departementets vurdering
+
+Departementet fastholder vurderingen i høringsnotatet og viderefører forslaget om å begrense overprøvingen av saksstyrende avgjørelser. Det er grunn til å anta at forslaget vil redusere risikoen for anke og opphevelse i høyere instans og dermed bidra til mer aktiv dommerstyring. Forslaget har fått bred støtte under høringen. Se forslaget til endringer i straffeprosessloven §§ 315 og 377.
+
+Etter departementets syn er det grunn til å fastholde vurderingen i høringsnotatet om at det ikke bør inntas en regel etter modell av tvisteloven § 29-3 tredje ledd om overprøving av beslutninger. Det er heller ingen av høringsinstansene som har tatt til orde for en slik regel. Det foreslås i stedet at den foreslåtte begrensningen i overprøvingsadgangen skal gjelde for både kjennelser og beslutninger.
+
+Departementet legger til grunn at lovforslaget vil omfatte flere typer saksstyrende avgjørelser enn det eksisterende unntaket for avgjørelser som er uangripelige «etter sin art». Det skal bero på en tolkning av rettsgrunnlaget om den aktuelle type avgjørelse «skal treffes etter et skjønn over hensiktsmessig og forsvarlig behandling». Det vil dermed bli atskillig enklere å bedømme om avgjørelsen faller inn under begrensningen sammenlignet med det nåværende unntaket, som i seg selv er uten reelt innhold, sml. NOU 2001: 32 B side 767. Samtidig vil trolig de aller fleste avgjørelser som etter gjeldende rett er omfattet av kategorien, fanges opp av forslaget.
+
+Etter forslaget gjelder begrensningen i ankedomstolens overprøvingskompetanse utelukkende den skjønnsmessige avveiningen knyttet til hva som utgjør hensiktsmessig og forsvarlig behandling. Denne kan bare angripes på det grunnlag at avgjørelsen er «uforsvarlig eller klart urimelig». Begrensningen er begrunnet med at underinstansen normalt vil ha et atskillig bedre grunnlag for å avgjøre saksbehandlingsspørsmål av denne type enn det ankeinstansen har. Den generelle rettslige forståelsen av bestemmelsen og saksbehandlingen som ligger til grunn for kjennelsen eller beslutningen, vil derimot kunne prøves fullt ut så langt dette er påanket. Slike spørsmål har ankedomstolen normalt gode forutsetninger for å vurdere. Dette er i samsvar med ordningen etter tvisteloven § 29-3 annet ledd.
+
+På to punkter representerer derfor forslaget tilsynelatende en viss utvidelse av ankedomstolens kompetanse sammenlignet med unntaket for kjennelser og beslutninger som er uangripelige «etter sin art». Dette er dels fordi saksbehandlingen som nevnt kan prøves fullt ut, dels fordi det åpnes for en forsvarlighets- og rimelighetskontroll av underinstansens skjønnsutøvelse. Avgjørelser som omfattes av det nåværende unntaket, kan som et utgangspunkt bare ankes på det grunnlag at «de hviler på en uriktig lovtolkning og også på grunnlag av i hvert fall grovere saksbehandlingsfeil», jf. punkt 10.1.1 foran, Rt. 1997 side 1193 og Rt. 2012 side 719. På den annen side har adgangen til å angripe slike avgjørelser på grunnlag av saksbehandlingsfeil en nokså usikker rekkevidde, og mindre saksbehandlingsfeil i tilknytning til denne type avgjørelser vil trolig sjelden ha virket inn på avgjørelsen eller den senere dommen, jf. §§ 343 første ledd og 385 tredje ledd. Departementet forventer derfor ikke at endringen vil ha noen større praktisk betydning for avgjørelser som i dag anses uangripelige.
+
+Høringsnotatet omtaler ikke direkte hvilke begrensninger i ankeadgangen som skal gjelde for avgjørelser som «etter særskilt lovregel» er uangripelige, se for eksempel §§ 276 første ledd fjerde og femte punktum og 288 annet ledd nr. 2 siste punktum. Også tvistemålsloven inneholdt en rekke slike regler, men behovet for dem forsvant med den nye tvisteloven, se punkt 10.1.2 foran. Unntaksbestemmelsene i straffeprosessloven er derimot ikke foreslått opphevet i høringsnotatet og vil fortsatt være i behold etter lovendringen. For disse avgjørelsene foreslår departementet ingen endring i ankeinstansens kompetanse etter gjeldende rett, slik at tidligere rettspraksis om overprøvingsadgangen fortsatt har gyldighet, se punkt 10.1.1 foran og Keiserud m.fl., Straffeprosessloven, 2020 side 1373 med videre henvisninger. Den skjønnsmessige vurderingen vil derfor fortsatt være unntatt overprøving, med mindre skjønnet helt unntaksvis skulle være så uforsvarlig at det rubriseres som en grov saksbehandlingsfeil, slik det fantes eksempler på etter tvistemålsloven, se Skoghøy, Tvisteløsning (3. utgave, Oslo 2017) side 1254 med videre henvisninger.
+
+I samsvar med forslaget i høringsnotatet foreslås det også å stryke henvisningen i § 377 til avgjørelser som kan ankes etter kapittel 23, ettersom unntaket ikke lenger har noen selvstendig betydning, se Keiserud m.fl., Straffeprosessloven, 2020 side 1372 med videre henvisninger.

@@ -1,945 +1,294 @@
-# NOU 2024: 24, del 16 av 22 (side 188–197)
+# NOU 2024: 24, del 16 av 24
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/55111135-nou-2024-24.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-24/id3079704/
 - Original-PDF: https://www.regjeringen.no/contentassets/28617a4ff70a45858f1ff0de3f8c4263/no/pdfs/nou202420240024000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 1 tabell, 22 figurer, 47 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 188]
-
-186
-
-Kapittel 20
-
-NOU 2024: 24
-Prøvd på nytt
-
-Utvalget viser videre til at kollegier med tre
-medlemmer finnes i flere sammenlignbare institusjoner, for eksempel i Utlendingsnemnda
-(UNE)20 og den engelske gjenopptakelseskommisjonen (CCRC)21. I begge disse organene varierer
-sammensetningen av medlemmene i kollegiene
-fra sak til sak.22 For øvrig er også den skotske
-kommisjonen (SCCRC) beslutningsdyktig med
-tre kommisjonsmedlemmer, selv om det normalt
-vil være flere medlemmer til stede når avgjørelsene treffes.23
-Også i domstolene avgjøres saken som oftest
-av tre eller færre dommere. I sivile saker settes
-retten normalt med én dommer i tingretten, jf.
-domstolloven § 21 andre ledd, og tre dommere i
-lagmannsretten, jf. domstolloven § 12 første ledd.
-I straffesaker settes retten normalt med én fagdommer og to meddommere i tingretten, jf. straffeprosessloven § 276. I lagmannsretten avgjøres
-straffesaker av tre fagdommere dersom anken
-ikke gjelder bevisbedømmelsen under skyldspørsmålet eller straffutmålingen i saker med
-strafferamme over seks år, jf. domstolloven § 12
-første ledd, jf. straffeprosessloven § 332 første
-ledd. Også spørsmål om siling av anker i straffesaker, jf. straffeprosessloven § 321, avgjøres av tre
-dommere, jf. utgangspunktet i domstolloven § 12.
-Når Høyesteretts ankeutvalg avgjør om det skal
-gis samtykke til anke til Høyesterett, jf. straffeprosessloven § 323, består ankeutvalget av tre høyesterettsdommere, jf. domstolloven § 5 første ledd.
-Utvalget bemerker videre at den norske kommisjonsmodellen er basert på en forutsetning om
-at behovet for sakkyndige vurderinger som
-utgangspunkt dekkes ved innhenting av ekstern
-20
-
-Se utlendingsloven § 78 første ledd. Se likevel andre ledd
-som åpner for at enkelte saker kan avgjøres i «stornemnd».
-Dette gjelder i hovedsak «[s]aker av prinsipiell betydning,
-saker med store samfunnsmessige eller økonomiske konsekvenser og saker på områder der det er tendenser til ulik
-praksis», jf. utlendingsforskriften § 16-4 andre ledd.
-21 Det følger av den engelske kommisjonens saksbehandlingsregler at ett kommisjonsmedlem kan avslå gjenåpningsbegjæringen eller avvise den dersom vilkårene for å
-få den behandlet ikke er oppfylt, såkalte «Single Commissioner Decisions», se CCRC Case Review Process (2024)
-punkt 5.1. Dersom saken vurderes gjenåpnet, avgjøres den
-derimot av en komité som normalt settes med tre av kommisjonens medlemmer, hvorav som utgangspunkt («where
-practicable») minst én jurist, se retningslinjene punkt 5.2.2.
-22 Etter utlendingsloven § 78 første ledd andre og tredje punktum skal de ulike nemndsmedlemmene «trekkes ut blant
-dem som er oppnevnt» til behandlingen av sakene i «nemndsamlinger». Ved nemdsamlingen kan nemnda imidlertid
-behandle flere saker, jf. fjerde punktum.
-23 I den skotske kommisjonen består det samlede kollegiet av
-totalt ni medlemmer inkludert lederen. Kollegiet er beslutningsdyktig med kun tre medlemmer, men det vil normalt
-være flere til stede.
-
-bistand, se punkt 7.3.4. Den norske kommisjonens størrelse gjør at det – i mindre grad enn for
-eksempel i den engelske kommisjonen – er realistisk å dekke behovet for sakkyndig kompetanse
-internt i kommisjonskollegiet som treffer avgjørelsene.
-Utvalget legger til grunn at det vil være naturlig at kommisjonsmøtene i en av avdelingene –
-som i dag – ledes av kommisjonens leder. Trolig
-vil det være naturlig at kommisjonens nestleder
-har en lignende rolle i avdeling nummer to. Etter
-utvalgets syn bør også den tredje avdelingen ledes
-av et kommisjonsmedlem med tilsvarende kompetanse. Det foreslås derfor en endring i straffeprosessloven § 395 som klargjør at det kan oppnevnes flere nestledere. De ulike nestlederne som
-leder hver sin avdeling, vil dermed ha kompetanse til blant annet å forkaste begjæringer, jf.
-§ 397 tredje ledd, og til å innvilge åpenbare begjæringer, se utvalgets forslag i punkt 20.8. Det antas
-for øvrig at kommisjonens leder vil danne et «bindeledd» mellom de øvrige avdelingslederne og
-utredningslederen, som etter utvalgets forslag vil
-ha ansvaret for det daglige utredningsarbeidet i
-sekretariatet, se utvalgets forslag i punkt 20.3.
-Uansett om det opprettes to eller tre
-avdelinger, er det mye som tyder på at en slik
-organisering vil kunne bidra til å redusere kommisjonens samlede lønnsutgifter til kommisjonsmedlemmene. Dette er en naturlig følge av at de
-enkelte sakene vil bli vurdert av færre kommisjonsmedlemmer. Samtidig vil modellen trolig
-innebære at kommisjonsmedlemmene i praksis vil
-benytte noe mer tid per sak enn i dag til forberedelser og drøftelser i møtene. En slik utvikling er
-til dels ønskelig, og i tråd med målsetningen om å
-skape mer betryggende avgjørelser av gjenåpningsspørsmålet. Dette vil redusere innsparingen
-noe.
-Forslaget forutsetter at det gjøres endringer i
-straffeprosessloven §§ 395 og 399. Det vises til
-omtalen av lovendringene og merknadene til disse
-i kapittel 26. Det vises for øvrig til utvalgets forslag om å endre beslutningskravet for avgjørelser
-om å gjenåpne til gunst i punkt 20.6.
-
-20.2.3 Arbeidsdelingen mellom sekretariatet
-og kommisjonsmedlemmene
-Utvalget legger til grunn at en inndeling i flere
-avdelinger vil frigjøre tid for kommisjonsmedlemmene. Dette vil muliggjøre at de involveres tettere
-i behandlingen av sakene, og at de får økt innflytelse og kontroll ved utredningen og utformingen
-av avgjørelsene.
-
-[Side 189]
-
-NOU 2024: 24
-Prøvd på nytt
-
-Kommisjonsmedlemmenes begrensede mulighet til å kontrollere utredningen av gjenåpningssakene har lenge vært gjenstand for debatt, blant
-annet i forbindelse med arbeidsgruppens evaluering i 2012.24 For å sikre kommisjonsmedlemmene mulighet til å vurdere om saken er godt nok
-opplyst før avgjørelsen tas, anbefalte arbeidsgruppen at utrederen som hovedregel burde presentere for kommisjonen en oversikt over etterforskningsskritt som er utført i kommisjonens regi, og
-at også fravær av utredningsskritt kort burde
-angis og begrunnes før utvalget treffer sin avgjørelse.25
-Utvalget er enig i denne anbefalingen. Utvalget forstår det slik at dette i stor grad er praksis i
-kommisjonen i dag, men vil likevel understreke
-betydningen av at dette gjøres. Det er avgjørende
-at kommisjonsmedlemmene er kjent med hvilke
-utredningskritt som er gjort, og resultatet av dem,
-for å kunne ta stilling til gjenåpningsbegjæringen.
-Utvalget vil også understreke behovet for informasjon om utredningskritt som er begjært, men ikke
-utført. Som arbeidsgruppen pekte på, har kommisjonsmedlemmene en plikt til å påse at sakene er
-tilstrekkelig utredet, og – om nødvendig – kreve
-ytterligere utredning før avgjørelsen tas.26 Kommisjonen bør videre – slik praksis delvis er i dag –
-holdes løpende oppdatert om utredningen av
-sakene, spesielt i større saker som behandles over
-lengre tid.
-Arbeidsgruppen foreslo også tiltak som var
-ment å sikre kommisjonsmedlemmene større innflytelse over overveielsen og utformingen av kommisjonens avgjørelser av gjenåpningsspørsmålet.
-Arbeidsgruppen pekte på at utrederen som regel
-skrev et fullstendig utkast til avgjørelse, og mente
-at dette kunne «virke bindende for tanken og
-debatten» i kommisjonsmøtene.27 Arbeidsgruppen
-mente at kommisjonsmedlemmene ville stå i friere i sin vurdering dersom de kun fikk presentert
-en redegjørelse for faktum og juss, uten et ferdig
-utformet utkast til avgjørelse.
-Utvalget er enig i dette. Et av siktemålene med
-forslaget om å dele kommisjonen inn i flere
-avdelinger er å sikre at kommisjonsmedlemmene
-får mulighet til å drøfte utrederens forslag grundigere og involvere seg i større grad i utformingen
-av avgjørelsen.
-Etter gjeldende retningslinjer har utrederen
-adgang til å presentere saken uten å legge inn for24
-
-Se nærmere om arbeidsgruppens evaluering i punkt 5.4.
-Etterkontroll (2012) s. 62.
-26 Etterkontroll (2012) s. 61.
-27 Etterkontroll (2012) s. 62.
-25
-
-187
-
-Kapittel 20
-
-slag til kommisjonens vurderinger og konklusjon.
-Utvalget forstår det slik at dette gjøres noe oftere i
-dag enn tidligere, men at det fortsatt kun skjer
-unntaksvis. Utvalget mener at dette utgangspunktet bør snus, og at hovedregelen – i hvert fall i
-komplekse bevissaker – bør være at det ikke
-utformes et fullstendig utkast som inkluderer
-kommisjonens vurdering og konklusjon. Så langt
-mulig bør den nærmere vurderingen og konklusjonen holdes åpen, og heller føyes til etter kommisjonsmøtet i tråd med kommisjonens beslutning. Utvalget mener at en slik praksis vil kunne
-bidra til friere og mer veloverveide vurderinger av
-gjenåpningsspørsmålet, og i tillegg til bedre
-begrunnelser i vedtakene, hvor både hensyn som
-taler for og imot gjenåpning, kommer frem.28
-
-20.2.4 Varaenes oppmøte
-Etter regelen i straffeprosessloven § 395 første
-punktum tiltrer varamedlemmene «ved forfall».
-Varaene har ikke stemmerett, med mindre de trer
-i stedet for et fast medlem som ikke er til stede. I
-praksis har det imidlertid – helt siden kommisjonen ble etablert – vært vanlig at samtlige varamedlemmer møter til alle kommisjonsmøter,29
-uavhengig om det er forfall, og at de deltar med
-synspunkter i diskusjonene.30 Utvalget forstår det
-slik at varaene som regel også forbereder seg til
-møtene på lik linje med de faste medlemmene.
-Denne praksisen har vært begrunnet i at det
-kan være vanskelig å sette seg inn i sakene på en
-god nok måte dersom behovet for tiltredelse først
-blir avklart i kort tid før møtet. Praksisen bidrar
-videre til å holde varemedlemmene oppdatert om
-saker som løper over tid, og er en enkel måte å
-sikre varamedlemmene opplæring på. I tillegg har
-det vært en oppfatning om at varamedlemmenes
-perspektiver bidrar positivt til vurderingen av
-gjenåpningsspørsmålet.
-Utvalget oppfordrer kommisjonen til å vurdere
-om denne praksisen er nødvendig, og om det er
-mulig å innrette normen for varaenes oppmøte på
-en måte som er mer i tråd med lovens utgangs28
-
-Se nærmere om kommisjonens begrunnelser i punkt 16.4
-og utvalgets forslag til nye regler om utforming og begrunnelse av kommisjonens avgjørelser i punkt 21.10.
-29 Iblant har kommisjonen imidlertid avholdt enkelte møter
-uten samtlige varamedlemmer tilstede. Utvalget forstår det
-slik at dette hovedsakelig har skjedd ved avholdelse av digitale møter, hvor kommisjonen først og fremst har behandlet enkle saker.
-30 Se også Etterkontroll (2012) s 48: «Når det gjelder varamedlemmene har disse, helt siden kommisjonens oppstart,
-deltatt på møtene i kommisjonen, på linje med de ordinære
-medlemmene».
-
-[Side 190]
-
-188
-
-Kapittel 20
-
-NOU 2024: 24
-Prøvd på nytt
-
-punkt. Gjeldende praksis innebærer at kommisjonen normalt lønner tre kommisjonsmedlemmer
-som ikke er stemmeberettiget, ved avgjørelsene
-som tas og forberedelsene til disse. Det bør vurderes om varaene heller først og fremst bør møte
-ved forfall, i alle fall dersom det aktuelle varamedlemmet har arbeidet for kommisjonen i noe
-tid, slik at behovet for opplæring og erfaring er
-mindre.
-I den foreslåtte avdelingsmodellen vil det være
-opp til kommisjonen å avgjøre hvor mange varamedlemmer som skal oppnevnes og den nærmere
-fordelingen mellom jurister og lekpersoner. For å
-være beslutningsdyktig kreves det at minst tre
-medlemmer er til stede, men det forutsettes kun
-at minst én av disse er jurist. Dette åpner for at
-kommisjonen kan være beslutningsdyktig for
-eksempel dersom ett av de faste juristmedlemmene har forfall og erstattes av en lekperson som
-vara, slik at avdelingen vil bestå av to lekpersoner
-og en jurist.
-Denne fleksibiliteten vil blant annet gjøre det
-mulig at et varemedlem som deltar i kommisjonsmøtene i en opplæringsfase, kan tre inn for et av
-de faste medlemmene ved forfall, uavhengig av
-om varamedlemmet er lekperson eller jurist. Fleksibiliteten vil altså gjøre det enklere for kommisjonen å utvikle nye normer for varaoppmøte som
-ivaretar behovet for opplæring og samtidig
-begrenser kommisjonens utgifter. Utvalget mener
-samtidig at det i alvorlige saker, eller saker som
-reiser rettslige spørsmål av betydning, bør tilstrebes at avgjørelsen tas med to jurister til stede. Det
-bør også etterstrebes at én lekperson deltar ved
-avgjørelser som reiser bevisspørsmål.
-Utvalget mener for øvrig at en endring i normen for varaenes oppmøte som skissert over, bør
-vurderes også dersom det ikke gjøres endringer i
-den gjeldende organiseringen av kommisjonen.
-
-20.2.5 Andre alternativer
-Utvalgets primære forslag til organisering av
-Gjenopptakelseskommisjonen er beskrevet i
-kapittel 24. Utvalget foreslår der at kommisjonen
-deles inn i avdelinger med tre heltids- og deltidsansatte kommisjonsmedlemmer som treffer avgjørelsene. I saker som reiser bevisspørsmål, vil
-avdelingene etter en nærmere vurdering av blant
-annet sakens kompleksitet og alvor kunne settes
-med ytterligere to lekpersoner, se punkt 24.3.4.
-En lignende ordning med utvidelse av kommisjonskollegiet i komplekse bevissaker kan vurderes også dersom avdelingsmodellen skissert i
-dette kapittelet gjennomføres.
-
-Selv om dagens kollegium med fem kommisjonsmedlemmer opprettholdes, mener utvalget at
-det bør vurderes å opprette flere avdelinger i
-Gjenopptakelseskommisjonen. En inndeling i
-flere avdelinger med fem kommisjonsmedlemmer
-vil kunne bidra til å redusere saksbehandlingstiden, sikre at saksmengden for det enkelte kommisjonsmedlem ikke blir for stor og skape mulighet
-for grundigere og mer betryggende behandling
-av sakene. Ettersom medlemmene lønnes på timebasis, vil en slik organisering heller ikke nødvendigvis medføre økte utgifter.
-En slik innretning vil imidlertid ikke frigjøre
-mer tid til behandlingen av den enkelte sak innenfor gjeldende budsjettrammer, slik forslaget i
-punkt 20.2.2 også tar sikte på. De enkelte sakene
-vil fortsatt behandles av fem kommisjonsmedlemmer. En slik innretning vil heller ikke muliggjøre
-at kommisjonsmedlemmene selv styrer utredningen av sakene og utformer avgjørelsene av gjenåpningsspørsmålet. Dette er et vesentlig formål
-med forslaget i kapittel 24.
-Uansett innretning mener utvalget at normen
-for varaoppmøte bør endres, se punkt 20.2.4.
-
-20.3 Innføring av utredningsleder og
-oppsplitting av lederens doble
-rolle
-I representantforslaget som ligger til grunn for
-utvalgets gjennomgang av Gjenopptakelseskommisjonens virksomhet, er det pekt på at kommisjonens leder også er leder for sekretariatet. Dette
-innebærer ifølge forslaget at
-«[…] leder drøfter saken med sekretariatet og
-har ansvar for både utredninger og konklusjoner. Det kan medføre at leder føler en lojalitet
-til sine ansattes innstillinger. Det bør vurderes
-om det bør innføres et skille mellom sekretariatets leder og kommisjonens leder.»31
-
-Etter straffeprosessloven § 395 første ledd andre
-punktum skal kommisjonen ha en leder og en
-nestleder som begge er faste kommisjonsmedlemmer. Både lederen og nestlederen har kompetanse til å treffe en rekke avgjørelser alene, jf.
-§ 395 tredje ledd andre punktum, herunder om å
-forkaste begjæringer etter forenklet behandling,
-jf. § 397 tredje ledd tredje punktum, og å avhente
-vitner med tvang, jf. § 398 a tredje ledd.
-31
-
-Dokument 8:30 S (2022–2023) s. 1.
-
-[Side 191]
-
-NOU 2024: 24
-Prøvd på nytt
-
-For øvrig sier loven og forarbeidene lite om
-ledelsen av sekretariatet.32 I praksis har en av
-kommisjonens erfarne utredere bistått lederen
-ved å treffe enkelte avgjørelser etter fullmakt ved
-lederens fravær. Dette har særlig vært aktuelt for
-avgjørelser som medfører utgifter, typisk om oppnevning av forsvarer. Vedkommende har imidlertid ingen formell lederrolle og har heller ikke i
-praksis fungert som en leder for sekretariatet,
-utover å gi faglige råd og treffe avgjørelser etter
-delegasjon.33 Kommisjonens leder har både hatt
-personalansvaret og ansvaret for det løpende
-utredningsarbeidet i sekretariatet.
-Lederen for kommisjonen har dermed en
-«dobbel rolle», i den forstand at vedkommende
-både er leder for kollegiet av medlemmer som
-treffer avgjørelsene, og i tillegg den som har
-ansvar for sekretariatets utredning. Denne innretningen har delvis støtte i forarbeidene, hvor det
-ble uttrykt at lederen burde få «reell mulighet til å
-lede det daglige arbeidet i kommisjonen og til å
-styre arbeidet med sakene».34 Samtidig har innretningen skapt diskusjon. I arbeidsgruppens
-etterkontrollrapport ble det pekt på at «[i]nnholdet og rammene for lederrollen i den norske kommisjon er svakt formalisert», og lederens «dobbeltrolle» ble drøftet særskilt.35 Arbeidsgruppen
-pekte på faren for at lederen «identifiserer seg så
-sterkt med sekretariatet, at både lederen og kommisjonsmedlemmenes uavhengige vurdering av
-sakene svekkes».36 I tillegg viste arbeidsgruppen
-til at den doble rollen gir lederen «en privilegert
-posisjon i forhold til de øvrige medlemmene, som
-kan komme til å svekke kommisjonen som kollegialt organ».37 Arbeidsgruppens anbefaling var at
-«kommisjonslederrollen [burde] tydeliggjøres og
-[…] nestlederollen for sekretariatet styrkes».38
-Etter utvalgets syn er den doble lederrollen
-uheldig. Utvalget slutter seg til arbeidsgruppens
-syn om at dobbeltrollen kan føre til at lederen –
-32
-
-Forarbeidenes uttalelser om sekretariatet er beskrevet
-nærmere i punkt 7.3.2 og 7.3.4.
-33 Arbeidsgruppen beskrev en lignende rolle for en av utrederne i sekretariatet: «En av de juridiske utrederne har tittelen ‘nestleder’. Det er noe uklart for arbeidsgruppen
-hvilke arbeidsoppgaver vedkommende har. […] Vedkommende synes imidlertid å ha en form for ‘avlastningsfunksjon’ for sekretariatets leder, men har verken en linjefunksjon med instruksjonsmyndighet eller noen form for personalansvar overfor de øvrige utrederne.» Se Etterkontroll av
-Gjenopptakelseskommisjonen (2012) s. 58.
-34
-Innst. O. nr. 114 (2000–2001 s. 6.
-35 Etterkontroll (2012) s. 51.
-36 Etterkontroll (2012) s. 52.
-37 Etterkontroll (2012) s. 51.
-38
-Etterkontroll (2012) s. 53.
-
-189
-
-Kapittel 20
-
-ved avgjørelsen av gjenåpningsspørsmålet – blir
-påvirket av valgene som tas under utredningen av
-saken. For eksempel vil vurderingene som gjøres
-i kommisjonsmøtene, kunne bli påvirket av om
-utrederen – ofte i samråd med lederen – har funnet det unødvendig å foreta nærmere utredningsskritt i saken. Den doble lederrollen kan dermed
-føre til en mindre åpen innstilling ved avgjørelsen
-av gjenåpningsspørsmålet. Dette er også påpekt
-av flere forsvarere i utvalgets spørreundersøkelse.
-Videre er det etter utvalgets syn uheldig at
-lederen – gjennom ledelsen av sekretariatet – vil
-kunne opparbeide seg en kjennskap til saken som
-langt overskrider de andre kommisjonsmedlemmenes forståelse. Dette kan føre til at lederens
-oppfatning betraktes som mer «opplyst», og at
-lederens synspunkter derfor – mer eller mindre
-bevisst – tillegges større vekt enn de øvrige medlemmenes.
-Utvalget foreslår derfor at det opprettes en ny
-stilling som utredningsleder i kommisjonen, som
-vil ha ansvar for å lede det daglige utredningsarbeidet i sekretariatet. Forslaget er også ment å
-lette arbeidsbyrden for lederen, som i dag fungerer både som utredningsleder, kommisjonsmedlem og overordnet administrativ sjef for virksomheten. En målsetning er å legge til rette for at
-lederen kan treffe avgjørelser om å gjenåpne
-enkle saker alene,39 samt frigjøre mer tid til den
-overordnede, administrative driften av virksomheten. Videre vil utredningslederen kunne bidra til å
-skape en mer betryggende behandling av avgjørelser om å forkaste begjæringer, jf. § 397 tredje
-ledd.40
-Et siktemål med forslaget er i tillegg å skape
-mulighet for økt oppfølging av utrederne. Det
-omfattende ansvaret lederen har i dag, kan gjøre
-det vanskelig å følge opp den daglige utredningen
-på en grundig måte, samt å føre tilstrekkelig oversyn med fremdriften i sakene. Muligheten for å
-opprette en slik stilling har også blitt tatt opp av
-enkelte ansatte i sekretariatet, som særlig har vist
-til et ønske om tettere oppfølging og faglig «sparring». Utvalget antar at behovet for en koordinerende rolle i sekretariatet også vil øke, med tanke
-på økningen i antall begjæringer som fremmes for
-kommisjonen og den nylige utvidelsen av sekretariatet.41
-Utvalget viser for øvrig til at lignende stillinger
-finnes i den engelske og delvis i den skotske gjenopptakelseskommisjonen. I den skotske kommi39
-
-Se utvalgets forslag i punkt 20.8.
-Se nærmere i punkt 20.7.
-41
-Se punkt 15.2 og 15.8.
-40
-
-[Side 192]
-
-190
-
-Kapittel 20
-
-NOU 2024: 24
-Prøvd på nytt
-
-sjonen fungerer én person både som overordnet
-administrativ leder og leder for utredningsenheten, og er ikke medlem av kollegiet som treffer
-avgjørelsene.
-Utvalget antar at utredningslederen bør ansettes av kommisjonen i en heltidsstilling etter ordinære regler for ansettelse i det offentlige. I straffeprosessloven § 395 fjerde ledd andre punktum
-heter det at kommisjonen «tilsetter et nødvendig
-antall saksforberedere». Utvalget legger til grunn
-at også utredningslederen vil omfattes av denne
-bestemmelsen.
-Den foreslåtte bestemmelsen om at utrederne
-kan ansettes på åremål, er også ment å omfatte
-utredningslederen, se utvalgets forslag i punkt
-20.4. Det forutsettes at denne adgangen benyttes.
-For å sikre en viss fleksibilitet mener utvalget
-imidlertid at eventuell tid som utreder ikke bør
-telle med i åremålsperioden for utredningslederen
-dersom denne først har vært ansatt som utreder.
-For øvrig mener utvalget at lederens og nestlederens rolle og kompetanse bør opprettholdes
-som i dag. Det foreslås derfor ingen øvrige
-endringer i reglene som omhandler dem.42 Utvalget antar videre at utredningslederen vil få delegert kompetanse fra lederen til å ta avgjørelser
-som omhandler utredningsarbeidet, herunder om
-å oppnevne forsvarer, oppnevne sakkyndig,
-begjære etterforskningsskritt fra påtalemyndigheten mv. Inntrykket er for øvrig at de ovennevnte
-hjemlene for å avhente vitner med tvang og lignende sjelden brukes praksis. Det foreslås derfor
-heller ingen utvidelse av kompetansereglene i
-loven.
-
-20.4 Åremål for utrederne
-Etter gjeldende regler gjelder ingen begrensning
-for hvor lenge utrederne i sekretariatet kan være
-ansatt i Gjenopptakelseskommisjonen. Om utrederne – i likhet med kommisjonsmedlemmene –
-burde være ansatt på åremål, er ikke vurdert i proposisjonen som lå til grunn for opprettelsen av
-kommisjonen.43 Sekretariatets sammensetning og
-arbeidsbetingelser ble i liten grad drøftet i lovforarbeidene.
-42
-
-Se imidlertid utvalgets forslag til en justering av ordlyden i
-§ 395 første ledd som vil klargjøre at det kan oppnevnes
-flere nestledere i kommisjonen. Forslaget har sammenheng med forslaget om å dele kommisjonen inn i flere
-avdelinger, se punkt 20.2. Kompetansereglene vil dermed
-kunne utvides til å gjelde flere nestledere, men det foreslås
-ingen innholdsmessige endringer i kompetansereglene.
-43
-Ot.prp. nr. 70 (2000–2001).
-
-Spørsmålet ble tatt opp av arbeidsgruppen
-som evaluerte kommisjonen i 2012. I intervjuer
-med arbeidsgruppen uttrykte noen av de ansatte i
-sekretariatet «en viss bekymring for at kommisjonens utredere over tid kan utvikle mindre åpenhet
-for at ‘her kan det være noe feil’», og mente at
-«utredere på åremål bør vurderes».44 Arbeidsgruppen pekte også på at «[å]remålsstillinger kan
-hindre at utrederne ‘gror fast’ i rollen», men foreslo likevel ikke å innføre åremål for sekretariatet.
-Arbeidsgruppen viste til at åremålsstillinger
-«ellers ikke er vanlig i forvaltningsorganer», og at
-det ikke var noe særskilt behov for en slik løsning
-for utrederne i Gjenopptakelseskommisjonen.45
-I senere tid har spørsmålet blitt tatt opp på ny,
-blant annet i forbindelse med kommisjonens
-behandling av Viggo Kristiansens begjæringer i
-Baneheia-saken. Et spørsmål som særlig har vært
-diskutert, er om det er nødvendig å begrense
-funksjonstiden for utrederne for å sikre tilstrekkelig oppdatert etterforskningskompetanse.46
-Etter utvalgets syn tilsier den raske teknologiske utviklingen i etterforskningsfaget at det er
-grunn til å sikre en viss sirkulasjon blant de politifaglige utrederne i kommisjonen. Også for de juridiske utrederne er det grunn til å etterstrebe oppdatert fagkompetanse og at kommisjonen jevnlig
-tilføres erfaring og impulser fra andre deler av
-rettsvesenet. Utvalget mener videre at åremålsstillinger kan bidra til å sikre at begjæringene møtes
-med åpenhet og nysgjerrighet.
-Utvalget viser for øvrig til forslagene i punkt
-20.2, hvor betydningen av å øke kommisjonsmedlemmenes innflytelse over utredningen og avgjørelsen av gjenåpningssakene fremheves. Utrederne er formelt sett bare ansvarlige for utredningen av gjenåpningssakene, men har i praksis også
-stor innflytelse på kommisjonens avgjørelse av
-gjenåpningsspørsmålet. Det kan være uheldig om
-enkelte utredere får en for fremtredende rolle og
-innflytelse over kommisjonens avgjørelser og –
-med tiden – over kommisjonens praksis. Etter
-utvalgets syn er det derfor naturlig at utrederne –
-i likhet med kommisjonsmedlemmene – ansettes
-på åremål. Utvalget viser ellers til at en slik ordning ble innført for utrederne i Høyesterett i
-2001,47 hvor lignende hensyn delvis gjør seg gjeldende.
-44
-
-Se Etterkontroll (2012) s. 58.
-Etterkontroll (2012) s. 59.
-46 Spørsmålet er blant annet tatt opp i Politiforum (05.12.22).
-47 Ved lov 28. april 2000 nr. 34 ble domstolloven § 61 endret
-slik at det åpnes for at Høyesteretts «[p]rotokollsekretærer
-og utredere kan tilsettes på åremål». Åremålsstillinger ble i
-praksis innført i 2001, se Etterkontroll (2012) s. 59.
-45
-
-[Side 193]
-
-NOU 2024: 24
-Prøvd på nytt
-
-Gjeldende praksis for utrederne i Høyesterett
-er at åremålet settes til syv år. Etter utvalgets syn
-vil åremål på syv år – som for øvrig gjelder for
-kommisjonens leder – være naturlig også for utrederne i kommisjonen.
-Det følger av statsansatteloven § 10 at åremålsstillinger forutsetter lovhjemmel eller stortingsvedtak. Utvalget foreslår at adgangen til å ansette
-utrederne på åremål lovfestes i straffeprosessloven § 395 nytt tredje ledd tredje punktum, se nærmere om lovforslaget i kapittel 26. I likhet med det
-som gjelder for Høyesterett, jf. domstolloven § 61,
-foreslås en bestemmelse som åpner for at kommisjonens utredere «kan» ansettes på åremål. Det
-forutsettes imidlertid at denne adgangen benyttes.
-Bestemmelsen vil også omfatte utredningslederen, se forslaget i punkt 20.3. Utvalget mener at
-adgangen til å ansette på åremål også bør benyttes
-for utredningslederen, og at en åremålsperiode på
-syv år vil være naturlig også for denne. For å sikre
-en viss fleksibilitet mener utvalget imidlertid at
-eventuell tid som utreder ikke bør telle med i åremålsperioden for utredningslederen dersom vedkommende først har vært ansatt som utreder.
-
-20.5 Vervet som kommisjonsmedlem:
-funksjonstid og offentlig utlysning
-Reglene for oppnevning av kommisjonsmedlemmene er regulert i straffeprosessloven § 395 andre
-ledd. Det heter der at
-«[k]ommisjonens leder utnevnes av Kongen i
-statsråd for en periode på 7 år uten adgang til
-gjenutnevning. Kommisjonens øvrige medlemmer og varamedlemmer oppnevnes av Kongen
-i statsråd for en periode på 3 år med adgang til
-én gjenoppnevning.»
-
-Bestemmelsene er forstått slik at funksjonstiden
-som leder ikke påvirkes av eventuell tidligere tid
-som kommisjonsmedlem. Dersom et kommisjonsmedlem senere ansettes som leder for kommisjonen, vil vedkommende derfor i praksis kunne fungere som kommisjonsmedlem i til sammen 13 år.
-Ordningen har skapt debatt, blant annet ved
-utnevnelsen av Helen Sæter som kommisjonsleder i 2010.48 Arbeidsgruppen som evaluerte kommisjonen i 2012, var også inne på spørsmålet.
-Arbeidsgruppen mente at det kunne stilles spørsmål ved hvor heldig det er at kommisjonens leder
-tidligere har vært kommisjonsmedlem, og pekte
-på at vedkommende vil kunne fungere som med-
-
-191
-
-Kapittel 20
-
-lem i totalt 13 år.49 For å «unngå at kommisjonens
-leder blir sittende for lenge i kommisjonen»
-mente arbeidsgruppen at det burde innføres en
-samlet funksjonstid på 10 år for tilfeller hvor kommisjonens leder tidligere har vært kommisjonsmedlem eller varamedlem.50
-Utvalget slutter seg til arbeidsgruppens vurdering. Ut fra hensynene som begrunner åremålsreglene for kommisjonens medlemmer, er det etter
-utvalgets syn uheldig at et kommisjonsmedlem –
-ved senere å bli utnevnt som leder – kan delta i
-kommisjonskollegiet i totalt 13 år. Ønsket om å
-sikre nysgjerrighet og tilførsel av nye impulser i
-kommisjonen taler for at funksjonstiden som leder
-bør påvirkes av om vedkommende tidligere har
-vært kommisjonsmedlem.
-Samtidig mener utvalget at det bør være
-adgang til at et tidligere medlem som har fungert i
-to åremålsperioder, kan bli utnevnt som leder. Det
-kan være en fordel at lederen har erfaring fra tidligere arbeid i kommisjonen. Utvalget foreslår derfor – som arbeidsgruppen – at den totale funksjonstiden i slike tilfeller begrenses til 10 år. Etter
-forslaget skal begrensningen gjelde uavhengig av
-om det har gått noe tid fra personen var medlem
-av kommisjonen, og frem til vedkommende ble
-utnevnt til leder.
-Utvalget mener videre at det bør gjøres
-endringer i prosedyren for oppnevnelse av kommisjonsmedlemmene.
-De nærmere rutinene for oppnevnelsen av
-kommisjonsmedlemmene er i liten grad formalisert. Utvalget har derfor vært i kontakt med Justis- og beredskapsdepartementet for å få nærmere
-informasjon om hvordan oppnevnelsene skjer i
-praksis.
-For kommisjonens leder skjer tilsettingen
-gjennom en ordinær ansettelsesprosess, etter at
-stillingen er lyst ut offentlig. Departementet vil i
-den forbindelse innhente synspunkter fra diverse
-berørte grupper, som Dommerforeningen og
-
-48
-
-Sæter hadde fungert som kommisjonsmedlem siden oktober 2004 og var inne i utløpet av sin andre treårsperiode. I
-et skriftlig spørsmål på Stortinget ble daværende justisminister Knut Storberget spurt om utnevningen av Sæter til
-leder var i tråd med formålet bak åremålsreglene for kommisjonens medlemmer. Storberget svarte at «[d]et å ha
-vært medlem eller varamedlem i Kommisjonen for gjenopptakelse av straffesaker, utelukker ikke at man kan
-utnevnes til leder. Helen Sæter har ikke vært leder av kommisjonen tidligere, og dermed kunne hun utnevnes til leder
-etter straffeprosessloven § 395», se Dokument nr. 15:1253
-(2009–2010).
-49
-Etterkontroll (2012) s. 55.
-50
-Etterkontroll (2012) s. 55 og s. 119.
-
-[Side 194]
-
-192
-
-Kapittel 20
-
-NOU 2024: 24
-Prøvd på nytt
-
-Advokatforeningen, før utlysningen. Formelt oppnevnes lederen deretter av Kongen i statsråd.
-Ved oppnevnelsen av de øvrige kommisjonsmedlemmene er praksis derimot at stillingen ikke
-lyses ut offentlig. I praksis skjer oppnevningen av
-disse ved at departementet utarbeider et forslag
-med aktuelle kandidater som oversendes til regjeringen. Forslagene vil være basert på innspill fra
-berørte interesseorganisasjoner, som ofte vil ha
-sondert med sine medlemmer i forkant. Hvilke
-interessegrupper som kontaktes, er delvis avhengig av hvilken faglig bakgrunn det er ønskelig at
-det nye kommisjonsmedlemmet skal ha. Dersom
-det for eksempel er ønskelig å oppnevne en person med dommerbakgrunn, vil departementet
-kontakte Dommerforeningen. I tråd med forutsetningene i forarbeidene etterstreber kommisjonen
-at juristmedlemmene skal ha variert erfaring fra
-ulike deler av strafferettspleien.51 Departementet
-foretar deretter en intern vurdering av aktuelle
-kandidater før forslagene oversendes til Kongen i
-statsråd for oppnevnelse. Før forslagene oversendes, kan det også være aktuelt å kontakte kommisjonen for innspill.
-Oppnevningsprosedyren ble kritisert av
-arbeidsgruppen som evaluerte kommisjonen i
-2012. Arbeidsgruppen skrev at det var «uklart» for
-dem hvordan departementet gikk frem for å
-rekruttere kommisjonsmedlemmene, og at
-rekrutteringen syntes å skje gjennom «lukkede og
-lite forutsigbare prosesser.»52 Arbeidsgruppen
-vurderte ordningen slik:
-«Selv om rekrutteringsprosessen til kommisjonen nok ikke skiller seg vesentlig fra andre lignende rekrutteringsprosesser, er det grunn til
-å understreke at en lukket og lite forutsigbar
-prosess ikke er uproblematisk. Det er en viss
-fare for at rekrutteringen da skjer gjennom
-rekrutterernes egne nettverk, som igjen kan
-begrense ‘synsfeltet’ og føre til at dyktige kandidater overses. Det at prosessen er lukket kan
-også i seg selv svekke tilliten til prosessen og i
-ytterste instans tilliten til kommisjonen.
-Arbeidsgruppen anbefaler derfor at rekrutteringen gjøres åpen gjennom en offentlig utlysning.»53
-
-Arbeidsgruppen pekte videre på at både kommisjonen i England og Skottland utnevner sine med51
-
-Se Ot.prp. nr. 70 (2000–2001) s. 35.
-Etterkontroll (2012) s. 49.
-53 Etterkontroll (2012) s. 50.
-52
-
-lemmer etter offentlig utlysning.54 Utvalget forstår det slik at det samme gjelder i dag.
-Utvalget slutter seg til arbeidsgruppens vurdering. Selv om departementet i praksis synes å
-gjennomføre en forholdsvis bred vurdering av
-aktuelle kommisjonsmedlemmer, hvor berørte
-organisasjoner får komme med innspill, er det
-etter utvalgets syn et selvstendig poeng at rekrutteringsprosessen bør være offentlig og åpen for
-allmennheten. Dette har betydning for allmennhetens tillit til kommisjonen.
-En offentlig rekrutteringsprosess kan også
-bidra til å sikre et bredere rekrutteringsgrunnlag.
-Dette ble påpekt av Riksadvokatembetet i høringssvaret til etterkontrollrapporten.55 Riksadvokaten
-pekte videre på at spørsmål om offentlig utlysning
-også var reist med tanke på utnevning av medlemmer til Den rettsmedisinske kommisjon, og at
-man i Spesialenheten for politisaker hadde gått
-over til offentlig utlysning av vervene i etaten.56
-Etter gjeldende retningslinjer oppnevnes medlemmene til Den rettsmedisinske kommisjonen nå
-etter offentlig utlysning.57
-Utvalget foreslår derfor at kommisjonsmedlemmene rekrutteres gjennom offentlig utlysning.
-Medlemmene skal fortsatt oppnevnes av Kongen i
-statsråd, men det forutsettes altså at aktuelle kandidater som søker på stillingen, vurderes i den
-sammenheng. Utvalget antar at det ikke vil være
-nødvendig å lyse ut vervet dersom kommisjonsmedlemmet ønsker gjenoppnevning.
-Departementets adgang til å oppnevne stedfortredere dersom kommisjonen «ellers ikke vil være
-vedtaksfør», jf. § 395 andre ledd tredje punktum,
-opprettholdes.58
-
-20.6 Bestemmende mindretall for
-avgjørelser om å gjenåpne
-Det følger av straffeprosessloven § 395 første ledd
-at kommisjonen skal ha fem faste medlemmer og
-tre varamedlemmer som tiltrer ved forfall. I § 399
-andre punktum er det bestemt at fem medlemmer,
-hvorav tre jurister, avgjør om gjenåpningsbegjæringen skal tas til følge. Avgjørelsen treffes med
-54
-
-Etterkontroll (2012) s. 49–50.
-Riksadvokaten (22.03.13) s. 2. Også de øvrige høringsinstansene som uttalte seg om spørsmålet, var positive til forslaget. Se Advokatforeningen (01.02.13) s. 7 og NFES
-(01.02.13) punkt 2.2.1.
-56 Riksadvokaten (22.03.13) s. 2.
-57
-Justis- og beredskapsdepartementet (05.03.18) punkt 4.
-58 Bestemmelsen foreslås imidlertid flyttet til § 395 andre
-ledd fjerde punktum, se lovforslaget i kapittel 26.
-55
-
-[Side 195]
-
-NOU 2024: 24
-Prøvd på nytt
-
-alminnelig flertall, jf. § 395 tredje ledd andre punktum, med mindre begjæringen forkastes av leder
-eller nestleder alene, jf. § 397 tredje ledd.
-Utvalget har i punkt 20.2 tatt til orde for å dele
-kommisjonen inn i avdelinger som hver skal bestå
-av tre kommisjonsmedlemmer. En slik inndeling
-innebærer at kravet til antall stemmer for å gjenåpne en sak vil endres. Dersom kravet om alminnelig flertall opprettholdes, vil gjenåpning forutsette at to av tre kommisjonsmedlemmer stemmer
-for gjenåpning. Etter dagens inndeling kreves det
-derimot kun at tre av fem kommisjonsmedlemmer
-stemmer for å gjenåpne, altså en noe lavere brøk.
-Utvalget mener at stemmekravet for avgjørelser
-om å innvilge gjenåpning bør endres, slik at det vil
-være tilstrekkelig for gjenåpning at ett av tre kommisjonsmedlemmer stemmer for gjenåpning. En
-regel om «bestemmende mindretall» for gjenåpning
-vil etter utvalgets syn føre til en mer rettssikker og
-tillitvekkende behandling av gjenåpningsspørsmålet. Etter dagens ordning kan gjenåpning nektes
-selv om to kommisjonsmedlemmer har stemt for
-gjenåpning. Et slikt utfall kan virke lite tillitvekkende og føre til spekulasjon om hvordan utfallet av
-saken hadde blitt med en annen sammensetning av
-kollegiet. Etter utvalgets forslag vil det derimot kreves enstemmighet for å nekte gjenåpning.
-Etter utvalgets syn vil et slikt beslutningskrav
-også være mer i tråd med de materielle vilkårene
-for gjenåpning. Etter straffeprosessloven § 391 nr.
-3 kan gjenåpning kreves dersom en ny omstendighet eller et nytt bevis «synes egnet» til å føre til frifinnelse eller lavere straff. Høyesterett har uttalt at
-en «rimelig mulighet» for frifinnelse er tilstrekkelig, og at det ikke kreves sannsynlighetsovervekt.59 Etter § 392 andre ledd kan gjenåpning skje
-dersom særlige forhold gjør det «tvilsomt» om
-dommen er riktig, og tungtveiende hensyn tilsier
-at spørsmålet om siktedes skyld blir prøvd på ny. I
-tilfeller hvor ett eller flere kommisjonsmedlemmer mener at vilkårene er oppfylt, kan det hevdes
-at det er naturlig å se det slik at det er en «rimelig
-mulighet» for frifinnelse, eller at dommen fremstår «tvilsom» – selv om et flertall kommer til motsatt resultat.60
-Det kan fremstå betenkelig at en så viktig
-avgjørelse som gjenåpning av rettskraftige straffedommer vil kunne avgjøres av én persons
-stemme. Utvalget viser i den sammenheng til at
-regler om bestemmende mindretall finnes på flere
-områder i straffeprosessen. For eksempel kreves
-det enstemmighet for avgjørelser om å nekte samtykke eller om å nekte anken fremmet til ankefor59
-
-Jf. bl.a. Rt. 2005 s. 1665 avsnitt 21.
-
-193
-
-Kapittel 20
-
-handling i lagmannsretten, jf. straffeprosessloven
-§ 321 tredje ledd. Etter straffeprosessloven § 35
-første ledd kreves det fem av syv stemmer, hvorav
-minst én fra en fagdommer, for å avgjøre skyldspørsmålet til ugunst for siktede i lagmannsretten.
-Et mindretall på tre kan altså frifinne.
-Utvalget antar at en regel om bestemmende
-mindretall kun vil få betydning i et begrenset
-antall saker. Undersøkelser har vist at dissenser
-forekommer relativt sjelden i kommisjonen. I perioden 2015–2020 forekom dissenser i rundt 6 % av
-gjenåpnede saker og i rundt 4 % av sakene
-behandlet av kommisjonen som kollegium som
-ikke ble tatt til følge.61 Det er videre grunn til å tro
-at andelen dissensavgjørelser vil bli mindre dersom antallet kommisjonsmedlemmer som treffer
-avgjørelsene, reduseres fra fem til tre.
-Endringen foreslås gjennomført ved en ny
-bestemmelse i § 399 nytt andre ledd andre punktum om at kommisjonens avgjørelse om å nekte
-gjenåpning til gunst krever enstemmighet.
-Bestemmelsen innebærer at én stemme vil være
-tilstrekkelig for gjenåpning, og må ses i sammenheng med utvalgets forslag om å redusere antallet
-kommisjonsmedlemmer i kollegiet fra fem til tre
-per avdeling. Utvalget mener likevel at det kan
-være grunn til å innføre en regel om bestemmende mindretall for gjenåpning til gunst også
-dersom forslaget om å dele kommisjonen inn i
-avdelinger med tre kommisjonsmedlemmer ikke
-blir fulgt opp. I så fall bør det vurderes om gjenåpning skal kreve to, og ikke bare én, stemme.
-Utvalget antar at det i så fall vil være naturlig å
-kreve at minst to av fem medlemmer stemmer for
-gjenåpning.
-Bestemmelsen gjelder avgjørelser i kommisjonskollegiet som tar stilling til gjenåpningsspørsmålet. For øvrig foreslås bestemmelsen i nåværende § 395 tredje ledd andre punktum videreført,
-slik at utgangspunktet for andre typer avgjørelser
-– for eksempel om prosessuelle spørsmål dersom
-disse vurderes av kommisjonskollegiet – vil være
-60
-
-Magnus Jerkø har hevdet at det er noe tilsynelatende
-«paradoksalt» ved dissenser i avgjørelser om å nekte eller
-innvilge gjenåpning etter § 391 nr. 3. Jerkø legger til grunn
-at egnethetskriteriet innebærer at det må gjøres en hypotetisk vurdering av hvordan de nye bevisene eller omstendighetene ville blitt vurdert i en rettsbehandling, sett i sammenheng med de opprinnelige bevisene som førte til domfellelse. Vurderingen er «asymmetrisk», ettersom det er
-tilstrekkelig for gjenåpning at frifinnelse fremstår som en
-«rimelig mulighet». Jerkø stiller spørsmålet: «[Dersom] to
-medlemmer av kommisjonen anser et nytt bevis for å være
-frifinnende, mens tre vurderer det annerledes [:] Vil det
-ikke være en rimelig mulighet for at det er de to som har
-truffet best i sin vurdering?» Se Jerkø (2022) s. 81–82.
-61 Kulmiye (2022) s. 38–39.
-
-[Side 196]
-
-194
-
-Kapittel 20
-
-NOU 2024: 24
-Prøvd på nytt
-
-at de treffes ved alminnelig flertall.62 Utvalget legger imidlertid til grunn at den nye bestemmelsen
-også vil omfatte kommisjonens vurdering av om
-en tidligere avgjørelse om å nekte gjenåpning skal
-omgjøres, slik at det vil være tilstrekkelig med én
-stemme for å omgjøre til domfeltes gunst.
-Bestemmelsen gjelder kun for avgjørelser om
-å gjenåpne til gunst. Etter utvalgets syn tilsier de
-nevnte hensynene som ligger til grunn for forslaget, at bestemmelsen bør avgrenses mot gjenåpning til skade. For gjenåpning til skade vil regelen derfor – som i dag – være at gjenåpning forutsetter alminnelig flertall, altså to av tre stemmer
-etter den foreslåtte inndelingen.
-
-20.7 Mer betryggende behandling av
-avgjørelser om å forkaste
-Gjenopptakelseskommisjonens adgang til å forkaste en begjæring uten nærmere behandling er
-regulert i straffeprosessloven § 397 tredje ledd,
-som lyder:
-«Gjelder begjæringen en avgjørelse som etter
-sin art ikke kan gjenåpnes, eller inneholder
-den ingen grunn som etter loven kan føre til
-gjenåpning, kan kommisjonen uten nærmere
-behandling forkaste begjæringen etter reglene
-om kjennelse. Det samme gjelder hvor begjæringen av andre grunner åpenbart ikke kan
-føre frem. Avgjørelsen kan tas av kommisjonens leder eller nestleder. Når en avgjørelse
-etter første punktum ikke byr på tvil, kan den
-treffes uten annen begrunnelse enn en henvisning til bestemmelsen her.»
-
-Bestemmelsen i andre punktum gir adgang til å
-avgjøre gjenåpningssaken etter en forenklet prosedyre dersom det er «åpenbart» at begjæringen
-ikke kan føre frem. Begjæringen kan vurderes
-uten nærmere undersøkelser, og uten at den forelegges partene for uttalelse. Avgjørelsen kan
-videre tas av leder eller nestleder alene. Som
-begrunnelse for regelen er det i forarbeidene vist
-til kapasitetshensyn, og at hensynet til en forsvarlig bruk av kommisjonens ressurser tilsier at
-begjæringer som «åpenbart er ugrunnete», ikke
-behandles like grundig som andre begjæringer.63
-62
-
-Bestemmelsen i nåværende § 395 tredje ledd andre punktum videreføres, men foreslås flyttet til § 399 første ledd
-første punktum, se spesialmerknaden til bestemmelsen i
-punkt 26.1.
-63
-Ot.prp. nr. 70 (2000–2001) s. 37.
-
-Det vises til den nærmere redegjørelsen i punkt
-8.4.
-Lederens adgang til å forkaste begjæringer på
-egen hånd benyttes i praksis i stor grad. Normalt
-avgjøres ca. halvparten av begjæringene kommisjonen mottar, av leder eller nestleder alene.64 I
-2023 var andelen 49 % av de realitetsbehandlede
-sakene og i 2019 hele 60 %.65
-Etter utvalgets syn er det grunn til å stille
-spørsmål om terskelen for at leder eller nestleder
-forkaster begjæringen på egen hånd, i praksis ligger noe lavere enn ordlyden og formålet bak
-bestemmelsen skulle tilsi. Utvalgets gjennomgang
-av kommisjonens avgjørelser har vist eksempler
-på begjæringer som er forkastet av leder alene,
-hvor det kan stilles spørsmål om det var «åpenbart» at begjæringen ikke kunne føre frem, og om
-sakens alvor og kompleksitet tilsa at saken uansett burde vært avgjort av den samlede kommisjonen, se punkt 16.3.2. At bestemmelsen benyttes
-ofte, og at terskelen i praksis kan synes noe lav, er
-også påpekt av forsvarere i utvalgets spørreundersøkelse.
-Det kan videre se ut til at en relativt stor andel
-av sakene som avgjøres av den samlede kommisjonen, blir gjenåpnet. I perioden 2019–2023 endte
-ca. 59 % av det totale antallet realitetsbehandlede
-saker avgjort av kommisjonskollegiet med gjenåpning. Ca. 27 % av sakene ble nektet gjenåpnet, og
-ca. 14 % ble forkastet av den samlede kommisjonen.66 Totalt er gjenåpningsprosenten for alle realitetsbehandlede saker avgjort av den samlede
-kommisjonen siden oppstarten, altså i perioden
-2004–2023, ca. 39 %.67 Dette kan tyde på at det i
-sakene som bringes inn for den samlede kommisjonen, ofte er relativt klare holdepunkter som
-taler for gjenåpning. Det kan derfor spørres om
-det i praksis er slik at saker som reiser tvil, iblant
-avgjøres av leder eller nestleder alene. Etter loven
-skal imidlertid kun «åpenbart» ugrunnede begjæringer forkastes.
-64
-
-Se punkt 15.6.
-Se Gjenopptakelseskommisjonens årsrapport for 2023,
-tabell s. 12, og årsrapporten for 2019, tabell på s. 12. Med
-realitetsbehandlede saker menes saker som ikke ble avvist
-på formelt grunnlag. Også når begjæringen forkastes på
-formelt grunnlag – fordi den gjelder en avgjørelse som
-«etter sin art ikke kan gjenåpnes», jf. § 397 tredje ledd første
-punktum – tas avgjørelsen i praksis av leder eller nestleder
-alene. Det kan for eksempel være dersom begjæringen
-gjelder en sivil dom, som eventuelt må gjenåpnes i domstolene. Dersom slike saker inkluderes i beregningen, vil tallet for andelen saker avgjort av leder eller nestleder alene,
-altså bli høyere.
-66 Se figur 15.13 i punkt 15.6.
-67
-Se figur 15.14 i punkt 15.6.
-65
-
-[Side 197]
-
-NOU 2024: 24
-Prøvd på nytt
-
-Utvalget mener på bakgrunn av dette at terskelen for å forkaste begjæringer uten behandling
-av den samlede kommisjonen i praksis bør heves
-noe. Utvalgets forslag om å dele kommisjonen inn
-i flere avdelinger vil bidra til at antallet saker per
-kommisjonsmedlem reduseres, se punkt 20.2.2.
-Et av siktemålene med forslaget er å sørge for at
-noen flere saker som i dag avgjøres av leder eller
-nestleder alene, i stedet kan behandles av det
-samlede kommisjonskollegiet.
-Det vises videre til utvalgets forslag om å innføre en adgang for leder og nestleder til å innvilge
-åpenbare begjæringer på egen hånd, se punkt
-20.8. Også dette forslaget er ment å sikre at noen
-flere saker kan behandles av den samlede kommisjonen. Det siktes til saker som reiser noe tvil, og
-først og fremst til saker hvor bevisvurderinger
-står sentralt, og hvor en samlet kommisjonsbehandling – med både jurister og lekfolk – er særlig
-viktig. Videre bør det i vurderingen av om saken
-skal legges frem for kommisjonen, ses hen til om
-det dreier seg om en alvorlig dom.68 At flere saker
-om alvorlige forhold avgjøres av kommisjonen
-som kollegium, vil etter utvalgets syn kunne bidra
-til å øke tilliten til behandlingen av gjenåpningsbegjæringene.
-Utvalget mener videre at kommisjonen bør
-etablere rutiner som sikrer en mer betryggende
-vurdering av om begjæringen skal forkastes.
-Etter gjeldende praksis vurderes begjæringen
-først av en utreder, som kan foreslå at begjæringen forkastes og skrive utkast til avgjørelse. Forslaget vurderes deretter av lederen. Forslag om å
-forkaste en begjæring vil derfor i praksis kun vurderes og godkjennes av én person, som i de fleste
-tilfeller vil være kommisjonens leder. Utvalget forstår det slik at det er forholdvis sjelden at avgjørelsen tas av nestlederen, og at de øvrige kommisjonsmedlemmene normalt heller ikke orienteres
-om begjæringene som forkastes.
-Etter utvalgets syn er det betenkelig at kommisjonens leder i praksis har eneansvar for en stor
-del av kommisjonens avgjørelser. På denne måten
-skiller den norske ordningen seg fra den engelske
-og skotske kommisjonen, hvor avgjørelsene er
-fordelt på flere personer. I den engelske kommisjonen kan avgjørelse om å nekte gjenåpning treffes av ett kommisjonsmedlem alene. Kompetansen ligger til alle kommisjonsmedlemmene, og
-det vil derfor variere fra sak til sak hvem som tar
-68
-
-Lederens avgjørelse om å forkaste begjæringen på egen
-hånd beror på et skjønn. Ordet «kan» innebærer at «lederen står fritt til å legge frem saken for en samlet kommisjon
-til avgjørelse», jf. Ot.prp. nr. 70 (2000–2001) s. 75.
-
-195
-
-Kapittel 20
-
-avgjørelsen. I den skotske kommisjonen tas i
-praksis alle avgjørelser av gjenåpningsspørsmålet
-av den samlede kommisjonen.
-Utvalget mener at det bør utarbeides rutiner
-som sikrer at også utredningslederen i noen grad
-vil kunne komme med innspill ved vurderingene
-av om begjæringer skal forkastes. Det vises til forslaget om å innføre en utredningsleder for sekretariatet i punkt 20.3. Det bør legges opp til at forslag om å forkaste iblant, eller med gitte intervaller, vurderes av utredningslederen før forslaget
-eventuelt sendes videre til leder eller nestleder for
-avgjørelse. Det kan også være aktuelt å be om
-utredningslederens vurdering dersom lederen er
-usikker på avgjørelsen. Dersom utredningslederen gir uttrykk for tvil, kan det være en indikasjon
-på at saken ikke kan anses «åpenbar», og at den
-bør fremmes for den samlede kommisjonen til
-avgjørelse.
-Utvalget antar at en slik praktisering vil gjøre
-behandlingen av de enkelte gjenåpningsbegjæringene mer rettssikker og konsistent. Utredningslederens innspill kan bidra til en løpende dialog og
-evaluering av hvor terskelen for å forkaste generelt skal ligge. Etter utvalgets syn vil det være en
-styrke at flere perspektiver kommer inn i denne
-vurderingen, hvor også nestlederen og de øvrige
-kommisjonsmedlemmene kan bidra.
+# Kommisjonens organisering og kompetanse
+
+## Innledning
+
+I representantforslaget som ligger til grunn for gjennomgangen av Gjenopptakelseskommisjonens virksomhet, er det pekt på flere sider ved kommisjonen som særlig, men ikke utelukkende, bør vurderes.[^935] Det vises for det første til «sekretariatets rolle», spesielt med tanke på sekretariatets «innflytelse på avgjørelsene som blir tatt av kommisjonen».[^936] I tillegg pekes det på at kommisjonsmedlemmene arbeider deltid hos kommisjonen, som et verv, og har andre jobber ved siden av.[^937] Dette får betydning for arbeidsdelingen mellom sekretariatet og kommisjonsmedlemmene og kan føre til at sekretariatet i praksis får stor innflytelse på avgjørelsene som tas.
+
+Videre har kommisjonen i senere år mottatt flere begjæringer enn tidligere, og restansene har økt.[^938] Dette har bidratt til at saksbehandlingstiden for kommisjonen er lang.[^939] Økningen i antall saker har også betydning for kommisjonsmedlemmenes mulighet til å sette seg inn i sakene som legges frem for dem, og dermed for kommisjonens mulighet til å treffe innholdsmessig gode avgjørelser.
+
+På bakgrunn av dette har utvalget kartlagt kommisjonens nåværende arbeidsform og sett nærmere på alternative modeller for organisering av kommisjonen. Et overordnet siktemål er å sørge for at de enkelte kommisjonsmedlemmene får færre saker å vurdere, og dermed skape mulighet for en grundigere og mer betryggende avgjørelse av gjenåpningsspørsmålet. Videre fremmes flere forslag som tar sikte på å redusere saksbehandlingstiden.
+
+I punkt 20.2 tas det til orde for å dele kommisjonen inn i flere avdelinger. Forslaget bygger på en forutsetning om at kommisjonsmedlemmene fortsatt arbeider deltid i kommisjonen.
+
+Etter utvalgets syn er det også grunn til å se nærmere på innretninger hvor flere av de som treffer avgjørelsene av gjenåpningsspørsmålet, jobber *heltid*. Dette vil kreve en mer omfattende omstrukturering av kommisjonen og presenteres derfor i et eget kapittel, se kapittel 24. I likhet med forslaget i punkt 20.2 er en grunntanke også her at kommisjonen bør deles inn i flere avdelinger for å effektivisere saksbehandlingen og sørge for at de enkelte kommisjonsmedlemmene får færre saker å vurdere. I tillegg er et vesentlig formål med dette forslaget å sørge for at kommisjonsmedlemmene i større grad kan involveres i utredningen av sakene og utformingen av avgjørelsene. En svakhet ved dagens system er at de som treffer beslutningene, i liten grad selv bereder grunnlaget og utformer den skriftlige begrunnelsen for avgjørelsen. Den alternative organisasjonsstrukturen i kapittel 24 er derfor utvalgets primære forslag.
+
+I de videre punktene i kapittel 20 fremmes en rekke forslag om endringer i kommisjonens organisering og kompetanseregler som er ment å sikre en mer betryggende og effektiv behandling av gjenåpningssakene.
+
+I punkt 20.3 foreslås det å opprette en ny stilling som utredningsleder for sekretariatet og å fjerne lederens «doble» lederansvar. Utvalget antar at en slik stilling vil bli mindre aktuell dersom organiseringen foreslått i kapittel 24 gjennomføres.
+
+De øvrige forslagene som presenteres i dette kapittelet, er i hovedsak ment å kunne gjennomføres uavhengig av om kommisjonsmodellen består som i dag, eller om forslaget i punkt 20.2 eller kapittel 24 gjennomføres. I punkt 20.4 foreslås det å innføre åremål for kommisjonens utredere. I punkt 20.5 tas det til orde for at vervet som kommisjonsmedlem bør lyses ut offentlig. I tillegg foreslås en reduksjon i total funksjonstid for kommisjonens leder dersom vedkommende tidligere har vært kommisjonsmedlem.
+
+Beslutningskravet for kommisjonens avgjørelse av gjenåpningsspørsmålet er belyst i punkt 20.6. Det foreslås der å endre kravet slik at det kreves enstemmighet for å nekte gjenåpning. Forslaget må ses i sammenheng med forslaget om å dele kommisjonen inn i flere avdelinger, hver med tre kommisjonsmedlemmer, jf. punkt 20.2 og kapittel 24. Utvalget mener imidlertid at en regel om bestemmende mindretall for gjenåpning bør vurderes også dersom dagens modell med et kommisjonskollegium på fem medlemmer består. I forslaget er det derfor pekt på ulike alternativer avhengig av hvordan kommisjonskollegiet innrettes.
+
+I punkt 20.7 fremmes forslag om endringer i kommisjonens praktisering av hjemmelen for å forkaste begjæringer, jf. § 397 tredje ledd. Det foreslås videre i punkt 20.8 en ny regel om at kommisjonens leder og nestleder kan beslutte gjenåpning dersom det er «åpenbart» at begjæringen fører frem.
+
+Utvalget har vurdert om det bør gjøres endringer i kommisjonens kompetanse når det gjelder saker om tilregnelighet og saker som hovedsakelig gjelder rettsanvendelsesfeil, men har kommet til at det ikke er grunn til det. Dette spørsmålet drøftes i punkt 20.9.
+
+## Etablering av tre, alternativt to avdelinger i kommisjonen
+
+### Bakgrunn
+
+Etter utvalgets syn tilsier flere forhold at det er utilrådelig for Gjenopptakelseskommisjonen å fortsette med sin nåværende organisering. Utvalget mener for det første at den lange saksbehandlingstiden og den store arbeidsmengden for kommisjonsmedlemmene er bekymringsfull.
+
+Som vist i punkt 14.4 har kommisjonsmedlemmene de siste tre årene hatt en gjennomsnittlig stillingsprosent for vervet på rundt 22 %. Det er videre grunn til å tro at arbeidsmengden for kommisjonsmedlemmene vil øke. Antallet mottatte saker har økt kraftig de siste årene. Selv om kommisjonen også har avsluttet flere saker enn i tidligere år, har den ikke evnet å holde tritt med det økte sakstilfanget. Restansene har derfor økt,[^940] og saksbehandlingstiden er gjennomgående lang.[^941] Kommisjonen har av den grunn fått økte bevilgninger til et midlertidig prosjekt i perioden 2024–2026 for å bygge ned restansene og redusere saksbehandlingstiden.[^942] Bevilgningen har ført til at kommisjonens sekretariat er utvidet til totalt 14 jurister og 4 politifaglige utredere.[^943] Kommisjonen har uttrykt bekymring for at det vil kunne bli vanskelig å holde restansene nede dersom den midlertidige utvidelsen ikke opprettholdes.
+
+Det økte sakstilfanget og utvidelsen av sekretariatet medfører at også saksmengden for kommisjonsmedlemmene vil øke. Normalt har kommisjonsmedlemmene avholdt møter med ca. 4–6 ukers mellomrom, med to dager per sesjon. I 2023 og 2024 har det etter hvert blitt vanligere at møtene går over tre dager. Kommisjonen har gitt uttrykk for at det kan bli nødvendig å utvide sesjonene til møter over fire dager i en periode.[^944]
+
+Etter utvalgets syn er det på bakgrunn av dette tvilsomt om dagens kommisjonsstruktur er egnet til å muliggjøre målsetningen om å redusere saksbehandlingstiden og å sikre en tilstrekkelig grundig og betryggende behandling av gjenåpningssakene. Utvalget mener videre at det er grunn til å stille spørsmål om deltidsvervet som kommisjonsmedlem i praksis er – og i økende grad vil bli – for omfattende til å kunne kombinere med annet heltidsarbeid.
+
+Et bierverv som overstiger 20 %, medfører at kommisjonsmedlemmet jevnt over må arbeide mer enn én ekstra arbeidsdag per uke. Utvalgets inntrykk er at kommisjonsmedlemmene i all hovedsak setter seg grundig inn i sakene som presenteres for dem. Flere utredere i kommisjonen har pekt på at kommisjonsmedlemmene generelt synes å være godt forberedt til møtene, og at det regelmessig reises detaljerte spørsmål om ulike sider av sakene. Samtidig har flere kommisjonsmedlemmer – både nåværende og tidligere – gitt utrykk for at vervet som kommisjonsmedlem i praksis kan være krevende å kombinere med annet arbeid. Som nevnt i punkt 14.4 vil det variere med den enkelte arbeidsgiver i hvilken grad arbeidet kan reduseres eller for øvrig tilpasses vervet som kommisjonsmedlem, utover at det gis permisjon til møtene. Noen medlemmer utvalget har snakket med, har oppgitt at det som utgangspunkt forventes at de arbeider i samme omfang som ellers, med unntak av selve møtene. Forberedelsene til kommisjonsmøtene må derfor i hovedsak skje i helgene og på fritiden.
+
+En generell tilbakemelding er videre at avlønningsnormen på to timer forberedelse per time i kommisjonsmøtet ikke alltid gjenspeiler arbeidsmengden som kreves for å gjøre en samvittighetsfull jobb. Begjæringene som presenteres for kommisjonen, vil ofte dreie seg om omfattende og komplekse straffesaker, hvor gjenåpningsspørsmålet ikke fremstår «åpenbart». De «åpenbare» sakene vil i stor grad være forkastet av lederen eller nestlederen alene, jf. straffeprosessloven § 397 tredje ledd. For å ta stilling til gjenåpningsspørsmålet kan det derfor være nødvendig å sette seg inn i et stort antall straffesaksdokumenter og i mange tilfeller en stor mengde rapporter, tilsvar mv. som er utarbeidet i forbindelse med gjenåpningssaken. Etter utvalgets syn er dette bekymringsfullt med tanke på det økte sakstilfanget i kommisjonen.
+
+### Avdelingsmodellen
+
+På bakgrunn av dette foreslår utvalget at dagens kollegium på åtte kommisjonsmedlemmer (fem faste og tre varamedlemmer) inndeles på en annen måte enn i dag. Utvalget foreslår at kommisjonsmodellen endres slik at det opprettes flere avdelinger med kommisjonsmedlemmer for å ta stilling til gjenåpningsspørsmålet.[^945] Modellen er skissert i figur 20.1.
+
+En oppsplitting i avdelinger vil enkelt sagt føre til at kommisjonsmedlemmene ved behov får mer tid til å vurdere den enkelte sak enn i dag.[^946] Utvalget antar at en slik innretning vil bidra til grundigere vurderinger i sakene som legges frem for kommisjonen, både i forberedelsene og ved drøftelsene i møtet. Det legges til grunn at en slik modell vil muliggjøre at kommisjonsmedlemmene i noe større grad får anledning til å lønnes etter medgått tid, og ikke etter en fastsatt norm basert på møtetiden. En mulig effekt er videre at kommisjonen i større grad vil kunne åpne for muntlig høringer og utspørring av for eksempel sakkyndige før avgjørelsen treffes. Denne muligheten benyttes i praksis ikke i dag.
+
+Utvalget antar også at en slik modell vil kunne føre til at de enkelte kommisjonsmedlemmenes totale arbeidstid for kommisjonen reduseres. Det forutsettes med andre ord ikke at kommisjonsmedlemmene nødvendigvis vil arbeide like mye for kommisjonen som i dag. Dette vil kunne bidra til å gjøre vervet som kommisjonsmedlem enklere å forene med øvrig arbeid.
+
+Forslaget er videre ment å muliggjøre at kommisjonens saksbehandlingstid reduseres. Som nevnt i forrige punkt er kommisjonens sekretariat utvidet gjennom en økt bevilgning fra Stortinget som trolig vil utvides til å gjelde også for 2025 og 2026.[^947] Bevilgningen er gitt for å sikre raskere saksbehandling og nedbygging av restanser i kommisjonen. Dersom denne målsetningen skal nås, må også kommisjonskollegiet innrettes slik at det vil være i stand til å behandle flere saker enn i dag.
+
+I tillegg er forslaget ment å muliggjøre at kommisjonsmedlemmene får økt kontroll og innflytelse over utredningen av sakene og utformingen av avgjørelsene. Dette temaet belyses nærmere i punkt 20.2.3.
+
+Utvalget foreslår primært at det opprettes tre avdelinger, hver med tre kommisjonsmedlemmer. I lys av den omfattende saksmengden og den lange saksbehandlingstiden antar utvalget at tre avdelinger som utgangspunkt vil være nødvendig. Kommisjonen har i dag en beholdning på om lag 400 uavsluttede saker.[^948] Ved utløpet av august 2024 hadde kommisjonen videre 56 pågående saker med en behandlingstid på over et år, hvor domfelte soner.[^949] Antallet avdelinger i kommisjonen kan på sikt eventuelt reduseres eller økes dersom saksmengden gjør det tilrådelig.
+
+Forslaget innebærer som utgangspunkt at det oppnevnes ni faste kommisjonsmedlemmer, men dette vil avhenge av antall avdelinger.[^950] Sakene avgjøres i avdelinger med tre faste medlemmer. Utvalget ønsker så langt mulig å videreføre gjeldende fordeling mellom jurister og lekfolk. Som faste medlemmer oppnevnes i hver avdeling derfor to jurister og én lekperson. Det foreslås at avdelingene alltid skal bestå av tre medlemmer, hvorav minst én jurist, og at dette er en forutsetning for at kollegiet skal være beslutningsdyktig. Ved behov kan kollegiet altså settes med to lekpersoner og én jurist.[^951] Se nærmere om varaenes oppmøte og sammensetningen av kollegiet i punkt 20.2.4.
+
+Inndeling av kommisjonskollegiet i flere avdelinger. Hver avdeling består i utgangspunktet av to jurister og én lekperson. Antallet utredere i kommisjonen vil variere, og det er for enkelhets skyld kun vist tre juridiske og tre politifaglige utredere i figuren. Etter utvalgets forslag vil også antallet varamedlemmer i denne modellen være fleksibelt og opp til å kommisjonen å vurdere, se punkt 20.2.4. Figuren viser også en utredningsleder for sekretariatet, se nærmere om forslaget i punkt 20.3.
+
+En konsekvens av forslagene det tas til orde for her, er at de enkelte gjenåpningssakene vil bli vurdert av færre kommisjonsmedlemmer. Det kan ha betydning for vurderingen av gjenåpningsspørsmålet. En fordel med et større kollegium er at flere perspektiver fra personer med ulik erfaring kommer inn i vurderingen.
+
+Etter utvalgets syn bør det derfor vurderes om konstellasjonene i avdelingene iblant eller regelmessig bør rullere. Dette kan bidra til erfaringsutveksling mellom medlemmene, sikre tilførsel av nye perspektiver og sørge for en enhetlig behandling på tvers av avdelingene. Det vises til at kommisjonen allerede har endret praksis slik at samme saksbehandler ikke lenger behandler gjentatte begjæringer i samme sak.[^952] Hensikten er å sikre at den nye begjæringen vurderes «med friske øyne» i sekretariatet. Det samme hensynet kan tilsi at en lignende praksis bør vurderes også for kommisjonsmedlemmenes behandling av begjæringen.[^953]
+
+Utvalget viser videre til at kollegier med tre medlemmer finnes i flere sammenlignbare institusjoner, for eksempel i Utlendingsnemnda (UNE)[^954] og den engelske gjenopptakelseskommisjonen (CCRC)[^955]. I begge disse organene varierer sammensetningen av medlemmene i kollegiene fra sak til sak.[^956] For øvrig er også den skotske kommisjonen (SCCRC) beslutningsdyktig med tre kommisjonsmedlemmer, selv om det normalt vil være flere medlemmer til stede når avgjørelsene treffes.[^957]
+
+Også i domstolene avgjøres saken som oftest av tre eller færre dommere. I sivile saker settes retten normalt med én dommer i tingretten, jf. domstolloven § 21 andre ledd, og tre dommere i lagmannsretten, jf. domstolloven § 12 første ledd. I straffesaker settes retten normalt med én fagdommer og to meddommere i tingretten, jf. straffeprosessloven § 276. I lagmannsretten avgjøres straffesaker av tre fagdommere dersom anken ikke gjelder bevisbedømmelsen under skyldspørsmålet eller straffutmålingen i saker med strafferamme over seks år, jf. domstolloven § 12 første ledd, jf. straffeprosessloven § 332 første ledd. Også spørsmål om siling av anker i straffesaker, jf. straffeprosessloven § 321, avgjøres av tre dommere, jf. utgangspunktet i domstolloven § 12. Når Høyesteretts ankeutvalg avgjør om det skal gis samtykke til anke til Høyesterett, jf. straffeprosessloven § 323, består ankeutvalget av tre høyesterettsdommere, jf. domstolloven § 5 første ledd.
+
+Utvalget bemerker videre at den norske kommisjonsmodellen er basert på en forutsetning om at behovet for sakkyndige vurderinger som utgangspunkt dekkes ved innhenting av ekstern bistand, se punkt 7.3.4. Den norske kommisjonens størrelse gjør at det – i mindre grad enn for eksempel i den engelske kommisjonen – er realistisk å dekke behovet for sakkyndig kompetanse internt i kommisjonskollegiet som treffer avgjørelsene.
+
+Utvalget legger til grunn at det vil være naturlig at kommisjonsmøtene i en av avdelingene – som i dag – ledes av kommisjonens leder. Trolig vil det være naturlig at kommisjonens nestleder har en lignende rolle i avdeling nummer to. Etter utvalgets syn bør også den tredje avdelingen ledes av et kommisjonsmedlem med tilsvarende kompetanse. Det foreslås derfor en endring i straffeprosessloven § 395 som klargjør at det kan oppnevnes flere nestledere. De ulike nestlederne som leder hver sin avdeling, vil dermed ha kompetanse til blant annet å forkaste begjæringer, jf. § 397 tredje ledd, og til å innvilge åpenbare begjæringer, se utvalgets forslag i punkt 20.8. Det antas for øvrig at kommisjonens leder vil danne et «bindeledd» mellom de øvrige avdelingslederne og utredningslederen, som etter utvalgets forslag vil ha ansvaret for det daglige utredningsarbeidet i sekretariatet, se utvalgets forslag i punkt 20.3.
+
+Uansett om det opprettes to eller tre avdelinger, er det mye som tyder på at en slik organisering vil kunne bidra til å redusere kommisjonens samlede lønnsutgifter til kommisjonsmedlemmene. Dette er en naturlig følge av at de enkelte sakene vil bli vurdert av færre kommisjonsmedlemmer. Samtidig vil modellen trolig innebære at kommisjonsmedlemmene i praksis vil benytte noe mer tid per sak enn i dag til forberedelser og drøftelser i møtene. En slik utvikling er til dels ønskelig, og i tråd med målsetningen om å skape mer betryggende avgjørelser av gjenåpningsspørsmålet. Dette vil redusere innsparingen noe.
+
+Forslaget forutsetter at det gjøres endringer i straffeprosessloven §§ 395 og 399. Det vises til omtalen av lovendringene og merknadene til disse i kapittel 26. Det vises for øvrig til utvalgets forslag om å endre beslutningskravet for avgjørelser om å gjenåpne til gunst i punkt 20.6.
+
+### Arbeidsdelingen mellom sekretariatet og kommisjonsmedlemmene
+
+Utvalget legger til grunn at en inndeling i flere avdelinger vil frigjøre tid for kommisjonsmedlemmene. Dette vil muliggjøre at de involveres tettere i behandlingen av sakene, og at de får økt innflytelse og kontroll ved utredningen og utformingen av avgjørelsene.
+
+Kommisjonsmedlemmenes begrensede mulighet til å kontrollere utredningen av gjenåpningssakene har lenge vært gjenstand for debatt, blant annet i forbindelse med arbeidsgruppens evaluering i 2012.[^958] For å sikre kommisjonsmedlemmene mulighet til å vurdere om saken er godt nok opplyst før avgjørelsen tas, anbefalte arbeidsgruppen at utrederen som hovedregel burde presentere for kommisjonen en oversikt over etterforskningsskritt som er utført i kommisjonens regi, og at også fravær av utredningsskritt kort burde angis og begrunnes før utvalget treffer sin avgjørelse.[^959]
+
+Utvalget er enig i denne anbefalingen. Utvalget forstår det slik at dette i stor grad er praksis i kommisjonen i dag, men vil likevel understreke betydningen av at dette gjøres. Det er avgjørende at kommisjonsmedlemmene er kjent med hvilke utredningskritt som er gjort, og resultatet av dem, for å kunne ta stilling til gjenåpningsbegjæringen. Utvalget vil også understreke behovet for informasjon om utredningskritt som er begjært, men ikke utført. Som arbeidsgruppen pekte på, har kommisjonsmedlemmene en plikt til å påse at sakene er tilstrekkelig utredet, og – om nødvendig – kreve ytterligere utredning før avgjørelsen tas.[^960] Kommisjonen bør videre – slik praksis delvis er i dag – holdes løpende oppdatert om utredningen av sakene, spesielt i større saker som behandles over lengre tid.
+
+Arbeidsgruppen foreslo også tiltak som var ment å sikre kommisjonsmedlemmene større innflytelse over overveielsen og utformingen av kommisjonens avgjørelser av gjenåpningsspørsmålet. Arbeidsgruppen pekte på at utrederen som regel skrev et fullstendig utkast til avgjørelse, og mente at dette kunne «virke bindende for tanken og debatten» i kommisjonsmøtene.[^961] Arbeidsgruppen mente at kommisjonsmedlemmene ville stå i friere i sin vurdering dersom de kun fikk presentert en redegjørelse for faktum og juss, uten et ferdig utformet utkast til avgjørelse.
+
+Utvalget er enig i dette. Et av siktemålene med forslaget om å dele kommisjonen inn i flere avdelinger er å sikre at kommisjonsmedlemmene får mulighet til å drøfte utrederens forslag grundigere og involvere seg i større grad i utformingen av avgjørelsen.
+
+Etter gjeldende retningslinjer har utrederen adgang til å presentere saken uten å legge inn forslag til kommisjonens vurderinger og konklusjon. Utvalget forstår det slik at dette gjøres noe oftere i dag enn tidligere, men at det fortsatt kun skjer unntaksvis. Utvalget mener at dette utgangspunktet bør snus, og at hovedregelen – i hvert fall i komplekse bevissaker – bør være at det ikke utformes et fullstendig utkast som inkluderer kommisjonens vurdering og konklusjon. Så langt mulig bør den nærmere vurderingen og konklusjonen holdes åpen, og heller føyes til etter kommisjonsmøtet i tråd med kommisjonens beslutning. Utvalget mener at en slik praksis vil kunne bidra til friere og mer veloverveide vurderinger av gjenåpningsspørsmålet, og i tillegg til bedre begrunnelser i vedtakene, hvor både hensyn som taler for og imot gjenåpning, kommer frem.[^962]
+
+### Varaenes oppmøte
+
+Etter regelen i straffeprosessloven § 395 første punktum tiltrer varamedlemmene «ved forfall». Varaene har ikke stemmerett, med mindre de trer i stedet for et fast medlem som ikke er til stede. I praksis har det imidlertid – helt siden kommisjonen ble etablert – vært vanlig at samtlige varamedlemmer møter til alle kommisjonsmøter,[^963] uavhengig om det er forfall, og at de deltar med synspunkter i diskusjonene.[^964] Utvalget forstår det slik at varaene som regel også forbereder seg til møtene på lik linje med de faste medlemmene.
+
+Denne praksisen har vært begrunnet i at det kan være vanskelig å sette seg inn i sakene på en god nok måte dersom behovet for tiltredelse først blir avklart i kort tid før møtet. Praksisen bidrar videre til å holde varemedlemmene oppdatert om saker som løper over tid, og er en enkel måte å sikre varamedlemmene opplæring på. I tillegg har det vært en oppfatning om at varamedlemmenes perspektiver bidrar positivt til vurderingen av gjenåpningsspørsmålet.
+
+Utvalget oppfordrer kommisjonen til å vurdere om denne praksisen er nødvendig, og om det er mulig å innrette normen for varaenes oppmøte på en måte som er mer i tråd med lovens utgangspunkt. Gjeldende praksis innebærer at kommisjonen normalt lønner tre kommisjonsmedlemmer som ikke er stemmeberettiget, ved avgjørelsene som tas og forberedelsene til disse. Det bør vurderes om varaene heller først og fremst bør møte ved forfall, i alle fall dersom det aktuelle varamedlemmet har arbeidet for kommisjonen i noe tid, slik at behovet for opplæring og erfaring er mindre.
+
+I den foreslåtte avdelingsmodellen vil det være opp til kommisjonen å avgjøre hvor mange varamedlemmer som skal oppnevnes og den nærmere fordelingen mellom jurister og lekpersoner. For å være beslutningsdyktig kreves det at minst tre medlemmer er til stede, men det forutsettes kun at minst én av disse er jurist. Dette åpner for at kommisjonen kan være beslutningsdyktig for eksempel dersom ett av de faste juristmedlemmene har forfall og erstattes av en lekperson som vara, slik at avdelingen vil bestå av to lekpersoner og en jurist.
+
+Denne fleksibiliteten vil blant annet gjøre det mulig at et varemedlem som deltar i kommisjonsmøtene i en opplæringsfase, kan tre inn for et av de faste medlemmene ved forfall, uavhengig av om varamedlemmet er lekperson eller jurist. Fleksibiliteten vil altså gjøre det enklere for kommisjonen å utvikle nye normer for varaoppmøte som ivaretar behovet for opplæring og samtidig begrenser kommisjonens utgifter. Utvalget mener samtidig at det i alvorlige saker, eller saker som reiser rettslige spørsmål av betydning, bør tilstrebes at avgjørelsen tas med to jurister til stede. Det bør også etterstrebes at én lekperson deltar ved avgjørelser som reiser bevisspørsmål.
+
+Utvalget mener for øvrig at en endring i normen for varaenes oppmøte som skissert over, bør vurderes også dersom det ikke gjøres endringer i den gjeldende organiseringen av kommisjonen.
+
+### Andre alternativer
+
+Utvalgets primære forslag til organisering av Gjenopptakelseskommisjonen er beskrevet i kapittel 24. Utvalget foreslår der at kommisjonen deles inn i avdelinger med tre heltids- og deltidsansatte kommisjonsmedlemmer som treffer avgjørelsene. I saker som reiser bevisspørsmål, vil avdelingene etter en nærmere vurdering av blant annet sakens kompleksitet og alvor kunne settes med ytterligere to lekpersoner, se punkt 24.3.4. En lignende ordning med utvidelse av kommisjonskollegiet i komplekse bevissaker kan vurderes også dersom avdelingsmodellen skissert i dette kapittelet gjennomføres.
+
+Selv om dagens kollegium med fem kommisjonsmedlemmer opprettholdes, mener utvalget at det bør vurderes å opprette flere avdelinger i Gjenopptakelseskommisjonen. En inndeling i flere avdelinger med fem kommisjonsmedlemmer vil kunne bidra til å redusere saksbehandlingstiden, sikre at saksmengden for det enkelte kommisjonsmedlem ikke blir for stor og skape mulighet for grundigere og mer betryggende behandling av sakene. Ettersom medlemmene lønnes på timebasis, vil en slik organisering heller ikke nødvendigvis medføre økte utgifter.
+
+En slik innretning vil imidlertid ikke frigjøre mer tid til behandlingen av den enkelte sak innenfor gjeldende budsjettrammer, slik forslaget i punkt 20.2.2 også tar sikte på. De enkelte sakene vil fortsatt behandles av fem kommisjonsmedlemmer. En slik innretning vil heller ikke muliggjøre at kommisjonsmedlemmene selv styrer utredningen av sakene og utformer avgjørelsene av gjenåpningsspørsmålet. Dette er et vesentlig formål med forslaget i kapittel 24.
+
+Uansett innretning mener utvalget at normen for varaoppmøte bør endres, se punkt 20.2.4.
+
+## Innføring av utredningsleder og oppsplitting av lederens doble rolle
+
+I representantforslaget som ligger til grunn for utvalgets gjennomgang av Gjenopptakelseskommisjonens virksomhet, er det pekt på at kommisjonens leder også er leder for sekretariatet. Dette innebærer ifølge forslaget at
+
+«\[…\] leder drøfter saken med sekretariatet og har ansvar for både utredninger og konklusjoner. Det kan medføre at leder føler en lojalitet til sine ansattes innstillinger. Det bør vurderes om det bør innføres et skille mellom sekretariatets leder og kommisjonens leder.»[^965]
+
+Etter straffeprosessloven § 395 første ledd andre punktum skal kommisjonen ha en leder og en nestleder som begge er faste kommisjonsmedlemmer. Både lederen og nestlederen har kompetanse til å treffe en rekke avgjørelser alene, jf. § 395 tredje ledd andre punktum, herunder om å forkaste begjæringer etter forenklet behandling, jf. § 397 tredje ledd tredje punktum, og å avhente vitner med tvang, jf. § 398 a tredje ledd.
+
+For øvrig sier loven og forarbeidene lite om ledelsen av sekretariatet.[^966] I praksis har en av kommisjonens erfarne utredere bistått lederen ved å treffe enkelte avgjørelser etter fullmakt ved lederens fravær. Dette har særlig vært aktuelt for avgjørelser som medfører utgifter, typisk om oppnevning av forsvarer. Vedkommende har imidlertid ingen formell lederrolle og har heller ikke i praksis fungert som en leder for sekretariatet, utover å gi faglige råd og treffe avgjørelser etter delegasjon.[^967] Kommisjonens leder har både hatt personalansvaret og ansvaret for det løpende utredningsarbeidet i sekretariatet.
+
+Lederen for kommisjonen har dermed en «dobbel rolle», i den forstand at vedkommende både er leder for kollegiet av medlemmer som treffer avgjørelsene, og i tillegg den som har ansvar for sekretariatets utredning. Denne innretningen har delvis støtte i forarbeidene, hvor det ble uttrykt at lederen burde få «reell mulighet til å lede det daglige arbeidet i kommisjonen og til å styre arbeidet med sakene».[^968] Samtidig har innretningen skapt diskusjon. I arbeidsgruppens etterkontrollrapport ble det pekt på at «\[i\]nnholdet og rammene for lederrollen i den norske kommisjon er svakt formalisert», og lederens «dobbeltrolle» ble drøftet særskilt.[^969] Arbeidsgruppen pekte på faren for at lederen «identifiserer seg så sterkt med sekretariatet, at både lederen og kommisjonsmedlemmenes uavhengige vurdering av sakene svekkes».[^970] I tillegg viste arbeidsgruppen til at den doble rollen gir lederen «en privilegert posisjon i forhold til de øvrige medlemmene, som kan komme til å svekke kommisjonen som kollegialt organ».[^971] Arbeidsgruppens anbefaling var at «kommisjonslederrollen \[burde\] tydeliggjøres og \[…\] nestlederollen for sekretariatet styrkes».[^972]
+
+Etter utvalgets syn er den doble lederrollen uheldig. Utvalget slutter seg til arbeidsgruppens syn om at dobbeltrollen kan føre til at lederen – ved avgjørelsen av gjenåpningsspørsmålet – blir påvirket av valgene som tas under utredningen av saken. For eksempel vil vurderingene som gjøres i kommisjonsmøtene, kunne bli påvirket av om utrederen – ofte i samråd med lederen – har funnet det unødvendig å foreta nærmere utredningsskritt i saken. Den doble lederrollen kan dermed føre til en mindre åpen innstilling ved avgjørelsen av gjenåpningsspørsmålet. Dette er også påpekt av flere forsvarere i utvalgets spørreundersøkelse.
+
+Videre er det etter utvalgets syn uheldig at lederen – gjennom ledelsen av sekretariatet – vil kunne opparbeide seg en kjennskap til saken som langt overskrider de andre kommisjonsmedlemmenes forståelse. Dette kan føre til at lederens oppfatning betraktes som mer «opplyst», og at lederens synspunkter derfor – mer eller mindre bevisst – tillegges større vekt enn de øvrige medlemmenes.
+
+Utvalget foreslår derfor at det opprettes en ny stilling som utredningsleder i kommisjonen, som vil ha ansvar for å lede det daglige utredningsarbeidet i sekretariatet. Forslaget er også ment å lette arbeidsbyrden for lederen, som i dag fungerer både som utredningsleder, kommisjonsmedlem og overordnet administrativ sjef for virksomheten. En målsetning er å legge til rette for at lederen kan treffe avgjørelser om å gjenåpne enkle saker alene,[^973] samt frigjøre mer tid til den overordnede, administrative driften av virksomheten. Videre vil utredningslederen kunne bidra til å skape en mer betryggende behandling av avgjørelser om å forkaste begjæringer, jf. § 397 tredje ledd.[^974]
+
+Et siktemål med forslaget er i tillegg å skape mulighet for økt oppfølging av utrederne. Det omfattende ansvaret lederen har i dag, kan gjøre det vanskelig å følge opp den daglige utredningen på en grundig måte, samt å føre tilstrekkelig oversyn med fremdriften i sakene. Muligheten for å opprette en slik stilling har også blitt tatt opp av enkelte ansatte i sekretariatet, som særlig har vist til et ønske om tettere oppfølging og faglig «sparring». Utvalget antar at behovet for en koordinerende rolle i sekretariatet også vil øke, med tanke på økningen i antall begjæringer som fremmes for kommisjonen og den nylige utvidelsen av sekretariatet.[^975]
+
+Utvalget viser for øvrig til at lignende stillinger finnes i den engelske og delvis i den skotske gjenopptakelseskommisjonen. I den skotske kommisjonen fungerer én person både som overordnet administrativ leder og leder for utredningsenheten, og er ikke medlem av kollegiet som treffer avgjørelsene.
+
+Utvalget antar at utredningslederen bør ansettes av kommisjonen i en heltidsstilling etter ordinære regler for ansettelse i det offentlige. I straffeprosessloven § 395 fjerde ledd andre punktum heter det at kommisjonen «tilsetter et nødvendig antall saksforberedere». Utvalget legger til grunn at også utredningslederen vil omfattes av denne bestemmelsen.
+
+Den foreslåtte bestemmelsen om at utrederne kan ansettes på åremål, er også ment å omfatte utredningslederen, se utvalgets forslag i punkt 20.4. Det forutsettes at denne adgangen benyttes. For å sikre en viss fleksibilitet mener utvalget imidlertid at eventuell tid som utreder ikke bør telle med i åremålsperioden for utredningslederen dersom denne først har vært ansatt som utreder.
+
+For øvrig mener utvalget at lederens og nestlederens rolle og kompetanse bør opprettholdes som i dag. Det foreslås derfor ingen øvrige endringer i reglene som omhandler dem.[^976] Utvalget antar videre at utredningslederen vil få delegert kompetanse fra lederen til å ta avgjørelser som omhandler utredningsarbeidet, herunder om å oppnevne forsvarer, oppnevne sakkyndig, begjære etterforskningsskritt fra påtalemyndigheten mv. Inntrykket er for øvrig at de ovennevnte hjemlene for å avhente vitner med tvang og lignende sjelden brukes praksis. Det foreslås derfor heller ingen utvidelse av kompetansereglene i loven.
+
+## Åremål for utrederne
+
+Etter gjeldende regler gjelder ingen begrensning for hvor lenge utrederne i sekretariatet kan være ansatt i Gjenopptakelseskommisjonen. Om utrederne – i likhet med kommisjonsmedlemmene – burde være ansatt på åremål, er ikke vurdert i proposisjonen som lå til grunn for opprettelsen av kommisjonen.[^977] Sekretariatets sammensetning og arbeidsbetingelser ble i liten grad drøftet i lovforarbeidene.
+
+Spørsmålet ble tatt opp av arbeidsgruppen som evaluerte kommisjonen i 2012. I intervjuer med arbeidsgruppen uttrykte noen av de ansatte i sekretariatet «en viss bekymring for at kommisjonens utredere over tid kan utvikle mindre åpenhet for at ‘her kan det være noe feil’», og mente at «utredere på åremål bør vurderes».[^978] Arbeidsgruppen pekte også på at «\[å\]remålsstillinger kan hindre at utrederne ‘gror fast’ i rollen», men foreslo likevel ikke å innføre åremål for sekretariatet. Arbeidsgruppen viste til at åremålsstillinger «ellers ikke er vanlig i forvaltningsorganer», og at det ikke var noe særskilt behov for en slik løsning for utrederne i Gjenopptakelseskommisjonen.[^979]
+
+I senere tid har spørsmålet blitt tatt opp på ny, blant annet i forbindelse med kommisjonens behandling av Viggo Kristiansens begjæringer i Baneheia-saken. Et spørsmål som særlig har vært diskutert, er om det er nødvendig å begrense funksjonstiden for utrederne for å sikre tilstrekkelig oppdatert etterforskningskompetanse.[^980]
+
+Etter utvalgets syn tilsier den raske teknologiske utviklingen i etterforskningsfaget at det er grunn til å sikre en viss sirkulasjon blant de politifaglige utrederne i kommisjonen. Også for de juridiske utrederne er det grunn til å etterstrebe oppdatert fagkompetanse og at kommisjonen jevnlig tilføres erfaring og impulser fra andre deler av rettsvesenet. Utvalget mener videre at åremålsstillinger kan bidra til å sikre at begjæringene møtes med åpenhet og nysgjerrighet.
+
+Utvalget viser for øvrig til forslagene i punkt 20.2, hvor betydningen av å øke kommisjonsmedlemmenes innflytelse over utredningen og avgjørelsen av gjenåpningssakene fremheves. Utrederne er formelt sett bare ansvarlige for utredningen av gjenåpningssakene, men har i praksis også stor innflytelse på kommisjonens avgjørelse av gjenåpningsspørsmålet. Det kan være uheldig om enkelte utredere får en for fremtredende rolle og innflytelse over kommisjonens avgjørelser og – med tiden – over kommisjonens praksis. Etter utvalgets syn er det derfor naturlig at utrederne – i likhet med kommisjonsmedlemmene – ansettes på åremål. Utvalget viser ellers til at en slik ordning ble innført for utrederne i Høyesterett i 2001,[^981] hvor lignende hensyn delvis gjør seg gjeldende.
+
+Gjeldende praksis for utrederne i Høyesterett er at åremålet settes til syv år. Etter utvalgets syn vil åremål på syv år – som for øvrig gjelder for kommisjonens leder – være naturlig også for utrederne i kommisjonen.
+
+Det følger av statsansatteloven § 10 at åremålsstillinger forutsetter lovhjemmel eller stortingsvedtak. Utvalget foreslår at adgangen til å ansette utrederne på åremål lovfestes i straffeprosessloven § 395 nytt tredje ledd tredje punktum, se nærmere om lovforslaget i kapittel 26. I likhet med det som gjelder for Høyesterett, jf. domstolloven § 61, foreslås en bestemmelse som åpner for at kommisjonens utredere «kan» ansettes på åremål. Det forutsettes imidlertid at denne adgangen benyttes.
+
+Bestemmelsen vil også omfatte utredningslederen, se forslaget i punkt 20.3. Utvalget mener at adgangen til å ansette på åremål også bør benyttes for utredningslederen, og at en åremålsperiode på syv år vil være naturlig også for denne. For å sikre en viss fleksibilitet mener utvalget imidlertid at eventuell tid som utreder ikke bør telle med i åremålsperioden for utredningslederen dersom vedkommende først har vært ansatt som utreder.
+
+## Vervet som kommisjonsmedlem: funksjonstid og offentlig utlysning
+
+Reglene for oppnevning av kommisjonsmedlemmene er regulert i straffeprosessloven § 395 andre ledd. Det heter der at
+
+«\[k\]ommisjonens leder utnevnes av Kongen i statsråd for en periode på 7 år uten adgang til gjenutnevning. Kommisjonens øvrige medlemmer og varamedlemmer oppnevnes av Kongen i statsråd for en periode på 3 år med adgang til én gjenoppnevning.»
+
+Bestemmelsene er forstått slik at funksjonstiden som leder ikke påvirkes av eventuell tidligere tid som kommisjonsmedlem. Dersom et kommisjonsmedlem senere ansettes som leder for kommisjonen, vil vedkommende derfor i praksis kunne fungere som kommisjonsmedlem i til sammen 13 år.
+
+Ordningen har skapt debatt, blant annet ved utnevnelsen av Helen Sæter som kommisjonsleder i 2010.[^982] Arbeidsgruppen som evaluerte kommisjonen i 2012, var også inne på spørsmålet. Arbeidsgruppen mente at det kunne stilles spørsmål ved hvor heldig det er at kommisjonens leder tidligere har vært kommisjonsmedlem, og pekte på at vedkommende vil kunne fungere som medlem i totalt 13 år.[^983] For å «unngå at kommisjonens leder blir sittende for lenge i kommisjonen» mente arbeidsgruppen at det burde innføres en samlet funksjonstid på 10 år for tilfeller hvor kommisjonens leder tidligere har vært kommisjonsmedlem eller varamedlem.[^984]
+
+Utvalget slutter seg til arbeidsgruppens vurdering. Ut fra hensynene som begrunner åremålsreglene for kommisjonens medlemmer, er det etter utvalgets syn uheldig at et kommisjonsmedlem – ved senere å bli utnevnt som leder – kan delta i kommisjonskollegiet i totalt 13 år. Ønsket om å sikre nysgjerrighet og tilførsel av nye impulser i kommisjonen taler for at funksjonstiden som leder bør påvirkes av om vedkommende tidligere har vært kommisjonsmedlem.
+
+Samtidig mener utvalget at det bør være adgang til at et tidligere medlem som har fungert i to åremålsperioder, kan bli utnevnt som leder. Det kan være en fordel at lederen har erfaring fra tidligere arbeid i kommisjonen. Utvalget foreslår derfor – som arbeidsgruppen – at den totale funksjonstiden i slike tilfeller begrenses til 10 år. Etter forslaget skal begrensningen gjelde uavhengig av om det har gått noe tid fra personen var medlem av kommisjonen, og frem til vedkommende ble utnevnt til leder.
+
+Utvalget mener videre at det bør gjøres endringer i *prosedyren* for oppnevnelse av kommisjonsmedlemmene.
+
+De nærmere rutinene for oppnevnelsen av kommisjonsmedlemmene er i liten grad formalisert. Utvalget har derfor vært i kontakt med Justis- og beredskapsdepartementet for å få nærmere informasjon om hvordan oppnevnelsene skjer i praksis.
+
+For kommisjonens leder skjer tilsettingen gjennom en ordinær ansettelsesprosess, etter at stillingen er lyst ut offentlig. Departementet vil i den forbindelse innhente synspunkter fra diverse berørte grupper, som Dommerforeningen og Advokatforeningen, før utlysningen. Formelt oppnevnes lederen deretter av Kongen i statsråd.
+
+Ved oppnevnelsen av de øvrige kommisjonsmedlemmene er praksis derimot at stillingen ikke lyses ut offentlig. I praksis skjer oppnevningen av disse ved at departementet utarbeider et forslag med aktuelle kandidater som oversendes til regjeringen. Forslagene vil være basert på innspill fra berørte interesseorganisasjoner, som ofte vil ha sondert med sine medlemmer i forkant. Hvilke interessegrupper som kontaktes, er delvis avhengig av hvilken faglig bakgrunn det er ønskelig at det nye kommisjonsmedlemmet skal ha. Dersom det for eksempel er ønskelig å oppnevne en person med dommerbakgrunn, vil departementet kontakte Dommerforeningen. I tråd med forutsetningene i forarbeidene etterstreber kommisjonen at juristmedlemmene skal ha variert erfaring fra ulike deler av strafferettspleien.[^985] Departementet foretar deretter en intern vurdering av aktuelle kandidater før forslagene oversendes til Kongen i statsråd for oppnevnelse. Før forslagene oversendes, kan det også være aktuelt å kontakte kommisjonen for innspill.
+
+Oppnevningsprosedyren ble kritisert av arbeidsgruppen som evaluerte kommisjonen i 2012. Arbeidsgruppen skrev at det var «uklart» for dem hvordan departementet gikk frem for å rekruttere kommisjonsmedlemmene, og at rekrutteringen syntes å skje gjennom «lukkede og lite forutsigbare prosesser.»[^986] Arbeidsgruppen vurderte ordningen slik:
+
+«Selv om rekrutteringsprosessen til kommisjonen nok ikke skiller seg vesentlig fra andre lignende rekrutteringsprosesser, er det grunn til å understreke at en lukket og lite forutsigbar prosess ikke er uproblematisk. Det er en viss fare for at rekrutteringen da skjer gjennom rekrutterernes egne nettverk, som igjen kan begrense ‘synsfeltet’ og føre til at dyktige kandidater overses. Det at prosessen er lukket kan også i seg selv svekke tilliten til prosessen og i ytterste instans tilliten til kommisjonen. Arbeidsgruppen anbefaler derfor at rekrutteringen gjøres åpen gjennom en offentlig utlysning.»[^987]
+
+Arbeidsgruppen pekte videre på at både kommisjonen i England og Skottland utnevner sine medlemmer etter offentlig utlysning.[^988] Utvalget forstår det slik at det samme gjelder i dag.
+
+Utvalget slutter seg til arbeidsgruppens vurdering. Selv om departementet i praksis synes å gjennomføre en forholdsvis bred vurdering av aktuelle kommisjonsmedlemmer, hvor berørte organisasjoner får komme med innspill, er det etter utvalgets syn et selvstendig poeng at rekrutteringsprosessen bør være offentlig og åpen for allmennheten. Dette har betydning for allmennhetens tillit til kommisjonen.
+
+En offentlig rekrutteringsprosess kan også bidra til å sikre et bredere rekrutteringsgrunnlag. Dette ble påpekt av Riksadvokatembetet i høringssvaret til etterkontrollrapporten.[^989] Riksadvokaten pekte videre på at spørsmål om offentlig utlysning også var reist med tanke på utnevning av medlemmer til Den rettsmedisinske kommisjon, og at man i Spesialenheten for politisaker hadde gått over til offentlig utlysning av vervene i etaten.[^990] Etter gjeldende retningslinjer oppnevnes medlemmene til Den rettsmedisinske kommisjonen nå etter offentlig utlysning.[^991]
+
+Utvalget foreslår derfor at kommisjonsmedlemmene rekrutteres gjennom offentlig utlysning. Medlemmene skal fortsatt oppnevnes av Kongen i statsråd, men det forutsettes altså at aktuelle kandidater som søker på stillingen, vurderes i den sammenheng. Utvalget antar at det ikke vil være nødvendig å lyse ut vervet dersom kommisjonsmedlemmet ønsker gjenoppnevning.
+
+Departementets adgang til å oppnevne stedfortredere dersom kommisjonen «ellers ikke vil være vedtaksfør», jf. § 395 andre ledd tredje punktum, opprettholdes.[^992]
+
+## Bestemmende mindretall for avgjørelser om å gjenåpne
+
+Det følger av straffeprosessloven § 395 første ledd at kommisjonen skal ha fem faste medlemmer og tre varamedlemmer som tiltrer ved forfall. I § 399 andre punktum er det bestemt at fem medlemmer, hvorav tre jurister, avgjør om gjenåpningsbegjæringen skal tas til følge. Avgjørelsen treffes med alminnelig flertall, jf. § 395 tredje ledd andre punktum, med mindre begjæringen forkastes av leder eller nestleder alene, jf. § 397 tredje ledd.
+
+Utvalget har i punkt 20.2 tatt til orde for å dele kommisjonen inn i avdelinger som hver skal bestå av tre kommisjonsmedlemmer. En slik inndeling innebærer at kravet til antall stemmer for å gjenåpne en sak vil endres. Dersom kravet om alminnelig flertall opprettholdes, vil gjenåpning forutsette at to av tre kommisjonsmedlemmer stemmer for gjenåpning. Etter dagens inndeling kreves det derimot kun at tre av fem kommisjonsmedlemmer stemmer for å gjenåpne, altså en noe lavere brøk.
+
+Utvalget mener at stemmekravet for avgjørelser om å innvilge gjenåpning bør endres, slik at det vil være tilstrekkelig for gjenåpning at ett av tre kommisjonsmedlemmer stemmer for gjenåpning. En regel om «bestemmende mindretall» for gjenåpning vil etter utvalgets syn føre til en mer rettssikker og tillitvekkende behandling av gjenåpningsspørsmålet. Etter dagens ordning kan gjenåpning nektes selv om to kommisjonsmedlemmer har stemt for gjenåpning. Et slikt utfall kan virke lite tillitvekkende og føre til spekulasjon om hvordan utfallet av saken hadde blitt med en annen sammensetning av kollegiet. Etter utvalgets forslag vil det derimot kreves enstemmighet for å nekte gjenåpning.
+
+Etter utvalgets syn vil et slikt beslutningskrav også være mer i tråd med de materielle vilkårene for gjenåpning. Etter straffeprosessloven § 391 nr. 3 kan gjenåpning kreves dersom en ny omstendighet eller et nytt bevis «synes egnet» til å føre til frifinnelse eller lavere straff. Høyesterett har uttalt at en «rimelig mulighet» for frifinnelse er tilstrekkelig, og at det ikke kreves sannsynlighetsovervekt.[^993] Etter § 392 andre ledd kan gjenåpning skje dersom særlige forhold gjør det «tvilsomt» om dommen er riktig, og tungtveiende hensyn tilsier at spørsmålet om siktedes skyld blir prøvd på ny. I tilfeller hvor ett eller flere kommisjonsmedlemmer mener at vilkårene er oppfylt, kan det hevdes at det er naturlig å se det slik at det er en «rimelig mulighet» for frifinnelse, eller at dommen fremstår «tvilsom» – selv om et flertall kommer til motsatt resultat.[^994]
+
+Det kan fremstå betenkelig at en så viktig avgjørelse som gjenåpning av rettskraftige straffedommer vil kunne avgjøres av én persons stemme. Utvalget viser i den sammenheng til at regler om bestemmende mindretall finnes på flere områder i straffeprosessen. For eksempel kreves det enstemmighet for avgjørelser om å nekte samtykke eller om å nekte anken fremmet til ankeforhandling i lagmannsretten, jf. straffeprosessloven § 321 tredje ledd. Etter straffeprosessloven § 35 første ledd kreves det fem av syv stemmer, hvorav minst én fra en fagdommer, for å avgjøre skyldspørsmålet til ugunst for siktede i lagmannsretten. Et mindretall på tre kan altså frifinne.
+
+Utvalget antar at en regel om bestemmende mindretall kun vil få betydning i et begrenset antall saker. Undersøkelser har vist at dissenser forekommer relativt sjelden i kommisjonen. I perioden 2015–2020 forekom dissenser i rundt 6 % av gjenåpnede saker og i rundt 4 % av sakene behandlet av kommisjonen som kollegium som ikke ble tatt til følge.[^995] Det er videre grunn til å tro at andelen dissensavgjørelser vil bli mindre dersom antallet kommisjonsmedlemmer som treffer avgjørelsene, reduseres fra fem til tre.
+
+Endringen foreslås gjennomført ved en ny bestemmelse i § 399 nytt andre ledd andre punktum om at kommisjonens avgjørelse om å nekte gjenåpning til gunst krever enstemmighet. Bestemmelsen innebærer at én stemme vil være tilstrekkelig for gjenåpning, og må ses i sammenheng med utvalgets forslag om å redusere antallet kommisjonsmedlemmer i kollegiet fra fem til tre per avdeling. Utvalget mener likevel at det kan være grunn til å innføre en regel om bestemmende mindretall for gjenåpning til gunst også dersom forslaget om å dele kommisjonen inn i avdelinger med tre kommisjonsmedlemmer ikke blir fulgt opp. I så fall bør det vurderes om gjenåpning skal kreve to, og ikke bare én, stemme. Utvalget antar at det i så fall vil være naturlig å kreve at minst to av fem medlemmer stemmer for gjenåpning.
+
+Bestemmelsen gjelder avgjørelser i kommisjonskollegiet som tar stilling til *gjenåpningsspørsmålet*. For øvrig foreslås bestemmelsen i nåværende § 395 tredje ledd andre punktum videreført, slik at utgangspunktet for andre typer avgjørelser – for eksempel om prosessuelle spørsmål dersom disse vurderes av kommisjonskollegiet – vil være at de treffes ved alminnelig flertall.[^996] Utvalget legger imidlertid til grunn at den nye bestemmelsen også vil omfatte kommisjonens vurdering av om en tidligere avgjørelse om å nekte gjenåpning skal omgjøres, slik at det vil være tilstrekkelig med én stemme for å omgjøre til domfeltes gunst.
+
+Bestemmelsen gjelder kun for avgjørelser om å gjenåpne til *gunst.* Etter utvalgets syn tilsier de nevnte hensynene som ligger til grunn for forslaget, at bestemmelsen bør avgrenses mot gjenåpning til skade. For gjenåpning til skade vil regelen derfor – som i dag – være at gjenåpning forutsetter alminnelig flertall, altså to av tre stemmer etter den foreslåtte inndelingen.
+
+## Mer betryggende behandling av avgjørelser om å forkaste
+
+Gjenopptakelseskommisjonens adgang til å forkaste en begjæring uten nærmere behandling er regulert i straffeprosessloven § 397 tredje ledd, som lyder:
+
+«Gjelder begjæringen en avgjørelse som etter sin art ikke kan gjenåpnes, eller inneholder den ingen grunn som etter loven kan føre til gjenåpning, kan kommisjonen uten nærmere behandling forkaste begjæringen etter reglene om kjennelse. Det samme gjelder hvor begjæringen av andre grunner åpenbart ikke kan føre frem. Avgjørelsen kan tas av kommisjonens leder eller nestleder. Når en avgjørelse etter første punktum ikke byr på tvil, kan den treffes uten annen begrunnelse enn en henvisning til bestemmelsen her.»
+
+Bestemmelsen i andre punktum gir adgang til å avgjøre gjenåpningssaken etter en forenklet prosedyre dersom det er «åpenbart» at begjæringen ikke kan føre frem. Begjæringen kan vurderes uten nærmere undersøkelser, og uten at den forelegges partene for uttalelse. Avgjørelsen kan videre tas av leder eller nestleder alene. Som begrunnelse for regelen er det i forarbeidene vist til kapasitetshensyn, og at hensynet til en forsvarlig bruk av kommisjonens ressurser tilsier at begjæringer som «åpenbart er ugrunnete», ikke behandles like grundig som andre begjæringer.[^997] Det vises til den nærmere redegjørelsen i punkt 8.4.
+
+Lederens adgang til å forkaste begjæringer på egen hånd benyttes i praksis i stor grad. Normalt avgjøres ca. halvparten av begjæringene kommisjonen mottar, av leder eller nestleder alene.[^998] I 2023 var andelen 49 % av de realitetsbehandlede sakene og i 2019 hele 60 %.[^999]
+
+Etter utvalgets syn er det grunn til å stille spørsmål om terskelen for at leder eller nestleder forkaster begjæringen på egen hånd, i praksis ligger noe lavere enn ordlyden og formålet bak bestemmelsen skulle tilsi. Utvalgets gjennomgang av kommisjonens avgjørelser har vist eksempler på begjæringer som er forkastet av leder alene, hvor det kan stilles spørsmål om det var «åpenbart» at begjæringen ikke kunne føre frem, og om sakens alvor og kompleksitet tilsa at saken uansett burde vært avgjort av den samlede kommisjonen, se punkt 16.3.2. At bestemmelsen benyttes ofte, og at terskelen i praksis kan synes noe lav, er også påpekt av forsvarere i utvalgets spørreundersøkelse.
+
+Det kan videre se ut til at en relativt stor andel av sakene som avgjøres av den samlede kommisjonen, blir gjenåpnet. I perioden 2019–2023 endte ca. 59 % av det totale antallet realitetsbehandlede saker avgjort av kommisjonskollegiet med gjenåpning. Ca. 27 % av sakene ble nektet gjenåpnet, og ca. 14 % ble forkastet av den samlede kommisjonen.[^1000] Totalt er gjenåpningsprosenten for alle realitetsbehandlede saker avgjort av den samlede kommisjonen siden oppstarten, altså i perioden 2004–2023, ca. 39 %.[^1001] Dette kan tyde på at det i sakene som bringes inn for den samlede kommisjonen, ofte er relativt klare holdepunkter som taler for gjenåpning. Det kan derfor spørres om det i praksis er slik at saker som reiser tvil, iblant avgjøres av leder eller nestleder alene. Etter loven skal imidlertid kun «åpenbart» ugrunnede begjæringer forkastes.
+
+Utvalget mener på bakgrunn av dette at terskelen for å forkaste begjæringer uten behandling av den samlede kommisjonen i praksis bør heves noe. Utvalgets forslag om å dele kommisjonen inn i flere avdelinger vil bidra til at antallet saker per kommisjonsmedlem reduseres, se punkt 20.2.2. Et av siktemålene med forslaget er å sørge for at noen flere saker som i dag avgjøres av leder eller nestleder alene, i stedet kan behandles av det samlede kommisjonskollegiet.
+
+Det vises videre til utvalgets forslag om å innføre en adgang for leder og nestleder til å innvilge åpenbare begjæringer på egen hånd, se punkt 20.8. Også dette forslaget er ment å sikre at noen flere saker kan behandles av den samlede kommisjonen. Det siktes til saker som reiser noe tvil, og først og fremst til saker hvor bevisvurderinger står sentralt, og hvor en samlet kommisjonsbehandling – med både jurister og lekfolk – er særlig viktig. Videre bør det i vurderingen av om saken skal legges frem for kommisjonen, ses hen til om det dreier seg om en alvorlig dom.[^1002] At flere saker om alvorlige forhold avgjøres av kommisjonen som kollegium, vil etter utvalgets syn kunne bidra til å øke tilliten til behandlingen av gjenåpningsbegjæringene.
+
+Utvalget mener videre at kommisjonen bør etablere rutiner som sikrer en mer betryggende vurdering av om begjæringen skal forkastes.
+
+Etter gjeldende praksis vurderes begjæringen først av en utreder, som kan foreslå at begjæringen forkastes og skrive utkast til avgjørelse. Forslaget vurderes deretter av lederen. Forslag om å forkaste en begjæring vil derfor i praksis kun vurderes og godkjennes av én person, som i de fleste tilfeller vil være kommisjonens leder. Utvalget forstår det slik at det er forholdvis sjelden at avgjørelsen tas av nestlederen, og at de øvrige kommisjonsmedlemmene normalt heller ikke orienteres om begjæringene som forkastes.
+
+Etter utvalgets syn er det betenkelig at kommisjonens leder i praksis har eneansvar for en stor del av kommisjonens avgjørelser. På denne måten skiller den norske ordningen seg fra den engelske og skotske kommisjonen, hvor avgjørelsene er fordelt på flere personer. I den engelske kommisjonen kan avgjørelse om å nekte gjenåpning treffes av ett kommisjonsmedlem alene. Kompetansen ligger til alle kommisjonsmedlemmene, og det vil derfor variere fra sak til sak hvem som tar avgjørelsen. I den skotske kommisjonen tas i praksis alle avgjørelser av gjenåpningsspørsmålet av den samlede kommisjonen.
+
+Utvalget mener at det bør utarbeides rutiner som sikrer at også utredningslederen i noen grad vil kunne komme med innspill ved vurderingene av om begjæringer skal forkastes. Det vises til forslaget om å innføre en utredningsleder for sekretariatet i punkt 20.3. Det bør legges opp til at forslag om å forkaste iblant, eller med gitte intervaller, vurderes av utredningslederen før forslaget eventuelt sendes videre til leder eller nestleder for avgjørelse. Det kan også være aktuelt å be om utredningslederens vurdering dersom lederen er usikker på avgjørelsen. Dersom utredningslederen gir uttrykk for tvil, kan det være en indikasjon på at saken ikke kan anses «åpenbar», og at den bør fremmes for den samlede kommisjonen til avgjørelse.
+
+Utvalget antar at en slik praktisering vil gjøre behandlingen av de enkelte gjenåpningsbegjæringene mer rettssikker og konsistent. Utredningslederens innspill kan bidra til en løpende dialog og evaluering av hvor terskelen for å forkaste generelt skal ligge. Etter utvalgets syn vil det være en styrke at flere perspektiver kommer inn i denne vurderingen, hvor også nestlederen og de øvrige kommisjonsmedlemmene kan bidra.
+
 Den formelle kompetansen til å forkaste foreslås forbeholdt leder og nestleder, som i dag.
 
-20.8 Enklere behandling av
-begjæringer som «åpenbart fører
-frem»
-Som nevnt i punkt 20.7 er det etter utvalgets syn
-grunn til å stille spørsmål om terskelen for når
-leder eller nestleder forkaster begjæringen på
-egen hånd, jf. straffeprosessloven § 397 tredje ledd
-andre punktum, i praksis ligger noe lavere enn
-ordlyden og formålet bak bestemmelsen skulle
-tilsi. Samtidig tar den samlede kommisjonen stilling til flere sakstyper hvor det kan spørres om
-samlet kommisjonsbehandling er strengt nødvendig.
-I 2023 ble for eksempel 27 av 61 gjenåpnede
-saker gjenåpnet grunnet tvil om domfeltes tilregnelighet eller andre anførsler om domfeltes psykiske tilstand på gjerningstiden, og i 2022 var
-andelen hele 28 av 44 gjenåpnede saker.69 Statistikken viser for øvrig at tilregnelighetssakene
-generelt utgjør en stor andel av kommisjonens
-69
+## Enklere behandling av begjæringer som «åpenbart fører frem»
 
-Se figur 15.9 i punkt 15.5.
+Som nevnt i punkt 20.7 er det etter utvalgets syn grunn til å stille spørsmål om terskelen for når leder eller nestleder forkaster begjæringen på egen hånd, jf. straffeprosessloven § 397 tredje ledd andre punktum, i praksis ligger noe lavere enn ordlyden og formålet bak bestemmelsen skulle tilsi. Samtidig tar den samlede kommisjonen stilling til flere sakstyper hvor det kan spørres om samlet kommisjonsbehandling er strengt nødvendig.
+
+I 2023 ble for eksempel 27 av 61 gjenåpnede saker gjenåpnet grunnet tvil om domfeltes tilregnelighet eller andre anførsler om domfeltes psykiske tilstand på gjerningstiden, og i 2022 var andelen hele 28 av 44 gjenåpnede saker.[^1003] Statistikken viser for øvrig at tilregnelighetssakene generelt utgjør en stor andel av kommisjonens portefølje. En undersøkelse utført av NRK i 2016 om samtlige gjenåpnede saker i kommisjonen i perioden 2004–2015, viser at ca. halvparten av alle de gjenåpnede sakene i perioden ble gjenåpnet grunnet anførsler om domfeltes tilregnelighet.[^1004]
+
+Videre gjenåpnes en forholdsvis stor andel av kommisjonens saker på grunnlag av rettslige vurderinger. Ofte vil det være snakk om samme eller lignende rettsspørsmål som gjør seg gjeldende i flere ulike saker, gjerne på bakgrunn av en rettsavklaring i domstolene.[^1005] I 2023 mottok kommisjonen eksempelvis 30 saker om urettmessig kroppsvisitasjon under varetekt. 17 slike saker ble gjenåpnet. Kommisjonen behandlet samme år fem saker i NAV-sakskomplekset, og fire av disse ble gjenåpnet. I 2021 gjenåpnet kommisjonen 46 slike «NAV-saker».[^1006] Slike «likeartede rettsanvendelsesfeil» var gjenåpningsgrunnen i totalt 42 % av de gjenåpnede sakene i perioden 2019–2023. I samme periode ble ca. 44 % av de gjenåpnede sakene gjenåpnet grunnet anførsler om domfeltes psykiske tilstand på gjerningstiden. Kun om lag 14 % av sakene ble gjenåpnet grunnet andre anførsler, herunder om nye bevis og omstendigheter eller svikt ved den opprinnelige rettens bevisvurdering.[^1007]
+
+Etter utvalgets syn bør det innføres en bestemmelse som gir kommisjonens leder og nestleder hjemmel til å gjenåpne saker hvor det fremstår åpenbart at begjæringen fører frem. Et siktemål med forslaget er å redusere antallet saker innen noen sakstyper som i dag avgjøres av den samlede kommisjonen. Det siktes særlig til saker om tilregnelighet og saker som hovedsakelig reiser rettslige spørsmål, herunder eksempelvis de nevnte sakskompleksene. En reduksjon i slike saker vil gjøre det mulig å heve terskelen noe for å forkaste begjæringer på materielt grunnlag, slik at flere av disse sakene kan fremmes for den samlede kommisjonen til avgjørelse, jf. punkt 20.7.
+
+Utvalget mener at en slik omfordeling av sakstypene som avgjøres av henholdsvis leder/nestleder alene og den samlede kommisjonen, vil kunne skape større tillit til kommisjonen og bedre rettssikkerhet for domfelte. Normalt anses det viktigere å sikre en betryggende behandling av saken dersom avgjørelsen vil være til skade for borgeren, enn dersom den vil være til gunst. Forslaget er ment å føre til at flere saker som i dag forkastes av leder alene, i stedet underlegges en grundigere behandling og avgjøres av kommisjonen som kollegium. Det siktes først og fremst til saker hvor bevisvurderinger står sentralt, og hvor en samlet kommisjonsbehandling – med både jurister og lekfolk – er særlig viktig. For øvrig vises det til utvalgets forslag i punkt 20.2, hvor det tas til orde for å dele kommisjonen inn i flere avdelinger. En inndeling i flere avdelinger vil føre til at det enkelte kommisjonsmedlem får færre saker å vurdere, og dermed frigjøre tid slik at flere saker kan fremmes for avgjørelse i avdelingene.
+
+Det kan anses betenkelig at en så viktig avgjørelse som gjenåpning av en rettskraftig straffedom skal kunne treffes av én person. Utvalget viser i den forbindelse til at lederen og nestlederen allerede har adgang til å egenhendig *forkaste* saker som åpenbart ikke kan føre frem. Etter utvalgets syn er det også naturlig at saker kan *gjenåpnes* etter en forenklet prosedyre, så fremt konklusjonen fremstår åpenbar. Det vises ellers til at nemndlederen i UNE – som har en tilsvarende kompetanse for saker som «ikke byr på vesentlige tvilsspørsmål» – egenhendig kan avgjøre både «klager der vilkårene for å omgjøre Utlendingsdirektoratets vedtak åpenbart må anses å foreligge, og klager som må anses grunnløse», jf. utlendingsloven § 78 tredje ledd tredje punktum. Det antas for øvrig at avgjørelsesformen i seg selv vil få liten betydning for utfallet i sakene det gjelder, ettersom det kun er «åpenbare» saker som skal kunne avgjøres i medhold av bestemmelsen.
+
+Endringen foreslås gjennomført ved at det innføres en bestemmelse som gir kommisjonens leder og nestleder adgang til å gjenåpne til gunst dersom begjæringen «åpenbart fører frem», se forslaget til § 399 nytt tredje ledd. Kompetansen vil altså ikke omfatte avgjørelser om gjenåpning til skade, jf. straffeprosessloven § 393.
+
+Med «åpenbare» saker siktes det som nevnt blant annet til mange saker om tilregnelighet. Utvalget forstår det slik at tilregnelighetssaker ofte er relativt enkle å avgjøre, fordi avgjørelsen i stor grad beror på den sakkyndiges vurdering av domfeltes psykiske tilstand på gjerningstiden. Kommisjonsmedlemmene vil sjelden ha grunnlag for å overprøve den sakkyndiges vurdering av dette spørsmålet.[^1008] Dersom spørsmålet om domfeltes tilregnelighet ikke ble vurdert i den opprinnelige rettsbehandlingen, vil en ny sakkyndigerklæring som konkluderer med at domfelte var utilregnelig, normalt anses som en ny omstendighet som gir domfelte *krav* på å få saken gjenåpnet, jf. § 391 nr. 3. Dersom den sakkyndige konkluderer med at svaret er usikkert, kan det på den annen side tilsi at saken ikke anses «åpenbar».
+
+Videre vil saker som hovedsakelig reiser rettslige spørsmål, etter omstendighetene kunne avgjøres etter bestemmelsen. Det vil naturligvis ha betydning om det rettslige spørsmålet er tvilsomt eller må anses avklart, for eksempel gjennom høyesterettspraksis. Det tas særlig sikte på tilfeller hvor kommisjonen mottar flere saker som reiser lignende rettsspørsmål, og hvor senere saker kan vurderes i lys av kommisjonens tidligere avgjørelser. For øvrig må det generelt antas å ha betydning for vurderingen om påtalemyndigheten støtter begjæringen, og eventuelt om påtalemyndigheten selv har begjært gjenåpning. Dette vil regelmessig tale for at saken kan anses åpenbar.
+
+Utvalget antar for øvrig at det vil være naturlig at også utredningslederen iblant involveres i vurderingen av disse avgjørelsene. Utvalget anbefaler at lederen inkluderer utredningslederen, nestlederen og til dels de øvrige kommisjonsmedlemmene i en løpende dialog om hvor terskelen skal ligge for hva som anses som en «åpenbar» sak. Det vises til den lignende anbefalingen vedrørende avgjørelser om å forkaste begjæringen i punkt 20.7.
+
+## Bør saker om rettsanvendelsesfeil og tilregnelighet behandles på en annen måte?
+
+Det har til tider vært reist spørsmål om Gjenopptakelseskommisjonen bør ha ansvaret for gjenåpning av saker som hovedsakelig eller utelukkende reiser *rettslige spørsmål*. Opprettelsen av kommisjonen var i stor grad basert på et ønske om å sikre bedre utredning av gjenåpningsspørsmålet, og da særlig med tanke på de *faktiske* sidene ved saken. Det er fremholdt i forarbeidene at forskjellen mellom en kommisjons- og domstolløsning trolig ville være liten når det gjaldt utredning av sakens rettslige sider, men at forskjellen ville være større når det gjaldt utredning av faktum.[^1009] Det kan tilsi at kommisjonen ikke bør ha ansvaret for gjenåpningssaker som hovedsakelig reiser rettslige spørsmål, men i stedet prioritere saker som i større grad krever bevisvurdering. Det kan også anses betenkelig med tanke på rollefordelingen mellom domstolene og kommisjonen som et forvaltningsorgan dersom kommisjonen med endelig virkning avgjør rettslige spørsmål, for eksempel om det har skjedd brudd på folkerettslige forpliktelser, jf. straffeprosessloven § 391 nr. 2.
+
+I forbindelse med den første etterkontrollen av kommisjonen reiste noen høringsinstanser – herunder Justitiarius i Høyesterett[^1010] – derfor spørsmål om kommisjonen var «det mest egnede organ» til å bedømme gjenåpningsgrunnlag av rent «rettslig karakter», særlig med tanke på § 391 nr. 2 og § 392 første ledd, eller om slike saker heller burde behandles av domstolene. Spørsmålet ble også vurdert av arbeidsgruppen som evaluerte kommisjonen i 2012.
+
+Arbeidsgruppen kom til at de beste grunner talte for at kommisjonen burde beholde kompetansen til å avgjøre gjenåpningssaker som utelukkende eller hovedsakelig reiser rettslige spørsmål. Arbeidsgruppen pekte på at også tolkningen av andre gjenåpningsvilkår, herunder § 391 nr. 3, reiser spørsmål om rettsanvendelse, og at det i slike tilfeller vil være vanskelig å skille de rettslige spørsmålene fra de faktiske. Arbeidsgruppen pekte videre på at et av formålene bak opprettelsen av kommisjonen var å styrke allmennhetens tillit til gjenåpningsspørsmålet ved å løfte gjenåpningssakene ut fra de ordinære domstolene, og at dette hensynet også gjør seg gjeldende når gjenåpningssaken dreier seg om tolkning av juss.[^1011] Arbeidsgruppen viste i tillegg til at kommisjonens avgjørelser vil kunne overprøves av domstolene, noe som vil «sikre en riktig rettsanvendelse».[^1012]
+
+Utvalget slutter seg til disse synspunktene. Utvalget viser videre til at domstolskontrollen i gjenåpningssaker synes å være særlig intensiv når det gjelder rettslige spørsmål. Dette er slått fast av Høyesterett både med tanke på den generelle tolkningen av gjenåpningsvilkårene[^1013] og når det gjelder tolkningen av folkerettslige forpliktelser av betydning for gjenåpningsspørsmålet.[^1014] Utvalget mener derfor at kommisjonen bør beholde kompetansen til å avgjøre saker om gjenåpning som hovedsakelig eller utelukkende reiser rettslige spørsmål, herunder når begjæringen er begrunnet i § 391 nr. 2 og § 392 første ledd.
+
+Utvalget har også vurdert om det bør innføres andre behandlingsformer for saker om *tilregnelighet*. Slike saker utgjør en stor andel av kommisjonens portefølje og normalt rundt halvparten av de gjenåpnede sakene.[^1015] Tilregnelighetssakene beror dessuten i stor grad på sakkyndiges vurderinger, som i de fleste saker blir utslagsgivende for gjenåpningsvurderingen. For å frigjøre tid til de mer komplekse bevissakene kan det derfor reises spørsmål om tilregnelighetssakene bør behandles på et annet vis enn i dag og eventuelt av et annet organ enn Gjenopptakelseskommisjonen.
+
+Utvalget mener at kommisjonen også bør behandle saker om gjenåpning grunnet utilregnelighet. Etter utvalgets syn er det en fordel at kompetansen til å gjenåpne straffesaker på ulike gjenåpningsgrunnlag ligger til samme organ, for å sikre en enhetlig behandling. Det bemerkes i den sammenheng at saker om tilregnelighet vurderes etter de ordinære gjenåpningsvilkårene – som oftest etter § 391 nr. 3 – og at det i slike saker også vil kunne oppstå spørsmål om vurdering av andre gjenåpningsgrunnlag.
+
+Det vises for øvrig til utvalgets forslag om å forenkle behandlingen av begjæringer som åpenbart fører frem, se punkt 20.8. Forslaget tar blant annet sikte på enkle saker om rettanvendelsesspørsmål og tilregnelighet, og er ment å frigjøre tid for kommisjonsmedlemmene slik at flere saker om komplekse bevisspørsmål kan fremmes for kommisjonen for samlet behandling.
+
+Utvalget oppfordrer videre påtalemyndigheten til å vurdere anke til domfeltes gunst dersom det oppstår tvil om rettsanvendelsen eller om domfelte var tilregnelig på gjerningstiden, jf. straffeprosessloven § 309.

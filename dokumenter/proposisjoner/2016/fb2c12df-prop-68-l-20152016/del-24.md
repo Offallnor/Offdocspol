@@ -1,1166 +1,154 @@
-# Prop. 68 L (2015–2016), del 24 av 29 (side 238–247)
+# Prop. 68 L (2015–2016), del 24 av 27
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2016/fb2c12df-prop-68-l-20152016.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-68-l-20152016/id2479232/
 - Original-PDF: https://www.regjeringen.no/contentassets/d2bd4dc7fdb44d90b0d094f4d415b981/no/pdfs/prp201520160068000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 238]
+Det samme behovet for fortsatt ransaking gjelder for et virtuelt rom i cyberspace. I forbindelse med skjult etterforskning er det ofte behov for gjentatt ransaking av elektroniske lagringsmedier fordi innholdet endres. En e-postkonto hvor det jevnlig tilkommer nye bevis av vesentlig betydning for saken vil det eksempelvis være nødvendig å ransake med jevne mellomrom. Teknisk sett kan politiet gjennomføre ransakingen ved bruk av dataprogrammer. At retten i et slikt tilfelle gir tillatelse til flere ransakinger i samme beslutning er som nevnt forenlig med lovens ordlyd.»
 
-238
+BrøEtter Kripos’ oppfatning er hyppigheten av ransakinger, og den totale tidsperioden det gis tillatelse til ransakinger i, spørsmål som «hører naturlig inn under forholdsmessighetsvurderingen i strpl §170a». Det pekes på at også objektet for ransakingen vil være et relevant vurderingsmoment, og at det eksempelvis må anses mer inngripende å ransake mistenktes bolig enn «å ransake en e-postkonto som er opprettet med det formål å tjene som informasjonskanal for de mistenkte som ledd i den straffbare handling». I tillegg vises det til at omfanget av beslutningen også vil avhenge av mistankens styrke og hvor sentralt ransakingsobjektet synes å være, og at det kan være naturlig å gi en éngangsbeslutning først, og eventuelt en videre beslutning etter hvert, dersom ransaking «avdekker et mønster som viser at det jevlig tilkommer nye bevis av vesentlig betydning».
 
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
+Videre peker Kripos på at spørsmålet om gjentatt ransaking hjemles i dagens regelverk ikke er avklart av Høyesterett, men at høringsinstansen kjenner til at problemstillingen «ved enkelte anledninger har vært prøvd av både tingrett og lagmannsrett». Videre uttaler Kripos:
 
-ting. Det har vært meningen å angi en klar grense
-mot de andre tvangsmidlene i tvångsmedelslagen
-10. kap, jf. RP 222/2010 rd side 347.
-I tvångsmedelslagen 10 kap 26 § er det gitt
-bestemmelser om gjennomføringen av teknisk
-observasjon, som dekker både teknisk avlytting
-(10 kap. 16 § og 17 §) og teknisk observasjon av
-utrustning (10 kap. 23 §). Politiet har adgang til
-«att fästa en anordning, metod eller programvara
-som används för teknisk observation på föremål,
-ämnen, egendom, i utrymmen och andra platser
-eller informationssystem som åtgärden riktas
-mot», dersom det er nødvendig for å gjennomføre
-observasjonen, jf. 10 kap. 26 § 1 mom. For å instal­
-lere, ta i bruk eller avinstallere anordningen,
-metoden eller programvaren har politiet da rett til
-«att i hemlighet ta sig in» på en slik plass eller
-slikt informasjonssystem som nevnt ovenfor, samt
-«kringgå, låsa upp eller på något annat motsva­
-rande sätt tillfälligt passera eller störa objektens
-eller informationssystemens säkerhetssystem».
-Dersom det er behov for å skaffe seg adgang til et
-sted som benyttes som «stadigvarande boende»
-kreves det særskilt tillatelse fra retten, jf. 10 kap.
-26 § 2 mom.
+BrøBrø«Som eksempel nevnes en skjult etterforskning ved Kripos for noen år tilbake (som ikke lenger er taushetsbelagt) hvor tingretten ga tillatelse til å ransake en e-postkonto. Etterforskningen viste at de mistenkte benyttet kontoen til å utveksle informasjon om det straffbare forhold, særlig om forestående møtevirksomhet. Siden de mistenkte var svært forsiktige i sin telefonbruk, var hemmelig ransaking av e-postkontoen et nødvendig supplement til den øvrige etterforskningen. KK-bestemmelsen ga som kjent ikke hjemmel til å sikre dette bevismaterialet, siden det ikke var snakk om e-post som ble sendt fra et kommunikasjonsanlegg til et annet. Informasjonen ble derimot utvekslet ved at mistenkte skrev utkast til meldinger, som ble lagret på kontoen. Enhver med tilgang (passord) kunne logge seg inn og lese utkastet. Kontoen fungerte følgelig som en slags oppslagstavle, hvor beskjeder ble formidlet uten å bli sendt fra A til B. Politiet hadde i dette tilfellet riktig passord. Det tilkom jevnlig ny informasjon på kontoen, og det var derfor behov for flere ransakinger. Tingretten ga på denne bakgrunn tillatelse til gjentatt ransaking. Kjennelsen ble ikke påanket av §100a-forsvareren.»
 
-14.4 Folkerettslige forpliktelser
-Som nevnt ovenfor er ikke datavlesing et entydig
-juridisk begrep, og det betegner heller ikke noen
-klart avgrenset teknologisk fremgangsmåte. Slik
-begrepet brukes i proposisjonen her, vil dataavle­
-sing som metode ha paralleller til – og delvis over­
-lappe med – kommunikasjonsavlytting og skjult
-ransaking.
-Det er åpenbart at dataavlesing vil kunne inne­
-bære betydelige inngrep i den enkeltes privatliv,
-familieliv, hjem og korrespondanse, som er vernet
-etter EMK artikkel 8 nr. 1. Etter omstendighetene
-kan dataavlesing berøre retten til privatliv så vel
-som korrespondanse, og gripe inn i både den
-enkeltes fysiske og psykiske integritet. Metoden
-kan også tenkes rettet mot det private hjem, hvor
-vernet etter artikkel 8 nr. 1 er særlig sterkt.
-Retten til respekt for privatlivet er likevel ikke
-absolutt. Etter artikkel 8 nr. 2 kan det gjøres inn­
-grep i rettigheten såfremt dette skjer med hjem­
-mel i lov og er nødvendig i et demokratisk sam­
-funn av hensyn til visse nærmere angitte formål.
-Departementet er ikke kjent med at EMD i noe til­
-felle har vurdert konkret om vilkårene for å gjøre
-inngrep ved å benytte dataavlesing (som egen
-metode i den forstand som her legges til grunn)
-har vært oppfylt. Det kan imidlertid være naturlig
+BrøKripos antar på denne bakgrunn at straffeprosessloven § 197 gir hjemmel for å tillate flere ransakinger av samme objekt innenfor en avgrenset tidsperiode – i én beslutning, og at dette kan skje som ledd i skjult etterforskning dersom vilkårene i § 200 a er oppfylt. Etter Kripos’ oppfatning er det en forutsetning at politiet forlater stedet eller det virtuelle rommet hver gang en ransaking er gjennomført. I motsatt fall «er det snakk om en kontinuerlig overvåkning («fortløpende ransaking»), som åpenbart ikke hjemles i dagens ransakingsbestemmelser».
 
-2015–2016
+Kripos peker videre på at gjentatt ransaking ikke er tilstrekkelig for å sikre «flyktige opplysninger» – altså opplysninger som ikke lagres – i elektroniske informasjonssystemer. Som eksempler nevnes krypteringsnøkler, passord og «annet som kan brukes til å bryte kryptering». Etter Kripos’ oppfatning er det i mange situasjoner «avgjørende \[…\] å ha anledning til å bevissikre disse» gjennom fortløpende eller kontinuerlig ransaking. Dette utdypes slik:
 
-å velge en tilsvarende tilnærming som i saker om
-kommunikasjonsavlytting og romavlytting, og det
-vises derfor til redegjørelsen i punkt 7.2 og 8.2
-ovenfor, samt den generelle redegjørelsen i punkt
-5.2.
+BrøBrø«Dersom en gjennomfører ransaking på et tilfeldig tidspunkt i håp om at mistenkte har åpnet de krypterte filene vil det være mer eller mindre tilfeldig hvilken informasjon som er tilgjengelig. Hyppig gjentakelse i den fysiske verden kan betraktes som sneglefart i et elektronisk datasystem. I praksis kan de flyktige opplysningene eller de åpne krypterte filene kun bevissikres ved en kontinuerlig tilstedeværelse. Det frekvensbeskrivende begrepet «gjentatt» gir i praksis ikke en slik grad av tilstedeværelse. Det må i så fall gjennomføres et stort antall «stikkprøve»-ransakinger som i praksis blir lite gjennomførbart og antakeligvis ikke mulig. Det gir også sikringsmuligheten et tilfeldighetspreg. Adgangen til fortløpende ransaking vil derfor være eneste praktiske løsning på krypteringsproblemet.»
 
-14.5 Tidligere norske utredninger hvor
-spørsmålet om dataavlesing bør
-tillates er vurdert
-I NOU 2004: 6 Mellom effektivitet og personvern
-foreslo Politimetodeutvalgets flertall å innføre
-regler som skulle tillate dataavlesing som forebyg­
-gende metode. Det foreslo også å definere dataav­
-lesing slik (punkt 11.8.2 side 233):
-«Med dataavlesing forstås avlesing av opplys­
-ninger i et ikke offentlig tilgjengelig elektro­
-nisk informasjonssystem ved hjelp av datapro­
-grammer eller på annen måte.»
-Forslaget til bestemmelse om dataavlesing lød
-slik (punkt 11.1.2 side 250):
-«(1) Politiet kan iverksette dataavlesning
-overfor person som det er god grunn til å tro
-forbereder en særlig alvorlig straffbar handling
-etter § 8-3 (1), men bare av informasjonssys­
-tem som det må antas at anvendes i forbindelse
-med forberedelsen.
-(2) Beslutningen skal treffes av retten. Til­
-latelse kan bare gis når undersøkelsen vil være
-av avgjørende betydning for å forebygge den
-straffbare handling, og bare når mindre inngri­
-pende metoder ikke vil være anvendelige.
-(3) Kontroll kan ikke gjennomføres med
-hensyn til en persons kommunikasjon med
-personer som ifølge straffeprosessloven § 119
-er utelukket fra å gi vitneforklaring med min­
-dre vedkommende selv er involvert i forbere­
-delsen.
-(4) Tillatelsen skal gis for et bestemt tids­
-rom, som ikke må være lenger enn strengt nød­
-vendig, og ikke lenger enn 8 uker om gangen.
-I saker som angår § 2-2, kan tillatelse gis for
-inntil 6 måneder om gangen.
-(5) Tillatelse kan likevel ikke gis dersom
-det etter inngrepets formål, sakens betydning
-og forholdene ellers vil være et uforholdsmes­
-sig inngrep.»
-I begrunnelsen for forslaget viste Politimetodeut­
-valgets flertall til at kommunikasjonskontroll gir
-politiet mulighet til å kontrollere opplysninger
+BrøKripos mener derfor at «dataavlesing må innføres som en gjennomføringsmåte også for ransaking, slik at denne metoden ikke skal miste sitt anvendelsesområde for elektroniske spor». Det er etter Kripos’ oppfatning av mindre betydning om dette lovteknisk gjennomføres ved at dataavlesing defineres som egen metode, eller som gjennomføringsmåter for henholdsvis kommunikasjonskontroll og ransaking. Det vises imidlertid til den danske løsningen, hvor dataavlesing er inntatt i en egen bestemmelse.
 
-[Side 239]
+*Politidirektoratet* støtter Kripos’ synspunkter, og uttaler:
 
-2015–2016
+BrøBrø«Et grunnleggende utgangspunkt, som utvalget synes enig i, må være at politiet gis de samme forutsetninger for å gjennomføre en ransaking med tanke å innhente bevis (informasjon) som er lagret elektronisk, som ved en tradisjonell ransaking. Direktoratet anser i så henseende at den teknologiske utviklingen (økt grad av kryptering) har ført til at politiet ikke har de samme muligheter til å innehente/beslaglegge informasjon som er lagret elektronisk som fysisk. Direktoratet viser her til at Kripos *«mener det som skiller dataavlesing fra tradisjonell ransaking, er at det av teknologiske årsaker må gjennomføres fortløpende (kontinuerlig) om det skal være gjennomførbart i krypterte systemer»*. Som Kripos peker på videre er det vanskelig å ha en begrunnet oppfatning om hvilken informasjon politiet ikke får tilgang til når krypteringen ikke kan brytes. Den omstendighet at det ligger informasjon der som politiet ikke klarer å få tilgang til er i seg selv klart uholdbart. Politidirektoratet støtter derfor Kripos tilrådning om at det må vurderes nærmere om fortløpende ransaking av datasystem skal tillates.
 
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
+Politidirektoratet viser ellers til Kripos' utførlige merknader på dette punkt, som direktoratet i det vesentlige kan slutte seg til.»
 
-som kommuniseres mellom datamaskiner, for
-eksempel e-postforsendelser. Politimetodeutval­
-get pekte på at bedre tilgang til krypteringspro­
-grammer medfører at kommunikasjonskontroll
-som metode gir mindre informasjon enn tidligere.
-Det viste også til at moderne krypteringsprogram­
-mer har blitt så kompliserte at krypterte meldin­
-ger ikke lar seg dekryptere, og at eneste måte å få
-tak i innholdet på derfor er å fange det opp før
-meldingen krypteres. Politimetodeutvalgets fler­
-tall fremhevet også at dataavlesing ville være en
-integritetskrenkende metode, men at det burde
-åpnes for den – på strenge vilkår (NOU 2004: 6
-punkt 10.7.11.1 side 207).
-Høringen av Politimetodeutvalgets forslag
-etterlot etter departementets vurdering et klart
-inntrykk av at dataavlesing var en etterforsk­
-ningsmetode som det var behov for å vurdere
-nærmere, jf. Ot.prp. nr. 60 (2004–2005) punkt 11.3
-side 141. Departementet konstaterte at dataavle­
-sing kunne virke svært integritetskrenkende, og
-at det var behov for å gå nærmere inn i kompli­
-serte tekniske spørsmål for å kunne avveie de
-ulike hensynene på en tilfredsstillende måte.
-Departementet gikk derfor inn for at spørsmålet
-burde utredes av Datakrimutvalget før forslag om
-lovendringer ble fremmet.
-Lund-utvalget tok også opp spørsmålet om
-bruk av spesielle datatekniske metoder i etter­
-forskningsøyemed i NOU 2003: 18 Rikets sikker­
-het, Straffelovkommisjonens delutredning VIII,
-punkt 8.1.2 side 126–127:
-«Det andre spørsmålet er i hvilken grad det bør
-kunne benyttes spesielle datatekniske metoder
-i etterforskingen, herunder ulike dataprogram­
-mer – såkalte trojanske hester, ormer, sniffere
-mv. Dette er dataprogrammer som kan installe­
-res hemmelig i dataanlegg og som kan ha for­
-skjellige funksjoner. For eksempel kan pro­
-grammene legge «vertsmaskinen» åpen for
-«innbrudd» utenfra, eller de kan lagre og/eller
-sende informasjon som ligger på maskinen.
-Programmene kan også overvåke de enkelte
-inntastingene underveis, og sende denne infor­
-masjonen til politiet før den krypteres. Bruk av
-slike programmer reiser en rekke tekniske og
-rettslige spørsmål. Det må legges til grunn at i
-mange tilfeller vil det være nødvendig med
-hjemmel utover de som er gitt i gjeldende lov­
-givning. For å besvare hjemmelsspørsmålet
-sikkert kreves imidlertid en avklaring av hvilke
-programfunksjoner som kan være aktuelle, i
-hvilken grad programmene kan skade verts­
-maskinen, om programmene kan forstyrre
+BrøOgså *Riksadvokaten* slutter seg langt på vei til Kripos’ vurderinger av hva det i praksis er behov for:
 
-239
+BrøBrø«For riksadvokaten er det overordnede krav til ny lovgivning at den gir tilstrekkelige hjemler til at det rent faktisk blir mulig å få tilgang til kommunikasjonen på samme måte som ved for eksempel tradisjonell avlytting av telefonsamtaler. Hva som kreves for å gjennomføre dette i praksis er et utpreget teknisk spørsmål og en viser her til høringsuttalelsen fra Kripos. Det kan formentlig være hensiktsmessig om departementet i det videre arbeid med spørsmålet orienterer seg noe nærmere om de tekniske muligheter og begrensninger.
 
-eller forsinke vertsmaskinens funksjoner, hvor
-stor plass slike programmer kan oppta på verts­
-maskinens harddisk, om programmene kan
-installeres uten at det medfører datainnbrudd
-osv. Også andre IKT-relaterte metoder kan
-visstnok tenkes anvendelige i etterforskings­
-øyemed, for eksempel avlytting av elektromag­
-netiske felt.»
-Lund-utvalget konkluderte med at det var naturlig
-å overlate vurderingen av ulike IKT-relaterte
-metoder til Datakrimutvalget.
-Datakrimutvalget konstaterte at dataavlesing
-var et begrep uten entydig fastlagt innhold, og at
-det måtte utredes nærmere hva metoden består i.
-I samråd med departementet valgte Datakrimut­
-valget å la spørsmålet om innføring av dataavle­
-sing «utstå til det senere utredningsarbeid», jf.
-NOU 2007: 2 Lovtiltak mot kriminalitet, punkt
-4.3.4 side 47. Metodekontrollutvalget ble bedt om
-å følge opp dette utredningsarbeidet.
+Riksadvokaten har som det fremgår av utredningen tilrådd at hemmelig ransaking og beslag kan gjennomføres uten fysisk tilstedeværelse. Utvalget må forstås slik at det slutter seg til dette på side 246 første spalte og særlig tydelig i sammendraget (side 27). Det er formentlig tilstrekkelig at dette uttales klart i lovforarbeidene uten at det nedfelles i en egen bestemmelse.»
 
-14.6 Metodekontrollutvalgets
-vurderinger og forslag
-14.6.1 Innledning
-Metodekontrollutvalget presiserer at «dataavle­
-sing» ikke er et entydig juridisk eller teknologisk
-begrep, men legger til grunn at dataavlesing inne­
-bærer «å skaffe seg tilgang til opplysninger i et
-elektronisk datasystem ved hjelp av dataprogram­
-mer eller på annen måte», jf. NOU 2009: 15 punkt
-23.1.4 side 237. I utredningen er det presisert at
-utvalget har vært særlig opptatt av «å kartlegge
-behovet for metoden og dens antatte effektivitet»,
-jf. punkt 23.1.3 side 236. Utvalget har utredet og
-vurdert om det er grunnlag for å foreslå regler
-som tillater at politiet tar i bruk dataavlesing som
-metode under etterforskning, og som forebyg­
-gende metode. Videre har det tatt stilling til hvor­
-dan slike regler eventuelt bør utformes – herunder om dataavlesing bør tillates som en ny selv­
-stendig etterforskningsmetode på lik linje med
-andre tvangsmidler, eller mer målrettet som en
-mulig gjennomføringsmåte for informasjons­
-innhenting ved bruk av etablerte tvangsmidler,
-som for eksempel kommunikasjonsavlytting og
-romavlytting. Om dette heter det i punkt 23.1.4
-side 237 i utredningen at:
-«Dataavlesing slik Politimetodeutvalget foreslo,
-og den løsning som er valgt i Danmark og fore­
-slått i Sverige, jf. nedenfor, innebærer at dataav­
-lesing innføres som en ny selvstendig etterfor­
+Brø*NAST* har som nevnt ovenfor under punkt 14.7.1 pekt på at lovens skille mellom hemmelig ransaking og kommunikasjonskontroll er en svakhet, den teknologiske utviklingen tatt i betraktning. Det vises til at ransaking tradisjonelt har vært knyttet til fysiske rom og personer, mens kommunikasjonskontroll gjelder elektronisk kommunikasjon. NAST konstaterer derfor at opplysningsgrunnlaget er «artsforskjellig, nemlig fysiske objekter vs. elektroniske data». Videre pekes det på at det lenge har vært klart at også datasystemer kan være gjenstand for ransaking, og at opplysningsgrunnlaget da er av samme art som ved kommunikasjonskontroll, nemlig elektroniske data. Forskjellen er ifølge NAST bare at ved kommunikasjonskontroll er dataene under overføring, mens ved ransaking er de lagret. I begge tilfeller er opplysningsverdien avhengig av at dataene er tilgjengelige i klartekst – altså at dataene er dekryptert eller i utgangspunktet ukryptert. NAST konstaterer derfor at «teknologiutviklingen har ledet til at ransaking og kommunikasjonskontroll kan rette seg mot samme type objekt (elektroniske data), og kan stå overfor samme utnyttelsesproblem på grunn av kryptering».
 
-[Side 240]
+Videre gir NAST uttrykk for at «\[n\]este aspekt av problemet er den rettslige definisjonen av objektet for kommunikasjonskontroll, nemlig «samtaler eller annen kommunikasjon til og fra bestemte telefoner, datamaskiner eller andre anlegg for elektroniske kommunikasjon», jf. strpl. § 216a tredje ledd. I korthet er det tale om elektronisk kommunikasjon, dvs, data under overføring». NAST viser til at definisjonen er bygd ut «i takt med ekomlovgivningen», men at kommunikasjonskontroll opprinnelig gjaldt avlytting av samtaler mellom to forskjellige samtaleparter – noe som «fulgte med nødvendighet av det gamle fasttelefonisystemet». De strenge vilkårene for kommunikasjonskontroll «reflekterte følgelig det fundamentale vernet om kommunikasjonsfortroligheten, ikke bare for siktede, men også for den annen part i kommunikasjonen». Etter NASTs oppfatning har teknologiutviklingen ledet til at den tradisjonelle forutsetningen om at kommunikasjonen går mellom forskjellige parter ikke kan opprettholdes bare fordi datastrømmen går mellom forskjellige kommunikasjonsanlegg. Årsaken er ifølge NAST at «datastrømmen like gjerne kan skyldes personens kontakt med egne data som er lagret på en server i «internettskyen», og at det dermed er et «annet aspekt av privatlivets fred enn kommunikasjonsfortroligheten» som berøres.
 
-240
+NAST mener at områdene for kommunikasjonskontroll og ransaking er i ferd med å gli over i hverandre, «også fordi det ikke lenger kan legges til grunn at data ikke er *vernet* av kommunikasjonsfortroligheten, bare fordi de er *lagret*». Som et «velkjent eksempel fra praksis» trekker NAST frem kriminelles bruk av en e-postkonto til å skrive beskjeder til hverandre uten at meldingene sendes. Hver deltaker logger seg inn med brukernavn og passord, og leser de lagrete meldingene. Det er ifølge NAST ikke tvilsomt at informasjonsoverføringen representerer kommunikasjon, men metoden som står til rådighet er likevel ikke kommunikasjonskontroll, men derimot ransaking, eller utleveringspålegg overfor tilbyder. Videre uttaler NAST:
 
-2015–2016
+BrøBrø«Slik utviklingen går, er det naturlig å anse stadig mer av datamengden som kommunikasjon, fordi informasjonen forvaltes i nettverk. For eksempel er det vanlig å forvalte sin informasjon via servere utenfor sin egen personlige datamaskin (kommunikasjonsanlegg). Man er heller ikke avhengig av å disponere en egen datamaskin, fordi informasjonen kan lagres, hentes og spres via servere i «internettskyen» ved bruk av offentlige terminaler, for eksempel på internettkafe eller bibliotek. Videre blir lagrete data ofte (videre)sendt, for eksempel som vedlegg til epost, og representerer derfor kommunikasjon.
 
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
+Det er neppe gitt hva som er hensiktsmessig eller korrekt metodebruk, kommunikasjonskontroll eller hemmelig ransaking, og politiet vil ende opp med å begjære begge deler for å være på den sikre siden. Kommunikasjonskontroll kan imidlertid være «feil» tvangsmiddel dersom det gjelder en forutsetning om forskjellige samtaleparter. Ransaking er på den annen side utilstrekkelig dersom det ikke er adgang til *regelmessig nedlasting* fra brukerkontoen, slik at politiet kan følge med på informasjonsutvekslingen. Så vidt forstås er gjeldende lære at ransakingsbestemmelsen i strpl. 200a ikke gir adgang fil dette. Tolkningen følger ikke eksplisitt av ordlyden, men viser vel at konseptet «ransaking» er forankret i åpen metodebruk i det fysiske rom. I slike tilfeller har det ikke vært behov for ransaking flere ganger under samme tillatelse, fordi siktede alt første gang ble gjort oppmerksom på etterforskingsskrittet og har kunnet innrette seg deretter. Men ved hemmelig metodebruk er gjentatt ransaking hensiktsmessig, *både* for fysiske og virtuelle rom.»
 
-skingsmetode på linje med andre tvangsmidler
-som for eksempel kommunikasjonskontroll og
-romavlytting. En slik form for dataavlesing vil
-kunne gi tilgang både til informasjon som poli­
-tiet ved bruk av eksisterende metoder kan få til­
-gang til, for eksempel gjennom kommunika­
-sjonskontroll eller hemmelig ransaking, og til
-informasjon som politiet etter gjeldende rett
-ikke har mulighet til å innhente, nemlig informa­
-sjon om den kontinuerlige bruken av informa­
-sjonssystemet som for eksempel ikke kommuni­
-seres eller lagres i datasystemet.
-Dataavlesing kan alternativt målrettes slik
-at politiet for eksempel kun gis adgang til å
-bruke fremgangsmåten for å innhente informa­
-sjon som politiet allerede i dag kan få tilgang til,
-men på en måte som ikke hindres av tekniske
-beskyttelsesinnretninger i det aktuelle datasys­
-temet som bruk av kryptering. En slik regel vil
-innebære en videreføring av den mulighet alle­
-rede eksisterende metoder gir til å fremskaffe
-informasjon, som for eksempel kommunika­
-sjonsavlytting.
-Under enhver omstendighet vil dataavle­
-sing slik utvalget ser det, innebære et ellers
-straffbart innbrudd i et datasystem etter straf­
-feloven (1902) § 145 annet ledd og straffeloven
-(2005) § 204, se også § 205.»
-Metodekontrollutvalget uttaler samme sted at
-man «har valgt en mer målrettet og mindre inn­
-gripende tilnærming og forslag til løsning av
-spørsmålet om innføring av dataavlesing som
-metode enn Politimetodeutvalget hadde, og også
-den løsning man har valgt i Danmark og foreslått
-i Sverige.» Utvalget har ikke funnet grunn til å
-foreslå dataavlesing innført som metode «med
-det formål å gi politiet mulighet til fortløpende å
-overvåke all aktivitet i et datasystem». Derimot
-har utvalget foreslått at dataavlesing innføres
-«som en mulig gjennomføringsmåte for kommu­
-nikasjonskontroll og hemmelig ransaking, slik at
-politiet settes i stand til å sikre informasjon som
-er kryptert eller på annen måte er gjort utilgjen­
-gelig», jf. punkt 23.1.4 side 237, i utredningen.
-Utvalgets vurderinger og forslag omtales nær­
-mere nedenfor.
-14.6.2 Metodekontrollutvalgets observasjoner
-om behovet for dataavlesing
-Metodekontrollutvalget tar utgangspunkt i at
-«innføringen av nye tvangsmidler, eller utvidelsen
-av eksisterende hjemler, må bygge på solid doku­
-mentasjon av behovet», og understreker at det
+BrøNAST mener at teknologiutviklingen har ledet til at «et rettslig skille mellom lagrede data og data under overføring blir kunstig», og at lovgiver derfor bør vurdere å lage én dekkende regel for hemmelig tilgang til elektroniske data.
 
-kreves «tungtveiende grunner» for å innføre nye
-metoder
-eller
-gjennomføringsmåter,
-jf.
-NOU 2009: 15 punkt 23.2.2 side 240.
-Utvalget legger samme sted til grunn at politi­
-ets mulighet til å kontrollere mistenktes kommuni­
-kasjon er «et effektivt og viktig verktøy for politiet
-i dets arbeid med å avdekke alvorlig kriminalitet».
-Videre pekes det på at den teknologiske utviklin­
-gen fra innføringen av adgang til telefonkontroll
-ved etterforskning av overtredelser av narkotika­
-lovgivningen – ved midlertidig lov av 17. desem­
-ber 1976 – og frem til i dag har «vært enorm» på
-dette området, både på tilbydersiden og bruker­
-siden (utredningen punkt 23.2.2 side 240 og 241):
-«Den teknologiske utviklingen har gjort det
-mulig å sørge for at innholdet i kommunikasjo­
-nen ikke lenger vil være forståelig eller leselig
-når den kommer til teletilbyderen. Ved bruk av
-krypteringsprogrammer vil mistenkte for
-eksempel kunne sørge for at en e-post som hos
-avsenderen og mottakeren kan leses som ren
-tekst, vil være kryptert og dermed i utgangs­
-punktet uleselig for politiet dersom den for
-eksempel hentes ut hos internettilbyderen.
-Dette betyr ikke nødvendigvis at politiet er helt
-avskåret fra å lese informasjonen. Dersom poli­
-tiet klarer å knekke krypteringen eller innehar
-krypteringsnøkkelen, vil informasjonen kunne
-dekrypteres, og dermed leses. I dag er imidler­
-tid de fleste krypteringsprogrammer i forbin­
-delse med kommunikasjon så vidt avanserte at
-krypteringen ikke kan omgås i det hele tatt, og i
-alle fall ikke innenfor et så kort tidsrom at infor­
-masjonen blir etterforskingsmessig relevant.
-Alt tyder på at bruken av kryptering av
-kommunikasjon øker, og vil fortsette å øke i
-fremtiden. Også opplysninger utvalget har fått
-fra Nasjonal sikkerhetsmyndighet (NSM),
-avdeling NorCERT, bekrefter dette. Utviklin­
-gen skyldes i hovedsak økt bevissthet om
-behovet for å beskytte seg både hos tilbydere
-av teletjenester og hos brukerne, som kan
-være både enkeltpersoner og bedrifter. I dag
-kan alle enkelt og billig skaffe seg relativt avan­
-serte krypteringsprogrammer for kommunika­
-sjon. En rekke av de programmer som er til­
-gjengelige for brukere av teletjenester krypte­
-rer i tillegg kommunikasjonen uten at
-brukeren i og for seg er klar over det, eller i
-hvert fall ikke trenger å gjøre noe aktivt for det.
-I tillegg har en rekke offentlige aktører pekt på
-at også den enkelte bør ta grep for å beskytte
-seg på Internettet både mot kriminalitet og av
-personvernhensyn, blant annet ved bruk av
+Videre gjør NAST gjeldende at det bør være adgang til gjentatt ransaking – både fysisk og virtuelt. Om dette uttaler NAST at «\[s\]elv om det ikke kan ses at ordlyden i gjeldende ransakingsregler er til hinder for hemmelig gjentatt ransaking, fysisk og virtuelt, hersker det en usikkerhet som påkaller behov for rettslig avklaring». I tillegg peker NAST på at ransaking av virtuelle rom innebærer bruk av dataprogram – altså en automatisert ransakingsprosess – hvilket i seg selv tilsier at det bør være adgang til gjentatt automatisert ransaking.
 
-[Side 241]
+Enn videre mener NAST at det er behov for dataavlesing som selvstendig metode, for å utnytte automatiske metoder for å kopiere lagret innhold og rapportere om bruk av datamaskinen (tastetrykk), samt å kopiere trafikk mellom kommunikasjonsanlegg – altså en form for fortløpende ransaking.
 
-2015–2016
+*Telemark politidistrikt* mener også at gjentatt ransaking under én beslutning bør tillates. Distriktet uttaler følgende:
 
-241
+BrøBrø«Utvalget vil ikke foreslå en adgang til fortløpende eller gjentatt ransaking av kommunikasjonsanlegg. Påtalemyndigheten må etter utvalgets forslag be om rettens kjennelse for hver ny ransaking. Argumentet er hovedsakelig at en slik adgang vil innebære en for stor integritetskrenkelse. Det er etter mitt skjønn vanskelig å se den prinsipielle forskjellen mellom en rettslig kjennelse for hemmelig ransaking av et dataanlegg i en periode, eller flere kjennelser om det samme i den samme perioden. I de saker hvor slik hemmelig ransaking vil være mest aktuelt, vil det kunne være en slik overvåking over tid som er relevant for etterforskningen. Flere av de andre skjulte etterforskningsmetodene brukes over til dels lang tid for å avdekke kriminelle nettverk og de ulike aktørenes roller.»
 
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
+Brø*Oslo statsadvokatembeter* mener derimot at gjentatte ransakinger under én beslutning ikke bør tillates, fordi det «i prinsippet \[ville\] åpne for en sammenhengende «overvåkning» av datamaskinene».
 
-krypteringsprogrammer. For eksempel har
-Personvernkommisjonen i NOU 2009: 1 på side
-87–88 pekt på at alle, av personvernhensyn, i
-større grad bør kryptere informasjon som går
-over Internettet.»
-Videre bemerker utvalget samme sted at den tek­
-nologiske utviklingen har ført til utfordringer for
-politiet med hensyn til å kunne utnytte kontrollad­
-gangen effektivt:
-«Disse samfunnsmessige og markedsmessige
-tendensene må antas å påvirke også de krimi­
-nelle, som vil ha en særlig interesse av å være
-oppmerksom på forholdet mellom kryptering
-og politiets arbeidsmetoder. Ved å utnytte kunn­
-skap om politimetodenes svakheter, vil de krimi­
-nelle gjennom økt bruk av sterk kryptering
-kunne sørge for at den kommunikasjonen som
-tidligere ble fanget opp gjennom kommunika­
-sjonskontroll, ikke lenger tilflyter politiet. På
-denne bakgrunn legger utvalget til grunn at den
-økte bevisstheten rundt bruken av kryptering
-og den økte tilgjengeligheten av slike program­
-mer vil gjøre kommunikasjonskontroll som
-etterforskingsmetode langt mindre effektiv.»
-Metodekontrollutvalget viser også til politiets
-behov for å kunne foreta hemmelig ransaking og
-beslag i bekjempelsen av alvorlig kriminalitet. Det
-peker på at den teknologiske utviklingen også i
-denne sammenheng har gjort at informasjon som
-politiet tidligere fikk tilgang til ved slik metode­
-bruk, ikke lenger tilgjengelig, og at dette «særlig
-skyldes […] økt bevissthet knyttet til kryptering
-av data i forbindelse med lagring», jf. utredningen
-punkt 23.2.2 side 241. Med hensyn til disse utfor­
-dringene har utvalget gjort følgende observa­
-sjoner (samme sted side 241–242):
-«Politiet kan i dag i prinsippet skaffe seg til­
-gang til all informasjon for eksempel i en data­
-maskin, gjennom reglene om hemmelig ran­
-saking og beslag. Dersom vilkårene for det er
-oppfylt, kan politiet ransake og beslaglegge
-informasjon på datamaskinen ved å «speile» –
-det vil si kopiere – aktuell informasjon på hard­
-disken. På den måten vil politiet kunne skaffe
-seg tilgang til informasjon som både relaterer
-seg til kommunikasjon og annen usendt, sensi­
-tiv eller privat informasjon mv., og til en viss
-grad også informasjon som mistenkte har ment
-å slette.
-I denne forbindelse er det rapportert at poli­
-tiet møter utfordringer der informasjonen er
+BrøBrø**Gjennomføringen av dataavlesing**
 
-kryptert. Informasjonen i et datasystem kan
-passordbeskyttes på mange måter og på
-mange nivåer, alt fra oppstarten av enheten til
-åpning av de enkelte programmer og doku­
-menter.
-Den økte bevisstheten om behovet for å
-sikre seg mot at andre får tilgang til informa­
-sjon som er tilgjengelig på et datasystem har
-også ført til økt fokus på å beskytte informasjo­
-nen. Et typisk eksempel vil være passordbe­
-skyttet oppstart (i BIOS) av en bærbar data­
-maskin som brukeren har med seg utenfor
-hjemmet, med den økte risikoen dette har for
-at den kan bli stjålet eller tapt på annen måte.
-Det må antas at dette også gjelder de krimi­
-nelle. Denne gruppen vil i tillegg ha større
-grunn til å beskytte alle de datasystemer som
-brukes i den kriminelle virksomheten, for
-eksempel også en stasjonær datamaskin.
-Det er anført at begge disse hovedutfor­
-dringene – kryptering og annen beskyttelse –
-ved gjennomføringen av dagens metoder, vil
-kunne møtes mer effektivt dersom politiet gis
-adgang til dataavlesing. Dataavlesing kan ten­
-kes å gi politiet adgang til for eksempel å
-avlytte kommunikasjonen før den blir kryptert,
-alternativt skaffe seg krypteringsnøkkelen på
-mistenktes datamaskin for så å dekryptere
-meldingen i transportfasen. Dataavlesing vil
-også kunne tenkes å åpne for avlesing av mis­
-tenktes inntasting av passord, og dermed let­
-tere gi tilgang til den aktuelle informasjonen på
-maskinen, i programmer eller i dokumenter
-ved ransaking og beslag. Ransakingen kan
-videre tenkes å skje uten fysisk tilstedeværelse
-hos mistenkte, samt muliggjøre fortsatt eller
-gjentatt ransaking og beslag på en enklere
-måte.»
-Videre har Metodekontrollutvalget konsultert
-Riksadvokaten, som fremhevet at endrede tekno­
-logiske forutsetninger gradvis svekker effektivite­
-ten av tradisjonell kommunikasjonskontroll, blant
-annet fordi kommunikasjon i stadig større grad
-skjer med andre midler enn ordinær telefoni (fast­
-linje eller mobil), og at det stadig oftere brukes
-løsninger som gjør det umulig å avlytte kommuni­
-kasjonen. Riksadvokaten har overfor utvalget pre­
-sisert at dette er et generelt trekk ved utviklingen
-av moderne kommunikasjon, og ikke bare ved
-utveksling av informasjon i kriminell virksomhet.
-Etter Riksadvokatens oppfatning bør det sørges
-for at det er praktisk mulig å drive kommunika­
-sjonsavlytting på de vilkår som fremgår av straffe­
-prosessloven § 216 a, og at det derfor er nødven­
+Brø*Forsvarergruppen av 1977* viser til at utvalget har konstatert at det neppe er til å unngå at gjennomføringen av dataavlesing vil kunne fange opplysninger som ikke var ment kommunisert, og at det derfor er viktig at dataavlesingen innrettes slik at det ikke fanges opp opplysninger ut over det som er nødvendig for å gjennomføre kommunikasjonsavlytting eller ransaking. Forsvarergruppen uttaler under henvisning til dette:
 
-[Side 242]
+BrøBrø«På denne bakgrunn mener Forsvarergruppen at, dersom forslaget vedtas, departementet umiddelbart bør igangsette et arbeid for å utarbeide datafaglige/tekniske retningslinjer ift hvordan slik dataavlesning skal innrettes, med klare føringer om å sikre å motvirke at dataavlesning får slike konsekvenser som beskrevet. At for eksempel nedtegnelser av private tanker, fantasier eller lignende som mistenkte (eller tredjepersoner) aldri har ment satt ut i livet/kommunisert eller lignende, skal komme i hende på politiet, og i verste fall bli misbrukt, finner Forsvarergruppen at vil representere en så alvorlig krenkelse at kostnadene ved dette virkemiddelet vil overstige gevinsten ved det, jfr også sensitivitetsprinsippet og kravet om formålsbestemthet (utredningens kap. 6).»
 
-242
+Brø*Oslo statsadvokatembeter* peker på at det er liten grunn til å tro at politiet vil anvende hardware-baserte fremgangsmåter i særlig utstrekning, fordi disse «i de fleste tilfeller vil være operativt vanskelige». Videre uttales det at en «softwareløsning vil være vesentlig enklere å anvende», men at «behovet for kontroll og etterprøvbarhet er størst ved anvendelse av denne fremgangsmåten samtidig som den er vanskelig å få gjennomført».
 
-2015–2016
+BrøBrø*Kontrollen med inngrepet*
 
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
+Brø*Kripos* viser til utvalgets uttalelser om at kravet til rettssikkerhet medfører at det må stilles krav til kontrollsystemer for bruken av dataavlesing, og sier seg enig i dette. Videre uttaler Kripos at innføring av dataavlesing «stiller krav til at omfang og gjennomføringsmåte må dokumenteres», og at det er hensiktsmessig å regulere dette i egne retningslinjer eller i forskrift.
 
-dig å slå fast at politiet om nødvendig kan skaffe
-seg tilgang til kommunikasjonsanlegg for å avlytte
-kommunikasjon uten hinder av kryptering eller
-lignende. Riksadvokaten har overfor utvalget
-anbefalt at dataavlesing tillates for å oppnå dette.
-Videre viser utvalget til at Riksadvokaten har
-anbefalt at utvalget vurderer å foreslå at retten
-kan gi tillatelse til gjentatt ransaking på samme
-måte som etter dansk rett, og å klargjøre at ransa­
-king av kommunikasjonsanlegg ikke krever fysisk
-tilgang til anlegget.
-Metodekontrollutvalget konstaterer videre at
-det ikke har vært mulig «på noen måte å få tallfes­
-tet eller på annen måte dokumentert behovet for
-dataavlesing nærmere». Etter utvalgets vurdering
-skyldes dette i hovedsak følgende (utredningen
-punkt 23.2.2 side 242):
-«Det finnes ikke rutiner for å rapportere når
-eksisterende tvangsmidler kommer til kort.
-Videre vil en pågående etterforsking sjelden
-eller aldri stoppe helt opp for eksempel fordi
-politiet per i dag ikke har anledning til å bruke
-dataavlesing som metode. Politiet innhenter
-informasjon innenfor de gjeldende rettslige
-rammer, noe som i de fleste tilfeller er tilstrek­
-kelig. På den annen side er det opplyst for
-utvalget at politiet i mange saker mener at
-bevismaterialet er større enn det politiet har
-klart å bringe på det rene med dagens metoder,
-noe som igjen vil kunne få betydning for omfan­
-get av tiltalen.»
-Metodekontrollutvalget har henvendt seg til den
-danske riksadvokaten vedrørende vurderingene i
-Danmark av behovet for dataavlesing og dens
-effektivitet, på bakgrunn av erfaringene med
-«dataaflæsning» etter retsplejeloven § 791 b. Om
-dette heter det følgende i utredningen (punkt
-23.2.2 side 243):
-«Riksadvokaten rettet på denne bakgrunn en
-henvendelse til politiet, herunder det nasjonale
-IT-Efterforskningscenteret (NITEC) som
-bistår landets politidistrikter i forbindelse med
-sikring av elektroniske bevis. Politiet opplyste
-at det ikke finnes oversikt over antallet dataav­
-lesinger i Danmark, og at det heller ikke kan
-fremskaffes slike opplysninger fra politiets
-saksbehandlingssystem. Riksadvokaten har
-likevel opplyst å være kjent med at dataavlesing
-har vært anvendt i en rekke konkrete saker,
-herunder to saker om forsøk på terror. I begge
-disse sakene ble det gjennomført dataavlesing
-av de siktedes datamaskiner. Dette frembrakte
+*Forsvarergruppen av 1977* gir sin «ubetingede støtte» til utvalgets forslag om at reglene skal evalueres, og til å gi lovendringen en bestemt virkeperiode «for å sikre at slik evaluering faktisk finner sted».
 
-bevis for at de senere domfelte hadde nedlastet
-bombemanualer, hadde søkt etter kjemikalier
-mv. som kunne brukes til bombefremstilling,
-og hadde kommunisert via datamaskiner i til­
-knytning til planleggingen av forbrytelsene. I
-forbindelse med utvalgets besøk ved det nasjo­
-nale IT-Efterforskningscenteret (NITEC) fikk
-utvalget opplyst at dataavlesing også hadde vist
-seg effektivt ved etterforsking av narkotikasa­
-ker og saker om barnepornografi.»
-Ifølge Metodekontrollutvalget har det heller ikke i
-den svenske utredningen SOU 2005:38 vært mulig
-å tallfeste behovet for dataavlesing eller metodens
-antatte effektivitet (punkt 23.2.2 side 243).
-14.6.3 Grunnleggende prinsipper – personvern
-og rettssikkerhet
-Under punkt 23.2.3 i utredningen peker Metode­
-kontrollutvalget på at eventuelle utvidelser av
-metodebruken bare kan gjennomføres dersom
-det er forsvarlig ut fra hensynet til personvern og
-rettsikkerhet, og at visse grunnleggende prinsip­
-per må ivaretas i denne sammenheng.
-For det første peker utvalget på at legalitets­
-prinsippet gjør det nødvendig å etablere klar lov­
-hjemmel for en eventuell adgang til dataavlesing,
-under henvisning til at dataavlesing vil innebære
-et ellers straffbart innbrudd i et datasystem etter
-straffeloven 1902 § 145 annet ledd (straffeloven
-§ 204). I tillegg er det fremhevet (side 243) at
-«[a]lene det at dataavlesing vil innebære et inn­
-grep i den personlige sfære tilsier at metoden eller
-gjennomføringsmåten bør reguleres av en klar
-lovhjemmel», og at dette kan oppnås enten ved å
-innføre en egen hjemmel til dataavlesing, eller ved
-å endre eksisterende tvangsmiddelhjemler, slik at
-det fremgår klart at dataavlesing kan brukes ved
-gjennomføringen av disse.
-For det andre viser utvalget til det person­
-vernrettslige kravet om formålsbestemthet, som
-det er gjort nærmere rede for i utredningen
-under punkt 6.6. Det innebærer ifølge utvalget at
-de tillatte formålene med etterforskning som er
-angitt i straffeprosessloven § 226 må betraktes
-som en begrensning, og at det i tillegg kan stilles
-særlige vilkår for å begrense adgangen til dataav­
-lesing, som for eksempel at dataavlesing bare
-skal kunne utføres som ledd i kommunikasjons­
-avlytting.
-For det tredje peker utvalget på nødvendighets­
-prinsippet, som etter utvalgets vurdering tilsier at
-dataavlesing bare bør tillates i saker der det av kri­
-minalitetsbekjempelseshensyn anses nødvendig i
+*Oslo statsadvokatembeter* peker på at dataavlesing som fremgangsmåte «gir en betydelig mengde overskuddsinformasjon», og uttaler:
 
-[Side 243]
+BrøBrø«Dette kan gjelde personlige forhold, men også knyttet til den enkeltes økonomiske forhold. Politiet vil ved anvendelse av metoden få tilgang til den enkeltes passord ved utførelse av banktjenester, varekjøp m.v., og passord som anvendes i forhold til det offentlige og dets tjenester. Videre må det fremheves at metoden ikke gir en særlig god notoritet som kan sikre mot misbruk. Rett nok har utvalget skissert på en detaljert liste tiltak som kan sikre notoritet på oppkopling og avkopling, men det bør understrekes at det kan være van\[s\]kelig å sikre notoritet og kontroll på det materialet som innhentes. Det må i den forbindelse understrekes at datamaskiner kan inneholde en stor mengde tekst og bilde/filmateriale og at gjennomgangen og kontrollen kan være svært ressurskrevende.
 
-2015–2016
+Politiet må i alle tilfelle registrere og dokumentføre det materialet som lastes ned. Dette gjelder også selv om materialet bedømmes som irrelevant av politiet. En sletting i en tidlig fase vil alltid åpne for påstander fra forsvareren om at politiet har slettet materiale som taler til fordel for siktede. En nøyaktig registrering av nedlastet materiale vil åpenbart kunne bli ressurskrevende for politiet.»
 
-243
+BrøVidere gir Oslo statsadvokatembeter uttrykk for at innføringen av dataavlesing som gjennomføringsmåte bør forutsette at man kan «etablere tilfredsstillende kontrollsystemer som sikrer mot misbruk eller påstander mot misbruk». Dette kan «være av avgjørende betydning for å gi «legitimitet» for de regler som innføres». Oslo statsadvokatembeter understreker «at man i prinsippet gir politiet tilgang til samtlige datamaskiner som befinner seg i Norge og i en viss utstrekning utenfor landets grenser», og uttaler videre at dette «innebærer at den innebyggede kontrollmekanisme som fordrer fysisk medvirkning fra utenforstående (teleselskaper/internettleverandører) blir delvis borte». Oslo statsadvokatembeter mener at det «åpenbart \[er\] av sentral betydning» at eventuelle nye regler om utsatt underretning også blir vurdert i denne sammenheng.
 
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
+BrøBrø**Departementets vurderinger**
 
-den enkelte sak. Utvalget konstaterer i denne for­
-bindelse at dataavlesing vil kunne medføre inn­
-grep i andre enn mistenktes personvern der et
-datasystem brukes av flere personer, og at meto­
-den «potensielt kan medføre innsamling av store
-mengder informasjon som ikke er nødvendig i
-etterforskingssammenheng» (side 243). Dette
-kan være vektige argumenter mot å tillate meto­
-den, og nødvendighetsprinsippet tilsier etter utval­
-gets oppfatning at dataavlesingen eventuelt bør
-innrettes slik at den i minst mulig grad rammer
-tredjepersoner eller leder til innhenting av irrele­
-vant informasjon. Utvalget viser imidlertid til at
-dataavlesing også (samme sted) «vil kunne inne­
-bære nettopp en mer målrettet informasjonsinn­
-henting, for eksempel dersom flere brukere
-(datasystem) deler samme nettverkstilkobling».
-Metodekontrollutvalget viser også til at kravet om
-forholdsmessighet «utgjør en rettesnor for utvalgets
-overordnede vurdering av hvilke etterfor­
-skingsmetoder politiet bør ha tilgang til» (side
-244).
-Det fjerde utvalget peker på, er at dataavlesing
-i lys av sensitivitetsprinsippet kan utgjøre et svært
-kraftig inngrep i enkeltmenneskers personvern.
-Det viser til at fremgangsmåten vil kunne gi poli­
-tiet tilgang til innholdet i et datasystem, og ikke
-bare opplysninger om bruken av det. Ifølge utval­
-get kan det «i denne sammenheng anføres at poli­
-tiets kontroll av innholdet i informasjonen som
-lagres på maskinen uten å være kommunisert til
-andre, utgjør et større inngrep enn kontroll av inn­
-holdet i brukerens kommunikasjon» (side 243).
-Videre heter det (side 243–244):
-«Dette fordi det som kommuniseres til andre til
-en viss grad har funnet vegen ut av den person­
-lige sfære og er noe mottakeren av kommuni­
-kasjonen selv kunne videreformidlet til politiet.
-Det samme må gjelde informasjon om
-handlinger som foretas på Internettet, etter­
-som man har større grunn til å forvente at slike
-handlinger registreres og overvåkes. Informa­
-sjon som ikke har vært kommunisert til andre
-eller på Internettet må derimot anses å tilhøre
-brukerens innerste personlige sfære, og inn­
-henting av slik informasjon vil potensielt kunne
-være svært integritetskrenkende. Sensitivitets­
-hensyn trenger ikke gjøre seg like sterkt gjel­
-dende når det gjelder bedrifters datamaskiner,
-men også her kan andres tilgang til informasjo­
-nen være svært integritetskrenkende. Typisk
-vil dette gjelde tilgangen til datasystemer hos
-legekontor eller andre bedrifter som behandler
-sensitiv personinformasjon. Det vil også kunne
+BrøBrø**Grunnleggende forutsetninger for departementets vurderinger**
 
-gjelde tilgang til bedriftshemmeligheter og lig­
-nende.»
-Videre bemerker Metodekontrollutvalget (side
-244) at kravet til informasjonssikkerhet vil kunne få
-stor betydning for vurderingen av om politiet bør
-kunne foreta dataavlesing. Etter utvalgets oppfat­
-ning vil eventuelle sikkerhetsrisikoer forbundet
-med fremgangsmåten tale mot at den bør tillates,
-og det er fremhevet at det uansett bør stilles krav
-om at politiet gjennomfører dataavlesing på sik­
-rest mulig måte, og at eventuelle skader som for­
-årsakes blir reparert. I tillegg tilsier prinsippet om
-opplysningskvalitet at opplysningene som innhen­
-tes blir oppbevart på en sikker måte, og ikke bru­
-kes på en måte som innebærer at de blir tatt ut av
-sin sammenheng.
-Endelig peker utvalget på at også hensynet til
-rettssikkerhet tilsier at det bør etableres kontroll­
-systemer for bruken av dataavlesing, som sikrer
-at det ikke gis tillatelse til innhenting av informa­
-sjon som faller utenom hjemmelsgrunnlaget, og at
-informasjonen blir behandlet «ut fra de formål den
-er innhentet, samt at uvedkommende ikke får til­
-gang til den» (side 244). Særlig er det fremhevet
-at dataavlesing vil skje uten at den mistenkte
-underrettes, og at det derfor er nødvendig «på
-annen måte å sikre den kontradiktoriske pro­
-sess».
-14.6.4 Metodekontrollutvalgets
-hovedkonklusjoner
-Under punkt 23.3.1 i utredningen slår utvalget fast
-at det på bakgrunn av sin «klare oppfatning om at
-innføring av nye tvangsmidler, eller utvidelse av
-eksisterende hjemler, må bygge på solid doku­
-mentasjon av behovet», ikke har funnet «doku­
-mentert et tilstrekkelig behov for å innføre dataav­
-lesing som nytt selvstendig tvangsmiddel» (side
-244), i motsetning til det som ble foreslått av Poli­
-timetodeutvalget, og den løsning som er innført i
-Danmark og foreslått innført i Sverige.
-Metodekontrollutvalget finner likevel «gode
-grunner for at dataavlesing bør innføres som en
-nødvendig teknologisk tilpassing for å kunne opp­
-rettholde effektiviteten av enkelte allerede eksi­
-sterende metoder» (side 244). Utvalget foreslår
-derfor en slik tilpassing, og bemerker samtidig at
-«dette også i noen grad vil kunne innebære en
-utvidelse av virkeområdet for de eksisterende
-hjemler» (side 244). Utvalget foreslår innføring av
-dataavlesing i forbindelse med kommunikasjons­
-avlytting og hemmelig ransaking og beslag. Det
-peker på at forslaget innebærer dataavlesing som
+BrøPolitiets adgang til skjult tvangsmiddelbruk skal ikke være videre enn det som er nødvendig for å møte behovet for effektiv kriminalitetsbekjempelse. Det er heller ikke gitt at politiet skal ha anledning til å benytte metoder som i art og omfang er så vidtfavnende at de dekker behovet fullt ut. I denne sammenheng legger departementet særlig vekt på at bruken av tvangsmidler ikke bare kan utgjøre inngrep overfor mistenkte, men også tredjepersoner som på ulike måter kan bli berørt av metodebruken. Selv om utvidelser av tvangsmiddelhjemlene eller innføring av nye tvangsmidler kan gi en stor samfunnsmessig gevinst i form av mer effektiv kriminalitetsbekjempelse, er det ikke grunnlag for å foreslå utvidelser som kan virke uforholdsmessig inngripende overfor mistenkte eller tredjepersoner. Et avgjørende moment i denne vurderingen vil være om behovet for effektiv kriminalitetsbekjempelse kan tilfredsstilles med mindre inngripende midler.
 
-[Side 244]
+Videre er det avgjørende at eventuelle utvidelser innrettes slik at den enkeltes krav på materiell og prosessuell rettssikkerhet ivaretas. Inngrep skal bare kunne skje med grunnlag i tilstrekkelig klar lovhjemmel og på vilkår som sikrer at inngrepet ikke går ut over det som er nødvendig for å tjene det forhåndsbestemte formålet, altså kriminalitetsbekjempelse. Inngrepshjemlene må ledsages av objektive kontrollmekanismer for å hindre at noen utsettes for uforholdsmessig eller unødvendig belastning som følge av tvangsmiddelbruken og for å hindre misbruk av tvangsmiddeladgangen. I denne sammenheng er det etter departementets oppfatning vesentlig at bruken av skjulte tvangsmidler som hovedregel skjer med grunnlag i en forutgående tillatelse fra retten. I tilfeller hvor det er aktuelt å gi påtalemyndigheten hastekompetanse til å beslutte at inngrep skal foretas, må det skje en etterfølgende domstolskontroll.
 
-244
+Bruken av skjulte tvangsmidler innebærer også at den inngrepet rettes mot først i ettertid, og i noen tilfeller heller ikke da, får vite om at det er benyttet tvangsmidler. Det er derfor nødvendig å sørge for at mistenktes interesser ivaretas av andre. Departementet peker i denne forbindelse særlig på bestemmelsen i straffeprosessloven § 100 a om oppnevning av offentlig advokat for mistenkte ved behandlingen av saker om bruk av skjulte tvangsmidler. I tillegg mener departementet at det er nødvendig å sørge for at egnede kontrollorganer fører et mer helhetlig tilsyn med bruken av skjulte tvangsmidler, slik kontrollutvalget for kommunikasjonskontroll og EOS-utvalget gjør. For departementet er det en forutsetning at også bruken av eventuelle nye skjulte tvangsmidler underkastes et tilsvarende kontrollregime.
 
-2015–2016
+BrøBrø**Behovet for dataavlesing – tradisjonelle tvangsmidler og ny teknologi**
 
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
+BrøBåde Metodekontrollutvalget og flere av høringsinstansene har pekt på den raske teknologiske utviklingen i samfunnet. Moderne løsninger for elektronisk behandling og formidling av informasjon legger til rette for effektiv kommunikasjon og stor bevegelsesfrihet. Departementet ser også at det er en økende bevissthet om viktigheten av informasjonsbeskyttelse i samfunnet generelt, og allmenhetens kunnskaper om – og evne til – slik beskyttelse virker å være større enn tidligere. Etterspørselen etter løsninger som verner mot at utenforstående skaffer seg uberettiget tilgang til informasjon som bearbeides og kommuniseres med elektroniske hjelpemidler, synes å være stor. En rekke av de løsningene som er i utbredt bruk i dag leveres med sterk informasjonsbeskyttelse som «standardoppsett». Først og fremst er det tale om *kryptering*. Det vil si at brukeren av informasjonsbærende utstyr produserer eller bearbeider informasjonen «åpent», men at den sendes eller lagres kryptert. Krypteringen kan skje ved at brukeren aktivt benytter krypteringsprogrammer og «lukker» informasjonen når den overføres eller lagres, eller ved automatisk kryptering gjennom løsninger som tjenesteleverandøren har implementert. Det sistnevnte skjer uten at den enkelte bruker tar et bevisst valg om å kryptere.
 
-en gjennomføringsmåte, som det ikke er tradisjon
-for å beskrive i detalj under de enkelte tvangsmid­
-delhjemlene i straffeprosessloven. Likevel er det
-etter utvalgets vurdering behov for å sikre at
-hjemmelsgrunnlaget tilstrekkelig klart åpner for
-de ønskede gjennomføringsmåtene. I denne for­
-bindelse er det også vist til at dataavlesing vil inne­
-bære et ellers straffbart datainnbrudd, og at det
-derfor må gis nødvendig hjemmel for at politiet
-kan gjennomføre slikt innbrudd i forbindelse med
-dataavlesing.
-14.6.5 Dataavlesing for å muliggjøre kommuni­
-kasjonsavlytting
-Utvalget finner det «tilstrekkelig dokumentert at
-kommunikasjonsavlyttingen er, og formodentlig i
-enda større grad vil bli, vanskeliggjort på grunn
-av den tekniske utviklingen», og fremhever føl­
-gende (punkt 23.3.2 side 245):
-«I den grad kommunikasjonsavlyttingen blir
-vanskeliggjort på grunn av teknologiske eller
-andre innretninger, mener også utvalget at det
-bør gis adgang til bruk av dataavlesing for å
-kunne gjennomføre kommunikasjonsavlyttin­
-gen. Personverninteressene som her må vike
-er langt på vei de samme som ved tradisjonell
-kommunikasjonsavlytting. Det nye er at den
-teknologiske utvikling gjør det nødvendig med
-en annen fremgangsmåte for at politiet skal
-kunne skaffe seg den samme informasjonen.
-Utvalget er oppmerksom på at dataavlesing vil
-kunne innebære noe større grad av inngrep i
-tredjepersoners interesser, typisk fordi et
-datasystem i en husstand gjerne brukes av
-flere personer, noe som i seg selv er et argu­
-ment mot en utvidelse. Utvalget finner likevel
-at dette ikke skiller seg avgjørende fra situasjo­
-nen med tradisjonell kommunikasjonsavlyt­
-ting, for eksempel avlytting av en husstands
-fasttelefon.»
-Utvalget foreslår på denne bakgrunn at det inn­
-føres et nytt fjerde ledd i straffeprosessloven
-§ 216 a, hvoretter retten ved kjennelse kan gi poli­
-tiet «tillatelse til å foreta innbrudd i et datasystem
-for å kunne gjennomføre kommunikasjonsavlyt­
-tingen» (side 245). Utvalgets forslag til ny bestem­
-melse forutsetter at «kommunikasjonsavlyttingen
-er vanskeliggjort på grunn av teknologiske eller
-andre innretninger» (samme sted). I særmerk­
-nadene til forslaget har utvalget begrunnet dette
-med at «[d]et bør kreves at politiet først faktisk
-har forsøkt å gjennomføre tradisjonell kommuni­
+Bedre informasjonsbeskyttelse er en fordel, så lenge beskyttelsen har som formål å verne lovlig aktivitet. Beskyttelsesmulighetene kan imidlertid også benyttes for å hindre utenforstående innsyn i informasjon og kommunikasjon som gjelder kriminelle handlinger. Kriminelle miljøer vil ofte ha kunnskap om politiets arbeidsmetoder, og kan ha både vilje og betydelig evne til å benytte tilgjengelige teknologiske løsninger for å skjule informasjon som knytter seg til den kriminelle virksomheten. Høy informasjonsteknologisk kompetanse er heller ingen absolutt forutsetning i så måte. Kriminelle kan på lik linje med andre benytte seg av kommersielle standardløsninger for kryptering av kommunikasjon og lagret informasjon.
 
-kasjonsavlytting» (punkt 31.1 side 356) og har
-konstatert at dette har blitt vanskeliggjort på
-grunn av innretninger, for eksempel kryptering
-eller andre avlyttingsbarrierer. Utvalget mener
-imidlertid samme sted at kriteriet vil måtte anses
-oppfylt også dersom det er godtgjort at forsøk på
-tradisjonell kommunikasjonsavlytting «klart ikke
-vil kunne føre til resultater».
-Videre understreker utvalget at rammen for
-dataavlesing i denne sammenheng vil være «kom­
-munikasjonsavlytting», og at også adgangen til
-kommunikasjonsavlytting ved bruk av eller ved
-hjelp av dataavlesing vil være begrenset til kom­
-munikasjon mellom «kommunikasjonsanlegg».
-Utvalget legger til grunn at de «kommunikasjons­
-anlegg» som kan avlyttes etter straffeprosess­
-loven § 216 a i alminnelighet også vil være
-«datasystem» (punkt 31.1 side 355). Begrepet er
-ifølge særmerknadene til forslaget til endringer i
-straffeprosessloven § 200 a (punkt 31.1 side 352)
-hentet fra straffeloven § 204, og skal være «tekno­
-loginøytralt i den forstand at det ikke spiller noen
-rolle hvorledes systemet mottar, behandler eller
-videreformidler informasjon», og at det «således
-omfatter kommunikasjonsanlegg av ulike slag».
-Videre forutsetter utvalget samme sted – i rela­
-sjon til reglene om ransaking og beslag – at begre­
-pet også omfatter «for eksempel GPS-er, skannere
-og kopimaskiner mv.»
-Utvalget påpeker at plasseringen og formule­
-ringen av forslaget skal understreke at det kun
-dreier seg om å regulere gjennomføringsmåten av
-en kommunikasjonsavlytting. De alminnelige inn­
-gangsvilkårene og begrensningene for kommuni­
-kasjonsavlytting vil derfor gjelde, som ved annen
-kommunikasjonsavlytting (utredningen punkt
-23.3.2 side 245):
-«Mistankekravet og kravet til den straffbare
-handling mv. vil følge av vilkårene for kommu­
-nikasjonsavlytting. Bestemmelsene i straffe­
-prosessloven §§ 216c-216k kommer også til
-anvendelse. Dette innebærer for eksempel at
-varigheten av inngrepet, begrensningene i forhold til personer uten vitneplikt (bevisforbuds­
-reglene), bestemmelsene om utsatt underret­
-ning, kontrollsystemet mv. er de samme som
-for kommunikasjonsavlytting.»
-I utredningen vises det også til at politiet gjennom
-forslaget vil få rettslig adgang til den informasjo­
-nen som kommuniseres til og fra for eksempel
-mistenktes datasystem i den perioden rettens til­
-latelse gjelder, men også kan få faktisk adgang til
-annen informasjon, som for eksempel er lagret i
+Fremveksten av krypteringsløsninger og andre metoder for informasjonsbeskyttelse fører utvilsomt til utfordringer for politiet. I forbindelse med forebygging, avverging og etterforskning av alvorlig kriminalitet, kan politiet ha behov for å skaffe seg tilgang til kommunikasjon eller informasjon som finnes lagret i elektronisk utrustning som disponeres av mistenkte, uten den mistenktes viten. Etter departementets oppfatning viser utredningen og høringen at de eksisterende skjulte tvangsmidlene har tapt mye av sin effekt som følge av den teknologiske utviklingen, herunder fremveksten av ulike løsninger for informasjonsbeskyttelse. Adgangen til meningsinnholdet i informasjonen er rettslig sett uendret, men i praksis vanskeliggjort.
 
-[Side 245]
+Kommersielle krypteringsløsninger baseres på svært komplekse krypteringsalgoritmer. Forsøk på å «knekke» kryptering krever meget store ressurser i form av tid, datakraft og kompetanse, og det er beskjedne utsikter til å lykkes. Det synes ikke å være en praktisk gjennomførbar løsning for politiets utfordringer per i dag. I utgangspunktet er politiet derfor avhengig av å kunne tilegne seg den aktuelle informasjonen «i klartekst» på annen måte. I noen tilfeller kan det være mulig å skaffe seg tilgang til kryptert informasjon gjennom innhenting og bruk av passordene eller kodene som brukes som krypteringsnøkler. Det forutsetter at politiet får tak i disse opplysningene gjennom annen metodebruk, eller at mistenkte eller andre oppgir disse til politiet. Kjennskap til passord og lignende vil imidlertid i mange tilfeller være utilstrekkelig. Flere av høringsinstansene har påpekt at krypteringsnøklene, som beskytter informasjonen, som regel er flyktige, og at det nettopp ikke er snakk om et fast brukernavn eller passord. De har gitt uttrykk for at det derfor er behov for å gi politiet tilgang til informasjonen når den ligger åpen – for eksempel når en mistenkt har åpnet et tekstdokument for behandling på sin datamaskin, eller når lyden fra en ip-basert telefonsamtale overføres fra mikrofonen eller til høyttaleren på mistenktes smarttelefon eller datamaskin.
 
-2015–2016
+Et annet sentralt trekk ved utviklingen innen elektronisk kommunikasjon synes å være at det i stadig større utstrekning benyttes kommunikasjonstjenester som ikke er bundet til et bestemt kommunikasjonsanlegg eller en bestemt nettverksforbindelse, men derimot til en *virtuell brukerkonto* som innehaveren med et brukernavn og passord, og eventuelt tilpasset programvare, kan benytte fra en rekke plattformer – for eksempel smarttelefoner, nettbrett og bærbare datamaskiner. Disse enhetene er mobile og kan benytte flere typer av både faste og trådløse nettverksforbindelser. Spekteret av tilgjengelige kommunikasjonstjenester er vidt, og én og samme tjeneste kan gi tilgang til mange varianter av nettverksbasert kommunikasjon. Ett eksempel er *Skype*, hvor en bruker blant annet kan føre telefonsamtaler, også gruppesamtaler (ringe til andre skype-brukere gjennom ip-telefoni, ringe til mobiltelefoner og fasttelefoner), føre videosamtaler med én person eller en gruppe, sende og motta videobeskjeder, direktemeldinger («chat»), tekstmeldinger (SMS) og dele filer og skjermbilder.
 
-245
+I den straffeprosessuelle reguleringen av skjulte tvangsmidler går det et skille mellom informasjon som er lagret, og informasjon som overføres mellom en avsender og en mottaker. Ransaking og beslag, eventuelt utleveringspålegg, må benyttes for tilgang til elektronisk lagret informasjon, mens kommunikasjonsavlytting er det tilgjengelige tvangsmiddelet for å fange opp informasjon under overføring mellom ulike kommunikasjonsanlegg. Dette skillet settes på prøve av fleksible løsninger for elektronisk informasjonshåndtering. Disse tjenestene fungerer naturligvis ubundet av den straffeprosessuelle sondringen mellom kommunikasjon og lagret informasjon.
 
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
+Utfordringene blir etter departementets oppfatning særlig tydelige når en ser på bruken av for eksempel internettbaserte e-post- og fildelingstjenester. Tjenestene åpner for at flere – ved å dele tilgangen til én og samme brukerkonto – kan gå sammen om å opprette, lese og redigere dokumenter eller andre filtyper som lagres på tjenestetilbydernes servere, uten at informasjonen utveksles direkte mellom de involvertes kommunikasjonsanlegg. Et kjent eksempel, som flere av høringsinstansene har pekt på, er kriminelle som fra hver sine kommunikasjonsanlegg «logger seg på» samme e-postkonto for å utveksle informasjon. Informasjonen blir da ikke sendt mellom ulike e-postadresser. Dette er utvilsomt en form for kommunikasjon, i hvert fall i faktisk forstand, men det er likevel ikke gitt at kommunikasjonsavlytting etter straffeprosessloven § 216 a gir tilgang til informasjonen som utveksles.
 
-datasystemet, herunder opplysninger fra eldre
-kommunikasjon på en e-postkonto eller lignende.
-Det understrekes (punkt 23.3.2 side 245) at poli­
-tiet etter forslaget ikke har adgang til å tilegne seg
-slik informasjon med hjemmel i straffeprosesslo­
-ven § 216 a. Det samme gjelder manipulasjon av
-datasystemet for å få fange opp annen informasjon
-enn den mistenkte sender eller mottar i kommuni­
-kasjonen – politiet vil for eksempel ikke ha
-adgang til å slå på et webkamera, mobiltelefon­
-kamera eller lignende, eller slå på en mikrofon i
-tilknytning til datasystemet. Det konstateres også
-samme sted at det etter forslaget heller ikke vil
-være adgang til å bruke dataavlesing «for å frem­
-skaffe andre opplysninger enn dem som relaterer
-seg til vanskeliggjøringen av kommunikasjonsav­
-lyttingen». Slik annen informasjon må ifølge utval­
-gets forslag eventuelt forsøkes innhentet gjennom
-hemmelig ransaking og beslag. I særmerknadene
-til utvalgets forslag er det presisert at de opplys­
-ningene som foreslås tillatt fremskaffet gjennom
-dataavlesing er «de som er nødvendig for å gjøre
-resultatet av kommunikasjonsavlyttingen lesbart
-for politiet», se utredningen punkt 31.1 side 356–
-355.
-14.6.6 Dataavlesing som gjennomføringsmåte
-for hemmelig ransaking og beslag
-Metodekontrollutvalget legger under punkt 23.3.3
-side 245–246 i utredningen til grunn at også adgan­
-gen til å foreta hemmelig ransaking og beslag «er
-et effektivt og viktig verktøy for å bekjempe alvor­
-lig kriminalitet». Utvalget finner det tilstrekkelig
-dokumentert at det i enkelte saker «vil kunne være
-et stort behov for dataavlesing for å kunne gjen­
-nomføre ransakingen» (samme sted). På denne
-bakgrunn har utvalget foreslått at dataavlesing ved
-hemmelig ransaking og beslag tillates i begrenset
-form, ved at det i straffeprosessloven § 200 a gjø­
-res en tilføyelse om at retten kan gi politiet til­
-latelse til «samtidig eller senere å foreta innbrudd i
-et datasystem for å kunne gjennomføre ransaking»
-etter denne bestemmelsen, jf. forslaget til
-endringer i straffeprosessloven § 200 a i utred­
-ningen punkt 32.1 side 368.
-Utvalget har tatt stilling til om det bør være
-anledning til ransaking og beslag uten politiets
-fysiske tilstedeværelse, og om det bør være
-adgang til gjentatt eller fortløpende ransaking.
-Utvalget mener at ransaking uten fysisk tilste­
-deværelse «savner en klar rettskildemessig for­
-ankring», men viser til Riksadvokatens opplys­
-ninger om at det i underrettspraksis er lagt til
-grunn at politiet kan ransake og beslaglegge
+Bestemmelsen om kommunikasjonsavlytting gir riktignok adgang til å avlytte signalstrømmen mellom den enkelte brukers kommunikasjonsanlegg og tjenesteleverandørens kommunikasjonsanlegg, men dette vil normalt ikke gi et fullstendig bilde av informasjonen som utveksles mellom de involverte personene. I tillegg kommer det at den enkelte brukers kontakt med brukerkontoen ikke er bundet til et bestemt kommunikasjonsanlegg. Brukeren kan benytte ulike enheter, som nettbrett, datamaskin og smarttelefon, og veksle mellom flere internettforbindelser, for eksempel offentlig tilgjengelige trådløse nettverk på ulike steder. I denne sammenheng er det også av betydning at meningsinnholdet i informasjonen som utveksles, ofte er gjort utilgjengelig for utenforstående gjennom krypteringsløsninger som beskytter informasjonen når den er under overføring. Det vil derfor uansett kunne være svært vanskelig å gjennomføre effektiv kommunikasjonsavlytting.
 
-informasjon om mistenktes e-postkonto uten
-fysisk tilstedeværelse. Ifølge utvalget henger
-dette formodentlig sammen med at innholdet på
-en e-postkonto som regel «befinner seg hos en
-internettilbyder, noe som gjør fysisk tilstedevæ­
-relse hos mistenkte upraktisk»(punkt 23.3.3 side
-246). Videre er det bemerket samme sted at den
-teknologiske utviklingen har medført at hemme­
-lig ransaking og beslag nettopp kan gjennomfø­
-res uten fysisk tilstedeværelse, og at dette «enda­
-til [vil] kunne være mindre integritetskrenkende
-enn tradisjonell hemmelig ransaking som krever
-at politiet skaffer seg fysisk tilgang til anlegget
-typisk ved å trenge seg inn i en privat bolig eller
-forretningslokaler». Utvalget peker også samme
-sted på at oppdagelsesrisikoen og ressursbeho­
-vet kan minskes ved ransaking uten fysisk tilste­
-deværelse, selv om også ransaking ved hjelp av
-dataavlesing medfører fare for å bli oppdaget, og
-krever en del ressurser. Utvalgets forslag inne­
-bærer at adgang til hemmelig ransaking og
-beslag uten fysisk tilstedeværelse hjemles
-uttrykkelig. Etter utvalgets oppfatning må det
-være opp til politiet å vurdere hvilken gjennom­
-føringsmåte som er mest hensiktsmessig i hvert
-enkelt tilfelle (23.3.3 side 246).
-Med hensyn til fortsatt eller gjentatt ransaking
-legger utvalget det til grunn som «alminnelig
-antatt» at det ikke foreligger adgang til dette etter
-gjeldende rett, og at enhver ny ransaking derfor
-krever ny tillatelse fra retten (punkt 23.3.3 side
-246). Det er i denne sammenheng også vist til
-Politimetodeutvalgets utredning i NOU 2004: 6,
-hvor det samme er lagt til grunn på side 95 og 98.
-Utvalget finner ikke grunnlag for å foreslå
-adgang til fortsatt eller gjentatt ransaking, og
-begrunner dette på følgende måte (utredningen
-punkt 23.3.3 side 246):
-«Slik ransaking vil innebære en klar utvidelse
-av dagens adgang til bruk av hemmelig ransa­
-king, fordi det vil gi politiet anledning til syste­
-matisk å kartlegge mistenktes bruk av et
-datasystem over tid, herunder opplysninger
-som ikke blir lagret i datasystemet og dermed
-ikke vil kunne hentes ut ved tradisjonell hem­
-melig ransaking. Etter utvalgets syn innebærer
-dette en for stor integritetskrenkelse i forhold
-til det anførte behovet. Det kan argumenteres
-blant annet på bakgrunn av saksforholdet i
-sakene fra Oslo og Kristiansand tingrett som
-nevnt ovenfor i punkt 23.2.2, for at det kan være
-gode grunner til at mistenkte «observeres»
-over noe tid gjennom en gjentatt eller fortlø­
-pende hemmelig ransaking. Rettens kjennelse
+Politiet kan eventuelt anvende tvangsmidlene skjult ransaking og beslag for å tilegne seg elektronisk lagret informasjon knyttet til en e-postkonto eller tilsvarende, for på den måten å danne seg et bilde av informasjonsutvekslingen mellom de involverte. Ransakinger forutsettes imidlertid gjennomført som enkeltstående handlinger. Politiet skaffer seg tilgang (hvilket kan være en stor praktisk utfordring), gjennomsøker objektet for ransakingen og beslaglegger eventuell informasjon som kan ha betydning som bevis, og trekker seg deretter ut. En ransakingstillatelse gir derimot ikke adgang til å overvåke ransakingsobjektet (for eksempel forbli pålogget på en e-postkonto eller datamaskin) over tid for å fange opp ny aktivitet eller ny informasjon som produseres fortløpende av mistenkte eller andre. Selv om det hyppig begjæres og gjennomføres nye ransakinger av samme objekt, vil hver enkelt ransaking bare gi øyeblikksbilder, og ikke nødvendigvis noen tilfredsstillende oversikt over den informasjonsutvekslingen som faktisk finner sted mellom de involverte. Mellom hver ransaking kan ny informasjon ha blitt tilført og slettet.
 
-[Side 246]
+Metodekontrollutvalget har konstatert at det ikke har vært mulig «å tallfeste behovet for dataavlesing». Departementet ser heller ikke at det er mulig å foreta noen slik tallfesting. Utredningen og høringen viser likevel et klart behov for å supplere bestemmelsene om kommunikasjonsavlytting og hemmelig ransaking, med bestemmelser som er bedre tilpasset det rådende teknologiske virkelighetsbildet. Dette behovet er etter departementets oppfatning enda sterkere i dag enn da Metodekontrollutvalget presenterte sin utredning. Det er nødvendig med endringer for å gjenopprette den effekten disse metodene hadde tidligere, men også for å gjøre politiet bedre rustet til å møte de utfordringene den teknologiske utviklingen kan forventes å gi fremover i tid.
 
-246
+De utfordringene som kryptering og mobilitet skaper for politiets faktiske informasjonstilgang ved kommunikasjonsavlytting, kan etter departementets oppfatning forsøkes møtt med å legge til rette for å flytte «avlyttingspunktet» tettere på den mistenkte – inn i det kommunikasjonsanlegget mistenkte benytter seg av. Det gir rom for å fange opp innholdet i kommunikasjonen når den ligger åpen (ukryptert) i mistenktes anlegg. Bruk av spesiell programvare kan for eksempel legge til rette for at politiet tar del i de ukrypterte lydsignalene fra en ip-basert telefonsamtale før de krypteres på vei ut på linjen, og dekryptert etter at de har kommet inn fra linjen. Slike fremgangsmåter kan også legge til rette for mer målrettet avlytting, hvor faren for å fange opp utenforståendes kommunikasjon reduseres. Politiet bør også få anledning til å benytte nye fremgangsmåter for å møte utfordringene som kryptering og andre beskyttelsestiltak skaper for tilgangen til annen elektronisk fremstilt og lagret informasjon. Departementet viser i denne sammenheng til uttalelsene fra flere av høringsinstansene innen politiet og påtalemyndigheten, hvor det gis uttrykk for at hjemlene for skjult ransaking og beslag ikke holder tritt med den teknologiske utviklingen.
 
-2015–2016
+I det følgende vurderer departementet om behovet bør dekkes ved å endre de eksisterende hjemlene for kommunikasjonsavlytting og skjult ransaking, eller ved å innføre et nytt, selvstendig tvangsmiddel.
 
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
+BrøBrø**Dataavlesing som gjennomføringsmåte for kommunikasjonsavlytting og hemmelig ransaking**
 
-vil i et slikt tilfelle kunne angi en tidsperiode
-ransakingen kan foregå innenfor, slik at det
-uansett ikke er tale om noen kompetanseover­
-føring til politi- og påtalemyndigheten. Det kan
-diskuteres om tillatelsen til slik gjentatt eller
-fortløpende ransaking bør være et spørsmål
-under forholdsmessighetsvurderingen som
-det bør være opp til retten å foreta i den kon­
-krete saken. Det er i utgangspunktet ikke noe i
-veien for at politiet i dag begjærer hemmelig
-ransaking flere ganger i løpet av en periode. I
-så fall vil det være opp til retten å vurdere når
-en ytterligere ny ransaking vil innebære et
-uforholdsmessig inngrep. Utvalget er likevel
-skeptisk til å stille opp en generell adgang til
-dette, og særlig gjelder dette for en eventuell
-adgang til fortløpende hemmelig ransaking. En
-slik adgang vil i praksis innebære at dataavle­
-sing innføres som en selvstendig metode hvor
-politiet gis adgang til kontinuerlig å overvåke
-et datasystem og på den måten registrere
-enhver endring brukeren gjør. Utvalget har
-som nevnt funnet at det ikke kan anbefale en så
-stor utvidelse, jf. ovenfor. Dersom politiet
-mener det er nødvendig med flere ransakinger,
-bør rettens tillatelse derfor innhentes på nytt
-for hver gang.»
-Videre peker utvalget på at forslaget innebærer at
-retten kan gi tillatelse til at politiet benytter seg av
-dataavlesing som alternativ til tradisjonell hemme­
-lig ransaking (uten bruk av dataavlesing), dersom
-det viser seg at det sistnevnte er praktisk vanske­
-ligere enn først antatt. Ifølge utvalget må det da
-(samme sted) «være greit at retten har gitt til­
-latelse til at politiet alternativt kan gjennomføre
-ransakingen ved innbrudd i datasystemet. Det er i
-så fall tale om samme ransaking.»
-Utvalget bemerker ellers samme sted at det
-ikke har ansett det nødvendig med endringer i
-straffeprosessloven § 208 a (utsatt eller unnlatt
-underretning om beslag) for at politiet skal ha
-adgang til å ta beslag i materialet som innhentes
-ved ransaking ved hjelp av dataavlesing.
-14.6.7 Dataavlesing i forebyggende øyemed
-Etter Metodekontrollutvalgets vurdering gjør
-utfordringene på etterforskningsstadiet seg også
-gjeldende på forebyggingsstadiet, og utvalget
-foreslår derfor også å tillate at dataavlesing kan
-benyttes tilsvarende av Politiets sikkerhetstje­
-neste i dens forebyggende virksomhet etter politi­
-loven § 17 d. Om dette heter det i utredningen
-punkt 23.3.4 side 247:
+BrøMetodekontrollutvalget har foreslått at dataavlesing skal kunne benyttes for å gjennomføre kommunikasjonsavlytting etter straffeprosessloven § 216 a og hemmelig ransaking av datasystemer etter § 200 a.
 
-«Etter politiloven § 17d kan Politiets sikker­
-hetstjeneste bruke skjulte tvangsmidler i sin
-forebyggende virksomhet «dersom det er
-grunn til å undersøke» om noen forbereder
-enkelte
-nærmere
-bestemte
-straffbare
-handlinger. Det er dermed ikke noe krav om at
-de skjulte tvangsmidlene brukes mot noen som
-kan mistenkes for å ha begått en straffbar
-handling. På den annen side er kravet til den
-straffbare handling skjerpet i forhold til bruk
-av skjulte tvangsmidler under etterforskingen.
-Utvalget finner derfor å kunne tilråde at en til­
-svarende utvidelse som beskrevet ovenfor
-også gjelder for PSTs forebyggende virksom­
-het. Utvalget presiserer likevel at forholdsmes­
-sighetsvurderingen etter straffeprosessloven
-§ 170a i alminnelighet vil være strengere i det
-forebyggende sporet enn ved bruk av tvangs­
-midler under etterforskingen.
-Forslaget vil ikke kreve noen endring av
-politiloven § 17d første ledd, ettersom det her
-vises til straffeprosessloven § 200a og § 216a
-som etter utvalgets forslag vil gi adgang til inn­
-brudd i et datasystem.»
-Utvalget har også vurdert forholdet til Grunn­
-loven § 102. Det viser til redegjørelsen i utred­
-ningen punkt 13, og bemerker for øvrig følgende
-(utredningen punkt 23.3.4 side 247):
-«Utvalgets flertall mener Grunnloven § 102 inne­
-bærer at det på det forebyggende stadiet ikke
-kan gis adgang til å gå inn i noen av de vernede
-områder (privat bolig) for å plassere utstyr, for
-eksempel hardware, som er nødvendig for å
-gjennomføre innbrudd i et datasystem. Dette
-gjelder tilsvarende for plassering av utstyr til å
-foreta romavlytting, og utvalget viser til de vur­
-deringer som er gjort av dette under punkt 13.3.
-Utvalgets flertall mener denne begrensningen
-bør komme uttrykkelig frem av loven.
-Utvalget er oppmerksom på at forslaget om
-at også PST kan foreta innbrudd i et datasys­
-tem i det forebyggende sporet vil innebære en
-utvidelse i forhold til politiloven § 17d, ved at
-bestemmelsen i dag ikke tillater ransaking av
-«noens private hjem», jf. tredje ledd annet
-punktum. Dette innebærer at PST ikke har
-anledning til å foreta en hemmelig ransaking i
-noens hjem, og i forbindelse med en slik ransa­
-king for eksempel kopiere en harddisk. Gjen­
-nom forslaget om at PST skal ha adgang til å
-foreta innbrudd i et datasystem, vil PST få
-adgang til å gjennomføre slik kopiering ved
-hjelp av dataavlesing.
+For kommunikasjonsavlytting har utvalget foreslått et nytt fjerde ledd i § 216 a. Etter forslaget skal retten kunne gi politiet tillatelse til «å foreta innbrudd i et datasystem for å kunne gjennomføre kommunikasjonsavlyttingen», dersom denne er vanskeliggjort på grunn av teknologiske eller andre innretninger. Kommunikasjonsavlyttingen kan tenkes gjennomført ved bruk av programvarebaserte løsninger, der det installeres et program i mistenktes kommunikasjonsanlegg som gjør politiet i stand til å hente ut informasjonen mens denne er tilgjengelig i ukryptert form. Denne og andre varianter kan etter departementets oppfatning innebære en viss forskyvning av avlyttingspunktet sammenlignet med «tradisjonell» kommunikasjonsavlytting, siden det kan være aktuelt å fange opp for eksempel lydstrømmen i en ip-telefonsamtale når den passerer mellom mikrofon og operativsystemets drivere, og mellom operativsystemets drivere og høyttaler på en datamaskin.
 
-[Side 247]
+For hemmelig ransaking har utvalget foreslått en tilføyelse i § 200 a første ledd om at retten skal kunne gi politiet tillatelse til «samtidig eller senere å foreta innbrudd i et datasystem for å kunne gjennomføre ransaking etter bestemmelsen her».
 
-2015–2016
+Utvalget har lagt til grunn at det ikke er hensiktsmessig eller mulig å beskrive gjennomføringsmåten i detalj, verken i forbindelse med kommunikasjonsavlytting eller hemmelig ransaking og beslag. Det har pekt på at «de tekniske mulighetene er mange og forskjelligartede», og at «den teknologiske utviklingen formodentlig vil innebære at en slik beskrivelse raskt blir utdatert» (utredningen punkt 23.3.5 side 247). Utvalget ser for seg at politiet blant annet skal kunne installere programvare i mistenktes datamaskin som gjør politiet i stand til å hente ut informasjon fra datasystemet, og at dette kan gjøres ved å utnytte sikkerhetshull i datasystemet, sende programmet som skjult vedlegg til e-post, eller installere programmet i forbindelse med en hemmelig ransaking «eller etter å ha utført innbrudd i datasystemet». Utvalget har også pekt på muligheten for å bruke maskinvarebaserte løsninger, der det fysisk installeres komponenter på mistenktes datamaskin som gjør politiet i stand til å skaffe seg informasjon. Som eksempel på dette nevnes utstyr for tastetrykksregistrering og oppfanging av lydsignaler ved kommunikasjon over internett.
 
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
+Departementet er enig i at det bør tas høyde for nye teknologiske løsninger og ser også teknologinøytrale beskrivelser som en fordel. Spekteret av fremgangsmåter som utvalget vil tillate, synes imidlertid å være mer vidtfavnende enn det som faller naturlig inn under den foreslåtte formuleringen «innbrudd i et datasystem». Utvalgets forslag til lovtekst kan derfor etterlate en viss usikkerhet om yttergrensene for fremgangsmåtene politiet skal kunne benytte. Dette gjelder særlig for den tiltenkte adgangen til å installere og benytte program- og maskinvare i datasystemet. Med tanke på ransaking er det også grunn til å peke på straffeprosessloven § 200 annet ledd siste punktum, hvor det er bestemt at det «kan åpnes adgang med makt» dersom det er nødvendig for å gjennomføre ransaking. Bestemmelsen gjelder både åpen og skjult ransaking, og den er åpenbart utformet med ransaking av fysiske rom for øye. Det samme gjelder ransakingsbestemmelsene for øvrig, men det legges like fullt til grunn at de også hjemler både åpen og skjult *elektronisk* ransaking. Det kan derfor være rimelig å hevde at også straffeprosessloven § 200 annet ledd siste punktum er anvendelig ved elektronisk ransaking, og følgelig allerede gir politiet hjemmel for å bryte beskyttelse i datasystemer i den utstrekning det er nødvendig for å gjennomføre ransaking av disse. Likevel er det etter departementets vurdering behov for en tydeligere hjemmel for å gjøre innbrudd i datasystemer i forbindelse med skjult ransaking, både med hensyn til slike fremgangsmåter som allerede er hjemlet i straffeprosessloven og eventuelle utvidelser.
 
-At PST ikke har anledning til å foreta ransa­
-king av noens private hjem etter politiloven
-§ 17d, ble begrunnet med at departementet
-ikke ønsket å «trå Grunnloven for nær», jf.
-Ot.prp. nr. 60 (2004–2005) side 132. Som det
-fremgår av kapittel 13, finner utvalget at det
-ikke er problematisk i forhold til Grunnloven
-§ 102 å tillate dataavlesing i det forebyggende
-sporet, likevel med den reservasjon som er
-gjort ovenfor. Etter utvalgets vurdering bør det
-derfor åpnes opp for at PST også kan foreta
-hemmelig ransaking ved innbrudd i et datasystem etter politiloven § 17d.»
-14.6.8 Gjennomføringen av dataavlesing
-Under punkt 23.3.5 side 247 i utredningen viser
-utvalget til at gjennomføringen av dataavlesing vil
-fordele seg på forskjellige faser, som «installering
-av programvaren eller montering av hardware,
-selve avlesingen, tilgjengeliggjøring for politiet,
-samt avinstalleringen eller fjerning av hardware».
-Utvalget peker på at det neppe er hensiktsmes­
-sig eller mulig å beskrive mulige gjennomførings­
-måter av dataavlesing i detalj, verken i forbindelse
-med kommunikasjonsavlytting eller hemmelig
-ransaking og beslag. Det vises til at de tekniske
-mulighetene er «mange og forskjelligartede», og
-at den teknologiske utviklingen «formodentlig vil
-innebære at en slik beskrivelse raskt blir utda­
-tert». Politiet må etter utvalgets oppfatning vur­
-dere hvilken gjennomføringsmåte som er mest
-hensiktsmessig i hvert enkelt tilfelle, ut fra en
-samlet vurdering av taktiske og teknologiske forhold. Utvalget har sett for seg to hovedgjennom­
-føringsmåter, som er beskrevet slik (utredningen
-punkt 23.3.5 side 247–248):
-«Med en softwarebasert løsning får politiet
-installert et program typisk i mistenktes data­
-maskin som gjør politiet i stand til å hente ut
-informasjon fra datasystemet. Dette kan for
-eksempel gjøres ved at politiet utnytter et sik­
-kerhetshull i datasystemet eller sender en epost som inneholder et skjult vedlegg med det
-aktuelle programmet, at politiet installerer pro­
-grammet i forbindelse med en hemmelig ran­
-saking eller etter å ha utført innbrudd i data­
-systemet.
-Med en hardwarebasert løsning installeres
-komponenter typisk på mistenktes datamas­
-kin, som gjør politiet i stand til å skaffe seg til­
-gang til informasjonen. For eksempel kan
-utstyr som leser av tastetrykkene monteres i
-tastaturet (key-logging), eller at det monteres
+Utvalget har ikke funnet grunnlag for å innføre dataavlesing som nytt selvstendig tvangsmiddel, fordi det «finner \[…\] at det ikke er dokumentert et tilstrekkelig behov» for dette (utredningen punkt 23.3.1 side 244). Det er presisert at forslagene innebærer at dataavlesing bare skal kunne benyttes i den utstrekning det er nødvendig for å kunne gjennomføre henholdsvis kommunikasjonsavlytting og hemmelig ransaking, og at bruken for øvrig må skje innenfor rammene av de respektive tvangsmiddelhjemlene. Samtidig pekes det på følgende (utredningen punkt 23.3.5 side 248):
 
-247
+BrøBrø«Det er neppe til å unngå at gjennomføringen av dataavlesingen vil kunne fange opp opplysninger som ikke var ment kommunisert eller lagret, og som dermed ikke ville blitt fanget opp ved tradisjonell kommunikasjonsavlytting eller hemmelig ransaking og beslag. For eksempel vil såkalt key-logging, altså det at tastetrykkene på et tastatur registreres, ikke kunne skje uten en viss usikkerhet knyttet til om opplysningene ellers ville kunne fanges opp ved de eksisterende metoder. I så fall vil innføring av dataavlesing som gjennomføringsmåte slik utvalget foreslår også kunne innebære en utvidelse av eksisterende hjemler. Utvalget presiserer derfor at dataavlesingen må innrettes slik at det ikke fanges opp opplysninger ut over det som er nødvendig for å kunne gjennomføre en kommunikasjonsavlytting eller en hemmelig ransaking og beslag. Dersom det er nødvendig for politiet å skaffe seg mistenktes oppstartspassord til et datasystem, må gjennomføringen av eventuell key-logging innrettes slik at det er tastetrykkene i oppstartsfasen som registreres, ikke en fortløpende registrering av alle tastetrykk over en lengre periode som derved gir informasjon ut over det som er nødvendig.»
 
-utstyr i overgangen mellom tastaturet og selve
-datamaskinen, for eksempel i en usb-port, som
-leser av informasjonen som går fra tastaturet til
-maskinen, eller at det monteres utstyr i et headsett eller mikrofon som gjør det mulig å fange
-opp lydsignalene ved kommunikasjon over
-Internettet. En rekke andre gjennomførings­
-måter kan tenkes, uten at utvalget – for lovfor­
-slaget – finner behov for å gå inn på disse.»
-Videre er det bemerket at det «neppe er til å
-unngå» at gjennomføringen av dataavlesingen vil
-kunne fange opp opplysninger som ikke var ment
-kommunisert eller lagret, og som ikke ville ha
-blitt fanget opp ved tradisjonell kommunikasjons­
-avlytting eller hemmelig ransaking og beslag. Om
-dette heter det videre (utredningen punkt 23.3.5
-side 248):
-«For eksempel vil såkalt key-logging, altså det
-at tastetrykkene på et tastatur registreres, ikke
-kunne skje uten en viss usikkerhet knyttet til
-om opplysningene ellers ville kunne fanges opp
-ved de eksisterende metoder. I så fall vil innfø­
-ring av dataavlesing som gjennomføringsmåte
-slik utvalget foreslår også kunne innebære en
-utvidelse av eksisterende hjemler. Utvalget
-presiserer derfor at dataavlesingen må innret­
-tes slik at det ikke fanges opp opplysninger ut
-over det som er nødvendig for å kunne gjen­
-nomføre en kommunikasjonsavlytting eller en
-hemmelig ransaking og beslag. Dersom det er
-nødvendig for politiet å skaffe seg mistenktes
-oppstartspassord til et datasystem, må gjen­
-nomføringen av eventuell key-logging innret­
-tes slik at det er tastetrykkene i oppstartsfasen
-som registreres, ikke en fortløpende registre­
-ring av alle tastetrykk over en lengre periode
-som derved gir informasjon ut over det som er
-nødvendig.»
-Med hensyn til politiets tilegnelse av informasjo­
-nen som dataavlesingen frembringer, forutsetter
-utvalget samme sted at programvaren enten kan
-lagre dataene på datautstyret eller «sende dem ut
-via Internettet eller annet tilgjengelig eller instal­
-lert nettverk/radioutstyr som politiet råder over».
-Tilgang til de avleste dataene kan ifølge utvalget
-(samme sted) oppnås «for eksempel ved å hente
-dem ut av datautstyret ved fysisk tilstedeværelse
-(beslag eller ransaking), å hente dem ut via bak­
-dør til programvaren fra Internettet, eventuelt ved
-et nytt innbrudd i datasystemet, å fange dem opp
-via kommunikasjonskontrollen, eller via utplas­
-sert datautstyr som mellomhopp på Internettet».
+BrøSå vidt departementet kan se, tar utvalget med forslagene sikte på å overvinne krypteringsproblemet ved henholdsvis kommunikasjonsavlytting og hemmelig ransaking og beslag. Innføringen av dataavlesing som gjennomføringsmåte innenfor rammene av de eksisterende tvangsmiddelhjemlene, og med de begrensningene som er gjengitt ovenfor, medfører at det trekkes opp et tydelig skille med hensyn til hvilken type informasjon som kan innhentes gjennom dataavlesingen, avhengig av om den i det enkelte tilfelle hjemles i straffeprosessloven §§ 216 a eller 200 a. Dersom dataavlesingen skjer for å gjennomføre kommunikasjonsavlytting, kan politiet etter forslaget fange opp kommunikasjonen før den krypteres eller etter at den er dekryptert. Utvalget forutsetter også at politiet skal kunne fange opp krypteringsnøkler som så benyttes for å dekryptere kommunikasjonen i transportfasen. Derimot gir en tillatelse til å benytte dataavlesing for å gjennomføre kommunikasjonsavlytting ikke anledning til å fange opp annen informasjon, som for eksempel krypteringsnøkler som kan være nødvendige for en senere ransaking og dekryptering av *lagret* informasjon.
+
+Når det gjelder hemmelig ransaking, skal dataavlesing ifølge utvalget kunne benyttes for å gjennomføre dette uten fysisk tilstedeværelse, for eksempel over internett. Forslaget innebærer at politiet skal kunne benytte dataavlesing for å skaffe seg tilgang til det datasystemet som skal ransakes. Utvalget forutsetter imidlertid også at politiet skal ha anledning til å fange opp krypteringsnøkler som er nødvendige for å dekryptere lagret informasjon, for eksempel ved bruk av tastetrykksavleser eller tilsvarende. Selv om utvalget presiserer at det ikke skal være anledning til å følge med på annen aktivitet, eller fange opp annen informasjon, forutsetter dette en viss overvåking av den fortløpende bruken av datasystemet. Samtidig mener utvalget at det ikke bør gis tillatelse til gjentatt eller fortløpende hemmelig ransaking, fordi det ville «innebære en klar utvidelse» sammenlignet med dagens ransakingsregler, og «fordi det vil gi politiet anledning til systematisk å kartlegge mistenktes bruk av et datasystem over tid, herunder opplysninger som ikke blir lagret i datasystemet og dermed ikke vil kunne hentes ut ved tradisjonell hemmelig ransaking». Etter utvalgets syn ville det innebære «en for stor integritetskrenkelse i forhold til det anførte behovet» (utredningen punkt 23.3.3 side 246).
+
+Ransaking, herunder hemmelig ransaking etter straffeprosessloven § 200 a, forutsettes etter gjeldende rett utført som en enkeltstående og tidsmessig avgrenset handling. Når politiet har skaffet seg adgang til objektet og innledet ransakingen, skal inngrepet avsluttes så snart objektet er gjennomsøkt. Ransakingsbestemmelsene gir ikke anledning til vedvarende overvåking fremover i tid. Etter departementets oppfatning står utvalgets forslag om å tillate fortløpende overvåking av datasystemet for å fange opp tilgangskoder mv. (for å kunne gjennomføre ransaking) i et motsetningsforhold til utvalgets forutsetning om hemmelig ransaking som en enkeltstående handling.
+
+Utvalgets forslag angir ikke hvor lenge politiet skal ha anledning til å følge med på datasystemet for å fange opp tilgangskoder mv. i forbindelse med hemmelig ransaking. Ved kommunikasjonsavlytting følger det av straffeprosessloven § 216 f første ledd første punktum at retten kan gi tillatelse for inntil 4 uker om gangen. Rettens angivelse av tidsperiode vil dermed også være bestemmende for hvor lenge dataavlesingen kan foregå. Avlyttingen skal også stanses før utløpet av fristen dersom vilkårene for avlytting ikke lenger antas å være til stede, eller dersom kontroll ikke lenger anses hensiktsmessig, jf. § 216 f annet ledd. Ved hemmelig ransaking gir rettens tillatelse ingen tilsvarende angivelse av hvilken tidsperiode ransakingen skal kunne strekke seg over. Følgelig vil det etter utvalgets forslag ikke gjelde noen uttrykkelig begrensning med hensyn til hvor lenge politiet skal kunne overvåke et datasystem for å fange opp tilgangskoder mv. som er nødvendige for å gjennomføre ransaking. De alminnelige begrensningene i straffeprosessloven § 170 a, at et tvangsmiddel bare kan brukes når det er tilstrekkelig grunn til det og det ikke ville virke uforholdsmessig, gjelder likevel. Politiet vil i så måte uansett ha plikt til å avslutte dataavlesingen dersom det ikke lenger er behov for den, eller dersom den har pågått så lenge at en fortsettelse ville virke uforholdsmessig inngripende. Etter departementets oppfatning medfører utvalgets forslag likevel en usikkerhet som kan være problematisk sett hen til kravet om tilstrekkelig klar lovhjemmel. Videre kan fraværet av en uttrykkelig tidsbegrensning gjøre det vanskelig for retten å foreta en reell forholdsmessighetsvurdering når en begjæring om hemmelig ransaking ved hjelp av dataavlesing skal vurderes.
+
+Flere av høringsinstansene har dessuten tatt til orde for at skjult elektronisk ransaking bør tillates gjennomført fortløpende over tid. I denne sammenheng pekes det blant annet på at kriminelle bruker skylagringstjenester og e-postkontoer for å kommunisere i forbindelse med sin virksomhet, jf. også omtalen av dette ovenfor. Dette er en form for kommunikasjon som politiet ikke får tilfredsstillende tilgang til i medhold av bestemmelsene om kommunikasjonsavlytting. De aktuelle objektene kan riktignok ransakes, men det vil være mer eller mindre tilfeldig om informasjonen fortsatt er tilgjengelig på tidspunktet for ransakingen. Det pekes på lignende utfordringer ved ransaking av for eksempel en datamaskin. Informasjon kan være slettet på tidspunktet for ransakingen, eller mistenkte kan ha beskyttet lagret innhold med kryptering eller ikke lagret informasjonen i det hele tatt («flyktige data»). Ifølge Kripos vil det i mange tilfeller være avgjørende å kunne slå til mens informasjonen ligger åpen hos mistenkte, altså mens mistenkte selv har åpnet krypteringen. Ofte vil en adgang til å benytte tastetrykksregistrering eller lignende for å fange opp passord ikke være tilstrekkelig, fordi krypteringsnøklene som beskytter informasjonen som regel er flyktige. Det hevdes derfor at utbyttet av en enkeltstående ransaking vil være preget av tilfeldigheter og mer fungere som en «stikkprøve».
+
+Departementet ser at skjult ransaking av for eksempel datamaskiner og e-postkontoer medfører særskilte utfordringer sammenlignet med tradisjonell fysisk ransaking. Utvalgets forslag om å tillate dataavlesing som gjennomføringsmåte innebærer i utgangspunktet ingen endring av de øvrige rettslige rammene for hemmelig ransaking. Forslaget vil derfor trolig ikke fullt ut løse de problemene som flere av høringsinstansene har pekt på, særlig med hensyn til flyktige data og krypteringsnøkler, mistenktes sletting av informasjon og kommunikasjonsformer som ikke kan fanges opp gjennom kommunikasjonsavlytting. Politiets adgang til å tilegne seg innholdet i fortrolig elektronisk informasjon bør ikke være avhengig av hvilken konkret teknologisk løsning mistenkte velger å benytte.
+
+BrøBrø**Bør dataavlesing innføres som eget tvangsmiddel?**
+
+BrøDataavlesing etter utvalgets forslag, som gjennomføringsmåte innenfor rammene av etablerte tvangsmiddelhjemler (kommunikasjonsavlytting og skjult ransaking), kan utfordre de alminnelige skrankene for bruk av disse tvangsmidlene. Departementet mener dessuten at politiet bør gis adgang til å benytte dataavlesing i videre utstrekning enn det som følger av utvalgets forslag. Utvalgets forslag synes ikke å ta høyde for utfordringene politiet har med hensyn til effektiv avlytting av kommunikasjon som foregår i former som straffeprosessloven § 216 a ikke gir egnet grunnlag for å kontrollere. Etter departementets vurdering bør dataavlesing heller innføres som et selvstendig tvangsmiddel. Departementet foreslår derfor et nytt kapittel 16 d i straffeprosessloven, med to nye bestemmelser som hjemler dataavlesing – straffeprosessloven §§ 216 o og 216 p.
+
+Dataavlesing som metode bør gi politiet anledning til å skaffe seg tilgang til opplysninger i et datasystem, herunder opplysninger om bruken av datasystemet over tid. Det er en forutsetning at avlesingen kan skje uten samtidig underretning til mistenkte eller andre, på lignende måte som ved for eksempel romavlytting, kommunikasjonsavlytting og hemmelig ransaking. Etter departementets oppfatning bør en hjemmel for dataavlesing gi politiet anledning til å foreta innbrudd for å skaffe seg adgang til datasystemet som skal avleses. Politiet bør ha forholdsvis stor valgfrihet med hensyn til hvilke fremgangsmåter som benyttes for å skaffe adgang til datasystemet og til å gjennomføre avlesingen. Politiet bør blant annet kunne installere og benytte egnet programvare og teknisk utstyr, utnytte eksisterende sikkerhetshull eller sårbarheter i datasystemet og bruke andre tilgjengelige teknikker for å besørge nødvendig program- eller maskinvare installert i datasystemet, som for eksempel å sende programmet som skjult vedlegg til e-post eller fordekt i et annet vedlegg, bruke tilgjengelige nettverksforbindelser til å hente ut informasjonen som avdekkes, samt å foreta innbrudd for å installere og fjerne programvare eller maskinvare dersom det er nødvendig for å kunne gjennomføre dataavlesingen.
+
+I likhet med utvalget mener departementet at det ikke er hensiktsmessig eller mulig å beskrive gjennomføringsmåtene i detalj. Til det er de tekniske mulighetene for mange og den teknologiske utviklingen for rask og uoverskuelig. Politiet bør også av taktiske årsaker levnes en viss mulighet til å utvikle og benytte fremgangsmåter som i hvert fall ikke umiddelbart, og ikke i detalj, blir kjent.
+
+Et fravær av detaljerte beskrivelser må imidlertid ledsages av tydelige ytre grenser for hva politiet skal ha anledning til å foreta seg med grunnlag i en tillatelse til dataavlesing. Det er informasjon som genereres i og av datasystemet, og mistenktes *bruk* av datasystemet, som skal kunne kontrolleres gjennom dataavlesing. Departementet understreker at en tillatelse til dataavlesing derimot ikke skal gi politiet adgang til å manipulere datasystemet for å drive andre former for skjult overvåking. Politiet kan for eksempel ikke selv aktivere mikrofoner tilknyttet datasystemet for å fange opp lyd i et rom, eller slå på et tilknyttet kamera for å skaffe seg stillbilder eller levende bilder fra stedet der datasystemet befinner seg. Slik overvåking må eventuelt hjemles i henholdsvis straffeprosessloven § 216 m (romavlytting) og kapittel 16 a (skjult kameraovervåking).

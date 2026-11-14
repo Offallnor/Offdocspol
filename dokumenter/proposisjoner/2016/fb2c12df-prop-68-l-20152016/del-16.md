@@ -1,1156 +1,216 @@
-# Prop. 68 L (2015–2016), del 16 av 29 (side 159–168)
+# Prop. 68 L (2015–2016), del 16 av 27
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2016/fb2c12df-prop-68-l-20152016.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-68-l-20152016/id2479232/
 - Original-PDF: https://www.regjeringen.no/contentassets/d2bd4dc7fdb44d90b0d094f4d415b981/no/pdfs/prp201520160068000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 159]
-
-2015–2016
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-159
-
-12 Skjult kameraovervåking
-12.1 Gjeldende rett
-Politiets adgang til å iverksette skjult kameraover­
-våking i etterforskningsøyemed reguleres av
-straffeprosessloven § 202 a. Bestemmelsen ble
-tatt inn i straffeprosessloven ved lov 15. mars 1991
-nr. 5 på bakgrunn av innføringen av straffeloven
-1902 § 390 b, som satte et generelt forbud mot
-skjult kameraovervåking på offentlig sted. Sist­
-nevnte bestemmelse er senere erstattet av person­
-opplysningsloven § 40 om varslingsplikt ved
-kameraovervåking på offentlig sted eller sted
-hvor en begrenset krets av personer ferdes jevn­
-lig.
-Politiet kan iverksette skjult kameraovervå­
-king på offentlig sted når det foreligger skjellig
-grunn til mistanke om en eller flere straffbare
-handlinger som kan medføre høyere straff enn
-fengsel i seks måneder, jf. straffeprosessloven
-§ 202 a første ledd. Det er ikke noe vilkår at mis­
-tanken kan rettes mot en eller flere bestemte per­
-soner. Overvåking vil følgelig kunne iverksettes
-for eksempel der politiet har mistanke om at det
-på et bestemt sted foregår hyppig omsetning av
-narkotika eller tyvegods, men uten at mistanken
-kan rettes mot noen identifisert person, jf. Ot.prp.
-nr. 56 (1989–90) punkt 12 side 60. Det er heller
-ikke noe krav om at den straffbare handlingen er
-begått eller begås på offentlig sted.
-I tillegg til kriminalitetskravet, er det et vilkår
-for å iverksette kameraovervåking at slik overvå­
-king vil være av vesentlig betydning for etter­
-forskningen. Dette såkalte indikasjonskravet for­
-utsetter at overvåkingen på en kvalifisert måte vil
-være til hjelp for å avdekke de straffbare forhol­
-dene, sikre bevis osv. Det er imidlertid ikke nød­
-vendig at skjult kameraovervåking er den eneste
-mulige etterforskningsmetode i saken, jf. Ot.prp.
-nr. 56 (1989–90) punkt 12 side 60.
-Skjult kameraovervåking på offentlig sted vil
-nødvendigvis ramme ikke bare den eller de som
-begår de straffbare handlinger, men også andre
-personer som måtte ferdes på stedet. Hvorvidt
-skjult kameraovervåking skal kunne iverksettes
-vil derfor bero på en avveining av på den ene side
-hensynet til en effektiv etterforskning og på den
-
-annen side hensynet til integriteten til dem som
-ferdes på stedet, jf. Ot.prp. nr. 56 (1989–90) punkt
-4.3 side 36. Dette avgjøres etter en konkret vurde­
-ring, hvor det særlig skal legges vekt på alvorlig­
-hetsgraden av den straffbare handlingen, hvorvidt
-det foreligger alternative etterforskningsmeto­
-der, hvor beferdet stedet er osv., jf. Ot.prp. nr. 56
-(1989–90) punkt 12 side 60.
-Beslutning om bruk av skjult kameraovervå­
-king på offentlig sted treffes av retten, og tillatelse
-gis for et bestemt tidsrom som ikke må være len­
-gre enn strengt nødvendig og høyst fire uker, jf.
-straffeprosessloven § 202 a annet ledd. Beslutnin­
-gen treffes uten at den mistenkte eller den som
-beslutningen ellers rammer gis adgang til å uttale
-seg, og beslutningen blir ikke meddelt dem, jf.
-tredje ledd.
-Straffeprosessloven § 202 a gjelder kun for
-overvåking som skjer på offentlig sted. Begrepet
-«offentlig sted» skal forstås på samme måte som
-etter straffeloven § 10 (straffeloven 1902 § 7 første
-ledd), og omfatter «et sted bestemt for alminnelig
-ferdsel eller et sted der allmennheten ferdes». At
-et område er privat eid, utelukker ikke at det kan
-regnes som et offentlig sted. Således vil begrepet
-kunne omfatte for eksempel en butikk eller et
-handlesenter, eller en privateid vei eller lignende
-som er alminnelig beferdet. Straffeprosessloven
-§ 202 a regulerer ikke kameraovervåking utenfor
-offentlig sted, slik som i privat bolig eller på annet
-privat sted. Politiet har følgelig ingen hjemmel til å
-iverksette slik overvåking. Skjult kameraovervå­
-king på privat sted vil etter omstendighetene
-kunne rammes av straffeloven § 266 om hensyns­
-løs atferd (straffeloven 1902 § 390 a) og således
-være straffbart.
-Straffeprosessloven § 202 a benytter i dag
-begrepet «fjernsynsovervåking», som skal forstås
-i samsvar med reglene i personopplysningloven
-kapittel VII. Ved lov 20. april 2012 nr. 18 ble termi­
-nologien i personopplysningsloven endret, og
-loven benytter nå begrepet «kameraovervåking».
-«Kameraovervåking» er i personopplysningsloven
-§ 36 første ledd definert som vedvarende eller
-regelmessig gjentatt personovervåking ved hjelp
-av fjernbetjent eller automatisk virkende over­
-
-[Side 160]
-
-160
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-våkingskamera eller annet lignende utstyr som er
-fastmontert. Som kameraovervåking anses både
-overvåking med og uten mulighet for opptak av
-lyd- og bildemateriale. Definisjonen omfatter også
-utstyr som lett kan forveksles med en ekte kame­
-raløsning – såkalte dummy-kameraer. Ulike for­
-mer for overvåking på offentlig sted som faller
-utenfor denne definisjonen, er antatt å kunne fore­
-tas av politiet uten særskilt lovhjemmel, jf. Ot.prp.
-nr. 56 (1989–90) punkt 12 side 60. Dette gjelder
-for eksempel overvåking i form av manuell spa­
-ning med kikkert eller lignende, eller overvåking
-ved hjelp av tekniske hjelpemidler, men som ikke
-har en vedvarende eller regelmessig gjentatt
-karakter.
-
-12.2 Andre lands rett
-I Danmark er skjult kameraovervåking av perso­
-ner som befinner seg på fritt tilgjengelig sted, ikke
-ansett som et straffeprosessuelt tvangsmiddel.
-Metoden er derfor ikke særskilt lovregulert, og
-politiets bruk av den kun underlagt et alminnelig
-forholdsmessighetskrav, jf. bet. 1298/1995 punkt
-5.3.2.2 side 123 flg. Derimot er såkalt «observa­
-tion» av personer som befinner seg på et ikke fritt
-tilgjengelig sted, regulert i retsplejeloven (LBK nr
-1139 af 24/09/2013) § 791 a. Bestemmelsen oppstiller ulike krav avhengig av hva slags utstyr som
-benyttes og hvor den som observeres oppholder
-seg. Etter § 791 a, stk. 1 kan politiet foreta fotogra­
-fering eller iakttakelse ved hjelp av kikkert eller
-annet apparat, såfremt dette må antas å være av
-vesentlig betydning for etterforskningen og
-denne gjelder lovbrudd som etter loven kan med­
-føre fengselsstraff. Observasjon ved hjelp av fjern­
-betjent eller automatisk virkende tv-kamera, foto­
-grafiapparat eller lignende apparat er reservert
-for lovbrudd som kan medføre fengsel i ett år og
-seks måneder eller mer, jf. stk. 2.
-Observasjon av personer som befinner seg i
-bolig eller annet husrom, ved hjelp av fjernbetjent
-eller automatisk virkende tv-kamera, fotografiap­
-parat eller lignende apparat, eller ved hjelp av
-apparat som anvendes i boligen eller husrommet,
-er regulert i § 791 a, stk. 3. Det kreves her
-bestemte grunner til å anta at bevis i saken kan
-oppnås ved inngrepet, samt at inngrepet må antas
-å være av avgjørende betydning for etterforsknin­
-gen. Metoden kan bare benyttes ved lovbrudd
-som kan medføre fengsel i seks år eller mer, for­
-settlig overtredelse av straffeloven kapittel 12 (for­
-brytelser mot statens selvstendighet og sikker­
-het) eller 13 (forbrytelser mot statsforfatningen
-
-2015–2016
-
-og de øverste statsmyndigheter, terrorisme mv.),
-befrielse fra fengsel, bistand til rømning, unndra­
-gelse fra militærtjeneste, omfattende samfunns­
-skadelig driftsforstyrrelse, trusler, utpressing og
-menneskesmugling. Lovbruddet må i tillegg ha
-medført eller kunne medføre fare for menneskers
-liv eller velferd eller for betydelige samfunnsver­
-dier.
-Observasjon av et ikke fritt tilgjengelig sted
-som den som påstår å være fornærmet har rådig­
-het over, er ikke omfattet av reglene i bestemmel­
-sen, såfremt den påstått fornærmede har gitt
-skriftlig samtykke til overvåkingen, jf. stk. 4. Alle
-former for observasjon er underlagt et generelt
-forholdsmessighetskrav, jf. stk. 7.
-Avgjørelse om bruk av observasjon ved hjelp
-av fjernbetjent eller automatisk virkende tv­
-kamera, fotografiapparat eller lignende apparat
-treffes av retten ved kjennelse, jf. § 791 a, stk. 8, jf.
-§ 783, stk. 1. Kjennelsen skal angi hvilket sted til­
-latelsen gjelder. Politiet er gitt hastekompetanse,
-jf. § 783, stk. 4.
-I Sverige er politiets adgang til bruk av hem­
-melig kameraovervåking regulert i rättegångsbal­
-ken 27 kap. 20 a til 20 c §§. Metoden innebærer at
-fjernstyrte tv-kameraer, andra optisk-elektroniske
-instrumenter eller sammenlignbart utstyr benyt­
-tes til optisk personovervåking i etterforsknings­
-øyemed, uten at det opplyses om overvåkingen, jf.
-20 a § 1 mom.
-Grunnvilkåret for at hemmelig kameraover­
-våking kan iverksettes er at etterforskningen
-gjelder et lovbrudd med minstestraff på to års
-fengsel eller mer, eller visse former for særlig
-samfunnsfarlig kriminalitet, jf. 20 a § 2 mom. Det
-samme gjelder ved forsøk på, forberedelse til
-eller forbund om slikt lovbrudd. Adgangen gjel­
-der også ved andre typer lovbrudd dersom det
-etter omstendighetene kan antas at lovbruddets
-straffverdighet overstiger fengsel i to år. Dersom
-dette kriminalitetskravet er oppfylt, er hemmelig
-kameraovervåking tillatt i to tilfelle. Det første
-gjelder dersom noen med skjellig grunn er mis­
-tenkt for lovbruddet, og overvåkingen gjelder et
-sted der det mistenkte kan antas å ville oppholde
-seg, jf. 20 b §. Dersom ingen bestemt person kan
-mistenkes for lovbruddet, kan kameraover­
-våking iverksettes for å overvåke stedet hvor lov­
-bruddet ble begått eller nære omgivelser til
-dette, såfremt formålet med overvåkingen er å
-avdekke hvem som med skjellig grunn kan mis­
-tenkes for lovbruddet, jf. 20 c §. For begge til­
-feller gjelder at avgjørelsen om å iverksette
-kameraovervåking må være av «synnerlig vikt»
-for etterforskningen.
-
-[Side 161]
-
-2015–2016
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-Beslutning om å iverksette hemmelig kame­
-raovervåking treffes etter 21 § av retten på begjæ­
-ring fra påtalemyndigheten. Påtalemyndigheten
-er gitt hastekompetanse, jf. 21 a §. Rettens beslut­
-ning skal angi tidsrommet for tillatelsen, som ikke
-kan være lenger enn det som er nødvendig og
-ikke overstige én måned. Beslutningen skal angi
-hvilket sted tillatelsen gjelder.
-Etter den finske tvångsmedelslagen 10 kap.
-19 § forstås med såkalt «optisk observation» at
-man iakttar eller gjør opptak av en mistenkt eller
-av et område eller sted med kamera eller annet
-utplassert utstyr, metoder eller programvare.
-Observasjonen kan under ingen omstendighet
-rettes mot husrom som brukes som permanent
-bolig, jf. 10 kap. 19 § 2 mom. Derimot kan obser­
-vasjonen rettes mot mistenkte som befinner seg
-utenfor husrom som brukes som permanent bolig
-og mot mistenkte som er frihetsberøvet på grunn
-av lovbrudd. Observasjonen kan rettes mot et rom
-eller et annet sted den mistenkte med sannsynlig­
-het kan antas å befinne seg eller besøke.
-Vilkårene for å iverksette optisk observasjon
-varierer med stedet observasjonen rettes mot.
-Observasjon av såkalte «hemfridsskyddade plat­
-ser» eller av personer som er frihetsberøvet på
-grunn av lovbrudd, kan bare foretas ved mistanke
-om lovbrudd som kan medføre fengsel i fire år
-eller mer, narkotikalovbrudd, forberedelse til ter­
-rorhandling, eller grovt tollrapporteringslov­
-brudd, jf. 10 kap. 19 § 3 mom. jf. 16 § 3 mom.
-Beslutning fattes av retten, jf. 20 § 1 mom. «Hem­
-fridsskyddade platser» omfatter etter strafflagen
-24 kap. 11 § boliger, fritidsboliger og øvrige rom
-som er beregnet til bolig, slik som hotellrom, telt,
-husvogner og fartøyer som kan bebos, trappeopp­
-ganger i bolighus, samt gårder som utgjør beboer­
-nes private område og de bygninger som er fast
-forbundet med slike gårder.
-For annen optisk observasjon kreves at mis­
-tanken gjelder lovbrudd som kan medføre fengsel
-i minst ett år. Beslutning kan i slike tilfeller fattes
-av en arrestasjonsbemyndiget tjenestemann, jf.
-tvångsmedelslagen 10 kap. 20 § 2 mom. Tillatelse
-gis i alle tilfelle for høyst en måned av gangen.
-
-12.3 Folkerettslige forpliktelser
-EMK artikkel 8 nr. 1 beskytter retten til respekt
-for privatliv, familieliv, hjem og korrespondanse. I
-kjerneområdet for bestemmelsen ligger den
-enkeltes rett til å bli vernet mot inngrep i sitt pri­
-vate hjem. Det er derfor klart at skjult kamera­
-overvåking rettet mot private hjem vil utgjøre et
-
-161
-
-inngrep i artikkel 8. Begrepene privatliv og hjem
-er i praksis tolket relativt vidt og omfatter trolig
-også privat område som direkte tilstøter et privat
-hjem – for eksempel en trappeoppgang. Vernet
-kan også omfatte forretningslokaler, jf. for eksem­
-pel Niemietz mot Tyskland 16. desember 1992 (sak
-13710/88).
-For overvåking som skjer utenfor det private
-hjem, er beskyttelsen etter artikkel 8 svakere.
-EMD har imidlertid anerkjent at det eksisterer et
-område for interaksjon mellom mennesker som
-faller inn under privatlivsbegrepet, selv om den
-foregår på offentlig sted. Hvorvidt det foreligger
-et inngrep i en slik kontekst vil bero på en konkret
-vurdering, hvor blant annet de berørtes forvent­
-ning om å få være i fred står sentralt. I en sak om
-hemmelig avlytting, P.G. og J.H. mot Storbritannia
-25. september 2001 (sak 44787/98), uttaler dom­
-stolen (avsnitt 57):
-«There are a number of elements relevant to a
-consideration of whether a person’s private life
-is concerned by measures effected outside a
-person’s home or private premises. Since there
-are occasions when people knowingly or inten­
-tionally involve themselves in activities which
-are or may be recorded or reported in a public
-manner, a person’s reasonable expectations as
-to privacy may be a significant, although not
-necessarily conclusive, factor.»
-Det er slått fast i flere saker at monitorering av
-offentlig tilgjengelig sted ved bruk av sikkerhetsk­
-ameraer uten opptaksmulighet, ikke utgjør et inn­
-grep i artikkel 8, jf. blant annet Herbecq mot Belgia
-14. januar 1998 (sak 32200/96). Kommisjonen
-bemerket i avgjørelsen at «the data available to a
-person looking at monitors is identical to that
-which he or she could have obtained by being on
-the spot in person». På grunnlag av dette måtte alt
-som kunne observeres på stedet betraktes som
-offentlig opptreden («public behaviour»). Det
-samme følger av Perry mot Storbritannia 17. juli
-2003 (sak 63737/00), hvor EMD konstaterte at
-«the normal use of security cameras per se whet­
-her in the public street or on premises, such as
-shopping centres or police stations where they
-serve a legitimate and foreseeable purpose, do not
-raise issues under Article 8 § 1 of the Convention»
-(avsnitt 40).
-Dersom bruken av sikkerhetskameraer går ut
-over det som kan anses som rimelig og forutsig­
-bart, kan imidlertid vurderingen bli en annen. I
-Perry-saken var saksforholdet at klageren var
-mistenkt for en rekke væpnede ran i biler. Da ved­
-
-[Side 162]
-
-162
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-kommende ikke ønsket å la seg fotografere med
-sikte på vitnekonfrontasjon, ble fastmonterte sik­
-kerhetskameraer på politistasjonen brukt for å
-innhente videoopptak av mistenkte. Dette ble
-gjort ved at et sikkerhetskamera som var i konti­
-nuerlig drift ble justert for å sikre at det fanget
-opp bilder av den mistenkte. Etter domstolens
-oppfatning var dette noe annet enn ordinær bruk
-av sikkerhetskameraer – ettersom kameraet med
-hensikt hadde blitt manipulert for å fange opp bil­
-der av klageren, samt fordi opptaket ble vist for
-vitner og senere lagt frem under den offentlige
-rettssaken mot klageren. Det forelå derfor et inn­
-grep i artikkel 8 (avsnitt 41–42).
-I motsetning til ved synlig bruk av sikker­
-hetskameraer, vil politiets bruk av skjult kame­
-raovervåking til etterforskningsformål normalt
-ikke være kjent for dem som rammes. Slik overvå­
-king vil dermed ikke ha den samme grad av forut­
-beregnelighet som bruk av synlige kameraer. Til
-dette kommer at opptakene – i motsetning til ved
-ren monitorering – blir lagret for å kunne brukes i
-videre etterforskning og strafforfølgning. Dette
-øker tiltakets inngripende karakter. Det vises til
-følgende uttalelse i den tidligere nevnte saken P.G.
-og J.H. mot Storbritannia (avsnitt 57):
-«A person who walks down the street will, ine­
-vitably, be visible to any member of the public
-who is also present. Monitoring by technologi­
-cal means of the same public scene (for exam­
-ple, a security guard viewing through closedcircuit television) is of a similar character. Pri­
-vate-life considerations may arise, however,
-once any systematic or permanent record
-comes into existence of such material from the
-public domain. It is for this reason that files gat­
-hered by security services on a particular indi­
-vidual fall within the scope of Article 8, even
-where the information has not been gathered
-by any intrusive or covert method […].»
-Uttalelsen indikerer at det er av vesentlig betyd­
-ning hvorvidt opptakene som gjøres lagres med
-tanke på videre systematisk bruk. På denne bak­
-grunn er det grunn til å tro at politiets bruk av
-skjult kameraovervåking etter omstendighetene
-vil utgjøre et inngrep i artikkel 8 – også når over­
-våkingen skjer på et offentlig sted.
-Inngrep som her nevnt kan bare skje på de vil­
-kår som er angitt i EMK artikkel 8 nr. 2. Det følger
-av bestemmelsen at inngrepet må ha hjemmel i
-lov og være nødvendig i et demokratisk samfunn
-av hensyn til visse særskilt angitte formål. Som
-legitime formål regnes blant annet å forebygge og
-
-2015–2016
-
-bekjempe uorden eller kriminalitet. I tillegg til at
-det må foreligge formell lovhjemmel, innebærer
-lovkravet at hjemmelen må være tilgjengelig for
-dem som rammes, samt være formulert på en
-måte som gjør disse i stand til å forutse lovens
-konsekvenser, jf. for eksempel Kopp mot Sveits
-25. mars 1998 (sak 23224/94) avsnitt 55. Etter­
-som en adgang til å iverksette hemmelig overvå­
-king representerer en særskilt fare for misbruk,
-må det dessuten finnes adekvate og effektive sik­
-kerhetsmekanismer, jf. for eksempel Klass m.fl.
-mot Tyskland 6. september 1978 (sak 5029/71)
-avsnitt 50. Som slike sikkerhetsmekanismer reg­
-nes blant annet krav om rettslig kontroll med
-myndighetenes bruk av overvåkingstiltak, jf.
-Klass-saken avsnitt 55.
-
-12.4 Begrepet kameraovervåking
-Dagens regel om «skjult fjernsynsovervåking» i
-straffeprosessloven § 202 a speiler forbudet mot
-skjult kameraovervåking på offentlig sted i per­
-sonopplysningsloven § 40. Forbudet skal forstås i
-samsvar med personopplysningsloven § 36 første
-ledd, som fikk sin nåværende utforming ved lov
-20. april 2012 nr. 18. Ved nevnte lovendring ble
-begrepet «fjernsynsovervåking» erstattet med
-«kameraovervåking», og kameraovervåkingsbe­
-grepet for øvrig søkt modernisert og gjort mer
-teknologinøytralt. Definisjonen av kameraover­
-våking i personopplysningsloven § 36 første ledd
-lyder nå slik:
-«Med kameraovervåking menes vedvarende
-eller regelmessig gjentatt personovervåking
-ved hjelp av fjernbetjent eller automatisk vir­
-kende overvåkningskamera eller annet lig­
-nende utstyr som er fastmontert. Som kamera­
-overvåking anses både overvåking med og
-uten mulighet for opptak av lyd- og bildemate­
-riale. Det samme gjelder utstyr som lett kan
-forveksles med en ekte kameraløsning.»
-Under høringen har Oslo politidistrikt, med tilslut­
-ning fra Politidirektoratet, etterlyst en definisjon av
-kameraovervåkingsbegrepet inntatt i straffepro­
-sessloven § 202 a. Høringsinstansene mener en
-slik definisjon bør fremgå av bestemmelsen selv,
-og ikke gjennom en henvisning til personopplys­
-ningsloven.
-Departementet
-slutter seg til
-høringsinstansenes forslag, og går inn for at defi­
-nisjonen av kameraovervåking skal fremgå
-uttrykkelig av straffeprosessloven § 202 a. Dette
-
-[Side 163]
-
-2015–2016
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-vil klargjøre hvilke tiltak politiet kan iverksette i
-medhold av bestemmelsen og forenkle rettsan­
-vendelsen. Hensynet til sammenheng i lovverket
-tilsier at definisjonen formuleres på samme måte
-som i personopplysningsloven. Det antas imidler­
-tid at personopplysningsloven § 36 første ledd
-siste punktum, som omfatter «utstyr som lett kan
-forveksles med en ekte kameraløsning», ikke vil
-være relevant for etterforskningsformål. Dette
-punktum foreslås følgelig unntatt fra definisjonen
-i straffeprosessloven § 202 a.
-
-12.5 Skjult kameraovervåking fra
-offentlig sted mot privat sted
-12.5.1 Metodekontrollutvalgets forslag
-Straffeprosessloven § 202 a gir som nevnt politiet,
-på nærmere vilkår, anledning til å iverksette skjult
-kameraovervåking «på offentlig sted». Metode­
-kontrollutvalget uttaler at det i underrettspraksis
-er gitt tillatelse til å iverksette skjult kameraover­
-våking etter straffeprosessloven § 202 a også fra
-offentlig sted mot privat sted – et inngangsparti, jf.
-utredningen punkt 21.1 side 222 samt punkt 21.4.2
-side 224. Etter utvalgets syn åpner straffepro­
-sessloven § 202 a neppe for slik overvåking. Utval­
-get finner imidlertid at det bør være slik adgang,
-og foreslår derfor å gjøre det klart at kameraover­
-våking fra offentlig sted mot privat sted kan finne
-sted på samme vilkår som overvåking på offentlig
-sted. Utvalget viser i punkt 21.4.2 til at de samme
-steder vil kunne observeres av politiet i kraft av
-den alminnelige handlefrihet:
-«Utvalget finner ikke tungtveiende grunner til
-at politiet ikke bør ha anledning til å gjennom­
-føre fjernsynsovervåking mot et privat sted,
-typisk et inngangsparti, når dette skjer som
-ledd i etterforskingen, og hvor politiet etter
-den alminnelige handlefriheten vil ha adgang
-til å observere det samme stedet. Utvalget er
-oppmerksom på at fjernsynsovervåking vil
-være et mer vedvarende inngrep, men finner
-dette ikke avgjørende.»
-Metodekontrollutvalget foreslår følgelig at det
-presiseres i straffeprosessloven § 202 a at politiet
-har adgang til å iverksette skjult kameraover­
-våking fra offentlig sted mot privat sted.
-12.5.2 Høringsinstansenes syn
-Fornyings-, administrasjons- og kirkedepartemen­
-tet, Politidirektoratet, Riksadvokaten, Kripos, Øko­
-
-163
-
-krim, Oslo statsadvokatembeter, Oslo politidistrikt,
-Telemark politidistrikt, Politiets sikkerhetstjeneste,
-Norges politilederlag og Politiets Fellesforbund støt­
-ter Metodekontrollutvalgets forslag. Advokatfore­
-ningen, Forsvarergruppen av 1977 og Norsk
-forening for kriminal reform (KROM) tar avstand
-fra forslaget.
-Fornyings-, administrasjons- og kirkedeparte­
-mentet poengterer at det her er tale om bruk av
-skjult kamera rettet mot steder som politiet også
-ellers vil kunne observere eller overvåke manuelt.
-Departementet legger likevel til grunn at slik
-overvåking er mer inngripende enn overvåking av
-offentlig sted, ettersom den er rettet mot en eller
-flere konkrete personer. I tillegg vil de fleste ha en
-forventning om å være mindre iakttatt på privat
-enn på offentlig sted. Departementet fremhever
-imidlertid den potensielle effektiviseringsgevin­
-sten ved å tillate slik overvåking, og mener den
-bør kunne tillates i kombinasjon med streng dom­
-stolskontroll:
-«[…] Det er klart at kameraovervåking vil
-være mer effektivt, og gi mer håndfast informa­
-sjon enn manuell overvåking. Samtidig vil det
-gi mulighet til i ettertid å gå tilbake i opptakene
-og se på detaljer eller episoder som ikke ville
-blitt oppfattet ved manuell overvåking. Overvå­
-king vil også kunne vare over lengre tid når den
-skjer med kamera enn om den skal gjennom­
-føres manuelt. Integritetsinngrepet er derfor
-større ved kameraovervåking enn ved manuell
-overvåking. FAD er likevel enig med utvalget i
-at skjult kameraovervåking av privat sted fra
-offentlig sted vil innebære en betydelig ressur­
-seffektivisering. Dette, sammenholdt med
-streng domsstolskontroll for bruk av metoden,
-tilsier at tiltaket bør kunne tillates.»
-Økokrim antar at adgangen til å overvåke fra
-offentlig mot privat sted vil kunne bli særlig viktig
-i miljøsaker, ved at den muliggjør filming av for
-eksempel en jakthytte eller et jakttårn.
-12.5.3 Departementets vurdering
-Departementet kan i det vesentlige tiltre utvalgets
-vurderinger når det gjelder skjult kameraovervå­
-king på eller fra offentlig sted. Departementet
-mener således at dagens regel om skjult kame­
-raovervåking på offentlig sted bør videreføres, og
-at politiet på samme vilkår bør ha adgang til å iverk­
-sette skjult kameraovervåking fra offentlig sted
-mot privat sted. Det vises til at dette er områder
-politiet allerede i dag kan observere ved manuell
-
-[Side 164]
-
-164
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-spaning, og hvor de som ferdes ikke kan ha noen
-forventning om ikke å bli iakttatt. At det er av
-betydning hvorvidt det som overvåkes kan obser­
-veres av enhver som er til stede, er også lagt til
-grunn i praksis fra EMD, jf. omtalen i punkt 12.3
-ovenfor. Departementet er innforstått med at kame­
-raovervåking utgjør et større inngrep enn manuell
-observasjon, men har ikke funnet dette avgjørende.
-Bruk av skjult kameraovervåking i etterforsk­
-ningen vil kunne gi mer detaljert og håndfast infor­
-masjon enn manuell overvåking av de samme
-områdene. Adgang til å iverksette slik overvåking
-fra offentlig mot privat sted vil videre kunne med­
-føre bedre utnyttelse av politiressurser, ved at auto­
-matiske hjelpemidler i visse tilfeller kan benyttes i
-stedet for operativt personell. Overvåkingen vil for
-eksempel kunne rette seg mot inngangsparti,
-gårdsrom, hage mv. som er synlig fra offentlig sted.
-Departementet finner likevel grunn til å under­
-streke at overvåkingen ikke bør kunne innrettes
-slik at den fanger opp aktivitet som finner sted i pri­
-vate hjem, selv om dette skulle være synlig fra
-offentlig sted. En slik form for overvåking ville ha
-karakter av omgåelse av forbudet mot skjult kame­
-raovervåking av private hjem som følger av depar­
-tementets forslag, jf. punkt 12.6 nedenfor.
-
-12.6 Skjult kameraovervåking på privat
-sted
-12.6.1 Metodekontrollutvalgets forslag
-Metodekontrollutvalget går inn for å utvide politi­
-ets adgang til å iverksette skjult kameraovervå­
-king til også å gjelde på privat sted, unntatt i privat
-bolig, jf. utredningen punkt 21.4.3 side 224–225.
-Utvalget legger til grunn at skjult kameraovervå­
-king på privat sted som utgangspunkt må anses
-som et større inngrep enn overvåking på offentlig
-sted. Det mener likevel at man ikke kan forvente å
-bevege seg helt fritt uten å bli observert av andre
-på privat sted, for eksempel i en bakgård eller et
-portrom. Utvalget finner det imidlertid klart at
-skjult kameraovervåking i privat bolig ikke under
-noen omstendighet bør tillates.
-Som et argument for å tillate kameraovervå­
-king på privat sted legger utvalget særlig vekt på
-at kameraovervåking vil kunne benyttes i kombi­
-nasjon med andre skjulte tvangsmidler, og gjøre
-disse mer målrettet og således mindre inngri­
-pende overfor dem som rammes, se følgende
-uttalelse i utredningen punkt 21.4.3:
-«Det er særlig i kombinasjon med romavlytting
-utvalget mener fjernsynsovervåking av privat
-
-2015–2016
-
-sted har sin berettigelse. Romavlytting vil som
-oftest også ramme tredjepersoner, ettersom
-politiet ikke alltid vil ha oversikt over om mis­
-tenkte er til stede eller ikke. Dette er etter
-utvalgets syn uheldig av hensyn til tredjeperso­
-nenes personverninteresser. Ved å kombinere
-romavlytting med fjernsynsovervåking kan
-politiet målrette avlyttingen ved å skru på og av
-avlyttingsutstyret etter om mistenkte er til
-stede eller ikke. På denne måten vil person­
-vernkrenkelsene overfor tredjepersoner redu­
-seres.»
-Utvalget viser videre til at bruk av kameraovervå­
-king i kombinasjon med romavlytting vil kunne
-redusere politiets ressursbruk. Det legger til
-grunn at selv om skjult kameraovervåking på pri­
-vat sted særlig har sin berettigelse i kombinasjon
-med romavlytting, kan det ikke utelukkes at et
-slikt tvangsmiddel vil være hensiktsmessig også i
-kombinasjon med andre tvangsmidler eller i
-andre sammenhenger.
-På denne bakgrunn går Metodekontrollutval­
-get inn for at skjult kameraovervåking på privat
-sted, unntatt i privat bolig, bør kunne skje på
-strenge vilkår og etter tillatelse fra retten. Etter
-forslaget skal slik overvåking kunne skje ved
-etterforskning av de samme straffbare handlinger
-som kommunikasjonsavlytting etter straffepro­
-sessloven § 216 a. Det foreslås videre krav om at
-overvåkingen må antas å være av vesentlig betyd­
-ning for å oppklare saken, og at oppklaring ellers i
-vesentlig grad vil bli vanskeliggjort.
-12.6.2 Høringsinstansenes syn
-Fornyings-, administrasjons- og kirkedepartemen­
-tet, Politidirektoratet, Riksadvokaten, Kripos, Øko­
-krim, Oslo statsadvokatembeter, Oslo politidistrikt,
-Politiets sikkerhetstjeneste, Norges politilederlag og
-Politiets Fellesforbund støtter Metodekontrollutval­
-gets forslag. Også Telemark politidistrikt støtter
-utvalgets forslag, men mener det går for kort.
-Advokatforeningen, Forsvarergruppen av 1977 og
-KROM tar avstand fra forslaget.
-Advokatforeningen understreker de prinsi­
-pielle betenkeligheter ved å tillate økt bruk av
-skjult overvåking og kontroll av enkeltindividers
-aktivitet innenfor den private sfære, og motsetter
-seg at etterforskningsbehov her gis forrang.
-Forsvarergruppen av 1977 påpeker at kamera­
-overvåking er et svært inngripende tiltak overfor
-mistenkte, men i enda større grad overfor tredje­
-personer. Gruppen peker på misbruksfaren, samt
-en frykt for uthuling av respekten for enkeltperso­
-
-[Side 165]
-
-2015–2016
-
-165
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-ners integritet ved bruk av denne type virkemid­
-ler. Gruppen er heller ikke enig i at politiets mulig­
-het til å oppnå tilnærmet det samme ved vanlig
-spaning, er et argument for å tillate metoden:
-«Enhver må ta høyde for — utenfor husets/
-leilighetens fire vegger — at man kan bli
-observert av andre mennesker i nærheten,
-også om man er på privat sted. Imidlertid er
-det nok de færreste som holder det som
-påregnelig at en kan bli filmet i sin egen trap­
-peoppgang, og det gjøres en antagelse fra vår
-side om at mange ville opplevd dette som
-svært krenkende.
-At politiet vil kunne ha mulighet til å obser­
-vere mange av de samme bevegelser ved van­
-lig spaning, er etter vår oppfatning vesentlig
-annerledes enn å lagre menneskers bevegel­
-ser på film over lengre tid, potensielt til gjen­
-nomsyn for vesentlig flere enn spanerne selv,
-og ikke et argument for at fjernsynsovervåk­
-ning på privat sted bør kunne tillates. Snarere
-er det et argument for at man fortsetter å
-bruke de tradisjonelle metoder på dette feltet,
-og slik unngår de ideelle kostnadene som slik
-overvåkning vil medføre, selv om dette nok
-medfører større økonomiske kostnader.»
-På samme måte er KROM av den oppfatning at
-selv om man ikke kan forvente å bevege seg helt
-fritt uten å bli observert av andre på private ste­
-der, er filming en integritetskrenkelse av en helt
-annen karakter. KROM kan heller ikke følge utval­
-get i at skjult kameraovervåking av privat sted vil
-redusere behovet for romavlytting.
-Kripos, med tilslutning fra Politidirektoratet, er
-derimot enig i utvalgets vurderinger om at skjult
-kameraovervåking på privat sted vil være aktuelt i
-tilknytning til blant annet romavlytting. Høringsin­
-stansen peker videre på at metoden også vil være
-aktuell i andre tilfeller:
-«Kripos er også enig i at skjult fjernsynsover­
-våking er en egnet metode i andre tilfeller enn
-som støtte for romavlytting. Eksempelvis
-egner den seg meget godt når politiet avdekker
-narkotikadepoter som oppbevares i fellesområ­
-der i boligkomplekser. Regelmessig får politiet
-kunnskap om narkotika som er gjemt i slike
-områder og det er behov for å knytte mistenkte
-til narkotikabeslaget. Utfordringen er at det er
-vanskelig å foreta spaning i slike områder, og
-det er usikkert når mistenkte vil dukke opp. En
-egnet fremgangsmåte vil være å erstatte narko­
-tikaen med en lignende pakning og etablere
-
-fjernsynsovervåking for bevissikring. Tilsva­
-rende kan man tenke seg om andre viktige
-bevismidler som er gjemt på privatområde,
-eksempelvis ransutstyr, penger, drapsvåpen
-mv.»
-Høringsinstansen fremhever også at målrettet
-kameraovervåking av konkrete steder på privat
-område kan ivareta hensynet til tredjepersoner
-bedre enn eksempelvis overvåking av et inn­
-gangsparti av en boligblokk, hvor alle som går inn
-eller ut vil bli filmet.
-Telemark politidistrikt mener forslaget går for
-kort, og argumenterer for at adgangen til å kame­
-raovervåke privat sted også bør omfatte privat
-bolig:
-«Begrunnelsen for å gi en slik anledning til
-fjernsynsovervåking er blant annet å effektivi­
-sere romavlytting og gjøre slik avlytting mer
-presis. Denne begrunnelsen tilsier ingen slik
-begrensning som utvalget foreslår. På de
-samme vilkår som for kommunikasjonskon­
-troll, eventuelt de vilkår som gjelder for romav­
-lytting, bør det være adgang til skjult fjernsyn­
-sovervåking også av beboelsesrom.»
-Politidirektoratet kan på sin side ikke se at det
-foreligger tilstrekkelig tungtveiende grunner til å
-tillate kameraovervåking i privat bolig.
-Oslo politidistrikt, med tilslutning fra Politi­
-direktoratet, understreker viktigheten av å angi
-anvendelsesområdet for den foreslåtte bestem­
-melsen tydelig. Høringsinstansen har samtidig
-innspill til forståelsen av begrepet «privat bolig»:
-«Med dette som utgangspunkt vil det likevel
-oppstå en del grensetilfeller. Hva med et
-hotellrom som leies for kort tid, eller fengsels­
-celle, lugar el. Som heller ikke er naturlig
-omtale som privat bolig. Bortsett fra fengsels­
-celler vil disse stedene bare brukes for et kor­
-tere tidsrom. Vi antar derfor at dette ikke kan
-anses som “privat bolig” (med mulig unntak
-for celle), men er samtidig innforstått med at
-skjult fjernsynsovervåkning i slike tilfeller lett
-kan bli ansett for å være et uforholdsmessig
-inngrep.»
-Politidistriktet peker også på problemer knyttet til
-såkalte dekkleiligheter:
-«Et særlig praktisk tilfelle er de såkalte “dekk­
-leiligheter” som kriminelle ofte benytter seg av.
-De er gjerne innredet og utstyrt som en “privat
-
-[Side 166]
-
-166
-
-2015–2016
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-bolig”, men de brukes hovedsakelig til å plan­
-legge straffbare handlinger, som oppbeva­
-ringssted for narkotika, tyvegods, redskaper
-og utstyr for bruk ved straffbare handlinger,
-gjemmested for mistenkte eller etterlyste per­
-soner etc. Det kan tenkes at noen av de som
-eier/leier leiligheten overnatter på stedet fra
-tid til annen, men at den for øvrig ikke benyttes
-av noen som ordinære bolig. Vi antar at slike
-leiligheter ikke faller inn under forbudet mot
-skjult fjernsynsovervåkning.»
-Enkelte høringsinstanser uttaler seg mer kon­
-kret om vilkårene for bruk av skjult kameraover­
-våking på privat sted. Oslo politidistrikt, med til­
-slutning fra Politidirektoratet, slutter seg til utval­
-gets forslag, og anser det som et riktig utgangs­
-punkt å tillate slik overvåking i samme type
-saker som kommunikasjonsavlytting. Forsvarer­
-gruppen av 1977 og KROM kritiserer forslaget,
-som innebærer at skjult kameraovervåking på
-privat sted også kan foretas ved etterforskning
-av simple narkotikaovertredelser etter straffe­
-loven 1902 § 162 første ledd (straffeloven § 231).
-KROM uttaler:
-«Utvalgets lovforslag innebærer at det kan
-fjernsynsovervåkes på privat sted også for sim­
-ple narkotikaforbrytelser. Etter KROMs syn
-åpnes det med dette for alt for inngripende
-skjulte etterforskningsskritt overfor en alle­
-rede stigmatisert gruppe og for en enorm
-mengde uskyldige tredjepersoner som er på
-vei hjem eller på besøk hos venner og kjente.
-Dette er etter KROMs syn helt uakseptabelt.»
-Heller ikke Forsvarergruppen av 1977 mener at
-alvorlighetsgraden i straffeloven 1902 § 162 før­
-ste ledd (straffeloven § 231) kan forsvare bruk av
-skjult kameraovervåking på privat sted. Dersom
-forslaget om skjult kameraovervåking på privat
-sted blir tatt til følge, fremmer gruppen derfor
-forslag om å unnta simple narkotikaovertre­
-delser.
-NRK fremholder at dersom utvalgets forslag
-skal aksepteres, bør det nedlegges forbud mot å
-foreta kameraovervåking av eller mot redak­
-sjonslokaler. Det vises til at slik overvåking vil
-kunne vise hvilke personer som har vært i kon­
-takt med pressen og dermed kunne avsløre dens
-kilder. Under enhver omstendighet mener
-høringsinstansen at de samme begrensninger
-som gjelder for kommunikasjonskontroll og
-romavlytting, også bør gjelde for skjult kamera­
-overvåking.
-
-12.6.3 Departementets vurdering
-12.6.3.1
-
-Bør det åpnes for skjult kameraovervåking
-på privat sted?
-
-Departementet går i punkt 12.1.5.3 ovenfor inn for
-at skjult kameraovervåking av privat sted som kan
-observeres fra offentlig sted, bør tillates. Spørsmå­
-let her er om slik overvåking også bør tillates på
-privat sted som ikke er synlig fra offentlig sted.
-Etter departementets syn er overvåking av områ­
-der som ikke kan ses fra offentlig tilgjengelig sted,
-vesentlig mer inngripende enn overvåking av sted
-som kan observeres av enhver. Som Metodekon­
-trollutvalget påpeker, er det likevel ikke slik at man
-her kan forvente å bevege seg fritt, helt uten å bli
-iakttatt av andre mennesker. Eksempelvis vil felles­
-arealer som bakgård, portrom, loft og kjeller regu­
-lært være beferdet av naboer, gjester mv., som kan
-overvære eventuell aktivitet på stedet.
-En adgang til å iverksette skjult kameraovervå­
-king antas å kunne være av etterforskningsmessig
-betydning når politiet får kunnskap om narkotika,
-våpen, utstyr mv. som oppbevares på steder hvor
-det er vanskelig å foreta spaning. Dette gjelder for
-eksempel når man finner slike gjenstander i felles­
-områder i bygårder som ikke er offentlig tilgjenge­
-lig. Ved å iverksette skjult kameraovervåking på
-stedet vil politiet kunne observere personer som
-oppsøker gjenstandene, og dermed lettere kunne
-knytte mistenkte til funnet.
-Som Metodekontrollutvalget påpeker, vil skjult
-kameraovervåking på privat sted dessuten kunne
-være et effektivt virkemiddel i kombinasjon med
-andre skjulte tvangsmidler. Dette gjelder eksem­
-pelvis romavlytting eller kommunikasjonskon­
-troll. Ved bruk av romavlytting alene kan det være
-nødvendig å lytte på samtalene til tredjepersoner
-selv om mistenkte ikke er til stede, for å kunne
-fastslå om vedkommende er der. Ved å kame­
-raovervåke for eksempel inngangspartiet til loka­
-let som avlyttes, vil man kunne klargjøre om mis­
-tenkte på et bestemt tidspunkt befinner seg i loka­
-let. Dermed vil romavlyttingen kunne skrus av og
-på ettersom hvorvidt mistenkte er til stede, slik at
-utenforstående tredjepersoner i mindre grad rammes av avlyttingen. Departementet antar derfor at
-kameraovervåkingen vil kunne bidra til å gjøre
-bruken av romavlytting mer målrettet og således
-mindre inngripende. En slik bruk vil videre kunne
-redusere behovet for manuell spaning i forbin­
-delse med bruk av romavlytting, og således føre
-til besparelser i politiressurser.
-Departementet går på denne bakgrunn inn for
-at politiet, på strenge vilkår, bør gis adgang til å
-iverksette skjult kameraovervåking på visse pri­
-
-[Side 167]
-
-2015–2016
-
-167
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-vate steder. På grunn av de sterke personvernhen­
-syn som gjør seg gjeldende, er departementet
-samtidig enig med utvalget i at adgangen til å
-iverksette skjult kameraovervåking ikke bør
-omfatte private hjem. Det er ikke vanskelig å argu­
-mentere for at også denne typen overvåking
-kunne utgjøre et effektivt virkemiddel i etterforsk­
-ningen. Dette må imidlertid stilles opp mot den
-tungtveiende interesse hver enkelt har i å ha et
-område innenfor husets fire vegger hvor man kan
-få være helt i fred. Dette ligger i kjerneområdet
-for de verdier som er beskyttet av EMK artikkel 8
-og Grunnloven § 102. De samme hensyn ligger
-også til grunn for forbudet mot ransaking av pri­
-vate hjem i forebyggende øyemed etter politiloven
-§ 17 d annet ledd siste punktum.
-Hvorvidt noe skal anses som privat bolig, og
-derfor ikke kan kameraovervåkes, må bero på om
-begrunnelsen for en sterkere beskyttelse gjør seg
-gjeldende. Her vil rekkevidden av Grunnloven
-§ 102 kunne tjene som rettesnor. Således vil hus­
-værets art ikke i seg selv være avgjørende, slik at
-eksempelvis en hytte, husbåt eller campingbil
-omfattes av forbudet, dersom den benyttes som
-noens permanente bolig. Derimot antas unntaket
-normalt ikke å gjelde for steder hvor personer oppholder seg over kortere tidsrom, slik som fritids­
-boliger, hotellrom, kontorlokaler og lignende. Det
-legges likevel til grunn at personverninteresser i
-slike tilfeller vil kunne gjøre seg gjeldende i varier­
-ende grad, avhengig av stedets karakter og bruk.
-Dette vil etter omstendighetene kunne komme inn
-som et viktig moment i forholdsmessighetsvurde­
-ringen etter straffeprosessloven § 170 a.
-Departementet legger til grunn at såkalte
-dekkboliger vanligvis ikke er å anse som et privat
-hjem, og derfor ikke vil falle inn under unntaket.
-Dette er steder som er innredet for å se ut som et
-privat hjem, men som i realiteten brukes til å plan­
-legge kriminelle handlinger, skjule mistenkte,
-oppbevare utstyr og utbytte mv. Personer som
-oppholder seg her vil følgelig sjelden ha noen
-beskyttelsesverdig interesse i ikke å bli utsatt for
-skjult kameraovervåking. Departementet er inn­
-forstått med at det vil kunne by på visse bevispro­
-blemer å avgjøre hvorvidt noe som ser ut som et
-privat hjem, i realiteten er en dekkbolig. Særlig
-gjelder dette på et tidlig stadium i etterforsk­
-ningen. Videre vil det trolig kunne være en uklar
-grense mellom faktiske dekkboliger og steder
-som brukes som alminnelig bolig, men som også
-fungerer som åsted for planlegging av kriminelle
-handlinger, skjulested for mistenkte eller lig­
-nende. Det vil her være opp til retten, gjennom en
-alminnelig bevisvurdering, å avgjøre hvorvidt det
-
-aktuelle husværet er å anse som et privat hjem og
-dermed omfattes av unntaket. I den sammenheng
-er det sentralt at avgjørelse om skjult kameraover­
-våking av privat sted treffes ved kjennelse, med de
-krav til begrunnelse dette stiller, jf. punkt 12.7
-nedenfor.
-12.6.3.2
-
-Ved hvilke lovbrudd bør metoden kunne
-benyttes?
-
-Metodekontrollutvalget foreslår at skjult kame­
-raovervåking på privat sted skal kunne iverksettes
-i samme typer saker som kan gi grunnlag for
-kommunikasjonsavlytting etter straffeprosesslo­
-ven § 216 a. Dette innebærer at metoden som
-utgangspunkt kan benyttes i etterforskningen av
-alle lovbrudd som har en strafferamme på fengsel
-i ti år eller mer. Departementet anser dette for å
-være et riktig utgangspunkt, som sikrer at en så
-vidt inngripende etterforskningsmetode bare kan
-benyttes i saker som gjelder alvorlig kriminalitet.
-Utvalgets forslag innebærer videre at skjult
-kameraovervåking på privat sted – i likhet med
-kommunikasjonsavlytting – også kan benyttes i
-etterforskningen av visse særskilt angitte lov­
-brudd med lavere strafferamme enn fengsel i ti år.
-Forslaget medfører at skjult kameraovervåking på
-privat sted blant annet kan benyttes ved enkelte
-overtredelser av straffeloven 1902 kapittel 8 om
-forbrytelser mot statens selvstendighet og sikker­
-het og kapittel 9 om forbrytelser mot Norges
-statsforfatning og statsoverhode (straffeloven
-kapittel 17), samt ved narkotikaovertredelser,
-grov menneskesmugling og forsettlig eller uakt­
-som overtredelse av eksportkontrolloven. Depar­
-tementet er enig i at dette er lovbrudd som på
-grunn av sine samfunnsskadelige konsekvenser
-eller særlige etterforskningsmessige utfordringer,
-kan forsvare en adgang til også å kunne iverksette
-skjult kameraovervåking på privat sted.
-Som det fremgår av proposisjonen kapittel 7,
-foreslår departementet å utvide adgangen til å
-iverksette kommunikasjonsavlytting etter straffe­
-prosessloven § 216 a i noe større grad enn det som
-følger av utvalgets forslag. Etter forslaget skal kom­
-munikasjonsavlytting kunne benyttes i etterforsk­
-ningen av saker om overgrepsbilder av barn etter
-straffeloven § 311 (straffeloven 1902 § 204 a), fri­
-hetsberøvelse etter §§ 254 (straffeloven 1902 § 223)
-og simpel menneskehandel etter § 257 (straffe­
-loven 1902 § 224), samt om grov menneskesmug­
-ling etter utlendingsloven § 108 femte ledd. Etter
-departementets oppfatning tilsier de samme hensyn som begrunner bruk av kommunikasjonsavlyt­
-ting i disse sakstypene, at politiet også bør kunne
-
-[Side 168]
-
-168
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-iverksette skjult kameraovervåking på privat sted.
-Det vises for så vidt til drøftelsen i punkt 7.4, hvor
-kriminalitetskravet er inngående behandlet.
-12.6.3.3
-
-Øvrige vilkår
-
-I tillegg til kravet om skjellig grunn til mistanke
-om at det er begått en handling av en viss alvorlig­
-hetsgrad, foreslår departementet at skjult kamera­
-overvåking på privat sted bare skal kunne benyt­
-tes dersom det må antas at dette vil være av
-vesentlig betydning for å oppklare saken (indika­
-sjonskrav). Kravet innebærer at det må antas at
-overvåkingen på en kvalifisert måte vil være til
-hjelp for å avdekke de straffbare forholdene, sikre
-bevis osv. Det foreslås videre at metoden bare skal
-kunne benyttes dersom oppklaring ellers i vesent­
-lig grad vil bli vanskeliggjort (subsidiaritetskrav).
-Tilsvarende vilkår gjelder også for andre inngri­
-pende etterforskningsmetoder, som for eksempel
-personnær teknisk sporing etter straffeprosess­
-loven § 202 c, kommunikasjonsavlytting etter
-§ 216 a eller annen kommunikasjonskontroll etter
-§ 216 b og romavlytting etter § 216 m.
-Departementet har videre merket seg NRKs
-merknader knyttet til skjult kameraovervåking av
-redaksjonslokaler, og er enig i at pressens kildevern
-bør hensyntas ved utformingen av reglene om skjult
-kameraovervåking på privat sted. Ved lov 21. juni
-2013 nr. 86 ble straffeprosessloven §§ 216 c og 216
-m endret, for å sikre at reglene om kommunika­
-sjonskontroll og romavlytting respekterer pressens
-rett til kildevern. Det ble der innført et krav om sær­
-lige grunner for å tillate kommunikasjonskontroll
-overfor redaktører og journalister, og for å tillate
-romavlytting av redaksjonslokaler eller tilsvarende.
-Etter departementets syn bør samme begrensning
-gjelde i relasjon til skjult kameraovervåking av
-redaksjonslokale eller tilsvarende sted hvor redak­
-tør eller journalist fører samtaler av yrkesmessig
-art. Det vises for så vidt til begrunnelsen gitt i Prop.
-147 L (2012–2013) punkt 8 side 133 flg.
-
-12.7 Formelle krav
-Etter gjeldende rett treffes rettens avgjørelse om
-iverksettelse av skjult kameraovervåking på
-offentlig sted etter straffeprosessloven § 202 a ved
-beslutning. Metodekontrollutvalgets forslag til ny
-utforming av § 202 a medfører at avgjørelse om
-skjult kameraovervåking skal skje ved kjennelse,
-både ved overvåking på eller fra offentlig sted og
-overvåking på privat sted. Endringen er ikke nær­
-mere kommentert.
-
-2015–2016
-
-Oslo politidistrikt, med tilslutning fra Politi­
-direktoratet, mener rettens avgjørelse om skjult
-kameraovervåking på eller fra offentlig sted frem­
-deles bør skje ved beslutning:
-«En begjæring til retten etter bestemmelsens
-første ledd bør, som i dag, behandles som kon­
-torforretning. Denne fremgangsmåten har
-vært benyttet siden bestemmelsen ble innført
-ved lov 15. mars 1991 nr. 5, og vi kan ikke se at
-det er fremkommet vektige argumenter. Den
-mer omstendelige behandlingen med retts­
-møte, oppnevning av advokat i medhold av
-§ 100a m.v. savner etter vår mening tilstrekke­
-lig begrunnelse. Når det gjelder eventuell opp­
-nevning av 100a-advokat bemerkes at det ikke
-er et krav om noen bestemt mistenkt, for å
-kunne treffe beslutning etter dagens 202a
-(utkastet 202a, 1. ledd). Det kan være at politiet
-begjærer tillatelse til overvåkning av en offent­
-lig plass hvor det er mistanke om at det omset­
-tes narkotika eller tyvegods. I slike tilfeller vil
-det ikke være noen mistenkt som § 100a-advo­
-katen kan representere.»
-D e p a r t e m e n t e t har vurdert hvorvidt avgjø­
-relser om skjult kameraovervåking på eller fra
-offentlig sted skal treffes ved kjennelse, slik det føl­
-ger av utvalgets forslag. Dette er den alminnelige
-ordning ved de fleste andre typer skjulte tvangs­
-midler, slik som for eksempel personnær teknisk
-sporing etter straffeprosessloven § 202 c, kommu­
-nikasjonskontroll etter § 216 a eller § 216 b og
-romavlytting etter § 216 m. Disse tvangsmidlene
-skiller seg imidlertid fra skjult kameraovervåking
-på eller fra offentlig sted ved at det for sistnevnte
-ikke er krav om at mistanken skal rette seg mot
-en eller flere bestemte personer. Ettersom overvå­
-kingen skjer på sted som kan iakttas av enhver,
-må metoden også anses mindre inngripende enn
-andre skjulte tvangsmidler som er nevnt her. På
-denne bakgrunn er departementet enig med Oslo
-politidistrikt i at det er forsvarlig at tillatelse til å
-iverksette skjult kameraovervåking på eller fra
-offentlig sted også i fremtiden gis ved formløs
-beslutning.
-Adgangen til å iverksette skjult kameraover­
-våking på privat sted er ny og utgjør et mer inngri­
-pende tiltak enn overvåking på offentlig sted.
-Dette tilsier etter departementets vurdering at
-metoden kombineres med sterke rettssikkerhets­
-garantier. Departementet tiltrer derfor utvalgets
-forslag om at avgjørelser om skjult kameraover­
-våking på privat sted skal fattes ved kjennelse. I
-motsetning til ved formløs beslutning, er det krav
+Et eksempel på dette er *Gillan og Quinton mot Storbritannia,* 12. januar 2010 (nr. 4158/05). Saken dreide seg om bestemmelser i den britiske terrorlovgivningen som ga britiske politikonstabler vid kompetanse til å stoppe og ransake personer i det offentlige rom uten noe spesielt krav til mistanke. EMD anså ransakingen som et inngrep i retten til privatliv og konkluderte med at inngrepet ikke var «i samsvar med loven». Dette til tross for at tvangsmiddelbruken hadde grunnlag i nasjonal lov og at det var gitt en detaljert beskrivelser av hvordan ransakingen skulle foregå. Begrunnelsen var at kompetansen verken var tilstrekkelig begrenset eller underlagt tilstrekkelige rettssikkerhetsgarantier til å forhindre misbruk (avsnitt 87). Det forelå dermed en krenkelse av konvensjonen.
+
+Når det gjelder vilkåret om at inngrepet må forfølge et legitimt formål, nevner artikkel 8 (2) eksplisitt flere av hensynene bak behovet for avvergende og forebyggende tiltak. Disse er «den nasjonale sikkerhet», «offentlige trygghet», «å forebygge uorden eller kriminalitet» («prevention of disorder or crime») og «å beskytte andres rettigheter og friheter». Det kan ikke være tvil om at politiets og PSTs arbeid for å forhindre og forebygge alvorlig kriminalitet omfattes av formålet. Hovedinntrykket er at domstolen i liten grad prøver angitte formålsangivelser, se *Leander mot Sverige* (sak 9248/81) avsnitt 49.
+
+Det tredje vilkåret er at inngrepet må være «necessary in a democratic society», jf. artikkel 8 (2). Det må vurderes hvorvidt midlene som ble brukt var forholdsmessige sett i forhold til det legitime formålet. Det må i den forbindelse foretas en avveining mellom individets interesse etter artikkel 8 (1) og statens behov for å avverge eller forebygge kriminell aktivitet etter artikkel 8 (2). Se som eksempel *Murray mot Storbritannia,* 28. oktober 1994 (sak 14310/88) (storkammer) avsnitt 90 og 91. Saken gjaldt arrestasjonen av en kvinne som var mistenkt for å ha bidratt til finansiering av våpen til det amerikanske IRA. EMD uttalte følgende:
+
+BrøBrø«\[…\] the responsibility of an elected government in a democratic society to protect its citizens and its institutions against the threats posed by organised terrorism and the special problems involved in the arrest and detention of persons suspected of terrorist-linked offences \[…\] These two factors affect the fair balance that is to be struck between the exercise by the individual of the right guaranteed to him or her under paragraph 1 of Article 8 (art. 8-1) and the necessity under paragraph 2 (art. 8-2) for the State to take effective measures for the prevention of terrorist crimes (see, mutatis mutandis, the above-mentioned Klass and Others judgment, p. 28, para. 59).»
+
+Brø*Klass m.fl. mot Tyskland,* 6. september 1978 (nr. 5029/71) (plenum) dreide seg om fem tyske advokater som klaget på tysk lovgivning som ga myndighetene kompetanse til å overvåke deres post- og telefonkorrespondanse, uten plikt til å informere om overvåkningen etterpå. EMD uttalte (avsnitt 59):
+
+BrøBrø«The Court agrees with the Commission that some compromise between the requirements for defending democratic society and individual rights is inherent in the system of the Convention.»
+
+BrøDomstolen prøver i liten grad statenes vurdering av hvilke metoder som bør tillates for å bekjempe alvorlig kriminalitet. Statene er i så måte gitt en nokså vid skjønnsmargin. Likevel står ikke statene helt fritt, jf. *Klass m.fl. mot Tyskland* (avsnitt 49):
+
+BrøBrø«As concerns the fixing of the conditions under which the system of surveillance is to be operated, the Court points out that the domestic legislature enjoys a certain discretion. It is certainly not for the Court to substitute for the assessment of the national authorities any other assessment of what might be the best policy in this field. \[…\]
+
+Nevertheless, the Court stresses that this does not mean that the Contracting States enjoy an unlimited discretion to subject persons within their jurisdiction to secret surveillance. The Court, being aware of the danger such a law poses of undermining or even destroying democracy on the ground of defending it, affirms that the Contracting States may not, in the name of the struggle against espionage and terrorism, adopt whatever measures they deem appropriate.»
+
+BrøStatene har altså en skjønnsmargin i valg av ulike metoder for å ivareta offentlig sikkerhet, og dette omfatter bruk av tvangsmidler i avvergende og forebyggende øyemed. EMD har ikke avvist slik bruk av tvangsmidler i seg selv, se for eksempel *Gillan og Quinton mot Storbritannia* vist til ovenfor. Samtidig prøver domstolen nokså inngående om kompetansehjemlene er tilstrekkelig forutsigbare og tilgjengelige, herunder om det er etablert betryggende rettssikkerhetsgarantier.
+
+Europarådet vedtok 11. juli 2002 retningslinjer for kampen mot terrorisme innenfor rammen av menneskerettighetene («Guidelines on human rights and the fight against terrorism»). Retningslinjens fortale understreker at terrorisme undergraver menneskerettigheter og demokrati, og at statene har plikt til å beskytte personer innenfor deres jurisdiksjon mot terrorisme (punkt I). Dette bygger blant annet på at EMD i *Osman mot Storbritannia*, 28. oktober 1998 (nr. 23452/94) (storkammer) avsnitt 115 tolket EMK artikkel 2 slik at bestemmelsen «in certain well-defined circumstances» påla statene en positiv forpliktelse til å iverksette preventive tiltak for å beskytte ett individ fra et annet individs kriminelle handlinger. Retningslinjene vektlegger videre at også antiterror-tiltak må ha et presist lovgrunnlag og verken være vilkårlige eller diskriminerende (punkt III og II). Når det gjelder tiltak som griper inn i privatlivet til individer, fremhever retningslinjene at det må være mulig å prøve lovligheten av tiltakene for en domstol (punkt VI).
+
+BrøBrø**Andre lands rett**
+
+BrøBrø**Svensk rett**
+
+BrøI Sverige er utgangspunktet at bruk av skjulte tvangsmidler krever at det pågår etterforskning («förundersökning»), og i de fleste tilfelle forutsettes også at det foreligger skjellig grunn til mistanke mot personen som tvangsmiddelbruken retter seg mot, jf. Rättergångsbalken (1942:740) 27 kap. Det finnes imidlertid to egne lover som muliggjør bruk av skjulte tvangsmidler i avvergende og forebyggende øyemed. Dette er *lagen (2007:979) om åtgärder för att förhindra vissa särskilt allvarliga brott* og *lagen (2012:278) om inhämtning av uppgifter om elektronisk kommunikation i de brottsbekämpande myndigheternas underrättelseverksamhet*. Etter disse lovene er det ikke krav om at etterforskning pågår. Det finnes for øvrig enkelte bestemmelser som har til hensikt å forhindre lovbrudd i *lagen (1991:572) om särskild utlänningskontroll*, men denne kan kun legges til grunn i meget spesielle situasjoner og vil ikke behandles nærmere her.
+
+Loven fra 2007 regulerer bruk av hemmelig avlytting av elektronisk kommunikasjon, hemmelig overvåking av elektronisk kommunikasjon, hemmelig kameraovervåking og postkontroll for å forhindre lovbrudd, jf. 1 § og 4 §. Derimot kan hemmelig romavlytting ikke anvendes i preventivt øyemed.
+
+Det var tidligere krav om «särskild anledning att anta» at en person kommer til å utøve kriminell virksomhet som omfatter visse angitte lovbrudd. Det stiltes ikke krav til mistanke om et konkret lovbrudd, men etter praksis krevdes vanligvis en noenlunde konkretisert gjerning. Ved lovendring 9. desember 2014 ble vilkåret endret, slik at det nå er krav om «påtaglig risk för att» en person kommer til å utøve slik kriminell virksomhet. Dette ble blant annet begrunnet med at den dagjeldende ordlyd som regel forutsatte en noenlunde konkretisert gjerning, og at dette var å drive konkretiseringskravet for langt. I flere saker kunne en rekke ulike scenarier være tenkbare, og vilkåret burde derfor erstattes med et krav om risikobedømmelse, jf. Prop. 2013/14:237 side 105 flg. Denne skal være grunnet på faktiske omstendigheter, for eksempel uttalelser, trusler eller andre handlinger, og det er ikke tilstrekkelig med spekulasjoner eller allmenn bedømmelse. At det ikke lenger stilles krav om en spesifikk gjerning kan i enkelte saker forventes å medføre en noe lempeligere bruk av tvangsmidler i forebyggende øyemed, jf. proposisjonen side 107. Endringen trådte i kraft 1. januar 2015, og samtidig ble den tidsbegrensede loven gjort permanent, i tråd med forslag i betenkningen *Hemliga tvångsmedel mot allvarliga brott* (SOU 2012:44), jf. SFS 2014:1422.
+
+For at tvangsmiddelbruken skal kunne tillates må den kriminelle virksomheten innbefatte slikt lovbrudd:
+
+BrøBrø1. sabotasje,
+
+2\. mordbrann, allmenfarlig ødeleggelse, kapring, sjø-, luftfarts- eller flyplassabotasje,
+
+3\. opprør, væpnet trussel mot lovlig orden, lovbrudd mot medborgerlig frihet,
+
+4\. høyforræderi, krigsstiftelse, spionasje, grov uautorisert befatning med hemmelige opplysninger, grov ulovlig etterretningsvirksomhet,
+
+5\. forretningsspionasje,
+
+6\. terrorlovbrudd, grov terrorfinansiering, grovt brudd på loven om straff for offentlig oppfordring, rekruttering og opptrening til terrorlovbrudd og annen særlig alvorlig kriminalitet,
+
+7\. mord, drap, grov mishandling, kidnapping, ulovlig frihetsberøvelse, om hensikten er å påvirke offentlig organ eller journalister til å gjøre eller unnlate en handling eller å hevne en handling.
+
+BrøTvangsmiddelet må dessuten være av vesentlig betydning for å forhindre slik kriminalitet, jf. 5 §. Dette innebærer at det stilles et kvalitetskrav til de opplysninger tvangsmiddelet kan gi, samt at tvangsmiddelbruken er nødvendig. Det gjelder videre et proporsjonalitetskrav.
+
+Beslutning om bruk av tvangsmidler i avvergende øyemed treffes av Stockholms tingrett, etter begjæring fra påtalemyndigheten. I visse saker vil et offentlig ombud utpekes av retten for å ivareta integritetsinteresser. Påtalemyndigheten kan fatte beslutning om tvangsmiddelbruk i hastesaker, der det å gå til retten ville innebære en forsinkelse av vesentlig betydning for mulighetene til å forhindre den kriminelle virksomheten, jf. 6 a §.
+
+Loven av 2012 regulerer vilkårene for at politiet, Säkerhetspolisen og tollverket skal kunne innhente overvåkingsopplysninger om elektronisk kommunikasjon i sin etterretningsvirksomhet. Den opprinnelig tidsbegrensede loven ble, i tråd med forslag i betenkningen *Hemliga tvångsmedel mot allvarliga brott* (SOU 2012:44), gjort permanent fra 1. januar 2015, jf. SFS 2014:1422.
+
+De overvåkingsopplysninger som kan innhentes er opplysninger om meddelelser som i et elektronisk kommunikasjonsnett er overført til eller fra et telefonnummer eller annen adresse (men ikke innholdet i meddelelsen), hvilke elektroniske kommunikasjonsutrustninger som har befunnet seg innen et visst geografisk område, eller i hvilket geografisk område en viss elektronisk kommunikasjonsutrustning befinner eller har befunnet seg. Til forskjell fra 2007-loven gjelder det ikke et krav om at tvangsmiddelbruken retter seg mot en konkret person. Politiet kan for eksempel undersøke hvilke mobiltelefoner som har befunnet seg i et visst område ved et visst tidspunkt.
+
+Et vilkår, ved siden av proporsjonalitets- og behovsprinsippet, er at innhentingen er av særskilt betydning for å forebygge, forhindre eller oppdage kriminell virksomhet av angitt type, jf. 2 §. Videre er det krav at den kriminelle virksomheten som tvangsmiddelbruken retter seg mot gjelder lovbrudd som har en minimumsstraff på to år. Innhenting er imidlertid også tillatt ved visse særskilt angitte samfunnsfarlige lovbrudd innen Säkerhetspolisens ansvarsområde med en lavere minimumsstraff enn to år, jf. 3 §. Dette gjelder:
+
+BrøBrø1. sabotasje,
+
+2\. kapring, sjø-, luftfarts- eller flyplassabotasje,
+
+3\. lovbrudd mot medborgerlig frihet,
+
+4\. spionasje, grov uautorisert befatning med hemmelige opplysninger og grov ulovlig etterretningsvirksomhet,
+
+5\. grov terrorfinansiering, grovt brudd på loven om straff for offentlig oppfordring, rekruttering og opptrening til terrorlovbrudd og annen særlig alvorlig kriminalitet.
+
+BrøBeslutning fattes av de kriminalitetsbekjempende myndigheter, som skal underrette Säkerhets- och integritetsskyddsnämnden om beslutningen, jf. 4 § og 6 §. Tillatelse fra domstolen kreves først dersom opplysningene siden skal anvendes i en etterforskning, jf. 9 §.
+
+BrøBrø**Finsk rett**
+
+BrøI Finland ble ny Polislag 872/2011 sanksjonert 22. juli 2011. Loven trådte i kraft 1. januar 2014. Det følger av 1 kap. 1 § at bruk av tvangsmidler i forbindelse med etterforskning av lovbrudd reguleres av den nye Tvångsmedelslagen (806/2011), som trådte i kraft samme dag. Derimot reguleres bruken av hemmelige metoder for innhenting av informasjon med formål å forhindre, avsløre eller avverge risikoen for lovbrudd av ny Polislag 5. kap. Metodene omfatter blant annet teleavlytting, teleovervåking, innhenting av basestasjonsopplysninger, systematisk observasjon, fordekt innhenting av informasjon, teknisk avlytting (romavlytting) og optisk observasjon.
+
+Med forhindring av lovbrudd menes handlinger som skal forhindre lovbrudd, forsøk på lovbrudd og forberedelse til lovbrudd, når det ut fra iakttagelser av, eller annen informasjon om, en persons virksomhet finnes grunn til å anta at personen kommer til å gjøre seg skyldig i lovbrudd, samt handlinger som skal avbryte allerede påbegynte lovbrudd eller begrense skadevirkningen av lovbrudd, jf. 5. kap 1 §.
+
+Videre er det en generell forutsetning for bruk av hemmelige metoder for innhenting av informasjon at man med metoden kan antas å få informasjon som behøves for å forhindre, avsløre eller avverge risikoen for lovbrudd. Metoden må dessuten antas å være av vesentlig vekt for å kunne forhindre eller avsløre et lovbrudd, jf. 2 §. Utover dette finnes det særvilkår for bruk av de enkelte tvangsmidler i de påfølgende bestemmelsene, herunder kriminalitetskrav (strafferamme, eventuelt særskilt oppregnede straffebud), krav om hvilken myndighet som kan fatte beslutning, samt om tillatelsens varighet.
+
+For eksempel kan politiet i henhold til 5 § gis tillatelse til teleavlytting for å forhindre lovbrudd dersom personen avlyttingen vil rette seg mot på grunn av ytringer, trusler eller opptreden med grunn kan antas å gjøre seg skyldig i et av følgende lovbrudd: lovbrudd mot Finlands suverenitet, krigsstiftelse, landsforræderi, spionasje, avsløring av statshemmeligheter, ulovlig etterretningsvirksomhet, særskilte lovbrudd med terrorhensikt, forberedelse til terrorhandlinger, å lede en terroristgruppe, å fremme en terroristgruppes virksomhet, å gi terroropplæring, rekruttering til terror og finansiering av terror. Videre kan det gis tillatelse til teleavlytting dersom det er nødvendig for å avverge en alvorlig fare som umiddelbart truer liv og helse. Beslutning om bruk av teleavlytting treffes av retten, etter begjæring fra politiet, jf. 7 §. Tillatelse gis for inntil en måned av gangen.
+
+Videre kan politiet etter 8 § for å forhindre lovbrudd gis tillatelse til teleovervåking av en teleadresse eller teleterminalutrustning som innehas eller anvendes av en person som på grunn av ytringer, trusler, opptreden eller annet med grunn kan antas å gjøre seg skyldig i et av følgende lovbrudd: Lovbrudd der strengeste straff er fengsel i minst fire år, lovbrudd som begås ved bruk av teleadresse eller teleterminalutrustning og der strengeste straff er fengsel i minst to år, utnyttelse av personer til sexhandel, hallikvirksomhet, narkotikalovbrudd, forberedelse til lovbrudd som begås med terrorhensikt eller grove tollovbrudd. Videre kan det gis tillatelse til teleovervåking dersom det er nødvendig at dette utføres umiddelbart for å avverge en fare som truer liv og helse. Liknende vilkår gjelder ved innhenting av basestasjonsopplysninger, jf. 12 §. Beslutning om bruk av teleavlytting eller innhenting av basestasjonsopplysninger treffes av retten, etter begjæring fra politiet, jf. 10 § og 12 §. Tillatelse til bruk av teleavlytting gis for inntil en måned av gangen. Politiet har på nærmere vilkår hastekompetanse, men spørsmålet skal i så tilfelle bringes inn for retten snarest mulig og senest innen 24 timer.
+
+I henhold til 17 § kan politiet gis tillatelse til teknisk avlytting (herunder romavlytting) for å forhindre lovbrudd dersom personen avlyttingen vil rette seg mot på grunn av ytringer, trusler eller opptreden med grunn kan antas å gjøre seg skyldig i lovbrudd der strafferammen er fengsel i minst fire år, narkotikalovbrudd, forberedelse til lovbrudd med terrorhensikt og grove tollovbrudd. Avlyttingen kan utføres slik at den rettes mot sted som den mistenkte med sannsynlighet kan antas å befinne seg på eller besøke, samt i fengselsceller og lignende. Slik avlytting kan imidlertid ikke rettes mot fast bopel, jf. 17 § 2 mom. Det gjøres imidlertid unntak fra sistnevnte bestemmelse der det er nødvendig for at en politiaksjon trygt skal kunne gjennomføres eller dersom det kan avverge en overhengende fare som truer liv eller helse til den som gjenomfører aksjonen eller til den som skal pågripes eller beskyttes.
+
+BrøBrø**Dansk rett**
+
+BrøPolitiets adgang til å foreta inngrep i meddelelseshemmeligheten, overvåking, dataavlesing og forstyrrelse eller avbrytelse av radio- eller telekommunikasjon er regulert i retsplejelovens kapitel 71.
+
+Etter reglene i dette kapittelet kan politiet, når visse vilkår vedrørende blant annet kriminalitetens grovhet er oppfylt, for eksempel avlytte telefonsamtaler eller foreta romavlytting, jf. retsplejelovens § 780, stk. 1, nr. 1 og 2, og foreta fotografering eller overvåking ved hjelp av kikkert eller annet apparat av personer som befinner seg på et ikke fritt tilgjengelig sted, jf. retsplejelovens § 791 a. Det bemerkes at politiets fotografering eller overvåking av personer som befinner seg på et fritt tilgjengelig sted *ikke* anses som et tvangsinngrep.
+
+Ses det bort fra retsplejelovens § 791 c, som gir politiet adgang til å forstyrre eller avbryte radio- og telekommunikasjon i et område med henblikk på å *forebygge* visse former for særlig grov kriminalitet, herunder terrorisme, er det et krav for å anvende de tvangsinngrepene som er nevnt i retsplejelovens kapitel 71 at politiet har mistanke om at et straffbart forhold som forfølges av det offentlige *er begått*.
+
+Det kreves ikke at det straffbare forhold er *fullbyrdet*. Politiet har dermed også adgang til å foreta inngrep i meddelelseshemmeligheten mv. som ledd i etterforskning av et *straffbart* *forsøk*, hvis betingelsene for det for øvrig er oppfylt.
+
+Dansk rett åpner generelt for å straffe forsøkshandlinger i et videre omfang enn etter norsk rett. Ifølge straffeloven § 21 rammes «handlinger, som sigter til at fremme eller bevirke udførelsen af en forbrydelse», når denne ikke fullbyrdes, som forsøk. Forsøk er straffbart fra de første forberedende handlinger, dersom det foreligger fullbyrdelsesforsett. Det innebærer at politiet kan foreta etterforskning, og etter omstendighetene tvangsinngrep, så snart en gjerningsmann har begynt å forberede en forbrytelse som er undergitt offentlig påtale. Som et eksempel på politiets anvendelse av tvangsinngrep ved etterforskning av et straffbart forsøk, kan det vises til en dom fra Vestre Landsret avsagt 16. mai 2007 og gjengitt i Tidsskrift for Kriminalret 2007 side 593.
+
+I denne saken hadde en anonym informant henvendt seg til SKAT (som har ansvaret for oppkreving av toll, skatter, avgifter og gjeld til det offentlige i Danmark) og opplyst at en person A sammen med andre ville begå et ran av en pengetransport fra SKAT på en nærmere angitt dato. Påtalemyndigheten begjærte avlyttingstillatelse av en telefon som tilhørte A, noe byretten tillot. Retten anførte blant annet at mistanken om at A sammen med andre var i ferd med å planlegge et ran av en pengetransport fra SKAT var underbygget av opplysningene fra den anonyme informanten, men også av foreliggende opplysninger om hvor og når det ble transportert særlig mye penger fra SKAT. Retten fant at det var bestemte grunner til å anta at det ved bruk av As telefon ble gitt meddelelser til eller fra en person som var mistenkt for å planlegge et ran. Landsretten stadfestet byrettens avgjørelse.
+
+Reglene i retsplejeloven gjelder også for Politiets Efterretningstjenestes etterforskning, jf. § 6 i lov nr. 604 12. juni 2013 om Politiets Efterretningstjeneste (PET). Det som er nevnt ovenfor får også anvendelse på Politiets Efterretningstjenestes adgang til å bruke de tvangsinngrep som er nevnt i retsplejelovens kapitel 71.
+
+BrøBrø**Islandsk rett**
+
+BrøReglene om hemmelige tvangsmidler finnes i straffeprocessloven kapitel 11 om telefonavlytting og andre tilsvarende inngrep, jf. §§ 80 til 85. Metodene omfatter blant annet telefonavlytting, kommunikasjonsavlytting og -opptak, lydopptak, kameraovervåking, observasjon, samt teknisk sporing av bil og på person.
+
+Det er en forutsetning at inngrepet skjer under etterforskningen av en sak. Videre må inngrepet antas å gi opplysninger som anses for å være av vesentlig betydning for etterforskningen. For kommunikasjonskontroll og kommunikasjonsavlytting eller -opptak er det dessuten et vilkår at saken gjelder lovbrudd som kan straffes med fengsel i åtte år eller mer, eller at vektige samfunnsinteresser eller private interesser gjør det påkrevet. Beslutning om slike inngrep treffes av retten ved kjennelse for en periode på inntil fire uker av gangen.
+
+Island har ikke spesielle regler om bruk av hemmelige tvangsmidler i avvergende eller forebyggende øyemed. Tvangsmidler kan altså bare benyttes under etterforskning, og dette forutsetter at det er «rimelig formodning om, at et strafbart forhold er begået», jf. straffeprocessloven 7. kapitel § 52. Forsøk er imidlertid straffbart, jf. straffeloven 3. kapitel § 20, og dette betyr at også forberedelser av lovbrudd etterforskes. Et vilkår er at det foreligger en «handling, der fremmer eller bevirker udførelsen af en forbrydelse». Det er mulig å få domstolsavgjørelse om bruk av tvangsmidler ved etterforskningen av forsøkshandlingen, og i slik forstand kan det sies at hemmelige tvangsmidler også benyttes for å hindre at den endelige forbrytelsen begås.
+
+BrøBrø**Tvangsmiddelbruk i avvergende øyemed**
+
+BrøBrø**Innsnevring av de alminnelige vilkår**
+
+BrøBrø*Gjeldende rett*
+
+BrøBrø*Grunnvilkåret – som ledd i etterforskning*
+
+BrøDet fremgår av § 222 d at tvangsmiddelbruk i avvergende øyemed må skje *som ledd i etterforskning*. Da utvalget stiller spørsmål om etterforskningsbegrepet er tilstrekkelig klart, finner departementet grunn til å presisere innholdet nærmere.
+
+Det avgjørende for om etterforskning skal innledes er om det er «rimelig grunn til å undersøke om det foreligger straffbart forhold», jf. § 224 første ledd. Justisdepartementet uttalte i Ot.prp. nr. 60 (2004–2005) punkt 4.5.2 side 42 at grensen mellom etterforskning og annen politivirksomhet bør trekkes opp med utgangspunkt i retningslinjene i Riksadvokatens rundskriv nr. 3/1999 (Etterforsking). Rundskrivet kan langt på vei sies å være et resultat av den såkalte Furre-saken, jf. «Riksadvokatens gjennomgang av overvåkningstjenestens henvendelser til tyske myndigheter om opplysninger fra Stasi-arkivene» 29. april 1997. Her kom skillet mellom etterforskning og forebygging på spissen. Avgrensningen av etterforskningsbegrepet har særlig betydning for hvem som har ansvar og instruksjonsmyndighet – Riksadvokaten eller Justisdepartementet – og hvilke regler som gjelder for virksomheten – straffeprosessloven og påtaleinstruksen eller politiloven og forvaltningsloven. En av de klare konklusjonene en kunne trekke av Furre-saken, var at det var påtalemyndigheten ledet av Riksadvokaten som hadde ansvaret for den virksomheten som betegnes som etterforskning, og at Justisdepartementet ikke skulle instruere i enkeltsaker.
+
+Det følger av rundskrivet at en virksomhet er å anse som etterforskning hvis siktemålet er å avklare om et straffbart forhold finner eller har funnet sted. Særlige spørsmål oppstår når politiets virksomhet har flere formål, for eksempel at politiet samtidig som det undersøker om et straffbart forhold er begått, forsøker å stanse eller avverge nye straffbare forhold. I Ot.prp. nr. 60 (2004–2005) punkt 4.5.2 side 42–43 slås det fast at dersom det først er åpnet etterforskning, vil politiets bruk av tvangsmidler måtte anses som del av etterforskningen, selv om hovedformålet i en bestemt situasjon er å stanse eller avverge en straffbar handling, noe som ble presisert i § 226 første ledd bokstav c ved endringslov 17. juni 2005 nr. 87. Dette er blitt mer praktisk etter hvert som flere handlinger er gjort straffbare på forberedelsesstadiet, jf. for eksempel straffeloven §§ 131 tredje ledd, 133, 136 og 136 a (straffeloven 1902 §§ 147 a fjerde og femte ledd, 147 c og 147 d).
+
+I juridisk teori synes enkelte forfattere å legge til grunn at § 226 første ledd bokstav c innebærer en betydelig utvidelse av politiets og påtalemyndighetens kompetanse til å foreta etterforskning, og det skilles mellom etterforskning med oppklaringsformål «når det er rimelig grunn til å undersøke om det foreligger straffbart forhold» etter § 224 første ledd og «preventiv» etterforskning etter § 226 første ledd bokstav c, jf. Jo Hov, Rettergang II (Oslo, 2010) side 721. Tilføyelsen av § 226 første ledd bokstav c var imidlertid ikke ment å virke inn på forståelsen av § 224 om når etterforskning skal iverksettes, jf. merknad til bestemmelsen i Ot.prp. nr. 60 (2004–2005) side 151. Regelen i § 226 første ledd bokstav c angir kun et legitimt etterforskningsformål som gir grunnlag for informasjonsinnhenting etter at det er satt i verk etterforskning, jf. Riksadvokatens høringsuttalelse inntatt i Ot.prp. nr. 60 (2004–2005) punkt 4.4 side 38–39. Vilkårene for å sette i gang etterforskning etter § 224 må således være til stede.
+
+Etterforskning kan iverksettes når det er «rimelig grunn til å undersøke» om det foreligger et straffbart forhold. Riksadvokaten angir tre sentrale momenter i den skjønnsmessige vurderingen som denne standarden åpner for, jf. rundskrivet punkt 3, nærmere bestemt *sannsynlighet*, *proporsjonalitet* og *saklighet*. I denne vurderingen inngår en bedømmelse av graden av sannsynlighet eller mulighet for at det foreligger et straffbart forhold. Hvilken sannsynlighet som bør kreves, vil særlig variere med hvor alvorlig det mulige lovbruddet er. Om dette heter det i Ot.prp. nr. 60 (2004–2005) punkt 4.5.3 side 43–44:
+
+BrøBrø«At det ikke oppstilles noe mistankekrav for å iverksette etterforsking, betyr uansett ikke at politiet står fritt til å foreta etterforskingsskritt. Sannsynligheten for at det er begått en straffbar handling fremheves også i riksadvokatens rundskriv nr. 3/1999 som ett av tre sentrale momenter i vurderingen av om det er «rimelig grunn» til å foreta etterforsking, jf straffeprosessloven § 224. Dersom det dreier seg om mindre alvorlige straffbare handlinger, bør det derfor stilles krav om en viss sannsynlighet om at den straffbare handlingen begås eller er begått før etterforsking iverksettes, i hvert fall om etterforskingen vil rette seg mot en bestemt person. På den annen side må etterforsking kunne iverksettes på grunnlag av opplysninger om at noen er i ferd med å begå eller har begått en svært alvorlig straffbar handling, selv om sannsynligheten for at det er hold i opplysningene er meget liten. Etter departementets syn er dette en fornuftig avveining av de kryssende hensynene som gjør seg gjeldende på området. \[...\]»
+
+BrøDet vil således kunne være grunnlag for å iverksette etterforskning både i situasjonen der det er rimelig grunn til å undersøke om et lovbrudd *er begått*, *begås* og der noe er *i ferd med å begås* – det siste dersom handlingen er av svært alvorlig karakter, slik at proporsjonalitetsvurderingen tilsier at det kreves en lavere sannsynlighetsgrad. I Bjerke/Keiserud/Sæther, Straffeprosessloven kommentarutgave Bind II (4. utgave, Oslo 2011) side 829 innlemmes også den siste situasjonen, jf. også Auglend, Mæland mfl., Politirett (Oslo 1998) side 296, der det legges til grunn at man er i etterforskning dersom forebyggende virksomhet går over i en konkret fase ved at det avdekkes opplysninger om at bestemte straffbare handlinger planlegges utført.
+
+BrøBrø*Nærmere om sammenhengen mellom lovbrudd som gir grunnlag for etterforskning og lovbruddet som søkes avverget*
+
+BrøSom oftest vil det lovbrudd som gir grunnlag for etterforskning være et annet lovbrudd enn det som den skjulte metodebruken har til hensikt å avverge. Et typisk eksempel er at det er rimelig grunn til å undersøke om det er begått en straffbar forberedelseshandling, samtidig som det planlegges å begå en mer alvorlig straffbar handling som nevnt i § 222 d. Mer presist kan det være rimelig grunn til å undersøke om noen har inngått forbund om å begå terrorhandling, jf. straffeloven 1902 § 147 a fjerde jf. første ledd (straffeloven §§ 133 første ledd jf. 131), eller satt seg i besittelse av sprengstoff, jf. straffeloven 1902 § 161 (straffeloven § 190), og som ledd i denne etterforskningen kan det så bli aktuelt å avverge selve terrorhandlingen, jf. straffeloven 1902 § 147 a (straffeloven § 131).
+
+Det er imidlertid ikke oppstilt noe krav om tilknytning mellom forholdet som gir grunnlag for å iverksette etterforskning og forholdet som søkes avverget, jf. Ot.prp. nr. 60 (2004–2005) punkt 6.2.4 side 67. Tvangsmidler vil dermed kunne brukes i avvergende øyemed i alle tilfeller hvor det allerede er innledet etterforskning mot en person og det kommer frem opplysninger om at det planlegges en straffbar handling som nevnt i § 222 d.
+
+Det stilles heller ikke noe uttrykkelig krav om at det er samme person som er gjenstand for den opprinnelige etterforskningen, som planlegger å begå den straffbare handlingen som ønskes avverget. Men uttrykket «som ledd i etterforsking» tilsier at personen som etterforskes og personen som et skjult tvangsmiddel retter seg mot, begge har en viss tilknytning til saken som etterforskes. Det vil for eksempel kunne brukes tvangsmidler i avvergende øyemed hvor det er innledet etterforskning mot en person i et kriminelt miljø, og det viser seg at andre personer i samme miljø planlegger en straffbar handling som nevnt i bestemmelsen.
+
+Det er heller ikke noe vilkår at det allerede er innledet etterforskning – verken på person- eller saksnivå – når en får holdepunkter for at noen kommer til å begå en handling som rammes av et av straffebudene som er regnet opp i § 222 d. Som det fremgår av Ot.prp. nr. 60 (2004–2005) punkt 4.5.3 side 44 vil det – «når det først er grunnlag for å anvende tvangsmidler med hjemmel i den nye § 222 d – normalt også \[…\] være grunn til å mistenke noen for å ha begått en straffbar forberedelseshandling». Særlig aktuell er trolig straffeloven § 198 (straffeloven 1902 § 162 c), som setter straff for den som inngår forbund med noen om å begå en straffbar handling som ledd i virksomheten til en organisert kriminell gruppe. Dersom det foreligger informasjon som gir rimelig grunn til å tro at noen kommer til å begå en terrorhandling, vil det særlig kunne være rimelig grunn til å undersøke om straffeloven § 131 tredje ledd (straffeloven 1902 § 147 a femte ledd) er overtrådt.
+
+Et neste spørsmål er om det – dersom det er åpnet etterforskning fordi en har fått signaler om at noe alvorlig er i ferd med å begås – vil kunne tas i bruk tvangsmidler etter § 222 d for å avverge *samme* handling. Eller sagt på en annen måte: Er det nødvendig at det dreier seg om avverging av et *annet* straffbart forhold enn det som lå til grunn for at etterforskning ble iverksatt? I Bjerke/Keiserud/Sæther: Straffeprosessloven kommentarutgave Bind II (4. utgave, Oslo 2011) side 794 gis det uttrykk for at det må være rimelig grunn til å undersøke om det foreligger et annet straffbart forhold enn det som den skjulte metodebruken har til hensikt å avverge. Det synes å forutsette at selv i saker der hovedformålet med etterforskningen er å avverge en straffbar handling, må det altså også være grunn til å tro at det allerede foreligger et annet straffbart forhold. I kommentarutgaven på side 795 heter det videre:
+
+BrøBrø«Hvor stor selvstendig betydning vilkåret om igangsatt etterforsking har, vil for en stor del bero på hva slags straffbar handling som søkes avverget. Er det holdepunkter for at noen vil komme til å begå en terrorhandling, vil det som regel også være rimelig grunn til å undersøke om en (annen) straffbar handling er begått, ettersom handlinger som forbereder terrorhandlinger i vid utstrekning er kriminalisert. Dette kan stille seg annerledes for enkelte av de andre lovbruddene som kan avverges med hjemmel i § 222d, for eksempel organisert grov narkotikaforbrytelse, der det ikke er like «nødvendig» å bryte andre straffebestemmelser først.»
+
+BrøSpørsmålet kommer ikke så ofte på spissen, siden de fleste forberedelseshandlinger til de alvorlige lovbruddene som ramses opp i § 222 d første ledd selv er kriminalisert. Det vil derfor være grunnlag for å undersøke om det foreligger et annet lovbrudd, for eksempel at det er inngått forbund om terror eller drap etc. For enkelte av straffebudene som er regnet opp i § 222 d annet ledd, er det imidlertid ikke like opplagt at det – fordi det er grunn til å tro at noen kommer til å begå en slik straffbar handling – normalt også vil være rimelig grunn til å undersøke om det allerede foreligger et annet straffbart forhold.
+
+Departementet vil imidlertid her slå fast at det etter gjeldende rett *ikke* kan oppstilles noe krav om at det må foreligge et annet straffbart forhold enn det som den skjulte metodebruken har til hensikt å avverge. Et slikt krav kan ikke utledes av ordlyden i § 222 d – «som ledd i etterforsking» – og det finnes heller ikke klare holdepunkter for en slik forståelse i forarbeidene. Tvert i mot er det uttalelser der som kan tas til inntekt for motsatt syn, blant i Ot.prp. nr. 60 (2004–2005) punkt 6.2.4, der det heter:
+
+BrøBrø«Hovedformålet med den nye § 222 d er å gi politiet et klart lovmessig grunnlag for å anvende selv de mest inngripende etterforskingsmetodene i saker hvor dagens hjemler for bruk av tvangsmidler ikke er anvendelige, men hvor det er av stor betydning å avverge en straffbar handling. For departementet har det vært særlig viktig å gjøre politiet bedre i stand til å avdekke planer om forbrytelser som vil kunne ha uopprettelige skadevirkninger, for derved å stå bedre rustet til å avverge forbrytelsene. Åpenbare eksempler er terroraksjoner av den art som i de senere år har funnet sted i New York, i Madrid og på Bali. I slike situasjoner er det viktigste å avverge selve handlingen. Dersom en aksjon av denne typen først er gjennomført, er dødsfall og omfattende menneskelige lidelser ofte ikke til å unngå.»
+
+BrøDet er nærliggende å anta at formuleringen i rettsteorien beror på en misforståelse og skyldes det faktum at etterforskning *typisk* iverksettes fordi et lovbrudd antas å være begått, slik at det naturlig dreier seg om andre forhold. Men dette stiller seg annerledes i situasjonen der politiet, uavhengig av pågående etterforskning, har fått tips om fremtidig alvorlig kriminalitet og det således er rimelig grunn til å undersøke om noe kan være i ferd med å begås.
+
+BrøBrø*Utvalgets forslag*
+
+BrøEt samlet utvalg mener at det er behov for å klargjøre og foreta en viss innsnevring av de alminnelige vilkårene for avvergende tvangsmiddelbruk etter § 222 d, jf. utredningen punkt 22.3.1 side 231. Dette begrunnes blant annet med at bestemmelsen gir hjemmel for vidtgående inngrep i enkeltmenneskers personvern. I slike tilfeller stiller EMK artikkel 8 nr. 2 et kvalifisert krav til inngrepets hjemmelsgrunnlag. Lovgiver bør dessuten uansett tilstrebe at inngrepshjemler blir formulert så klart som mulig. Som avgrensningskriterium foreslår utvalget et vilkår om at det som ledd i forberedelsen til den handling som søkes avverget, allerede er begått en straffbar handling. Utvalget uttaler at dette samtidig vil kunne avhjelpe de problemene som bestemmelsen, etter utvalgets flertalls oppfatning, reiser med hensyn til Grunnloven § 102, se kapittel 5.1.
+
+Mens det er tydelig angitt i § 222 d hvilke straffbare handlinger som kan søkes avverget ved hjelp av tvangsmiddelbruk, er tilleggsvilkåret «som ledd i etterforsking» etter utvalgets syn ikke klart nok til å fungere som avgrensingskriterium for bruk av skjulte tvangsmidler. Utvalget viser til at det de senere årene har vært omdiskutert hva som ligger i begrepet etterforskning. Selv om det har skjedd en viss avklaring av dette spørsmålet, mener utvalget det bør stilles mer presise vilkår for å bruke skjulte tvangsmidler enn det som kreves for å åpne etterforskning. Utvalget er av den oppfatning at det reelle behovet for tvangsmidler i avvergende øyemed er størst og mest berettiget i tilfeller der det allerede i forbindelse med forberedelsen av den handling som søkes avverget er foretatt en straffbar handling.
+
+I utvalgets merknad til den foreslåtte bestemmelse heter det:
+
+BrøBrø«Den viktigste endringen er at det skal kreves rimelig grunn til å tro at noen som ledd i forberedelsen av den handling som søkes avverget allerede har foretatt en straffbar handling som kan medføre fengselsstraff. Sammenlignet med det nåværende vilkåret «som ledd i etterforskning» stilles dermed et tydeligere krav til konkret mistanke om en straffbar handling og et tydeligere krav til sammenheng mellom denne og den forbrytelsen som søkes avverget. Fordi bruk av tvangsmidler på dette grunnlaget nødvendigvis vil skje som ledd i etterforsking, slik dette begrepet er definert i straffeprosessloven § 224, trenger dette ikke lenger sies uttrykkelig i lovteksten.»
+
+BrøUtvalget anfører at det er ønskelig å kreve en tydeligere tilknytning mellom den begåtte og den planlagte, straffbare handlingen. Utvalget mener det er særlig praktisk at det er mistanke om at noen allerede har avtalt å begå en alvorlig forbrytelse, siden det å inngå et såkalt «forbund» er straffbart ved de fleste av de forbrytelsestypene som straffeprosessloven § 222 d gir hjemmel for å avverge. Det uttales i den sammenheng:
+
+BrøBrø«Vilkåret om at den straffbare handling som anses begått må være foretatt «som ledd i forberedelsen av» den forbrytelse som søkes avverget, medfører et tydeligere krav til sammenheng mellom det som allerede er gjort og det som forventes å skje i fremtiden. En slik sammenheng vil være til stede der det er rimelig grunn til å tro at noen har utført den straffbare handlingen med forsett om enten alene, sammen med andre eller ved hjelp av andre å fullføre en slik alvorlig forbrytelse som i medhold av § 222d kan søkes avverget. Dette vil typisk være tilfellet der et såkalt formelt forberedelsesdelikt antas å være overtrådt. Det vil si tilfeller der det aktuelle straffebudet er formulert slik at det tydelig går frem at det dreier seg om forberedelse til en annen (og mer alvorlig) forbrytelse. Et typisk eksempel er straffeloven § 233 a om «å inngå forbund med noen om å begå en handling som nevnt i § 231 eller § 233». Et annet eksempel er anskaffelse av skytevåpen eller sprengstoff i den hensikt å begå en forbrytelse som nevnt i § 222d, jf. straffeloven § 161.»
+
+BrøDet bør etter utvalgets syn ikke stilles krav om at det straffebud som allerede er overtrådt formelt sett fremstår som et forberedelsesdelikt. Det avgjørende bør være om den straffbare handling etter gjerningspersonenes forsett inngår som ledd i forberedelsen av den svært alvorlige handlingen som politiet søker å avverge. I merknaden uttaler utvalget:
+
+BrøBrø«Vilkåret «som ledd i forberedelsen av» vil imidlertid også kunne være oppfylt der den regel som antas overtrådt fremstår som et helt selvstendig straffebud, for eksempel tyveri av et våpen eller et annet redskap. I slike tilfeller vil det avgjørende være om denne straffbare handling etter gjerningspersonens forsett antas å inngå som ledd i forberedelsen av en slik alvorlig forbrytelse som nevnes i § 222d første eller annet ledd. Det betyr at det må foretas en konkret vurdering av hva som på tidspunktet for den straffbare handling har vært den eller de aktuelle personene sine videre planer. En slik vurdering vil ha mye til felles med den bedømmelsen av personens gjennomføringsplan som må foretas der det er tvil om forsøkets nedre grense er passert. Det innebærer at vilkåret ikke vil være oppfylt dersom fullbyrdelsesforsettet med hensyn til den forbrytelse som søkes avverget først inntrer etter at den begåtte forbrytelse er avsluttet. Gjerningspersonen begynner for eksempel å forberede en terrorhandling og finner ut at han vil gjøre bruk av en gjenstand som han tidligere har stjålet (uten å ha terrorplaner). I et slikt tilfelle er det ikke tilstrekkelig nær sammenheng mellom tyveriet og den forbrytelse som søkes avverget.»
+
+BrøUtvalgets flertall uttaler at forslaget samtidig vil kunne avhjelpe de problemene som bestemmelsen i dag reiser i relasjon til Grunnloven § 102, se kapittel 5.1. Utvalgets flertall viser til at både Høgberg/Stub og Husabø har kommet til at § 222 d er for vid til å tilfredsstille unntaket for «kriminelle Tilfælde» i Grunnloven § 102. Det anføres at vilkåret om at bruken av tvangsmiddelet må skje «som ledd i etterforsking» ikke stiller et tilstrekkelig mistankekrav og heller ikke et tilstrekkelig krav til sammenheng mellom den straffbare handling det må være mistanke om er begått og den straffbare handling som søkes avverget.
+
+BrøBrø*Høringsinstansenes syn*
+
+BrøFlertallet av de høringsinstanser som har uttalt seg om utvalgets forslag om klargjøring av vilkårene for bruk av tvangsmidler i avvergende øyemed, gir sin tilslutning til forslaget.
+
+*Datatilsynet* støtter utvalgets vurdering om at det må legges til grunn at Grunnloven § 102 er til hinder for ransaking og romavlytting i private hjem, i avvergende og forebyggende øyemed. Også *Norsk forening for kriminalreform (KROM)* slutter seg til flertallets vurdering på dette punkt, men er likevel uenig i flertallets vurdering av mistankekravet, jf. nedenfor i punkt 13.4.2.3.
+
+*Advokatforeningen* støtter det samlede utvalgs forslag til innsnevring og presisering av straffeprosessloven § 222 d om bruk av tvangsmidler i avvergende øyemed, men tar ikke eksplisitt stilling til om bestemmelsen går lenger enn det Grunnloven § 102 tillater. Heller ikke uttalelsen fra *Forsvarergruppen av 1977* berører dette spørsmålet uttrykkelig, men også her tiltres i utgangspunktet anbefalingen om å klargjøre og foreta en viss innsnevring av de alminnelige vilkår for bruk av bestemmelsen.
+
+*Oslo politidistrikt* er enig i at den nye utformingen av bestemmelsen gjør den klarere enn slik den lyder i dag. Dette gjelder særlig med hensyn til vilkåret om at tvangsmiddelbruken må skje som ledd i etterforskning.
+
+*Oslo statsadvokatembeter* sier seg enig i flertallets vurderinger, men gir samtidig uttrykk for at utvalget i for liten grad har vektlagt de legislative hensyn som bør være sentrale i dag. Statsadvokatembetet uttaler i den sammenheng blant annet følgende:
+
+BrøBrø«Den reelle begrunnelse må være at individene skal ha et materielt vern for sitt privatliv og at dette må være utgangspunktet ved fortolkningen. Dette prinsipp er også uttrykt i E.M.K. art 8, som fastslår at alle har krav på respekt for sitt privatliv, familieliv og korrespondanse. Et tilvarende utgangspunkt har man lagt til grunn for forståelsen av 4. grunnlovstillegg i den amerikanske forfatning. Dette innebærer rimeligvis ikke at dette vernet kan være absolutt. En slik løsning vil gjøre håndhevning av lovgivningen ganske umulig.
+
+Ordlyden i Grunnloven § 102 forbyr ransakning av hus bortsett fra slike som skjer i forbindelse med straffesaker. Det sier seg selv at en nesten 200 år gammel og meget knapt formulert grunnlovstekst ikke kan fortolkes strengt etter ordlyden. Dette gjelder særlig fordi det knapt finnes forarbeider, og om slike skulle finnes må de ha nokså begrenset vekt når de skal anvendes i forhold til dagens virkelighet. Som ellers ved fortolkning av grunnlovens bestemmelser må tolkningen baseres på en avveining av ulike og delvis motstridende hensyn. Ved forståelsen av Grunnloven § 102 blir det forholdet mellom hensynet til privatlivets fred og samfunnets behov, for å sikre en rimelig effektiv etterlevelse av lovgivingen, som bør være det sentrale element i tolkningen.»
+
+Brø*PST* uttaler at utvalgets forslag på dette punkt i hovedsak er i overensstemmelse med den praksis som over tid har vært fulgt i PST, og at PST således isolert sett ikke har innvendinger til forslaget om å klargjøre vilkårene. PST tar imidlertid ikke uttrykkelig stilling til spørsmålet om grunnlovsstrid og uttaler følgende:
+
+BrøBrø«PST legger til grunn at Stortinget ved behandlingen av endringen av politiloven § 17d og straffeprosessloven § 222d i 2005, foretok en grundig vurdering nå av alle spørsmål knyttet til endringene. PST finner det vanskelig å foreta en ny vurdering nå kun basert på en ny teoretisk gjennomgang av det samme kildemateriale lovgiver den gang hadde tilgang til. Vi finner i tillegg at grunnlovmessigheten av eksisterende lovgivning vanskelig kan være gjenstand for en alminnelig høring. Vi finner det derfor riktig å overlate vurderingen av dette spørsmålet til departementets lovavdeling, eventuelt avgjørelse av Høyesterett.»
+
+BrøPST har i ettertid uttrykt uro overfor departementet over de snevre rammene som utvalgets forslag setter, og at det ligger flere hindringer her som kan gjøre det vanskelig for PST å kunne avverge alvorlige lovbrudd. Også *Det nasjonale statsadvokatembetet* har gitt uttrykk for slik uro i ettertid.
+
+*Riksadvokaten* og *Østfold politidistrikt* sier seg uenig i flertallets fortolkning av Grunnloven § 102. Riksadvokaten legger, i likhet med utvalgets mindretall, til grunn at bruk av tvangsmidler i avvergende eller forebyggende øyemed omfattes av uttrykket «i kriminelle Tilfælde». Riksadvokaten gir uttrykk for at flertallets fortolkning av dette uttrykket har nokså usikker rettskildemessig støtte, og viser blant annet til at ordlyden i § 102 ikke synes å være til hinder for at bestemmelsen tolkes slik at det er nok at de aktuelle undersøkelsene tar sikte på å forebygge eller avverge kriminalitet:
+
+BrøBrø«Preposisjonsbruken (i kriminelle tilfeller) kan således forstås som en rent tematisk henvisning til kriminalitetsbekjempelse, uten at det innebærer et særskilt krav om at grensen for det straffbare må være overtrådt. Etter riksadvokatens syn bør en være tilbakeholden med å innfortolke skranker i Grunnloven som etter alt å dømme lå utenfor intensjonsdybden hos Eidsvollsfedrene ved valg av formulering, og som ordlyden på ingen måte tvinger til. Ikke minst gjelder det ved bedømmelsen av typetilfeller grunnlovskonsipistene neppe hadde i tankene.»
+
+BrøRiksadvokaten kan heller ikke se at de hensyn som gjør seg gjeldende tilsier at det bør innfortolkes et krav om at det allerede må være begått straffbare handlinger:
+
+BrøBrø«Det ser ut til å være ubestridt at Grunnloven § 102 tar sikte på å verne mot *vilkårlige* og *uforholdsmessige* inngrep i borgernes hjem. De krav som dermed må stilles til saklighet, sannsynlighet og forholdsmessighet, kan vanskelig sies å være uløselig knyttet til om straffbare handlinger allerede er begått, blir begått eller vil bli begått: Det kan foreligge sikre holdepunkter for at en alvorlig straffbar handling vil bli begått, uten at en har indikasjoner på at noe straffbart allerede har funnet sted. Den forståelse som er lagt til grunn av utvalgsflertallet, innebærer at grunnlovsvernet i stor grad avhenger av hvorvidt forberedelseshandlinger er gjort straffbare – et i prinsippet rent formelt kriterium. En slik forståelse kan skape et uheldig press i retning av å kriminalisere forberedelseshandlinger i større grad enn det som måtte være ønskelig ut fra strafferettslige overveielser. Et beslektet hensyn er at en streng forståelse av grunnloven på dette punkt – med en tilsvarende begrensning av hjemmelsgrunnlaget for avvergende (og forebyggende) metodebruk – vil kunne ha som en nokså påregnelig konsekvens at det oppstår situasjoner hvor en tvinges til å gjøre bruk av nødrett. Det er selvsagt ikke heldig.
+
+Heller ikke faren for *feiltreff* kan stille seg prinsipielt og systematisk forskjellig for forebyggende, avvergende og oppklarende virksomhet. Selv om begåtte og fremtidige hendelser prinsipielt kan sies å ha ulik status, stilles man i det praktiske liv for begge typer bedømmelsessituasjoner overfor fragmentert informasjon av vekslende karakter, og der fremgangsmåten for å ta stilling ikke er vesentlig forskjellig for bevisvurderinger og prognoser. Vurderingenes treffsikkerhet avhenger mer av hvilke krav som stilles til informasjonens kvalitet og sannsynlighetsgrad enn av om vurderingstemaet er hendelser i fortid eller fremtid.
+
+Det er videre ikke opplagt at faren for misbruk – i betydningen metodebruk uten at vilkårene er oppfylt eller med et annet reelt siktemål enn det som er anført som begrunnelse – er større ved undersøkelser rettet mot straffbare handlinger under oppseiling enn ved tilsvarende undersøkelser rettet mot allerede begått kriminalitet. Formentlig har det større betydning hvilke krav som stilles til objektive holdepunkter for mistanke, samt hvilke regler som gjelder for bruk av den informasjon som innhentes.»
+
+BrøRiksadvokaten støtter ikke en innsnevring av adgangen til avvergende metodebruk på en slik måte som utvalget foreslår. Det er etter Riksadvokatens oppfatning ikke hensiktsmessig å fjerne henvisningen til at tvangsmiddelbruken må skje «som ledd i etterforsking» og sette inn et vilkår om at det «er rimelig grunn til å tro» at det «som ledd i forberedelsen allerede er begått en straffbar handling som kan medføre fengselsstraff». Riksadvokaten mener det er pedagogisk gunstig å beholde begrepet, på grunn av det grunnleggende skille mellom etterforskning og forebygging. Det uttales i den sammenheng:

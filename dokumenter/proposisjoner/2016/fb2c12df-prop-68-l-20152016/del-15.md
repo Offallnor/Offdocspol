@@ -1,1148 +1,228 @@
-# Prop. 68 L (2015–2016), del 15 av 29 (side 148–158)
+# Prop. 68 L (2015–2016), del 15 av 27
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2016/fb2c12df-prop-68-l-20152016.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-68-l-20152016/id2479232/
 - Original-PDF: https://www.regjeringen.no/contentassets/d2bd4dc7fdb44d90b0d094f4d415b981/no/pdfs/prp201520160068000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 148]
-
-148
-
-Prop. 68 L
-
-2015–2016
-
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-Advokatforeningen og Politidirektoratet har ikke
-merknader til utvalgets kapittel 19 om utleverings­
-pålegg, ransaking, beslag, postbeslag og postkon­
-troll. Oslo statsadvokatembeter er enig i utvalgets
-synspunkter og forslag. Også Oslo politidistrikt
-støtter utvalget i at postbeslag bør vurderes etter
-de gjeldende reglene om beslag.
-PST uttaler:
-«En konsekvens av forslagene om opphevelse
-av straffeprosessloven §§ 211 og 212 samt
-loven om postbeslag, er at PSTs adgang til å
-bruke tvangsmidler innsnevres noe. Av den
-grunn foreslår utvalget at det i straffepro­
-sessloven § 210b åpnes for at PST i forebyg­
-gende øyemed kan anvende utleveringspålegg
-fremover i tid.
-PST støtter utvalgets forslag. Særlig ser vi
-forslaget om at det i straffeprosessloven § 210b
-åpnes for at PST i forebyggende øyemed kan
-anvende utleveringspålegg fremover i tid, som
-positivt. En slik adgang vil bidra til viktig infor­
-masjon i forebyggende saker og forslaget frem­
-står som både nødvendig og nyttig.»
-10.6.4 Departementets vurdering
-Mye av den korrespondansen som tidligere fore­
-gikk per post, sendes nå elektronisk. Hvor lenge
-en e-post kan anses å være i nett- og tjenestetilby­
-ders besittelse og dermed vil kunne beslaglegges
-med hjemmel i § 211 om postbeslag, har som
-nevnt vært omdiskutert.
-I korte trekk er spørsmålet om politiets krav
-på informasjon fra nett- og tjenestetilbyder om
-mistenktes e-postkonto skal kunne hjemles i
-reglene om utleveringspålegg (straffeprosesslo­
-ven § 210) eller den strengere regelen om post­
-beslag (straffeprosessloven § 211). Det er ube­
-stridt at e-post som er kommet frem til mottaker
-og lastet ned av denne, kan kreves utlevert med
-utleveringspålegg mot mottaker. Spørsmålet er
-imidlertid om postbeslagsregelen er riktig hjem­
-mel for krav mot nett- og tjenestetilbyder.
-Det er avsagt tre lagmannsrettskjennelser i
-noe ulik retning om spørsmålet. I den første (RG
-1998 side 1155) fant retten under tvil at reglene
-om postbeslag i § 211 måtte legges til grunn, inntil
-e-posten er hentet opp av mottaker. I den andre
-kjennelsen (RG 2008 side 1477) mente retten at
-opplysninger lagret på siktedes e-postkonti bare
-er å anse som «sending» som besittes av teletilby­
-der inntil den er kommet frem til mottaker, og at
-riktig tvangsmiddel etter dette er § 210 om utleve­
-ringspålegg. I den siste saken (LF-2015-111129)
-
-støttet flertallet seg på kjennelsen fra 2008 og fant
-at e-poster som er kommet frem til mottakers inn­
-boks, uavhengig av om de er lastet ned lokalt, skal
-kreves utlevert ved utleveringspålegg, da de ikke
-lenger er å anse som sending omfattet av post­
-beslagsregelen. Det ble også slått fast at adresse­
-lister og kontakter etc. ikke kan anses som sen­
-dinger, og således må kreves etter utleverings­
-påleggsbestemmelsen.
-Kjernen i de to første kjennelsene var om
-skjæringstidspunktet for når en e-post opphører
-å være en sending etter postbeslagsregelen, skal
-være når den er kommet frem til mottakers inn­
-boks, eller når den er lastet ned til dennes lokale
-server. Her skiller den tredje kjennelsen seg ut
-fra de øvrige, da mindretallet mente at § 211
-både gjelder sendinger som er underveis til mottaker, og sendinger som er kommet frem, enten
-de er lastet ned eller ikke. Mindretallet la til
-grunn at det avgjørende var om formidleren er i
-besittelse av sendingen, for eksempel som sik­
-kerhetskopi.
-Departementet peker på at tanken bak reglene
-om postbeslag er at dersom beslag lovlig kan skje
-hos mottaker, bør man kunne foregripe beslaget
-ved å ta beslag under forsendelsen, eksempelvis
-om det er fare for at mottakeren vil ødelegge eller
-på annen måte fjerne forsendelsen etter å ha mot­
-tatt den. Det forutsettes altså at beslaget er en
-«sending», og departementet mener at det ikke er
-naturlig å si at e-poster som er kommet frem til
-mottakers innboks er «sendinger» i § 211 sin forstand. E-postene er da mottatt av adressaten. At
-tilbyder også kan ha tilgang til materialet ved at
-det er lagret på dennes server, kan ikke ses å
-være avgjørende. På det tidspunkt er det ikke
-noen sending lenger, men lagret informasjon som
-eventuelt kan kreves utlevert etter reglene om
-utleveringspålegg i § 210.
-Det er heller ikke riktig at dersom mindretal­
-lets tolkning i LF-2015-111129 av § 211 legges til
-grunn, vil e-post likestilles med ordinær post.
-Tvert imot vil en slik forståelse gi et sterkere vern
-for e-poster enn for annen post, ved at det ikke tas
-hensyn til at sendingen faktisk er kommet frem til
-mottaker. Departementet bemerker at e-post som
-er kommet frem til mottaker, utvilsomt kan
-beslaglegges hos mistenkte eller andre etter de
-alminnelige reglene i § 210, og dette bør gjelde til­
-svarende overfor nett- og tjenestetilbyder.
-Etter dette legges det til grunn at postbeslags­
-reglene er praktisk lite anvendelige for beslag av
-e-postsendinger, da postbeslag bare kan gjøres
-gjeldende i de få sekundene e-posten er på vei fra
-avsender til den har nådd mottakers innboks.
-
-[Side 149]
-
-2015–2016
-
-149
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-Departementet kan ikke utelukke at post­
-beslag fremdeles vil kunne være aktuelt for ordi­
-nær post, for eksempel der en postsending inne­
-holder narkotika. Både politiet og tollmyndig­
-hetene har gitt uttrykk for at salg av syntetiske
-narkotiske stoffer over internett er et økende pro­
-blem, og antall narkotikabeslag på flyplasser og
-postterminaler har økt kraftig. Selv om mye fan­
-ges opp av Tollvesenet allerede på Oslo Lufthavn
-med hjemmel i tolloven kapittel 16, legger depar­
-tementet til grunn at også politiet vil kunne ha
-behov for å foreta beslag i postsendinger. Depar­
-tementet mener derfor at postbeslag fortsatt kan
-være anvendelig for andre sendinger enn e-post.
-Korrespondanse som besittes av postoperatør vil
-imidlertid, i fravær av spesialreglene om post­
-beslag, kunne beslaglegges hos eller pålegges
-utlevert av operatøren med hjemmel i de alminne­
-lige reglene om beslag og utleveringspålegg,
-eventuelt i kombinasjon med utsatt underretning
-til mistenkte.
-Departementet vil bemerke at dersom
-spesialreglene om postbeslag oppheves, vil
-beslag hos eller utlevering fra operatør bare
-kunne skje etter opphevelse av operatørens taus­
-hetsplikt. Årsaken er at reglene om utleverings­
-pålegg og beslag er begrenset av regler om vitne­
-plikt, jf. straffeprosessloven §§ 204 og 210.
-Postoperatørens taushetsplikt følger av § 30 i lov
-om posttjenester (postloven), som trådte i kraft
-1. januar 2016. Taushetsplikten er i utgangspunk­
-tet til hinder for beslag, utleveringspålegg og
-utleveringspålegg fremover i tid, jf. straffepro­
-sessloven § 204 første ledd første punktum, § 210
-første ledd første punktum og § 210 b første ledd
-jf. § 118 første ledd. Uten postbeslagsreglene vil
-dermed opphevelse av taushetsplikten være nød­
-vendig for beslag hos eller utlevering fra opera­
-tør.
-Nett- og tjenestetilbydere har i utgangspunktet
-taushetsplikt etter ekomloven § 2-9. I henhold til
-straffeprosessloven § 118 kan retten bare ta imot
-forklaring som et vitne ikke kan gi uten å krenke
-taushetsplikt som påligger tilbyder av tilgang til
-elektronisk kommunikasjonsnett eller elektronisk
-kommunikasjonstjeneste, dersom departementet
-samtykker. Samtykkekompetansen utøves av
-Nasjonal kommunikasjonsmyndighet (tidligere
-Post- og teletilsynet, heretter kalt NKOM) i kraft
-av delegasjon, jf. vedtak 23. juni 1995 nr. 39. Sam­
-tykke kan bare nektes dersom åpenbaringen vil
-kunne «utsette staten eller allmenne interesser for
-skade eller virke urimelig overfor den som har
-krav på hemmelighold», jf. § 118 første ledd siste
-punktum. Straffeprosessloven § 118 åpner dess­
-
-uten for at retten i visse tilfeller kan overprøve en
-nektelse av å gi samtykke.
-I Metodekontrollutvalgets utredning punkt
-19.2.5 side 213 uttales:
-«Lagmannsrettsavgjørelsen fra 2008 inne­
-bærer at politiet bare vil kunne få tilgang til inn­
-holdet i e-post dersom Post- og teletilsynet opp­
-hever teletilbyderens taushetsplikt etter ekom­
-loven, ettersom unntaket i §§ 203, jf. 204 og 210
-for opplysninger som et vitne vil kunne nekte å
-forklare seg om gjelder tilsvarende her. Som et
-resultat av avgjørelsen har Post- og teletilsynet
-begynt å behandle slike begjæringer, og tilsy­
-net har overfor utvalget gitt uttrykk for at det
-har registrert en økende interesse for slike inn­
-holdsdata fra påtalemyndighetens side. Til nå
-har tilsynet imidlertid aldri funnet grunnlag for
-å frita noen tilbyder for taushetsplikten om inn­
-holdet i e-post. Ifølge tilsynet skyldes dette at
-de har fått lite dokumentasjon på hva slikt innsyn faktisk vil åpenbare, og at de sterke person­
-vernhensyn som ligger til grunn for reglene i
-§§ 211 og 212 om post under forsendelse, også
-gjør seg gjeldende i forhold til e-postkonti.»
-Departementet bemerker at det er grunn til å
-være noe mer imøtekommende når det gjelder
-politiets utleveringspålegg etter den siste kjennel­
-sen (LF-2015-111129). NKOM var ankepart i den
-aktuelle saken og anførte blant annet at reelle
-grunner talte for at riktig beslagshjemmel var
-§ 211, da det var tale om utlevering av mye større
-mengder informasjon enn ordinær post. NKOM
-mente at et slikt inngrep burde hjemles i den
-bestemmelsen som i størst mulig grad ivaretar
-respekt for kommunikasjon. Denne argumentasjo­
-nen førte ikke frem. Det er likevel verdt å merke
-seg at en av NKOMs innvendinger var at det ved
-et utleveringspålegg ikke vil være oversikt over
-hvilken kommunikasjon som utleveres i motset­
-ning til etter fremgangsmåten i § 211. Departe­
-mentet mener det kan stilles spørsmål om politiet
-i noe større grad kan presisere hvilken informa­
-sjon som antas å ha betydning som bevis, jf. § 210.
-Det vises til Bjerke/Keiserud/Sæther, Straffepro­
-sessloven kommentarutgave Bind I (4. utgave,
-Oslo 2011) side 725, der det heter:
-«[…] Et vilkår for plikt til fremleggelse er at
-kravet – og pålegget – er slik spesifisert og kon­
-kretisert at det er mulig for den som skal frem­
-legge tingen, f.eks. et dokument, å vite hva han
-skal fremlegge, jf. Rt. 1997 s. 266, se også RG
-2009 s. 705 (Borgarting lagmannsrett). Utleve­
-
-[Side 150]
-
-150
-
-2015–2016
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-ringspålegg forutsetter på samme måte som
-beslag at tingen kan identifiseres. Dersom
-dette ikke er mulig, må påtalemyndigheten gå
-veien om ransaking, jf. Andenæs/Myhrer,
-Norsk straffeprosess s. 324.»
-I den siste kjennelsen (LF-2015-111129) ble tjenes­
-tetilbyder pålagt, uhindret av sin taushetsplikt, å
-utlevere til politiet innholdet av en konkret e-post­
-adresse, herunder e-post lagret i innboks, utboks
-og utkast, kontaktregister, adresser, annen infor­
-masjon tilknyttet kontoen, back-up-logger tilknyt­
-tet kontoen og trafikkdata, jf. straffeprosessloven
-§ 203 og § 204 jf. § 210. Pålegget gjaldt hele perio­
-den fra e-postkontoen ble opprettet til pålegget ble
-gjennomført. Det synes å være lagt til grunn at så
-lenge det dreier seg om én konkret e-postadresse,
-er kravet tilstrekkelig presisert og begrenset. Det
-kan imidlertid ikke utelukkes at politiet i den kon­
-krete sak har mulighet til å avgrense utleverings­
-pålegget ytterligere, for eksempel ved å vise til
-aktuelle avsendere, mottakere eller grupper av
-personer som er av særlig interesse. Departemen­
-tet forstår likevel at en slik konkretisering i andre
-saker kan være vanskelig eller umulig, dersom
-formålet med å be om all kommunikasjon nettopp
-er å avdekke hvem det kommuniseres med. Ved å
-måtte begrense utleveringspålegget til kommuni­
-kasjon med kjente personer, vil politiet være
-avskåret fra å oppdage nye spor, noe som vil være
-lite hensiktsmessig. Departementet vil under­
-streke at det i rettspraksis ikke er stilt krav om at
-dokumentbeslag kan knyttes til enkelte nærmere
-angitte dokumenter. Det må bero på en konkret
-og praktisk vurdering hvor langt man kan gå i å
-godta en kollektiv angivelse av dokumenter, jf. Rt.
-1981 side 1199, Rt. 1992 side 898 og Rt. 1995 side
-1831. Departementet utelukker imidlertid ikke at
-pålegget kan avgrenses på andre måter, for
-eksempel ved å vise til et nærmere angitt tidsrom,
-fremfor at det bes om «samtlige e-poster siden e­
-postkontoen ble opprettet».
-Departementet vil understreke at også infor­
-masjon i utkast, kontaktregister, adresser etc. kan
-begjæres utlevert etter § 210. Det vises til betrakt­
-ninger i Bjerke/Keiserud/Sæther, Straffepro­
-sessloven kommentarutgave Bind I (4. utgave,
-Oslo 2011) side 725, der det heter:
-«Om en ting kan antas å ha betydning som
-bevis, må avgjøres etter en konkret vurdering.
-En rimelig mulighet er nok. Om en ting, f.eks.
-en navneliste, kan lede til opplysninger om
-andre bevis i saken, f.eks. om vitner i saken, må
-også dette etter omstendighetene kunne gi
-
-grunnlag for et utleveringspålegg når disse
-opplysningene kan antas å ha betydning for
-etterforskningen, se også Ot.prp. nr. 64 (1998­
-99) s. 153 (til § 210b).»
-Departementet antar at dersom utleveringsbegjæ­
-ringer konkretiseres i tråd med ovennevnte, vil
-det også være mulig for NKOM å ta stilling til om
-utleveringen av informasjonen vil kunne «utsette
-staten eller allmenne interesser for skade eller
-virke urimelig overfor den som har krav på hem­
-melighold», jf. § 118 første ledd siste punktum.
-Departementet bemerker at hensynet til vern
-av konfidensiell informasjon, for eksempel korre­
-spondanse med advokat, lege, prest etc., er ivare­
-tatt gjennom bevisforbudsbestemmelsen i straffe­
-prosessloven § 119, jf. § 210 første ledd første punktum i.f., der det fremgår at adgangen til å pålegge
-utlevering er knyttet til vitneplikten. Dersom det
-blant tingene som er pålagt utlevert, anføres å være
-noe som vedkommende kan nekte å vitne om, skal
-materialet oversendes retten som etter en gjen­
-nomgåelse beslutter hva politiet har adgang til å
-beholde. Dette følger av en analogisk anvendelse
-av straffeprosessloven § 205 tredje ledd siste punktum, jf. Bruce og Haugland, Skjulte tvangsmidler
-(Oslo 2014) side 158 og Rt. 1986 side 1149. Saken
-gjaldt spørsmål om beslag i et pengeskap hos sik­
-tede som ble anført å inneholde fortrolig korre­
-spondanse mellom ham og hans forsvarer. Høyes­
-teretts kjæremålsutvalg slo fast at dokumenter som
-besitteren før eller under ransakingen hevder er
-unntatt fra beslag etter § 204 («dokumenter eller
-annet hvis innhold et vitne kan nekte å forklare seg
-om etter §§ 117-121 og 124-125»), ikke kan gjen­
-nomgås av politiet ved ransakingen. I Rt. 2000 side
-531 slo Høyesterett fast at en journalists rett til å
-nekte å oppgi en kilde, jf. straffeprosessloven § 125,
-medfører begrensninger i adgangen til å ta beslag,
-jf. hovedregelen i straffeprosessloven § 204 og
-behandlingsreglene i straffeprosessloven § 205
-tredje ledd.
-Avgjørelsen fra 1986 er noe modifisert gjennom
-Rt. 1995 side 1831, som gjaldt beslag i opptegnel­
-ser, journalmateriale og regnskapsmateriale hos en
-bedragerisiktet lege og andre leger i kontorfelles­
-skap, der Kjæremålsutvalget tillot politiet å foreta
-en utsortering av dokumenter. Utvalget påpekte at
-avgjørelsen fra 1986 fremsto «som særlig knyttet til
-situasjoner hvor taushetspliktsbestemmelsene tar
-sikte på å beskytte mot innsyn nettopp fra politiets
-side». Det ble vist til forarbeidene, jf. NUT 1969: 3
-Innstilling om rettergangsmåten i straffesaker fra
-Straffeprosesslovkomiteen side 256, der komiteen
-uttaler:
-
-[Side 151]
-
-2015–2016
-
-151
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-«[…] Ved ransaking må politiet kunne under­
-søke papirer i den utstrekning det er nødven­
-dig for å skaffe grunnlag for skjønnet over
-hvilke papirer som bør beslaglegges […], og i
-så fall er det ikke til å unngå at politiet også kan
-komme til å gjennomse papirer som det ikke er
-adgang til å beslaglegge. Det vesentligste vil
-således i alle tilfelle måtte være lovens begrens­
-ning av beslagsadgangen.».
-Der besitteren påberoper seg taushetspliktsregler
-som tar sikte på å beskytte mot innsyn nettopp fra
-politiets side, som korrespondanse med advokat,
-gjelder imidlertid et totalforbud mot politiets gjen­
-nomgåelse, og retten må forestå gjennomgåelsen
-av hele materialet. De dokumentene som etter ret­
-tens vurdering ikke er underlagt beslagsforbud,
-skal utleveres påtalemyndigheten for vurdering
-og beslutning om beslag, jf. Rt. 2011 side 296 og
-Bruce og Haugland, Skjulte tvangsmidler (Oslo
-2014) side 150. Prosedyrene for gjennomgåelse av
-slikt materiale er de samme ved utleveringspålegg
-som ved beslag, jf. Bruce og Haugland, Skjulte
-tvangsmidler (Oslo 2014) side 158.
-Denne reguleringen tilfredsstiller etter depar­
-tementets syn de krav som kan utledes av EMDs
-praksis om EMK artikkel 8, jf. forutsetningsvis Rt.
-2015 side 81. Saken gjaldt materiale innhentet ved
-kommunikasjonskontroll, herunder samtaler med
-advokat. Høyesterett understreket i avsnitt 18 at
-kommunikasjonskontroll og beslag er underlagt
-ulike regelsett, og forsvarerens anførsel om at
-materiale innhentet ved kommunikasjonskontroll
-måtte behandles på samme måte som materiale
-innhentet ved beslag, jf. § 204 jf. § 205 tredje ledd,
-førte ikke frem. Høyesterett fant imidlertid at der­
-som det på forhånd er klart at materialet innehol­
-der telefonsamtaler som faller inn under straffe­
-prosessloven § 119, skal påtalemyndigheten uten
-videre sørge for at de blir sortert ut og slettet, jf.
-straffeprosessloven § 216 g bokstav b, uten
-adgang til å påbegynne gjennomhøring av dem.
-Høyesterett fant videre at det følger av de prinsip­
-per som kan utledes av EMDs praksis, at en gjen­
-nomhøring av samtaler påtalemyndigheten vet –
-eller ved gjennomgåelsen blir klar over – at er
-med en advokat, men hvor det er usikkert om det
-dreier seg om en klientsamtale som faller inn
-under straffeprosessloven § 119, rammes av
-Grunnloven § 102 og EMK artikkel 8, jf. forutset­
-ningen i Kopp mot Sveits 25. mars 1998 (Sak
-23224/94). Høyesterett uttalte i avsnitt 28:
-«Dette innebærer at påtalemyndigheten i de til­
-fellene jeg drøfter, må slette samtalene med
-
-mindre det etableres en ordning som på dette
-punktet er i samsvar med EMK artikkel 8. For­
-svareren har subsidiært anført at samtalene i
-slike tilfeller må sendes tingretten for gjennom­
-gang uten at politiet på forhånd har gjennom­
-gått disse. En slik praksis vil sikre at eventuelle
-samtaler som omfattes av straffeprosessloven
-§ 119, tas ut av materialet og slettes. Eventuelle
-samtaler som ikke er vernet, returneres påtale­
-myndigheten. En slik ordning vil etter mitt syn
-tilfredsstille kravene i EMK artikkel 8. […]»
-Departementet mener at uttalelsen forutsetnings­
-vis bekrefter at reguleringen om domstolsgjen­
-nomgåelse ved beslag av materiale som antas å
-være underlagt bevisforbudsreglene, tilfredsstil­
-ler de krav som kan utledes av EMDs praksis.
-Prosedyren med rettens gjennomgåelse gjel­
-der også ved databeslag, jf. Rt. 2013 side 968. Høy­
-esterett uttalte her at politiet i forbindelse med
-beslag hadde lovlig adgang til å speilkopiere en
-harddisk som inneholdt elektronisk lagret skrift­
-lig materiale, til tross for advokaters taushetsplikt,
-jf. straffeprosessloven § 204, jf. § 119. Politiet
-hadde imidlertid ikke anledning til å beholde
-speilkopien av advokatens harddisk, som umid­
-delbart skulle ha vært oversendt tingretten uten
-noen form for gjennomgåelse eller grovsortering
-fra politiets side, jf. straffeprosessloven § 205
-tredje ledd. Tingretten kunne likevel ha innhentet
-bistand fra en uavhengig sakkyndig, dersom den
-ikke selv ønsket å gjennomføre søkingen.
-Det bemerkes at den sistnevnte saken gjaldt
-beslag av materiale hos en advokat, hvor det er en
-presumpsjon for at det beslaglagte materialet er
-underlagt taushetsplikt, jf. avsnitt 30 i kjennelsen,
-som det også henvises til i Rt. 2015 side 81 avsnitt
-19. Departementet mener at politiets adgang til å
-foreta en grovsortering kan være større i saker
-hvor en slik presumpsjon ikke foreligger, jf. Straffe­
-prosesslovkomiteens betraktninger i NUT 1969: 3
-Innstilling om rettergangsmåten i straffesaker fra
-Straffeprosesslovkomiteen side 256. Høyesterett
-legger i Rt. 2013 side 968 vekt på at hensynet til for­
-trolig kommunikasjon mellom en advokat og hans
-klient nyter et sterkt vern, jf. avsnitt 37. Dette frem­
-går også av Rt. 2015 side 1456 avsnitt 21. Selv om
-nett- og tjenestetilbydere er underlagt taushets­
-plikt, kan taushetspliktsbestemmelsene neppe sies
-å ta sikte på å beskytte mot innsyn nettopp fra poli­
-tiets side, og det er heller ingen presumpsjon for at
-e-postkontoen vil inneholde konfidensiell informa­
-sjon som korrespondanse med advokat. Dette til­
-sier at politiet i større grad kan tillates å foreta en
-grovsortering av materialet som mottas. Under
-
-[Side 152]
-
-152
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-enhver omstendighet legger departementet til
-grunn at dersom politiet har rettet pålegg om utle­
-vering av opplysninger knyttet til en konkret e-post­
-adresse mot nett- og tjenestetilbyder og mottatt
-slikt materiale, og det deretter fremgår av avsen­
-der- eller mottakerfeltet eller på annen måte at opp­
-lysningene vil kunne være underlagt bevisforbud,
-må dette materialet oversendes domstolen uten
-ytterligere gjennomgåelse.
-Da hensynet til vern av konfidensiell informa­
-sjon er ivaretatt ved beslag og utleveringspålegg,
-fordi retten her skal forestå gjennomgåelsen av
-materialet, finner departementet at det ikke er
-behov for det særskilte vern som postbeslags­
-reglene knesetter. Departementet støtter etter
-dette Metodekontrollutvalget i at særreglene om
-postbeslag i straffeprosessloven §§ 211 og 212 kan
-oppheves.
-
-10.7 Postkontroll i saker om rikets
-sikkerhet
-10.7.1 Gjeldende rett
-Lov 24. juni 1915 nr. 5 åpner for kontroll med postog telegrafforsendelser og med telefonsamtaler
-«når dette antas påkrevd av hensyn til rikets
-sikkerhet», jf. § 1 første ledd. Utenfor krigstid må
-det dreie seg om mistanke om overtredelse av
-nærmere angitte bestemmelser, herunder lov om
-forsvarshemmeligheter og straffeloven 1902 kapit­
-tel 8, 9, 12, 13 og 14. Forskrift 18. august 1960 nr. 2
-om kontroll med post- og telegramforsendelser
-§ 1 utvider lovens anvendelsesområde. Etter for­
-skriften kreves grunn til mistanke for at slike
-straffbare handlinger er begått.
-Postkontroll innebærer at politiet i et bestemt
-tidsrom får tillatelse til å undersøke alle brev til og
-fra mistenkte, og skiller seg på denne måten fra
-reglene om utleveringspålegg, beslag og post­
-beslag.
-Postkontroll krever tillatelse fra retten, men
-påtalemyndigheten er gitt hastekompetanse i sær­
-lig påtrengende tilfeller, jf. forskriften § 1 første og
-annet ledd.
-Reglene om postkontroll i saker om rikets sik­
-kerhet ble foreslått opphevet av Sikkerhetsutval­
-get i NOU 1993: 3 og av Metodeutvalget i NOU
-1997: 15. Departementet sluttet seg til forslaget
-om opphevelse i Ot.prp. nr. 64 (1998–99), men
-foreslo særregler i straffeprosessloven § 212 for
-saker om rikets sikkerhet. Postkontrolloven ble
-opphevet samtidig som de foreslåtte endringene i
-straffeprosessloven ble vedtatt ved lov 3. desem­
-ber 1999 nr. 82. Ifølge kongelig resolusjon av
-
-2015–2016
-
-samme dato skulle opphevelsen av postkontrol­
-loven og de foreslåtte endringene i § 212 foreløpig
-ikke tre i kraft. Endringene har fremdeles ikke
-trådt i kraft.
-De vedtatte endringene av § 212 innebærer to
-tilføyelser, første ledd nytt annet punktum og
-annet ledd nytt femte punktum, og er særregler
-for saker om rikets sikkerhet.
-Den første lovendringen innebærer at retten, i
-saker om rikets sikkerhet, kan overlate til politiet
-å åpne og gjennomse sendingen uten at det fore­
-ligger samtykke fra avsender. «Beslutter retten å
-overlate til politiet å åpne og gjennomse posten,
-må den kunne stille visse vilkår, for eksempel om
-at en polititjenestemann med særlig kunnskap om
-kodespråk skal gjennomføre kontrollen», jf.
-Ot.prp. nr. 64 (1998–99) side 154.
-Gjeldende § 212 annet ledd åpner for at under­
-retning til mottaker og avsender om hva som er
-åpnet og om hva som holdes i beslag, kan unnla­
-tes eller utsettes hvis slik underretning kan skade
-etterforskningen. Her siktes det til etterforsk­
-ningen i den saken som mistanken gjelder, ikke
-andre saker. Den andre endringen av § 212 inne­
-bærer at underretning i saker om rikets sikkerhet
-også kan unnlates eller utsettes av hensyn til etter­
-forskningen i andre saker om rikets sikkerhet.
-«Unntaksbestemmelsen vil først og fremst ha
-betydning i forhold til saker som har nær tilknyt­
-ning til den saken postkontrollen [postbeslag er
-omtalt som postkontroll] gjelder. Det er for
-eksempel snakk om den samme person, den
-samme terrorgruppe eller det samme lands etter­
-retningsorganisasjon i begge tilfeller», jf. Ot.prp.
-nr. 64 (1998–99) punkt 23 side 154.
-10.7.2 Metodekontrollutvalgets forslag
-Utvalget bemerker at det er uheldig at Stortingets
-beslutning om opphevelse av postkontrolloven,
-samt endringene i straffeprosessloven § 212, ikke
-er trådt i kraft, se utredningen punkt 19.3.2 side
-214. Utvalget går ut ifra at grunnen er at man har
-oppdaget at loven om postkontroll har et anven­
-delsesområde som går ut over reglene om post­
-beslag, og viser til at loven hjemler fortløpende
-kontroll, har et lavere mistankekrav enn post­
-beslagsreglene, ikke gir mistenkte krav på under­
-retning og foreskriver en enklere beslutningspro­
-sess. Utvalget har vurdert om reglene om post­
-kontroll likevel ikke burde oppheves, eventuelt
-om det bør gjøres andre endringer i straffepro­
-sessloven. Det vises til at Politiets sikkerhetstje­
-neste har opplyst at de i dag ikke bruker hjemme­
-len for postkontroll i saker om rikets sikkerhet,
-
-[Side 153]
-
-2015–2016
-
-153
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-særlig fordi PST ikke ønsker å bruke en lov som
-er opphevet. PSTs behov er etter det opplyste dek­
-ket gjennom reglene om utleveringspålegg, post­
-beslag og utleveringspålegg fremover i tid. På
-denne bakgrunn foreslår Metodekontrollutvalget
-at opphevelsen av loven om postkontroll i saker
-om rikets sikkerhet settes i kraft.
-Ettersom PSTs adgang til å bruke tvangsmid­
-ler innsnevres noe dersom reglene om post­
-beslag og postkontroll oppheves, forslår utvalget
-å åpne for bruk av utleveringspålegg fremover i
-tid etter straffeprosessloven § 210 b som ledd i
-PSTs forebyggende virksomhet, se punkt
-13.5.5.4.
-10.7.3 Høringsinstansenes syn
-Advokatforeningen og Politidirektoratet har ingen
-merknader til utvalgets forslag om ikraftsettelse
-av opphevelsen. PST og Oslo statsadvokatembeter
-støtter forslaget.
-PST uttaler:
-«Utvalget foreslår at opphevelsen av lov om
-postkontroll bør tre i kraft umiddelbart. PSTs
-behov dekkes i hovedsak gjennom reglene om
-utleveringspålegg, postbeslag og utleverings­
-pålegg fremover i tid, og PST bruker i dag ikke
-bestemmelsene om postkontroll i saker om
-rikets sikkerhet.
-En konsekvens av forslagene om opp­
-hevelse av straffeprosessloven §§ 211 og 212
-samt loven om postbeslag, er at PSTs adgang
-til å bruke tvangsmidler innsnevres noe. Av
-den grunn foreslår utvalget at det i straffepro­
-sessloven § 210b åpnes for at PST i forebyg­
-gende øyemed kan anvende utleveringspålegg
-fremover i tid.
-PST støtter utvalgets forslag. Særlig ser vi
-forslaget om at det i straffeprosessloven
-
-§ 210 b åpnes for at PST i forebyggende øye­
-med kan anvende utleveringspålegg fremover i
-tid, som positivt. En slik adgang vil bidra til vik­
-tig informasjon i forebyggende saker og forsla­
-get fremstår som både nødvendig og nyttig.»
-Riksadvokaten har ingen avgjørende innvendinger
-til at straffeprosessloven § 210 b om fremtidig
-utleveringspålegg inntas i oppregningen i politi­
-loven § 17 d.
-10.7.4 Departementets vurdering
-Departementet foreslår, i tråd med Metodekon­
-trollutvalgets forslag, at opphevelsen av loven
-ikraftsettes. Behovet for postkontroll i saker om
-rikets sikkerhet må søkes dekket gjennom
-bestemmelsene om beslag, utleveringspålegg og
-utleveringspålegg fremover i tid.
-Departementet mener det ikke er behov for et
-separat regelsett om postkontroll i saker om
-rikets sikkerhet. Reglene i straffeprosessloven
-bør dekke behovet for slik kontroll, jf. vurderin­
-gene i Ot.prp. nr. 64 (1998–99) punkt 8.2.5 side 41
-og punkt 9.5 side 89. Ved å samle reglene i straffe­
-prosessloven, vil systemet bli mer oversiktlig.
-Departementet viser videre til at loven ble vedtatt
-opphevet i 1999, og at det har gått mange år uten
-at postkontroll har blitt benyttet. PST har overfor
-Metodekontrollutvalget opplyst at de i dag ikke
-bruker hjemmelen for postkontroll i saker om
-rikets sikkerhet, og at PSTs behov er dekket gjen­
-nom de øvrige tvangsmiddelbestemmelsene i
-straffeprosessloven.
-Når det gjelder spørsmålet om det skal åpnes
-for utleveringspålegg fremover i tid i forebyg­
-gende øyemed med hjemmel i politiloven § 17 d,
-støtter departementet utvalget og PST, se punkt
-13.5.5.4.
-
-[Side 154]
-
-154
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-2015–2016
-
-11 Innhenting av trafikkdata
-11.1 Innledning
-11.1.1 Begrepsbruk
-Trafikkdata er i Metodekontrollutvalgets utredning
-definert som «opplysninger om hvilke kommunika­
-sjonsanlegg som i et bestemt tidsrom skal settes
-eller har vært satt i forbindelse med et bestemt
-kommunikasjonsanlegg, og andre data knyttet til
-kommunikasjon». Definisjonen sondrer ikke mel­
-lom trafikkdata og såkalte lokaliseringsdata. Med
-lokaliseringsdata menes opplysninger om hvilke
-telefoner eller annet kommunikasjonsutstyr som
-innenfor et nærmere geografisk område har vært
-satt i forbindelse med bestemte telefoner eller kom­
-munikasjonsutstyr. Ved lovendringer tilknyttet
-gjennomføring av datalagrinsdirektivet skilles det
-mellom trafikk- og lokaliseringsdata, all den tid inn­
-henting av lokaliseringsdata representerer et
-større inngrep i personvernet enn innhenting av
-trafikkdata. I det følgende gjennomføres derfor et
-slikt skille. Der utvalget eller høringsinstansene
-bruker begrepet «trafikkdata» i den videre betyd­
-ning begrepet hadde før, vil det bli presisert at også
-lokaliseringsdata er omfattet.
-Verken trafikk- eller lokaliseringsdata omfatter
-opplysninger om innholdet i kommunikasjonen.
-
-11.1.2 Datalagringsdirektivet
-11.1.2.1
-
-Kort om direktivet
-
-Datalagringsdirektivet (2006/24/EF) ble vedtatt
-15. mars 2006. Kjernen i direktivet er en plikt for
-ekomtilbydere til å lagre all trafikkdata i en viss
-periode. Formålet er å kunne benytte dette i arbei­
-det med kriminalitetsbekjempelse. Gjennom­
-føringsfristen for medlemsstatene ble satt til 15.
-september 2007. Datalagringsdirektivet er ikke
-innlemmet i EØS-avtalen fordi Island ikke har
-godtatt det. Innholdet i direktivet ble like fullt
-gjennomført i norsk rett ved lov 11. april 2011 nr.
-11 (heretter kalt lagringsloven), som omfatter
-endringer i ekomloven og straffeprosessloven.
-Loven er ikke i kraft. Hovedgrunnen til dette er
-arbeidet med en modell for fordeling av kostnader
-
-mellom ekomtilbydere og politiet. En lovproposi­
-sjon med de nødvendige lovendringene skulle
-etter planen vært lagt frem for Stortinget vårsesjo­
-nen 2014.
-EU-domstolen i storkammer avsa 8. april 2014
-dom i sakene C-293/12 og C-594/12, der EUs
-datalagringsdirektiv (2006/24) ble kjent ugyldig
-som stridende mot EU-charteret 2000 artikkel 7
-og 8 om retten til privatliv og personvern. Direk­
-tivet ble funnet å være mer inngripende i retten til
-privatliv og personvern enn det som ble ansett
-som nødvendig for å ivareta allmenne interesser
-eller andres rettigheter.
-EU-charteret er ikke bindende for Norge. De
-nevnte bestemmelsene i charteret fremstår imid­
-lertid som en oppdatert versjon av EMK artikkel
-8, og det er også i dommen trukket paralleller til
-denne og EMD-avgjørelser om personvern.
-EMK er gjort til en del av norsk rett ved mennes­
-kerettsloven, med forrang overfor annen norsk
-lov. Retten til personvern og privatliv er også gitt
-et grunnlovsvern ved ny § 102 i Grunnloven. For
-norsk retts vedkommende blir det spørsmål om
-hvorvidt lagringsloven slik den nå lyder er foren­
-lig med EMK artikkel 8 i lys av dommen fra EU­
-domstolen, samt Grunnloven § 102. En slik vur­
-dering vil imidlertid ikke foretas i den fore­
-liggende proposisjonen. Spørsmålene er vurdert
-i en ekstern utredning, se nærmere omtale i
-punkt 11.4. Drøftelsen nedenfor vil begrenses til
-Metodekontrollutvalgets
-forslag
-om
-lov­
-endringer.
-11.1.2.2
-
-Metodekontrollutvalgets avgrensning mot
-direktivet
-
-I vurderingen av reglene om innhenting av trafikk­
-data, avgrenser Metodekontrollutvalget mot en
-nærmere vurdering av EUs datalagringsdirektiv.
-Utvalget viser til at direktivet ikke sier noe om
-hvilke vilkår som skal gjelde for politiets tilgang til
-trafikkdata, og dermed ikke berører utvalgets vur­
-deringer direkte, jf. punkt 20.4 side 219.
-Departementet la frem forslag til hvordan EUs
-datalagringsdirektiv kunne gjennomføres i norsk
-rett i Prop. 49 L (2010–2011) Endringer i ekom­
-
-[Side 155]
-
-2015–2016
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-loven og straffeprosessloven mv. (gjennomføring
-av EUs datalagringsdirektiv i norsk rett). Under
-Stortingets behandling ble de prosessuelle og
-materielle vilkår for politiets tilgang til trafikkdata
-og lokaliseringsdata skjerpet på flere punkter, jf.
-Innst. 275 L (2010–2011). Dette var av hensyn til
-personvernet. Gjennomføring av datalagringsdi­
-rektivet i norsk rett vil således få direkte betyd­
-ning for politiets innhenting av trafikkdata under
-etterforskningen.
-Et spørsmål for departementet har derfor
-vært om det at utvalget ikke har behandlet for­
-holdet til datalagringsdirektivet, gjør at det er
-enkelte sider ved berøringsflaten mellom meto­
-dekontroll og datalagringsdirektivet som ikke
-har vært gjenstand for høring. Departementet
-kan imidlertid ikke se at det er tilfellet. Spørsmå­
-lene som ikke direkte var gjenstand for høring i
-forbindelse med Metodekontrollutvalgets utred­
-ning, gjelder forhold som ble drøftet under hørin­
-gen av datalagringsdirektivet og som Stortinget
-siden har tatt stilling til gjennom Lovvedtak 46
-(2010–2011), jf. lov 15. april 2011 nr. 11. Det gjel­
-der spørsmålet om materielle vilkår for innhen­
-ting, om lagringstid og om påtalemyndighetens
-hastekompetanse. Domstolskontroll og spørs­
-målet om å frata Nasjonal kommunikasjonsmyn­
-dighet (tidligere Post- og teletilsynet) oppgaven
-med å frita for taushetsplikt ved innhenting av
-trafikk- og lokaliseringsdata, ble drøftet i begge
-høringsrunder.
-Lovendringene i tilknytning til datalagrings­
-direktivet følger i stor utstrekning opp forslagene
-til Metodekontrollutvalget. Departementet ser
-derfor ikke behov for en utførlig gjennomgåelse
-av utvalgets forslag, men vil likevel kort omtale
-forslagene og klargjøre på hvilken måte de gjen­
-nomføres. Som følge av de mellomliggende lov­
-endringer som ledd i gjennomføringen av datalag­
-ringsdirektivet, er høringsinstansenes merknader
-til utvalgets forslag lite treffende, og vil ikke bli
-behandlet nærmere i det følgende.
-
-11.2 Rettstilstanden inntil lovendringer
-tilknyttet datalagringsdirektivet
-trer i kraft
-Lovendringene i tilknytning til datalagringsdirek­
-tivet var opprinnelig ventet å tre i kraft 1. juli 2014.
-EU-domstolens avgjørelse 8. april 2014 har imid­
-lertid påvirket dette.
-Politiet har i dag, før lovendringen i tilknytning
-til datalagringsdirektivet trer i kraft, flere og til
-dels overlappende hjemmelsgrunnlag for innhen­
-
-155
-
-ting av historiske trafikk- og lokaliseringsdata
-under etterforskningen. Innhenting kan skje der
-teletilbyderne utleverer dataene frivillig, eller
-gjennom reglene om beslag og utleveringspålegg,
-jf. straffeprosessloven §§ 203 og 210, dersom de
-antas å ha betydning som bevis. Forutsetningen
-er i alle tilfeller at Nasjonal kommunikasjonsmyn­
-dighet (tidligere Post- og teletilsynet) opphever
-teletilbydernes taushetsplikt. Tilsynet har dele­
-gert kompetanse fra Samferdselsdepartementet.
-Utleveringspålegg avgjøres som hovedregel av
-retten, jf. straffeprosessloven § 210 første ledd,
-mens beslag besluttes av påtalemyndigheten der­
-som trafikkdataene ikke utleveres frivillig, jf. § 205
-første ledd første punktum.
-Etter straffeprosessloven § 215 a kan påtale­
-myndigheten som ledd i etterforskningen gi pålegg
-om sikring av elektronisk lagrede data – sikrings­
-pålegg. Dette gjelder både trafikkdata og innholds­
-data, herunder filer med lyd, bilder eller tekst.
-Innhenting av historiske data kan dessuten
-skje med hjemmel i straffeprosessloven § 216 b
-om kommunikasjonskontroll. Annet ledd bokstav
-d gir hjemmel for å innhente data knyttet til kom­
-munikasjon. For det første omfattes opplysninger
-om hvilke kommunikasjonsanlegg som har kom­
-munisert med et bestemt annet anlegg. Dette
-kan for eksempel være teleselskapenes registre­
-ringer av samtaler til og fra en telefon eller loggen over kommunikasjonen til og fra en datamas­
-kin. Videre omfattes andre data knyttet til kom­
-munikasjonen. Dette inkluderer blant annet opp­
-lysninger om samtalenes varighet, mobiltele­
-foners geografiske plassering idet samtalene
-finner sted og hvem som var logget inn på en
-datamaskin på det tidspunkt maskinen ble benyt­
-tet til kommunikasjon, jf. merknader til bestem­
-melsen i Ot.prp. nr. 64 (1998–99) kapittel 23.
-Regelen gir både adgang til å pålegge utlevering
-av historiske data, og til å gi pålegget virkning
-fremover i tid. Bestemmelsen stiller krav om
-skjellig grunn til mistanke, og mistanken må
-rette seg mot handling som kan medføre feng­
-selsstraff i fem år eller mer. Alternativt må mis­
-tanken gjelde en eller flere handlinger som rammes av straffebudene opplistet i bestemmelsens
-første ledd bokstav b. Det kreves som hoved­
-regel rettens kjennelse for å innhente data, jf.
-§ 216 b første ledd.
-For en nærmere redegjørelse av rettstilstan­
-den for innhenting av trafikkdata forut for ikraft­
-tredelse av lovendringene, vises til utvalgets
-utredning side 216–218 og Prop. 49 L (2010–2011)
-punkt 12.1. Nedenfor vil rettstilstanden etter lov­
-endringen beskrives nærmere.
-
-[Side 156]
-
-156
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-11.3 Hvordan er Metodekontroll­
-utvalgets forslag gjennomført?
-11.3.1 Hjemmelsgrunnlag for innhenting av
-trafikk- og lokaliseringsdata
-11.3.1.1
-
-Metodekontrollutvalgets forslag
-
-Metodekontrollutvalget ønsker et mer enhetlig
-regelverk om utlevering av trafikkdata og mener
-at hensynet til personvern og rettssikkerhet for
-den opplysningene gjelder, tilsier at utlevering
-bare bør kunne skje etter reglene om tvangsmid­
-ler. Utvalget mener det bør åpnes for utlevering
-av trafikkdata bare dersom det foreligger beslut­
-ning om utleveringspålegg etter § 210, eventuelt
-med utsatt underretning etter § 210 a, samt at
-det fortsatt skal kunne skje med hjemmel i
-§ 216 b.
-11.3.1.2
-
-Departementets vurdering
-
-Det er klart forutsatt i Prop. 49 L (2010–2011) at
-§ 210 ikke lenger gir hjemmel for å innhente tra­
-fikk- og lokaliseringsdata. Forslaget er derfor ikke
-lenger aktuelt, og departementet finner ikke
-grunn til å behandle dette nærmere. Departemen­
-tet bemerker imidlertid at utvalgets intensjon om
-et mer enhetlig regelverk og bedre personvern
-synes å være ivaretatt gjennom de nye bestem­
-melsene om utlevering av trafikk- og lokalise­
-ringsdata i §§ 210 b og 210 c.
-For utlevering av historiske, personspesifikke
-trafikkdata er hovedregelen nedfelt i straffepro­
-sessloven § 210 b. Bestemmelsen er ny som følge
-av datalagringsdirektivet, og oppstiller flere vilkår
-for innhenting. For det første kreves det skjellig
-grunn til mistanke. Dernest er det lovfestet et
-strafferammekrav, alternativt et kriminalitetskrav
-med opplisting av spesifikke lovbrudd. Etter
-§ 210 b bokstav a må mistanken gjelde handlinger
-som kan medføre fengsel i fire år eller mer. I Prop.
-49 L (2010–2011) punkt 12.6 begrunnes straffe­
-rammekravet slik:
-«Et vilkår om krav til strafferamme på fire år
-eller mer reflekterer etter departementets vur­
-dering den graden av inngrep i personvernet
-som innhenting av data representerer.»
-Der det er grunn til å tro at handlingen er utøvet
-som ledd i aktivitetene til en organisert kriminell
-gruppe, er strafferammekravet fengsel i tre år
-eller mer, jf. § 210 b bokstav b. Alternativt kan inn­
-henting skje der kriminalitetskravet etter henvis­
-ningene i § 210 b bokstav c er oppfylt.
-
-2015–2016
-
-Innhenting av lokaliseringsdata er regulert i
-straffeprosessloven § 210 c. Den gjelder datasøk i
-et bestemt område, for eksempel all trafikk på
-Egertorget lørdag kl. 23.00. Adgangen til å inn­
-hente lokaliseringsdata er snevrere enn for tra­
-fikkdata. I Prop. 49 L (2010–2011) punkt 12.6
-begrunnes forskjellen med at basestasjonssøk er
-«mer inngripende i forhold til personvernet, blant
-annet fordi man da får med seg mye overskudds­
-informasjon.» Strafferammekravet i bokstav a er
-derfor satt til fengsel i fem år eller mer. Oppreg­
-ningen i bokstav c er dessuten søkt avgrenset til
-handlinger som basestasjonssøk antas å være sær­
-skilt nyttig i etterforskningen av. Etter § 210 c
-bokstav b er strafferammekravet senket til fengsel
-i tre år eller mer der det er grunn til å tro at hand­
-lingen er utøvet som ledd i aktivitetene til en orga­
-nisert kriminell gruppe.
-For trafikk- og lokaliseringsdata gjelder i til­
-legg et fellesvilkår om at opplysningene må antas
-å være av vesentlig betydning for etterforsk­
-ningen. Innhentingen må for øvrig være forholds­
-messig etter straffeprosessloven § 170 a.
-Politiet og retten kan ikke innhente opplys­
-ninger om trafikk- og lokaliseringsdata gjennom
-vitneprov i større utstrekning enn det som følger
-av §§ 210 b og 210 c. Dette er fastsatt i ny
-§ 118 a. Bestemmelsen er begrunnet i omgåel­
-seshensyn.
-Ut over lovendringene i tilknytning til datalag­
-ringsdirektivet, videreføres hjemmelsgrunnlaget i
-straffeprosessloven § 216 b annet ledd bokstav d
-for innhenting av trafikkdata.
-Dersom kunden samtykker og opphever taus­
-hetsplikten, kan teletilbydere utlevere opplys­
-ninger om kundens teletrafikk. Dette forutsetter
-imidlertid at kunden gis kjennskap til begjærin­
-gen, og anses derfor lite praktisk.
-Straffeprosessloven § 222 d og politiloven
-§ 17 d åpner dessuten for innhenting av trafikk­
-data i avvergende og forebyggende øyemed. Poli­
-tiet vil også kunne innhente trafikkdata med hjem­
-mel i den ulovfestede regelen om nødrett.
-11.3.2 Domstolsbehandling
-Utvalget går inn for obligatorisk domstolsbehand­
-ling ved utlevering av trafikkdata, herunder lokali­
-seringsdata, begrunnet i hensynet til de berørtes
-rettssikkerhet.
-D e p a r t e m e n t e t bemerker at domstols­
-kontroll med innhenting av data anses å være en
-sentral rettsikkerhetsgaranti. Både innhenting av
-trafikkdata og lokaliseringsdata krever etter lov­
-endringen rettens kjennelse. Utvalgets forslag er
-
-[Side 157]
-
-2015–2016
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-således gjennomført i straffeprosessloven
-§§ 210 b og 210.
-Retten skal i utgangspunktet sørge for at den
-som blir rammet snarest mulig blir kjent med
-kjennelsen, jf. straffeprosessloven § 52 annet ledd.
-Fra dette utgangspunktet følger et unntak der
-utsatt underretning om innhenting av data etter
-§§ 210 b og 210 c er «strengt nødvendig» for etter­
-forskningen, jf. § 210 d.
-Om utsatt underretning uttalte departementet
-følgende i Prop. 49 L (2010–2011) punkt 12.6:
-«Slik utsatt underretning kan være særlig aktu­
-elt i de tilfellene hvor dataene søkes innhentet
-i en tidlig fase av etterforskningen og før det er
-foretatt noen pågripelse. Blir den som i slike til­
-feller rammes, klar over utleveringspålegget,
-kan det ofte miste mye av sin effekt. Videre
-etterforskning, eksempelvis ransaking og
-beslag, kan dessuten bli vanskeliggjort.»
-For å bøte på manglende kontradiksjon i slike til­
-feller, plikter retten å oppnevne offentlig advokat
-for mistenkte, jf. straffeprosessloven § 100 a første
-ledd første punktum.
-Det fremgår ikke eksplisitt av utredningen om
-Metodekontrollutvalget ønsker å videreføre ordnin­
-gen med å gi påtalemyndigheten hastekompetanse
-med etterfølgende domstolskontroll. Denne løsnin­
-gen er uansett videreført med lovendringene som
-følge av datalagringsdirektivet, jf. straffeprosess­
-loven §§ 210 b fjerde ledd og § 210 c annet ledd.
-11.3.3 Taushetsplikt
-Som en konsekvens av kompetanseoverføringen til
-domstolene, foreslår utvalget å frata Post- og teletil­
-synet (nå Nasjonal kommunikasjonsmyndighet)
-oppgaven med å gi politiet tilgang til trafikkdata.
-Utvalget ønsker å gå bort fra den ordningen at tilsy­
-net må vurdere opphevelse av taushetsplikten.
-D e p a r t e m e n t e t bemerker at også dette
-forslaget er i samsvar med senere lovendringer, jf.
-ekomloven § 2-9. Det rettslige utgangspunktet er
-at trafikk- og lokaliseringsdata er underlagt taus­
-hetsplikt. Taushetsplikten gjelder innholdet av
-elektronisk kommunikasjon og andres bruk av
-elektronisk kommunikasjon, herunder opplysnin­
-ger om tekniske innretninger, jf. ekomloven § 2-9
-første ledd.
-Fra dette utgangspunktet gjelder to unntak.
-Taushetsplikten er for det første ikke til hinder for
-at såkalte abonnementsopplysninger gis til påtale­
-myndigheten eller politiet, eller annen myndighet
-i medhold av lov, jf. ekomloven § 2-9 tredje ledd.
-
-157
-
-Dette unntaket gjaldt også forut for gjennomførin­
-gen av datalagringsdirektivet.
-Det andre unntaket følger av ekomloven § 2-9
-nytt femte ledd. Her heter det at taushetsplikten
-ikke er til hinder for at trafikk- og lokaliserings­
-data utleveres til politi og påtalemyndighet i medhold av straffeprosessloven §§ 210 b, 210 c, 216 b
-eller 222 d, til Politiets sikkerhetstjeneste i medhold av politiloven § 17 d eller til Finanstilsynet i
-medhold av verdipapirhandelloven § 15-3 annet
-ledd nr. 3. Innhenting av data forutsetter således
-ikke lenger Nasjonal kommunikasjonsmyndighets
-opphevelse av taushetsplikten.
-Metodekontrollutvalget går inn for å kunne
-straffe teletilbydere som bryter taushetsplikt etter
-politiloven § 17 f, jf. straffeloven 1902 § 121 (straf­
-feloven § 209). Forslaget er i tråd med lov­
-endringene som følge av datalagringsdirektivet.
-Politiet kan pålegge teletilbyderne taushetsplikt
-med hjemmel i politiregisterloven § 35 første ledd
-første punktum og politiloven § 17 f tredje ledd.
-Overtredelse av slik taushetsplikt kan straffes
-etter straffeloven 1902 § 121 (straffeloven § 209),
-så sant vedkommende er gjort oppmerksom på
-dette.
-
-11.4 Departementets avsluttende
-bemerkninger
-Metodekontrollutvalgets forslag er i all hovedsak
-fulgt opp ved vedtakelsen av lov 15. april 2011 nr.
-11 om gjennomføring av datalagringsdirektivet.
-Departementet finner på nåværende tidspunkt
-ikke grunn til å foreta endringer i reglene om
-utlevering av trafikk- og lokaliseringsdata.
-Bestemmelsene må vurderes samlet med øvrige
-lovendringer i tilknytning til datalagringsdirek­
-tivet, herunder lagringsplikten, i lys av EU­
-domstolens avgjørelse 8. april 2014. På oppdrag
-fra Samferdselsdepartementet og Justis- og
-beredskapsdepartementet har Hans Petter Gra­
-ver, professor og dekan ved Universitetet i Oslo,
-og advokat Henning Harborg utredet om de nor­
-ske reglene om datalagring er i overenstem­
-melse med EMK etter EU-domstolens opphe­
-velse av datalagringsdirektivet. Utredningen
-konkluderer med at det er tvilsomt om den nor­
-ske lagringsloven vil la seg forene med EMK,
-særlig sett hen til kravet til begrunnelse og doku­
-mentasjon av nødvendigheten av å lagre data.
-Videre ser utrederne utfordringer med å skille ut
-taushetsbelagt informasjon til og fra sjele­
-sørgere, helsepersonell, presse, advokater mv.
-før materialet utleveres. Konklusjonene i utred­
-
-[Side 158]
-
-158
-
-Prop. 68 L
-Endringer i straffeprosessloven mv. (skjulte tvangsmidler)
-
-ningen er ikke til hinder for videreføring av
-dagens regime for lagring og utlevering til politiet av data fra elektronisk kommunikasjon som
-
-2015–2016
-
-ekomtilbyderne lagrer for egne formål. Utred­
-ningen ble avgitt 1. oktober 2015 og er til
-behandling i departementene.
+For annen optisk observasjon kreves at mistanken gjelder lovbrudd som kan medføre fengsel i minst ett år. Beslutning kan i slike tilfeller fattes av en arrestasjonsbemyndiget tjenestemann, jf. tvångsmedelslagen 10 kap. 20 § 2 mom. Tillatelse gis i alle tilfelle for høyst en måned av gangen.
+
+BrøBrø**Folkerettslige forpliktelser**
+
+BrøEMK artikkel 8 nr. 1 beskytter retten til respekt for privatliv, familieliv, hjem og korrespondanse. I kjerneområdet for bestemmelsen ligger den enkeltes rett til å bli vernet mot inngrep i sitt private hjem. Det er derfor klart at skjult kameraovervåking rettet mot private hjem vil utgjøre et inngrep i artikkel 8. Begrepene privatliv og hjem er i praksis tolket relativt vidt og omfatter trolig også privat område som direkte tilstøter et privat hjem – for eksempel en trappeoppgang. Vernet kan også omfatte forretningslokaler, jf. for eksempel *Niemietz mot Tyskland* 16. desember 1992 (sak 13710/88).
+
+For overvåking som skjer *utenfor* det private hjem, er beskyttelsen etter artikkel 8 svakere. EMD har imidlertid anerkjent at det eksisterer et område for interaksjon mellom mennesker som faller inn under privatlivsbegrepet, selv om den foregår på offentlig sted. Hvorvidt det foreligger et inngrep i en slik kontekst vil bero på en konkret vurdering, hvor blant annet de berørtes forventning om å få være i fred står sentralt. I en sak om hemmelig avlytting, *P.G. og J.H. mot Storbritannia* 25. september 2001 (sak 44787/98), uttaler domstolen (avsnitt 57):
+
+BrøBrø«There are a number of elements relevant to a consideration of whether a person’s private life is concerned by measures effected outside a person’s home or private premises. Since there are occasions when people knowingly or intentionally involve themselves in activities which are or may be recorded or reported in a public manner, a person’s reasonable expectations as to privacy may be a significant, although not necessarily conclusive, factor.»
+
+BrøDet er slått fast i flere saker at monitorering av offentlig tilgjengelig sted ved bruk av sikkerhetskameraer uten opptaksmulighet, ikke utgjør et inngrep i artikkel 8, jf. blant annet *Herbecq mot Belgia* 14. januar 1998 (sak 32200/96). Kommisjonen bemerket i avgjørelsen at «the data available to a person looking at monitors is identical to that which he or she could have obtained by being on the spot in person». På grunnlag av dette måtte alt som kunne observeres på stedet betraktes som offentlig opptreden («public behaviour»). Det samme følger av *Perry mot Storbritannia* 17. juli 2003 (sak 63737/00), hvor EMD konstaterte at «the normal use of security cameras per se whether in the public street or on premises, such as shopping centres or police stations where they serve a legitimate and foreseeable purpose, do not raise issues under Article 8 § 1 of the Convention» (avsnitt 40).
+
+Dersom bruken av sikkerhetskameraer går ut over det som kan anses som rimelig og forutsigbart, kan imidlertid vurderingen bli en annen. I Perry-saken var saksforholdet at klageren var mistenkt for en rekke væpnede ran i biler. Da vedkommende ikke ønsket å la seg fotografere med sikte på vitnekonfrontasjon, ble fastmonterte sikkerhetskameraer på politistasjonen brukt for å innhente videoopptak av mistenkte. Dette ble gjort ved at et sikkerhetskamera som var i kontinuerlig drift ble justert for å sikre at det fanget opp bilder av den mistenkte. Etter domstolens oppfatning var dette noe annet enn ordinær bruk av sikkerhetskameraer – ettersom kameraet med hensikt hadde blitt manipulert for å fange opp bilder av klageren, samt fordi opptaket ble vist for vitner og senere lagt frem under den offentlige rettssaken mot klageren. Det forelå derfor et inngrep i artikkel 8 (avsnitt 41–42).
+
+I motsetning til ved synlig bruk av sikkerhetskameraer, vil politiets bruk av skjult kameraovervåking til etterforskningsformål normalt ikke være kjent for dem som rammes. Slik overvåking vil dermed ikke ha den samme grad av forutberegnelighet som bruk av synlige kameraer. Til dette kommer at opptakene – i motsetning til ved ren monitorering – blir lagret for å kunne brukes i videre etterforskning og strafforfølgning. Dette øker tiltakets inngripende karakter. Det vises til følgende uttalelse i den tidligere nevnte saken *P.G. og J.H. mot Storbritannia* (avsnitt 57):
+
+BrøBrø«A person who walks down the street will, inevitably, be visible to any member of the public who is also present. Monitoring by technological means of the same public scene (for example, a security guard viewing through closed-circuit television) is of a similar character. Private-life considerations may arise, however, once any systematic or permanent record comes into existence of such material from the public domain. It is for this reason that files gathered by security services on a particular individual fall within the scope of Article 8, even where the information has not been gathered by any intrusive or covert method \[…\].»
+
+BrøUttalelsen indikerer at det er av vesentlig betydning hvorvidt opptakene som gjøres lagres med tanke på videre systematisk bruk. På denne bakgrunn er det grunn til å tro at politiets bruk av skjult kameraovervåking etter omstendighetene vil utgjøre et inngrep i artikkel 8 – også når overvåkingen skjer på et offentlig sted.
+
+Inngrep som her nevnt kan bare skje på de vilkår som er angitt i EMK artikkel 8 nr. 2. Det følger av bestemmelsen at inngrepet må ha hjemmel i lov og være nødvendig i et demokratisk samfunn av hensyn til visse særskilt angitte formål. Som legitime formål regnes blant annet å forebygge og bekjempe uorden eller kriminalitet. I tillegg til at det må foreligge formell lovhjemmel, innebærer lovkravet at hjemmelen må være tilgjengelig for dem som rammes, samt være formulert på en måte som gjør disse i stand til å forutse lovens konsekvenser, jf. for eksempel *Kopp mot Sveits* 25. mars 1998 (sak 23224/94) avsnitt 55. Ettersom en adgang til å iverksette hemmelig overvåking representerer en særskilt fare for misbruk, må det dessuten finnes adekvate og effektive sikkerhetsmekanismer, jf. for eksempel *Klass m.fl. mot Tyskland* 6. september 1978 (sak 5029/71) avsnitt 50. Som slike sikkerhetsmekanismer regnes blant annet krav om rettslig kontroll med myndighetenes bruk av overvåkingstiltak, jf. *Klass*-saken avsnitt 55.
+
+BrøBrø**Begrepet kameraovervåking**
+
+BrøDagens regel om «skjult fjernsynsovervåking» i straffeprosessloven § 202 a speiler forbudet mot skjult kameraovervåking på offentlig sted i personopplysningsloven § 40. Forbudet skal forstås i samsvar med personopplysningsloven § 36 første ledd, som fikk sin nåværende utforming ved lov 20. april 2012 nr. 18. Ved nevnte lovendring ble begrepet «fjernsynsovervåking» erstattet med «kameraovervåking», og kameraovervåkingsbegrepet for øvrig søkt modernisert og gjort mer teknologinøytralt. Definisjonen av kameraovervåking i personopplysningsloven § 36 første ledd lyder nå slik:
+
+BrøBrø«Med kameraovervåking menes vedvarende eller regelmessig gjentatt personovervåking ved hjelp av fjernbetjent eller automatisk virkende overvåkningskamera eller annet lignende utstyr som er fastmontert. Som kameraovervåking anses både overvåking med og uten mulighet for opptak av lyd- og bildemateriale. Det samme gjelder utstyr som lett kan forveksles med en ekte kameraløsning.»
+
+BrøUnder høringen har *Oslo politidistrikt*, med tilslutning fra *Politidirektoratet*, etterlyst en definisjon av kameraovervåkingsbegrepet inntatt i straffeprosessloven § 202 a. Høringsinstansene mener en slik definisjon bør fremgå av bestemmelsen selv, og ikke gjennom en henvisning til personopplysningsloven.
+
+Departementet slutter seg til høringsinstansenes forslag, og går inn for at definisjonen av kameraovervåking skal fremgå uttrykkelig av straffeprosessloven § 202 a. Dette vil klargjøre hvilke tiltak politiet kan iverksette i medhold av bestemmelsen og forenkle rettsanvendelsen. Hensynet til sammenheng i lovverket tilsier at definisjonen formuleres på samme måte som i personopplysningsloven. Det antas imidlertid at personopplysningsloven § 36 første ledd siste punktum, som omfatter «utstyr som lett kan forveksles med en ekte kameraløsning», ikke vil være relevant for etterforskningsformål. Dette punktum foreslås følgelig unntatt fra definisjonen i straffeprosessloven § 202 a.
+
+BrøBrø**Skjult kameraovervåking fra offentlig sted mot privat sted**
+
+BrøBrø**Metodekontrollutvalgets forslag**
+
+BrøStraffeprosessloven § 202 a gir som nevnt politiet, på nærmere vilkår, anledning til å iverksette skjult kameraovervåking «på offentlig sted». Metodekontrollutvalget uttaler at det i underrettspraksis er gitt tillatelse til å iverksette skjult kameraovervåking etter straffeprosessloven § 202 a også fra offentlig sted mot privat sted – et inngangsparti, jf. utredningen punkt 21.1 side 222 samt punkt 21.4.2 side 224. Etter utvalgets syn åpner straffeprosessloven § 202 a neppe for slik overvåking. Utvalget finner imidlertid at det bør være slik adgang, og foreslår derfor å gjøre det klart at kameraovervåking fra offentlig sted mot privat sted kan finne sted på samme vilkår som overvåking på offentlig sted. Utvalget viser i punkt 21.4.2 til at de samme steder vil kunne observeres av politiet i kraft av den alminnelige handlefrihet:
+
+BrøBrø«Utvalget finner ikke tungtveiende grunner til at politiet ikke bør ha anledning til å gjennomføre fjernsynsovervåking mot et privat sted, typisk et inngangsparti, når dette skjer som ledd i etterforskingen, og hvor politiet etter den alminnelige handlefriheten vil ha adgang til å observere det samme stedet. Utvalget er oppmerksom på at fjernsynsovervåking vil være et mer vedvarende inngrep, men finner dette ikke avgjørende.»
+
+BrøMetodekontrollutvalget foreslår følgelig at det presiseres i straffeprosessloven § 202 a at politiet har adgang til å iverksette skjult kameraovervåking fra offentlig sted mot privat sted.
+
+BrøBrø**Høringsinstansenes syn**
+
+Brø*Fornyings-, administrasjons- og kirkedepartementet, Politidirektoratet, Riksadvokaten, Kripos, Økokrim, Oslo statsadvokatembeter, Oslo politidistrikt, Telemark politidistrikt, Politiets sikkerhetstjeneste, Norges politilederlag* og *Politiets Fellesforbund* støtter Metodekontrollutvalgets forslag. *Advokatforeningen, Forsvarergruppen av 1977* og *Norsk forening for kriminal reform (KROM)* tar avstand fra forslaget.
+
+*Fornyings-, administrasjons- og kirkedepartementet* poengterer at det her er tale om bruk av skjult kamera rettet mot steder som politiet også ellers vil kunne observere eller overvåke manuelt. Departementet legger likevel til grunn at slik overvåking er mer inngripende enn overvåking av offentlig sted, ettersom den er rettet mot en eller flere konkrete personer. I tillegg vil de fleste ha en forventning om å være mindre iakttatt på privat enn på offentlig sted. Departementet fremhever imidlertid den potensielle effektiviseringsgevinsten ved å tillate slik overvåking, og mener den bør kunne tillates i kombinasjon med streng domstolskontroll:
+
+BrøBrø«\[…\] Det er klart at kameraovervåking vil være mer effektivt, og gi mer håndfast informasjon enn manuell overvåking. Samtidig vil det gi mulighet til i ettertid å gå tilbake i opptakene og se på detaljer eller episoder som ikke ville blitt oppfattet ved manuell overvåking. Overvåking vil også kunne vare over lengre tid når den skjer med kamera enn om den skal gjennomføres manuelt. Integritetsinngrepet er derfor større ved kameraovervåking enn ved manuell overvåking. FAD er likevel enig med utvalget i at skjult kameraovervåking av privat sted fra offentlig sted vil innebære en betydelig ressurseffektivisering. Dette, sammenholdt med streng domsstolskontroll for bruk av metoden, tilsier at tiltaket bør kunne tillates.»
+
+Brø*Økokrim* antar at adgangen til å overvåke fra offentlig mot privat sted vil kunne bli særlig viktig i miljøsaker, ved at den muliggjør filming av for eksempel en jakthytte eller et jakttårn.
+
+BrøBrø**Departementets vurdering**
+
+BrøDepartementet kan i det vesentlige tiltre utvalgets vurderinger når det gjelder skjult kameraovervåking på eller fra offentlig sted. Departementet mener således at dagens regel om skjult kameraovervåking på offentlig sted bør videreføres, og at politiet på samme vilkår bør ha adgang til å iverksette skjult kameraovervåking fra offentlig sted mot privat sted. Det vises til at dette er områder politiet allerede i dag kan observere ved manuell spaning, og hvor de som ferdes ikke kan ha noen forventning om ikke å bli iakttatt. At det er av betydning hvorvidt det som overvåkes kan observeres av enhver som er til stede, er også lagt til grunn i praksis fra EMD, jf. omtalen i punkt 12.3 ovenfor. Departementet er innforstått med at kameraovervåking utgjør et større inngrep enn manuell observasjon, men har ikke funnet dette avgjørende.
+
+Bruk av skjult kameraovervåking i etterforskningen vil kunne gi mer detaljert og håndfast informasjon enn manuell overvåking av de samme områdene. Adgang til å iverksette slik overvåking fra offentlig mot privat sted vil videre kunne medføre bedre utnyttelse av politiressurser, ved at automatiske hjelpemidler i visse tilfeller kan benyttes i stedet for operativt personell. Overvåkingen vil for eksempel kunne rette seg mot inngangsparti, gårdsrom, hage mv. som er synlig fra offentlig sted. Departementet finner likevel grunn til å understreke at overvåkingen ikke bør kunne innrettes slik at den fanger opp aktivitet som finner sted i private hjem, selv om dette skulle være synlig fra offentlig sted. En slik form for overvåking ville ha karakter av omgåelse av forbudet mot skjult kameraovervåking av private hjem som følger av departementets forslag, jf. punkt 12.6 nedenfor.
+
+BrøBrø**Skjult kameraovervåking på privat sted**
+
+BrøBrø**Metodekontrollutvalgets forslag**
+
+BrøMetodekontrollutvalget går inn for å utvide politiets adgang til å iverksette skjult kameraovervåking til også å gjelde på privat sted, unntatt i privat bolig, jf. utredningen punkt 21.4.3 side 224–225. Utvalget legger til grunn at skjult kameraovervåking på privat sted som utgangspunkt må anses som et større inngrep enn overvåking på offentlig sted. Det mener likevel at man ikke kan forvente å bevege seg helt fritt uten å bli observert av andre på privat sted, for eksempel i en bakgård eller et portrom. Utvalget finner det imidlertid klart at skjult kameraovervåking i privat bolig ikke under noen omstendighet bør tillates.
+
+Som et argument for å tillate kameraovervåking på privat sted legger utvalget særlig vekt på at kameraovervåking vil kunne benyttes i kombinasjon med andre skjulte tvangsmidler, og gjøre disse mer målrettet og således mindre inngripende overfor dem som rammes, se følgende uttalelse i utredningen punkt 21.4.3:
+
+BrøBrø«Det er særlig i kombinasjon med romavlytting utvalget mener fjernsynsovervåking av privat sted har sin berettigelse. Romavlytting vil som oftest også ramme tredjepersoner, ettersom politiet ikke alltid vil ha oversikt over om mistenkte er til stede eller ikke. Dette er etter utvalgets syn uheldig av hensyn til tredjepersonenes personverninteresser. Ved å kombinere romavlytting med fjernsynsovervåking kan politiet målrette avlyttingen ved å skru på og av avlyttingsutstyret etter om mistenkte er til stede eller ikke. På denne måten vil personvernkrenkelsene overfor tredjepersoner reduseres.»
+
+BrøUtvalget viser videre til at bruk av kameraovervåking i kombinasjon med romavlytting vil kunne redusere politiets ressursbruk. Det legger til grunn at selv om skjult kameraovervåking på privat sted særlig har sin berettigelse i kombinasjon med romavlytting, kan det ikke utelukkes at et slikt tvangsmiddel vil være hensiktsmessig også i kombinasjon med andre tvangsmidler eller i andre sammenhenger.
+
+På denne bakgrunn går Metodekontrollutvalget inn for at skjult kameraovervåking på privat sted, unntatt i privat bolig, bør kunne skje på strenge vilkår og etter tillatelse fra retten. Etter forslaget skal slik overvåking kunne skje ved etterforskning av de samme straffbare handlinger som kommunikasjonsavlytting etter straffeprosessloven § 216 a. Det foreslås videre krav om at overvåkingen må antas å være av vesentlig betydning for å oppklare saken, og at oppklaring ellers i vesentlig grad vil bli vanskeliggjort.
+
+BrøBrø**Høringsinstansenes syn**
+
+Brø*Fornyings-, administrasjons- og kirkedepartementet, Politidirektoratet, Riksadvokaten, Kripos, Økokrim, Oslo statsadvokatembeter, Oslo politidistrikt, Politiets sikkerhetstjeneste, Norges politilederlag* og *Politiets Fellesforbund* støtter Metodekontrollutvalgets forslag. Også *Telemark politidistrikt* støtter utvalgets forslag, men mener det går for kort. *Advokatforeningen, Forsvarergruppen av 1977* og *KROM* tar avstand fra forslaget.
+
+*Advokatforeningen* understreker de prinsipielle betenkeligheter ved å tillate økt bruk av skjult overvåking og kontroll av enkeltindividers aktivitet innenfor den private sfære, og motsetter seg at etterforskningsbehov her gis forrang.
+
+*Forsvarergruppen av 1977* påpeker at kameraovervåking er et svært inngripende tiltak overfor mistenkte, men i enda større grad overfor tredjepersoner. Gruppen peker på misbruksfaren, samt en frykt for uthuling av respekten for enkeltpersoners integritet ved bruk av denne type virkemidler. Gruppen er heller ikke enig i at politiets mulighet til å oppnå tilnærmet det samme ved vanlig spaning, er et argument for å tillate metoden:
+
+BrøBrø«Enhver må ta høyde for — utenfor husets/leilighetens fire vegger — at man kan bli observert av andre mennesker i nærheten, også om man er på privat sted. Imidlertid er det nok de færreste som holder det som påregnelig at en kan bli filmet i sin egen trappeoppgang, og det gjøres en antagelse fra vår side om at mange ville opplevd dette som svært krenkende.
+
+At politiet vil kunne ha mulighet til å observere mange av de samme bevegelser ved vanlig spaning, er etter vår oppfatning vesentlig annerledes enn å lagre menneskers bevegelser på film over lengre tid, potensielt til gjennomsyn for vesentlig flere enn spanerne selv, og ikke et argument for at fjernsynsovervåkning på privat sted bør kunne tillates. Snarere er det et argument for at man fortsetter å bruke de tradisjonelle metoder på dette feltet, og slik unngår de ideelle kostnadene som slik overvåkning vil medføre, selv om dette nok medfører større økonomiske kostnader.»
+
+BrøPå samme måte er *KROM* av den oppfatning at selv om man ikke kan forvente å bevege seg helt fritt uten å bli observert av andre på private steder, er filming en integritetskrenkelse av en helt annen karakter. *KROM* kan heller ikke følge utvalget i at skjult kameraovervåking av privat sted vil redusere behovet for romavlytting.
+
+*Kripos*, med tilslutning fra *Politidirektoratet*, er derimot enig i utvalgets vurderinger om at skjult kameraovervåking på privat sted vil være aktuelt i tilknytning til blant annet romavlytting. Høringsinstansen peker videre på at metoden også vil være aktuell i andre tilfeller:
+
+BrøBrø«Kripos er også enig i at skjult fjernsynsovervåking er en egnet metode i andre tilfeller enn som støtte for romavlytting. Eksempelvis egner den seg meget godt når politiet avdekker narkotikadepoter som oppbevares i fellesområder i boligkomplekser. Regelmessig får politiet kunnskap om narkotika som er gjemt i slike områder og det er behov for å knytte mistenkte til narkotikabeslaget. Utfordringen er at det er vanskelig å foreta spaning i slike områder, og det er usikkert når mistenkte vil dukke opp. En egnet fremgangsmåte vil være å erstatte narkotikaen med en lignende pakning og etablere fjernsynsovervåking for bevissikring. Tilsvarende kan man tenke seg om andre viktige bevismidler som er gjemt på privatområde, eksempelvis ransutstyr, penger, drapsvåpen mv.»
+
+BrøHøringsinstansen fremhever også at målrettet kameraovervåking av konkrete steder på privat område kan ivareta hensynet til tredjepersoner bedre enn eksempelvis overvåking av et inngangsparti av en boligblokk, hvor alle som går inn eller ut vil bli filmet.
+
+*Telemark politidistrikt* mener forslaget går for kort, og argumenterer for at adgangen til å kameraovervåke privat sted også bør omfatte privat bolig:
+
+BrøBrø«Begrunnelsen for å gi en slik anledning til fjernsynsovervåking er blant annet å effektivisere romavlytting og gjøre slik avlytting mer presis. Denne begrunnelsen tilsier ingen slik begrensning som utvalget foreslår. På de samme vilkår som for kommunikasjonskontroll, eventuelt de vilkår som gjelder for romavlytting, bør det være adgang til skjult fjernsynsovervåking også av beboelsesrom.»
+
+Brø*Politidirektoratet* kan på sin side ikke se at det foreligger tilstrekkelig tungtveiende grunner til å tillate kameraovervåking i privat bolig.
+
+*Oslo politidistrikt*, med tilslutning fra *Politidirektoratet*, understreker viktigheten av å angi anvendelsesområdet for den foreslåtte bestemmelsen tydelig. Høringsinstansen har samtidig innspill til forståelsen av begrepet «privat bolig»:
+
+BrøBrø«Med dette som utgangspunkt vil det likevel oppstå en del grensetilfeller. Hva med et hotellrom som leies for kort tid, eller fengselscelle, lugar el. Som heller ikke er naturlig omtale som privat bolig. Bortsett fra fengselsceller vil disse stedene bare brukes for et kortere tidsrom. Vi antar derfor at dette ikke kan anses som “privat bolig” (med mulig unntak for celle), men er samtidig innforstått med at skjult fjernsynsovervåkning i slike tilfeller lett kan bli ansett for å være et uforholdsmessig inngrep.»
+
+BrøPolitidistriktet peker også på problemer knyttet til såkalte dekkleiligheter:
+
+BrøBrø«Et særlig praktisk tilfelle er de såkalte “dekkleiligheter” som kriminelle ofte benytter seg av. De er gjerne innredet og utstyrt som en “privat bolig”, men de brukes hovedsakelig til å planlegge straffbare handlinger, som oppbevaringssted for narkotika, tyvegods, redskaper og utstyr for bruk ved straffbare handlinger, gjemmested for mistenkte eller etterlyste personer etc. Det kan tenkes at noen av de som eier/leier leiligheten overnatter på stedet fra tid til annen, men at den for øvrig ikke benyttes av noen som ordinære bolig. Vi antar at slike leiligheter ikke faller inn under forbudet mot skjult fjernsynsovervåkning.»
+
+BrøEnkelte høringsinstanser uttaler seg mer konkret om vilkårene for bruk av skjult kameraovervåking på privat sted. *Oslo politidistrikt*, med tilslutning fra *Politidirektoratet*, slutter seg til utvalgets forslag, og anser det som et riktig utgangspunkt å tillate slik overvåking i samme type saker som kommunikasjonsavlytting. *Forsvarergruppen av 1977* og *KROM* kritiserer forslaget, som innebærer at skjult kameraovervåking på privat sted også kan foretas ved etterforskning av simple narkotikaovertredelser etter straffeloven 1902 § 162 første ledd (straffeloven § 231). *KROM* uttaler:
+
+BrøBrø«Utvalgets lovforslag innebærer at det kan fjernsynsovervåkes på privat sted også for simple narkotikaforbrytelser. Etter KROMs syn åpnes det med dette for alt for inngripende skjulte etterforskningsskritt overfor en allerede stigmatisert gruppe og for en enorm mengde uskyldige tredjepersoner som er på vei hjem eller på besøk hos venner og kjente. Dette er etter KROMs syn helt uakseptabelt.»
+
+BrøHeller ikke *Forsvarergruppen av 1977* mener at alvorlighetsgraden i straffeloven 1902 § 162 første ledd (straffeloven § 231) kan forsvare bruk av skjult kameraovervåking på privat sted. Dersom forslaget om skjult kameraovervåking på privat sted blir tatt til følge, fremmer gruppen derfor forslag om å unnta simple narkotikaovertredelser.
+
+*NRK* fremholder at dersom utvalgets forslag skal aksepteres, bør det nedlegges forbud mot å foreta kameraovervåking av eller mot redaksjonslokaler. Det vises til at slik overvåking vil kunne vise hvilke personer som har vært i kontakt med pressen og dermed kunne avsløre dens kilder. Under enhver omstendighet mener høringsinstansen at de samme begrensninger som gjelder for kommunikasjonskontroll og romavlytting, også bør gjelde for skjult kameraovervåking.
+
+BrøBrø**Departementets vurdering**
+
+BrøBrø*Bør det åpnes for skjult kameraovervåking på privat sted?*
+
+BrøDepartementet går i punkt 12.1.5.3 ovenfor inn for at skjult kameraovervåking av privat sted som kan observeres fra offentlig sted, bør tillates. Spørsmålet her er om slik overvåking også bør tillates på privat sted som *ikke* er synlig fra offentlig sted. Etter departementets syn er overvåking av områder som ikke kan ses fra offentlig tilgjengelig sted, vesentlig mer inngripende enn overvåking av sted som kan observeres av enhver. Som Metodekontrollutvalget påpeker, er det likevel ikke slik at man her kan forvente å bevege seg fritt, helt uten å bli iakttatt av andre mennesker. Eksempelvis vil fellesarealer som bakgård, portrom, loft og kjeller regulært være beferdet av naboer, gjester mv., som kan overvære eventuell aktivitet på stedet.
+
+En adgang til å iverksette skjult kameraovervåking antas å kunne være av etterforskningsmessig betydning når politiet får kunnskap om narkotika, våpen, utstyr mv. som oppbevares på steder hvor det er vanskelig å foreta spaning. Dette gjelder for eksempel når man finner slike gjenstander i fellesområder i bygårder som ikke er offentlig tilgjengelig. Ved å iverksette skjult kameraovervåking på stedet vil politiet kunne observere personer som oppsøker gjenstandene, og dermed lettere kunne knytte mistenkte til funnet.
+
+Som Metodekontrollutvalget påpeker, vil skjult kameraovervåking på privat sted dessuten kunne være et effektivt virkemiddel i kombinasjon med andre skjulte tvangsmidler. Dette gjelder eksempelvis romavlytting eller kommunikasjonskontroll. Ved bruk av romavlytting alene kan det være nødvendig å lytte på samtalene til tredjepersoner selv om mistenkte ikke er til stede, for å kunne fastslå om vedkommende er der. Ved å kameraovervåke for eksempel inngangspartiet til lokalet som avlyttes, vil man kunne klargjøre om mistenkte på et bestemt tidspunkt befinner seg i lokalet. Dermed vil romavlyttingen kunne skrus av og på ettersom hvorvidt mistenkte er til stede, slik at utenforstående tredjepersoner i mindre grad rammes av avlyttingen. Departementet antar derfor at kameraovervåkingen vil kunne bidra til å gjøre bruken av romavlytting mer målrettet og således mindre inngripende. En slik bruk vil videre kunne redusere behovet for manuell spaning i forbindelse med bruk av romavlytting, og således føre til besparelser i politiressurser.
+
+Departementet går på denne bakgrunn inn for at politiet, på strenge vilkår, bør gis adgang til å iverksette skjult kameraovervåking på visse private steder. På grunn av de sterke personvernhensyn som gjør seg gjeldende, er departementet samtidig enig med utvalget i at adgangen til å iverksette skjult kameraovervåking ikke bør omfatte private hjem. Det er ikke vanskelig å argumentere for at også denne typen overvåking kunne utgjøre et effektivt virkemiddel i etterforskningen. Dette må imidlertid stilles opp mot den tungtveiende interesse hver enkelt har i å ha et område innenfor husets fire vegger hvor man kan få være helt i fred. Dette ligger i kjerneområdet for de verdier som er beskyttet av EMK artikkel 8 og Grunnloven § 102. De samme hensyn ligger også til grunn for forbudet mot ransaking av private hjem i forebyggende øyemed etter politiloven § 17 d annet ledd siste punktum.
+
+Hvorvidt noe skal anses som privat bolig, og derfor ikke kan kameraovervåkes, må bero på om begrunnelsen for en sterkere beskyttelse gjør seg gjeldende. Her vil rekkevidden av Grunnloven § 102 kunne tjene som rettesnor. Således vil husværets art ikke i seg selv være avgjørende, slik at eksempelvis en hytte, husbåt eller campingbil omfattes av forbudet, dersom den benyttes som noens permanente bolig. Derimot antas unntaket normalt ikke å gjelde for steder hvor personer oppholder seg over kortere tidsrom, slik som fritidsboliger, hotellrom, kontorlokaler og lignende. Det legges likevel til grunn at personverninteresser i slike tilfeller vil kunne gjøre seg gjeldende i varierende grad, avhengig av stedets karakter og bruk. Dette vil etter omstendighetene kunne komme inn som et viktig moment i forholdsmessighetsvurderingen etter straffeprosessloven § 170 a.
+
+Departementet legger til grunn at såkalte dekkboliger vanligvis ikke er å anse som et privat hjem, og derfor ikke vil falle inn under unntaket. Dette er steder som er innredet for å se ut som et privat hjem, men som i realiteten brukes til å planlegge kriminelle handlinger, skjule mistenkte, oppbevare utstyr og utbytte mv. Personer som oppholder seg her vil følgelig sjelden ha noen beskyttelsesverdig interesse i ikke å bli utsatt for skjult kameraovervåking. Departementet er innforstått med at det vil kunne by på visse bevisproblemer å avgjøre hvorvidt noe som ser ut som et privat hjem, i realiteten er en dekkbolig. Særlig gjelder dette på et tidlig stadium i etterforskningen. Videre vil det trolig kunne være en uklar grense mellom faktiske dekkboliger og steder som brukes som alminnelig bolig, men som også fungerer som åsted for planlegging av kriminelle handlinger, skjulested for mistenkte eller lignende. Det vil her være opp til retten, gjennom en alminnelig bevisvurdering, å avgjøre hvorvidt det aktuelle husværet er å anse som et privat hjem og dermed omfattes av unntaket. I den sammenheng er det sentralt at avgjørelse om skjult kameraovervåking av privat sted treffes ved kjennelse, med de krav til begrunnelse dette stiller, jf. punkt 12.7 nedenfor.
+
+BrøBrø*Ved hvilke lovbrudd bør metoden kunne benyttes?*
+
+BrøMetodekontrollutvalget foreslår at skjult kameraovervåking på privat sted skal kunne iverksettes i samme typer saker som kan gi grunnlag for kommunikasjonsavlytting etter straffeprosessloven § 216 a. Dette innebærer at metoden som utgangspunkt kan benyttes i etterforskningen av alle lovbrudd som har en strafferamme på fengsel i ti år eller mer. Departementet anser dette for å være et riktig utgangspunkt, som sikrer at en så vidt inngripende etterforskningsmetode bare kan benyttes i saker som gjelder alvorlig kriminalitet.
+
+Utvalgets forslag innebærer videre at skjult kameraovervåking på privat sted – i likhet med kommunikasjonsavlytting – også kan benyttes i etterforskningen av visse særskilt angitte lovbrudd med lavere strafferamme enn fengsel i ti år. Forslaget medfører at skjult kameraovervåking på privat sted blant annet kan benyttes ved enkelte overtredelser av straffeloven 1902 kapittel 8 om forbrytelser mot statens selvstendighet og sikkerhet og kapittel 9 om forbrytelser mot Norges statsforfatning og statsoverhode (straffeloven kapittel 17), samt ved narkotikaovertredelser, grov menneskesmugling og forsettlig eller uaktsom overtredelse av eksportkontrolloven. Departementet er enig i at dette er lovbrudd som på grunn av sine samfunnsskadelige konsekvenser eller særlige etterforskningsmessige utfordringer, kan forsvare en adgang til også å kunne iverksette skjult kameraovervåking på privat sted.
+
+Som det fremgår av proposisjonen kapittel 7, foreslår departementet å utvide adgangen til å iverksette kommunikasjonsavlytting etter straffeprosessloven § 216 a i noe større grad enn det som følger av utvalgets forslag. Etter forslaget skal kommunikasjonsavlytting kunne benyttes i etterforskningen av saker om overgrepsbilder av barn etter straffeloven § 311 (straffeloven 1902 § 204 a), frihetsberøvelse etter §§ 254 (straffeloven 1902 § 223) og simpel menneskehandel etter § 257 (straffeloven 1902 § 224), samt om grov menneskesmugling etter utlendingsloven § 108 femte ledd. Etter departementets oppfatning tilsier de samme hensyn som begrunner bruk av kommunikasjonsavlytting i disse sakstypene, at politiet også bør kunne iverksette skjult kameraovervåking på privat sted. Det vises for så vidt til drøftelsen i punkt 7.4, hvor kriminalitetskravet er inngående behandlet.
+
+BrøBrø*Øvrige vilkår*
+
+BrøI tillegg til kravet om skjellig grunn til mistanke om at det er begått en handling av en viss alvorlighetsgrad, foreslår departementet at skjult kameraovervåking på privat sted bare skal kunne benyttes dersom det må antas at dette vil være av vesentlig betydning for å oppklare saken (indikasjonskrav). Kravet innebærer at det må antas at overvåkingen på en kvalifisert måte vil være til hjelp for å avdekke de straffbare forholdene, sikre bevis osv. Det foreslås videre at metoden bare skal kunne benyttes dersom oppklaring ellers i vesentlig grad vil bli vanskeliggjort (subsidiaritetskrav). Tilsvarende vilkår gjelder også for andre inngripende etterforskningsmetoder, som for eksempel personnær teknisk sporing etter straffeprosessloven § 202 c, kommunikasjonsavlytting etter § 216 a eller annen kommunikasjonskontroll etter § 216 b og romavlytting etter § 216 m.
+
+Departementet har videre merket seg NRKs merknader knyttet til skjult kameraovervåking av redaksjonslokaler, og er enig i at pressens kildevern bør hensyntas ved utformingen av reglene om skjult kameraovervåking på privat sted. Ved lov 21. juni 2013 nr. 86 ble straffeprosessloven §§ 216 c og 216 m endret, for å sikre at reglene om kommunikasjonskontroll og romavlytting respekterer pressens rett til kildevern. Det ble der innført et krav om særlige grunner for å tillate kommunikasjonskontroll overfor redaktører og journalister, og for å tillate romavlytting av redaksjonslokaler eller tilsvarende. Etter departementets syn bør samme begrensning gjelde i relasjon til skjult kameraovervåking av redaksjonslokale eller tilsvarende sted hvor redaktør eller journalist fører samtaler av yrkesmessig art. Det vises for så vidt til begrunnelsen gitt i Prop. 147 L (2012–2013) punkt 8 side 133 flg.
+
+BrøBrø**Formelle krav**
+
+BrøEtter gjeldende rett treffes rettens avgjørelse om iverksettelse av skjult kameraovervåking på offentlig sted etter straffeprosessloven § 202 a ved beslutning. Metodekontrollutvalgets forslag til ny utforming av § 202 a medfører at avgjørelse om skjult kameraovervåking skal skje ved kjennelse, både ved overvåking på eller fra offentlig sted og overvåking på privat sted. Endringen er ikke nærmere kommentert.
+
+*Oslo politidistrikt*, med tilslutning fra *Politidirektoratet*, mener rettens avgjørelse om skjult kameraovervåking på eller fra offentlig sted fremdeles bør skje ved beslutning:
+
+BrøBrø«En begjæring til retten etter bestemmelsens første ledd bør, som i dag, behandles som kontorforretning. Denne fremgangsmåten har vært benyttet siden bestemmelsen ble innført ved lov 15. mars 1991 nr. 5, og vi kan ikke se at det er fremkommet vektige argumenter. Den mer omstendelige behandlingen med rettsmøte, oppnevning av advokat i medhold av § 100a m.v. savner etter vår mening tilstrekkelig begrunnelse. Når det gjelder eventuell oppnevning av 100a-advokat bemerkes at det ikke er et krav om noen bestemt mistenkt, for å kunne treffe beslutning etter dagens 202a (utkastet 202a, 1. ledd). Det kan være at politiet begjærer tillatelse til overvåkning av en offentlig plass hvor det er mistanke om at det omsettes narkotika eller tyvegods. I slike tilfeller vil det ikke være noen mistenkt som § 100a-advokaten kan representere.»
+
+BrøDepartementet har vurdert hvorvidt avgjørelser om skjult kameraovervåking *på eller fra offentlig sted* skal treffes ved kjennelse, slik det følger av utvalgets forslag. Dette er den alminnelige ordning ved de fleste andre typer skjulte tvangsmidler, slik som for eksempel personnær teknisk sporing etter straffeprosessloven § 202 c, kommunikasjonskontroll etter § 216 a eller § 216 b og romavlytting etter § 216 m. Disse tvangsmidlene skiller seg imidlertid fra skjult kameraovervåking på eller fra offentlig sted ved at det for sistnevnte ikke er krav om at mistanken skal rette seg mot en eller flere bestemte personer. Ettersom overvåkingen skjer på sted som kan iakttas av enhver, må metoden også anses mindre inngripende enn andre skjulte tvangsmidler som er nevnt her. På denne bakgrunn er departementet enig med Oslo politidistrikt i at det er forsvarlig at tillatelse til å iverksette skjult kameraovervåking på eller fra offentlig sted også i fremtiden gis ved formløs beslutning.
+
+Adgangen til å iverksette skjult kameraovervåking *på privat sted* er ny og utgjør et mer inngripende tiltak enn overvåking på offentlig sted. Dette tilsier etter departementets vurdering at metoden kombineres med sterke rettssikkerhetsgarantier. Departementet tiltrer derfor utvalgets forslag om at avgjørelser om skjult kameraovervåking på privat sted skal fattes ved kjennelse. I motsetning til ved formløs beslutning, er det krav om at kjennelser skal begrunnes, jf. straffeprosessloven § 52. Dette synliggjør at avgjørelsen er fattet på korrekt grunnlag og representerer således en viktig rettssikkerhetsgaranti.
+
+Som en ytterligere rettssikkerhetsgaranti foreslår departementet at det i saker om skjult kameraovervåking på privat sted, skal oppnevnes offentlig advokat for den mistenkte. Dette gjøres ved at det inntas en henvisning til den relevante bestemmelsen i straffeprosessloven § 100 a. Advokaten skal ivareta den mistenktes interesser i forbindelse med rettens behandling av begjæringen. En tilsvarende regel finnes for andre typer skjulte tvangsmidler, herunder hemmelig ransaking etter § 200 a, teknisk sporing etter § 202 c, kommunikasjonskontroll etter § 216 a eller § 216 b og romavlytting etter § 216 m. Det vises for øvrig til punkt 6.6.7.
+
+BrøBrø**Hastekompetanse**
+
+BrøI henhold til Metodekontrollutvalgets forslag skal kompetansen til å tillate skjult kameraovervåking både på eller fra offentlig sted og på privat sted, tilligge retten. Dette er i samsvar med det som følger av dagens regel om kameraovervåking på offentlig sted i straffeprosessloven § 202 a. Det samme er hovedregelen ved bruk av de fleste andre typer skjulte tvangsmidler.
+
+Metodekontrollutvalget har ikke drøftet behovet for å gi påtalemyndigheten hastekompetanse. Flere høringsinstanser, herunder *Politidirektoratet, Riksadvokaten, Kripos* og *Oslo politidistrikt*, etterlyser imidlertid en slik kompetanse. *Riksadvokaten* illustrerer behovet med situasjonen der politiet for eksempel finner et parti narkotika i forbindelse med en hemmelig ransaking. I slike tilfeller vil mye kunne skje ved depotet innen man har rettens kjennelse.
+
+Under henvisning til dagens bestemmelse bemerker *Kripos* og *Oslo politidistrikt* at man nå håndterer hastesituasjoner ved at kun «vedvarende» kameraovervåking anses å kreve rettens tillatelse. *Oslo politidistrikt*, med tilslutning fra *Politidirektoratet*, uttaler:
+
+BrøBrø«§ 202a — slik den lyder i dag — har ingen hastebestemmelse. Med en utvidelse av bestemmelsen som foreslått av utvalget, bør det gis en hastebestemmelse på samme måte som ved §§ 200a, 216a, m.fl. Dagens bestemmelse regulerer som nevnt kun «vedvarende» fjernsynsovervåkning, slik at overvåkning som pågår i et kortere tidsrom, ikke kan anses som «vedvarende», og således falle utenfor det som reguleres i bestemmelsen. Dette har så langt avhjulpet det problemet som oppstår når det haster å få satt i gang overvåkingen.»
+
+BrøDepartementet er enig med de høringsinstansene som har uttalt seg i at det er behov for å gi påtalemyndigheten hastekompetanse til å iverksette skjult kameraovervåking. Som Riksadvokaten påpeker kan dette for eksempel være aktuelt i saker hvor man i forbindelse med en ransaking finner et parti narkotika eller lignende, og derfor ønsker å iverksette kameraovervåking umiddelbart. Likeledes kan det tenkes at et behov for å iverksette skjult kameraovervåking oppstår utenom kontortid, i helg eller på helligdag, når man ikke har mulighet til å innhente rettens samtykke.
+
+Etter departementets syn bør påtalemyndighetens kompetanse fremgå uttrykkelig av loven, hva gjelder både overvåking på eller fra offentlig sted og overvåking på privat sted. Dette harmonerer også med løsningen ved andre typer skjulte tvangsmidler, slik som teknisk sporing etter straffeprosessloven § 202 c, kommunikasjonskontroll etter straffeprosessloven § 216 a eller § 216 b og romavlytting etter straffeprosessloven § 216 m. Det foreslås derfor at påtalemyndigheten gis kompetanse til å beslutte skjult kameraovervåking i tilfeller hvor det ved opphold er stor fare for at etterforskningen vil lide, etter mønster av straffeprosessloven § 216 d.
+
+BrøBrø**Innbruddshjemmel**
+
+BrøMetodekontrollutvalget konkluderer i sin utredning med at det vil være nødvendig for politiet med en innbruddshjemmel for å bruke skjult kameraovervåking på privat sted. Det vises til at selv om det i prinsippet kan innhentes samtykke fra for eksempel gårdeier, styret i et borettslag eller lignende, vil hensynet til diskresjon rundt tvangsmiddelbruken her stå sentralt. Utvalget går derfor inn for at politiet gis hjemmel til å foreta innbrudd for å plassere nødvendig utstyr for å kunne gjennomføre overvåkingen.
+
+*Politidirektoratet, Riksadvokaten, Kripos* og *Oslo politidistrikt* støtter uttrykkelig forslaget om en innbruddshjemmel i straffeprosessloven § 202 a. De to sistnevnte påpeker imidlertid at en slik innbruddsadgang synes uteglemt i utformingen av bestemmelsen.
+
+Departementet slutter seg til de vurderinger Metodekontrollutvalget har gjort om behovet for innbruddshjemmel i straffeprosessloven § 202 a. Etter hva departementet kan se, er utvalgets konklusjon på dette punktet likevel ikke reflektert i den foreslåtte lovbestemmelsen. Det foreslås derfor at en slik hjemmel uttrykkelig inntas, etter mønster av straffeprosessloven § 216 m femte ledd.
+
+BrøBrø**Underretningsplikt**
+
+BrøI proposisjonen her punkt 6.10 foreslås å gjennomføre en enhetlig regulering av plikten til underretning ved bruk av skjulte tvangsmidler. Av hensyn til konsekvens i regelverket, bør reglene om skjult kameraovervåking etter departementets syn utformes i tråd med dette.
+
+Etter gjeldende rett foreligger ingen underretningsplikt ved bruk av skjult kameraovervåking på offentlig sted etter straffeprosessloven § 202 a. Etter departementets syn er det heller ikke hensiktsmessig å innføre underretningsplikt ved overvåking *på eller fra offentlig sted*. Det vises til at slik overvåking kan iverksettes selv om det ikke foreligger mistanke mot en eller flere bestemte personer. Overvåkingen vil dessuten potensielt kunne ramme en stor gruppe individer, som ofte kan være vanskelig å identifisere. Som påpekt under punkt 6.10.2.4, vil en plikt til å underrette enhver som rammes av metodebruken i slike tilfeller være meget ressurskrevende for politiet og ikke gi noen klar personvernmessig gevinst.
+
+I henhold til forslaget om skjult kameraovervåking *på privat sted* kan metoden benyttes når «noen med skjellig grunn mistenkes» for en handling av en viss alvorlighet. Følgelig kan slik overvåking bare iverksettes når mistanken er rettet mot en eller flere bestemte personer. Metodens inngripende karakter tilsier her at det er større grunn til at mistenkte i ettertid underrettes om overvåkingen. Departementet finner derfor at mistenkte som hovedregel bør underrettes om bruk av skjult kameraovervåking på privat sted. Videre bør underretning også gis til den som har rådigheten over det aktuelle stedet, når dette er en annen enn den mistenkte.
+
+Det vises for øvrig til proposisjonen punkt 6.10.
+
+BrøBrø**Skjult kameraovervåking i avvergende og forebyggende øyemed**
+
+BrøMetodekontrollutvalget fremholder i utredningen punkt 21.4.5 side 225 at de hensyn som taler for å tillate skjult kameraovervåking fra offentlig mot privat sted, samt på privat sted unntatt privat bolig, gjør seg gjeldende også der politiet søker å avverge eller forebygge alvorlige straffbare handlinger. En adgang til bruk i avvergende og forebyggende øyemed gjelder allerede i dag for skjult kameraovervåking på offentlig sted, jf. straffeprosessloven § 222 d og politiloven § 17 d, som begge viser til straffeprosessloven § 202 a. Ettersom utvalget ikke vil åpne for overvåking i privat bolig, kan det ikke se at tvangsmiddelbruken vil komme i konflikt med Grunnloven § 102.
+
+*KROM* er uenig med utvalget i at private steder som trappeoppgang, kjellerrom og loft i sameie faller utenfor det Grunnloven § 102 er ment å beskytte. KROM kan ikke se at det er grunn til å forskjellsbehandle dem som bor i enebolig og dem som bor i sameie eller borettslag, når det gjelder hva som hører til deres hus. Ingen andre høringsinstanser har uttalt seg om adgangen til å benytte skjult kameraovervåking i avvergende og forebyggende øyemed.
+
+*Departementet* kan i det vesentlige slutte seg til utvalgets vurderinger når det gjelder skjult kameraovervåking i avvergende og forebyggende øyemed. En mener således at det bør være adgang til overvåking både på eller fra offentlig sted og på privat sted som ikke er privat hjem, også for å forebygge eller avverge alvorlige straffbare handlinger. Departementet finner at slik tvangsmiddelbruk ikke vil være i strid med Grunnloven § 102, og peker særlig på at overvåkingen under ingen omstendighet kan rettes mot private hjem.
+
+Som følge av metodens inngripende karakter finner departementet imidlertid at det i tillegg til de alminnelige vilkår bør kreves «særlige grunner» for å iverksette skjult kameraovervåking *på privat sted* for å forebygge eller avverge en straffbar handling. Et tilsvarende krav gjelder allerede i dag ved bruk av hemmelig ransaking etter straffeprosessloven § 200 a, personnær teknisk sporing etter § 202 c, kommunikasjonsavlytting etter § 216 a og romavlytting etter § 216 m, jf. henholdsvis straffeprosessloven § 222 d tredje ledd annet punktum og politiloven § 17 d annet ledd annet punktum. Det foreslås derfor at straffeprosessloven § 202 a annet ledd om skjult kameraovervåking på privat sted legges til i opplistingen i de to sistnevnte bestemmelsene.
+
+Det vises for øvrig til proposisjonen kapittel 13, hvor vilkårene for skjult metodebruk i forebyggende og avvergende øyemed behandles i nærmere detalj.
+
+BrøBrø**Tvangsmiddelbruk i avvergende og forebyggende øyemed**
+
+BrøBrø**Innledning**
+
+BrøDe fleste reglene om bruk av skjulte tvangsmidler krever at det er skjellig grunn til å tro at det begås eller er begått et lovbrudd av en viss alvorlighetsgrad. Ved lov 17. juni 2005 nr. 87 ble imidlertid politiet gitt adgang til å anvende skjulte tvangsmidler for å innhente informasjon med sikte på å *avverge* bestemte former for organisert og annen alvorlig kriminalitet, jf. straffeprosessloven § 222 d. Samtidig ble det innført en hjemmel i politiloven § 17 d til å bruke tvangsmidler for å *forebygge* kriminalitet. Skillet mellom forebyggende og avvergende metodebruk knytter seg til grensedragningen mellom generell forebyggende virksomhet og strafferettslig etterforskning. Forskjellen i begrepsbruk markerer at en – når metodebruken skjer som ledd i etterforskning – i tid gjerne befinner seg nærmere handlingen som søkes forhindret, jf. Ot.prp. nr. 60 (2004–2005) punkt 6.1 side 60.
+
+Departementet understreket at PST, i likhet med politiet for øvrig, som utgangspunkt og hovedregel bare skal kunne ta i bruk tvangsmidler etter at etterforskning er satt i verk, jf. Ot.prp. nr. 60 (2004–2005) punkt 9.3.6.4 side 124. I hovedsak foreslo derfor departementet at PSTs behov for økt bruk av tvangsmidler skulle dekkes ved å åpne for avvergende bruk av tvangsmidler som ledd i etterforskning, jf. straffeprosessloven § 222 d. For å dekke PSTs behov for økt metodetilgang på en tilfredsstillende måte, var det imidlertid nødvendig å senke mistankekravet ytterligere for noen få straffbare forhold. Fordi slik tvangsmiddelbruk skjer utenfor etterforskning, foreslo departementet å plassere hjemmelen i politiloven som en ny § 17 d. Dersom en sak begynner som en sak om forebygging, og på et tidspunkt går over i etterforskning, må den fortsatte bruken av tvangsmidler hjemles i straffeprosessloven, og tillatelse fra retten må innhentes på ny etter reglene i den loven.
+
+BrøBrø**Internasjonale forpliktelser**
+
+BrøBruk av tvangsmidler i avvergende og forebyggende øyemed reguleres i hovedsak av de samme internasjonale forpliktelsene som bruk av tvangsmidler i oppklaringssammenheng. Særlig relevant er retten til privatliv, vernet i blant annet FNs konvensjon om sivile og politiske rettigheter (SP) artikkel 17 og Den europeiske menneskerettighetskonvensjon (EMK) artikkel 8. På samme måte som bruk av tvangsmidler i etterforskningsøyemed, vil bruk av tvangsmidler i avvergende og forebyggende øyemed kunne utgjøre inngrep i denne rettigheten.
+
+SP artikkel 17 verner mot «vilkårlige eller ulovlige» inngrep. FNs menneskerettighetskomité har på generelt grunnlag uttalt at inngrep må være basert på relevant og detaljert lovgivning for ikke å stride med konvensjonen.
+
+SP artikkel 17 er ikke ansett å gå lenger enn EMK artikkel 8. Etter EMK artikkel 8 vil inngrepet være i overensstemmelse med konvensjonen dersom de tre vilkårene i artikkel 8 (2) er oppfylt: Tvangsmiddelbruken må være i «samsvar med loven», forfølge et legitimt formål og bli ansett «nødvendig i et demokratisk samfunn».
+
+Det første vilkåret inneholder to elementer: Det må eksistere et rettslig grunnlag i nasjonal rett, og hjemmelen må være tilstrekkelig tilgjengelig og klar til at borgeren kan forutse sin rettsstilling, jf. punkt 5.2 ovenfor. Ved bruk av tvangsmidler har EMD lagt vekt på at nasjonal rett må inneholde rettssikkerhetsgarantier som verner mot vilkårlig maktutøvelse.
