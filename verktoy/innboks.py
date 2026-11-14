@@ -21,7 +21,7 @@ GRENSE = (0.7, 1.5)   # ordtall i ny tekst delt på ordtall i PDF-teksten
 
 def finn(navn, rader):
     """Dokumentet filnavnet passer med, eller en forklaring på hvorfor det ikke ble funnet."""
-    stamme = os.path.splitext(navn)[0]
+    stamme = re.sub(r" ?\(\d+\)$", "", os.path.splitext(navn)[0])   # «fil (1).zip» fra nettleseren
     m = re.search(r"KU-[0-9a-f-]{36}", stamme)
     if m:
         r = rader.get(m.group(0))
