@@ -18,7 +18,7 @@ Dokumentene og lovene ligger ikke i denne skillen. De ligger i to åpne baser p�
 
 ## Ny versjon
 
-Hent `https://raw.githubusercontent.com/Offallnor/offdocspol/main/skills/offdocspol/SKILL.md`. Har den en nyere dato i versjonslinjen enn denne, avslutt svaret med en skillelinje og: «**Ny versjon:** Det finnes en nyere versjon av denne skillen. Si "oppdater skillen" for å få den.» Si det bare én gang i samtalen. Ber brukeren om å oppdatere, vis den nye SKILL.md som et lagringskort. Feiler hentingen, la det være.
+Hent `https://raw.githubusercontent.com/Offallnor/offdocspol/main/SKILLVERSJONER.md`. Står det en nyere versjon av `offdocspol` der enn i versjonslinjen over, avslutt svaret med en skillelinje og: «**Ny versjon:** Det finnes en nyere versjon av denne skillen. Si "oppdater skillen" for å få den.» Si det bare én gang i samtalen. Ber brukeren om å oppdatere, hent `https://raw.githubusercontent.com/Offallnor/offdocspol/main/skills/offdocspol/SKILL.md` og vis den som et lagringskort. Feiler hentingen, la det være.
 
 ## Hvis hentingen feiler
 
