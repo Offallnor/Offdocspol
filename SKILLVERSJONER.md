@@ -4,4 +4,4 @@ Nyeste versjon av skillen for denne basen. Skillen sammenligner sin egen versjon
 
 | Skill | Versjon |
 |---|---|
-| offdocspol | 2026-11-14 |
+| offdocspol | 2026-11-14.2 |
