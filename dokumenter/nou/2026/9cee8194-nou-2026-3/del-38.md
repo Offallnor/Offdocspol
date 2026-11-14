@@ -1,897 +1,345 @@
-# NOU 2026: 3, del 38 av 50 (side 410–419)
+# NOU 2026: 3, del 38 av 56
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2026/9cee8194-nou-2026-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2026-3/id3149017/
-- Tekst: hentet fra PDF. OBS: 5 tabeller, 20 figurer, 145 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 410]
-
-408
-
-Kapittel 11
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-antas å stamme fra Kristiansen. DNA-undersøkelsene foretatt etter gjenåpningen har ikke
-styrket teorien om to gjerningspersoner.
-Teledatabevisene trekker i retning av at
-Kristiansen ikke er skyldig. Det er nærliggende å anta at Kristiansens mobiltelefon
-befant seg innenfor det sannsynlige dekningsområdet for basestasjonen EG_A da de aktuelle
-meldingene ble mottatt og sendt. Dette er vanskelig å forene med Andersens forklaring om
-hvor han og Kristiansen beveget seg forut for
-møtet med jentene. Heller ikke det videre hendelsesforløpet, slik det er forklart av Andersen,
-passer godt med tekstmeldingene. Hypotesen
-om at Kristiansen kan ha beveget seg til og fra
-mellom åstedet og dekningsområdet, herunder at han kan ha etterlatt mobiltelefonen i
-sykkelvesken, fremstår som lite plausibel og
-mangler støtte i bevisene. Teledatabevisene er
-derimot forenlige med Kristiansens forklaring
-om at han i det aktuelle tidsrommet oppholdt
-seg ved egen bopel.
-Andersens forklaring lider på flere sentrale
-punkter av svakheter både hva gjelder indre
-sammenheng og plausibilitet, og ikke minst
-manglende samsvar med andre opplysninger i
-saken. Forklaringen om hendelsesforløpet på
-åstedet og egen rolle bærer preg av ansvarsfraskrivelse. I tillegg kommer at Andersen har forklart seg skiftende om de seksuelle overgrepene. De nye DNA-undersøkelsene kan trekke
-i retning av at Andersens rolle på åstedet har
-vært en annen og mer aktiv enn det han har
-erkjent. Hans forklaring lar seg dessuten vanskelig forene med teledatabevisene. Samlet
-sett er Andersens forklaring preget av uriktigheter og manglende troverdighet i en slik grad
-at den vanskelig kan tillegges vekt i Kristiansens disfavør.
-Det foreligger ikke andre bevismomenter
-som i nevneverdig grad kaster lys over spørsmålet om Kristiansen tok del i de straffbare
-handlingene.
-Riksadvokaten er kommet til følgende konklusjon:
-Det er ikke bevismessig grunnlag for
-videre forfølgning mot Kristiansen for de forhold som er omfattet av Gjenopptakelseskommisjonens avgjørelse. Det skal dermed nedlegges påstand om frifinnelse i gjenåpningssaken.
-Etter straffeprosessloven § 400 femte ledd
-kan påtalemyndigheten samtykke i at retten
-avsier frifinnende dom uten hovedforhandling.
-Slik denne saken ligger an, er riksadvokaten
-kommet til at slikt samtykke skal gis.
-
-Statsadvokaten bes overfor Borgarting lagmannsrett nedlegge påstand om at Viggo Kristiansen frifinnes for så vidt gjelder forholdene i tiltalebeslutningen post I til III, samt meddele
-samtykke til at dom i tråd med dette avsies uten
-hovedforhandling. Det må samtidig anmodes
-om at lagmannsretten fastsetter ny straff for forholdene som er rettskraftig avgjort ved Kristiansand byretts dom 1. juni 2001, formentlig etter
-et kort rettsmøte om reaksjonsfastsettelsen.»263
-
-11.12.5 Borgarting lagmannsretts
-frifinnende dom
-Etter innspill fra partene besluttet Høyesteretts
-ankeutvalg 2. mars 2021 at den gjenåpnede saken
-skulle behandles ved Borgarting lagmannsrett.264
-Den 24. oktober 2022 ble den gjenåpnede
-saken oversendt Borgarting lagmannsrett.265 Det
-ble vist til riksadvokatens beslutning om at påtalemyndigheten ville nedlegge påstand om frifinnelse for post I til III i tiltalen 16. februar 2001.
-Forberedende dommer i Borgarting lagmannsrett
-besluttet en samlet behandling med muntlige forhandlinger av den gjenåpnede saken (post I til III)
-og straffutmålingen for postene som ikke var
-omfattet av gjenåpningssaken (post V til VII). Det
-måtte utmåles ny straff for de sistnevnte forholdene, som ble rettskraftig avgjort ved Kristiansand byretts dom 1. juni 2001. Forhandlingene
-ble avholdt 13. desember 2022.
-Påtalemyndigheten la ned slik påstand:
-«Viggo Kristiansen, født 24.05.1979, frifinnes
-for post I til III i tiltalebeslutningen av
-16. februar 2001.
-For forholdene som er endelig avgjort ved
-Kristiansand byretts dom av 1. juni 2001, dømmes Viggo Kristiansen til fengsel i 10 – ti –
-måneder. Soningen er utholdt.»
-Forsvarer la ned påstand om at Viggo Kristiansen
-frifinnes for tiltalens post I til III, subsidiært at han
-anses på mildeste måte. Bistandsadvokatene la
-ikke ned påstand.
-Borgarting lagmannsrett avsa 15. desember
-2022 dom i tråd med påtalemyndighetens
-påstand.266 Avslutningsvis i dommen heter det:
-263 Riksadvokaten (21.10.22) s. 23–24.
-264 HR-2021-471-U.
-
-265 Påtegning 24. oktober 2022 fra Oslo statsadvokatembeter,
-
-jf. dok. 01,98.
-
-266 Borgarting lagmannsretts dom 15. desember 2022 (LB-
-
-2021-33945-2).
-
-[Side 411]
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-«Lagmannsretten bemerker at aktoratets gjennomgang viser at det har vært en bevismessig
-utvikling i Baneheia-saken på flere sentrale
-punkter fra slik saken var opplyst for Kristiansand byrett og Agder lagmannsrett og frem
-til i dag. Det har også kommet frem flere nye
-opplysninger gjennom den etterforskningen
-som ble satt i gang kort tid etter at saken ble
-gjenopptatt og frem til statsadvokatene i Oslo
-ga sin innstilling om frifinnelse i september
-2022. De nye opplysningene er isolert sett av
-bevismessig betydning, men kaster også lys
-over bevisene som forelå i saken da den ble
-behandlet for domstolene, slik at det totale
-bevisbildet har endret seg.
-Domstolene har – som en viktig rettssikkerhetsgaranti – et selvstendig ansvar for sakens
-opplysning i en straffesak, for å avsi dommer
-som er materielt riktige og for å påse at ingen
-uskyldige blir dømt. Den senere etterforskningen i saken og bevissituasjonen i dag har vist at
-domfellelsen i 2002 bygget på et sviktende faktisk grunnlag, og dermed er uriktig.
-Viggo Kristiansen ble dømt til lovens strengeste straff – forvaring i 21 år – med en minstetid på 10 år. Straff er samfunnets strengeste
-reaksjon mot lovbrudd. Forvaring er en tidsubestemt straff som kan brukes overfor spesielt farlige lovbrytere for å beskytte samfunnet
-mot at de begår nye farlige forbrytelser i fremtiden. Straff – og særlig forvaring – er den mest
-inngripende maktutøvelsen som staten kan
-bruke mot enkeltindividet.
-Viggo Kristiansen har urettmessig sittet
-nesten 21 år i fengsel. Det er ingen tvil om at
-det har hatt store personlige konsekvenser for
-Kristiansen og hans familie. I dette tilfellet må
-det erkjennes at de rettsikkerhetsgarantiene
-som skal sørge for at ingen som er siktet i en
-straffesak blir domfelt med urette, ikke har fungert godt nok for Kristiansen.
-Drap av barn er en av samfunnets mest grufulle handlinger. Det er avgjørende for de etterlatte at politiet lykkes med å oppklare slik kriminalitet og at riktig gjerningsperson blir
-dømt. I dette tilfellet må det erkjennes at rettsstaten heller ikke har klart å ivareta foreldrene
-til Lena Sløgedal Paulsen og Stine Sofie Sørstrønen.
-Det er varslet at det skal gjennomføres en
-uavhengig granskning etter at det nå vil foreligge en rettskraftig frifinnende dom mot Kristiansen. Det vil være opp til den uavhengige
-granskningen å vurdere hvor i prosessen det
-har sviktet og hvorfor feilen har skjedd. For
-
-409
-
-Kapittel 11
-
-Kristiansen er situasjonen uansett at han nå er
-frikjent for alvorlige straffbare handlinger som
-han ble domfelt for i 2002. Viggo Kristiansen
-har derfor, som en grunnleggende menneskerettighet, krav på å bli ansett som uskyldig i
-Baneheia-saken.
-Dommen er enstemmig.»267
-
-11.13 Gjenåpning og ny straffesak mot
-Jan Helge Andersen (2023–2026)
-Riksadvokaten begjærte 24. mars 2023 gjenåpning
-av Kristiansand byretts dom 1. juni 2001 til skade
-for Jan Helge Andersen for så vidt gjaldt domsslutningens punkt 3 – frifinnelsen for drap eller medvirkning til drap på Lena Sløgedal Paulsen.268
-Andersen ble i 2001 frifunnet for medvirkning til
-dette drapet.
-Den 15. juni 2023 besluttet Gjenopptakelseskommisjonen å ta gjenåpningbegjæringen til
-skade for Andersen til følge, jf. straffeprosessloven § 393 første ledd nr. 2.269
-Den 15. januar 2024 ble Andersen tiltalt for
-drapet på Lena Sløgedal Paulsen. Tiltalen hadde
-følgende grunnlag:
-«Fredag 19. mai 2000 om kvelden i Baneheia i
-Kristiansand, etter forutgående overveielse,
-stakk han Lena Sløgedal Paulsen med kniv i
-overkroppen og halsen slik at hun døde. Drapet ble begått for å tildekke at han hadde begått
-seksuelle overgrep mot henne og mot Stine
-Sofie Sørstrønen.»270
-
-Straffesaken mot Andersen ble gjennomført i SørRogaland tingrett i perioden 16. april til 23. mai
-2024. Den 2. juli 2024 ble han dømt i henhold til tiltalen til fengsel i to år.271 Andersen anket dommen til Gulating lagmannsrett, og ankeforhandling ble avholdt fra 22. april til 23. mai 2025. Den
-267
-
-LB-2021-33945-2.
-
-268 Påtegning fra riksadvokaten 24. mars 2023, jf. dok. 01,105.
-269 Gjenopptakelseskommisjonens avgjørelse 15. juni 2023
-
-(GK-2023-114).
-
-270 Tiltalebeslutning 15. januar 2024, jf. dok. 19,06,02.
-
-271 Sør-Rogaland tingretts dom 2. juli 2024 (TSRO-2023-
-
-129330). Dommen var en etterskuddsdom til Kristiansand
-byretts dom 1. juni 2001 og Agder lagmannsretts dom 13.
-februar 2002, der Andersen ble dømt til 19 års fengsel. Den
-samlede straffen kunne ikke være strengere enn om alle
-forholdene hadde vært pådømt samtidig, jf. straffeloven
-1902 § 64 og straffeloven 2005 § 82. Andersen kunne derfor
-maksimalt få ytterligere to år i fengselsstraff, idet lengstestraffen var 21 års fengsel, jf. straffeloven (1902) § 233
-andre ledd.
-
-[Side 412]
-
-410
-
-Kapittel 11
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-30. juni 2025 ble Andersen dømt til forvaring med
-en tidsramme på to år.272 Det ble ikke fastsatt minstetid. Dommen ble avsagt under dissens 5-2 når
-det gjaldt spørsmålet om vilkårene for forvaring
-var oppfylt. Alle de fem meddommerne stemte for
-å idømme forvaring, mens de to fagdommerne på
-samme måte som tingretten stemte for å gi en
-straff på ubetinget fengsel i to år.
-En samlet lagmannsrett var overbevist om at
-Andersen voldtok og drepte begge jentene, og
-kom til at det var grunnlag for å utelukke Andersens forklaring om at Viggo Kristiansen var med
-på åstedet og drepte Sløgedal Paulsen. Under
-overskriften «Samlet bevisvurdering og subsumsjon» heter det i dommen:
-
-272
-
-han på denne måten forsettlig har «forvoldt en
-annens død», jf. straffeloven § 233 første ledd.
-Jan Helge Andersen stakk Lena målrettet i halsen og buken, og forsto at hun ville dø som
-følge av dette.
-Drapet er etter lagmannsrettens vurdering,
-begått med overlegg og under særdeles skjerpende omstendigheter, jf. straffeloven § 233
-andre ledd. Lagmannsretten er ikke i tvil om at
-Jan Helge Andersen både hadde tid til å overveie og faktisk veide for og imot, om han skulle
-drepe Lena etter at han hadde voldtatt henne.
-Drapet skjedde for å skjule voldtektene av
-begge jentene. Vi kjenner ikke alle detaljene i
-hendelsen. Det er likevel på det rene at Jan
-Helge Andersen på alle måter var fullstendig
-overlegen Lena og at han på et vis har passivisert både henne og Stine Sofie. Lena ble knivstukket tre ganger. Stikkene mot halsen er klinisk utført. Drapet fremstår som en ren avrettelse, gjennomført målbevisst og uten tegn til
-affekt. Etter drapet ble Lena skjult i terrenget
-sammen med Stine Sofie slik at den straffbare
-handlingen skulle være vanskeligere å oppdage.»273
-
-«Det er flere forhold som svekker påliteligheten av Jan Helge Andersens forklaring om
-Viggo Kristiansens rolle og bidrag. Forklaringen fremstår isolert vurdert som vanskelig å
-feste lit til og den stemmer dårlig med flere vitneforklaringer. Telebeviset er helt sentralt. I
-likhet med tingretten mener lagmannsretten at
-dette i realiteten nær utelukker Viggo Kristiansen som gjerningsmann. Når det gjelder DNAfunnene i saken, er disse vanskelige å forene
-med forklaringen Jan Helge Andersen har gitt
-om eget bidrag i de seksuelle overgrepene
-mot, og håndteringen av jentene. Og DNA-funnene gir, etter en helhetlig vurdering av dem,
-verken støtte for at det var to gjerningsmenn på
-stedet eller at Viggo Kristiansen i så fall var en
-av dem.
-Jan Helge Andersen stakk Lena to ganger i
-halsen og en gang i buken med kniv. Hun forblødde og døde raskt. Det er ikke tvilsomt at
-
-Andersen anket reaksjonsfastsettelsen i dommen
-til Høyesterett. Ved Høyesteretts dom 22. januar
-2026 (HR-2026-167-A) ble Andersens anke forkastet. Et flertall på fire dommere kom til at vilkårene
-for å idømme forvaring var oppfylt. Det ble vist til
-at det var nærliggende fare for gjentakelse av
-alvorlige seksuallovbrudd. En fengselsstraff på to
-år ville derfor ikke gi tilstrekkelig vern av samfunnet. Én dommer dissenterte og mente at forvaringsvilkårene ikke var oppfylt.
-
-Gulating lagmannsretts dom 30. juni 2025 (LG-2024132119).
-
-273 LG-2024-132119 s. 38.
-
-[Side 413]
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-411
-
-Kapittel 12
-
-Kapittel 12
-
-Vurdering av gjenåpningsprosessen
-12.1 Innledning
-Det følger av utvalgets mandat at et formål med
-granskningen er å klarlegge hvorfor Viggo Kristiansens begjæring om gjenåpning først ble tatt til
-følge etter lang tid og gjentatte forsøk. Etter utvalgets syn er det i den sammenheng grunn til å vurdere når saken burde vært gjenåpnet, og i tillegg
-drøfte årsaker til at saken ble gjenåpnet først etter
-lang tid og gjentatte begjæringer.
-Mandatet fremhever at utvalget særlig skal klarlegge og vurdere hvilke opplysninger Gjenopptakelseskommisjonen baserte sine avgjørelser på, og om
-det var mer kommisjonen kunne og burde ha gjort
-for å belyse saken. Kommisjonens samarbeid med
-partene og kvaliteten i kommisjonens utredning
-skal også vurderes. Granskningen omfatter i tillegg
-håndteringen av saken hos andre aktører, slik som
-påtalemyndigheten, forsvarere, bistandsadvokater
-og Den rettsmedisinske kommisjon (DRK).
-Etter mandatet skal utvalget, basert på sin
-gjennomgang og de funn som avdekkes, foreslå
-endringer i dagens regelverk, rutiner, praksis,
-utdanning og opplæring etc. som anses nødvendige. Forslag til forbedringer av gjenåpningssystemet er gjennomgående drøftet og fremmet i
-utvalgets delutredning om gjenåpningssystemet
-for straffesaker, jf. NOU 2024: 24 Prøvd på nytt.1
-Utvalgets erfaringer fra granskningen av Baneheia-saken dannet et viktig bakteppe for forslagene som der presenteres.
-I punkt 12.2 drøfter utvalget på hvilket tidspunkt
-Kristiansens sak burde ha vært gjenåpnet, gitt opplysningene som ble presentert for kommisjonen i
-de ulike begjæringene. I punkt 12.3 ser utvalget
-nærmere på årsakene til at Kristiansens gjenåpningsbegjæring først ble tatt til følge etter lang tid
-og gjentatte forsøk. I punkt 12.4 gis enkelte merknader til påtalemyndighetens håndtering av gjenåpningssaken. Forsvarernes og bistandsadvokatenes
-rolle kommenteres til sist i punkt 12.5.
-1
-
-NOU 2024: 24 Prøvd på nytt del VI. Utredningen ble avgitt
-20. desember 2024.
-
-12.2 Når burde Viggo Kristiansens sak
-ha blitt gjenåpnet?
-12.2.1 Gjenåpningsgrunnlaget forelå klart
-i 2011
-Viggo Kristiansen anførte gjennom gjenåpningsprosessen flere ulike grunnlag for gjenåpning, av
-ulik betydning for spørsmålet om Kristiansens
-skyld. DNA-beviset viste seg å være det mest sentrale beviset i gjenåpningssaken. Da Gjenopptakelseskommisjonens
-flertall
-i
-avgjørelse
-18. februar 2021 kom til at vilkårene for gjenåpning var oppfylt, jf. straffeprosessloven § 391 nr. 3,
-skyldtes det ifølge flertallets vurdering at saken
-«med hensyn til biologiske spor» sto i en «vesentlig annen bevismessig stilling» enn da saken ble
-behandlet i lagmannsretten, se punkt 11.11.4.
-Kommisjonens flertall mente at lagretten, ut
-fra bevisførselen, måtte ha oppfattet DNA-beviset
-som en sikker bekreftelse på at handlingene ble
-begått av to gjerningsmenn. Under henvisning til
-de nye sakkyndigrapportene som var utarbeidet i
-etterkant av lagmannsrettens dom, og resultatene
-av DNA-undersøkelsene som ble foretatt ved Universitetet i Santiago de Compostela (USC) i 2010,
-konkluderte flertallet med at DNA-beviset fra
-2000 måtte anses tilnærmet nøytralt når det gjaldt
-spørsmålet om én eller to gjerningsmenn sto bak
-handlingene. Etter flertallets syn måtte de øvrige
-bevisene i saken – i hovedsak Jan Helge Andersens forklaring og telebeviset – forstås og vektlegges på en annen måte når premisset om at det sikkert var to gjerningsmenn, bortfalt. Etter flertallets vurdering var det dermed samlet sett en rimelig mulighet for at Kristiansen ville ha blitt frifunnet dersom lagmannsretten hadde vært kjent med
-de nye analysene og rapportene om DNA-beviset,
-jf. straffeprosessloven § 391 nr. 3.
-Utvalget er enig med Gjenopptakelseskommisjonens flertall i analysen av bevisbildet for lagmannsretten. Bevisføringen for lagmannsretten,
-sammenholdt med rettsbelæringen, tilsier at
-lagretten trolig oppfattet DNA-beviset som en sik-
-
-[Side 414]
-
-412
-
-Kapittel 12
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-ker bekreftelse på at overgrepene ble begått av to
-gjerningsmenn. Sentralt i denne vurderingen var
-premisset om at resultatet fra prøve C-25 (ytre
-endetarm, Lena Sløgedal Paulsen) ikke kunne
-stamme fra Andersen og derfor måtte komme fra
-en annen person. Selv om lagretten også kan ha
-sett hen til indisier av varierende vekt og opplysninger om Kristiansens karakter og atferd, måtte
-det bevises ut over enhver rimelig tvil at Kristiansen hadde begått handlingene han var tiltalt for.
-Det uriktige premisset om to gjerningsmenn var
-derfor trolig avgjørende for domfellelsen av Kristiansen, både med tanke på vurderingen av Andersens troverdighet om Kristiansens deltakelse og
-for vektingen av telebeviset i den samlede bevisvurderingen.
-Utvalget er videre enig med Gjenopptakelseskommisjonens flertall i at det var grunnlag for gjenåpning etter straffeprosessloven § 391 nr. 3 da det
-ble klart at DNA-beviset fra 2000 likevel ikke ga
-noen sikker bekreftelse på to gjerningsmenn. Samtidig er det forståelig at kommisjonen ikke fant
-grunnlag for gjenåpning før dette ble klargjort. Så
-lenge det fremsto klart at to gjerningsmenn sto bak
-handlingene, er det mye som taler for at øvrige
-bevis som talte for at Kristiansen var uskyldig – i
-hovedsak telebeviset – ikke kunne tillegges avgjørende vekt i vurderingen av gjenåpningsspørsmålet. At en tredje, ukjent gjerningsmann hadde deltatt i handlingene i stedet for Kristiansen, fremsto
-spekulativt og lite plausibelt. Anførselen om at det
-kunne finnes en ukjent gjerningsmann, ble – trolig
-av den grunn – tidlig forlatt av advokat Sigurd
-Klomsæt, se punkt 12.2.2 nedenfor.
-Anførsler om DNA-beviset ble fremmet i samtlige av Kristiansens begjæringer. Etter utvalgets
-syn var det imidlertid først i den tredje begjæringen, fremmet 17. juni 2011, at svakhetene ved
-DNA-beviset ble begrunnet på en slik måte at det
-er klart at kommisjonen skulle ha gjenåpnet
-saken. Begjæringen var denne gang foranlediget
-av rapportene fra Forensic Science Service (FFS)
-og GENA henholdsvis 10. juni 2011 og 6. juni
-2011, sammenholdt med korrespondanse mellom
-Klomsæt og Angel Carracedo ved Universitetet i
-Santiago de Compostela (USC). Rapportene formidlet i klartekst hvorfor rettens slutninger om
-DNA-bevisene ikke var holdbare. Det ble gitt en
-grundig forklaring av sammenhengen mellom de
-begrensede DNA-funnene og antagelsen om to
-gjerningsmenn. På dette tidspunktet hadde kommisjonen, etter utvalgets syn, tilstrekkelig grunnlag for å forstå at påvisningen av allel 10 i prøve C25 fullt mulig kunne skyldes andre forhold enn at
-
-det var tale om handlingsrelevant DNA avsatt av
-en gjerningsperson.
-Det som var nytt i FSS’ og GENAs rapporter fra
-juni 2011 sammenlignet med tidligere rapporter fra
-2009 og 2010, var at usikkerhetsfaktorene ble formidlet direkte i tilknytning til USCs funn av allel 10 i
-prøven C-25 i 2000 og dermed ikke var til å misforstå. FSS og GENA pekte på at funnet kunne skyldes
-feilutslag (artefakt) eller forurensning, og redegjorde inngående om begrunnelsen for dette. USC
-var på sin side uenig i at funnet kunne være et artefakt, men utelukket ikke forurensning.2 Se for øvrig
-utvalgets redegjørelse for svakhetene ved de opprinnelige DNA-bevisene i punkt 4.7.5.
-Utvalget mener på denne bakgrunn at grunnlaget for gjenåpning klart forelå i juni 2011, ved
-innleveringen av Kristiansens tredje gjenåpningsbegjæring. Saken burde derfor ha vært gjenåpnet
-da begjæringen deretter, etter en rimelig saksbehandlingstid, ble tatt opp til avgjørelse. I denne
-sammenheng bemerkes det at grunnlaget som
-faktisk førte til gjenåpning i februar 2021, i det
-vesentlige var det samme som forelå i juni 2011.
-FSS’ og GENAs konklusjoner fra 2011 er videre i
-all hovedsak i overensstemmelse med konklusjonen til Frederik Torp Petersen ved Retsmedicinsk
-Institut ved Københavns Universitet, som vurderte DNA-beviset i 2020 i forbindelse med
-behandlingen av den siste gjenåpningsbegjæringen. Etter utvalgets syn var rapportene fra FSS og
-GENA grundigere enn Torp Petersens rapport,
-som tilførte saken lite nytt utover det som fremgikk av FSS’ og GENAs rapporter.
-
-12.2.2 Burde saken ha blitt gjenåpnet
-før 2011?
-Etter utvalgets syn kan det stilles spørsmål om
-saken burde vært gjenåpnet allerede ved avgjørelsen av den første gjenåpningsbegjæringen i 2010.
-Svakhetene i Jan Helges forklaring og betydningen av mobiltelefonbeviset som tilsa at Kristiansen ikke kunne ha vært på åstedet, var tema allerede i denne begjæringen. Kommisjonen hadde
-også på dette tidspunktet et visst grunnlag for å
-oppfatte usikkerhetsmomentene ved DNA-beviset.
-Etter utvalgets syn var det imidlertid flere sider
-ved måten DNA-beviset ble behandlet på i denne
-omgangen, som til dels gjør det forståelig at kommisjonens tilla DNA-beviset mindre betydning ved
-avgjørelsen av den første begjæringen: Under den
-2
-
-En rettsgenetisk analyse kan, som påpekt flere ganger tidligere i utredningen, aldri alene gi svar på om funnet stammer fra en gjerningsperson.
-
-[Side 415]
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-første gjenåpningsprosessen ble anførslene og
-saksopplysningene om DNA-bevisene formidlet på
-en nokså fragmentarisk måte. Gjenåpningsbegjæringen var ellers svært bredt anlagt fra Viggo Kristiansens side, og oppmerksomheten var i stor grad
-rettet mot andre forhold. I selve begjæringen sto
-det dessuten at tekniske bevis kunne tilsi to gjerningmenn, men at det i så fall kunne være en annen
-ukjent gjerningsmann enn Kristiansen. Denne
-anførselen var i liten grad begrunnet, og det er forståelig at kommisjonen tilla denne hypotesen liten
-vekt i sin vurdering. Anførselen ble senere forlatt,
-og det ble i stedet hevdet at det likevel ikke var sikkert at det hadde vært to gjerningsmenn. Dette
-skjedde først etter at advokat Klomsæt engasjerte
-GENA og FSS, og etter at nye DNA-analyser ble
-utført ved Universitetet i Santiago de Compostela
-(USC) i februar 2010.
-GENAs første rapport i saken kom allerede
-4. februar 2009 og forelå altså for kommisjonen
-ved avgjørelsen av den første begjæringen. I
-denne rapporten ga GENA uttrykk for sitt syn på
-de opprinnelige DNA-bevisene, det vil si prøvene
-som ble analysert ved USC i 2000. På dette tidspunktet hadde GENA imidlertid kun innsyn i de
-rettsgenetiske rapportene og ikke i underlagsmaterialet (elektroferogrammene) for analysene. I
-rapporten påpekte GENA i korte trekk at USCs
-analyseresultater var oppnådd ved lavnivåbetingelser,3 at det vanskelig kunne trekkes noen
-konklusjon fra prøvene B-22 og B-25, mens allel 10
-– som eneste markør i prøve C-25 – ga «en svært
-lav grad av sikkerhet for tolkning av funnet».4
-Det fremgår implisitt av rapporten at GENAs
-oppfatning var at retten ikke skulle ha lagt vekt på
-disse resultatene som bevis i saken. For eksempel
-uttalte GENA i rapporten: «Likevel oppfattes det
-som at retten har lagt vekt på disse DNA-funnene
-som bevis i saken.» I oppsummeringen skriver
-GENA videre at konklusjonen i RMIs rapport ikke
-er uriktig, men at den er «formulert på en slik
-måte at konklusjonen kan oppfattes å inkludere de
-to tiltalte på et tynt bevismessig grunnlag for disse
-tre sporprøvene». Endelig uttaler GENA at «det
-ikke er gjort funn som sannsynliggjør at Viggo
-Kristiansen er opphavet til ett eller flere av de biologiske sporprøvene».5
-3
-
-4
-
-Lavnivåbetingelser (low copy number-betingelser) innebærer at man – ved analyse av lite spormateriale – øker
-sensitiviteten i analysen ved å benytte et høyere antall
-amplifiseringssykluser enn ved standard metode, se punkt
-4.7.2.4. Metoden innebærer en forhøyet risiko for å observere feilutslag eller kontamineringsutslag fra små mengder
-DNA fra kilder uten relevans for den straffbare handlingen.
-Rapport fra GENA 4. februar 2009.
-
-413
-
-Kapittel 12
-
-Slik utvalget ser det, formidlet rapporten imidlertid ikke i klartekst hva som var det problematiske ved domstolens bruk og vekting av DNAbevisene i bevisvurderingen: Et DNA-resultat
-uten noen individualiserende kraft har svært lav
-bevismessig vekt, også med hensyn til om funnet
-er handlingsrelevant og stammer fra en gjerningsperson. Ved små mengder DNA og treff på få markører er det som regel ikke mulig å utelukke at
-funnet stammer fra en kilde uten relevans for
-straffesaken.6 For aktører med tilstrekkelig kunnskap om DNA-bevis kan slike forhold anses som
-«grunnkunnskap» som ikke nødvendigvis må
-påpekes særskilt. For aktører og personer uten
-særskilt DNA-kunnskap er dette imidlertid ikke
-innlysende. Utvalget mener derfor at rapporten
-med fordel kunne tatt for seg problematikken
-tydeligere for å sikre at rapportens innhold ble
-forstått i rett kontekst. Dette ble først gjort ved
-rapportene avgitt i 2011, se punkt 11.8.1.
-Utvalget har videre forståelse for at kommisjonen vektla at Den rettsmedisinske kommisjon
-(DRK) tidlig i saksforløpet uttalte at retten hadde
-forstått DNA-bevisene riktig. Utvalget finner det
-sannsynlig at DRKs uttalelse kan ha medvirket til at
-kommisjonen i den første avgjørelsen ikke fant
-grunn til å ta nærmere stilling til Klomsæts anførsler om at også C-25-resultatet kunne skyldes forurensning. Utvalget viser til at DRK i sin uttalelse til
-GENAs rapport 4. februar 2009 uttalte at retten
-hadde oppfattet DNA-bevisene på «korrekt måte»,
-at retten «hadde forstått hvilken bevismessig vekt
-DNA funnene i saken har», og at GENAs rapport
-ikke inneholdt «nye faglige vurderinger på det rettsgenetiske området av betydning for gjenåpning av
-saken».7
-Etter utvalgets syn kan DRKs uttalelse, som
-hadde preg av en selvstendig sakkyndiguttalelse,
-ha medvirket til at kommisjonen slo seg til ro med
-rettens fortolkning ved den opprinnelige domfellelsen, og at kommisjonen ikke så grunn til å
-behandle holdbarheten av de opprinnelige DNAbevisene nærmere i vedtaket 17. juni 2010. Etter
-utvalgets syn er det også problematiske sider ved
-andre av DRKs uttalelser i forbindelse med den første begjæringen. Se nærmere om dette i punkt
-12.3.5, hvor utvalget trekker frem DRKs rolle som
-en av flere årsaker til at Kristiansens gjenåpningsbegjæringer ikke ble tatt til følge tidligere.
-5
-6
-7
-
-Rapport fra GENA 4. februar 2009.
-Se nærmere om DNA-funnene og utvalgets vurdering av
-disse i punkt 4.7.5.
-Den rettsmedisinske kommisjons uttalelse 12. mars 2009.
-
-[Side 416]
-
-414
-
-Kapittel 12
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-Et eget spørsmål er ellers om anførslene knyttet til telebeviset i seg selv burde ført til gjenåpning i medhold av straffeprosessloven § 392 andre
-ledd da kommisjonen avgjorde den første gjenåpningsbegjæringen i juni 2010. Denne bestemmelsen gir grunnlag for gjenåpning «når særlige forhold gjør det tvilsomt om dommen er riktig, og
-tungtveiende hensyn tilsier at spørsmålet om siktedes skyld blir prøvd på ny». Bestemmelsen forutsetter ikke at det kan påvises noe «nytt» sammenholdt med bevisene som ble ført for retten
-ved den opprinnelige behandlingen av saken. Til
-gjengjeld er terskelen for gjenåpning høy.8
-Etter utvalgets syn utelukker telebeviset på
-det nærmeste at Kristiansens telefon kan ha vært
-på åstedet da voldtektene og drapene fant sted.9
-Anførselen fra Kristiansen vedrørende telebeviset
-har vært den samme i alle de fem gjenåpningsbegjæringene. Etter utvalgets syn er det likevel –
-også i relasjon til straffeprosessloven § 392 andre
-ledd – forståelig at gjenåpning ikke ble besluttet
-før det ble rokket ved premisset om at DNA-beviset ga en sikker bekreftelse på to gjerningsmenn.
-Så lenge dette premisset besto, er det forståelig at
-kommisjonen etter en helhetsvurdering kom til at
-det ikke var tilstrekkelig tvilsomt om dommen var
-riktig. Det bemerkes i den sammenheng at svakhetene ved rettens slutninger om telebeviset – forståelsen av Teleplans konklusjoner – ikke ble
-underbygget med ny sakkyndighet før i den siste
-begjæringen 18. juni 2017.10
-Et annet spørsmål er om kommisjonen tidligere – gjennom utredningen av saken – selv
-burde ha skaffet nærmere informasjon om betydningen av telebeviset og usikkerhetsmomentene
-ved DNA-beviset. Dette drøftes nedenfor i punkt
-12.2.3.
-8
-
-Straffeprosessloven § 392 andre ledd gir grunnlag for gjenåpning uten at det må påvises «nye» bevis eller omstendigheter, slik kravet er etter regelen i § 391 nr. 3, som straffesaken mot Viggo Kristiansen ble gjenåpnet i medhold av.
-En ren omvurdering av bevisene i saken kan i prinsippet
-føre til gjenåpning etter § 392 andre ledd. Terskelen for
-gjenåpning er imidlertid høy – bestemmelsen er ment å
-være en «sikkerhetsventil», og det må foreligge «tungtveiende grunner» som taler for at gjenåpning skal skje. Se
-nærmere om regelen i NOU 2024: 24 Prøvd på nytt punkt
-12.3.
-9 Se blant annet punkt 5.8.2. Etter utvalgets syn kan det ikke
-regnes som en reell mulighet at noen andre har brukt Kristiansens telefon til å sende SMS-ene kl. 18.57 og 19.37. Et
-slikt hendelsesforløp ville implisert en ukjent tredjeperson,
-noe det ikke foreligger andre holdepunkter for. Tekstmeldingene synes videre å ha et innhold som er forenlig med
-at Kristiansen sendte meldingene til en jente han «flørtet»
-med, se punkt 3.5.12.2.
-10 Se punkt 11.11.1.
-
-12.2.3 Betydningen av manglende utredning
-Det kan reises spørsmål om hvorvidt saken kunne
-ha vært gjenåpnet allerede ved avgjørelsen av den
-første begjæringen dersom Gjenopptakelseskommisjonen i tilstrekkelig grad hadde overholdt sin
-utredningsplikt. Som det fremgår av punkt 12.3.3,
-mener utvalget at kommisjonen burde ha utredet
-saken grundigere, og at kommisjonen brøt utredningsplikten den er pålagt etter straffeprosessloven § 398 første ledd.
-Utvalget bemerker i den sammenheng at advokat Sigurd Klomsæt allerede i forbindelse med den
-første begjæringen ba kommisjonen om hjelp til å
-få utlevert elektroferogrammene som lå til grunn
-for USCs analyse i 2000. Klomsæt ba om utlevering
-av elektroferogrammene flere ganger, blant annet
-ved brev til kommisjonen 26. mars 2009, 14. mai
-2010 og 25. mai 2010. Fordi Gjenopptakelseskommisjonen ikke medvirket til utleveringen, ble elektroferogrammene først tilgjengelige 25. mai 2011,
-etter at Regjeringsadvokaten ble involvert som prosessfullmektig for kommisjonen i forbindelse med
-det sivile søksmålet for Oslo tingrett. Forensic Science Service (FSS) og GENAs rapporter forelå
-kort tid etter dette, henholdsvis 10. juni og 6. juni
-2011.11 Den 17. juni 2011 ble den tredje gjenåpningsbegjæringen inngitt, hvor GENAs og FSS’ nye
-vurderinger sto sentralt.
-Utvalget ser det slik at dersom kommisjonen
-hadde imøtekommet – og ikke uttrykkelig avvist –
-Klomsæts anmodninger om å innhente elektroferogrammene, ville FSS’ og GENAs sentrale
-påpekninger om svakhetene ved DNA-beviset –
-særlig med tanke på usikkerheten om betydningen av prøve C-25 – trolig foreligget før avgjørelsen av den første gjenåpningsbegjæringen.
-Utvalget viser for øvrig til at Klomsæt allerede i
-begjæringen 5. september 2008 ba om at det ble
-innhentet nye sakkyndige vurderinger av telebeviset, uten at dette ble tatt til følge av kommisjonen,
-se punkt 11.3.2.14. Under behandlingen av den første begjæringen avslo kommisjonen også
-Klomsæts forespørsel om å avhøre dekningsdirektør i Telenor, Bjørn Amundsen. Etter utvalgets syn
-er det mye som taler for at slike utredningsskritt
-kunne ha bidratt til å klargjøre betydningen av telebeviset, på samme måte som Halvard Sivertsens
-senere rapporter. Disse ble imidlertid først inngitt
-sammen med den femte gjenåpningsbegjæringen
-18. juni 2017. Se nærmere om utvalgets syn på
-kommisjonens utredning av saken i punkt 12.3.3.
-11
-
-Rapport fra FSS 10. juni 2011 og rapport fra GENA 6. juni
-2011.
-
-[Side 417]
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-12.3 Hvorfor ble Kristiansens
-gjenåpningsbegjæring først tatt til
-følge etter lang tid og gjentatte
-forsøk?
-12.3.1 Innledning
-I det følgende vil utvalget drøfte hvorfor Viggo
-Kristiansens begjæring om gjenåpning først ble
-tatt til følge etter lang tid og gjentatte forsøk. Det
-gikk tolv og et halvt år fra Kristiansens første gjenåpningsbegjæring ble innlevert i september 2008,
-til saken ble gjenåpnet i februar 2021. I løpet av
-denne perioden ble det levert til sammen fem
-gjenåpningsbegjæringer og to omgjøringsbegjæringer. Det ble også anlagt et søksmål mot Gjenopptakelseskommisjonen i 2010, med påstand om
-at de to første avslagene var ugyldige.
-I de neste punktene vil utvalget sammenfatte
-sine synspunkter på hvilke årsaksfaktorer som
-fremstår mest vesentlige i det samlede årsaksbildet. I punkt 12.3.2 drøftes betydningen av Gjenopptakelseskommisjonens
-bevisvurderinger.
-Svikt ved vurderingen av DNA-bevisene fremheves der som en hovedårsak til at saken ikke ble
-gjenåpnet før i 2011. Hvilken betydning manglende overholdelse av kommisjonens utredningsplikt har spilt i denne sammenheng, vurderes i punkt 12.3.3, mens kommisjonens mangelfulle bearbeidelse av partenes anførsler omtales i
-punkt 12.3.4. Den rettsmedisinske kommisjons
-rolle behandles i punkt 12.3.5. Svakheter ved kommisjonens rettsanvendelse er tema i punkt 12.3.6,
-mens svakheter ved regelverk, rutiner og praksis
-behandles i punkt 12.3.7. En oppsummering av
-utvalgets syn gis til sist i punkt 12.3.8.
-12.3.2 Svikt i kommisjonens bevisvurderinger
-I punkt 12.2.1 har utvalget konkludert med at
-saken burde vært gjenåpnet da det ble klart at
-DNA-beviset fra 2000 ikke ga en sikker bekreftelse på to gjerningsmenn. Hovedårsaken til at
-Viggo Kristiansens begjæring først ble tatt til
-følge etter lang tid og gjentatte forsøk, er etter
-utvalgets syn at kommisjonen først i 2021 tok konkret stilling til om de opprinnelige DNA-bevisene
-ga grunnlag for et slikt premiss.
-Advokat Sigurd Klomsæt anførte at DNA-beviset ikke ga sikker bekreftelse på to gjerningsmenn allerede i den første gjenåpningsprosessen,
-og anførselen ble gjentatt i alle de etterfølgende
-gjenåpningsprosessene. At kommisjonen ikke tok
-konkret stilling til anførselen, er etter utvalgets
-syn en svakhet ved Gjenopptakelseskommisjo-
-
-415
-
-Kapittel 12
-
-nens bevisvurdering som gjelder alle avgjørelsene
-i Baneheia-saken med unntak av den siste.
-Som det fremgår av punkt 12.2, har utvalget
-samtidig en viss forståelse for at kommisjonen
-ikke forsto svakhetene ved rettens vurdering av
-DNA-beviset ved avgjørelsen av den første gjenåpningsbegjæringen 17. juni 2010. Det samme gjelder for den andre gjenåpningsbegjæringen, som
-ble avgjort 24. september 2010. Den andre begjæringen var i hovedsak konsentrert rundt gjerningsmannsprofilen, og det fremkom ikke denne
-gang noe nytt om DNA-beviset utover anførslene i
-den første begjæringen.
-Ved avgjørelsen av den tredje begjæringen
-mener utvalget derimot at det klart forelå grunnlag for å gjenåpne saken, hovedsakelig på grunn
-av de nye analysene og rapportene om DNA-beviset. Etter utvalgets syn er det vesentlige svakheter
-ved kommisjonens bevisvurderinger – særlig med
-tanke på vurderingene av DNA-beviset – i avgjørelsene av den tredje og fjerde gjenåpningsbegjæringen. Dette utdypes nærmere i det følgende.
-Kristiansens tredje gjenåpningsbegjæring 17.
-juni 2011 ble avgjort ved kommisjonens vedtak 11.
-desember 2013. I avgjørelsen la kommisjonen til
-grunn at Kristiansens siste begjæring «i det vesentlige» var «en bearbeidelse av tidligere begjæringer
-og argumentasjon, uten at det er fremkommet noe
-avgjørende nytt eller anført noen særlige forhold
-som gir grunnlag for gjenåpning».12 I vurderingen
-av DNA-beviset viste kommisjonen kort til avgjørelsen 17. juni 2010 og sluttet seg til vurderingene og
-konklusjonene som fremgikk der. Det var ifølge
-kommisjonen ikke «fremkommet noe avgjørende
-nytt etter dette, som gir grunn for nåværende kommisjon til å komme til et annet resultat».13
-Etter utvalgets syn var det en feilvurdering at
-spørsmålet om gjenåpning denne gang ble vurdert å stå i samme stilling som da kommisjonen
-behandlet den første gjenåpningsbegjæringen.
-Siden den gang hadde det tilkommet ytterligere
-sakkyndigrapporter fra FSS og GENA som gjorde
-grundig rede for svakhetene ved de opprinnelige
-analyseresultatene og hvorfor det ikke kunne
-trekkes slike slutninger fra dem som retten hadde
-gjort ved domfellelsen.
-I avgjørelsen gjør kommisjonen i liten grad
-egne, selvstendige vurderinger av de nye rapportene fra GENA og FFS og hvilken betydning disse
-hadde for den sentrale anførselen om at DNA-beviset ikke ga en sikker bekreftelse på to gjernings12
-
-Gjenopptakelseskommisjonens avgjørelse 11. desember
-2013 (GK-2013-130) s. 73.
-13 GK-2013-130 s. 66.
-
-[Side 418]
-
-416
-
-Kapittel 12
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-menn. I stedet siterer kommisjonen lengre passasjer fra Oslo tingretts dom 1. september 2011 som
-avgjorde Kristiansens søksmål om gyldigheten av
-kommisjonens første og andre avgjørelse om å
-nekte gjenåpning. Tingretten ga i dommen uttrykk
-for at det var en «permanent uenighet» blant de
-sakkyndige, som hadde «sprikende syn» på spørsmålet om DNA-analysene «godtgjorde at to menn
-hadde stått bak de seksuelle overgrepene og da
-nødvendigvis også drapene».14
-Det er klare holdepunkter for at Oslo tingrett
-her baserte seg på en feilslutning, se punkt 11.7.3.
-Uenigheten blant de sakkyndige gjaldt hvorvidt det
-var påvist DNA fra to ulike menn i prøvene, altså
-om det var tale om to reelle mannlige DNA-bidrag.
-Universitetet i Santiago de Compostela (USC) var i
-sine vurderinger klar på at det var tale om reelt
-DNA, mens GENA og FSS på sin side mente at det
-kunne være snakk om et artefakt – altså en feilavlesning. Ingen av de sakkyndige hadde imidlertid
-tatt stilling til om det dreide seg om DNA fra to gjerningsmenn. Tvert imot var de sakkyndige enige om
-at forurensning i forbindelse med sporsikring,
-bevishåndtering eller lignende ikke kunne utelukkes. Alle de sakkyndige holdt altså muligheten
-åpen – riktignok med noe ulike formuleringer – for
-at DNA-et i prøve C-25 kunne ha et annet opphav
-enn at det var avsatt av en gjerningsmann på åstedet.15
-Ved å vise til tingrettens drøftelse kan kommisjonen synes å ha basert seg på samme feilslutning.
-Kommisjonen konstaterer kort under vurderingen
-av DNA-beviset at det «fortsatt» var uenighet mellom de sakkyndige om hvorvidt allel 10 i prøven C25 kunne skyldes «en skyggeallel eller om det skyldes forurensning». Det sentrale spørsmålet om
-hvorvidt funnet av allel 10 i prøve C-25 faktisk
-skyldtes reelt DNA eller et artefakt, og om eventuelt DNA i prøven måtte antas å stamme fra en gjerningsmann, ble aldri vurdert av kommisjonen.
-Den 9. desember 2014 avgjorde kommisjonen
-Kristiansens fjerde gjenåpningsbegjæring. Begjæringen ble av kommisjonens leder alene forkastet
-som «åpenbart» grunnløs, jf. straffeprosessloven
-§ 397 tredje ledd. Kommisjonen foretar i avgjørelsen ingen nærmere vurderinger av de sentrale
-spørsmålene vedrørende DNA-beviset. I avgjørelsen viser kommisjonen i stedet til kommisjonens
-vurderinger i avgjørelsen av den tredje begjæringen. Feilvurderingene av DNA-beviset ved avgjørelsen av den tredje begjæringen ble altså videre14
-15
-
-GK-2013-130 s. 65.
-Se nærmere om tingrettens vurdering av DNA-beviset i
-punkt 11.7.3.
-
-ført til avgjørelsen av den fjerde begjæringen, og
-det ble heller ikke denne gang tatt stilling til den
-sentrale anførselen knyttet til DNA-bevisene og
-premisset om to gjerningsmenn.
-Kristiansens femte gjenåpningsbegjæring ble
-avgjort ved kommisjonens vedtak 18. februar
-2021. Etter utvalgets syn var dette første gang
-kommisjonen foretok en reell og selvstendig vurdering av den sentrale anførselen om at dommen
-bygde på et uriktig premiss om at DNA-analysene
-ga en sikker bekreftelse på at to gjerningsmenn
-hadde tatt del i ugjerningene.
-Kommisjonens flertall på tre medlemmer konkluderte denne gang med at lagretten, ut fra bevisførselen, måtte ha oppfattet DNA-beviset som en
-sikker bekreftelse på at overgrepene ble begått av
-to gjerningsmenn.16 Flertallet konkluderte videre
-med at DNA-beviset nå måtte anses tilnærmet nøytralt når det gjaldt spørsmålet om hvorvidt én eller
-to gjerningsmenn hadde begått handlingene i
-Baneheia.17 Mindretallet på to medlemmer mente
-på sin side at saken med hensyn til biologiske spor
-ikke sto i en «vesentlig annen bevismessig stilling»
-enn da saken var oppe for lagmannsretten.18
-Mindretallet viste til at usikkerhetsmomentene
-vedrørende DNA-beviset var fremme også ved lagmannsrettens behandling, herunder at Kristiansens forsvarer reiste spørsmålet om kontaminering. Se nærmere om flertallets og mindretallets
-vurderinger av dette spørsmålet i punkt 11.11.4.
-
-12.3.3 Manglende overholdelse av
-utredningsplikten
-Gjenopptakelseskommisjonens
-utredningsplikt
-følger av straffeprosessloven § 398 første ledd første punktum: Kommisjonen skal av eget tiltak
-«sørge for at saken er så godt opplyst som mulig
-før den avgjør om begjæringen skal tas til følge».
-Ifølge forarbeidene skal kommisjonen «ta initiativ
-og gå aktivt til verks for å belyse sakens faktiske
-og rettslige sider».19 Den omfattende utredningsplikten må imidlertid forstås med visse forbehold:
-«Meningen er at kommisjonen skal opplyse
-saken så godt som mulig ut fra hva som er praktisk mulig og økonomisk forsvarlig tatt i
-betraktning sakens alvor og dens betydning for
-siktede. Avveiningen kan føre til at et nytt bevis
-16
-
-Gjenopptakelseskommisjonens avgjørelse 18. februar 2021
-(GK-2020-82) s. 269.
-17
-GK-2020-82 s. 273.
-18 GK-2020-82 s. 273–274.
-19 Ot.prp. nr. 70 (2000–2001) s. 75.
-
-[Side 419]
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-likevel ikke innhentes, selv om det kan bidra til
-å opplyse saken ytterligere.»20
-
-Baneheia-sakens alvor og store betydning for
-Viggo Kristiansen tilsier etter utvalgets syn at
-saken burde ha blitt prioritert og underlagt omfattende utredning. Under gjenåpningsprosessen
-sonet Kristiansen en forvaringsdom på strenge vilkår ved Ila fengsel og forvaringsanstalt. Han hadde
-ikke offentlig oppnevnt forsvarer, med unntak av
-100 timer i 2008 i forbindelse med den første gjenåpningsbegjæringen. I begrunnelsen for avslagene
-på Kristiansens begjæringer om forsvareroppnevning viste kommisjonen blant annet til at kommisjonen selv ville foreta nødvendige utredningsskritt.
-Når det gjelder DNA, har kommisjonen foretatt enkelte utredningsskritt i form av nye analyser av gjenværende DNA-materiale. Det ble foretatt nye analyser ved Universitetet i Santiago de
-Compostela (USC) og Statens kriminaltekniska
-laboratorium (SKL) i 2010 og ved Nationellt forensiskt centrum (NFC) i 2018. Først i 2020 oppnevnte imidlertid kommisjonen en DNA-sakkyndig for å uttale seg om holdbarheten av rettens
-tolkning av de opprinnelige DNA-analysene fra
-2000. Etter utvalgets syn var dette et nærliggende
-utredningsskritt, gitt DNA-bevisets betydning for
-domfellelsen av Kristiansen og anførslene i begjæringene.
-Utvalget forstår det slik at ingen av de ansatte i
-kommisjonens sekretariat under behandlingen av
-saken hadde særskilt kompetanse om DNA. Det er
-grunn til å tro at dette kan ha medvirket til at DNAbeviset ikke ble tilstrekkelig utredet. Ettersom
-kommisjonen ikke hadde slik kompetanse, var det
-reelt sett behov for å få formidlet innholdet i, og
-betydningen av, DNA-beviset fra en fagkyndig.
-Fordi kommisjonen ikke oppnevnte noen
-sakkyndig innen DNA, engasjerte Klomsæt selv
-FSS og GENA for å gjøre vurderinger av de opprinnelige DNA-analysene som lå til grunn for rettens behandling. Både FFS og GENA formidlet i
-sine rapporter fra juni 2011 i klartekst svakhetene
-ved DNA-analysene fra 2000. Denne sentrale
-siden ved saken ble dermed utredet av Kristiansens privat engasjerte sakkyndige. Det er holdepunkter for at kommisjonen av den grunn vektla
-rapportene i mindre grad enn det reelt sett var
-grunnlag for. Påtalemyndigheten anså GENA som
-«partsrepresentant», og kommisjonen erklærte
-GENA inhabil, se punkt 11.3.2.11. Kommisjonens
-20
-
-Ot.prp. nr. 70 (2000–2001) s. 75.
-
-417
-
-Kapittel 12
-
-eget syn kommer klart til uttrykk i vedtaket 17.
-juni 2010: «Det bemerkes at GENA og FSS har
-vært engasjert som privat sakkyndige av domfelte
-v/ advokat Klomsæt. Deres uttalelser, som advokat Klomsæt har oversendt kommisjonen, anses
-derfor som en del av domfeltes anførsler.»
-Oppnevningen av Gjenopptakelseskommisjonens egen sakkyndige i 2020 skjedde først etter at
-det forelå utkast til avgjørelse, da det ble klart at
-det var uenighet i kommisjonen jf. punkt 11.11.3.2.
-Oppnevningen var dermed ikke en del av den innledende utredningen av saken fra kommisjonens
-side. Dette ledet til en forsinkelse i saksbehandlingstiden på ett år og tre måneder, se nærmere i
-punkt 12.3.7.
-Som nevnt i punkt 12.2 mener utvalget at det
-er grunn til å tro at FSS’ og GENAs grundige
-annenhåndsvurderinger av DNA-analysene ved
-USC i 2000 ville ha foreligget på et tidligere tidspunkt dersom kommisjonen hadde imøtekommet
-Klomsæts anmodninger om å innhente underlagsmaterialet (elektroferogrammene) for analysene
-ved USC i 2000. Elektroferogrammene ble først
-utlevert 25. mai 2011. Etter utvalgets syn er det
-vanskelig å se noen god begrunnelse for at kommisjonen ikke imøtekom Klomsæts anmodning.
-Det var tale om sentrale opplysninger som det var
-lite krevende for kommisjonen å fremskaffe.
-Det hører med til bildet at heller ikke andre av
-sakens sentrale beviser har vært gjenstand for
-særskilte utredningsskritt fra kommisjonens side,
-til tross for en rekke anmodninger fra Kristiansens advokater. Allerede 28. mai 2009 avslo kommisjonen å oppnevne en sakkyndig innen avhørsmetoder, se punkt 11.3.2.14. Samme dag avslo
-kommisjonen å oppnevne en sakkyndig innen
-dekningsforhold. Den 29. juni 2009 avslo kommisjonen videre å gjennomføre avhør av dekningsdirektør i Telenor, Bjørn Amundsen. Slike utredningsskritt ville vært egnet til å klargjøre betydningen av telebeviset for gjenåpningsvurderingen.
-I lys av sakens alvor og innholdet i Kristiansens
-anførsler, og på bakgrunn av de gjentatte anmodningene om enkle utredningsskritt som ikke ble
-etterfulgt, mener utvalget at kommisjonen på flere
-punkter ikke overholdt utredningsplikten den er
-pålagt. Dette synes å ha vært en av årsakene til at
-grunnlaget for gjenåpning ikke forelå før i 2011.
-Den manglende utredningen, sammenholdt med at
-vurderingene til de privatengasjerte sakkyndige
-ble tillagt for liten vekt, har også vært en årsak til at
-Kristiansens gjenåpningsbegjæring først ble tatt til
-følge i 2021.
+## Den femte gjenåpningsbegjæringen, 18. juni 2017
+
+### Begjæringens innhold
+
+Den 18. juni 2017 fremmet advokat Arvid Sjødin på vegne av Viggo Kristiansen begjæring om gjenåpning for femte gang. Begjæringen var konsentrert rundt telebeviset, DNA-beviset, påståtte feil under pågripelsen og den videre etterforskningen samt Jan Helge Andersens forklaringer. I begjæringen ble det redegjort for premissene for domfellelsen og for de anførte gjenåpningsgrunnene.
+
+Nytt i forhold til tidligere begjæringer var i hovedsak en sakkyndig gjennomgang av telebeviset av sivilingeniør Halvard Sivertsen. Vedlagt begjæringen var tre rapporter fra Sivertsen. To av rapportene var tidligere sendt direkte til Agder statsadvokatembeter, jf. punkt 11.10 ovenfor.[^1479] På bakgrunn av statsadvokatens bemerkninger til disse rapportene hadde Sivertsen utarbeidet en tredje rapport med tittelen *Er mobilbeviset et utelukkelsesbevis?.*
+
+Sjødin fremla også et Dagbladet-intervju fra 5. juli 2016 med forfatteren av Teleplans rapport, Inge Schøyen, der han uttalte følgende:
+
+«– Hvis min rapport og vitnemål i retten har blitt tillagt vekt for å dømme Kristiansen, så er jeg redd for at rettens aktører kan ha misforstått, sier Inge Schøyen til Dagbladet. Konklusjonene i Teleplans rapport og Schøyens vitnemål i lagmannsretten i 2002 er således like med rapporten fra Telenor. – Vår konklusjon var helt tydelig på at dekningsområdet for masten EG_A ikke innbefattet åstedet, slik nettet var da vi gjorde våre målinger.»[^1480]
+
+I begjæringen ble det videre vist til uttalelsen fra Agder politidistrikt 5. oktober 2016 om at det «\[u\]t ifra de rapporter som foreligger mener politiet at det vanskelig kan legges til grunn at åstedet lå innenfor dekningsområdet for EG_A-senderen på det aktuelle tidspunkt».
+
+Sjødin anførte prinsipalt at det forelå nye omstendigheter eller bevis som synes egnet til å føre til frifinnelse, jf. straffeprosessloven § 391 nr. 3. Blant disse var telebeviset, DNA-beviset, vitner som hadde gjort observasjoner rundt åstedet mv. som ikke ble ført for retten, og «knivavhøret» av Jan Helge Andersen. Subsidiært ble det anført at vilkårene etter straffeprosessloven § 392 andre ledd var oppfylt.
+
+### Ytterligere anførsler og argumentasjon
+
+Arvid Sjødin supplerte begjæringen med ytterligere anførsler og argumentasjon gjennom flere skriv. Enkelte av skrivene omtales i det følgende.
+
+Den 9. april 2019 sendte Sjødin en e-post til Gjenopptakelseskommisjonen vedlagt en rapport om DNA-beviset, utarbeidet av Halvard Sivertsen.[^1481] Rapporten har slik konklusjon:
+
+«1. Det kan synes som at politiets påstand om et det fantes et sikkert DNA-bevis mot Viggo Kristiansen, fremsatt på pressekonferansen den 26.10.2000, ble fremsatt mot bedre vitende. Det antas at hensikten var å provosere frem en tilståelse fra Kristiansen. Planen må ha blitt drøftet i samtaler mellom Mevåg og Storaker, og må ha blitt bifalt av Mevåg. Ut fra Storakers redegjørelse i retten, må det betraktes som dokumentert at de to ble enige om hvordan resultatene fra Spania skulle presenteres for Kristiansens forsvarer og for pressen. Funnene skulle presenteres som fellende bevis mot Kristiansen. Det er mulig at Pedersen kan ha overdrevet ytterligere betydningen av dette funnet, Mevåg ville kanskje ikke brukt uttrykket 100 % sannsynlig dersom hun var blitt intervjuet, men det er ingenting som tyder på at hun i tiden etter gjorde noe for å korrigere den fremstillingen Pedersen ga på pressekonferansen. Det kan ikke utelukkes at den massive forhåndsdømmingen fremleggingen av dette ‘beviset’ førte til kan ha hatt betydning for utfallet av rettssakene.
+
+2\. Det er grunn til å anta at RMI mottok en sluttrapport eller et utkast til en sluttrapport fra IML[^1482] i tiden omkring politiets pressekonferanse. Hvorvidt dette dokumentet fremdeles eksisterer vites ikke. Det ser ut til at IML har igangsatt ytterligere undersøkelser, formodentlig etter anmodning fra Mevåg. Formuleringer i den eksisterende rapporten kan tyde på at det henvises til elementer fra den opprinnelige rapporten, som er utelatt i den eksisterende rapporten.
+
+3\. Det er grunn til å anta at det fra IMLs side ble foretatt ytterligere undersøkelser også etter at den offisielle rapporten var levert. Hensikten med disse undersøkelsene ser ut til å ha vært å prøve å verifisere funnet av ‘blandingsmaterialet’ i prøvene B-22 og B-25. Det forholdet at det aldri ble lagt frem noe resultat av disse forsøkene, er en sterk indikasjon på at det ikke lykkes de spanske rettsmedisinerne å verifisere dette funnet. Funnet må dermed betraktes som falsifisert allerede før det ble fremlagt i retten.
+
+4\. Det er på det rene at dette ugyldige beviset både i byretten og i lagmannsretten ble presentert som et tungt bevis for at det hadde vært to gjerningsmenn. Dommen i byretten beskriver dette beviset som ‘et vesentlig bevis når man skal vurdere troverdigheten av Andersens forklaring’ og førstelagmann Nes Hansen beskriver i sin rettsbelæring det som et sikkert bevis for at det har vært en gjerningsmann til utenom Andersen. Retten ble ført bak lyset av den rettsmedisinsk sakkyndige.
+
+5\. Nye DNA-undersøkelser i 2010 og 2018 bekrefter at det ikke eksisterte noe DNA-bevis i 2000 som på noen måte knytter Viggo Kristiansen til åstedet eller ugjerningene. Det har heller aldri eksistert noe DNA-bevis som på noen måte beviser, indikerer eller sannsynliggjør at det var to gjerningsmenn. Bortfallet av dette beviset er i seg selv grunn til å gjenoppta saken.»[^1483]
+
+Den 28. august 2019 oversendte Sjødin et brev til Gjenopptakelseskommisjonen datert 4. februar 2019, vedlagt en udatert rapport fra Halvard Sivertsen om «knivbeviset» med tittelen *Nye funn i Viggo Kristiansens sak*.[^1484]
+
+### Hovedpunkter i saksgangen
+
+#### DNA-analyser ved Nationellt forensiskt centrum i 2018
+
+Som nevnt i punkt 11.3.2.10 kom det i 2010 frem at Rettsmedisinsk institutt hadde funnet DNA-ekstrakter fra Baneheia-saken i en fryser. 13 av disse ekstraktene ble i 2010 analysert av Statens kriminaltekniska laboratorium (SKL) i Sverige, men det ble ikke påvist mannlig DNA som var egnet til personsammenligning, se punkt 11.3.2.12.
+
+Den 7. februar 2018 henvendte Gjenopptakelseskommisjonen seg til Avdeling for biologiske spor ved Oslo universitetssykehus (OUS) – tidligere Rettsmedisinsk institutt – og ba om en oversikt over hvilket DNA-materiale som fortsatt var i behold, og en vurdering av hvilket materiale som var egnet for ny analyse. OUS oversendte 18. april 2018 en oversikt over hvilke analyser som tidligere var gjort, og hvilke ekstrakter som fortsatt var lagret hos OUS.[^1485]
+
+På bakgrunn av oversikten ble det svenske statlige Nationellt forensiskt centrum (NFC) – tidligere Statens kriminaltekniska laboratorium – 9. juli 2018 oppnevnt til å foreta nye analyser av 22 ekstrakter.[^1486]
+
+NFC avga rapport 2. oktober 2018.[^1487] Når det gjaldt B-prøvene (prøver tatt fra Stine Sofie Sørstrønen), var resultatet at det ikke kunne påvises mannlig DNA i åtte av ni prøver. I prøve B-26 ble det påvist mannlig DNA, men resultatet kunne «inte användas för jämförelse mot person då resultatet innehåller för lite information».
+
+Når det gjaldt C-prøvene (prøver tatt fra Lena Sløgedal Paulsen), var resultatet at det ikke kunne påvises mannlig DNA i 9 av 13 prøver. I prøve C-8, C-10A, C-27 og C-28 ble det påvist mannlig DNA, men resultatet kunne «inte användas för jämförelse mot person då resultatet innehåller för lite information».
+
+Rapporten fra NFC ble forelagt Den rettsmedisinske kommisjon (DRK) 26. oktober 2018. DRK hadde merknader til rapportene. I uttalelse 23. mai 2019 ba DRK om at NFC opplyste spesifikt hvorfor prøvene ikke kunne tolkes og anvendes til sammenligning:
+
+«Kommisjonen mener at rapportene fra Nationellt forensiskt centrum fortsatt mangler tolkninger av resultatene som underbygger de sakkyndige sine konklusjoner. De sakkyndige slår fast i uttalelsen at resultatene ikke kan anvendes til sammenligninger med referanseprøvene. Rapporten inneholder resultater i form av påviste DNA-alleler, men opplyser ikke spesifikt om hvorfor DNA-allelene ikke kan tolkes og anvendes til sammenligning (for eksempel opplysninger om metode, terskelverdier og antallet markører over terskelverdiene).
+
+Kommisjonen ber de(n) sakkyndige utarbeide en tilleggserklæring der bemerkningene over besvares, jf. forskrift om Den rettsmedisinske kommisjon § 3 bokstav a.»[^1488]
+
+I sin tilleggsrapport 2. september 2019 uttalte NFC blant annet at ved analyse av Y-kromosomalt DNA utføres det såkalt dobbelanalyse av sporprøver. For at resultatet skal sammenlignes med en referanseperson, må de to analysene speile hverandre i minst 10 markører:
+
+«Vid analys av Y-kromosomalt DNA på NFC utförs dubbelanalys av spårprover. I NFC.s nuvarande metod används kitet AmpFlSTR® YfilerTM från Applied Biosystems. Något fast gränsvärde för alleler används inte, men analyserna (minst två) ska spegla varandra väl och resultatet genereras i form av konsensus av analyserna. För att ett resultat från Y-kromosomal DNA-analys ska kunna användas för jämförelse bör det som riktlinje finnas allel/alleler i konsensus från en person i 10 markörer. Utifrån en helhetsbedömning av det erhållna resultatet kan eventuellt undantag från ovan göras. För ett resultat med inmärkta alleler som inte bedöms användbart för jämförelse mot person kan eventuellt resultatet användas för att ange att manligt DNA påvisats.»[^1489]
+
+Rapporten 2. september 2019 fra NFC ble deretter sendt til DRK, som 14. november uttalte at saken nå var tilstrekkelig belyst, selv om DRK mente NFC enda tydeligere kunne forklart hvorfor de mente at resultatene ikke skulle brukes til sammenligning med personprøver:
+
+«De svenske sakkyndige har svart tilfredsstillende på kommisjonens bemerkninger og lagt frem resultater og tolkninger i en etterprøvbar form.
+
+Kommisjonen har kun en mindre kommentar til uttalelsene:
+
+Sakkyndige opplyser følgende: ‘För att ett resultat från Y-kromosomal DNA-analys ska kunna användas for jämforelse bör det som riktlinje finnas allel/alleler i konsensus från en person i 10 markörer. Utifrån en helhetsbedömning av det erhållna resultatet kan eventuellt undantag från ovan göras.’
+
+I resultatene fra Y-kromosomal DNA-profilanalyse som rapporteres er konsensus i alle resultater mindre enn i 10 markører, og resultatene vurderes som svake. Konklusjonen slik vi oppfatter den, er at resultatene da ikke skal brukes til sammenligning med personprøver, og dette finner kommisjonen ingen mangler ved. Dette er også i samsvar med laboratoriet (NCF) sine egne retningslinjer for tolkning av Y-resultater. Vi synes den sakkyndige uttalelsen kunne oppsummert dette, og tydeliggjort enda bedre hvorfor de sakkyndige mener at resultatene ikke skal brukes til sammenligning med personprøver. Kommisjonen mener likevel at saken nå er tilstrekkelig belyst, og har ingen flere kommentarer.»[^1490]
+
+NFCs retningslinjer innebar altså at det kun ble rapportert funn opp mot konkrete referansepersoner dersom analysen hadde vist sammenfallende alleler i 10 markører eller mer. Til sammenligning hadde USC andre retningslinjer i 2000, der alle funn ble rapportert, og hvor det ble overlatt til den som skulle bruke funnene å vurdere bevisverdien av dem. Viggo Kristiansen ble i sin tid knyttet til saken på bakgrunn av funn av sammenfallende allel i én enkelt markør.
+
+#### Sakkyndig vurdering av DNA-beviset ved Retsmedicinsk Institut ved Københavns Universitet
+
+Gjenopptakelseskommisjonen besluttet i møte 12. desember 2019 å innhente en egen sakkyndig vurdering av DNA-beviset som lå til grunn for domfellelsen av Kristiansen. Bakgrunnen for dette var at det til kommisjonsmøtet forelå et utkast til avgjørelse fra sekretariatet, som la opp til at gjenåpningsbegjæringen ikke skulle tas til følge. At begjæringen likevel ikke ble avslått, skyldtes at ett av kommisjonsmedlemmene ønsket å ta dissens og gjenåpne saken, og at flere kommisjonsmedlemmer var usikre. Ettersom det ikke ble enighet blant kommisjonsmedlemmene om utfallet, ble det besluttet å foreta ytterligere utredning knyttet til DNA.[^1491]
+
+Kommisjonen kontaktet Københavns Universitet, Retsmedicinsk Institut, Retsgenetisk Afdeling, med forespørsel om de hadde en sakkyndig til et oppdrag for kommisjonen. Rettsgenetiker Frederik Torp Petersen sa seg villig til å påta seg oppdraget.[^1492] Juridisk utreder og politifaglig utreder på saken reiste til København og gjennomførte et møte med Torp Petersen 16. januar 2020. Utrederne ga Torp Petersen en kort presentasjon av saken og drøftet utformingen av mandatet med ham.[^1493]
+
+Den 28. januar 2020 foreslo kommisjonen et mandat som ble forelagt for påtalemyndigheten, forsvarerne og bistandsadvokatene. Påtalemyndigheten hadde ikke innvendinger til valg av sakkyndig eller til forslaget til mandat.[^1494] Det hadde derimot både forsvarer Arvid Sjødin og bistandsadvokat Håkon Brækhus. Sjødin påpekte det han mente var svakheter ved mandatet. Ifølge Sjødin var det tre hovedtema som var viktig å belyse:
+
+«1) Utgjør DNA-analysene fra USC i 2000 og 2010 sikre bevis for at det var to menn som utførte ugjerningene?
+
+2\) Ble analysene som USC utførte i 2000 gjennomført med en tilstrekkelig betryggende og robust metode?
+
+3\) Tilfredsstiller analyseresultatene fra USC i 2000 de retningslinjer som i dag gjelder for rapportering av DNA-bevis i retten?»[^1495]
+
+Sjødin fremmet et eget forslag til mandat der disse spørsmålene var fremhevet. Brækhus’ innvendinger var av en mer overordnet karakter, og han stilte spørsmål ved behovet for nye sakkyndige uttalelser.[^1496]
+
+Ved Agder statsadvokatembeters brev 13. februar 2020 fikk Gjenopptakelseskommisjonen oversendt en kopi av en e-post som førstestatsadvokat Erik Erland Holmen hadde mottatt fra påtalesjef i Agder politidistrikt, Terje Kaddeberg Skaar. E-posten var skrevet av tidligere sakkyndig i Baneheia-saken, Bente Mevåg, og sendt til tidligere kriminalsjef Arne Pedersen, med førstnevntes innspill til oppnevningen av ny sakkyndig om DNA. I brevet fra statsadvokaten til Gjenopptakelseskommisjonen fremgår det at statsadvokaten ikke selv hadde vært i kontakt med Mevåg.[^1497] For utvalget er det uklart hvorfor Mevåg og Pedersen var engasjert i arbeidet med mandat til Torp Petersen.
+
+Den 17. februar 2020 ble Frederik Torp Petersen oppnevnt som sakkyndig. Han ble gitt følgende mandat:
+
+«1. Den sakkyndige bes foreta en vurdering av om analysefunnene fra utstrykspreparater (vattpinner) i prøvene B-22, B-24 og B-25 og C-25 foretatt ved Compostela de Santiago i henholdsvis 2000 og 2010, påviser DNA fra en eller fra flere menn. Det gjøres særskilt oppmerksom på at prøve C-25 ble oppbrukt i 2000 slik at den prøven kun er analysert da.
+
+Dersom det hefter usikkerhet ved svaret under punkt 1 må dette begrunnes nærmere. Det må også redegjøres for graden av usikkerhet.
+
+2\. På bakgrunn av de foretatte analyser og ulik fortolkning av disse bes følgende tilleggsspørsmål avklart:
+
+a\) Hvordan vurderer den sakkyndige følgende utsagn om prøve C-25:
+
+- det er funnet allel 10 i prøven
+
+- funnet stammer ikke fra Jan Helge Andersen
+
+- funnet inneholder ikke DNA fra flere menn
+
+- funnet er ikke et skyggeallel
+
+b\) Prøve B-22, B-24 og B-25 er analysert av det samme laboratoriet i henholdsvis 2000 og 2010. I 2000 er det rapportert om funn av DNA i prøve B-22 og prøve B-25, men ikke i prøve B-24. I 2010 er prøve B-22 og prøve B-25 vurdert negative, mens det er gjort funn i prøve B-24. Kan den sakkyndige redegjøre og forklare mulige årsaker til at analysene av de samme prøvene gir ulik konklusjon?
+
+c\) Prøve B-24 ble i 2000 vurdert negativ. Kan den sakkyndige gi sin vurdering av prøveresultatet og om resultatet gir holdepunkter for DNA fra en eller fra flere menn?
+
+Den sakkyndige bes vurdere hvorvidt evt. funn i prøve B-24 i 2000 kvalitativt står annerledes enn funnene som i 2000 ble rapportert i prøve B-22 og B-25. I så tilfelle bes det redegjort for hvorfor og på hvilken måte. Det bes samtidig avklart om det etter den sakkyndiges vurdering i 2000 var grunnlag for å rapportere funn i prøve B-22 og B-25, men ikke i prøve B-24.
+
+d\) Er det ut fra prøveresultatene i 2000 eller 2010 noen holdepunkter for om noen av prøvene er kontaminerte? I så fall bes dette spesifisert og begrunnet nærmere.
+
+e\) Den sakkyndige må redegjøre for konkrete usikkerhetsfaktorer ved resultatene fra henholdsvis 2000 og 2010. Dette med bakgrunn i kjennskap om analysemetoder som ble anvendt, mengde analysert materiale, risiko for kontaminasjon samt grad av funn. Vurderingen av eventuelle usikkerhetsfaktorer skal ikke foretas ut fra muligheten for å identifisere en spesifikk DNA-profil, men for å identifisere om det er funn fra to forskjellige menn.
+
+f\) Stammer de rapporterte funn i 2000 og 2010 fra sædceller? Hvis så er tilfelle bes det avklart om DNA-markører funnet i prøvene kan stamme fra annet enn sæd? Vil man under analyse kunne oppdage om det er DNA fra annet enn sæd i prøvene?
+
+Dersom det hefter usikkerhet ved svarene under punktene a til f må dette begrunnes nærmere. Det må også redegjøres for graden av usikkerhet.»
+
+Torp Petersen avga rapport 26. mai 2020. Rapporten ble samme dag sendt på e-post til Gjenopptakelseskommisjonen. Om prøve C-25 uttalte Torp Petersen at kontaminering ikke kunne utelukkes, og at usikkerheten for resultatet var så vidt høy at resultatet kun burde anvendes til prioriteringsformål i en etterforskning og ikke brukes som bevismateriale. Han tilføyde at Retsgenetisk Afdeling i København ikke ville ha rapportert et resultat med en slik usikkerhet. Det kom også frem at DNA-resultatene ikke kunne henføres til sædceller.
+
+Utvalget finner grunn til å gjengi de relevante delene av Torp Petersens rapport i sin helhet:
+
+«1:
+
+Angående prøver analyseret i 2000:
+
+Indledningsvist er det vigtigt at påpege, at dna-profiler af den type, som er anvendt her, aldrig kan give svar på, hvor mange personer, som har bidraget med dna. Der kan kun angives et mindsteantal. Der kan ikke skelnes mellem den situation, hvor to mænd hver især bidrager med den samme allel, og den hvor en enkelt mand bidrager med allelen, men i dobbelt mængde. Dette er i særdeleshed tilfældet, når der som her er tale om dna-profiler, hvor der kun er undersøgt få dna-systemer og de observerede alleler er almindelige i befolkningen. For dna-profiler med resultater i mange (\>10) systemer kan man i højere grad udtale sig om antallet af bidragydere.
+
+Desuden er der for alle prøvers vedkommende tale om meget små mængder dna, hvilket i betydelig grad øger risikoen for at se resultater, som skyldes kontamineringer og drop-in og samtidigt bevirker, at artefakter som eksempelvis stuttertoppe optræder på en mindre forudsigelig måde. Den meget aggressive opformeringsstrategi (35 PCR-cykler) forstærker risikoen yderligere.
+
+B 22:
+
+Allel C observeret en gang. Allel 11 observeret tre gange. Allel 10 observeret i to af tilfældene. Resultaterne er i overensstemmelse med, at profilen indeholder dna fra mere end en mand. Dette er observeret i to uafhængige opformeringer. Men givet den meget lille mængde dna i det oprindelige materiale, de varierende resultater og den meget aggressive opformeringsstrategi er sandsynligheden for at de observerede alleler er artefakter, for eksempel drop-in, betragtelig. Allel 10 er kun observeret to ud af tre gange, og den ligger i stutterposition til 11. Det er derfor efter min mening ikke sikkert, at prøven indeholder dna fra mere end en mand. Det kan heller ikke udelukkes, at alle observerede alleler er drop-ins. Det er ikke muligt at angive en nøjagtig værdi for usikkerheden angående antallet af bidragydere eller sandsynligheden for drop-in eller stutter, men efter min vurdering er begge dele så høje, at man ikke bør anvende disse resultater som bevismateriale i en straffesag. Retsgenetisk Afdeling i København ville ikke rapportere resultater med en usikkerhed som disse.
+
+B 24:
+
+Intet mandligt dna rapporteret.
+
+B 25:
+
+Allel C observeret en gang. Allel 10 og 11 hver observeret en gang. To modstridende observationer, som ikke kan reproduceres betyder at der samlet set ikke er opnået entydige resultater. Det kan derfor på ingen måde vurderes, hvor mange mænd, der har bidraget til prøven. Det er tænkeligt, at alle observerede alleler for denne prøve er drop-ins, og at det oprindelige materiale IKKE indeholder mandligt dna overhovedet. Det er ikke muligt at angive en nøjagtig værdi for sandsynligheden for drop-in, men efter min vurdering er den så høj, at man ikke bør anvende disse resultater som bevismateriale i en straffesag. Retsgenetisk Afdeling i København ville ikke rapportere resultater med en usikkerhed som disse.
+
+C25:
+
+Allel C observeret en gang. Allel 10 observeret fire gange. Det reproducerbare resultat er efter min vurdering mindre upålideligt end resultatene for de foregående prøver, om end kontaminering ikke kan udelukkes. Det er ikke muligt at angive en nøjagtig værdi for usikkerheden for resultatet, men efter min vurdering er den, selvom den er mindre end for de foregående prøver, så høj at disse resultater kun bør anvendes til prioriteringsformål i en efterforskning af en straffesag, og ikke bør tages i anvendelse som bevismateriale. Retsgenetisk Afdeling i København ville ikke rapportere resultater med en usikkerhed som disse.
+
+Angående prøver analyseret i 2010:
+
+B22 og B 25:
+
+Intet mandligt dna påvist.
+
+B24:
+
+Det har ikke været muligt for mig i materialet at finde ud af under hvilke opformeringsbetingelser (antal PCR-cykler) dna-profilen er frembragt, eller hvor meget af ekstraktet, der er blevet brugt (3–5 mikroliter angivet). Det er derfor ikke muligt for mig at udtale mig om den nøjagtige usikkerhed forbundet med denne dna-profil. Elektroferogrammet giver dog indtryk af en prøve med ganske lidt og muligt nedbrudt dna, hvorfor risikoen for kontaminering, drop-in og drop-ud må anses for høj. Desuden er profilen ikke understøttet af gentagne opformeringer.
+
+Efter min mening er der to mulige fortolkninger af dette elektroferogram.
+
+1: Enten accepteres dna-profilen i sin helhed og dermed skal den tolkes som en blanding af dna fra mindst fire mænd.
+
+2: Alternativt skal alle resultater tolkes som artefakter og dermed skal hele dna-profilen forkastes.
+
+Den tredje vej; at acceptere resultateme for nogle systemer og forkaste andre er efter min mening ikke rimelig.
+
+Hvis man vælger anskuelse 1, så er der tale om en blandings-profil med dna fra mindst fire mænd og med tydelige tegn på drop-out. Der findes ikke metoder til at beregne den bevismæssige vægt af en sådan profil hvorfor den må anses for et neutralt bevis.
+
+Hvis man vælger anskuelse 2, så er der ikke tale om en troværdig dna-profil og resultaterne kan derfor ikke anvendes som bevismateriale.
+
+Min vurdering er, at anskuelse 1 er den korrekte, og prøven indeholder dna fra mindst 4 mænd, dog skal man huske på den forhøjede risiko for kontaminering, drop-in og drop-ud. Den bevismæssige vægt for profilen kan ikke beregnes og dna-profilen er derfor et neutralt bevis. Dna-profilen vil kunne anvendes som (neutralt) bevis i en straffesag, såfremt den kan understøttes af gentagende opformeringer og altså ikke med de foreliggende resultater. Retsgenetisk Afdeling i København ville ikke rapportere denne dna-profil, med mindre den kunne reproduceres i gentagne opformeringer.
+
+2a:
+
+1: Der ER påvist en allel 10 i prøven ved 4 gange uafhængige opformeringer. Dette gør, at sandsynligheden for, at der er tale om drop-in er knap så stor som for de andre prøver. Det kan ikke udelukkes, at der er tale om anden kontaminering af den oprindelige prøve.
+
+2: Den påviste allel kan IKKE stamme fra Jan Helge Andersen (har en 11)
+
+3: Det kan jeg ikke udtale mig om. Den påviste dna-profil indeholder kun en enkelt allel i DYS391, men der kan godt være flere bidragydere alligevel. Der er intet, der tyder på, at materialet indeholder andre alleler end 10, men der kan godt være flere bidragydere, der alle har en allel 10.
+
+4: Den påviste allel 10 kan IKKE være en stutter idet moderallelen (11) slet ikke optræder i sporet.
+
+Se i øvrigt svar under punkt 1.
+
+2b:
+
+En undersøgelse af materiale er i praksis at udtage en stikprøve, om end stikprøven somme tider omfatter hele materialet. En gentagen analyse kan derfor ses som en ny stikprøve fra det samme oprindelige materiale.
+
+Det er forventeligt, at to stikprøver ikke giver samme resultat. Jo mindre mandligt dna det oprindelige materiale indeholder, jo større er sandsynligheden for, at en udtagen stikprøve slet intet mandligt dna indeholder. I dette tilfælde, hvor det er evident, at materialet kun indeholder meget små mængder mandligt dna er det ikke overraskende, at nogle stikprøver intet mandligt dna indeholder, selvom den oprindelige prøve muligvis indeholder mandligt dna. Omvendt er det også klart, at hvis den oprindelige prøve intet mandligt dna indeholder, så stiger sandsynligheden for at man observerer kontamineringer af meget små mængder dna. Kontamineringer, som ikke ville kunne ses, hvis der i prøven var store mængder dna fra sporet til stede.
+
+Der er med andre ord to mulige forklaringer på de forskellige resultater.
+
+1: Tilfældigheder (stokastiske effekter); prøven indeholder dna fra sporet, men i så små mængder, at det ender i nogle, men ikke alle, stikprøver.
+
+2: Stikprøverne indeholder ikke dna fra sporet, men alle observationer skyldes enten kontaminering, artefakter eller drop-in.
+
+Det er ikke muligt med de foreliggende oplysninger at vurdere, om der er tale om forklaring 1 eller 2 eller en kombination.
+
+a): Prøve B-24 kunne ikke frembringe nogle resultater i 2000 undtagen i en enkelt opformering hvor der observeredes 4 alleler. Disse er blevet tolket som artefakter og derfor ikke rapporteret. Jeg har ikke personlig erfaring med brug af ABI 377 i retsgenetisk sammenhæng og kan derfor ikke udtale mig om denne beslutning. Det er dog påfaldende, at der i 2010 også bliver observeret fire alleler i denne prøve og at de igen bliver fjernet som artefakter. Uanset om toppene tolkes som artefakter eller ægte alleler er resultatet kun observeret en enkelt gang og er derfor meget upålideligt. Hvad angår resultater fra analyserne i 2010, se svar under punkt 1.
+
+b): Jeg har her arrangeret prøverne i rangorden fra mest upålidelige resultater til mindst upålidelige resultater:
+
+B-25: Der er observeret to forskellige alleler i to uafhægige opformeringer. To indbyrdes modstridende resultater bør lede til en samlet konklusion, at der ikke er opnået entydige resultater. Se i øvrigt svar under punkt 1. Burde ikke have været rapporteret.
+
+B-24: De alleler, der er påvist i prøve B-24 i 2000 er alle blevet forkastet af laboratoriet som artefakter. Jeg har ikke erfaring med gelelektroforese på en ABI-377, så jeg kan ikke udtale mig om denne beslutning er korrekt eller ej. Dog er det vigtigt, at resultatene kun er observeret en enkelt gang hvilket gør dem meget upålidelighed. I modsætning til prøve B-25 er der i det mindste intet, der decideret taler imod at resultaterne er valide. Burde ikke have været rapporteret, og er heller ikke blevet det.
+
+B-22: Resultatene er observeret flere gange uafhængigt af hinanden, hvilket gør dem til de mindst upålidelige. Dog er allel 10 kun set to gange. Stadig meget høj risiko for drop-in og kontaminering. Se svar under punkt 1. Burde ikke have været rapporteret.
+
+2d:
+
+Gældende for alle resultater fra 2000 og 2010: Det kan næsten aldrig med sikkerhed siges, at en dna-profil skyldes kontaminering, og slet ikke i disse tilfælde. Det er imidlertid ikke det samme som at sandsynligheden for kontamineringer er 0%. Jo større mængde dna der er påvist – des mindre er sandsynligheden for, at det er en kontaminering. Her er der i alle tilfælde tale om meget små mængder dna. Jeg antager, at laboratoriet har rettet sig efter rekommendationer vedrørende god laboratorieskik og har taget de nødvendige foranstaltninger for at minimere sandsynligheden for kontaminering i laboratoriet.
+
+2e:
+
+Alle prøverne indeholder meget små mængder dna, om overhovedet noget. Små mængder dna i en prøve betyder at eventuelle kontaminationer ses med større hyppighed, idet de ikke under opformeringen udkonkurreres af sporets dna i særlig høj grad. Små mængder dna betyder desuden, at tilfældigheder (stokastiske effekter) spiller en langt større rolle. Alle typer artefakter ses derfor med større hyppighed og på en mindre forudsigelig og genkendelig måde. Dette gælder både stuttere, drop-in og drop-ud. Se desuden svar under punkt 1, punkt 2 b,c,d og e.
+
+Resultaterne fra 2000 er fremkommet ved hjælp af en 35 cyklers PCR. Alle ovennævnte effekter forstærkes yderligere.
+
+2f:
+
+Resultateme som er fremlagt for mig, kan ikke afklare dette spørgsmål. At der er påvist sædceller i materialet og mandligt dna er to forskellige udsagn som beror på forskellige metoder. De opnåede dna-profiler kan ikke henføres til specifikke celletyper. Det fundne mandlige dna kan stamme fra sædceller eller fra andre celletyper, dna-profilerne vil være ens.»[^1498]
+
+Gjenopptakelseskommisjonen oversendte Torp Petersens rapport til Agder statsadvokatembeter, advokat Sjødin og bistandsadvokatene 28. mai 2020.[^1499] Advokat Sjødin, bistandsadvokat Brækhus og statsadvokaten innga deretter merknader til rapporten.[^1500] Brækhus anførte i korte trekk at Torp Petersen hadde gått utenfor sitt mandat ved at han kommenterte at analyseresultatene ikke burde vært rapportert, og videre at Torp Petersens uttalelser om muligheten for kontaminering ikke var underbygget eller sannsynliggjort. Agder statsadvokatembeter sluttet seg til Brækhus’ merknader.[^1501]
+
+Torp Petersens rapport ble 2. juni 2020 sendt til Den rettsmedisinske kommisjon (DRK) for behandling.[^1502] Den 8. juli oversendte Brækhus av eget tiltak aktørenes merknader overfor Gjenopptakelseskommisjonen til DRK.[^1503] I oversendelsesbrevet fra Brækhus heter det:
+
+«Kommisjonen har opplyst for undertegnede at partenes innspill til rapporten ikke vil sendes DRK fra kommisjonens side og at den sakkyndige uttalelsen fra Danmark hadde blitt oversendt 02.06.2020.
+
+Herifra har man forståelse for at kommisjonen normalt ikke oversender partenes innlegg, dette da argumentative skriv normalt ikke vedlegges. Man har full forståelse for at det er den danske rapporten som skal behandles og ikke partenes synspunkter.
+
+I herværende sak inneholder de ulike skrivene en god del argumentasjon. Dette er selvsagt ikke relevant for DRK. Imidlertid inneholder også brevene faglige innvendinger og tilslutninger til den sakkyndiges arbeid. Slik vi vurderer dette bør DRK gis anledning til å orientere seg i partens innspill til selve rapporten. Man har tillit til at DRK klarer å se bort fra partenes argumentasjon knyttet til rapporten og saken som sådan.
+
+Av denne grunn tilbys DRK aktørenes skriv i anledning de danske undersøkelser.»
+
+Samme dag avga DRK sin uttalelse. DRK mente det forelå «vesentlige mangler» ved Torp Petersens rapport. DRKs innvendinger samsvarer langt på vei med bistandsadvokat Brækhus’ merknader.
+
+DRK hadde innvendinger til at Torp Petersen gjorde en vurdering av om resultatet kunne brukes som bevis i en straffesak, og at vurderingen hans inneholdt verbale formuleringer som «mindre pålitelig enn foregående prøver», «mindre end» og «høj», uten at disse var knyttet opp mot verdier eller tall, eller andre mer faste mål. Kommisjonen hadde også vesentlige bemerkninger til Torp Petersens uttalelser om temaet kontaminering. Etter DRKs syn var ikke muligheten for tilstedeværelse av kontaminering, eller alternativt det som taler imot kontaminering, beskrevet og grunngitt på en presis og konkret måte. DRK hadde også innvendinger til at Torp Petersen ikke i tilstrekkelig grad tok hensyn til at det hadde gått ti år mellom de to rettsgenetiske analysene, og at sensitivitetsnivået for analysene var annerledes i 2000 enn i 2010. Som følge av dette mente DRK at erklæringen var «uegnet til å bruke i saken». DRK konkluderte slik:
+
+«Uttalelsen gir etter kommisjonen sitt syn ingen ny sakkyndig vurdering av de rettsgenetiske resultatene, men skaper derimot en ny usikkerhet ved å innføre nye verbale vurderinger som ikke kan knyttes opp mot standarder eller sensitivitetsnivå.
+
+Det er ikke nødvendig med tilleggserklæring.»[^1504]
+
+I lys av uttalelsen fra DRK, og til tross for at DRK ikke fant det nødvendig, ba Gjenopptakelseskommisjonen 15. juli 2020 om en tilleggserklæring fra Torp Petersen.[^1505] Torp Petersen besvarte henvendelsen 14. august 2020:
+
+«Takk for det fremsendte materiale.
+
+Den rettsmedisinske kommisjons kommentarer giver mig ikke anledning \[grunn\] til at ændre eller tilføje noget til min tidligere fremsendte rapport.
+
+Jeg fastholder rapportens ordlyd og er uenig i, at den skaber uklarhed i forbindelse med den opgave Kommisjonen for gjenopptakelse av straffesaker skal løse.»[^1506]
+
+Den 1. september 2020 skrev Gjenopptakelseskommisjonen til DRK og ba om en redegjørelse for hvorfor de hadde uttalt at tilleggsbemerkning ikke var nødvendig:
+
+«DRK bemerker i sin uttalelse at den på flere punkter har vesentlige merknader til den sakkyndiges uttalelser, og at den sakkyndiges vurderinger inneholder ‘… en rekke verbale vurderinger som vi oppfatter som unøyaktige …’ I forskrift om Den rettsmedisinske kommisjon 13. februar 2018 heter det i § 3, punkt a) andre setning: Kommisjonen kan anmode sakkyndige om å gi skriftlig tilleggserklæring innen en passende frist. Gjenopptakelseskommisjonens erfaring er at DRK ber den/de sakkyndige om en tilleggserklæring når den finner at den sakkyndige erklæringen har vesentlige mangler. Hva er begrunnelsen for at DRK ikke har bedt om en tilleggserklæring fra Frederik Torp Petersen, men tvert imot uttrykkelig uttalt at det ikke er nødvendig med en tilleggserklæring?»[^1507]
+
+Den 18. september 2020 svarte DRK følgende:
+
+«Kommisjonen beklager at vi ikke har begrunnet hvorfor vi ikke så det nødvendig med en tilleggserklæring fra den sakkyndige.
+
+Det må bero på en misforståelse det at den sakkyndige oppfatter det slik at han han ikke har anledning til å besvare våre bemerkninger når Kommisjonen for gjenopptagelse av straffesaker i brev av 15.07.20 anmoder den sakkyndige om svar. Den sakkyndige bør besvare anmodninger fra rekvirent og ikke kun vise til tidligere uttalelse.
+
+For ordens skyld minner vi om at vi ikke har behandlet primærrapporten i fra år 2000 (rettsgenetiske uttalelser ble rutinemessig behandlet først fra 2003), mens vi har tidligere behandlet rapporten fra 2010.
+
+Når det gjelder selve erklæringen fra den sakkyndige, så skriver den sakkyndige selv at han har ingen erfaring med den teknologien (elektroforese på ABI 377) som ble brukt for DNA analyse i primærrapporten i år 2000. Det gjør at vi ikke ser det som nødvendig å fortsette en diskusjon rundt verbale uttalelser med en sakkyndig som selv bekrefter at han ikke har tilstrekkelig kunnskap om de metoder, standarder, signalstyrke (sensitivitet) og bakgrunn som ligger til grunn i de originale rettsgenetiske rapportene. Vi mener at en utvidet diskusjon rundt disse verbale begrepene ikke vil gi oppklaring, men kan heller villede.
+
+I og med at den sakkyndige så tydelig ikke har kunnet vurdere sensitiviteten i resultatene i rapportene fra 2000 og 2010, men kun vurderer disse opp mot dagens rutiner og sensitivitetsnivå, har ikke kommisjonen funnet det formålstjenlig å be om en tilleggserklæring.
+
+Vi konkluderte da også med at vi mener at dette er en vesentlig mangel når ikke resultater og premisser er stemt opp riktig mot konklusjonene.
+
+Til opplysning er flere av punktene som er berørt i den sakkyndige rapporten allerede godt belyst i tidligere sakkyndiguttalelser.
+
+Uttalelsen er utarbeidet i samråd med sekretariatsleder for Den rettsmedisinske kommisjon, jf. forskrift om Den rettsmedisinske kommisjon § 4.»[^1508]
+
+#### Øvrige utredningsskritt
+
+Foruten utredning vedrørende DNA som nevnt ovenfor i punkt 11.11.3.1 og 11.11.3.2 ble det gjennomført et vitneavhør 20. april 2018[^1509] samt innhentet opplysninger fra Kripos om beslaglagte kniver.[^1510]
+
+#### Agder statsadvokatembeters uttalelse 15. mai 2019
+
+Den 23. oktober 2018 ble Agder statsadvokatembeter bedt om å avgi uttalelse til gjenåpningsbegjæringen. Fristen ble satt til 14. januar 2019.[^1511] Den 20. november 2018 hadde Agder statsadvokatembeter møte med straffesaksledelsen i Agder politidistrikt om det videre arbeidet med Baneheia-saken. Det ble bestemt at Agder politidistrikt skulle digitalisere dokumentene i saken og komme med en innstilling til Agder statsadvokatembeter. På denne bakgrunn ble fristen for avgivelse av uttalelse utsatt til 1. april 2019. På anmodning fra Agder statsadvokatembeter ble fristen ytterligere utsatt til 15. mai 2019.
+
+Agder politidistrikt leverte sin gjennomgang av saken og innstilling til Agder statsadvokatembeter 20. mars 2019.[^1512] Den 9. april 2019 hadde førstestatsadvokat Erik Erland Holmen og statsadvokat Jan Tallaksen i Agder statsadvokatembeter et møte med Arvid Sjødin og Halvard Sivertsen. På møtet underbygget Sjødin og Sivertsen begjæringen. Agder statsadvokatembeter leverte deretter sin uttalelse til Gjenopptakelseskommisjonen 15. mai 2019.[^1513] Statsadvokaten viste til Agder politidistrikts uttalelse i sin helhet og refererte store deler av politiets gjennomgang, med presiseringer og tilleggsopplysninger uthevet i fet skrift. Påtalemyndigheten ba om at begjæringen ikke ble tatt til følge.
+
+Arvid Sjødin innga merknader til påtalemyndighetens uttalelse 30. juni 2019.[^1514]
+
+#### Bistandsadvokatenes uttalelse
+
+Bistandsadvokat Håkon Brækhus innga 15. mai 2019 merknader på vegne av sine klienter Ada Sofie Austegard, Jostein Sørstrønen og Arne Bernt Paulsen. Brækhus ba om at begjæringen ikke ble tatt til følge.[^1515] Advokat Cathrine Grøndal, som var bistandsadvokat for Klara Sløgedal, opplyste at Sløgedal ikke ønsket å inngi egne merknader.
+
+#### Forsvarers sluttinnlegg
+
+Advokat Arvid Sjødin innga sluttinnlegg 16. mai 2019.[^1516] Det ble presisert at det anførte grunnlaget for gjenåpning var at det forelå nye bevis og nye omstendigheter som syntes egnet til å føre til frifinnelse, jf. straffeprosessloven § 391 nr. 3, og at det forelå særlige forhold som både hver for seg og samlet gjorde det tvilsomt om dommen mot Viggo Kristiansen var riktig, jf. straffeprosessloven § 392 andre ledd. Videre ble de sentrale anførslene knyttet til DNA-beviset og telebeviset gjentatt.
+
+### Kommisjonens avgjørelse 18. februar 2021
+
+Gjenopptakelseskommisjonen behandlet begjæringen på seks ordinære kommisjonsmøter.[^1517] På disse møtene ble saken presentert og drøftet, sammen med andre saker som var til behandling. Saken ble videre behandlet på flere egne heldagsmøter i kommisjonen, 11.–12. desember 2019, 13.–15. oktober 2020, 30.–31.oktober 2020, 25.–26. november 2020, 13. desember 2020 og 28. januar 2021. I tillegg ble det, forut for ferdigstillelsen, avholdt ettermiddagsmøter 2., 9. og 11. februar 2021.[^1518]
+
+Gjenopptakelseskommisjonen tok begjæringen om gjenåpning til følge i vedtak 18. februar 2021.[^1519] Avgjørelsen er på 369 sider. Kommisjonen vurderte først om det var grunnlag for gjenåpning i medhold av straffeprosessloven § 391 nr. 1, det vil si om det var begått straffbare forhold i anledning saken. Kommisjonen kom til at ingen av de anførte forholdene knyttet til knivbeviset og gjerningsmannsprofilen utgjorde straffbare forhold. De kunne derfor ikke gi grunnlag for gjenåpning.
+
+Kommisjonen vurderte deretter om det var grunnlag for gjenåpning i medhold av straffeprosessloven § 391 nr. 3, det vil si om det forelå nye bevis eller omstendigheter som syntes egnet til å føre til frifinnelse. Kommisjonen delte seg her i et flertall på tre og et mindretall på to. Flertallet kom til at vilkårene for gjenåpning var oppfylt. Flertallet, som besto av medlemmene Dag Jodaa, Elin Ramleth Østli og Arne Gunnar Aas, vurderte at saken med hensyn til biologiske spor sto i en vesentlig annen bevismessig stilling enn da saken var oppe for lagmannsretten i 2002.[^1520]
+
+Ved rekonstruksjonen av bevisbildet for lagmannsretten viste flertallet blant annet til avisreferater fra den DNA-sakkyndiges vitnemål, fra aktors og forsvarers prosedyrer for lagmannsretten og fra lagmannens rettsbelæring. Konklusjonen var at lagretten, ut fra bevisførselen, må ha oppfattet DNA-beviset som en sikker bekreftelse på at overgrepene ble begått av to gjerningsmenn.[^1521] Flertallet viste deretter til de nye sakkyndige rapportene som var utarbeidet i etterkant fra Forensic Science Service (FSS), GENA – Institutt for DNA-analyse og Retsmedicinsk Institut ved Københavns Universitet, og til resultatene av undersøkelsene som ble foretatt ved Universitetet i Santiago de Compostela (USC) i 2010. Flertallet konkluderte med at DNA-beviset i dag måtte anses tilnærmet nøytralt når det gjaldt spørsmålet om det var én eller to gjerningsmenn.[^1522]
+
+Flertallet la videre til grunn at det ved domfellelsen ble lagt vekt på indisier, av varierende vekt, som talte for at Kristiansen var skyldig, men at påtalemyndigheten måtte føre sikre bevis for at Kristiansen hadde utført handlingene han faktisk var tiltalt for. I vurderingen av dette avgjørende spørsmålet sto DNA-beviset og Andersens forklaring sentralt for lagmannsretten. Det uriktige premisset om to gjerningsmenn ga støtte til Andersens forklaring om at Kristiansen var til stede, og førte til at telebeviset – som tilsa at Kristiansens mobiltelefon ikke kunne ha vært på åstedet – ble tillagt mindre vekt.
+
+Etter flertallets syn måtte DNA-beviset i dag anses tilnærmet nøytralt når det gjaldt spørsmålet om hvorvidt overgrepene ble begått av to personer. Videre var Jan Helge Andersens forklaring svekket som følge av ny kunnskap om at avhørsteknikken som ble benyttet overfor ham, økte risikoen for uriktige forklaringer. DNA-resultater fra 2010 knyttet dessuten Andersen i sterkere grad enn tidligere – og i klar motstrid til Andersens forklaring i retten – til seksuelle overgrep mot Stine Sofie Sørstrønen. De to sentrale bevisene som ble ført mot Viggo Kristiansen, var følgelig svekket.
+
+Svekkelsen av DNA-beviset og Andersens forklaring tilsa ifølge flertallet at telebeviset måtte tillegges større vekt:
+
+«Når mobilbeviset fikk begrenset betydning i bevisvurderingen tilsier en rasjonell vurdering at dette hadde sammenheng med at det angivelig forelå sikre holdepunkter for to gjerningsmenn i DNA-funnene. Dersom det gjennom DNA-funn var bevist at Viggo Kristiansen hadde vært på åstedet, vil det ha begrenset betydning for saken at det ikke hadde lyktes Telenor og Teleplan å oppnå slik dekning. En slik teoretisk mulighet for at dekning kunne oppnås var tilstrekkelig når DNA-beviset ble tolket med sikkerhet til å vise at han hadde vært på åstedet. Situasjonen er etter flertallets vurdering nå endret fordi DNA-beviset er svekket. En rasjonell vurdering tilsier da at mobilbeviset vil få større betydning i den samlede bevisvurderingen.»[^1523]
+
+Flertallet mente det samme måtte gjelde andre forhold som støttet Kristiansens forklaring, for eksempel det at ingen vitner hadde observert Kristiansens iøynefallende sykkel ved bommen ved Svarttjønn. Det ble også påpekt at Andersen kunne ha et åpenbart motiv for å dra Kristiansen inn i saken. Flertallet konkluderte med at selv om det forelå forhold som talte for at Kristiansen var skyldig, var det samlet sett en rimelig mulighet for at han ville ha blitt frifunnet.[^1524]
+
+Mindretallet, som besto av kommisjonens leder Siv Hallgren og Tor Ketil Larsen, mente på sin side at saken med hensyn til biologiske spor *ikke* sto i en vesentlig annen bevismessig stilling enn da saken var oppe for lagmannsretten.[^1525] Også mindretallet viste til avisartikler om bevisførselen og prosedyrene.[^1526] Mindretallet viste til at usikkerhet knyttet til DNA-beviset var fremme for lagmannsretten, herunder at Kristiansens forsvarer reiste spørsmålet om kontaminering.[^1527] Mindretallet viste også til at det hadde vært vitneførsel om hvordan politiet arbeidet på åstedet, og fra obdusentene om hvordan sporprøvene fra likene ble tatt, samt hvordan prøvene ble behandlet hos Rettsmedisinsk institutt (RMI).[^1528]
+
+Videre la mindretallet til grunn at juryen til en viss grad må ha hatt en forståelse av faren for forurensning gjennom krimlitteratur, filmer og media:
+
+«Etter mindretallets syn må det per 2000–2002 ha vært slik at det var en allmenn forståelse for at man i en drapssak som denne måtte sikre spor på en omhyggelig måte for å forhindre at analyser av DNA ikke ble forurenset. Vi forutsetter at juryen til en viss grad må ha hatt en forståelse av dette, i og med at slik sporsikring både er tema i krimlitteratur, filmer og i media, men også noe man fikk problematisert i rettsforhandlingene.»[^1529]
+
+Mindretallets historiske rekonstruksjon av bevisbildet ble oppsummert slik:
+
+«Kommisjonens mindretall mener at det ovenfor nevnte underbygger at DNA-beviset var usikkert da saken ble behandlet i lagmannsretten, og at Viggo Kristiansens forsvarer åpenbart var opptatt av å fremstille mulige svakheter og mangler ved DNA-beviset samt at han har viet dette spørsmålet stor oppmerksomhet både under bevisførselen og i prosedyren.»[^1530]
+
+Etter en gjennomgang av de nye sakkyndige rapportene fra Forensic Science Service (FSS), GENA og Retsmedicinsk Institut ved Københavns Universitet, som ifølge mindretallet ga «uttrykk for ytterligere tvil og nyanser enn hva de \[sakkyndige\] mener det ble gitt uttrykk for i den spanske rapporten», konkluderte mindretallet slik:
+
+«Etter mindretallets vurdering er de nye analysene og rapportene som foreligger i hovedtrekk bare en videreføring og gjentakelse av den uenigheten som har foreligget om forståelsen av DNA-beviset, og gir ikke grunnlag for gjenåpning etter straffeprosessloven § 391 nr. 3.»[^1531]
+
+Mindretallet la altså til grunn at DNA-beviset var omtrent like usikkert ved lagmannsrettsbehandlingen som ved gjenåpningsprosessen. Mindretallet la til grunn at det var Andersens forklaring, og indisiene i saken, som var de sentrale bevisene for lagretten.[^1532] Om Andersens forklaring uttalte mindretallet:
+
+«Slik *mindretallet* ser det er det åpenbart at det kan være grunn til å stille spørsmål ved deler av Andersens politiforklaringer, han har endret sin forklaring etter hvert som bevisene mot ham ble lagt frem. Man kan også være kritisk til avhørsmetodikken som ble brukt hvor man til en viss grad formulerte ledende spørsmål til Andersen og introduserte ideen om at han selv kunne være et offer og at det var Viggo Kristiansen som var den dominante part i handlingene. Etter mindretallets vurdering er det ikke fremkommet noe avgjørende nytt knyttet til Andersens forklaring som svekker bevisbildet mot Kristiansen. Det synes å være på det rene at retten har vært klar over svakhetene i Andersens forklaringer.»[^1533]
+
+Mindretallet viste deretter til indisiebevisene mot Kristiansen, som mindretallet mente var momenter som «underbygger at Viggo Kristiansen med rette ble dømt for de handlingene han var tiltalt for».[^1534] Det ble også hevdet at disse momentene veide tungt ved juryens samlede bedømmelse av bevisene som ble ført i retten.[^1535] Mindretallets konklusjon var at vilkårene for gjenåpning etter straffeprosessloven § 391 nr. 3 ikke var oppfylt.
+
+Mindretallet vurderte til slutt om vilkårene for gjenåpning etter straffeprosessloven § 392 andre ledd var til stede. Mindretallet kom til at vilkårene for gjenåpning heller ikke var oppfylt etter denne bestemmelsen.
+
+Etter dette traff kommisjonen slikt vedtak:
+
+«Begjæring om gjenåpning i sak nr. 2020/82 tas til følge.»

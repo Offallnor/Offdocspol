@@ -1,903 +1,237 @@
-# NOU 2026: 3, del 24 av 50 (side 258–267)
+# NOU 2026: 3, del 24 av 56
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2026/9cee8194-nou-2026-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2026-3/id3149017/
-- Tekst: hentet fra PDF. OBS: 5 tabeller, 20 figurer, 145 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 258]
+## Kristiansand byretts dom 1. juni 2001
 
-256
+### Oversikt
 
-Kapittel 6
+Kristiansand byrett avsa dom fredag 1. juni 2001. Viggo Kristiansen ble dømt for overlagt drap og voldtekter av begge de fornærmede i henhold til tiltalens post I til III. Jan Helge Andersen ble dømt for drapet på Stine Sofie Sørstrønen samt medvirkning til Kristiansens voldtekter av jentene. Han ble frikjent for drapet på Lena Sløgedal Paulsen, jf. post I a. Viggo Kristiansen ble også domfelt for forholdene i tiltalens post IV–VII.
 
-NOU 2026: 3
+Kristiansen ble idømt fengsel i 21 år og sikring for et tidsrom av ti år. For Andersen konkluderte retten med at fengsel i 17 år uten sikring var en passende straff.
 
-Straffeforfølgelsen av Viggo Kristiansen
+Utvalget har nedenfor valgt å sitere de relevante delene av domspremissene.
 
-at Kristiansen ringer til to venner, vitnene
-Bakke og Loland, som Kristiansen inviterte på
-besøk, etter rettens vurdering åpenbart for å
-skaffe seg alibi.
-Aktor har til denne mobiltelefonbruken vist
-til at det ikke er noe i veien for at de to tiltalte
-frem til noe før kl. 19.00 befant seg innenfor det
-som har vært dekningsområdet for Eg-A senderen. Etter dette har de beveget seg frem mot
-åstedet og senere kommet i kontakt med de to
-fornærmede og gjennomført voldtektene og
-drapene på disse. Tiltalte Andersen har forklart
-for politiet og i retten at han ikke på noe tidspunkt observerte Kristiansens mobiltelefon og
-derfor heller ikke registrerte at denne ble
-brukt mens ugjerningene fant sted. Han har
-imidlertid forklart at tiltalte Kristiansen, etter
-at drapene var utført, en periode var borte fra
-åstedet uten at Andersen visste hvor Kristiansen var. Det er etter rettens vurdering ikke noe
-i veien for at Kristiansen på det tidspunktet
-beveget seg over til det som har vært dekningsområdet for Eg-A senderen. Andersen har forklart at Kristiansen til tider oppbevarte mobiltelefonen i en veske under setet på sykkelen,
-han ved 18-tiden angivelig hadde parkert ved
-bommen ved Svarttjønn. Dersom denne telefonen har vært oppbevart innenfor dekningsområdet og telefonen var påslått vil den ha registrert inn tekstmeldingen som ble mottatt kl.
-19.24 via Eg A-senderen. Har Kristiansen i perioden han var borte fra åstedet returnert til sykkelen, har han eventuelt kunnet besvare denne
-henvendelsen kl. 19.37 før han igjen tok seg tilbake til åstedet og hjalp til med å fjerne spor.
-Andre alternativ er at ugjerningene ble begått i
-tidsrommet mellom kl. 19.00 og 19.37, eller at
-Andersen ikke forklarer seg korrekt om alle
-ting som skjedde på åstedet, noe retten ikke
-ser bort ifra.
-Det er for retten ikke mulig å fastslå endelig
-hva som har skjedd med hensyn til Kristiansens mobiltelefonbruk. Fra Telenors side er
-det videre opplyst at man ikke ser at det vil
-være praktisk mulig å foreta ytterligere undersøkelser som kan utdype dette. Ut fra bevisførselen finner retten likevel ikke at den mobiltelefonbruk som har vært endrer på vurderingen av de øvrige bevisene, som etter rettens
-vurdering bekrefter utover enhver rimelig tvil
-at tiltalte Kristiansen sammen med tiltalte
-Andersen utførte voldtektene og drapene
-nevnt i tiltalebeslutningens post I – III.»196
+### Bevisvurderingen i Baneheia-saken
 
-6.9.3 Andersens strafferettslige ansvar
-Retten fant at Jan Helge Andersen gjennom sin
-opptreden medvirket til Viggo Kristiansens voldtekter av Lena Sløgedal Paulsen og Stine Sofie
-Sørstrønen. Retten frifant ham imidlertid for medvirkning til drapet på Sløgedal Paulsen. Han ble
-dømt for drapet på Sørstrønen, men retten fant at
-han ikke handlet med overlegg.
+Retten konkluderte som nevnt med at det var bevist utover enhver rimelig tvil at Viggo Kristiansen sammen med Jan Helge Andersen utførte voldtektene og drapene i Baneheia (tiltalen post I–III).
+
+De relevante delene av domspremissene siteres i sin helhet:
+
+«**Rettens bemerkninger:**
+
+Retten legger ved bevisvurderingen til grunn at enhver rimelig tvil med hensyn til faktum skal komme de tiltalte til gode.
+
+**Tiltalens post I – III:**
+
+Lena Sløgedal Paulsen, f. 14.05.1990, og Stine Sofie Sørstrønen, f. 10.05.1992, ble voldtatt og drept i Baneheia i Kristiansand om kvelden fredag den 19. mai 2000.
+
+Baneheia er et turområde beliggende like nord for Kristiansand sentrum. Både på østsiden og vestsiden av Baneheia er det utbygd med boligfelt. På østsiden ligger bl.a. Egsområdet hvor de to tiltalte bor, og på vestsiden Grimsområdet hvor de fornærmedes fedre har bolig. Foreldrene til de fornærmede bor ikke sammen, og den 19. mai 2000 var de to fornærmede hos sine fedre på Grim. Fra Grimsområdet går det stier inn i Baneheia, noe det også gjør fra Egsområdet. I selve Baneheia er det videre flere mindre vann. Blant disse er 1., 2. og 3. Stampe, samt Svarttjønn. Noen av disse vannene benyttes som badeplass av befolkningen i de omkringliggende områder.
+
+Ut fra den bevisføring som har vært i saken, finner retten det bevist at de to fornærmede forlot boligområdet på Grim ca. kl. 18.30 den 19. mai 2000 for å bade på en anlagt badeplass i sørenden av ‘3. Stampe’. Mens de oppholdt seg der ble de observert av de to tiltalte fra en fjellknaus som ligger ca. 50 m i luftlinje mot vest fra badeplassen. Retten legger til grunn at de tiltalte etter å ha observert de to jentene gikk fra denne fjellknausen og ned til en sti som leder fra 3. Stampe til Grim. På denne stien møtte de to tiltalte de fornærmede som da var på vei hjem etter å ha avsluttet badingen ca. kl. 19.00. Jentene ble av de tiltalte lokket med inn på en sti som leder opp mot et avsidesliggende område. Dette skjedde ved at tiltalte Kristiansen henvendte seg til de to jentene og spurte om de kunne hjelpe til med å finne en katt med kattunger som angivelig skulle befinne seg et stykke utenfor stien. De to jentene ble på denne måten ført inn til et sted som ligger et stykke unna stiene i området. Dette stedet er skjermet for innsyn ved at det ligger noe høyere enn stiene som går i nærheten, samtidig som det også er skjult av kraftig vegetasjon.
+
+Retten finner det bevist utover enhver rimelig tvil at de to fornærmede i saken, Lena Sløgedal Paulsen og Stine Sofie Sørstrønen, etter å ha vært ført inn til dette stedet først ble voldtatt for deretter å bli drept. Dette skjedde ved at de to fornærmede ble truet på livet med kniv av Viggo Kristiansen til å ta av seg buksene. De to jentene trakk bukser og truser ned til knehøyde før Kristiansen beordret dem til å kle på seg igjen. De to ble deretter ført litt til sides, 4-5 m unna, hvor de ble plassert inntil noe tett vegetasjon, samt en liten fjellskrent, noe som gjorde det vanskelig for jentene å løpe fra stedet. Der knyttet Kristiansen en genser eller jakke foran ansiktet til Lena Sløgedal Paulsen og plasserte henne på bakken. Etterpå tok han Stine Sofie Sørstrønen med seg tilbake til stedet hvor de to jentene like før hadde blitt truet til å kle av seg. Der beordret Kristiansen Stine Sofie Sørstrønen til på ny å kle av seg, noe hun gjorde. Deretter fullbyrdet Kristiansen voldtekt av Stine Sofie Sørstrønen ved at han førte sin penis inn i hennes endetarmsåpning og også gjorde forsøk på å trenge inn i hennes skjede, slik dette fremgår av tiltalebeslutningens post II litra a).
+
+Mens denne voldtekten skjedde, satt tiltalte Andersen ifølge egen forklaring på en stein noen få meter unna. Han har forklart at han oppfattet det som skjedde, men at han det meste av tiden satt med ryggen til da voldtekten fant sted.
+
+Etter at Kristiansen hadde fullbyrdet voldtekten av Stine Sofie Sørstrønen reiste han seg opp og gikk bort til Andersen. Andersen har forklart at det kom til et oppgjør mellom de to og at Kristiansen truet ham med kniv til å forgripe seg seksuelt på Stine Sofie Sørstrønen, som på dette tidspunkt lå naken på bakken. Andersen har opplyst at han ble påført et risp med kniv i armen av Kristiansen under dette oppgjøret og at han etterpå gikk bort til fornærmede. Der tok han av seg buksa og la seg oppå Stine Sofie Sørstrønen. Han har forklart at hun lå på ryggen med bena ut til siden og at han førte sin penis, som ifølge hans egen forklaring ikke var erigert, inn mot hennes kjønnsorgan. Han har også forklart at han presset mot hennes kjønnsorgan med sin penis, men at han ikke trengte inn og at penis gled ned mot hennes endetarmsåpning. Etter dette reiste han seg angivelig opp, og Kristiansen forgrep seg på ny på fornærmede ved å gjenoppta den utuktige omgangen med henne.
+
+Noe etterpå avsluttet Kristiansen overgrepet mot Stine Sofie Sørstrønen og de to reiste seg begge opp. Fornærmede kledde på seg og tiltalte Kristiansen bandt en jakke eller genser for ansiktet til fornærmede, som ble plassert på bakken ved siden av stedet hvor voldtekten hadde funnet sted. Kristiansen gikk deretter bort til Lena Sløgedal Paulsen som satt på det ovenfor beskrevne stedet 4-5 m unna, og hentet henne bort til stedet hvor voldtekten av Stine Sofie Sørstrønen hadde funnet sted. Han beordret Lena Sløgedal Paulsen til å kle av seg. Han førte deretter penis og en eller flere fingre inn i hennes skjede og endetarmsåpning. Han fullbyrdet således voldtekt av henne slik det fremgår av tiltalebeslutningens post II litra b).
+
+Retten finner det ikke tvilsomt at Kristiansen gjennomførte de to voldtektene etter først å ha truet de to fornærmede på livet ved bruk av kniv. Voldtektene omfattet samleie og skjedde med forsett. Han blir således å dømme i samsvar med tiltalens post II a) og b) og III a) og b).
+
+Etter at Kristiansen hadde fullbyrdet voldtekten kledde han på seg og det samme gjorde Lena Sløgedal Paulsen. Da hun var ferdig, la Kristiansen hånden på hodet hennes for å føre henne bort mot stedet hvor den andre fornærmede satt. Han tok samtidig frem en kniv som han først holdt bak på ryggen. Uten nærmere forvarsel tok han hånden som han holdt på hodet og flyttet ned foran munnen til Lena Sløgedal Paulsen. Deretter stakk han henne to ganger i halsen og en gang i magen/brystet med kniven i den hensikt å ta livet av henne. Dette førte til at halspulsåren på høyre side ble skåret over slik at hun kort tid senere døde.
+
+Retten finner det ikke tvilsomt at dette drapet fra Kristiansens side skjedde etter at han først hadde overveid hva han skulle gjøre med fornærmede. I og med at han ikke på noe tidspunkt hadde gjort forsøk på å skjule sin identitet er det svært sannsynlig at han hadde til hensikt å ta livet av de to fornærmede fra første stund av etter at disse først var blitt voldtatt. Mens overgrepene fant sted, hadde Kristiansen god tid til å overveie hva han skulle gjøre, og retten legger til grunn at selve drapet på Lena Sløgedal Paulsen skjedde etter forutgående overveielse fra hans side, slik det fremgår av tiltalens post I a). Formålet med drapet var videre å skjule for omverdenen voldtektene som hadde skjedd, og Kristiansen ville således ta livet av fornærmede for å unndra seg straff. Måten drapet skjedde på, som ble utført på en 10 år gammel forsvarsløs pike, hadde karakter av ren likvidering av fornærmede. Det skjedde således under særdeles skjerpende omstendigheter. Kristiansen blir derfor å dømme i overensstemmelse med tiltalens post I a), idet både subjektive og objektive vilkår for straffellelse i samsvar med tiltalen på dette punkt er til stede.
+
+Tiltalte Andersen har forklart at han ikke var forberedt på at Kristiansen skulle ta livet av Lena Sløgedal Paulsen. Han har forklart at Kristiansen satte seg på huk ved siden av Lena Sløgedal Paulsen mens hun ble lagt ned på bakken etter å ha vært tildelt de nevnte knivstikk. Andersen har forklart at han da umiddelbart reiste seg opp fra steinen han satt på og gikk mot Kristiansen, som han dyttet over ende samtidig som han spurte: ‘Hva fa’en holder du på med?’ Deretter reiste Kristiansen seg opp og det oppstod en krangel mellom de to som endte med at Kristiansen holdt kniven inn mot siden av kroppen til Andersen og krevde at Andersen skulle ta livet av Stine Sofie Sørstrønen. Hun satt like ved siden av med et tøystykke foran ansiktet. Andersen har forklart at han først ikke var villig til å gjøre dette, men på grunn av trusselen fra tiltalte Kristiansen ga han etter og var villig til å ta livet av henne.
+
+Retten legger til grunn at Andersen deretter fikk overlevert kniven fra Kristiansen. Med denne utførte han drapet på Stine Sofie Sørstrønen ved at han stakk henne i halsen en gang med den samme kniven og skar derved over halsvirvelpulsåren slik at hun kort tid senere døde. Da dette skjedde lå Stine Sofie Sørstrønen på ryggen. Tiltalte Kristiansen holdt henne i bena mens Andersen satt ved siden av henne i skulderhøyde da knivstikket ble utført. Knivstikket i halsen på fornærmede Sørstrønen ble av Andersen utført i den hensikt at han ville ta livet av henne.
+
+Umiddelbart etter at drapene var utført ble de to fornærmede gjemt under noen greiner fra krypfuru som vokser like ved åstedet for voldtektene og drapene. Til å skjule likene ble det videre kuttet en del einerkvister, i alt 25 stk., fra vegetasjon i nærheten. Med disse kvistene ble likene godt skjult før øvrige spor ble fjernet ved at det ble strødd gammelt løv og annet nedfall fra trærne over området.
+
+Etter at sporene på åstedet var skjult tok de tiltalte med seg de fornærmedes badetøy og caps og en brusflaske disse hadde hatt med seg. Badetøyet og capsene ble skjult i steinene til en eldre tørrlagt demning like i nærheten, mellom noen steiner, og tildekket med mose. De to tiltalte skilte deretter lag med avtale om å møtes noe senere utenfor Kristiansens bopel. Bæreposen badetøyet hadde blitt båret i av de fornærmede ble senere kastet i en søppeldunk et annet sted i Baneheia av en av de tiltalte, og det samme gjaldt brusflasken som de fornærmede hadde hatt med seg. Noe senere møttes de tiltalte utenfor boligen til Kristiansen, sannsynligvis noe etter kl. 20.00.
+
+----
+
+Da de fornærmede ikke kom hjem som avtalt i løpet av kvelden, ble disse meldt savnet til politiet. Ettersøking av de to jentene ble foretatt i løpet av samme kveld og da disse ikke ble funnet ble søkene etter hvert intensivert utover helgen. Søndag ettermiddag ble badetøyet som var gjemt i demningen funnet, og kort tid senere fant man også likene av de to fornærmede.
+
+Fra politiets side ble det satt inn store ressurser på å oppklare saken. Den 13. september 2000 foretok man pågripelse av de to tiltalte. Tiltalte Andersen erkjente i første politiavhør etter kort tid at han hadde utført drapet på ‘den yngste av de to fornærmede’, dvs. Stine Sofie Sørstrønen. Han erkjente ikke å ha hatt utuktig omgang med noen av jentene. Senere forklarte han i politiavhør, noe han gjentok i retten, at han under trussel om selv å bli drept forgrep seg på fornærmede Sørstrønen. Han hevdet likevel at han ikke hadde samleie med henne, slik dette er beskrevet ovenfor. I den forklaring tiltalte Andersen ga redegjorde han imidlertid i detalj for det som skjedde på åstedet. Han forklarte hvordan de to fornærmede ble lokket med av Kristiansen. Han forklarte videre hvordan voldtektene ble utført og hvordan drapene senere ble gjennomført. Retten finner at den sammenhengende forklaring tiltalte Andersen har gitt med hensyn til det som skjedde i all hovedsak er korrekt, dog slik at han ikke er like troverdig når det gjelder eget overgrep overfor Stine Sofie Sørstrønen.
+
+Når det gjelder ovennevnte hendelsesforløp, legger retten til grunn at dette kan samsvare med rettsmedisinsk undersøkelse av de to fornærmede foretatt av sakkyndige som arbeider ved Rettsmedisinsk Institutt, professor dr.med. Torleiv Ole Rognum og førsteamanuensis Kari Ormstad. Deres konklusjon etter undersøkelser av de to fornærmede er i overensstemmelse med den gjerningsbeskrivelse som ovenfor er gjengitt, og som også tiltalebeslutningen bygger på. Det forhold at de fornærmede først ble voldtatt og deretter drept på den måten som er beskrevet av tiltalte Andersen er forenlig med de funn som rettsmedisinerne har gjort.
+
+Det ble videre på åstedet gjort en del funn. Bl.a fant politiet et hår med rot som stammet fra et menneske. Dette håret var festet til noe blod som var avsatt på et blad. Analyse av dette håret ga en full DNA-profil som er i overensstemmelse med DNA fra tiltalte Andersen. Det er således sikkert at han var på åstedet da drapene ble utført. På de to fornærmede ble det videre tatt prøver hvor det ble funnet sædceller. Disse sædcellene hadde imidlertid ligget for lenge til at det var mulig å foreta en fullstendig DNA-analyse. Da man gjorde forsøk på å analysere prøvene som var tatt fra de to fornærmede, klarte man ikke å få frem en DNA-profil annet enn på celler som stammet fra de fornærmede selv. Ved Rettsmedisinsk Institutt tok man imidlertid kontakt med spanske rettsmedisinere ved universitet i Santiago de Compostela hvor man har forsket særskilt på DNA-analyse på y-kromosomer. Man foretok en rekke tester på denne måten og fikk ifølge overingeniør Bente Mævåg ved Rettsmedisinsk Institutt, som har vært oppnevnt som sakkyndig, sikker bekreftelse på at det i de innleverte prøver var celler fra to forskjellige menn. Man fikk likevel ikke noen fullstendig DNA-profil, og det er derfor ikke grunnlag for å si noe nærmere om identiteten til de to mennene dette dreier seg om. De rettsmedisinske funnene viser imidlertid at det er funnet DNA i skjede og endetarm på Stine Sofie Sørstrønen forenlig med begge de to tiltalte, samtidig som det også er funnet DNA i endetarmsåpning på Lena som ikke er i overensstemmelse med DNA fra Jan Helge Andersen, men som passer med Viggo Kristiansen. Det skal for øvrig bemerkes at den svært begrensede DNA-profil som er identifisert, og som stemmer med DNA fra Kristiansen, stemmer med tilsvarende profil på over 50% av norske menn. Det er likevel et poeng at analysen er i overensstemmelse med tiltalte Andersens forklaring hvoretter begge forgrep seg på Stine Sofie Sørstrønen, mens kun tiltalte Kristiansen gjorde dette på Lena Sløgedal Paulsen.
+
+Det forhold at man har funnet DNA fra to forskjellige menn er videre et vesentlig bevis når man skal vurdere troverdigheten av Andersens forklaring, når han hevder at Kristiansen var med i Baneheia og utførte drapene og voldtektene. Videre støttes Andersens forklaring når det gjelder lokaliseringen av DNA fra ham bare på Stine Sofie Sørstrønen, og ikke på Lena Sløgedal Paulsen.
+
+I tillegg til ovenstående vektlegger retten ved bevisvurderingen at de to tiltalte ca. kl. 18.00 den 19. mai ble observert sammen ved Svarttjønn av en rekke vitner som har vært ført for retten. De tiltalte ble videre observert sammen senere på kvelden noe før kl. 21.00 av andre. I tiden mellom disse tidspunktene, da drapene og voldtektene ble begått, har tiltalte Andersen forklart at de to var sammen. Kristiansen har derimot benektet dette og har forklart at han var alene i sin arbeidsbod utenfor hans bopel fra ca. kl. 18.00 til Andersen kom fra joggetur noe etter kl. 20.00. Kristiansen har ikke noe alibi for dette tidsrom utover utskrifter fra bruk av hans mobiltelefon, noe retten kommer tilbake til nedenfor.
+
+Retten fester avgjørende lit til Andersens forklaring om at han var sammen med Kristiansen i det aktuelle tidsrom. De to var svært gode venner og det er ikke mulig å se noe motiv for Andersen til å trekke Kristiansen urettmessig inn i saken.
+
+Ved bevisvurderingen må det også tillegges vekt at tiltalte Kristiansen tidligere har forgrepet seg seksuelt på barn. Han er riktignok ikke dømt for dette før, men retten viser til drøftelsen av tiltalens post IV til VI nedenfor. Det er videre et påfallende trekk ved Kristiansen at han foruten en særlig sterk interesse for pornografi, synes å ha spesielle seksuelle tilbøyeligheter.
+
+Tiltalte Kristiansen har som allerede nevnt forklart at han etter å ha snakket med Andersen ved Svarttjønn ca. kl. 18.00 den 19. mai gikk hjem og oppholdt seg i sin arbeidsbod. Der var han frem til Andersen kom tilbake fra joggetur, angivelig noe etter kl. 20.00. Det har ikke vært ført noen vitner som kan bekrefte Kristiansens forklaring på dette punkt. Imidlertid er det fremlagt en utskrift fra Telenor som viser bruken av Kristiansens mobiltelefon i det aktuelle tidsrom. Av denne fremgår det at han kl. 18.55 mottok en tekstmelding og selv sendte en kl. 18.57. Disse to meldingene gikk over basestasjonen Eg-A. Primærdekningsområdet for denne basestasjonen dekker området nord for åstedet, vel 300 m fra dette. Målinger foretatt av Telenor over dekningsområdet for Eg-A senderen viser at man på åstedet ikke fikk kontakt med denne og at man måtte til nordenden av 3. Stampe før en vanlig mobiltelefon slår inn på denne senderen, dvs. innenfor det som er beskrevet som primærdekningsområdet. Etter de opplysninger retten har fått seg forelagt, bekrefter dette at da mobiltelefonen mottok en tekstmelding kl. 18.55 og senere sendte en melding kl. 18.57 så befant telefonen seg innenfor dekningsområdet for Eg-A senderen, dvs. et stykke nord for det som har vært åstedet for handlingene tiltalens post I – III bygger på. Senere er det mottatt en tekstmelding til samme mobiltelefon kl. 19.24 og sendt en tekstmelding kl. 19.37. Også disse to meldingene er gått over Eg-A senderen. Neste gang mobiltelefonen er i aktivitet er kl. 20.19 i forbindelse med at Kristiansen ringer til to venner, vitnene Bakke og Loland, som Kristiansen inviterte på besøk, etter rettens vurdering åpenbart for å skaffe seg alibi.
+
+Aktor har til denne mobiltelefonbruken vist til at det ikke er noe i veien for at de to tiltalte frem til noe før kl. 19.00 befant seg innenfor det som har vært dekningsområdet for Eg-A senderen. Etter dette har de beveget seg frem mot åstedet og senere kommet i kontakt med de to fornærmede og gjennomført voldtektene og drapene på disse. Tiltalte Andersen har forklart for politiet og i retten at han ikke på noe tidspunkt observerte Kristiansens mobiltelefon og derfor heller ikke registrerte at denne ble brukt mens ugjerningene fant sted. Han har imidlertid forklart at tiltalte Kristiansen, etter at drapene var utført, en periode var borte fra åstedet uten at Andersen visste hvor Kristiansen var. Det er etter rettens vurdering ikke noe i veien for at Kristiansen på det tidspunktet beveget seg over til det som har vært dekningsområdet for Eg-A senderen. Andersen har forklart at Kristiansen til tider oppbevarte mobiltelefonen i en veske under setet på sykkelen, han ved 18-tiden angivelig hadde parkert ved bommen ved Svarttjønn. Dersom denne telefonen har vært oppbevart innenfor dekningsområdet og telefonen var påslått vil den ha registrert inn tekstmeldingen som ble mottatt kl. 19.24 via Eg A-senderen. Har Kristiansen i perioden han var borte fra åstedet returnert til sykkelen, har han eventuelt kunnet besvare denne henvendelsen kl. 19.37 før han igjen tok seg tilbake til åstedet og hjalp til med å fjerne spor. Andre alternativ er at ugjerningene ble begått i tidsrommet mellom kl. 19.00 og 19.37, eller at Andersen ikke forklarer seg korrekt om alle ting som skjedde på åstedet, noe retten ikke ser bort ifra.
+
+Det er for retten ikke mulig å fastslå endelig hva som har skjedd med hensyn til Kristiansens mobiltelefonbruk. Fra Telenors side er det videre opplyst at man ikke ser at det vil være praktisk mulig å foreta ytterligere undersøkelser som kan utdype dette. Ut fra bevisførselen finner retten likevel ikke at den mobiltelefonbruk som har vært endrer på vurderingen av de øvrige bevisene, som etter rettens vurdering bekrefter utover enhver rimelig tvil at tiltalte Kristiansen sammen med tiltalte Andersen utførte voldtektene og drapene nevnt i tiltalebeslutningens post I – III.»[^1029]
+
+### Andersens strafferettslige ansvar
+
+Retten fant at Jan Helge Andersen gjennom sin opptreden medvirket til Viggo Kristiansens voldtekter av Lena Sløgedal Paulsen og Stine Sofie Sørstrønen. Retten frifant ham imidlertid for medvirkning til drapet på Sløgedal Paulsen. Han ble dømt for drapet på Sørstrønen, men retten fant at han ikke handlet med overlegg.
+
 Fra byrettens domspremisser siteres følgende:
-«Tiltalen bygger på at voldtektene av de to fornærmede ble utført av Viggo Kristiansen og at
-Andersen har medvirket til disse. Advokat
-Fegran har på vegne av Andersen anført at han
-ikke kan dømmes for medvirkning til Kristiansens voldtekter og at han i stedet skal dømmes
-for egen utuktig handling overfor Stine Sofie
-Sørstrønen, som da ikke innebærer samleie.
-Etter rettens vurdering har tiltalte Andersen medvirket til voldtekt av de to jentene.
-Etter hans egen forklaring kom Kristiansens
-initiativ overfor de to fornærmede på stien helt
-overraskende på ham. Han fulgte imidlertid
-med da disse ble ledet frem mot åstedet. Etter
-rettens vurdering ble det senest ved jentenes
-ankomst til åstedet klart for Andersen at de
-skulle misbrukes seksuelt da de med kniv ble
-truet til å kle av seg. Da de to jentene forstod
-hva som skulle skje, spurte de ifølge Andersen
-Kristiansen om de senere ville kunne få barn.
-På dette tidspunkt var det like åpenbart for
-Andersen, som det var for de fornærmede, at
-disse skulle misbrukes seksuelt.
-Andersen har forklart at han satte seg med
-ryggen til da Stine Sofie Sørstrønen ble voldtatt. Han overhørte videre at hun hadde vondt
-da voldtekten fant sted. Etter rettens vurdering
-er det ikke tvilsomt at han ved sin tilstedeværelse, og ved ikke å gripe inn, indirekte var med
-på å styrke Kristiansen i hans forsett på å utføre
-voldtekt av fornærmede, noe Andersen forstod. Ved at Andersen satt på steinen har han
-reelt sett fungert som vakt over den andre fornærmede, Lena Sløgedal Paulsen, samtidig
-som han også ville observert om andre tilfeldigvis skulle komme til stedet. Det at Lena Sløgedal Paulsen ikke forsøkte å rømme mens
-Kristiansen voldtok Stine Sofie Sørstrønen, kan
-være med på å underbygge dette.
-Det som likevel er avgjørende for rettens
-vurdering av medvirkningsspørsmålet er det
-196 Kristiansand byretts dom 1. juni 2001 (TKISA-2001-374) s.
 
-6–14.
+«Tiltalen bygger på at voldtektene av de to fornærmede ble utført av Viggo Kristiansen og at Andersen har medvirket til disse. Advokat Fegran har på vegne av Andersen anført at han ikke kan dømmes for medvirkning til Kristiansens voldtekter og at han i stedet skal dømmes for egen utuktig handling overfor Stine Sofie Sørstrønen, som da ikke innebærer samleie.
 
-[Side 259]
+Etter rettens vurdering har tiltalte Andersen medvirket til voldtekt av de to jentene. Etter hans egen forklaring kom Kristiansens initiativ overfor de to fornærmede på stien helt overraskende på ham. Han fulgte imidlertid med da disse ble ledet frem mot åstedet. Etter rettens vurdering ble det senest ved jentenes ankomst til åstedet klart for Andersen at de skulle misbrukes seksuelt da de med kniv ble truet til å kle av seg. Da de to jentene forstod hva som skulle skje, spurte de ifølge Andersen Kristiansen om de senere ville kunne få barn. På dette tidspunkt var det like åpenbart for Andersen, som det var for de fornærmede, at disse skulle misbrukes seksuelt.
 
-NOU 2026: 3
+Andersen har forklart at han satte seg med ryggen til da Stine Sofie Sørstrønen ble voldtatt. Han overhørte videre at hun hadde vondt da voldtekten fant sted. Etter rettens vurdering er det ikke tvilsomt at han ved sin tilstedeværelse, og ved ikke å gripe inn, indirekte var med på å styrke Kristiansen i hans forsett på å utføre voldtekt av fornærmede, noe Andersen forstod. Ved at Andersen satt på steinen har han reelt sett fungert som vakt over den andre fornærmede, Lena Sløgedal Paulsen, samtidig som han også ville observert om andre tilfeldigvis skulle komme til stedet. Det at Lena Sløgedal Paulsen ikke forsøkte å rømme mens Kristiansen voldtok Stine Sofie Sørstrønen, kan være med på å underbygge dette.
 
-Straffeforfølgelsen av Viggo Kristiansen
+Det som likevel er avgjørende for rettens vurdering av medvirkningsspørsmålet er det forhold at Kristiansen, etter å ha voldtatt Stine Sofie Sørstrønen, ville at tiltalte Andersen også skulle forgripe seg på henne. Andersen har forklart at Kristiansen på det tidspunkt truet ham med kniv til å foreta overgrep overfor Stine Sofie Sørstrønen. Opplysninger om denne angivelige volden fra Kristiansens side kom først frem 1½ måned etter at Andersen var pågrepet og etter at det forelå biologiske spor som bekreftet at også Andersen hadde forgrepet seg på en av jentene. Retten finner det usannsynlig at det på dette tidspunkt ble utøvd alvorlig, livstruende vold fra Kristiansens side overfor Andersen. Andersen kunne etter rettens vurdering på dette tidspunkt løpt fra stedet uten å sette seg selv i fare. Da tiltalte Andersen derfor forgrep seg på Stine Sofie Sørstrønen skjedde dette fra hans side frivillig. Det er videre på det rene at Kristiansen etter dette på ny forgrep seg på Stine Sofie Sørstrønen, og at han fortsatte voldtekten av henne. På dette tidspunkt hadde således også Andersen forgrepet seg på henne, og retten finner det åpenbart at Andersen derfor medvirket til Kristiansens videre voldtekt av fornærmede ved at han styrket Kristiansen i hans forsett senest fra dette tidspunkt. Dette medvirkningsansvaret omfatter også det senere overgrepet overfor Lena Sløgedal Paulsen, slik at Andersen skal dømmes for medvirkning til begge de voldtektene Kristiansen utførte, jf tiltalens post II litra a) og b).
 
-forhold at Kristiansen, etter å ha voldtatt Stine
-Sofie Sørstrønen, ville at tiltalte Andersen også
-skulle forgripe seg på henne. Andersen har forklart at Kristiansen på det tidspunkt truet ham
-med kniv til å foreta overgrep overfor Stine
-Sofie Sørstrønen. Opplysninger om denne
-angivelige volden fra Kristiansens side kom
-først frem 1½ måned etter at Andersen var
-pågrepet og etter at det forelå biologiske spor
-som bekreftet at også Andersen hadde forgrepet seg på en av jentene. Retten finner det
-usannsynlig at det på dette tidspunkt ble utøvd
-alvorlig, livstruende vold fra Kristiansens side
-overfor Andersen. Andersen kunne etter rettens vurdering på dette tidspunkt løpt fra stedet
-uten å sette seg selv i fare. Da tiltalte Andersen
-derfor forgrep seg på Stine Sofie Sørstrønen
-skjedde dette fra hans side frivillig. Det er
-videre på det rene at Kristiansen etter dette på
-ny forgrep seg på Stine Sofie Sørstrønen, og at
-han fortsatte voldtekten av henne. På dette
-tidspunkt hadde således også Andersen forgrepet seg på henne, og retten finner det åpenbart
-at Andersen derfor medvirket til Kristiansens
-videre voldtekt av fornærmede ved at han styrket Kristiansen i hans forsett senest fra dette
-tidspunkt. Dette medvirkningsansvaret omfatter også det senere overgrepet overfor Lena
-Sløgedal Paulsen, slik at Andersen skal dømmes for medvirkning til begge de voldtektene
-Kristiansen utførte, jf tiltalens post II litra a) og
-b).
-Hvorvidt Andersen selv hadde samleie med
-fornærmede Stine Sofie Sørstrønen eller om
-han bare berørte hennes kjønnsorgan og endetarmsåpning med sin penis slik han selv har
-forklart, er etter rettens vurdering vanskelig å
-ta stilling til. Det er ifølge rettsmedisinerne
-ikke noe i veien for at Andersen forklarer seg
-riktig til tross for de DNA sporene som er funnet. Ut fra prinsippet om at enhver rimelig tvil
-skal komme tiltalte til gode, legger derfor retten Andersens egen forklaring om hva som
-skjedde til grunn. Det er likevel på det rene at
-Andersen i det minste medvirket både objektivt
-og subjektivt til Kristiansens voldtekt av de to
-fornærmede. Han blir derfor å dømme i overensstemmelse med tiltalebeslutningen på disse
-to punkter.
-Det er videre på det rene at de to fornærmede på tiden da ugjerningene fant sted var
-under 14 år. Stine Sofie Sørstrønen var nettopp
-fylt 8 år og Lena Sløgedal Paulsen 10 år. De to
-tiltalte blir derfor også å dømme i overensstemmelse med tiltalebeslutningens post III.
+Hvorvidt Andersen selv hadde samleie med fornærmede Stine Sofie Sørstrønen eller om han bare berørte hennes kjønnsorgan og endetarmsåpning med sin penis slik han selv har forklart, er etter rettens vurdering vanskelig å ta stilling til. Det er ifølge rettsmedisinerne ikke noe i veien for at Andersen forklarer seg riktig til tross for de DNA sporene som er funnet. Ut fra prinsippet om at enhver rimelig tvil skal komme tiltalte til gode, legger derfor retten Andersens egen forklaring om hva som skjedde til grunn. Det er likevel på det rene at Andersen i det minste medvirket både objektivt og subjektivt til Kristiansens voldtekt av de to fornærmede. Han blir derfor å dømme i overensstemmelse med tiltalebeslutningen på disse to punkter.
 
-257
+Det er videre på det rene at de to fornærmede på tiden da ugjerningene fant sted var under 14 år. Stine Sofie Sørstrønen var nettopp fylt 8 år og Lena Sløgedal Paulsen 10 år. De to tiltalte blir derfor også å dømme i overensstemmelse med tiltalebeslutningens post III.
 
-Kapittel 6
+Når det gjelder drapet på Lena Sløgedal Paulsen, har Andersen forklart at dette kom overraskende på ham. Han har som ovenfor redegjort for, opplyst at han reagerte umiddelbart da han ble klar over at Kristiansen tildelte Lena Sløgedal Paulsen stikk med kniven i halsen og i magen. Forutsetningen for at Andersen skal kunne dømmes for medvirkning til dette drapet er at det også fra hans side foreligger forsett med hensyn til drapet. Ut fra prinsippet om at enhver rimelig tvil skal komme den tiltalte til gode kan retten ikke se bort ifra den mulighet at Andersen på dette punkt har forklart seg riktig. Selv om Kristiansens trussel med kniv noe tidligere innebar at Andersen burde forstå at denne også ville kunne bli brukt, var det i situasjonen ikke noe som tilsa at han vurderte dette som overveiende sannsynlig. Fra aktors side er det vist til at man under enhver omstendighet må kunne konstatere at det foreligger forsett etter den såkalte ‘positive innvilgelsesteori’. På bakgrunn av Andersens reaksjon da han ble klar over hva som fant sted, hvoretter han umiddelbart sprang bort til Kristiansen og dyttet ham overende og spurte om hva han holdt på med, finner retten ikke at en slik form for forsett kan konstateres. Snarere tvert imot legger retten til grunn at Andersens reaksjon viser det motsatte. Aktor har ved vurdering av medvirkningsansvaret vist til flere dommer, bl.a. avgjørelser inntatt i Rt-1995-355 og Rt-1995-1228. Den første gjelder medvirkning til drap utført under et ran og den andre medvirkning til drap under en flykapring. Når medvirkeren i de to avgjørelsene ble dømt, fremgår det av begge avgjørelser at Høyesterett vektla at medvirkeren ikke på noen måte forsøkte å hindre det som skjedde eller på annen måte ta avstand fra dette. I nærværende sak skal det bemerkes at Andersen umiddelbart reagerte slik han selv har forklart og tok avstand fra det som hadde skjedd ved å puffe Kristiansen bort fra Lena Sløgedal Paulsen. Å dømme Andersen for medvirkning til dette drapet blir derfor etter rettens vurdering å strekke medvirkningsansvaret for langt og tiltalte Andersen blir derfor å frifinne for dette drapet som Kristiansen utførte.
 
-Når det gjelder drapet på Lena Sløgedal
-Paulsen, har Andersen forklart at dette kom
-overraskende på ham. Han har som ovenfor
-redegjort for, opplyst at han reagerte umiddelbart da han ble klar over at Kristiansen tildelte
-Lena Sløgedal Paulsen stikk med kniven i halsen og i magen. Forutsetningen for at Andersen skal kunne dømmes for medvirkning til
-dette drapet er at det også fra hans side foreligger forsett med hensyn til drapet. Ut fra prinsippet om at enhver rimelig tvil skal komme
-den tiltalte til gode kan retten ikke se bort ifra
-den mulighet at Andersen på dette punkt har
-forklart seg riktig. Selv om Kristiansens trussel
-med kniv noe tidligere innebar at Andersen
-burde forstå at denne også ville kunne bli
-brukt, var det i situasjonen ikke noe som tilsa
-at han vurderte dette som overveiende sannsynlig. Fra aktors side er det vist til at man
-under enhver omstendighet må kunne konstatere at det foreligger forsett etter den såkalte
-‘positive innvilgelsesteori’. På bakgrunn av
-Andersens reaksjon da han ble klar over hva
-som fant sted, hvoretter han umiddelbart
-sprang bort til Kristiansen og dyttet ham overende og spurte om hva han holdt på med, finner retten ikke at en slik form for forsett kan
-konstateres. Snarere tvert imot legger retten til
-grunn at Andersens reaksjon viser det motsatte. Aktor har ved vurdering av medvirkningsansvaret vist til flere dommer, bl.a.
-avgjørelser inntatt i Rt-1995-355 og Rt-19951228. Den første gjelder medvirkning til drap
-utført under et ran og den andre medvirkning
-til drap under en flykapring. Når medvirkeren i
-de to avgjørelsene ble dømt, fremgår det av
-begge avgjørelser at Høyesterett vektla at medvirkeren ikke på noen måte forsøkte å hindre
-det som skjedde eller på annen måte ta avstand
-fra dette. I nærværende sak skal det bemerkes
-at Andersen umiddelbart reagerte slik han selv
-har forklart og tok avstand fra det som hadde
-skjedd ved å puffe Kristiansen bort fra Lena
-Sløgedal Paulsen. Å dømme Andersen for medvirkning til dette drapet blir derfor etter rettens
-vurdering å strekke medvirkningsansvaret for
-langt og tiltalte Andersen blir derfor å frifinne
-for dette drapet som Kristiansen utførte.
-Etter det første drapet har Andersen, som
-ovenfor beskrevet, fremholdt at det kom til et
-oppgjør mellom ham og Kristiansen. Dette ført
-[sic] til at Kristiansen til slutt truet Andersen
-med at han ville drepe både Andersen og Stine
-Sofie Sørstrønen med mindre Andersen selv
-drepte Sørstrønen. Andersen har forklart at
+Etter det første drapet har Andersen, som ovenfor beskrevet, fremholdt at det kom til et oppgjør mellom ham og Kristiansen. Dette ført \[sic\] til at Kristiansen til slutt truet Andersen med at han ville drepe både Andersen og Stine Sofie Sørstrønen med mindre Andersen selv drepte Sørstrønen. Andersen har forklart at han godtok å drepe henne og at han fikk overlevert kniven for å gjennomføre drapet. Han har forklart at han på dette tidspunkt overveide hva han skulle gjøre, om han skulle forsøke å berge sitt eget liv eller om han skulle gjøre som Kristiansen sa. For retten fremstår det som klart at Andersen på dette tidspunkt hadde muligheten til både å løpe fra stedet og kaste kniven, slik at det i praksis ville bli umulig for Kristiansen å finne denne igjen i den tette vegetasjonen som fantes like i nærheten. Eventuelt kunne han selv overmannet Kristiansen for på denne måten å stoppe ham i hans forsett på å ta livet av Stine Sofie Sørstrønen. Etter overveielse valgte imidlertid Andersen å gjennomføre drapet, slik som ovenfor beskrevet.
 
-[Side 260]
+Ut fra Andersens egen forklaring er det på det rene at han gjennomførte drapet med forsett. Tiltalen omfatter også det forhold at drapet skal ha blitt gjennomført med overlegg og med det formål å unndra seg straffen for voldtekten av fornærmede. Retten finner det ikke tvilsomt at da Andersen gjennomførte drapet på Stine Sofie Sørstrønen, var dette med det formål at han ville unndra seg straffen for voldtekten som like før hadde funnet sted. Retten legger videre til grunn at tiltalte hadde muligheten til å veie for og imot med hensyn til spørsmålet om han skulle gjennomføre drapet slik Kristiansen krevde. Han har videre forklart at han overveide dette. Han har på den annen side forklart at han hadde problemer med å tenke rolig og at tankene for gjennom hodet.
 
-258
+Etter rettens vurdering er det ikke grunnlag for å legge noe annet enn Andersens forklaring til grunn med hensyn til hva han tenkte på i denne situasjonen. Det forutgående drapet på Lena Sløgedal Paulsen og det etterfølgende oppgjøret med Kristiansen har etter all sannsynlighet skapt sterk sinnsbevegelse hos Andersen. Selv om han i en slik sinnsstemning har vurdert de ulike alternativ han hadde og etter overveielse valgte å utføre drapet, så er det ikke denne form for overlegg strl. § 233, 2. ledd tar sikte på å ramme. Som fremholdt av professor Andenæs i ‘Alminnelig strafferett’, (4. utgave side 223), kreves det at man har tid og anledning til ‘rolig overveielse’. Andersen hadde i beste fall et par minutter til rådighet i en sterk opphisset stemning, og selv om han ‘veide for og imot’ som han selv har forklart, finner retten ikke at dette bør bedømmes som ‘overlagt drap’ i lovens forstand. Drapet skjedde imidlertid i den hensikt å unndra seg straff for en forbrytelse, jf ovenfor. Det ble videre utført på en forsvarsløs 8 år gammel pike, og det foreligger derfor særdeles skjerpende omstendigheter, jf strl. § 233, 2. ledd, siste punktum. Tiltalte Andersen blir derfor å dømme i samsvar med tiltalens post I b), dog slik at drapet ikke skjedde med overlegg fra hans side.
 
-Kapittel 6
+For Andersens vedkommende blir han således å bedømme som hovedmann når det gjelder dette drapet, mens Kristiansen straffes som medvirker, idet hans medvirkning var både forsettlig og overlagt. Kristiansen blir således å dømme i overensstemmelse med tiltalebeslutningens post I litra b.»[^1030]
 
-NOU 2026: 3
+### Kort om de øvrige forholdene i tiltalen
 
-Straffeforfølgelsen av Viggo Kristiansen
+Tiltalte Viggo Kristiansen ble også domfelt for de seksuelle overgrepene mot de to fornærmede i henhold til tiltalebeslutningens post IV, V og VI. Disse overgrepene skulle ha skjedd i perioden 1994–1996, da Kristiansen var 15–17 år gammel. Retten fant at «såvel de subjektive som objektive vilkår er til stede». Dette måtte gjelde selv om forholdet i post IV ikke var erkjent av Kristiansen.
 
-han godtok å drepe henne og at han fikk overlevert kniven for å gjennomføre drapet. Han
-har forklart at han på dette tidspunkt overveide
-hva han skulle gjøre, om han skulle forsøke å
-berge sitt eget liv eller om han skulle gjøre som
-Kristiansen sa. For retten fremstår det som
-klart at Andersen på dette tidspunkt hadde
-muligheten til både å løpe fra stedet og kaste
-kniven, slik at det i praksis ville bli umulig for
-Kristiansen å finne denne igjen i den tette vegetasjonen som fantes like i nærheten. Eventuelt
-kunne han selv overmannet Kristiansen for på
-denne måten å stoppe ham i hans forsett på å ta
-livet av Stine Sofie Sørstrønen. Etter overveielse valgte imidlertid Andersen å gjennomføre
-drapet, slik som ovenfor beskrevet.
-Ut fra Andersens egen forklaring er det på
-det rene at han gjennomførte drapet med forsett. Tiltalen omfatter også det forhold at drapet skal ha blitt gjennomført med overlegg og
-med det formål å unndra seg straffen for voldtekten av fornærmede. Retten finner det ikke
-tvilsomt at da Andersen gjennomførte drapet
-på Stine Sofie Sørstrønen, var dette med det
-formål at han ville unndra seg straffen for voldtekten som like før hadde funnet sted. Retten
-legger videre til grunn at tiltalte hadde muligheten til å veie for og imot med hensyn til
-spørsmålet om han skulle gjennomføre drapet
-slik Kristiansen krevde. Han har videre forklart
-at han overveide dette. Han har på den annen
-side forklart at han hadde problemer med å
-tenke rolig og at tankene for gjennom hodet.
-Etter rettens vurdering er det ikke grunnlag for å legge noe annet enn Andersens forklaring til grunn med hensyn til hva han tenkte på
-i denne situasjonen. Det forutgående drapet på
-Lena Sløgedal Paulsen og det etterfølgende
-oppgjøret med Kristiansen har etter all sannsynlighet skapt sterk sinnsbevegelse hos
-Andersen. Selv om han i en slik sinnsstemning
-har vurdert de ulike alternativ han hadde og
-etter overveielse valgte å utføre drapet, så er
-det ikke denne form for overlegg strl. § 233, 2.
-ledd tar sikte på å ramme. Som fremholdt av
-professor Andenæs i ‘Alminnelig strafferett’,
-(4. utgave side 223), kreves det at man har tid
-og anledning til ‘rolig overveielse’. Andersen
-hadde i beste fall et par minutter til rådighet i
-en sterk opphisset stemning, og selv om han
-‘veide for og imot’ som han selv har forklart,
-finner retten ikke at dette bør bedømmes som
-‘overlagt drap’ i lovens forstand. Drapet
-skjedde imidlertid i den hensikt å unndra seg
-straff for en forbrytelse, jf ovenfor. Det ble
+Retten fant det også bevist utover enhver rimelig tvil at Kristiansen i en periode fra mai 1998 til januar 1999 opptrådte plagsomt og skremmende overfor en nabo og krenket hennes fred slik det fremgikk av tiltalebeslutningens post VII, jf. straffeloven 1902 § 390 a. Retten viste til at Kristiansen hadde erkjent straffskyld for forholdet.
 
-videre utført på en forsvarsløs 8 år gammel
-pike, og det foreligger derfor særdeles skjerpende omstendigheter, jf strl. § 233, 2. ledd,
-siste punktum. Tiltalte Andersen blir derfor å
-dømme i samsvar med tiltalens post I b), dog
-slik at drapet ikke skjedde med overlegg fra
-hans side.
-For Andersens vedkommende blir han således å bedømme som hovedmann når det gjelder dette drapet, mens Kristiansen straffes
-som medvirker, idet hans medvirkning var
-både forsettlig og overlagt. Kristiansen blir
-således å dømme i overensstemmelse med tiltalebeslutningens post I litra b.»197
+### Straffutmålingen
 
-6.9.4 Kort om de øvrige forholdene i tiltalen
-Tiltalte Viggo Kristiansen ble også domfelt for de
-seksuelle overgrepene mot de to fornærmede i
-henhold til tiltalebeslutningens post IV, V og VI.
-Disse overgrepene skulle ha skjedd i perioden
-1994–1996, da Kristiansen var 15–17 år gammel.
-Retten fant at «såvel de subjektive som objektive
-vilkår er til stede». Dette måtte gjelde selv om forholdet i post IV ikke var erkjent av Kristiansen.
-Retten fant det også bevist utover enhver rimelig tvil at Kristiansen i en periode fra mai 1998 til
-januar 1999 opptrådte plagsomt og skremmende
-overfor en nabo og krenket hennes fred slik det
-fremgikk av tiltalebeslutningens post VII, jf. straffeloven 1902 § 390 a. Retten viste til at Kristiansen
-hadde erkjent straffskyld for forholdet.
-6.9.5 Straffutmålingen
-Kristiansand byrett konkluderte med at Viggo
-Kristiansen skulle idømmes lovens strengeste
-straff – 21 års fengsel. Jan Helge Andersen ble på
-sin side idømt 17 års fengsel. Om straffutmålingen
-heter det i dommen:
-«Ved straffeutmålingen legger retten til grunn
-at voldtekten av de to fornærmede og de etterfølgende drapene på disse, jf tiltalens post I –
-III, representerer kriminalitet som uten tvil
-kvalifiserer for lovens strengeste straff. Det er
-ikke mulig å forestille seg den frykt og de lidelser de to fornærmede gjennomgikk før disse til
-slutt døde. Det fremstår for retten som åpenbart at situasjonen hvor de tiltalte voldtok Stine
-Sofie Sørstrønen, mens Lena Sløgedal Paulsen
-satt ved siden av med et tøyplagg foran øynene,
-har vært ekstremt belastende. På tilsvarende
-197 TKISA-2001-374 s. 14–18.
+Kristiansand byrett konkluderte med at Viggo Kristiansen skulle idømmes lovens strengeste straff – 21 års fengsel. Jan Helge Andersen ble på sin side idømt 17 års fengsel. Om straffutmålingen heter det i dommen:
 
-[Side 261]
+«Ved straffeutmålingen legger retten til grunn at voldtekten av de to fornærmede og de etterfølgende drapene på disse, jf tiltalens post I – III, representerer kriminalitet som uten tvil kvalifiserer for lovens strengeste straff. Det er ikke mulig å forestille seg den frykt og de lidelser de to fornærmede gjennomgikk før disse til slutt døde. Det fremstår for retten som åpenbart at situasjonen hvor de tiltalte voldtok Stine Sofie Sørstrønen, mens Lena Sløgedal Paulsen satt ved siden av med et tøyplagg foran øynene, har vært ekstremt belastende. På tilsvarende måte satt Stine Sofie Sørstrønen etterpå og overhørte først voldtekten av Lena Sløgedal Paulsen og senere drapet på henne, før de to tiltalte hadde et oppgjør seg imellom om hvem som skulle ta livet av henne. Selv om voldtekt og drap i seg selv er svært alvorlige handlinger, representerer det som her skjedde så hjerteløse og råe handlinger at drapene klart må anses å være begått under særdeles skjerpende omstendigheter.
 
-NOU 2026: 3
+Umiddelbart etter at drapene var gjennomført har de tiltalte videre opptrådt målbevisst og nærmest upåvirket av det som hadde skjedd. De har tatt seg tid til å skjule sporene på åstedet, og da de kort tid etterpå møttes på trappa utenfor boligen til Kristiansen, kontaktet de venner etter all sannsynlighet for å sikre seg alibi. I dagene og tiden som fulgte har de videre i påfallende liten grad latt seg prege av det som hadde skjedd. Når man derfor vurderer både handlingene i Baneheia, samt de tiltaltes opptreden i tiden etterpå, bekrefter dette rettens inntrykk av at de tiltalte i liten grad synes å ha tatt inn over seg alvoret i de handlinger de nå dømmes for.
 
-Straffeforfølgelsen av Viggo Kristiansen
+Tiltalte Kristiansen skal videre dømmes for overgrep mot to andre barn. Disse overgrepene er i seg selv svært alvorlige. Det er ikke dokumentert at de fornærmede har fått varige skader som følge av handlingene. Ut fra det som er fremkommet i retten er det likevel klart at overgrepene i ikke ubetydelig grad har preget oppveksten for de to fornærmede i den tiden disse varte. Faren for at overgrepene skal føre til betydelige problemer senere i livet er videre klart til stede.
 
-måte satt Stine Sofie Sørstrønen etterpå og
-overhørte først voldtekten av Lena Sløgedal
-Paulsen og senere drapet på henne, før de to tiltalte hadde et oppgjør seg imellom om hvem
-som skulle ta livet av henne. Selv om voldtekt
-og drap i seg selv er svært alvorlige handlinger,
-representerer det som her skjedde så hjerteløse og råe handlinger at drapene klart må
-anses å være begått under særdeles skjerpende omstendigheter.
-Umiddelbart etter at drapene var gjennomført har de tiltalte videre opptrådt målbevisst
-og nærmest upåvirket av det som hadde
-skjedd. De har tatt seg tid til å skjule sporene
-på åstedet, og da de kort tid etterpå møttes på
-trappa utenfor boligen til Kristiansen, kontaktet de venner etter all sannsynlighet for å sikre
-seg alibi. I dagene og tiden som fulgte har de
-videre i påfallende liten grad latt seg prege av
-det som hadde skjedd. Når man derfor vurderer både handlingene i Baneheia, samt de tiltaltes opptreden i tiden etterpå, bekrefter dette
-rettens inntrykk av at de tiltalte i liten grad
-synes å ha tatt inn over seg alvoret i de
-handlinger de nå dømmes for.
-Tiltalte Kristiansen skal videre dømmes for
-overgrep mot to andre barn. Disse overgrepene er i seg selv svært alvorlige. Det er ikke
-dokumentert at de fornærmede har fått varige
-skader som følge av handlingene. Ut fra det
-som er fremkommet i retten er det likevel klart
-at overgrepene i ikke ubetydelig grad har preget oppveksten for de to fornærmede i den
-tiden disse varte. Faren for at overgrepene skal
-føre til betydelige problemer senere i livet er
-videre klart til stede.
-Når det gjelder forholdet i tiltalens post VII,
-er dette noe som isolert sett kan virke relativt
-uskyldig. Det er likevel på det rene at tiltalte
-Kristiansens oppførsel var såvidt ekstrem og
-målrettet at fornærmede fikk store problemer
-på grunn av dette. Forholdet illustrerer videre
-godt den hensynsløse atferd som synes å ha
-preget tiltalte Kristiansens oppførsel over lang
-tid.
-I formildende retning nevner retten at Kristiansen har erkjent overgrepene i tiltalens post
-V, noe som erfaringsmessig er av stor betydning for en fornærmet i en slik situasjon.
-Videre bemerker retten at tiltalte var ung da
-overgrepene i tiltalens post IV til VI foregikk.
-Under saken er det kommet frem at Kristiansen selv i en årrekke ble utsatt for mobbing
-under oppveksten. Han hadde store atferdsproblemer fra tidlig barndom, noe som i sterk grad
+Når det gjelder forholdet i tiltalens post VII, er dette noe som isolert sett kan virke relativt uskyldig. Det er likevel på det rene at tiltalte Kristiansens oppførsel var såvidt ekstrem og målrettet at fornærmede fikk store problemer på grunn av dette. Forholdet illustrerer videre godt den hensynsløse atferd som synes å ha preget tiltalte Kristiansens oppførsel over lang tid.
 
-259
+I formildende retning nevner retten at Kristiansen har erkjent overgrepene i tiltalens post V, noe som erfaringsmessig er av stor betydning for en fornærmet i en slik situasjon. Videre bemerker retten at tiltalte var ung da overgrepene i tiltalens post IV til VI foregikk.
 
-Kapittel 6
+Under saken er det kommet frem at Kristiansen selv i en årrekke ble utsatt for mobbing under oppveksten. Han hadde store atferdsproblemer fra tidlig barndom, noe som i sterk grad har preget hans oppvekst. Først i ungdomsskolealder fikk han effektiv hjelp i sammenheng med at han fikk diagnosen ADHD. Han avsluttet imidlertid skolegangen et par år før forholdene i Baneheia fant sted og fungerte svært bra ifølge det opplyste etter at han kom ut i arbeidslivet. I hvilken grad hans vanskelige oppvekst likevel har preget hans personlighet er det i dag ikke mulig å si noe om, men slike individuelle hensyn vil likevel i en sak av denne karakter få helt underordnet betydning.
 
-har preget hans oppvekst. Først i ungdomsskolealder fikk han effektiv hjelp i sammenheng
-med at han fikk diagnosen ADHD. Han avsluttet imidlertid skolegangen et par år før forholdene i Baneheia fant sted og fungerte svært bra
-ifølge det opplyste etter at han kom ut i arbeidslivet. I hvilken grad hans vanskelige oppvekst
-likevel har preget hans personlighet er det i
-dag ikke mulig å si noe om, men slike individuelle hensyn vil likevel i en sak av denne karakter få helt underordnet betydning.
-Ut fra en samlet vurdering av forholdet finner retten at straffen bør utmåles til lovens
-strengeste straff, 21 års fengsel for Kristiansen.
-Når det gjelder straffeutmålingen for tiltalte
-Andersen, skal han dømmes for medvirkning
-til voldtekt på to mindreårige jenter, jf tiltalens
-post II og III. Videre skal han dømmes på drapet på Stine Sofie Sørstrønen, jf tiltalens post I
-litra b).
-Andersen har i sine forklaringer for politiet,
-og også for retten fremholdt at Kristiansen tok
-initiativet til ugjerningene uten at de to hadde
-snakket om dette på forhånd. Han har videre
-fremholdt at Kristiansen truet ham til å gjennomføre utuktig omgang med Stine Sofie Sørstrønen slik som ovenfor beskrevet, dog uten
-at han selv hadde samleie med henne. Han har
-videre forklart at han foretok drapet etter først
-selv å ha vært truet på livet om han ikke gjennomførte dette. I og med at Kristiansen ikke
-har villet erkjenne noen befatning med forholdet, har retten ikke mottatt opplysninger som
-verken kan bekrefte eller avkrefte den fremstilling Andersen her har gitt. Ut fra prinsippet om
-at enhver rimelig tvil skal komme tiltalte til
-gode, må retten derfor legge Andersens forklaring til grunn ved straffeutmålingen overfor
-ham.
-Andersens forsvarer har vedrørende straffeutmålingen vist til det prinsipp som kommer
-til uttrykk i strl. § 56 nr. 1 litra b), hvoretter
-straffen kan nedsettes når handlingen er begått
-‘under tvang eller overhengende fare’. Videre
-er det vist til strl. § 58, hvor det heter at hvor
-flere har samvirket om en straffbar handling,
-kan straffen settes ned for en medvirker som
-har handlet ut fra sin ‘afhængige Stilling’. Han
-har også vist til strl. § 59, 2. ledd som trådte i
-kraft i mars 2001, hvoretter det ved straffeutmålingen kan tillegges vekt at en skyldig har
-avgitt tilståelse i saken, noe som er en lovfesting av et kjent straffeutmålingsmoment.
-Retten legger til grunn at når det gjelder
-den subjektive skyld for Andersens vedkom-
+Ut fra en samlet vurdering av forholdet finner retten at straffen bør utmåles til lovens strengeste straff, 21 års fengsel for Kristiansen.
 
-[Side 262]
+Når det gjelder straffeutmålingen for tiltalte Andersen, skal han dømmes for medvirkning til voldtekt på to mindreårige jenter, jf tiltalens post II og III. Videre skal han dømmes på drapet på Stine Sofie Sørstrønen, jf tiltalens post I litra b).
 
-260
+Andersen har i sine forklaringer for politiet, og også for retten fremholdt at Kristiansen tok initiativet til ugjerningene uten at de to hadde snakket om dette på forhånd. Han har videre fremholdt at Kristiansen truet ham til å gjennomføre utuktig omgang med Stine Sofie Sørstrønen slik som ovenfor beskrevet, dog uten at han selv hadde samleie med henne. Han har videre forklart at han foretok drapet etter først selv å ha vært truet på livet om han ikke gjennomførte dette. I og med at Kristiansen ikke har villet erkjenne noen befatning med forholdet, har retten ikke mottatt opplysninger som verken kan bekrefte eller avkrefte den fremstilling Andersen her har gitt. Ut fra prinsippet om at enhver rimelig tvil skal komme tiltalte til gode, må retten derfor legge Andersens forklaring til grunn ved straffeutmålingen overfor ham.
 
-Kapittel 6
+Andersens forsvarer har vedrørende straffeutmålingen vist til det prinsipp som kommer til uttrykk i strl. § 56 nr. 1 litra b), hvoretter straffen kan nedsettes når handlingen er begått ‘under tvang eller overhengende fare’. Videre er det vist til strl. § 58, hvor det heter at hvor flere har samvirket om en straffbar handling, kan straffen settes ned for en medvirker som har handlet ut fra sin ‘afhængige Stilling’. Han har også vist til strl. § 59, 2. ledd som trådte i kraft i mars 2001, hvoretter det ved straffeutmålingen kan tillegges vekt at en skyldig har avgitt tilståelse i saken, noe som er en lovfesting av et kjent straffeutmålingsmoment.
 
-NOU 2026: 3
+Retten legger til grunn at når det gjelder den subjektive skyld for Andersens vedkommende, er denne av en noe annen karakter enn for Kristiansen. Ut fra forholdet mellom de to tiltalte er det rimelig å anta at Kristiansen har vært initiativtaker og hovedmann. Når Andersen likevel har valgt å bøye av for press og har gjennomført de ugjerninger han skal straffes for, kan det etter rettens vurdering være rimelig å ta et visst hensyn til dette. Det bør videre vektlegges at Andersen har avgitt en tilståelse i saken, noe som i vesentlig grad har bidradd til å oppklare denne og også nærmere få brakt på det rene hva som skjedde.
 
-Straffeforfølgelsen av Viggo Kristiansen
+Ut fra disse hensyn finner retten at straffen passende kan utmåles til fengsel i 17 år for hans vedkommende.»[^1031]
 
-mende, er denne av en noe annen karakter enn
-for Kristiansen. Ut fra forholdet mellom de to
-tiltalte er det rimelig å anta at Kristiansen har
-vært initiativtaker og hovedmann. Når Andersen likevel har valgt å bøye av for press og har
-gjennomført de ugjerninger han skal straffes
-for, kan det etter rettens vurdering være rimelig å ta et visst hensyn til dette. Det bør videre
-vektlegges at Andersen har avgitt en tilståelse i
-saken, noe som i vesentlig grad har bidradd til
-å oppklare denne og også nærmere få brakt på
-det rene hva som skjedde.
-Ut fra disse hensyn finner retten at straffen
-passende kan utmåles til fengsel i 17 år for hans
-vedkommende.»198
+### Sikring
 
-6.9.6 Sikring
-Aktor hadde lagt ned påstand om at begge de tiltalte skulle ilegges sikring, jf. straffeloven 1902
-§ 39 nr. 1 a til f.199 Kristiansand byrett konkluderte med at det kun var grunnlag for å benytte
-sikringsmidler mot Kristiansen. Byretten begrunnet reaksjonsfastsettelsen som følger:
-«Fra aktors side er det nedlagt påstand om at
-påtalemyndigheten skal bemyndiges til å
-benytte sikringsmidler overfor begge de tiltalte nevnt i strl. § 39 nr. 1 a–f for et tidsrom av
-inntil 10 år.
-Retten har oppnevnt professor dr.med. Kjell
-Noreik og professor dr.med. Jofrid Alice
-Nygaard som rettspsykiatrisk sakkyndige
-overfor Viggo Kristiansen. De har avgitt erklæring med slik konklusjon:
-‘1. Vi anser ikke Viggo Kristiansen som sinnssyk og vi antar ikke at han var sinnssyk,
-bevisstløs eller led av forbigående sterk
-nedsettelse av bevisstheten på tidspunktene for de påklagde handlinger.
-2. Vi anser han som en person med mangelfullt utviklede sjelsevner. Denne konklusjon vil bli betydelig forsterket om han blir
-funnet skyldig etter hovedtrekkene i tiltalen.
-3. Vi anser ham ikke som en person med varig
-svekkede sjelsevner.’
-De sakkyndige har fulgt deler av hovedforhandlingen og har også avgitt forklaring for ret198
-199
+Aktor hadde lagt ned påstand om at begge de tiltalte skulle ilegges sikring, jf. straffeloven 1902 § 39 nr. 1 a til f.[^1032] Kristiansand byrett konkluderte med at det kun var grunnlag for å benytte sikringsmidler mot Kristiansen. Byretten begrunnet reaksjonsfastsettelsen som følger:
 
-TKISA-2001-374 s. 20–23.
-Sikring var en strafferettslig særreaksjon som kunne idømmes ved fare for gjentakelse av alvorlige straffbare
-handlinger. Ordningen ble opphevet 1. januar 2002 og for
-tilregnelige lovbrytere erstattet med forvaring. Viggo Kristiansen ble idømt forvaring av Agder lagmannsrett i 2002.
+«Fra aktors side er det nedlagt påstand om at påtalemyndigheten skal bemyndiges til å benytte sikringsmidler overfor begge de tiltalte nevnt i strl. § 39 nr. 1 a–f for et tidsrom av inntil 10 år.
 
-ten. De har begge fastholdt sin konklusjon
-hvoretter Kristiansen blir vurdert som en person med mangelfullt utviklede sjelsevner. De
-sakkyndige har vurdert Kristiansen til å ha et
-markert personlighetsavvik. De har vist til at
-han har hatt store sosiale tilpasningsproblemer, og at han har en aggressivitet i forhold til
-andre som skaper store problemer. Han har
-videre en umoden seksualitet.
-Den rettsmedisinske kommisjon har ikke
-hatt bemerkninger til de kliniske opplysningene i erklæringen og til konklusjonen.
-Retten legger de sakkyndiges vurdering av
-Kristiansen til grunn for avgjørelsen og at han
-således har mangelfullt utviklede sjelsevner,
-noe som er et vilkår for å idømme sikring, jf
-strl. § 39.
-Videre er det et vilkår for sikring at det også
-foreligger kvalifisert gjentakelsesfare for nye
-straffbare forhold ved en senere løslatelse etter
-soning av fengselsstraff. Retten legger til
-grunn at Kristiansens asosiale atferd og hans
-evnenivå, samt umodenhet og aggresjon ikke
-er forhold som vil endres i nevneverdig grad,
-selv etter et langt fengselsopphold. Det vil etter
-rettens vurdering foreligge kvalifisert fare for
-nye straffbare handlinger av tilsvarende karakter som det han nå dømmes for, selv etter
-soning av en lang fengselsstraff.
+Retten har oppnevnt professor dr.med. Kjell Noreik og professor dr.med. Jofrid Alice Nygaard som rettspsykiatrisk sakkyndige overfor Viggo Kristiansen. De har avgitt erklæring med slik konklusjon:
+
+‘1. Vi anser ikke Viggo Kristiansen som sinnssyk og vi antar ikke at han var sinnssyk, bevisstløs eller led av forbigående sterk nedsettelse av bevisstheten på tidspunktene for de påklagde handlinger.
+
+2\. Vi anser han som en person med mangelfullt utviklede sjelsevner. Denne konklusjon vil bli betydelig forsterket om han blir funnet skyldig etter hovedtrekkene i tiltalen.
+
+3\. Vi anser ham ikke som en person med varig svekkede sjelsevner.’
+
+De sakkyndige har fulgt deler av hovedforhandlingen og har også avgitt forklaring for retten. De har begge fastholdt sin konklusjon hvoretter Kristiansen blir vurdert som en person med mangelfullt utviklede sjelsevner. De sakkyndige har vurdert Kristiansen til å ha et markert personlighetsavvik. De har vist til at han har hatt store sosiale tilpasningsproblemer, og at han har en aggressivitet i forhold til andre som skaper store problemer. Han har videre en umoden seksualitet.
+
+Den rettsmedisinske kommisjon har ikke hatt bemerkninger til de kliniske opplysningene i erklæringen og til konklusjonen.
+
+Retten legger de sakkyndiges vurdering av Kristiansen til grunn for avgjørelsen og at han således har mangelfullt utviklede sjelsevner, noe som er et vilkår for å idømme sikring, jf strl. § 39.
+
+Videre er det et vilkår for sikring at det også foreligger kvalifisert gjentakelsesfare for nye straffbare forhold ved en senere løslatelse etter soning av fengselsstraff. Retten legger til grunn at Kristiansens asosiale atferd og hans evnenivå, samt umodenhet og aggresjon ikke er forhold som vil endres i nevneverdig grad, selv etter et langt fengselsopphold. Det vil etter rettens vurdering foreligge kvalifisert fare for nye straffbare handlinger av tilsvarende karakter som det han nå dømmes for, selv etter soning av en lang fengselsstraff.
+
 På denne bakgrunn finner retten at påtalemyndighetens påstand om sikringsbemyndigelse bør tas til følge, og at sikringsbemyndigelsen også bør omfatte samtlige sikringsmidler slik som begjært.
-Sikringspåstanden blir etter dette å ta til
-følge og tidsrammen settes til 10 år som
-begjært.
-Retten har videre oppnevnt overlege Olaf
-Bakke, spesialist i psykiatri, samt lege Tor
-Gamman, spesialist i psykiatri, til å vurdere Jan
-Helge Andersen. Disse har i en felles erklæring
-konkludert som følger:
-‘1. Observanden var ikke sinnssyk på tiden for
-de påklagde handlinger. Han har ikke vært
-sinnssyk i observasjonstiden.
-2. Observanden led ikke av bevisstløshet eller
-forbigående sterk nedsettelse av bevisstheten på tiden for de påklagde handlinger.
-3. Sakkyndige Bakke: Observanden lider ikke
-av mangelfullt utviklede sjelsevner.
-4. Sakkyndig Gamman: Observanden lider av
-mangelfullt utviklede sjelsevner.
-Observanden lider ikke av varig svekkede
-sjelsevner.’
 
-[Side 263]
+Sikringspåstanden blir etter dette å ta til følge og tidsrammen settes til 10 år som begjært.
 
-NOU 2026: 3
+Retten har videre oppnevnt overlege Olaf Bakke, spesialist i psykiatri, samt lege Tor Gamman, spesialist i psykiatri, til å vurdere Jan Helge Andersen. Disse har i en felles erklæring konkludert som følger:
 
-Straffeforfølgelsen av Viggo Kristiansen
+‘1. Observanden var ikke sinnssyk på tiden for de påklagde handlinger. Han har ikke vært sinnssyk i observasjonstiden.
 
-De sakkyndige har således konkludert
-ulikt med hensyn til spørsmålet om hvorvidt
-Andersen har ‘mangelfullt utviklede sjelsevner’. Dette har ført til at overlege Bakke har
-avgitt en tilleggserklæring hvor han fastholder
-sin tidligere vurdering.
-Den rettsmedisinske kommisjon som har
-fått oversendt både den felles erklæringen og
-tilleggserklæringen fra overlege Bakke, kommenterte først den felles erklæringen fra
-Bakke og Gamman. Det heter her i kommisjonens uttalelse:
-‘Den rettsmedisinske kommisjons psykiatriske gruppe innser at det er vanskelig å vurdere personlighetsforstyrrelse hos en så ung
-man [sic] som observanden. Vi er imidlertid
-tilbøyelige til å støtte den sakkyndige Gammans vurdering, så observanden har vist
-såpass utpregede umodne trekk og adferdsproblemer i oppveksten.’
-I anledning tilleggserklæringen fra den
-sakkyndige Bakke har den rettsmedisinske
-kommisjonen uttalt:
-‘Vi kan ikke se at tilleggserklæringen inneholder opplysninger som gir grunnlag for at
-kommisjonen endrer standpunkt. Som vi
-anførte i vårt brev av 9.2.01, finner vi den
-sakkyndige Gammans konklusjon vedrørende
-observandens sjelsevner den mest sannsynlige.’
-Retten legger til grunn at også Andersen i
-lovens forstand har mangelfullt utviklede
-sjelsevner, men at dette ligger i det nedre sjikt
-for hva som kvalifiserer for en slik betegnelse.
-Når det gjelder gjentakelsesfaren for hans vedkommende, er det ikke sannsynliggjort at han
-har den tilsvarende umodenheten som preger
-Kristiansen. Det har vært anført at Andersen
-vil kunne gjenta tilsvarende handlinger dersom
-han kommer under innflytelse av tilsvarende
-personer som Kristiansen. Retten finner dette å
-være en noe søkt problemstilling. Hensett til at
-han idømmes en lang fengselsstraff, finner retten ikke å kunne konstatere at det foreligger
-slik kvalifisert gjentakelsesfare når han en
-gang løslates at det bør idømmes sikring.
-Begjæring om sikringsbemyndigelse for
-Andersens vedkommende tas derfor ikke til
-følge.»200
+2\. Observanden led ikke av bevisstløshet eller forbigående sterk nedsettelse av bevisstheten på tiden for de påklagde handlinger.
 
-200 TKISA-2001-374 s. 23–25.
+3\. Sakkyndige Bakke: Observanden lider ikke av mangelfullt utviklede sjelsevner.
 
-261
+4\. Sakkyndig Gamman: Observanden lider av mangelfullt utviklede sjelsevner.
 
-Kapittel 6
+Observanden lider ikke av varig svekkede sjelsevner.’
 
-6.9.7 Erstatningskravene
-Retten tilkjente 200 000 kroner i oppreisningserstatning for hver av de etterlatte foreldrene i henhold til tiltalen post I–III. Retten viste til at «saken
-har vært særlig gruoppvekkende med betydelige
-konsekvenser for de etterlatte selv, både når det
-gjelder sosial fungering, psykisk helse og arbeidsevne». Byretten fant det «ikke tvilsomt at det oppreisningsbeløp som fastsettes i nærværende sak
-bør ligge i det øvre sjikt som kan fastsettes under
-hensyntagen til den norm Høyesterett gir anvisning på».201 En av foreldrene fikk videre tilkjent
-erstatning for direkte utlegg i anledning saken
-med 55 238 kroner. En annen fikk tilkjent erstatning for tapt arbeidsfortjeneste med 288 000 kroner.
-Ansvaret for å betale erstatning og oppreisning
-til foreldrene til Sørstrønen ble pålagt de tiltalte
-som solidaransvar. Ansvaret for betaling av oppreisning til Sløgedal Paulsens foreldre ble derimot
-pålagt Kristiansen alene, ettersom Andersen
-hadde blitt frifunnet for drapet på henne. At beviskravene for straffekravet og erstatningskravet er
-forskjellige, endret ikke rettens synspunkt.
-For de to fornærmede etter post IV til VI fastsatte retten oppreisningsbeløpet til henholdsvis
-100 000 og 50 000 kroner.
-6.9.8 Domsslutningen
+De sakkyndige har således konkludert ulikt med hensyn til spørsmålet om hvorvidt Andersen har ‘mangelfullt utviklede sjelsevner’. Dette har ført til at overlege Bakke har avgitt en tilleggserklæring hvor han fastholder sin tidligere vurdering.
+
+Den rettsmedisinske kommisjon som har fått oversendt både den felles erklæringen og tilleggserklæringen fra overlege Bakke, kommenterte først den felles erklæringen fra Bakke og Gamman. Det heter her i kommisjonens uttalelse:
+
+‘Den rettsmedisinske kommisjons psykiatriske gruppe innser at det er vanskelig å vurdere personlighetsforstyrrelse hos en så ung man \[sic\] som observanden. Vi er imidlertid tilbøyelige til å støtte den sakkyndige Gammans vurdering, så observanden har vist såpass utpregede umodne trekk og adferdsproblemer i oppveksten.’
+
+I anledning tilleggserklæringen fra den sakkyndige Bakke har den rettsmedisinske kommisjonen uttalt:
+
+‘Vi kan ikke se at tilleggserklæringen inneholder opplysninger som gir grunnlag for at kommisjonen endrer standpunkt. Som vi anførte i vårt brev av 9.2.01, finner vi den sakkyndige Gammans konklusjon vedrørende observandens sjelsevner den mest sannsynlige.’
+
+Retten legger til grunn at også Andersen i lovens forstand har mangelfullt utviklede sjelsevner, men at dette ligger i det nedre sjikt for hva som kvalifiserer for en slik betegnelse. Når det gjelder gjentakelsesfaren for hans vedkommende, er det ikke sannsynliggjort at han har den tilsvarende umodenheten som preger Kristiansen. Det har vært anført at Andersen vil kunne gjenta tilsvarende handlinger dersom han kommer under innflytelse av tilsvarende personer som Kristiansen. Retten finner dette å være en noe søkt problemstilling. Hensett til at han idømmes en lang fengselsstraff, finner retten ikke å kunne konstatere at det foreligger slik kvalifisert gjentakelsesfare når han en gang løslates at det bør idømmes sikring. Begjæring om sikringsbemyndigelse for Andersens vedkommende tas derfor ikke til følge.»[^1033]
+
+### Erstatningskravene
+
+Retten tilkjente 200 000 kroner i oppreisningserstatning for hver av de etterlatte foreldrene i henhold til tiltalen post I–III. Retten viste til at «saken har vært særlig gruoppvekkende med betydelige konsekvenser for de etterlatte selv, både når det gjelder sosial fungering, psykisk helse og arbeidsevne». Byretten fant det «ikke tvilsomt at det oppreisningsbeløp som fastsettes i nærværende sak bør ligge i det øvre sjikt som kan fastsettes under hensyntagen til den norm Høyesterett gir anvisning på».[^1034] En av foreldrene fikk videre tilkjent erstatning for direkte utlegg i anledning saken med 55 238 kroner. En annen fikk tilkjent erstatning for tapt arbeidsfortjeneste med 288 000 kroner.
+
+Ansvaret for å betale erstatning og oppreisning til foreldrene til Sørstrønen ble pålagt de tiltalte som solidaransvar. Ansvaret for betaling av oppreisning til Sløgedal Paulsens foreldre ble derimot pålagt Kristiansen alene, ettersom Andersen hadde blitt frifunnet for drapet på henne. At beviskravene for straffekravet og erstatningskravet er forskjellige, endret ikke rettens synspunkt.
+
+For de to fornærmede etter post IV til VI fastsatte retten oppreisningsbeløpet til henholdsvis 100 000 og 50 000 kroner.
+
+### Domsslutningen
+
 Domsslutningen lød slik:
-«1. Viggo Kristiansen, f. 24.05.1979, dømmes
-for 2 forbrytelser mot strl. § 233, 1. og 2.
-ledd, 2 forbrytelser mot strl. § 192 første
-ledd, 2. straffalternativ jf § 213, 2 forbrytelser mot strl. § 195 1. ledd, 2. straffalternativ
-jf. § 213, 1 forbrytelse mot strl. § 195,
-1. ledd, 2. straffalternativ og 2. ledd jf. § 213,
-1 forbrytelse mot straffeloven § 195 første
-ledd, 1. straffalternativ og annet ledd, 1 forbrytelse mot strl. § 192, 1. ledd, 1. straffalternativ og 1 forseelse mot strl. § 390 a, alt
-sammenholdt med strl. § 62 1. ledd til en
-straff av fengsel i 21 – tjueen år – med fradrag for utholdt varetekt med til sammen
-261 – tohundreogsekstien – dager.
-2. Påtalemyndigheten bemyndiges for et tidsrom av inntil 10 – ti – år å benytte sikringsmidler nevnt i strl. § 39 nr. 1 a–f overfor
-Viggo Kristiansen.
-201 TKISA-2001-374 s. 27.
 
-[Side 264]
+«1. Viggo Kristiansen, f. 24.05.1979, dømmes for 2 forbrytelser mot strl. § 233, 1. og 2. ledd, 2 forbrytelser mot strl. § 192 første ledd, 2. straffalternativ jf § 213, 2 forbrytelser mot strl. § 195 1. ledd, 2. straffalternativ jf. § 213, 1 forbrytelse mot strl. § 195, 1. ledd, 2. straffalternativ og 2. ledd jf. § 213, 1 forbrytelse mot straffeloven § 195 første ledd, 1. straffalternativ og annet ledd, 1 forbrytelse mot strl. § 192, 1. ledd, 1. straffalternativ og 1 forseelse mot strl. § 390 a, alt sammenholdt med strl. § 62 1. ledd til en straff av fengsel i 21 – tjueen år – med fradrag for utholdt varetekt med til sammen 261 – tohundreogsekstien – dager.
 
-262
+2\. Påtalemyndigheten bemyndiges for et tidsrom av inntil 10 – ti – år å benytte sikringsmidler nevnt i strl. § 39 nr. 1 a–f overfor Viggo Kristiansen.
 
-Kapittel 6
+3\. Jan Helge Andersen, f. 17.01.1981, frifinnes for 1 forbrytelse mot strl. § 233, 1. og 2. ledd.
 
-NOU 2026: 3
+4\. Jan Helge Andersen dømmes for 1 forbrytelse mot strl. § 233, 1. og 2. ledd, 2 forbrytelser mot strl. § 192 1. ledd, 2. straffalternativ jf § 213, og 2 forbrytelser mot strl. § 195 1. ledd, 2. straffalternativ jf § 213, alt sammenholdt med strl. § 62 1. ledd til en straff av fengsel i 17 – sytten – år med fradrag for utholdt varetekt med tilsammen 261 – tohundreogsekstien – dager.
 
-Straffeforfølgelsen av Viggo Kristiansen
+5\. Sikringsbemyndigelse gis ikke overfor Jan Helge Andersen.
 
-3. Jan Helge Andersen, f. 17.01.1981, frifinnes
-for 1 forbrytelse mot strl. § 233, 1. og 2.
-ledd.
-4. Jan Helge Andersen dømmes for 1 forbrytelse mot strl. § 233, 1. og 2. ledd, 2 forbrytelser mot strl. § 192 1. ledd, 2. straffalternativ jf § 213, og 2 forbrytelser mot strl. § 195
-1. ledd, 2. straffalternativ jf § 213, alt sammenholdt med strl. § 62 1. ledd til en straff
-av fengsel i 17 – sytten – år med fradrag for
-utholdt varetekt med tilsammen 261 –
-tohundreogsekstien – dager.
-5. Sikringsbemyndigelse gis ikke overfor Jan
-Helge Andersen.
-6. Viggo Kristiansen dømmes til å betale oppreisning til Klara Sløgedal med kr 200.000,-,
-– kronertohundretusen 00/100–.
-7. Viggo Kristiansen dømmes til å betale oppreisning til Arne Bernt Paulsen med kr
-200.000,-, – kronertohundretusen 00/100–.
-8. Viggo Kristiansen og Jan Helge Andersen
-dømmes til å betale oppreisning til Ada
-Sofie Austegard med kr 200.000,-, – kroner-
+6\. Viggo Kristiansen dømmes til å betale oppreisning til Klara Sløgedal med kr 200.000,-, – kronertohundretusen 00/100–.
 
-tohundretusen 00/100 –, samt erstatning
-med kr 55.238,-, – kronerfemtifemtusentohundreogtrettiåtte 00/100 –.
-9. Viggo Kristiansen og Jan Helge Andersen
-dømmes til å betale oppreisning til Jostein
-Sørstrønen med kr 200.000,-, – kronertohundretusen 00/100 –, og erstatning for
-tapt arbeidsinntekt med kr 288.000,-, – kronertohundreogåttiåttetusen 00/100 –.
-10. Viggo Kristiansen dømmes til å betale oppreisning til [fornærmede under post V og
-VI] med kr 100.000,- – kroneretthundretusen 00/100 –.
-11. Viggo Kristiansen dømmes til å betale oppreisning til [fornærmede under post IV] med
-kr 50.000,-, – kronerfemtitusen 00/100 –.
-12. Oppfyllelsesfristen for beløpene i post 6 til
-11 er 2 – to – uker fra dommens forkynnelse.
-13. Saksomkostningsansvar idømmes ikke.»202
-202 TKISA-2001-374 s. 28–30.
+7\. Viggo Kristiansen dømmes til å betale oppreisning til Arne Bernt Paulsen med kr 200.000,-, – kronertohundretusen 00/100–.
 
-[Side 265]
+8\. Viggo Kristiansen og Jan Helge Andersen dømmes til å betale oppreisning til Ada Sofie Austegard med kr 200.000,-, – kronertohundretusen 00/100 –, samt erstatning med kr 55.238,-, – kronerfemtifemtusentohundreogtrettiåtte 00/100 –.
 
-NOU 2026: 3
+9\. Viggo Kristiansen og Jan Helge Andersen dømmes til å betale oppreisning til Jostein Sørstrønen med kr 200.000,-, – kronertohundretusen 00/100 –, og erstatning for tapt arbeidsinntekt med kr 288.000,-, – kronertohundreogåttiåttetusen 00/100 –.
 
-Straffeforfølgelsen av Viggo Kristiansen
+10\. Viggo Kristiansen dømmes til å betale oppreisning til \[fornærmede under post V og VI\] med kr 100.000,- – kroneretthundretusen 00/100 –.
 
-263
+11\. Viggo Kristiansen dømmes til å betale oppreisning til \[fornærmede under post IV\] med kr 50.000,-, – kronerfemtitusen 00/100 –.
 
-Kapittel 7
+12\. Oppfyllelsesfristen for beløpene i post 6 til 11 er 2 – to – uker fra dommens forkynnelse.
 
-Kapittel 7
+13\. Saksomkostningsansvar idømmes ikke.»[^1035]
 
-Vurdering av hovedforhandlingen i Kristiansand byrett
-7.1
+# Vurdering av hovedforhandlingen i Kristiansand byrett
 
-Innledning
+## Innledning
 
-Utvalget vil i det følgende vurdere enkelte sider
-ved straffesaksbehandlingen i byretten. I punkt
-7.2 knyttes enkelte kommentarer til påtalemyndighetens opptreden i rettssaken. Forsvarernes
-arbeid vurderes i punkt 7.3. I punkt 7.4 vil utvalget
-gi en vurdering av Kristiansand byretts dom 1.
-juni 2001, hvor Viggo Kristiansen ble domfelt.
-
-7.2
-
-Vurdering av påtalemyndighetens
-opptreden
-
-7.2.1 Innledning og rettslige rammer
-Utvalget vil i det følgende gi en vurdering av påtalemyndighetens opptreden i byretten. Utvalgets
-merknader er knyttet til aktors prosedyre, som er
-ment å være en nærmere begrunnelse for påtalemyndighetens syn på skyld- og straffespørsmålet
-basert på det som har kommet frem under bevisførselen i retten.
-Påtalemyndigheten har en objektivitetsplikt på
-alle stadier av saken, også under hovedforhandlingen og prosedyren.1 En annen sak er at rollefordelingen mellom aktor og forsvarer under forhandlingene kan lede til at påtalemyndighetens
-årvåkenhet i praksis blir noe mindre enn på etterforskningsstadiet og ved avgjørelsen av tiltalespørsmålet.2 Det er imidlertid ikke tvilsomt at
-påtalemyndigheten i siste instans skal bidra til å
-sikre en materielt riktig dom, og at aktor derfor
-må gripe inn i tiltaltes favør dersom det skulle
-være behov for det. Forholdene under hovedforhandlingen kan endre seg, og påtalemyndigheten
-1
-
-Påtalemyndighetens objektivitetsplikt er i dag regulert i
-straffeprosessloven § 55 andre ledd. Bestemmelsen var tidligere plassert i § 55 a fjerde ledd, som ble tilføyd ved lov
-21. juni 2013 nr. 86. Bestemmelsen var en kodifisering av
-den generelle objektivitetsplikten som allerede fulgte av
-god påtaleskikk, og som straffeprosessloven hadde spredte
-utslag av i andre bestemmelser, jf. Prop. 147 L (2012–2013)
-s. 174–175. At aktors objektivitetsplikt også gjelder under
-hovedforhandlingen, er forutsatt i forarbeidene til straffeprosessloven, jf. NUT 1969:3 s. 105.
-
-må utvise åpenhet om forhold til gunst for tiltalte
-under hele straffesaksbehandlingen.3 Påtalemyndigheten har en bevisføringsplikt, og objektivitetsplikten krever bevisførsel både til skade og til
-gunst for tiltalte.4
-Et selvsagt utslag av objektivitetsplikten er at
-aktor ikke legger skjul på det han eller hun mener
-er formildende omstendigheter eller svakheter
-ved sentrale bevis.5 Straffekravet kan dessuten
-ikke opprettholdes dersom aktor finner at det ikke
-er bevismessig grunnlag for det, for eksempel ved
-tvil om bevisene holder til domfellelse.6 Påtalemyndigheten plikter selvsagt også å følge straffeprosessloven, herunder § 305 om at det «[v]ed
-avgjørelsen av hva som anses bevist, tas bare i
-betraktning de bevis som er ført under hovedforhandlingen». Objektivitetsplikten er samtidig ikke
-til hinder for et aktivt og engasjert aktorat dersom
-bevissituasjonen og aktors overbevisning gir
-grunnlag for det. Det er naturligvis heller ikke i
-strid med objektivitetsplikten at aktor kommer
-2
-
-3
-4
-5
-
-6
-
-Det har vært diskutert om objektivitetsplikten kan relativiseres, slik at den står mindre sterkt under hovedforhandlingen og prosedyren. Se Andenæs (1987) s. 68, NOU 2007: 7
-punkt 6.2.1 s. 150, Aaen (2022) s. 206–210 og Kjelby (2023)
-s. 335–339. Den vanligste oppfatningen i dag synes å være
-at det ikke er grunnlag for å hevde at objektivitetsplikten er
-mindre vidtgående under hovedforhandlingen, selv om rettens og forsvarerens roller innebærer at kravene som stilles til aktor, i praksis blir noe mindre. Som Aaen (2022)
-fremhever (s. 207), kan objektivitetsplikten vanskelig relativiseres «uten å komme i konflikt med hensynet til sannhetsmålsettingen og ansvaret for å forhindre uriktige domfellelser».
-Aaen (2022) s. 207.
-Kjelby (2023) s. 336.
-Aaen (2022) s. 210. Se også Andenæs (1987) s. 68: «Er
-aktor på enkelte punkter i tvil om beviset er tilstrekkelig,
-bør han ikke legge skjul på det.»
-Se straffeprosessloven § 304 første ledd tredje punktum,
-som angir at møtende aktor har plikt til å frafalle tiltalen
-eller nedlegge påstand om frifinnelse dersom aktor finner
-det «klart» at bevisene ikke vil holde til domfellelse. Regelen ble tilføyd ved lov 10. desember 2010 nr. 76. Forarbeidene fremhever at den klare hovedregelen må være at
-aktor også plikter å påstå frifinnelse dersom aktor er i tvil
-om bevisene holder for domfellelse, jf. Prop. 141 L (2009–
-2010) s. 139.
-
-[Side 266]
-
-264
-
-Kapittel 7
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-med skyldkonstateringer på dette stadiet av
-saken.7
-
-7.2.2 Utvalgets vurdering
-Aktor i Baneheia-saken argumenterte i prosedyren for at Jan Helge Andersen snakket sant om
-Viggo Kristiansens deltakelse i ugjerningene, og
-om at Kristiansen hadde vært initiativtaker og
-hovedmann. Samtidig argumenterte aktor for at
-Andersen i vesentlig grad underspilte sin egen
-rolle i handlingene, og at han burde dømmes for
-overlagt drap på Stine Sofie Sørstrønen og medvirkning til overlagt drap på Lena Sløgedal Paulsen. Det vises til redegjørelsen for prosedyrens
-innhold i punkt 6.4. Utvalget er ikke kjent med
-hvorvidt riksadvokaten, som tok ut tiltalen, ga
-instrukser eller råd om den nærmere gjennomføringen av aktoratet.
-Utvalget har merket seg at aktor gjentatte ganger i prosedyren uttrykte sterk skepsis til deler av
-Andersens forklaring. Han fremholdt at Andersen
-hadde forklart seg usant om flere sentrale forhold,
-og hevdet at Andersen hadde opptrådt både
-beregnende og taktisk. Retten ble av denne grunn
-oppfordret til å vokte seg mot å bli lurt.8 I lys av
-den betydelige skepsis som ble uttrykt fra aktors
-side til flere deler av Andersens forklaring, er det
-vanskelig å forstå at aktor ikke så noen grunn til å
-trekke i tvil den delen av forklaringen som gjaldt
-Kristiansens rolle. At Andersen snakket usant om
-egen rolle, samtidig som han fortalte den fulle
-sannheten om Kristiansens rolle, var isolert sett
-vanskelig å forene.
-Når det gjelder Kristiansens delaktighet i de
-straffbare handlingene, argumenterte aktor for at
-tekniske bevis støttet opp under Andersens forklaring. Sentralt i denne sammenheng var påtalemyndighetens uriktige oppfatning om at DNAbevisene sikkert beviste to gjerningsmenn, jf.
-punkt 6.4.2, men også andre forhold ble trukket
-frem. Etter utvalgets syn var deler av aktors argumentasjon i denne forbindelse lite treffende. Et
-hovedpoeng for aktor var at Andersen hadde gitt
-opplysninger til politiet som stemte med tekniske
-funn, men som ingen andre enn politiet visste om.
-Blant annet gjaldt dette opplysninger om hvordan
-Kristiansen hadde drept Sløgedal Paulsen, som
-stemte med obduksjonsfunnene, og at Sørstrønen, i tråd med Andersens forklaring om Kristiansens handlinger, ble funnet med en genser knyttet foran ansiktet. Denne type opplysninger
-
-underbygget utvilsomt at Andersen selv hadde
-vært til stede, men var i liten grad egnet til å
-belyse at det var Kristiansen – og ikke Andersen
-– som hadde utført handlingene Andersen forklarte seg om.
-Samtidig var det andre funn på åstedet som
-passet dårlig med Andersens forklaring, men som
-ikke ble tatt i betraktning på samme måte under
-aktors argumentasjon om Kristiansens tilstedeværelse. Dette gjaldt for eksempel at jentene ble funnet iført hverandres klær, til tross for Andersens
-forklaring om at de hadde kledd på seg selv og
-aldri var avkledd samtidig. Det samme gjelder det
-forhold at Sløgedal Paulsen ble funnet delvis liggende oppå Sørstrønen, til tross for Andersens
-forklaring om at Sløgedal Paulsen hadde blitt slept
-til funnstedet først av Kristiansen alene. Utvalget
-mener en slik forskjellsbehandling var uheldig.
-Uoverensstemmelsene pekte mot et annet hendelsesforløp enn det Andersen hadde forklart seg
-om, men ledet ikke til at aktor stilte spørsmål ved
-om Andersen kunne ha forklart seg uriktig om
-Kristiansens handlinger.
-Det som er sagt foran, gjelder også for håndteringen av det såkalte sykkelbeviset. Aktor tok til
-orde for at det «skråsikre» vitnet som ikke hadde
-sett sykkelen da han tøyde ut inntil bommen,
-kunne huske feil. Eventuelt kunne Andersen og
-Kristiansen ha gått tilbake til arbeidsboden med
-sykkelen før de gikk inn i Baneheia.9 Den sistnevnte teorien hadde ikke støtte i verken Andersens forklaring eller øvrige bevis og fremsto dermed som spekulasjon.
-Prosedyren inneholder flere eksempler på at
-aktor spekulerte til Kristiansens ugunst. Flere forhold som isolert sett underbygget og støttet Kristiansens forklaring, ble fremstilt som betydningsløse eller søkt forklart med alternative teorier som
-ikke hadde grunnlag i bevisføringen. Det tydeligste eksempelet er aktors håndtering av telebeviset. I tråd med bevisføringen la aktor til grunn at
-basestasjonen EG_A ikke hadde dekning på åstedet eller i nærliggende områder. Samtidig lanserte han flere teorier for hvordan mobilbruken
-likevel kunne være forenlig med at Kristiansen
-var skyldig. Samtlige av aktors teorier hadde i
-liten grad dekning i bevisføringen, og de sto i
-direkte motstrid til Andersens versjon av hendelsesforløpet.
-Det følger av straffeprosessloven § 304 første
-ledd at bevisførselen må være gjennomført før
-partene får ordet til prosedyre. Dette innebærer
-
-7
-
-9
-
-8
-
-Kjelby (2023) s. 336–337, med videre henvisninger.
-Aftenposten, «Aktor advarte mot løgner», 22. mai 2001.
-
-Stavanger Aftenblad, «Hensikten var voldtekt og drap», 22.
-mai 2001.
-
-[Side 267]
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-blant annet at det – bortsett fra vitterlige kjensgjerninger – under prosedyren ikke er adgang til
-å påberope faktiske forhold som ikke har vært
-omfattet av bevisførselen.10 I tråd med dette
-utgangspunktet mener utvalget at de alternative
-hypotesene – som ikke hadde dekning i bevisene
-som ble ført for retten – skulle vært gjenstand for
-etterforskning, bevisføring og kontradiksjon før
-de eventuelt ble benyttet som argumenter for
-Kristiansens skyld.11 En nærmere utredning av
-hypotesene ville avdekket at samtlige av dem var
-lite realistiske.12
-Det ble fra påtalemyndighetens side ikke
-utforsket om det var DNA-resultatene – og ikke
-telebeviset – som kunne ha en alternativ forklaring enn den påtalemyndigheten la til grunn. Det
-er nærliggende å anta at premisset om to gjerningsmenn ble styrende for påtalemyndighetens
-argumentasjon, inkludert forsøkene på å innplassere telebeviset i bevisbildet. Aktors argument om
-at Andersen ikke hadde noe motiv for å trekke
-Kristiansen uriktig inn i saken, er også lettere å
-forstå i en kontekst styrt av dette premisset: Der10
-
-Rt. 2005 s. 907 avsnitt 39. Se også Andenæs (1962) s. 335–
-336: «I prosedyren vil partene prøve å begrunne nærmere
-sitt syn på skyldspørsmålet etter det som er kommet fram
-under bevisførselen. Det er ikke tillatt under prosedyren å
-trekke inn nytt bevisstoff, f.eks. ved at forsvareren refererer fra samtaler med tiltalte.» Tilsvarende Salomonsen
-(1925) s. 422: «Parterne maa i sine foredrag med hensyn til
-faktum strengt holde sig til de under saken fremkomne
-bevisligheter. Bortset fra de saakaldte notoriske kjendsgjerninger, som intet bevis tiltrænger, maa de ikke anføre
-noget nyt i faktisk henseende.»
-11 En tilsvarende problemstilling oppsto i en av straffesakene
-mot Fritz Moen, se NOU 2007: 7 punkt 10.2.5.1 s. 267–268:
-Moen var tiltalt for drap på Sigrid Heggheim og ble senere
-dømt for dette. På liket var det imidlertid funnet sæd fra en
-person som med stor sannsynlighet hadde blodtype A.
-Moen hadde ikke denne blodtypen. Under prosedyren lanserte aktor en teori om at Sigrid Heggheim kunne ha hatt
-samleie med en annen person tidligere på dagen eller etter
-dødstidspunktet. Ingen av disse teoriene hadde vært gjenstand for etterforskning og bevisførsel. Utvalget som gransket straffesakene mot Moen, var kritisk til aktors opptreden og uttalte: «Utvalget har drøftet denne problemstillingen med [aktor]. Han understreket at han ikke presenterte
-teorien som nye fakta, men som hypoteser, mulige forklaringer, som burde være med i vektskålen. Utvalget deler
-ikke fullt ut dette synet. Begge de forhold som aktor tok
-opp, kunne vært gjort til gjenstand for etterforskning,
-bevisførsel og kontradiksjon. Når det gjelder teorien om frivillig samleie, var det f.eks. mulig å etterforske ytterligere
-de få personer som Sigrid hadde hatt nær kontakt med i
-Trondheim den uken hun hadde vært der. Dersom nekrofiliteorien var blitt reist i forkant av hovedforhandlingen, ville
-det også vært mulig å få utredet om en slik teori lot seg forene med obduksjonsfunnene. Hensett til dette mener utvalget at statsadvokaten skulle ha unnlatt i sin prosedyre å
-trekke inn i en alternativ forklaring på blodtypebeviset som
-ikke hadde vært gjenstand for etterforskning, bevisførsel
-og kontradiksjon.»
-12
-Se punkt 5.8.2 og punkt 7.4.4.
-
-265
-
-Kapittel 7
-
-som handlingene sikkert ble begått av to gjerningsmenn, var det i liten grad holdepunkter for at
-Andersen beskyttet en annen, ukjent gjerningsmann. Uten dette premisset faller argumentet om
-manglende motiv på sin egen urimelighet.
-Endelig har utvalget merket seg aktors utsagn
-om anvendelsen av beviskravet, slik det ble referert i Fædrelandsvennen 22. mai 2001:
-«Og selv om det er slik i norsk rettspraksis at
-tvilen skal komme tiltalte til gode, vil det ifølge
-Dahl ikke være mulig å gi begge to uttelling for
-tvil i Baneheia-saken.
-– For Andersen slår det gunstigst ut om
-man legger avgjørende vekt på hans forklaring.
-Men det er verst for Kristiansen, som blir
-hovedmannen bak det hele. Skulle man i stedet
-velge å legge vekt på Kristiansens forklaring,
-vil Andersen bli sittende med hele ansvaret
-alene, eller sammen med en ukjent tredje person, påpekte Dahl.»13
-Til dette kan det påpekes at det strafferettslige
-beviskravet gjelder fullt ut for den enkelte tiltalte.
-Samtlige tiltalte i en straffesak har krav på en
-objektiv og individuell vurdering av om straffskyld
-er bevist utover enhver rimelig tvil. Dette kan by
-på visse utfordringer i en straffesak med to tiltalte
-hvis forklaringer står mot hverandre på alle punkter, men er like fullt en rettsikkerhetsgaranti som
-aktoratet plikter å overholde. Forutsatt at aktor er
-korrekt sitert, er utsagnet egnet til å forsterke inntrykket av at Kristiansens sak ikke ble underlagt
-en tilstrekkelig objektiv og individuell vurdering
-fra påtalemyndighetens side.
-Etter utvalgets syn rokket telebeviset ved antakelsen om Kristiansens straffskyld i en slik grad
-at det burde ledet til en kritisk gjennomgang av
-den samlede beviskjeden, herunder gyldigheten
-av premisset om to gjerningsmenn. Telebeviset
-burde også ledet til en ny gjennomgang av påliteligheten av Andersens forklaring. Det dreide seg
-ikke om en hvilken som helst «løs tråd», men om
-et bevis som med høy grad av sannsynlighet plasserte Kristiansen på et annet sted enn åstedet og
-nærliggende områder i det kritiske tidsrommet.
-Slik saken lå an da bevisføringen var avsluttet,
-mener utvalget at beviskravet ikke var oppfylt for
-Kristiansens vedkommende. Dette underbygges
-av at aktor så grunn til å argumentere for mulige
-alternative hendelsesforløp i prosedyren som verken hadde støtte i bevisføringen eller fremsto som
-13
-
-Fædrelandsvennen, «–Begge to kan dømmes», 22. mai
-2001.
+Utvalget vil i det følgende vurdere enkelte sider ved straffesaksbehandlingen i byretten. I punkt 7.2 knyttes enkelte kommentarer til påtalemyndighetens opptreden i rettssaken. Forsvarernes arbeid vurderes i punkt 7.3. I punkt 7.4 vil utvalget gi en vurdering av Kristiansand byretts dom 1. juni 2001, hvor Viggo Kristiansen ble domfelt.

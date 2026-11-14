@@ -1,1224 +1,189 @@
-# NOU 2026: 3, del 49 av 50 (side 521–535)
+# NOU 2026: 3, del 49 av 56
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2026/9cee8194-nou-2026-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2026-3/id3149017/
-- Tekst: hentet fra PDF. OBS: 5 tabeller, 20 figurer, 145 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 521]
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-519
+## Oppbevaring av spormateriale for DNA og annet biologisk materiale
 
-Kapittel 14
+### Innledning
 
-Kapittel 14
+Utvalget vil i det følgende vurdere ulike sider ved oppbevaring av biologisk materiale ved analyseinstitusjonene. I punkt 13.9.2 er spørsmålet om biologisk materiale som har vært grunnlag for DNA-analyser, skal destrueres. Oppbevaring av *spormateriale for DNA* er tema i punkt 13.9.3. I punkt 13.9.4 drøftes oppbevaring av annet biologisk materiale, for eksempel vevsblokker og vevssnitt. I punkt 13.9.5 påpekes behovet for bedre oversikt og notoritet over biologisk materiale ved OUS.
 
-Spørreundersøkelse om praktiseringen av beviskravet
-i norske domstoler
-14.1 Om undersøkelsen
-I samarbeid med Advokatforeningen avholdt
-utvalget i april 2024 en spørreundersøkelse om
-gjenåpningssystemet for straffesaker og praktiseringen av beviskravet i norske domstoler. Undersøkelsen ble sendt digitalt til alle medlemmer i
-Advokatforeningen som er registrert som forsvarere. Av totalt 680 registrerte forsvarere besvarte
-177 delundersøkelsen som gjaldt beviskravet.
-Dette utgjør en svarprosent på 26.
-Undersøkelsen om praktiseringen av beviskravet ble gitt i form av konkrete spørsmål med fastsatte svaralternativer. Denne innretningen ble
-valgt for å gi mulighet for å trekke statistiske slutninger om forsvarernes syn på de ulike spørsmålene. Det ble etterstrebet å stille åpne spørsmål
-uten fastlagte premisser for svarene. Noen av
-spørsmålene ble derfor utformet slik at de kun
-rettet seg mot respondenter som hadde svart «ja»
-på et foregående spørsmål. En slik innretning ble
-blant annet valgt for spørsmålene om hvordan
-praktiseringen av beviskravet varierer mellom
-ulike sakstyper, se punkt 14.2.2. Kun respondentene som svarte «ja» på om de opplevde det slik at
-beviskravet praktiseres forskjellig mellom ulike
-saksområder, fikk nærmere spørsmål om dette.
-Ettersom spørsmålene ble gitt i form av fastsatte alternativer, var det nødvendig å operere
-med forenklede kategorier av ulike typer lovbrudd. De ulike lovbruddene ble inndelt i kategoriene «vold», «seksuallovbrudd», «økonomisk kriminalitet» og «narkotika».1 Det var klargjort at
-kategorien «økonomisk kriminalitet» også inkluderte vinningslovbrudd. For spørsmålene som
-1
+### Destruering av materiale som har vært grunnlag for DNA-analyser
 
-Dette synes å være en relativt vanlig grovinndeling av ulike
-typer lovbrudd. For eksempel ble en slik inndeling valgt for
-Juryutvalgets lekdommerundersøkelse, se NOU 2011: 1
-punkt 7.2.
+Det norske DNA-registeret består av et identitetsregister, et etterforskningsregister og et sporregister, jf. politiregisterloven § 12 første ledd. Formålet med registeret er å bidra til å oppklare kriminalitet ved å legge til rette for sammenligning av DNA-profiler til identifiseringsformål i strafferettspleien.
 
-omhandlet ulike typer lovbrudd, var det også
-mulig å krysse av for kategorien «andre sakstyper». Respondentene som krysset av på denne
-rubrikken, ble bedt om å spesifisere dette svaret
-ved fritekst.
-Hovedfunnene fra undersøkelsen presenteres
-i det følgende. Spørsmålene og svarene er i tillegg
-inntatt i sin helhet som et elektronisk vedlegg til
-utredningen. Det vises for øvrig til omtalen av
-spørreundersøkelsen i utvalgets drøftelse av
-læringspunktene i punkt 13.3.2 og 13.4.4.2.
+Behandling av biologisk materiale som har vært grunnlag for DNA-analyser, er særskilt regulert i politiregisterforskriften § 45-18 første ledd:
 
-14.2 Hovedfunn
-14.2.1 Den generelle etterlevelsen av
-beviskravet
-Et sentralt formål med undersøkelsen var å se
-nærmere på hvordan forsvarere opplever at beviskravet i praksis etterleves i norske domstoler. Det
-første spørsmålet handlet om den generelle etterlevelsen av beviskravet. Spørsmålet var i hvilken
-grad personen «generelt» opplevde at «det strafferettslige beviskravet etterleves i norske domstoler». Svarfordelingen fremgår av figur 14.1.
-Den generelle oppfatningen synes å være at
-beviskravet stort sett etterleves i relativt stor grad
-i norske domstoler, men at det samtidig finnes
-vesentlig rom for forbedring. Et stort flertall av
-respondentene svarte at beviskravet etterleves i
-enten «stor grad» (44 prosent) eller i «noen grad»
-(45 prosent). Samtidig var andelen som mente at
-beviskravet kun etterleves i «liten grad» (8 prosent), større enn andelen som mente at beviskravet etterleves i «meget stor grad» (3 prosent).
-Samlet sett mente et flertall av respondentene at
-beviskravet bare etterleves i «noen grad» eller i
-«liten grad» (totalt ca. 53 prosent).
+«Biologisk materiale som har vært analysegrunnlag for DNA-profiler skal destrueres så snart registrering av profilen har funnet sted eller formålet med undersøkelsen er oppnådd, jf. straffeprosessloven § 158 annet ledd.»
 
-[Side 522]
+Forskriftsbestemmelsen regulerer først og fremst behandlingen av biologisk materiale som er innhentet i medhold av straffeprosessloven § 158.[^2003] Lovbestemmelsen hjemler innhenting av biologisk materiale med sikte på å gjennomføre DNA-analyse i form av spytt- og celleprøver fra munnhulen, jf. femte ledd. I praksis tas prøven ved å stryke en vattpinne mot slimhinnen på innsiden av munnhulen. Det som skal destrueres etter forskriftens § 45-18 første ledd, vil altså typisk være vattpinnen med spytt og munnhuleceller.
 
-520
+Databehandleravtale 25. februar 2019 mellom Kripos og Oslo universitetssykehus (OUS) om rettsgenetiske undersøkelser i straffesaker[^2004] inneholder følgende instrukser for oppbevaring og sletting av biologisk materiale for DNA-analyse:
 
-NOU 2026: 3
+«Det biologiske materialet som har vært gjenstand for undersøkelser, skal destrueres i henhold til politiregisterforskriften § 45-18, nærmere bestemt slik:
 
-Kapittel 14
+- Biologisk materiale som har vært grunnlag for personprofiler (identitetsprofiler og etterforskningsprofiler) skal destrueres så snart registrering av profilen har funnet sted, eller formålet med undersøkelsen er oppnådd.
 
-Straffeforfølgelsen av Viggo Kristiansen
+- Biologisk materiale som har vært grunnlag for referanseprofiler, destrueres når formålet med undersøkelsen er oppnådd.
 
-0,6
+Biologisk materiale fra spor (ekstrakter) skal oppbevares ved OUS inntil oppdragsgiver eller Kripos gir beskjed om at materialet skal destrueres. Dette gjelder både for oppklarte og uoppklarte saker.»
 
-Vet ikke
+Felles for både identitetsprofiler[^2005] og etterforskningsprofiler[^2006] er at det biologiske materialet skal destrueres så snart disse profilene er registrert i DNA-registeret. For referanseprofiler[^2007] skal både analyseresultatet og det biologiske materialet tilintetgjøres når formålet med undersøkelsen er oppnådd, jf. straffeprosessloven § 158 andre ledd annet punktum.[^2008] Dette vil i praksis skje så snart personen er sjekket opp mot spor på åstedet, og det er utelukket at sporet stammer fra vedkommende, jf. Ot.prp. nr. 19 (2006–2007) s. 32.
 
-7,9
+At det biologiske materialet ikke kan oppbevares videre etter at DNA-analysen er registrert eller formålet med undersøkelsen er oppnådd, beror på et bevisst lovgivervalg. Problemstillingen ble drøftet av DNA-utvalget i NOU 2005: 19 punkt 6.8 side 55–56, som var delt i synet på spørsmålet. Et flertall på tre utvalgsmedlemmer gikk inn for at materialet kunne oppbevares videre. Departementet var imidlertid av en annen oppfatning. I Ot.prp. nr. 19 (2006–2007) punkt 5.2.2 s. 24 uttales følgende:
 
-I liten grad
+«Spørsmålet om det biologiske materialet skal oppbevares, aksentuerer avveiningen mellom personvernhensyn og effektivitetshensyn.
 
-I noen grad
+Departementet ser at oppbevaring er hensiktsmessig av praktiske og økonomiske grunner. Det er sannsynlig at den teknologiske utviklingen går såpass raskt at markørene som fastlegger identiteten kan gå fra 11 til 12 eller 13 om ikke altfor mange år. At flere land synes å bygge ut registeret med ytterligere markører, kan også tyde på at det blir vanskeligere å utnytte registrene tilstrekkelig effektivt dersom hvert land opererer med et ulikt antall markører. Utviklingen følger internasjonale standarder, som ikke kan begrenses gjennom nasjonal lovgivning. Dette betyr at verdien av et register basert på 11 markører kan bli redusert.
 
-44,6
+På den andre siden har oppbevaring av biologisk materiale klare personvernmessige implikasjoner. Det foreligger en potensiell misbruksfare, for eksempel i tilknytning til genforskning mv. Lovgiver vil i fremtiden også kunne beslutte at materialet kan anvendes til andre formål. Oppbevaring kan derfor skape usikkerhet hos de registrerte i forhold til hva opplysningene vil kunne bli brukt til i fremtiden. Det må også tas i betraktning at det kan medføre økte kostnader å oppbevare alle prøvene på en sikker måte.
 
-I stor grad
+For departementet har de personvernmessige og kostnadsmessige hensynene vært avgjørende i avveiningen. Departementet går derfor ikke inn for å oppbevare det biologiske materialet etter at profilen er registrert. \[…\] Dersom det er behov for prøver etter dette tidspunktet, må det innhentes nye.»
 
-43,5
+Utvalget finner ikke tilstrekkelig grunn til å foreslå endringer i gjeldende rett. Ved vurderingen er det sett hen til at Norge i dag – i likhet med de fleste andre land i Europa – opererer med 23 DNA-markører. Behovet for å oppgradere DNA-registeret i tråd med den teknologiske utviklingen er derfor redusert sammenlignet med tidligere. Slik utvalget ser det, bør hensynet til personvernet da tillegges avgjørende vekt.
 
-I meget stor grad
+### Oppbevaring av spormateriale for DNA
 
-3,4
-0
+Politiregisterforskriften § 45-18 andre ledd regulerer hvor lenge spormateriale for DNA-analyse kan oppbevares:
 
-5
+«Spormateriale kan oppbevares så lenge det finnes hensiktsmessig.»
 
-10
+Bestemmelsen ble endret i juni 2016 for å gjøre det klart at spormateriale fra både oppklarte og uoppklarte saker kan oppbevares i medhold av bestemmelsen.[^2009] Bestemmelsen fastsatte tidligere at «\[s\]pormateriale som antas å ha tilknytning til uoppklart straffesak kan oppbevares så lenge det finnes hensiktsmessig». Den tidligere ordlyden kunne tolkes i retning av at spormateriale i oppklarte saker alltid måtte tilintetgjøres, slik at valget av henleggelseskode (for eksempel «intet straffbart forhold») var avgjørende for om materialet skulle oppbevares eller ikke.[^2010] En adgang til å oppbevare biologisk spormateriale kan være formålstjenlig også etter at saken er avsluttet, dels som følge av en eventuell begjæring om gjenåpning (straffeprosessloven kapittel 27), dels på grunn av reglene om gjenopptakelse av forfølgningen (straffeprosessloven §§ 224 og 226, jf. § 74).
 
-15
+Regelen i politiregisterforskriften § 45-18 andre ledd sikrer at nye analyser av spormaterialet kan foretas når den teknologiske utviklingen gjør det mulig. OUS vil ikke alltid lykkes med å frembringe en fullverdig DNA-profil fra det oversendte materialet, men ofte vil det være igjen materiale som kan danne grunnlag for nye undersøkelser.
 
-20
+Betegnelsen «spormateriale» omfatter prøvemateriale som er innhentet fra for eksempel gjenstander, beslag og på personer, typisk biologisk materiale som er sikret fra et åsted eller på fornærmede.[^2011] Biologisk materiale som er innhentet etter straffeprosessloven §§ 157 og 158, er imidlertid ikke omfattet, jf. punkt 13.9.2 foran. Om skillet uttales det i NOU 2005: 19 punkt 6.8 s. 55:
 
-25
+«Utvalget er delt i synet på om det biologiske materialet kan oppbevares etter at analysen er gjennomført. I denne sammenheng forstår utvalget biologisk materiale slik at det er tale om det som er innhentet for å fastslå identiteten til den som er registrert. Spormateriale som er funnet og sikret på åsted eller offer, faller utenfor. Slikt materiale må oppbevares betryggende av politiet. Så lenge saken ikke er endelig avgjort kan materialet være sentrale bevis, og når saken er rettskraftig avgjort kan materialet få betydning ved eventuelle krav om gjenopptakelse. Utvalget mener at det ligger utenfor mandatet å gå nærmere inn på oppbevaring av slikt bevismateriale.»[^2012]
 
-30
+DNA-registeret inneholder et *sporregister*. Der kan det registreres opplysninger om personer med ukjent identitet når opplysningene antas å ha tilknytning til uoppklart straffesak (sporprofiler), jf. politiregisterloven § 12 fjerde ledd. En sporprofil er en «DNA-profil som fremkommer som resultat av analyse av prøvemateriale innhentet fra for eksempel gjenstander, beslag og på personer», jf. politiregisterforskriften § 45-2 nr. 4.[^2013] Ettersom registrene er gjensidig søkbare, kan sporprofiler sammenlignes med profiler i identitetsregisteret og etterforskningsregisteret, jf. forskriftens § 45-8.[^2014]
 
-35
+Databehandleravtalen 25. februar 2019 mellom Kripos og Oslo universitetssykehus gir i punkt 7.5 regler for oppbevaring av spormateriale:
 
-40
+«Biologisk materiale fra spor (ekstrakter) skal oppbevares ved OUS inntil oppdragsgiver eller Kripos gir beskjed om at materialet skal destrueres. Dette gjelder både for oppklarte og uoppklarte saker.»
 
-45
+Om beslag som er oversendt OUS, heter det i avtalen punkt 7.6:
 
-50
+«Beslag som er oversendt OUS i forbindelse med utførelsen av oppdrag, skal returneres til avsender når det ikke lenger foreligger oppdragsrelaterte behov. Vattpinner destrueres som hovedregel av OUS. Dersom annet beslag skal destrueres hos OUS, må dette avtales skriftlig mellom oppdragsgiver og OUS.»
 
-Figur 14.1 Svarene på undersøkelsens spørsmål 1: «Faktum som legges til grunn til siktedes ugunst i en
-straffesak, skal bevises ut over enhver rimelig tvil. I hvilken grad opplever du – generelt – at det strafferettslige
-beviskravet etterleves i norske domstoler?» Diagrammet viser prosentandelen av respondentene som krysset
-av for de ulike svaralternativene. Det var bare mulig å krysse av for ett alternativ.
+Utvalgets forståelse er at det primært er *ekstrakter fra spormateriale* som lagres hos OUS, forutsatt at det fortsatt finnes materiale etter at undersøkelsen er gjennomført. Resten av materialet returneres normalt til politiet når oppdraget er utført. Dette kan være gjenstander med rester av spormateriale på (klær, redskaper mv.).
 
-14.2.2 Variasjon i praktiseringen mellom ulike
-sakstyper
-Det andre spørsmålet i undersøkelsen handlet om
-variasjon i praktiseringen av beviskravet mellom
-ulike saksområder. Spørsmålet var om respondenten opplevde det slik at «beviskravet praktiseres
-ulikt, avhengig av sakstype». Svarfordelingen er
-inntatt i figur 14.2.
-En stor andel mente at beviskravet praktiseres
-ulikt for ulike sakstyper (79 prosent). Bare 13 prosent av respondentene svarte «nei» på dette spørsmålet.
+For å sikre en ensartet praksis anbefaler utvalget at det gis retningslinjer for videre oppbevaring av spormateriale for DNA ved sakens avslutning. Det bør i denne forbindelse tas stilling til om adgangen bør begrenses til saker med en viss strafferamme. I saker hvor noen er savnet, død eller alvorlig skadet, bør biologisk spormateriale beholdes også etter at saken er avsluttet, dersom materialet senere vil kunne ha bevismessig verdi. Utvalget antar at det bør skilles mellom ulike former for spormateriale.
 
-Vet ikke
+Nærmere regler om videre oppbevaring av spormateriale for DNA vil kunne gis i ny forskrift eller nytt rundskriv om lagring av bevis mv., se punkt 13.7.3. Dersom forslaget ikke følges opp, anbefaler utvalget at riksadvokaten utarbeider konkrete retningslinjer for når oppbevaring i oppklarte saker anses «hensiktsmessig».
 
-Respondentene som svarte «ja» på at praktiseringen av beviskravet varierer mellom sakstypene, ble bedt om å krysse av for eventuelle saksområder hvor de mente at «beviskravet i praksis
-ligger lavere enn ellers». Det var her mulig å
-krysse av for flere alternativer. Fordelingen av
-svarene fremgår av figur 14.3.
-Blant de ulike sakstypene skilte seksuallovbrudd seg ut som området hvor klart flest av
-respondentene svarte at bevisterskelen i praksis
-ligger lavere enn ellers. Blant respondentene som
-svarte «ja» på at beviskravet praktiseres ulikt,
-mente om lag 72 prosent at beviskravet i praksis
-ligger lavere enn ellers ved pådømmelsen av slike
+### Oppbevaring av annet biologisk materiale
 
-7,9
+Politiregisterforskriften § 45-18 andre ledd regulerer utelukkende oppbevaring av spormateriale for DNA-analyse. Dette kan utledes av bestemmelsens forhistorie og plassering.[^2015] For oppbevaring av *annet biologisk materiale og annet spormateriale enn DNA* reguleres spørsmålet om videre oppbevaring av politiregisterloven § 50 første ledd første og andre punktum:
 
-Nei
+«Opplysninger skal ikke lagres lenger enn det som er nødvendig for formålet med behandlingen. Opplysningene skal slettes eller sperres, med mindre de skal oppbevares i henhold til lov 4. desember 1992 nr. 126 om arkiv eller annen lovgivning.»
 
-13
+Riktignok gjelder de fleste av politiregisterlovens bestemmelser, herunder § 50, ikke for «opplysninger om gjenstand», jf. politiregisterloven § 3 femte ledd. Dersom opplysningene kan knyttes til person, og dermed ikke kun gjelder gjenstand, vil de imidlertid være å anse som personopplysninger som reguleres av § 50. Etter politiregisterloven § 2 nr. 1 er en personopplysning en «opplysning og vurdering som kan knyttes til fysisk person som kan identifiseres direkte eller indirekte».[^2016]
 
-Ja
+Forarbeidene til politiregisterloven angir at nødvendighetsvilkåret i § 50 «ikke \[skal\] tolkes så strengt at det er en absolutt forutsetning for saken at opplysningen lagres, men det kan heller ikke være tilstrekkelig at politiet finner det hensiktsmessig å oppbevare opplysningen. I utgangspunktet må det være et konkret og saklig behov for å behandle opplysningen», jf. Ot.prp. nr. 108 (2008–2009) s. 318. Om vurderingstemaet etter bestemmelsen har riksadvokaten fremhevet følgende:
 
-79,1
-0
+«Vilkåret ‘nødvendig for formålet med behandlingen’ må i straffesaker forstås i lys av reglene i straffeprosessloven, jf. politiregisterloven § 5 første ledd nr. 1, som slår fast at ‘\[i\] den enkelte straffesak kan det behandles opplysninger i samsvar med reglene i straffeprosessloven’. Dette må innebære at all behandling – herunder oppbevaring – av opplysninger som er nødvendig etter reglene i straffeprosessloven, er tillatt. I utgangspunktet tilsier dette at det er adgang til oppbevaring, ikke bare så lenge etterforskingen pågår, men også etter at saken er avsluttet, i den grad det er grunn til det i lys av reglene om gjenopptakelse av forfølgningen (§§ 224 og 226, jf. § 74) eller om gjenåpning (kapittel 27).
 
-10
+Ifølge forarbeidene innebærer nødvendighetsvilkåret et krav om at det må være et ‘konkret og saklig behov’ for å behandle opplysningen. Når en straffesak avsluttes ved dom, synes det – på samme måte som for beslag, jf. punkt 3.2 over – nærliggende å knytte nødvendighetsvurderingen til spørsmålet om det er grunn til å regne med at saken kan bli begjært gjenåpnet eller om det foreligger andre særlige grunner til videre oppbevaring. Også når en sak avsluttes ved henleggelse må det antas at videre lagring vil kunne være tilstrekkelig begrunnet, dersom det er aktuelt å etterforske saken videre på saks- eller personnivå, eller det er grunn til å anta at det kan bli spørsmål om gjenopptakelse av etterforskingen.»[^2017]
 
-20
+Etter dette er utgangspunktet at annet biologisk materiale enn for DNA-analyse ikke kan oppbevares uten at det er påvist et konkret og saklig behov for det.[^2018] Selv om kravene ikke er særlig strenge, er det en forutsetning at det er truffet en konkret beslutning av om det er grunn til å oppbevare materialet etter at saken er avsluttet. En automatisk og rutinemessig oppbevaring av denne typen materiale – uten at det er påvist et konkret og saklig behov – er neppe i tråd med loven.
 
-30
+Riksadvokaten og Oslo universitetssykehus inngikk i desember 2013 en databehandleravtale som regulerer hvordan OUS skal behandle og sikre personopplysninger knyttet til gjennomføringen av undersøkelser, analyser, uttalelser og sakkyndig bistand innen rettspatologi og klinisk rettsmedisin. Avtalen ble revidert i august 2022. Databehandleravtalen regulerer blant annet oppbevaring og destruering av biologisk materiale (typisk vevsblokker og vevssnitt) i tilknytning til rettsmedisinske obduksjoner og andre rettsmedisinske undersøkelser ved dødsfall. I databehandleravtalens punkt 3 fremheves det at «\[h\]umant biologisk materiale regnes som en personopplysning når dette er merket på en slik måte at prøvegiver kan identifiseres eller når materialet ledsages av opplysninger som kan identifisere denne».
 
-40
+Totalt gjennomføres omtrent 2300 rettsmedisinske obduksjoner hvert år i landet.[^2019] Av disse utføres mellom 55 og 60 prosent ved Avdeling for rettsmedisinske fag ved Oslo universitetssykehus (OUS). Formålet med obduksjonen er å avklare dødsårsak og fastslå dødstidspunkt. Eventuelle skader tolkes opp mot et antatt hendelsesforløp for å vurdere om de kan ha hatt betydning i dødsfallet. Under obduksjonene kan det hentes ut vevsblokker og -snitt fra den avdødes kropp. En vevsblokk lages ved at en vevsbit – for eksempel fra hjernen – tas ut, legges i fikseringsvæske og innstøpes i parafin. Fra vevsblokkene kan det skjæres tynne vevssnitt som legges på objektglass og farges.
 
-50
+Etter det utvalget har fått opplyst, oppbevarer Avdeling for rettsmedisinske fag vevsblokker og -snitt fra midten av 1920-tallet og fremover. I mai 2019 ble omfanget estimert til 90–100 hyllemeter. Materialet kan oppbevares i romtemperatur. Begrunnelsen for å ta vare på det biologiske materialet er at ny analyseteknologi benyttet på eldre materiale vil kunne gi nye svar, for eksempel om dødsårsak. Hvilke metoder som vil gi best diagnostikk i fremtiden, er uvisst. For sakene som er eldre enn 25 år, har OUS opplyst at det er den historiske og vitenskapelige verdien som veier tyngst.
 
-60
+Etter databehandleravtalen skal biologisk materiale som danner grunnlag for undersøkelser, analyser og vurderinger foretatt av OUS, i utgangspunktet vurderes på samme måte som *straffesaksdokumenter*.[^2020] Om oppbevaring, sletting og destruksjon av prøvemateriale heter det i punkt 6.2:
 
-70
+«Dokumenter som oppbevares på vegne av politi og påtalemyndigheten, skal som hovedregel oppbevares ved OUS like lenge som politiet/påtalemyndigheten selv oppbevarer straffesaksdokumenter, dvs. 25 år (jf. påtaleinstruksen § 2-2 og arkivlovgivningen). Det som er sagt over om dokumenter, gjelder tilsvarende for eventuelle personopplysninger i saken som ikke er nedfelt i et dokument og for materiale (biologisk og annet) som anses som personopplysninger. Riksadvokaten kan beslutte at oppbevaringsperioden skal være kortere eller lengre. Beslutningen skal være skriftlig, datert og undertegnet.
 
-80
+Når oppbevaringsperioden utløper, slik at OUS ikke lenger har noe oppdrag om å oppbevare dokumenter på vegne av påtalemyndigheten, skal dokumentene overleveres Arkivverket i råd med reglene for slik overlevering og den praksis politiet/påtalemyndigheten fører. Dokumenter som ikke skal overleveres Arkivverket, og som heller ikke etter avtale skal returneres politiet/påtalemyndigheten skal slettes/tilintetgjøres med mindre OUS har selvstendig grunnlag for videre oppbevaring.»
 
-90
+Det må anses klart at biologisk materiale som vevsblokker og -snitt ikke omfattes av dokumentbegrepet i straffeprosessloven § 242, jf. politiregisterforskriften § 25-1. I utgangspunktet er det naturlig å tolke dokumentbegrepet i straffeprosessloven på samme måte som det informasjons- og teknologinøytrale begrepet i forvaltningsloven og offentleglova. I offentleglova § 4 er dokument definert som «ei logisk avgrensa informasjonsmengde som er lagra på eit medium for seinare lesing, lyding, framsyning eller overføring». Både kart, fotografier, skisser, film, lydopptak, elektronisk lagret informasjon og materiale fra kommunikasjonskontroll omfattes av saksdokumentbegrepet. Til sammenligning er det unaturlig å benevne vevsblokker og vevssnitt som *dokumenter*. Reglene om oppbevaring av straffesaksdokumenter i politiregisterforskriften kapittel 25 er dermed i utgangspunktet ikke anvendelige for biologisk materiale. Dette gjelder også politiregisterforskriften § 25-3 siste ledd, som angir at dokumenter i straffesaker skal overleveres Arkivverket i henhold til reglene som er fastsatt om dette.[^2021]
 
-Figur 14.2 Svarene på undersøkelsens spørsmål 2: «Opplever du det slik at beviskravet praktiseres ulikt,
-avhengig av sakstype?» Diagrammet viser prosentandelen av respondentene som krysset av for de ulike
-svaralternativene. Det var bare mulig å krysse av for ett alternativ.
+Arkivverket klargjorde i brev til OUS 25. juni 2019 at biologisk materiale etter deres oppfatning også faller utenfor dokumentbegrepet i arkivloven og dermed utenfor deres ansvarsområde. Videre oppbevaring hos Arkivverket er derfor ikke aktuelt:
 
-[Side 523]
+«Dokumentbegrepet er teknologi- og informasjonsnøytralt, og utformet for å favne mer enn tradisjonell skrift på papir. Det er allikevel ikke uten rammer. Det er informasjonsmengden, ikke mediet, som skal være avgrenset. Et medium er et lagringsmiddel for informasjon. Når mediet er tilført informasjon blir det til et dokument.
 
-521
+Vevsprøvene som OUS ønsker å avlevere har uten tvil både rettslig og forskningsmessig verdi. Slik vi ser det oppfyller de imidlertid ikke vilkårene for å falle inn under definisjonen av dokument. Det faller dermed utenfor Arkivverkets ansvarsområde å motta vevsprøvene for bevaring og tilgjengeliggjøring som offentlig arkiv.»
 
-NOU 2026: 3
+Riksadvokaten har i brev 5. juni 2020 til Avdeling for rettsmedisinske fag ved OUS angitt at det er ønskelig at biologisk materiale fra rettsmedisinske undersøkelser oppbevares ved OUS også etter 25 år, ettersom politiet per i dag ikke har noe egnet sted for oppbevaring av biologisk materiale. Databehandleravtalen fra august 2022 gir dermed et noe misvisende bilde av nåværende praksis.
 
-Straffeforfølgelsen av Viggo Kristiansen
+Utvalget vil understreke at databehandleravtalen ikke kan tas til inntekt for at riksadvokaten og OUS er av den oppfatning at vevsblokker og -snitt o.l. omfattes av dokumentbegrepet i straffeprosessloven og politiregisterforskriften. Det som står i retningslinjene, er bare at slikt materiale skal oppbevares «like lenge» som dokumenter, og at det som er sagt om dokumenter, gjelder «tilsvarende». I praksis blir imidlertid konsekvensen av retningslinjene at oppbevaringsspørsmålet ikke vurderes etter de riktige reglene.
 
-Vet ikke
+Oppbevaring av biologisk materiale skal vurderes etter politiregisterloven § 50 første ledd første og annet punktum i den utstrekning det er tale om personopplysninger. At biologisk materiale fra obduksjoner og andre rettsmedisinske undersøkelser i utgangspunktet alltid skal beholdes hos OUS etter at saken er avsluttet – slik databehandleravtalen tilsynelatende legger opp til – oppfyller neppe kravet til konkret og saklig behov for lagring av opplysningene. Utvalget anbefaler at databehandleravtalen revideres, og at det utarbeides rutiner som er i overensstemmelse med føringene i politiregisterloven § 50. Følges forslaget om ny forskrift om lagring av bevis opp, se punkt 13.7.3, vil det kunne være aktuelt å gi nærmere regler om oppbevaring av denne typen materiale i forskriften.
 
-Kapittel 14
+### Behov for bedre oversikt og notoritet ved OUS
 
-2,2
+Utvalget vil understreke betydningen av at det sikres notoritet over spormateriale (herunder ekstrakter mv.) og annet biologisk materiale som befinner seg hos Avdeling for rettsmedisinske fag ved Oslo universitetssykehus (OUS). Utvalgets inntrykk er at OUS selv ikke alltid besitter en fullstendig oversikt over hvilket materiale som finnes i den enkelte straffesak. Dette vanskeliggjør politiets arbeid og gjør det langt mer krevende å vurdere om det skal gjøres ytterligere undersøkelser.
 
-Andre sakstyper
+I Baneheia-saken oppsto det i 2009 spørsmål om det kunne gjøres nye DNA-analyser, jf. punkt 11.3.2.5. Det ble først gitt beskjed fra Rettsmedisinsk institutt (RMI) om at det ikke fantes spormateriale i behold der, før det våren 2010 likevel ble gjenfunnet 199 DNA-ekstrakter på fryselageret, jf. punkt 11.3.2.10. RMI fant imidlertid ikke alt i 2010. Forprøvingsrørene som inneholdt originalt spormateriale, inkludert vattpinneutklipp fra flere sentrale prøver i saken, ble gjenfunnet og analysert først etter gjenåpningen i 2021, jf. punkt 11.12.3. Det er utvalgets forståelse at slikt originalmateriale ofte gir et bedre utgangspunkt for nye analyser enn gamle ekstrakter, ettersom det kan utføres ny DNA-ekstraksjon[^2022] fra sporprøven og ekstraksjonsprosedyrene er blitt forbedret siden 2000. I Baneheia-saken fikk dermed manglende oversikt og notoritet uheldige konsekvenser, ved at viktig spormateriale ikke var inkludert i materialet som ble reanalysert i Sverige i 2010 og 2018. Det vises til utvalgets vurderinger i punkt 12.3.7.4.
 
-37,8
+Utvalgets inntrykk er at tilsvarende utfordringer også kan gjøre seg gjeldende i andre saker hvor det er aktuelt å utføre nye undersøkelser. Utvalget har vært i kontakt med representanter for politi og påtalemyndighet som opplever å mangle oversikt over hvilket spormateriale som er i behold hos OUS. Noen ganger viser det seg også at det finnes mer materiale enn det OUS gir uttrykk for innledningsvis.
 
-Økonomisk kriminalitet
+De nevnte databehandleravtalene inneholder et likelydende punkt:
 
-16,3
+«OUS skal ha interne rutiner som sikrer at biologisk materiale, beslag og tilknyttede opplysninger til enhver tid er tilstrekkelig sikret, og at behandlingen er i tråd med kravene i politiregisterloven § 15 og politiregisterforskriften kapittel 40, jf. politiregisterloven § 18 annet ledd.»[^2023]
 
-Narkotika
+I databehandleravtalen fra august 2022 står i tillegg følgende:
 
-19,3
+«Opplysninger og materiale som kan knyttes til enkeltpersoner skal merkes og oppbevares slik at OUS har full sporbarhet for oppdrag for politi- og påtalemyndigheten og slik at dette ikke kan forveksles med prøver og dokumenter fra andre oppdragsgivere.»
 
-Seksuallovbrudd
+Etter utvalgets vurdering er det ønskelig at det utarbeides detaljerte rutiner og retningslinjer som ivaretar hensynene til notoritet, sporbarhet og tilgjengelighet på en bedre måte enn i dag. Et sentral formål er å sikre at politiet innen rimelig tid gis oppdaterte og korrekte opplysninger om biologisk materiale som er i behold. En mulig løsning er et digitalt system hvor både politiet og OUS har umiddelbar tilgang.
 
-71,9
+Som ledd i arbeidet anbefaler utvalget at OUS foretar en gjennomgang av samtlige oppbevaringsrom, frysere mv. En slik opprydning bør etter utvalgets syn prioriteres høyt. Utvalget har fått opplyst at et slikt opprydningsarbeid er igangsatt ved OUS, men ikke ferdigstilt. Dersom ferdigstillelse av gjennomgangen ikke kan foretas innen rimelig tid innenfor gjeldende budsjettrammer, bør det bevilges midler til dette. OUS bør i den forbindelse få komme med sine innspill til de nærmere rammene for en slik bevilgning.
 
-Vold
+## Rettspatologi i straffesaksbehandlingen
 
-25,2
+Drapene i Baneheia-saken ble begått fredag 19. mai mellom ca. kl. 19.00 og ca. kl. 20.00. De avdøde ble funnet søndag 21. mai 2000, noen få minutter etter kl. 20.00. Etter funnet ble likene liggende på åstedet frem til mandag 22. mai. Bakgrunnen for dette var behovet for sporsikring. Obduksjonene ble påbegynt tirsdag 23. mai og ferdigstilt dagen etter. Det er lite som tyder på at likene ble undersøkt av lege eller rettsmedisiner mens de befant seg på åstedet.[^2024]
 
-0
+Utvalget som gransket Liland-saken, ga i 1996 følgende anbefaling:
 
-10
+«I alle fall ved mistanke om alvorlige straffbare forhold bør liket undersøkes av en rettsmedisiner før det bringes bort fra åstedet. Dette må gjelde selv om det er lege til stede på et tidligere tidspunkt. Det vil være politiet som må sørge for at rettsmedisineren blir tilkalt. I så fall vil det være hensiktsmessig at vedkommende rettsmedisiner er til stede under den påfølgende obduksjonen.»[^2025]
 
-20
+Riksadvokatens arbeidsgruppe som vurderte etterforskning av drapssaker med ukjent gjerningsmann, kom i 2002 med en lignende anbefaling:
 
-30
+«En nærliggende årsak til at en rettsmedisiner bør tilkalles til åstedet, er mulighet for å observere de ytre omstendigheter; åstedets beskaffenhet kan gi informasjon av betydning for å fastslå dødsårsak. Står man uten rettsmedisiner til åstedet, vil politiets sikring av åsted blant annet ved videoopptak og fotografering kunne gi nødvendige opplysninger, jf. også at en kriminaltekniker fra åstedet vil være til stede under obduksjon.»[^2026]
 
-40
+Utvalget har i punkt 4.3.3 lagt til grunn at det ikke er grunnlag for å kritisere politiet for at det ikke ble gjort en rettsmedisinsk undersøkelse av likene på åstedet, ettersom dette i år 2000 kun var vanlig praksis i enkelte politidistrikter.
 
-50
+Utvalget har hatt samtaler med personell fra Avdeling for rettsmedisinske fag (RMF) ved Oslo universitetssykehus (OUS). Utvalget fikk opplyst at det heller ikke i dag er faste rutiner for at rettsmedisiner gjør undersøkelser av lik på åsted hvor det er mistanke om at det er begått en straffbar handling mot avdøde. Ordningen ved avdelingen er at seksjonsleder for rettspatologi og klinisk rettsmedisin er tilgjengelig på mobiltelefon hele døgnet, stort sett året rundt. Politiet tar kontakt når det er behov for bistand, og rettspatologen gir da råd og veiledning over telefon. Rettspatologen rykker ut til et åsted ca. 2–3 ganger i løpet av et år. Det ble opplyst at det ofte vil være av stor verdi for de rettsmedisinske undersøkelsene som senere skal gjennomføres, at rettspatologen har vært til stede på åstedet. Dette er i samsvar med det som fremgår av den nevnte arbeidsgrupperapporten fra 2002.
 
-60
+Utvalget har fått opplyst at det er ressurshensyn som er grunnen til at det i dag fortsatt ikke er innarbeidede rutiner for undersøkelser av lik av kvalifisert rettsmedisiner på åstedet. Ved OUS er det i dag åtte personer som har kompetanse til å gjennomføre rettsmedisinske undersøkelser av lik (overlegekompetanse). Ved OUS gjennomføres det årlig ca. 1400 obduksjoner i forbindelse med mistenkelige dødsfall. Dette er en økning på ca. 50 prosent siden politireformen i 2015. Før dette lå antallet stabilt på ca. 900–1000 obduksjoner årlig. Overlegene som er satt til å utføre obduksjoner, har utover dette ansvaret også en rekke andre oppgaver som krever tid og arbeid.[^2027]
 
-70
+I senere tid har det blitt uttrykt bekymring for rekrutteringen til fagområdet rettsmedisin, herunder rettspatologi. Flere erfarne rettsmedisinere som utøver rettspatologitjenester i Norge, er i ferd med å passere eller har nylig passert pensjonsalder. Helsedirektoratet publiserte i 2020 en utredning av status og tiltak for å sikre kvalitet, rekruttering og tilgang på rettsmedisinsk kompetanse i Norge.[^2028] Rapporten fremhever at det er for stor variasjon i kvaliteten på rettsmedisinsk arbeid, og at deler av landet mangler tilstrekkelig tilgang på rettsmedisinsk kompetanse. Det fremheves i rapporten som svært viktig at leger som utøver sakkyndig virksomhet, har solid kompetanse. Konsekvensene av mangelfull undersøkelse, sporsikring og dokumentasjon kan være store, både for offer og mistenkt gjerningsperson, og kan utgjøre et betydelig rettssikkerhetsproblem.[^2029]
 
-80
+En viktig årsak til den svake rekrutteringen er at det ikke er opprettet en egen spesialitet i rettsmedisin for leger. En annen grunn er at de regionale helseforetakene ikke prioriterer rettsmedisinske tjenester i tilstrekkelig grad. Flere rettsmedisinere har i pressen beskrevet et miljø som er preget av ressursknapphet, underbemanning og manglende satsing gjennom en årrekke. Daværende leder i Norsk Rettsmedisinsk Forening, professor Lars Uhlin-Hansen, uttalte 25. juli 2023 til TV 2 at rettsmedisin er inne i en alvorlig krise.[^2030] På grunn av den store arbeidsmengden skal ledelsen ved OUS ha bedt riksadvokaten om hjelp til å redusere antall obduksjoner.
 
-Figur 14.3 Svarene på undersøkelsens spørsmål 2.1: «Du har svart at du opplever at beviskravet praktiseres
-ulikt, avhengig av sakstype. Vennligst kryss av for sakstypene hvor du eventuelt mener at beviskravet i praksis
-ligger lavere enn ellers.» Diagrammet viser prosentvis andel av respondentene som svarte «ja» på det
-foregående spørsmålet, som krysset av for de ulike alternativene. Det var mulig å krysse av for flere
-alternativer.
-lovbrudd. For de øvrige sakstypene («vold», «narkotika» og «økonomisk kriminalitet») var svarprosentene langt lavere og relativt like. Økonomisk
-kriminalitet var området hvor færrest av de spurte
-mente at beviskravet praktiseres lempeligere enn
-ellers (16 prosent).2 For voldssaker var svarandelen noe høyere (25 prosent).
-En relativt stor andel mente også at beviskravet praktiseres lempeligere på andre enn de
-angitte saksområdene (38 prosent). Fritekstsvarene viser at det for «andre sakstyper» særlig var
-mishandling i nære relasjoner, jf. straffeloven
-§ 282, som skilte seg ut. Blant 51 fritekstsvar var
-denne sakstypen nevnt i 18 svar.3 Også trafikksaker, herunder promillekjøring, ble nevnt i relativt
-mange svar (9 av 51 svar).
-2
+I Helsedirektoratets rapport fra 2020 oppsummeres innspill fra politidistriktene om tilgjengeligheten til rettspatologiske tjenester slik:
 
-3
+«Det er stor variasjon i tilgjengelighet til rettspatologiske tjenester mellom politidistriktene. Det opplyses at det i enkelte distrikter er svært sårbart, ett sted kun én til to som er tilgjengelige. Disse kontaktes ofte privat, også på kveldstid og i helger. Det mangler vaktordninger og påpekes også at det er behov for en beredskapsordning slik at en sikrer at det til enhver tid er tilgjengelige rettsmedisinere i landet.
 
-Funnene fra undersøkelsen samsvarer i stor grad med funnene i en lignende undersøkelse utført av Anders Batholm
-og Ulf Stridbeck i 1998. Et funn i denne undersøkelsen var
-at det «[ofte stilles] for lave beviskrav til domfellelse ved
-seksualisert vold mot barn og voksne, annen vold, narkotikasaker og trafikksaker (bortsett fra promillekjøring),
-mens det stilles for høye beviskrav for domfellelse ved økonomisk kriminalitet og miljøkriminalitet», se Bratholm og
-Stridbeck (1998) s. 359. Undersøkelsen er omtalt nærmere
-i punkt 13.3.2.
-Ettersom svarene ble gitt i form av fritekst, krever noen av
-svarene en viss tolkning. De 18 svarene nevnt her inkluderer svar som «familievold», «282» og lignende
+Manglende tilgang til rettsmedisiner i eget politidistrikt kan medføre tidstap med tap av spor og dermed dårligere kvalitet på rettsmedisinske undersøkelser og -erklæringer. Det opplyses også at rettsmedisiner sjelden eller aldri er ute på åsted og at det i noen tilfeller kan innebære at man mister vesentlig informasjon.»[^2031]
 
-14.2.3 Bevisvurdering og domfellelse i «ord
-mot ord-saker»
-Det tredje temaet i undersøkelsen var bevisvurdering og domfellelse i såkalte «ord mot ord»-saker
-– det vil si saker hvor det foreligger få tekniske
-bevis, og hvor domfelte og fornærmede har motstridende forklaringer. Det første spørsmålet
-gjaldt Høyesteretts uttalelser om slike bevissituasjoner i Rt. 2011 s. 641.4 Høyesterett uttalte i dommen (avsnitt 28):
-«I saker som gjelder seksuelle overgrep, er det
-ikke uvanlig at tiltalte og fornærmede har motstridende forklaringer om hva som har skjedd.
-Det er heller ikke uvanlig at det ikke foreligger
-andre bevis i saken. Domstolen må i slike tilfeller som utgangspunkt ha anledning til å domfelle ut fra en troverdighetsvurdering.»
+Rapporten gjengir også innspill som har kommet fra andre aktører:
 
-4
+«I møte med Den rettsmedisinske kommisjon (DRK) og i referansegruppemøter har det kommet mange innspill på status og utfordringer innen rettspatologi. Lav rekruttering oppfattes som kritisk for fagområdet, ikke minst fordi flere av de mest erfarne rettspatologene snart nærmer seg pensjonsalder eller allerede har gått av med pensjon. Det oppleves å være interesse blant yngre leger for å jobbe med rettsmedisin, men allikevel vanskelig å rekruttere til et fagområde som ikke har en spesialitet som utdanningsmål. Kapasiteten til å utdanne yngre leger er også noe begrenset enkelte steder og mangler helt ved Universitetet i Bergen.
 
-Noen av utgangspunktene i denne dommen har senere blitt
-utdypet i HR-2025-458-A, hvor Høyesterett kom med generelle uttalelser om hvilke krav som må stilles til bevisvurderingen i voldtektssaker hvor fornærmedes forklaring er det
-sentrale beviset. Høyesteretts uttalelser om temaet i denne
-dommen og i Rt. 2011 s. 641 omtales og drøftes nærmere i
-punkt 13.4.4.2.
+Manglende vaktordninger for rettspatologiske tjenester har i lang tid vært kompensert for ved at politiet kontakter leger som de kjenner, og at disse stiller opp på frivillig basis. Dette er et system som oppleves som lite forutsigbart, både for rekvirenter og rettsmedisinere, og er heller ikke en ordning som oppleves som attraktiv for nye rettsmedisinere. Det vises også til at store avstander kan gjøre det problematisk med åstedsundersøkelser og at det ikke alltid er rettsmedisiner tilgjengelig når det er et behov.
 
-[Side 524]
+Generelt stor arbeidsmengde medfører at det tar lang tid å ferdigstille de rettspatologiske rapportene, noe som også medfører redusert verdi av rapportene og forsinkelser i politiets arbeid.»[^2032]
 
-522
+Prosjektgruppen bak rapporten anbefaler at de regionale helseforetakene gis i oppdrag å sørge for å bygge opp kapasitet innen rettsmedisinske tjenester gjennom oppdragsdokumentene. Prosjektgruppen anbefaler også å opprette en spesialitet i rettsmedisin for leger for å sikre at det stilles formelle krav til utøvelse av rettsmedisinske oppgaver på lik linje med de andre nordiske landene og mange europeiske land.[^2033]
 
-NOU 2026: 3
+Helse- og omsorgsdepartementet ga i mars 2024 Helsedirektoratet i oppdrag å gjenoppta arbeidet med å utrede etablering av en ny spesialitet i rettspatologi og klinisk rettsmedisin. Helsedirektoratet ble også bedt om å iverksette et arbeid med å standardisere innholdet i rettsmedisinsk kompetanse og etablere et opplæringstilbud i rettsmedisin rettet mot alle personellgrupper som deltar i denne typen arbeid.
 
-Kapittel 14
+I en utredning datert 31. januar 2025 kom Helsedirektoratet med følgende tilrådning i spørsmålet om opprettelse av egen spesialitet:
 
-Straffeforfølgelsen av Viggo Kristiansen
+«Fagområdet rettsmedisin (rettspatologi og klinisk rettsmedisin) oppfyller etter en samlet vurdering de fastsatte kriteriene for opprettelsen av en spesialitet med offentlig spesialistgodkjennning. Det vil sikre en felles nasjonalt standardisert kompetanse på fagområdet slik man har i de andre nordiske landene og i flere land innen EU. Det er også nødvendig for å rekruttere og beholde leger i faget og for å sikre at det er tilgjengelig rettsmedisinsk kompetanse i hele landet.»[^2034]
 
-Vet ikke
+Saken er nå til behandling i Helse- og omsorgsdepartementet. Det er ventet at en avgjørelse er nært forestående.
 
-0
+Utvalget mener at det så raskt som mulig må sikres ressurser til å etablere og opprettholde et forsvarlig rettsmedisinsk miljø i Norge. Det viktigste enkeltstående tiltaket er å opprette en spesialisering innen rettsmedisin. Utvalget har merket seg at fagmiljøet i mange år har etterspurt en slik spesialisering,[^2035] og at flere offentlige utvalg har gått inn for at rettsmedisin blir en egen spesialitet.[^2036] Begrunnelsen er at rettsmedisin er et faglig krevende spesialområde med stor betydning for rettssikkerheten, og at en egen spesialitet i rettsmedisin/rettspatologi vil bedre rekrutteringen til faget. Utvalget anbefaler derfor at departementet følger opp Helsedirektoratets tilrådning. Etter utvalgets syn er det også positivt at det er igangsatt et arbeid med å etablere et opplæringstilbud og standardisere innholdet i rettsmedisinsk kompetanse, blant annet gjennom en standardisering og opplæring i hvordan rettsmedisinske erklæringer skal utformes.
 
-Helt uenig
-
-34,7
-
-Delvis uenig
-
-31,2
-
-Delvis enig
-
-27
-
-7,1
-
-Helt enig
-0
-
-5
-
-10
-
-15
-
-20
-
-25
-
-30
-
-35
-
-40
-
-Figur 14.4 Svarene på undersøkelsens spørsmål 3: «Høyesterett har i Rt. 2011 s. 641 uttalt seg om
-bevisvurderingen i tilfeller hvor det foreligger få tekniske bevis, og domfelte og fornærmede har motstridende
-forklaringer (‘ord mot ord’-saker). Høyesterett uttalte om dette: ‘I saker som gjelder seksuelle overgrep, er det
-ikke uvanlig at tiltalte og fornærmede har motstridende forklaringer om hva som har skjedd. Det er heller ikke
-uvanlig at det ikke foreligger andre bevis i saken. Domstolen må i slike tilfeller som utgangspunkt ha
-anledning til å domfelle ut fra en troverdighetsvurdering’ (avsnitt 28). Er du enig eller uenig i uttalelsen om at
-domstolen i slike tilfeller må ha ‘anledning til å domfelle ut fra en troverdighetsvurdering’»? Diagrammet viser
-prosentandelen av respondentene som krysset av for de ulike svaralternativene. Det var bare mulig å krysse
-av for ett alternativ.
-Respondenten ble bedt om å svare på om han eller
-hun var «enig» eller «uenig» i uttalelsen om at
-domstolen i slike tilfeller må ha «anledning til å
-domfelle ut fra en troverdighetsvurdering». Svaralternativene var gradert fra «helt enig» til «helt
-uenig». Se figur 14.4 for svarfordelingen.
-Svarene viser at et stort flertall – nesten 2/3 av
-respondentene – var helt eller delvis uenige i
-uttalelsen (totalt ca. 66 prosent). Svaralternativet
-
-Vet ikke
-
-som fikk flest av avkrysninger, var «helt uenig»
-med 35 prosent av svarene. Kun 7 prosent var helt
-enige i uttalelsen.
-Respondentene ble videre bedt om å svare på
-om de hadde opplevd tilfeller hvor deres klient
-«ble dømt utelukkende på grunnlag av fornærmedes forklaring». Det var kun mulig å svare «ja»,
-«nei» eller «vet ikke» på spørsmålet. Se figur 14.5.
-
-6,5
-
-Nei
-
-24,1
-
-Ja
-
-69,4
-
-0
-
-10
-
-20
-
-30
-
-40
-
-50
-
-60
-
-70
-
-80
-
-Figur 14.5 Svarene på undersøkelsens spørsmål 4: «I saker du har ført for retten: Har du opplevd tilfeller hvor
-din klient ble dømt utelukkende på grunnlag av fornærmedes forklaring?» Diagrammet viser prosentandelen
-av respondentene som krysset av for de ulike svaralternativene. Det var bare mulig å krysse av for ett
-alternativ.
-
-[Side 525]
-
-523
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-Andre sakstyper
-
-Kapittel 14
-
-17
-
-Økonomisk kriminalitet
-
-4,2
-
-Narkotika
-
-5,1
-
-Seksuallovbrudd
-
-84,8
-
-Vold
-
-42,4
-0
-
-10
-
-20
-
-30
-
-40
-
-50
-
-60
-
-70
-
-80
-
-90
-
-Figur 14.6 Svarene på undersøkelsens spørsmål 4.1: «Du har svart at du har opplevd tilfeller hvor din klient ble
-dømt utelukkende på grunnlag av fornærmedes forklaring. Vennligst kryss av for sakstyper hvor du har
-opplevd domfellelse av din klient i slike ‘ord mot ord’-tilfeller.» Diagrammet viser prosentvis andel av
-respondentene som svarte «ja» på det foregående spørsmålet, som krysset av for de ulike alternativene. Det
-var mulig å krysse av for flere alternativer.
-Et stort flertall av respondentene mente at de
-hadde opplevd slike tilfeller (69 prosent). Kun om
-lag en fjerdedel (24 prosent) svarte «nei» på spørsmålet.
-Respondentene som svarte at de hadde opplevd at deres klient ble dømt utelukkende på
-grunnlag av fornærmedes forklaring, ble bedt om
-å krysse av for hvilke sakstyper dette gjaldt. Det
-var mulig å krysse av for flere alternativer. Se
-figur 14.6.
-Seksuallovbrudd skilte seg ut med klart flest
-avkrysninger. Av respondentene som mente at de
-hadde opplevd domfellelse utelukkende på grunn
-av fornærmedes forklaring, svarte 85 prosent at
-de hadde opplevd slike domfellelser i saker om
-seksuallovbrudd. En relativt stor andel av respondentene svarte også at de hadde opplevd slike
-domfellelser i voldssaker (42 prosent). Blant de
-øvrige sakstypene («narkotika» og «økonomisk
-kriminalitet») var andelen langt lavere (henholdsvis 5 prosent og 4 prosent).
-Kun 17 prosent av respondentene som hadde
-opplevd domfellelse utelukkende på bakgrunn av
-fornærmedes forklaring, mente å ha opplevd slike
-domfellelser i «andre sakstyper». Blant disse
-skilte mishandling i nære relasjoner seg igjen ut i
-fritekstsvarene. Av 20 fritekstsvar ble denne sakstypen nevnt i 10 svar, altså halvparten.5
-Respondentene som hadde opplevd domfellelse utelukkende på grunnlag av fornærmedes
-
-forklaring, fikk også spørsmål om hvor ofte de
-mente at domfellelse i slike «ord mot ord»-tilfeller
-forekom innen de ulike sakstypene de hadde
-krysset av for. Respondentene ble bedt om å rangere hyppigheten av slike domfellelser for den
-enkelte sakstypen fra «svært sjelden» til «svært
-ofte». Se figur 14.7.
-Også på dette området skilte seksuallovbrudd
-seg ut, denne gang ved å være sakstypen hvor
-respondentene mente at domfellelse i «ord mot
-ord»-tilfeller forekom hyppigst. Blant respondentene som hadde opplevd domfellelse alene på bakgrunn av fornærmedes forklaring i seksuallovbruddsaker, svarte 13 prosent at dette skjedde
-«svært ofte» i slike saker, mens 36 prosent mente
-at det skjedde «ofte». Svaralternativet med flest
-avkrysninger var «noen ganger» med 45 prosent.
-Kun 5 prosent mente at slike domfellelser forekom «sjelden» i disse sakene. Ingen svarte at
-dette skjedde «svært sjelden».
-Også for voldssakene mente respondentene at
-domfellelse i ord mot ord-tilfellene forekom relativt hyppig, men sjeldnere enn i seksuallovbruddsakene, se figur 14.8. Blant respondentene
-som hadde opplevd slike domfellelser i voldssaker, mente 4 prosent at dette skjedde «svært ofte»,
-5
-
-Som nevnt over krever fritektsvarene en viss tolkning. For
-eksempel er svaret «Familievoldssak» inkludert i denne
-beregningen.
-
-[Side 526]
-
-524
-
-NOU 2026: 3
-
-Kapittel 14
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-Vet ikke
-
-0
-
-Svært sjelden
-
-0
-
-Sjelden
-
-5,1
-
-45,4
-
-Noen ganger
-
-Ofte
-
-36,4
-
-Svært ofte
-
-13,1
-
-0
-
-5
-
-10
-
-15
-
-20
-
-25
-
-30
-
-35
-
-40
-
-45
-
-50
-
-Figur 14.7 Svarene på undersøkelsens spørsmål 4.2: «Hvor ofte opplever du at domfellelse i ‘ord mot ord’tilfeller forekommer innenfor de nevnte sakstypene?» Diagrammet viser svarene til respondentene som
-hadde krysset av for at de hadde opplevd domfellelse utelukkende på grunnlag av fornærmedes forklaring i
-seksuallovbruddsaker. Diagrammet viser prosentandelen av disse respondentene som krysset av for de ulike
-alternativene, fra «svært sjelden» til «svært ofte». Det var bare mulig å krysse av for ett alternativ.
-
-Vet ikke
-
-2
-
-Svært sjelden
-
-2
-
-16
-
-Sjelden
-
-46
-
-Noen ganger
-
-30
-
-Ofte
-
-Svært ofte
-
-4
-
-0
-
-5
-
-10
-
-15
-
-20
-
-25
-
-30
-
-35
-
-40
-
-45
-
-50
-
-Figur 14.8 Svarene på undersøkelsens spørsmål 4.2: «Hvor ofte opplever du at domfellelse i ‘ord mot ord’tilfeller forekommer innenfor de nevnte sakstypene?» Diagrammet viser svarene til respondentene som
-hadde krysset av for at de hadde opplevd domfellelse utelukkende på grunnlag av fornærmedes forklaring i
-voldssaker. Diagrammet viser prosentandelen av disse respondentene som krysset av for de ulike
-alternativene, fra «svært sjelden» til «svært ofte». Det var bare mulig å krysse av for ett alternativ.
-
-[Side 527]
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-og 30 prosent at det skjedde «ofte». Også for
-denne sakstypen mente de fleste at slike domfellelser forekom «noen ganger» (46 prosent). Andelen som mente at det kun skjedde «sjelden» (16
-prosent), var høyere enn for seksuallovbruddsakene (5 prosent). I tillegg mente 2 prosent av
-
-525
-
-Kapittel 14
-
-respondentene i denne gruppen at slike domfellelser bare forekom «svært sjelden» i voldssakene.6
-6
-
-Svarene på spørsmål 4.2 for respondentene som hadde
-krysset av for de øvrige sakstypene (narkotika og økonomisk kriminalitet), gjennomgås ikke nærmere her. Svarene
-til disse respondentene fremgår av et elektronisk vedlegg
-hvor alle spørsmål og svar i undersøkelsene er inntatt i sin
-helhet.
-
-[Side 528]
-
-526
-
-Kapittel 15
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-Kapittel 15
-
-Økonomiske og administrative konsekvenser
-Utvalget foreslår i punkt 13.2 en rekke tiltak som
-er ment å sikre at kravet til objektivitet etterleves i
-politiet og påtalemyndigheten. Forslagene forventes ikke å ha nevneverdige økonomiske og administrative konsekvenser, med unntak for innføringen av sertifiseringskrav for avhørere og politifaglige etterforskningsledere. Utvalget vil presisere
-at sertifiseringsordningene må innrettes slik at de
-ikke får negative konsekvenser for politiets etterforskningskapasitet.
-I punkt 13.3 foreslår utvalget å lovfeste beviskravet i straffesaker. Dette er langt på vei en kodifisering av gjeldende rett og vil ikke innebære
-nevneverdige merkostnader. Når det gjelder kravet til strukturering av bevisvurderingen, jf. lovforslagets andre ledd, mener utvalget at det vil
-synliggjøre og forenkle vurderingstemaene som
-bevisbedømmeren må være seg bevisst. Forslaget
-vurderes som godt egnet til å motvirke bekreftelsesfeller og tunnelsyn, og i den utstrekning tiltaket kan bidra til å forhindre uriktige domfellelser,
-vil de potensielle besparelsene kunne være betydelige.
-Forslaget i punkt 13.4 om lovfesting av sentrale prinsipper for bevisvurderingen medfører
-neppe økt ressursbruk. Når det gjelder forslaget
-om å styrke opplæringen i bevisvurdering som gis
-til jusstudenter, dommere, dommerfullmektiger,
-påtalejurister og forsvarere, jf. punkt 13.4.5, antas
-det at eventuelle merkostnader vil kunne dekkes
-innenfor gjeldende budsjettrammer.
-I punkt 13.5 drøftes sentrale straffeprosessuelle rammer for bevisvurdering. Utvalgets forslag
-om å skjerpe begrunnelseskravet ved domfellelse
-(punkt 13.5.3.3) vil neppe innebære særlig ekstraarbeid for domstolene i lys av krav og normer som
-allerede gjelder for bevisvurderingen i straffesaker, jf. HR-2025-458-A avsnitt 23–31. Som i dag vil
-det avgjørende være om sakens bevismessige problemstillinger er behandlet på en tilstrekkelig
-betryggende måte. Kravet om at det må godtgjøres at det foreligger opplysninger som det er vanskelig å forklare hvis tiltalte er uskyldig (det positive kravet), inviterer til en rasjonell vurdering av
-
-styrker og svakheter ved de enkelte bevisene.
-Kravet om at det ikke må foreligge opplysninger
-som det er vanskelig å forklare hvis tiltalte er skyldig (det negative kravet), vil i mange saker kunne
-behandles kort.
-Krav til notoritet og forsvarlig lagring av bevis
-er tema i punkt 13.7. Forslagene om å lovfeste kravet til notoritet under etterforskningen (punkt
-13.7.2) og plikten til å oppbevare bevis på en forsvarlig måte (13.7.3) kodifiserer gjeldende rett og
-vil neppe i seg selv innebære økt ressursbruk.
-Hvorvidt utvalgets forslag om å gi en forskrift om
-lagring av bevismateriale vil medføre merkostnader, vil bero på utformingen av reglene – utvalget
-har ikke kommet med konkrete forslag til bestemmelser. Utvalget legger til grunn at departementet
-vil trekke inn berørte myndigheter i arbeidet med
-å utforme forskriften, slik som riksadvokaten,
-Kripos og Politidirektoratet, og at de økonomiske
-og administrative konsekvensene vil bli beregnet
-som ledd i en slik prosess.
-Utvalget foreslår i punkt 13.7.4 å utvide politiets adgang til å oppbevare beslag etter sakens
-avslutning, jf. straffeprosessloven § 213 andre
-ledd. Det vil ha klare prosessøkonomiske fordeler
-at det er påtalemyndigheten og ikke domstolen
-som gis den primære beslutningskompetansen
-etter bestemmelsen. At beslag i visse tilfeller skal
-kunne opprettholdes i saker som er henlagt med
-endelig virkning, innebærer på den annen side en
-utvidelse av bestemmelsens anvendelsesområde.
-Adgangen til å opprettholde beslag i § 213 andre
-ledd brukes svært lite i praksis, og endringsforslagene er ment å gjøre hjemmelen mer praktikabel.
-Om forslaget faktisk vil lede til at politiet beholder
-bevismateriale i avsluttede saker i større grad enn
-i dag, er uklart.
-Utvalget ser positivt på at det legges til rette
-for at det tas lyd- og videopptak i stadig flere norske rettssaler (punkt 13.7.5). Nylig ble det bevilget midler som sikrer utrulling av opptaksutstyr
-til samtlige av landets rettssteder, se punkt
-13.7.5.3. Utvalget tar til orde for at opptak skal tas i
-alle straffesaker, og at opptakene skal oppbevares
-
-[Side 529]
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-frem til gjenåpning for alle praktiske formål er utelukket. For tiden pågår det et arbeid i Domstoladministrasjonen og Justis- og beredskapsdepartementet med å revidere regelverket i forbindelse
-med utrullingen. Konsekvenser av ulike regelalternativer vil bli grundig utredet i den forbindelse.
-I punkt 13.8 foreslår utvalget at det etableres
-en permanent arbeidsgruppe som utarbeider et
-standardisert mandat for rettsgenetiske undersøkelser og nye nasjonale retningslinjer for bruk og
-presentasjon av DNA-bevis i straffesaker. Videre
-foreslår utvalget at påtalemyndigheten, forsvarere
-og dommere skal gis opplæring om bruk av DNAbevis, og at Avdeling for rettsmedisinske fag ved
-Oslo universitetssykehus (OUS) inntar en
-ledende rolle i denne forbindelse. Utvalget antar
-at de nevnte tiltakene vil kunne dekkes innenfor
-gjeldende budsjettrammer.
-I punkt 13.9 vurderes ulike sider ved oppbevaring av biologisk materiale ved analyseinstitusjonene, og utvalget tar til orde for at det utarbeides
-mer presise retningslinjer for oppbevaring av
-spormateriale for DNA og annet biologisk materiale. Følges dette opp, vil det kunne få konsekvenser for hvordan saksbehandlingen ved slike
-beslutninger skal foregå, og for hvilket materiale
-som oppbevares. Dersom forslaget om ny forskrift
-om lagring av bevis følges opp, jf. punkt 13.7.3, vil
-det kunne gis nærmere regler om oppbevaring av
-slikt materiale i forskriften. Utvalget tar i punkt
-
-527
-
-Kapittel 15
-
-13.9.5 til orde for at det opprettes et system som
-sikrer at politiet gis oppdaterte og korrekte opplysninger om biologisk materiale som finnes hos
-Oslo universitetssykehus (OUS), og at det også
-foretas en gjennomgang av samtlige oppbevaringsrom, frysere mv. Som utvalget viser til, er et
-slikt opprydningsarbeid igangsatt, men ikke ferdigstilt. Det bør bevilges midler til opprydningen
-dersom gjeldende budsjettrammer ikke er tilstrekkelige.
-I punkt 13.10 foreslår utvalget at det gjennomføres tiltak som sikrer rettsmedisinske undersøkelser av lik på åstedet i drapssaker, og at det etableres en spesialitet i rettsmedisin for å bedre
-rekrutteringen til faget. Disse forslagene har
-åpenbart en kostnadsside. Utvalget er kjent med
-at Helsedirektoratet har utredet begge tiltakene,
-og at Helse- og omsorgsdepartementet for tiden
-vurderer om de skal følges opp. Økonomiske og
-administrative konsekvenser vil bli utredet som
-ledd i denne prosessen.
-De øvrige tiltakene i kapittel 13 har begrensede økonomiske og administrative konsekvenser. I punkt 13.6 går utvalget inn for at det etableres klarere rammer for meddommeres deltakelse
-i straffesaker, og i punkt 13.11 gjøres det noen
-presiseringer av påtalemyndighetens adgang til å
-meddele opplysninger fra straffesaksbehandlingen til offentligheten. Forslagene vil i liten grad
-medføre økt ressursbruk.
-
-[Side 530]
-
-528
-
-NOU 2026: 3
-
-Kapittel 16
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-Kapittel 16
-
-Utvalgets lovutkast og merknader
-
-16.1 Forslag til lovendringer
-I lov 22. mai 1981 nr. 25 om rettergangsmåten i
-straffesaker gjøres følgende endringer:
-§ 40 fjerde ledd skal lyde:
-Domsgrunnene skal angi hovedpunktene i rettens bevisvurdering. Ved domfellelse skal domsgrunnene vise at det samlet sett foreligger opplysninger i saken som det er vanskelig å forklare hvis tiltalte er uskyldig, og at det ikke foreligger opplysninger som det er vanskelig å forklare hvis tiltalte er
-skyldig. Kravene gjelder ikke ved pådømmelse etter
-§ 248.
-§ 213 andre ledd skal lyde:
-For øvrig faller beslaget bort når saken er
-endelig avgjort. Beslaget kan likevel opprettholdes
-når det er grunn til det i lys av reglene om gjenåpning i kapittel 27 eller gjenopptakelse av forfølgingen i § 74, eller når andre særlige forhold tilsier
-det. Det kan settes en frist for varigheten av beslaget.
-Erstatning skal ytes når det er rimelig.
-§ 226 nytt femte ledd skal lyde:
-Etterforskingen skal dokumenteres. Opplysninger av betydning som ikke er sikret på annen
-måte, skal nedtegnes.
-Ny § 226 a skal lyde:
-Bevis skal oppbevares på en måte som sikrer
-og bevarer bevisenes pålitelighet.
-Kongen kan gi forskrift om lagring av bevis.
-Ny § 305 a skal lyde:
-For straffansvar kreves at faktum er bevist ut
-over enhver rimelig tvil.
-Beviskravet i første ledd kan bare være oppfylt
-dersom det samlet sett
-a) foreligger opplysninger i saken som det er
-vanskelig å forklare hvis tiltalte er uskyldig, og
-b) ikke foreligger opplysninger som det er vanskelig å forklare hvis tiltalte er skyldig.
-
-Bevis skal vurderes grundig og samvittighetsfullt og i samsvar med alminnelige erfaringssetninger og kjensgjerninger som fremmer sannhet.
-
-16.2 Merknader til de enkelte
-bestemmelsene i straffeprosessloven
-Til § 40 fjerde ledd
-Det vises til fremstillingen i punkt 13.5.3.3.
-Fjerde ledd første punktum viderefører nåværende § 40 fjerde ledd. Henvisningen til saker som
-har vært behandlet med meddomsrett, er tatt ut.
-Avskaffelsen av juryordningen innebærer at
-denne avgrensningen i stor grad er overflødig.
-Endringen gjør det videre klart at foreleggsaker
-uten meddommere (§ 276 første ledd andre punktum) omfattes av bestemmelsen. Når det gjelder
-tilståelsessakene (§ 248), vises det til kommentarene til tredje punktum nedenfor.
-Fjerde ledd andre punktum er nytt og skjerper
-kravene til begrunnelsen for bevisresultatet ved
-domfellelse. Dette er gjort ved å knytte kravet til
-den foreslåtte operasjonaliseringen av beviskravet, jf. forslaget til ny § 305 a med spesialmerknad.
-Domsgrunnene må få frem at det foreligger opplysninger som det er vanskelig å forklare hvis tiltalte er uskyldig (det positive kravet). Det er ikke
-nok å legge til grunn at opplysningene taler for
-skyld – det må godtgjøres at de aktuelle opplysningene vanskelig kan forklares i samsvar med en
-hypotese om at tiltalte er uskyldig. Er det positive
-kravet oppfylt, må domsgrunnene deretter vise at
-det ikke foreligger opplysninger som det er vanskelig å forklare hvis tiltalte er skyldig (det negative kravet). I mange straffesaker vil dette vilkåret
-kunne utkvitteres helt kort – rett og slett fordi
-slike opplysninger ofte vil mangle. Dersom det finnes opplysninger som i hvert fall tilsynelatende
-skaper problemer for skyldig-hypotesen, er det
-imidlertid nødvendig at dommen behandler disse
-forholdene på en tilstrekkelig grundig måte. For
-at retten likevel skal kunne domfelle, må det påvi-
-
-[Side 531]
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-ses at opplysningene kan forklares på en måte
-som er både realistisk og i samsvar med hypotesen om at tiltalte er skyldig.
-Fjerde ledd tredje punktum presiserer at tilståelsesdommer etter § 248 ikke må oppfylle kravene
-i første og andre punktum. Dette innebærer ingen
-endring sammenlignet med gjeldende rett. Problemstillingen i tilståelsessaker er om siktede har
-avgitt en uforbeholden tilståelse i rettsmøte «som
-styrkes av de øvrige opplysninger», og om retten
-finner behandlingsformen «ubetenkelig» i det
-konkrete tilfellet. Dommeren foretar med andre
-ord ikke en bevisvurdering som er direkte knyttet
-til spørsmålet om skyld. Kravene i første og andre
-punktum passer derfor mindre godt.
-Til § 213 andre ledd
-Det vises til fremstillingen i punkt 13.7.4.
-Andre ledd andre punktum er foreslått endret.
-Etter forslaget kan beslag opprettholdes «når det
-er grunn til det» i lys av reglene om gjenåpning og
-gjenopptakelse av forfølgningen i henholdsvis
-kapittel 27 og § 74, eller dersom «andre særlige
-forhold tilsier det». Ved vurderingen av om det er
-tilstrekkelig grunn til å beholde beslaget, må
-behovet for videre oppbevaring avveies mot de
-konkrete ulempene som inngrepet i eiendomsretten innebærer for rettighetshaveren, jf. straffeprosessloven § 170 a.
-Bestemmelsens anvendelsesområde er ikke
-avgrenset til saker hvor det foreligger rettskraftig
-dom. Beslag kan dermed også beholdes i saker
-som er henlagt med endelig virkning, såfremt det
-er grunn til å anta at det kan bli spørsmål om gjenopptakelse av forfølgningen, jf. straffeprosessloven § 74. Etter forslaget er det påtalemyndigheten, og ikke domstolen, som har den primære
-beslutningskompetansen. Den som rammes, skal
-imidlertid gjøres kjent med at spørsmålet om
-hvorvidt beslaget skal opprettholdes, kan kreves
-brakt inn for retten, jf. straffeprosessloven § 208.
-Andre ledd nytt tredje punktum angir at det kan
-settes en frist for varigheten av beslaget. Påtalemyndigheten eller retten kan beslutte forlengelse
-av fristen. Viser det seg før utløpet av fristen at det
-ikke lenger er behov for bevismidlet, skal beslaget
-heves, jf. straffeprosessloven § 213 første ledd, jf.
-§ 170 a.
-Andre ledd nytt fjerde punktum bestemmer at
-erstatning skal ytes dersom det fremstår som
-rimelig. Erstatning vil være aktuelt når beslaget
-forventes å være særlig langvarig, men også der
-opprettholdelsen har karakter av ekspropriasjon,
-jf. NUT 1969:3 s. 256. Den beslaglagte tingens
-
-529
-
-Kapittel 16
-
-karakter og økonomiske verdi er sentrale momenter. Er rettighetshaveren ikke påført et økonomisk
-tap, skal erstatning ikke gis. Krav om erstatning
-som bygger på affeksjonsverdi, er det neppe heller grunn til å imøtekomme.1 Erstatning er heller
-ikke aktuelt når det vil virke støtende.
-Til § 226 nytt femte ledd
-Det foreslås et nytt femte ledd i straffeprosessloven § 226 som gir uttrykk for kravet til notoritet
-under etterforskningen. Om bakgrunnen for forslaget vises det til punkt 13.7.2. Bestemmelsen er
-utformet etter mønster av Straffeprosessutvalgets
-lovutkast § 13-5 tredje ledd. Se NOU 2016: 24
-punkt 14.2.4.3 s. 306.
-Femte ledd første punktum angir at etterforskningen skal dokumenteres. Bestemmelsen kodifiserer gjeldende rett. Kravet til notoritet fremgår i
-dag av en rekke enkeltbestemmelser i straffeprosessloven, herunder § 230 femte ledd om rapporter fra politiavhør og § 197 tredje ledd om skriftlige beslutninger om ransaking.
-Femte ledd annet punktum presiserer at alle
-«opplysninger av betydning» skal nedtegnes, med
-mindre opplysningene er sikret på annen måte. I
-utgangspunktet er kravet til notoritet strengt. Det
-beror imidlertid på et skjønn både hva som skal
-dokumenteres, og hvilken form for dokumentasjon som etter forholdene er tilstrekkelig. Et minimumskrav er at det dokumenteres hvilke undersøkelser som er foretatt, hva som var resultatet av
-undersøkelsene, og at lovens regler er overholdt.
-Som Straffeprosessutvalget har påpekt, vil også
-formålet med dokumentasjonskravet kunne gi veiledning, jf. NOU 2016: 24 s. 595. Det foreslåtte
-notoritetskravet er ikke ment å være et brudd
-med gjeldende retningslinjer og praksis for utarbeidelse av politirapporter, journalføring av korrespondanse, registrering og loggføring i politiets
-saksbehandlingssystemer.
-Til ny § 226 a
-Bestemmelsen er ny. Se drøftelsen i punkt 13.7.3.
-Første ledd svarer til Straffeprosessutvalgets lovutkast § 7-1 tredje ledd, mens andre ledd svarer til
-lovutkastet § 7-6. Se NOU 2016: 24 punkt 13.2.2.2
-s. 257.
-Første ledd angir at bevis skal innhentes og
-oppbevares på en måte som sikrer bevisenes pålitelighet. Med dette menes at håndteringen ikke
-1
-
-Politidirektoratet (2008) s. 23.
-
-[Side 532]
-
-530
-
-Kapittel 16
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-må svekke bevisenes informasjonsverdi, se punkt
-13.7.3.
-Andre ledd åpner for å gi forskrift om lagring
-av bevis.
-
-Bestemmelsen er ny. Første ledd lovfester det
-strenge beviskravet for straffansvar. Andre ledd
-presiserer og operasjonaliserer beviskravet, samtidig som det etableres en ramme og metode for
-bevisvurderingen. Bestemmelsens tredje ledd
-angir det overordnede formålet for enhver bevisvurdering, som er å klarlegge den materielle
-sannhet. Det vises til drøftelsene i punkt 13.3 og
-13.4.
-Første ledd fastslår at det for straffansvar kreves at faktum er bevist utover enhver rimelig tvil.
-Med «faktum» menes faktiske forhold med umiddelbar rettslig betydning (rettsfakta). Beviskravet
-skal praktiseres likt for samtlige straffbarhetsvilkår, også for tvil knyttet til faktum ved avgjørelsen
-av spørsmålet om hvorvidt gjerningspersonen på
-handlingstidspunktet hadde skyldevne, jf. straffeloven § 20. Det samme gjelder for bevistemaer av
-betydning for straffutmålingen, forutsatt at disse
-knytter seg til overtredelsens omfang, tiltaltes
-opptreden mv., jf. Rt. 2011 s. 654 (avsnitt 9 til 11).
-Se punkt 13.3.3.2. På grunn av bestemmelsens
-plassering i kapittel 22 om hovedforhandlingen
-gjelder den ikke direkte for vedtak om straffansvar som treffes av påtalemyndigheten. Det er
-imidlertid ikke tvilsomt at det strafferettslige
-beviskravet gjelder også for slike vedtak.
-Andre ledd gir anvisning på en strukturering
-av bevisvurderingen som er egnet til å operasjonalisere det strenge beviskravet i straffesaker. På
-denne måten knyttes beviskravet og bevisvurderingen tettere sammen. Bestemmelsen oppstiller
-et positivt krav (bokstav a) og et negativt krav
-(bokstav b), som begge må oppfylles før straff kan
-idømmes. Kravene i andre ledd oppstiller minstekrav for å straffedømme. Etter omstendighetene
-vil rimelig tvil kunne foreligge til tross for at kravene er oppfylt, jf. formuleringen «kan bare». Forslaget bygger på riksadvokatens operasjonalisering av beviskravet i kvalitetsrundskrivet fra
-2018.2 Det primære formålet med lovfestingen er
-å redusere risikoen for uriktige domfellelser. Se
-omtalen i punkt 13.3.
-Etter bokstav a må det foreligge opplysninger i
-saken som det er vanskelig å forklare hvis den tiltalte er uskyldig. Kravet forutsetter at det først
-
-oppstilles en hypotese om at den tiltalte er uskyldig. Dette er i samsvar med utgangspunktet som
-følger av uskyldspresumsjonen, jf. Grunnloven
-§ 96 andre ledd og EMK artikkel 6 nr. 2. Deretter
-må det identifiseres eventuelle opplysninger som i
-alle fall tilsynelatende kan være vanskelige å forklare i samsvar med hypotesen om at tiltalte er
-skyldig. Bevisbedømmeren må så vurdere om de
-aktuelle opplysningene kan forklares på en måte
-som er realistisk og i samsvar med uskyldig-hypotesen. Det kreves i denne forbindelse visse
-anstrengelser fra bevisbedømmerens side. Foreligger det en realistisk forklaring, er ikke det positive kravet oppfylt. Tiltalte må da frifinnes. Kan
-det ikke påvises noen realistisk forklaring, må
-bevisbedømmeren gå over til å vurdere det negative kravet (bokstav b).
-Bokstav b krever at det ikke foreligger opplysninger i saken som det er vanskelig å forklare hvis
-den tiltalte er skyldig. Kravet innebærer at det må
-oppstilles en hypotese om at tiltalte er skyldig. På
-samme måte som foran må det deretter identifiseres eventuelle opplysninger som kan skape problemer for eller true skyldig-hypotesen. Dette kan
-være opplysninger eller bevis som tilsynelatende
-passer dårlig med at den tiltalte er gjerningspersonen. Bevisbedømmeren må så vurdere om opplysningene likevel har en realistisk forklaring i samsvar med skyldig-hypotesen. Tiltalte må frifinnes
-dersom en slik forklaring ikke kan oppdrives.
-Straff kan bare idømmes når vilkårene i både bokstav a og b er oppfylt.
-Den foreslåtte bestemmelsen forutsetter at
-bevisbedømmeren vurderer opplysningene og
-bevisene i sammenheng, jf. uttrykket «samlet
-sett». Kravet om å se bevisene i sammenheng
-knytter seg både til bokstav a og b.3 Dette innebærer for det første at bevisene ikke kan vurderes
-isolert. Isolert sett vil et vitneutsagn muligens
-kunne forklares med at vitnet har tatt feil. Forklarer mange vitner det samme, kan imidlertid kombinasjonen av vitneforklaringene være vanskelig å
-forklare med at alle vitnene har tatt feil, i alle fall
-dersom samordning kan utelukkes. Dette gjelder
-selv om hvert enkelt av vitneutsagnene kan forklares på en slik måte. At opplysningene må vurderes
-i sammenheng, innebærer for det andre at forklaringene på ulike bevis under samme hypotese
-som utgjør elementer i et hendelsesforløp, ikke
-kan være innbyrdes uforenlige. Det kan for
-eksempel ikke i relasjon til ett bevis hevdes at
-gjerningspersonen ikke var til stede på åstedet,
-samtidig som et annet bevis forklares med at det
-
-2
-
-3
-
-Til ny § 305 a
-
-Riksadvokatens rundskriv (3/2018) s. 15.
-
-Kolflaath (2023) s. 134–135.
-
-[Side 533]
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-forelå en nødverge- eller nødrettssituasjon. Forklaringene på de ulike bevisene må kunne forenes
-i et sammenhengende hendelsesforløp. For det
-tredje vil en eventuell overoppfyllelse av terskelen
-«vanskelig å forklare» i det ene kravet kunne
-påvirke terskelen i det andre kravet. Er det umulig
-å forklare et bevis i samsvar med uskyldig-hypotesen (bokstav a), vil det etter forholdene kunne
-heve terskelen noe for hvilke opplysninger som
-anses «vanskelig å forklare» i samsvar med skyldig-hypotesen (bokstav b).
-Tredje ledd gjør det klart at bevisvurderingen
-ikke er helt fri. Bevisbedømmeren er som følge av
-
-531
-
-Kapittel 16
-
-formålet om å klarlegge den materielle sannhet
-forpliktet til å vurdere bevisene i saken grundig
-og samvittighetsfullt og i samsvar med alminnelige erfaringssetninger og kjensgjerninger. Formuleringen «fremmer sannhet» i bestemmelsen
-skal tolkes i samsvar med at dommeren samvittighetsfullt må vurdere om bevismaterialet som er
-presentert for retten, oppfyller beviskravet.4 Se
-omtalen i punkt 13.4.4. Se også NOU 2016: 24 s.
-573.
-4
-
-Kolflaath (2018) s. 375 og Kjelby (2015b) s. 84–89.
-
-[Side 534]
-
-532
-
-Kilder
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-Kilder
-Litteratur
-Aaen (2022): Aaen, Malin, «Påtalemyndighetens
-objektivitetsplikt», Tidsskrift for strafferett,
-2022 s. 189–213.
-Aall (2021): Aall, Jørgen, Rettsstat og menneskerettigheter 2. Statens plikt til effektiv og betryggende straffeforfølgning, 2021.
-Aarli (2011): Aarli, Ragna, DNA-bevis. Rettssikkerhet ved bruk av DNA-sakkyndighet i kampen
-mot kriminalitet, 2011.
-Andenæs (1962): Andenæs, Johs., Straffeprosessen
-i første instans, 1962.
-Andenæs (1987): Andenæs, Johs., «God åklagarsed», Forhandlinger på det 31. nordiske juristmøte, Helsingfors 1987, del I, s. 59–70.
-Andenæs (2000): Andenæs, Johs., Norsk straffeprosess, 2000.
-Andenæs (2009): Andenæs, Johs., Norsk straffeprosess, 4. utg. ved Tor-Geir Myhrer, 2009.
-Andorsen (2000): Andorsen, Kjell V., «Mistenktes
-rett til dokumentinnsyn på etterforskningsstadiet», Lov og Rett, 2000 s. 26–45.
-Berg (2017): Berg, Bjørn O., «Når beviskravet
-løper løpsk», Lov og Rett, 2017 s. 3–14.
-Bjørndal mfl. (2021): Bjørndal, Ludvig Daae mfl.,
-«Norwegian judges’ knowledge of factors affecting eyewitness testimony: a 12-year followup», Psychiatry, Psychology & Law, 2021 s. 665–
-682.
-Bratholm og Stridbeck (1998): Bratholm, Anders
-og Ulf Stridbeck, «Rettssikkerhet i praksis. En
-empirisk undersøkelse», Lov og Rett, 1998 s.
-323–363.
-Bratholm og Eskeland (2008): Bratholm, Anders
-og Ståle Eskeland (red.), Justismord og rettssikkerhet, 2008.
-Brennen og Magnussen (2020): Brennen, Tim og
-Svein Magnussen, «Research on non-verbal
-signs of lies and deceit: A blind alley», Frontiers in Psychology, 2020 s. 1–4.
-Brennen og Magnussen (2023): Brennen, Tim og
-Svein Magnussen, «Lie detection: What
-works?», Association for Psychological Science,
-2023 s. 1–7.
-
-Budowle mfl. (2001): Budowle, Bruce mfl., Low
-Copy Number – consideration and caution,
-Laboratory Division, FBI, 2001.
-Bårdsen (2014): Bårdsen, Arnfinn, «Anketillatelse
-til Norges Høyesterett», Lov og Rett, 2014 s.
-529–549.
-Eide (2020): Eide, Erling, «Usikre bevis og juristutdannelsen», Lov og Rett, 2020 s. 3–18.
-Fahsing og Ask (2013): Fahsing, Ivar og Karl Ask,
-«Decision making and decisional tipping
-points in homicide investigations: An interview
-study of British and Norwegian detectives»,
-Journal of Investigative Psychology and Offender
-Profiling, 2013 s. 155–165.
-Fahsing (2016): Fahsing, Ivar, The making of an
-expert detective. Thinking and deciding in criminal investigations, 2016.
-Gill mfl. (2000): Gill, Peter mfl., «An investigation
-of the rigor of interpretation rules for STRs
-derived from less than 100 pg of DNA», Forensic Science International, 2000 s. 17–40.
-Gill (2001): Gill, Peter, «Application of Low Copy
-Number profiling», Croation Medical Journal,
-2001 s. 229–232.
-Graver (2009): Graver, Hans Petter, «Bevisbedømmelse – uvitenskapelig magefølelse eller rasjonell helhetsvurdering?», Tidsskrift for rettsvitenskap, 2009 s. 191–233.
-Hagerup (1904): Hagerup, Francis, Den norske
-straffeproces. Første bind, 2. utg., 1904.
-Hamremoen (2015): Hamremoen, Ellen, «Politiets
-åstedsundersøkelse», i Bevis i straffesaker.
-Utvalgte emner, Ragna Aarli, Mary-Ann Hedlund og Sverre Erik Jebens (red.), 2015 s. 197–
-224.
-Høgberg (2015): Høgberg, Alf Petter, «Gjenopptakelseskommisjonens lovanvendelse i Torgersen-saken», Lov og Rett, 2015 s. 441–443.
-Hansen (2013): Hansen, Asbjørn, Menneskejeger,
-2013.
-Høyland (2003): Høyland, Jon, «Hva styrer dommerens valg? Irrelevante og ubevisste faktorers betydning for domstolenes avgjørelser»,
-Lov og Rett, 2003 s. 21–40.
-
-[Side 535]
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-Inbau, Reid og Buckley (1986): Inbau, Fred E.,
-John F. Reid og Joseph P. Buckley, Criminal
-interrogation and confessions, 3. utg., 1986.
-Jahr (2018): Jahr, Bjørn Olav, Drapene i Baneheia.
-To historier. En sannhet, 2018.
-Jahr (2021): Jahr, Bjørn Olav, Prosessen mot Viggo
-Kristiansen, 2021
-Jansen (2022): Jansen, Gabriele, Zeuge und Aussagepsychologie, 3. Auflage, 2022.
-Jerkø (2017): Jerkø, Markus, Bevisvurderingens
-rettslige rammer. Bevistema, bevisbyrde, beviskrav, 2017.
-Jerkø (2022): Jerkø, Markus, «Gjenopptakelseskommisjonens paradoksale dissens», Lov og
-Rett, 2022, s. 69–96.
-Keiserud mfl. (2025): Keiserud, Erik, Knut Erik
-Sæther, Morten Holmboe, Hans-Petter Jahre,
-Magnus Matningsdal og Jarle Golten Smørdal,
-Straffeprosessloven. Lovkommentar, Juridika,
-bekreftet à jour 1. juli 2025.
-Kjelby (2015a): Kjelby, Gert Johan, «Some aspects
-of and perspectives on the public prosecutor’s
-objectivity according to ECtHR case-law», Bergen Journal of Criminal Law and Criminal
-Justice, 2015 s. 61–83.
-Kjelby (2015b): Kjelby, Gert Johan, «Bevisrettens
-grunnprinsipper og hovedregler i straffesaker», i Bevis i straffesaker. Utvalgte emner,
-Ragna Aarli, Mary-Ann Hedlund og Sverre
-Erik Jebens (red.), 2015 s. 79–152.
-Kjelby (2023): Kjelby, Gert Johan, Påtalerett, 3.
-utg., 2023.
-Kolflaath (2011): Kolflaath, Eivind, «Bevist utover
-enhver rimelig tvil», Tidsskrift for rettsvitenskap, 2011 s. 135–196.
-Kolflaath (2013): Kolflaath, Eivind, Bevisbedømmelse i praksis, 2013.
-Kolflaath (2013b): Kolflaath, Eivind, «Bevis for
-modus operandi, og modus operandi som
-bevis», i Rettssikker radikaler. Festskrift til Ståle
-Eskeland Alf Petter Høgberg mfl. (red.) 2013 s.
-149–170.
-Kolflaath og Strandberg (2015): Kolflaath, Eivind
-og Magne Strandberg, «Tre epoker i norsk
-bevisteori – med særlig vekt på straffeprosessen», i Bevis i straffesaker. Utvalgte emner,
-Ragna Aarli, Mary-Ann Hedlund og Sverre
-Erik Jebens (red.), 2015 s. 33–48.
-Kolflaath (2018): Kolflaath, Eivind, «Domskonferansen i straffesaker», Lov og Rett, 2018 s. 359–
-377.
-Kolflaath (2023): Kolflaath, Eivind, «Riksadvokatens operasjonalisering av beviskravet», Tidsskrift for strafferett, 2023 s. 128–138.
-
-533
-
-Kilder
-
-Kolflaath (2025): Kolflaath, Eivind, Etterforskningens logikk, Karnov forlag (KARNOV-2023-18),
-1. utgave, 2. versjon (sist oppdatert 1. juli
-2025).
-Kvamme (2023): Kvamme, Ole Dag, Historien om
-et varslet justismord, 2023.
-Langbach (2016): Langbach, Tor, Straffesaksbehandlingen i tingrettene, 2. utg., 2016.
-Lie (2020): Lie, Nils Erik, «Vilkårene for gjenåpning etter straffeprosessloven § 391 nr. 3, særlig om forståelsen av uttrykkene ‘ny omstendighet’ og ‘nytt bevis’», Lov og Rett, 2020 s.
-293–311.
-Løvlie (2014): Løvlie, Anders, Rettslige faktabegreper, 2014.
-Magnussen (2025): Magnussen, Svein, Vitnepsykologi 3.0, 3. utg., 2025.
-Magnussen og Stridbeck (2001): Magnussen,
-Svein og Ulf Stridbeck, «Vurdering av troverdighet: Hva sier forskningen?», Tidsskrift for
-strafferett, 2001 s. 81–97.
-Magnussen og Stridbeck (2020): Magnussen,
-Svein og Ulf Stridbeck, «Vurdering av troverdighet: Hva sier forskningen anno 2020?»,
-Tidsskrift for strafferett, 2020 s. 6–17.
-Magnussen og Stridbeck (2025), Magnussen,
-Svein og Ulf Stridbeck, «Vurdering av troverdighet som rettslig bevis: En vitnepsykologisk
-kommentar til Høyesteretts dom 2025-458-A»,
-Tidsskrift for strafferett, 2025 s. 289–297.
-Magnussen og Teigen (2020): Magnussen, Svein
-og Karl Halvor Teigen, «Kognitive slagsider og
-snarveier i vurdering av bevis», Lov og Rett,
-2020 s. 19–42.
-Magnussen og Teigen (2023): Magnussen, Svein
-og Karl Halvor Teigen, «Hvorfor tror retten på
-kriminelle informanter?», Lov og Rett, 2023 s.
-37–48.
-Magnussen mfl. (2008): Magnussen, Svein mfl.,
-«What judges know about eyewitness testimony: A comparison of Norwegian and US
-judges», Psychology, Crime & Law, 2008 s. 177–
-188.
-Moi (2011): Moi, Hilde, Savnet i Baneheia. Drapene som rystet Norge, 2011.
-Pedersen og Storaker (2003): Pedersen, Arne og
-Magne Storaker, «Udåden i Baneheia», i Nordisk kriminalkrønike, Bjørn Enoksen mfl.
-(red.), 2003 s. 41–54.
-Pedersen (2016): Pedersen, Jussi Erik, Begrunnelse av rettsavgjørelser, 2016.
-Pedersen (2017): Pedersen, Frode Helmich,
-«Domsfortellingens plausibilitet. En analyse
-av rettens fortelling i Baneheiasaken», Retfærd, 2017 s. 4–23.
+Utvalget mener videre at det bør iverksettes tiltak som sikrer at det i hvert fall i drapssaker gjøres rettsmedisinske undersøkelser av lik på åstedet. Dette bør skje ved at det etableres en regional beredskapsvaktsordning som sikrer at det til enhver tid er tilgjengelige rettsmedisinere for politidistriktene. Utvalget anbefaler at dette gjøres gjennom føringer i oppdragsdokumentene til de regionale helseforetakene.

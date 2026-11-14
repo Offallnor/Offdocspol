@@ -1,865 +1,177 @@
-# NOU 2026: 3, del 46 av 50 (side 493–501)
+# NOU 2026: 3, del 46 av 56
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2026/9cee8194-nou-2026-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2026-3/id3149017/
-- Tekst: hentet fra PDF. OBS: 5 tabeller, 20 figurer, 145 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 493]
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-Straffeprosessutvalgets forslag er foreløpig ikke
-fulgt opp av Justis- og beredskapsdepartementet.
-Baneheia-utvalget er enig med Straffeprosessutvalget i at man bør lovfeste en alminnelig plikt til
-å oppbevare bevis på en forsvarlig måte, og at
-nærmere bestemmelser om lagring av bevismateriale fortrinnsvis bør reguleres i forskrift. Et alternativ til forskriftsregulering er å gi nærmere retningslinjer om lagring av bevis som tilsvarer Politidirektoratets rundskriv 1. oktober 2010 om
-behandling av beslag i straffesaker. For at nye
-regler skal fungere tilfredsstillende i praksis, er
-det – som også Straffeprosessutvalget påpeker –
-viktig at berørte myndigheter, herunder Kripos,
-Riksadvokatembetet, Politidirektoratet og Gjenopptakelseskommisjonen, trekkes inn i arbeidet
-og gis anledning til å komme med innspill.
-Det vises til forslaget til ny § 226 a i straffeprosessloven i punkt 16.1 og spesialmerknaden til
-bestemmelsen i punkt 16.2.
-
-13.7.4 Utvidelse av adgangen til å oppbevare
-beslag etter sakens avslutning
-13.7.4.1 Innledning
-I punkt 13.7.4.2 gis det en fremstilling av gjeldende rett om adgangen til å oppbevare beslag
-etter at straffesaken er endelig avgjort. Utvalgets
-vurderinger og forslag til endringer gis i punkt
-13.7.4.3.
-13.7.4.2 Gjeldende rett
-Ting som antas å ha betydning som bevis, kan
-beslaglegges inntil rettskraftig dom foreligger i
-saken, jf. straffeprosessloven § 203. Det samme
-gjelder ting som antas å kunne inndras eller å
-kunne kreves utlevert av fornærmede. Utrykket
-«ting» er omfattende og refererer til alt som kan
-tas hånd om av politiet for de beslagsformål loven
-anerkjenner, det vil si for å nyttiggjøres som bevis,
-for å inndras eller for å utleveres til fornærmede.249 Blant annet omfattes løsøre, fast eiendom, biologisk materiale, dokumenter, elektronisk lagrede opplysninger og domenenavn.250
-Utrykket «ting» gir ingen avgrensning av når
-beslagsinstituttet må tas i bruk. De samme bevismidlene vil i mange tilfeller kunne innhentes av
-249 NOU 2016: 24 punkt 14.8.1 s. 337.
-
-250 Forholdet mellom beslagsinstituttet og øvrige rettsgrunn-
-
-lag for bevisinnhenting omtales grundig i riksadvokatens
-brev 26. juni 2024 om retningslinjer om realbevis i straffesaker, se riksadvokaten (26.06.24). Se punkt 13.7.3 foran.
-
-491
-
-Kapittel 13
-
-politiet på annet rettsgrunnlag, jf. punkt 13.7.3
-foran. Veiledning kan søkes i at hovedformålet
-med beslagsreglene er å regulere adgangen til
-inngrep i den private eiendomsretten. Riksadvokaten har i brev 26. juni 2024 fremholdt:
-«Sammenhengen mellom de ulike reglene om
-bevisinnhenting tilsier […] at hvorvidt det er
-nødvendig å anvende reglene om beslag, særlig vil avhenge av om bevissikringen har karakter av inngrep i eiendomsretten eller retten til
-besittelse av andres eiendom. Hvis dette ikke
-er tilfelle, må det antas at de alminnelige
-reglene om etterforsking og gransking, samt
-reglene om ransaking, i stor utstrekning vil gi
-tilstrekkelig hjemmel for bevisinnhentingen.»251
-
-Selv om bevisinnhentingen ikke utgjør et inngrep
-i eiendomsretten, er det ikke noe i veien for å
-benytte beslagsreglene såfremt vilkårene ellers er
-oppfylt. I så fall vil straffeprosessloven kapittel 16
-om beslag regulere behandlingen av beviset, herunder adgangen til å opprettholde beslaget etter
-at saken er avsluttet.
-Enhver som rammes av et beslag, kan straks
-eller senere få spørsmålet om hvorvidt beslaget
-skal opprettholdes, brakt inn for retten, jf. straffeprosessloven § 208. Påtalemyndigheten skal gjøre
-vedkommende kjent med denne retten. Rettens
-avgjørelse treffes ved kjennelse. Retten kan prøve
-alle sider av saken, herunder om beslaget er uforholdsmessig, jf. straffeprosessloven § 170 a.
-Bortfaller behovet for beslaget før saken er
-endelig avgjort, skal det heves av påtalemyndigheten eller retten, jf. straffeprosessloven § 213 første
-ledd. Dette kan være aktuelt når vilkårene for
-beslag ikke lenger er til stede, eller hvis behovet
-for bevissikring er ivaretatt på annen måte, jf. påtaleinstruksen § 9-5 andre ledd.252
-Adgangen til å opprettholde beslag etter at
-saken er endelig avgjort, er regulert i straffeprosessloven § 213 andre ledd:
-«For øvrig faller beslaget bort når saken er
-endelig avgjort. Retten kan bestemme at
-beslag av bevismidler skal opprettholdes også
-etter at det foreligger rettskraftig dom i saken,
-såfremt og så lenge det er grunn til å regne
-251 Riksadvokaten (26.06.24) s. 5.
-
-252 Heving av beslaget utelukker ikke at opplysninger som er
-
-avledet av beslaget, for eksempel bevis innhentet gjennom
-granskning av beslaglagte gjenstander, jf. straffeprosessloven kapittel 12, beholdes som en del av etterforskningsmaterialet. Se riksadvokaten (26.06.24) s. 4–5.
-
-[Side 494]
-
-492
-
-Kapittel 13
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-med at saken kan bli begjært gjenåpnet eller
-andre særlige forhold tilsier det.»
-
-Straffesaken er «endelig avgjort» ved rettskraftig
-dom eller når forelegg er vedtatt. Der saken er henlagt av påtalemyndigheten, er saken endelig
-avgjort når omgjøringsfristen etter straffeprosessloven § 75 andre ledd og muligheten for omgjøring etter klage, jf. straffeprosessloven § 59 a, er
-utløpt.253 Adgangen etter straffeprosessloven § 213
-andre ledd andre punktum til å opprettholde beslag
-av bevismidler etter at saken er endelig avgjort,
-gjelder kun ved rettskraftig dom.
-Alternativet om at «det er grunn til å regne
-med at saken kan bli begjært gjenåpnet», er åpenbart oppfylt når det er varslet at saken vil bli
-begjært gjenåpnet. Etter omstendighetene kan
-det også være grunn til å forvente gjenåpningssak
-ut fra den aktuelle bevissituasjonen og påstander
-som har vært fremsatt i saken. Alternativet om at
-«andre særlige grunner tilsier» opprettholdelse av
-beslaget, er en særlig unntaksregel for tilfeller
-hvor utlevering kan gripe inn i klart beskyttelsesverdige interesser.254
-Straffeprosessloven § 213 andre ledd andre
-punktum om opprettholdelse av beslaget etter at
-det foreligger rettskraftig dom, var en nyvinning
-da straffeprosessloven ble vedtatt. I forarbeidene
-uttales følgende om regelens anvendelsesområde:
-«Det er her først og fremst tenkt på at muligheten for gjenopptakelse av en rettskraftig avgjort
-sak kan gjøre det betenkelig å utlevere viktige
-bevismidler i saken, men også andre særlige
-forhold kan tilsi en opprettholdelse av beslaget.
-Forutsetningen må da være at tingen ikke kan
-inndras. Det gjelder f.eks. et drapsvåpen tilhørende tredjemann […]. Kanskje ville det være
-støtende om eieren skulle ha anledning til å
-gjøre seg nytte av at tingen var brukt som
-drapsvåpen, og kanskje er det i offentlig
-interesse at tingen bevares for ettertiden på
-grunn av sakens historiske interesse. – Hvis
-opprettholdelsen av beslaget har karakter av
-ekspropriasjon, kan det ytes erstatning etter
-regelen i utk. § 426. – Man har ansett det unød253
-
-Henleggelsesbeslutningen må imidlertid tolkes for å
-avklare hvilke forhold som er endelig avgjort. En henleggelse mot en bestemt person hindrer ikke nødvendigvis
-etterforskning mot andre personer eller videre etterforskning på saksnivå. Vurderingstemaet er om det i lys av den
-videre etterforskningen er grunnlag for å opprettholde
-beslaget. Se riksadvokaten (26.06.24) s. 8–9.
-254 NOU 2016: 24 s. 616–617 (spesialmerknad til lovutkastet
-§ 19-4).
-
-vendig å si uttrykkelig at retten kan sette frist
-for varigheten av beslag etter annet ledds annet
-punktum.»255
-
-Som det fremgår av sitatet, er adgangen aktuell
-for bevismidler som ikke kan inndras. En ting som
-er beslaglagt med sikte på inndragning, må gjøres
-opp i tilknytning til den endelige avgjørelsen av
-saken, jf. Rt. 1990 s. 713.
-Når beslaget oppheves, skal tingen straks utleveres til den berettigede, jf. straffeprosessloven
-§ 214. Normalt vil dette være den fornærmede
-eller den personen beslaget ble tatt hos. Riksadvokaten har i brev 26. juni 2024 gitt uttrykk for at
-plikten må forstås med enkelte presiseringer:
-«Endelig bemerkes at selv om et beslag faller
-bort når saken henlegges, kan gjenstanden
-etter omstendighetene holdes tilbake på annet
-grunnlag. Plikten til utlevering etter straffeprosessloven § 214 forutsetter dessuten at noen
-har interesse av å motta tingen. Eierløse gjenstander og ting som berørte personer åpenbart
-ikke har noen interesse av å få utlevert, må det
-således antas at politiet kan beholde, når det
-etter sakens art og forholdene ellers er grunn
-til det. I tvilstilfelle må spørsmålet avklares
-med den som kan ha krav på utlevering.»256
-
-Straffeprosessloven kapittel 16 – herunder §§ 213
-og 214 om heving, videre oppbevaring og utlevering – gjelder bare ting som er tatt i beslag. For
-andre bevismidler og straffesaksopplysninger
-reguleres spørsmålet om videre oppbevaring av
-politiregisterloven og politiregisterforskriften.257
-For det første følger det av politiregisterforskriften §§ 25-1 til 25-3 at straffesakens dokumenter skal
-oppbevares også etter at saken er avsluttet, jf.
-punkt 13.9.4. Lagringsplikten er evigvarende.258
-Videre fastslår politiregisterforskriften § 45-18 at
-spormateriale for DNA kan oppbevares «så lenge
-det finnes hensiktsmessig», jf. punkt 13.9.3. Dette
-gjelder både i oppklarte og uoppklarte saker.
-Andre opplysninger i straffesaker enn de som er
-nevnt foran, reguleres av politiregisterloven
-§ 50.259 Første ledd fastslår at opplysninger ikke
-skal lagres lenger enn det som er nødvendig ut fra
-255 NUT 1969:3 s. 256.
-
-256 Riksadvokaten (26.06.24) s. 9.
-
-257 Riksadvokaten (26.06.24) s. 7 flg.
-
-258 Se politiregisterforskriften § 25-3 siste ledd, som fastslår at
-
-dokumentene skal overleveres Arkivverket i henhold til de
-regler som er fastsatt om dette. Arkivmateriale på papir
-skal overleveres når det er om lag 25–30 år gammelt, jf.
-Riksarkivarens forskrift § 5-5 fjerde ledd og § 6-2.
-
-[Side 495]
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-formålet med behandlingen, jf. punkt 13.9.4.
-Bestemmelsen hjemler oppbevaring av opplysninger også etter at saken er avsluttet, i den grad det
-er grunn til det i lys av reglene om gjenåpning av
-dommer eller gjenopptakelse av straffeforfølgningen.
-Riksadvokaten har i brev 26. juni 2024 til politidistriktene og statsadvokatembetene gitt enkelte
-retningslinjer for når det kan være grunn til å vurdere videre oppbevaring av realbevis etter at
-saken er endelig avgjort. Direktivene gjelder også
-for ting som er tatt i beslag. Fra brevet siteres:
-«Riksadvokaten understreker igjen viktigheten
-av at det i alvorlige straffesaker vurderes nøye
-om det er grunnlag – herunder behov – for
-videre oppbevaring av realbevis, etter at saken
-er avsluttet. Grunnlaget for videre oppbevaring
-vil avhenge av en rekke ulike omstendigheter
-og må vurderes konkret i hver enkelt sak. En
-finner derfor ikke grunn til å gi nærmere føringer om kriterier mv. for når videre oppbevaring
-bør finne sted. Saker der noen er død som følge
-av en mulig straffbar handling og andre saker
-om alvorlig integritetskrenkelse tilhører imidlertid kjerneområdet for saker der spørsmålet
-om videre oppbevaring alltid skal vurderes.
-Det forutsettes at statsadvokatene i samarbeid
-med politidistriktene og særorganene etablerer gode rutiner for å behandle spørsmål om
-oppbevaring av realbevis i avsluttede straffesaker, i tråd med det ovenstående.»260
-
-13.7.4.3 Utvalgets vurderinger
-Som fremstillingen foran viser, vil det rettslige
-grunnlaget for videre oppbevaring av bevismidler
-og opplysninger etter at straffesaken er avsluttet,
-kunne variere. Det er knapt grenser for hvilke
-ting og gjenstander som kan tas i beslag. Om det
-er nødvendig å bruke beslagsreglene eller ikke, vil
-primært bero på om bevissikringen har karakter
-av å være inngrep i den private eiendomsretten.
-Uavhengig av dette benyttes beslagsinstituttet i
-stor utstrekning ved innhenting og oppbevaring
-av bevis i straffesaker. Utformingen av reglene om
-beslag har derfor stor betydning.
-Videre oppbevaring av beslaglagte bevismidler etter at straffesaken er endelig avgjort, reguleres av straffeprosessloven § 213 andre ledd.
-Adgangen er – som nevnt over i omtalen av gjel259
-
-Tredje ledd inneholder særlige regler om oppbevaring av
-opplysninger fra kommunikasjonskontroll.
-260 Riksadvokaten (26.06.24) s. 12.
-
-493
-
-Kapittel 13
-
-dende rett – aktuell for bevismidler som ikke kan
-inndras. Utvalget mener at regelen i § 213 andre
-ledd i større grad bør tilpasses dagens behov for
-bevissikring og foreslår enkelte lovendringer i
-tråd med dette. Utvalgets inntrykk er at bestemmelsen i svært liten grad anvendes i praksis.261
-Det er derfor et mål i seg selv at regelen gjøres
-praktikabel. Utvalget går dessuten inn for enkelte
-justeringer av bestemmelsen for å ivareta hensynet til den som rammes av beslaget.
-Utvalget mener for det første at påtalemyndigheten og ikke domstolen bør gis den primære
-beslutningskompetansen etter bestemmelsen.262
-Den som rammes, skal til gjengjeld gjøres kjent
-med at spørsmålet om hvorvidt beslaget skal opprettholdes, kan kreves brakt inn for retten, jf. straffeprosessloven § 208. Etter forslaget vil spørsmålet bare bli brakt inn for domstolen når den som
-rammes av beslaget, ønsker en rettslig prøving.
-Dette vil gjøre prosessen mer effektiv enn etter
-dagens ordning. Forslaget vurderes som rettssikkerhetsmessig forsvarlig, ettersom behovet for
-rettslig kontroll først og fremst gjør seg gjeldende
-når det er tvist om hvorvidt beslaget skal opprettholdes.
-For det andre bør adgangen til å beslutte
-videre beslag etter at saken er endelig avgjort,
-ikke være avgrenset til saker hvor det foreligger
-rettskraftig dom. Etter omstendighetene bør
-beslag også kunne opprettholdes når saken er
-henlagt med endelig virkning, såfremt det er
-grunn til å anta at det kan bli spørsmål om gjenopptakelse av forfølgningen, jf. straffeprosessloven § 74. Utvalget har i denne forbindelse sett hen
-til at de ovennevnte reglene i politiregisterloven
-og politiregisterforskriften ikke stenger for å
-beholde bevismateriale i slike tilfeller. Etter utval261 Se også Politidirektoratet (23.05.08) s. 19: «Bestemmelsen
-
-er ny i den någjeldende straffeprosesslov, og hvorvidt
-bestemmelsen anvendes i praksis er tvilsomt».
-262 Se Politidirektoratet (23.05.08) s. 19: «Etter arbeidsgruppens oppfatning bør primærkompetansen til å beslutte
-videre beslag ligge hos påtalemyndigheten i politiet, slik
-situasjonen er før rettskraftig dom. Bakgrunnen for dette
-er for det første at i de langt fleste tilfeller vil opprettholdelse av beslag ikke medføre noen uenighet idet de fleste
-relevante bevis ikke har noen eier som vil imøtegå videre
-beslag eller forlenget lagring, og for det annet vil trolig
-domstolen være mindre egnet til å vurdere behovet for opprettholdelse av en rekke bevis som den aldri har fått seg
-forelagt, enten fordi de aktuelle bevismidler ikke har vært
-av en slik art at det har vært nødvendig å forelegge dem for
-retten eller på grunn av at det ikke har vært utferdiget
-noen tiltale i saken. Ved tilståelsesdommer vil retten i det
-alt vesentlige befatte seg med siktedes forklaring og trolig
-kun unntaksvis gå inn i sakens beslag og øvrige bevisgjenstander.» Se også NOU 2016: 24 punkt 1.2 s. 54 (Straffeprosessutvalgets lovutkast § 19-4 andre ledd).
-
-[Side 496]
-
-494
-
-Kapittel 13
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-gets syn bør reguleringen i beslagstilfellene være
-tilnærmet likeartet, med mindre avvik kan
-begrunnes i særlige hensyn. At beslagsreglenes
-hovedformål er å regulere adgangen til inngrep i
-den private eiendomsretten, eventuelt retten til å
-besitte andres eiendom, må i denne sammenheng
-vektlegges. Dette er annerledes for bevis som innhentes i medhold av andre rettslige grunnlag. Ved
-den konkrete vurderingen må derfor behovet for
-videre oppbevaring av bevismidlene avveies mot
-de konkrete ulempene som inngrepet i eiendomsretten innebærer for rettighetshaveren, jf. straffeprosessloven § 170 a.
-For det tredje mener utvalget at vilkåret «det
-er grunn til å regne med at saken kan bli begjært
-gjenåpnet», er et lite formålstjenlig kriterium.
-Hovedgrunnlaget for gjenåpning er nettopp at det
-kommer frem nye bevis eller omstendigheter, noe
-som kan være vanskelig å forutse. I en del tilfeller
-vil gjenåpningsbegjæringer kunne komme overraskende på påtalemyndigheten, kanskje mange
-år etter at dommen ble rettskraftig. Kriteriet gir
-dessuten anvisning på skjønnsmessige vurderinger som kan sprike fra ett politidistrikt til det
-neste.
-Etter utvalgets vurdering er det en fordel å ha
-et kriterium som er felles for gjenåpning av rettskraftige dommer (straffeprosessloven kapittel 27)
-og henlagte saker hvor det kan bli spørsmål om
-forfølgningen skal tas opp på ny (straffeprosessloven § 74). Gode grunner taler dessuten for at
-adgangen til videre oppbevaring ikke er for snever. Etter utvalgets endringsforslag kan beslag av
-bevismidler opprettholdes også etter at saken er
-avsluttet, «når det er grunn til det i lys av reglene
-om gjenåpning i kapittel 27 eller gjenopptakelse av
-forfølgingen i § 74, eller når andre særlige forhold
-tilsier det», jf. forslaget til endring av straffeprosessloven § 213 andre ledd.
-For det fjerde bør det fremgå eksplisitt av
-loven at det kan settes en frist for varigheten av
-beslaget. Beslutninger om å opprettholde beslag
-vil i mange tilfeller innebære inngrep i eiendomsretten, eventuelt retten til å besitte andres eiendom, og det er ønskelig å motvirke beslag som i
-praksis er «evigvarende». At det settes en frist for
-varigheten av beslaget, markerer tydelig at eiendomsretten til tingen ikke er overdratt med endelig virkning. Påtalemyndigheten eller retten bør
-kunne beslutte forlengelse av fristen. Viser det
-seg før utløpet av fristen at det ikke lenger er
-behov for bevismidlet, skal beslaget heves, jf.
-straffeprosessloven § 213 første ledd, jf. § 170 a.
-Utvalget mener for det femte at loven bør synliggjøre at erstatning skal ytes når det fremstår
-
-som rimelig, sml. straffeprosessloven § 448.
-Erstatning vil være aktuelt når beslaget forventes
-å være særlig langvarig, men også der opprettholdelsen har karakter av ekspropriasjon, jf. NUT
-1969:3 s. 256.
-Det vises til forslaget til endring av straffeprosessloven § 213 andre ledd med spesialmerknad,
-se punkt 16.1 og 16.2.
-
-13.7.5 Lyd- og bildeopptak av forhandlinger
-i straffesaker
-13.7.5.1 Innledning
-Lyd- og bildeopptak av domstolsbehandlingen av
-norske straffesaker har vært tema i en rekke rapporter og utredninger de siste tiårene. I punkt
-13.7.5.2 gjør utvalget rede for gjeldende rett. En
-fremstilling av tidligere prøveprosjekter, regelverksarbeid og status for innføring av opptak i
-norske domstoler gis deretter i punkt 13.7.5.3.
-Utvalgets vurderinger og anbefalinger presenteres til sist i punkt 13.7.5.4.
-13.7.5.2 Gjeldende rett
-Etter straffeprosessloven § 23 skal det under
-hoved- og ankeforhandling foretas opptak av forklaringer fra parter, vitner og sakkyndige. Retten kan i
-tillegg beslutte at det skal tas opptak av andre deler
-av forhandlingene og under andre rettsmøter.263
-Eventuelle opptak skal inntas i rettsboken og arkiveres sammen med saken, jf. straffeprosessloven
-§ 23 sjette ledd.264 Dette innebærer at opptakene
-inngår i materialet som ankeinstansen har tilgjengelig under ankesilingen.265
-263 Vurderingen er opp til rettens skjønn, jf. Prop. 63 L (2017–
-
-2018) punkt 3.6 s. 13. Forarbeidene nevner som eksempel
-at retten kan komme til at det bør tas opptak av andre deler
-enn forklaringene «i saker av stor betydning eller dersom
-det av andre grunner av særlig interesse for ettertiden å
-dokumentere disse delene av forhandlingene». Det er imidlertid klart nok at anvendelsesområdet ikke er begrenset til
-slike saker, og det er angitt i forarbeidene at rettens beslutning ikke kan påankes.
-264
-Forskrift 28. september nr. 1471 § 3 fastsetter at «[o]pptak
-skal oppbevares forsvarlig av domstolen og så langt det er
-mulig sikres mot manipulering, spredning og misbruk».
-Opptak fra avsluttede straffesaker skal derimot «oppbevares ved politidistriktet på det sted hvor saken har vært
-behandlet eller hvor fra etterforskningen har vært ledet»,
-jf. politiregisterloven § 25-3.
-265 I forskrift 28. september nr. 1471 § 5 er det gitt følgende
-regel om avspilling av opptak under ankesilingen:
-«Ankedomstolen kan spille av opptak foretatt i underinstansen når den vurderer om en anke skal nektes fremmes.
-Avspillingen bør begrenses til det som anses relevant for
-vurderingen.»
-
-[Side 497]
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-Bestemmelsen i straffeprosessloven § 23 ble
-endret ved lov 22. juni 2018 nr. 79, og er utformet
-etter mønster av den tilsvarende regelen i tvisteloven § 13-7.266 Etter § 23 andre ledd kan opptak
-unnlates dersom retten ikke har tilgjengelig nødvendig utstyr for opptak, eller hvis forklaringene
-inntas i rettsboken. Dette tilsvarer unntaksregelen i tvisteloven § 13-7 andre ledd. Har retten ikke
-utstyr for lyd- og bildeopptak, men bare utstyr for
-lydopptak, skal det i stedet tas lydopptak.
-Til tross for at lovens hovedregel er at det skal
-gjøres opptak i straffesaker, har den praktiske
-hovedregelen til nå vært at det ikke tas opptak.
-Bakgrunnen er at de færreste domstoler inntil
-nylig har hatt nødvendig opptaksutstyr. Den
-nevnte unntakshjemmelen har altså vært benyttet
-i meget stor utstrekning.
-Før lovendringene i 2018 var det ikke lovfestet
-at forklaringer avgitt under hoved- og ankeforhandlingen skulle dokumenteres ved opptak eller
-nedtegnelse i rettsboken.267 En rekke arbeidsgrupper og utvalg har over tid og i ulike sammenhenger tatt til orde for at innholdet i rettslige forklaringer bør dokumenteres i større grad, særlig i
-form av utvidet bruk av opptak. En kortfattet oversikt over tidligere utredninger og forslag er gitt i
-NOU 2016: 24 punkt 6.5.3.2 s. 171.268
-Endringene i straffeprosessloven § 23 kom på
-bakgrunn av et forslag fra Straffeprosessutvalget.269 Utvalget foreslo at lyd- og bildeopptak fra
-forhandlingene i straffesaker skulle være obligatorisk. Om de sentrale argumentene for forslaget
-uttalte utvalget:
-«Den faglige tilrådningen i offentlige utredninger og arbeidsgrupperapporter har gjennom
-flere tiår vært at det i større utstrekning enn i
-dag bør sikres dokumentasjon av innholdet i
-rettslige forklaringer. I sivile saker er hovedregelen at det skal tas opptak av parts- og vitneforklaringer under hovedforhandling. Argumentene for lyd- og bildeopptak er knyttet til de
-grunnleggende hensynene til rettssikkerhet,
-effektivitet og tillit til straffesaksbehandlingen
-[…].
-Utvalget mener at dokumentasjon av forhandlingene er verdifullt og bør sikres. For det
-første får man da helt sikker informasjon om
-266 Prop. 63 L (2017–2018) punkt 3.6 s. 12–13
-
-267 Rettstilstanden før endringslov 22. juni 2018 nr. 79 er omtalt
-
-i NOU 2016: 24 punkt 6.5.3.1 s. 170–171 og Prop. 63 L
-(2017–2018) punkt 3.1 s. 10–11.
-268 For en mer utførlig oversikt se NOU 2011: 13 s. 194–202.
-269
-NOU 2016: 24 punkt 6.5.3 s. 170–172.
-
-495
-
-Kapittel 13
-
-hva som er forklart, noe som på ulikt vis vil
-styrke hensynet til saksopplysning og effektivitet. Av særlig betydning er at slike opptak kan
-benyttes når det skal tas stilling til om en anke
-skal fremmes, og at opptakene gir mulighet for
-gjenbruk av opplysningene ved en eventuell
-ankebehandling. […] Det vil videre ligge en
-besparelse i at man ikke alltid vil måtte gjennomføre en fullstendig ny hovedforhandling
-dersom det er begått en saksbehandlingsfeil
-som leder til opphevelse av dommen, men som
-ikke hefter ved eller kan ha påvirket bevisførselen. Endelig nevnes at opptak av forhandlingene dersom de arkiveres også etter rettskraftig dom, vil være verdifullt for en eventuell sak
-om gjenåpning.»270
-Departementet sluttet seg til Straffeprosessutvalgets vurderinger og fremhevet i tillegg at opptak
-antas å motvirke uønsket prosessatferd og falske
-og tilpassede forklaringer.271
-Straffeprosessutvalgets forslag bygde på en
-forutsetning om at det fantes nødvendig utstyr i
-alle rettssaler, og utkastet åpnet derfor ikke for å
-unnlate opptak med henvisning til domstolens
-manglende utstyr.272 Denne siden av utvalgets forslag ble ikke fulgt opp av departementet, som
-mente det var behov for en unntakshjemmel som
-svarte til den i tvisteloven. Departementet understreket at opptak burde gjennomføres i domstoler
-der det var mulig, og så «ingen overbevisende
-grunn til å avvente innføringen av en regel om
-opptak i straffesaker inntil nødvendig utstyr er på
-plass i alle domstoler».273
-Departementet ønsket heller ikke å følge opp
-forslaget om at forklaringer skulle nedtegnes dersom det ikke ble tatt opptak. For departementet
-var det avgjørende at nedtegning i stor grad ville
-legge bånd på domstolenes ressurser, og at en
-plikt til nedtegning heller ikke fulgte av tvisteloven. Departementet uttalte videre:
-«Etter departementets syn ivaretas behovet for
-dokumentasjon når det ikke tas opptak gjennom adgangen retten har til å føre forklaringer
-inn i rettsboken etter tvisteloven § 13-8 og straffeprosessloven § 21. Departementet utelukker
-likevel ikke at spørsmålet vil bli vurdert annerledes i forbindelse med oppfølgingen av Straf270 NOU 2016: 24 punkt 6.5.3.3 s. 171–172.
-271 Prop. 63 L (2017–2018) punkt 3.6 s. 13.
-
-272 NOU 2016: 24 s. 684 (spesialmerknad til ny § 134 b i dom273
-
-stolloven).
-Prop. 63 L (2017–2018) punkt 3.6 s. 13.
-
-[Side 498]
-
-496
-
-Kapittel 13
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-feprosessutvalgets forslag eller når rettssalene
-etter hvert utstyres slik at hovedregelen i praksis blir at det tas opptak.»274
-
-Straffeprosessutvalget foreslo at opptak av forklaringer avgitt for tingretten «som regel» skulle spilles av for helt eller delvis å tre i stedet for muntlig
-og direkte avhør i annen instans, forutsatt at «hensynet til forsvarlig saksopplysning ikke taler mot
-det», jf. lovutkastets § 10-9 andre ledd. Departementet mente imidlertid at det var ønskelig å
-legge til rette for en utprøving, slik at man på tilfredsstillende måte «kunne ta stilling til om og
-eventuelt hvordan en slik gjenbruksordning bør
-innføres i norsk rett».275 Det ble derfor foreslått
-en hjemmel til å fastsette i forskrift at forklaringer
-som er tatt opp i første instans, skal spilles av i
-utpekte domstoler i annen instans. Forskriftshjemmelen fremgår av straffeprosessloven § 331
-femte ledd:
-«Kongen kan i forskrift gi regler om at opptak
-foretatt etter § 23 i utpekte domstoler skal spilles av for helt eller delvis å tre i stedet for
-direkte forklaring for retten, når hensynet til
-forsvarlig saksbehandling ikke taler imot det.
-Kongen kan gi nærmere regler om avspilling i
-forskrift.»
-
-Nærmere regler om avspilling av opptak i ankeforhandlingen er gitt i forskrift 28. september 2018
-nr. 1471 § 6. Bestemmelsen fastsetter at lyd- og
-bildeopptak276 av forklaringer i hovedforhandlingen skal spilles av for helt eller delvis å tre i stedet
-for direkte forklaringer i ankeforhandlingen. Unntak kan gjøres dersom «hensynet til forsvarlig
-saksbehandling taler mot det». Bestemmelsen
-gjelder bare for de domstoler Domstoladministrasjonen bestemmer.277
-
-274 Prop. 63 L (2017–2018) punkt 3.6 s. 13.
-275 Prop. 63 L (2017–2018) s. 5 og 19–20.
-276
-
-Lydopptak kan ikke avspilles i medhold av bestemmelsen.
-Begrunnelsen er at disse «ikke på samme måte som lyd- og
-bildeopptak fanger opp kroppsspråk og andre forhold som
-kan kaste lys over forklaringene og sørge for en fullverdig
-gjengivelse av dem», jf. Prop. 63 L (2017–2018) punkt 3.6 s.
-13.
-277 Forskrift 17. oktober 2018 nr. 1577 § 1 fastsetter at dette
-gjelder ankeforhandlinger ved Hålogaland lagmannsrett og
-Gulating lagmannsrett for avspilling av opptak ved henholdsvis Nord-Troms og Senja tingrett og Sør-Rogaland
-tingrett.
-
-13.7.5.3 Prøveordninger, regelverksarbeid
-og status for utrulling
-Siden 2016 har Domstoladministrasjonen hatt en
-prøveordning med lyd- og bildeopptak i daværende Nord-Troms tingrett278 og Hålogaland lagmannsrett. Et formål med prøveordningen har
-vært å kartlegge konsekvensene av en eventuell
-innføring av lyd- og bildeopptak ved alle landets
-domstoler. Prøveordningen var begrenset til opptak av forklaringer under hoved- og ankeforhandling. Gjenbruk av opptakene ble ikke prøvd ut.279
-I april 2018 ble prøveordningen organisert som
-et prosjekt og utvidet til å omfatte avspilling av opptak av forklaringer fra tingrettene under en eventuell ankeforhandling. I februar 2019 ble daværende
-Jæren tingrett280 og Gulating lagmannsrett inkludert i prosjektet. Hovedformålet med prosjektet var
-å skaffe til veie et kvalifisert beslutningsgrunnlag
-for bred videreføring av ordningen med opptak i
-retten og gjenbruk av opptakene i annen instans
-når nødvendige ressurser ble tildelt.
-En sluttrapport fra prosjektet ble endelig oversendt Justis- og beredskapsdepartementet 3. juli
-2023.281 Rapporten fremhever at erfaringene med
-bruk av opptak i retten i all hovedsak er gode,
-men at det praktiske rundt gjennomføringen av
-opptakene kan være krevende for dommerne å
-utføre ved siden av øvrige arbeidsoppgaver. Konklusjonen er at det er behov for videreutvikling av
-de tekniske løsningene før opptak kan gjennomføres som en alminnelig ordning i domstolene. Det
-anbefales også endringer i regelverket for lagring,
-innsyn og deling av opptak.
-Etter prosjektgruppens syn er det på området
-for lagring og deling av rettsopptakene at prøveordningen med opptak i retten har kommet kortest. Ettersom opptaksordningen vil generere
-store mengder data, er det behov for hensiktsmessige lagringsløsninger før ordningen kan allmenngjøres. Det må også vurderes hvor lenge opptak i
-ulike saker minimum bør oppbevares, herunder
-for å være til hjelp under en eventuell sak om gjenåpning. For straffesakene fremhever gruppen at
-det ikke gjelder en gjenåpningsfrist, men at det
-«likevel [kan] være grunn til å vurdere om det er
-behov for å oppbevare alle opptak i straffesaker
-for alltid, både ut fra et prosessuelt og et arkivfaglig perspektiv». Prosjektgruppen fremhever generelt at nytteverdien av opptakene bør veies mot
-278 I dag Nord-Troms og Senja tingrett.
-
-279 Prop. 63 L (2017–2018) punkt 2.4 s. 8–10.
-280
-
-I dag Sør-Rogaland tingrett, rettssted Sandnes.
-
-281 Domstoladministrasjonens prosjektgruppe (19.09.22).
-
-[Side 499]
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-kostnadene som påløper ved langs tids lagring.
-Det uttales også:
-«For å unngå at kostnadene ved lagring av hindrer en bred utrulling av ordningen med opptak
-i retten, kan man vurdere å begrense lagringspliktens varighet. Det viktigste er å sørge for at
-det under hovedforhandling foretas opptak av
-parts- og vitneforklaringer, som oppbevares
-fram til saken er rettskraftig avgjort. Det er i
-denne perioden at opptakene har aller størst
-verdi, også av rettssikkerhetshensyn.»282
-
-På bakgrunn av anbefalingene i sluttrapporten
-satte Domstoladministrasjonen i 2023 i gang et
-ytterligere prøveprosjekt i form av et samarbeid
-med Oslo tingrett og Borgarting lagmannsrett.
-Etter etableringen ble Nord-Troms og Senja tingrett, Sør-Rogaland tingrett og Hålogaland lagmannsrett engasjert i prosjektet. Prosjektet har to
-hovedmål: For det første skal det prøves ut en
-antatt fremtidsrettet teknisk løsning for opptak av
-lyd og bilde fra rettsmøter og en ordning for
-strømming, lagring, deling og gjenbruk av opptakene. Løsningen må være brukervennlig og egnet
-til å bli innført i alle domstoler. I tillegg skal prosjektet vurdere behovet for og eventuelt fremme
-forslag til nødvendige regelverksendringer. Prosjektbeskrivelsen angir at det må «tas stilling til
-om det er hensiktsmessig med opptak av part og
-vitneforklaring i tråd med gjeldende regelverk,
-eller om det av rettssikkerhetsmessige hensyn
-bør tas opptak av hele hovedforhandlingen». Det
-skal videre gis en anbefaling om hvor lenge opptak skal lagres, eventuelt om det skal differensieres ut fra sakstyper.
-En utredning om mulige regelverksendringer
-ble oversendt Justis- og beredskapsdepartementet
-15 august 2024.283 Rapporten drøfter argumenter
-for og imot at det skal foretas opptak av rettsforhandlingene i sin helhet eller kun av parts- og vitneforklaringer, men tar ikke endelig stilling til
-spørsmålet. Videre anbefales det at bevaringstiden for opptak bør begrenses og at lagringstiden
-bør kunne differensieres for ulike sakstyper. Det
-ble ikke utarbeidet konkrete forslag til lagringstid
-for ulike sakstyper, men regelverksteamet pekte
-på at relevante hensyn var «hensynet til gjenopptakelse sett opp mot ressursene som kreves for å
-kunne lagre opptaket».284 Rapporten påpeker
-også en rekke endringsbehov knyttet til gjennom282 Opptak i retten – regelverksrapport (15.08.24) s. 65.
-283 Opptak i retten – regelverksrapport (15.08.24).
-
-284 Opptak i retten – regelverksrapport (15.08.24) s. 64.
-
-497
-
-Kapittel 13
-
-føring av opptak, bearbeidelse og etterbehandling
-av opptak, innsynsrett, offentlighet og arkivering.
-I oktober 2024 fremholdt departementet at flere
-av temaene som berøres i rapporten, krever ytterligere utredning, og at forslagene i rapporten ville
-bli vurdert på et senere tidspunkt.285 Den gjeldende reguleringen ble – med ett unntak – ansett
-å gi et tilstrekkelig grunnlag for utrullingen av
-opptaksutstyr til domstolene.286
-I statsbudsjettet for 2024 ble det bevilget 15
-millioner kroner for å legge til rette for lyd- og bildeopptak i domstoler over hele landet.287 Regjeringen har uttalt at alle domstoler i løpet av 2025
-skal ha minimum ett rettssted i hver rettskrets
-med utstyr som gjør det mulig å ta opptak.288 I det
-reviderte nasjonalbudsjettet for 2024 ble det bevilget ytterligere 6,5 millioner kroner til utrulling av
-utstyr, slik at det skal kunne gjøres opptak ved alle
-landets rettssteder.289 Domstolenes driftsbudsjett
-ble også økt med 25 millioner kroner til stabil og
-sikker drift av IT-systemer i domstolene.
-Bevilgningen på 6,5 millioner kroner ble videreført og gjort permanent fra og med 2025.290 I
-budsjettproposisjonen for 2026 heter det:
-«Målet er at den tekniske løysinga gradvis skal
-rullast ut i domstolane, og at tingrettane skal
-vere i stand til å gjere opptak av rettsforhandlingar i minimum éin rettssal per rettsstad. Løyvinga skal nyttast til å kjøpe inn og utplassere
-utstyr i alle domstolar. Deretter skal midlane
-nyttast til å gjennomføre nødvendig drift, forvaltning og utskifting av dette utstyret etter
-kvart som det når si tekniske levetid. Regjeringa har i perioden frå 2022 til og med 2025
-prioritert lyd- og bildeopptak i domstolane, og
-det er til saman løyva 38 mill. kroner til formålet i perioden.
-Tiltaket vil bidra til å auke rettstryggleiken
-ved at det blir enklare å ettergå forklaringar
-285 Justis- og beredskapsdepartementet (21.10.24) s. 8.
-
-286 Utrullingen forutsetter en justering av reglene om avspil-
-
-ling under ankeforhandlingen. Forslaget i høringsnotatet
-15. august 2024 gikk ut på å fjerne begrensningen «i
-utpekte domstoler» i straffeprosessloven § 331 femte ledd
-og tvisteloven §§ 23-2 fjerde ledd og 24-1 fjerde ledd, samt
-oppheve bestemmelsen i forskrift 28. september 2018 nr.
-1471 § 6. Dette åpner for at samtlige av landets ankedomstoler gis adgang til å spille av opptak i ankeforhandlingen.
-Forslaget er fulgt opp i Prop. 163 L (2024–2025), som ble
-fremmet 29. august 2025.
-287 Prop. 1 S (2023–2024).
-288 Justis- og beredskapsdepartementet (14.05.24) punkt 1.6.
-Se også Prop. 104 S (2023–2024) s. 38–39.
-289
-Prop. 104 S (2023–2024) s. 38–39. Se også Justis- og beredskapsdepartementet (14.05.24) punkt 1.6.
-290 Prop. 1 S (2024–2025) s. 81 og Prop. 1 S (2025–2026) s. 91.
-
-[Side 500]
-
-498
-
-Kapittel 13
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-som er gitt i tingretten. Det vil òg effektivisere
-saksbehandlinga i andre rettsinstans ved gjenbruk av opptaka og vitneforklaringar òg gjenbrukas slik at sårbare vitne kan skjermast ved
-ankesaker.»291
-
-13.7.5.4 Utvalgets vurderinger
-Utvalget slutter seg seg til de sentrale argumentene for bruk av opptak i retten som gjennom en
-årrekke er fremsatt av en rekke arbeidsgrupper
-og utvalg, herunder Liland-utvalget,292 Moenutvalget293 og Straffeprosessutvalget.294
-Fra 2018 fremgår det av straffeprosessloven
-§ 23 at det under hoved- og ankeforhandling i
-straffesaker skal tas opptak av forklaringer fra parter, vitner og sakkyndige. At loven oppstiller en
-opptaksplikt for domstolene, er et betydelig fremskritt. Den rommelige unntaksbestemmelsen i
-andre ledd, som åpner for at opptak kan unnlates
-når domstolene mangler nødvendig utstyr, er
-imidlertid blitt lovens praktiske hovedregel – slik
-som i sivile saker. Fortsatt tas det gjennomgående
-ikke opptak av forhandlingene i straffesaker, med
-unntak for domstolene som er involvert i ulike
-prøveordninger, se punkt 13.7.5.3. På dette området skiller Norge seg fra sine naboland og de
-fleste land i Europa. Etter utvalgets vurdering er
-det viktig at nødvendig finansiering kommer på
-plass snarest mulig, slik at domstolenes opptaksplikt blir reell.
-Hadde man hatt opptak fra rettsforhandlingene i Baneheia-saken, ville det hatt betydning på
-flere måter. Eventuelle opptak ville særlig vært
-verdifullt ved behandlingen av Viggo Kristiansens
-ulike gjenåpningsbegjæringer. Et sentralt spørsmål i gjenåpningsprosessen var hvorvidt den
-DNA-sakkyndige i retten ga uttrykk for at det
-forelå sikre bevis for to gjerningspersoner, og i
-hvilken utstrekning mulige feilkilder og kontaminasjonsrisiko ble berørt under rettsforhandlingene. Da Gjenopptakelseskommisjonen vurderte
-disse forholdene i forbindelse med Kristiansens
-siste gjenåpningsbegjæring, var den henvist til å
-konsultere mer eller mindre presise avisreferater
-om hva som ble formidlet i retten. Det sier seg
-selv at dette er betenkelig på et teknisk område
-som DNA, hvor risikoen for misforståelser og feiloppfatninger er overhengende. Opptak ville til
-291 Prop. 1 S (2025–2026) s. 91.
-
-292 Se NOU 1996: 15 punkt 10.7.
-
-293 Se NOU 2007: 7 punkt 13.4.8.
-294
-
-Se NOU 2016: 24 punkt 6.5.
-
-sammenligning gitt sikker informasjon om bevisføringen.
-Det er også på det rene at opptak gir domstolene et bedre beslutningsgrunnlag ved en eventuell ny behandling av saken etter gjenåpning. Dersom det hadde eksistert opptak fra domstolsbehandlingen i 2001–2002, kunne disse vært avspilt i
-forbindelse med behandlingen av den gjenåpnede
-straffesaken mot Jan Helge Andersen i Sør-Rogaland tingrett i 2024 og Gulating lagmannsrett i
-2025. I stedet måtte mange vitner forklare seg om
-forhold som lå 25 år tilbake i tid. Opptak ville også
-kommet til nytte dersom påtalemyndigheten – i
-stedet for å nedlegge påstand om frifinnelse –
-hadde ment at det var grunnlag for videre forfølgning av Viggo Kristiansen etter gjenåpningen av
-dommen mot ham.
-Et annet eksempel fra Baneheia-saken er forsvarer Tore Pettersens anke over saksbehandlingen i lagmannsretten, hvor det ble påberopt at lagmannens gjennomgang av telebeviset og DNAbeviset i rettsbelæringen var ufullstendig og misvisende.295 Hadde det eksistert et opptak av rettsbelæringen, kunne Høyesterett ha vurdert lagmannens utsagn i sammenheng. Siden rettsbelæringen kaster lys over bevisføringen i retten og
-lagrettens vurdering av bevisene, ville sikre opplysninger om innholdet i foredraget også hatt
-betydning ved gjenåpningsvurderingen.
-Endelig er det grunn til å nevne at opptak av
-rettsforhandlingene naturligvis også ville hatt stor
-nytteverdi for granskningen av Baneheia-saken.
-Mangelen på sikre kilder om hva som foregikk i
-forhandlingene, har bydd på visse utfordringer.
-Notoritet om rettsforhandlingene er dermed også
-hensiktsmessig i et læringsperspektiv.
-Stortinget har i senere tid bevilget betydelige
-midler til oppgradering av teknisk utstyr i domstolene, herunder opptaksutstyr. Regjeringen har gitt
-uttrykk for at det skal kunne tas opptak ved samtlige av landets rettssteder i 2025, og at utrullingen
-av opptaksløsningen vil starte høsten 2025. Dette
-er utvilsomt en positiv utvikling. Utvalget vil samtidig understreke at opptak ikke må begrenses til
-de største straffesakene, ettersom behovet for
-bevissikring også er til stede i mellomstore og
-små saker. Målet bør være at det foretas opptak av
-hoved- og ankeforhandlingen i alle straffesaker.
-Dette forutsetter i praksis at de aller fleste rettssaler som er i bruk, må ha nødvendig utstyr.
-295 Forsvarer Tore Pettersens anke til Høyesterett ble inngitt
-
-25. februar 2002, jf. dok 08,17. Ved Høyesteretts kjæremålsutvalgs beslutning 24. april 2002 ble anken ikke tillatt fremmet, jf. dok. 08,24. Beslutningen er ikke nærmere begrunnet.
-
-[Side 501]
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-For tiden pågår det et arbeid i departementet
-med å utrede nødvendige lovendringer, se punkt
-13.7.5.3 foran. Utvalget vil i den forbindelse anbefale at det tas opptak av rettsforhandlingene i sin
-helhet, og ikke bare av parts- og vitneforklaringer.
-En slik ordning er i tråd med Straffeprosessutvalgets forslag og har prinsipielle og praktiske fordeler.296 Sikker informasjon om aktors innledningsforedrag og partenes prosedyreinnlegg kan ha
-betydning i flere sammenhenger, og kanskje særlig ved en eventuell begjæring om gjenåpning.
-Etter gjeldende rett beror det på rettens skjønn
-om andre deler av forhandlingene skal tas opp, jf.
-straffeprosessloven § 23 første ledd andre punktum. Utvalget kan ikke se at det gjør seg gjeldende noen avgjørende motforestillinger mot en
-hovedregel om at det tas opptak av alle deler av
-forhandlingene.
-Utvalget vil også understreke at det er viktig at
-opptak oppbevares så lenge at de kan brukes i forbindelse med en eventuell begjæring om gjenåpning. I straffesaker gjelder det ingen tidsfrist for
-gjenåpning.297 Utvalget mener at opptak i straffesaker som utgangspunkt bør oppbevares frem til
-gjenåpning for alle praktiske formål er utelukket.
-For mindre alvorlige saker kan en kortere oppbevaringstid vurderes, men også for slike saker er
-det ønskelig at opptakene oppbevares i en del år
-etter rettskraftig dom. For de mest alvorlige straffesakene – slik som drapssaker – bør opptakene
-oppbevares for alltid.298
-Ettersom det pågår et arbeid med å revidere
-regelverket i forbindelse med utrullingen av opptaksutstyr til domstolene, fremmer utvalget ikke
-konkrete forslag til lovendringer.
-
-13.8 DNA i straffesaksbehandlingen
-13.8.1 Innledning
-Bevisføring om DNA sto sentralt i Baneheia-saken
-og bidro til at Viggo Kristiansen ble uriktig dom296 NOU 2016: 24 s. 683–684 (spesialmerknad til ny § 134 b i
-
-domstolloven). Domstoladministrasjonens prosjektgruppe
-(19.09.22) påpeker at den praktiske gjennomføringen av
-opptakene i rettsmøtet trolig vil være enklere med en
-hovedregel om at det skal foretas opptak av hele hovedeller ankeforhandlingen.
-297 For sivile saker er fristen ti år, jf. tvisteloven § 31-6.
-298 Utvalget har i NOU 2024: 24 Prøvd på nytt punkt 22.4 foreslått en lovendring som innebærer at gjenåpning ikke lenger vil kunne begjæres på vegne av en død person. Kommisjonen skal imidlertid kunne gjenåpne saken mot avdøde
-av eget inititativ, jf. straffeprosessloven § 394 andre ledd.
-Behovet for evigvarig oppbevaring av opptakene vil være
-mindre dersom utvalgets forslag følges opp.
-
-499
-
-Kapittel 13
-
-felt. Utvalget foreslår på denne bakgrunn flere
-læringspunkter og tiltak om bruk av DNA ved
-etterforskning og som bevis i straffesaker.
-I punkt 13.8.2 understrekes behovet for solide
-nasjonale fagmiljøer. I punkt 13.8.3 påpekes behovet for etablering av klare og tilgjengelige retningslinjer for hvordan DNA-analyser gjennomføres. I punkt 13.8.4 anbefaler utvalget at det utarbeides et standardisert mandat for rettsgenetiske
-undersøkelser til bruk i strafferettspleien. I punkt
-13.8.5 drøftes rapportering og presentasjon av
-DNA-bevis i straffesaker. I punkt 13.8.6 foreslås et
-opplæringsprogram om bruk av DNA-bevis i straffesaker.
-I punkt 13.9 drøftes ulike sider ved oppbevaring av spormateriale for DNA og annet biologisk
-materiale ved analyseinstitusjonene.
-
-13.8.2 Solide nasjonale fagmiljøer
-Norge har to nasjonale fagmiljøer for gjennomføring av analyse av DNA i strafferettspleien. Det
-første av disse er Seksjon for rettsgenetikk i straffesaker ved Avdeling for rettsmedisinske fag ved
-Oslo universitetssykehus (OUS). Avdelingen er
-en del av Klinikk for laboratoriemedisin. Seksjonen har ansvar for rettsgenetiske undersøkelser i
-straffesaker mottatt fra politidistrikter sør for
-Trøndelag. Det andre fagmiljøet er Rettsgenetisk
-Senter (RGS) i Tromsø. Til forskjell fra Seksjon
-for rettsgenetikk i straffesaker, som er en del av
-OUS og dermed del av helsevesenet, er Rettsgenetisk senter en del av UiT – Norges arktiske universitet – og dermed del av universitetssektoren.
-Utvalget har hatt flere møter med Seksjon for
-rettsgenetikk i straffesaker og fått informasjon om
-hvor mange som er ansatt ved seksjonen, og om
-hvilke arbeidsoppgaver som utføres av hvem.
-Utvalget har fått opplyst at det per 19. juni 2025 er
-ca. 60 ansatte ved seksjonen. Av disse er det ti
-ansatte, hvorav to under opplæring, som inngår i
-en sakkyndiggruppe. Medlemmene av sakkyndiggruppen har kompetanse til og ansvar for å gjøre
-de endelige vurderingene, underskrive sakkyndigrapporter og møte i retten som sakkyndig. Hver
-av medlemmene gjennomfører oppdrag som
-sakkyndige i retten i straffesaker ca. 1–2 ganger
-per måned.
-Utvalget har fått opplyst at seksjonen gjennomfører alle typer DNA-undersøkelser. I 2024
-behandlet seksjonen 5631 saker. I noen helt få tilfeller har seksjonen ikke tatt oppdrag fra påtalemyndigheten på grunn av sakens art og karakter.
-I disse tilfellene kan seksjonen gi råd om hvilke
-fagmiljøer som kan kontaktes for å få utført analy-
+## Økt oppmerksomhet om straffeprosessuelle rammer for bevisvurdering
+
+### Innledning
+
+I det følgende vil utvalget drøfte straffeprosessuelle rammer for bevisvurdering som står sentralt for å sikre et materielt riktig resultat i straffesaker. I punkt 13.5.2 gjøres enkelte presiseringer av domstolenes plikt til å sørge for et tilstrekkelig bevisgrunnlag etter straffeprosessloven § 294. I punkt 13.5.3 fremheves betydningen av klare domsgrunner, herunder en presis beskrivelse av bevisresultatet. Utvalget foreslår å skjerpe kravene til begrunnelsen for bevisresultatet ved domfellelse.
+
+### Straffeprosessloven § 294: Bevisgrunnlaget må være tilstrekkelig før bevisvurderingen gjennomføres
+
+Straff er statens sterkeste og mest inngripende virkemiddel.[^1864] Derfor fremgår det av Grunnloven at alle tre statsmakter skal være involvert ved ileggelse av straff. Stortinget gir lover som beskriver hvilken atferd som er kriminalisert, jf. Grunnloven § 75 flg., og det stilles strenge krav til presisjon ved utforming av straffelovgivning, jf. legalitetsprinsippet i Grunnloven § 96 første ledd. Det følger av sistnevnte bestemmelse at det er domstolene som ilegger straff.[^1865] Det er den utøvende makt – nærmere bestemt påtalemyndigheten – som fremmer straffekravet overfor domstolene, jf. Grunnloven § 3.
+
+Et sentralt aspekt av maktfordelingsprinsippet er at de ulike statsmaktene fører en uavhengig kontroll med hverandres myndighetsutøvelse. Uavhengig kontroll bidrar til at det treffes materielt riktige avgjørelser i rettsstaten. Uavhengig kontroll er også en sentral mekanisme for å forebygge bekreftelsesfeller.[^1866]
+
+Straffeprosessloven § 294 fastsetter:
+
+«Retten skal på embets vegne våke over at saken blir fullstendig opplyst. I dette øyemed kan den beslutte å innhente nye bevis og utsette forhandlingen.»
+
+Retten gis her et selvstendig ansvar for å sørge for at sakens faktum er tilstrekkelig klarlagt før bevisvurderingen gjennomføres. Plikten i straffeprosessloven § 294 er derfor omtalt som kravet til et robust bevisgrunnlag og beviskravets robusthetsdimensjon.[^1867] Overordnet kan det uttrykkes som at det som hovedregel ikke må finnes noen relevante «løse tråder» (bevis som kan fremstå som relevante) før bevisvurderingen gjennomføres. Unntak må oppstilles hvis det er umulig eller svært ressurskrevende å fremskaffe beviset. I slike tilfeller vil antakelig ofte ikke det strenge beviskravet i straffesaker være oppfylt.
+
+Selv om det er påtalemyndigheten som har bevisbyrden, skal altså retten utøve en kontrollfunksjon overfor påtalemyndigheten når det gjelder klarleggingen av det faktiske grunnlaget for bevisvurderingen. Finner retten at det bevisbildet som er presentert av påtalemyndigheten, er utilstrekkelig, har retten en undersøkelsesplikt. At retten har en undersøkelsesplikt sett opp mot påtalemyndighetens bevisførsel, viser at straffeprosessen ikke er en rendyrket partsprosess. Bestemmelsen i straffeprosessloven § 294 modifiserer anklageprinsippet og er et utslag av den offentlige interesse i at straffedommer så vidt mulig blir riktige.[^1868]
+
+Det nærmere innholdet i rettens plikt til å sørge for at straffesaken er tilstrekkelig opplyst, er presisert i rettspraksis. Rekkevidden av rettens undersøkelsesplikt beror på en helhetsvurdering, hvor en rekke momenter er relevante. I Rt. 2008 s. 605 uttales følgende:
+
+«Retten har etter § 294 en selvstendig plikt til å sørge for at nødvendige opplysninger blir innhentet. Dette gjelder selv om partene måtte mene at ytterligere opplysning av saken ikke er nødvendig, men desto mer dersom partene er uenige om behovet eller muligheten – typisk når politiet motsetter seg å innhente opplysninger tiltalte ønsker fremlagt. Rekkevidden av rettens plikt etter § 294 beror på sakens omstendigheter, med det generelle bevisbilde som utgangspunkt for vurderingen. Et sentralt moment er hvor alvorlig saken er. I tillegg vil det kunne ha betydning om opplysningene gjelder et viktig punkt i saken, om de antas å være til tiltaltes gunst, og om de kan fremskaffes ved rimelig innsats av tid, penger og andre ressurser i forhold til hva man må regne med kan oppnås.»[^1869]
+
+Som det fremgår, er det et moment om opplysninger som vurderes innhentet, antas å være til tiltaltes gunst. Rettens ansvar for sakens opplysninger gjelder likevel også opplysninger som antas å være til skade for tiltalte. I Rt. 2013 s. 905 heter det:
+
+«Det sentrale formålet med bestemmelsen er å forhindre uriktig domfellelse. Dette tilsier at det vil være en grunnleggende forskjell mellom rettens plikt til å sørge for sakens opplysning til gunst og til skade for tiltalte. Retten har således et særlig ansvar når det er tale om opplysning til tiltaltes gunst. Det skal dessuten mer til for at en forsømmelse fra rettens side fører til opphevelse når dette er til skade for tiltalte enn hvor det er til tiltaltes gunst.»[^1870]
+
+Høyesterett kom likevel til at det var en saksbehandlingsfeil at det ikke var blitt innhentet bevis som viste seg å være til skade for tiltalte.[^1871] Utvalget vil til dette påpeke at det, etter at et bevis er innhentet og vurdert, som regel ikke er vanskelig å ta stilling til om beviset er til gunst eller skade for tiltalte. Før beviset faktisk foreligger, er det imidlertid ofte ikke like innlysende om det vil være til gunst eller ugunst.
+
+Som sitatet fra Rt. 2008 s. 605 viser, er det et relevant moment ved vurderingen av rettens undersøkelsesplikt om beviset «kan fremskaffes ved rimelig innsats av tid, penger og andre ressurser i forhold til hva man må regne med kan oppnås». Utvalget understreker at uttalelsen må tolkes i samsvar med det overordnede formålet med straffeprosessloven § 294, som er å sikre materielt riktige avgjørelser av straffesaker. Utvalget leser uttalelsen slik at den ikke kan tas til inntekt for at hensynet til en hurtig og kostnadseffektiv prosess kan rettferdiggjøre at retten unnlater å sørge for innhenting av bevis som kan være relevante for avgjørelsen av skyldspørsmålet i en alvorlig straffesak.[^1872] Hvis det foreligger en rimelig mulighet for at beviset er relevant for bevisvurderingen av skyldspørsmålet i en alvorlig straffesak, må beviset innhentes, med mindre det fremstår som umulig eller svært krevende. Unnlater retten å innhente et bevis fordi det er for ressurskrevende, samtidig som det er en rimelig mulighet for at beviset er relevant for skyldspørsmålet, bør utfallet av bevisvurderingen som regel bli frifinnelse.
+
+### Klarere og mer presise domsgrunner
+
+#### Innledning
+
+Utvalget mener korrekt etterlevelse av straffeprosesslovens krav til utformingen av domsgrunnene kan bidra til å redusere risikoen for uriktige domfellelser. I punkt 13.5.3.2 fremheves betydningen av en presis beskrivelse av bevisresultatet. I punkt 13.5.3.3 går utvalget inn for å skjerpe kravene til begrunnelsen for bevisresultatet ved domfellelse.
+
+#### Viktigheten av en presis beskrivelse av bevisresultatet
+
+Straffeprosessloven § 40 første ledd første punktum lyder slik:
+
+«Når siktede domfelles, skal domsgrunnene for skyldspørsmålets vedkommende bestemt og uttømmende angi det saksforhold retten har funnet bevist som grunnlag for dommen.»
+
+I dette ligger at retten må gjøre rede for alle de faktiske omstendighetene som er nødvendige for å domfelle, både de objektive og subjektive vilkårene, jf. HR-2025-1237-A avsnitt 32. Begrunnelseskravet knytter seg til det saksforholdet som danner grunnlag for dommen, altså det saksforholdet som tiltalen gjelder. Rettens subsumsjon under skyldspørsmålet må bygge på dette faktumet.
+
+Beviskravet for å stemme for domfellelse er at faktumet som danner grunnlaget for tiltalen, er bevist ut over enhver rimelig tvil. Beviskravet gjelder bare faktiske forhold med umiddelbar rettslig betydning (rettsfakta), typisk forhold av direkte betydning for vurderingen av tiltaltes skyld. I en tiltale skal det faktiske grunnlaget bestå av rettsfakta som svarer til vilkårene i det aktuelle straffebudet.[^1873]
+
+Av dette følger det at faktum i saken som er unødvendig for å ta stilling til vilkårene for straff, ikke omfattes av kravene til beskrivelse i § 40 første ledd første punktum. Bestemmelsen krever ikke at faktum som i tid ligger før forholdet i tiltalen, beskrives. Det samme gjelder faktum som i tid ligger etter forholdet i tiltalen. Heller ikke andre omstendigheter ved hendelsesforløpet, som ikke er relevant opp mot det straffebud som er angitt i tiltalen, må beskrives. Det er ingen rettskilder som krever at retten beskriver forhold som ikke er relevante i relasjon til tiltalen.
+
+Utvalgets inntrykk er at domstolene, på tross av lovens krav, ikke sjelden finner det hensiktsmessig å gi utførlige beskrivelser av faktiske forhold uten relevans for vurderingen av skyldspørsmålet. Berg uttaler:
+
+«Etter at temaet for saken er angitt, bør den straffbare handling plasseres i en større sammenheng. En fortelling skal skrives. Det er naturligvis et skjønnsspørsmål både hvor langt man skal gå tilbake i tid, og hvor langt frem man skal føre begivenhetsforløpet. Saker om vold på byen starter gjerne med et vorspiel og ender på legevakta. Saker om familievold starter med det første møtet og ender på krisesenteret. Denne delen av faktumbeskrivelsen bør være helt nøytral. I praksis består en slik gjennomgang dels av vitterlige kjensgjerninger, dels av generelle formuleringer som likevel er presise nok for sitt formål. Ikke noe av dette skal bevises utover rimelig tvil, men det er selvfølgelig ikke noe i veien for å si noe om hva man bygger på av opplysninger.»[^1874]
+
+Utvalget viser til at faktumbeskrivelsen i tiltalen skal være kortfattet, jf. straffeprosessloven § 252 første ledd nr. 4. Rettens beskrivelse av bevisresultatet skal være «bestemt og uttømmende», jf. § 40 første ledd første punktum. Dommen må vise at både de objektive og subjektive vilkårene for straff etter det aktuelle straffebudet er oppfylt. Hvor utførlig bevisresultatet må beskrives, avhenger av hvilket straffebud som det dømmes etter. At tiltalte har utvist forsett, kan normalt beskrives meget kort, mens rettens beskrivelse av faktum må være mer utførlig der straffebudet legger opp til en skjønnsmessig vurdering, for eksempel av om tiltalte handlet utilbørlig eller rettsstridig, eller om det foreligger uaktsom overtredelse av straffebudet.[^1875] Det faktum retten legger til grunn som bevisresultat, må ikke være nøyaktig det samme som det som fremgår av tiltalen. Retten må ikke gå utenfor det «forhold» tiltalen gjelder, men er ubundet av den nærmere beskrivelsen i tiltalen med hensyn til tid, sted og andre omstendigheter, jf. straffeprosessloven § 38 første ledd.[^1876]
+
+Utvalget er innforstått med at det i visse tilfeller vil være hensiktsmessig i noen grad å beskrive faktum som ligger utenfor saksforholdet som er grunnlag for dommen. Utvalget understreker imidlertid at i den grad dette gjøres, må retten være klar over, og tydelig vise i domspremissene, hvilket faktum som legges til grunn som bevisresultat, og som retten mener er bevist ut over enhver rimelig tvil.
+
+Utvalget vil peke på farene som kan ligge i at retten setter seg fore å beskrive en mer eller mindre konsistent fortelling, først og fremst risikoen for såkalt forføreriske narrativer.[^1877] I tillegg til disse farene kan et manglende skille mellom faktum som er relevant for bevisvurderingen under skyldspørsmålet, og faktum som ikke er det, bidra til å svekke beviskravet som en grunnleggende rettssikkerhetsgaranti.[^1878]
+
+Utvalget er også kjent med at retten i enkelte tilfeller i domspremissene gir utfyllende referater av hva som er fremkommet under bevisførselen, eksempelvis hva vitner har forklart. En grunn til å gjengi slike referater kan være bevissikring.[^1879] Når tingretten beskriver hva sentrale vitner har forklart, gir det ankeinstansen bedre informasjon om hva som kom frem under bevisførselen enn om slike referater ikke inntas. Under hoved- og ankeforhandling skal det som utgangspunkt foretas opptak av forklaringer fra parter, vitner og sakkyndige, men den praktiske hovedregelen har frem til nå vært at det ikke tas slike opptak.[^1880] Det foretas heller ikke transkribering av det som sies. Når retten gjengir sentrale deler av eksempelvis vitneforklaringer i domsgrunnene i referats form, vil det ofte være ankedomstolens eneste informasjon om innholdet i den umiddelbare bevisførselen i underinstansen. Slik informasjon kan være verdifull når lagmannsretten tar stilling til om en anke skal fremmes, jf. straffeprosessloven § 321.
+
+Utvalget viser til at straffeprosessloven § 40 første ledd første punktum ikke krever at retten i domsgrunnene gjengir referater fra bevisførselen. Når retten skal begrunne bevisresultatet ved domfellelse, jf. § 40 fjerde ledd, vil det kunne være behov for å gjengi deler av bevisførselen, for eksempel (deler av) tiltaltes, fornærmedes og vitners forklaringer. Siktemålet med § 40 fjerde ledd er imidlertid å forklare hvorfor retten kom til bevisresultatet, og det vil derfor gjennomgående ikke være nødvendig å innta fullstendige referater. Gjengivelse av bevisførselen bør i stedet begrenses til det som er nødvendig for å begrunne bevisresultatet. Det vil ellers være en risiko for at rettens begrunnelse blir uklar.
+
+Lange gjengivelser av forklaringer i domspremissene kan også føre til at dommene blir unødvendig omfattende. Straffeprosessutvalget har uttalt:
+
+«Et annet eksempel \[på overflødig begrunnelsespraksis\] er at tingrettene ofte tar inn i dommen lange referater av forklaringene fra tiltalte og de mest sentrale vitnene, uten at dette knyttes til rettens begrunnelse for avgjørelsen av skyldspørsmålet. Dette gjør at dommene svulmer opp, og er unødvendig for å oppfylle formålet med begrunnelsen.»[^1881]
+
+Innføring av lyd- og bildeopptak av bevisførselen i første instans vil medføre at behovet for å dokumentere forklaringer i domspremissene langt på vei faller bort. Notoritetshensynet vil da ikke lenger gjøre seg gjeldende i samme grad, og retten kan konsentrere seg fullt ut om å gi en presis beskrivelse av bevisresultatet og begrunnelse for bevisvurderingen i tråd med det som følger av straffeprosessloven § 40.[^1882]
+
+#### Skjerping av begrunnelseskravet ved domfellelse
+
+Straffeprosessloven § 40 fjerde ledd lyder slik:
+
+«Domsgrunnene skal i alle saker som har vært behandlet med meddomsrett, angi hovedpunktene i rettens bevisvurdering».
+
+Bestemmelsen kom inn i loven i forbindelse med innføringen av to-instansreformen i 1993. I stedet for skjerpede regler om protokollasjon av bevisførselen – slik To-instansutvalget hadde gått inn for – foreslo departementet å skjerpe kravene til domsgrunner i alle meddomsrettssaker.[^1883] Bestemmelsen ble avgrenset til meddomsrettssaker, fordi plikten til å begrunne bevisresultatet vedrørende bevisbedømmelsen under skyldspørsmålet ikke var aktuell for saker behandlet med jury i lagmannsretten. Siden jurysystemet ble opphevet med virkning fra 1. januar 2018, har henvisningen til meddomsrettssaker langt på vei mistet sin funksjon. Etter ordlyden gjelder bestemmelsen heller ikke ved forenklet pådømmelse etter straffeprosessloven § 248 (tilståelsesdom), hvor vurderingstemaet dels er om siktede i rettsmøtet har avgitt en «uforbeholden tilståelse som styrkes av de øvrige opplysninger», dels om den forenklede behandlingsformen er «betenkelig».
+
+I forarbeidene er kravet i straffeprosessloven § 40 fjerde ledd beskrevet slik:
+
+«Retten skal først og fremst redegjøre for hva som har vært de springende punkter ved bevisvurderingen, og kort angi hva som har vært avgjørende for bevisvurderingen. Hvor omfattende det er grunn til å redegjøre for bevisvurderingen, vil variere fra sak til sak. Det kreves ikke at retten gir en detaljert beskrivelse.»[^1884]
+
+Høyesterett har uttalt at det sentrale er at det «må fremgå hvorfor et bestemt bevisresultat legges til grunn».[^1885] I HR-2025-1237-A avsnitt 34 heter det:
+
+«Kravene til domsgrunnene må forstås i lys av formålet med begrunnelsen, som særlig er å «sikre en reell og samvittighetsfull vurdering, etterprøvbarhet og en effektiv rett til overprøving», jf. plenumsdommen i Rt-2009-750 avsnitt 35. Det innebærer at begrunnelsen må være tilstrekkelig til at Høyesterett kan prøve om lovanvendelsen er riktig – både når det gjelder anvendelsen av beviskravet og de enkelte straffbarhetsvilkårene.»
+
+Etter gjeldende rett kreves det derimot ikke at domsgrunnene viser at retten har vurdert bevissituasjonen i ulike perspektiver, for eksempel gjennom drøftelser av om det også er mulig å forstå bevisene slik at tiltalte er uskyldig, jf. HR-2025-458-A avsnitt 31. Dersom den alternative forståelsen av bevisene utgjør et sentralt punkt i saken, vil det imidlertid forholde seg annerledes:
+
+«Bare når den alternative forståelsen av bevisene utgjør et springende – det vil si sentralt – punkt i saken som ellers vil bli stående uforklart, må det gis en særskilt begrunnelse, jf. straffeprosessloven § 40 fjerde ledd slik bestemmelsen er forstått i rettspraksis.»
+
+Oppsummert har domsgrunnene i straffesaker som formål å sikre en «reell og samvittighetsfull vurdering» av skyld- og reaksjonsspørsmålet. I tilknytning til skyldspørsmålet må retten forklare hvorfor det strafferettslige beviskravet er oppfylt. I tillegg skal domsgrunnene sikre at domstolens bevisvurdering er etterprøvbar. Dette kan også uttrykkes som at domfelte og allmennheten skal kunne etterprøve de vurderinger som ligger til grunn for domfellelsen.[^1886] Domsgrunnene skal videre sikre en effektiv rett til overprøving i ankeinstansen.[^1887] Kravene til domsgrunner har altså som overordnet formål å sikre et materielt riktig resultat, herunder å forhindre uriktige domfellelser. Dersom rettens begrunnelser er mangelfulle eller utilstrekkelige, varetas ikke disse sentrale formålene.
+
+Utvalget mener det er ønskelig å skjerpe kravene til rettens begrunnelse for bevisresultatet ved domfellelse. Utvalget mener at den mest hensiktsmessige måten å realisere de nevnte formålene på er å knytte kravet til begrunnelse av bevisresultatet opp mot beviskravet og den foreslåtte operasjonaliseringen av beviskravet.[^1888]
+
+Utvalget foreslår etter dette at straffeprosessloven § 40 fjerde ledd gis følgende ordlyd:
+
+«Domsgrunnene skal angi hovedpunktene i rettens bevisvurdering. Ved domfellelse skal domsgrunnene vise at det samlet sett foreligger opplysninger i saken som det er vanskelig å forklare hvis tiltalte er uskyldig, og at det ikke foreligger opplysninger som det er vanskelig å forklare hvis tiltalte er skyldig. Kravene gjelder ikke ved pådømmelse etter § 248.»
+
+Det foreslås å fjerne den nåværende henvisningen til saker som har vært behandlet med meddomsrett, siden jurysystemet er avskaffet. Endringen vil klargjøre at dommer i foreleggsaker uten meddommere, jf. straffeprosessloven § 276 første ledd andre punktum, omfattes av begrunnelseskravet. Det er ingen grunn til at slike saker skal være unntatt. Ettersom den foreslåtte regelen passer mindre godt for tilståelsessaker, er det presisert at den ikke gjelder saker som pådømmes etter straffeprosessloven § 248.
+
+Etter utvalgets vurdering vil det foreslåtte begrunnelseskravet i de fleste saker som ender med domfellelse, ikke medføre særlig ekstraarbeid for domstolen. Reelt sett kreves det bare at retten dokumenterer at den har gjennomført bevisvurderingen i samsvar med uskyldspresumsjonen, jf. Grunnloven § 96 andre ledd og EMK artikkel 6 nr. 2, og ellers grunnleggende prinsipper og retningslinjer som fremmer den materielle sannhet.
+
+Utvalget mener lovforslaget ikke medfører store endringer sammenlignet med dagens rettstilstand. Også i dag praktiseres begrunnelseskravet relativt.[^1889] Det er klart at en domfellelse som resulterer i lovens strengeste straff, ofte krever en mer utførlig redegjørelse for bevisvurderingen enn en domfellelse som går ut på ileggelse av en mindre bot. Mellom disse ytterpunktene vil kravene til begrunnelse variere. Videre fremgår det av rettspraksis at den konkrete bevissituasjonen påvirker kravene til begrunnelse. Dersom saken reiser et «springende punkt» i bevisvurderingen, kan retten som nevnt foran ikke forbigå det i begrunnelsen for bevisresultatet.[^1890] Med «springende punkt» menes forhold som har vært avgjørende for rettens bevisresultat.[^1891] Dersom en alternativ forståelse av bevisene utgjør et sentralt punkt i saken, må det gis en særskilt begrunnelse også etter gjeldende rett, jf. HR-2025-458-A avsnitt 31 som er sitert foran.
+
+Pedersen påpeker at Høyesteretts avgjørelser om fastlegging av kravene til begrunnelse av bevisresultatet er uklare og ikke helt konsekvente.[^1892] Utvalget tiltrer denne vurderingen. Dertil kommer at Høyesteretts perspektiv i disse avgjørelsene er om begrunnelsen i konkrete saker er så mangelfull at det er begått en saksbehandlingsfeil. Praksisen er dermed ikke så godt egnet når det skal lovgis om kravene til begrunnelse av bevisresultatet.
+
+Etter lovforslaget skal retten vise «hvorfor» det samlet sett er opplysninger som det er vanskelig å forklare dersom siktede er uskyldig, og «hvorfor» det ikke foreligger opplysninger som det er vanskelig å forklare dersom tiltalte er skyldig. Det kreves ikke en gjennomgang og vurdering av samtlige bevis som har vært ført for retten. Begrunnelsen vil være tilstrekkelig når domfelte og andre får en forklaring på hvorfor retten har funnet det som beskrives i tiltalen, bevist ut over enhver rimelig tvil. Se spesialmerknaden til bestemmelsen i punkt 16.2 for nærmere veiledning.
+
+Det følger av det som er sagt, at det må gis en nærmere omtale av opplysninger som har vært avgjørende for rettens bevisresultat. Motstridende opplysninger må som den klare hovedregel omtales i begrunnelsen, og det må påvises hvorfor disse ikke medfører frifinnelse. Dette er i tråd med formålene bak begrunnelseskravet og ellers grunnleggende idealer om rasjonalitet hos den dømmende virksomhet.[^1893]
+
+Utvalget mener forslaget til skjerping av begrunnelsesplikten, sammenholdt med forslaget om å lovfeste beviskravet i straffesaker,[^1894] vil legge til rette for en viss normering av begrunnelsen for bevisvurderingen. Formålet er å sikre at uskyldspresumsjonen og beviskravet håndheves konsekvent.
+
+Utvalget har i punkt 13.4.4.2 knyttet enkelte merknader til bevisvurderingen i situasjoner hvor det ikke foreligger andre bevis av betydning enn tiltaltes og fornærmedes forklaringer. I slike tilfeller kreves det en særlig aktpågivenhet ved bevisvurderingen, og det må gis en grundig og fyllestgjørende begrunnelse.
+
+## Klarere rammer for meddommeres deltakelse i straffesaker
+
+### Informasjon om rettslige rammer før hovedforhandlingen
+
+Utvalget har merket seg at det er noe ulik praksis hva gjelder hvor mye tid som settes av til å informere meddommere om de rettslige rammer for straffesaksbehandlingen i domstolene, samt hvilken informasjon som gis. Utvalget vil i det følgende nøye seg med å gi enkelte overordnede anbefalinger. Synspunktene bør ses i sammenheng med utvalgets anbefalinger i punkt 13.4.5.3 og nedenfor i punkt 13.6.2.
+
+Formålet med å gi meddommere informasjon som nevnt er at meddommerne skal settes i stand til å gjennomføre dommervervet på en forsvarlig måte. For å oppnå formålet må meddommere før hovedforhandlingen gis informasjon om det som står i tiltalebeslutningen, og om hva som er tiltalebeslutningens funksjon i straffesaken. Videre bør administrator gjennomgå bevisoppgaven, eventuelt også skriftlige bevis i dokumentutdraget av sentral betydning. Etter utvalgets syn bør det også gis grunnleggende informasjon om bevisbyrden i straffesaker, det strafferettslige beviskravet, uskyldspresumsjonen og grunnleggende prinsipper for bevisvurdering. Dersom beviskravet og sentrale retningslinjer for bevisvurdering lovfestes i tråd med utvalgets forslag, vil en kort orientering om disse reglene være tilstrekkelig. Det bør også fremheves at alle dommere er bundet av loven.
+
+Meddommere bør også gis en orientering om de mest sentrale reglene for gjennomføringen av hovedforhandlingen, slik som bevisumiddelbarhetsprinsippet. Det bør forklares at det kun er de bevis som presenteres i retten, som kan tas i betraktning, jf. straffeprosessloven § 305. Meddommere bør også gis kort informasjon om de ulike aktørenes roller ved gjennomføringen av hovedforhandlingen, blant annet hva som skiller rollen som fagdommer fra meddommerrollen. Videre bør det gjøres klart at man ikke skal snakke om saken uten at alle dommerne er samlet, og at dommere har taushetsplikt om visse opplysninger, jf. domstolloven § 63 a.
+
+De nevnte opplysningene er særlig viktig å gi til meddommere som tjenestegjør for første gang eller har begrenset erfaring med rollen. Rettens administrator må vurdere konkret i hvilken grad denne type opplysninger skal gis til mer erfarne meddommere.
+
+### Domskonferansen i straffesaker
+
+Domskonferansen i straffesaker er i liten grad rettslig regulert. Straffeprosessloven § 31 første ledd lyder slik:
+
+«Har retten flere medlemmer, skal den holde rådslagning og stemmegivning for stengte dører før dom blir avsagt, såfremt de ikke straks blir enige om avgjørelsen.»[^1895]
+
+Loven bygger på at det er rettens leder som leder forhandlingene, stiller spørsmålene og teller opp stemmene, jf. § 32 første ledd. Fagdommeren som leder konferansen, er dermed både tilrettelegger og beslutningstaker.
+
+De øvrige reglene om domskonferansen i loven (§§ 32 til 37) er i hovedsak voteringsregler. I tillegg har naturligvis straffeprosesslovens øvrige regler implikasjoner for hva som er tillatt under konferansen. Dette gjelder for eksempel straffeprosessloven § 305, som angir at «\[v\]ed avgjørelsen av hva som anses bevist, tas bare i betraktning de bevis som er ført under hovedforhandlingen».
+
+Ettersom domskonferansen går for lukkede dører, og det ikke føres referat fra møtet, har den blitt betegnet som et «ugjennomsiktig ledd i prosessen».[^1896] Domskonferansen har antakelig av disse grunner vært lite diskutert i juridisk teori.[^1897] De vide rettslige rammene for gjennomføringen av rådslagningen innebærer også at det finnes relativt lite rettspraksis som belyser kravene som gjelder. I stedet har det vært en tendens til at domskonferansen i stor grad har blitt ansett som et dommeretisk anliggende.[^1898]
+
+I det praktiske rettsliv gjennomføres domskonferanser på nokså forskjellige måter.[^1899] Det er ikke gitt nærmere retningslinjer for gjennomføringen av konferansen eller i hvilken rekkefølge dommerne skal stemme. Juryutvalget drøftet om det burde gis nærmere retningslinjer for gjennomføringen, men var delt i synet på spørsmålet.[^1900] Lagrettefraksjonen (fem av ti medlemmer) mente det var behov for nærmere regler, og det ble gitt et utkast til instruksjon. Formålet var å legge til rette for en best mulig diskusjon og «sikre ensartet praksis for denne avgjørende delen av prosessen». Meddomsrettsfraksjonen mente det ikke var påvist noe behov for retningslinjer utover det som fremgår av straffeprosessloven kapittel 5 og regler om god dommerskikk. Departementet var i hovedsak enig i dette, og lagrettefraksjonens forslag er derfor ikke fulgt opp.[^1901]
+
+Professor Eivind Kolflaath ved Det juridiske fakultet ved Universitetet i Bergen har arbeidet mye med ulike problemstillinger knyttet til juridisk bevisbedømmelse og holder foredrag om domskonferanser og bevisbedømmelse på de nasjonale introduksjonsprogrammene for norske embetsdommere og dommerfullmektiger. Kolflaath mener de mest sentrale hensynene når det gjelder fagdommernes opptreden overfor meddommerne i domskonferansen, dreier seg om meddommernes autonomi og integritet, om juridisk akseptable premisser og om betryggende bevisbedømmelse.[^1902]
+
+*Autonomi- og integritetshensynet* innebærer at meddommeren ikke skal utsettes for hersketeknikker, urimelig press eller annen utilbørlig påvirkning. Meddommerne er imidlertid ikke fritatt fra å begrunne sine standpunkter eller tåle kritiske spørsmål. Hensynet til at *avgjørelsen bygger på juridisk akseptable premisser*, innebærer at fagdommeren har et særlig ansvar for at eventuelle juridiske villfarelser hos meddommerne oppdages og korrigeres. Hensynet til *betryggende bevisbedømmelse* springer ut av den materielle sannhets prinsipp og innebærer at helhetsvurderinger bør være strukturerte og balanserte og ikke basert på magefølelse og ureflektert intuisjon. Samlet sett trekker disse hensynene i retning av at domskonferansen ikke bare er en ren registrering av synspunkter, men også har et *kvalitetssikringsformål*. Det ligger i dette at også *fagdommerens* foreløpige standpunkter bør kvalitetssikres, ikke bare meddommernes synspunkter. For å oppnå kvalitetssikring må det skje en reell diskusjon.
+
+Som fremhevet av Kolflaath har domskonferansen potensial som en arena for kollektiv systematisk bevisanalyse som kan redusere betydningen av psykologiske feilkilder, herunder bekreftelsesfellen («confirmation bias»). En forutsetning er at rettens leder tilfører rådslagningen en struktur som legger til rette for systematisk resonnering om bevisene og sakens faktum. Dette kan skje på ulike måter, blant annet ved å gjennomgå hendelsesforløpet kronologisk fra begynnelse til slutt, diskutere straffebestemmelsene vilkår for vilkår eller drøfte ett og ett bevis. En annen mulighet er at diskusjonen om bevisbedømmelsen er hypotesedrevet, det vil si at man drøfter én hypotese om gangen. Et eksempel på en hypotesedrevet metode er den operasjonalisering av beviskravet som angis i riksadvokatens kvalitetsrundskriv fra 2018.[^1903]
+
+Kolflaath advarer mot rådslagning i form av gjensidige overbevisningsforsøk.[^1904] Disse kan være drevet vel så mye av et ønske om å vinne diskusjonen som av sannhetssøken, og den som vinner diskusjonen, har ikke nødvendigvis truffet best. Det er i denne sammenheng et poeng at fagdommerens autoritet kan føre til at meddommere ukritisk slutter seg til fagdommernes konklusjoner.[^1905] Rådslagning i form av gjensidige overbevisningsforsøk forutsetter dessuten at man faktisk har inntatt et standpunkt, hvilket favoriserer dommere som bestemmer seg tidlig. Undersøkelser viser at fagdommere oftere enn meddommere har en klar oppfatning tidlig i domskonferansen.[^1906] Overbevisningsforsøk favoriserer dessuten utvilsomt «den taleføre, listige og/eller autoritære dommer». En annen innvending er at hvis alle dommerne er enige når domskonferansen starter, vil det ikke skje noen etterprøving av standpunktene i tråd med kvalitetssikringsformålet.
+
+For å vareta kvalitetssikringsformålet foreslår Kolflaath i stedet at rettens leder skiller tydelig mellom tilretteleggerrollen og beslutningstakerrollen og prioriterer førstnevnte så langt ut i domskonferansen som mulig:
+
+«Min egen oppfatning er at rettens leder i utgangspunktet bør vente med å tre inn i beslutningstakerrollen til diskusjonen om skyldspørsmålet nærmer seg slutten. Veksling frem og tilbake mellom de to rollene stiller svært høye krav til at han eller hun kommuniserer tydelig hvilken rolle vedkommende til enhver tid befinner seg i. \[…\] Jo lenger rettens leder forblir i tilretteleggerrollen, desto større mulighet er det for å realisere domskonferansens potensial som arena for bevisanalyse. Når rettens leder går over til å argumentere for eget standpunkt, vil rådslagningen gjerne skifte karakter på en måte som ikke så lett lar seg reversere.»[^1907]
+
+Utvalget er i det vesentlige enig i Kolflaaths syn på domskonferansen. Etter utvalgets syn bør gjennomføringen av domskonferansen skje på en måte som best mulig varetar funksjonsfordelingen mellom fagdommere og meddommere, som igjen skal sikre et materielt riktig resultat. Samspillet mellom fagdommere og meddommere bør gjenspeile og ta hensyn til at de har ulike roller.
+
+Fagdommere har juridisk utdanning og solid juridisk erfaring som er relevant ved straffesaksbehandling. Det har ikke meddommere. I tillegg har fagdommerne jevnt over langt mer erfaring innen bevisbedømmelse. Det ligger også en naturlig autoritet i rollen som fagdommer. Disse forskjellene kan føre til at fagdommernes vurderinger av saken kan få klart større innvirkning på domsresultatet enn synspunktene meddommerne inntok ved begynnelsen av domskonferansen.[^1908] Utvalget mener ikke med dette at fagdommere på noen måte bevisst går inn for å ta kontroll over domskonferansen på en utilbørlig måte. Dette skjer trolig bare helt unntaksvis. Det er imidlertid grunn til å tro at en del meddommere bevisst eller ubevisst vil anse det tryggest å innta samme standpunkt som fagdommeren. Det gjelder også for fagdommerens bedømmelse av bevisene. Dersom meddommere ukritisk slutter seg til fagdommerens konklusjoner, er det uheldig i lys av domskonferansens kvalitetssikringsformål.[^1909]
+
+Hovedbegrunnelsen for at meddommere deltar i straffesaker, er at de har en viktig funksjon ved bevisvurderingen, altså når det gjelder å ta stilling til sakens faktum. Deltakelsen er ikke begrunnet med at meddommerne har samme kompetanse innen strafferett og straffeprosess som fagdommerne. Som påvist foran har rettens leder et særlig ansvar for at avgjørelsen bygger på juridisk akseptable premisser. Denne formen for påvirkning, som kan anses som et utslag av fagdommerens veiledningsplikt, er klart ønskelig. Meddommere må avlegge forsikring om å «gi vel agt paa alt, som forhandles i retten, og at han vil dømme saaledes, som han vet sandest og rettest at være efter loven og sakens beviseligheter», jf. domstolloven § 100 første ledd. Meddommerne er altså bundet av lovgivningen, og kan ikke utøve dømmende virksomhet basert på hva de mener er rimelig dersom dette er i strid med loven.[^1910] Meddommere er dessuten – på samme måte som fagdommerne – bundet av at bevisvurderingen har som mål å frembringe den materielle sannhet, og må forholde seg til alminnelig anerkjente retningslinjer for bevisvurdering.
+
+Utvalget mener det ikke er ønskelig å etablere for stivbente regler for domskonferansen. Det er stor forskjell på straffesaker, og rammene for gjennomføringen bør ikke være til hinder for å tilpasse domskonferansen til den enkelte sak.[^1911] Det aller viktigste er å sikre en reell diskusjon, og at rettens leder strukturer domskonferansen på en måte som legger til rette for en systematisk bevisgjennomgang.
+
+Domskonferansen bør som regel innledes med at rettens leder redegjør for beviskravet i straffesaker og påtalemyndighetens bevisbyrde. De straffeprosessuelle rammene for bevisvurderingen bør også presenteres, særlig regelen om dommerne bare kan bygge på de bevis som er ført under hovedforhandlingen, jf. straffeprosessloven § 305. Det bør gis opplysninger om alminnelig anerkjente prinsipper for bevisbedømmelsen hvor det fremstår som relevant. Dette vil gi meddommerne de nødvendige straffeprosessuelle og strafferettslige rammene for bevisvurderingen som skal foretas. Det bør gjøres klart at meddommerne ikke er bundet av rettens leders syn på bevisspørsmålene, og at de er forpliktet til å gjøre seg opp sin egen mening.
+
+Rettens leder bør deretter ta ansvar for at det skjer en felles gjennomgang av saken, hvor meddommerne kommer til orde. Rettens leder må styre og strukturere diskusjonen. Det kan være hensiktsmessig at rettens leder starter med å oppsummere sakens springende punkter – både faktisk og rettslig. En slik gjennomgang bør være objektiv, systematisk og oversiktlig. Formålet er å trekke opp en ramme for den påfølgende diskusjonen mellom dommerne.[^1912] Som nevnt kan saksgjennomgangen gjøres på ulike måter. Dersom utvalgets forslag til ny § 305 a i straffeprosessloven blir vedtatt, vil det imidlertid være naturlig at regelen får en sentral plass i gjennomgangen og diskusjonen.
+
+Utvalget mener som Kolflaath at rettens leder så lenge som mulig bør avstå fra å gi uttrykk for sin egen mening om skyldspørsmålet og de faktiske tvistepunktene i saken.[^1913] Har rettens leder inntatt et standpunkt, bør han helst legge dette til side og prioritere tilretteleggerrollen fremfor beslutningstakerrollen så langt ut i domskonferansen som mulig. Ettersom fagdommerens syn kan ha sterk innflytelse på meddommerne, bør meddommerne som den klare hovedregel få uttale seg om skyldspørsmålet først.[^1914]
+
+Ofte vil det kunne være flere sentrale punkter under skyldspørsmålet som må diskuteres. I så fall kan det være behov for at fagdommeren i noen grad veksler mellom rollen som møteleder og beslutningstaker. Hvert sentrale tvistetema vil kunne diskuteres med innlegg fra dommerne før man går videre til neste tema. Rettens leder bør også her vente med å dele eget standpunkt til etter at meddommerne har kommet til orde.
+
+Endelig nevner utvalget at det er essensielt at det settes av tilstrekkelig tid til gjennomføringen av domskonferansen. Tidspress kan motvirke kvalitetssikring. Lagrettefraksjonen i Juryutvalget foreslo at det burde legges inn tilstrekkelig med pauser under rådslagningen, og at det også burde være en pause før voteringen.[^1915] Dette fremstår som fornuftig, i hvert fall i de større sakene. I lagmannsretten kan det for å sikre en strukturert diskusjon også vurderes å benytte en talerliste som føres av rettens leder.[^1916]

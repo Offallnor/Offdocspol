@@ -1,1152 +1,227 @@
-# NOU 2026: 3, del 26 av 50 (side 278–289)
+# NOU 2026: 3, del 26 av 56
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2026/9cee8194-nou-2026-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2026-3/id3149017/
-- Tekst: hentet fra PDF. OBS: 5 tabeller, 20 figurer, 145 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 278]
-
-276
-
-Kapittel 7
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-som han gjorde i det påfølgende politiavhøret –
-som et offer for Kristiansen. I sin prosedyre
-omtalte advokat Pettersen samtalen som en «redningsplanke».39 Utvalget finner denne karakteristikken treffende.
-Utvalget understreker at det ofte bør utvises
-forsiktighet med å benytte en medtiltalts forklaring
-som et bevis av vekt ved vurderingen av om en
-annen tiltalt er skyldig.40 Begrunnelsen er at en
-medtiltalt etter omstendighetene kan ha en egeninteresse i å benytte sin forklaring til å redusere egen
-skyld og legge ansvar over på andre medtiltalte.
-Etter utvalgets syn slo begrunnelsen for å utvise
-slik forsiktighet i stor grad til i denne saken: Andersen hadde en klar egeninteresse i å forklare seg
-uriktig og legge skylden på Kristiansen. Politiet
-hadde dessuten langt på vei lagt til rette for en forklaring som pekte ut Kristiansen som hovedmann.
-Med andre ord forelå det konkrete omstendigheter
-som var egnet til å svekke bevisverdien av forklaringen. At byretten ikke gikk nærmere inn på disse
-forholdene i domsgrunnene, men i stedet oppga at
-det «ikke [var] mulig å se noe motiv for Andersen
-til å trekke Kristiansen urettmessig inn i saken», er
-vanskelig å forstå.
-Det er naturligvis ikke slik at enhver medtiltalt
-forklarer seg usant om andre medtiltalte. De
-omstendigheter utvalget har påpekt ovenfor, fordrer imidlertid at retten gjør en grundig vurdering av påliteligheten av forklaringen. Pålitelighet
-relaterer seg til forklaringens sannhetsverdi og
-innebærer at retten, i den grad det er mulig, må
-vurdere om forklaringen samsvarer med øvrige
-bevis i saken av mer objektiv karakter. I byrettens
-dom er påliteligheten til Andersens forklaring om
-Kristiansens deltakelse reelt sett kun «kontrollert» mot byrettens oppfatning av DNA-bevisene.
-At de to var sett sammen rundt kl. 18.00 og noe før
-kl. 21.00, slik byretten også trakk frem i bevisvurderingen, var i liten grad egnet til å kontrollere om
-de også var sammen under ugjerningene og i tidsrommet rett i forkant.41 Det samme gjelder argumentene om at de to var svært gode venner, at
-Kristiansen for noen år tilbake hadde begått overgrep, og at han angivelig hadde en «særlig sterk
-interesse for pornografi» og «spesielle seksuelle
-tilbøyeligheter».
-Bevis som var godt egnet til å kontrollere
-Andersens pålitelighet, men som var mindre forenlige med Andersens forklaring, synes på den
-39
-
-Se punkt 6.8.3.
-Se punkt 13.4.4.2 og Magnussen og Teigen (2023).
-41 Observasjonene ca. kl. 18.00 og 21.00 var også forenlige
-med Kristiansens forklaring.
-40
-
-andre siden ikke å ha blitt tatt i betraktning av
-byretten. Mens sykkelbeviset ikke er nevnt i dommen, har byretten en lengre drøftelse av telebevisets innplassering i bevisbildet. Drøftelsen av telebeviset skjedde imidlertid ikke som ledd i noen
-pålitelighetsvurdering av Andersens forklaring. I
-stedet forlot byretten Andersens forklaring og
-fremsatte tre alternative hendelsesforløp, hvor
-telebeviset ble forsøkt innplassert. Utvalget har
-merket seg at samtlige teorier passet dårlig med
-forklaringen som retten innledningsvis i dommen
-hadde lagt til grunn at «i all hovedsak [var] korrekt», og som ellers ble tillagt avgjørende vekt ved
-vurderingen av Kristiansens forhold. Den siste
-teorien gikk eksplisitt ut på at «Andersen ikke forklarer seg seg korrekt om alle ting som skjedde
-på åstedet, noe retten ikke ser bort ifra». Dette
-fremstår som inkonsistent med vurderingen av
-Andersens forklaring for øvrig, og innebærer at
-det i realiteten er uklart hvilket faktum byretten
-bygget på ved domfellelsen av Kristiansen.
-Ved vurderingen av Andersens straffskyld
-kom byretten etter en lengre drøftelse til at Andersen måtte frifinnes for drapet på Sløgedal Paulsen,
-og at han ikke handlet med overlegg ved drapet
-på Sørstrønen. I drøftelsene er det blant annet vist
-til prinsippet om at enhver rimelig tvil skal komme
-tiltalte til gode, og at retten derfor ikke kunne se
-bort fra at Andersens forklaring var riktig. En slik
-tilnærming var naturligvis riktig når det gjelder
-rettens vurdering av Andersens forhold. Mer problematisk er det at Andersens forklaring, slik den
-ble lagt til grunn av byretten, også synes å ha tjent
-som utgangspunkt for vurderingen av Kristiansens forhold.
-Domsgrunnene etterlater et inntrykk av at tvilen som kom Andersen til gode, også fikk en
-direkte virkning for hendelsesforløpet som ble
-funnet bevist for Kristiansens vedkommende.
-Andersens beskrivelse av Kristiansens rolle og
-handlinger trekkes ikke på noe tidspunkt i tvil i
-domsgrunnene. Utvalget har i den forbindelse
-merket seg at Kristiansens rolle i hendelsesforløpet gjennomgående er omtalt deskriptivt i domsgrunnene, nærmest som et uomstridt faktum, selv
-om den fullt ut bygget på Andersens forklaring.42
-42
-
-Det motsatte er tilfellet ved byrettens beskrivelse av Andersens delaktighet i hendelsesforløpet, hvor det gjennomgående er referert til hva «Andersen har forklart», «ifølge
-hans egen forklaring» og lignende. Dette fortellergrepet er
-drøftet i Pedersen (2017), der artikkelforfatter Frode Helmich Pedersen omtaler det som en «narrativ forskjellsbehandling» som blant annet «tilslører det faktum at all den
-tvilen som hefter ved Andersens handlinger nødvendigvis
-også må gjelde Kristiansens handlinger, siden Andersens
-forklaring er den eneste kilden til begge».
-
-[Side 279]
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-Sammen med behandlingen av telebeviset, som i
-realiteten satte den samme forklaringen til side,
-indikerer dette vesentlig svikt ved byrettens bruk
-av Andersens forklaring som bevis mot Kristiansen.
-Utvalget har også merket seg at byretten på ett
-punkt tilsynelatende fant grunnlag for å se bort fra
-Andersens forklaring. I forbindelse med spørsmålet om Andersen skulle dømmes for medvirkning
-til voldtekt av Sørstrønen, uttalte byretten:
-«Det som likevel er avgjørende for rettens vurdering av medvirkningsspørsmålet er det forhold at Kristiansen, etter å ha voldtatt Stine
-Sofie Sørstrønen, ville at Andersen også skulle
-forgripe seg på henne. Andersen har forklart at
-Kristiansen på det tidspunkt truet ham med
-kniv til å foreta overgrep overfor Stine Sofie
-Sørstrønen. Opplysninger om denne angivelige volden fra Kristiansens side kom først frem
-1½ måned etter at Andersen var pågrepet og
-etter at det forelå biologiske spor som bekreftet
-at også Andersen hadde forgrepet seg på en av
-jentene. Retten finner det usannsynlig at det på
-dette tidspunkt ble utøvd alvorlig, livstruende
-vold fra Kristiansens side overfor Andersen.
-Andersen kunne etter rettens vurdering på
-dette tidspunkt løpt fra stedet uten å sette seg
-selv i fare. Da Andersen derfor forgrep seg på
-Stine Sofie Sørstrønen skjedde dette fra hans
-side frivillig.»43
-
-Konklusjonen om at dette overgrepet skjedde «frivillig», er imidlertid ikke konsistent med det som
-sies et annet sted i dommen. Ved straffutmålingen
-la byretten til grunn at det aktuelle overgrepet
-hadde skjedd etter forutgående trusler fra Kristiansen:
-«Andersen har i sine forklaringer for politiet,
-og også for retten fremholdt at Kristiansen tok
-initiativet til ugjerningene uten at de to hadde
-snakket om dette på forhånd. Han har videre
-fremholdt at Kristiansen truet ham til å gjennomføre utuktig omgang med Stine Sofie Sørstrønen slik som ovenfor beskrevet, dog uten at han
-selv hadde samleie med henne. Han har videre
-forklart at han foretok drapet etter først selv å
-ha vært truet på livet om han ikke gjennomførte dette. I og med at Kristiansen ikke har villet erkjenne noen befatning med forholdet, har
-retten ikke mottatt opplysninger som verken
-kan bekrefte eller avkrefte den fremstilling
-43
-
-TKISA-2001-374 s. 15.
-
-277
-
-Kapittel 7
-
-Andersen her har gitt. Ut fra prinsippet om at
-enhver rimelig tvil skal komme tiltalte til gode,
-må retten derfor legge Andersens forklaring til
-grunn ved straffeutmålingen overfor ham.»44
-
-Et annet eksempel som etterlater et inntrykk av
-mangel på indre sammenheng i vurderingene, er
-byrettens drøftelse av Andersens straffskyld for
-drapet på Sørstrønen. Byretten la på dette punktet
-til grunn Andersens forklaring om at drapet
-skjedde etter et forutgående «oppgjør» mellom de
-tiltalte etter drapet på Sløgedal Paulsen, som
-endte med at Kristiansen truet Andersen med
-kniv til å drepe Sørstrønen. Dersom Andersen
-ikke adlød, ville Kristiansen ifølge Andersen
-drepe både ham og Sørstrønen. Denne opptakten
-mente retten «etter all sannsynlighet hadde skapt
-sterk sinnsbevegelse hos Andersen», slik at han
-ikke kunne anses for å ha handlet med overlegg.
-Samtidig fant retten det «ikke tvilsomt» at Andersen gjennomførte drapet «med det formål at han
-ville unndra seg straffen for voldtekten som like
-før hadde funnet sted». Det er ikke innlysende at
-disse motivene lar seg forene med hverandre, noe
-som påkaller en nærmere drøftelse. En slik drøftelse finnes imidlertid ikke i byrettens dom.45
-
-7.4.6
-
-Byrettens vurdering av DNAresultatene
-Om DNA-analysene fra Universitetet i Santiago de
-Compostela (USC) la byretten følgende til grunn:
-«På de to fornærmede ble det videre tatt prøver
-hvor det ble funnet sædceller. Disse sædcellene hadde imidlertid ligget for lenge til at det
-var mulig å foreta en fullstendig DNA-analyse.
-Da man gjorde forsøk på å analysere prøvene
-som var tatt fra de to fornærmede, klarte man
-ikke å få frem en DNA-profil annet enn på celler
-44
-45
-
-TKISA-2001-374 s. 22. Utvalgets kursivering.
-Se også Pedersen (2017). Artikkelforfatter Frode Helmich
-Pedersen trekker frem at byrettens vurderinger om at overgrepet skjedde frivillig, og at drapet skjedde med formål
-om å unndra seg straff, rokker vesentlig ved byrettens
-øvrige karakteristikk av Andersen som «uvitende, uvillig og
-underkuet medløper». Artikkelen konkluderer med at
-inkonsistensene og uklarhetene i byrettens fremstilling av
-Andersens person, handlinger og motiver, bidrar til å
-svekke domsfortellingens plausibilitet. Det uttales blant
-annet: «Det overordnede narratologiske poenget er her at
-man ikke simpelheten kan forandre på en av hovedpersonenes sentrale motiver uten at hele fortellingen påvirkes av
-det. Det kan se ut til at retten i dette tilfellet ikke har tatt
-konsekvensene av sine egne korrigeringer på disse punktene, slik at to uforenlige karakteristikker av Andersen
-synes å være operative innen en og samme fortelling.»
-
-[Side 280]
-
-278
-
-Kapittel 7
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-som stammet fra de fornærmede selv. Ved
-Rettsmedisinsk Institutt tok man imidlertid
-kontakt med spanske rettsmedisinere ved universitet i Santiago de Compostela hvor man har
-forsket særskilt på DNA-analyse på y-kromosomer. Man foretok en rekke tester på denne
-måten og fikk ifølge overingeniør Bente
-Mævåg ved Rettsmedisinsk Institutt, som har
-vært oppnevnt som sakkyndig, sikker bekreftelse på at det i de innleverte prøver var celler
-fra to forskjellige menn. Man fikk likevel ikke
-noen fullstendig DNA-profil, og det er derfor
-ikke grunnlag for å si noe nærmere om identiteten til de to mennene dette dreier seg om. De
-rettsmedisinske funnene viser imidlertid at det
-er funnet DNA i skjede og endetarm på Stine
-Sofie Sørstrønen forenlig med begge de to tiltalte, samtidig som det også er funnet DNA i
-endetarmsåpning på Lena som ikke er i overensstemmelse med DNA fra Jan Helge Andersen, men som passer med Viggo Kristiansen.
-Det skal for øvrig bemerkes at den svært
-begrensede DNA-profil som er identifisert, og
-som stemmer med DNA fra Kristiansen, stemmer med tilsvarende profil på over 50% av norske menn. Det er likevel et poeng at analysen
-er i overensstemmelse med tiltalte Andersens
-forklaring hvoretter begge forgrep seg på Stine
-Sofie Sørstrønen, mens kun tiltalte Kristiansen
-gjorde dette på Lena Sløgedal Paulsen.
-Det forhold at man har funnet DNA fra to
-forskjellige menn er videre et vesentlig bevis
-når man skal vurdere troverdigheten av Andersens forklaring, når han hevder at Kristiansen
-var med i Baneheia og utførte drapene og voldtektene. Videre støttes Andersens forklaring
-når det gjelder lokaliseringen av DNA fra ham
-bare på Stine Sofie Sørstrønen, og ikke på Lena
-Sløgedal Paulsen.»46
-Som det fremgår av sitatet, tok byretten utgangspunkt i at det ble funnet sædceller i enkelte av prøvene. Det fremgår ikke direkte av det siterte at
-byretten la til grunn at sædcellene var kilden for
-DNA-sporene, men noe alternativt kildeopphav
-ble ikke drøftet. Slik utvalget ser det, gir dette
-visse holdepunkter for å anta at byretten kan ha
-forutsatt en direkte sammenheng mellom sædcellene og DNA-sporene og dermed uten videre lagt
-til grunn at sporene var handlingsrelevante og
-avsatt av gjerningspersoner. Selv om det fremkom
-under bevisføringen at resultatene kunne stamme
-46
-
-Kristiansand byretts dom 1. juni 2001 (TKISA-2001-374) s.
-11–12.
-
-fra andre celletyper enn sædceller, var det likevel
-et flertall av tilstedeværende journalister som ikke
-fanget opp dette og refererte til at det sikkert
-dreide seg om sæd fra to menn, se punkt 6.3.5.4.
-Dersom byretten var oppmerksom på at resultatene kunne stamme fra andre celletyper enn
-sædceller, må det legges til grunn at byretten ikke
-var bevisst på at det uklare kildeopphavet kunne
-ha betydning for bevisverdien av DNA-sporene.
-Mens en hvilken som helst annen person nødvendigvis ikke kunne ha avsatt sædceller i sporprøvene, stiller det seg annerledes for epitelceller. At
-celleopphavet ikke ble problematisert nærmere,
-må derfor anses som en svakhet ved byrettens
-bevisvurdering knyttet til DNA-resultatene.
-Med henvisning til den sakkyndiges vitnemål
-la byretten deretter til grunn at det var «sikkert»
-at det var celler fra to forskjellige menn i prøvene.
-Denne slutningen må – slik den er formulert –
-nødvendigvis også ha omfattet prøvene B-22 (Sørstrønen, ytre skjede) og B-25 (Sørstrønen, indre
-anus). Som påpekt tidligere brukte USCs rapport
-konklusjonsgraden «possible» om tolkningen av
-analysefunnene i disse prøvene.47 Med andre ord
-var det mulig at prøvene viste celler fra to forskjellige menn, det vil si verken sikkert eller mest sannsynlig. Byrettens slutning hadde dermed ikke forankring i USCs rapport og burde ikke blitt tillagt
-nevneverdig vekt i bevisvurderingen. Utvalget har
-likevel en viss forståelse for at den muntlige bevisføringen ble oppfattet slik byretten gir uttrykk for,
-jf. punkt 6.3.5.4.
-Formålet med en DNA-analyse er å finne kilden til et biologisk spor. Analysen sier i seg selv
-ikke noe om når eller hvordan sporet er avsatt.
-Om sporet er avsatt i forbindelse med den straffbare handlingen, eller om det kan tenkes alternative forklaringer på sporet, er et sentralt bevisspørsmål som den rettsgenetiske analysen normalt ikke gir svar på. Spørsmålet hører derimot
-naturlig inn under rettens bevisvurdering. Det er
-domstolenes oppgave å ta stilling til relevansen av
-sporet for straffesaken, ikke rettsgenetikerens.
-Byretten synes ikke å ha vært tilstrekkelig bevisst
-på dette. Retten synes forutsetningsvis å ha lagt til
-grunn at DNA-spor fra to menn var ensbetydende
-med to gjerningsmenn, ettersom det i domsgrunnene ikke tas stilling til spørsmålet om handlingsrelevans. I så fall dreier det seg om den samme
-feilslutningen som utvalget mener gjør seg gjeldende for politiets og påtalemyndighetens tilnærming til DNA-bevisene.
-47
-
-Punkt 4.7.3.1.
-
-[Side 281]
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-For sikkert å kunne fastslå at et DNA-spor
-knytter seg til den straffbare handlingen og er
-avsatt av gjerningsmannen, må alternative forklaringer på sporet kunne utelukkes. At resultatet fra
-prøve C-25 (Sløgedal Paulsen, ytre endetarm) var
-oppgitt med en likelihood ratio så lav som 1,8, er
-sentralt i denne sammenheng.48 Tallet gir uttrykk
-for DNA-bevisets egenvekt og indikerte et tilnærmet nøytralt bevis for hypotesen om at sporet
-stammet fra Viggo Kristiansen. I realiteten var det
-dermed tale om et bevis nær sagt uten bevisverdi
-for straffesaken. Når et DNA-funn ikke gir noen
-rimelig grad av sikker identifikasjon, og celletypen heller ikke kan identifiseres, lar det seg vanskelig gjøre å si noe sikkert om hvorvidt funnet
-står i årsakssammenheng med den straffbare
-handlingen. At prøvene stammet fra intime steder
-på ofrene, utelukket ikke at DNA-funnene kunne
-stamme fra andre kilder enn gjerningmannen.49
-Utvalget nevner også at bruken av en høysensitiv
-analysemetode innebar økt risiko for å se feilutslag eller kontamineringsutslag i analysen. Endelig kan det nevnes at USCs analyser av RMIs
-ekstrakter ikke hadde gitt resultater ved USC.50
-Dersom de nevnte forholdene hadde blitt tatt i
-betraktning av byretten, ville konklusjonen nødvendigvis måtte bli at DNA-resultatene fra USC
-isolert sett hadde svært lav bevisverdi. Resultatene kunne stamme fra én eller flere gjerningsmenn, men også fra en DNA-kilde uten sammenheng med den straffbare handlingen. På tilsvarende måte kunne allel 10 stamme fra Kristiansen,
-men også fra et stort antall andre menn – og ikke
-nødvendigvis gjerningsmenn. I denne sammenheng må det også tillegges betydning at telebeviset klart talte imot at funnet stammet fra Kristiansen.
-Domspremissene viser at byretten anså DNAresultatene som et «vesentlig» bevis når den vurderte Andersens forklaring om Kristiansens rolle.
-48
-
-Likelihood ratio (LR) er et statistisk mål som vekter sannsynligheten for å observere et DNA-resultat gitt to konkurrerende og gjensidig utelukkende hypoteser. Disse hypotesene omtales ofte som «aktoratets hypotese» og «forsvarers hypotese». LR forteller hvor mange ganger mer
-sannsynlig det er å observere DNA-resultatet dersom det
-undersøkte DNA-et stammer fra en bestemt person (for
-eksempel mistenkte) i forhold til en tilfeldig person. LRskalaen går fra 0 via 1 (nøytralt) og opp til milliarder. Jo
-mer LR overstiger 1, desto mer vil resultatet tale for at det
-undersøkte DNA-et stammer fra den mistenkte (aktors
-hypotese) i forhold til den tilfeldige personen (forsvarers
-hypotese). Se punkt 13.8.5.
-49 DNA kan overføres både før (oversmitte), under (handlingsrelevant) og etter en straffbar handling (kontaminering).
-50
-Se punkt 3.8.6.5 og 4.7.3.1.
-
-279
-
-Kapittel 7
-
-Byrettens tolkning av DNA-resultatene støttet
-Andersens forklaring om at handlingene ble
-begått av to gjerningsmenn. Tolkningen passet
-videre med Andersens forklaring om hvem av
-gjerningsmennene som hadde begått overgrep
-mot hvilken jente. Etter utvalgets oppfatning er
-det holdepunkter for at svakhetene ved DNAresultatene – og deres betydning for resultatenes
-bevisverdi – i for liten grad ble berørt i den muntlige bevisføringen, se punkt 6.3.5.4. Utvalget anser
-det som sannsynlig at dette har medvirket til
-byrettens oppfatning om hva som sikkert kunne
-utledes av DNA-resultatene.
-
-7.4.7 Samlet om byrettens dom
-Utvalget har foran påpekt flere svakheter og mangler ved byrettens dom i Baneheia-saken. En av
-de mest sentrale svakhetene er den knappe vurderingen av Viggo Kristiansens egen forklaring.
-Dommen inneholder ingen vurdering av forklaringens plausibilitet, herunder hvordan forklaringen
-passet med øvrige bevis i saken, se punkt 7.4.3. I
-lys av uskyldspresumsjonen skulle Kristiansens
-forklaring ha tjent som utgangspunkt for rettens
-vurdering av skyldspørsmålet og vært vurdert i
-lys av øvrige bevis. Det ville i så fall ha blitt klart at
-flere opplysninger støttet forklaringen, ikke minst
-telebeviset, som langt på vei utelukket Kristiansen
-som gjerningsmann.
-Byretten tok i stedet utgangspunkt i Andersens forklaring, som dannet grunnlaget for byrettens samlede vurdering av skyldspørsmålet for
-begge de tiltalte. Ut fra domsgrunnene går det
-ikke noe klart skille mellom hva som er gjengivelse av Andersens forklaring, og hva som utgjør
-«det saksforhold retten har funnet bevist som
-grunnlag for dommen» mot Kristiansen («bevisresultatet»).51 Fremgangsmåten innebærer at
-Andersens forklaring, med alle dens detaljer,
-synes å ha blitt lagt til grunn ved avgjørelsen av
-skyldspørsmålet for Kristiansen. Dette virker også
-å gjelde for de deler av Andersens forklaring hvor
-byretten lot tvilen komme Andersen til gode. I lys
-av uskyldspresumsjonen og det strafferettslige
-beviskravet er denne fremgangsmåten problematisk. Utvalget mener den valgte tilnærmingen er
-egnet til å skape tvil om det ble foretatt en tilstrekkelig individuell og forsvarlig vurdering av spørsmålet om straffskyld.
-Under bevisføringen kom det frem at Andersens forklaring led av en rekke svakheter, som
-både hver for seg og samlet var egnet til å svekke
-51
-
-Straffeprosessloven § 40 første ledd.
-
-[Side 282]
-
-280
-
-Kapittel 7
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-dens bevisverdi, se punkt 7.4.5: Dels var forklaringen preget av mangel på plausibilitet og indre
-sammenheng, dels passet den dårlig med forklaringer fra vitner og telebeviset. Det var også holdepunkter for at Andersen hadde tilpasset sin forklaring etter hvert som han fikk ny informasjon,
-noe byretten påpekte da den kom inn på Andersens overgrep mot Stine Sofie Sørstrønen. Byretten var også kjent med omstendighetene rundt
-Andersens tilståelse etter pågripelsen, herunder
-hvilke opplysninger som ble gitt av politiet i den
-uformelle samtalen forut for avhøret.
-Etter utvalgets syn burde det ovennevnte ledet
-til en grundigere vurdering av troverdigheten og
-påliteligheten av Andersens forklaring om Kristiansens deltakelse. At byrettens dom inneholder til
-dels uklare og skiftende synspunkter på Andersens motiver for overgrepet og drapet på Sørstrønen, tyder i seg selv på en svikt i bevisvurderingen. Det samme gjelder for byrettens tre teorier
-om hvordan telebeviset kunne passe inn i det
-øvrige bevisbildet, all den tid samtlige av dem passet dårlig med Andersens versjon av hendelsesforløpet, som domfellelsen av Kristiansen ellers bygget på.
-DNA-resultatene i saken ble mest sannsynlig
-forstått slik at de ga en sikker bekreftelse på at
-ugjerningene var begått av to gjerningsmenn, jf.
-punkt 7.4.6. Denne tolkningen var objektivt sett
-ikke korrekt. Andersens forklaring om Kristiansens deltakelse ble i realiteten kun kontrollert
-mot dette premisset, og byretten anså det som et
-«vesentlig» bevis. DNA-resultatene var imidlertid
-så svake at de praktisk talt var uten bevisverdi for
-straffesaken, også i relasjon til spørsmålet om
-antall gjerningsmenn. Utvalget har likevel en viss
-forståelse for at bevisføringen ble oppfattet slik
-byretten la til grunn, jf. punkt 6.3.5.4.
-Uavhengig av rettens oppfatning av DNAresultatenes bevisverdi var det etter bevisføringen
-klart at telebeviset med tyngde talte mot at Kristiansen var gjerningsmann og kunne ha avsatt sitt
-DNA på ofrene. Etter utvalgets syn var telebeviset
-et bevis som etter en rasjonell vurdering skulle
-blitt tillagt stor vekt. Det var tale om et objektivt,
-teknisk bevis som på den ene siden ga vesentlig
-støtte til Kristiansens forklaring om hvor han
-hadde oppholdt seg på gjerningstidspunktet, og
-
-som på den andre siden var helt uforenlig med
-Andersens forklaring. Det var ingen holdepunkter
-for at det heftet feil ved Telenors målinger.
-Slik utvalget ser det, er vurderingen av telebeviset den største svakheten i byrettens dom, jf.
-punkt 7.4.4. I stedet for å fastslå det relativt åpenbare utgangspunktet – at beviset støttet Kristiansens forklaring og svekket påliteligheten av
-Andersens forklaring – presenterte byretten tre
-alternative teorier for hvordan telebeviset kunne
-være forenlig med at Kristiansen var skyldig. Felles for teoriene var at de i liten eller ingen grad
-hadde vært gjenstand for etterforskning, bevisføring og kontradiksjon. Ingen av teoriene ga uansett noen fyllestgjørende svar. Telebeviset ble dermed i realiteten stående uforklart, noe domsgrunnene klart viser.
-Under henvisning til vurderingen av de
-«øvrige bevisene» i saken, som mobiltelefonbruken ifølge byretten ikke «endre[t] på», la retten til
-grunn at det var «bekrefte[t] utover enhver rimelig tvil at tiltalte Kristiansen sammen med tiltalte
-Andersen utførte voldtektene og drapene nevnt i
-tiltalebeslutningens post I–III». Byretten oppga
-ikke uttrykkelig hvilke bevis som var utslagsgivende i den samlede vurderingen. Ut fra domsgrunnene er det imidlertid nærliggende å anta at
-det var Andersens forklaring sammenholdt med
-DNA-bevisene som ble tillagt avgjørende vekt.52
-Utvalget mener at byretten – i en situasjon
-hvor det tilsynelatende forelå en sikker bekreftelse på to gjerningsmenn, men samtidig et teknisk bevis som på det nærmeste utelukket én av
-de to tiltalte – enten skulle ha frifunnet Kristiansen eller utsatt saken og sørget for supplerende
-bevisføring, jf. straffeprosessloven § 294. Domfellelse av Kristiansen i en slik situasjon var under
-enhver omstendighet ikke i tråd med beviskravet i
-straffesaker, som er at enhver rimelig tvil skal
-komme tiltalte til gode.
-
-52
-
-De øvrige bevisene som ble trukket frem i domsgrunnene
-– som observasjonene rundt kl. 18.00 og 21.00, relasjonen
-mellom de to tiltalte, pornointeresser og Kristiansens tidligere overgrep – var i liten grad egnet til å kaste lys over
-hvorvidt Kristiansen hadde vært på åstedet. Observasjonene før og etter drapene var også fullt forenlige med Kristiansens forklaring.
-
-[Side 283]
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-281
-
-Kapittel 8
-
-Kapittel 8
-
-Ankeforhandling og dom i Agder lagmannsrett
-8.1
-
-Sammendrag
-
-Ankeforhandlingen i Agder lagmannsrett ble gjennomført over 19 rettsdager på tinghuset i Arendal i
-perioden 7. januar til 7. februar 2002. Det ble ført 49
-vitner, herunder fire sakkyndige vitner. Videre mottok retten forklaring fra syv rettsoppnevnte sakkyndige. Det ble gjennomført befaring i Baneheia.
-Både Andersen og Kristiansen avga forklaringer. Bevisførselen var ellers så å si den samme
-som i byretten. En forskjell fra byrettsbehandlingen var at påtalemyndigheten hadde innhentet en
-ny vurdering av dekningsforholdene i Baneheia
-fra selskapet Teleplan. For øvrig ble det ført flere
-vitner som forklarte seg om observasjoner av
-Andersen og/eller Kristiansen 18. og 19. mai
-2000. Det ble også ført flere vitner om de tiltaltes
-karakter og atferd.
-Aktor anførte at Teleplans rapport og vitnemål
-var forenlig med at EG_A kunne ha hatt dekning
-på åstedet på drapsdagen. Kristiansens forsvarere
-bestred at dette var en rimelig tolkning av Teleplans konklusjoner, og anførte at det kun var en
-teoretisk mulighet.
-På samme måte som i byretten ble DNA-bevisene av aktoratet forstått slik at de ga en sikker
-bekreftelse på at ugjerningene var begått av to
-gjerningsmenn. En tilsvarende oppfatning ble lagt
-til grunn av førstelagmannen i rettsbelæringen.
-Lagretten fant Kristiansen skyldig i alle forhold i tiltalebeslutningen som vedrørte Baneheiasaken.
-Den 1. januar 2002 trådte det i kraft nye regler
-om forvaring som erstattet bestemmelser om
-såkalt sikring. Endringene omfattet tidligere
-begåtte handlinger som ble pådømt etter ikrafttredelsen, forutsatt at vilkårene for sikring var
-oppfylt. I medhold av de nye reglene la aktor ned
-påstand om 21 års forvaring med en minstetid på
-10 år for Kristiansen. Kristiansens forsvarer, Tore
-Pettersen, la ned prinsipal påstand om at Kristiansen skulle frifinnes.
-Ved Agder lagmannsretts dom 13. februar
-2002 ble Kristiansen dømt til 21 års forvaring med
-
-en minstetid på 10 år. Andersen ble dømt til 19 års
-fengsel, to år mer enn i byretten.
-Kristiansen anket til Høyesterett over lovanvendelsen under skyldspørsmålet og saksbehandlingen. Andersen anket over straffutmålingen.
-Kjæremålsutvalget besluttet 24. april 2002 at
-Andersens anke skulle fremmes for Høyesterett.
-Kristiansen anke ble ikke tillatt fremmet, og lagmannsrettens dom ble dermed rettskraftig for
-Kristiansens vedkommende. Ved Høyesteretts
-kjennelse 26. august 2002 ble Andersens anke forkastet. Straffen på 19 års fengsel ble dermed stående.
-
-8.2
-
-Innledning
-
-8.2.1 Utvalgets kilder
-Det ble ikke gjort opptak av ankeforhandlingen,
-og utvalget er – som ved gjennomgangen av
-hovedforhandlingen i byretten1 – henvist til å
-bygge på rettsboken, straffesaksdokumentene,
-avisreferater, intervjuer og notater fra aktørene.2
-8.2.2
-
-Rammene for ankeforhandlingen
-og rettssakens aktører
-Både Kristiansen og Andersen anket byrettens
-dom. Kristiansens anke gjaldt bevisbedømmelsen
-under skyldspørsmålet for tiltalepostene knyttet
-til Baneheia-saken (post I, II og III) samt post IV.3
-Anken gjaldt i tillegg straffeutmålingen, sikringsspørsmålet og erstatningskravene. Andersens
-anke gjaldt straffutmålingen. Påtalemyndigheten
-godtok dommen mot Kristiansen, men anket dommen mot Andersen for så vidt gjaldt straffutmålin1
-2
-3
-
-Se punkt 6.2.1.
-Utvalget har blant annet hatt tilgang til aktors manus for
-innledningsforedraget og prosedyren i lagmannsretten.
-Kristiansen anket ikke de øvrige postene i tiltalebeslutningen, post V og VI, som han hadde erkjent straffskyld for.
-Byrettens domfellelse for disse forholdene ble dermed
-rettskraftig.
-
-[Side 284]
-
-282
-
-Kapittel 8
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-gen.4 Ved beslutning 25. juni 2001 henviste Agder
-lagmannsrett ankene til ankeforhandling.
-Ankeforhandlingen i Baneheia-saken ble gjennomført på tinghuset i Arendal i perioden 7.
-januar til 7. februar 2002. Fagdommere i saken var
-førstelagmann Asbjørn Nes Hansen, lagdommer
-Åse Berg og lagdommer Erik Holth.
-Ved ankeforhandlingens oppstart ble det trukket ut ti lagrettemedlemmer og to varamedlemmer. Etter avslutningen av bevisførselen ble to av
-lagrettemedlemmene trukket ut til ikke å være
-med på avgjørelsen av skyldspørsmålet. Foruten
-lagrettens ordfører ble tre andre lagrettemedlemmer trukket ut til å være med på reaksjonsfastsettelsen.5
-Aktor var førstestatsadvokat Edward Dahl ved
-Agder statsadvokatembeter. Advokatene Tore H.
-Pettersen og Svein A. Hagen var Viggo Kristiansens forsvarere. Forsvarer for Jan Helge Andersen var advokat Ben Fegran.
-Som bistandsadvokater møtte advokat Ivar
-Sveen for Klara Sløgedal og Arne Bernt Paulsen,
-advokat Børre Eskedahl for Ada Sofie Austegard
-og den fornærmede etter post IV og advokat
-Marit Thorvaldsen for Jostein Sørstrønen.
-4
-
-5
-
-I statsadvokatens innstilling til riksadvokaten 8. juni 2001
-(dok 01,22) fremgår det om ankevurderingen: «Jan Helge
-Andersen ble ikke kjent skyldig i overlagt drap på Stine
-Sofie Sørstrønen. Jeg stiller meg uforstående til den bevisvurdering retten har foretatt på dette punktet. Bevisresultatet har imidlertid ikke betydning for fastsettelsen av straffen, idet begge de to andre grunnlagene i 2. ledd i strl.
-§ 233 er tilstede. Han ble videre frifunnet for drapet på Lena
-Sløgedal Paulsen med en meget kort begrunnelse som
-ikke er fyldestgjørende ut fra bevisførselen. Retten har
-nemlig unnlatt å drøfte flere sider ved Andersens forklaring
-i retten som klart pekte i retning av at drapet lå innenfor
-forsettet og også ble overveiet fra hans side. Jeg kan imidlertid ikke med tilstrekkelig sikkerhet si at frifinnelsen er
-uriktig og foreslår derfor at frifinnelsen etter omstendighetene godtas.»
-Rettsbok for Agder lagmannsrett, jf. dok. 08,15.
-
-Både Viggo Kristiansen og Jan Helge Andersen avga forklaring. Retten gjennomførte en befaring på åstedet. Under forhandlingene førte partene 49 vitner, herunder fire sakkyndige vitner. I
-tillegg ble det avgitt forklaring fra syv rettsoppnevnte sakkyndige, hvorav tre innen rettsmedisin
-fra Rettsmedisinsk institutt, én sakkyndig innen
-dekningsforhold fra Teleplan og tre sakkyndige
-innen rettspsykiatri.
-
-8.2.3 Gangen i en lagrettesak
-I Agder lagmannsrett gikk Baneheia-saken som
-en lagrettesak, også kalt jurysak.6 Etter daværende straffeprosesslov § 352 ble lagmannsretten
-satt med lagrette når det var anket over bevisbedømmelsen under skyldspørsmålet, og anken
-gjaldt straff for forbrytelse som etter loven kunne
-medføre fengsel i mer enn 6 år.
-I lagrettesaker var avgjørelsesmyndigheten
-delt mellom tre juridiske dommere (retten) og ti
-lagrettemedlemmer (lagretten/juryen). Det var
-lagretten som avgjorde skyldspørsmålet i saken
-ved å svare ja eller nei på konkrete spørsmål om
-tiltaltes skyld. Spørsmålene ble stilt av rettens
-leder og bygde på tiltalen. I forkant av at lagretten
-avsa sin skyldkjennelse, holdt rettens leder en
-rettsbelæring til lagretten, som var et foredrag
-med oppsummering av viktige bevis, og hvor det
-ble gitt veiledning om rettsspørsmål.7
-I tillegg til at lagretten avgjorde skyldspørsmålet, deltok et utvalg av lagrettens medlemmer ved
-reaksjonsfastsettelsen sammen med fagdommerne. I tillegg til lagrettens ordfører ble tre av
-lagrettemedlemmene valgt ved loddtrekning.8
-6
-
-7
-8
-
-Juryordningen ble avskaffet ved lov 16. juni 2017 nr. 58 og
-erstattet av en meddomsrett med to fagdommere og fem
-meddommere, jf. straffeprosessloven § 332.
-Andenæs (2009) kapittel 65.
-Andenæs (2009) kapittel 65.
-
-[Side 285]
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-8.2.4
-
-283
-
-Kapittel 8
-
-Oversikt over rettsdagene
-
-Tabell 8.1 Oversikt over forhandlingene i Agder lagmannsrett
-Dato
-
-Kl.
-
-Bevisføring og annet av betydning
-
-Mandag 7.1
-
-10.00–16.00
-
-Retten ble satt. 16 lagrettemedlemmer og to varamedlemmer
-møtte. Lagrettens medlemmer avga forsikring etter reglene
-i straffeprosessloven § 360. Ett lagrettemedlem måtte vike sete
-på grunn av inhabilitet.
-Aktor leste opp tiltalebeslutningen. Viggo Kristiansen erklærte seg
-ikke skyldig i tiltalepostene som ankesaken gjaldt (post I a og b,
-II a og b, III og IV). Aktor fikk ordet til innledningsforedrag. Forsvarer Tore Pettersen fikk ordet til merknader til aktors innlegg.
-Tiltalte Viggo Kristiansen avga deretter forklaring.
-Lagmannsretten besluttet at forhandlingene vedrørende post IV
-i tiltalen skulle gå for lukkede dører uten referatforbud, og at
-avhørene av to sakkyndige vitner skulle gå for lukkede dører uten
-presse til stede.
-
-Tirsdag 8.1
-
-09.00–15.40
-
-Tiltalte Viggo Kristiansen fortsatte sin forklaring. Aktor delte ut
-egenrapport med oversikt over mobiltelefonbruk.
-
-Onsdag 9.1
-
-09.00–16.05
-
-Tiltalte Jan Helge Andersen avga forklaring.
-
-Torsdag 10.1
-
-09.00–15.40
-
-Jan Helge Andersen fortsatte sin forklaring. Viggo Kristiansen
-avga tilleggsforklaring.
-
-Fredag 11.1
-
-09.00–12.00
-
-Retten avsa kjennelse om at forhandlingene skulle gå for lukkede
-dører under forklaringene til rettsmedisinerne (Torleiv Ole Rognum og Kari Ormstad) og en åstedstekniker fra Kripos. Pressen
-og de pårørende fikk tillatelse til å være til stede. Det ble ikke
-utstedt referatforbud. Jan Helge Andersen avga tilleggsforklaring.
-Åstedsteknikerne forklarte seg for retten.
-
-Mandag 14.1
-
-Rettsfri.
-
-Tirsdag 15.1
-
-09.00–14.10
-
-Rettsmedisinerne Torleiv Ole Rognum og Kari Ormstad avga forklaring. Bente Mevåg fra Rettsmedisinsk institutt avga forklaring.
-
-Onsdag 16.1
-
-09.30–16.50
-
-Inge Schøyen fra Teleplan avga forklaring som rettsoppnevnt
-sakkyndig. Vitnene Bjørn Amundsen, Terje Øie og Audun TollumAndersen fra Telenor avga forklaring som sakkyndige vitner.
-Vitnene Espen Bakke og Eivind Loland avga forklaring.
-
-Torsdag 17.1
-
-09.00–14.20
-
-Diverse vitneforklaringer, blant annet fra Per Egil Rødsvik og
-Leonard Hovden.
-
-Fredag 18.1
-
-09.00–11.50
-
-Tiltalte Jan Helge Andersen avga tilleggsforklaring. Diverse
-vitneforklaringer.
-
-Mandag 21.1
-
-Rettsfri.
-
-Tirsdag 22.1
-
-09.00–17.15
-
-Diverse vitneforklaringer, blant annet fra politiavdelingssjef Magne
-Storaker.
-
-Onsdag 23.1
-
-09.00–15.15
-
-Diverse vitneforklaringer, blant annet fra Asbjørn Hansen i Kripos.
-Rapport fra rekonstruksjonen ble fremlagt.
-
-Torsdag 24.1
-
-09.00–12.10
-
-Befaring.
-
-[Side 286]
-
-284
-
-NOU 2026: 3
-
-Kapittel 8
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-Tabell 8.1 Oversikt over forhandlingene i Agder lagmannsrett
-Dato
-
-Kl.
-
-Bevisføring og annet av betydning
-
-Fredag 25.1
-
-09.00–13.15
-
-Diverse vitneforklaringer, blant annet fra Kristen Gislefoss. Jan
-Helge Andersen avga tilleggsforklaring.
-
-Man 28.1–tirs 29.1
-
-Rettsfri.
-
-Onsdag 30.1
-
-09.00–15.35
-
-Diverse vitneforklaringer. Viggo Kristiansens mor, Turid Kristiansen, forklarte seg. De rettsoppnevnte psykiatriske sakkyndige avga
-forklaring. Dokumentasjon fra aktor og forsvarer. Tiltalte Jan
-Helge Andersen avga tilleggsforklaring.
-
-Torsdag 31.1
-
-09.00–12.50
-
-Bente Mevåg ble på ny avhørt, denne gang ved telefonavhør. Forsvarer Tore Pettersen dokumenterte informasjon om mobilbeviset.
-Aktor fikk ordet til prosedyre om skyldspørsmålet.
-
-Fredag 1.2
-
-09.00–15.10
-
-Forsvarer Tore Pettersen fikk ordet til prosedyre om skyldspørsmålet.
-
-Mandag 4.2
-Tirsdag 5.2
-
-Rettsfri.
-09.00–13.30
-
-Rettens formann ga sin rettsbelæring. Før dette ble to lagrettemedlemmer trukket ut til ikke å være med på avgjørelsen av skyldspørsmålet.
-Overlevering av spørsmålsskriv til lagretten. Lagrettens kjennelse
-ble meddelt de tiltalte. Juryen svarte «ja, med flere enn seks stemmer» på alle spørsmål som gjaldt Baneheia-saken. Rettens formann
-opplyste at retten ville legge lagrettens kjennelse til grunn for dommen i saken.
-Lagrettemedlemmene ble dimittert, med unntak av tre medlemmer som ble trukket ut til å delta ved straffutmålingen.
-
-Onsdag 6.2
-
-09.00–14.45
-
-Aktor fikk ordet til prosedyre om straffutmålingen.
-
-Torsdag 7.2
-
-09.00–11.15
-
-Forsvarer Tore Pettersen og forsvarer Ben Fegran holdt sine
-prosedyrer om straffutmålingen.
-
-Onsdag 13.2
-
-14.00–14.25
-
-Rettsmøte for domsavsigelse. Dommen ble lest opp. Begge de
-tiltalte tok betenkningstid.
-
-Torsdag 14.2
-
-09.30–18.25
-
-Forhandlinger om de sivile kravene.
-
-Fredag 15.2
-
-09.00–14.55
-
-Forhandlinger om de sivile kravene fortsatte.
-
-Mandag 25.2
-
-8.3
-
-Lagmannsretten avsa dom vedrørende de sivile kravene med kun
-dommerne til stede.
-
-Forberedelse til
-ankeforhandlingen og ny
-etterforskning
-
-8.3.1 Oversikt
-Politiet foretok enkelte nye etterforskningsskritt i
-perioden mellom hovedforhandlingen og ankeforhandlingen. Av størst betydning var innhentingen
-
-av en ny sakkyndigrapport knyttet til Viggo Kristiansens mobilbruk og dekningsområdet for EG_A,
-jf. punkt 8.3.2. Det ble videre foretatt et nytt avhør
-av Jan Helge Andersen, jf. punkt 8.3.3. På begjæring fra Kristiansens forsvarer ble det også foretatt en ny rekonstruksjon i Baneheia med vekt på
-tidsbruken til og fra åstedet, jf. punkt 8.3.4. Øvrige
-etterforskningsskritt omtales i punktene 8.3.5–
-8.3.7.
-
-[Side 287]
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-285
-
-Kapittel 8
-
-Ny sakkyndigrapport om Kristiansens
-mobilbruk
-
-Om selskapet Teleplan heter det i rapporten
-som senere ble utarbeidet:
-
-8.3.2.1 Oppnevning av ny sakkyndig
-Den 29. juni 2001 sendte politiet begjæring til
-Kristiansand forhørsrett om oppnevning av
-sakkyndig i medhold av straffeprosessloven § 138.
-Begjæringen ble fremsatt «for å få en uavhengig
-faglig vurdering» av Kristiansens mobiltrafikk.
-Arbeidet – som ble utført av Telenor – ble beskrevet slik i begjæringen:
-
-«Teleplan er blant verdens ledende, private
-konsulentselskaper innen telekom, media- og
-informasjonsteknologi. Våre konsulenter utfører rådgivnings- og systemutviklingstjenester
-for aktører i det Europeiske telekommunikasjon, media og informasjonsteknologi markedet. Vi har også en betydelig virksomhet rettet
-mot forsvarssektoren og offentlig sektor.»12
-
-8.3.2
-
-«Det har både under rettssaken, og etter at
-dom falt i saken, vært reist spørsmål ved sannsynlighetsberegningene presentert fra Telenor
-Mobils side. Representantene som forklarte
-seg for retten har ikke teknisk bakgrunn, og
-det har heller ikke vært foretatt dyptgående
-analyser eller beregninger fra Telenors side
-som har inkludert eventuelle tekniske avvik i
-dekningsgraden for Eg A basestasjon den aktuelle kvelden, jf. forhold som tas opp i forslaget
-til mandat for de sakkyndige.»9
-
-8.3.2.2 Teleplans mandat
-Den 11. oktober 2001 avga Teleplan sin rapport,
-Dekningsstudie for Baneheiasaken.
-Bakgrunn og mandat er gjengitt på side 6 i rapporten og lyder slik:
-«1 Introduksjon
-I forbindelse med Baneheiasaken i Kristiansand har det vært knyttet stor usikkerhet
-rundt mobiltelefontrafikken på Viggo Kristiansens mobiltelefon på drapstidspunktet. Teleplan har i den forbindelse blitt bedt om å bistå
-med en uavhengig granskning omkring dette.
-Dette dokumentet gir derfor en analyse av
-mobiltelefontrafikken til Viggo Kristiansen i
-det aktuelle tidsrommet og gir en vurdering
-som følge av analysen på hvorvidt Kristiansen
-befant seg i det aktuelle området i det gitte tidsrommet.
-1.1 Mandat
-Teleplan er blitt bedt om å utføre en uavhengig
-granskning av mobiltelefontrafikken knyttet til
-Viggo Kristiansens mobiltelefon i forbindelse
-med Baneheia saken i Kristiansand. Rammene
-for denne aktiviteten er definert gjennom et
-mandat fra Kriminalsjef Arne Pedersen ved
-Kristiansand Politidistrikt som følger:
-1. Dekningsområdet for EG A basestasjon i
-Kristiansand kontrolleres opp mot telefontrafikk (tekstmeldinger) mottatt til – og
-sendt fra – Viggo Kristiansens mobiltelefon
-fredag 19.05.00 i tidsrommet fra kl. 18:50 til
-kl. 20:40. Det må søkes avklart om dekningsområdet innbefatter drapsåstedet,
-eventuelt hvor dekningsgraden går i forhold til åstedet.
-2. Hvilke faktorer kan ha influert på dekningsområdet fra EG A herunder bes undersøkt:
-a) Atmosfæriske forhold
-
-I den videre begrunnelsen for begjæringen heter
-det:
-«Når saken skal behandles på nytt i lagmannsretten, vil det på nytt bli reist tvil om betydningen av Kristiansens mobiltelefonbruk drapskvelden, og det bør således foretas uavhengige
-faglige undersøkelser av eksperter som med
-større grad av sikkerhet kan trekke konklusjoner om dekningsområdet for basestasjonen,
-selv om byretten i dommen konkluderer med
-at uklarhetene på dette området ikke har
-endret på vurderingen av de øvrige bevisene
-som førte til at retten ikke fant at det forelå
-rimelig tvil om at Kristiansen var skyldig i henhold til tiltalebeslutningen. Adv. Pettersen har
-også forutsatt at det foretas ytterliggere
-sakkyndige undersøkelser vedrørende dekningsområdet for Eg A basestasjon.»10
-
-Det fremgår at Kristiansens forsvarer ikke hadde
-hatt innvendinger til valg av sakkyndig eller til
-mandatet. Seniorkonsulent Inge Aslak Halsan
-Schøyen i konsulentfirmaet Teleplan AS, som allerede hadde sagt seg villig til å påta seg oppdraget,
-ble oppnevnt av forhørsretten 3. juli 2001.11
-9
-
-Påtegning 29. juni 2001, jf. dok 01,25.
-Påtegning 29. juni 2001, jf. dok 01,25.
-11 Oppnevningen fra forhørsretten var påført nederst på
-påtegningen 29. juni 2001, jf. dok. 01,25.
-10
-
-12
-
-Dekningsstudie for Baneheia-saken s. 8, jf. dok. 07,04,14.
-
-[Side 288]
-
-286
-
-Kapittel 8
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-b) Mulige koblinger mellom mobiltelefonen og bruk av Internett
-c) Såkalt ‘heng’ i baseområdet, og om dette
-kan ha influert på dekningsgraden.
-3. Kontroll av basestasjon EG A for de tre
-tekstmeldingene til/fra Viggo Kristiansens
-mobiltelefon i ovennevnte tidsrom. Herunder ønskes avklart om mobiltelefonen
-måtte vært slått på for at aktuell melding
-skulle bli registrert som mottatt kl. 19:24.
-Om mulig ønskes det også utredet hvor
-mobiltelefonen sannsynligvis må ha befunnet seg i det kritiske tidsrom.
-4. Viggo Kristiansens mobiltelefon (og SIMkort) kontrolleres i den utstrekning dette
-har betydning for å få nærmere klarlagt
-mobildekningen fra basestasjon i det aktuelle tidsrommet.»13
-
-•
-
-•
-
-8.3.2.3 Teleplans konklusjoner
-Konklusjonene fremgår av sammendraget på side
-4 og 5 og lyder slik:
-«På bakgrunn av de utførte analysene konkluderer Teleplan med følgende:
-• Det er overveiende sannsynlig at Viggo
-Kristiansen, eller rettere sagt hans GSMtelefon med SIM-kort registrert på ham,
-har mottatt en SMS-melding klokken
-19:24:50 den 19.05.00 og at telefonen har
-vært slått på.
-• Viggo Kristiansen mottok SMS-meldingen
-19:24:50 den 19.05.00 via Telenor Mobils
-basestasjon EG_A. Hans telefon og SIMkort befant seg derfor innenfor dekningsområdet for EG_A slik det var på det aktuelle tidspunktet.
-• Med basestasjonsnettet konfigurert slik det
-var i august 2001, da Teleplans målinger og
-analyser ble foretatt, anses det ikke for sannsynlig at dekningsområdet for EG_A omfatter åstedet. Avstanden fra åstedet til estimert cellegrense for EG_A er anslagsvis
-150–400 meter i luftlinje. Dette er presentert
-i form av et kart i rapportens Figur 12.
-• Dekningsvurderingen beskrevet i det foregående punkt bygger helt og fullt på data
-fra august måned 2001. En rekke forhold
-kan ha bidratt til at dagens dekningsforhold
-er forskjellige fra dekningsforholdene 19.
-mai 2000, da ugjerningene ble begått.
-13
-
-Dekningsstudie for Baneheia-saken, jf. dok. 07,04,14.
-
-•
-
-Teleplan har vurdert atmosfæriske forhold
-og mulige koblinger mellom mobiltelefonen og bruk av Internett til å ha neglisjerbar påvirkning på dekningsområdet. Imidlertid betrakter Teleplan forandringer i
-nettverkskonfigurasjonen i form av fysiske
-forandringer i nettet, ny softwarefunksjonalitet, nye softwarereleaser, samt nye parameterinnstillinger for basestasjonene, som
-en stor usikkerhetsfaktor. Forandringer i
-nettverkskonfigurasjonen siden 19.05.00 vil
-kunne ha påvirket dekningsområdet for
-EG_A.
-På grunn av at det ikke finnes tilgjengelige
-data med en fyllestgjørende beskrivelse av
-nettverkskonfigurasjonen den 19.05.00 er
-det ikke mulig å konstatere hvordan dekningen var på dette tidspunktet. Det er dermed heller ikke mulig å fastslå hvorvidt
-åstedet var eller ikke var innenfor dekningsområdet til stasjonen EG_A den
-19.05.00.
-Konklusjonene er basert på målinger og
-analyser foretatt av Teleplan samt innhentede data fra Telenor Mobil og utstyrsleverandøren Ericsson.»14
-
-Teleplan utarbeidet et dekningskart, se figur 8.1.15
-
-8.3.2.4 Teleplans målinger
-Av rapporten fremgår det at Teleplan foretok til
-sammen 18 målinger i Baneheia i perioden 21.–24.
-august 2001. Området som ble testet, ble anvist av
-politiavdelingssjef Magne Storaker fra Kristiansand politidistrikt. Teleplan benyttet måleutstyr
-av typen «TEMS Investigation», som måler blant
-annet signalstyrke, signalkvalitet fra basestasjonen og såkalte handover-kommandoer.16
-Det ble gjennomført ni tester med testtelefonen i «Active mode» (der en samtale er koblet
-opp) og to tester i «Idle Mode» (der mobilen er
-påslått, men ingen samtale pågår). Videre ble det
-gjort enkelte målinger med «scanning»-funksjon
-(hvor man på forhånd definerer hvilke basestasjoner en vil registrere signalstyrken på), og det ble
-gjort forsøk på målinger ved «låsing» til basestasjonen EG_A.17 Ved slik «låsing» er det bare
-mulig for telefonen å koble seg til den valgte basestasjonen.
-14
-
-Dekningsstudie for Baneheia-saken s. 4–5, jf. dok. 07,04,14.
-Dekningsstudie for Baneheia-saken s. 30, jf. dok. 07,04,14
-16 Dekningsstudie for Baneheia-saken s. 25, jf. dok. 07,04,14.
-17
-Dekningsstudie for Baneheia-saken s. 32, jf. dok. 07,04,14.
-15
-
-[Side 289]
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-287
-
-Kapittel 8
-
-ikke mulig å kontrollere om EG_A overlappet
-andre dominerende celler i små begrensede
-området rundt åstedet. Det er mulig at EG_A
-har overlappende dekning og er dominerende
-celle på små hull langt borte fra basestasjonen.
-Dette kan være tilfelle på høydedrag som har
-‘Line of Sight’ til basestasjonen, eller det kan
-være spesielle bølgeutbredningsforhold, f.eks.
-refleksjoner, som gjør at EG_A kan være dominerende på helt begrensede områder.
-Eneste mulighet til å avdekke denne typen
-overlappende dekning er å allokere rene frekvenser til de signaler som skal verifiseres. I
-praksis betyr dette at cellen VESTRE STRG
-13_C må settes ut av drift eller flyttes til en
-annen frekvens. Dette kan bare gjøres av operatøren (Telenor Mobil), og det var derfor ikke
-mulig for Teleplan å foreta måling av overlappende dekning.
-Et slikt forsøk vil kunne bekrefte om det er
-mulig å sende eller motta en SMS melding med
-en TEMS testtelefon på åstedet. Dette innebærer imidlertid fortsatt store usikkerhetsmomenter med tanke på forskjellig parameterinnstillinger og forskjeller i hvilke celler som dekket området. Dessuten er interferensnivået forandret da det er nye frekvenser implementert
-på cellene i området.»18
-Figur 8.1 Teleplans dekningskart.
-Kilde: Dekningsstudie for Baneheia-saken, jf. dok. 07,04,14.
-
-8.3.2.5
-
-Teleplan lyktes ikke med å utføre
-«låsetestene»
-Testene som knyttet seg til låsing («låsetestene»),
-ble, ifølge rapporten, påvirket av en ny og interfererende celle fra en annen basestasjon. Med «interfererende celle» menes at den aktuelle basestasjonen
-(cellen) avga signaler på samme kanal/frekvens
-som EG_A. Denne forstyrrelsen medførte at Teleplan ikke kunne skille mellom signalene fra EG_A
-og den interfererende cellen sørvest for 3. Stampe,
-som omfattet åstedet og nærliggende områder.
-Testene lot seg derfor ikke gjennomføre etter hensikten. Om dette fremgår det i rapporten:
-«Teleplan gjorde en rekke forsøk på å låse mobilen på EG_A for å verifisere om det var mulig å
-overføre SMS til og fra EG_A på forskjellige
-områder på og i nærheten av åstedet. Disse
-målingene var imidlertid ikke mulige å gjennomføre, på grunn av et interfererende signal
-fra den nye cellen VESTRE_STRG 13_C i området sørvest for 3. Stampe. Det var derfor heller
-
-Teleplan vurderte deretter hvilke konklusjoner
-som eventuelt kunne trekkes ut fra en hypotetisk
-«låsetest» med basestasjonen VESTRE_STRG
-13_C ute av drift. I den forbindelse ble de to alternative utfallene av testen beskrevet:
-«• Om den støyende cellen slås av kan en testtelefon låses på EG_A, og det kan slås fast
-om det er tilstrekkelig signal til å kunne
-overføre en SMS mellom EG_A og åstedet.
-En slik verifisering vil imidlertid ikke forandre Teleplans analyse og konklusjon. Dette
-fordi det er forholdet i signalstyrke mellom
-de forskjellige basestasjoner på åstedet
-som er avgjørende for lokaliseringen, og
-ikke om det er tilstrekkelig signal fra EG A.
-Under de utførte målinger ble det påvist at
-det er flere basestasjoner som har høyere
-signalnivå enn EG A på åstedet.
-• Om den støyende cellen er slått av, og det
-ikke kan verifiseres at en SMS overføring
-mellom EG_A og åstedet er mulig, beviser
-ikke dette at det er umulig. Usikkerhetsfaktorer i propagasjonsforhold, svakheter i
-18
-
-Dekningsstudie for Baneheia-saken s. 26, jf. dok. 07,04,14.
+## Vurdering av byrettens dom
+
+### Innledning
+
+Utvalget vil i det følgende foreta en vurdering av byrettens dom. I punkt 7.4.2 presiseres rammene for vurderingen. I punkt 7.4.3 vurderer utvalget byrettens bevisvurdering av Kristiansens forklaring. I punkt 7.4.4 er temaet byrettens vurdering av telebeviset. I punkt 7.4.5 ser utvalget nærmere på byrettens vurdering av Andersens forklaring. Byrettens vurdering av DNA-resultatene er tema i punkt 7.4.6. I punkt 7.4.7 gis en sammenfatning av utvalgets vurderinger.
+
+### Rammene for vurderingen av byrettens dom
+
+#### Utvalgets mandat
+
+Utvalgets mandat angir at granskningen skal omfatte håndteringen av saken hos alle aktører som har vært involvert, herunder også domstolene. Mandatet presiserer videre:
+
+«En gransking av domstolenes rolle i straffesaken mot Viggo Kristiansen i Baneheia-saken må ikke innebære en overprøving av domstolenes avgjørelser i strid med det konstitusjonelle og grunnlovfestede prinsippet om at domstolene dømmer i siste instans. For utvalget vil dette bety at granskningen ikke skal omfatte Borgarting lagmannsretts frifinnende dom av 15. desember 2022. Utvalget skal ved granskningen for øvrig se hen til domstolenes, påtalemyndighetens og Gjenopptakelseskommisjonens uavhengige roller.»[^1051]
+
+I henhold til mandatet er det bare Borgarting lagmannsretts frifinnende dom av 15. desember 2022 som ikke skal være omfattet av utvalgets granskning. Dommen er rettskraftig, og en granskning av den kunne lett fått karakter av en overprøving i strid med prinsippet om at domstolene dømmer i siste instans, jf. også Grunnloven § 88. Prinsippet er derimot ikke til hinder for at utvalget gjør en vurdering av de opprinnelige domfellelsene av Kristiansen i 2001 (byrettens dom) og 2002 (lagmannsrettens dom) knyttet til tiltalepost I–III (Baneheia-saken). Gjenopptakelseskommisjonen besluttet gjenåpning av denne delen av straffesaken i 2021. Påtalemyndigheten la senere ned påstand om frifinnelse, og Borgarting lagmannsrett avsa frifinnelsesdom 15. desember 2022. Avgjørelsene er dermed allerede overprøvd og står ikke lenger ved lag.
+
+Også ut over det konstitusjonelle vernet er det et ideal at de øvrige statsmaktene ikke handler på en måte som kan sette domstolenes eller øvrige organers uavhengighet i spill. Formålet med kravet om uavhengighet er i hovedsak at organene ikke skal kunne påvirkes av politiske hensyn, utenforliggende hensyn og utilbørlig press når de treffer avgjørelser i enkeltsaker. Disse formålene slår ikke til for utvalgets granskning av domstolenes, påtalemyndighetens og Gjenopptakelseskommisjonens håndtering av Baneheia-saken, ettersom samtlige saker i dette sakskomplekset nå er avsluttet. I tillegg kommer at utvalget, for å kunne foreta en grundig granskning av saken i samsvar med mandatet, på et generelt og prinsipielt plan verken kan eller bør anlegge en begrenset prøving av organenes befatning med saken. En annen sak er at andre forhold, som manglende opplysninger om faktiske forhold som ligger langt tilbake i tid, kan tilsi en viss tilbakeholdenhet i enkelte sammenhenger.
+
+Domstolenes rolle var en nødvendig betingelse for at Kristiansen ble domfelt i Baneheia-saken.[^1052] Sett i ettertid er det klart at domstolene dømte Kristiansen til tross for at han var uskyldig. Det må legges til grunn at de gjorde dette ut fra en overbevisning om at han var skyldig. For at utvalget skal kunne besvare mandatets overordnede spørsmål om årsakene til at Kristiansen ble uriktig dømt, må utvalget gjennomføre en grundig vurdering av domstolenes bevisvurderinger så langt dette lar seg gjøre.[^1053]
+
+#### Utgangspunkter for utvalgets vurdering
+
+Byrettens avgjørelse av skyldspørsmålet er begrunnet. Etter loven stilles det ikke særlig strenge krav til domstolenes begrunnelse for bevisvurderingen, verken da byretten domfelte Kristiansen, eller i dag. Det fremgår av straffeprosessloven § 40 fjerde ledd at domsgrunnene i saker som er behandlet med meddomsrett, skal angi «hovedpunktene i rettens bevisvurdering». Kravet om begrunnelse av bevisvurderingen ble tatt inn i bestemmelsen i 1993. I forarbeidene til bestemmelsen heter det:
+
+«Retten skal først og fremst redegjøre for hva som har vært de springende punkter ved bevisvurderingen, og kort angi hva som har vært avgjørende for bevisvurderingen. Hvor omfattende det er grunn til å redegjøre for bevisvurderingen, vil variere fra sak til sak. Det kreves ikke at retten gir en detaljert beskrivelse.»[^1054]
+
+Kravet om at retten må redegjøre for bevisvurderingen, har som formål å gjøre det klart for domfelte og allmennheten hvorfor vedkommende er dømt. Redegjørelsen skal videre sikre at domstolen har gjennomført en samvittighetsfull og rasjonell vurdering av bevisene i saken, slik at ankedomstolen, sakens aktører og andre settes i stand til å vurdere om bevisbedømmelsen er riktig og forsvarlig.
+
+Premissene i dommen gir en forklaring på hvorfor byretten kom til det resultatet som den gjorde. Domsgrunnene er derfor et naturlig utgangspunkt for utvalgets vurdering av hva som var det *avgjørende* for bevisvurderingen, og om bedømmelsen av bevisene var *riktig og forsvarlig*. Utvalgets mandat er imidlertid som nevnt ikke begrenset til en isolert «prøving» av om domsgrunnene tilfredsstilte kravene i straffeprosessloven § 40. Det innebærer at utvalget også har vurdert byrettens vurderinger og konklusjoner i lys av hvilke bevis som rent faktisk ble ført for den dømmende rett, uavhengig av hvordan og hvorvidt beviset er omtalt i domsgrunnene.
+
+Utvalgets kunnskap om bevisføringen fra andre kilder enn domsgrunnene har bidratt til å kaste lys over det som står – og ikke står – i dommen. Det foreligger ikke lyd- og bildeopptak eller lydopptak fra forhandlingene, og det er ikke gitt at medienes dekning nødvendigvis alltid gir et presist og dekkende bilde av det som foregikk. Ved å sammenholde ulike kilder har utvalget likevel dannet seg et forholdsvis godt bilde av bevissituasjonen som forelå på domstidspunktet. I forrige kapittel har utvalget redegjort for bevisføringen i byretten basert på kildene utvalget har hatt tilgjengelig, jf. punkt 6.3. Det er også gitt omfattende fremstillinger av aktørenes prosedyrer, jf. punkt 6.4, 6.7 og 6.8. Samlet sett har derfor utvalget hatt relativt gode forutsetninger for å vurdere byrettens bevisvurdering under skyldspørsmålet. Dette gjelder også spørsmålet om hvorvidt det strafferettslige beviskravet var oppfylt da byretten dømte Kristiansen i samsvar med tiltalen.
+
+Ved vurderingen av byrettens dom har utvalget vært bevisst på at byretten fikk presentert bevisene gjennom umiddelbar bevisføring med mulighet for krysseksaminasjon og kontradiksjon. Som utgangspunkt må det derfor utvises en viss tilbakeholdenhet når domstolenes bevisvurdering etterprøves. Betydningen av å se og høre forklaringer som avgis direkte for den dømmende rett, må imidlertid ikke overdrives, særlig når dommen selv eller øvrige kilder gir et relativt entydig bilde av hva som har blitt sagt eller kommet frem under forklaringen. Forskningen er klar på at det er svært vanskelig – om ikke umulig – å avsløre løgn og uriktige forklaringer på grunnlag av atferdsobservasjon (kroppsspråk, holdning, talemåte, stressnivå, humør mv.).[^1055]
+
+### Byrettens vurdering av Kristiansens forklaring
+
+Viggo Kristiansens forklaring er omtalt to ganger i byrettens dom, begge ganger i form av en deskriptiv og begrenset sammenfatning av Kristiansens forklaring om egne bevegelser omkring drapstidspunktet. Etter å ha vist til at Jan Helge Andersen har forklart at Kristiansen var sammen med ham da voldtektene og drapene ble begått, viser retten til Kristiansens forklaring på følgende måte:
+
+«Kristiansen har derimot benektet dette og har forklart at han var alene i sin arbeidsbod utenfor hans bopel fra ca. kl. 18.00 til Andersen kom fra joggetur noe etter kl. 20.00. Kristiansen har ikke noe alibi for dette tidsrom utover utskrifter fra bruk av hans mobiltelefon, noe retten kommer tilbake til nedenfor.»[^1056]
+
+En nokså tilsvarende omtale er inntatt rett i forkant av byrettens drøftelse av telebeviset:
+
+«Tiltalte Kristiansen har som allerede nevnt forklart at han etter å ha snakket med Andersen ved Svarttjønn ca. kl. 18.00 den 19. mai gikk hjem og oppholdt seg i sin arbeidsbod. Der var han frem til Andersen kom tilbake fra joggetur, angivelig noe etter kl. 20.00. Det har ikke vært ført noen vitner som kan bekrefte Kristiansens forklaring på dette punkt.»[^1057]
+
+Utover dette omtales ikke Kristiansens forklaring i domspremissene. Utvalget bemerker at det følger av Den europeiske menneskerettsdomstolens (EMDs) praksis om uskyldspresumsjonen at retten «when carrying out their duties, the members of a court should not start with the preconceived idea that the accused has committed the offence charged; the burden of proof is on the prosecution, and any doubt should benefit the accused».[^1058] En praktisk konsekvens av uskyldspresumsjonen og bevisbyrde- og beviskravsreglene er at tiltaltes forklaring skal legges til grunn der denne fremstår som plausibel og utelukker straffskyld, med mindre den utvilsomt kan tilbakevises ved hjelp av andre bevis. Det følger av dette at retten alltid må gjøre en samvittighetsfull vurdering av om tiltaltes forklaring *kan* være riktig, herunder om den støttes av øvrige bevis i saken.
+
+Utvalget har merket seg at det er få spor av en slik tilnærming til beviskravet i byrettens dom. Kristiansen hadde gjennom hele prosessen, herunder i hovedforhandlingen, nektet for å ha vært med på ugjerningene. I denne situasjonen mener utvalget at det er en svakhet at retten ikke har gjort nærmere rede for sin bevisvurdering av Kristiansens forklaring. Det burde vært gjort nærmere rede for *hvorfor* forklaringen fullt ut kunne tilbakevises som usann, da dette basert på det øvrige bevisbildet utgjorde et springende punkt i bevisvurderingen.
+
+Selv om det ble stilt forholdsvis beskjedne krav til rettens begrunnelse for bevisvurderingen i 2001, mener utvalget at det kan stilles spørsmål om den begrensede direkte bevisvurderingen av Kristiansens forklaring var i strid med straffeprosessloven § 40. Det vises til at Kristiansen ble dømt som hovedmann for svært alvorlige lovbrudd til lovens strengeste straff. Den kortfattede omtalen av Kristiansens forklaring kan indikere at rettens bevisvurdering ikke ble utført tilstrekkelig grundig, og at rimelig tvil ikke kom Kristiansen til gode.
+
+Utvalget har merket seg at byretten ved bevisvurderingen av *Andersens forklaring* til sammenligning korrekt bygget på at tiltaltes forklaring må legges til grunn, med mindre det er klart at den er uriktig:
+
+«Hvorvidt Andersen selv hadde samleie med Stine Sofie Sørstrønen eller om han bare berørte hennes kjønnsorgan og endetarmsåpning med sin penis slik han selv har forklart, er etter rettens vurdering vanskelig å ta stilling til. Det er ifølge rettsmedisinerne ikke noe i veien for at Andersen forklarer seg riktig til tross for de DNA sporene som er funnet. *Ut fra prinsippet om at enhver rimelig tvil skal komme tiltalte til gode, legger derfor retten Andersens egen forklaring om hva som skjedde til grunn.»*[^1059]
+
+Det samme ble gjort av byretten i forbindelse med straffutmålingen:
+
+«Andersen har i sine forklaringer for politiet, og også for retten fremholdt at Kristiansen tok initiativet til ugjerningene uten at de to hadde snakket om dette på forhånd. Han har videre fremholdt at Kristiansen truet ham til å gjennomføre utuktig omgang med Stine Sofie Sørstrønen slik som ovenfor beskrevet, dog uten at han selv hadde samleie med henne. Han har videre forklart at han foretok drapet etter først selv å ha vært truet på livet om han ikke gjennomførte dette. I og med at Kristiansen ikke har villet erkjenne noen befatning med forholdet, har retten ikke mottatt opplysninger som verken kan bekrefte eller avkrefte den fremstilling Andersen her har gitt. *Ut fra prinsippet om at enhver rimelig tvil skal komme tiltalte til gode, må retten derfor legge Andersens forklaring til grunn ved straffeutmålingen overfor ham*.»[^1060]
+
+Tilsvarende formuleringer og vurderinger fremgår derimot ikke noe sted i byrettens vurdering av Kristiansens forhold. I den grad byretten fant det sannsynlig – men likevel ikke tilstrekkelig sikkert – at Andersen underspilte egen rolle, forklarte seg usant om knivtrusselen mv., skulle denne tvilen kommet Kristiansen til gode ved vurderingen av hans forhold. Kristiansen ble likevel dømt som hovedmann og initiativtaker, i vesentlig grad basert på Andersens forklaring om hendelsesforløpet.
+
+Utvalget påpeker for øvrig at det er uttalelser i domsgrunnene som klart er til Kristiansens ugunst, og hvor retten ikke har forklart hvorfor det angitte faktumet taler for at Kristiansen er skyldig. Et eksempel er følgende uttalelse, som fremsettes i forbindelse med vurderingen av telebeviset:
+
+«Neste gang mobiltelefonen er i aktivitet er kl. 20.19 i forbindelse med at Kristiansen ringer til to venner, vitnene Bakke og Loland, som Kristiansen inviterte på besøk, etter rettens vurdering åpenbart for å skaffe seg alibi.»[^1061]
+
+Retten bruker her et sterkt uttrykk – «åpenbart» – uten at slutningen er nærmere begrunnet. At Kristiansen ringte Bakke om kvelden 19. mai, var ikke i seg selv et bevis for at Kristiansen hadde vært med på ugjerningene. Det kan ha vært flere andre grunner til at Kristiansen ringte Bakke kl. 20.19 enn for å skaffe seg alibi. Oppringningen og det etterfølgende besøket ga uansett ikke Kristiansen noe alibi for tidspunktet for ugjerningene, som er fastlagt til en gang mellom ca. kl. 19.00 og 20.00. Se utvalgets omtale av dette bevismomentet i punkt 5.5.5.
+
+Opplysningene som er gjengitt i byrettens dom, gir etter utvalgets syn et feilaktig inntrykk av at det ikke fantes bevis som støttet Kristiansens forklaring. Foruten telebeviset, som utvalget drøfter særskilt nedenfor i punkt 7.4.4, var det flere forhold som isolert sett underbygget forklaringen og plausibiliteten i forklaringen.[^1062] At Kristiansen ville ha tak i Andersen som hadde ekstranøkler til arbeidsboden, hadde støtte i telefonoppringningen til Andersens fasttelefon kl. 17.47 og forklaringene fra Andersens far og Andersen selv. At Kristiansen deretter oppsøkte Baneheia med dette for øye, var også støttet av forklaringen til Andersens far, som på telefonen opplyste til Kristiansen at Andersen hadde dratt til Svarttjønn/Baneheia for å trene med Heimevernsungdommen.
+
+At Kristiansen kun var noen minutter inne i selve Baneheia, var på sin side støttet av forklaringen til Leonard Hovden, som observerte Kristiansen på sykkel på vei inn i Baneheia rett før kl. 18.00, og Kristiansen og Andersen sammen på vei tilbake til parkeringsplassen like etter. Kristiansens forklaring om at han returnerte til boden etter å ha fått nøklene fra Andersen og slått av en prat med ham, fremsto videre i seg selv som plausibel, gitt Kristiansens formål med turen. Formålet var som kjent å hente nøkler til arbeidsboden han hadde låst seg ute fra. Med dette bakteppet fremsto det i utgangspunktet mindre plausibelt at Kristiansen, i stedet for å dra hjem, ba med seg Andersen inn i Baneheia og etter hvert organiserte voldtekt og drap av to små jenter. At Kristiansen ikke etterlot sykkelen ved bommen og gikk inn i Baneheia, stemte godt overens med Hovdens forklaring om at Kristiansens sykkel – som han tidligere hadde lagt merke til – ikke sto ved bommen da han tøyde ut inntil den ca. kl. 19.20 til 19.30.
+
+Utvalget mener på denne bakgrunn at byrettens vurdering av Kristiansens forklaring var mangelfull. Det må anses som en svakhet ved byrettens dom at Kristiansens forklaring generelt ble viet liten oppmerksomhet, og at flere bevis som støttet Kristiansens forklaring, verken ble nevnt eller vurdert i domsgrunnene. Dette var bevis som ble ført umiddelbart for den dømmende rett, med mulighet for krysseksaminasjon og kontradiksjon. Domsgrunnene etterlater i det hele tatt et inntrykk av at uskyldspresumsjonen i liten grad ble tillagt vekt ved vurderingen av Kristiansens forklaring.
+
+### Byrettens vurdering av telebeviset
+
+Etter å ha vist til Kristiansens forklaring og påpekt at det ikke var noen vitner som kunne bekrefte at han oppholdt seg i arbeidsboden på tidspunktet for ugjerningene, omtaler retten Kristiansens mobiltrafikk på følgende måte:
+
+«Imidlertid er det fremlagt en utskrift fra Telenor som viser bruken av Kristiansens mobiltelefon i det aktuelle tidsrom. Av denne fremgår det at han kl. 18.55 mottok en tekstmelding og selv sendte en kl. 18.57. Disse to meldingene gikk over basestasjonen Eg-A. Primærdekningsområdet for denne basestasjonen dekker området nord for åstedet, vel 300 m fra dette. Målinger foretatt av Telenor over dekningsområdet for Eg-A senderen viser at man på åstedet ikke fikk kontakt med denne og at man måtte til nordenden av 3. Stampe før en vanlig mobiltelefon slår inn på denne senderen, dvs. innenfor det som er beskrevet som primærdekningsområdet. Etter de opplysninger retten har fått seg forelagt, bekrefter dette at da mobiltelefonen mottok en tekstmelding kl. 18.55 og senere sendte en melding kl. 18.57 så befant telefonen seg innenfor dekningsområdet for Eg-A senderen, dvs. et stykke nord for det som har vært åstedet for handlingene tiltalens post I – III bygger på. Senere er det mottatt en tekstmelding til samme mobiltelefon kl. 19.24 og sendt en tekstmelding kl. 19.37. Også disse to meldingene er gått over Eg-A senderen. Neste gang mobiltelefonen er i aktivitet er kl. 20.19 i forbindelse med at Kristiansen ringer til to venner, vitnene Bakke og Loland, som Kristiansen inviterte på besøk, etter rettens vurdering åpenbart for å skaffe seg alibi.
+
+Aktor har til denne mobiltelefonbruken vist til at det ikke er noe i veien for at de to tiltalte frem til noe før kl. 19.00 befant seg innenfor det som har vært dekningsområdet for Eg-A senderen. Etter dette har de beveget seg frem mot åstedet og senere kommet i kontakt med de to fornærmede og gjennomført voldtektene og drapene på disse. Tiltalte Andersen har forklart for politiet og i retten at han ikke på noe tidspunkt observerte Kristiansens mobiltelefon og derfor heller ikke registrerte at denne ble brukt mens ugjerningene fant sted. Han har imidlertid forklart at tiltalte Kristiansen, etter at drapene var utført, en periode var borte fra åstedet uten at Andersen visste hvor Kristiansen var. Det er etter rettens vurdering ikke noe i veien for at Kristiansen på det tidspunktet beveget seg over til det som har vært dekningsområdet for Eg-A senderen. Andersen har forklart at Kristiansen til tider oppbevarte mobiltelefonen i en veske under setet på sykkelen, han ved 18-tiden angivelig hadde parkert ved bommen ved Svarttjønn. Dersom denne telefonen har vært oppbevart innenfor dekningsområdet og telefonen var påslått vil den ha registrert inn tekstmeldingen som ble mottatt kl. 19.24 via Eg A-senderen. Har Kristiansen i perioden han var borte fra åstedet returnert til sykkelen, har han eventuelt kunnet besvare denne henvendelsen kl. 19.37 før han igjen tok seg tilbake til åstedet og hjalp til med å fjerne spor. Andre alternativ er at ugjerningene ble begått i tidsrommet mellom kl. 19.00 og 19.37, eller at Andersen ikke forklarer seg korrekt om alle ting som skjedde på åstedet, noe retten ikke ser bort ifra.
+
+Det er for retten ikke mulig å fastslå endelig hva som har skjedd med hensyn til Kristiansens mobiltelefonbruk. Fra Telenors side er det videre opplyst at man ikke ser at det vil være praktisk mulig å foreta ytterligere undersøkelser som kan utdype dette. Ut fra bevisførselen finner retten likevel ikke at den mobiltelefonbruk som har vært endrer på vurderingen av de øvrige bevisene, som etter rettens vurdering bekrefter utover enhver rimelig tvil at tiltalte Kristiansen sammen med tiltalte Andersen utførte voldtektene og drapene nevnt i tiltalebeslutningens post I – III.»[^1063]
+
+Som det fremgår av det siterte, la byretten til grunn at basestasjon EG_A ikke hadde dekning på åstedet, og at dekningsgrensen gikk ved nordenden av 3. Stampe, vel 300 meter fra åstedet. Dette var i tråd med Telenors konklusjoner. Utvalget har merket seg at byretten unnlot å nevne at telebeviset dermed isolert sett støttet Kristiansens forklaring om at han oppholdt seg i og ved arbeidsboden ved hjemmet i Egstien 2, et område som lå godt innenfor dekningsområdet til EG_A. Byrettens beskrivelse og drøftelse av telebeviset illustrerer likevel at det var tale om et bevis som byretten hadde vansker med å forene med hypotesen om at Kristiansen var skyldig.
+
+Slik utvalget ser det, lider byrettens vurdering av telebeviset av flere alvorlige svakheter. I det følgende vil det bli nærmere redegjort for disse. Et hovedproblem med vurderingen er at byretten forsøkte å svekke bevisets betydning ved å spekulere i alternative forklaringer for hvordan mobilbruken kunne være forenlig med at Kristiansen var skyldig. Byretten fremsatte i den forbindelse tre ulike teorier:
+
+- Den første teorien var at det, slik aktor hadde påpekt, ikke var noe «i veien for» at de to tiltalte befant seg i dekningsområdet for EG_A noe før kl. 19, før de deretter beveget seg mot åstedet og senere påtraff jentene. Videre var det ikke noe «i veien for» at Kristiansen, i perioden han hadde vært borte fra åstedet, hadde beveget seg inn i dekningsområdet til EG_A og sendt meldingen kl. 19.37. Dersom mobiltelefonen lå påslått i sykkelvesken, var dette også forenlig med meldingen som ble mottatt via EG_A kl. 19.24.
+
+- Den andre teorien var at ugjerningene ble begått i tidsrommet mellom klokken 19.00 og 19.37.
+
+- Den tredje teorien var at Andersen ikke hadde forklart seg korrekt om alle ting som skjedde på åstedet.
+
+Byrettens tre teorier bygget dels på de mulige forklaringene for mobilbruken som aktor og advokat Fegran hadde trukket frem i sine prosedyrer, og dels på rettens egne betraktninger. Felles for byrettens teorier var at de i liten eller ingen grad hadde vært gjenstand for etterforskning, bevisføring og kontradiksjon. Bevisbedømmelsen skal bare bygge på informasjon som er kommet til uttrykk gjennom bevisføringen, jf. straffeprosessloven § 305. Etter utvalgets syn skulle retten, dersom den vurderte å bygge på teoriene, sørget for at det faktiske grunnlaget for dem ble undersøkt, og eventuelt utsatt saken i dette øyemed, jf. straffeprosessloven § 294.
+
+Betenkelighetene ved rettens fremgangsmåte ble forsterket ved at teoriene i seg selv led av flere bevismessige svakheter og ikke løste den uforenligheten som forelå. *Den første teorien* bygget på at Kristiansen og Andersen frem til kl. 18.57 hadde oppholdt seg innenfor dekningsområdet for EG_A.[^1064] Det var muligens ikke noe «i veien» for dette isolert sett. Det passet imidlertid dårlig med hendelses- og tidsforløpet retten ellers hadde lagt til grunn som bevist. Teorien var i strid med Andersens forklaring om hvor de tiltalte hadde gått og oppholdt seg i tidsrommet før de påtraff jentene, som retten anslo å ha skjedd ca. kl. 19.00. Hvordan forflytningen fra dekningsområdet til møtestedet kunne skje på noen få minutter, ble heller ikke forsøkt underbygd av byretten. Dessuten fantes det objektive holdepunkter for når jentene forlot badebryggen, som ikke virker å ha blitt tatt i betraktning.
+
+Den øvrige delen av byrettens første teori hadde til formål å forklare den innkommende tekstmeldingen kl. 19.24 i dekningsområdet for EG_A. Mens aktors forslag i prosedyren[^1065] bygget på at ugjerningene var ferdige en viss tid før dette tidspunktet, slik at Kristiansen (og hans mobiltelefon) hadde rukket tilbake til dekningsområdet innen kl. 19.24, fremsatte byretten en annen potensiell forklaring. Byretten bygget i stedet på at Kristiansen kunne ha lagt igjen telefonen i sykkelvesken ved bommen, og at han på et tidspunkt etter drapene – men før de var ferdige med sporskjulingen – hadde beveget seg fra åstedet til bommen. Der kunne han så ha sendt tekstmeldingen kl. 19.37 via EG_A, før han dernest returnerte til åstedet. Byretten søkte å underbygge teorien med at Andersen hadde forklart at Kristiansen en periode «var borte» fra åstedet, og at Kristiansen «til tider» oppbevarte mobilen i en sykkelveske festet på sykkelen. Forklaringen fra Andersen om sykkelvesken ble for øvrig initiert av Andersens forsvarer *etter* aktors prosedyre.
+
+Også denne hypotesen var lite forenlig med faktumet byretten ellers hadde bygget på og funnet bevist. Bommen lå ca. 540 meter i luftlinje og ca. 900 meter i stilengde fra åstedet, og teorien forutsatte dermed at Kristiansen hadde hatt et lengre fravær – rundt 15–20 minutter – fra åstedet. Utvalget kan ikke se at det var holdepunkter i Andersens forklaring for et så langt fravær, og det kan heller ikke ses noen rasjonell begrunnelse for hvorfor Kristiansen, samtidig som sporskjulingen foregikk, plutselig skulle ha lagt i vei mot bommen for å sjekke mobilen og besvare tekstmeldinger han muligens kunne ha fått. Det er ingen holdepunkter for at Kristiansen, som neppe satt på kunnskap om dekningsområdet til de ulike basestasjonene som omfattet Baneheia, kunne ha gjort dette for å skaffe seg alibi. Gitt et scenario hvor Kristiansen var hovedmann og pådriver for svært alvorlige straffbare handlinger, fremsto teorien om et lengre fravær dessuten som svært lite plausibel.
+
+Utvalget bemerker for øvrig at informasjonen Andersen ga om sykkelvesken, var helt generell og ikke ga konkret støtte til byrettens teori.[^1066] Forklaringen gikk ut på at det særlig var når de var ute på lengre sykkelturer at mobilen ble oppbevart i sykkelvesken, og Andersen visste dessuten ikke om telefonen hadde ligget der 19. mai 2000.[^1067] Det var dermed ikke ført bevis for at Kristiansen *hadde* oppbevart mobilen i vesken, eller for at vesken i det hele tatt var festet til sykkelen på det aktuelle tidspunktet.[^1068] Retten tok heller ikke i betraktning under denne teorien at verken sykkelen eller Kristiansen var observert ved bommen i det angitte tidsrommet.
+
+Utvalget har endelig merket seg at sammenhengen mellom første og andre del av byrettens teori forutsatte at Kristiansen ikke bare hadde vært *så vidt* innenfor dekningsgrensen da han sendte tekstmeldingen kl. 18.57, men at han måtte ha vært *ved bommen*, ytterligere ca. 300 meter innenfor dekningsgrensen, for å kunne legge mobilen i sykkelvesken *etter* å ha sendt meldingen. Med andre ord forutsatte teorien en forflytning som tidsmessig fremsto lite plausibel. Videre er det lite sannsynlig at han fra dette området kunne ha observert jentene, herunder at de dro fra badebryggen, og hvilken vei de tok. Jentene gikk i retning Grim, som er i motsatt retning av Svarttjønn.
+
+*Den andre teorien* innebar at retten la til grunn at ugjerningene kunne ha blitt begått mellom kl. 19.00 og 19.37, det vil si at handlingene kunne ha startet noe tidligere og hatt et raskere forløp enn det retten ellers hadde bygget på og funnet bevist ut fra Andersens forklaring. Utvalget har merket seg at byretten ikke redegjorde for hvordan tekstmeldingen mottatt kl. 19.24 passet inn i denne teorien. Om retten mente at Kristiansen hadde telefonen med seg, måtte hele hendelsesforløpet ha utspilt seg mellom kl. 18.57 og 19.24. Det måtte også tas høyde for tiden det tok å bevege seg frem og tilbake mellom dekningsgrensen og åstedet, noe som innebar at det måtte ha tatt svært kort tid – maksimalt rundt 15 minutter – å møte og lokke jentene, begå ugjerningene og dernest rydde åstedet.
+
+Dersom retten forutsatte at telefonen også under denne teorien lå i sykkelvesken, måtte den samtidig tatt høyde for at bommen lå enda lenger unna åstedet enn dekningsgrensen. Dette snevret inn tidsrommet for når ugjerningene kunne ha startet, idet Kristiansen ikke kunne ha forlatt bommen før etter kl. 18.57. Kristiansen måtte videre ha forlatt åstedet senest kl. 19.30 – og beveget seg raskere enn normal gange – for å ha hatt mulighet til å rekke tilbake til bommen for å sende tekstmeldingen kl. 19.37. I realiteten ga denne teorien dermed et handlingsrom på maksimalt rundt 20 minutter til å møte og lokke jentene til åstedet, voldta, drepe, kutte kvister, skjule likene mv. Teorien syntes heller ikke å ha blitt avstemt med verken Andersens forklaring eller de objektive holdepunktene for når jentene forlot badebryggen. Sannsynligvis forlot jentene badebrygga rett før kl. 19.00, og Andersen hadde som nevnt forklart seg om et vesentlig annet tids- og hendelsesforløp.
+
+*Den tredje teorien* var at Andersen ikke hadde forklart seg korrekt om alle ting som skjedde på åstedet, noe «retten ikke \[så\] bort ifra». Hvilke forhold retten siktet til, som samtidig skulle kunne gi plausible forklaringer på mobilbruken i EG_A-området, fremgår ikke av domspremissene. Denne teorien fremsto dermed som nokså intetsigende. For øvrig sto dette alternativet i et visst spenningsforhold til den troverdighet og pålitelighet Andersens forklaring om hendelsesforløpet ble tillagt av byretten i øvrige deler av dommen.
+
+Etter å ha presentert de tre alternative hypotesene som angivelig kunne forklare mobilbruken, bemerket byretten:
+
+«Det er for retten ikke mulig å fastslå endelig hva som har skjedd med hensyn til Kristiansens mobiltelefonbruk. Fra Telenors side er det videre opplyst at man ikke ser at det vil være praktisk mulig å foreta ytterligere undersøkelser som kan utdype dette.»[^1069]
+
+Dette utsagnet i dommen indikerer at byretten var innforstått med at de ulike teoriene ikke ga fullgode svar, og at telebeviset i realiteten ble stående uforklart i det samlede bevisbildet. Sitatet etterlater videre et inntrykk av at byretten forutsatte at det måtte foreligge en eller annen «naturlig» forklaring på mobilbruken, men uten at dette angivelig lot seg undersøke nærmere fra Telenors side.
+
+Utvalget har innhentet bevismaterialet som ble presentert for den dømmende rett, og sammenholdt dette med tidsnære avisartikler og notater fra hovedforhandlingen, se punkt 6.3.7. Utvalget har også gjennomført samtaler med personene som avga vitneforklaring for byretten for å presentere og belyse telebeviset. Essensen i bevisføringen var at Telenors gjentatte målinger, inkludert målinger med den såkalte låsetesten, viste at det ikke var mulig å oppnå dekning over EG_A-senderen på åstedet eller øvrige steder politiet mente Kristiansen hadde befunnet seg i det aktuelle tidsrommet. Det var ikke holdepunkter for at Telenors undersøkelser var mangelfulle eller uriktige, eller at Kristiansens mobiltelefon hadde tekniske avvik eller mangler som påvirket hvilken basestasjon den slo inn på. At andre enn Kristiansen selv hadde brukt mobiltelefonen, var det heller ingen holdepunkter for. Endelig hadde ikke Telenor avdekket forhold som skulle tilsi at målingene ikke var representative også for dekningsforholdene på drapsdagen.
+
+Etter utvalgets syn er det ikke tvilsomt at telebeviset på den ene siden ga klar støtte til Kristiansens forklaring om hvor han hadde oppholdt seg, og på den andre siden klart talte imot at Kristiansen hadde vært på åstedet og avsatt sitt DNA på ofrene. Det var tale om et bevis som langt på vei utelukket at Kristiansen var skyldig.
+
+Etter utvalgets vurdering medførte telebeviset at Kristiansens forklaring ikke kunne utelukkes utover enhver rimelig og fornuftig tvil. Gitt bevisets karakter – et objektivt, teknisk bevis som kunne belyse hvor den tiltalte hadde oppholdt seg på det antatte gjerningstidspunktet – var det et bevis som etter en rasjonell vurdering skulle vært tillagt stor vekt. Endelig skulle det blitt holdt opp mot andre forhold som isolert sett underbygget Kristiansens forklaring, herunder det såkalte sykkelbeviset. Utvalget konstaterer at slike betraktninger er fraværende i byrettens samlede bevisvurdering, hvor det i stedet kort slås fast:
+
+«Ut fra bevisførselen finner retten likevel ikke at den mobiltelefonbruk som har vært endrer på vurderingen av de øvrige bevisene, som etter rettens vurdering bekrefter utover enhver rimelig tvil at tiltalte Kristiansen sammen med tiltalte Andersen utførte voldtektene og drapene nevnt i tiltalebeslutningens post I – III.»[^1070]
+
+Kart over Baneheia, med angitt avstand mellom sentrale steder. Kartet er utarbeidet av Oslo politidistrikt for utvalget.
+
+### Byrettens vurdering av Andersens forklaring
+
+Byrettens dom er utformet slik at det ikke går noe klart skille mellom hva som er en ren gjengivelse av Andersens forklaring, og hva som utgjør «det saksforhold retten har funnet bevist som grunnlag for dommen» mot Kristiansen, jf. straffeprosessloven § 40 første ledd. Utvalget mener domsgrunnene likevel må forstås slik at byretten fant det alt vesentlige av Andersen forklaring om hendelsesforløpet bevist. I dommen heter det:
+
+«Retten finner at den sammenhengende forklaring tiltalte Andersen har gitt med hensyn til det som skjedde i all hovedsak er korrekt, dog slik at han ikke er like troverdig når det gjelder eget overgrep overfor Stine Sofie Sørstrønen.»[^1071]
+
+Om Andersens «troverdighet» med hensyn til Kristiansens deltakelse uttaler byretten:
+
+«Det forhold at man har funnet DNA fra to forskjellige menn er videre et vesentlig bevis når man skal vurdere troverdigheten av Andersens forklaring, når han hevder at Andersen var med i Baneheia og utførte drapene og voldtektene. Videre støttes Andersens forklaring når det gjelder lokaliseringen av DNA fra ham bare på Stine Sofie Sørstrønen, og ikke på Lena Sløgedal Paulsen.
+
+I tillegg til ovenstående vektlegger retten ved bevisvurderingen at de to tiltalte ca. kl. 18.00 den 19. mai ble observert sammen ved Svarttjønn av en rekke vitner som har vært ført for retten. De tiltalte ble videre observert sammen senere på kvelden noe før kl. 21.00 av andre. I tiden mellom disse tidspunktene, da drapene og voldtektene ble begått, har tiltalte Andersen forklart at de to var sammen. Kristiansen har derimot benektet dette og har forklart at han var alene i sin arbeidsbod utenfor hans bopel fra ca. kl. 18.00 til Andersen kom fra joggetur noe etter kl. 20.00. Kristiansen har ikke noe alibi for dette tidsrom utover utskrifter fra bruk av hans mobiltelefon, noe retten kommer tilbake til nedenfor.
+
+Retten fester avgjørende lit til Andersens forklaring om at han var sammen med Kristiansen i det aktuelle tidsrom. De to var svært gode venner og det er ikke mulig å se noe motiv for Andersen til å trekke Kristiansen urettmessig inn i saken.
+
+Ved bevisvurderingen må det også tillegges vekt at tiltalte Kristiansen tidligere har forgrepet seg seksuelt på barn. Han er riktignok ikke dømt for dette før, men retten viser til drøftelsen av tiltalens post IV til VI nedenfor. Det er videre et påfallende trekk ved Kristiansen at han foruten en særlig sterk interesse for pornografi, synes å ha spesielle seksuelle tilbøyeligheter.»[^1072]
+
+Utvalget mener at byrettens vurdering av Andersens forklaring, slik den kommer til uttrykk i domsgrunnene, lider av flere svakheter. For det første er det vanskelig å forstå at byretten fant bevismessig grunnlag for å slå fast at *hele* den samlede forklaringen om «det som skjedde i all hovedsak \[var\] korrekt». Denne delen av bevisvurderingen er heller ikke begrunnet nærmere utover en etterfølgende henvisning til at forklaringen om hendelsesforløpet kunne samsvare med obduksjonsfunnene.
+
+Etter utvalgets syn var det flere forhold ved Andersens forklaring som fremsto lite plausible og burde foranlediget en nærmere drøftelse av den samlede forklaringens bevisverdi. Dette gjelder særlig den delen av Andersens forklaring som gikk ut på at han for det meste skal ha sittet med ryggen til på en stein, og kun hadde utført straffbare handlinger – i form av seksuelle overgrep og drap – fordi han ble truet på livet med kniv av Kristiansen. Det er også en påfallende mangel på indre sammenheng mellom den beskrevne trusselsituasjonen og den etterfølgende forklaringen om et tilsynelatende omforent og koordinert sporskjulingsarbeid, hvor Andersen var den mest aktive. I denne sammenheng kan det også nevnes at Andersen to ganger senere samme kveld frivillig oppsøkte Kristiansen hjemme, hvor de kikket i militærblader, drakk øl og sosialiserte med andre.
+
+Slik utvalget ser det, burde Andersens forklaring i større grad blitt sett i sammenheng med og holdt opp mot Kristiansen forklaring. Kristiansen hadde oppgitt et i seg selv plausibelt formål med å oppsøke Baneheia denne kvelden – å hente ekstranøkler til arbeidsboden som han hadde låst seg ute fra – som langt på vei kunne kontrolleres av øvrige bevis, se punkt 7.4.3. For Andersens vedkommende forelå det derimot holdepunkter for at han forklarte seg uriktig om egne bevegelser i Baneheia forut for møtet med Kristiansen ved Svarttjønn. Utvalget viser til vitnet Gislefoss’ observasjoner av personen han utpekte som Andersen, i Baneheia ca. kl. 17.40 og 17.50.[^1073] I forlengelsen av dette burde byretten vurdert plausibiliteten i Andersens forklaring om at Kristiansen
+
+- i stedet for å dra hjem for å låse opp arbeidsboden, kom på andre tanker og ville ha med Andersen inn i Baneheia for å «valse» rundt og se etter teltplass
+
+- deretter igangsatte svært alvorlige straffbare forhold, som han tok sjansen på at Andersen ville være med på, eventuelt kunne presses til å være med på
+
+- også tilfeldigvis hadde tatt med seg en kniv da han dro for å møte Andersen for å få tak i nøklene til arbeidsboden
+
+Byretten var videre kjent med at Andersens forklaring hadde endret seg etter hvert som han ble foreholdt politiets teorier og bevis, og at han gjennomgående hadde forklart seg på en måte som reduserte hans rolle i ugjerningene. Dette ble fremhevet av Kristiansens forsvarere, men også i stor grad av aktor. Det er på det rene at slike forhold generelt sett er egnet til å svekke bevisverdien av en forklaring.
+
+I dette tilfellet er det også klart at retten var kjent med opplysningene Andersen hadde fått fra avhører i forkant av det første avhøret etter pågripelsen. Politiet informerte Andersen om at de hadde sikre bevis for at Andersen var en av gjerningsmennene, og spurte ham om det ikke kunne være slik at Kristiansen hadde vært den mest aktive på åstedet, og at Andersen selv kunne være et slags offer. Disse opplysningene kan ha gitt Andersen ideen om å fremstille seg selv nettopp som han gjorde i det påfølgende politiavhøret – som et offer for Kristiansen. I sin prosedyre omtalte advokat Pettersen samtalen som en «redningsplanke».[^1074] Utvalget finner denne karakteristikken treffende.
+
+Utvalget understreker at det ofte bør utvises forsiktighet med å benytte en medtiltalts forklaring som et bevis av vekt ved vurderingen av om en annen tiltalt er skyldig.[^1075] Begrunnelsen er at en medtiltalt etter omstendighetene kan ha en egeninteresse i å benytte sin forklaring til å redusere egen skyld og legge ansvar over på andre medtiltalte. Etter utvalgets syn slo begrunnelsen for å utvise slik forsiktighet i stor grad til i denne saken: Andersen hadde en klar egeninteresse i å forklare seg uriktig og legge skylden på Kristiansen. Politiet hadde dessuten langt på vei lagt til rette for en forklaring som pekte ut Kristiansen som hovedmann. Med andre ord forelå det konkrete omstendigheter som var egnet til å svekke bevisverdien av forklaringen. At byretten ikke gikk nærmere inn på disse forholdene i domsgrunnene, men i stedet oppga at det «ikke \[var\] mulig å se noe motiv for Andersen til å trekke Kristiansen urettmessig inn i saken», er vanskelig å forstå.
+
+Det er naturligvis ikke slik at enhver medtiltalt forklarer seg usant om andre medtiltalte. De omstendigheter utvalget har påpekt ovenfor, fordrer imidlertid at retten gjør en grundig vurdering av *påliteligheten* av forklaringen. Pålitelighet relaterer seg til forklaringens sannhetsverdi og innebærer at retten, i den grad det er mulig, må vurdere om forklaringen samsvarer med øvrige bevis i saken av mer objektiv karakter. I byrettens dom er påliteligheten til Andersens forklaring om Kristiansens deltakelse reelt sett kun «kontrollert» mot byrettens oppfatning av DNA-bevisene. At de to var sett sammen rundt kl. 18.00 og noe før kl. 21.00, slik byretten også trakk frem i bevisvurderingen, var i liten grad egnet til å kontrollere om de også var sammen under ugjerningene og i tidsrommet rett i forkant.[^1076] Det samme gjelder argumentene om at de to var svært gode venner, at Kristiansen for noen år tilbake hadde begått overgrep, og at han angivelig hadde en «særlig sterk interesse for pornografi» og «spesielle seksuelle tilbøyeligheter».
+
+Bevis som var godt egnet til å kontrollere Andersens pålitelighet, men som var mindre forenlige med Andersens forklaring, synes på den andre siden ikke å ha blitt tatt i betraktning av byretten. Mens sykkelbeviset ikke er nevnt i dommen, har byretten en lengre drøftelse av telebevisets innplassering i bevisbildet. Drøftelsen av telebeviset skjedde imidlertid ikke som ledd i noen pålitelighetsvurdering av Andersens forklaring. I stedet forlot byretten Andersens forklaring og fremsatte tre alternative hendelsesforløp, hvor telebeviset ble forsøkt innplassert. Utvalget har merket seg at samtlige teorier passet dårlig med forklaringen som retten innledningsvis i dommen hadde lagt til grunn at «i all hovedsak \[var\] korrekt», og som ellers ble tillagt avgjørende vekt ved vurderingen av Kristiansens forhold. Den siste teorien gikk eksplisitt ut på at «Andersen ikke forklarer seg seg korrekt om alle ting som skjedde på åstedet, noe retten ikke ser bort ifra». Dette fremstår som inkonsistent med vurderingen av Andersens forklaring for øvrig, og innebærer at det i realiteten er uklart hvilket faktum byretten bygget på ved domfellelsen av Kristiansen.
+
+Ved vurderingen av Andersens straffskyld kom byretten etter en lengre drøftelse til at Andersen måtte frifinnes for drapet på Sløgedal Paulsen, og at han ikke handlet med overlegg ved drapet på Sørstrønen. I drøftelsene er det blant annet vist til prinsippet om at enhver rimelig tvil skal komme tiltalte til gode, og at retten derfor ikke kunne se bort fra at Andersens forklaring var riktig. En slik tilnærming var naturligvis riktig når det gjelder rettens vurdering av Andersens forhold. Mer problematisk er det at Andersens forklaring, slik den ble lagt til grunn av byretten, også synes å ha tjent som utgangspunkt for vurderingen av Kristiansens forhold.
+
+Domsgrunnene etterlater et inntrykk av at tvilen som kom Andersen til gode, også fikk en direkte virkning for hendelsesforløpet som ble funnet bevist for Kristiansens vedkommende. Andersens beskrivelse av Kristiansens rolle og handlinger trekkes ikke på noe tidspunkt i tvil i domsgrunnene. Utvalget har i den forbindelse merket seg at Kristiansens rolle i hendelsesforløpet gjennomgående er omtalt deskriptivt i domsgrunnene, nærmest som et uomstridt faktum, selv om den fullt ut bygget på Andersens forklaring.[^1077] Sammen med behandlingen av telebeviset, som i realiteten satte den samme forklaringen til side, indikerer dette vesentlig svikt ved byrettens bruk av Andersens forklaring som bevis mot Kristiansen*.*
+
+Utvalget har også merket seg at byretten på ett punkt tilsynelatende fant grunnlag for å se bort fra Andersens forklaring. I forbindelse med spørsmålet om Andersen skulle dømmes for medvirkning til voldtekt av Sørstrønen, uttalte byretten:
+
+«Det som likevel er avgjørende for rettens vurdering av medvirkningsspørsmålet er det forhold at Kristiansen, etter å ha voldtatt Stine Sofie Sørstrønen, ville at Andersen også skulle forgripe seg på henne. Andersen har forklart at Kristiansen på det tidspunkt truet ham med kniv til å foreta overgrep overfor Stine Sofie Sørstrønen. Opplysninger om denne angivelige volden fra Kristiansens side kom først frem 1½ måned etter at Andersen var pågrepet og etter at det forelå biologiske spor som bekreftet at også Andersen hadde forgrepet seg på en av jentene. Retten finner det usannsynlig at det på dette tidspunkt ble utøvd alvorlig, livstruende vold fra Kristiansens side overfor Andersen. Andersen kunne etter rettens vurdering på dette tidspunkt løpt fra stedet uten å sette seg selv i fare. Da Andersen derfor forgrep seg på Stine Sofie Sørstrønen skjedde dette fra hans side frivillig.»[^1078]
+
+Konklusjonen om at dette overgrepet skjedde «frivillig», er imidlertid ikke konsistent med det som sies et annet sted i dommen. Ved straffutmålingen la byretten til grunn at det aktuelle overgrepet hadde skjedd etter forutgående trusler fra Kristiansen:
+
+«Andersen har i sine forklaringer for politiet, og også for retten fremholdt at Kristiansen tok initiativet til ugjerningene uten at de to hadde snakket om dette på forhånd. *Han har videre fremholdt at Kristiansen truet ham til å gjennomføre utuktig omgang med Stine Sofie Sørstrønen slik som ovenfor beskrevet*, dog uten at han selv hadde samleie med henne. Han har videre forklart at han foretok drapet etter først selv å ha vært truet på livet om han ikke gjennomførte dette. I og med at Kristiansen ikke har villet erkjenne noen befatning med forholdet, har retten ikke mottatt opplysninger som verken kan bekrefte eller avkrefte den fremstilling Andersen her har gitt. *Ut fra prinsippet om at enhver rimelig tvil skal komme tiltalte til gode, må retten derfor legge Andersens forklaring til grunn ved straffeutmålingen overfor ham*.»[^1079]
+
+Et annet eksempel som etterlater et inntrykk av mangel på indre sammenheng i vurderingene, er byrettens drøftelse av Andersens straffskyld for drapet på Sørstrønen. Byretten la på dette punktet til grunn Andersens forklaring om at drapet skjedde etter et forutgående «oppgjør» mellom de tiltalte etter drapet på Sløgedal Paulsen, som endte med at Kristiansen truet Andersen med kniv til å drepe Sørstrønen. Dersom Andersen ikke adlød, ville Kristiansen ifølge Andersen drepe både ham og Sørstrønen. Denne opptakten mente retten «etter all sannsynlighet hadde skapt sterk sinnsbevegelse hos Andersen», slik at han ikke kunne anses for å ha handlet med overlegg. Samtidig fant retten det «ikke tvilsomt» at Andersen gjennomførte drapet «med det formål at han ville unndra seg straffen for voldtekten som like før hadde funnet sted». Det er ikke innlysende at disse motivene lar seg forene med hverandre, noe som påkaller en nærmere drøftelse. En slik drøftelse finnes imidlertid ikke i byrettens dom.[^1080]
+
+### Byrettens vurdering av DNA-resultatene
+
+Om DNA-analysene fra Universitetet i Santiago de Compostela (USC) la byretten følgende til grunn:
+
+«På de to fornærmede ble det videre tatt prøver hvor det ble funnet sædceller. Disse sædcellene hadde imidlertid ligget for lenge til at det var mulig å foreta en fullstendig DNA-analyse. Da man gjorde forsøk på å analysere prøvene som var tatt fra de to fornærmede, klarte man ikke å få frem en DNA-profil annet enn på celler som stammet fra de fornærmede selv. Ved Rettsmedisinsk Institutt tok man imidlertid kontakt med spanske rettsmedisinere ved universitet i Santiago de Compostela hvor man har forsket særskilt på DNA-analyse på y-kromosomer. Man foretok en rekke tester på denne måten og fikk ifølge overingeniør Bente Mævåg ved Rettsmedisinsk Institutt, som har vært oppnevnt som sakkyndig, sikker bekreftelse på at det i de innleverte prøver var celler fra to forskjellige menn. Man fikk likevel ikke noen fullstendig DNA-profil, og det er derfor ikke grunnlag for å si noe nærmere om identiteten til de to mennene dette dreier seg om. De rettsmedisinske funnene viser imidlertid at det er funnet DNA i skjede og endetarm på Stine Sofie Sørstrønen forenlig med begge de to tiltalte, samtidig som det også er funnet DNA i endetarmsåpning på Lena som ikke er i overensstemmelse med DNA fra Jan Helge Andersen, men som passer med Viggo Kristiansen. Det skal for øvrig bemerkes at den svært begrensede DNA-profil som er identifisert, og som stemmer med DNA fra Kristiansen, stemmer med tilsvarende profil på over 50% av norske menn. Det er likevel et poeng at analysen er i overensstemmelse med tiltalte Andersens forklaring hvoretter begge forgrep seg på Stine Sofie Sørstrønen, mens kun tiltalte Kristiansen gjorde dette på Lena Sløgedal Paulsen.
+
+Det forhold at man har funnet DNA fra to forskjellige menn er videre et vesentlig bevis når man skal vurdere troverdigheten av Andersens forklaring, når han hevder at Kristiansen var med i Baneheia og utførte drapene og voldtektene. Videre støttes Andersens forklaring når det gjelder lokaliseringen av DNA fra ham bare på Stine Sofie Sørstrønen, og ikke på Lena Sløgedal Paulsen.»[^1081]
+
+Som det fremgår av sitatet, tok byretten utgangspunkt i at det ble funnet *sædceller* i enkelte av prøvene. Det fremgår ikke direkte av det siterte at byretten la til grunn at sædcellene var kilden for DNA-sporene, men noe alternativt kildeopphav ble ikke drøftet. Slik utvalget ser det, gir dette visse holdepunkter for å anta at byretten kan ha forutsatt en direkte sammenheng mellom sædcellene og DNA-sporene og dermed uten videre lagt til grunn at sporene var handlingsrelevante og avsatt av gjerningspersoner. Selv om det fremkom under bevisføringen at resultatene kunne stamme fra andre celletyper enn sædceller, var det likevel et flertall av tilstedeværende journalister som ikke fanget opp dette og refererte til at det sikkert dreide seg om *sæd* fra to menn, se punkt 6.3.5.4.
+
+Dersom byretten *var* oppmerksom på at resultatene kunne stamme fra andre celletyper enn sædceller, må det legges til grunn at byretten ikke var bevisst på at det uklare kildeopphavet kunne ha betydning for bevisverdien av DNA-sporene. Mens en hvilken som helst annen person nødvendigvis ikke kunne ha avsatt sædceller i sporprøvene, stiller det seg annerledes for epitelceller. At celleopphavet ikke ble problematisert nærmere, må derfor anses som en svakhet ved byrettens bevisvurdering knyttet til DNA-resultatene.
+
+Med henvisning til den sakkyndiges vitnemål la byretten deretter til grunn at det var «sikkert» at det var celler fra to forskjellige menn i prøvene. Denne slutningen må – slik den er formulert – nødvendigvis også ha omfattet prøvene B-22 (Sørstrønen, ytre skjede) og B-25 (Sørstrønen, indre anus). Som påpekt tidligere brukte USCs rapport konklusjonsgraden «possible» om tolkningen av analysefunnene i disse prøvene.[^1082] Med andre ord var det *mulig* at prøvene viste celler fra to forskjellige menn, det vil si verken *sikkert* eller *mest sannsynlig*. Byrettens slutning hadde dermed ikke forankring i USCs rapport og burde ikke blitt tillagt nevneverdig vekt i bevisvurderingen. Utvalget har likevel en viss forståelse for at den muntlige bevisføringen ble oppfattet slik byretten gir uttrykk for, jf. punkt 6.3.5.4.
+
+Formålet med en DNA-analyse er å finne kilden til et biologisk spor. Analysen sier i seg selv ikke noe om *når* eller *hvordan* sporet er avsatt. Om sporet er avsatt i forbindelse med den straffbare handlingen, eller om det kan tenkes alternative forklaringer på sporet, er et sentralt bevisspørsmål som den rettsgenetiske analysen normalt ikke gir svar på. Spørsmålet hører derimot naturlig inn under rettens bevisvurdering. Det er domstolenes oppgave å ta stilling til relevansen av sporet for straffesaken, ikke rettsgenetikerens. Byretten synes ikke å ha vært tilstrekkelig bevisst på dette. Retten synes forutsetningsvis å ha lagt til grunn at DNA-spor fra *to menn* var ensbetydende med *to gjerningsmenn*, ettersom det i domsgrunnene ikke tas stilling til spørsmålet om handlingsrelevans. I så fall dreier det seg om den samme feilslutningen som utvalget mener gjør seg gjeldende for politiets og påtalemyndighetens tilnærming til DNA-bevisene.
+
+For sikkert å kunne fastslå at et DNA-spor knytter seg til den straffbare handlingen og er avsatt av gjerningsmannen, må alternative forklaringer på sporet kunne utelukkes. At resultatet fra prøve C-25 (Sløgedal Paulsen, ytre endetarm) var oppgitt med en *likelihood ratio* så lav som 1,8, er sentralt i denne sammenheng.[^1083] Tallet gir uttrykk for DNA-bevisets egenvekt og indikerte et tilnærmet nøytralt bevis for hypotesen om at sporet stammet fra Viggo Kristiansen. I realiteten var det dermed tale om et bevis nær sagt uten bevisverdi for straffesaken. Når et DNA-funn ikke gir noen rimelig grad av sikker identifikasjon, og celletypen heller ikke kan identifiseres, lar det seg vanskelig gjøre å si noe sikkert om hvorvidt funnet står i årsakssammenheng med den straffbare handlingen. At prøvene stammet fra intime steder på ofrene, utelukket ikke at DNA-funnene kunne stamme fra andre kilder enn gjerningmannen.[^1084] Utvalget nevner også at bruken av en høysensitiv analysemetode innebar økt risiko for å se feilutslag eller kontamineringsutslag i analysen. Endelig kan det nevnes at USCs analyser av RMIs ekstrakter ikke hadde gitt resultater ved USC.[^1085]
+
+Dersom de nevnte forholdene hadde blitt tatt i betraktning av byretten, ville konklusjonen nødvendigvis måtte bli at DNA-resultatene fra USC isolert sett hadde svært lav bevisverdi. Resultatene *kunne* stamme fra én eller flere gjerningsmenn, men også fra en DNA-kilde uten sammenheng med den straffbare handlingen. På tilsvarende måte *kunne* allel 10 stamme fra Kristiansen, men også fra et stort antall andre menn – og ikke nødvendigvis gjerningsmenn. I denne sammenheng må det også tillegges betydning at telebeviset klart talte imot at funnet stammet fra Kristiansen.
+
+Domspremissene viser at byretten anså DNA-resultatene som et «vesentlig» bevis når den vurderte Andersens forklaring om Kristiansens rolle. Byrettens tolkning av DNA-resultatene støttet Andersens forklaring om at handlingene ble begått av to gjerningsmenn. Tolkningen passet videre med Andersens forklaring om hvem av gjerningsmennene som hadde begått overgrep mot hvilken jente. Etter utvalgets oppfatning er det holdepunkter for at svakhetene ved DNA-resultatene – og deres betydning for resultatenes bevisverdi – i for liten grad ble berørt i den muntlige bevisføringen, se punkt 6.3.5.4. Utvalget anser det som sannsynlig at dette har medvirket til byrettens oppfatning om hva som sikkert kunne utledes av DNA-resultatene.
+
+### Samlet om byrettens dom
+
+Utvalget har foran påpekt flere svakheter og mangler ved byrettens dom i Baneheia-saken. En av de mest sentrale svakhetene er den knappe vurderingen av Viggo Kristiansens egen forklaring. Dommen inneholder ingen vurdering av forklaringens plausibilitet, herunder hvordan forklaringen passet med øvrige bevis i saken, se punkt 7.4.3. I lys av uskyldspresumsjonen skulle Kristiansens forklaring ha tjent som utgangspunkt for rettens vurdering av skyldspørsmålet og vært vurdert i lys av øvrige bevis. Det ville i så fall ha blitt klart at flere opplysninger støttet forklaringen, ikke minst telebeviset, som langt på vei utelukket Kristiansen som gjerningsmann.
+
+Byretten tok i stedet utgangspunkt i Andersens forklaring, som dannet grunnlaget for byrettens samlede vurdering av skyldspørsmålet for begge de tiltalte. Ut fra domsgrunnene går det ikke noe klart skille mellom hva som er gjengivelse av Andersens forklaring, og hva som utgjør «det saksforhold retten har funnet bevist som grunnlag for dommen» mot Kristiansen («bevisresultatet»).[^1086] Fremgangsmåten innebærer at Andersens forklaring, med alle dens detaljer, synes å ha blitt lagt til grunn ved avgjørelsen av skyldspørsmålet for Kristiansen. Dette virker også å gjelde for de deler av Andersens forklaring hvor byretten lot tvilen komme Andersen til gode. I lys av uskyldspresumsjonen og det strafferettslige beviskravet er denne fremgangsmåten problematisk. Utvalget mener den valgte tilnærmingen er egnet til å skape tvil om det ble foretatt en tilstrekkelig individuell og forsvarlig vurdering av spørsmålet om straffskyld.
+
+Under bevisføringen kom det frem at Andersens forklaring led av en rekke svakheter, som både hver for seg og samlet var egnet til å svekke dens bevisverdi, se punkt 7.4.5: Dels var forklaringen preget av mangel på plausibilitet og indre sammenheng, dels passet den dårlig med forklaringer fra vitner og telebeviset. Det var også holdepunkter for at Andersen hadde tilpasset sin forklaring etter hvert som han fikk ny informasjon, noe byretten påpekte da den kom inn på Andersens overgrep mot Stine Sofie Sørstrønen. Byretten var også kjent med omstendighetene rundt Andersens tilståelse etter pågripelsen, herunder hvilke opplysninger som ble gitt av politiet i den uformelle samtalen forut for avhøret.
+
+Etter utvalgets syn burde det ovennevnte ledet til en grundigere vurdering av troverdigheten og påliteligheten av Andersens forklaring om Kristiansens deltakelse. At byrettens dom inneholder til dels uklare og skiftende synspunkter på Andersens motiver for overgrepet og drapet på Sørstrønen, tyder i seg selv på en svikt i bevisvurderingen. Det samme gjelder for byrettens tre teorier om hvordan telebeviset kunne passe inn i det øvrige bevisbildet, all den tid samtlige av dem passet dårlig med Andersens versjon av hendelsesforløpet, som domfellelsen av Kristiansen ellers bygget på.
+
+DNA-resultatene i saken ble mest sannsynlig forstått slik at de ga en sikker bekreftelse på at ugjerningene var begått av to gjerningsmenn, jf. punkt 7.4.6. Denne tolkningen var objektivt sett ikke korrekt. Andersens forklaring om Kristiansens deltakelse ble i realiteten kun kontrollert mot dette premisset, og byretten anså det som et «vesentlig» bevis. DNA-resultatene var imidlertid så svake at de praktisk talt var uten bevisverdi for straffesaken, også i relasjon til spørsmålet om antall gjerningsmenn. Utvalget har likevel en viss forståelse for at bevisføringen ble oppfattet slik byretten la til grunn, jf. punkt 6.3.5.4.
+
+Uavhengig av rettens oppfatning av DNA-resultatenes bevisverdi var det etter bevisføringen klart at telebeviset med tyngde talte mot at Kristiansen var gjerningsmann og kunne ha avsatt sitt DNA på ofrene. Etter utvalgets syn var telebeviset et bevis som etter en rasjonell vurdering skulle blitt tillagt stor vekt. Det var tale om et objektivt, teknisk bevis som på den ene siden ga vesentlig støtte til Kristiansens forklaring om hvor han hadde oppholdt seg på gjerningstidspunktet, og som på den andre siden var helt uforenlig med Andersens forklaring. Det var ingen holdepunkter for at det heftet feil ved Telenors målinger.
+
+Slik utvalget ser det, er vurderingen av telebeviset den største svakheten i byrettens dom, jf. punkt 7.4.4. I stedet for å fastslå det relativt åpenbare utgangspunktet – at beviset støttet Kristiansens forklaring og svekket påliteligheten av Andersens forklaring – presenterte byretten tre alternative teorier for hvordan telebeviset kunne være forenlig med at Kristiansen var skyldig. Felles for teoriene var at de i liten eller ingen grad hadde vært gjenstand for etterforskning, bevisføring og kontradiksjon. Ingen av teoriene ga uansett noen fyllestgjørende svar. Telebeviset ble dermed i realiteten stående uforklart, noe domsgrunnene klart viser.
+
+Under henvisning til vurderingen av de «øvrige bevisene» i saken, som mobiltelefonbruken ifølge byretten ikke «endre\[t\] på», la retten til grunn at det var «bekrefte\[t\] utover enhver rimelig tvil at tiltalte Kristiansen sammen med tiltalte Andersen utførte voldtektene og drapene nevnt i tiltalebeslutningens post I–III». Byretten oppga ikke uttrykkelig hvilke bevis som var utslagsgivende i den samlede vurderingen. Ut fra domsgrunnene er det imidlertid nærliggende å anta at det var Andersens forklaring sammenholdt med DNA-bevisene som ble tillagt avgjørende vekt.[^1087]
+
+Utvalget mener at byretten – i en situasjon hvor det tilsynelatende forelå en sikker bekreftelse på to gjerningsmenn, men samtidig et teknisk bevis som på det nærmeste utelukket én av de to tiltalte – enten skulle ha frifunnet Kristiansen eller utsatt saken og sørget for supplerende bevisføring, jf. straffeprosessloven § 294. Domfellelse av Kristiansen i en slik situasjon var under enhver omstendighet ikke i tråd med beviskravet i straffesaker, som er at enhver rimelig tvil skal komme tiltalte til gode.

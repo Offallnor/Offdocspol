@@ -1,1038 +1,265 @@
-# NOU 2026: 3, del 40 av 50 (side 430–442)
+# NOU 2026: 3, del 40 av 56
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2026/9cee8194-nou-2026-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2026-3/id3149017/
-- Tekst: hentet fra PDF. OBS: 5 tabeller, 20 figurer, 145 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 430]
-
-428
-
-Kapittel 12
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-utredningsplikten. Dersom kommisjonen tidligere
-hadde gjort undersøkelsene som var nødvendige,
-ville også vurderingene trolig ha vært annerledes.
-Også kommisjonens praktisering av gjenåpningsvilkårene og utformingen av avgjørelsene –
-særlig med tanke på fremstillingen av partenes
-anførsler – kan etter utvalgets syn ha bidratt til at
-kommisjonen ikke tidligere gjorde mer konkrete
-vurderinger av DNA-bevisene. Avgjørelsene
-bærer preg av at Kristiansens anførsler i liten grad
-omtales og utdypes med kommisjonens egne ord,
-slik at det er vanskelig å vite om kommisjonen har
-forstått innholdet i argumentasjonen. Kommisjonens vurderinger av om vilkårene for gjenåpning
-er oppfylt, er i stor grad også preget av sitater fra
-domsavgjørelsene eller bemerkninger om at retten opprinnelig tok stilling til det aktuelle spørsmålet. Med unntak av den siste avgjørelsen er det
-få eksempler på at kommisjonen har gjort konkrete og selvstendige vurderinger av Kristiansens
-anførsler sett i lys av det samlede bevisbildet, slik
-gjenåpningsvilkårene krever. Enkelte uheldig formulerte uttalelser fra Den rettsmedisinske kommisjon kan videre ha bidratt til at kommisjonen
-fikk en uriktig forståelse av DNA-bevisene.
-Etter utvalgets syn kan svakheter ved regelverk, rutiner og praksis også ha medvirket til at
-saken ikke ble gjenåpnet tidligere. Dette gjelder
-blant annet rutinene for oppbevaring av spormateriale ved Rettsmedisinsk institutt og Gjenopptakelseskommisjonens tidligere praksis om at gjentatte
-begjæringer i samme sak ble behandlet av samme
-utreder. Hadde det eksistert lyd- og bildeopptak
-fra rettssakene i 2001 og 2002, ville det også gitt et
-atskillig bedre grunnlag for å behandle Kristiansens gjenåpningsbegjæringer, herunder anførslene som knyttet seg til sakens DNA-beviser.
-
-12.4 Nærmere om enkelte sider ved
-påtalemyndighetens håndtering
-12.4.1 Innledning
-Utvalget vil i det følgende drøfte enkelte sider ved
-påtalemyndighetens håndtering av gjenåpningsprosessen i Baneheia-saken. Det følger av mandatet at granskningen også omfatter påtalemyndighetens rolle.
-Agder politidistrikts håndtering av voldtektsanmeldelsen av Jan Helge Andersen i 2009 er
-tema i punkt 12.4.2. I punkt 12.4.3 vurderer utvalget Agder statsadvokatembeters tilsvar til Viggo
-Kristiansens femte gjenåpningsbegjæring. I punkt
-12.4.5 vurderes til sist påtalemyndighetens hånd-
-
-tering av et krav om dokumentinnsyn fra Kristiansen.
-
-12.4.2 Voldtektsanmeldelsen mot Jan Helge
-Andersen i 2009
-I juni 2021 mottok Oslo politidistrikt – som etterforsket Baneheia-saken etter at Viggo Kristiansens sak ble gjenåpnet av Gjenopptakelseskommisjonen februar samme år – et tips om at Jan Helge
-Andersen skulle ha begått et overgrep mot en
-navngitt person. Politiet undersøkte opplysningene, men kunne ikke finne tilgjengelig informasjon som belyste tipset. Ved nye søk i oktober
-2021 fant Oslo politidistrikt ut at Andersen i 2009
-ble anmeldt for seksuell omgang med barn under
-14 år, jf. straffeloven (1902) § 195. Saken var skjermet, og Oslo politidistrikt hadde ikke tilgang til
-sakens detaljer. Den 22. oktober 2021 ba de Agder
-politidistrikt om tilgang til saken.
-Det viste seg at Andersen i 2009 – mens Kristiansens første gjenåpningsbegjæring var under
-behandling hos Gjenopptakelseskommisjonen –
-ble anmeldt for en voldtekt som skal ha funnet
-sted forut for drapene i Baneheia. Anmeldelsen
-ble inngitt 6. april 2009 og gjaldt en voldtekt som
-ifølge anmelder ble begått av Andersen da han var
-13 år. Anmelder var selv 11 år på gjerningstidspunktet.
-Saken ble etterforsket av Agder politidistrikt.
-Foruten avhøret av anmelder ble det tatt avhør av
-Andersen og innhentet flere legeerklæringer.
-Påtaleansvarlig jurist på saken var Ingrid Thorsen.
-Thorsen har vært samboer med Arne Pedersen,
-tidligere etterforskningsleder for Baneheia-saken,
-siden 1993, og de ble ektefeller i 2009.65 Arne
-Pedersen var i 2009 sjef for felles kriminalenhet i
-Agder politidistrikt.66
-Saken ble henlagt i november 2009 fordi
-Andersen, ifølge anmelders beskrivelse, var under
-den kriminelle lavalder på gjerningstidspunktet.
-Erstatningsnemnda for voldsofre tilkjente
-19. mars 2013 anmelderen 200 000 kroner i voldsoffererstatning, da nemnda fant det «klart sannsynliggjort» at vedkommende hadde vært utsatt
-for en handling som ga rett til slik erstatning.67
-
-65
-
-Spesialenheten for politisakers påtalevedtak 26. oktober
-2022 s. 17, jf. sak 15762899 dok. 12,01.
-66 Avhør av Arne Pedersen 27. juni 2022, jf. sak 15762899 dok.
-08,01.
-67 Vedtak fra Erstatningsnemnda for voldsofre 19. mars 2013,
-jf. sak 10738322 dok. 16.
-
-[Side 431]
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-Saken ble skjermet i politiets saksbehandlingssystem Basisløsninger (BL),68 i tråd med Agder
-politidistrikts gjeldende rutiner på dette tidspunktet. Det fremgikk av en straffesaksinstruks gjeldende fra 2003 at seksuelle overgrepssaker «skal
-skjermes».69 Det var ikke instruksfestet at skjermingen skulle oppheves når saken var avsluttet,70
-og skjermingen ble ikke opphevet etter at saken
-var påtaleavgjort og skulle arkiveres.71
-Saken ble ikke gjort kjent for Gjenopptakelseskommisjonen, verken i 2009 eller i forbindelse
-med behandlingen av senere gjenåpningsbegjæringer. Heller ikke Agder statsadvokatembeter var
-kjent med anmeldelsen.
-Etter utvalgets syn hadde anmeldelsen klar
-relevans for gjenåpningsprosessen i Viggo Kristiansens sak, og det var svært uheldig at den ikke ble
-formidlet til Agder statsadvokatembeter og til Gjenopptakelseskommisjonen. Hvis anklagen stemte,
-innebar det at Andersen hadde en historikk knyttet
-til seksuallovbrudd som ikke var kjent fra tidligere.
-I byrettens dom fikk det derimot betydning i bevisvurderingen at Kristiansen tidligere hadde forgrepet seg på barn. Det er grunn til å tro at dette også
-ble tillagt vekt av lagretten da Kristiansen ble domfelt i lagmannsretten.
-Etter utvalgets syn var det også relevant for
-gjenåpningsspørsmålet at Andersen angivelig
-skulle ha skyldt på to venner for overgrepet,
-hvorav den ene var Kristiansen:
-«Fornærmede sier at da overgrepet var over,
-opplyste mistenkte at han var blitt truet av noen
-på skolen til å utføre det. Mistenkte nærmest
-skrek til [fornærmede] at det var en fra skolen
-som heter […] som hadde truet han, og han sa
-
-også at Viggo Kristiansen skulle sjekke at siktede utførte overgrepet.»72
-
-Oppdagelsen av anmeldelsen i oktober 2021 ledet
-til en etterforskning hos Spesialenheten for politisaker som pågikk fra juni til oktober 2022. I det
-følgende gjengis de mest sentrale opplysningene
-som fremkom under etterforskningen.
-Agder politidistrikt ba 7. juni 2022 Spesialenheten for politisaker vurdere om det var grunnlag
-for etterforskning av politidistriktet eller noen av
-dets ansatte. I anmeldelsen ble det vist til at det
-hadde fremkommet informasjon i media med
-sterk kritikk av Agder politidistrikt og ansatte
-der.73
-Spesialenheten iverksatte etterforskning mot
-tidligere kriminalsjef Pedersen og Agder politidistrikt, med sikte på å avklare om straffeloven
-§§ 171 eller 172 om tjenestefeil hadde blitt overtrådt. Spesialenheten vurderte om Pedersen eller
-politidistriktet kunne straffes for at den aktuelle
-saken som ble anmeldt i 2009, ikke ble brakt til
-statsadvokatens og Gjenopptakelseskommisjonens kunnskap.74
-Sentralt i etterforskningen sto også omtalen av
-Andersen i statsadvokatens tilsvar 15. mai 2019 til
-den femte gjenåpningsbegjæringen. Denne omtalen bygget, som nevnt nedenfor i punkt 12.4.3, på
-Agder politidistrikts innstilling 20. mars 2019.
-Flere steder i tilsvaret er det gitt uttrykk for at
-Andersen ikke hadde noen historikk med seksuallovbrudd. For eksempel står det:
-«Det foreligger ingen opplysninger om at Andersen tidligere har forgrepet seg verken mot
-voksne eller barn, eller at han har opptrådt truende eller voldelig. Han er heller ikke omtalt av
-noen som aggressiv, seksuelt utagerende eller
-som spesielt opptatt av mindreårige barn.»75
-
-68
-
-Basisløsninger (BL) er et saksbehandling- og kommunikasjonssystem for digitale straffesaksdokumenter som brukes av politiet og påtalemyndigheten, jf. NOU 2016: 24
-punkt 6.3.2.
-69 Straffesaksinstruks for Agder politidistrikt 13. oktober
-2003, jf. sak 15762899 dok. 09,06,02.
-70 Spesialenheten for politisakers påtalevedtak 26. oktober
-2022 s. 14, jf. sak 15762899 dok. 12,01.
-71 Agder politidistrikts skjermingspraksis er nærmere belyst i
-avhør av et vitne som er administrativt ansatt i politidistriktet, jf. avhør 29. juni 2022 i sak 15762899, jf. dok. 07,03,01.
-Ifølge vitnet var skjermingsrutinene i 2009 for dårlige.
-Forut for arkivering burde fortsatt skjerming av saken ha
-vært vurdert av en påtalejurist. Det hendte imidlertid at det
-ikke ble gjort noen ny vurdering av skjermingsspørsmålet,
-noe som ofte medførte at konsulentene på koordineringskontoret opprettholdt skjermingen ved arkiveringen. I så
-fall ville saken – etter at den var arkivert – ikke vært synlig
-i BL for andre enn de som var gitt særskilt tilgang. Anmeldelsen ville derimot fremgå ved søk i politiets straffesaksregister (STRASAK). I motsetning til BL var STRASAK
-nasjonalt i 2009. Se riksadvokatens påtalevedtak 2. februar
-2022 s. 3, jf. sak 15762899 dok. 01,07.
-
-429
-
-Kapittel 12
-
-Videre står det:
-«Det er også en meget viktig del av bevisbildet
-at Jan Helge Andersen ikke hadde tilsvarende
-utagerende og seksualisert adferd eller slet med
-72
-
-Anmeldelse 6. april 2009, jf. sak 10738322 dok. 02.
-Anmeldelse 7. juni 2022, jf. sak 15762899 dok. 02,01. Et
-eksempel på kritisk medieomtale er en artikkel fra Tv2.no,
-«Hevder voldtektssak var ukjent for ham – loggen viser at
-han hadde tilgang», 27. mai 2022.
-74
-Spesialenheten for politisakers påtalevedtak s. 2, jf. sak
-15762899 dok. 12,01.
-75 Innstilling fra Agder politidistrikt 20. mars 2019 s. 23, jf.
-dok. 01,59, gjengitt i Agder statsadvokatembeters uttalelse
-15. mai 2019, s. 23, jf. dok. 01,60.
-73
-
-[Side 432]
-
-430
-
-Kapittel 12
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-tilsvarende psykiske og sterkt adferdsmessige
-problemer som Kristiansen. Dette dokumenteres både i etterforskningsdokumentene, gjennom vitneførselen i de to rettsinstansene og i de
-rettspsykiatriske erklæringene.»76
-Sett i lys av anmeldelsen av Andersen fra 2009 var
-disse opplysningene uriktige og mangelfulle. Som
-det fremgår av punkt 12.4.3, ble innstillingen fra
-Agder politidistrikt i stor grad utarbeidet av
-Pedersen selv. På denne bakgrunn ble det etterforsket om Pedersen var klar over anmeldelsen
-fra 2009. Det var grunn til å undersøke om Pedersen fikk vite om anmeldelsen i 2009 eller senere,
-enten gjennom sin stilling som sjef for felles kriminalenhet i Agder politidistrikt eller gjennom sin
-ektefelle Ingrid Thorsen, som var påtaleansvarlig
-jurist på saken.
-I avhør 27. juni 2022 forklarte Pedersen at han
-ble kjent med anmeldelsen først i 2022, da den ble
-omtalt i mediene.77
-I Spesialenhetens påtalevedtak 26. oktober
-2022 fremgår følgende om inngivelsen av anmeldelsen og hva Pedersen, ifølge etterforskeren
-som tok imot anmeldelsen, skal ha fått vite i den
-sammenheng:
-«Som omtalt ovenfor ble etterforsker Anita Kleveland kontaktet av [anmelder] i 2009, og det
-ble avtalt at [anmelder] skulle komme tilbake
-en annen dag for å avgi forklaring. Kleveland sa
-i Spesialenhetens avhør at hun tenkte ‘hva nå’,
-ettersom hun hadde jobbet med Baneheiasaken tidligere. Kleveland forklarte at hun da
-kontaktet Arne Pedersen. Dette var ikke en
-lang samtale, og Kleveland kan ikke huske det
-detaljert. Samtalen handlet om at [anmelder]
-ville anmelde han [Andersen] for voldtekt og
-om at hun spurte Pedersen om det var noe i
-veien for at hun tok imot anmeldelsen. Kleveland forklarte:
-‘Kleveland gikk inn til Arne Pedersen som
-da var krimsjef og leder påtale i Agder politidistrikt.
-Kleveland fortalte til Pedersen at [anmelder] ønsket anmelde Andersen for voldtekt.
-Pedersen sa at Kleveland kunne ta imot anmeldelsen og at anmeldelsen skulle leveres til han
-så snart den var ferdig.
-76
-
-Innstilling fra Agder politidistrikt 20. mars 2019 s. 8, jf. dok.
-01,59, gjengitt i Agder statsadvokatembeters uttalelse 15.
-mai 2019 s. 40, jf. dok. 01,60.
-77 Avhør av Arne Pedersen 27. juni 2022, jf. sak 15762899 dok.
-08,01.
-
-Kleveland tok opp anmeldelsen fra [anmelder] og etter at den var ferdig gjennomlest, så
-leverte hun denne til Pedersen, på hans kontor.
-Etter dette hadde Kleveland lite befatning med
-saken. Hun mener å huske at det var noen
-bistandsanmodning til avhør av Andersen og
-det er mulig hun leste avhøret, men hun er ikke
-sikker.’
-Det var en papirutgave av anmeldelsen som
-Kleveland leverte til ham, dette ble gjort da
-Pedersen var på kontoret. På spørsmål om hvorfor Pedersen ønsket anmeldelsen, forklarte Kleveland at hun oppfattet det som at han ville oversende den til statsadvokaten, noe hun selv
-hadde tenkt var fornuftig. Anita Kleveland ble
-overrasket over at Arne Pedersen i et intervju i
-2022 har sagt at han ikke var klar over saken fra
-2009, og dette gjorde at hun 23. mai 2022 kontaktet visepolitimester Arne Sundvoll.»78
-Pedersen ble foreholdt disse opplysningene i avhør
-1. juli 2022, og han avga en tilleggsforklaring til
-Spesialenheten 7. juli 2022. Pedersen ga uttrykk for
-at det etterforskeren hadde forklart, var fullstendig
-ukjent for ham.79 Pedersen uttalte i avhøret:
-«Han har prøvd å se om dette er noe han kan ha
-glemt, men klarer ikke erindre. Og hvis det
-hadde vært at han husket det Anita har forklart
-så ville han selvfølgelig sagt det i avhør hos
-Spesialenheten.
-Pedersen har ikke noen forklaring på hva
-som kan ha skjedd og kan kun spekulere om
-hvorfor han ikke erindrer, noe han helst ikke
-ønsker gjøre, men det kan være flere grunner.
-Han satt ofte med åpen dør og alle ansatte
-kunne komme innom kontoret, dette og for at
-ansatte som blitt sendt av sine ledere kunne
-avklare ting med han. Mulig han kan ha misoppfattet noe i Anitas kommunikasjon at han
-derfor ikke lagt vekt på det eller husker det.
-Mulig han der og da i 2009 ikke fikk med
-seg helt hva saken handlet om da hun kom på
-kontoret. Han skjønner heller ikke hvorfor han
-ville be Anita om å komme inn til kontoret med
-kopi av avhør. Hvis han hadde bedt om noe slik
-så ville det være naturlig å få all dokumentasjon
-i saken.»80
-78
-
-Spesialenheten for politisakers påtalevedtak 26. oktober
-2022 s. 16, jf. sak 15762899 dok. 12,01.
-79
-Spesialenheten for politisakers påtalevedtak 26. oktober
-2022 s. 19, jf. sak 15762899 dok. 12,01.
-80 Tilleggsavhør av Arne Pedersen 7. juli 2022, jf. sak
-15762899 dok 08,01.
-
-[Side 433]
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-I påtalevedtaket fremgår det videre at Pedersens
-ektefelle Ingrid Thorsen, som altså var påtaleansvarlig jurist på saken, behandlet denne saken på
-samme måte som andre saker med gjerningsperson under 15 år, det vil si med begrenset etterforskning. Det fremgår at hun antok at saken var oppe
-på saksmøte, og at det ble lagt til grunn opplysninger i anmeldelsen om at Andersen var under 15 år
-da overgrepet skal ha skjedd.81
-Når det gjaldt spørsmålet om hvorvidt Thorsen hadde snakket med Pedersen om saken, heter
-det i Spesialenhetens påtalevedtak:
-«Thorsen sa i avhøret at hun ikke snakket om
-2009-saken med sin mann Arne Pedersen.
-Thorsen og Pedersen jobbet på samme sted
-gjennom mange år, og hun sa at de to har hatt
-et bevisst ryddig forhold til dette. Hun kunne
-gå inn til han i tjenestesammenheng, men saksrelatert har hun forholdt seg til sin påtaleleder.
-Det har ikke vært naturlig eller riktig for henne
-å ta opp konkrete saker med Pedersen. Thorsen presiserte at de to har prøvd å skille veldig
-på privat og arbeidsliv for å ha et fungerende
-liv. Pedersen var engasjert med jobbrelaterte
-saker på fritiden og var tilgjengelig, men de to
-snakket da ikke sak.
-Også Pedersen forklarte at de hadde en
-ordning om at de to ikke kan diskutere saker,
-og at hun må forholde seg til sin påtaleleder om
-dette. Pedersen har forklart at hans ektefelle
-Ingrid Thorsen ikke har nevnt 2009-saken for
-ham.»82
-Foruten å gjennomføre avhør innhentet Spesialenheten omfattende dokumentasjon. Det ble videre
-gjennomført undersøkelser av hendelseshistorikk,
-blant annet av hvordan den aktuelle saken hadde
-blitt skjermet i saksbehandlingssystemet BL.
-Straffeforfølgningen mot både Pedersen og
-Agder politidistrikt ble henlagt 26. oktober 2022
-fordi intet straffbart forhold ble ansett bevist.83
-Den 27. oktober 2022 påklaget Kristiansen vedtaket. Riksadvokaten opprettholdt henleggelsen 2.
-februar 2023.84
-
-Riksadvokaten fremhevet at unnlatelsen av å
-opplyse om anmeldelsen mot Andersen var en så
-alvorlig feil at forholdet objektivt sett måtte anses
-som en tjenestefeil som rammes av straffeloven
-§ 171 eller § 172. Straffansvar var imidlertid betinget av at Pedersen hadde utvist skyld – det vil si
-forsett eller uaktsomhet.
-Riksadvokaten vurderte først om det var
-bevismessig grunnlag for at Pedersen forsettlig
-unnlot å nevne saken fra 2009. Riksadvokaten
-uttalte at det var vanskelig å danne seg et klart
-bilde av hva Pedersen visste i 2009. Det var ikke
-grunn til å betvile etterforskerens forklaring om
-at hun informerte Pedersen om anklagen mot
-Andersen og senere overleverte en kopi av
-anmeldelsen. Samtidig var det ikke klare holdepunkter for at Pedersen satte seg grundig inn i
-saken, eller at han fikk nærmere kunnskap om
-den på et senere tidspunkt.85 Det var heller ikke
-fremskaffet opplysninger som tilsa at Pedersen
-hadde en særlig sentral rolle i forbindelse med
-behandlingen av Kristiansens tidligere gjenåpningsbegjæringer. Etterforskningen hadde heller ikke fremskaffet opplysninger som motbeviste et vitnes forklaring om at det berodde på en
-administrativ feil at saken var blitt registrert på
-Pedersens brukeridentitet i BL, og at han mest
-sannsynlig ikke hadde hatt den fysiske saksmappen tilgjengelig. Ut fra BL-loggen hadde ikke
-Pedersen åpnet saken.
-På denne bakgrunn konkluderte riksadvokaten med at det ikke var grunnlag for å straffe
-Pedersen for forsettlig overtredelse av straffeloven § 171:
-«Etter riksadvokatens syn er det, ut fra de
-nevnte forhold, ikke bevist ut over enhver
-rimelig tvil at Pedersen forsettlig unnlot å
-nevne saken mot Jan Helge Andersen da
-Pedersen bistod med utarbeidelsen av politiets merknader til den siste gjenåpningsbegjæringen. Man kan ikke utelukke at Pedersen
-ikke nevnte dette forholdet på grunn av en forglemmelse. Riksadvokaten viser til at det ikke
-er godtgjort at Pedersen fikk inngående
-kjennskap til innholdet i anmeldelsen, verken
-i 2009 eller senere, og at saken heller ikke
-angikk de mest sentrale bevisspørsmålene
-som Kristiansens siste gjenåpningsbegjæring
-reiste.»86
-
-81
-
-Spesialenheten for politisakers påtalevedtak 26. oktober
-2022 s. 16, jf. sak 15762899 dok. 12,01.
-82
-Spesialenheten for politisakers påtalevedtak 26. oktober
-2022 s. 17, jf. sak 15762899 dok. 12,01.
-83 Spesialenheten for politisakers påtalevedtak 26. oktober
-2022, jf. sak 15762899 dok. 12,01.
-84 Riksadvokatens vedtak 2. februar 2023, jf. sak 15762899
-dok. 01,07.
-
-431
-
-Kapittel 12
-
-85
-
-Riksadvokatens vedtak 2. februar 2023 s. 6, jf. sak 15762899
-dok. 01,07.
-86 Riksadvokatens vedtak 2. februar 2023 s. 6, jf. sak 15762899
-dok. 01,07.
-
-[Side 434]
-
-432
-
-Kapittel 12
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-Etter riksadvokatens syn kunne forglemmelsen
-heller ikke medføre ansvar for grovt uaktsom
-overtredelse etter straffeloven § 172:
-«Terskelen for å konstatere slik uaktsomhet er
-høy – det må foreligge en ‘svært klanderverdig’
-opptreden som gir grunnlag for ‘sterk bebreidelse’, jf. straffeloven § 23 annet ledd. Sett hen
-til uklarheten rundt hva Pedersen fikk med seg
-om anmeldelsen av Andersen i 2009, tiden som
-hadde gått frem til Kristiansens siste gjenåpningsbegjæring ble innlevert i 2017, og anmeldelsens relativt perifere tilknytning til de spørsmålene som begjæringen reiste, er ikke den
-høye terskelen for å konstatere grov uaktsomhet passert i vår sak.»87
-
-Riksadvokaten kom til at det heller ikke var
-grunnlag for å ilegge Agder politidistrikt foretaksstraff, jf. straffeloven §§ 27 og 28. Riksadvokaten
-tiltrådte Spesialenhetens vurdering om at Agder
-politidistrikts tidligere praksis med å arkivere
-saker med skjermet status var «svært uheldig»,
-men kunne vanskelig se at svakhetene ved skjermingsrutinene skulle gi grunnlag for straff mot
-politidistriktet for håndteringen av gjenåpningsbegjæringen – ca. 10 år etter at det var besluttet
-skjerming av den aktuelle saken.
-Etter riksadvokatens syn var det også uheldig
-at det ikke ble gjort søk i politiets straffesaksregister STRASAK på Andersen i forbindelse med den
-siste gjenåpningsbegjæringen. Slike søk ville ha
-avdekket anmeldelsen fra 2009, ettersom det ikke
-forelå tilsvarende skjerming av opplysninger i
-STRASAK. Vurderinger av forhold som kunne tilsi
-at Andersen var en moduskandidat, inngikk i det
-materialet som politiet oversendte til statsadvokaten. Dette talte for at det burde ha vært gjort oppdaterte undersøkelser av om det var registrert
-saker på Andersen som ikke hadde blitt fanget
-opp tidligere.
-Ettersom den vesentligste årsaken til at det ble
-gitt ufullstendige og uriktige opplysninger til statsadvokaten, lå langt tilbake i tid, var det etter riksadvokaten syn ikke grunnlag for å konstatere at
-vilkårene i straffeloven § 27 var oppfylt. Tidsforløpet og den senere endringen av skjermingsrutinene tilsa under enhver omstendighet at det ikke
-var behov for å reagere med foretaksstraff, jf.
-straffeloven § 28.
-Utvalget tar til etterretning Spesialenhetens
-og riksadvokatens vurdering om at forholdet
-87
-
-Riksadvokatens vedtak 2. februar 2023 s. 6, jf. sak 15762899
-dok. 01,07.
-
-ikke utgjorde en straffbar tjenestefeil.88 Uavhengig av dette mener utvalget at det var uheldig at
-påtalemyndigheten formulerte seg slik den
-gjorde i tilsvaret til den siste gjenåpningsbegjæringen. Det ble ikke uttrykt tvil, og det ble heller
-ikke tatt noen forbehold. Uttalelsen indikerte at
-påtalemyndigheten hadde positiv kunnskap om
-at det ikke forelå opplysninger om at Andersen
-tidligere hadde forgrepet seg verken mot voksne
-eller barn, noe som ikke var tilfellet. Før påtalemyndigheten uttalte seg om spørsmålet på den
-måten som ble gjort, burde det vært foretatt
-enkle undersøkelser av om det var registrert
-saker på Andersen, også i form av søk i STRASAK.
-
-12.4.3 Agder statsadvokatembeters tilsvar til
-den femte gjenåpningsbegjæringen
-Som beskrevet i punkt 11.11.3.4, innga Agder
-statsadvokatembeter 15. mai 2019 tilsvar til den
-femte gjenåpningsbegjæringen.89 Tilsvaret bygget på en innstilling fra Agder politidistrikt
-20. mars 2019.90 Statsadvokaten viste til innstillingen i sin helhet og refererte store deler av den i
-sitt tilsvar, med egne presiseringer i fet skrift.
-Agder statsadvokatembeter ba om at begjæringen
-ikke ble tatt til følge.
-I ettertid har det vist seg at Agder politidistrikts innstilling, og dermed det meste av statsadvokatens tilsvar, i det vesentlige var skrevet av
-Arne Pedersen. Pedersen var i sin tid påtalefaglig
-etterforskningsleder i Baneheia-saken. I 2019 var
-han pensjonist. Agder statsadvokatembeter var
-klar over at Agder politidistrikt engasjerte Arne
-Pedersen til å gjennomgå bevisene. Gjenopptakelseskommisjonen fikk derimot ikke vite om Pedersens involvering.
-Bakgrunnen for at Agder politidistrikt engasjerte Pedersen, var at ingen i Agder politidistrikt
-hadde god kunnskap om Baneheia-saken i 2018/
-2019. Utvalget er kjent med at Agder politidistrikt
-hadde en presset ressurssituasjon. Grunnet ressurssituasjonen ble det sett på som en umulig oppgave å nedsette et team som – uten forkunnskaper
-– ville måtte bruke betydelig tid på å behandle
-Kristiansens gjenåpningssak.
-88
-
-Det fremgår av utvalgets mandat at granskningen ikke skal
-omfatte spørsmålet om noen av aktørene som har hatt
-befatning med saken, har gjort seg skyldig i straffbare forhold. Det angis samtidig at det kan gis uttrykk for kritikk i
-den grad utvalget finner det berettiget.
-89 Agder statsadvokatembeters uttalelse 15. mai 2019, jf. dok.
-01,60.
-90 Agder politidistrikts uttalelse 20. mars 2019, jf. dok. 01,59.
-
-[Side 435]
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-Etter utvalgets syn er det flere uheldige sider
-ved statsadvokatens tilsvar. For det første vil utvalget påpeke at det innledningsvis i tilsvaret fremgår at de to statsadvokatene som hadde ansvaret
-for behandlingen av Kristiansens femte gjenåpningsbegjæring – Erik Erland Holmen og Jan Tallaksen – ikke tidligere hadde satt seg grundig inn
-i saken. Dette kunne gi inntrykk av at gjenåpningssaken ble behandlet med objektivitet og
-avstand til den opprinnelige etterforskningen. I
-lys av Pedersens sentrale rolle i arbeidet med
-grunnlaget for tilsvaret ble denne bemerkningen
-etter utvalgets syn misvisende:
-«Ved Agder statsadvokatembeter er det statsadvokat Jan Tallaksen og undertegnede som
-har arbeidet med gjennomgang av saksdokumenter og begjæring. Det var førstestatsadvokat Edward Dahl som var aktor i både byretten
-og lagmannsretten i Baneheiasaken, og verken
-Tallaksen eller undertegnede har tidligere satt
-oss grundig inn i saken.»91
-
-For det andre benyttes det i innstillingen flere
-uttrykk og språklige vendinger som samlet sett
-etterlater et inntrykk av at påtalemyndigheten ikke
-har behandlet domfeltes anførsler så saklig og
-objektivt som ønskelig. Språket er gjennomgående
-ladet og mange steder unyansert. Tonen er generelt polemisk og lite nøktern. Agder statsadvokatembeters egne merknader i tilsvaret er isolert sett
-noe mer avdempede i formen enn innstillingen fra
-Agder politidistrikt. På grunn av den fremgangsmåten som er valgt, der statsadvokaten viser til innstillingen i sin helhet, videreføres imidlertid svakhetene med hensyn til form og innhold fra innstillingen til tilsvaret.
-Som et eksempel vil utvalget peke på bruken
-av bastante formuleringer som «garanti for at han
-lyver» og «løgn», som blant annet fremgår i følgende passasje:
-«Alene det faktum at begge var i Baneheia i det
-kritiske tidsrommet denne fredagen er i seg
-selv en garanti for at han [Kristiansen] lyver
-når han hevder at han tok feil av de to kveldene.
-[…]
-Problemet for Kristiansen er allerede nå at
-observasjon som vitnet Rødsvik formidlet til
-politiet fører til at det oppkonstruerte alibiet for
-hans del begynner å rakne. Noe annet motiv for
-å endre forklaringen finnes ikke. […] Dersom
-91
-
-Agder statsadvokatembeters uttalelse 15. mai 2019 s. 2, jf.
-dok. 01,60.
-
-433
-
-Kapittel 12
-
-Kristiansen ikke hadde vært den andre gjerningspersonen hadde det derfor ikke vært nødvendig for han å prøve å bortforklare sine tidligere benektelser med en ny løgn.»92
-Et annet eksempel på slike unyanserte formuleringer er omtalen av at Kristiansen inviterte vitnene Espen Bakke og Eivind Loland på besøk til
-seg kvelden 19. mai 2000:
-«Kristiansen inviterer dem altså til å komme
-over på besøk rett etter at han og Andersen
-hadde kommet tilbake fra Baneheia etter
-ugjerningene. Noen annen plausibel forklaring på at dette er motivert ut ifra behovet for
-å styrke et oppkonstruert alibi, er det ikke
-mulig å se.»93
-
-Det brukes også sterke ord om det forhold at
-Kristiansen fastholdt at Andersen kom hjem til
-ham 19. mai 2000 kl. 19.30:
-«Det blir derfor både selvmotsigende og
-meningsløst å holde fast ved dette avtalte tidspunktet i alibiet, og det er bare Kristiansen
-som gjerningsperson som har behov for løgnen.»94
-
-Utvalget bemerker at også Kristiansens forsvarere tidvis har uttrykt seg skarpt og forholdsvis
-bastant i forbindelse med gjenåpningsprosessen.
-Kravene til objektivitet med hensyn til form og
-innhold må imidlertid ivaretas av påtalemyndigheten, også i tilfeller hvor domfelte eller domfeltes
-advokat legger seg på en konfronterende linje.
-For det tredje har utvalget merket seg at tilsvaret er relativt kortfattet om sakens sentrale problemstillinger. Vurderingstemaet ved gjenåpning
-etter straffeprosessloven § 391 nr. 3 er om det
-foreligger en ny omstendighet eller et nytt bevis
-som synes egnet til å føre til frifinnelse. De sentrale anførslene i gjenåpningsbegjæringen var
-knyttet til DNA, teledata og Andersens forklaring.
-Tilsvaret behandler i liten grad de anførte forholdene og vilkårene for gjenåpning. Store deler av
-
-92
-
-Agder statsadvokatembeters uttalelse 15. mai 2019 s. 6–7,
-jf. dok. 01,60, som gjengir Agder politidistrikts uttalelse 20.
-mars 2019 s. 10–11, jf. dok. 01,59
-93 Agder statsadvokatembeters uttalelse 15. mai 2019 s. 8, jf.
-dok. 01,60, som gjengir Agder politidistrikts uttalelse 20.
-mars 2019 s. 12, jf. dok. 01,59.
-94 Agder statsadvokatembeters uttalelse 15. mai 2019 s. 12, jf.
-dok. 01,60, som gjengir Agder politidistrikts uttalelse 20.
-mars 2019 s. 15, jf. dok. 01,59.
-
-[Side 436]
-
-434
-
-Kapittel 12
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-uttalelsen – 41 av 55 sider – vies derimot til Kristiansens karakter og indisier av varierende vekt.
-For det fjerde vil utvalget peke på at det flere
-steder i tilsvaret gis positivt uriktige opplysninger
-om faktiske forhold. Det kanskje mest alvorlige
-eksemplet på dette er uttalelsen om at det ikke fantes opplysninger som tilsa at Andersen hadde en
-historikk med seksuallovbrudd. De aktuelle
-uttalelsene er gjengitt i punkt 12.4.2 foran. Som det
-fremgår der, er utvalget kritisk til at påtalemyndigheten uttalte seg så bastant om dette spørsmålet,
-uten at det først ble foretatt nærmere undersøkelser.
-Et annet eksempel på at det gis uriktige opplysninger, samtidig som formen ikke er så nøktern som ønskelig, er følgende omtale av Kristiansens forklaring:
-«Videre i avhøret hevder Kristiansen at han
-hadde ‘glemt’ at han hadde vært i Baneheia om
-kvelden 19.mai – til tross for at han meget
-bestemt hadde nektet for å ha vært der både
-under rundspørringen 22. mai og i alibiavhøret
-4. juni. Han prøver så å bortforklare og ufarliggjøre ‘forglemmelsen’ med at han trodde de
-hadde møtt Rødsvik kvelden før. Han ‘glemmer’ også at han i forrige avhør hadde sagt at
-han ikke visste om Andersen hadde vært i
-Baneheia før han kom på besøk. Han sier heller
-ikke noe her om at han denne kvelden hevdet å
-ha låst seg ute fra bua si, og at han derfor skal
-ha syklet inn i Baneheia for å treffe Andersen
-for å låne hans nøkler til å åpne bua.»95
-
-Det er ikke korrekt at Kristiansen «meget
-bestemt hadde nektet» for å ha vært i Baneheia
-under rundspørringen. Ut fra rundspørringsskjemaet fremkommer det ikke at Kristiansen fikk
-spørsmål om han var i Baneheia, se nærmere i
-punkt 3.5.3. Det fremgår heller ikke av avhørsprotokollen fra avhøret 4. juni 2000 at Kristiansen skal
-ha nektet å svare på spørsmål om han var i Baneheia 19. mai 2000, se punkt 3.5.4.1. På dette tidspunktet hadde ikke politiet grunn til å mistenke at
-Kristiansen hadde vært i eller ved Baneheia fredag 19. mai 2000. Denne mistanken oppsto først i
-juli samme år etter avhør av Leonard Hovden, jf.
-punkt 3.5.9.
-Et ytterligere eksempel på at det gis uriktige
-opplysninger i tilsvaret, fremgår under omtalen av
-Andersens troverdighet:
-95
-
-Agder statsadvokatembeters uttalelse 15. mai 2019 s. 6, jf.
-dok. 01,60, som gjengir Agder politidistrikts uttalelse 20.
-mars 2019 s. 10, jf. dok. 01,59.
-
-«Det kan være flere grunner til at Andersen
-ikke husker eller ønsker å huske at det var den
-minste jenta han forgrep seg på. Han holdt jo
-også sin egen deltagelse i overgrepene for seg
-selv inntil han tok initiativ for å forklare seg om
-temaet i avhør 26.10.00. Men uansett hva Sjødin hevder gjennom sine angrep på etterforskningsledelsen og Andersens troverdighet, så
-kan følgende faktum legges til grunn: Forklaringen Andersen til slutt avgir om at det var den
-minste jenta han forgrep seg på sammen med
-Kristiansen, stemmer med blandingsmaterialet
-funnet på henne fra to menn med deres forskjellige DNA-typer, med enda sikrere funn av
-hans DNA på den minste jenta ved reanalysen
-i 2010, med at Andersens DNA-type ikke er funnet på den eldste jenta mens det derimot fra
-henne er gjort funn fra sædrester som kan
-stamme fra Kristiansen.»96
-
-At Andersen tok initiativ til å forklare seg om de
-seksuelle overgrepene, er en misvisende fremstilling av hva som faktisk skjedde. Andersen forklarte
-seg om dette først da han ble konfrontert med det
-politiet mente var biologiske spor som knyttet ham
-til seksuelle overgrep, jf. punkt 3.8.1.4.
-Det var videre villedende å si at det var funnet
-sædrester som kunne stamme fra Kristiansen. Det
-var ikke mulig å si noe om hva slags celletype
-DNA-resultatet fra prøve C-25 stammet fra, se
-punkt 3.8.6. I tilsvaret gjentas denne uriktige opplysningen flere ganger.97 I tillegg inneholder tilsvaret en uriktig fremstilling av undersøkelses- og analysehistorikken for prøve C-25. Det fremgår blant
-annet at «sæddelen» av prøven ble undersøkt og
-«oppbrukt» av Universitetet i Santiago de Compostela (USC) i 2000. Andre uttrykk som benyttes, er
-blant annet «C-25 prøven fra sæd» og «sædprøven».
-Som beskrevet under punkt 3.8.6 ble ikke prøve C25 – i motsetning til det som ble gjort for prøvene
-B-22, B-24 og B-25 – ekstrahert i én sædfraksjon og
-én epitelfraksjon ved Rettsmedisinsk institutt
-(RMI). Prøven som ga resultat ved USC, var videre
-ikke RMIs ekstrakt, men ekstraktet som USC laget
-fra vattpinneresten de mottok, se punkt 3.8.6.5. Det
-var dette ekstraktet som ble «oppbrukt» i år 2000.
-
-96
-
-Agder statsadvokatembeters uttalelse 15. mai 2019 s. 17, jf.
-dok. 01,60, som gjengir Agder politidistrikts uttalelse 20.
-mars 2019 s. 18, jf. dok. 01,59.
-97 Agder statsadvokatembeters uttalelse 15. mai 2019 s. 48
-flg., jf. dok. 01,60.
-
-[Side 437]
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-12.4.4 Krav om dokumentinnsyn
-Det fremgår av mandatet at utvalget skal klarlegge og vurdere «om forsvarerne har fått tilgang
-til dokumenter og opplysninger om etterforskningen i saken i rett tid i henhold til straffeprosesslovens regler».
-Straffeprosessloven § 398 femte ledd regulerer
-retten til dokumentinnsyn i gjenåpningssaker. Første punktum slår fast: «Om dokumentinnsyn gjelder §§ 28, 242, 242 a, 264, 264 a og 267 tilsvarende».
-Regelen viderefører det som gjaldt før opprettelsen
-av kommisjonen, og innebærer som utgangspunkt
-at de alminnelige innsynsreglene i straffeprosessen
-for domfelte og fornærmede/etterlatte, samt deres
-forsvarer/bistandsadvokat, også gjelder overfor
-kommisjonen i gjenåpningssaker.
-Om forståelsen av regelen vises det til NOU
-2024: 24 Prøvd på nytt punkt 8.5.1 og 21.6. Kommisjonen har praktisert bestemmelsen slik at det opereres med et skille mellom kommisjonens egne
-saksdokumenter og straffesaksdokumenter innhentet fra påtalemyndigheten. Etter denne praksisen har påtalemyndigheten behandlet begjæringer
-om innsyn som gjelder straffesaksdokumentene og
-eventuelle interne politidokumenter.98
-Under gjenåpningsprosessen ba advokat
-Sigurd Klomsæt om innsyn i alle dokumentene i
-saken. Utvalget har merket seg at Klomsæt oppfattet det slik at han likevel ikke fikk utlevert samtlige dokumenter.99
-I brev til Agder statsadvokatembeter 2. juli
-2010 listet Klomsæt opp dokumenter han mente
-manglet. Listen var ikke uttømmende:
-«– Videoopptak av ransakningene av Viggo
-Kristiansens bu og Jan Helge Andersens
-bopel, foretatt i juli 2000 i forbindelse med
-gjenopptakelse av kikkersaken.
-– Diverse videoopptak av vitner.
-– Videoopptak av åstedet.
-– Bilder av så å si samtlige vitner som befant
-seg i Baneheia drapskvelden.
-– Ca. 80 sider utskrift av inn- og utgående trafikk på Viggo Kristiansens og Jan Helge
-98
-
-Utvalget har i delutredningen om gjenåpningssystemet
-påpekt at kommisjonens praksis fremstår som hensiktsmessig, men at det kan reises spørsmål om den er i tråd
-med lovens ordlyd, jf. NOU 2024: 24 Prøvd på nytt punkt
-21.6. Utvalget foreslår derfor å endre og klargjøre reglene
-på en måte som i det vesentlige vil videreføre gjeldende
-praksis.
-99
-Se for eksempel brev fra Sigurd Klomsæt til Sivilombudsmannen 18. juni 2010, brev fra Klomsæt til Gjenopptakelseskommisjonen 20. juni 2010 og brev fra Klomsæt til riksadvokaten og Agder statsadvokatembeter 26. august 2010.
-
-–
-–
-–
-–
-–
-
-435
-
-Kapittel 12
-
-Andersens telefoner, i en tremåneders periode. Utelatt fra dokumentene – hva er skrevet – fordi en Kripos-medarbeider mente
-det ikke tilførte saken noe vesentlig nytt –?
-Kart over vitners bevegelser i Baneheia 19.
-mai 2000, som er utarbeidet med 30 minutters intervall.
-Notat/betenkning/begrunnelse for grunnlaget for siktelsen av Viggo Kristiansen.
-Spaningsrapportene for overvåkningen av
-Viggo Kristiansen og Jan Helge Andersen
-de siste døgn før pågripelsen.
-Pågripelsespapirer etc. i forbindelse med
-[vitne].
-dokumentasjoner – DNA»100
-
-I sitt svar 17. august 2010 understreket politidistriktet at Klomsæt hadde fått full tilgang til dokumentene. Videre ga politidistriktet uttrykk for at
-Klomsæts «partsrepresentasjon» for Kristiansen
-nå var opphørt, fordi gjenåpningssaken var
-avgjort. Politidistriktet trakk også frem hensynet
-til de etterlatte:
-«I brev av 25. juni d.å. behandlet kommisjonen
-domfelte Viggo Kristiansens begjæring om
-omgjøring av avvisningsbeslutningen av 17. juni,
-samt Deres nye anmodning om oppnevnelse av
-Dem selv og adv. Sjødin som forsvarere for Viggo
-Kristiansen. Begge deler ble avvist av kommisjonen. Det innebærer at den offentlige partsrepresentasjonen som De skulle ivareta gjennom forsvareroppnevnelsen har opphørt. Tross dette
-registreres det at innspillene fortsetter som om
-forsvareroppnevnelsen fortsatt står ved lag
-Når saken nå har fått sin endelige avslutning gjennom de ‘ankeinstansene’ som er tilgjengelig i vårt rettssystem, anser vi saken som
-endelig avgjort. Det er kommisjonen som er
-rette instans i forhold til det vi nå registrerer av
-omkamper fra Dem og adv. Sjødin – selv om det
-tematisk sett ikke presenteres noe nytt med
-substans som har relevans for saken.
-For de pårørende har hele gjenopptakelsesprosessen, som startet for nærmere 2 år siden,
-vært en enorm belastning. Det er etter vår
-mening uakseptabelt at de etterlattes rettigheter som ofre i saken ikke skal bli respektert
-når det nå foreligger en endelig avklaring av
-gjenåpningskravet.»101
-100 Brev fra Sigurd Klomsæt til Agder statsadvokatembeter 2.
-
-juli 2010.
-
-101 Brev fra Agder politidistrikt til Sigurd Klomsæt 17. august
-
-2010.
-
-[Side 438]
-
-436
-
-Kapittel 12
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-For utvalget er det uklart hva som var Agder politidistrikts grunnlag for å hevde at Klomsæts
-representasjon av Kristiansen var opphørt fordi
-gjenåpningssaken var avgjort, eller fordi det ikke
-forelå noen offentlig forsvareroppnevnelse. Slik
-utvalget ser det, hadde ingen av disse forholdene
-betydning for advokat–klient-forholdet mellom
-Klomsæt og Kristiansen.
-Til tross for at politidistriktet mente at
-Klomsæts representasjon for Kristiansen var opphørt, kommenterte de likevel de enkelte punktene
-i innsynskravet:
-«* Avslutningsvis skal det gis følgende kommentarer til noe av det De omtaler som utleveringskrav i skriv av 2. juli d.å. til statsadvokatene i Agder:
-* Agder politidistrikt sitter ikke på videoopptak av vitner som ble avhørt i saken.
-* Bilder av vitner (innhentet gjennom skriftlig samtykke) som var tenkt benyttet i våre
-bestrebelser på å identifisere observasjoner av enkeltpersoner i Baneheia drapskvelden, ble destruert etter hvert som de
-ikke hadde relevans for etterforskningen.
-Dette var også forutsetningen ved samtykkeerklæringene. Det kan godt være at teknikerne fra Kripos rutinemessig tok
-videoopptak fra ransakingene de deltok i og
-av drapsstedet – til bruk for Åsteds- og
-undersøkelsesrapport del 1 og del 2 som
-ble produsert i Kripos. Alt materiale som
-ble sikret eller produsert av teknikere i
-saken ble sortert og tatt med tilbake til
-kripos i det påfølgende arbeidet. Eventuelle
-opptak ble derfor ikke registrert eller oppbevart her av etterforskningsledelsen.
-* Vi sitter ikke på en 80 siders utskrift av innog utgående trafikk fra de to dømtes telefoner. Innhentingen av telefondata og hva
-som er analysert trafikkdata er dokumentført i saken
-* Vi besitter ikke noen kart over bevegelsene
-i Baneheia drapskvelden. Det ble ‘blåst opp’
-et kartutsnitt som et (av flere) hjelpemiddel
-hvor det ble fysisk plottet inn registrerte
-bevegelser av personer i våre bestrebelser
-på å identifisere gjerningspersonene. Kart/
-tabeller over vitners bevegelser med 30
-minutters intervaller var en del av analysearbeidet i saken. Dette ble som de De antar
-å vite gjort av en tidligere analytiker i
-Kripos. Agder politidistrikt besitter ikke
-dette materialet.
-
-*
-*
-
-*
-*
-
-*
-
-Det har aldri eksistert noen egen spaningsrapport forut for pågripelsene.
-Undertegnende produserte aldri noe eget
-notat/betenkning i forbindelse med at det
-ble utstedt en siktelse mot Viggo Kristiansen.
-Det ble ikke foretatt noen pågripelse av
-[…]: han hadde vitnestatus i saken.
-DNA-ekstraktene/diagrammene som RMI
-har analysert i saken, har også vært gjenstand for behandling i kommisjonen. Det
-ble jo som kjent foretatt et utvalg fra materialet som kommisjonen fikk analysert på
-nytt hos SKL i Sverige. Det er med andre
-ord innhentet en ‘second opinion’ når det
-gjelder RMI’s analyse av materialet – på
-Deres anmodning før kommisjonen avsluttet saken.
-Den såkalte gjerningsprofileringsgruppen,
-som var et prøveprosjekt i Kripos når vi fikk
-drapene i Baneheia, ble på forespørsel gitt
-anledning til å følge saken i et læringsperspektiv. Det ble ikke gitt noe oppdrag eller
-mandat til gruppen og etterforskningsledelsen ble heller ikke gitt noen form for informasjon – verken muntlig eller skriftlig – om
-hvilke synspunkter/Konklusjoner de eventuelt teoretiserte seg frem til etter hvert
-som saken utviklet seg. Det blir derfor
-meningsløst å fremsette feilaktige og udokumenterte påstander om at politidistriktet
-nektet å motta noe fra prosjektgruppen for
-at dette ikke skulle bli en del av sakens
-dokumenter!»102
-
-I det følgende vil utvalget knytte enkelte bemerkninger til noen av punktene i svaret fra Agder politidistrikt:
-Utvalget bemerker at det i realiteten fantes et
-videoopptak fra åstedet, slik Klomsæt hadde lagt
-til grunn. Utvalget har fått tilgang til dette gjennom Oslo politidistrikt, og etter det opplyste ble
-dette opptaket overlevert fra Kripos. Det kan derfor stemme at Agder politidistrikt ikke var i besittelse av videoopptaket i 2010. Videopptaket ble for
-øvrig avspilt under ankebehandlingen i Gulating
-lagmannsrett i forbindelse med den nye straffesaken mot Jan Helge Andersen.103
-Det fantes også en oversikt over inn- og utgående mobiltrafikk for Viggo Kristiansen. Etter
-102 Brev fra Agder politidistrikt til Sigurd Klomsæt 17. august
-
-2010.
-
-103 NRK, «Rystende bilder i Baneheia-rettssaken: Viste 25 år
-
-gammel politivideo», 22. april 2025.
-
-[Side 439]
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-pågripelsen innhentet politiet utgående trafikk seks
-måneder tilbake i tid fra 18. september samt inngående samtaler fra 5. mai 2000 til 2. juni 2000. Som
-det fremgår i punkt 4.6.4, ble denne oversikten ikke
-lagt inn i straffesakens dokumenter – noe som var i
-strid med straffeprosesslovens regler. I stedet lå de
-aktuelle teledataopplysningene lagret på politidistriktets lokale servere.104 Ettersom opplysningene
-klart burde ha vært dokumentført høsten 2000, er
-det uheldig at forespørselen fra Klomsæt uten
-videre ble avvist. Det fremkommer ikke av brevet
-hva som ble gjort – om noe – fra politidistriktets
-side for å finne oversikten på politiets servere.
-Når det gjelder kart over vitners bevegelser i
-Baneheia 19. mai 2000, vil utvalget bemerke at det
-er riktig – som Agder politidistrikt skriver – at en
-analytiker fra Kripos lagde en slik oversikt. Analytikeren leste alle avhør og plottet tidspunkter og
-observasjoner inn i et Excel-skjema, som deretter
-ble konvertert til en tidslinje. Tidslinjen ble skrevet ut og hengt opp i politiets kontorer, jf. punkt
-3.4.6. Excel-dokumentet lå i de interne dokumentene som utvalget har fått tilgang til fra Oslo politidistrikt. Etter det opplyste fikk Oslo politidistrikt
-tilgang til skjemaet på en harddisk med back-up
-fra Agder politidistrikts servere fra 2000-tallet.
-Skjemaet ble funnet på det private hjemmeområdet til en av etterforskerne som jobbet med Baneheia-etterforskningen.
-Utvalget har fått tilgang til rapporten fra spaningen i forkant av pågripelsen av Andersen og
-Kristiansen 13. september 2000. Også denne lå i
-Agder politidistrikts interne dokumenter, som
-utvalget har fått tilgang til fra Oslo politidistrikt.
-Det var følgelig uriktig, som Agder politidistrikt
-hevdet, at det aldri hadde eksistert noen slik rapport. Spaningen startet mandag 11. september
-2000 og varte frem til pågripelsene onsdag 13.
-september. Rapporten fra spaningen er på fire
-Word-sider. Spaningsrapporten ble funnet samme
-sted som Excel-oversikten over bevegelser i Baneheia, altså på hjemmeområdet til en av etterforskerne som jobbet med Baneheia-etterforskningen.
-104 I 2021 ble Agder politidistrikt kontaktet av Oslo polidistrikt
-
-med forespørsel om å få utlevert de aktuelle teledataopplysningene. Det viste seg at de gamle lokale serverne var
-destruert, med unntak av en back-up fra 2005 som inneholdt informasjon om teledata. Ettersom den IKT-ansvarlige ikke hadde administratorrettigheter da sikkerhetskopien ble tatt i 2005, ble kun selve filen og filnavnet kopiert,
-og størrelsen på filene var 0 byte. Innholdet ble altså ikke
-kopiert grunnet brukerrettigheter. Det viste seg imidlertid
-at oversikten var i behold hos selskapet Teleplan. Se Oslo
-politidistrikts rapport 18. februar 2022 om undersøkelser
-og analyser knyttet til teledata s. 35–36, jf. dok. 16,07,07.
-
-437
-
-Kapittel 12
-
-Etter utvalgets syn er det uheldig at det ble gitt
-dels uriktige og dels mangelfulle opplysninger fra
-Agder politidistrikt som svar på innsynskravet.
-Etter det utvalget kjenner til, er det imidlertid
-ikke holdepunkter for at det bevisst ble gitt uriktige opplysninger fra politidistriktets side.
-
-12.5 Forsvarernes og
-bistandsadvokatenes rolle
-Advokat Sigurd Klomsæt ble engasjert av Viggo
-Kristiansen 30. april 2008 for å bistå med den første gjenåpningsbegjæringen.105 Klomsæt presenterte begjæringen for pressen på Agder journalistlags sommerkonferanse 6. september 2008.
-Klomsæt var Kristiansens forsvarer frem til han
-fikk tilbakekalt sin advokatbevilling i august 2012.
-Etter at han fikk tilbake advokatbevillingen høsten
-2014, bisto han igjen Kristiansen sammen med
-Arvid Sjødin til juni 2016. Til sammen har
-Klomsæt bistått Kristiansen i forbindelse med tre
-gjenåpningsbegjæringer og én begjæring om
-omgjøring, i tillegg til det sivile søksmålet mot
-Gjenopptakelseskommisjonen.
-Utvalget mener at Klomsæt gjorde en god jobb
-med å påvise svakhetene ved domfellelsen av
-Kristiansen, både ved å peke på informasjon i det
-opprinnelige etterforskningsmaterialet og ved å
-innhente ny sakkyndighet om blant annet DNA.
-Som det fremgår i punkt 12.2, mener utvalget at
-grunnlaget for gjenåpning forelå i juni 2011, i og
-med Forensic Science Services (FSS) og GENAs
-rapporter. Slik utvalget ser det, forelå dermed det
-vesentlige av grunnlaget for gjenåpningen i de tre
-første gjenåpningsprosessene, da Klomsæt var
-engasjert som Kristiansens forsvarer. Det var
-Klomsæt – gjennom innhentet DNA-sakkyndighet
-– som påviste at premisset om to gjerningsmenn
-var uriktig. Gjennom sin forsvarergjerning har
-Klomsæt vært helt sentral for gjenåpningen av
-Baneheia-saken og at den uriktige domfellelsen av
-Viggo Kristiansen ble avdekket.
-Advokat Arvid Sjødin var noe involvert i gjenåpningsprosessen fra sommeren 2010 og overtok
-som forsvarer for Viggo Kristiansen i november
-2012, da Klomsæt fikk tilbakekalt sin advokatbevilling.106 Sjødin bisto deretter Kristiansen med
-avslutningen av den tredje gjenåpningsprosessen,
-som endte med avslag 11. desember 2013. Deretter bisto Sjødin ved den fjerde og den femte gjen105 Senere har det kommet frem at også journalist Eivind
-106
-
-Pedersen bisto i arbeidet, jf. Kvamme (2023) s. 289.
-LB-2023-82992 punkt 6.3.2.
-
-[Side 440]
-
-438
-
-Kapittel 12
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-åpningsprosessen,
-frem
-til
-gjenåpningen
-18. februar 2021. Han var også Kristiansens forsvarer under den nye etterforskningen og frem til
-frifinnelsen 15. desember 2022. Sjødin trakk seg
-som Kristiansens forsvarer 27. januar 2023.107
-Sjødin knyttet til seg flere personer som bisto i
-arbeidet med Kristiansens femte gjenåpningsbegjæring og den påfølgende prosessen som ledet
-frem til gjenåpning i 2021. Den femte begjæringen
-var velskrevet og stringent i formen. Det samme
-gjaldt de fleste av de øvrige skriftlige innleggene i
-den påfølgende prosessen. Sjødin og støttespillerne videreførte Klomsæts arbeid og lyktes i å
-kommunisere til kommisjonens flertall at vilkårene for gjenåpning var oppfylt.
-Mens den femte gjenåpningsbegjæringen var
-til behandling i kommisjonen, pågikk for første
-107 Rett24, «Arvid Sjødin trekker seg som Viggo Kristiansens
-
-forsvarer», 27. januar 2023.
-
-gang en kritisk offentlig samtale om domfellelsen
-av Kristiansen i Baneheia-saken. To særlig viktige
-bidrag var Bjørn Olav Jahrs bok Drapene i Baneheia. To historier. En sannhet og Discovery Plus’
-og Monsters TV-dokumentar Baneheia – kampen
-om sannheten. Utvalget ser ikke bort ifra at den
-kritiske oppmerksomheten om saken kan ha
-påvirket behandlingen i Gjenopptakelseskommisjonen.108
-Bistandsadvokatene har, særlig mot slutten av
-gjenåpningsprosessen, hatt en aktiv rolle.
-Bistandsadvokatene har på vegne av sine klienter
-motsatt seg gjenåpning av saken. I NOU 2024: 24
-Prøvd på nytt punkt 19.4 drøfter utvalget bistandsadvokaters rolle i saker for Gjenopptakelseskommisjonen på generelt grunnlag.
-
-108
-
-Jahr (2018) og Discovery Plus (12.01.21).
-
-[Side 441]
-
-Del V
-Læringspunkter og tiltak
-
-[Side 442]
+## Hvorfor ble Kristiansens gjenåpningsbegjæring først tatt til følge etter lang tid og gjentatte forsøk?
+
+### Innledning
+
+I det følgende vil utvalget drøfte hvorfor Viggo Kristiansens begjæring om gjenåpning først ble tatt til følge etter lang tid og gjentatte forsøk. Det gikk tolv og et halvt år fra Kristiansens første gjenåpningsbegjæring ble innlevert i september 2008, til saken ble gjenåpnet i februar 2021. I løpet av denne perioden ble det levert til sammen fem gjenåpningsbegjæringer og to omgjøringsbegjæringer. Det ble også anlagt et søksmål mot Gjenopptakelseskommisjonen i 2010, med påstand om at de to første avslagene var ugyldige.
+
+I de neste punktene vil utvalget sammenfatte sine synspunkter på hvilke årsaksfaktorer som fremstår mest vesentlige i det samlede årsaksbildet. I punkt 12.3.2 drøftes betydningen av Gjenopptakelseskommisjonens bevisvurderinger. Svikt ved vurderingen av DNA-bevisene fremheves der som en hovedårsak til at saken ikke ble gjenåpnet før i 2011. Hvilken betydning manglende overholdelse av kommisjonens utredningsplikt har spilt i denne sammenheng, vurderes i punkt 12.3.3, mens kommisjonens mangelfulle bearbeidelse av partenes anførsler omtales i punkt 12.3.4. Den rettsmedisinske kommisjons rolle behandles i punkt 12.3.5. Svakheter ved kommisjonens rettsanvendelse er tema i punkt 12.3.6, mens svakheter ved regelverk, rutiner og praksis behandles i punkt 12.3.7. En oppsummering av utvalgets syn gis til sist i punkt 12.3.8.
+
+### Svikt i kommisjonens bevisvurderinger
+
+I punkt 12.2.1 har utvalget konkludert med at saken burde vært gjenåpnet da det ble klart at DNA-beviset fra 2000 ikke ga en sikker bekreftelse på to gjerningsmenn. Hovedårsaken til at Viggo Kristiansens begjæring først ble tatt til følge etter lang tid og gjentatte forsøk, er etter utvalgets syn at kommisjonen først i 2021 tok konkret stilling til om de opprinnelige DNA-bevisene ga grunnlag for et slikt premiss.
+
+Advokat Sigurd Klomsæt anførte at DNA-beviset ikke ga sikker bekreftelse på to gjerningsmenn allerede i den første gjenåpningsprosessen, og anførselen ble gjentatt i alle de etterfølgende gjenåpningsprosessene. At kommisjonen ikke tok konkret stilling til anførselen, er etter utvalgets syn en svakhet ved Gjenopptakelseskommisjonens bevisvurdering som gjelder alle avgjørelsene i Baneheia-saken med unntak av den siste.
+
+Som det fremgår av punkt 12.2, har utvalget samtidig en viss forståelse for at kommisjonen ikke forsto svakhetene ved rettens vurdering av DNA-beviset ved avgjørelsen av den første gjenåpningsbegjæringen 17. juni 2010. Det samme gjelder for den andre gjenåpningsbegjæringen, som ble avgjort 24. september 2010. Den andre begjæringen var i hovedsak konsentrert rundt gjerningsmannsprofilen, og det fremkom ikke denne gang noe nytt om DNA-beviset utover anførslene i den første begjæringen.
+
+Ved avgjørelsen av den tredje begjæringen mener utvalget derimot at det klart forelå grunnlag for å gjenåpne saken, hovedsakelig på grunn av de nye analysene og rapportene om DNA-beviset. Etter utvalgets syn er det vesentlige svakheter ved kommisjonens bevisvurderinger – særlig med tanke på vurderingene av DNA-beviset – i avgjørelsene av den tredje og fjerde gjenåpningsbegjæringen. Dette utdypes nærmere i det følgende.
+
+Kristiansens tredje gjenåpningsbegjæring 17. juni 2011 ble avgjort ved kommisjonens vedtak 11. desember 2013. I avgjørelsen la kommisjonen til grunn at Kristiansens siste begjæring «i det vesentlige» var «en bearbeidelse av tidligere begjæringer og argumentasjon, uten at det er fremkommet noe avgjørende nytt eller anført noen særlige forhold som gir grunnlag for gjenåpning».[^1584] I vurderingen av DNA-beviset viste kommisjonen kort til avgjørelsen 17. juni 2010 og sluttet seg til vurderingene og konklusjonene som fremgikk der. Det var ifølge kommisjonen ikke «fremkommet noe avgjørende nytt etter dette, som gir grunn for nåværende kommisjon til å komme til et annet resultat».[^1585]
+
+Etter utvalgets syn var det en feilvurdering at spørsmålet om gjenåpning denne gang ble vurdert å stå i samme stilling som da kommisjonen behandlet den første gjenåpningsbegjæringen. Siden den gang hadde det tilkommet ytterligere sakkyndigrapporter fra FSS og GENA som gjorde grundig rede for svakhetene ved de opprinnelige analyseresultatene og hvorfor det ikke kunne trekkes slike slutninger fra dem som retten hadde gjort ved domfellelsen.
+
+I avgjørelsen gjør kommisjonen i liten grad egne, selvstendige vurderinger av de nye rapportene fra GENA og FFS og hvilken betydning disse hadde for den sentrale anførselen om at DNA-beviset ikke ga en sikker bekreftelse på to gjerningsmenn. I stedet siterer kommisjonen lengre passasjer fra Oslo tingretts dom 1. september 2011 som avgjorde Kristiansens søksmål om gyldigheten av kommisjonens første og andre avgjørelse om å nekte gjenåpning. Tingretten ga i dommen uttrykk for at det var en «permanent uenighet» blant de sakkyndige, som hadde «sprikende syn» på spørsmålet om DNA-analysene «godtgjorde at to menn hadde stått bak de seksuelle overgrepene og da nødvendigvis også drapene».[^1586]
+
+Det er klare holdepunkter for at Oslo tingrett her baserte seg på en feilslutning, se punkt 11.7.3. Uenigheten blant de sakkyndige gjaldt hvorvidt det var påvist DNA fra to ulike menn i prøvene, altså om det var tale om to *reelle mannlige DNA-bidrag*. Universitetet i Santiago de Compostela (USC) var i sine vurderinger klar på at det var tale om reelt DNA, mens GENA og FSS på sin side mente at det kunne være snakk om et artefakt – altså en feilavlesning. Ingen av de sakkyndige hadde imidlertid tatt stilling til om det dreide seg om DNA fra to *gjerningsmenn*. Tvert imot var de sakkyndige enige om at forurensning i forbindelse med sporsikring, bevishåndtering eller lignende ikke kunne utelukkes. Alle de sakkyndige holdt altså muligheten åpen – riktignok med noe ulike formuleringer – for at DNA-et i prøve C-25 kunne ha et annet opphav enn at det var avsatt av en gjerningsmann på åstedet.[^1587]
+
+Ved å vise til tingrettens drøftelse kan kommisjonen synes å ha basert seg på samme feilslutning. Kommisjonen konstaterer kort under vurderingen av DNA-beviset at det «fortsatt» var uenighet mellom de sakkyndige om hvorvidt allel 10 i prøven C-25 kunne skyldes «en skyggeallel eller om det skyldes forurensning». Det sentrale spørsmålet om hvorvidt funnet av allel 10 i prøve C-25 faktisk skyldtes reelt DNA eller et artefakt, og om eventuelt DNA i prøven måtte antas å stamme fra en gjerningsmann, ble aldri vurdert av kommisjonen.
+
+Den 9. desember 2014 avgjorde kommisjonen Kristiansens fjerde gjenåpningsbegjæring. Begjæringen ble av kommisjonens leder alene forkastet som «åpenbart» grunnløs, jf. straffeprosessloven § 397 tredje ledd. Kommisjonen foretar i avgjørelsen ingen nærmere vurderinger av de sentrale spørsmålene vedrørende DNA-beviset. I avgjørelsen viser kommisjonen i stedet til kommisjonens vurderinger i avgjørelsen av den tredje begjæringen. Feilvurderingene av DNA-beviset ved avgjørelsen av den tredje begjæringen ble altså videreført til avgjørelsen av den fjerde begjæringen, og det ble heller ikke denne gang tatt stilling til den sentrale anførselen knyttet til DNA-bevisene og premisset om to gjerningsmenn.
+
+Kristiansens femte gjenåpningsbegjæring ble avgjort ved kommisjonens vedtak 18. februar 2021. Etter utvalgets syn var dette første gang kommisjonen foretok en reell og selvstendig vurdering av den sentrale anførselen om at dommen bygde på et uriktig premiss om at DNA-analysene ga en sikker bekreftelse på at to gjerningsmenn hadde tatt del i ugjerningene.
+
+Kommisjonens flertall på tre medlemmer konkluderte denne gang med at lagretten, ut fra bevisførselen, måtte ha oppfattet DNA-beviset som en sikker bekreftelse på at overgrepene ble begått av to gjerningsmenn.[^1588] Flertallet konkluderte videre med at DNA-beviset nå måtte anses tilnærmet nøytralt når det gjaldt spørsmålet om hvorvidt én eller to gjerningsmenn hadde begått handlingene i Baneheia.[^1589] Mindretallet på to medlemmer mente på sin side at saken med hensyn til biologiske spor ikke sto i en «vesentlig annen bevismessig stilling» enn da saken var oppe for lagmannsretten.[^1590] Mindretallet viste til at usikkerhetsmomentene vedrørende DNA-beviset var fremme også ved lagmannsrettens behandling, herunder at Kristiansens forsvarer reiste spørsmålet om kontaminering. Se nærmere om flertallets og mindretallets vurderinger av dette spørsmålet i punkt 11.11.4.
+
+### Manglende overholdelse av utredningsplikten
+
+Gjenopptakelseskommisjonens utredningsplikt følger av straffeprosessloven § 398 første ledd første punktum: Kommisjonen skal av eget tiltak «sørge for at saken er så godt opplyst som mulig før den avgjør om begjæringen skal tas til følge». Ifølge forarbeidene skal kommisjonen «ta initiativ og gå aktivt til verks for å belyse sakens faktiske og rettslige sider».[^1591] Den omfattende utredningsplikten må imidlertid forstås med visse forbehold:
+
+«Meningen er at kommisjonen skal opplyse saken så godt som mulig ut fra hva som er praktisk mulig og økonomisk forsvarlig tatt i betraktning sakens alvor og dens betydning for siktede. Avveiningen kan føre til at et nytt bevis likevel ikke innhentes, selv om det kan bidra til å opplyse saken ytterligere.»[^1592]
+
+Baneheia-sakens alvor og store betydning for Viggo Kristiansen tilsier etter utvalgets syn at saken burde ha blitt prioritert og underlagt omfattende utredning. Under gjenåpningsprosessen sonet Kristiansen en forvaringsdom på strenge vilkår ved Ila fengsel og forvaringsanstalt. Han hadde ikke offentlig oppnevnt forsvarer, med unntak av 100 timer i 2008 i forbindelse med den første gjenåpningsbegjæringen. I begrunnelsen for avslagene på Kristiansens begjæringer om forsvareroppnevning viste kommisjonen blant annet til at kommisjonen selv ville foreta nødvendige utredningsskritt.
+
+Når det gjelder DNA, har kommisjonen foretatt enkelte utredningsskritt i form av nye analyser av gjenværende DNA-materiale. Det ble foretatt *nye analyser* ved Universitetet i Santiago de Compostela (USC) og Statens kriminaltekniska laboratorium (SKL) i 2010 og ved Nationellt forensiskt centrum (NFC) i 2018. Først i 2020 oppnevnte imidlertid kommisjonen en DNA-sakkyndig for å uttale seg om holdbarheten av rettens tolkning av *de opprinnelige DNA-analysene* fra 2000. Etter utvalgets syn var dette et nærliggende utredningsskritt, gitt DNA-bevisets betydning for domfellelsen av Kristiansen og anførslene i begjæringene.
+
+Utvalget forstår det slik at ingen av de ansatte i kommisjonens sekretariat under behandlingen av saken hadde særskilt kompetanse om DNA. Det er grunn til å tro at dette kan ha medvirket til at DNA-beviset ikke ble tilstrekkelig utredet. Ettersom kommisjonen ikke hadde slik kompetanse, var det reelt sett behov for å få formidlet innholdet i, og betydningen av, DNA-beviset fra en fagkyndig.
+
+Fordi kommisjonen ikke oppnevnte noen sakkyndig innen DNA, engasjerte Klomsæt selv FSS og GENA for å gjøre vurderinger av de opprinnelige DNA-analysene som lå til grunn for rettens behandling. Både FFS og GENA formidlet i sine rapporter fra juni 2011 i klartekst svakhetene ved DNA-analysene fra 2000. Denne sentrale siden ved saken ble dermed utredet av Kristiansens privat engasjerte sakkyndige. Det er holdepunkter for at kommisjonen av den grunn vektla rapportene i mindre grad enn det reelt sett var grunnlag for. Påtalemyndigheten anså GENA som «partsrepresentant», og kommisjonen erklærte GENA inhabil, se punkt 11.3.2.11. Kommisjonens eget syn kommer klart til uttrykk i vedtaket 17. juni 2010: «Det bemerkes at GENA og FSS har vært engasjert som privat sakkyndige av domfelte v/ advokat Klomsæt. Deres uttalelser, som advokat Klomsæt har oversendt kommisjonen, anses derfor som en del av domfeltes anførsler.»
+
+Oppnevningen av Gjenopptakelseskommisjonens egen sakkyndige i 2020 skjedde først etter at det forelå utkast til avgjørelse, da det ble klart at det var uenighet i kommisjonen jf. punkt 11.11.3.2. Oppnevningen var dermed ikke en del av den innledende utredningen av saken fra kommisjonens side. Dette ledet til en forsinkelse i saksbehandlingstiden på ett år og tre måneder, se nærmere i punkt 12.3.7.
+
+Som nevnt i punkt 12.2 mener utvalget at det er grunn til å tro at FSS’ og GENAs grundige annenhåndsvurderinger av DNA-analysene ved USC i 2000 ville ha foreligget på et tidligere tidspunkt dersom kommisjonen hadde imøtekommet Klomsæts anmodninger om å innhente underlagsmaterialet (elektroferogrammene) for analysene ved USC i 2000. Elektroferogrammene ble først utlevert 25. mai 2011. Etter utvalgets syn er det vanskelig å se noen god begrunnelse for at kommisjonen ikke imøtekom Klomsæts anmodning. Det var tale om sentrale opplysninger som det var lite krevende for kommisjonen å fremskaffe.
+
+Det hører med til bildet at heller ikke andre av sakens sentrale beviser har vært gjenstand for særskilte utredningsskritt fra kommisjonens side, til tross for en rekke anmodninger fra Kristiansens advokater. Allerede 28. mai 2009 avslo kommisjonen å oppnevne en sakkyndig innen avhørsmetoder, se punkt 11.3.2.14. Samme dag avslo kommisjonen å oppnevne en sakkyndig innen dekningsforhold. Den 29. juni 2009 avslo kommisjonen videre å gjennomføre avhør av dekningsdirektør i Telenor, Bjørn Amundsen. Slike utredningsskritt ville vært egnet til å klargjøre betydningen av telebeviset for gjenåpningsvurderingen.
+
+I lys av sakens alvor og innholdet i Kristiansens anførsler, og på bakgrunn av de gjentatte anmodningene om enkle utredningsskritt som ikke ble etterfulgt, mener utvalget at kommisjonen på flere punkter ikke overholdt utredningsplikten den er pålagt. Dette synes å ha vært en av årsakene til at grunnlaget for gjenåpning ikke forelå før i 2011. Den manglende utredningen, sammenholdt med at vurderingene til de privatengasjerte sakkyndige ble tillagt for liten vekt, har også vært en årsak til at Kristiansens gjenåpningsbegjæring først ble tatt til følge i 2021.
+
+### Mangelfull bearbeidelse av partenes anførsler
+
+Et fellestrekk ved kommisjonens avgjørelser i Baneheia-saken er etter utvalgets syn at de gjennomgående har en lite hensiktsmessig utforming. Enkelte av avgjørelsene er svært omfattende, og det brukes generelt uforholdsmessig stor plass på å gjengi partenes anførsler.[^1593] Lange passasjer fra partenes brev er inntatt i avgjørelsene. Enkelte ganger er partenes skriv limt inn i sin helhet, selv om de er svært lange.
+
+Et eksempel er kommisjonens gjengivelse av partenes anførsler om DNA-beviset i avgjørelsen av den tredje begjæringen 11. desember 2013. Utvalget mener at det på dette tidspunktet klart var grunnlag for å gjenåpne saken, se punkt 12.2.1 De sentrale grunnene som talte for gjenåpning, fremgikk av Kristiansens anførsler i begjæringen. I kommisjonens avgjørelse gis det imidlertid ingen konsentrert gjengivelse, med kommisjonens egne ord, av hva som gjøres gjeldende om DNA. Dette gjør det krevende å vurdere om kommisjonen korrekt har oppfattet det som er anført.[^1594]
+
+Utvalget mener at denne formen for gjengivelse av anførsler er uheldig, fordi det er vanskelig å vite om kommisjonen selv har bearbeidet og forstått innholdet i partenes argumentasjon. Utvalget har belyst denne problemstillingen når det gjelder andre avgjørelser fra kommisjonen i utvalgets delutredning om gjenåpningssystemet. Utvalget bemerker der:
+
+«Et viktig formål med å gjengi anførslene er at kommisjonen skal vise at den har fått med seg det partene har gjort gjeldende. Videre vil gjengivelsen kunne bidra til å klargjøre vurderingstemaene i saken for kommisjonsmedlemmene og sikre at både utrederen og medlemmene forstår de sentrale spørsmålene i saken.»[^1595]
+
+### Uheldige uttalelser fra Den rettsmedisinske kommisjon
+
+Etter utvalgets syn har Den rettsmedisinske kommisjon (DRK) kommet med uheldige uttalelser som har vært egnet til å skape forvirring om DNA-bevisenes betydning ved gjenåpningsvurderingen. Etter utvalgets syn er dette en del av forklaringen på at Viggo Kristiansens begjæring om gjenåpning først ble tatt til følge etter lang tid og gjentatte forsøk.
+
+DRKs hovedoppgave er å kvalitetssikre rettsmedisinske sakkyndigvurderinger i straffesaker, jf. forskrift om Den rettsmedisinske kommisjon § 3. I korte trekk innebærer kvalitetssikringen å gi en vurdering av om en sakkyndiguttalelse holder god nok standard ut fra angitte kriterier, herunder påpeke eventuelle mangler. Selve sakkyndigvurderingen skal derimot ikke overprøves.
+
+Utover kontrollfunksjonen har DRK etter forskriften en veiledningsfunksjon overfor straffesaksaktørene i rettsmedisinske spørsmål. Det er imidlertid ikke holdepunkter for at veiledningsfunksjonen ble utøvd i forbindelse med Baneheia-saken. DRK uttalte selv den 15. juni 2010 at den kun hadde avgitt uttalelser i medhold av den daværende forskrift om Den rettsmedisinske kommisjon § 3 bokstav a.[^1596] Utvalget legger derfor til grunn at DRKs uttalelser i saken ble gitt som ledd i den regulære kontrollfunksjonen.
+
+DRK hadde ingen befatning med de rettsgenetiske rapportene i forbindelse med den opprinnelige straffesaken, ettersom rettsgenetiske rapporter først ble underlagt kommisjonskontroll i 2002.[^1597] DRKs første befatning med saken var derfor ved uttalelsen 12. mars 2009, der DRK uttalte seg om de opprinnelige rapportene og om GENAs rapport 4. februar 2009. Uttalelsen om GENAs rapport lød slik:
+
+«I denne rapporten fra Gena blir det gjort en vurdering av funnene og konklusjonene i rapporten fra RMI av 22.01.01. Kommisjonen mener at uttalelsen fra GENA ikke bringer nye opplysninger inn i saken. Fremstillingen er likevel rettsgenetisk korrekt, og som den opprinnelige uttalelsen fra RMI, har vi heller ikke her bemerkninger til det faglige ved denne nye uttalelsen fra GENA.
+
+GENA sin uttalelse legger i oppsummeringen særlig vekt på formuleringene om DNA bevisets vekt i RMI sin rapport som ligger til grunn for dommen. Dommen fra Kristiansand byrett av 01.06.01 tyder på at retten har forstått hvilken bevismessig vekt DNA funnene i saken har. \[…\] I dommen sies det helt klart at identiteten ikke kan bestemmes, og at den svært begrensede DNA-profil som er identifisert og som stemmer med Kristiansen, stemmer med tilsvarende profil på over 50 % av norske menn. Kommisjonen forstår det slik at retten har oppfattet RMIs rapport av 22.01.01 korrekt måte, og således bringer ikke rapporten fra GENA noen nye faglige elementer av betydning inn i saken.
+
+Konklusjon: Den rettsmedisinske kommisjon har ingen bemerkninger til sakkyndiguttalelsene i rapporten fra RMI (inkl. rapporten fra Universitetet i Santiago de Compostela) og GENA. Kommisjonen konkluderer med at retten (rettsbok av 01.06.01) har oppfattet RMIs rapport av 22.01.01 på korrekt måte. Vi mener at rapporten fra GENA gir ingen nye faglige vurderinger på det rettsgenetiske området som har betydning for gjenåpning av saken.»[^1598]
+
+Utvalget mener at denne uttalelsen gikk utover DRKs mandat og rolle som kvalitetssikrer. Uttalelsen var i det minste klart egnet til å gi inntrykk av at DRK hadde gjort materielle vurderinger av DNA-bevisets betydning for bevisvurderingen og gjenåpningsspørsmålet, og uttalelsen fikk dermed preg av å være en selvstendig sakkyndiguttalelse. Den synes også å ha blitt oppfattet slik av både Gjenopptakelseskommisjonen og påtalemyndigheten.
+
+For det første uttalte DRK at Kristiansand byrett i henhold til dommen hadde oppfattet rapporten fra Rettsmedisinsk institutt (RMI) på «korrekt måte» og «forstått hvilken bevismessig vekt DNA-funnene i saken ha\[dde\]». Det er ikke uten videre klart hva DRK mente med dette. Den videre teksten indikerer at DRK kun mente å påpeke at retten hadde oppfattet den statistiske vektingen av beviset korrekt, det vil si at resultatet fra prøve C-25 var forenlig med over 50 prosent av norske menn, og at identiteten ikke kunne bestemmes nærmere. Formuleringene var imidlertid egnet til å forstås slik at de også kastet lys over – og nærmest satte et «godkjent»-stempel på – bevisvekten DNA-resultatene hadde blitt tillagt av retten i den *strafferettslige* bevisvurderingen, herunder den uriktige slutningen om at de sikkert påviste to gjerningsmenn.
+
+For det andre uttalte DRK at GENA ikke brakte «nye opplysninger inn i saken» eller «nye faglige vurderinger på det rettsgenetiske området som har betydning for gjenåpning av saken». Det er heller ikke her helt klart hva som var DRKs hensikt med å komme med en slik uttalelse. Formuleringene kunne i det minste forstås slik at de hadde rekkevidde utover det rent rettsgenetiske, i den forstand at de også kastet et visst lys over hvorvidt det rettslige vilkåret i straffeprosessloven § 391 nr. 3 var oppfylt.
+
+Det fremgikk av GENAs rapport at det ikke var de rettsgenetiske konklusjonene i seg selv som var problematiske, men hvilken bevismessig vekt de svake DNA-bevisene hadde blitt tillagt av retten i den *strafferettslige* bevisvurderingen. Å uttale seg om sistnevnte falt klart utenfor DRKs mandat, og det var kanskje heller ikke tilsiktet fra DRKs side at uttalelsen skulle bli forstått på denne måten. Uansett synes uttalelsen 12. mars 2010 å ha fått uheldige konsekvenser for sakens videre forløp. Utvalget finner det sannsynlig at uttalelsen kan ha bidratt til at Gjenopptakelseskommisjonen ikke så grunn til å behandle holdbarheten av rettens slutninger fra de opprinnelige DNA-bevisene i vedtaket 17. juni 2010. Det vises til omtalen i punkt 12.2.2.
+
+Det er også grunn til å trekke frem DRKs uttalelse 4. juni 2010. Bakgrunnen for denne uttalelsen var at Universitetet i Santiago de Compostela (USC) ved nye analyser i 2010 hadde påvist en tilnærmet full Y-DNA-profil forenlig med Jan Helge Andersen i prøve B-24. I tillegg ga analysen utslag på allel 10 i markøren DYS391. USC mente at det mest sannsynlig var tale om et reelt DNA-bidrag fra en annen mann, men foretok ingen sammenligning med Viggo Kristiansen for denne ene markøren. FSS og GENA var uenig i at det var påvist en tilblanding fra en annen mann, idet allel 10 kunne være et artefakt eller resultat av forurensning. Gjenopptakelseskommisjonen ba RMI om en rapport som forklarte innholdet i USCs rapport. RMI avga slik rapport 29. mars 2010, jf. punkt 11.3.2.8. Til RMIs forklarende rapport uttalte DRK:
+
+«Ang. tilblandingen fra en annen bidragsyter i markøren DYS391 i Y-STR-profilen for sporprøven 6: Dersom en beskrivelse skal være nøytral og korrekt bør en beskrive sammenfall av DNA egenskaper mellom referanse og spor, selv når det er tale om en eneste DNA egenskap som i dette tilfellet. Rapporten nevner ikke noe sted at DNA typen for denne ene markøren hos referansen V. Kristiansen (allelet 10 for markøren DYS391/AmpFISTR-Y-filer systemet) passer med tilblandingen i sporprøven 6 for denne ene markøren. I dette tilfellet er det vanskelig å beregne en presis bevismessig vekt, men observasjonen taler likevel med en svak vekt for at noe DNA kommer fra V. Kristiansen mot at denne tilblandingen kommer fra en tilfeldig person. Vi mener at i en rapport som skal gi en forklaring av resultatene burde sakkyndige ta stilling til dette spørsmålet, selv om ikke bevismessig vekt kan beregnes helt presis.»[^1599]
+
+Utvalget mener at uttalelsen lå utenfor DRKs mandat og hadde preg av en selvstendig sakkyndiguttalelse. Videre var den egnet til å misforstås i en bevisvurderingskontekst, i den forstand at det ikke fremgår hvilken type «bevismessig vekt» DRK uttaler seg om. DRK har senere påpekt at uttalelsen utelukkende var ment å skulle forstås som en statistisk vekting av funnet – *likelihood ratio* – og har erkjent at uttalelsen kunne fremstå uheldig når den ble tatt ut av sammenheng.[^1600]
+
+Som det fremgår av punkt 11.8.2.2, ba advokat Sigurd Klomsæt 30. september 2011 om en uttalelse fra DRK om det nye sakkyndighetsgrunnlaget vedrørende DNA, det vil si rapportene fra FSS og GENA fra juni 2011. Han ba samtidig om et møte med DRK «for en nærmere drøftelse av den foreliggende situasjon ad DNA». Den 24. oktober 2011 svarte DRK, ved leder Tarjei Rygnestad, at de hadde lest gjennom de tilsendte dokumentene, men at dokumentene ikke syntes å tilføre saken noe nytt. Samtidig meddelte Rygnestad at DRK kun ville behandle sakkyndigrapportene dersom de ble bedt om det av retten eller Gjenopptakelseskommisjonen:
+
+«Vi har lest gjennom de tilsendte dokumentene, som etter vår oppfatning ikke synes å tilføre saken noe som ikke har vært belyst. \[…\] Etter straffeprosessloven § 147 skal DRK gjennomgå innkomne sakkyndige erklæringer og uttalelser i rettsmedisinske spørsmål. Man vil således behandle nye sakkyndige uttalelser i saken dersom man blir bedt om det av retten eller Kommisjonen for gjenopptagelse av straffesaker. Dette må i så fall ledsages av et skriftlig mandat. Vi har ikke mottatt et slikt mandat, eller henvendelse fra retten eller Kommisjonen for gjenopptagelse av straffesaker. De tilsendte dokumentene er derfor ikke sendt videre til behandling i kommisjonen.»[^1601]
+
+Den 8. november 2011 avslo Gjenopptakelseskommisjonen Klomsæts anmodning om å be DRK om å avgi ytterligere uttalelse. Gjenopptakelseskommisjonen viste tilbake til DRKs brev 24. oktober 2011, der leder Rygnestad uttalte at de tilsendte dokumentene etter DRKs oppfatning ikke syntes å tilføre saken noe nytt.
+
+DRK ga altså aldri noen uttalelse til de nye sakkyndigrapportene, til tross for at Klomsæt ønsket dette. Samtidig – uten formelt å ha behandlet dem – uttalte DRKs leder at sakkyndigrapportene ikke syntes å tilføre saken noe nytt. På denne måten bidro DRKs uttalelser trolig til at Gjenopptakelseskommisjonen ikke undersøkte de avgjørende rapportene fra FSS og GENA nærmere, og at de ble tillagt for liten betydning. Etter utvalgets syn er dette kritikkverdig.
+
+### Svakheter ved kommisjonens rettsanvendelse
+
+#### Innledning
+
+I dette punktet vurderer utvalget om Gjenopptakelseskommisjonens rettsanvendelse og begrunnelser i avgjørelsene som tar stilling til Viggo Kristiansens gjenåpningsbegjæringer, har bidratt til at Kristiansens begjæring om gjenåpning først ble tatt til følge etter lang tid og gjentatte begjæringer. Etter utvalgets syn er det flere svakheter ved rettsanvendelsen og begrunnelsene i avgjørelsene, som belyses i det følgende.
+
+#### Manglende skille mellom de ulike gjenåpningsvilkårene
+
+Etter straffeprosessloven § 391 nr. 3 kan gjenåpning kreves når det opplyses en ny omstendighet eller skaffes frem et nytt bevis som synes egnet til å føre til frifinnelse eller lavere straff. Ved vurderingen må det først tas stilling til om det foreligger «omstendigheter» eller «bevis» som kan anses «nye» i lovens forstand («nyhetskriteriet»). Beviset vil anses som nytt dersom det «ikke forelå for den dømmende rett og derfor ikke kunne påvirke dommens innhold».[^1602] Videre må det vurderes om de nye omstendighetene eller bevisene «synes egnet til å føre til frifinnelse» («egnethetskriteriet»).[^1603] Denne vurderingen må skje i lys av de øvrige bevisene i saken som ble vurdert i den opprinnelige domstolsbehandlingen.[^1604]
+
+Vurderingen av nyhetskriteriet og egnethetskriteriet bør gjøres adskilt.[^1605] Kan det ikke påvises bevis eller omstendigheter som er «nye» i lovens forstand, kommer § 391 nr. 3 ikke til anvendelse. Vurderingen av om saken skal gjenåpnes, må da i stedet gjøres etter § 392 andre ledd, som angir at gjenåpning kan skje når særlige forhold gjør det tvilsomt om dommen er riktig, og tungtveiende hensyn tilsier at spørsmålet om siktedes skyld blir prøvd på ny. Skillet mellom bestemmelsene har betydning, ettersom både terskelen og vilkårene for gjenåpning er forskjellig: Straffeprosessloven § 391 nr. 3 gir krav på gjenåpning dersom vilkårene er oppfylt, og det er tilstrekkelig at det «nye» beviset tilsier at det er en «rimelig mulighet» for at domfelte ville ha blitt frifunnet om beviset hadde foreligget ved pådømmelsen.[^1606] Etter § 392 andre ledd kan gjenåpning derimot skje uten at det foreligger noe «nytt», men terskelen for gjenåpning er til gjengjeld høy, og det må gjøres en skjønnsmessig vurdering. Gjenåpning skal bare skje dersom det foreligger «særlige forhold» som gjør det tvilsomt om dommen er riktig, og «tungtveiende hensyn» taler for at spørsmålet om domfeltes skyld blir prøvd på nytt.[^1607]
+
+I kommisjonens avgjørelser i Baneheia-saken er det flere eksempler på at kommisjonen gjør en samlet vurdering av bestemmelsene i § 391 nr. 3 og § 392 andre ledd.[^1608] Det hender også at det ikke skilles klart mellom nyhets- og egnethetskriteriet i § 391 nr. 3. Noen eksempler på dette gis i det følgende.
+
+I avgjørelsen av den første begjæringen gjør kommisjonen først isolerte drøftelser av de enkelte anførslene. Det fremstår gjennomgående noe uklart om kommisjonen så det slik at det anførte ikke var å anse som «nytt», eller om det uansett ikke var «egnet» til å endre synet på Kristiansens skyld. For eksempel uttaler kommisjonen om anførslene vedrørende DNA-beviset:
+
+«Etter kommisjonens vurdering står ikke saken med hensyn til biologiske spor i noen vesentlig annen bevismessig stilling i dag enn den gjorde da saken var oppe for retten. Kommisjonen vil understreke at det ikke er fremkommet noe nytt som fastslår at Viggo Kristiansen var en av gjerningspersonene, men det er heller ikke fremkommet noe nytt som utelukker ham. Kommisjonen har imidlertid merket seg at det er uenighet blant de sakkyndige om det kan anses bevist at det i prøvene C-25 og B-24 er påvist blandingsprofiler (to mannlige bidragsytere).»[^1609]
+
+Også kommisjonens samlede vurdering av de ulike anførslene til sist i avgjørelsen fremstår uklar. Kommisjonen skriver avslutningsvis:
+
+«Kommisjonen kan ikke se at det i domfeltes begjæring, eller i saken for øvrig, foreligger nye omstendigheter eller nye bevis som synes egnet til å føre til frifinnelse eller mildere straff. Heller ikke gjennom den senere utredning eller gjennom senere fremlagt dokumentasjon fra advokat Klomsæt, foreligger det noe avgjørende nytt.»[^1610]
+
+Formuleringen om at det ikke forelå noe «avgjørende nytt», kan forstås slik at det er gjort en form for helhetsvurdering, hvor det både er sett hen til hvor «nytt» det påberopte fremsto, og hvor «egnet» det var til å føre til frifinnelse. Lignende formuleringer går igjen i flere av kommisjonens avgjørelser i saken.
+
+Et annet eksempel er kommisjonens vurdering av anførslene om DNA-beviset i avgjørelsen av den tredje begjæringen.[^1611] Kommisjonen vurderte anførslene slik:
+
+«Kommisjonen viser \[…\] til avgjørelsen 17. juni 2010 og slutter seg til de vurderinger og konklusjoner som er gjort der. Det kan ikke ses at det er fremkommet noe avgjørende nytt etter dette, som gir grunn for nåværende kommisjon til å komme til et annet resultat.
+
+Etter kommisjonens vurdering foreligger det ikke noen nye bevis eller omstendigheter knyttet til DNA-beviset som synes egnet til å føre til frifinnelse av Viggo Kristiansen jf. straffeprosessloven § 391 nr. 3.»[^1612]
+
+Når nyhetskriteriet og egnethetskriteriet ikke holdes adskilt, vil det etter utvalget syn være en risiko for at kommisjonen ikke gjør en tilstrekkelig konkret og selvstendig vurdering av om det er en «rimelig mulighet» for at det påberopte kan føre til frifinnelse, fordi vurderingen blandes sammen med vurderingen av om det anførte er «nytt» – altså om beviset eller omstendigheten opprinnelig ble vurdert under domstolsbehandlingen. Iblant ser det ut til at kommisjonen begrunner sine konklusjoner hovedsakelig ved å vise til at det aktuelle bevisspørsmålet ble vurdert av *retten,* uten å gjøre en egen vurdering av det aktuelle bevisspørsmålet.[^1613]
+
+Et eksempel på dette er mindretallets vurdering av DNA-beviset i avgjørelsen av den siste gjenåpningsbegjæringen.[^1614] Mindretallet mente denne gang at de forskjellige analysene og rapportene som belyste svakhetene ved DNA-beviset, og som var kommet til i tiden etter dommen, var «å anse som nye bevis og omstendigheter etter straffeprosessloven § 391 nr. 3». For gjenåpningsspørsmålet var vurderingstemaet dermed – slik mindretallet så det – «hvilken betydning de nye rapportene \[…\] ville ha hatt for avgjørelsen av skyldspørsmålet, dersom de hadde vært kjent for lagmannsretten i 2002».[^1615] I vurderingen av dette spørsmålet synes mindretallet å legge stor vekt på hva det må antas at den opprinnelige juryen forsto om usikkerhetsmomentene ved DNA-prøvene:
+
+«Etter mindretallets vurdering må det legges til grunn at juryen fikk med seg forbeholdene i den spanske sakkyndige rapporten, som blant annet peker på at det var prøvemateriale med lite cellemateriale, at B-22 og B-25 var vanskelige prøver og at resultatene var svake. Videre må juryen ha fått med seg den spanske rapportens konklusjon om prøve C-25, og at resultatet i denne prøven var forenlig med Kristiansen, men ikke med Andersen. \[…\]
+
+Det må likeledes legges til grunn at juryen skjønte at partene var uenige om hvorvidt det kunne fastslås at det var en eller flere gjerningsmenn som hadde begått handlingene. Herunder må det legges til grunn at juryen ved sin avgjørelse også har tatt med i sin vurdering at Viggo Kristiansens forsvarer fant grunn til å stille ytterligere spørsmål til Bente Mevåg, at han prosederte på at det kunne være en forurenset prøve og at Andersen følgelig kunne ha vært alene om drapene. Denne usikkerheten har, etter mindretallets oppfatning, åpenbart vært løftet frem som en del av bevisførselen i lagmannsretten. Mindretallet legger til grunn at juryen har vurdert DNA-bevisene på selvstendig grunnlag og sammenholdt dette opp med de øvrige bevisene i saken.»[^1616]
+
+Mindretallets konklusjon var at
+
+«de nye analysene og rapportene som foreligger \[er\] i hovedtrekk bare en videreføring og gjentakelse av den uenigheten som har foreligget om forståelsen av DNA-beviset, og gir ikke grunnlag for gjenåpning etter straffeprosessloven § 391 nr. 3».[^1617]
+
+Utover å vise til at faren for kontaminering av DNA-prøvene trolig ble belyst for juryen, synes mindretallet i liten grad å gjøre en selvstendig og konkret vurdering av de nye analysene og rapportene, eller av betydningen av disse for spørsmålet om Viggo Kristiansens skyld. Ut fra begrunnelsen kommer det i liten grad frem hvordan mindretallet *selv* betraktet DNA-funnene, for eksempel med tanke på om de trakk i retning av én eller flere gjerningsmenn.
+
+Egnethetskriteriet i straffeprosessloven § 391 nr. 3 innebærer at det for nye bevis og omstendigheter må gjøres en konkret vurdering av om det påberopte – sett i lys av det øvrige bevisbildet – tilsier at det er en «rimelig mulighet» for frifinnelse eller lavere straff. Vurderingen må være selvstendig. Den som vurderer gjenåpningsspørsmålet, skal ikke forsøke å sette seg inn i de opprinnelige dommernes eller lagrettemedlemmenes sted «og reflektere over hva akkurat disse menneskene ville tenkt dersom de nye bevisene hadde foreligget da saken ble pådømt».[^1618] Rene henvisninger til rettens bevisvurdering, eller til at retten har vurdert det aktuelle bevisspørsmålet, vil derfor sjelden være tilstrekkelig for å gi en tilfredsstillende begrunnelse.
+
+#### Mangel på helhetlige vurderinger av bevisbildet
+
+For å ta stilling til om nyhetskriteriet er oppfylt, må Gjenopptakelseskommisjonen vurdere om de ulike forholdene som trekkes frem i begjæringen, ble belyst i retten. Det er naturlig å vurdere dette spørsmålet enkeltvis for de ulike bevisene eller omstendighetene som påberopes.
+
+Når det tas stilling til om eventuelle nye bevis og omstendigheter synes «egnet til å føre til frifinnelse», bør midlertid de ulike anførslene vurderes samlet, i en helhetlig vurdering av de opprinnelige og de «nye» bevisene. Det er helheten i bevisbildet som avgjør om det synes å være en «rimelig mulighet» for frifinnelse.[^1619] Dersom de ulike anførslene kun vurderes isolert, er det en fare for at dommer med flere, men isolert sett mindre viktige feilvurderinger blir opprettholdt, selv om anførslene samlet sett tilsier at domfellelsen kan være gal.[^1620] Det samme gjelder ved vurderingen av om særlige forhold gjør det tvilsomt om dommen er riktig, jf. § 392 andre ledd.
+
+I kommisjonens avgjørelser i Baneheia-saken gjøres det i liten grad helhetlige vurderinger av det samlede bevisbildet. Avgjørelsene bærer gjennomgående preg av at de enkelte anførslene vurderes isolert, før det eventuelt gis en kort oppsummering.[^1621] Først i avgjørelsen av den siste gjenåpningsbegjæringen gjør kommisjonen helhetlige vurderinger av det samlede bevisbildet. Kommisjonen klargjør der behovet for å gjøre en samlet bevisvurdering etter straffeprosessloven § 391 nr. 3:
+
+«Selv om det i ettertid er reist tvil ved holdbarheten til enkelte av bevisene, og fremskaffet opplysninger som må anses som ‘nye’ etter straffeprosessloven § 391 nr. 3, vil vurderingstemaet være om disse er så sterke at de rokker ved det samlede bevisbildet som lagretten har bygget sin avgjørelse av skyldspørsmålet på.»[^1622]
+
+#### Konklusjonspregede vurderinger av straffeprosessloven § 392 andre ledd
+
+En generell tendens ved Gjenopptakelseskommisjonens avgjørelser i Baneheia-saken er at det i liten grad gjøres helhetlige vurderinger av det samlede bevisbildet opp mot vilkårene i straffeprosessloven § 392 andre ledd. Etter bestemmelsen kan gjenåpning skje når særlige forhold gjør det tvilsomt om dommen er riktig, og tungtveiende hensyn tilsier at spørsmålet om siktedes skyld blir prøvd på ny.
+
+I noen tilfeller vurderes de enkelte anførslene samlet etter både straffeprosessloven § 391 nr. 3 og § 392 andre ledd, uten at det fremgår at kommisjonen har gjort en helhetlig vurdering av bevisene i saken, slik § 392 andre ledd forutsetter. Andre ganger fremstår vurderingen av bestemmelsen mer som en kortfattet «avsluttende bemerkning» til sist i avgjørelsen, hvor det pekes på at kommisjonen også har gjort en samlet vurdering etter § 392 andre ledd, og hvor det kort konkluderes med at vilkårene ikke er oppfylt.[^1623] Kommisjonens vurdering av bestemmelsen i de fire første avgjørelsene i Baneheia-saken belyses nærmere i det følgende.
+
+I avgjørelsen 17. juni 2010, som gjaldt Kristiansens første gjenåpningsbegjæring, behandler kommisjonen straffeprosessloven § 391 nr. 3 og § 392 andre ledd samlet. Kommisjonen gjør først en isolert vurdering av de enkelte anførslene. Deretter gis følgende oppsummering:
+
+«Kommisjonen kan ikke se at det i domfeltes begjæring, eller i saken for øvrig, foreligger nye omstendigheter eller nye bevis som synes egnet til å føre til frifinnelse eller mildere straff. Heller ikke gjennom den senere utredning eller gjennom senere fremlagt dokumentasjon fra advokat Klomsæt, foreligger det noe avgjørende nytt.
+
+Etter kommisjonens vurdering foreligger det heller ikke noen særlige forhold som gjør det tvilsomt om dommen er riktig. En ny analyse av beviskjeden får ikke dommen til å fremstå i et tvilsomt lys.
+
+Etter kommisjonens vurdering fremstår domfeltes begjæring i det vesentlige som en anke over lagmannsrettens bevisbedømmelse. Kommisjonen finner grunn til å vise til det som er sagt innledningsvis om at den ikke er en ordinær rettsmiddelinstans, og kommisjonen kan ikke overprøve domstolens avgjørelse.
+
+Vilkårene for gjenåpning etter straffeprosessloven § 391 nr. 3 og § 392 annet ledd er ikke oppfylt.»[^1624]
+
+I avgjørelsen 24. september 2010, som gjaldt Kristiansens andre gjenåpningsbegjæring, vurderes straffeprosessloven § 391 nr. 3 og § 392 andre ledd adskilt. Kommisjonens vurdering av § 392 andre ledd var som følger:
+
+«Etter kommisjonens vurdering foreligger det ikke ‘særlige forhold’ i denne saken som gjør det tvilsomt om dommen er riktig.»[^1625]
+
+I den tredje avgjørelsen 11. desember 2013 gjør kommisjonen – på samme måte som i den første avgjørelsen – først en isolert vurdering av de enkelte anførslene holdt opp mot både straffeprosessloven § 391 nr. 3 og § 392 andre ledd.[^1626] Til sist i avgjørelsen gjør kommisjonen en samlet vurdering av anførslene:
+
+«Etter kommisjonens vurdering er begjæringen i det vesentlige en bearbeidelse av tidligere begjæringer og argumentasjon, uten at det er fremkommet noe avgjørende nytt eller anført noen særlige forhold som gir grunnlag for gjenåpning.
+
+Kommisjonen er etter dette kommet til at vilkårene for gjenåpning etter straffeprosessloven §§ 390–392 ikke er oppfylt. Domfeltes anførsler er vurdert. Det hefter ikke forhold ved fagdommere eller lagrettemedlemmer som gjør at de etter loven er utelukket fra dommerstillingen, jf. straffeprosessloven § 390. Kommisjonen kan ikke se at det i domfeltes begjæring eller i saken for øvrig foreligger noen nye bevis eller omstendigheter som er egnet til å føre til gjenåpning etter straffeprosessloven § 391 nr. 3. Det kan heller ikke ses at det samlet sett foreligger slike særlige forhold i saken som gjør det tvilsomt om dommen er riktig, jf. straffeprosessloven § 392 annet ledd.»[^1627]
+
+I den fjerde avgjørelsen 9. desember 2014 vurderes straffeprosessloven § 392 adskilt, til sist i avgjørelsen. Kommisjonens vurdering av bestemmelsen lød slik:
+
+«Etter kommisjonslederens vurdering foreligger det ikke i begjæringen eller i saken for øvrig noen særlige forhold – verken hver for seg eller samlet – som gjør det tvilsomt om dommen er riktig, jf. straffeprosessloven § 392 annet ledd.»[^1628]
+
+Begrunnelseskravet for kommisjonens avgjørelser av gjenåpningsspørsmålet innebærer at kommisjonen må synliggjøre både hvordan de sentrale bevisene og anførslene i saken er vurdert, og hvorfor kommisjonen har konkludert med å gjenåpne eller nekte gjenåpning. Hvor utførlig begrunnelsen skal være, vil bero på sakens kompleksitet og alvorlighetsgrad, og hvor velbegrunnede anførslene i begjæringen fremstår. I alle tilfeller må imidlertid de sentrale bevisene i saken til en viss grad belyses og drøftes konkret.[^1629]
+
+Etter utvalgets syn er kommisjonens vurderinger av straffeprosessloven § 392 andre ledd i Baneheia-saken gjennomgående for summarisk begrunnet. Vurderingen fremstår iblant mer som en konklusjon, uten at det gjøres rede for hvordan kommisjonen har vurdert det samlede bevisbildet, og hvorfor det etter kommisjonens syn ikke var «tvilsomt» at domfellelsen av Viggo Kristiansen var korrekt. Sakens alvorlighetsgrad og kompleksiteten i Kristiansens anførsler tilsier at det burde ha vært gitt langt mer utførlige begrunnelser.
+
+#### Oppsummering og konklusjon
+
+Etter utvalgets syn er det flere svakheter ved Gjenopptakelseskommisjonens rettsanvendelse og begrunnelse i avgjørelsene av Viggo Kristiansens gjenåpningsbegjæringer i Baneheia-saken. Dersom kommisjonen hadde vurdert anførslene i tråd med vilkårene og begrunnelseskravet som gjelder, er det etter utvalgets syn mye som taler for at kommisjonen ville ha kommet til at saken skulle gjenåpnes på et tidligere tidspunkt. Som vist i punkt 12.2 mener utvalget at det i alle fall forelå grunnlag for gjenåpning fra tidspunktet da kommisjonen fikk presentert klare opplysninger om at DNA-beviset ikke ga en sikker bekreftelse på to gjerningsmenn, altså ved den tredje begjæringen i 2011. Flertallets vurderinger i den siste avgjørelsen – hvor saken ble gjenåpnet – er i den sammenheng illustrerende.
+
+Etter utvalgets syn er Gjenopptakelseskommisjonens rettsanvendelse dermed en årsak til at Kristiansens sak ikke ble gjenåpnet før etter gjentatte begjæringer.
+
+### Svakheter ved regelverk, rutiner og praksis
+
+#### Innledning
+
+Det følger av mandatet at utvalget skal vurdere om regelverk, rutiner og praksis som gjaldt da Viggo Kristiansens gjenåpningsbegjæringer ble behandlet, var tilfredsstillende. Utvalget skal også vurdere hvilken betydning eventuelle svakheter i rutiner og regelverk hadde for at flere av Kristiansens begjæringer ble avslått.
+
+I punkt 12.3.7.2 drøftes rutiner og praksis hos Gjenopptakelseskommisjonen. Hvilken betydning det har at kommisjonen ikke har hatt tilgang til lyd- og bildeopptak fra forhandlingene i Baneheia-saken, omtales i punkt 12.3.7.3. Betydningen av manglende oversikt og notoritet over spormateriale ved Rettsmedisinsk institutt (i dag OUS) drøftes til sist i punkt 12.3.7.4.
+
+#### Rutiner og praksis hos Gjenopptakelseskommisjonen
+
+Utvalget har i punkt 12.3.2 til 12.3.6 foran pekt på ulike sider ved kommisjonens utredning, bevisvurderinger og rettsanvendelse og hvordan disse har bidratt til at saken ikke ble gjenåpnet før etter gjentatte begjæringer. I dette punktet ser utvalget nærmere på hvordan generelle rutiner og regler om kommisjonens *saksbehandling* har påvirket avgjørelsene og bidratt til at behandlingen av saken har trukket ut i tid.
+
+Utvalget mener for det første at det var uheldig at samtlige av Kristiansens begjæringer ble behandlet av samme juridiske utreder og samme politifaglige utreder. En slik praksis er uheldig, fordi det kan være vanskelig å møte senere begjæringer med en åpen holdning. Praksisen kan ha bidratt til at de senere begjæringene – med unntak av den siste – ikke ble utredet og vurdert på en tilstrekkelig grundig måte. Utvalget forstår det slik at det har vært ordinær rutine i kommisjonen at samme utreder behandler gjentatte begjæringer i samme sak. Denne praksisen er imidlertid nå endret, delvis på bakgrunn av Baneheia-saken. Endringen bygget på en erkjennelse av at det kan være behov for «friske øyne» i store saker der det fremmes gjentatte begjæringer. Utvalget støtter praksisendringen og anbefaler at den videreføres.[^1630]
+
+Etter utvalgets syn må den lange behandlingstiden også ses i sammenheng med mangelfull styring av saken fra kommisjonens side. Det gikk tolv år og fem måneder fra Kristiansen leverte den første gjenåpningsbegjæringen i september 2008, til saken ble gjenåpnet i februar 2021. Den lange behandlingstiden skyldes naturligvis i stor grad at kommisjonen avslo de fire første begjæringene, og at det tok tid å utarbeide nye begjæringer. Den langvarige prosessen har imidlertid til dels også sammenheng med at kommisjonen har brukt lang tid på å behandle flere av begjæringene. Utvalget viser i den sammenheng til at behandlingen av den tredje begjæringen tok nesten to år og seks måneder, og at behandlingen av den femte begjæringen tok hele tre år og åtte måneder. Også behandlingen av den første begjæringen var forholdsvis langvarig, med en behandlingstid på om lag ett år og ni måneder.
+
+Kommisjonen har i den siste avgjørelsen pekt på at den lange saksbehandlingstiden har sammenheng med at partene har vært svært aktive, og at innleggene fra partene videre må undergis kontradiksjon.[^1631] Utvalget er enig i at den omfattende mengden innlegg og motsvar fra partene i dette tilfellet kan ha ført til en viss «vidløftiggjøring» av saken, og at dette har bidratt til at gjenåpningsprosessene har trukket ut i tid. Utvalgets gjennomgang av saksdokumentene viser også at kommisjonen gjorde en del forsøk på å sette frister og fremskynde saksgangen. Det må imidlertid i denne sammenheng ses hen til at kommisjonen ikke etterkom anmodninger om sentrale utredningsskritt. Slik utvalget ser det, var det derfor rimelig at Kristiansens representanter økte sin aktivitet overfor kommisjonen.
+
+Utvalget viser i den forbindelse til at behandlingen av den siste begjæringen i stor grad ble satt på vent i perioden desember 2019 til februar 2021. Som det fremgår av punkt 11.11.3.2, var saken i utgangspunktet klar til avgjørelse i desember 2019. Kommisjonen besluttet imidlertid 12. desember 2019 å innhente en egen sakkyndigvurdering av DNA-beviset. Bakgrunnen for dette var at det til kommisjonsmøtet forelå et utkast til avgjørelse fra sekretariatet hvor det ble foreslått å nekte gjenåpning. At begjæringen likevel ble innvilget, skyldes at ett av kommisjonsmedlemmene ønsket å ta dissens og gjenåpne saken, og at flere medlemmer var usikre. Ettersom det ikke ble enighet blant medlemmene om utfallet, ble det besluttet ytterligere utredning om DNA-beviset. Utvalget bemerker at denne forsinkelsen kunne ha vært unngått dersom kommisjonen hadde innhentet sakkyndigvurderinger av DNA-beviset på et tidligere tidspunkt. Da kommisjonen besluttet å oppnevne den sakkyndige, hadde behandlingen av begjæringen allerede pågått i to og et halvt år. Dette førte altså til at avgjørelsen av saken ble forsinket med ytterligere ett år og tre måneder.
+
+Utvalget viser også til sine merknader i punkt 11.8.2.5 til at Kristiansens tredje gjenåpningsbegjæring ble stilt i bero i perioden 22. desember 2011 til 18. januar 2013. Dette innebar en «liggetid» på over ett år. Etter utvalgets syn var det ikke nødvendigvis grunn til å forstå Klomsæts henvendelse slik at han ønsket en fullstendig stans i saksbehandlingen. Det var vel så naturlig å forstå henvendelsen slik at Klomsæt ville forsikre seg om at kommisjonen ikke tok saken opp til avgjørelse før Spesialenheten for politisakers avgjørelse forelå. En mer aktiv styring av saksbehandlingen fra kommisjonens side, med større vekt på planlegging og rask fremdrift, ville trolig ha avdekket dette.
+
+Generelt mener utvalget at det er visse mangler ved kommisjonens rutiner når det gjelder planlegging og fremdrift i gjenåpningssaken. I utvalgets delutredning om gjenåpningssystemet foreslås det å innføre nye lovfestede virkemidler for aktiv saksstyring av gjenåpningssaken,[^1632] og det anbefales at kommisjonen etablerer generelle interne frister for sin saksavvikling.[^1633] Utover å redusere saksbehandlingstidene tar forslagene sikte på å skape en mer transparent, effektiv og forutsigbar saksbehandling.
+
+#### Manglende lyd- og bildeopptak fra rettssakene
+
+Verken forhandlingene i byrettens eller lagmannsrettens behandling av Baneheia-saken ble dokumentert gjennom lyd- og bildeopptak. Dette var i samsvar med regelverket som gjaldt den gang.[^1634] Inntil nylig har kun et helt begrenset antall norske straffesaker blitt dokumentert på denne måten.[^1635]
+
+Det er grunn til å anta at lyd- og bildeopptak fra forhandlingene ville hatt betydning for kommisjonens vurdering av Viggo Kristiansens begjæringer på flere måter, se også punkt 13.7.5. Et sentralt spørsmål i gjenåpningsprosessen var om den DNA-sakkyndige i retten ga uttrykk for at det forelå sikre bevis for to gjerningsmenn, og i hvilken utstrekning mulige feilkilder og kontaminasjonsrisiko ble berørt under rettsforhandlingene. Også måten telebeviset ble fremstilt på i retten, var et sentralt spørsmål.
+
+Opplysninger om rettens opprinnelige bevisføring er i gjenåpningssammenheng avgjørende for å ta stilling til om anførslene presentert av domfelte – for eksempel gjennom en sakkyndigvurdering – er å anse som «nye» bevis eller omstendigheter i lovens forstand, jf. straffeprosessloven § 391 nr. 3. Videre er det naturligvis nødvendig å ha informasjon om det opprinnelige bevisbildet for å ta stilling til om nye bevis er egnet til å føre til frifinnelse, jf. samme bestemmelse, eller om det for øvrig er «tvilsomt om dommen er riktig», jf. straffeprosessloven § 392 andre ledd.
+
+Grunnet manglende lyd- og bildeopptak fra forhandlingene vil kommisjonen normalt være nødt til å basere sin vurdering på skriftlig dokumentasjon, som rettsboken, opprinnelige sakkyndigerklæringer mv. Ved behandlingen av Kristiansens siste gjenåpningsbegjæring benyttet kommisjonen i stor grad en rekke avisoppslag fra tiden da saken gikk for domstolene, for å vurdere hva som ble sagt og ført om telebeviset og DNA-beviset i forhandlingene. Det sier seg selv at dette er betenkelig, særlig når det gjelder tekniske forhold som DNA, hvor risikoen for misforståelser og feiloppfatninger er overhengende. Opptak ville til sammenligning ha gitt sikker informasjon om bevisføringen i retten.
+
+Mangelen på lyd- og bildeopptak fra forhandlingene kan etter utvalgets syn ha bidratt til at kommisjonen ikke på et tidligere tidspunkt oppfattet de sentrale spørsmålene om DNA-beviset og behovet for ny utredning i den forbindelse. Lyd- og bildeopptak ville også kunne gjort det enklere å forstå betydningen av telebeviset og i hvilken grad dette talte mot at Kristiansen kunne ha vært på åstedet i det aktuelle tidsrommet.
+
+Reglene om lyd- og bildeopptak av straffesaker er nærmere drøftet i punkt 13.7.5. Som utvalget påpeker der, er det positivt at straffeprosessloven siden 2018 oppstiller en opptaksplikt for domstolene. Utvalget understreker samtidig at nødvendig finansering må komme på plass, slik at plikten blir reell. Målet bør være at det gjøres opptak av hoved- og ankeforhandlingen i *alle* straffesaker, noe som innebærer at så å si samtlige rettsaler som er i bruk, må ha nødvendig utstyr. Utvalget tar videre til orde for at hovedregelen bør være at det tas opptak av alle deler av forhandlingene, også aktors innledningsforedrag og partenes prosedyreinnlegg. Opptakene bør oppbevares så lenge at de kan brukes i forbindelse med en eventuell begjæring om gjenåpning.
+
+#### Rutiner og praksis ved Rettsmedisinsk institutt
+
+Som nevnt i punkt 11.3.2.5 og 11.3.2.10 ga Rettsmedisinsk institutt (RMI) sommeren 2009 uriktige opplysninger til advokat Sigurd Klomsæt om at spormaterialet fra Baneheia-saken var returnert til politiet og destruert. Våren 2010 gjenfant RMI likevel 199 DNA-ekstrakter fra Baneheia-saken. Det originale prøvematerialet som befant seg i de såkalte *forprøvingsrørene*, ble først gjenfunnet og analysert i 2021, etter at Kristiansens sak var gjenåpnet. Utvalget har fått opplyst at ny ekstraksjon og analyse fra dette materialet kunne gitt vellykkede resultater på et langt tidligere tidspunkt enn i 2021 – sannsynligvis allerede i 2010 og i alle fall i 2013.
+
+Oslo universitetssykehus (OUS) og Universitetet i Basel påviste i 2021 og 2022 en Y-profil sammenfallende med Jan Helge Andersen i prøve C-25, uten noen tilblanding som kunne knyttes til Kristiansen.[^1636] Et resultat fra prøve C-25 som impliserte kun Andersen, ville etter utvalgets syn vært et nytt bevis av vesentlig betydning for gjenåpningsspørsmålet. At RMI ikke hadde oversikt over det fullstendige spormaterialet som var i behold fra Baneheia-saken, kan derfor ha vært en medvirkende årsak til at Kristiansens gjenåpningsbegjæringer ikke ble tatt til følge før i 2021.
+
+Det er holdepunkter for at manglende oversikt og notoritet over spormateriale ved RMI/OUS har vært et problem i andre saker hvor det er aktuelt å utføre nye undersøkelser. I punkt 13.9.5 har utvalget foreslått at OUS utarbeider detaljerte rutiner og retningslinjer som ivaretar hensynene til notoritet, sporbarhet og tilgjengelighet på en bedre måte enn i dag. Det foreslås også at OUS gjennomgår samtlige oppbevaringsrom, frysere mv. for å få oversikt over materiale som er i behold.
+
+### Oppsummering
+
+Som nevnt i punkt 12.2 mener utvalget at grunnlaget for gjenåpning klart forelå ved innleveringen av Viggo Kristiansens tredje gjenåpningsbegjæring i juni 2011. Begjæringen var foranlediget av rapporter fra Forensic Science Services (FSS) og GENA som formidlet i klartekst hvorfor rettens slutninger om DNA-bevisene ikke var holdbare, og hvorfor premisset om at det måtte ha vært to gjerningsmenn, derfor var usikkert. Kristiansens sak ble likevel først gjenåpnet i februar 2021.
+
+Utvalgets syn på årsakene til at gjenåpning først skjedde *etter lang tid og gjentatte begjæringer*, kan sammenfattes slik:
+
+Den viktigste grunnen til at det tok lang tid før Kristiansens gjenåpningsbegjæring ble tatt til følge, er at kommisjonen ikke tok konkret stilling til holdbarheten av den dømmende retts slutninger om de opprinnelige DNA-bevisene før i 2021. Kommisjonens mangelfulle vurdering av dette spørsmålet har etter utvalgets syn sammenheng med flere forhold: Som vist mener utvalget at kommisjonen på flere punkter ikke overholdt utredningsplikten. Dersom kommisjonen tidligere hadde gjort undersøkelsene som var nødvendige, ville også vurderingene trolig ha vært annerledes.
+
+Også kommisjonens praktisering av gjenåpningsvilkårene og utformingen av avgjørelsene – særlig med tanke på fremstillingen av partenes anførsler – kan etter utvalgets syn ha bidratt til at kommisjonen ikke tidligere gjorde mer konkrete vurderinger av DNA-bevisene. Avgjørelsene bærer preg av at Kristiansens anførsler i liten grad omtales og utdypes med kommisjonens egne ord, slik at det er vanskelig å vite om kommisjonen har forstått innholdet i argumentasjonen. Kommisjonens vurderinger av om vilkårene for gjenåpning er oppfylt, er i stor grad også preget av sitater fra domsavgjørelsene eller bemerkninger om at retten opprinnelig tok stilling til det aktuelle spørsmålet. Med unntak av den siste avgjørelsen er det få eksempler på at kommisjonen har gjort konkrete og selvstendige vurderinger av Kristiansens anførsler sett i lys av det samlede bevisbildet, slik gjenåpningsvilkårene krever. Enkelte uheldig formulerte uttalelser fra Den rettsmedisinske kommisjon kan videre ha bidratt til at kommisjonen fikk en uriktig forståelse av DNA-bevisene.
+
+Etter utvalgets syn kan svakheter ved regelverk, rutiner og praksis også ha medvirket til at saken ikke ble gjenåpnet tidligere. Dette gjelder blant annet rutinene for oppbevaring av spormateriale ved Rettsmedisinsk institutt og Gjenopptakelseskommisjonens tidligere praksis om at gjentatte begjæringer i samme sak ble behandlet av samme utreder. Hadde det eksistert lyd- og bildeopptak fra rettssakene i 2001 og 2002, ville det også gitt et atskillig bedre grunnlag for å behandle Kristiansens gjenåpningsbegjæringer, herunder anførslene som knyttet seg til sakens DNA-beviser.

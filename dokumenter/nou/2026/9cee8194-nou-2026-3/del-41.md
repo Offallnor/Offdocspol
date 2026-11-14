@@ -1,945 +1,267 @@
-# NOU 2026: 3, del 41 av 50 (side 443–452)
+# NOU 2026: 3, del 41 av 56
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2026/9cee8194-nou-2026-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2026-3/id3149017/
-- Tekst: hentet fra PDF. OBS: 5 tabeller, 20 figurer, 145 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 443]
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-441
-
-Kapittel 13
-
-Kapittel 13
-
-Læringspunkter og tiltak for å forhindre uriktige domfellelser
-13.1 Innledning
-I mandatet heter det innledningsvis at utvalget skal
-«identifisere eventuelle læringspunkter for å redusere risikoen for uriktige domfellelser i fremtiden».
-Senere i mandatet presiseres det at utvalget, «basert
-på sin gjennomgang og de funn som avdekkes,
-[skal] foreslå endringer i dagens regelverk, rutiner,
-praksis, utdanning og opplæring etc. som anses nødvendig». Selv om hensikten med endringene skal
-være å redusere uriktige domfellelser, «må [utvalget] også drøfte eventuelle sammenhenger med
-andre verdier og hensyn som ligger til grunn for
-straffesaksbehandlingen». Mandatet slår også fast at
-formålet med granskningen ikke er å utpeke enkeltpersoner som er ansvarlige for feil, men «å sørge for
-at alle sider av saken blir grundig vurdert for å
-kunne ta lærdom av den». Læringspunkter og tiltak
-står dermed sentralt i utvalgets arbeid.
-Utvalget har identifisert en rekke læringspunkter og tiltak, som presenteres i det følgende.
-I punkt 13.2 fremheves og presiseres betydningen
-av en konsekvent håndheving av objektivitetskravet i alle ledd i straffesaksbehandlingen. Utvalget
-presenterer i denne forbindelse forslag til tiltak og
-kontrollmekanismer for å forebygge den såkalte
-bekreftelsesfellen. I punkt 13.3 understrekes
-betydningen av en konsekvent håndheving av det
-strafferettslige beviskravet. Utvalget går inn for å
-lovfeste beviskravet. I punkt 13.4 drøfter utvalget
-sentrale retningslinjer og prinsipper for bevisvurdering. Det foreslås at grunnkrav til bevisvurderingen skal fremgå direkte av loven. Utvalget tar
-også til orde for at det skal gis mer opplæring i
-bevisbedømmelse. I punkt 13.5 fremhever utvalget betydningen av kunnskap om straffeprosessuelle rammer for bevisvurdering, og det foreslås å
-endre lovens krav til begrunnelse av fellende
-dommer. I punkt 13.6 foreslås klarere rammer for
-legdommeres deltakelse i straffesaker, og det gis i
-denne forbindelse anbefalinger om hvordan
-domskonferanser bør gjennomføres.
-Forsvarlig lagring av bevis og sikring av notoritet er tema i punkt 13.7. Blant tiltakene som fore-
-
-slås, er en utvidelse av politiets adgang til å oppbevare beslaglagt bevismateriale etter at saken er
-avsluttet. Utvalget gir også enkelte anbefalinger i
-forbindelse med den ventede revisjonen av lovreglene om lyd- og bildeopptak av straffesaker. I
-punkt 13.8 foreslår utvalget flere tiltak knyttet til
-bruk av DNA i straffesaksbehandlingen. Behovet
-for solide nasjonale fagmiljøer, klare retningslinjer
-og mer opplæring for aktørene i rettspleien er
-blant tiltakene som trekkes frem. I punkt 13.9
-drøftes ulike spørsmål knyttet til oppbevaring av
-spormateriale fra DNA og annet biologisk materiale. I punkt 13.10 foreslår utvalget tiltak for å
-styrke sakkyndighet innen rettspatologi i straffesaksbehandlingen og sikre at det gjøres rettsmedisinske undersøkelser av lik på åstedet i
-drapssaker. I punkt 13.11 gjøres det til sist noen
-presiseringer og avklaringer av påtalemyndighetens
-adgang til å meddele straffesaksopplysninger til
-offentligheten.
-
-13.2 Konsekvent håndheving
-av objektivitetskravet i alle ledd
-i straffesaksbehandlingen
-13.2.1 Innledning
-Konsekvent håndheving av objektivitetskravet i
-alle ledd i straffesaksbehandlingen er helt sentralt
-i straffesaker. For å sikre at kravet etterleves, er
-det viktig at aktørene har en god forståelse av
-denne kjerneforpliktelsen. I tillegg er det avgjørende at det finnes effektive kontrollmekanismer,
-slik at beslutninger som er truffet i straffesaksbehandlingen, vurderes av andre enn den som tok
-beslutningen i første hånd.
-I punkt 13.2.2 redegjøres det for objektivitetskravet. I punkt 13.2.3 er spørsmålet hva som ligger i fenomenet «bekreftelsesfellen». Utvalget
-peker deretter på mekanismer som er egnet til å
-forebygge bekreftelsesfeller. I punkt 13.2.4 til
-13.2.6 fremsettes forslag til tiltak for å sikre at kravet til objektivitet ivaretas i henholdsvis politiet,
-påtalemyndigheten og domstolene.
-
-[Side 444]
-
-442
-
-Kapittel 13
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-13.2.2 Objektivitetskravet
-Kravet til objektivitet er et grunnleggende
-utgangspunkt for påtalemyndighetens virke som
-gjelder på alle stadier av straffeforfølgningen.
-Dette var også tilfelle da Baneheia-saken ble etterforsket på starten av 2000-tallet, men siden den
-gang har forpliktelsen fått en tydeligere forankring i lovverket.1 Objektivitetskravet har også
-blitt konkretisert og utdypet gjennom sentrale
-føringer fra riksadvokaten.
-Påtalemyndighetens objektivitetsplikt er i dag
-lovfestet i straffeprosessloven § 55 andre ledd:
-
-domstolene behandler straffesaker. Også uten de
-nevnte lovbestemmelsene ville det i en rettsstat
-som den norske naturligvis vært en plikt til objektivitet både for påtalemyndigheten og politiet.
-Kjernen i kravet til objektivitet er at påtalemyndigheten skal opptre upartisk og forholde seg
-nøytralt og åpent til sakens faktum og ikke bygge
-på utenforliggende hensyn. I riksadvokatens kvalitetsrundskriv, som fastsetter overordnede krav til
-straffesaksbehandlingen i politiet og påtalemyndigheten, heter det:
-«Kravet til objektivitet innebærer at saksbehandlingen skal være faglig fundert og ikke
-styrt av empatier, følelser, usaklig påvirkning
-fra andre offentlige myndigheter eller politiske
-eller private interesser. Likeledes skal den
-være nøytral og upartisk i den forstand at man
-skal avdekke og vurdere både det som svekker
-og styrker mistanken mot en antatt gjerningsperson.»5
-
-«Påtalemyndighetens tjenestemenn skal opptre objektivt i hele sin virksomhet.»2
-
-At kravet til objektivitet også gjelder for politiets
-tjenestepersoner som ikke tilhører påtalemyndigheten, kommer til uttrykk i straffeprosessloven
-§ 226 tredje ledd:
-«Etterforskingen skal være objektiv. Er en
-bestemt person mistenkt, skal etterforskingen
-søke å klarlegge både det som taler mot ham
-og det som taler til fordel for ham.»3
-
-Rundskrivet søker deretter å konkretisere hva
-objektivitetsforpliktelsen innebærer:
-«Selv om etterforsking skal være målrettet, tilsier kravet til objektivitet at det på et hvert trinn
-under saken må utvises både evne og vilje til å
-vurdere den fra ulike innfallsvinkler og hypoteser. Alle bevis som innhentes må undergis faglige og kritiske vurderinger, og det må utvises
-åpenhet for nye opplysninger samt vilje til å
-revurdere tidligere teorier og oppfatninger.
-Arbeidet skal ikke låses i én hypotese og rettes
-inn mot å få denne bekreftet uten blikk for
-andre forklaringer. Det må tvert imot letes
-aktivt etter holdepunkter i faktum som kan
-peke mot alternative og konkurrerende forklaringer. Eventuelle innvendinger mot eller avvikende synspunkter om etterforskingen eller
-saksbehandlingen for øvrig skal ikke bare tolereres, men etterlyses, og møtes med anerkjennelse, åpenhet og konstruktive tiltak. Dette stiller krav til profesjonalitet og videreutviklingen
-av en politi- og påtalekultur som verdsetter
-åpenhet og upartiskhet.»6
-
-Formålet med objektivitetskravet er å sikre at
-etterforskningen klarlegger den materielle sannhet, og at en objektiv, materiell sannhet legges til
-grunn for avgjørelsen av tiltalespørsmålet.4 At
-politi og påtalemyndighet opptrer objektivt, bidrar
-også til at den materielle sannhet realiseres når
-1
-
-2
-
-3
-
-4
-
-Arbeidsgruppen som gransket norsk politi og påtalemyndighets behandling av straffesakene mot Sture Bergwall
-(Thomas Quick), uttrykte det slik: «Innholdet i objektivitetskravet er det samme i dag som på 90-tallet, med den forskjell at påtalemyndighetens objektivitetsplikt nå er kodifisert i straffeprosessloven § 55 siste ledd» (riksadvokatens
-publikasjoner (3/2015) punkt 7.3.3 s. 159).
-Reguleringen av påtalemyndighetens objektivitetsplikt sto
-tidligere i straffeprosessloven § 55 a fjerde ledd, som ble tilføyd ved lov 21. juni 2013 nr. 86. Dette var ment å være en
-kodifisering av den generelle objektivitetsplikten som allerede fulgte av god påtaleskikk, og som straffeprosessloven
-hadde spredte utslag av i andre bestemmelser, herunder
-§ 226 tredje ledd, jf. Prop. 147 L (2012–2013) punkt 11.1
-s. 174–175. Ved lov 18. juni 2021 nr. 122 ble bestemmelsen,
-med enkelte språklige endringer, flyttet til straffeprosessloven § 55 andre ledd.
-Kravet om at etterforskningen skal være objektiv, ble ved
-lov 18. juni 2021 nr. 122 inntatt som et nytt første punktum i
-straffeprosessloven § 226 tredje ledd. Endringen klargjør at
-objektivitetsplikten gjelder for enhver som utfører etterforskning på vegne av påtalemyndigheten, særlig tjenestepersoner i politiet, jf. Prop. 146 L (2020–2021 ) punkt 14.2 s.
-116. Nåværende andre punktum i § 226 tredje ledd har stått
-uendret siden vedtakelsen av straffeprosessloven i 1981.
-Aaen (2022) s. 189–190 og Kjelby (2023) s. 320.
-
-I rundskrivet pekes det på ulike forhold som kan
-øke risikoen for at objektivitetskravet blir svekket
-ved etterforskning og påtalearbeid, og det pekes
-på tiltak som kan kompensere for dette. Rundskri5
-6
-
-Riksadvokatens rundskriv (3/2018) punkt 4.7.1.
-Riksadvokatens rundskriv (3/2018) punkt 4.7.1.
-
-[Side 445]
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-vet gir uttrykk for at behovet for tiltak må vurderes systematisk og konkret i den enkelte sak.7
-Utvalgets syn er at etterforskningen rettet mot
-Viggo Kristiansen ikke ble gjennomført i samsvar
-med kravene til en objektiv etterforskning. Særlig
-informasjonsinnsamlingen etter Jan Helge Andersens tilståelse bærer preg av at politiet låste seg til
-en hypotese om Kristiansens skyld. Fra dette tidspunktet ble det i realiteten ikke etterforsket til
-Kristiansens gunst, jf. utvalgets vurderinger av
-etterforskningen i kapittel 4. Utvalget er også kritisk til enkelte sider av påtalemyndighetens opptreden under domstolsbehandlingshandlingen og
-den senere gjenåpningsprosessen. Blant annet falt
-det flere uttalelser som vurderes som uheldige i
-lys av den strenge objektivitetsforpliktelsen som
-påhviler påtalemyndigheten. Se utvalgets vurderinger i kapittel 7, 9 og 12.
-Også i tidligere granskninger av straffeforfølgninger som har endt med uriktig domfellelse, har
-manglende overholdelse av objektivitetskravet
-blitt trukket frem som en årsak. Utvalget som
-gransket Liland-saken, påpekte at overholdelsen
-av objektivitetskravet hadde sviktet ved både politiets og påtalemyndighetens håndtering av
-saken.8 Ved granskningen av Fritz Moen-saken
-ble det likeledes avdekket flere brudd på objektivitetskravet.9 Arbeidsgruppen som gransket
-norsk politi og påtalemyndighets behandling av
-straffesakene mot Sture Bergwall (Thomas
-Quick), identifiserte også flere eksempler på manglende objektivitet i etterforskningen.10 Svikt ved
-7
-
-Riksadvokatens rundskriv (3/2018) punkt 4.7.3.
-NOU 1996: 15 kapittel 2 s. 14: «Den holdning overfor Liland
-som statsadvokaten gav uttrykk for under deler av straffesaken i 1970, var subjektiv og fordømmende. Den var dermed ikke preget av den objektivitet som følger av straffeprosessloven og uskrevne normer for påtalemyndighetens
-opptreden.» Se også punkt 3.6.1 s. 56: «Etter utvalgets oppfatning har det i Liland-saken sviktet både hva angår kravet
-til objektivitet og hva angår kvaliteten på det arbeide som
-politiet utførte i etterforskingsfasen.»
-9 Se NOU 2007: 7 punkt 13.3.1.2 s. 319, hvor det gis flere
-eksempler. Det konkluderes slik: «Brudd på objektivitetsprinsippet kan ha hatt betydning for at etterforskningen til
-dels bar galt av sted.» Se også punkt 13.4.2.1 s. 321: «De
-fleste bruddene på objektivitetsprinsippet er isolert sett
-ikke grove, og enkeltvis har neppe noen av dem fått særlig
-betydning for resultatet. Men samlet sett kan de etter utvalgets syn ha hatt stor betydning.» Det heter sammenfatningsvis i punkt 1.1.3 s. 21: «En viktig årsak til at etterforskningen til dels bar galt av sted, er politiets og påtalemyndighetens brudd på objektivitetsprinsippet. Dette ble brutt
-flere ganger.»
-10 Riksadvokatens publikasjoner (3/2015) s. 15: «I etterforskningen mot Bergwall ble det avgitt flere uttalelser fra
-sakkyndige. Mandatene til uttalelsene ble i all hovedsak
-gitt muntlig, og var preget av manglende objektivitet.» Se
-også s. 533: «Også i etterforskningen forekom det brudd på
-objektivitetsplikten.»
-8
-
-443
-
-Kapittel 13
-
-overholdelsen av objektivitetsplikten ble også
-fremhevet av utvalget som foretok en gjennomgang av Transocean-saken.11
-Et fellestrekk ved tidligere granskninger og
-granskningen av Baneheia-saken er at det ikke
-har vært påvist mangel på objektivitet i form av
-bevisst partiskhet eller ond vilje hos politi og påtalemyndighet. Vanligere er det at objektivitetsmangelen kan spores tilbake til kognitive svakheter i
-den menneskelige natur som ubevisst og utilsiktet
-medfører en uheldig ensidighet i etterforskningen. Man kan dermed si at objektivitetsprinsippet
-har to dimensjoner: Den som opptrer bevisst partisk, handler åpenbart i strid med kravet til objektivitet. Det er imidlertid klart mer praktisk at
-objektivitetskravet brytes ubevisst av ellers hederlige tjenestepersoner.12
-En kognitiv tankefeil som har fått mye oppmerksomhet i senere år, og som ofte trekkes frem
-som en årsak til uriktige domfellelser og uriktig
-straffeforfølgning, er den såkalte «bekreftelsesfellen». Utvalget vil i neste punkt gi en nærmere
-omtale av denne tankefeilen.
-
-13.2.3 Bekreftelsesfellen
-13.2.3.1 Generelt om bekreftelsesfeller
-Betegnelsen «bekreftelsesfelle» er, slik utvalget
-forstår det, for alle praktiske formål synonymt
-med «tunnelsyn» og det engelske utrykket «confirmation bias».13 Dette er betegnelser på den
-kognitive tendensen til å legge merke til, tolke
-eller søke informasjon som bekrefter eller støtter
-eksisterende oppfatninger. At politi og påtalemyndighet har havnet i bekreftelsesfellen, er den
-fremste årsaken til ensporet etterforskning av
-straffesaker. Magnussen omtaler fenomenet
-under overskriften «Kognitive slagsider: jakten på
-bekreftelse» og uttaler følgende:
-«Den kanskje viktigste utfordringen til rasjonelle vurderinger og beslutninger i alle livets
-sammenhenger er vår automatiske tendens til
-selektivt å registrere informasjon som bygger
-opp under ideer og hypoteser vi allerede har og
-som nedtoner eller overser informasjon som
-11
-
-Riksadvokatens skriftserie (2/2017) s. 83–84, s. 90, s. 95, s.
-98 og s. 103.
-12 Bl.a. Rachlew (2009) s. 19–20 med videre henvisninger,
-som påpeker at et gjennomgående funn i internasjonal og
-nasjonal forskning er at uriktige domfellelser ikke kan
-føres tilbake til (ond) vilje hos aktørene i straffesakskjeden.
-13 Bl.a. Rachlew (2009) s. 22–24, Fahsing (2016) s. 23 flg. og s.
-31 og Magnussen (2025) s. 304.
-
-[Side 446]
-
-444
-
-Kapittel 13
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-ikke stemmer […]. Det er grunn til å tro at
-denne allmennmenneskelige måte å tenke på –
-i internasjonal litteratur betegnet som ‘confirmation bias’ – også kan prege etterforskning
-og rettens vurderinger […]. I dagliglivets
-språk er dette betegnet som ‘tunnelsyn’. Tunnelsyn er en naturlig strategi i menneskelig
-kognisjon. Derfor får vi alle jevnlige bekreftelser på egne meninger. Vi ser dette i den politiske hverdag hvor debatter sjelden baserer
-seg på et felles kunnskapsreservoar. I forskning og i etterforskning er det imidlertid viktig
-at konklusjoner bygger på kunnskap det råder
-enighet om. Men det kan vi ikke uten videre
-forutsette. Vurderinger i vitnepsykologiske
-spørsmål kan ha slagsider. Det er simpelthen
-ikke slik at vi bedømmer bevis forutsetningsløst. Flere nordiske studier av politietterforskere og anklagere tyder på at bedømmelsen
-av tvetydige bevis er delvis bestemt av tidlig
-utviklede hypoteser om hvorvidt den mistenkte er skyldig eller ikke skyldig, og at når en
-beslutning om tiltale er tatt, så bekreftes den
-ytterligere i senere bevisvurdering […]. Det
-samme gjelder for vurderinger av vitners troverdighet. Selvinkriminerende utsagn og falske tilståelser synes å være særlig egnet til å
-lede til tunnelsyn i etterforskningen […].»14
-
-Å selektivt registrere informasjon som bygger på
-ideer og hypoteser vi allerede har, og samtidig
-nedtone eller overse opplysninger som ikke stemmer med bildet vi har dannet oss, er et resultat av
-den menneskelige natur og begrensninger ved
-vårt kognitive apparat.15 Det engelske uttrykket
-«cognitive bias» ble introdusert av Peter Wason i
-1960.16 Wason avdekket etter flere studier at deltakerne hadde en klar preferanse for bekreftelse i
-stedet for avkreftelse. Når en bestemt oppfatning
-har fått feste, styrer trangen til bekreftelse søkenen etter informasjon og tolkingen av denne.17
-Et spørsmål er om personer som arbeider profesjonelt med etterforskning, bevisvurdering og
-dømmende virksomhet, er så bevisst på risikoen
-for tunnelsyn at de av den grunn unngår å havne i
-bekreftelsesfellen. En undersøkelse gjennomført
-av Fahsing og Ask av et utvalg erfarne drapsetterforskere i England og Norge tyder på at mange i
-denne gruppen kjenner til de psykologiske fallgruvene i en etterforskningsprosess, inkludert
-14
-
-Magnussen (2025) s. 304.
-Magnussen og Teigen (2020) s. 21.
-16 Wason (1960).
-17
-Fahsing (2016) s. 31 med videre henvisninger.
-15
-
-faren for at avgjørelser i en tidlig fase kan skape
-tunnelsyn i den videre etterforskningen.18 Forfatterne påpeker likevel at bevissthet omkring fenomenet bekreftelsesfelle ikke er noen garanti mot
-at det oppstår bekreftelsesfeller. Blant annet ble
-det avdekket at norske politietterforskere i klart
-større grad enn sine engelske kolleger anså intuisjon som en viktig egenskap hos en etterforsker.19
-Som utvalget kommer tilbake til i punkt 13.2.4, er
-det siden starten av 2000-tallet lagt ned et betydelig arbeid i norsk politi for å redusere risikoen for
-at det oppstår bekreftelsesfeller og tunnelsyn.
-Selv om forebygging av kognitive slagsider og
-snarveier er viktigst under en pågående etterforskning, er det også viktig ved vurderingen av bevismaterialet. I domstolene og påtalemyndigheten
-har det ikke blitt gjort samme systematiske arbeid
-som i politiet for å forebygge kognitive tankefeil.
-Utvalget viser til Magnussen og Teigen, som uttaler:
-«Juryer og meddomsretter foretar sine bedømmelser på grunnlag av informasjon som er
-fremkommet i rettssaker som ikke sjelden går
-over flere dager og uker, og de diskuterer
-saken med åpen meningsutveksling mellom
-rettens medlemmer. Beslutninger og vurderinger i retten er hverken raske eller automatiserte. Men dette borger ikke for rasjonalitet.
-Tilsynelatende rasjonelle, kunnskapsbaserte
-beslutninger kan være sterkt påvirket av automatiserte kognitive prosesser – for hva som
-overbeviser oss og som vi tror er rasjonelt, kan
-være nokså irrasjonelt. Vi regner f.eks. med at
-den som snakker sant, skal være konsistent og
-si det samme hver gang. Men når folk lyver, er
-de ofte flinke til å gjenta seg selv, de trenger
-ikke la seg distrahere av detaljer som den
-ærlige kanskje kommer på i ettertid, alt etter
-situasjonen. Da kan man lett bli mistrodd av en
-rett som bruker konsistens som en enkel heuristikk til å vurdere sannhet. Kahneman påpeker at alle heuristikker – kognitive snarveier –
-18
-19
-
-Fahsing og Ask (2013) s. 161–162.
-Fahsing og Ask (2013) s. 162: «More than one fourth of the
-Norwegian participants mentioned intuition as a valuable
-asset, whereas British participants remained silent on the
-issue or even explicitly warned against the reliance on intuition. Although no official manuals or guidelines in England
-and Wales seem to strongly discourage the use of intuition,
-the following wording in the ACPO Core Investigative
-Doctrine (Centrex, 2005) may be interpreted as a notice of
-caution: ‘In principle, there may be nothing wrong in following hunches or gut reactions, but the investigator must
-expect to account for their decisions to others including
-victims, witnesses, supervisors, managers, and/or to partners in the criminal justice system’ (p. 58).»
-
-[Side 447]
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-handler om å erstatte en egenskap det er vanskelig å bedømme, med en annen som er mere
-observerbar. Når folk blir bedt om f.eks. å vurdere et vitneutsagns pålitelighet (en skjult
-egenskap), løser de gjerne oppgaven ved å vurdere trekk som er mer synlige (et fast blikk og
-en stødig stemme), og lar dermed troverdigheten, som retten kan iaktta, tre inn som et ‘substitutt’ for oppriktigheten, som bare vitnet kjenner.) Slik snarveistenkning er vanskelig å
-unngå og støtter den realistiske modellen for
-bevisbedømmelse som hevder at forestillingen
-om den perfekt rasjonelle beslutningstaker er
-en myte.»20
-
-I 2008 publiserte Magnussen mfl. en undersøkelse om amerikanske og norske dommeres
-kunnskap om bedømmelse av vitnebeviset.21
-Bjørndal mfl. gjorde en oppfølgning av undersøkelsen tolv år senere.22 Resultatene viste blant
-annet at norske dommere i snitt var blitt vesentlig
-mer klar over at et vitnes sikkerhet med hensyn til
-en konkret observasjon ikke er en god indikator
-på at observasjonen er korrekt.23 Derimot var
-dommerne i 2008 klart mer oppmerksom på at et
-vitnes hukommelse svekkes etter hvert som tiden
-går, enn det dommerne var i 2020.24 Den overordnede konklusjonen er at norske dommere generelt har relativt mye kunnskap om flere faktorer
-som kan påvirke påliteligheten av vitneforklaringer, men at det ble avdekket lavere kunnskapsnivå
-på noen områder.25
-Det er på det rene at ytre faktorer kan bidra til
-å skape og forsterke kognitivt bias. Forskningslitteratur om politietterforskning omtaler
-flere slike forhold. Det mest fremtredende forholdet er stress.26 Når det er begått en grov straffbar
-handling, oppstår det raskt en forventning fra
-samfunnet om at det må oppklares hvem som er
-skyldig. Presset vil kunne øke etter hvert som
-tiden går, blant annet som følge av stort medietrykk. Jo mer alvorlig lovbrudd som er begått,
-desto mer stress vil etterforskere bli utsatt for.
-Dette kan gi økt spillerom for bekreftelsesfeller
-og andre kognitive slagsider.
-Det er velkjent at tid er en kritisk faktor ved
-etterforskning, ettersom den innledende etter20
-
-Magnussen og Teigen (2020) s. 22.
-Magnussen mfl. (2008) s. 177–188.
-22
-Bjørndal mfl. (2021).
-23 Bjørndal mfl. (2021) s. 675–676.
-24
-Bjørndal mfl. (2021) s. 676.
-25 Bjørndal mfl. (2021) s. 678.
-21
-
-445
-
-Kapittel 13
-
-forskningsfasen ofte er avgjørende for om saken
-kan oppklares.27 Ut fra samtaler med personer
-som deltok i straffesaksbehandlingen av Baneheia-saken, er utvalget overbevist om at det var et
-betydelig tidspress og en stor arbeidsbyrde på
-dem som arbeidet med etterforskningen. Presset
-fra opinionen og mediene var også svært stort.
-Drapene skjedde fredag 19. mai 2000. Pågripelsene ble foretatt onsdag 13. september, nesten fire
-måneder etter drapene.
-Et annet forhold som kan styrke kognitivt bias,
-er gruppetenkning. Fahsing beskriver fenomenet
-slik:
-«Groupthink is the reluctance to think critically
-and challenge the theory that dominates within
-a team or group of human actors. Expressing
-minority or alternative views put us at risk of
-being disliked, whereas sharing majority views
-can give us a feeling of inclusion based on a
-(sometimes) false sense of security or confidence. Typically, this occurs once a dominant
-member of a group posts a certain opinion. Out
-of loyalty, other members not only accept that
-view, but also start defending it as their own.
-Because it is a matter of loyalty to the leader, it
-does not matter if the standpoint is right or
-wrong. A group with diverse competencies
-may be a great tool for a critical assessment of
-the ruling ideas. The ‘groupthink effect’, however, might lead the group members into conformity and collective blindness towards alternative views (Janis, 1982).»28
-26
-
-Rachlew (2009) s. 22: «I de få tilfellene hvor vi stilles overfor alvorlige dilemmaer, og for eksempel på grunn av tidspress, tvinges til å ta et valg, påvirkes våre beslutninger på
-flere måter. Dersom tidspress eller opplevelsen av tidspress knyttes til spørsmål som både er kompliserte og
-betydningsfulle, øker opplevelsen av stress. Alle beslutninger har en emosjonell komponent. Ved stress øker den
-emosjonelle mobiliseringen, noe som medfører at vi lettere
-velger enkle besultningsstrategier og/eller støtter oss til
-det etablerte syn (Lai 1999 s. 104).» Oppklaringspress i
-alvorlige, profilerte straffesaker er i den internasjonale litteraturen behandlet som en av flere underliggende årsaker
-som bereder grunnen for at uskyldige dømmes, se
-Rachlew (2009) s. 16 med videre henvisninger.
-27 Fahsing (2016) s. 32: «The ACPO Core Investigative
-Doctrine (2012) notes that the first opportunity to gather
-material may be the last. This raised awareness is often
-referred to as the ‘golden hour’ principle. Thus, it is important that good decisions are made during the early stage of
-an investigation to ensure that all potential sources of material are explored properly before being lost or contaminated. On the other hand has psychological research consistently found that time-pressure affects the quality of our
-judgements and decisions (Svenson & Maule, 1993).»
-28 Fahsing (2016) s. 30.
-
-[Side 448]
-
-446
-
-Kapittel 13
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-Av andre forhold som kan skape og styrke risikoen for bekreftelsesfeller, kan nevnes sterkt personlig engasjement,29 overdreven tro på og tillit til
-egen kunnskap og vurderingsevne30 og uheldige
-subkulturer.31
-Når en bekreftelsesfelle først har oppstått,
-viser forskningen at det er svært krevende å fri
-seg fra den:
-«The effect of confirmation bias is so hard-wearing that beliefs persist even after the information that formed the beliefs has been discredited or withdrawn (Nickerson, 1998). The
-psychological investment in establishing and
-maintaining beliefs is too high to abandon
-them just because the underlying information
-is later proven to be false or irrelevant (Jonas et
-al., 2001; Lord et al., 1979; Wason & JohnsonLaird, 1972). The phenomenon has proven strikingly robust across diverse domains of human
-thinking, including logical problem-solving
-(Hastie & Dawes, 2010; Hoffer, 1951; Lord et
-al., 1979), social interaction (Wason, 1968),
-medical reasoning (Snyder & Swann, 1978),
-military intelligence (Elstein, Shulman, &
-Sprafka, 1978) and in courts and police investigations (Cook & Smallman, 2008; Ask & Granhag, 2005).»32
-
-13.2.3.2 Mekanismer som forebygger og motvirker
-bekreftelsesfeller
-Utvalget foreslår i det følgende en rekke tiltak for
-å styrke etterlevelsen av objektivitetskravet. Tiltakene vil etter utvalgets mening bidra til å redusere
-antallet uriktige domfellelser i straffesaker. I
-punkt 13.2.4 til 13.2.6 presenterer utvalget tiltak
-innen henholdsvis politiet, påtalemyndigheten og
-domstolene.
-Nedenfor gis en generell oversikt over sentrale mekanismer som er egnet til å forebygge
-ubevisste brudd på objektivitetskravet som skyldes bekreftelsesfeller. De tiltakene som utvalget
-foreslår, kan tilbakeføres til disse mekanismene.
-Formålet med dette punktet er å gi en samlet,
-generell oversikt over mekanismene og å trekke
-forbindelseslinjer til de konkrete tiltakene som
-utvalget foreslår.
-
-29
-
-Fahsing (2016) s. 33.
-Fahsing (2016) s. 29–30.
-31 Rachlew (2009) s. 23.
-32 Fahsing (2016) s. 31.
-30
-
-At det er krevende å fri seg fra bekreftelsesfeller, og at innsikt og bevisstgjøring ikke er nok i
-seg selv, er fremhevet av Rachlew:
-«Det er ikke lett å gardere seg mot de ulike
-bekreftelsesfellene våre beslutninger preges
-av. En bevisstgjøring er i seg selv ikke nok.
-Forskning viser at testpersoner som i forkant
-av eksperimentet gis informasjon om bekreftelsesfellene og oppfordringer om å ‘tenke nøytralt’, har liten effekt (Findley og Scott 2006 s.
-371). ‘Men innsikt i hvilke feilkilder vi er utsatt
-for, hvordan de påvirker oss, og hvor de stammer fra, er et første steg på veien og gjør det lettere å se hvordan man kan sette inn mottiltak’
-(Lai 1999 s. 14). Det følger av det normative
-idealet som trekkes opp i den psykologiske litteraturen, der beslutningstakeren oppfordres
-til å falsifisere sine mistanker og søke etter
-alternative forklaringer – uten å favorisere løsningen en har for hånden, at jo tidligere politiet
-konkluderer, jo større er risikoen for at de kognitive forenklingsstrategiene trer i kraft. All
-metodikk og tankegang som stimulerer premature beslutningsstrategier er derfor risikable.»33
-
-En viktig mekanisme mot ubevisste brudd på
-objektivitetskravet er at det etableres konkret
-metodikk og arbeidsmetoder for å forebygge
-bekreftelsesfeller. Norsk politi har allerede gjennom flere år arbeidet aktivt med og implementert
-slik metodikk til bruk i etterforskning. En sentral
-komponent i metodikken er å klarlegge fakta gjennom å oppstille ulike hypoteser for hva som kan
-ha skjedd, og deretter søke å verifisere eller
-avkrefte hypotesene (punkt 13.2.4.2). Når det gjelder påtalemyndighetens metodikk for å forebygge
-bekreftelsesfeller og tunnelsyn, viser utvalget til
-operasjonaliseringen av beviskravet som er omtalt
-av riksadvokaten i kvalitetsrundskrivet.34 Som
-utvalget kommer tilbake til nedenfor (punkt
-13.2.5.5), gir dette en viktig metode for å fremme
-objektivitet og rasjonalitet ved vurdering av bevis.
-Utvalget foreslår at metoden også benyttes av
-domstolene, og at det ved domfellelse utformes
-begrunnelser i tråd med metodikken (punkt
-13.2.6.3).
-En annen viktig mekanisme for å forebygge
-ubevisste brudd på objektivitetskravet i form av
-bekreftelsesfeller er at det etableres kontrollmeka33
-
-Rachlew (2009) s. 28. Se også Rachlew og Fahsing
-(02.05.24) s. 16, jf. elektronisk vedlegg.
-34 Riksadvokatens rundskriv (3/2018) punkt 4.3.2.
-
-[Side 449]
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-nismer – nærmere bestemt at en uavhengig og
-utenforstående instans eller person gjennomfører
-en egen, separat vurdering. Grunnen til at kontroll kanskje er den mest effektive mekanismen
-mot bekreftelsesfeller, er at det er vanskelig for
-den som selv er del av og implisert i vurderingene, å avdekke at en selv er kommet i en bekreftelsesfelle. En forutsetning for effektiv kontroll er
-at den som er satt til å gjennomføre den, ikke ut
-fra tillit til den tidligere vurderingen legger til
-grunn at den er korrekt. Generelt er det en styrke
-i et samfunn og i en organisasjon at ulike aktører
-kan agere ut fra gjensidig tillit. I et system hvor
-det er risiko for ubevisste, uriktige vurderinger og
-konklusjoner, vil imidlertid for stor grad av tillit
-svekke en effektiv kontroll.35 Utvalget vil understreke at det å fokusere på behov for effektiv kontroll ikke automatisk bygger på mistillit til beslutningstakeren.
-En annen forutsetning for effektiv kontroll er
-at kontrolløren er uavhengig av og upartisk overfor den som har gjort vurderingen og truffet
-avgjørelsen. Utvalget viser til at kravet om uavhengighet på strukturelt nivå er godt etablert i strafferettssystemet: Det følger av Grunnloven at domstolene er uavhengige av den utøvende makt (herunder påtalemyndigheten). Etter Grunnloven § 96
-kan ingen ilegges straff uten eget samtykke med
-mindre domstolen har idømt straffekravet. Domstolsprøving gir den mest uavhengige kontrollen
-som rettsstaten kan tilby. Innad i domstolssystemet er retten til anke en kontrollmekanisme.
-Videre følger det av den hierarkiske oppbygningen av påtalemyndigheten at overordnet påtalemyndighet er uavhengig av underordnet påtalemyndighet, og at påtalemyndigheten i politiet er
-overordnet (og formelt uavhengig av) politiet.
-Uavhengige kontrollmekanismer som er ment å
-avdekke uriktige avgjørelser, er implementert på
-en rekke samfunnsområder, blant annet i helsevesenet, i luftfarten og innen forskning. Utvalget
-drøfter tiltak som styrker kontrollmekanismer ved
-straffesaksbehandlingen, i punktene 13.2.5.4,
-13.5.2 og 13.5.3.
-En tredje mekanisme mot bekreftelsesfeller er
-kvalitet og grundighet.36 Særlig på etterforskningsstadiet hvor bevis innhentes, er det avgjørende at
-etterforskerne har solide kunnskaper om metoder
-for innhenting av bevis og innsikt i bevisenes styrker og svakheter. Selv om det er påtalemyndighe35
-
-I samme retning Rachlew (2009) s. 33 med videre henvisninger.
-36 NOU 2016: 24 s. 568–569 (spesialmerknad til lovutkastet
-§ 7-1).
-
-447
-
-Kapittel 13
-
-ten som tar stilling til tiltalespørsmålet, og det er
-retten som tar stilling til straffekravet, er det klart
-at også etterforskere må ha kunnskap om bevisvurdering. Utvalget foreslår tiltak som kan styrke
-kvaliteten i etterforskning, i punkt 13.2.4.
-En fjerde mekanisme mot bekreftelsesfeller er
-vekt på opplæring og kompetanseheving i alle ledd i
-straffesaksbehandlingen. Behandling av straffesaker krever kunnskap innen en rekke ulike fagområder. Utvalget mener det særlig er behov for mer
-opplæring i bevisvurdering (punkt 13.4.5). Det er
-også behov for mer opplæring om bruk av DNAbevis i straffesaker (punkt 13.8.6).
-Som utvalget kommer tilbake til, er fagområdene som er relevante ved straffesaksbehandling,
-ikke statiske, men i stadig bevegelse. I de siste 25
-årene har skjedd en stor forskningsdrevet kunnskapsutvikling innenfor etterforskningsfaget. Det
-samme gjelder innen bevisteori og bevisvurdering. En femte mekanisme mot bekreftelsesfeller
-er forskning og kunnskapsutvikling. Det er viktig at
-den opplæring som gis, er basert på vitenskap og
-vitenskapelige standarder. I punkt 13.2.5.6 drøfter
-utvalget tiltak som styrker forskning og kunnskapsutvikling.
-
-13.2.4 Tiltak for å sikre kravet til objektivitet
-i politiet
-13.2.4.1 Innledning
-Politiet er etter utvalgets vurdering det organ i
-strafferettspleien som har gjort klart mest for å
-forebygge at det oppstår bekreftelsesfeller. I
-punkt 13.2.4.2 gis en redegjørelse for noe av det
-arbeid som er gjort fra begynnelsen av 2000-tallet
-og frem til i dag. Kravet om objektivitet ved straffeforfølgning har som nevnt i forrige punkt en
-side til kvalitet og grundighet. Nærmere bestemt
-er det avgjørende for å etterleve objektivitetskravet at den som etterforsker, har solid kompetanse.
-I punkt 13.2.4.3 understrekes behovet for tydelig
-ledelse av etterforskningen som et sentralt tiltak
-for å sikre kravet til objektivitet. I punkt 13.2.4.4
-foreslår utvalget å innføre et krav til sertifisering
-av politifaglig etterforskningsleder, mens en sertifiseringsordning for avhørere foreslås i punkt
-13.2.4.5. I punkt 13.2.4.6 foreslår utvalget at politiet utreder og utvikler et system for nivådeling for
-etterforskning som gjenspeiler politidistriktenes
-kapasitet, kompetanse og evne til å drifte store og
-komplekse etterforskninger. I punkt 13.2.4.7 foreslås det å innføre et krav om at Kripos konsulteres
-og kobles inn i drapssaker med ukjent gjerningsperson.
-
-[Side 450]
-
-448
-
-Kapittel 13
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-13.2.4.2 Objektivitetskravet og forebygging
-av bekreftelsesfeller ved etterforskning
-Forklaringer fra personer er sentrale bevis i svært
-mange straffesaker.37 Avhør er av sentral betydning ved stort sett all etterforskning. Man skal
-imidlertid ikke lenger tilbake enn til 1990-tallet for
-å konstatere fravær av en nasjonal standard for og
-opplæring i hva et politiavhør skulle inneholde, og
-hvordan politiet skulle gå frem for å innhente relevant og pålitelig informasjon. Frem til 2001 var
-situasjonen i Norge at politietterforskere bare i
-begrenset grad fikk opplæring i avhørsmetodikk.
-Se punkt 4.5.3.2 for en redegjørelse for regelverk
-og praksis i 2000.
-Ut over 2000-tallet skjedde det betydelige
-fremskritt innen avhørsfaget i kjølvannet av Karmøy-saken og ny forskning om justisfeil og uriktige domfellelser. Akademia begynte å interessere
-seg for faget, og politiet innledet også egen
-forskning. En nøkkelperson var politioverbetjent
-Asbjørn Rachlew, som gjennom studier i England
-var blitt kjent med den britiske tilnærmingen til
-avhør kalt investigative interviewing. På bakgrunn
-av Rachlews mastergradsavhandling utviklet Oslo
-politidistrikt KREATIV som det første nasjonale
-utdanningsprogrammet om avhørsmetodikk for
-norske etterforskere. Innføringen av KREATIV i
-2001 i norsk politi var et bevisst oppgjør med en
-tilståelsesbasert avhørskultur som preget store
-deler av politiet. Politihøgskolen overtok etter
-hvert utdanningen, og i årenes løp har flere tusen
-etterforskere fått opplæring i programmet. Avhørsteknikk ble også viet større plass på Politihøgskolens grunnutdanning.
-Akronymet KREATIV reflekterer metodikkens verdier og prinsipper: kommunikasjon, rettssikkerhet, etikk og empati, aktiv bevisstgjøring, tillit
-gjennom åpenhet, informasjon og vitenskapelig forankring. Opplæringsprogrammet KREATIV angir
-en avhørsmodell som består av seks faser: (1)
-planlegging og forberedelse, (2) kontaktetablering, (3) fri forklaring, (4) sondering, (5) avslutning og (6) evaluering.
-Forberedelsesfasen står sentralt i KREATIVmodellen. Denne fasen er beskrevet slik:
-«Metodens to første steg foregår i forberedelsesfasen. Først må etterforskeren sette seg
-grundig inn i sakens dokumenter og identifisere sakens potensielle bevis. Deretter må politiet, til hvert av bevisene, identifisere alle rimelige forklaringer, gjerne omtalt som hypoteser.
-37
-
-Se punkt 13.4.4.3.
-
-Dersom mistenkte er uskyldig, finnes det jo en
-alternativ forklaring. Videre, dersom mistenkte er skyldig, og har intensjoner om å unndra seg straffansvar, hvilke forklaringer vil han
-eller hun da kunne fremsette for å skape rimelig tvil? Svarene utgjør i sum etterforskerens
-alternative hypoteser. Når disse er identifisert,
-avsluttes den forberedende fasen ved å
-utforme temaer og spørsmål for å belyse de
-alternative hypotesene. Formålet med fremgangsmåten er å undersøke om den mistenkte
-i sin forklaring er i stand til å produsere motbevis til de enkelte sporene mot ham. Klarer den
-avhørte ikke det, styrkes som regel mistanken.»38
-
-Pålegget om å utpeke alternative hypoteser stimulerer politiets åpne sinn og operasjonaliserer
-uskyldspresumsjonen.39 På denne måten bruker
-KREATIV kunnskap om beslutningspsykologi for
-i størst mulig grad å sikre objektivitet. Metoden er
-egnet til å motvirke den iboende menneskelige
-tendensen til å søke etter, tolke og huske informasjon som bekrefter ens hypotese. Som utvalget er
-inne på i punkt 13.2.3, er all menneskelig informasjonsbearbeidelse sårbar for forskjellige former
-for bekreftelsesfeller. Når det gjelder avhør, vil
-politietterforskere være særlig sårbare i situasjoner hvor politiet har en konkret mistenkt i en sak.
-I slike tilfeller kan bekreftelsesfeller påvirke
-objektiviteten i form av en tendens til å (a) søke
-etter informasjon som støtter opp under mistanken, (b) tolke ny informasjon i lys av mistanken,
-(c) ta nøytral informasjon til inntekt for en etablert
-oppfatning og (d) ignorere eller bortforklare informasjon som ikke passer inn. Bekreftelsesfeller
-fungerer ubevisst. Selv om man som etterforsker
-forsøker å være objektiv, vil man ikke nødvendigvis lykkes med dette i praksis.
-Et annet sentralt element i KREATIV-modellen
-er at bevispresentasjonen skal utsettes til alle
-hypoteser om alternative hendelsesforløp er
-undersøkt. Etter modellen skal siktedes frie forklaring etterfølges av en sonderingsfase, hvor
-relevante tema klargjøres og utdypes. Først etter
-sonderingsfasen skal siktede konfronteres med
-bevis, uoverensstemmelser og annen saksinformasjon. Dette ivaretar siktedes rett til «å gjendrive
-de grunner som mistanken beror på», jf. straffeprosessloven § 92 første ledd andre punktum.
-Utsettelsen reduserer samtidig siktedes muligheter til å komme med alternative forklaringer
-38
-39
-
-Riksadvokatens arbeidsgruppe (08.10.2013) s. 9.
-Riksadvokatens arbeidsgruppe (08.10.2013) s. 8.
-
-[Side 451]
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-basert på kjennskap til bevisene.40 Rachlew og
-Fahsing uttaler:
-«Hensynet til sakens oppklaring tilsier […] at
-dersom politiet planløst presenterer sakens
-potensielle bevis for den mistenkte, uten noen
-form for strategi – for eksempel ved å presentere sine potensielle bevis for tidlig – vil en
-skyldig mistenkt, med intensjoner om å unndra
-seg straffansvar, øke sine sjanser for å finne en
-plausibel forklaring, tilpasset beviset.»41
-
-Etter utvalgets vurdering er politiets avhørsmetodikk godt egnet til å forebygge bekreftelsesfeller
-og tunnelsyn. Uavhengige, eksterne vurderinger
-indikerer at avhørsfaget i Norge i dag holder en
-høy internasjonal standard. Teorien som presenteres i utdanningen, er vitenskapelig forankret, og
-både ny forskning og relevante rundskriv fra påtalemyndigheten
-inkorporeres
-fortløpende.42
-Avhørsteknikkene harmonerer også godt med de
-overordnede føringene i straffeprosessloven og
-påtaleinstruksen.43 Siden utpeking av alternative
-hypoteser utgjør et sentralt element, har modellen
-visse likhetstrekk med riksadvokatens metode for
-å operasjonalisere beviskravet i kvalitetsrundskrivet fra 2018, se punkt 13.2.5.5. Utvalget mener at
-det samlet sett er gjort et omfattende, strukturelt
-og langvarig arbeid for å styrke kravet til objektivitet ved gjennomføring av politiavhør.
-Utvalget har også merket seg at politiet og
-påtalemyndigheten har vist evne og vilje til å sette
-søkelys på mulige svakheter og forbedringspunkter. Sommeren 2012 nedsatte riksadvokaten en
-arbeidsgruppe som fikk i mandat å utrede ulike
-aspekter ved norsk avhørsmetodikk. Bakgrunnen
-var at kvaliteten på etterforskning og avhør var
-blitt et tema ved Oslo statsadvokatembeter høsten
-2011, etter at det i noe tid hadde vært påvist mangler i en del alvorlige straffesaker. Blant svakhetene som ble trukket frem, var «en tendens til
-gjentatte frie forklaringer, for omfattende avhør og
-fravær av konfrontasjon».44 Arbeidsgruppens rapport ble avgitt 8. oktober 2013. Arbeidsgruppen
-identifiserte en rekke tiltak som ville kunne føre
-avhørsfaget videre.45 Et av disse var utarbeidelse
-40
-
-Straffeprosessloven § 242 gir hjemmel for å begrense siktedes innsynsrett av hensyn til etterforskningen.
-41 Rachlew og Fahsing (2015) s. 241–242.
-42 Riksadvokatens arbeidsgruppe (08.10.2013) s. 10 med
-videre henvisninger.
-43
-Se punkt 4.5.3.2.
-44 Riksadvokatens arbeidsgruppe (08.10.2013) s. 11.
-45 Riksadvokatens arbeidsgruppe (08.10.2013) s. 89–90.
-
-449
-
-Kapittel 13
-
-av et rundskriv som nedfeller overordnede prinsipper for hvordan norske politiavhør skal gjennomføres, og hvor sentrale utfordringer utdypes.
-Riksadvokaten publiserte et slikt rundskriv i
-2016.46 Arbeidsgruppens forslag om å innføre et
-sertifiseringssystem for avhør er derimot ikke
-fulgt opp. Utvalget finner grunn til å gjenta tiltaket
-i denne utredningen, se punkt 13.2.4.5.
-Arbeidsgruppen foreslo videre at alle saker av
-en viss størrelse, alvorlighetsgrad og kompleksitet bør ha en etterforskningsplan. Utvalget vurderer dette som et viktig grep for å sikre kravet til
-objektivitet under etterforskningen. Tiltaket er i
-stor utstrekning fulgt opp.47 I 2013 ga riksadvokaten pålegg om bruk av etterforskningsplaner i
-voldtektssaker, med mindre saken er så oversiktlig at det fremstår som åpenbart unødvendig.
-Plikten ble i 2015 utvidet til å omfatte saker om
-seksuallovbrudd mot barn og saker om vold i
-nære relasjoner og i 2017 til saker hvor det er mistanke om drap. I 2024 ble det bestemt at etterforskningsplan også skal utarbeides i alvorlige brannsaker.48
-Et hovedformål med etterforskningsplanen er
-å sikre bedre styring og kontroll med saksfremdriften og hindre at saker blir liggende uten aktiv
-oppfølging. I riksadvokatens kvalitetsrundskriv
-heter det at slike planer «bidrar til struktur i arbeidet, fremdrift og kvalitet i etterforskningen, og gir
-notoritet og et helhetsbilde av den enkelte sak
-som understøtter løpende beslutningsprosesser».
-Riksadvokaten anbefaler derfor også bruk av
-etterforskningsplaner i andre alvorlige saker.49
-Direktivene er utdypet i retningslinjer fra Politidirektoratet.50 En etterforskningsplan skal utarbeides så snart som mulig etter at straffesaken er
-opprettet. Planen skal beskrive hypoteser eller
-alternative forklaringer knyttet til handlingen som
-etterforskes, og aktuelle straffebud skal identifiseres opp mot hypotesene. Planen skal dessuten gi
-en oversikt over aktuelle etterforskningsskritt og
-angi når disse skal være gjennomført, og i hvilken
-rekkefølge. Det skal tas stilling til hvem som skal
-gjøre hva og på hvilken måte. Planen skal være
-dynamisk og gjenstand for oppdateringer, utvidelser og endringer, tilpasset utviklingen i den
-enkelte sak. Utarbeidelsen av planen skjer i sam46
-
-Riksadvokatens rundskriv (2/2016).
-Riksadvokatens rundskriv (3/2018) punkt 4.2.2 med videre
-henvisninger.
-48
-Riksadvokatens rundskriv (nr. 2/2024) punkt 4.2.
-49 Riksadvokatens rundskriv (3/2018) punkt 4.2.2.
-50 Retningslinjer for bruk av etterforskningsplan, versjon 2.0.
-47
-
-[Side 452]
-
-450
-
-Kapittel 13
-
-NOU 2026: 3
-
-Straffeforfølgelsen av Viggo Kristiansen
-
-arbeid mellom den påtalefaglige og politifaglige
-etterforskningsledelsen.
-Utvalget er også kjent med annet fagutviklingsarbeid i politiet. I 2016 la Politidirektoratet og Riksadvokatembetet frem rapporten Handlingsplan for løft av etterforskningsfeltet.51 I rapporten identifiseres 20 tiltak for å oppnå bedre etterforskning av straffesaker. Tiltakene er gruppert i
-seks tiltaksområder som tar opp i seg Stortingets,
-Riksadvokatembetets og Politidirektoratets egne
-identifiserte prioriteringer for utvikling av etterforskning.52 Det første tiltaket er etablering av et
-forvaltnings- og utviklingsapparat for etterforskning som skal bidra til å sikre en kunnskapsbasert, enhetlig og styrt videreutvikling av etterforskningsfeltet. Kripos er, sammen med Oslo politidistrikt og Økokrim, nasjonal fagforvalter.
-Utvalget er blitt gjort kjent med Kripos’ arbeid
-innenfor fagområdene etterforskningsledelse,
-avhør, kriminalteknikk og operativ kriminalanalyse. Inntrykket er at Kripos har solid kompetanse
-innenfor disse fagområdene, og at det arbeides
-forsknings- og kunnskapsbasert og systematisk
-for å vedlikeholde og utvikle fagkompetansen
-innen etterforskning i politiet. Kripos har oversikt
-over status på de ulike områdene, herunder kunnskap om forhold som bør forbedres. Utvalget vil
-fremheve betydningen av at man i et lite land som
-Norge har en sentral enhet med spisskompetanse
-innen etterforskning, som også går i front når det
-gjelder utvikling av etterforskningsfaget.
-
-13.2.4.3 Tydelig ledelse av etterforskningen
-i politiet
-Straffeprosessloven § 225 første ledd slår fast:
-«Etterforsking besluttes, ledes og avsluttes av
-påtalemyndigheten. Etterforsking utføres av
-politiet. Tjenestemenn i politiet som ikke tilhører påtalemyndigheten, kan beslutte etterforsking og foreta etterforskingsskritt så langt det
-følger av fullmakt. Uten beslutning av overordnet kan enhver tjenestemann i politiet foreta
-skritt som ikke uten skade kan utsettes».
-
-Bestemmelsen ble endret ved lov 18. juni 2021 nr.
-122 for å klargjøre at påtalemyndigheten har det
-formelle og overordnede ansvaret for etterforskningen.53 Politiet har derimot ansvar for den
-51
-
-Politidirektoratet og riksadvokaten (31.05.16).
-Politidirektoratet og riksadvokaten (31.05.16) s. 20.
-53 Prop. 146 L (2020–2021) punkt 14.5 s. 121–122 og punkt 21
-s. 172 samt NOU 2016: 24 punkt 14.2.2 s. 301–302.
-52
-
-praktiske utføringen av etterforskningen og de
-politifaglige vurderingene. Endringene i ordlyden
-i straffeprosessloven § 225 var ikke ment å innebære noen endring i hvordan etterforskningen i
-praksis skal gjennomføres.54
-Den i påtalemyndigheten i politiet som leder
-etterforskningen i den enkelte sak, kalles påtalefaglig etterforskningsleder (PÅL) eller bare den
-påtaleansvarlige. Det har i lengre tid vært slik at
-en politietterforskning også har en politifaglig
-etterforskningsleder (PEL). Etter straffeprosessloven er PEL underordnet PÅL.
-Påtalefaglig etterforskningsleder og politifaglig etterforskningsleder har ulik kompetanse:
-Mens førstnevnte har juridisk utdanning, har sistnevnte politifaglig utdanning ved Politihøgskolen
-og eventuell etter- og videreutdanning (EVU).
-Politifaglig etterforskningsleder er normalt den
-som har best kompetanse i det praktiske etterforskningsfaget. Den norske ordningen med integrert påtalemyndighet i politiet bygger på et nært
-samarbeid mellom de to lederfunksjonene. Riksadvokaten utarbeidet i september 2021 et skriv
-hvor forventningene til rollen som påtalefaglig
-etterforskningsleder presiseres.55 Rollen som
-politifaglig etterforskningsleder er nevnt sporadisk i brevet, men det står naturlig nok mest om
-påtalefaglig etterforskningsleders rolle.
-Rollen som politifaglig etterforskningsleder
-(PEL) synes i liten grad å ha fått oppmerksomhet
-på et overordnet og strukturelt plan. Riksadvokaten uttaler i skrivet om forventninger til rollen
-som påtalefaglig etterforskingsleder (PÅL):
-«Det er neppe mulig, og kanskje heller ikke
-nødvendig, med en skarp avgrensing av hvor
-PÅLs ansvar slutter og PELs ansvar begynner
-når det kommer til den taktiske ledelsen av
-etterforskningen.»56
-
-Utvalget er enig i at en skarp avgrensning av
-ansvarsforholdene neppe er mulig. Det er imidlertid alltid påtalefaglig etterforskningsleder som har
-det formelle ansvaret for etterforskningen, jf.
-straffeprosessloven § 67 første ledd. Etter utvalgets mening er det behov for at det på overordnet
-og strukturelt plan rettes søkelys mot rollen som
-politifaglig etterforskngsleder. Riksadvokatens
-arbeidsgruppe om avhørsmetodikk i politiet fremhevet nettopp god politifaglig etterforsknings54
-
-Prop. 146 L (2020–2021) punkt 14.5.4 s. 122.
-Riksadvokaten (16.09.21).
-56
-Riksadvokaten (16.09.21) s. 8.
-55
+## Nærmere om enkelte sider ved påtalemyndighetens håndtering
+
+### Innledning
+
+Utvalget vil i det følgende drøfte enkelte sider ved påtalemyndighetens håndtering av gjenåpningsprosessen i Baneheia-saken. Det følger av mandatet at granskningen også omfatter påtalemyndighetens rolle.
+
+Agder politidistrikts håndtering av voldtektsanmeldelsen av Jan Helge Andersen i 2009 er tema i punkt 12.4.2. I punkt 12.4.3 vurderer utvalget Agder statsadvokatembeters tilsvar til Viggo Kristiansens femte gjenåpningsbegjæring. I punkt 12.4.5 vurderes til sist påtalemyndighetens håndtering av et krav om dokumentinnsyn fra Kristiansen.
+
+### Voldtektsanmeldelsen mot Jan Helge Andersen i 2009
+
+I juni 2021 mottok Oslo politidistrikt – som etterforsket Baneheia-saken etter at Viggo Kristiansens sak ble gjenåpnet av Gjenopptakelseskommisjonen februar samme år – et tips om at Jan Helge Andersen skulle ha begått et overgrep mot en navngitt person. Politiet undersøkte opplysningene, men kunne ikke finne tilgjengelig informasjon som belyste tipset. Ved nye søk i oktober 2021 fant Oslo politidistrikt ut at Andersen i 2009 ble anmeldt for seksuell omgang med barn under 14 år, jf. straffeloven (1902) § 195. Saken var skjermet, og Oslo politidistrikt hadde ikke tilgang til sakens detaljer. Den 22. oktober 2021 ba de Agder politidistrikt om tilgang til saken.
+
+Det viste seg at Andersen i 2009 – mens Kristiansens første gjenåpningsbegjæring var under behandling hos Gjenopptakelseskommisjonen – ble anmeldt for en voldtekt som skal ha funnet sted forut for drapene i Baneheia. Anmeldelsen ble inngitt 6. april 2009 og gjaldt en voldtekt som ifølge anmelder ble begått av Andersen da han var 13 år. Anmelder var selv 11 år på gjerningstidspunktet.
+
+Saken ble etterforsket av Agder politidistrikt. Foruten avhøret av anmelder ble det tatt avhør av Andersen og innhentet flere legeerklæringer. Påtaleansvarlig jurist på saken var Ingrid Thorsen. Thorsen har vært samboer med Arne Pedersen, tidligere etterforskningsleder for Baneheia-saken, siden 1993, og de ble ektefeller i 2009.[^1637] Arne Pedersen var i 2009 sjef for felles kriminalenhet i Agder politidistrikt.[^1638]
+
+Saken ble henlagt i november 2009 fordi Andersen, ifølge anmelders beskrivelse, var under den kriminelle lavalder på gjerningstidspunktet. Erstatningsnemnda for voldsofre tilkjente 19. mars 2013 anmelderen 200 000 kroner i voldsoffererstatning, da nemnda fant det «klart sannsynliggjort» at vedkommende hadde vært utsatt for en handling som ga rett til slik erstatning.[^1639]
+
+Saken ble skjermet i politiets saksbehandlingssystem Basisløsninger (BL),[^1640] i tråd med Agder politidistrikts gjeldende rutiner på dette tidspunktet. Det fremgikk av en straffesaksinstruks gjeldende fra 2003 at seksuelle overgrepssaker «skal skjermes».[^1641] Det var ikke instruksfestet at skjermingen skulle oppheves når saken var avsluttet,[^1642] og skjermingen ble ikke opphevet etter at saken var påtaleavgjort og skulle arkiveres.[^1643]
+
+Saken ble ikke gjort kjent for Gjenopptakelseskommisjonen, verken i 2009 eller i forbindelse med behandlingen av senere gjenåpningsbegjæringer. Heller ikke Agder statsadvokatembeter var kjent med anmeldelsen.
+
+Etter utvalgets syn hadde anmeldelsen klar relevans for gjenåpningsprosessen i Viggo Kristiansens sak, og det var svært uheldig at den ikke ble formidlet til Agder statsadvokatembeter og til Gjenopptakelseskommisjonen. Hvis anklagen stemte, innebar det at Andersen hadde en historikk knyttet til seksuallovbrudd som ikke var kjent fra tidligere. I byrettens dom fikk det derimot betydning i bevisvurderingen at *Kristiansen* tidligere hadde forgrepet seg på barn. Det er grunn til å tro at dette også ble tillagt vekt av lagretten da Kristiansen ble domfelt i lagmannsretten.
+
+Etter utvalgets syn var det også relevant for gjenåpningsspørsmålet at Andersen angivelig skulle ha skyldt på to venner for overgrepet, hvorav den ene var Kristiansen:
+
+«Fornærmede sier at da overgrepet var over, opplyste mistenkte at han var blitt truet av noen på skolen til å utføre det. Mistenkte nærmest skrek til \[fornærmede\] at det var en fra skolen som heter \[…\] som hadde truet han, og han sa også at Viggo Kristiansen skulle sjekke at siktede utførte overgrepet.»[^1644]
+
+Oppdagelsen av anmeldelsen i oktober 2021 ledet til en etterforskning hos Spesialenheten for politisaker som pågikk fra juni til oktober 2022. I det følgende gjengis de mest sentrale opplysningene som fremkom under etterforskningen.
+
+Agder politidistrikt ba 7. juni 2022 Spesialenheten for politisaker vurdere om det var grunnlag for etterforskning av politidistriktet eller noen av dets ansatte. I anmeldelsen ble det vist til at det hadde fremkommet informasjon i media med sterk kritikk av Agder politidistrikt og ansatte der.[^1645]
+
+Spesialenheten iverksatte etterforskning mot tidligere kriminalsjef Pedersen og Agder politidistrikt, med sikte på å avklare om straffeloven §§ 171 eller 172 om tjenestefeil hadde blitt overtrådt. Spesialenheten vurderte om Pedersen eller politidistriktet kunne straffes for at den aktuelle saken som ble anmeldt i 2009, ikke ble brakt til statsadvokatens og Gjenopptakelseskommisjonens kunnskap.[^1646]
+
+Sentralt i etterforskningen sto også omtalen av Andersen i statsadvokatens tilsvar 15. mai 2019 til den femte gjenåpningsbegjæringen. Denne omtalen bygget, som nevnt nedenfor i punkt 12.4.3, på Agder politidistrikts innstilling 20. mars 2019. Flere steder i tilsvaret er det gitt uttrykk for at Andersen ikke hadde noen historikk med seksuallovbrudd. For eksempel står det:
+
+«Det foreligger ingen opplysninger om at Andersen tidligere har forgrepet seg verken mot voksne eller barn, eller at han har opptrådt truende eller voldelig. Han er heller ikke omtalt av noen som aggressiv, seksuelt utagerende eller som spesielt opptatt av mindreårige barn.»[^1647]
+
+Videre står det:
+
+«Det er også en meget viktig del av bevisbildet at Jan Helge Andersen ikke hadde tilsvarende utagerende og seksualisert adferd eller slet med tilsvarende psykiske og sterkt adferdsmessige problemer som Kristiansen. Dette dokumenteres både i etterforskningsdokumentene, gjennom vitneførselen i de to rettsinstansene og i de rettspsykiatriske erklæringene.»[^1648]
+
+Sett i lys av anmeldelsen av Andersen fra 2009 var disse opplysningene uriktige og mangelfulle. Som det fremgår av punkt 12.4.3, ble innstillingen fra Agder politidistrikt i stor grad utarbeidet av Pedersen selv. På denne bakgrunn ble det etterforsket om Pedersen var klar over anmeldelsen fra 2009. Det var grunn til å undersøke om Pedersen fikk vite om anmeldelsen i 2009 eller senere, enten gjennom sin stilling som sjef for felles kriminalenhet i Agder politidistrikt eller gjennom sin ektefelle Ingrid Thorsen, som var påtaleansvarlig jurist på saken.
+
+I avhør 27. juni 2022 forklarte Pedersen at han ble kjent med anmeldelsen først i 2022, da den ble omtalt i mediene.[^1649]
+
+I Spesialenhetens påtalevedtak 26. oktober 2022 fremgår følgende om inngivelsen av anmeldelsen og hva Pedersen, ifølge etterforskeren som tok imot anmeldelsen, skal ha fått vite i den sammenheng:
+
+«Som omtalt ovenfor ble etterforsker Anita Kleveland kontaktet av \[anmelder\] i 2009, og det ble avtalt at \[anmelder\] skulle komme tilbake en annen dag for å avgi forklaring. Kleveland sa i Spesialenhetens avhør at hun tenkte ‘hva nå’, ettersom hun hadde jobbet med Baneheia-saken tidligere. Kleveland forklarte at hun da kontaktet Arne Pedersen. Dette var ikke en lang samtale, og Kleveland kan ikke huske det detaljert. Samtalen handlet om at \[anmelder\] ville anmelde han \[Andersen\] for voldtekt og om at hun spurte Pedersen om det var noe i veien for at hun tok imot anmeldelsen. Kleveland forklarte:
+
+‘Kleveland gikk inn til Arne Pedersen som da var krimsjef og leder påtale i Agder politidistrikt.
+
+Kleveland fortalte til Pedersen at \[anmelder\] ønsket anmelde Andersen for voldtekt. Pedersen sa at Kleveland kunne ta imot anmeldelsen og at anmeldelsen skulle leveres til han så snart den var ferdig.
+
+Kleveland tok opp anmeldelsen fra \[anmelder\] og etter at den var ferdig gjennomlest, så leverte hun denne til Pedersen, på hans kontor. Etter dette hadde Kleveland lite befatning med saken. Hun mener å huske at det var noen bistandsanmodning til avhør av Andersen og det er mulig hun leste avhøret, men hun er ikke sikker.’
+
+Det var en papirutgave av anmeldelsen som Kleveland leverte til ham, dette ble gjort da Pedersen var på kontoret. På spørsmål om hvorfor Pedersen ønsket anmeldelsen, forklarte Kleveland at hun oppfattet det som at han ville oversende den til statsadvokaten, noe hun selv hadde tenkt var fornuftig. Anita Kleveland ble overrasket over at Arne Pedersen i et intervju i 2022 har sagt at han ikke var klar over saken fra 2009, og dette gjorde at hun 23. mai 2022 kontaktet visepolitimester Arne Sundvoll.»[^1650]
+
+Pedersen ble foreholdt disse opplysningene i avhør 1. juli 2022, og han avga en tilleggsforklaring til Spesialenheten 7. juli 2022. Pedersen ga uttrykk for at det etterforskeren hadde forklart, var fullstendig ukjent for ham.[^1651] Pedersen uttalte i avhøret:
+
+«Han har prøvd å se om dette er noe han kan ha glemt, men klarer ikke erindre. Og hvis det hadde vært at han husket det Anita har forklart så ville han selvfølgelig sagt det i avhør hos Spesialenheten.
+
+Pedersen har ikke noen forklaring på hva som kan ha skjedd og kan kun spekulere om hvorfor han ikke erindrer, noe han helst ikke ønsker gjøre, men det kan være flere grunner.
+
+Han satt ofte med åpen dør og alle ansatte kunne komme innom kontoret, dette og for at ansatte som blitt sendt av sine ledere kunne avklare ting med han. Mulig han kan ha misoppfattet noe i Anitas kommunikasjon at han derfor ikke lagt vekt på det eller husker det.
+
+Mulig han der og da i 2009 ikke fikk med seg helt hva saken handlet om da hun kom på kontoret. Han skjønner heller ikke hvorfor han ville be Anita om å komme inn til kontoret med kopi av avhør. Hvis han hadde bedt om noe slik så ville det være naturlig å få all dokumentasjon i saken.»[^1652]
+
+I påtalevedtaket fremgår det videre at Pedersens ektefelle Ingrid Thorsen, som altså var påtaleansvarlig jurist på saken, behandlet denne saken på samme måte som andre saker med gjerningsperson under 15 år, det vil si med begrenset etterforskning. Det fremgår at hun antok at saken var oppe på saksmøte, og at det ble lagt til grunn opplysninger i anmeldelsen om at Andersen var under 15 år da overgrepet skal ha skjedd.[^1653]
+
+Når det gjaldt spørsmålet om hvorvidt Thorsen hadde snakket med Pedersen om saken, heter det i Spesialenhetens påtalevedtak:
+
+«Thorsen sa i avhøret at hun ikke snakket om 2009-saken med sin mann Arne Pedersen. Thorsen og Pedersen jobbet på samme sted gjennom mange år, og hun sa at de to har hatt et bevisst ryddig forhold til dette. Hun kunne gå inn til han i tjenestesammenheng, men saksrelatert har hun forholdt seg til sin påtaleleder. Det har ikke vært naturlig eller riktig for henne å ta opp konkrete saker med Pedersen. Thorsen presiserte at de to har prøvd å skille veldig på privat og arbeidsliv for å ha et fungerende liv. Pedersen var engasjert med jobbrelaterte saker på fritiden og var tilgjengelig, men de to snakket da ikke sak.
+
+Også Pedersen forklarte at de hadde en ordning om at de to ikke kan diskutere saker, og at hun må forholde seg til sin påtaleleder om dette. Pedersen har forklart at hans ektefelle Ingrid Thorsen ikke har nevnt 2009-saken for ham.»[^1654]
+
+Foruten å gjennomføre avhør innhentet Spesialenheten omfattende dokumentasjon. Det ble videre gjennomført undersøkelser av hendelseshistorikk, blant annet av hvordan den aktuelle saken hadde blitt skjermet i saksbehandlingssystemet BL.
+
+Straffeforfølgningen mot både Pedersen og Agder politidistrikt ble henlagt 26. oktober 2022 fordi intet straffbart forhold ble ansett bevist.[^1655] Den 27. oktober 2022 påklaget Kristiansen vedtaket. Riksadvokaten opprettholdt henleggelsen 2. februar 2023.[^1656]
+
+Riksadvokaten fremhevet at unnlatelsen av å opplyse om anmeldelsen mot Andersen var en så alvorlig feil at forholdet objektivt sett måtte anses som en tjenestefeil som rammes av straffeloven § 171 eller § 172. Straffansvar var imidlertid betinget av at Pedersen hadde utvist skyld – det vil si forsett eller uaktsomhet.
+
+Riksadvokaten vurderte først om det var bevismessig grunnlag for at Pedersen forsettlig unnlot å nevne saken fra 2009. Riksadvokaten uttalte at det var vanskelig å danne seg et klart bilde av hva Pedersen visste i 2009. Det var ikke grunn til å betvile etterforskerens forklaring om at hun informerte Pedersen om anklagen mot Andersen og senere overleverte en kopi av anmeldelsen. Samtidig var det ikke klare holdepunkter for at Pedersen satte seg grundig inn i saken, eller at han fikk nærmere kunnskap om den på et senere tidspunkt.[^1657] Det var heller ikke fremskaffet opplysninger som tilsa at Pedersen hadde en særlig sentral rolle i forbindelse med behandlingen av Kristiansens tidligere gjenåpningsbegjæringer. Etterforskningen hadde heller ikke fremskaffet opplysninger som motbeviste et vitnes forklaring om at det berodde på en administrativ feil at saken var blitt registrert på Pedersens brukeridentitet i BL, og at han mest sannsynlig ikke hadde hatt den fysiske saksmappen tilgjengelig. Ut fra BL-loggen hadde ikke Pedersen åpnet saken.
+
+På denne bakgrunn konkluderte riksadvokaten med at det ikke var grunnlag for å straffe Pedersen for forsettlig overtredelse av straffeloven § 171:
+
+«Etter riksadvokatens syn er det, ut fra de nevnte forhold, ikke bevist ut over enhver rimelig tvil at Pedersen forsettlig unnlot å nevne saken mot Jan Helge Andersen da Pedersen bistod med utarbeidelsen av politiets merknader til den siste gjenåpningsbegjæringen. Man kan ikke utelukke at Pedersen ikke nevnte dette forholdet på grunn av en forglemmelse. Riksadvokaten viser til at det ikke er godtgjort at Pedersen fikk inngående kjennskap til innholdet i anmeldelsen, verken i 2009 eller senere, og at saken heller ikke angikk de mest sentrale bevisspørsmålene som Kristiansens siste gjenåpningsbegjæring reiste.»[^1658]
+
+Etter riksadvokatens syn kunne forglemmelsen heller ikke medføre ansvar for grovt uaktsom overtredelse etter straffeloven § 172:
+
+«Terskelen for å konstatere slik uaktsomhet er høy – det må foreligge en ‘svært klanderverdig’ opptreden som gir grunnlag for ‘sterk bebreidelse’, jf. straffeloven § 23 annet ledd. Sett hen til uklarheten rundt hva Pedersen fikk med seg om anmeldelsen av Andersen i 2009, tiden som hadde gått frem til Kristiansens siste gjenåpningsbegjæring ble innlevert i 2017, og anmeldelsens relativt perifere tilknytning til de spørsmålene som begjæringen reiste, er ikke den høye terskelen for å konstatere grov uaktsomhet passert i vår sak.»[^1659]
+
+Riksadvokaten kom til at det heller ikke var grunnlag for å ilegge Agder politidistrikt foretaksstraff, jf. straffeloven §§ 27 og 28. Riksadvokaten tiltrådte Spesialenhetens vurdering om at Agder politidistrikts tidligere praksis med å arkivere saker med skjermet status var «svært uheldig», men kunne vanskelig se at svakhetene ved skjermingsrutinene skulle gi grunnlag for straff mot politidistriktet for håndteringen av gjenåpningsbegjæringen – ca. 10 år etter at det var besluttet skjerming av den aktuelle saken.
+
+Etter riksadvokatens syn var det også uheldig at det ikke ble gjort søk i politiets straffesaksregister STRASAK på Andersen i forbindelse med den siste gjenåpningsbegjæringen. Slike søk ville ha avdekket anmeldelsen fra 2009, ettersom det ikke forelå tilsvarende skjerming av opplysninger i STRASAK. Vurderinger av forhold som kunne tilsi at Andersen var en moduskandidat, inngikk i det materialet som politiet oversendte til statsadvokaten. Dette talte for at det burde ha vært gjort oppdaterte undersøkelser av om det var registrert saker på Andersen som ikke hadde blitt fanget opp tidligere.
+
+Ettersom den vesentligste årsaken til at det ble gitt ufullstendige og uriktige opplysninger til statsadvokaten, lå langt tilbake i tid, var det etter riksadvokaten syn ikke grunnlag for å konstatere at vilkårene i straffeloven § 27 var oppfylt. Tidsforløpet og den senere endringen av skjermingsrutinene tilsa under enhver omstendighet at det ikke var behov for å reagere med foretaksstraff, jf. straffeloven § 28.
+
+Utvalget tar til etterretning Spesialenhetens og riksadvokatens vurdering om at forholdet ikke utgjorde en straffbar tjenestefeil.[^1660] Uavhengig av dette mener utvalget at det var uheldig at påtalemyndigheten formulerte seg slik den gjorde i tilsvaret til den siste gjenåpningsbegjæringen. Det ble ikke uttrykt tvil, og det ble heller ikke tatt noen forbehold. Uttalelsen indikerte at påtalemyndigheten hadde positiv kunnskap om at det *ikke* forelå opplysninger om at Andersen tidligere hadde forgrepet seg verken mot voksne eller barn, noe som ikke var tilfellet. Før påtalemyndigheten uttalte seg om spørsmålet på den måten som ble gjort, burde det vært foretatt enkle undersøkelser av om det var registrert saker på Andersen, også i form av søk i STRASAK.
+
+### Agder statsadvokatembeters tilsvar til den femte gjenåpningsbegjæringen
+
+Som beskrevet i punkt 11.11.3.4, innga Agder statsadvokatembeter 15. mai 2019 tilsvar til den femte gjenåpningsbegjæringen.[^1661] Tilsvaret bygget på en innstilling fra Agder politidistrikt 20. mars 2019.[^1662] Statsadvokaten viste til innstillingen i sin helhet og refererte store deler av den i sitt tilsvar, med egne presiseringer i fet skrift. Agder statsadvokatembeter ba om at begjæringen ikke ble tatt til følge.
+
+I ettertid har det vist seg at Agder politidistrikts innstilling, og dermed det meste av statsadvokatens tilsvar, i det vesentlige var skrevet av Arne Pedersen. Pedersen var i sin tid påtalefaglig etterforskningsleder i Baneheia-saken. I 2019 var han pensjonist. Agder statsadvokatembeter var klar over at Agder politidistrikt engasjerte Arne Pedersen til å gjennomgå bevisene. Gjenopptakelseskommisjonen fikk derimot ikke vite om Pedersens involvering.
+
+Bakgrunnen for at Agder politidistrikt engasjerte Pedersen, var at ingen i Agder politidistrikt hadde god kunnskap om Baneheia-saken i 2018/2019. Utvalget er kjent med at Agder politidistrikt hadde en presset ressurssituasjon. Grunnet ressurssituasjonen ble det sett på som en umulig oppgave å nedsette et team som – uten forkunnskaper – ville måtte bruke betydelig tid på å behandle Kristiansens gjenåpningssak.
+
+Etter utvalgets syn er det flere uheldige sider ved statsadvokatens tilsvar. For det første vil utvalget påpeke at det innledningsvis i tilsvaret fremgår at de to statsadvokatene som hadde ansvaret for behandlingen av Kristiansens femte gjenåpningsbegjæring – Erik Erland Holmen og Jan Tallaksen – ikke tidligere hadde satt seg grundig inn i saken. Dette kunne gi inntrykk av at gjenåpningssaken ble behandlet med objektivitet og avstand til den opprinnelige etterforskningen. I lys av Pedersens sentrale rolle i arbeidet med grunnlaget for tilsvaret ble denne bemerkningen etter utvalgets syn misvisende:
+
+«Ved Agder statsadvokatembeter er det statsadvokat Jan Tallaksen og undertegnede som har arbeidet med gjennomgang av saksdokumenter og begjæring. Det var førstestatsadvokat Edward Dahl som var aktor i både byretten og lagmannsretten i Baneheiasaken, og verken Tallaksen eller undertegnede har tidligere satt oss grundig inn i saken.»[^1663]
+
+For det andre benyttes det i innstillingen flere uttrykk og språklige vendinger som samlet sett etterlater et inntrykk av at påtalemyndigheten ikke har behandlet domfeltes anførsler så saklig og objektivt som ønskelig. Språket er gjennomgående ladet og mange steder unyansert. Tonen er generelt polemisk og lite nøktern. Agder statsadvokatembeters egne merknader i tilsvaret er isolert sett noe mer avdempede i formen enn innstillingen fra Agder politidistrikt. På grunn av den fremgangsmåten som er valgt, der statsadvokaten viser til innstillingen i sin helhet, videreføres imidlertid svakhetene med hensyn til form og innhold fra innstillingen til tilsvaret.
+
+Som et eksempel vil utvalget peke på bruken av bastante formuleringer som «garanti for at han lyver» og «løgn», som blant annet fremgår i følgende passasje:
+
+«Alene det faktum at begge var i Baneheia i det kritiske tidsrommet denne fredagen er i seg selv en garanti for at han \[Kristiansen\] lyver når han hevder at han tok feil av de to kveldene. \[…\]
+
+Problemet for Kristiansen er allerede nå at observasjon som vitnet Rødsvik formidlet til politiet fører til at det oppkonstruerte alibiet for hans del begynner å rakne. Noe annet motiv for å endre forklaringen finnes ikke. \[…\] Dersom Kristiansen ikke hadde vært den andre gjerningspersonen hadde det derfor ikke vært nødvendig for han å prøve å bortforklare sine tidligere benektelser med en ny løgn.»[^1664]
+
+Et annet eksempel på slike unyanserte formuleringer er omtalen av at Kristiansen inviterte vitnene Espen Bakke og Eivind Loland på besøk til seg kvelden 19. mai 2000:
+
+«Kristiansen inviterer dem altså til å komme over på besøk rett etter at han og Andersen hadde kommet tilbake fra Baneheia etter ugjerningene. Noen annen plausibel forklaring på at dette er motivert ut ifra behovet for å styrke et oppkonstruert alibi, er det ikke mulig å se.»[^1665]
+
+Det brukes også sterke ord om det forhold at Kristiansen fastholdt at Andersen kom hjem til ham 19. mai 2000 kl. 19.30:
+
+«Det blir derfor både selvmotsigende og meningsløst å holde fast ved dette avtalte tidspunktet i alibiet, og det er bare Kristiansen som gjerningsperson som har behov for løgnen.»[^1666]
+
+Utvalget bemerker at også Kristiansens forsvarere tidvis har uttrykt seg skarpt og forholdsvis bastant i forbindelse med gjenåpningsprosessen. Kravene til objektivitet med hensyn til form og innhold må imidlertid ivaretas av påtalemyndigheten, også i tilfeller hvor domfelte eller domfeltes advokat legger seg på en konfronterende linje.
+
+For det tredje har utvalget merket seg at tilsvaret er relativt kortfattet om sakens sentrale problemstillinger. Vurderingstemaet ved gjenåpning etter straffeprosessloven § 391 nr. 3 er om det foreligger en ny omstendighet eller et nytt bevis som synes egnet til å føre til frifinnelse. De sentrale anførslene i gjenåpningsbegjæringen var knyttet til DNA, teledata og Andersens forklaring. Tilsvaret behandler i liten grad de anførte forholdene og vilkårene for gjenåpning. Store deler av uttalelsen – 41 av 55 sider – vies derimot til Kristiansens karakter og indisier av varierende vekt.
+
+For det fjerde vil utvalget peke på at det flere steder i tilsvaret gis positivt uriktige opplysninger om faktiske forhold. Det kanskje mest alvorlige eksemplet på dette er uttalelsen om at det ikke fantes opplysninger som tilsa at Andersen hadde en historikk med seksuallovbrudd. De aktuelle uttalelsene er gjengitt i punkt 12.4.2 foran. Som det fremgår der, er utvalget kritisk til at påtalemyndigheten uttalte seg så bastant om dette spørsmålet, uten at det først ble foretatt nærmere undersøkelser.
+
+Et annet eksempel på at det gis uriktige opplysninger, samtidig som formen ikke er så nøktern som ønskelig, er følgende omtale av Kristiansens forklaring:
+
+«Videre i avhøret hevder Kristiansen at han hadde ‘glemt’ at han hadde vært i Baneheia om kvelden 19.mai – til tross for at han meget bestemt hadde nektet for å ha vært der både under rundspørringen 22. mai og i alibiavhøret 4. juni. Han prøver så å bortforklare og ufarliggjøre ‘forglemmelsen’ med at han trodde de hadde møtt Rødsvik kvelden før. Han ‘glemmer’ også at han i forrige avhør hadde sagt at han ikke visste om Andersen hadde vært i Baneheia før han kom på besøk. Han sier heller ikke noe her om at han denne kvelden hevdet å ha låst seg ute fra bua si, og at han derfor skal ha syklet inn i Baneheia for å treffe Andersen for å låne hans nøkler til å åpne bua.»[^1667]
+
+Det er ikke korrekt at Kristiansen «meget bestemt hadde nektet» for å ha vært i Baneheia under rundspørringen. Ut fra rundspørringsskjemaet fremkommer det ikke at Kristiansen fikk spørsmål om han var i Baneheia, se nærmere i punkt 3.5.3. Det fremgår heller ikke av avhørsprotokollen fra avhøret 4. juni 2000 at Kristiansen skal ha nektet å svare på spørsmål om han var i Baneheia 19. mai 2000, se punkt 3.5.4.1. På dette tidspunktet hadde ikke politiet grunn til å mistenke at Kristiansen hadde vært i eller ved Baneheia fredag 19. mai 2000. Denne mistanken oppsto først i juli samme år etter avhør av Leonard Hovden, jf. punkt 3.5.9.
+
+Et ytterligere eksempel på at det gis uriktige opplysninger i tilsvaret, fremgår under omtalen av Andersens troverdighet:
+
+«Det kan være flere grunner til at Andersen ikke husker eller ønsker å huske at det var den minste jenta han forgrep seg på. Han holdt jo også sin egen deltagelse i overgrepene for seg selv inntil han tok initiativ for å forklare seg om temaet i avhør 26.10.00. Men uansett hva Sjødin hevder gjennom sine angrep på etterforskningsledelsen og Andersens troverdighet, så kan følgende faktum legges til grunn: Forklaringen Andersen til slutt avgir om at det var den minste jenta han forgrep seg på sammen med Kristiansen, stemmer med blandingsmaterialet funnet på henne fra to menn med deres forskjellige DNA-typer, med enda sikrere funn av hans DNA på den minste jenta ved reanalysen i 2010, med at Andersens DNA-type ikke er funnet på den eldste jenta mens det derimot fra henne er gjort funn fra sædrester som kan stamme fra Kristiansen.»[^1668]
+
+At Andersen tok initiativ til å forklare seg om de seksuelle overgrepene, er en misvisende fremstilling av hva som faktisk skjedde. Andersen forklarte seg om dette først da han ble konfrontert med det politiet mente var biologiske spor som knyttet ham til seksuelle overgrep, jf. punkt 3.8.1.4.
+
+Det var videre villedende å si at det var funnet sædrester som kunne stamme fra Kristiansen. Det var ikke mulig å si noe om hva slags celletype DNA-resultatet fra prøve C-25 stammet fra, se punkt 3.8.6. I tilsvaret gjentas denne uriktige opplysningen flere ganger.[^1669] I tillegg inneholder tilsvaret en uriktig fremstilling av undersøkelses- og analysehistorikken for prøve C-25. Det fremgår blant annet at «sæddelen» av prøven ble undersøkt og «oppbrukt» av Universitetet i Santiago de Compostela (USC) i 2000. Andre uttrykk som benyttes, er blant annet «C-25 prøven fra sæd» og «sædprøven». Som beskrevet under punkt 3.8.6 ble ikke prøve C-25 – i motsetning til det som ble gjort for prøvene B-22, B-24 og B-25 – ekstrahert i én sædfraksjon og én epitelfraksjon ved Rettsmedisinsk institutt (RMI). Prøven som ga resultat ved USC, var videre ikke RMIs ekstrakt, men ekstraktet som USC laget fra vattpinneresten de mottok, se punkt 3.8.6.5. Det var dette ekstraktet som ble «oppbrukt» i år 2000.
+
+### Krav om dokumentinnsyn
+
+Det fremgår av mandatet at utvalget skal klarlegge og vurdere «om forsvarerne har fått tilgang til dokumenter og opplysninger om etterforskningen i saken i rett tid i henhold til straffeprosesslovens regler».
+
+Straffeprosessloven § 398 femte ledd regulerer retten til dokumentinnsyn i gjenåpningssaker. Første punktum slår fast: «Om dokumentinnsyn gjelder §§ 28, 242, 242 a, 264, 264 a og 267 tilsvarende». Regelen viderefører det som gjaldt før opprettelsen av kommisjonen, og innebærer som utgangspunkt at de alminnelige innsynsreglene i straffeprosessen for domfelte og fornærmede/etterlatte, samt deres forsvarer/bistandsadvokat, også gjelder overfor kommisjonen i gjenåpningssaker.
+
+Om forståelsen av regelen vises det til NOU 2024: 24 *Prøvd på nytt* punkt 8.5.1 og 21.6. Kommisjonen har praktisert bestemmelsen slik at det opereres med et skille mellom kommisjonens egne saksdokumenter og straffesaksdokumenter innhentet fra påtalemyndigheten. Etter denne praksisen har påtalemyndigheten behandlet begjæringer om innsyn som gjelder straffesaksdokumentene og eventuelle interne politidokumenter.[^1670]
+
+Under gjenåpningsprosessen ba advokat Sigurd Klomsæt om innsyn i alle dokumentene i saken. Utvalget har merket seg at Klomsæt oppfattet det slik at han likevel ikke fikk utlevert samtlige dokumenter.[^1671]
+
+I brev til Agder statsadvokatembeter 2. juli 2010 listet Klomsæt opp dokumenter han mente manglet. Listen var ikke uttømmende:
+
+«– Videoopptak av ransakningene av Viggo Kristiansens bu og Jan Helge Andersens bopel, foretatt i juli 2000 i forbindelse med gjenopptakelse av kikkersaken.
+
+– Diverse videoopptak av vitner.
+
+– Videoopptak av åstedet.
+
+– Bilder av så å si samtlige vitner som befant seg i Baneheia drapskvelden.
+
+– Ca. 80 sider utskrift av inn- og utgående trafikk på Viggo Kristiansens og Jan Helge Andersens telefoner, i en tremåneders periode. Utelatt fra dokumentene – hva er skrevet – fordi en Kripos-medarbeider mente det ikke tilførte saken noe vesentlig nytt –?
+
+– Kart over vitners bevegelser i Baneheia 19. mai 2000, som er utarbeidet med 30 minutters intervall.
+
+– Notat/betenkning/begrunnelse for grunnlaget for siktelsen av Viggo Kristiansen.
+
+– Spaningsrapportene for overvåkningen av Viggo Kristiansen og Jan Helge Andersen de siste døgn før pågripelsen.
+
+– Pågripelsespapirer etc. i forbindelse med \[vitne\].
+
+– dokumentasjoner – DNA»[^1672]
+
+I sitt svar 17. august 2010 understreket politidistriktet at Klomsæt hadde fått full tilgang til dokumentene. Videre ga politidistriktet uttrykk for at Klomsæts «partsrepresentasjon» for Kristiansen nå var opphørt, fordi gjenåpningssaken var avgjort. Politidistriktet trakk også frem hensynet til de etterlatte:
+
+«I brev av 25. juni d.å. behandlet kommisjonen domfelte Viggo Kristiansens begjæring om omgjøring av avvisningsbeslutningen av 17. juni, samt Deres nye anmodning om oppnevnelse av Dem selv og adv. Sjødin som forsvarere for Viggo Kristiansen. Begge deler ble avvist av kommisjonen. Det innebærer at den offentlige partsrepresentasjonen som De skulle ivareta gjennom forsvareroppnevnelsen har opphørt. Tross dette registreres det at innspillene fortsetter som om forsvareroppnevnelsen fortsatt står ved lag
+
+Når saken nå har fått sin endelige avslutning gjennom de ‘ankeinstansene’ som er tilgjengelig i vårt rettssystem, anser vi saken som endelig avgjort. Det er kommisjonen som er rette instans i forhold til det vi nå registrerer av omkamper fra Dem og adv. Sjødin – selv om det tematisk sett ikke presenteres noe nytt med substans som har relevans for saken.
+
+For de pårørende har hele gjenopptakelsesprosessen, som startet for nærmere 2 år siden, vært en enorm belastning. Det er etter vår mening uakseptabelt at de etterlattes rettigheter som ofre i saken ikke skal bli respektert når det nå foreligger en endelig avklaring av gjenåpningskravet.»[^1673]
+
+For utvalget er det uklart hva som var Agder politidistrikts grunnlag for å hevde at Klomsæts representasjon av Kristiansen var opphørt fordi gjenåpningssaken var avgjort, eller fordi det ikke forelå noen offentlig forsvareroppnevnelse. Slik utvalget ser det, hadde ingen av disse forholdene betydning for advokat–klient-forholdet mellom Klomsæt og Kristiansen.
+
+Til tross for at politidistriktet mente at Klomsæts representasjon for Kristiansen var opphørt, kommenterte de likevel de enkelte punktene i innsynskravet:
+
+«\* Avslutningsvis skal det gis følgende kommentarer til noe av det De omtaler som utleveringskrav i skriv av 2. juli d.å. til statsadvokatene i Agder:
+
+\* Agder politidistrikt sitter ikke på videoopptak av vitner som ble avhørt i saken.
+
+\* Bilder av vitner (innhentet gjennom skriftlig samtykke) som var tenkt benyttet i våre bestrebelser på å identifisere observasjoner av enkeltpersoner i Baneheia drapskvelden, ble destruert etter hvert som de ikke hadde relevans for etterforskningen. Dette var også forutsetningen ved samtykkeerklæringene. Det kan godt være at teknikerne fra Kripos rutinemessig tok videoopptak fra ransakingene de deltok i og av drapsstedet – til bruk for Åsteds- og undersøkelsesrapport del 1 og del 2 som ble produsert i Kripos. Alt materiale som ble sikret eller produsert av teknikere i saken ble sortert og tatt med tilbake til kripos i det påfølgende arbeidet. Eventuelle opptak ble derfor ikke registrert eller oppbevart her av etterforskningsledelsen.
+
+\* Vi sitter ikke på en 80 siders utskrift av inn- og utgående trafikk fra de to dømtes telefoner. Innhentingen av telefondata og hva som er analysert trafikkdata er dokumentført i saken
+
+\* Vi besitter ikke noen kart over bevegelsene i Baneheia drapskvelden. Det ble ‘blåst opp’ et kartutsnitt som et (av flere) hjelpemiddel hvor det ble fysisk plottet inn registrerte bevegelser av personer i våre bestrebelser på å identifisere gjerningspersonene. Kart/tabeller over vitners bevegelser med 30 minutters intervaller var en del av analysearbeidet i saken. Dette ble som de De antar å vite gjort av en tidligere analytiker i Kripos. Agder politidistrikt besitter ikke dette materialet.
+
+\* Det har aldri eksistert noen egen spaningsrapport forut for pågripelsene.
+
+\* Undertegnende produserte aldri noe eget notat/betenkning i forbindelse med at det ble utstedt en siktelse mot Viggo Kristiansen.
+
+\* Det ble ikke foretatt noen pågripelse av \[…\]: han hadde vitnestatus i saken.
+
+\* DNA-ekstraktene/diagrammene som RMI har analysert i saken, har også vært gjenstand for behandling i kommisjonen. Det ble jo som kjent foretatt et utvalg fra materialet som kommisjonen fikk analysert på nytt hos SKL i Sverige. Det er med andre ord innhentet en ‘second opinion’ når det gjelder RMI’s analyse av materialet – på Deres anmodning før kommisjonen avsluttet saken.
+
+\* Den såkalte gjerningsprofileringsgruppen, som var et prøveprosjekt i Kripos når vi fikk drapene i Baneheia, ble på forespørsel gitt anledning til å følge saken i et læringsperspektiv. Det ble ikke gitt noe oppdrag eller mandat til gruppen og etterforskningsledelsen ble heller ikke gitt noen form for informasjon – verken muntlig eller skriftlig – om hvilke synspunkter/Konklusjoner de eventuelt teoretiserte seg frem til etter hvert som saken utviklet seg. Det blir derfor meningsløst å fremsette feilaktige og udokumenterte påstander om at politidistriktet nektet å motta noe fra prosjektgruppen for at dette ikke skulle bli en del av sakens dokumenter!»[^1674]
+
+I det følgende vil utvalget knytte enkelte bemerkninger til noen av punktene i svaret fra Agder politidistrikt:
+
+Utvalget bemerker at det i realiteten fantes et videoopptak fra åstedet, slik Klomsæt hadde lagt til grunn. Utvalget har fått tilgang til dette gjennom Oslo politidistrikt, og etter det opplyste ble dette opptaket overlevert fra Kripos. Det kan derfor stemme at Agder politidistrikt ikke var i besittelse av videoopptaket i 2010. Videopptaket ble for øvrig avspilt under ankebehandlingen i Gulating lagmannsrett i forbindelse med den nye straffesaken mot Jan Helge Andersen.[^1675]
+
+Det fantes også en oversikt over inn- og utgående mobiltrafikk for Viggo Kristiansen. Etter pågripelsen innhentet politiet utgående trafikk seks måneder tilbake i tid fra 18. september samt inngående samtaler fra 5. mai 2000 til 2. juni 2000. Som det fremgår i punkt 4.6.4, ble denne oversikten ikke lagt inn i straffesakens dokumenter – noe som var i strid med straffeprosesslovens regler. I stedet lå de aktuelle teledataopplysningene lagret på politidistriktets lokale servere.[^1676] Ettersom opplysningene klart burde ha vært dokumentført høsten 2000, er det uheldig at forespørselen fra Klomsæt uten videre ble avvist. Det fremkommer ikke av brevet hva som ble gjort – om noe – fra politidistriktets side for å finne oversikten på politiets servere.
+
+Når det gjelder kart over vitners bevegelser i Baneheia 19. mai 2000, vil utvalget bemerke at det er riktig – som Agder politidistrikt skriver – at en analytiker fra Kripos lagde en slik oversikt. Analytikeren leste alle avhør og plottet tidspunkter og observasjoner inn i et Excel-skjema, som deretter ble konvertert til en tidslinje. Tidslinjen ble skrevet ut og hengt opp i politiets kontorer, jf. punkt 3.4.6. Excel-dokumentet lå i de interne dokumentene som utvalget har fått tilgang til fra Oslo politidistrikt. Etter det opplyste fikk Oslo politidistrikt tilgang til skjemaet på en harddisk med back-up fra Agder politidistrikts servere fra 2000-tallet. Skjemaet ble funnet på det private hjemmeområdet til en av etterforskerne som jobbet med Baneheia-etterforskningen.
+
+Utvalget har fått tilgang til rapporten fra spaningen i forkant av pågripelsen av Andersen og Kristiansen 13. september 2000. Også denne lå i Agder politidistrikts interne dokumenter, som utvalget har fått tilgang til fra Oslo politidistrikt. Det var følgelig uriktig, som Agder politidistrikt hevdet, at det aldri hadde eksistert noen slik rapport. Spaningen startet mandag 11. september 2000 og varte frem til pågripelsene onsdag 13. september. Rapporten fra spaningen er på fire Word-sider. Spaningsrapporten ble funnet samme sted som Excel-oversikten over bevegelser i Baneheia, altså på hjemmeområdet til en av etterforskerne som jobbet med Baneheia-etterforskningen.
+
+Etter utvalgets syn er det uheldig at det ble gitt dels uriktige og dels mangelfulle opplysninger fra Agder politidistrikt som svar på innsynskravet. Etter det utvalget kjenner til, er det imidlertid ikke holdepunkter for at det bevisst ble gitt uriktige opplysninger fra politidistriktets side.
+
+## Forsvarernes og bistandsadvokatenes rolle
+
+Advokat Sigurd Klomsæt ble engasjert av Viggo Kristiansen 30. april 2008 for å bistå med den første gjenåpningsbegjæringen.[^1677] Klomsæt presenterte begjæringen for pressen på Agder journalistlags sommerkonferanse 6. september 2008. Klomsæt var Kristiansens forsvarer frem til han fikk tilbakekalt sin advokatbevilling i august 2012. Etter at han fikk tilbake advokatbevillingen høsten 2014, bisto han igjen Kristiansen sammen med Arvid Sjødin til juni 2016. Til sammen har Klomsæt bistått Kristiansen i forbindelse med tre gjenåpningsbegjæringer og én begjæring om omgjøring, i tillegg til det sivile søksmålet mot Gjenopptakelseskommisjonen.
+
+Utvalget mener at Klomsæt gjorde en god jobb med å påvise svakhetene ved domfellelsen av Kristiansen, både ved å peke på informasjon i det opprinnelige etterforskningsmaterialet og ved å innhente ny sakkyndighet om blant annet DNA. Som det fremgår i punkt 12.2, mener utvalget at grunnlaget for gjenåpning forelå i juni 2011, i og med Forensic Science Services (FSS) og GENAs rapporter. Slik utvalget ser det, forelå dermed det vesentlige av grunnlaget for gjenåpningen i de tre første gjenåpningsprosessene, da Klomsæt var engasjert som Kristiansens forsvarer. Det var Klomsæt – gjennom innhentet DNA-sakkyndighet – som påviste at premisset om to gjerningsmenn var uriktig. Gjennom sin forsvarergjerning har Klomsæt vært helt sentral for gjenåpningen av Baneheia-saken og at den uriktige domfellelsen av Viggo Kristiansen ble avdekket.
+
+Advokat Arvid Sjødin var noe involvert i gjenåpningsprosessen fra sommeren 2010 og overtok som forsvarer for Viggo Kristiansen i november 2012, da Klomsæt fikk tilbakekalt sin advokatbevilling.[^1678] Sjødin bisto deretter Kristiansen med avslutningen av den tredje gjenåpningsprosessen, som endte med avslag 11. desember 2013. Deretter bisto Sjødin ved den fjerde og den femte gjenåpningsprosessen, frem til gjenåpningen 18. februar 2021. Han var også Kristiansens forsvarer under den nye etterforskningen og frem til frifinnelsen 15. desember 2022. Sjødin trakk seg som Kristiansens forsvarer 27. januar 2023.[^1679]
+
+Sjødin knyttet til seg flere personer som bisto i arbeidet med Kristiansens femte gjenåpningsbegjæring og den påfølgende prosessen som ledet frem til gjenåpning i 2021. Den femte begjæringen var velskrevet og stringent i formen. Det samme gjaldt de fleste av de øvrige skriftlige innleggene i den påfølgende prosessen. Sjødin og støttespillerne videreførte Klomsæts arbeid og lyktes i å kommunisere til kommisjonens flertall at vilkårene for gjenåpning var oppfylt.
+
+Mens den femte gjenåpningsbegjæringen var til behandling i kommisjonen, pågikk for første gang en kritisk offentlig samtale om domfellelsen av Kristiansen i Baneheia-saken. To særlig viktige bidrag var Bjørn Olav Jahrs bok *Drapene i Baneheia. To historier. En sannhet* og Discovery Plus’ og Monsters TV-dokumentar *Baneheia – kampen om sannheten*. Utvalget ser ikke bort ifra at den kritiske oppmerksomheten om saken kan ha påvirket behandlingen i Gjenopptakelseskommisjonen.[^1680]
+
+Bistandsadvokatene har, særlig mot slutten av gjenåpningsprosessen, hatt en aktiv rolle. Bistandsadvokatene har på vegne av sine klienter motsatt seg gjenåpning av saken. I NOU 2024: 24 *Prøvd på nytt* punkt 19.4 drøfter utvalget bistandsadvokaters rolle i saker for Gjenopptakelseskommisjonen på generelt grunnlag.
+
+Del V
+
+Læringspunkter og tiltak
+
+# Læringspunkter og tiltak for å forhindre uriktige domfellelser
+
+## Innledning
+
+I mandatet heter det innledningsvis at utvalget skal «identifisere eventuelle læringspunkter for å redusere risikoen for uriktige domfellelser i fremtiden». Senere i mandatet presiseres det at utvalget, «basert på sin gjennomgang og de funn som avdekkes, \[skal\] foreslå endringer i dagens regelverk, rutiner, praksis, utdanning og opplæring etc. som anses nødvendig». Selv om hensikten med endringene skal være å redusere uriktige domfellelser, «må \[utvalget\] også drøfte eventuelle sammenhenger med andre verdier og hensyn som ligger til grunn for straffesaksbehandlingen». Mandatet slår også fast at formålet med granskningen ikke er å utpeke enkeltpersoner som er ansvarlige for feil, men «å sørge for at alle sider av saken blir grundig vurdert for å kunne ta lærdom av den». Læringspunkter og tiltak står dermed sentralt i utvalgets arbeid.
+
+Utvalget har identifisert en rekke læringspunkter og tiltak, som presenteres i det følgende. I punkt 13.2 fremheves og presiseres betydningen av en konsekvent håndheving av objektivitetskravet i alle ledd i straffesaksbehandlingen. Utvalget presenterer i denne forbindelse forslag til tiltak og kontrollmekanismer for å forebygge den såkalte bekreftelsesfellen. I punkt 13.3 understrekes betydningen av en konsekvent håndheving av det strafferettslige beviskravet. Utvalget går inn for å lovfeste beviskravet. I punkt 13.4 drøfter utvalget sentrale retningslinjer og prinsipper for bevisvurdering. Det foreslås at grunnkrav til bevisvurderingen skal fremgå direkte av loven. Utvalget tar også til orde for at det skal gis mer opplæring i bevisbedømmelse. I punkt 13.5 fremhever utvalget betydningen av kunnskap om straffeprosessuelle rammer for bevisvurdering, og det foreslås å endre lovens krav til begrunnelse av fellende dommer. I punkt 13.6 foreslås klarere rammer for legdommeres deltakelse i straffesaker, og det gis i denne forbindelse anbefalinger om hvordan domskonferanser bør gjennomføres.
+
+Forsvarlig lagring av bevis og sikring av notoritet er tema i punkt 13.7. Blant tiltakene som foreslås, er en utvidelse av politiets adgang til å oppbevare beslaglagt bevismateriale etter at saken er avsluttet. Utvalget gir også enkelte anbefalinger i forbindelse med den ventede revisjonen av lovreglene om lyd- og bildeopptak av straffesaker. I punkt 13.8 foreslår utvalget flere tiltak knyttet til bruk av DNA i straffesaksbehandlingen. Behovet for solide nasjonale fagmiljøer, klare retningslinjer og mer opplæring for aktørene i rettspleien er blant tiltakene som trekkes frem. I punkt 13.9 drøftes ulike spørsmål knyttet til oppbevaring av spormateriale fra DNA og annet biologisk materiale. I punkt 13.10 foreslår utvalget tiltak for å styrke sakkyndighet innen rettspatologi i straffesaksbehandlingen og sikre at det gjøres rettsmedisinske undersøkelser av lik på åstedet i drapssaker. I punkt 13.11 gjøres det til sist noen presiseringer og avklaringer av påtalemyndighetens adgang til å meddele straffesaksopplysninger til offentligheten.
+
+## Konsekvent håndheving av objektivitetskravet i alle ledd i straffesaksbehandlingen
+
+### Innledning
+
+Konsekvent håndheving av objektivitetskravet i alle ledd i straffesaksbehandlingen er helt sentralt i straffesaker. For å sikre at kravet etterleves, er det viktig at aktørene har en god forståelse av denne kjerneforpliktelsen. I tillegg er det avgjørende at det finnes effektive kontrollmekanismer, slik at beslutninger som er truffet i straffesaksbehandlingen, vurderes av andre enn den som tok beslutningen i første hånd.
+
+I punkt 13.2.2 redegjøres det for objektivitetskravet. I punkt 13.2.3 er spørsmålet hva som ligger i fenomenet «bekreftelsesfellen». Utvalget peker deretter på mekanismer som er egnet til å forebygge bekreftelsesfeller. I punkt 13.2.4 til 13.2.6 fremsettes forslag til tiltak for å sikre at kravet til objektivitet ivaretas i henholdsvis politiet, påtalemyndigheten og domstolene.
